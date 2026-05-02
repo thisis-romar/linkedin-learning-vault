@@ -85,12 +85,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use SQL with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980)
+#### [Use SQL with Python](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980&t=0)** - [Bill] Hi, I'm Bill Weinman and welcome to Using SQL with Python.
+> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980&t=0)** - [Bill] Hi, I'm Bill Weinman and welcome to Using [[SQL]] with [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980&t=5)** The goal of this course is to provide you with a working understanding of how to use SQL with Python.
 >
@@ -102,20 +101,19 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980&t=33)** And finally, we'll build a C.R.U.D. class and a full featured web application using what you've learned.
 >
-> **[0:40](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980&t=40)** Python is a powerful language for database applications and its DB-API interface is an excellent tool for using SQL.
+> **[0:40](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980&t=40)** Python is a powerful language for [[Database Applications]] and its DB-API interface is an excellent tool for using SQL.
 >
 > **[0:49](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980&t=49)** So let's get started with using SQL in Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (4), database (2), web application (1), [[Database Applications]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (4), [[Database Applications]] (1)
 > **Env Vars:** sql (5), api (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [bill] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,13 +127,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980&t=17)** The exercise files are organized into chapters which correspond with the chapters of the lesson videos.
 >
-> **[0:25](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980&t=25)** Each of the chapters contain Python files for following along with the exercises in that chapter.
+> **[0:25](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980&t=25)** Each of the chapters contain [[Python (Programming Language)|Python]] files for following along with the exercises in that chapter.
 >
-> **[0:33](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980&t=33)** The db folder contains example databases in SQLite format, and the SQL folder contains SQL commands for creating the example databases in both SQLite and MySQL.
+> **[0:33](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980&t=33)** The db folder contains example [[Databases]] in SQLite format, and the [[SQL]] folder contains SQL commands for creating the example databases in both SQLite and [[MySQL]].
 >
 > **[0:49](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980&t=49)** I'll be using PyCharm Community Edition as my development environment for demonstrating the exercises.
 >
-> **[0:55](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980&t=55)** See the installation video for instructions on installing PyCharm on Windows or MacOS.
+> **[0:55](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980&t=55)** See the installation video for instructions on installing PyCharm on [[Windows]] or MacOS.
 >
 > **[1:03](https://www.linkedin.com/learning/using-sql-with-python/using-the-exercise-files?u=76281980&t=63)** The exercise files are here to make your learning experience easier and more powerful.
 >
@@ -150,14 +148,13 @@ created: 2026-05-02
 > **Tools:** pycharm (2)
 > **Speakers:** - [instructor] (1)
 
-#### What do you need for this course?
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980)
+#### [What do you need for this course?](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, there's a few things you'll need to know, and a few things you'll need to have.
 >
-> **[0:06](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=6)** You'll need a good knowledge of Python 3.
+> **[0:06](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=6)** You'll need a good knowledge of [[Python (Programming Language)|Python]] 3.
 >
 > **[0:09](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=9)** All of the examples are in Python 3.
 >
@@ -165,23 +162,23 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=26)** For more information about Python, please see my course, Python 3 Essential Training.
 >
-> **[0:31](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=31)** You'll need to understand SQL.
+> **[0:31](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=31)** You'll need to understand [[SQL]].
 >
 > **[0:34](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=34)** You don't need to have a lot of advanced SQL, we won't be using many advanced features.
 >
 > **[0:41](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=41)** You'll just need some basics.
 >
-> **[0:43](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=43)** You'll need to understand databases and tables, and some simple relational concepts.
+> **[0:43](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=43)** You'll need to understand [[Databases]] and tables, and some simple relational concepts.
 >
 > **[0:50](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=50)** For more information about SQL, please see my course [[SQL Essential Training]].
 >
-> **[0:55](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=55)** You'll need to understand how to install and manage software on your operating system, whether you're on Windows, Mac OS, Linux, or whatever, you should know how to get around, how to install software, and how store and find files in your file system.
+> **[0:55](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=55)** You'll need to understand how to install and manage software on your operating system, whether you're on [[Windows]], Mac OS, [[Linux]], or whatever, you should know how to get around, how to install software, and how store and find files in your file system.
 >
 > **[1:12](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=72)** You'll need the latest Python install.
 >
-> **[1:14](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=74)** You'll need the latest MySQL installed, or access to a MySQL server, and you'll need PyCharm or some other working editor for Python.
+> **[1:14](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=74)** You'll need the latest [[MySQL]] installed, or access to a MySQL server, and you'll need PyCharm or some other working editor for Python.
 >
-> **[1:24](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=84)** Python is a great language for database applications, and I look forward to showing you how to use it effectively for both systems and web applications.
+> **[1:24](https://www.linkedin.com/learning/using-sql-with-python/what-do-you-need-for-this-course?u=76281980&t=84)** Python is a great language for [[Database Applications]], and I look forward to showing you how to use it effectively for both systems and web applications.
 
 > [!info]- Semantic Content
 >
@@ -194,12 +191,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing the tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/installing-the-tools?u=76281980)
+#### [Installing the tools](https://www.linkedin.com/learning/using-sql-with-python/installing-the-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/installing-the-tools?u=76281980&t=0)** - [Instructor] To follow along with the exercises in this course, you'll need a working installation of Python with SQL Lite and MySQL.
+> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/installing-the-tools?u=76281980&t=0)** - [Instructor] To follow along with the exercises in this course, you'll need a working installation of [[Python (Programming Language)|Python]] with [[SQL]] Lite and [[MySQL]].
 >
 > **[0:10](https://www.linkedin.com/learning/using-sql-with-python/installing-the-tools?u=76281980&t=10)** You'll also need a working development environment for Python.
 >
@@ -493,20 +489,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Python DB-API
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980)
+#### [The Python DB-API](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=0)** - [Instructor] Python uses a standard interface called DB-API to communicate with the database.
+> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] uses a standard interface called DB-API to communicate with the database.
 >
 > **[0:06](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=6)** The current version of the standard is DB-API 2.0, and you can find the full documentation for it here on the [python.org](https://python.org) website.
 >
-> **[0:18](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=18)** The purpose of the DB-API is to promote commonality among interfaces so that each database management system uses more or less the same code to access data from Python.
+> **[0:18](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=18)** The purpose of the DB-API is to promote commonality among interfaces so that each [[Database Management]] system uses more or less the same code to access data from Python.
 >
 > **[0:32](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=32)** The DB-API is feature complete, including support for all common relational database operations.
 >
-> **[0:39](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=39)** You'll need to use the SQL syntax specific for each specific DBMS.
+> **[0:39](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=39)** You'll need to use the [[SQL]] syntax specific for each specific DBMS.
 >
 > **[0:47](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=47)** This common interface includes a connection object for holding the credentials and parameters of the database connection, a cursor object for maintaining context in a sequence of query responses, common hooks for committing and rolling back transactions, and a common set of exceptions for catching errors from the DBMS.
 >
@@ -514,7 +509,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=79)** SQLite requires only a file name as the database is entirely contained in one file.
 >
-> **[1:26](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=86)** Client server databases require more connection information and usually some security credentials.
+> **[1:26](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=86)** Client server [[Databases]] require more connection information and usually some security credentials.
 >
 > **[1:33](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=93)** Cursors in the DB-API serve two purposes.
 >
@@ -526,11 +521,11 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=116)** This allows you to use placeholders in a query, provides automatic sanitation of parameters and significant performance improvements.
 >
-> **[2:06](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=126)** The rest of this chapter provides simple examples of connecting to a database and executing SQL statements in both SQLite and MySQL.
+> **[2:06](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980&t=126)** The [[Representational State Transfer (REST)|rest]] of this chapter provides simple examples of connecting to a database and executing SQL statements in both SQLite and [[MySQL]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), api (6), [[Python (Programming Language)|Python]] (3), [[SQL]] (2), management (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[SQL]] (2), [[Database Management]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (6), dbms (3), sql (2)
 > **CLI Commands:** python (3), find (1), mysql (1)
 > **URLs:** [python.org](https://python.org) (1)
@@ -538,12 +533,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980)
+#### [Creating a connection](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=0)** - [Narrator] The first step in using the Python DB-API is to connect to the database.
+> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=0)** - [Narrator] The first step in using the [[Python (Programming Language)|Python]] DB-API is to connect to the database.
 >
 > **[0:06](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=6)** This is db-connect.py from chapter one of the exercise files.
 >
@@ -557,7 +551,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=40)** And so you'll usually get a file name there.
 >
-> **[0:42](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=42)** In this case I'm using the word memory enclosed in colons to get the special SQLite in memory database.
+> **[0:42](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=42)** In this case I'm using the [[Microsoft Word|word]] memory enclosed in colons to get the special SQLite in memory database.
 >
 > **[0:51](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=51)** And it operates just the same as if I had specified a database file, except that there's no file involved, it's just in memory.
 >
@@ -579,7 +573,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=93)** And so down here, I have an execute method off the cursor object, and that submits a query to the database and returns a row of results as a tuple.
 >
-> **[1:43](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=103)** And so, in this case, I'm passing it this bit of SQL here, which just says, it's just a select statement that selects a value with the special function that's specific to SQLite, sqlite_version.
+> **[1:43](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=103)** And so, in this case, I'm passing it this bit of [[SQL]] here, which just says, it's just a select statement that selects a value with the special function that's specific to SQLite, sqlite_version.
 >
 > **[2:00](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=120)** And this just returns the version number of the SQLite interface as an element in a row.
 >
@@ -597,7 +591,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=168)** So this looks pretty simple, right?
 >
-> **[2:52](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=172)** And what's cool about this is it works almost exactly the same for MySQL or for any database.
+> **[2:52](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=172)** And what's cool about this is it works almost exactly the same for [[MySQL]] or for any database.
 >
 > **[3:00](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=180)** So I'm just going to change this import and I'm going to mysql.connector, and we'll say as mysql so I don't have to type all of that out every time.
 >
@@ -649,11 +643,11 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=303)** And it prints out that 8.0.23, which is the version of the server that I'm running on Pluto.
 >
-> **[5:08](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=308)** So as you can see, Python's DB-API makes it easy to connect to a variety of different relational database systems with virtually the same code.
+> **[5:08](https://www.linkedin.com/learning/using-sql-with-python/creating-a-connection?u=76281980&t=308)** So as you can see, Python's DB-API makes it easy to connect to a variety of different relational [[Database Systems]] with virtually the same code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), [[MySQL]] (10), [[Python (Programming Language)|Python]] (4), [[SQL]] (4), api (2)
+> **Frameworks & Libraries:** [[MySQL]] (10), [[Python (Programming Language)|Python]] (4), [[SQL]] (4), [[Microsoft Word|Word]] (1), [[Database Systems]] (1)
 > **CLI Commands:** mysql (10), python (4), sqlite3 (4)
 > **Env Vars:** sql (4), api (2), f10 (1)
 > **Versions:** 3.34.0 (1), 8.0.23 (1)
@@ -662,12 +656,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Simple queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980)
+#### [Simple queries](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=0)** - [Instructor] Let's look at some simple queries that fetch rows from a table.
+> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=0)** - [Instructor] Let's look at some simple queries that [[Fetch]] rows from a table.
 >
 > **[0:04](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=4)** This is database.query.py from Chapter One of the exercise files.
 >
@@ -675,11 +668,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=16)** So you notice that I'm running this in the Chapter One folder in the exercise files and there's a DB folder in the same exercise files that has these .db files.
 >
-> **[0:28](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=28)** These .db files are SQLite databases.
+> **[0:28](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=28)** These .db files are SQLite [[Databases]].
 >
 > **[0:33](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=33)** SQLite stores an entire database in one platform-independent file.
 >
-> **[0:38](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=38)** The same file will work on a PC, it'll work on a Mac, it'll work on Linux, work on many, many different systems because the file itself is actually platform-independent, and that's the way the database is written.
+> **[0:38](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=38)** The same file will work on a PC, it'll work on a Mac, it'll work on [[Linux]], work on many, many different systems because the file itself is actually platform-independent, and that's the way the database is written.
 >
 > **[0:53](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=53)** And so this is one of the many reasons why SQLite3 is so convenient and so simple to use.
 >
@@ -687,13 +680,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=67)** You notice the whole file path ../db/scratch.db, that same string will work on both a PC and a Mac and Linux.
 >
-> **[1:18](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=78)** The PC, Windows, will normally use backslashes but it will optionally also understand these forward slashes.
+> **[1:18](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=78)** The PC, [[Windows]], will normally use backslashes but it will optionally also understand these forward slashes.
 >
 > **[1:27](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=87)** So this works just fine.
 >
 > **[1:29](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=89)** So the same piece of code works on all these different platforms.
 >
-> **[1:33](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=93)** We grab a cursor and then we execute some SQL.
+> **[1:33](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=93)** We grab a cursor and then we execute some [[SQL]].
 >
 > **[1:37](https://www.linkedin.com/learning/using-sql-with-python/simple-queries?u=76281980&t=97)** We drop the table if it already exists because this is just temporary table.
 >
@@ -767,7 +760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[SQL]] (4), [[Fetch]] (2), [[Linux]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Fetch]] (2), [[Linux]] (2), [[Databases]] (1), [[Windows]] (1)
 > **Env Vars:** sql (4)
 > **Exercise Files:** exercise files (4)
 > **CLI Commands:** sqlite3 (3)
@@ -776,12 +769,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** good practice (1)
 
-#### Prepared statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980)
+#### [Prepared statements](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=0)** - [Instructor] Prepared queries are a powerful tool in most relational database applications.
+> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=0)** - [Instructor] Prepared queries are a powerful tool in most relational [[Database Applications]].
 >
 > **[0:06](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=6)** Let's take a quick look at how this works.
 >
@@ -789,7 +781,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=14)** A prepared statement is a statement that is parsed once by the database engine and then used over and over even with different values.
 >
-> **[0:24](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=24)** Here, we're using MySQL and you notice I have MY_HOST, USER and PASSWORD as Constance that makes the connection line a lot cleaner.
+> **[0:24](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=24)** Here, we're using [[MySQL]] and you notice I have MY_HOST, USER and PASSWORD as Constance that makes the connection line a lot cleaner.
 >
 > **[0:34](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=34)** And then you notice that when I create my cursor, I have this option in here prepared=True.
 >
@@ -815,7 +807,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=110)** The database engine first compiles the query and runs its optimizations without the value.
 >
-> **[1:57](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=117)** And then the database engine sanitizes the actual value that's passed to prevent SQL injection and other attacks.
+> **[1:57](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=117)** And then the database engine sanitizes the actual value that's passed to prevent [[SQL]] injection and other attacks.
 >
 > **[2:05](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=125)** And this is not to be underestimated its value.
 >
@@ -823,13 +815,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=142)** It then plugs in whatever values are provided for however many question marks you have in your query.
 >
-> **[2:28](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=148)** It plugs those values in during the fetch operations, making this far more safe and efficient than non prepared statements.
+> **[2:28](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=148)** It plugs those values in during the [[Fetch]] operations, making this far more safe and efficient than non prepared statements.
 >
 > **[2:37](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=157)** And then we have this execute statement and you notice that we're giving it another parameter here.
 >
 > **[2:44](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=164)** And this parameter is a tuple and you notice we have this stray comma here.
 >
-> **[2:48](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=168)** This is a Python thing.
+> **[2:48](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=168)** This is a [[Python (Programming Language)|Python]] thing.
 >
 > **[2:50](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=170)** In order to provide a tuple of literals, if you only have one value in the tuple, you need that comma to make it actually create a tuple to pass to the query.
 >
@@ -859,11 +851,11 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=293)** Here's our nine rows and there's the result of our select with the question mark.
 >
-> **[5:00](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=300)** So we're starting to see the value here of prepared statements, and we're going to see a lot more of this as we go through the rest of the course, but I really want you to understand how these work and to get a sense of their value.
+> **[5:00](https://www.linkedin.com/learning/using-sql-with-python/prepared-statements?u=76281980&t=300)** So we're starting to see the value here of prepared statements, and we're going to see a lot more of this as we go through the [[Representational State Transfer (REST)|rest]] of the course, but I really want you to understand how these work and to get a sense of their value.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[MySQL]] (3), [[Database Applications]] (1), [[SQL]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (3), [[Database Applications]] (1), [[SQL]] (1), [[Fetch]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** mysql (3), python (1), make (1)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** my_host (1), user (1), password (1), sql (1)
@@ -872,8 +864,7 @@ created: 2026-05-02
 > **Code Identifiers:** db_prepared (1)
 > **Cross-References:** in the last (1)
 
-#### Hello, SQLite
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980)
+#### [Hello, SQLite](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,13 +872,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=8)** A traditional hello world program is short and simple, and it's commonly used to validate a tool chain to make sure all the pieces are in place. In this case, it is a bit more than that.
 >
-> **[0:19](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=19)** I'll also use it to show you how various parts of the Python DB API works.
+> **[0:19](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=19)** I'll also use it to show you how various parts of the [[Python (Programming Language)|Python]] DB API works.
 >
-> **[0:26](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=26)** This version uses the SQL Lite database system.
+> **[0:26](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=26)** This version uses the [[SQL]] Lite database system.
 >
 > **[0:30](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=30)** SQL Lite is a full featured relational database system that has a few unique properties that make it especially suitable for many purposes.
 >
-> **[0:40](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=40)** Unlike most database systems as SQL Lite does not use a client server architecture.
+> **[0:40](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=40)** Unlike most [[Database Systems]] as SQL Lite does not use a client server architecture.
 >
 > **[0:45](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=45)** All the code for the database is contained in the driver.
 >
@@ -907,7 +898,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=87)** Of course, here at the top, I import the SQL Lite three module print a little hello, have to predefine these variables to, as I call it "satisfy the warnings monster" code works without that. It just generates warnings.
 >
-> **[1:44](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=104)** And here we are connecting to the in-memory database system, create a cursor, and I print the word connected.
+> **[1:44](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=104)** And here we are connecting to the in-memory database system, create a cursor, and I print the [[Microsoft Word|word]] connected.
 >
 > **[1:51](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=111)** Do you notice that all of this is in a tri block and we're using the SQL Lite exception class for the exceptions.
 >
@@ -945,7 +936,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=216)** And if we look here, over here, the column names are ID AB and C, which matches what we had in our create table statement there.
 >
-> **[3:52](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=232)** Then we fetch rows using an iterator.
+> **[3:52](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=232)** Then we [[Fetch]] rows using an iterator.
 >
 > **[3:57](https://www.linkedin.com/learning/using-sql-with-python/hello-sqlite?u=76281980&t=237)** And you notice that I say limit five.
 >
@@ -969,7 +960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (13), database (10), [[Fetch]] (6), [[Python (Programming Language)|Python]] (3), api (1)
+> **Frameworks & Libraries:** [[SQL]] (13), [[Fetch]] (6), [[Python (Programming Language)|Python]] (3), [[Database Systems]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (13), api (1)
 > **CLI Commands:** make (3), python (3)
 > **Definitions:** is a  (3), is called (1), is an  (1)
@@ -977,12 +968,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - this (1)
 
-#### Hello, MySQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980)
+#### [Hello, MySQL](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=0)** - [Instructor] This is the MySQL version of our hello database script.
+> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=0)** - [Instructor] This is the [[MySQL]] version of our hello database script.
 >
 > **[0:04](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=4)** It serves much the same purpose as a traditional hello world program, but for a database interface.
 >
@@ -992,7 +982,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=18)** In this case, it's a bit more than that.
 >
-> **[0:20](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=20)** Also use it to show you how various parts of the Python DB API works in the MySQL context.
+> **[0:20](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=20)** Also use it to show you how various parts of the [[Python (Programming Language)|Python]] DB API works in the MySQL context.
 >
 > **[0:28](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=28)** MySQL is a free and open source relational database system.
 >
@@ -1010,7 +1000,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=71)** So we have a little bit more room here for our code and you notice I have these constants and you see them down here in the connect, statement in the connect call that helps us keep all of this clean.
 >
-> **[1:24](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=84)** Much of this if you watch the previous movie with SQL Lite three example, you notice this is much of the same code and we're doing pretty much the same things.
+> **[1:24](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=84)** Much of this if you watch the previous movie with [[SQL]] Lite three example, you notice this is much of the same code and we're doing pretty much the same things.
 >
 > **[1:35](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=95)** Notice again, here on line 20, my cursor is being initialized with prepared = True and that's so that we can use prepared statements.
 >
@@ -1042,7 +1032,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=197)** So we select just one row from the table, select asterisk from, with limit one, we get one row.
 >
-> **[3:26](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=206)** We fetch them all just so that our cursor is executed and then we get our column names.
+> **[3:26](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=206)** We [[Fetch]] them all just so that our cursor is executed and then we get our column names.
 >
 > **[3:33](https://www.linkedin.com/learning/using-sql-with-python/hello-mysql?u=76281980&t=213)** Simple as that and our column names come back as a tool bar.
 >
@@ -1072,7 +1062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (13), database (6), [[Python (Programming Language)|Python]] (5), [[SQL]] (4), [[Fetch]] (4)
+> **Frameworks & Libraries:** [[MySQL]] (13), [[Python (Programming Language)|Python]] (5), [[SQL]] (4), [[Fetch]] (4)
 > **CLI Commands:** mysql (13), python (5), make (2)
 > **Env Vars:** sql (3), api (1), create_table (1), table_created (1)
 > **Definitions:** is a  (2)
@@ -1080,8 +1070,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/challenge-13976721?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/using-sql-with-python/challenge-13976721?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1091,7 +1080,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-sql-with-python/challenge-13976721?u=76281980&t=6)** If you've been following along, you now have enough knowledge to write a useful utility.
 >
-> **[0:11](https://www.linkedin.com/learning/using-sql-with-python/challenge-13976721?u=76281980&t=11)** For this challenge, you will copy all the rows of data from a table on a MySQL database to a table on an SQLite database.
+> **[0:11](https://www.linkedin.com/learning/using-sql-with-python/challenge-13976721?u=76281980&t=11)** For this challenge, you will copy all the rows of data from a table on a [[MySQL]] database to a table on an SQLite database.
 >
 > **[0:20](https://www.linkedin.com/learning/using-sql-with-python/challenge-13976721?u=76281980&t=20)** In your script, you'll need to create connections to both MySQL and SQLite.
 >
@@ -1111,14 +1100,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (5), data (3), database (2)
+> **Frameworks & Libraries:** [[MySQL]] (5)
 > **CLI Commands:** mysql (5)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,11 +1116,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=15)** Up the top here, I import my modules.
 >
-> **[0:19](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=19)** I set up my constants for my SQL inside of main.
+> **[0:19](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=19)** I set up my constants for my [[SQL]] inside of main.
 >
 > **[0:26](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=26)** You notice I define my database and cursor objects outside of the tri blocks. This is just good practice.
 >
-> **[0:34](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=34)** It works if you do it inside the tri blocks, but Python will throw warnings about it.
+> **[0:34](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=34)** It works if you do it inside the tri blocks, but [[Python (Programming Language)|Python]] will throw warnings about it.
 >
 > **[0:40](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=40)** So this is just good practice. First, we connect to SQLI three.
 >
@@ -1194,7 +1182,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=212)** We ask if we're going this way or that way.
 >
-> **[3:35](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=215)** And then we connect to the databases,
+> **[3:35](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=215)** And then we connect to the [[Databases]],
 >
 > **[3:44](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=224)** create the tables, the SQL Lite table, the My SQL table.
 >
@@ -1206,7 +1194,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=254)** And we create the row data.
 >
-> **[4:16](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=256)** And we use the same SQL for both of these, because these are the standard, you know, insert into, select from... those don't vary between database systems.
+> **[4:16](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=256)** And we use the same SQL for both of these, because these are the standard, you know, insert into, select from... those don't vary between [[Database Systems]].
 >
 > **[4:26](https://www.linkedin.com/learning/using-sql-with-python/solution-13980328?u=76281980&t=266)** So in the source, we insert the data and then we select from the source.
 >
@@ -1230,7 +1218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (24), data (9), database (3), [[Python (Programming Language)|Python]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (24), [[Python (Programming Language)|Python]] (1), [[Databases]] (1), [[Database Systems]] (1)
 > **Env Vars:** sql (24), sqli (1), abc (1)
 > **Prerequisites:** set up (5)
 > **Best Practices:** good practice (2)
@@ -1244,8 +1232,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The essential four
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980)
+#### [The essential four](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,32 +1240,31 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980&t=7)** The scatological acronym is intended to be pronounced C.R.U.D.
 >
-> **[0:12](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980&t=12)** These four functions translate to the SQL statements; insert, select, update, and delete.
+> **[0:12](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980&t=12)** These four functions translate to the [[SQL]] statements; insert, select, update, and delete.
 >
-> **[0:20](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980&t=20)** The Python DB-API was designed to provide a uniform interface for as many database systems as possible and has all the functionality necessary to take full advantage of most any relational database management system, but most of the time, all you need is a simple way to issue SQL statements, and sometimes, it makes sense to have an interface more closely tailored to a given application.
+> **[0:20](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980&t=20)** The [[Python (Programming Language)|Python]] DB-API was designed to provide a uniform interface for as many [[Database Systems]] as possible and has all the functionality necessary to take full advantage of most any relational [[Database Management]] system, but most of the time, all you need is a simple way to issue SQL statements, and sometimes, it makes sense to have an interface more closely tailored to a given application.
 >
 > **[0:47](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980&t=47)** In this chapter, we will create a Python module that acts as a wrapper to the DBA-API interface to provide a simpler, more useful SQL interface, as well as a C.R.U.D. interface.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[SQL]] (3), [[Python (Programming Language)|Python]] (2), api (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Python (Programming Language)|Python]] (2), [[Database Systems]] (1), [[Database Management]] (1)
 > **Env Vars:** sql (3), api (2), dba (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL Wrapper
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980)
+#### [SQL Wrapper](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=0)** - [Instructor] The first step in creating our module is to encapsulate the most common SQL methods.
+> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=0)** - [Instructor] The first step in creating our module is to encapsulate the most common [[SQL]] methods.
 >
 > **[0:06](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=6)** Then we can build on that to create our crud methods.
 >
 > **[0:10](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=10)** So this is BWDB-SQL.PY from chapter two of the exercise files.
 >
-> **[0:16](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=16)** And probably the first thing you'll notice about this is that it's much bigger than any of the other Python files we've worked on so far.
+> **[0:16](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=16)** And probably the first thing you'll notice about this is that it's much bigger than any of the other [[Python (Programming Language)|Python]] files we've worked on so far.
 >
 > **[0:24](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=24)** And that's because it's a module and it has a lot of methods in it.
 >
@@ -1354,7 +1340,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=220)** These are properties and they have the little arrows for the setters and getters.
 >
-> **[3:44](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=224)** And in a knit, you notice that I use these keyword arguments so that when I initialize, I can initialize with different arguments for the different database management systems.
+> **[3:44](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=224)** And in a knit, you notice that I use these keyword arguments so that when I initialize, I can initialize with different arguments for the different [[Database Management]] systems.
 >
 > **[3:57](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=237)** And we'll see that when we get down to main.
 >
@@ -1434,7 +1420,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=448)** You just want to call this method and get that value.
 >
-> **[7:31](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=451)** I have one little get a single row and it gets fetch one, it signs out to the row and then calls fetch all to just clear out anything else that the query might be returning.
+> **[7:31](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=451)** I have one little get a single row and it gets [[Fetch]] one, it signs out to the row and then calls fetch all to just clear out anything else that the query might be returning.
 >
 > **[7:40](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=460)** And then it returns to the row.
 >
@@ -1470,7 +1456,7 @@ created: 2026-05-02
 >
 > **[9:02](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=542)** There are this many rows and it says there are six rows.
 >
-> **[9:05](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=545)** And so, the rest of this is pretty simple.
+> **[9:05](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=545)** And so, the [[Representational State Transfer (REST)|rest]] of this is pretty simple.
 >
 > **[9:07](https://www.linkedin.com/learning/using-sql-with-python/sql-wrapper?u=76281980&t=547)** We have a SQL query and we print row.
 >
@@ -1486,7 +1472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (25), [[Python (Programming Language)|Python]] (5), database (3), [[Fetch]] (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (25), [[Python (Programming Language)|Python]] (5), [[Fetch]] (2), [[Database Management]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (25), dbms (10), bwdb (2), dba (1), api (1)
 > **CLI Commands:** python (5), find (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -1495,12 +1481,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** specification (1)
 
-#### Adding CRUD methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980)
+#### [Adding CRUD methods](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=0)** - [Instructor] Now that we have a library of SQL methods it's time to add our CRUD methods.
+> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=0)** - [Instructor] Now that we have a library of [[SQL]] methods it's time to add our CRUD methods.
 >
 > **[0:05](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=5)** This is BWDB.py from chapter two of the EerciseFiles.
 >
@@ -1514,7 +1499,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=63)** And this is essential for the CRUD methods because the CRUD methods depend on a relational structure.
 >
-> **[1:09](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=69)** So we're going to do things where like we're going to search for something and it will return an ID and then we need to be able to use that ID to fetch the data.
+> **[1:09](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=69)** So we're going to do things where like we're going to search for something and it will return an ID and then we need to be able to use that ID to [[Fetch]] the data.
 >
 > **[1:17](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=77)** So these methods up here in a init, or rather these properties up here in a init, include a table_name and column_names, because those are central to how our CRUD methods work.
 >
@@ -1524,7 +1509,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=121)** And so we have some methods down here at the bottom for doing things like sanitizing a string.
 >
-> **[2:09](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=129)** You notice it has the static method decorator, which simply tells Python that this is a static method and it does not access or change any object values and so that allows Python do a little bit of optimization with that.
+> **[2:09](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=129)** You notice it has the static method decorator, which simply tells [[Python (Programming Language)|Python]] that this is a static method and it does not access or change any object values and so that allows Python do a little bit of optimization with that.
 >
 > **[2:24](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=144)** And this method is very straightforward it simply takes the string, iterates through it, compares each character to this acceptable characterset.
 >
@@ -1558,7 +1543,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=289)** So very straightforward.
 >
-> **[4:53](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=293)** Most of the rest of these are very simple Wrappers around the SQL.
+> **[4:53](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=293)** Most of the [[Representational State Transfer (REST)|rest]] of these are very simple Wrappers around the SQL.
 >
 > **[4:58](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=298)** So we have, count_rows, which has a SELECT COUNT star.
 >
@@ -1570,7 +1555,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=329)** Most of these are Simple Wrappers, even find_row is just a Simple Wrapper.
 >
-> **[5:34](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=334)** We have a few more convenience methods down here at the bottom, have_db checks to see if we have a Database already set up, have_cursor, have_table, you can actually, hasad a table name and it will query the database and depending on if it's MySQL or SQLite, it'll query the Master Database and say does this table exist?
+> **[5:34](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=334)** We have a few more convenience methods down here at the bottom, have_db checks to see if we have a Database already set up, have_cursor, have_table, you can actually, hasad a table name and it will query the database and depending on if it's [[MySQL]] or SQLite, it'll query the Master Database and say does this table exist?
 >
 > **[5:56](https://www.linkedin.com/learning/using-sql-with-python/adding-crud-methods?u=76281980&t=356)** Lastrowid, begin_transaction rollback, commit and disconnect, which is called by the destructor.
 >
@@ -1588,7 +1573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), database (3), [[Python (Programming Language)|Python]] (2), [[Search]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Python (Programming Language)|Python]] (2), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[MySQL]] (1)
 > **Code Identifiers:** table_name (3), update_string (3), add_row (3), values_string (3), column_names (2)
 > **Env Vars:** sql (8), crud (8), insert (3), bwdb (2), select (2)
 > **Definitions:** is a  (4), is called (1)
@@ -1597,8 +1582,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **File Paths:** bwdb.py (1)
 
-#### Using the module
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980)
+#### [Using the module](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1608,7 +1592,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=13)** And then I simply use the class.
 >
-> **[0:18](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=18)** Like I would any other class, here I am initializing an object with the BwDB connected to SQLite, or if I like I can do it connected to SQL.
+> **[0:18](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=18)** Like I would any other class, here I am initializing an object with the BwDB connected to SQLite, or if I like I can do it connected to [[SQL]].
 >
 > **[0:34](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=34)** and either one works.
 >
@@ -1660,7 +1644,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=210)** And it works exactly the same, little slower because SQLite is all in one compact little file.
 >
-> **[3:39](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=219)** And this is actually running on a server in my office.
+> **[3:39](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=219)** And this is actually running on a server in my [[Microsoft Office|office]].
 >
 > **[3:43](https://www.linkedin.com/learning/using-sql-with-python/using-the-module?u=76281980&t=223)** So you can see here that this module is easy and convenient to use.
 >
@@ -1668,14 +1652,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), hit (1), database (1), [[Search]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** sql (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/challenge-13980329?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/using-sql-with-python/challenge-13980329?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1703,7 +1686,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/using-sql-with-python/challenge-13980329?u=76281980&t=61)** I don't know.
 >
-> **[1:02](https://www.linkedin.com/learning/using-sql-with-python/challenge-13980329?u=76281980&t=62)** It's a way that I've done this in Python for years and years.
+> **[1:02](https://www.linkedin.com/learning/using-sql-with-python/challenge-13980329?u=76281980&t=62)** It's a way that I've done this in [[Python (Programming Language)|Python]] for years and years.
 >
 > **[1:05](https://www.linkedin.com/learning/using-sql-with-python/challenge-13980329?u=76281980&t=65)** It's a simple trick.
 >
@@ -1749,7 +1732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Python (Programming Language)|Python]] (1), [[Scripting]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Cross-References:** in the next (1)
 > **Tools:** command line (1)
@@ -1758,8 +1741,7 @@ created: 2026-05-02
 > **Definitions:** we call this (1)
 > **Analogies:** just like (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/using-sql-with-python/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1783,7 +1765,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/using-sql-with-python/solution?u=76281980&t=45)** I can add another one. I'll add [lynda.com](https://lynda.com).
 >
-> **[0:54](https://www.linkedin.com/learning/using-sql-with-python/solution?u=76281980&t=54)** And I'll add another one for, say Google.
+> **[0:54](https://www.linkedin.com/learning/using-sql-with-python/solution?u=76281980&t=54)** And I'll add another one for, say [[Google]].
 >
 > **[1:02](https://www.linkedin.com/learning/using-sql-with-python/solution?u=76281980&t=62)** And now, when I list domains, I've got these three.
 >
@@ -1875,7 +1857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Google]] (2), prompt (1), next (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **Code Identifiers:** find_domain (5), edit_domain (2), do_menu (1), add_domain (1), domain_name (1)
 > **URLs:** [bw.org](https://bw.org) (2), [lynda.com](https://lynda.com) (2)
 > **CLI Commands:** find (3)
@@ -1889,8 +1871,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980)
+#### [Defining the project](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1898,7 +1879,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=6)** I wanted a short URL service, but I didn't want to use one of the public services.
 >
-> **[0:11](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=11)** I didn't like their privacy policies.
+> **[0:11](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=11)** I didn't like their [[Privacy]] policies.
 >
 > **[0:13](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=13)** I didn't want to leave my traffic in the control of an unknown entity.
 >
@@ -1924,7 +1905,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=75)** This requires a few parts to work properly.
 >
-> **[1:18](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=78)** A series of HTML files, some CSS to make it look pretty, a templating system to assemble the HTML with the various data filled in, and code to manage all of that, to keep state, and to handle the CGI.
+> **[1:18](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=78)** A series of [[HTML]] files, some CSS to make it look pretty, a templating system to assemble the HTML with the various data filled in, and code to manage all of that, to keep state, and to handle the CGI.
 >
 > **[1:36](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=96)** CGI is, in this context, the common gateway interface.
 >
@@ -1946,7 +1927,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=148)** Keeping state with CGI can be confusing.
 >
-> **[2:30](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=150)** This is one of the reasons that modern web apps use so much JavaScript.
+> **[2:30](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=150)** This is one of the reasons that modern web apps use so much [[JavaScript]].
 >
 > **[2:36](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=156)** Finally, a separate script handles the actual redirection from short URL to destination URL.
 >
@@ -1958,7 +1939,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=184)** The response code is immediately followed by a location header with the full target URL.
 >
-> **[3:10](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=190)** Note that CGI scripts run by the built-in Python server class cannot execute redirects because response code 200, the OK response, is sent before the CGI script is called.
+> **[3:10](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=190)** Note that CGI scripts run by the built-in [[Python (Programming Language)|Python]] server class cannot execute redirects because response code 200, the OK response, is sent before the CGI script is called.
 >
 > **[3:25](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980&t=205)** In order to test a web application, we will need a web server.
 >
@@ -1966,7 +1947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), database (3), application (2), [[HTML]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Python (Programming Language)|Python]] (2), [[Privacy]] (1), [[JavaScript]] (1)
 > **Env Vars:** url (9), cgi (8), jurl (2), crud (2), html (2)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
@@ -1975,8 +1956,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing a web application
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980)
+#### [Testing a web application](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1984,7 +1964,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=6)** You could use a free or low-cost server from a cloud company and that would work fine or you may prefer this simple, convenient alternative.
 >
-> **[0:14](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=14)** Python comes with a functional web server that's ideal for testing.
+> **[0:14](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=14)** [[Python (Programming Language)|Python]] comes with a functional web server that's ideal for testing.
 >
 > **[0:18](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=18)** It's not something you would use in production, but it works for our purposes.
 >
@@ -2010,13 +1990,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=134)** It's just a little test CGI script and it imports a couple of things, it puts out a CGI header, which in this case is for the text plane.
 >
-> **[2:27](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=147)** If we're serving HTML, we'd put out a text/html header and then some text, and that text, you'll notice, is showing up here in our browser.
+> **[2:27](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=147)** If we're serving [[HTML]], we'd put out a text/html header and then some text, and that text, you'll notice, is showing up here in our browser.
 >
 > **[2:41](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=161)** And so, if your output looks something like this, it means that it's working.
 >
 > **[2:46](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=166)** Of course, your Python version might be different and some of this stuff might be a little different, but if you get an output that looks much like that, that means that this is working.
 >
-> **[2:57](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=177)** So there's our web server and we're actually going to leave this web server running in this terminal tab for the rest of this chapter and you'll notice that we get little logs here.
+> **[2:57](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=177)** So there's our web server and we're actually going to leave this web server running in this terminal tab for the [[Representational State Transfer (REST)|rest]] of this chapter and you'll notice that we get little logs here.
 >
 > **[3:11](https://www.linkedin.com/learning/using-sql-with-python/testing-a-web-application?u=76281980&t=191)** You'll probably also get a 404 because the negative response was already cached in my browser, we don't see it here, but if I shift-reload from here, you'll see I get this 404, no such CGI script for favorite icon, because all web browsers, all the time, look for that in the root directory of the server so they can display that little icon, which you'll notice is not being displayed in my tab here.
 >
@@ -2024,7 +2004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), [[Python (Programming Language)|Python]] (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (2), web application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** cgi (6), http (2), html (1)
 > **Definitions:** means that (3), is a  (2)
 > **File Paths:** webserver.py (1), 9999/cgi-test.py (1), cgi-test.py (1)
@@ -2033,8 +2013,7 @@ created: 2026-05-02
 > **Ports:** port 9999 (1), :9999 (1)
 > **Exercise Files:** exercise files (2)
 
-#### Code demonstration
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980)
+#### [Code demonstration](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2070,7 +2049,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=63)** So we're going to do that. We're going to add one.
 >
-> **[1:05](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=65)** I'm going to say the target URL (inhales) let's say it's "[google.com](https://google.com)" and my short URL is going to be "ggl".
+> **[1:05](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=65)** I'm going to say the target URL (inhales) let's say it's "[[[Google]].com](https://google.com)" and my short URL is going to be "ggl".
 >
 > **[1:16](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=76)** And so I'm going to add the record, and there it is, it says, "Record (ggl) added.
 >
@@ -2118,7 +2097,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=184)** As I mentioned before, there's a number of components to this.
 >
-> **[3:08](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=188)** There's little HTML files.
+> **[3:08](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=188)** There's little [[HTML]] files.
 >
 > **[3:10](https://www.linkedin.com/learning/using-sql-with-python/code-demonstration?u=76281980&t=190)** There's modules that do things like read those HTML files and add variables to them and insert them in to do things like displaying these rows.
 >
@@ -2130,7 +2109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Google]] (4), database (3), next (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[HTML]] (2)
 > **Env Vars:** jurl (3), url (3), html (2), crud (1)
 > **URLs:** [google.com](https://google.com) (4)
 > **File Paths:** db.py (2), jurl.py (1)
@@ -2139,8 +2118,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1)
 
-#### Touring the code
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980)
+#### [Touring the code](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2162,11 +2140,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=58)** It takes care of reading CGI variables from the browser and cookies and headers and a few things like that.
 >
-> **[1:06](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=66)** The BWTPL for a templating system manages these HTML files.
+> **[1:06](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=66)** The BWTPL for a templating system manages these [[HTML]] files.
 >
 > **[1:13](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=73)** You'll notice, I've got these HTML files here.
 >
-> **[1:16](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=76)** For example, main.html and you see, they have these tokens in them that have dollar signs around them, like dollar message, dollar error, dollar.
+> **[1:16](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=76)** For example, main.html and you see, they have these [[Tokens]] in them that have dollar signs around them, like dollar message, dollar error, dollar.
 >
 > **[1:25](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=85)** It's got a dollar before and after the token.
 >
@@ -2178,7 +2156,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=98)** So there's a few moving parts here, but most of it is actually pretty straightforward.
 >
-> **[1:45](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=105)** Here in the Python code, I've got a dictionary that I use for all of my global variables.
+> **[1:45](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=105)** Here in the [[Python (Programming Language)|Python]] code, I've got a dictionary that I use for all of my global variables.
 >
 > **[1:50](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=110)** A dictionary is basically just a name value database that is kept in memory.
 >
@@ -2212,7 +2190,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=210)** For adding a record into the database, we've got add row here.
 >
-> **[3:35](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=215)** And then the rest of this is just logic to handle the context and the HTML pages and all of that.
+> **[3:35](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=215)** And then the [[Representational State Transfer (REST)|rest]] of this is just logic to handle the context and the HTML pages and all of that.
 >
 > **[3:42](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=222)** Edit, you notice it called set form variables.
 >
@@ -2272,7 +2250,7 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=372)** It's all good HTML, but it's ten-year-old HTML from when we all thought that XHTML was going to be the big thing.
 >
-> **[6:20](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=380)** There's very little JavaScript in here.
+> **[6:20](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=380)** There's very little [[JavaScript]] in here.
 >
 > **[6:22](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=382)** Just this one set, the focus, so that the first time you come in here and I'm just going to get rid of these.
 >
@@ -2312,7 +2290,7 @@ created: 2026-05-02
 >
 > **[7:39](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=459)** And as you can see, it requires cooperation between a number of different related technologies.
 >
-> **[7:44](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=464)** You've got HTML, you've got CSS, you've got Python, of course, you've got SQL, little bit of Java script, all of these different technologies working together.
+> **[7:44](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=464)** You've got HTML, you've got CSS, you've got Python, of course, you've got [[SQL]], little bit of [[Java]] script, all of these different technologies working together.
 >
 > **[7:53](https://www.linkedin.com/learning/using-sql-with-python/touring-the-code?u=76281980&t=473)** And all of that is really just about making it look pretty.
 >
@@ -2324,7 +2302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (13), [[Python (Programming Language)|Python]] (4), database (4), css (3), web application (2)
+> **Frameworks & Libraries:** [[HTML]] (13), [[Python (Programming Language)|Python]] (4), [[Tokens]] (2), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (12), cgi (8), css (3), jurl (1), bwdb (1)
 > **CLI Commands:** python (4), make (2)
 > **File Paths:** db.py (1), main.html (1)
@@ -2333,8 +2311,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), it's like (1)
 > **URLs:** [https://bw.org](https://bw.org) (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/using-sql-with-python/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2350,14 +2327,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), web (1), next (1)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/solution-13981253?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/using-sql-with-python/solution-13981253?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2385,7 +2360,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/using-sql-with-python/solution-13981253?u=76281980&t=58)** You see we have the same domains that we had in our web interface.
 >
-> **[1:02](https://www.linkedin.com/learning/using-sql-with-python/solution-13981253?u=76281980&t=62)** I can add a domain, the short name, we'll call this one GGL for Google.
+> **[1:02](https://www.linkedin.com/learning/using-sql-with-python/solution-13981253?u=76281980&t=62)** I can add a domain, the short name, we'll call this one GGL for [[Google]].
 >
 > **[1:08](https://www.linkedin.com/learning/using-sql-with-python/solution-13981253?u=76281980&t=68)** And I'll put HTTPS colon slash slash [google.com](https://google.com) and it's added the row.
 >
@@ -2399,7 +2374,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/using-sql-with-python/solution-13981253?u=76281980&t=96)** I can list them again and there it is in our database.
 >
-> **[1:40](https://www.linkedin.com/learning/using-sql-with-python/solution-13981253?u=76281980&t=100)** I can find one if I want, I can search for SQL, there's my SQL link.
+> **[1:40](https://www.linkedin.com/learning/using-sql-with-python/solution-13981253?u=76281980&t=100)** I can find one if I want, I can search for [[SQL]], there's my SQL link.
 >
 > **[1:45](https://www.linkedin.com/learning/using-sql-with-python/solution-13981253?u=76281980&t=105)** And I can delete one if I want, I'll delete GGL and I'll say yes, and it deletes it and I can list them and there they are.
 >
@@ -2425,7 +2400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Google]] (3), application (2), web (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[SQL]] (2)
 > **Env Vars:** ggl (3), sql (2), jurl (1), url (1), https (1)
 > **CLI Commands:** find (3), make (1)
 > **URLs:** [google.com](https://google.com) (2)
@@ -2439,12 +2414,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thank you
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980)
+#### [Thank you](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980&t=0)** - [Bill] In this course, my goal was to give you a good understanding of how to use SQL with Python.
+> **[0:00](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980&t=0)** - [Bill] In this course, my goal was to give you a good understanding of how to use [[SQL]] with [[Python (Programming Language)|Python]].
 >
 > **[0:06](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980&t=6)** I've shown you how to connect to a database, how to submit queries, including adding, editing, and deleting data, and how to read from a database.
 >
@@ -2454,7 +2428,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980&t=29)** Tear it apart, break it, expand it, learn from it.
 >
-> **[0:33](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980&t=33)** Python is a rich and powerful environment for working with databases.
+> **[0:33](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980&t=33)** Python is a rich and powerful environment for working with [[Databases]].
 >
 > **[0:37](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980&t=37)** Take full advantage.
 >
@@ -2462,7 +2436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Python (Programming Language)|Python]] (3), database (2), data (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Python (Programming Language)|Python]] (3), [[Databases]] (1)
 > **CLI Commands:** python (3)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (1)

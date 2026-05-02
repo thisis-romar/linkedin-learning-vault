@@ -120,12 +120,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protect your network with free and open-source software
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980)
+#### [Protect your network with free and open-source software](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980&t=0)** - Network security breaches can cost organizations millions of dollars.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980&t=0)** - [[Network Security]] breaches can cost organizations millions of dollars.
 >
 > **[0:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980&t=5)** After all, if your network is down, it's difficult to get anything done.
 >
@@ -135,35 +134,34 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980&t=20)** Then I'll demonstrate essential tools you can adopt immediately at no cost.
 >
-> **[0:27](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980&t=27)** I'll teach you how to set up firewalls, analyze packets, conduct intrusion detection and prevention, and monitor your network.
+> **[0:27](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980&t=27)** I'll teach you how to set up firewalls, analyze packets, conduct [[Intrusion Detection]] and prevention, and monitor your network.
 >
 > **[0:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980&t=36)** I'm Jung Ryoo, and I'm excited to share my knowledge I've gained as a professor, researcher and practitioner.
 >
-> **[0:44](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980&t=44)** If you're ready to protect your network with open-source software, let's get started.
+> **[0:44](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980&t=44)** If you're ready to protect your network with [[Open-Source Software]], let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (3), [[Intrusion Detection]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Network Security]] (3), [[Intrusion Detection]] (1), [[Open-Source Software]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - network (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980&t=0)** - [Instructor] This course has no prerequisites.
 >
-> **[0:03](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980&t=3)** Basic knowledge in Linux operating systems will be helpful, but don't worry if you're not familiar with the Ubuntu Linux OS I use throughout this course.
+> **[0:03](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980&t=3)** Basic knowledge in [[Linux]] operating systems will be helpful, but don't worry if you're not familiar with the [[Ubuntu]] Linux OS I use throughout this course.
 >
 > **[0:16](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980&t=16)** Any knowledge of networking is also beneficial.
 >
 > **[0:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980&t=19)** I'll explain what I'm doing without assuming any prior knowledge, and you shouldn't have any problems understanding my instructions.
 >
-> **[0:31](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980&t=31)** I did all the hands-on exercises in this course using VMware Workstation, however, you can use any virtual machine solutions or hypervisors to allow you to create virtual machines in virtual networks.
+> **[0:31](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980&t=31)** I did all the hands-on exercises in this course using VMware Workstation, however, you can use any virtual machine solutions or hypervisors to allow you to create [[Virtual Machines]] in virtual networks.
 >
-> **[0:47](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980&t=47)** At a minimum, you need two Ubuntu virtual machines and one Windows virtual machine.
+> **[0:47](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980&t=47)** At a minimum, you need two Ubuntu virtual machines and one [[Windows]] virtual machine.
 >
 > **[0:55](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-you-should-know?u=76281980&t=55)** By the end of this course, you'll have a reasonable understanding of Linux and networking in general, in addition to learning how to protect your network with open source software.
 
@@ -172,12 +170,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Linux]] (3), [[Ubuntu]] (2), [[Virtual Machines]] (2), [[Windows]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Environment setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980)
+#### [Environment setup](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980&t=0)** - [Instructor] Deploying virtual machines, or VMs, in a virtualization environment is relatively straightforward and out of scope for this course.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980&t=0)** - [Instructor] Deploying [[Virtual Machines]], or VMs, in a virtualization environment is relatively straightforward and out of scope for this course.
 >
 > **[0:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980&t=11)** However, there are some subtle things you need to keep in mind to avoid potential dead ends.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980&t=41)** The 192.168/24 network does not have direct access to the internet while 192.168.70/24 does.
 >
-> **[0:57](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980&t=57)** The 192.68.35.0/24 network eventually gets connected to the internet through the Ubuntu router host.
+> **[0:57](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980&t=57)** The 192.68.35.0/24 network eventually gets connected to the internet through the [[Ubuntu]] router host.
 >
 > **[1:10](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980&t=70)** Make sure that you change the network gateway of your Ubuntu host to 192.168.35.136, which is the internal network interface of the Ubuntu router host, so that the Ubuntu host knows how to get to the 192.168.70.0/24 network and the internet.
 >
@@ -195,11 +192,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980&t=107)** Therefore, you need to enable forwarding each time by issuing the command echo 1 > /proc/sys/net/ipv4/ip_forward
 >
-> **[2:03](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980&t=123)** If you don't want to use VMware workstation to try out the hands-on exercises, you can check out cloud solutions like Microsoft Azure or try a hypervisor like Proxmox, which is a dedicated operating system specializing in installing VMs on a local machine.
+> **[2:03](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/environment-setup?u=76281980&t=123)** If you don't want to use VMware workstation to try out the hands-on exercises, you can check out cloud solutions like [[Microsoft Azure]] or try a hypervisor like Proxmox, which is a dedicated operating system specializing in installing VMs on a local machine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Virtual Machines]] (1), [[Virtualization]] (1), cloud (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Virtual Machines]] (1), [[Microsoft Azure]] (1)
 > **Versions:** 192.168.70 (3), 192.168.35 (2), 192.168 (1), 192.68.35 (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ip_forward (1)
@@ -212,8 +209,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is open-source software?
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980)
+#### [What is open-source software?](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,23 +229,23 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=55)** Luckily for us, most of the software applications featured in this course are both open-source and free.
 >
-> **[1:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=64)** Open-source software users need to accept the specific terms of a license.
+> **[1:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=64)** [[Open-Source Software]] users need to accept the specific terms of a license.
 >
 > **[1:10](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=70)** There is no restriction on how you use your open source software, but some open source licenses require users to release their changes if they modify or extend the original code.
 >
 > **[1:27](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=87)** Others also require making the modified or extended code available free of charge.
 >
-> **[1:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=96)** The use of open source software and networking and network security is substantial.
+> **[1:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=96)** The use of open source software and networking and [[Network Security]] is substantial.
 >
-> **[1:42](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=102)** One such example is Linux.
+> **[1:42](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=102)** One such example is [[Linux]].
 >
-> **[1:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=106)** Many service providers use Linux to run their backend systems, such as web servers and base operating systems to host virtual machines.
+> **[1:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=106)** Many service providers use Linux to run their backend systems, such as [[Web Servers]] and base operating systems to host [[Virtual Machines]].
 >
 > **[1:59](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=119)** The global open-source software market is growing fast.
 >
 > **[2:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=124)** Many major corporations are contributing to the open-source community.
 >
-> **[2:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=129)** Therefore, learning and mastering open-source options is critical for students and professionals who aspire to excel in networking or network security.
+> **[2:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=129)** Therefore, learning and mastering open-source options is critical for students and professionals who aspire to [[Microsoft Excel|excel]] in networking or network security.
 >
 > **[2:23](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980&t=143)** Open-source solutions are still relevant even if you're not an IT professional.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (11), [[Network Security]] (3), product (2), [[Linux]] (2), management (1)
+> **Frameworks & Libraries:** [[Network Security]] (3), [[Open-Source Software]] (2), [[Linux]] (2), [[Web Servers]] (1), [[Virtual Machines]] (1)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** vms (1)
@@ -267,22 +263,21 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open-source software in networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980)
+#### [Open-source software in networking](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=0)** - [Instructor] When you ask any computer networking professional if they use open-source software, they'll look at you as if you are an alien.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=0)** - [Instructor] When you ask any [[Computer Networking]] professional if they use [[Open-Source Software]], they'll look at you as if you are an alien.
 >
 > **[0:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=11)** There are so many they're using daily.
 >
-> **[0:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=15)** To name a few, these range from operating systems or OSs, like Linux, to popular standalone applications, such as packet sniffers.
+> **[0:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=15)** To name a few, these range from operating systems or OSs, like [[Linux]], to popular standalone applications, such as packet sniffers.
 >
-> **[0:29](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=29)** I'm sure many of you're already familiar with Wireshark, a popular packet sniffing program.
+> **[0:29](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=29)** I'm sure many of you're already familiar with [[Wireshark]], a popular packet sniffing program.
 >
 > **[0:38](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=38)** Most of the networking software comes prepackaged together with an OS.
 >
-> **[0:45](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=45)** On Microsoft Windows, ipconfig is such a program.
+> **[0:45](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=45)** On [[Microsoft]] [[Windows]], ipconfig is such a program.
 >
 > **[0:51](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=51)** We'll be using it frequently to check the properties of a network interface card you see here.
 >
@@ -298,9 +293,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=103)** These also mean job security for many of us.
 >
-> **[1:48](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=108)** We'll be using Ubuntu in this course, which is popular but doesn't include software like Wireshark by default.
+> **[1:48](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=108)** We'll be using [[Ubuntu]] in this course, which is popular but doesn't include software like Wireshark by default.
 >
-> **[1:58](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=118)** Several Linux distributions, like Kali and SANS Investigative Forensics Toolkit, or SIFT, specialize in network security and network forensics with Wireshark pre-installed.
+> **[1:58](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=118)** Several Linux distributions, like Kali and SANS Investigative Forensics Toolkit, or SIFT, specialize in [[Network Security]] and [[Network Forensics]] with Wireshark pre-installed.
 >
 > **[2:14](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=134)** Installing well-known open-source software, like Wireshark, on Linux is straightforward.
 >
@@ -322,39 +317,38 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=190)** That's it. There's no need to make a purchase or anything.
 >
-> **[3:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=195)** You can also install other open source networking tools, like Nmap and Netcat free of charge.
+> **[3:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=195)** You can also install other open source networking tools, like [[Nmap]] and [[Netcat]] free of charge.
 >
 > **[3:24](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-software-in-networking?u=76281980&t=204)** There are too many open-source tools to mention here, but ifconfig, IP, Wireshark, Nmap, and Netcat already cover many grounds.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (6), open-source (4), [[Linux]] (4), [[Ubuntu]] (2), [[Computer Networking]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (6), [[Linux]] (4), [[Open-Source Software]] (2), [[Ubuntu]] (2), [[Nmap]] (2)
 > **CLI Commands:** sudo (2), apt (2), make (1)
 > **Env Vars:** sans (1), sift (1)
 > **Prerequisites:** install (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open-source solutions in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980)
+#### [Open-source solutions in cybersecurity](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=0)** - [Instructor] Many cybersecurity solutions are open source and free.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=0)** - [Instructor] Many [[Cybersecurity]] solutions are open source and free.
 >
 > **[0:06](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=6)** Hence, this course makes perfect sense and gets to exist.
 >
 > **[0:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=11)** Good for us.
 >
-> **[0:13](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=13)** The cybersecurity domains I cover include firewalls, packet and protocol analysis, intrusion detection and prevention, or IDS and IPS, vulnerability assessment, logging and monitoring.
+> **[0:13](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=13)** The cybersecurity domains I cover include firewalls, packet and protocol analysis, [[Intrusion Detection]] and prevention, or IDS and IPS, [[Vulnerability Assessment]], logging and monitoring.
 >
-> **[0:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=33)** iptables is what Linux uses to control the flow of data packets in and out of a host or network.
+> **[0:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=33)** iptables is what [[Linux]] uses to control the flow of data packets in and out of a host or network.
 >
 > **[0:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=43)** Any firewall implementations in Linux pretty much builds on iptables.
 >
 > **[0:50](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=50)** Knowing iptables is like unlocking the secret code of controlling network packets in general.
 >
-> **[1:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=60)** Wireshark is one of the most popular packet snipers and allows you to intercept packets and inspect them.
+> **[1:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=60)** [[Wireshark]] is one of the most popular packet snipers and allows you to intercept packets and inspect them.
 >
 > **[1:10](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=70)** Many organizations use Wireshark to troubleshoot networking problems, test software, and develop protocols.
 >
@@ -370,7 +364,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=130)** syslog and syslog-ng are a mainstream way of handling, logging, and monitoring.
 >
-> **[2:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=139)** Networking hardware and software generate log files, which in turn enables engineers to monitor their health and look for any signs of intrusion.
+> **[2:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=139)** Networking [[Hardware]] and software generate log files, which in turn enables engineers to monitor their health and look for any signs of intrusion.
 >
 > **[2:32](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-solutions-in-cybersecurity?u=76281980&t=152)** There are many software options and solutions other than what I'm covering in this course, but you'll get a good feel for what's available in general by following me along with the lessons.
 >
@@ -387,8 +381,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open-source vs. commercial software
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980)
+#### [Open-source vs. commercial software](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,13 +417,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980&t=90)** Sometimes an open source project just disappears for various reasons, one of which could be the lack of funding or interest.
 >
-> **[1:41](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980&t=101)** Therefore, sustainability is another enormous challenge.
+> **[1:41](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980&t=101)** Therefore, [[Sustainability]] is another enormous challenge.
 >
 > **[1:47](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980&t=107)** If you need professional support for the solution you're adopting, a better route could well be commercial.
 >
-> **[1:55](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980&t=115)** Because of the pros and cons, hybrid options are emerging, companies make their product open source, but charge fees for customer support, extra features and feature upgrades.
+> **[1:55](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980&t=115)** Because of the pros and cons, hybrid options are emerging, companies make their product open source, but charge fees for [[Customer Support]], extra features and feature upgrades.
 >
-> **[2:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980&t=131)** A good example is SNORT, which is an intrusion detection slash prevention system that monetizes intrusion detection and prevention rules.
+> **[2:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980&t=131)** A good example is SNORT, which is an [[Intrusion Detection]] slash prevention system that monetizes intrusion detection and prevention rules.
 >
 > **[2:23](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/open-source-vs-commerical-software?u=76281980&t=143)** Here you can see the various subscription options the company is providing.
 >
@@ -442,23 +435,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), product (3), [[Intrusion Detection]] (2), [[Sustainability]] (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Sustainability]] (1), [[Customer Support]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** snort (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Costs and savings
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980)
+#### [Costs and savings](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=0)** - [Instructor] Have you ever heard of the total cost of ownership, or TCO?
 >
-> **[0:06](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=6)** TCO is highly relevant to our discussion of open-source products.
+> **[0:06](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=6)** TCO is highly relevant to our discussion of open-source [[Microsoft Products|products]].
 >
-> **[0:12](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=12)** On the surface, open-source software, which is also free, appears to be a fantastic deal.
+> **[0:12](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=12)** On the surface, [[Open-Source Software]], which is also free, appears to be a fantastic deal.
 >
 > **[0:20](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=20)** However, there are many hidden costs when you take a closer look.
 >
@@ -472,15 +464,15 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=65)** As I mentioned previously, end user support is problematic unless you have a dedicated and knowledgeable team managing your open-source software internally.
 >
-> **[1:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=79)** You can shift much of these support costs to vendors like Microsoft when using a commercial product.
+> **[1:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=79)** You can shift much of these support costs to vendors like [[Microsoft]] when using a commercial product.
 >
-> **[1:28](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=88)** Considering the cost incurred during its entire lifecycle, free and open-source solutions may cost you more than merely using a third party offering commercial software and technical support.
+> **[1:28](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=88)** Considering the cost incurred during its entire lifecycle, free and open-source solutions may cost you more than merely using a third party offering commercial software and [[Technical Support]].
 >
 > **[1:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=106)** Because of this reality, many open-source providers also offer technical support and make a profit.
 >
 > **[1:54](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=114)** Therefore, you should always consider taking advantage of your support options whether the software you choose is open-source or not.
 >
-> **[2:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=125)** Despite the TCO, open-source is still an excellent choice when you're starting to build your cybersecurity infrastructure and want to evaluate different options before settling on one.
+> **[2:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=125)** Despite the TCO, open-source is still an excellent choice when you're starting to build your [[Cybersecurity]] infrastructure and want to evaluate different options before settling on one.
 >
 > **[2:20](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/costs-and-savings?u=76281980&t=140)** If you already have in-house expertise, you can download, install, and try it without worrying about speaking with sales representatives.
 >
@@ -488,7 +480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (8), [[Technical Support]] (2), [[Cybersecurity]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Open-Source Software]] (2), [[Technical Support]] (2), [[Cybersecurity]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **Env Vars:** tco (4)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -501,12 +493,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a firewall?
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980)
+#### [What is a firewall?](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980&t=0)** - [Instructor] A firewall is the most basic form of defense in network security.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980&t=0)** - [Instructor] A firewall is the most basic form of defense in [[Network Security]].
 >
 > **[0:07](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980&t=7)** It provides a foundation for your overall network defense.
 >
@@ -516,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980&t=31)** A computer network refers to two or more hosts connected through a communication medium, such as a cable or radio signal to share resources.
 >
-> **[0:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980&t=43)** We leave out the word computer from now on in our discussions of computer networks for gravity.
+> **[0:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980&t=43)** We leave out the [[Microsoft Word|word]] computer from now on in our discussions of computer networks for gravity.
 >
 > **[0:51](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980&t=51)** Host are any devices in the network with a unique address.
 >
@@ -560,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (3), application (2), [[Microsoft Word|Word]] (1), data (1), traffic (1)
+> **Frameworks & Libraries:** [[Network Security]] (3), [[Microsoft Word|Word]] (1)
 > **Definitions:** refers to (1), is called (1), is a  (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** hctp (1)
@@ -568,8 +559,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Host firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980)
+#### [Host firewalls](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,13 +577,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=36)** Major operating systems come with their own built-in host firewalls.
 >
-> **[0:42](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=42)** Let's first take a look at one provided by Windows.
+> **[0:42](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=42)** Let's first take a look at one provided by [[Windows]].
 >
 > **[0:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=46)** In this case, we'll look at the Windows 11 host firewall.
 >
 > **[0:51](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=51)** To get to the Windows 11 host firewall, choose settings by typing settings in the search box.
 >
-> **[1:02](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=62)** Click on open, and then select privacy and security.
+> **[1:02](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=62)** Click on open, and then select [[Privacy]] and security.
 >
 > **[1:10](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=70)** Choose Windows Security.
 >
@@ -625,9 +615,9 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=184)** Now you have much more flexibility.
 >
-> **[3:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=189)** On Linux, the Built-in firewall module is called Net Filter.
+> **[3:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=189)** On [[Linux]], the Built-in firewall module is called Net Filter.
 >
-> **[3:16](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=196)** Let's check out my Ubuntu host.
+> **[3:16](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=196)** Let's check out my [[Ubuntu]] host.
 >
 > **[3:20](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/host-firewalls?u=76281980&t=200)** The default firewall on Ubuntu is uncomplicated Firewall or UFW.
 >
@@ -653,15 +643,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), [[Security]] (2), [[Linux]] (2), [[Ubuntu]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (9), [[Linux]] (2), [[Ubuntu]] (2), [[Privacy]] (1)
 > **UI Navigation:** click on (7)
 > **Env Vars:** ufw (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/network-firewalls?u=76281980)
+#### [Network firewalls](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/network-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,7 +706,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), traffic (1), data (1)
 > **Cross-References:** as you saw (1), later in (1)
 > **Prerequisites:** set up (2)
 > **Ports:** port 22222 (1)
@@ -726,8 +714,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Static packet filtering vs. stateful packet inspection
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/static-packet-filtering-vs-stateful-packet-inspection?u=76281980)
+#### [Static packet filtering vs. stateful packet inspection](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/static-packet-filtering-vs-stateful-packet-inspection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -776,14 +763,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Disable UFW
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-disable-ufw?u=76281980)
+#### [Challenge: Disable UFW](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-disable-ufw?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-disable-ufw?u=76281980&t=0)** - [Instructor] Imagine you are a network engineer and you have to do some troubleshooting, which sometimes involves disabling a firewall.
 >
-> **[0:16](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-disable-ufw?u=76281980&t=16)** We learned how to enable UFW, or Uncomplicated Firewall on Ubuntu.
+> **[0:16](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-disable-ufw?u=76281980&t=16)** We learned how to enable UFW, or Uncomplicated Firewall on [[Ubuntu]].
 >
 > **[0:22](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-disable-ufw?u=76281980&t=22)** Let's check the status of the UFW firewall by typing "sudo ufw status."
 >
@@ -805,15 +791,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1), [[Ubuntu]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1)
 > **Env Vars:** ufw (3)
 > **CLI Commands:** sudo (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Disable UFW
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-disable-ufw?u=76281980)
+#### [Solution: Disable UFW](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-disable-ufw?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,18 +829,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Netfilter and iptables
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980)
+#### [Netfilter and iptables](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=0)** - [Instructor] Netfilter is a built-in Linux firewall.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=0)** - [Instructor] Netfilter is a built-in [[Linux]] firewall.
 >
 > **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=4)** Every Linux distribution comes with Netfilter because it's part of the Linux kernel.
 >
 > **[0:12](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=12)** IP tables is a program built to configure the Netfilter firewall.
 >
-> **[0:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=19)** IP tables is a command line interface or CLI program, which means that you have to rely on a Linux terminal program like this to use it.
+> **[0:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=19)** IP tables is a command line interface or [[CLI]] program, which means that you have to rely on a Linux terminal program like this to use it.
 >
 > **[0:32](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=32)** Here is what a basic IP table's command looks like.
 >
@@ -889,7 +873,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=133)** It visualizes all the inspection points a packet goes through when processed by Netfilter.
 >
-> **[2:22](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=142)** The process starts with pre routing.
+> **[2:22](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=142)** The process starts with pre [[Routing]].
 >
 > **[2:27](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=147)** Then depending on the routing decision, it's either forwarded or input into a local process and then goes to the output inspection point.
 >
@@ -905,7 +889,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=199)** Netfilter and IP tables provide a foundation for Linux firewalls.
 >
-> **[3:26](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=206)** If you can configure Netfilter through IP tables, you should be able to set up any other firewall products out there.
+> **[3:26](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980&t=206)** If you can configure Netfilter through IP tables, you should be able to set up any other firewall [[Microsoft Products|products]] out there.
 
 > [!info]- Semantic Content
 >
@@ -917,8 +901,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a host firewall using iptables
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980)
+#### [Setting up a host firewall using iptables](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,7 +935,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=102)** Let's see if the firewall rules work.
 >
-> **[1:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=106)** Before moving on, let's check the IP address of the Ubuntu host.
+> **[1:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=106)** Before moving on, let's check the IP address of the [[Ubuntu]] host.
 >
 > **[1:52](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=112)** Type ip space address space show.
 >
@@ -964,7 +947,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=138)** The ping command is used for checking if a host is up or down.
 >
-> **[2:25](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=145)** Let's now switch to a Windows machine in the same network.
+> **[2:25](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=145)** Let's now switch to a [[Windows]] machine in the same network.
 >
 > **[2:31](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=151)** First, activate a Command Prompt.
 >
@@ -976,7 +959,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=169)** The IP address of this host is 192.168 .35.134.
 >
-> **[3:01](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=181)** Now, I'm going to be pinging the Linux host from my Windows client by typing ping space 192.168.
+> **[3:01](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=181)** Now, I'm going to be pinging the [[Linux]] host from my Windows client by typing ping space 192.168.
 >
 > **[3:16](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=196)** .35.128, which is the IP address of the Ubuntu host.
 >
@@ -1006,7 +989,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=299)** Press Enter.
 >
-> **[5:02](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=302)** Do you see the word DROP next to FORWARD?
+> **[5:02](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=302)** Do you see the [[Microsoft Word|word]] DROP next to FORWARD?
 >
 > **[5:07](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=307)** It was accept when we checked the status last time.
 >
@@ -1030,11 +1013,11 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=371)** What do you think?
 >
-> **[6:13](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=373)** Setting up the host firewall using the CLI isn't that bad, right?
+> **[6:13](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-host-firewall-using-iptables?u=76281980&t=373)** Setting up the host firewall using the [[CLI]] isn't that bad, right?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Windows]] (3), traffic (2), prompt (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Windows]] (3), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[CLI]] (1)
 > **Env Vars:** drop (3), nic (2), forward (2), input (1), cli (1)
 > **Versions:** 192.168.35 (2), 192.168 (2), 35.134 (1), 35.128 (1)
 > **CLI Commands:** sudo (4), make (1)
@@ -1043,12 +1026,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), click on (1)
 > **Prerequisites:** set up (2)
 
-#### Automating netfilter configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/automating-netfilter-configuration?u=76281980)
+#### [Automating netfilter configuration](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/automating-netfilter-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/automating-netfilter-configuration?u=76281980&t=0)** - [Instructor] It's cumbersome to keep typing iptables commands into our command line interface or CLI.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/automating-netfilter-configuration?u=76281980&t=0)** - [Instructor] It's cumbersome to keep typing iptables commands into our command line interface or [[CLI]].
 >
 > **[0:08](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/automating-netfilter-configuration?u=76281980&t=8)** You can automate this process by creating a shell script.
 >
@@ -1060,7 +1042,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/automating-netfilter-configuration?u=76281980&t=43)** Press Enter.
 >
-> **[0:45](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/automating-netfilter-configuration?u=76281980&t=45)** Nano is one of the pre-installed Linux text editors.
+> **[0:45](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/automating-netfilter-configuration?u=76281980&t=45)** Nano is one of the pre-installed [[Linux]] text editors.
 >
 > **[0:50](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/automating-netfilter-configuration?u=76281980&t=50)** Now type iptables, space, -P, capital P,
 >
@@ -1130,7 +1112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), next (2), [[CLI]] (1), cd (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[Linux]] (1)
 > **CLI Commands:** make (2), ls (2), chmod (2), cd (1), sudo (1)
 > **Env Vars:** drop (2), output (2), cli (1), input (1), accept (1)
 > **File Paths:** myfirewall.sh (4), myfw.sh (1)
@@ -1138,8 +1120,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding hosts as routers
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980)
+#### [Understanding hosts as routers](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1147,11 +1128,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=4)** Here is what you need.
 >
-> **[0:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=5)** Hardware wise, a second network interface card, or NIC, is necessary.
+> **[0:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=5)** [[Hardware]] wise, a second network interface card, or NIC, is necessary.
 >
-> **[0:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=11)** In terms of software, you could be using any Linux distribution.
+> **[0:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=11)** In terms of software, you could be using any [[Linux]] distribution.
 >
-> **[0:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=17)** Ubuntu is our choice.
+> **[0:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=17)** [[Ubuntu]] is our choice.
 >
 > **[0:20](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=20)** If you're using a physical computer, go ahead and plug in your second NIC and set it up.
 >
@@ -1161,7 +1142,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=35)** Think of what a home router does.
 >
-> **[0:38](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=38)** It allows you to share a single external IP address among multiple hosts in the same local area network, or LAN.
+> **[0:38](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=38)** It allows you to share a single external IP address among multiple hosts in the same [[Local Area Network (LAN)|local area network]], or LAN.
 >
 > **[0:47](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=47)** We call this feature network address translation, or NAT.
 >
@@ -1177,7 +1158,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=82)** Previously, we set up our host firewall on a local host.
 >
-> **[1:27](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=87)** The rest of the architecture yet to be completed is grayed out.
+> **[1:27](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=87)** The [[Representational State Transfer (REST)|rest]] of the architecture yet to be completed is grayed out.
 >
 > **[1:32](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-hosts-as-routers?u=76281980&t=92)** In this chapter, we'll configure a second Ubuntu VM host as a router.
 >
@@ -1193,19 +1174,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Hardware]] (1), [[Linux]] (1), [[Local Area Network (LAN)|Local area network]] (1), lan (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Hardware]] (1), [[Linux]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** nic (4), nat (2), lan (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Definitions:** we call this (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a network adapter
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980)
+#### [Adding a network adapter](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=0)** - [Instructor] Let's set up an Ubuntu host as a router.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=0)** - [Instructor] Let's set up an [[Ubuntu]] host as a router.
 >
 > **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=4)** I'm assuming that you already have a second network interface card, or NIC, installed on your host, either physically or virtually.
 >
@@ -1223,7 +1203,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=70)** By the way, the network addresses starting with 192 we are using here are private.
 >
-> **[1:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=77)** We use these addresses only within a local area network, or LAN, which are never used as internet addresses.
+> **[1:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=77)** We use these addresses only within a [[Local Area Network (LAN)|local area network]], or LAN, which are never used as internet addresses.
 >
 > **[1:28](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/adding-a-network-adapter?u=76281980&t=88)** Another group of popular private addresses start with 10.
 >
@@ -1251,7 +1231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Local Area Network (LAN)|Local area network]] (2), lan (1), next (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Local Area Network (LAN)|Local area network]] (2)
 > **Versions:** 192.168.35 (4), 192.168.70 (4), 255.255.255 (1)
 > **Definitions:** is a  (2), means that (1), refers to (1)
 > **Env Vars:** nic (1), lan (1)
@@ -1259,12 +1239,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing the second adapter
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-second-adapter?u=76281980)
+#### [Testing the second adapter](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-second-adapter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-second-adapter?u=76281980&t=0)** - [Instructor] Once we set up our Ubuntu host as a router, the next step is to connect another host to our Ubuntu-router host to see if it functions as a router properly.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-second-adapter?u=76281980&t=0)** - [Instructor] Once we set up our [[Ubuntu]] host as a router, the next step is to connect another host to our Ubuntu-router host to see if it functions as a router properly.
 >
 > **[0:13](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-second-adapter?u=76281980&t=13)** I have an Ubuntu host already up and running.
 >
@@ -1286,17 +1265,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (6), next (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (6)
 > **Versions:** 192.168.35 (4)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up IP forwarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-ip-forwarding?u=76281980)
+#### [Setting up IP forwarding](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-ip-forwarding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-ip-forwarding?u=76281980&t=0)** - [Instructor] In this lesson, we'll change our Ubuntu router host operating system settings to forward packets from its internal network interface to the external network interface.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-ip-forwarding?u=76281980&t=0)** - [Instructor] In this lesson, we'll change our [[Ubuntu]] router host operating system settings to forward packets from its internal network interface to the external network interface.
 >
 > **[0:13](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-ip-forwarding?u=76281980&t=13)** This allows us to forward packets from the Ubuntu host connected to the Ubuntu router host to the internet.
 >
@@ -1312,7 +1290,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-ip-forwarding?u=76281980&t=66)** What this indicates is that at the operating system level, forwarding is disabled.
 >
-> **[1:14](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-ip-forwarding?u=76281980&t=74)** By the way, more is a Linux command to show the content of a file.
+> **[1:14](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-ip-forwarding?u=76281980&t=74)** By the way, more is a [[Linux]] command to show the content of a file.
 >
 > **[1:21](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-ip-forwarding?u=76281980&t=81)** Now our mission is to enable forwarding.
 >
@@ -1364,18 +1342,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (3), [[Linux]] (2), next (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), [[Linux]] (2)
 > **Code Identifiers:** ip_forward (6)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **CLI Commands:** sudo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing netfilter settings: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-1?u=76281980)
+#### [Changing netfilter settings: Part 1](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-1?u=76281980&t=0)** - [Instructor] Next, we'll change the net filter rules on the Ubuntu router host to finish our configuration for forwarding packets between the internet and the Ubuntu local host.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-1?u=76281980&t=0)** - [Instructor] Next, we'll change the net filter rules on the [[Ubuntu]] router host to finish our configuration for forwarding packets between the internet and the Ubuntu local host.
 >
 > **[0:14](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-1?u=76281980&t=14)** The first step is to change your Ubuntu host gateway IP to the Ubuntu router host, so that your Ubuntu host knows how to access the internet.
 >
@@ -1387,7 +1364,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-1?u=76281980&t=63)** Now, let's test if my Ubuntu host sharing the same subnet with the Ubuntu router host has internet access.
 >
-> **[1:12](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-1?u=76281980&t=72)** Type ping 8.8.8.8, which is the IP address of a Google Domain Name Server, or DNS, on the internet.
+> **[1:12](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-1?u=76281980&t=72)** Type ping 8.8.8.8, which is the IP address of a [[Google]] Domain Name Server, or DNS, on the internet.
 >
 > **[1:26](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-1?u=76281980&t=86)** Press Enter.
 >
@@ -1397,19 +1374,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (10), next (1), [[Google]] (1), dns (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (10), [[Google]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Versions:** 192.168.35 (1), 8.8.8 (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dns (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing netfilter settings: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980)
+#### [Changing netfilter settings: Part 2](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=0)** - [Instructor] Now we are on the Ubuntu-router host.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=0)** - [Instructor] Now we are on the [[Ubuntu]]-router host.
 >
 > **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=4)** Let's use a shell script instead of typing individual commands.
 >
@@ -1475,7 +1451,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=297)** This rule changes the source IP of all the outgoing packets into the IP address of the external network interface card of the Ubuntu-router host.
 >
-> **[5:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=309)** The word MASQUERADE refers to this process of changing the source IP of all the outgoing packets so that they all appear to be coming from a single host when in fact they are from multiple internal hosts with different IPs.
+> **[5:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=309)** The [[Microsoft Word|word]] MASQUERADE refers to this process of changing the source IP of all the outgoing packets so that they all appear to be coming from a single host when in fact they are from multiple internal hosts with different IPs.
 >
 > **[5:27](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/changing-netfilter-settings-part-2?u=76281980&t=327)** Now we're done with our script.
 >
@@ -1501,7 +1477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (2), cd (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** forward (6), accept (5), established (3), related (3), masquerade (3)
 > **Speakers:** - o (2), - a (2), - [instructor] (1), - i (1), - m (1)
 > **CLI Commands:** make (2), cd (1), chmod (1), ls (1), sudo (1)
@@ -1509,18 +1485,17 @@ created: 2026-05-02
 > **File Paths:** myfw.sh (2)
 > **Best Practices:** don't forget (1)
 
-#### Testing the router
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-router?u=76281980)
+#### [Testing the router](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-router?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-router?u=76281980&t=0)** - [Instructor] Now, let's test if our Ubuntu router host is forwarding the package properly.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-router?u=76281980&t=0)** - [Instructor] Now, let's test if our [[Ubuntu]] router host is forwarding the package properly.
 >
 > **[0:07](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-router?u=76281980&t=7)** I'm back to our Ubuntu host, type ping 8.8.8.8.
 >
 > **[0:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-router?u=76281980&t=17)** Press Enter.
 >
-> **[0:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-router?u=76281980&t=19)** Getting a response from the Google DNS server means that we have an internet connection.
+> **[0:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-router?u=76281980&t=19)** Getting a response from the [[Google]] DNS server means that we have an internet connection.
 >
 > **[0:28](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-the-router?u=76281980&t=28)** The ultimate test is to ping the external network interface of the Ubuntu to router host whose IP is 192.168.70.128.
 >
@@ -1536,7 +1511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Google]] (1), dns (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Google]] (1)
 > **Versions:** 192.168.70 (2), 8.8.8 (1), 192.168.35 (1)
 > **Definitions:** means that (2)
 > **Env Vars:** dns (1)
@@ -1547,14 +1522,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up hosts as network firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980)
+#### [Setting up hosts as network firewalls](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=0)** - [Instructor] Compared to setting up a router host, adding new network file features is fairly straightforward.
 >
-> **[0:08](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=8)** Let's discuss how to set up our Ubuntu router host as a network firewall in this lesson.
+> **[0:08](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=8)** Let's discuss how to set up our [[Ubuntu]] router host as a network firewall in this lesson.
 >
 > **[0:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980&t=15)** Network firewalls handle service requests by either blocking them or providing port forwarding.
 >
@@ -1596,7 +1570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (10), traffic (5), web (1), next (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (10)
 > **Versions:** 192.168.35 (3), 192.168.70 (2)
 > **Prerequisites:** set up (3), prerequisite (1)
 > **Ports:** port 80 (3)
@@ -1605,18 +1579,17 @@ created: 2026-05-02
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a web server
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980)
+#### [Setting up a web server](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=0)** - [Instructor] The area behind our Ubuntu router serving as a network firewall is a demilitarized zone or DMZ.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=0)** - [Instructor] The area behind our [[Ubuntu]] router serving as a network firewall is a demilitarized zone or DMZ.
 >
 > **[0:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=9)** We call it DMZ because it's a relatively safe place after our first layer of firewall filtering.
 >
 > **[0:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=19)** Our goal is to provide an HTTP service on our Ubuntu local host in the DMZ.
 >
-> **[0:27](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=27)** Let's start by installing a popular Linux web server called Apache on our Ubuntu host.
+> **[0:27](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=27)** Let's start by installing a popular [[Linux]] web server called Apache on our Ubuntu host.
 >
 > **[0:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=36)** Type pseudo apt install apache2.
 >
@@ -1668,13 +1641,13 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=215)** Type Q.
 >
-> **[3:37](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=217)** The hosts in our DMZ, which shares the same local area network behind the Ubuntu router host/network firewall are the only ones that can access the web server for now.
+> **[3:37](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=217)** The hosts in our DMZ, which shares the same [[Local Area Network (LAN)|local area network]] behind the Ubuntu router host/network firewall are the only ones that can access the web server for now.
 >
 > **[3:53](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-a-webserver?u=76281980&t=233)** The next step is to enable port forwarding to allow hosts on the internet to send their requests to our web server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (17), [[Ubuntu]] (6), [[Linux]] (1), [[Local Area Network (LAN)|Local area network]] (1), next (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (6), [[Linux]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dmz (4), http (2), ctl (1), ubuntu (1)
 > **CLI Commands:** systemctl (4), apache (2), apt (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1682,12 +1655,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Port forwarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/port-forwarding?u=76281980)
+#### [Port forwarding](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/port-forwarding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/port-forwarding?u=76281980&t=0)** - [Instructor] Let's try to connect to the web server on the Ubuntu host in the DMZ, from a Windows host through the Ubuntu router host.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/port-forwarding?u=76281980&t=0)** - [Instructor] Let's try to connect to the web server on the [[Ubuntu]] host in the DMZ, from a [[Windows]] host through the Ubuntu router host.
 >
 > **[0:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/port-forwarding?u=76281980&t=11)** We'll be using the IP address of the external network interface of the Ubuntu router host to get to the web server.
 >
@@ -1739,7 +1711,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/port-forwarding?u=76281980&t=195)** space, 192.168.35.128.
 >
-> **[3:24](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/port-forwarding?u=76281980&t=204)** Since the line is too long, we have this less than sign right here, hiding the rest of the line.
+> **[3:24](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/port-forwarding?u=76281980&t=204)** Since the line is too long, we have this less than sign right here, hiding the [[Representational State Transfer (REST)|rest]] of the line.
 >
 > **[3:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/port-forwarding?u=76281980&t=213)** DNAT here stands for destination network address translation.
 >
@@ -1781,7 +1753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (7), web (3), [[Windows]] (2), cd (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (7), [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** prerouting (3), dnat (3), forward (2), established (2), related (2)
 > **Versions:** 192.168.70 (4), 192.168.35 (3), 191.168 (1), 35.128 (1)
 > **CLI Commands:** cd (1), ls (1), make (1), sudo (1)
@@ -1790,14 +1762,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - a (1), - j (1)
 > **Cross-References:** go back to (1)
 
-#### Testing port forwarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-port-forwarding?u=76281980)
+#### [Testing port forwarding](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-port-forwarding?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-port-forwarding?u=76281980&t=0)** - [Instructor] Let's test if port forwarding is working.
 >
-> **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-port-forwarding?u=76281980&t=4)** We're back to the Windows host, sharing the same subnet with the Ubuntu router host external interface, ENS 32.
+> **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-port-forwarding?u=76281980&t=4)** We're back to the [[Windows]] host, sharing the same subnet with the [[Ubuntu]] router host external interface, ENS 32.
 >
 > **[0:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/testing-port-forwarding?u=76281980&t=15)** Let's try to connect to our web server in the DMZ through the Ubuntu router host using our web browser.
 >
@@ -1811,17 +1782,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (5), web (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Windows]] (1)
 > **Env Vars:** dmz (2), ens (1)
 > **Versions:** 192.168.70 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding one-legged DMZ
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-one-legged-dmz?u=76281980)
+#### [Understanding one-legged DMZ](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-one-legged-dmz?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-one-legged-dmz?u=76281980&t=0)** - [Instructor] When opening a file port and enabling port forwarding a risk is that some internal hosts, such as web servers are now accessible on the entire internet.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-one-legged-dmz?u=76281980&t=0)** - [Instructor] When opening a file port and enabling port forwarding a risk is that some internal hosts, such as [[Web Servers]] are now accessible on the entire internet.
 >
 > **[0:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-one-legged-dmz?u=76281980&t=17)** There's always a chance of an attacker compromising the web server.
 >
@@ -1857,15 +1827,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), traffic (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **Env Vars:** dmz (12)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding true DMZ
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-true-dmz?u=76281980)
+#### [Understanding true DMZ](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-true-dmz?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1891,7 +1860,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-true-dmz?u=76281980&t=86)** Your internal network host get additional protection and separation from the host in the DMZ.
 >
-> **[1:34](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-true-dmz?u=76281980&t=94)** True DMZ is a gold standard in network security.
+> **[1:34](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-true-dmz?u=76281980&t=94)** True DMZ is a gold standard in [[Network Security]].
 
 > [!info]- Semantic Content
 >
@@ -1901,8 +1870,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding an application proxy firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-an-application-proxy-firewall?u=76281980)
+#### [Understanding an application proxy firewall](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-an-application-proxy-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1932,7 +1900,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-an-application-proxy-firewall?u=76281980&t=94)** The architecture consists of three elements, HTTP Client, HTTP Proxy, and HTTP Server.
 >
-> **[1:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-an-application-proxy-firewall?u=76281980&t=106)** The HTTP client is usually a web browser, like Microsoft Edge.
+> **[1:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-an-application-proxy-firewall?u=76281980&t=106)** The HTTP client is usually a web browser, like [[Microsoft]] Edge.
 >
 > **[1:53](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/understanding-an-application-proxy-firewall?u=76281980&t=113)** To the HTTP client, an HTTP proxy looks like a web server.
 >
@@ -1956,19 +1924,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), web (5), data (4), open-source (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** http (25), spf (2), spi (2), xyz (1), dmz (1)
 > **Definitions:** is an  (2), is called (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Squid
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980)
+#### [Setting up Squid](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=0)** - [Instructor] Let's install Squid, on our Ubuntu router host and block a website.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=0)** - [Instructor] Let's install Squid, on our [[Ubuntu]] router host and block a website.
 >
 > **[0:07](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=7)** Type sudo apt install squid,
 >
@@ -2042,7 +2009,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=227)** Press Enter.
 >
-> **[3:48](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=228)** Type .[microsoft.com](https://microsoft.com).
+> **[3:48](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=228)** Type .[[[Microsoft]].com](https://microsoft.com).
 >
 > **[3:54](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-squid?u=76281980&t=234)** Based on this regular expression, our proxy server, Squid, will block whatever domain name ending with .[microsoft.com](https://microsoft.com).
 >
@@ -2094,7 +2061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[Ubuntu]] (3), [[Microsoft]] (3), web (2), cd (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), [[Microsoft]] (3)
 > **CLI Commands:** sudo (4), apt (1), cd (1), ls (1), make (1)
 > **Code Identifiers:** url_regex (3), http_access (2)
 > **UI Navigation:** click on (4), go to (1)
@@ -2103,8 +2070,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1), is a  (1)
 > **Prerequisites:** install (2)
 
-#### Challenge: Fine-tuning the Squid configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980)
+#### [Challenge: Fine-tuning the Squid configuration](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2116,13 +2082,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=15)** It's blocking all the websites instead of the ones specified in the file called Blocked.
 >
-> **[0:24](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=24)** Let me try [linkedin.com](https://linkedin.com).
+> **[0:24](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=24)** Let me try [[[LinkedIn]].com](https://linkedin.com).
 >
 > **[0:29](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=29)** Press Enter.
 >
 > **[0:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=30)** You get this error message.
 >
-> **[0:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=33)** Our intention was to allow all the websites except for the ones with the [microsoft.com](https://microsoft.com) domain name.
+> **[0:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=33)** Our intention was to allow all the websites except for the ones with the [[[Microsoft]].com](https://microsoft.com) domain name.
 >
 > **[0:42](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-finetuning-squid-configuration?u=76281980&t=42)** Your mission is to fix this problem by revisiting the squid.conf file so that we only block the [microsoft.com](https://microsoft.com) websites.
 
@@ -2134,8 +2100,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle bright music) (1)
 
-#### Solution: Fine-tuning the Squid configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980)
+#### [Solution: Fine-tuning the Squid configuration](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2151,17 +2116,17 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=23)** Let's do a search by pressing the Control and W keys together.
 >
-> **[0:29](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=29)** Type the word insert, press Enter, and you can see the rule we added earlier.
+> **[0:29](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=29)** Type the [[Microsoft Word|word]] insert, press Enter, and you can see the rule we added earlier.
 >
 > **[0:39](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=39)** Do you also see the line that says http_access deny all?
 >
 > **[0:47](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=47)** What this means is, Squid is blocking all the websites in addition to the one we specified.
 >
-> **[0:54](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=54)** That is, [microsoft.com](https://microsoft.com).
+> **[0:54](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=54)** That is, [[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:58](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=58)** You might have noticed the error messages blocking the websites were slightly different.
 >
-> **[1:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=65)** The websites blocked by me had this screen, and all the rest of the websites blocked by Squid, by default, looked like this.
+> **[1:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=65)** The websites blocked by me had this screen, and all the [[Representational State Transfer (REST)|rest]] of the websites blocked by Squid, by default, looked like this.
 >
 > **[1:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=77)** On my custom error screen, you can even see that the route to router host is blocking the website.
 >
@@ -2181,13 +2146,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=150)** Now let's see if Squid allows other websites.
 >
-> **[2:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=156)** Earlier, I typed [linkedin.com](https://linkedin.com) and got this message.
+> **[2:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=156)** Earlier, I typed [[[LinkedIn]].com](https://linkedin.com) and got this message.
 >
 > **[2:41](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-finetuning-squid-configuration?u=76281980&t=161)** Let's reload the webpage, And it works.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** sudo (3), systemctl (2)
 > **Code Identifiers:** http_access (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [linkedin.com](https://linkedin.com) (1)
@@ -2200,8 +2165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is packet analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980)
+#### [What is packet analysis?](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2209,7 +2173,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=6)** Computer network professionals use packet analysis to observe and diagnose the health of a network.
 >
-> **[0:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=15)** Cybersecurity professionals use packet analysis to conduct passive network vulnerability assessments.
+> **[0:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=15)** [[Cybersecurity]] professionals use packet analysis to conduct passive network vulnerability assessments.
 >
 > **[0:24](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=24)** The adjective passive here means that whoever is inspecting the packets doesn't take any actions affecting the packets, like dropping the packets or altering them.
 >
@@ -2217,7 +2181,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=46)** The term packet and packet analysis is misleading because frames are what's actually captured and analyzed.
 >
-> **[0:57](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=57)** Think of frames as container trucks delivering network packets in a local area network or land.
+> **[0:57](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=57)** Think of frames as container trucks delivering network packets in a [[Local Area Network (LAN)|local area network]] or land.
 >
 > **[1:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=65)** Packet analyzers intercept a frame and take a packet out of it for further inspection.
 >
@@ -2247,23 +2211,22 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=175)** Packet analysis is an essential element of any network or cybersecurity professional's toolbox.
 >
-> **[3:03](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=183)** It's indispensable in many different contexts of network troubleshooting and cybersecurity investigations.
+> **[3:03](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980&t=183)** It's indispensable in many different contexts of [[Network Troubleshooting]] and cybersecurity investigations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Local Area Network (LAN)|Local area network]] (1), application (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Local Area Network (LAN)|Local area network]] (1), [[Network Troubleshooting]] (1)
 > **Env Vars:** arp (4), tcp (3), udp (3), http (1)
 > **Definitions:** stands for (3), is a  (2), is an  (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### ARP poisoning example
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980)
+#### [ARP poisoning example](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=0)** - [Instructor] Packet analysis has many other useful applications in network security besides troubleshooting.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=0)** - [Instructor] Packet analysis has many other useful applications in [[Network Security]] besides troubleshooting.
 >
 > **[0:10](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=10)** One such application is network security reconnaissance.
 >
@@ -2275,13 +2238,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=46)** Why is ARP necessary?
 >
-> **[0:49](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=49)** Because we have a two-tiered addressing system in computer networking.
+> **[0:49](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=49)** Because we have a two-tiered addressing system in [[Computer Networking]].
 >
 > **[0:57](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=57)** One for local area networks or LANs and the other for the internet.
 >
 > **[1:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=64)** Have you heard the term internet address?
 >
-> **[1:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=69)** In a local area network, or LAN, we use an address type called internet address.
+> **[1:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=69)** In a [[Local Area Network (LAN)|local area network]], or LAN, we use an address type called internet address.
 >
 > **[1:16](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=76)** When we send the message outside of the LAN, we use a different type of address called IP address.
 >
@@ -2327,24 +2290,23 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=260)** Therefore, the attacker establishes a person in the middle attack loop at the end of the process.
 >
-> **[4:28](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=268)** In this scenario, a packet analysis tool like Wireshark can detect the duplicate responses sent back to the ARP request.
+> **[4:28](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=268)** In this scenario, a packet analysis tool like [[Wireshark]] can detect the duplicate responses sent back to the ARP request.
 >
 > **[4:39](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/arp-poisoning-example?u=76281980&t=279)** Therefore, serving as an excellent network security tool.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (4), [[Network Security]] (3), [[Troubleshooting]] (1), application (1), [[Computer Networking]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (3), [[Computer Networking]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Wireshark]] (1)
 > **Env Vars:** arp (13), lan (4)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Packet capturing with Wireshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980)
+#### [Packet capturing with Wireshark](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=0)** - [Instructor] Wireshark is one of the most well-known packet and protocol analysis software.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=0)** - [Instructor] [[Wireshark]] is one of the most well-known packet and protocol analysis software.
 >
 > **[0:08](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=8)** This type of software is also called packet sniffer because it collects and inspects packets, like dogs sniffing for evidence in a crime scene.
 >
@@ -2402,7 +2364,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=182)** Let's visit the website.
 >
-> **[3:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=185)** [Linkedin.com](https://Linkedin.com).
+> **[3:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=185)** [[[LinkedIn]].com](https://Linkedin.com).
 >
 > **[3:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/packet-capturing-with-wireshark?u=76281980&t=191)** You can see, lots of messages are passing by.
 >
@@ -2426,7 +2388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (9), traffic (3), web (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (9), [[LinkedIn]] (1)
 > **Env Vars:** tcp (6), syn (4), ack (4)
 > **CLI Commands:** sudo (2), apt (1), find (1)
 > **Definitions:** is a  (2)
@@ -2434,12 +2396,11 @@ created: 2026-05-02
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring Wireshark's advanced features
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/exploring-wireshark-s-advanced-features?u=76281980)
+#### [Exploring Wireshark's advanced features](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/exploring-wireshark-s-advanced-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/exploring-wireshark-s-advanced-features?u=76281980&t=0)** - [Instructor] Once you get used to the basic features of Wireshark, it's time to learn some more advanced features to make your life easier when using Wireshark.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/exploring-wireshark-s-advanced-features?u=76281980&t=0)** - [Instructor] Once you get used to the basic features of [[Wireshark]], it's time to learn some more advanced features to make your life easier when using Wireshark.
 >
 > **[0:12](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/exploring-wireshark-s-advanced-features?u=76281980&t=12)** One of these useful extra Wireshark features is to use filters.
 >
@@ -2465,19 +2426,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (9), feature (2), dns (2), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (9)
 > **Env Vars:** dns (2), gui (2), tcp (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireshark hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980)
+#### [Wireshark hands-on](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=0)** - [Instructor] Let's try some more advanced Wireshark features.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=0)** - [Instructor] Let's try some more advanced [[Wireshark]] features.
 >
 > **[0:05](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=5)** The first one I'd like to show you is how to start Wireshark packet capturing directly without going through the initial GUI screen.
 >
@@ -2499,7 +2459,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=62)** Let's generate some more traffic by opening up our web browser.
 >
-> **[1:08](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=68)** Let's visit [linkedin.com](https://linkedin.com).
+> **[1:08](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=68)** Let's visit [[[LinkedIn]].com](https://linkedin.com).
 >
 > **[1:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/wireshark-hands-on?u=76281980&t=75)** You can see a lot more traffic being generated.
 >
@@ -2537,7 +2497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (5), traffic (3), next (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), [[LinkedIn]] (1)
 > **Env Vars:** gui (2), acl (2)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **CLI Commands:** sudo (1), make (1)
@@ -2546,8 +2506,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Warnings:** note that (1)
 
-#### Challenge: Filtering with IP addresses and port numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-filtering-with-ip-addresses-and-port-numbers?u=76281980)
+#### [Challenge: Filtering with IP addresses and port numbers](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-filtering-with-ip-addresses-and-port-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2561,7 +2520,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-filtering-with-ip-addresses-and-port-numbers?u=76281980&t=23)** Your mission is to make this search process easier by using filters.
 >
-> **[0:29](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-filtering-with-ip-addresses-and-port-numbers?u=76281980&t=29)** The first step is to find all the packets containing my Ubuntu router host external IP, which is 192.168.70.128.
+> **[0:29](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-filtering-with-ip-addresses-and-port-numbers?u=76281980&t=29)** The first step is to find all the packets containing my [[Ubuntu]] router host external IP, which is 192.168.70.128.
 >
 > **[0:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/challenge-filtering-with-ip-addresses-and-port-numbers?u=76281980&t=43)** To do that, go to this window and type ip.addr, space, two equal signs, and type 192.168.70.128.
 >
@@ -2575,7 +2534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), next (1), [[Search]] (1), [[Ubuntu]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 192.168.70 (2)
 > **Ports:** port 80 (1)
@@ -2584,8 +2543,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Filtering with IP addresses and port numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-filtering-with-ip-addresses-and-port-numbers?u=76281980)
+#### [Solution: Filtering with IP addresses and port numbers](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/solution-filtering-with-ip-addresses-and-port-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2611,7 +2569,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), traffic (1)
 > **Env Vars:** syn (2), ack (2), tcp (1)
 > **Versions:** 192.168.70 (2)
 > **CLI Commands:** find (1)
@@ -2623,12 +2580,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an IDS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980)
+#### [What is an IDS?](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980&t=0)** - [Instructor] An intrusion detection system, or IDS, provides an ability to receive an alert when an attacker breaches your network security.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980&t=0)** - [Instructor] An [[Intrusion Detection]] system, or IDS, provides an ability to receive an alert when an attacker breaches your [[Network Security]].
 >
 > **[0:11](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980&t=11)** Therefore, IDS is critical in protecting your network.
 >
@@ -2668,29 +2624,28 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980&t=145)** Security information and event management, or SIEM, collects network security relevant data from many sources, including firewalls, IDSs, IPSs, and log servers.
 >
-> **[2:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980&t=163)** SIEM offers powerful visualization options to correlate diverse network security data and allows network security personnel to make informed decisions on various cybersecurity threats.
+> **[2:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980&t=163)** SIEM offers powerful visualization options to correlate diverse network security data and allows network security personnel to make informed decisions on various [[Cybersecurity]] threats.
 >
 > **[2:59](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980&t=179)** A UTM solution can have a SIEM feature too.
 >
 > **[3:03](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980&t=183)** Although a signature-based IDS is more common, more and more IDS is combine both signature-based and behavior-based approaches.
 >
-> **[3:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980&t=197)** With the recent advances in artificial intelligence behavior-based IDS solutions are gaining more traction, whether it's standalone or built in as part of another product, an IDS is an essential element of your network defense.
+> **[3:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980&t=197)** With the recent advances in [[Artificial Intelligence (AI)|artificial intelligence]] behavior-based IDS solutions are gaining more traction, whether it's standalone or built in as part of another product, an IDS is an essential element of your network defense.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (6), traffic (3), management (3), data (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Network Security]] (6), [[Intrusion Detection]] (1), [[Cybersecurity]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** ids (9), siem (4), ips (2), utm (2), idss (1)
 > **Definitions:** is a  (1), refers to (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Snort
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980)
+#### [Introducing Snort](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=0)** - [Instructor] Snort is an open-source IDS or intrusion detection system.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=0)** - [Instructor] Snort is an open-source IDS or [[Intrusion Detection]] system.
 >
 > **[0:06](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=6)** It's one of the most widely used IDS software solutions, both for training and use in real life settings.
 >
@@ -2706,7 +2661,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=55)** You can find the latest Snort stable releases right here.
 >
-> **[1:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=60)** Windows and Linux versions are available.
+> **[1:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=60)** [[Windows]] and [[Linux]] versions are available.
 >
 > **[1:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=64)** Under Sources, you can download the source code too.
 >
@@ -2732,7 +2687,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=154)** Snort itself doesn't offer a visualization feature either, but a SIEM system such as Splunk can fill in the gap.
 >
-> **[2:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=163)** Another option is using a highly-scalable storage, search, and analytics solution, like Elasticsearch, combined with a visualization user interface like Kibana.
+> **[2:43](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=163)** Another option is using a highly-scalable storage, search, and analytics solution, like [[Elasticsearch]], combined with a visualization user interface like Kibana.
 >
 > **[3:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/introducing-snort?u=76281980&t=180)** With the support of an ecosystem consisting of log servers, data search and analytics engines and visualization, Snork remains a powerful network monitoring tool.
 >
@@ -2740,7 +2695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Analytics]] (2), open-source (1), [[Intrusion Detection]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Windows]] (1), [[Linux]] (1), [[Elasticsearch]] (1)
 > **Env Vars:** ids (6), ips (6), siem (2)
 > **Exercise Files:** download the (1), source code (1)
 > **Definitions:** is an  (1), stands for (1)
@@ -2749,12 +2704,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 
-#### Snort as a packet sniffer
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980)
+#### [Snort as a packet sniffer](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=0)** - [Instructor] Although Snort is an intrusion detection and prevention system solution, it can also be used as a basic packet sniper.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=0)** - [Instructor] Although Snort is an [[Intrusion Detection]] and prevention system solution, it can also be used as a basic packet sniper.
 >
 > **[0:10](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=10)** Let's start by first installing snort.
 >
@@ -2780,7 +2734,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=77)** Which interface do we use to snip the packets here?
 >
-> **[1:20](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=80)** We'll be using ENS32, which is the external network interface of the Ubuntu router host.
+> **[1:20](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=80)** We'll be using ENS32, which is the external network interface of the [[Ubuntu]] router host.
 >
 > **[1:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=90)** Now, -L and then the location where the packets are going to be stored.
 >
@@ -2822,9 +2776,9 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=206)** What do we do to actually read the content properly?
 >
-> **[3:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=210)** Type Q to get out of this and we'll be using Wireshark to view the packet captured by snort.
+> **[3:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=210)** Type Q to get out of this and we'll be using [[Wireshark]] to view the packet captured by snort.
 >
-> **[3:38](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=218)** Type pseudo Wireshark and then the name of the file, snort.log., the rest of the file name and press enter.
+> **[3:38](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=218)** Type pseudo Wireshark and then the name of the file, snort.log., the [[Representational State Transfer (REST)|rest]] of the file name and press enter.
 >
 > **[3:54](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-a-packet-sniffer?u=76281980&t=234)** Now you can read the individual entries of the results of our packet capturing.
 >
@@ -2832,7 +2786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (2), [[Intrusion Detection]] (1), [[Ubuntu]] (1), application (1), prompt (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Intrusion Detection]] (1), [[Ubuntu]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** apt (1), cd (1), ls (1)
 > **Versions:** 192.168.70 (2)
 > **UI Navigation:** go to (1), open the (1)
@@ -2841,12 +2795,11 @@ created: 2026-05-02
 > **Env Vars:** ens32 (1)
 > **Prerequisites:** install (1)
 
-#### Snort as an IDS: Establishing rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-establishing-rules?u=76281980)
+#### [Snort as an IDS: Establishing rules](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-establishing-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-establishing-rules?u=76281980&t=0)** - [Instructor] Let's run Snort as an intrusion detection system.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-establishing-rules?u=76281980&t=0)** - [Instructor] Let's run Snort as an [[Intrusion Detection]] system.
 >
 > **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-establishing-rules?u=76281980&t=4)** Before we put Snort in its intrusion detection mode, we have to do some prep work.
 >
@@ -2956,7 +2909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (2), cd (2), next (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2)
 > **CLI Commands:** cd (2), sudo (2), make (1), ls (1)
 > **Env Vars:** icmp (2), sid (1), rule_path (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -2964,8 +2917,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Snort as an IDS: Detecting pings
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-detecting-pings?u=76281980)
+#### [Snort as an IDS: Detecting pings](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-detecting-pings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2989,7 +2941,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-detecting-pings?u=76281980&t=77)** And finally, we have to say which network interface card Snort is going to be listening to by typing -i ens32.
 >
-> **[1:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-detecting-pings?u=76281980&t=93)** We'll be listening to the external network interface card of the Ubuntu router host, which has the IP of 192.168.70.128.
+> **[1:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-detecting-pings?u=76281980&t=93)** We'll be listening to the external network interface card of the [[Ubuntu]] router host, which has the IP of 192.168.70.128.
 >
 > **[1:47](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snort-as-an-ids-detecting-pings?u=76281980&t=107)** Let's start Snort by pressing Enter.
 >
@@ -3011,7 +2963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (3), next (2)
+> **Frameworks & Libraries:** [[Ubuntu]] (3)
 > **Env Vars:** ids (1), sid (1)
 > **Versions:** 192.168.70 (2)
 > **CLI Commands:** sudo (1)
@@ -3019,12 +2971,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a network vulnerability assessment?
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980)
+#### [What is a network vulnerability assessment?](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=0)** - Network vulnerability assessment is a way to discover potential security weaknesses in a computer network.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=0)** - Network [[Vulnerability Assessment]] is a way to discover potential security weaknesses in a computer network.
 >
 > **[0:07](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=7)** There are different types of network vulnerabilities.
 >
@@ -3036,7 +2987,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=29)** This third one is more human factor-oriented rather than technical.
 >
-> **[0:34](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=34)** For more technical vulnerabilities, especially those related to security misconfigurations, please check out this national vulnerability database by NIST or National Institute of Standards and Technology.
+> **[0:34](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=34)** For more technical vulnerabilities, especially those related to security misconfigurations, please check out this national vulnerability database by [[NIST]] or National Institute of Standards and Technology.
 >
 > **[0:51](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=51)** A lot of vulnerability assessment tools used that common configuration enumeration, or CCE provided by NIST.
 >
@@ -3044,7 +2995,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=69)** The hardening can be done technically by installing patches and fixing configurations, or it could be managerial like auditing and monitoring.
 >
-> **[1:21](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=81)** To harden your system properly, you should understand the nature of network security vulnerabilities first.
+> **[1:21](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=81)** To harden your system properly, you should understand the nature of [[Network Security]] vulnerabilities first.
 >
 > **[1:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-network-vulnerability-assessment?u=76281980&t=90)** The first thing to note is that the number of vulnerabilities is always too many to address.
 >
@@ -3078,28 +3029,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vulnerability Assessment]] (6), [[Security]] (3), [[NIST]] (2), database (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Vulnerability Assessment]] (6), [[NIST]] (2), [[Network Security]] (1)
 > **Env Vars:** nist (2), cce (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - network (1)
 
-#### Nessus
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980)
+#### [Nessus](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=0)** - [Instructor] Nessus comes with all the standard network vulnerability assessment tool features.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=0)** - [Instructor] Nessus comes with all the standard network [[Vulnerability Assessment]] tool features.
 >
-> **[0:07](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=7)** One of the most critical features is "vulnerability scanning with real-time updates" because new vulnerabilities show up all the time.
+> **[0:07](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=7)** One of the most critical features is "vulnerability scanning with [[Real-Time]] updates" because new vulnerabilities show up all the time.
 >
-> **[0:18](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=18)** Other features include "malware detection, web application scanning, mobile device detection, scan scheduling, email notifications, and configuration and compliance checks."
+> **[0:18](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=18)** Other features include "[[Malware Detection]], web application scanning, mobile device detection, scan scheduling, email notifications, and configuration and compliance checks."
 >
-> **[0:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=33)** Previously, we looked at the National Vulnerability Database, or NVD, by the National Institute of Standards and Technology, or NIST.
+> **[0:33](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=33)** Previously, we looked at the National Vulnerability Database, or NVD, by the National Institute of Standards and Technology, or [[NIST]].
 >
 > **[0:45](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=45)** NVD is a vulnerability repository that includes common vulnerability and exposure, or CVE.
 >
-> **[0:55](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=55)** CVE is a standard way of specifying security vulnerabilities widely accepted by industry professionals and researchers in the cybersecurity field.
+> **[0:55](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=55)** CVE is a standard way of specifying security vulnerabilities widely accepted by industry professionals and researchers in the [[Cybersecurity]] field.
 >
 > **[1:07](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/nessus?u=76281980&t=67)** Therefore, it makes sense for Nessus to adopt the standard, like CVE, to track network vulnerabilities.
 >
@@ -3107,13 +3057,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vulnerability Assessment]] (1), [[Real-Time]] (1), [[Malware Detection]] (1), web application (1), database (1)
+> **Frameworks & Libraries:** [[Vulnerability Assessment]] (1), [[Real-Time]] (1), [[Malware Detection]] (1), [[NIST]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** cve (3), nvd (2), nist (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Network scanning with Nessus
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/network-scanning-with-nessus?u=76281980)
+#### [Network scanning with Nessus](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/network-scanning-with-nessus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3171,11 +3120,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/network-scanning-with-nessus?u=76281980&t=139)** Do you like what you've seen so far?
 >
-> **[2:21](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/network-scanning-with-nessus?u=76281980&t=141)** Network vulnerability assessment could be a user friendly and satisfying experience and Nessus is a proof of that.
+> **[2:21](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/network-scanning-with-nessus?u=76281980&t=141)** Network [[Vulnerability Assessment]] could be a user friendly and satisfying experience and Nessus is a proof of that.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (1), web (1), [[Vulnerability Assessment]] (1)
+> **Frameworks & Libraries:** [[Vulnerability Assessment]] (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), set up (1)
@@ -3189,8 +3138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/logging?u=76281980)
+#### [Logging](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3208,7 +3156,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/logging?u=76281980&t=26)** The host here refer to computers, routers, firewalls, IDSs, IPSs servers, et cetera.
 >
-> **[0:38](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/logging?u=76281980&t=38)** IDSs are intrusion detection systems.
+> **[0:38](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/logging?u=76281980&t=38)** IDSs are [[Intrusion Detection]] systems.
 >
 > **[0:42](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/logging?u=76281980&t=42)** IPSs are intrusion prevention systems.
 >
@@ -3222,12 +3170,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (1), feature (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### syslog-ng
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/syslog-ng?u=76281980)
+#### [syslog-ng](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/syslog-ng?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3277,15 +3224,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), management (1), database (1), [[Security]] (1), [[Debugging]] (1)
 > **Definitions:** is a  (2), stands for (1), refers to (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Log forwarding: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-1?u=76281980)
+#### [Log forwarding: Part 1](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3335,7 +3280,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-1?u=76281980&t=106)** Type sudo snort -s, and then use the configuration file option, which is -c /etc/snort/snort.conf.
 >
-> **[2:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-1?u=76281980&t=124)** We'll be monitoring the external network interface card of the Ubuntu router host, which is ens32.
+> **[2:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-1?u=76281980&t=124)** We'll be monitoring the external network interface card of the [[Ubuntu]] router host, which is ens32.
 >
 > **[2:13](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-1?u=76281980&t=133)** Therefore, type -i ens32.
 >
@@ -3351,19 +3296,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), cd (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1)
 > **CLI Commands:** sudo (2), cd (1), ls (1)
 > **Env Vars:** log_auth (1), log_alert (1)
 > **Code Identifiers:** alert_syslog (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Log forwarding: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-2?u=76281980)
+#### [Log forwarding: Part 2](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-2?u=76281980&t=0)** - [Instructor] Syslog-ng is already installed on my Ubuntu router host, but the command is sudo apt install syslog-ng.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-2?u=76281980&t=0)** - [Instructor] Syslog-ng is already installed on my [[Ubuntu]] router host, but the command is sudo apt install syslog-ng.
 >
 > **[0:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/log-forwarding-part-2?u=76281980&t=15)** Press Enter.
 >
@@ -3469,7 +3413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (2), next (2), cd (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (2)
 > **CLI Commands:** sudo (4), systemctl (2), apt (1), cd (1), ls (1)
 > **Code Identifiers:** s_src (2), f_auth (2)
 > **UI Navigation:** go to (2)
@@ -3478,12 +3422,11 @@ created: 2026-05-02
 > **Versions:** 192.168.70 (1)
 > **Definitions:** stands for (1)
 
-#### Kiwi
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980)
+#### [Kiwi](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=0)** - [Instructor] Kiwi is a Windows-based Syslog server.
+> **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=0)** - [Instructor] Kiwi is a [[Windows]]-based Syslog server.
 >
 > **[0:04](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=4)** You can download Kiwi by visiting the Kiwi website here.
 >
@@ -3491,13 +3434,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=15)** I'm using the commercial version for my demo.
 >
-> **[0:18](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=18)** The Kiwi log server is running on my Windows host sharing the same network with the external interface of the Ubuntu router host, which is DNS 32.
+> **[0:18](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=18)** The Kiwi log server is running on my Windows host sharing the same network with the external interface of the [[Ubuntu]] router host, which is DNS 32.
 >
 > **[0:35](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=35)** Here, you can see what Kiwi Syslog Server looks like.
 >
 > **[0:39](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=39)** Do you see the stored messages forwarded by the syslog-ng service right here?
 >
-> **[0:48](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=48)** Check out all the log messages referring to the snort intrusion detection system right here.
+> **[0:48](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=48)** Check out all the log messages referring to the snort [[Intrusion Detection]] system right here.
 >
 > **[0:55](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/kiwi?u=76281980&t=55)** Let's take a look at how our Kiwi Syslog Server is configured.
 >
@@ -3511,7 +3454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Intrusion Detection]] (2), [[Ubuntu]] (1), dns (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Intrusion Detection]] (2), [[Ubuntu]] (1)
 > **Env Vars:** dns (1), udp (1)
 > **Ports:** port 514 (1)
 > **UI Navigation:** go to (1)
@@ -3519,8 +3462,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### SNMP
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snmp?u=76281980)
+#### [SNMP](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snmp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3534,7 +3476,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snmp?u=76281980&t=30)** SNMP implementations allow you to monitor the health of network devices too.
 >
-> **[0:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snmp?u=76281980&t=36)** All these capabilities are necessary to enhance network security.
+> **[0:36](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snmp?u=76281980&t=36)** All these capabilities are necessary to enhance [[Network Security]].
 >
 > **[0:41](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/snmp?u=76281980&t=41)** SNMP consists of agents, managers, management information bases, or MIBs, and managed devices.
 >
@@ -3570,7 +3512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (3), [[Network Security]] (1), database (1)
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **Env Vars:** snmp (10), mib (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1)
@@ -3581,26 +3523,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980&t=0)** - Thanks for watching this course.
 >
-> **[0:02](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980&t=2)** We covered a lot, and you should be prepared to learn even more about network security.
+> **[0:02](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980&t=2)** We covered a lot, and you should be prepared to learn even more about [[Network Security]].
 >
 > **[0:08](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980&t=8)** To advance your knowledge of network security and fundamental networking concepts, I recommend you take the learning path, become an IT security specialist.
 >
-> **[0:18](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980&t=18)** If you're interested in learning how to investigate cybersecurity incidents, take my course on learning Network Forensics.
+> **[0:18](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980&t=18)** If you're interested in learning how to investigate [[Cybersecurity]] incidents, take my course on learning [[Network Forensics]].
 >
-> **[0:26](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980&t=26)** Finally, be sure to connect on LinkedIn and post your course completion with the #lilprotectyournetwork.
+> **[0:26](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980&t=26)** Finally, be sure to connect on [[LinkedIn]] and post your course completion with the #lilprotectyournetwork.
 >
 > **[0:35](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980&t=35)** I look forward to hearing from you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (2), [[Security]] (1), [[Cybersecurity]] (1), [[Network Forensics]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Cybersecurity]] (1), [[Network Forensics]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - thanks (1)
 

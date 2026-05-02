@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Become the Ultimate Financial Analyst Using SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980)
+#### [Become the Ultimate Financial Analyst Using SQL](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980&t=0)** - I'm guessing SQL may not be the first tool that comes to mind when thinking about the day-to-day of working in finance.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980&t=0)** - I'm guessing [[SQL]] may not be the first tool that comes to mind when thinking about the day-to-day of working in finance.
 >
 > **[0:06](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980&t=6)** Almost every industry is grappling with how to handle and make sense of vast stores of information or data, and finance is no different.
 >
@@ -104,20 +103,19 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980&t=27)** My name is Megan Lieu, a financial analyst turned data scientist.
 >
-> **[0:31](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980&t=31)** I love working with SQL to derive insights and tell stories from large volumes of financial data.
+> **[0:31](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980&t=31)** I love working with SQL to derive insights and tell stories from large volumes of [[Financial Data]].
 >
-> **[0:38](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980&t=38)** If you want to learn about how SQL is an essential tool in your finance toolkit, join me on LinkedIn Learning for SQL for Finance.
+> **[0:38](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980&t=38)** If you want to learn about how SQL is an essential tool in your finance toolkit, join me on [[LinkedIn]] Learning for SQL for Finance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (4), [[Programming]] (1), [[Financial Data]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Financial Data]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/what-you-should-know-23451296?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/sql-for-finance-professionals/what-you-should-know-23451296?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/sql-for-finance-professionals/what-you-should-know-23451296?u=76281980&t=59)** We call both of these formats, structured data.
 >
-> **[1:02](https://www.linkedin.com/learning/sql-for-finance-professionals/what-you-should-know-23451296?u=76281980&t=62)** Last, you should have a basic understanding of what the process of financial data analysis generally involves.
+> **[1:02](https://www.linkedin.com/learning/sql-for-finance-professionals/what-you-should-know-23451296?u=76281980&t=62)** Last, you should have a basic understanding of what the process of [[Financial Data]] analysis generally involves.
 >
 > **[1:09](https://www.linkedin.com/learning/sql-for-finance-professionals/what-you-should-know-23451296?u=76281980&t=69)** Data analysis is the process of inspecting, cleaning and analyzing data for the purpose of discovering and understanding information.
 >
@@ -147,11 +145,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), management (1), next (1), database (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (1)
 > **Speakers:** - let (1)
 
-#### Using CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/using-coderpad?u=76281980)
+#### [Using CoderPad](https://www.linkedin.com/learning/sql-for-finance-professionals/using-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,7 +160,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-for-finance-professionals/using-coderpad?u=76281980&t=16)** For the best experience with code challenges, we recommend using a desktop browser.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-for-finance-professionals/using-coderpad?u=76281980&t=21)** However, if you prefer, you can also use the LinkedIn Learning mobile app.
+> **[0:21](https://www.linkedin.com/learning/sql-for-finance-professionals/using-coderpad?u=76281980&t=21)** However, if you prefer, you can also use the [[LinkedIn]] Learning mobile app.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-for-finance-professionals/using-coderpad?u=76281980&t=25)** The code environment is divided into three areas.
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -205,43 +202,41 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Background and use cases of SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980)
+#### [Background and use cases of SQL](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=0)** - A powerful tool that finance professionals use to make financial data analysis more efficient is SQL, or S-Q-L, or Structured Query Language.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=0)** - A powerful tool that finance professionals use to make [[Financial Data]] analysis more efficient is [[SQL]], or S-Q-L, or Structured Query Language.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=9)** SQL is the standard language used to access relational database management systems, which are programs that allow users to create and manage relational databases.
+> **[0:09](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=9)** SQL is the standard language used to access relational [[Database Management]] systems, which are programs that allow users to create and manage [[Relational Databases]].
 >
-> **[0:19](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=19)** These are types of databases that are structured in a way where data can be identified and accessed in relation to another piece of data in the database.
+> **[0:19](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=19)** These are types of [[Databases]] that are structured in a way where data can be identified and accessed in relation to another piece of data in the database.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=28)** Some common relational database management systems you may hear about or work with are Microsoft SQL Server, Oracle DB, MySQL, and PostgreSQL.
+> **[0:28](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=28)** Some common relational database management systems you may hear about or work with are [[Microsoft SQL Server]], Oracle DB, [[MySQL]], and [[PostgreSQL]].
 >
 > **[0:37](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=37)** All of these systems use their own flavor or dialect of the SQL language.
 >
 > **[0:42](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=42)** Common SQL dialects include T-SQL, PL/SQL, MySQL, and PL/pgSQL, respectively.
 >
-> **[0:49](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=49)** However, all of these languages share the core features of standard SQL, which we'll learn about in the rest of this chapter.
+> **[0:49](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980&t=49)** However, all of these languages share the core features of standard SQL, which we'll learn about in the [[Representational State Transfer (REST)|rest]] of this chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), database (3), management (2), data (2), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Database Management]] (2), [[MySQL]] (2), [[Financial Data]] (1), [[Relational Databases]] (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** mysql (2), make (1)
 > **Code Identifiers:** pgsql (1)
 > **Speakers:** - a (1)
 
-#### Types of SQL commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980)
+#### [Types of SQL commands](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980&t=0)** - [Instructor] Now that we've been introduced to SQL, it's time to learn about how to use it, and that's where commands come in.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980&t=0)** - [Instructor] Now that we've been introduced to [[SQL]], it's time to learn about how to use it, and that's where commands come in.
 >
 > **[0:07](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980&t=7)** Since SQL is a declarative query language, this means users tell the system what data to retrieve, and that is done using commands.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980&t=15)** There are four types of SQL commands: Data definition language, or DDL, data query language, or DQL, data manipulation language, DML, and data control language, or DCL.
+> **[0:15](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980&t=15)** There are four types of SQL commands: Data definition language, or DDL, data query language, or DQL, [[Data Manipulation]] language, DML, and data control language, or DCL.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980&t=31)** Another type you might encounter is transaction control language.
 >
@@ -265,24 +260,23 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980&t=111)** TCL commands include COMMIT, ROLLBACK, and SAVEPOINT.
 >
-> **[1:57](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980&t=117)** These five command types cover most of the actions you can use when working with data and databases through the power of SQL.
+> **[1:57](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980&t=117)** These five command types cover most of the actions you can use when working with data and [[Databases]] through the power of SQL.
 >
 > **[2:04](https://www.linkedin.com/learning/sql-for-finance-professionals/types-of-sql-commands-23451291?u=76281980&t=124)** Next, we'll learn about the data types you can use these commands on, followed by a deeper look into data query language specifically, as promised.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (5), [[SQL]] (4), [[Data Manipulation]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Data Manipulation]] (2), [[Databases]] (1)
 > **Env Vars:** sql (4), dml (4), dql (3), dcl (3), ddl (2)
 > **SQL:** select (1), update (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-data-types-23451297?u=76281980)
+#### [SQL data types](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-data-types-23451297?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-data-types-23451297?u=76281980&t=0)** - [Instructor] An understanding of data types in SQL will provide the foundation for understanding the analyses you'll be performing.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-data-types-23451297?u=76281980&t=0)** - [Instructor] An understanding of data types in [[SQL]] will provide the foundation for understanding the analyses you'll be performing.
 >
 > **[0:07](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-data-types-23451297?u=76281980&t=7)** A data type is an object characteristic that tells you the type of data.
 >
@@ -322,18 +316,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[SQL]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Queries: The basic building blocks of SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/queries-the-basic-building-blocks-of-sql-23451293?u=76281980)
+#### [Queries: The basic building blocks of SQL](https://www.linkedin.com/learning/sql-for-finance-professionals/queries-the-basic-building-blocks-of-sql-23451293?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/queries-the-basic-building-blocks-of-sql-23451293?u=76281980&t=0)** - [Instructor] A query is how you retrieve information from your data and is therefore essential to using SQL effectively.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/queries-the-basic-building-blocks-of-sql-23451293?u=76281980&t=0)** - [Instructor] A query is how you retrieve information from your data and is therefore essential to using [[SQL]] effectively.
 >
 > **[0:07](https://www.linkedin.com/learning/sql-for-finance-professionals/queries-the-basic-building-blocks-of-sql-23451293?u=76281980&t=7)** Think of it as how you communicate with your database to ask it a question and in return, the result of returns is the database's answer to your question.
 >
@@ -371,7 +364,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/sql-for-finance-professionals/queries-the-basic-building-blocks-of-sql-23451293?u=76281980&t=156)** Next, what if we want to see all the columns in the table to get a bigger picture of these same orders?
 >
-> **[2:41](https://www.linkedin.com/learning/sql-for-finance-professionals/queries-the-basic-building-blocks-of-sql-23451293?u=76281980&t=161)** Then instead of selecting specific columns in the SELECT clause, you can just use SELECT *, which will return the rest of the details about this person's orders available to us in the orders table.
+> **[2:41](https://www.linkedin.com/learning/sql-for-finance-professionals/queries-the-basic-building-blocks-of-sql-23451293?u=76281980&t=161)** Then instead of selecting specific columns in the SELECT clause, you can just use SELECT *, which will return the [[Representational State Transfer (REST)|rest]] of the details about this person's orders available to us in the orders table.
 >
 > **[2:55](https://www.linkedin.com/learning/sql-for-finance-professionals/queries-the-basic-building-blocks-of-sql-23451293?u=76281980&t=175)** The result is as follows.
 >
@@ -379,18 +372,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), data (3), database (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** select (7), sql (6), where (4)
 > **SQL:** select (7), where (4)
 > **Analogies:** think of it as (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use functions to perform calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980)
+#### [How to use functions to perform calculations](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980&t=0)** - [Instructor] Let's talk about SQL functions.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980&t=0)** - [Instructor] Let's talk about [[SQL]] functions.
 >
 > **[0:02](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980&t=2)** Fortunately, SQL has a lot of built-in functions that allow you to perform the most common types of calculations on your data.
 >
@@ -398,11 +390,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980&t=23)** Aggregate functions include functions to calculate the average, median, count, maximum, minimum, sum, first, and last of a set of data.
 >
-> **[0:33](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980&t=33)** These return basic statistics on a group of records when you specify a column name within the parentheses of the functions.
+> **[0:33](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980&t=33)** These return basic [[Statistics]] on a group of records when you specify a column name within the parentheses of the functions.
 >
 > **[0:40](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980&t=40)** When you see these parentheses, you know you're dealing with a function.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980&t=44)** And you can think of these parentheses as the word of.
+> **[0:44](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980&t=44)** And you can think of these parentheses as the [[Microsoft Word|word]] of.
 >
 > **[0:47](https://www.linkedin.com/learning/sql-for-finance-professionals/how-to-use-functions-to-perform-calculations-23451292?u=76281980&t=47)** For example, when you see average, open close parentheses, think of average of a given group of records.
 >
@@ -444,7 +436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (3), [[Statistics]] (1), [[Microsoft Word|Word]] (1), product (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Statistics]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (3), group (3), select (1)
 > **SQL:** group by (3), select (1)
 > **Code Identifiers:** maximum_price (2)
@@ -453,8 +445,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 
-#### Joins using table relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/joins-using-table-relationships-23451290?u=76281980)
+#### [Joins using table relationships](https://www.linkedin.com/learning/sql-for-finance-professionals/joins-using-table-relationships-23451290?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,17 +517,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1), business (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up sample data and files
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/setting-up-sample-data-and-files?u=76281980)
+#### [Setting up sample data and files](https://www.linkedin.com/learning/sql-for-finance-professionals/setting-up-sample-data-and-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/setting-up-sample-data-and-files?u=76281980&t=0)** - [Instructor] Let's take what we've just learned about SQL and create our very first query.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/setting-up-sample-data-and-files?u=76281980&t=0)** - [Instructor] Let's take what we've just learned about [[SQL]] and create our very first query.
 >
 > **[0:05](https://www.linkedin.com/learning/sql-for-finance-professionals/setting-up-sample-data-and-files?u=76281980&t=5)** But before we do that, we have to set up our SQL environment to begin querying the database exercise files provided in this course.
 >
@@ -576,7 +565,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/sql-for-finance-professionals/setting-up-sample-data-and-files?u=76281980&t=148)** To run the query I've written, I will simply press the blue play button above the query, but a handy shortcut you'll probably get used to is Control + Enter for PCs or Command + Enter for Macs to execute the command the same way.
 >
-> **[2:43](https://www.linkedin.com/learning/sql-for-finance-professionals/setting-up-sample-data-and-files?u=76281980&t=163)** A good reference doc to see a list of available keyboard commands that you can use in DB Browser is this GitHub page provided by SQLite Browser.
+> **[2:43](https://www.linkedin.com/learning/sql-for-finance-professionals/setting-up-sample-data-and-files?u=76281980&t=163)** A good reference doc to see a list of available keyboard commands that you can use in DB Browser is this [[GitHub]] page provided by SQLite Browser.
 >
 > **[2:52](https://www.linkedin.com/learning/sql-for-finance-professionals/setting-up-sample-data-and-files?u=76281980&t=172)** Great, now that you've had the chance to take a look around DB Browser, we can use it to start applying what we've learned from the past couple of videos in your first challenge of this course.
 >
@@ -584,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), [[SQL]] (6), data (3), application (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[GitHub]] (1)
 > **Env Vars:** sql (6), zip (1)
 > **UI Navigation:** select the (2), dropdown (2), go to (1), open the (1)
 > **Definitions:** is called (2), is an  (1), is a  (1)
@@ -593,8 +582,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **URLs:** [sqlitebrowser.org](https://sqlitebrowser.org) (1)
 
-#### Solution: Creating your first query
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/solution-creating-your-first-query-24464020?u=76281980)
+#### [Solution: Creating your first query](https://www.linkedin.com/learning/sql-for-finance-professionals/solution-creating-your-first-query-24464020?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,22 +613,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL in the finance field
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980)
+#### [SQL in the finance field](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=0)** - SQL can be a very powerful tool in a financial analyst's toolkit.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=0)** - [[SQL]] can be a very powerful tool in a financial analyst's toolkit.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=4)** It's great for business intelligence, forecasting, and financial modeling.
+> **[0:04](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=4)** It's great for [[Business Intelligence (BI)|business intelligence]], [[Forecasting]], and [[Financial Modeling]].
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=9)** Let's talk about why SQL is such an effective tool to use in finance.
 >
-> **[0:13](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=13)** Knowing how to manipulate and analyze financial data and records is at the heart of financial analysis.
+> **[0:13](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=13)** Knowing how to manipulate and analyze [[Financial Data]] and records is at the heart of [[Financial Analysis]].
 >
 > **[0:20](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=20)** Financial analysts often deal with large volumes of data to be able to create their financial models.
 >
-> **[0:26](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=26)** Two common concepts used by financial analysts are pivot tables and V-lookups.
+> **[0:26](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=26)** Two common concepts used by financial analysts are [[Pivot Tables]] and V-lookups.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980&t=31)** These are spreadsheet concepts we will learn more about later, but for now, be aware that they are widely used for building reporting that financial analysts are responsible for.
 >
@@ -658,7 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), data (5), [[Pivot Tables]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Pivot Tables]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Forecasting]] (1), [[Financial Modeling]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -666,20 +653,19 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - sql (1)
 
-#### How data is used in finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980)
+#### [How data is used in finance](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=0)** - [Instructor] Let's take a more detailed look into the kind of data financial analysts often work with.
 >
-> **[0:05](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=5)** This will help us understand what SQL can and cannot handle when it comes to financial analysis.
+> **[0:05](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=5)** This will help us understand what [[SQL]] can and cannot handle when it comes to [[Financial Analysis]].
 >
-> **[0:11](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=11)** What is financial data?
+> **[0:11](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=11)** What is [[Financial Data]]?
 >
 > **[0:13](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=13)** In the simplest definition, it is information that relates to the financial well-being of an organization.
 >
-> **[0:19](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=19)** The most common source of financial data is the business's financial statements, which includes the balance sheet, income statement, and cash flow statement.
+> **[0:19](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=19)** The most common source of financial data is the business's [[Financial Statements]], which includes the balance sheet, income statement, and cash flow statement.
 >
 > **[0:28](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=28)** But other sources of financial data is what is called alternative data, which comes from outside the company.
 >
@@ -701,7 +687,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=93)** Lastly, cash flows tell us about the sources and uses of the company's cash, since at the end of the day, cash is king for most businesses.
 >
-> **[1:43](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=103)** All these various forms of financial data play a crucial role in helping the company make decisions.
+> **[1:43](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=103)** All these various [[Forms]] of financial data play a crucial role in helping the company make decisions.
 >
 > **[1:48](https://www.linkedin.com/learning/sql-for-finance-professionals/how-data-is-used-in-finance-23450341?u=76281980&t=108)** When managers, investors, and regulators have a well-rounded understanding of an organization's financial position, they're able to make more informed business decisions, such as whether or not to increase funding for a specific department, make investments in certain assets, and whether to reinvest or distribute its profits.
 >
@@ -709,33 +695,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Financial Data]] (5), business (4), [[Financial Statements]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (5), [[Financial Statements]] (2), [[SQL]] (1), [[Financial Analysis]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), such as (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data in fintech vs finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980)
+#### [Data in fintech vs finance](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=0)** - [Narrator] You've probably heard of the word Fintech and have wondered how it differs from finance.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=0)** - [Narrator] You've probably heard of the [[Microsoft Word|word]] Fintech and have wondered how it differs from finance.
 >
-> **[0:05](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=5)** Fintech companies are those that integrate technology in every step of its revenue generation and decision-making processes in order to improve the use and delivery of their products and services.
+> **[0:05](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=5)** Fintech companies are those that integrate technology in every step of its revenue generation and [[Decision-Making]] processes in order to improve the use and delivery of their [[Microsoft Products|products]] and services.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=16)** Examples of these companies include mobile banking platforms, robo-advisors and peer-to-peer payment services.
+> **[0:16](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=16)** Examples of these companies include mobile [[Banking]] platforms, robo-advisors and peer-to-peer payment services.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=24)** Fintech companies have grown in popularity as a direct result of new technologies that have emerged, such as blockchain, AI, machine learning, and big data.
+> **[0:24](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=24)** Fintech companies have grown in popularity as a direct result of new technologies that have emerged, such as [[Blockchain]], AI, machine learning, and [[Big Data]].
 >
 > **[0:33](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=33)** All of these technologies have fundamentally changed how digital currencies can be stored, transferred and secured.
 >
 > **[0:40](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=40)** Traditional financial institutions, on the other hand, commonly include banks wealth management firms and insurance companies, and these organizations are regulated by a central bank or the national government in most countries.
 >
-> **[0:52](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=52)** The presence of this regulation, including data-sharing and data privacy laws, means the data that traditional financial organizations often deal with can be more limited in scope and volume.
+> **[0:52](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=52)** The presence of this regulation, including data-sharing and [[Data Privacy]] laws, means the data that traditional financial organizations often deal with can be more limited in scope and volume.
 >
-> **[1:03](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=63)** Also, in these finance organizations, the core decision-making and revenue-generating parts of the company can be removed from the technology and data science teams.
+> **[1:03](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=63)** Also, in these finance organizations, the core decision-making and revenue-generating parts of the company can be removed from the technology and [[Data Science]] teams.
 >
 > **[1:13](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=73)** In both finance and Fintech companies, data can come from internal sources, which we referred to as traditional data in the previous video, and also external sources, which we called alternative data.
 >
@@ -747,23 +732,22 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=114)** So Fintech firms more often than traditional finance ones rely on alternative data generated from people, business processes, and censors to get the volume they need to train their models.
 >
-> **[2:07](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=127)** Traditional finance data, for the most part, comes from financial statements, filings with regulatory agencies and press releases.
+> **[2:07](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=127)** Traditional finance data, for the most part, comes from [[Financial Statements]], filings with regulatory agencies and press releases.
 >
 > **[2:15](https://www.linkedin.com/learning/sql-for-finance-professionals/data-in-fintech-vs-finance-23452275?u=76281980&t=135)** As we can see, the types of data an organization often works with, relies heavily on the types of technology it uses on a day-to-day basis and how embedded those technologies are throughout the organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Decision-Making]] (3), [[Microsoft Products|Products]] (2), [[Blockchain]] (2), [[Big Data]] (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Microsoft Products|Products]] (2), [[Blockchain]] (2), [[Big Data]] (2), [[Microsoft Word|Word]] (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Excel vs SQL in finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980)
+#### [Excel vs SQL in finance](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=0)** - [Instructor] Excel is perhaps the main tool used by financial analysts in the field.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] is perhaps the main tool used by financial analysts in the field.
 >
 > **[0:04](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=4)** Much of the data these analysts have to work with come in the form of spreadsheets that are exported from various reporting systems.
 >
@@ -771,13 +755,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=21)** Beyond its ease of use, spreadsheet tools like Excel are very widely used by finance professionals because of the formatting and calculation functions readily available in the tool.
 >
-> **[0:31](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=31)** The formatting functionality in Excel allows users to easily communicate findings and reports in dashboards, but in addition to that, conditional formatting is another extremely helpful tool that helps in reducing errors in the data.
+> **[0:31](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=31)** The formatting functionality in Excel allows users to easily communicate findings and reports in [[Dashboards]], but in addition to that, conditional formatting is another extremely helpful tool that helps in reducing errors in the data.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=44)** The variety of financial functions available in Excel allow you to perform the most popular calculations that are required for building financial statements, financial models, forecasting, budgeting, and account reconciliations.
+> **[0:44](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=44)** The variety of financial functions available in Excel allow you to perform the most popular calculations that are required for building [[Financial Statements]], financial models, [[Forecasting]], budgeting, and account reconciliations.
 >
-> **[0:58](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=58)** SQL, on the other hand, is a tool that is a lot less native in the field of finance.
+> **[0:58](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=58)** [[SQL]], on the other hand, is a tool that is a lot less native in the field of finance.
 >
-> **[1:03](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=63)** This is because oftentimes, many finance teams just don't deal with large enough volumes of data to need to use databases and thus SQL.
+> **[1:03](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=63)** This is because oftentimes, many finance teams just don't deal with large enough volumes of data to need to use [[Databases]] and thus SQL.
 >
 > **[1:11](https://www.linkedin.com/learning/sql-for-finance-professionals/excel-vs-sql-in-finance-23455225?u=76281980&t=71)** But where more complex, frequent, or cross-functional analyses are involved, these teams are more likely to need SQL so that they can readily access the data they need without relying on engineers to get it.
 >
@@ -797,21 +781,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (7), [[SQL]] (4), teams (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[SQL]] (4), [[Dashboards]] (1), [[Financial Statements]] (1), [[Forecasting]] (1)
 > **Env Vars:** sql (4)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Creating your second SQL query
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/solution-creating-your-second-sql-query-24461122?u=76281980)
+#### [Solution: Creating your second SQL query](https://www.linkedin.com/learning/sql-for-finance-professionals/solution-creating-your-second-sql-query-24461122?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/sql-for-finance-professionals/solution-creating-your-second-sql-query-24461122?u=76281980&t=1)** (no audio)
 >
-> **[0:06](https://www.linkedin.com/learning/sql-for-finance-professionals/solution-creating-your-second-sql-query-24461122?u=76281980&t=6)** - [Instructor] Let's go over a suggested solution to your second SQL challenge.
+> **[0:06](https://www.linkedin.com/learning/sql-for-finance-professionals/solution-creating-your-second-sql-query-24461122?u=76281980&t=6)** - [Instructor] Let's go over a suggested solution to your second [[SQL]] challenge.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-for-finance-professionals/solution-creating-your-second-sql-query-24461122?u=76281980&t=10)** We will be selecting the amount from the sales table and aliasing it as sales_amount, the amount from the COGS table and calling it cogs_amount.
 >
@@ -835,7 +818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** cogs (3), opex (3), sql (1)
 > **Code Identifiers:** sales_id (2), sales_amount (1), cogs_amount (1), opex_amount (1)
 > **Definitions:** is a  (1)
@@ -846,12 +829,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is financial analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980)
+#### [What is financial analysis?](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=0)** - [Instructor] Financial analysis is the process of analyzing a company's financial data to be able to get an idea of the company's financial health and also to make recommendations for how to improve that financial health going forward.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=0)** - [Instructor] [[Financial Analysis]] is the process of analyzing a company's [[Financial Data]] to be able to get an idea of the company's financial health and also to make recommendations for how to improve that financial health going forward.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=13)** There are several types of financial analyses that you may hear about, and the specific one you may work with often depends on the industry of your target company, the reason for your analysis, and even the current state of the financial market.
 >
@@ -861,13 +843,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=50)** These percentages are then to be compared to other companies' ratios in a process called benchmarking, so that you can see how your target stacks up to peer companies.
 >
-> **[1:00](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=60)** Horizontal analysis is when you take specific line items from your current year's financial statements and compare them to previous, as well as forecasted years' line items, which will show patterns and rates of growth for these items over time.
+> **[1:00](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=60)** Horizontal analysis is when you take specific line items from your current year's [[Financial Statements]] and compare them to previous, as well as forecasted years' line items, which will show patterns and rates of growth for these items over time.
 >
 > **[1:14](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=74)** Leverage analysis is another way to assess company performance by comparing various debt metrics to equity ones.
 >
 > **[1:21](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=81)** The result is that you get a better picture of the company's capital structure than if you were to just look at debt or just equity figures alone.
 >
-> **[1:28](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=88)** Growth rate analyses involve looking at past and projected rates of growth, similar to horizontal analysis, but has broader applications, such as year-over-year, regression, and other forecasting analyses, which we'll discuss further in a later video.
+> **[1:28](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=88)** Growth rate analyses involve looking at past and projected rates of growth, similar to horizontal analysis, but has broader applications, such as year-over-year, regression, and other [[Forecasting]] analyses, which we'll discuss further in a later video.
 >
 > **[1:44](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=104)** Profitability analysis uses common ratios of income statement line items to determine how attractive the economics of a target company are.
 >
@@ -881,7 +863,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=150)** This entails looking at the operating cash flow, free cash flow to the firm, and free cash flow to equity.
 >
-> **[2:37](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=157)** Valuation analysis is the process of building financial models, often in Excel, to determine the value of a company.
+> **[2:37](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=157)** Valuation analysis is the process of building financial models, often in [[Microsoft Excel|Excel]], to determine the value of a company.
 >
 > **[2:45](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=165)** This can be done via three major approaches, the cost approach, market approach, and a discounted cash flow analysis.
 >
@@ -891,24 +873,23 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=185)** This is important, especially for internal planning and budgeting processes that accounting and finance professionals are often responsible for.
 >
-> **[3:14](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=194)** Keeping these analyses in mind, we'll later explore how to use SQL to create the reports that analysts often deliver to important stakeholders.
+> **[3:14](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980&t=194)** Keeping these analyses in mind, we'll later explore how to use [[SQL]] to create the reports that analysts often deliver to important stakeholders.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Financial Analysis]] (1), [[Financial Data]] (1), [[Financial Statements]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Financial Analysis]] (1), [[Financial Data]] (1), [[Financial Statements]] (1), [[Forecasting]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** ebitda (1), ebit (1), sql (1)
 > **Analogies:** picture (1), similar to (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-financial-statements-23451298?u=76281980)
+#### [Analyzing financial statements](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-financial-statements-23451298?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-financial-statements-23451298?u=76281980&t=0)** - [Lecturer] In the previous video, we mentioned specific analyses that are done using the income statement, balance sheet, and cash flow statement.
 >
-> **[0:08](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-financial-statements-23451298?u=76281980&t=8)** These three types of financial statements are going to be hands down the most important sources of data for your financial analyses.
+> **[0:08](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-financial-statements-23451298?u=76281980&t=8)** These three types of [[Financial Statements]] are going to be hands down the most important sources of data for your financial analyses.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-financial-statements-23451298?u=76281980&t=16)** Before we discuss how to analyze them, we need to understand what financial statements are and their purpose.
 >
@@ -938,17 +919,16 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-financial-statements-23451298?u=76281980&t=131)** What ties all four of these statements together are financial statement disclosures and footnotes, which provide further context on calculations, write-offs, add-backs, et cetera.
 >
-> **[2:21](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-financial-statements-23451298?u=76281980&t=141)** Together with all of the statements, you as a financial analyst should have most of what you need to start analyzing your financial data.
+> **[2:21](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-financial-statements-23451298?u=76281980&t=141)** Together with all of the statements, you as a financial analyst should have most of what you need to start analyzing your [[Financial Data]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (5), business (2), data (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (5), [[Financial Data]] (1)
 > **Cross-References:** previous video (1), we mentioned (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Analyzing tabular data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-tabular-data-23453268?u=76281980)
+#### [Analyzing tabular data](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-tabular-data-23453268?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,7 +946,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-tabular-data-23453268?u=76281980&t=45)** We call this vertically organized data.
 >
-> **[0:49](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-tabular-data-23453268?u=76281980&t=49)** Tabular data is extremely common in finance because much of the data from financial statements, which we've discussed are major sources of financial analyses, are organized in tables.
+> **[0:49](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-tabular-data-23453268?u=76281980&t=49)** Tabular data is extremely common in finance because much of the data from [[Financial Statements]], which we've discussed are major sources of financial analyses, are organized in tables.
 >
 > **[1:00](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-tabular-data-23453268?u=76281980&t=60)** Let's take a closer look at the tabular organization of balance sheets, income statements, and cash flow statements.
 >
@@ -982,7 +962,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-tabular-data-23453268?u=76281980&t=114)** Lastly, in a cash flow statement, again, the vertical organization is the same, but the numbers on the right represent inflows and outflows of cash over the course of the reporting period.
 >
-> **[2:05](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-tabular-data-23453268?u=76281980&t=125)** SQL is an especially powerful tool when working with any tabular data because it is the language of databases, and databases are simply collections of data that are most commonly organized in tables.
+> **[2:05](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-tabular-data-23453268?u=76281980&t=125)** [[SQL]] is an especially powerful tool when working with any tabular data because it is the language of [[Databases]], and databases are simply collections of data that are most commonly organized in tables.
 >
 > **[2:17](https://www.linkedin.com/learning/sql-for-finance-professionals/analyzing-tabular-data-23453268?u=76281980&t=137)** However, you may remember from our first chapter that all the source tables we queried using SQL were vertically organized.
 >
@@ -998,15 +978,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SQL]] (4), feature (2), [[Financial Statements]] (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Financial Statements]] (2), [[Databases]] (2)
 > **Env Vars:** sql (4)
 > **Definitions:** we call this (1), is an  (1), is a  (1), means that (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating financial metrics: WACC, NPV, IRR
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/calculating-financial-metrics-wacc-npv-irr-23452274?u=76281980)
+#### [Calculating financial metrics: WACC, NPV, IRR](https://www.linkedin.com/learning/sql-for-finance-professionals/calculating-financial-metrics-wacc-npv-irr-23452274?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,8 +1046,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Creating basic reports using SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/solution-creating-basic-reports-using-sql-24460134?u=76281980)
+#### [Solution: Creating basic reports using SQL](https://www.linkedin.com/learning/sql-for-finance-professionals/solution-creating-basic-reports-using-sql-24460134?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1072,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2)
 > **Env Vars:** cogs (5)
 > **Code Identifiers:** sales_amount (1), cogs_amount (1), opex_amount (1)
 > **CLI Commands:** find (2)
@@ -1106,14 +1083,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is predictive modeling?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980)
+#### [What is predictive modeling?](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980&t=0)** - [Instructor] Predictive modeling is the process of taking past data to develop, train, and validate a model to predict future events, behaviors, and risks.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980&t=0)** - [Instructor] [[Predictive Modeling]] is the process of taking past data to develop, train, and validate a model to predict future events, behaviors, and risks.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980&t=9)** Due to the rapid migration to and adoption of digital tools in the finance industry, vast amounts of real time data are produced that need predictive modeling tools and techniques to make sense of it all, specifically, by processing a large amount of historical data, analyzing it, and identifying trends and patterns, then providing users with the ability to not only query the historical data, but also assess the probability of future events and behaviors occurring.
+> **[0:09](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980&t=9)** Due to the rapid migration to and adoption of digital tools in the finance industry, vast amounts of real time data are produced that need predictive modeling tools and techniques to make sense of it all, specifically, by processing a large amount of historical data, analyzing it, and identifying trends and patterns, then providing users with the ability to not only query the historical data, but also assess the [[Probability]] of future events and behaviors occurring.
 >
 > **[0:36](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980&t=36)** There are three specific predictive model types that are the most widely used in the field: classification, outlier, and time series models.
 >
@@ -1135,17 +1111,16 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980&t=125)** The six main use cases of predictive modeling in finance are reducing investment risks, cutting costs, identifying market risks, preventing fraud, managing credit card default risks, and optimizing customer experiences.
 >
-> **[2:21](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980&t=141)** Given these use cases and benefits, it's no wonder that predictive modeling has been rapidly adopted among corporate finance, investment banking, hedge funds, and plenty of other sub-fields within finance.
+> **[2:21](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980&t=141)** Given these use cases and benefits, it's no wonder that predictive modeling has been rapidly adopted among [[Corporate Finance]], investment [[Banking]], hedge funds, and plenty of other sub-fields within finance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Predictive Modeling]] (4), [[Probability]] (1), application (1), [[Corporate Finance]] (1)
+> **Frameworks & Libraries:** [[Predictive Modeling]] (4), [[Probability]] (1), [[Corporate Finance]] (1), [[Banking]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### How predictive modeling is used in finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980)
+#### [How predictive modeling is used in finance](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1153,9 +1128,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980&t=14)** Classification models, if you'll remember, are models that learn from historical labeled data to be able to categorize unlabeled data into predetermined groups, most often to answer binary questions.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980&t=27)** In the case of predicting customer churn, the specific classification model used is logistic regression which is used to estimate a relationship between a categorical dependent variable, such as whether the customer will churn or not, and one or more independent variables such as the customer's income level, customer usage over the last 30 days, and age.
+> **[0:27](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980&t=27)** In the case of predicting customer churn, the specific classification model used is [[Logistic Regression]] which is used to estimate a relationship between a categorical dependent variable, such as whether the customer will churn or not, and one or more independent variables such as the customer's income level, customer usage over the last 30 days, and age.
 >
-> **[0:48](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980&t=48)** Outlier models are those that identify the outliers by looking for data points that have a large deviation from the rest.
+> **[0:48](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980&t=48)** Outlier models are those that identify the outliers by looking for data points that have a large deviation from the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:56](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980&t=56)** In the case of customer churn, we can think of churn as an event that deviates from the norm or an anomaly.
 >
@@ -1171,7 +1146,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980&t=102)** While it may be less common to use time series to predict something like churn, in this case, let's say the number of times a customer uses our product which would be a very good indicator of whether or not they'll churn soon, is what we want to understand the patterns of over time.
 >
-> **[1:57](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980&t=117)** By looking at trends in the number of times the customer logs in, we can use time series forecasting to look at when downward trending usage is significant enough to count the customer as likely to churn.
+> **[1:57](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980&t=117)** By looking at trends in the number of times the customer logs in, we can use time series [[Forecasting]] to look at when downward trending usage is significant enough to count the customer as likely to churn.
 >
 > **[2:09](https://www.linkedin.com/learning/sql-for-finance-professionals/how-predictive-modeling-is-used-in-finance-23454233?u=76281980&t=129)** In all of these models you'll notice that there were three common factors.
 >
@@ -1183,24 +1158,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (1), [[Logistic Regression]] (1), [[Representational State Transfer (REST)|Rest]] (1), product (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forecasting]] (1)
 > **Analogies:** such as (2), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forecasting revenue trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980)
+#### [Forecasting revenue trends](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=0)** - [Instructor] Revenue is the very first line item you'll see in a company's income statement and is understandably one of the most important metrics the company will want to keep tabs on because it answers the question, how much money are we making?
 >
-> **[0:13](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=13)** Given this, it makes sense that forecasting revenue is a critical exercise for any business to be able to plan for strategic decisions in the future.
+> **[0:13](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=13)** Given this, it makes sense that [[Forecasting]] revenue is a critical exercise for any business to be able to plan for strategic decisions in the future.
 >
 > **[0:22](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=22)** Forecasting revenue is just one specific application of the predictive models we just learned about.
 >
 > **[0:28](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=28)** There are four revenue projection methods we'll be covering in this video.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=32)** Straight line, moving average, linear regression and multiple regression.
+> **[0:32](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=32)** Straight line, moving average, [[Linear Regression]] and multiple regression.
 >
 > **[0:38](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=38)** In the straight line method, which is probably the most straightforward and thus most popularly used method in the industry, the analyst will look at historical revenue growth rates and determine a reasonable rate that will hold in perpetuity.
 >
@@ -1240,29 +1214,28 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=193)** The equation for multiple regression is y = b0 plus b1x1 plus b2x2 plus b3x3 and so on, which can be interpreted very similarly to that of a linear regression where each b after b0 has a different magnitude of impact on the dependent variable, but b0 still represents the baseline y intercept value when all other Bs are equal to zero.
 >
-> **[3:41](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=221)** Where SQL comes into play is storing the historical data needed for models within databases.
+> **[3:41](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=221)** Where [[SQL]] comes into play is storing the historical data needed for models within [[Databases]].
 >
 > **[3:47](https://www.linkedin.com/learning/sql-for-finance-professionals/forecasting-revenue-trends-23454231?u=76281980&t=227)** The larger the volume of data used as inputs to these models, the more robust they will be in being able to make accurate predictions of future revenue.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (4), [[Forecasting]] (2), data (2), business (1), application (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (4), [[Forecasting]] (2), [[SQL]] (1), [[Databases]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Versions:** 1.04 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing predictive models using SQL and Python/R
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980)
+#### [Developing predictive models using SQL and Python/R](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=0)** - [Instructor] How are these predictive models developed and deployed in the real world?
 >
-> **[0:04](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=4)** In finance and in other industries that use these models to maximize revenue, reduce expenses, and mitigate risks, SQL is not the only tool used.
+> **[0:04](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=4)** In finance and in other industries that use these models to maximize revenue, reduce expenses, and mitigate risks, [[SQL]] is not the only tool used.
 >
-> **[0:14](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=14)** SQL is often combined with other coding languages like Python and R to create these models.
+> **[0:14](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=14)** SQL is often combined with other coding languages like [[Python (Programming Language)|Python]] and R to create these models.
 >
 > **[0:20](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=20)** While SQL is great for querying vast amounts of data that are needed to train the models, the actual cleaning and selecting of important features of the data, then training and testing a model can only be done outside of SQL.
 >
@@ -1272,11 +1245,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=52)** The process of building a predictive model generally is composed of five steps.
 >
-> **[0:57](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=57)** One, gathering and storing the data, two, data cleaning, three, feature selection, four, building and evaluating the model, and five, deploying the model.
+> **[0:57](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=57)** One, gathering and storing the data, two, [[Data Cleaning]], three, feature selection, four, building and evaluating the model, and five, deploying the model.
 >
-> **[1:08](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=68)** The first step of gathering and storing the raw data needed for the model starts with either data pipelines that data engineers have built to automatically extract and load information from data sources, or manual steps to scrape, download, or import that data.
+> **[1:08](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=68)** The first step of gathering and storing the raw data needed for the model starts with either [[Data Pipelines]] that data engineers have built to automatically extract and load information from data sources, or manual steps to scrape, download, or import that data.
 >
-> **[1:24](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=84)** Regardless of whether that data is gathered automatically or manually, it has to be stored in databases, especially if the volume of that data is significant.
+> **[1:24](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=84)** Regardless of whether that data is gathered automatically or manually, it has to be stored in [[Databases]], especially if the volume of that data is significant.
 >
 > **[1:33](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=93)** The next step of data cleaning is critical to be able to prepare the raw data to be inputs into the model.
 >
@@ -1306,32 +1279,31 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=196)** Lastly, the model that has been optimized over several rounds of iterative review is deployed so that the model's predictions are consumed by an application that directly affects business decisions.
 >
-> **[3:27](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=207)** This operationalization is often done using scalable REST API endpoints for the model.
+> **[3:27](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=207)** This operationalization is often done using scalable [[Representational State Transfer (REST)|REST]] API endpoints for the model.
 >
-> **[3:33](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=213)** These endpoints store your model and its metadata and allow you to exchange that information with developers who can use the model in mobile and web applications.
+> **[3:33](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=213)** These endpoints store your model and its [[Metadata]] and allow you to exchange that information with developers who can use the model in mobile and web applications.
 >
-> **[3:42](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=222)** Next, let's take a look at what we've learned about the role of SQL and predictive modeling to build our own fraud detection model.
+> **[3:42](https://www.linkedin.com/learning/sql-for-finance-professionals/developing-predictive-models-using-sql-and-python-r?u=76281980&t=222)** Next, let's take a look at what we've learned about the role of SQL and [[Predictive Modeling]] to build our own fraud detection model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[SQL]] (8), [[Python (Programming Language)|Python]] (6), next (3), feature (2)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Python (Programming Language)|Python]] (6), [[Data Cleaning]] (2), [[Data Pipelines]] (1), [[Databases]] (1)
 > **Env Vars:** sql (8), group (1), where (1), rest (1), api (1)
 > **CLI Commands:** python (6), make (1)
 > **SQL:** group by (1), where (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study: Detecting fraud
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980)
+#### [Case study: Detecting fraud](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=0)** - [Instructor] One of the most common applications of predictive modeling in finance is using anomaly detection to deduct fraudulent credit card transactions.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=0)** - [Instructor] One of the most common applications of [[Predictive Modeling]] in finance is using anomaly detection to deduct fraudulent credit card transactions.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=9)** SQL comes in handy when finance professionals have vast amounts of transaction data to work with in creating their fraud detection models.
+> **[0:09](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=9)** [[SQL]] comes in handy when finance professionals have vast amounts of transaction data to work with in creating their fraud detection models.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=17)** But in practice, SQL is not the only tool they use.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=21)** Python or R are two other coding languages that many consider essential in building predictive models.
+> **[0:21](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=21)** [[Python (Programming Language)|Python]] or R are two other coding languages that many consider essential in building predictive models.
 >
 > **[0:27](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=27)** This is because they come with built-in packages or libraries that are open-source and specifically designed for the purpose of machine learning.
 >
@@ -1339,7 +1311,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=43)** SQL is likely the first tool you'll encounter in the process of building your fraud detection model.
 >
-> **[0:48](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=48)** The engineers who have built the data pipelines used to retrieve the transaction data most likely have the data being stored in SQL databases.
+> **[0:48](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=48)** The engineers who have built the [[Data Pipelines]] used to retrieve the transaction data most likely have the data being stored in SQL [[Databases]].
 >
 > **[0:56](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=56)** You as the analyst must retrieve the data you need for your financial analyses by writing SQL queries.
 >
@@ -1349,7 +1321,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=81)** Since the raw data from the real world is often quite messy.
 >
-> **[1:25](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=85)** Next, exploratory data analysis, or EDA for short, must be performed so that you have a general understanding of the data such as knowing the different features present, which values are most common for each feature and the size and basic statistics of the data.
+> **[1:25](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=85)** Next, exploratory data analysis, or EDA for short, must be performed so that you have a general understanding of the data such as knowing the different features present, which values are most common for each feature and the size and basic [[Statistics]] of the data.
 >
 > **[1:40](https://www.linkedin.com/learning/sql-for-finance-professionals/case-study-detecting-fraud-23453265?u=76281980&t=100)** This can be done again using various Python or R functions to perform calculations, but also by visualizing the data using a variety of plots such as bar plots, line plots, histograms, and heat maps.
 >
@@ -1373,7 +1345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[SQL]] (7), [[Python (Programming Language)|Python]] (3), next (3), feature (3)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Python (Programming Language)|Python]] (3), [[Statistics]] (2), [[Predictive Modeling]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** sql (7), csv (1), eda (1)
 > **CLI Commands:** python (3)
 > **Cross-References:** in the next (1)
@@ -1386,16 +1358,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980&t=0)** - Congratulations, you've finished the course.
 >
-> **[0:03](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980&t=3)** We've covered a lot of ground from SQL to finance to predictive modeling, and how they all tie together when you're working in the field of finance.
+> **[0:03](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980&t=3)** We've covered a lot of ground from [[SQL]] to finance to [[Predictive Modeling]], and how they all tie together when you're working in the field of finance.
 >
-> **[0:11](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980&t=11)** If you enjoyed the concepts we've learned, you may want to check out some of the more advanced SQL courses we have available in the LinkedIn Learning Library, to take your technical skills to the next level, and that brings us to the end of our time together in this course.
+> **[0:11](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980&t=11)** If you enjoyed the concepts we've learned, you may want to check out some of the more advanced SQL courses we have available in the [[LinkedIn]] Learning Library, to take your technical skills to the next level, and that brings us to the end of our time together in this course.
 >
 > **[0:24](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980&t=24)** Great job on learning about the role of SQL in the field of finance and applying your knowledge throughout the videos.
 >
@@ -1403,7 +1374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Predictive Modeling]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Predictive Modeling]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - congratulations (1)
 

@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/welcome-18780141?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/figuring-out-your-next-move/welcome-18780141?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,7 +106,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), career (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 
@@ -116,8 +114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The career pivot methodology
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980)
+#### [The career pivot methodology](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,13 +124,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=14)** When I was in college at UCLA, I was studying political science when I got the opportunity to move to Palo Alto and work as the first employee at a startup company doing political polling.
 >
-> **[0:24](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=24)** One of my many jobs there was managing our Google AdWords accounts.
+> **[0:24](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=24)** One of my many jobs there was managing our [[Google]] AdWords accounts.
 >
 > **[0:28](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=28)** Well, when I hit a plateau at the startup and was ready for change, I applied to Google to become a product trainer on the AdWords training team.
 >
 > **[0:36](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=36)** My role for the first few years at Google involved standing in front of the classroom teaching our customer service reps how to support the AdWords product.
 >
-> **[0:44](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=44)** As I became more interested in personal growth and coaching and career development, I pivoted from doing AdWords training to doing coaching and career development trainings internally within Google.
+> **[0:44](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=44)** As I became more interested in personal growth and coaching and [[Career Development]], I pivoted from doing AdWords training to doing coaching and career development trainings internally within Google.
 >
 > **[0:54](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=54)** After five and a half years at the company, I left the coaching and training development teams to do coaching and career development now on my own, self-employed as a solopreneur.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=178)** The third stage is running a series of pilots, small, low-risk experiments to test your new direction.
 >
-> **[3:05](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=185)** Pilots help you gather real-time data and feedback, allowing you to adjust incrementally as you go instead of relying on big, huge, blind leaps of faith.
+> **[3:05](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=185)** Pilots help you gather [[Real-Time]] data and feedback, allowing you to adjust incrementally as you go instead of relying on big, huge, blind leaps of faith.
 >
 > **[3:14](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=194)** These first three stages of the Pivot Method, repeated as many times as necessary, help reduce risk and give you a greater chance of success, often taking you 80 to 90% of the way toward your goal.
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=219)** These are the bigger decisions that require commitment even in the face of remaining uncertainty.
 >
-> **[3:45](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=225)** This could be things like changing teams at work, becoming a people manager for the first time, or even moving to another office or another country keeping your same role.
+> **[3:45](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=225)** This could be things like changing teams at work, becoming a people manager for the first time, or even moving to another [[Microsoft Office|office]] or another country keeping your same role.
 >
 > **[3:54](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980&t=234)** When startups talk about pivoting, it's often plan B.
 >
@@ -207,12 +204,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), next (4), [[Google]] (4), product (3), [[Career Development]] (3)
+> **Frameworks & Libraries:** [[Google]] (4), [[Career Development]] (3), [[Real-Time]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ucla (1)
 > **Speakers:** - when (1)
 
-#### Pivoting for impact within your current role
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/pivoting-for-impact-within-your-current-role-18776463?u=76281980)
+#### [Pivoting for impact within your current role](https://www.linkedin.com/learning/figuring-out-your-next-move/pivoting-for-impact-within-your-current-role-18776463?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,13 +246,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/figuring-out-your-next-move/pivoting-for-impact-within-your-current-role-18776463?u=76281980&t=93)** They're generous and cooperative, and imbued with a strong desire to make a difference.
 >
-> **[1:38](https://www.linkedin.com/learning/figuring-out-your-next-move/pivoting-for-impact-within-your-current-role-18776463?u=76281980&t=98)** I remember after my first few years at Google, I started to feel a little restless when I found myself working mostly on PowerPoint strategy decks, decidedly not my zone of genius.
+> **[1:38](https://www.linkedin.com/learning/figuring-out-your-next-move/pivoting-for-impact-within-your-current-role-18776463?u=76281980&t=98)** I remember after my first few years at [[Google]], I started to feel a little restless when I found myself working mostly on [[Microsoft PowerPoint|PowerPoint]] strategy decks, decidedly not my zone of genius.
 >
 > **[1:50](https://www.linkedin.com/learning/figuring-out-your-next-move/pivoting-for-impact-within-your-current-role-18776463?u=76281980&t=110)** I loved working with people.
 >
 > **[1:51](https://www.linkedin.com/learning/figuring-out-your-next-move/pivoting-for-impact-within-your-current-role-18776463?u=76281980&t=111)** I loved being in front of the room, working with people one-on-one and in large groups.
 >
-> **[1:56](https://www.linkedin.com/learning/figuring-out-your-next-move/pivoting-for-impact-within-your-current-role-18776463?u=76281980&t=116)** And I also knew that I didn't want to talk about or teach the AdWords product for the rest of my career.
+> **[1:56](https://www.linkedin.com/learning/figuring-out-your-next-move/pivoting-for-impact-within-your-current-role-18776463?u=76281980&t=116)** And I also knew that I didn't want to talk about or teach the AdWords product for the [[Representational State Transfer (REST)|rest]] of my career.
 >
 > **[2:02](https://www.linkedin.com/learning/figuring-out-your-next-move/pivoting-for-impact-within-your-current-role-18776463?u=76281980&t=122)** So true to impacter form, I started attending coach training on nights and weekends.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), next (2), [[Google]] (2), business (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (1)
 > **Warnings:** pitfall (1)
@@ -285,8 +281,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reverse engineer past career pivots
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/reverse-engineer-past-career-pivots?u=76281980)
+#### [Reverse engineer past career pivots](https://www.linkedin.com/learning/figuring-out-your-next-move/reverse-engineer-past-career-pivots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -350,14 +345,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), career (3), strengths (2), business (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), imagine (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - pivots (1)
 
-#### Inventory your strengths: What's working best?
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/inventory-your-strengths-what-s-working-best-18776459?u=76281980)
+#### [Inventory your strengths: What's working best?](https://www.linkedin.com/learning/figuring-out-your-next-move/inventory-your-strengths-what-s-working-best-18776459?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,13 +404,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (5), next (4)
 > **Analogies:** such as (1), for example (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - when (1)
 
-#### Craft the vision: What does success look like one year from now?
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/craft-the-vision-what-does-success-look-like-one-year-from-now-18780142?u=76281980)
+#### [Craft the vision: What does success look like one year from now?](https://www.linkedin.com/learning/figuring-out-your-next-move/craft-the-vision-what-does-success-look-like-one-year-from-now-18780142?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,13 +464,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (2), next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
 
-#### Identify your pivot brackets: Knowns and unknowns
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/identify-your-pivot-brackets-knowns-and-unknowns-18777327?u=76281980)
+#### [Identify your pivot brackets: Knowns and unknowns](https://www.linkedin.com/learning/figuring-out-your-next-move/identify-your-pivot-brackets-knowns-and-unknowns-18777327?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,7 +530,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), strengths (2), career (1), leadership (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** such as (1)
 > **Speakers:** - before (1)
@@ -551,8 +539,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scan your network for connection opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/scan-your-network-for-connection-opportunities?u=76281980)
+#### [Scan your network for connection opportunities](https://www.linkedin.com/learning/figuring-out-your-next-move/scan-your-network-for-connection-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,7 +559,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/figuring-out-your-next-move/scan-your-network-for-connection-opportunities?u=76281980&t=40)** Look for people within your organization who are doing what you might want to do, who would be beneficial to speak with and learn from.
 >
-> **[0:47](https://www.linkedin.com/learning/figuring-out-your-next-move/scan-your-network-for-connection-opportunities?u=76281980&t=47)** You can also look for peers who I call, Friendtors, people who you can grow with side by side and help each other with accountability and support.
+> **[0:47](https://www.linkedin.com/learning/figuring-out-your-next-move/scan-your-network-for-connection-opportunities?u=76281980&t=47)** You can also look for peers who I call, Friendtors, people who you can grow with side by side and help each other with [[Accountability]] and support.
 >
 > **[0:54](https://www.linkedin.com/learning/figuring-out-your-next-move/scan-your-network-for-connection-opportunities?u=76281980&t=54)** We'll talk more about that in an upcoming lesson.
 >
@@ -604,15 +591,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (1), business (1), career (1), strengths (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
 
-#### Create a skill-building game plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/create-a-skill-building-game-plan-18779186?u=76281980)
+#### [Create a skill-building game plan](https://www.linkedin.com/learning/figuring-out-your-next-move/create-a-skill-building-game-plan-18779186?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,7 +608,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/figuring-out-your-next-move/create-a-skill-building-game-plan-18779186?u=76281980&t=8)** I vote we adjust the second directive to teach a man or woman to teach himself how to fish feed him for a lifetime.
 >
-> **[0:16](https://www.linkedin.com/learning/figuring-out-your-next-move/create-a-skill-building-game-plan-18779186?u=76281980&t=16)** The most agile pivoters improve upon the learning process itself so they can adjust quickly as new technologies are introduced.
+> **[0:16](https://www.linkedin.com/learning/figuring-out-your-next-move/create-a-skill-building-game-plan-18779186?u=76281980&t=16)** The most [[Agile Development|agile]] pivoters improve upon the learning process itself so they can adjust quickly as new technologies are introduced.
 >
 > **[0:24](https://www.linkedin.com/learning/figuring-out-your-next-move/create-a-skill-building-game-plan-18779186?u=76281980&t=24)** That's exactly what you're doing by watching a course like this one.
 >
@@ -662,15 +648,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (3), [[Agile Development|Agile]] (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### Create accountability with friend mentors
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/create-accountability-with-friend-mentors?u=76281980)
+#### [Create accountability with friend mentors](https://www.linkedin.com/learning/figuring-out-your-next-move/create-accountability-with-friend-mentors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +707,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), means that (1)
 > **Exercise Files:** exercise file (1)
@@ -730,8 +714,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
 
-#### Make yourself discoverable: Find problems you can help solve
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/make-yourself-discoverable-find-problems-you-can-help-solve?u=76281980)
+#### [Make yourself discoverable: Find problems you can help solve](https://www.linkedin.com/learning/figuring-out-your-next-move/make-yourself-discoverable-find-problems-you-can-help-solve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -755,7 +738,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/figuring-out-your-next-move/make-yourself-discoverable-find-problems-you-can-help-solve?u=76281980&t=56)** So far in this scan stage we discussed who to connect with and what types of skills would be most beneficial to develop.
 >
-> **[1:03](https://www.linkedin.com/learning/figuring-out-your-next-move/make-yourself-discoverable-find-problems-you-can-help-solve?u=76281980&t=63)** Now it's time to zoom in and focus on specific opportunities and platform building activities that will round out your pivot portfolio.
+> **[1:03](https://www.linkedin.com/learning/figuring-out-your-next-move/make-yourself-discoverable-find-problems-you-can-help-solve?u=76281980&t=63)** Now it's time to [[Zoom]] in and focus on specific opportunities and platform building activities that will round out your pivot portfolio.
 >
 > **[1:11](https://www.linkedin.com/learning/figuring-out-your-next-move/make-yourself-discoverable-find-problems-you-can-help-solve?u=76281980&t=71)** This third scan step is about investing your searching time wisely and getting your story straight, making your desired direction known to others, and developing a strategy that enables opportunities to find you by increasing your visibility and reputation.
 >
@@ -803,7 +786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** we discussed (1)
@@ -817,8 +800,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take small steps to experiment in your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980)
+#### [Take small steps to experiment in your career](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,13 +820,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=40)** For our purposes, the primary goal of the pilot phase is ignition and validation, generating ideas, testing those ideas, then taking small, smart risks to eventually inform bigger decisions about what's next.
 >
-> **[0:53](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=53)** During my time at Google, we often encouraged each other to be scrappy.
+> **[0:53](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=53)** During my time at [[Google]], we often encouraged each other to be scrappy.
 >
 > **[0:57](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=57)** We knew the conditions or output of our work wouldn't be perfect, but it was important to release anyway to launch and iterate.
 >
 > **[1:03](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=63)** Just get something out, then test it, get feedback, revise, and do it all over again.
 >
-> **[1:08](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=68)** Holding a mindset of launch and iterate encouraged us to get minimum viable products out to the company.
+> **[1:08](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=68)** Holding a mindset of launch and iterate encouraged us to get minimum viable [[Microsoft Products|products]] out to the company.
 >
 > **[1:14](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=74)** Then have our peers test the programs, letting their feedback guide future versions.
 >
@@ -852,9 +834,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=81)** Run a series of pilots, small low risk experiments to test your new direction.
 >
-> **[1:26](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=86)** Pilots help gather real-time data and feedback allowing you to adjust incrementally as you go, instead of relying on big blind leaps.
+> **[1:26](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=86)** Pilots help gather [[Real-Time]] data and feedback allowing you to adjust incrementally as you go, instead of relying on big blind leaps.
 >
-> **[1:34](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=94)** Some examples of career pilots include conducting internal focus groups then prototyping a solution to meet those needs, signing up for an overview or introductory course to determine if you want to proceed with a full degree or certification program, doing a job shadowing or rotation program, or even a travel pilot working from another office or location for a month or so before deciding if you want to make a bigger move.
+> **[1:34](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=94)** Some examples of career pilots include conducting internal focus groups then [[Prototyping]] a solution to meet those needs, signing up for an overview or introductory course to determine if you want to proceed with a full degree or certification program, doing a job shadowing or rotation program, or even a travel pilot working from another [[Microsoft Office|office]] or location for a month or so before deciding if you want to make a bigger move.
 >
 > **[1:59](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980&t=119)** Your next steps.
 >
@@ -888,14 +870,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), career (2), data (2), [[Google]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Products|Products]] (1), [[Real-Time]] (1), [[Prototyping]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - by (1)
 
-#### Aim for the three Es: What makes a strong pilot?
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/aim-for-the-three-es-what-makes-a-strong-pilot?u=76281980)
+#### [Aim for the three Es: What makes a strong pilot?](https://www.linkedin.com/learning/figuring-out-your-next-move/aim-for-the-three-es-what-makes-a-strong-pilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,15 +952,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), next (3), strengths (2)
 > **CLI Commands:** find (2)
 > **Analogies:** just like (1), think of it like (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - just (1)
 
-#### Build momentum from small experiments
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/build-momentum-from-small-experiments-18776455?u=76281980)
+#### [Build momentum from small experiments](https://www.linkedin.com/learning/figuring-out-your-next-move/build-momentum-from-small-experiments-18776455?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1009,7 +988,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/figuring-out-your-next-move/build-momentum-from-small-experiments-18776455?u=76281980&t=45)** What might be a variation on your initial test that you could try next?
 >
-> **[0:49](https://www.linkedin.com/learning/figuring-out-your-next-move/build-momentum-from-small-experiments-18776455?u=76281980&t=49)** Seth Marvin, one of my coworkers at Google, started at the company in 2006, doing search quality evaluation, which meant reviewing several hundred of the worst quality websites every day to make sure they didn't show up in search results.
+> **[0:49](https://www.linkedin.com/learning/figuring-out-your-next-move/build-momentum-from-small-experiments-18776455?u=76281980&t=49)** Seth Marvin, one of my coworkers at [[Google]], started at the company in 2006, doing search quality evaluation, which meant reviewing several hundred of the worst quality websites every day to make sure they didn't show up in search results.
 >
 > **[1:03](https://www.linkedin.com/learning/figuring-out-your-next-move/build-momentum-from-small-experiments-18776455?u=76281980&t=63)** In 2007, Stacy Sullivan, Google's chief culture officer, put out a call for team building ideas, as Google had just doubled in size, from 7,000 to 14,000 employees.
 >
@@ -1045,13 +1024,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (11), next (2), [[Search]] (2), strengths (1)
+> **Frameworks & Libraries:** [[Google]] (11)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - piloting (1)
 
-#### Cycle through the pivot process
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/cycle-through-the-pivot-process-18775936?u=76281980)
+#### [Cycle through the pivot process](https://www.linkedin.com/learning/figuring-out-your-next-move/cycle-through-the-pivot-process-18775936?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1087,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), career (2), teams (1), strengths (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), imagine (1)
 > **Definitions:** in other words (1)
@@ -1121,8 +1098,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply pivot as coaching or conversation framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980)
+#### [Apply pivot as coaching or conversation framework](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,9 +1106,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=5)** I was working at a startup company, and when I hit a plateau there at 19 years old, I was just too scared to talk to the founder of the company about my development.
 >
-> **[0:14](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=14)** I couldn't see a growth path continuing, so I started conducting interviews for Google in my car on lunch breaks all while I could have been troubleshooting the job that I had.
+> **[0:14](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=14)** I couldn't see a growth path continuing, so I started conducting interviews for [[Google]] in my car on lunch breaks all while I could have been troubleshooting the job that I had.
 >
-> **[0:23](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=23)** I remember walking into the founder's office and with my hands shaking, holding a Starbucks cup, I said, "I-I-I, this is my two weeks notice."
+> **[0:23](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=23)** I remember walking into the founder's [[Microsoft Office|office]] and with my hands shaking, holding a Starbucks cup, I said, "I-I-I, this is my two weeks notice."
 >
 > **[0:32](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=32)** And he said, "Okay, pack your stuff and be out by Friday."
 >
@@ -1152,7 +1128,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=86)** Let's dive into both.
 >
-> **[1:28](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=88)** First, in casual conversations, you can use the Pivot Method as a way to talk about career development when having one-on-ones with your team.
+> **[1:28](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=88)** First, in casual conversations, you can use the Pivot Method as a way to talk about [[Career Development]] when having one-on-ones with your team.
 >
 > **[1:36](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=96)** In its quickest form, share the basic premise.
 >
@@ -1172,7 +1148,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=142)** The second way to incorporate Pivot is through structured annual career conversations.
 >
-> **[2:28](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=148)** Set dedicated time aside for these conversations once or twice a year and doing that will improve retention, engagement and internal mobility.
+> **[2:28](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=148)** Set dedicated time aside for these conversations once or twice a year and doing that will improve retention, engagement and [[Internal Mobility]].
 >
 > **[2:36](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980&t=156)** And it doesn't require a massive budget or highly sophisticated tools.
 >
@@ -1202,13 +1178,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (11), strengths (4), hit (1), [[Google]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Office|Office]] (1), [[Career Development]] (1), [[Internal Mobility]] (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** picture (1)
 > **Speakers:** - the (1)
 
-#### Career coaching dos and don'ts
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/career-coaching-dos-and-don-ts?u=76281980)
+#### [Career coaching dos and don'ts](https://www.linkedin.com/learning/figuring-out-your-next-move/career-coaching-dos-and-don-ts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,14 +1265,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (6), next (5), strengths (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - whether (1)
 
-#### Care: Listen deeply
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/care-listen-deeply-18781127?u=76281980)
+#### [Care: Listen deeply](https://www.linkedin.com/learning/figuring-out-your-next-move/care-listen-deeply-18781127?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,7 +1324,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/figuring-out-your-next-move/care-listen-deeply-18781127?u=76281980&t=91)** There's an exercise file for this video to guide your pivot coaching conversations.
 >
-> **[1:35](https://www.linkedin.com/learning/figuring-out-your-next-move/care-listen-deeply-18781127?u=76281980&t=95)** Coaching conversations and creative internal mobility programs are an excellent start toward helping impacters adapt to a world of ever-shifting orgs, and in fact, the best tool that we have to collaboratively redefine our roles as often as is now required.
+> **[1:35](https://www.linkedin.com/learning/figuring-out-your-next-move/care-listen-deeply-18781127?u=76281980&t=95)** Coaching conversations and creative [[Internal Mobility]] programs are an excellent start toward helping impacters adapt to a world of ever-shifting orgs, and in fact, the best tool that we have to collaboratively redefine our roles as often as is now required.
 
 > [!info]- Semantic Content
 >
@@ -1365,8 +1338,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/next-steps-18777324?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/figuring-out-your-next-move/next-steps-18777324?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1380,7 +1352,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/figuring-out-your-next-move/next-steps-18777324?u=76281980&t=15)** The big secret, we're in a state of pivot more often than not.
 >
-> **[0:19](https://www.linkedin.com/learning/figuring-out-your-next-move/next-steps-18777324?u=76281980&t=19)** And in fact, the most agile pivoters are continuously running small experiments, seeing what works, and seeking ways to grow and make a greater impact.
+> **[0:19](https://www.linkedin.com/learning/figuring-out-your-next-move/next-steps-18777324?u=76281980&t=19)** And in fact, the most [[Agile Development|agile]] pivoters are continuously running small experiments, seeing what works, and seeking ways to grow and make a greater impact.
 >
 > **[0:28](https://www.linkedin.com/learning/figuring-out-your-next-move/next-steps-18777324?u=76281980&t=28)** The people featured and the stories I shared in this course are proof and point of what it means to be an impacter living in our dynamic economy.
 >
@@ -1400,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[Agile Development|Agile]] (1), business (1), next (1), strengths (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - hitting (1)

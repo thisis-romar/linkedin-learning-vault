@@ -50,14 +50,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accelerate everyday tasks with OpenAI's Operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980)
+#### [Accelerate everyday tasks with OpenAI's Operator](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=0)** - Think about how you start your workday.
 >
-> **[0:02](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=2)** You get to the office with your coffee or tea, and you dive into a routine.
+> **[0:02](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=2)** You get to the [[Microsoft Office|office]] with your coffee or tea, and you dive into a routine.
 >
 > **[0:07](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=7)** You might scroll through your emails, look through your to-dos, and tackle actionable items step by step.
 >
@@ -65,13 +64,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=21)** Now, wouldn't it be nice to offload some of those tasks to someone or something?
 >
-> **[0:28](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=28)** And that's what ChatGPT's Operator is all about.
+> **[0:28](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=28)** And that's what [[ChatGPT]]'s Operator is all about.
 >
 > **[0:32](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=32)** ChatGPT now has the ability to take care of common tasks just like a human would, using a browser, a mouse, and keyboard, to handle most of the chores that are a big part of our day.
 >
 > **[0:45](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=45)** But how does it work, and can it actually be helpful, and is it safe?
 >
-> **[0:51](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=51)** In this course, we'll explore the world of AI agents and dive into how this research preview lets you imagine what work will be like in the near future.
+> **[0:51](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=51)** In this course, we'll explore the world of [[AI Agents]] and dive into how this research preview lets you imagine what work will be like in the near future.
 >
 > **[1:01](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980&t=61)** It might not be perfect, but it's definitely revolutionary.
 >
@@ -79,7 +78,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Office|Office]] (1), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Office|Office]] (1), [[AI Agents]] (1)
 > **Analogies:** just like (1), imagine (1)
 > **Speakers:** - think (1)
 
@@ -88,12 +87,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an agent?
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980)
+#### [What is an agent?](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980&t=0)** - ChatGPT'S Operator is part of a class of tools known as agents, designed to automate tasks by giving an AI access to a browser, a mouse, and a keyboard.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980&t=0)** - [[ChatGPT]]'S Operator is part of a class of tools known as agents, designed to automate tasks by giving an AI access to a browser, a mouse, and a keyboard.
 >
 > **[0:12](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980&t=12)** However, it's not necessarily the best thing to reach for in all instances.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980&t=170)** Finally, you can also store custom instructions for each website that it interacts with, and that can make common tasks a lot easier as you continue to use the product.
 >
-> **[3:00](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980&t=180)** And although we've seen this behavior in other products before, Operator is the first commercial product that is easily available to anyone.
+> **[3:00](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980&t=180)** And although we've seen this behavior in other [[Microsoft Products|products]] before, Operator is the first commercial product that is easily available to anyone.
 >
 > **[3:08](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980&t=188)** 2025 will be dominated by tools that can accomplish tasks on their own, so it will be interesting to see how well Operator is implemented and adapted for certain types of tasks.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), product (2), ai (1), business (1), teams (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** click on (2)
@@ -154,8 +152,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - chatgpt (1)
 
-#### Creating and monitoring tasks with OpenAI's Operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/creating-and-monitoring-tasks-with-openai-s-operator?u=76281980)
+#### [Creating and monitoring tasks with OpenAI's Operator](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/creating-and-monitoring-tasks-with-openai-s-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/creating-and-monitoring-tasks-with-openai-s-operator?u=76281980&t=55)** Let's go ahead and close this.
 >
-> **[0:57](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/creating-and-monitoring-tasks-with-openai-s-operator?u=76281980&t=57)** At the bottom of the report, you can find the typical options you would see in ChatGPT.
+> **[0:57](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/creating-and-monitoring-tasks-with-openai-s-operator?u=76281980&t=57)** At the bottom of the report, you can find the typical options you would see in [[ChatGPT]].
 >
 > **[1:02](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/creating-and-monitoring-tasks-with-openai-s-operator?u=76281980&t=62)** So, you can copy the results, give it some ratings, and take a look at the session.
 >
@@ -259,18 +256,17 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/creating-and-monitoring-tasks-with-openai-s-operator?u=76281980&t=254)** With minimal input, that might come from natural conversations.
 >
-> **[4:19](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/creating-and-monitoring-tasks-with-openai-s-operator?u=76281980&t=259)** And trust me, I'm not going to miss filling out repetitive forms.
+> **[4:19](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/creating-and-monitoring-tasks-with-openai-s-operator?u=76281980&t=259)** And trust me, I'm not going to miss filling out repetitive [[Forms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), hit (3), next (2), prompt (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Forms]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Operator options and settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980)
+#### [Operator options and settings](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,7 +310,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=110)** The type of account you have will limit how many tasks you can do at a time.
 >
-> **[1:55](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=115)** Although at launch, Operator only works with the Pro version of ChatGPT, the Plus version will soon be able to run a limited number of tasks.
+> **[1:55](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=115)** Although at launch, Operator only works with the Pro version of [[ChatGPT]], the Plus version will soon be able to run a limited number of tasks.
 >
 > **[2:04](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=124)** If you look at the bottom of my previous task, you might also note the tasks will self-close after a period of time, and they will be in a locked state.
 >
@@ -364,7 +360,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=246)** This list is currently limited and you can't add any other websites.
 >
-> **[4:10](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=250)** However, any other sites will be listed in the next section called Privacy.
+> **[4:10](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=250)** However, any other sites will be listed in the next section called [[Privacy]].
 >
 > **[4:15](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/operator-options-and-settings?u=76281980&t=255)** Privacy gives you some additional options for controlling how your information is used.
 >
@@ -434,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[ChatGPT]] (5), hit (4), [[Privacy]] (2), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Privacy]] (2)
 > **UI Navigation:** click on (4), go to (4)
 > **CLI Commands:** make (6)
 > **Cross-References:** go back to (2), in the next (1)
@@ -443,8 +439,7 @@ created: 2026-05-02
 > **Env Vars:** mco (1)
 > **Analogies:** for example (1)
 
-#### Is Operator safe?
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/is-operator-safe?u=76281980)
+#### [Is Operator safe?](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/is-operator-safe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/is-operator-safe?u=76281980&t=19)** The fact that it's a research preview means that Operator isn't something you should be using or deploying into your organization quite yet.
 >
-> **[0:29](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/is-operator-safe?u=76281980&t=29)** However, agents are the most transformative technology since the original deployment of ChatGPT.
+> **[0:29](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/is-operator-safe?u=76281980&t=29)** However, agents are the most transformative technology since the original deployment of [[ChatGPT]].
 >
 > **[0:36](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/is-operator-safe?u=76281980&t=36)** And Operator is the first consumer level tool that gives you easy access to a lot of these capabilities.
 >
@@ -498,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[ChatGPT]] (1), product (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (1)

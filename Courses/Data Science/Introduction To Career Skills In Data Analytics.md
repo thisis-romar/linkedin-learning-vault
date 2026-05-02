@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting out with data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/starting-out-with-data-analytics?u=76281980)
+#### [Starting out with data analytics](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/starting-out-with-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/starting-out-with-data-analytics?u=76281980&t=9)** What I've discovered in the last 20 years is that more people use data than they even realize.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/starting-out-with-data-analytics?u=76281980&t=14)** When I started off learning Excel, I had no idea I was starting my career path to data.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/starting-out-with-data-analytics?u=76281980&t=14)** When I started off learning [[Microsoft Excel|Excel]], I had no idea I was starting my career path to data.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/starting-out-with-data-analytics?u=76281980&t=19)** I quickly discovered that I could create reports that provided value to my managers.
 >
@@ -125,7 +124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), career (4), business (3), [[Microsoft Excel|Excel]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - you (1)
@@ -135,8 +134,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining data analysis and roles in data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980)
+#### [Defining data analysis and roles in data analysis](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=18)** Works with data often.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=20)** Performs some data manipulation, and presents that data as a part of their everyday work.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=20)** Performs some [[Data Manipulation]], and presents that data as a part of their everyday work.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=25)** Let's take Sally for an example.
 >
@@ -160,9 +158,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=41)** You see most data workers have limited access to all the different systems through the backend.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=46)** They likely receive data from people who have access to the databases.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=46)** They likely receive data from people who have access to the [[Databases]].
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=50)** Data workers like Sally may even export the data out of a system into CSV or Excel files, and the process of their data work begins.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=50)** Data workers like Sally may even export the data out of a system into CSV or [[Microsoft Excel|Excel]] files, and the process of their data work begins.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=59)** A data analyst goes further.
 >
@@ -196,13 +194,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=149)** What most see as the literal top of the hierarchy is the data scientist.
 >
-> **[2:34](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=154)** And I believe this is likely due to the fact that most companies have their data architecture in place, and now it's time to take that data, and put it to use.
+> **[2:34](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=154)** And I believe this is likely due to the fact that most companies have their [[Data Architecture]] in place, and now it's time to take that data, and put it to use.
 >
 > **[2:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=163)** This is where the data scientist comes into play.
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=166)** A data scientist will likely have all the common skills of the data analyst, the data engineer and the data architect.
 >
-> **[2:53](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=173)** They'll also have deeper skills in coding, statistics and math.
+> **[2:53](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=173)** They'll also have deeper skills in coding, [[Statistics]] and math.
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980&t=178)** It's okay to not know where you'll end on your journey, but I think it's important to start.
 >
@@ -214,14 +212,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (49), [[Microsoft Excel|Excel]] (2), career (1), [[Data Manipulation]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Data Manipulation]] (1), [[Databases]] (1), [[Data Architecture]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** csv (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Developing data fluency
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/developing-data-fluency?u=76281980)
+#### [Developing data fluency](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/developing-data-fluency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/developing-data-fluency?u=76281980&t=25)** And if it is, can you call the bank and explain it?
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/developing-data-fluency?u=76281980&t=28)** That means you're literate about your banking data.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/developing-data-fluency?u=76281980&t=28)** That means you're literate about your [[Banking]] data.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/developing-data-fluency?u=76281980&t=31)** Now to the meaning of fluent.
 >
@@ -273,7 +270,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/developing-data-fluency?u=76281980&t=101)** If your approach is to stare at it and wonder, well, that tells you where to begin.
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/developing-data-fluency?u=76281980&t=106)** Now there are degrees of data literacy and data fluency that are appropriate in the workplace.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/developing-data-fluency?u=76281980&t=106)** Now there are degrees of [[Data Literacy]] and data fluency that are appropriate in the workplace.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/developing-data-fluency?u=76281980&t=111)** And I would argue that everyone should be data literate.
 >
@@ -289,14 +286,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Banking]] (3), next (1), game (1), career (1)
+> **Frameworks & Libraries:** [[Banking]] (3), [[Data Literacy]] (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
 > **Speakers:** - is (1)
 
-#### Understanding how data governance impacts the data analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980)
+#### [Understanding how data governance impacts the data analyst](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,9 +300,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980&t=5)** Have you ever asked for permissions and just been given global admin when all you needed was read permissions?
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980&t=11)** If so, then you've been a part of the data governance of the organization, or the lack of it.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980&t=11)** If so, then you've been a part of the [[Data Governance]] of the organization, or the lack of it.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980&t=16)** Data governance is a framework that incorporates strategies to create solid quality data, enable accountability, and provide transparency to the data in the organization.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980&t=16)** Data governance is a framework that incorporates strategies to create solid quality data, enable [[Accountability]], and provide transparency to the data in the organization.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980&t=27)** Data governance has processes, procedures, and people at various levels of the organization.
 >
@@ -350,7 +346,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980&t=139)** For example, you may have been given more access than you need, and it might leave you wondering which data set you could really trust.
 >
-> **[2:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980&t=147)** Master data management is also a key component of the data governance framework.
+> **[2:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980&t=147)** Master [[Data Management]] is also a key component of the data governance framework.
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-how-data-governance-impacts-the-data-analyst?u=76281980&t=152)** Making sure that the data we all need is complete, accurate, and meets the business rules.
 >
@@ -366,14 +362,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Accountability]] (2), product (2), next (1), management (1)
+> **Frameworks & Libraries:** [[Data Governance]] (13), [[Accountability]] (2), [[Data Management]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
 
-#### Understanding the importance of data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-importance-of-data-quality?u=76281980)
+#### [Understanding the importance of data quality](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-importance-of-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-importance-of-data-quality?u=76281980&t=29)** I was hospitalized for 11 days, and then given the right types of treatments to prevent it getting worse, and treatments to help get it better.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-importance-of-data-quality?u=76281980&t=37)** What does this have to do with data quality?
+> **[0:37](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-importance-of-data-quality?u=76281980&t=37)** What does this have to do with [[Data Quality]]?
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-importance-of-data-quality?u=76281980&t=40)** Well, the first x-ray showed nothing, and what they actually discovered is that their machine was broken.
 >
@@ -453,7 +448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18)
+> **Frameworks & Libraries:** [[Data Quality]] (5)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Warnings:** be aware (1)
@@ -464,8 +459,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is BI and the value to business?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/what-is-bi-and-the-value-to-business?u=76281980)
+#### [What is BI and the value to business?](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/what-is-bi-and-the-value-to-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +481,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/what-is-bi-and-the-value-to-business?u=76281980&t=28)** I tend to ask people if they want to be data informed?
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/what-is-bi-and-the-value-to-business?u=76281980&t=31)** Data and business intelligence, lets you have both information and the ability to make intelligent business decisions.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/what-is-bi-and-the-value-to-business?u=76281980&t=31)** Data and [[Business Intelligence (BI)|business intelligence]], lets you have both information and the ability to make intelligent business decisions.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/what-is-bi-and-the-value-to-business?u=76281980&t=38)** For example, with the correct data and an understanding of the process and the business goals defined with a solid set of KPI, key performance indicators, a business can see a downward trend in sales before it becomes a problem.
 >
@@ -533,19 +527,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (9), [[Business Intelligence (BI)|Business intelligence]] (5), hit (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (5)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (1), just like (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - have (1)
 
-#### How are business analytics and BI different?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-are-business-analytics-and-bi-different?u=76281980)
+#### [How are business analytics and BI different?](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-are-business-analytics-and-bi-different?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-are-business-analytics-and-bi-different?u=76281980&t=0)** - I started running about four years ago and it made me realize that business intelligence, business analytics, and even data analytics are really three individual things with lots of overlap.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-are-business-analytics-and-bi-different?u=76281980&t=0)** - I started running about four years ago and it made me realize that [[Business Intelligence (BI)|business intelligence]], [[Business Analytics]], and even data analytics are really three individual things with lots of overlap.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-are-business-analytics-and-bi-different?u=76281980&t=13)** Let me break it down.
 >
@@ -589,7 +582,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-are-business-analytics-and-bi-different?u=76281980&t=124)** My example is running.
 >
-> **[2:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-are-business-analytics-and-bi-different?u=76281980&t=125)** But it could easily be applied to business metrics, like, sales or production.
+> **[2:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-are-business-analytics-and-bi-different?u=76281980&t=125)** But it could easily be applied to [[Business Metrics]], like, sales or production.
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-are-business-analytics-and-bi-different?u=76281980&t=131)** And business analytics helps us to see the trends and predict future outcomes which are critical to businesses.
 >
@@ -601,12 +594,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (7), [[Business Intelligence (BI)|Business intelligence]] (6), [[Analytics]] (4)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (6), [[Business Analytics]] (3), [[Business Metrics]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### How data can provide intelligence to the organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-data-can-provide-intelligence-to-the-organization?u=76281980)
+#### [How data can provide intelligence to the organization](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-data-can-provide-intelligence-to-the-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,7 +614,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-data-can-provide-intelligence-to-the-organization?u=76281980&t=23)** They were required to provide information at different time points, and then they were required to report on all the things they did to meet those times.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-data-can-provide-intelligence-to-the-organization?u=76281980&t=33)** Mail came into the office, people went to retrieve their mail for the contracts they supported three times a day.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-data-can-provide-intelligence-to-the-organization?u=76281980&t=33)** Mail came into the [[Microsoft Office|office]], people went to retrieve their mail for the contracts they supported three times a day.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-data-can-provide-intelligence-to-the-organization?u=76281980&t=39)** They also printed information and scanned it as needed by walking to and from the printer.
 >
@@ -644,7 +636,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-data-can-provide-intelligence-to-the-organization?u=76281980&t=88)** Okay, now let us multiply that by 10 people doing the same job all day long and then let's multiply that by 260 business days.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-data-can-provide-intelligence-to-the-organization?u=76281980&t=97)** Now business intelligence says that today that's X number of hours spent in transit, business analysis says if we put a printer at their desk, we save X.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-data-can-provide-intelligence-to-the-organization?u=76281980&t=97)** Now [[Business Intelligence (BI)|business intelligence]] says that today that's X number of hours spent in transit, business analysis says if we put a printer at their desk, we save X.
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/how-data-can-provide-intelligence-to-the-organization?u=76281980&t=108)** This is just one way data can help support improvements to the process.
 >
@@ -660,7 +652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (2), [[Automation]] (1), [[Microsoft Office|Office]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - call (1)
@@ -670,8 +662,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the value of data-driven decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-value-of-data-driven-decision-making?u=76281980)
+#### [Understanding the value of data-driven decision-making](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-value-of-data-driven-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,7 +700,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-value-of-data-driven-decision-making?u=76281980&t=92)** We'll keep it simple.
 >
-> **[1:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-value-of-data-driven-decision-making?u=76281980&t=93)** When companies sell products, someone has to sell them and there's a cost to that.
+> **[1:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-value-of-data-driven-decision-making?u=76281980&t=93)** When companies sell [[Microsoft Products|products]], someone has to sell them and there's a cost to that.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-value-of-data-driven-decision-making?u=76281980&t=99)** And even if it's an online sales model, there are people involved in maintaining the information to make that happen.
 >
@@ -731,14 +722,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (3), [[Microsoft Products|Products]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - if (1)
 
-#### Questioning techniques to collect the right data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/questioning-techniques-to-collect-the-right-data?u=76281980)
+#### [Questioning techniques to collect the right data](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/questioning-techniques-to-collect-the-right-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/questioning-techniques-to-collect-the-right-data?u=76281980&t=15)** Building an approach and thinking through standard questions and critical thinking with active listening should help you.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/questioning-techniques-to-collect-the-right-data?u=76281980&t=21)** Technical skills or hard skills are one thing for the analyst, but the soft skills matter just as much.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/questioning-techniques-to-collect-the-right-data?u=76281980&t=21)** Technical skills or hard skills are one thing for the analyst, but the [[Soft Skills]] matter just as much.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/questioning-techniques-to-collect-the-right-data?u=76281980&t=27)** And if you're stuck, no hard skill matters.
 >
@@ -760,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/questioning-techniques-to-collect-the-right-data?u=76281980&t=40)** There are some common questions you might ask for every data-related project and the questions might be more specific based on actual problems and the data that you have at hand.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/questioning-techniques-to-collect-the-right-data?u=76281980&t=51)** Our scenario is that we have five of our top products.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/questioning-techniques-to-collect-the-right-data?u=76281980&t=51)** Our scenario is that we have five of our top [[Microsoft Products|products]].
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/questioning-techniques-to-collect-the-right-data?u=76281980&t=54)** They're being purchased all the time, but the company is losing money.
 >
@@ -816,12 +806,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), data (5), next (2), product (2), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Soft Skills]] (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - have (1)
 
-#### Discovering and interpreting existing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/discovering-and-interpreting-existing-data?u=76281980)
+#### [Discovering and interpreting existing data](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/discovering-and-interpreting-existing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -863,7 +852,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/discovering-and-interpreting-existing-data?u=76281980&t=81)** And they're often disconnected.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/discovering-and-interpreting-existing-data?u=76281980&t=83)** There's people management software for HR type information, which is employee data.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/discovering-and-interpreting-existing-data?u=76281980&t=83)** There's [[People Management]] software for HR type information, which is employee data.
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/discovering-and-interpreting-existing-data?u=76281980&t=88)** We have our marketing and sales management data.
 >
@@ -903,13 +892,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[People Management]] (1), hr (1), management (1), hit (1)
+> **Frameworks & Libraries:** [[People Management]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - have (1)
 
-#### Data sources and structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980)
+#### [Data sources and structures](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -945,19 +933,19 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=66)** There are also other types of systems that collect and store data for the analysts to use for their reporting requirements.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=73)** This varies of course by company, but you can expect to find spreadsheets, databases or even data warehouses.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=73)** This varies of course by company, but you can expect to find spreadsheets, [[Databases]] or even data warehouses.
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=81)** Data warehouses really are data systems that have the refined tables from our production systems, like the purchasing system, for example.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=89)** A customer-dedicated software system might have a database with hundreds of tables and details, but only certain tables and fields are needed for reporting.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=99)** These fields get cleaned up by data warehousing professionals and brought into the warehouse for storage and safekeeping.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=99)** These fields get cleaned up by [[Data Warehousing]] professionals and brought into the warehouse for storage and safekeeping.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=106)** It is a valuable source of nicely structured data that has been vetted for the analysts to begin their reporting projects.
 >
 > **[1:54](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=114)** Structured data that fits neatly into tables and feeds a beautifully designed warehouse is amazing, but not all data is structured.
 >
-> **[2:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=123)** This is where systems like data lakes help organizations capture data so they're storing it before it's actually refined for reporting needs.
+> **[2:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=123)** This is where systems like [[Data Lakes]] help organizations capture data so they're storing it before it's actually refined for reporting needs.
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-sources-and-structures?u=76281980&t=132)** Data warehousing and data lakes and even data lake houses are very interesting.
 >
@@ -975,7 +963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), database (2), [[Databases]] (2), career (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Data Warehousing]] (2), [[Data Lakes]] (2)
 > **CLI Commands:** find (3)
 > **Env Vars:** dob (1), csp (1)
 > **Definitions:** is a  (1)
@@ -987,8 +975,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describing data best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980)
+#### [Describing data best practices](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1000,7 +987,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=12)** There are just some things that I do with every data set.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=16)** The process may be a little bit different based on the software that I'm working with, but in this example, I'm using Microsoft Excel.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=16)** The process may be a little bit different based on the software that I'm working with, but in this example, I'm using [[Microsoft Excel]].
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=24)** This transactions file has actually been exported from a software that we use to analyze our transactions.
 >
@@ -1012,7 +999,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=47)** If I take a little time upfront to learn more about this data set, I'll be better off when I start trying to meet the end goal of the project.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=55)** Excel will sort, filter and perform data commands on what it sees as the data set.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=55)** [[Microsoft Excel|Excel]] will sort, filter and perform data commands on what it sees as the data set.
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=61)** And that's a key point, what Excel sees as the data set.
 >
@@ -1028,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=96)** It looks like it picked it all up.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=98)** But if I zoom out, I notice pretty quickly that I have a broken data set.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=98)** But if I [[Zoom]] out, I notice pretty quickly that I have a broken data set.
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980&t=104)** You see all of column Z is empty.
 >
@@ -1136,14 +1123,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Microsoft Excel|Excel]] (7), [[Microsoft Excel]] (1), [[Zoom]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Microsoft Excel]] (1), [[Zoom]] (1)
 > **UI Navigation:** go to (2), right-click (1), drag and drop (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Assessing and adapting the data for transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/assessing-and-adapting-the-data-for-transformation?u=76281980)
+#### [Assessing and adapting the data for transformation](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/assessing-and-adapting-the-data-for-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1163,7 +1149,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/assessing-and-adapting-the-data-for-transformation?u=76281980&t=30)** This helps us validate our numbers later.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/assessing-and-adapting-the-data-for-transformation?u=76281980&t=33)** It can also inform us about the data cleaning we will need to complete when we get ready to transform our data.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/assessing-and-adapting-the-data-for-transformation?u=76281980&t=33)** It can also inform us about the [[Data Cleaning]] we will need to complete when we get ready to transform our data.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/assessing-and-adapting-the-data-for-transformation?u=76281980&t=39)** I have some sales order data here, and I want to profile this data to help me get started working towards a report on sales orders.
 >
@@ -1227,16 +1213,15 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/assessing-and-adapting-the-data-for-transformation?u=76281980&t=184)** So this informs me that on my data cleaning process, I'll need to address the dates.
 >
-> **[3:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/assessing-and-adapting-the-data-for-transformation?u=76281980&t=189)** There are additional profiling options that we will uncover as we explore deeper into our data and with other tools, but everyone with the data set and Excel, can use these options to profile their data.
+> **[3:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/assessing-and-adapting-the-data-for-transformation?u=76281980&t=189)** There are additional profiling options that we will uncover as we explore deeper into our data and with other tools, but everyone with the data set and [[Microsoft Excel|Excel]], can use these options to profile their data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), feature (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (2), right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the rules of the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-rules-of-the-data?u=76281980)
+#### [Understanding the rules of the data](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-rules-of-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,7 +1313,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), business (12)
 > **Definitions:** is a  (3), means that (2), is an  (1)
 > **Documentation:** specification (2), spec (1)
 > **CLI Commands:** make (1)
@@ -1337,8 +1321,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - we (1)
 
-#### Tips on preparing the data in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980)
+#### [Tips on preparing the data in Excel](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1350,11 +1333,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=19)** I want to work with my sales order data to prepare it for a template to import it into a new system.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=25)** I typically start with a new blank workbook and I'll use Power Query to connect to my data, and then I'll do my data transformations there.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=25)** I typically start with a new blank workbook and I'll use [[Microsoft Power Query|Power Query]] to connect to my data, and then I'll do my data transformations there.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=34)** I'll go to my data tab, I'll choose get data, and I'll choose from file.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=39)** There are several connections here, but because my data is an export that's stored in an Excel workbook, I can choose from file and from workbook.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=39)** There are several connections here, but because my data is an export that's stored in an [[Microsoft Excel|Excel]] workbook, I can choose from file and from workbook.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=53)** Okay, I'll navigate to my data for template, I'll double click it, and this is what is establishing the connection between my Excel file and Power Query.
 >
@@ -1428,7 +1411,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=240)** Okay, I'll choose cancel there.
 >
-> **[4:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=242)** Because Power Query keeps all of our steps, it's similar to what people do with recording macros or coding VBA for data cleaning.
+> **[4:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=242)** Because Power Query keeps all of our steps, it's similar to what people do with recording macros or coding VBA for [[Data Cleaning]].
 >
 > **[4:13](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/tips-on-preparing-the-data-in-excel?u=76281980&t=253)** Except we're not having to code or record.
 >
@@ -1540,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Microsoft Power Query|Power query]] (3), hit (3), [[Microsoft Excel|Excel]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (2), [[Data Cleaning]] (1)
 > **UI Navigation:** go to (3), navigate to (1), click on (1), dropdown (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **CLI Commands:** make (1), find (1)
@@ -1554,8 +1537,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transforming data in Excel with Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-excel-with-power-query?u=76281980)
+#### [Transforming data in Excel with Power Query](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-excel-with-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1571,7 +1553,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-excel-with-power-query?u=76281980&t=29)** Okay, I'll go to queries and connections, and I'll choose to edit my supplier's query.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-excel-with-power-query?u=76281980&t=35)** There are few transformations that, normally would've caused me to create functions in Excel, but because I'm using Power Query, I can perform these functions without having to create a function.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-excel-with-power-query?u=76281980&t=35)** There are few transformations that, normally would've caused me to create functions in [[Microsoft Excel|Excel]], but because I'm using [[Microsoft Power Query|Power Query]], I can perform these functions without having to create a function.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-excel-with-power-query?u=76281980&t=46)** Let me start by showing you supplier name.
 >
@@ -1687,19 +1669,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** go to (5), right-click (4), double-click (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming data in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980)
+#### [Transforming data in SQL](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=0)** - [Instructor] If you are a data analyst, at some point you will encounter or hear SQL or SEQUEL.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=0)** - [Instructor] If you are a data analyst, at some point you will encounter or hear [[SQL]] or SEQUEL.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=6)** Let's start with the basics.
 >
@@ -1711,7 +1692,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=16)** SEQUEL, however, is a computer language that works with data and the relationships between them.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=21)** Microsoft SQL Server is a relational database management system developed by Microsoft with the primary function of being storing and retrieving data, although it does so much more.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=21)** [[Microsoft SQL Server]] is a relational [[Database Management]] system developed by [[Microsoft]] with the primary function of being storing and retrieving data, although it does so much more.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=32)** It was developed over 30 years ago and it does a lot of different things with data.
 >
@@ -1741,7 +1722,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=87)** Let me show you how to run some basic SEQUEL statements.
 >
-> **[1:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=91)** I'm using SQL Server Express and I'm working with Microsoft SQL Server Management Studio on the Wide World Importer Sample Database.
+> **[1:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=91)** I'm using [[Microsoft SQL Server|SQL Server]] Express and I'm working with Microsoft SQL Server Management Studio on the Wide World Importer Sample Database.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=99)** I'm going to run the supplier transactions.
 >
@@ -1777,7 +1758,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=168)** And I want to add the suppliers.
 >
-> **[2:51](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=171)** Because these tables have an established relationship in the database design, they're automatically joined.
+> **[2:51](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=171)** Because these tables have an established relationship in the [[Database Design]], they're automatically joined.
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-sql?u=76281980&t=177)** They're joined by the supplier ID being in both tables.
 >
@@ -1855,7 +1836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (5), [[SQL]] (3), [[Microsoft SQL Server]] (2), management (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft SQL Server]] (2), [[Microsoft]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Database Design]] (1)
 > **Env Vars:** sql (6), sequel (3), select (3), where (2), order (2)
 > **SQL:** select (3), where (2), order by (2)
 > **UI Navigation:** go to (3)
@@ -1864,14 +1845,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming data in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980)
+#### [Transforming data in Power BI](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980&t=0)** - [Instructor] Power BI offers two core functions for the data analyst: Transforming the data, as well as presenting the data.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980&t=0)** - [Instructor] [[Microsoft Power BI|Power BI]] offers two core functions for the data analyst: Transforming the data, as well as presenting the data.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980&t=9)** We want to analyze the sales of our products to note our top 10 products.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980&t=9)** We want to analyze the sales of our [[Microsoft Products|products]] to note our top 10 products.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980&t=14)** We will eventually visualize this data for an executive meeting or a future dashboard.
 >
@@ -1883,7 +1863,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980&t=33)** It's the Order Details and the Products.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980&t=37)** We'll do the transformations on Product and Order tables in Power Query.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980&t=37)** We'll do the transformations on Product and Order tables in [[Microsoft Power Query|Power Query]].
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-power-bi?u=76281980&t=43)** I'll get to show you the Group By function, so I can total the orders.
 >
@@ -2069,15 +2049,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (20), product (19), data (13), power (3), bi (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (20), [[Microsoft Power BI|Power bi]] (3), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** go to (6), right-click (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common cleaning and transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/common-cleaning-and-transformation?u=76281980)
+#### [Common cleaning and transformation](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/common-cleaning-and-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2149,14 +2128,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Speakers:** - when (1)
 
-#### Using built-in functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/using-built-in-functions?u=76281980)
+#### [Using built-in functions](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/using-built-in-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2168,7 +2145,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/using-built-in-functions?u=76281980&t=19)** The tool provides us a lot of calculations.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/using-built-in-functions?u=76281980&t=22)** For example, in this Power BI dashboard, let's take a look at the fields, look at Quantity and UnitPrice and even Discount.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/using-built-in-functions?u=76281980&t=22)** For example, in this [[Microsoft Power BI|Power BI]] dashboard, let's take a look at the fields, look at Quantity and UnitPrice and even Discount.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/using-built-in-functions?u=76281980&t=31)** Do you see how they have the sigma shape?
 >
@@ -2274,7 +2251,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/using-built-in-functions?u=76281980&t=281)** I'll go ahead and click on Quick measures.
 >
-> **[4:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/using-built-in-functions?u=76281980&t=283)** These are actually measures that are written in DAX.
+> **[4:43](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/using-built-in-functions?u=76281980&t=283)** These are actually measures that are written in [[DAX]].
 >
 > **[4:47](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/using-built-in-functions?u=76281980&t=287)** They're freely available for me to use.
 >
@@ -2334,7 +2311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), bi (5), data (3), hit (2), [[DAX]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[DAX]] (2)
 > **UI Navigation:** go to (6), right-click (3), click on (1), dropdown (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** dax (2)
@@ -2346,8 +2323,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980)
+#### [Relational databases](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2355,7 +2331,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=5)** I bet if you're a new analyst, you have not gotten that deep into the idea of how data is stored, but you just know that it is stored.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=12)** Relational databases have been around for a while and you will hear people talk about SQL databases or SQL scripts or statements.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=12)** [[Relational Databases]] have been around for a while and you will hear people talk about [[SQL]] [[Databases]] or SQL scripts or statements.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=19)** A data analyst doesn't have to be fluent to be effective.
 >
@@ -2363,7 +2339,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=27)** This is a key area that you can further study if you're interested.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=31)** RDBMS stands for Relational Database Management Systems and server technology, like Microsoft SQL Server, can store these databases.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=31)** RDBMS stands for Relational [[Database Management]] Systems and server technology, like [[Microsoft SQL Server]], can store these databases.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=40)** There are others.
 >
@@ -2393,18 +2369,17 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=116)** They are two very distinct roles and functions, even if they work with the same data.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=121)** As an analyst, you do not have to know how to design large-scale data systems, but you will want to understand some database design techniques so that it makes understanding someone else's design easier.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980&t=121)** As an analyst, you do not have to know how to design large-scale data systems, but you will want to understand some [[Database Design]] techniques so that it makes understanding someone else's design easier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), database (4), [[Relational Databases]] (3), [[SQL]] (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Relational Databases]] (3), [[SQL]] (3), [[Databases]] (2), [[Database Management]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (4), rdbms (1)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
-#### Modeling data for Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980)
+#### [Modeling data for Power BI](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2414,7 +2389,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=12)** When you have an entity relationship diagram where the tables and relationships are showing in a model, you're actually seeing the model of the data.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=21)** Now I've already connected data to my Power BI Desktop and on the right hand side, you see my fields list.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=21)** Now I've already connected data to my [[Microsoft Power BI|Power BI]] Desktop and on the right hand side, you see my fields list.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=27)** I have different tables of information required for my reporting.
 >
@@ -2422,7 +2397,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=36)** These data sets are meant to be joined together.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=40)** There are several ways to join and model data in Power Query for Power BI.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=40)** There are several ways to join and model data in [[Microsoft Power Query|Power Query]] for Power BI.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=45)** When we perform merge queries, for example, we're actually establishing a join but we can also go to the modeling section and model this data from the very beginning and this allows the data to communicate through the joins, meaning if I reference an order, it knows what product and what order details are related to that order.
 >
@@ -2440,7 +2415,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=96)** Also notice we have a '1' and a '*' or star symbol.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=102)** This shows us the cardinality of this relationship, it's a one to many, meaning we have one order and many order details, not unlike when you place an order and buy multiple things, you have one order record and then the different line items and quantities for the products that you purchased.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=102)** This shows us the cardinality of this relationship, it's a one to many, meaning we have one order and many order details, not unlike when you place an order and buy multiple things, you have one order record and then the different line items and quantities for the [[Microsoft Products|products]] that you purchased.
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modeling-data-for-power-bi?u=76281980&t=122)** Let's look at the products information and the order details.
 >
@@ -2494,7 +2469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), product (4), power (3), bi (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** means that (2), is called (1)
 > **Cross-References:** in the last (1)
@@ -2502,8 +2477,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - we (1)
 
-#### Master data management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980)
+#### [Master data management](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2519,7 +2493,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=29)** When an organization takes the time to design rules around the master data, this will also inform all the data analysts of what types of transformations apply.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=38)** Using tools like Power Query, either in Excel or Power BI, we can easily make these corrections and save these steps so that as new data comes into our reports, it will conform to the standards.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=38)** Using tools like [[Microsoft Power Query|Power Query]], either in [[Microsoft Excel|Excel]] or [[Microsoft Power BI|Power BI]], we can easily make these corrections and save these steps so that as new data comes into our reports, it will conform to the standards.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=50)** Master data is not just address information, though.
 >
@@ -2527,13 +2501,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=55)** If we call a project something different, then it makes it difficult for the data analyst to report on this information with ease.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=62)** There are tools that exist to support large scale organizations with master data management.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=62)** There are tools that exist to support large scale organizations with master [[Data Management]].
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=67)** But I would argue no matter the size of your organization, if you do not have a plan in place, the analyst will be dealing with it all the time.
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=75)** So as master data management aims to keep a clean, complete, and accurate list of master data for the organization, if you don't have master data management, then you will need to develop a plan to keep a nice, consistent list of data when you report.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=89)** Let's take products, as an example.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=89)** Let's take [[Microsoft Products|products]], as an example.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/master-data-management?u=76281980&t=92)** Two companies have merged.
 >
@@ -2549,16 +2523,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), management (3), [[Microsoft Products|Products]] (2), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Management]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
-#### Unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/unstructured-data?u=76281980)
+#### [Unstructured data](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/unstructured-data?u=76281980&t=0)** - Did you know that there is way more unstructured data in the world than structured?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/unstructured-data?u=76281980&t=0)** - Did you know that there is way more [[Unstructured Data]] in the world than structured?
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/unstructured-data?u=76281980&t=5)** As a matter of fact, did you know we use structured data to produce even more unstructured data?
 >
@@ -2630,7 +2603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Unstructured Data]] (7), product (1), next (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (7)
 > **CLI Commands:** cat (9)
 > **Analogies:** picture (2), for example (1), imagine (1)
 > **Env Vars:** png (1)
@@ -2644,8 +2617,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visualization methods and best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/visualization-methods-and-best-practices?u=76281980)
+#### [Visualization methods and best practices](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/visualization-methods-and-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2727,25 +2699,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), product (3), hit (1)
 > **CLI Commands:** make (5)
 > **Analogies:** imagine (3), picture (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - i (1)
 
-#### Creating reports to visualize your data over pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980)
+#### [Creating reports to visualize your data over pages](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=0)** - [Instructor] Not all data is best consumed using a dashboard.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=3)** Yes, dashboards provide valuable capabilities, but some reports can be valuable in different formats.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=3)** Yes, [[Dashboards]] provide valuable capabilities, but some reports can be valuable in different formats.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=10)** When we have reports that have line items and that is the type of display this will produce several pages and a dashboard representation of that data may not be the most user friendly.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=22)** There are tools like Power BI Report Builder that allow us to build what are called paginated reports.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=22)** There are tools like [[Microsoft Power BI|Power BI]] Report Builder that allow us to build what are called paginated reports.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=28)** Paginated reports allow you to connect to data, not unlike dashboards.
 >
@@ -2797,7 +2767,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=147)** And even though we'll have line items, we'll just have fewer, and it will become more meaningful for the meeting.
 >
-> **[2:34](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=154)** The matrix is just like a pivot in Excel.
+> **[2:34](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=154)** The matrix is just like a pivot in [[Microsoft Excel|Excel]].
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-reports-to-visualize-your-data-over-pages?u=76281980&t=156)** It has rows, columns, and summary values.
 >
@@ -2845,7 +2815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (4), [[Dashboards]] (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (6), click on (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (2)
@@ -2854,12 +2824,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 
-#### Creating a dashboards for reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-a-dashboards-for-reporting?u=76281980)
+#### [Creating a dashboards for reporting](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-a-dashboards-for-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-a-dashboards-for-reporting?u=76281980&t=0)** - [Instructor] Dashboards can provide valuable insight into different data scenarios.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-a-dashboards-for-reporting?u=76281980&t=0)** - [Instructor] [[Dashboards]] can provide valuable insight into different data scenarios.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-a-dashboards-for-reporting?u=76281980&t=5)** And the scenarios are created by us, the users.
 >
@@ -2869,7 +2838,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-a-dashboards-for-reporting?u=76281980&t=18)** Here, the size of the dot represents the amount of sales in the country.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-a-dashboards-for-reporting?u=76281980&t=22)** So if I click on North America, I will see on the left-hand side all the products.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-a-dashboards-for-reporting?u=76281980&t=22)** So if I click on North America, I will see on the left-hand side all the [[Microsoft Products|products]].
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/creating-a-dashboards-for-reporting?u=76281980&t=28)** And because these headings are sortable, I can interact and sort the total after discount, bringing the highest products ordered to the top.
 >
@@ -3089,15 +3058,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Dashboards]] (4), [[Microsoft Products|Products]] (2), product (1), feature (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** dropdown (5), go to (2), click on (1), right-click (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gathering requirements for visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/gathering-requirements-for-visualizations?u=76281980)
+#### [Gathering requirements for visualizations](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/gathering-requirements-for-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3125,7 +3093,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/gathering-requirements-for-visualizations?u=76281980&t=79)** If you are newer, it might be hard to visualize the visuals needed because you may still be trying to determine the right visual for the data.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/gathering-requirements-for-visualizations?u=76281980&t=87)** You can look for inspiration through samples that you can find available in the software, like Power BI has a whole set of dashboards you can play around with to get started.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/gathering-requirements-for-visualizations?u=76281980&t=87)** You can look for inspiration through samples that you can find available in the software, like [[Microsoft Power BI|Power BI]] has a whole set of [[Dashboards]] you can play around with to get started.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/gathering-requirements-for-visualizations?u=76281980&t=96)** In addition to getting on the same page about the look of the dashboard, we must consider other requirements.
 >
@@ -3149,7 +3117,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/gathering-requirements-for-visualizations?u=76281980&t=139)** Common filters might be years and dates.
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/gathering-requirements-for-visualizations?u=76281980&t=142)** If it's dedicated to products, it will likely have a product filter.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/gathering-requirements-for-visualizations?u=76281980&t=142)** If it's dedicated to [[Microsoft Products|products]], it will likely have a product filter.
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/gathering-requirements-for-visualizations?u=76281980&t=146)** And if it's dedicated to customers, it will have some customer filters.
 >
@@ -3161,13 +3129,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Dashboards]] (2), express (1), ux (1), power (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - we (1)
 
-#### Presenting data challenges effectively to others
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/presenting-data-challenges-effectively-to-others?u=76281980)
+#### [Presenting data challenges effectively to others](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/presenting-data-challenges-effectively-to-others?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3249,13 +3216,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (4), leadership (3), business (1)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Finalizing dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/finalizing-dashboards?u=76281980)
+#### [Finalizing dashboards](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/finalizing-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3353,7 +3318,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/finalizing-dashboards?u=76281980&t=222)** Here, I can change this to read Select Year and Month.
 >
-> **[3:48](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/finalizing-dashboards?u=76281980&t=228)** Just the word select tells people, hey, this is something I can select.
+> **[3:48](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/finalizing-dashboards?u=76281980&t=228)** Just the [[Microsoft Word|word]] select tells people, hey, this is something I can select.
 >
 > **[3:53](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/finalizing-dashboards?u=76281980&t=233)** I'll go to a Last Name.
 >
@@ -3385,15 +3350,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (11), click on (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding dashboard filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/adding-dashboard-filters?u=76281980)
+#### [Adding dashboard filters](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/adding-dashboard-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3474,8 +3438,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **Speakers:** - [narrator] (1)
 
-#### Modifying dashboard tooltips
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modifying-dashboard-tooltips?u=76281980)
+#### [Modifying dashboard tooltips](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modifying-dashboard-tooltips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3531,7 +3494,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modifying-dashboard-tooltips?u=76281980&t=132)** I want to change it up to look a little bit more than just solid white.
 >
-> **[2:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modifying-dashboard-tooltips?u=76281980&t=137)** When you're in Power BI, you can actually go in and change a lot.
+> **[2:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modifying-dashboard-tooltips?u=76281980&t=137)** When you're in [[Microsoft Power BI|Power BI]], you can actually go in and change a lot.
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modifying-dashboard-tooltips?u=76281980&t=142)** For example, go to view.
 >
@@ -3587,11 +3550,11 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modifying-dashboard-tooltips?u=76281980&t=289)** Now I'm ready to save and publish my dashboard.
 >
-> **[4:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modifying-dashboard-tooltips?u=76281980&t=292)** There are certainly more items that can be adjusted and tweaked with these dashboards, but at a minimum, this is a great start.
+> **[4:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/modifying-dashboard-tooltips?u=76281980&t=292)** There are certainly more items that can be adjusted and tweaked with these [[Dashboards]], but at a minimum, this is a great start.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), functional (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (1)
@@ -3604,8 +3567,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data workers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980)
+#### [Data workers](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3635,31 +3597,30 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=62)** And one of the first places an organization can turn to, to upscale and data.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=67)** If you're looking for areas of growth, then make sure you're using tools in Excel like Power Query and other analysis techniques like PivotTables and basic visualizations.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=67)** If you're looking for areas of growth, then make sure you're using tools in [[Microsoft Excel|Excel]] like [[Microsoft Power Query|Power Query]] and other analysis techniques like PivotTables and basic visualizations.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=77)** If you have more than average skill with these, you might be more than a data worker already.
 >
-> **[1:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=82)** You can also build skills like PowerPoint because this is another way we visualize data for meetings and presentations.
+> **[1:22](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=82)** You can also build skills like [[Microsoft PowerPoint|PowerPoint]] because this is another way we visualize data for meetings and presentations.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=88)** Documentation is a critical competency for any data role, so being a wizard at Microsoft Word doesn't hurt.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=88)** Documentation is a critical competency for any data role, so being a wizard at [[Microsoft Word]] doesn't hurt.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=95)** Remember, like every other tool, it's powerful and often because we use it every day, we don't believe we need to explore training.
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=102)** Trust me, you should.
 >
-> **[1:44](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=104)** For the soft skills, you'll want to focus on effective presentations and communication skills.
+> **[1:44](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=104)** For the [[Soft Skills]], you'll want to focus on effective presentations and communication skills.
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980&t=109)** Having these skills make you more than suitable for roles that require advanced skills in Excel and doing basic analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Excel|Excel]] (2), [[Search]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Word]] (1), [[Soft Skills]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Data analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980)
+#### [Data analysts](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3681,13 +3642,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=38)** A data analyst will have a deeper understanding of data systems and have more knowledge about database designs than a data worker.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=45)** A data analyst will find they have a little more access to see tables, and views of the databases.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=45)** A data analyst will find they have a little more access to see tables, and views of the [[Databases]].
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=51)** They probably have some basic SQL querying skills and may write SQL statements to gain access to data all the time.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=51)** They probably have some basic [[SQL]] querying skills and may write SQL statements to gain access to data all the time.
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=57)** This varies by organization, and access levels.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=61)** A data analyst will have a better than average understanding of the data governance plan because if you're a data analyst, you are going to be working under the policies, and procedures that are established.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=61)** A data analyst will have a better than average understanding of the [[Data Governance]] plan because if you're a data analyst, you are going to be working under the policies, and procedures that are established.
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=71)** Data analysts that are a few years in are likely to understand more about what questions to ask, and research in general.
 >
@@ -3695,7 +3656,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=84)** Data analysts also know how to create functions of varying types like conditional statements, logical statements.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=90)** Data analysts work with statistics, and most certainly at the beginning of their career, basic stats and aggregate functions, and certainly have learned how to connect data in a way that they can just refresh their data, and update their visuals and reports.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=90)** Data analysts work with [[Statistics]], and most certainly at the beginning of their career, basic stats and aggregate functions, and certainly have learned how to connect data in a way that they can just refresh their data, and update their visuals and reports.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=106)** If you're looking for areas of growth, then you can go a little bit deeper into statistics.
 >
@@ -3711,20 +3672,19 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=136)** You must understand joins, and how they impact data sets.
 >
-> **[2:20](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=140)** And for the soft skills, active listening, data storytelling, and critical thinking.
+> **[2:20](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=140)** And for the [[Soft Skills]], active listening, [[Data Storytelling]], and critical thinking.
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-analysts?u=76281980&t=146)** If you're realizing that you're a data analyst, then you might relate to being called a wizard at work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[SQL]] (2), [[Statistics]] (2), database (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Statistics]] (2), [[Databases]] (1), [[Data Governance]] (1), [[Soft Skills]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (2)
 > **Warnings:** note that (1)
 > **Speakers:** - i (1)
 
-#### Data engineers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980)
+#### [Data engineers](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3732,7 +3692,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=3)** It's an entirely different skill to be able to build data sets.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=8)** I personally believe what most people consider, as a data analyst in their organization, may be performing data engineering tasks more than analysis tasks.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=8)** I personally believe what most people consider, as a data analyst in their organization, may be performing [[Data Engineering]] tasks more than analysis tasks.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=17)** The crossover between the analysts and the engineering and skills are real.
 >
@@ -3744,13 +3704,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=40)** A data engineer also is likely to have more access to data, which is why they're sending it to you in the first place.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=46)** They also understand security and privacy of data through the overall data governance strategy.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=46)** They also understand security and [[Privacy]] of data through the overall [[Data Governance]] strategy.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=52)** Data engineers can transition to data architect, which covers more systems, more server and more security strategies for systems across all of the organization.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=61)** If you want to grow further in this role, you will certainly need to understand more about structured and unstructured data and how to convert it to usable data sets.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=61)** If you want to grow further in this role, you will certainly need to understand more about structured and [[Unstructured Data]] and how to convert it to usable data sets.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=70)** You'll want to understand the design methodologies of relational database systems and you will need to understand how to design databases.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=70)** You'll want to understand the design methodologies of relational [[Database Systems]] and you will need to understand how to design [[Databases]].
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-engineers?u=76281980&t=78)** You'll also want the shared skills of communication, effective presentations, critical thinking, and active listening.
 >
@@ -3762,13 +3722,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Engineering]] (2), [[Security]] (2), [[Data Engineering]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Privacy]] (1), [[Data Governance]] (1), [[Unstructured Data]] (1), [[Database Systems]] (1)
 > **Env Vars:** etl (1), elt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### Data scientists
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980)
+#### [Data scientists](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3778,11 +3737,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=14)** Data scientists will likely have all the skills of the analyst engineer and they will have likely worked in those roles.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=21)** However, a data scientist will have a heavier requirement for skills in coding, mathematics, and statistics.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=21)** However, a data scientist will have a heavier requirement for skills in coding, mathematics, and [[Statistics]].
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=27)** A data scientist will be instrumental in developing tools and instruments that provide valuable insight to the organization, but they can't do it alone without all the other roles, or well, maybe they can perform the task, but when you don't have all the other roles, the data scientists must perform them.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=46)** Data scientists or data science teams comprised of all the disciplines will interpret large sets.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=46)** Data scientists or [[Data Science]] teams comprised of all the disciplines will interpret large sets.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=52)** They'll likely build machine learning models.
 >
@@ -3790,11 +3749,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=59)** They'll likely be leaders in the data science team.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=62)** They'll provide support and strategy to the overall data governance plan.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=62)** They'll provide support and strategy to the overall [[Data Governance]] plan.
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=66)** If you want to further your skills in this area, you should consider gaining a better understanding of programmatic thinking.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=73)** You'll want to dive deeper into learning code and maybe start with something like Python.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=73)** You'll want to dive deeper into learning code and maybe start with something like [[Python (Programming Language)|Python]].
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-scientists?u=76281980&t=78)** If you have some stats experience, or not, you will definitely want to grow in this area.
 >
@@ -3806,7 +3765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Statistics]] (1), teams (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Statistics]] (1), [[Data Governance]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** means that (1)
 > **Speakers:** - people (1)
@@ -3816,16 +3775,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980&t=0)** - I hope that by now you've gained a deeper understanding of what data can mean for your career.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980&t=5)** If you want to go deeper into some of these hard skills we've discussed I would encourage you to watch my learning data analytics courses and other fellow data authors on courses on visualization, statistics, data science, and many other fascinating data categories.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980&t=5)** If you want to go deeper into some of these hard skills we've discussed I would encourage you to watch my learning data analytics courses and other fellow data authors on courses on visualization, [[Statistics]], [[Data Science]], and many other fascinating data categories.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980&t=20)** I hope you'll follow me on LinkedIn and seek out other thought leaders, as we're all on this journey together.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980&t=20)** I hope you'll follow me on [[LinkedIn]] and seek out other thought leaders, as we're all on this journey together.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980&t=25)** Look for people who are doing what you want to do and learn from them.
 >
@@ -3837,7 +3795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), career (1), [[Analytics]] (1), [[Statistics]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Data Science]] (1), [[LinkedIn]] (1)
 > **Speakers:** - i (1)
 
 

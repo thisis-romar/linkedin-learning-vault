@@ -75,16 +75,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Put Rust into practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980)
+#### [Put Rust into practice](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=1)** (upbeat electronic music)
 >
-> **[0:07](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=7)** - [Tim] It seems that everyone in the technology industry is talking about the Rust programming language.
+> **[0:07](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=7)** - [Tim] It seems that everyone in the technology industry is talking about the [[Rust (Programming Language)|Rust]] programming language.
 >
-> **[0:12](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=12)** All of the major tech companies are deploying Rust or seem to be; Google, Microsoft, Facebook, AWS.
+> **[0:12](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=12)** All of the major tech companies are deploying Rust or seem to be; [[Google]], [[Microsoft]], Facebook, AWS.
 >
 > **[0:19](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=19)** Learning Rust will enable you to reap the benefits of reliability and speed.
 >
@@ -102,24 +101,23 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=88)** Now, are you up for the challenge?
 >
-> **[1:30](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=90)** Make your way through my LinkedIn learning course and we'll see.
+> **[1:30](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980&t=90)** Make your way through my [[LinkedIn]] learning course and we'll see.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Programming]] (2), [[Google]] (1), [[Microsoft]] (1), aws (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [tim] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### What you need to get started
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/what-you-need-to-get-started?u=76281980)
+#### [What you need to get started](https://www.linkedin.com/learning/level-up-rust/what-you-need-to-get-started?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-rust/what-you-need-to-get-started?u=76281980&t=0)** - [Instructor] We have three steps to go through.
 >
-> **[0:02](https://www.linkedin.com/learning/level-up-rust/what-you-need-to-get-started?u=76281980&t=2)** The first is to install the Rust programming language.
+> **[0:02](https://www.linkedin.com/learning/level-up-rust/what-you-need-to-get-started?u=76281980&t=2)** The first is to install the [[Rust (Programming Language)|Rust]] programming language.
 >
 > **[0:06](https://www.linkedin.com/learning/level-up-rust/what-you-need-to-get-started?u=76281980&t=6)** Secondly, we'll be installing VS Studio Code, and thirdly the rust-analyzer extension for the editor.
 >
@@ -141,13 +139,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/level-up-rust/what-you-need-to-get-started?u=76281980&t=81)** If I copy the command by clicking the copy button then open VS Code, hit control P and enter then push control V and push enter.
 >
-> **[1:37](https://www.linkedin.com/learning/level-up-rust/what-you-need-to-get-started?u=76281980&t=97)** The editor will automatically install the extension and that's all you need to be productive with the rest of the course.
+> **[1:37](https://www.linkedin.com/learning/level-up-rust/what-you-need-to-get-started?u=76281980&t=97)** The editor will automatically install the extension and that's all you need to be productive with the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[1:48](https://www.linkedin.com/learning/level-up-rust/what-you-need-to-get-started?u=76281980&t=108)** I hope you enjoy the challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Programming]] (1), web (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** install (4), setup (1)
 > **UI Navigation:** click on (1), go to (1)
 > **File Paths:** rustup.rs (1)
@@ -156,16 +154,15 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning Courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning Courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands-on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -235,7 +232,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file, because there's an M right here, and the branch name now has an asterisk on it.
 >
@@ -277,7 +274,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit OK.
 >
-> **[5:34](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/level-up-rust/using-github-codespaces-with-this-course?u=76281980&t=337)** That way, it'll automatically sync with your forked repo.
 >
@@ -293,7 +290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -307,8 +304,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculate the median
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980)
+#### [Calculate the median](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -334,7 +330,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980&t=58)** It's four and then so our result is four.
 >
-> **[1:03](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980&t=63)** The word sum in the return value is significant.
+> **[1:03](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980&t=63)** The [[Microsoft Word|word]] sum in the return value is significant.
 >
 > **[1:07](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980&t=67)** This will enable us to account for the case of an empty input list.
 >
@@ -374,7 +370,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980&t=173)** I'll try and compile my tests and I get this error message saying that the trait odd is not implemented for F32.
 >
-> **[3:01](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980&t=181)** What this means, well, odd is short for ordinal and this indicates that Rust doesn't know how to compare all values of F32, which is a floating point value, because some of them, such as not a number, cannot be compared to any other.
+> **[3:01](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980&t=181)** What this means, well, odd is short for ordinal and this indicates that [[Rust (Programming Language)|Rust]] doesn't know how to compare all values of F32, which is a floating point value, because some of them, such as not a number, cannot be compared to any other.
 >
 > **[3:25](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980&t=205)** So instead we have to provide our custom sort function and we'll do that by using what's a little bit sneaky
 >
@@ -450,7 +446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), next (3), [[Programming]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** f32 (3), vec (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** cargo (2), find (1)
@@ -458,8 +454,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (retro music) (1)
 
-#### Find unique items
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/find-unique-items?u=76281980)
+#### [Find unique items](https://www.linkedin.com/learning/level-up-rust/find-unique-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -499,7 +494,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/level-up-rust/find-unique-items?u=76281980&t=102)** (techno gaming music) Hey, everyone.
 >
-> **[1:46](https://www.linkedin.com/learning/level-up-rust/find-unique-items?u=76281980&t=106)** Welcome to the answer section of the second challenge in Level Up Rust.
+> **[1:46](https://www.linkedin.com/learning/level-up-rust/find-unique-items?u=76281980&t=106)** Welcome to the answer section of the second challenge in Level Up [[Rust (Programming Language)|Rust]].
 >
 > **[1:53](https://www.linkedin.com/learning/level-up-rust/find-unique-items?u=76281980&t=113)** Our job is to implement unique.
 >
@@ -577,7 +572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Rust (Programming Language)|Rust]] (2), generic (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** cargo (1), make (1)
 > **Non-Speech:** (techno gaming music) (2)
@@ -585,8 +580,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Print any text type
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/print-any-text-type?u=76281980)
+#### [Print any text type](https://www.linkedin.com/learning/level-up-rust/print-any-text-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,7 +590,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/level-up-rust/print-any-text-type?u=76281980&t=6)** Well done for making it this far.
 >
-> **[0:08](https://www.linkedin.com/learning/level-up-rust/print-any-text-type?u=76281980&t=8)** One of the things that I really didn't appreciate about Rust when I was learning was its multitude of text types, that is, types that were dealing with text.
+> **[0:08](https://www.linkedin.com/learning/level-up-rust/print-any-text-type?u=76281980&t=8)** One of the things that I really didn't appreciate about [[Rust (Programming Language)|Rust]] when I was learning was its multitude of text types, that is, types that were dealing with text.
 >
 > **[0:22](https://www.linkedin.com/learning/level-up-rust/print-any-text-type?u=76281980&t=22)** This challenge is aimed at testing everyone's knowledge.
 >
@@ -644,7 +638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), game (2), next (2), generic (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **Cross-References:** in the next (2)
 > **File Paths:** main.rs (1)
 > **Tools:** terminal (1)
@@ -652,8 +646,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case-insensitive sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/case-insensitive-sort?u=76281980)
+#### [Case-insensitive sort](https://www.linkedin.com/learning/level-up-rust/case-insensitive-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,7 +654,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/level-up-rust/case-insensitive-sort?u=76281980&t=4)** - [Instructor] Kia ora e te whanau.
 >
-> **[0:06](https://www.linkedin.com/learning/level-up-rust/case-insensitive-sort?u=76281980&t=6)** Welcome to Rust code challenges, challenge four.
+> **[0:06](https://www.linkedin.com/learning/level-up-rust/case-insensitive-sort?u=76281980&t=6)** Welcome to [[Rust (Programming Language)|Rust]] code challenges, challenge four.
 >
 > **[0:10](https://www.linkedin.com/learning/level-up-rust/case-insensitive-sort?u=76281980&t=10)** Today we're going to be talking about users.
 >
@@ -731,7 +724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), generic (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **Code Identifiers:** sort_usernames (3), to_lowercase (1)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (lively music) (2)
@@ -740,14 +733,13 @@ created: 2026-05-02
 > **Env Vars:** utf (1)
 > **Tools:** terminal (1)
 
-#### Convert text to Morse code
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/convert-text-to-morse-code?u=76281980)
+#### [Convert text to Morse code](https://www.linkedin.com/learning/level-up-rust/convert-text-to-morse-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-rust/convert-text-to-morse-code?u=76281980&t=0)** (upbeat video game music)
 >
-> **[0:04](https://www.linkedin.com/learning/level-up-rust/convert-text-to-morse-code?u=76281980&t=4)** - [Instructor] Welcome to Rust Code Challenges, Challenge beep-beep-beep-beep beep-beep, (laughs) that is, Challenge 5: Morse Code.
+> **[0:04](https://www.linkedin.com/learning/level-up-rust/convert-text-to-morse-code?u=76281980&t=4)** - [Instructor] Welcome to [[Rust (Programming Language)|Rust]] Code Challenges, Challenge beep-beep-beep-beep beep-beep, (laughs) that is, Challenge 5: Morse Code.
 >
 > **[0:12](https://www.linkedin.com/learning/level-up-rust/convert-text-to-morse-code?u=76281980&t=12)** In this challenge, we will be converting text, that is, letters and numbers, into the equivalent Morse code representation.
 >
@@ -791,7 +783,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/level-up-rust/convert-text-to-morse-code?u=76281980&t=99)** Push pause and work through your solution.
 >
-> **[1:42](https://www.linkedin.com/learning/level-up-rust/convert-text-to-morse-code?u=76281980&t=102)** In the rest of the video, you'll see how I've implemented it.
+> **[1:42](https://www.linkedin.com/learning/level-up-rust/convert-text-to-morse-code?u=76281980&t=102)** In the [[Representational State Transfer (REST)|rest]] of the video, you'll see how I've implemented it.
 >
 > **[1:46](https://www.linkedin.com/learning/level-up-rust/convert-text-to-morse-code?u=76281980&t=106)** I look forward to seeing your solutions.
 >
@@ -889,7 +881,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), game (2), [[Rust (Programming Language)|Rust]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (5), is an  (2)
 > **Code Identifiers:** to_morse_code (1), with_capacity (1)
 > **Exercise Files:** sample code (2)
@@ -898,8 +890,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Value of a hand of cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/value-of-a-hand-of-cards?u=76281980)
+#### [Value of a hand of cards](https://www.linkedin.com/learning/level-up-rust/value-of-a-hand-of-cards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1015,7 +1006,7 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/level-up-rust/value-of-a-hand-of-cards?u=76281980&t=444)** Maybe if I pull it away from one line it might be a little bit easier to read.
 >
-> **[7:31](https://www.linkedin.com/learning/level-up-rust/value-of-a-hand-of-cards?u=76281980&t=451)** The other thing to note about Rust that's different than most other languages is the if can actually return a value itself.
+> **[7:31](https://www.linkedin.com/learning/level-up-rust/value-of-a-hand-of-cards?u=76281980&t=451)** The other thing to note about [[Rust (Programming Language)|Rust]] that's different than most other languages is the if can actually return a value itself.
 >
 > **[7:40](https://www.linkedin.com/learning/level-up-rust/value-of-a-hand-of-cards?u=76281980&t=460)** Ah, it's given me another syntex error to fix.
 >
@@ -1047,7 +1038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), hit (1), [[Rust (Programming Language)|Rust]] (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Code Identifiers:** aces_seen (2), aces_scene (1), strong_hand (1)
 > **Exercise Files:** sample code (2)
 > **Definitions:** is a  (2)
@@ -1056,8 +1047,7 @@ created: 2026-05-02
 > **CLI Commands:** cargo (1)
 > **UI Navigation:** go to (1)
 
-#### Has a deadline been reached?
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/has-a-deadline-been-reached?u=76281980)
+#### [Has a deadline been reached?](https://www.linkedin.com/learning/level-up-rust/has-a-deadline-been-reached?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1091,7 +1081,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/level-up-rust/has-a-deadline-been-reached?u=76281980&t=61)** The sample code will automatically download and compile the chrono crate for you.
 >
-> **[1:06](https://www.linkedin.com/learning/level-up-rust/has-a-deadline-been-reached?u=76281980&t=66)** A crate is the Rust term for package.
+> **[1:06](https://www.linkedin.com/learning/level-up-rust/has-a-deadline-been-reached?u=76281980&t=66)** A crate is the [[Rust (Programming Language)|Rust]] term for package.
 >
 > **[1:10](https://www.linkedin.com/learning/level-up-rust/has-a-deadline-been-reached?u=76281980&t=70)** The Deadline trait is defined as a single method is passed.
 >
@@ -1131,7 +1121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Non-Speech:** (bright nostalgic music) (2), (stars chime) (1), (graphic beeps) (1), (graphic chimes) (1)
 > **File Paths:** main.rs (1)
 > **CLI Commands:** cargo (1)
@@ -1140,8 +1130,7 @@ created: 2026-05-02
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Convert between Celsius and Fahrenheit
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/convert-between-celsius-and-fahrenheit?u=76281980)
+#### [Convert between Celsius and Fahrenheit](https://www.linkedin.com/learning/level-up-rust/convert-between-celsius-and-fahrenheit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1181,7 +1170,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/level-up-rust/convert-between-celsius-and-fahrenheit?u=76281980&t=74)** Work on your solution.
 >
-> **[1:15](https://www.linkedin.com/learning/level-up-rust/convert-between-celsius-and-fahrenheit?u=76281980&t=75)** For the rest of the video, you'll see how I've implemented them.
+> **[1:15](https://www.linkedin.com/learning/level-up-rust/convert-between-celsius-and-fahrenheit?u=76281980&t=75)** For the [[Representational State Transfer (REST)|rest]] of the video, you'll see how I've implemented them.
 >
 > **[1:19](https://www.linkedin.com/learning/level-up-rust/convert-between-celsius-and-fahrenheit?u=76281980&t=79)** (electronic trilling) (video game music) (key clicks) (video game music) Hi, welcome to the answer segment.
 >
@@ -1273,7 +1262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Non-Speech:** (keys clicking) (11), (video game music) (3), (mouse clicking) (1)
 > **Code Identifiers:** to_celsius (2), to_fahrenheit (2)
 > **Definitions:** is an  (2), is a  (1)
@@ -1282,16 +1271,15 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - we (1)
 
-#### Sum a list of numbers with missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/sum-a-list-of-numbers-with-missing-values?u=76281980)
+#### [Sum a list of numbers with missing values](https://www.linkedin.com/learning/level-up-rust/sum-a-list-of-numbers-with-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-rust/sum-a-list-of-numbers-with-missing-values?u=76281980&t=0)** (lively music)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-rust/sum-a-list-of-numbers-with-missing-values?u=76281980&t=3)** - [Instructor] Data quality is a really important topic and one of the things that crops up in the real world when you are dealing with data is missing values.
+> **[0:03](https://www.linkedin.com/learning/level-up-rust/sum-a-list-of-numbers-with-missing-values?u=76281980&t=3)** - [Instructor] [[Data Quality]] is a really important topic and one of the things that crops up in the real world when you are dealing with data is missing values.
 >
-> **[0:12](https://www.linkedin.com/learning/level-up-rust/sum-a-list-of-numbers-with-missing-values?u=76281980&t=12)** This challenge goes through the process of handling those in Rust.
+> **[0:12](https://www.linkedin.com/learning/level-up-rust/sum-a-list-of-numbers-with-missing-values?u=76281980&t=12)** This challenge goes through the process of handling those in [[Rust (Programming Language)|Rust]].
 >
 > **[0:17](https://www.linkedin.com/learning/level-up-rust/sum-a-list-of-numbers-with-missing-values?u=76281980&t=17)** Welcome to challenge nine, ignore missing values.
 >
@@ -1373,7 +1361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Rust (Programming Language)|Rust]] (3), functional (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Data Quality]] (1)
 > **CLI Commands:** find (1), cargo (1)
 > **Code Identifiers:** sum_with_missing (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1382,8 +1370,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Best Practices:** you should always (1)
 
-#### Calculate the number of weeks between two dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980)
+#### [Calculate the number of weeks between two dates](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,7 +1402,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=72)** I'll explain what I mean.
 >
-> **[1:14](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=74)** Many functions in rust return a result.
+> **[1:14](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=74)** Many functions in [[Rust (Programming Language)|rust]] return a result.
 >
 > **[1:18](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=78)** That result has the possibility of an Err variant.
 >
@@ -1445,7 +1432,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=145)** Pause the video now and implement the weeks between function.
 >
-> **[2:29](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=149)** This way, all of the children of LinkedIn will be able to find out who has the next birthday.
+> **[2:29](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=149)** This way, all of the children of [[LinkedIn]] will be able to find out who has the next birthday.
 >
 > **[2:37](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=157)** (retro video game music) Welcome to the answer section.
 >
@@ -1457,7 +1444,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=207)** And that one will be a crate called chrono.
 >
-> **[3:33](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=213)** And I'll take version 0.4 and actually I don't even need all the rest of it.
+> **[3:33](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=213)** And I'll take version 0.4 and actually I don't even need all the [[Representational State Transfer (REST)|rest]] of it.
 >
 > **[3:50](https://www.linkedin.com/learning/level-up-rust/calculate-the-number-of-weeks-between-two-dates?u=76281980&t=230)** Then I can use a data type called NaiveDate which will give me I think a lot of what I want.
 >
@@ -1493,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), game (2), [[Rust (Programming Language)|Rust]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3)
 > **Non-Speech:** (retro video game sound effects) (1), (retro video game music) (1)
 > **File Paths:** main.rs (1)
@@ -1502,8 +1489,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 
-#### Validate an ISBN number
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/validate-an-isbn-number?u=76281980)
+#### [Validate an ISBN number](https://www.linkedin.com/learning/level-up-rust/validate-an-isbn-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1811,7 +1797,7 @@ created: 2026-05-02
 >
 > **[19:48](https://www.linkedin.com/learning/level-up-rust/validate-an-isbn-number?u=76281980&t=1188)** Okay, so InvalidIsbn, and then failed, or InvalidCharacter.
 >
-> **[19:57](https://www.linkedin.com/learning/level-up-rust/validate-an-isbn-number?u=76281980&t=1197)** Maybe a better word would be to say unexpected.
+> **[19:57](https://www.linkedin.com/learning/level-up-rust/validate-an-isbn-number?u=76281980&t=1197)** Maybe a better [[Microsoft Word|word]] would be to say unexpected.
 >
 > **[20:01](https://www.linkedin.com/learning/level-up-rust/validate-an-isbn-number?u=76281980&t=1201)** And so there's two things that, two fields that are provided.
 >
@@ -1839,7 +1825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), generic (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** isbn (8), todo (2)
 > **Code Identifiers:** weights_applied (2), char_indices (1), to_digit (1), calculate_check_digit (1), to_string (1)
 > **Definitions:** is a  (5), is called (1)
@@ -1848,8 +1834,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2)
 > **File Paths:** main.rs (1)
 
-#### Check if a file exists
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/check-if-a-file-exists?u=76281980)
+#### [Check if a file exists](https://www.linkedin.com/learning/level-up-rust/check-if-a-file-exists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1861,7 +1846,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/level-up-rust/check-if-a-file-exists?u=76281980&t=13)** We're going to be playing around with the file system, and validating that a file actually exists on the file system and also that you can write to it.
 >
-> **[0:26](https://www.linkedin.com/learning/level-up-rust/check-if-a-file-exists?u=76281980&t=26)** To satisfy the requirements of the challenge, you'll need to implement the File Metadata trait for the path type defined in the standard path module.
+> **[0:26](https://www.linkedin.com/learning/level-up-rust/check-if-a-file-exists?u=76281980&t=26)** To satisfy the requirements of the challenge, you'll need to implement the File [[Metadata]] trait for the path type defined in the standard path module.
 >
 > **[0:37](https://www.linkedin.com/learning/level-up-rust/check-if-a-file-exists?u=76281980&t=37)** The File Metadata trait has three methods: Exists returns True or False, depending on whether or not the path actually exists on the file system already.
 >
@@ -1929,7 +1914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (6), next (2), hit (1)
+> **Frameworks & Libraries:** [[Metadata]] (6)
 > **Code Identifiers:** is_writeable (4), is_readable (3)
 > **CLI Commands:** make (2), cargo (1)
 > **Definitions:** is a  (3)
@@ -1938,8 +1923,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** you'll need (1)
 
-#### Interpret an RGB hex color
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/interpret-an-rgb-hex-color?u=76281980)
+#### [Interpret an RGB hex color](https://www.linkedin.com/learning/level-up-rust/interpret-an-rgb-hex-color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1949,7 +1933,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/level-up-rust/interpret-an-rgb-hex-color?u=76281980&t=28)** Welcome to challenge 13, RGB hex color code.
 >
-> **[0:33](https://www.linkedin.com/learning/level-up-rust/interpret-an-rgb-hex-color?u=76281980&t=33)** In this challenge, we need to parse a string that encodes a color, such as #AE42F0, and convert that to a rust type.
+> **[0:33](https://www.linkedin.com/learning/level-up-rust/interpret-an-rgb-hex-color?u=76281980&t=33)** In this challenge, we need to parse a string that encodes a color, such as #AE42F0, and convert that to a [[Rust (Programming Language)|rust]] type.
 >
 > **[0:45](https://www.linkedin.com/learning/level-up-rust/interpret-an-rgb-hex-color?u=76281980&t=45)** To complete the challenge, you'll need to satisfy three requirements.
 >
@@ -2115,7 +2099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), web (2), generic (2), [[Programming]] (1), css (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** rgb (5), css (1), ae42f0 (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
@@ -2124,8 +2108,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - some (1)
 
-#### Run-length encoding
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/run-length-encoding?u=76281980)
+#### [Run-length encoding](https://www.linkedin.com/learning/level-up-rust/run-length-encoding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2157,7 +2140,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/level-up-rust/run-length-encoding?u=76281980&t=80)** The second challenge is to be able to accept arbitrary byte streams.
 >
-> **[1:25](https://www.linkedin.com/learning/level-up-rust/run-length-encoding?u=76281980&t=85)** Rust strings are guaranteed to be UTF-8.
+> **[1:25](https://www.linkedin.com/learning/level-up-rust/run-length-encoding?u=76281980&t=85)** [[Rust (Programming Language)|Rust]] strings are guaranteed to be UTF-8.
 >
 > **[1:29](https://www.linkedin.com/learning/level-up-rust/run-length-encoding?u=76281980&t=89)** That means that it must be printable text.
 >
@@ -2167,7 +2150,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/level-up-rust/run-length-encoding?u=76281980&t=108)** As we pass through the input String the number of times that the character appears is printed before the character.
 >
-> **[1:57](https://www.linkedin.com/learning/level-up-rust/run-length-encoding?u=76281980&t=117)** The input string LinkedIn doesn't have any repetition in there.
+> **[1:57](https://www.linkedin.com/learning/level-up-rust/run-length-encoding?u=76281980&t=117)** The input string [[LinkedIn]] doesn't have any repetition in there.
 >
 > **[2:01](https://www.linkedin.com/learning/level-up-rust/run-length-encoding?u=76281980&t=121)** So, every character is prefixed with the number one.
 >
@@ -2305,7 +2288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), [[LinkedIn]] (3), data (1), [[Rust (Programming Language)|Rust]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Rust (Programming Language)|Rust]] (1)
 > **Non-Speech:** (keys typing) (8), (video game music) (2)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **Env Vars:** utf (2), abc (1)
@@ -2314,14 +2297,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
 
-#### Handle inconsistent dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/handle-inconsistent-dates?u=76281980)
+#### [Handle inconsistent dates](https://www.linkedin.com/learning/level-up-rust/handle-inconsistent-dates?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-rust/handle-inconsistent-dates?u=76281980&t=0)** (retro video game sound effects)
 >
-> **[0:04](https://www.linkedin.com/learning/level-up-rust/handle-inconsistent-dates?u=76281980&t=4)** - [Instructor] Welcome to Rust Code Challenge 15, flexible date parsing.
+> **[0:04](https://www.linkedin.com/learning/level-up-rust/handle-inconsistent-dates?u=76281980&t=4)** - [Instructor] Welcome to [[Rust (Programming Language)|Rust]] Code Challenge 15, flexible date parsing.
 >
 > **[0:08](https://www.linkedin.com/learning/level-up-rust/handle-inconsistent-dates?u=76281980&t=8)** If you've ever encountered free text date entry this challenge is for you.
 >
@@ -2343,7 +2325,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/level-up-rust/handle-inconsistent-dates?u=76281980&t=81)** Jump into the sample code for the challenge and try to implement the parsing function.
 >
-> **[1:27](https://www.linkedin.com/learning/level-up-rust/handle-inconsistent-dates?u=76281980&t=87)** In the rest of the video you'll see how I've implemented it.
+> **[1:27](https://www.linkedin.com/learning/level-up-rust/handle-inconsistent-dates?u=76281980&t=87)** In the [[Representational State Transfer (REST)|rest]] of the video you'll see how I've implemented it.
 >
 > **[1:31](https://www.linkedin.com/learning/level-up-rust/handle-inconsistent-dates?u=76281980&t=91)** Good luck.
 >
@@ -2505,7 +2487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), game (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2)
 > **Non-Speech:** (retro video game sound effects) (1), (retro video game music) (1)
@@ -2513,14 +2495,13 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Travel planner
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/travel-planner?u=76281980)
+#### [Travel planner](https://www.linkedin.com/learning/level-up-rust/travel-planner?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-rust/travel-planner?u=76281980&t=0)** (lively chiptune music)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-rust/travel-planner?u=76281980&t=3)** - [Instructor] One of the most challenging elements of Rust is data access.
+> **[0:03](https://www.linkedin.com/learning/level-up-rust/travel-planner?u=76281980&t=3)** - [Instructor] One of the most challenging elements of [[Rust (Programming Language)|Rust]] is data access.
 >
 > **[0:08](https://www.linkedin.com/learning/level-up-rust/travel-planner?u=76281980&t=8)** This challenge is really going to test our ability to mutate and share data in different parts of the program.
 >
@@ -2624,7 +2605,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/level-up-rust/travel-planner?u=76281980&t=380)** And we have one item in our priority queue.
 >
-> **[6:25](https://www.linkedin.com/learning/level-up-rust/travel-planner?u=76281980&t=385)** We just have the rest of the graph to search from, so that's good.
+> **[6:25](https://www.linkedin.com/learning/level-up-rust/travel-planner?u=76281980&t=385)** We just have the [[Representational State Transfer (REST)|rest]] of the graph to search from, so that's good.
 >
 > **[6:32](https://www.linkedin.com/learning/level-up-rust/travel-planner?u=76281980&t=392)** We've got a big while loop.
 >
@@ -2754,7 +2735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), node (9), data (5), [[Search]] (5), [[Rust (Programming Language)|Rust]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (9), make (4), find (3), cargo (1)
 > **Definitions:** is a  (5), is an  (2), short for (1), means that (1)
 > **Non-Speech:** (lively chiptune music) (2)
@@ -2763,8 +2744,7 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Final challenge: Vigenère cipher
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/final-challenge-vigenere-cipher?u=76281980)
+#### [Final challenge: Vigenère cipher](https://www.linkedin.com/learning/level-up-rust/final-challenge-vigenere-cipher?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2820,7 +2800,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/level-up-rust/final-challenge-vigenere-cipher?u=76281980&t=239)** So, it will return an iterator of bytes.
 >
-> **[4:03](https://www.linkedin.com/learning/level-up-rust/final-challenge-vigenere-cipher?u=76281980&t=243)** Now the syntax here looks a little bit scary if you are less familiar with rust, but what this will do is, so the U8 here is a byte, and so all of these letters in the alphabet are bytes, and iterators also have a lifetime attached.
+> **[4:03](https://www.linkedin.com/learning/level-up-rust/final-challenge-vigenere-cipher?u=76281980&t=243)** Now the syntax here looks a little bit scary if you are less familiar with [[Rust (Programming Language)|rust]], but what this will do is, so the U8 here is a byte, and so all of these letters in the alphabet are bytes, and iterators also have a lifetime attached.
 >
 > **[4:23](https://www.linkedin.com/learning/level-up-rust/final-challenge-vigenere-cipher?u=76281980&t=263)** And we can use the anonymous lifetime to indicate that.
 >
@@ -2900,7 +2880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), web (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** whyrust (2)
 > **CLI Commands:** make (1)

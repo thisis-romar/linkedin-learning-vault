@@ -205,8 +205,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diving into C
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=76281980)
+#### [Diving into C](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,20 +221,19 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=76281980&t=31)** It's how I learned C, exploring the language and discovering it at the same time.
 >
-> **[0:37](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=76281980&t=37)** I'm Dan Gookin, author of the book, C Programming for Dummies, and I invite you to join me and explore this Complete Guide to C Programming Foundations.
+> **[0:37](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=76281980&t=37)** I'm Dan Gookin, author of the book, C Programming for Dummies, and I invite you to join me and explore this Complete Guide to C [[Programming Foundations]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Programming Foundations]] (1)
+> **Frameworks & Libraries:** [[Programming Foundations]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuration and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/configuration-and-setup?u=76281980)
+#### [Configuration and setup](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/configuration-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/configuration-and-setup?u=76281980&t=0)** - [Instructor] This course works with GitHub Codespaces to assist with a learning experience and to work the exercises and challenges.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/configuration-and-setup?u=76281980&t=0)** - [Instructor] This course works with [[GitHub]] [[Codespaces]] to assist with a learning experience and to work the exercises and challenges.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/configuration-and-setup?u=76281980&t=7)** To configure Codespaces, use a web browser as you see here for another one of my courses.
 >
@@ -247,7 +245,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/configuration-and-setup?u=76281980&t=26)** You see this page, which is this courses repository on GitHub Codespaces.
 >
-> **[0:31](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/configuration-and-setup?u=76281980&t=31)** You want to generate a new codespace, one unique to you where you can find the exercise source code files, you can edit them and run them in a Linux environment generated on the web and accessible through a desktop or laptop computer's web browser.
+> **[0:31](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/configuration-and-setup?u=76281980&t=31)** You want to generate a new codespace, one unique to you where you can find the exercise source code files, you can edit them and run them in a [[Linux]] environment generated on the web and accessible through a desktop or laptop computer's web browser.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/configuration-and-setup?u=76281980&t=46)** Click the code button here.
 >
@@ -329,7 +327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (5), [[GitHub]] (4), web (3), [[Linux]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (5), [[GitHub]] (4), [[Linux]] (2)
 > **Tools:** github (4), terminal (2)
 > **Exercise Files:** source code (3), exercise files (1)
 > **Definitions:** is a  (2), means that (1)
@@ -343,8 +341,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Coding your first program
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980)
+#### [Coding your first program](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980&t=2)** you can write, please code along with me using this blank exercise file.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980&t=7)** Type the word main, main is the primary function and starting point for all C programs and it's used in other programming languages as well.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980&t=7)** Type the [[Microsoft Word|word]] main, main is the primary function and starting point for all C programs and it's used in other programming languages as well.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980&t=16)** Type an empty set of parentheses and then an empty set of braces or curly brackets.
 >
@@ -370,7 +367,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980&t=62)** This is the include pre-processor directive.
 >
-> **[1:05](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980&t=65)** It tells the compiler to fetch the C code stored in the file, stdio.h the standard input output header file.
+> **[1:05](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980&t=65)** It tells the compiler to [[Fetch]] the C code stored in the file, stdio.h the standard input output header file.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980&t=73)** Then for the main function type int, int means that this function returns a whole number or integer value back to the operating system.
 >
@@ -414,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Microsoft Word|Word]] (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Fetch]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **File Paths:** stdio.h (2)
 > **Exercise Files:** exercise file (1), source code (1)
@@ -423,8 +420,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Write your own code
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-write-your-own-code?u=76281980)
+#### [Challenge: Write your own code](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-write-your-own-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,15 +452,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Exercise Files:** source code (1), exercise files (1)
 > **File Paths:** stdio.h (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Write your own code
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-write-your-own-code?u=76281980)
+#### [Solution: Write your own code](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-write-your-own-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,14 +506,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (quirky music) (1)
 
-#### Getting into the C language
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/getting-into-the-c-language?u=76281980)
+#### [Getting into the C language](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/getting-into-the-c-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -589,12 +581,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), data (1), express (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [presenter] (1)
 
-#### Reviewing code structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/reviewing-code-structure?u=76281980)
+#### [Reviewing code structure](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/reviewing-code-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,14 +670,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (5)
 > **Exercise Files:** source code (2)
 > **File Paths:** stdio.h (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working the C development cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-the-c-development-cycle?u=76281980)
+#### [Working the C development cycle](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-the-c-development-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,7 +705,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-the-c-development-cycle?u=76281980&t=62)** The compiler is what creates the object code file based on the C language source code.
 >
-> **[1:07](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-the-c-development-cycle?u=76281980&t=67)** Object code isn't a program, but rather tokens and shortcuts that help build the final program.
+> **[1:07](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-the-c-development-cycle?u=76281980&t=67)** Object code isn't a program, but rather [[Tokens]] and shortcuts that help build the final program.
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-the-c-development-cycle?u=76281980&t=74)** The object code file retains the same file name as the source code file, but with the .o file name extension.
 >
@@ -777,7 +765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Tokens]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **Exercise Files:** source code (11), exercise file (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
@@ -786,8 +774,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Find and fix the bugs
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-find-and-fix-the-bugs?u=76281980)
+#### [Challenge: Find and fix the bugs](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-find-and-fix-the-bugs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,8 +807,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Find and fix the bugs
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-find-and-fix-the-bugs?u=76281980)
+#### [Solution: Find and fix the bugs](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-find-and-fix-the-bugs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,8 +850,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the preprocessor
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-preprocessor?u=76281980)
+#### [Exploring the preprocessor](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-preprocessor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,9 +882,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-preprocessor?u=76281980&t=70)** The .h files are header files required by items in the source code.
 >
-> **[1:16](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-preprocessor?u=76281980&t=76)** In Linux and similar operating systems, header files are found in the usr/include or usr/local/include directories.
+> **[1:16](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-preprocessor?u=76281980&t=76)** In [[Linux]] and similar operating systems, header files are found in the usr/include or usr/local/include directories.
 >
-> **[1:24](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-preprocessor?u=76281980&t=84)** In windows, the include directories are relative to the compiler's directory.
+> **[1:24](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-preprocessor?u=76281980&t=84)** In [[Windows]], the include directories are relative to the compiler's directory.
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-preprocessor?u=76281980&t=89)** When angle brackets are used with the include directive, the compiler looks in the default directories.
 >
@@ -941,14 +926,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), [[Windows]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Windows]] (1)
 > **Exercise Files:** source code (7)
 > **Env Vars:** count (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding header files and libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-header-files-and-libraries?u=76281980)
+#### [Understanding header files and libraries](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-header-files-and-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,7 +1000,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Analogies:** such as (3), picture (1)
 > **File Paths:** math.h (3)
 > **Documentation:** man page (2)
@@ -1024,9 +1007,9 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Exercise Files:** source code (1)
 > **Warnings:** warning (1)
+> **Speakers:** - [instructor] (1)
 
-#### Adding comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/adding-comments?u=76281980)
+#### [Adding comments](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/adding-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,15 +1073,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (3)
 > **Warnings:** warning (2)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chapter challenge: Building the foundation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-building-the-foundation?u=76281980)
+#### [Chapter challenge: Building the foundation](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-building-the-foundation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,8 +1116,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Chapter solution: Building the foundation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-building-the-foundation?u=76281980)
+#### [Chapter solution: Building the foundation](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-building-the-foundation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1134,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-building-the-foundation?u=76281980&t=42)** I like the traditional C comment style shown here, though you could easily write these using the newer slash slash style of comments.
 >
-> **[0:50](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-building-the-foundation?u=76281980&t=50)** Now for the main function and convert the rest of the sentences into comments.
+> **[0:50](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-building-the-foundation?u=76281980&t=50)** Now for the main function and convert the [[Representational State Transfer (REST)|rest]] of the sentences into comments.
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-building-the-foundation?u=76281980&t=63)** The main function needs a return statement and a closing brace, and that's it.
 >
@@ -1181,8 +1161,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding C language data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-c-language-data-types?u=76281980)
+#### [Understanding C language data types](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-c-language-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1252,14 +1231,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Programming]] (2)
 > **Versions:** 0.25 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard keys clicking) (1)
 
-#### Declaring variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/declaring-variables?u=76281980)
+#### [Declaring variables](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/declaring-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1307,7 +1284,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/declaring-variables?u=76281980&t=121)** Also avoid using function names as variables such as puts at line 12.
 >
-> **[2:06](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/declaring-variables?u=76281980&t=126)** The C plus plus language keyword new is a reserved word in that language, so I would caution against using it as well.
+> **[2:06](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/declaring-variables?u=76281980&t=126)** The C plus plus language keyword new is a reserved [[Microsoft Word|word]] in that language, so I would caution against using it as well.
 >
 > **[2:16](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/declaring-variables?u=76281980&t=136)** This code shows how you can initialize a variable when it's declared, assigning it an immediate value as shown here at lines five, six, and seven.
 >
@@ -1319,19 +1296,18 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/declaring-variables?u=76281980&t=162)** Remember that.
 >
-> **[2:44](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/declaring-variables?u=76281980&t=164)** Forgetting to assign values to variables before they're used is a source of frustration for many C programmers as well as a potential security risk.
+> **[2:44](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/declaring-variables?u=76281980&t=164)** Forgetting to assign values to variables before they're used is a source of frustration for many C programmers as well as a potential [[Security Risk]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), [[Programming]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Security Risk]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Cross-References:** later in (1)
 > **Analogies:** such as (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-variables?u=76281980)
+#### [Working with variables](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1399,15 +1375,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **Versions:** 0.25 (1), 2.5 (1)
 > **CLI Commands:** ls (1)
 > **Exercise Files:** source code (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the printf() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-printf-function?u=76281980)
+#### [Exploring the printf() function](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-printf-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1477,7 +1451,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (2), [[Programming]] (1), prompt (1)
 > **Documentation:** man page (2), specification (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** warning (2)
@@ -1485,8 +1458,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-constants?u=76281980)
+#### [Using constants](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-constants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1530,7 +1502,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-constants?u=76281980&t=112)** And now run.
 >
-> **[1:56](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-constants?u=76281980&t=116)** Changing the constant here saved me a lot of work plodding through the rest of the source code to make edits.
+> **[1:56](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-constants?u=76281980&t=116)** Changing the constant here saved me a lot of work plodding through the [[Representational State Transfer (REST)|rest]] of the source code to make edits.
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-constants?u=76281980&t=124)** Like any variable, the const keyword creates a constant for use only within a function.
 >
@@ -1558,8 +1530,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Making variables and constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-making-variables-and-constants?u=76281980)
+#### [Challenge: Making variables and constants](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-making-variables-and-constants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1586,8 +1557,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Making variables and constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-making-variables-and-constants?u=76281980)
+#### [Solution: Making variables and constants](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-making-variables-and-constants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1626,8 +1596,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Understanding variable scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-variable-scope?u=76281980)
+#### [Understanding variable scope](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-variable-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1673,7 +1642,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-variable-scope?u=76281980&t=117)** The warnings ring true.
 >
-> **[1:58](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-variable-scope?u=76281980&t=118)** Here it says The course's author is, and the word null has been substituted for what other nonsense would have appeared there, as the variable was discarded when the myname function quit.
+> **[1:58](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-variable-scope?u=76281980&t=118)** Here it says The course's author is, and the [[Microsoft Word|word]] null has been substituted for what other nonsense would have appeared there, as the variable was discarded when the myname function quit.
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-variable-scope?u=76281980&t=132)** To fix this problem, you can add the static keyword to the variable declaration in the myname function.
 >
@@ -1703,13 +1672,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Exercise Files:** source code (2)
 > **Speakers:** - [instructor] (1)
 
-#### Making new data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/making-new-data-types?u=76281980)
+#### [Making new data types](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/making-new-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1779,7 +1747,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12)
 > **File Paths:** time.h (3)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** known as (2)
@@ -1787,8 +1754,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Specifying characters and strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/specifying-characters-and-strings?u=76281980)
+#### [Specifying characters and strings](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/specifying-characters-and-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1868,14 +1834,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Specifying integers and real numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/specifying-integers-and-real-numbers?u=76281980)
+#### [Specifying integers and real numbers](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/specifying-integers-and-real-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1943,15 +1907,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Versions:** 0.25 (2), 2.5 (2)
 > **Env Vars:** int (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Typecasting a variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/typecasting-a-variable?u=76281980)
+#### [Typecasting a variable](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/typecasting-a-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1973,7 +1935,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/typecasting-a-variable?u=76281980&t=58)** The operative term is typecast.
 >
-> **[1:01](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/typecasting-a-variable?u=76281980&t=61)** On line 10 before the math expression, type the word float in parentheses, now run.
+> **[1:01](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/typecasting-a-variable?u=76281980&t=61)** On line 10 before the math expression, type the [[Microsoft Word|word]] float in parentheses, now run.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/typecasting-a-variable?u=76281980&t=71)** Here is the proper answer.
 >
@@ -2001,13 +1963,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chapter challenge: Adding variables and constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-adding-variables-and-constants?u=76281980)
+#### [Chapter challenge: Adding variables and constants](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-adding-variables-and-constants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2043,14 +2004,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Exercise Files:** source code (1), exercise files (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Chapter solution: Adding variables and constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-adding-variables-and-constants?u=76281980)
+#### [Chapter solution: Adding variables and constants](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-adding-variables-and-constants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2098,7 +2057,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1)
 > **Versions:** 0.75 (1), 0.2 (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
@@ -2110,8 +2068,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with math operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-math-operators?u=76281980)
+#### [Working with math operators](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-math-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2177,12 +2134,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **Non-Speech:** (keyboard clicking) (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Do some math
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-do-some-math?u=76281980)
+#### [Challenge: Do some math](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-do-some-math?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2213,8 +2168,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Do some math
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-do-some-math?u=76281980)
+#### [Solution: Do some math](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-do-some-math?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2246,14 +2200,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** 0.0 (2), 7.5 (1), 2.0 (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Using assignment operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-assignment-operators?u=76281980)
+#### [Using assignment operators](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-assignment-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2295,12 +2247,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Obeying the order of precedence
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/obeying-the-order-of-precedence?u=76281980)
+#### [Obeying the order of precedence](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/obeying-the-order-of-precedence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2366,7 +2316,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/obeying-the-order-of-precedence?u=76281980&t=159)** Binary operators and, exclusive or, and inclusive or are the logical comparison operators.
 >
-> **[2:46](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/obeying-the-order-of-precedence?u=76281980&t=166)** And finally the rest: the ternary operator, assignment operator, and comma.
+> **[2:46](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/obeying-the-order-of-precedence?u=76281980&t=166)** And finally the [[Representational State Transfer (REST)|rest]]: the ternary operator, assignment operator, and comma.
 >
 > **[2:51](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/obeying-the-order-of-precedence?u=76281980&t=171)** These are the C language operators in the order in which the compiler evaluates them.
 >
@@ -2376,12 +2326,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (computer keys clicking) (1)
 
-#### Challenge: Get the order correct
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-get-the-order-correct?u=76281980)
+#### [Challenge: Get the order correct](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-get-the-order-correct?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2411,8 +2360,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Get the order correct
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-get-the-order-correct?u=76281980)
+#### [Solution: Get the order correct](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-get-the-order-correct?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2452,14 +2400,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Non-Speech:** (computer keys clicking) (4), (upbeat music) (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with relational operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-relational-operators?u=76281980)
+#### [Working with relational operators](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-relational-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2535,13 +2481,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using logical operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-logical-operators?u=76281980)
+#### [Using logical operators](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-logical-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2617,13 +2561,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Warnings:** be aware (1), warning (1)
 > **Speakers:** - [instructor] (1), - 1 (1)
 > **Exercise Files:** exercise file (1)
 
-#### Understanding bitwise operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-bitwise-operators?u=76281980)
+#### [Understanding bitwise operators](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-bitwise-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2695,7 +2637,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), power (2), data (1), feature (1)
 > **Exercise Files:** exercise files (1), exercise file (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** binstring (1)
@@ -2703,8 +2644,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shifting bits
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/shifting-bits?u=76281980)
+#### [Shifting bits](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/shifting-bits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2782,14 +2722,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring unary operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-unary-operators?u=76281980)
+#### [Exploring unary operators](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-unary-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2853,13 +2791,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), application (1)
 > **File Paths:** stdio.h (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chapter challenge: More math
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-more-math?u=76281980)
+#### [Chapter challenge: More math](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-more-math?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2881,18 +2817,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Chapter solution: More math
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-more-math?u=76281980)
+#### [Chapter solution: More math](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-more-math?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-more-math?u=76281980&t=0)** - [Instructor] For this exercise, the printf statements follow a specific pattern, I'll write the first one, and then I can copy and paste to quickly build the rest.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-more-math?u=76281980&t=0)** - [Instructor] For this exercise, the printf statements follow a specific pattern, I'll write the first one, and then I can copy and paste to quickly build the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-more-math?u=76281980&t=22)** Format using the %d placeholders for variable values A and B, and then the expression to add them, A + B.
 >
@@ -2946,8 +2880,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making a decision
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/making-a-decision?u=76281980)
+#### [Making a decision](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/making-a-decision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3027,8 +2960,7 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the possibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-possibilities?u=76281980)
+#### [Exploring the possibilities](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-possibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3090,8 +3022,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the ternary operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-the-ternary-operator?u=76281980)
+#### [Using the ternary operator](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-the-ternary-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3161,14 +3092,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), next (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with the switch-case structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-the-switch-case-structure?u=76281980)
+#### [Working with the switch-case structure](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-the-switch-case-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3248,13 +3177,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Select an item
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-select-an-item?u=76281980)
+#### [Challenge: Select an item](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-select-an-item?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3275,8 +3202,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Select an item
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-select-an-item?u=76281980)
+#### [Solution: Select an item](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-select-an-item?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3314,14 +3240,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), career (1), next (1)
 > **Non-Speech:** (light music) (1), (fast typing) (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a for loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-a-for-loop?u=76281980)
+#### [Creating a for loop](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-a-for-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3419,13 +3343,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), feature (1), next (1)
 > **Exercise Files:** exercise file (2)
 > **Prerequisites:** initialization (2)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a while loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/setting-up-a-while-loop?u=76281980)
+#### [Setting up a while loop](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/setting-up-a-while-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3506,8 +3428,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Repeat some text
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-repeat-some-text?u=76281980)
+#### [Challenge: Repeat some text](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-repeat-some-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3541,8 +3462,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Repeat some text
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-repeat-some-text?u=76281980)
+#### [Solution: Repeat some text](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-repeat-some-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3591,8 +3511,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Nesting loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/nesting-loops?u=76281980)
+#### [Nesting loops](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/nesting-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3636,8 +3555,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Breaking out of a loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/breaking-out-of-a-loop?u=76281980)
+#### [Breaking out of a loop](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/breaking-out-of-a-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3693,8 +3611,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding the goto keyword
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/avoiding-the-goto-keyword?u=76281980)
+#### [Avoiding the goto keyword](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/avoiding-the-goto-keyword?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3738,8 +3655,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chapter challenge: Interpreting commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-interpreting-commands?u=76281980)
+#### [Chapter challenge: Interpreting commands](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-interpreting-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3801,7 +3717,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), game (1), [[Programming]] (1)
 > **Env Vars:** right (1), true (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -3809,8 +3724,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Chapter solution: Interpreting commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-interpreting-commands?u=76281980)
+#### [Chapter solution: Interpreting commands](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-interpreting-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3870,7 +3784,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-interpreting-commands?u=76281980&t=186)** I'll run the update to see how it works.
 >
-> **[3:12](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-interpreting-commands?u=76281980&t=192)** Now, I type an R and it's interpreted and I can even type the long version of the word back.
+> **[3:12](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-interpreting-commands?u=76281980&t=192)** Now, I type an R and it's interpreted and I can even type the long version of the [[Microsoft Word|word]] back.
 >
 > **[3:18](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-interpreting-commands?u=76281980&t=198)** It's also interpreted.
 >
@@ -3896,7 +3810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Non-Speech:** (keyboard clicking) (11), (bright music) (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
@@ -3907,8 +3821,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-functions?u=76281980)
+#### [Understanding functions](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3976,13 +3889,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Programming]] (1)
 > **Definitions:** is a  (2), is called (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-a-function?u=76281980)
+#### [Creating a function](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4028,7 +3939,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-a-function?u=76281980&t=107)** The prototype statement repeats the function's declaration, but it's a statement, so it ends with a semicolon.
 >
-> **[1:54](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-a-function?u=76281980&t=114)** By prototyping the function here, the compiler won't complain when the function is used in the main function at line 8.
+> **[1:54](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-a-function?u=76281980&t=114)** By [[Prototyping]] the function here, the compiler won't complain when the function is used in the main function at line 8.
 >
 > **[2:01](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-a-function?u=76281980&t=121)** To prove it, comment out the prototype.
 >
@@ -4094,7 +4005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), data (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **Exercise Files:** source code (3)
 > **Analogies:** for example (2)
 > **File Paths:** stio.h (1)
@@ -4102,8 +4013,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Writing a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-writing-a-function?u=76281980)
+#### [Challenge: Writing a function](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-writing-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4130,8 +4040,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pensive music) (1)
 
-#### Solution: Writing a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-writing-a-function?u=76281980)
+#### [Solution: Writing a function](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-writing-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4178,8 +4087,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Returning a value from a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/returning-a-value-from-a-function?u=76281980)
+#### [Returning a value from a function](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/returning-a-value-from-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4193,7 +4101,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/returning-a-value-from-a-function?u=76281980&t=16)** Variable r is local or private to the randchar function, but its value is sent back to the main function where a loop outputs the value seven times.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/returning-a-value-from-a-function?u=76281980&t=28)** The goal is to generate a random word,
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/returning-a-value-from-a-function?u=76281980&t=28)** The goal is to generate a random [[Microsoft Word|word]],
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/returning-a-value-from-a-function?u=76281980&t=36)** and today's random word is XQCARWF.
 >
@@ -4237,13 +4145,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Ports:** :00 (1)
 > **Env Vars:** xqcarwf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Returning a value
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-returning-a-value?u=76281980)
+#### [Challenge: Returning a value](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-returning-a-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4278,8 +4185,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Returning a value
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-returning-a-value?u=76281980)
+#### [Solution: Returning a value](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-returning-a-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4323,14 +4229,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Passing arguments to a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/passing-arguments-to-a-function?u=76281980)
+#### [Passing arguments to a function](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/passing-arguments-to-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4384,15 +4288,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Exercise Files:** source code (1), exercise file (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Versions:** 32.07 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Passing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-passing-values?u=76281980)
+#### [Challenge: Passing values](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-passing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4419,8 +4321,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Passing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-passing-values?u=76281980)
+#### [Solution: Passing values](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-passing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4464,8 +4365,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Using the main() function's arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-the-main-function-s-arguments?u=76281980)
+#### [Using the main() function's arguments](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-the-main-function-s-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4521,15 +4421,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), data (1)
 > **Tools:** command line (4), command prompt (3)
 > **Definitions:** is an  (2)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retaining values in a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/retaining-values-in-a-function?u=76281980)
+#### [Retaining values in a function](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/retaining-values-in-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4588,8 +4486,7 @@ created: 2026-05-02
 > **Definitions:** is called (3)
 > **Speakers:** - [instructor] (1)
 
-#### Creating recursive functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-recursive-functions?u=76281980)
+#### [Creating recursive functions](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-recursive-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4677,15 +4574,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Analogies:** picture (2), it's like (1), such as (1), for example (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (computer keys clicking) (1)
 
-#### Chapter challenge: Write the functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-write-the-functions?u=76281980)
+#### [Chapter challenge: Write the functions](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-write-the-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4723,15 +4618,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **Exercise Files:** source code (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Chapter solution: Write the functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-write-the-functions?u=76281980)
+#### [Chapter solution: Write the functions](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-write-the-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4779,7 +4672,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** source code (1)
 > **Prerequisites:** required to (1)
@@ -4791,8 +4683,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-arrays?u=76281980)
+#### [Understanding arrays](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4860,12 +4751,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (3), means that (1), is an  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-arrays?u=76281980)
+#### [Working with arrays](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4933,14 +4822,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Creating an array
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-creating-an-array?u=76281980)
+#### [Challenge: Creating an array](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-creating-an-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4968,14 +4855,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Exercise Files:** exercise files (1), source code (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Creating an array
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-creating-an-array?u=76281980)
+#### [Solution: Creating an array](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-creating-an-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5027,8 +4912,7 @@ created: 2026-05-02
 > **Speakers:** - here (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Passing an array to a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/passing-an-array-to-a-function?u=76281980)
+#### [Passing an array to a function](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/passing-an-array-to-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5101,8 +4985,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with multi-dimensional arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-multi-dimensional-arrays?u=76281980)
+#### [Working with multi-dimensional arrays](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-multi-dimensional-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5166,14 +5049,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), data (1)
 > **Exercise Files:** exercise file (1), exercise files (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/building-a-structure?u=76281980)
+#### [Building a structure](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/building-a-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5253,13 +5134,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nesting structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/nesting-structures?u=76281980)
+#### [Nesting structures](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/nesting-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5323,14 +5202,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2)
 > **Exercise Files:** exercise file (3)
 > **Definitions:** refers to (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Constructing a structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-constructing-a-structure?u=76281980)
+#### [Challenge: Constructing a structure](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-constructing-a-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5362,15 +5239,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (2)
 > **Exercise Files:** source code (1), exercise files (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Solution: Constructing a structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-constructing-a-structure?u=76281980)
+#### [Solution: Constructing a structure](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-constructing-a-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5452,7 +5327,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **File Paths:** string.h (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -5460,8 +5334,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Putting structures into an array
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/putting-structures-into-an-array?u=76281980)
+#### [Putting structures into an array](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/putting-structures-into-an-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5519,12 +5392,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with structures and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-structures-and-functions?u=76281980)
+#### [Working with structures and functions](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-structures-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5602,7 +5473,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Code Identifiers:** show_pixel (3)
 > **Definitions:** is called (1), means that (1)
 > **CLI Commands:** make (1)
@@ -5611,8 +5481,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chapter challenge: Manipulating a structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-manipulating-a-structure?u=76281980)
+#### [Chapter challenge: Manipulating a structure](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-manipulating-a-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5650,14 +5519,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Chapter solution: Manipulating a structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-manipulating-a-structure?u=76281980)
+#### [Chapter solution: Manipulating a structure](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-manipulating-a-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5709,7 +5576,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (1), data (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -5720,8 +5586,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using single character I/O
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980)
+#### [Using single character I/O](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5747,7 +5612,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980&t=58)** C uses stream input, which isn't interactive, like most programs you're familiar with.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980&t=64)** To prove it, I can update the code to fetch a second character.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980&t=64)** To prove it, I can update the code to [[Fetch]] a second character.
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980&t=68)** First, add the second integer variable, (keyboard clicks) duplicate these lines and modify the "printf" statement.
 >
@@ -5791,7 +5656,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980&t=170)** To end the program, you must press the "EOF" character, which in Unix is Control D, and the program is done.
 >
-> **[2:59](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980&t=179)** If you run this under Windows, press Control Z, which is that operating system's end of file character.
+> **[2:59](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980&t=179)** If you run this under [[Windows]], press Control Z, which is that operating system's end of file character.
 >
 > **[3:07](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980&t=187)** What I'm trying to explain is why "getchar" and "putchar" work with integer values and not character values.
 >
@@ -5803,7 +5668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[Fetch]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Windows]] (1)
 > **Env Vars:** eof (3)
 > **Definitions:** is an  (2), defined as (1)
 > **Exercise Files:** exercise file (2)
@@ -5811,8 +5676,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [narrator] (1)
 
-#### Testing and converting characters
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/testing-and-converting-characters?u=76281980)
+#### [Testing and converting characters](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/testing-and-converting-characters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5894,8 +5758,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Character I/O and conversions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-character-i-o-and-conversions?u=76281980)
+#### [Challenge: Character I/O and conversions](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-character-i-o-and-conversions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5922,8 +5785,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Character I/O and conversions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-character-i-o-and-conversions?u=76281980)
+#### [Solution: Character I/O and conversions](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-character-i-o-and-conversions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5961,7 +5823,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-character-i-o-and-conversions?u=76281980&t=72)** Let's run to see how it works and you see that the case is converted in the string and only the alphabet characters are affected.
 >
-> **[1:22](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-character-i-o-and-conversions?u=76281980&t=82)** The rest of the string output is unchanged.
+> **[1:22](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-character-i-o-and-conversions?u=76281980&t=82)** The [[Representational State Transfer (REST)|rest]] of the string output is unchanged.
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-character-i-o-and-conversions?u=76281980&t=86)** I encourage you to explore the C type functions on your own.
 >
@@ -5971,13 +5833,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Understanding strings in C
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-strings-in-c?u=76281980)
+#### [Understanding strings in C](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-strings-in-c?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6047,7 +5908,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), data (1)
 > **Analogies:** for example (2), such as (1)
 > **File Paths:** string.h (1)
 > **CLI Commands:** make (1)
@@ -6056,8 +5916,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fetching string input
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/fetching-string-input?u=76281980)
+#### [Fetching string input](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/fetching-string-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6153,12 +6012,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), next (1), [[Programming]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sending string output
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/sending-string-output?u=76281980)
+#### [Sending string output](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/sending-string-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6222,14 +6079,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Warnings:** warning (2), be aware (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Using printf placeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-using-printf-placeholders?u=76281980)
+#### [Challenge: Using printf placeholders](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-using-printf-placeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6268,8 +6123,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Using printf placeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-using-printf-placeholders?u=76281980)
+#### [Solution: Using printf placeholders](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-using-printf-placeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6327,14 +6181,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 78.66 (1), 943.92 (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Exploring string functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-string-functions?u=76281980)
+#### [Exploring string functions](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-string-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6398,15 +6250,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (3)
 > **File Paths:** string.h (2)
 > **Exercise Files:** source code (1), exercise file (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/manipulating-strings?u=76281980)
+#### [Manipulating strings](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/manipulating-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6482,7 +6332,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **CLI Commands:** cat (6)
 > **Exercise Files:** source code (1), exercise file (1)
 > **Definitions:** is a  (2)
@@ -6490,8 +6339,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chapter challenge: Reading commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-reading-commands?u=76281980)
+#### [Chapter challenge: Reading commands](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-reading-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6507,9 +6355,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-reading-commands?u=76281980&t=19)** Comments explain what you need to code.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-reading-commands?u=76281980&t=21)** First come any variable declarations, within the loop, fetch input from the user, a string, modify the string to remove the new line, convert the string to uppercase, output the command the user typed.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-reading-commands?u=76281980&t=21)** First come any variable declarations, within the loop, [[Fetch]] input from the user, a string, modify the string to remove the new line, convert the string to uppercase, output the command the user typed.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-reading-commands?u=76281980&t=33)** If the command is the word quit, break the loop.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-reading-commands?u=76281980&t=33)** If the command is the [[Microsoft Word|word]] quit, break the loop.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-reading-commands?u=76281980&t=44)** Here's a sample run of the final code to show you what's needed.
 >
@@ -6543,15 +6391,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Fetch]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Fetch]] (2)
 > **Env Vars:** giggle (1)
 > **Tools:** command prompt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Chapter solution: Reading commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-reading-commands?u=76281980)
+#### [Chapter solution: Reading commands](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-reading-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6567,7 +6414,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-reading-commands?u=76281980&t=26)** This statement appears before the prompt, so the offset is initialized each time a command is input.
 >
-> **[0:32](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-reading-commands?u=76281980&t=32)** The first task is to fetch input.
+> **[0:32](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-reading-commands?u=76281980&t=32)** The first task is to [[Fetch]] input.
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-reading-commands?u=76281980&t=38)** Input is stored in the input buffer.
 >
@@ -6597,7 +6444,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-reading-commands?u=76281980&t=101)** I'll edit this comment.
 >
-> **[1:47](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-reading-commands?u=76281980&t=107)** The final step is to compare the input string with the word quit.
+> **[1:47](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-reading-commands?u=76281980&t=107)** The final step is to compare the input string with the [[Microsoft Word|word]] quit.
 >
 > **[1:54](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-reading-commands?u=76281980&t=114)** The word quit can be all caps here as input is converted to all caps.
 >
@@ -6615,7 +6462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (2), [[Microsoft Word|Word]] (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Fetch]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** stdin (1)
 > **Tools:** command prompt (1)
@@ -6627,8 +6474,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding pointers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-pointers?u=76281980)
+#### [Understanding pointers](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-pointers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6676,7 +6522,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-pointers?u=76281980&t=123)** To initialize a pointer, it's assigned the address of another variable in the code, one that matches the pointer's data type, int for int, char for char and so on.
 >
-> **[2:13](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-pointers?u=76281980&t=133)** The ampersand operator is used to fetch the variables address.
+> **[2:13](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-pointers?u=76281980&t=133)** The ampersand operator is used to [[Fetch]] the variables address.
 >
 > **[2:16](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-pointers?u=76281980&t=136)** You saw this operator used earlier in the exercise file.
 >
@@ -6702,14 +6548,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Fetch]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Definitions:** is a  (4), known as (1)
 > **Exercise Files:** exercise file (1), sample code (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using pointers to manipulate data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-pointers-to-manipulate-data?u=76281980)
+#### [Using pointers to manipulate data](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-pointers-to-manipulate-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6773,7 +6618,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Definitions:** is an  (2)
 > **Non-Speech:** (computer keys clicking) (2)
 > **Cross-References:** in the next (1)
@@ -6781,8 +6625,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Doing pointer math
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/doing-pointer-math?u=76281980)
+#### [Doing pointer math](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/doing-pointer-math?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6846,13 +6689,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Exercise Files:** exercise file (2)
 > **Definitions:** is a  (1), defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing arrays and pointers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/comparing-arrays-and-pointers?u=76281980)
+#### [Comparing arrays and pointers](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/comparing-arrays-and-pointers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6902,7 +6743,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/comparing-arrays-and-pointers?u=76281980&t=164)** The way this construction works is the address of the array and then offset zero, which is going to change in a second, I realize it's unnecessary here, but all that is contained in parentheses to be the address that the dereferencing operator, the asterisk refers to.
 >
-> **[3:01](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/comparing-arrays-and-pointers?u=76281980&t=181)** This pattern is repeated for the rest of the elements.
+> **[3:01](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/comparing-arrays-and-pointers?u=76281980&t=181)** This pattern is repeated for the [[Representational State Transfer (REST)|rest]] of the elements.
 >
 > **[3:06](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/comparing-arrays-and-pointers?u=76281980&t=186)** Run to check the output, and it's the same.
 >
@@ -6940,14 +6781,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Exercise Files:** exercise file (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Output a string
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-output-a-string?u=76281980)
+#### [Challenge: Output a string](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-output-a-string?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6979,8 +6819,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Output a string
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-output-a-string?u=76281980)
+#### [Solution: Output a string](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-output-a-string?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7056,15 +6895,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Non-Speech:** (keyboard keys clicking) (2), (electronic music) (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Allocating storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/allocating-storage?u=76281980)
+#### [Allocating storage](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/allocating-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7146,7 +6983,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (1)
 > **File Paths:** std.lib.h (2), stdlib.h (1)
 > **Env Vars:** std (2)
 > **Exercise Files:** source code (1), exercise file (1)
@@ -7154,8 +6990,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with a pointer array
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-a-pointer-array?u=76281980)
+#### [Working with a pointer array](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-a-pointer-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7183,7 +7018,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-a-pointer-array?u=76281980&t=61)** Between the parentheses, the array's base address is increased by variable X, which, thanks to pointer math, references subsequent elements in the array.
 >
-> **[1:11](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-a-pointer-array?u=76281980&t=71)** The asterisk operator is outside the parentheses, and its job is to fetch a string from the address calculated, which is then output.
+> **[1:11](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-a-pointer-array?u=76281980&t=71)** The asterisk operator is outside the parentheses, and its job is to [[Fetch]] a string from the address calculated, which is then output.
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-a-pointer-array?u=76281980&t=80)** The output is the same.
 >
@@ -7239,14 +7074,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Definitions:** is an  (3), is a  (3)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using pointers in structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-pointers-in-structures?u=76281980)
+#### [Using pointers in structures](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-pointers-in-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7264,7 +7098,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-pointers-in-structures?u=76281980&t=27)** The dot notation is the same as any other structure member, as a pointer, name must be initialized, or in this instance memory assigned, but the notation in the structure is the same.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-pointers-in-structures?u=76281980&t=39)** The rest of the code gathers input and then outputs the data.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-pointers-in-structures?u=76281980&t=39)** The [[Representational State Transfer (REST)|rest]] of the code gathers input and then outputs the data.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-pointers-in-structures?u=76281980&t=45)** I'll type my name and lie about my age, and the program works.
 >
@@ -7310,13 +7144,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Exercise Files:** exercise file (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Allocating structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-allocating-structures?u=76281980)
+#### [Challenge: Allocating structures](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-allocating-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7350,13 +7183,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Exercise Files:** source code (1), exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Allocating structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-allocating-structures?u=76281980)
+#### [Solution: Allocating structures](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-allocating-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7436,14 +7267,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (1), next (1)
 > **Definitions:** is a  (3), is an  (1)
 > **File Paths:** stdlib.h (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Passing pointers to functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/passing-pointers-to-functions?u=76281980)
+#### [Passing pointers to functions](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/passing-pointers-to-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7503,13 +7332,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** exercise file (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Returning pointers from a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/returning-pointers-from-a-function?u=76281980)
+#### [Returning pointers from a function](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/returning-pointers-from-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7567,13 +7394,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), power (2)
 > **Exercise Files:** exercise file (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chapter challenge: Processing input
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-processing-input?u=76281980)
+#### [Chapter challenge: Processing input](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-processing-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7619,8 +7444,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Chapter solution: Processing input
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-processing-input?u=76281980)
+#### [Chapter solution: Processing input](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-processing-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7694,7 +7518,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** get_input (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -7705,8 +7528,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reading from a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/reading-from-a-file?u=76281980)
+#### [Reading from a file](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/reading-from-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7794,7 +7616,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** eof (2)
 > **UI Navigation:** open the (2)
@@ -7802,9 +7623,9 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
+> **Best Practices:** don't forget (1)
 
-#### Writing to a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/writing-to-a-file?u=76281980)
+#### [Writing to a file](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/writing-to-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7890,14 +7711,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), prompt (2)
 > **UI Navigation:** open the (2)
 > **Definitions:** is a  (2)
 > **File Paths:** output.txt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Writing and reading files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-writing-and-reading-files?u=76281980)
+#### [Challenge: Writing and reading files](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-writing-and-reading-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7925,15 +7744,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **Exercise Files:** source code (1), exercise files (1)
 > **File Paths:** hello.txt (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Writing and reading files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-writing-and-reading-files?u=76281980)
+#### [Solution: Writing and reading files](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-writing-and-reading-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8009,7 +7826,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-writing-and-reading-files?u=76281980&t=188)** By using scanf, which isn't my favorite input function, the new line is independent and a full line of text is written to the file and appears in the output.
 >
-> **[3:18](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-writing-and-reading-files?u=76281980&t=198)** The rest of the string would not be written to the file.
+> **[3:18](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-writing-and-reading-files?u=76281980&t=198)** The [[Representational State Transfer (REST)|rest]] of the string would not be written to the file.
 >
 > **[3:21](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-writing-and-reading-files?u=76281980&t=201)** If you actually ran the code and you didn't see the rest of the string, that's exactly what happened because the fgets statement here at line 37 reads in only a line of text, so it would only read in your name.
 >
@@ -8027,15 +7844,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Representational State Transfer (REST)|Rest]] (2), prompt (1), power (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **File Paths:** hello.txt (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Working with raw data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-raw-data?u=76281980)
+#### [Working with raw data](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-raw-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8113,15 +7929,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (1)
 > **Exercise Files:** exercise file (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** cio (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using random file access
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-random-file-access?u=76281980)
+#### [Using random file access](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-random-file-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8183,7 +7997,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (1)
 > **Env Vars:** seek_set (2), eof (1), feof (1), seek_cur (1), seek_end (1)
 > **File Paths:** stdio.h (1)
 > **Exercise Files:** exercise file (1)
@@ -8191,8 +8004,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Access database records
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-access-database-records?u=76281980)
+#### [Challenge: Access database records](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/challenge-access-database-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8218,13 +8030,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pensive music) (1)
 
-#### Solution: Access database records
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-access-database-records?u=76281980)
+#### [Solution: Access database records](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/solution-access-database-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8297,8 +8107,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Manipulating files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/manipulating-files?u=76281980)
+#### [Manipulating files](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/manipulating-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8360,8 +8169,7 @@ created: 2026-05-02
 > **File Paths:** stdio.h (1), unistd.h (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the path
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-path?u=76281980)
+#### [Exploring the path](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/exploring-the-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8403,8 +8211,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading a directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/reading-a-directory?u=76281980)
+#### [Reading a directory](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/reading-a-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8494,7 +8301,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2)
 > **Definitions:** is a  (5)
 > **File Paths:** dirent.h (2)
 > **Code Identifiers:** d_name (1)
@@ -8502,8 +8308,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [narrator] (1)
 
-#### Getting file information
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/getting-file-information?u=76281980)
+#### [Getting file information](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/getting-file-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8579,7 +8384,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (4), is called (1)
 > **Code Identifiers:** st_mtime (1), st_mode (1)
 > **Documentation:** man page (2)
@@ -8587,9 +8391,9 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise files (1)
+> **Warnings:** be aware (1)
 
-#### Chapter challenge: Managing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-managing-files?u=76281980)
+#### [Chapter challenge: Managing files](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-managing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8645,7 +8449,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** create_file (2), read_file (2), delete_file (2)
 > **UI Navigation:** open the (2)
 > **Exercise Files:** exercise files (1), source code (1)
@@ -8653,8 +8456,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (ethereal music) (1)
 
-#### Chapter solution: Managing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-managing-files?u=76281980)
+#### [Chapter solution: Managing files](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-managing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8726,7 +8528,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** create_file (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -8737,8 +8538,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calling the operating system
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/calling-the-operating-system?u=76281980)
+#### [Calling the operating system](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/calling-the-operating-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8778,7 +8578,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/calling-the-operating-system?u=76281980&t=115)** Run to see the output of the uname command.
 >
-> **[1:58](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/calling-the-operating-system?u=76281980&t=118)** The uname commands text, Linux, is sent to your program where it's processed, and here, it's just output.
+> **[1:58](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/calling-the-operating-system?u=76281980&t=118)** The uname commands text, [[Linux]], is sent to your program where it's processed, and here, it's just output.
 >
 > **[2:06](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/calling-the-operating-system?u=76281980&t=126)** I've used this function in my code many times to capture output from a utility, to store and analyze data, and other magical things.
 >
@@ -8786,14 +8586,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Tools:** terminal (1), command line (1)
 > **Analogies:** just like (1), analogous to (1)
 > **Env Vars:** eof (1)
 > **Speakers:** - [instructor] (1)
 
-#### Doing advanced math
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/doing-advanced-math?u=76281980)
+#### [Doing advanced math](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/doing-advanced-math?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8863,7 +8662,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), power (1), [[Programming]] (1)
 > **Tools:** command prompt (2), terminal (1), command line (1)
 > **Exercise Files:** source code (3), exercise file (1)
 > **File Paths:** math.h (2)
@@ -8871,9 +8669,9 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.01745 (1)
+> **Speakers:** - [instructor] (1)
 
-#### Working with time functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-time-functions?u=76281980)
+#### [Working with time functions](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-time-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8941,7 +8739,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** tm_wday (1), tm_mon (1), tm_year (1)
 > **Definitions:** is a  (3)
 > **File Paths:** time.h (2)
@@ -8949,9 +8746,9 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Documentation:** man page (1)
 > **Warnings:** be aware (1)
+> **Speakers:** - [instructor] (1)
 
-#### Creating random numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-random-numbers?u=76281980)
+#### [Creating random numbers](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-random-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9025,7 +8822,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-random-numbers?u=76281980&t=161)** You can remove the variable and the prompt.
 >
-> **[2:46](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-random-numbers?u=76281980&t=166)** And in the srand function, you can fetch the clock tick value from the time function.
+> **[2:46](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-random-numbers?u=76281980&t=166)** And in the srand function, you can [[Fetch]] the clock tick value from the time function.
 >
 > **[2:52](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/creating-random-numbers?u=76281980&t=172)** Here's the format.
 >
@@ -9047,14 +8844,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), game (1), [[Programming]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **File Paths:** time.h (1)
 > **Code Identifiers:** stdlib (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sorting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/sorting-data?u=76281980)
+#### [Sorting data](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/sorting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9132,13 +8928,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [presenter] (1)
 
-#### Chapter challenge: Sorting a grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-sorting-a-grid?u=76281980)
+#### [Chapter challenge: Sorting a grid](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-challenge-sorting-a-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9216,8 +9010,7 @@ created: 2026-05-02
 > **Speakers:** - here (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Chapter solution: Sorting a grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-sorting-a-grid?u=76281980)
+#### [Chapter solution: Sorting a grid](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/chapter-solution-sorting-a-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9289,7 +9082,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Programming]] (2), power (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -9300,8 +9092,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9311,15 +9102,15 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=12)** For help with C Library Documentation look no further than your own computer.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=17)** If you have access to a command shell, such as the Windows subsystem for Linux, you can use the man pages in a terminal window to look up C function documentation.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=17)** If you have access to a command shell, such as the [[Windows]] subsystem for [[Linux]], you can use the man pages in a terminal window to look up C function documentation.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=29)** Type the word man followed by a space and the function name.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=29)** Type the [[Microsoft Word|word]] man followed by a space and the function name.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=33)** Many online resources are available as well, including the C Reference Guide on Dev Docs at this address.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=41)** Additional C Language courses are available on this site, many of which go into specific topics that may align with your future programming interests.
 >
-> **[0:50](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=50)** Courses available on C include network programming in C, integrating C with assembly language, debugging C code, secure coding in C, exploring C Libraries, and many more.
+> **[0:50](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=50)** Courses available on C include network programming in C, integrating C with assembly language, debugging C code, [[Secure Coding]] in C, exploring C Libraries, and many more.
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=63)** For good written material, I recommend my book, "C Programming for dummies."
 >
@@ -9329,13 +9120,13 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=80)** My website, C For Dummies offers weekly C Language programming lessons and monthly exercises to help you continue your C education.
 >
-> **[1:29](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=89)** You can also check out my profile on LinkedIn, Dan Gookin, Mad Genius.
+> **[1:29](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=89)** You can also check out my profile on [[LinkedIn]], Dan Gookin, Mad Genius.
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980&t=95)** I'm Dan Gookin, thanks for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), [[Windows]] (1), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[Secure Coding]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** ebooks (1)
 > **Documentation:** reference guide (1)

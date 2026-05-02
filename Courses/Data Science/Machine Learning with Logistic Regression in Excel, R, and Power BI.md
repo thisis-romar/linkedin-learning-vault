@@ -107,8 +107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply logistic regressions to solve problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980)
+#### [Apply logistic regressions to solve problems](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,9 +115,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980&t=8)** You can take data with a lot of columns to figure out future predictions based on results in the past.
 >
-> **[0:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980&t=15)** We'll use Excel formulas, the Solver Add-in, and R to model logistic regression to visualize the model results.
+> **[0:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980&t=15)** We'll use [[Microsoft Excel|Excel]] formulas, the Solver Add-in, and R to model [[Logistic Regression]] to visualize the model results.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980&t=25)** We can then use R and Power BI to create scalable views that make this model accessible to a much wider group of end users.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980&t=25)** We can then use R and [[Microsoft Power BI|Power BI]] to create scalable views that make this model accessible to a much wider group of end users.
 >
 > **[0:34](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980&t=34)** Hi, I'm Helen Wall and I'm excited to introduce you to one type of algorithm, logistic regression, that you've likely seen modeled in your own data without even necessarily realizing it.
 >
@@ -126,30 +125,29 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980&t=53)** You'll see how to transform the way you view data now into a model that's useful, just by starting to think about the distance and dimensionality of these models.
 >
-> **[1:04](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980&t=64)** Come join me in this LinkedIn learning course on logistic regression in Excel, R, and Power BI.
+> **[1:04](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980&t=64)** Come join me in this [[LinkedIn]] learning course on logistic regression in Excel, R, and Power BI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Logistic Regression]] (4), [[Microsoft Excel|Excel]] (2), power (2), bi (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Power BI|Power bi]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [helen] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you start this course, you should be comfortable working in Excel.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you start this course, you should be comfortable working in [[Microsoft Excel|Excel]].
 >
 > **[0:03](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=3)** You should also be comfortable working with tabular data.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=7)** I also recommend knowing a bit about Power BI, if you're interested in implementing logistic regression models directly in the application.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=7)** I also recommend knowing a bit about [[Microsoft Power BI|Power BI]], if you're interested in implementing [[Logistic Regression]] models directly in the application.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=15)** Logistic regression involves some math.
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=18)** We'll be solving for the variables in a model by using calculus to find minimums and maximums.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=18)** We'll be solving for the variables in a model by using [[Calculus]] to find minimums and maximums.
 >
-> **[0:24](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=24)** Linear algebra is absolutely not required, but you'll find the concepts in this course more tangible.
+> **[0:24](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=24)** [[Linear Algebra]] is absolutely not required, but you'll find the concepts in this course more tangible.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/what-you-should-know?u=76281980&t=30)** You don't need to know much about R, but be eager to learn more.
 >
@@ -157,16 +155,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), power (2), bi (2), data (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Power BI|Power bi]] (2), [[Logistic Regression]] (1), [[Calculus]] (1), [[Linear Algebra]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to the course project
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introduction-to-the-course-project?u=76281980)
+#### [Introduction to the course project](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introduction-to-the-course-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introduction-to-the-course-project?u=76281980&t=0)** - [Instructor] In our course project, we're going to work in three different applications, Excel, R, and Power BI.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introduction-to-the-course-project?u=76281980&t=0)** - [Instructor] In our course project, we're going to work in three different applications, [[Microsoft Excel|Excel]], R, and [[Microsoft Power BI|Power BI]].
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introduction-to-the-course-project?u=76281980&t=7)** In many videos, we'll be working in two of the application simultaneously, to see how they can produce the same results through different steps and processes.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), game (6), [[Microsoft Excel|Excel]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** navigate to (3), dropdown (1), click on (1)
 > **Env Vars:** espn (2), csv (1)
 > **Exercise Files:** exercise files (1)
@@ -210,12 +207,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring the Excel Solver Add-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-the-excel-solver-add-in?u=76281980)
+#### [Configuring the Excel Solver Add-in](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-the-excel-solver-add-in?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-the-excel-solver-add-in?u=76281980&t=0)** - We're going to use Excel to do a substantial part of our logistic regression modeling.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-the-excel-solver-add-in?u=76281980&t=0)** - We're going to use [[Microsoft Excel|Excel]] to do a substantial part of our [[Logistic Regression]] modeling.
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-the-excel-solver-add-in?u=76281980&t=5)** In addition to having Excel on your own computer, you'll also need to install the Solver add-in directly, as well as the data analysis tool pack to run the logistic regression models and analysis within this course.
 >
@@ -239,29 +235,28 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-the-excel-solver-add-in?u=76281980&t=88)** If yours does look different and these steps don't work, your best bet is to do an online search for the Excel Solver add-in documentation page.
 >
-> **[1:37](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-the-excel-solver-add-in?u=76281980&t=97)** Microsoft includes documentation for our Solver in several places on their website.
+> **[1:37](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-the-excel-solver-add-in?u=76281980&t=97)** [[Microsoft]] includes documentation for our Solver in several places on their website.
 >
 > **[1:44](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-the-excel-solver-add-in?u=76281980&t=104)** Once you install them, they'll also appear in all your new and existing Excel files.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), data (4), [[Logistic Regression]] (2), hit (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Logistic Regression]] (2), [[Microsoft]] (1)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** install (2)
 > **Speakers:** - we (1)
 
-#### Working with R
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980)
+#### [Working with R](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=0)** - [Instructor] In this course we're going to leverage R as part of our logistic regression modeling process.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=0)** - [Instructor] In this course we're going to leverage R as part of our [[Logistic Regression]] modeling process.
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=6)** R is a statistical programming language that lets us run models and create insightful graphics.
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=12)** You can see the Homepage for the R language on the screen.
 >
-> **[0:16](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=16)** We're going to write our scripts for R directly in RStudio, which is an integrated development environment or IDE for writing and checking code.
+> **[0:16](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=16)** We're going to write our scripts for R directly in [[RStudio]], which is an integrated development environment or IDE for writing and checking code.
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=25)** We can download RStudio directly from this website by selecting the Download link.
 >
@@ -269,9 +264,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=47)** We can simply click on the Download button on the screen, to start the download process.
 >
-> **[0:54](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=54)** RStudio is a great way to write and test code, but in order to run R directly in Power BI desktop models, we need to install it on our computer.
+> **[0:54](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=54)** RStudio is a great way to write and test code, but in order to run R directly in [[Microsoft Power BI|Power BI]] desktop models, we need to install it on our computer.
 >
-> **[1:03](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=63)** If you're planning on uploading your work to a Power BI cloud account, like Power BI Pro, or Power BI Premium, I recommend checking the version currently used from the Microsoft Documentation you see on the screen.
+> **[1:03](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=63)** If you're planning on uploading your work to a Power BI cloud account, like Power BI Pro, or Power BI Premium, I recommend checking the version currently used from the [[Microsoft]] Documentation you see on the screen.
 >
 > **[1:16](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-r?u=76281980&t=76)** If we scroll down this page, we see that as of the recording date for this course, the Power BI version used for models uploaded to the cloud accounts is version 3.4.4 for R.
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (9), bi (9), [[RStudio]] (8), cloud (3), hit (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[RStudio]] (8), [[Logistic Regression]] (1), [[Microsoft]] (1)
 > **UI Navigation:** scroll down (2), select the (2), click on (1), open the (1)
 > **Versions:** 3.4.4 (2), version 3 (1), 4.4 (1), 4.1.1 (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -342,14 +337,13 @@ created: 2026-05-02
 > **Prerequisites:** install (3)
 > **Tools:** command line (2)
 
-#### Configuring R in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-r-in-power-bi?u=76281980)
+#### [Configuring R in Power BI](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-r-in-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-r-in-power-bi?u=76281980&t=0)** - In this course, we're going to leverage Power BI to explore how to make logistic regression models more scalable and accessible.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-r-in-power-bi?u=76281980&t=0)** - In this course, we're going to leverage [[Microsoft Power BI|Power BI]] to explore how to make [[Logistic Regression]] models more scalable and accessible.
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-r-in-power-bi?u=76281980&t=8)** Power BI is a Microsoft business intelligence tool enabling a data driven culture across an organization.
+> **[0:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-r-in-power-bi?u=76281980&t=8)** Power BI is a [[Microsoft]] [[Business Intelligence (BI)|business intelligence]] tool enabling a data driven culture across an organization.
 >
 > **[0:16](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-r-in-power-bi?u=76281980&t=16)** I personally think defining it as a communication tool, gets us thinking about how to maximize its impact across the end users.
 >
@@ -401,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (23), bi (23), [[Microsoft]] (3), data (3), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (23), [[Microsoft]] (3), [[Logistic Regression]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Prerequisites:** install (3), you'll need (2), set up (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1), select the (1)
@@ -415,16 +409,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing AI and logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980)
+#### [Introducing AI and logistic regression](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=0)** - [Instructor] Artificial intelligence or AI, as it's often known, uses computer algorithms to replicate tasks normally performed by humans.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] or AI, as it's often known, uses computer [[Algorithms]] to replicate tasks normally performed by humans.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=9)** Examples of these tasks include activities like visual perception, speech recognition, and decision-making.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=9)** Examples of these tasks include activities like visual perception, [[Speech Recognition]], and [[Decision-Making]].
 >
-> **[0:16](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=16)** Statistics measures the relationship between input variables and known outcome labels for existing data.
+> **[0:16](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=16)** [[Statistics]] measures the relationship between input variables and known outcome labels for existing data.
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=23)** In AI algorithms, we want to predict the outcome labels for new data, using the statistics we calculated from the existing data.
 >
@@ -436,9 +429,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=58)** We can then use these estimated parameters to predict or forecast outcome labels on new data.
 >
-> **[1:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=65)** There are several different types of regression models, but two of the most common are linear and logistic regression.
+> **[1:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=65)** There are several different types of regression models, but two of the most common are linear and [[Logistic Regression]].
 >
-> **[1:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=73)** Linear regression shows the relationship between the independent input variable and the dependent variable for the outcome with a straight line, while logistic regression displays this relationship with an S shaped sigmoid curve.
+> **[1:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=73)** [[Linear Regression]] shows the relationship between the independent input variable and the dependent variable for the outcome with a straight line, while logistic regression displays this relationship with an S shaped sigmoid curve.
 >
 > **[1:28](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980&t=88)** The outcome labels or dependent variable in linear regression are continuous numeric values.
 >
@@ -456,17 +449,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (9), data (5), ai (3), [[Algorithms]] (3), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (9), [[Algorithms]] (3), [[Statistics]] (2), [[Linear Regression]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Differentiating between odds and probabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-odds-and-probabilities?u=76281980)
+#### [Differentiating between odds and probabilities](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-odds-and-probabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-odds-and-probabilities?u=76281980&t=0)** - [Instructor] Sometimes we may use the terms statistics and probability interchangeably under the wider umbrella of mathematics topics.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-odds-and-probabilities?u=76281980&t=0)** - [Instructor] Sometimes we may use the terms [[Statistics]] and [[Probability]] interchangeably under the wider umbrella of mathematics topics.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-odds-and-probabilities?u=76281980&t=8)** But they're not actually the same.
 >
@@ -514,12 +506,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (17), [[Statistics]] (3), data (2)
+> **Frameworks & Libraries:** [[Probability]] (17), [[Statistics]] (3)
 > **Versions:** 0.9 (2), 0.1 (2)
 > **Speakers:** - [instructor] (1)
 
-#### Differentiating between distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-distributions?u=76281980)
+#### [Differentiating between distributions](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-distributions?u=76281980&t=30)** We see the other values distributed around the mean, but not in the same frequency.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-distributions?u=76281980&t=35)** The goal of this course isn't to become an expert statistician, but rather to understand how to spatially understand the data that goes into logistic regression.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-distributions?u=76281980&t=35)** The goal of this course isn't to become an expert statistician, but rather to understand how to spatially understand the data that goes into [[Logistic Regression]].
 >
 > **[0:45](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-distributions?u=76281980&t=45)** The classic linear logistic regression model has two actual outcomes.
 >
@@ -551,25 +542,24 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-distributions?u=76281980&t=96)** If we put the Bernoulli distribution on a chart, notice there are two outcomes for the model, but the distribution for the outcomes themselves isn't normally distributed.
 >
-> **[1:46](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-distributions?u=76281980&t=106)** We see a cluster of values around the probability of the outcome of zero.
+> **[1:46](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-distributions?u=76281980&t=106)** We see a cluster of values around the [[Probability]] of the outcome of zero.
 >
 > **[1:51](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/differentiating-between-distributions?u=76281980&t=111)** Conversely, we see a cluster of values around the probabilities for the outcome of one, hence why the Bernoulli distribution is for a binomial model with two outcomes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Logistic Regression]] (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Probability]] (1)
 > **Versions:** 0.5 (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Calculating logs and exponents
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980)
+#### [Calculating logs and exponents](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=0)** - [Instructor] Along with statistics and probability, exponents and logarithms are two important concepts in logistic regression models.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=0)** - [Instructor] Along with [[Statistics]] and [[Probability]], exponents and logarithms are two important concepts in [[Logistic Regression]] models.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=9)** I think that even if this isn't a new topic to you, it's well worth reviewing before we start creating our models.
 >
@@ -597,13 +587,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=114)** So be careful because this often depends on the context of what you're talking about or the programming language we're utilizing.
 >
-> **[2:03](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=123)** Let's see how this works in Excel.
+> **[2:03](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=123)** Let's see how this works in [[Microsoft Excel|Excel]].
 >
 > **[2:07](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=127)** We have some values in the first column for base 10 and Euler's number, in the column next to that, we have the exponent we want to raise the number to, and to the right of that, we have some other columns we're going to fill in with our exponent and logarithm calculations.
 >
 > **[2:25](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=145)** In the results one column, we'll set the equation equal to the base in column A, raised to the exponent in column B.
 >
-> **[2:37](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=157)** We see the result is 100 and we can copy the rest of the formulas down.
+> **[2:37](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=157)** We see the result is 100 and we can copy the [[Representational State Transfer (REST)|rest]] of the formulas down.
 >
 > **[2:42](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-logs-and-exponents?u=76281980&t=162)** For the formulas that use Euler's number as the base, we can set up this calculation directly using the Excel exp function which raises Euler's number to the parameter value we pass to it.
 >
@@ -637,7 +627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (4), power (2), [[Microsoft Excel|Excel]] (2), next (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (4), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1), [[Probability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 2.72 (2), 2.71828 (1), 7.39 (1)
 > **Definitions:** is a  (2), short for (1)
 > **Analogies:** for example (2)
@@ -646,12 +636,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sigmoid curve
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980)
+#### [Sigmoid curve](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=0)** - [Instructor] Regression is one type of model, but there are many different types of regression models, including linear regression and logistic regression, which is the focus of this course.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=0)** - [Instructor] Regression is one type of model, but there are many different types of regression models, including [[Linear Regression]] and [[Logistic Regression]], which is the focus of this course.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=10)** These models have different curves that we can visualize in a two dimensional space to see how they fit.
 >
@@ -667,7 +656,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=88)** Conversely, the sigmoid curve is between zero and one exclusive, which means the Y outcome can get very close to zero and one, but it doesn't actually equal these values.
 >
-> **[1:41](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=101)** Let's go into Excel to see how the linear and sigmoid curves compare.
+> **[1:41](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=101)** Let's go into [[Microsoft Excel|Excel]] to see how the linear and sigmoid curves compare.
 >
 > **[1:46](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=106)** I've already added starting numbers to the sheet for the independent variable X ranging from negative 10 to 10.
 >
@@ -689,7 +678,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=188)** On many computers, we can use the F4 key to fix these cells.
 >
-> **[3:11](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=191)** When we copy the formulas to other cells in the spreadsheet, having down the updated formula makes the rest of the outcomes in this column so the calculated Y linear values match their counterparts in the X value column.
+> **[3:11](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=191)** When we copy the formulas to other cells in the spreadsheet, having down the updated formula makes the [[Representational State Transfer (REST)|rest]] of the outcomes in this column so the calculated Y linear values match their counterparts in the X value column.
 >
 > **[3:28](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/sigmoid-curve?u=76281980&t=208)** Now let's calculate the values for the Y sigmoid curve.
 >
@@ -727,19 +716,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2), [[Logistic Regression]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2), [[Logistic Regression]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** exp (1)
 > **Versions:** 0.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing training and testing data sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980)
+#### [Utilizing training and testing data sets](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=0)** - [Professor] One of the most important facets of running machine learning models like logistic regression is splitting the entire dataset into two pieces.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=0)** - [Professor] One of the most important facets of running machine learning models like [[Logistic Regression]] is splitting the entire dataset into two pieces.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=9)** The training and the testing datasets.
 >
@@ -757,7 +745,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=50)** This means if we ran the model on our training data set, the total error loss would be zero because the model would perfectly fit every point.
 >
-> **[1:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=60)** However, algorithms deal with ambiguity.
+> **[1:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=60)** However, [[Algorithms]] deal with ambiguity.
 >
 > **[1:03](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=63)** And we want to think about making the model a good fit, but not a perfect one.
 >
@@ -771,7 +759,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=105)** And the case of our model.
 >
-> **[1:47](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=107)** I took all the data points from the ESPN data and split them randomly into 80, 20 proportions using a randomized variable between one and five as an Excel function.
+> **[1:47](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=107)** I took all the data points from the ESPN data and split them randomly into 80, 20 proportions using a randomized variable between one and five as an [[Microsoft Excel|Excel]] function.
 >
 > **[1:59](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/utilizing-training-and-testing-data-sets?u=76281980&t=119)** I then sorted a 1/5 of them to the testing data set and the remaining 4/5 the 80% to the training data.
 >
@@ -785,7 +773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Logistic Regression]] (2), [[Algorithms]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Algorithms]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** espn (1)
 > **Speakers:** - [professor] (1)
@@ -795,12 +783,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculating linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980)
+#### [Calculating linear regression](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=0)** - Games like basketball are great examples of logistic regression models, but how do we know that's the case.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=0)** - Games like basketball are great examples of [[Logistic Regression]] models, but how do we know that's the case.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=7)** In our basketball dataset, I added a new sheet to note at linear X one, where I added the independent variable X one for the points scored in the first column and the dependent variable Y for the game outcome in the second column.
 >
@@ -808,13 +795,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=32)** We could set win to zero and loss to one.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=35)** We just need to be consistent with the rest of the calculations in the model, as per the way we originally classified them.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=35)** We just need to be consistent with the [[Representational State Transfer (REST)|rest]] of the calculations in the model, as per the way we originally classified them.
 >
-> **[0:43](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=43)** It looks like this is an example of logistic regression, but let's see what this model looks like by running the standard linear regression calculations on these numbers.
+> **[0:43](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=43)** It looks like this is an example of logistic regression, but let's see what this model looks like by running the standard [[Linear Regression]] calculations on these numbers.
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=53)** If you look at the formulas in these cells, you can see they referenced the training data set.
 >
-> **[0:57](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=57)** We don't have to put our models in separate sheets within Excel, but I find doing this keeps my work more organized.
+> **[0:57](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=57)** We don't have to put our models in separate sheets within [[Microsoft Excel|Excel]], but I find doing this keeps my work more organized.
 >
 > **[1:04](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980&t=64)** Let's start by selecting points scored as the independent variable we'll analyze against the win-loss dependent variable outcome in a two dimensional space.
 >
@@ -858,19 +845,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (4), [[Microsoft Excel|Excel]] (4), game (3), [[Linear Regression]] (3), data (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (4), [[Microsoft Excel|Excel]] (4), [[Linear Regression]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - games (1), - we (1)
 
-#### Working with the logit model
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980)
+#### [Working with the logit model](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980&t=0)** - To solve logistic regression model, let's start by looking at the logit function, which is a quantile function for logistic regression models that's useful in data transformations.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980&t=0)** - To solve [[Logistic Regression]] model, let's start by looking at the logit function, which is a quantile function for logistic regression models that's useful in data transformations.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980&t=10)** It's the calculated reverse of the standard logistic function associated with the sigmoid curve, because it's the inverse of the probability function, it's often called the log-odds function.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980&t=10)** It's the calculated reverse of the standard logistic function associated with the sigmoid curve, because it's the inverse of the [[Probability]] function, it's often called the log-odds function.
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980&t=23)** Let's say P represents the calculated probability, logit equals the inverse of the standard logistic function.
 >
@@ -888,7 +874,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980&t=93)** The probability equals one divided by the quantity of one plus euler's numbers raised to the negative logit value.
 >
-> **[1:41](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980&t=101)** In Excel lets calculate logit first. In a new sheet I already added to the binomial file titled logistic X one.
+> **[1:41](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980&t=101)** In [[Microsoft Excel|Excel]] lets calculate logit first. In a new sheet I already added to the binomial file titled logistic X one.
 >
 > **[1:50](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/working-with-the-logit-model?u=76281980&t=110)** To make it easier to see the calculations I already set up the X one and Y columns in the same way as the linear model.
 >
@@ -930,21 +916,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (8), [[Logistic Regression]] (5), next (2), data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Probability]] (8), [[Logistic Regression]] (5), [[Microsoft Excel|Excel]] (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
-#### Calculating log likelihood
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980)
+#### [Calculating log likelihood](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=0)** - [Instructor] Before we calculate the log likelihoods for a logistic regression model, let's think about how we would calculate the mean for a binomial distribution.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=0)** - [Instructor] Before we calculate the log likelihoods for a [[Logistic Regression]] model, let's think about how we would calculate the mean for a binomial distribution.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=9)** The mean value for a binomial distribution with two outcomes like our model equals the probability, P that an event occurs multiplied by one plus the quantity of one minus P multiplied by zero.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=9)** The mean value for a binomial distribution with two outcomes like our model equals the [[Probability]], P that an event occurs multiplied by one plus the quantity of one minus P multiplied by zero.
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=25)** The second term of the formula goes to zero so the expected outcome or mean of this model equals the probability P.
 >
@@ -966,7 +951,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=117)** When we optimize our logistic regression model to get the solutions for these coefficients, we ultimately want to minimize the total sum of all these log likelihood distances.
 >
-> **[2:10](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=130)** When we do these calculations in Excel however, we'll see the log likelihood values don't represent actual distances, but rather relative distances to solve the model with.
+> **[2:10](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=130)** When we do these calculations in [[Microsoft Excel|Excel]] however, we'll see the log likelihood values don't represent actual distances, but rather relative distances to solve the model with.
 >
 > **[2:21](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=141)** This sigmoid curve represents the optimized logistic regression model that fits within these 10 data points.
 >
@@ -1002,22 +987,21 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=293)** To do so we'll maximize the total log likelihood value to minimize the total loss because it's a negative number.
 >
-> **[5:01](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=301)** Once we run the solver, we'll have coefficient values that will update the rest of the formulas we already have in the model.
+> **[5:01](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-log-likelihood?u=76281980&t=301)** Once we run the solver, we'll have coefficient values that will update the [[Representational State Transfer (REST)|rest]] of the formulas we already have in the model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (7), data (7), [[Probability]] (5), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (7), [[Probability]] (5), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Constructing MLE
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980)
+#### [Constructing MLE](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=0)** - Unlike the linear regression model where we can solve directly for the intercept and slope values using the least squares method, we can't do the same in the logistic regression model.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=0)** - Unlike the [[Linear Regression]] model where we can solve directly for the intercept and slope values using the least squares method, we can't do the same in the [[Logistic Regression]] model.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=10)** This means we need to use a methodology called the maximum likelihood estimation, or MLE for short, to solve for these coefficient parameters.
 >
@@ -1045,7 +1029,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=121)** This isn't an exact way to solve the model, at least the way we see it here, but it lets us visualize what the optimized solution looks like.
 >
-> **[2:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=129)** Now let's replicate this approach in our Excel logistic regression model.
+> **[2:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=129)** Now let's replicate this approach in our [[Microsoft Excel|Excel]] logistic regression model.
 >
 > **[2:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=135)** I've already created a new sheet called Logistic X1 MLE where we'll approximate our coefficients before we run the model.
 >
@@ -1055,7 +1039,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=151)** I've already duplicated this page so we can approximate our calculations in a separate matrix table from the model configurations we've done so far.
 >
-> **[2:41](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=161)** We can nest the formulas for logit, e logit, and the predicted probability iteratively inside the log likelihood calculation to save some space on our sheet.
+> **[2:41](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=161)** We can nest the formulas for logit, e logit, and the predicted [[Probability]] iteratively inside the log likelihood calculation to save some space on our sheet.
 >
 > **[2:52](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=172)** But first nest our logit calculation inside our e logit calculation.
 >
@@ -1137,7 +1121,7 @@ created: 2026-05-02
 >
 > **[8:48](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=528)** Now when we copy the formula down we can see the sum of the log likelihood changes as we go between these different parameters.
 >
-> **[8:56](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=536)** We'll copy the formulas over for the rest of the table.
+> **[8:56](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=536)** We'll copy the formulas over for the [[Representational State Transfer (REST)|rest]] of the table.
 >
 > **[8:59](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/constructing-mle?u=76281980&t=539)** Lastly, let's add color formatting to our matrix tables so we can visually see where our optimized solution has its parameter values solved at.
 >
@@ -1161,7 +1145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (5), [[Probability]] (4), next (3), [[Linear Regression]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (5), [[Probability]] (4), [[Linear Regression]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** mle (6), sumifs (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -1170,14 +1154,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Prerequisites:** set up (1)
 
-#### Solving MLE
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980)
+#### [Solving MLE](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=0)** - [Instructor] Unlike the linear regression model, we can't solve for the coefficients of the logistic regression model directly.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=0)** - [Instructor] Unlike the [[Linear Regression]] model, we can't solve for the coefficients of the [[Logistic Regression]] model directly.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=7)** Instead, we need to run the Solver Excel add-in with our existing logit model to determine the coefficients.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=7)** Instead, we need to run the Solver [[Microsoft Excel|Excel]] add-in with our existing logit model to determine the coefficients.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=14)** I recommend configuring the formulas in Excel completely before you run solver to get the optimized solution for this model or any other model in Excel.
 >
@@ -1239,13 +1222,13 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=219)** We've maximized this total.
 >
-> **[3:42](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=222)** We can also see the calculations, the logit, e logit predicted columns that roll into these predicted probability and log likelihood values that have been updated since we optimized the model coefficients.
+> **[3:42](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=222)** We can also see the calculations, the logit, e logit predicted columns that roll into these predicted [[Probability]] and log likelihood values that have been updated since we optimized the model coefficients.
 >
 > **[3:58](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=238)** The individual log likelihood values tell us how close our prediction is to the actual.
 >
 > **[4:04](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=244)** By trying to maximize this total log loss, we see how the log likelihoods with the lowest values have predictions close to the actual outcomes, while those with high values are the opposite.
 >
-> **[4:17](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=257)** Now let's run this model in RStudio.
+> **[4:17](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=257)** Now let's run this model in [[RStudio]].
 >
 > **[4:21](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solving-mle?u=76281980&t=261)** I've already set up the path to import the CSV file containing the dataset, the training data, and I've assigned it to the variable df, which is short for data frame.
 >
@@ -1309,7 +1292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (8), [[RStudio]] (3), [[Logistic Regression]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[RStudio]] (3), [[Logistic Regression]] (2), [[Linear Regression]] (1), [[Probability]] (1)
 > **Env Vars:** grg (3), csv (2)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (2), configure (1), you'll need (1)
@@ -1318,14 +1301,13 @@ created: 2026-05-02
 > **Versions:** 6.19 (1), 6.2 (1)
 > **Cross-References:** earlier in (1), as we saw (1)
 
-#### Predicting outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/predicting-outcomes?u=76281980)
+#### [Predicting outcomes](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/predicting-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/predicting-outcomes?u=76281980&t=0)** - Once we solve our models for the coefficient parameters.
 >
-> **[0:03](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/predicting-outcomes?u=76281980&t=3)** We need to interpret the results for the logistic regression model In Excel model.
+> **[0:03](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/predicting-outcomes?u=76281980&t=3)** We need to interpret the results for the [[Logistic Regression]] model In [[Microsoft Excel|Excel]] model.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/predicting-outcomes?u=76281980&t=8)** We already sell for the coefficients as well as the predicted outcomes as the calculated probabilities.
 >
@@ -1339,7 +1321,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/predicting-outcomes?u=76281980&t=47)** You want to round the predicted values in both Excel and R to the nearest integer so we can analyze them later for the model fit.
 >
-> **[0:54](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/predicting-outcomes?u=76281980&t=54)** We can do this in multiple ways in either application, but for this project, let's use the round function in Excel and the ifelse function in R to round predicted probability to the closest integer.
+> **[0:54](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/predicting-outcomes?u=76281980&t=54)** We can do this in multiple ways in either application, but for this project, let's use the round function in Excel and the ifelse function in R to round predicted [[Probability]] to the closest integer.
 >
 > **[1:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/predicting-outcomes?u=76281980&t=69)** Let's add another column in our Excel file, and we'll call this predicted rounded.
 >
@@ -1383,21 +1365,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (7), [[Logistic Regression]] (2), [[Probability]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Logistic Regression]] (2), [[Probability]] (2)
 > **Versions:** 0.5 (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** glm (2)
 > **Speakers:** - once (1), - let (1)
 > **Prerequisites:** set up (1)
 
-#### Visualizing logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/visualizing-logistic-regression?u=76281980)
+#### [Visualizing logistic regression](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/visualizing-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/visualizing-logistic-regression?u=76281980&t=0)** - [Instructor] Once we predict our probability outcomes for logistic progression model, I find it's immensely helpful to visualize them as graphs as part of the process to get more inside into what the model output tells us.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/visualizing-logistic-regression?u=76281980&t=0)** - [Instructor] Once we predict our [[Probability]] outcomes for logistic progression model, I find it's immensely helpful to visualize them as graphs as part of the process to get more inside into what the model output tells us.
 >
-> **[0:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/visualizing-logistic-regression?u=76281980&t=13)** We can construct charts in Excel, and we can also construct them in R.
+> **[0:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/visualizing-logistic-regression?u=76281980&t=13)** We can construct charts in [[Microsoft Excel|Excel]], and we can also construct them in R.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/visualizing-logistic-regression?u=76281980&t=18)** There are thousands of libraries in R and many of them support graphic capabilities, but there are actually built-in graphic commands or functions, we can leverage directly in R without having to load or import any other packages.
 >
@@ -1461,21 +1442,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Probability]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Tools:** command line (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Calculating logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-calculating-logistic-regression?u=76281980)
+#### [Challenge: Calculating logistic regression](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-calculating-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-calculating-logistic-regression?u=76281980&t=0)** (playful music)
 >
-> **[0:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-calculating-logistic-regression?u=76281980&t=5)** - [Instructor] Here's your chance to apply what you just learned about binomial logistic regression on your own.
+> **[0:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-calculating-logistic-regression?u=76281980&t=5)** - [Instructor] Here's your chance to apply what you just learned about binomial [[Logistic Regression]] on your own.
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-calculating-logistic-regression?u=76281980&t=12)** You're going to use the dataset we're already using for this project to select another independent variable, to run with the same variable as the dependent variable for the outcome of the game.
 >
@@ -1483,18 +1463,17 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-calculating-logistic-regression?u=76281980&t=33)** Remember to use numeric inputs in the model to make sure it runs.
 >
-> **[0:38](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-calculating-logistic-regression?u=76281980&t=38)** Also think about whether you want to run the model in either Excel or R or even both, depending on how much you want to deep dive into the model to understand more of the technicalities behind how it runs.
+> **[0:38](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-calculating-logistic-regression?u=76281980&t=38)** Also think about whether you want to run the model in either [[Microsoft Excel|Excel]] or R or even both, depending on how much you want to deep dive into the model to understand more of the technicalities behind how it runs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (1), game (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (playful music) (1)
 
-#### Solution: Calculating logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-calculating-logistic-regression?u=76281980)
+#### [Solution: Calculating logistic regression](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-calculating-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1552,7 +1531,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-calculating-logistic-regression?u=76281980&t=158)** In this case, we can see that perhaps rebounds may not be the best model to use in this case.
 >
-> **[2:45](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-calculating-logistic-regression?u=76281980&t=165)** Part of the process of using logistic regression is experimenting with different independent variables and thinking about how they fit into the model.
+> **[2:45](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-calculating-logistic-regression?u=76281980&t=165)** Part of the process of using [[Logistic Regression]] is experimenting with different independent variables and thinking about how they fit into the model.
 >
 > **[2:53](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-calculating-logistic-regression?u=76281980&t=173)** Let's run our lines command.
 >
@@ -1562,7 +1541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (1)
 > **Env Vars:** glm (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1572,16 +1551,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding more independent variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980)
+#### [Adding more independent variables](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980&t=0)** - [Instructor] Not only logistic regression with a single independent variable lets us visualize the data and predictions in a tangible way.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980&t=0)** - [Instructor] Not only [[Logistic Regression]] with a single independent variable lets us visualize the data and predictions in a tangible way.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980&t=8)** However, more realistically logistic regression models like other models often include more than one variable.
 >
-> **[0:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980&t=15)** In our Excel file, I copied over the model for logistic regression as a single variable to a new sheet called logistic X1 plus X2, plus X3.
+> **[0:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980&t=15)** In our [[Microsoft Excel|Excel]] file, I copied over the model for logistic regression as a single variable to a new sheet called logistic X1 plus X2, plus X3.
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980&t=25)** I have then inserted space for two additional independent variables.
 >
@@ -1697,7 +1675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (4), data (4), [[Microsoft Excel|Excel]] (4), next (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (4), [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** glm (2)
 > **UI Navigation:** open the (1), scroll up (1)
 > **CLI Commands:** make (1)
@@ -1705,8 +1683,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980)
+#### [Transforming variables](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,17 +1697,17 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=30)** But we do want to take a moment to think about what the transformation outcomes will be to make sure we actually changed the fields in a way that's feasible.
 >
-> **[0:39](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=39)** For example, logistic regression has actual outcomes of either zero or one, which means that if we were to take the natural log of these two values, we would get zero if we took the natural log of one, and you would get undefined values if we tried to take the log of zero.
+> **[0:39](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=39)** For example, [[Logistic Regression]] has actual outcomes of either zero or one, which means that if we were to take the natural log of these two values, we would get zero if we took the natural log of one, and you would get undefined values if we tried to take the log of zero.
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=59)** In our model, the points, which is X1, is a good candidate for a log transformation, because we know we're not going to have any negative values or zeros.
 >
 > **[1:11](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=71)** So every transformed result will return a defined result as well.
 >
-> **[1:16](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=76)** I've already copied the binomial logistic regression model with one variable into a new tab in our Excel file that's denoted as logistic X1 transform.
+> **[1:16](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=76)** I've already copied the binomial logistic regression model with one variable into a new tab in our [[Microsoft Excel|Excel]] file that's denoted as logistic X1 transform.
 >
 > **[1:27](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=87)** We'll take our points scored field and we'll put the LN function around it.
 >
-> **[1:37](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=97)** And we'll update the rest of the values in the column.
+> **[1:37](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=97)** And we'll update the [[Representational State Transfer (REST)|rest]] of the values in the column.
 >
 > **[1:40](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=100)** Once we transform our independent variable, let's run the entire model again and solver will use the same configuration except our calculations will use the transform variable instead of variable we used before.
 >
@@ -1740,7 +1717,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=131)** We can see how the coefficients change for both the intercept and the points because of the transformation of the variable.
 >
-> **[2:20](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=140)** Now let's do these changes in RStudio.
+> **[2:20](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=140)** Now let's do these changes in [[RStudio]].
 >
 > **[2:26](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=146)** Let's make sure that our Logit is only using a single variable.
 >
@@ -1764,11 +1741,11 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=226)** How do we know this is a good fit?
 >
-> **[3:48](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=228)** The answer lies in analyzing statistics for this model, which we'll do later in this chapter.
+> **[3:48](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/transforming-variables?u=76281980&t=228)** The answer lies in analyzing [[Statistics]] for this model, which we'll do later in this chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[RStudio]] (1), data (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[RStudio]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
@@ -1776,12 +1753,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - another (1)
 
-#### Calculating correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980)
+#### [Calculating correlations](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=0)** - [Instructor] As we add different independent variable fields to logistic regression model.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=0)** - [Instructor] As we add different independent variable fields to [[Logistic Regression]] model.
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=5)** We want to start thinking about whether or not the field should go into the model.
 >
@@ -1789,7 +1765,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=22)** One way to determine this is by calculating the correlation between various fields in the model.
 >
-> **[0:29](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=29)** You've likely heard of correlation before in statistics courses, we want to remove the inputs for the model that are closely correlated to each other, because this would cause multicollinearity between the inputs if we left the in.
+> **[0:29](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=29)** You've likely heard of correlation before in [[Statistics]] courses, we want to remove the inputs for the model that are closely correlated to each other, because this would cause multicollinearity between the inputs if we left the in.
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=44)** Think of correlation along a two-dimensional scatterplot and the points most closely in line up with the linear line, there's a strong correlation between the data points.
 >
@@ -1801,7 +1777,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=71)** A linear line that slips downward shows a strong negative correlation of negative one in this case.
 >
-> **[1:18](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=78)** We can calculate the correlations between logistic regression model inputs using a correlation table and Excel and R as we'll see later.
+> **[1:18](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=78)** We can calculate the correlations between logistic regression model inputs using a correlation table and [[Microsoft Excel|Excel]] and R as we'll see later.
 >
 > **[1:28](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-correlations?u=76281980&t=88)** Let's look at the correlations between the fields for the existing logistic regression model, with three independent variables in Excel.
 >
@@ -1875,7 +1851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (6), [[Logistic Regression]] (4), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Logistic Regression]] (4), [[Statistics]] (1)
 > **UI Navigation:** select the (5)
 > **CLI Commands:** make (2)
 > **Versions:** 0.7 (1)
@@ -1884,12 +1860,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980)
+#### [Using statistics](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=1)** - [Instructor] As we're building our logistic regression model, we want to pay attention to the model statistics so we know that if the model we set up is a good fit.
+> **[0:01](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=1)** - [Instructor] As we're building our [[Logistic Regression]] model, we want to pay attention to the model [[Statistics]] so we know that if the model we set up is a good fit.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=10)** There are entire courses in the library that focus on statistics, but understanding the outcomes and the statistics that go along with the logistic regression model can help us develop better models in the future because we're able to put our numbers in the proper context.
 >
@@ -1899,7 +1874,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=67)** The Deviance Residuals are the difference between our model and the ideal fit for this logistic regression model.
 >
-> **[1:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=75)** We see our numbers seem reasonable and in line with the log likelihood distances we calculated in our Excel model.
+> **[1:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=75)** We see our numbers seem reasonable and in line with the log likelihood distances we calculated in our [[Microsoft Excel|Excel]] model.
 >
 > **[1:23](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=83)** We've already calculated the estimated coefficients for the logistic regression model using Solver and R.
 >
@@ -1913,7 +1888,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=130)** We calculated the model using weighted distances.
 >
-> **[2:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=135)** The column Pr, probability, the coefficient is greater than Z as an also called the Wald test Z value.
+> **[2:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=135)** The column Pr, [[Probability]], the coefficient is greater than Z as an also called the Wald test Z value.
 >
 > **[2:26](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/using-statistics?u=76281980&t=146)** The closer these values are to zero, the more significant the coefficient is in the model.
 >
@@ -1941,7 +1916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (5), [[Statistics]] (3), [[Microsoft Excel|Excel]] (1), [[Probability]] (1), data (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (5), [[Statistics]] (3), [[Microsoft Excel|Excel]] (1), [[Probability]] (1)
 > **Env Vars:** aic (3), mle (1)
 > **Versions:** 2.5 (1), 97.5 (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1950,16 +1925,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring confusion tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980)
+#### [Configuring confusion tables](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=0)** - [Instructor] Now let's compare the predicted outcomes with the actual outcomes in the logistic regression model.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=0)** - [Instructor] Now let's compare the predicted outcomes with the actual outcomes in the [[Logistic Regression]] model.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=6)** One way to do this is through a confusion matrix, which is a technique for classification algorithms like this that lets us summarize its performance.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=6)** One way to do this is through a confusion matrix, which is a technique for classification [[Algorithms]] like this that lets us summarize its performance.
 >
-> **[0:16](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=16)** However, a word of caution.
+> **[0:16](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=16)** However, a [[Microsoft Word|word]] of caution.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=18)** A confusion matrix should be on algorithms with roughly an equal number of outcomes in each class, and also in algorithms with only two classes of outcomes, like our binomial logistic regression model.
 >
@@ -1983,7 +1957,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=118)** False positives predict a positive outcome, but we actually have a negative outcome, while false negatives predict negative outcome, but we'll actually see a positive outcome.
 >
-> **[2:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=129)** In Excel, I've set up a new sheet with confusion at the end of the sheet name to focus on the calculations for the confusion matrix.
+> **[2:09](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=129)** In [[Microsoft Excel|Excel]], I've set up a new sheet with confusion at the end of the sheet name to focus on the calculations for the confusion matrix.
 >
 > **[2:20](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=140)** Notice it looks a lot like the logistic regression models we built using the training data, except for we're going to use the testing data instead of the training data for the predicted outcomes.
 >
@@ -2001,7 +1975,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=206)** With this set up correctly, we can leave these numbers as is, or we could just nest the formulas inside of one another to avoid confusion.
 >
-> **[3:50](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=230)** Now that we've calculated the predicted probability, let's delete these two columns for the logit and e logit to make our analysis a bit more streamlined.
+> **[3:50](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=230)** Now that we've calculated the predicted [[Probability]], let's delete these two columns for the logit and e logit to make our analysis a bit more streamlined.
 >
 > **[4:04](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=244)** We'll copy the formulas down.
 >
@@ -2055,7 +2029,7 @@ created: 2026-05-02
 >
 > **[7:18](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=438)** Now let's create a confusion table in R.
 >
-> **[7:21](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=441)** There are libraries in R that automatically create confusion tables with a statistics for us, but we can create a table using the built-in table function in R.
+> **[7:21](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=441)** There are libraries in R that automatically create confusion tables with a [[Statistics]] for us, but we can create a table using the built-in table function in R.
 >
 > **[7:30](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/configuring-confusion-tables?u=76281980&t=450)** Because we're calculating our confusion matrix on the test data instead of the training data, we need to import the testing data into our model as well.
 >
@@ -2137,7 +2111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Microsoft Excel|Excel]] (6), [[Logistic Regression]] (4), [[Algorithms]] (3), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Logistic Regression]] (4), [[Algorithms]] (3), [[Probability]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** df2 (7), df1 (5), mle (1), glm (1)
 > **CLI Commands:** make (10)
 > **Prerequisites:** set up (3)
@@ -2146,14 +2120,13 @@ created: 2026-05-02
 > **Versions:** 0.1 (1)
 > **UI Navigation:** select the (1)
 
-#### Challenge: Fine-tuning the model
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-fine-tuning-the-model?u=76281980)
+#### [Challenge: Fine-tuning the model](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-fine-tuning-the-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-fine-tuning-the-model?u=76281980&t=0)** (playful music)
 >
-> **[0:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-fine-tuning-the-model?u=76281980&t=5)** - [Instructor] Let's continue now, working on our challenge for logistic regression modeling.
+> **[0:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-fine-tuning-the-model?u=76281980&t=5)** - [Instructor] Let's continue now, working on our challenge for [[Logistic Regression]] modeling.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-fine-tuning-the-model?u=76281980&t=10)** You can pick up where you left off on your own challenge solution, or you can use my own in the exercise files.
 >
@@ -2163,13 +2136,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (2), parallel (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (playful music) (1)
 
-#### Solution: Fine-tuning the model
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-fine-tuning-the-model?u=76281980)
+#### [Solution: Fine-tuning the model](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-fine-tuning-the-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2219,7 +2191,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Versions:** 0.33 (1), 0.4 (1), 0.73 (1), 0.27 (1), 0.45 (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -2232,12 +2203,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculating odds for multinomial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980)
+#### [Calculating odds for multinomial models](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980&t=0)** - Modeling multinomial logistic regression is quite different from the binomial regression models we've worked with so far, the binomial logistic regression models contain two outcomes, which are binomial models.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980&t=0)** - Modeling multinomial [[Logistic Regression]] is quite different from the binomial regression models we've worked with so far, the binomial logistic regression models contain two outcomes, which are binomial models.
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980&t=13)** Examples of these outcome types include true or false, or in this case for our college basketball data, win or loss, which we represent with the discrete values, zero or one.
 >
@@ -2285,7 +2255,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980&t=206)** And what this does is the shape of it is determined by how we're going to use the model.
 >
-> **[3:35](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980&t=215)** We'll understand more of this data set once we start working with it in Excel.
+> **[3:35](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980&t=215)** We'll understand more of this data set once we start working with it in [[Microsoft Excel|Excel]].
 >
 > **[3:41](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980&t=221)** In order to see how this fishing dataset works as a multinomial model, I've downloaded it to the exercise files.
 >
@@ -2331,31 +2301,30 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980&t=380)** Just double check that we've got it properly set up.
 >
-> **[6:24](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980&t=384)** We're going to come back to work on this model, both here in Excel and in R to build out the rest of our multinomial logistic regression model.
+> **[6:24](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980&t=384)** We're going to come back to work on this model, both here in Excel and in R to build out the [[Representational State Transfer (REST)|rest]] of our multinomial logistic regression model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Logistic Regression]] (6), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (6), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (4), install (2)
 > **Versions:** 0.0001 (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
 > **Speakers:** - modeling (1)
 
-#### Calculating probabilities for multinomial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980)
+#### [Calculating probabilities for multinomial models](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=0)** - Once we calculate the logit values for a log odds in our multinomial logistic regression model, we can now calculate the probabilities for each of these outcomes for each income level.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=0)** - Once we calculate the logit values for a log odds in our multinomial [[Logistic Regression]] model, we can now calculate the probabilities for each of these outcomes for each income level.
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=12)** To do so, we're going to use the formula to convert odds into probabilities.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=17)** We take the odds for a particular event and divide it by the sum of odds for all the events.
 >
-> **[0:26](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=26)** In Excel, let's calculate the probabilities using the values of the odds we calculated and the columns next to it.
+> **[0:26](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=26)** In [[Microsoft Excel|Excel]], let's calculate the probabilities using the values of the odds we calculated and the columns next to it.
 >
-> **[0:33](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=33)** We first calculate the pier probability, which is equal to J3 divided by the sum of all the odds, including pier.
+> **[0:33](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=33)** We first calculate the pier [[Probability]], which is equal to J3 divided by the sum of all the odds, including pier.
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=44)** Remember that we're calculating dummy values here, and the predicted probabilities will update once we run the model.
 >
@@ -2375,7 +2344,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=99)** In this case it's going to be in column F.
 >
-> **[1:42](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=102)** We'll fix our F column reference so we can copy over the formula to use it in the rest of the forecasted values.
+> **[1:42](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=102)** We'll fix our F column reference so we can copy over the formula to use it in the [[Representational State Transfer (REST)|rest]] of the forecasted values.
 >
 > **[1:53](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-probabilities-for-multinomial-models?u=76281980&t=113)** We can see the totals at the bottom of the forecasted values aren't a whole number, but they're instead a decimal.
 >
@@ -2383,19 +2352,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), [[Logistic Regression]] (1), [[Microsoft Excel|Excel]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Logistic Regression]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - once (1)
 
-#### Calculating multinomial log likelihoods
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980)
+#### [Calculating multinomial log likelihoods](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980&t=0)** - To calculate the log likelihood of multinomial regression, we're going to use a formula, similar to what we saw with binomial logistic regression, except the log likelihood formula, will have a few more terms.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980&t=0)** - To calculate the log likelihood of multinomial regression, we're going to use a formula, similar to what we saw with binomial [[Logistic Regression]], except the log likelihood formula, will have a few more terms.
 >
-> **[0:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980&t=13)** In Excel, one function that will really help us out in these calculations is SUMPRODUCT.
+> **[0:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980&t=13)** In [[Microsoft Excel|Excel]], one function that will really help us out in these calculations is SUMPRODUCT.
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980&t=19)** If we take the units and the unit cost for four different kinds of fruits apples, bananas, pears, and oranges.
 >
@@ -2423,7 +2391,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980&t=113)** Because we're taking the natural log of the probabilities, we can actually use the LN function in Excel to reference all the predictive probabilities and take the natural log of each one of them, and use that within the SUMPRODUCT function.
 >
-> **[2:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980&t=133)** You can then copy these formulas down for the rest of the income levels, and we see that it still refers to the same values.
+> **[2:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980&t=133)** You can then copy these formulas down for the [[Representational State Transfer (REST)|rest]] of the income levels, and we see that it still refers to the same values.
 >
 > **[2:25](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-multinomial-log-likelihoods?u=76281980&t=145)** Finally in the blue cell, at the bottom of the log likelihood column, we sum up all the log likelihoods into a single total.
 >
@@ -2433,7 +2401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Logistic Regression]] (2), next (2), product (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Logistic Regression]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sumproduct (5)
 > **Definitions:** in other words (1), refers to (1)
 > **Cross-References:** in the next (1)
@@ -2441,12 +2409,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - to (1)
 
-#### Running MLE
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-mle?u=76281980)
+#### [Running MLE](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-mle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-mle?u=76281980&t=0)** - [Instructor] Once we configure our multinomial logistic regression model as formulas in Excel, we want to use Solver to figure out the coefficients of the model that maximize the sum of the Log Likelihood.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-mle?u=76281980&t=0)** - [Instructor] Once we configure our multinomial [[Logistic Regression]] model as formulas in [[Microsoft Excel|Excel]], we want to use Solver to figure out the coefficients of the model that maximize the sum of the Log Likelihood.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-mle?u=76281980&t=14)** This blue cell is the sum of the Log Likelihood, similar to what we saw with the binomial logistic regression model.
 >
@@ -2506,7 +2473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (3), [[Microsoft Excel|Excel]] (3), data (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (3), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1), means that (1), is a  (1)
 > **Env Vars:** grg (1)
@@ -2515,16 +2482,15 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** configure (1)
 
-#### Making the predictions
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980)
+#### [Making the predictions](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=0)** - [Instructor] In our Excel model, we see the predicted probabilities for the income independent variable for each of the four outcomes for preferred fishing spots.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=0)** - [Instructor] In our [[Microsoft Excel|Excel]] model, we see the predicted probabilities for the income independent variable for each of the four outcomes for preferred fishing spots.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=11)** We then see the forecasted values, which take the predicted profitability and multiply it by the total for each of the income levels.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=21)** We calculated the predicted profitability by using the coefficients in the yellow cells to calculate the logit log odds, and then the predicted probability outcomes for each income level.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=21)** We calculated the predicted profitability by using the coefficients in the yellow cells to calculate the logit log odds, and then the predicted [[Probability]] outcomes for each income level.
 >
 > **[0:34](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=34)** In our R code however, we solve for the coefficients, but we haven't yet made any predictions with these coefficient parameters, that match those of our Excel model.
 >
@@ -2540,7 +2506,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=96)** We're going to assign the predicted results to this data frame, in a similar way that we did for the binomial model, except we're going to use our multinomial results.
 >
-> **[1:48](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=108)** We'll use our logit, which represents the multinomial logistic regression results.
+> **[1:48](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=108)** We'll use our logit, which represents the multinomial [[Logistic Regression]] results.
 >
 > **[1:54](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=114)** And we'll set new data as equal to our DF, this is our data frame.
 >
@@ -2624,7 +2590,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=392)** So we see we've renamed the first column.
 >
-> **[6:34](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=394)** So let's just do this for the rest of the columns as well.
+> **[6:34](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=394)** So let's just do this for the [[Representational State Transfer (REST)|rest]] of the columns as well.
 >
 > **[6:42](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/making-the-predictions?u=76281980&t=402)** So if it's V2, it's going to be boat.
 >
@@ -2642,7 +2608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Microsoft Excel|Excel]] (6), [[Logistic Regression]] (2), [[Probability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Logistic Regression]] (2), [[Probability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -2653,16 +2619,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running R scripts in the Power Query Editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980)
+#### [Running R scripts in the Power Query Editor](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=0)** - [Instructor] There are two places where we can run R scripts in Power BI.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=0)** - [Instructor] There are two places where we can run R scripts in [[Microsoft Power BI|Power BI]].
 >
-> **[0:04](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=4)** We can run them in Power Query editor, and we can also run them as scripts in a standard R visual.
+> **[0:04](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=4)** We can run them in [[Microsoft Power Query|Power Query]] editor, and we can also run them as scripts in a standard R visual.
 >
-> **[0:12](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=12)** Here's the binomial logistic regression model run with three independent variables.
+> **[0:12](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=12)** Here's the binomial [[Logistic Regression]] model run with three independent variables.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=17)** We're going to use this script in Power BI Desktop.
 >
@@ -2678,7 +2643,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=55)** In this configuration window for the R script, let's copy the R code for the binomial logistic regression model with three independent variables into this space here.
 >
-> **[1:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=68)** I often write the script first in RStudio, as we've already done to make sure it works properly because Power BI and Power Query editor, aren't code testing tools and so any errors we get we'll often have to go into an external application to figure out what's going on.
+> **[1:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=68)** I often write the script first in [[RStudio]], as we've already done to make sure it works properly because Power BI and Power Query editor, aren't code testing tools and so any errors we get we'll often have to go into an external application to figure out what's going on.
 >
 > **[1:27](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980&t=87)** We need to make sure we import the entire script that we need, but it's not going to be all of the script.
 >
@@ -2782,7 +2747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), bi (10), data (10), [[Microsoft Power Query|Power query]] (5), [[Logistic Regression]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (10), [[Microsoft Power Query|Power query]] (5), [[Logistic Regression]] (2), [[RStudio]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** select the (2), scroll down (1)
 > **Env Vars:** csv (1)
@@ -2791,12 +2756,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running R standard visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980)
+#### [Running R standard visuals](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=0)** - [Instructor] We can think of setting up the R scripts in Power BI editor as a global solution, but that's not the only place we can configure our models within Power BI.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=0)** - [Instructor] We can think of setting up the R scripts in [[Microsoft Power BI|Power BI]] editor as a global solution, but that's not the only place we can configure our models within Power BI.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=10)** We can also explore configuring them locally using the R visual that's available within the standard visualization options.
 >
@@ -2832,7 +2796,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=128)** Select not to summarize either of these fields.
 >
-> **[2:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=133)** So we're going to run our logit model in the R visual, instead of in the Power Query editor, when we used it, when we got the data using R script.
+> **[2:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=133)** So we're going to run our logit model in the R visual, instead of in the [[Microsoft Power Query|Power Query]] editor, when we used it, when we got the data using R script.
 >
 > **[2:24](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=144)** So we've made sure that we're not aggregating any data points.
 >
@@ -2850,7 +2814,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=168)** When we created this visual, a script automatically ran that was a preamble that set up the dataset and added the fields to it.
 >
-> **[2:58](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=178)** Now let's get our R code that produces a line chart on top of a scatter plot from RStudio.
+> **[2:58](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=178)** Now let's get our R code that produces a line chart on top of a scatter plot from [[RStudio]].
 >
 > **[3:07](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-standard-visuals?u=76281980&t=187)** I'm going to copy all this code and then edit it in the visual.
 >
@@ -2926,7 +2890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), power (6), bi (6), [[RStudio]] (3), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[RStudio]] (3), [[Microsoft Power Query|Power query]] (1)
 > **Prerequisites:** set up (5), configure (1), you'll need (1)
 > **Env Vars:** csv (4)
 > **UI Navigation:** select the (2), click on (2)
@@ -2934,18 +2898,17 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interacting between visual components
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980)
+#### [Interacting between visual components](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=0)** - [Instructor] We might ask why we would want to use the Power Query editor versus the R visual to run R scripts.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=0)** - [Instructor] We might ask why we would want to use the [[Microsoft Power Query|Power Query]] editor versus the R visual to run R scripts.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=8)** We could even create a model that goes in the database that we can connect to.
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=13)** There's no right answer and what you choose to select to do depends on the situation in the context in which you're trying to use your model and act upon its outputs.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=25)** Let's say we add slicers to the existing Power BI report, which we'll do to the page that contains the R visual.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=25)** Let's say we add slicers to the existing [[Microsoft Power BI|Power BI]] report, which we'll do to the page that contains the R visual.
 >
 > **[0:32](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=32)** We'll then add the Season Start Year as the field.
 >
@@ -2993,7 +2956,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=184)** You'll want to make sure your R scripts are compatible with R version 3.4.4 or the most recent version that works.
 >
-> **[3:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=193)** If you have questions on this documentation, please review the Microsoft Power BI documentation online for the most recent updates.
+> **[3:13](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=193)** If you have questions on this documentation, please review the [[Microsoft Power BI]] documentation online for the most recent updates.
 >
 > **[3:22](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/interacting-between-visual-components?u=76281980&t=202)** It's also important to look at the limitations for what you can share.
 >
@@ -3005,7 +2968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), bi (8), [[Microsoft Power Query|Power query]] (4), data (3), database (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (8), [[Microsoft Power Query|Power query]] (4), [[Microsoft Power BI]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** espn (2)
 > **Versions:** version 3 (1), 4.4 (1)
@@ -3013,28 +2976,26 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Moving into Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-moving-into-power-bi?u=76281980)
+#### [Challenge: Moving into Power BI](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-moving-into-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-moving-into-power-bi?u=76281980&t=0)** (bright upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-moving-into-power-bi?u=76281980&t=5)** - [Instructor] Your challenge for this chapter is to take one of the previous chapters challenges for logistic regression modeling and bring it into Power BI.
+> **[0:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-moving-into-power-bi?u=76281980&t=5)** - [Instructor] Your challenge for this chapter is to take one of the previous chapters challenges for [[Logistic Regression]] modeling and bring it into [[Microsoft Power BI|Power BI]].
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-moving-into-power-bi?u=76281980&t=14)** You can choose to leverage either the binomial, multinomial or ordinal logistic regression models.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-moving-into-power-bi?u=76281980&t=22)** In Power BI, you can either set up the model in the Power Query Editor or by running code in the standard R visual.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/challenge-moving-into-power-bi?u=76281980&t=22)** In Power BI, you can either set up the model in the [[Microsoft Power Query|Power Query]] Editor or by running code in the standard R visual.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (2), power (2), bi (2), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Power Query|Power query]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Moving into Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-moving-into-power-bi?u=76281980)
+#### [Solution: Moving into Power BI](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-moving-into-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3042,7 +3003,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-moving-into-power-bi?u=76281980&t=5)** - In my solution.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-moving-into-power-bi?u=76281980&t=6)** I'm going to update the Power BI Desktop model to show a different independent variable within the power query R script.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-moving-into-power-bi?u=76281980&t=6)** I'm going to update the [[Microsoft Power BI|Power BI]] Desktop model to show a different independent variable within the [[Microsoft Power Query|power query]] R script.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-moving-into-power-bi?u=76281980&t=14)** We'll select to open the Query Editor again, we then double click on the Source Step, which opens the R script and a pop-up window again.
 >
@@ -3154,7 +3115,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-moving-into-power-bi?u=76281980&t=362)** If we select Home or Away Games, we see the line splits into two.
 >
-> **[6:06](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-moving-into-power-bi?u=76281980&t=366)** So this is a way to interact with a logistic regression model by effectively letting the end user select which view they want to see.
+> **[6:06](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-moving-into-power-bi?u=76281980&t=366)** So this is a way to interact with a [[Logistic Regression]] model by effectively letting the end user select which view they want to see.
 >
 > **[6:15](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/solution-moving-into-power-bi?u=76281980&t=375)** They can see all the games, which means that we don't separate the Home or Away independent variable as part of the model, or we can select to include the Home or Away independent variable in the model.
 >
@@ -3162,7 +3123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), power (4), bi (4), [[Microsoft Power Query|Power query]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Power Query|Power query]] (2), [[Logistic Regression]] (1)
 > **UI Navigation:** click on (2), select the (2), open the (1), dropdown (1), scroll down (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Env Vars:** glm (2)
@@ -3176,12 +3137,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with logistic regressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980)
+#### [Next steps with logistic regressions](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=0)** - [Helen] Now that you've learned about model and logistic regression, you can build out your knowledge from here.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=0)** - [Helen] Now that you've learned about model and [[Logistic Regression]], you can build out your knowledge from here.
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=5)** Try out the models on some of the other built-in datasets in R, or find examples of logistic regression you can apply on your own data.
 >
@@ -3189,15 +3149,15 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=17)** There's a lot more to learn about binomial and multinomial models, as well as starting to explore ordinal models, which I touched on slightly in this course.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=27)** If you want to learn more about AI and machine learning models, as well as statistical methods, check out some of the other courses in the library on these topics, like Microsoft Excel: Using Solver for Decision Analysis, R for Data Science: Lunchbreak Lessons, [[Power BI- Integrating AI]] and Machine Learning, Data Dashboards in Power BI, and Advanced Microsoft Power BI.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=27)** If you want to learn more about AI and machine learning models, as well as statistical methods, check out some of the other courses in the library on these topics, like [[Microsoft Excel]]: Using Solver for Decision Analysis, R for [[Data Science]]: Lunchbreak Lessons, [[[[Microsoft Power BI|Power BI]]- Integrating AI]] and Machine Learning, Data [[Dashboards]] in Power BI, and Advanced [[Microsoft Power BI]].
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=53)** I'd love to stay connected, and hope you learn more about logistic regression.
 >
-> **[0:58](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=58)** Please follow me on LinkedIn to see more content on these topics.
+> **[0:58](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980&t=58)** Please follow me on [[LinkedIn]] to see more content on these topics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (4), data (3), ai (2), power (2), bi (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (4), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Excel]] (1), [[Data Science]] (1), [[Dashboards]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [helen] (1)

@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DevOps foundations: CD/CI
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980)
+#### [DevOps foundations: CD/CI](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980&t=29)** - And I'm James Wickett.
 >
-> **[0:30](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980&t=30)** Welcome to our course on another DevOps fundamental, continuous delivery.
+> **[0:30](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980&t=30)** Welcome to our course on another [[DevOps]] fundamental, [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[0:34](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980&t=34)** - James and I first met while implementing DevOps in a large enterprise.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980&t=52)** - In this course, we'll address both what developers and operations folks, consuming and supporting builds need to know.
 >
-> **[0:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980&t=59)** First we'll cover the basics you'll need to succeed at continuous integration, delivery, and deployment, including how to construct your build pipeline.
+> **[0:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980&t=59)** First we'll cover the basics you'll need to succeed at [[Continuous Integration (CI)|continuous integration]], delivery, and deployment, including how to construct your build pipeline.
 >
 > **[1:08](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980&t=68)** - [James] Then we'll discuss elements of the pipeline and talk you through source control, build, testing, artifact management, and deployment.
 >
@@ -126,21 +125,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), application (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), management (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Speakers:** - are (1), - do (1), - have (1), - does (1), - if (1)
 > **URLs:** [theagileadmin.com](https://theagileadmin.com) (1)
 > **Prerequisites:** you'll need (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=1)** - This course is designed to introduce you to the basic concepts of continuous integration and delivery.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=1)** - This course is designed to introduce you to the basic concepts of [[Continuous Integration (CI)|continuous integration]] and delivery.
 >
-> **[0:06](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=6)** - [Man With Glasses] To get the most out of this course, you may want to watch DevOps Foundations here in the library.
+> **[0:06](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=6)** - [Man With Glasses] To get the most out of this course, you may want to watch [[DevOps]] Foundations here in the library.
 >
-> **[0:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=11)** In it, James and I discuss the fundamentals of DevOps and how the three major practice areas: infrastructure automation, continuous delivery, and reliability engineering fit into it.
+> **[0:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=11)** In it, James and I discuss the fundamentals of DevOps and how the three major practice areas: infrastructure automation, [[Continuous Delivery (CD)|continuous delivery]], and reliability engineering fit into it.
 >
 > **[0:23](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=23)** This course drills down into continuous delivery.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=53)** Instead, we'll be talking about concepts and using a wide variety of tools to illustrate them.
 >
-> **[0:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=59)** - So while you may see, for example, some Jenkins and be introduced to what it does, we won't be teaching you about Jenkins or any technology specifically.
+> **[0:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=59)** - So while you may see, for example, some [[Jenkins]] and be introduced to what it does, we won't be teaching you about Jenkins or any technology specifically.
 >
 > **[1:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/what-you-should-know?u=76281980&t=67)** Our goal is teaching the foundations of continuous delivery and familiarizing you with a wide variety of tools you might choose to implement for your preferred approach.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Jenkins]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Jenkins]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Speakers:** - [man (2), - this (1), - [james] (1), - so (1), - now (1)
 > **Analogies:** for example (1)
 
@@ -171,18 +169,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DevOps core concept: CI/CD
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980)
+#### [DevOps core concept: CI/CD](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=1)** - You may have heard the terms, continuous integration, delivery, and deployment thrown around already.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=1)** - You may have heard the terms, [[Continuous Integration (CI)|continuous integration]], delivery, and deployment thrown around already.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=7)** So first let's talk about exactly what each term means.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=10)** - Yeah, let's start with continuous integration.
 >
-> **[0:12](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=12)** It's the practice of automatically building and unit testing an entire application frequently, ideally on every source code check-in, dozens of times a day, if necessary.
+> **[0:12](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=12)** It's the practice of automatically building and [[Unit Testing]] an entire application frequently, ideally on every source code check-in, dozens of times a day, if necessary.
 >
 > **[0:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=21)** - And in CI, those check-ins are frequent.
 >
@@ -194,9 +191,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=43)** It's all about shortening the feedback loop for every change.
 >
-> **[0:46](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=46)** - Continuous delivery is the additional practice of deploying every change to a production-like environment and performing automated integration and acceptance testing after it passes it's build and unit tests.
+> **[0:46](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=46)** - [[Continuous Delivery (CD)|Continuous delivery]] is the additional practice of deploying every change to a production-like environment and performing automated integration and acceptance testing after it passes it's build and unit tests.
 >
-> **[0:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=59)** - This can involve small scale deployment on a single server using mock environments created with Docker containers or virtual machines to mimic a production environment so that you can run those integration tests.
+> **[0:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=59)** - This can involve small scale deployment on a single server using mock environments created with Docker containers or [[Virtual Machines]] to mimic a production environment so that you can run those integration tests.
 >
 > **[1:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=70)** Testing should generally end up with a deployment to a production-like environment.
 >
@@ -210,17 +207,17 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=92)** - But large-scale web properties like Facebook, Etsy, and Wealthfront use continuous deployment as a key component behind their success.
 >
-> **[1:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=101)** Even at my work, we use continuous deployment for the microservices that backup our open thread exchange website.
+> **[1:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=101)** Even at my work, we use continuous deployment for the [[Microservices]] that backup our open thread exchange website.
 >
 > **[1:48](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=108)** - Now, once you're making one change at a time and you have trustworthy tests that can find issues in your application, then you can remove all the manual gates that get in the way of a continuous flow to production.
 >
-> **[1:58](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=118)** - Of course, there are build and release processes that aren't anything like this, giant releases of hundreds of changes piled up for months, products that won't even build without days spent cobbling together merge conflicts and manual workarounds.
+> **[1:58](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=118)** - Of course, there are build and release processes that aren't anything like this, giant releases of hundreds of changes piled up for months, [[Microsoft Products|products]] that won't even build without days spent cobbling together merge conflicts and manual workarounds.
 >
 > **[2:12](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=132)** - I've been there.
 >
 > **[2:14](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=134)** - You don't have to go all the way to continuous deployment.
 >
-> **[2:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=136)** It's not right for every product, and none of this is really a mandatory part of a DevOps implementation.
+> **[2:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=136)** It's not right for every product, and none of this is really a mandatory part of a [[DevOps]] implementation.
 >
 > **[2:22](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980&t=142)** The first true DevOps team that Ernest and I worked on, we didn't go all the way to continuous delivery.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), application (3), [[Continuous Integration (CI)|Continuous integration]] (2), ci (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), [[Microsoft Products|Products]] (2), [[DevOps]] (2), [[Unit Testing]] (1)
 > **Speakers:** - you (2), - continuous (2), - this (2), - i (2), - yeah (1)
 > **CLI Commands:** docker (1), find (1), cd (1)
 > **Cross-References:** next video (1)
@@ -240,14 +237,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Benefits of continuous delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980)
+#### [Benefits of continuous delivery](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=1)** - Doing continuous integration and continuous delivery, it takes some time and investment.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=1)** - Doing [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]], it takes some time and investment.
 >
-> **[0:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=5)** - Investment is the right word for it.
+> **[0:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=5)** - Investment is the right [[Microsoft Word|word]] for it.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=7)** It's important to realize that the time spent setting up your pipeline is worth it.
 >
@@ -277,7 +273,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=84)** Now it's measured in hours or even minutes.
 >
-> **[1:27](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=87)** - The 2017 State of DevOps Report found that low performing organizations needed times ranging from one week to one month to make a change.
+> **[1:27](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=87)** - The 2017 State of [[DevOps]] Report found that low performing organizations needed times ranging from one week to one month to make a change.
 >
 > **[1:35](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=95)** However, organizations that use continuous delivery, They can reduce their cycle times to that hour and minute range we were talking about earlier.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=135)** It happens the same time every time, it's all they want to hear.
 >
-> **[2:20](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=140)** - We're going to cover security testing more later in the course, but let's move on to the next benefit.
+> **[2:20](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=140)** - We're going to cover [[Security Testing]] more later in the course, but let's move on to the next benefit.
 >
 > **[2:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/benefits-of-continuous-delivery?u=76281980&t=145)** - When not using continuous delivery, we used to have big meetings where we'd gather all the stakeholders.
 >
@@ -347,22 +343,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (12), [[Security]] (7), teams (3), cd (2), next (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (12), [[Continuous Integration (CI)|Continuous integration]] (1), [[Microsoft Word|Word]] (1), [[DevOps]] (1), [[Security Testing]] (1)
 > **Speakers:** - yeah (5), - the (3), - for (2), - that (2), - doing (1)
 > **CLI Commands:** cd (2), find (2), make (1)
 > **Cross-References:** later in (1), we discussed (1), in the next (1)
 > **Definitions:** is a  (1)
 
-#### Build pipelines in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980)
+#### [Build pipelines in practice](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=0)** - A build pipeline is your sequence of operations and the tools that perform them between your source code and your deployed system.
 >
-> **[0:09](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=9)** How you compose your build pipeline and the flow between its elements is much more critical than which exact tool you use in any particular area.
+> **[0:09](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=9)** How you [[Jetpack Compose|compose]] your build pipeline and the flow between its elements is much more critical than which exact tool you use in any particular area.
 >
-> **[0:18](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=18)** Tool-wise, you start with the source code repository, like Git, Perforce, or Subversion.
+> **[0:18](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=18)** Tool-wise, you start with the source code repository, like [[Git]], Perforce, or Subversion.
 >
 > **[0:24](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=24)** This is where you keep all your source code, and I mean all of it, AppCode, deploy scripts, infrastructure definitions, everything.
 >
@@ -370,7 +365,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=41)** Then you have a build system which watches your repository and triggers whatever build is required when it changes.
 >
-> **[0:49](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=49)** Jenkins, Bamboo, and TeamCity are popular build systems.
+> **[0:49](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=49)** [[Jenkins]], Bamboo, and TeamCity are popular build systems.
 >
 > **[0:53](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=53)** There's also online services like CircleCI and Travis CI.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=88)** Interpreted languages may not have a compilation step and skip straight to packaging.
 >
-> **[1:34](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=94)** You might have a build definition file, like a Make file or a Docker file, or perhaps you use something like Maven, Ant, or Gradle as a command-line build orchestration tool.
+> **[1:34](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=94)** You might have a build definition file, like a Make file or a Docker file, or perhaps you use something like Maven, Ant, or [[Gradle]] as a command-line build orchestration tool.
 >
 > **[1:45](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=105)** This allows developers to build on their local machine and to keep as much code in source control and out of the build console configuration as possible.
 >
@@ -402,7 +397,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=147)** Part of this is usually language dependent.
 >
-> **[2:29](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=149)** For example, Java code is usually put into JAR files and then those are combined up into a WAR or EAR file, but you may have a higher level packaging structure you prefer, like an RPM package or Docker image.
+> **[2:29](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=149)** For example, [[Java]] code is usually put into JAR files and then those are combined up into a WAR or EAR file, but you may have a higher level packaging structure you prefer, like an RPM package or Docker image.
 >
 > **[2:43](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=163)** Once you've packaged the code, it goes into your artifact repository.
 >
@@ -420,11 +415,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=215)** So you run your deployment tool on a test environment, sometimes also called the CI environment, to get your service up and running.
 >
-> **[3:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=222)** Next, you perform integration testing, which is designed to exercise a real running service in a real environment and ensure that it's working correctly.
+> **[3:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=222)** Next, you perform [[Integration Testing]], which is designed to exercise a real running service in a real environment and ensure that it's working correctly.
 >
 > **[3:52](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=232)** Then you have an end-to-end acceptance testing stage.
 >
-> **[3:55](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=235)** This may include a manual testing component.
+> **[3:55](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=235)** This may include a [[Manual Testing]] component.
 >
 > **[3:58](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=238)** Manual tests can be mostly dispensed with once you reach CD process maturity, but will almost always predominate initially.
 >
@@ -432,13 +427,13 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=255)** Ideally, you use some of the exact same acceptance tests to test it there as well.
 >
-> **[4:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=261)** There are many more types of tools you can layer onto your pipeline, test coverage measurement tools, Linters, security testing tools, performance testing tools, but these are the basics, and nailing the basics is the key to getting to continuous integration, and then, if you want, to continuous deployment.
+> **[4:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=261)** There are many more types of tools you can layer onto your pipeline, test coverage measurement tools, Linters, [[Security Testing]] tools, performance testing tools, but these are the basics, and nailing the basics is the key to getting to [[Continuous Integration (CI)|continuous integration]], and then, if you want, to continuous deployment.
 >
-> **[4:40](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=280)** In our next chapter, we're going to create a sample build pipeline and walk you through each part of it, explaining the decisions you need to make and the best practices to foster continuous delivery.
+> **[4:40](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/build-pipelines-in-practice?u=76281980&t=280)** In our next chapter, we're going to create a sample build pipeline and walk you through each part of it, explaining the decisions you need to make and the best practices to foster [[Continuous Delivery (CD)|continuous delivery]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), ci (2), [[Orchestration]] (2), [[Jetpack Compose|Compose]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Git]] (1), [[Jenkins]] (1), [[Gradle]] (1), [[Java]] (1)
 > **CLI Commands:** make (3), docker (3), git (1), find (1), cd (1)
 > **Env Vars:** jar (1), war (1), ear (1), rpm (1)
 > **Exercise Files:** source code (3)
@@ -451,14 +446,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the delivery pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980)
+#### [Introducing the delivery pipeline](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=1)** - All right, now that we've covered the basics, let's see how this might work in the real world.
 >
-> **[0:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=5)** - Over the rest of this chapter, we're going to build out a sample continuous delivery pipeline for a web application.
+> **[0:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=5)** - Over the [[Representational State Transfer (REST)|rest]] of this chapter, we're going to build out a sample [[Continuous Delivery (CD)|continuous delivery]] pipeline for a web application.
 >
 > **[0:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=11)** This pipeline will walk you through the core components you'll likely need to implement.
 >
@@ -474,7 +468,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=24)** We built it with open source technology to help deliver a sample web application written in Go.
 >
-> **[0:30](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=30)** - Yeah, now you may be using Java, Ruby or Node.js for your application.
+> **[0:30](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=30)** - Yeah, now you may be using [[Java]], Ruby or [[Node.js]] for your application.
 >
 > **[0:34](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=34)** - You may be using a mix of open source and commercial software.
 >
@@ -488,17 +482,17 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=55)** - We plan to arm you with the core principles to determine what you need to do to build a pipeline from scratch, or to modify your existing pipeline to increase flow through your build system.
 >
-> **[1:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=67)** - Now, for this course, we're starting off covering version control and core practices for development teams when working in a continuous delivery environment.
+> **[1:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=67)** - Now, for this course, we're starting off covering [[Version Control]] and core practices for development teams when working in a continuous delivery environment.
 >
-> **[1:14](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=74)** For our pipeline, we're going to be using the popular version control system, Git, delivered through GitHub.
+> **[1:14](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=74)** For our pipeline, we're going to be using the popular version control system, [[Git]], delivered through [[GitHub]].
 >
 > **[1:20](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=80)** - [Instructor] Then we move into build systems and cover practices that are important for CI.
 >
-> **[1:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=85)** We'll put it all into practice using the open source build system, Jenkins.
+> **[1:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=85)** We'll put it all into practice using the open source build system, [[Jenkins]].
 >
 > **[1:29](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=89)** - [Instructor] Next, we'll move right into handling artifacts, using Nexus for an artifact repository.
 >
-> **[1:34](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=94)** - [Instructor] We'll hit testing in four main areas, unit, integration, UI and security testing.
+> **[1:34](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=94)** - [Instructor] We'll hit testing in four main areas, unit, integration, UI and [[Security Testing]].
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980&t=101)** We try to stay away from specific Go testing details and concentrate on how to test your application, from the inside, from the outside and as a malicious user.
 >
@@ -524,19 +518,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), application (3), [[Version Control]] (3), web application (2), ci (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Version Control]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Java]] (1), [[Node.js]] (1)
 > **Speakers:** - [instructor] (5), - yeah (4), - but (2), - all (1), - over (1)
 > **CLI Commands:** ruby (1), node (1), cd (1), git (1)
 > **File Paths:** node.js (1)
 > **Tools:** github (1)
 > **Warnings:** caution (1)
 
-#### Version control practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980)
+#### [Version control practices](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=1)** - One of the key differences between operation staff and developers has been their use of version control.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=1)** - One of the key differences between operation staff and developers has been their use of [[Version Control]].
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=7)** For years, developers have used version control, but for operations organizations, that simply wasn't common practice.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=56)** You always use version control.
 >
-> **[0:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=59)** - In the first chapter of the continuous delivery book, one of the definitive resources on the topic, the authors remind us that it should be possible for a new team member to sit down at a brand new workstation, check out the projects revision control repository, and run a single command to build and deploy that application to any accessible environment, including their development workstation.
+> **[0:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=59)** - In the first chapter of the [[Continuous Delivery (CD)|continuous delivery]] book, one of the definitive resources on the topic, the authors remind us that it should be possible for a new team member to sit down at a brand new workstation, check out the projects revision control repository, and run a single command to build and deploy that application to any accessible environment, including their development workstation.
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=81)** - Yeah, with that goal in mind, everything really means everything, from install and setup scripts to run-time provisioning and deployment.
 >
@@ -588,7 +581,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=149)** - All right, let's move on to a more controversial topic, branches.
 >
-> **[2:33](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=153)** Yeah, I was once on a team that wanted to use branches, but our CTO asked someone to google Git branching strategies.
+> **[2:33](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=153)** Yeah, I was once on a team that wanted to use branches, but our CTO asked someone to [[Google]] [[Git]] branching strategies.
 >
 > **[2:40](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=160)** Okay, some 85,000 results showed up, and he used this to say that branching is confusing.
 >
@@ -598,7 +591,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=175)** - [Man 1] I use a master branch approach too.
 >
-> **[2:57](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=177)** The 2017 State of DevOps Report found that high performers have the shortest integration times and branch lifetimes, with branch life and integration typically lasting only hours.
+> **[2:57](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=177)** The 2017 State of [[DevOps]] Report found that high performers have the shortest integration times and branch lifetimes, with branch life and integration typically lasting only hours.
 >
 > **[3:09](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=189)** Low performers on the other hand had branches lasting for days, weeks, or even months.
 >
@@ -636,11 +629,11 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=306)** Make sure you have tests in place to detect any attempts to submit these, and alert your team if they do make it into your revision control system.
 >
-> **[5:13](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=313)** - All right, coming up, we're going to put all of these principles into practice using GitHub.
+> **[5:13](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-practices?u=76281980&t=313)** - All right, coming up, we're going to put all of these principles into practice using [[GitHub]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (11), [[Continuous Delivery (CD)|Continuous delivery]] (2), feature (2), next (2), [[Git]] (2)
+> **Frameworks & Libraries:** [[Version Control]] (11), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Git]] (2), [[Google]] (1), [[DevOps]] (1)
 > **Speakers:** - [man (13), - yeah (4), - in (3), - it (3), - this (2)
 > **CLI Commands:** make (5), git (2)
 > **Prerequisites:** install (1), setup (1), set up (1), make sure you have (1)
@@ -649,20 +642,19 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Tools:** github (1)
 
-#### Version control in action with Git
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980)
+#### [Version control in action with Git](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=0)** - [Lecturer] We spent some time talking about version control.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=0)** - [Lecturer] We spent some time talking about [[Version Control]].
 >
-> **[0:03](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=3)** So let's see it in action with a popular version control system Git with GitHub as our server.
+> **[0:03](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=3)** So let's see it in action with a popular version control system [[Git]] with [[GitHub]] as our server.
 >
-> **[0:08](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=8)** Now for developers coming in to CICD, this might be old hat, but my hope here is to show a common developer experience for those coming in to CICD and DevOps from infrastructure operations systems and other places in the organization.
+> **[0:08](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=8)** Now for developers coming in to CICD, this might be old hat, but my hope here is to show a common developer experience for those coming in to CICD and [[DevOps]] from infrastructure operations systems and other places in the organization.
 >
 > **[0:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=21)** For most of the demos in this course, I'll be working on a terminal on a Mac.
 >
-> **[0:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=25)** If you're on Windows, you can follow along using Bash on Ubuntu on windows.
+> **[0:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=25)** If you're on [[Windows]], you can follow along using Bash on [[Ubuntu]] on windows.
 >
 > **[0:30](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=30)** If you need more information on installing and using it, you can check out this website.
 >
@@ -674,7 +666,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=48)** So the first thing we're going to do is we're going to clone the repository to our local host.
 >
-> **[0:52](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=52)** So here at the command line, I'll type, git clone git@[github.com](https://github.com):wickett, my username, /word-cloud-generator.git.
+> **[0:52](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=52)** So here at the command line, I'll type, git clone git@[github.com](https://github.com):wickett, my username, /[[Microsoft Word|word]]-cloud-generator.git.
 >
 > **[1:03](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=63)** This brings down the entire repo on my local disc.
 >
@@ -812,7 +804,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=381)** I'll click on settings, webhooks, and you can see that I have one set up already.
 >
-> **[6:26](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=386)** Later, we'll use Jenkins, but here I've wired in CircleCI, which is a SAS based CI system.
+> **[6:26](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=386)** Later, we'll use [[Jenkins]], but here I've wired in CircleCI, which is a SAS based CI system.
 >
 > **[6:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=392)** What's great about this is that every commit, branch and pull request gets tested by CI and the status gets integrated into GitHub.
 >
@@ -828,11 +820,11 @@ created: 2026-05-02
 >
 > **[7:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=427)** If you're using an IDE to code, it'll perform most of these steps for you, but this is the UI for what we're doing under the covers.
 >
-> **[7:14](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=434)** Okay, next up, we'll dig into the continuous integration build systems themselves.
+> **[7:14](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/version-control-in-action-with-git?u=76281980&t=434)** Okay, next up, we'll dig into the [[Continuous Integration (CI)|continuous integration]] build systems themselves.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (25), [[GitHub]] (11), ci (4), [[Version Control]] (3), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Git]] (25), [[GitHub]] (11), [[Version Control]] (3), [[Windows]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** git (25), make (6), cat (2), cd (2), ssh (1)
 > **Tools:** github (11), command line (2), vim (2), terminal (1), bash (1)
 > **Env Vars:** readme (3), cicd (2), ssh (1), sas (1), ide (1)
@@ -841,18 +833,17 @@ created: 2026-05-02
 > **URLs:** [github.com](https://github.com) (3)
 > **Documentation:** the readme (3)
 
-#### Continuous integration systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980)
+#### [Continuous integration systems](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=1)** - Let's talk about continuous integration systems, and take a quick tour of options for CI.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=1)** - Let's talk about [[Continuous Integration (CI)|continuous integration]] systems, and take a quick tour of options for CI.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=6)** Now there are three main categories we want to look at.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=9)** Let's start with open source.
 >
-> **[0:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=11)** There are others like GoCD, but the defacto standard of open source for CI is Jenkins.
+> **[0:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=11)** There are others like GoCD, but the defacto standard of open source for CI is [[Jenkins]].
 >
 > **[0:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=17)** You download the software, host it yourself either on-prem or in the cloud.
 >
@@ -864,7 +855,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=37)** These popular offerings are a pay-per-use or pay-per-month CI solution.
 >
-> **[0:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=42)** Many of the popular ones, like CircleCI or Travis CI offer a free tier for public projects in GitHub or a single private repo.
+> **[0:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=42)** Many of the popular ones, like CircleCI or Travis CI offer a free tier for public projects in [[GitHub]] or a single private repo.
 >
 > **[0:50](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=50)** Which system you implement will depend on your project, budget, and your organizational appetite for risk.
 >
@@ -930,7 +921,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=199)** Now when setting up CI, we like to put messages about the build in our chat tools and our monitoring systems.
 >
-> **[3:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=205)** At work, a notification in our chat tool Slack is generated for CodeCommit, build start, build completion, deploy to stage, and deploy to prod.
+> **[3:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=205)** At work, a notification in our chat tool [[Slack]] is generated for CodeCommit, build start, build completion, deploy to stage, and deploy to prod.
 >
 > **[3:35](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-systems?u=76281980&t=215)** If code goes undeployed for more than an hour a notification is sent for that as well.
 >
@@ -946,7 +937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (13), [[Jenkins]] (4), teams (3), [[Continuous Integration (CI)|Continuous integration]] (2), next (2)
+> **Frameworks & Libraries:** [[Jenkins]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), [[GitHub]] (1), [[Slack]] (1)
 > **Env Vars:** sas (2), cis (1)
 > **Cross-References:** in the next (1), coming up (1)
 > **Tools:** github (1), slack (1)
@@ -955,20 +946,19 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Continuous integration in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980)
+#### [Continuous integration in action](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=0)** - [Instructor] Now let's take a look at what a CI system looks like in practice.
 >
-> **[0:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=4)** For that, we're going to use Jenkins.
+> **[0:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=4)** For that, we're going to use [[Jenkins]].
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=6)** Jenkins is a free open-source tool.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=9)** Like most free open source tools, It's a little rough around the edges, but it's very popular and has a lot of community support.
 >
-> **[0:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=16)** Also it's written in Java so it runs on any platform from Linux to Windows to Mac.
+> **[0:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=16)** Also it's written in [[Java]] so it runs on any platform from [[Linux]] to [[Windows]] to Mac.
 >
 > **[0:22](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=22)** For ease of use, I'm going to use the Jenkins Docker container that's publicly available on Docker Hub.
 >
@@ -976,7 +966,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=40)** I'll run through it but this information is also in the read me in the course files.
 >
-> **[0:48](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=48)** I'll be doing this at the Mac command line, but it should work identically on Linux or Bash and the Windows 10 anniversary update.
+> **[0:48](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=48)** I'll be doing this at the Mac command line, but it should work identically on Linux or Bash and the [[Windows 10]] anniversary update.
 >
 > **[0:55](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=55)** And honestly, it's only a little bit different on the Windows command line.
 >
@@ -1000,7 +990,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=114)** And then we're building this into a new container for us to use here.
 >
-> **[1:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=119)** Next, I'm going to run a Docker container using that image with this docker-compose file.
+> **[1:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=119)** Next, I'm going to run a Docker container using that image with this docker-[[Jetpack Compose|compose]] file.
 >
 > **[2:06](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=126)** A docker-compose file just describes a set of containers that you're going to run.
 >
@@ -1044,7 +1034,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=229)** If you're using our pre-configured Jenkins home directory, you can log in with username, admin and password, theagileadmin.
 >
-> **[3:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=239)** Now you can see that we already have a build in here, for Word Cloud Generator, the sample app that James showed to you earlier.
+> **[3:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=239)** Now you can see that we already have a build in here, for [[Microsoft Word|Word]] Cloud Generator, the sample app that James showed to you earlier.
 >
 > **[4:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=245)** We're going to go in and configure this build so that you can see the details.
 >
@@ -1052,7 +1042,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=257)** All right, our build is loaded.
 >
-> **[4:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=259)** So as you can see, I've set it up to look at GitHub at our Word Cloud generator, get repo here.
+> **[4:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=259)** So as you can see, I've set it up to look at [[GitHub]] at our Word Cloud generator, get repo here.
 >
 > **[4:27](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=267)** I've set up a build trigger so that every 15 minutes it's going to go pull that repository and see if there are any changes.
 >
@@ -1150,7 +1140,7 @@ created: 2026-05-02
 >
 > **[8:36](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=516)** We're going to go in and look at the console output to see exactly what the build did.
 >
-> **[8:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=521)** So as you can see here, initially the build checks out our source code from Git.
+> **[8:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=521)** So as you can see here, initially the build checks out our source code from [[Git]].
 >
 > **[8:49](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=529)** Then it builds and tests it.
 >
@@ -1158,7 +1148,7 @@ created: 2026-05-02
 >
 > **[8:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=539)** From here, you can add more and more complexity as you need it.
 >
-> **[9:02](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=542)** For example, you could add a plugin to notify your Slack chat about build breaks.
+> **[9:02](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=542)** For example, you could add a plugin to notify your [[Slack]] chat about build breaks.
 >
 > **[9:08](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-integration-in-action?u=76281980&t=548)** Once you're comfortable with how Jenkins works, you can start to use the Jenkins pipeline feature that lets you define your builds as code instead of clicking around in a UI.
 >
@@ -1184,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (22), [[Jetpack Compose|Compose]] (9), [[Windows]] (3), next (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Jenkins]] (22), [[Jetpack Compose|Compose]] (9), [[Windows]] (3), [[Java]] (2), [[Linux]] (2)
 > **CLI Commands:** docker (21), make (4), find (1), unzip (1), git (1)
 > **Prerequisites:** install (5), configure (4), set up (2)
 > **Tools:** command line (2), bash (1), github (1), slack (1)
@@ -1193,8 +1183,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2), defined as (1)
 
-#### Building artifacts
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980)
+#### [Building artifacts](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1202,7 +1191,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=7)** If you make packaged software or use a compiled language, then you just assume you're building artifacts.
 >
-> **[0:13](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=13)** But if you're one of those kids nowadays with a Python or PHP-based website, you might wonder what's wrong with just Git pulling your code to your production server.
+> **[0:13](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=13)** But if you're one of those kids nowadays with a [[Python (Programming Language)|Python]] or [[PHP]]-based website, you might wonder what's wrong with just [[Git]] pulling your code to your production server.
 >
 > **[0:23](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=23)** Building and distributing your code as packaged artifacts provides reliability, composability, security, and shareability.
 >
@@ -1218,15 +1207,15 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=88)** Also, most apps nowadays are composed of more than one piece.
 >
-> **[1:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=92)** Packaging can provide dependency management between your code and its dependencies and between it and other pieces of software.
+> **[1:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=92)** Packaging can provide [[Dependency Management]] between your code and its dependencies and between it and other pieces of software.
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=101)** This is a good reason to use a common packaging format that supports dependency definition like debs or RPMs.
 >
 > **[1:48](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=108)** In many cases, you don't just have one kind of technology, so consider wrapping up different technologies in a common packaging format.
 >
-> **[1:57](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=117)** For example, at work, we package our Java JARs, puppet code, rules files, infrastructure definitions, et cetera, all into Debian packages so that we can manage them in the same way and define version dependencies among both them and the third party packages we consume as part of our built systems.
+> **[1:57](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=117)** For example, at work, we package our [[Java]] JARs, puppet code, rules files, infrastructure definitions, et cetera, all into Debian packages so that we can manage them in the same way and define version dependencies among both them and the third party packages we consume as part of our built systems.
 >
-> **[2:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=137)** In some cases, we publish internally to a native format like a Python package repo or NPM repo for Node apps as that's easier for other developers to natively reuse in their code, but we do a final packaging to debs before deployment to a server.
+> **[2:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=137)** In some cases, we publish internally to a native format like a Python package repo or [[npm]] repo for Node apps as that's easier for other developers to natively reuse in their code, but we do a final packaging to debs before deployment to a server.
 >
 > **[2:34](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=154)** You can also have multiple layers of artifacting.
 >
@@ -1266,11 +1255,11 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=304)** Luckily, setting up an artifact repository is super easy and there's free open source ones we can use to get started.
 >
-> **[5:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=310)** In our next video, we'll use a Nexus artifact repository to publish our sample application out of Jenkins.
+> **[5:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/building-artifacts?u=76281980&t=310)** In our next video, we'll use a Nexus artifact repository to publish our sample application out of [[Jenkins]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (3), [[Python (Programming Language)|Python]] (2), [[Security]] (2), application (2), teams (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[PHP]] (1), [[Git]] (1), [[Dependency Management]] (1), [[Java]] (1)
 > **CLI Commands:** python (2), make (1), php (1), git (1), cd (1)
 > **Env Vars:** php (1), npm (1)
 > **Exercise Files:** source code (2)
@@ -1279,8 +1268,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 
-#### Artifact repositories in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980)
+#### [Artifact repositories in action](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1302,7 +1290,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=46)** I like being able to store a variety of artifacts in one place though.
 >
-> **[0:52](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=52)** Let's start our build system up again by running it's Docker compose file.
+> **[0:52](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=52)** Let's start our build system up again by running it's Docker [[Jetpack Compose|compose]] file.
 >
 > **[0:58](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=58)** So here you can see that I also have a Nexus container that's being started as part of it.
 >
@@ -1314,7 +1302,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=89)** You can always run Docker compose logs to make sure something's still happening.
 >
-> **[1:37](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=97)** Here we'll run Docker compose logs and you can see that there are messages still coming through from first Jenkins and then Nexus as they start.
+> **[1:37](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=97)** Here we'll run Docker compose logs and you can see that there are messages still coming through from first [[Jenkins]] and then Nexus as they start.
 >
 > **[1:46](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=106)** In fact we're going to cheat a little bit and put you on pause until Nexus becomes available.
 >
@@ -1326,7 +1314,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=131)** So we're going to go log in with our same username and password we're using for everything.
 >
-> **[2:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=137)** Username admin, password the agile admin.
+> **[2:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=137)** Username admin, password the [[Agile Development|agile]] admin.
 >
 > **[2:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=145)** And we're into Nexus.
 >
@@ -1336,7 +1324,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=154)** Component is an installerable unit that can consist of one or more assets, files in other words.
 >
-> **[2:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=161)** Here you can see we have an asset group for our class called CD class and a component called word cloud generator.
+> **[2:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=161)** Here you can see we have an asset group for our class called CD class and a component called [[Microsoft Word|word]] cloud generator.
 >
 > **[2:50](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/artifact-repositories-in-action?u=76281980&t=170)** If we look in there, if you ran the word cloud generator in the previous lab, you can see that we have our compiled application file and MD5 and SHA1 hashes to validate the file's integrity.
 >
@@ -1470,7 +1458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), cloud (8), [[Jetpack Compose|Compose]] (4), [[Jenkins]] (4), [[Agile Development|Agile]] (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Jetpack Compose|Compose]] (4), [[Jenkins]] (4), [[Agile Development|Agile]] (3)
 > **CLI Commands:** docker (5), make (5), find (3), curl (2), apache (1)
 > **Env Vars:** md5 (2), api (2), sha1 (1), url (1), yolo (1)
 > **Definitions:** is a  (3), is an  (2), in other words (1)
@@ -1479,12 +1467,11 @@ created: 2026-05-02
 > **Ports:** port 8081 (2), port 8888 (1)
 > **Cross-References:** as you saw (1), go back to (1)
 
-#### Testing and continuous delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980)
+#### [Testing and continuous delivery](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=0)** - Do you want to know the trick to continuous integration and continuous delivery?
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=0)** - Do you want to know the trick to [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]]?
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=4)** - I do.
 >
@@ -1516,23 +1503,23 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=54)** Each kind of testing has many variations and tools you can use to perform it.
 >
-> **[0:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=59)** We'll have separate videos about unit, integration, UI, and security testing that go into more depth and demos for each of them.
+> **[0:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=59)** We'll have separate videos about unit, integration, UI, and [[Security Testing]] that go into more depth and demos for each of them.
 >
-> **[1:08](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=68)** - [James] But in short, unit testing is performed at build time on a single unit of code and or artifact without the use of external dependencies or deployment.
+> **[1:08](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=68)** - [James] But in short, [[Unit Testing]] is performed at build time on a single unit of code and or artifact without the use of external dependencies or deployment.
 >
-> **[1:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=77)** You unit test a module or a library using something like JUnit, XUnit, Rspec.
+> **[1:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=77)** You unit test a module or a library using something like [[JUnit]], XUnit, Rspec.
 >
 > **[1:22](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=82)** Those are some of the tools you'd probably use for this.
 >
-> **[1:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=85)** - [Ernest] Integration testing is performed as you bring together pieces of your application, and as it needs to use external dependencies like databases to actually do its thing.
+> **[1:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=85)** - [Ernest] [[Integration Testing]] is performed as you bring together pieces of your application, and as it needs to use external dependencies like [[Databases]] to actually do its thing.
 >
 > **[1:35](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=95)** You integration test a full application or an API or a running server.
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=101)** For this you might use RAML test runner or Serverspec.
 >
-> **[1:46](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=106)** - [James] End-to-end testing, often implemented as UI testing, is when you test more of your application in a way that the end user actually uses it.
+> **[1:46](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=106)** - [James] [[End-to-end Testing]], often implemented as UI testing, is when you test more of your application in a way that the end user actually uses it.
 >
-> **[1:53](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=113)** This kind of testing might be done with things like Selenium or Protractor.
+> **[1:53](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=113)** This kind of testing might be done with things like [[Selenium]] or Protractor.
 >
 > **[1:58](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=118)** - [Ernest] And of course, security testing looks for flaws in your code and the runtime to prevent compromises and leaking of data in production.
 >
@@ -1556,7 +1543,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=191)** A dataset you load into the database before you run the tests is a test fixture.
 >
-> **[3:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=197)** So is Linux server with a known configuration for your app to operate on if it needs one.
+> **[3:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=197)** So is [[Linux]] server with a known configuration for your app to operate on if it needs one.
 >
 > **[3:23](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-and-continuous-delivery?u=76281980&t=203)** Test fixtures are artifacts and should be built and managed like artifacts.
 >
@@ -1586,15 +1573,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[Security]] (2), [[Unit Testing]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (2), [[Security Testing]] (2), [[Unit Testing]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[JUnit]] (1)
 > **Speakers:** - [ernest] (7), - there (3), - [james] (3), - yeah (2), - okay (2)
 > **Env Vars:** sut (2), api (1), raml (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), rails (1)
 > **Cross-References:** next video (1)
 
-#### Testing philosophy
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980)
+#### [Testing philosophy](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1604,7 +1590,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=7)** - Here's a quick rundown of some of the approaches to testing people have found helpful.
 >
-> **[0:12](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=12)** - TDD, or test-driven development, is the practice of writing a failing test first, then writing the code that causes the test to pass, and then refactoring to make it cleaner.
+> **[0:12](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=12)** - TDD, or [[Test-Driven Development]], is the practice of writing a failing test first, then writing the code that causes the test to pass, and then refactoring to make it cleaner.
 >
 > **[0:23](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=23)** This has the benefit of always writing a test and of thinking about what your code should do before just jumping right into it.
 >
@@ -1616,7 +1602,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=50)** - ATDD, or acceptance test driven development, extends this to where the project team decides on a set of BDD acceptance tests before development even begins.
 >
-> **[1:03](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=63)** - Each of these has its pros and cons, but all have proven to have strong advantages in making continuous delivery work.
+> **[1:03](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=63)** - Each of these has its pros and cons, but all have proven to have strong advantages in making [[Continuous Delivery (CD)|continuous delivery]] work.
 >
 > **[1:09](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=69)** - But what of all this stuff do you need to do?
 >
@@ -1640,7 +1626,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=127)** So just adding on as much testing as you can isn't always the answer.
 >
-> **[2:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=131)** - That's right, at Google they're testing experts recommend a 70, 20, 10% split between unit, integration, and end-to-end testing, because the latter is slower and happen later in the process.
+> **[2:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=131)** - That's right, at [[Google]] they're testing experts recommend a 70, 20, 10% split between unit, integration, and [[End-to-end Testing]], because the latter is slower and happen later in the process.
 >
 > **[2:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/testing-philosophy?u=76281980&t=145)** Also smaller tests are less complex and unreliable themselves, and more modular tests are more easily maintained in the face of code change.
 >
@@ -1650,27 +1636,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), business (1), [[Google]] (1), [[End-to-end Testing]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Google]] (1), [[End-to-end Testing]] (1)
 > **Speakers:** - here (1), - tdd (1), - all (1), - atdd (1), - each (1)
 > **Env Vars:** tdd (2), bdd (2), atdd (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** known as (1)
 
-#### Unit testing in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980)
+#### [Unit testing in action](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=0)** - [Instructor] With good Unit Testing practices, a safety net is built up around your code.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=0)** - [Instructor] With good [[Unit Testing]] practices, a safety net is built up around your code.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=5)** Unit Tests build confidence in the development team to be able to deliver faster.
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=10)** For reminder, you can find the code for our sample application at [github.com/wicked/word-cloud-generator](https://github.com/wicked/word-cloud-generator).
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=10)** For reminder, you can find the code for our sample application at [[[GitHub]].com/wicked/[[Microsoft Word|word]]-cloud-generator](https://github.com/wicked/word-cloud-generator).
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=19)** Now, I know everyone watching is not a developer and even fewer people are Go Developers but the approaches we discuss here can be taken for almost any language or framework out there today.
 >
-> **[0:31](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=31)** Actually, in the DevOps Foundation's infrastructure automation course here in the library, we even show how Unit Testing can work for infrastructure.
+> **[0:31](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=31)** Actually, in the [[DevOps]] Foundation's infrastructure automation course here in the library, we even show how Unit Testing can work for infrastructure.
 >
 > **[0:40](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=40)** Let's look at our application.
 >
@@ -1680,7 +1665,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=49)** Our Word Cloud Generator takes a string of words and counts the number of occurrences of each word.
 >
-> **[0:54](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=54)** It returns this as Json and the JavaScript renders this into a nice little Word Cloud.
+> **[0:54](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=54)** It returns this as [[JSON]] and the [[JavaScript]] renders this into a nice little Word Cloud.
 >
 > **[1:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=60)** Well, one thing I want to do is write a test to make sure that if I pass a string filled with the same word, I get an accurate count.
 >
@@ -1748,7 +1733,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=231)** So anytime there's changes, it can automatically run this and pick this up.
 >
-> **[3:56](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=236)** Since Unit Test was so fast to run, we recommend adding them to your Git pre-commit hooks and run them alongside your linters and formatters.
+> **[3:56](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=236)** Since Unit Test was so fast to run, we recommend adding them to your [[Git]] pre-commit hooks and run them alongside your linters and formatters.
 >
 > **[4:03](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/unit-testing-in-action?u=76281980&t=243)** No matter what language you're using, there's a Unit Testing framework for it and it's really worth time as a team to come up with goals for test coverage and spend time each sprint or development cycle keeping aligned to those goals.
 >
@@ -1758,7 +1743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Unit Testing]] (4), cloud (3), next (3), application (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Unit Testing]] (4), [[JSON]] (2), [[GitHub]] (1), [[DevOps]] (1)
 > **CLI Commands:** make (7), find (1), git (1), cd (1)
 > **File Paths:** wordyapi./api.go (1), api_test.go (1)
 > **Definitions:** is a  (2)
@@ -1767,12 +1752,11 @@ created: 2026-05-02
 > **URLs:** [github.com](https://github.com) (1)
 > **Tools:** github (1)
 
-#### Application deploy and release
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980)
+#### [Application deploy and release](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=1)** - Once you've built and tested an artifact, the next thing you need is self-service deployment of that artifact to a working system so that you can run more tests.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=1)** - Once you've built and tested an artifact, the next thing you need is self-[[Service Deployment]] of that artifact to a working system so that you can run more tests.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=10)** Once you have a self-service deployment, then making it continuous, in other words, automatically promoted, is purely a policy decision to hook one stage to another instead of pushing a button.
 >
@@ -1796,7 +1780,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=76)** At work, we have one build that gets targeted to a lot of platforms.
 >
-> **[1:20](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=80)** We make AWS AMIs, VMware images, Hyper-V and Azure images, and so on.
+> **[1:20](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=80)** We make AWS AMIs, VMware images, Hyper-V and [[Microsoft Azure|Azure]] images, and so on.
 >
 > **[1:26](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=86)** We bring the software up on our build server to run the integration tests.
 >
@@ -1814,7 +1798,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=133)** There's a couple other tricks to continuous deployment.
 >
-> **[2:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=136)** The first is to deploy small batches, of course, the same as with continuous integration.
+> **[2:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=136)** The first is to deploy small batches, of course, the same as with [[Continuous Integration (CI)|continuous integration]].
 >
 > **[2:22](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=142)** Smaller batches mean less change.
 >
@@ -1866,11 +1850,11 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=303)** You have your basic SSH tunneling pulled directly out of your source control tools like Capistrano.
 >
-> **[5:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=310)** This is old but still used a lot, even though exposing your version control system to your production environment is a little questionable.
+> **[5:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=310)** This is old but still used a lot, even though exposing your [[Version Control]] system to your production environment is a little questionable.
 >
 > **[5:18](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=318)** If you're packaging your apps as OS packages, using a CM tool like Chef or Puppet is popular.
 >
-> **[5:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=325)** But if you want more control, you might use orchestration system like Rundeck or Ansible, or you can just build deployment into your build system.
+> **[5:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=325)** But if you want more control, you might use orchestration system like Rundeck or [[Ansible]], or you can just build deployment into your build system.
 >
 > **[5:35](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=335)** Or if you're using Docker or serverless technologies, there are ways to do it for those that are totally different.
 >
@@ -1886,7 +1870,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=360)** People do this a lot because most of the options I mentioned have terrible visibility in dashboarding around releases.
 >
-> **[6:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=367)** In my shop, I use our build system Bamboo to perform deployments for one of our products.
+> **[6:07](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=367)** In my shop, I use our build system Bamboo to perform deployments for one of our [[Microsoft Products|products]].
 >
 > **[6:13](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/application-deploy-and-release?u=76281980&t=373)** Having the deployments the same UI as the build's is compelling, and my deployments end up just exercising Amazon Cloud APIs so it fits our use case.
 >
@@ -1898,7 +1882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Service Deployment]] (2), product (2), database (2)
+> **Frameworks & Libraries:** [[Service Deployment]] (2), [[Microsoft Azure|Azure]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Version Control]] (1), [[Ansible]] (1)
 > **CLI Commands:** make (4), aws (1), ssh (1), ansible (1), docker (1)
 > **Env Vars:** aws (1), api (1), ssh (1)
 > **Definitions:** in other words (1), is an  (1), is a  (1)
@@ -1907,32 +1891,31 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - once (1)
 
-#### Deployment in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980)
+#### [Deployment in action](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=0)** - [Instructor] All right, let's add some deployment to our build pipeline.
 >
-> **[0:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=4)** Deployment is probably the most variable part of the build pipeline, but we're going to show a deploy using Ansible just to have something to hang our hat on.
+> **[0:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=4)** Deployment is probably the most variable part of the build pipeline, but we're going to show a deploy using [[Ansible]] just to have something to hang our hat on.
 >
 > **[0:14](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=14)** Ansible is a free open source automation tool that can be used to set up and apply changes to your systems.
 >
 > **[0:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=21)** You can learn it from courses right here in the library or plunge into the copious documentation.
 >
-> **[0:27](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=27)** Let's go back into our course files and the Docker Compose setup that we're using.
+> **[0:27](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=27)** Let's go back into our course files and the Docker [[Jetpack Compose|Compose]] setup that we're using.
 >
 > **[0:33](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=33)** Here I've set up a test_fixture Docker container.
 >
-> **[0:36](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=36)** It's a Ubuntu 20 container with SSH installed and configured in the Docker file.
+> **[0:36](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=36)** It's a [[Ubuntu]] 20 container with SSH installed and configured in the Docker file.
 >
 > **[0:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=42)** Usually wouldn't you run SSH in a Docker container, but we're specifically using it here to emulate a running remote system for testing purposes, so it's crucial.
 >
-> **[0:53](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=53)** You could of course do this with virtual machines, or Amazon instances, or real remote machines, but these little containers are fast, configurable, and perfect for our demo environment.
+> **[0:53](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=53)** You could of course do this with [[Virtual Machines]], or Amazon instances, or real remote machines, but these little containers are fast, configurable, and perfect for our demo environment.
 >
 > **[1:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=65)** So back to our Docker Compose File.
 >
-> **[1:08](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=68)** When we run Docker compose up, we get our Jenkins container, the Nexus container, and our test fixture container with a bunch of preloaded files, all able to talk to one another.
+> **[1:08](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=68)** When we run Docker compose up, we get our [[Jenkins]] container, the Nexus container, and our test fixture container with a bunch of preloaded files, all able to talk to one another.
 >
 > **[1:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=79)** The Ansible playbooks to deploy this app are going to be executed right out of our Jenkins CII system.
 >
@@ -1956,7 +1939,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=149)** These are written in YAML and they follow a specific structure.
 >
-> **[2:33](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=153)** Here in my top level app.yml I define one role called word-cloud-generator.
+> **[2:33](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=153)** Here in my top level app.yml I define one role called [[Microsoft Word|word]]-cloud-generator.
 >
 > **[2:39](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=159)** You can define an install and operate a whole system of many parts in a playbook, but this is a minimum functional set for our demo.
 >
@@ -1986,7 +1969,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=268)** So let's run a deploy and make the magic happen.
 >
-> **[4:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=272)** As in the previous slabs, we'll go to our adult running Docker compose stack, and log into Jenkins on port 8080 with username admin and password, the agile admin.
+> **[4:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=272)** As in the previous slabs, we'll go to our adult running Docker compose stack, and log into Jenkins on port 8080 with username admin and password, the [[Agile Development|agile]] admin.
 >
 > **[4:48](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=288)** Now let's look at our Jenkins Deployment Build, word-cloud-generator-deploy lets view its configuration.
 >
@@ -2024,7 +2007,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=431)** So let's go reload our version end point and Voila! are rolled back to version 1.1 That's getting the job done using Ansible, but there are many options for how to run deployments.
 >
-> **[7:23](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=443)** In the DevOps fundamentals infrastructure as code course here in the library.
+> **[7:23](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=443)** In the [[DevOps]] fundamentals [[Infrastructure as code (IaC)|infrastructure as code]] course here in the library.
 >
 > **[7:28](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=448)** We go over orchestration, tooling and approaches in depth.
 >
@@ -2034,7 +2017,7 @@ created: 2026-05-02
 >
 > **[7:53](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=473)** Over the next few videos, we'll run our full integration and UI test suites on this deployment as well.
 >
-> **[8:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=480)** And that's a super basic deployment strategy that shows how you can have a decoupled deployment that consumes your artifact from your Artifact Repo with no necessary dependency on your version control system or build system.
+> **[8:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=480)** And that's a super basic deployment strategy that shows how you can have a decoupled deployment that consumes your artifact from your Artifact Repo with no necessary dependency on your [[Version Control]] system or build system.
 >
 > **[8:13](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/deployment-in-action?u=76281980&t=493)** For best results and to pass security and compliance checks, you want your build system to pull from your source control and drop an artifact into your artifact repository.
 >
@@ -2046,7 +2029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (10), [[Jenkins]] (9), [[Jetpack Compose|Compose]] (4), [[Microsoft Word|Word]] (3), cloud (3)
+> **Frameworks & Libraries:** [[Ansible]] (10), [[Jenkins]] (9), [[Jetpack Compose|Compose]] (4), [[Microsoft Word|Word]] (3), [[Ubuntu]] (2)
 > **CLI Commands:** ansible (10), docker (8), make (8), ssh (4), cd (2)
 > **Prerequisites:** set up (3), install (2), setup (1)
 > **Env Vars:** ssh (3), cii (1), yaml (1)
@@ -2055,18 +2038,17 @@ created: 2026-05-02
 > **File Paths:** app.yml (1), tasks.yml (1)
 > **Ports:** port 8080 (1), port 8888 (1)
 
-#### Integration testing in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980)
+#### [Integration testing in action](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=0)** - [Instructor] Now that we have a deployed app, let's talk integration testing.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=0)** - [Instructor] Now that we have a deployed app, let's talk [[Integration Testing]].
 >
-> **[0:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=4)** While unit testing just operates on the application code integration testing is any kind of testing you do on the assembled program, or anything that exercises the dependencies, such as the database, the network, the file system, the web server, anything like that.
+> **[0:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=4)** While [[Unit Testing]] just operates on the application code integration testing is any kind of testing you do on the assembled program, or anything that exercises the dependencies, such as the database, the network, the file system, the web server, anything like that.
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=19)** Depending on the kind of application, this could just be exercising it at the command line, or exercising its API, often you'll have layers of integration testing as you assemble more parts together.
 >
-> **[0:31](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=31)** Let's take a look at our sample application, the word cloud generator.
+> **[0:31](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=31)** Let's take a look at our sample application, the [[Microsoft Word|word]] cloud generator.
 >
 > **[0:35](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=35)** I'm going to start it up here with a make run and it's set up to serve on port 8888.
 >
@@ -2078,7 +2060,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=55)** Once I submit that, I get my word cloud.
 >
-> **[0:57](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=57)** Now, since the front end of the application is just calling a rest API, we can mimic this test on the command line without using a browser.
+> **[0:57](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=57)** Now, since the front end of the application is just calling a [[Representational State Transfer (REST)|rest]] API, we can mimic this test on the command line without using a browser.
 >
 > **[1:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=65)** On the command line, I'm going to use curl to send in my text to the API.
 >
@@ -2088,7 +2070,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=78)** When I hit Enter here, I get my results back from curl.
 >
-> **[1:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=81)** Now that I have my return JSON, it matches and it looks good, it has the number of occurrences correctly put for each word in the sentence.
+> **[1:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=81)** Now that I have my return [[JSON]], it matches and it looks good, it has the number of occurrences correctly put for each word in the sentence.
 >
 > **[1:30](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/integration-testing-in-action?u=76281980&t=90)** This is great, however, it still means I have to run something on the command line, and I still have to start on my application.
 >
@@ -2132,7 +2114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Integration Testing]] (7), [[Microsoft Word|Word]] (5), api (3), cloud (3)
+> **Frameworks & Libraries:** [[Integration Testing]] (7), [[Microsoft Word|Word]] (5), [[JSON]] (2), [[Unit Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (5), api (3), json (2), test (1)
 > **CLI Commands:** make (3), curl (3), find (1)
 > **Tools:** command line (5), vim (1)
@@ -2141,16 +2123,15 @@ created: 2026-05-02
 > **File Paths:** main_tests.go (1)
 > **Code Identifiers:** main_tests (1)
 
-#### UI testing in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980)
+#### [UI testing in action](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=0)** - [Instructor] Well, we've done our unit and integration testing, so now let's test our UI.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=0)** - [Instructor] Well, we've done our unit and [[Integration Testing]], so now let's test our UI.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=5)** UI testing has its advantages and disadvantages.
 >
-> **[0:08](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=8)** On the one hand, it totally simulates the user experience using a UI application.
+> **[0:08](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=8)** On the one hand, it totally simulates the [[User Experience (UX)|user experience]] using a UI application.
 >
 > **[0:14](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=14)** Levels of testing below it aren't complete.
 >
@@ -2172,7 +2153,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=71)** Nothing artificial here, it should be a pretty accurate look at what the app behaves like after it's fully built and deployed onto a system by our CI/CD pipeline.
 >
-> **[1:22](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=82)** There are a bunch of UI testing frameworks, but one of the most popular for web UIs is called Selenium, specifically the component called WebDriver.
+> **[1:22](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=82)** There are a bunch of UI testing frameworks, but one of the most popular for web UIs is called [[Selenium]], specifically the component called WebDriver.
 >
 > **[1:31](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=91)** You use it to driver a browser, and then you write a bunch of code to do the actual work.
 >
@@ -2186,7 +2167,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=119)** It also supports the PageObject pattern, which is important for maintainability.
 >
-> **[2:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=124)** What this pattern means is that you define the specific HTML pages and elements of your application in an encapsulated resource model.
+> **[2:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=124)** What this pattern means is that you define the specific [[HTML]] pages and elements of your application in an encapsulated resource model.
 >
 > **[2:13](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=133)** And then your test code just refers to that model so that if you change the login button, for example, instead of having to go find the specific way you've referred to that button in a hundred different tests, there's one canonical place to go change it.
 >
@@ -2200,7 +2181,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=162)** So, let's first go look at a robot test definition and run it locally.
 >
-> **[2:47](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=167)** You should just need Python 3 and the Chrome browser installed to do this yourself.
+> **[2:47](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=167)** You should just need [[Python (Programming Language)|Python]] 3 and the Chrome browser installed to do this yourself.
 >
 > **[2:52](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=172)** In our source bundles robot-tests directory, we have a Python virtual environment already installed, which contains Robot Framework and the SeleniumLibrary.
 >
@@ -2210,7 +2191,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=196)** Now you'll need to install a browser driver.
 >
-> **[3:18](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=198)** While the rest of this lab is portable across systems, so we've provided in the course files, those drivers are specific.
+> **[3:18](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=198)** While the [[Representational State Transfer (REST)|rest]] of this lab is portable across systems, so we've provided in the course files, those drivers are specific.
 >
 > **[3:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=205)** Luckily there's a Python utility that I've pre-installed that will download the right one for you called webdrivermanager.
 >
@@ -2232,7 +2213,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=256)** It's something you can let product managers or other semi-technical folks write tests in.
 >
-> **[4:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=261)** This word cloud test is going to open the homepage, enter text for a word cloud, submit it, and make sure that it's got a representative word in the response.
+> **[4:21](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=261)** This [[Microsoft Word|word]] cloud test is going to open the homepage, enter text for a word cloud, submit it, and make sure that it's got a representative word in the response.
 >
 > **[4:33](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=273)** The version end point test will do the same thing, just looking for the string version and the version end point.
 >
@@ -2256,7 +2237,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=326)** You can stick this into a Docker container using something like Xvfb to run headless and add it to your build.
 >
-> **[5:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=332)** We do this at my place of work where I've written a wrapper to handle parallel runs, running cross browser tests using Sauce Labs' SaaS service, do system under test set up and tear down and more.
+> **[5:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=332)** We do this at my place of work where I've written a wrapper to handle parallel runs, running cross browser tests using Sauce Labs' [[SaaS]] service, do system under test set up and tear down and more.
 >
 > **[5:46](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ui-testing-in-action?u=76281980&t=346)** One last brain teaser.
 >
@@ -2274,7 +2255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), application (3), [[Python (Programming Language)|Python]] (3), cloud (3), ci (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (3), [[Integration Testing]] (1), [[User Experience (UX)|User experience]] (1), [[Selenium]] (1)
 > **CLI Commands:** python (3), make (3), find (2), cd (1), ruby (1)
 > **Prerequisites:** install (2), you'll need (1), setup (1), set up (1)
 > **UI Navigation:** open the (2), go to (1)
@@ -2283,12 +2264,11 @@ created: 2026-05-02
 > **Tools:** command line (2)
 > **Analogies:** for example (1), just like (1)
 
-#### Security testing in action with Gauntlt
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980)
+#### [Security testing in action with Gauntlt](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=0)** - [Instructor] Let's talk about a really fun part of continuous delivery, security testing.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=0)** - [Instructor] Let's talk about a really fun part of [[Continuous Delivery (CD)|continuous delivery]], [[Security Testing]].
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=4)** I love this topic, but it's often overlooked.
 >
@@ -2306,7 +2286,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=46)** In dynamic testing, you don't really assert anything other than statements like this form should not contain cross-site scripting or Inmap, it should find no extra open ports.
 >
-> **[0:56](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=56)** Because you are testing actual payloads and actual security attack tools, you're asserting not just what you expect as you do in unit testing, but you assert that the tool itself should not find any problems, which in the end is actually pretty cool.
+> **[0:56](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=56)** Because you are testing actual payloads and actual security attack tools, you're asserting not just what you expect as you do in [[Unit Testing]], but you assert that the tool itself should not find any problems, which in the end is actually pretty cool.
 >
 > **[1:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=71)** Dynamic testing is a good collaboration opportunity between a group of developers and security engineers and operations.
 >
@@ -2348,13 +2328,13 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=148)** For this demo, we're going to simplify it and use Gauntlt running in a Docker container.
 >
-> **[2:33](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=153)** Let's head over to [github.com/gauntlt/gauntlt-docker](https://github.com/gauntlt/gauntlt-docker).
+> **[2:33](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=153)** Let's head over to [[[GitHub]].com/gauntlt/gauntlt-docker](https://github.com/gauntlt/gauntlt-docker).
 >
 > **[2:38](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=158)** This gives you everything you need to get started and includes the attack tool, Arachni.
 >
 > **[2:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=162)** You want to clone the repo, do a make build, and a make install, and make sure it's set up in your path to get it working.
 >
-> **[2:50](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=170)** I'm moving over to my word cloud generator application, and I'm heading to the Gauntlt directory, and I'm going to look at the cross-site scripting attack.
+> **[2:50](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=170)** I'm moving over to my [[Microsoft Word|word]] cloud generator application, and I'm heading to the Gauntlt directory, and I'm going to look at the cross-site scripting attack.
 >
 > **[2:59](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=179)** In this attack file, we're testing for cross-site scripting by harnessing and attack tool, in this case, Arachni.
 >
@@ -2362,7 +2342,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=192)** Now this lets Docker connect to my local host.
 >
-> **[3:15](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=195)** If you're on Windows, you would just change the Mac to Win.
+> **[3:15](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=195)** If you're on [[Windows]], you would just change the Mac to Win.
 >
 > **[3:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=199)** As you'll notice this scenario follows the same given, then when and then, saying that at the end, we should have zero issues detected.
 >
@@ -2386,11 +2366,11 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=256)** Okay, now let's turn our attention to static testing.
 >
-> **[4:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=259)** Let's take a look at retire.js which looks at all the versions of JavaScript libraries that you're using and checks to see if it has any vulnerabilities.
+> **[4:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=259)** Let's take a look at retire.js which looks at all the versions of [[JavaScript]] libraries that you're using and checks to see if it has any vulnerabilities.
 >
 > **[4:28](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=268)** Let me clear my screen here.
 >
-> **[4:31](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=271)** So all you have to do to get retire running is use NPM to install it.
+> **[4:31](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=271)** So all you have to do to get retire running is use [[npm]] to install it.
 >
 > **[4:34](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/security-testing-in-action-with-gauntlt?u=76281980&t=274)** I already have Retire installed, but I would like to load in a vulnerable jQuery library than old version that is going to trigger some of the retire.js alerts and checks.
 >
@@ -2416,7 +2396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), application (5), [[Scripting]] (4), ci (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Security Testing]] (5), [[Microsoft Word|Word]] (2), [[JavaScript]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Unit Testing]] (1)
 > **CLI Commands:** docker (5), make (4), find (2), npm (1)
 > **Env Vars:** sast (1), dast (1), rasp (1), xss (1), npm (1)
 > **Prerequisites:** install (2), setup (1), getting started (1), set up (1)
@@ -2430,12 +2410,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CI/CD best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980)
+#### [CI/CD best practices](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=1)** - All right, now you've seen a sample pipeline, and we've talked about best practices: keep everything in version control, use artifacts, minimize branching, commit frequently, shift testing left, and so on.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=1)** - All right, now you've seen a sample pipeline, and we've talked about best practices: keep everything in [[Version Control]], use artifacts, minimize branching, commit frequently, shift testing left, and so on.
 >
 > **[0:13](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=13)** - But there's some best practices for your overall pipeline you should keep in mind.
 >
@@ -2469,7 +2448,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=92)** - [Man On Right] Of course, good testing discipline facilitates success.
 >
-> **[1:36](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=96)** High quality testing, automated testing is crucial to continuous delivery.
+> **[1:36](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=96)** High quality testing, automated testing is crucial to [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[1:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=102)** - [Man On Left] All right, developers should always run the tests locally before check-in, or have a branch that builds and runs them before merging into master.
 >
@@ -2505,7 +2484,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=190)** Make component builds and test runs parallel, tune timeouts, and build system parameters.
 >
-> **[3:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=197)** - [Man On Left] Remember the 70% unit testing, 20% integration testing, and 10% end-to-end testing rule from our Testing Philosophy video.
+> **[3:17](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=197)** - [Man On Left] Remember the 70% [[Unit Testing]], 20% [[Integration Testing]], and 10% [[End-to-end Testing]] rule from our Testing Philosophy video.
 >
 > **[3:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980&t=205)** This flow where the build, test, and deploy is, not only does it affect your cycle time, but it becomes hard for the developers to pay proper attention to the build.
 >
@@ -2529,7 +2508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Automation]] (2), [[Version Control]] (1), ci (1), parallel (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Version Control]] (1), [[Unit Testing]] (1), [[Integration Testing]] (1), [[End-to-end Testing]] (1)
 > **Speakers:** - [man (10), - yeah (3), - all (2), - that (2), - but (1)
 > **CLI Commands:** make (4), find (2)
 > **Best Practices:** the key is (1), you should always (1)
@@ -2537,8 +2516,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Warnings:** keep in mind (1)
 
-#### Continuous delivery in real life
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980)
+#### [Continuous delivery in real life](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2546,7 +2524,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=5)** - There are also technical hurdles that come up like long running tests or complicated build matrices.
 >
-> **[0:12](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=12)** - My best advice is to create a desire in your team for doing continuous delivery.
+> **[0:12](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=12)** - My best advice is to create a desire in your team for doing [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[0:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=16)** There's a famous quote that says, "If you want to teach people to build a ship, "don't overload them with a bunch of tasks, "but instead teach them to desire the endless sea."
 >
@@ -2580,7 +2558,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=102)** - Yeah, you'll constantly need to experiment with the right mix that gives you the best overall cycle time.
 >
-> **[1:47](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=107)** In my office, our total cycle time is around five minutes with about four minutes for the build and all the testing with that, and then 45 seconds for deploys.
+> **[1:47](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=107)** In my [[Microsoft Office|office]], our total cycle time is around five minutes with about four minutes for the build and all the testing with that, and then 45 seconds for deploys.
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=115)** Now that may sound like crazy to you.
 >
@@ -2592,7 +2570,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=133)** It took a while to do it, and that's where we ended up stopping.
 >
-> **[2:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=136)** We had continuous integration for the builds, but on the business side, support, marketing, and product, one week deployment cycle was as fast as they could handle.
+> **[2:16](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=136)** We had [[Continuous Integration (CI)|continuous integration]] for the builds, but on the business side, support, marketing, and product, one week deployment cycle was as fast as they could handle.
 >
 > **[2:26](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=146)** And that's okay.
 >
@@ -2622,7 +2600,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=211)** - Yeah, you know, this has a psychological effect where people begin to actually deploy less frequently, and then you run back into the old pattern of infrequent delivery of a larger and larger number of changes.
 >
-> **[3:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=222)** - We suggest asking questions as a team on how to unite configuration management and deployment to make sure your deploy time stay low.
+> **[3:42](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=222)** - We suggest asking questions as a team on how to unite [[Configuration Management]] and deployment to make sure your deploy time stay low.
 >
 > **[3:52](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=232)** - [James] They're going to be trade-offs that we just can't predict or enumerate here.
 >
@@ -2646,7 +2624,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=267)** Well, despite the challenges, I can say positively that when you get continuous delivery working in your organization, it changes everyone's life for the better.
 >
-> **[4:36](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=276)** - No uncertain deploy windows for operations.
+> **[4:36](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=276)** - No uncertain deploy [[Windows]] for operations.
 >
 > **[4:39](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/continuous-delivery-in-real-life?u=76281980&t=279)** - Yeah, and you get to see your code in customers' hands before going home each day.
 >
@@ -2656,7 +2634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (5), product (2), [[Continuous Integration (CI)|Continuous integration]] (2), ci (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (5), [[Continuous Integration (CI)|Continuous integration]] (2), [[Microsoft Office|Office]] (1), [[Configuration Management]] (1), [[Windows]] (1)
 > **Speakers:** - yeah (5), - the (2), - [ernest] (2), - [james] (2), - theory (1)
 > **CLI Commands:** find (1), make (1), cd (1)
 > **Analogies:** imagine (1), just like (1)
@@ -2668,12 +2646,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=0)** - And that's our course on continuous delivery.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=0)** - And that's our course on [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[0:03](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=3)** - Together, we defined continuous delivery, identified key practices, and built a working delivery pipeline for a Go application.
 >
@@ -2681,7 +2658,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=14)** However, at this point you may be wondering, "Where do I go from here?"
 >
-> **[0:18](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=18)** - Well, if you haven't watched some of the other DevOps courses, we recommend going to our DevOps fundamentals course.
+> **[0:18](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=18)** - Well, if you haven't watched some of the other [[DevOps]] courses, we recommend going to our DevOps fundamentals course.
 >
 > **[0:25](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=25)** - In that course, Ernest and I cover the whole span of DevOps at a high level and explained the main practice areas, one of which is continuous delivery.
 >
@@ -2691,7 +2668,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=49)** That course is designed to fit with this one.
 >
-> **[0:50](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=50)** And if you're delivering infrastructure as code, that one's for you.
+> **[0:50](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=50)** And if you're delivering [[Infrastructure as code (IaC)|infrastructure as code]], that one's for you.
 >
 > **[0:54](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=54)** - [Ernest] Of course, we'd be remiss if we didn't mention the excellent book on "Continuous Delivery" by Jez Humble and David Farley.
 >
@@ -2701,9 +2678,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=69)** - I can't say enough good things about that book.
 >
-> **[1:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=71)** It's the standard reference on continuous integration and deployment, and it covers the topic in much more detail than we can do here.
+> **[1:11](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=71)** It's the standard reference on [[Continuous Integration (CI)|continuous integration]] and deployment, and it covers the topic in much more detail than we can do here.
 >
-> **[1:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=79)** - [James] Also, the Google Testing Blog at testing.[googleblog.com](https://googleblog.com) is an excellent source of best practices.
+> **[1:19](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=79)** - [James] Also, the [[Google]] Testing Blog at testing.[googleblog.com](https://googleblog.com) is an excellent source of best practices.
 >
 > **[1:24](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980&t=84)** - [Ernest] Besides mastering these techniques, they've recast the role of QA as being focused on engineering productivity and have a lot of great ideas that they've proven out in one of the world's largest development shops.
 >
@@ -2715,7 +2692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (4), application (1), [[Automation]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Google]] (1)
 > **Speakers:** - yeah (2), - [ernest] (2), - and (1), - together (1), - well (1)
 > **CLI Commands:** make (1), cd (1), find (1)
 > **URLs:** [googleblog.com](https://googleblog.com) (1), [theagileadmin.com](https://theagileadmin.com) (1)

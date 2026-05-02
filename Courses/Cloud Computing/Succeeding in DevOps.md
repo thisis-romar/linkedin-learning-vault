@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your role as a DevOps engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/your-role-as-a-devops-engineer-15039480?u=76281980)
+#### [Your role as a DevOps engineer](https://www.linkedin.com/learning/succeeding-in-devops/your-role-as-a-devops-engineer-15039480?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/your-role-as-a-devops-engineer-15039480?u=76281980&t=0)** - The DevOps engineer role is one of the highest paying and most in demand tech jobs in today's market.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/your-role-as-a-devops-engineer-15039480?u=76281980&t=0)** - The [[DevOps]] engineer role is one of the highest paying and most in demand tech jobs in today's market.
 >
 > **[0:07](https://www.linkedin.com/learning/succeeding-in-devops/your-role-as-a-devops-engineer-15039480?u=76281980&t=7)** But wait a second, what exactly is a DevOps engineer?
 >
@@ -101,16 +100,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (9), career (1), business (1)
+> **Frameworks & Libraries:** [[DevOps]] (9)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Setting the stage for DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/setting-the-stage-for-devops?u=76281980)
+#### [Setting the stage for DevOps](https://www.linkedin.com/learning/succeeding-in-devops/setting-the-stage-for-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/setting-the-stage-for-devops?u=76281980&t=0)** - Historically, many established software companies followed the same blueprint for software development.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/setting-the-stage-for-devops?u=76281980&t=0)** - Historically, many established software companies followed the same blueprint for [[Software Development]].
 >
 > **[0:07](https://www.linkedin.com/learning/succeeding-in-devops/setting-the-stage-for-devops?u=76281980&t=7)** Software engineers were hired to build a product, which they did by writing code.
 >
@@ -124,11 +122,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/succeeding-in-devops/setting-the-stage-for-devops?u=76281980&t=51)** However, a new set of practices and roles has emerged to speed up software delivery and reduced the friction between development and operations.
 >
-> **[1:01](https://www.linkedin.com/learning/succeeding-in-devops/setting-the-stage-for-devops?u=76281980&t=61)** This solution is known as DevOps.
+> **[1:01](https://www.linkedin.com/learning/succeeding-in-devops/setting-the-stage-for-devops?u=76281980&t=61)** This solution is known as [[DevOps]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Software Development]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[DevOps]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - historically (1)
 
@@ -137,12 +135,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is unique about DevOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980)
+#### [What is unique about DevOps?](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980&t=0)** - You're probably watching this because you're interested in becoming a DevOps engineer, and that's great.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980&t=0)** - You're probably watching this because you're interested in becoming a [[DevOps]] engineer, and that's great.
 >
 > **[0:06](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980&t=6)** DevOps, as a buzzword, is the most hyped it has ever been, with more and more people from across the globe gaining interest in this topic.
 >
@@ -172,23 +169,22 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980&t=118)** Perhaps the enterprises saw they had something to gain from DevOps as a concept, so started to title their system administrators and operations engineers with this new title.
 >
-> **[2:09](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980&t=129)** Perhaps the new title reflects the changing nature of operations and system administration work, encompassing the new skills and tools that have emerged from this community of practice.
+> **[2:09](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980&t=129)** Perhaps the new title reflects the changing nature of operations and [[System Administration]] work, encompassing the new skills and tools that have emerged from this community of practice.
 >
 > **[2:21](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980&t=141)** Either way, the DevOps engineer title is here to stay.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (15), functional (1), product (1), [[System Administration]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (15), [[System Administration]] (1)
 > **Analogies:** such as (3)
 > **Documentation:** specification (1)
 > **Speakers:** - you (1)
 
-#### DevOps qualifications and training
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980)
+#### [DevOps qualifications and training](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980&t=0)** - Just as there is no one true authority on what DevOps is, there is no predetermined path to DevOps enlightenment.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980&t=0)** - Just as there is no one true authority on what [[DevOps]] is, there is no predetermined path to DevOps enlightenment.
 >
 > **[0:09](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980&t=9)** There is no college degree you can get in DevOps and many vendors that pitch a certification or course as DevOps use it for the buzz that comes along with a buzzword.
 >
@@ -204,9 +200,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980&t=64)** It also doesn't hurt to have a degree in computer science, since most DevOps related roles involve writing code.
 >
-> **[1:13](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980&t=73)** Overall, the high level qualifications required to get a job as a DevOps practitioner include items like understanding agile methodologies, experience writing code, and building software applications.
+> **[1:13](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980&t=73)** Overall, the high level qualifications required to get a job as a DevOps practitioner include items like understanding [[Agile Development|agile]] methodologies, experience writing code, and building software applications.
 >
-> **[1:28](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980&t=88)** The ability to troubleshoot production issues related to computer infrastructure, configuration, monitoring, deployments, and continuous integration delivery, knowledge of cloud computing, operating systems, and networking, Communication and collaboration skills, and ability to participate in an on-call rotation.
+> **[1:28](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980&t=88)** The ability to troubleshoot production issues related to computer infrastructure, configuration, monitoring, deployments, and [[Continuous Integration (CI)|continuous integration]] delivery, knowledge of [[Cloud Computing]], operating systems, and networking, Communication and collaboration skills, and ability to participate in an on-call rotation.
 >
 > **[1:52](https://www.linkedin.com/learning/succeeding-in-devops/devops-qualifications-and-training-15043273?u=76281980&t=112)** These are just some of the qualifications required in this ever growing and changing career.
 >
@@ -214,18 +210,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (8), management (1), [[Agile Development|Agile]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), cloud (1)
+> **Frameworks & Libraries:** [[DevOps]] (8), [[Agile Development|Agile]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Cloud Computing]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - just (1)
 
-#### Learning and hands-on experience in DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/learning-and-hands-on-experience-in-devops?u=76281980)
+#### [Learning and hands-on experience in DevOps](https://www.linkedin.com/learning/succeeding-in-devops/learning-and-hands-on-experience-in-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/learning-and-hands-on-experience-in-devops?u=76281980&t=0)** - Due to the breadth and depth of DevOps practices, it can feel overwhelming to know that there is no degree or certification you can achieve to be ready for DevOps.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/learning-and-hands-on-experience-in-devops?u=76281980&t=0)** - Due to the breadth and depth of [[DevOps]] practices, it can feel overwhelming to know that there is no degree or certification you can achieve to be ready for DevOps.
 >
 > **[0:11](https://www.linkedin.com/learning/succeeding-in-devops/learning-and-hands-on-experience-in-devops?u=76281980&t=11)** However, don't despair.
 >
@@ -267,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), application (2), [[Virtualization]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[DevOps]] (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -279,24 +274,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DevOps skills for developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980)
+#### [DevOps skills for developers](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=0)** - One pathway into the role of DevOps engineer comes from a traditional development role.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=0)** - One pathway into the role of [[DevOps]] engineer comes from a traditional development role.
 >
-> **[0:06](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=6)** Traditional software engineers typically already have strong software engineering skills, including the ability to write production-grade code, and an understanding of software development best practices, like coding standards, tests, and utilizing version control systems, such as Git.
+> **[0:06](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=6)** Traditional software engineers typically already have strong software engineering skills, including the ability to write production-grade code, and an understanding of [[Software Development]] best practices, like coding standards, tests, and utilizing [[Version Control]] systems, such as [[Git]].
 >
 > **[0:24](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=24)** In order to transition into a DevOps role, software developers generally should focus on everything beyond the code they write.
 >
 > **[0:33](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=33)** Typically, they need to transition their focus away from delivering new features to end users as quickly as possible toward caring more about the stability, and reliability of their services, and, their underlying infrastructure.
 >
-> **[0:49](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=49)** Specific areas of growth for software engineers looking to transition, include an understanding of how to manage whatever production operating system is in use, typically Linux.
+> **[0:49](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=49)** Specific areas of growth for software engineers looking to transition, include an understanding of how to manage whatever production operating system is in use, typically [[Linux]].
 >
-> **[1:01](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=61)** A deeper understanding of continuous integration and delivery systems.
+> **[1:01](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=61)** A deeper understanding of [[Continuous Integration (CI)|continuous integration]] and delivery systems.
 >
-> **[1:05](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=65)** An understanding of system architecture and networking.
+> **[1:05](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=65)** An understanding of [[System Architecture]] and networking.
 >
 > **[1:09](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980&t=69)** Caring about the performance of an application, including being able to forecast load and capacity pin for the future.
 >
@@ -306,17 +300,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[DevOps]] (2), [[Engineering]] (1), [[Software Development]] (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Software Development]] (1), [[Version Control]] (1), [[Git]] (1), [[Linux]] (1)
 > **CLI Commands:** git (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - one (1)
 
-#### The Ops in DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/the-ops-in-devops-15038503?u=76281980)
+#### [The Ops in DevOps](https://www.linkedin.com/learning/succeeding-in-devops/the-ops-in-devops-15038503?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/the-ops-in-devops-15038503?u=76281980&t=0)** - Another common path into the role of DevOps engineer is growing from a traditional operations engineer or system administrator role.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/the-ops-in-devops-15038503?u=76281980&t=0)** - Another common path into the role of [[DevOps]] engineer is growing from a traditional operations engineer or system administrator role.
 >
 > **[0:09](https://www.linkedin.com/learning/succeeding-in-devops/the-ops-in-devops-15038503?u=76281980&t=9)** People transitioning from these roles usually have already cultivated a deep understanding of operating system internals in addition to good troubleshooting skills.
 >
@@ -336,38 +329,37 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/succeeding-in-devops/the-ops-in-devops-15038503?u=76281980&t=89)** Additionally, the DevOps mindset is culturally different from how traditional IT operations works.
 >
-> **[1:37](https://www.linkedin.com/learning/succeeding-in-devops/the-ops-in-devops-15038503?u=76281980&t=97)** This mindset seeks to bring agile development practices into the ops world and prioritizes empathizing with developers and working with them to solve problems.
+> **[1:37](https://www.linkedin.com/learning/succeeding-in-devops/the-ops-in-devops-15038503?u=76281980&t=97)** This mindset seeks to bring [[Agile Development|agile]] development practices into the ops world and prioritizes empathizing with developers and working with them to solve problems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (5), [[Troubleshooting]] (1), [[Virtualization]] (1), teams (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Agile Development|Agile]] (1)
 > **Prerequisites:** set up (1), required to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - another (1)
 
-#### Entry-level DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980)
+#### [Entry-level DevOps](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=0)** - When thinking about an entry level path into DevOps, the reality is there is a ton to learn.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=0)** - When thinking about an entry level path into [[DevOps]], the reality is there is a ton to learn.
 >
 > **[0:07](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=7)** The good news is that an entry level higher doesn't have any bad habits or patterns to unlearn.
 >
 > **[0:15](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=15)** When trying to break into DevOps from an entry level position, such as attending a bootcamp, graduating from college or simply making a career change, focused first on building three core skills.
 >
-> **[0:28](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=28)** Number one, proficiency in one programming language, such as Python.
+> **[0:28](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=28)** Number one, proficiency in one programming language, such as [[Python (Programming Language)|Python]].
 >
-> **[0:34](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=34)** Two, the ability to administer one operating system, and unless you love the Windows platform, just choose Linux.
+> **[0:34](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=34)** Two, the ability to administer one operating system, and unless you love the [[Windows]] platform, just choose [[Linux]].
 >
-> **[0:42](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=42)** And number three, knowledge of one cloud computing platform.
+> **[0:42](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=42)** And number three, knowledge of one [[Cloud Computing]] platform.
 >
-> **[0:46](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=46)** For example, Amazon web services or AWS for short.
+> **[0:46](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=46)** For example, [[Amazon Web Services (AWS)|Amazon web services]] or AWS for short.
 >
 > **[0:51](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=51)** In addition to these core skills, understanding and practicing the basic tenets of DevOps, culture, automation, measurement and sharing also known as CAMS, goes a long way towards showing employers, you are invested in this career path.
 >
-> **[1:08](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=68)** For example, learning about and implementing continuous delivery in a home lab is a great way to combine the tenets of culture and automation, and show the ability to automate all kinds of tasks.
+> **[1:08](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=68)** For example, learning about and implementing [[Continuous Delivery (CD)|continuous delivery]] in a home lab is a great way to combine the tenets of culture and automation, and show the ability to automate all kinds of tasks.
 >
 > **[1:22](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=82)** In addition to being one of the key concepts in DevOps culture, the ability to successfully create a continuous delivery pipeline highlights many important skills required to succeed as a DevOps engineer, including writing code, understanding testing and being able to configure and deploy software.
 >
@@ -375,13 +367,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=111)** Showing competence in the areas of emotional intelligence and people skills, coupled with a great attitude, often are the differentiator between an average candidate or employee and a great one.
 >
-> **[2:04](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=124)** Once you've developed these skills, if you write a tool or piece of software in the process, make sure that work is publicly available on a software hosting platform, such as GitHub or Bitbucket.
+> **[2:04](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=124)** Once you've developed these skills, if you write a tool or piece of software in the process, make sure that work is publicly available on a software hosting platform, such as [[GitHub]] or [[Bitbucket]].
 >
 > **[2:17](https://www.linkedin.com/learning/succeeding-in-devops/entry-level-devops-15036874?u=76281980&t=137)** This is a great way to show prospective employers that you have hands on experience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (5), career (2), [[Automation]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** python (1), aws (1), make (1)
@@ -395,8 +387,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Success tips from a DevOps recruiter
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980)
+#### [Success tips from a DevOps recruiter](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -408,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=9)** Excited to be here.
 >
-> **[0:10](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=10)** - I just wanted to get your thoughts on how someone who wants to become a DevOps engineer or site reliability engineer can really stand out in their job search and career.
+> **[0:10](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=10)** - I just wanted to get your thoughts on how someone who wants to become a [[DevOps]] engineer or site reliability engineer can really stand out in their job search and career.
 >
 > **[0:21](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=21)** - Yeah, great question.
 >
@@ -432,7 +423,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=72)** There are many, many different challenges and problems that can face engineers in the spectrum coming from different sides.
 >
-> **[1:20](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=80)** Having the ability to think on your feet, do quick critical thinking and then react I think is critical to be successful.
+> **[1:20](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=80)** Having the ability to think on your feet, do quick critical thinking and then [[React.js|react]] I think is critical to be successful.
 >
 > **[1:29](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=89)** Last one, awareness.
 >
@@ -464,7 +455,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=218)** One of the big things that I try to focus on is the communication skills.
 >
-> **[3:47](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=227)** Engineers typically don't look to kind of enhance some of their more soft skills but in order to be successfully really in this field, the ability to be able to relate, understand and set clear expectations is vital, vital for success in any kind of DevOps transformation or initiate.
+> **[3:47](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=227)** Engineers typically don't look to kind of enhance some of their more [[Soft Skills]] but in order to be successfully really in this field, the ability to be able to relate, understand and set clear expectations is vital, vital for success in any kind of DevOps transformation or initiate.
 >
 > **[4:12](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=252)** - Awesome.
 >
@@ -522,7 +513,7 @@ created: 2026-05-02
 >
 > **[8:05](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=485)** So when I identify engineers that are kind of more junior or mid-level coming into the field, we see a lot of kind of task masters or individuals that are able to identify and solve small issues.
 >
-> **[8:28](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=508)** They are able to take on tasks and as you start to grow and evolve with experience and skillsets and understanding the broader picture, larger downstream thinking is where I kind of make the differential between your mid-level and your senior principal because then you start to think about more design patterns, more downstream challenges and scaling challenges.
+> **[8:28](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=508)** They are able to take on tasks and as you start to grow and evolve with experience and skillsets and understanding the broader picture, larger downstream thinking is where I kind of make the differential between your mid-level and your senior principal because then you start to think about more [[Design Patterns]], more downstream challenges and scaling challenges.
 >
 > **[8:58](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980&t=538)** And then you're able to start to draw in other departments within the organization that need to be involved in kind of the design of a solution versus more of a reactive hey, we're going to be patching something, which is a big... That's kind of where the transition happens in my mind.
 >
@@ -544,7 +535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (12), business (3), [[Search]] (2), career (2), next (2)
+> **Frameworks & Libraries:** [[DevOps]] (12), [[React.js|React]] (1), [[Soft Skills]] (1), [[Design Patterns]] (1)
 > **Speakers:** - yeah (5), - i (2), - awesome (2), - hey (1), - cool (1)
 > **CLI Commands:** find (3), make (2)
 > **URLs:** [enjinia.io](https://enjinia.io) (1)
@@ -552,12 +543,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 
-#### Being a change agent DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980)
+#### [Being a change agent DevOps](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=0)** - Being a DevOps engineer means sitting at the exciting intersection of software development and software operations.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=0)** - Being a [[DevOps]] engineer means sitting at the exciting intersection of [[Software Development]] and software operations.
 >
 > **[0:07](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=7)** However, being at that intersection requires interacting with stakeholders across engineering departments, IT, and beyond.
 >
@@ -575,7 +565,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=62)** Or, your contribution to change could take the form of helping people from a traditional operations background become comfortable automating away their manual tasks.
 >
-> **[1:13](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=73)** It could even mean championing the adoption of [[Agile Software Development]] practices at your organization and helping folks move away from waterfall approaches.
+> **[1:13](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=73)** It could even mean championing the adoption of [[[[Agile Software Development]]]] practices at your organization and helping folks move away from waterfall approaches.
 >
 > **[1:25](https://www.linkedin.com/learning/succeeding-in-devops/being-a-change-agent-devops?u=76281980&t=85)** All of these tasks involve much more than writing code or configuring systems.
 >
@@ -609,19 +599,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (7), [[Engineering]] (2), [[Software Development]] (1), [[Agile Software Development]] (1), next (1)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[Software Development]] (1), [[Agile Software Development]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - being (1)
 
-#### Achieving your DevOps goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980)
+#### [Achieving your DevOps goals](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=0)** - It's completely normal to want to progress in your career as a DevOps engineer.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=0)** - It's completely normal to want to progress in your career as a [[DevOps]] engineer.
 >
 > **[0:05](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=5)** So let's take a moment to talk about setting and achieving goals.
 >
@@ -639,13 +628,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=36)** It's important to break down dreams and life goals into smaller weekly, monthly and yearly achievements.
 >
-> **[0:42](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=42)** For example, if your goal is to become a DevOps engineer, set an intention to spend at least an hour a week learning a new programming language, such as Python or Ruby or set a goal that by the end of next month you will build a small web application and deploy it on Amazon Web Services or another cloud computing platform.
+> **[0:42](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=42)** For example, if your goal is to become a DevOps engineer, set an intention to spend at least an hour a week learning a new programming language, such as [[Python (Programming Language)|Python]] or Ruby or set a goal that by the end of next month you will build a small web application and deploy it on [[Amazon Web Services (AWS)|Amazon Web Services]] or another [[Cloud Computing]] platform.
 >
 > **[1:04](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=64)** Many people set goals focused on titles and promotions such as being promoted to senior engineer.
 >
 > **[1:11](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=71)** I personally have found more satisfaction from setting goals around skill development.
 >
-> **[1:16](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=76)** For example, instead of setting a goal to get a job as a DevOps engineer, set a goal to successfully install a Linux based operating system on your home computer and use it to run a mail server.
+> **[1:16](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=76)** For example, instead of setting a goal to get a job as a DevOps engineer, set a goal to successfully install a [[Linux]] based operating system on your home computer and use it to run a mail server.
 >
 > **[1:29](https://www.linkedin.com/learning/succeeding-in-devops/achieving-your-devops-goals?u=76281980&t=89)** Or set a goal to learn networking concepts so well that you can pinpoint problems to a layer of the OSI model when troubleshooting issues.
 >
@@ -683,7 +672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), next (2), web application (2), [[Linux]] (2), career (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Linux]] (2), [[Python (Programming Language)|Python]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (3), python (1), ruby (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** osi (1)
@@ -697,12 +686,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/learning-more-about-devops?u=76281980)
+#### [Learning more about DevOps](https://www.linkedin.com/learning/succeeding-in-devops/learning-more-about-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/learning-more-about-devops?u=76281980&t=0)** - Thanks so much for joining me in learning about the exciting role of the DevOps engineer.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-devops/learning-more-about-devops?u=76281980&t=0)** - Thanks so much for joining me in learning about the exciting role of the [[DevOps]] engineer.
 >
 > **[0:06](https://www.linkedin.com/learning/succeeding-in-devops/learning-more-about-devops?u=76281980&t=6)** If you'd like to get started learning the skills mentioned in this course, check out the Become a DevOps Engineer learning path.
 >

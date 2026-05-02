@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=76281980&t=23)** You'll also see first hand how different assistive technology works, the tools that people with disabilities use to get around your site or application.
 >
-> **[0:32](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=76281980&t=32)** We'll cover all of this and more, including a look at functional needs for working with personas and integrating Accessibility into your work as a user experience professional.
+> **[0:32](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=76281980&t=32)** We'll cover all of this and more, including a look at functional needs for working with personas and integrating Accessibility into your work as a [[User Experience (UX)|user experience]] professional.
 >
 > **[0:42](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=76281980&t=42)** And remember, this is just the tip of the iceberg but is designed to help you chart a course forward to crafting accessible sites.
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), web (1), application (1), functional (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - hi (1)
 
 
@@ -106,8 +105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is accessibility?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/what-is-accessibility?u=76281980)
+#### [What is accessibility?](https://www.linkedin.com/learning/ux-foundations-accessibility/what-is-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/ux-foundations-accessibility/what-is-accessibility?u=76281980&t=69)** How easy is it to load paper?
 >
-> **[1:11](https://www.linkedin.com/learning/ux-foundations-accessibility/what-is-accessibility?u=76281980&t=71)** If we think in broad terms user experience is the overall feeling and satisfaction that we create for someone that is trying to use our product.
+> **[1:11](https://www.linkedin.com/learning/ux-foundations-accessibility/what-is-accessibility?u=76281980&t=71)** If we think in broad terms [[User Experience (UX)|user experience]] is the overall feeling and satisfaction that we create for someone that is trying to use our product.
 >
 > **[1:19](https://www.linkedin.com/learning/ux-foundations-accessibility/what-is-accessibility?u=76281980&t=79)** Thinking about the printer again, the user experience includes everything from purchasing the printer, unpacking it, getting it set up for the first time, connecting it to your computer or to the network, troubleshooting ink cartridges or paper jams, all the way through to that feel that you get after you've printed.
 >
@@ -177,15 +175,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[User Experience (UX)|User experience]] (2), product (1), [[Troubleshooting]] (1), ux (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - people (1)
 
-#### Views of accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/views-of-accessibility?u=76281980)
+#### [Views of accessibility](https://www.linkedin.com/learning/ux-foundations-accessibility/views-of-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,13 +314,13 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/ux-foundations-accessibility/views-of-accessibility?u=76281980&t=305)** Accessibility can't simply be about compliance.
 >
-> **[5:09](https://www.linkedin.com/learning/ux-foundations-accessibility/views-of-accessibility?u=76281980&t=309)** It has to be part of user experience.
+> **[5:09](https://www.linkedin.com/learning/ux-foundations-accessibility/views-of-accessibility?u=76281980&t=309)** It has to be part of [[User Experience (UX)|user experience]].
 >
 > **[5:11](https://www.linkedin.com/learning/ux-foundations-accessibility/views-of-accessibility?u=76281980&t=311)** And that's where your job comes in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), functional (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** picture (2)
@@ -332,12 +329,11 @@ created: 2026-05-02
 > **Documentation:** w3c (1)
 > **Definitions:** is a  (1)
 
-#### Accessibility and user experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980)
+#### [Accessibility and user experience](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=0)** - User Experience is a broad field that includes a lot of different types of professionals.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=0)** - [[User Experience (UX)|User Experience]] is a broad field that includes a lot of different types of professionals.
 >
 > **[0:05](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=5)** Content strategists, information architects, user researchers, designers, and developers.
 >
@@ -349,7 +345,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=27)** They include appropriate representation for people with different types of disabilities, in all aspects of the research.
 >
-> **[0:33](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=33)** That includes interviews, talk-aloud sessions, focus groups, facilitated and remote usability testing, and other dedicated accessibility testing.
+> **[0:33](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=33)** That includes interviews, talk-aloud sessions, focus groups, facilitated and remote [[Usability Testing]], and other dedicated accessibility testing.
 >
 > **[0:43](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=43)** Early in the research phase of the project, the content strategist will work with people with disabilities to learn more about how they think about a problem and what kinds of content will help meet those needs.
 >
@@ -381,7 +377,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=130)** Why?
 >
-> **[2:11](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=131)** Your work happens much earlier in the project than a developer or a quality assurance specialist.
+> **[2:11](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=131)** Your work happens much earlier in the project than a developer or a [[Quality Assurance]] specialist.
 >
 > **[2:17](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-experience?u=76281980&t=137)** It is much more cost-effective to do it well the first time.
 >
@@ -393,7 +389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), [[User Experience (UX)|User experience]] (1), game (1), [[Usability Testing]] (1), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Usability Testing]] (1), [[Quality Assurance]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** click on (1)
@@ -405,8 +401,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980)
+#### [Managing flow](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +431,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=71)** Hopefully you'll see that you need to move from the text field to the radio buttons and to the Search button.
 >
-> **[1:18](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=78)** Often forms like this aren't coded this way and instead are coded so that you move from the search field to the Search button and then the radio buttons.
+> **[1:18](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=78)** Often [[Forms]] like this aren't coded this way and instead are coded so that you move from the search field to the Search button and then the radio buttons.
 >
 > **[1:28](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=88)** So what's the big deal here?
 >
@@ -450,7 +445,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=116)** What would happen if you move from the search field to the Search button before you get to the radio buttons?
 >
-> **[2:02](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=122)** We've seen this happen many times in usability testing sessions.
+> **[2:02](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=122)** We've seen this happen many times in [[Usability Testing]] sessions.
 >
 > **[2:06](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=126)** When a blind person tabs to the Search button, they generally think they're at the end of the form and don't even realize that there are other options available after the button that submits the form.
 >
@@ -462,7 +457,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=151)** Let's take a peek at another example, a bank login form.
 >
-> **[2:36](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=156)** There are three main tasks on this page, login to online banking, remember my details so it's easier for me to login next time, or get more information about a certain banking topic.
+> **[2:36](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=156)** There are three main tasks on this page, login to online [[Banking]], remember my details so it's easier for me to login next time, or get more information about a certain banking topic.
 >
 > **[2:48](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980&t=168)** Now, watch as we tab through this interface like any keyboard user would, sighted or non-sighted.
 >
@@ -518,12 +513,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (12), next (4), [[Forms]] (3), [[Banking]] (2), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Banking]] (2), [[Usability Testing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Re-creating visual interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/re-creating-visual-interactions?u=76281980)
+#### [Re-creating visual interactions](https://www.linkedin.com/learning/ux-foundations-accessibility/re-creating-visual-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,12 +559,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### Ensuring proximity in your design
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980)
+#### [Ensuring proximity in your design](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -604,7 +596,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=60)** - Visited link, What's this?
 >
-> **[1:02](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=62)** Press financing, Luxury Auto, HTML content.
+> **[1:02](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=62)** Press financing, Luxury Auto, [[HTML]] content.
 >
 > **[1:06](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=66)** - That will display some help content, and the screen reader will go through the page.
 >
@@ -630,7 +622,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=94)** Link Terms & conditions.
 >
-> **[1:35](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=95)** Link Privacy, link Contact.
+> **[1:35](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=95)** Link [[Privacy]], link Contact.
 >
 > **[1:38](https://www.linkedin.com/learning/ux-foundations-accessibility/ensuring-proximity-in-your-design?u=76281980&t=98)** Link Facebook, link Twitter.
 >
@@ -688,15 +680,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), application (2), web (1), [[Privacy]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Privacy]] (1)
 > **Speakers:** - link (2), - proximity (1), - here (1), - visited (1), - that (1)
 > **Env Vars:** html (2), css (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Setting expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980)
+#### [Setting expectations](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -724,7 +715,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=81)** You switch to the tab by clicking the tab itself.
 >
-> **[1:25](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=85)** The tabs are typically built using a set of in page links that use some JavaScript to switch the visible content.
+> **[1:25](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=85)** The tabs are typically built using a set of in page links that use some [[JavaScript]] to switch the visible content.
 >
 > **[1:32](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=92)** That link then sets the expectation about what will be in that panel.
 >
@@ -764,7 +755,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=191)** When that expectation is broken, like it is here, it can be very confusing.
 >
-> **[3:16](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=196)** Watch as I zoom into the interface to read the links and then tap on the LogIn link.
+> **[3:16](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=196)** Watch as I [[Zoom]] into the interface to read the links and then tap on the LogIn link.
 >
 > **[3:22](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=202)** What happens? Nothing.
 >
@@ -838,18 +829,17 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=410)** Similar to the screen reader demo a low vision user loses context and has a difficult time not only completing the field but also correcting their work because the fields don't behave as expected.
 >
-> **[7:02](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=422)** We've broken the expectation of how forms and fields work.
+> **[7:02](https://www.linkedin.com/learning/ux-foundations-accessibility/setting-expectations?u=76281980&t=422)** We've broken the expectation of how [[Forms]] and fields work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), [[JavaScript]] (3), next (2), ux (1), web (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[JavaScript]] (3), [[Forms]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** switch to (2), in the tab (1)
 > **Speakers:** - there (1), - five (1), - when (1)
 > **Analogies:** similar to (1)
 
-#### Writing the perfect content
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/writing-the-perfect-content?u=76281980)
+#### [Writing the perfect content](https://www.linkedin.com/learning/ux-foundations-accessibility/writing-the-perfect-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +849,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ux-foundations-accessibility/writing-the-perfect-content?u=76281980&t=14)** There's another player that is often underrepresented though, content.
 >
-> **[0:18](https://www.linkedin.com/learning/ux-foundations-accessibility/writing-the-perfect-content?u=76281980&t=18)** If you have technically perfect accessible coding techniques, and a brilliant accessible design, that wont matter if the content doesn't include what people want and need.
+> **[0:18](https://www.linkedin.com/learning/ux-foundations-accessibility/writing-the-perfect-content?u=76281980&t=18)** If you have technically perfect accessible coding techniques, and a brilliant [[Accessible Design]], that wont matter if the content doesn't include what people want and need.
 >
 > **[0:29](https://www.linkedin.com/learning/ux-foundations-accessibility/writing-the-perfect-content?u=76281980&t=29)** As part of the overall experience, we need to insure that we have the correct material and place for everyone.
 >
@@ -905,18 +895,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)
 
-#### Designing for memory issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/designing-for-memory-issues?u=76281980)
+#### [Designing for memory issues](https://www.linkedin.com/learning/ux-foundations-accessibility/designing-for-memory-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-accessibility/designing-for-memory-issues?u=76281980&t=0)** - Here's two scenarios where memory comes into play.
 >
-> **[0:03](https://www.linkedin.com/learning/ux-foundations-accessibility/designing-for-memory-issues?u=76281980&t=3)** It shouldn't surprise you that these are both working with forms.
+> **[0:03](https://www.linkedin.com/learning/ux-foundations-accessibility/designing-for-memory-issues?u=76281980&t=3)** It shouldn't surprise you that these are both working with [[Forms]].
 >
 > **[0:07](https://www.linkedin.com/learning/ux-foundations-accessibility/designing-for-memory-issues?u=76281980&t=7)** You've heard the phrase out of sight, out of mind in this course already when we were discussing modal dialogs.
 >
@@ -998,7 +987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** adhd (1)
 > **Definitions:** is a  (1)
@@ -1009,8 +998,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of voice recognition software
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980)
+#### [Overview of voice recognition software](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1028,11 +1016,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=30)** They'll use the software for two basic things: dictation and command and control.
 >
-> **[0:36](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=36)** Dictation is used to write documents, compose emails, fill in phone numbers and addresses or anything that requires typing.
+> **[0:36](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=36)** Dictation is used to write documents, [[Jetpack Compose|compose]] emails, fill in phone numbers and addresses or anything that requires typing.
 >
 > **[0:45](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=45)** Command and control is all about manipulating the computer, dragging files from one folder to another, switching from your email program to your web browser, and clicking on buttons or links in a web page.
 >
-> **[0:57](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=57)** People that rely on Dragon NaturallySpeaking may also use other tools like predictive text, onscreen keyboards, or other hardware tools that make them more productive.
+> **[0:57](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=57)** People that rely on Dragon NaturallySpeaking may also use other tools like predictive text, onscreen keyboards, or other [[Hardware]] tools that make them more productive.
 >
 > **[1:08](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=68)** When using Dragon, the user can switch between modes based on context.
 >
@@ -1044,7 +1032,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=100)** That means that a Dragon users sees what's on the screen, decides what they want to do, and then says it.
 >
-> **[1:46](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=106)** For example, they might say, "Open Firefox" or "Switch to Outlook" to change which program they're working in.
+> **[1:46](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=106)** For example, they might say, "Open Firefox" or "Switch to [[Microsoft Outlook|Outlook]]" to change which program they're working in.
 >
 > **[1:54](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980&t=114)** They might also use it to manipulate a web page.
 >
@@ -1078,7 +1066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), power (1), [[Jetpack Compose|Compose]] (1), [[Hardware]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Hardware]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** switch to (3), scroll up (2), scroll down (1), click on (1)
 > **CLI Commands:** make (1)
 > **Tools:** firefox (1)
@@ -1086,8 +1074,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### Overview of screen magnifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980)
+#### [Overview of screen magnifiers](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1096,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=68)** This helps them get the detail they need from the magnified view, but also maintains some sense of orientation about where they are on the page with the unmagnified view.
 >
-> **[1:18](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=78)** Some people will also use a picture and picture mode where they zoom in only over top of the mouse cursor.
+> **[1:18](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=78)** Some people will also use a picture and picture mode where they [[Zoom]] in only over top of the mouse cursor.
 >
 > **[1:24](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=84)** So the magnified view follows the cursor around the page.
 >
@@ -1117,7 +1104,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=95)** We're only showing the magnified view here.
 >
-> **[1:37](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=97)** This isn't a simulation of the reason why somebody needs low vision assistance.
+> **[1:37](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=97)** This isn't a [[Simulation]] of the reason why somebody needs low vision assistance.
 >
 > **[1:43](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=103)** You're just seeing the magnified view with relatively perfect vision.
 >
@@ -1133,16 +1120,15 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=158)** In that scenario, you might want to use a screen reader with the magnifier.
 >
-> **[2:42](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=162)** Using the magnifier for orientation and finding the content you're after, and then using the reader to read that content out to you so that you can rest your eyes.
+> **[2:42](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-magnifiers?u=76281980&t=162)** Using the magnifier for orientation and finding the content you're after, and then using the reader to read that content out to you so that you can [[Representational State Transfer (REST)|rest]] your eyes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Zoom]] (1), [[Simulation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Simulation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (2)
 > **Speakers:** - some (1)
 
-#### Overview of screen readers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-readers?u=76281980)
+#### [Overview of screen readers](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-readers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1158,7 +1144,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-readers?u=76281980&t=24)** Voiceover is built into the Mac OS.
 >
-> **[0:27](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-readers?u=76281980&t=27)** NVDA is a free screen reader available for Windows, and there are even options on Linux.
+> **[0:27](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-readers?u=76281980&t=27)** NVDA is a free screen reader available for [[Windows]], and there are even options on [[Linux]].
 >
 > **[0:33](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-screen-readers?u=76281980&t=33)** The basic premise is that as the user moves through a screen, they are told all kinds of information about what's there.
 >
@@ -1192,21 +1178,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Windows]] (1), [[Linux]] (1), web (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** nvda (1), jaws (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
-#### Overview of hardware assistive technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-hardware-assistive-technology?u=76281980)
+#### [Overview of hardware assistive technology](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-hardware-assistive-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-hardware-assistive-technology?u=76281980&t=0)** - The assistive technology we've looked at so far has all been software based.
 >
-> **[0:05](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-hardware-assistive-technology?u=76281980&t=5)** Many people need assistive technology that is hardware based.
+> **[0:05](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-hardware-assistive-technology?u=76281980&t=5)** Many people need assistive technology that is [[Hardware]] based.
 >
 > **[0:09](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-hardware-assistive-technology?u=76281980&t=9)** There isn't a lot that you need to do as a designer to take that into account.
 >
@@ -1245,8 +1230,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### People are people
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980)
+#### [People are people](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1260,7 +1244,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=18)** I usually don't go through the navigation of a site.
 >
-> **[0:21](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=21)** I just use Google to get the page I want to, because it's way easier than trying to sort through all the menus with my keyboard.
+> **[0:21](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=21)** I just use [[Google]] to get the page I want to, because it's way easier than trying to sort through all the menus with my keyboard.
 >
 > **[0:27](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=27)** I get frustrated because it's a simple link.
 >
@@ -1306,7 +1290,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=116)** It's an international conference and a lot of attendees have disabilities.
 >
-> **[2:01](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=121)** In a workshop of 80 people, we likely had about six blind people, several with low vision, about four people in motorized wheelchairs or scooters, one person that needed sign language interpretation, and one person that needed real-time CART transcription.
+> **[2:01](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=121)** In a workshop of 80 people, we likely had about six blind people, several with low vision, about four people in motorized wheelchairs or scooters, one person that needed sign language interpretation, and one person that needed [[Real-Time]] CART transcription.
 >
 > **[2:15](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=135)** And those were just the people with needs that we could see.
 >
@@ -1340,7 +1324,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=211)** Some people would have difficulty holding the chalk to write or they might not be able to finish timed activities in that group setting.
 >
-> **[3:39](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=219)** This was a highly interactive workshop so the room was in constant flux.
+> **[3:39](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=219)** This was a highly interactive workshop so the room was in constant [[Flux]].
 >
 > **[3:44](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980&t=224)** Moving chairs, tables, people, everything.
 >
@@ -1372,15 +1356,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (3), web (2), [[Real-Time]] (2), [[Google]] (1), [[Flux]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Google]] (1), [[Flux]] (1)
 > **Env Vars:** cart (4)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - accessibility (1)
 
-#### Vision issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980)
+#### [Vision issues](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,7 +1377,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=20)** When a blind person uses their screen reader to explore the screen, they need to know exactly what each object is, what it is called, and what it does.
 >
-> **[0:28](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=28)** For example, when moving around your site, the screen reader will say things like, "link," "login", or "slider zoom level 75%" or "Heading level three: "Getting started building your own shrink ray."
+> **[0:28](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=28)** For example, when moving around your site, the screen reader will say things like, "link," "login", or "slider [[Zoom]] level 75%" or "Heading level three: "Getting started building your own shrink ray."
 >
 > **[0:42](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=42)** In each of those cases, as the person explores the screen, they are told what type of object it is, a link, a slider, or a heading, and they are told what it's about.
 >
@@ -1424,7 +1407,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=121)** So what do they do?
 >
-> **[2:03](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=123)** They move around the screen, click links, submit forms, and navigate using the keyboard only.
+> **[2:03](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=123)** They move around the screen, click links, submit [[Forms]], and navigate using the keyboard only.
 >
 > **[2:10](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=130)** That's the second functional need.
 >
@@ -1462,7 +1445,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=223)** Then they save their work and return to the previous screen.
 >
-> **[3:47](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=227)** Let's do a really crude simulation of low vision.
+> **[3:47](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=227)** Let's do a really crude [[Simulation]] of low vision.
 >
 > **[3:50](https://www.linkedin.com/learning/ux-foundations-accessibility/vision-issues?u=76281980&t=230)** Hold up your hand and pretend to hold on to a straw.
 >
@@ -1500,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (6), [[Zoom]] (2), [[Forms]] (2), ux (1), teams (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Forms]] (2), [[Simulation]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** getting started (2)
@@ -1508,8 +1491,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - using (1)
 
-#### Hearing issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/hearing-issues?u=76281980)
+#### [Hearing issues](https://www.linkedin.com/learning/ux-foundations-accessibility/hearing-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1551,12 +1533,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2)
 > **Definitions:** means that (1)
 > **Speakers:** - podcasts (1)
 
-#### Mobility and dexterity issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/mobility-and-dexterity-issues?u=76281980)
+#### [Mobility and dexterity issues](https://www.linkedin.com/learning/ux-foundations-accessibility/mobility-and-dexterity-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1572,7 +1552,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/ux-foundations-accessibility/mobility-and-dexterity-issues?u=76281980&t=17)** I'd like you to use it to turn captions on.
 >
-> **[0:20](https://www.linkedin.com/learning/ux-foundations-accessibility/mobility-and-dexterity-issues?u=76281980&t=20)** I'd like you to use it to search the course for the word "magnifier."
+> **[0:20](https://www.linkedin.com/learning/ux-foundations-accessibility/mobility-and-dexterity-issues?u=76281980&t=20)** I'd like you to use it to search the course for the [[Microsoft Word|word]] "magnifier."
 >
 > **[0:26](https://www.linkedin.com/learning/ux-foundations-accessibility/mobility-and-dexterity-issues?u=76281980&t=26)** How easy was it?
 >
@@ -1680,14 +1660,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (3), [[Search]] (2), [[Microsoft Word|Word]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **UI Navigation:** scroll down (2), click on (1), drag and drop (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - i (1)
 
-#### Cognitive issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/cognitive-issues?u=76281980)
+#### [Cognitive issues](https://www.linkedin.com/learning/ux-foundations-accessibility/cognitive-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1729,7 +1708,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ux-foundations-accessibility/cognitive-issues?u=76281980&t=84)** You should tell people how many steps a process will take before they start the process.
 >
-> **[1:29](https://www.linkedin.com/learning/ux-foundations-accessibility/cognitive-issues?u=76281980&t=89)** You should tell people in advance if something unexpected will happen like opening links in new tabs or windows.
+> **[1:29](https://www.linkedin.com/learning/ux-foundations-accessibility/cognitive-issues?u=76281980&t=89)** You should tell people in advance if something unexpected will happen like opening links in new tabs or [[Windows]].
 >
 > **[1:36](https://www.linkedin.com/learning/ux-foundations-accessibility/cognitive-issues?u=76281980&t=96)** The key to designing for cognitive difficulties is to avoid getting bogged down in medical diagnoses or causes.
 >
@@ -1747,11 +1726,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), functional (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Speakers:** - cognitive (1)
 
-#### Aging into disability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/aging-into-disability?u=76281980)
+#### [Aging into disability](https://www.linkedin.com/learning/ux-foundations-accessibility/aging-into-disability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1763,7 +1741,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ux-foundations-accessibility/aging-into-disability?u=76281980&t=16)** I try not to admit it, but I really can't read the words on a medicine container anymore.
 >
-> **[0:21](https://www.linkedin.com/learning/ux-foundations-accessibility/aging-into-disability?u=76281980&t=21)** I don't have glasses or contacts but I often take photos of the dosage or instructions with my phone and then zoom into the photo to read it.
+> **[0:21](https://www.linkedin.com/learning/ux-foundations-accessibility/aging-into-disability?u=76281980&t=21)** I don't have glasses or contacts but I often take photos of the dosage or instructions with my phone and then [[Zoom]] into the photo to read it.
 >
 > **[0:29](https://www.linkedin.com/learning/ux-foundations-accessibility/aging-into-disability?u=76281980&t=29)** At some point, I'm sure it will be bad enough that I do need glasses.
 >
@@ -1787,7 +1765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), functional (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Speakers:** - as (1)
 
 
@@ -1795,14 +1773,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessibility in content strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980)
+#### [Accessibility in content strategy](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980&t=0)** - Twelve.
 >
-> **[0:01](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980&t=1)** That's the number of times someone using a banking site we were working on, got lost in completing one simple transaction.
+> **[0:01](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980&t=1)** That's the number of times someone using a [[Banking]] site we were working on, got lost in completing one simple transaction.
 >
 > **[0:09](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980&t=9)** They needed to add a bill and pay it, but they got lost.
 >
@@ -1820,7 +1797,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980&t=38)** Including getting lost in the middle of multi-step processes.
 >
-> **[0:42](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980&t=42)** Number two, when they submitted forms they didn't know what was going to happen.
+> **[0:42](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980&t=42)** Number two, when they submitted [[Forms]] they didn't know what was going to happen.
 >
 > **[0:47](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980&t=47)** Was it going to refresh the page?
 >
@@ -1891,8 +1868,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - twelve (1)
 
-#### Accessibility and layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-layout?u=76281980)
+#### [Accessibility and layout](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,7 +1878,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-layout?u=76281980&t=11)** These are significant challenges for people with low vision that have a limited view of the screen.
 >
-> **[0:16](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-layout?u=76281980&t=16)** Look to transform some of your forms from a multiple column layout like this one into a single vertical stack.
+> **[0:16](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-layout?u=76281980&t=16)** Look to transform some of your [[Forms]] from a multiple column layout like this one into a single vertical stack.
 >
 > **[0:23](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-layout?u=76281980&t=23)** This will keep error messages, form field requirements, and other important information all in the field of view for a low-vision user.
 >
@@ -1941,8 +1917,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Accessibility and visual design
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-visual-design?u=76281980)
+#### [Accessibility and visual design](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-visual-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1994,12 +1969,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - one (1)
 
-#### Accessibility and interaction design
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-interaction-design?u=76281980)
+#### [Accessibility and interaction design](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-interaction-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2087,15 +2060,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** itunes (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - no (1)
 
-#### Accessibility and user research
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-research?u=76281980)
+#### [Accessibility and user research](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-and-user-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2144,8 +2115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More resources and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/more-resources-and-next-steps?u=76281980)
+#### [More resources and next steps](https://www.linkedin.com/learning/ux-foundations-accessibility/more-resources-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2155,7 +2125,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ux-foundations-accessibility/more-resources-and-next-steps?u=76281980&t=5)** As we've said, this is just the tip of the iceberg.
 >
-> **[0:09](https://www.linkedin.com/learning/ux-foundations-accessibility/more-resources-and-next-steps?u=76281980&t=9)** I encourage you to check out Zoe Gillenwater's course: Web Accessibility Principles right here on [Lynda.com](https://Lynda.com).
+> **[0:09](https://www.linkedin.com/learning/ux-foundations-accessibility/more-resources-and-next-steps?u=76281980&t=9)** I encourage you to check out Zoe Gillenwater's course: [[Web Accessibility]] Principles right here on [Lynda.com](https://Lynda.com).
 >
 > **[0:15](https://www.linkedin.com/learning/ux-foundations-accessibility/more-resources-and-next-steps?u=76281980&t=15)** A great resource with lots of articles on accessibility is the WebAIM site at: [webaim.org](https://webaim.org).
 >

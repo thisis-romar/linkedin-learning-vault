@@ -93,20 +93,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=0)** - [Alex] Hello, my name is Alex Banks.
 >
-> **[0:02](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=2)** Welcome to Node.js design patterns.
+> **[0:02](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=2)** Welcome to [[Node.js]] [[Design Patterns]].
 >
-> **[0:04](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=4)** Design patterns are proven, tested solutions to the problems that we face every day in software development.
+> **[0:04](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=4)** Design patterns are proven, tested solutions to the problems that we face every day in [[Software Development]].
 >
 > **[0:09](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=9)** They are techniques that we can use to help us improve the way we write code, as well as the way we communicate about solutions.
 >
-> **[0:15](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=15)** Node.js is a runtime environment for the JavaScript language.
+> **[0:15](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=15)** Node.js is a runtime environment for the [[JavaScript]] language.
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=19)** In this course, we're going to cover 13 of the 23 classic object-oriented design patterns, as defined by The Gang of Four, or the four authors who wrote the book on object-oriented design patterns.
 >
@@ -116,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=48)** We will then move on to structural patterns and learn how we can effectively change our software through structural techniques.
 >
-> **[0:55](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=55)** I'm excited to show you how you can implement the same design patterns that engineers use in Java and C++, but this time, with the world's most popular programming language, JavaScript.
+> **[0:55](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=55)** I'm excited to show you how you can implement the same design patterns that engineers use in [[Java]] and C++, but this time, with the world's most popular programming language, JavaScript.
 >
 > **[1:03](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980&t=63)** Welcome to this course, let's get started.
 
@@ -128,12 +127,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [alex] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/node-js-design-patterns/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/what-you-should-know?u=76281980&t=0)** - [Instructor] Design patterns are advanced techniques that help us improve the way we write code.
+> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/what-you-should-know?u=76281980&t=0)** - [Instructor] [[Design Patterns]] are advanced techniques that help us improve the way we write code.
 >
 > **[0:04](https://www.linkedin.com/learning/node-js-design-patterns/what-you-should-know?u=76281980&t=4)** Specifically they help us write more scalable solutions by restructuring our solutions into parts that communicate with each other.
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-design-patterns/what-you-should-know?u=76281980&t=16)** Implementing these techniques can be tricky, so this is not a beginner course.
 >
-> **[0:20](https://www.linkedin.com/learning/node-js-design-patterns/what-you-should-know?u=76281980&t=20)** If you're brand new to programming, JavaScript, or Node.js, you may want to make sure that you've taken some time to practice writing code and building applications before starting this course.
+> **[0:20](https://www.linkedin.com/learning/node-js-design-patterns/what-you-should-know?u=76281980&t=20)** If you're brand new to programming, [[JavaScript]], or [[Node.js]], you may want to make sure that you've taken some time to practice writing code and building applications before starting this course.
 >
 > **[0:30](https://www.linkedin.com/learning/node-js-design-patterns/what-you-should-know?u=76281980&t=30)** This course is designed to demonstrate proven techniques that you can use to make code that you've already written better.
 >
@@ -169,14 +167,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (7), [[JavaScript]] (5), [[Design Patterns]] (3), node (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (7), [[JavaScript]] (5), [[Design Patterns]] (3)
 > **CLI Commands:** node (9), make (3)
 > **File Paths:** node.js (7)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/using-the-exercise-files-24004512?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/node-js-design-patterns/using-the-exercise-files-24004512?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,12 +206,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are design patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980)
+#### [What are design patterns?](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980&t=0)** - [Instructor] So what exactly are design patterns?
+> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980&t=0)** - [Instructor] So what exactly are [[Design Patterns]]?
 >
 > **[0:03](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980&t=3)** Well, every day that we're building software, we are usually presented with a lot of challenging problems, problems that we might have already solved.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980&t=46)** You will have just created a design pattern.
 >
-> **[0:49](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980&t=49)** Design patterns are reusable, reliable solutions to problems that we face every day in software development.
+> **[0:49](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980&t=49)** Design patterns are reusable, reliable solutions to problems that we face every day in [[Software Development]].
 >
 > **[0:55](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980&t=55)** Design patterns are named, cataloged solutions.
 >
@@ -254,17 +250,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (7), application (2), [[Software Development]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (7), [[Software Development]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gang of Four: Design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980)
+#### [Gang of Four: Design patterns](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=0)** - [Instructor] Where did design patterns come from?
+> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=0)** - [Instructor] Where did [[Design Patterns]] come from?
 >
 > **[0:02](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=2)** Many attribute the origin of design patterns in computer science to the book, "Elements of Reusable Object-Oriented Software".
 >
@@ -282,7 +277,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=48)** Even though Christopher Alexander was referring to civic engineering, software engineering can also define patterns to describe solutions to problems that can be used a million times over.
 >
-> **[0:57](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=57)** The Gang of Four provided a clear definition of software design patterns, and outlined their required parts.
+> **[0:57](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=57)** The Gang of Four provided a clear definition of [[Software Design Patterns]], and outlined their required parts.
 >
 > **[1:02](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=62)** Each pattern must have a name.
 >
@@ -306,11 +301,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=107)** The Gang of Four design patterns were created for object oriented programming languages, and the book included examples written in C++.
 >
-> **[1:54](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=114)** However, the Gang of Four patterns can be implemented in a number of software languages, included Node.js.
+> **[1:54](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=114)** However, the Gang of Four patterns can be implemented in a number of software languages, included [[Node.js]].
 >
 > **[1:59](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=119)** Additionally, design patterns are not just limited to object orientation.
 >
-> **[2:03](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=123)** In fact, JavaScript has design patterns that deal with concurrency and module structure, that were not included in the original Gang of Four design patterns.
+> **[2:03](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=123)** In fact, [[JavaScript]] has design patterns that deal with concurrency and module structure, that were not included in the original Gang of Four design patterns.
 >
 > **[2:09](https://www.linkedin.com/learning/node-js-design-patterns/gang-of-four-design-patterns?u=76281980&t=129)** This is because there are hundreds of design patterns, across many languages and programming paradigms, and new ones are being developed everyday.
 >
@@ -318,14 +313,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (13), [[Engineering]] (3), [[Software Design Patterns]] (2), [[Programming]] (2), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[Design Patterns]] (13), [[Software Design Patterns]] (2), [[Node.js]] (2), [[JavaScript]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anti-patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/anti-patterns?u=76281980)
+#### [Anti-patterns](https://www.linkedin.com/learning/node-js-design-patterns/anti-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,11 +329,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-design-patterns/anti-patterns?u=76281980&t=11)** Anti-patterns define a bad solution, as well as how they can negatively impact your application.
 >
-> **[0:16](https://www.linkedin.com/learning/node-js-design-patterns/anti-patterns?u=76281980&t=16)** Understanding anti-patterns can be equally as important as understanding design patterns.
+> **[0:16](https://www.linkedin.com/learning/node-js-design-patterns/anti-patterns?u=76281980&t=16)** Understanding anti-patterns can be equally as important as understanding [[Design Patterns]].
 >
 > **[0:21](https://www.linkedin.com/learning/node-js-design-patterns/anti-patterns?u=76281980&t=21)** When you see an anti-pattern in some code, we can say that that code smells, and we'll need to find a way to change it and make the code less stinky.
 >
-> **[0:29](https://www.linkedin.com/learning/node-js-design-patterns/anti-patterns?u=76281980&t=29)** There are several anti-patterns in JavaScript that we try to avoid.
+> **[0:29](https://www.linkedin.com/learning/node-js-design-patterns/anti-patterns?u=76281980&t=29)** There are several anti-patterns in [[JavaScript]] that we try to avoid.
 >
 > **[0:32](https://www.linkedin.com/learning/node-js-design-patterns/anti-patterns?u=76281980&t=32)** It's an anti-pattern in JavaScript to change or extend the prototype on an instance.
 >
@@ -363,7 +357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (3), [[JavaScript]] (3), application (2), node (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (3), [[JavaScript]] (3)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -374,8 +368,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The singleton problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-singleton-problem?u=76281980)
+#### [The singleton problem](https://www.linkedin.com/learning/node-js-design-patterns/the-singleton-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -457,7 +450,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Debugging]] (2), node (1)
 > **File Paths:** index.js (3), shopper.js (2), logger.js (1), store.js (1)
 > **CLI Commands:** make (1), node (1)
 > **Tools:** terminal (1)
@@ -466,8 +458,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Singletons pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-singletons-pattern?u=76281980)
+#### [The Singletons pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-singletons-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -537,7 +528,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (1), node (1)
 > **File Paths:** index.js (2), logger.js (1)
 > **Code Identifiers:** getinstance (3)
 > **CLI Commands:** node (1)
@@ -546,8 +536,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Singletons in Node
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/singletons-in-node?u=76281980)
+#### [Singletons in Node](https://www.linkedin.com/learning/node-js-design-patterns/singletons-in-node?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -591,7 +580,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), application (2), [[Programming]] (1)
 > **CLI Commands:** node (5), make (1)
 > **File Paths:** logger.js (1), store.js (1), shopper.js (1), index.js (1)
 > **Definitions:** is a  (2), means that (1)
@@ -600,8 +588,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Prototype pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-pattern?u=76281980)
+#### [The Prototype pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,7 +602,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-pattern?u=76281980&t=23)** Each house was essentially a clone or a copy of a master design.
 >
-> **[0:27](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-pattern?u=76281980&t=27)** Sometimes we face the same challenge in software development.
+> **[0:27](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-pattern?u=76281980&t=27)** Sometimes we face the same challenge in [[Software Development]].
 >
 > **[0:30](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-pattern?u=76281980&t=30)** We might spend a lot of time creating and setting up objects that are essentially the same.
 >
@@ -671,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **File Paths:** index.js (2), scout_prototype.js (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Code Identifiers:** scout_prototype (2)
@@ -680,8 +667,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
 
-#### The prototype clone method
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-clone-method?u=76281980)
+#### [The prototype clone method](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-clone-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-clone-method?u=76281980&t=40)** So the first thing I want to do is I want to copy the copy the object structure.
 >
-> **[0:44](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-clone-method?u=76281980&t=44)** And in java script the structure of this object contains the methods add items to lists, a getter for shopping lists, getters and setters for the name value, as well as a constructor.
+> **[0:44](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-clone-method?u=76281980&t=44)** And in [[Java]] script the structure of this object contains the methods add items to lists, a getter for shopping lists, getters and setters for the name value, as well as a constructor.
 >
 > **[0:54](https://www.linkedin.com/learning/node-js-design-patterns/the-prototype-clone-method?u=76281980&t=54)** So what we're going to go ahead and do is copy all of the prototype methods that we see here on the screen, the getters and setters for name, the getter for the shopping list and the add item to list, simply by grabbing the current prototype for the current instance.
 >
@@ -745,7 +731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), node (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (3), node (1)
 > **File Paths:** shopper.js (1), index.js (1)
 > **Code Identifiers:** getprototypeof (1)
@@ -754,12 +740,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
 
-#### The Factory pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-factory-pattern?u=76281980)
+#### [The Factory pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-factory-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/the-factory-pattern?u=76281980&t=0)** - In the real world, factories create products.
+> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/the-factory-pattern?u=76281980&t=0)** - In the real world, factories create [[Microsoft Products|products]].
 >
 > **[0:03](https://www.linkedin.com/learning/node-js-design-patterns/the-factory-pattern?u=76281980&t=3)** An auto factory creates cars, a phone factory creates phones, and a chemical factory would create chemicals.
 >
@@ -769,7 +754,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-design-patterns/the-factory-pattern?u=76281980&t=16)** If we want a truck, the factory will build it for us.
 >
-> **[0:19](https://www.linkedin.com/learning/node-js-design-patterns/the-factory-pattern?u=76281980&t=19)** In JavaScript, we also have different types of objects that we may need to instantiate.
+> **[0:19](https://www.linkedin.com/learning/node-js-design-patterns/the-factory-pattern?u=76281980&t=19)** In [[JavaScript]], we also have different types of objects that we may need to instantiate.
 >
 > **[0:23](https://www.linkedin.com/learning/node-js-design-patterns/the-factory-pattern?u=76281980&t=23)** We can improve our code by encapsulating all of the constructors into a single module and creating a function that will will create the objects for us.
 >
@@ -847,7 +832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[JavaScript]] (2), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (4), is called (1), is a  (1)
 > **File Paths:** index.js (2), factory.js (1)
 > **Tools:** terminal (2)
@@ -856,8 +841,7 @@ created: 2026-05-02
 > **Env Vars:** suvs (1)
 > **Cross-References:** go back to (1)
 
-#### The Builder pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-builder-pattern?u=76281980)
+#### [The Builder pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-builder-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -883,7 +867,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/node-js-design-patterns/the-builder-pattern?u=76281980&t=51)** The builder pattern is a solution to specific kind of problem, a specific kind of anti-pattern named a telescoping constructor.
 >
-> **[0:58](https://www.linkedin.com/learning/node-js-design-patterns/the-builder-pattern?u=76281980&t=58)** So let's take a look at how we can implement the builder pattern in JavaScript.
+> **[0:58](https://www.linkedin.com/learning/node-js-design-patterns/the-builder-pattern?u=76281980&t=58)** So let's take a look at how we can implement the builder pattern in [[JavaScript]].
 >
 > **[1:01](https://www.linkedin.com/learning/node-js-design-patterns/the-builder-pattern?u=76281980&t=61)** So I'm looking at my exercise files under chapter two, lesson seven within the start folder.
 >
@@ -931,7 +915,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/node-js-design-patterns/the-builder-pattern?u=76281980&t=175)** I can see that Sue is an employee, that she's a manager with 60 hours a week, and we have an instance of a person that was created using the builder.
 >
-> **[3:02](https://www.linkedin.com/learning/node-js-design-patterns/the-builder-pattern?u=76281980&t=182)** I'm going to go ahead and modify the rest of this code to use the person builder, so we'll also have Bill, and Phil, and instead of having these extra arguments here, we'll just go ahead and chain the stuff on, so Bill is an employee as well, and Bill is going to be a part time employee and also we will build that instance using the builder.
+> **[3:02](https://www.linkedin.com/learning/node-js-design-patterns/the-builder-pattern?u=76281980&t=182)** I'm going to go ahead and modify the [[Representational State Transfer (REST)|rest]] of this code to use the person builder, so we'll also have Bill, and Phil, and instead of having these extra arguments here, we'll just go ahead and chain the stuff on, so Bill is an employee as well, and Bill is going to be a part time employee and also we will build that instance using the builder.
 >
 > **[3:23](https://www.linkedin.com/learning/node-js-design-patterns/the-builder-pattern?u=76281980&t=203)** And Phil is also an employee.
 >
@@ -965,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), application (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (5), is a  (2), means that (2)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** later in (1), in the next (1)
@@ -974,8 +958,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Implementing a builder
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/implementing-a-builder?u=76281980)
+#### [Implementing a builder](https://www.linkedin.com/learning/node-js-design-patterns/implementing-a-builder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,7 +1128,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), node (1)
 > **Code Identifiers:** makeparttime (3), makeemployee (2), makemanager (2), tostring (2), isemployee (1)
 > **CLI Commands:** make (5), node (1)
 > **File Paths:** index.js (4), person.js (1)
@@ -1153,14 +1135,14 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise files (1)
+> **Prerequisites:** set up (1)
 
 
 ### 3. Structural Patterns
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980)
+#### [The Adapter pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,13 +1192,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980&t=81)** Adapters lets classes work together that couldn't otherwise because of incompatible interfaces.
 >
-> **[1:27](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980&t=87)** Let's take a look at this example with some JavaScript.
+> **[1:27](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980&t=87)** Let's take a look at this example with some [[JavaScript]].
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980&t=89)** I'm inside of the exercise files under Chapter Three, Lesson One within the start folder.
 >
 > **[1:35](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980&t=95)** One problem that you might have is you might already have some code that is designed to work in a particular environment, or with a particular tool, but you want the exact same code to work in a different environment or with another object to accomplish the same task.
 >
-> **[1:48](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980&t=108)** Maybe you have some JavaScript written by web developers that is designed to run in the browser, but you want the exact same code to work in a Node.js environment.
+> **[1:48](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980&t=108)** Maybe you have some JavaScript written by web developers that is designed to run in the browser, but you want the exact same code to work in a [[Node.js]] environment.
 >
 > **[1:55](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980&t=115)** In the index.js file found in the start folder, there's an example of some JavaScript that saves and reads data from local storage, a browser API that is not available in Node.
 >
@@ -1228,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[Node.js]] (3), api (2), web (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Node.js]] (3)
 > **CLI Commands:** node (4), make (1)
 > **File Paths:** node.js (3), index.js (1)
 > **Env Vars:** api (2)
@@ -1237,12 +1219,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Implementing an adapter
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/implementing-an-adapter?u=76281980)
+#### [Implementing an adapter](https://www.linkedin.com/learning/node-js-design-patterns/implementing-an-adapter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/implementing-an-adapter?u=76281980&t=0)** - [Instructor] In the last lesson, we defined the adapter pattern and we looked at a case in JavaScript where an adapter might be helpful.
+> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/implementing-an-adapter?u=76281980&t=0)** - [Instructor] In the last lesson, we defined the adapter pattern and we looked at a case in [[JavaScript]] where an adapter might be helpful.
 >
 > **[0:06](https://www.linkedin.com/learning/node-js-design-patterns/implementing-an-adapter?u=76281980&t=6)** Here we have some code inside of the index.js file inside of our exercise files under chapter three lesson two within the start folder that uses the local storage API.
 >
@@ -1274,7 +1255,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/node-js-design-patterns/implementing-an-adapter?u=76281980&t=79)** Now the reason it's an adapter is because we need to adapt this interface to a local environment.
 >
-> **[1:24](https://www.linkedin.com/learning/node-js-design-patterns/implementing-an-adapter?u=76281980&t=84)** Instead of saving the data within the local storage API of the browser, we're actually just going to save this data to a JSON document.
+> **[1:24](https://www.linkedin.com/learning/node-js-design-patterns/implementing-an-adapter?u=76281980&t=84)** Instead of saving the data within the local storage API of the browser, we're actually just going to save this data to a [[JSON]] document.
 >
 > **[1:31](https://www.linkedin.com/learning/node-js-design-patterns/implementing-an-adapter?u=76281980&t=91)** So the first thing that I'm going to do is I'm going to import some variables from the file system.
 >
@@ -1396,7 +1377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (17), data (9), api (6), node (3), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JSON]] (17), [[JavaScript]] (1)
 > **Code Identifiers:** localstorage (13), writefile (2), existssync (2), readfilesync (2), getitem (1)
 > **Env Vars:** json (9), api (6)
 > **File Paths:** localstorage.json (8), index.js (2)
@@ -1405,8 +1386,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise files (1)
 
-#### The Proxy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-proxy-pattern?u=76281980)
+#### [The Proxy pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-proxy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1428,7 +1408,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/node-js-design-patterns/the-proxy-pattern?u=76281980&t=48)** The gang of four defines the intent of a proxy as providing a surrogate or placeholder for another object to control access to it.
 >
-> **[0:56](https://www.linkedin.com/learning/node-js-design-patterns/the-proxy-pattern?u=76281980&t=56)** In addition to managing expensive objects, proxies can be used to manage a remote resource, provide data validation of input, provide security, cache data, even log actions.
+> **[0:56](https://www.linkedin.com/learning/node-js-design-patterns/the-proxy-pattern?u=76281980&t=56)** In addition to managing expensive objects, proxies can be used to manage a remote resource, provide [[Data Validation]] of input, provide security, cache data, even log actions.
 >
 > **[1:07](https://www.linkedin.com/learning/node-js-design-patterns/the-proxy-pattern?u=76281980&t=67)** Just like the adapter pattern, a proxy must provide the same interface as the subject.
 >
@@ -1456,7 +1436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (1), generic (1), node (1), next (1)
+> **Frameworks & Libraries:** [[Data Validation]] (1)
 > **Env Vars:** ceo (5)
 > **CLI Commands:** make (2), node (1)
 > **File Paths:** index.js (2)
@@ -1465,8 +1445,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise files (1)
 
-#### Implementing a proxy
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/implementing-a-proxy?u=76281980)
+#### [Implementing a proxy](https://www.linkedin.com/learning/node-js-design-patterns/implementing-a-proxy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1566,7 +1545,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), hit (1), data (1), node (1)
 > **Code Identifiers:** readfile (10), writefile (1), appendfile (1)
 > **CLI Commands:** make (5), node (1)
 > **File Paths:** index.js (3)
@@ -1574,9 +1552,9 @@ created: 2026-05-02
 > **Definitions:** is an  (2)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
+> **Exercise Files:** exercise files (1)
 
-#### The Composite pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-composite-pattern?u=76281980)
+#### [The Composite pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-composite-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1656,7 +1634,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **Definitions:** means that (2), is a  (1)
 > **File Paths:** index.js (2)
 > **CLI Commands:** find (1), make (1)
@@ -1665,8 +1642,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing composites
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/implementing-composites?u=76281980)
+#### [Implementing composites](https://www.linkedin.com/learning/node-js-design-patterns/implementing-composites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1728,7 +1704,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/node-js-design-patterns/implementing-composites?u=76281980&t=210)** So let's go ahead and enhance our client code a little more.
 >
-> **[3:32](https://www.linkedin.com/learning/node-js-design-patterns/implementing-composites?u=76281980&t=212)** The idea behind catalogs is because we are treating both items and groups uniformly, this will allow us to compose tree structures.
+> **[3:32](https://www.linkedin.com/learning/node-js-design-patterns/implementing-composites?u=76281980&t=212)** The idea behind catalogs is because we are treating both items and groups uniformly, this will allow us to [[Jetpack Compose|compose]] tree structures.
 >
 > **[3:39](https://www.linkedin.com/learning/node-js-design-patterns/implementing-composites?u=76281980&t=219)** So before I create an entire catalog, I want to create another group.
 >
@@ -1760,7 +1736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jetpack Compose|Compose]] (3), node (2)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3)
 > **CLI Commands:** make (5), node (2)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **File Paths:** index.js (3)
@@ -1769,8 +1745,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 
-#### The Decorator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-decorator-pattern?u=76281980)
+#### [The Decorator pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-decorator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1872,7 +1847,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **File Paths:** shopper.js (2), index.js (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1880,9 +1854,9 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise files (1)
+> **Speakers:** - [instructor] (1)
 
-#### Implementing decorators
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/implementing-decorators?u=76281980)
+#### [Implementing decorators](https://www.linkedin.com/learning/node-js-design-patterns/implementing-decorators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1908,7 +1882,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/node-js-design-patterns/implementing-decorators?u=76281980&t=77)** So the golden item's name will have "Golden" in it.
 >
-> **[1:22](https://www.linkedin.com/learning/node-js-design-patterns/implementing-decorators?u=76281980&t=82)** So we'll take the baseItem name, and we'll extend it by adding the word Golden in front of it.
+> **[1:22](https://www.linkedin.com/learning/node-js-design-patterns/implementing-decorators?u=76281980&t=82)** So we'll take the baseItem name, and we'll extend it by adding the [[Microsoft Word|word]] Golden in front of it.
 >
 > **[1:27](https://www.linkedin.com/learning/node-js-design-patterns/implementing-decorators?u=76281980&t=87)** We'll also take the price of the item, so whatever the baseItem price is, we'll just add 1000 to that.
 >
@@ -1974,7 +1948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (2), node (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** baseitem (8), cutsglass (1)
 > **File Paths:** index.js (4)
 > **CLI Commands:** make (2), node (2)
@@ -1988,8 +1962,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Chain of responsibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980)
+#### [Chain of responsibility](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2011,7 +1984,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980&t=18)** And you can claim the sandwich at any point in the process.
 >
-> **[0:21](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980&t=21)** If you only want meats and cheeses, then the sandwich doesn't need to complete the rest of the steps on line.
+> **[0:21](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980&t=21)** If you only want meats and cheeses, then the sandwich doesn't need to complete the [[Representational State Transfer (REST)|rest]] of the steps on line.
 >
 > **[0:26](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980&t=26)** You can just take it and eat it.
 >
@@ -2047,7 +2020,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980&t=94)** If I come over here to the terminal to run this, node index.js, we can see that we find that item and that we have 15 of 'em.
 >
-> **[1:41](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980&t=101)** The inventory is actually coming from the inventory json data document.
+> **[1:41](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980&t=101)** The inventory is actually coming from the inventory [[JSON]] data document.
 >
 > **[1:45](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980&t=105)** And you can see that we have more options than just the floor.
 >
@@ -2115,7 +2088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Search]] (5), data (2), [[Representational State Transfer (REST)|Rest]] (1), node (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **CLI Commands:** find (10), node (1)
 > **File Paths:** index.js (3)
 > **Analogies:** similar to (1), for instance (1)
@@ -2124,8 +2097,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
 
-#### Implementing the storage class
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/implementing-the-storage-class?u=76281980)
+#### [Implementing the storage class](https://www.linkedin.com/learning/node-js-design-patterns/implementing-the-storage-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2273,7 +2245,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (15), [[Search]] (8), node (2), data (1), application (1)
 > **CLI Commands:** find (13), make (2), node (2)
 > **File Paths:** index.js (4), storage.js (2)
 > **Cross-References:** in the last (2), in the next (1)
@@ -2281,8 +2252,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-command-pattern?u=76281980)
+#### [The Command pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2402,7 +2372,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (2), prompt (2), data (1), node (1)
 > **File Paths:** hello.txt (3), index.js (1), conductor.js (1), commands.js (1)
 > **CLI Commands:** node (1), find (1)
 > **Tools:** terminal (2)
@@ -2411,8 +2380,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/implementing-commands?u=76281980)
+#### [Implementing commands](https://www.linkedin.com/learning/node-js-design-patterns/implementing-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2570,7 +2538,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), next (2), application (1), power (1)
 > **File Paths:** commands.js (2), hello.txt (2), conductor.js (1), index.js (1), node.index.js (1)
 > **CLI Commands:** node (4), make (4)
 > **Code Identifiers:** filename (2), fullpath (2), writefile (1)
@@ -2578,9 +2545,9 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Definitions:** is an  (2)
 > **Prerequisites:** set up (2)
+> **Exercise Files:** exercise files (1)
 
-#### Improving the conductor
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/improving-the-conductor?u=76281980)
+#### [Improving the conductor](https://www.linkedin.com/learning/node-js-design-patterns/improving-the-conductor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2734,7 +2701,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), power (1)
 > **File Paths:** commands.js (2), index.js (1), helloworld.txt (1), hiworld.txt (1), yoworld.txt (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (2)
@@ -2742,8 +2708,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-iterator-pattern?u=76281980)
+#### [The Iterator pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2753,7 +2718,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/node-js-design-patterns/the-iterator-pattern?u=76281980&t=9)** Iterators are designed to work with collections of data.
 >
-> **[0:12](https://www.linkedin.com/learning/node-js-design-patterns/the-iterator-pattern?u=76281980&t=12)** They give us a clear way to access the first data record, and then they give us a way to iterate through the rest of the rows within our data set.
+> **[0:12](https://www.linkedin.com/learning/node-js-design-patterns/the-iterator-pattern?u=76281980&t=12)** They give us a clear way to access the first data record, and then they give us a way to iterate through the [[Representational State Transfer (REST)|rest]] of the rows within our data set.
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-design-patterns/the-iterator-pattern?u=76281980&t=19)** It doesn't matter what type of data you're working with, iterators give us a clear way to iterate through any collection.
 >
@@ -2833,7 +2798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), data (4), application (2), [[Representational State Transfer (REST)|Rest]] (1), node (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** index.js (3), inventoryitem.js (1)
 > **CLI Commands:** make (3), node (1)
 > **Prerequisites:** set up (3)
@@ -2842,8 +2807,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Implementing iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/implementing-iterators?u=76281980)
+#### [Implementing iterators](https://www.linkedin.com/learning/node-js-design-patterns/implementing-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2879,7 +2843,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/node-js-design-patterns/implementing-iterators?u=76281980&t=106)** If we want to get the first item all we have to do is return this dot items zero.
 >
-> **[1:54](https://www.linkedin.com/learning/node-js-design-patterns/implementing-iterators?u=76281980&t=114)** Now, we could return this dot items zero but JavaScript actually provides us with a pretty cool way of doing this.
+> **[1:54](https://www.linkedin.com/learning/node-js-design-patterns/implementing-iterators?u=76281980&t=114)** Now, we could return this dot items zero but [[JavaScript]] actually provides us with a pretty cool way of doing this.
 >
 > **[1:59](https://www.linkedin.com/learning/node-js-design-patterns/implementing-iterators?u=76281980&t=119)** So I can actually destructure the first item from an array simply by surrounding that variable in brackets and now I can save this dot items and it will always give me the first item.
 >
@@ -2949,7 +2913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), application (2), node (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (3), node (2)
 > **Code Identifiers:** hasnext (3)
 > **File Paths:** iterator.js (1)
@@ -2958,8 +2922,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### The Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-observer-pattern?u=76281980)
+#### [The Observer pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3061,7 +3024,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), next (1)
 > **Definitions:** is a  (2), means that (2), known as (1), is an  (1)
 > **Exercise Files:** exercise files (2)
 > **File Paths:** index.js (1)
@@ -3069,9 +3031,9 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
+> **Speakers:** - [instructor] (1)
 
-#### Implementing observers
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/implementing-observers?u=76281980)
+#### [Implementing observers](https://www.linkedin.com/learning/node-js-design-patterns/implementing-observers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3141,7 +3103,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1)
 > **CLI Commands:** make (3), node (1)
 > **File Paths:** index.js (2), store.js (1)
 > **Definitions:** is a  (2)
@@ -3149,15 +3110,15 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise files (1)
+> **Speakers:** - [instructor] (1)
 
-#### The Strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980)
+#### [The Strategy pattern](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980&t=0)** - [Instructor] One of the most powerful and most dynamic design patterns is the strategy.
+> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980&t=0)** - [Instructor] One of the most powerful and most dynamic [[Design Patterns]] is the strategy.
 >
-> **[0:05](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980&t=5)** The strategy pattern let's you create multiple algorithms for a specific task and then dynamically decide upon which algorithm to use at run time.
+> **[0:05](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980&t=5)** The strategy pattern let's you create multiple [[Algorithms]] for a specific task and then dynamically decide upon which algorithm to use at run time.
 >
 > **[0:12](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980&t=12)** An example of a common place that the strategy pattern is used is with payment processing.
 >
@@ -3225,7 +3186,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980&t=192)** If we can change the strategy at run time this also means that we can set the strategy with a configuration file.
 >
-> **[3:18](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980&t=198)** So if we wanted to we could go over to our start folders and add a new file and we'll call it config.json and within one configuration file we can decide how the logger should log at run time without having to touch any of the code base.
+> **[3:18](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980&t=198)** So if we wanted to we could go over to our start folders and add a new file and we'll call it config.[[JSON]] and within one configuration file we can decide how the logger should log at run time without having to touch any of the code base.
 >
 > **[3:32](https://www.linkedin.com/learning/node-js-design-patterns/the-strategy-pattern?u=76281980&t=212)** I can add a logs node to this file, which we would assume would give us configuration information on how the logger should work and I'll also add a strategy field.
 >
@@ -3247,7 +3208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Algorithms]] (2), node (2), [[Design Patterns]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Design Patterns]] (1), [[JSON]] (1)
 > **File Paths:** index.js (3), logger.js (2), config.json (1)
 > **CLI Commands:** make (3), node (2)
 > **Definitions:** means that (2), is a  (1)
@@ -3256,8 +3217,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise files (1)
 
-#### Implementing strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980)
+#### [Implementing strategies](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3265,11 +3225,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=5)** In this lesson we're going to implement the pattern by creating several log strategies in a single class.
 >
-> **[0:10](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=10)** So, the first thing we want to do is encapsulate all of our strategies, all of our algorithms in a single class in a single file.
+> **[0:10](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=10)** So, the first thing we want to do is encapsulate all of our strategies, all of our [[Algorithms]] in a single class in a single file.
 >
 > **[0:17](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=17)** So I'm going to go over here to the start folder.
 >
-> **[0:18](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=18)** We are in the exercise files for chapter four, chapter four lesson 11 and within that start folder we have the index code that we changed to use the change strategy on line seven as well as the config.json file where we are able to set the strategy before the application gets started.
+> **[0:18](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=18)** We are in the exercise files for chapter four, chapter four lesson 11 and within that start folder we have the index code that we changed to use the change strategy on line seven as well as the config.[[JSON]] file where we are able to set the strategy before the application gets started.
 >
 > **[0:35](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=35)** So let's go ahead and add another file to this called log strategy.js and what we want to do in this file is create a class that we call log strategy and we're never going to instantiate any objects with this class.
 >
@@ -3403,7 +3363,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=448)** So I'm going to go into the log strategy and we're going to create one more strategy really quickly and this strategy is going to be called to Morse Code and to Morse Code is going to take in a time stamp and a message and we want to log this message to Morse Code.
 >
-> **[7:43](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=463)** So we're going to rely on NPM to do so.
+> **[7:43](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=463)** So we're going to rely on [[npm]] to do so.
 >
 > **[7:45](https://www.linkedin.com/learning/node-js-design-patterns/implementing-strategies?u=76281980&t=465)** I'm going to come over here to my terminal and we will NPM install a NPM called Morse.
 >
@@ -3443,7 +3403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[npm]] (5), [[JSON]] (4), node (3), data (2)
+> **Frameworks & Libraries:** [[npm]] (5), [[JSON]] (4), [[Algorithms]] (1)
 > **CLI Commands:** npm (5), make (4), node (3)
 > **File Paths:** index.js (4), logs.txt (3), logger.js (2), config.json (1), strategy.js (1)
 > **Env Vars:** npm (5), json (3)
@@ -3457,22 +3417,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980&t=0)** - [Alex] Thank you for joining me for Node.js design patterns.
+> **[0:00](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980&t=0)** - [Alex] Thank you for joining me for [[Node.js]] [[Design Patterns]].
 >
 > **[0:03](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980&t=3)** I really hope you can use this knowledge to improve the way you architect your applications.
 >
-> **[0:07](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980&t=7)** If you want to get better with JavaScript and are interested in learning more techniques and design patterns as they relate to the JavaScript language, I'd recommend checking out organizing JavaScript functionality with Kyle Simpson.
+> **[0:07](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980&t=7)** If you want to get better with [[JavaScript]] and are interested in learning more techniques and design patterns as they relate to the JavaScript language, I'd recommend checking out organizing JavaScript functionality with Kyle Simpson.
 >
 > **[0:18](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980&t=18)** If you want to learn more, in general, about design patterns, Elizabeth Robson and Eric Freeman have a great course called foundations of programming design patterns.
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980&t=27)** This course will reinforce what you've learned here.
 >
-> **[0:29](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980&t=29)** Additionally, you can see how some of the patterns that you've learned here, are implemented in Java.
+> **[0:29](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980&t=29)** Additionally, you can see how some of the patterns that you've learned here, are implemented in [[Java]].
 >
 > **[0:33](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980&t=33)** Electron is an awesome tool for building cross platform applications with Node.js.
 >
@@ -3484,7 +3443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Node.js]] (3), [[JavaScript]] (3), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Node.js]] (3), [[JavaScript]] (3), [[Java]] (1)
 > **File Paths:** node.js (3)
 > **CLI Commands:** node (3)
 > **Definitions:** is an  (1)

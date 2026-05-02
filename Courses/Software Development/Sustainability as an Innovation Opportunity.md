@@ -72,12 +72,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How the economy is transforming
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980)
+#### [How the economy is transforming](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980&t=0)** - What comes to mind when you hear the word sustainability?
+> **[0:00](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980&t=0)** - What comes to mind when you hear the [[Microsoft Word|word]] [[Sustainability]]?
 >
 > **[0:04](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980&t=4)** Maybe you think of packaging or recycling.
 >
@@ -103,13 +102,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980&t=60)** You'll go through the basics of what sustainability is.
 >
-> **[1:04](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980&t=64)** I'll show you how to assess the impacts of your products and services and then how to redesign them for the circular economy.
+> **[1:04](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980&t=64)** I'll show you how to assess the impacts of your [[Microsoft Products|products]] and services and then how to redesign them for the circular economy.
 >
 > **[1:11](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980&t=71)** So get ready because this course will challenge you to think differently and help you create a future that works better than today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), business (3), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - what (1)
 
 
@@ -117,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sustainability in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980)
+#### [Sustainability in business](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980&t=87)** This way we are meeting our needs, thriving as a species and doing it within the means of the one beautiful planet we all share.
 >
-> **[1:37](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980&t=97)** Before we go any further, let's talk specifically about what sustainability is.
+> **[1:37](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980&t=97)** Before we go any further, let's talk specifically about what [[Sustainability]] is.
 >
 > **[1:43](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980&t=103)** Sustainability is about ensuring that decisions made today don't impede the ability for future generations to have the same, if not better, quality of life as we do.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980&t=131)** These three things are crucial for a healthy and successful society.
 >
-> **[2:16](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980&t=136)** The challenge is to find ways of creating economically viable products and services that don't negatively affect people or create pollutants that damage the planet's ecosystems.
+> **[2:16](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980&t=136)** The challenge is to find ways of creating economically viable [[Microsoft Products|products]] and services that don't negatively affect people or create pollutants that damage the planet's ecosystems.
 >
 > **[2:28](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980&t=148)** That's the challenge of our time, which I find incredibly exciting because all challenges are just opportunities in disguise.
 >
@@ -178,15 +176,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** picture (1), imagine (1)
 > **Env Vars:** dna (1)
 > **Versions:** 1.7 (1)
 > **Speakers:** - how (1)
 
-#### Introducing the circular economy
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/introducing-the-circular-economy?u=76281980)
+#### [Introducing the circular economy](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/introducing-the-circular-economy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/introducing-the-circular-economy?u=76281980&t=86)** We can redesign the economy to be circular whereby waste is actually designed right out of the system from the start.
 >
-> **[1:36](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/introducing-the-circular-economy?u=76281980&t=96)** The circular economy is a model of production and consumption that eliminates waste by changing business models to deliver products that close the loop on the linear model.
+> **[1:36](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/introducing-the-circular-economy?u=76281980&t=96)** The circular economy is a model of production and consumption that eliminates waste by changing business models to deliver [[Microsoft Products|products]] that close the loop on the linear model.
 >
 > **[1:49](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/introducing-the-circular-economy?u=76281980&t=109)** To achieve circularity, we have to design all our goods and services to flow through an intentionally designed system that collects products at their end of life and reuses them before they become waste.
 >
@@ -264,7 +261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), business (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -272,8 +269,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - 100 (1)
 
-#### The innovation opportunity
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/the-innovation-opportunity?u=76281980)
+#### [The innovation opportunity](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/the-innovation-opportunity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/the-innovation-opportunity?u=76281980&t=30)** Now, think about the future potential of a world that uses the same ingenuity to design solutions that help us live sustainably on our one planet.
 >
-> **[0:41](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/the-innovation-opportunity?u=76281980&t=41)** We can address sustainability challenges through innovation, which is the introduction of new things, ideas, or ways of doing something.
+> **[0:41](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/the-innovation-opportunity?u=76281980&t=41)** We can address [[Sustainability]] challenges through innovation, which is the introduction of new things, ideas, or ways of doing something.
 >
 > **[0:51](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/the-innovation-opportunity?u=76281980&t=51)** Innovation often requires boundaries or parameters such as budget, time, or allocated resource constraints.
 >
@@ -295,7 +291,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/the-innovation-opportunity?u=76281980&t=64)** Nature also offers us natural parameters, such as the amount of resources we can extract, how much carbon we can safely emit into the atmosphere, or issues with inorganic materials like plastics ending up in the oceans.
 >
-> **[1:20](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/the-innovation-opportunity?u=76281980&t=80)** Take these parameters and use them as guidelines for creating new ways of designing products, doing business, and creating value.
+> **[1:20](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/the-innovation-opportunity?u=76281980&t=80)** Take these parameters and use them as guidelines for creating new ways of designing [[Microsoft Products|products]], doing business, and creating value.
 >
 > **[1:29](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/the-innovation-opportunity?u=76281980&t=89)** You have a perfect recipe for innovation success.
 >
@@ -319,18 +315,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Sustainability]] (3), business (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Sustainability]] (3)
 > **Analogies:** such as (2)
 > **Env Vars:** dna (1)
 > **Definitions:** is called (1)
 > **Speakers:** - innovation (1)
 
-#### Impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980)
+#### [Impact](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=0)** - What is the ecological impact of a Google search?
+> **[0:00](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=0)** - What is the ecological impact of a [[Google]] search?
 >
 > **[0:05](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=5)** Oh, well, that's complicated.
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=85)** But companies can do environmental audits and assessments on their energy, waste, water, and procurement to establish where they're contributing negative impacts.
 >
-> **[1:36](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=96)** There are many social and environmental impacts that we need to address, but one of the most important ones today is climate change impacts.
+> **[1:36](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=96)** There are many social and environmental impacts that we need to address, but one of the most important ones today is [[Climate Change]] impacts.
 >
 > **[1:44](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=104)** So let's explore the hidden impacts that carbon has.
 >
@@ -420,7 +415,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=301)** Companies use the Protocol to guide how they audit and assess their carbon emissions, which are laid out as three main areas of interest or what we call scopes.
 >
-> **[5:11](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=311)** The three scopes include scope one emissions which are direct emissions from sources that are owned and controlled by your organization like a factory or an office.
+> **[5:11](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=311)** The three scopes include scope one emissions which are direct emissions from sources that are owned and controlled by your organization like a factory or an [[Microsoft Office|office]].
 >
 > **[5:22](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=322)** Scope two emissions are indirect emissions from sources that are owned and controlled, but are not directly related to your operations.
 >
@@ -432,13 +427,13 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=362)** I'm going to be sharing with you the main tools for assessing these impacts in the next chapter.
 >
-> **[6:07](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=367)** Understanding where and how impacts occur is the cornerstone of sustainability.
+> **[6:07](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=367)** Understanding where and how impacts occur is the cornerstone of [[Sustainability]].
 >
 > **[6:12](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/impact?u=76281980&t=372)** Only when we measure something do we have the tools to then change it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), power (3), [[Google]] (2), [[Climate Change]] (2), product (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Climate Change]] (2), [[Microsoft Office|Office]] (1), [[Sustainability]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** just like (1), for example (1), such as (1)
@@ -446,20 +441,19 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - what (1)
 
-#### Take action tips: Climate positive actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980)
+#### [Take action tips: Climate positive actions](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=3)** - You might be feeling a bit overwhelmed by all the doom and gloom right now, but don't despair.
 >
-> **[0:08](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=8)** There are many actions you can take right now to help address climate change.
+> **[0:08](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=8)** There are many actions you can take right now to help address [[Climate Change]].
 >
 > **[0:12](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=12)** Here are my top tips for actions that you can do to help reduce your climate impacts.
 >
 > **[0:19](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=19)** Switch energy providers to ones that offer renewable resources.
 >
-> **[0:23](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=23)** Repair rather than replace your tech and other products.
+> **[0:23](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=23)** Repair rather than replace your tech and other [[Microsoft Products|products]].
 >
 > **[0:27](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=27)** Ask your financial services company, such as your bank or pension fund, what they invest in and be sure to swap to more ethical options.
 >
@@ -467,7 +461,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=38)** Look for electric or human-powered options.
 >
-> **[0:41](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=41)** Take action to eliminate waste from your home, office and production processes.
+> **[0:41](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=41)** Take action to eliminate waste from your home, [[Microsoft Office|office]] and production processes.
 >
 > **[0:46](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-climate-positive-actions?u=76281980&t=46)** Make your products so they last longer and offer repair and take back services to your customers, which is about being part of the circular economy.
 >
@@ -487,8 +481,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing waste out of the system
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980)
+#### [Designing waste out of the system](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=7)** Is that something you've asked yourself?
 >
-> **[0:09](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=9)** I mean, not many products have good end of life stories.
+> **[0:09](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=9)** I mean, not many [[Microsoft Products|products]] have good end of life stories.
 >
 > **[0:13](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=13)** Like this coffee cup, which is made from paper and lined with plastic and then some more plastic.
 >
@@ -506,7 +499,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=33)** Anything that becomes waste is a lost resource that drives the demand for new resources to be extracted from nature, bringing with it all of those embodied impacts that we've been talking about.
 >
-> **[0:46](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=46)** Over-extraction of natural resources is responsible for more than 80% of biodiversity loss and 53% of the world's carbon emissions.
+> **[0:46](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=46)** Over-extraction of natural resources is responsible for more than 80% of [[Biodiversity]] loss and 53% of the world's carbon emissions.
 >
 > **[0:59](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=59)** Extraction causes many issues, but so does getting rid of the waste that fills our lives at the end of its life.
 >
@@ -548,11 +541,11 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=212)** If you want to explore this more, look into nature based solutions.
 >
-> **[3:37](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=217)** Waste in all its forms is expensive and destructive.
+> **[3:37](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=217)** Waste in all its [[Forms]] is expensive and destructive.
 >
 > **[3:42](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=222)** Sadly, the more we create to feed the linear economy, the more we must go to nature, waste resources and destroy ecosystems.
 >
-> **[3:51](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=231)** So getting rid of waste entirely is the holy grail of sustainability.
+> **[3:51](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980&t=231)** So getting rid of waste entirely is the holy grail of [[Sustainability]].
 
 > [!info]- Semantic Content
 >
@@ -562,14 +555,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - hmm (1)
 
-#### What about recycling?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980)
+#### [What about recycling?](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980&t=1)** - "Only 9% of plastic created has ever been recycled."
 >
-> **[0:07](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980&t=7)** Shocking to think of the billions of tons of plastic products produced every year, such a small amount ends up getting recaptured and recycled into materials that can be used again.
+> **[0:07](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980&t=7)** Shocking to think of the billions of tons of plastic [[Microsoft Products|products]] produced every year, such a small amount ends up getting recaptured and recycled into materials that can be used again.
 >
 > **[0:18](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980&t=18)** So what solutions do we have to deal with waste?
 >
@@ -625,9 +617,9 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980&t=192)** Redesigning products to be part of the circular economy.
 >
-> **[3:16](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980&t=196)** From a sustainability perspective, reduction of waste is always better than recycling.
+> **[3:16](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980&t=196)** From a [[Sustainability]] perspective, reduction of waste is always better than recycling.
 >
-> **[3:22](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980&t=202)** And that's why, when we look at the waste crisis, we can see that the solution is to change product design, collection systems, and ensure that we are not wasting valuable materials.
+> **[3:22](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980&t=202)** And that's why, when we look at the waste crisis, we can see that the solution is to change [[Product Design]], collection systems, and ensure that we are not wasting valuable materials.
 >
 > **[3:34](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/what-about-recycling?u=76281980&t=214)** Imagine if we became more like nature, creating things that can be cycled round and round the system without making any waste.
 >
@@ -635,13 +627,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Sustainability]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Sustainability]] (1), [[Product Design]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 
-#### Life cycle thinking and life cycle maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/life-cycle-thinking-and-life-cycle-maps?u=76281980)
+#### [Life cycle thinking and life cycle maps](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/life-cycle-thinking-and-life-cycle-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -649,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/life-cycle-thinking-and-life-cycle-maps?u=76281980&t=5)** How it was made, where all its parts came from, and the journey it will take after it's been used or lost.
 >
-> **[0:13](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/life-cycle-thinking-and-life-cycle-maps?u=76281980&t=13)** While products, sadly, can't talk, we can use a method of exploring their entire life story to get a clearer picture of what impacts occurred in its production and life.
+> **[0:13](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/life-cycle-thinking-and-life-cycle-maps?u=76281980&t=13)** While [[Microsoft Products|products]], sadly, can't talk, we can use a method of exploring their entire life story to get a clearer picture of what impacts occurred in its production and life.
 >
 > **[0:26](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/life-cycle-thinking-and-life-cycle-maps?u=76281980&t=26)** This method is called Life Cycle Thinking, and it's a way to give everyday products, like the simple pen, a full life story to identify where impacts occur and to create better versions.
 >
@@ -659,7 +650,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/life-cycle-thinking-and-life-cycle-maps?u=76281980&t=61)** To ensure LCAs are robust and scientifically valid, they are governed by an international standard.
 >
-> **[1:08](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/life-cycle-thinking-and-life-cycle-maps?u=76281980&t=68)** You can actually find published LCAs on all sorts of products online by searching for them on Google Scholar.
+> **[1:08](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/life-cycle-thinking-and-life-cycle-maps?u=76281980&t=68)** You can actually find published LCAs on all sorts of products online by searching for them on [[Google]] Scholar.
 >
 > **[1:15](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/life-cycle-thinking-and-life-cycle-maps?u=76281980&t=75)** You can also hire an LCA expert to conduct one on your own products.
 >
@@ -717,7 +708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (5), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Google]] (1)
 > **Analogies:** picture (3), imagine (1), such as (1), just like (1)
 > **Definitions:** is called (3), is a  (1)
 > **Env Vars:** lca (3)
@@ -726,8 +717,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
 
-#### Supply chain sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/supply-chain-sustainability?u=76281980)
+#### [Supply chain sustainability](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/supply-chain-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +729,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/supply-chain-sustainability?u=76281980&t=29)** Supply chains are the systems that allow things to move through the economy from farm to factory to shop to your home.
 >
-> **[0:38](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/supply-chain-sustainability?u=76281980&t=38)** Just as life cycle thinking helps us understand the impacts of a specific product, supply chain sustainability expands our vision to look at the entire value chain involved in getting a product to market.
+> **[0:38](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/supply-chain-sustainability?u=76281980&t=38)** Just as life cycle thinking helps us understand the impacts of a specific product, supply chain [[Sustainability]] expands our vision to look at the entire value chain involved in getting a product to market.
 >
 > **[0:53](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/supply-chain-sustainability?u=76281980&t=53)** How are your workers treated?
 >
@@ -789,20 +779,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Sustainability]] (3), data (1), business (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - what (1)
 
-#### Take action tips: Procurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-procurement?u=76281980)
+#### [Take action tips: Procurement](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-procurement?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-procurement?u=76281980&t=3)** - Want to get started right away?
 >
-> **[0:05](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-procurement?u=76281980&t=5)** Well, here are my top tips for taking actions in your workplace so that you can get sustainability into your supply chain.
+> **[0:05](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-procurement?u=76281980&t=5)** Well, here are my top tips for taking actions in your workplace so that you can get [[Sustainability]] into your supply chain.
 >
 > **[0:13](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-procurement?u=76281980&t=13)** Get organic waste recycling.
 >
@@ -820,13 +809,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-procurement?u=76281980&t=48)** Find data and server providers that are low energy users.
 >
-> **[0:52](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-procurement?u=76281980&t=52)** Eliminate single use products from coffee cups, to straws and replace them with reusable options Are these not enough for you?
+> **[0:52](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-procurement?u=76281980&t=52)** Eliminate single use [[Microsoft Products|products]] from coffee cups, to straws and replace them with reusable options Are these not enough for you?
 >
 > **[1:01](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-procurement?u=76281980&t=61)** Well, another great resource is Project Drawdown's guide to taking action at work, and you can check out my list of additional resources to get more handy tips for taking action today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (1), product (1), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - want (1)
 
@@ -835,8 +824,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing for the circular economy
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-for-the-circular-economy?u=76281980)
+#### [Designing for the circular economy](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-for-the-circular-economy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,7 +832,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-for-the-circular-economy?u=76281980&t=6)** Well, let's explore it from a sustainable design and circular economy perspective and see what kind of design changes we can make to improve its ecological footprint.
 >
-> **[0:16](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-for-the-circular-economy?u=76281980&t=16)** Now, circular design is a way of creating products and services that dramatically reduce the impact of the business delivering them.
+> **[0:16](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-for-the-circular-economy?u=76281980&t=16)** Now, circular design is a way of creating [[Microsoft Products|products]] and services that dramatically reduce the impact of the business delivering them.
 >
 > **[0:25](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-for-the-circular-economy?u=76281980&t=25)** Remember in the circular economy everything is designed to be cycled around and around the economy with materials being recaptured and redeployed through intentionally designed systems.
 >
@@ -904,14 +892,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), business (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8)
 > **Analogies:** such as (2), just like (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - remember (1)
 
-#### Circular business opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980)
+#### [Circular business opportunities](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,7 +910,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=11)** Circular business models modify the pattern of product and material flows through the economy.
 >
-> **[0:18](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=18)** Some of these include extended lifespans, designing products with a longer usable life by providing repair and upgrade services, which maximize the likelihood of the product being used for a longer time.
+> **[0:18](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=18)** Some of these include extended lifespans, designing [[Microsoft Products|products]] with a longer usable life by providing repair and upgrade services, which maximize the likelihood of the product being used for a longer time.
 >
 > **[0:33](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=33)** Remanufacture.
 >
@@ -941,7 +928,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=77)** These are just some of many ways we can transform how we create business models so that we add value into the economy in sustainable ways.
 >
-> **[1:27](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=87)** No matter what approaches you use to get sustainability into your business, it's absolutely crucial that you don't do greenwashing.
+> **[1:27](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=87)** No matter what approaches you use to get [[Sustainability]] into your business, it's absolutely crucial that you don't do greenwashing.
 >
 > **[1:37](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=97)** Greenwashing is when companies invest more money in marketing green claims than actually doing the work to ensure their product or service has truly green credentials.
 >
@@ -957,7 +944,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=145)** So don't claim something that you can't measure or prove.
 >
-> **[2:29](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=149)** Avoid relying on basic information to make complex choices, like a simple Google search instead of using material safety data sheets.
+> **[2:29](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=149)** Avoid relying on basic information to make complex choices, like a simple [[Google]] search instead of using material safety data sheets.
 >
 > **[2:39](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/circular-business-opportunities?u=76281980&t=159)** Don't use images or graphic elements that mislead people into assuming your product is green and don't rely on your associations.
 >
@@ -969,13 +956,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), business (5), product (4), [[Sustainability]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Sustainability]] (2), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - the (1)
 
-#### Products as services and Circular ReDesign
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/products-as-services-and-circular-redesign?u=76281980)
+#### [Products as services and Circular ReDesign](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/products-as-services-and-circular-redesign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -983,7 +969,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/products-as-services-and-circular-redesign?u=76281980&t=6)** And as a result, you'd never need to throw anything away or figure out what to do with things at their end of life.
 >
-> **[0:13](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/products-as-services-and-circular-redesign?u=76281980&t=13)** This is exactly what products as services helps us do.
+> **[0:13](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/products-as-services-and-circular-redesign?u=76281980&t=13)** This is exactly what [[Microsoft Products|products]] as services helps us do.
 >
 > **[0:19](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/products-as-services-and-circular-redesign?u=76281980&t=19)** One key way of circularizing the economy is by creating subscription models that enable us to get what we need without all the waste and hassle of recycling.
 >
@@ -1055,13 +1041,13 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/products-as-services-and-circular-redesign?u=76281980&t=268)** This is about creating better, more durable and useful products that don't create waste.
 >
-> **[4:34](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/products-as-services-and-circular-redesign?u=76281980&t=274)** There are so many strategies you can apply to both the product design and your business model.
+> **[4:34](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/products-as-services-and-circular-redesign?u=76281980&t=274)** There are so many strategies you can apply to both the [[Product Design]] and your business model.
 >
 > **[4:40](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/products-as-services-and-circular-redesign?u=76281980&t=280)** So now's the chance for you to explore how you could do this in your industry.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (9), business (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Product Design]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** in the last (1)
@@ -1069,8 +1055,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - imagine (1)
 
-#### Sustainability action planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-action-planning?u=76281980)
+#### [Sustainability action planning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-action-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1078,7 +1063,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-action-planning?u=76281980&t=12)** To get ideas flowing, you may want to start by benchmarking, setting goals, and building momentum.
 >
-> **[0:20](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-action-planning?u=76281980&t=20)** I guarantee there are going to be companies in your sector who are leading the way when it comes to sustainability and the circular economy.
+> **[0:20](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-action-planning?u=76281980&t=20)** I guarantee there are going to be companies in your sector who are leading the way when it comes to [[Sustainability]] and the circular economy.
 >
 > **[0:27](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-action-planning?u=76281980&t=27)** A great way to motivate your company to get going is to benchmark and measure where and how your competitors are taking action.
 >
@@ -1122,18 +1107,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (5), leadership (2)
+> **Frameworks & Libraries:** [[Sustainability]] (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - there (1)
 
-#### Take action tips: Change actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-change-actions?u=76281980)
+#### [Take action tips: Change actions](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-change-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-change-actions?u=76281980&t=4)** - Both sustainability and innovation are about making change and for any organization, change can often be seen as a threat.
+> **[0:04](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-change-actions?u=76281980&t=4)** - Both [[Sustainability]] and innovation are about making change and for any organization, change can often be seen as a threat.
 >
 > **[0:12](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/take-action-tips-change-actions?u=76281980&t=12)** So here are my top tips for making change a success when you want to get more people involved and motivated.
 >
@@ -1179,18 +1163,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Innovate for sustainability in your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980)
+#### [Innovate for sustainability in your organization](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980&t=0)** - Thanks for taking this course and making it all the way to the end.
 >
-> **[0:04](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980&t=4)** I hope you are inspired and motivated to take action in your company to bring the innovation opportunity of sustainability as part of the core agenda for your company.
+> **[0:04](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980&t=4)** I hope you are inspired and motivated to take action in your company to bring the innovation opportunity of [[Sustainability]] as part of the core agenda for your company.
 >
 > **[0:15](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980&t=15)** There are many things to learn and do, and I've created lots of free toolkits, written many articles, and have a whole library of classes you can take on the unschool and disrupt design.
 >
-> **[0:27](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980&t=27)** You can dive deeper into full system sustainability and the circular economy to help make more change, and of course you can follow me on LinkedIn.
+> **[0:27](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980&t=27)** You can dive deeper into full system sustainability and the circular economy to help make more change, and of course you can follow me on [[LinkedIn]].
 >
 > **[0:36](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980&t=36)** Remember, sustainability is a journey.
 >

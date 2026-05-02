@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making the right choice for ITSM tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980)
+#### [Making the right choice for ITSM tools](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980&t=0)** - [Instructor] IT service management is rightly focused on a process view of IT service delivery, but you need tools to measure and monitor those processes.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980&t=0)** - [Instructor] [[IT Service Management]] is rightly focused on a process view of IT service delivery, but you need tools to measure and monitor those processes.
 >
 > **[0:09](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980&t=9)** And there's universal agreement that automated tools are necessary to properly measure and monitor how those processes perform.
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980&t=29)** But there's another set of considerations that show how a tool might operate in your environment.
 >
-> **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980&t=34)** How does the tool support audit, react to vendor upgrades, accept external data feeds?
+> **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980&t=34)** How does the tool support audit, [[React.js|react]] to vendor upgrades, accept external data feeds?
 >
 > **[0:40](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/making-the-right-choice-for-itsm-tools?u=76281980&t=40)** The right tool for you has implementation and operational considerations.
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Service Management]] (3), [[React.js|React]] (1), data (1)
+> **Frameworks & Libraries:** [[IT Service Management]] (3), [[React.js|React]] (1)
 > **Env Vars:** itsm (1)
 > **Speakers:** - [instructor] (1)
 
@@ -122,8 +121,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why these tools?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/why-these-tools?u=76281980)
+#### [Why these tools?](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/why-these-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,7 +161,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Env Vars:** itsm (2), url (1), pdf (1)
 > **Warnings:** note that (2)
 > **Speakers:** - [instructor] (1)
@@ -173,8 +170,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the considerations?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/what-are-the-considerations?u=76281980)
+#### [What are the considerations?](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/what-are-the-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,7 +198,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (1)
 > **Env Vars:** itsm (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -212,8 +207,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessible
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/accessible?u=76281980)
+#### [Accessible](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/accessible?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -231,24 +225,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Env Vars:** itsm (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notable tool features highlighting ServiceNow
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980)
+#### [Notable tool features highlighting ServiceNow](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=0)** - [Instructor] Each tool provides several paths to import and export data.
 >
-> **[0:04](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=4)** Two almost universal methods is accepting or creating CSV and Excel files and representational state transfer, REST web services.
+> **[0:04](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=4)** Two almost universal methods is accepting or creating CSV and [[Microsoft Excel|Excel]] files and [[Representational State Transfer (REST)|representational state transfer]], [[Representational State Transfer (REST)|REST]] web services.
 >
 > **[0:14](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=14)** Three basic goals of using these data paths are to perform a bulk load of foundation data at the outset of using the tool, updating records to match your environment or third, extracting data to perform analytics outside of the ITSM tool.
 >
-> **[0:30](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=30)** Within that second goal of updating records to match your IT environment, there is a huge area of data acquisition, the discovery of configuration items and synchronizing updates to the CMDB that I'm going to sidestep.
+> **[0:30](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=30)** Within that second goal of updating records to match your IT environment, there is a huge area of [[Data Acquisition]], the discovery of configuration items and synchronizing updates to the CMDB that I'm going to sidestep.
 >
 > **[0:44](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=44)** That area alone is large enough for a course all by itself.
 >
@@ -256,13 +248,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=52)** Here in this video, we'll do a lightning round of specialized actions within each ITSM tool.
 >
-> **[0:58](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=58)** BMC's Helix offers a data management console focused on how to acquire and manage foundation data, including locations, cities, organizations, people information, and support groups.
+> **[0:58](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=58)** BMC's Helix offers a [[Data Management]] console focused on how to acquire and manage foundation data, including locations, cities, organizations, people information, and support groups.
 >
 > **[1:12](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=72)** EasyVista's service manager provides a series of predefined connectors to load data into selected tables including help to normalize fields.
 >
 > **[1:22](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=82)** FreshWorks Fresh Service has the ability to directly import some data but the primary technique is the use of their REST APIs which can access a wide variety of data records.
 >
-> **[1:34](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=94)** Ivanti's service manager has a data integration wizard to manage data imports and exports including the ability to map and transform the raw data that you present to these wizards, to the tables in which they populate.
+> **[1:34](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=94)** Ivanti's service manager has a [[Data Integration]] wizard to manage data imports and exports including the ability to map and transform the raw data that you present to these wizards, to the tables in which they populate.
 >
 > **[1:47](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow-2?u=76281980&t=107)** ManageEngines's service desk plus has an import wizard and an export wizard to process records from certain tables.
 >
@@ -274,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Representational state transfer]] (1), web (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Data Acquisition]] (1), [[Data Management]] (1)
 > **Env Vars:** rest (2), itsm (2), cmdb (2), csv (1), bmc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -284,12 +276,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Auditable
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/auditable?u=76281980)
+#### [Auditable](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/auditable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/auditable?u=76281980&t=0)** - [Instructor] One goal of IT service management is to control change in the IT environment.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/auditable?u=76281980&t=0)** - [Instructor] One goal of [[IT Service Management]] is to control change in the IT environment.
 >
 > **[0:05](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/auditable?u=76281980&t=5)** The discipline of change management itself allows us to propose, execute, and review changes.
 >
@@ -315,14 +306,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), management (2), [[IT Service Management]] (1)
+> **Frameworks & Libraries:** [[IT Service Management]] (1)
 > **Env Vars:** itsm (4)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notable tool features highlighting BMC
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc-2?u=76281980)
+#### [Notable tool features highlighting BMC](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,7 +330,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc-2?u=76281980&t=53)** In Easy Vista, Menus, Screens, Fields, Filters and view changes can be traced in service manager according to history rules.
 >
-> **[1:02](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc-2?u=76281980&t=62)** The changes are displayed on the history of changes tab on forms and via specialized reporting, otherwise.
+> **[1:02](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc-2?u=76281980&t=62)** The changes are displayed on the history of changes tab on [[Forms]] and via specialized reporting, otherwise.
 >
 > **[1:10](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc-2?u=76281980&t=70)** Out of the box, Easy Vista provides a number of history rules.
 >
@@ -388,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Forms]] (2), business (1), api (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **Env Vars:** itsm (4), bmc (1), api (1)
 > **Analogies:** such as (3)
 > **UI Navigation:** checkbox (2)
@@ -400,12 +390,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Efficient
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/efficient?u=76281980)
+#### [Efficient](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/efficient?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/efficient?u=76281980&t=0)** - [Instructor] Most ITSM tools have a very rich set of features to define the look and feel of data forms and record lists.
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/efficient?u=76281980&t=0)** - [Instructor] Most ITSM tools have a very rich set of features to define the look and feel of data [[Forms]] and record lists.
 >
 > **[0:08](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/efficient?u=76281980&t=8)** You use the tool to bring to life a process view of IT service delivery.
 >
@@ -423,13 +412,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** itsm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notable tool features highlighting Ivanti
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-ivanti?u=76281980)
+#### [Notable tool features highlighting Ivanti](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-ivanti?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -441,7 +429,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-ivanti?u=76281980&t=13)** Others live and breathe every working minute in the tool, like service desk agents, change coordinators, asset managers.
 >
-> **[0:20](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-ivanti?u=76281980&t=20)** You want to make the tool's forms and record lists obvious to the casual users and efficient for the dedicated users.
+> **[0:20](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-ivanti?u=76281980&t=20)** You want to make the tool's [[Forms]] and record lists obvious to the casual users and efficient for the dedicated users.
 >
 > **[0:28](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-ivanti?u=76281980&t=28)** The ITSM tools we're looking at give you different ways to facilitate user interaction.
 >
@@ -501,7 +489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (5), data (4), business (3), next (1)
+> **Frameworks & Libraries:** [[Forms]] (5)
 > **Env Vars:** itsm (4), bmc (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -515,8 +503,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functional
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/functional?u=76281980)
+#### [Functional](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/functional?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -534,20 +521,19 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/functional?u=76281980&t=40)** But it's hard to figure out what path, if any, to take unless the tool provides a functional foundation, so you can see how the tool responds when presented with various data.
 >
-> **[0:50](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/functional?u=76281980&t=50)** Such a foundation includes ways to explore out of box capability using vendor-supplied demo or sample data and overall tool dashboards.
+> **[0:50](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/functional?u=76281980&t=50)** Such a foundation includes ways to explore out of box capability using vendor-supplied demo or sample data and overall tool [[Dashboards]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1), functional (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **Env Vars:** itsm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notable tool features highlighting EasyVista
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980)
+#### [Notable tool features highlighting EasyVista](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=0)** - [Instructor] So what kind of vendor supplied data or dashboards are available?
+> **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=0)** - [Instructor] So what kind of vendor supplied data or [[Dashboards]] are available?
 >
 > **[0:03](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=3)** Here, we'll note the data provided and give a dashboard example from each tool.
 >
@@ -559,7 +545,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=29)** All of the tools have some dashboards of varying complexity and coverage.
 >
-> **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=34)** The BMC example covers backlog and open test statistics for incidents, work orders, service request, and change requests in a very compact and informative dashboard.
+> **[0:34](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=34)** The BMC example covers backlog and open test [[Statistics]] for incidents, work orders, service request, and change requests in a very compact and informative dashboard.
 >
 > **[0:45](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=45)** EasyVista provides several homepage templates.
 >
@@ -585,13 +571,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=113)** Homepages need to be refreshed on a user selected cycle.
 >
-> **[1:57](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=117)** Dashboards are also provided that are real-time representations covering incidents, CMDB, problem, SLAs, and others.
+> **[1:57](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=117)** Dashboards are also provided that are [[Real-Time]] representations covering incidents, CMDB, problem, SLAs, and others.
 >
 > **[2:05](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-easyvista?u=76281980&t=125)** Having demo data and out of box dashboards is important so you can see how the tool operates without you having to invest the time and energy to load your data and configure dashboards for initial evaluations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Dashboards]] (6), [[Statistics]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (6), [[Statistics]] (1), [[Real-Time]] (1)
 > **Env Vars:** cmdb (2), bmc (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -604,8 +590,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measureable
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/measureable?u=76281980)
+#### [Measureable](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/measureable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,14 +604,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** itsm (2), csi (1)
 > **Cross-References:** next video (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notable tool features highlighting ManageEngine
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-manageengine?u=76281980)
+#### [Notable tool features highlighting ManageEngine](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-manageengine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,7 +621,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-manageengine?u=76281980&t=11)** This suggests there is always something there to measure.
 >
-> **[0:14](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-manageengine?u=76281980&t=14)** Here we're going to look at how our selected tool support metrics, key performance indicators, and dashboards.
+> **[0:14](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-manageengine?u=76281980&t=14)** Here we're going to look at how our selected tool support metrics, key performance indicators, and [[Dashboards]].
 >
 > **[0:21](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-manageengine?u=76281980&t=21)** BMC has a large collection of out of the box key performance indicator reports.
 >
@@ -680,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (7), [[Analytics]] (6), cloud (2), functional (1), product (1)
+> **Frameworks & Libraries:** [[Dashboards]] (7)
 > **Env Vars:** bmc (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
@@ -691,8 +674,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Permissive
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/permissive?u=76281980)
+#### [Permissive](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/permissive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,12 +692,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** itsm (2)
 > **Speakers:** - [instructor] (1)
 
-#### Notable tool features highlighting ServiceNow
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow?u=76281980)
+#### [Notable tool features highlighting ServiceNow](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,7 +725,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow?u=76281980&t=67)** There can be many user profiles defined in the system but each user can only be associated to one.
 >
-> **[1:13](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow?u=76281980&t=73)** The access rights include access to the rest API, the ability to edit views, filters help and display presentations, select which items appear in that user's main page, and if the user can access to create or modify records.
+> **[1:13](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow?u=76281980&t=73)** The access rights include access to the [[Representational State Transfer (REST)|rest]] API, the ability to edit views, filters help and display presentations, select which items appear in that user's main page, and if the user can access to create or modify records.
 >
 > **[1:30](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-servicenow?u=76281980&t=90)** The employee directory shows which profile is associated to a given user.
 >
@@ -801,7 +781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), management (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** itsm (2), acl (2), bmc (1), api (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -811,14 +791,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reportable
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/reportable?u=76281980)
+#### [Reportable](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/reportable?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/reportable?u=76281980&t=0)** - [Instructor] Reports feel just so old-fashioned.
 >
-> **[0:04](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/reportable?u=76281980&t=4)** Homepages, dashboards, and portals are much more modern, but there is a long, long legacy of report creation and distribution.
+> **[0:04](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/reportable?u=76281980&t=4)** Homepages, [[Dashboards]], and portals are much more modern, but there is a long, long legacy of report creation and distribution.
 >
 > **[0:13](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/reportable?u=76281980&t=13)** Rather than have to create afresh all your reports, learn why both out of the box and custom reports are so important.
 
@@ -828,8 +807,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notable tool features highlighting BMC
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc?u=76281980)
+#### [Notable tool features highlighting BMC](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -853,9 +831,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc?u=76281980&t=50)** For Freshworks, there is a custom report creation ability and a method by which those reports can be scheduled and distributed.
 >
-> **[0:57](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc?u=76281980&t=57)** For Ivanti, new reports can be built with a template and the templates themselves are created with Microsoft SSRC.
+> **[0:57](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc?u=76281980&t=57)** For Ivanti, new reports can be built with a template and the templates themselves are created with [[Microsoft]] SSRC.
 >
-> **[1:05](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc?u=76281980&t=65)** In addition, reports can be created with Microsoft's Business Intelligence Development Studio.
+> **[1:05](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc?u=76281980&t=65)** In addition, reports can be created with Microsoft's [[Business Intelligence (BI)|Business Intelligence]] Development Studio.
 >
 > **[1:11](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-bmc?u=76281980&t=71)** For ManageEngine, there is a method to create new custom reports and they can be scheduled for distribution.
 >
@@ -865,7 +843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), next (1), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** bmc (1), ssrc (1), url (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** template (1)
@@ -876,8 +854,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Upgradeable
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/upgradeable?u=76281980)
+#### [Upgradeable](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/upgradeable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -894,8 +871,7 @@ created: 2026-05-02
 > **Env Vars:** itsm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notable tool features highlighting Freshworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-freshworks?u=76281980)
+#### [Notable tool features highlighting Freshworks](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-freshworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,7 +899,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-freshworks?u=76281980&t=83)** Regarding promote to production paths, whatever alterations you do make, ultimately, need to be installed in your production environment.
 >
-> **[1:32](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-freshworks?u=76281980&t=92)** Some vendors have a pre-prod environment or two for experimentations or quality assurance.
+> **[1:32](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-freshworks?u=76281980&t=92)** Some vendors have a pre-prod environment or two for experimentations or [[Quality Assurance]].
 >
 > **[1:40](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-freshworks?u=76281980&t=100)** These vendors provide a defined path to promote your alteration through the pre-prod chain of environments, and finally and ultimately, on to production.
 >
@@ -939,7 +915,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-freshworks?u=76281980&t=141)** Make customizations or configuration changes and then see those changes recorded in the update set.
 >
-> **[2:27](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-freshworks?u=76281980&t=147)** You can alter out of the box forms or write entirely new scripts and they will records in that update set.
+> **[2:27](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-freshworks?u=76281980&t=147)** You can alter out of the box [[Forms]] or write entirely new scripts and they will records in that update set.
 >
 > **[2:34](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/notable-tool-features-highlighting-freshworks?u=76281980&t=154)** New custom columns in an existing table or entirely new custom tables, are forced into a naming convention that avoids any collision with anything ServiceNow would release.
 >
@@ -951,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), feature (1), [[Quality Assurance]] (1), management (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** itsm (2), crm (1), xml (1)
 > **Cross-References:** in the last (1)
@@ -964,14 +940,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The broader ITSM tool ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/the-broader-itsm-tool-ecosystem?u=76281980)
+#### [The broader ITSM tool ecosystem](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/the-broader-itsm-tool-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/the-broader-itsm-tool-ecosystem?u=76281980&t=0)** - [Instructor] ITSM tools don't work in isolation.
 >
-> **[0:03](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/the-broader-itsm-tool-ecosystem?u=76281980&t=3)** In this video, learn about the breadth of third-party software products that bolt on to an ITSM tool to extend its reach.
+> **[0:03](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/the-broader-itsm-tool-ecosystem?u=76281980&t=3)** In this video, learn about the breadth of third-party software [[Microsoft Products|products]] that bolt on to an ITSM tool to extend its reach.
 >
 > **[0:12](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/the-broader-itsm-tool-ecosystem?u=76281980&t=12)** Integrations come in many categories.
 >
@@ -985,12 +960,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** itsm (5), cmdb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/it-service-management-foundations-tools-2021/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,7 +994,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** itsm (3), pdf (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise file (1)

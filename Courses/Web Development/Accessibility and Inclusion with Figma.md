@@ -92,16 +92,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Figma accessibility plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980)
+#### [Figma accessibility plugins](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980&t=0)** - [Tom] Well, hello there.
 >
-> **[0:01](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980&t=1)** My name is Tom Green, and welcome to Accessibility and Inclusion in Figma.
+> **[0:01](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980&t=1)** My name is Tom Green, and welcome to Accessibility and Inclusion in [[Figma (Software)|Figma]].
 >
-> **[0:07](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980&t=7)** In this course, we're going to go deep into the major accessibility plug-ins for Figma, such as Stark, AD, and Able to become aware of how those with sight impairments will view our work.
+> **[0:07](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980&t=7)** In this course, we're going to go deep into the major accessibility plug-ins for Figma, such as [[Stark (Accessibility Software)|Stark]], AD, and Able to become aware of how those with sight impairments will view our work.
 >
 > **[0:19](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980&t=19)** We will also dig deep into inclusion and use the Humaaans plugin to create diverse line art, create an onboarding sequence, look at a way to add diversity to a persona, and accommodate language.
 >
@@ -120,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980)
+#### [Accessibility](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=4)** When you really dig into the topic of accessibility, it actually splits into two distinct pieces, perception and inclusion.
 >
-> **[0:14](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=14)** The first half of the course deals with accessibility, and when you really think about it, the accessibility plugins for Figma deal with perception.
+> **[0:14](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=14)** The first half of the course deals with accessibility, and when you really think about it, the accessibility plugins for [[Figma (Software)|Figma]] deal with perception.
 >
 > **[0:24](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=24)** The Cambridge Dictionary defines perception as, "An awareness of things through physical senses, especially sight."
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=41)** In either case, Oxford or Cambridge dictionaries, deal with how users see something and understand what they are seeing.
 >
-> **[0:53](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=53)** It is all too easy to regard Stark, Adee, and Able, as dealing mainly with vision issues.
+> **[0:53](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=53)** It is all too easy to regard [[Stark (Accessibility Software)|Stark]], Adee, and Able, as dealing mainly with vision issues.
 >
 > **[1:01](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=61)** In certain respects, this is indeed true, but go deeper and you discover they deal with how people perceive onscreen elements, how they move around your interfaces and perceive your color choices, all of which affect their access to understanding.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=109)** Not really.
 >
-> **[1:50](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=110)** Instead, we are asked to become aware of how others will perceive our work and to make informed, I'm going to stress that word, informed accessibility decisions around our work.
+> **[1:50](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=110)** Instead, we are asked to become aware of how others will perceive our work and to make informed, I'm going to stress that [[Microsoft Word|word]], informed accessibility decisions around our work.
 >
 > **[2:02](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980&t=122)** They also ask us to change our assumptions of how our work is perceived and used.
 >
@@ -179,19 +177,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), [[Figma (Software)|Figma]] (2), power (1), ux (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), [[Figma (Software)|Figma]] (2), [[Microsoft Word|Word]] (1)
 > **Tools:** figma (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing the Stark plugin for Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-the-stark-plugin-for-figma?u=76281980)
+#### [Installing the Stark plugin for Figma](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-the-stark-plugin-for-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-the-stark-plugin-for-figma?u=76281980&t=0)** - [Instructor] In many respects, Stark has become somewhat of a standard accessibility tool in Figma.
+> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-the-stark-plugin-for-figma?u=76281980&t=0)** - [Instructor] In many respects, [[Stark (Accessibility Software)|Stark]] has become somewhat of a standard accessibility tool in [[Figma (Software)|Figma]].
 >
 > **[0:06](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-the-stark-plugin-for-figma?u=76281980&t=6)** If you head over to the Stark homepage and select the Product drop-down, you'll get a sense of that last observation.
 >
@@ -213,14 +210,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Figma (Software)|Figma]] (4), product (2), feature (2), ux (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Figma (Software)|Figma]] (4)
 > **Tools:** figma (4)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Stark’s contrast checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-contrast-checker?u=76281980)
+#### [Using Stark’s contrast checker](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-contrast-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,7 +226,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-contrast-checker?u=76281980&t=12)** And when it came to being aware of accessibility, cool won out every time.
 >
-> **[0:18](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-contrast-checker?u=76281980&t=18)** Thankfully, that has all changed, and Stark's Contrast Checker is designed to bring contrast up to the current WCAG standard.
+> **[0:18](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-contrast-checker?u=76281980&t=18)** Thankfully, that has all changed, and [[Stark (Accessibility Software)|Stark]]'s Contrast Checker is designed to bring contrast up to the current WCAG standard.
 >
 > **[0:28](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-contrast-checker?u=76281980&t=28)** If you're unfamiliar with the standard, it is a rather extensive collection of web content accessibility guidelines, which you can check out here.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), web (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3)
 > **UI Navigation:** open the (2), click on (2), select the (1)
 > **Env Vars:** wcag (2), aaa (2)
 > **CLI Commands:** make (2)
@@ -321,22 +317,21 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Stark’s typography checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980)
+#### [Using Stark’s typography checker](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=0)** - [Instructor] I belong to the Figma User Group on LinkedIn, and hardly a day goes by where someone doesn't post something they're working on and asking what we think of their work.
+> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=0)** - [Instructor] I belong to the [[Figma (Software)|Figma]] User Group on [[LinkedIn]], and hardly a day goes by where someone doesn't post something they're working on and asking what we think of their work.
 >
-> **[0:10](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=10)** Many of those projects drive me up a wall across the ceiling and down the other wall because of poor typography.
+> **[0:10](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=10)** Many of those projects drive me up a wall across the ceiling and down the other wall because of poor [[Typography]].
 >
 > **[0:17](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=17)** The issues range from font choice to letting and practically everything else you can think of.
 >
 > **[0:23](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=23)** The most common issue though are text blocks where the text is too small and is neither readable nor legible.
 >
-> **[0:33](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=33)** Stark contains a typography tool right here that doesn't do what the name implies, solve typography issues, but it does address a major accessibility issue.
+> **[0:33](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=33)** [[Stark (Accessibility Software)|Stark]] contains a typography tool right here that doesn't do what the name implies, solve typography issues, but it does address a major accessibility issue.
 >
-> **[0:46](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=46)** Let's see how that works and to get yourself started, open the typography.fig file found in your chapter, download and zoom in on this trails.
+> **[0:46](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=46)** Let's see how that works and to get yourself started, open the typography.fig file found in your chapter, download and [[Zoom]] in on this trails.
 >
 > **[0:56](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-typography-checker?u=76281980&t=56)** What that typography tool does is to highlight improper font sizes and alignment.
 >
@@ -380,14 +375,13 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing alt text
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/reviewing-alt-text?u=76281980)
+#### [Reviewing alt text](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/reviewing-alt-text?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/reviewing-alt-text?u=76281980&t=0)** - In this exercise, we are going to use the Alt-Text tool.
 >
-> **[0:05](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/reviewing-alt-text?u=76281980&t=5)** To get yourself started, open the AltText.fig file in your chapter download, and when it opens, Launch Stark tools and zoom in on this image.
+> **[0:05](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/reviewing-alt-text?u=76281980&t=5)** To get yourself started, open the AltText.fig file in your chapter download, and when it opens, Launch [[Stark (Accessibility Software)|Stark]] tools and [[Zoom]] in on this image.
 >
 > **[0:17](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/reviewing-alt-text?u=76281980&t=17)** Before we start, I don't know about you, but I have always found writing Alt-Text for images to be difficult.
 >
@@ -443,15 +437,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), [[Zoom]] (1), ux (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), [[Zoom]] (1)
 > **Analogies:** picture (2)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - in (1)
 
-#### Correct focus order
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/correct-focus-order?u=76281980)
+#### [Correct focus order](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/correct-focus-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,8 +505,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Stark’s vision simulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980)
+#### [Using Stark’s vision simulator](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,13 +517,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=14)** The first is to sensitize you to how various users with specific vision issues will perceive your screens or page.
 >
-> **[0:23](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=23)** The second is to point out any issues that will make your pages and screens somewhat inaccessible and give you the opportunity to make an informed, I add the word informed, decision as to how to deal with it.
+> **[0:23](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=23)** The second is to point out any issues that will make your pages and screens somewhat inaccessible and give you the opportunity to make an informed, I add the [[Microsoft Word|word]] informed, decision as to how to deal with it.
 >
 > **[0:38](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=38)** So let's open up the Vision Simulator.
 >
 > **[0:49](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=49)** And you can see it's a pretty busy place.
 >
-> **[0:53](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=53)** You got two choices, generate or simulation.
+> **[0:53](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=53)** You got two choices, generate or [[Simulation]].
 >
 > **[0:56](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=56)** We'll use both in a minute, but let's take a look at some of the areas for simulation.
 >
@@ -539,7 +531,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=72)** So we'll start with simulation.
 >
-> **[1:17](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=77)** And there's the art board and you can choose a zoom level for a better look at it.
+> **[1:17](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=77)** And there's the art board and you can choose a [[Zoom]] level for a better look at it.
 >
 > **[1:27](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-stark-s-vision-simulator?u=76281980&t=87)** Now you can come over to the simulation and you can choose a way that someone with Deuteranopia would see it.
 >
@@ -601,22 +593,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (6), [[Zoom]] (2), [[Microsoft Word|Word]] (1), ux (1), feature (1)
+> **Frameworks & Libraries:** [[Simulation]] (6), [[Zoom]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Touch targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980)
+#### [Touch targets](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980&t=0)** - [Instructor] Nothing irritates me more than tapping on a button or a link in an app on my iPhone and nothing happens.
 >
-> **[0:09](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980&t=9)** This inevitably requires me to zoom in on the offending element and then tap it to get where I want to go.
+> **[0:09](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980&t=9)** This inevitably requires me to [[Zoom]] in on the offending element and then tap it to get where I want to go.
 >
-> **[0:15](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980&t=15)** With the Touch Targets tool in Stark, I can quickly identify the offenders and make adjustments.
+> **[0:15](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980&t=15)** With the Touch Targets tool in [[Stark (Accessibility Software)|Stark]], I can quickly identify the offenders and make adjustments.
 >
 > **[0:22](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980&t=22)** To see how this works, open the TouchTargets.fig file in your chapter download, and select Touch Targets in your Stark lineup.
 >
@@ -630,7 +621,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980&t=52)** Now, you're looking at iOS and Material Design.
 >
-> **[0:57](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980&t=57)** Think of Material Design as being Google's design system, which is used primarily on websites and Android devices.
+> **[0:57](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980&t=57)** Think of Material Design as being [[Google]]'s design system, which is used primarily on websites and [[Android]] devices.
 >
 > **[1:05](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/touch-targets?u=76281980&t=65)** So basically, the height is all wrong.
 >
@@ -664,8 +655,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding landmarks
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/adding-landmarks?u=76281980)
+#### [Adding landmarks](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/adding-landmarks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,7 +687,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/adding-landmarks?u=76281980&t=88)** And then we'll come down to the Footer group, and we'll make that the Footer, and we can add it.
 >
-> **[1:43](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/adding-landmarks?u=76281980&t=103)** Now if I zoom in and scroll down, you can see
+> **[1:43](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/adding-landmarks?u=76281980&t=103)** Now if I [[Zoom]] in and scroll down, you can see
 >
 > **[1:58](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/adding-landmarks?u=76281980&t=118)** that the landmarks have all been added.
 >
@@ -717,8 +707,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add Aria notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/add-aria-notes?u=76281980)
+#### [Add Aria notes](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/add-aria-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,7 +733,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/add-aria-notes?u=76281980&t=62)** So if you want to work along with me, open up the ARIA dot fig file, found in your chapter download.
 >
-> **[1:09](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/add-aria-notes?u=76281980&t=69)** So of course, we're going to open up Stark.
+> **[1:09](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/add-aria-notes?u=76281980&t=69)** So of course, we're going to open up [[Stark (Accessibility Software)|Stark]].
 >
 > **[1:17](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/add-aria-notes?u=76281980&t=77)** And what we're going to do is going to select that letter there, their close button, and we're going to select ARIA notes.
 >
@@ -786,19 +775,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Stark (Accessibility Software)|Stark]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (1)
 > **Env Vars:** aria (8)
 > **Definitions:** is a  (2), short for (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [speaker] (1)
 
-#### Using Sidekick
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-sidekick?u=76281980)
+#### [Using Sidekick](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-sidekick?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-sidekick?u=76281980&t=0)** - [Instructor] One of the slickest additions to the Stark lineup is Sidekick, so let's check it out.
+> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-sidekick?u=76281980&t=0)** - [Instructor] One of the slickest additions to the [[Stark (Accessibility Software)|Stark]] lineup is Sidekick, so let's check it out.
 >
 > **[0:05](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-sidekick?u=76281980&t=5)** And to get yourself started, open the Sidekick.fig file found in your chapter download.
 >
@@ -852,12 +840,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Stark accessibility checklist widget
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980)
+#### [The Stark accessibility checklist widget](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=0)** - [Instructor] We are going to finish this Stark overview with a Stark widget that should be included with every project.
+> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=0)** - [Instructor] We are going to finish this [[Stark (Accessibility Software)|Stark]] overview with a Stark widget that should be included with every project.
 >
 > **[0:09](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=9)** So to get yourself started, open the widget.fig file found in your chapter download.
 >
@@ -881,7 +868,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=66)** And I'm going to move this up.
 >
-> **[1:10](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=70)** And now I'm going to zoom in on it, because now it gets really important stuff.
+> **[1:10](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=70)** And now I'm going to [[Zoom]] in on it, because now it gets really important stuff.
 >
 > **[1:23](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=83)** As you can see, this checklist relates to designers, engineers, and product managers, basically the three major groups that work on any UX project.
 >
@@ -903,7 +890,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=130)** And if you want to find out what the general requirements are, well, that gives you a little hint as to what they are, and then the designer can say, "Okay, fine. I've reviewed this."
 >
-> **[2:24](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=144)** Color, Contrast, Typography, they've all got it.
+> **[2:24](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=144)** Color, Contrast, [[Typography]], they've all got it.
 >
 > **[2:27](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/the-stark-accessibility-checklist-widget?u=76281980&t=147)** Interactions and Patterns to Avoid.
 >
@@ -961,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (8), product (3), [[Zoom]] (1), ux (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (8), [[Zoom]] (1), [[Typography]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** dev (1)
 > **UI Navigation:** open the (1)
@@ -973,8 +960,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Adee
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-adee?u=76281980)
+#### [Installing Adee](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-adee?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-adee?u=76281980&t=28)** You can get a seven-day free trial, a professional account, or an enterprise account, and you're going to need to have one of these three to use the Adee plugin.
 >
-> **[0:40](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-adee?u=76281980&t=40)** So we're going back to the homepage, and as you can see, the Figma plugin is available to you right off the homepage.
+> **[0:40](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-adee?u=76281980&t=40)** So we're going back to the homepage, and as you can see, the [[Figma (Software)|Figma]] plugin is available to you right off the homepage.
 >
 > **[0:49](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-adee?u=76281980&t=49)** Now, I'm going to pop over to Figma and show you another place where you can get it.
 >
@@ -1006,8 +992,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Adee’s contrast checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-adee-s-contrast-checker?u=76281980)
+#### [Using Adee’s contrast checker](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-adee-s-contrast-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,13 +1050,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** open the (3), go to (1), select the (1)
 > **Env Vars:** aaa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the alt text generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-the-alt-text-generator?u=76281980)
+#### [Using the alt text generator](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-the-alt-text-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1163,8 +1146,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Adee’s color blindness simulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-adee-s-color-blindness-simulator?u=76281980)
+#### [Using Adee’s color blindness simulator](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-adee-s-color-blindness-simulator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,33 +1232,32 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-adee-s-color-blindness-simulator?u=76281980&t=253)** And again, that is up to you.
 >
-> **[4:15](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-adee-s-color-blindness-simulator?u=76281980&t=255)** If you want to include it with the project, feel free, and you might want to point this out to the rest of the team, that there are people that will have issues, and here's one issue I think we really should be aware of, and show it to them.
+> **[4:15](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-adee-s-color-blindness-simulator?u=76281980&t=255)** If you want to include it with the project, feel free, and you might want to point this out to the [[Representational State Transfer (REST)|rest]] of the team, that there are people that will have issues, and here's one issue I think we really should be aware of, and show it to them.
 >
 > **[4:30](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-adee-s-color-blindness-simulator?u=76281980&t=270)** So there you have it, colorblind mode in Adee.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** open the (2), select the (1)
 > **Warnings:** be aware (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking touch sizes
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-touch-sizes?u=76281980)
+#### [Checking touch sizes](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-touch-sizes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-touch-sizes?u=76281980&t=0)** - [Instructor] We have all had this experience.
 >
-> **[0:02](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-touch-sizes?u=76281980&t=2)** You open an app on your Android or iOS device and when you touch a button, nothing happens.
+> **[0:02](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-touch-sizes?u=76281980&t=2)** You open an app on your [[Android]] or iOS device and when you touch a button, nothing happens.
 >
 > **[0:08](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-touch-sizes?u=76281980&t=8)** Or God forbid you're taken to a screen you didn't expect.
 >
 > **[0:11](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-touch-sizes?u=76281980&t=11)** Here's another scenario.
 >
-> **[0:13](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-touch-sizes?u=76281980&t=13)** You open a webpage and the buttons are so small you need to zoom in to click them.
+> **[0:13](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-touch-sizes?u=76281980&t=13)** You open a webpage and the buttons are so small you need to [[Zoom]] in to click them.
 >
 > **[0:17](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-touch-sizes?u=76281980&t=17)** For us, an annoyance, for those with visual and physical disabilities, it is much more than an annoyance.
 >
@@ -1356,7 +1337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (4), [[Zoom]] (1), generic (1), css (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[Zoom]] (1)
 > **Code Identifiers:** iphone (3), ios (2)
 > **Env Vars:** wcag (4), css (1)
 > **UI Navigation:** open the (2), select the (1)
@@ -1368,12 +1349,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Able and Ally
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980)
+#### [Installing Able and Ally](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980&t=0)** - [Instructor] There will be occasions where the accessibility suites of Stark and AD may be just a bit too much.
+> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980&t=0)** - [Instructor] There will be occasions where the accessibility suites of [[Stark (Accessibility Software)|Stark]] and AD may be just a bit too much.
 >
 > **[0:08](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980&t=8)** In these instances, having a tool that does one thing exceedingly well may be all you need.
 >
@@ -1397,7 +1377,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980&t=80)** It's a different name, capital A, the number one, the number one, Y, and there it is.
 >
-> **[1:30](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980&t=90)** And by the way, this contrast checker comes from Microsoft.
+> **[1:30](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980&t=90)** And by the way, this contrast checker comes from [[Microsoft]].
 >
 > **[1:38](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980&t=98)** So just keep in mind, they both do the same thing, they just do it a bit differently.
 >
@@ -1417,8 +1397,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking color contrast with Able
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-color-contrast-with-able?u=76281980)
+#### [Checking color contrast with Able](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-color-contrast-with-able?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1493,14 +1472,13 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking color contrast with Ally
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-color-contrast-with-ally?u=76281980)
+#### [Checking color contrast with Ally](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-color-contrast-with-ally?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-color-contrast-with-ally?u=76281980&t=1)** - [Instructor] As you saw in the previous exercise, Able is a granular approach to solving potential contrast issues when it comes to interface elements such as components and buttons and things like that.
 >
-> **[0:12](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-color-contrast-with-ally?u=76281980&t=12)** Ally from Microsoft approaches this on a more global scale by examining the frame and presenting the issues.
+> **[0:12](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-color-contrast-with-ally?u=76281980&t=12)** Ally from [[Microsoft]] approaches this on a more global scale by examining the frame and presenting the issues.
 >
 > **[0:22](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/checking-color-contrast-with-ally?u=76281980&t=22)** So let's find out, and to get yourself started open the ally.fig file found in your chapter download.
 >
@@ -1551,12 +1529,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980)
+#### [Inclusion](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=0)** - Before we dig into Figma, I am pretty sure inclusion is not something you expected to see in this course.
+> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=0)** - Before we dig into [[Figma (Software)|Figma]], I am pretty sure inclusion is not something you expected to see in this course.
 >
 > **[0:08](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=8)** Let me explain.
 >
@@ -1584,7 +1561,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=94)** The differences between the two versions are subtle, but they are there.
 >
-> **[1:39](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=99)** How many of you have looked at your applications or website statistics to see where your visitors are coming from?
+> **[1:39](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=99)** How many of you have looked at your applications or website [[Statistics]] to see where your visitors are coming from?
 >
 > **[1:48](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=108)** Now let me ask you a question.
 >
@@ -1616,7 +1593,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=196)** We'll walk through a rather neat translation plugin, Lokalise, and learn how to accommodate Canadian users.
 >
-> **[3:24](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=204)** And we'll wrap up with a review of Microsoft's inclusion efforts.
+> **[3:24](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=204)** And we'll wrap up with a review of [[Microsoft]]'s inclusion efforts.
 >
 > **[3:33](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980&t=213)** And then we're going to look at a rather interesting inclusion plugin that will challenge the entire UX team.
 >
@@ -1624,14 +1601,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), ux (2), [[Statistics]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Statistics]] (1), [[Microsoft]] (1)
 > **Tools:** figma (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - before (1)
 
-#### Using Humaaans with Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-humaaans-with-figma?u=76281980)
+#### [Using Humaaans with Figma](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-humaaans-with-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1639,7 +1615,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-humaaans-with-figma?u=76281980&t=8)** Ah, but there is a solution, "Humaaans" from Pablo Stanley.
 >
-> **[0:13](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-humaaans-with-figma?u=76281980&t=13)** This royalty-free collection of bits and pieces of inclusive line art opens up a significant number of creative opportunities, and this collection is available as a plugin for Figma.
+> **[0:13](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-humaaans-with-figma?u=76281980&t=13)** This royalty-free collection of bits and pieces of inclusive line art opens up a significant number of creative opportunities, and this collection is available as a plugin for [[Figma (Software)|Figma]].
 >
 > **[0:28](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-humaaans-with-figma?u=76281980&t=28)** Or, if you come to this page, you can download a collection of line art images and templates, and there's quite a bit you can do with this.
 >
@@ -1651,7 +1627,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-humaaans-with-figma?u=76281980&t=60)** And what you do is you install the Humaaans plugin right there, it's Humaaans for Figma, not by Iconduck.
 >
-> **[1:10](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-humaaans-with-figma?u=76281980&t=70)** And the reason I suspect it's three As in there, is because the word humans probably was already taken as a domain.
+> **[1:10](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-humaaans-with-figma?u=76281980&t=70)** And the reason I suspect it's three As in there, is because the [[Microsoft Word|word]] humans probably was already taken as a domain.
 >
 > **[1:19](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/using-humaaans-with-figma?u=76281980&t=79)** Somebody probably had two As in humans, and Pablo managed to get three.
 >
@@ -1721,7 +1697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), application (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[Microsoft Word|Word]] (1)
 > **Tools:** figma (4)
 > **Prerequisites:** install (2)
 > **CLI Commands:** find (1)
@@ -1729,8 +1705,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an onboarding frame
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/create-an-onboarding-frame?u=76281980)
+#### [Create an onboarding frame](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/create-an-onboarding-frame?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1778,9 +1753,9 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/create-an-onboarding-frame?u=76281980&t=202)** There we go.
 >
-> **[3:25](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/create-an-onboarding-frame?u=76281980&t=205)** And if I zoom out, I can just go move 'em into position.
+> **[3:25](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/create-an-onboarding-frame?u=76281980&t=205)** And if I [[Zoom]] out, I can just go move 'em into position.
 >
-> **[3:44](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/create-an-onboarding-frame?u=76281980&t=224)** And what we have done, using a Pablo Stanley template, is to create an onboarding sequence, which you can then wire up using a prototype and it's reflecting diversity and inclusion.
+> **[3:44](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/create-an-onboarding-frame?u=76281980&t=224)** And what we have done, using a Pablo Stanley template, is to create an onboarding sequence, which you can then wire up using a prototype and it's reflecting [[Diversity and Inclusion]].
 
 > [!info]- Semantic Content
 >
@@ -1789,8 +1764,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Persona
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/persona?u=76281980)
+#### [Persona](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/persona?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1802,9 +1776,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/persona?u=76281980&t=18)** Instead, it is to make you aware of the fact our populations are becoming diverse and our work is available to a global audience.
 >
-> **[0:28](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/persona?u=76281980&t=28)** If your usage statistics include a large enough segment involving individuals from countries that speak Spanish, Portuguese, or from non-Western cultures such as Arabic or Indian, you might want to consider reflecting them in your personas in order to make the UX team aware of these cultural differences.
+> **[0:28](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/persona?u=76281980&t=28)** If your usage [[Statistics]] include a large enough segment involving individuals from countries that speak Spanish, Portuguese, or from non-Western cultures such as Arabic or Indian, you might want to consider reflecting them in your personas in order to make the UX team aware of these cultural differences.
 >
-> **[0:50](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/persona?u=76281980&t=50)** The key word here is aware, and it could be something as simple as including them in a persona.
+> **[0:50](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/persona?u=76281980&t=50)** The key [[Microsoft Word|word]] here is aware, and it could be something as simple as including them in a persona.
 >
 > **[0:58](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/persona?u=76281980&t=58)** To see what I'm talking about, open the persona.fig file found in your chapter download.
 >
@@ -1862,7 +1836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Statistics]] (1), ux (1), [[Microsoft Word|Word]] (1), web (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** select the (2), open the (1), click on (1)
 > **Analogies:** such as (1)
@@ -1873,8 +1847,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of Lokalise
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-lokalise?u=76281980)
+#### [An overview of Lokalise](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-lokalise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1896,7 +1869,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-lokalise?u=76281980&t=64)** This is where Localize comes in.
 >
-> **[1:07](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-lokalise?u=76281980&t=67)** It will translate your text into a variety of languages, right into Figma.
+> **[1:07](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-lokalise?u=76281980&t=67)** It will translate your text into a variety of languages, right into [[Figma (Software)|Figma]].
 >
 > **[1:13](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-lokalise?u=76281980&t=73)** I need to warn you.
 >
@@ -1920,7 +1893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3)
 > **Tools:** figma (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -1929,8 +1902,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [presenter] (1)
 
-#### Changing text to French
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980)
+#### [Changing text to French](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1938,17 +1910,17 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=6)** They are deep and indulgent and include, among others, the ability to add your team and the ability to add multiple translations to your project.
 >
-> **[0:17](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=17)** What I am going to do is walk through how the text you see here will be translated to Canadian French, right on the Figma artboard.
+> **[0:17](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=17)** What I am going to do is walk through how the text you see here will be translated to Canadian French, right on the [[Figma (Software)|Figma]] artboard.
 >
 > **[0:28](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=28)** For those of you that do have a free account, if you want to work along with me, open the localized.fig file found in your chapter download.
 >
 > **[0:37](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=37)** The text I'm going to be working with is part of the script I narrated in the previous exercise.
 >
-> **[0:43](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=43)** Just keep in mind, this project could be iOS, web, or Android with buttons, text blocks, links, and so on.
+> **[0:43](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=43)** Just keep in mind, this project could be iOS, web, or [[Android]] with buttons, text blocks, links, and so on.
 >
 > **[0:54](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=54)** The beauty of Lokalise is it will translate the entire page.
 >
-> **[1:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=60)** Notice the use of the word page.
+> **[1:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=60)** Notice the use of the [[Microsoft Word|word]] page.
 >
 > **[1:02](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/changing-text-to-french?u=76281980&t=62)** The fundamental rule when working with Lokalise is one page, one language.
 >
@@ -2068,7 +2040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (8), [[Microsoft Word|Word]] (3), web (2), next (2), ai (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (8), [[Microsoft Word|Word]] (3), [[Android]] (1)
 > **Tools:** figma (8)
 > **UI Navigation:** click on (2), open the (1), select the (1)
 > **CLI Commands:** make (1), find (1)
@@ -2082,8 +2054,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of inclusive design in Microsoft
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980)
+#### [An overview of inclusive design in Microsoft](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2091,13 +2062,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=11)** The problem with overlooking inclusion and even diversity is you run a real risk of losing a valuable market segment because they feel excluded.
 >
-> **[0:23](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=23)** A personal example of what I'm talking about is I am constantly being bombarded with recruiting opportunities on LinkedIn, and when I check out the company that is bombarding me and its executives, I never see my cohort.
+> **[0:23](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=23)** A personal example of what I'm talking about is I am constantly being bombarded with recruiting opportunities on [[LinkedIn]], and when I check out the company that is bombarding me and its executives, I never see my cohort.
 >
 > **[0:44](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=44)** I should tell you I am north of 50/ Or there are very few women in the lineup.
 >
 > **[0:50](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=50)** This is not to shame anyone, but you need to start thinking about inclusion, and you're probably wondering where to start.
 >
-> **[0:58](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=58)** This is a great starting point, the Microsoft Inclusive Design Principles, and they're pretty clear that exclusion will happen unless product creators learn from people with disabilities, apply insights to product creation, and extend benefits across a broad range of people.
+> **[0:58](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=58)** This is a great starting point, the [[Microsoft]] Inclusive Design Principles, and they're pretty clear that exclusion will happen unless product creators learn from people with disabilities, apply insights to product creation, and extend benefits across a broad range of people.
 >
 > **[1:19](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=79)** In many respects, it is a tremendous summary of the intent of this section.
 >
@@ -2109,7 +2080,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=106)** The Inclusive 100 Guidebook walks you through why inclusion and diversity has to be a part of everyday work.
 >
-> **[1:53](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=113)** The Cognition Guidebook explains how people process information differently, and for me, the important one is the Pursuit of Inclusive Artificial Intelligence.
+> **[1:53](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=113)** The Cognition Guidebook explains how people process information differently, and for me, the important one is the Pursuit of Inclusive [[Artificial Intelligence (AI)|Artificial Intelligence]].
 >
 > **[2:06](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980&t=126)** Bias is a huge issue when it comes to AO, and this guide explains what Microsoft is doing to mitigate it.
 >
@@ -2133,18 +2104,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), product (2), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cards for Humanity
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/cards-for-humanity?u=76281980)
+#### [Cards for Humanity](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/cards-for-humanity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/cards-for-humanity?u=76281980&t=0)** - [Instructor] In this exercise, we're going to take a quick look at a Figma plugin that is a lot of fun, but also forces your team to consider solutions around adding inclusivity to your work.
+> **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/cards-for-humanity?u=76281980&t=0)** - [Instructor] In this exercise, we're going to take a quick look at a [[Figma (Software)|Figma]] plugin that is a lot of fun, but also forces your team to consider solutions around adding inclusivity to your work.
 >
 > **[0:13](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/cards-for-humanity?u=76281980&t=13)** The plugin you want to search for is called "Cards For Humanity."
 >
@@ -2204,7 +2174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Search]] (1), game (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **Tools:** figma (2)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -2215,24 +2185,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps for accessible, inclusive design
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980)
+#### [Next steps for accessible, inclusive design](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=0)** - [Tom] Well, here we are at the end of the course, and you may be wondering, "Where can I get some further learning around the topics you've covered?'
 >
-> **[0:09](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=9)** Well, here at LinkedIn Learning, we have one of the top accessibility experts in the world, as far as I'm concerned, Derek Featherstone, who has done several courses for us, and my suggestion is [[UX Foundations- Accessibility]] and [[Accessibility for Web Design]].
+> **[0:09](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=9)** Well, here at [[LinkedIn]] Learning, we have one of the top accessibility experts in the world, as far as I'm concerned, Derek Featherstone, who has done several courses for us, and my suggestion is [[UX Foundations- Accessibility]] and [[Accessibility for [[Web Design]]]].
 >
 > **[0:29](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=29)** Both are tremendous courses.
 >
-> **[0:34](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=34)** As for diversity and inclusion, Dereca Blackmon's Foundations of Diversity, Equity, Inclusion, and Belonging is a great place to start.
+> **[0:34](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=34)** As for [[Diversity and Inclusion]], Dereca Blackmon's Foundations of Diversity, Equity, Inclusion, and Belonging is a great place to start.
 >
 > **[0:45](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=45)** I would also be remiss in not suggesting you bookmark the Web Content Accessibility Guidelines.
 >
 > **[0:52](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=52)** They will guide you in your work, and they will keep you current with the standards as they change, and they change constantly.
 >
-> **[1:01](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=61)** And finally, of course, the Microsoft Inclusive Design site.
+> **[1:01](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=61)** And finally, of course, the [[Microsoft]] Inclusive Design site.
 >
 > **[1:06](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980&t=66)** I think it is a tremendous resource for becoming sensitive to inclusivity and diversity in our work.
 >
@@ -2244,7 +2213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[LinkedIn]] (1), ux (1), [[Diversity and Inclusion]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Web Design]] (1), [[Diversity and Inclusion]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [tom] (1)
 

@@ -105,24 +105,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Administration in Jira Service Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980)
+#### [Administration in Jira Service Management](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=0)** - [Rachel] How do you support your internal and external customers?
 >
-> **[0:03](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=3)** For more and more organizations, the answer is Jira Service Management, or JSM for short.
+> **[0:03](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=3)** For more and more organizations, the answer is [[Jira]] Service Management, or JSM for short.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=9)** JSM is built on Jira and extends it so your organization can effectively manage incidents, problems, changes, service requests, and more.
 >
-> **[0:19](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=19)** By learning Jira Service Management, you'll be able to take support capabilities to the next level with queues, service level agreements, a simple interface for your customers, and integration with Confluence as a knowledge base.
+> **[0:19](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=19)** By learning Jira Service Management, you'll be able to take support capabilities to the next level with queues, service level agreements, a simple interface for your customers, and integration with [[Confluence]] as a knowledge base.
 >
 > **[0:31](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=31)** Hi, I'm Rachel Wright, Certified Jira Administrator and author of "The Jira Strategy Admin Workbook."
 >
 > **[0:38](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=38)** JSM was first introduced in 2013, and it's grown up a lot since then.
 >
-> **[0:43](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=43)** Join my LinkedIn Learning course to understand the JSM configuration so customers can create requests, support agents can provide the help users need, and leadership can measure effectiveness.
+> **[0:43](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=43)** Join my [[LinkedIn]] Learning course to understand the JSM configuration so customers can create requests, support agents can provide the help users need, and leadership can measure effectiveness.
 >
 > **[0:55](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980&t=55)** In this course, you'll learn how JSM extends Jira with support-specific features; the additional types of users and responsibilities; using JSM for incident management, change management, problems, service requests and support; how to configure request types, permissions, and notifications; how to configure the self-service portal and connect to a Confluence knowledge base; how to create, manage, and troubleshoot service level agreements; using automation to reduce manual work and repetitive tasks; and leveraging reporting to gauge effectiveness and measure customer satisfaction.
 >
@@ -130,19 +129,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), management (4), [[Confluence]] (2), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Confluence]] (2), [[LinkedIn]] (1)
 > **Tools:** jira (6), confluence (2)
 > **Env Vars:** jsm (6)
 > **Prerequisites:** configure (2)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [rachel] (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/jira-service-management-administration/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/who-is-this-course-for?u=76281980&t=0)** - [Tutor] This course helps new administrators get started, understand how Jira service management extends Jira, and configure requests, so your organization can support your internal and external customers.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/who-is-this-course-for?u=76281980&t=0)** - [Tutor] This course helps new administrators get started, understand how [[Jira]] service management extends Jira, and configure requests, so your organization can support your internal and external customers.
 >
 > **[0:11](https://www.linkedin.com/learning/jira-service-management-administration/who-is-this-course-for?u=76281980&t=11)** Whether you have cloud, server, or data center, the admin concepts in this course are the same.
 >
@@ -166,18 +164,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (8), management (2), cloud (2), data (2), application (2)
+> **Frameworks & Libraries:** [[Jira]] (8)
 > **Tools:** jira (8)
 > **Prerequisites:** configure (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [tutor] (1)
 
-#### What do you need for this course?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/what-do-you-need-for-this-course?u=76281980)
+#### [What do you need for this course?](https://www.linkedin.com/learning/jira-service-management-administration/what-do-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/what-do-you-need-for-this-course?u=76281980&t=0)** - [Instructor] Ideally, you've been managing Jira for a while and have experience creating projects, configuring existing schemes, and creating new custom schemes when necessary.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/what-do-you-need-for-this-course?u=76281980&t=0)** - [Instructor] Ideally, you've been managing [[Jira]] for a while and have experience creating projects, configuring existing schemes, and creating new custom schemes when necessary.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-service-management-administration/what-do-you-need-for-this-course?u=76281980&t=9)** All you need for this course is admin access to a Jira application with Jira Service Management installed It's also helpful to have a test environment, so you can make changes without impacting production.
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/jira-service-management-administration/what-do-you-need-for-this-course?u=76281980&t=31)** For JSM, I recommend creating two new service accounts, one for an agent and one for a customer.
 >
-> **[0:38](https://www.linkedin.com/learning/jira-service-management-administration/what-do-you-need-for-this-course?u=76281980&t=38)** One more thing before we get started, Atlassian has changed terminology over the years, and some applications where renamed.
+> **[0:38](https://www.linkedin.com/learning/jira-service-management-administration/what-do-you-need-for-this-course?u=76281980&t=38)** One more thing before we get started, [[Atlassian]] has changed terminology over the years, and some applications where renamed.
 >
 > **[0:45](https://www.linkedin.com/learning/jira-service-management-administration/what-do-you-need-for-this-course?u=76281980&t=45)** Jira Service Management was previously called Jira Service Desk.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (8), management (3), application (2), [[Atlassian]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Jira]] (8), [[Atlassian]] (1)
 > **Tools:** jira (8)
 > **CLI Commands:** make (1)
 > **Env Vars:** jsm (1)
@@ -212,18 +209,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Jira Service Management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980)
+#### [What is Jira Service Management?](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980&t=0)** - [Instructor] Jira Service Management was formerly known as Jira Service Desk.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980&t=0)** - [Instructor] [[Jira]] Service Management was formerly known as Jira Service Desk.
 >
 > **[0:04](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980&t=4)** It helps support teams of all types manage their requests.
 >
 > **[0:08](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980&t=8)** Jira Service Management or JSM for short is built on top of Jira, making it the obvious tool for organizations that already leverage Jira.
 >
-> **[0:17](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980&t=17)** It's made by a company called it Atlassian, who makes other popular tools like Jira Work Management, which is an issue tracker and project management tool for business teams, Confluence, a Wiki and collaboration portal, and support tools like Ops Genie, and Status Page.
+> **[0:17](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980&t=17)** It's made by a company called it [[Atlassian]], who makes other popular tools like Jira Work Management, which is an issue tracker and project management tool for business teams, [[Confluence]], a Wiki and collaboration portal, and support tools like Ops Genie, and Status Page.
 >
 > **[0:33](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980&t=33)** Atlassian tools all connect to each other.
 >
@@ -239,19 +235,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), management (7), [[Atlassian]] (3), teams (2), [[Confluence]] (2)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Atlassian]] (3), [[Confluence]] (2)
 > **Tools:** jira (9), confluence (2)
 > **Env Vars:** jsm (5)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How is JSM used?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980)
+#### [How is JSM used?](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=0)** - [Instructor] JSM is for tracking changes to systems, processes, or applications, resolving incidents and problems like an outage or security breach, fulfilling service requests, like a password reset, new hardware, or issuing a mobile device, managing approvals of all kinds and helping internal or external customers with whatever they need.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=0)** - [Instructor] JSM is for tracking changes to systems, processes, or applications, resolving incidents and problems like an outage or security breach, fulfilling service requests, like a password reset, new [[Hardware]], or issuing a mobile device, managing approvals of all kinds and helping internal or external customers with whatever they need.
 >
 > **[0:21](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=21)** JSM is not just for IT teams.
 >
@@ -261,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=34)** The HR team likely processes vacation requests, new hire requests, benefits changes, and much more.
 >
-> **[0:42](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=42)** This team and any team with a support function can use Jira Service Management.
+> **[0:42](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=42)** This team and any team with a support function can use [[Jira]] Service Management.
 >
 > **[0:48](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=48)** Let's get more specific.
 >
@@ -279,11 +274,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=82)** You can support all of your hardware, software, applications, and systems in one place.
 >
-> **[1:29](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=89)** You can also track how well you're meeting service level agreements, which are deadlines, goals, or performance metrics.
+> **[1:29](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=89)** You can also track how well you're meeting service level agreements, which are deadlines, goals, or [[Performance Metrics]].
 >
 > **[1:36](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=96)** For example, how long did it take the team to respond to or complete a request?
 >
-> **[1:41](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=101)** Or yikes, the CEO is locked out of their office again.
+> **[1:41](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=101)** Or yikes, the CEO is locked out of their [[Microsoft Office|office]] again.
 >
 > **[1:45](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=105)** Did the team get back to them within 30 minutes as promised?
 >
@@ -297,13 +292,13 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=131)** Sometimes Jira Service Management is used internally, externally, or both.
 >
-> **[2:16](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=136)** Atlassian calls this the help center.
+> **[2:16](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=136)** [[Atlassian]] calls this the help center.
 >
 > **[2:19](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=139)** You can have one service desk for your entire organization or one per department like in this screenshot.
 >
 > **[2:25](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=145)** Jira provides the backbone for Jira Service Management.
 >
-> **[2:28](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=148)** Jira provides issue creation, workflow and reporting, and JSM adds support specific features like queues, service level agreements, a simple customer portal and integration with Confluence as a knowledge base.
+> **[2:28](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=148)** Jira provides issue creation, workflow and reporting, and JSM adds support specific features like queues, service level agreements, a simple customer portal and integration with [[Confluence]] as a knowledge base.
 >
 > **[2:43](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=163)** While you can certainly use the standard Jira features for support, Jira Service Management takes support to the next level.
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=266)** If you have a lot of projects and a lot of issue types in Jira, sometimes it's hard for the end user to know what to select.
 >
-> **[4:33](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=273)** Sometimes create forms are long and contain fields with unfamiliar names.
+> **[4:33](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=273)** Sometimes create [[Forms]] are long and contain fields with unfamiliar names.
 >
 > **[4:38](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=278)** Field labels that might make sense to frequent Jira users might make less sense to less technical or infrequent users.
 >
@@ -369,11 +364,11 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=339)** With each change you make, ask yourself, what might the result be in five years?
 >
-> **[5:45](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=345)** Second, always think about the user experience, considering both and finding a balance between them is the difference between a good administrator and a great one.
+> **[5:45](https://www.linkedin.com/learning/jira-service-management-administration/how-is-jsm-used?u=76281980&t=345)** Second, always think about the [[User Experience (UX)|user experience]], considering both and finding a balance between them is the difference between a good administrator and a great one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (21), management (8), hr (3), [[Hardware]] (2), teams (2)
+> **Frameworks & Libraries:** [[Jira]] (21), [[Hardware]] (2), [[Performance Metrics]] (1), [[Microsoft Office|Office]] (1), [[Atlassian]] (1)
 > **Tools:** jira (21), confluence (1)
 > **Env Vars:** jsm (7), jira (2), ceo (1)
 > **CLI Commands:** make (4), find (3)
@@ -382,12 +377,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Which application type do you have?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980)
+#### [Which application type do you have?](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=0)** - [Instructor] Different types of Jira include different abilities, different deployment methods, and even different user interfaces.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=0)** - [Instructor] Different types of [[Jira]] include different abilities, different deployment methods, and even different user interfaces.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=6)** It's important to know which type you have, so you can leverage the correct features, advice and documentation.
 >
@@ -403,13 +397,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=32)** Jira Work Management helps business teams collaborate and manage their projects, processes and tasks.
 >
-> **[0:38](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=38)** The cloud version includes some exciting new features like lists, calendars, timelines, and forms.
+> **[0:38](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=38)** The cloud version includes some exciting new features like lists, calendars, timelines, and [[Forms]].
 >
-> **[0:45](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=45)** This project type is great for business teams like marketing, human resources, legal, sales, and more, users of this application type can only leverage business type Jira projects.
+> **[0:45](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=45)** This project type is great for business teams like marketing, [[Human Resources (HR)|human resources]], legal, sales, and more, users of this application type can only leverage business type Jira projects.
 >
-> **[0:57](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=57)** Jira Software helps development teams track projects, bugs, and tasks, it's designed for development teams and teams using a scrum or Kanban methodology.
+> **[0:57](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=57)** Jira Software helps development teams track projects, bugs, and tasks, it's designed for development teams and teams using a [[Scrum]] or Kanban methodology.
 >
-> **[1:08](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=68)** It includes dev specific features like sprints, story points, backlogs and integration with tools like Bamboo and Bitbucket.
+> **[1:08](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=68)** It includes dev specific features like sprints, story points, backlogs and integration with tools like Bamboo and [[Bitbucket]].
 >
 > **[1:17](https://www.linkedin.com/learning/jira-service-management-administration/which-application-type-do-you-have?u=76281980&t=77)** Software users can access both business type and software type Jira projects.
 >
@@ -423,19 +417,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (13), teams (6), management (5), business (5), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (13), [[Forms]] (1), [[Human Resources (HR)|Human resources]] (1), [[Scrum]] (1), [[Bitbucket]] (1)
 > **Tools:** jira (13), bitbucket (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** jsm (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Which deployment type do you have?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980)
+#### [Which deployment type do you have?](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=0)** - [Instructor] In addition to application types, there are three Jira deployment types, they are cloud, server, and data center.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=0)** - [Instructor] In addition to application types, there are three [[Jira]] deployment types, they are cloud, server, and data center.
 >
 > **[0:07](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=7)** I recommend reviewing all of the information in this course, regardless of your current application or deployment type.
 >
@@ -443,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=23)** It's a good idea to have a basic understanding of all types of Jira.
 >
-> **[0:27](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=27)** As you've probably heard, Atlassian stopped selling new licenses of server products in February of 2021, and support for server products ends on February 2nd, 2024.
+> **[0:27](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=27)** As you've probably heard, [[Atlassian]] stopped selling new licenses of server [[Microsoft Products|products]] in February of 2021, and support for server products ends on February 2nd, 2024.
 >
 > **[0:39](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=39)** So what should you do if you have Jira server?
 >
@@ -497,7 +490,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=180)** If you have server, it means you're hosting the software independently.
 >
-> **[3:04](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=184)** The application may be hosted on-premises in a server in your office, in your data center with other internal applications, in a cloud server environment like Amazon AWS, Microsoft Azure, or Google Cloud platform, or by a third party.
+> **[3:04](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=184)** The application may be hosted on-premises in a server in your [[Microsoft Office|office]], in your data center with other internal applications, in a cloud server environment like Amazon AWS, [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud platform]], or by a third party.
 >
 > **[3:19](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=199)** The server application has different capabilities and a different user interface than cloud.
 >
@@ -505,7 +498,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=212)** Here's a screenshot of the exact same service project admin page and server.
 >
-> **[3:37](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=217)** I created both projects using the same IT service management template.
+> **[3:37](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=217)** I created both projects using the same [[IT Service Management]] template.
 >
 > **[3:42](https://www.linkedin.com/learning/jira-service-management-administration/which-deployment-type-do-you-have?u=76281980&t=222)** As you can see, the look and feel is slightly different from cloud.
 >
@@ -561,7 +554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), application (11), [[Jira]] (11), [[Atlassian]] (10), data (9)
+> **Frameworks & Libraries:** [[Jira]] (11), [[Atlassian]] (10), [[Microsoft Products|Products]] (4), [[Microsoft Office|Office]] (1), [[Microsoft Azure]] (1)
 > **Tools:** jira (11)
 > **Env Vars:** url (5), jsm (2), aws (1)
 > **CLI Commands:** find (3), make (3), aws (1)
@@ -570,14 +563,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** just like (1)
 
-#### Important terms and definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980)
+#### [Important terms and definitions](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=0)** - [Instructor] Next, we'll define the important terms so you can best utilize this course and teach end users too.
 >
-> **[0:07](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=7)** An issue is an individual item in JIRA.
+> **[0:07](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=7)** An issue is an individual item in [[Jira]].
 >
 > **[0:10](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=10)** Each time you create an item, you're creating a new issue with a unique key to identify it.
 >
@@ -587,13 +579,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=28)** A project is a collection of issues.
 >
-> **[0:31](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=31)** Now the word project in JIRA and JSM is different than an initiative your team is working on outside of JIRA.
+> **[0:31](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=31)** Now the [[Microsoft Word|word]] project in JIRA and JSM is different than an initiative your team is working on outside of JIRA.
 >
 > **[0:38](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=38)** Think of a JIRA project as a container for all your team's initiatives, tasks and to-do items.
 >
 > **[0:45](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=45)** There's generally one project per department, team or support function.
 >
-> **[0:49](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=49)** For example, you might have a project called human resources to track all the different things the HR team works on.
+> **[0:49](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=49)** For example, you might have a project called [[Human Resources (HR)|human resources]] to track all the different things the HR team works on.
 >
 > **[0:56](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=56)** The HR team might use a JIRA business project or a JIRA service management support project.
 >
@@ -659,7 +651,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=204)** Organizations can be shared across multiple service desks if desired.
 >
-> **[3:29](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=209)** One note for cloud users, the word organization is also used to describe a centralized list of users and last name products.
+> **[3:29](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=209)** One note for cloud users, the word organization is also used to describe a centralized list of users and last name [[Microsoft Products|products]].
 >
 > **[3:38](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=218)** So when I say organization in this course, I'm referring to the JIRA Service Management use only.
 >
@@ -699,7 +691,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=312)** Always be sure to refer to these items by their real names.
 >
-> **[5:16](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=316)** It avoids confusion between users when reading documentation and when communicating with Atlassian support.
+> **[5:16](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=316)** It avoids confusion between users when reading documentation and when communicating with [[Atlassian]] support.
 >
 > **[5:23](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=323)** Finally, there are some other industry terms you might encounter when discussing JSM.
 >
@@ -707,7 +699,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=337)** Atlassian added richer ITSM capabilities to JIRA service desk to create what we now know as JIRA Service Management.
 >
-> **[5:45](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=345)** ITIL or ITIL stands for information technology infrastructure library.
+> **[5:45](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=345)** [[ITIL]] or ITIL stands for information technology infrastructure library.
 >
 > **[5:51](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=351)** It's a framework or a detailed set of practices for IT activities like ITSM.
 >
@@ -717,9 +709,9 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=366)** Check out at Atlassian's ITSM guide at the URL shown.
 >
-> **[6:10](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=370)** The term agile started out as an iterative approach to project management and software development but it since expanded to encompass other teams that want to quickly respond to change.
+> **[6:10](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=370)** The term [[Agile Development|agile]] started out as an iterative approach to project management and [[Software Development]] but it since expanded to encompass other teams that want to quickly respond to change.
 >
-> **[6:20](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=380)** And finally, DevOps is a combination of the words development and operations.
+> **[6:20](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=380)** And finally, [[DevOps]] is a combination of the words development and operations.
 >
 > **[6:25](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=385)** If the dev team and the ops team worked together on one platform, it's easier to collaborate and rapidly address requests.
 >
@@ -733,7 +725,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=420)** We won't cover these topics in this course as they deserve dedicated courses of their own.
 >
-> **[7:05](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=425)** But if you're interested in learning more, check out all the great courses in the LinkedIn Learning library.
+> **[7:05](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=425)** But if you're interested in learning more, check out all the great courses in the [[LinkedIn]] Learning library.
 >
 > **[7:11](https://www.linkedin.com/learning/jira-service-management-administration/important-terms-and-definitions?u=76281980&t=431)** What I love about JIRA is you can use it whether you use these frameworks and methodologies or use none at all.
 >
@@ -741,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (23), management (13), [[Atlassian]] (5), business (3), teams (3)
+> **Frameworks & Libraries:** [[Jira]] (23), [[Atlassian]] (5), [[Microsoft Word|Word]] (2), [[ITIL]] (2), [[Agile Development|Agile]] (2)
 > **Env Vars:** jira (23), jsm (9), itsm (5), itil (2), it1 (1)
 > **Tools:** jira (23)
 > **Definitions:** is a  (6), stands for (3), is an  (2), in other words (1)
@@ -750,14 +742,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigating the admin area
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/navigating-the-admin-area?u=76281980)
+#### [Navigating the admin area](https://www.linkedin.com/learning/jira-service-management-administration/navigating-the-admin-area?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/navigating-the-admin-area?u=76281980&t=0)** - [Instructor] Next, let's discuss the administration areas.
 >
-> **[0:03](https://www.linkedin.com/learning/jira-service-management-administration/navigating-the-admin-area?u=76281980&t=3)** You'll need Jira administration permissions to access the jira admin area.
+> **[0:03](https://www.linkedin.com/learning/jira-service-management-administration/navigating-the-admin-area?u=76281980&t=3)** You'll need [[Jira]] administration permissions to access the jira admin area.
 >
 > **[0:08](https://www.linkedin.com/learning/jira-service-management-administration/navigating-the-admin-area?u=76281980&t=8)** This usually means being part of the Jira administrators group.
 >
@@ -773,7 +764,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/jira-service-management-administration/navigating-the-admin-area?u=76281980&t=37)** The sections and section names in the menu differ a little between deployment types.
 >
-> **[0:42](https://www.linkedin.com/learning/jira-service-management-administration/navigating-the-admin-area?u=76281980&t=42)** In cloud, click the products option.
+> **[0:42](https://www.linkedin.com/learning/jira-service-management-administration/navigating-the-admin-area?u=76281980&t=42)** In cloud, click the [[Microsoft Products|products]] option.
 >
 > **[0:45](https://www.linkedin.com/learning/jira-service-management-administration/navigating-the-admin-area?u=76281980&t=45)** In server or data center, the option is called applications.
 >
@@ -855,7 +846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (22), application (7), management (6), data (5), cloud (4)
+> **Frameworks & Libraries:** [[Jira]] (22), [[Microsoft Products|Products]] (2)
 > **Tools:** jira (22)
 > **Env Vars:** jsm (6), sla (2), url (1)
 > **UI Navigation:** in the menu (2), scroll down (1), go to (1)
@@ -869,12 +860,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JSM feature overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980)
+#### [JSM feature overview](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=0)** - [Instructor] In this section, we'll discuss the ways JSM extends standard Jira capabilities.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=0)** - [Instructor] In this section, we'll discuss the ways JSM extends standard [[Jira]] capabilities.
 >
 > **[0:05](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=5)** As I mentioned, Jira Service Management is built on Jira.
 >
@@ -882,7 +872,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=13)** First, let's talk about the self-service portal, which is sometimes called the customer portal or the help center.
 >
-> **[0:19](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=19)** It's the place employees or customers submit requests and view self-help information from a connected confluence knowledge base.
+> **[0:19](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=19)** It's the place employees or customers submit requests and view self-help information from a connected [[Confluence]] knowledge base.
 >
 > **[0:27](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=27)** You can customize the colors, some language and add a logo.
 >
@@ -898,7 +888,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=62)** The first is for fulfilling service requests.
 >
-> **[1:05](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=65)** You might have multiple requests for forms for hardware or software support, employee onboarding or general helper questions.
+> **[1:05](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=65)** You might have multiple requests for [[Forms]] for [[Hardware]] or software support, employee onboarding or general helper questions.
 >
 > **[1:13](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=73)** There's no limit to how many requests forms you can create.
 >
@@ -916,11 +906,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=102)** The screenshot shows a sample change issue for an agent to coordinate or fulfill.
 >
-> **[1:47](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=107)** These types of requests often utilize automation, approval functionality or integrations with continuous delivery tools.
+> **[1:47](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=107)** These types of requests often utilize automation, approval functionality or integrations with [[Continuous Delivery (CD)|continuous delivery]] tools.
 >
 > **[1:55](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=115)** We'll cover these areas later in the course.
 >
-> **[1:58](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=118)** The next category is problem management.
+> **[1:58](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=118)** The next category is [[Problem Management]].
 >
 > **[2:01](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=121)** These are useful to collect the root cause of repeat problems and track their resolution.
 >
@@ -1046,21 +1036,21 @@ created: 2026-05-02
 >
 > **[7:30](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=450)** There are plenty of additional features, too.
 >
-> **[7:32](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=452)** Integrate JSM with Insight for asset management, Halp and Slack for real-time communication or Opsgenie for alerts, incident management and on-call schedules.
+> **[7:32](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=452)** Integrate JSM with Insight for asset management, Halp and [[Slack]] for [[Real-Time]] communication or Opsgenie for alerts, incident management and on-call schedules.
 >
-> **[7:44](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=464)** You can also connect deployment pipelines in tools like Bitbucket, Jenkins and others.
+> **[7:44](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=464)** You can also connect deployment pipelines in tools like [[Bitbucket]], [[Jenkins]] and others.
 >
 > **[7:50](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=470)** There are project templates for legal, HR and facilities teams, so they can use JSM, too.
 >
-> **[7:56](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=476)** And there's a REST API, so you can build custom apps to extend JSM even further.
+> **[7:56](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=476)** And there's a [[Representational State Transfer (REST)|REST]] API, so you can build custom apps to extend JSM even further.
 >
-> **[8:02](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=482)** Atlassian is adding new capabilities all the time.
+> **[8:02](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=482)** [[Atlassian]] is adding new capabilities all the time.
 >
 > **[8:05](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980&t=485)** See the JSM feature page for the full feature list or the pricing page to compare features across cloud plans.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (13), feature (7), management (6), next (5), [[Confluence]] (4)
+> **Frameworks & Libraries:** [[Jira]] (13), [[Confluence]] (4), [[Forms]] (4), [[Hardware]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Env Vars:** jsm (15), itsm (1), sla (1), rest (1), api (1)
 > **Tools:** jira (13), confluence (4), slack (1), bitbucket (1)
 > **Analogies:** for example (5)
@@ -1069,14 +1059,13 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 
-#### Types of users
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980)
+#### [Types of users](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=0)** - As previously defined, Jira service management has different types of users, agents, and customers.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=0)** - As previously defined, [[Jira]] service management has different types of users, agents, and customers.
 >
-> **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=6)** In most Atlassian applications, all named users need a license to use the product.
+> **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=6)** In most [[Atlassian]] applications, all named users need a license to use the product.
 >
 > **[0:11](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=11)** Jira service management has a different model, however.
 >
@@ -1086,13 +1075,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=23)** Here are the user types in JIRA Software and Jira Service Management.
 >
-> **[0:27](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=27)** All products support anonymous access, except the free versions in Cloud.
+> **[0:27](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=27)** All [[Microsoft Products|products]] support anonymous access, except the free versions in Cloud.
 >
 > **[0:32](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=32)** In JIRA Software, anonymous users can view, browse, and create issues, but the users cannot be identified.
 >
 > **[0:39](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=39)** The user's not logged in.
 >
-> **[0:41](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=41)** So, any issues will show the word "anonymous" in the reporter field.
+> **[0:41](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=41)** So, any issues will show the [[Microsoft Word|word]] "anonymous" in the reporter field.
 >
 > **[0:46](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=46)** In JSM Server and Data Center, customers need an account to log in.
 >
@@ -1134,7 +1123,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=161)** They use Jira software to track new features desired by the business team.
 >
-> **[2:45](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=165)** And they also use Jira service management to respond to customer support requests.
+> **[2:45](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=165)** And they also use Jira service management to respond to [[Customer Support]] requests.
 >
 > **[2:50](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=170)** In this case, the same user has access to, and a license for, both applications.
 >
@@ -1146,7 +1135,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=190)** Only pay for the number of users needed per product.
 >
-> **[3:13](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=193)** Finally, customers can see Confluence knowledge-based content in the customer portal, but they don't need a Confluence license.
+> **[3:13](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=193)** Finally, customers can see [[Confluence]] knowledge-based content in the customer portal, but they don't need a Confluence license.
 >
 > **[3:20](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=200)** In Confluence, you only need to license users who create and edit content or manage the application.
 >
@@ -1160,7 +1149,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=227)** Here's a tip, add one or two of your lead agents to the project administrator role.
 >
-> **[3:53](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=233)** This way, they can manage the project when their regular project admin is unavailable or out of the office.
+> **[3:53](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=233)** This way, they can manage the project when their regular project admin is unavailable or out of the [[Microsoft Office|office]].
 >
 > **[3:59](https://www.linkedin.com/learning/jira-service-management-administration/types-of-users?u=76281980&t=239)** Sometimes you'll see the service desk customer role named Service Project Customer-Portal Access.
 >
@@ -1168,7 +1157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), management (5), [[Atlassian]] (4), cloud (4), [[Confluence]] (3)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Atlassian]] (4), [[Confluence]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **Tools:** jira (10), confluence (3)
 > **Env Vars:** jsm (5), jira (3), url (1)
 > **CLI Commands:** find (2)
@@ -1177,12 +1166,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - as (1)
 
-#### Additional permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980)
+#### [Additional permissions](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=0)** - [Instructor] Jira Service Management includes additional permission abilities.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=0)** - [Instructor] [[Jira]] Service Management includes additional permission abilities.
 >
 > **[0:04](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=4)** We'll discuss the specifics so you can identify the differences.
 >
@@ -1198,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=35)** This group is used in global permissions, permission schemes, and anywhere else access is granted to individuals.
 >
-> **[0:43](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=43)** There are no JSM specific global permissions, but the jira-servicedesk-users or Jira Service Management users group needs to be added, so users can perform standard global functions, like browsing users and groups, sharing dashboards and filters, making bulk changes and more.
+> **[0:43](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=43)** There are no JSM specific global permissions, but the jira-servicedesk-users or Jira Service Management users group needs to be added, so users can perform standard global functions, like browsing users and groups, sharing [[Dashboards]] and filters, making bulk changes and more.
 >
 > **[1:00](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=60)** Here's an example of the members of the Browse users and groups global permission.
 >
@@ -1258,7 +1246,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=248)** There are two places where you'll find settings impacting customers.
 >
-> **[4:12](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=252)** The first is the configuration page in the products admin area in Cloud.
+> **[4:12](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=252)** The first is the configuration page in the [[Microsoft Products|products]] admin area in Cloud.
 >
 > **[4:17](https://www.linkedin.com/learning/jira-service-management-administration/additional-permissions?u=76281980&t=257)** This page contains settings for allowing users to create their own accounts or to use the portal without an account.
 >
@@ -1282,7 +1270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (17), application (7), management (6), cloud (4), data (4)
+> **Frameworks & Libraries:** [[Jira]] (17), [[Dashboards]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** jira (17)
 > **Env Vars:** jsm (9)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -1291,12 +1279,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** be aware (1)
 
-#### Additional notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980)
+#### [Additional notifications](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=0)** - [Narrator] Jira Service Management has one type of notification feature for agents and a different type for customers.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=0)** - [Narrator] [[Jira]] Service Management has one type of notification feature for agents and a different type for customers.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=6)** Agent notifications are controlled by a notification scheme, just like in Jira Software.
 >
@@ -1308,7 +1295,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=32)** You might have one scheme that sends all the standard notifications and one that sends very few messages.
 >
-> **[0:38](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=38)** Or you might have a scheme specifically for software projects and another for service projects.
+> **[0:38](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=38)** Or you might have a scheme specifically for [[Software Projects]] and another for service projects.
 >
 > **[0:44](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=44)** Regardless of how you structure it, always keep the needs of the end user in mind.
 >
@@ -1338,7 +1325,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=113)** So if your portal name has many characters, you might not want to make this change.
 >
-> **[1:58](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=118)** Next, I scrolled down and added some simple HTML to customize the message body, I added a link to the contact page of my website, so users can chat live.
+> **[1:58](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=118)** Next, I scrolled down and added some simple [[HTML]] to customize the message body, I added a link to the contact page of my website, so users can chat live.
 >
 > **[2:09](https://www.linkedin.com/learning/jira-service-management-administration/additional-notifications?u=76281980&t=129)** You can also customize the CSS and the text version of the messages.
 >
@@ -1384,7 +1371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), feature (4), [[HTML]] (3), [[Automation]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (5), [[HTML]] (3), [[Software Projects]] (1)
 > **Tools:** jira (5)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (3)
@@ -1398,8 +1385,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test environment tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980)
+#### [Test environment tips](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,7 +1399,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980&t=20)** It's important to be able to distinguish the test environment from production.
 >
-> **[0:24](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980&t=24)** First on the Jira side, that the agents and administrators use, I changed the name of the application to test.
+> **[0:24](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980&t=24)** First on the [[Jira]] side, that the agents and administrators use, I changed the name of the application to test.
 >
 > **[0:31](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980&t=31)** The application name is displayed in many places, including the browsers title.
 >
@@ -1439,7 +1425,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980&t=87)** You can find the setting in the system, admin area.
 >
-> **[1:31](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980&t=91)** As you can see, the banner function allows HTML, but you need to be really careful with it.
+> **[1:31](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980&t=91)** As you can see, the banner function allows [[HTML]], but you need to be really careful with it.
 >
 > **[1:37](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980&t=97)** One day when I was editing an announcement banner, my cat jumped onto my keyboard and submitted my half-written code.
 >
@@ -1467,7 +1453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), data (6), application (4), next (2), database (2)
+> **Frameworks & Libraries:** [[Jira]] (7), [[HTML]] (1)
 > **Tools:** jira (7)
 > **CLI Commands:** cat (2), find (1), make (1)
 > **Env Vars:** html (1)
@@ -1475,12 +1461,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choose a test environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980)
+#### [Choose a test environment](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=0)** - [Instructor] Here are some test environment options for cloud customers using the Atlassian hosted environment.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=0)** - [Instructor] Here are some test environment options for cloud customers using the [[Atlassian]] hosted environment.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=6)** There's a free sandbox option built into all premium and enterprise plans.
 >
@@ -1492,7 +1477,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=27)** To create the sandbox login as a cloud organization administrator at admin.[atlassian.com](https://atlassian.com).
 >
-> **[0:33](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=33)** Click the Products link at the top and click Sandbox on the left sidebar.
+> **[0:33](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=33)** Click the [[Microsoft Products|Products]] link at the top and click Sandbox on the left sidebar.
 >
 > **[0:38](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=38)** The screenshot shows no sandboxes configured.
 >
@@ -1512,7 +1497,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=79)** This license comes with a limited number of users for test purposes.
 >
-> **[1:23](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=83)** For example, you can only have one JSM agent user and five Jira Software users, read more at the URL shown.
+> **[1:23](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=83)** For example, you can only have one JSM agent user and five [[Jira]] Software users, read more at the URL shown.
 >
 > **[1:31](https://www.linkedin.com/learning/jira-service-management-administration/choose-a-test-environment?u=76281980&t=91)** Next, you can get a second instance and pay for just a few users.
 >
@@ -1546,7 +1531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Atlassian]] (5), cloud (4), application (3), data (2), next (2)
+> **Frameworks & Libraries:** [[Atlassian]] (5), [[Microsoft Products|Products]] (1), [[Jira]] (1)
 > **Env Vars:** url (4), jsm (1), ssl (1)
 > **Analogies:** for example (2), similar to (1), just like (1), it's like (1)
 > **CLI Commands:** make (2)
@@ -1555,14 +1540,13 @@ created: 2026-05-02
 > **Tools:** jira (1)
 > **Best Practices:** don't forget (1)
 
-#### Create a test environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980)
+#### [Create a test environment](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980&t=0)** - [Instructor] Atlassian offers free versions of their cloud products.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980&t=0)** - [Instructor] [[Atlassian]] offers free versions of their cloud [[Microsoft Products|products]].
 >
-> **[0:03](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980&t=3)** Let's sign up for a free instance of JIRA service management so we can experiment.
+> **[0:03](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980&t=3)** Let's sign up for a free instance of [[Jira]] service management so we can experiment.
 >
 > **[0:08](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980&t=8)** First log into your Atlassian account at my.[atlassian.com](https://atlassian.com), next visit the URL shown.
 >
@@ -1574,7 +1558,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980&t=29)** Once your instance is ready, sign in and complete the setup wizard.
 >
-> **[0:34](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980&t=34)** For data center, Atlassian offers getting started guides for AWS and Microsoft Azure.
+> **[0:34](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980&t=34)** For data center, Atlassian offers getting started guides for AWS and [[Microsoft Azure]].
 >
 > **[0:41](https://www.linkedin.com/learning/jira-service-management-administration/create-a-test-environment-14237330?u=76281980&t=41)** Here's the general process for data center first, have your technical contact log in to my.[atlassian.com](https://atlassian.com).
 >
@@ -1602,7 +1586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Atlassian]] (6), [[Jira]] (3), next (3), data (3), cloud (2)
+> **Frameworks & Libraries:** [[Atlassian]] (6), [[Jira]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Azure]] (2)
 > **Env Vars:** jsm (4), jira (3), url (2), aws (2)
 > **Prerequisites:** setup (2), getting started (1), install (1)
 > **CLI Commands:** aws (2), find (1)
@@ -1615,12 +1599,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a service project
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980)
+#### [Create a service project](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=0)** - [Instructor] In this section, we'll explore the different Jira project types and choose one of the templates to create a service project.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=0)** - [Instructor] In this section, we'll explore the different [[Jira]] project types and choose one of the templates to create a service project.
 >
 > **[0:07](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=7)** All application types come with templates to help you quickly build new projects.
 >
@@ -1640,7 +1623,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=51)** The Jira software templates contain features to help teams plan, track and release software.
 >
-> **[0:56](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=56)** There are templates for Kanban, Scrum, and simple bug tracking.
+> **[0:56](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=56)** There are templates for Kanban, [[Scrum]], and simple bug tracking.
 >
 > **[1:01](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=61)** The Jira work management templates help business teams coordinate and manage tasks.
 >
@@ -1674,7 +1657,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=129)** That information is usually on the right.
 >
-> **[2:13](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=133)** This IT service management template says it's specifically for IT and dev ops teams.
+> **[2:13](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=133)** This [[IT Service Management]] template says it's specifically for IT and dev ops teams.
 >
 > **[2:19](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=139)** Just below that information are the included issue types and request types.
 >
@@ -1796,7 +1779,7 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=451)** As honestly, ,team managed projects are still evolving.
 >
-> **[7:35](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=455)** You'll want to keep Atlassian's product development roadmap in mind when choosing between the types.
+> **[7:35](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=455)** You'll want to keep [[Atlassian]]'s [[Product Development]] roadmap in mind when choosing between the types.
 >
 > **[7:40](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980&t=460)** Also remember in Cloud, it's not easy to change project types later.
 >
@@ -1806,7 +1789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), [[Jira]] (8), cloud (7), data (5), teams (4)
+> **Frameworks & Libraries:** [[Jira]] (8), [[IT Service Management]] (4), [[Scrum]] (1), [[Atlassian]] (1), [[Product Development]] (1)
 > **Exercise Files:** template (17)
 > **Tools:** jira (8)
 > **UI Navigation:** select the (4), click on (1), scroll down (1)
@@ -1815,8 +1798,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2), you'll need (1), setup (1)
 > **Env Vars:** jsm (3)
 
-#### Leverage workflow differences
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980)
+#### [Leverage workflow differences](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1832,9 +1814,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=27)** Here's an example of a basic three-step workflow, which is a great starting point for task-type projects.
 >
-> **[0:33](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=33)** Software projects often contain workflow steps for validation, prioritization and any other common steps needed for deploying code.
+> **[0:33](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=33)** [[Software Projects]] often contain workflow steps for validation, prioritization and any other common steps needed for deploying code.
 >
-> **[0:42](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=42)** Here's an example of one of Jira's default software workflows.
+> **[0:42](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=42)** Here's an example of one of [[Jira]]'s default software workflows.
 >
 > **[0:45](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=45)** Service project workflows often have steps to represent the back and forth nature of support work.
 >
@@ -1892,7 +1874,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=179)** You can create a hidden field and set a default list of approvers.
 >
-> **[3:04](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=184)** Next, if using the IT service management project template and bank bucket, you can define approvers based on the service impacted.
+> **[3:04](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=184)** Next, if using the [[IT Service Management]] project template and bank bucket, you can define approvers based on the service impacted.
 >
 > **[3:12](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=192)** JSM will pull any change approvers from the affected services field.
 >
@@ -1920,7 +1902,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=257)** Approval information is now present in both the agent view and in the customer view in the portal, it's in the right sidebar in both views.
 >
-> **[4:25](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=265)** Let's zoom in on that right sidebar for a closer look.
+> **[4:25](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=265)** Let's [[Zoom]] in on that right sidebar for a closer look.
 >
 > **[4:29](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=269)** There are several different approval conditions.
 >
@@ -1956,7 +1938,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=368)** I'm sure you can think of many scenarios where you'd use one workflow in issue type instead of the other.
 >
-> **[6:13](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=373)** Here's one example, let's say you have two request forms, one for a new mobile device and another for a new mouse.
+> **[6:13](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=373)** Here's one example, let's say you have two request [[Forms]], one for a new mobile device and another for a new mouse.
 >
 > **[6:21](https://www.linkedin.com/learning/jira-service-management-administration/leverage-workflow-differences?u=76281980&t=381)** Since the new phone is likely to cost hundreds of dollars, it's mapped to the service request with approvals issue type in workflow.
 >
@@ -2006,7 +1988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), next (3), management (2), feature (2), data (2)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Software Projects]] (1), [[IT Service Management]] (1), [[Zoom]] (1), [[Forms]] (1)
 > **Env Vars:** jsm (10), cab (4), itsm (1), jql (1)
 > **UI Navigation:** checkbox (2), go to (2), click on (1), in the sidebar (1)
 > **Tools:** jira (3)
@@ -2015,14 +1997,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 
-#### Use and create request types
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980)
+#### [Use and create request types](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=0)** - [Instructor] Request types help agents classify issues and make it easier for end users to report problems.
 >
-> **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=6)** As previously discussed, request types are used by customers in the portal and they map to issue types used by agents in Jira.
+> **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=6)** As previously discussed, request types are used by customers in the portal and they map to issue types used by agents in [[Jira]].
 >
 > **[0:14](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=14)** This is one of my favorite JSM features, so I'm excited to show you how to use and create them.
 >
@@ -2050,13 +2031,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=71)** From Jira's perspective, the result is the same.
 >
-> **[1:14](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=74)** The forum called request new hardware on the right is mapped to the service request issue type in Jira.
+> **[1:14](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=74)** The forum called request new [[Hardware]] on the right is mapped to the service request issue type in Jira.
 >
 > **[1:20](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=80)** So regardless of which method you use, an issue of type service request is created in the project called help.
 >
 > **[1:27](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=87)** Keep this example in mind when you're naming request types in the portal.
 >
-> **[1:31](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=91)** Name forms, fields, and statuses using terminology that makes sense to the customer.
+> **[1:31](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=91)** Name [[Forms]], fields, and statuses using terminology that makes sense to the customer.
 >
 > **[1:37](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-request-types?u=76281980&t=97)** All request types contain the following attributes, a name and icon to identify it, an associated issue type, and a portal group to determine where it's displayed.
 >
@@ -2302,7 +2283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (13), [[Jira]] (12), next (7), [[Hardware]] (3), data (3)
+> **Frameworks & Libraries:** [[Forms]] (13), [[Jira]] (12), [[Hardware]] (3)
 > **Tools:** jira (12)
 > **CLI Commands:** make (8), find (2)
 > **Analogies:** for example (5), just like (1)
@@ -2311,8 +2292,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1), is a  (1)
 > **Best Practices:** remember to (1), don't forget (1)
 
-#### Add agents, customers, and organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980)
+#### [Add agents, customers, and organizations](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2342,7 +2322,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=64)** There's also a new term we haven't discussed yet, collaborators.
 >
-> **[1:08](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=68)** Collaborators, are internal Jira users who occasionally assist agents with customer requests.
+> **[1:08](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=68)** Collaborators, are internal [[Jira]] users who occasionally assist agents with customer requests.
 >
 > **[1:15](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=75)** For example, a support agent might work with a developer to better understand how to assist a customer.
 >
@@ -2358,7 +2338,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=106)** They are there to provide additional context, but not actually fulfill the support request.
 >
-> **[1:52](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=112)** Atlassian recommends giving all logged in users, permission to view and add comments in service projects if you want this type of collaboration.
+> **[1:52](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=112)** [[Atlassian]] recommends giving all logged in users, permission to view and add comments in service projects if you want this type of collaboration.
 >
 > **[2:01](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=121)** Let's see these terms in action.
 >
@@ -2384,7 +2364,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=176)** You can also add users and assign project roles from this page.
 >
-> **[3:00](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=180)** If you need to resend an invite, you can do it from the User Management Application Admin area.
+> **[3:00](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=180)** If you need to resend an invite, you can do it from the [[User Management]] Application Admin area.
 >
 > **[3:06](https://www.linkedin.com/learning/jira-service-management-administration/add-agents-customers-and-organizations?u=76281980&t=186)** I like to point new agents to Atlassian's Getting Started guide so they can read about completing requests, communicating with customers and how to leverage the knowledge base.
 >
@@ -2506,7 +2486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Jira]] (8), [[User Management]] (5), management (4), cloud (4)
+> **Frameworks & Libraries:** [[Jira]] (8), [[User Management]] (5), [[Atlassian]] (2)
 > **Tools:** jira (8)
 > **UI Navigation:** go to (4)
 > **Prerequisites:** getting started (1), setup (1), required to (1)
@@ -2515,8 +2495,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 
-#### Configure the customer portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980)
+#### [Configure the customer portal](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2554,7 +2533,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=77)** Here are the same URLs and server in data center.
 >
-> **[1:21](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=81)** Always give users the shortest URL that meets their needs, and encourage them to bookmark the portal home or frequently used request forms.
+> **[1:21](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=81)** Always give users the shortest URL that meets their needs, and encourage them to bookmark the portal home or frequently used request [[Forms]].
 >
 > **[1:29](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=89)** Now for the fun part.
 >
@@ -2568,9 +2547,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=110)** Here's a closer look.
 >
-> **[1:51](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=111)** To change the global portal settings, go to the products admin page in cloud, or the applications admin page and server in data center.
+> **[1:51](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=111)** To change the global portal settings, go to the [[Microsoft Products|products]] admin page in cloud, or the applications admin page and server in data center.
 >
-> **[2:00](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=120)** Then click the configuration link under Jira service management in the sidebar.
+> **[2:00](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=120)** Then click the configuration link under [[Jira]] service management in the sidebar.
 >
 > **[2:04](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=124)** Next look for the customize link under the help center header.
 >
@@ -2590,7 +2569,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=161)** Click the customize button on the right to reopen the setting sidebar and make additional changes.
 >
-> **[2:47](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=167)** In small browser windows, the customize button may be at the top of the screen instead.
+> **[2:47](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=167)** In small browser [[Windows]], the customize button may be at the top of the screen instead.
 >
 > **[2:51](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=171)** Here's what I changed, and some tips.
 >
@@ -2604,7 +2583,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=190)** If an image is present, it displays in this location instead of the text.
 >
-> **[3:15](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=195)** Atlassian recommends a minimum image height of 24 pixels.
+> **[3:15](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=195)** [[Atlassian]] recommends a minimum image height of 24 pixels.
 >
 > **[3:20](https://www.linkedin.com/learning/jira-service-management-administration/configure-the-customer-portal?u=76281980&t=200)** If your logo doesn't look great in this area, simply remove the image file and the customizable text will display instead.
 >
@@ -2666,7 +2645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), data (4), next (3), [[Microsoft Products|Products]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Jira]] (1), [[Windows]] (1), [[Atlassian]] (1)
 > **Env Vars:** url (14), jsm (1)
 > **UI Navigation:** in the sidebar (2), go to (1), select the (1), scroll down (1)
 > **CLI Commands:** make (2), find (1)
@@ -2675,14 +2654,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Tools:** jira (1)
 
-#### Manage email requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980)
+#### [Manage email requests](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=0)** - [Instructor] In this section, we'll discuss turning customer emails into support requests as an added support method.
 >
-> **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=6)** It's easier to submit email requests in JSM than it is in Jira.
+> **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=6)** It's easier to submit email requests in JSM than it is in [[Jira]].
 >
 > **[0:11](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=11)** Jira blocks messages from unknown senders and processes messages differently.
 >
@@ -2724,7 +2702,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=99)** In Cloud, a project's email account is automatically created.
 >
-> **[1:43](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=103)** The default format is projectkey@yoursite.[atlassian.net](https://atlassian.net).
+> **[1:43](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=103)** The default format is projectkey@yoursite.[[[Atlassian]].net](https://atlassian.net).
 >
 > **[1:48](https://www.linkedin.com/learning/jira-service-management-administration/manage-email-requests?u=76281980&t=108)** You can customize the address's username if desired.
 >
@@ -2866,7 +2844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (6), [[Jira]] (5), [[Atlassian]] (5), next (4)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Atlassian]] (5)
 > **Env Vars:** jsm (13), help (1)
 > **CLI Commands:** make (4), find (2)
 > **Tools:** jira (5)
@@ -2875,18 +2853,17 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1), don't forget (1)
 > **URLs:** [atlassian.net](https://atlassian.net) (1)
 
-#### Connect to a Confluence knowledge base
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980)
+#### [Connect to a Confluence knowledge base](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=0)** - [Instructor] Sometimes customers can solve problems on their own with a little bit of information or documentation.
 >
-> **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=6)** In this section, we'll connect to JSM Project to a Confluence space to provide self service support.
+> **[0:06](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=6)** In this section, we'll connect to JSM Project to a [[Confluence]] space to provide self service support.
 >
 > **[0:12](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=12)** But first here are the benefits of this feature and how it works.
 >
-> **[0:16](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=16)** With the Jira Service Management and Confluence integration, customers only need to come to one place, the help center for all their support needs.
+> **[0:16](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=16)** With the [[Jira]] Service Management and Confluence integration, customers only need to come to one place, the help center for all their support needs.
 >
 > **[0:24](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=24)** When it's easy for customers to find related information, sometimes they can help themselves.
 >
@@ -2908,7 +2885,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=67)** First, the customer can enter keywords in the search bar to find related Confluence articles.
 >
-> **[1:13](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=73)** The search also returns related request forms.
+> **[1:13](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=73)** The search also returns related request [[Forms]].
 >
 > **[1:16](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=76)** Next related articles are automatically displayed based on keywords in a request.
 >
@@ -2926,7 +2903,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=113)** Click the button at the top to create a new article.
 >
-> **[1:56](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=116)** You can also search for articles and view some basic article statistics.
+> **[1:56](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=116)** You can also search for articles and view some basic article [[Statistics]].
 >
 > **[2:00](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=120)** To categorize articles, start by creating a new category, using the plus icon in the left sidebar.
 >
@@ -2972,7 +2949,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=228)** In this example, I'm creating a new space called facilities.
 >
-> **[3:52](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=232)** Sometimes the IT help desk gets requests for work for items like desks and chairs.
+> **[3:52](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=232)** Sometimes the [[IT Help Desk]] gets requests for work for items like desks and chairs.
 >
 > **[3:57](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=237)** It would be great to have a dedicated space for related content.
 >
@@ -3006,11 +2983,11 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=311)** In the screenshot, the suggestion ability is currently off for the new mouse request type.
 >
-> **[5:17](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=317)** For the desktop laptop support request type, only articles with hardware and policies labels in Confluence will be suggested.
+> **[5:17](https://www.linkedin.com/learning/jira-service-management-administration/connect-to-a-confluence-knowledge-base?u=76281980&t=317)** For the desktop laptop support request type, only articles with [[Hardware]] and policies labels in Confluence will be suggested.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Confluence]] (20), application (5), [[Jira]] (4), [[Search]] (4), cloud (3)
+> **Frameworks & Libraries:** [[Confluence]] (20), [[Jira]] (4), [[Forms]] (1), [[Statistics]] (1), [[IT Help Desk]] (1)
 > **Tools:** confluence (20), jira (4)
 > **Env Vars:** jsm (6)
 > **CLI Commands:** find (4)
@@ -3019,8 +2996,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a request type
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-a-request-type?u=76281980)
+#### [Challenge: Create a request type](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-a-request-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3041,8 +3017,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create a request type
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/solution-create-a-request-type?u=76281980)
+#### [Solution: Create a request type](https://www.linkedin.com/learning/jira-service-management-administration/solution-create-a-request-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3078,7 +3053,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), cloud (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Best Practices:** don't forget (1)
@@ -3090,8 +3064,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SLA overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980)
+#### [SLA overview](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3127,7 +3100,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980&t=98)** Agents can use them to plan which requests to address first and understand the expected timeframe.
 >
-> **[1:44](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980&t=104)** For each SLA metric created in JSM, a new custom field is created in Jira to store the name.
+> **[1:44](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980&t=104)** For each SLA metric created in JSM, a new custom field is created in [[Jira]] to store the name.
 >
 > **[1:50](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980&t=110)** As I mentioned in section one, I recommend restricting custom field creation to Jira application level administrators.
 >
@@ -3147,7 +3120,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980&t=155)** The SLA's are mutually exclusive, meaning it's possible to meet one goal, but miss another.
 >
-> **[2:41](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980&t=161)** Atlassian says they don't recommend setting a goal that's dependent on a different SLA.
+> **[2:41](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980&t=161)** [[Atlassian]] says they don't recommend setting a goal that's dependent on a different SLA.
 >
 > **[2:47](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980&t=167)** One place SLA information is displayed is in queues.
 >
@@ -3207,7 +3180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), data (3), [[Jira]] (2), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Atlassian]] (1)
 > **Env Vars:** sla (28), jql (2), jsm (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -3216,8 +3189,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Warnings:** be careful (1)
 
-#### Use and create SLAs
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-slas?u=76281980)
+#### [Use and create SLAs](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-slas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3231,7 +3203,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-slas?u=76281980&t=22)** For non-execs we'll extend the deadline to 48 hours.
 >
-> **[0:25](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-slas?u=76281980&t=25)** We'll assume there's a JIRA group called executives, so we know who to treat as a VIP.
+> **[0:25](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-slas?u=76281980&t=25)** We'll assume there's a [[Jira]] group called executives, so we know who to treat as a VIP.
 >
 > **[0:31](https://www.linkedin.com/learning/jira-service-management-administration/use-and-create-slas?u=76281980&t=31)** To create a new SLA, click the button at the top right.
 >
@@ -3279,7 +3251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jira]] (2), data (1)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **Env Vars:** sla (5), jira (2), vip (2), jsm (2), jql (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** jira (2)
@@ -3288,8 +3260,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - to (1)
 
-#### Manage SLA calendars
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/manage-sla-calendars?u=76281980)
+#### [Manage SLA calendars](https://www.linkedin.com/learning/jira-service-management-administration/manage-sla-calendars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3351,7 +3322,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** sla (4), jsm (2), jql (1)
 > **Ports:** :00 (3)
 > **Prerequisites:** configure (1), you'll need (1)
@@ -3359,9 +3329,9 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [instructor] (1)
 
-#### Troubleshoot SLAs
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/troubleshoot-slas?u=76281980)
+#### [Troubleshoot SLAs](https://www.linkedin.com/learning/jira-service-management-administration/troubleshoot-slas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3375,7 +3345,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/jira-service-management-administration/troubleshoot-slas?u=76281980&t=24)** In an issue, the agent can click the time goal and see the associated calendar.
 >
-> **[0:29](https://www.linkedin.com/learning/jira-service-management-administration/troubleshoot-slas?u=76281980&t=29)** Next, sometimes the JIRA configuration changes and breaks the SLA queries.
+> **[0:29](https://www.linkedin.com/learning/jira-service-management-administration/troubleshoot-slas?u=76281980&t=29)** Next, sometimes the [[Jira]] configuration changes and breaks the SLA queries.
 >
 > **[0:34](https://www.linkedin.com/learning/jira-service-management-administration/troubleshoot-slas?u=76281980&t=34)** Always be careful when renaming statuses and custom fields, you should research where they're used first.
 >
@@ -3483,11 +3453,11 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/jira-service-management-administration/troubleshoot-slas?u=76281980&t=285)** Always time goal changes carefully and be aware of their impact.
 >
-> **[4:49](https://www.linkedin.com/learning/jira-service-management-administration/troubleshoot-slas?u=76281980&t=289)** For other troubleshooting tips, read Atlassian's documentation.
+> **[4:49](https://www.linkedin.com/learning/jira-service-management-administration/troubleshoot-slas?u=76281980&t=289)** For other troubleshooting tips, read [[Atlassian]]'s documentation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Troubleshooting]] (2), [[Jira]] (2), data (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Atlassian]] (1)
 > **Env Vars:** sla (12), jql (2), jira (2), jsm (1)
 > **Definitions:** defined as (3)
 > **CLI Commands:** find (2)
@@ -3496,8 +3466,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Challenge: Create an SLA
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-an-sla?u=76281980)
+#### [Challenge: Create an SLA](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-an-sla?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3521,8 +3490,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bouncy music) (1)
 
-#### Solution: Create an SLA
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/solution-create-an-sla?u=76281980)
+#### [Solution: Create an SLA](https://www.linkedin.com/learning/jira-service-management-administration/solution-create-an-sla?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3556,7 +3524,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), cloud (1), data (1)
 > **Env Vars:** sla (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -3569,8 +3536,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automation overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980)
+#### [Automation overview](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3606,7 +3572,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=77)** You can automatically create requests from emails or chat conversations.
 >
-> **[1:22](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=82)** Next, automation can help improve data quality and reduce human error.
+> **[1:22](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=82)** Next, automation can help improve [[Data Quality]] and reduce human error.
 >
 > **[1:27](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=87)** You can use roles to fill in missing information and ensure consistent results.
 >
@@ -3616,7 +3582,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=101)** In Cloud, tier service management currently has two types of automation.
 >
-> **[1:46](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=106)** The first type is from Atlassian's acquisition of an app called Automation for Jira.
+> **[1:46](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=106)** The first type is from [[Atlassian]]'s acquisition of an app called Automation for [[Jira]].
 >
 > **[1:51](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=111)** This technology is now included in Cloud as a standard feature.
 >
@@ -3678,9 +3644,9 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=266)** Actions perform tasks like creating issues, sending emails, notifying chat rooms, and more.
 >
-> **[4:33](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=273)** In this example, I selected the send Slack message option and configured the settings on the right.
+> **[4:33](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=273)** In this example, I selected the send [[Slack]] message option and configured the settings on the right.
 >
-> **[4:39](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=279)** There's also a similar action for Microsoft Teams.
+> **[4:39](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=279)** There's also a similar action for [[Microsoft Teams]].
 >
 > **[4:42](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=282)** If your team doesn't have a chat tool, use the send email action instead.
 >
@@ -3716,7 +3682,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=359)** You can automatically update issues based on all sorts of criteria.
 >
-> **[6:03](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=363)** For example, assign issues based on custom field data, like a certain skill needed or a specific office location.
+> **[6:03](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=363)** For example, assign issues based on custom field data, like a certain skill needed or a specific [[Microsoft Office|office]] location.
 >
 > **[6:09](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=369)** Set a due date based on a creation date or update issues based on a JQL result.
 >
@@ -3734,7 +3700,7 @@ created: 2026-05-02
 >
 > **[6:40](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=400)** Finally, you can catch undesired behavior.
 >
-> **[6:43](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=403)** For example, detect the word password to make sure customer hasn't exposed their credentials.
+> **[6:43](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=403)** For example, detect the [[Microsoft Word|word]] password to make sure customer hasn't exposed their credentials.
 >
 > **[6:49](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980&t=409)** Need some additional inspiration?
 >
@@ -3742,7 +3708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (19), data (6), cloud (5), [[Atlassian]] (5), [[Jira]] (4)
+> **Frameworks & Libraries:** [[Atlassian]] (5), [[Jira]] (4), [[Slack]] (2), [[Data Quality]] (1), [[Microsoft Teams]] (1)
 > **Env Vars:** sla (6), jql (2)
 > **Tools:** jira (4), slack (2)
 > **CLI Commands:** make (4), find (1)
@@ -3751,8 +3717,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Best Practices:** don't forget (1)
 
-#### Create automation rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/create-automation-rules?u=76281980)
+#### [Create automation rules](https://www.linkedin.com/learning/jira-service-management-administration/create-automation-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3882,7 +3847,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/jira-service-management-administration/create-automation-rules?u=76281980&t=280)** Now when incidents are remedied and the special label is present, the customer is sent an email and an internal comment is added to the issue.
 >
-> **[4:50](https://www.linkedin.com/learning/jira-service-management-administration/create-automation-rules?u=76281980&t=290)** There's a lot you can do with builtin automation, but if you need additional features, you can extend capabilities with an app from the Atlassian Marketplace.
+> **[4:50](https://www.linkedin.com/learning/jira-service-management-administration/create-automation-rules?u=76281980&t=290)** There's a lot you can do with builtin automation, but if you need additional features, you can extend capabilities with an app from the [[Atlassian]] Marketplace.
 >
 > **[4:58](https://www.linkedin.com/learning/jira-service-management-administration/create-automation-rules?u=76281980&t=298)** Some apps provide specific automations, like creating new issues on transition or calculating fields.
 >
@@ -3892,19 +3857,18 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/jira-service-management-administration/create-automation-rules?u=76281980&t=313)** Search for automation or workflow in the Atlassian Marketplace to see the options.
 >
-> **[5:18](https://www.linkedin.com/learning/jira-service-management-administration/create-automation-rules?u=76281980&t=318)** And for data center users, if you like the visual rule builder seen in Cloud, you can add those capabilities with the Automation for JIRA app.
+> **[5:18](https://www.linkedin.com/learning/jira-service-management-administration/create-automation-rules?u=76281980&t=318)** And for data center users, if you like the visual rule builder seen in Cloud, you can add those capabilities with the Automation for [[Jira]] app.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (9), next (9), cloud (3), application (2), [[Atlassian]] (2)
+> **Frameworks & Libraries:** [[Atlassian]] (2), [[Jira]] (1)
 > **Env Vars:** sla (5), jql (3), url (1), jira (1)
 > **UI Navigation:** go to (1), scroll down (1), select the (1), dropdown (1)
 > **CLI Commands:** make (3)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create an automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-an-automation?u=76281980)
+#### [Challenge: Create an automation](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-an-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3912,20 +3876,19 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-an-automation?u=76281980&t=11)** In this challenge, you'll create an automation rule to handle unverified customer requests.
 >
-> **[0:17](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-an-automation?u=76281980&t=17)** First, choose a JIRA Service Management project, then create an automation in the project settings area.
+> **[0:17](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-an-automation?u=76281980&t=17)** First, choose a [[Jira]] Service Management project, then create an automation in the project settings area.
 >
 > **[0:23](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-an-automation?u=76281980&t=23)** Create the necessary triggers, conditions, and actions to detect the impacted requests and automatically close them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), teams (1), [[Jira]] (1), management (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Env Vars:** jira (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create an automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/solution-create-an-automation?u=76281980)
+#### [Solution: Create an automation](https://www.linkedin.com/learning/jira-service-management-administration/solution-create-an-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3955,7 +3918,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Automation]] (2), cloud (1), management (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** jql (1)
 > **Cross-References:** in the last (1)
@@ -3968,22 +3930,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reporting overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980)
+#### [Reporting overview](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=0)** - [Instructor] In this section, we'll discuss reporting capabilities in Jira Service Management.
+> **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=0)** - [Instructor] In this section, we'll discuss reporting capabilities in [[Jira]] Service Management.
 >
 > **[0:05](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=5)** There are many ways to view, present and share request data and progress.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=9)** JSM comes with standard reports, custom reports, and queues to categorize request data.
 >
-> **[0:15](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=15)** You can also use Jira dashboards for a statistics based view of data from one or more service projects.
+> **[0:15](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=15)** You can also use Jira [[Dashboards]] for a [[Statistics]] based view of data from one or more service projects.
 >
-> **[0:21](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=21)** If you need additional features, there are hundreds of reporting apps to explore in the Atlassian marketplace.
+> **[0:21](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=21)** If you need additional features, there are hundreds of reporting apps to explore in the [[Atlassian]] marketplace.
 >
-> **[0:27](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=27)** You can also leverage the REST API to develop custom features and, of course, server or data center users can also directly query the Jira database.
+> **[0:27](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=27)** You can also leverage the [[Representational State Transfer (REST)|REST]] API to develop custom features and, of course, server or data center users can also directly query the Jira database.
 >
 > **[0:37](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980&t=37)** Before we move on, let's discuss the difference between filters and queues.
 >
@@ -4011,15 +3972,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), data (5), management (2), [[Dashboards]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Dashboards]] (2), [[Statistics]] (1), [[Atlassian]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** jira (5)
 > **Env Vars:** jsm (1), rest (1), api (1), jql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/using-reports?u=76281980)
+#### [Using reports](https://www.linkedin.com/learning/jira-service-management-administration/using-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4073,13 +4033,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/jira-service-management-administration/using-reports?u=76281980&t=112)** The option to create a new custom report is at the bottom of the set menu.
 >
-> **[1:55](https://www.linkedin.com/learning/jira-service-management-administration/using-reports?u=76281980&t=115)** In addition to all the built-in JSM reports, you can also create custom Jira dashboards in all deployment methods.
+> **[1:55](https://www.linkedin.com/learning/jira-service-management-administration/using-reports?u=76281980&t=115)** In addition to all the built-in JSM reports, you can also create custom [[Jira]] [[Dashboards]] in all deployment methods.
 >
 > **[2:02](https://www.linkedin.com/learning/jira-service-management-administration/using-reports?u=76281980&t=122)** Here's an example in server.
 >
 > **[2:04](https://www.linkedin.com/learning/jira-service-management-administration/using-reports?u=76281980&t=124)** Dashboards are a great way to show a high level overview or a snapshot in time.
 >
-> **[2:09](https://www.linkedin.com/learning/jira-service-management-administration/using-reports?u=76281980&t=129)** You can quickly gauge the health of a system, view a team's workload, or see other statistics based views of data.
+> **[2:09](https://www.linkedin.com/learning/jira-service-management-administration/using-reports?u=76281980&t=129)** You can quickly gauge the health of a system, view a team's workload, or see other [[Statistics]] based views of data.
 >
 > **[2:16](https://www.linkedin.com/learning/jira-service-management-administration/using-reports?u=76281980&t=136)** This example shows a custom dashboard to provide an overview of activity across multiple service management projects.
 >
@@ -4091,15 +4051,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Dashboards]] (3), management (2), cloud (2), [[Jira]] (2)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Jira]] (2), [[Statistics]] (1)
 > **Env Vars:** url (2), jql (2), csv (1), jsm (1)
 > **Tools:** jira (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/using-queues?u=76281980)
+#### [Using queues](https://www.linkedin.com/learning/jira-service-management-administration/using-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4111,7 +4070,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/jira-service-management-administration/using-queues?u=76281980&t=9)** A request can be in more than one queue at the same time.
 >
-> **[0:13](https://www.linkedin.com/learning/jira-service-management-administration/using-queues?u=76281980&t=13)** It's like a JQL filter in Jira, except it's not a user object.
+> **[0:13](https://www.linkedin.com/learning/jira-service-management-administration/using-queues?u=76281980&t=13)** It's like a JQL filter in [[Jira]], except it's not a user object.
 >
 > **[0:17](https://www.linkedin.com/learning/jira-service-management-administration/using-queues?u=76281980&t=17)** It's a shared view used by the entire support team.
 >
@@ -4209,7 +4168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Jira]] (3), data (3), next (3), management (1)
+> **Frameworks & Libraries:** [[Jira]] (3)
 > **UI Navigation:** in the sidebar (2), scroll down (1), dropdown (1), switch to (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** jql (3), itsm (1)
@@ -4218,8 +4177,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Measuring customer satisfaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/measuring-customer-satisfaction?u=76281980)
+#### [Measuring customer satisfaction](https://www.linkedin.com/learning/jira-service-management-administration/measuring-customer-satisfaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4241,7 +4199,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/jira-service-management-administration/measuring-customer-satisfaction?u=76281980&t=34)** If a comment is submitted, it appears in a dedicated project specific report.
 >
-> **[0:39](https://www.linkedin.com/learning/jira-service-management-administration/measuring-customer-satisfaction?u=76281980&t=39)** None of the survey data displays in the Jira issue or JSM request.
+> **[0:39](https://www.linkedin.com/learning/jira-service-management-administration/measuring-customer-satisfaction?u=76281980&t=39)** None of the survey data displays in the [[Jira]] issue or JSM request.
 >
 > **[0:44](https://www.linkedin.com/learning/jira-service-management-administration/measuring-customer-satisfaction?u=76281980&t=44)** This feature only has two configurable options.
 >
@@ -4265,20 +4223,19 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/jira-service-management-administration/measuring-customer-satisfaction?u=76281980&t=95)** Every collection method has pros and cons.
 >
-> **[1:37](https://www.linkedin.com/learning/jira-service-management-administration/measuring-customer-satisfaction?u=76281980&t=97)** There are plenty of survey related apps in the Atlassian Marketplace.
+> **[1:37](https://www.linkedin.com/learning/jira-service-management-administration/measuring-customer-satisfaction?u=76281980&t=97)** There are plenty of survey related apps in the [[Atlassian]] Marketplace.
 >
 > **[1:41](https://www.linkedin.com/learning/jira-service-management-administration/measuring-customer-satisfaction?u=76281980&t=101)** Visit marketplace.[atlassian.com](https://atlassian.com), search for survey and limit the results list to the JSM application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), data (3), [[Jira]] (2), [[Automation]] (2), [[Atlassian]] (2)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Atlassian]] (2)
 > **Env Vars:** jsm (4), csat (1)
 > **Tools:** jira (2)
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
 > **Speakers:** - in (1)
 
-#### Challenge: Create a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-a-report?u=76281980)
+#### [Challenge: Create a report](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-a-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4286,7 +4243,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-a-report?u=76281980&t=5)** - [Instructor] In this challenge, you'll create a custom report to find all requests made by a group of users.
 >
-> **[0:11](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-a-report?u=76281980&t=11)** First, select a group from Jira's User Management area.
+> **[0:11](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-a-report?u=76281980&t=11)** First, select a group from [[Jira]]'s [[User Management]] area.
 >
 > **[0:15](https://www.linkedin.com/learning/jira-service-management-administration/challenge-create-a-report?u=76281980&t=15)** Next, choose a Jira Service Management project.
 >
@@ -4296,14 +4253,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), [[User Management]] (1), next (1), management (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[User Management]] (1)
 > **Tools:** jira (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Create a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/solution-create-a-report?u=76281980)
+#### [Solution: Create a report](https://www.linkedin.com/learning/jira-service-management-administration/solution-create-a-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4335,7 +4291,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), management (1)
 > **Env Vars:** vip (2), jql (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -4346,14 +4301,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=0)** - [Tutor] Congrats on completing the course, you've performed many of the tasks expected of a JSM administrator and are well on your way to a strong foundation.
 >
-> **[0:08](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=8)** You should now be able to recognize differences between Jira and Jira service management features, configure project portal and queue settings, and use JSM specific features like workflow approvals, service level agreements, automation, and reporting.
+> **[0:08](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=8)** You should now be able to recognize differences between [[Jira]] and Jira service management features, configure project portal and queue settings, and use JSM specific features like workflow approvals, service level agreements, automation, and reporting.
 >
 > **[0:24](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=24)** Your next step is to continue learning.
 >
@@ -4361,7 +4315,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=30)** You'll find many admin learning resources in the nine ways to learn Jira administration article on my website.
 >
-> **[0:37](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=37)** As I mentioned in the beginning of the course, Atlassian stopped selling new licenses of server products in February of 2021, and support for server products ends on February 2nd, 2024.
+> **[0:37](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=37)** As I mentioned in the beginning of the course, [[Atlassian]] stopped selling new licenses of server [[Microsoft Products|products]] in February of 2021, and support for server products ends on February 2nd, 2024.
 >
 > **[0:49](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=49)** So what should you do if you have Jira server?
 >
@@ -4397,7 +4351,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=136)** You can ask a question or start a discussion.
 >
-> **[2:19](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=139)** There are also plenty of Jira theme groups on LinkedIn and Facebook.
+> **[2:19](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=139)** There are also plenty of Jira theme groups on [[LinkedIn]] and Facebook.
 >
 > **[2:23](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980&t=143)** Next, studying for Atlassian certification is a great way to learn more about Jira.
 >
@@ -4419,7 +4373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (12), [[Atlassian]] (11), cloud (4), next (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Jira]] (12), [[Atlassian]] (11), [[Microsoft Products|Products]] (3), [[LinkedIn]] (1)
 > **Tools:** jira (12)
 > **Env Vars:** jsm (4), url (3)
 > **CLI Commands:** find (2), make (2)

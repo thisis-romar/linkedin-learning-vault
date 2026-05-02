@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Put your Python skills to the test!
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/put-your-python-skills-to-the-test?u=76281980)
+#### [Put your Python skills to the test!](https://www.linkedin.com/learning/level-up-python/put-your-python-skills-to-the-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/level-up-python/put-your-python-skills-to-the-test?u=76281980&t=8)** Practice.
 >
-> **[0:09](https://www.linkedin.com/learning/level-up-python/put-your-python-skills-to-the-test?u=76281980&t=9)** I'm Barron Stone, and this is a collection of bite-size challenges you can use to practice Python programming.
+> **[0:09](https://www.linkedin.com/learning/level-up-python/put-your-python-skills-to-the-test?u=76281980&t=9)** I'm Barron Stone, and this is a collection of bite-size challenges you can use to practice [[Python (Programming Language)|Python]] programming.
 >
 > **[0:16](https://www.linkedin.com/learning/level-up-python/put-your-python-skills-to-the-test?u=76281980&t=16)** Each video in this course is self-contained with an explanation of a challenge along with my solution to it.
 >
@@ -107,22 +106,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - how (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -192,7 +190,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -234,7 +232,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/level-up-python/using-github-codespaces-with-this-course?u=76281980&t=337)** That way, it'll automatically sync with your forked repo.
 >
@@ -250,7 +248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -264,8 +262,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Find prime factors
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/find-prime-factors?u=76281980)
+#### [Find prime factors](https://www.linkedin.com/learning/level-up-python/find-prime-factors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/level-up-python/find-prime-factors?u=76281980&t=10)** For this challenge, we'll factor some numbers, that are easier to deal with.
 >
-> **[0:15](https://www.linkedin.com/learning/level-up-python/find-prime-factors?u=76281980&t=15)** Your goal is to write a Python function to find the prime factorization of a given number.
+> **[0:15](https://www.linkedin.com/learning/level-up-python/find-prime-factors?u=76281980&t=15)** Your goal is to write a [[Python (Programming Language)|Python]] function to find the prime factorization of a given number.
 >
 > **[0:20](https://www.linkedin.com/learning/level-up-python/find-prime-factors?u=76281980&t=20)** It should take an integer value as the input and then return a list containing all of its prime factors.
 >
@@ -331,25 +328,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), [[Python (Programming Language)|Python]] (2), [[Search]] (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (2)
 > **Analogies:** for example (2)
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - public (1)
 
-#### Identify a palindrome
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/identify-a-palindrome?u=76281980)
+#### [Identify a palindrome](https://www.linkedin.com/learning/level-up-python/identify-a-palindrome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-python/identify-a-palindrome?u=76281980&t=0)** (electronic blipping)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-python/identify-a-palindrome?u=76281980&t=3)** - [Instructor] Identifying certain patterns within strings, or other types of data structures, is a common programming task.
+> **[0:03](https://www.linkedin.com/learning/level-up-python/identify-a-palindrome?u=76281980&t=3)** - [Instructor] Identifying certain patterns within strings, or other types of [[Data Structures]], is a common programming task.
 >
-> **[0:09](https://www.linkedin.com/learning/level-up-python/identify-a-palindrome?u=76281980&t=9)** For this challenge, your goal is to write a Python function that determines if a given string is a palindrome.
+> **[0:09](https://www.linkedin.com/learning/level-up-python/identify-a-palindrome?u=76281980&t=9)** For this challenge, your goal is to write a [[Python (Programming Language)|Python]] function that determines if a given string is a palindrome.
 >
-> **[0:16](https://www.linkedin.com/learning/level-up-python/identify-a-palindrome?u=76281980&t=16)** A palindrome is a word or phrase that reads the same forwards as it does backwards.
+> **[0:16](https://www.linkedin.com/learning/level-up-python/identify-a-palindrome?u=76281980&t=16)** A palindrome is a [[Microsoft Word|word]] or phrase that reads the same forwards as it does backwards.
 >
 > **[0:20](https://www.linkedin.com/learning/level-up-python/identify-a-palindrome?u=76281980&t=20)** For example, the word level is spelled the same forwards and backwards.
 >
@@ -401,7 +397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2), data (1), [[Programming]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2), [[Data Structures]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** python (2), find (1)
 > **Code Identifiers:** is_palindrome (2)
@@ -409,8 +405,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sort a string
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/sort-a-string?u=76281980)
+#### [Sort a string](https://www.linkedin.com/learning/level-up-python/sort-a-string?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,7 +413,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/level-up-python/sort-a-string?u=76281980&t=8)** So this challenge will give you practice doing just that.
 >
-> **[0:11](https://www.linkedin.com/learning/level-up-python/sort-a-string?u=76281980&t=11)** Your goal is to write a Python function to sort the words in a string.
+> **[0:11](https://www.linkedin.com/learning/level-up-python/sort-a-string?u=76281980&t=11)** Your goal is to write a [[Python (Programming Language)|Python]] function to sort the words in a string.
 >
 > **[0:16](https://www.linkedin.com/learning/level-up-python/sort-a-string?u=76281980&t=16)** It should accept a string containing one or more words separated by spaces as the input argument, and then return a string containing those words sorted alphabetically.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/level-up-python/sort-a-string?u=76281980&t=42)** For example, the input string 'banana ORANGE apple' should produce the output shown here with 'apple banana ORANGE.'
 >
-> **[0:50](https://www.linkedin.com/learning/level-up-python/sort-a-string?u=76281980&t=50)** Notice that even though the word orange was capitalized it was still sorted to the end of the output string because that's where it belongs alphabetically and it maintained its capitalization in the output.
+> **[0:50](https://www.linkedin.com/learning/level-up-python/sort-a-string?u=76281980&t=50)** Notice that even though the [[Microsoft Word|word]] orange was capitalized it was still sorted to the end of the output string because that's where it belongs alphabetically and it maintained its capitalization in the output.
 >
 > **[1:02](https://www.linkedin.com/learning/level-up-python/sort-a-string?u=76281980&t=62)** Pause the video now to create your own solution then I'll show you how I solve this challenge.
 >
@@ -466,7 +461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Env Vars:** orange (2)
 > **Non-Speech:** (upbeat music) (2)
@@ -474,14 +469,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - manipulating (1)
 
-#### Find all list items
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/find-all-list-items?u=76281980)
+#### [Find all list items](https://www.linkedin.com/learning/level-up-python/find-all-list-items?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-python/find-all-list-items?u=76281980&t=0)** (game reward effects)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-python/find-all-list-items?u=76281980&t=3)** - Python's index method finds the index of the first item in a list.
+> **[0:03](https://www.linkedin.com/learning/level-up-python/find-all-list-items?u=76281980&t=3)** - [[Python (Programming Language)|Python]]'s index method finds the index of the first item in a list.
 >
 > **[0:07](https://www.linkedin.com/learning/level-up-python/find-all-list-items?u=76281980&t=7)** But what if there are multiple instances of that item?
 >
@@ -533,7 +527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Search]] (4), game (1), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** find (5), python (4)
 > **Code Identifiers:** index_all (6), search_list (1), find_all (1)
 > **Tools:** terminal (1)
@@ -542,8 +536,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - python (1)
 
-#### Play the waiting game
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/play-the-waiting-game?u=76281980)
+#### [Play the waiting game](https://www.linkedin.com/learning/level-up-python/play-the-waiting-game?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,7 +544,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/level-up-python/play-the-waiting-game?u=76281980&t=3)** - Creating games is a fun way to practice programming, so that's what we'll do for this challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/level-up-python/play-the-waiting-game?u=76281980&t=8)** Your goal is to write a Python function to play a pulse-pounding game of patience I call the "Waiting Game."
+> **[0:08](https://www.linkedin.com/learning/level-up-python/play-the-waiting-game?u=76281980&t=8)** Your goal is to write a [[Python (Programming Language)|Python]] function to play a pulse-pounding game of patience I call the "Waiting Game."
 >
 > **[0:14](https://www.linkedin.com/learning/level-up-python/play-the-waiting-game?u=76281980&t=14)** When the player runs your waiting game program, it should print a message for them to wait a random amount of time somewhere between two to four seconds.
 >
@@ -595,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (9), [[Python (Programming Language)|Python]] (3), [[Programming]] (2), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
 > **Non-Speech:** (game machine chimes) (3)
 > **Tools:** terminal (1)
@@ -603,14 +596,13 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - creating (1)
 
-#### Save a dictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/save-a-dictionary?u=76281980)
+#### [Save a dictionary](https://www.linkedin.com/learning/level-up-python/save-a-dictionary?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-python/save-a-dictionary?u=76281980&t=0)** (gaming music)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-python/save-a-dictionary?u=76281980&t=3)** - Python dictionaries are incredibly useful for storing and retrieving information, but that data is held in memory.
+> **[0:03](https://www.linkedin.com/learning/level-up-python/save-a-dictionary?u=76281980&t=3)** - [[Python (Programming Language)|Python]] dictionaries are incredibly useful for storing and retrieving information, but that data is held in memory.
 >
 > **[0:09](https://www.linkedin.com/learning/level-up-python/save-a-dictionary?u=76281980&t=9)** So when the program exits, it disappears.
 >
@@ -660,7 +652,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/level-up-python/save-a-dictionary?u=76281980&t=168)** It also allows you to do things like transfer python objects across a network.
 >
-> **[2:54](https://www.linkedin.com/learning/level-up-python/save-a-dictionary?u=76281980&t=174)** If you took a different approach to this challenge, perhaps you tried saving the dictionary in a text-based format such as JSON or CSV, or maybe you used Python's Shelf module.
+> **[2:54](https://www.linkedin.com/learning/level-up-python/save-a-dictionary?u=76281980&t=174)** If you took a different approach to this challenge, perhaps you tried saving the dictionary in a text-based format such as [[JSON]] or CSV, or maybe you used Python's Shelf module.
 >
 > **[3:03](https://www.linkedin.com/learning/level-up-python/save-a-dictionary?u=76281980&t=183)** I encourage you to leave a comment and share your strategy with others.
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (6), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[JSON]] (1)
 > **CLI Commands:** python (9)
 > **Code Identifiers:** test_dict (4), save_dict (2), load_dict (2)
 > **Env Vars:** json (1), csv (1)
@@ -677,8 +669,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Schedule a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/schedule-a-function?u=76281980)
+#### [Schedule a function](https://www.linkedin.com/learning/level-up-python/schedule-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +679,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/level-up-python/schedule-a-function?u=76281980&t=7)** Just like setting an alarm to wake yourself up in the morning.
 >
-> **[0:10](https://www.linkedin.com/learning/level-up-python/schedule-a-function?u=76281980&t=10)** Your goal for this challenge is to write a Python function which sets an alarm by playing a sound file and printing a message at the specified time.
+> **[0:10](https://www.linkedin.com/learning/level-up-python/schedule-a-function?u=76281980&t=10)** Your goal for this challenge is to write a [[Python (Programming Language)|Python]] function which sets an alarm by playing a sound file and printing a message at the specified time.
 >
 > **[0:17](https://www.linkedin.com/learning/level-up-python/schedule-a-function?u=76281980&t=17)** The function should have three inputs, for the time you want to set the alarm to go off, the sound file you want to play, and the message to display.
 >
@@ -742,15 +733,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), game (3), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Env Vars:** asc (1)
 > **Tools:** terminal (1)
 > **Analogies:** just like (1)
 > **Speakers:** - it (1)
 
-#### Send an email
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980)
+#### [Send an email](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -760,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=9)** Rather than sitting around waiting for it to finish, I have the program send an email to let me know when it's done or if it runs into problems that need my attention.
 >
-> **[0:17](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=17)** Your goal for this challenge is to write a Python function to send a basic email notification.
+> **[0:17](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=17)** Your goal for this challenge is to write a [[Python (Programming Language)|Python]] function to send a basic email notification.
 >
 > **[0:23](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=23)** At a minimum, the function should have input parameters for the receiving email address, a subject line, and the message body.
 >
@@ -774,7 +764,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=51)** (video game noises) For my solution, I used Python's smtplib module, which provides an interface to connect to SMTP servers and send email messages.
 >
-> **[1:03](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=63)** I'll be sending my messages from an Outlook email account and after digging down into the account settings menus, I found this page, which shows the server name, port, and encryption method I'll need to use to send emails with SMTP.
+> **[1:03](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=63)** I'll be sending my messages from an [[Microsoft Outlook|Outlook]] email account and after digging down into the account settings menus, I found this page, which shows the server name, port, and encryption method I'll need to use to send emails with SMTP.
 >
 > **[1:17](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=77)** Now, looking at my code, I import the smtplib module, and then create two string variables with the email address and password for the account I'll be sending the message from.
 >
@@ -786,7 +776,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=102)** This is the way to format the email to have a subject line and a simple text message.
 >
-> **[1:46](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=106)** Next on line eight, I use the SMTP function to open a connection to the Office 365 SMTP server on port 587, and I open that with a context manager to automatically handle closing the connection when it's done.
+> **[1:46](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=106)** Next on line eight, I use the SMTP function to open a connection to the [[Microsoft Office|Office]] 365 SMTP server on port 587, and I open that with a context manager to automatically handle closing the connection when it's done.
 >
 > **[2:00](https://www.linkedin.com/learning/level-up-python/send-an-email?u=76281980&t=120)** Line nine calls the starttls method to put the SMTP connection into transport layer security, or TLS mode, and then line 10 uses the login method of the server object to log in with the sender's email address and password credentials.
 >
@@ -810,7 +800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), game (2), [[Security]] (2), [[Microsoft Outlook|Outlook]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** smtp (5), tls (1)
 > **CLI Commands:** python (4), make (1)
 > **Non-Speech:** (video game noises) (2)
@@ -819,22 +809,21 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 
-#### Simulate dice
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980)
+#### [Simulate dice](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980&t=0)** (lively game music) (ending game music)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980&t=3)** - I love playing tabletop RPGs but it'd be nice if I knew the probability of getting certain outcomes before taking a risk and rolling the dice.
+> **[0:03](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980&t=3)** - I love playing tabletop RPGs but it'd be nice if I knew the [[Probability]] of getting certain outcomes before taking a risk and rolling the dice.
 >
 > **[0:11](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980&t=11)** (dice rolling)
 >
 > **[0:11](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980&t=11)** - [Narrator] You have failed this skill check and fall into a pit.
 >
-> **[0:14](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980&t=14)** - Your goal for this challenge is to write a Python function to determine the probability of different outcomes when roiling an arbitrary set of dice.
+> **[0:14](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980&t=14)** - Your goal for this challenge is to write a [[Python (Programming Language)|Python]] function to determine the probability of different outcomes when roiling an arbitrary set of dice.
 >
-> **[0:22](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980&t=22)** Now, while it's possible to use math to calculate the outcome probabilities for a handful of dice, for this challenge, we'll use a different method called Monte Carlo simulation, which uses random sampling to evaluate possible outcomes.
+> **[0:22](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980&t=22)** Now, while it's possible to use math to calculate the outcome probabilities for a handful of dice, for this challenge, we'll use a different method called Monte Carlo [[Simulation]], which uses random sampling to evaluate possible outcomes.
 >
 > **[0:35](https://www.linkedin.com/learning/level-up-python/simulate-dice?u=76281980&t=35)** Your program should simulate rolling dice over and over to see how many times each outcome occurs and then determine the probabilities based on that.
 >
@@ -884,7 +873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), [[Simulation]] (3), game (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Simulation]] (3), [[Python (Programming Language)|Python]] (2)
 > **Non-Speech:** (lively game music) (1), (ending game music) (1), (upbeat music) (1), (lively music) (1)
 > **Speakers:** - i (1), - [narrator] (1), - your (1)
 > **CLI Commands:** python (2)
@@ -893,18 +882,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Count unique words
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/count-unique-words?u=76281980)
+#### [Count unique words](https://www.linkedin.com/learning/level-up-python/count-unique-words?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-python/count-unique-words?u=76281980&t=0)** (game machine chimes)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-python/count-unique-words?u=76281980&t=3)** - Pretty much every modern word processor has a word count tool to count the total number of words in a document.
+> **[0:03](https://www.linkedin.com/learning/level-up-python/count-unique-words?u=76281980&t=3)** - Pretty much every modern [[Microsoft Word|word]] processor has a word count tool to count the total number of words in a document.
 >
 > **[0:10](https://www.linkedin.com/learning/level-up-python/count-unique-words?u=76281980&t=10)** For this challenge, we're going to take that tool one step further to practice both breaking down text and counting items.
 >
-> **[0:16](https://www.linkedin.com/learning/level-up-python/count-unique-words?u=76281980&t=16)** Your goal is to write a Python function that determines the number of unique words in a text file and counts how many times each word occurs.
+> **[0:16](https://www.linkedin.com/learning/level-up-python/count-unique-words?u=76281980&t=16)** Your goal is to write a [[Python (Programming Language)|Python]] function that determines the number of unique words in a text file and counts how many times each word occurs.
 >
 > **[0:25](https://www.linkedin.com/learning/level-up-python/count-unique-words?u=76281980&t=25)** It should accept the path to a text file as the input argument, and then print the total number of words in the file, as well as the top 20 most frequently used words, and how many times each of them occurs.
 >
@@ -956,7 +944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Python (Programming Language)|Python]] (3), game (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (1)
 > **URLs:** [gutenberg.org](https://gutenberg.org) (2)
 > **Definitions:** is a  (2)
@@ -965,8 +953,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** open the (1)
 
-#### Generate a password
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/generate-a-password?u=76281980)
+#### [Generate a password](https://www.linkedin.com/learning/level-up-python/generate-a-password?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +961,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/level-up-python/generate-a-password?u=76281980&t=3)** - Security experts recommend using a different password for each of your online accounts.
 >
-> **[0:08](https://www.linkedin.com/learning/level-up-python/generate-a-password?u=76281980&t=8)** So this challenge will involve writing a Python function to generate new passwords, which is good programming practice for working with randomness.
+> **[0:08](https://www.linkedin.com/learning/level-up-python/generate-a-password?u=76281980&t=8)** So this challenge will involve writing a [[Python (Programming Language)|Python]] function to generate new passwords, which is good programming practice for working with randomness.
 >
 > **[0:16](https://www.linkedin.com/learning/level-up-python/generate-a-password?u=76281980&t=16)** Now I have a hard time remembering passwords like this one.
 >
@@ -984,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/level-up-python/generate-a-password?u=76281980&t=29)** It involves using a list of over 7,000 different words.
 >
-> **[0:33](https://www.linkedin.com/learning/level-up-python/generate-a-password?u=76281980&t=33)** Each word is associated with a five digit number, where each of the digits in that number is between one through six.
+> **[0:33](https://www.linkedin.com/learning/level-up-python/generate-a-password?u=76281980&t=33)** Each [[Microsoft Word|word]] is associated with a five digit number, where each of the digits in that number is between one through six.
 >
 > **[0:39](https://www.linkedin.com/learning/level-up-python/generate-a-password?u=76281980&t=39)** You roll dice to generate a sequence of five random numbers, which corresponds to one of those words.
 >
@@ -1038,7 +1025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (5), [[Security]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (5)
 > **CLI Commands:** python (5)
 > **URLs:** [diceware.com](https://diceware.com) (1)
 > **Env Vars:** pgp (1)
@@ -1047,8 +1034,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - security (1)
 
-#### Merge CSV files
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/merge-csv-files?u=76281980)
+#### [Merge CSV files](https://www.linkedin.com/learning/level-up-python/merge-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1058,7 +1044,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/level-up-python/merge-csv-files?u=76281980&t=10)** The first row contains one or more field names separated by commas and each line below that is a record with comma separated values corresponding to those fields.
 >
-> **[0:19](https://www.linkedin.com/learning/level-up-python/merge-csv-files?u=76281980&t=19)** Your goal is to write a Python function to merge multiple CSV files into one.
+> **[0:19](https://www.linkedin.com/learning/level-up-python/merge-csv-files?u=76281980&t=19)** Your goal is to write a [[Python (Programming Language)|Python]] function to merge multiple CSV files into one.
 >
 > **[0:24](https://www.linkedin.com/learning/level-up-python/merge-csv-files?u=76281980&t=24)** It should accept a list of file paths to the input files you want to merge and a path to the output file.
 >
@@ -1116,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), data (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** csv (11)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** all_students (2)
@@ -1125,8 +1111,7 @@ created: 2026-05-02
 > **File Paths:** all_students.csv (1)
 > **Tools:** terminal (1)
 
-#### Solve a sudoku
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/solve-a-sudoku?u=76281980)
+#### [Solve a sudoku](https://www.linkedin.com/learning/level-up-python/solve-a-sudoku?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1119,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/level-up-python/solve-a-sudoku?u=76281980&t=3)** - Did you know that doing number puzzles and games increases neuroplasticity within the brain and helps it reorganize itself?
 >
-> **[0:09](https://www.linkedin.com/learning/level-up-python/solve-a-sudoku?u=76281980&t=9)** I love a good Sudoku puzzle and I love writing Python code.
+> **[0:09](https://www.linkedin.com/learning/level-up-python/solve-a-sudoku?u=76281980&t=9)** I love a good Sudoku puzzle and I love writing [[Python (Programming Language)|Python]] code.
 >
 > **[0:12](https://www.linkedin.com/learning/level-up-python/solve-a-sudoku?u=76281980&t=12)** So let's do both.
 >
@@ -1218,7 +1203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Search]] (2), product (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (3), find (1)
 > **Code Identifiers:** solve_sudoku (6), print_sudoku (2)
 > **Non-Speech:** (techno gaming music) (3)
@@ -1226,8 +1211,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - did (1)
 
-#### Build a zip archive
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/build-a-zip-archive?u=76281980)
+#### [Build a zip archive](https://www.linkedin.com/learning/level-up-python/build-a-zip-archive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/level-up-python/build-a-zip-archive?u=76281980&t=3)** - When you need to package up a bunch of related data, ZIP files are great.
 >
-> **[0:07](https://www.linkedin.com/learning/level-up-python/build-a-zip-archive?u=76281980&t=7)** Your goal for this challenge is to write a Python function to build a ZIP archive.
+> **[0:07](https://www.linkedin.com/learning/level-up-python/build-a-zip-archive?u=76281980&t=7)** Your goal for this challenge is to write a [[Python (Programming Language)|Python]] function to build a ZIP archive.
 >
 > **[0:12](https://www.linkedin.com/learning/level-up-python/build-a-zip-archive?u=76281980&t=12)** It should accept a path to the top-level directory you want to include, a list of file extensions, and an output file path for the resulting archive.
 >
@@ -1293,7 +1277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), [[Python (Programming Language)|Python]] (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Code Identifiers:** my_stuff (5), zip_all (4), output_zip (1)
 > **Env Vars:** zip (8)
 > **Exercise Files:** zip file (4)
@@ -1302,8 +1286,7 @@ created: 2026-05-02
 > **Speakers:** - when (1), - for (1)
 > **Non-Speech:** (playful music) (2)
 
-#### Download sequential files
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/download-sequential-files?u=76281980)
+#### [Download sequential files](https://www.linkedin.com/learning/level-up-python/download-sequential-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1313,7 +1296,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/level-up-python/download-sequential-files?u=76281980&t=9)** If you need to download a lot of these from the internet, downloading them manually is cumbersome.
 >
-> **[0:15](https://www.linkedin.com/learning/level-up-python/download-sequential-files?u=76281980&t=15)** Your goal for this challenge is to write a Python function to download and save a sequence of sequentially numbered files.
+> **[0:15](https://www.linkedin.com/learning/level-up-python/download-sequential-files?u=76281980&t=15)** Your goal for this challenge is to write a [[Python (Programming Language)|Python]] function to download and save a sequence of sequentially numbered files.
 >
 > **[0:21](https://www.linkedin.com/learning/level-up-python/download-sequential-files?u=76281980&t=21)** It should accept two inputs, the URL for the first item in the sequence and a path to the output directory where you want to save them.
 >
@@ -1385,7 +1368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** url (14)
 > **Code Identifiers:** first_index (3), index_count (3), next_index (3), download_files (2), error_count (2)
 > **CLI Commands:** python (3), find (1), make (1)

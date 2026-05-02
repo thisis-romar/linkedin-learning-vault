@@ -103,14 +103,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structural design patterns in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980)
+#### [Structural design patterns in C++](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980&t=0)** - [Karoly] Structural design patterns can help us maintain and scale our code as our project grows more complex.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980&t=0)** - [Karoly] Structural [[Design Patterns]] can help us maintain and scale our code as our project grows more complex.
 >
-> **[0:07](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980&t=7)** Design patterns are proven solutions to recurring software design problems and the structural patterns in particular help you simplify and keep the design of large object structures flexible and efficient.
+> **[0:07](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980&t=7)** Design patterns are proven solutions to recurring [[Software Design]] problems and the structural patterns in particular help you simplify and keep the design of large object structures flexible and efficient.
 >
 > **[0:20](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980&t=20)** In this course, we'll delve into the world of C++ structural design patterns and explore how they can help you create more elegant and scalable software.
 >
@@ -118,11 +117,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980&t=38)** I've helped numerous developers improve their code quality and design skills and I'm excited to share my knowledge with you.
 >
-> **[0:46](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980&t=46)** If you are ready to take your coding and object-oriented design skills to the next level, join me in my LinkedIn Learning course as we explore the seven structural design patterns defined by the Gang of Four and learn how to leverage them in modern C++.
+> **[0:46](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980&t=46)** If you are ready to take your coding and object-oriented design skills to the next level, join me in my [[LinkedIn]] Learning course as we explore the seven structural design patterns defined by the Gang of Four and learn how to leverage them in modern C++.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Software Design]] (1), [[Programming]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Software Design]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [karoly] (1)
 
 
@@ -130,12 +129,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980)
+#### [Overview](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980&t=0)** - [Instructor] The adapter design pattern is a software design pattern that allows two incompatible interfaces to work together by converting one class's interface into another.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980&t=0)** - [Instructor] The adapter design pattern is a [[Software Design]] pattern that allows two incompatible interfaces to work together by converting one class's interface into another.
 >
 > **[0:11](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980&t=11)** This pattern is often used in situations where a client is expecting a specific interface but the object the client is trying to use as a different interface.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Software Design]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Design]] (1)
 > **Env Vars:** api (3), uml (1)
 > **Definitions:** is a  (3)
 > **Warnings:** be aware (1), keep in mind (1)
@@ -197,8 +195,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### When should you use the Adapter pattern?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/when-should-you-use-the-adapter-pattern?u=76281980)
+#### [When should you use the Adapter pattern?](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/when-should-you-use-the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,8 +244,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing an object adapter
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/implementing-an-object-adapter?u=76281980)
+#### [Implementing an object adapter](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/implementing-an-object-adapter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -326,14 +322,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Code Identifiers:** m_adaptee (3), make_unique (2)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing a class adapter
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/implementing-a-class-adapter?u=76281980)
+#### [Implementing a class adapter](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/implementing-a-class-adapter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,14 +393,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** make_unique (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Refactor using the Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-refactor-using-the-adapter-pattern?u=76281980)
+#### [Challenge: Refactor using the Adapter pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-refactor-using-the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -416,7 +408,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-refactor-using-the-adapter-pattern?u=76281980&t=7)** The project consists of three classes.
 >
-> **[0:11](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-refactor-using-the-adapter-pattern?u=76281980&t=11)** The cloud storage abstract class that provides the common interface that all cloud storage services must expose, it has two methods, upload contents, which uploads the specified content to cloud storage and get free space, which returns the amount of free space left on cloud storage.
+> **[0:11](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-refactor-using-the-adapter-pattern?u=76281980&t=11)** The [[Cloud Storage]] abstract class that provides the common interface that all cloud storage services must expose, it has two methods, upload contents, which uploads the specified content to cloud storage and get free space, which returns the amount of free space left on cloud storage.
 >
 > **[0:31](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-refactor-using-the-adapter-pattern?u=76281980&t=31)** There are two classes that implement this interface, cloud drive and fast share.
 >
@@ -444,12 +436,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), data (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (7)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Refactor using the Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-refactor-using-the-adapter-pattern?u=76281980)
+#### [Solution: Refactor using the Adapter pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-refactor-using-the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -465,7 +456,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-refactor-using-the-adapter-pattern?u=76281980&t=14)** I named the adapter class VirtualDriveAdapter.
 >
-> **[0:18](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-refactor-using-the-adapter-pattern?u=76281980&t=18)** It inherits publicly from cloud storage to provide the expected interface, and privately from the VirtualDrive class to delegate requests to it.
+> **[0:18](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-refactor-using-the-adapter-pattern?u=76281980&t=18)** It inherits publicly from [[Cloud Storage]] to provide the expected interface, and privately from the VirtualDrive class to delegate requests to it.
 >
 > **[0:28](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-refactor-using-the-adapter-pattern?u=76281980&t=28)** uploadContents forwards the request to uploadData.
 >
@@ -499,7 +490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), next (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **Code Identifiers:** uploaddata (3), uploadcontents (2), usedspace (2), generateuid (1), getfreespace (1)
 > **Speakers:** - [instructor] (1)
 
@@ -508,8 +499,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980)
+#### [Overview](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980&t=53)** The bridge design pattern solves this problem by separating the class hierarchy into two hierarchies, one for the element implementations and one for the style variations.
 >
-> **[1:06](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980&t=66)** Element holds a reference to style, making it possible to compose the design from any combination of element and style.
+> **[1:06](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980&t=66)** Element holds a reference to style, making it possible to [[Jetpack Compose|compose]] the design from any combination of element and style.
 >
 > **[1:14](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980&t=74)** This reference acts as a bridge between the two hierarchies.
 >
@@ -547,8 +537,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploding class hierarchies
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/exploding-class-hierarchies?u=76281980)
+#### [Exploding class hierarchies](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/exploding-class-hierarchies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,13 +569,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Env Vars:** sms (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
 
-#### The Bridge pattern in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-bridge-pattern-in-action?u=76281980)
+#### [The Bridge pattern in action](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-bridge-pattern-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -690,14 +677,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Enhancing a design using the Bridge pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-enhancing-a-design-using-the-bridge-pattern?u=76281980)
+#### [Challenge: Enhancing a design using the Bridge pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-enhancing-a-design-using-the-bridge-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,13 +712,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Enhancing a design using the Bridge pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-enhancing-a-design-using-the-bridge-pattern?u=76281980)
+#### [Solution: Enhancing a design using the Bridge pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-enhancing-a-design-using-the-bridge-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,12 +775,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980)
+#### [Overview](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980&t=0)** - [Instructor] The composite design pattern is a structural design pattern that allows us to compose objects into tree-like structures to represent whole-part hierarchies.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980&t=0)** - [Instructor] The composite design pattern is a structural design pattern that allows us to [[Jetpack Compose|compose]] objects into tree-like structures to represent whole-part hierarchies.
 >
 > **[0:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980&t=10)** The pattern provides a unified interface for both individual objects and compositions of objects which makes it easier to treat them uniformly.
 >
@@ -861,8 +843,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing a hierarchical structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/implementing-a-hierarchical-structure?u=76281980)
+#### [Implementing a hierarchical structure](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/implementing-a-hierarchical-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,20 +891,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Redesigning with the Composite pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/redesigning-with-the-composite-pattern?u=76281980)
+#### [Redesigning with the Composite pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/redesigning-with-the-composite-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/redesigning-with-the-composite-pattern?u=76281980&t=0)** - [Instructor] The composite pattern is a design pattern used to represent a part-whole hierarchy that deals with objects composed of other objects.
 >
-> **[0:09](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/redesigning-with-the-composite-pattern?u=76281980&t=9)** It allows us to design systems that can contain a mixture of composite and leaf objects, which can be manipulated in a uniform manner.
+> **[0:09](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/redesigning-with-the-composite-pattern?u=76281980&t=9)** It allows us to [[Design Systems]] that can contain a mixture of composite and leaf objects, which can be manipulated in a uniform manner.
 >
 > **[0:18](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/redesigning-with-the-composite-pattern?u=76281980&t=18)** This seems to be exactly what we need.
 >
@@ -1019,14 +998,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), next (2), [[Design Systems]] (1), data (1)
+> **Frameworks & Libraries:** [[Design Systems]] (1)
 > **Code Identifiers:** addproduct (3), addbook (2), getprice (1), addbox (1), addtoy (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Drawing shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-drawing-shapes?u=76281980)
+#### [Challenge: Drawing shapes](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-drawing-shapes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1080,8 +1058,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bouncy upbeat music) (1)
 
-#### Solution: Drawing shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-drawing-shapes?u=76281980)
+#### [Solution: Drawing shapes](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-drawing-shapes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,7 +1098,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1133,8 +1109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181031?u=76281980)
+#### [Overview](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181031?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1176,14 +1151,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** uml (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computer shop demo using inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/computer-shop-demo-using-inheritance?u=76281980)
+#### [Computer shop demo using inheritance](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/computer-shop-demo-using-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1222,8 +1195,7 @@ created: 2026-05-02
 > **Analogies:** such as (4), for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Computer shop demo using the Decorator design pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/computer-shop-demo-using-the-decorator-design-pattern?u=76281980)
+#### [Computer shop demo using the Decorator design pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/computer-shop-demo-using-the-decorator-design-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,14 +1267,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** m_computer (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Pizza toppings
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-pizza-toppings?u=76281980)
+#### [Challenge: Pizza toppings](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-pizza-toppings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1336,15 +1306,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Analogies:** such as (1), for example (1)
 > **Exercise Files:** starter project (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Pizza toppings
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-pizza-toppings?u=76281980)
+#### [Solution: Pizza toppings](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-pizza-toppings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1406,8 +1374,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview?u=76281980)
+#### [Overview](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,14 +1426,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Complex interface demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/complex-interface-demo?u=76281980)
+#### [Complex interface demo](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/complex-interface-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1502,14 +1467,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying the Facade design pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/applying-the-facade-design-pattern?u=76281980)
+#### [Applying the Facade design pattern](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/applying-the-facade-design-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1599,13 +1562,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (3), next (2)
 > **Code Identifiers:** makereservation (2), reservationinfo (1), paymentinfo (1), reservationsystem (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Hide complexity with a facade
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-hide-complexity-with-a-facade?u=76281980)
+#### [Challenge: Hide complexity with a facade](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-hide-complexity-with-a-facade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1645,13 +1606,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), web (2), data (1)
 > **Code Identifiers:** currentweather (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music begins) (1)
 
-#### Solution: Hide complexity with a facade
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-hide-complexity-with-a-facade?u=76281980)
+#### [Solution: Hide complexity with a facade](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-hide-complexity-with-a-facade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1683,7 +1642,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), data (1), api (1), next (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1693,8 +1651,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980)
+#### [Overview](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1702,7 +1659,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980&t=12)** This pattern is suitable for situations where a large number of objects need to be created and each object has common properties that can be shared.
 >
-> **[0:23](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980&t=23)** The flyweight pattern can be applied to various scenarios including graphical user interfaces, game development and database management systems.
+> **[0:23](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980&t=23)** The flyweight pattern can be applied to various scenarios including graphical user interfaces, [[Game Development]] and [[Database Management]] systems.
 >
 > **[0:32](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980&t=32)** It helps to improve the performance and efficiency of these applications by reducing the number of objects created and the amount of memory used.
 >
@@ -1746,13 +1703,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Game Development]] (1), database (1), management (1)
+> **Frameworks & Libraries:** [[Game Development]] (1), [[Database Management]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing sprites
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/introducing-sprites?u=76281980)
+#### [Introducing sprites](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/introducing-sprites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1802,13 +1758,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), data (2), next (1)
 > **Env Vars:** mid (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reducing memory usage: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-1?u=76281980)
+#### [Reducing memory usage: Part 1](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1896,15 +1850,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **CLI Commands:** find (5), make (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** makesprite (1), unordered_map (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reducing memory usage: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-2?u=76281980)
+#### [Reducing memory usage: Part 2](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1992,7 +1944,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-2?u=76281980&t=305)** Sprite, setPositionSize, 10 for x, 10 for y, 10 times i for width, and 10 times i for the height.
 >
-> **[5:23](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-2?u=76281980&t=323)** And the rest of the code remains unchanged.
+> **[5:23](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-2?u=76281980&t=323)** And the [[Representational State Transfer (REST)|rest]] of the code remains unchanged.
 >
 > **[5:26](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/reducing-memory-usage-part-2?u=76281980&t=326)** Let's see if everything works as expected.
 >
@@ -2008,7 +1960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** makesprite (4), setpositionsize (3), gettexture (2), newit (1), texturefile (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -2019,8 +1971,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22185033?u=76281980)
+#### [Overview](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22185033?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2076,13 +2027,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (1), [[Security]] (1), data (1)
 > **Analogies:** such as (3), for instance (2), for example (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What problem does the proxy solve?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/what-problem-does-the-proxy-solve?u=76281980)
+#### [What problem does the proxy solve?](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/what-problem-does-the-proxy-solve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2137,8 +2086,7 @@ created: 2026-05-02
 > **File Paths:** config.txt (1)
 > **Speakers:** - [instructor] (1)
 
-#### The virtual proxy
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-virtual-proxy?u=76281980)
+#### [The virtual proxy](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-virtual-proxy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2224,7 +2172,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-virtual-proxy?u=76281980&t=262)** So, I create an instance of config file proxy and comment out the code that creates the real config file object.
 >
-> **[4:34](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-virtual-proxy?u=76281980&t=274)** I keep the name of the object so, we don't have to modify the rest of our code.
+> **[4:34](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-virtual-proxy?u=76281980&t=274)** I keep the name of the object so, we don't have to modify the [[Representational State Transfer (REST)|rest]] of our code.
 >
 > **[4:40](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/the-virtual-proxy?u=76281980&t=280)** And now, let's execute the program again.
 >
@@ -2252,14 +2200,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (6), - there (1)
 > **Non-Speech:** (keyboard clicking) (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
 
-#### Challenge: Implement a protective proxy
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-implement-a-protective-proxy?u=76281980)
+#### [Challenge: Implement a protective proxy](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/challenge-implement-a-protective-proxy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2289,12 +2236,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Implement a protective proxy
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-implement-a-protective-proxy?u=76281980)
+#### [Solution: Implement a protective proxy](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-implement-a-protective-proxy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2340,11 +2285,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-implement-a-protective-proxy?u=76281980&t=129)** The proxy design pattern can solve various design problems, involving access control, lazy loading, and optimized usage of remote resources.
 >
-> **[2:19](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-implement-a-protective-proxy?u=76281980&t=139)** It's a design pattern worth knowing, along with other design patterns from the gang of four.
+> **[2:19](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/solution-implement-a-protective-proxy?u=76281980&t=139)** It's a design pattern worth knowing, along with other [[Design Patterns]] from the gang of four.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music begins) (1)
@@ -2354,12 +2299,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=0)** - [Karoly] Congratulations, you've completed the C++ Design Patterns Structural course and learned how to use structural design patterns to create more elegant, efficient, and scalable software.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=0)** - [Karoly] Congratulations, you've completed the C++ [[Design Patterns]] Structural course and learned how to use structural design patterns to create more elegant, efficient, and scalable software.
 >
 > **[0:13](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=13)** I hope you found the course informative, engaging, and rewarding.
 >
@@ -2371,9 +2315,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=46)** The lessons and exercises in this course are designed to be valuable and relevant for years to come.
 >
-> **[0:53](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=53)** If you enjoyed this course and want to learn more about software development and design, be sure to check out my other LinkedIn Learning courses.
+> **[0:53](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=53)** If you enjoyed this course and want to learn more about [[Software Development]] and design, be sure to check out my other [[LinkedIn]] Learning courses.
 >
-> **[1:01](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=61)** I cover a wide range of topics from Swift and iOS programming to software architecture and object-oriented design.
+> **[1:01](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=61)** I cover a wide range of topics from [[Swift (Programming Language)|Swift]] and iOS programming to [[Software Architecture]] and object-oriented design.
 >
 > **[1:10](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980&t=70)** To deepen your C++ knowledge, I recommend checking out Advanced C++ Topics with Bill Weinman and C++ Code Clinic with Olivia Stone.
 >
@@ -2387,7 +2331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Software Development]] (2), [[Programming]] (2), [[LinkedIn]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Software Development]] (2), [[LinkedIn]] (1), [[Swift (Programming Language)|Swift]] (1), [[Software Architecture]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [karoly] (1)
 

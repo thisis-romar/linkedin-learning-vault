@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI for business decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980)
+#### [AI for business decisions](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980&t=15)** And how do they work?
 >
-> **[0:17](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980&t=17)** Well, my friends, they're fueled through the power of artificial intelligence, more commonly referred to as AI.
+> **[0:17](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980&t=17)** Well, my friends, they're fueled through the power of [[Artificial Intelligence (AI)|artificial intelligence]], more commonly referred to as AI.
 >
 > **[0:26](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980&t=26)** In this course I will give you a gentle introduction to the basics of AI and how it can be used in a variety of business settings.
 >
@@ -103,13 +102,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980&t=49)** I'm Dr. Michael McDonald.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980&t=50)** I'm professor of finance, a Wall Street veteran, and a frequent industry consultant on AI and using algorithms in finance.
+> **[0:50](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980&t=50)** I'm professor of finance, a Wall Street veteran, and a frequent industry consultant on AI and using [[Algorithms]] in finance.
 >
 > **[0:58](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980&t=58)** If you're ready to start learning about the revolutionary changes taking place in AI, then let's program ourselves for fun and learning and start now.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), power (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1), product (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
 > **Speakers:** - [michael] (1)
 
 
@@ -117,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980)
+#### [What is AI?](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=1)** You've probably heard the term but what exactly does that mean?
 >
-> **[0:05](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=5)** Well, AI, or artificial intelligence, is an area in the computer science field and it's focused on automating intelligent behavior.
+> **[0:05](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=5)** Well, AI, or [[Artificial Intelligence (AI)|artificial intelligence]], is an area in the computer science field and it's focused on automating intelligent behavior.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=14)** Which, of course, begs the question, "What is intelligence, exactly?"
 >
@@ -166,11 +164,11 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=110)** Representing knowledge, understanding logic, or coming up with logic based on the information that's gleaned.
 >
-> **[1:57](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=117)** Machine learning, planning, natural language processing, etcetera.
+> **[1:57](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=117)** Machine learning, planning, [[Natural Language Processing (NLP)|natural language processing]], etcetera.
 >
 > **[2:02](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=122)** There's many areas in AI that all stem from one another.
 >
-> **[2:07](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=127)** It's pretty artificial or pretty basic to ask your Google Voice Assistant or your Alexa to tell you, as an example, what time it is in Mumbai.
+> **[2:07](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=127)** It's pretty artificial or pretty basic to ask your [[Google]] Voice Assistant or your Alexa to tell you, as an example, what time it is in Mumbai.
 >
 > **[2:16](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980&t=136)** It's quite another thing to ask it to tell you the fastest way to get there or the best way to get to Mumbai.
 >
@@ -178,15 +176,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), product (1), [[Search]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Google]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [narrator] (1)
 
-#### How does AI work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/how-does-ai-work?u=76281980)
+#### [How does AI work?](https://www.linkedin.com/learning/ai-in-business-essential-training/how-does-ai-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,7 +245,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Search]] (9), data (6), application (1), database (1)
 > **Env Vars:** sap (1), gps (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
@@ -256,8 +252,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Optimization and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980)
+#### [Optimization and AI](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=11)** Well there's a number of terms for it.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=13)** Textual analysis, natural language processing, sentiment analysis, content analysis, computational linguistics.
+> **[0:13](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=13)** Textual analysis, [[Natural Language Processing (NLP)|natural language processing]], sentiment analysis, content analysis, computational linguistics.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=21)** Whatever name we use, this textual analysis or natural language processing essentially is all about communication between people and computers in ordinary or natural English.
 >
@@ -279,7 +274,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=52)** Computers can't do that on their own, but the ability to understand human speech is incredibly valuable.
 >
-> **[1:00](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=60)** Think about, as an example, Bloomberg or investment banking research analysts.
+> **[1:00](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=60)** Think about, as an example, Bloomberg or investment [[Banking]] research analysts.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=65)** This type of research work, or the construction of research reports, is much easier for computers to do if they understand natural language processing.
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=100)** Computers don't really understand language the way you or I do.
 >
-> **[1:45](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=105)** When I see a sequence of letters, I see that as a single word, and then that word is part of a sentence, and then the sentence is part of a paragraph.
+> **[1:45](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=105)** When I see a sequence of letters, I see that as a single [[Microsoft Word|word]], and then that word is part of a sentence, and then the sentence is part of a paragraph.
 >
 > **[1:54](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=114)** And we understand the context as a whole.
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=143)** Most modern programming languages provide for both of these critical elements in textual analysis software.
 >
-> **[2:29](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=149)** So you can do textual analysis with Perl, Python, SAS, VB, or a variety of others.
+> **[2:29](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=149)** So you can do textual analysis with Perl, [[Python (Programming Language)|Python]], SAS, VB, or a variety of others.
 >
 > **[2:36](https://www.linkedin.com/learning/ai-in-business-essential-training/optimization-and-ai?u=76281980&t=156)** There's also a number of Blackbox canned programs that are out there, for instance Diction, and these can enable you to do basic NLP functions.
 >
@@ -321,21 +316,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Microsoft Word|Word]] (3), nlp (3), ai (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Microsoft Word|Word]] (3), [[Banking]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** nlp (3), sas (1)
 > **CLI Commands:** python (1)
 > **Definitions:** we call this (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is optimization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980)
+#### [What is optimization?](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=0)** - [Instructor] One key element of AI, particularly in terms of business applications, is the use of AI for optimization.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=8)** Now, I'm here in the 01_04_Begin file, and what I want to do is use a basic form of data analysis to understand what's going on with a particular set of products.
+> **[0:08](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=8)** Now, I'm here in the 01_04_Begin file, and what I want to do is use a basic form of data analysis to understand what's going on with a particular set of [[Microsoft Products|products]].
 >
 > **[0:22](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=22)** I've got two fictional products here, Product A and Product B, and I want to understand the relationship between those product sales and the overall economy, as represented by the fed funds rate, that is the interest rate, GDP, the level of it, and GDP changes.
 >
@@ -343,7 +337,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=42)** Well, to start with, I'm going to go through and add in my optimization tool, which will be through the data analytics package.
 >
-> **[0:53](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=53)** So I'm going to come to file, options, add-ins, manage Excel add-ins, go, and then I'm going to click analysis tool pack, make sure that's checked, and click OK.
+> **[0:53](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=53)** So I'm going to come to file, options, add-ins, manage [[Microsoft Excel|Excel]] add-ins, go, and then I'm going to click analysis tool pack, make sure that's checked, and click OK.
 >
 > **[1:07](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=67)** Once I've done that, I should be able to come over to the data tab, and click data analysis.
 >
@@ -351,7 +345,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=80)** And in particular, I'm interested in a regression, because I want to understand what are the driving factors that lead to certain levels of Product A sales, right?
 >
-> **[1:31](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=91)** My goal here is just to maybe do some sort of a forecasting exercise in the future, to understand what's going to drive my level of sales over time.
+> **[1:31](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=91)** My goal here is just to maybe do some sort of a [[Forecasting]] exercise in the future, to understand what's going to drive my level of sales over time.
 >
 > **[1:40](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-optimization?u=76281980&t=100)** So I'll click OK, and I'm going to use as my input range, product sales for the entire period, which runs from 1981 through 2016, and my x variables in our fictional example are going to be the fed funds rate, GDP, and quarterly GDP changes.
 >
@@ -383,13 +377,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (8), product (7), [[Analytics]] (5), business (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Excel|Excel]] (1), [[Forecasting]] (1)
 > **Env Vars:** gdp (6)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Pattern and shape recognition and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/pattern-and-shape-recognition-and-ai?u=76281980)
+#### [Pattern and shape recognition and AI](https://www.linkedin.com/learning/ai-in-business-essential-training/pattern-and-shape-recognition-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/ai-in-business-essential-training/pattern-and-shape-recognition-and-ai?u=76281980&t=54)** So it would drill down and look at individual pixels within this particular image.
 >
-> **[1:00](https://www.linkedin.com/learning/ai-in-business-essential-training/pattern-and-shape-recognition-and-ai?u=76281980&t=60)** It would zoom in, and it sees the individual pixels and the color of those pixels.
+> **[1:00](https://www.linkedin.com/learning/ai-in-business-essential-training/pattern-and-shape-recognition-and-ai?u=76281980&t=60)** It would [[Zoom]] in, and it sees the individual pixels and the color of those pixels.
 >
 > **[1:07](https://www.linkedin.com/learning/ai-in-business-essential-training/pattern-and-shape-recognition-and-ai?u=76281980&t=67)** And that color is the starting point for the computer to begin to recognize that this is an apple, rather than say a banana, or an orange.
 >
@@ -461,14 +454,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), database (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Definitions:** is an  (4)
 > **Analogies:** picture (1), for instance (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expert systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/expert-systems?u=76281980)
+#### [Expert systems](https://www.linkedin.com/learning/ai-in-business-essential-training/expert-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,19 +492,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), business (2), application (1), [[Search]] (1), data (1)
 > **Env Vars:** ibm (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980)
+#### [Generative AI](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=0)** - [Instructor] Generative AI is all the rage these days, so I would certainly be remiss if I didn't talk about that in this course.
+> **[0:00](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=0)** - [Instructor] [[Generative AI]] is all the rage these days, so I would certainly be remiss if I didn't talk about that in this course.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=7)** Let's start with the giant in the field, ChatGPT.
+> **[0:07](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=7)** Let's start with the giant in the field, [[ChatGPT]].
 >
 > **[0:10](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=10)** Now ChatGPT introduced the concept of generative AI and you access ChatGPT through an online platform.
 >
@@ -546,9 +536,9 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=131)** So ChatGPT is really neat for a variety of different purposes that you might run into, but they're not the only ones that are out there.
 >
-> **[2:19](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=139)** So Bing, Microsoft search engine now incorporates AI tools.
+> **[2:19](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=139)** So Bing, [[Microsoft]] search engine now incorporates AI tools.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=146)** Bing made an investment in open AI, and they've started incorporating a lot of artificial intelligence tools.
+> **[2:26](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=146)** Bing made an investment in open AI, and they've started incorporating a lot of [[Artificial Intelligence (AI)|artificial intelligence]] tools.
 >
 > **[2:32](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=152)** So if I click chat now with the Bing AI, I might come in here and I'm going to ask it.
 >
@@ -578,15 +568,15 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=246)** Certainly want to have them double check calculations, things like that.
 >
-> **[4:09](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=249)** But what's interesting is Microsoft is rolling out a new product called CoPilot and CoPilot works with the Microsoft 365 suite of apps.
+> **[4:09](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=249)** But what's interesting is Microsoft is rolling out a new product called [[Microsoft Copilot|CoPilot]] and CoPilot works with the [[Microsoft 365]] suite of apps.
 >
 > **[4:19](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=259)** And you can see they put out this press release back in July about this.
 >
-> **[4:22](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=262)** It's basically going to be $30 per person per month, but it's going to allow you to go through and integrate AI tools like these large language models from Bing AI or from ChatGPT into Word and other Microsoft Office tools.
+> **[4:22](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=262)** It's basically going to be $30 per person per month, but it's going to allow you to go through and integrate AI tools like these [[Large Language Models (LLM)|large language models]] from Bing AI or from ChatGPT into [[Microsoft Word|Word]] and other [[Microsoft Office]] tools.
 >
 > **[4:39](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=279)** Now, of course, I'd be remiss if I didn't talk about Bard.
 >
-> **[4:42](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=282)** Bard is Google's version of this.
+> **[4:42](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=282)** Bard is [[Google]]'s version of this.
 >
 > **[4:45](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=285)** So again, we could come through and kind of put in whatever we might be interested in.
 >
@@ -608,7 +598,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=353)** Similarly, Adobe has this pretty neat tool called Firefly that lets you go through and generate images and things like that based on a text prompt.
 >
-> **[6:04](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=364)** For example, I've put in here interior design office with a few red accents, blue furniture, and white walls.
+> **[6:04](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=364)** For example, I've put in here interior design [[Microsoft Office|office]] with a few red accents, blue furniture, and white walls.
 >
 > **[6:10](https://www.linkedin.com/learning/ai-in-business-essential-training/generative-ai?u=76281980&t=370)** I could change this if I wanted to, to say green furniture and white walls, and it would update the images, but you can use this for a lot of marketing type generation.
 >
@@ -628,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (9), [[Microsoft]] (4), [[Generative AI]] (3), product (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Microsoft]] (4), [[Generative AI]] (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Office|Office]] (2)
 > **Analogies:** for example (4), imagine (1), for instance (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** api (1), crm (1), gpt (1)
@@ -642,8 +632,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basics of data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980)
+#### [Basics of data analytics](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -653,7 +642,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980&t=15)** As a matter of fact, you're likely to end up with inaccurate conclusions.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980&t=20)** I'm in the 02_01_Begin Excel file.
+> **[0:20](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980&t=20)** I'm in the 02_01_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980&t=24)** Now what I've done is gone through and pulled data on loan applications for a series of customers.
 >
@@ -685,7 +674,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980&t=139)** Now one other point is useful to note.
 >
-> **[2:22](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980&t=142)** Thanks to a new feature in Microsoft we can go through and add additional data that'll help us better understand the risk related to any particular loan.
+> **[2:22](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980&t=142)** Thanks to a new feature in [[Microsoft]] we can go through and add additional data that'll help us better understand the risk related to any particular loan.
 >
 > **[2:33](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980&t=153)** So we've collected data on state.
 >
@@ -733,7 +722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Microsoft Excel|Excel]] (5), ai (3), feature (3), business (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** gdp (2)
 > **Analogies:** for instance (2)
@@ -741,14 +730,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regression analysis and forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980)
+#### [Regression analysis and forecasting](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=0)** - [Instructor] Once you've cleaned up your data and you're ready to start analyzing it, there's a variety of tools in Excel that you can use.
+> **[0:00](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=0)** - [Instructor] Once you've cleaned up your data and you're ready to start analyzing it, there's a variety of tools in [[Microsoft Excel|Excel]] that you can use.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=7)** Now of course, there's many other programs besides Excel that are great for this, Stata, SAS, et cetera, but I want to take a look at Excel, simply because it's so widely and universally available.
+> **[0:07](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=7)** Now of course, there's many other programs besides Excel that are great for this, [[Stata]], SAS, et cetera, but I want to take a look at Excel, simply because it's so widely and universally available.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=18)** I'm in the 02_02_Begin Excel file.
 >
@@ -772,7 +760,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=92)** SAS and Stata come to mind, they're two personal favorite programs of mine, but, you know, each cost money.
 >
-> **[1:38](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=98)** If you're looking for something that's powerful but free, R and Python, are both great choices.
+> **[1:38](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=98)** If you're looking for something that's powerful but free, R and [[Python (Programming Language)|Python]], are both great choices.
 >
 > **[1:44](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=104)** But in our case, in Excel, for simplicity, we're simply going to pick a limited number of variables.
 >
@@ -858,7 +846,7 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=445)** So I'll multiply the coefficient times the value of one, and then take this down the entire column.
 >
-> **[7:31](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=451)** When I do that, I can now sum up all of these coefficients, and get a sense for the relative likelihood of a charge-off, and so this is essentially a metric for our probability of a charge-off; the higher this number is, the more likely the charge-off is.
+> **[7:31](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=451)** When I do that, I can now sum up all of these coefficients, and get a sense for the relative likelihood of a charge-off, and so this is essentially a metric for our [[Probability]] of a charge-off; the higher this number is, the more likely the charge-off is.
 >
 > **[7:52](https://www.linkedin.com/learning/ai-in-business-essential-training/regression-analysis-and-forecasting?u=76281980&t=472)** So we can use this technique to build basic models for things like, decisions about trade credit analysis, or decisions about loans that we want to make, investments, et cetera.
 >
@@ -866,15 +854,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), [[Stata]] (2), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Stata]] (2), [[Python (Programming Language)|Python]] (1), [[Probability]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Versions:** 1.00 (2), 2.00 (1)
 > **Env Vars:** sas (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using data to make an optimized decision
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/using-data-to-make-an-optimized-decision?u=76281980)
+#### [Using data to make an optimized decision](https://www.linkedin.com/learning/ai-in-business-essential-training/using-data-to-make-an-optimized-decision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ai-in-business-essential-training/using-data-to-make-an-optimized-decision?u=76281980&t=7)** And this is where optimization starts to become particularly important.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-in-business-essential-training/using-data-to-make-an-optimized-decision?u=76281980&t=11)** I'm in the 0203 begin Excel file.
+> **[0:11](https://www.linkedin.com/learning/ai-in-business-essential-training/using-data-to-make-an-optimized-decision?u=76281980&t=11)** I'm in the 0203 begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-in-business-essential-training/using-data-to-make-an-optimized-decision?u=76281980&t=15)** Now, what I've done is taken our very basic regression output from the regression we ran previously to analyze the likelihood of a charge-off based on different variables: the total amount of the loan, the debt to income ratio, housing status, and the monthly income of the borrower.
 >
@@ -968,7 +955,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/ai-in-business-essential-training/using-data-to-make-an-optimized-decision?u=76281980&t=274)** We already know that the regression in question is relatively weak.
 >
-> **[4:38](https://www.linkedin.com/learning/ai-in-business-essential-training/using-data-to-make-an-optimized-decision?u=76281980&t=278)** Again, we've used kind of limited data and so our decision-making criteria isn't particularly robust.
+> **[4:38](https://www.linkedin.com/learning/ai-in-business-essential-training/using-data-to-make-an-optimized-decision?u=76281980&t=278)** Again, we've used kind of limited data and so our [[Decision-Making]] criteria isn't particularly robust.
 >
 > **[4:45](https://www.linkedin.com/learning/ai-in-business-essential-training/using-data-to-make-an-optimized-decision?u=76281980&t=285)** But the point is that we can use this general procedure to go through and create an automated system to either accept or reject any particular loan.
 >
@@ -976,7 +963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), ai (2), application (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (11)
 > **Versions:** 0.211 (1), 0.05 (1), 0.2 (1)
 > **Prerequisites:** set up (2)
@@ -984,8 +971,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Taking data analytics to the next level: AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/taking-data-analytics-to-the-next-level-ai?u=76281980)
+#### [Taking data analytics to the next level: AI](https://www.linkedin.com/learning/ai-in-business-essential-training/taking-data-analytics-to-the-next-level-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,7 +981,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-in-business-essential-training/taking-data-analytics-to-the-next-level-ai?u=76281980&t=18)** AI helps us to automate some of this process.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-in-business-essential-training/taking-data-analytics-to-the-next-level-ai?u=76281980&t=22)** I'm in the 02_04_Begin Excel file.
+> **[0:22](https://www.linkedin.com/learning/ai-in-business-essential-training/taking-data-analytics-to-the-next-level-ai?u=76281980&t=22)** I'm in the 02_04_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:26](https://www.linkedin.com/learning/ai-in-business-essential-training/taking-data-analytics-to-the-next-level-ai?u=76281980&t=26)** Now what we have here is data on 500 different people that have taken out loans for different purposes.
 >
@@ -1071,7 +1057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), business (6), ai (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** fico (1)
@@ -1083,8 +1069,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of uses of AI in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980)
+#### [Overview of uses of AI in business](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1102,9 +1087,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=75)** Humans have a disadvantage in all those areas compared to AI.
 >
-> **[1:20](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=80)** For that reason data tools relying on artificial intelligence are becoming much, much more popular.
+> **[1:20](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=80)** For that reason data tools relying on [[Artificial Intelligence (AI)|artificial intelligence]] are becoming much, much more popular.
 >
-> **[1:27](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=87)** We've seen some of that already when we look at things like the new tools being embedded in Excel, and Excel, of course, is just the tip of the iceberg here.
+> **[1:27](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=87)** We've seen some of that already when we look at things like the new tools being embedded in [[Microsoft Excel|Excel]], and Excel, of course, is just the tip of the iceberg here.
 >
 > **[1:36](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=96)** On the other hand, AI isn't great at everything.
 >
@@ -1126,9 +1111,9 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=177)** This enables more intelligent interfaces, enables better processing of massive data sets, et cetera.
 >
-> **[3:03](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=183)** Tools like SaaS, which is a software package, enable this kind of thing very, very easily and effectively, but the other point about AI is that it's great for information retrieval.
+> **[3:03](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=183)** Tools like [[SaaS]], which is a software package, enable this kind of thing very, very easily and effectively, but the other point about AI is that it's great for [[Information Retrieval]].
 >
-> **[3:16](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=196)** We think about information retrieval either in kind of a traditional, text-based form, where we're typing something into a computer, or using voice search, like the tools from Amazon or Google these days.
+> **[3:16](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=196)** We think about information retrieval either in kind of a traditional, text-based form, where we're typing something into a computer, or using voice search, like the tools from Amazon or [[Google]] these days.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980&t=208)** AI is rapidly improving, and that's a big step forward versus where the tools were say 10 or 20 years ago.
 >
@@ -1150,14 +1135,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), business (5), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Excel|Excel]] (2), [[Information Retrieval]] (2), [[SaaS]] (1), [[Google]] (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - when (1)
 
-#### Operational decision making and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/operational-decision-making-and-ai?u=76281980)
+#### [Operational decision making and AI](https://www.linkedin.com/learning/ai-in-business-essential-training/operational-decision-making-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,7 +1153,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ai-in-business-essential-training/operational-decision-making-and-ai?u=76281980&t=20)** In the area of agriculture or farming, expert systems can be used to determine when seeds should be planted, what type of fertilizer should be used, what the likely output of a particular crop in a particular planting season is going to be.
 >
-> **[0:36](https://www.linkedin.com/learning/ai-in-business-essential-training/operational-decision-making-and-ai?u=76281980&t=36)** Expert systems are used in missile guidance, in defense, for instance, in the Patriot missile intercept system, or in financial decision-making when it comes to things like currency trading.
+> **[0:36](https://www.linkedin.com/learning/ai-in-business-essential-training/operational-decision-making-and-ai?u=76281980&t=36)** Expert systems are used in missile guidance, in defense, for instance, in the Patriot missile intercept system, or in financial [[Decision-Making]] when it comes to things like currency trading.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-in-business-essential-training/operational-decision-making-and-ai?u=76281980&t=46)** The common factor across all of these industries and others involving expert systems is the application of large amounts of data to a problem.
 >
@@ -1187,7 +1171,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/ai-in-business-essential-training/operational-decision-making-and-ai?u=76281980&t=101)** We can also think about this in the context of troubleshooting.
 >
-> **[1:45](https://www.linkedin.com/learning/ai-in-business-essential-training/operational-decision-making-and-ai?u=76281980&t=105)** The chatbots that you see on websites all the time, you know, when you go to a Microsoft site, the chatbot might pop up and say, hi, welcome to Microsoft; how can I help you?
+> **[1:45](https://www.linkedin.com/learning/ai-in-business-essential-training/operational-decision-making-and-ai?u=76281980&t=105)** The chatbots that you see on websites all the time, you know, when you go to a [[Microsoft]] site, the chatbot might pop up and say, hi, welcome to Microsoft; how can I help you?
 >
 > **[1:55](https://www.linkedin.com/learning/ai-in-business-essential-training/operational-decision-making-and-ai?u=76281980&t=115)** And then we go through and talk to it about what our concern is or why we're contacting customer service, for instance.
 >
@@ -1235,14 +1219,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), ai (4), [[Decision-Making]] (4), data (3), application (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (4), [[Microsoft]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a basic AI algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/building-a-basic-ai-algorithm?u=76281980)
+#### [Building a basic AI algorithm](https://www.linkedin.com/learning/ai-in-business-essential-training/building-a-basic-ai-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,7 +1233,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ai-in-business-essential-training/building-a-basic-ai-algorithm?u=76281980&t=6)** You might be familiar with tools called Robo Advisors.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-in-business-essential-training/building-a-basic-ai-algorithm?u=76281980&t=10)** I'm in the 03_03_Begin Excel file.
+> **[0:10](https://www.linkedin.com/learning/ai-in-business-essential-training/building-a-basic-ai-algorithm?u=76281980&t=10)** I'm in the 03_03_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-in-business-essential-training/building-a-basic-ai-algorithm?u=76281980&t=14)** Now, this is an example of a basic Robo Advisor that we built through Excel.
 >
@@ -1310,20 +1293,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (3), [[Microsoft Excel|Excel]] (2), application (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Versions:** 51.3 (1), 56.3 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI in financial markets
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-financial-markets?u=76281980)
+#### [AI in financial markets](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-financial-markets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-financial-markets?u=76281980&t=0)** - [Instructor] One of the most powerful features of AI is its ability to optimize decision-making very quickly and easily, even on a real-time basis.
+> **[0:00](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-financial-markets?u=76281980&t=0)** - [Instructor] One of the most powerful features of AI is its ability to optimize [[Decision-Making]] very quickly and easily, even on a [[Real-Time]] basis.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-financial-markets?u=76281980&t=8)** I'm in the 03_04_Begin Excel sheet.
+> **[0:08](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-financial-markets?u=76281980&t=8)** I'm in the 03_04_Begin [[Microsoft Excel|Excel]] sheet.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-financial-markets?u=76281980&t=12)** Now this is our basic Robo-advisor that we built and it recommends a portfolio to the investor.
 >
@@ -1437,7 +1419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Real-Time]] (3), [[Microsoft Excel|Excel]] (2), data (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Microsoft Excel|Excel]] (2), [[Decision-Making]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** reits (2), q23 (1), r23 (1)
 > **Versions:** 20.6 (1), 5.2 (1), 8.5 (1)
@@ -1446,8 +1428,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI in marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980)
+#### [AI in marketing](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,9 +1436,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980&t=5)** And often times, what actually qualifies as AI, is simpler than you might think.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980&t=11)** I'm in the zero three, zero five Excel sheet.
+> **[0:11](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980&t=11)** I'm in the zero three, zero five [[Microsoft Excel|Excel]] sheet.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980&t=14)** Now what I've done here is simply construct a hypothetical set of sales data for two hypothetical products, product A and product B, based on the U.S. federal funds rate, the real GDP rate, and changes in GDP over a long period of time.
+> **[0:14](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980&t=14)** Now what I've done here is simply construct a hypothetical set of sales data for two hypothetical [[Microsoft Products|products]], product A and product B, based on the U.S. federal funds rate, the real GDP rate, and changes in GDP over a long period of time.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980&t=32)** What we might ask ourselves is based on this, which product should we invest in from a marketing perspective?
 >
@@ -1483,7 +1464,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980&t=149)** Well, it's eight dollars in our simplified example, less then one dollar in marketing, which gives us a $7 thousand dollar profit.
 >
-> **[2:38](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980&t=158)** Now we could go through and calculate this same thing for the rest of our table, based on the varying customer acquisition costs over time, and based on our conversion rate.
+> **[2:38](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980&t=158)** Now we could go through and calculate this same thing for the [[Representational State Transfer (REST)|rest]] of our table, based on the varying customer acquisition costs over time, and based on our conversion rate.
 >
 > **[2:49](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-in-marketing?u=76281980&t=169)** Where AI is really helpful in this kind of circumstance, is to understand what the relationship is between sales and GDP, or what the relationship is between, say, some of our cost variables, like maybe our CTR or our CPM, and GDP.
 >
@@ -1527,7 +1508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), data (6), ai (4), [[Microsoft Products|Products]] (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gdp (7), ctr (1), cpm (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1535,8 +1516,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI and product pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-and-product-pricing?u=76281980)
+#### [AI and product pricing](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-and-product-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1546,7 +1526,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-and-product-pricing?u=76281980&t=9)** Where AI comes into play is in terms of figuring out what the right relationships are between our data points.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-and-product-pricing?u=76281980&t=16)** I'm in the 03_06_Begin Excel file.
+> **[0:16](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-and-product-pricing?u=76281980&t=16)** I'm in the 03_06_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-and-product-pricing?u=76281980&t=21)** Now what we've got here is data on the federal funds rate, real GDP, and quarterly GDP changes, over a span of roughly 30 years or so, all from the St. Louis Federal Reserve Bank.
 >
@@ -1640,7 +1620,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-and-product-pricing?u=76281980&t=299)** So it looks like we want our optimized price to be probably somewhere in the 85 to $95 range.
 >
-> **[5:06](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-and-product-pricing?u=76281980&t=306)** This is, in essence, the equivalent of doing what's called a Monte Carlo simulation.
+> **[5:06](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-and-product-pricing?u=76281980&t=306)** This is, in essence, the equivalent of doing what's called a Monte Carlo [[Simulation]].
 >
 > **[5:11](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-and-product-pricing?u=76281980&t=311)** We're taking simulated historical data, and then we're going through and applying it in order to figure out what we think our optimized price is going forward.
 >
@@ -1654,7 +1634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (3), power (2), ai (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Simulation]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdp (3)
 > **Definitions:** is a  (2)
@@ -1662,16 +1642,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Human brakes on AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980)
+#### [Human brakes on AI](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=0)** - AI applications are all around us in everyday life.
 >
-> **[0:03](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=3)** From the post office to banks, credit card companies, telephone companies, all sorts of big firms are using AI.
+> **[0:03](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=3)** From the post [[Microsoft Office|office]] to banks, credit card companies, telephone companies, all sorts of big firms are using AI.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=10)** The post office uses AI and computer vision, or machine vision, to do address recognition, as an example.
+> **[0:10](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=10)** The post office uses AI and [[Computer Vision]], or machine vision, to do address recognition, as an example.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=18)** Banks use it for reading checks and classifying loans, determining whether or not they're going to lend money to you.
 >
@@ -1693,13 +1672,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=63)** That's really tough to do if you think about it.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=65)** You've got 100 different variables on different products people are buying, the geographic area they're from, their level of income, et cetera.
+> **[1:05](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=65)** You've got 100 different variables on different [[Microsoft Products|products]] people are buying, the geographic area they're from, their level of income, et cetera.
 >
 > **[1:13](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=73)** It's really hard for the business analyst to effectively spot what could be interesting patterns.
 >
-> **[1:19](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=79)** The alternative is to use data mining, that is algorithms in an AI context to search for these patterns.
+> **[1:19](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=79)** The alternative is to use [[Data Mining]], that is [[Algorithms]] in an AI context to search for these patterns.
 >
-> **[1:26](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=86)** It's very similar to what we did, but on a larger scale, with the Ideas tool in Excel.
+> **[1:26](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=86)** It's very similar to what we did, but on a larger scale, with the Ideas tool in [[Microsoft Excel|Excel]].
 >
 > **[1:33](https://www.linkedin.com/learning/ai-in-business-essential-training/human-brakes-on-ai?u=76281980&t=93)** So what we noticed when we looked at ideas though, is that many of the ideas actually were a little iffy.
 >
@@ -1725,13 +1704,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), business (3), [[Microsoft Office|Office]] (2), data (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Computer Vision]] (1), [[Microsoft Products|Products]] (1), [[Data Mining]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - ai (1)
 
-#### Where AI does not work
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980)
+#### [Where AI does not work](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1739,7 +1717,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=9)** If we think about something like speech synthesis, or recognition and understanding, the reality is that these days it's pretty useful for like, limited vocabulary type applications.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=19)** Alexa or Google Home, as an example, work pretty well.
+> **[0:19](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=19)** Alexa or [[Google]] Home, as an example, work pretty well.
 >
 > **[0:23](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=23)** The reality is that unconstrained speech is still very, very difficult.
 >
@@ -1751,7 +1729,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=39)** See what it responds.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=41)** We think about other areas of AI, like computer vision, as an example.
+> **[0:41](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=41)** We think about other areas of AI, like [[Computer Vision]], as an example.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=46)** This works really well for constrained problems, like handwritten zip codes or addresses, as an example, but when it comes to applications like self-driving cars, though, real world, natural scenes are simply too difficult for an AI to deal with.
 >
@@ -1785,7 +1763,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=160)** So doing something as simple and constrained as trying to predict a stock price is still a very, very difficult problem.
 >
-> **[2:47](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=167)** Now that's true for both humans and computers, don't get me wrong, but as much as we talk about machine learning and learning algorithms, trying to predict stock prices, at this point, still far out of the reach of any AI program I've ever seen in all of my experience in the markets, and it's certainly far out of reach of any institutional investor that has advertised or talked about this.
+> **[2:47](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=167)** Now that's true for both humans and computers, don't get me wrong, but as much as we talk about machine learning and learning [[Algorithms]], trying to predict stock prices, at this point, still far out of the reach of any AI program I've ever seen in all of my experience in the markets, and it's certainly far out of reach of any institutional investor that has advertised or talked about this.
 >
 > **[3:15](https://www.linkedin.com/learning/ai-in-business-essential-training/where-ai-does-not-work?u=76281980&t=195)** While we do see AI tools being used in banks and by financial traders to help them manage portfolios, similar to robo-advisors or for risk management, at the end of the day, by and large, it's still humans that are coming up with these trading strategies and then programming them into the computer.
 >
@@ -1797,20 +1775,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Google]] (3), [[Computer Vision]] (1), data (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Computer Vision]] (1), [[Algorithms]] (1)
 > **Analogies:** for example (1), similar to (1)
 > **Env Vars:** ibm (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/best-practices-with-ai?u=76281980)
+#### [Best practices with AI](https://www.linkedin.com/learning/ai-in-business-essential-training/best-practices-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-in-business-essential-training/best-practices-with-ai?u=76281980&t=0)** - [Instructor] When it comes to building any AI project, the most important step is figuring out the logic that's going to go into that AI algorithm.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-in-business-essential-training/best-practices-with-ai?u=76281980&t=10)** So this starts with a few basic steps, just like what we did when we looked at this in Excel.
+> **[0:10](https://www.linkedin.com/learning/ai-in-business-essential-training/best-practices-with-ai?u=76281980&t=10)** So this starts with a few basic steps, just like what we did when we looked at this in [[Microsoft Excel|Excel]].
 >
 > **[0:17](https://www.linkedin.com/learning/ai-in-business-essential-training/best-practices-with-ai?u=76281980&t=17)** To begin with we need to determine what our goal is, and then what's our constraints?
 >
@@ -1848,7 +1825,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/ai-in-business-essential-training/best-practices-with-ai?u=76281980&t=157)** Well if we do that, we in essence need to start the process all over again, but we do need to monitor it's performance.
 >
-> **[2:43](https://www.linkedin.com/learning/ai-in-business-essential-training/best-practices-with-ai?u=76281980&t=163)** Moreover, AI algorithms often degenerate over time, this is because data relationships change.
+> **[2:43](https://www.linkedin.com/learning/ai-in-business-essential-training/best-practices-with-ai?u=76281980&t=163)** Moreover, AI [[Algorithms]] often degenerate over time, this is because data relationships change.
 >
 > **[2:50](https://www.linkedin.com/learning/ai-in-business-essential-training/best-practices-with-ai?u=76281980&t=170)** The relationships that we've observed before, between different variables, may not hold over time, they usually don't, so eventually we're going to have to conduct some sort of a tune up, or a revision to the algorithm, put in new data, things like that.
 >
@@ -1862,7 +1839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (7), business (4), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
@@ -1873,8 +1850,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1886,7 +1862,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=19)** There's no indication that humans are getting ready to be replaced by AI or computers in any meaningful way.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=26)** Remember that when we're thinking about AI, the process of coming up with that artificial intelligence all starts with defining a goal, an objective goal that we're trying to reach and then determining what the constraints are around it.
+> **[0:26](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=26)** Remember that when we're thinking about AI, the process of coming up with that [[Artificial Intelligence (AI)|artificial intelligence]] all starts with defining a goal, an objective goal that we're trying to reach and then determining what the constraints are around it.
 >
 > **[0:41](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=41)** We saw that when we looked at the robo-advisor program that we constructed, right?
 >
@@ -1904,19 +1880,19 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=87)** We saw that when we looked at advertising for instance.
 >
-> **[1:30](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=90)** Which products should we advertise, product a or product b?
+> **[1:30](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=90)** Which [[Microsoft Products|products]] should we advertise, product a or product b?
 >
 > **[1:34](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=94)** Using an AI algorithm, we were better able to establish which particular area was more profitable from a marketing standpoint.
 >
 > **[1:42](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=102)** I hope you've enjoyed this gentle introduction to AI.
 >
-> **[1:45](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=105)** If you'd like to learn more and dig a little deeper, I encourage you to check out other related courses here on LinkedIn Learning.
+> **[1:45](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=105)** If you'd like to learn more and dig a little deeper, I encourage you to check out other related courses here on [[LinkedIn]] Learning.
 >
 > **[1:52](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980&t=112)** I'll talk to you next time, thank you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), product (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** coming up (1), we talked about (1)
 > **Analogies:** for instance (1)

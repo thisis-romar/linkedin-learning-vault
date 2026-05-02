@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/cloud-computing
   - topic/database-management
-course_count: 27
+course_count: 28
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Financial Analysis
 
-> **Type:** Concept | **Courses:** 27 | **Topics:** [[Data Science]], [[Software Development]], [[Artificial Intelligence (AI)]], [[Cloud Computing]], [[Database Management]]
+> **Type:** Concept | **Courses:** 28 | **Topics:** [[Data Science]], [[Software Development]], [[Artificial Intelligence (AI)]], [[Cloud Computing]], [[Database Management]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Amplify Your Critical Thinking with Generative AI]] — 3 mentions
 10. [[SQL for Finance Professionals]] — 3 mentions
 
-> [!note]- See all 27 courses
+> [!note]- See all 28 courses
 > 11. [[Advanced Python in Excel- Machine Learning]] — 3 mentions
 > 12. [[Introduction To Quantum Computing]] — 2 mentions
 > 13. [[Excel For Financial Planning And Analysis Fp A]] — 2 mentions
@@ -54,10 +54,11 @@ created: 2026-05-02
 > 21. [[Building Generative AI Apps to Talk to Your Data]] — 1 mentions
 > 22. [[Getting Started with Python for Finance]] — 1 mentions
 > 23. [[Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training]] — 1 mentions
-> 24. [[Better Relationships and More Sales- Using ChatGPT to Sell]] — 1 mentions
-> 25. [[Excel for Business Analysts]] — 1 mentions
-> 26. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
-> 27. [[Fundamentals of Data Transformation for Data Engineering]] — 1 mentions
+> 24. [[Google Cloud Data and Storage Foundations]] — 1 mentions
+> 25. [[Better Relationships and More Sales- Using ChatGPT to Sell]] — 1 mentions
+> 26. [[Excel for Business Analysts]] — 1 mentions
+> 27. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
+> 28. [[Fundamentals of Data Transformation for Data Engineering]] — 1 mentions
 
 ## Learning Paths
 

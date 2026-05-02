@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,15 +82,15 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980&t=14)** That's where cloud operations come in.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980&t=18)** Cloud operations refers to the set of practices and strategies employed to ensure the smooth functioning, optimization, and scalability of cloud-based systems.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980&t=18)** Cloud operations refers to the set of practices and strategies employed to ensure the smooth functioning, optimization, and [[Scalability]] of cloud-based systems.
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980&t=28)** It involves managing and monitoring the infrastructure, applications, and services that run in the cloud while adhering to best practices for reliability, performance, security, and cost optimization.
 >
-> **[0:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980&t=42)** Cloud operations play a pivotal role in enabling organizations to achieve digital transformation goals because they ensure the availability, efficiency, and resilience of critical systems.
+> **[0:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980&t=42)** Cloud operations play a pivotal role in enabling organizations to achieve [[Digital Transformation]] goals because they ensure the availability, efficiency, and resilience of critical systems.
 >
 > **[0:55](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980&t=55)** So with this in mind, let's explore the goals of this course.
 >
-> **[0:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980&t=59)** Scaling with Google Cloud operations was designed to help you, learn how Google Cloud supports an organization's ability to control their cloud costs through financial governance, understand the fundamental concepts of modern operations, reliability, and resilience in the cloud, and explore how Google Cloud works to reduce our environmental impact and help organizations meet sustainability goals.
+> **[0:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980&t=59)** Scaling with [[Google Cloud Platform (GCP)|Google Cloud]] operations was designed to help you, learn how Google Cloud supports an organization's ability to control their cloud costs through financial governance, understand the fundamental concepts of modern operations, reliability, and resilience in the cloud, and explore how Google Cloud works to reduce our environmental impact and help organizations meet [[Sustainability]] goals.
 >
 > **[1:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980&t=87)** Throughout the course, you are presented with graded knowledge assessments.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Google Cloud Platform (GCP)|Google cloud]] (3), power (1), [[Scalability]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Scalability]] (1), [[Digital Transformation]] (1), [[Sustainability]] (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [narrator] (1)
 
@@ -110,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,9 +117,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980&t=6)** In fact, one of the most common pain points many organizations face, regardless of which cloud provider they use, is managing cloud costs.
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980&t=15)** For large organizations especially, the transition from predictable capital expenditures for building and maintaining their IT infrastructure to agile operating expenditures using cloud resources requires process and organizational changes.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980&t=15)** For large organizations especially, the transition from predictable capital expenditures for building and maintaining their IT infrastructure to [[Agile Development|agile]] operating expenditures using cloud resources requires process and organizational changes.
 >
-> **[0:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980&t=30)** Managing cloud costs requires vigilance and real-time monitoring in parallel.
+> **[0:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980&t=30)** Managing cloud costs requires vigilance and [[Real-Time]] monitoring in parallel.
 >
 > **[0:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980&t=35)** In fact, because almost anyone can now access cloud resources on demand, managing IT, infrastructure costs no longer sits mainly with the finance team.
 >
@@ -129,19 +127,18 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980&t=54)** Whatever your role, understanding how cloud technology affects the business from a cost perspective will help you maximize the value your organization gains from using the cloud.
 >
-> **[1:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980&t=65)** In this first section of the course, you'll explore the fundamentals of cloud cost management, cloud financial governance best practices, ways to control access by using the resource hierarchy and ways to control cloud consumption.
+> **[1:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980&t=65)** In this first section of the course, you'll explore the fundamentals of cloud [[Cost Management]], cloud financial governance best practices, ways to control access by using the resource hierarchy and ways to control cloud consumption.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), business (2), [[Agile Development|Agile]] (1), [[Real-Time]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Real-Time]] (1), [[Cost Management]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fundamentals of cloud financial governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980)
+#### [Fundamentals of cloud financial governance](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=0)** - [Instructor] Easy access to cloud resources presents a need for precise, real-time control of what's being consumed.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=0)** - [Instructor] Easy access to cloud resources presents a need for precise, [[Real-Time]] control of what's being consumed.
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=7)** Having cloud financial governance, which is, in part, a set of processes and controls that organizations use to manage cloud spend, can mean the difference between peace of mind and spiraling costs that lead to budget overruns.
 >
@@ -153,9 +150,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=43)** People refers to the different roles involved in managing cloud costs.
 >
-> **[0:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=48)** For small organizations, one person might fulfill multiple roles, and be responsible for managing all aspects of a cloud infrastructure and associated finance, from budgeting, to procurement, tracking optimization, and more.
+> **[0:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=48)** For small organizations, one person might fulfill multiple roles, and be responsible for managing all aspects of a [[Cloud Infrastructure]] and associated finance, from budgeting, to procurement, tracking optimization, and more.
 >
-> **[1:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=61)** Large organizations, however, will likely look to a finance team to take on a financial planning and advisory role.
+> **[1:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=61)** Large organizations, however, will likely look to a finance team to take on a [[Financial Planning]] and advisory role.
 >
 > **[1:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=68)** Using business priorities, a finance team is expected to make data-driven decisions on cloud spending, but they might struggle to understand or monitor cloud spend on a daily, weekly, or monthly basis.
 >
@@ -179,13 +176,13 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=144)** Then on a weekly or monthly basis, the finance team should analyze the results, charge back the costs through the appropriate teams, and determine whether any changes are needed to ensure that the organization's cloud spend is optimized.
 >
-> **[2:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=158)** Having a culture of accountability in place across teams helps organizations recognize waste, quickly act to eliminate it, and ensure they're maximizing their cloud investment.
+> **[2:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=158)** Having a culture of [[Accountability]] in place across teams helps organizations recognize waste, quickly act to eliminate it, and ensure they're maximizing their cloud investment.
 >
 > **[2:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=168)** It will also help drive cross group collaboration across technology, finance, and business teams to ensure their cloud spend aligns with broader business objectives.
 >
 > **[3:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=180)** And finally, there's technology.
 >
-> **[3:02](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=182)** Google Cloud provides built-in tools to help organizations monitor and manage costs.
+> **[3:02](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=182)** [[Google Cloud Platform (GCP)|Google Cloud]] provides built-in tools to help organizations monitor and manage costs.
 >
 > **[3:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamentals-of-cloud-financial-governance?u=76281980&t=188)** These tools help organizations gain greater visibility, drive a culture of accountability for cloud spending across the organization, control costs to reduce risks of overspending, and provide intelligent recommendations to optimize cost and usage.
 >
@@ -193,15 +190,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), business (7), teams (4), [[Accountability]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Real-Time]] (1), [[Cloud Infrastructure]] (1), [[Financial Planning]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud financial governance best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980)
+#### [Cloud financial governance best practices](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,11 +207,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=14)** If it's a team, it should ideally be a mix of IT managers and financial controllers.
 >
-> **[0:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=19)** Because cloud spending is decentralized and variable, it's important to establish a culture of accountability for costs across the organization.
+> **[0:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=19)** Because cloud spending is decentralized and variable, it's important to establish a culture of [[Accountability]] for costs across the organization.
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=28)** Defining clear ownership for projects and sharing cost views with the departments and teams that are using cloud resources, helps establish this accountability culture and more responsible spending.
 >
-> **[0:40](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=40)** As well as making teams accountable for their spending, Google Cloud financial governance policies and permissions make it easy to control who can spend and view costs across your organization.
+> **[0:40](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=40)** As well as making teams accountable for their spending, [[Google Cloud Platform (GCP)|Google Cloud]] financial governance policies and permissions make it easy to control who can spend and view costs across your organization.
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=51)** In addition, Google Cloud offers flexible options to organize resources and allocate costs to individual departments and teams.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=67)** Creating multiple budgets with meaningful alerts is an important practice for staying on top of your cloud costs.
 >
-> **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=74)** The second best practice is to understand what kind of information can be found in an invoice versus cost management tools.
+> **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=74)** The second best practice is to understand what kind of information can be found in an invoice versus [[Cost Management]] tools.
 >
 > **[1:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=81)** They're not the same concept.
 >
@@ -269,7 +265,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=207)** The pricing calculator lets you estimate how changes to cloud usage will affect costs.
 >
-> **[3:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=213)** The calculator is available at cloud.[google.com/products/calculator](https://google.com/products/calculator).
+> **[3:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=213)** The calculator is available at cloud.[[[Google]].com/[[Microsoft Products|products]]/calculator](https://google.com/products/calculator).
 >
 > **[3:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/cloud-financial-governance-best-practices?u=76281980&t=221)** Now that you've had a chance to explore some cloud financial governance best practices, the next step is to implement them.
 >
@@ -277,7 +273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), [[Google Cloud Platform (GCP)|Google cloud]] (7), [[Cost Management]] (4), teams (3), [[Accountability]] (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (7), [[Cost Management]] (4), [[Accountability]] (2), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **Best Practices:** best practice (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -286,18 +282,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the resource hierarchy to control access
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980)
+#### [Using the resource hierarchy to control access](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=0)** - [Narrator] One important cloud computing consideration involves controlling access to resources.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=0)** - [Narrator] One important [[Cloud Computing]] consideration involves controlling access to resources.
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=5)** With on-premises infrastructure, physical access controls were used.
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=10)** This method, however, is not as effective with resources stored in the cloud.
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=15)** The Google Cloud resource hierarchy is a powerful tool that can be used to control access to cloud resources.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=15)** The [[Google Cloud Platform (GCP)|Google Cloud]] resource hierarchy is a powerful tool that can be used to control access to cloud resources.
 >
 > **[0:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=21)** Much like the folder structure you use to organize and control access to your own files, this resource hierarchy is a tree-like structure that organizes resources into logical groups.
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=36)** Google Cloud's resource hierarchy contains four levels and starting from the bottom up, they are resources, projects, folders, and an organization node.
 >
-> **[0:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=47)** The first level resources represents virtual machines, cloud storage buckets, tables in BigQuery, or anything else in Google Cloud.
+> **[0:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=47)** The first level resources represents [[Virtual Machines]], [[Cloud Storage]] buckets, tables in BigQuery, or anything else in Google Cloud.
 >
 > **[0:57](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=57)** Resources are organized into projects, which sit on the second level.
 >
@@ -343,24 +338,23 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=183)** By assigning access permissions at the appropriate level in the hierarchy, you can ensure that users only have the necessary privileges to perform their tasks.
 >
-> **[3:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=192)** This reduces the risk of unauthorized access and helps maintain regulatory compliance.
+> **[3:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=192)** This reduces the risk of unauthorized access and helps maintain [[Regulatory Compliance]].
 >
 > **[3:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=198)** Finally, the resource hierarchy provides strong visibility and auditing capabilities.
 >
 > **[3:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=204)** You can track access permissions and changes across different levels of the hierarchy, which makes it easier to monitor and review access controls.
 >
-> **[3:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=213)** This improves accountability and helps identify and address potential security issues.
+> **[3:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/using-the-resource-hierarchy-to-control-access?u=76281980&t=213)** This improves [[Accountability]] and helps identify and address potential security issues.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (7), cloud (5), node (3), [[Security]] (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (7), [[Cloud Computing]] (1), [[Virtual Machines]] (1), [[Cloud Storage]] (1), [[Regulatory Compliance]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** node (3)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Controlling cloud consumption
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/controlling-cloud-consumption?u=76281980)
+#### [Controlling cloud consumption](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/controlling-cloud-consumption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,7 +366,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/controlling-cloud-consumption?u=76281980&t=19)** Or improved compliance, by ensuring your cloud environment is compliant with industry regulations.
 >
-> **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/controlling-cloud-consumption?u=76281980&t=27)** Google Cloud offers several tools to help control cloud consumption, including resource quota policies, budget threshold rules, and cloud billing reports.
+> **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/controlling-cloud-consumption?u=76281980&t=27)** [[Google Cloud Platform (GCP)|Google Cloud]] offers several tools to help control cloud consumption, including resource quota policies, budget threshold rules, and cloud billing reports.
 >
 > **[0:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/controlling-cloud-consumption?u=76281980&t=37)** Let's define each of these terms.
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Google Cloud Platform (GCP)|Google cloud]] (4), data (3)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4)
 > **Warnings:** warning (1)
 > **Speakers:** - [narrator] (1)
 
@@ -411,20 +405,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=0)** - [Narrator] In today's rapidly evolving digital landscape, organizations use cloud technology increasingly to drive innovation, agility, and efficiency.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=9)** However, harnessing the true power of the cloud requires a comprehensive understanding of operational excellence and reliability at scale.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=9)** However, harnessing the true power of the cloud requires a comprehensive understanding of [[Operational Excellence]] and reliability at scale.
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=18)** Operational excellence and reliability refers to the ability of organizations to optimize their operations and ensure uninterrupted service delivery even as they handle increasing workloads and complexities in the cloud.
 >
 > **[0:32](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=32)** This includes designing robust infrastructure, establishing resilient processes, and employing proactive monitoring and response mechanisms.
 >
-> **[0:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=42)** Imagine a global e-commerce platform that experiences a sudden surge in traffic during a major sale event.
+> **[0:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=42)** Imagine a global [[E-Commerce]] platform that experiences a sudden surge in traffic during a major sale event.
 >
 > **[0:49](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=49)** To meet the increased demand, the platform needs to scale its resources rapidly while ensuring uninterrupted service availability.
 >
@@ -432,27 +425,26 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=68)** Reliability focuses on minimizing downtime, employing full tolerance systems, and employing disaster recovery strategies.
 >
-> **[1:16](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=76)** By excelling in these areas, the e-commerce platform can handle the increased load seamlessly, deliver a consistently positive user experience and avoid revenue loss or reputational damage.
+> **[1:16](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=76)** By excelling in these areas, the e-commerce platform can handle the increased load seamlessly, deliver a consistently positive [[User Experience (UX)|user experience]] and avoid revenue loss or reputational damage.
 >
-> **[1:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=89)** In this section of the course, you explore modernizing operations by using Google Cloud, designing resilient infrastructure and processes, the fundamentals of cloud reliability, Google Cloud customer care, and the life of a support case.
+> **[1:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980&t=89)** In this section of the course, you explore modernizing operations by using [[Google Cloud Platform (GCP)|Google Cloud]], designing resilient infrastructure and processes, the fundamentals of cloud reliability, Google Cloud customer care, and the life of a support case.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Operational Excellence]] (3), [[E-Commerce]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), power (1)
+> **Frameworks & Libraries:** [[Operational Excellence]] (3), [[E-Commerce]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** refers to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Fundamentals of cloud reliability
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980)
+#### [Fundamentals of cloud reliability](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=0)** - [Narrator] Within any IT team, developers are responsible for writing code for systems and applications, and operators are responsible for ensuring that those systems and applications operate reliably.
 >
-> **[0:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=12)** Developers are expected to be agile and are often pushed to write and deploy code quickly.
+> **[0:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=12)** Developers are expected to be [[Agile Development|agile]] and are often pushed to write and deploy code quickly.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=18)** Their aim is to release new functions frequently, increase core business value with new features, and release fixes fast for an overall better user experience.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=18)** Their aim is to release new functions frequently, increase core business value with new features, and release fixes fast for an overall better [[User Experience (UX)|user experience]].
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=28)** In contrast, operators are expected to keep the system stable, and so they often prefer to work more slowly to ensure reliability and consistency.
 >
@@ -460,9 +452,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=47)** When problems arise, it can be very difficult for either group to identify the source of the problem and resolve it quickly.
 >
-> **[0:54](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=54)** Worse, accountability between the teams isn't always clear.
+> **[0:54](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=54)** Worse, [[Accountability]] between the teams isn't always clear.
 >
-> **[0:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=59)** DevOps is a software development approach that emphasizes collaboration and communication between development and operations teams to enhance the efficiency, speed, and reliability of software delivery.
+> **[0:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=59)** [[DevOps]] is a [[Software Development]] approach that emphasizes collaboration and communication between development and operations teams to enhance the efficiency, speed, and reliability of software delivery.
 >
 > **[1:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=73)** It aims to break down silos between these teams and foster a culture of shared responsibility, automation, and continuous improvement.
 >
@@ -472,7 +464,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=107)** Monitoring is the foundation of product reliability.
 >
-> **[1:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=110)** It reveals what needs urgent attention and shows trends in application usage patterns, which can yield better capacity planning, and generally help improve an application client's experience and lessen their pain.
+> **[1:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=110)** It reveals what needs urgent attention and shows trends in application usage patterns, which can yield better [[Capacity Planning]], and generally help improve an application client's experience and lessen their pain.
 >
 > **[2:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=124)** There are four golden signals that measure a system's performance and reliability.
 >
@@ -516,27 +508,26 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=286)** They outline the promises and guarantees regarding the quality of service.
 >
-> **[4:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=291)** SLAs include the agreed upon SLOs, performance metrics, uptime guarantees, and any penalties or remedies if the provider fails to meet those commitments.
+> **[4:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=291)** SLAs include the agreed upon SLOs, [[Performance Metrics]], uptime guarantees, and any penalties or remedies if the provider fails to meet those commitments.
 >
 > **[5:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/fundamental-of-cloud-reliability?u=76281980&t=301)** This might include refunds or credits when the service has an outage that's longer than this agreement allows.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Engineering]] (3), application (3), traffic (3), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[DevOps]] (2), [[Capacity Planning]] (2), [[Agile Development|Agile]] (1), [[Accountability]] (1)
 > **Env Vars:** sre (2), slo (1)
 > **Versions:** 99.9 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Designing resilient infrastructure and processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980)
+#### [Designing resilient infrastructure and processes](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=0)** - [Instructor] When infrastructure and processes in a cloud environment are designed, they need to be resilient, full tolerant, and scalable for high availability and disaster recovery.
 >
-> **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=11)** High availability refers to the ability of a system to remain operational, and accessible for users even if hardware or software failures occur.
+> **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=11)** High availability refers to the ability of a system to remain operational, and accessible for users even if [[Hardware]] or software failures occur.
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=19)** Whereas disaster recovery refers to the process of restoring a system to a functional state after a major disruption or disaster.
 >
@@ -546,7 +537,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=39)** Redundancy can be implemented at various levels, such as hardware, network, or application layers.
 >
-> **[0:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=46)** For example, having redundant power supplies, network switches or load balancers, ensures that if one fails, the redundant component takes over seamlessly.
+> **[0:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=46)** For example, having redundant power supplies, [[Network Switches]] or load balancers, ensures that if one fails, the redundant component takes over seamlessly.
 >
 > **[0:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=56)** Redundancy enhances system reliability, and mitigates the impact of single points of failure.
 >
@@ -578,17 +569,16 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=184)** It's important to regularly test and validate these processes to ensure that they function as expected during real world incidents.
 >
-> **[3:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=192)** Also, monitoring, alerting, and incident response mechanisms should be implemented to identify and address issues prominently, further enhancing the overall resilience and availability of the cloud infrastructure.
+> **[3:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/designing-resilient-infrastructure-and-processes?u=76281980&t=192)** Also, monitoring, alerting, and [[Incident Response]] mechanisms should be implemented to identify and address issues prominently, further enhancing the overall resilience and availability of the [[Cloud Infrastructure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (4), [[Hardware]] (4), functional (1), application (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Network Switches]] (1), [[Incident Response]] (1), [[Cloud Infrastructure]] (1)
 > **Definitions:** refers to (3)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modernizing operations by using Google Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980)
+#### [Modernizing operations by using Google Cloud](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,17 +590,17 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=18)** So the question becomes, how do you know what's happening with your server, database, or application?
 >
-> **[0:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=25)** The answer is by using Google's integrated observability tools.
+> **[0:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=25)** The answer is by using [[Google]]'s integrated observability tools.
 >
 > **[0:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=30)** Observability involves collecting, analyzing, and visualizing data from various sources within a system to gain insights into its performance, health, and behavior.
 >
-> **[0:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=41)** To achieve this, Google Cloud offers an operations suite, which is a comprehensive set of monitoring, logging, and diagnostics tools.
+> **[0:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=41)** To achieve this, [[Google Cloud Platform (GCP)|Google Cloud]] offers an operations suite, which is a comprehensive set of monitoring, logging, and diagnostics tools.
 >
 > **[0:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=50)** It offers a unified platform for managing and gaining insights into the performance, availability, and health of applications and infrastructure deployed on Google Cloud.
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=60)** Let's look at some of the managed services that constitute the operations suite.
 >
-> **[1:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=66)** Cloud Monitoring provides a comprehensive view of your cloud infrastructure and applications.
+> **[1:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=66)** Cloud Monitoring provides a comprehensive view of your [[Cloud Infrastructure]] and applications.
 >
 > **[1:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=71)** It collects metrics, logs, and traces from your applications and infrastructure and provides you with insights into their performance, health, and availability.
 >
@@ -618,7 +608,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=90)** Cloud Logging collects and stores all application and infrastructure logs.
 >
-> **[1:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=94)** With real-time insights, you can use cloud logging to troubleshoot issues, identify trends, and comply with regulations.
+> **[1:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=94)** With [[Real-Time]] insights, you can use cloud logging to troubleshoot issues, identify trends, and comply with regulations.
 >
 > **[1:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=102)** Cloud Trace helps identify performance bottlenecks in applications.
 >
@@ -628,7 +618,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=119)** It continuously gathers CPU usage and memory allocation information from production applications and provides insights into how applications are using resources.
 >
-> **[2:09](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=129)** Error reporting counts, analyzes, and aggregates the crashes in running cloud services in real time.
+> **[2:09](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=129)** Error reporting counts, analyzes, and aggregates the crashes in running [[Cloud Services]] in real time.
 >
 > **[2:16](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/modernizing-operations-by-using-google-cloud?u=76281980&t=136)** A centralized error management interface displays the results with sorting and filtering capabilities.
 >
@@ -640,20 +630,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), application (4), [[Google]] (2), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Cloud Infrastructure]] (1), [[Real-Time]] (1), [[Cloud Services]] (1)
 > **Env Vars:** cpu (2), api (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Google Cloud Customer Care
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980)
+#### [Google Cloud Customer Care](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=0)** - [Narrator] Any cloud adoption program can encounter challenges, so it's important to have an effective and efficient support plan from your cloud provider.
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=8)** Google Cloud customer care can simplify and streamline your support experience with scalable and flexible services built with your business needs at the center.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=8)** [[Google Cloud Platform (GCP)|Google Cloud]] customer care can simplify and streamline your support experience with scalable and flexible services built with your business needs at the center.
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=19)** There are four different service levels, which lets you choose the one that's right for your organization.
 >
@@ -675,7 +664,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=89)** Support is available 24/7 in a selection of languages and initial response times are quicker than those provided by standard support.
 >
-> **[1:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=98)** Enhanced Support also offers technical support escalations and third party technology support to help you resolve multi-vendor issues.
+> **[1:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=98)** Enhanced Support also offers [[Technical Support]] escalations and third party technology support to help you resolve multi-vendor issues.
 >
 > **[1:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=107)** Premium support is designed for enterprises with critical workloads.
 >
@@ -687,11 +676,11 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=153)** Both the enhanced and premium support plans offer value add services that are available for additional purchase.
 >
-> **[2:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=158)** You can learn more about the value add services and all Google Cloud customer care support offerings at cloud.[google.com/support](https://google.com/support).
+> **[2:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/google-cloud-customer-care?u=76281980&t=158)** You can learn more about the value add services and all Google Cloud customer care support offerings at cloud.[[[Google]].com/support](https://google.com/support).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Google Cloud Platform (GCP)|Google cloud]] (7), management (2), business (1), api (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (7), [[Technical Support]] (1), [[Google]] (1)
 > **Env Vars:** api (1), crm (1)
 > **URLs:** [google.com](https://google.com) (1)
 > **Analogies:** such as (1)
@@ -699,12 +688,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [narrator] (1)
 
-#### The life of a support case
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/the-life-of-a-support-case?u=76281980)
+#### [The life of a support case](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/the-life-of-a-support-case?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/the-life-of-a-support-case?u=76281980&t=0)** - [Announcer] Any Google Cloud customer on the Standard, Enhanced, or Premium support plan can use the Google Cloud console to create and manage support cases.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/the-life-of-a-support-case?u=76281980&t=0)** - [Announcer] Any [[Google Cloud Platform (GCP)|Google Cloud]] customer on the Standard, Enhanced, or Premium support plan can use the Google Cloud console to create and manage support cases.
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/the-life-of-a-support-case?u=76281980&t=10)** Outside of filing a support case through the Google Cloud console, customer care support also offers other contact options for live interactions with support staff, such as phone and video call support.
 >
@@ -722,7 +710,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/the-life-of-a-support-case?u=76281980&t=68)** After the case is created, it goes through a triage process.
 >
-> **[1:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/the-life-of-a-support-case?u=76281980&t=72)** The team reviews the information provided by the customer to understand the problem and determine its severity and impact on the customer's business operations.
+> **[1:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/the-life-of-a-support-case?u=76281980&t=72)** The team reviews the information provided by the customer to understand the problem and determine its severity and impact on the customer's [[Business Operations]].
 >
 > **[1:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/the-life-of-a-support-case?u=76281980&t=82)** The team might request additional information or clarification from the customer at this stage.
 >
@@ -778,7 +766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (8), teams (2), [[Engineering]] (2), business (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (8), [[Business Operations]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -789,14 +777,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sustainability with Google Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980)
+#### [Sustainability with Google Cloud](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=0)** - [Presenter] As we get closer to the end of this cloud digital leader training where you've explored how cloud computing can help transform the way you do business, it's important that we underscore our technology efforts at Google with our commitment to the environment and sustainability.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=0)** - [Presenter] As we get closer to the end of this cloud digital leader training where you've explored how [[Cloud Computing]] can help transform the way you do business, it's important that we underscore our technology efforts at [[Google]] with our commitment to the environment and [[Sustainability]].
 >
-> **[0:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=14)** The virtual world, which includes Google Cloud's network, is built on physical infrastructure, and all of those racks of humming servers use huge amounts of energy.
+> **[0:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=14)** The virtual world, which includes [[Google Cloud Platform (GCP)|Google Cloud]]'s network, is built on physical infrastructure, and all of those racks of humming servers use huge amounts of energy.
 >
 > **[0:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=24)** Altogether, existing data centers use nearly 2% of the world's electricity.
 >
@@ -820,7 +807,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=96)** And by 2030, we aimed to be the first major company to operate completely carbon-free.
 >
-> **[1:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=102)** We meet the challenges posed by climate change and the need for resource efficiency by working to empower everyone, businesses, governments, nonprofit organizations, communities and individuals to use Google technology to create a more sustainable world.
+> **[1:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=102)** We meet the challenges posed by [[Climate Change]] and the need for resource efficiency by working to empower everyone, businesses, governments, [[Nonprofit Organizations]], communities and individuals to use Google technology to create a more sustainable world.
 >
 > **[1:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=118)** So what does that look like in practice?
 >
@@ -838,21 +825,21 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=202)** Behind Kaluza's smart charging solution lies some sophisticated technology, all of which is built on Google Cloud.
 >
-> **[3:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=210)** Their core optimization engine gathers real-time data from a wide range of sources, including battery and charging data from the electric vehicles, and data from the energy suppliers and grid operators, such as the carbon intensity and price forecasts.
+> **[3:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=210)** Their core optimization engine gathers [[Real-Time]] data from a wide range of sources, including battery and charging data from the electric vehicles, and data from the energy suppliers and grid operators, such as the carbon intensity and price forecasts.
 >
 > **[3:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=225)** That data is stored in BigQuery where it's used to train and validate the smart charging optimization models.
 >
-> **[3:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=232)** These models are then deployed with Google Kubernetes Engine so that whenever a customer plugs in an electric vehicle, data from that vehicle passes in real time through their optimization engine to calculate the ideal charging schedule for that vehicle, which ensures that it uses the cheapest, lease carbon-intensive energy available.
+> **[3:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=232)** These models are then deployed with Google [[Kubernetes]] Engine so that whenever a customer plugs in an electric vehicle, data from that vehicle passes in real time through their optimization engine to calculate the ideal charging schedule for that vehicle, which ensures that it uses the cheapest, lease carbon-intensive energy available.
 >
 > **[4:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=252)** And as for the grid operators and energy companies, the Kaluza platform lets them visualize how many participating electric vehicles are plugged into the network at any one time.
 >
-> **[4:23](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=263)** BigQuery and Looker Studio dashboards provide granular insights, such as how many vehicles are idle, how many are charging, and how well our optimization engine is working.
+> **[4:23](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=263)** BigQuery and Looker Studio [[Dashboards]] provide granular insights, such as how many vehicles are idle, how many are charging, and how well our optimization engine is working.
 >
 > **[4:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980&t=274)** At Google, we remain committed to sustainability and continue to lead and encourage others, like Kaluza, to join us in improving the health of our planet.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (10), data (10), [[Google Cloud Platform (GCP)|Google cloud]] (5), cloud (2), [[Sustainability]] (2)
+> **Frameworks & Libraries:** [[Google]] (10), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Sustainability]] (2), [[Cloud Computing]] (1), [[Climate Change]] (1)
 > **Analogies:** such as (3), just like (1)
 > **Env Vars:** iso (1), ovo (1)
 > **Definitions:** is a  (1), means that (1)
@@ -866,34 +853,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980)
+#### [Course summary](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=0)** - [Instructor] This brings us to the end of the "Scaling with Google Cloud Operations" course.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=0)** - [Instructor] This brings us to the end of the "Scaling with [[Google Cloud Platform (GCP)|Google Cloud]] Operations" course.
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=4)** Let's do a quick recap.
 >
-> **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=7)** In the first section of the course titled, "Financial Governance and Managing Cloud Costs", you explored the fundamentals of cloud cost management, cloud financial governance best practices, ways to control access by using the resource hierarchy, and ways to control cloud consumption.
+> **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=7)** In the first section of the course titled, "Financial Governance and Managing Cloud Costs", you explored the fundamentals of cloud [[Cost Management]], cloud financial governance best practices, ways to control access by using the resource hierarchy, and ways to control cloud consumption.
 >
-> **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=27)** In the second section of the course titled, "Operational Excellence and Reliability At Scale", you learned about modernizing operations by using Google Cloud, designing resilient infrastructure and processes, the fundamentals of cloud reliability, Google Cloud Customer Care, and the life of a support case.
+> **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=27)** In the second section of the course titled, "[[Operational Excellence]] and Reliability At Scale", you learned about modernizing operations by using Google Cloud, designing resilient infrastructure and processes, the fundamentals of cloud reliability, Google Cloud Customer Care, and the life of a support case.
 >
-> **[0:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=48)** And finally, in the third section of the course titled, "Sustainability with Google Cloud", you examined how Google Cloud works to reduce our environmental impact and help organizations meet sustainability goals.
+> **[0:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=48)** And finally, in the third section of the course titled, "[[Sustainability]] with Google Cloud", you examined how Google Cloud works to reduce our environmental impact and help organizations meet sustainability goals.
 >
 > **[1:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=61)** Completing this course also concludes the Cloud Digital Leader Learning Path.
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=66)** If you are looking to demonstrate your knowledge of the topics from these six courses, you're encouraged to take the Cloud Digital Leader Certification Exam.
 >
-> **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=74)** For more information about the exam, including additional resources to help continue your preparation, please visit cloud.[google.com/learn/certification/cloud-digital-leader](https://google.com/learn/certification/cloud-digital-leader).
+> **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=74)** For more information about the exam, including additional resources to help continue your preparation, please visit cloud.[[[Google]].com/learn/certification/cloud-digital-leader](https://google.com/learn/certification/cloud-digital-leader).
 >
-> **[1:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=88)** And if you're looking to further expand your knowledge of Google Cloud products and services, please explore the entire catalog at cloud.[google.com/training](https://google.com/training).
+> **[1:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=88)** And if you're looking to further expand your knowledge of Google Cloud [[Microsoft Products|products]] and services, please explore the entire catalog at cloud.[google.com/training](https://google.com/training).
 >
 > **[1:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980&t=98)** We'll see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Sustainability]] (2), [[Google]] (2), [[Cost Management]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Sustainability]] (2), [[Google]] (2), [[Cost Management]] (1), [[Operational Excellence]] (1)
 > **URLs:** [google.com](https://google.com) (2)
 > **Speakers:** - [instructor] (1)
 

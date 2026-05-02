@@ -74,12 +74,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a React site with CSS Modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980)
+#### [Building a React site with CSS Modules](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980&t=0)** - [Manny] Doing CSS with React is always a subject with so many options, it can be confusing to get started.
+> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980&t=0)** - [Manny] Doing CSS with [[React.js|React]] is always a subject with so many options, it can be confusing to get started.
 >
 > **[0:07](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980&t=7)** In this course, I'm going to clarify your options and introduce the concepts and syntax for CSS modules with React.
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980&t=26)** We'll first set up our initial project.
 >
-> **[0:28](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980&t=28)** Then we'll go over the basic syntax and introduce the concepts of CSS files with React components, compose, and use the state to change our components.
+> **[0:28](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980&t=28)** Then we'll go over the basic syntax and introduce the concepts of CSS files with React components, [[Jetpack Compose|compose]], and use the state to change our components.
 >
 > **[0:39](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980&t=39)** And finally, we'll create some animation and add our final touches.
 >
@@ -97,29 +96,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[React.js|React]] (4), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** css (4)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [manny] (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/course-prerequisites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/course-prerequisites?u=76281980&t=0)** - [Instructor] As this course is focused on the exploration of CSS modules with React, some experience with React is a must.
+> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/course-prerequisites?u=76281980&t=0)** - [Instructor] As this course is focused on the exploration of CSS modules with [[React.js|React]], some experience with React is a must.
 >
 > **[0:07](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/course-prerequisites?u=76281980&t=7)** If you aren't familiar with creating React components, using props and importing modules, I suggest that you take a basic React course such as the one we have in our library.
 >
-> **[0:18](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/course-prerequisites?u=76281980&t=18)** Also experience with JavaScript, especially the ES6 syntax or above is a must for this course as this is the basis of a React programmer.
+> **[0:18](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/course-prerequisites?u=76281980&t=18)** Also experience with [[JavaScript]], especially the ES6 syntax or above is a must for this course as this is the basis of a React programmer.
 >
-> **[0:29](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/course-prerequisites?u=76281980&t=29)** Next, being familiar with terminal commands and NPM isn't a must, but definitely will help you when we use these tools.
+> **[0:29](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/course-prerequisites?u=76281980&t=29)** Next, being familiar with terminal commands and [[npm]] isn't a must, but definitely will help you when we use these tools.
 >
 > **[0:37](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/course-prerequisites?u=76281980&t=37)** As you'll see, I'm running on a Mac, but you can follow along on a PC as the tools work exactly the same on both platforms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), css (1), [[JavaScript]] (1), next (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[JavaScript]] (1), [[npm]] (1)
 > **Env Vars:** css (1), es6 (1), npm (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** npm (1)
@@ -132,12 +130,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### React with CSS Modules without ejecting
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980)
+#### [React with CSS Modules without ejecting](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980&t=0)** - [Instructor] When first creating a React project, many old tutorials, including the previous version of this course, recommended to create a new application with special scripts or reject the application.
+> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980&t=0)** - [Instructor] When first creating a [[React.js|React]] project, many old tutorials, including the previous version of this course, recommended to create a new application with special scripts or reject the application.
 >
 > **[0:11](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980&t=11)** Well, I've got good news for you.
 >
@@ -155,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980&t=54)** So what am I going to do to create a new React application is use npx.
 >
-> **[1:01](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980&t=61)** So, if you're not familiar with npx, it's basically npm on steroids.
+> **[1:01](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980&t=61)** So, if you're not familiar with npx, it's basically [[npm]] on steroids.
 >
 > **[1:06](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980&t=66)** So basically what happened, after a while npm realized that not every single thing that you want to use needs to be installed locally inside of your system.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (21), [[React.js|React]] (17), [[npm]] (3), css (2), next (2)
+> **Frameworks & Libraries:** [[React.js|React]] (17), [[npm]] (3)
 > **CLI Commands:** npx (5), npm (3), make (2), ls (1)
 > **Tools:** visual studio (5), terminal (4)
 > **Versions:** version 2 (2), 2.0 (1)
@@ -228,8 +225,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (2)
 
-#### Clean up of your created file
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/clean-up-of-your-created-file?u=76281980)
+#### [Clean up of your created file](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/clean-up-of-your-created-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -243,9 +239,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/clean-up-of-your-created-file?u=76281980&t=17)** So if you remember, and again, let's go ahead and turn on the application.
 >
-> **[0:22](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/clean-up-of-your-created-file?u=76281980&t=22)** So you bring up the terminal, npm start, and then we can close the terminal, and bring up the application here.
+> **[0:22](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/clean-up-of-your-created-file?u=76281980&t=22)** So you bring up the terminal, [[npm]] start, and then we can close the terminal, and bring up the application here.
 >
-> **[0:32](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/clean-up-of-your-created-file?u=76281980&t=32)** So as you can see right now, we have a turning star or basically their react logo.
+> **[0:32](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/clean-up-of-your-created-file?u=76281980&t=32)** So as you can see right now, we have a turning star or basically their [[React.js|react]] logo.
 >
 > **[0:38](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/clean-up-of-your-created-file?u=76281980&t=38)** So I want to remove all this and start from a clean slate.
 >
@@ -309,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), next (4), application (4), [[npm]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[React.js|React]] (1)
 > **Tools:** visual studio (3), terminal (3)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (2), npm (1), find (1)
@@ -323,8 +319,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to CSS Modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/introduction-to-css-modules?u=76281980)
+#### [Introduction to CSS Modules](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/introduction-to-css-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/introduction-to-css-modules?u=76281980&t=25)** Yet your CSS, even with leveraging imports, can become harder to manage, especially if you add scripts into your CSS.
 >
-> **[0:35](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/introduction-to-css-modules?u=76281980&t=35)** CSS modules comes to the rescue and facilitates this growth by first doing a one-to-one relationship where each component has its own CSS, but also integrates tightly into React's component approach with the possibility of using JavaScript or any methods available to React.
+> **[0:35](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/introduction-to-css-modules?u=76281980&t=35)** CSS modules comes to the rescue and facilitates this growth by first doing a one-to-one relationship where each component has its own CSS, but also integrates tightly into [[React.js|React]]'s component approach with the possibility of using [[JavaScript]] or any methods available to React.
 >
 > **[0:55](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/introduction-to-css-modules?u=76281980&t=55)** This allows you to do really dynamic CSS and easily manage the component styles when needed.
 >
@@ -360,20 +355,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (15), [[React.js|React]] (3), application (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (1)
 > **Env Vars:** css (15)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initial directory structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/initial-directory-structure?u=76281980)
+#### [Initial directory structure](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/initial-directory-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/initial-directory-structure?u=76281980&t=0)** - [Instructor] Now that we understand how we're going to build our website, let's go ahead and structure a project and add the proper files.
 >
-> **[0:07](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/initial-directory-structure?u=76281980&t=7)** Also, in the exercise files, there are two files that are called React-stateful and React-stateless.
+> **[0:07](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/initial-directory-structure?u=76281980&t=7)** Also, in the exercise files, there are two files that are called [[React.js|React]]-stateful and React-stateless.
 >
 > **[0:16](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/initial-directory-structure?u=76281980&t=16)** So if you look into the resources, you have those two files.
 >
@@ -511,7 +505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (11), [[React.js|React]] (2), next (2), functional (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **File Paths:** grid.js (2), griditem.js (2), smoke.js (2), background.module.css (1), background.js (1)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (3)
@@ -520,8 +514,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Add components to the app
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-components-to-the-app?u=76281980)
+#### [Add components to the app](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-components-to-the-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,14 +596,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (2), css (1)
 > **File Paths:** app.js (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Speakers:** - so (1)
 
-#### CSS syntax with the components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/css-syntax-with-the-components?u=76281980)
+#### [CSS syntax with the components](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/css-syntax-with-the-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,7 +649,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/css-syntax-with-the-components?u=76281980&t=188)** So let's go ahead and do that.
 >
-> **[3:09](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/css-syntax-with-the-components?u=76281980&t=189)** So class name and by the way if you don't know why we're using class name as opposed to class in pure HTML is because the work class is already used in react.
+> **[3:09](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/css-syntax-with-the-components?u=76281980&t=189)** So class name and by the way if you don't know why we're using class name as opposed to class in pure [[HTML]] is because the work class is already used in [[React.js|react]].
 >
 > **[3:24](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/css-syntax-with-the-components?u=76281980&t=204)** And pass styles dot, title, like so.
 >
@@ -670,7 +661,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/css-syntax-with-the-components?u=76281980&t=235)** Let's save this and let's start our application.
 >
-> **[4:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/css-syntax-with-the-components?u=76281980&t=240)** So I'm going to click on terminal, new terminal, Do NPM start just to see if there's any issues that we need to take care of and something is wrong here.
+> **[4:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/css-syntax-with-the-components?u=76281980&t=240)** So I'm going to click on terminal, new terminal, Do [[npm]] start just to see if there's any issues that we need to take care of and something is wrong here.
 >
 > **[4:11](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/css-syntax-with-the-components?u=76281980&t=251)** Title- title does not contain a default export, import it as title, and that's definitely something we need to work on.
 >
@@ -700,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (10), application (7), [[React.js|React]] (2), functional (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[HTML]] (1), [[npm]] (1)
 > **Env Vars:** css (10), html (1), npm (1)
 > **CLI Commands:** make (4), find (1), npm (1)
 > **Tools:** terminal (2)
@@ -709,12 +700,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** good practice (1)
 
-#### Use composes to leverage other styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980)
+#### [Use composes to leverage other styles](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=0)** - [Instructor] There might be cases where you need to leverage styles from other style sheets or classes, and this is where compose comes into play.
+> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=0)** - [Instructor] There might be cases where you need to leverage styles from other style sheets or classes, and this is where [[Jetpack Compose|compose]] comes into play.
 >
 > **[0:08](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=8)** So let me demonstrate.
 >
@@ -726,7 +716,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=38)** And then I'm going to go into the source folder.
 >
-> **[0:42](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=42)** We used to put the images in the public folder, but recent development with react.
+> **[0:42](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=42)** We used to put the images in the public folder, but recent development with [[React.js|react]].
 >
 > **[0:47](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=47)** Basically this allows us to put this into the public folder and then actually tag them or use them inside of our code here.
 >
@@ -868,7 +858,7 @@ created: 2026-05-02
 >
 > **[7:27](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=447)** Okay.
 >
-> **[7:28](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=448)** So now that we've defined all of our styles here, let's go into our JavaScript file and make sure first we import it.
+> **[7:28](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=448)** So now that we've defined all of our styles here, let's go into our [[JavaScript]] file and make sure first we import it.
 >
 > **[7:39](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/use-composes-to-leverage-other-styles?u=76281980&t=459)** So import styles from background dot module.
 >
@@ -916,7 +906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3), css (2), next (2), [[React.js|React]] (1), application (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3), [[React.js|React]] (1), [[JavaScript]] (1)
 > **Env Vars:** url (3), css (2)
 > **CLI Commands:** make (3)
 > **Tools:** terminal (2), visual studio (1)
@@ -925,8 +915,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is an  (1)
 > **Cross-References:** go back to (1)
 
-#### Set up your state and grid component
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/set-up-your-state-and-grid-component?u=76281980)
+#### [Set up your state and grid component](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/set-up-your-state-and-grid-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,7 +925,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/set-up-your-state-and-grid-component?u=76281980&t=10)** So the first thing I'm going to do is actually leverage some data that I created for you in the resources.
 >
-> **[0:16](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/set-up-your-state-and-grid-component?u=76281980&t=16)** So if you click on the exercise files, resources, you have a JSON file right here that's called NASA dot or underscore facts.
+> **[0:16](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/set-up-your-state-and-grid-component?u=76281980&t=16)** So if you click on the exercise files, resources, you have a [[JSON]] file right here that's called NASA dot or underscore facts.
 >
 > **[0:26](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/set-up-your-state-and-grid-component?u=76281980&t=26)** And what I want to do is copy that and close it.
 >
@@ -974,7 +963,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/set-up-your-state-and-grid-component?u=76281980&t=127)** Super props, and this is the template for most of your stateful components.
 >
-> **[2:13](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/set-up-your-state-and-grid-component?u=76281980&t=133)** So if you're familiar with react, you're familiar with this.
+> **[2:13](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/set-up-your-state-and-grid-component?u=76281980&t=133)** So if you're familiar with [[React.js|react]], you're familiar with this.
 >
 > **[2:17](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/set-up-your-state-and-grid-component?u=76281980&t=137)** So I'm going to create a state and I'm going to pass facts to it.
 >
@@ -1084,7 +1073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[React.js|React]] (4), [[JSON]] (2), css (2), database (2)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JSON]] (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** json (2), nasa (1), css (1)
 > **File Paths:** app.js (2), grid.module.css (1)
@@ -1093,8 +1082,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 
-#### Complete your grid item
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/complete-your-grid-item?u=76281980)
+#### [Complete your grid item](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/complete-your-grid-item?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1158,7 +1146,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/complete-your-grid-item?u=76281980&t=143)** So let's go ahead and do that.
 >
-> **[2:24](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/complete-your-grid-item?u=76281980&t=144)** So I'm going to open the grid items CSS and the grid item component, the JavaScript.
+> **[2:24](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/complete-your-grid-item?u=76281980&t=144)** So I'm going to open the grid items CSS and the grid item component, the [[JavaScript]].
 >
 > **[2:31](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/complete-your-grid-item?u=76281980&t=151)** So grid item.js.
 >
@@ -1356,7 +1344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (10), functional (2), [[JavaScript]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** css (9)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (2), open the (1), switch to (1)
@@ -1370,8 +1358,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic animation with CSS keyframes
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980)
+#### [Basic animation with CSS keyframes](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1391,7 +1378,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980&t=37)** So once you're ready.
 >
-> **[0:39](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980&t=39)** Let's go ahead and click on the GitHub logo right here.
+> **[0:39](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980&t=39)** Let's go ahead and click on the [[GitHub]] logo right here.
 >
 > **[0:42](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980&t=42)** So this is going to bring us to the actual source of the repo and the source of the actual animation, so the CSS code that is used to do the animation.
 >
@@ -1433,7 +1420,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980&t=158)** So if you were to do a rubberBand, they would do rubberBand and so on and so forth.
 >
-> **[2:42](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980&t=162)** So this is a quick way to add really cool automations to any of your applications inside of React, by leveraging animate.css.
+> **[2:42](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980&t=162)** So this is a quick way to add really cool automations to any of your applications inside of [[React.js|React]], by leveraging animate.css.
 >
 > **[2:52](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980&t=172)** So we've done a base animation.
 >
@@ -1441,7 +1428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), application (1), [[GitHub]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** rubberband (8)
 > **Env Vars:** css (5)
 > **File Paths:** module.css (1), animate.css (1)
@@ -1450,8 +1437,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
 
-#### SVG loading with state
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/svg-loading-with-state?u=76281980)
+#### [SVG loading with state](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/svg-loading-with-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1465,7 +1451,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/svg-loading-with-state?u=76281980&t=17)** And what I want to do is grab two files from the exercise files.
 >
-> **[0:21](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/svg-loading-with-state?u=76281980&t=21)** So if you click on the exercise files and you click on resources, you'll have two JavaScript files called Badge and Explorer.
+> **[0:21](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/svg-loading-with-state?u=76281980&t=21)** So if you click on the exercise files and you click on resources, you'll have two [[JavaScript]] files called Badge and Explorer.
 >
 > **[0:30](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/svg-loading-with-state?u=76281980&t=30)** So these are basically components that I've created with an SVG file inside of it.
 >
@@ -1571,7 +1557,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/svg-loading-with-state?u=76281980&t=357)** So now we have access to the on click.
 >
-> **[6:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/svg-loading-with-state?u=76281980&t=360)** That is the function that we can leverage in react.
+> **[6:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/svg-loading-with-state?u=76281980&t=360)** That is the function that we can leverage in [[React.js|react]].
 >
 > **[6:03](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/svg-loading-with-state?u=76281980&t=363)** So when we click on something, do something and that's the function that's going to happen.
 >
@@ -1643,7 +1629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), application (2), next (1), data (1), css (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[React.js|React]] (1)
 > **UI Navigation:** click on (9), open the (2), go to (1)
 > **Env Vars:** svg (5), nasa (1), css (1), nif (1), es6 (1)
 > **CLI Commands:** make (7)
@@ -1652,8 +1638,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 
-#### Add final elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980)
+#### [Add final elements](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1673,7 +1658,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=44)** I don't know if you remember, before we actually copied and pasted the files, and they had to be inside of the source folder.
 >
-> **[0:53](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=53)** Otherwise, React wouldn't recognize that.
+> **[0:53](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=53)** Otherwise, [[React.js|React]] wouldn't recognize that.
 >
 > **[0:56](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=56)** Well, that was when we actually were loading these files from a CSS file.
 >
@@ -1705,7 +1690,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=119)** So the first thing I want to show is the rocket.
 >
-> **[2:02](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=122)** So I'm going to bring the JavaScript file and the CSS module.
+> **[2:02](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=122)** So I'm going to bring the [[JavaScript]] file and the CSS module.
 >
 > **[2:06](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=126)** So the first thing I'm going to do is actually load the rocket right here.
 >
@@ -1835,7 +1820,7 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=444)** So when we load the page, it's going to play the launch, the rocket launch.
 >
-> **[7:28](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=448)** So where you actually load that is in the HTML file.
+> **[7:28](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=448)** So where you actually load that is in the [[HTML]] file.
 >
 > **[7:33](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/add-final-elements?u=76281980&t=453)** Let's go into the HTML file, like so.
 >
@@ -1941,7 +1926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (11), [[React.js|React]] (6), [[JavaScript]] (3), [[HTML]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[JavaScript]] (3), [[HTML]] (3)
 > **Env Vars:** css (8), nasa (3), html (3), mp3 (2), fyi (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (3), scroll down (2)
@@ -1950,12 +1935,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
 
-#### Media queries and combining styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980)
+#### [Media queries and combining styles](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=0)** - [Narrator] In CSS modules, you can do media queries the same way you've done it before with HTML.
+> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=0)** - [Narrator] In CSS modules, you can do media queries the same way you've done it before with [[HTML]].
 >
 > **[0:06](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=6)** It'll work too.
 >
@@ -1965,7 +1949,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=19)** So, the actual library that we're going to leverage to do that is this library, classnames.
 >
-> **[0:26](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=26)** So, the way to install it, basically you do, npm install classnames, and I'm going to do that inside of the application.
+> **[0:26](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=26)** So, the way to install it, basically you do, [[npm]] install classnames, and I'm going to do that inside of the application.
 >
 > **[0:33](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=33)** And I'm going to bring my terminal, stop the application with control + C, npm install class name.
 >
@@ -2015,7 +1999,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=169)** Okay, so we got our module.
 >
-> **[2:51](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=171)** Now let's compose these styles along with the styles that we already have for our grid.
+> **[2:51](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=171)** Now let's [[Jetpack Compose|compose]] these styles along with the styles that we already have for our grid.
 >
 > **[2:58](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=178)** So, what I'm going to do is actually open the Grid.js file here.
 >
@@ -2029,7 +2013,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=210)** And then we're going to use the brand new library we just installed, which is the classnames to compose those two styles or those two stylesheets into our section here.
 >
-> **[3:44](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=224)** So, how do you go about that is fairly simple inside of react.
+> **[3:44](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=224)** So, how do you go about that is fairly simple inside of [[React.js|react]].
 >
 > **[3:49](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/media-queries-and-combining-styles?u=76281980&t=229)** So, here, as opposed to do just styles, we're going to do something else.
 >
@@ -2153,7 +2137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[npm]] (3), application (2), [[Jetpack Compose|Compose]] (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[npm]] (3), [[Jetpack Compose|Compose]] (2), [[React.js|React]] (2), [[HTML]] (1)
 > **CLI Commands:** make (7), npm (3), find (1)
 > **Env Vars:** css (4), nasa (2), html (1)
 > **Tools:** terminal (5)
@@ -2167,12 +2151,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980&t=0)** - [Emmanuel] This course was an introduction to CSS modules in React applications.
+> **[0:00](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980&t=0)** - [Emmanuel] This course was an introduction to CSS modules in [[React.js|React]] applications.
 >
 > **[0:06](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980&t=6)** With the tools and syntax we've explored here, you should be able to use CSS modules in your next React Project.
 >
@@ -2188,7 +2171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[React.js|React]] (4), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **Env Vars:** css (5)
 > **Cross-References:** go back to (1)
 > **Documentation:** the docs (1)

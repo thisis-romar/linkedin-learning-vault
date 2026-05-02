@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basics of breakeven analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/the-basics-of-breakeven-analysis?u=76281980)
+#### [The basics of breakeven analysis](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/the-basics-of-breakeven-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,7 +137,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **Speakers:** - in (2), - [jim] (2), - i (2), - [kay] (1), - hi (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -148,8 +146,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of breakeven analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-breakeven-analysis-14748318?u=76281980)
+#### [Importance of breakeven analysis](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-breakeven-analysis-14748318?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -239,14 +236,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Speakers:** - well (3), - [kay] (3), - okay (3), - i (2), - [jim] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1)
 > **Prerequisites:** you need to have (1)
 
-#### Cost-volume-profit (CVP) analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/cost-volume-profit-cvp-analysis-14748315?u=76281980)
+#### [Cost-volume-profit (CVP) analysis](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/cost-volume-profit-cvp-analysis-14748315?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,7 +325,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), product (3)
 > **Env Vars:** cvp (5)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1)
@@ -341,8 +335,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When variable costs become fixed costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-variable-costs-become-fixed-costs-14753221?u=76281980)
+#### [When variable costs become fixed costs](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-variable-costs-become-fixed-costs-14753221?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,8 +405,7 @@ created: 2026-05-02
 > **Env Vars:** uaw (6)
 > **CLI Commands:** make (1)
 
-#### Breaking down fixed and variable costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breaking-down-fixed-and-variable-costs-14754111?u=76281980)
+#### [Breaking down fixed and variable costs](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breaking-down-fixed-and-variable-costs-14754111?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -507,7 +499,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1), product (1), business (1)
 > **Env Vars:** cvp (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -515,9 +506,9 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** required to (1)
+> **Speakers:** - all (1)
 
-#### Fixed and variable cost examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/fixed-and-variable-cost-examples-14754114?u=76281980)
+#### [Fixed and variable cost examples](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/fixed-and-variable-cost-examples-14754114?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,8 +614,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Pricing a service to cover costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/pricing-a-service-to-cover-costs-14751238?u=76281980)
+#### [Pricing a service to cover costs](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/pricing-a-service-to-cover-costs-14751238?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,7 +700,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Prerequisites:** required to (1)
@@ -721,8 +710,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying high contribution margins
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/identifying-high-contribution-margins?u=76281980)
+#### [Identifying high contribution margins](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/identifying-high-contribution-margins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,15 +770,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), generic (1), next (1)
 > **Speakers:** - now (4), - we (2), - a (1), - as (1), - i (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 
-#### Contribution margin and profitability
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/contribution-margin-and-profitability-14754112?u=76281980)
+#### [Contribution margin and profitability](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/contribution-margin-and-profitability-14754112?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +872,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), management (2), express (1), next (1)
 > **Env Vars:** cvp (7)
 > **Definitions:** is a  (2), is called (1), means that (1), in other words (1)
 > **Cross-References:** in the next (1)
@@ -894,8 +879,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - contribution (1)
 
-#### Calculate a company's breakeven point
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-a-company-s-breakeven-point-14750280?u=76281980)
+#### [Calculate a company's breakeven point](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-a-company-s-breakeven-point-14750280?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,7 +983,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), power (2), product (1), data (1), next (1)
 > **Env Vars:** cvp (5)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (2), defined as (1)
@@ -1007,9 +990,9 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** required to (1)
+> **Speakers:** - in (1)
 
-#### McDonald's breakeven point
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/mcdonald-s-breakeven-point-14749291?u=76281980)
+#### [McDonald's breakeven point](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/mcdonald-s-breakeven-point-14749291?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,7 +1006,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/mcdonald-s-breakeven-point-14749291?u=76281980&t=17)** This analysis applies to all companies operating in the fast food space, but we will use McDonald's because, well, it's McDonald's.
 >
-> **[0:25](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/mcdonald-s-breakeven-point-14749291?u=76281980&t=25)** First of all, to keep things simple, we're going to focus on McDonald's core products, hamburgers, fries, and drinks.
+> **[0:25](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/mcdonald-s-breakeven-point-14749291?u=76281980&t=25)** First of all, to keep things simple, we're going to focus on McDonald's core [[Microsoft Products|products]], hamburgers, fries, and drinks.
 >
 > **[0:33](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/mcdonald-s-breakeven-point-14749291?u=76281980&t=33)** Sure, they sell nuggets and they sell fish filet and they sell breakfast, but at their core, McDonald's sells burgers, fries, and drinks.
 >
@@ -1125,7 +1108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** cvp (1)
 > **Versions:** 2.50 (1)
@@ -1137,8 +1120,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to conduct breakeven analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-to-conduct-breakeven-analysis-14749292?u=76281980)
+#### [When to conduct breakeven analysis](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-to-conduct-breakeven-analysis-14749292?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,14 +1226,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), next (1), data (1)
 > **Speakers:** - [man (5), - of (2), - many (1), - 18 (1), - well (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 
-#### Breakeven equation and covering costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-equation-and-covering-costs-14755068?u=76281980)
+#### [Breakeven equation and covering costs](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-equation-and-covering-costs-14755068?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1299,7 +1279,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-equation-and-covering-costs-14755068?u=76281980&t=115)** We must sell 980 units each and every month to make nothing and to lose nothing, just to break even.
 >
-> **[2:04](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-equation-and-covering-costs-14755068?u=76281980&t=124)** Now, suppose we have a pretty good idea based on market research that the demand for our product is only about 950 units per month.
+> **[2:04](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-equation-and-covering-costs-14755068?u=76281980&t=124)** Now, suppose we have a pretty good idea based on [[Market Research]] that the demand for our product is only about 950 units per month.
 >
 > **[2:12](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-equation-and-covering-costs-14755068?u=76281980&t=132)** What to do?
 >
@@ -1339,15 +1319,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), business (3), [[Market Research]] (1), next (1)
+> **Frameworks & Libraries:** [[Market Research]] (1)
 > **Versions:** 8.30 (2), 2.25 (1), 4.25 (1), 1.80 (1), 13.75 (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** cvp (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Breakeven equations for an airline
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-equations-for-an-airline-14754115?u=76281980)
+#### [Breakeven equations for an airline](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-equations-for-an-airline-14754115?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1445,15 +1424,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), data (1)
 > **Versions:** 68.15 (3), 232.98 (2), 82.15 (2), 257.90 (1)
 > **Env Vars:** slc (1), lax (1), cvp (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (2)
 > **Speakers:** - to (1)
 
-#### Breakeven analysis for multiple products
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-analysis-for-multiple-products-14754117?u=76281980)
+#### [Breakeven analysis for multiple products](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-analysis-for-multiple-products-14754117?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1461,7 +1438,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-analysis-for-multiple-products-14754117?u=76281980&t=5)** We sold one type of seat on an airplane, we sold one type of meal at McDonald's.
 >
-> **[0:10](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-analysis-for-multiple-products-14754117?u=76281980&t=10)** What happens when there are multiple products or services being offered?
+> **[0:10](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-analysis-for-multiple-products-14754117?u=76281980&t=10)** What happens when there are multiple [[Microsoft Products|products]] or services being offered?
 >
 > **[0:14](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/breakeven-analysis-for-multiple-products-14754117?u=76281980&t=14)** The McDonald's menu has 40-plus options.
 >
@@ -1549,7 +1526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (1), business (1), data (1), traffic (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (4)
 > **Versions:** 27.54 (1)
 > **Cross-References:** go back to (1)
@@ -1562,8 +1539,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of total contribution margin
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-total-contribution-margin-14748316?u=76281980)
+#### [Importance of total contribution margin](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-total-contribution-margin-14748316?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1583,7 +1559,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-total-contribution-margin-14748316?u=76281980&t=39)** - Now, the problem is that, even though our friend is selling 40 orders per month, he's losing about $2,000 per month.
 >
-> **[0:46](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-total-contribution-margin-14748316?u=76281980&t=46)** Our friend's mistake is that when he thinks of the word cost, he's only thinking of his variable cost, the material cost and hourly wages he must pay for the completion of each order.
+> **[0:46](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-total-contribution-margin-14748316?u=76281980&t=46)** Our friend's mistake is that when he thinks of the [[Microsoft Word|word]] cost, he's only thinking of his variable cost, the material cost and hourly wages he must pay for the completion of each order.
 >
 > **[0:55](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-total-contribution-margin-14748316?u=76281980&t=55)** - [Instructor 1] He has $4,000 in fixed cost: building rent, insurance, and so forth.
 >
@@ -1635,12 +1611,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor (5), - now (3), - we (1), - let (1), - our (1)
 > **Definitions:** is a  (1)
 
-#### How to forecast a target profit
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/how-to-forecast-a-target-profit-14753219?u=76281980)
+#### [How to forecast a target profit](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/how-to-forecast-a-target-profit-14753219?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,21 +1679,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Env Vars:** cvp (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - now (1)
 
-#### Calculate McDonald's target profit
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-mcdonald-s-target-profit-14748319?u=76281980)
+#### [Calculate McDonald's target profit](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-mcdonald-s-target-profit-14748319?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-mcdonald-s-target-profit-14748319?u=76281980&t=0)** - We are going to go back to McDonald's and we are going to, using our knowledge of CVP analysis, see why they and their competitors are doing what they are doing in the fast food space.
 >
-> **[0:10](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-mcdonald-s-target-profit-14748319?u=76281980&t=10)** Now I have studied McDonald's financial statements quite a bit, and so we are going to lean on what I have gleaned from those financial statements to do the analysis that follows.
+> **[0:10](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-mcdonald-s-target-profit-14748319?u=76281980&t=10)** Now I have studied McDonald's [[Financial Statements]] quite a bit, and so we are going to lean on what I have gleaned from those financial statements to do the analysis that follows.
 >
 > **[0:20](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-mcdonald-s-target-profit-14748319?u=76281980&t=20)** In our prior analysis, we'd looked at the various product offerings to see why McDonald's pushes fries and drinks when they're trying to upsize a meal.
 >
@@ -1804,7 +1777,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-mcdonald-s-target-profit-14748319?u=76281980&t=236)** Being open 20 hours a day means that on average, they need 46 customers per hour in order to generate, in this example, a profit of $100,000 for the year.
 >
-> **[4:06](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-mcdonald-s-target-profit-14748319?u=76281980&t=246)** Now we can start to see how CVP analysis influences how many hours a day we are open and which products we emphasize in our ad campaigns.
+> **[4:06](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-mcdonald-s-target-profit-14748319?u=76281980&t=246)** Now we can start to see how CVP analysis influences how many hours a day we are open and which [[Microsoft Products|products]] we emphasize in our ad campaigns.
 >
 > **[4:15](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/calculate-mcdonald-s-target-profit-14748319?u=76281980&t=255)** We want to spread fixed costs over as many hours as possible, and we prefer selling high-margin items to lower-margin items.
 >
@@ -1812,7 +1785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (2), product (1), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Microsoft Products|Products]] (1)
 > **Ports:** :00 (6)
 > **Definitions:** is an  (2), means that (2)
 > **Env Vars:** cvp (3)
@@ -1826,8 +1799,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyzing a business before making changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/analyzing-a-business-before-making-changes?u=76281980)
+#### [Analyzing a business before making changes](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/analyzing-a-business-before-making-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1899,8 +1871,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** we talked about (1)
 
-#### What-if analysis for multiple scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/what-if-analysis-for-multiple-scenarios-14748321?u=76281980)
+#### [What-if analysis for multiple scenarios](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/what-if-analysis-for-multiple-scenarios-14748321?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1994,14 +1965,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (1)
 > **Env Vars:** cvp (3)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### Lessons for running a profitable company
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/lessons-for-running-a-profitable-company-14755065?u=76281980)
+#### [Lessons for running a profitable company](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/lessons-for-running-a-profitable-company-14755065?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2117,7 +2086,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), product (2), power (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (3)
 > **Warnings:** be careful (2), keep in mind (1)
@@ -2130,8 +2098,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Risks and rewards of fixed costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/risks-and-rewards-of-fixed-costs-14750282?u=76281980)
+#### [Risks and rewards of fixed costs](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/risks-and-rewards-of-fixed-costs-14750282?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2209,7 +2176,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), [[Security]] (1)
 > **Speakers:** - [instructor (6), - fixed (2), - yes (2), - i (1), - that (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is called (2), is a  (1)

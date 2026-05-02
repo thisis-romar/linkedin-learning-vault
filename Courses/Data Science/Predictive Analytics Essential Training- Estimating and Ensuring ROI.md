@@ -88,12 +88,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introduction?u=76281980&t=0)** - [Keith] Nothing is more important to the future of a predictive analytics team than showing that their projects are producing long-term value to the organization.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introduction?u=76281980&t=0)** - [Keith] Nothing is more important to the future of a [[Predictive Analytics]] team than showing that their projects are producing long-term value to the organization.
 >
 > **[0:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introduction?u=76281980&t=10)** Pure excitement about analytics will only take you so far.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), [[Predictive Analytics]] (1), leadership (1), data (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1)
 > **Env Vars:** roi (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [keith] (1)
@@ -121,12 +120,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Estimating ROI
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980)
+#### [Estimating ROI](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980&t=0)** - [Instructor] Predictive analytics has been around for decades.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980&t=0)** - [Instructor] [[Predictive Analytics]] has been around for decades.
 >
 > **[0:03](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980&t=3)** By now, nearly every organization is trying to participate at some level but so many are failing and so few are succeeding.
 >
@@ -134,9 +132,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980&t=27)** According to McKinsey, only a relative handful, what they call breakaway companies are extracting the lion's share of the value of analytics.
 >
-> **[0:38](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980&t=38)** One characteristic that these breakaway companies have is that they invest in the last mile, or embedding analytics into the core of all workflows and decision-making processes.
+> **[0:38](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980&t=38)** One characteristic that these breakaway companies have is that they invest in the last mile, or embedding analytics into the core of all workflows and [[Decision-Making]] processes.
 >
-> **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980&t=50)** To help us keep track of where we are in our journey, we will periodically refer to the cross-industry standard process for data mining or CRISP-DM.
+> **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980&t=50)** To help us keep track of where we are in our journey, we will periodically refer to the cross-industry standard process for [[Data Mining]] or [[CRISP-DM]].
 >
 > **[1:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980&t=60)** I have much more to say about CRISP-DM in my Essential Elements course.
 >
@@ -200,20 +198,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), [[CRISP-DM]] (4), data (2), [[Predictive Analytics]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (4), [[Predictive Analytics]] (1), [[Decision-Making]] (1), [[Data Mining]] (1)
 > **Env Vars:** crisp (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business considerations when measuring ROI
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/business-considerations-when-measuring-roi?u=76281980)
+#### [Business considerations when measuring ROI](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/business-considerations-when-measuring-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/business-considerations-when-measuring-roi?u=76281980&t=0)** - [Instructor] How do we measure ROI on a predictive analytics project?
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/business-considerations-when-measuring-roi?u=76281980&t=0)** - [Instructor] How do we measure ROI on a [[Predictive Analytics]] project?
 >
-> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/business-considerations-when-measuring-roi?u=76281980&t=4)** Don't we just take some measurable gain and then subtract the costs of the data science team?
+> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/business-considerations-when-measuring-roi?u=76281980&t=4)** Don't we just take some measurable gain and then subtract the costs of the [[Data Science]] team?
 >
 > **[0:09](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/business-considerations-when-measuring-roi?u=76281980&t=9)** Well, we could do that, but there's a potential source of debate.
 >
@@ -265,15 +262,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (3), [[Predictive Analytics]] (2), data (2), career (1), teams (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Data Science]] (2)
 > **CLI Commands:** make (3), find (3)
 > **Env Vars:** roi (2)
 > **Definitions:** is an  (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### ROI starts with problem definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/roi-starts-with-problem-definition?u=76281980)
+#### [ROI starts with problem definition](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/roi-starts-with-problem-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/roi-starts-with-problem-definition?u=76281980&t=157)** And this classic type of problem is deployment-friendly and allows you to estimate ROI more easily.
 >
-> **[2:46](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/roi-starts-with-problem-definition?u=76281980&t=166)** Emphasizing this kind of project is especially important if it's the first project of a newly formed data science team.
+> **[2:46](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/roi-starts-with-problem-definition?u=76281980&t=166)** Emphasizing this kind of project is especially important if it's the first project of a newly formed [[Data Science]] team.
 >
 > **[2:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/roi-starts-with-problem-definition?u=76281980&t=174)** That doesn't mean that you should never try to tackle a more abstract and/or more complicated problem, but that should be taken into account when you are trying to decide which projects should be done first and which ones get your time and attention.
 >
@@ -339,7 +335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Env Vars:** roi (5)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** find (1)
@@ -347,12 +343,11 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why estimating ROI is perceived to be challenging
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980)
+#### [Why estimating ROI is perceived to be challenging](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=0)** - [Instructor] Many analysts who I speak to about ROI and predictive analytics suggest that it's a fool's errand.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=0)** - [Instructor] Many analysts who I speak to about ROI and [[Predictive Analytics]] suggest that it's a fool's errand.
 >
 > **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=7)** How can you do it if you don't know how accurate the model is going to be?
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=36)** It seems to make sense, but let me make the counterargument.
 >
-> **[0:40](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=40)** In my experience, if you are overly focused on data, algorithms, and the overall accuracy of the models, you'll miss the point and get seduced by the fanciest models.
+> **[0:40](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=40)** In my experience, if you are overly focused on data, [[Algorithms]], and the overall accuracy of the models, you'll miss the point and get seduced by the fanciest models.
 >
 > **[0:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=54)** You might be tempted by them, even in instances where they are not the best choice.
 >
@@ -376,7 +371,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=65)** One of my favorite thought leaders in analytics is Tom Khabaza.
 >
-> **[1:09](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=69)** Tom's value law states, "The value of data mining results is not determined by the accuracy or stability of predictive models.
+> **[1:09](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=69)** Tom's value law states, "The value of [[Data Mining]] results is not determined by the accuracy or stability of predictive models.
 >
 > **[1:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/why-estimating-roi-is-perceived-to-be-challenging?u=76281980&t=80)** The value of a predictive model is not determined by any technical measure.
 >
@@ -398,7 +393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (4), [[Predictive Analytics]] (1), hit (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Algorithms]] (1), [[Data Mining]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** roi (1)
 > **UI Navigation:** go to (1)
@@ -410,8 +405,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the confusion matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introducing-the-confusion-matrix?u=76281980)
+#### [Introducing the confusion matrix](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introducing-the-confusion-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -449,7 +443,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introducing-the-confusion-matrix?u=76281980&t=83)** You do have strep, but the test says you don't.
 >
-> **[1:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introducing-the-confusion-matrix?u=76281980&t=87)** In statistics, these kinds of errors have special names.
+> **[1:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introducing-the-confusion-matrix?u=76281980&t=87)** In [[Statistics]], these kinds of errors have special names.
 >
 > **[1:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introducing-the-confusion-matrix?u=76281980&t=91)** Type I error is the name that statisticians associate with the false positives.
 >
@@ -488,8 +482,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### The possible outcomes when a micro decision is made
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-possible-outcomes-when-a-micro-decision-is-made?u=76281980)
+#### [The possible outcomes when a micro decision is made](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-possible-outcomes-when-a-micro-decision-is-made?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,13 +554,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** roi (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Estimating the overall size of the problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-the-overall-size-of-the-problem?u=76281980)
+#### [Estimating the overall size of the problem](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-the-overall-size-of-the-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,15 +610,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), business (1)
 > **Env Vars:** roi (4)
 > **CLI Commands:** make (2)
 > **Best Practices:** rule of thumb (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assigning value to the four possible outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/assigning-value-to-the-four-possible-outcomes?u=76281980)
+#### [Assigning value to the four possible outcomes](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/assigning-value-to-the-four-possible-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,7 +736,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (1), management (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** fbi (1), roi (1)
 > **Versions:** 2.5 (2)
@@ -755,8 +743,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### The impact of model performance on ROI
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-impact-of-model-performance-on-roi?u=76281980)
+#### [The impact of model performance on ROI](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-impact-of-model-performance-on-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,7 +779,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-impact-of-model-performance-on-roi?u=76281980&t=87)** First, the modelers.
 >
-> **[1:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-impact-of-model-performance-on-roi?u=76281980&t=88)** Some techniques notably decision trees have ways to influence the model's performance and explicitly direct it to reduce a particular kind of error even at the risk of sacrificing a bit of overall accuracy.
+> **[1:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-impact-of-model-performance-on-roi?u=76281980&t=88)** Some techniques notably [[Decision Trees]] have ways to influence the model's performance and explicitly direct it to reduce a particular kind of error even at the risk of sacrificing a bit of overall accuracy.
 >
 > **[1:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-impact-of-model-performance-on-roi?u=76281980&t=104)** It's a powerful tool to have in the modelers tool kit.
 >
@@ -804,17 +791,16 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-impact-of-model-performance-on-roi?u=76281980&t=136)** The data scientists and management should be careful to discuss this before the modeling phase so that you can take into account both the ROI analysis and management priorities during the modeling phase.
 >
-> **[2:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-impact-of-model-performance-on-roi?u=76281980&t=148)** Finalizing these risk and reward priorities during the evaluation phase is ultimately the responsibility of the business, not just the data science team.
+> **[2:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/the-impact-of-model-performance-on-roi?u=76281980&t=148)** Finalizing these risk and reward priorities during the evaluation phase is ultimately the responsibility of the business, not just the [[Data Science]] team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (2), [[Decision Trees]] (1), business (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1), [[Data Science]] (1)
 > **Env Vars:** roi (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [presenter] (1)
 
-#### Two other example scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/two-other-example-scenarios?u=76281980)
+#### [Two other example scenarios](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/two-other-example-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,7 +894,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Analogies:** imagine (2), for instance (1)
 > **Env Vars:** roi (2)
 > **Definitions:** is a  (1)
@@ -920,8 +905,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determining the cut-off on propensity scores for interventions
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980)
+#### [Determining the cut-off on propensity scores for interventions](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,7 +933,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980&t=84)** What you have to do is analyze in detail the implications of setting the number at 0.5 or some other choice that you might make.
 >
-> **[1:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980&t=94)** Here's the first thing you do, take a month's worth of claims in Excel, and simply sort descending on propensity score and now just count.
+> **[1:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980&t=94)** Here's the first thing you do, take a month's worth of claims in [[Microsoft Excel|Excel]], and simply sort descending on propensity score and now just count.
 >
 > **[1:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980&t=103)** You see it's not primarily about math, it's about bandwidth.
 >
@@ -1001,7 +985,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980&t=256)** These are big decisions.
 >
-> **[4:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980&t=258)** The best way to navigate this challenge is to make sure that the data science team understands the numbers and also understands management priorities from the very beginning well before the model is built, then once the final model or a handful of semi-finalist models have been chosen, the modeling team should spend a solid day looking over the numbers and becoming very well-prepared for an executive briefing.
+> **[4:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980&t=258)** The best way to navigate this challenge is to make sure that the [[Data Science]] team understands the numbers and also understands management priorities from the very beginning well before the model is built, then once the final model or a handful of semi-finalist models have been chosen, the modeling team should spend a solid day looking over the numbers and becoming very well-prepared for an executive briefing.
 >
 > **[4:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980&t=287)** Finally, you should all get together for a substantial meeting about an hour or more.
 >
@@ -1011,19 +995,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), business (1), [[Analytics]] (1), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Data Science]] (1)
 > **Versions:** 0.5 (2), 1.0 (1), 0.51 (1), 0.9 (1), 0.8 (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### A/B testing and partial rollout during the evaluation phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/a-b-testing-and-partial-rollout-during-the-evaluation-phase?u=76281980)
+#### [A/B testing and partial rollout during the evaluation phase](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/a-b-testing-and-partial-rollout-during-the-evaluation-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/a-b-testing-and-partial-rollout-during-the-evaluation-phase?u=76281980&t=0)** - [Presenter] In the cross industry standard process for data mining, model assessment as a task during the modeling phase and that's when technical measures of accuracy are applied to choose the best model.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/a-b-testing-and-partial-rollout-during-the-evaluation-phase?u=76281980&t=0)** - [Presenter] In the cross industry standard process for [[Data Mining]], model assessment as a task during the modeling phase and that's when technical measures of accuracy are applied to choose the best model.
 >
 > **[0:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/a-b-testing-and-partial-rollout-during-the-evaluation-phase?u=76281980&t=12)** But the evaluation phase is where business criteria are the basis of judging the model's effectiveness.
 >
@@ -1043,7 +1026,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/a-b-testing-and-partial-rollout-during-the-evaluation-phase?u=76281980&t=71)** The best way to test the model, the human computer collaboration and the rollout plan is an A/B test.
 >
-> **[1:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/a-b-testing-and-partial-rollout-during-the-evaluation-phase?u=76281980&t=79)** I recommend recruiting the team region, office, product line or manager that's going to participate early in the project.
+> **[1:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/a-b-testing-and-partial-rollout-during-the-evaluation-phase?u=76281980&t=79)** I recommend recruiting the team region, [[Microsoft Office|office]], product line or manager that's going to participate early in the project.
 >
 > **[1:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/a-b-testing-and-partial-rollout-during-the-evaluation-phase?u=76281980&t=90)** It is rare that you can pick a test site at random.
 >
@@ -1061,13 +1044,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (2), [[Microsoft Office|Office]] (1), product (1), parallel (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** roi (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Understanding the monitoring phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/understanding-the-monitoring-phase?u=76281980)
+#### [Understanding the monitoring phase](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/understanding-the-monitoring-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,7 +1069,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/understanding-the-monitoring-phase?u=76281980&t=52)** But if you've chosen the project well and the model has performed well, you will have ample evidence that you have achieved a solid ROI.
 >
-> **[1:03](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/understanding-the-monitoring-phase?u=76281980&t=63)** Remember, that as a rough rule of thumb, you're seeking more than a million dollars in improvement before subtracting the cost of the data science team.
+> **[1:03](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/understanding-the-monitoring-phase?u=76281980&t=63)** Remember, that as a rough rule of thumb, you're seeking more than a million dollars in improvement before subtracting the cost of the [[Data Science]] team.
 >
 > **[1:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/understanding-the-monitoring-phase?u=76281980&t=73)** No-one will attribute that to chance.
 >
@@ -1097,18 +1079,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Env Vars:** roi (1)
 > **Best Practices:** rule of thumb (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Revisiting ROI 12 months after deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/revisiting-roi-12-months-after-deployment?u=76281980)
+#### [Revisiting ROI 12 months after deployment](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/revisiting-roi-12-months-after-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/revisiting-roi-12-months-after-deployment?u=76281980&t=0)** - [Instructor] CRISP-DM places the plan monitoring and maintenance task in the deployment phase.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/revisiting-roi-12-months-after-deployment?u=76281980&t=0)** - [Instructor] [[CRISP-DM]] places the plan monitoring and maintenance task in the deployment phase.
 >
 > **[0:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/revisiting-roi-12-months-after-deployment?u=76281980&t=6)** These days, some consider monitoring as a seventh phase.
 >
@@ -1120,7 +1101,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/revisiting-roi-12-months-after-deployment?u=76281980&t=33)** Why is monitoring necessary?
 >
-> **[0:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/revisiting-roi-12-months-after-deployment?u=76281980&t=36)** Supervised learning models degrade.
+> **[0:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/revisiting-roi-12-months-after-deployment?u=76281980&t=36)** [[Supervised Learning]] models degrade.
 >
 > **[0:39](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/revisiting-roi-12-months-after-deployment?u=76281980&t=39)** Their accuracy will decrease over time even if you are refreshing and rebuilding the model.
 >
@@ -1168,7 +1149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CRISP-DM]] (2), business (2), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (2), [[Supervised Learning]] (1)
 > **Env Vars:** roi (3), crisp (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1179,8 +1160,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,7 +1172,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=21)** The next course to consider depends on if you're a data scientist or an executive.
 >
-> **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=25)** There's an interesting connection between this course and my [[Predictive Analytics Essential Training For Executives]].
+> **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=25)** There's an interesting connection between this course and my [[[[Predictive Analytics]] Essential Training For Executives]].
 >
 > **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=32)** In that course I make the case that estimating ROI is important.
 >
@@ -1204,7 +1184,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=54)** I hope that you'll take advantage of the Q and A feature right here in the library.
 >
-> **[0:59](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=59)** And also I encourage you to follow me on LinkedIn.
+> **[0:59](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=59)** And also I encourage you to follow me on [[LinkedIn]].
 >
 > **[1:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980&t=61)** I'm incredibly proud of my courses in the library.
 >
@@ -1212,7 +1192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[Predictive Analytics]] (1), ai (1), feature (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[LinkedIn]] (1)
 > **Env Vars:** roi (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)

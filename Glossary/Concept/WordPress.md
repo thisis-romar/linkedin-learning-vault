@@ -41,7 +41,7 @@ created: 2026-05-02
 10. [[WordPress- Everything about Plugins]] — 67 mentions
 
 > [!note]- See all 76 courses
-> 11. [[Offensive Penetration Testing]] — 62 mentions
+> 11. [[Offensive Penetration Testing]] — 63 mentions
 > 12. [[WordPress Ecommerce- WooCommerce]] — 52 mentions
 > 13. [[Wordpress Ecommerce]] — 46 mentions
 > 14. [[WordPress- Staging a Site]] — 46 mentions
@@ -113,7 +113,7 @@ created: 2026-05-02
 1. [[Advance Your Skills in WordPress]] — 944 total mentions
 2. [[Getting Started with WordPress]] — 472 total mentions
 3. [[Build Your WordPress Ecommerce Skills]] — 307 total mentions
-4. [[Penetration Testing Professional Certificate by Cybrary]] — 62 total mentions
+4. [[Penetration Testing Professional Certificate by Cybrary]] — 63 total mentions
 5. [[Become a Full-Stack Web Developer]] — 37 total mentions
 6. [[Become a Penetration Tester]] — 34 total mentions
 7. [[Become a RESTful API Developer]] — 32 total mentions

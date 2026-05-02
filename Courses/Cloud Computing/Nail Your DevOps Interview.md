@@ -101,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transform your career in DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/transform-your-career-in-devops-18731967?u=76281980)
+#### [Transform your career in DevOps](https://www.linkedin.com/learning/nail-your-devops-interview/transform-your-career-in-devops-18731967?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/nail-your-devops-interview/transform-your-career-in-devops-18731967?u=76281980&t=19)** I'll share with you some of the questions you might encounter, methods for answering those questions, and walk you through some challenges that might be presented during your interview.
 >
-> **[0:28](https://www.linkedin.com/learning/nail-your-devops-interview/transform-your-career-in-devops-18731967?u=76281980&t=28)** Hi, I'm Michael Jenkins and I've been on both sides of the table as an interviewer and a candidate.
+> **[0:28](https://www.linkedin.com/learning/nail-your-devops-interview/transform-your-career-in-devops-18731967?u=76281980&t=28)** Hi, I'm Michael [[Jenkins]] and I've been on both sides of the table as an interviewer and a candidate.
 >
 > **[0:35](https://www.linkedin.com/learning/nail-your-devops-interview/transform-your-career-in-devops-18731967?u=76281980&t=35)** I want to amplify your skills with tools and techniques that elevate you from being just another applicant to being the best candidate for the job.
 >
@@ -124,26 +123,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1)
 > **Speakers:** - are (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=0)** - For this course, I'm assuming you have a background in or experience with system administration or software development.
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=0)** - For this course, I'm assuming you have a background in or experience with [[System Administration]] or [[Software Development]].
 >
-> **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=7)** I'll be focusing on techniques that you can use during your interview to answer questions around DevOps business practices, common DevOps skills, cloud services, and web applications.
+> **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=7)** I'll be focusing on techniques that you can use during your interview to answer questions around [[DevOps]] business practices, common DevOps skills, [[Cloud Services]], and web applications.
 >
 > **[0:18](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=18)** So the more familiar you are with those topics, the better position you'll be to apply the techniques for answering questions related to them.
 >
 > **[0:26](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=26)** We'll be discussing these topics at a high level, so if you need more information, I suggest you take a look at the learning path, Become a DevOps Engineer.
 >
-> **[0:35](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=35)** You can find that right here in the LinkedIn learning library.
+> **[0:35](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=35)** You can find that right here in the [[LinkedIn]] learning library.
 >
-> **[0:39](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=39)** The learning path includes courses on the foundations of DevOps, configuration management infrastructure as code, and much more.
+> **[0:39](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=39)** The learning path includes courses on the foundations of DevOps, [[Configuration Management]] [[Infrastructure as code (IaC)|infrastructure as code]], and much more.
 >
 > **[0:48](https://www.linkedin.com/learning/nail-your-devops-interview/what-you-should-know-18732977?u=76281980&t=48)** This course will also be slightly different than other interview prep courses.
 >
@@ -161,23 +159,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), [[System Administration]] (1), [[Software Development]] (1), business (1), cloud (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[System Administration]] (1), [[Software Development]] (1), [[Cloud Services]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** assuming you have (1)
 > **Speakers:** - for (1)
 
-#### DevOps vs. SRE vs. automation engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/devops-vs-sre-vs-automation-engineer-18731975?u=76281980)
+#### [DevOps vs. SRE vs. automation engineer](https://www.linkedin.com/learning/nail-your-devops-interview/devops-vs-sre-vs-automation-engineer-18731975?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/devops-vs-sre-vs-automation-engineer-18731975?u=76281980&t=0)** - If you take a look at the descriptions for jobs that follow a DevOps methodology, you may be surprised to find that there are a lot of different titles, such as DevOps, engineer, site reliability engineer, automation engineer, platform engineer, build engineer, QA engineer, and many others.
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/devops-vs-sre-vs-automation-engineer-18731975?u=76281980&t=0)** - If you take a look at the descriptions for jobs that follow a [[DevOps]] methodology, you may be surprised to find that there are a lot of different titles, such as DevOps, engineer, site reliability engineer, automation engineer, platform engineer, build engineer, QA engineer, and many others.
 >
 > **[0:19](https://www.linkedin.com/learning/nail-your-devops-interview/devops-vs-sre-vs-automation-engineer-18731975?u=76281980&t=19)** There are also some proponents of DevOps that say DevOps is a culture and not a job and it shouldn't be part of a title.
 >
 > **[0:26](https://www.linkedin.com/learning/nail-your-devops-interview/devops-vs-sre-vs-automation-engineer-18731975?u=76281980&t=26)** And others say using DevOps in a title empowers a person to implement change where needed.
 >
-> **[0:32](https://www.linkedin.com/learning/nail-your-devops-interview/devops-vs-sre-vs-automation-engineer-18731975?u=76281980&t=32)** If you can, I want you to look past the title and focus on the requirements of the job that you're interviewing for.
+> **[0:32](https://www.linkedin.com/learning/nail-your-devops-interview/devops-vs-sre-vs-automation-engineer-18731975?u=76281980&t=32)** If you can, I want you to look past the title and focus on the requirements of the job that you're [[Interviewing]] for.
 >
 > **[0:38](https://www.linkedin.com/learning/nail-your-devops-interview/devops-vs-sre-vs-automation-engineer-18731975?u=76281980&t=38)** If the requirements call for a DevOps mindset, then you're headed in the right direction.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), [[Automation]] (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Interviewing]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -198,8 +195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for the interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980)
+#### [Preparing for the interview](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,17 +243,17 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=126)** You want to demonstrate what you're ready and willing to offer versus what you're hoping to gain.
 >
-> **[2:11](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=131)** Let's assume I'm interviewing for a position as a site reliability engineer and I'm asked to share a little bit about myself.
+> **[2:11](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=131)** Let's assume I'm [[Interviewing]] for a position as a site reliability engineer and I'm asked to share a little bit about myself.
 >
 > **[2:19](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=139)** Here's how I would respond.
 >
 > **[2:21](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=141)** My name is Michael.
 >
-> **[2:22](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=142)** I have a BS and MS in computer engineering from Iowa State University, go Clones, with experience in system administration and process automation.
+> **[2:22](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=142)** I have a BS and MS in computer engineering from Iowa State University, go Clones, with experience in [[System Administration]] and process automation.
 >
-> **[2:32](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=152)** I understand that this role requires proficiency with deploying Python applications to cloud platforms, and I'm excited to learn about the types of applications you're deploying.
+> **[2:32](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=152)** I understand that this role requires proficiency with deploying [[Python (Programming Language)|Python]] applications to cloud platforms, and I'm excited to learn about the types of applications you're deploying.
 >
-> **[2:41](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=161)** I'm hopeful that my experience with Django and AWS will be a good fit for the position.
+> **[2:41](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=161)** I'm hopeful that my experience with [[Django]] and AWS will be a good fit for the position.
 >
 > **[2:48](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980&t=168)** See? That wasn't so bad, was it?
 >
@@ -291,15 +287,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (1), [[Engineering]] (1), [[System Administration]] (1), [[Automation]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[System Administration]] (1), [[Python (Programming Language)|Python]] (1), [[Django]] (1)
 > **CLI Commands:** make (3), python (1), aws (1)
 > **Env Vars:** aws (1)
 > **Versions:** 99.99 (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - one (1)
 
-#### Researching the opportunity
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/researching-the-opportunity-18736245?u=76281980)
+#### [Researching the opportunity](https://www.linkedin.com/learning/nail-your-devops-interview/researching-the-opportunity-18736245?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,7 +304,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/researching-the-opportunity-18736245?u=76281980&t=7)** Now I want you to take that research one step further in preparation for your interview.
 >
-> **[0:13](https://www.linkedin.com/learning/nail-your-devops-interview/researching-the-opportunity-18736245?u=76281980&t=13)** First, I want you to go back and look at the job description for the position you're interviewing for.
+> **[0:13](https://www.linkedin.com/learning/nail-your-devops-interview/researching-the-opportunity-18736245?u=76281980&t=13)** First, I want you to go back and look at the job description for the position you're [[Interviewing]] for.
 >
 > **[0:19](https://www.linkedin.com/learning/nail-your-devops-interview/researching-the-opportunity-18736245?u=76281980&t=19)** Make a note of the skills and the requirements for the position, then align them with your skills and experience.
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/nail-your-devops-interview/researching-the-opportunity-18736245?u=76281980&t=140)** As you're scheduling the interview, see if you can find out who will be conducting the interview.
 >
-> **[2:26](https://www.linkedin.com/learning/nail-your-devops-interview/researching-the-opportunity-18736245?u=76281980&t=146)** If you can get the name and possibly the title of the person you'll be meeting, you can take a look at their LinkedIn profile or any other publicly available information to get some details about them.
+> **[2:26](https://www.linkedin.com/learning/nail-your-devops-interview/researching-the-opportunity-18736245?u=76281980&t=146)** If you can get the name and possibly the title of the person you'll be meeting, you can take a look at their [[LinkedIn]] profile or any other publicly available information to get some details about them.
 >
 > **[2:37](https://www.linkedin.com/learning/nail-your-devops-interview/researching-the-opportunity-18736245?u=76281980&t=157)** Don't be invasive or disrespectful with your questions, keep it professional.
 >
@@ -369,16 +364,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** job description (2), [[Interviewing]] (2), product (2), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Speakers:** - if (1)
 
-#### Getting DevOps experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980)
+#### [Getting DevOps experience](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=0)** - Many job descriptions for DevOps roles will mention that a certain level of experience is needed.
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=0)** - Many job descriptions for [[DevOps]] roles will mention that a certain level of experience is needed.
 >
 > **[0:06](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=6)** So, you might be wondering, if I'm not in a DevOps role now, how can I get the experience I need?
 >
@@ -396,11 +390,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=37)** Or if you're a systems administrator, learn how to use command line tools to automate the things that you normally do manually, and learning how to apply DevOps principles shouldn't cost you very much money.
 >
-> **[0:51](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=51)** Many DevOps tools are open-source, and are available for free.
+> **[0:51](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=51)** Many [[DevOps Tools]] are open-source, and are available for free.
 >
 > **[0:56](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=56)** Also, all of the major cloud providers provide Free Tiers, that give access to their resources for up to a year.
 >
-> **[1:03](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=63)** Take advantage of these free tiers to learn all you can about the resources that are available, and how to interface with them programmatically, using command line interfaces and software development kits.
+> **[1:03](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=63)** Take advantage of these free tiers to learn all you can about the resources that are available, and how to interface with them programmatically, using command line interfaces and [[Software Development]] kits.
 >
 > **[1:15](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=75)** You can also get experience by working on open-source projects.
 >
@@ -408,7 +402,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=84)** These projects are often looking for contributors to help keep the code up-to-date.
 >
-> **[1:29](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=89)** So, you can go to [github.com](https://github.com) and search for your favorite open-source application, and see if you can make a contribution.
+> **[1:29](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=89)** So, you can go to [[[GitHub]].com](https://github.com) and search for your favorite open-source application, and see if you can make a contribution.
 >
 > **[1:37](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=97)** One of the easiest ways to get started with making open-source contributions is to update documentation.
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=121)** If you feel you need a verifiable type of experience, I would suggest that you do Pro Bono work.
 >
-> **[2:07](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=127)** Nonprofit organizations in your community, and national organizations like the Taproot Foundation are constantly searching for professionals to volunteer their skills and time to provide technical solutions.
+> **[2:07](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=127)** [[Nonprofit Organizations]] in your community, and national organizations like the Taproot Foundation are constantly searching for professionals to volunteer their skills and time to provide technical solutions.
 >
 > **[2:21](https://www.linkedin.com/learning/nail-your-devops-interview/getting-devops-experience-18735236?u=76281980&t=141)** Also, the benefit of working with a public nonprofit is that, if the solution is something you can share publicly, like a website or a mobile application, for example, you can add that to your portfolio and share it with potential employers.
 >
@@ -428,7 +422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (7), [[DevOps]] (6), cloud (2), [[DevOps Tools]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[DevOps Tools]] (2), [[Software Development]] (1), [[GitHub]] (1), [[Nonprofit Organizations]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** command line (2), github (1)
 > **Documentation:** the documentation (2)
@@ -437,12 +431,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - many (1)
 
-#### Certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980)
+#### [Certifications](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=0)** - As you prepare to interview for a DevOps role, you may be asking yourself is the certification really necessary?
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=0)** - As you prepare to interview for a [[DevOps]] role, you may be asking yourself is the certification really necessary?
 >
 > **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=7)** Before I answer that question let's briefly discuss certifications in general.
 >
@@ -482,7 +475,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=137)** If it's not a requirement for you to have a certification but you go out and get one anyway, then that takes a special sort of fortitude to want something, go through the steps to acquire it, and eventually achieve it.
 >
-> **[2:30](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=150)** And when you're interviewing for a job, that accomplishment can speak volumes about your qualifications as a candidate for the position without you having to say anything.
+> **[2:30](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=150)** And when you're [[Interviewing]] for a job, that accomplishment can speak volumes about your qualifications as a candidate for the position without you having to say anything.
 >
 > **[2:40](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=160)** Simply put, your certification can speak for itself.
 >
@@ -500,15 +493,15 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=199)** So if you are interviewing for a company that has a large footprint in AWS, you might consider the AWS Certified Solutions Architect or Certified CIS ops Engineer certificates.
 >
-> **[3:31](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=211)** And the same is true for certificates with Google Cloud and Microsoft Azure.
+> **[3:31](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=211)** And the same is true for certificates with [[Google Cloud Platform (GCP)|Google Cloud]] and [[Microsoft Azure]].
 >
 > **[3:37](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=217)** Regardless of your background and regardless of your role in a DevOps organization, I think that everyone should have some sort of cloud certification to prove that they, first of all understand the benefits of cloud, and second, know how to use it to a company's advantage.
 >
-> **[3:53](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=233)** Operating systems have a big impact on the way that we run and manage software, so getting certified in an operating system like Red Hat Linux for example, exposes you to specific details on how to use the resources that an operating system provides.
+> **[3:53](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=233)** Operating systems have a big impact on the way that we run and manage software, so getting certified in an operating system like [[Red Hat Linux]] for example, exposes you to specific details on how to use the resources that an operating system provides.
 >
 > **[4:09](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=249)** You often see different levels of operating system certifications with architect being the top level.
 >
-> **[4:16](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=256)** Attaining that level can be ideal if you would like to go into cloud architecture or system architecture, because knowing the operating system as a foundation goes a long way in building solutions that are reliable and optimal.
+> **[4:16](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=256)** Attaining that level can be ideal if you would like to go into cloud architecture or [[System Architecture]], because knowing the operating system as a foundation goes a long way in building solutions that are reliable and optimal.
 >
 > **[4:31](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=271)** And finally, you can get certified in specific tools.
 >
@@ -516,21 +509,20 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=281)** There are so many tools in the DevOp space that you can easily become overwhelmed wondering which tool certification is the right one for you.
 >
-> **[4:49](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=289)** Also, DevOps tools change so frequently, the tool you get certified for today may not be the best tool for the job a year from now.
+> **[4:49](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=289)** Also, [[DevOps Tools]] change so frequently, the tool you get certified for today may not be the best tool for the job a year from now.
 >
-> **[4:58](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=298)** However, if you force me to answer, "Which tool is the most important," I still won't say one specific tool, but I would suggest tools that enable application deployments, configuration management, and I would further narrow that to include tools that work effectively with container-based applications.
+> **[4:58](https://www.linkedin.com/learning/nail-your-devops-interview/certifications-18734830?u=76281980&t=298)** However, if you force me to answer, "Which tool is the most important," I still won't say one specific tool, but I would suggest tools that enable application deployments, [[Configuration Management]], and I would further narrow that to include tools that work effectively with container-based applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), cloud (4), [[Interviewing]] (3), application (2), career (2)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Interviewing]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure]] (1), [[Red Hat Linux]] (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), cis (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### Methods for answering questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/methods-for-answering-questions-18732971?u=76281980)
+#### [Methods for answering questions](https://www.linkedin.com/learning/nail-your-devops-interview/methods-for-answering-questions-18732971?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,11 +586,11 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/nail-your-devops-interview/methods-for-answering-questions-18732971?u=76281980&t=190)** And while many people dread or even frown on whiteboarding in interviews, using the show-and-tell method you can demonstrate your confidence and expertise in a situation where many people struggle.
 >
-> **[3:22](https://www.linkedin.com/learning/nail-your-devops-interview/methods-for-answering-questions-18732971?u=76281980&t=202)** As we go over different questions in the course, I'll show you how to use these methods to align your responses with the interest of the interviewer and the requirements of the position you're interviewing for.
+> **[3:22](https://www.linkedin.com/learning/nail-your-devops-interview/methods-for-answering-questions-18732971?u=76281980&t=202)** As we go over different questions in the course, I'll show you how to use these methods to align your responses with the interest of the interviewer and the requirements of the position you're [[Interviewing]] for.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), next (2), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **Env Vars:** thx (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -609,14 +601,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980)
+#### [Defining DevOps](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980&t=0)** - How do you define DevOps and what does DevOps mean to you?
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980&t=0)** - How do you define [[DevOps]] and what does DevOps mean to you?
 >
-> **[0:04](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980&t=4)** - This may be one of the earlier questions you get in your interview because it sets the tone for the rest of the discussion.
+> **[0:04](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980&t=4)** - This may be one of the earlier questions you get in your interview because it sets the tone for the [[Representational State Transfer (REST)|rest]] of the discussion.
 >
 > **[0:11](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980&t=11)** Your understanding of DevOps and its core ties into the parts that make up DevOps as a whole.
 >
@@ -638,7 +629,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980&t=78)** This builds confidence in both teams' ability to successfully deliver a product or solution.
 >
-> **[1:25](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980&t=85)** Some key points for automation include revision control with pull requests, continuous integration, and configuration management.
+> **[1:25](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980&t=85)** Some key points for automation include revision control with pull requests, [[Continuous Integration (CI)|continuous integration]], and [[Configuration Management]].
 >
 > **[1:34](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980&t=94)** Measure is used to track improvement.
 >
@@ -664,19 +655,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (11), [[DevOps]] (9), [[Automation]] (4), [[Representational State Transfer (REST)|Rest]] (1), product (1)
+> **Frameworks & Libraries:** [[DevOps]] (9), [[Representational State Transfer (REST)|Rest]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Configuration Management]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - how (1), - this (1)
 > **Env Vars:** cams (1)
 > **Analogies:** for example (1)
 
-#### The DevOps lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/the-devops-lifecycle-18733947?u=76281980)
+#### [The DevOps lifecycle](https://www.linkedin.com/learning/nail-your-devops-interview/the-devops-lifecycle-18733947?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/the-devops-lifecycle-18733947?u=76281980&t=0)** - Along with being able to define DevOps, you should also be familiar with the DevOps lifecycle.
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/the-devops-lifecycle-18733947?u=76281980&t=0)** - Along with being able to define [[DevOps]], you should also be familiar with the DevOps lifecycle.
 >
 > **[0:06](https://www.linkedin.com/learning/nail-your-devops-interview/the-devops-lifecycle-18733947?u=76281980&t=6)** The DevOps lifecycle consists of eight stages in the planning, development and operation of a system or software application.
 >
@@ -694,19 +684,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), application (2), teams (1)
+> **Frameworks & Libraries:** [[DevOps]] (4)
 > **Speakers:** - along (1)
 
-#### Lean vs. agile vs. DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980)
+#### [Lean vs. agile vs. DevOps](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=0)** - In your opinion, what are the differences between lean software development, [[Agile Software Development]], and DevOps?
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=0)** - In your opinion, what are the differences between lean [[Software Development]], [[[[Agile Software Development]]]], and [[DevOps]]?
 >
-> **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=7)** - You're likely to get this question if you're interviewing for a job that's closely aligned with software development.
+> **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=7)** - You're likely to get this question if you're [[Interviewing]] for a job that's closely aligned with software development.
 >
-> **[0:14](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=14)** The best approach is to use the definition method to define lean and agile before offering a comparison.
+> **[0:14](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=14)** The best approach is to use the definition method to define lean and [[Agile Development|agile]] before offering a comparison.
 >
 > **[0:22](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=22)** Lean is an approach to software development focused on optimizing development resources with the initial goal of delivering a minimum viable product, also known as an MVP.
 >
@@ -714,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=46)** Agile is actually a framework for multiple approaches to project management.
 >
-> **[0:51](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=51)** The Scrum approach is the one that's most often referred to.
+> **[0:51](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=51)** The [[Scrum]] approach is the one that's most often referred to.
 >
 > **[0:56](https://www.linkedin.com/learning/nail-your-devops-interview/lean-vs-agile-vs-devops-18734824?u=76281980&t=56)** Using this method, development teams work on application features in two-week periods called sprints.
 >
@@ -752,22 +741,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), teams (6), [[DevOps]] (5), [[Software Development]] (3), application (3)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[DevOps]] (5), [[Software Development]] (3), [[Interviewing]] (2), [[Agile Software Development]] (1)
 > **Env Vars:** mvp (2)
 > **Definitions:** is an  (1), known as (1)
 > **Speakers:** - in (1), - you (1)
 > **Analogies:** for example (1)
 
-#### CI/CD
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980)
+#### [CI/CD](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=0)** - How would you explain continuous integration and continuous delivery, and what's your experience with automating deployments?
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=0)** - How would you explain [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]], and what's your experience with automating deployments?
 >
 > **[0:08](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=8)** - The best method for answering this question is the definition method.
 >
-> **[0:12](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=12)** If you're going into a DevOps role, you must be able to easily and concisely explain CI/CD.
+> **[0:12](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=12)** If you're going into a [[DevOps]] role, you must be able to easily and concisely explain CI/CD.
 >
 > **[0:19](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=19)** For a refresher, let's go over continuous integration continuous delivery and let's also include continuous deployment.
 >
@@ -799,21 +787,21 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=118)** However, there are a few popular tools that it helps to be familiar with.
 >
-> **[2:03](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=123)** In my LinkedIn Learning course, [[Continuous Integration- Tools]], I describe four categories of CI/CD tools.
+> **[2:03](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=123)** In my [[LinkedIn]] Learning course, [[Continuous Integration- Tools]], I describe four categories of CI/CD tools.
 >
-> **[2:10](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=130)** Self-hosted, Software as a Service, cloud service providers, and code repositories.
+> **[2:10](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=130)** Self-hosted, [[SaaS|Software as a Service]], cloud service providers, and code repositories.
 >
-> **[2:16](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=136)** Self-Hosted tools include tools that you install and configure yourself, like Bamboo, Teamcity, and my personal favorite, Jenkins.
+> **[2:16](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=136)** Self-Hosted tools include tools that you install and configure yourself, like Bamboo, Teamcity, and my personal favorite, [[Jenkins]].
 >
-> **[2:26](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=146)** Tools that fit into the Software as a Service, or SaaS category, offer an alternative to self-hosting.
+> **[2:26](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=146)** Tools that fit into the Software as a Service, or [[SaaS]] category, offer an alternative to self-hosting.
 >
 > **[2:32](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=152)** These are cloud-based tools like Travis CI, Codeship, and CircleCI.
 >
 > **[2:38](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=158)** The next category is an extension of the Software as a Service category.
 >
-> **[2:43](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=163)** Cloud service providers like AWS, Google Cloud, and Azure, offer SaaS-based CI/CD tools along with their cloud-based services.
+> **[2:43](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=163)** Cloud service providers like AWS, [[Google Cloud Platform (GCP)|Google Cloud]], and [[Microsoft Azure|Azure]], offer SaaS-based CI/CD tools along with their cloud-based services.
 >
-> **[2:53](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=173)** And rounding out the group, Code Repositories service providers like GitHub, GitLab, and BitBucket, provide CI/CD services along with tracking code.
+> **[2:53](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=173)** And rounding out the group, Code Repositories service providers like [[GitHub]], GitLab, and [[Bitbucket]], provide CI/CD services along with tracking code.
 >
 > **[3:03](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=183)** This is great for DevOps because the pipeline definitions and specifications for infrastructure can be tracked right along with the application code.
 >
@@ -827,7 +815,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=214)** Using Jenkins, I develop all kinds of automation, including deployments.
 >
-> **[3:39](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=219)** One of my favorite deployments was for Drupal application that included integrations with a database, a DNS server, and a monitoring server.
+> **[3:39](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=219)** One of my favorite deployments was for [[Drupal]] application that included integrations with a database, a DNS server, and a monitoring server.
 >
 > **[3:47](https://www.linkedin.com/learning/nail-your-devops-interview/ci-cd-18737066?u=76281980&t=227)** It was probably the most complex deployment I've ever developed myself.
 >
@@ -835,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (8), cd (7), [[Continuous Integration (CI)|Continuous integration]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (5), application (4)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (5), [[SaaS|Software as a service]] (3), [[Jenkins]] (3), [[DevOps]] (2)
 > **CLI Commands:** cd (7), find (1), aws (1)
 > **Env Vars:** thx (2), aws (1), dns (1)
 > **Definitions:** in other words (1), is a  (1), known as (1), is an  (1)
@@ -843,16 +831,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1), configure (1)
 > **Speakers:** - how (1), - the (1)
 
-#### Configuration management
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980)
+#### [Configuration management](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=0)** - What configuration tools are you most familiar with, and how have you used them?
 >
-> **[0:05](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=5)** - This question is used to gauge your experience with configuration management tools like Ansible, Chef, and Puppet.
+> **[0:05](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=5)** - This question is used to gauge your experience with [[Configuration Management]] tools like [[Ansible]], Chef, and Puppet.
 >
-> **[0:13](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=13)** You can start answering this question with a definition method to explain how configuration management tools are an important part of DevOps, because they assist with automation tasks in the DevOps lifecycle.
+> **[0:13](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=13)** You can start answering this question with a definition method to explain how configuration management tools are an important part of [[DevOps]], because they assist with automation tasks in the DevOps lifecycle.
 >
 > **[0:25](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=25)** You can even offer some differences between Ansible, Chef, and Puppet.
 >
@@ -888,32 +875,31 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=117)** I've used Ansible for several years now, and Chef for the past three years.
 >
-> **[2:01](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=121)** During that time, I've used Ansible to simplify web deployments for Django applications, and I've used Chef to manage large installations of servers running in an on-premises data center.
+> **[2:01](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=121)** During that time, I've used Ansible to simplify web deployments for [[Django]] applications, and I've used Chef to manage large installations of servers running in an on-premises data center.
 >
 > **[2:12](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=132)** I really appreciate Ansible for its YAML-based playbooks.
 >
 > **[2:15](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=135)** They're clear enough that the intention of a playbook can be easily understood by less technical team members.
 >
-> **[2:22](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=142)** If you know the team you're interviewing with is using a tool you don't have experience with, focus on your configuration management skills that are transferrable, like describing desired state with software.
+> **[2:22](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=142)** If you know the team you're [[Interviewing]] with is using a tool you don't have experience with, focus on your configuration management skills that are transferrable, like describing desired state with software.
 >
 > **[2:33](https://www.linkedin.com/learning/nail-your-devops-interview/configuration-management-18730961?u=76281980&t=153)** Also, learn more about the tool before the interview so you're familiar enough to know a few of its capabilities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (9), [[Configuration Management]] (5), node (4), [[DevOps]] (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (9), [[Configuration Management]] (5), [[DevOps]] (2), [[Django]] (1), [[Interviewing]] (1)
 > **CLI Commands:** ansible (9), node (4), ssh (1), ruby (1)
 > **Env Vars:** thx (2), yaml (2), ssh (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Speakers:** - what (1), - this (1)
 
-#### Monitoring and alerting
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980)
+#### [Monitoring and alerting](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=1)** - How do you know if something goes wrong in your production environment?
 >
-> **[0:05](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=5)** - This question is used to gauge your experience with getting real-time feedback through monitoring and alerting.
+> **[0:05](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=5)** - This question is used to gauge your experience with getting [[Real-Time]] feedback through monitoring and alerting.
 >
 > **[0:12](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=12)** This is an open-ended scenario-style question, so a few methods can be combined to answer this question.
 >
@@ -921,7 +907,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=29)** You can round out your answer with the THX method.
 >
-> **[0:34](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=34)** There are many monitoring and alerting tools available for DevOps teams.
+> **[0:34](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=34)** There are many monitoring and alerting tools available for [[DevOps]] teams.
 >
 > **[0:38](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=38)** Some of the more well-known ones include Nagios, Sensu, New Relic, and Datadog.
 >
@@ -939,7 +925,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=90)** These details are correlated to provide a complete picture of an applications performance.
 >
-> **[1:35](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=95)** This allows engineers to see bottlenecks in the systems and track performance metrics over time.
+> **[1:35](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=95)** This allows engineers to see bottlenecks in the systems and track [[Performance Metrics]] over time.
 >
 > **[1:41](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=101)** For alerts, I like to explain that there are two types of alerts: notifications and alarms.
 >
@@ -957,7 +943,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=144)** New Relic is great because it has a server level agent and it also has APM monitoring.
 >
-> **[2:30](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=150)** Tying infrastructure monitoring together with APM monitoring has been useful for debugging problems in all kinds of applications, and PagerDuty has lots of functionality built in for notifying over email, mobile apps, and Slack.
+> **[2:30](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=150)** Tying infrastructure monitoring together with APM monitoring has been useful for debugging problems in all kinds of applications, and PagerDuty has lots of functionality built in for notifying over email, mobile apps, and [[Slack]].
 >
 > **[2:45](https://www.linkedin.com/learning/nail-your-devops-interview/monitoring-and-alerting-18737072?u=76281980&t=165)** When I'm on call, I found that to be very convenient for receiving pages on all my devices throughout the night.
 >
@@ -965,25 +951,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Performance Metrics]] (2), [[Real-Time]] (1), [[DevOps]] (1), teams (1), web application (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (2), [[Real-Time]] (1), [[DevOps]] (1), [[Slack]] (1)
 > **Env Vars:** apm (3), thx (1), cpu (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - how (1), - this (1)
 > **Tools:** slack (1)
 > **Analogies:** picture (1)
 
-#### Testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980)
+#### [Testing](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=0)** - How have you automated testing?
 >
-> **[0:03](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=3)** - Testing is an important part of continuous integration.
+> **[0:03](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=3)** - Testing is an important part of [[Continuous Integration (CI)|continuous integration]].
 >
 > **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=7)** By running tests early and often in the development cycle problems can be found and resolved quickly.
 >
-> **[0:13](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=13)** There are many different types of test automation so you'll be asked this question to gauge your experience with testing and test automation tools.
+> **[0:13](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=13)** There are many different types of [[Test Automation]] so you'll be asked this question to gauge your experience with testing and [[Test Automation Tools]].
 >
 > **[0:22](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=22)** Use the definition method to demonstrate that you understand a few different types of testing.
 >
@@ -1001,11 +986,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=63)** Performance testing, on the other hand is used to validate the way an application or system performs under certain conditions.
 >
-> **[1:10](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=70)** This includes response tests to see how quickly a system responds and load testing to see how many requests a system can handle.
+> **[1:10](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=70)** This includes response tests to see how quickly a system responds and [[Load Testing]] to see how many requests a system can handle.
 >
-> **[1:19](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=79)** Some functional testing tools include Selenium, JUnit, and Cucumber.
+> **[1:19](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=79)** Some functional testing tools include [[Selenium]], [[JUnit]], and Cucumber.
 >
-> **[1:24](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=84)** And a few performance testing tools include Jmeter, Gatling, and Apache Bench.
+> **[1:24](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=84)** And a few performance testing tools include [[JMeter]], Gatling, and Apache Bench.
 >
 > **[1:29](https://www.linkedin.com/learning/nail-your-devops-interview/testing-18730965?u=76281980&t=89)** And I should note that these tools are closely aligned with testing web applications.
 >
@@ -1015,14 +1000,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (4), [[Continuous Integration (CI)|Continuous integration]] (2), application (2), [[Test Automation]] (1), [[Test Automation Tools]] (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (2), [[Test Automation]] (1), [[Test Automation Tools]] (1), [[Load Testing]] (1), [[Selenium]] (1)
 > **Speakers:** - how (1), - testing (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/challenge-18734831?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/nail-your-devops-interview/challenge-18734831?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1044,18 +1028,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (2), cd (2), next (1)
 > **CLI Commands:** cd (2)
 > **Speakers:** - our (2)
 > **Cross-References:** in the next (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/solution-18737069?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/nail-your-devops-interview/solution-18737069?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/solution-18737069?u=76281980&t=0)** - This challenge is designed to test your knowledge of the DevOps lifecycle and all things continuous, continuous integration, continuous delivery, and continuous deployment.
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/solution-18737069?u=76281980&t=0)** - This challenge is designed to test your knowledge of the [[DevOps]] lifecycle and all things continuous, [[Continuous Integration (CI)|continuous integration]], [[Continuous Delivery (CD)|continuous delivery]], and continuous deployment.
 >
 > **[0:18](https://www.linkedin.com/learning/nail-your-devops-interview/solution-18737069?u=76281980&t=18)** The best approach to answering this question is the show and tell method.
 >
@@ -1105,7 +1087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[DevOps]] (1), application (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[DevOps]] (1)
 > **CLI Commands:** docker (3), make (2)
 > **Env Vars:** cicd (1)
 > **Cross-References:** in the next (1)
@@ -1117,20 +1099,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Operating systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980)
+#### [Operating systems](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=0)** - Tell me about your experience with Linux and Windows operating systems.
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=0)** - Tell me about your experience with [[Linux]] and [[Windows]] operating systems.
 >
-> **[0:05](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=5)** - Being a hardcore system administrator isn't always a requirement for a role focused on DevOps.
+> **[0:05](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=5)** - Being a hardcore system administrator isn't always a requirement for a role focused on [[DevOps]].
 >
 > **[0:11](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=11)** However, having experience with server and desktop operating systems can go a long way when you're working with tools and applications used for development and operations.
 >
-> **[0:22](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=22)** You can effectively answer questions like this by researching the role you're interviewing for and sharing a story that describes your experience.
+> **[0:22](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=22)** You can effectively answer questions like this by researching the role you're [[Interviewing]] for and sharing a story that describes your experience.
 >
-> **[0:31](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=31)** Generally speaking, if you're interviewing for a role working with Enterprise applications, then you need to be ready to answer questions about Windows Server or some other Windows-based operating system.
+> **[0:31](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=31)** Generally speaking, if you're interviewing for a role working with Enterprise applications, then you need to be ready to answer questions about [[Windows Server]] or some other Windows-based operating system.
 >
 > **[0:42](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=42)** On the other hand, if you're interviewing for a role that deals with web or mobile applications, you should be ready to answer questions about Linux operating systems.
 >
@@ -1150,9 +1131,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=92)** I've used MacOS as a desktop operating system, mainly because the tools I need for scripting and connecting to remote systems are readily available on that platform.
 >
-> **[1:42](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=102)** On the server side, I've worked with servers running Red Hat, CentOS, and Ubuntu.
+> **[1:42](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=102)** On the server side, I've worked with servers running Red Hat, CentOS, and [[Ubuntu]].
 >
-> **[1:46](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=106)** On those servers, I've installed and maintained web servers, database servers, and DNS servers among other applications.
+> **[1:46](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=106)** On those servers, I've installed and maintained [[Web Servers]], database servers, and DNS servers among other applications.
 >
 > **[1:53](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980&t=113)** I really enjoy using Ubuntu Linux because installing packages is an enjoyable process.
 >
@@ -1164,17 +1145,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Interviewing]] (4), [[Windows]] (3), [[Ubuntu]] (3), web (2)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Interviewing]] (4), [[Windows]] (3), [[Ubuntu]] (3), [[DevOps]] (1)
 > **Env Vars:** thx (1), dns (1)
 > **Speakers:** - tell (1), - being (1)
 > **Definitions:** is an  (1)
 
-#### Command line tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980)
+#### [Command line tools](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=0)** - Why is it important to know how to use command line tools in a DevOps role?
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=0)** - Why is it important to know how to use command line tools in a [[DevOps]] role?
 >
 > **[0:04](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=4)** - Here are the THX targets.
 >
@@ -1188,9 +1168,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=29)** I appreciate that even though I've changed jobs or roles, the command line tools have remained the same.
 >
-> **[0:35](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=35)** For example, I started out learning how to use command line tools on Linux systems.
+> **[0:35](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=35)** For example, I started out learning how to use command line tools on [[Linux]] systems.
 >
-> **[0:39](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=39)** From there, I transitioned to Windows systems.
+> **[0:39](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=39)** From there, I transitioned to [[Windows]] systems.
 >
 > **[0:42](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=42)** Many years later, I started using the Mac operating system for the first time.
 >
@@ -1226,7 +1206,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=140)** If you're running on Unix, Linux or Windows systems, using command line tools to get information like CPU, memory and disk space utilization are useful for debugging and determining the status of a system.
 >
-> **[2:33](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=153)** So you need to be familiar with tools like top, to show system statistics, free to show memory utilization, df to show file system details, including storage utilization and ps to show what processes are running.
+> **[2:33](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=153)** So you need to be familiar with tools like top, to show system [[Statistics]], free to show memory utilization, df to show file system details, including storage utilization and ps to show what processes are running.
 >
 > **[2:48](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=168)** These commands are applicable on Unix and Linux file systems, but there are equivalent commands for Windows systems, as well.
 >
@@ -1236,17 +1216,17 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=187)** These classic Linux and Unix commands extract information from the operating system, active processes and files.
 >
-> **[3:15](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=195)** Be prepared to discuss how you can send the output from one command to another to produce complex reports from the CLI.
+> **[3:15](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=195)** Be prepared to discuss how you can send the output from one command to another to produce complex reports from the [[CLI]].
 >
 > **[3:23](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=203)** If you're working with any sort of web-based application and system, you'll need to be familiar with tools that send and receive information over the network.
 >
-> **[3:31](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=211)** Tools like ping, curl and netcat are great tools for sending web traffic in a way that allows precise control of the data being sent and also lends to automating reports using the data received.
+> **[3:31](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=211)** Tools like ping, curl and [[Netcat]] are great tools for sending web traffic in a way that allows precise control of the data being sent and also lends to automating reports using the data received.
 >
 > **[3:44](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=224)** Also, the ssh suite of tools are useful for connecting to remote systems, transferring files between remote servers and your local file systems and other tasks that require communication over a network.
 >
 > **[3:56](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=236)** And without a doubt, you should be familiar with how to access documentation from the command line.
 >
-> **[4:01](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=241)** Sometimes you may be working on a remote system and can't access Google or Stack Overflow and you need to get some help with the command that you're running.
+> **[4:01](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=241)** Sometimes you may be working on a remote system and can't access [[Google]] or Stack Overflow and you need to get some help with the command that you're running.
 >
 > **[4:09](https://www.linkedin.com/learning/nail-your-devops-interview/command-line-tools-18737063?u=76281980&t=249)** Commands like info and man, which is short from manual, will be your best friends for getting details on commands that you may not use very often or that require some advanced options.
 >
@@ -1254,7 +1234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), web (5), [[Windows]] (4), [[DevOps]] (3), data (3)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Windows]] (4), [[DevOps]] (3), [[Statistics]] (1), [[CLI]] (1)
 > **Tools:** command line (16), terminal (3)
 > **CLI Commands:** make (1), grep (1), sed (1), awk (1), curl (1)
 > **Env Vars:** thx (2), cpu (1), cli (1)
@@ -1263,14 +1243,13 @@ created: 2026-05-02
 > **Documentation:** stack overflow (1)
 > **Prerequisites:** you'll need (1)
 
-#### Scripting and programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980)
+#### [Scripting and programming](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=0)** - Can you share some examples of a scripting language that you're most proficient with?
 >
-> **[0:05](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=5)** - Scripting is an essential tool for DevOps.
+> **[0:05](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=5)** - Scripting is an essential tool for [[DevOps]].
 >
 > **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=7)** It's useful for automating any sort of process that needs to be repeated the same way every time.
 >
@@ -1280,11 +1259,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=22)** Here's an example.
 >
-> **[0:25](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=25)** Yes, I've been using Python for nearly seven years now, and I've used it for automating deployment jobs and API interactions with AWS and Google Cloud.
+> **[0:25](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=25)** Yes, I've been using [[Python (Programming Language)|Python]] for nearly seven years now, and I've used it for automating deployment jobs and API interactions with AWS and [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:36](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=36)** What I really like about Python is the easy-to-read syntax.
 >
-> **[0:38](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=38)** I also like how it's easy to work with data in the JSON format.
+> **[0:38](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=38)** I also like how it's easy to work with data in the [[JSON]] format.
 >
 > **[0:43](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=43)** And also, I like how Python implements virtual environments for working with libraries.
 >
@@ -1294,7 +1273,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=61)** Probably the most complicated script I've written is a chat application.
 >
-> **[1:05](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=65)** I wasn't very familiar with web development, and I learned a lot about using Django as a backend for a web application.
+> **[1:05](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=65)** I wasn't very familiar with [[Web Development]], and I learned a lot about using [[Django]] as a backend for a web application.
 >
 > **[1:12](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=72)** I actually learned enough to write a lesson describing exactly what I did to implement the solution.
 >
@@ -1302,9 +1281,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=85)** You definitely need to know Bash.
 >
-> **[1:27](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=87)** On the Linux platform, Bash is one of the easiest ways to automate operations using system and CLI commands.
+> **[1:27](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=87)** On the [[Linux]] platform, Bash is one of the easiest ways to automate operations using system and [[CLI]] commands.
 >
-> **[1:34](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=94)** If you're working in a Windows environment, the equivalent for this would be PowerShell.
+> **[1:34](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=94)** If you're working in a [[Windows]] environment, the equivalent for this would be [[Powershell]].
 >
 > **[1:39](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=99)** And these days, PowerShell runs on Linux, and Bash runs on Windows.
 >
@@ -1312,9 +1291,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=108)** I really like Python for its simplicity and also for its ability to work with APIs and handle JSON data.
 >
-> **[1:55](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=115)** Python is also widely used in data science, so if you're thinking about using DevOps in a role that requires data science, knowing Python will set you up nicely to work with data.
+> **[1:55](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=115)** Python is also widely used in [[Data Science]], so if you're thinking about using DevOps in a role that requires data science, knowing Python will set you up nicely to work with data.
 >
-> **[2:06](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=126)** Ruby is also a good scripting language to learn for working with configuration management tools.
+> **[2:06](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=126)** Ruby is also a good scripting language to learn for working with [[Configuration Management]] tools.
 >
 > **[2:12](https://www.linkedin.com/learning/nail-your-devops-interview/scripting-and-programming-18737064?u=76281980&t=132)** Both Puppet and Chef use Ruby as the language for their configurations.
 >
@@ -1334,27 +1313,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Scripting]] (5), data (5), [[DevOps]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[DevOps]] (3), [[JSON]] (2), [[Linux]] (2), [[Windows]] (2)
 > **CLI Commands:** python (6), ruby (3), aws (1)
 > **Env Vars:** thx (2), json (2), api (1), aws (1), cli (1)
 > **Tools:** bash (3), powershell (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - can (1), - scripting (1)
 
-#### Software version control
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980)
+#### [Software version control](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=0)** - What's your experience with version control tools?
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=0)** - What's your experience with [[Version Control]] tools?
 >
-> **[0:04](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=4)** - During the software development cycle, source code is constantly being changed.
+> **[0:04](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=4)** - During the [[Software Development]] cycle, source code is constantly being changed.
 >
 > **[0:08](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=8)** Either new features are being added or bugs are being fixed.
 >
-> **[0:12](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=12)** Version control tools are used to track those changes, and by far, the most popular version control tool is Git.
+> **[0:12](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=12)** Version control tools are used to track those changes, and by far, the most popular version control tool is [[Git]].
 >
-> **[0:20](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=20)** Git is free and open source and is easily set up on premises or as a service with providers like GitHub, Bitbucket, and GitLab.
+> **[0:20](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=20)** Git is free and open source and is easily set up on premises or as a service with providers like [[GitHub]], [[Bitbucket]], and GitLab.
 >
 > **[0:29](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=29)** To be a viable candidate, you really need to know how to be effective with Git, particularly from the command line.
 >
@@ -1376,7 +1354,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=83)** And if you're collaborating with someone, you would use the git pull command to pull any changes that they've submitted to the remote repository to your local copy of the project.
 >
-> **[1:33](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=93)** Version control lends itself to the DevOps process by tracking changes, but it also facilitates communication between teams and even between automated processes.
+> **[1:33](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=93)** Version control lends itself to the [[DevOps]] process by tracking changes, but it also facilitates communication between teams and even between automated processes.
 >
 > **[1:43](https://www.linkedin.com/learning/nail-your-devops-interview/software-version-control-18736247?u=76281980&t=103)** This is done with pull requests, also known as merge requests, and web hooks.
 >
@@ -1407,8 +1385,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
 
-#### Troubleshooting
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/troubleshooting-18735239?u=76281980)
+#### [Troubleshooting](https://www.linkedin.com/learning/nail-your-devops-interview/troubleshooting-18735239?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1464,7 +1441,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/nail-your-devops-interview/troubleshooting-18735239?u=76281980&t=109)** If all components are accessible the next step is to consider logs if they're available.
 >
-> **[1:55](https://www.linkedin.com/learning/nail-your-devops-interview/troubleshooting-18735239?u=76281980&t=115)** Web servers are good at generating logs if they've been configured for it so checking the logs might quickly reveal the error.
+> **[1:55](https://www.linkedin.com/learning/nail-your-devops-interview/troubleshooting-18735239?u=76281980&t=115)** [[Web Servers]] are good at generating logs if they've been configured for it so checking the logs might quickly reveal the error.
 >
 > **[2:02](https://www.linkedin.com/learning/nail-your-devops-interview/troubleshooting-18735239?u=76281980&t=122)** If you're able to determine the root cause of the problem in this scenario, follow up by explaining that you would notify the stakeholders again and take the necessary steps for resolution.
 >
@@ -1472,13 +1449,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (5), web (2), game (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **Speakers:** - here (1), - troubleshooting (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Incident management
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980)
+#### [Incident management](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1506,7 +1482,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=75)** Specifically, think about production systems that were running normally, and then due to some event, which definitely wasn't your fault, the situation normal was all messed up.
 >
-> **[1:26](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=86)** If you're new in your career, you may not have seen incidents on the scale of Google or Facebook going offline, but try to recall an incident that affected production-level services.
+> **[1:26](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=86)** If you're new in your career, you may not have seen incidents on the scale of [[Google]] or Facebook going offline, but try to recall an incident that affected production-level services.
 >
 > **[1:36](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=96)** Once you have your incident in mind, use the story time method to tell the interviewer what happened.
 >
@@ -1522,7 +1498,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=133)** As you wrap up your story, be sure to include specific details on what you learned.
 >
-> **[2:18](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=138)** By explaining what you learned from an incident, you show that you're able to communicate effectively, and use DevOps methodology to create solutions that prevent the same type of problem from happening again.
+> **[2:18](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=138)** By explaining what you learned from an incident, you show that you're able to communicate effectively, and use [[DevOps]] methodology to create solutions that prevent the same type of problem from happening again.
 >
 > **[2:29](https://www.linkedin.com/learning/nail-your-devops-interview/incident-management-18735241?u=76281980&t=149)** Usually, this is shared in a document called a root cause analysis, or RCA.
 >
@@ -1530,12 +1506,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), management (2), application (1), [[Google]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[DevOps]] (1)
 > **Speakers:** - describe (1), - during (1)
 > **Env Vars:** rca (1)
 
-#### Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980)
+#### [Security](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1549,17 +1524,17 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=31)** This means information that needs to stay private is kept private.
 >
-> **[0:35](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=35)** This could include usernames and passwords, authentication tokens, or encryption keys.
+> **[0:35](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=35)** This could include usernames and passwords, authentication [[Tokens]], or encryption keys.
 >
 > **[0:41](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=41)** To ensure this information remains confidential, it can be encrypted and stored in a Secrets Manager.
 >
-> **[0:47](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=47)** Also, application code can be placed in a version control system with access limited to developers that have a need to access the code.
+> **[0:47](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=47)** Also, application code can be placed in a [[Version Control]] system with access limited to developers that have a need to access the code.
 >
 > **[0:56](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=56)** I is for integrity.
 >
 > **[0:57](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=57)** This means that once data has been created, it remains unchanged until an authorized party changes it.
 >
-> **[1:04](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=64)** One example of ensuring data integrity is using HTTPS for communication between two endpoints.
+> **[1:04](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=64)** One example of ensuring [[Data Integrity]] is using HTTPS for communication between two endpoints.
 >
 > **[1:11](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=71)** This ensures that the data can't be changed in transmission and has the added benefit of confidentiality.
 >
@@ -1571,26 +1546,25 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=96)** Availability also includes patching resources to make sure they are free of vulnerabilities that might make them a target for attack.
 >
-> **[1:43](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=103)** Because DevOps is a collaborative approach, also mention working with a security team to conduct security audits, penetration testing, or other methods for actively detecting security flaws.
+> **[1:43](https://www.linkedin.com/learning/nail-your-devops-interview/security-18732973?u=76281980&t=103)** Because [[DevOps]] is a collaborative approach, also mention working with a security team to conduct security audits, [[Penetration Testing]], or other methods for actively detecting security flaws.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), data (3), [[Tokens]] (1), application (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Version Control]] (1), [[Data Integrity]] (1), [[DevOps]] (1), [[Penetration Testing]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cia (2), https (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - what (1), - this (1)
 
-#### Practical uses for AI in DevOps roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980)
+#### [Practical uses for AI in DevOps roles](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=0)** - [Instructor] Artificial intelligence has touched roles in all areas of technology and your role as a DevOps practitioner is no exception.
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] has touched roles in all areas of technology and your role as a [[DevOps]] practitioner is no exception.
 >
 > **[0:09](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=9)** To really benefit from this game-changing opportunity, you need to understand the technology behind artificial intelligence, how your expertise plays into your interaction with AI tools, and also how artificial intelligence fits into real DevOps tasks.
 >
-> **[0:26](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=26)** Large language models or LLMs are the core technology behind the AI tools and services we interact with.
+> **[0:26](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=26)** [[Large Language Models (LLM)|Large language models]] or LLMs are the core technology behind the AI tools and services we interact with.
 >
 > **[0:34](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=34)** These models are trained on massive amounts of information and they're designed to interact with us using human language.
 >
@@ -1608,11 +1582,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=81)** Models with billions of parameters tend to offer broader capabilities, but they also need substantial computing resources.
 >
-> **[1:29](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=89)** In contrast, models with fewer parameters are more efficient, easier to deploy on limited hardware, and are often fine tuned to perform exceptionally well in specific, narrow tasks.
+> **[1:29](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=89)** In contrast, models with fewer parameters are more efficient, easier to deploy on limited [[Hardware]], and are often fine tuned to perform exceptionally well in specific, narrow tasks.
 >
 > **[1:42](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=102)** Beyond these categories, LLMs are often frequently grouped into families according to the organization behind the model.
 >
-> **[1:50](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=110)** Some well-known LLM families include OpenAI's GPT family, Google's Gemini, Meta's LlaMA models, and the Claude models from Anthropic.
+> **[1:50](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=110)** Some well-known LLM families include OpenAI's GPT family, [[Google]]'s [[Gemini]], Meta's [[LLaMA]] models, and the Claude models from Anthropic.
 >
 > **[2:02](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=122)** We interact with these LLMs by providing instructions and other data as input.
 >
@@ -1624,7 +1598,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=138)** The responses generated by AI systems are often only as good as the input they're given.
 >
-> **[2:25](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=145)** As a technologist or DevOps practitioner, you can use LLMs to accelerate software development, explain configuration issues, and streamline troubleshooting.
+> **[2:25](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=145)** As a technologist or DevOps practitioner, you can use LLMs to accelerate [[Software Development]], explain configuration issues, and streamline troubleshooting.
 >
 > **[2:35](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=155)** But to get the best results, you need to create effective prompts based on your expertise.
 >
@@ -1648,7 +1622,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=227)** AI tools can quickly give you a solid starting point, but you still need to review, test, and understand the proposed solution.
 >
-> **[3:57](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=237)** For another example, let's consider a Kubernetes pod that continually fails to start.
+> **[3:57](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=237)** For another example, let's consider a [[Kubernetes]] pod that continually fails to start.
 >
 > **[4:02](https://www.linkedin.com/learning/nail-your-devops-interview/practical-uses-for-ai-in-devops-roles-26983319?u=76281980&t=242)** You can use the error message or logs as a prompt for an AI tool and ask for an analysis of the problem.
 >
@@ -1666,7 +1640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[DevOps]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (2), prompt (2)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Hardware]] (1), [[Google]] (1)
 > **Env Vars:** llm (1), gpt (1), yaml (1)
 > **CLI Commands:** cd (1)
 > **Definitions:** is called (1)
@@ -1680,12 +1654,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud services and their benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980)
+#### [Cloud services and their benefits](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980&t=0)** - What are the benefits of using cloud services?
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980&t=0)** - What are the benefits of using [[Cloud Services]]?
 >
 > **[0:03](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980&t=3)** Also, I want you to describe your experience migrating a service from an on-premise data center to the cloud.
 >
@@ -1693,9 +1666,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980&t=18)** In either case, this question is focused on your ability to work with cloud services, and how that experience can benefit the company.
 >
-> **[0:26](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980&t=26)** You can start by defining the benefits of cloud services and how they complement DevOps culture.
+> **[0:26](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980&t=26)** You can start by defining the benefits of cloud services and how they complement [[DevOps]] culture.
 >
-> **[0:31](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980&t=31)** I would suggest narrowing your focus to just one or two things, for example, automation and scalability.
+> **[0:31](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980&t=31)** I would suggest narrowing your focus to just one or two things, for example, automation and [[Scalability]].
 >
 > **[0:38](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980&t=38)** In addition to the tools that cloud providers offer, there's a multitude of tools that allow developers and engineers to create automation around cloud services.
 >
@@ -1731,18 +1704,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), data (2), [[DevOps]] (2), [[Automation]] (2), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Cloud Services]] (4), [[DevOps]] (2), [[Scalability]] (2)
 > **Analogies:** for example (2)
 > **Speakers:** - what (1), - right (1)
 > **Env Vars:** thx (1)
 > **Definitions:** is a  (1)
 
-#### Architecting cloud solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980)
+#### [Architecting cloud solutions](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=0)** - Can you tell me about your experience with solution architecture?
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=0)** - Can you tell me about your experience with [[Solution Architecture]]?
 >
 > **[0:04](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=4)** - To answer this question effectively, you need to demonstrate your ability to translate business requirements into deliverable solutions.
 >
@@ -1752,7 +1724,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=22)** That is, they're very familiar with a wide range of technologies and have a deep expertise in one.
 >
-> **[0:28](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=28)** So, when it comes to architecting solutions for the Cloud with a DevOps perspective, solutions architects need to be well versed in the Cloud's capabilities and its limitations.
+> **[0:28](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=28)** So, when it comes to architecting solutions for the Cloud with a [[DevOps]] perspective, solutions architects need to be well versed in the Cloud's capabilities and its limitations.
 >
 > **[0:39](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=39)** Because architects need to interface with a variety of teams, a strong ability to communicate is also key.
 >
@@ -1776,7 +1748,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=93)** Also, the leading cloud service providers provide certifications for architecting on their platforms.
 >
-> **[1:39](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=99)** This includes AWS Certified Solutions Architect, Microsoft Azure Solutions Architect and Google Cloud Platform Professional Cloud Architect.
+> **[1:39](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=99)** This includes AWS Certified Solutions Architect, [[Microsoft Azure]] Solutions Architect and [[Google Cloud Platform (GCP)|Google Cloud Platform]] Professional Cloud Architect.
 >
 > **[1:48](https://www.linkedin.com/learning/nail-your-devops-interview/architecting-cloud-solutions-18737068?u=76281980&t=108)** While it's not a requirement to have one of these certifications to be a cloud solutions architect, it would help qualify your ability to build solutions on the specific platform.
 >
@@ -1786,17 +1758,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), business (2), teams (2), [[Solution Architecture]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Solution Architecture]] (1), [[DevOps]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **CLI Commands:** make (1), aws (1)
 > **Speakers:** - can (1), - to (1)
 > **Env Vars:** aws (1)
 
-#### Infrastructure as Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980)
+#### [Infrastructure as Code](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=0)** - What are some of the benefits of using infrastructure as code?
+> **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=0)** - What are some of the benefits of using [[Infrastructure as code (IaC)|infrastructure as code]]?
 >
 > **[0:03](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=3)** Give me an example.
 >
@@ -1804,13 +1775,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=10)** With infrastructure as code, engineers use code to describe the servers, load balancers, firewalls, and other resources that create a system to run an application.
 >
-> **[0:19](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=19)** Now we can go into the specifics of the benefits, version control, consistency, automation, and reuse.
+> **[0:19](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=19)** Now we can go into the specifics of the benefits, [[Version Control]], consistency, automation, and reuse.
 >
 > **[0:27](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=27)** Since infrastructure as code is essentially a text document, it can be stored in a repository and version control can be applied to it.
 >
 > **[0:35](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=35)** This allows engineers to track changes to the code, which in turn allows changes to the infrastructure to be tracked as well.
 >
-> **[0:42](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=42)** Using code also lends itself to software development practices, like testing and code reviews.
+> **[0:42](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=42)** Using code also lends itself to [[Software Development]] practices, like testing and code reviews.
 >
 > **[0:48](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=48)** When engineers create something, they usually follow a specification or some blueprint that explains what they're going to be building.
 >
@@ -1836,9 +1807,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=121)** Based on your research for the position, you should know which technology you need to focus on.
 >
-> **[2:06](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=126)** If we take a look at the top three, you'll see that AWS uses a service called CloudFormation, Google Cloud uses Deployment Manager Templates, and Azure uses Azure Resource Manager Templates.
+> **[2:06](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=126)** If we take a look at the top three, you'll see that AWS uses a service called CloudFormation, [[Google Cloud Platform (GCP)|Google Cloud]] uses Deployment Manager Templates, and [[Microsoft Azure|Azure]] uses Azure Resource Manager Templates.
 >
-> **[2:18](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=138)** Terraform is a popular tool for infrastructure as code that works with the top three cloud providers, and many others.
+> **[2:18](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=138)** [[Terraform]] is a popular tool for infrastructure as code that works with the top three cloud providers, and many others.
 >
 > **[2:25](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=145)** So based on the cloud service the company is using, you should be prepared to answer the question, what's your experience with using infrastructures code?
 >
@@ -1846,7 +1817,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=155)** To answer this question, you should use the THX, or story time methods, to share a specific scenario where you used infrastructure as code to provide a solution.
 >
-> **[2:45](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=165)** Now, it may be the case that your experience may be with a cloud the interviewing company doesn't use.
+> **[2:45](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=165)** Now, it may be the case that your experience may be with a cloud the [[Interviewing]] company doesn't use.
 >
 > **[2:52](https://www.linkedin.com/learning/nail-your-devops-interview/infrastructure-as-code-18734829?u=76281980&t=172)** Let's say your potential new company uses Azure templates, for example, and your experience is with AWS cloud formation.
 >
@@ -1858,7 +1829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (13), cloud (7), [[Automation]] (3), [[Microsoft Azure|Azure]] (3), [[Version Control]] (2)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (13), [[Microsoft Azure|Azure]] (3), [[Version Control]] (2), [[Software Development]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Documentation:** specification (4)
 > **CLI Commands:** aws (2), terraform (1)
 > **Env Vars:** aws (2), thx (1)
@@ -1871,12 +1842,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Web servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980)
+#### [Web servers](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=1)** - If you're interviewing for a position that involves managing websites or web applications, you can expect to answer questions about web servers.
+> **[0:01](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=1)** - If you're [[Interviewing]] for a position that involves managing websites or web applications, you can expect to answer questions about [[Web Servers]].
 >
 > **[0:09](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=9)** You'll want to be able to speak with confidence about the most widely used web servers, Apache and NGINX.
 >
@@ -1890,7 +1860,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=39)** In modern web stacks, the main benefit of using Apache is its ability to natively serve dynamic content.
 >
-> **[0:46](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=46)** For example, a properly configured Apache server can serve PHP or Python code without having to interface with another application.
+> **[0:46](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=46)** For example, a properly configured Apache server can serve [[PHP]] or [[Python (Programming Language)|Python]] code without having to interface with another application.
 >
 > **[0:54](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=54)** However, Apache may use more and more resources under heavy load.
 >
@@ -1908,31 +1878,30 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=103)** I would also suggest you get comfortable with installing and configuring Apache or NGINX.
 >
-> **[1:49](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=109)** Both are easy to install with package managers on modern Linux systems.
+> **[1:49](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=109)** Both are easy to install with package managers on modern [[Linux]] systems.
 >
 > **[1:54](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980&t=114)** If you need to get familiar with a web server quickly, I would suggest NGINX, simply because the configuration files are written in a format that looks a lot like code, so you might find it easier to follow than Apache's XML-based config files.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[Interviewing]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1), application (1)
+> **Frameworks & Libraries:** [[Web Servers]] (3), [[Interviewing]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1), [[Linux]] (1)
 > **CLI Commands:** apache (13), nginx (12), php (1), python (1), find (1)
 > **Env Vars:** nginx (12), php (1), xml (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### Databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980)
+#### [Databases](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=1)** - You'll find databases in many of the roles that use DevOps practices.
+> **[0:01](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=1)** - You'll find [[Databases]] in many of the roles that use [[DevOps]] practices.
 >
 > **[0:05](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=5)** By their nature, databases are key to storing all types of critical information for services and applications.
 >
-> **[0:12](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=12)** So even if you're not interviewing to be a database administrator, it'll be useful to know a thing or two about databases.
+> **[0:12](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=12)** So even if you're not [[Interviewing]] to be a database administrator, it'll be useful to know a thing or two about databases.
 >
-> **[0:19](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=19)** First, you should be familiar with relational databases and NoSQL databases.
+> **[0:19](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=19)** First, you should be familiar with [[Relational Databases]] and [[NoSQL]] databases.
 >
 > **[0:25](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=25)** You may be asked, what's the difference between a relational database and a NoSQL database?
 >
@@ -1960,24 +1929,23 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=93)** For interviewing, knowing these facts is only the start.
 >
-> **[1:36](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=96)** MySQL and PostgreSQL are popular relational databases, and MongoDB is one of the most popular NoSQL databases.
+> **[1:36](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=96)** [[MySQL]] and [[PostgreSQL]] are popular relational databases, and [[MongoDB]] is one of the most popular NoSQL databases.
 >
 > **[1:45](https://www.linkedin.com/learning/nail-your-devops-interview/databases-18734834?u=76281980&t=105)** At the least, you should be able to install one of these database servers and set up a basic configuration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Databases]] (8), [[NoSQL]] (6), data (5), [[Relational Databases]] (4)
+> **Frameworks & Libraries:** [[Databases]] (8), [[NoSQL]] (6), [[Relational Databases]] (4), [[Interviewing]] (2), [[DevOps]] (1)
 > **Prerequisites:** required to (1), install (1), set up (1)
 > **CLI Commands:** find (1), mysql (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - you (1)
 
-#### Containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/containers-18736246?u=76281980)
+#### [Containers](https://www.linkedin.com/learning/nail-your-devops-interview/containers-18736246?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/nail-your-devops-interview/containers-18736246?u=76281980&t=1)** - Can you tell me why containers are important for DevOps?
+> **[0:01](https://www.linkedin.com/learning/nail-your-devops-interview/containers-18736246?u=76281980&t=1)** - Can you tell me why containers are important for [[DevOps]]?
 >
 > **[0:04](https://www.linkedin.com/learning/nail-your-devops-interview/containers-18736246?u=76281980&t=4)** To answer this question, let's first answer a few other questions to establish your knowledge on containers.
 >
@@ -2043,19 +2011,18 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/nail-your-devops-interview/containers-18736246?u=76281980&t=165)** Even though you haven't used containers in a production environment, you're spending personal time to learn about container tools and technologies.
 >
-> **[2:52](https://www.linkedin.com/learning/nail-your-devops-interview/containers-18736246?u=76281980&t=172)** Depending on the role that you're interviewing for, you may need to have more experience with containers, but you should at least be able to demonstrate you know how to work with Docker commands on your local workstation.
+> **[2:52](https://www.linkedin.com/learning/nail-your-devops-interview/containers-18736246?u=76281980&t=172)** Depending on the role that you're [[Interviewing]] for, you may need to have more experience with containers, but you should at least be able to demonstrate you know how to work with Docker commands on your local workstation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (2), application (2), next (1), cloud (1), teams (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Interviewing]] (1)
 > **Definitions:** is a  (7)
 > **CLI Commands:** docker (3)
 > **Env Vars:** thx (1)
 > **Tools:** command line (1)
 > **Speakers:** - can (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/nail-your-devops-interview/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2079,20 +2046,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Security]] (1), next (1)
 > **Speakers:** - describe (1), - time (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/nail-your-devops-interview/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/solution?u=76281980&t=0)** (energetic music)
 >
-> **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/solution?u=76281980&t=7)** - Architecting an interior web application is a classic scenario for DevOps interviews.
+> **[0:07](https://www.linkedin.com/learning/nail-your-devops-interview/solution?u=76281980&t=7)** - Architecting an interior web application is a classic scenario for [[DevOps]] interviews.
 >
 > **[0:12](https://www.linkedin.com/learning/nail-your-devops-interview/solution?u=76281980&t=12)** It gives the interviewer an idea of your knowledge of web services and how they can be connected to deliver a useful end result.
 >
@@ -2160,7 +2125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), web (12), application (5), data (5), web application (4)
+> **Frameworks & Libraries:** [[DevOps]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -2173,8 +2138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Asking questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980)
+#### [Asking questions](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2186,11 +2150,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980&t=15)** If you've done your research and took some notes during the interview, you should have several questions to choose from.
 >
-> **[0:21](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980&t=21)** Be sure to tailor your questions to the person you're interviewing with.
+> **[0:21](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980&t=21)** Be sure to tailor your questions to the person you're [[Interviewing]] with.
 >
 > **[0:25](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980&t=25)** Also try to ask open-ended questions that allow room for explanations instead of a simple yes or no answer.
 >
-> **[0:34](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980&t=34)** If you're interviewing with your contact in human resources or a recruiter, you may want to ask specific questions about benefits, company culture, and general topics about working for the company.
+> **[0:34](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980&t=34)** If you're interviewing with your contact in [[Human Resources (HR)|human resources]] or a recruiter, you may want to ask specific questions about benefits, company culture, and general topics about working for the company.
 >
 > **[0:46](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980&t=46)** For example, you might ask about the performance review cycle or the timing for your first review.
 >
@@ -2216,8 +2180,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - do (1)
 
-#### Following up
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/following-up-18737071?u=76281980)
+#### [Following up](https://www.linkedin.com/learning/nail-your-devops-interview/following-up-18737071?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2237,9 +2200,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/nail-your-devops-interview/following-up-18737071?u=76281980&t=39)** You can keep the conversation open-ended by mentioning that you look forward to hearing from them.
 >
-> **[0:44](https://www.linkedin.com/learning/nail-your-devops-interview/following-up-18737071?u=76281980&t=44)** Sending a thank you card may be easy if you're interviewing with a company where everyone is housed in the same location, and you can get the address.
+> **[0:44](https://www.linkedin.com/learning/nail-your-devops-interview/following-up-18737071?u=76281980&t=44)** Sending a thank you card may be easy if you're [[Interviewing]] with a company where everyone is housed in the same location, and you can get the address.
 >
-> **[0:52](https://www.linkedin.com/learning/nail-your-devops-interview/following-up-18737071?u=76281980&t=52)** It may be more difficult in situations where you're interviewing in a location away from the office or interviewing over video teleconference.
+> **[0:52](https://www.linkedin.com/learning/nail-your-devops-interview/following-up-18737071?u=76281980&t=52)** It may be more difficult in situations where you're interviewing in a location away from the [[Microsoft Office|office]] or interviewing over video teleconference.
 >
 > **[1:01](https://www.linkedin.com/learning/nail-your-devops-interview/following-up-18737071?u=76281980&t=61)** In those cases, send an email directly to the interviewer or reach out to them through your recruiter or your primary contact with the company.
 >
@@ -2255,14 +2218,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/next-steps-18730963?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/nail-your-devops-interview/next-steps-18730963?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-devops-interview/next-steps-18730963?u=76281980&t=0)** - Thanks for joining me for this course.
 >
-> **[0:02](https://www.linkedin.com/learning/nail-your-devops-interview/next-steps-18730963?u=76281980&t=2)** This opportunity you have, interviewing for a DevOps role, can be a challenging one, but it can also be a pivotal opportunity for your career.
+> **[0:02](https://www.linkedin.com/learning/nail-your-devops-interview/next-steps-18730963?u=76281980&t=2)** This opportunity you have, [[Interviewing]] for a [[DevOps]] role, can be a challenging one, but it can also be a pivotal opportunity for your career.
 >
 > **[0:12](https://www.linkedin.com/learning/nail-your-devops-interview/next-steps-18730963?u=76281980&t=12)** It's my hope that the skills and techniques we discussed in this course give you the confidence to become the most viable candidate you can be for this interview.
 >
@@ -2274,7 +2236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (3), [[Interviewing]] (1), career (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Interviewing]] (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - thanks (1)
 

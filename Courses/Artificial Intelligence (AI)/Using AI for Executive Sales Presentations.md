@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare to win with your B2B sales presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/prepare-to-win-with-your-b2b-sales-presentations?u=76281980)
+#### [Prepare to win with your B2B sales presentations](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/prepare-to-win-with-your-b2b-sales-presentations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,11 +87,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1)
 > **Speakers:** - as (1)
 
-#### Who should take this course and why
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/who-should-take-this-course-and-why?u=76281980)
+#### [Who should take this course and why](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/who-should-take-this-course-and-why?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/who-should-take-this-course-and-why?u=76281980&t=52)** Bring your team into this coursework through prospect strategy sessions or win-rooms.
 >
-> **[0:59](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/who-should-take-this-course-and-why?u=76281980&t=59)** Throughout this course, we'll explore how AI, specifically ChatGPT, can enhance your win-room work.
+> **[0:59](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/who-should-take-this-course-and-why?u=76281980&t=59)** Throughout this course, we'll explore how AI, specifically [[ChatGPT]], can enhance your win-room work.
 >
 > **[1:06](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/who-should-take-this-course-and-why?u=76281980&t=66)** We've prepared a handout for you with examples of prompts; these are meant as a starting point for you and your team to use during your win-room sessions.
 >
@@ -116,7 +113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (1), teams (1), ai (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Env Vars:** b2b (1)
 > **Analogies:** such as (1)
 > **Speakers:** - if (1)
@@ -126,8 +123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### B2B strategic selling and executive engagement defined
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980)
+#### [B2B strategic selling and executive engagement defined](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,9 +133,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980&t=12)** The opportunity team you've assembled is focused and optimistic.
 >
-> **[0:16](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980&t=16)** Based on your development work so far, your prospect, a regional hospital system, has set dates for finalist sales presentations next month.
+> **[0:16](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980&t=16)** Based on your development work so far, your prospect, a regional hospital system, has set dates for finalist [[Sales Presentations]] next month.
 >
-> **[0:26](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980&t=26)** Your team's goal is to differentiate your cardiovascular device products and services from the other options that your prospect is considering.
+> **[0:26](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980&t=26)** Your team's goal is to differentiate your cardiovascular device [[Microsoft Products|products]] and services from the other options that your prospect is considering.
 >
 > **[0:35](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980&t=35)** The opportunity team is nervous since it's the first time you're going to meet the chief executive from the regional hospital system who will ultimately make the decision to go forward with your company or not.
 >
@@ -163,7 +159,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980&t=119)** And we'll design your Win Themes to capture the receptivity of your new executive contact.
 >
-> **[2:06](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980&t=126)** We're also going to explore ways generative AI is a powerful sales tool when it comes to preparing for a high-level sales presentation.
+> **[2:06](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980&t=126)** We're also going to explore ways [[Generative AI]] is a powerful sales tool when it comes to preparing for a high-level sales presentation.
 >
 > **[2:16](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980&t=136)** I know this isn't just any prospect, it's a mega opportunity for you and the team, and you've done months of work to get to this point.
 >
@@ -173,14 +169,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sales Presentations]] (1), next (1), [[Microsoft Products|Products]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Sales Presentations]] (1), [[Microsoft Products|Products]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### Establishing key differentiators: AI-assisted B2B sales strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/establishing-key-differentiators-ai-assisted-b2b-sales-strategy?u=76281980)
+#### [Establishing key differentiators: AI-assisted B2B sales strategy](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/establishing-key-differentiators-ai-assisted-b2b-sales-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -190,11 +185,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/establishing-key-differentiators-ai-assisted-b2b-sales-strategy?u=76281980&t=13)** There are three areas we need to cover.
 >
-> **[0:15](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/establishing-key-differentiators-ai-assisted-b2b-sales-strategy?u=76281980&t=15)** We'll discuss how your company, services, and products are different from the other options that your prospect is considering, debate why they're better, and finally, you'll decide how to communicate your differentiators throughout your presentation.
+> **[0:15](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/establishing-key-differentiators-ai-assisted-b2b-sales-strategy?u=76281980&t=15)** We'll discuss how your company, services, and [[Microsoft Products|products]] are different from the other options that your prospect is considering, debate why they're better, and finally, you'll decide how to communicate your differentiators throughout your presentation.
 >
 > **[0:31](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/establishing-key-differentiators-ai-assisted-b2b-sales-strategy?u=76281980&t=31)** Also, you'll use AI to assist in developing your differentiation strategy.
 >
-> **[0:37](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/establishing-key-differentiators-ai-assisted-b2b-sales-strategy?u=76281980&t=37)** There are many AI tools available, but we'll use ChatGPT.
+> **[0:37](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/establishing-key-differentiators-ai-assisted-b2b-sales-strategy?u=76281980&t=37)** There are many AI tools available, but we'll use [[ChatGPT]].
 >
 > **[0:41](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/establishing-key-differentiators-ai-assisted-b2b-sales-strategy?u=76281980&t=41)** The prompts included throughout the course are merely suggestions, meant to boost your thinking.
 >
@@ -278,15 +273,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), ai (4), [[ChatGPT]] (4), business (4), prompt (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[ChatGPT]] (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - welcome (1)
 
-#### Analyze your B2B competitors to fine-tune competitive blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/analyze-your-b2b-competitors-to-fine-tune-competitive-blocks?u=76281980)
+#### [Analyze your B2B competitors to fine-tune competitive blocks](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/analyze-your-b2b-competitors-to-fine-tune-competitive-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -310,7 +304,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/analyze-your-b2b-competitors-to-fine-tune-competitive-blocks?u=76281980&t=50)** You did a great job of uncovering this intel during a recent meeting with your key contact.
 >
-> **[0:57](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/analyze-your-b2b-competitors-to-fine-tune-competitive-blocks?u=76281980&t=57)** Let's start with AI to uncover your competitors' products and strategies relative to your products.
+> **[0:57](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/analyze-your-b2b-competitors-to-fine-tune-competitive-blocks?u=76281980&t=57)** Let's start with AI to uncover your competitors' [[Microsoft Products|products]] and strategies relative to your products.
 >
 > **[1:05](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/analyze-your-b2b-competitors-to-fine-tune-competitive-blocks?u=76281980&t=65)** I want to learn more about insert competitor's website and last annual report links relative to their cardiovascular device products and services.
 >
@@ -372,7 +366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Microsoft Products|Products]] (4), product (2), strengths (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - your (1)
 
@@ -381,8 +375,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leverage AI to formulate executive intelligence to connect
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980)
+#### [Leverage AI to formulate executive intelligence to connect](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=21)** Rather than leaving the outcome to chance, we're going to use our win room session to take the mystery out of engaging with your prospect, the chief executive from the regional hospital system, who will ultimately make the decision to go forward with your company or not.
 >
-> **[0:38](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=38)** The first thing we'll do is create an executive dossier by tapping into the power of generative AI.
+> **[0:38](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=38)** The first thing we'll do is create an executive dossier by tapping into the power of [[Generative AI]].
 >
 > **[0:46](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=46)** Our first prompt will start with the basics, including background, interests, and preferred communication style.
 >
@@ -402,13 +395,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=62)** Include a brief background, interests, personality style, preferred communication style, associations or boards, list of published articles.
 >
-> **[1:13](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=73)** Use insert LinkedIn profile, company website link, investor page link.
+> **[1:13](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=73)** Use insert [[LinkedIn]] profile, company website link, investor page link.
 >
 > **[1:20](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=80)** List common connections to me.
 >
 > **[1:23](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=83)** Insert your LinkedIn profile.
 >
-> **[1:26](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=86)** You will be amazed at the depth and quality ChatGPT provides to help you start your dossier.
+> **[1:26](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=86)** You will be amazed at the depth and quality [[ChatGPT]] provides to help you start your dossier.
 >
 > **[1:33](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=93)** But let's add to our prompt to continue to build out your executive dossier to include current challenges and industry trends that may be top of mind for your executive decision-maker right now.
 >
@@ -460,7 +453,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=291)** Including your senior decision-maker on the agenda also ensures that they attend the presentation.
 >
-> **[4:57](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=297)** Building trust and making lasting connections with key executives is a long-term endeavor.
+> **[4:57](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=297)** [[Building Trust]] and making lasting connections with key executives is a long-term endeavor.
 >
 > **[5:03](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980&t=303)** You're off to a great start.
 >
@@ -468,15 +461,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), prompt (2), [[LinkedIn]] (2), [[ChatGPT]] (2), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[ChatGPT]] (2), [[Generative AI]] (1), [[Building Trust]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** caution (1)
 > **Speakers:** - the (1)
 
-#### Deploy win themes to gain executive receptivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/deploy-win-themes-to-gain-executive-receptivity?u=76281980)
+#### [Deploy win themes to gain executive receptivity](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/deploy-win-themes-to-gain-executive-receptivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,13 +490,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/deploy-win-themes-to-gain-executive-receptivity?u=76281980&t=71)** WIN THEMES are a level up from pain points and needs as they are based on your decision-maker's most pressing high level priorities.
 >
-> **[1:21](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/deploy-win-themes-to-gain-executive-receptivity?u=76281980&t=81)** Let's get a head start using ChatGPT.
+> **[1:21](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/deploy-win-themes-to-gain-executive-receptivity?u=76281980&t=81)** Let's get a head start using [[ChatGPT]].
 >
 > **[1:25](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/deploy-win-themes-to-gain-executive-receptivity?u=76281980&t=85)** As you can see, our prompt is a build on the prompts we used last time to create your executive dossier.
 >
 > **[1:33](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/deploy-win-themes-to-gain-executive-receptivity?u=76281980&t=93)** However, to decide your WIN THEMES, we're mainly concerned with your chief executive's top priorities.
 >
-> **[1:41](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/deploy-win-themes-to-gain-executive-receptivity?u=76281980&t=101)** Use all the information provided in our prior request to list the top two priorities in order of importance for, insert name, LinkedIn profile, company website, and investor page links.
+> **[1:41](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/deploy-win-themes-to-gain-executive-receptivity?u=76281980&t=101)** Use all the information provided in our prior request to list the top two priorities in order of importance for, insert name, [[LinkedIn]] profile, company website, and investor page links.
 >
 > **[1:55](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/deploy-win-themes-to-gain-executive-receptivity?u=76281980&t=115)** We are defining priorities as high level initiatives, programs, goals, strategies, objectives or intentions.
 >
@@ -548,7 +540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (3), ai (2), [[ChatGPT]] (2), prompt (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[LinkedIn]] (1)
 > **Env Vars:** win (12), themes (11)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -560,8 +552,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Select the most effective executive presentation framework using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/select-the-most-effective-executive-presentation-framework-using-ai?u=76281980)
+#### [Select the most effective executive presentation framework using AI](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/select-the-most-effective-executive-presentation-framework-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,7 +632,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/select-the-most-effective-executive-presentation-framework-using-ai?u=76281980&t=269)** How can you help?
 >
-> **[4:30](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/select-the-most-effective-executive-presentation-framework-using-ai?u=76281980&t=270)** With receptivity high, now you can connect your products and services by showing how they can positively impact your prospect's priorities, issues, and needs.
+> **[4:30](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/select-the-most-effective-executive-presentation-framework-using-ai?u=76281980&t=270)** With receptivity high, now you can connect your [[Microsoft Products|products]] and services by showing how they can positively impact your prospect's priorities, issues, and needs.
 >
 > **[4:42](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/select-the-most-effective-executive-presentation-framework-using-ai?u=76281980&t=282)** This is the time to establish and gain agreement on logical next steps.
 >
@@ -665,15 +656,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), ai (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** b2b (1)
 > **Analogies:** for example (1)
 > **Speakers:** - welcome (1)
 
-#### Build your executive presentation using winning content elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/build-your-executive-presentation-using-winning-content-elements?u=76281980)
+#### [Build your executive presentation using winning content elements](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/build-your-executive-presentation-using-winning-content-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,7 +683,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/build-your-executive-presentation-using-winning-content-elements?u=76281980&t=71)** Include hard and soft decision criteria.
 >
-> **[1:14](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/build-your-executive-presentation-using-winning-content-elements?u=76281980&t=74)** I'm a senior B2B salesperson, selling cardiovascular device products and services.
+> **[1:14](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/build-your-executive-presentation-using-winning-content-elements?u=76281980&t=74)** I'm a senior B2B salesperson, selling cardiovascular device [[Microsoft Products|products]] and services.
 >
 > **[1:20](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/build-your-executive-presentation-using-winning-content-elements?u=76281980&t=80)** Insert your company and services page links.
 >
@@ -755,7 +745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), next (3), [[Microsoft Products|Products]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** b2b (1)
 > **Definitions:** is a  (1)
@@ -766,8 +756,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accelerate prospect engagement with AI tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980)
+#### [Accelerate prospect engagement with AI tips](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -783,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980&t=39)** Consider posing a simple question for each participant to answer as part of their introduction, such as what's the most important thing you want to gain from our conversation today?
 >
-> **[0:50](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980&t=50)** You can ask ChatGPT to offer a few alternatives.
+> **[0:50](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980&t=50)** You can ask [[ChatGPT]] to offer a few alternatives.
 >
 > **[0:55](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980&t=55)** As part of my sales presentation, I would like to engage my prospect during introductions.
 >
@@ -853,7 +842,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980&t=277)** As our Win Room Workshop is concluding, there's one more important thing to keep in mind.
 >
-> **[4:43](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980&t=283)** If you're using a PowerPoint deck for your guided discussion, use the winning presentation slide formula, which is four minutes per slide, plus an extra 10 to 15 minutes.
+> **[4:43](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980&t=283)** If you're using a [[Microsoft PowerPoint|PowerPoint]] deck for your guided discussion, use the winning presentation slide formula, which is four minutes per slide, plus an extra 10 to 15 minutes.
 >
 > **[4:56](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980&t=296)** For example, if your prospect presentation is scheduled for 60 minutes, your slide budget is 11 to 12 slides total.
 >
@@ -865,15 +854,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[ChatGPT]] (2), generic (1), ai (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), for example (1)
 > **Warnings:** common mistake (1), keep in mind (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - during (1)
 
-#### Advance with your prospect through powerful presentation prep.
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980)
+#### [Advance with your prospect through powerful presentation prep.](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -887,7 +875,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=27)** With our strategy work completed, there are two important things left.
 >
-> **[0:32](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=32)** We'll start by analyzing your past sales presentations to uncover common presentation mishaps, so we can avoid.
+> **[0:32](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=32)** We'll start by analyzing your past [[Sales Presentations]] to uncover common presentation mishaps, so we can avoid.
 >
 > **[0:40](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=40)** These might be mistakes that happened to you or ones that the opportunity team has observed.
 >
@@ -897,13 +885,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=66)** Some mistakes have a small impact on the outcome, while others mean that you won't be moving forward at all.
 >
-> **[1:14](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=74)** To ignite the team's thinking, we'll ask ChatGPT to provide common sales presentation mishaps for your scenario.
+> **[1:14](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=74)** To ignite the team's thinking, we'll ask [[ChatGPT]] to provide common sales presentation mishaps for your scenario.
 >
-> **[1:24](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=84)** "List the top ten common sales presentation mishaps for a senior salesperson and their team in the cardiovascular device products and services industry selling to a regional hospital system."
+> **[1:24](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=84)** "List the top ten common sales presentation mishaps for a senior salesperson and their team in the cardiovascular device [[Microsoft Products|products]] and services industry selling to a regional hospital system."
 >
 > **[1:40](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=100)** The list warmed up the team's thinking about what might go wrong.
 >
-> **[1:44](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=104)** Now combine the generative AI list with your real-life experience.
+> **[1:44](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=104)** Now combine the [[Generative AI]] list with your real-life experience.
 >
 > **[1:49](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=109)** Once you have your most likely missteps, you can ask AI to provide some suggestions for remedies.
 >
@@ -935,7 +923,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=218)** Resist the temptation to stop and fix something during the dry run.
 >
-> **[3:42](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=222)** A word of caution: many opportunity teams fall into the trap of using the rehearsal session to continue to work on the slides, slide content, and presentation logistics.
+> **[3:42](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=222)** A [[Microsoft Word|word]] of caution: many opportunity teams fall into the trap of using the rehearsal session to continue to work on the slides, slide content, and presentation logistics.
 >
 > **[3:55](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/advance-with-your-prospect-through-powerful-presentation-prep?u=76281980&t=235)** This will not yield the benefits the team needs to win.
 >
@@ -965,7 +953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[ChatGPT]] (2), [[Sales Presentations]] (1), [[Microsoft Products|Products]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Sales Presentations]] (1), [[Microsoft Products|Products]] (1), [[Generative AI]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** in other words (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -977,8 +965,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Celebrate your big B2B contract after a winning presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980)
+#### [Celebrate your big B2B contract after a winning presentation](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=18)** They let you know how much they appreciated your focus on them and concrete examples of how you can help them move their priorities forward.
 >
-> **[0:28](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=28)** They indicated that the other companies focus solely on their products with no time for discussion.
+> **[0:28](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=28)** They indicated that the other companies focus solely on their [[Microsoft Products|products]] with no time for discussion.
 >
 > **[0:34](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=34)** Your key contact said that the email summary of key points you sent and handwritten thank-you notes for each participant made a positive impression as well.
 >
@@ -1010,7 +997,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=79)** Win celebrations amplify the stories about the journey throughout the sales organization that will lead to more big deals.
 >
-> **[1:27](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=87)** Win celebrations make deposits in the team's resiliency bank account and are part of a win culture.
+> **[1:27](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=87)** Win celebrations make deposits in the team's [[Resiliency]] bank account and are part of a win culture.
 >
 > **[1:35](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=95)** AI can assist with win celebration planning too.
 >
@@ -1036,13 +1023,13 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=179)** Or tap into the other valuable sales tools on my website.
 >
-> **[3:03](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=183)** You can also follow me on LinkedIn where I post regularly about what's working now in the world of B2B strategic sales, and it's where I announce my newest courses on LinkedIn learning.
+> **[3:03](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=183)** You can also follow me on [[LinkedIn]] where I post regularly about what's working now in the world of B2B strategic sales, and it's where I announce my newest courses on LinkedIn learning.
 >
-> **[3:16](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=196)** Know that I am cheering you on as you follow the winning strategies to prep for your big sales presentations that include an executive audience.
+> **[3:16](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980&t=196)** Know that I am cheering you on as you follow the winning strategies to prep for your big [[Sales Presentations]] that include an executive audience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Products|Products]] (1), [[Resiliency]] (1), ai (1), [[Sales Presentations]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Products|Products]] (1), [[Resiliency]] (1), [[Sales Presentations]] (1)
 > **Env Vars:** top (2), b2b (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - your (1)

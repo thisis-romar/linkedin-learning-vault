@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,36 +102,35 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=24)** And what's exciting about the kind of material that I teach is it's a mixture of academic material, but also real-world.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=30)** And this course, AI Orchestration, is very real-world, it's very cutting edge.
+> **[0:30](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=30)** And this course, [[AI Orchestration]], is very real-world, it's very cutting edge.
 >
-> **[0:36](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=36)** We talk about how to use local models with your local hardware, let's say an Nvidia system.
+> **[0:36](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=36)** We talk about how to use local models with your local [[Hardware]], let's say an Nvidia system.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=41)** And we also talk about some of the theory behind orchestration, how to reason about retrieval-augmented generative AI solutions.
+> **[0:41](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=41)** And we also talk about some of the theory behind orchestration, how to reason about retrieval-augmented [[Generative AI]] solutions.
 >
 > **[0:50](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=50)** Also, how to interact with different model hosting repositories.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=54)** Some of these include Hugging Face, also GitHub models, and how you can pull all those things together and create comprehensive solutions.
+> **[0:54](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=54)** Some of these include [[Hugging Face]], also [[GitHub]] models, and how you can pull all those things together and create comprehensive solutions.
 >
 > **[1:03](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980&t=63)** So enjoy this course, it's great way to get started, and join the AI revolution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Orchestration]] (2), [[Hardware]] (1), [[Generative AI]] (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[AI Orchestration]] (1), [[Hardware]] (1), [[Generative AI]] (1), [[Hugging Face]] (1), [[GitHub]] (1)
 > **Tools:** github (1)
 > **Speakers:** - hi (1)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-overview?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:07](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-overview?u=76281980&t=7)** - [Instructor] AI Orchestration, Designing the Prototype Architecture and the Data Strategy.
+> **[0:07](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-overview?u=76281980&t=7)** - [Instructor] [[AI Orchestration]], Designing the Prototype Architecture and the Data Strategy.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-overview?u=76281980&t=13)** Welcome to this AI Orchestration Course.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-overview?u=76281980&t=15)** It's a practical course that's focused on designing and implementing AI systems across different computing environments.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-overview?u=76281980&t=25)** We're going to explore architectures, strategies, and best practices for building robust AI solutions.
+> **[0:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-overview?u=76281980&t=25)** We're going to explore architectures, strategies, and best practices for building robust [[AI Solutions]].
 >
 > **[0:32](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-overview?u=76281980&t=32)** The first thing that we're going to talk about is how to address these four comprehensive sections.
 >
@@ -150,15 +148,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Orchestration]] (4), data (2)
+> **Frameworks & Libraries:** [[AI Orchestration]] (4), [[AI Solutions]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI orchestration overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980)
+#### [AI orchestration overview](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=6)** - [Instructor] Welcome to AI Orchestration.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=6)** - [Instructor] Welcome to [[AI Orchestration]].
 >
 > **[0:08](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=8)** In this video, we'll explore the core concepts and challenges of coordinating AI systems.
 >
@@ -172,13 +169,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=43)** And each of 'em will play a role in making sure that it's effective.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=48)** Now, if we think through model management, the first step here, we have a version control system that's going to track the changes when you deploy it into production.
+> **[0:48](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=48)** Now, if we think through model management, the first step here, we have a [[Version Control]] system that's going to track the changes when you deploy it into production.
 >
 > **[0:58](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=58)** And you're going to select the right logic as well when you're going to update the model.
 >
 > **[1:03](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=63)** So it's not just the model, but it's the model and the logic to implement how that model is served.
 >
-> **[1:09](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=69)** And if we take a look at resource coordination, this is going to figure out things like CPU and GPU allocation, also memory management.
+> **[1:09](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=69)** And if we take a look at resource coordination, this is going to figure out things like CPU and GPU allocation, also [[Memory Management]].
 >
 > **[1:19](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=79)** Are you allocating enough memory to each model?
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=121)** How do you actually, you know, account for that and make reproducible pipelines?
 >
-> **[2:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=126)** And then in general, the pipeline has to be run in an automated way so you have continuous delivery of that data.
+> **[2:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=126)** And then in general, the pipeline has to be run in an automated way so you have [[Continuous Delivery (CD)|continuous delivery]] of that data.
 >
 > **[2:13](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=133)** Now, if we look at some of the key challenges for an AI orchestration, it's going to be performance optimization, integration complexity, also security and compliance.
 >
@@ -230,11 +227,11 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=225)** You know, are you using an API that's the same for all your models?
 >
-> **[3:49](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=229)** What about different format handlings, you know, for JSON or for CSV or for binary data?
+> **[3:49](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=229)** What about different format handlings, you know, for [[JSON]] or for CSV or for binary data?
 >
 > **[3:57](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=237)** And then, what about the dependencies of that model?
 >
-> **[3:59](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=239)** So if one of 'em is using, let's say, PyTorch, another one's using TensorFlow, there could be different system-level dependencies.
+> **[3:59](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=239)** So if one of 'em is using, let's say, [[PyTorch]], another one's using [[TensorFlow]], there could be different system-level dependencies.
 >
 > **[4:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=246)** And those start to create complexity issues that can be solved through automation as well.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=259)** You may even have to talk to an API, as well as have your own local model.
 >
-> **[4:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=265)** Now, in terms of security and compliance, the privacy is one of the factors of large language models that's starting to become more and more of a issue.
+> **[4:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=265)** Now, in terms of security and compliance, the [[Privacy]] is one of the factors of [[Large Language Models (LLM)|large language models]] that's starting to become more and more of a issue.
 >
 > **[4:34](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=274)** And part of it is that if you're sending your data to a third-party system, you don't have control of the data.
 >
@@ -302,17 +299,17 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=428)** So able to, you know, transform the data so that it fits directly with the model.
 >
-> **[7:15](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=435)** And then the key challenges that you're going to come across would be things like latency, API compatibility, you know, security and data privacy.
+> **[7:15](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=435)** And then the key challenges that you're going to come across would be things like latency, API compatibility, you know, security and [[Data Privacy]].
 >
 > **[7:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=444)** And so all of these really tie together and let you build out a system that is able to meet the challenges that your organization is looking to solve.
 >
-> **[7:36](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=456)** And so AI orchestration is a multifaceted problem that requires system-level thinking, but if you do use system-level thinking, use techniques like DevOps and use those methodologies to further enhance the way that you deploy your models.
+> **[7:36](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=456)** And so AI orchestration is a multifaceted problem that requires system-level thinking, but if you do use system-level thinking, use techniques like [[DevOps]] and use those methodologies to further enhance the way that you deploy your models.
 >
 > **[7:55](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag?u=76281980&t=475)** Then you're going to be really starting things off on the right frame of mind, and it's not going to be as difficult to make changes in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (7), management (6), [[Security]] (6), [[Orchestration]] (5)
+> **Frameworks & Libraries:** [[AI Orchestration]] (4), [[Version Control]] (1), [[Memory Management]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[JSON]] (1)
 > **Env Vars:** gpu (7), cpu (4), api (4), json (1), csv (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3)
@@ -325,12 +322,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompt engineering pyramid
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980)
+#### [Prompt engineering pyramid](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=6)** - [Instructor] Prompt Engineering is a multifaceted skill that you can think about from a pyramid perspective.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=6)** - [Instructor] [[Prompt Engineering]] is a multifaceted skill that you can think about from a pyramid perspective.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=14)** So at the bottom layer here, we have the foundations of effective prompting.
 >
@@ -366,11 +362,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=93)** A system role, so maybe setting specific tasks.
 >
-> **[1:36](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=96)** You can do this, for example, with Ollama, you can set a system role, and then with advanced examples, you can say, look, I want you to think through this step by step.
+> **[1:36](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=96)** You can do this, for example, with [[Ollama]], you can set a system role, and then with advanced examples, you can say, look, I want you to think through this step by step.
 >
 > **[1:46](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=106)** How would we optimize this database query?
 >
-> **[1:49](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=109)** Or how would we build the most secure Rust CLI tool?
+> **[1:49](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=109)** Or how would we build the most secure [[Rust (Programming Language)|Rust]] [[CLI]] tool?
 >
 > **[1:54](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=114)** These are some of the things to think about.
 >
@@ -380,13 +376,13 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=124)** The key points are you want to progress up the pyramid as the tasks become more complex, you want to build upon the different skill levels.
 >
-> **[2:13](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=133)** The foundations though are still crucial, even if you get to the advanced forms of prompting, and you also want to match the technique to the complexity, and sometimes you can even combine techniques for optimal results.
+> **[2:13](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=133)** The foundations though are still crucial, even if you get to the advanced [[Forms]] of prompting, and you also want to match the technique to the complexity, and sometimes you can even combine techniques for optimal results.
 >
 > **[2:26](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980&t=146)** But always, once you've got a very clear set of instructions, make sure that those work before you add more complexity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (1), data (1), next (1), product (1), feature (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[Ollama]] (1), [[Rust (Programming Language)|Rust]] (1), [[CLI]] (1), [[Forms]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** cli (1)
@@ -395,12 +391,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chain of thought prompt Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-prompt-rust?u=76281980)
+#### [Chain of thought prompt Rust](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-prompt-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-prompt-rust?u=76281980&t=6)** - [Instructor] Chain of thought prompting for Rust code is a very interesting technique, because it's really getting into advanced techniques for prompt engineering that fit specifically for Rust code.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-prompt-rust?u=76281980&t=6)** - [Instructor] Chain of thought prompting for [[Rust (Programming Language)|Rust]] code is a very interesting technique, because it's really getting into advanced techniques for [[Prompt Engineering]] that fit specifically for Rust code.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-prompt-rust?u=76281980&t=19)** And we're going to talk about how to write this effective chain of thought prompt for generating Rust code, and we're going to follow the designs of Rust to create a clear hierarchy of concepts.
 >
@@ -408,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-prompt-rust?u=76281980&t=34)** So first up here, we have the core concepts foundation.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-prompt-rust?u=76281980&t=38)** And if we look at the base of the pyramid, you're going to establish the requirements, like types, functions, control flow.
+> **[0:38](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-prompt-rust?u=76281980&t=38)** And if we look at the base of the pyramid, you're going to establish the requirements, like types, functions, [[Control Flow]].
 >
 > **[0:46](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-prompt-rust?u=76281980&t=46)** And a Rust function that would take a vector of integers and return their sum, that starts by defining the function signature and controlling the types needed.
 >
@@ -490,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (9), prompt (6), [[Prompt Engineering]] (1), [[Control Flow]] (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (9), [[Prompt Engineering]] (1), [[Control Flow]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ffi (1)
 > **Definitions:** is a  (1)
@@ -498,12 +493,11 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chain of thought Rust prompt demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980)
+#### [Chain of thought Rust prompt demo](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=6)** - [Instructor] Let's go ahead and build a rust project assisted by our own local large language model.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=6)** - [Instructor] Let's go ahead and build a [[Rust (Programming Language)|rust]] project assisted by our own local large language model.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=12)** First step, what I'm going to do is get things running with cargo.
 >
@@ -521,7 +515,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=47)** We see how the world is working, but I want to prompt this to fill out some very unique things that I want from a rust project.
 >
-> **[0:56](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=56)** And so what I'm going to do is get some advice from ollama.
+> **[0:56](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=56)** And so what I'm going to do is get some advice from [[Ollama]].
 >
 > **[1:00](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=60)** So let's go ahead and open up a new terminal to the side here.
 >
@@ -537,7 +531,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=105)** And let's take a look at what are some of the things that we're doing inside of this prompt.
 >
-> **[1:50](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=110)** So to start with, we have a prompt for a rust CLI add function.
+> **[1:50](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=110)** So to start with, we have a prompt for a rust [[CLI]] add function.
 >
 > **[1:56](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=116)** Let's create a rust CLI program that adds two numbers provided as the command arguments.
 >
@@ -639,13 +633,13 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=340)** And in fact, this is kind of a secret weapon because if you're using commercial tools, you're not going to necessarily have access to all these different ways to customize your prompt.
 >
-> **[5:50](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=350)** So there's some advantages as well to using local large language models and that you can have this essentially infinite customization that's coupled with your skill in a particular language.
+> **[5:50](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=350)** So there's some advantages as well to using local [[Large Language Models (LLM)|large language models]] and that you can have this essentially infinite customization that's coupled with your skill in a particular language.
 >
 > **[6:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/chain-of-thought-rust-prompt-demo?u=76281980&t=361)** In this case, the language is rust.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), [[Rust (Programming Language)|Rust]] (6), [[Ollama]] (4), [[CLI]] (2), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[Ollama]] (4), [[CLI]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** cargo (7), make (3)
 > **Env Vars:** cli (2), env (1), gpu (1)
 > **Tools:** terminal (2), command line (1)
@@ -659,18 +653,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explaining chain of thought Rust prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980)
+#### [Explaining chain of thought Rust prompt](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980&t=6)** - [Instructor] Today we're going to look at how a structured chain of thought prompt leads to better Rust code.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980&t=6)** - [Instructor] Today we're going to look at how a structured chain of thought prompt leads to better [[Rust (Programming Language)|Rust]] code.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980&t=13)** We're going to break down the requirements and the layers and those layers will help the AI models generate more reliable and also idiomatic Rust code.
 >
 > **[0:22](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980&t=22)** So first up, look at this core requirement here.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980&t=24)** So I started with saying I wanted a prompt to have a CLI argument handling and I also wanted to use the standard library.
+> **[0:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980&t=24)** So I started with saying I wanted a prompt to have a [[CLI]] argument handling and I also wanted to use the standard library.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980&t=34)** So in this case we say proper use of standard ENV, also clear type annotation with vex string and also the program structure.
 >
@@ -710,14 +703,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Rust (Programming Language)|Rust]] (3), ai (1), [[CLI]] (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[CLI]] (1)
 > **Env Vars:** cli (1), env (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
-#### Caching for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980)
+#### [Caching for AI](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,7 +733,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=61)** This would be something like a typically implemented full response storage, or a 24 to 48 TTL balance freshness, and efficiency.
 >
-> **[1:11](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=71)** And some of the choices here could include Redis or Mem cache.
+> **[1:11](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=71)** And some of the choices here could include [[Redis]] or Mem cache.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=76)** In terms of embedding cache, this would leverage vector stores for similarity matching.
 >
@@ -749,13 +741,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=89)** We could use things like pine cone, for example, or other open source rag systems to have this efficiency similarity search.
 >
-> **[1:38](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=98)** And this is really critical though for these retrieval-augmented generative AI applications.
+> **[1:38](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=98)** And this is really critical though for these retrieval-augmented [[Generative AI]] applications.
 >
 > **[1:44](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=104)** We also have token cache.
 >
 > **[1:46](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=106)** In this case, we would want to implement a prefixed based matching.
 >
-> **[1:51](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=111)** We would use LRU eviction for memory management.
+> **[1:51](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=111)** We would use LRU eviction for [[Memory Management]].
 >
 > **[1:55](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/caching-for-ai?u=76281980&t=115)** Have a shorter TTL, like one to six hours, and we'd also have in-memory or Redis for fast access.
 >
@@ -787,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Redis]] (2), [[Memory Management]] (2), hit (2), api (1)
+> **Frameworks & Libraries:** [[Redis]] (2), [[Memory Management]] (2), [[Generative AI]] (1)
 > **Env Vars:** ttl (5), api (1), lru (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
@@ -795,14 +787,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing local RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980)
+#### [Optimizing local RAG](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=6)** - [Instructor] Let's talk through how we can explore Retrieval-Augmented Generative AI systems or RAG using a local development tool in a modern AI framework.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=6)** - [Instructor] Let's talk through how we can explore Retrieval-Augmented [[Generative AI]] systems or RAG using a local development tool in a modern AI framework.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=17)** So, we're going to focus on things like Llamafile or Llama and Rust Candle.
+> **[0:17](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=17)** So, we're going to focus on things like Llamafile or [[LLaMA]] and [[Rust (Programming Language)|Rust]] Candle.
 >
 > **[0:23](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=23)** Now, let's take a look at this left panel here.
 >
@@ -812,13 +803,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=43)** And you also want to monitor the GPU usage while you're implementing solutions with, let's see, a tool like nvidia-smi, the model runners, fortunately, there's lots of choices.
 >
-> **[0:55](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=55)** You could use Llamafile for a single file deployment, maybe Ollama for the ease of use and the ability to create your own system prompts, maybe Rust Candle for pure performance and the ability to create these really small binaries.
+> **[0:55](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=55)** You could use Llamafile for a single file deployment, maybe [[Ollama]] for the ease of use and the ability to create your own system prompts, maybe Rust Candle for pure performance and the ability to create these really small binaries.
 >
 > **[1:10](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=70)** And the development tools could include things like Tmux for multiple window monitoring, or nvidia-smi for the GPU tracking or performance monitoring tool.
 >
 > **[1:20](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=80)** So once you get past that, the second step here is model management.
 >
-> **[1:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=85)** So if we look at how to monitor these models, it would be things like Hugging Face integration or GitHub Models, or even using third party systems like Amazon Bedrock or GitHub also has access via their API.
+> **[1:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=85)** So if we look at how to monitor these models, it would be things like [[Hugging Face]] integration or [[GitHub]] Models, or even using third party systems like Amazon Bedrock or GitHub also has access via their API.
 >
 > **[1:43](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=103)** These local model repositories are going to give you that feedback loop, so that you can interact with them.
 >
@@ -830,17 +821,17 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=126)** So you're doing this trade off of accuracy versus speed.
 >
-> **[2:09](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=129)** You could do custom fine tuning options, and this is a little bit of an advanced option, but in many cases, this could be a huge takeaway if you're working on legal or coding, or you have your own code base.
+> **[2:09](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=129)** You could do custom [[Fine Tuning]] options, and this is a little bit of an advanced option, but in many cases, this could be a huge takeaway if you're working on legal or coding, or you have your own code base.
 >
-> **[2:21](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=141)** And then the deployment is where a lot of the tricky things happen here, where maybe you want to use single file execution with Llamafile, or you want to focus on rest endpoints or built-in web interfaces.
+> **[2:21](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=141)** And then the deployment is where a lot of the tricky things happen here, where maybe you want to use single file execution with Llamafile, or you want to focus on [[Representational State Transfer (REST)|rest]] endpoints or built-in web interfaces.
 >
 > **[2:34](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=154)** Now in the final section here, if you're thinking about building your own RAG system, the system optimization is going to be key for performance.
 >
-> **[2:42](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=162)** So if you look at the GPU acceleration, the memory management, maybe CPU thread utilization, if you're building your own local RAG system, you may want to have lots of cores so that the system can be, you know, heavily utilized and you can have lots of RAM as well.
+> **[2:42](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=162)** So if you look at the GPU acceleration, the [[Memory Management]], maybe CPU thread utilization, if you're building your own local RAG system, you may want to have lots of cores so that the system can be, you know, heavily utilized and you can have lots of RAM as well.
 >
 > **[2:59](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=179)** And then your network setup, maybe you have a a 10 gig networking interface so that you can use your fiber account to download new models and also potentially do lots of realtime security configurations and look at API access.
 >
-> **[3:14](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=194)** And then in terms of monitoring, we have, you know, real-time performance metrics, resource utilization, system performance tuning.
+> **[3:14](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=194)** And then in terms of monitoring, we have, you know, [[Real-Time]] [[Performance Metrics]], resource utilization, system [[Performance Tuning]].
 >
 > **[3:21](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=201)** These are all the things that are important to consider.
 >
@@ -848,13 +839,13 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=222)** So you look at a metric and then you optimize based on that.
 >
-> **[3:46](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=226)** Finally, the big thing really as a takeaway would be start with the proper hardware setup.
+> **[3:46](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=226)** Finally, the big thing really as a takeaway would be start with the proper [[Hardware]] setup.
 >
 > **[3:52](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/optimizing-local-rag-25138178?u=76281980&t=232)** Make sure you're going to choose the appropriate model runner, and then monitor and optimize continuously and also scale based on the requirements, not ahead of time, because you may be spending too much money upfront.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (3), [[Rust (Programming Language)|Rust]] (2), [[GitHub]] (2), api (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[GitHub]] (2), [[Generative AI]] (1), [[LLaMA]] (1), [[Ollama]] (1)
 > **Env Vars:** gpu (5), rag (3), api (2), rtx (1), cuda (1)
 > **Prerequisites:** setup (3)
 > **Tools:** github (2)
@@ -862,8 +853,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Local vs. cloud models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980)
+#### [Local vs. cloud models](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -887,15 +877,15 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=47)** So that is maybe a plus on their side.
 >
-> **[0:49](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=49)** Now, in terms of the resource constraints, that's another one to think about is, you know, how do you evaluate available hardware and memory?
+> **[0:49](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=49)** Now, in terms of the resource constraints, that's another one to think about is, you know, how do you evaluate available [[Hardware]] and memory?
 >
 > **[0:58](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=58)** Are you able to consider the operational expertise needed?
 >
-> **[1:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=61)** So if you're running something local, you're going to need people who really know what they're doing, especially because this is even more complex than regular cloud computing.
+> **[1:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=61)** So if you're running something local, you're going to need people who really know what they're doing, especially because this is even more complex than regular [[Cloud Computing]].
 >
 > **[1:10](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=70)** You have all the GPU infrastructure, the storage infrastructure, you have to factor in the infrastructure management capabilities.
 >
-> **[1:18](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=78)** From data privacy standpoint, we also may want to look at the regulatory requirements first.
+> **[1:18](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=78)** From [[Data Privacy]] standpoint, we also may want to look at the regulatory requirements first.
 >
 > **[1:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=84)** So if the data is sensitive or there's compliance needs, you may have no choice, you may have to run it in a local environment.
 >
@@ -911,13 +901,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=114)** Do you actually know how to update the models?
 >
-> **[1:56](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=116)** And then scalability, you know, are you going to have a lot of scalability?
+> **[1:56](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=116)** And then [[Scalability]], you know, are you going to have a lot of scalability?
 >
 > **[2:00](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=120)** Can you handle it yourself?
 >
 > **[2:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=121)** So if we look at the cloud models here first, the key advantages here are no upfront hardware investments, automatic updates and maintenance, the scalability, and also access to the latest model version.
 >
-> **[2:17](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=137)** So the best use cases here would be variable workload patterns need for, you know, quick deployment, nonsensitive data processing.
+> **[2:17](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=137)** So the best use cases here would be variable workload patterns need for, you know, quick deployment, nonsensitive [[Data Processing]].
 >
 > **[2:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=145)** And your company may have limited internal machine learning or large language model expertise.
 >
@@ -929,7 +919,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=167)** Now on the flip side, if we look at local model analysis here, the advantage is you have complete control over the environment.
 >
-> **[2:57](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=177)** So let's say you buy $100,000 machine that is able to host the large language models, you can enhance the data privacy.
+> **[2:57](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=177)** So let's say you buy $100,000 machine that is able to host the [[Large Language Models (LLM)|large language models]], you can enhance the data privacy.
 >
 > **[3:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=186)** You can have extremely low-latency because you're talking to a machine that's maybe very close to you.
 >
@@ -941,7 +931,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=201)** Let's say you work in a law firm also, you could have a very stable and predictable workload.
 >
-> **[3:27](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=207)** You could have a specific-focused use cases and also high-privacy requirements.
+> **[3:27](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=207)** You could have a specific-focused use cases and also high-[[Privacy]] requirements.
 >
 > **[3:33](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/local-vs-cloud-models?u=76281980&t=213)** So the cost though, is something to consider, is that there's going to be a lot more upfront costs because you have to purchase everything.
 >
@@ -977,7 +967,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (5), [[Privacy]] (4), [[Scalability]] (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (3), [[Hardware]] (2), [[Data Privacy]] (2), [[Privacy]] (2), [[Cloud Computing]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** gpu (1)
 > **Speakers:** - [speaker] (1)
@@ -987,20 +977,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Llamafile getting started Gemma
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980)
+#### [Llamafile getting started Gemma](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=6)** - [Narrator] Llamafile is probably one of the easier ways to get started with using local large language models.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=6)** - [Narrator] Llamafile is probably one of the easier ways to get started with using local [[Large Language Models (LLM)|large language models]].
 >
-> **[0:13](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=13)** You can see it's sponsored by Mozilla, and here is the GitHub project that tells you everything about it.
+> **[0:13](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=13)** You can see it's sponsored by Mozilla, and here is the [[GitHub]] project that tells you everything about it.
 >
 > **[0:20](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=20)** So let's take a look at some of the key things about Llamafile here.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=24)** First up, it lets you distribute and run LLMs with a single file.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=28)** The idea here is that you're able to combine llama.cpp, which is in another open source project, with Cosmopolitan Libc, and you can actually mix those two things together to create a single file, executable.
+> **[0:28](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=28)** The idea here is that you're able to combine [[LLaMA]].cpp, which is in another open source project, with Cosmopolitan Libc, and you can actually mix those two things together to create a single file, executable.
 >
 > **[0:43](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=43)** So this is actually worth saying that it's, I think, one of the better ways to do large language models.
 >
@@ -1036,7 +1025,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=168)** But let's go ahead and give it a try anyway.
 >
-> **[2:52](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=172)** I'm going to go ahead and say, you know, print a rust hell world function.
+> **[2:52](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=172)** I'm going to go ahead and say, you know, print a [[Rust (Programming Language)|rust]] hell world function.
 >
 > **[2:58](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=178)** There we go, and then what it's going to do is it's going to give me back some information about how to do that.
 >
@@ -1044,7 +1033,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=194)** And what's nice about it, I would say the main takeaway here is that you can download directly really powerful models like Gemma 2, for example, and you're able to actually use it by just chmoding it and doing a dot slash to run it.
 >
-> **[3:33](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=213)** And you also get a Curl and a Python API as well, which is pretty cool.
+> **[3:33](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=213)** And you also get a Curl and a [[Python (Programming Language)|Python]] API as well, which is pretty cool.
 >
 > **[3:38](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980&t=218)** And so if you're already used to using things like Open AI, for example, you're able to port your code over to it.
 >
@@ -1052,7 +1041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[LLaMA]] (2), prompt (2), ai (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[LLaMA]] (2), [[GitHub]] (1), [[Rust (Programming Language)|Rust]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** curl (3), chmod (1), python (1)
 > **Env Vars:** cpu (1), gpu (1), api (1)
 > **Tools:** github (1), terminal (1)
@@ -1061,12 +1050,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Llamafile simple
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980)
+#### [Llamafile simple](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=6)** - [Instructor] Llamafile is a single file distribution format for large language models.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=6)** - [Instructor] Llamafile is a single file distribution format for [[Large Language Models (LLM)|large language models]].
 >
 > **[0:12](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=12)** You can think of it like a portable app.
 >
@@ -1074,11 +1062,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=20)** So that's really the big promise of something like Llamafile.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=24)** Also, it's produced by Mozilla, so they have a good reputation for privacy and security.
+> **[0:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=24)** Also, it's produced by Mozilla, so they have a good reputation for [[Privacy]] and security.
 >
 > **[0:29](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=29)** Now, if we take a look at the Download flow here, the blue circle, you would just wget something and grab down this Llamafile from a terminal, or you could even click on it from a browser and this downloads it as a single executable file.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=47)** It works on Linux, it works on Mac, it works on Windows, and the popular models are already prepackaged as the Llamafiles.
+> **[0:47](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=47)** It works on [[Linux]], it works on Mac, it works on [[Windows]], and the popular models are already prepackaged as the Llamafiles.
 >
 > **[0:56](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=56)** If you look at the Server mode, this purple circle, you can see that you can launch the server with the flags --server or --host and this will put in the IP address that you want to serve this out on.
 >
@@ -1090,15 +1078,15 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=87)** In terms of the pink circle, the API usage, this allows you to have an OpenAI compatible API.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=95)** So if you wanted to curl, for example, HTTP localhost:8080 completion, pass in a -d and then have a prompt like, you know, build a Rust Hello World function, this would go through and return that request for you.
+> **[1:35](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=95)** So if you wanted to curl, for example, HTTP localhost:8080 completion, pass in a -d and then have a prompt like, you know, build a [[Rust (Programming Language)|Rust]] Hello World function, this would go through and return that request for you.
 >
 > **[1:51](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=111)** And this OpenAI compatible API endpoint also supports streaming responses, and it has easy integration with other tools.
 >
-> **[2:00](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=120)** And so you get some of the same benefits as ChatGPT, but it's free.
+> **[2:00](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=120)** And so you get some of the same benefits as [[ChatGPT]], but it's free.
 >
 > **[2:05](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=125)** You can choose maybe the most ethically sourced data and you're in control versus sending your data to a remote source.
 >
-> **[2:13](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=133)** Now, in terms of the key benefits here, I would say, you know, zero setup, no Python or package management needed, perfect for quick deployment, great for testing.
+> **[2:13](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=133)** Now, in terms of the key benefits here, I would say, you know, zero setup, no [[Python (Programming Language)|Python]] or [[Package Management]] needed, perfect for quick deployment, great for testing.
 >
 > **[2:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-simple?u=76281980&t=144)** It's got advanced features.
 >
@@ -1108,7 +1096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), web (2), data (2), [[Large Language Models (LLM)|Large language models]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Privacy]] (1), [[Linux]] (1), [[Windows]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** api (3), gpu (1), http (1)
 > **CLI Commands:** wget (1), curl (1), python (1)
 > **Analogies:** think of it like (1), for example (1)
@@ -1117,18 +1105,17 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** click on (1)
 
-#### Rust "hello world" project structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980)
+#### [Rust "hello world" project structure](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=6)** - [Instructor] Let's walk through a basic Rust Hello World Project structure.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=6)** - [Instructor] Let's walk through a basic [[Rust (Programming Language)|Rust]] Hello World Project structure.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=10)** First up here we have something that you would do at the beginning, which is use Cargo and Cargo would create via the Cargo New Hello World, a structure, and this is managed inside of Rust itself.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=24)** So it comes with Rust and the source code will live inside of the source/main.rs that you can see right here.
 >
-> **[0:32](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=32)** The dependencies and the metadata, that's all stored in Cargo.toml.
+> **[0:32](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=32)** The dependencies and the [[Metadata]], that's all stored in Cargo.toml.
 >
 > **[0:37](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=37)** Now the build system, this is where we have the Cargo build and the Cargo build command will compile the project for you, Cargo run would then go ahead and compile and execute and then if you wanted to build a release, you would do a --release and this would build an optimized release.
 >
@@ -1136,9 +1123,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=58)** The main function is the entry point, the print ln is a macro, note that has the exclamation point right there and the function is going to use snake case naming.
 >
-> **[1:11](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=71)** There is no semicolon after the final expression as well and in terms of package management, it's all included for you.
+> **[1:11](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=71)** There is no semicolon after the final expression as well and in terms of [[Package Management]], it's all included for you.
 >
-> **[1:20](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=80)** You have Cargo.toml, which defines the project metadata, you have the dependencies that are added under the dependencies, and you have semantic versioning for version control.
+> **[1:20](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=80)** You have Cargo.toml, which defines the project metadata, you have the dependencies that are added under the dependencies, and you have semantic versioning for [[Version Control]].
 >
 > **[1:32](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/rust-hello-world-project-structure?u=76281980&t=92)** So that's it.
 >
@@ -1154,8 +1141,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS spot deploy ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/aws-spot-deploy-ml?u=76281980)
+#### [AWS spot deploy ML](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/aws-spot-deploy-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1187,7 +1173,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/aws-spot-deploy-ml?u=76281980&t=85)** You could do multiple instance types for fallback and have a interruption-handling script.
 >
-> **[1:30](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/aws-spot-deploy-ml?u=76281980&t=90)** So if you're doing some kind of batch processing, maybe you could, you know, go back to SQS and then not remove that message, and it could take it up again once it was done.
+> **[1:30](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/aws-spot-deploy-ml?u=76281980&t=90)** So if you're doing some kind of [[Batch Processing]], maybe you could, you know, go back to SQS and then not remove that message, and it could take it up again once it was done.
 >
 > **[1:42](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/aws-spot-deploy-ml?u=76281980&t=102)** In terms of storage, this would be the blue section, the S3 could store the model artifacts, the EBS volumes could be for checkpoints, and also the instance store would be for temporary data, and then maybe even automatic model syncing.
 >
@@ -1203,40 +1189,39 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/aws-spot-deploy-ml?u=76281980&t=159)** And in terms of monitoring here, the CloudWatch Metrics, these would be some of the things that you could look at and maybe build a custom dashboard.
 >
-> **[2:47](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/aws-spot-deploy-ml?u=76281980&t=167)** And then finally, with deployment scripts, you could use some kind of infrastructure as code technique like Terraform or CDK or Pulumi, and then you could deploy as well with potentially ECS, or you could monitor with Spot Instances.
+> **[2:47](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/aws-spot-deploy-ml?u=76281980&t=167)** And then finally, with deployment scripts, you could use some kind of [[Infrastructure as code (IaC)|infrastructure as code]] technique like [[Terraform]] or CDK or Pulumi, and then you could deploy as well with potentially ECS, or you could monitor with Spot Instances.
 >
 > **[3:04](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/aws-spot-deploy-ml?u=76281980&t=184)** So these are all things that are top of mind when you're thinking about using Spot Instances for ML deployment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), aws (1), [[Security]] (1), traffic (1), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Terraform]] (1)
 > **Env Vars:** gpu (3), aws (1), vpc (1), iam (1), ecr (1)
 > **CLI Commands:** docker (2), aws (1), az (1), terraform (1)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Hugging Face workflow models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980)
+#### [Hugging Face workflow models](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=6)** - [Instructor] Let's talk through the hugging face model workflow here.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=6)** - [Instructor] Let's talk through the [[Hugging Face]] model workflow here.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=10)** First up here, we have the model hub access in pink and if we think through what this does, you'll authenticate and then you'll browse thousands of models.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=21)** So it's a little similar in many ways to GitHub, but specifically for machine learning.
+> **[0:21](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=21)** So it's a little similar in many ways to [[GitHub]], but specifically for machine learning.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=28)** Next up, we have pipeline creation in green here, and the pipelines are the workflows.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=34)** So these choose from, let's say, a translation task or a classification task, and then you also would configure the model and the tokenizer settings.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=47)** Next up, we have data processing and the data itself is really the crucial component for the best results and there could be even ethical concerns for example, are you choosing open ethically sourced models that aren't using pirated data or data without consent?
+> **[0:47](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=47)** Next up, we have [[Data Processing]] and the data itself is really the crucial component for the best results and there could be even ethical concerns for example, are you choosing open ethically sourced models that aren't using pirated data or data without consent?
 >
 > **[1:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=66)** And then you would load that data set directly in from hugging face or from local sources and you would pre-process and augment as needed.
 >
-> **[1:16](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=76)** In terms of training and fine tuning, these would use the trainer API for simplified training, and you would set the learning rates or the batch size or the epochs, and then you would do some kind of regular evaluation to prevent the overfitting.
+> **[1:16](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=76)** In terms of training and [[Fine Tuning]], these would use the trainer API for simplified training, and you would set the learning rates or the batch size or the epochs, and then you would do some kind of regular evaluation to prevent the overfitting.
 >
-> **[1:31](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=91)** In terms of optimization, this is where you would make the models production ready and you would have the ability to quantize to reduce the size while also maintaining the performance and this is critical when you're working with these large language models, is quantization typically is one of the techniques that allows it to run on your local machine.
+> **[1:31](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=91)** In terms of optimization, this is where you would make the models production ready and you would have the ability to quantize to reduce the size while also maintaining the performance and this is critical when you're working with these [[Large Language Models (LLM)|large language models]], is quantization typically is one of the techniques that allows it to run on your local machine.
 >
 > **[1:55](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/hugging-face-workflow-models?u=76281980&t=115)** Onyx could be another example to make the deployment more flexible.
 >
@@ -1248,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Hugging Face]] (3), next (2), api (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[GitHub]] (1), [[Data Processing]] (1), [[Fine Tuning]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (2)
 > **Tools:** github (1)
@@ -1257,12 +1242,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitHub AI models workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980)
+#### [GitHub AI models workflow](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=5)** - [Instructor] What does the GitHub AI model's workflow look like?
+> **[0:05](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=5)** - [Instructor] What does the [[GitHub]] AI model's workflow look like?
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=10)** First up, we have model selection.
 >
@@ -1276,29 +1260,29 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=38)** You can also compare the models side by side, and then you can save and also share an experiment.
 >
-> **[0:45](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=45)** So there's some similarity here to Hugging Face.
+> **[0:45](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=45)** So there's some similarity here to [[Hugging Face]].
 >
 > **[0:48](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=48)** In terms of development, there is free API access for testing.
 >
 > **[0:54](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=54)** There's VS code AI toolkit integration, and there's also multiple SDK options available.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=61)** In terms of rate management, one thing to consider are there are different tiers of access, and this would be a limit based on a Copilot subscription and also monitoring the usage and quota.
+> **[1:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=61)** In terms of rate management, one thing to consider are there are different tiers of access, and this would be a limit based on a [[Microsoft Copilot|Copilot]] subscription and also monitoring the usage and quota.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=76)** This could be a consideration for a team.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=79)** is how much are you using when you're doing an experiment?
 >
-> **[1:22](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=82)** Do we have a quota for the data science team?
+> **[1:22](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=82)** Do we have a quota for the [[Data Science]] team?
 >
 > **[1:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=84)** Do we have a quota maybe for the product manager team?
 >
 > **[1:29](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=89)** All of these things are part of a unified strategy for managing rate management.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=95)** In terms of production setup, we have seamless Azure integration and you can also switch from both GitHub to Azure tokens depending on what it is you're doing and the ability to scale the production workloads as well.
+> **[1:35](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=95)** In terms of production setup, we have seamless [[Microsoft Azure|Azure]] integration and you can also switch from both GitHub to Azure [[Tokens]] depending on what it is you're doing and the ability to scale the production workloads as well.
 >
 > **[1:51](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=111)** In terms of Enterprise features, some of the things that you could do include having higher rate limits with a Copilot Enterprise license.
 >
-> **[2:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=121)** You could extend the token context windows.
+> **[2:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=121)** You could extend the token context [[Windows]].
 >
 > **[2:04](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/github-ai-models-workflow?u=76281980&t=124)** And you also have the ability to do additional concurrent requests.
 >
@@ -1308,25 +1292,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[GitHub]] (3), [[Hugging Face]] (2), management (2), [[Microsoft Copilot|Copilot]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Hugging Face]] (2), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Azure|Azure]] (2), [[Data Science]] (1)
 > **Tools:** github (3), vs code (1)
 > **Env Vars:** api (1), sdk (1)
 > **Documentation:** specification (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ollama local demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980)
+#### [Ollama local demo](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=6)** - [Instructor] Let's go ahead and take a look at Ollama.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=6)** - [Instructor] Let's go ahead and take a look at [[Ollama]].
 >
 > **[0:09](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=9)** And we'll do a help message.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=12)** This is a large language model runner.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=16)** The idea here is that it allows you to interact with large language models locally.
+> **[0:16](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=16)** The idea here is that it allows you to interact with [[Large Language Models (LLM)|large language models]] locally.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=21)** If you have a powerful workstation, it's a great way to play around with them.
 >
@@ -1342,7 +1325,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=58)** And then if I do a Ctrl + B again here, we can go up to this one, and I'll type in nvidia-smi -l 1.
 >
-> **[1:09](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=69)** And now we can see that, awesome, I can look at the real-time percentage of the GPU that's being used for a particular task.
+> **[1:09](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=69)** And now we can see that, awesome, I can look at the [[Real-Time]] percentage of the GPU that's being used for a particular task.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=78)** It's going to split between, you know, my large monitor but also any invocations that are coming from this model.
 >
@@ -1368,7 +1351,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=123)** So let's try to first get a hello, world cooking here.
 >
-> **[2:07](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=127)** So we'll do show me a Python add function, and you can see it starts to spike and go all the way up to 89% here.
+> **[2:07](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=127)** So we'll do show me a [[Python (Programming Language)|Python]] add function, and you can see it starts to spike and go all the way up to 89% here.
 >
 > **[2:18](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=138)** Also very fast because it's a very performant Nvidia GPU.
 >
@@ -1376,7 +1359,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=147)** And you can see it gives us a pretty good example of a Python function.
 >
-> **[2:32](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=152)** Now, we could also do things like, you know, convert it to rest, convert this example to rest, right?
+> **[2:32](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=152)** Now, we could also do things like, you know, convert it to [[Representational State Transfer (REST)|rest]], convert this example to rest, right?
 >
 > **[2:41](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-local-demo?u=76281980&t=161)** In general, we're going to get some pretty good results from this coder because it's on par with some of the more popular commercial versions.
 >
@@ -1464,7 +1447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ollama]] (12), data (2), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), power (2)
+> **Frameworks & Libraries:** [[Ollama]] (12), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Real-Time]] (1)
 > **Env Vars:** gpu (4), rtx (1), ram (1)
 > **CLI Commands:** python (2), docker (1)
 > **Tools:** terminal (3)
@@ -1473,8 +1456,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), it's like (1)
 > **Versions:** 2.5 (1)
 
-#### Technical training approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980)
+#### [Technical training approaches](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1486,9 +1468,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=44)** Now, in terms of the challenges though, universities are very slow to adopt new technology.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=48)** For example, they may force students to learn older languages like Python or C, because that's what the university researchers know.
+> **[0:48](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=48)** For example, they may force students to learn older languages like [[Python (Programming Language)|Python]] or C, because that's what the university researchers know.
 >
-> **[0:58](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=58)** Maybe a newer language like Rust, they may say, "Hey, let's slow down, we want to be careful."
+> **[0:58](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=58)** Maybe a newer language like [[Rust (Programming Language)|Rust]], they may say, "Hey, let's slow down, we want to be careful."
 >
 > **[1:05](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=65)** In addition, there's a lot of academic group think, where potentially you want to play nice and you don't want to be a maverick and create a challenge because of the politics at a university center.
 >
@@ -1498,11 +1480,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=94)** They can do quick tech adoption.
 >
-> **[1:37](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=97)** Maybe they're like, "Hey, let's go ahead and try these new technologies", like large language models.
+> **[1:37](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=97)** Maybe they're like, "Hey, let's go ahead and try these new technologies", like [[Large Language Models (LLM)|large language models]].
 >
 > **[1:42](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=102)** They're more focused on market responsiveness and more focused on outcomes, so those are the strengths, but they also have their own unique sets of limitations, so the challenges would be that many people that are involved in for-profit training don't have real-world expertise, so at least in the university setting, people have real-world research experience, and so what happens is you have a lot of gate-keeping, "Well, we're not going to give this particular type of technology a chance because we don't know it personally", but they may not know it because they don't have real-world experience, and so the gate-keeping can be an issue with for-profit training.
 >
-> **[2:18](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=138)** We also have corporate training, and so some of the strengths would be that obviously if you're teaching something like AWS or cloud computing and you're the vendor itself, you're going to have a lot of recognition, the skills you're learning are going to be job-ready, there's going to be a clear career path as well, but additionally, you have the problem of vendor lock-in.
+> **[2:18](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=138)** We also have corporate training, and so some of the strengths would be that obviously if you're teaching something like AWS or [[Cloud Computing]] and you're the vendor itself, you're going to have a lot of recognition, the skills you're learning are going to be job-ready, there's going to be a clear career path as well, but additionally, you have the problem of vendor lock-in.
 >
 > **[2:39](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/technical-training-approaches?u=76281980&t=159)** So, a corporate training system is only going to train what that corporation produces, and so there's going to be a limited scope.
 >
@@ -1526,7 +1508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (3), [[Python (Programming Language)|Python]] (1), [[Rust (Programming Language)|Rust]] (1), [[Large Language Models (LLM)|Large language models]] (1), aws (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Rust (Programming Language)|Rust]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** python (1), aws (1)
 > **Analogies:** for example (2)
 > **Env Vars:** aws (1)
@@ -1534,18 +1516,17 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ollama modelfile rust debugger
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-modelfile-rust-debugger?u=76281980)
+#### [Ollama modelfile rust debugger](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-modelfile-rust-debugger?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-modelfile-rust-debugger?u=76281980&t=6)** - [Instructor] Here we have Ollama inside of a IntelliJ environment because I'm going to do a little bit of coding and create my own custom Ollama model.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-modelfile-rust-debugger?u=76281980&t=6)** - [Instructor] Here we have [[Ollama]] inside of a IntelliJ environment because I'm going to do a little bit of coding and create my own custom Ollama model.
 >
 > **[0:16](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-modelfile-rust-debugger?u=76281980&t=16)** So let's go ahead and take a look at Ollama list.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-modelfile-rust-debugger?u=76281980&t=18)** You can see I've got a few things in here, including Quinn 25 which is a cutting edge coding assistant.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-modelfile-rust-debugger?u=76281980&t=24)** Now if we go ahead and take a look at some of the things that you could do here is that we could create this model file here that maybe is a customized Rust debugger, which is kind of a cool concept, right?
+> **[0:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-modelfile-rust-debugger?u=76281980&t=24)** Now if we go ahead and take a look at some of the things that you could do here is that we could create this model file here that maybe is a customized [[Rust (Programming Language)|Rust]] debugger, which is kind of a cool concept, right?
 >
 > **[0:37](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-modelfile-rust-debugger?u=76281980&t=37)** Where I could create my own local tool that is going to help me debug trace backs in Rust or do whatever it is I need to do for maybe some other language like Go, et cetera.
 >
@@ -1665,7 +1646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Ollama]] (8), next (2), prompt (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Ollama]] (8)
 > **CLI Commands:** cargo (4), docker (1), cd (1), make (1)
 > **Tools:** intellij (1), command line (1), terminal (1)
 > **Definitions:** is a  (3)
@@ -1674,8 +1655,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Effective AI engineering learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/effective-ai-engineering-learning?u=76281980)
+#### [Effective AI engineering learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/effective-ai-engineering-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1697,9 +1677,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/effective-ai-engineering-learning?u=76281980&t=55)** And the core foundations are also critical to pay attention to.
 >
-> **[0:58](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/effective-ai-engineering-learning?u=76281980&t=58)** So you need to master the MLOps fundamentals.
+> **[0:58](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/effective-ai-engineering-learning?u=76281980&t=58)** So you need to master the [[MLOps]] fundamentals.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/effective-ai-engineering-learning?u=76281980&t=63)** You need to learn essential system design patterns.
+> **[1:03](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/effective-ai-engineering-learning?u=76281980&t=63)** You need to learn essential system [[Design Patterns]].
 >
 > **[1:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/effective-ai-engineering-learning?u=76281980&t=66)** Also, focus on industry best practices.
 >
@@ -1733,12 +1713,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Engineering]] (4), [[MLOps]] (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI orchestration local workstation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980)
+#### [AI orchestration local workstation](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,13 +1729,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=17)** And to start with, we have the secure environment with dual networking.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=23)** So the house itself could be, you know, a 10 gig switched house or your office could be a 10 gig switched house or higher.
+> **[0:23](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=23)** So the house itself could be, you know, a 10 gig switched house or your [[Microsoft Office|office]] could be a 10 gig switched house or higher.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=32)** And you may have a secondary connection on your box as well.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=35)** That's maybe two and a half gigs.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=37)** But this 10 gig connection allows you to fully saturate, let's say an eight or 10 gig fiber line, so you can communicate with these large language models.
+> **[0:37](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=37)** But this 10 gig connection allows you to fully saturate, let's say an eight or 10 gig fiber line, so you can communicate with these [[Large Language Models (LLM)|large language models]].
 >
 > **[0:47](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=47)** You may have a firewall running maybe pf sense that's also able to give you enterprise grade security so you can download models and maybe serve out APIs to coworkers or other people inside of your office.
 >
@@ -1786,13 +1765,13 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=145)** So you can actually use that to store all of the models.
 >
-> **[2:29](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=149)** Now, in terms of the AI pipeline, this is where you're going to have a lot of interaction with different systems that hold models like hugging face, maybe GitHub models, maybe your own local model repository, future model repositories.
+> **[2:29](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=149)** Now, in terms of the AI pipeline, this is where you're going to have a lot of interaction with different systems that hold models like [[Hugging Face]], maybe [[GitHub]] models, maybe your own local model repository, future model repositories.
 >
 > **[2:43](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=163)** And these are also going to be cuda optimized so that they work well with the RTX 4090.
 >
 > **[2:50](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=170)** Also, the model runners themselves play a role here.
 >
-> **[2:54](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=174)** So if we take a look in this green AI pipeline, you have maybe Alama or rust candle or llama file, or you know, other types of model runners could all be used here.
+> **[2:54](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=174)** So if we take a look in this green AI pipeline, you have maybe Alama or [[Rust (Programming Language)|rust]] candle or [[LLaMA]] file, or you know, other types of model runners could all be used here.
 >
 > **[3:05](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=185)** Now if we look at the, the red arrows here, this is going to represent our optimization cycle.
 >
@@ -1802,7 +1781,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=205)** So you have the best performance monitoring and adjustments.
 >
-> **[3:29](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=209)** Now, in terms of looking at this purple area here, at the very end, what we can do is we can look at, you know, how do we actually interact with the performance metrics?
+> **[3:29](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=209)** Now, in terms of looking at this purple area here, at the very end, what we can do is we can look at, you know, how do we actually interact with the [[Performance Metrics]]?
 >
 > **[3:41](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ai-orchestration-local-workstation?u=76281980&t=221)** So the power, the cooling, how do we actually get all of these things to work together in one spot?
 >
@@ -1812,25 +1791,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Microsoft Office|Office]] (2), power (2), [[Engineering]] (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Hugging Face]] (1), [[GitHub]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** rtx (2), ram (2), amd (1), vram (1), ddr (1)
 > **Definitions:** is an  (1), means that (1)
 > **Versions:** 5.3 (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using TMUX on Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980)
+#### [Using TMUX on Linux](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=5)** - [Instructor] Let's take a look at TMUX, which is one of the most useful utilities you can use on a Linux system because of the versatility of the features.
+> **[0:05](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=5)** - [Instructor] Let's take a look at TMUX, which is one of the most useful utilities you can use on a [[Linux]] system because of the versatility of the features.
 >
 > **[0:16](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=16)** It allows you to persist terminal sessions, so this can make you keep your work running even if you disconnect, and this is really good for running some kind of prototype on a remote server somewhere or running some kind of script that's monitoring something.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=32)** So it gives you that ability to run a long-running job and actually disconnect from it without having to worry about the job being killed.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=41)** Likewise, it also has the ability to do multiple terminal views as well, and you can do things like split screens and use multiple windows in one terminal and reduce the window clutter.
+> **[0:41](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=41)** Likewise, it also has the ability to do multiple terminal views as well, and you can do things like split screens and use multiple [[Windows]] in one terminal and reduce the window clutter.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=55)** So first step here, let's just fire up TMUX and you can see here that it shows that it's running because there's this menu bar at the bottom here where it says 0.zshell, and so we have this default window here where we're able to do things.
 >
@@ -1916,7 +1894,7 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=404)** So I could do something totally different.
 >
-> **[6:46](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=406)** For example, you know, I could, I don't know, create a Ollama interaction.
+> **[6:46](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=406)** For example, you know, I could, I don't know, create a [[Ollama]] interaction.
 >
 > **[6:53](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=413)** So if I type in ollama, which is a large language model runner here, I could do list and I could find some kind of model.
 >
@@ -1926,7 +1904,7 @@ created: 2026-05-02
 >
 > **[7:17](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=437)** and you'll see that, in fact, I can see in real time what's happening with that GPU, because it's going to get hit a little bit.
 >
-> **[7:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=444)** I can say, you know, show me a rust hello world function, and you'll see this thing is getting hammered with the GPU.
+> **[7:24](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=444)** I can say, you know, show me a [[Rust (Programming Language)|rust]] hello world function, and you'll see this thing is getting hammered with the GPU.
 >
 > **[7:35](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-tmux-on-linux?u=76281980&t=455)** So there's some really cool new interfaces that you can do when you're actually using TMUX because you can better utilize the terminal instead of having to pop open tons and tons of terminals.
 >
@@ -1958,7 +1936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), next (4), [[Ollama]] (3), [[Linux]] (2), management (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Ollama]] (3), [[Linux]] (2), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** tmux (6), gpu (6), nvidia (1), cpu (1)
 > **Tools:** terminal (8)
 > **UI Navigation:** go to (4), toggle (2)
@@ -1967,8 +1945,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Versions:** 2.5 (1)
 
-#### Using NVIDIA-SMI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-nvidia-smi?u=76281980)
+#### [Using NVIDIA-SMI](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-nvidia-smi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2002,7 +1979,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-nvidia-smi?u=76281980&t=69)** And then we can see which processes are hitting it.
 >
-> **[1:12](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-nvidia-smi?u=76281980&t=72)** So if you're doing lots of different types of automation, you know, maybe running lots of old llamafile scripts or llamafile scripts or Rust Candle, if you're doing these local large language models, small language models, you may want to be constantly looking at, you know, what are these things doing in real time?
+> **[1:12](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-nvidia-smi?u=76281980&t=72)** So if you're doing lots of different types of automation, you know, maybe running lots of old llamafile scripts or llamafile scripts or [[Rust (Programming Language)|Rust]] Candle, if you're doing these local [[Large Language Models (LLM)|large language models]], small language models, you may want to be constantly looking at, you know, what are these things doing in real time?
 >
 > **[1:31](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-nvidia-smi?u=76281980&t=91)** And so this is one of the best ways to do it.
 >
@@ -2040,7 +2017,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-nvidia-smi?u=76281980&t=191)** Now, we also can look at other stats in a similar way.
 >
-> **[3:15](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-nvidia-smi?u=76281980&t=195)** So, again, you could build your own customized monitoring tool based on this CSV output or do data science on it.
+> **[3:15](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-nvidia-smi?u=76281980&t=195)** So, again, you could build your own customized monitoring tool based on this CSV output or do [[Data Science]] on it.
 >
 > **[3:23](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-nvidia-smi?u=76281980&t=203)** You can see the temperature of the GPU in Celsius is 51 here.
 >
@@ -2062,7 +2039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), [[Scripting]] (1), [[Rust (Programming Language)|Rust]] (1), [[Large Language Models (LLM)|Large language models]] (1), data (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Data Science]] (1)
 > **Env Vars:** gpu (8), csv (4), rtx (1)
 > **UI Navigation:** toggle (2)
 > **Definitions:** is a  (2)
@@ -2071,16 +2048,15 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ollama architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980)
+#### [Ollama architecture](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=6)** - [Instructor] This is a diagram of the general Ollama architecture.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=6)** - [Instructor] This is a diagram of the general [[Ollama]] architecture.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=10)** First up, we have the core components.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=12)** So this includes a REST server, and this is serving perhaps on port 11434.
+> **[0:12](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=12)** So this includes a [[Representational State Transfer (REST)|REST]] server, and this is serving perhaps on port 11434.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=19)** And also, the model library is in ~/.ollama/models.
 >
@@ -2094,11 +2070,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=45)** So again, this is similar to some of the things you would do with Dockerfile.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=50)** There's also version control and tags.
+> **[0:50](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=50)** There's also [[Version Control]] and tags.
 >
 > **[0:53](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=53)** In terms of integration, there's a REST API for programming.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=57)** There's a CLI for direct interaction.
+> **[0:57](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=57)** There's a [[CLI]] for direct interaction.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=60)** There also is language bindings.
 >
@@ -2108,13 +2084,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=76)** There's no cloud dependencies.
 >
-> **[1:19](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=79)** And also, you can do things like API tokens for authentication, and also, model verification through the hash that you verify.
+> **[1:19](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=79)** And also, you can do things like API [[Tokens]] for authentication, and also, model verification through the hash that you verify.
 >
 > **[1:28](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/ollama-architecture?u=76281980&t=88)** So the Ollama architecture is pretty simple, but also very effective.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ollama]] (3), [[Representational State Transfer (REST)|Rest]] (2), api (2), [[Security]] (2), management (1)
+> **Frameworks & Libraries:** [[Ollama]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Version Control]] (1), [[CLI]] (1), [[Tokens]] (1)
 > **Env Vars:** rest (2), api (2), ggml (1), gguf (1), cli (1)
 > **CLI Commands:** docker (2)
 > **Definitions:** is a  (2)
@@ -2122,8 +2098,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Zenith GPU monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980)
+#### [Using Zenith GPU monitoring](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2165,7 +2140,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=154)** The E command will actually let me expand even more.
 >
-> **[2:39](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=159)** And I can see the rest of the processes, or if I wanted to minimize this as well, I could also go through here and do an M.
+> **[2:39](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=159)** And I can see the [[Representational State Transfer (REST)|rest]] of the processes, or if I wanted to minimize this as well, I could also go through here and do an M.
 >
 > **[2:49](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=169)** Another thing to be aware of is that when you're using a tool like this, a lot of times, it's fun to shrink down and kill a process while you're watching it.
 >
@@ -2179,15 +2154,15 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=211)** And let's go ahead and take a look at how that would work.
 >
-> **[3:33](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=213)** For example, if I type in ollama, for example, and I say run, and I go ahead and I run a Ollama model, you'll be able to see that it will also show us some information about what's happening with Ollama.
+> **[3:33](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=213)** For example, if I type in [[Ollama]], for example, and I say run, and I go ahead and I run a Ollama model, you'll be able to see that it will also show us some information about what's happening with Ollama.
 >
-> **[3:50](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=230)** And I can type in, you know, print a rust hello world function example, and then it's going to go through it, It's going to give us more information.
+> **[3:50](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=230)** And I can type in, you know, print a [[Rust (Programming Language)|rust]] hello world function example, and then it's going to go through it, It's going to give us more information.
 >
 > **[4:03](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=243)** For example, the NVIDIA GPU will spike a little bit while things are happening.
 >
 > **[4:08](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=248)** And so, you'll get a good view of exactly what's happening on your system by interacting with a terminal above using Zenith, and also below.
 >
-> **[4:19](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=259)** You can kind of get this real-time feedback loop.
+> **[4:19](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=259)** You can kind of get this [[Real-Time]] feedback loop.
 >
 > **[4:22](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/using-zenith-gpu-monitoring?u=76281980&t=262)** So, it's a pretty useful tool for the AI engineer that's doing things with tools like Ollama or llamafile.
 >
@@ -2195,7 +2170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ollama]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Rust (Programming Language)|Rust]] (1), [[Real-Time]] (1), ai (1)
+> **Frameworks & Libraries:** [[Ollama]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Rust (Programming Language)|Rust]] (1), [[Real-Time]] (1)
 > **Env Vars:** cpu (5), nvidia (4), gpu (3)
 > **Analogies:** for example (5)
 > **Tools:** terminal (3)
@@ -2204,18 +2179,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Compiling Rust candle GPU
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980)
+#### [Compiling Rust candle GPU](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=6)** - [Instructor] Let's take a look at Rust candle.
+> **[0:06](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=6)** - [Instructor] Let's take a look at [[Rust (Programming Language)|Rust]] candle.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=8)** And one of the best ways to describe it is to look at the README file here.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=13)** So, if I go ahead and I do a head README, you can see that it says, "Candle is a minimalistic ML framework for Rust with a focus on performance, including GPU support, and ease of use."
 >
-> **[0:26](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=26)** So, if we look at a git remote here, you can see that this is where it is hosted, it's on GitHub.
+> **[0:26](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=26)** So, if we look at a [[Git]] remote here, you can see that this is where it is hosted, it's on [[GitHub]].
 >
 > **[0:33](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=33)** Now, in order to compile it, what I would recommend is to try out a demo first.
 >
@@ -2289,7 +2263,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=210)** So, what this means is that I could then, you know, put this in my path and use this.
 >
-> **[3:35](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=215)** And so, it's a little bit different than other tools like Ollama llamafile, is that you have more knobs to turn and you also get a binary at the very end.
+> **[3:35](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=215)** And so, it's a little bit different than other tools like [[Ollama]] llamafile, is that you have more knobs to turn and you also get a binary at the very end.
 >
 > **[3:44](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=224)** And we can even take a look at the size of that binary.
 >
@@ -2303,13 +2277,13 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=242)** And then it will also have the large language model in another place on the file system.
 >
-> **[4:07](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=247)** So, this is definitely a great tool to be aware of, is Rust candle, if you want to, you know, really turn the different knobs and play around with large language models locally.
+> **[4:07](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=247)** So, this is definitely a great tool to be aware of, is Rust candle, if you want to, you know, really turn the different knobs and play around with [[Large Language Models (LLM)|large language models]] locally.
 >
 > **[4:19](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/compiling-rust-candle-gpu?u=76281980&t=259)** And you can see here, it's really important to make sure that when you do a release, you do the release that targets the CUDA environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), prompt (2), [[Git]] (1), [[GitHub]] (1), hit (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[Git]] (1), [[GitHub]] (1), [[Ollama]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpu (8), readme (2), cpu (2), cuda (2)
 > **CLI Commands:** git (1), cargo (1), make (1)
 > **UI Navigation:** go to (2)
@@ -2323,8 +2297,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2338,21 +2311,21 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=29)** Let's go ahead and review the core tools that we mastered.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=33)** For Model Runners, we learned how llamafile enables single file distribution, ollama provides clean API development, and Rust Candle delivers performance optimization.
+> **[0:33](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=33)** For Model Runners, we learned how llamafile enables single file distribution, [[Ollama]] provides clean [[API Development]], and [[Rust (Programming Language)|Rust]] Candle delivers performance optimization.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=46)** Our Development Tools include Tmux for monitoring, and also nvidia-smi for GPU tracking, and then zenith for systems monitoring.
 >
-> **[1:00](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=60)** A key focus was understanding hardware requirements and optimization.
+> **[1:00](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=60)** A key focus was understanding [[Hardware]] requirements and optimization.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=65)** We learned how to leverage the RTX 4090 24 gig VRAM, and we also talked about 10Gig networking and how important that is when you combine it with fiber.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=76)** Also, how to maximize CUDA optimization, and also how to manage memory effectively across multiple models.
 >
-> **[1:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=85)** We talked about various model sources, including Hugging Face Hub, GitHub Models, and even local repositories.
+> **[1:25](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=85)** We talked about various model sources, including [[Hugging Face]] Hub, [[GitHub]] Models, and even local repositories.
 >
 > **[1:33](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=93)** And we learned about GGML and GGUF optimization, quantization techniques, which is a way of trading speed for accuracy, and also custom configuration approaches.
 >
-> **[1:46](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=106)** The development best practices that we covered in the course emphasized the best practices for real-time monitoring, for resource tracking, and also for optimization techniques and security implementations.
+> **[1:46](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=106)** The development best practices that we covered in the course emphasized the best practices for [[Real-Time]] monitoring, for resource tracking, and also for optimization techniques and security implementations.
 >
 > **[2:01](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980&t=121)** So really we've been able to achieve quite a bit in this course, and we can think about things like local AI development, hardware optimization, professional tooling, and also real-world development scenarios.
 >
@@ -2368,7 +2341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Engineering]] (2), [[Hardware]] (2), [[Orchestration]] (1), [[Ollama]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Ollama]] (1), [[API Development]] (1), [[Rust (Programming Language)|Rust]] (1), [[Hugging Face]] (1)
 > **Env Vars:** api (1), gpu (1), rtx (1), vram (1), cuda (1)
 > **Cross-References:** we talked about (2), we covered (1)
 > **Tools:** github (1)

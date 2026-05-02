@@ -103,44 +103,42 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the world of explainable AI and interpretable machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980)
+#### [Exploring the world of explainable AI and interpretable machine learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=0)** - [Keith] As data scientists and machine learning practitioners, we have to keep up to speed on the latest techniques.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=7)** Increasingly, that means mastering algorithms that produce black box models.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=7)** Increasingly, that means mastering [[Algorithms]] that produce black box models.
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=13)** They can be a very powerful option, but with that power there's an extra burden placed on us.
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=20)** Hi, I'm Keith McCormick, and I want to invite you to join me as we explore the world of explainable AI and interpretable machine learning.
 >
-> **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=30)** I've been building predictive models with statistics and machine learning for 25 years now.
+> **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=30)** I've been building predictive models with [[Statistics]] and machine learning for 25 years now.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=36)** Explainable AI is a new but critical addition to our skill set as predictive modelers.
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=44)** We stay focused on tabular data.
 >
-> **[0:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=46)** We're going to define key terms, discuss strategy, explore the latest techniques and then demonstrate those techniques using the KNIME Analytics Platform.
+> **[0:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=46)** We're going to define key terms, discuss strategy, explore the latest techniques and then demonstrate those techniques using the [[Knime]] Analytics Platform.
 >
 > **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980&t=58)** We have a lot to explore, so let's begin.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), ai (2), [[Algorithms]] (1), power (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Statistics]] (1), [[Knime]] (1)
 > **Env Vars:** knime (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [keith] (1)
 
-#### Target audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/target-audience?u=76281980)
+#### [Target audience](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/target-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/target-audience?u=76281980&t=0)** - [Instructor] So who is this course designed for?
 >
-> **[0:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/target-audience?u=76281980&t=2)** If you are a data science and machine learning practitioner and you are trying to decide whether to use an interpretable machine learning model or a black box model combined with XAI, this course is for you.
+> **[0:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/target-audience?u=76281980&t=2)** If you are a [[Data Science]] and machine learning practitioner and you are trying to decide whether to use an interpretable machine learning model or a black box model combined with XAI, this course is for you.
 >
 > **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/target-audience?u=76281980&t=16)** Also, we'll be using structured data.
 >
@@ -160,12 +158,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Env Vars:** xai (3)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,9 +176,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-you-should-know?u=76281980&t=23)** So you don't have to be an expert.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-you-should-know?u=76281980&t=25)** But if you've never used linear regression or built a decision tree model, you might want to start there.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-you-should-know?u=76281980&t=25)** But if you've never used [[Linear Regression]] or built a decision tree model, you might want to start there.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-you-should-know?u=76281980&t=32)** Also, we'll be using the KNIME Analytics Platform.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-you-should-know?u=76281980&t=32)** Also, we'll be using the [[Knime]] Analytics Platform.
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-you-should-know?u=76281980&t=37)** Everything you need to know about KNIME is in this course.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (3), [[Linear Regression]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Knime]] (3), [[Linear Regression]] (1)
 > **Env Vars:** knime (3), xai (2)
 > **Speakers:** - [narrator] (1)
 
@@ -200,18 +197,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the what and why your models predict
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980)
+#### [Understanding the what and why your models predict](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=0)** - In an article in "Harvard Data Science Review", "Should We Trust Algorithms?", the author shares a slightly humorous yet powerful story of what issues can arise with computer predictions.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=0)** - In an article in "Harvard [[Data Science]] Review", "Should We Trust [[Algorithms]]?", the author shares a slightly humorous yet powerful story of what issues can arise with computer predictions.
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=13)** When negotiating the narrow streets in the ancient university town of Coimbra, the GPS confidently told us to go left, and so we obeyed her, but we were somewhat taken aback, when the road abruptly turned into steps.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=30)** We stopped in time, but after that, we were not so trusting.
 >
-> **[0:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=34)** Since it didn't end in disaster, I think we can appreciate the everyday reality of AI models making mistakes, and can probably think of humorous times that our smart devices at home misunderstood what music we were requesting or what word we were pronouncing.
+> **[0:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=34)** Since it didn't end in disaster, I think we can appreciate the everyday reality of AI models making mistakes, and can probably think of humorous times that our smart devices at home misunderstood what music we were requesting or what [[Microsoft Word|word]] we were pronouncing.
 >
 > **[0:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=52)** I share this story because it raises three issues that we will be revisiting again and again.
 >
@@ -229,7 +225,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=86)** Commonly, it's the very nature of the technique.
 >
-> **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=90)** For instance, deep neural networks are very complex models that are difficult to interpret.
+> **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=90)** For instance, deep [[Neural Networks]] are very complex models that are difficult to interpret.
 >
 > **[1:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=97)** But even traditional neural networks, back when they had just one hidden layer, were already difficult to interpret.
 >
@@ -253,7 +249,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=176)** If, on the other hand, the problem is high stakes, like getting a favorable rate on a loan, or perhaps even being turned down for a loan, we very much want transparency.
 >
-> **[3:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=188)** Frankly, if our business operates in a regulatory environment like insurance or banking, we are likely forced to have transparency.
+> **[3:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=188)** Frankly, if our business operates in a regulatory environment like insurance or [[Banking]], we are likely forced to have transparency.
 >
 > **[3:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980&t=199)** There will be government agencies that require justification for different prices or justification for decisions like denying an insurance claim.
 >
@@ -269,15 +265,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Neural Networks]] (2), data (1), [[Algorithms]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Data Science]] (1), [[Algorithms]] (1), [[Microsoft Word|Word]] (1), [[Banking]] (1)
 > **Env Vars:** xai (4), gps (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
 
-#### Variable importance and reason codes
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/variable-importance-and-reason-codes?u=76281980)
+#### [Variable importance and reason codes](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/variable-importance-and-reason-codes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,7 +298,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/variable-importance-and-reason-codes?u=76281980&t=79)** As we'll see later in the course, this kind of explanation is called a local explanation because it's giving you information not about the predictive model overall but this very specific situation.
 >
-> **[1:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/variable-importance-and-reason-codes?u=76281980&t=96)** On a commercial financial planning website, nerd [wallet.com](https://wallet.com), there's a credit simulator.
+> **[1:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/variable-importance-and-reason-codes?u=76281980&t=96)** On a commercial [[Financial Planning]] website, nerd [wallet.com](https://wallet.com), there's a credit simulator.
 >
 > **[1:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/variable-importance-and-reason-codes?u=76281980&t=103)** Now I'm not logged in, and I don't happen to be a customer of this particular website, so it's giving generic advice.
 >
@@ -315,7 +310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), ai (1), [[Financial Planning]] (1), generic (1)
+> **Frameworks & Libraries:** [[Financial Planning]] (1)
 > **URLs:** [reasoncode.org](https://reasoncode.org) (1), [wallet.com](https://wallet.com) (1)
 > **Env Vars:** xai (1)
 > **Cross-References:** later in (1)
@@ -323,8 +318,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing IML and XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980)
+#### [Comparing IML and XAI](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +326,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=9)** Let's start by discussing the explainable AI approach in more detail.
 >
-> **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=14)** Black box techniques, like deep learning and XG boost, are increasingly popular.
+> **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=14)** Black box techniques, like [[Deep Learning]] and XG boost, are increasingly popular.
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=20)** They dominate the list of winning entries on machine learning competitions, like those on Kaggle, but their very nature makes them difficult to explain or interpret.
 >
@@ -362,11 +356,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=126)** Since these additional analyses are done after the model is built, they are often described as post hoc explanations.
 >
-> **[2:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=135)** In this course, we'll explain various methods for doing this, and then we'll look at how to create these explanations in the KNIME analytics platform.
+> **[2:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=135)** In this course, we'll explain various methods for doing this, and then we'll look at how to create these explanations in the [[Knime]] analytics platform.
 >
 > **[2:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=147)** XAI is not the only approach.
 >
-> **[2:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=149)** Traditional machine warning techniques like decision trees are inherently explainable and interpretable.
+> **[2:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=149)** Traditional machine warning techniques like [[Decision Trees]] are inherently explainable and interpretable.
 >
 > **[2:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=155)** It is in the very nature of the technique that you can get a fairly detailed accounting of why particular predictions are made, although, you have to be careful to double check how various experts use the term.
 >
@@ -374,13 +368,13 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=184)** I've also encountered this described as intrinsic interpretability, which really just means self-explanatory, but will stick to the term interpretable machine learning.
 >
-> **[3:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=195)** In addition to decision trees, techniques like linear regression and logistic regression, among others, fall into this category.
+> **[3:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=195)** In addition to decision trees, techniques like [[Linear Regression]] and [[Logistic Regression]], among others, fall into this category.
 >
 > **[3:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=205)** Some modelers worry that it implies that we have to fall back on techniques that haven't changed in decades.
 >
 > **[3:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=213)** Frankly, that's okay, because sometimes the older techniques are just fine, but interpretable machine learning doesn't force you to use techniques that might seem out of date, or that fail to be cutting edge.
 >
-> **[3:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=227)** Some researchers have recognized the importance of having inherently interpretable techniques, and they're working on powerful modern algorithms for doing so.
+> **[3:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=227)** Some researchers have recognized the importance of having inherently interpretable techniques, and they're working on powerful modern [[Algorithms]] for doing so.
 >
 > **[3:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/comparing-iml-and-xai?u=76281980&t=236)** Some of these researchers have adopted an almost contrarian point of view, voicing the opinion that we rush to black box models and XAI too quickly.
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Decision Trees]] (2), [[Deep Learning]] (1), [[Knime]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (2), [[Deep Learning]] (1), [[Knime]] (1), [[Linear Regression]] (1), [[Logistic Regression]] (1)
 > **Env Vars:** xai (6), knime (1)
 > **Cross-References:** we discussed (1), previous video (1), later in (1)
 > **Warnings:** warning (1), be careful (1)
@@ -397,12 +391,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trends in AI making the XAI problem more prominent
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980)
+#### [Trends in AI making the XAI problem more prominent](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=0)** - [Instructor] I'm mid-career, but I've been using machine learning algorithms for about 25 years now, so I can start to look back with a bit of perspective.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=0)** - [Instructor] I'm mid-career, but I've been using machine learning [[Algorithms]] for about 25 years now, so I can start to look back with a bit of perspective.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=10)** A lot of incredibly important machine learning innovations are much older than that, dating to the middle of the last century.
 >
@@ -410,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=26)** But admittedly, computers were much more limited back then.
 >
-> **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=30)** As a result, we generally built single decision trees more often than we did ensembles.
+> **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=30)** As a result, we generally built single [[Decision Trees]] more often than we did ensembles.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=36)** And if we built a neural net, we were taught that it should have just one, or at most two, hidden layers.
 >
@@ -426,9 +419,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=68)** Researchers had been trying to get them to work for decades.
 >
-> **[1:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=72)** But finally in 2012, all the factors came together, faster computers, bigger data sets, and deeper neural networks.
+> **[1:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=72)** But finally in 2012, all the factors came together, faster computers, bigger data sets, and deeper [[Neural Networks]].
 >
-> **[1:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=83)** In 2012, Geoffrey Hinton and his team won the ImageNet competition with deep learning.
+> **[1:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=83)** In 2012, Geoffrey Hinton and his team won the ImageNet competition with [[Deep Learning]].
 >
 > **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=90)** The competition had started in 2010 and continued until 2017, but 2012 was a very important year.
 >
@@ -438,7 +431,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=116)** It's a very large data set of labeled images.
 >
-> **[2:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=120)** The annual competition involved building a computer vision model that could do object identification using the data set.
+> **[2:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=120)** The annual competition involved building a [[Computer Vision]] model that could do object identification using the data set.
 >
 > **[2:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=131)** In 2010 and 2011, the winning models were shallow neural nets.
 >
@@ -462,7 +455,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=219)** One is AutoML, and another is Kaggle.
 >
-> **[3:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=224)** Automated machine learning tools feature what one might call a tournament of algorithms where numerous algorithms compete and either a single winner is chosen or sometimes a team of multiple winners are used in a combined model.
+> **[3:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=224)** [[Automated Machine Learning (AutoML)|Automated machine learning]] tools feature what one might call a tournament of algorithms where numerous algorithms compete and either a single winner is chosen or sometimes a team of multiple winners are used in a combined model.
 >
 > **[4:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=241)** In other words, an ensemble.
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=344)** These parallel trends are making opaque models more common than ever.
 >
-> **[5:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=350)** They absolutely dominate certain application areas, and they also dominate data science instruction.
+> **[5:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=350)** They absolutely dominate certain application areas, and they also dominate [[Data Science]] instruction.
 >
 > **[5:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/trends-in-ai-making-the-xai-problem-more-prominent?u=76281980&t=358)** But there's a cost.
 >
@@ -504,13 +497,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Deep Learning]] (4), [[Algorithms]] (3), [[Decision Trees]] (2), career (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Algorithms]] (3), [[Decision Trees]] (2), [[Neural Networks]] (1), [[Computer Vision]] (1)
 > **Env Vars:** xai (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Local and global explanations
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/local-and-global-explanations?u=76281980)
+#### [Local and global explanations](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/local-and-global-explanations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -522,7 +514,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/local-and-global-explanations?u=76281980&t=17)** Global explanations tell us what input variables are most important to the model as a whole.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/local-and-global-explanations?u=76281980&t=25)** If you are familiar with multiple linear regression, it's the standardized beta weight, which allows you to make an apples to apples comparison of the importance of two or more variables.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/local-and-global-explanations?u=76281980&t=25)** If you are familiar with multiple [[Linear Regression]], it's the standardized beta weight, which allows you to make an apples to apples comparison of the importance of two or more variables.
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/local-and-global-explanations?u=76281980&t=37)** Refer to the standardized beta, and you can say which variable was more important.
 >
@@ -558,15 +550,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (1), application (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Env Vars:** xai (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### XAI for debugging models
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-for-debugging-models?u=76281980)
+#### [XAI for debugging models](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-for-debugging-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,9 +575,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-for-debugging-models?u=76281980&t=45)** The researcher and academic Cynthia Rudin, a name we hear repeatedly in this course, often refers to a similar case study.
 >
-> **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-for-debugging-models?u=76281980&t=54)** A medical AI model was discovered to have been detecting the presence of a word in the image rather than diagnostic clue in the image itself.
+> **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-for-debugging-models?u=76281980&t=54)** A medical AI model was discovered to have been detecting the presence of a [[Microsoft Word|word]] in the image rather than diagnostic clue in the image itself.
 >
-> **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-for-debugging-models?u=76281980&t=65)** Both of these examples are a reminder that cross-validation alone is not sufficient to protect us if something about the data collection or data preparation impacts both our training data and our testing data.
+> **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-for-debugging-models?u=76281980&t=65)** Both of these examples are a reminder that cross-validation alone is not sufficient to protect us if something about the [[Data Collection]] or [[Data Preparation]] impacts both our training data and our testing data.
 >
 > **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-for-debugging-models?u=76281980&t=82)** We need another layer of protection.
 >
@@ -606,14 +597,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Data Collection]] (1), [[Data Preparation]] (1)
 > **Env Vars:** lime (1), xai (1)
 > **Definitions:** refers to (1), is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### KNIME support of global and local explanations
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/knime-support-of-global-and-local-explanations?u=76281980)
+#### [KNIME support of global and local explanations](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/knime-support-of-global-and-local-explanations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -655,7 +645,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3)
 > **Env Vars:** xai (3), lime (2), glm (1), shap (1), ice (1)
 > **Speakers:** - [instructor] (1)
 
@@ -664,12 +653,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenges of variable attribution with linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980)
+#### [Challenges of variable attribution with linear regression](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=0)** - [Instructor] When we talk about explainability and interpretability, it is often mentioned that if we could only get by with very simple models like linear regression and they were accurate enough, we'd be all set because they are inherently interpretable.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=0)** - [Instructor] When we talk about explainability and interpretability, it is often mentioned that if we could only get by with very simple models like [[Linear Regression]] and they were accurate enough, we'd be all set because they are inherently interpretable.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=17)** This is partly true, but it takes a surprising amount of familiarity with the techniques to make this reverse engineering happen in practice.
 >
@@ -689,7 +677,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=95)** How easy or difficult will that be to determine when running a multiple regression analysis?
 >
-> **[1:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=102)** In order to prepare this example, I worked in the Excel analysis add-on, so we'll take a quick peek at the data and the results, but there's no need to click along for this one.
+> **[1:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=102)** In order to prepare this example, I worked in the [[Microsoft Excel|Excel]] analysis add-on, so we'll take a quick peek at the data and the results, but there's no need to click along for this one.
 >
 > **[1:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=114)** We'll be focused on the concepts for now and I'll be providing the spreadsheet to you.
 >
@@ -817,7 +805,7 @@ created: 2026-05-02
 >
 > **[7:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=466)** The coefficient for horsepower, when it's present is changing along the way.
 >
-> **[7:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=470)** All of these things are in flux.
+> **[7:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=470)** All of these things are in [[Flux]].
 >
 > **[7:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980&t=472)** The point is, if you run just one model, it's the most accurate model.
 >
@@ -837,7 +825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Linear Regression]] (3), [[Engineering]] (1), [[Microsoft Excel|Excel]] (1), [[Flux]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), [[Microsoft Excel|Excel]] (1), [[Flux]] (1)
 > **Versions:** 69.3 (1), 70.6 (1), 74.8 (1), 15.3 (1), 11.6 (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** uci (1), mpg (1)
@@ -845,8 +833,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenges of variable attribution with neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980)
+#### [Challenges of variable attribution with neural networks](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,7 +857,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=60)** Well, we already have at least two major problems, and this is just about the simplest neural network one can imagine.
 >
-> **[1:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=69)** These days, deep neural networks have many orders of magnitude, more nodes, and parameters than shown here.
+> **[1:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=69)** These days, deep [[Neural Networks]] have many orders of magnitude, more nodes, and parameters than shown here.
 >
 > **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=76)** Nonetheless, we still have some complications to talk about.
 >
@@ -884,7 +871,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=97)** Here's the second problem.
 >
-> **[1:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=99)** We know from the linear regression and common sense that tons has a negative relationship with miles per gallon.
+> **[1:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=99)** We know from the [[Linear Regression]] and common sense that tons has a negative relationship with miles per gallon.
 >
 > **[1:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=107)** Heavy cars need more fuel, thus lower fuel efficiency.
 >
@@ -898,7 +885,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=132)** Remember, we could have hundreds or thousands or even billions of these parameters.
 >
-> **[2:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=138)** Microsoft recently made an announcement about a neural network with trillions of parameters.
+> **[2:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=138)** [[Microsoft]] recently made an announcement about a neural network with trillions of parameters.
 >
 > **[2:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=146)** In fact, there could be a complex interaction that causes some of these paths to have a positive relationship.
 >
@@ -910,7 +897,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=168)** We also don't need to add polynomials to address curvilinearity as we do in regression.
 >
-> **[2:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=173)** And we don't have to worry about feature engineering.
+> **[2:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=173)** And we don't have to worry about [[Feature Engineering]].
 >
 > **[2:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-neural-networks?u=76281980&t=177)** In theory, all of that is addressed for us.
 >
@@ -927,8 +914,7 @@ created: 2026-05-02
 > **Env Vars:** xai (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rashomon effect
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/rashomon-effect?u=76281980)
+#### [Rashomon effect](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/rashomon-effect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +998,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** cart (1)
 > **Definitions:** in other words (1)
@@ -1023,8 +1008,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What qualifies as a black box?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980)
+#### [What qualifies as a black box?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,7 +1018,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=19)** What model should be treated as black box models?
 >
-> **[0:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=23)** In a Harvard data science review article, Cynthia Rudin and her co-authors attempted to reverse engineer the compass risk score.
+> **[0:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=23)** In a Harvard [[Data Science]] review article, Cynthia Rudin and her co-authors attempted to reverse engineer the compass risk score.
 >
 > **[0:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=31)** The compass risk score is used to predict the risk that a released prisoner will commit again in the future.
 >
@@ -1042,11 +1026,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=40)** In response, members of the team behind the compass risk score wrote setting the record straight, explaining that they didn't use a black box technique.
 >
-> **[0:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=51)** They used logistic regression.
+> **[0:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=51)** They used [[Logistic Regression]].
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=53)** In a further response, Rudin wrote that it doesn't matter if the model was logistic if the score is proprietary and kept secret.
 >
-> **[1:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=62)** Obviously, hearing both sides of the debate could fuel an excellent case study in AI ethics.
+> **[1:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=62)** Obviously, hearing both sides of the debate could fuel an excellent case study in AI [[Ethics]].
 >
 > **[1:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=69)** And I encourage you to read the entire series of articles at the Harvard Data Science Review, but for our purposes, it raises an interesting question.
 >
@@ -1056,7 +1040,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=87)** The classic definition, of course, is a model so complex that it's impossible to interpret, because of the nature of the algorithm that was used.
 >
-> **[1:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=97)** Traditional machine warning algorithms are usually considered as automatically belonging in the transparent model category.
+> **[1:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=97)** Traditional machine warning [[Algorithms]] are usually considered as automatically belonging in the transparent model category.
 >
 > **[1:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980&t=107)** But when you put this in a broader context, it might be safer to consider three categories as black box.
 >
@@ -1072,21 +1056,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (2), [[Logistic Regression]] (1), ai (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Algorithms]] (2), [[Logistic Regression]] (1), [[Ethics]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** xai (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why do we have black box models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980)
+#### [Why do we have black box models?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=0)** - [Instructor] So if complex black box models have the potential to create challenges and extra work, there have to be some compelling reasons to do it.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=10)** I'm going to list what I believe to be the most important reasons influencing the contemporary data science community.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=10)** I'm going to list what I believe to be the most important reasons influencing the contemporary [[Data Science]] community.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=17)** Each of these could be debated.
 >
@@ -1102,9 +1085,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=47)** The full story is a bit more subtle, but this reason is so important that we'll dig a bit deeper on this one in the next video.
 >
-> **[0:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=55)** I think we're also influenced by famous case studies natural language processing has demonstrated in our smart home devices.
+> **[0:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=55)** I think we're also influenced by famous case studies [[Natural Language Processing (NLP)|natural language processing]] has demonstrated in our smart home devices.
 >
-> **[1:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=63)** And technologies like autonomous vehicles would be impossible without the advances in deep learning.
+> **[1:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=63)** And technologies like autonomous vehicles would be impossible without the advances in [[Deep Learning]].
 >
 > **[1:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=69)** So there's an assumption that it's also the best choice in all industries.
 >
@@ -1112,7 +1095,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=85)** Another reason is convenience.
 >
-> **[1:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=87)** Traditional machine learning is hard, particularly feature engineering.
+> **[1:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=87)** Traditional machine learning is hard, particularly [[Feature Engineering]].
 >
 > **[1:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-do-we-have-black-box-models?u=76281980&t=92)** Data prep is famously the majority of the work in a traditional machine learning project.
 >
@@ -1166,14 +1149,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (4), [[Deep Learning]] (4), [[Feature Engineering]] (2), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Data Science]] (3), [[Feature Engineering]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is the accuracy interpretability tradeoff?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-is-the-accuracy-interpretability-tradeoff?u=76281980)
+#### [What is the accuracy interpretability tradeoff?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-is-the-accuracy-interpretability-tradeoff?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1183,7 +1165,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-is-the-accuracy-interpretability-tradeoff?u=76281980&t=19)** It's mostly just being asserted to be true.
 >
-> **[0:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-is-the-accuracy-interpretability-tradeoff?u=76281980&t=24)** One fact of agreement to everyone, and it certainly is true, is that linear regression belongs in the upper left corner and deep learning belongs in the lower right.
+> **[0:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-is-the-accuracy-interpretability-tradeoff?u=76281980&t=24)** One fact of agreement to everyone, and it certainly is true, is that [[Linear Regression]] belongs in the upper left corner and [[Deep Learning]] belongs in the lower right.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-is-the-accuracy-interpretability-tradeoff?u=76281980&t=36)** However, it's rarely clear in blog posts or in videos you may find whether the author did some kind of experiment or if they're attempting to generalize.
 >
@@ -1247,18 +1229,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Deep Learning]] (1), web (1), data (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Deep Learning]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Versions:** 2.7 (2)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### The argument against XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/the-argument-against-xai?u=76281980)
+#### [The argument against XAI](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/the-argument-against-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/the-argument-against-xai?u=76281980&t=0)** - [Instructor] The first time I encountered the ideas of Cynthia Rudin, I was attending her keynote at the 2019 Knowledge Discovery in Databases conference in Anchorage, Alaska.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/the-argument-against-xai?u=76281980&t=0)** - [Instructor] The first time I encountered the ideas of Cynthia Rudin, I was attending her keynote at the 2019 Knowledge Discovery in [[Databases]] conference in Anchorage, Alaska.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/the-argument-against-xai?u=76281980&t=14)** The premise of her keynote was perhaps we're using complicated models when we don't need them.
 >
@@ -1266,7 +1247,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/the-argument-against-xai?u=76281980&t=26)** She's become very vocal, and she's taken a strong contrarian position on explainable AI, but she's very well regarded.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/the-argument-against-xai?u=76281980&t=35)** She recently won a million-dollar award for pioneering work in socially responsible AI.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/the-argument-against-xai?u=76281980&t=35)** She recently won a million-dollar award for pioneering work in socially [[Responsible AI]].
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/the-argument-against-xai?u=76281980&t=43)** I'd like to briefly summarize the key points of her position.
 >
@@ -1300,7 +1281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), ai (1), [[Responsible AI]] (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** later in (2)
 > **Env Vars:** xai (1)
@@ -1312,12 +1293,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980)
+#### [Introducing KNIME](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=0)** - [Instructor] Okay, I want to take a couple of moments to orient you to the KNIME Analytics Platform.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=0)** - [Instructor] Okay, I want to take a couple of moments to orient you to the [[Knime]] Analytics Platform.
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=6)** It's open source, it's easy to install, it's easy to use, and it has great support for explainable AI.
 >
@@ -1349,15 +1329,15 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=92)** And if you go to the EXAMPLES Server here and do as it says, double click to see the EXAMPLES, it will take a moment, but there's just a ton of them.
 >
-> **[1:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=103)** So for instance, if we go to analytics and statistics
+> **[1:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=103)** So for instance, if we go to analytics and [[Statistics]]
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=112)** we can see Performing a Linear Discriminant Analysis for instance, something that we won't be doing again in this course, but I want to show you how the EXAMPLES work.
 >
 > **[2:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=123)** And I also want to show you this.
 >
-> **[2:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=126)** You might want to close some of these other windows to give give yourself more room,
+> **[2:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=126)** You might want to close some of these other [[Windows]] to give give yourself more room,
 >
-> **[2:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=142)** and zoom in so that you can see that better.
+> **[2:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=142)** and [[Zoom]] in so that you can see that better.
 >
 > **[2:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=146)** Let me quickly orient you to the basic feel of KNIME.
 >
@@ -1367,7 +1347,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=172)** So again, we're not focused on Linear Discriminant at the moment, I just wanted you to see a KNIME workflow.
 >
-> **[2:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=179)** So, what if you're looking for something related to Decision Trees?
+> **[2:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=179)** So, what if you're looking for something related to [[Decision Trees]]?
 >
 > **[3:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980&t=185)** We can start to type decision in here, and we actually can see a number of the nodes that would be related, including the Spark Decision Tree Learner, and normally help would come up but we had closed some of those windows so that we could zoom in.
 >
@@ -1385,7 +1365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (11), [[Windows]] (4), [[Zoom]] (4), [[Analytics]] (2), ai (1)
+> **Frameworks & Libraries:** [[Knime]] (11), [[Windows]] (4), [[Zoom]] (4), [[Statistics]] (1), [[Decision Trees]] (1)
 > **Env Vars:** knime (11), examples (5), xai (2)
 > **CLI Commands:** make (2), find (1), node (1)
 > **UI Navigation:** go to (3)
@@ -1394,8 +1374,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Best Practices:** make sure to (1)
 
-#### Building models in KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/building-models-in-knime?u=76281980)
+#### [Building models in KNIME](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/building-models-in-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1417,7 +1396,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/building-models-in-knime?u=76281980&t=43)** So double click on that.
 >
-> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/building-models-in-knime?u=76281980&t=45)** We can zoom in a little bit.
+> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/building-models-in-knime?u=76281980&t=45)** We can [[Zoom]] in a little bit.
 >
 > **[0:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/building-models-in-knime?u=76281980&t=46)** I think we have room to go even one click higher.
 >
@@ -1513,19 +1492,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Zoom]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **UI Navigation:** go to (3), click on (2)
 > **Env Vars:** uci (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding looping in KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-looping-in-knime?u=76281980)
+#### [Understanding looping in KNIME](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-looping-in-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-looping-in-knime?u=76281980&t=0)** - [Instructor] Okay, we're picking up where we left off and we're going to do a very brief introduction to looping in KNIME.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-looping-in-knime?u=76281980&t=0)** - [Instructor] Okay, we're picking up where we left off and we're going to do a very brief introduction to looping in [[Knime]].
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-looping-in-knime?u=76281980&t=7)** So why looping in KNIME for a course about explainable AI?
 >
@@ -1549,7 +1527,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-looping-in-knime?u=76281980&t=74)** Double clicking on that, and it's loading.
 >
-> **[1:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-looping-in-knime?u=76281980&t=77)** We've got room to zoom in a little bit here.
+> **[1:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-looping-in-knime?u=76281980&t=77)** We've got room to [[Zoom]] in a little bit here.
 >
 > **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-looping-in-knime?u=76281980&t=82)** We have just enough room for that and you can see the, it it's just four nodes.
 >
@@ -1587,17 +1565,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (4), data (2), node (2), ai (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Knime]] (4), [[Zoom]] (1)
 > **Env Vars:** knime (4), xai (3)
 > **CLI Commands:** node (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where to find available KNIME support for XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/where-to-find-available-knime-support-for-xai?u=76281980)
+#### [Where to find available KNIME support for XAI](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/where-to-find-available-knime-support-for-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/where-to-find-available-knime-support-for-xai?u=76281980&t=0)** - [Instructor] So, where do you look in KNIME for XAI related resources?
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/where-to-find-available-knime-support-for-xai?u=76281980&t=0)** - [Instructor] So, where do you look in [[Knime]] for XAI related resources?
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/where-to-find-available-knime-support-for-xai?u=76281980&t=7)** Well, remember that KNIME is community based.
 >
@@ -1613,7 +1590,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/where-to-find-available-knime-support-for-xai?u=76281980&t=44)** And then down in the node repository normally you would, you know just search for nodes that have been in KNIME for a very long time.
 >
-> **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/where-to-find-available-knime-support-for-xai?u=76281980&t=54)** You can generally, for instance, decision trees.
+> **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/where-to-find-available-knime-support-for-xai?u=76281980&t=54)** You can generally, for instance, [[Decision Trees]].
 >
 > **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/where-to-find-available-knime-support-for-xai?u=76281980&t=58)** Everything is just there.
 >
@@ -1647,7 +1624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (7), [[Search]] (4), node (2), [[Analytics]] (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Knime]] (7), [[Decision Trees]] (1)
 > **Env Vars:** knime (7), xai (5), lime (1), shap (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for instance (3)
@@ -1659,8 +1636,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Providing global explanations with partial dependence plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/providing-global-explanations-with-partial-dependence-plots?u=76281980)
+#### [Providing global explanations with partial dependence plots](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/providing-global-explanations-with-partial-dependence-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1676,7 +1652,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/providing-global-explanations-with-partial-dependence-plots?u=76281980&t=38)** But after a value of four on X axis the relationship seems to plateau.
 >
-> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/providing-global-explanations-with-partial-dependence-plots?u=76281980&t=45)** Let's go into KNIME and do this example step by step.
+> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/providing-global-explanations-with-partial-dependence-plots?u=76281980&t=45)** Let's go into [[Knime]] and do this example step by step.
 >
 > **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/providing-global-explanations-with-partial-dependence-plots?u=76281980&t=50)** First, I want to just direct you to some information about this data set.
 >
@@ -1756,7 +1732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Knime]] (4), node (2), feature (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Knime]] (4)
 > **Env Vars:** knime (4), xai (1), pdp (1)
 > **Definitions:** is a  (4), is called (1), is an  (1)
 > **CLI Commands:** find (2), node (2), make (1)
@@ -1765,8 +1741,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using surrogate models for global explanations
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/using-surrogate-models-for-global-explanations?u=76281980)
+#### [Using surrogate models for global explanations](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/using-surrogate-models-for-global-explanations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1784,7 +1759,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/using-surrogate-models-for-global-explanations?u=76281980&t=41)** We will do the bare minimum at first.
 >
-> **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/using-surrogate-models-for-global-explanations?u=76281980&t=44)** A bit later, we'll learn that KNIME can help us with surrogate models.
+> **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/using-surrogate-models-for-global-explanations?u=76281980&t=44)** A bit later, we'll learn that [[Knime]] can help us with surrogate models.
 >
 > **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/using-surrogate-models-for-global-explanations?u=76281980&t=50)** So the first step is to get the predictions from the black box model, then train an interpretable model on the predictions, meaning that the predictions of first model become the dependent variable of the second model, then measure how well it replicates.
 >
@@ -1802,13 +1777,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (3), generic (1)
+> **Frameworks & Libraries:** [[Knime]] (3)
 > **Env Vars:** knime (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing and interpreting a surrogate model with KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/developing-and-interpreting-a-surrogate-model-with-knime?u=76281980)
+#### [Developing and interpreting a surrogate model with KNIME](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/developing-and-interpreting-a-surrogate-model-with-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1876,7 +1850,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), node (3)
 > **CLI Commands:** node (3), make (1)
 > **Versions:** 0.3301 (1), 0.3941 (1), 16.8 (1)
 > **Env Vars:** csv (1)
@@ -1885,8 +1858,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Permutation feature importance
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/permutation-feature-importance?u=76281980)
+#### [Permutation feature importance](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/permutation-feature-importance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1910,17 +1882,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), node (2)
 > **CLI Commands:** node (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Global feature importance demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/global-feature-importance-demo?u=76281980)
+#### [Global feature importance demo](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/global-feature-importance-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/global-feature-importance-demo?u=76281980&t=0)** - [Instructor] Okay, we're going to talk about the impressive global feature importance node in KNIME.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/global-feature-importance-demo?u=76281980&t=0)** - [Instructor] Okay, we're going to talk about the impressive global feature importance node in [[Knime]].
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/global-feature-importance-demo?u=76281980&t=7)** I've tried to present the conceptual material so that you can apply it in any venue, frankly, not just KNIME.
 >
@@ -2010,7 +1980,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/global-feature-importance-demo?u=76281980&t=273)** And then we see times in debt for two to three months, monthly income, times in debt for one to two months.
 >
-> **[4:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/global-feature-importance-demo?u=76281980&t=278)** And as you probably know from seeing this in other windows, those symbols allow you to further branch, so really pretty interesting and pretty thorough.
+> **[4:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/global-feature-importance-demo?u=76281980&t=278)** And as you probably know from seeing this in other [[Windows]], those symbols allow you to further branch, so really pretty interesting and pretty thorough.
 >
 > **[4:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/global-feature-importance-demo?u=76281980&t=291)** And it couldn't be easier.
 >
@@ -2046,7 +2016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), [[Knime]] (6), feature (5), data (4), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Knime]] (6), [[Windows]] (1)
 > **CLI Commands:** node (6), find (4), make (1)
 > **Env Vars:** knime (6), pdp (1)
 > **Definitions:** means that (2), is a  (1)
@@ -2060,12 +2030,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing an intuition for Shapley values
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/developing-an-intuition-for-shapley-values?u=76281980)
+#### [Developing an intuition for Shapley values](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/developing-an-intuition-for-shapley-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/developing-an-intuition-for-shapley-values?u=76281980&t=0)** - [Instructor] Shapley values are a popular way of doing local explanations that originated in game theory, and they're implemented in KNIME.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/developing-an-intuition-for-shapley-values?u=76281980&t=0)** - [Instructor] Shapley values are a popular way of doing local explanations that originated in game theory, and they're implemented in [[Knime]].
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/developing-an-intuition-for-shapley-values?u=76281980&t=9)** I'd like to illustrate Shapley values with a story.
 >
@@ -2143,7 +2112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (4), game (2)
+> **Frameworks & Libraries:** [[Knime]] (4)
 > **Env Vars:** knime (4), nyu (1)
 > **UI Navigation:** go to (1), click on (1)
 > **URLs:** [shapleyvalue.com](https://shapleyvalue.com) (1)
@@ -2151,8 +2120,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing SHAP
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-shap?u=76281980)
+#### [Introducing SHAP](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-shap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2196,7 +2164,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), game (1)
 > **Env Vars:** shap (7), xai (1)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** find (1)
@@ -2204,8 +2171,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using LIME to provide local explanations for neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/using-lime-to-provide-local-explanations-for-neural-networks?u=76281980)
+#### [Using LIME to provide local explanations for neural networks](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/using-lime-to-provide-local-explanations-for-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2249,14 +2215,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** lime (7), xai (2), nime (1)
 > **Analogies:** similar to (1), for instance (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are counterfactuals?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-are-counterfactuals?u=76281980)
+#### [What are counterfactuals?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-are-counterfactuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2272,7 +2236,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-are-counterfactuals?u=76281980&t=29)** Here's the instructions for Granny's cure.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-are-counterfactuals?u=76281980&t=32)** Take one dose of the cure, eat sensibly, get lots of rest, drink plenty of water, do all that, and according to Jed, in a week to 10 days, your cold will be gone.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-are-counterfactuals?u=76281980&t=32)** Take one dose of the cure, eat sensibly, get lots of [[Representational State Transfer (REST)|rest]], drink plenty of water, do all that, and according to Jed, in a week to 10 days, your cold will be gone.
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-are-counterfactuals?u=76281980&t=44)** I think we can all see the humor in that, even if you don't think it's quite as funny as I did as a kid.
 >
@@ -2304,19 +2268,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), node (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** xai (4), nime (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### KNIME's Local Explanation View node
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/knime-s-local-explanation-view-node?u=76281980)
+#### [KNIME's Local Explanation View node](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/knime-s-local-explanation-view-node?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/knime-s-local-explanation-view-node?u=76281980&t=0)** - [Instructor] The team at Knime really tries to make it easy to learn new features.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/knime-s-local-explanation-view-node?u=76281980&t=0)** - [Instructor] The team at [[Knime]] really tries to make it easy to learn new features.
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/knime-s-local-explanation-view-node?u=76281980&t=6)** In almost every instance when a new feature comes out, you can count on eventually having a blog post, a practice workflow, and discussion.
 >
@@ -2386,19 +2349,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (5), data (5), feature (3), node (1)
+> **Frameworks & Libraries:** [[Knime]] (5)
 > **CLI Commands:** make (2), node (1)
 > **Analogies:** similar to (2), for instance (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** xai (1)
 > **Speakers:** - [instructor] (1)
 
-#### XAI View node demonstrating KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-view-node-demonstrating-knime?u=76281980)
+#### [XAI View node demonstrating KNIME](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-view-node-demonstrating-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-view-node-demonstrating-knime?u=76281980&t=0)** - [Instructor] We're back in KNIME, but with a new workflow.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-view-node-demonstrating-knime?u=76281980&t=0)** - [Instructor] We're back in [[Knime]], but with a new workflow.
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-view-node-demonstrating-knime?u=76281980&t=4)** Now that we've seen the Global Explanation View earlier in the course and just seen the Local Explanation View, now we're going to take a moment to take a look at a new view, the XAI View that combines elements of local and global.
 >
@@ -2406,7 +2368,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-view-node-demonstrating-knime?u=76281980&t=29)** Now, that is their numbering convention, 05_XAI_Credit_Scoring_Example_XAI_View.
 >
-> **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-view-node-demonstrating-knime?u=76281980&t=39)** So one quick note before we zoom into the report itself, notice that there's a note here, "Scatter Plot Selection."
+> **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-view-node-demonstrating-knime?u=76281980&t=39)** So one quick note before we [[Zoom]] into the report itself, notice that there's a note here, "Scatter Plot Selection."
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/xai-view-node-demonstrating-knime?u=76281980&t=47)** That's selecting a group of applicants, a small group as it were, because the XAI View, since it combines both local and global features, we don't want to throw the whole data set at it, we want to select a handful.
 >
@@ -2480,7 +2442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (2), [[Zoom]] (1), data (1), feature (1)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Zoom]] (1)
 > **Env Vars:** knime (2), xai (2), shap (2), ice (1)
 > **Cross-References:** earlier in (3), go back to (3), we talked about (1)
 > **Definitions:** is a  (2)
@@ -2493,8 +2455,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### General advice for better IML
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980)
+#### [General advice for better IML](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2504,19 +2465,19 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=20)** Nonetheless, there are some general principles we can discuss at this point in our journey that seem especially suited to this course.
 >
-> **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=28)** Where I see folks get into trouble is that they sometimes skip data assessment and data prep and jump immediately to their favorite black box algorithm without trying anything else first.
+> **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=28)** Where I see folks get into trouble is that they sometimes skip [[Data Assessment]] and data prep and jump immediately to their favorite black box algorithm without trying anything else first.
 >
-> **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=41)** That strategy makes it nearly impossible to know if you're on the right or wrong track and if you've successfully avoided perennial problems like data quality issues or overfitting.
+> **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=41)** That strategy makes it nearly impossible to know if you're on the right or wrong track and if you've successfully avoided perennial problems like [[Data Quality]] issues or overfitting.
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=53)** Always try interpretable models first so that you can learn from your data and from your initial attempts.
 >
 > **[1:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=61)** Then you also know the accuracy score that you need to beat and whether sacrificing interpretability is worth it.
 >
-> **[1:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=69)** Also, it's impossible to do more traditional methods well without feature engineering.
+> **[1:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=69)** Also, it's impossible to do more traditional methods well without [[Feature Engineering]].
 >
 > **[1:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=77)** This can get a bit tricky because you may end up with multiple datasets.
 >
-> **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=82)** That happens because each of the traditional algorithms that you use might need slightly different data prep.
+> **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=82)** That happens because each of the traditional [[Algorithms]] that you use might need slightly different data prep.
 >
 > **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980&t=88)** Some techniques need this attention more than others, but without feature engineering, you aren't giving the interpretable models a fair shot.
 >
@@ -2570,20 +2531,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Feature Engineering]] (3), [[Algorithms]] (2), next (2), management (2)
+> **Frameworks & Libraries:** [[Feature Engineering]] (3), [[Algorithms]] (2), [[Data Assessment]] (1), [[Data Quality]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** xai (3)
 > **Cross-References:** go back to (2), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why feature engineering is critical for IML
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-feature-engineering-is-critical-for-iml?u=76281980)
+#### [Why feature engineering is critical for IML](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-feature-engineering-is-critical-for-iml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-feature-engineering-is-critical-for-iml?u=76281980&t=0)** - [Instructor] Feature engineering is so important that even though you'll find it discussed in more detail in other courses, I want to try to illustrate its importance with a story.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-feature-engineering-is-critical-for-iml?u=76281980&t=0)** - [Instructor] [[Feature Engineering]] is so important that even though you'll find it discussed in more detail in other courses, I want to try to illustrate its importance with a story.
 >
-> **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-feature-engineering-is-critical-for-iml?u=76281980&t=11)** Years ago, I was working with a client on a binary logistic regression model.
+> **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-feature-engineering-is-critical-for-iml?u=76281980&t=11)** Years ago, I was working with a client on a binary [[Logistic Regression]] model.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/why-feature-engineering-is-critical-for-iml?u=76281980&t=17)** He was exploring pediatric root canals.
 >
@@ -2617,18 +2577,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Feature Engineering]] (2), [[Logistic Regression]] (1), data (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (2), [[Logistic Regression]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** cdc (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### CORELS and recent trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980)
+#### [CORELS and recent trends](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=0)** - [Instructor] I want to proceed with a very brief demonstration, but this demonstration will be a bit different because it won't be in KNIME.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=0)** - [Instructor] I want to proceed with a very brief demonstration, but this demonstration will be a bit different because it won't be in [[Knime]].
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=6)** And the reason that we're not going to do this in KNIME is because the CORELS algorithm, which stands for Certifiably Optimal Rule Lists, is not available in KNIME currently.
 >
@@ -2636,7 +2595,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=20)** Well, Cynthia Rudin and her team of graduate students and fellow researchers have been very active trying to modernize contemporary interpretable machine learning.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=32)** So why do we need contemporary alternatives to excellent algorithms like binary, logistic, and CART?
+> **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=32)** So why do we need contemporary alternatives to excellent [[Algorithms]] like binary, logistic, and CART?
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=39)** Well, decades ago, we simply didn't have the computer power that we have now.
 >
@@ -2654,15 +2613,15 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=70)** So very briefly, what's a rule list?
 >
-> **[1:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=73)** Many folks are more familiar with decision trees than rule lists, but they're closely related.
+> **[1:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=73)** Many folks are more familiar with [[Decision Trees]] than rule lists, but they're closely related.
 >
 > **[1:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=79)** They both generate rules in the form of if/then statements, but the nature of those rules is a bit different.
 >
 > **[1:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=87)** So CORELS generates a rule list and you can run it.
 >
-> **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=93)** If you go to install, you can actually see that the information for GitHub is here.
+> **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=93)** If you go to install, you can actually see that the information for [[GitHub]] is here.
 >
-> **[1:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=99)** So you absolutely could run it in KNIME, we're just not going to get into the details of how to insert Python code into KNIME at the moment because there's also another cool option.
+> **[1:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=99)** So you absolutely could run it in KNIME, we're just not going to get into the details of how to insert [[Python (Programming Language)|Python]] code into KNIME at the moment because there's also another cool option.
 >
 > **[1:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/corels-and-recent-trends?u=76281980&t=111)** We can actually run it online.
 >
@@ -2710,7 +2669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), [[Knime]] (5), data (5), power (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Knime]] (5), [[Decision Trees]] (1), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** corels (8), knime (5), cart (3), compas (3)
 > **Definitions:** is a  (2), is an  (2), stands for (1), in other words (1)
 > **CLI Commands:** python (1), make (1), find (1)
@@ -2724,18 +2683,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to explore XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980)
+#### [Continuing to explore XAI](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=0)** - [Instructor] I'm excited that you've joined me for this course.
 >
-> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=3)** I want to challenge you to get a data set that you're familiar with loaded into KNIME and run the global, local, and XAI views on a model.
+> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=3)** I want to challenge you to get a data set that you're familiar with loaded into [[Knime]] and run the global, local, and XAI views on a model.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=14)** It would be a fantastic way to incorporate what you've learned in this course.
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=19)** I'm quite active and easy to a find on LinkedIn.
+> **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=19)** I'm quite active and easy to a find on [[LinkedIn]].
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=22)** Let me know how that goes, and stay in touch by using the Q&A feature of the course.
 >
@@ -2747,9 +2705,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=50)** Next, register at the KNIME Hub and follow their blog so you'll be the first to know about new XAI features.
 >
-> **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=58)** I have a number of courses in the library, but if you specifically want to do more with KNIME, consider my data assessment course.
+> **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=58)** I have a number of courses in the library, but if you specifically want to do more with KNIME, consider my [[Data Assessment]] course.
 >
-> **[1:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=66)** I also have a series of courses on classification and decision trees that would help if you want to master interpretable machine learning.
+> **[1:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=66)** I also have a series of courses on classification and [[Decision Trees]] that would help if you want to master interpretable machine learning.
 >
 > **[1:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980&t=75)** So be looking for me on LinkedIn and the course Q&A and in the KNIME Hub.
 >
@@ -2757,7 +2715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (4), data (2), [[LinkedIn]] (2), next (2), feature (1)
+> **Frameworks & Libraries:** [[Knime]] (4), [[LinkedIn]] (2), [[Data Assessment]] (1), [[Decision Trees]] (1)
 > **Env Vars:** knime (4), xai (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we mentioned (1)

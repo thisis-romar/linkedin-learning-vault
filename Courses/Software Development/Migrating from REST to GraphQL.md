@@ -80,14 +80,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Replace REST with GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/replace-rest-with-graphql?u=76281980)
+#### [Replace REST with GraphQL](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/replace-rest-with-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/replace-rest-with-graphql?u=76281980&t=0)** - [Emmanuel] GraphQL has evolved into a nearly perfect tool to efficiently query multiple databases.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/replace-rest-with-graphql?u=76281980&t=0)** - [Emmanuel] [[GraphQL]] has evolved into a nearly perfect tool to efficiently query multiple [[Databases]].
 >
-> **[0:06](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/replace-rest-with-graphql?u=76281980&t=6)** For the backend developer, you might be wondering, this course can be taken as a first step if you're wanting to learn how to migrate your RESt API over to GraphQL.
+> **[0:06](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/replace-rest-with-graphql?u=76281980&t=6)** For the backend developer, you might be wondering, this course can be taken as a first step if you're wanting to learn how to migrate your [[Representational State Transfer (REST)|RESt]] API over to GraphQL.
 >
 > **[0:16](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/replace-rest-with-graphql?u=76281980&t=16)** First, we'll take a look at when and why you should be moving to GraphQL.
 >
@@ -101,26 +100,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (2), api (2), data (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (2), [[Databases]] (1)
 > **Env Vars:** api (2), rest (1)
 > **Speakers:** - [emmanuel] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980&t=0)** - [Instructor] If you have some experience with GraphQL, or taking a basics course on it, this course will be easy for you, and you might want to skip some of the initial setup videos.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980&t=0)** - [Instructor] If you have some experience with [[GraphQL]], or taking a basics course on it, this course will be easy for you, and you might want to skip some of the initial setup videos.
 >
 > **[0:10](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980&t=10)** But if you've never done GraphQL, this course is also a good fit, as we'll cover some of the basics before we move on to migrating graphs to GraphQL.
 >
 > **[0:18](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980&t=18)** In any case, if you get lost in the weeds with the terms used in this course, feel free to take my Essentials course on GraphQL, and come back to this one after.
 >
-> **[0:28](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980&t=28)** Although I highly recommend having a good foundation in NodeJS, JavaScript, and rest APIs, as we spend most of this course leveraging these concepts, and I'm not going through the basics of these items.
+> **[0:28](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980&t=28)** Although I highly recommend having a good foundation in NodeJS, [[JavaScript]], and [[Representational State Transfer (REST)|rest]] APIs, as we spend most of this course leveraging these concepts, and I'm not going through the basics of these items.
 >
 > **[0:42](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980&t=42)** You will get lost if you don't have enough experience in these areas.
 >
-> **[0:46](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980&t=46)** GraphQL can be done in Mac, Windows, or Linux, so feel free to use whichever operating system you prefer.
+> **[0:46](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980&t=46)** GraphQL can be done in Mac, [[Windows]], or [[Linux]], so feel free to use whichever operating system you prefer.
 >
 > **[0:52](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-you-should-know?u=76281980&t=52)** Also, I'll be using visuals to do code as my editor, but feel free to use whichever one you desire.
 
@@ -135,18 +133,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use GraphQL for REST
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980)
+#### [Why use GraphQL for REST](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980&t=0)** - [Host] GraphQL has a lot going for it, but I'll focus on the main advantages of moving your rest API to GraphQL.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980&t=0)** - [Host] [[GraphQL]] has a lot going for it, but I'll focus on the main advantages of moving your [[Representational State Transfer (REST)|rest]] API to GraphQL.
 >
 > **[0:07](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980&t=7)** First of all, you get types which guarantees that the data you get will be of the type expected and prevents many of the common errors with rest.
 >
 > **[0:16](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980&t=16)** So if that's been an annoyance for you, you're a good candidate.
 >
-> **[0:20](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980&t=20)** Also, when you have multiple databases or even different databases serving the same application, GraphQL is a much better approach to this disjointed architecture as it serves a single point to do all your queries versus multiple separate entities.
+> **[0:20](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980&t=20)** Also, when you have multiple [[Databases]] or even different databases serving the same application, GraphQL is a much better approach to this disjointed architecture as it serves a single point to do all your queries versus multiple separate entities.
 >
 > **[0:38](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/why-use-graphql-for-rest?u=76281980&t=38)** The other advantages of going to GraphQL is the flexibility of the queries.
 >
@@ -172,25 +169,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (9), [[Representational State Transfer (REST)|Rest]] (5), api (3), application (3), data (2)
+> **Frameworks & Libraries:** [[GraphQL]] (9), [[Representational State Transfer (REST)|Rest]] (5), [[Databases]] (2)
 > **Env Vars:** api (3), rest (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [host] (1)
 
-#### REST project introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980)
+#### [REST project introduction](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=0)** - [Instructor] We'll now take a look at the project we'll be migrating to GraphQL, one that I have built in another one of my courses where we create a full node express API.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=0)** - [Instructor] We'll now take a look at the project we'll be migrating to [[GraphQL]], one that I have built in another one of my courses where we create a full node express API.
 >
 > **[0:10](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=10)** So let's take a look at it.
 >
 > **[0:11](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=11)** So let me first cover some of the requirements that you'll need to actually run the project.
 >
-> **[0:16](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=16)** The first thing that you'll need is to make sure that you run MongoDB on your system.
+> **[0:16](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=16)** The first thing that you'll need is to make sure that you run [[MongoDB]] on your system.
 >
 > **[0:21](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=21)** So whatever is your operating system, what you need to do is, go to the website for MongoDB.
 >
@@ -200,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=56)** So in this case, I'm on macOS.
 >
-> **[1:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=60)** But you can go here and select whatever system you're on, Windows, Linux, or macOS, and then you install it.
+> **[1:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=60)** But you can go here and select whatever system you're on, [[Windows]], [[Linux]], or macOS, and then you install it.
 >
 > **[1:11](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=71)** So you can follow these instructions or go into the community server here or make sure you follow all the instructions.
 >
@@ -208,7 +204,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=85)** Follow whatever process.
 >
-> **[1:26](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=86)** You can research this on Google, so how to install MongoDB, but you need to make sure you're running MongoDB as a service inside of your system before you actually go to the next step.
+> **[1:26](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=86)** You can research this on [[Google]], so how to install MongoDB, but you need to make sure you're running MongoDB as a service inside of your system before you actually go to the next step.
 >
 > **[1:38](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=98)** Once you've done with that, what you can do is, close this, and go into the exercise files.
 >
@@ -248,11 +244,11 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=186)** Going to bring up the terminal, like so, new terminal.
 >
-> **[3:11](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=191)** And the first thing I'm going to do is, install all the dependencies by doing npm i, or you can do install, whichever way you want to do it.
+> **[3:11](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=191)** And the first thing I'm going to do is, install all the dependencies by doing [[npm]] i, or you can do install, whichever way you want to do it.
 >
 > **[3:23](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=203)** And once everything is installed, you can do npm start, which will start the project.
 >
-> **[3:28](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=208)** So if you go into the package.json file here, you'll see that the start script, we'll actually start nodemon with the index file here and run babel node, which is why you need to see the babelrc file.
+> **[3:28](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=208)** So if you go into the package.[[JSON]] file here, you'll see that the start script, we'll actually start nodemon with the index file here and run babel node, which is why you need to see the babelrc file.
 >
 > **[3:45](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/rest-project-introduction?u=76281980&t=225)** Otherwise, this is not going to run properly.
 >
@@ -268,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (5), node (3), [[GraphQL]] (2), express (2), api (2)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[GraphQL]] (2), [[Windows]] (2), [[Google]] (2), [[npm]] (2)
 > **CLI Commands:** make (5), node (3), npm (2)
 > **Prerequisites:** install (5), you'll need (2)
 > **UI Navigation:** go to (4), select the (1)
@@ -277,14 +273,13 @@ created: 2026-05-02
 > **Ports:** port 3000 (2)
 > **Env Vars:** api (2)
 
-#### Set up GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980)
+#### [Set up GraphQL](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=0)** - [Instructor] So let's go ahead and set up GraphQL inside of our example application.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=0)** - [Instructor] So let's go ahead and set up [[GraphQL]] inside of our example application.
 >
-> **[0:05](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=5)** So if we look back at our previous video, one of the things that I recommended to do as quickly as possible is to install MongoDB.
+> **[0:05](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=5)** So if we look back at our previous video, one of the things that I recommended to do as quickly as possible is to install [[MongoDB]].
 >
 > **[0:15](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=15)** And I found a quick link here that can actually show you exactly which installation you need to do based on the operating system.
 >
@@ -302,7 +297,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=61)** Now the next thing we need to do is install the dependencies that we need for GraphQL.
 >
-> **[1:08](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=68)** So I'm going to go inside the package.json file here first.
+> **[1:08](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=68)** So I'm going to go inside the package.[[JSON]] file here first.
 >
 > **[1:13](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=73)** I'm just going to close this for screen estate, like so.
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=86)** So you also remove it from the package log.json.
 >
-> **[1:31](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=91)** So let's go and do npm uninstall body-parser and it's going to uninstall it from your dependencies here.
+> **[1:31](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=91)** So let's go and do [[npm]] uninstall body-parser and it's going to uninstall it from your dependencies here.
 >
 > **[1:42](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=102)** And then what we need to do is install a few things to move along with GraphQL.
 >
@@ -344,7 +339,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=203)** We'll work on this later on, but for the time being, we'll use that example just to have something working, like so.
 >
-> **[3:32](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=212)** We're also going to build a root which we will change in the rest of the course.
+> **[3:32](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=212)** We're also going to build a root which we will change in the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[3:37](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-graphql?u=76281980&t=217)** And the root basically will provide a resolver function, which we'll explain later what it is.
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (15), express (5), [[MongoDB]] (4), next (4), database (3)
+> **Frameworks & Libraries:** [[GraphQL]] (15), [[MongoDB]] (4), [[JSON]] (2), [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** install (7), set up (4)
 > **CLI Commands:** docker (2), npm (2), make (1), node (1), mongo (1)
 > **File Paths:** index.js (2), package.json (1), log.json (1)
@@ -413,12 +408,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), in the last (1)
 > **URLs:** [mongodb.com](https://mongodb.com) (1)
 
-#### GraphQL refresher
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/graphql-refresher?u=76281980)
+#### [GraphQL refresher](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/graphql-refresher?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/graphql-refresher?u=76281980&t=0)** - [Instructor] So for those who are using this course as a first GraphQL course, let me do a quick overview of the GraphQL basics that you may have been covered in another course.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/graphql-refresher?u=76281980&t=0)** - [Instructor] So for those who are using this course as a first [[GraphQL]] course, let me do a quick overview of the GraphQL basics that you may have been covered in another course.
 >
 > **[0:10](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/graphql-refresher?u=76281980&t=10)** At the base, you need to define a schema for your data, so any mutations or queries expect the properties inside your object to be of a certain type.
 >
@@ -444,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (6), data (5), next (1), database (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6)
 > **Definitions:** defined as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -454,8 +448,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create the initial schema and type
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/create-the-initial-schema-and-type?u=76281980)
+#### [Create the initial schema and type](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/create-the-initial-schema-and-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -481,7 +474,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/create-the-initial-schema-and-type?u=76281980&t=68)** Now the next thing we need to do also is to create a resolver file.
 >
-> **[1:14](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/create-the-initial-schema-and-type?u=76281980&t=74)** So the resolvers, again, are the functions that will make the queries with the database and then return a result inside of GraphQL.
+> **[1:14](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/create-the-initial-schema-and-type?u=76281980&t=74)** So the resolvers, again, are the functions that will make the queries with the database and then return a result inside of [[GraphQL]].
 >
 > **[1:24](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/create-the-initial-schema-and-type?u=76281980&t=84)** So let's go and create a new file, and we're going to call this resolvers.js.
 >
@@ -509,7 +502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), database (2), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **File Paths:** schema.js (1), resolvers.js (1), dbconnectors.js (1)
 > **Env Vars:** crm (2)
 > **CLI Commands:** make (1)
@@ -518,8 +511,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Program the initial schema and type
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980)
+#### [Program the initial schema and type](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,9 +519,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980&t=3)** So right now, we have our database connectors, which basically is the dbConnectors here.
 >
-> **[0:08](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980&t=8)** So this file connects our GraphQL to the database it needs.
+> **[0:08](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980&t=8)** So this file connects our [[GraphQL]] to the database it needs.
 >
-> **[0:13](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980&t=13)** So if you had multiple databases, this is where you would connect to each one of them.
+> **[0:13](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980&t=13)** So if you had multiple [[Databases]], this is where you would connect to each one of them.
 >
 > **[0:18](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980&t=18)** Now, the resolvers is what we're going to work on next.
 >
@@ -551,7 +543,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980&t=60)** And let's go and open the terminal here.
 >
-> **[1:04](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980&t=64)** And what you need to do is do an npm i @graphql-tools/schema
+> **[1:04](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980&t=64)** And what you need to do is do an [[npm]] i @graphql-tools/schema
 >
 > **[1:14](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/program-the-initial-schema-and-type?u=76281980&t=74)** and install this particular package.
 >
@@ -645,7 +637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (11), next (4), database (3), [[npm]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (11), [[npm]] (2), [[Databases]] (1)
 > **Code Identifiers:** dbconnectors (3), lastname (2), firstname (2), crmmodel (1), makeexecutableschema (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** npm (2), make (1)
@@ -654,12 +646,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Tools:** terminal (1)
 
-#### Set up the initial resolvers
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-the-initial-resolvers?u=76281980)
+#### [Set up the initial resolvers](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-the-initial-resolvers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-the-initial-resolvers?u=76281980&t=0)** - [Instructor] In this step, we'll set up our initial resolvers for our queries and the first mutations where we'll be able to add new contacts with GraphQL and into a database.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-the-initial-resolvers?u=76281980&t=0)** - [Instructor] In this step, we'll set up our initial resolvers for our queries and the first mutations where we'll be able to add new contacts with [[GraphQL]] and into a database.
 >
 > **[0:10](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/set-up-the-initial-resolvers?u=76281980&t=10)** So let's get going.
 >
@@ -733,7 +724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[GraphQL]] (2), data (1)
+> **Frameworks & Libraries:** [[GraphQL]] (2)
 > **Code Identifiers:** getcontacts (4), newcontact (2), firstname (2), lastname (1)
 > **CLI Commands:** find (1), mongo (1)
 > **Cross-References:** go back to (1)
@@ -741,18 +732,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finalize the DB connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/finalize-the-db-connection?u=76281980)
+#### [Finalize the DB connection](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/finalize-the-db-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/finalize-the-db-connection?u=76281980&t=0)** - [Instructor] Now let's write our connection to our database with our GraphQL server.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/finalize-the-db-connection?u=76281980&t=0)** - [Instructor] Now let's write our connection to our database with our [[GraphQL]] server.
 >
 > **[0:04](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/finalize-the-db-connection?u=76281980&t=4)** So let's get back into data and then dbConnectors.
 >
-> **[0:08](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/finalize-the-db-connection?u=76281980&t=8)** And this is the file that again will connect to one or multiple databases.
+> **[0:08](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/finalize-the-db-connection?u=76281980&t=8)** And this is the file that again will connect to one or multiple [[Databases]].
 >
-> **[0:15](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/finalize-the-db-connection?u=76281980&t=15)** So in this case, we're going to connect to MongoDB, but it could also connect to SQL or any other databases.
+> **[0:15](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/finalize-the-db-connection?u=76281980&t=15)** So in this case, we're going to connect to [[MongoDB]], but it could also connect to [[SQL]] or any other databases.
 >
 > **[0:22](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/finalize-the-db-connection?u=76281980&t=22)** All right, so the first thing we're going to do is remove the export here.
 >
@@ -810,18 +800,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[Databases]] (3), [[GraphQL]] (2), [[MongoDB]] (2), data (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[GraphQL]] (2), [[MongoDB]] (2), [[SQL]] (1)
 > **CLI Commands:** mongo (1)
 > **Code Identifiers:** dbconnectors (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a few items with GraphiQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980)
+#### [Add a few items with GraphiQL](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=0)** - [Instructor] Okay, so let's finalize our server file to make sure that we can take all the information, the schema, the resolvers that we've built, and finalize our GraphQL server.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=0)** - [Instructor] Okay, so let's finalize our server file to make sure that we can take all the information, the schema, the resolvers that we've built, and finalize our [[GraphQL]] server.
 >
 > **[0:11](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=11)** So the first thing we're going to do is remove that line here.
 >
@@ -843,7 +832,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=67)** I'm using the control gravity shortcut, but you can also click on New Terminal here.
 >
-> **[1:12](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=72)** And I'm going to do an npm start.
+> **[1:12](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=72)** And I'm going to do an [[npm]] start.
 >
 > **[1:16](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=76)** It seems like we have a little error, and FYI, when there's little mistakes like this, it's good information for you guys to how to debug little things that happen when you first load a server.
 >
@@ -899,7 +888,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=201)** Hopefully nobody has that email.
 >
-> **[3:23](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=203)** And then company LinkedIn.
+> **[3:23](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=203)** And then company [[LinkedIn]].
 >
 > **[3:28](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/add-a-few-items-with-graphiql?u=76281980&t=208)** Okay.
 >
@@ -965,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (9), application (1), data (1), [[npm]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (9), [[npm]] (1), [[LinkedIn]] (1)
 > **Code Identifiers:** newcontact (3), createcontact (2), firstname (2), buildschema (1), lastname (1)
 > **CLI Commands:** make (5), npm (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -979,12 +968,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simple queries in GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980)
+#### [Simple queries in GraphQL](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980&t=0)** - [Instructor] So let's go ahead and explore how we can do queries with GraphQL, and we're going to create one where we can actually get only one contact.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980&t=0)** - [Instructor] So let's go ahead and explore how we can do queries with [[GraphQL]], and we're going to create one where we can actually get only one contact.
 >
 > **[0:10](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980&t=10)** So the first thing I'm going to do is erase all this, and then I'm going to go and create a query.
 >
@@ -1044,7 +1032,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980&t=212)** And while I'm here, I'm going to add this here, and therefore, same thing here at the end.
 >
-> **[3:41](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980&t=221)** Okay, so basically, we're passing an ID, and then we're calling to the MongoDB by using the contacts connection that we've created and using the method find by ID, and then passing the ID here.
+> **[3:41](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980&t=221)** Okay, so basically, we're passing an ID, and then we're calling to the [[MongoDB]] by using the contacts connection that we've created and using the method find by ID, and then passing the ID here.
 >
 > **[3:57](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/simple-queries-in-graphql?u=76281980&t=237)** And then returning that contact therefore is going to resolve inside of GraphQL, and that's basically how it's going to work.
 >
@@ -1094,13 +1082,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (3), data (1), database (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3), [[MongoDB]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### What are aliases and usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-are-aliases-and-usage?u=76281980)
+#### [What are aliases and usage](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-are-aliases-and-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1146,7 +1133,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-are-aliases-and-usage?u=76281980&t=112)** So where this is really useful is in certain cases for your applications, you need very specific things to be returned.
 >
-> **[2:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-are-aliases-and-usage?u=76281980&t=120)** And therefore, what you could do is have the one query have multiple sets of data through GraphQL.
+> **[2:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-are-aliases-and-usage?u=76281980&t=120)** And therefore, what you could do is have the one query have multiple sets of data through [[GraphQL]].
 >
 > **[2:07](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/what-are-aliases-and-usage?u=76281980&t=127)** So this is where aliases comes really useful when you have a granular approach to what you need, and therefore you can use different types of query here for even the same contact or different contacts or a list of contacts.
 >
@@ -1154,17 +1141,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (2), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **Code Identifiers:** getonecontact (2), getcontacts (2)
 > **Analogies:** for example (4)
 > **Speakers:** - [instructor] (1)
 
-#### Fragments basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/fragments-basics?u=76281980)
+#### [Fragments basics](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/fragments-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/fragments-basics?u=76281980&t=0)** - [Instructor] Like aliases, fragments are a neat feature that comes built in with GraphQL.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/fragments-basics?u=76281980&t=0)** - [Instructor] Like aliases, fragments are a neat feature that comes built in with [[GraphQL]].
 >
 > **[0:05](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/fragments-basics?u=76281980&t=5)** It is very useful when we start requesting the same data across several items.
 >
@@ -1214,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **Code Identifiers:** firstname (3), lastname (3), contactfragment (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1225,18 +1211,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of mutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980)
+#### [Overview of mutations](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980&t=0)** - [Instructor] So let's review what mutations are.
 >
-> **[0:02](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980&t=2)** So if you're not comfortable with the term mutation yet, and if that didn't make sense from the beginning when we started talking about mutations, it is basically the same thing as in the REST API when we add items or when we delete items or when we update.
+> **[0:02](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980&t=2)** So if you're not comfortable with the term mutation yet, and if that didn't make sense from the beginning when we started talking about mutations, it is basically the same thing as in the [[Representational State Transfer (REST)|REST]] API when we add items or when we delete items or when we update.
 >
 > **[0:18](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980&t=18)** So the usual or typical crowd operations.
 >
-> **[0:21](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980&t=21)** So with mutations in GraphQL, all the queries are basically when we ask information from the server or the database or multiple databases.
+> **[0:21](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980&t=21)** So with mutations in [[GraphQL]], all the queries are basically when we ask information from the server or the database or multiple [[Databases]].
 >
 > **[0:31](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/overview-of-mutations?u=76281980&t=31)** And mutations is when we actually mutate or change those databases.
 >
@@ -1264,7 +1249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (4), database (4), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rest (1), api (1)
 > **Documentation:** the documentation (2)
 > **CLI Commands:** make (1)
@@ -1273,8 +1258,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code your updated mutation
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980)
+#### [Code your updated mutation](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1332,7 +1316,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980&t=163)** We're good to go.
 >
-> **[2:45](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980&t=165)** Let's go back in GraphQL, right here.
+> **[2:45](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980&t=165)** Let's go back in [[GraphQL]], right here.
 >
 > **[2:49](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980&t=169)** Let's refresh just for safe measures and let's go ahead and what I'm going to do is let's first get a request.
 >
@@ -1380,9 +1364,9 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980&t=295)** So let's run this and now as you can see, the first contact, which 090, now has David Henry as the first name and the last name.
 >
-> **[5:06](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980&t=306)** If we add the company to the query, now you see that Nova is the company as opposed to LinkedIn as before.
+> **[5:06](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980&t=306)** If we add the company to the query, now you see that Nova is the company as opposed to [[LinkedIn]] as before.
 >
-> **[5:14](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980&t=314)** So as you can see, mutations is very useful, and especially if you consider the fact that you can have multiple databases connect to this one GraphQL server, which means that you can have SQL, you can have MongoDB, you can have Redis, Postgres, all these different types of databases where this one server can actually query into or mutate into multiple databases.
+> **[5:14](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980&t=314)** So as you can see, mutations is very useful, and especially if you consider the fact that you can have multiple [[Databases]] connect to this one GraphQL server, which means that you can have [[SQL]], you can have [[MongoDB]], you can have [[Redis]], [[PostgreSQL|Postgres]], all these different types of databases where this one server can actually query into or mutate into multiple databases.
 >
 > **[5:42](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-updated-mutation?u=76281980&t=342)** This is where it becomes very powerful to use GraphQL.
 
@@ -1400,8 +1384,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Coding our delete mutation
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-deleted-mutation?u=76281980)
+#### [Coding our delete mutation](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-deleted-mutation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,7 +1420,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-deleted-mutation?u=76281980&t=92)** So let's go ahead and add it here in our mutations, deleteContact, and in this case it takes an ID, and then it will return a string.
 >
-> **[1:49](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-deleted-mutation?u=76281980&t=109)** So basically what we're telling the system here, or the GraphQL server, is that the return is not a contact this time, it's a string.
+> **[1:49](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-deleted-mutation?u=76281980&t=109)** So basically what we're telling the system here, or the [[GraphQL]] server, is that the return is not a contact this time, it's a string.
 >
 > **[1:58](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/code-your-deleted-mutation?u=76281980&t=118)** So as you can see, what we're returning is a string.
 >
@@ -1449,15 +1432,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[GraphQL]] (1), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **Code Identifiers:** deletecontact (2), deleteone (1)
 > **UI Navigation:** go to (2)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Final test for your mutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/final-test-for-your-mutations?u=76281980)
+#### [Final test for your mutations](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/final-test-for-your-mutations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1533,13 +1515,13 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/final-test-for-your-mutations?u=76281980&t=162)** But if you go back to your code down the road and you don't know, you can always go and look into the documentation.
 >
-> **[2:49](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/final-test-for-your-mutations?u=76281980&t=169)** And if your mutations grow a lot, because you have multiple databases and several databases that have different ways of getting the data in, you can also search in the documentation through your mutations, through your queries and so on and so forth.
+> **[2:49](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/final-test-for-your-mutations?u=76281980&t=169)** And if your mutations grow a lot, because you have multiple [[Databases]] and several databases that have different ways of getting the data in, you can also search in the documentation through your mutations, through your queries and so on and so forth.
 >
-> **[3:04](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/final-test-for-your-mutations?u=76281980&t=184)** So hopefully that was a helpful conversion from a REST API to an actual GraphQL server.
+> **[3:04](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/final-test-for-your-mutations?u=76281980&t=184)** So hopefully that was a helpful conversion from a [[Representational State Transfer (REST)|REST]] API to an actual [[GraphQL]] server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), data (1), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[GraphQL]] (1)
 > **Code Identifiers:** getcontacts (4), createcontact (2), updatecontact (1), deletecontact (1)
 > **Documentation:** the documentation (4), the docs (1)
 > **UI Navigation:** click on (2), open the (1), go to (1)
@@ -1553,12 +1535,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=0)** - [Instructor] The goal of this course was to help you better evaluate if and when you should migrate to GraphQL as well as the proper migration steps from a REST API.
+> **[0:00](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=0)** - [Instructor] The goal of this course was to help you better evaluate if and when you should migrate to [[GraphQL]] as well as the proper migration steps from a [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:10](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=10)** Hopefully, at the end of this course, you'll be able to execute both.
 >
@@ -1566,21 +1547,21 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=26)** There is an essentials course, or you can even try GraphQL with Relay.
 >
-> **[0:32](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=32)** GraphQL is a perfect match for React, and both were created by Facebook.
+> **[0:32](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=32)** GraphQL is a perfect match for [[React.js|React]], and both were created by Facebook.
 >
-> **[0:38](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=38)** As a backend developer, if you've been looking for the right excuse to learn front-end development, React is ideal for GraphQL.
+> **[0:38](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=38)** As a backend developer, if you've been looking for the right excuse to learn [[Front-End Development]], React is ideal for GraphQL.
 >
 > **[0:45](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=45)** So if you want to learn more, we have dozens of courses related to React, so feel free to look for courses with the keyword React.
 >
 > **[0:53](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=53)** And finally, if you want to push your backend knowledge further, there are several courses on the subject.
 >
-> **[0:59](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=59)** Search for courses for database knowledge such as MongoDB, SQL, or even courses related to Node.js and Express.
+> **[0:59](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=59)** Search for courses for database knowledge such as [[MongoDB]], [[SQL]], or even courses related to [[Node.js]] and Express.
 >
 > **[1:07](https://www.linkedin.com/learning/migrating-from-rest-to-graphql-23466102/next-steps?u=76281980&t=67)** Thanks for taking my course, and I'll see you in a bit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (5), [[React.js|React]] (4), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Front-End Development]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[React.js|React]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Front-End Development]] (1), [[MongoDB]] (1)
 > **Env Vars:** rest (1), api (1), sql (1)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** node.js (1)

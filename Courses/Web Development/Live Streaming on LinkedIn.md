@@ -66,12 +66,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get ready to go live!
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980)
+#### [Get ready to go live!](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980&t=0)** - Whether you're creating at work, for your business, or to accelerate your career, there's no question about it, posting videos on LinkedIn is a powerful tool for your brand.
+> **[0:00](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980&t=0)** - Whether you're creating at work, for your business, or to accelerate your career, there's no question about it, posting videos on [[LinkedIn]] is a powerful tool for your brand.
 >
 > **[0:11](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980&t=11)** But did you know that LinkedIn Live videos average seven times more reactions and 24 times more comments than traditional video?
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980&t=34)** Hi, I'm Cher Jones, the founder of Socially Active Training.
 >
-> **[0:37](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980&t=37)** I'm a keynote speaker, corporate trainer, and coach that specializes in personal branding within the hybrid workplace.
+> **[0:37](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980&t=37)** I'm a keynote speaker, corporate trainer, and coach that specializes in [[Personal Branding]] within the hybrid workplace.
 >
 > **[0:45](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980&t=45)** And my friend, you are in for a treat.
 >
@@ -101,13 +100,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), business (1), career (1), [[Personal Branding]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Personal Branding]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - whether (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Know your goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/know-your-goals?u=76281980)
+#### [Know your goals](https://www.linkedin.com/learning/live-streaming-on-linkedin/know-your-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,13 +185,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - everything (1)
 
-#### Tech requirements and recommendations
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980)
+#### [Tech requirements and recommendations](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -203,7 +199,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=18)** All right, so let's dive right in.
 >
-> **[0:20](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=20)** The first thing that you need to know, do you have LinkedIn Live or not?
+> **[0:20](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=20)** The first thing that you need to know, do you have [[LinkedIn]] Live or not?
 >
 > **[0:25](https://www.linkedin.com/learning/live-streaming-on-linkedin/tech-requirements-and-recommendations?u=76281980&t=25)** That's probably one of the most important things because you do need access to this feature in order to go live from your business page or your personal profile.
 >
@@ -275,14 +271,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), cloud (4), next (2), feature (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Prerequisites:** assuming you have (1)
 > **Speakers:** - all (1)
 
-#### Format, frequency, and timing
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/format-frequency-and-timing?u=76281980)
+#### [Format, frequency, and timing](https://www.linkedin.com/learning/live-streaming-on-linkedin/format-frequency-and-timing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -322,7 +317,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/live-streaming-on-linkedin/format-frequency-and-timing?u=76281980&t=97)** This is so amazing.
 >
-> **[1:38](https://www.linkedin.com/learning/live-streaming-on-linkedin/format-frequency-and-timing?u=76281980&t=98)** And to be honest, I don't see this a lot on LinkedIn.
+> **[1:38](https://www.linkedin.com/learning/live-streaming-on-linkedin/format-frequency-and-timing?u=76281980&t=98)** And to be honest, I don't see this a lot on [[LinkedIn]].
 >
 > **[1:41](https://www.linkedin.com/learning/live-streaming-on-linkedin/format-frequency-and-timing?u=76281980&t=101)** So if you try this one, you'll definitely stand out.
 >
@@ -330,11 +325,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - now (1)
 
-#### How to plan each episode
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-plan-each-episode?u=76281980)
+#### [How to plan each episode](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-plan-each-episode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -350,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-plan-each-episode?u=76281980&t=23)** You also have to remember, this is not regular-degular TV.
 >
-> **[0:28](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-plan-each-episode?u=76281980&t=28)** This is live streaming, baby.
+> **[0:28](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-plan-each-episode?u=76281980&t=28)** This is [[Live Streaming]], baby.
 >
 > **[0:30](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-plan-each-episode?u=76281980&t=30)** So what that means is you have to plan intentional and interactive moments with your audience because they are part of your show.
 >
@@ -394,16 +388,15 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - it (1)
 
-#### Branding your show
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/branding-your-show?u=76281980)
+#### [Branding your show](https://www.linkedin.com/learning/live-streaming-on-linkedin/branding-your-show?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/live-streaming-on-linkedin/branding-your-show?u=76281980&t=0)** - You are putting all this time, effort, and energy into creating an awesome LinkedIn Live, right?
+> **[0:00](https://www.linkedin.com/learning/live-streaming-on-linkedin/branding-your-show?u=76281980&t=0)** - You are putting all this time, effort, and energy into creating an awesome [[LinkedIn]] Live, right?
 >
 > **[0:06](https://www.linkedin.com/learning/live-streaming-on-linkedin/branding-your-show?u=76281980&t=6)** Well, there's one thing that you must do, no matter what, to make sure you stand out, and that's brand yourself, and your show.
 >
-> **[0:14](https://www.linkedin.com/learning/live-streaming-on-linkedin/branding-your-show?u=76281980&t=14)** So in this video I'm going to show you exactly how you can do that using your third party live streaming software, and it's much easier than you think.
+> **[0:14](https://www.linkedin.com/learning/live-streaming-on-linkedin/branding-your-show?u=76281980&t=14)** So in this video I'm going to show you exactly how you can do that using your third party [[Live Streaming]] software, and it's much easier than you think.
 >
 > **[0:23](https://www.linkedin.com/learning/live-streaming-on-linkedin/branding-your-show?u=76281980&t=23)** And don't worry, there's levels to this, so I'll take you through it.
 >
@@ -499,14 +492,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[LinkedIn]] (1), [[Live Streaming]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Live Streaming]] (1)
 > **Definitions:** is an  (4)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
 
-#### Equipment you'll need
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/equipment-you-ll-need?u=76281980)
+#### [Equipment you'll need](https://www.linkedin.com/learning/live-streaming-on-linkedin/equipment-you-ll-need?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,13 +562,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** usb (1)
 > **Speakers:** - this (1)
 
-#### How to be an engaging live host
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-an-engaging-live-host?u=76281980)
+#### [How to be an engaging live host](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-an-engaging-live-host?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,7 +590,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-an-engaging-live-host?u=76281980&t=36)** Let's do this.
 >
-> **[0:38](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-an-engaging-live-host?u=76281980&t=38)** Okay, we are inside the live streaming studio.
+> **[0:38](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-an-engaging-live-host?u=76281980&t=38)** Okay, we are inside the [[Live Streaming]] studio.
 >
 > **[0:41](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-an-engaging-live-host?u=76281980&t=41)** And the first thing that I want you to notice as you look around, look at all these controls that you have to work with.
 >
@@ -709,12 +699,11 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - when (1)
 
-#### How to promote your show
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-promote-your-show?u=76281980)
+#### [How to promote your show](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-promote-your-show?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-promote-your-show?u=76281980&t=0)** - We all want as many people as possible to tune into our LinkedIn Lives, right?
+> **[0:00](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-promote-your-show?u=76281980&t=0)** - We all want as many people as possible to tune into our [[LinkedIn]] Lives, right?
 >
 > **[0:04](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-promote-your-show?u=76281980&t=4)** Well, one of the best ways that we can increase our views, both live and on the replay, is by scheduling them in advanced.
 >
@@ -786,7 +775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), next (3), hit (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **CLI Commands:** make (3), find (2)
 > **Ports:** :00 (1)
 > **Env Vars:** rsvp (1)
@@ -795,8 +784,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
 
-#### How to develop your promo plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-develop-your-promo-plan?u=76281980)
+#### [How to develop your promo plan](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-develop-your-promo-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-develop-your-promo-plan?u=76281980&t=23)** This will ensure as many people as possible can get that locked into their calendars.
 >
-> **[0:28](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-develop-your-promo-plan?u=76281980&t=28)** The next thing that I love when people do is add the information about their show to their LinkedIn profiles.
+> **[0:28](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-develop-your-promo-plan?u=76281980&t=28)** The next thing that I love when people do is add the information about their show to their [[LinkedIn]] profiles.
 >
 > **[0:35](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-develop-your-promo-plan?u=76281980&t=35)** You can add it to your bio, your headline, maybe even your background photos.
 >
@@ -832,13 +820,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** opp (1)
 > **Speakers:** - want (1)
 
-#### Showtime
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/showtime?u=76281980)
+#### [Showtime](https://www.linkedin.com/learning/live-streaming-on-linkedin/showtime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -900,25 +887,24 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/live-streaming-on-linkedin/showtime?u=76281980&t=152)** So the last thing I need you to do after we've checked, checked, and double checked everything else is check your rundown, go through it, make sure you're comfortable with it, and then finally remember this.
 >
-> **[2:45](https://www.linkedin.com/learning/live-streaming-on-linkedin/showtime?u=76281980&t=165)** LinkedIn Live is not about perfection, it's about being prepared, and that's exactly what you're doing.
+> **[2:45](https://www.linkedin.com/learning/live-streaming-on-linkedin/showtime?u=76281980&t=165)** [[LinkedIn]] Live is not about perfection, it's about being prepared, and that's exactly what you're doing.
 >
 > **[2:52](https://www.linkedin.com/learning/live-streaming-on-linkedin/showtime?u=76281980&t=172)** So once you've done this, you are ready for showtime.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), hit (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (10), find (1)
 > **Prerequisites:** make sure you have (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - all (1)
 
-#### How to be ready for live fails
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-ready-for-live-fails?u=76281980)
+#### [How to be ready for live fails](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-ready-for-live-fails?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-ready-for-live-fails?u=76281980&t=1)** - When it comes to streaming live on LinkedIn, the one thing that you can plan for is a live fail.
+> **[0:01](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-ready-for-live-fails?u=76281980&t=1)** - When it comes to streaming live on [[LinkedIn]], the one thing that you can plan for is a live fail.
 >
 > **[0:08](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-be-ready-for-live-fails?u=76281980&t=8)** I have been streaming long enough to know and experience almost all of the live fails that you can even think of.
 >
@@ -1030,21 +1016,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), next (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **CLI Commands:** make (5)
 > **Env Vars:** ptsd (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - when (1)
 
-#### How to repurpose your live stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-repurpose-your-live-stream?u=76281980)
+#### [How to repurpose your live stream](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-repurpose-your-live-stream?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-repurpose-your-live-stream?u=76281980&t=0)** - LinkedIn Lives are the content gift that keeps on giving.
+> **[0:00](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-repurpose-your-live-stream?u=76281980&t=0)** - [[LinkedIn]] Lives are the content gift that keeps on giving.
 >
-> **[0:04](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-repurpose-your-live-stream?u=76281980&t=4)** Not only do you get in on that sweet, sweet replay action, you can take your entire live broadcast and remix it into multiple pieces of content that you can share whenever and wherever you want.
+> **[0:04](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-repurpose-your-live-stream?u=76281980&t=4)** Not only do you get in on that sweet, sweet replay action, you can take your entire live broadcast and [[Remix]] it into multiple pieces of content that you can share whenever and wherever you want.
 >
 > **[0:16](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-repurpose-your-live-stream?u=76281980&t=16)** So what I'm going to do now is give you some ideas that you can remix your next live into.
 >
@@ -1096,17 +1081,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Remix]] (3), next (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Remix]] (3), [[LinkedIn]] (1)
 > **Env Vars:** fomo (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - linkedin (1)
 
-#### How to monetize your LinkedIn Live content
-> [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980)
+#### [How to monetize your LinkedIn Live content](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=1)** - If I had a dollar for every single person who asked me, "How could I make money off a LinkedIn live?"
+> **[0:01](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=1)** - If I had a dollar for every single person who asked me, "How could I make money off a [[LinkedIn]] live?"
 >
 > **[0:07](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=7)** I don't think I'd be doing this video right now.
 >
@@ -1136,7 +1120,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=75)** But with all that hard work, why not make some money off of it, right?
 >
-> **[1:19](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=79)** So one of the first things that you can do is decide to sell one of your own products.
+> **[1:19](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=79)** So one of the first things that you can do is decide to sell one of your own [[Microsoft Products|products]].
 >
 > **[1:24](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=84)** It could be a product, it could be a service, whatever it is, make sure that it is relevant to your audience and you're doing it in the right way and you're not pushing it down their throat.
 >
@@ -1146,9 +1130,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=99)** And then if you want it to be a little bit subtle with it, you can always try using a subtle graphic.
 >
-> **[1:45](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=105)** So while you're talking, while you're interviewing somebody, you can have a little graphic that comes up and says, "Buy my coaching program," or "find out more information about this product."
+> **[1:45](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=105)** So while you're talking, while you're [[Interviewing]] somebody, you can have a little graphic that comes up and says, "Buy my coaching program," or "find out more information about this product."
 >
-> **[1:55](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=115)** Whatever it is, you can just let them know without even saying a word.
+> **[1:55](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=115)** Whatever it is, you can just let them know without even saying a [[Microsoft Word|word]].
 >
 > **[1:59](https://www.linkedin.com/learning/live-streaming-on-linkedin/how-to-monetize-your-linkedin-live-content?u=76281980&t=119)** But at the end of the day, when you're doing something like that, you need to make sure they know where they can buy it.
 >
@@ -1180,7 +1164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), [[Interviewing]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), [[Interviewing]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Definitions:** is a  (4)
 > **Analogies:** just like (1)

@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Technology breakthroughs need management breakthroughs
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980)
+#### [Technology breakthroughs need management breakthroughs](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980&t=10)** Me too.
 >
-> **[0:11](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980&t=11)** And when I joined Microsoft to lead AI strategy for the US, I searched high and low for better guidance.
+> **[0:11](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980&t=11)** And when I joined [[Microsoft]] to lead [[AI Strategy]] for the US, I searched high and low for better guidance.
 >
 > **[0:17](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980&t=17)** I'm Brian Evergreen, and I've come up with a new system of leadership built for purpose for the era of AI that I share in my book, "Autonomous Transformation."
 >
@@ -103,19 +102,18 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980&t=35)** Technology breakthroughs need management breakthroughs.
 >
-> **[0:38](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980&t=38)** And if you want to lead in the era of artificial intelligence, this course is for you.
+> **[0:38](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980&t=38)** And if you want to lead in the era of [[Artificial Intelligence (AI)|artificial intelligence]], this course is for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft]] (1), leadership (1), management (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[AI Strategy]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - 87 (1)
 
-#### New leadership for the AI era
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980)
+#### [New leadership for the AI era](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=0)** - Artificial intelligence is transforming how we live and work across all industries, and with that comes a fundamental shift in what people expect and need from their leaders.
+> **[0:00](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] is transforming how we live and work across all industries, and with that comes a fundamental shift in what people expect and need from their leaders.
 >
 > **[0:11](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=11)** This shift has actually been in motion for decades, but failed.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=68)** As leaders, it's never been more important to talk about these things clearly.
 >
-> **[1:12](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=72)** AI is a tool and how we use that tool to change the nature of work and to introduce new products and services is up to us, and it will depend on the decisions and investments we make.
+> **[1:12](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=72)** AI is a tool and how we use that tool to change the nature of work and to introduce new [[Microsoft Products|products]] and services is up to us, and it will depend on the decisions and investments we make.
 >
 > **[1:24](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=84)** What will the future look like?
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=91)** There are three ways you can engage with the future and all the changes that AI will bring to your industry.
 >
-> **[1:36](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=96)** Predict, react, or create.
+> **[1:36](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=96)** Predict, [[React.js|react]], or create.
 >
 > **[1:41](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=101)** Predicting the future is a false premise.
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=119)** Reacting to the future can work sometimes and it's become the status quo, but there's a long list of companies that reacting didn't work for.
 >
-> **[2:07](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=127)** For example, imagine if Google had introduced Gemini before OpenAI announced ChatGPT.
+> **[2:07](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=127)** For example, imagine if [[Google]] had introduced [[Gemini]] before OpenAI announced [[ChatGPT]].
 >
 > **[2:14](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/new-leadership-for-the-ai-era?u=76281980&t=134)** If I ask you if it's best to be first to market, I'm guessing you would agree, but pause and consider if that's what your investments would show.
 >
@@ -189,15 +187,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), leadership (1), [[Microsoft Products|Products]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1), [[React.js|React]] (1), [[Google]] (1), [[Gemini]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - artificial (1)
 
-#### Leading your organization as a social system
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-your-organization-as-a-social-system?u=76281980)
+#### [Leading your organization as a social system](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-your-organization-as-a-social-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-your-organization-as-a-social-system?u=76281980&t=93)** The bottom layer is physical, physical machinery, buildings, land, and investments.
 >
-> **[1:39](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-your-organization-as-a-social-system?u=76281980&t=99)** The middle layer is digital, software, dashboards, AI, and automation.
+> **[1:39](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-your-organization-as-a-social-system?u=76281980&t=99)** The middle layer is digital, software, [[Dashboards]], AI, and automation.
 >
 > **[1:47](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-your-organization-as-a-social-system?u=76281980&t=107)** The last layer on the very top is social, people, expertise, processes, and interactions.
 >
@@ -257,13 +254,13 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-your-organization-as-a-social-system?u=76281980&t=194)** The cracks between these two different worldviews are beginning to show.
 >
-> **[3:18](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-your-organization-as-a-social-system?u=76281980&t=198)** As topics that were viewed as extracurricular in the 20th century, such as empathy, storytelling, and psychological safety, have become core curricula for leading organizations.
+> **[3:18](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-your-organization-as-a-social-system?u=76281980&t=198)** As topics that were viewed as extracurricular in the 20th century, such as empathy, [[Storytelling]], and psychological safety, have become core curricula for leading organizations.
 >
 > **[3:29](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-your-organization-as-a-social-system?u=76281980&t=209)** Where I'm excited to dive even deeper with you in this course is how this also transforms the way we think about traditional topics such as strategy, innovation, and leadership.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Dashboards]] (1), [[Automation]] (1), data (1), teams (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Storytelling]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -274,18 +271,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding autonomous transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980)
+#### [Understanding autonomous transformation](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=0)** - Over the past several decades, we've been transforming from an analog to a digital world.
 >
-> **[0:05](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=5)** We call this, of course, digital transformation, but digital transformation was just the opening.
+> **[0:05](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=5)** We call this, of course, [[Digital Transformation]], but digital transformation was just the opening.
 >
 > **[0:11](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=11)** The next era in our shared journey is autonomous transformation.
 >
-> **[0:15](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=15)** When most people hear the word autonomous, they think of self-driving vehicles, but by 2030, the majority of autonomous systems defined as a system capable of executing tasks and/or making a decision independently will be autonomous agents.
+> **[0:15](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=15)** When most people hear the [[Microsoft Word|word]] autonomous, they think of self-driving vehicles, but by 2030, the majority of autonomous systems defined as a system capable of executing tasks and/or making a decision independently will be autonomous agents.
 >
 > **[0:30](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=30)** These agents will independently negotiate transactions, perform research, analyze reports for us, and work together with a network of other agents, which I call an internet of agents, to collaborate in new ways across organizations that just aren't possible today.
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=48)** A truck is scheduled to leave tomorrow morning from Seattle to bring lumber to New York City.
 >
-> **[0:54](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=54)** I place a call today from Seattle to a different forest products company asking for the same type of lumber, which they only have available in a warehouse in New York City.
+> **[0:54](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=54)** I place a call today from Seattle to a different forest [[Microsoft Products|products]] company asking for the same type of lumber, which they only have available in a warehouse in New York City.
 >
 > **[1:03](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=63)** Today, those two companies are going to spend a lot of money and waste time sending trucks from two opposite sides of the country to ship the same product to the exact same cities.
 >
@@ -353,24 +349,23 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=239)** Now that I've shared this with you, a fun and interesting exercise you may want to consider is plotting all the projects within your organizations or maybe some products in the market to see where they fall in this quadrant.
 >
-> **[4:11](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=251)** I'd love to see these, so please feel free to post and tag me or DM me on LinkedIn, but be sure to anonymize anything that would be confidential to your organization.
+> **[4:11](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980&t=251)** I'd love to see these, so please feel free to post and tag me or DM me on [[LinkedIn]], but be sure to anonymize anything that would be confidential to your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (4), [[Microsoft Products|Products]] (2), next (1), [[Microsoft Word|Word]] (1), product (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (4), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **Definitions:** we call this (1), defined as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - over (1)
 
-#### Leading autonomous transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-autonomous-transformation?u=76281980)
+#### [Leading autonomous transformation](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-autonomous-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-autonomous-transformation?u=76281980&t=0)** - When I share the definitions of digital and autonomous transformation, reformation and creation, the question that often follows is, which should we focus on?
 >
-> **[0:09](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-autonomous-transformation?u=76281980&t=9)** We've been going through our digital transformation.
+> **[0:09](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-autonomous-transformation?u=76281980&t=9)** We've been going through our [[Digital Transformation]].
 >
 > **[0:11](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-autonomous-transformation?u=76281980&t=11)** Is it time for us to switch to autonomous transformation?
 >
@@ -388,7 +383,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-autonomous-transformation?u=76281980&t=62)** These form a path from where you are today to the new goal that you've set.
 >
-> **[1:07](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-autonomous-transformation?u=76281980&t=67)** Let's say you're facing a recession and your goal is to reduce cost on one of your core products or services.
+> **[1:07](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-autonomous-transformation?u=76281980&t=67)** Let's say you're facing a recession and your goal is to reduce cost on one of your core [[Microsoft Products|products]] or services.
 >
 > **[1:13](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/leading-autonomous-transformation?u=76281980&t=73)** The path between where you are and your goal is straightforward, reformation.
 >
@@ -422,7 +417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (2), [[Microsoft Products|Products]] (2), leadership (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** switch to (1)
 > **Definitions:** in other words (1)
@@ -431,14 +426,13 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - when (1)
 
-#### Empowering your experts
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/empowering-your-experts?u=76281980)
+#### [Empowering your experts](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/empowering-your-experts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/empowering-your-experts?u=76281980&t=0)** - Once you have a goal you're ready to pursue, you're going to need experts in order to achieve it.
 >
-> **[0:05](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/empowering-your-experts?u=76281980&t=5)** If you need to find and hire the right experts, there are lots of resources right here on LinkedIn Learning that can guide you through that.
+> **[0:05](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/empowering-your-experts?u=76281980&t=5)** If you need to find and hire the right experts, there are lots of resources right here on [[LinkedIn]] Learning that can guide you through that.
 >
 > **[0:12](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/empowering-your-experts?u=76281980&t=12)** I'm going to share how to get the experts you have to work more cohesively and effectively with each other, especially across different departments and areas of expertise.
 >
@@ -480,7 +474,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/empowering-your-experts?u=76281980&t=121)** The second is friction.
 >
-> **[2:03](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/empowering-your-experts?u=76281980&t=123)** Find and eliminate sources of destructive friction, but be careful not to remove all friction, as some forms of friction are highly useful, such as friendly competition.
+> **[2:03](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/empowering-your-experts?u=76281980&t=123)** Find and eliminate sources of destructive friction, but be careful not to remove all friction, as some [[Forms]] of friction are highly useful, such as friendly competition.
 >
 > **[2:13](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/empowering-your-experts?u=76281980&t=133)** For more on this, I highly recommend "The Friction Project" by Bob Sutton and Huggy Rao.
 >
@@ -514,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[LinkedIn]] (1), management (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Forms]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** ceo (1)
 > **Cross-References:** in the last (1)
@@ -527,8 +521,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reason-driven vs. data-driven strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reason-driven-vs-data-driven-strategy?u=76281980)
+#### [Reason-driven vs. data-driven strategy](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reason-driven-vs-data-driven-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +533,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reason-driven-vs-data-driven-strategy?u=76281980&t=6)** Because it's supposed to be scientific, but it's not.
 >
-> **[0:11](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reason-driven-vs-data-driven-strategy?u=76281980&t=11)** In theory, data-driven decision making is the most rational scientific approach to decision making and practice.
+> **[0:11](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reason-driven-vs-data-driven-strategy?u=76281980&t=11)** In theory, [[Data-driven Decision Making]] is the most rational scientific approach to decision making and practice.
 >
 > **[0:18](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reason-driven-vs-data-driven-strategy?u=76281980&t=18)** However, it has become unscientific.
 >
@@ -612,20 +605,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Data-driven Decision Making]] (3), next (2)
+> **Frameworks & Libraries:** [[Data-driven Decision Making]] (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Harness opposing views
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/harness-opposing-views?u=76281980)
+#### [Harness opposing views](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/harness-opposing-views?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/harness-opposing-views?u=76281980&t=0)** - Once you've created an initial draft of a reason-driven strategy, the next step is to share your strategy with others across your organization to sharpen your thinking and account for their knowledge and points of view.
 >
-> **[0:13](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/harness-opposing-views?u=76281980&t=13)** This will create alignment, generate momentum, and improve organizational decision-making over time.
+> **[0:13](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/harness-opposing-views?u=76281980&t=13)** This will create alignment, generate momentum, and improve organizational [[Decision-Making]] over time.
 >
 > **[0:20](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/harness-opposing-views?u=76281980&t=20)** Since I first introduced reason-driven decision-making in 2023, dozens of leading organizations have gone through this process.
 >
@@ -633,7 +625,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/harness-opposing-views?u=76281980&t=30)** Number one, propose this as an experiment you want to try.
 >
-> **[0:35](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/harness-opposing-views?u=76281980&t=35)** If you come in hot with a new way of doing something as fundamental as decision-making, the natural tendency may be to react against what you're doing instead of supporting it.
+> **[0:35](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/harness-opposing-views?u=76281980&t=35)** If you come in hot with a new way of doing something as fundamental as decision-making, the natural tendency may be to [[React.js|react]] against what you're doing instead of supporting it.
 >
 > **[0:45](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/harness-opposing-views?u=76281980&t=45)** Number two, set the right degree of context.
 >
@@ -683,14 +675,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (5), next (2), [[React.js|React]] (1), leadership (1), bi (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (5), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - once (1)
 
-#### Focus your resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/focus-your-resources?u=76281980)
+#### [Focus your resources](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/focus-your-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,11 +727,11 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/focus-your-resources?u=76281980&t=152)** So rather than wait and hope that doesn't happen, they're building that tool themselves.
 >
-> **[2:37](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/focus-your-resources?u=76281980&t=157)** They're well positioned because they already have the client base, brand recognition, the ideal dataset, and the experts to guide the product development.
+> **[2:37](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/focus-your-resources?u=76281980&t=157)** They're well positioned because they already have the client base, brand recognition, the ideal dataset, and the experts to guide the [[Product Development]].
 >
 > **[2:46](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/focus-your-resources?u=76281980&t=166)** They just needed to add AI capability to their organization.
 >
-> **[2:50](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/focus-your-resources?u=76281980&t=170)** Once you've decided which theories and hypotheses you're going to invest in directly, I like to mark these with a money bag, and after you communicate your vision and drive alignment with your colleagues, you'll be able to run these through the same process or project management office you typically leverage to execute initiatives.
+> **[2:50](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/focus-your-resources?u=76281980&t=170)** Once you've decided which theories and hypotheses you're going to invest in directly, I like to mark these with a money bag, and after you communicate your vision and drive alignment with your colleagues, you'll be able to run these through the same process or project management [[Microsoft Office|office]] you typically leverage to execute initiatives.
 >
 > **[3:07](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/focus-your-resources?u=76281980&t=187)** Unless one of your hypotheses is that you need to change the way you do projects, then that's new territory that will require swimming upstream.
 >
@@ -748,13 +739,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), next (2), business (2), [[Product Development]] (1), management (1)
+> **Frameworks & Libraries:** [[Product Development]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
-#### Communicate your vision and strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/communicate-your-vision-and-strategy?u=76281980)
+#### [Communicate your vision and strategy](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/communicate-your-vision-and-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +774,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/communicate-your-vision-and-strategy?u=76281980&t=94)** Some have a higher degree of emotional appeal and maybe move to action by a story.
 >
-> **[1:39](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/communicate-your-vision-and-strategy?u=76281980&t=99)** Others may have a higher degree of analytical appeal where statistics and facts will be more effective in shifting their mindset and encouraging them to take action.
+> **[1:39](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/communicate-your-vision-and-strategy?u=76281980&t=99)** Others may have a higher degree of analytical appeal where [[Statistics]] and facts will be more effective in shifting their mindset and encouraging them to take action.
 >
 > **[1:49](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/communicate-your-vision-and-strategy?u=76281980&t=109)** If you want to double down on your ability to ignite change through speeches, stories, et cetera, I highly recommend the book "Illuminate" by Nancy Duarte and Patty Sanchez.
 >
@@ -800,7 +790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - your (1)
 
@@ -809,12 +799,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Replace problem-solving with future solving
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-problem-solving-with-future-solving?u=76281980)
+#### [Replace problem-solving with future solving](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-problem-solving-with-future-solving?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-problem-solving-with-future-solving?u=76281980&t=0)** - If you go to any conference or read an article today on how you should approach digital transformation, sustainability, or any major topic, one of the phrases you're most likely to hear is start with what problem you want to solve.
+> **[0:00](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-problem-solving-with-future-solving?u=76281980&t=0)** - If you go to any conference or read an article today on how you should approach [[Digital Transformation]], [[Sustainability]], or any major topic, one of the phrases you're most likely to hear is start with what problem you want to solve.
 >
 > **[0:14](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-problem-solving-with-future-solving?u=76281980&t=14)** There's a lot of historical context on why this resonates with us, but for now, I'll share that the problem with solving problems is that it only gets rid of what we don't want.
 >
@@ -864,14 +853,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Digital Transformation]] (1), [[Sustainability]] (1), teams (1), product (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Sustainability]] (1)
 > **Code Identifiers:** iphone (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - if (1)
 
-#### Pair data with expertise
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/pair-data-with-expertise?u=76281980)
+#### [Pair data with expertise](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/pair-data-with-expertise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/pair-data-with-expertise?u=76281980&t=10)** I'll give you an example.
 >
-> **[0:12](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/pair-data-with-expertise?u=76281980&t=12)** If you described your symptoms to me, not a doctor, and I type them into ChatGPT, would you want me to generate and prescribe a treatment plan for you sending orders to your local pharmacist without consulting a doctor?
+> **[0:12](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/pair-data-with-expertise?u=76281980&t=12)** If you described your symptoms to me, not a doctor, and I type them into [[ChatGPT]], would you want me to generate and prescribe a treatment plan for you sending orders to your local pharmacist without consulting a doctor?
 >
 > **[0:25](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/pair-data-with-expertise?u=76281980&t=25)** Or what if you were offered a trade?
 >
@@ -945,19 +933,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (3), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - the (1)
 
-#### Augment analysis with synthesis
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/augment-analysis-with-synthesis?u=76281980)
+#### [Augment analysis with synthesis](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/augment-analysis-with-synthesis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/augment-analysis-with-synthesis?u=76281980&t=0)** - Analysis is one of the most popular, desired skills of our times.
 >
-> **[0:05](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/augment-analysis-with-synthesis?u=76281980&t=5)** Everywhere you look on LinkedIn or on resumes, professionals reference their analytical capabilities.
+> **[0:05](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/augment-analysis-with-synthesis?u=76281980&t=5)** Everywhere you look on [[LinkedIn]] or on resumes, professionals reference their analytical capabilities.
 >
 > **[0:11](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/augment-analysis-with-synthesis?u=76281980&t=11)** How about synthesis?
 >
@@ -971,7 +958,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/augment-analysis-with-synthesis?u=76281980&t=58)** Here's an analogy.
 >
-> **[0:59](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/augment-analysis-with-synthesis?u=76281980&t=59)** Imagine if we sat down to do a jigsaw puzzle together and we only had a bag of pieces, no box.
+> **[0:59](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/augment-analysis-with-synthesis?u=76281980&t=59)** Imagine if we sat down to do a [[Jigsaw]] puzzle together and we only had a bag of pieces, no box.
 >
 > **[1:06](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/augment-analysis-with-synthesis?u=76281980&t=66)** What would you think if I started counting how many puzzle pieces we had and organized them into groups based on the shapes of the pieces?
 >
@@ -1027,13 +1014,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[LinkedIn]] (2), management (1), teams (1), [[Jigsaw]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Jigsaw]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** picture (3), imagine (1)
 > **Speakers:** - analysis (1)
 
-#### Replace use cases with value cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-use-cases-with-value-cases?u=76281980)
+#### [Replace use cases with value cases](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-use-cases-with-value-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1089,7 +1075,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-use-cases-with-value-cases?u=76281980&t=181)** But in the context of strategy, innovation, and leadership, we need to replace use cases with value cases.
 >
-> **[3:10](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-use-cases-with-value-cases?u=76281980&t=190)** Before moving on, consider sharing an image of the beautiful building you thought of on LinkedIn and tagging me or sending me a message.
+> **[3:10](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-use-cases-with-value-cases?u=76281980&t=190)** Before moving on, consider sharing an image of the beautiful building you thought of on [[LinkedIn]] and tagging me or sending me a message.
 >
 > **[3:16](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-use-cases-with-value-cases?u=76281980&t=196)** I love to see these.
 >
@@ -1099,7 +1085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), ai (2), leadership (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -1110,8 +1096,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reaching new heights of value creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980)
+#### [Reaching new heights of value creation](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,9 +1130,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980&t=95)** This new system of leadership I've begun sharing with you is not a static thing.
 >
-> **[1:39](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980&t=99)** It started with my book and now it's evolving as I actively research, test, get feedback from people like you, and share my findings in articles, my newsletter, and here on LinkedIn.
+> **[1:39](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980&t=99)** It started with my book and now it's evolving as I actively research, test, get feedback from people like you, and share my findings in articles, my newsletter, and here on [[LinkedIn]].
 >
-> **[1:50](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980&t=110)** Thank you for joining me in this course and learning about making more scientific decisions, solving for the future, the next era beyond digital transformation, we've covered a lot of ground.
+> **[1:50](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980&t=110)** Thank you for joining me in this course and learning about making more scientific decisions, solving for the future, the next era beyond [[Digital Transformation]], we've covered a lot of ground.
 >
 > **[2:02](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980&t=122)** If you have any questions and you think others might benefit from seeing your questions answered, please use the Q&A tab on this course.
 >
@@ -1157,7 +1142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), leadership (2), [[LinkedIn]] (2), management (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Digital Transformation]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - thank (1)

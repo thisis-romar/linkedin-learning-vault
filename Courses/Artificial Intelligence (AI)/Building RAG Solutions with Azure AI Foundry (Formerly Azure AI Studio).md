@@ -94,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a RAG solution with little coding
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-RAG-solution-with-little-coding?u=76281980)
+#### [Create a RAG solution with little coding](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-RAG-solution-with-little-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-RAG-solution-with-little-coding?u=76281980&t=0)** RAG solutions in Azure AI studio are transforming how businesses access and utilize information with very little coding required.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-RAG-solution-with-little-coding?u=76281980&t=0)** RAG solutions in [[Azure AI Studio]] are transforming how businesses access and utilize information with very little coding required.
 >
 > **[0:10](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-RAG-solution-with-little-coding?u=76281980&t=10)** That's right.
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (2), [[Azure AI Studio]] (2), ai (2), power (1), data (1)
+> **Frameworks & Libraries:** [[Azure AI Studio]] (2)
 > **Env Vars:** rag (2)
 
 
@@ -123,12 +122,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basics of RAG: Adding custom data to your LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980)
+#### [The basics of RAG: Adding custom data to your LLM](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=0)** Large language models are trained on a large set of data, mainly from the internet.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=0)** [[Large Language Models (LLM)|Large language models]] are trained on a large set of data, mainly from the internet.
 >
 > **[0:06](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=6)** However, they do have limitations.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=17)** Each model will have a specific date on how recent the data it was trained on.
 >
-> **[0:22](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=22)** The free version of ChatGPT, for example, was trained on January 2022 data.
+> **[0:22](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=22)** The free version of [[ChatGPT]], for example, was trained on January 2022 data.
 >
 > **[0:29](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=29)** So it will reply that Queen Elizabeth II is still alive when we already know she passed away.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=50)** In the given example, the model is providing an answer, but the source links given when clicked do not match the actual product.
 >
-> **[0:59](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=59)** RAG LLM context is a popular acronym for retrieval-augmented generation.
+> **[0:59](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=59)** RAG LLM context is a popular acronym for [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[1:06](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=66)** It is the technique of adding data to an LLM from an external data source.
 >
@@ -168,11 +166,11 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=133)** To simplify, the main difference between RAG and a typical LLM system is that a typical LLM system would answer user queries based on its training data set, while RAG provides answers to queries from an external source, you have provided.
 >
-> **[2:29](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=149)** How the relevant data is retrieved based on the user's initial prompt is best explained by discussing other concepts, called tokens and embeddings in the next chapters.
+> **[2:29](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980&t=149)** How the relevant data is retrieved based on the user's initial prompt is best explained by discussing other concepts, called [[Tokens]] and embeddings in the next chapters.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), llm (6), rag (3), prompt (3), product (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Tokens]] (1)
 > **Env Vars:** llm (6), rag (3)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -180,12 +178,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 
-#### Understanding tokens: A key factor of costs in your system
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980)
+#### [Understanding tokens: A key factor of costs in your system](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=0)** Tokens play a big role in large language models because they affect how much your system will cost.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=0)** [[Tokens]] play a big role in [[Large Language Models (LLM)|large language models]] because they affect how much your system will cost.
 >
 > **[0:07](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=7)** Tokens are needed because computer systems don't really understand birds.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=34)** Usually, one token is approximately the same as four characters or 0.75 words in English.
 >
-> **[0:42](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=42)** To simplify, imagine that every word in the dictionary gets its own number.
+> **[0:42](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=42)** To simplify, imagine that every [[Microsoft Word|word]] in the dictionary gets its own number.
 >
 > **[0:47](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=47)** So in this sentence "I heard a dog barked loudly at a cat", each word gets a different number, and if the same word is used more than once, like the letter A, it gets the same number three.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=88)** The tokenization strategy may differ based on the LLM we are using.
 >
-> **[1:34](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=94)** OpenAI cloud and Llama, for example, use different methods.
+> **[1:34](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=94)** OpenAI cloud and [[LLaMA]], for example, use different methods.
 >
 > **[1:39](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=99)** In addition, OpenAI's GPT 3.5 and GPT 4 models use different tokenizers than the previous versions.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=130)** The more tokens you use, the more it costs.
 >
-> **[2:15](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=135)** Azure Open AI charges you based on the number of tokens in the input, what you ask the model and output, what the model responds with.
+> **[2:15](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=135)** [[Microsoft Azure|Azure]] Open AI charges you based on the number of tokens in the input, what you ask the model and output, what the model responds with.
 >
 > **[2:26](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-tokens-a-key-factor-of-costs-in-your-system?u=76281980&t=146)** So to keep your costs under control, you need to limit how many characters you put into the system and how many characters you get back.
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (8), [[Microsoft Word|Word]] (7), llm (3), [[Large Language Models (LLM)|Large language models]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Tokens]] (8), [[Microsoft Word|Word]] (7), [[Large Language Models (LLM)|Large language models]] (1), [[LLaMA]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** llm (3), gpt (2)
 > **Analogies:** for example (2), imagine (1), similar to (1)
 > **CLI Commands:** cat (3)
@@ -239,14 +236,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
 
-#### Vector embeddings: How words connect to each other
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/vector-embeddings-how-words-connect-to-each-other?u=76281980)
+#### [Vector embeddings: How words connect to each other](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/vector-embeddings-how-words-connect-to-each-other?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/vector-embeddings-how-words-connect-to-each-other?u=76281980&t=0)** Once the words are converted into numbers called tokens, the next question would be how does the system know that the cat and dog are animals?
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/vector-embeddings-how-words-connect-to-each-other?u=76281980&t=0)** Once the words are converted into numbers called [[Tokens]], the next question would be how does the system know that the cat and dog are animals?
 >
-> **[0:10](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/vector-embeddings-how-words-connect-to-each-other?u=76281980&t=10)** And meow and bark are verbs? In addition, how will the system know if the word "bank" is referring to the financial institution or a river bank?
+> **[0:10](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/vector-embeddings-how-words-connect-to-each-other?u=76281980&t=10)** And meow and bark are verbs? In addition, how will the system know if the [[Microsoft Word|word]] "bank" is referring to the financial institution or a river bank?
 >
 > **[0:22](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/vector-embeddings-how-words-connect-to-each-other?u=76281980&t=22)** The answer to this is the concept called vector embeddings.
 >
@@ -302,19 +298,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (4), [[Tokens]] (3), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** cat (3)
 > **Analogies:** for example (1), imagine (1)
 > **Prerequisites:** setup (2)
 > **Cross-References:** previous video (1)
 
-#### How RAG works: Understanding the process under the hood
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/how-rag-works-understanding-the-process-under-the-hood?u=76281980)
+#### [How RAG works: Understanding the process under the hood](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/how-rag-works-understanding-the-process-under-the-hood?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/how-rag-works-understanding-the-process-under-the-hood?u=76281980&t=0)** Now that we understand the basic concepts of drag and the concepts of tokens and vector embeddings, let us discuss how RAG works.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/how-rag-works-understanding-the-process-under-the-hood?u=76281980&t=0)** Now that we understand the basic concepts of drag and the concepts of [[Tokens]] and vector embeddings, let us discuss how RAG works.
 >
 > **[0:10](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/how-rag-works-understanding-the-process-under-the-hood?u=76281980&t=10)** First, documents must be broken down into smaller documents.
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/how-rag-works-understanding-the-process-under-the-hood?u=76281980&t=51)** Second, the chunked documents are then converted into vector embeddings.
 >
-> **[0:56](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/how-rag-works-understanding-the-process-under-the-hood?u=76281980&t=56)** As discussed in the previous chapter, the embedding model to be used is based on the model you're using for Azure OpenAI.
+> **[0:56](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/how-rag-works-understanding-the-process-under-the-hood?u=76281980&t=56)** As discussed in the previous chapter, the embedding model to be used is based on the model you're using for [[Microsoft Azure|Azure]] OpenAI.
 >
 > **[1:05](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/how-rag-works-understanding-the-process-under-the-hood?u=76281980&t=65)** We will use text embedding ada-002.
 >
@@ -368,26 +363,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (8), database (3), [[Search]] (3), prompt (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** rag (8), llm (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** we call this (1)
 > **Analogies:** imagine (1)
 
-#### RAG high-level architecture: The required components
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980)
+#### [RAG high-level architecture: The required components](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=0)** Our RAG system would have the following components.
 >
-> **[0:04](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=4)** One, an information retrieval system or retriever.
+> **[0:04](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=4)** One, an [[Information Retrieval]] system or retriever.
 >
 > **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=9)** The retriever would store your vector embeddings and would provide you the logic and ability to search for those vector embeddings based on different retrieval and search methods.
 >
 > **[0:20](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=20)** It would also contain security and compliance policies needed by your business.
 >
-> **[0:25](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=25)** The retriever can be a vector database such as Azure Cosmos DB for MongoDB or a search engine such as Azure AI search.
+> **[0:25](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=25)** The retriever can be a vector database such as [[Microsoft Azure|Azure]] Cosmos DB for [[MongoDB]] or a search engine such as Azure AI search.
 >
 > **[0:35](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=35)** You also need a large language model.
 >
@@ -411,13 +405,13 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=95)** In our course, we will have the following high level architecture.
 >
-> **[1:40](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=100)** We will use Microsoft Teams to enable users to make user queries.
+> **[1:40](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=100)** We will use [[Microsoft Teams]] to enable users to make user queries.
 >
-> **[1:45](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=105)** Copilot studio shall be used to connect Microsoft Teams to the Rest API endpoint, to be provided by Azure AI studio.
+> **[1:45](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=105)** [[Microsoft Copilot|Copilot]] studio shall be used to connect Microsoft Teams to the [[Representational State Transfer (REST)|Rest]] API endpoint, to be provided by [[Azure AI Studio]].
 >
 > **[1:53](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=113)** Azure AI studio shall be used to connect our data source to the LLM.
 >
-> **[1:58](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=118)** We will also use other features of the studio to create content filters, manage the prompt flow and retrieve information and evaluate the system.
+> **[1:58](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=118)** We will also use other features of the studio to create content filters, manage the [[Prompt Flow]] and retrieve information and evaluate the system.
 >
 > **[2:08](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/rag-high-level-architecture-the-required-components?u=76281980&t=128)** Azure AI search would now be used as a data source to contain all our vector embeddings, and the engine to handle our search queries.
 >
@@ -427,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), [[Microsoft Azure|Azure]] (5), llm (4), prompt (3), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Teams]] (2), [[Azure AI Studio]] (2), [[Information Retrieval]] (1), [[MongoDB]] (1)
 > **Env Vars:** llm (4), rag (1), api (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
@@ -439,16 +433,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure AI Foundry overview: Deploy at scale in a safe, secure, and responsible way
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980)
+#### [Azure AI Foundry overview: Deploy at scale in a safe, secure, and responsible way](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=0)** Azure AI Studio is your go to portal in building a solution.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=0)** [[Azure AI Studio]] is your go to portal in building a solution.
 >
 > **[0:05](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=5)** You can do the following with this tool.
 >
-> **[0:08](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=8)** You can build, test and deploy generative AI applications in one place.
+> **[0:08](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=8)** You can build, test and deploy [[Generative AI]] applications in one place.
 >
 > **[0:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=13)** Modules are available to help you build and connect together the different parts of a RAG solution.
 >
@@ -456,9 +449,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=26)** You have options to choose from a wide variety of models.
 >
-> **[0:30](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=30)** You are not limited to Azure Open AI models only.
+> **[0:30](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=30)** You are not limited to [[Microsoft Azure|Azure]] Open AI models only.
 >
-> **[0:33](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=33)** You can also use Mistral, Llama, Neutron, and even other small language models like FI for urgent AI application.
+> **[0:33](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=33)** You can also use Mistral, [[LLaMA]], Neutron, and even other small language models like FI for urgent AI application.
 >
 > **[0:44](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=44)** You can develop and deploy AI responsibly here.
 >
@@ -474,7 +467,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=76)** Finally, you can organize all your resources in one place.
 >
-> **[1:20](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=80)** You can view in the Studio your different AI projects here, different Azure AI resources and connections, your team members, permissions and policies, compute instances or virtual machines, and even your billing and costs in one area.
+> **[1:20](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=80)** You can view in the Studio your different AI projects here, different Azure AI resources and connections, your team members, permissions and policies, compute instances or [[Virtual Machines]], and even your billing and costs in one area.
 >
 > **[1:37](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=97)** Azure AI Studio introduces us to two new resources unique to the Studio the AI Hub and the AI Project.
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=162)** Azure Key Vault stores your connection strings to different resources.
 >
-> **[2:46](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=166)** Azure Container Registry contains Docker images created to run prompt flow.
+> **[2:46](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=166)** Azure Container Registry contains Docker images created to run [[Prompt Flow]].
 >
 > **[2:52](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980&t=172)** And finally, Azure Application Insights and Log Analytics workspace stores logging info if you decide to enable logging for your prompt flows, Azure AI Studio manages all these resources for you, but it's good to know what gets created alongside the Hub for transparency.
 >
@@ -518,29 +511,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), ai (16), data (5), [[Azure AI Studio]] (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Azure AI Studio]] (4), [[LLaMA]] (2), [[Virtual Machines]] (2), [[Generative AI]] (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** docker (1)
 > **Env Vars:** rag (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Navigating the Azure AI Foundry
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980)
+#### [Navigating the Azure AI Foundry](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=0)** Let us now navigate into Azure AI Studio.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=0)** Let us now navigate into [[Azure AI Studio]].
 >
-> **[0:03](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=3)** You can access the studio through the URL ia.[azure.com](https://azure.com).
+> **[0:03](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=3)** You can access the studio through the URL ia.[[[Microsoft Azure|azure]].com](https://azure.com).
 >
 > **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=9)** Let me give you a warning here.
 >
-> **[0:11](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=11)** Microsoft has been updating this a lot by the time this recording is done the interface may change, however the concepts will remain the same.
+> **[0:11](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=11)** [[Microsoft]] has been updating this a lot by the time this recording is done the interface may change, however the concepts will remain the same.
 >
 > **[0:22](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=22)** The model catalog gives you a list of models that you can deploy in Azure AI Studio.
 >
-> **[0:29](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=29)** As mentioned in the previous chapter, you not only have access to Azure Open AI models, but also other models such as Phi Llama, Mistral, and all other models that Microsoft has a partnership with.
+> **[0:29](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=29)** As mentioned in the previous chapter, you not only have access to Azure Open AI models, but also other models such as Phi [[LLaMA]], Mistral, and all other models that Microsoft has a partnership with.
 >
 > **[0:45](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=45)** The model benchmarks allow you to see how each model is performing against a specific task and industry recognized data set.
 >
@@ -554,7 +546,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=88)** AI services gives you access to all the different AI functionalities that Azure has to offer.
 >
-> **[1:35](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=95)** Coda provides you with a list of virtual machines and Azure Open AI models that you can deploy for your projects.
+> **[1:35](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=95)** Coda provides you with a list of [[Virtual Machines]] and Azure Open AI models that you can deploy for your projects.
 >
 > **[1:46](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=106)** Let us now explore a specific hub.
 >
@@ -580,7 +572,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=193)** The Chat Project playground is where we will manually test our index using a specific model we deployed.
 >
-> **[3:22](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=202)** The prompt flow is the orchestrator that will connect our user input, external data and LLM.
+> **[3:22](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=202)** The [[Prompt Flow]] is the orchestrator that will connect our user input, external data and LLM.
 >
 > **[3:29](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-azure-ai-studio?u=76281980&t=209)** We will also use prompt flow to deploy our application to production.
 >
@@ -588,7 +580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), prompt (5), [[Microsoft Azure|Azure]] (4), ai (4), application (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Azure AI Studio]] (2), [[Microsoft]] (2), [[Prompt Flow]] (2), [[LLaMA]] (1)
 > **Env Vars:** rag (2), url (1), gpt (1), llm (1)
 > **Cross-References:** previous chapter (2), we discussed (1)
 > **Analogies:** such as (1), for example (1)
@@ -596,8 +588,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 
-#### Creating a project in Azure AI Foundry
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-a-project-in-azure-ai-studio?u=76281980)
+#### [Creating a project in Azure AI Foundry](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-a-project-in-azure-ai-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,7 +596,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-a-project-in-azure-ai-studio?u=76281980&t=4)** Before creating a project, there are a couple of things you should do.
 >
-> **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-a-project-in-azure-ai-studio?u=76281980&t=9)** First, you should already have a subscription that let us Azure Open AI enabled.
+> **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-a-project-in-azure-ai-studio?u=76281980&t=9)** First, you should already have a subscription that let us [[Microsoft Azure|Azure]] Open AI enabled.
 >
 > **[0:16](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-a-project-in-azure-ai-studio?u=76281980&t=16)** If you do not have access to Azure Open AI yet, you need to get access via this registration form.
 >
@@ -671,7 +662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), ai (13), [[Search]] (6), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15)
 > **UI Navigation:** select the (2), click on (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -681,14 +672,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding content filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980)
+#### [Understanding content filters](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=0)** Azure AI Studio has a content filter system that works alongside the core models to help you deploy AI responsibly.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=0)** [[Azure AI Studio]] has a content filter system that works alongside the core models to help you deploy AI responsibly.
 >
-> **[0:10](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=10)** It is powered by Azure AI content safety, and it will filter the input prompt and the output completion of the system.
+> **[0:10](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=10)** It is powered by [[Microsoft Azure|Azure]] AI content safety, and it will filter the input prompt and the output completion of the system.
 >
 > **[0:18](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=18)** It has been trained for English, German, Japanese, Spanish, French, Italian, Portuguese, and Chinese languages.
 >
@@ -696,11 +686,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=31)** The content filter system will only work with Azure OpenAI based models such as GPT 4 and GPT 3.5.
 >
-> **[0:39](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=39)** The feature will not work for other models like Llama and Mistral.
+> **[0:39](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=39)** The feature will not work for other models like [[LLaMA]] and Mistral.
 >
 > **[0:45](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=45)** The list of languages and models may change in the future.
 >
-> **[0:49](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=49)** It is best to check the Microsoft Learn website on the content filter system of Azure AI Studio.
+> **[0:49](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=49)** It is best to check the [[Microsoft]] Learn website on the content filter system of Azure AI Studio.
 >
 > **[0:56](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980&t=56)** The content filter system has four categories.
 >
@@ -742,7 +732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Azure AI Studio]] (2), ai (2), [[Microsoft Azure|Azure]] (2), feature (2)
+> **Frameworks & Libraries:** [[Azure AI Studio]] (2), [[Microsoft Azure|Azure]] (2), [[LLaMA]] (1), [[Microsoft]] (1)
 > **Env Vars:** gpt (2)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -750,12 +740,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 
-#### Creating content filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-content-filters?u=76281980)
+#### [Creating content filters](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-content-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-content-filters?u=76281980&t=0)** In order to create a content filter in Azure AI Studio, we should go to the project we created and click the Content Filter section in the left hand navigation bar.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-content-filters?u=76281980&t=0)** In order to create a content filter in [[Azure AI Studio]], we should go to the project we created and click the Content Filter section in the left hand navigation bar.
 >
 > **[0:12](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-content-filters?u=76281980&t=12)** Click Content Filter in order to set the parameters.
 >
@@ -803,11 +792,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Studio]] (2), business (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Azure AI Studio]] (2)
 > **UI Navigation:** go to (1), select the (1)
 
-#### Creating model deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980)
+#### [Creating model deployments](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,11 +805,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=16)** First, you need to decide on what model to choose.
 >
-> **[0:20](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=20)** As of this recording, you can decide from Azure OpenAI, Meta, Huggingface, Nvidia, Microsoft., Mistral, Go here, Databricks and Snowflake.
+> **[0:20](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=20)** As of this recording, you can decide from [[Microsoft Azure|Azure]] OpenAI, Meta, [[Hugging Face|Huggingface]], Nvidia, [[Microsoft]]., Mistral, Go here, Databricks and [[Snowflake]].
 >
 > **[0:34](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=34)** I am pretty sure there will be a lot more in the future.
 >
-> **[0:38](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=38)** For RAG purposes, Azure AI Studio currently only supports Azure Open AI models.
+> **[0:38](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=38)** For RAG purposes, [[Azure AI Studio]] currently only supports Azure Open AI models.
 >
 > **[0:45](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=45)** This can also change as well in the future.
 >
@@ -863,13 +851,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=164)** If you created one in the previous chapter, this is where you assign it. A content filter with medium threshold set for all categories is assigned by default if you do not assign a custom setting.
 >
-> **[2:58](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=178)** The tokens per minute rate limit setting is also important, as this is your limit for the number of requests and tokens for both input and output that you have per minute.
+> **[2:58](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=178)** The [[Tokens]] per minute rate limit setting is also important, as this is your limit for the number of requests and tokens for both input and output that you have per minute.
 >
 > **[3:10](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-model-deployments?u=76281980&t=190)** This setting can be important as well if you have multiple projects using the same model deployment, and this can also help you track costs as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), rag (2), [[Tokens]] (2), [[Hugging Face|Huggingface]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Tokens]] (2), [[Hugging Face|Huggingface]] (1), [[Microsoft]] (1), [[Snowflake]] (1)
 > **Env Vars:** gpt (4), rag (2)
 > **Versions:** 3.5 (2)
 > **UI Navigation:** select the (2)
@@ -878,8 +866,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Navigating the Playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-playground?u=76281980)
+#### [Navigating the Playground](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,9 +892,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-playground?u=76281980&t=60)** There is an option to provide safety system messages as well.
 >
-> **[1:05](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-playground?u=76281980&t=65)** In our given example, if we add a personality to the system and add all the safety system messages, these words would add up to the total number of tokens to be sent during every API call.
+> **[1:05](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-playground?u=76281980&t=65)** In our given example, if we add a personality to the system and add all the safety system messages, these words would add up to the total number of [[Tokens]] to be sent during every API call.
 >
-> **[1:18](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-playground?u=76281980&t=78)** Since we are using Azure OpenAI, we can count the total number of tokens from OpenAI's tokenizer website.
+> **[1:18](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-playground?u=76281980&t=78)** Since we are using [[Microsoft Azure|Azure]] OpenAI, we can count the total number of tokens from OpenAI's tokenizer website.
 >
 > **[1:27](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/navigating-the-playground?u=76281980&t=87)** Every time you make changes in the system message, you need to click Apply changes.
 >
@@ -941,7 +928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), api (2), [[Tokens]] (2), [[Microsoft Azure|Azure]] (2), next (2)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** api (2), rag (1), llm (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** go to (2)
@@ -949,8 +936,7 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Definitions:** is an  (1)
 
-#### Using the Playground and its settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/using-the-playground-and-its-settings?u=76281980)
+#### [Using the Playground and its settings](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/using-the-playground-and-its-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,7 +946,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/using-the-playground-and-its-settings?u=76281980&t=17)** A value of ten, for example, will include five user queries and five system responses.
 >
-> **[0:23](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/using-the-playground-and-its-settings?u=76281980&t=23)** The maximum response represents the number of tokens limit .The number of tokens set are shared between the prompt, including system messages, examples, message history, and user query, and the model's response.
+> **[0:23](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/using-the-playground-and-its-settings?u=76281980&t=23)** The maximum response represents the number of [[Tokens]] limit .The number of tokens set are shared between the prompt, including system messages, examples, message history, and user query, and the model's response.
 >
 > **[0:39](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/using-the-playground-and-its-settings?u=76281980&t=39)** Remember that token length is directly proportional to the cost of the system.
 >
@@ -1010,7 +996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), data (3), api (1), prompt (1), llm (1)
+> **Frameworks & Libraries:** [[Tokens]] (4)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (1), llm (1), rag (1)
 > **Cross-References:** in the next (1)
@@ -1022,20 +1008,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an index using Azure AI Foundry
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980)
+#### [Creating an index using Azure AI Foundry](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980&t=0)** In order for the LLM to answer based on our data, the data should first be converted into vector embeddings and then stored in the data source.
 >
-> **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980&t=9)** Looking at the drug process, data storage, chunking, computing vector embeddings, and index storage may be difficult tasks to perform.
+> **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980&t=9)** Looking at the drug process, [[Data Storage]], chunking, computing vector embeddings, and index storage may be difficult tasks to perform.
 >
-> **[0:21](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980&t=21)** Fortunately, Azure AI Studio makes this process as easy for you.
+> **[0:21](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980&t=21)** Fortunately, [[Azure AI Studio]] makes this process as easy for you.
 >
 > **[0:27](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980&t=27)** There are a couple of ways to create an index.
 >
-> **[0:31](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980&t=31)** One way is to do it in Azure AI Studio, and the other is to do it separately in Azure AI Search.
+> **[0:31](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980&t=31)** One way is to do it in Azure AI Studio, and the other is to do it separately in [[Microsoft Azure|Azure]] AI Search.
 >
 > **[0:38](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980&t=38)** While both processes manage the chunking and vector embedding conversions for you, each process provides different results.
 >
@@ -1085,20 +1070,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Search]] (8), [[Microsoft Azure|Azure]] (6), ai (4), [[Azure AI Studio]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Azure AI Studio]] (3), [[Data Storage]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
 > **Env Vars:** llm (1)
 > **Definitions:** is a  (1)
 
-#### Creating an index using Azure AI Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-search?u=76281980)
+#### [Creating an index using Azure AI Search](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-search?u=76281980&t=0)** Another method to create the index is to do it in Azure AI Search.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-search?u=76281980&t=0)** Another method to create the index is to do it in [[Microsoft Azure|Azure]] AI Search.
 >
-> **[0:04](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-search?u=76281980&t=4)** There are a few reasons why you want to create the index outside of Azure AI Studio.
+> **[0:04](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-search?u=76281980&t=4)** There are a few reasons why you want to create the index outside of [[Azure AI Studio]].
 >
 > **[0:11](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-search?u=76281980&t=11)** You already have data stored in an Azure Storage resource outside the AI project.
 >
@@ -1138,21 +1122,20 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-search?u=76281980&t=135)** In this chapter, you have noticed that there are more settings you can control when creating your index in Azure AI Search, versus creating it using Azure AI Studio.
 >
-> **[2:26](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-search?u=76281980&t=146)** If you still need even more control, then you may try the Python or the Rest APIs documentation of Azure AI Search.
+> **[2:26](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-search?u=76281980&t=146)** If you still need even more control, then you may try the [[Python (Programming Language)|Python]] or the [[Representational State Transfer (REST)|Rest]] APIs documentation of Azure AI Search.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), ai (7), data (7), [[Search]] (6), [[Azure AI Studio]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Azure AI Studio]] (3), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** in the next (1), previous chapter (1)
 > **UI Navigation:** go to (1), checkbox (1)
 > **CLI Commands:** python (1)
 
-#### Understanding retrieval and relevance in Azure AI Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980)
+#### [Understanding retrieval and relevance in Azure AI Search](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=0)** Azure AI Search uses two different layers of execution when searching for information, retrieval and relevance or ranking.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=0)** [[Microsoft Azure|Azure]] AI Search uses two different layers of execution when searching for information, retrieval and relevance or ranking.
 >
 > **[0:11](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=11)** These are two very important concepts we need to understand in RAG.
 >
@@ -1180,7 +1163,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=119)** This also has three different types. BM25 or best match 25 ranking is a ranking method exclusive only to full text search.
 >
-> **[2:12](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=132)** The method looks at a lot of factors, such as giving a higher score to documents that contain a lot of the search word, giving a smaller document a higher score over a larger document if they contain the same amount of the search word, or if a word search query is available in most documents, then it is not useful in searching.
+> **[2:12](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=132)** The method looks at a lot of factors, such as giving a higher score to documents that contain a lot of the search [[Microsoft Word|word]], giving a smaller document a higher score over a larger document if they contain the same amount of the search word, or if a word search query is available in most documents, then it is not useful in searching.
 >
 > **[2:35](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=155)** Exhaustive key-nearest neighbors (KNN) or Hierarchical Navigable Small World (HNSW) are methods exclusive to vector search.
 >
@@ -1190,13 +1173,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=187)** HNSW uses an advanced algorithm that tries to put the data in different categories.
 >
-> **[3:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=193)** When a search is done using HNSW, your query vector is immediately matched against a particular category and thus ignoring the rest of the other categories of data in the data source.
+> **[3:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=193)** When a search is done using HNSW, your query vector is immediately matched against a particular category and thus ignoring the [[Representational State Transfer (REST)|rest]] of the other categories of data in the data source.
 >
-> **[3:26](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=206)** Semantic ranking is the best ranking method now according to Microsoft research.
+> **[3:26](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=206)** Semantic ranking is the best ranking method now according to [[Microsoft]] research.
 >
 > **[3:32](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=212)** It is used to in hybrid search is selected.
 >
-> **[3:35](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=215)** It improves the BM25 and RF by using a deep learning model adapted from Microsoft Bing, to rearrange the initial results of L1.
+> **[3:35](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=215)** It improves the BM25 and RF by using a [[Deep Learning]] model adapted from Microsoft Bing, to rearrange the initial results of L1.
 >
 > **[3:46](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-retrieval-and-relevance-in-azure-ai-search?u=76281980&t=226)** Your business requirements would decide what would be the best L1 and L2 method for you.
 >
@@ -1210,14 +1193,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (22), data (8), [[Microsoft Azure|Azure]] (3), ai (3), rag (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Word|Word]] (3), [[Microsoft]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Deep Learning]] (1)
 > **Env Vars:** rag (3), hnsw (3), bm25 (2), knn (2), url (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1)
 
-#### Testing your index in the Playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980)
+#### [Testing your index in the Playground](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1227,15 +1209,15 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980&t=9)** We should specify the role and behavior of the system.
 >
-> **[0:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980&t=13)** In this case, it is an AI assistant that tells people find information about the products of the Contoso company.
+> **[0:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980&t=13)** In this case, it is an AI assistant that tells people find information about the [[Microsoft Products|products]] of the Contoso company.
 >
 > **[0:22](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980&t=22)** In addition, we should specify how the system responds when asked questions outside the data source you provided.
 >
 > **[0:31](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980&t=31)** This is to reduce fabrications in the response.
 >
-> **[0:36](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980&t=36)** We then need to attach the index in the Azure Data section.
+> **[0:36](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980&t=36)** We then need to attach the index in the [[Microsoft Azure|Azure]] Data section.
 >
-> **[0:42](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980&t=42)** If the index was created in Azure AI Studio, the index would be readily available.
+> **[0:42](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980&t=42)** If the index was created in [[Azure AI Studio]], the index would be readily available.
 >
 > **[0:49](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-your-index-in-the-playground?u=76281980&t=49)** However, if we created the index using Azure AI Search, then you would manually have to add this. Click add a new data source.
 >
@@ -1257,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Search]] (5), ai (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Products|Products]] (1), [[Azure AI Studio]] (1)
 > **UI Navigation:** select the (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -1267,20 +1249,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding prompt flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980)
+#### [Understanding prompt flow](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=0)** Prompt Flow is an orchestrator or organizer that connects your LLM data source system prompts and user inputs into a well connected system.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=0)** [[Prompt Flow]] is an orchestrator or organizer that connects your LLM data source system prompts and user inputs into a well connected system.
 >
-> **[0:12](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=12)** It provides us with a comprehensive solution that simplifies the process of prototyping, experimenting, iterating, and deploying your AI applications.
+> **[0:12](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=12)** It provides us with a comprehensive solution that simplifies the process of [[Prototyping]], experimenting, iterating, and deploying your AI applications.
 >
 > **[0:24](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=24)** What I like about Prompt Flow is that it provides you with a directed acyclic graph in order for you to visualize how each component of the flow interacts with each other.
 >
 > **[0:36](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=36)** This will help you understand how the system works under the hood.
 >
-> **[0:40](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=40)** Azure AI Studio then provides you an interactive interface to set each component as needed.
+> **[0:40](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=40)** [[Azure AI Studio]] then provides you an interactive interface to set each component as needed.
 >
 > **[0:48](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=48)** In addition, it gives you a simple to use evaluation mechanism that lets you test the performance of the system based on a different set of system message scenarios.
 >
@@ -1300,11 +1281,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=122)** We will discuss briefly what tools you'll be using for our course.
 >
-> **[2:08](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=128)** LLM tool allows you to use large language models with the Azure OpenAI service for tasks such as text completion or chat.
+> **[2:08](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=128)** LLM tool allows you to use [[Large Language Models (LLM)|large language models]] with the [[Microsoft Azure|Azure]] OpenAI service for tasks such as text completion or chat.
 >
 > **[2:16](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=136)** Index lookup allows you to search a vector based query for relevant results using one or more text queries.
 >
-> **[2:24](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=144)** Python tool allows you to run different Python code.
+> **[2:24](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=144)** [[Python (Programming Language)|Python]] tool allows you to run different Python code.
 >
 > **[2:28](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980&t=148)** Finally, Prompt tool allows you to craft a prompt by using Jinja as a templating language.
 >
@@ -1312,19 +1293,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), llm (3), ai (2), [[Azure AI Studio]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Prompt Flow]] (5), [[Azure AI Studio]] (2), [[Python (Programming Language)|Python]] (2), [[Prototyping]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (3), url (1)
 > **CLI Commands:** python (2), make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 
-#### Create a sample prompt flow for RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980)
+#### [Create a sample prompt flow for RAG](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=0)** Let me show you how to create a simple prompt flow for a RAG solution.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=0)** Let me show you how to create a simple [[Prompt Flow]] for a RAG solution.
 >
 > **[0:05](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=5)** We go to Prompt Flow under tools and click Create.
 >
@@ -1352,7 +1332,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=72)** Once completed, we need to modify each tool.
 >
-> **[1:17](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=77)** We will modify two LLM tool settings to connect our Azure OpenAI resource and set the proper deployment model.
+> **[1:17](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=77)** We will modify two LLM tool settings to connect our [[Microsoft Azure|Azure]] OpenAI resource and set the proper deployment model.
 >
 > **[1:26](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=86)** You can also modify here the temperature and max token count.
 >
@@ -1364,7 +1344,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=113)** Under ML index content, you can select a wide variety of options.
 >
-> **[2:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=120)** We will choose registered index which contains one of the indexes we set in Azure AI Studio.
+> **[2:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=120)** We will choose registered index which contains one of the indexes we set in [[Azure AI Studio]].
 >
 > **[2:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-sample-prompt-flow-for-rag?u=76281980&t=129)** We will select Hybrid Semantic for the query type and set the top K value.
 >
@@ -1388,19 +1368,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), data (2), llm (2), rag (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Prompt Flow]] (7), [[Microsoft Azure|Azure]] (1), [[Azure AI Studio]] (1)
 > **Env Vars:** yaml (2), llm (2), rag (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Prerequisites:** configure (1), setup (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 
-#### Evaluation and monitoring metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/evaluation-and-monitoring-metrics?u=76281980)
+#### [Evaluation and monitoring metrics](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/evaluation-and-monitoring-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/evaluation-and-monitoring-metrics?u=76281980&t=0)** Azure AI Studio provides you a tool in order to measure the performance of your system.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/evaluation-and-monitoring-metrics?u=76281980&t=0)** [[Azure AI Studio]] provides you a tool in order to measure the performance of your system.
 >
 > **[0:06](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/evaluation-and-monitoring-metrics?u=76281980&t=6)** Evaluating your system is done in four easy steps.
 >
@@ -1440,12 +1419,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Azure AI Studio]] (1)
+> **Frameworks & Libraries:** [[Azure AI Studio]] (1)
 > **Env Vars:** url (1), gpt (1)
 > **Best Practices:** remember to (1)
 
-#### Perform evaluations on your RAG system
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/perform-evaluations-on-your-rag-system?u=76281980)
+#### [Perform evaluations on your RAG system](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/perform-evaluations-on-your-rag-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,7 +1433,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/perform-evaluations-on-your-rag-system?u=76281980&t=13)** You have the option to generate this manually, or you can have an LLM generated document for you.
 >
-> **[0:20](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/perform-evaluations-on-your-rag-system?u=76281980&t=20)** In both cases, proper verification is needed to ensure that this file is correct and that you have enough scenarios to test your different business requirements. Inside the prompt flow, we have an evaluate button at the top right of the screen.
+> **[0:20](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/perform-evaluations-on-your-rag-system?u=76281980&t=20)** In both cases, proper verification is needed to ensure that this file is correct and that you have enough scenarios to test your different business requirements. Inside the [[Prompt Flow]], we have an evaluate button at the top right of the screen.
 >
 > **[0:37](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/perform-evaluations-on-your-rag-system?u=76281980&t=37)** Select built in evaluation, then assign a name for the evaluation.
 >
@@ -1487,7 +1465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), prompt (3), next (3), rag (1), llm (1)
+> **Frameworks & Libraries:** [[Prompt Flow]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** rag (1), llm (1)
 > **UI Navigation:** select the (1)
@@ -1497,14 +1475,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deploying the RAG solution using prompt flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980)
+#### [Deploying the RAG solution using prompt flow](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=0)** Once we have evaluated the RAG solution and it has passed this testing, we can now deploy the solution into production.
 >
-> **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=9)** Go back to your prompt flow and select deploy.
+> **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=9)** Go back to your [[Prompt Flow]] and select deploy.
 >
 > **[0:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=13)** Specify the endpoint and deployment name.
 >
@@ -1512,7 +1489,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=23)** Make sure you select the right machine that meets the requirements.
 >
-> **[0:27](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=27)** Specify as well the number of instances. For high availability, Microsoft recommends you set at least three.
+> **[0:27](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=27)** Specify as well the number of instances. For high availability, [[Microsoft]] recommends you set at least three.
 >
 > **[0:35](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=35)** Select your desired authentication type and specify if you want the endpoint to be accessible in the public internet, modify your deployment settings if needed and finally, select the desired deployment model.
 >
@@ -1530,41 +1507,40 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=89)** Finally, let us view how we can consume the deployment.
 >
-> **[1:35](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=95)** You will see the Rest endpoint and the authentication keys.
+> **[1:35](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=95)** You will see the [[Representational State Transfer (REST)|Rest]] endpoint and the authentication keys.
 >
-> **[1:41](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=101)** You can also consume the deployment using JavaScript, Python, C-sharp and R. Going back to JavaScript I would like to highlight the following.
+> **[1:41](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=101)** You can also consume the deployment using [[JavaScript]], [[Python (Programming Language)|Python]], C-sharp and R. Going back to JavaScript I would like to highlight the following.
 >
 > **[1:56](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=116)** First, the Rest endpoint is accessible via a Post request.
 >
-> **[2:01](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=121)** Second, the headers must have the following: content type set to application JSON, the authorization key should be a string, which is the bearer plus a space, plus the API key, and the Azure model deployment key should be your deployment name.
+> **[2:01](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=121)** Second, the headers must have the following: content type set to application [[JSON]], the authorization key should be a string, which is the bearer plus a space, plus the API key, and the [[Microsoft Azure|Azure]] model deployment key should be your deployment name.
 >
 > **[2:25](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980&t=145)** Let me show you how to access this via postman in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[JavaScript]] (2), rag (1), prompt (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[JavaScript]] (2), [[Prompt Flow]] (1), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** rag (1), llm (1), json (1), api (1)
 > **CLI Commands:** make (2), python (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** select the (2)
 > **Tools:** postman (1)
 
-#### Testing the REST endpoint using Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980)
+#### [Testing the REST endpoint using Postman](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=0)** Postman is a software application that allows developers to test document and share APIs. To access a Rest endpoint, we need to make a Post request and copy the URL.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=0)** Postman is a software application that allows developers to test document and share APIs. To access a [[Representational State Transfer (REST)|Rest]] endpoint, we need to make a Post request and copy the URL.
 >
 > **[0:17](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=17)** Recall that authorization should be bearer plus your API key
 >
-> **[0:30](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=30)** and your Azure ML model deployment should equal your model deployment name.
+> **[0:30](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=30)** and your [[Microsoft Azure|Azure]] ML model deployment should equal your model deployment name.
 >
 > **[0:39](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=39)** We then need to specify the raw body.
 >
-> **[0:43](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=43)** In order to do that we need to go back to our prompt flow and view the inputs.
+> **[0:43](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=43)** In order to do that we need to go back to our [[Prompt Flow]] and view the inputs.
 >
-> **[0:49](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=49)** The inputs of our Rest endpoint is a JSON file that contains a chat input string in a chat history list.
+> **[0:49](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=49)** The inputs of our Rest endpoint is a [[JSON]] file that contains a chat input string in a chat history list.
 >
 > **[0:58](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/testing-the-rest-endpoint-using-postman?u=76281980&t=58)** Upon further investigation, you will see that the chat history contains a pair of input and output strings.
 >
@@ -1590,21 +1566,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), application (1), api (1), [[Microsoft Azure|Azure]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Azure|Azure]] (1), [[Prompt Flow]] (1), [[JSON]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** url (1), api (1), json (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Tools:** postman (2)
 > **Cross-References:** go back to (1)
 
-#### Deploying the REST endpoint to Copilot Studio and Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rest-endpoint-to-copilot-studio-and-ms-teams?u=76281980)
+#### [Deploying the REST endpoint to Copilot Studio and Microsoft Teams](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rest-endpoint-to-copilot-studio-and-ms-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rest-endpoint-to-copilot-studio-and-ms-teams?u=76281980&t=0)** Let me now show you how we can chat with our data in Microsoft Teams using the Rest endpoint provided by Azure AI Studio.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rest-endpoint-to-copilot-studio-and-ms-teams?u=76281980&t=0)** Let me now show you how we can chat with our data in [[Microsoft Teams]] using the [[Representational State Transfer (REST)|Rest]] endpoint provided by [[Azure AI Studio]].
 >
-> **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rest-endpoint-to-copilot-studio-and-ms-teams?u=76281980&t=9)** To make this possible, we will use Copilot Studio.
+> **[0:09](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rest-endpoint-to-copilot-studio-and-ms-teams?u=76281980&t=9)** To make this possible, we will use [[Microsoft Copilot|Copilot]] Studio.
 >
 > **[0:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rest-endpoint-to-copilot-studio-and-ms-teams?u=76281980&t=13)** We create a copilot.
 >
@@ -1672,7 +1647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), data (4), [[Microsoft]] (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Azure AI Studio]] (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** http (1), url (1)
 > **Tools:** postman (1)
@@ -1684,20 +1659,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980)
+#### [Key takeaways](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=0)** Congratulations.
 >
-> **[0:02](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=2)** You have learned how to create a rug application using Azure AI Studio. To provide the recap, here are the key things we learned.
+> **[0:02](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=2)** You have learned how to create a rug application using [[Azure AI Studio]]. To provide the recap, here are the key things we learned.
 >
 > **[0:11](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=11)** Retrieval Augmented Generation allows you to chat with your own data.
 >
-> **[0:16](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=16)** It is one of the most widely used patterns in using generative AI for business.
+> **[0:16](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=16)** It is one of the most widely used patterns in using [[Generative AI]] for business.
 >
-> **[0:22](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=22)** Tokens are words converted into numeric form for LLMs to understand.
+> **[0:22](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=22)** [[Tokens]] are words converted into numeric form for LLMs to understand.
 >
 > **[0:28](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=28)** They are a key driver of course for your system.
 >
@@ -1713,7 +1687,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=60)** Generation takes place when the LLM creates a response based on the new prompt.
 >
-> **[1:07](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=67)** RAG solutions need a Retriever, LLM, Orchestrator, and a Front end. We use Azure AI Search, Azure OpenAI, Azure AI Studio Prompt Flow, and Microsoft Teams using Copilot studio to make our solution.
+> **[1:07](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=67)** RAG solutions need a Retriever, LLM, Orchestrator, and a Front end. We use [[Microsoft Azure|Azure]] AI Search, Azure OpenAI, Azure AI Studio [[Prompt Flow]], and [[Microsoft Teams]] using [[Microsoft Copilot|Copilot]] studio to make our solution.
 >
 > **[1:27](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=87)** Azure AI Studio is a tool that lets you build, evaluate, and deploy AI applications in a responsible manner.
 >
@@ -1723,7 +1697,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=113)** Two, we deployed a model of our choice.
 >
-> **[1:56](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=116)** We have the option to deploy OpenAI, Llama, Mistral, Phi, and other models that Microsoft has a partnership with.
+> **[1:56](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=116)** We have the option to deploy OpenAI, [[LLaMA]], Mistral, Phi, and other models that [[Microsoft]] has a partnership with.
 >
 > **[2:05](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=125)** Three, we created an index with vector embeddings to prepare our data.
 >
@@ -1731,7 +1705,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=136)** Four, we set up a prompt flow that would meet our business requirement.
 >
-> **[2:21](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=141)** Five, we evaluated the flow based on metrics we chose, and finally we deployed the flow to production and consumed the endpoint using any method we chose. When consuming the Rest endpoint, you need to make sure that the following information is set.
+> **[2:21](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=141)** Five, we evaluated the flow based on metrics we chose, and finally we deployed the flow to production and consumed the endpoint using any method we chose. When consuming the [[Representational State Transfer (REST)|Rest]] endpoint, you need to make sure that the following information is set.
 >
 > **[2:38](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980&t=158)** The post method which contains your URL, the headers should be set, specifically, the content type, authorization key, and Azure model deployment.
 >
@@ -1739,18 +1713,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (6), data (5), [[Search]] (4), prompt (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Azure AI Studio]] (2), [[Prompt Flow]] (2), [[AI for Business]] (1), [[Tokens]] (1)
 > **Env Vars:** rag (2), llm (2), url (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** setup (1), set up (1)
 > **Definitions:** is a  (1)
 
-#### Additional learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980)
+#### [Additional learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=0)** Generative AI is a very big space and it's continually evolving and changing.
+> **[0:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=0)** [[Generative AI]] is a very big space and it's continually evolving and changing.
 >
 > **[0:06](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=6)** You will never run out of things to learn.
 >
@@ -1760,37 +1733,37 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=20)** The traditional non agent approach we are using consists of providing a prompt and receiving a single direct response.
 >
-> **[0:28](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=28)** A genetic workflows are the next level as it empowers AI agents to engage in a more dynamic, iterative, and self-reflective process.
+> **[0:28](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=28)** A genetic workflows are the next level as it empowers [[AI Agents]] to engage in a more dynamic, iterative, and self-reflective process.
 >
-> **[0:37](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=37)** You can focus on learning prompt engineering.
+> **[0:37](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=37)** You can focus on learning [[Prompt Engineering]].
 >
 > **[0:40](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=40)** This field will continue to evolve as new models come out, and there will be specific techniques that will cater to different business functions. From engineering for HR, finance, marketing and sales, for example, will continue to be a need.
 >
-> **[0:57](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=57)** You can also read up on the latest trends in RAG and fine tuning.
+> **[0:57](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=57)** You can also read up on the latest trends in RAG and [[Fine Tuning]].
 >
 > **[1:02](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=62)** These techniques will continue to evolve as new research and use cases come out.
 >
-> **[1:08](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=68)** You can continue researching using Microsoft AI technologies.
+> **[1:08](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=68)** You can continue researching using [[Microsoft]] AI technologies.
 >
 > **[1:13](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=73)** Microsoft is one of the companies in the industry that provides you a well integrated, complete package of AI tools that will support your business at scale with enterprise grade security.
 >
-> **[1:26](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=86)** Azure AI Search and Azure Cosmos DB are one of the best in the world when it comes to data storage and retrieval for AI applications.
+> **[1:26](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=86)** [[Microsoft Azure|Azure]] AI Search and Azure Cosmos DB are one of the best in the world when it comes to [[Data Storage]] and retrieval for AI applications.
 >
 > **[1:36](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=96)** OpenAI themselves uses these technologies.
 >
-> **[1:40](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=100)** Azure OpenAI will continue to release newer models and with it newer functionalities and software development kits.
+> **[1:40](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=100)** Azure OpenAI will continue to release newer models and with it newer functionalities and [[Software Development]] kits.
 >
-> **[1:48](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=108)** We only covered the tip of the iceberg when it comes to Azure Prompt Flow.
+> **[1:48](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=108)** We only covered the tip of the iceberg when it comes to Azure [[Prompt Flow]].
 >
-> **[1:52](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=112)** There are also other libraries you can use, such as semantic Kernel and LongChain to name a few.
+> **[1:52](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=112)** There are also other libraries you can use, such as [[Semantic Kernel]] and LongChain to name a few.
 >
-> **[1:58](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=118)** Azure AI Studio will also continue to change.
+> **[1:58](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=118)** [[Azure AI Studio]] will also continue to change.
 >
 > **[2:03](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=123)** We did not cover in this course assistance and fine tuning.
 >
 > **[2:07](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=127)** By the time you see this video, I wouldn't be surprised if it would have more functionalities.
 >
-> **[2:14](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=134)** Finally, you can also look at Copilot Studio for building Quick Copilot for your business.
+> **[2:14](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=134)** Finally, you can also look at [[Microsoft Copilot|Copilot]] Studio for building Quick Copilot for your business.
 >
 > **[2:21](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=141)** While they may not be as powerful as Azure Air Studio.
 >
@@ -1800,9 +1773,9 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=169)** These certifications will certainly spice up your résumé and would show the industry your competency in the space.
 >
-> **[2:57](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=177)** Azure AI fundamental certification, is an opportunity for you to demonstrate knowledge of AI concepts and related Microsoft Azure services.
+> **[2:57](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=177)** Azure AI fundamental certification, is an opportunity for you to demonstrate knowledge of AI concepts and related [[Microsoft Azure]] services.
 >
-> **[3:07](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=187)** You can use this as your entry level to advance into higher certifications such as AI Engineering and Data Engineering.
+> **[3:07](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=187)** You can use this as your entry level to advance into higher certifications such as AI Engineering and [[Data Engineering]].
 >
 > **[3:17](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=197)** Azure AI Engineer Associate Certification lets you showcase your ability to build, manage and deploy a solutions that leverage Azure AI.
 >
@@ -1814,7 +1787,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=235)** Microsoft is also offering five free Applied Skill certifications in AI.
 >
-> **[4:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=240)** They are designed to validate your proficiency in specific scenario based skills such as natural language processing, computer vision, document intelligence, generative AI, and machine learning.
+> **[4:00](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=240)** They are designed to validate your proficiency in specific scenario based skills such as [[Natural Language Processing (NLP)|natural language processing]], [[Computer Vision]], document intelligence, generative AI, and machine learning.
 >
 > **[4:15](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=255)** Upon completion, you can get an achievement badge that you can showcase to social media.
 >
@@ -1824,11 +1797,11 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=274)** It is your one stop shop for learning anything about Microsoft.
 >
-> **[4:39](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=279)** We decide you can learn by doing, find technical documentation, ask questions, try sample codes and showcase your skills.
+> **[4:39](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/additional-learning?u=76281980&t=279)** We decide you can learn by doing, find [[Technical Documentation]], ask questions, try sample codes and showcase your skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Microsoft]] (8), [[Microsoft Azure|Azure]] (8), business (4), [[Microsoft Copilot|Copilot]] (4)
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Azure|Azure]] (8), [[Microsoft Copilot|Copilot]] (4), [[Generative AI]] (2), [[Fine Tuning]] (2)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)

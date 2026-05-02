@@ -84,27 +84,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take advantage of Spring events
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980)
+#### [Take advantage of Spring events](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980&t=0)** - In my course, I will teach you Spring Boot's advanced testing features to test some tricky real-world scenarios, such as database queries, caching, web layers, and testing in microservice environments.
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980&t=0)** - In my course, I will teach you [[Spring Boot]]'s advanced testing features to test some tricky real-world scenarios, such as [[Database Queries]], caching, web layers, and testing in microservice environments.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980&t=13)** Hi, I'm Terezija Semenski.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980&t=15)** I've been a software developer in Java and Spring for over a decade.
+> **[0:15](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980&t=15)** I've been a software developer in [[Java]] and Spring for over a decade.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980&t=19)** The best way to run integration testing is to jump right in, so let's get started.
+> **[0:19](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980&t=19)** The best way to run [[Integration Testing]] is to jump right in, so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (1), database (1), web (1), [[Java]] (1), [[Integration Testing]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (1), [[Database Queries]] (1), [[Java]] (1), [[Integration Testing]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,11 +110,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/what-you-need-to-know?u=76281980&t=6)** This course is targeted at intermediate and advanced developers.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/what-you-need-to-know?u=76281980&t=10)** In order to truly be successful in this course, you should have experienced with Java and a solid understanding of Spring framework and Spring Boot.
+> **[0:10](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/what-you-need-to-know?u=76281980&t=10)** In order to truly be successful in this course, you should have experienced with [[Java]] and a solid understanding of [[Spring Framework]] and [[Spring Boot]].
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/what-you-need-to-know?u=76281980&t=20)** It'll also be helpful to have some exposure to functional programming, and streams and lambdas that were introduced with Java 8.
+> **[0:20](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/what-you-need-to-know?u=76281980&t=20)** It'll also be helpful to have some exposure to [[Functional Programming]], and streams and lambdas that were introduced with Java 8.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/what-you-need-to-know?u=76281980&t=29)** Previous experience with JUnit testing is nice to have, but since we will be doing hands on exercises from scratch, you will quickly pick up the essentials.
+> **[0:29](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/what-you-need-to-know?u=76281980&t=29)** Previous experience with [[JUnit]] testing is nice to have, but since we will be doing hands on exercises from scratch, you will quickly pick up the essentials.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/what-you-need-to-know?u=76281980&t=41)** Our focus will be on the latest versions of Java 15 and Spring Boot, current 2.4 with supporting APIs.
 >
@@ -130,14 +128,13 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [narrator] (1)
 
-#### Why bother testing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980)
+#### [Why bother testing?](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980&t=0)** - [Narrator] Spring Boot applications are built in multiple layers data, service and web.
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980&t=0)** - [Narrator] [[Spring Boot]] applications are built in multiple layers data, service and web.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980&t=6)** In unit testing, we test each of these layers independently.
+> **[0:06](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980&t=6)** In [[Unit Testing]], we test each of these layers independently.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980&t=10)** For example, we test the web controllers that mock out the business services.
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980&t=115)** A test that requires an interaction with external systems such as database SFTP server, other API endpoints.
 >
-> **[2:05](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980&t=125)** So whenever we are moving beyond unit testing and start integration testing, we should use SpringBootTest support to create an application context containing all the objects we need for all the above test types.
+> **[2:05](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980&t=125)** So whenever we are moving beyond unit testing and start [[Integration Testing]], we should use SpringBootTest support to create an application context containing all the objects we need for all the above test types.
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/why-bother-testing?u=76281980&t=142)** As you progress through the course we will explore SpringBootTest libraries.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), database (4), application (3), [[Spring Boot]] (2), [[Unit Testing]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Unit Testing]] (2), [[Integration Testing]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** api (2), sftp (1)
 > **Prerequisites:** before we start (1)
@@ -186,28 +183,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a Spring Boot application from start.spring.io
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980)
+#### [Creating a Spring Boot application from start.spring.io](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=0)** - [Instructor] Writing good tests can be considered an art that is hard to master, but the good news is that the mechanics supporting it are easy to learn.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=9)** In this lesson, we're going to create our first application, called Students Service, and explore the powerful set of Spring Boot's including libraries that make our tests straightforward and easy to implement.
+> **[0:09](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=9)** In this lesson, we're going to create our first application, called Students Service, and explore the powerful set of [[Spring Boot]]'s including libraries that make our tests straightforward and easy to implement.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=24)** Creating Spring Boot applications can be done in many ways, but one of the easiest is to head off to start.[spring.io](https://spring.io).
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=33)** This is the initializer web application where we can choose many of the options that we will use to create our first application, called Student Service.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=43)** We can leave most of default options, like using Maven Project, Java as our language, and latent Spring Boot dependency.
+> **[0:43](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=43)** We can leave most of default options, like using Maven Project, [[Java]] as our language, and latent Spring Boot dependency.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=52)** Now, we are going to populate the group.
 >
-> **[0:55](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=55)** Let's use com.linkedin.
+> **[0:55](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=55)** Let's use com.[[LinkedIn]].
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=57)** As an artifact, we need to set it to Student Service.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=61)** Leave the packaging as a .jar, since with this option we have the benefit of embedded Tomcat, which we will need considering we are building REST service.
+> **[1:01](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=61)** Leave the packaging as a .jar, since with this option we have the benefit of embedded Tomcat, which we will need considering we are building [[Representational State Transfer (REST)|REST]] service.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=71)** As the Java version, we will choose the latest Java 15.
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=82)** In the dependencies we will bring Lombok, which makes Java less cluttered with code.
 >
-> **[1:27](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=87)** We're going to add Spring Web, Spring Data GPA Support, embedded H2 database, and contract verifier.
+> **[1:27](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=87)** We're going to add Spring Web, [[Spring Data]] GPA Support, embedded H2 database, and contract verifier.
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=99)** Click on Generate.
 >
@@ -235,11 +231,11 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=144)** It provides a number of utilities and annotations to help when testing your application.
 >
-> **[2:30](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=150)** These are the libraries we are going to use, JUnit5, the de facto standard for unit testing Java applications, SpringBootTest Utilities and Integration Test Support for Spring Boot applications, Mockito, a Java mocking framework, AssertJ fluent API, JSON Assert, an assertion library for JSON, and JSONPath, Xpath for J--
+> **[2:30](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980&t=150)** These are the libraries we are going to use, JUnit5, the de facto standard for [[Unit Testing]] Java applications, SpringBootTest Utilities and Integration Test Support for Spring Boot applications, Mockito, a Java mocking framework, AssertJ fluent API, [[JSON]] Assert, an assertion library for JSON, and JSONPath, Xpath for J--
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (10), [[Spring Boot]] (7), application (4), [[JSON]] (2), web application (1)
+> **Frameworks & Libraries:** [[Java]] (10), [[Spring Boot]] (7), [[JSON]] (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ide (2), json (2), rest (1), gpa (1), idea (1)
 > **CLI Commands:** make (2), unzip (1)
 > **Versions:** java 15 (2), java 11 (1)
@@ -248,8 +244,7 @@ created: 2026-05-02
 > **URLs:** [spring.io](https://spring.io) (1)
 > **Definitions:** is a  (1)
 
-#### Creating human-readable tests with Mockito and AssertJ
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-human-readable-tests-with-mockito-and-assertj?u=76281980)
+#### [Creating human-readable tests with Mockito and AssertJ](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-human-readable-tests-with-mockito-and-assertj?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,7 +278,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-human-readable-tests-with-mockito-and-assertj?u=76281980&t=101)** But why should you care about AssertJ if J unit comes with assertions out of the box?
 >
-> **[1:48](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-human-readable-tests-with-mockito-and-assertj?u=76281980&t=108)** Actually JUnit assertions are quite limited to a few basic scenarios and lead to confusion when reading them.
+> **[1:48](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-human-readable-tests-with-mockito-and-assertj?u=76281980&t=108)** Actually [[JUnit]] assertions are quite limited to a few basic scenarios and lead to confusion when reading them.
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-human-readable-tests-with-mockito-and-assertj?u=76281980&t=116)** For example, a common mistake that many developers still make is mixed up the expected with the actual value.
 >
@@ -299,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[JUnit]] (1), api (1), feature (1)
+> **Frameworks & Libraries:** [[JUnit]] (1)
 > **Env Vars:** bdd (4), agl (1), tdd (1), api (1)
 > **Warnings:** common mistake (1), note that (1)
 > **CLI Commands:** make (1)
@@ -313,22 +308,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Effective ways to test your data access
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980)
+#### [Effective ways to test your data access](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=0)** - [Instructor] Writing tests for all database interactions can be tedious.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=5)** How to choose which interactions to mock and which test, what risks are we introducing with custom queries, having in-memory databases, and how to avoid common pitfalls.
+> **[0:05](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=5)** How to choose which interactions to mock and which test, what risks are we introducing with custom queries, having in-memory [[Databases]], and how to avoid common pitfalls.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=17)** Let's explore three keys to write an effective integration test for the database layer.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=24)** But first, let's understand spring boot data support and common ways of interacting with our persistence layer in spring applications.
+> **[0:24](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=24)** But first, let's understand [[Spring Boot]] data support and common ways of interacting with our persistence layer in spring applications.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=35)** Spring boot comes with a variety of spring data projects to work with SQL and NoSQL databases, such as document, graph, and search.
+> **[0:35](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=35)** Spring boot comes with a variety of [[Spring Data]] projects to work with [[SQL]] and [[NoSQL]] databases, such as document, graph, and search.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=47)** We also get extensive support to interact with our database from direct Jdbc access using data source or Jdbc template.
+> **[0:47](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=47)** We also get extensive support to interact with our database from direct [[Java Database Connectivity (JDBC)|Jdbc]] access using data source or Jdbc template.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=57)** Up to complete ORM such as hibernate where we work with entity managers or repositories.
 >
@@ -346,7 +340,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=102)** By using custom query methods, we don't need to tell spring data what to do since it automatically derives the SQL query from the method name using query annotation with JPQL query syntax.
 >
-> **[1:56](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=116)** JPQL is Java Persistent Query Language used to create queries against entities to store in a relational database.
+> **[1:56](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=116)** JPQL is [[Java]] Persistent Query Language used to create queries against entities to store in a relational database.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=125)** Using SQL query followed by native SQL targeted at the database table.
 >
@@ -378,7 +372,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=217)** Springboard provides a convenient way to set up an environment with an embedded database such as age two or age as SQL to test our database interactions.
 >
-> **[3:50](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=230)** Even though each tool comes with compatibility mode for my SQL or Postgres.
+> **[3:50](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=230)** Even though each tool comes with compatibility mode for my SQL or [[PostgreSQL|Postgres]].
 >
 > **[3:56](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980&t=236)** However, if compatibility is not in sync with the version of DB you're using, you can almost get lulled into false sense of security, thinking that all SQL interactions are fine.
 >
@@ -398,7 +392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[SQL]] (8), [[Spring Data]] (6), [[Spring Boot]] (4), [[Databases]] (3)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Spring Data]] (6), [[Spring Boot]] (4), [[Databases]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
 > **Env Vars:** sql (8), jpql (2), orm (1)
 > **Analogies:** such as (4), imagine (1), for example (1)
 > **CLI Commands:** make (3), docker (1)
@@ -407,8 +401,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing integration tests for a JPA repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-jpa-repository?u=76281980)
+#### [Writing integration tests for a JPA repository](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-jpa-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -460,11 +453,11 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-jpa-repository?u=76281980&t=158)** We will create a new field, student repository, Student repository must be an interface and must extend GPA repository that manages the entity of type student with primary key of type log.
 >
-> **[2:58](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-jpa-repository?u=76281980&t=178)** Keep in mind, this is just an interface and spring data provides the implementation for us.
+> **[2:58](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-jpa-repository?u=76281980&t=178)** Keep in mind, this is just an interface and [[Spring Data]] provides the implementation for us.
 >
 > **[3:05](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-jpa-repository?u=76281980&t=185)** In order for this to take effect we need to bring in spring to our test.
 >
-> **[3:10](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-jpa-repository?u=76281980&t=190)** We could use spring boot test annotation, that loads the full application context.
+> **[3:10](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-jpa-repository?u=76281980&t=190)** We could use [[Spring Boot]] test annotation, that loads the full application context.
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-jpa-repository?u=76281980&t=197)** However, we don't want to test the entire spring application.
 >
@@ -506,15 +499,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (3), teams (2), application (2), [[Spring Data]] (1)
+> **Frameworks & Libraries:** [[Spring Data]] (1), [[Spring Boot]] (1)
 > **Env Vars:** gpa (7), tdd (1)
 > **Definitions:** is called (2), known as (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Write tests for a custom query
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-tests-for-a-custom-query?u=76281980)
+#### [Challenge: Write tests for a custom query](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-tests-for-a-custom-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -524,7 +516,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-tests-for-a-custom-query?u=76281980&t=9)** And there is a very little risk involved that we have introduced bugs in our application.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-tests-for-a-custom-query?u=76281980&t=16)** In this challenge, we want you to create a custom query that is able to fetch average grades for active students.
+> **[0:16](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-tests-for-a-custom-query?u=76281980&t=16)** In this challenge, we want you to create a custom query that is able to [[Fetch]] average grades for active students.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-tests-for-a-custom-query?u=76281980&t=24)** First, you should extend the student class with new attributes boolean active and int grade.
 >
@@ -540,13 +532,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Fetch]] (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft music) (1)
 
-#### Solution: Write tests for a custom query
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/solution-write-tests-for-a-custom-query?u=76281980)
+#### [Solution: Write tests for a custom query](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/solution-write-tests-for-a-custom-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,7 +605,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/solution-write-tests-for-a-custom-query?u=76281980&t=191)** However, we can write a GPQL query.
 >
-> **[3:15](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/solution-write-tests-for-a-custom-query?u=76281980&t=195)** Which is the query running against the entities which is similar to SQL.
+> **[3:15](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/solution-write-tests-for-a-custom-query?u=76281980&t=195)** Which is the query running against the entities which is similar to [[SQL]].
 >
 > **[3:20](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/solution-write-tests-for-a-custom-query?u=76281980&t=200)** Select avg, which is keyword for average grade from student where active equals true.
 >
@@ -642,8 +633,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing integration tests for the service layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980)
+#### [Writing integration tests for the service layer](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -653,19 +643,19 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=16)** Now let's write our first integration test that involves interaction between the service and data layers.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=25)** We want to test that we are able to correctly fetch our student by making a request to the repository and assure the response is as expected.
+> **[0:25](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=25)** We want to test that we are able to correctly [[Fetch]] our student by making a request to the repository and assure the response is as expected.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=38)** So here we are going to create StudentsServiceTest, as this is an integration test, we'll use SpringBootTest annotation.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=47)** SpringBootTest works by reading configuration from SpringBootApplication and creates an application context very similar to the one that would be started in a production environment.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=60)** Because we have a full application context, including web controller services and spring data repositories, SpringBootTest is a very convenient for integration tests that go through all layers of the application, however, in this test, we want to isolate all the services and repositories, and since the WebEnvironment is available in a class puff, by default, SpringBootTest will load the mock WebEnvironment.
+> **[1:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=60)** Because we have a full application context, including web controller services and [[Spring Data]] repositories, SpringBootTest is a very convenient for integration tests that go through all layers of the application, however, in this test, we want to isolate all the services and repositories, and since the WebEnvironment is available in a class puff, by default, SpringBootTest will load the mock WebEnvironment.
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=89)** In order to prevent that, we need to add WebEnvironment equals NONE.
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=94)** Now we can create our Test method, getStudentByID_forSavedStudent_isReturned.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=102)** If we want to give a more meaningful description, we can also use junit five, DisplayName annotation.
+> **[1:42](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=102)** If we want to give a more meaningful description, we can also use [[JUnit]] five, DisplayName annotation.
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980&t=110)** In our example, returning saved student from service layer.
 >
@@ -719,7 +709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), data (2), next (1), [[Orchestration]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Spring Data]] (1), [[JUnit]] (1)
 > **Code Identifiers:** studentservice (2), findbyid (2), getstudentbyid (1), argsconstructor (1)
 > **Env Vars:** none (1), gpi (1), tdd (1), gpa (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
@@ -728,8 +718,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing integration tests for cache
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980)
+#### [Writing integration tests for cache](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,7 +746,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=81)** What we need is a Mock.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=83)** As a mocking framework, we'll use Mockito, since it's well-rounded ,well established and well integrated into spring boot.
+> **[1:23](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=83)** As a mocking framework, we'll use Mockito, since it's well-rounded ,well established and well integrated into [[Spring Boot]].
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=92)** With Mockito Extension Unit Test, we can use Mock and Spy ,to define mocked objects, and on the tested class at Inject Mock.
 >
@@ -765,7 +754,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=112)** However, there are times, when we have to rely on spring boot, to set up an application context for us, because it would be too much work , to instantiate classes manually.
 >
-> **[2:04](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=124)** And we want to have full benefit from Spring contexts, such as dependency injection or infrastructure support, such as caching or data access.
+> **[2:04](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=124)** And we want to have full benefit from Spring contexts, such as [[Dependency Injection]] or infrastructure support, such as caching or data access.
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=135)** We may not want to test integration between all the beans in a certain test.
 >
@@ -809,19 +798,18 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=276)** When we rerun our test, now it should pass.
 >
-> **[4:42](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=282)** And there you go, you've just mastered Integration Testing For Spring Cache.
+> **[4:42](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-cache?u=76281980&t=282)** And there you go, you've just mastered [[Integration Testing]] For Spring Cache.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (6), database (3), web (3), application (3), [[Dependency Injection]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (6), [[Dependency Injection]] (1), [[Integration Testing]] (1)
 > **CLI Commands:** find (4)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Write an integration test for exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-an-integration-test-for-exceptions?u=76281980)
+#### [Challenge: Write an integration test for exceptions](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-an-integration-test-for-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -833,7 +821,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-an-integration-test-for-exceptions?u=76281980&t=15)** In this challenge, we want you to write an integration test for exceptions.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-an-integration-test-for-exceptions?u=76281980&t=21)** As Joshua Block stated in his book "Effective Java", "When used to the best advantage, "exceptions can improve a program's readability, "reliability, and maintainability."
+> **[0:21](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-an-integration-test-for-exceptions?u=76281980&t=21)** As Joshua Block stated in his book "Effective [[Java]]", "When used to the best advantage, "exceptions can improve a program's readability, "reliability, and maintainability."
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/challenge-write-an-integration-test-for-exceptions?u=76281980&t=33)** In this challenge, we want you to write an integration test for a custom exception we will throw in our service layer.
 >
@@ -852,8 +840,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Write an integration test for exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/solution-write-an-integration-test-for-exceptions?u=76281980)
+#### [Solution: Write an integration test for exceptions](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/solution-write-an-integration-test-for-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,7 +902,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), database (1)
 > **Env Vars:** bdd (3), tdd (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -927,8 +913,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Which type of web controller responsibilities to test?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980)
+#### [Which type of web controller responsibilities to test?](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -950,7 +935,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=48)** First, listen to HTTP request, response to certain URLs, HTTP methods, and content types.
 >
-> **[0:57](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=57)** Two, deserialized input, pass the incoming HTTP requests and then create Java objects from variables in the URL, HTTP requests parameters and request body.
+> **[0:57](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=57)** Two, deserialized input, pass the incoming HTTP requests and then create [[Java]] objects from variables in the URL, HTTP requests parameters and request body.
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=69)** Three, validate input.
 >
@@ -970,7 +955,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=108)** If you use the Unit Test.
 >
-> **[1:50](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=110)** We will test the controller in isolation by mocking away any interactions with control dependencies for example, calling the service layer and at the end call controller methods and verify the proper response since the Unit Testing is not leveraging spring framework.
+> **[1:50](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=110)** We will test the controller in isolation by mocking away any interactions with control dependencies for example, calling the service layer and at the end call controller methods and verify the proper response since the [[Unit Testing]] is not leveraging [[Spring Framework]].
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=128)** All of the stations and processing which are happening behind the scenes of spring get ignored.
 >
@@ -980,7 +965,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=147)** So we need to introduce spring to our tests and integration tests with spring fires up a spring application context that contains all beans required for testing controller.
 >
-> **[2:40](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=160)** This includes beans responsible for URL napping, serializing, and deserializing to and from JSON and Java objects and translating exceptions to proper HTTP message and status code.
+> **[2:40](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=160)** This includes beans responsible for URL napping, serializing, and deserializing to and from [[JSON]] and Java objects and translating exceptions to proper HTTP message and status code.
 >
 > **[2:54](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=174)** These beans will evaluate the notations that would be ignored by simple Unit Tests.
 >
@@ -1000,7 +985,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=222)** If you're coding reactive applications with WebFlux there's also WebFluxTests which also AutoConfigures WebTestClient enabling testing Web Fluxe controllers without the need to fire up HTTP server.
 >
-> **[3:57](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=237)** However, if you still feel you want to run a test for the full application you can always use Spring Boot Test.
+> **[3:57](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=237)** However, if you still feel you want to run a test for the full application you can always use [[Spring Boot]] Test.
 >
 > **[4:06](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980&t=246)** Spring Boot Test will by default load a Mock Web environment, but it can also be configured to run on a production environment.
 >
@@ -1014,14 +999,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), application (5), web (4), [[Spring Boot]] (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Java]] (2), [[Unit Testing]] (1), [[Spring Framework]] (1), [[JSON]] (1)
 > **Env Vars:** http (9), url (3), json (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - testing (1)
 
-#### Writing integration tests for a web controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-web-controller?u=76281980)
+#### [Writing integration tests for a web controller](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-web-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1035,7 +1019,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-web-controller?u=76281980&t=20)** First, let's create student controller test class.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-web-controller?u=76281980&t=25)** A simple unit test will not cover the HTTP layer so we need to bring Spring Boot to do HTTP magic for us.
+> **[0:25](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-web-controller?u=76281980&t=25)** A simple unit test will not cover the HTTP layer so we need to bring [[Spring Boot]] to do HTTP magic for us.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-web-controller?u=76281980&t=34)** We could use Spring Boot test but with web MVC test slides Spring fires up an application context that contains only the beans needed for testing a web controller.
 >
@@ -1061,7 +1045,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-web-controller?u=76281980&t=134)** So let's create an end point.
 >
-> **[2:16](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-web-controller?u=76281980&t=136)** We will create the class student controller and annotate it with rest controller.
+> **[2:16](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-web-controller?u=76281980&t=136)** We will create the class student controller and annotate it with [[Representational State Transfer (REST)|rest]] controller.
 >
 > **[2:23](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-a-web-controller?u=76281980&t=143)** First thing we need to take care of is to create new method get student that accepts ID as parameter and returns a student.
 >
@@ -1105,19 +1089,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Spring Boot]] (2), application (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (5), mvc (5)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing custom exception returns
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/testing-custom-exception-returns?u=76281980)
+#### [Testing custom exception returns](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/testing-custom-exception-returns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/testing-custom-exception-returns?u=76281980&t=0)** - [Instructor] Spring Boot comes with some great features to help with error handling.
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/testing-custom-exception-returns?u=76281980&t=0)** - [Instructor] [[Spring Boot]] comes with some great features to help with error handling.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/testing-custom-exception-returns?u=76281980&t=5)** But it is left to the developer to use those features the three the exceptions and return meaningful responses to the API client.
 >
@@ -1125,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/testing-custom-exception-returns?u=76281980&t=25)** What will happen when we try to retrieve a student that does not exist.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/testing-custom-exception-returns?u=76281980&t=30)** So to do that, we need to call the following rest endpoint.
+> **[0:30](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/testing-custom-exception-returns?u=76281980&t=30)** So to do that, we need to call the following [[Representational State Transfer (REST)|rest]] endpoint.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/testing-custom-exception-returns?u=76281980&t=34)** Get students ID.
 >
@@ -1179,7 +1162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Spring Boot]] (3), application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (4), http (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** good practice (1)
@@ -1190,18 +1173,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integration testing without making an external API call
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980)
+#### [Integration testing without making an external API call](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=0)** - [Instructor] How can you counter integration testing for code that interacts with an external API?
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=0)** - [Instructor] How can you counter [[Integration Testing]] for code that interacts with an external API?
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=5)** Imagine you have a component that's talking to another service and the service that you're calling in production environment, just isn't available to you in your test environment.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=18)** Calling a staged version would be a better option but often you don't have it offered.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=24)** For example, you're calling a live service like YouTube, Google, Facebook or Twitter API.
+> **[0:24](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=24)** For example, you're calling a live service like YouTube, [[Google]], Facebook or Twitter API.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=32)** APIs such as these have rate limits.
 >
@@ -1211,7 +1193,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=57)** Your best option is to mock out the service that you're calling.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=61)** In the Spring world, we use the rest template or a WebClient to interact with external APIs.
+> **[1:01](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=61)** In the Spring world, we use the [[Representational State Transfer (REST)|rest]] template or a WebClient to interact with external APIs.
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980&t=68)** You could mock out rest template by mocking rest template interfaces.
 >
@@ -1251,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (13), api (5), [[Integration Testing]] (1), [[Google]] (1), web (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (13), [[Integration Testing]] (1), [[Google]] (1)
 > **Env Vars:** api (5), http (3), uri (2)
 > **Exercise Files:** template (6)
 > **Analogies:** imagine (1), for example (1), such as (1)
@@ -1260,8 +1242,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** be careful (1)
 
-#### Writing integration tests for rest endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980)
+#### [Writing integration tests for rest endpoints](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,9 +1252,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=23)** Head over to start.[spring.io](https://spring.io).
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=26)** As the Group name, choose com.linkedIn and as the Artifact use student-client.
+> **[0:26](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=26)** As the Group name, choose com.[[LinkedIn]] and as the Artifact use student-client.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=35)** We can leave other configurations as default, choose Java 15.
+> **[0:35](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=35)** We can leave other configurations as default, choose [[Java]] 15.
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=40)** In the dependencies select Project lombok, Spring Reactive Web and stub runner click on generate go to downloads directory and open it between your ID.
 >
@@ -1283,7 +1264,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=73)** Using the TDD approach, we first need to write a failing test.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=77)** Let's create a new class student client test and annotate it with Spring Boot test we will need a student client that will talk to our service.
+> **[1:17](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=77)** Let's create a new class student client test and annotate it with [[Spring Boot]] test we will need a student client that will talk to our service.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=93)** Since it doesn't exist we will create one and annotate it with add component so it is registered by Spring.
 >
@@ -1309,13 +1290,13 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=177)** If we run our tests, we know it will fail because in a client we are returning null.
 >
-> **[3:05](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=185)** We will use WebClient since the rest template will be deprecated in the future versions of Spring.
+> **[3:05](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=185)** We will use WebClient since the [[Representational State Transfer (REST)|rest]] template will be deprecated in the future versions of Spring.
 >
 > **[3:12](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=192)** We'll also include required args constructor from project lombok to handle construction injection.
 >
 > **[3:20](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=200)** Now we can write WebClient dot get dot URI slash student slash ID as a parameter and just to finish our call, we expect a type of student class.
 >
-> **[3:37](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=217)** Note that WebClient by default wraps our object to Mono and Flux wrappers.
+> **[3:37](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=217)** Note that WebClient by default wraps our object to Mono and [[Flux]] wrappers.
 >
 > **[3:44](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-rest-endpoints?u=76281980&t=224)** Since our student service API is non reactive then Flux and Mono are not much use for us so we can unwrap them by calling block which blocks the stream and gets data out of it.
 >
@@ -1375,7 +1356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Java]] (2), [[Flux]] (2), api (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Flux]] (2), [[LinkedIn]] (1), [[Spring Boot]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (2), tdd (1), uri (1), http (1)
 > **Prerequisites:** configure (5)
 > **Versions:** java 15 (2)
@@ -1384,8 +1365,7 @@ created: 2026-05-02
 > **URLs:** [spring.io](https://spring.io) (1)
 > **Ports:** port 8080 (1)
 
-#### Introduction to Spring Cloud Contract
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980)
+#### [Introduction to Spring Cloud Contract](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1397,7 +1377,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=22)** How would you test integrations between them?
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=26)** Would you deploy all microservices in the same environment and run an end to end test?
+> **[0:26](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=26)** Would you deploy all [[Microservices]] in the same environment and run an end to end test?
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=32)** Or would you use something like WireMock to mock out other services?
 >
@@ -1405,7 +1385,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=41)** If we deploy all microservices and perform end to end we get the benefit of testing real communication between services which is as close as it gets to simulating production.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=56)** But this comes at high price of having dedicated infrastructure with all servers, databases, and other dependencies.
+> **[0:56](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=56)** But this comes at high price of having dedicated infrastructure with all servers, [[Databases]], and other dependencies.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=66)** These tests can also be slow and flaky, meaning hard to debug and not so reliable in case data is inconsistent.
 >
@@ -1427,7 +1407,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=128)** Imagine that before two applications communicate with each other, they've formalized a way they send and receive messages.
 >
-> **[2:18](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=138)** On the producer side, we can define contract in Java, Groovy, Kotlin and YAML by specifying expected request and response.
+> **[2:18](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=138)** On the producer side, we can define contract in [[Java]], Groovy, [[Kotlin]] and YAML by specifying expected request and response.
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=149)** Second, in order for this contract to have an effect, Spring Cloud Maven Plugin will read contract definitions and generate tests.
 >
@@ -1443,7 +1423,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=198)** It comes with auto configure stub runner annotation, in which we need to define artifact coordinates such as stub storage, artifactId and port number.
 >
-> **[3:30](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=210)** Stub runner will fetch the stub from various locations and the HTTP server stub will get started on defined ports.
+> **[3:30](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=210)** Stub runner will [[Fetch]] the stub from various locations and the HTTP server stub will get started on defined ports.
 >
 > **[3:40](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/introduction-to-spring-cloud-contract?u=76281980&t=220)** Our client tests can now reference the stub server directly.
 >
@@ -1457,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), application (3), [[Microservices]] (3), web (1), api (1)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[Databases]] (1), [[Java]] (1), [[Kotlin]] (1), [[Fetch]] (1)
 > **Analogies:** imagine (2), such as (2), for example (1)
 > **Env Vars:** api (1), yaml (1), http (1)
 > **Prerequisites:** set up (1), setup (1), configure (1)
@@ -1466,8 +1446,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### Ensuring client app (rest call) and web app (controller) are in sync
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/ensuring-client-app-rest-call-and-web-app-controller-are-in-sync-10134626?u=76281980)
+#### [Ensuring client app (rest call) and web app (controller) are in sync](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/ensuring-client-app-rest-call-and-web-app-controller-are-in-sync-10134626?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1501,7 +1480,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/ensuring-client-app-rest-call-and-web-app-controller-are-in-sync-10134626?u=76281980&t=88)** First by adding HTTP status, OK.
 >
-> **[1:34](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/ensuring-client-app-rest-call-and-web-app-controller-are-in-sync-10134626?u=76281980&t=94)** and content type application JSON.
+> **[1:34](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/ensuring-client-app-rest-call-and-web-app-controller-are-in-sync-10134626?u=76281980&t=94)** and content type application [[JSON]].
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/ensuring-client-app-rest-call-and-web-app-controller-are-in-sync-10134626?u=76281980&t=98)** Underbody, we can define response as JSON literal, or as an object which gets converted to JSON.
 >
@@ -1537,7 +1516,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/ensuring-client-app-rest-call-and-web-app-controller-are-in-sync-10134626?u=76281980&t=212)** Let's call this method before, an annotated with before each.
 >
-> **[3:37](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/ensuring-client-app-rest-call-and-web-app-controller-are-in-sync-10134626?u=76281980&t=217)** We also need to pass MockMVC bean by calling rest assured MockMVC.mockMVC
+> **[3:37](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/ensuring-client-app-rest-call-and-web-app-controller-are-in-sync-10134626?u=76281980&t=217)** We also need to pass MockMVC bean by calling [[Representational State Transfer (REST)|rest]] assured MockMVC.mockMVC
 >
 > **[3:51](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/ensuring-client-app-rest-call-and-web-app-controller-are-in-sync-10134626?u=76281980&t=231)** We're not done yet.
 >
@@ -1579,7 +1558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), application (3), [[JSON]] (3), web (2), api (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** json (3), dsl (2), http (1), api (1), mvc (1)
 > **CLI Commands:** make (4), find (2)
 > **Prerequisites:** configure (2), set up (1), setup (1), install (1)
@@ -1593,12 +1572,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More Spring Boot integration testing resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980)
+#### [More Spring Boot integration testing resources](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980&t=0)** - [Instructor] I hope you enjoyed the course, and now have a solid foundation of integration testing with Spring Boot.
+> **[0:00](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980&t=0)** - [Instructor] I hope you enjoyed the course, and now have a solid foundation of [[Integration Testing]] with [[Spring Boot]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980&t=7)** A good next step would be to look into our library for more Spring Boot programming courses.
 >
@@ -1610,11 +1588,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980&t=29)** If you enjoyed this course, I'd love to know.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980&t=32)** Find me on LinkedIn, and let met know how you are doing integration testing within your organization.
+> **[0:32](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980&t=32)** Find me on [[LinkedIn]], and let met know how you are doing integration testing within your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Integration Testing]] (2), [[Spring Boot]] (2), next (1), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Integration Testing]] (2), [[Spring Boot]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

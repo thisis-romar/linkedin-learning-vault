@@ -129,12 +129,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Let's build modern projects with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react?u=76281980)
+#### [Let's build modern projects with React](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react?u=76281980&t=0)** - After learning the basics of React, most people are surprised to discover one very important fact, the most important fact in the React universe, and that is that just knowing React alone isn't enough to be an effective React developer.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react?u=76281980&t=0)** - After learning the basics of [[React.js|React]], most people are surprised to discover one very important fact, the most important fact in the React universe, and that is that just knowing React alone isn't enough to be an effective React developer.
 >
 > **[0:14](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react?u=76281980&t=14)** There are so many other important technologies that are used with React so frequently that you just can't develop most React applications without them.
 >
@@ -151,16 +150,15 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[React.js|React]] (8)
 > **Speakers:** - after (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started, there are a few concepts that would be very helpful for you to know, because I won't be mentioning them explicitly in this course, so let's just go over what those are real quick.
 >
-> **[0:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/what-you-should-know?u=76281980&t=12)** The first thing is a basic knowledge of JavaScript syntax.
+> **[0:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/what-you-should-know?u=76281980&t=12)** The first thing is a basic knowledge of [[JavaScript]] syntax.
 >
-> **[0:16](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/what-you-should-know?u=76281980&t=16)** Obviously, since in order to use React, you have to use a lot of JavaScript, it's going to be very helpful for you if you're already familiar with JavaScript's syntax, and if you're not, you're more than welcome to try and follow along anyway, mostly just because JavaScript syntax is fairly straightforward, but I would highly recommend that at some point you brush up on your JavaScript syntax by taking a basics course.
+> **[0:16](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/what-you-should-know?u=76281980&t=16)** Obviously, since in order to use [[React.js|React]], you have to use a lot of JavaScript, it's going to be very helpful for you if you're already familiar with JavaScript's syntax, and if you're not, you're more than welcome to try and follow along anyway, mostly just because JavaScript syntax is fairly straightforward, but I would highly recommend that at some point you brush up on your JavaScript syntax by taking a basics course.
 >
 > **[0:41](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/what-you-should-know?u=76281980&t=41)** Now, besides this, it would also be helpful for you to know a lot of the basics of React, or at least be familiar with basic React syntax since we'll obviously be using React pretty heavily in this course.
 >
@@ -188,8 +186,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic setup and exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980)
+#### [Basic setup and exercise files](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,13 +194,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980&t=11)** So the basic setup, if you're going to follow along using code spaces, which I would highly-recommend, there's not really much you need to do.
 >
-> **[0:18](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980&t=18)** You simply need to go to GitHub and create a code space from the repo for this course.
+> **[0:18](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980&t=18)** You simply need to go to [[GitHub]] and create a code space from the repo for this course.
 >
 > **[0:24](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980&t=24)** Once you're there, you can switch to the state for any video in this course.
 >
 > **[0:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980&t=30)** Any video where I write code, of course, by checking out the corresponding branch.
 >
-> **[0:36](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980&t=36)** So for example, if you want to get the starting state of the code that you'll need for, let's say, the fourth video in section three, you can simple say, "git checkout," and then you're going to check out the branch 03_04_start, all right?
+> **[0:36](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980&t=36)** So for example, if you want to get the starting state of the code that you'll need for, let's say, the fourth video in section three, you can simple say, "[[Git]] checkout," and then you're going to check out the branch 03_04_start, all right?
 >
 > **[0:54](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980&t=54)** And if you want the ending state for that video, the ending state of the code for that video, that is.
 >
@@ -227,18 +224,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use the React ecosystem?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980)
+#### [Why use the React ecosystem?](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980&t=0)** - [Instructor] All right, so the first thing that I want to talk about here is the importance of the React ecosystem tools, right?
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980&t=0)** - [Instructor] All right, so the first thing that I want to talk about here is the importance of the [[React.js|React]] ecosystem tools, right?
 >
 > **[0:07](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980&t=7)** In other words, why should we use these tools in the first place?
 >
 > **[0:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980&t=10)** What's wrong with just regular React?
 >
-> **[0:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980&t=13)** Well, let's talk about some of the main problems with what I'm going to call vanilla React.
+> **[0:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980&t=13)** Well, let's talk about some of the main problems with what I'm going to call [[Vanilla]] React.
 >
 > **[0:19](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980&t=19)** Vanilla React just meaning React without any additional libraries.
 >
@@ -266,24 +262,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (17), application (4), [[Vanilla]] (3), management (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (17), [[Vanilla]] (3)
 > **CLI Commands:** make (4)
 > **Definitions:** in other words (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Meet the React ecosystem tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980)
+#### [Meet the React ecosystem tools](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=0)** - [Narrator] All right, so now that we're a little bit more familiar with the main benefits that we can hope to gain from these React Ecosystem Tools, let's actually take a look at the tools that we're going to be talking about and just get a brief introduction to how these tools are going to work and what they add to a React project.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=0)** - [Narrator] All right, so now that we're a little bit more familiar with the main benefits that we can hope to gain from these [[React.js|React]] Ecosystem Tools, let's actually take a look at the tools that we're going to be talking about and just get a brief introduction to how these tools are going to work and what they add to a React project.
 >
 > **[0:18](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=18)** So here are some of the tools that we'll be covering.
 >
 > **[0:21](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=21)** The first set of tools that we'll be covering are going to be tools for creating and managing React applications.
 >
-> **[0:29](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=29)** Now the, probably the most well known of these is Create React app, but in recent years this has actually been somewhat replaced with a host of other React app creation tools, such as Vite, Next.js and Remix.
+> **[0:29](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=29)** Now the, probably the most well known of these is Create React app, but in recent years this has actually been somewhat replaced with a host of other React app creation tools, such as Vite, [[Next.js]] and [[Remix]].
 >
 > **[0:44](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=44)** And we're going to meet these a little bit later, in another section.
 >
@@ -315,7 +310,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=133)** We'll see how these enable us to make very high quality styled components that are not only easy to manage, but also easy to read when they're in a React component.
 >
-> **[2:25](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=145)** And finally, we're going to be taking a look at some tools for testing as well as how to test the rest of these tools or code that we've written with the rest of these tools in our React apps.
+> **[2:25](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=145)** And finally, we're going to be taking a look at some tools for testing as well as how to test the [[Representational State Transfer (REST)|rest]] of these tools or code that we've written with the rest of these tools in our React apps.
 >
 > **[2:37](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-react-ecosystem-tools?u=76281980&t=157)** So these are the tools that we're going to be covering.
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), data (5), application (2), [[Representational State Transfer (REST)|Rest]] (2), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[Representational State Transfer (REST)|Rest]] (2), [[Next.js]] (1), [[Remix]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2)
 > **File Paths:** next.js (1)
@@ -335,12 +330,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a React project from scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980)
+#### [Building a React project from scratch](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=0)** - [Instructor] All right, so now that we're familiar with the different tools that we're going to be taking a look at here, the first thing that we're going to do here actually, is we're going to see how to build a React project from scratch.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=0)** - [Instructor] All right, so now that we're familiar with the different tools that we're going to be taking a look at here, the first thing that we're going to do here actually, is we're going to see how to build a [[React.js|React]] project from scratch.
 >
 > **[0:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=12)** Now, this might seem like a strange way to start a course on React ecosystem tools is by specifically building a React app that doesn't use any tools.
 >
@@ -350,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=43)** The first thing to understand is the basics of how React works.
 >
-> **[0:49](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=49)** I'm often surprised when I hear that more advanced React developers still don't quite understand the basic process of how a React app renders, so the first thing to know is that when we load a React app, right, when we open up a browser and put in a URL and the thing that we're loading, the site that we're loading is a React app, the first thing that arrives at our browser is actually just a single empty HTML file.
+> **[0:49](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=49)** I'm often surprised when I hear that more advanced React developers still don't quite understand the basic process of how a React app renders, so the first thing to know is that when we load a React app, right, when we open up a browser and put in a URL and the thing that we're loading, the site that we're loading is a React app, the first thing that arrives at our browser is actually just a single empty [[HTML]] file.
 >
 > **[1:18](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=78)** It's mostly empty anyway, it doesn't usually have any kind of visual elements on it, and Reacts job is to actually programmatically fill this HTML file with our application, right?
 >
@@ -358,7 +352,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=104)** All right, and finally, in order to make all of this process work for us, I'll explain why this is very shortly, we're going to need a tool called Webpack, which will basically convert the JSX syntax, right?
 >
-> **[1:57](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=117)** That HTML-like syntax that we see in React files, into plain JavaScript that browsers can execute.
+> **[1:57](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=117)** That HTML-like syntax that we see in React files, into plain [[JavaScript]] that browsers can execute.
 >
 > **[2:05](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980&t=125)** Browsers aren't able to execute JSX by default.
 >
@@ -366,20 +360,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (12), [[HTML]] (4), application (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[HTML]] (4), [[JavaScript]] (1)
 > **Env Vars:** html (4), jsx (2), url (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### The React entry point
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980)
+#### [The React entry point](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=0)** - [Instructor] All right, so now that we've learned a little bit more about how we're going to build a React project from scratch and what we have to gain from this, let's get started here by creating the React entry point.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=0)** - [Instructor] All right, so now that we've learned a little bit more about how we're going to build a [[React.js|React]] project from scratch and what we have to gain from this, let's get started here by creating the React entry point.
 >
-> **[0:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=12)** So again, this is just going to be an index.html file that will take charge of loading a script that will actually render our React app.
+> **[0:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=12)** So again, this is just going to be an index.[[HTML]] file that will take charge of loading a script that will actually render our React app.
 >
 > **[0:22](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=22)** So I'm going to start off here by creating a new folder, and I'm going to call this folder something like react-from-scratch.
 >
@@ -387,7 +380,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=37)** And for now, we'll also create a new file called index.js, and that's going to be the main script, right?
 >
-> **[0:46](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=46)** Sort of the JavaScript entry point that will kick off the rendering process.
+> **[0:46](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=46)** Sort of the [[JavaScript]] entry point that will kick off the rendering process.
 >
 > **[0:52](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=52)** So now that we have those things, let's start off by creating a simple HTML file that will load our app.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=228)** All right, so now that we have the html and script files created, we're just going to open up this HTML file in a browser.
 >
-> **[3:55](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=235)** Now, if you're developing locally, that is, on your machine instead of in Codespaces, I'm using Codespaces, all you need to do is right-click on the index.html file, do Copy Path, and then paste that into a browser, and that will open up this file.
+> **[3:55](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=235)** Now, if you're developing locally, that is, on your machine instead of in [[Codespaces]], I'm using Codespaces, all you need to do is right-click on the index.html file, do Copy Path, and then paste that into a browser, and that will open up this file.
 >
 > **[4:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-react-entry-point?u=76281980&t=252)** Now, just to make sure that you actually see it, let's actually just add an h1 heading here that says something like, "My React App," and you should see that rendered.
 >
@@ -469,7 +462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (13), [[HTML]] (13), [[JavaScript]] (3), [[Codespaces]] (3), next (2)
+> **Frameworks & Libraries:** [[React.js|React]] (13), [[HTML]] (13), [[JavaScript]] (3), [[Codespaces]] (3)
 > **Env Vars:** html (7), doctype (1), utf (1)
 > **File Paths:** index.html (4), index.js (4)
 > **UI Navigation:** right-click (2), go to (2), in the tab (1), click on (1)
@@ -478,12 +471,11 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 
-#### Creating a React script
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980)
+#### [Creating a React script](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=0)** - [Instructor] Alright, so now that we've created this HTML file that loads this JS file, the next thing that we're going to need to do is have this JS file actually start doing things like rendering React components.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=0)** - [Instructor] Alright, so now that we've created this [[HTML]] file that loads this JS file, the next thing that we're going to need to do is have this JS file actually start doing things like rendering [[React.js|React]] components.
 >
 > **[0:14](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=14)** So here's what this is going to look like.
 >
@@ -493,13 +485,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=32)** And inside here you're going to need to first of all navigate to the React from scratch directory, with index.js and index.html inside of it, right?
 >
-> **[0:43](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=43)** I have all of these other files that are just from the GitHub repo, just different settings files for the appearance of this IDE, things like that.
+> **[0:43](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=43)** I have all of these other files that are just from the [[GitHub]] repo, just different settings files for the appearance of this IDE, things like that.
 >
 > **[0:53](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=53)** So you can just ignore those, but we're going to need to say cd react-from-scratch and change directories into there.
 >
 > **[0:59](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=59)** And you should be able to type pwd, which shows you the current directory you are in and see that you are in fact in React from scratch.
 >
-> **[1:09](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=69)** And now the first thing you're going to want to do is create a new package.json file, which will keep track of things like the dependencies for our project, by saying npm.init -y That will just set up a new package.json file with all of the defaults.
+> **[1:09](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=69)** And now the first thing you're going to want to do is create a new package.[[JSON]] file, which will keep track of things like the dependencies for our project, by saying [[npm]].init -y That will just set up a new package.json file with all of the defaults.
 >
 > **[1:27](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=87)** And now we can install the React libraries that we need by saying npm install react And we're also going to install a library called react-dom, and let's just hit enter, and that should install all of those for us.
 >
@@ -537,7 +529,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=221)** This JSX syntax isn't actually supported by most browsers.
 >
-> **[3:47](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=227)** So if we try and run this script in our browser now, what we'll see is that we'll get an error, because basically this JSX syntax, the idea of writing HTML elements in JavaScript code isn't something that's supported by most browsers.
+> **[3:47](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=227)** So if we try and run this script in our browser now, what we'll see is that we'll get an error, because basically this JSX syntax, the idea of writing HTML elements in [[JavaScript]] code isn't something that's supported by most browsers.
 >
 > **[4:05](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-react-script?u=76281980&t=245)** And what this means is that we actually will need to use a library that will convert this for us automatically to something that the browser can handle.
 >
@@ -585,7 +577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (23), [[HTML]] (4), dom (3), next (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (23), [[HTML]] (4), [[JSON]] (2), [[npm]] (2), [[GitHub]] (1)
 > **Env Vars:** jsx (6), html (3), ide (1)
 > **Code Identifiers:** createelement (3), createroot (2), getelementbyid (1)
 > **Prerequisites:** install (5), set up (1)
@@ -594,12 +586,11 @@ created: 2026-05-02
 > **CLI Commands:** npm (2), cd (1)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Using webpack to build a React app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980)
+#### [Using webpack to build a React app](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=0)** - [Instructor] All right, so at this point, we have our index.html file, which is what our React app is going to render into, right?
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=0)** - [Instructor] All right, so at this point, we have our index.[[HTML]] file, which is what our [[React.js|React]] app is going to render into, right?
 >
 > **[0:07](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=7)** This div id root and our index.js file, which represents the actual React logic that will be used to render our app.
 >
@@ -609,7 +600,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=29)** Well, the first one that you'll see is just this cannot use import statement outside a module thing.
 >
-> **[0:34](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=34)** But even if you were to fix that, you would see that it would complain about your usage of these tags, this jsx inside the JavaScript file.
+> **[0:34](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=34)** But even if you were to fix that, you would see that it would complain about your usage of these tags, this jsx inside the [[JavaScript]] file.
 >
 > **[0:43](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=43)** So the tool for fixing both of those problems is a tool called webpack.
 >
@@ -623,7 +614,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=68)** So we'll start off here with installing the webpack tools.
 >
-> **[1:11](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=71)** We're going to say npm install webpack and then webpack-cli and then we're going to install those as dev dependencies because we're only going to be using these for development, right?
+> **[1:11](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=71)** We're going to say [[npm]] install webpack and then webpack-[[CLI]] and then we're going to install those as dev dependencies because we're only going to be using these for development, right?
 >
 > **[1:26](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=86)** We don't want to have these in production because that will actually bloat the size of our app.
 >
@@ -707,7 +698,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=398)** And once you've done that, let's run webpack.
 >
-> **[6:42](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=402)** And we can do that actually by going into our package.json file.
+> **[6:42](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=402)** And we can do that actually by going into our package.[[JSON]] file.
 >
 > **[6:46](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-webpack-to-build-a-react-app?u=76281980&t=406)** We're going to add a script here called build, and this is just going to run the command webpack.
 >
@@ -747,7 +738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (16), [[JavaScript]] (6), [[HTML]] (5), [[npm]] (3), application (2)
+> **Frameworks & Libraries:** [[React.js|React]] (16), [[JavaScript]] (6), [[HTML]] (5), [[npm]] (3), [[CLI]] (1)
 > **File Paths:** index.html (4), index.js (4), bundle.js (2), webpac.config.js (1), package.json (1)
 > **Prerequisites:** install (9)
 > **CLI Commands:** npm (3), make (3), node (1)
@@ -756,12 +747,11 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Tools:** terminal (1)
 
-#### Adding more components
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980)
+#### [Adding more components](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=0)** - [Instructor] All right, so now that we've figured out how to set up a React app from scratch, the last thing that I'd like to show you here before we move on and take a look at some other strategies that we can use in order to get started with our React apps is I'd like to show you how we can add other components into this app.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=0)** - [Instructor] All right, so now that we've figured out how to set up a [[React.js|React]] app from scratch, the last thing that I'd like to show you here before we move on and take a look at some other strategies that we can use in order to get started with our React apps is I'd like to show you how we can add other components into this app.
 >
 > **[0:19](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=19)** It's actually pretty straightforward and probably what you're used to in regular React applications.
 >
@@ -805,7 +795,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=134)** All right, so in other words, our React app is now a multi-file app.
 >
-> **[2:18](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=138)** So let's see what happens now when we run npm run build again, which by the way, you do need to do every time you make a change to your app in order for changes to take effect.
+> **[2:18](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=138)** So let's see what happens now when we run [[npm]] run build again, which by the way, you do need to do every time you make a change to your app in order for changes to take effect.
 >
 > **[2:29](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=149)** There are other ways around this, but they're a little bit complicated to get set up.
 >
@@ -837,7 +827,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=210)** So let's build our app again, npm run build.
 >
-> **[3:34](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=214)** And once that finishes, let's go back to our HTML file in the browser, hit Refresh, and it looks like we have one more error.
+> **[3:34](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=214)** And once that finishes, let's go back to our [[HTML]] file in the browser, hit Refresh, and it looks like we have one more error.
 >
 > **[3:42](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=222)** And if you open up the Inspector window, what you'll see in the Console is that it says, React is not defined.
 >
@@ -867,11 +857,11 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=324)** All right, so again, the important thing to remember here is no matter what library or boilerplate generator or framework you're using, really, what we've done here is what's going on behind the scenes.
 >
-> **[5:36](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=336)** Obviously, it gets much more complex in things like Next.js, but this forms the foundation for all of that.
+> **[5:36](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-more-components?u=76281980&t=336)** Obviously, it gets much more complex in things like [[Next.js]], but this [[Forms]] the foundation for all of that.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (18), [[npm]] (3), hit (3), [[HTML]] (3), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (18), [[npm]] (3), [[HTML]] (3), [[Next.js]] (1), [[Forms]] (1)
 > **File Paths:** index.js (4), app.js (3), bundle.js (2), index.html (2), index.jsx (1)
 > **Cross-References:** go back to (5), previous video (1)
 > **Env Vars:** jsx (4), html (1)
@@ -885,16 +875,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a project with Create React App
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980)
+#### [Create a project with Create React App](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=0)** - [Instructor] All right, so previously we saw the basics of setting up a React app from scratch, but there were a few problems with that, right?
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=0)** - [Instructor] All right, so previously we saw the basics of setting up a [[React.js|React]] app from scratch, but there were a few problems with that, right?
 >
 > **[0:07](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=7)** Really the main problem with this was that it was a little bit difficult to set up as well as a little bit difficult to make changes to, right?
 >
-> **[0:15](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=15)** If we wanted to make changes to the App component, for example, or really any part of our React JavaScript files, we had to actually rebuild the entire application before we would see those changes.
+> **[0:15](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=15)** If we wanted to make changes to the App component, for example, or really any part of our React [[JavaScript]] files, we had to actually rebuild the entire application before we would see those changes.
 >
 > **[0:28](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=28)** And there's a lot of other things as well that can cause problems once you try and build complex React applications with this setup.
 >
@@ -918,7 +907,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=104)** So here's what this is going to look like.
 >
-> **[1:47](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=107)** The first thing that you might want to check on here, just to make sure that everything works for you in the same way that it works for me is, if you've previously used Create React App, which if you've worked with React before, you probably have, you might want to make sure that you have the latest version by uninstalling Create React App globally by saying npm uninstall -g create-react-app, all right?
+> **[1:47](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=107)** The first thing that you might want to check on here, just to make sure that everything works for you in the same way that it works for me is, if you've previously used Create React App, which if you've worked with React before, you probably have, you might want to make sure that you have the latest version by uninstalling Create React App globally by saying [[npm]] uninstall -g create-react-app, all right?
 >
 > **[2:14](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=134)** So if you installed it globally at some point in the past, that will uninstall it for you and it will make sure that the next command that you run uses the latest version.
 >
@@ -984,7 +973,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=290)** So anyway, now that we've done that, the next thing that we're going to do is, I just want to show you a few other things you can do with these React apps created with the Create React App script.
 >
-> **[5:01](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=301)** If you go into package.json, you'll see that there are a few scripts that you can run.
+> **[5:01](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=301)** If you go into package.[[JSON]], you'll see that there are a few scripts that you can run.
 >
 > **[5:06](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=306)** The first one is npm run start, which basically just runs the application.
 >
@@ -992,7 +981,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=313)** But you'll also see npm run build, you would use this for production.
 >
-> **[5:18](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=318)** npm run tests, you would use this if you wanted to run tests on the different components in your application, such as if you're doing test-driven development.
+> **[5:18](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=318)** npm run tests, you would use this if you wanted to run tests on the different components in your application, such as if you're doing [[Test-Driven Development]].
 >
 > **[5:26](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980&t=326)** And finally, npm run eject.
 >
@@ -1014,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (28), application (6), [[npm]] (6), next (3), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (28), [[npm]] (6), [[JavaScript]] (1), [[JSON]] (1), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (10), npm (6), npx (2)
 > **Analogies:** for example (2), such as (2), similar to (1)
 > **Definitions:** is a  (1), known as (1), basically means (1), in other words (1)
@@ -1023,20 +1012,19 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Exercise Files:** boilerplate (2)
 
-#### Create a project with Vite
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980)
+#### [Create a project with Vite](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=0)** - [Instructor] Alright, so now that we've seen how to create a React app with the Create React App script, the next thing we're going to do is take a look at how to use another tool called Vite, V-I-T-E.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=0)** - [Instructor] Alright, so now that we've seen how to create a [[React.js|React]] app with the Create React App script, the next thing we're going to do is take a look at how to use another tool called Vite, V-I-T-E.
 >
-> **[0:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=12)** You'll hear this pronounced Vite sometimes, but according to the website, it is pronounced Vite, which is the French word for "fast."
+> **[0:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=12)** You'll hear this pronounced Vite sometimes, but according to the website, it is pronounced Vite, which is the French [[Microsoft Word|word]] for "fast."
 >
 > **[0:20](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=20)** So really, Vite is a somewhat improved version of Create React App that works for many other types of projects besides just React projects.
 >
-> **[0:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=30)** So for example, it works for View, Angular, and so on.
+> **[0:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=30)** So for example, it works for View, [[Angular]], and so on.
 >
-> **[0:34](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=34)** So in order to get started with this, all ya need to do is run the command npm.
+> **[0:34](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=34)** So in order to get started with this, all ya need to do is run the command [[npm]].
 >
 > **[0:40](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=40)** Oh, and by the way, make sure you change directories out of your Create React App directory because we're going to create another separate directory, another separate project, in the root directory here.
 >
@@ -1060,7 +1048,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=97)** Next thing it's going to ask you is what framework or library you want to use.
 >
-> **[1:42](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=102)** So you can do a Vanilla JavaScript project here, or a View project, or a React project, or Preact, or Lit, or Svelte, or any of those other ones there.
+> **[1:42](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=102)** So you can do a [[Vanilla]] [[JavaScript]] project here, or a View project, or a React project, or Preact, or Lit, or Svelte, or any of those other ones there.
 >
 > **[1:50](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=110)** But I'm just going to select React, okay, and hit Enter.
 >
@@ -1078,7 +1066,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=143)** However, part of that's because it didn't actually install those dependencies for us automatically, right?
 >
-> **[2:28](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=148)** It basically just copied an entire project with a package.json, containing all of the dependencies for our project.
+> **[2:28](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=148)** It basically just copied an entire project with a package.[[JSON]], containing all of the dependencies for our project.
 >
 > **[2:36](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-vite?u=76281980&t=156)** So what we're going to need to do here is we're going to need to change directories into our Vite app.
 >
@@ -1130,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (15), [[npm]] (4), next (3), [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (15), [[npm]] (4), [[JavaScript]] (2), [[Microsoft Word|Word]] (1), [[Angular]] (1)
 > **CLI Commands:** npm (4), make (3), find (2), cd (1)
 > **Prerequisites:** install (4), setup (1)
 > **File Paths:** package.json (1), app.jsx (1), src/app.jsx (1)
@@ -1139,12 +1127,11 @@ created: 2026-05-02
 > **URLs:** [vitejs.dev](https://vitejs.dev) (1)
 > **Ports:** port 5500 (1)
 
-#### Create a project with Next.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980)
+#### [Create a project with Next.js](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=0)** - [Instructor] Alright, so now that we've seen how to use Create React app and Vite to Create React apps, the next library that we're going to look at for this is called Next JS.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=0)** - [Instructor] Alright, so now that we've seen how to use Create [[React.js|React]] app and Vite to Create React apps, the next library that we're going to look at for this is called Next JS.
 >
 > **[0:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=10)** Now Next JS is really a very in-depth and powerful piece of technology, and we'll talk about why that is in more detail shortly.
 >
@@ -1214,9 +1201,9 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=163)** So cd Next React app.
 >
-> **[2:46](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=166)** And then we're going to run this by saying, in fact, if you're wondering how you can run any of these, you can just take a look at the package.json file.
+> **[2:46](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=166)** And then we're going to run this by saying, in fact, if you're wondering how you can run any of these, you can just take a look at the package.[[JSON]] file.
 >
-> **[2:54](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=174)** This one in particular, we're going to want to run NPM Run Dev.
+> **[2:54](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=174)** This one in particular, we're going to want to run [[npm]] Run Dev.
 >
 > **[2:58](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=178)** So, we'll say NPM Run Dev, and that will build and run our next application for us.
 >
@@ -1244,7 +1231,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=225)** We're going to go into app, we're going to go into page.js.
 >
-> **[3:50](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=230)** Next JS, by the way, has a very opinionated format for naming your files that really affects when things are displayed and it affects routing in your app.
+> **[3:50](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=230)** Next JS, by the way, has a very opinionated format for naming your files that really affects when things are displayed and it affects [[Routing]] in your app.
 >
 > **[4:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=240)** Again, feel free to check out another course if you're interested in learning more about that.
 >
@@ -1260,7 +1247,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=283)** That's something that I discuss in much more detail in another course.
 >
-> **[4:46](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=286)** The basic idea there is instead of rendering these pages in the client's browser, Next JS will actually pre-render them and send the rendered HTML back to the client.
+> **[4:46](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=286)** The basic idea there is instead of rendering these pages in the client's browser, Next JS will actually pre-render them and send the rendered [[HTML]] back to the client.
 >
 > **[4:56](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-next-js?u=76281980&t=296)** This is very good for performance as well as for SEO.
 >
@@ -1270,7 +1257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (20), [[React.js|React]] (11), [[npm]] (2), application (2), hit (1)
+> **Frameworks & Libraries:** [[React.js|React]] (11), [[npm]] (2), [[JSON]] (1), [[Routing]] (1), [[HTML]] (1)
 > **Env Vars:** npm (2), npx (1), css (1), html (1), seo (1)
 > **CLI Commands:** npm (2), npx (1), make (1), cd (1)
 > **Prerequisites:** install (2), set up (1)
@@ -1279,14 +1266,13 @@ created: 2026-05-02
 > **Ports:** port 3000 (1)
 > **Cross-References:** go back to (1)
 
-#### Create a project with Remix
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980)
+#### [Create a project with Remix](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=0)** - [Instructor] Alright, so the final tool that we're going to take a look at here for creating new React apps is something called Remix.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=0)** - [Instructor] Alright, so the final tool that we're going to take a look at here for creating new [[React.js|React]] apps is something called [[Remix]].
 >
-> **[0:08](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=8)** Now, Remix is, I would say it's a little bit more similar to Vite or Create React App than it is to Next.JS.
+> **[0:08](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=8)** Now, Remix is, I would say it's a little bit more similar to Vite or Create React App than it is to [[Next.js]].
 >
 > **[0:16](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=16)** Next.JS is really more of a batteries included framework, whereas things like Vite and Remix are just meant to help you get a regular React app up and running as quickly as possible.
 >
@@ -1312,11 +1298,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=80)** Then you'll see that it says using Basic Template, there are other templates that you can use here if you want to create a React app that starts off with say, Redux, we'll learn about this in much more detail later on.
 >
-> **[1:33](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=93)** Then it's going to ask if we want to initialize a new Git repository.
+> **[1:33](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=93)** Then it's going to ask if we want to initialize a new [[Git]] repository.
 >
 > **[1:36](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=96)** I'm going to say no here just because I already have this Outer directory set up with a Git repo, but you can obviously say yes there.
 >
-> **[1:44](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=104)** If you wanted the project to be saved and managed on Git, we're going to say, install dependencies with NPM.
+> **[1:44](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=104)** If you wanted the project to be saved and managed on Git, we're going to say, install dependencies with [[npm]].
 >
 > **[1:50](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-remix?u=76281980&t=110)** I'll say yes, and then it's going to install those dependencies for us.
 >
@@ -1388,14 +1374,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meet the sample app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-sample-app?u=76281980)
+#### [Meet the sample app](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-sample-app?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-sample-app?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-sample-app?u=76281980&t=0)** At this point, we've seen how to create React applications from scratch, as well as a number of different tools that can help us set up a React app.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-sample-app?u=76281980&t=0)** At this point, we've seen how to create [[React.js|React]] applications from scratch, as well as a number of different tools that can help us set up a React app.
 >
 > **[0:09](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-sample-app?u=76281980&t=9)** So the next few things that we're going to take a look at are things that we're going to need a full scale React project in order to demonstrate them on.
 >
@@ -1421,19 +1406,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), next (3), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the TodoList component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980)
+#### [Creating the TodoList component](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=0)** - [Instructor] So now that we've met the project that we're going to be using in order to demonstrate a lot of these tools that we'll be talking about in this course, let's actually get started and create this application.
 >
-> **[0:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=12)** All right, now we could use any of the tools that we saw previously, Create React app, Next.js, Remix, or Vite, or you could actually even use this project that we created from scratch.
+> **[0:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=12)** All right, now we could use any of the tools that we saw previously, Create [[React.js|React]] app, [[Next.js]], [[Remix]], or Vite, or you could actually even use this project that we created from scratch.
 >
 > **[0:25](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=25)** But I'm going to use Vite frankly just because it's the easiest and least opinionated and it's also the one that's recommended currently on React's websites.
 >
@@ -1441,13 +1425,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=41)** So here's what this is going to look like.
 >
-> **[0:43](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=43)** I'm just going to say "npm create vite@latest" and let's hit Enter here, and that's going to ask us the same few questions.
+> **[0:43](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=43)** I'm just going to say "[[npm]] create vite@latest" and let's hit Enter here, and that's going to ask us the same few questions.
 >
 > **[0:53](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=53)** The only thing that we're really going to do differently here is for the project name, we'll call this something like todo-list-app, all right?
 >
 > **[1:01](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=61)** Then, we're going to select React for this.
 >
-> **[1:03](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=63)** We're going to opt out of TypeScript and SWC just by selecting JavaScript.
+> **[1:03](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=63)** We're going to opt out of TypeScript and SWC just by selecting [[JavaScript]].
 >
 > **[1:08](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolist-component?u=76281980&t=68)** All right, and we'll see that that creates this app for us.
 >
@@ -1533,7 +1517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), application (4), [[npm]] (3), next (2), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[npm]] (3), [[Next.js]] (1), [[Remix]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** setcount (1), usestate (1), completedtodos (1), incompletetodos (1)
 > **CLI Commands:** npm (3)
 > **Env Vars:** swc (1), jsx (1), ide (1)
@@ -1542,8 +1526,7 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (2)
 > **Ports:** port 5173 (1)
 
-#### Creating the TodoListItem component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980)
+#### [Creating the TodoListItem component](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1659,7 +1642,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=286)** And that should be all we need to do here besides going into the app.jsx component and creating some of those items.
 >
-> **[4:53](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=293)** So we're just going to use the React useState hook to keep track of the completed and incomplete todos.
+> **[4:53](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=293)** So we're just going to use the [[React.js|React]] useState hook to keep track of the completed and incomplete todos.
 >
 > **[5:01](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=301)** So let's just import that up at the top by saying import { useState } from 'react'; And now, we're just going to say const {completedTodos, setCompletedTodos} = useState.
 >
@@ -1671,7 +1654,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=328)** So here's what these are going to look like.
 >
-> **[5:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=330)** These are just going to be arrays of JavaScript objects.
+> **[5:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=330)** These are just going to be arrays of [[JavaScript]] objects.
 >
 > **[5:33](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=333)** So each one of these is just going to be text and isCompleted.
 >
@@ -1721,7 +1704,7 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=442)** And then we have Incomplete, which has Paint the House and that says Mark as Completed without the little complete message.
 >
-> **[7:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=450)** What we've done here is we've added a TodoListItem component, and we've incorporated that into the rest of our app as well as adding some todos.
+> **[7:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=450)** What we've done here is we've added a TodoListItem component, and we've incorporated that into the [[Representational State Transfer (REST)|rest]] of our app as well as adding some todos.
 >
 > **[7:38](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-todolistitem-component?u=76281980&t=458)** So the last thing we're going to do in the next video is we're going to create a form that will allow us to add new todos.
 >
@@ -1729,7 +1712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[React.js|React]] (3), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** iscompleted (8), incompletetodos (6), ondeleteclicked (4), completedtodos (4), usestate (4)
 > **Cross-References:** go back to (4), later in (1), in the next (1), coming up (1)
 > **File Paths:** app.jsx (2), todolistitem.jsx (1)
@@ -1738,8 +1721,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the NewTodoForm component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-newtodoform-component?u=76281980)
+#### [Creating the NewTodoForm component](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-newtodoform-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1773,7 +1755,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-newtodoform-component?u=76281980&t=91)** So that's pretty much all we have to do for our new to-do form, except of course add a use state hook to this.
 >
-> **[1:38](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-newtodoform-component?u=76281980&t=98)** So we'll just say import, use state, from react.
+> **[1:38](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-newtodoform-component?u=76281980&t=98)** So we'll just say import, use state, from [[React.js|react]].
 >
 > **[1:42](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-newtodoform-component?u=76281980&t=102)** And then down here inside our component, we're going to say const, input text, and set input text equals use state.
 >
@@ -1795,7 +1777,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-newtodoform-component?u=76281980&t=162)** Alright, so now that we've created this new to-do form, and by the way, you'll notice that all of these files have lint errors, which I'm not planning on fixing here, because that's not really relevant to what we're talking about.
 >
-> **[2:54](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-newtodoform-component?u=76281980&t=174)** So in order to make these stop showing up, all you need to do is press Command Shift P, and say Settings, JSON.
+> **[2:54](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-newtodoform-component?u=76281980&t=174)** So in order to make these stop showing up, all you need to do is press Command Shift P, and say Settings, [[JSON]].
 >
 > **[3:06](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-the-newtodoform-component?u=76281980&t=186)** Just type that, and you're going to want to open the remote settings.
 >
@@ -1825,7 +1807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[JSON]] (1)
 > **Env Vars:** jsx (1), json (1), ide (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -1833,8 +1815,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Putting the app together
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/putting-the-app-together?u=76281980)
+#### [Putting the app together](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/putting-the-app-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,7 +1971,7 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/putting-the-app-together?u=76281980&t=457)** And the last thing I want to do is just really highlight how complicated this props drilling can make our applications, right?
 >
-> **[7:45](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/putting-the-app-together?u=76281980&t=465)** If we have a fairly deeply nested react application where we have components inside components inside components, having a lot of props drilling like this where you know the same prop or the same function is passed through four or five or six levels can really make our app very difficult to work with.
+> **[7:45](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/putting-the-app-together?u=76281980&t=465)** If we have a fairly deeply nested [[React.js|react]] application where we have components inside components inside components, having a lot of props drilling like this where you know the same prop or the same function is passed through four or five or six levels can really make our app very difficult to work with.
 >
 > **[8:05](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/putting-the-app-together?u=76281980&t=485)** Since inside any component, you won't actually know where that prop begins and ends or who needs that prop.
 >
@@ -2002,7 +1983,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** ondeleteclicked (10), oncompletedclicked (9), oncreateclicked (6), markascomplete (1)
 > **CLI Commands:** make (10), find (3)
 > **Cross-References:** in the next (2), go back to (1)
@@ -2014,12 +1995,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why do we need Redux?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux?u=76281980)
+#### [Why do we need Redux?](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux?u=76281980&t=0)** - [Instructor] All right, so now that we've put together a fairly straightforward React application that's already starting to show signs of needing some of these ecosystem tools in order to help it work a little bit more smoothly and make it more maintainable, let's take a look at the first tool for state management in React applications, which is called Redux.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux?u=76281980&t=0)** - [Instructor] All right, so now that we've put together a fairly straightforward [[React.js|React]] application that's already starting to show signs of needing some of these ecosystem tools in order to help it work a little bit more smoothly and make it more maintainable, let's take a look at the first tool for state management in React applications, which is called Redux.
 >
 > **[0:21](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux?u=76281980&t=21)** Now, we're going to talk specifically about why we need this tool in this video.
 >
@@ -2059,17 +2039,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), application (4), management (3), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9)
 > **Definitions:** is a  (2), is called (1), known as (1), in other words (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
-#### How does Redux work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-work?u=76281980)
+#### [How does Redux work?](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-work?u=76281980&t=0)** - [Instructor] All right, so now that we're a little bit more familiar with what Redux does and why it's helpful in a React application, let's discuss the basics of how Redux works.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-work?u=76281980&t=0)** - [Instructor] All right, so now that we're a little bit more familiar with what Redux does and why it's helpful in a [[React.js|React]] application, let's discuss the basics of how Redux works.
 >
 > **[0:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-work?u=76281980&t=10)** Now we're going to see this in code shortly, but I just want to get the basic concepts down before we move on because I think it'll make it a lot easier to understand how everything fits together.
 >
@@ -2095,7 +2074,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-work?u=76281980&t=118)** And what these do is they give us a place to define how the state in the Redux store should change when a specific action happens, right?
 >
-> **[2:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-work?u=76281980&t=130)** So just to give you a simple example, if we're building an e-commerce application, we might say that when an add to cart action happens, we want the Redux store to have that new item inside the user's cart, right?
+> **[2:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-work?u=76281980&t=130)** So just to give you a simple example, if we're building an [[E-Commerce]] application, we might say that when an add to cart action happens, we want the Redux store to have that new item inside the user's cart, right?
 >
 > **[2:26](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-work?u=76281980&t=146)** That's sort of what that logic and reducers looks like.
 >
@@ -2131,16 +2110,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (15), [[React.js|React]] (4), data (3), next (3), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[E-Commerce]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Adding Redux to a React app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-redux-to-a-react-app?u=76281980)
+#### [Adding Redux to a React app](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-redux-to-a-react-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-redux-to-a-react-app?u=76281980&t=0)** - [Instructor] All right, so now that we've learned a little bit more about Redux and the basics of how it works, let's jump in and see how to add Redux to a React app.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-redux-to-a-react-app?u=76281980&t=0)** - [Instructor] All right, so now that we've learned a little bit more about Redux and the basics of how it works, let's jump in and see how to add Redux to a [[React.js|React]] app.
 >
 > **[0:09](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-redux-to-a-react-app?u=76281980&t=9)** So, we're going to be adding this thing to our todo-list application that we set up previously.
 >
@@ -2154,7 +2132,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-redux-to-a-react-app?u=76281980&t=30)** And once we're in there, what we're going to do is we're going to start off by installing a few necessary packages.
 >
-> **[0:38](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-redux-to-a-react-app?u=76281980&t=38)** So the first one here, we're going to say npm install, is called @reduxjs/toolkit.
+> **[0:38](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-redux-to-a-react-app?u=76281980&t=38)** So the first one here, we're going to say [[npm]] install, is called @reduxjs/toolkit.
 >
 > **[0:47](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-redux-to-a-react-app?u=76281980&t=47)** This provides just the basic tools, functions, things like that for working with Redux specifically.
 >
@@ -2232,7 +2210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), [[React.js|React]] (10), [[npm]] (2), next (2), database (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[npm]] (2)
 > **CLI Commands:** make (3), npm (2)
 > **Prerequisites:** install (3), set up (1), setup (1)
 > **Code Identifiers:** configurestore (2)
@@ -2241,12 +2219,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating Redux actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-redux-actions?u=76281980)
+#### [Creating Redux actions](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-redux-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-redux-actions?u=76281980&t=0)** - [Instructor] All right, well, now that we've added Redux to our React application, the next thing that we have to ask ourselves is, what specific actions do we want to be in our application that will cause our application's data to change in some way, right?
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-redux-actions?u=76281980&t=0)** - [Instructor] All right, well, now that we've added Redux to our [[React.js|React]] application, the next thing that we have to ask ourselves is, what specific actions do we want to be in our application that will cause our application's data to change in some way, right?
 >
 > **[0:17](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-redux-actions?u=76281980&t=17)** Well, as a matter of fact, we already know this.
 >
@@ -2300,7 +2277,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-redux-actions?u=76281980&t=165)** Anyway, what we're going to do is we're just going to say value, and that's going to be just an empty array for now.
 >
-> **[2:53](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-redux-actions?u=76281980&t=173)** All right, so now that we have that, the next thing that we have to do is decide how this todos resource can be affected by the rest of our application, right?
+> **[2:53](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-redux-actions?u=76281980&t=173)** All right, so now that we have that, the next thing that we have to do is decide how this todos resource can be affected by the [[Representational State Transfer (REST)|rest]] of our application, right?
 >
 > **[3:04](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-redux-actions?u=76281980&t=184)** This is where we define our actions, and somewhat confusingly, we're going to call this reducers here.
 >
@@ -2332,14 +2309,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), next (4), [[React.js|React]] (2), data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** todosslice (2), createslice (2), markascompleted (2), initialstate (1), createtodo (1)
 > **Env Vars:** jsx (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating reducers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-reducers?u=76281980)
+#### [Creating reducers](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-reducers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2351,7 +2327,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-reducers?u=76281980&t=29)** Now, one thing that's important to know about Redux is that this state is actually immutable, but because it uses a library behind the scenes called Immer, I-M-M-E-R, it actually won't modify the state behind the scenes.
 >
-> **[0:48](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-reducers?u=76281980&t=48)** It'll create a copy and Redux will take care of the rest.
+> **[0:48](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-reducers?u=76281980&t=48)** It'll create a copy and Redux will take care of the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:51](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-reducers?u=76281980&t=51)** That's just a little detail to know.
 >
@@ -2435,15 +2411,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), data (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Code Identifiers:** iscompleted (3), createtodo (1), deletetodo (1)
 > **Analogies:** just like (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading data from the store
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-from-the-store?u=76281980)
+#### [Loading data from the store](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-from-the-store?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2495,7 +2470,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-from-the-store?u=76281980&t=142)** Alright, so what that's going to do is that's basically going to take the logic that we just defined in that file and use it to configure this store.
 >
-> **[2:31](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-from-the-store?u=76281980&t=151)** Now what that means is if we go to to-do list now, we should be able to access the value of the to-dos in the store by saying, and here we're going to actually use a custom React hook provided for us by the React Redux Library.
+> **[2:31](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-from-the-store?u=76281980&t=151)** Now what that means is if we go to to-do list now, we should be able to access the value of the to-dos in the store by saying, and here we're going to actually use a custom [[React.js|React]] hook provided for us by the React Redux Library.
 >
 > **[2:49](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-from-the-store?u=76281980&t=169)** So we're going to say import use selector from React Redux.
 >
@@ -2541,7 +2516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), application (2), next (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2), later in (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -2550,8 +2525,7 @@ created: 2026-05-02
 > **Code Identifiers:** todosslice (1)
 > **Definitions:** in other words (1)
 
-#### Dispatching Redux actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/dispatching-redux-actions?u=76281980)
+#### [Dispatching Redux actions](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/dispatching-redux-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2567,7 +2541,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/dispatching-redux-actions?u=76281980&t=47)** If you take a look here, we see that that's getting passed down here and then it's getting passed all the way down to the TodoList item, which is the one that actually calls it, right?
 >
-> **[0:57](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/dispatching-redux-actions?u=76281980&t=57)** This is really a very difficult thing to manage over time and it can really make a mess of your React applications if you're not careful.
+> **[0:57](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/dispatching-redux-actions?u=76281980&t=57)** This is really a very difficult thing to manage over time and it can really make a mess of your [[React.js|React]] applications if you're not careful.
 >
 > **[1:06](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/dispatching-redux-actions?u=76281980&t=66)** So Redux, here's how Redux is going to allow us to get rid of this.
 >
@@ -2667,7 +2641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), data (1), application (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **Code Identifiers:** marktodoascompleted (4), deletetodo (4), usedispatch (3), createslice (3), createtodo (3)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2), previous chapter (1)
@@ -2676,12 +2650,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding action payloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-action-payloads?u=76281980)
+#### [Adding action payloads](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-action-payloads?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-action-payloads?u=76281980&t=0)** - [Instructor] All right. So now that we've seen how to dispatch actions as well as get data out of the Redux Store into our React components, let's take a look at how we can add the missing piece here by adding payloads to our actions.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-action-payloads?u=76281980&t=0)** - [Instructor] All right. So now that we've seen how to dispatch actions as well as get data out of the Redux Store into our [[React.js|React]] components, let's take a look at how we can add the missing piece here by adding payloads to our actions.
 >
 > **[0:14](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/adding-action-payloads?u=76281980&t=14)** So, essentially what we want to be able to do is when something happens, right, when we click delete on a todo, for example, we want to be able to see inside our todo slice reducers, which todo is actually clicked, right?
 >
@@ -2729,7 +2702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** deletetodo (1), marktodoascompleted (1), createtodo (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -2737,8 +2710,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Adding a Redux flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/challenge-adding-a-redux-flow?u=76281980)
+#### [Challenge: Adding a Redux flow](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/challenge-adding-a-redux-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2758,14 +2730,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **Non-Speech:** (bright rhythmic music) (1), (bright rhythmic music fading) (1)
 > **Code Identifiers:** usedispatch (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Adding a Redux flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-adding-a-redux-flow?u=76281980)
+#### [Solution: Adding a Redux flow](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-adding-a-redux-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2775,7 +2745,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-adding-a-redux-flow?u=76281980&t=10)** So the first thing that you wanted to do here was add the useDispatch hook so that you're NewTodoForm component would be able to trigger the right action.
 >
-> **[0:20](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-adding-a-redux-flow?u=76281980&t=20)** So what I did is I said import useDispatch from react-redux.
+> **[0:20](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-adding-a-redux-flow?u=76281980&t=20)** So what I did is I said import useDispatch from [[React.js|react]]-redux.
 >
 > **[0:27](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-adding-a-redux-flow?u=76281980&t=27)** Cool. And besides that, we're also going to want to import the correct action that we want to trigger, which is going to be the createTodo action from todosSlice.
 >
@@ -2831,19 +2801,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** usedispatch (3), oncreateclicked (3), createtodo (2), todosslice (2), inputtext (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Redux DevTools
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/redux-dev-tools?u=76281980)
+#### [Redux DevTools](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/redux-dev-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/redux-dev-tools?u=76281980&t=0)** - [Instructor] All right, so now that we've seen how to add Redux to a simple React application, the last thing that I want to show you here before we move on is the Redux Extension for your browser.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/redux-dev-tools?u=76281980&t=0)** - [Instructor] All right, so now that we've seen how to add Redux to a simple [[React.js|React]] application, the last thing that I want to show you here before we move on is the Redux Extension for your browser.
 >
 > **[0:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/redux-dev-tools?u=76281980&t=12)** So, I'm using Chrome here.
 >
@@ -2933,7 +2902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), application (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **Code Identifiers:** createtodo (2), marktodoascompleted (2), iscompleted (1), marktodoascomplete (1), deletetodo (1)
 > **Definitions:** in other words (2)
 > **CLI Commands:** find (1)
@@ -2947,8 +2916,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### State management with Recoil
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980)
+#### [State management with Recoil](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2972,7 +2940,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980&t=63)** The first thing that you're going to want to do here is install Recoil into your project.
 >
-> **[1:08](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980&t=68)** Which you can do by saying NPM install Recoil.
+> **[1:08](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980&t=68)** Which you can do by saying [[npm]] install Recoil.
 >
 > **[1:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980&t=72)** And by the way, you usually won't have Recoil and Redux and MobX, which we're going to talk about next in the same project.
 >
@@ -2982,7 +2950,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980&t=86)** We're going to start our application back up here with NPM Run Dev, and if you wanted to add Recoil to an application, you would do a pretty similar thing to what we did with the Redux provider, except you would use something called a Recoil root.
 >
-> **[1:44](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980&t=104)** And just as a side note here, the changes that I'm going to make in this video are not going to be persisted in the rest of the course.
+> **[1:44](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980&t=104)** And just as a side note here, the changes that I'm going to make in this video are not going to be persisted in the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[1:51](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980&t=111)** They're really just for demonstration and to show you how these things work.
 >
@@ -3076,7 +3044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), next (3), management (2), [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** atom (11)
 > **CLI Commands:** make (4), npm (2)
 > **Env Vars:** npm (2)
@@ -3085,8 +3053,7 @@ created: 2026-05-02
 > **File Paths:** atoms.js (1)
 > **Cross-References:** in the next (1)
 
-#### State management with MobX
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980)
+#### [State management with MobX](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3094,7 +3061,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=18)** Now, MobX is a very popular tool.
 >
-> **[0:21](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=21)** It's a somewhat more object-oriented alternative to Redux, so if you're comfortable with object-oriented programming and like working with classes, things like that, MobX might be a good choice, and it's also supposed to be very fast as well, although, personally, I've never tried it in larger React applications.
+> **[0:21](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=21)** It's a somewhat more object-oriented alternative to Redux, so if you're comfortable with [[Object-Oriented Programming (OOP)|object-oriented programming]] and like working with classes, things like that, MobX might be a good choice, and it's also supposed to be very fast as well, although, personally, I've never tried it in larger [[React.js|React]] applications.
 >
 > **[0:40](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=40)** So to give you an idea of what it's like to work with MobX, I'm just going to do a very similar, simple demonstration of MobX.
 >
@@ -3104,7 +3071,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=59)** And then, inside here, what we're going to do is we're going to start off by importing something from the MobX package, and by the way, let's install that by opening up our project terminal.
 >
-> **[1:11](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=71)** We're going to stop it and run npm install mobx, as well as mobx-react-lite.
+> **[1:11](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=71)** We're going to stop it and run [[npm]] install mobx, as well as mobx-react-lite.
 >
 > **[1:21](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=81)** Those are the bindings for adding MobX to a React project.
 >
@@ -3114,7 +3081,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=90)** And now what we're going to do is we're going to import something called makeAutoObservable, and we're going to import that from 'mobx'.
 >
-> **[1:41](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=101)** Now, this makeAutoObservable thing, what it does is it takes JavaScript classes, right, regular JavaScript classes, and it integrates them into React's reactive programming kind of flow, right?
+> **[1:41](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=101)** Now, this makeAutoObservable thing, what it does is it takes [[JavaScript]] classes, right, regular JavaScript classes, and it integrates them into React's reactive programming kind of flow, right?
 >
 > **[1:57](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-mobx?u=76281980&t=117)** So, if we define a simple class here, called something like TodosStore, which is how these are usually named here, well, if we add some member variables to this, for example, todos, and set the default value for that member variable as an empty array, and then maybe we have, you know, some, just a few methods here that allow us to modify that todos array, so maybe we have createTodo, which allows us to create a new Todo with new text.
 >
@@ -3182,7 +3149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (12), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[npm]] (2), [[JavaScript]] (2), application (2)
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[npm]] (2), [[JavaScript]] (2)
 > **Code Identifiers:** todosstore (6), makeautoobservable (4), createcontext (3), usestate (2), createtodo (1)
 > **CLI Commands:** make (5), npm (2)
 > **Analogies:** for example (2), it's like (1), such as (1), just like (1)
@@ -3196,12 +3163,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why do we need Redux-Thunk?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux-thunk?u=76281980)
+#### [Why do we need Redux-Thunk?](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux-thunk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux-thunk?u=76281980&t=0)** - [Instructor] All right, well we've spent quite a bit of time talking about state management tools for React and seeing how to incorporate those into our React applications, so the next thing that we're going to do is we're going to move on to another tool with a somewhat strange name, and that name is called Redux Thunk.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux-thunk?u=76281980&t=0)** - [Instructor] All right, well we've spent quite a bit of time talking about state management tools for [[React.js|React]] and seeing how to incorporate those into our React applications, so the next thing that we're going to do is we're going to move on to another tool with a somewhat strange name, and that name is called Redux Thunk.
 >
 > **[0:17](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux-thunk?u=76281980&t=17)** So, as you probably have guessed by the name, it is related to Redux, but it has a different responsibility, right?
 >
@@ -3229,14 +3195,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[React.js|React]] (4), data (3), management (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### How does Redux-Thunk work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-thunk-work?u=76281980)
+#### [How does Redux-Thunk work?](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-thunk-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3254,7 +3219,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-thunk-work?u=76281980&t=64)** All right, now besides making network requests, this can also include things like dispatching actions and even dispatching other Thunks, right?
 >
-> **[1:16](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-thunk-work?u=76281980&t=76)** So Thunks, in other words, are able to do pretty much the same things as components are able to do, dispatching actions, dispatching Thunks, and having read-only access to the store, but they give us a separate place to put that logic, which again, is the most important purpose for most of these React tools.
+> **[1:16](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-thunk-work?u=76281980&t=76)** So Thunks, in other words, are able to do pretty much the same things as components are able to do, dispatching actions, dispatching Thunks, and having read-only access to the store, but they give us a separate place to put that logic, which again, is the most important purpose for most of these [[React.js|React]] tools.
 >
 > **[1:38](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/how-does-redux-thunk-work?u=76281980&t=98)** So that's the basics of how Redux Thunk works on a higher level.
 >
@@ -3262,17 +3227,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Todos API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980)
+#### [The Todos API](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=0)** - [Instructor] Alright, so now that we've talked a lot about Redux Thunk and how it works, we're going to be incorporating Redux Thunk into our React and Redux application.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=0)** - [Instructor] Alright, so now that we've talked a lot about Redux Thunk and how it works, we're going to be incorporating Redux Thunk into our [[React.js|React]] and Redux application.
 >
 > **[0:11](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=11)** But in order to really do this and have a good demonstration, we're going to need a backend that is a server, as you see here, to send requests to and load data from.
 >
@@ -3290,7 +3254,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=63)** So in order to run this server, which we're going to need to do in order to actually make requests to it from our front end.
 >
-> **[1:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=70)** And by the way, if you want to learn more about this full-stack development stuff, feel free to check out one of my other courses on full-stack development.
+> **[1:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=70)** And by the way, if you want to learn more about this [[Full-Stack Development]] stuff, feel free to check out one of my other courses on full-stack development.
 >
 > **[1:18](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=78)** But, you'll probably be able to follow along just fine.
 >
@@ -3306,7 +3270,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=102)** And you should see, "Server listening on port 3000."
 >
-> **[1:44](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=104)** In case you see some sort of error about not having Express or missing some sort of package, you might need to install Express or just run npm install with the exercise files.
+> **[1:44](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=104)** In case you see some sort of error about not having Express or missing some sort of package, you might need to install Express or just run [[npm]] install with the exercise files.
 >
 > **[1:58](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/the-todos-api?u=76281980&t=118)** You can do either one, you can just run npm install, if you just checked out the starting state of the exercise files; or you can say npm install express, if you're following along and copying the code that's in server.js manually.
 >
@@ -3346,7 +3310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), node (3), [[npm]] (3), data (2), [[Full-Stack Development]] (2)
+> **Frameworks & Libraries:** [[npm]] (3), [[Full-Stack Development]] (2), [[React.js|React]] (1)
 > **CLI Commands:** make (5), node (3), npm (3), cd (1)
 > **File Paths:** server.js (4)
 > **Tools:** terminal (2), postman (2)
@@ -3355,8 +3319,7 @@ created: 2026-05-02
 > **Env Vars:** url (1), ctrl (1)
 > **Definitions:** is a  (2)
 
-#### Keeping track of the loading state
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/keeping-track-of-the-loading-state?u=76281980)
+#### [Keeping track of the loading state](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/keeping-track-of-the-loading-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3444,15 +3407,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (2), next (1)
 > **Code Identifiers:** loadingslice (5), loadingstarted (2), loadingcompleted (2), loadingfailed (2)
 > **File Paths:** loadingslice.js (1)
 > **CLI Commands:** make (1)
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading data with Thunks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980)
+#### [Loading data with Thunks](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3470,7 +3431,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=42)** So now that we've done that, make sure you add that in four places here.
 >
-> **[0:47](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=47)** The next thing we're going to need to do is go into this vite.config.js file and we're just going to need to tell our React Vite application that we want it to proxy requests to the server, right?
+> **[0:47](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=47)** The next thing we're going to need to do is go into this vite.config.js file and we're just going to need to tell our [[React.js|React]] Vite application that we want it to proxy requests to the server, right?
 >
 > **[1:01](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=61)** This will save us from having to specify the entire URL, right?
 >
@@ -3518,7 +3479,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=179)** So we're going to need to make a request.
 >
-> **[3:01](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=181)** So we're just going to open up a new terminal here and make sure that you change directories into your todo list app again, and you're going to want to run npm install axios here.
+> **[3:01](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=181)** So we're just going to open up a new terminal here and make sure that you change directories into your todo list app again, and you're going to want to run [[npm]] install axios here.
 >
 > **[3:12](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=192)** There we go.
 >
@@ -3534,7 +3495,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=242)** That's just the way the axios library works and does that.
 >
-> **[4:06](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=246)** So now what we're going to have to do is we're going to have to actually let the rest of the application know that those todos were loaded successfully.
+> **[4:06](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=246)** So now what we're going to have to do is we're going to have to actually let the [[Representational State Transfer (REST)|rest]] of the application know that those todos were loaded successfully.
 >
 > **[4:19](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/loading-data-with-thunks?u=76281980&t=259)** Now, we already created this loading slice, which we can use those actions in order to indicate what's going on.
 >
@@ -3648,7 +3609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), api (5), [[React.js|React]] (3), next (2), data (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** loadtodos (7), useeffect (4), usedispatch (3), loadingstarted (2), loadingcompleted (2)
 > **CLI Commands:** make (15), npm (2)
 > **File Paths:** vite.config.js (1), thunks.js (1), app.jsx (1)
@@ -3657,8 +3618,7 @@ created: 2026-05-02
 > **API Endpoints:** /api/todos (2)
 > **Cross-References:** previous video (1), go back to (1)
 
-#### Refactoring the to-dos reducer
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/refactoring-the-todos-reducer?u=76281980)
+#### [Refactoring the to-dos reducer](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/refactoring-the-todos-reducer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3766,7 +3726,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/refactoring-the-todos-reducer?u=76281980&t=304)** So, that should be all we need to do there.
 >
-> **[5:05](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/refactoring-the-todos-reducer?u=76281980&t=305)** Oh, and here we need to put a react fragment around this here.
+> **[5:05](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/refactoring-the-todos-reducer?u=76281980&t=305)** Oh, and here we need to put a [[React.js|react]] fragment around this here.
 >
 > **[5:09](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/refactoring-the-todos-reducer?u=76281980&t=309)** There we go.
 >
@@ -3800,7 +3760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (3), hit (2), data (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** loadingcompleted (5), addcase (2), extrareducers (1), useselector (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (1), in other words (1)
@@ -3809,8 +3769,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [josh (1)
 
-#### Using Thunks to create server resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-create-server-resources?u=76281980)
+#### [Using Thunks to create server resources](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-create-server-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3840,7 +3799,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-create-server-resources?u=76281980&t=110)** Let's just take a look at this thing.
 >
-> **[1:52](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-create-server-resources?u=76281980&t=112)** The endpoint for creating todos is a post endpoint and it wants us to send along the text in the request body for the newTodo, and it'll take care of the rest and send us back that newTodo so that we can update it accordingly.
+> **[1:52](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-create-server-resources?u=76281980&t=112)** The endpoint for creating todos is a post endpoint and it wants us to send along the text in the request body for the newTodo, and it'll take care of the [[Representational State Transfer (REST)|rest]] and send us back that newTodo so that we can update it accordingly.
 >
 > **[2:08](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-create-server-resources?u=76281980&t=128)** So here's what this is going to look like.
 >
@@ -3922,7 +3881,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-create-server-resources?u=76281980&t=390)** All right, so let's give this a try.
 >
-> **[6:31](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-create-server-resources?u=76281980&t=391)** And if you're using Codespaces, one final thing you're going to have to do is actually make the visibility of this other port public, right?
+> **[6:31](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-create-server-resources?u=76281980&t=391)** And if you're using [[Codespaces]], one final thing you're going to have to do is actually make the visibility of this other port public, right?
 >
 > **[6:40](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-create-server-resources?u=76281980&t=400)** You're just going to say Port Visibility, Public so that both your ports are public.
 >
@@ -3952,7 +3911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Codespaces]] (1)
 > **Code Identifiers:** todosslice (10), createtodo (8), newtodo (7), updatedtodos (6), todosupdated (5)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1), is a  (1)
@@ -3961,8 +3920,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Using Thunks to delete server resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-delete-server-resources?u=76281980)
+#### [Using Thunks to delete server resources](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-thunks-to-delete-server-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4080,15 +4038,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (2), data (1)
 > **Code Identifiers:** deletetodo (5), todoid (4), updatedtodos (3), createtodo (2), getstate (1)
 > **CLI Commands:** make (6)
 > **File Paths:** thunks.js (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Using Thunks to update server resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/challenge-using-thunks-to-update-server-resources?u=76281980)
+#### [Challenge: Using Thunks to update server resources](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/challenge-using-thunks-to-update-server-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4100,14 +4056,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** marktodoascompleted (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Using Thunks to update server resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-using-thunks-to-update-server-resources?u=76281980)
+#### [Solution: Using Thunks to update server resources](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-using-thunks-to-update-server-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4149,7 +4103,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-using-thunks-to-update-server-resources?u=76281980&t=122)** And now we can return updated to do, which is just going to have the effect of replacing that to do, the old to do with the updated one that is, otherwise we're just going to return the to do itself, right?
 >
-> **[2:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-using-thunks-to-update-server-resources?u=76281980&t=133)** We're going to leave the rest of the to doS alone that don't match the ID.
+> **[2:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-using-thunks-to-update-server-resources?u=76281980&t=133)** We're going to leave the [[Representational State Transfer (REST)|rest]] of the to doS alone that don't match the ID.
 >
 > **[2:19](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-using-thunks-to-update-server-resources?u=76281980&t=139)** And then of course we just had to dispatch to doS updated with those updated to dos.
 >
@@ -4185,11 +4139,11 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-using-thunks-to-update-server-resources?u=76281980&t=213)** As long as you understand the basic flow of how to use thunks alongside redux, that's just fine.
 >
-> **[3:39](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-using-thunks-to-update-server-resources?u=76281980&t=219)** So at this point we've used redux thunk to fully integrate our front-end React application with a server.
+> **[3:39](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/solution-using-thunks-to-update-server-resources?u=76281980&t=219)** So at this point we've used redux thunk to fully integrate our front-end [[React.js|React]] application with a server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), express (1), data (1), [[Representational State Transfer (REST)|Rest]] (1), front-end (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** dos (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
@@ -4202,12 +4156,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why do we need selectors?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-selectors?u=76281980)
+#### [Why do we need selectors?](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-selectors?u=76281980&t=0)** - [Instructor] All right. So the next React tool that we're going to take a look at here is something called selectors.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-selectors?u=76281980&t=0)** - [Instructor] All right. So the next [[React.js|React]] tool that we're going to take a look at here is something called selectors.
 >
 > **[0:06](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-selectors?u=76281980&t=6)** Now, we've already used selectors before in our React applications, but when we've used them with the used selector hook, we've just sort of hard-coded them.
 >
@@ -4241,13 +4194,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), next (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-selectors?u=76281980)
+#### [Creating selectors](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4301,7 +4253,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), express (1), hit (1)
 > **Code Identifiers:** gettodos (4), useselector (3), gettodosloading (2)
 > **CLI Commands:** make (5)
 > **File Paths:** selectors.js (1)
@@ -4309,8 +4260,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/combining-selectors?u=76281980)
+#### [Combining selectors](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/combining-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4364,13 +4314,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), business (1), next (1)
 > **Code Identifiers:** gettodos (5), getincompletetodos (3), getcompletedtodos (2), iscompleted (2), completedtodos (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the createSelector function
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-the-createselector-function?u=76281980)
+#### [Using the createSelector function](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/using-the-createselector-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4452,7 +4400,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), hit (1)
 > **Code Identifiers:** gettodos (6), createselector (5), getcompletedtodos (2), getincompletetodos (2), iscompleted (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -4465,14 +4412,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why do we need styled-components?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-styled-components?u=76281980)
+#### [Why do we need styled-components?](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-styled-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-styled-components?u=76281980&t=0)** - [Instructor] All right, so moving on to the next ecosystem tool.
 >
-> **[0:04](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-styled-components?u=76281980&t=4)** Now that we've taken a look at selectors, we're going to take a look at a tool that makes it easier to manage styles in our React applications.
+> **[0:04](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-styled-components?u=76281980&t=4)** Now that we've taken a look at selectors, we're going to take a look at a tool that makes it easier to manage styles in our [[React.js|React]] applications.
 >
 > **[0:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-styled-components?u=76281980&t=13)** And this is something called styled components.
 >
@@ -4492,23 +4438,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), application (3), next (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a styled-component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980)
+#### [Creating a styled-component](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=0)** - [Instructor] Alright, so now that we've discussed what styled-components are in a React application, let's get started with them.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=0)** - [Instructor] Alright, so now that we've discussed what styled-components are in a [[React.js|React]] application, let's get started with them.
 >
 > **[0:07](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=7)** And the first thing we're going to need to do here, of course, is install the styled-components package.
 >
 > **[0:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=13)** Alright, so you're going to want to open up a terminal and make sure you're inside the todo-list-app.
 >
-> **[0:20](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=20)** And then you're going to say npm install styled-components, and hit Enter.
+> **[0:20](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=20)** And then you're going to say [[npm]] install styled-components, and hit Enter.
 >
 > **[0:26](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=26)** And that should take only a second or two to install, and once it's installed, we should be able to use them.
 >
@@ -4524,13 +4469,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=74)** And now we just need to say styled.
 >
-> **[1:17](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=77)** And the way that this works is we can say styled., and follow that with whatever element, right, whatever normal HTML tag we want this thing to extend.
+> **[1:17](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=77)** And the way that this works is we can say styled., and follow that with whatever element, right, whatever normal [[HTML]] tag we want this thing to extend.
 >
 > **[1:28](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=88)** So if we want this to be a div, we can just say styled.div.
 >
 > **[1:33](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=93)** And this is going to be followed by backticks, which might look a little bit strange.
 >
-> **[1:38](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=98)** This is actually one of the lesser known pieces of JavaScript syntax that you'll find.
+> **[1:38](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=98)** This is actually one of the lesser known pieces of [[JavaScript]] syntax that you'll find.
 >
 > **[1:42](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/creating-a-styled-component?u=76281980&t=102)** But anyway, inside of that backtick string is where we can actually define our style.
 >
@@ -4572,7 +4517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), application (2), [[npm]] (1), hit (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[npm]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (5), npm (1), find (1)
 > **Prerequisites:** install (3)
 > **Env Vars:** html (1)
@@ -4581,8 +4526,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Passing props to styled-components
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/passing-props-to-styled-components?u=76281980)
+#### [Passing props to styled-components](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/passing-props-to-styled-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4590,7 +4534,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/passing-props-to-styled-components?u=76281980&t=0)** So now that we've seen the basics of creating, and using styled components, let's take a look at how we can pass props to styled components, right.
 >
-> **[0:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/passing-props-to-styled-components?u=76281980&t=10)** First of all, the reason why we might want to do this is if we wanted to be able to specify something about the appearance of our styled components in the regular react props way.
+> **[0:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/passing-props-to-styled-components?u=76281980&t=10)** First of all, the reason why we might want to do this is if we wanted to be able to specify something about the appearance of our styled components in the regular [[React.js|react]] props way.
 >
 > **[0:20](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/passing-props-to-styled-components?u=76281980&t=20)** So maybe we want our card container to be highlighted as important, we could say important equals true, or the equivalent in React would just be saying important.
 >
@@ -4644,7 +4588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Code Identifiers:** endswith (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -4654,8 +4598,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing React ecosystems
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-react-ecosystems?u=76281980)
+#### [Testing React ecosystems](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-react-ecosystems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4683,14 +4626,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing reducers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-reducers?u=76281980)
+#### [Testing reducers](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-reducers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4726,7 +4667,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-reducers?u=76281980&t=76)** Now you can obviously use any testing library that you're comfortable with here, and there are plenty of other good courses on this in the library if you want to check those out in more depth.
 >
-> **[1:28](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-reducers?u=76281980&t=88)** Such as Jest or React Testing Library.
+> **[1:28](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-reducers?u=76281980&t=88)** Such as Jest or [[React.js|React]] Testing Library.
 >
 > **[1:31](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-reducers?u=76281980&t=91)** But all that we're going to do here in order to test this loading slice, the loading slice reducers that we're looking at here, is create a simple function that asserts that something should be a given value.
 >
@@ -4864,15 +4805,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), next (1), node (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (5), node (1)
 > **Analogies:** for example (4), such as (2)
 > **Env Vars:** def (1)
 > **Definitions:** is called (1)
 > **Speakers:** - alright (1)
 
-#### Testing selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-selectors?u=76281980)
+#### [Testing selectors](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4880,7 +4820,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-selectors?u=76281980&t=6)** The good news here is that testing selectors is probably one of the easiest things to test.
 >
-> **[0:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-selectors?u=76281980&t=13)** It's in fact so easy that this could probably be used to teach test-driven development in the  first place, right?
+> **[0:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-selectors?u=76281980&t=13)** It's in fact so easy that this could probably be used to teach [[Test-Driven Development]] in the  first place, right?
 >
 > **[0:19](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-selectors?u=76281980&t=19)** So with selectors, all you really have to do is come up with a realistic starting value for the state and make sure that the value returned by the selector is what you would expect it to be, right?
 >
@@ -4956,7 +4896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1)
 > **Code Identifiers:** getcompletedtodos (7), iscompleted (3), testselectors (1), fakestate (1)
 > **CLI Commands:** make (3), node (2)
 > **File Paths:** selectors.test.js (1), srce/selectors.test.js (1)
@@ -4964,12 +4904,11 @@ created: 2026-05-02
 > **Env Vars:** moca (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing styled-components
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-styled-components?u=76281980)
+#### [Testing styled-components](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-styled-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-styled-components?u=76281980&t=0)** - [Instructor] Alright, so now we've seen how to test reducers, as well as how to test selectors in our React ecosystem applications.
+> **[0:00](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-styled-components?u=76281980&t=0)** - [Instructor] Alright, so now we've seen how to test reducers, as well as how to test selectors in our [[React.js|React]] ecosystem applications.
 >
 > **[0:09](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-styled-components?u=76281980&t=9)** So the last thing we're going to take a look at here is how to test styled components.
 >
@@ -5009,7 +4948,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-styled-components?u=76281980&t=127)** And we can test this in fact by just running our application.
 >
-> **[2:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-styled-components?u=76281980&t=130)** So let's just say npm run dev.
+> **[2:10](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-styled-components?u=76281980&t=130)** So let's just say [[npm]] run dev.
 >
 > **[2:13](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-styled-components?u=76281980&t=133)** And here, we'll also need to run the server here.
 >
@@ -5045,7 +4984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[React.js|React]] (2), [[npm]] (1), node (1), game (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[npm]] (1)
 > **CLI Commands:** make (2), npm (1), node (1), find (1)
 > **Code Identifiers:** getbackgroundcolor (2), endswith (1)
 > **File Paths:** server.js (1)
@@ -5058,8 +4997,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps for building with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980)
+#### [Next steps for building with React](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5067,13 +5005,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980&t=3)** We have covered a lot of ground in this course, and the first thing I want to do is thank you for joining me on this journey.
 >
-> **[0:09](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980&t=9)** By now, you've gained some incredibly valuable skills and the most important technologies in the React ecosystem, including tools for state management, side effects, styling, and testing.
+> **[0:09](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980&t=9)** By now, you've gained some incredibly valuable skills and the most important technologies in the [[React.js|React]] ecosystem, including tools for state management, side effects, styling, and testing.
 >
 > **[0:20](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980&t=20)** Well, you're probably wondering where to go next, and the absolute best next step is to take what you've learned and apply it to projects of your own.
 >
 > **[0:29](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980&t=29)** And if you have any questions or want to share your progress, feel free to post in the course's Q & A section.
 >
-> **[0:34](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980&t=34)** You can also connect with me on LinkedIn or follow me on X, formerly Twitter, where I regularly post software development-related tips and tutorials.
+> **[0:34](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980&t=34)** You can also connect with me on [[LinkedIn]] or follow me on X, formerly Twitter, where I regularly post [[Software Development]]-related tips and tutorials.
 >
 > **[0:43](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980&t=43)** And finally, if you're looking for other courses, I'd highly recommend checking out some of my other React-related courses in the LinkedIn Learning library.
 >
@@ -5083,7 +5021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), next (2), [[LinkedIn]] (2), management (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[LinkedIn]] (2), [[Software Development]] (1)
 > **Speakers:** - well (1)
 
 

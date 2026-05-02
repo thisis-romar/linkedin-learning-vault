@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud native networking with Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/cloud-native-networking-with-kubernetes?u=76281980)
+#### [Cloud native networking with Kubernetes](https://www.linkedin.com/learning/kubernetes-microservices-23787657/cloud-native-networking-with-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/cloud-native-networking-with-kubernetes?u=76281980&t=0)** - It's essential that you know how Kubernetes networking supports communication between microservices, especially if you're on a DevOps, DevSecOps, or platform engineering team.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/cloud-native-networking-with-kubernetes?u=76281980&t=0)** - It's essential that you know how [[Kubernetes]] networking supports communication between [[Microservices]], especially if you're on a [[DevOps]], [[DevSecOps]], or platform engineering team.
 >
 > **[0:12](https://www.linkedin.com/learning/kubernetes-microservices-23787657/cloud-native-networking-with-kubernetes?u=76281980&t=12)** Kubernetes is the go-to tool used to deploy and manage cloud-native software because it was built to support microservices.
 >
@@ -100,15 +99,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Microservices]] (4), [[DevOps]] (1), [[DevSecOps]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Microservices]] (4), [[DevOps]] (1), [[DevSecOps]] (1)
 > **Speakers:** - it (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/kubernetes-microservices-23787657/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/kubernetes-microservices-23787657/what-you-should-know?u=76281980&t=1)** - In this course, you'll learn more about the network inside a Kubernetes cluster, which was designed to support easy communication between microservices that make up working applications.
+> **[0:01](https://www.linkedin.com/learning/kubernetes-microservices-23787657/what-you-should-know?u=76281980&t=1)** - In this course, you'll learn more about the network inside a [[Kubernetes]] cluster, which was designed to support easy communication between [[Microservices]] that make up working applications.
 >
 > **[0:13](https://www.linkedin.com/learning/kubernetes-microservices-23787657/what-you-should-know?u=76281980&t=13)** In order to complete the hands-on activities in this course, you'll need access to a terminal application where you can run Unix commands, you need Docker installed and running, and a connection to the internet.
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Microservices]] (2), application (1), cloud (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Microservices]] (2)
 > **CLI Commands:** make (1), docker (1), kubectl (1)
 > **Tools:** terminal (1), command line (1)
 > **Env Vars:** cncf (1)
@@ -132,8 +130,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/kubernetes-microservices-23787657/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -155,11 +152,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/kubernetes-microservices-23787657/how-to-use-the-exercise-files?u=76281980&t=36)** Since some of the lessons in the course are driven through terminal commands, I start out each lesson in this directory, and you'll want to do the same.
 >
-> **[0:44](https://www.linkedin.com/learning/kubernetes-microservices-23787657/how-to-use-the-exercise-files?u=76281980&t=44)** I'm working on a Mac, but these commands will work on Linux and Windows.
+> **[0:44](https://www.linkedin.com/learning/kubernetes-microservices-23787657/how-to-use-the-exercise-files?u=76281980&t=44)** I'm working on a Mac, but these commands will work on [[Linux]] and [[Windows]].
 >
-> **[0:49](https://www.linkedin.com/learning/kubernetes-microservices-23787657/how-to-use-the-exercise-files?u=76281980&t=49)** The second option for accessing the course files is GitHub.
+> **[0:49](https://www.linkedin.com/learning/kubernetes-microservices-23787657/how-to-use-the-exercise-files?u=76281980&t=49)** The second option for accessing the course files is [[GitHub]].
 >
-> **[0:53](https://www.linkedin.com/learning/kubernetes-microservices-23787657/how-to-use-the-exercise-files?u=76281980&t=53)** Go to the LinkedIn learning org on GitHub and search for Kubernetes-microservices.
+> **[0:53](https://www.linkedin.com/learning/kubernetes-microservices-23787657/how-to-use-the-exercise-files?u=76281980&t=53)** Go to the [[LinkedIn]] learning org on GitHub and search for [[Kubernetes]]-[[Microservices]].
 >
 > **[1:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/how-to-use-the-exercise-files?u=76281980&t=60)** (keyboard clicking) The repo's full name is Kubernetes-microservices-3808182.
 >
@@ -185,16 +182,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monolithic vs. microservices architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980)
+#### [Monolithic vs. microservices architecture](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=0)** - [Instructor] Kubernetes is a container orchestration system built to run applications as containers in the cloud and enable communication between those containers.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=0)** - [Instructor] [[Kubernetes]] is a container orchestration system built to run applications as containers in the cloud and enable communication between those containers.
 >
-> **[0:11](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=11)** Kubernetes was developed in response to issues that arose when people deployed applications using physical servers and virtual machines, and it's helpful to understand some of this history in order to appreciate Kubernetes.
+> **[0:11](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=11)** Kubernetes was developed in response to issues that arose when people deployed applications using physical servers and [[Virtual Machines]], and it's helpful to understand some of this history in order to appreciate Kubernetes.
 >
-> **[0:25](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=25)** The first part of understanding this history is to learn about the difference between monolithic and microservices architecture.
+> **[0:25](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=25)** The first part of understanding this history is to learn about the difference between monolithic and [[Microservices]] architecture.
 >
 > **[0:33](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=33)** A monolithic architecture is when an application is developed in a single code base and deployed all at once.
 >
@@ -204,7 +200,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=56)** The benefits of a monolithic app are that they are easier for a team of software engineers to develop and test because all of the code is in one repository.
 >
-> **[1:06](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=66)** Another benefit of monoliths is that they have only a few points of entry, so they are easier to secure and they do not need complex networking enabled, so your company may not need a DevOps or platform team.
+> **[1:06](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=66)** Another benefit of monoliths is that they have only a few points of entry, so they are easier to secure and they do not need complex networking enabled, so your company may not need a [[DevOps]] or platform team.
 >
 > **[1:20](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=80)** The downside of a monolithic app is that it is difficult to keep up to date with all the application's dependencies and libraries.
 >
@@ -228,7 +224,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=169)** Microservices started to become popular in the mid 2010s when Docker, one of the first container technologies, was widely available to developers.
 >
-> **[2:59](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=179)** At the same time, cloud services that offered virtual machines like AWS's EC2 and Google's Compute Engine became available.
+> **[2:59](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=179)** At the same time, [[Cloud Services]] that offered virtual machines like AWS's [[Amazon EC2|EC2]] and [[Google]]'s Compute Engine became available.
 >
 > **[3:09](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980&t=189)** Once containers were mainstream and companies were migrating to the cloud, people began looking for ways to put as many containers as possible on one virtual machine to make the best use of computing resources and to save money.
 >
@@ -238,19 +234,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (8), application (7), [[Kubernetes]] (6), cloud (4), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Microservices]] (8), [[Kubernetes]] (6), [[Virtual Machines]] (2), [[DevOps]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** docker (1), aws (1), make (1)
 > **Env Vars:** aws (1), ec2 (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### History of application deployments
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980)
+#### [History of application deployments](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=0)** - [Instructor] In order to fully appreciate the power of Kubernetes, it's helpful to understand how people approached application deployment before the advent of containers and cloud native applications.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=0)** - [Instructor] In order to fully appreciate the power of [[Kubernetes]], it's helpful to understand how people approached application deployment before the advent of containers and cloud native applications.
 >
 > **[0:12](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=12)** So, let's take a look at the history of application deployments and why containers and container orchestration systems became popular.
 >
@@ -258,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=29)** This meant that someone was responsible for maintaining a physical server.
 >
-> **[0:34](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=34)** The computer itself was on the premises of the office building or at a data center, and they needed to install an application server, like Apache Tomcat or NGINX, to serve up their website when a request came in from the internet.
+> **[0:34](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=34)** The computer itself was on the premises of the [[Microsoft Office|office]] building or at a data center, and they needed to install an application server, like Apache Tomcat or NGINX, to serve up their website when a request came in from the internet.
 >
 > **[0:49](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=49)** In this era, system administrators or CIS admins would take the application code from the software engineers, compress it as a tarball, and send the tarball to an application server using FTP and install it with a bash script.
 >
@@ -266,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=76)** Monolithic applications were a good fit for this style of deployment.
 >
-> **[1:22](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=82)** In the mid-2000s, the age of virtualization or virtual machines arrived.
+> **[1:22](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=82)** In the mid-2000s, the age of virtualization or [[Virtual Machines]] arrived.
 >
 > **[1:27](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=87)** Virtual machines are when a developer runs more than one guest operating system on a single server.
 >
@@ -292,17 +287,17 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=189)** As such, you can run many more containers on a single server than you can VMs.
 >
-> **[3:15](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=195)** When container technology became popular, it was possible to break up parts of larger monolithic apps into smaller parts and deploy them as microservices.
+> **[3:15](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=195)** When container technology became popular, it was possible to break up parts of larger monolithic apps into smaller parts and deploy them as [[Microservices]].
 >
 > **[3:25](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=205)** At the time, Docker was only meant to run on a single server, and it only used commands, not configuration files, which made automation nearly impossible.
 >
 > **[3:37](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=217)** In order to solve the problem of only being able to use imperative commands to deploy and update containers on one server at a time, container orchestration tools were born.
 >
-> **[3:49](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=229)** Google donated the Kubernetes project to the CNCF in 2015, but at that time, it wasn't clear that it would become the most popular container management tool.
+> **[3:49](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=229)** [[Google]] donated the Kubernetes project to the CNCF in 2015, but at that time, it wasn't clear that it would become the most popular container management tool.
 >
 > **[4:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=240)** Other tools that emerged at that time were Mesos and Docker Swarm.
 >
-> **[4:05](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=245)** The rise of container orchestration tools allowed CIS admins and DevOps engineers to automate most of their deployments.
+> **[4:05](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=245)** The rise of container orchestration tools allowed CIS admins and [[DevOps]] engineers to automate most of their deployments.
 >
 > **[4:12](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=252)** And the declarative nature of Kubernetes means that many issues that occur in a cluster can be handled by Kubernetes itself, not a person.
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=279)** We won't cover it in this course, but I encourage you to take a look.
 >
-> **[4:43](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=283)** The key takeaway to understand from this history is that before the cloud, software applications were tied to the hardware they were running on, and that limited how much traffic applications could serve up at one time.
+> **[4:43](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=283)** The key takeaway to understand from this history is that before the cloud, software applications were tied to the [[Hardware]] they were running on, and that limited how much traffic applications could serve up at one time.
 >
 > **[4:56](https://www.linkedin.com/learning/kubernetes-microservices-23787657/history-of-application-deployments?u=76281980&t=296)** Now, we have a wide range of container orchestration tools to work with.
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), [[Virtual Machines]] (7), [[Kubernetes]] (5), [[Orchestration]] (5), cloud (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (7), [[Kubernetes]] (5), [[Microsoft Office|Office]] (1), [[Microservices]] (1), [[Google]] (1)
 > **Env Vars:** cis (4), cpu (3), nginx (1), ftp (1), cncf (1)
 > **CLI Commands:** docker (4), apache (1), nginx (1)
 > **Definitions:** is a  (3), means that (1)
@@ -329,12 +324,11 @@ created: 2026-05-02
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kubernetes network model
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/kubernetes-network-model?u=76281980)
+#### [Kubernetes network model](https://www.linkedin.com/learning/kubernetes-microservices-23787657/kubernetes-network-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/kubernetes-network-model?u=76281980&t=0)** - [Instructor] Let's take a look at the Kubernetes Network Model and its four requirements.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/kubernetes-network-model?u=76281980&t=0)** - [Instructor] Let's take a look at the [[Kubernetes]] Network Model and its four requirements.
 >
 > **[0:05](https://www.linkedin.com/learning/kubernetes-microservices-23787657/kubernetes-network-model?u=76281980&t=5)** Kubernetes was designed for its network layer to be pluggable, meaning that there can be different software packages that set up and control cluster networking.
 >
@@ -368,14 +362,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (8), traffic (1), api (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (8)
 > **Env Vars:** cni (4), api (1), tcp (1), udp (1), sctp (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Container Network Interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980)
+#### [Container Network Interface](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=10)** A quick review.
 >
-> **[0:12](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=12)** There are four issues that must be addressed in the Kubernetes network model.
+> **[0:12](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=12)** There are four issues that must be addressed in the [[Kubernetes]] network model.
 >
 > **[0:17](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=17)** Containers must be able to communicate with other containers in the same pod.
 >
@@ -395,7 +388,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=44)** A CNI plugin must conform to the specifications set out by the CNCF Container Network Interface Project.
 >
-> **[0:53](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=53)** Most CNIs are open-source software projects maintained by a community or a specific company.
+> **[0:53](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=53)** Most CNIs are [[Open-Source Software]] projects maintained by a community or a specific company.
 >
 > **[1:01](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=61)** According to the CNI spec, at a minimum, a container network needs to be able to assign IP addresses to pods, so that they can communicate with one another over a private network.
 >
@@ -407,11 +400,11 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=103)** Like Flannel, Cilium provides a layer three IPV4 network between multiple nodes in a cluster, but it can also extend that network to multiple Kubernetes clusters.
 >
-> **[1:54](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=114)** Enforce network policies, load balance between pods and external services, and it can be configured to be a service mesh.
+> **[1:54](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=114)** Enforce network policies, load balance between pods and external services, and it can be configured to be a service [[Mesh]].
 >
 > **[2:03](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=123)** You might be wondering, where can I find a list of CNI plugins?
 >
-> **[2:08](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=128)** And the answer is to look at the CNCF landscape, and zoom in on the cloud-native network section.
+> **[2:08](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=128)** And the answer is to look at the CNCF landscape, and [[Zoom]] in on the cloud-native network section.
 >
 > **[2:15](https://www.linkedin.com/learning/kubernetes-microservices-23787657/container-network-interface?u=76281980&t=135)** Here you'll see a list of CNCF-sponsored CNI plugins.
 >
@@ -429,7 +422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (5), next (2), traffic (1), open-source (1), [[Software Projects]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Open-Source Software]] (1), [[Mesh]] (1), [[Zoom]] (1)
 > **Env Vars:** cni (12), cncf (3), ipv4 (2), tcp (1)
 > **Prerequisites:** set up (3), install (2)
 > **CLI Commands:** make (1), find (1)
@@ -443,12 +436,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spin up a Minikube cluster in Windows, Mac, and Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980)
+#### [Spin up a Minikube cluster in Windows, Mac, and Linux](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=0)** - [Instructor] In the last chapter, I talked about the history of containers and container management tools and how they changed how developers deployed their applications and led to the popularity of microservices architecture.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=0)** - [Instructor] In the last chapter, I talked about the history of containers and container management tools and how they changed how developers deployed their applications and led to the popularity of [[Microservices]] architecture.
 >
 > **[0:13](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=13)** In this video, I'll show you how to install and start a mini cube cluster.
 >
@@ -458,17 +450,17 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=31)** If you see this list of commands, that means Docker is running.
 >
-> **[0:36](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=36)** Minicube is software that lets you run a Kubernetes cluster using just your computer, and it's a tool that can help you learn Kubernetes.
+> **[0:36](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=36)** Minicube is software that lets you run a [[Kubernetes]] cluster using just your computer, and it's a tool that can help you learn Kubernetes.
 >
 > **[0:45](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=45)** It's free because you are not required to pay a cloud provider for compute resources, but minicube is not fit for production clusters because it runs locally on your computer and lacks the security and networking capabilities offered by a cloud provider.
 >
 > **[1:03](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=63)** To get started with the installation process, find the get started page in the mini cube docs and then scroll down to find installation.
 >
-> **[1:15](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=75)** I'm going to show you how to install minicube on Linux, Windows, and Mac.
+> **[1:15](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=75)** I'm going to show you how to install minicube on [[Linux]], [[Windows]], and Mac.
 >
-> **[1:21](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=81)** You only need to follow instructions for your operating system and then you can skip the rest until we get to how to start Minicube.
+> **[1:21](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=81)** You only need to follow instructions for your operating system and then you can skip the [[Representational State Transfer (REST)|rest]] until we get to how to start Minicube.
 >
-> **[1:30](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=90)** All right, I am going to first install Minicube on Linux on an Ubuntu machine.
+> **[1:30](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=90)** All right, I am going to first install Minicube on Linux on an [[Ubuntu]] machine.
 >
 > **[1:37](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=97)** So on the installation page, I clicked over to the operating system Linux, and now I need to select my CPU architecture.
 >
@@ -502,7 +494,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=174)** All right, now I'm going to show you how to install minicube on Windows.
 >
-> **[2:59](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=179)** First thing I'm going to do is go to PowerShell and make sure I've got Docker installed and running.
+> **[2:59](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=179)** First thing I'm going to do is go to [[Powershell]] and make sure I've got Docker installed and running.
 >
 > **[3:05](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980&t=185)** Run the Docker command, see that?
 >
@@ -612,7 +604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (6), [[Kubernetes]] (3), [[Powershell]] (3), node (3)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (6), [[Kubernetes]] (3), [[Powershell]] (3), [[Microservices]] (1)
 > **CLI Commands:** docker (7), node (3), find (2), make (2), brew (1)
 > **Env Vars:** cpu (3), arm (2), x86 (1), rpm (1), exe (1)
 > **Prerequisites:** install (6)
@@ -621,8 +613,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), scroll down (1)
 > **Analogies:** just like (1)
 
-#### Install Calico
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980)
+#### [Install Calico](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,7 +623,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=14)** Minikube's default CNI plugin is called Kindnet.
 >
-> **[0:18](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=18)** Kindnet was created to be one of the simplest Kubernetes CNIs and its only capability is to assign IP addresses to the pods in your cluster.
+> **[0:18](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=18)** Kindnet was created to be one of the simplest [[Kubernetes]] CNIs and its only capability is to assign IP addresses to the pods in your cluster.
 >
 > **[0:28](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=28)** Kindnet is the default CNI for minikube and Kind, both tools that allow you to run a cluster on your computer.
 >
@@ -642,7 +633,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=58)** Minikube allows users to replace Kindnet with Calico, Cilium, or Flannel, and we're going to install Calico.
 >
-> **[1:05](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=65)** The Calico CNI plugin is a popular open source project that provides container networking, network security, and monitoring features for your network.
+> **[1:05](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=65)** The Calico CNI plugin is a popular open source project that provides container networking, [[Network Security]], and monitoring features for your network.
 >
 > **[1:15](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=75)** Calico's mascot is this cute Calico cat.
 >
@@ -670,11 +661,11 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=172)** The networking layer of Kubernetes was designed to be able to use lots of different kinds of CNI plugins, and in this video, you switched minikube's default CNI, Kindnet, with a more complex CNI, Calico.
 >
-> **[3:07](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=187)** We'll explore network policies later, but next up, I'll show you how to deploy the example microservices in your cluster.
+> **[3:07](https://www.linkedin.com/learning/kubernetes-microservices-23787657/install-calico?u=76281980&t=187)** We'll explore network policies later, but next up, I'll show you how to deploy the example [[Microservices]] in your cluster.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), traffic (1), [[Network Security]] (1), node (1), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Network Security]] (1), [[Microservices]] (1)
 > **Env Vars:** cni (9)
 > **Prerequisites:** install (5)
 > **CLI Commands:** cat (1), find (1), node (1)
@@ -682,8 +673,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Deploy the backend microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-backend-microservices?u=76281980)
+#### [Deploy the backend microservices](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-backend-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +711,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-backend-microservices?u=76281980&t=83)** Let's create the Learning Resources API first.
 >
-> **[1:26](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-backend-microservices?u=76281980&t=86)** Run the command, cubecontrolapply-FlearningresourcesAPI.Yaml and Kubernetes is telling us that the learning resources deployment and service was created.
+> **[1:26](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-backend-microservices?u=76281980&t=86)** Run the command, cubecontrolapply-FlearningresourcesAPI.Yaml and [[Kubernetes]] is telling us that the learning resources deployment and service was created.
 >
 > **[1:39](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-backend-microservices?u=76281980&t=99)** And let's do the same for the Echo server.
 >
@@ -751,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Kubernetes]] (2), next (2), node (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2)
 > **Env Vars:** api (3), cni (1), yaml (1), sbc (1)
 > **File Paths:** echoserver.yaml (1), cubecontrolapply-flearningresourcesapi.yaml (1), cubecontrolapply-fechoserver.yaml (1)
 > **Cross-References:** in the next (2), in the last (1)
@@ -759,8 +749,7 @@ created: 2026-05-02
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploy the frontend microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-frontend-microservice?u=76281980)
+#### [Deploy the frontend microservice](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-frontend-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,7 +761,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-frontend-microservice?u=76281980&t=18)** Let's take a look.
 >
-> **[0:20](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-frontend-microservice?u=76281980&t=20)** All right, we've got a few Kubernetes objects in here, and they're separated by these three horizontal lines.
+> **[0:20](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-frontend-microservice?u=76281980&t=20)** All right, we've got a few [[Kubernetes]] objects in here, and they're separated by these three horizontal lines.
 >
 > **[0:27](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-frontend-microservice?u=76281980&t=27)** The first thing we're going to create when we run this file is a namespace called frontend.
 >
@@ -818,13 +807,13 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-frontend-microservice?u=76281980&t=118)** Okay, it's time for a little celebration because your learning environment is now ready to go.
 >
-> **[2:05](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-frontend-microservice?u=76281980&t=125)** In this chapter, you installed minikube, you created a cluster and changed the CNI from Kindnet to Calico, and now you've got three microservices deployed and running in that cluster.
+> **[2:05](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-frontend-microservice?u=76281980&t=125)** In this chapter, you installed minikube, you created a cluster and changed the CNI from Kindnet to Calico, and now you've got three [[Microservices]] deployed and running in that cluster.
 >
 > **[2:17](https://www.linkedin.com/learning/kubernetes-microservices-23787657/deploy-the-frontend-microservice?u=76281980&t=137)** In the next chapter, I'll help you delve into the details of how Kubernetes uses different service types to allow pods to communicate with one another.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Kubernetes]] (2), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Microservices]] (1)
 > **CLI Commands:** kubectl (3)
 > **Cross-References:** in the next (2), in the last (1)
 > **File Paths:** frontend-ui.yaml (2)
@@ -837,14 +826,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of Kubernetes services
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980)
+#### [An overview of Kubernetes services](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=0)** - [Instructor] In the last chapter, you got your learning environment up and running.
 >
-> **[0:04](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=4)** In this chapter, I'll walk you through the finer details of how to understand Kubernetes service types.
+> **[0:04](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=4)** In this chapter, I'll walk you through the finer details of how to understand [[Kubernetes]] service types.
 >
 > **[0:11](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=11)** The Kubernetes service API is incredibly powerful because it can create a service that has a stable IP address and name.
 >
@@ -928,7 +916,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=316)** So, the LoadBalancer service is really cool because it's one of the quickest ways to get your application available on the internet.
 >
-> **[5:25](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=325)** If you're running Kubernetes with a cloud service like AWS, Google Cloud, or Azure, creating a LoadBalancer service will trigger the creation of one of those load balancers that's going to generate a public IP address.
+> **[5:25](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=325)** If you're running Kubernetes with a cloud service like AWS, [[Google Cloud Platform (GCP)|Google Cloud]], or [[Microsoft Azure|Azure]], creating a LoadBalancer service will trigger the creation of one of those load balancers that's going to generate a public IP address.
 >
 > **[5:40](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=340)** Any traffic sent to that IP address will then be routed into the cluster and load balanced across pods.
 >
@@ -936,13 +924,13 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=352)** ExternalName services are interesting because instead of load balancing traffic to pods inside a cluster, what the ExternalName service does is it sends traffic to a DNS name that's generally outside of your cluster.
 >
-> **[6:08](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=368)** This is useful because if some parts of your applications rely on databases or other microservices that are not inside your Kubernetes cluster, you can still send traffic there.
+> **[6:08](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=368)** This is useful because if some parts of your applications rely on [[Databases]] or other [[Microservices]] that are not inside your Kubernetes cluster, you can still send traffic there.
 >
 > **[6:22](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=382)** So, in this example, we have a service that is called the database-service.
 >
 > **[6:28](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=388)** It lives in the prod name space.
 >
-> **[6:31](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=391)** And when traffic is sent to that service, it is going to redirect that traffic to this DNS name, my.postgres.[database.com](https://database.com).
+> **[6:31](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=391)** And when traffic is sent to that service, it is going to redirect that traffic to this DNS name, my.[[PostgreSQL|postgres]].[database.com](https://database.com).
 >
 > **[6:41](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980&t=401)** It's this spec external name where you specify the DNS name where that traffic is going to go.
 >
@@ -964,7 +952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (17), [[Kubernetes]] (13), dns (6), api (3), next (3)
+> **Frameworks & Libraries:** [[Kubernetes]] (13), [[Microservices]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1), [[Databases]] (1)
 > **Env Vars:** dns (6), yaml (4), api (3), app (1), aws (1)
 > **CLI Commands:** node (3), make (2), aws (1)
 > **Definitions:** is a  (2), is called (1)
@@ -973,12 +961,11 @@ created: 2026-05-02
 > **URLs:** [database.com](https://database.com) (1)
 > **Ports:** port 3000 (1)
 
-#### Examine a ClusterIP service
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980)
+#### [Examine a ClusterIP service](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=0)** - [Narrator] So far in this course, you've learned about the history of application deployments, you've spun up a cluster locally on your computer, you've deployed some microservices, and you've learned about the different kinds of service types in Kubernetes.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=0)** - [Narrator] So far in this course, you've learned about the history of application deployments, you've spun up a cluster locally on your computer, you've deployed some [[Microservices]], and you've learned about the different kinds of service types in [[Kubernetes]].
 >
 > **[0:15](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=15)** Now, it's finally time for you to get some hands-on experience with the magic of Kubernetes internal networking.
 >
@@ -986,7 +973,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=29)** Let's go.
 >
-> **[0:32](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=32)** The goal of this video is that you are able to make an HTTP get request to the Learning Resources Service and see its JSON payload.
+> **[0:32](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=32)** The goal of this video is that you are able to make an HTTP get request to the Learning Resources Service and see its [[JSON]] payload.
 >
 > **[0:43](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=43)** Remember, cluster IP addresses can only be accessed from within a cluster.
 >
@@ -998,7 +985,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=75)** So here's the spec for our BusyBox pod.
 >
-> **[1:18](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=78)** BusyBox is known as the Swiss Army Knife of Embedded Linux, and it's a binary that contains a lot of well-known Unix tools like ack, date, whoamI, and the one we're using today, Wget.
+> **[1:18](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=78)** BusyBox is known as the Swiss Army Knife of Embedded [[Linux]], and it's a binary that contains a lot of well-known Unix tools like ack, date, whoamI, and the one we're using today, Wget.
 >
 > **[1:32](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=92)** It's a great tool for debugging and troubleshooting issues in a Linux environment.
 >
@@ -1030,7 +1017,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=161)** We're going to hopefully land on a command prompt.
 >
-> **[2:45](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=165)** So when I press enter, you see I am no longer at the command prompt where I have the cloud and LinkedIn in the name of the repository we're working in because now we're in the BusyBox pod.
+> **[2:45](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=165)** So when I press enter, you see I am no longer at the command prompt where I have the cloud and [[LinkedIn]] in the name of the repository we're working in because now we're in the BusyBox pod.
 >
 > **[2:57](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=177)** Cool.
 >
@@ -1062,7 +1049,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=261)** And so we're going to use the tool Wget.
 >
-> **[4:25](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=265)** And if you just use Wget and you don't pass in any flags, it will download whatever response it gets as an index.HTML file.
+> **[4:25](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=265)** And if you just use Wget and you don't pass in any flags, it will download whatever response it gets as an index.[[HTML]] file.
 >
 > **[4:35](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-clusterip-service?u=76281980&t=275)** That can be annoying when you are making multiple get requests 'cause you have to delete it.
 >
@@ -1162,7 +1149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (14), [[JSON]] (4), dns (4), [[Linux]] (3), prompt (3)
+> **Frameworks & Libraries:** [[Kubernetes]] (14), [[JSON]] (4), [[Linux]] (3), [[Microservices]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (7), wget (7), find (4), node (1)
 > **Env Vars:** http (5), json (4), dns (4), api (1), html (1)
 > **Tools:** terminal (4), command prompt (3)
@@ -1171,8 +1158,7 @@ created: 2026-05-02
 > **Ports:** port 3 (2)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Examine a NodePort service
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-nodeport-service?u=76281980)
+#### [Examine a NodePort service](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-nodeport-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,7 +1166,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-nodeport-service?u=76281980&t=9)** Remember, the NodePort service lets you expose a group of pods to the internet directly.
 >
-> **[0:15](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-nodeport-service?u=76281980&t=15)** When you create a NodePort service, Kubernetes opens a port on one or more of your nodes and it allows traffic in at a specific port number.
+> **[0:15](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-nodeport-service?u=76281980&t=15)** When you create a NodePort service, [[Kubernetes]] opens a port on one or more of your nodes and it allows traffic in at a specific port number.
 >
 > **[0:27](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-nodeport-service?u=76281980&t=27)** I'm going to show you how this works and we are going to be exploring the echo-service.
 >
@@ -1218,7 +1204,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-nodeport-service?u=76281980&t=124)** So wget -O-, and I'm going to paste that IP address.
 >
-> **[2:12](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-nodeport-service?u=76281980&t=132)** All right, so this is the JSON payload, you can expect with the echo-server.
+> **[2:12](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-nodeport-service?u=76281980&t=132)** All right, so this is the [[JSON]] payload, you can expect with the echo-server.
 >
 > **[2:18](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-nodeport-service?u=76281980&t=138)** It just echoes back information that was passed in through the GET request that you made.
 >
@@ -1288,7 +1274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[Kubernetes]] (5), data (2), traffic (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[JSON]] (1)
 > **CLI Commands:** make (7), node (7), wget (6), kubectl (4), find (1)
 > **API Endpoints:** get  (3)
 > **Env Vars:** json (1), yaml (1), dns (1)
@@ -1297,8 +1283,7 @@ created: 2026-05-02
 > **File Paths:** echo-server.yaml (1)
 > **UI Navigation:** scroll down (1)
 
-#### Examine a LoadBalancer service
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980)
+#### [Examine a LoadBalancer service](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1338,7 +1323,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=83)** It has a cluster IP, but you see this column, it says external IP and then pending.
 >
-> **[1:29](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=89)** Remember, if you're running Kubernetes with a cloud service like AWS Google Cloud or Azure, creating a load balancer service will trigger one of the cloud's load balancers to be created.
+> **[1:29](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=89)** Remember, if you're running [[Kubernetes]] with a cloud service like AWS [[Google Cloud Platform (GCP)|Google Cloud]] or [[Microsoft Azure|Azure]], creating a load balancer service will trigger one of the cloud's load balancers to be created.
 >
 > **[1:42](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=102)** That will then generate a public IP address.
 >
@@ -1370,7 +1355,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=198)** There's a lot of stuff in here, but you see these angle tags?
 >
-> **[3:23](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=203)** We have an anchor tag, h3, so this is HTML. Beautiful.
+> **[3:23](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=203)** We have an anchor tag, h3, so this is [[HTML]]. Beautiful.
 >
 > **[3:29](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=209)** Let's then query the DNS name, wget HTTP,
 >
@@ -1428,7 +1413,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=398)** These are some learning resources that I recommend if you're interested in Kubernetes networking.
 >
-> **[6:43](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=403)** Got some LinkedIn learning courses, some really good books, and then a couple of talks from KubeCon, and of course, TechWorld with Nana.
+> **[6:43](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=403)** Got some [[LinkedIn]] learning courses, some really good books, and then a couple of talks from KubeCon, and of course, TechWorld with Nana.
 >
 > **[6:52](https://www.linkedin.com/learning/kubernetes-microservices-23787657/examine-a-loadbalancer-service?u=76281980&t=412)** All right, we're going to stop this process with Control + C and we are at the end, beautiful.
 >
@@ -1438,7 +1423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), [[Kubernetes]] (4), cloud (3), data (2), node (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1), [[HTML]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** kubectl (7), wget (2), node (1), aws (1)
 > **Env Vars:** dns (4), aws (1), html (1), http (1)
 > **File Paths:** frontend-ui.yaml (2), busybox-iu.yaml (1), busybox-ui.yaml (1)
@@ -1447,8 +1432,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1), in the next (1)
 > **UI Navigation:** go to (1), scroll down (1)
 
-#### Challenge: Deploy and test a new microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/challenge-deploy-and-test-a-new-microservice?u=76281980)
+#### [Challenge: Deploy and test a new microservice](https://www.linkedin.com/learning/kubernetes-microservices-23787657/challenge-deploy-and-test-a-new-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1468,7 +1452,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), dns (1), next (1)
 > **CLI Commands:** nginx (3), make (1)
 > **Env Vars:** http (1), dns (1)
 > **File Paths:** challenge.yaml (1)
@@ -1476,8 +1459,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Deploy and test a new microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/solution-deploy-and-test-a-new-microservice?u=76281980)
+#### [Solution: Deploy and test a new microservice](https://www.linkedin.com/learning/kubernetes-microservices-23787657/solution-deploy-and-test-a-new-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1499,7 +1481,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/kubernetes-microservices-23787657/solution-deploy-and-test-a-new-microservice?u=76281980&t=51)** All right, so this is defining the pod set this deployment will create and under labels we see app:nginx, so that's the pod label app:nginx, and then it says add service type here.
 >
-> **[1:10](https://www.linkedin.com/learning/kubernetes-microservices-23787657/solution-deploy-and-test-a-new-microservice?u=76281980&t=70)** We are going to make this a Cluster IP service and the capitalization matters in Kubernetes.
+> **[1:10](https://www.linkedin.com/learning/kubernetes-microservices-23787657/solution-deploy-and-test-a-new-microservice?u=76281980&t=70)** We are going to make this a Cluster IP service and the capitalization matters in [[Kubernetes]].
 >
 > **[1:18](https://www.linkedin.com/learning/kubernetes-microservices-23787657/solution-deploy-and-test-a-new-microservice?u=76281980&t=78)** So make sure it's a capital C at the beginning and a capital I and a P at the end.
 >
@@ -1543,7 +1525,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/kubernetes-microservices-23787657/solution-deploy-and-test-a-new-microservice?u=76281980&t=220)** Hey, hey, there we go.
 >
-> **[3:42](https://www.linkedin.com/learning/kubernetes-microservices-23787657/solution-deploy-and-test-a-new-microservice?u=76281980&t=222)** So this is the HTML that nginx, serves up by default.
+> **[3:42](https://www.linkedin.com/learning/kubernetes-microservices-23787657/solution-deploy-and-test-a-new-microservice?u=76281980&t=222)** So this is the [[HTML]] that nginx, serves up by default.
 >
 > **[3:48](https://www.linkedin.com/learning/kubernetes-microservices-23787657/solution-deploy-and-test-a-new-microservice?u=76281980&t=228)** So I know I was able to access the nginx-service using the DNS name.
 >
@@ -1571,7 +1553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (8), [[Kubernetes]] (5), traffic (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[HTML]] (1)
 > **CLI Commands:** nginx (12), make (7), kubectl (2), find (1), wget (1)
 > **Env Vars:** dns (8), yaml (2), http (2), html (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1585,14 +1567,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding network policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/understanding-network-policies?u=76281980)
+#### [Understanding network policies](https://www.linkedin.com/learning/kubernetes-microservices-23787657/understanding-network-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/understanding-network-policies?u=76281980&t=0)** - [Presenter] In the last chapter, you got hands-on experience deploying and querying a cluster IP and node port service, and you learned in what scenarios you would use a load balancer and external name service.
 >
-> **[0:14](https://www.linkedin.com/learning/kubernetes-microservices-23787657/understanding-network-policies?u=76281980&t=14)** In this chapter, I'll provide an overview of some advanced techniques to manage networking in a Kubernetes cluster, including network policies, ingress, and service meshes.
+> **[0:14](https://www.linkedin.com/learning/kubernetes-microservices-23787657/understanding-network-policies?u=76281980&t=14)** In this chapter, I'll provide an overview of some advanced techniques to manage networking in a [[Kubernetes]] cluster, including network policies, ingress, and service meshes.
 >
 > **[0:25](https://www.linkedin.com/learning/kubernetes-microservices-23787657/understanding-network-policies?u=76281980&t=25)** First, network policies.
 >
@@ -1696,7 +1677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (10), [[Kubernetes]] (6), node (1), feature (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6)
 > **CLI Commands:** kubectl (2), node (1)
 > **Env Vars:** cni (2), yaml (1)
 > **Prerequisites:** configure (2)
@@ -1705,12 +1686,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Getting traffic into a cluster using Ingress
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980)
+#### [Getting traffic into a cluster using Ingress](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=0)** - [Instructor] Thus far, you've learned about networking inside a Kubernetes cluster via different kinds of services, and you've learned that you can fine-tune pod-to-pod communication using network policies.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=0)** - [Instructor] Thus far, you've learned about networking inside a [[Kubernetes]] cluster via different kinds of services, and you've learned that you can fine-tune pod-to-pod communication using network policies.
 >
 > **[0:13](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=13)** I've shown you a lot about the internal networking inside a cluster, and at some point in this course, you've probably wondered, how does traffic get inside a cluster?
 >
@@ -1732,7 +1712,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=82)** The software itself is developed separately and there are lots of options to choose from.
 >
-> **[1:27](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=87)** Therefore, ingress controllers are pluggable, and you must install them using Helm or YAML manifests.
+> **[1:27](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=87)** Therefore, ingress controllers are pluggable, and you must install them using [[Helm]] or YAML manifests.
 >
 > **[1:35](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=95)** Some common ingress controllers are Ingress-Nginx, Traefik, and HA Proxy.
 >
@@ -1746,7 +1726,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=123)** Here in the annotations, we're letting Kubernetes know that we are going to use Nginx-Ingress.
 >
-> **[2:11](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=131)** Down here at the rules, when this is created in our cluster, and Nginx-Ingress is running, when a request is made to [lil-microservices.com](https://lil-microservices.com), and it just has the forward slash on it.
+> **[2:11](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=131)** Down here at the rules, when this is created in our cluster, and Nginx-Ingress is running, when a request is made to [lil-[[Microservices]].com](https://lil-microservices.com), and it just has the forward slash on it.
 >
 > **[2:25](https://www.linkedin.com/learning/kubernetes-microservices-23787657/getting-traffic-into-a-cluster-using-ingress?u=76281980&t=145)** It's going to direct that request to our frontend UI.
 >
@@ -1760,7 +1740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (10), traffic (6), [[Microservices]] (2), [[Helm]] (1), node (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (10), [[Microservices]] (2), [[Helm]] (1)
 > **CLI Commands:** nginx (4), find (1), node (1)
 > **Env Vars:** http (2), yaml (2)
 > **Prerequisites:** set up (1), install (1)
@@ -1769,16 +1749,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### An overview of services meshes
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980)
+#### [An overview of services meshes](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=0)** - [Instructor] As your microservices architecture grows, you may arrive at a point where implementing network policies and managing traffic through ingress becomes overwhelming or you may need to enable communication between services running in a cluster in Google Cloud and others in Microsoft Azure.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=0)** - [Instructor] As your [[Microservices]] architecture grows, you may arrive at a point where implementing network policies and managing traffic through ingress becomes overwhelming or you may need to enable communication between services running in a cluster in [[Google Cloud Platform (GCP)|Google Cloud]] and others in [[Microsoft Azure]].
 >
-> **[0:19](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=19)** As the needs for your cluster grow, it may be time to consider using a service mesh.
+> **[0:19](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=19)** As the needs for your cluster grow, it may be time to consider using a service [[Mesh]].
 >
-> **[0:26](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=26)** A service mesh is software you can install in a Kubernetes cluster that will take over the internal network and handle all aspects of service discovery.
+> **[0:26](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=26)** A service mesh is software you can install in a [[Kubernetes]] cluster that will take over the internal network and handle all aspects of service discovery.
 >
 > **[0:36](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=36)** With a service mesh, you don't have to worry about creating and connecting your cluster IP, node port, load balancer, and external name services, but you do have to learn the ins and outs of a new system.
 >
@@ -1790,7 +1769,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=83)** There are also some paid service meshes like Kong and AWS App Mesh, Google Cloud's Anthos, and Microsoft Azure's Open Service Mesh.
 >
-> **[1:33](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=93)** One word of warning about service meshes.
+> **[1:33](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=93)** One [[Microsoft Word|word]] of warning about service meshes.
 >
 > **[1:36](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-services-meshes?u=76281980&t=96)** Although they're designed to help manage a complex microservices architecture, they also introduce an entirely new set of things you have to learn and manage, so make sure the trade-off is worth it.
 >
@@ -1798,7 +1777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (5), [[Microservices]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Microsoft Azure]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Mesh]] (5), [[Microservices]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Microsoft Azure]] (2), [[Kubernetes]] (1)
 > **CLI Commands:** node (1), aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Warnings:** warning (1)
@@ -1810,8 +1789,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thank you
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980)
+#### [Thank you](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1819,7 +1797,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=2)** Congratulations, you made it to the end.
 >
-> **[0:06](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=6)** One thing you learned about is the history of application deployments and the past problems Kubernetes has solved.
+> **[0:06](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=6)** One thing you learned about is the history of application deployments and the past problems [[Kubernetes]] has solved.
 >
 > **[0:12](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=12)** You learn that Kubernetes networking is built around four different service types.
 >
@@ -1835,11 +1813,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=64)** Here are the next steps to sharpen the skills that you have.
 >
-> **[1:07](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=67)** Take one, or all of the Linux Foundation Kubernetes exams.
+> **[1:07](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=67)** Take one, or all of the [[Linux]] Foundation Kubernetes exams.
 >
 > **[1:12](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=72)** There's the Certified Kubernetes Application Developer exam, the Certified Kubernetes Administrator Exam, or the Certified Kubernetes Security Specialist exam.
 >
-> **[1:23](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=83)** There are certification prep courses for these exams on LinkedIn learning.
+> **[1:23](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=83)** There are certification prep courses for these exams on [[LinkedIn]] learning.
 >
 > **[1:28](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980&t=88)** Now that you've completed this course, I hope you're excited to learn more.
 >
@@ -1849,7 +1827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), application (2), [[Security]] (2), next (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Linux]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
 

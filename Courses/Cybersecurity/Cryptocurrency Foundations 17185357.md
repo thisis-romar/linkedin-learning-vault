@@ -69,8 +69,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Is cryptocurrency the future of money?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980)
+#### [Is cryptocurrency the future of money?](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -80,17 +79,17 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=9)** Money emerged as a viable medium of exchange for a wide range of transactions, eliminating the limitations of bartering.
 >
-> **[0:18](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=18)** Fundamentally, money can take many forms as long as a community accepts it as a form of payment.
+> **[0:18](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=18)** Fundamentally, money can take many [[Forms]] as long as a community accepts it as a form of payment.
 >
 > **[0:26](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=26)** Today, the exchange of money is facilitated by a wide range of mechanisms which span from basic notes and coins to checks, credit cards, and apps.
 >
 > **[0:36](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=36)** Common to all these is a required relationship with financial institutions and governments.
 >
-> **[0:43](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=43)** However, since 2009, a new form of money, cryptocurrency, has emerged that breaks with conventional monetary practices and requires no intermediary to function.
+> **[0:43](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=43)** However, since 2009, a new form of money, [[Cryptocurrency]], has emerged that breaks with conventional monetary practices and requires no intermediary to function.
 >
 > **[0:56](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=56)** It's money in a digital form that enables transactions directly between individuals and to and from all manner of entities.
 >
-> **[1:06](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=66)** We're arguably in a monetary revolution commensurate with a world undergoing a digital transformation.
+> **[1:06](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=66)** We're arguably in a monetary revolution commensurate with a world undergoing a [[Digital Transformation]].
 >
 > **[1:14](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980&t=74)** Hi, I'm Dr. Jonathan Reichental, founder, professor, and author.
 >
@@ -115,12 +114,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The current world of cryptocurrency
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980)
+#### [The current world of cryptocurrency](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=0)** - The current state of cryptocurrency, while having come a long way, continues to have a certain Wild West feel to it.
+> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=0)** - The current state of [[Cryptocurrency]], while having come a long way, continues to have a certain Wild West feel to it.
 >
 > **[0:08](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=8)** A high number of people and organizations have jumped in to get a piece of the action.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=60)** In the few short years since the original crypto currency, Bitcoin, emerged, thousands of alternative cryptocurrencies, or alt coins, have surfaced.
 >
-> **[1:10](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=70)** People are using these alt coins to support, manage, buy and sell all types of products and services.
+> **[1:10](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=70)** People are using these alt coins to support, manage, buy and sell all types of [[Microsoft Products|products]] and services.
 >
 > **[1:18](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=78)** Cryptos are also being used simply as investment assets.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=185)** While Bitcoin is so often considered synonymous with cryptocurrency, and for good reason, it's by far the largest of the bunch, the alt coin ecosystem has grown to thousands in just a few years.
 >
-> **[3:19](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=199)** Ethereum is the second largest, and a distant second in terms of market capitalization.
+> **[3:19](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=199)** [[Ethereum]] is the second largest, and a distant second in terms of market capitalization.
 >
 > **[3:26](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=206)** After Bitcoin and Ethereum, there are thousands of alt coins, with names such as Litecoin, Ripple, Cardano, Polkadot, and Stellar.
 >
@@ -192,7 +190,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=294)** This would enable individuals to have an ownership stake in internet solutions and greater power over their personal data.
 >
-> **[5:03](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=303)** Web3, if it comes to pass, would run on blockchain technology, the underlying system that makes cryptos function.
+> **[5:03](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=303)** Web3, if it comes to pass, would run on [[Blockchain]] technology, the underlying system that makes cryptos function.
 >
 > **[5:12](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980&t=312)** Finally, the qualities that make crypto so compelling, such as anonymity, an absence of oversight, also provides it with the perfect use cases for criminals.
 >
@@ -210,14 +208,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (3), [[Cryptocurrency]] (2), [[Microsoft Products|Products]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Ethereum]] (3), [[Cryptocurrency]] (2), [[Microsoft Products|Products]] (1), [[Blockchain]] (1)
 > **Analogies:** such as (5), for example (2)
 > **CLI Commands:** make (2)
 > **Tools:** notion (1)
 > **Speakers:** - the (1)
 
-#### Bitcoin and the double-spend problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980)
+#### [Bitcoin and the double-spend problem](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -225,7 +222,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=5)** For example, what's a double-spend problem?
 >
-> **[0:07](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=7)** And is Bitcoin the same as blockchain?
+> **[0:07](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=7)** And is Bitcoin the same as [[Blockchain]]?
 >
 > **[0:11](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=11)** Let's clear some of this up right away.
 >
@@ -281,11 +278,11 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=181)** These distributed ledgers would later become known as blockchains.
 >
-> **[3:06](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=186)** In addition, they would incorporate the use of cryptography and a few other tricks to enable the magic to work.
+> **[3:06](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=186)** In addition, they would incorporate the use of [[Cryptography]] and a few other tricks to enable the magic to work.
 >
 > **[3:14](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=194)** From day one, Bitcoin succeeded in solving the double-spend problem using Satoshi's cryptographic blockchain design.
 >
-> **[3:23](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=203)** Cryptocurrency was born, and Bitcoin became a model for the thousands of cryptos to follow.
+> **[3:23](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=203)** [[Cryptocurrency]] was born, and Bitcoin became a model for the thousands of cryptos to follow.
 >
 > **[3:31](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/bitcoin-and-the-double-spend-problem?u=76281980&t=211)** It also created the opportunity for blockchain itself to be an independent enabler of innovation in a wide range of applications.
 >
@@ -295,25 +292,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), [[Cryptography]] (2), [[Cryptocurrency]] (1), next (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Cryptography]] (2), [[Cryptocurrency]] (1)
 > **Definitions:** is called (1), is a  (1), in other words (1), known as (1)
 > **Cross-References:** next video (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - it (1)
 
-#### Blockchain: The power behind cryptocurrencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/blockchain-the-power-behind-cryptocurrencies?u=76281980)
+#### [Blockchain: The power behind cryptocurrencies](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/blockchain-the-power-behind-cryptocurrencies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/blockchain-the-power-behind-cryptocurrencies?u=76281980&t=0)** - Blockchain, it's a term we've all been hearing about for a few years.
+> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/blockchain-the-power-behind-cryptocurrencies?u=76281980&t=0)** - [[Blockchain]], it's a term we've all been hearing about for a few years.
 >
-> **[0:05](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/blockchain-the-power-behind-cryptocurrencies?u=76281980&t=5)** It's clear now that it's not the same thing as Bitcoin or cryptocurrency.
+> **[0:05](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/blockchain-the-power-behind-cryptocurrencies?u=76281980&t=5)** It's clear now that it's not the same thing as Bitcoin or [[Cryptocurrency]].
 >
 > **[0:10](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/blockchain-the-power-behind-cryptocurrencies?u=76281980&t=10)** Blockchain is the technology that most cryptocurrencies use to enable them.
 >
-> **[0:16](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/blockchain-the-power-behind-cryptocurrencies?u=76281980&t=16)** The Cardano crypto, for example, is an application running on blockchain technology in a similar way as a spreadsheet application runs on Microsoft Windows or the Apple macOS.
+> **[0:16](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/blockchain-the-power-behind-cryptocurrencies?u=76281980&t=16)** The Cardano crypto, for example, is an application running on blockchain technology in a similar way as a spreadsheet application runs on [[Microsoft]] [[Windows]] or the Apple macOS.
 >
 > **[0:29](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/blockchain-the-power-behind-cryptocurrencies?u=76281980&t=29)** Understanding how blockchain works is not a requirement to use cryptocurrencies, the same way as driving a car doesn't require us to know how the engine works.
 >
@@ -391,22 +387,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (16), application (2), database (2), data (2), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (16), [[Cryptocurrency]] (1), [[Microsoft]] (1), [[Windows]] (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Analogies:** for example (2)
 > **Code Identifiers:** macos (1)
 > **Speakers:** - blockchain (1)
 
-#### Crypto tokens and tokenomics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980)
+#### [Crypto tokens and tokenomics](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=0)** - Until now, I've been discussing cryptocurrencies, such as Bitcoin and Litecoin, which are crypto assets created by a blockchain and are used as a medium of exchange, a currency.
+> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=0)** - Until now, I've been discussing cryptocurrencies, such as Bitcoin and Litecoin, which are crypto assets created by a [[Blockchain]] and are used as a medium of exchange, a currency.
 >
 > **[0:13](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=13)** In other words, they are used to buy things and, like money, can be a store of value.
 >
-> **[0:19](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=19)** Crypto tokens, or just tokens, are another blockchain-based crypto asset.
+> **[0:19](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=19)** Crypto [[Tokens]], or just tokens, are another blockchain-based crypto asset.
 >
 > **[0:24](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=24)** They can also be a medium of exchange and store a value, but they offer much more.
 >
@@ -420,7 +415,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=64)** One of the most popular new types of tokens are non-fungible tokens or NFTs.
 >
-> **[1:10](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=70)** These tokens are denoted by an entry in a blockchain, such as Ethereum, that proves ownership of an asset.
+> **[1:10](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=70)** These tokens are denoted by an entry in a blockchain, such as [[Ethereum]], that proves ownership of an asset.
 >
 > **[1:17](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=77)** For example, if a person purchases a virtually-signed digital picture, a record in Ethereum will be created that captures all relevant ownership data.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=117)** A popular type of token used to be an initial coin offering or ICO.
 >
-> **[2:03](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=123)** ICOs enabled blockchain-based startups to issue utility tokens for usage in their products as a means to raise capital.
+> **[2:03](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=123)** ICOs enabled blockchain-based startups to issue utility tokens for usage in their [[Microsoft Products|products]] as a means to raise capital.
 >
 > **[2:12](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=132)** An investor who bought them relied on the value of their tokens increasing as they were used and traded on an exchange.
 >
@@ -460,13 +455,13 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=237)** These are issued to users to represent voting rights that can be exercised to influence the operations and future development of a DeFi solution.
 >
-> **[4:07](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=247)** Other DeFi tokens include fee tokens, which are used to facilitate banking fees, and collateral tokens, which supply and support loan liquidity.
+> **[4:07](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=247)** Other DeFi tokens include fee tokens, which are used to facilitate [[Banking]] fees, and collateral tokens, which supply and support loan liquidity.
 >
 > **[4:18](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=258)** The characteristics of how supply and demand of cryptocurrencies and tokens function is known as tokenomics.
 >
 > **[4:26](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=266)** Understanding tokenomics can help you determine what role you might play as a consumer, developer, investor or business leader.
 >
-> **[4:35](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=275)** For example, when considering a cryptocurrency, what questions might you ask?
+> **[4:35](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=275)** For example, when considering a [[Cryptocurrency]], what questions might you ask?
 >
 > **[4:40](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/crypto-tokens-and-tokenomics?u=76281980&t=280)** You might consider if there are a finite or infinite number of cryptos being issued.
 >
@@ -484,7 +479,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (18), [[Blockchain]] (7), [[Ethereum]] (3), [[Security]] (3), [[Cryptocurrency]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (18), [[Blockchain]] (7), [[Ethereum]] (3), [[Cryptocurrency]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (6), for example (5), picture (1)
 > **Env Vars:** ico (2), kyc (1), aml (1)
 > **Definitions:** in other words (1), known as (1)
@@ -496,12 +491,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Methods of cryptocurrency creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980)
+#### [Methods of cryptocurrency creation](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=0)** - When you hear about cryptos, it's likely a reference to Bitcoin or Ethereum, and for good reason too.
+> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=0)** - When you hear about cryptos, it's likely a reference to Bitcoin or [[Ethereum]], and for good reason too.
 >
 > **[0:08](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=8)** In 2021, although there were an estimated 15,000 cryptos in circulation, Bitcoin and Ethereum's combined market cap was 60% of the entire crypto market.
 >
@@ -523,13 +517,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=74)** One of the reasons why so many altcoins exist is that they're so easy to create.
 >
-> **[1:20](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=80)** Bitcoin, for example, is built as open-source software, which means that anyone can take the original code, modify it, and use it as they see fit.
+> **[1:20](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=80)** Bitcoin, for example, is built as [[Open-Source Software]], which means that anyone can take the original code, modify it, and use it as they see fit.
 >
-> **[1:31](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=91)** Open-source blockchains can also be hard-forked, which means a new blockchain can be created from an existing live crypto, thus creating a completely new altcoin.
+> **[1:31](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=91)** Open-source blockchains can also be hard-forked, which means a new [[Blockchain]] can be created from an existing live crypto, thus creating a completely new altcoin.
 >
 > **[1:44](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=104)** Cryptos can also be easily created to run on top of existing blockchains.
 >
-> **[1:51](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=111)** Why might you want to create your own cryptocurrency?
+> **[1:51](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=111)** Why might you want to create your own [[Cryptocurrency]]?
 >
 > **[1:55](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=115)** Imagine the bragging rights.
 >
@@ -557,7 +551,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=189)** The harder way, subjectively, is just to take the original Bitcoin open-source code and then copy and modify it.
 >
-> **[3:18](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=198)** You can get the code from multiple repositories including GitHub.
+> **[3:18](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=198)** You can get the code from multiple repositories including [[GitHub]].
 >
 > **[3:23](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=203)** To make modifications to the code will require programming skills.
 >
@@ -565,7 +559,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=215)** Many such as WalletBuilders and Cryptolife have sprung up over the last few years.
 >
-> **[3:42](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=222)** Crypto tokens, a crypto that runs on an existing blockchain such as Ethereum, EOS, and Tezos can be easily created using a service such as [rally.io](https://rally.io) or [createmytoken.com](https://createmytoken.com).
+> **[3:42](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=222)** Crypto [[Tokens]], a crypto that runs on an existing blockchain such as Ethereum, EOS, and Tezos can be easily created using a service such as [rally.io](https://rally.io) or [createmytoken.com](https://createmytoken.com).
 >
 > **[3:57](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980&t=237)** These services tend to be less flexible because you are limited to the capabilities they offer.
 >
@@ -587,7 +581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (6), [[Cryptocurrency]] (4), open-source (3), [[Blockchain]] (3), power (1)
+> **Frameworks & Libraries:** [[Ethereum]] (6), [[Cryptocurrency]] (4), [[Blockchain]] (3), [[Open-Source Software]] (1), [[GitHub]] (1)
 > **Analogies:** such as (4), for example (3), imagine (3)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [rally.io](https://rally.io) (1), [createmytoken.com](https://createmytoken.com) (1)
@@ -596,12 +590,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Exercise Files:** source code (1)
 
-#### What is the role of crypto wallets?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980)
+#### [What is the role of crypto wallets?](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=0)** - To participate in a blockchain network, whether it's for cryptocurrencies or crypto tokens, requires the use of the cryptographic system of public and private keys.
+> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=0)** - To participate in a [[Blockchain]] network, whether it's for cryptocurrencies or crypto [[Tokens]], requires the use of the cryptographic system of public and private keys.
 >
 > **[0:13](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=13)** This key pair is the way transactions stored in a blockchain are associated with and accessible by you.
 >
@@ -619,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=51)** Your private key, also a long series of letters and numbers, is for digitally signing transactions and a way to prove ownership or unlock your transactions.
 >
-> **[1:02](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=62)** It's the equivalent of a password and gives you access to spend your cryptocurrency.
+> **[1:02](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=62)** It's the equivalent of a password and gives you access to spend your [[Cryptocurrency]].
 >
 > **[1:08](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=68)** Unlike a public key, your private key is secret and must always remain that way.
 >
@@ -653,11 +646,11 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=148)** It's more likely that your wallet will take some electronic form.
 >
-> **[2:33](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=153)** Many people choose hardware wallets.
+> **[2:33](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=153)** Many people choose [[Hardware]] wallets.
 >
 > **[2:35](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=155)** These are physical devices that are typically portable.
 >
-> **[2:39](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=159)** They take many forms with a thumb drive-type form factor being popular.
+> **[2:39](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=159)** They take many [[Forms]] with a thumb drive-type form factor being popular.
 >
 > **[2:44](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/what-is-the-role-of-crypto-wallets?u=76281980&t=164)** Access to the device can be protected by encryption and passcodes.
 >
@@ -691,14 +684,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (3), [[Cryptocurrency]] (3), [[Tokens]] (2), [[Security]] (2), business (2)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Cryptocurrency]] (3), [[Tokens]] (2), [[Hardware]] (1), [[Forms]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - to (1)
 
-#### The cryptocurrency mining process
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-cryptocurrency-mining-process?u=76281980)
+#### [The cryptocurrency mining process](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-cryptocurrency-mining-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,7 +704,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-cryptocurrency-mining-process?u=76281980&t=24)** All accounts are kept up to date.
 >
-> **[0:27](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-cryptocurrency-mining-process?u=76281980&t=27)** Since cryptocurrency is entirely digital and there is no central management, we need another process to ensure that all transactions are managed and kept current.
+> **[0:27](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-cryptocurrency-mining-process?u=76281980&t=27)** Since [[Cryptocurrency]] is entirely digital and there is no central management, we need another process to ensure that all transactions are managed and kept current.
 >
 > **[0:38](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-cryptocurrency-mining-process?u=76281980&t=38)** This is where mining plays an essential role.
 >
@@ -722,7 +714,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-cryptocurrency-mining-process?u=76281980&t=48)** And second, it's a way in which new cryptocurrency is introduced.
 >
-> **[0:53](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-cryptocurrency-mining-process?u=76281980&t=53)** Mining is a role that anyone can choose to perform in a blockchain network.
+> **[0:53](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-cryptocurrency-mining-process?u=76281980&t=53)** Mining is a role that anyone can choose to perform in a [[Blockchain]] network.
 >
 > **[0:58](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-cryptocurrency-mining-process?u=76281980&t=58)** Most don't; it's a niche responsibility on most blockchains.
 >
@@ -782,23 +774,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (5), power (3), [[Cryptocurrency]] (2), next (2), management (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Cryptocurrency]] (2)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
 
-#### Mining: Choosing the right hardware and software
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980)
+#### [Mining: Choosing the right hardware and software](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=0)** - Technically, anyone with a computing device connected to the internet can participate in cryptocurrency mining.
+> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=0)** - Technically, anyone with a computing device connected to the internet can participate in [[Cryptocurrency]] mining.
 >
 > **[0:08](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=8)** However, as a cryptocurrency gets more popular and more miners join, to ensure sufficient effort is expended during proof of work the computer-processing requirements increase.
 >
-> **[0:21](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=21)** This means that most people with an average computer, say a business laptop, will likely be outprocessed by much more powerful hardware.
+> **[0:21](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=21)** This means that most people with an average computer, say a business laptop, will likely be outprocessed by much more powerful [[Hardware]].
 >
 > **[0:31](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=31)** It's always possible that a lesser computer will get lucky, but this likelihood shrinks over time.
 >
@@ -810,9 +801,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=66)** Since the incentive for miners is to win the hashing problem and pocket the crypto winnings, it stands to reason that over time miners will introduce more and more powerful computers to the network.
 >
-> **[1:19](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=79)** For a participant to consider being a standalone blockchain miner the basic calculation requires that the money that can be earned from mining must be higher than the combined cost of purchasing hardware, maintenance, and paying for ongoing electricity needs.
+> **[1:19](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=79)** For a participant to consider being a standalone [[Blockchain]] miner the basic calculation requires that the money that can be earned from mining must be higher than the combined cost of purchasing hardware, maintenance, and paying for ongoing electricity needs.
 >
-> **[1:37](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=97)** The good news is that although the big-name cryptos, such as Bitcoin and Ethereum, may be out of reach for an individual to mine, with so many altcoins even those with a home computer can still mine and get crypto rewards.
+> **[1:37](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=97)** The good news is that although the big-name cryptos, such as Bitcoin and [[Ethereum]], may be out of reach for an individual to mine, with so many altcoins even those with a home computer can still mine and get crypto rewards.
 >
 > **[1:54](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/mining-choosing-the-right-hardware-and-software?u=76281980&t=114)** The basic requirements to be a miner are some computing hardware, the blockchain software, and an internet connection.
 >
@@ -884,7 +875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (7), [[Cryptocurrency]] (5), power (3), [[Blockchain]] (2), business (1)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Cryptocurrency]] (5), [[Blockchain]] (2), [[Ethereum]] (1)
 > **Definitions:** means that (1), is an  (1), stands for (1), is a  (1)
 > **Analogies:** for example (3), such as (1)
 > **Prerequisites:** setup (2), you'll need (2)
@@ -892,8 +883,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - technically (1)
 
-#### The challenges of cryptomining
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980)
+#### [The challenges of cryptomining](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,7 +903,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=45)** As Bitcoin shot up in value, more miners jumped into the mix.
 >
-> **[0:50](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=50)** And as expected, the cryptocurrency difficulty increased too.
+> **[0:50](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=50)** And as expected, the [[Cryptocurrency]] difficulty increased too.
 >
 > **[0:54](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=54)** More and more computer processing power would be needed to have any chance of earning the Bitcoin incentive.
 >
@@ -953,13 +943,13 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=193)** The answer to eliminating the energy problem lies in alternatives to the proof of work based consensus mechanism.
 >
-> **[3:21](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=201)** Ethereum, the second most popular crypto, is well advanced in preparing to migrate to a proof of stake system.
+> **[3:21](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=201)** [[Ethereum]], the second most popular crypto, is well advanced in preparing to migrate to a proof of stake system.
 >
 > **[3:29](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=209)** Simply stated, proof of stake is a process where crypto owners, called validators, offer substantial cryptos as collateral, called staking, for the chance to validate blocks.
 >
 > **[3:43](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=223)** Validators are selected randomly to mine a block and receive a crypto reward.
 >
-> **[3:50](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=230)** No doubt crypto and blockchain technology will continue to evolve and innovate in the years ahead.
+> **[3:50](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=230)** No doubt crypto and [[Blockchain]] technology will continue to evolve and innovate in the years ahead.
 >
 > **[3:57](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-of-cryptomining?u=76281980&t=237)** This will mean greater efficiencies and optimizations.
 >
@@ -991,7 +981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptocurrency]] (4), power (2), [[Blockchain]] (2), cloud (1), [[Ethereum]] (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (4), [[Blockchain]] (2), [[Ethereum]] (1)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
@@ -1001,14 +991,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to buy and sell a cryptocurrency
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980)
+#### [How to buy and sell a cryptocurrency](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980&t=0)** - Yes, it's possible to buy pizza with cryptocurrency.
+> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980&t=0)** - Yes, it's possible to buy pizza with [[Cryptocurrency]].
 >
-> **[0:04](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980&t=4)** In fact, there are thousands of retailers worldwide that accept crypto for all types of products and services.
+> **[0:04](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980&t=4)** In fact, there are thousands of retailers worldwide that accept crypto for all types of [[Microsoft Products|products]] and services.
 >
 > **[0:12](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980&t=12)** So sure.
 >
@@ -1026,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980&t=63)** If you already have an account with a provider that supports crypto, then buying something like Bitcoin or Ether can be as easy as buying a stock or some foreign fiat currency, a government backed money such as the Euro.
 >
-> **[1:18](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980&t=78)** On the other hand, since so many banks and financial institutions are not currently supporting cryptocurrencies, you can choose to engage with a wide variety of providers outside of the banking sector.
+> **[1:18](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980&t=78)** On the other hand, since so many banks and financial institutions are not currently supporting cryptocurrencies, you can choose to engage with a wide variety of providers outside of the [[Banking]] sector.
 >
 > **[1:31](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980&t=91)** Coinbase, Binance and Bitstamp are examples of credible crypto exchanges.
 >
@@ -1088,7 +1077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Microsoft Products|Products]] (1), management (1), [[Banking]] (1), hit (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Microsoft Products|Products]] (1), [[Banking]] (1)
 > **Analogies:** such as (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1096,8 +1085,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - yes (1)
 
-#### Cryptocurrency investing techniques and tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980)
+#### [Cryptocurrency investing techniques and tools](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1111,13 +1099,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=25)** A few bold speculators got really lucky.
 >
-> **[0:29](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=29)** Buying and keeping cryptos for a long period of time, something we know now is hodling, the word holding with a typo, has resulted in some remarkable gains.
+> **[0:29](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=29)** Buying and keeping cryptos for a long period of time, something we know now is hodling, the [[Microsoft Word|word]] holding with a typo, has resulted in some remarkable gains.
 >
 > **[0:39](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=39)** Equally though, outside of a few high performing crypto, many hodlers are seeing no return or even losing in their strategy.
 >
 > **[0:48](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=48)** Hodling is a popular investment strategy for passive investors.
 >
-> **[0:52](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=52)** Hodlers are hoping that Bitcoin, Ethereum, and others are going to appreciate to even greater heights in the months and years ahead.
+> **[0:52](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=52)** Hodlers are hoping that Bitcoin, [[Ethereum]], and others are going to appreciate to even greater heights in the months and years ahead.
 >
 > **[1:01](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=61)** They have to be ready to ride the highs and the lows.
 >
@@ -1155,7 +1143,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=176)** It's highly risky since drops can occur high penalties and it requires constant attention and analysis of the market.
 >
-> **[3:05](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=185)** Another recently introduced investment opportunity for cryptocurrency is an exchange-traded fund or ETF.
+> **[3:05](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=185)** Another recently introduced investment opportunity for [[Cryptocurrency]] is an exchange-traded fund or ETF.
 >
 > **[3:14](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=194)** An ETF tracks the price of an asset or index, a group of investments, and is traded on exchanges, just like stocks.
 >
@@ -1187,7 +1175,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=312)** Finally, crypto investors, now a growing number of tools to help them with their decisions.
 >
-> **[5:18](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=318)** Similar to regular investor products that provide details of companies, historical data, and other trend information and insights, market watching solutions such as CoinMarketCap, Messari, and LunarCrush provide an abundance of crypto intelligence.
+> **[5:18](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=318)** Similar to regular investor [[Microsoft Products|products]] that provide details of companies, historical data, and other trend information and insights, market watching solutions such as CoinMarketCap, Messari, and LunarCrush provide an abundance of crypto intelligence.
 >
 > **[5:36](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/cryptocurrency-investing-techniques-and-tools?u=76281980&t=336)** Additional tools for trading, charting, portfolio management, and rebalancing, and notifications on upcoming opportunities are all just a web search away.
 >
@@ -1199,7 +1187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Microsoft Word|Word]] (1), [[Ethereum]] (1), [[Cryptocurrency]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Ethereum]] (1), [[Cryptocurrency]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** etf (6), bito (2), nyse (1), scc (1)
 > **Analogies:** such as (5), for example (2), just like (1), similar to (1)
 > **Definitions:** is an  (3), is a  (1), is called (1)
@@ -1210,12 +1198,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How countries are responding to crypto
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980)
+#### [How countries are responding to crypto](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980&t=0)** - The nature of cryptocurrency built on decentralized blockchain architecture and without the need for any intermediaries or institutional oversight means there are no technical barriers to global deployments in use.
+> **[0:00](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980&t=0)** - The nature of [[Cryptocurrency]] built on decentralized [[Blockchain Architecture]] and without the need for any intermediaries or institutional oversight means there are no technical barriers to global deployments in use.
 >
 > **[0:15](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980&t=15)** Assuming there's internet access, cryptos can function.
 >
@@ -1229,7 +1216,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980&t=65)** Early on, governments and regulating agencies mostly adopted a wait and see approach.
 >
-> **[1:11](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980&t=71)** But as Bitcoin, Ethereum, and others showed no signs of going away, and in fact began rapidly growing in value in consequence, authorities started to change their position.
+> **[1:11](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980&t=71)** But as Bitcoin, [[Ethereum]], and others showed no signs of going away, and in fact began rapidly growing in value in consequence, authorities started to change their position.
 >
 > **[1:25](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980&t=85)** Today, the world is divided into countries where cryptocurrencies are legal, and into those that have banned it completely.
 >
@@ -1271,13 +1258,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Blockchain Architecture]] (1), management (1), [[Ethereum]] (1), next (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Blockchain Architecture]] (1), [[Ethereum]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** sec (1)
 > **Speakers:** - the (1)
 
-#### The challenges ahead for cryptocurrency
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980)
+#### [The challenges ahead for cryptocurrency](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,7 +1277,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=24)** These reasons alone are providing motivation and enthusiasm for a high number of entrepreneurs to enter the crypto marketplace.
 >
-> **[0:33](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=33)** While creating a cryptocurrency may be relatively quick and easy, maintaining one that has a chance to succeed is a much harder proposition.
+> **[0:33](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=33)** While creating a [[Cryptocurrency]] may be relatively quick and easy, maintaining one that has a chance to succeed is a much harder proposition.
 >
 > **[0:43](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=43)** It is a long-term commitment.
 >
@@ -1301,7 +1287,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=57)** An important question to ask is what is the purpose of this new cryptocurrency.
 >
-> **[1:02](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=62)** Does it offer some novel capability, like Ripple, Ethereum, or Polkadot do?
+> **[1:02](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=62)** Does it offer some novel capability, like Ripple, [[Ethereum]], or Polkadot do?
 >
 > **[1:09](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=69)** For the foreseeable future, the evidence suggests that as often as cryptos disappear, more new ones will replace them.
 >
@@ -1319,13 +1305,13 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=107)** The volatility and the uncertainty of cryptocurrency both adds to the excitement in the space and the high degree of risk.
 >
-> **[1:54](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=114)** Issues such as the absence of regulation, continued skepticism from influential people and organizations, criminal usage, technological immaturity, such as scalability and stability, cybersecurity vulnerabilities that have resulted in billions of dollars of theft, and other factors are all at work pushing back on an industry that has forward momentum.
+> **[1:54](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=114)** Issues such as the absence of regulation, continued skepticism from influential people and organizations, criminal usage, technological immaturity, such as [[Scalability]] and stability, [[Cybersecurity]] vulnerabilities that have resulted in billions of dollars of theft, and other factors are all at work pushing back on an industry that has forward momentum.
 >
 > **[2:20](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=140)** For individuals who want to incorporate cryptocurrencies into their investment portfolios, there is money to be made, but the risks continue to be high.
 >
 > **[2:31](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=151)** For example, crypto exchanges get hacked, and loads of times they become unavailable, limiting users' ability to trade or access their funds.
 >
-> **[2:42](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=162)** Those who want to use crypto to buy and sell products and services, the market is growing.
+> **[2:42](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=162)** Those who want to use crypto to buy and sell [[Microsoft Products|products]] and services, the market is growing.
 >
 > **[2:47](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-challenges-ahead-for-cryptocurrency?u=76281980&t=167)** But uncertainties about the medium-to-longterm legal frameworks are a constraining barrier.
 >
@@ -1351,7 +1337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptocurrency]] (3), power (2), [[Ethereum]] (2), [[Microsoft Products|Products]] (2), game (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (3), [[Ethereum]] (2), [[Microsoft Products|Products]] (2), [[Scalability]] (1), [[Cybersecurity]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1362,8 +1348,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps on your cryptocurrency journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980)
+#### [Next steps on your cryptocurrency journey](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,13 +1362,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=28)** Today, there are thousands and growing.
 >
-> **[0:31](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=31)** In addition, the crypto coin and crypto token space has opened up to include non-fungible tokens, or NFTs, security token offerings, or STOs, decentralized finance and complex token-powered applications.
+> **[0:31](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=31)** In addition, the crypto coin and crypto token space has opened up to include non-fungible [[Tokens]], or NFTs, security token offerings, or STOs, decentralized finance and complex token-powered applications.
 >
 > **[0:48](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=48)** More functions are likely on the way including a version of the internet called Web 3 that will be owned by participants and operate and handle transactions through the use of cryptos.
 >
 > **[1:01](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=61)** There's enormous enthusiasm and a belief in a lucrative and innovative future.
 >
-> **[1:07](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=67)** But the cryptocurrency marketplace is certainly not without its critics.
+> **[1:07](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=67)** But the [[Cryptocurrency]] marketplace is certainly not without its critics.
 >
 > **[1:11](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=71)** Many believe cryptos are a novelty that will ultimately fail.
 >
@@ -1395,9 +1380,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=95)** In the 21st century, the opening years of a fourth industrial revolution, anticipating the future requires us to think about new ways of doing things.
 >
-> **[1:46](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=106)** For startups and existing organizations, there are new products and service opportunities.
+> **[1:46](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=106)** For startups and existing organizations, there are new [[Microsoft Products|products]] and service opportunities.
 >
-> **[1:51](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=111)** Each leap in cryptocurrencies and blockchain technologies generates an ecosystem of necessary attendant needs, from software developers, to architects, to advisors and strategists.
+> **[1:51](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=111)** Each leap in cryptocurrencies and [[Blockchain]] technologies generates an ecosystem of necessary attendant needs, from software developers, to architects, to advisors and strategists.
 >
 > **[2:04](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=124)** For individuals, this is a great time for learning and for doing a careful amount of experimentation.
 >
@@ -1405,7 +1390,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=136)** That said, as many have rightly advised, right now, it's probably a bad idea to invest in cryptocurrencies if you can't afford to lose most or all of your investment.
 >
-> **[2:28](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=148)** I encourage you to explore my other cryptocurrency and blockchain courses on LinkedIn Learning.
+> **[2:28](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=148)** I encourage you to explore my other cryptocurrency and blockchain courses on [[LinkedIn]] Learning.
 >
 > **[2:34](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980&t=154)** Take a look at Blockchain Basics and [[Blockchain- Beyond the Basics]].
 >
@@ -1421,7 +1406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), [[Tokens]] (2), [[Cryptocurrency]] (2), [[LinkedIn]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Tokens]] (2), [[Cryptocurrency]] (2), [[LinkedIn]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Tools:** notion (1)

@@ -76,14 +76,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get the power of Word in your browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980)
+#### [Get the power of Word in your browser](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980&t=0)** - [David] You can get the power of Word right in your browser.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980&t=0)** - [David] You can get the power of [[Microsoft Word|Word]] right in your browser.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980&t=3)** With Word Online and your Microsoft 365 account, all you need is a browser or connected mobile device to access, create, edit and share your Microsoft Word documents.
+> **[0:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980&t=3)** With Word Online and your [[Microsoft 365]] account, all you need is a browser or connected mobile device to access, create, edit and share your [[Microsoft Word]] documents.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980&t=15)** I'm David Rivers, and I've been teaching people how to get the most out of Microsoft Word since it came into existence.
 >
@@ -93,26 +92,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Word]] (2), power (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Word]] (2), [[Microsoft 365]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [david] (1)
 
-#### What you need for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980)
+#### [What you need for this course](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=0)** - [Instructor] Well, here's what you need to know to follow along with me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=3)** Firstly, you'll need to have a working internet connection to access Word online.
+> **[0:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=3)** Firstly, you'll need to have a working internet connection to access [[Microsoft Word|Word]] online.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=8)** I'll be accessing this online version of Word from a Google Chrome browser on a Mac computer but you can work with virtually any modern and up-to-date browser like Edge, Firefox, and Safari and open them up on any platform like Windows, Linux, or even on mobile devices like tablets and smartphones.
+> **[0:08](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=8)** I'll be accessing this online version of Word from a [[Google]] Chrome browser on a Mac computer but you can work with virtually any modern and up-to-date browser like Edge, Firefox, and Safari and open them up on any platform like [[Windows]], [[Linux]], or even on mobile devices like tablets and smartphones.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=27)** Just keep in mind, your screen might look a little different from mine if you're not working with the Google Chrome browser on a Mac.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=35)** The other thing you'll need is some type of Microsoft sign-in credential.
+> **[0:35](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=35)** The other thing you'll need is some type of [[Microsoft]] sign-in credential.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=38)** I'll be using a Microsoft 365 Business account in a corporate environment, but you can use other accounts like personal Windows, Live accounts, [Outlook.com](https://Outlook.com), or even an old Hotmail account.
+> **[0:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=38)** I'll be using a [[Microsoft 365]] Business account in a corporate environment, but you can use other accounts like personal Windows, Live accounts, [[[Microsoft Outlook|Outlook]].com](https://Outlook.com), or even an old Hotmail account.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/what-you-need-for-this-course?u=76281980&t=50)** We'll discuss this further in the next chapter.
 >
@@ -138,12 +136,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sign in and create a new document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980)
+#### [Sign in and create a new document](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=0)** - [Instructor] Well, it's time now to start creating our documents here on Word online.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=0)** - [Instructor] Well, it's time now to start creating our documents here on [[Microsoft Word|Word]] online.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=4)** And the first step is to get signed in.
 >
@@ -153,21 +150,21 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=14)** No plug-ins, no extensions here on the Mac.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=17)** You can go to Google and search for "word online".
+> **[0:17](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=17)** You can go to [[Google]] and search for "word online".
 >
 > **[0:20](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=20)** That's one option.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=21)** There's many ways to get logged in using an existing account.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=24)** Perhaps you have an old Hotmail account an [Outlook.com](https://Outlook.com) account, Skype, for example.
+> **[0:24](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=24)** Perhaps you have an old Hotmail account an [[[Microsoft Outlook|Outlook]].com](https://Outlook.com) account, Skype, for example.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=29)** All of those will get you signed in.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=32)** Going to Google and searching for a word online will give you a number of different options for getting logged in.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=38)** Notice at [Office.com](https://Office.com) here using Microsoft 365, we have a link to Word online.
+> **[0:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=38)** Notice at [[[Microsoft Office|Office]].com](https://Office.com) here using [[Microsoft 365]], we have a link to Word online.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=44)** Same thing from [Microsoft.com](https://Microsoft.com).
+> **[0:44](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=44)** Same thing from [[[Microsoft]].com](https://Microsoft.com).
 >
 > **[0:46](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=46)** A little further down, office.[live.com](https://live.com).
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=215)** By default, it's given a name which is just "document" and a number, and automatically it is being saved to the cloud.
 >
-> **[3:43](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=223)** It's being saved to your OneDrive.
+> **[3:43](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=223)** It's being saved to your [[Microsoft OneDrive|OneDrive]].
 >
 > **[3:45](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=225)** Every free account includes some free storage space in the cloud when you run out.
 >
@@ -245,7 +242,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=249)** We'll type in, "RED 30's, ANNUAL CONFERENCE, SHINES A LIGHT ON", and then a colon, we'll press enter.
 >
-> **[4:27](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=267)** Take the caps lock off, "Artificial Intelligence".
+> **[4:27](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=267)** Take the caps lock off, "[[Artificial Intelligence (AI)|Artificial Intelligence]]".
 >
 > **[4:33](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980&t=273)** Notice at some point, you might see Word prompting you to finish up the word for you.
 >
@@ -281,7 +278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (17), [[Microsoft Office|Office]] (4), [[Microsoft 365]] (4), cloud (4), [[Google]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (17), [[Microsoft Office|Office]] (4), [[Microsoft 365]] (4), [[Google]] (2), [[Microsoft Outlook|Outlook]] (1)
 > **URLs:** [office.com](https://office.com) (2), [outlook.com](https://outlook.com) (1), [microsoft.com](https://microsoft.com) (1), [live.com](https://live.com) (1), [red30tech.com](https://red30tech.com) (1)
 > **Env Vars:** red (1), annual (1), conference (1), shines (1), light (1)
 > **UI Navigation:** go to (2), in the tab (1), dropdown (1)
@@ -290,12 +287,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 
-#### Rename a document in Word Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/rename-a-document-in-word-online?u=76281980)
+#### [Rename a document in Word Online](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/rename-a-document-in-word-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/rename-a-document-in-word-online?u=76281980&t=0)** - [Instructor] Well, we now know when we create brand-new documents here in Word Online, a name is assigned by default which is the Word document and possibly a number if there are other files that were created the same way.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/rename-a-document-in-word-online?u=76281980&t=0)** - [Instructor] Well, we now know when we create brand-new documents here in [[Microsoft Word|Word]] Online, a name is assigned by default which is the Word document and possibly a number if there are other files that were created the same way.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/rename-a-document-in-word-online?u=76281980&t=14)** To make more sense of the documents we have when we create them, we might want to give them a more meaningful name.
 >
@@ -333,7 +329,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/rename-a-document-in-word-online?u=76281980&t=121)** That'll be the new name.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/rename-a-document-in-word-online?u=76281980&t=123)** You can see the location where it's being stored is by default the Documents folder on your own OneDrive so you'll see your own name here.
+> **[2:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/rename-a-document-in-word-online?u=76281980&t=123)** You can see the location where it's being stored is by default the Documents folder on your own [[Microsoft OneDrive|OneDrive]] so you'll see your own name here.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/rename-a-document-in-word-online?u=76281980&t=131)** You can see when it was last saved.
 >
@@ -345,19 +341,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), cloud (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft OneDrive|Onedrive]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** pdf (1), odt (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Close, open, and manage documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980)
+#### [Close, open, and manage documents](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=0)** - [Instructor] Because Word Online is cloud-based and the files we create are saved to the cloud, the way we manage those files could be a little bit different than what you're used to.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=0)** - [Instructor] Because [[Microsoft Word|Word]] Online is cloud-based and the files we create are saved to the cloud, the way we manage those files could be a little bit different than what you're used to.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=9)** It's what we're going to explore in this movie, beginning with simply closing up a file you're no longer working on.
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=24)** We know it's automatically saved as we make changes.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=27)** It's saved to the cloud, which could be your own personal OneDrive, a business OneDrive, could even be to SharePoint, depending on the subscription that your organization uses.
+> **[0:27](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=27)** It's saved to the cloud, which could be your own personal [[Microsoft OneDrive|OneDrive]], a business OneDrive, could even be to [[SharePoint]], depending on the subscription that your organization uses.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=38)** So when it's time to close up a file, what exactly do we do?
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=91)** To the location on our OneDrive or SharePoint Drive, and all of that being in the cloud.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=99)** So when we close that up and we return back to the original tab where we launched Microsoft Word through Microsoft 365, in this case, you can see here under recommended, our file shows up.
+> **[1:39](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=99)** So when we close that up and we return back to the original tab where we launched [[Microsoft Word]] through [[Microsoft 365]], in this case, you can see here under recommended, our file shows up.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=111)** So we can actually click it to go right back to it and have access to the document right where we left off and continue working on it.
 >
@@ -403,7 +398,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=131)** It all depends again on your subscription.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=133)** If you're using one of the free ones through Microsoft, you might see different options here.
+> **[2:13](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=133)** If you're using one of the free ones through [[Microsoft]], you might see different options here.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/close-open-and-manage-documents?u=76281980&t=138)** For example, you might not see Teams, but to see all of the apps you have access to, you can always click the icon at the very top.
 >
@@ -453,7 +448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (11), cloud (6), [[Microsoft Word|Word]] (4), [[Microsoft 365]] (3), [[SharePoint]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (11), [[Microsoft Word|Word]] (4), [[Microsoft 365]] (3), [[SharePoint]] (2), [[Microsoft Word]] (2)
 > **UI Navigation:** go to (5), dropdown (1), in the tab (1), open the (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for example (2)
@@ -467,12 +462,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Type or dictate text into a Word document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980)
+#### [Type or dictate text into a Word document](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=0)** - [Instructor] Well, it's time to start building up our Word document here and using Word Online by adding content, and the most popular type of content in any Word document is going to be text.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=0)** - [Instructor] Well, it's time to start building up our [[Microsoft Word|Word]] document here and using Word Online by adding content, and the most popular type of content in any Word document is going to be text.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=11)** Text can be typed in using your keyboard but we have another option here we're going to explore as well, and that is to dictate text.
 >
@@ -592,7 +586,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=275)** Clicking the microphone icon will get us back into dictation.
 >
-> **[4:40](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=280)** (computer beeps) The distinctive ability to solve problems and use reason to reach a predefined goal or solution is what makes artificial intelligence unique.
+> **[4:40](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=280)** (computer beeps) The distinctive ability to solve problems and use reason to reach a predefined goal or solution is what makes [[Artificial Intelligence (AI)|artificial intelligence]] unique.
 >
 > **[4:51](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980&t=291)** Take a deep dive into AI at this year's Red 30 Tech conference.
 >
@@ -618,7 +612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), next (2), feature (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Non-Speech:** (computer beeps) (4), (computer beeping) (1)
 > **UI Navigation:** dropdown (2), go to (1)
 > **CLI Commands:** find (1), make (1)
@@ -627,12 +621,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the transcribe feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-the-transcribe-feature?u=76281980)
+#### [Use the transcribe feature](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-the-transcribe-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-the-transcribe-feature?u=76281980&t=0)** - [Instructor] Just before we continue adding various types of content to our existing document here in Word Online, there's another feature available to those who have a Microsoft 365 subscription that will also make use of your microphone.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-the-transcribe-feature?u=76281980&t=0)** - [Instructor] Just before we continue adding various types of content to our existing document here in [[Microsoft Word|Word]] Online, there's another feature available to those who have a [[Microsoft 365]] subscription that will also make use of your microphone.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-the-transcribe-feature?u=76281980&t=15)** It's called the Transcribe feature, it's what we're going to explore in this movie.
 >
@@ -666,7 +659,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-the-transcribe-feature?u=76281980&t=107)** Right below that, two buttons to either upload audio or start a recording.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-the-transcribe-feature?u=76281980&t=112)** So perhaps you're sitting down with someone and interviewing them, you could start recording.
+> **[1:52](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-the-transcribe-feature?u=76281980&t=112)** So perhaps you're sitting down with someone and [[Interviewing]] them, you could start recording.
 >
 > **[1:57](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-the-transcribe-feature?u=76281980&t=117)** A transcription will be created here in the Transcribe pane.
 >
@@ -768,7 +761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), feature (5), [[Microsoft 365]] (3), [[Interviewing]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Microsoft 365]] (3), [[Interviewing]] (2)
 > **UI Navigation:** dropdown (3), go to (1), checkbox (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (2), - [karen] (1)
@@ -776,12 +769,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 
-#### Format text and use styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980)
+#### [Format text and use styles](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=0)** - [Instructor] When adding text to a document here in Word online, the text formatting that is applied is the default formatting that comes with the template you chose.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=0)** - [Instructor] When adding text to a document here in [[Microsoft Word|Word]] online, the text formatting that is applied is the default formatting that comes with the template you chose.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=10)** In our case, we started with a blank document, and the formatting that we see as we enter text is using the default settings we see up here on the ribbon.
 >
@@ -823,7 +815,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=122)** Maybe it should be bolded as well.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=124)** We can use the keyboard shortcut on a Windows computer, control B, or here on a Mac, command B, or simply click the Bold button.
+> **[2:04](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=124)** We can use the keyboard shortcut on a [[Windows]] computer, control B, or here on a Mac, command B, or simply click the Bold button.
 >
 > **[2:13](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=133)** Let's try underlining.
 >
@@ -841,7 +833,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=171)** So for styles, we go back to our ribbon once again, but you can see it has its own group here, and we can click the dropdown to see those styles.
 >
-> **[3:01](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=181)** You're not going to see as many options as you might see using the desktop version of Microsoft Word, but we do have a number of options here, like Title, for example.
+> **[3:01](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=181)** You're not going to see as many options as you might see using the desktop version of [[Microsoft Word]], but we do have a number of options here, like Title, for example.
 >
 > **[3:10](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=190)** If we click Title, it's applied to the entire line of text.
 >
@@ -867,7 +859,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=244)** That looks pretty good.
 >
-> **[4:06](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=246)** All right, let's go down to Artificial Intelligence.
+> **[4:06](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=246)** All right, let's go down to [[Artificial Intelligence (AI)|Artificial Intelligence]].
 >
 > **[4:09](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/format-text-and-use-styles?u=76281980&t=249)** Click anywhere in that line and let's go back to our styles.
 >
@@ -939,7 +931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Windows]] (1), [[Microsoft Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Windows]] (1), [[Microsoft Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** dropdown (9), go to (3), toggle (3), select the (2)
 > **Analogies:** for example (6), kind of like (1)
 > **CLI Commands:** make (4)
@@ -948,8 +940,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply document formatting in Word Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/apply-document-formatting-in-word-online?u=76281980)
+#### [Apply document formatting in Word Online](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/apply-document-formatting-in-word-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,7 +1038,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/apply-document-formatting-in-word-online?u=76281980&t=231)** Two inches on the left and right, an inch at the top and bottom.
 >
-> **[3:54](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/apply-document-formatting-in-word-online?u=76281980&t=234)** There's also a Office 2003 default here, but if we want to set up our own, we go to custom margins.
+> **[3:54](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/apply-document-formatting-in-word-online?u=76281980&t=234)** There's also a [[Microsoft Office|Office]] 2003 default here, but if we want to set up our own, we go to custom margins.
 >
 > **[4:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/apply-document-formatting-in-word-online?u=76281980&t=240)** Go ahead and select that.
 >
@@ -1085,7 +1076,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/apply-document-formatting-in-word-online?u=76281980&t=301)** To get a good feel for what this looks like, the layout, not necessarily work on the content, go up to the view tab on the ribbon.
 >
-> **[5:08](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/apply-document-formatting-in-word-online?u=76281980&t=308)** There are some zoom settings we can choose from.
+> **[5:08](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/apply-document-formatting-in-word-online?u=76281980&t=308)** There are some [[Zoom]] settings we can choose from.
 >
 > **[5:10](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/apply-document-formatting-in-word-online?u=76281980&t=310)** We can use the dropdown to choose a preset.
 >
@@ -1105,7 +1096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (7), hit (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** dropdown (7), go to (5), scroll down (2)
 > **CLI Commands:** make (4)
 > **Versions:** 1.25 (3), 0.75 (1)
@@ -1114,8 +1105,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Definitions:** known as (1)
 
-#### Add and format graphics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980)
+#### [Add and format graphics](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1129,7 +1119,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=18)** We formatted that text to stand out a little bit but now we're going to add some graphical elements and we're going to start right between the main title up at the top and the paragraph down below.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=30)** We're going to add a graphic of artificial intelligence in between so we don't need the text.
+> **[0:30](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=30)** We're going to add a graphic of [[Artificial Intelligence (AI)|artificial intelligence]] in between so we don't need the text.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=35)** Clicking and dragging across the text, hitting backspace will take it out.
 >
@@ -1147,7 +1137,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=71)** You may have graphical elements, images, stored on your device that you're working on locally.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=78)** You'll also be able to access a mobile device, cloud storage, your OneDrive, also on the internet stock images and a search option using Bing.
+> **[1:18](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=78)** You'll also be able to access a mobile device, [[Cloud Storage]], your [[Microsoft OneDrive|OneDrive]], also on the internet stock images and a search option using Bing.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=91)** Let's start there with search on the web.
 >
@@ -1167,7 +1157,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=123)** There's cutout people and stickers you can access.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=126)** All comes with word online so you don't have to pay any extra for any of these.
+> **[2:06](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=126)** All comes with [[Microsoft Word|word]] online so you don't have to pay any extra for any of these.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=131)** Again, it's a matter of selecting and clicking insert, but again, we're going to click cancel and instead use one of our own images stored locally.
 >
@@ -1255,7 +1245,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=316)** These are all presets you can choose from.
 >
-> **[5:18](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=318)** Notice as we hover over these, we don't see a real-time preview on the page like we would in the full-blown version of Microsoft Word.
+> **[5:18](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=318)** Notice as we hover over these, we don't see a [[Real-Time]] preview on the page like we would in the full-blown version of [[Microsoft Word]].
 >
 > **[5:24](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/add-and-format-graphics?u=76281980&t=324)** And our options for manipulating these styles is reduced here in the online version of Word as well.
 >
@@ -1291,7 +1281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Search]] (2), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Storage]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Real-Time]] (1)
 > **UI Navigation:** dropdown (7), go to (2), scroll down (1), navigate to (1)
 > **Analogies:** picture (6), for example (3), kind of like (1)
 > **CLI Commands:** find (3), make (2)
@@ -1300,8 +1290,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Use headers and footers in Word Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-headers-and-footers-in-word-online?u=76281980)
+#### [Use headers and footers in Word Online](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-headers-and-footers-in-word-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1330,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-headers-and-footers-in-word-online?u=76281980&t=92)** But right up here inside the top cell of our header, we'll click there, you can see everything centered.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-headers-and-footers-in-word-online?u=76281980&t=98)** In capital letters I'm going to type in the word "draft," like so.
+> **[1:38](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-headers-and-footers-in-word-online?u=76281980&t=98)** In capital letters I'm going to type in the [[Microsoft Word|word]] "draft," like so.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/use-headers-and-footers-in-word-online?u=76281980&t=104)** Down at the bottom, maybe page numbering would be good down here.
 >
@@ -1426,12 +1415,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensure your documents are accessible
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980)
+#### [Ensure your documents are accessible](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=0)** - [Instructor] One important thing you may wish to consider when creating documents here in Word Online, especially if you plan on sharing them with others, is, will everyone be able to absorb the content?
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=0)** - [Instructor] One important thing you may wish to consider when creating documents here in [[Microsoft Word|Word]] Online, especially if you plan on sharing them with others, is, will everyone be able to absorb the content?
 >
 > **[0:11](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=11)** Are they going to be accessible?
 >
@@ -1497,7 +1485,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=204)** Clicking the Expansion arrow shows me there's only one picture left.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=208)** Selecting it selects the Artificial Intelligence image that I see at the top of my page, and I can do the exact same thing.
+> **[3:28](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=208)** Selecting it selects the [[Artificial Intelligence (AI)|Artificial Intelligence]] image that I see at the top of my page, and I can do the exact same thing.
 >
 > **[3:36](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=216)** Now click Alt Text on the ribbon, opens up another pane.
 >
@@ -1529,13 +1517,13 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=296)** If we recheck this, you can see that the number of warnings goes back down, where it's just a matter of Reading Order, and we're okay with that.
 >
-> **[5:05](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=305)** Clicking the Close button will close up our Accessibility Checker and return us to our document, which is automatically saved, and now we can rest easy knowing that it will be accessible to all when we go to share with others.
+> **[5:05](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=305)** Clicking the Close button will close up our Accessibility Checker and return us to our document, which is automatically saved, and now we can [[Representational State Transfer (REST)|rest]] easy knowing that it will be accessible to all when we go to share with others.
 >
 > **[5:18](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/ensure-your-documents-are-accessible?u=76281980&t=318)** That's what we're going to explore in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), dropdown (2)
 > **Analogies:** picture (4)
 > **CLI Commands:** make (1)
@@ -1548,12 +1536,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Share a document with others
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980)
+#### [Share a document with others](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=0)** - [Instructor] At some point you may wish to share your Word documents with others.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=0)** - [Instructor] At some point you may wish to share your [[Microsoft Word|Word]] documents with others.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=5)** We can share them to allow people to view their contents.
 >
@@ -1587,7 +1574,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=72)** Underneath Anyone, you may see people in your organization and people with existing access, if you're working with a business account.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=81)** If you're working with your own personal Microsoft 365 account, you won't even see these options.
+> **[1:21](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=81)** If you're working with your own personal [[Microsoft 365]] account, you won't even see these options.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=86)** You'll be able to just simply choose people, if you wanted to or leave it at Anyone.
 >
@@ -1629,7 +1616,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=179)** There we go, short and sweet.
 >
-> **[3:02](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=182)** Down below I can send this now out to people without even leaving Word Online, or if you choose to go to Outlook you could do that as well.
+> **[3:02](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=182)** Down below I can send this now out to people without even leaving Word Online, or if you choose to go to [[Microsoft Outlook|Outlook]] you could do that as well.
 >
 > **[3:09](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980&t=189)** Share it in an Outlook message.
 >
@@ -1647,7 +1634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (2), [[Microsoft Outlook|Outlook]] (2), business (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (2), dropdown (2)
 > **Analogies:** for example (4)
@@ -1655,12 +1642,11 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaborate, assign tasks, and stop sharing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980)
+#### [Collaborate, assign tasks, and stop sharing](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=0)** - We know how easy it is to share one of our word online documents with others, if you were following along in the previous movie.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=0)** - We know how easy it is to share one of our [[Microsoft Word|word]] online documents with others, if you were following along in the previous movie.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=7)** But what's it like to receive an invitation to access a document using a link that was shared from someone else?
 >
@@ -1668,9 +1654,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=16)** You can see I'm actually logged in as someone else here, Lynn Nguyen, that's the person we sent out our document to; shared it with her as part of the organization to go in and edit.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=28)** So she's logged into Microsoft 365 looking at her homepage, and sure enough, there's a link to a document that was shared by this guy, David Rivers.
+> **[0:28](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=28)** So she's logged into [[Microsoft 365]] looking at her homepage, and sure enough, there's a link to a document that was shared by this guy, David Rivers.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=37)** Also, if she happens to be in Outlook, working away in her email, she'll receive a new message: "David Rivers has shared a document," There's the name of the document at the top, there's the short note: "Please make changes as necessary."
+> **[0:37](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=37)** Also, if she happens to be in [[Microsoft Outlook|Outlook]], working away in her email, she'll receive a new message: "David Rivers has shared a document," There's the name of the document at the top, there's the short note: "Please make changes as necessary."
 >
 > **[0:50](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/collaborate-assign-tasks-and-stop-sharing?u=76281980&t=50)** And you can see that this link works for anyone in Red 30 Tech, so she could share it with anyone in the organization, just not outside the organization.
 >
@@ -1758,19 +1744,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), next (3), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (5), select the (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - we (1)
 
-#### Save to other formats for sharing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980)
+#### [Save to other formats for sharing](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980&t=0)** - [David] Another option for sharing your Word Online documents with others is to download them, download them and perhaps print them out or maybe just attach them to an email message, the old-fashioned way.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980&t=0)** - [David] Another option for sharing your [[Microsoft Word|Word]] Online documents with others is to download them, download them and perhaps print them out or maybe just attach them to an email message, the old-fashioned way.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980&t=12)** That's what we're going to explore in this movie with the document we've been working on.
 >
@@ -1790,11 +1775,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980&t=44)** What we want to do is download a copy and we can do that in a Word format.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980&t=49)** So if we're going to be sharing it with others who are using Microsoft Word, they can open it up in Word.
+> **[0:49](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980&t=49)** So if we're going to be sharing it with others who are using [[Microsoft Word]], they can open it up in Word.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980&t=55)** We could also convert it on the fly to PDF, Portable Document Format, a read-only format that we could share with people.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980&t=63)** The Microsoft version of that is ODT, and we have that option here as well.
+> **[1:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980&t=63)** The [[Microsoft]] version of that is ODT, and we have that option here as well.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/save-to-other-formats-for-sharing?u=76281980&t=67)** Let's go with Download as PDF.
 >
@@ -1814,18 +1799,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Word]] (2), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Word]] (2), [[Microsoft]] (1)
 > **Env Vars:** pdf (3), odt (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [david] (1)
 
-#### Print documents from Word Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980)
+#### [Print documents from Word Online](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=0)** - [Instructor] If you want to share your Word Online document the old-fashioned way on paper, of course, printing is also an option.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=0)** - [Instructor] If you want to share your [[Microsoft Word|Word]] Online document the old-fashioned way on paper, of course, printing is also an option.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=7)** That's what we're going to explore in this movie.
 >
@@ -1837,7 +1821,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=25)** We go up to File, and from here choose Print.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=28)** This is going to look different than what you might be used to working with the full-fledged desktop version of Microsoft Word.
+> **[0:28](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=28)** This is going to look different than what you might be used to working with the full-fledged desktop version of [[Microsoft Word]].
 >
 > **[0:34](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=34)** Notice there's not a list of options to choose from here.
 >
@@ -1913,7 +1897,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=180)** It's going to fit nicely and I know it's going to print.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=183)** We can have it fit to paper, and that might, you can see, bump it up or zoom us in a little bit.
+> **[3:03](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=183)** We can have it fit to paper, and that might, you can see, bump it up or [[Zoom]] us in a little bit.
 >
 > **[3:08](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/print-documents-from-word-online?u=76281980&t=188)** You just have to be wary of how close you get to the edge of the paper.
 >
@@ -1955,7 +1939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1), next (1), [[Zoom]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1), [[Zoom]] (1)
 > **UI Navigation:** dropdown (3), scroll down (1), checkbox (1)
 > **Env Vars:** pdf (3), dpi (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1967,18 +1951,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to learn more
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980)
+#### [Where to learn more](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980&t=0)** - [David] Well, congratulations, you've reached the end of this course on Word Online.
+> **[0:00](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980&t=0)** - [David] Well, congratulations, you've reached the end of this course on [[Microsoft Word|Word]] Online.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980&t=4)** You should now be feeling more comfortable with this very powerful yet easy to use online version of Microsoft Word and ready to start creating, sharing, even collaborating on your own professional looking documents.
+> **[0:04](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980&t=4)** You should now be feeling more comfortable with this very powerful yet easy to use online version of [[Microsoft Word]] and ready to start creating, sharing, even collaborating on your own professional looking documents.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980&t=17)** Moving forward, you might want to learn more about Microsoft Office, and LinkedIn Learning has you covered.
+> **[0:17](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980&t=17)** Moving forward, you might want to learn more about [[Microsoft Office]], and [[LinkedIn]] Learning has you covered.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980&t=23)** We have more in-depth essential training courses on Word and Microsoft 365.
+> **[0:23](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980&t=23)** We have more in-depth essential training courses on Word and [[Microsoft 365]].
 >
 > **[0:28](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980&t=28)** Even a weekly series of Word tips that can save you time and effort as you continue to work with the most popular word processing application on the planet.
 >

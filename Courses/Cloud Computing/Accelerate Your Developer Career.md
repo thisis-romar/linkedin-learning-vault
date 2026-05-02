@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveling up your software development career
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/leveling-up-your-software-development-career?u=76281980)
+#### [Leveling up your software development career](https://www.linkedin.com/learning/accelerate-your-developer-career/leveling-up-your-software-development-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,11 +105,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/accelerate-your-developer-career/leveling-up-your-software-development-career?u=76281980&t=39)** Hi, I'm Janan Siam, and as a software engineering leader, I've been building and leading high performing development teams to solve problems across a broad range of industries.
 >
-> **[0:52](https://www.linkedin.com/learning/accelerate-your-developer-career/leveling-up-your-software-development-career?u=76281980&t=52)** Join me for my course on LinkedIn Learning, where we'll discuss how developing your emotional intelligence skills can help you handle team conflict, and cope with stress and burnout, strategies for overcoming self-doubt and impostor syndrome, and how you can influence your team to action through compelling communication.
+> **[0:52](https://www.linkedin.com/learning/accelerate-your-developer-career/leveling-up-your-software-development-career?u=76281980&t=52)** Join me for my course on [[LinkedIn]] Learning, where we'll discuss how developing your emotional intelligence skills can help you handle team conflict, and cope with stress and burnout, strategies for overcoming self-doubt and impostor syndrome, and how you can influence your team to action through compelling communication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2), career (1), product (1), [[Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [janan] (1)
 
 
@@ -118,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why form cross-functional teams?
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980)
+#### [Why form cross-functional teams?](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,13 +143,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=75)** After the product's launched, Maria expects to add more features and adjust the UI based on customer feedback.
 >
-> **[1:23](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=83)** To make sure there there's ownership and accountability throughout the product life cycle, a cross-functional product team is formed.
+> **[1:23](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=83)** To make sure there there's ownership and [[Accountability]] throughout the product life cycle, a cross-functional product team is formed.
 >
 > **[1:31](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=91)** The team consists of Maria, who defines the product functionality and its evolution over time.
 >
-> **[1:37](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=97)** A UI designer is responsible for the product's look and feel and the user experience.
+> **[1:37](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=97)** A UI designer is responsible for the product's look and feel and the [[User Experience (UX)|user experience]].
 >
-> **[1:43](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=103)** Several software engineers architect and build the software guided by a lead engineer, and a quality assurance engineer outlines the test strategy and ensures the high quality of the product.
+> **[1:43](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=103)** Several software engineers architect and build the software guided by a lead engineer, and a [[Quality Assurance]] engineer outlines the test strategy and ensures the high quality of the product.
 >
 > **[1:56](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=116)** Their shared goals are clearly defined, and all team members are collectively responsible for the product's success.
 >
@@ -167,16 +165,15 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=164)** As a software developer, building strong working relationships with your cross-functional teammates is important to both your team's success and your personal career success.
 >
-> **[2:56](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=176)** For the rest of this chapter, we'll look at how you can effectively build relationships with each of these other roles on the team.
+> **[2:56](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980&t=176)** For the [[Representational State Transfer (REST)|rest]] of this chapter, we'll look at how you can effectively build relationships with each of these other roles on the team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), teams (8), functional (7), [[Accountability]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[User Experience (UX)|User experience]] (1), [[Quality Assurance]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaborating with product management
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980)
+#### [Collaborating with product management](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=57)** You can then use that knowledge and understanding to figure out the how in order to implement an effective solution.
 >
-> **[1:05](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=65)** A strong and collaborative relationship between product managers and software engineers is key to building great products that address the needs of the customers.
+> **[1:05](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=65)** A strong and collaborative relationship between product managers and software engineers is key to building great [[Microsoft Products|products]] that address the needs of the customers.
 >
 > **[1:16](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=76)** Let's get back to our fitness company to see this collaboration in action.
 >
@@ -214,11 +211,11 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=109)** They're vocal about their concerns and they work with Maria to figure out the highest priority features for the product.
 >
-> **[1:56](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=116)** They decide that the rest can be released at a later date.
+> **[1:56](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=116)** They decide that the [[Representational State Transfer (REST)|rest]] can be released at a later date.
 >
 > **[2:00](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=120)** One of the high priority features is pretty complicated to develop, and Ali, the lead software engineer, suggests an alternative option to keep things simple.
 >
-> **[2:11](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=131)** Maria's worried though that the simpler approach is not a great user experience.
+> **[2:11](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=131)** Maria's worried though that the simpler approach is not a great [[User Experience (UX)|user experience]].
 >
 > **[2:16](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-product-management?u=76281980&t=136)** Ali demonstrates empathy for the customer and Maria's perspective and recognizes that he's also committed to the success of the product.
 >
@@ -234,14 +231,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (15), business (4), feature (2), [[User Experience (UX)|User experience]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Collaborating with UI/UX design
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-ui-ux-design?u=76281980)
+#### [Collaborating with UI/UX design](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-ui-ux-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-ui-ux-design?u=76281980&t=4)** He's passionate about designing a software product that delights their users by being simple and engaging.
 >
-> **[0:11](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-ui-ux-design?u=76281980&t=11)** His goal is to ensure that the user interface is visually appealing and intuitive, which is key to a great user experience.
+> **[0:11](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-ui-ux-design?u=76281980&t=11)** His goal is to ensure that the user interface is visually appealing and intuitive, which is key to a great [[User Experience (UX)|user experience]].
 >
 > **[0:18](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-ui-ux-design?u=76281980&t=18)** He collaborates closely with the product manager, Maria and the software engineers to bring his design concepts to life.
 >
@@ -281,28 +277,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[User Experience (UX)|User experience]] (2), feature (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Collaborating with architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980)
+#### [Collaborating with architecture](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=1)** - [Instructor] When you're programming, do you step back to understand how your work fits into the overall architecture and technical vision?
 >
-> **[0:08](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=8)** Do you give broader thought to the security, scalability and maintainability of your software?
+> **[0:08](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=8)** Do you give broader thought to the security, [[Scalability]] and maintainability of your software?
 >
 > **[0:15](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=15)** These are some of the primary responsibilities of a software architect who leads the technical design and sets the technical direction for a project.
 >
-> **[0:24](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=24)** An architect's goal is to design a software architecture that is stable, scalable and easily understood.
+> **[0:24](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=24)** An architect's goal is to design a [[Software Architecture]] that is stable, scalable and easily understood.
 >
 > **[0:32](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=32)** Let's continue the story of our fitness product to see what effective collaboration looks like between architects and software engineers.
 >
 > **[0:41](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=41)** Andre's the team's architect and he's chosen the technologies and programming languages for their brand new application.
 >
-> **[0:49](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=49)** He sets guidelines and best practices for software development and he creates architecture documents and system design diagrams to share his technical vision.
+> **[0:49](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=49)** He sets guidelines and best practices for [[Software Development]] and he creates architecture documents and system design diagrams to share his technical vision.
 >
 > **[1:00](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-architecture?u=76281980&t=60)** The software engineer schedule recurring architecture review sessions with Andre.
 >
@@ -334,16 +329,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Programming]] (2), [[Security]] (1), [[Scalability]] (1), [[Software Architecture]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Software Architecture]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaborating with QA
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-qa?u=76281980)
+#### [Collaborating with QA](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-qa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-qa?u=76281980&t=0)** - [Instructor] Meet Hilda, the team's quality assurance engineer.
+> **[0:00](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-qa?u=76281980&t=0)** - [Instructor] Meet Hilda, the team's [[Quality Assurance]] engineer.
 >
 > **[0:04](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-qa?u=76281980&t=4)** She's responsible for defining the test strategy and making sure their product meets quality standards.
 >
@@ -399,13 +393,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Quality Assurance]] (2), product (2), application (2), business (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (2)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaborating with operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-operations?u=76281980)
+#### [Collaborating with operations](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,7 +426,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-operations?u=76281980&t=65)** So how can Tony mitigate risk without getting in the way of the team's desire to release lots of new functionality quickly?
 >
-> **[1:13](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-operations?u=76281980&t=73)** Tony works closely with the team to define the infrastructure and continuous integration and delivery pipelines so they can reliably build, test and deploy their code.
+> **[1:13](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-operations?u=76281980&t=73)** Tony works closely with the team to define the infrastructure and [[Continuous Integration (CI)|continuous integration]] and delivery pipelines so they can reliably build, test and deploy their code.
 >
 > **[1:25](https://www.linkedin.com/learning/accelerate-your-developer-career/collaborating-with-operations?u=76281980&t=85)** Tony also sets up monitoring tools to track the system's health and alert if there are any issues.
 >
@@ -459,12 +452,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), application (1), [[Continuous Integration (CI)|Continuous integration]] (1), business (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Cross-functional teammates
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/challenge-cross-functional-teammates?u=76281980)
+#### [Challenge: Cross-functional teammates](https://www.linkedin.com/learning/accelerate-your-developer-career/challenge-cross-functional-teammates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,14 +472,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Cross-functional teammates
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-cross-functional-teammates?u=76281980)
+#### [Solution: Cross-functional teammates](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-cross-functional-teammates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,7 +493,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2)
 > **Speakers:** - after (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -512,8 +501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Psychological safety and risk-taking
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980)
+#### [Psychological safety and risk-taking](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +521,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=44)** Andrey quickly dismisses Ali's ideas without explaining why and has a strong condescending reaction.
 >
-> **[0:51](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=51)** The rest of the software engineers observed these interactions between Andrey and Ali.
+> **[0:51](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=51)** The [[Representational State Transfer (REST)|rest]] of the software engineers observed these interactions between Andrey and Ali.
 >
 > **[0:57](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=57)** They also have thoughts and ideas to contribute to the conversation, but they decide to hold back for fear of Andrey's reaction.
 >
@@ -549,7 +537,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=111)** You might be surprised to know that psychological safety, which promotes a culture of fail fast and learn is strongly correlated with the success of an organization.
 >
-> **[2:02](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=122)** In fact, in a two year study of team performance, Google found that their highest performing teams all had high levels of psychological safety.
+> **[2:02](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=122)** In fact, in a two year study of team performance, [[Google]] found that their highest performing teams all had high levels of psychological safety.
 >
 > **[2:12](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=132)** This was the most important factor that sets successful teams apart.
 >
@@ -561,17 +549,16 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=167)** Ali could have reached out to Andrey directly to make him aware of how his behavior was impacting the team's psychological safety.
 >
-> **[2:56](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=176)** If you're curious to learn more, there's a great course on psychological safety by Amy Edmondson right here in the LinkedIn Learning library.
+> **[2:56](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980&t=176)** If you're curious to learn more, there's a great course on psychological safety by Amy Edmondson right here in the [[LinkedIn]] Learning library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), product (1), [[Representational State Transfer (REST)|Rest]] (1), business (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - think (1)
 
-#### A knowledge-sharing culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/a-knowledge-sharing-culture?u=76281980)
+#### [A knowledge-sharing culture](https://www.linkedin.com/learning/accelerate-your-developer-career/a-knowledge-sharing-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,14 +618,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), career (1), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - james (1)
 
-#### Building trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980)
+#### [Building trust](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,13 +637,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=22)** So while it might seem a little touchy feely, high trust along with psychological safety helps teams innovate, improve and learn from their failures.
 >
-> **[0:33](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=33)** But how do you go about building trust anyway?
+> **[0:33](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=33)** But how do you go about [[Building Trust]] anyway?
 >
 > **[0:36](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=36)** Isn't it something that just happens automatically over time.
 >
 > **[0:40](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=40)** Let's see how a team was able to build trust and a deeper understanding of their teammates.
 >
-> **[0:46](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=46)** Maria and her team follow an agile development process, where they have scrum ceremonies to plan and communicate their progress on the fitness product.
+> **[0:46](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=46)** Maria and her team follow an [[Agile Development|agile]] development process, where they have [[Scrum]] ceremonies to plan and communicate their progress on the fitness product.
 >
 > **[0:55](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=55)** Even though they interact pretty regularly, they're still intentional about planning and time to connect outside of work responsibilities.
 >
@@ -696,16 +681,15 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=166)** It takes time to build and needs to be nurtured over time.
 >
-> **[2:50](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=170)** To learn even more about building trust, check out this course on LinkedIn Learning.
+> **[2:50](https://www.linkedin.com/learning/accelerate-your-developer-career/building-trust?u=76281980&t=170)** To learn even more about building trust, check out this course on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Building Trust]] (3), [[Agile Development|Agile]] (1), [[Scrum]] (1), product (1)
+> **Frameworks & Libraries:** [[Building Trust]] (3), [[Agile Development|Agile]] (1), [[Scrum]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Giving and receiving feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/giving-and-receiving-feedback?u=76281980)
+#### [Giving and receiving feedback](https://www.linkedin.com/learning/accelerate-your-developer-career/giving-and-receiving-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -773,12 +757,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), career (1)
 > **CLI Commands:** find (3), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Are you a true team player?
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/challenge-are-you-a-true-team-player?u=76281980)
+#### [Challenge: Are you a true team player?](https://www.linkedin.com/learning/accelerate-your-developer-career/challenge-are-you-a-true-team-player?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,8 +782,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Are you a true team player?
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-are-you-a-true-team-player?u=76281980)
+#### [Solution: Are you a true team player?](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-are-you-a-true-team-player?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,9 +798,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-are-you-a-true-team-player?u=76281980&t=26)** Check out Amy Edmonson's book, "The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth".
 >
-> **[0:37](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-are-you-a-true-team-player?u=76281980&t=37)** You'll find an audiobook summary in our LinkedIn learning library.
+> **[0:37](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-are-you-a-true-team-player?u=76281980&t=37)** You'll find an audiobook summary in our [[LinkedIn]] learning library.
 >
-> **[0:42](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-are-you-a-true-team-player?u=76281980&t=42)** We also have a learning path for building trust and collaborating with others and of course, for learning how to give and receive feedback.
+> **[0:42](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-are-you-a-true-team-player?u=76281980&t=42)** We also have a learning path for [[Building Trust]] and collaborating with others and of course, for learning how to give and receive feedback.
 >
 > **[0:51](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-are-you-a-true-team-player?u=76281980&t=51)** Happy learning.
 
@@ -835,8 +816,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why EQ is a critical skill?
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/why-eq-is-a-critical-skill?u=76281980)
+#### [Why EQ is a critical skill?](https://www.linkedin.com/learning/accelerate-your-developer-career/why-eq-is-a-critical-skill?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,12 +866,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), management (3), teams (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling conflict effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/handling-conflict-effectively?u=76281980)
+#### [Handling conflict effectively](https://www.linkedin.com/learning/accelerate-your-developer-career/handling-conflict-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -909,7 +887,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/accelerate-your-developer-career/handling-conflict-effectively?u=76281980&t=39)** He starts by listening to each of their perspectives and he asks them to think through the pros and cons of their approach and to do the same for their teammate's idea.
 >
-> **[0:50](https://www.linkedin.com/learning/accelerate-your-developer-career/handling-conflict-effectively?u=76281980&t=50)** This slows things down and gets them to listen in order to understand their peers perspective rather than just listening to react and respond.
+> **[0:50](https://www.linkedin.com/learning/accelerate-your-developer-career/handling-conflict-effectively?u=76281980&t=50)** This slows things down and gets them to listen in order to understand their peers perspective rather than just listening to [[React.js|react]] and respond.
 >
 > **[1:00](https://www.linkedin.com/learning/accelerate-your-developer-career/handling-conflict-effectively?u=76281980&t=60)** He works with them to find common ground that they can agree and build on, and he stresses that the goal is to find the best solution to the technical problem, and to do that they have to set aside their egos and desire to be right.
 >
@@ -935,12 +913,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Speakers:** - [instructor] (1)
 
-#### Coping with stress and burnout
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/coping-with-stress-and-burnout?u=76281980)
+#### [Coping with stress and burnout](https://www.linkedin.com/learning/accelerate-your-developer-career/coping-with-stress-and-burnout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -984,7 +961,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/accelerate-your-developer-career/coping-with-stress-and-burnout?u=76281980&t=146)** If Nyla anticipates a stressful situation coming up, she can prepare for it and make sure she's got the energy to deal with it.
 >
-> **[2:34](https://www.linkedin.com/learning/accelerate-your-developer-career/coping-with-stress-and-burnout?u=76281980&t=154)** Once in the moment, she doesn't have to react right away and can take slow, deep breaths and pause before acting.
+> **[2:34](https://www.linkedin.com/learning/accelerate-your-developer-career/coping-with-stress-and-burnout?u=76281980&t=154)** Once in the moment, she doesn't have to [[React.js|react]] right away and can take slow, deep breaths and pause before acting.
 >
 > **[2:43](https://www.linkedin.com/learning/accelerate-your-developer-career/coping-with-stress-and-burnout?u=76281980&t=163)** This is how she can train herself to have emotional self-control.
 >
@@ -994,13 +971,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), feature (2), [[React.js|React]] (1), career (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Demonstrating empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980)
+#### [Demonstrating empathy](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1018,7 +994,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=34)** There's a lot of benefits to embracing empathy in the workplace, like increasing productivity and reducing conflict.
 >
-> **[0:42](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=42)** And if you'd like to go deeper on this topic, we've got a course in the LinkedIn library dedicated to Empathy at Work.
+> **[0:42](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=42)** And if you'd like to go deeper on this topic, we've got a course in the [[LinkedIn]] library dedicated to Empathy at Work.
 >
 > **[0:50](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=50)** Let's turn our attention back to our fitness product team member James, who's an experienced software engineer.
 >
@@ -1032,7 +1008,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=78)** He's developed a lot of empathy for new software engineers joining the team, and wants to help them have a smoother experience.
 >
-> **[1:26](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=86)** He advocates for writing clean, simple, and documented code that's easier for others to understand, and for everyone to contribute to maintaining technical documentation, like design documents and infrastructure diagrams.
+> **[1:26](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=86)** He advocates for writing clean, simple, and documented code that's easier for others to understand, and for everyone to contribute to maintaining [[Technical Documentation]], like design documents and infrastructure diagrams.
 >
 > **[1:41](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=101)** He regularly checks in on his new team members to make them feel welcome and understand how they're doing.
 >
@@ -1040,7 +1016,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=117)** James also encourages all new hires to meet with their Product Manager Maria for a product overview.
 >
-> **[2:04](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=124)** So they can start building empathy for the end user experience, and be mindful of what business problems they're trying to solve.
+> **[2:04](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=124)** So they can start building empathy for the end [[User Experience (UX)|user experience]], and be mindful of what business problems they're trying to solve.
 >
 > **[2:13](https://www.linkedin.com/learning/accelerate-your-developer-career/demonstrating-empathy?u=76281980&t=133)** James is viewed as a valuable team player by his peers and management.
 >
@@ -1048,13 +1024,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[LinkedIn]] (1), application (1), [[Technical Documentation]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Technical Documentation]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
 
-#### Overcoming self-doubt
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/overcoming-self-doubt?u=76281980)
+#### [Overcoming self-doubt](https://www.linkedin.com/learning/accelerate-your-developer-career/overcoming-self-doubt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,13 +1087,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Developing your EQ skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/challenge-developing-your-eq-skills?u=76281980)
+#### [Challenge: Developing your EQ skills](https://www.linkedin.com/learning/accelerate-your-developer-career/challenge-developing-your-eq-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,7 +1109,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **Cross-References:** we covered (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - in (1)
@@ -1147,8 +1119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicate proactively
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/communicate-proactively?u=76281980)
+#### [Communicate proactively](https://www.linkedin.com/learning/accelerate-your-developer-career/communicate-proactively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,13 +1171,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), career (1), product (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Influence through clarity
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/influence-through-clarity?u=76281980)
+#### [Influence through clarity](https://www.linkedin.com/learning/accelerate-your-developer-career/influence-through-clarity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,13 +1233,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), feature (3), product (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Express curiosity
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/express-curiosity?u=76281980)
+#### [Express curiosity](https://www.linkedin.com/learning/accelerate-your-developer-career/express-curiosity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,12 +1283,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing your communication method
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/choosing-your-communication-method?u=76281980)
+#### [Choosing your communication method](https://www.linkedin.com/learning/accelerate-your-developer-career/choosing-your-communication-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1367,14 +1332,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), application (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Effective communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/challenge-effective-communication?u=76281980)
+#### [Challenge: Effective communication](https://www.linkedin.com/learning/accelerate-your-developer-career/challenge-effective-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1391,8 +1354,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Effective communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-effective-communication?u=76281980)
+#### [Solution: Effective communication](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-effective-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1402,7 +1364,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-effective-communication?u=76281980&t=13)** Like a long disagreement that your team is having over an instant messaging app that could have been resolved in a team meeting?
 >
-> **[0:20](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-effective-communication?u=76281980&t=20)** If you want to learn more about communicating effectively, I'd highly recommend the LinkedIn course, [[Communication Foundations]], it covers strategies for how to communicate in a variety of challenging situations, like when you're caught off-guard at work.
+> **[0:20](https://www.linkedin.com/learning/accelerate-your-developer-career/solution-effective-communication?u=76281980&t=20)** If you want to learn more about communicating effectively, I'd highly recommend the [[LinkedIn]] course, [[Communication Foundations]], it covers strategies for how to communicate in a variety of challenging situations, like when you're caught off-guard at work.
 
 > [!info]- Semantic Content
 >
@@ -1415,16 +1377,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980&t=0)** - [Instructor] Together, we've explored the skills you'll need to take your software development career to the next level, but we've only begun to scratch the surface.
+> **[0:00](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980&t=0)** - [Instructor] Together, we've explored the skills you'll need to take your [[Software Development]] career to the next level, but we've only begun to scratch the surface.
 >
 > **[0:10](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980&t=10)** I'd encourage you to continue to explore in more depth the topics we've covered and to start applying the strategies you've learned in your day-to-day work, because the best way to solidify your knowledge is to put it into practice.
 >
-> **[0:24](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980&t=24)** I've pulled together a few resources for you here, so dive deeper into the essentials of team collaboration with this LinkedIn learning course by Dana Brownley.
+> **[0:24](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980&t=24)** I've pulled together a few resources for you here, so dive deeper into the essentials of [[Team Collaboration]] with this [[LinkedIn]] learning course by Dana Brownley.
 >
 > **[0:36](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980&t=36)** Next is a learning path that includes multiple courses to help you improve your teamwork skills and become a better teammate.
 >
@@ -1438,7 +1399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (2), career (2), next (2), [[LinkedIn]] (2), [[Team Collaboration]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[LinkedIn]] (2), [[Team Collaboration]] (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)

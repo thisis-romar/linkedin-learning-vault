@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monitoring service management success
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/monitoring-service-management-success?u=76281980)
+#### [Monitoring service management success](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/monitoring-service-management-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/monitoring-service-management-success?u=76281980&t=15)** We'll be taking a platform agnostic look at these best practices, so you won't have to worry about software or learning new tools.
 >
-> **[0:23](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/monitoring-service-management-success?u=76281980&t=23)** Hi, I'm Brett Moffett, and I've been in the IT service management and delivery industry for over 25 years and have a passion for delivering good customer service at all levels of the business to all levels of customers.
+> **[0:23](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/monitoring-service-management-success?u=76281980&t=23)** Hi, I'm Brett Moffett, and I've been in the [[IT Service Management]] and delivery industry for over 25 years and have a passion for delivering good customer service at all levels of the business to all levels of customers.
 >
 > **[0:37](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/monitoring-service-management-success?u=76281980&t=37)** In this course, we're going to look at common mistakes made when gathering data for monitoring, the targeted outcomes of our monitoring, and some common outcomes and solutions that can help you get an understanding of where your service desk is now and where it is heading.
 >
@@ -91,16 +90,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Service Management]] (1), business (1), data (1)
+> **Frameworks & Libraries:** [[IT Service Management]] (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [brett] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/what-you-should-know?u=76281980&t=0)** - [Instructor] Viewers should have a good understanding of the Information Technology Infrastructure Library framework, better known as ITIL, and have experience in a service management business environment.
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/what-you-should-know?u=76281980&t=0)** - [Instructor] Viewers should have a good understanding of the Information Technology Infrastructure Library framework, better known as [[ITIL]], and have experience in a service management business environment.
 >
 > **[0:12](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/what-you-should-know?u=76281980&t=12)** There are no specific product skills required.
 >
@@ -108,7 +106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (1), management (1), business (1), product (1)
+> **Frameworks & Libraries:** [[ITIL]] (1)
 > **Env Vars:** itil (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
@@ -118,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From data to wisdom
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/from-data-to-wisdom?u=76281980)
+#### [From data to wisdom](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/from-data-to-wisdom?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -185,7 +182,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), business (1), management (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
@@ -193,8 +189,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Garbage in, garbage out
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/garbage-in-garbage-out?u=76281980)
+#### [Garbage in, garbage out](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/garbage-in-garbage-out?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,14 +223,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (2), management (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to kill good data
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/how-to-kill-good-data?u=76281980)
+#### [How to kill good data](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/how-to-kill-good-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,18 +268,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), management (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Less is sometimes more
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980)
+#### [Less is sometimes more](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=0)** - [Instructor] In the context of IT service management, some data that we collect is inescapable.
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=0)** - [Instructor] In the context of [[IT Service Management]], some data that we collect is inescapable.
 >
 > **[0:06](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=6)** For example, the person who logged the call, the time the call was logged, the source of the logged call, et cetera.
 >
@@ -304,13 +295,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=59)** Let's look at an example of a common approach to incident classification that is commonly seen.
 >
-> **[1:06](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=66)** Many ITSM products have a list to choose from to categorize a ticket.
+> **[1:06](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=66)** Many ITSM [[Microsoft Products|products]] have a list to choose from to categorize a ticket.
 >
 > **[1:12](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=72)** Many organizations have huge, long lists to try and break down all the tickets to very specific categories to try and report on these items.
 >
 > **[1:22](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=82)** One example of this I've seen looks like this.
 >
-> **[1:25](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=85)** Software Issue, Hardware Issue, Laptop, Desktop, et cetera.
+> **[1:25](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=85)** Software Issue, [[Hardware]] Issue, Laptop, Desktop, et cetera.
 >
 > **[1:31](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/less-is-sometimes-more?u=76281980&t=91)** Now while this is a very accurate way of recording and reporting on the exact make and model of a machine that has the issue, it has several clicks for the analyst to arrive at the value they require and requires additional information to be sought out that the analyst may not know at the time of logging the call and what happens if this incident was for a piece of software that wasn't working on a given type of machine?
 >
@@ -350,15 +341,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (10), data (8), [[IT Service Management]] (1), management (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (10), [[IT Service Management]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** itsm (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Always review your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/always-review-your-data?u=76281980)
+#### [Always review your data](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/always-review-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +358,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/always-review-your-data?u=76281980&t=18)** As we start to achieve insight into our environment, practices and outcomes, we may need to refine the properties we are capturing, add values, remove values, or even just rename values.
 >
-> **[0:32](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/always-review-your-data?u=76281980&t=32)** Within ITIL, continual service improvement or CSI is often forgotten about after the first initial push of implementing a new ITSM platform or solution.
+> **[0:32](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/always-review-your-data?u=76281980&t=32)** Within [[ITIL]], continual service improvement or CSI is often forgotten about after the first initial push of implementing a new ITSM platform or solution.
 >
 > **[0:45](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/always-review-your-data?u=76281980&t=45)** However, continual service improvement is essential to the functioning of a system and critical to accurate and useful reporting.
 >
@@ -378,7 +368,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/always-review-your-data?u=76281980&t=92)** More and more organizations are moving to a mobility-driven workplace allowing employees to work from anywhere including home offices.
 >
-> **[1:41](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/always-review-your-data?u=76281980&t=101)** As people start to work from home more often, the location of a piece of hardware becomes less relevant over time and may become obsolete all together in some organizations.
+> **[1:41](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/always-review-your-data?u=76281980&t=101)** As people start to work from home more often, the location of a piece of [[Hardware]] becomes less relevant over time and may become obsolete all together in some organizations.
 >
 > **[1:53](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/always-review-your-data?u=76281980&t=113)** So asking the user what floor they are on or what desk the machine is currently sitting on is a waste of analysts' and users' time and any report referencing location is just as irrelevant.
 >
@@ -394,7 +384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (3), [[ITIL]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (1), [[Hardware]] (1)
 > **Env Vars:** itil (1), csi (1), itsm (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -405,12 +395,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why are you monitoring?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/why-are-you-monitoring?u=76281980)
+#### [Why are you monitoring?](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/why-are-you-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/why-are-you-monitoring?u=76281980&t=0)** - [Instructor] The title of this section seems to be some sort of rhetorical question or complex metaphor, but far be it from me to try some witty banter or fancy word tricks.
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/why-are-you-monitoring?u=76281980&t=0)** - [Instructor] The title of this section seems to be some sort of rhetorical question or complex metaphor, but far be it from me to try some witty banter or fancy [[Microsoft Word|word]] tricks.
 >
 > **[0:12](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/why-are-you-monitoring?u=76281980&t=12)** This is a genuine question.
 >
@@ -448,13 +437,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), management (2), data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Outcomes for monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/outcomes-for-monitoring?u=76281980)
+#### [Outcomes for monitoring](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/outcomes-for-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,7 +472,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/outcomes-for-monitoring?u=76281980&t=134)** Lost revenue due to end user downtime.
 >
-> **[2:17](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/outcomes-for-monitoring?u=76281980&t=137)** Failure rate of a certain hardware or even end user support time for certain software.
+> **[2:17](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/outcomes-for-monitoring?u=76281980&t=137)** Failure rate of a certain [[Hardware]] or even end user support time for certain software.
 >
 > **[2:23](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/outcomes-for-monitoring?u=76281980&t=143)** Each of these examples draw a direct correlation between a metric and a business outcome.
 >
@@ -500,13 +488,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), management (4), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Knowing what actions to take
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/knowing-what-actions-to-take?u=76281980)
+#### [Knowing what actions to take](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/knowing-what-actions-to-take?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,7 +503,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/knowing-what-actions-to-take?u=76281980&t=18)** Regardless of the environment that you are monitoring, the type of customers, the volume of calls, or the industry that you support, the key to successfully improving any support environment is to take calculated and decisive action to improve service over time.
 >
-> **[0:36](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/knowing-what-actions-to-take?u=76281980&t=36)** This takes investment in developing and evolving standard operating procedures, and maybe even investment in products and services to assist in the ability to achieve these outcomes.
+> **[0:36](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/knowing-what-actions-to-take?u=76281980&t=36)** This takes investment in developing and evolving standard operating procedures, and maybe even investment in [[Microsoft Products|products]] and services to assist in the ability to achieve these outcomes.
 >
 > **[0:48](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/knowing-what-actions-to-take?u=76281980&t=48)** None of this is possible without buy-in from management and the business at large.
 >
@@ -526,7 +513,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/knowing-what-actions-to-take?u=76281980&t=67)** What will save money or what will make money.
 >
-> **[1:10](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/knowing-what-actions-to-take?u=76281980&t=70)** ITIL guidance tells us "Continuous Improvement is one of the key pieces "to successfully grow and improve "a service management environment."
+> **[1:10](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/knowing-what-actions-to-take?u=76281980&t=70)** [[ITIL]] guidance tells us "Continuous Improvement is one of the key pieces "to successfully grow and improve "a service management environment."
 >
 > **[1:20](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/knowing-what-actions-to-take?u=76281980&t=80)** When planning Continuous Improvement on any service desk, there are only ever three different levers that can be pulled.
 >
@@ -558,7 +545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), business (3), [[Microsoft Products|Products]] (1), [[ITIL]] (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[ITIL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** itil (1)
 > **Speakers:** - [instructor] (1)
@@ -568,8 +555,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Most common metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980)
+#### [Most common metrics](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -591,7 +577,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=84)** When support analysts are aware that they are being tracked by metrics on their performance.
 >
-> **[1:29](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=89)** Especially in a large support team, they often attempt to find ways to game the system, the number one way of doing this is by closing calls before they are resolved to increase their closed at first contact numbers or their time to resolution statistics.
+> **[1:29](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=89)** Especially in a large support team, they often attempt to find ways to game the system, the number one way of doing this is by closing calls before they are resolved to increase their closed at first contact numbers or their time to resolution [[Statistics]].
 >
 > **[1:47](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=107)** By tracking the number of calls end users then call back for to reopen a call that was not resolved properly, it is possible to see when staff are gaming the system or have a genuine knowledge gap that needs to be addressed.
 >
@@ -599,7 +585,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=132)** However this is a false premise, the time to resolution for an account lockout or a virus infection are very different, and there is no clean and easy way to define between them.
 >
-> **[2:26](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=146)** That said, knowing and tracking the outliers, for time to resolution is a great way of refining processes internally and identifying tickets that should be escalated to a problem management process to determine the root cause and ensure that the underlying process, app, or system is changed for the better.
+> **[2:26](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=146)** That said, knowing and tracking the outliers, for time to resolution is a great way of refining processes internally and identifying tickets that should be escalated to a [[Problem Management]] process to determine the root cause and ensure that the underlying process, app, or system is changed for the better.
 >
 > **[2:48](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=168)** For example, if the average incident resolution time is two hours, and there is a certain incident that took two days, that incident might need to be reviewed as to the underlying root cause that took so long to find.
 >
@@ -635,7 +621,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=332)** Analysts should have access to the tools required to do their job, if the systems are complex or the potential for a significant mistake if the process is not followed, then a simpler process should be found and made available to the analysts.
 >
-> **[5:47](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=347)** For example, if the business determines that giving analysts access to active directory is too much of a risk, because analysts may be entering data incorrectly, or adding users to the wrong groups.
+> **[5:47](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=347)** For example, if the business determines that giving analysts access to [[Active Directory]] is too much of a risk, because analysts may be entering data incorrectly, or adding users to the wrong groups.
 >
 > **[6:02](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=362)** Then an automation process could easily be implemented that would take the user's name and the group name, and then follow a process to add the user to a group using a service account and ensuring programatically, that each step of the process is followed.
 >
@@ -655,7 +641,7 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=457)** The trends to look out for are things like a select few of users who log above average numbers of calls.
 >
-> **[7:45](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=465)** These users may require more training, or may have an intrinsic fault with their hardware, network, account or applications that are preventing them from doing their work effectively.
+> **[7:45](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=465)** These users may require more training, or may have an intrinsic fault with their [[Hardware]], network, account or applications that are preventing them from doing their work effectively.
 >
 > **[7:58](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980&t=478)** Now if you've been in IT support industry for awhile, then you will have war stories about that user, who just always seems to have a problem and ties up IT for more time than any other user.
 >
@@ -667,22 +653,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), management (4), data (2), [[Automation]] (2), game (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Problem Management]] (1), [[Active Directory]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### The role of service-level agreements
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/the-role-of-service-level-agreements?u=76281980)
+#### [The role of service-level agreements](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/the-role-of-service-level-agreements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/the-role-of-service-level-agreements?u=76281980&t=0)** - [Instructor] Every time I work with a customer in regards to IT service management, the conversation eventually turns to SLAs.
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/the-role-of-service-level-agreements?u=76281980&t=0)** - [Instructor] Every time I work with a customer in regards to [[IT Service Management]], the conversation eventually turns to SLAs.
 >
 > **[0:09](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/the-role-of-service-level-agreements?u=76281980&t=9)** Regardless of the customer, I always find myself spending a lot of time explaining what the best use of SLAs are and how to use them well within their organization or why they should never use them.
 >
-> **[0:23](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/the-role-of-service-level-agreements?u=76281980&t=23)** Service level agreements are a core piece of the ITIL standards and are well and truly built into most ITSM products.
+> **[0:23](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/the-role-of-service-level-agreements?u=76281980&t=23)** Service level agreements are a core piece of the [[ITIL]] standards and are well and truly built into most ITSM [[Microsoft Products|products]].
 >
 > **[0:31](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/the-role-of-service-level-agreements?u=76281980&t=31)** In simple terms, SLAs are a measure of time that an organization attempts to meet to ensure service is delivered on time and to reduce customer downtime.
 >
@@ -746,7 +731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Service Management]] (1), [[ITIL]] (1), [[Microsoft Products|Products]] (1), management (1), business (1)
+> **Frameworks & Libraries:** [[IT Service Management]] (1), [[ITIL]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** itsm (4), sla (4), itil (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
@@ -755,8 +740,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Net Promoter Score
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/net-promoter-score?u=76281980)
+#### [Net Promoter Score](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/net-promoter-score?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,14 +812,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Env Vars:** nps (3), isp (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How does Net Promoter Score work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/how-does-net-promoter-score-work?u=76281980)
+#### [How does Net Promoter Score work?](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/how-does-net-promoter-score-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,7 +859,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Env Vars:** nps (7), sla (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -887,14 +868,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common reporting tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980)
+#### [Common reporting tools](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=0)** - [Instructor] Whenever we talk about reporting, we need to talk about the tools that we can use to compile and display these reports.
 >
-> **[0:08](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=8)** There is a wide range of tools and applications that we can use to show reports, ranging from simple wizard driven to complex SQL code-based tools that require advanced scripting knowledge to get the most out of.
+> **[0:08](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=8)** There is a wide range of tools and applications that we can use to show reports, ranging from simple wizard driven to complex [[SQL]] code-based tools that require advanced scripting knowledge to get the most out of.
 >
 > **[0:24](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=24)** We will look at what I consider to be the best options for displaying reports, and some of their pros and cons.
 >
@@ -924,19 +904,19 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=159)** After all, there is no point in showing a warning after the fact.
 >
-> **[2:45](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=165)** Microsoft Excel.
+> **[2:45](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=165)** [[Microsoft Excel]].
 >
 > **[2:47](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=167)** Yes, good old Microsoft Excel.
 >
-> **[2:49](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=169)** I know this seems really basic, but it is the simplest way to get into some complex reports as most people know how to use Excel and create graphs as they need.
+> **[2:49](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=169)** I know this seems really basic, but it is the simplest way to get into some complex reports as most people know how to use [[Microsoft Excel|Excel]] and create graphs as they need.
 >
 > **[3:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=180)** Some of the pros is the fact that it is inexpensive and very simple to learn.
 >
-> **[3:04](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=184)** Some of the cons are there is lots of manual data manipulation, and or heavy impact on databases.
+> **[3:04](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=184)** Some of the cons are there is lots of manual [[Data Manipulation]], and or heavy impact on [[Databases]].
 >
-> **[3:12](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=192)** Microsoft SQL.
+> **[3:12](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=192)** [[Microsoft]] SQL.
 >
-> **[3:13](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=193)** SQL Server Reporting Services, or SSRS, is the most common reporting tool that ITSM solutions provide, and there are a lot of people in the industry that can use it to generate some good-looking and efficient reports.
+> **[3:13](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=193)** [[Microsoft SQL Server|SQL Server]] Reporting Services, or SSRS, is the most common reporting tool that ITSM solutions provide, and there are a lot of people in the industry that can use it to generate some good-looking and efficient reports.
 >
 > **[3:28](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=208)** Having said that, there is a specific set of skills you need to retrieve the data you need, and to ensure that it is not impacting on your database too much.
 >
@@ -946,9 +926,9 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=230)** Some of the cons is that it's not easy to learn and can be frustrating to edit if you do not have the required skills.
 >
-> **[3:57](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=237)** Microsoft's Power BI is a tool that is often included in user's Office 365 subscription, or many organizations have it as part of their licensing agreement.
+> **[3:57](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=237)** Microsoft's [[Microsoft Power BI|Power BI]] is a tool that is often included in user's [[Microsoft Office|Office]] 365 subscription, or many organizations have it as part of their licensing agreement.
 >
-> **[4:08](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=248)** It is a very powerful reporting tool that can even start to forecast trends, and even bring Microsoft Machine Learning and Artificial Intelligence into your reporting to find issues well ahead of them impacting on the business.
+> **[4:08](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=248)** It is a very powerful reporting tool that can even start to forecast trends, and even bring Microsoft Machine Learning and [[Artificial Intelligence (AI)|Artificial Intelligence]] into your reporting to find issues well ahead of them impacting on the business.
 >
 > **[4:22](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980&t=262)** Some of the pros are that it's super powerful in predicting trends and has great visual reports.
 >
@@ -968,15 +948,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Microsoft]] (3), [[SQL]] (2), product (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[SQL]] (2), [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (1), [[Data Manipulation]] (1)
 > **Env Vars:** itsm (6), sql (3), ssrs (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visibility of reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/visibility-of-reporting?u=76281980)
+#### [Visibility of reporting](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/visibility-of-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,18 +991,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), power (1), game (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Baseline reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/baseline-reporting?u=76281980)
+#### [Baseline reporting](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/baseline-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/baseline-reporting?u=76281980&t=0)** - [Instructor] Baseline reporting is critical to be able to measure the impact of change over time.
 >
-> **[0:06](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/baseline-reporting?u=76281980&t=6)** When a new process, tool or change to the business is implemented, we need an empirical way to measure its effects on the IT service management process.
+> **[0:06](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/baseline-reporting?u=76281980&t=6)** When a new process, tool or change to the business is implemented, we need an empirical way to measure its effects on the [[IT Service Management]] process.
 >
 > **[0:17](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/baseline-reporting?u=76281980&t=17)** Impact from changes can be felt in many different ways.
 >
@@ -1059,7 +1036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[IT Service Management]] (1), data (1)
+> **Frameworks & Libraries:** [[IT Service Management]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** warning (2)
 > **Env Vars:** nps (1)
@@ -1072,18 +1049,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=0)** - [Instructor] Thank you for joining for this course.
 >
-> **[0:02](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=2)** If you would like to learn more about some of the topics raised in this course, there are many resources available for you via the LinkedIn Library of Courses as well as IT Service Management Forums in your local area.
+> **[0:02](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=2)** If you would like to learn more about some of the topics raised in this course, there are many resources available for you via the [[LinkedIn]] Library of Courses as well as [[IT Service Management]] Forums in your local area.
 >
-> **[0:16](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=16)** I also post articles on better service management processes from time to time on my blog, SystemCenterNoise.[Wordpress.com](https://Wordpress.com).
+> **[0:16](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=16)** I also post articles on better service management processes from time to time on my blog, SystemCenterNoise.[[[WordPress]].com](https://Wordpress.com).
 >
-> **[0:26](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=26)** I also post Microsoft System Center notes from the field and ways to improve delivery of services to end customers.
+> **[0:26](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=26)** I also post [[Microsoft]] System Center notes from the field and ways to improve delivery of services to end customers.
 >
 > **[0:34](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980&t=34)** If you would like to get in contact with me, you can reach me via my LinkedIn profile.
 >
@@ -1091,7 +1067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[IT Service Management]] (1), management (1), [[WordPress]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[IT Service Management]] (1), [[WordPress]] (1), [[Microsoft]] (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (1)
 > **Speakers:** - [instructor] (1)
 

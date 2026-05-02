@@ -109,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Programming concepts with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/programming-concepts-with-python?u=76281980)
+#### [Programming concepts with Python](https://www.linkedin.com/learning/programming-concepts-for-python/programming-concepts-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -128,26 +127,25 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/programming-concepts-for-python/programming-concepts-with-python?u=76281980&t=40)** I'll clean my house, run some errands, and even order pizza to explain functions objects and other essential programming constructs.
 >
-> **[0:47](https://www.linkedin.com/learning/programming-concepts-for-python/programming-concepts-with-python?u=76281980&t=47)** Along the way, I'll dip into Python, an object-oriented programming language, where I'll walk through some code to help cement these ideas.
+> **[0:47](https://www.linkedin.com/learning/programming-concepts-for-python/programming-concepts-with-python?u=76281980&t=47)** Along the way, I'll dip into [[Python (Programming Language)|Python]], an [[Object-Oriented Programming (OOP)|object-oriented programming]] language, where I'll walk through some code to help cement these ideas.
 >
 > **[0:54](https://www.linkedin.com/learning/programming-concepts-for-python/programming-concepts-with-python?u=76281980&t=54)** I've got a busy day ahead of me, so let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), data (1), [[Python (Programming Language)|Python]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - when (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/programming-concepts-for-python/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/what-you-should-know?u=76281980&t=0)** - The purpose of this course is to give beginner and intermediate programmers a better understanding of what goes on under the hood.
 >
-> **[0:07](https://www.linkedin.com/learning/programming-concepts-for-python/what-you-should-know?u=76281980&t=7)** So my emphasis will be on programming concepts.
+> **[0:07](https://www.linkedin.com/learning/programming-concepts-for-python/what-you-should-know?u=76281980&t=7)** So my emphasis will be on [[Programming Concepts]].
 >
-> **[0:09](https://www.linkedin.com/learning/programming-concepts-for-python/what-you-should-know?u=76281980&t=9)** I'll be using a programming language called Python for my code examples but my intention is not to teach Python, so I won't be spending much time discussing specific details like syntax.
+> **[0:09](https://www.linkedin.com/learning/programming-concepts-for-python/what-you-should-know?u=76281980&t=9)** I'll be using a programming language called [[Python (Programming Language)|Python]] for my code examples but my intention is not to teach Python, so I won't be spending much time discussing specific details like syntax.
 >
 > **[0:19](https://www.linkedin.com/learning/programming-concepts-for-python/what-you-should-know?u=76281980&t=19)** If you're comfortable writing a basic program in the language of your choice, you shouldn't have a problem following along.
 >
@@ -159,17 +157,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming Concepts]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming Concepts]] (1)
 > **CLI Commands:** python (5)
 > **Definitions:** is a  (3)
 > **Speakers:** - the (1)
 
-#### Using GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/using-github-codespaces?u=76281980)
+#### [Using GitHub Codespaces](https://www.linkedin.com/learning/programming-concepts-for-python/using-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/using-github-codespaces?u=76281980&t=0)** - [Instructor] To demonstrate coding examples throughout this course, we'll be using a GitHub Codespaces environment.
+> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/using-github-codespaces?u=76281980&t=0)** - [Instructor] To demonstrate coding examples throughout this course, we'll be using a [[GitHub]] [[Codespaces]] environment.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-concepts-for-python/using-github-codespaces?u=76281980&t=6)** If you want to follow along with coding, we recommend you use Codespaces as well.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/programming-concepts-for-python/using-github-codespaces?u=76281980&t=48)** So for example, if you wanted to play around with the code from the first video in chapter one, which is about functions, you can find that code in the directory named 01_01_functions.
 >
-> **[1:02](https://www.linkedin.com/learning/programming-concepts-for-python/using-github-codespaces?u=76281980&t=62)** In this case, we've included a Python script with the state of the code at the beginning of the video, and a second script representing our code changes and interactions by the end of the video.
+> **[1:02](https://www.linkedin.com/learning/programming-concepts-for-python/using-github-codespaces?u=76281980&t=62)** In this case, we've included a [[Python (Programming Language)|Python]] script with the state of the code at the beginning of the video, and a second script representing our code changes and interactions by the end of the video.
 >
 > **[1:15](https://www.linkedin.com/learning/programming-concepts-for-python/using-github-codespaces?u=76281980&t=75)** We'll use Python and its interactive interpreter in different ways throughout this course so the files for each video don't always follow this structure but we've tried our best to include the relevant bits of code and comments that will hopefully make sense when following along with each video.
 >
@@ -206,8 +203,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980)
+#### [Functions](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,9 +259,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980&t=142)** - And I know exactly what to do.
 >
-> **[2:23](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980&t=143)** Let's look at that omelette making process as a function in Python.
+> **[2:23](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980&t=143)** Let's look at that omelette making process as a function in [[Python (Programming Language)|Python]].
 >
-> **[2:27](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980&t=147)** I have the example script, functions_begin.py, open in my Codespaces environment.
+> **[2:27](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980&t=147)** I have the example script, functions_begin.py, open in my [[Codespaces]] environment.
 >
 > **[2:33](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980&t=153)** Let's use it to assemble a functional breakfast.
 >
@@ -355,7 +351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (2), [[Codespaces]] (2), functional (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Codespaces]] (2)
 > **CLI Commands:** make (17), python (5)
 > **Code Identifiers:** make_omelette (6), functions_begin (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -364,8 +360,7 @@ created: 2026-05-02
 > **File Paths:** functions_begin.py (1)
 > **UI Navigation:** go to (1)
 
-#### Code reuse
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/code-reuse?u=76281980)
+#### [Code reuse](https://www.linkedin.com/learning/programming-concepts-for-python/code-reuse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,7 +416,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/programming-concepts-for-python/code-reuse?u=76281980&t=139)** The function will automatically return and pass back an object called None.
 >
-> **[2:23](https://www.linkedin.com/learning/programming-concepts-for-python/code-reuse?u=76281980&t=143)** This is a special data type that Python uses to indicate something does not have a value.
+> **[2:23](https://www.linkedin.com/learning/programming-concepts-for-python/code-reuse?u=76281980&t=143)** This is a special data type that [[Python (Programming Language)|Python]] uses to indicate something does not have a value.
 >
 > **[2:30](https://www.linkedin.com/learning/programming-concepts-for-python/code-reuse?u=76281980&t=150)** Now that we've defined the mix_and_cook() function, let's replace those steps in the other two functions with a single call to mix_and_cook().
 >
@@ -465,15 +460,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** mix_and_cook (13), make_pancake (8), make_omelette (7)
 > **CLI Commands:** make (7), python (1)
 > **Speakers:** - eating (1), - how (1), - sounds (1), - [olivia] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
-#### Parameters and arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/parameters-and-arguments?u=76281980)
+#### [Parameters and arguments](https://www.linkedin.com/learning/programming-concepts-for-python/parameters-and-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +481,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/programming-concepts-for-python/parameters-and-arguments?u=76281980&t=18)** Now, when I decide to make an omelet, I'll choose an ingredient, like maybe this plate of bacon, and I'll use that ingredient as the input to my omelet making function.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-concepts-for-python/parameters-and-arguments?u=76281980&t=28)** Let's take a quick look at how we can pass input ingredients to the make omelet function in Python.
+> **[0:28](https://www.linkedin.com/learning/programming-concepts-for-python/parameters-and-arguments?u=76281980&t=28)** Let's take a quick look at how we can pass input ingredients to the make omelet function in [[Python (Programming Language)|Python]].
 >
 > **[0:33](https://www.linkedin.com/learning/programming-concepts-for-python/parameters-and-arguments?u=76281980&t=33)** This example script has the mix and cook, make omelet and make pancake functions we defined in the previous video.
 >
@@ -497,7 +491,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/programming-concepts-for-python/parameters-and-arguments?u=76281980&t=61)** Let's use that value within the function to modify the string of text that it returns.
 >
-> **[1:06](https://www.linkedin.com/learning/programming-concepts-for-python/parameters-and-arguments?u=76281980&t=66)** Instead of saying that the output of make omelet is a tasty omelet, we'll use a format string or f string to insert the ingredient in place of the word tasty.
+> **[1:06](https://www.linkedin.com/learning/programming-concepts-for-python/parameters-and-arguments?u=76281980&t=66)** Instead of saying that the output of make omelet is a tasty omelet, we'll use a format string or f string to insert the ingredient in place of the [[Microsoft Word|word]] tasty.
 >
 > **[1:16](https://www.linkedin.com/learning/programming-concepts-for-python/parameters-and-arguments?u=76281980&t=76)** Python's F string will replace the curly braces in the string with the value of the ingredient parameter.
 >
@@ -533,14 +527,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (13), python (2)
 > **Definitions:** is a  (5), is called (1), refers to (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - the (1)
 
-#### Multiple parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/multiple-parameters?u=76281980)
+#### [Multiple parameters](https://www.linkedin.com/learning/programming-concepts-for-python/multiple-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,7 +551,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/programming-concepts-for-python/multiple-parameters?u=76281980&t=23)** In this case, it may be wise to not limit ourselves to only using one extra ingredient.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-concepts-for-python/multiple-parameters?u=76281980&t=28)** - [Olivia] One way we can add more ingredients to our Python omelette is by adding more input parameters to the function definition.
+> **[0:28](https://www.linkedin.com/learning/programming-concepts-for-python/multiple-parameters?u=76281980&t=28)** - [Olivia] One way we can add more ingredients to our [[Python (Programming Language)|Python]] omelette is by adding more input parameters to the function definition.
 >
 > **[0:34](https://www.linkedin.com/learning/programming-concepts-for-python/multiple-parameters?u=76281980&t=34)** So instead of having just one input named ingredient, we can give the function two inputs named ingredient1 and ingredient2.
 >
@@ -623,8 +616,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Prerequisites:** required to (1)
 
-#### Local and global variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/local-and-global-variables?u=76281980)
+#### [Local and global variables](https://www.linkedin.com/learning/programming-concepts-for-python/local-and-global-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -678,7 +670,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/programming-concepts-for-python/local-and-global-variables?u=76281980&t=114)** That means we can only use the parameter named ingredient, and the variable named omelette inside of that make_omelette function.
 >
-> **[2:01](https://www.linkedin.com/learning/programming-concepts-for-python/local-and-global-variables?u=76281980&t=121)** If we try to access either of those variables elsewhere in the program, Python will throw an error because those variable names don't exist outside of the scope of the make_omelette function.
+> **[2:01](https://www.linkedin.com/learning/programming-concepts-for-python/local-and-global-variables?u=76281980&t=121)** If we try to access either of those variables elsewhere in the program, [[Python (Programming Language)|Python]] will throw an error because those variable names don't exist outside of the scope of the make_omelette function.
 >
 > **[2:10](https://www.linkedin.com/learning/programming-concepts-for-python/local-and-global-variables?u=76281980&t=130)** Let's demonstrate that by trying to access the ingredient parameter from within the make_pancake function.
 >
@@ -792,7 +784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Search]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10)
 > **Code Identifiers:** make_omelette (17), make_pancake (8), make_omelet (1)
 > **CLI Commands:** python (10), make (5), find (4)
 > **Speakers:** - but (2), - while (1), - ooh (1), - oh (1), - olivia (1)
@@ -805,12 +797,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980)
+#### [Objects](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980&t=1)** - Many modern languages, including Java, C#, and Python, implement a programming model called Object-Oriented Programming, which is intended to give programmers a way to think about the various elements in their program, like objects in the real world.
+> **[0:01](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980&t=1)** - Many modern languages, including [[Java]], C#, and [[Python (Programming Language)|Python]], implement a programming model called [[Object-Oriented Programming (OOP)|Object-Oriented Programming]], which is intended to give programmers a way to think about the various elements in their program, like objects in the real world.
 >
 > **[0:14](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980&t=14)** Rather than thinking about a program as a sequence of logic and actions, in an Object-Oriented Programming language, we create virtual objects as the pieces of our program and then interact with and use those objects to accomplish a task.
 >
@@ -884,7 +875,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980&t=233)** Now let's create a few objects starting with a string that simply says 'shirt.'
 >
-> **[4:00](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980&t=240)** When I press Enter to run that command, Python creates a new string object, and then the shell prints that string representation of the object, which in this case is just the word 'shirt.'
+> **[4:00](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980&t=240)** When I press Enter to run that command, Python creates a new string object, and then the shell prints that string representation of the object, which in this case is just the [[Microsoft Word|word]] 'shirt.'
 >
 > **[4:12](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980&t=252)** To see the type of object that command created, we can use Python's type function on it.
 >
@@ -944,7 +935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Programming]] (4), data (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Microsoft Word|Word]] (2), [[Java]] (1)
 > **CLI Commands:** python (12), make (1)
 > **Definitions:** is an  (6), short for (1), is a  (1)
 > **Analogies:** for example (5), just like (2), imagine (1)
@@ -952,12 +943,11 @@ created: 2026-05-02
 > **Tools:** terminal (4)
 > **Speakers:** - many (1)
 
-#### Classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/classes?u=76281980)
+#### [Classes](https://www.linkedin.com/learning/programming-concepts-for-python/classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-concepts-for-python/classes?u=76281980&t=1)** - Out of the box, object-oriented programming languages give us the ability to create objects for common types of things like representing numbers and strings.
+> **[0:01](https://www.linkedin.com/learning/programming-concepts-for-python/classes?u=76281980&t=1)** - Out of the box, [[Object-Oriented Programming (OOP)|object-oriented programming]] languages give us the ability to create objects for common types of things like representing numbers and strings.
 >
 > **[0:09](https://www.linkedin.com/learning/programming-concepts-for-python/classes?u=76281980&t=9)** But if I want to create my own custom types of objects, I can do so by defining classes, which are the blueprints used to create new objects.
 >
@@ -979,7 +969,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/programming-concepts-for-python/classes?u=76281980&t=62)** So when I supply the order page with those arguments and click Buy, it constructs that pair of jeans and I get it in the mail.
 >
-> **[1:11](https://www.linkedin.com/learning/programming-concepts-for-python/classes?u=76281980&t=71)** We can do a similar thing with Python.
+> **[1:11](https://www.linkedin.com/learning/programming-concepts-for-python/classes?u=76281980&t=71)** We can do a similar thing with [[Python (Programming Language)|Python]].
 >
 > **[1:13](https://www.linkedin.com/learning/programming-concepts-for-python/classes?u=76281980&t=73)** The script shown here defines a class at line three that can be used to construct objects representing a pair of jeans.
 >
@@ -1069,7 +1059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **Code Identifiers:** my_jeans (7), put_on (4), take_off (4), classes_begin (2)
 > **CLI Commands:** python (11), make (1)
 > **Definitions:** is a  (2)
@@ -1078,8 +1068,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - out (1)
 
-#### Object names
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/object-names?u=76281980)
+#### [Object names](https://www.linkedin.com/learning/programming-concepts-for-python/object-names?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1143,7 +1132,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/programming-concepts-for-python/object-names?u=76281980&t=122)** There are also methods to virtually spill juice on the shirt and to wash it named make_dirty and make_clean respectively, which change the value of the clean attribute accordingly.
 >
-> **[2:13](https://www.linkedin.com/learning/programming-concepts-for-python/object-names?u=76281980&t=133)** I've already opened a terminal in the same directory as that script, started Python, and used an import statement to load the shirt class into scope.
+> **[2:13](https://www.linkedin.com/learning/programming-concepts-for-python/object-names?u=76281980&t=133)** I've already opened a terminal in the same directory as that script, started [[Python (Programming Language)|Python]], and used an import statement to load the shirt class into scope.
 >
 > **[2:21](https://www.linkedin.com/learning/programming-concepts-for-python/object-names?u=76281980&t=141)** Now let's create a new shirt object and assign it to a variable named red.
 >
@@ -1211,8 +1200,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
 
-#### Mutability
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/mutability?u=76281980)
+#### [Mutability](https://www.linkedin.com/learning/programming-concepts-for-python/mutability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1226,7 +1214,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/programming-concepts-for-python/mutability?u=76281980&t=28)** For example, you'd want to avoid using immutable data types to store values in your program that we're going to constantly changing or needing to be changed.
 >
-> **[0:37](https://www.linkedin.com/learning/programming-concepts-for-python/mutability?u=76281980&t=37)** One example of mutable object in Python is the list, which is an object type that acts as a container to store an ordered collection of other objects.
+> **[0:37](https://www.linkedin.com/learning/programming-concepts-for-python/mutability?u=76281980&t=37)** One example of mutable object in [[Python (Programming Language)|Python]] is the list, which is an object type that acts as a container to store an ordered collection of other objects.
 >
 > **[0:45](https://www.linkedin.com/learning/programming-concepts-for-python/mutability?u=76281980&t=45)** You can think of this rack of clothes as a list, which contains several different clothing objects.
 >
@@ -1310,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8)
 > **CLI Commands:** python (8), make (2)
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - as (1), - what (1), - you (1)
@@ -1322,8 +1310,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Class inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980)
+#### [Class inheritance](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1367,7 +1354,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980&t=105)** These two methods are defined within the car class because they're specific to a car and don't necessarily apply to other types of vehicles.
 >
-> **[1:54](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980&t=114)** Like a motorcycle, it doesn't make sense for the motorcycle class to have a method for opening the windows because well, the windows are always open on a motorcycle, but it does make sense for the motorcycle to have the color and manufacturer data.
+> **[1:54](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980&t=114)** Like a motorcycle, it doesn't make sense for the motorcycle class to have a method for opening the [[Windows]] because well, the windows are always open on a motorcycle, but it does make sense for the motorcycle to have the color and manufacturer data.
 >
 > **[2:07](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980&t=127)** My silver Harley can inherit the gas and drive methods as well.
 >
@@ -1375,7 +1362,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980&t=135)** And then in addition to the inherited data fields and methods, I can also describe some motorcycle specific things like putting on my helmet.
 >
-> **[2:28](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980&t=148)** This example Python script represents a garage full of classy vehicles.
+> **[2:28](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980&t=148)** This example [[Python (Programming Language)|Python]] script represents a garage full of classy vehicles.
 >
 > **[2:33](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980&t=153)** We have three class definitions here.
 >
@@ -1475,21 +1462,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Windows]] (4), [[Python (Programming Language)|Python]] (3), generic (2), next (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** make (4), python (3)
 > **Definitions:** is a  (3)
 > **Tools:** terminal (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - when (1)
 
-#### Overriding inherited methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/overriding-inherited-methods?u=76281980)
+#### [Overriding inherited methods](https://www.linkedin.com/learning/programming-concepts-for-python/overriding-inherited-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/overriding-inherited-methods?u=76281980&t=0)** - Nowadays, not all cars run on gasoline, some are electric.
 >
-> **[0:04](https://www.linkedin.com/learning/programming-concepts-for-python/overriding-inherited-methods?u=76281980&t=4)** Electric cars have a radio and windows, so they could inherit those methods from the car class.
+> **[0:04](https://www.linkedin.com/learning/programming-concepts-for-python/overriding-inherited-methods?u=76281980&t=4)** Electric cars have a radio and [[Windows]], so they could inherit those methods from the car class.
 >
 > **[0:09](https://www.linkedin.com/learning/programming-concepts-for-python/overriding-inherited-methods?u=76281980&t=9)** An electric car also has a color and manufacturer.
 >
@@ -1523,7 +1509,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/programming-concepts-for-python/overriding-inherited-methods?u=76281980&t=140)** Now that completes our electric car class.
 >
-> **[2:24](https://www.linkedin.com/learning/programming-concepts-for-python/overriding-inherited-methods?u=76281980&t=144)** I've already opened a terminal in the directory with the script and started Python to load everything into scope, we'll use the command from overriding begin import Star.
+> **[2:24](https://www.linkedin.com/learning/programming-concepts-for-python/overriding-inherited-methods?u=76281980&t=144)** I've already opened a terminal in the directory with the script and started [[Python (Programming Language)|Python]] to load everything into scope, we'll use the command from overriding begin import Star.
 >
 > **[2:36](https://www.linkedin.com/learning/programming-concepts-for-python/overriding-inherited-methods?u=76281980&t=156)** Now, let's use that class to create a new electric car named my_ecar, and we'll do that by calling the electric car constructor method to make a white Nissan.
 >
@@ -1549,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Windows]] (2), power (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (6), python (1)
 > **Code Identifiers:** my_ecar (1)
 > **Cross-References:** previous video (1)
@@ -1562,8 +1548,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980)
+#### [Modules](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1591,13 +1576,13 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980&t=80)** But if I only need to use a single wrench for this job, then importing the entire module would be overkill, and it can be cumbersome to carry the toolbox over and access it every time I want to use that same wrench.
 >
-> **[1:30](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980&t=90)** For example, (wrench clanging) if I realize that I need a roll of duct tape to fix my car because duct tape fixes everything, I can come over here to this box full of tape, glue, and other assorted adhesives, and since duct tape is the only item I'll need from it, I'll just grab the roll of tape and leave the rest of items in the box.
+> **[1:30](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980&t=90)** For example, (wrench clanging) if I realize that I need a roll of duct tape to fix my car because duct tape fixes everything, I can come over here to this box full of tape, glue, and other assorted adhesives, and since duct tape is the only item I'll need from it, I'll just grab the roll of tape and leave the [[Representational State Transfer (REST)|rest]] of items in the box.
 >
 > **[1:49](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980&t=109)** Some languages require you to import entire modules just to use one tool.
 >
-> **[1:54](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980&t=114)** Others like Python, give me the flexibility to import entire modules or just select the specific tool that I need.
+> **[1:54](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980&t=114)** Others like [[Python (Programming Language)|Python]], give me the flexibility to import entire modules or just select the specific tool that I need.
 >
-> **[2:02](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980&t=122)** Python doesn't have hardware tools, like wrenches or screwdrivers, but it does come with an assortment of software modules.
+> **[2:02](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980&t=122)** Python doesn't have [[Hardware]] tools, like wrenches or screwdrivers, but it does come with an assortment of software modules.
 >
 > **[2:10](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980&t=130)** First, we'll need to pick a module to use.
 >
@@ -1677,7 +1662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
 > **CLI Commands:** python (10), find (1)
 > **Analogies:** for example (2), just like (1), such as (1)
 > **UI Navigation:** select the (3)
@@ -1686,12 +1671,11 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Tools:** terminal (1)
 
-#### Packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980)
+#### [Packages](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=0)** - As you're searching through the existing library of Python functions, you'll probably come across the terms module and package.
+> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=0)** - As you're searching through the existing library of [[Python (Programming Language)|Python]] functions, you'll probably come across the terms module and package.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=7)** Modules and packages are both collections of Python functions and classes that you can import and use in programs.
 >
@@ -1733,7 +1717,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=153)** For example, to use the urlopen function, we would type urllib.request.urlopen and then give it the URL we want to access.
 >
-> **[2:46](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=166)** Let's try accessing [google.com](https://google.com).
+> **[2:46](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=166)** Let's try accessing [[[Google]].com](https://google.com).
 >
 > **[2:50](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=170)** That function accesses [google.com](https://google.com) and returns an HTTPResponse object that contains the information it retrieved.
 >
@@ -1743,19 +1727,19 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=192)** The thing that makes a Python package different from a regular module is that it has an additional special path attribute that points to the folder for the package which contains its modules.
 >
-> **[3:23](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=203)** For example, we can see the path for the urllib package by accessing the path attribute, which is the word path with two underscores on each side.
+> **[3:23](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=203)** For example, we can see the path for the urllib package by accessing the path attribute, which is the [[Microsoft Word|word]] path with two underscores on each side.
 >
 > **[3:33](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=213)** That reveals the path to the urllib package within this code space environment.
 >
 > **[3:38](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=218)** Now I'll use the exit function to close out this Python session.
 >
-> **[3:45](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=225)** Then within this Linux environment, I'll use the cd command to change my working directory to where urllib is located.
+> **[3:45](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=225)** Then within this [[Linux]] environment, I'll use the cd command to change my working directory to where urllib is located.
 >
 > **[3:54](https://www.linkedin.com/learning/programming-concepts-for-python/packages?u=76281980&t=234)** Now that this terminal is working in that directory, if we use the ls command to list all of the files within that directory, we see a bunch of .py files, which are the various modules that make up the urllib package.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Google]] (2), next (1), [[Microsoft Word|Word]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Google]] (2), [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **CLI Commands:** python (9), cd (1), ls (1), make (1)
 > **Analogies:** for example (3), similar to (1), such as (1), just like (1)
 > **Definitions:** is a  (4), refers to (1)
@@ -1769,12 +1753,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980)
+#### [Lists](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980&t=0)** - Lists and tuples are two data structures that you can use to store a collection of objects in a specific order.
+> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980&t=0)** - Lists and tuples are two [[Data Structures]] that you can use to store a collection of objects in a specific order.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980&t=7)** You can visualize a list as a row of objects sitting in a line.
 >
@@ -1848,7 +1831,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980&t=174)** You shouldn't expect an object to stay at the same position within a list if you're inserting and removing other objects because that can shift things around.
 >
-> **[3:02](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980&t=182)** - [Instructor] For this demonstration, we'll just be entering commands directly into this interactive Python shell that I have opened in Code Spaces.
+> **[3:02](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980&t=182)** - [Instructor] For this demonstration, we'll just be entering commands directly into this interactive [[Python (Programming Language)|Python]] shell that I have opened in Code Spaces.
 >
 > **[3:10](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980&t=190)** One way to create a list in Python is to enclose a sequence of objects in square brackets with the objects separated by commas as shown here.
 >
@@ -1940,7 +1923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Python (Programming Language)|Python]] (4), next (2), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Structures]] (1)
 > **Speakers:** - well (2), - lists (1), - hey (1), - yep (1), - what (1)
 > **CLI Commands:** find (4), python (4), make (3)
 > **Env Vars:** pop (4), bmw (2)
@@ -1948,8 +1931,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
 
-#### Multidimensional lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/multidimensional-lists?u=76281980)
+#### [Multidimensional lists](https://www.linkedin.com/learning/programming-concepts-for-python/multidimensional-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2017,7 +1999,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/programming-concepts-for-python/multidimensional-lists?u=76281980&t=171)** For example, floors zero and two each have three rows of cars, whereas floor number one only has two rows of cars.
 >
-> **[3:00](https://www.linkedin.com/learning/programming-concepts-for-python/multidimensional-lists?u=76281980&t=180)** Now, I have a terminal open in the same directory as that script, and I've already started Python and used an import statement to load all of those lists into Scope.
+> **[3:00](https://www.linkedin.com/learning/programming-concepts-for-python/multidimensional-lists?u=76281980&t=180)** Now, I have a terminal open in the same directory as that script, and I've already started [[Python (Programming Language)|Python]] and used an import statement to load all of those lists into Scope.
 >
 > **[3:10](https://www.linkedin.com/learning/programming-concepts-for-python/multidimensional-lists?u=76281980&t=190)** If I type lot_2d and press Enter, the interactive shell prints out the contents of the two-dimensional lot.
 >
@@ -2083,7 +2065,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (2), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** later in (1)
@@ -2092,8 +2074,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - basic (1)
 
-#### Tuples
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/tuples?u=76281980)
+#### [Tuples](https://www.linkedin.com/learning/programming-concepts-for-python/tuples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2121,7 +2102,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/programming-concepts-for-python/tuples?u=76281980&t=63)** If I drive somewhere else and ask the GPS for my location again, it'll give me a new tuple corresponding to my new location.
 >
-> **[1:11](https://www.linkedin.com/learning/programming-concepts-for-python/tuples?u=76281980&t=71)** The syntax for creating a tuple in Python is very similar to the way we create a list, except that instead of using square brackets, we enclose the items in curved parentheses.
+> **[1:11](https://www.linkedin.com/learning/programming-concepts-for-python/tuples?u=76281980&t=71)** The syntax for creating a tuple in [[Python (Programming Language)|Python]] is very similar to the way we create a list, except that instead of using square brackets, we enclose the items in curved parentheses.
 >
 > **[1:22](https://www.linkedin.com/learning/programming-concepts-for-python/tuples?u=76281980&t=82)** Let's create a new tuple in this Python session named my_tuple, and we'll give it a mix of letters and numbers.
 >
@@ -2147,7 +2128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Analogies:** just like (4), similar to (2), for example (1)
 > **CLI Commands:** python (3), find (1), make (1)
 > **Env Vars:** gps (5)
@@ -2160,12 +2141,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980)
+#### [Queues](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980&t=0)** - Queues and stacks are two data structures which enable you to store and retrieve objects based on the order that they're put into the queue or stack.
+> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980&t=0)** - Queues and stacks are two [[Data Structures]] which enable you to store and retrieve objects based on the order that they're put into the queue or stack.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980&t=8)** Queues operate on a principle called first in, first out, or FIFO.
 >
@@ -2225,7 +2205,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980&t=147)** As long as Olivia can process the bags as fast as the average rate that I bring them to the queue, then all of the groceries will get put away eventually.
 >
-> **[2:36](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980&t=156)** - [Olivia] Queues are not a fundamental Python data type, like integer, strings, lists, or tools.
+> **[2:36](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980&t=156)** - [Olivia] Queues are not a fundamental [[Python (Programming Language)|Python]] data type, like integer, strings, lists, or tools.
 >
 > **[2:41](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980&t=161)** So to create a queue, the first thing we'll need to do is import the standard module named queue into the Python session.
 >
@@ -2331,7 +2311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (6), next (5)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Data Structures]] (1)
 > **Speakers:** - and (2), - queues (1), - sure (1), - sounds (1), - these (1)
 > **CLI Commands:** python (7), make (1)
 > **Definitions:** is a  (2), stands for (1), is an  (1)
@@ -2340,8 +2320,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), similar to (1)
 > **Cross-References:** later in (1)
 
-#### Stacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/stacks?u=76281980)
+#### [Stacks](https://www.linkedin.com/learning/programming-concepts-for-python/stacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2369,9 +2348,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/programming-concepts-for-python/stacks?u=76281980&t=59)** Since that bill Olivia found is the newest item on the stack, it'll get processed next, after I finish with this one.
 >
-> **[1:05](https://www.linkedin.com/learning/programming-concepts-for-python/stacks?u=76281980&t=65)** Of all the different concepts and data structures in computer science, I think stacks are one of the most sensibly named because they work like a stack of things in real life.
+> **[1:05](https://www.linkedin.com/learning/programming-concepts-for-python/stacks?u=76281980&t=65)** Of all the different concepts and [[Data Structures]] in computer science, I think stacks are one of the most sensibly named because they work like a stack of things in real life.
 >
-> **[1:15](https://www.linkedin.com/learning/programming-concepts-for-python/stacks?u=76281980&t=75)** - [Olivia] Python does not have a built-in data type or module called stack.
+> **[1:15](https://www.linkedin.com/learning/programming-concepts-for-python/stacks?u=76281980&t=75)** - [Olivia] [[Python (Programming Language)|Python]] does not have a built-in data type or module called stack.
 >
 > **[1:19](https://www.linkedin.com/learning/programming-concepts-for-python/stacks?u=76281980&t=79)** However, we can use the list data structure to implement stack-like behavior because we can add and remove objects from the list in a last in, first out manner.
 >
@@ -2419,7 +2398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Python (Programming Language)|Python]] (1)
 > **Speakers:** - while (1), - hey (1), - whoops (1), - [olivia] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
@@ -2430,8 +2409,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and combine sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/create-and-combine-sets?u=76281980)
+#### [Create and combine sets](https://www.linkedin.com/learning/programming-concepts-for-python/create-and-combine-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2465,7 +2443,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/programming-concepts-for-python/create-and-combine-sets?u=76281980&t=80)** Since all of the items in a set must be unique, we lose any duplicates, so that the resulting set will only have one of every item.
 >
-> **[1:28](https://www.linkedin.com/learning/programming-concepts-for-python/create-and-combine-sets?u=76281980&t=88)** This script demonstrates how to create new sets in Python by using the set() function and passing in a list of items for the set to initially contain.
+> **[1:28](https://www.linkedin.com/learning/programming-concepts-for-python/create-and-combine-sets?u=76281980&t=88)** This script demonstrates how to create new sets in [[Python (Programming Language)|Python]] by using the set() function and passing in a list of items for the set to initially contain.
 >
 > **[1:37](https://www.linkedin.com/learning/programming-concepts-for-python/create-and-combine-sets?u=76281980&t=97)** For this example, I've created a list of strings containing the names of my friends for each group, and I pass those lists to the set() function to create the three set objects for my college, coworker, and family friends.
 >
@@ -2517,15 +2495,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Tools:** terminal (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - if (1)
 
-#### Sort sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/sort-sets?u=76281980)
+#### [Sort sets](https://www.linkedin.com/learning/programming-concepts-for-python/sort-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2587,7 +2564,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/programming-concepts-for-python/sort-sets?u=76281980&t=157)** This is going to be a great game.
 >
-> **[2:40](https://www.linkedin.com/learning/programming-concepts-for-python/sort-sets?u=76281980&t=160)** This example script creates four Python sets that represent different groups of people.
+> **[2:40](https://www.linkedin.com/learning/programming-concepts-for-python/sort-sets?u=76281980&t=160)** This example script creates four [[Python (Programming Language)|Python]] sets that represent different groups of people.
 >
 > **[2:45](https://www.linkedin.com/learning/programming-concepts-for-python/sort-sets?u=76281980&t=165)** The first set initialized at line four, contains all 20 of my friends.
 >
@@ -2633,14 +2610,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (6), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (2), python (2)
 > **Speakers:** - now (1), - here (1), - thank (1)
 > **Tools:** terminal (1)
 > **Definitions:** is called (1)
 
-#### Add and remove items from sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/add-and-remove-items-from-sets?u=76281980)
+#### [Add and remove items from sets](https://www.linkedin.com/learning/programming-concepts-for-python/add-and-remove-items-from-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2702,7 +2678,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/programming-concepts-for-python/add-and-remove-items-from-sets?u=76281980&t=96)** I've already opened a terminal in the same directory as that script.
 >
-> **[1:39](https://www.linkedin.com/learning/programming-concepts-for-python/add-and-remove-items-from-sets?u=76281980&t=99)** Started Python and used an import statement to load that set in the scope.
+> **[1:39](https://www.linkedin.com/learning/programming-concepts-for-python/add-and-remove-items-from-sets?u=76281980&t=99)** Started [[Python (Programming Language)|Python]] and used an import statement to load that set in the scope.
 >
 > **[1:45](https://www.linkedin.com/learning/programming-concepts-for-python/add-and-remove-items-from-sets?u=76281980&t=105)** The first thing I want to do is check whether or not Vern is in my set of friends to invite.
 >
@@ -2764,7 +2740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), game (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (2), find (2)
 > **Speakers:** - now (1), - hey (1), - well (1)
 > **Tools:** terminal (1)
@@ -2775,12 +2751,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980)
+#### [Dictionaries](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980&t=0)** - Before the days of the internet, when you wanted to look up the meaning of a word, you could look it up in a dictionary like this one.
+> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980&t=0)** - Before the days of the internet, when you wanted to look up the meaning of a [[Microsoft Word|word]], you could look it up in a dictionary like this one.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980&t=7)** This dictionary holds thousands of definitions in it, and I can find the definition I'm looking for very quickly because I can index it using the associated word.
 >
@@ -2814,7 +2789,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980&t=91)** Instead, many languages use a method called hashing to store and retrieve dictionary values.
 >
-> **[1:36](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980&t=96)** When I want to store a key-value pair in the dictionary, Python uses a hash function on the key, which is a special routine that takes the key object and maps it to a single mathematically calculated number.
+> **[1:36](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980&t=96)** When I want to store a key-value pair in the dictionary, [[Python (Programming Language)|Python]] uses a hash function on the key, which is a special routine that takes the key object and maps it to a single mathematically calculated number.
 >
 > **[1:49](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980&t=109)** That number is used as the index into a table to determine where the corresponding value should be stored.
 >
@@ -2852,15 +2827,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (3), [[Microsoft Word|Word]] (2), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (7), find (3), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
 > **Tools:** terminal (1)
 > **Speakers:** - before (1)
 
-#### Add items to dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/add-items-to-dictionaries?u=76281980)
+#### [Add items to dictionaries](https://www.linkedin.com/learning/programming-concepts-for-python/add-items-to-dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2884,7 +2858,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/programming-concepts-for-python/add-items-to-dictionaries?u=76281980&t=42)** Next time I need to look up Amanda's number, I can just flip to the A's and find it right away.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-concepts-for-python/add-items-to-dictionaries?u=76281980&t=48)** Adding Amanda to the Python Rolodex is just as easy as adding a new card to the physical Rolodex.
+> **[0:48](https://www.linkedin.com/learning/programming-concepts-for-python/add-items-to-dictionaries?u=76281980&t=48)** Adding Amanda to the [[Python (Programming Language)|Python]] Rolodex is just as easy as adding a new card to the physical Rolodex.
 >
 > **[0:55](https://www.linkedin.com/learning/programming-concepts-for-python/add-items-to-dictionaries?u=76281980&t=55)** To demonstrate that we'll be using the same Python Rolodex as before, which I've already loaded into a new Python session using an import statement in the terminal below.
 >
@@ -2958,7 +2932,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/programming-concepts-for-python/add-items-to-dictionaries?u=76281980&t=293)** What we need now is something to distinguish the keys for each David.
 >
-> **[4:58](https://www.linkedin.com/learning/programming-concepts-for-python/add-items-to-dictionaries?u=76281980&t=298)** We can do that by adding the word Amanda in parentheses to the string that we're using as a key for Amanda's friend David.
+> **[4:58](https://www.linkedin.com/learning/programming-concepts-for-python/add-items-to-dictionaries?u=76281980&t=298)** We can do that by adding the [[Microsoft Word|word]] Amanda in parentheses to the string that we're using as a key for Amanda's friend David.
 >
 > **[5:06](https://www.linkedin.com/learning/programming-concepts-for-python/add-items-to-dictionaries?u=76281980&t=306)** Now, we have both numbers stored in the Rolodex, but they're stored using different keys so we can tell them apart.
 >
@@ -2970,14 +2944,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (2), data (2), game (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (5), find (2), make (2)
 > **Analogies:** just like (1), similar to (1)
 > **Speakers:** - a (1), - here (1)
 > **Tools:** terminal (1)
 
-#### Reverse lookup issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/reverse-lookup-issues?u=76281980)
+#### [Reverse lookup issues](https://www.linkedin.com/learning/programming-concepts-for-python/reverse-lookup-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3023,7 +2996,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/programming-concepts-for-python/reverse-lookup-issues?u=76281980&t=95)** If I wanted to make sure that I found all of the people who have that number in common, then I would've had to search through the entire Rolodex, and that could've taken a really long time.
 >
-> **[1:45](https://www.linkedin.com/learning/programming-concepts-for-python/reverse-lookup-issues?u=76281980&t=105)** Let's create an inverse lookup function for our Python Rolodex.
+> **[1:45](https://www.linkedin.com/learning/programming-concepts-for-python/reverse-lookup-issues?u=76281980&t=105)** Let's create an inverse lookup function for our [[Python (Programming Language)|Python]] Rolodex.
 >
 > **[1:49](https://www.linkedin.com/learning/programming-concepts-for-python/reverse-lookup-issues?u=76281980&t=109)** We'll start by defining a new function at the end of this script named caller_id, which will have a single input parameter for the number we want to look up.
 >
@@ -3073,7 +3046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Search]] (2), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** find (8), python (6), make (2)
 > **Code Identifiers:** caller_id (8)
 > **Definitions:** is a  (2)
@@ -3087,8 +3060,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### If-else statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/if-else-statements?u=76281980)
+#### [If-else statements](https://www.linkedin.com/learning/programming-concepts-for-python/if-else-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3160,7 +3132,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/programming-concepts-for-python/if-else-statements?u=76281980&t=147)** That means the if-else-if chain has a hierarchy: the cases that come first have a higher priority than any other cases that follow it because they're evaluated first.
 >
-> **[2:36](https://www.linkedin.com/learning/programming-concepts-for-python/if-else-statements?u=76281980&t=156)** This Python script contains a sequence of if-elif statements, which reproduces the conversation I just had with Baron to decide which pizza to order.
+> **[2:36](https://www.linkedin.com/learning/programming-concepts-for-python/if-else-statements?u=76281980&t=156)** This [[Python (Programming Language)|Python]] script contains a sequence of if-elif statements, which reproduces the conversation I just had with Baron to decide which pizza to order.
 >
 > **[2:45](https://www.linkedin.com/learning/programming-concepts-for-python/if-else-statements?u=76281980&t=165)** Even though there are three possible outcomes from the structure, we could get a cheese pizza, the vegan pizza or something else, this program arrives at the decision through a series of binary choices.
 >
@@ -3218,7 +3190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Speakers:** - well (2), - every (1), - that (1), - hmm (1), - yes (1)
 > **CLI Commands:** make (4), python (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -3226,8 +3198,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** such as (1)
 
-#### Match statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/match-statements?u=76281980)
+#### [Match statements](https://www.linkedin.com/learning/programming-concepts-for-python/match-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3279,7 +3250,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/programming-concepts-for-python/match-statements?u=76281980&t=99)** When choosing a case based on the value of a single expression, in this case, day of the week, there are better ways to code that than with an if-else-if chain.
 >
-> **[1:48](https://www.linkedin.com/learning/programming-concepts-for-python/match-statements?u=76281980&t=108)** - [Olivia] In Python, we can use a match statement to compare the value of an expression to a series of patterns referred to as cases.
+> **[1:48](https://www.linkedin.com/learning/programming-concepts-for-python/match-statements?u=76281980&t=108)** - [Olivia] In [[Python (Programming Language)|Python]], we can use a match statement to compare the value of an expression to a series of patterns referred to as cases.
 >
 > **[1:55](https://www.linkedin.com/learning/programming-concepts-for-python/match-statements?u=76281980&t=115)** The match statement will then execute the code behind the first case that matches the pattern.
 >
@@ -3315,7 +3286,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/programming-concepts-for-python/match-statements?u=76281980&t=216)** It's important to note that although the output strings says None, spelled with a capital N, what the order special function actually returned is a special Python object used to represent a null value, meaning no value at all.
 >
-> **[3:49](https://www.linkedin.com/learning/programming-concepts-for-python/match-statements?u=76281980&t=229)** The print statement just displays that object as the word None.
+> **[3:49](https://www.linkedin.com/learning/programming-concepts-for-python/match-statements?u=76281980&t=229)** The print statement just displays that object as the [[Microsoft Word|word]] None.
 >
 > **[3:53](https://www.linkedin.com/learning/programming-concepts-for-python/match-statements?u=76281980&t=233)** We got None back from the order_special() function because the match statement no longer has a case for Friday, so it didn't find a match to return a pizza string.
 >
@@ -3379,8 +3350,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### For loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/for-loops?u=76281980)
+#### [For loops](https://www.linkedin.com/learning/programming-concepts-for-python/for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3430,7 +3400,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/programming-concepts-for-python/for-loops?u=76281980&t=120)** Then we use a for loop at line seven to iterate through those dishes.
 >
-> **[2:05](https://www.linkedin.com/learning/programming-concepts-for-python/for-loops?u=76281980&t=125)** This demonstrates the Python syntax to iterate through the items in a list such as our list named sink, or to iterate through other types of iterable objects.
+> **[2:05](https://www.linkedin.com/learning/programming-concepts-for-python/for-loops?u=76281980&t=125)** This demonstrates the [[Python (Programming Language)|Python]] syntax to iterate through the items in a list such as our list named sink, or to iterate through other types of iterable objects.
 >
 > **[2:15](https://www.linkedin.com/learning/programming-concepts-for-python/for-loops?u=76281980&t=135)** For each iteration of the loop, the variable named dish will point to the next object in the list and then the print statement on line eight simulates the act of putting that dish into the dishwasher.
 >
@@ -3492,7 +3462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (2)
 > **Analogies:** such as (1), just like (1)
 > **Cross-References:** in the next (1)
@@ -3501,8 +3471,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - loops (1)
 
-#### While loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/while-loops?u=76281980)
+#### [While loops](https://www.linkedin.com/learning/programming-concepts-for-python/while-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3560,7 +3529,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/programming-concepts-for-python/while-loops?u=76281980&t=195)** Now, I want to point out that this while loop only checks whether or not the dirty variable is still true at the end of each loop iteration.
 >
-> **[3:24](https://www.linkedin.com/learning/programming-concepts-for-python/while-loops?u=76281980&t=204)** That means if the value of dirty changes in the middle of the loop code, then the rest of the loop code will still execute to complete that iteration.
+> **[3:24](https://www.linkedin.com/learning/programming-concepts-for-python/while-loops?u=76281980&t=204)** That means if the value of dirty changes in the middle of the loop code, then the [[Representational State Transfer (REST)|rest]] of the loop code will still execute to complete that iteration.
 >
 > **[3:34](https://www.linkedin.com/learning/programming-concepts-for-python/while-loops?u=76281980&t=214)** To demonstrate that, let's cut and paste the section of code that randomly changes whether or not the pan is clean from the end of the loop body to between the print statements.
 >
@@ -3575,8 +3544,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Break statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/break-statements?u=76281980)
+#### [Break statements](https://www.linkedin.com/learning/programming-concepts-for-python/break-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3656,7 +3624,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
@@ -3665,8 +3632,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Catch errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980)
+#### [Catch errors](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3714,19 +3680,19 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=130)** And fortunately, this is an easy fix.
 >
-> **[2:16](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=136)** Now I can get on with the rest of my chores.
+> **[2:16](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=136)** Now I can get on with the [[Representational State Transfer (REST)|rest]] of my chores.
 >
-> **[2:20](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=140)** To demonstrate how things can go wrong when we try to interact with external resources, let's use Python to try downloading a webpage from the internet.
+> **[2:20](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=140)** To demonstrate how things can go wrong when we try to interact with external resources, let's use [[Python (Programming Language)|Python]] to try downloading a webpage from the internet.
 >
 > **[2:30](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=150)** This example script begins by importing the request module from the URL lib package.
 >
-> **[2:36](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=156)** Then on line five, it uses the URL open function from that request module to access the URL for [google.com](https://google.com).
+> **[2:36](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=156)** Then on line five, it uses the URL open function from that request module to access the URL for [[[Google]].com](https://google.com).
 >
 > **[2:44](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=164)** The URL open function will return an HTTP response object, which contains the raw binary data for the webpage.
 >
 > **[2:52](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=172)** To display that information, we'll simply use a for loop to print it out line by line.
 >
-> **[2:58](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=178)** When I click the run arrow to run this program, it prints out the raw HTML code for [google.com](https://google.com) in the terminal window.
+> **[2:58](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=178)** When I click the run arrow to run this program, it prints out the raw [[HTML]] code for [google.com](https://google.com) in the terminal window.
 >
 > **[3:07](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980&t=187)** That means the website successfully returned something when the program attempted to access it, but what would happen if that website was down for maintenance or perhaps the internet connection failed for some other reason?
 >
@@ -3782,7 +3748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Google]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Google]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Env Vars:** url (13), http (1), html (1)
 > **CLI Commands:** make (3), python (3)
 > **URLs:** [google.com](https://google.com) (3)
@@ -3791,8 +3757,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Best Practices:** you should always (1)
 
-#### Validate input
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/validate-input?u=76281980)
+#### [Validate input](https://www.linkedin.com/learning/programming-concepts-for-python/validate-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3828,7 +3793,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/programming-concepts-for-python/validate-input?u=76281980&t=53)** - [Olivia] To demonstrate that scenario, we'll use the circuit breaker class, which is define starting at line three of this example script up top.
 >
-> **[1:01](https://www.linkedin.com/learning/programming-concepts-for-python/validate-input?u=76281980&t=61)** On the bottom half of the screen, I've opened a terminal to the same directory as that script, and I've also already started a Python session and used an import statement to load the circuit breaker class into Scope.
+> **[1:01](https://www.linkedin.com/learning/programming-concepts-for-python/validate-input?u=76281980&t=61)** On the bottom half of the screen, I've opened a terminal to the same directory as that script, and I've also already started a [[Python (Programming Language)|Python]] session and used an import statement to load the circuit breaker class into Scope.
 >
 > **[1:11](https://www.linkedin.com/learning/programming-concepts-for-python/validate-input?u=76281980&t=71)** Now this circuit breaker class has two properties, capacity, which is the maximum amount of amps that the circuit breaker can handle and load, which represents the present load on the circuit.
 >
@@ -3938,7 +3903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), generic (4), power (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7)
 > **CLI Commands:** python (7), make (2)
 > **Speakers:** - time (1), - sure (1), - thanks (1), - the (1), - ah (1)
 > **Analogies:** just like (1), such as (1), similar to (1)
@@ -3947,8 +3912,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Prerequisites:** configure (1)
 
-#### Customize errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/customize-errors?u=76281980)
+#### [Customize errors](https://www.linkedin.com/learning/programming-concepts-for-python/customize-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3976,7 +3940,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/programming-concepts-for-python/customize-errors?u=76281980&t=38)** - [Olivia] Many programming languages include built-in error types for many commonly occurring exceptions.
 >
-> **[0:44](https://www.linkedin.com/learning/programming-concepts-for-python/customize-errors?u=76281980&t=44)** For example, if I try to divide by zero, Python will raise an exception of the type ZeroDivisionError.
+> **[0:44](https://www.linkedin.com/learning/programming-concepts-for-python/customize-errors?u=76281980&t=44)** For example, if I try to divide by zero, [[Python (Programming Language)|Python]] will raise an exception of the type ZeroDivisionError.
 >
 > **[0:51](https://www.linkedin.com/learning/programming-concepts-for-python/customize-errors?u=76281980&t=51)** Another type of exception that Python will raise is the NameError exception, which occurs if you try to access a variable or function that doesn't exist.
 >
@@ -4088,7 +4052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), generic (7), [[Programming]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8)
 > **CLI Commands:** python (8), find (1)
 > **Code Identifiers:** cause_error (5), error_type (2)
 > **Speakers:** - with (1), - barron (1), - uh (1), - [olivia] (1)
@@ -4101,12 +4065,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Polling
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980)
+#### [Polling](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=0)** - There will be times when you need a program to detect that some event has occurred and then react to that event by performing a certain action.
+> **[0:00](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=0)** - There will be times when you need a program to detect that some event has occurred and then [[React.js|react]] to that event by performing a certain action.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=8)** To accomplish that, there are two approaches you could use, polling or event-driven programming.
 >
@@ -4146,7 +4109,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=147)** If the program is the only thing running on the microcontroller, it doesn't matter if we spend a lot of cycles polling.
 >
-> **[2:33](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=153)** Higher-level applications and languages like Python or Java are usually responding to events from things like a graphical user interface.
+> **[2:33](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=153)** Higher-level applications and languages like [[Python (Programming Language)|Python]] or [[Java]] are usually responding to events from things like a graphical user interface.
 >
 > **[2:40](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=160)** For that, using a polling routine would be pretty wasteful, but there may be times when polling is your only option.
 >
@@ -4204,7 +4167,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=374)** This will cause the program to wait for one second when it gets to that line.
 >
-> **[6:18](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=378)** After I close the front door, I'll rest for one second before going to check again.
+> **[6:18](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=378)** After I close the front door, I'll [[Representational State Transfer (REST)|rest]] for one second before going to check again.
 >
 > **[6:24](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980&t=384)** Now, before running that script, let's remove the pizza delivery person from the front_door text file, then call Python to execute that script again from within the terminal.
 >
@@ -4216,7 +4179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[React.js|React]] (1), [[Programming]] (1), application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[React.js|React]] (1), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (5), find (1), make (1)
 > **Code Identifiers:** front_door (5)
 > **Env Vars:** cpu (3)
@@ -4225,8 +4188,7 @@ created: 2026-05-02
 > **File Paths:** front_door.txt (1)
 > **Cross-References:** as we saw (1)
 
-#### Event-driven programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980)
+#### [Event-driven programming](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4244,7 +4206,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=27)** One example is a timer event.
 >
-> **[0:29](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=29)** The pizza company promises that they'll deliver the pizza in 30 minutes or less, and I've decided to give them a few minutes of slack, so I've set a timer for 45 minutes.
+> **[0:29](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=29)** The pizza company promises that they'll deliver the pizza in 30 minutes or less, and I've decided to give them a few minutes of [[Slack]], so I've set a timer for 45 minutes.
 >
 > **[0:38](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=38)** And if I haven't received my pizza by then, I should probably give them a call to see if there's a problem with the order.
 >
@@ -4284,7 +4246,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=137)** Hey Vern, how's it going?
 >
-> **[2:20](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=140)** To demonstrate that scenario in Python, we'll use this example script which represents a brief study in handling those life events.
+> **[2:20](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=140)** To demonstrate that scenario in [[Python (Programming Language)|Python]], we'll use this example script which represents a brief study in handling those life events.
 >
 > **[2:28](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=148)** The first thing you may notice at the top of this script on line three is that we're importing a new library we haven't seen before in this course named asyncio.
 >
@@ -4376,13 +4338,13 @@ created: 2026-05-02
 >
 > **[8:48](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=528)** This shows how event handlers that take a long time to finish can block or prevent other event handlers from executing.
 >
-> **[8:55](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=535)** Now, there are ways to work around this limitation by using concurrent programming mechanisms, but that's a more advanced topic beyond the scope of this course.
+> **[8:55](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=535)** Now, there are ways to work around this limitation by using [[Concurrent Programming]] mechanisms, but that's a more advanced topic beyond the scope of this course.
 >
 > **[9:04](https://www.linkedin.com/learning/programming-concepts-for-python/event-driven-programming?u=76281980&t=544)** If you want to learn more about that, I encourage you to take our series of courses on parallel and concurrent programming with Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (2), next (2), [[Concurrent Programming]] (2), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Concurrent Programming]] (2), [[Slack]] (1)
 > **CLI Commands:** python (3), make (2), find (1)
 > **Code Identifiers:** call_later (2), get_event_loop (1), run_forever (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
@@ -4396,8 +4358,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/programming-concepts-for-python/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4417,7 +4378,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Speakers:** - thanks (1), - or (1), - [both] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we covered (1)

@@ -63,8 +63,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is remote UX research?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/what-is-remote-ux-research?u=76281980)
+#### [What is remote UX research?](https://www.linkedin.com/learning/ux-deep-dive-remote-research/what-is-remote-ux-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ux-deep-dive-remote-research/what-is-remote-ux-research?u=76281980&t=27)** Hi, I'm Amanda Stockwell.
 >
-> **[0:29](https://www.linkedin.com/learning/ux-deep-dive-remote-research/what-is-remote-ux-research?u=76281980&t=29)** Welcome to this deep dive on conducting remote UX research.
+> **[0:29](https://www.linkedin.com/learning/ux-deep-dive-remote-research/what-is-remote-ux-research?u=76281980&t=29)** Welcome to this deep dive on conducting remote [[UX Research]].
 >
 > **[0:33](https://www.linkedin.com/learning/ux-deep-dive-remote-research/what-is-remote-ux-research?u=76281980&t=33)** This course is for those of us who already know the basics of conducting UX research but want to make the most out of remote sessions.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4)
+> **Frameworks & Libraries:** [[UX Research]] (2)
 > **CLI Commands:** make (4)
 > **Speakers:** - if (1)
 
@@ -101,12 +100,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of remote UX research
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980)
+#### [Benefits of remote UX research](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980&t=0)** - You probably know that remote work is done outside of the traditional office.
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980&t=0)** - You probably know that remote work is done outside of the traditional [[Microsoft Office|office]].
 >
 > **[0:05](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980&t=5)** That might not sound so different for UX researchers.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980&t=222)** Another large advantage of remote research is that you're typically going to be talking to people in their usual day-to-day context, which means you can get a truer sense of their authentic behavior and environment.
 >
-> **[3:54](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980&t=234)** Say you're usability testing a new mobile phone app.
+> **[3:54](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980&t=234)** Say you're [[Usability Testing]] a new mobile phone app.
 >
 > **[3:57](https://www.linkedin.com/learning/ux-deep-dive-remote-research/benefits-of-remote-ux-research?u=76281980&t=237)** The participant will be connecting with their own equipment, their usual connection speed, and their own usual settings.
 >
@@ -196,14 +194,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), ux (2), data (1), application (1), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Usability Testing]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2), such as (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - you (1)
 
-#### Reasons to choose the traditional research approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980)
+#### [Reasons to choose the traditional research approach](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,11 +212,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=23)** When the specific physical context or environment is a large component of the overall experience, you probably want to be in-person.
 >
-> **[0:31](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=31)** For instance, let's say you're usability testing a mobile app for a construction project manager.
+> **[0:31](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=31)** For instance, let's say you're [[Usability Testing]] a mobile app for a construction project manager.
 >
 > **[0:37](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=37)** You'll probably need to see what it's like for someone to be on a construction site with safety equipment, like gloves on, and dealing with the elements, like bright sun or a lot of dust.
 >
-> **[0:47](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=47)** You may also need to observe a physical space to generate insights about a particular process, like you need to see how they file paperwork in their office or store ingredients in their pantry.
+> **[0:47](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=47)** You may also need to observe a physical space to generate insights about a particular process, like you need to see how they file paperwork in their [[Microsoft Office|office]] or store ingredients in their pantry.
 >
 > **[0:58](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=58)** While you may be able to ask these questions directly or have participants try to describe or even take a picture, it's not the same thing as sharing the physical space for yourself.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=132)** For instance, I once did a set of work on cruise ships.
 >
-> **[2:15](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=135)** No, not the fun in the sun, laying on the pool deck kind of work, but deep in the depths with the rest of the crew.
+> **[2:15](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=135)** No, not the fun in the sun, laying on the pool deck kind of work, but deep in the depths with the [[Representational State Transfer (REST)|rest]] of the crew.
 >
 > **[2:22](https://www.linkedin.com/learning/ux-deep-dive-remote-research/reasons-to-choose-the-traditional-research-approach?u=76281980&t=142)** It turns out that a cruise ship is a place where rank and hierarchy are really important.
 >
@@ -255,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Usability Testing]] (1), [[Microsoft Office|Office]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (1), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for instance (2), it's like (1), picture (1), such as (1), just like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -267,8 +264,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing effective remote studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980)
+#### [Designing effective remote studies](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980&t=7)** You have to define your goals and pick the methods that will best answer your questions and collect the right kind of data.
 >
-> **[0:13](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980&t=13)** If you need a refresher or you're not yet familiar with this, I cover it in my UX Research Fundamentals class.
+> **[0:13](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980&t=13)** If you need a refresher or you're not yet familiar with this, I cover it in my [[UX Research]] Fundamentals class.
 >
 > **[0:19](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980&t=19)** So check that out.
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980&t=108)** You'll also want to consider what you'll be missing by conducting sessions remotely or in an unmoderated way, and look for creative ways to fill gaps.
 >
-> **[1:56](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980&t=116)** For instance, if you're doing unmoderated card sorts, maybe you can run extra sessions with different types of users or conduct both an open and a closed sort, or you might decide to conduct usability testing on a high fidelity prototype instead of just on wireframes.
+> **[1:56](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980&t=116)** For instance, if you're doing unmoderated card sorts, maybe you can run extra sessions with different types of users or conduct both an open and a closed sort, or you might decide to conduct [[Usability Testing]] on a high fidelity prototype instead of just on wireframes.
 >
 > **[2:12](https://www.linkedin.com/learning/ux-deep-dive-remote-research/designing-effective-remote-studies?u=76281980&t=132)** Because conducting remote research is relatively fast, you can build in the flexibility to run additional rounds of similar or a complimentary methods.
 >
@@ -312,16 +308,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (2), ux (1), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[UX Research]] (1), [[Usability Testing]] (1)
 > **Analogies:** for instance (3)
 > **Speakers:** - designing (1)
 
-#### Remote research planning adaptations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980)
+#### [Remote research planning adaptations](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=0)** - When doing UX research, it's always good to start with a solid plan and give yourself ample time to prepare because no matter how much time you have, there's always something that could go wrong.
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=0)** - When doing [[UX Research]], it's always good to start with a solid plan and give yourself ample time to prepare because no matter how much time you have, there's always something that could go wrong.
 >
 > **[0:11](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=11)** When running remote sessions, it's especially important to give yourself that time, have backups, and make sure that you pay extra close attention to a few things.
 >
@@ -345,15 +340,15 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=72)** You'll probably want to consider each of the following types of tools for your remote research arsenal.
 >
-> **[1:18](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=78)** Video conferencing tools that allow screen sharing and manipulation, like Zoom or GoToMeeting.
+> **[1:18](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=78)** Video conferencing tools that allow screen sharing and manipulation, like [[Zoom]] or GoToMeeting.
 >
 > **[1:25](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=85)** Method-specific tools, like OptimalSort for card sorting, UsabilityHub for impression tests, or dscout for diary studies.
 >
-> **[1:34](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=94)** Survey tools, like SurveyMonkey or Google Forms.
+> **[1:34](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=94)** Survey tools, like SurveyMonkey or [[Google]] [[Forms]].
 >
 > **[1:38](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=98)** Live recording and annotation tools, like Tetra Insights or Lookback.
 >
-> **[1:43](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=103)** Messaging systems, like Slack, Google Chats, or even text messages to be able to communicate both with stakeholders and participants.
+> **[1:43](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=103)** Messaging systems, like [[Slack]], Google Chats, or even text messages to be able to communicate both with stakeholders and participants.
 >
 > **[1:52](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=112)** Analytics tools, like Hotjar or Appsee.
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=121)** Integrated platforms, like UserZoom or [UserTesting.com](https://UserTesting.com).
 >
-> **[2:05](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=125)** Recruiting tools, like Ethnio for live intercepts, or User Interviews, or L&E Research for participant recruitment.
+> **[2:05](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=125)** Recruiting tools, like Ethnio for live intercepts, or [[User Interviews]], or L&E Research for participant recruitment.
 >
 > **[2:13](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-planning-adaptations?u=76281980&t=133)** Of course, you'll also need to consider your team's budget and existing tools.
 >
@@ -381,15 +376,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), [[Google]] (2), strengths (1), [[Zoom]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[UX Research]] (1), [[Zoom]] (1), [[Forms]] (1), [[Slack]] (1)
 > **Prerequisites:** setup (3), you'll need (1)
 > **CLI Commands:** make (2)
 > **URLs:** [usertesting.com](https://usertesting.com) (1)
 > **Tools:** slack (1)
 > **Speakers:** - when (1)
 
-#### Remote research setting expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-setting-expectations?u=76281980)
+#### [Remote research setting expectations](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-setting-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,20 +425,19 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-setting-expectations?u=76281980&t=142)** Worst case, you can ask more questions at the end, probe into interesting threads or let the sessions end a little bit early.
 >
-> **[2:29](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-setting-expectations?u=76281980&t=149)** A little extra time, choosing the proper method, testing the tools and technology and giving yourself some calendar grace, will really help you get the most out of your UX Research sessions.
+> **[2:29](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-setting-expectations?u=76281980&t=149)** A little extra time, choosing the proper method, testing the tools and technology and giving yourself some calendar grace, will really help you get the most out of your [[UX Research]] sessions.
 >
 > **[2:40](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-research-setting-expectations?u=76281980&t=160)** Running more efficiently and getting you the best insights.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1)
+> **Frameworks & Libraries:** [[UX Research]] (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - once (1)
 
-#### Remote recruiting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980)
+#### [Remote recruiting](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -460,13 +453,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=37)** If you are planning to rely on recruiting existing users, you can still use whatever channels you already use to recruit participants to remote studies.
 >
-> **[0:46](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=46)** I've had the best luck with email and social media channels, but of course, it depends on your organization, products, and user base.
+> **[0:46](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=46)** I've had the best luck with email and social media channels, but of course, it depends on your organization, [[Microsoft Products|products]], and user base.
 >
 > **[0:54](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=54)** Live intercepting is when you use a tool to invite actual visitors of a site or product to participate in a study.
 >
 > **[1:01](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=61)** You can set up a little invitation that includes a screener, and then either send them to schedule a moderated session or straight into an unmoderated study.
 >
-> **[1:09](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=69)** My personal favorite of these tools is Ethnio, which is specifically designed for UX research, which you can use almost any pop-up survey tool to do something similar.
+> **[1:09](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=69)** My personal favorite of these tools is Ethnio, which is specifically designed for [[UX Research]], which you can use almost any pop-up survey tool to do something similar.
 >
 > **[1:19](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=79)** Tool panels are already designed to allow you easy access to participants to complete studies within their specific tool.
 >
@@ -484,7 +477,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=126)** For instance, a more full-service recruitment firm will help you write an appropriate screener, keep track of participant quotas, finalize scheduling, remind participants, or call them if they're late, and send out the incentives.
 >
-> **[2:19](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=139)** A more self-service option will probably just give you a list of people to contact based on what you said you needed, but you'll have to contact the participants yourself and do all the rest.
+> **[2:19](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=139)** A more self-service option will probably just give you a list of people to contact based on what you said you needed, but you'll have to contact the participants yourself and do all the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:29](https://www.linkedin.com/learning/ux-deep-dive-remote-research/remote-recruiting?u=76281980&t=149)** The same recruitings versus as always are at your disposal for remote research, but you need to be extra clear in setting expectations for the participants.
 >
@@ -508,7 +501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1), ux (1), [[Representational State Transfer (REST)|Rest]] (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[UX Research]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -519,12 +512,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running effective remote research sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980)
+#### [Running effective remote research sessions](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=0)** - Running effective remote research sessions has the same basic rules as running any UX research session.
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=0)** - Running effective remote research sessions has the same basic rules as running any [[UX Research]] session.
 >
 > **[0:07](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=7)** On top of the normal preparation, designing your study, crafting your test plan, pilot testing the plan attack, there are a few extra things to keep in mind of you're running remote sessions.
 >
@@ -542,7 +534,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=65)** Always have backup plans to be connected and give yourselves a few extra minutes to get settled so that you can focus.
 >
-> **[1:12](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=72)** Even a momentary pause to compose yourself will help set a relaxed tone.
+> **[1:12](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=72)** Even a momentary pause to [[Jetpack Compose|compose]] yourself will help set a relaxed tone.
 >
 > **[1:18](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=78)** Tone is especially important remotely, where you don't have as much time to build rapport.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=214)** For qualitative methods, that means you need to break down individual insights from each observer, then collaborate to identify patterns and key insights and takeaways.
 >
-> **[3:43](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=223)** There are a lot of tools that will allow individual contributions and collaboration, from things like simple online text documents to more complex digital whiteboards or sketching functions.
+> **[3:43](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=223)** There are a lot of tools that will allow individual contributions and collaboration, from things like simple online text documents to more complex digital whiteboards or [[Sketching]] functions.
 >
 > **[3:54](https://www.linkedin.com/learning/ux-deep-dive-remote-research/running-effective-remote-research-sessions?u=76281980&t=234)** Look for tools that your team is already familiar with and easy to use to encourage participation.
 >
@@ -596,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), data (2), [[Jetpack Compose|Compose]] (1), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[UX Research]] (1), [[Jetpack Compose|Compose]] (1), [[Sketching]] (1)
 > **Warnings:** keep in mind (1), heads up (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -609,12 +601,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep the data coming
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-remote-research/keep-the-data-coming?u=76281980)
+#### [Keep the data coming](https://www.linkedin.com/learning/ux-deep-dive-remote-research/keep-the-data-coming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-remote-research/keep-the-data-coming?u=76281980&t=0)** - Remote user experience research is a great tool to make sure that you can collect data in any situation, any budget, any timeframe.
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-remote-research/keep-the-data-coming?u=76281980&t=0)** - Remote [[User Experience (UX)|user experience]] research is a great tool to make sure that you can collect data in any situation, any budget, any timeframe.
 >
 > **[0:09](https://www.linkedin.com/learning/ux-deep-dive-remote-research/keep-the-data-coming?u=76281980&t=9)** One of the best parts of conducting research remotely is that the rounds can be fast and you can do more overall exploration.
 >
@@ -632,7 +623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), data (1), product (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - remote (1)

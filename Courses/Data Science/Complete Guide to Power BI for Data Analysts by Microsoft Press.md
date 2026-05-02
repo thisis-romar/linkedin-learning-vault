@@ -142,12 +142,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20269078?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20269078?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20269078?u=76281980&t=6)** - All right, so in this lesson, we're going to first understand the Data Lifecycle then in 1.2, we're going to understand the Power BI environment.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20269078?u=76281980&t=6)** - All right, so in this lesson, we're going to first understand the Data Lifecycle then in 1.2, we're going to understand the [[Microsoft Power BI|Power BI]] environment.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20269078?u=76281980&t=14)** We'll spend some time talking about Power BI licensing in lesson 1.3.
 >
@@ -163,16 +162,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), data (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3)
 > **Versions:** 1.2 (1), 1.3 (1), 1.4 (1)
 > **Speakers:** - all (1)
 
-#### Understand the data lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980)
+#### [Understand the data lifecycle](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=6)** - [Instructor] Okay, so before we get going too far with Power BI, let's talk a little bit about the data lifecycle.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=6)** - [Instructor] Okay, so before we get going too far with [[Microsoft Power BI|Power BI]], let's talk a little bit about the data lifecycle.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=13)** So, on the far left-hand side, we have people that produce data, and they usually have some type of process and system in which to apply that process to, in order to put data into a system.
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=188)** Then, you would need to go through, and first acquire data from some source, so you'd have to know where that source system is for acquiring the data, you would then have to understand it, and you may inquire with a source system expert, a subject matter expert, to help you understand the data as it is being stored and transacted in that system.
 >
-> **[3:31](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=211)** In general, most systems don't have the degree of data quality you would like, so you spend a lot of time doubting whether you're getting the right information, whether it's correct, and things like that, and then you go through a process of transformation.
+> **[3:31](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=211)** In general, most systems don't have the degree of [[Data Quality]] you would like, so you spend a lot of time doubting whether you're getting the right information, whether it's correct, and things like that, and then you go through a process of transformation.
 >
 > **[3:45](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=225)** So, after you've sorted things out from an understanding and doubt perspective, then we go through and transform our data, and once it's done our transformations, then we perform analysis on it, and then ultimately present that data out to users, and typically, that just generates more questions on the data-consumer side, saying, "Well that's great, we didn't know that, "but what about this now?"
 >
@@ -206,7 +204,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=255)** So, we like to call these the general stages of answering a business question, so all of the work from front to back that happens, to ask and answer a business question, and I would like to point out that the first four items there: acquire, understand, doubt, and transform, one thing that we really emphasize with Power BI is that you will hear me say many times through this course, "With Power BI, when done properly, "we can do a whole lot more with a whole lot less."
 >
-> **[4:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=289)** So, one of the really nice things about Power BI is the ability to build data sets, and then ultimately share those data sets out, which is typically really challenging inside of an Excel environment.
+> **[4:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=289)** So, one of the really nice things about Power BI is the ability to build data sets, and then ultimately share those data sets out, which is typically really challenging inside of an [[Microsoft Excel|Excel]] environment.
 >
 > **[4:59](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-data-lifecycle?u=76281980&t=299)** We find Excel environments typically have lots of spreadsheets that overlap each other, so they're very similar, if someone else wants a little bit more information, if somebody wants it in a slightly different spin, and you end up with many, many spreadsheets doing very similar things.
 >
@@ -226,18 +224,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), power (7), bi (7), business (7), [[Analytics]] (5)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Microsoft Excel|Excel]] (2), [[Data Quality]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand the Power BI environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980)
+#### [Understand the Power BI environment](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=6)** - [Instructor] Okay, so let's spend a few minutes talking about the Power BI high-level architecture.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=6)** - [Instructor] Okay, so let's spend a few minutes talking about the [[Microsoft Power BI|Power BI]] high-level architecture.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=13)** And it's really important just to kind of step back and think about what all the pieces of Power BI are and what significance they play and how they fit together.
 >
@@ -257,11 +254,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=63)** So we're going to bring data from cloud sources and on-premise sources.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=68)** In this particular course here, we give you a bunch of Excel spreadsheets and text files, which generally get put somewhere on your machine.
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=68)** In this particular course here, we give you a bunch of [[Microsoft Excel|Excel]] spreadsheets and text files, which generally get put somewhere on your machine.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=76)** And those would then be on-premise sources.
 >
-> **[1:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=79)** Perhaps when you take these files and download them, you'll put them in a OneDrive or some other source and then those are actually tactically sitting in the cloud.
+> **[1:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=79)** Perhaps when you take these files and download them, you'll put them in a [[Microsoft OneDrive|OneDrive]] or some other source and then those are actually tactically sitting in the cloud.
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=86)** But there's no point splitting hairs in this course here.
 >
@@ -301,13 +298,13 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=222)** So we are going to go in and find this data source that we need to answer the business questions that are being asked of us.
 >
-> **[3:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=229)** We will then spend a lot of time working inside the power query to transform and cleanse data.
+> **[3:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=229)** We will then spend a lot of time working inside the [[Microsoft Power Query|power query]] to transform and cleanse data.
 >
 > **[3:55](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=235)** And once we're done that we want need to load the data somewhere.
 >
 > **[3:58](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=238)** So we take that data and we load it into the data model.
 >
-> **[4:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=242)** Once it's in the data model, we're going to build relationships, we're going to do some formatting on the model, build some hierarchies, and then put some DAX expressions and work with DAX formulas in our model.
+> **[4:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=242)** Once it's in the data model, we're going to build relationships, we're going to do some formatting on the model, build some hierarchies, and then put some [[DAX]] expressions and work with DAX formulas in our model.
 >
 > **[4:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=253)** Once we've done those first few steps there, I like to use the term report ready.
 >
@@ -343,7 +340,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=364)** Like say, that's something that I'm most excited about.
 >
-> **[6:07](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=367)** Don't get me wrong, I certainly love the data acquisition and the modeling side of things and building reports, but the biggest challenge has been how do we manage and govern that so that people are using what we build and we can continuously iterate on a coordinated fashion with that stuff and get the users and organization to start using that more and more and more, and bring things into the realm of the central version of the truth.
+> **[6:07](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=367)** Don't get me wrong, I certainly love the [[Data Acquisition]] and the modeling side of things and building reports, but the biggest challenge has been how do we manage and govern that so that people are using what we build and we can continuously iterate on a coordinated fashion with that stuff and get the users and organization to start using that more and more and more, and bring things into the realm of the central version of the truth.
 >
 > **[6:31](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-the-power-bi-environment?u=76281980&t=391)** So the puzzle pieces there, it's the people and process now that really needs to catch up.
 >
@@ -351,25 +348,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (21), data (21), bi (20), cloud (5), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (20), [[Microsoft Excel|Excel]] (2), [[DAX]] (2), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Power Query|Power query]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Env Vars:** dax (2)
 > **Cross-References:** we talked about (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand Power BI licensing
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-licensing?u=76281980)
+#### [Understand Power BI licensing](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-licensing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-licensing?u=76281980&t=6)** - [Instructor] Okay, so let's spend a few minutes talking about individual licensing, 'cause licensing can always be a bit of a fun topic in any piece of software.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-licensing?u=76281980&t=15)** So the Power BI desktop itself, which we're going to spend a lot of time with in this course is a free download.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-licensing?u=76281980&t=15)** So the [[Microsoft Power BI|Power BI]] desktop itself, which we're going to spend a lot of time with in this course is a free download.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-licensing?u=76281980&t=21)** Anybody can go and download it, install it in their machine and use it.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-licensing?u=76281980&t=25)** So you can bring data in, clean it up, build reporting, and essentially at that point you have something that really looks an awful lot like what you would be doing inside of Excel.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-licensing?u=76281980&t=25)** So you can bring data in, clean it up, build reporting, and essentially at that point you have something that really looks an awful lot like what you would be doing inside of [[Microsoft Excel|Excel]].
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-licensing?u=76281980&t=36)** The Power BI service, your license as an individual is either free or pro.
 >
@@ -479,19 +475,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (17), bi (16), data (3), [[Microsoft Excel|Excel]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (16), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand Power BI release cycles
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980)
+#### [Understand Power BI release cycles](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=6)** - [Instructor] Okay, so let's take a few minutes and just talk about the Monthly Update Cadence behind the Power BI Desktop and Service and the Power BI Mobile app because this is a very important thing to understand when you're getting into Power BI because it really influences a lot of decisions you're going to make when you're using the tool itself.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=6)** - [Instructor] Okay, so let's take a few minutes and just talk about the Monthly Update Cadence behind the [[Microsoft Power BI|Power BI]] Desktop and Service and the Power BI Mobile app because this is a very important thing to understand when you're getting into Power BI because it really influences a lot of decisions you're going to make when you're using the tool itself.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=26)** So first off, let's take a look at the Power BI Desktop and Service.
 >
@@ -505,7 +500,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=64)** And then I would go myself, as a developer in Power BI, to this site to see what has changed and what has been added in.
 >
-> **[1:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=71)** So Microsoft does a very nice job putting a bunch of blogs and videos in alongside of this so that you can see what has happened in the product itself.
+> **[1:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=71)** So [[Microsoft]] does a very nice job putting a bunch of blogs and videos in alongside of this so that you can see what has happened in the product itself.
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=80)** And I would say that as a new user of Power BI, watch these on a monthly basis and get comfortable with the release cycle and what's in the product.
 >
@@ -535,7 +530,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=147)** And once again, this gets a monthly release as well.
 >
-> **[2:29](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=149)** And this is just worthwhile keeping up with, once again, just to kind of keep around the environment and get comfortable with things and learn terms and what's happening and what might be coming down the pipeline 'cause a lot of times, that will influence the decision-making that you make in your organization.
+> **[2:29](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=149)** And this is just worthwhile keeping up with, once again, just to kind of keep around the environment and get comfortable with things and learn terms and what's happening and what might be coming down the pipeline 'cause a lot of times, that will influence the [[Decision-Making]] that you make in your organization.
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-power-bi-release-cycles?u=76281980&t=166)** Okay, so really, just to kind of wrap this discussion up here.
 >
@@ -559,7 +554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (14), bi (14), product (2), [[Microsoft]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (14), [[Microsoft]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** url (2)
@@ -567,8 +562,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-up-your-environment?u=76281980)
+#### [Set up your environment](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -578,13 +572,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-up-your-environment?u=76281980&t=13)** So you could sit back and just watch the videos and absorb them and not actually put your hands on the keyboard doing the work.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-up-your-environment?u=76281980&t=20)** But if you want to take it slow and do the work, all the files we're going to talk about are in a GitHub repository, which we'll talk with here in a minute.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-up-your-environment?u=76281980&t=20)** But if you want to take it slow and do the work, all the files we're going to talk about are in a [[GitHub]] repository, which we'll talk with here in a minute.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-up-your-environment?u=76281980&t=29)** And you can go ahead and follow along and build all this on your own.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-up-your-environment?u=76281980&t=32)** And I would encourage that because that is a better way to kind of cement the learnings as we go through this entire class.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-up-your-environment?u=76281980&t=39)** So with that, you'll need the latest Power BI desktop.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-up-your-environment?u=76281980&t=39)** So with that, you'll need the latest [[Microsoft Power BI|Power BI]] desktop.
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-up-your-environment?u=76281980&t=42)** You'll need access to a Power BI Free or Pro account in the actual Power BI service.
 >
@@ -654,7 +648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), power (5), bi (5), data (2)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Microsoft Power BI|Power bi]] (5)
 > **Exercise Files:** starter files (3), starter file (3), template (1)
 > **Env Vars:** url (2), pbi (2), readme (1)
 > **Tools:** github (5)
@@ -663,12 +657,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore data source settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-data-source-settings?u=76281980)
+#### [Explore data source settings](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-data-source-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-data-source-settings?u=76281980&t=6)** - [Lecturer] Okay, so once again, this really assumes that you are taking advantage of the files that I provided you on GitHub, which are the PBAIX starter files.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-data-source-settings?u=76281980&t=6)** - [Lecturer] Okay, so once again, this really assumes that you are taking advantage of the files that I provided you on [[GitHub]], which are the PBAIX starter files.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-data-source-settings?u=76281980&t=18)** And those are meant to be used at the beginning of your lesson and carried through all the sub lessons in a specific sub lesson.
 >
@@ -676,7 +669,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-data-source-settings?u=76281980&t=39)** So if I just open up one of those files, so I'm just in one of my PBX files, if I want, I can click on Transform Data.
 >
-> **[0:48](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-data-source-settings?u=76281980&t=48)** It takes me to Power Query and I recognize you may not have opened the Power BI desktop yet.
+> **[0:48](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-data-source-settings?u=76281980&t=48)** It takes me to [[Microsoft Power Query|Power Query]] and I recognize you may not have opened the [[Microsoft Power BI|Power BI]] desktop yet.
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-data-source-settings?u=76281980&t=51)** You may not have used any of Power Query.
 >
@@ -764,7 +757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Power Query|Power query]] (6), power (6), bi (6), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (6), [[Microsoft Power BI|Power bi]] (6), [[GitHub]] (2)
 > **UI Navigation:** click on (5), go to (2)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -773,14 +766,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Exercise Files:** starter files (1)
 
-#### Introduce our business scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980)
+#### [Introduce our business scenario](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=6)** - [Lecturer] Okay, so in this sub lesson, we're going to introduce you to our business scenario for this course.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=12)** And this is really important, because this course, the way we've designed it, really focuses on building a solution and trying to answer business questions, which may sound rather intuitive, saying, "Well, isn't that what I should be doing with Power BI?"
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=12)** And this is really important, because this course, the way we've designed it, really focuses on building a solution and trying to answer business questions, which may sound rather intuitive, saying, "Well, isn't that what I should be doing with [[Microsoft Power BI|Power BI]]?"
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=28)** And the reason I mention that is that there are courses out there, and I teach certification courses, that focus more on the individual technical pieces of Power BI and not necessarily why you're using those technical pieces.
 >
@@ -798,7 +790,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=97)** This course really isn't designed to be hopping all over the place and learning individual techniques.
 >
-> **[1:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=102)** If you take my PL300 video course, which is also recorded through Microsoft Press, that course, you can go through and skip all over the place if you want, because you're learning individual techniques and not how to build a solution per se.
+> **[1:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=102)** If you take my PL300 video course, which is also recorded through [[Microsoft]] Press, that course, you can go through and skip all over the place if you want, because you're learning individual techniques and not how to build a solution per se.
 >
 > **[1:56](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=116)** Okay, so let's just go ahead and pull up Power BI and walk you through this business scenario.
 >
@@ -808,7 +800,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=149)** I'd like to see my sales on a daily basis, so that I can adapt my business and make decisions based on information that is timely."
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=159)** But AdventureWorks was using Excel in the past, and the process to build all this reporting up was so onerous that they ran it only twice a month, and this is a very common scenario in most organizations.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=159)** But AdventureWorks was using [[Microsoft Excel|Excel]] in the past, and the process to build all this reporting up was so onerous that they ran it only twice a month, and this is a very common scenario in most organizations.
 >
 > **[2:52](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/introduce-our-business-scenario?u=76281980&t=172)** So don't hear this scenario and say, "Oh, that's not me.
 >
@@ -918,7 +910,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (25), bi (25), business (9), data (8), [[Microsoft Excel|Excel]] (7)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (25), [[Microsoft Excel|Excel]] (7), [[Microsoft]] (2)
 > **Env Vars:** ceo (7), pl300 (1), pbx (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
@@ -931,8 +923,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -940,7 +931,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=14)** In most organizations, data is scattered and sometimes not managed properly, which complicates the process of preparing data for analytics.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=21)** Data preparation is often a data analyst's least favorite task.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=21)** [[Data Preparation]] is often a data analyst's least favorite task.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=25)** It is estimated that 70% of the work in any analytic endeavor is spent getting your data report ready.
 >
@@ -948,7 +939,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=41)** This usually involves removing rows and columns, cleaning erroneous column values, enhancing datasets with new columns, and merging the pending datasets.
 >
-> **[0:50](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=50)** If you've used Excel for analytics, as many you have for years, you've relied on the mastery of advanced functions inside of Excel, such as VLOOKUP, IF, FIND, CLEAN, and SUBSTITUTE, on top of many traditional import means.
+> **[0:50](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=50)** If you've used [[Microsoft Excel|Excel]] for analytics, as many you have for years, you've relied on the mastery of advanced functions inside of Excel, such as VLOOKUP, IF, FIND, CLEAN, and SUBSTITUTE, on top of many traditional import means.
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=63)** In this lesson, we'll explore the capabilities of PowerGrid to help simplify and better automate the process of ingesting and transforming data.
 >
@@ -966,7 +957,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=97)** So what does all this add up to?
 >
-> **[1:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=99)** It is often estimated that optimizing the repetitive activities around collecting, combining, and transforming data using Power Query will cut your data preparation time by up to 80%.
+> **[1:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=99)** It is often estimated that optimizing the repetitive activities around collecting, combining, and transforming data using [[Microsoft Power Query|Power Query]] will cut your data preparation time by up to 80%.
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980&t=109)** What we're going to do here is we're going to look at, in Power Query, connecting to data sources, bringing them through the Power Query Editor, doing the extractions, transforming and cleansing data, taking a look at the M language, which is all transformations, and we'll look at loading data into our data model.
 >
@@ -994,21 +985,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Microsoft Power Query|Power query]] (5), product (4), [[Microsoft Excel|Excel]] (3), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (3), [[Data Preparation]] (2)
 > **Versions:** 2.1 (1), 2.2 (1), 2.4 (1), 2.5 (1), 2.6 (1)
 > **Env Vars:** vlookup (1), find (1), clean (1), substitute (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - as (1)
 
-#### Power Query Editor overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980)
+#### [Power Query Editor overview](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=6)** - [Instructor] Let's just show you getting over into the Power Query Editor.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=6)** - [Instructor] Let's just show you getting over into the [[Microsoft Power Query|Power Query]] Editor.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=8)** So off the Power BI desktop, off the home tab, we can click this button right here in the middle called Transform Data, and if I click that, it's going to bring me to the Power Query Editor itself.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=8)** So off the [[Microsoft Power BI|Power BI]] desktop, off the home tab, we can click this button right here in the middle called Transform Data, and if I click that, it's going to bring me to the Power Query Editor itself.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=18)** So as you can see here on the left, I've got a number of different pieces that have been brought into the Power Query Editor, so a bunch of queries I've written.
 >
@@ -1036,7 +1026,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=75)** And one of the really cool things here is you can actually walk your way through each individual step, and this shows you how the data transforms from one step to the next, which is fantastic when it comes to auditing your solutions.
 >
-> **[1:26](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=86)** So I can walk through each one of these things, and you'll find this behaves a little bit like a macro inside of Excel, although I would argue it's a whole lot more powerful, and share some similarities, but there are quite a few differences between the two.
+> **[1:26](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=86)** So I can walk through each one of these things, and you'll find this behaves a little bit like a macro inside of [[Microsoft Excel|Excel]], although I would argue it's a whole lot more powerful, and share some similarities, but there are quite a few differences between the two.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=97)** But functionally, if you want to think of it as behaving like a macro, that works.
 >
@@ -1062,7 +1052,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=164)** Okay, so ultimately what you're going to do with Power Query is you're going to go in and explore different data sources.
 >
-> **[2:50](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=170)** You're going to go ahead and use the get data functionality to pull data from sources like Dynamics 365, Azure Synapse, Excel spreadsheets, SQL Server databases, SharePoint lists, or any one of these different combinations of files.
+> **[2:50](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=170)** You're going to go ahead and use the get data functionality to pull data from sources like Dynamics 365, [[Microsoft Azure|Azure]] Synapse, Excel spreadsheets, [[Microsoft SQL Server|SQL Server]] [[Databases]], [[SharePoint]] lists, or any one of these different combinations of files.
 >
 > **[3:05](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=185)** So in this course here, you're pulling everything out of Excel spreadsheets and text files.
 >
@@ -1074,7 +1064,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=221)** There's a number of different file locations.
 >
-> **[3:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=223)** You can get files from local drives, OneDrive for Business, OneDrive Personal, or SharePoint.
+> **[3:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=223)** You can get files from local drives, [[Microsoft OneDrive|OneDrive]] for Business, OneDrive Personal, or SharePoint.
 >
 > **[3:48](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=228)** There's file data sources like Excel, text/CSV, which are the two we're going to use here.
 >
@@ -1136,7 +1126,7 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=394)** So I'm going to go here and rename this column to category, and we'll make it text.
 >
-> **[6:38](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=398)** We'll go to the next one here, and go through the rest of them and get them all set the way we want.
+> **[6:38](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=398)** We'll go to the next one here, and go through the [[Representational State Transfer (REST)|rest]] of them and get them all set the way we want.
 >
 > **[6:44](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/power-query-editor-overview?u=76281980&t=404)** We've got a number of different data types in Power Query.
 >
@@ -1166,7 +1156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), [[Microsoft Power Query|Power query]] (13), power (7), bi (7), next (4)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (13), [[Microsoft Power BI|Power bi]] (7), [[Microsoft Excel|Excel]] (4), [[SharePoint]] (2), [[Microsoft OneDrive|Onedrive]] (2)
 > **CLI Commands:** make (4), find (3)
 > **UI Navigation:** go to (2), select the (1)
 > **Env Vars:** sql (1), csv (1)
@@ -1175,12 +1165,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
 
-#### Import United States sales data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980)
+#### [Import United States sales data](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=6)** - [Chris] Okay, so the first thing that we're going to do, keeping in mind that we are this new user at AdventureWorks, that's been given the challenge of altering the way that the sales reporting is developed and delivered using Power BI, we're going to first go ahead and consume United States sales data.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=6)** - [Chris] Okay, so the first thing that we're going to do, keeping in mind that we are this new user at AdventureWorks, that's been given the challenge of altering the way that the sales reporting is developed and delivered using [[Microsoft Power BI|Power BI]], we're going to first go ahead and consume United States sales data.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=29)** And once again, the company is small enough, you just ask around to say, hey, does anybody have United States sales data?
 >
@@ -1190,7 +1179,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=39)** Here's where I'll deliver it to you.
 >
-> **[0:41](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=41)** And you're off to the races in terms of grabbing the data and acquiring it and cleaning up inside a power query just like that.
+> **[0:41](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=41)** And you're off to the races in terms of grabbing the data and acquiring it and cleaning up inside a [[Microsoft Power Query|power query]] just like that.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=48)** In reality, most organizations, that exercise, they're trying to find the data, who the owner is, how to interpret it.
 >
@@ -1308,7 +1297,7 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=399)** Because this will flow into the data model, and then ultimately to the end when it comes to reporting.
 >
-> **[6:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=403)** So, choosing your data types wisely early is a very important step and reaps lots of benefits as you work your way through the rest of your Power Query steps and all the way to the data model.
+> **[6:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=403)** So, choosing your data types wisely early is a very important step and reaps lots of benefits as you work your way through the [[Representational State Transfer (REST)|rest]] of your Power Query steps and all the way to the data model.
 >
 > **[6:57](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=417)** Okay, so the second or next thing we're going to do here is rename a column.
 >
@@ -1346,7 +1335,7 @@ created: 2026-05-02
 >
 > **[8:59](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=539)** So I'm going to find January 1st, click on that.
 >
-> **[9:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=542)** And you'll notice the format that my Windows installation is using is the year, then the month, then the day.
+> **[9:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=542)** And you'll notice the format that my [[Windows]] installation is using is the year, then the month, then the day.
 >
 > **[9:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-united-states-sales-data?u=76281980&t=550)** So given the way that my machine is set up, this is what the format for January 1st, 2020, looks like.
 >
@@ -1454,7 +1443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Microsoft Power Query|Power query]] (14), next (5), power (4), bi (4)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (14), [[Microsoft Power BI|Power bi]] (4), [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (8), go to (6), right-click (1), double-click (1)
 > **CLI Commands:** make (7), find (3)
 > **Definitions:** is a  (7), is called (1)
@@ -1463,14 +1452,13 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Prerequisites:** set up (1)
 
-#### Import customer data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980)
+#### [Import customer data](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=6)** - [Instructor] Okay, so next up is to get the customer data brought into the sales model.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=12)** So keeping in mind the CEO's asked you to enhance the current sales model by delivering in Power BI in a more timely manner.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=12)** So keeping in mind the CEO's asked you to enhance the current sales model by delivering in [[Microsoft Power BI|Power BI]] in a more timely manner.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=21)** And customer data is one of the things that they want to do analysis on.
 >
@@ -1488,7 +1476,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=53)** Back on the Power BI Desktop, we click get data.
 >
-> **[0:56](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=56)** Now we're in the Power Query editor, so the button is different but functionally doing the same thing.
+> **[0:56](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=56)** Now we're in the [[Microsoft Power Query|Power Query]] editor, so the button is different but functionally doing the same thing.
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=63)** So I'm going to go down here to text slash CSV.
 >
@@ -1504,9 +1492,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=95)** And the next thing I'm going to do here is what you've already seen me do back in the previous query is we're just going to give this a better name.
 >
-> **[1:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=100)** So I'm just going to take the word list off the customer list there.
+> **[1:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=100)** So I'm just going to take the [[Microsoft Word|word]] list off the customer list there.
 >
-> **[1:45](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=105)** Whenever Power Query goes and sets an original name for the query, it just borrows the file name or the table name if you're connecting into Excel for that name.
+> **[1:45](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=105)** Whenever Power Query goes and sets an original name for the query, it just borrows the file name or the table name if you're connecting into [[Microsoft Excel|Excel]] for that name.
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=118)** So just it's going to give you a default name.
 >
@@ -1702,7 +1690,7 @@ created: 2026-05-02
 >
 > **[13:01](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=781)** And I'm just going to go here and change this to text, which is the type of data we want that to be.
 >
-> **[13:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=788)** Then I'm just going to roll through the rest of my columns here.
+> **[13:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=788)** Then I'm just going to roll through the [[Representational State Transfer (REST)|rest]] of my columns here.
 >
 > **[13:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-customer-data?u=76281980&t=791)** I'm happy with my yearly income.
 >
@@ -1774,7 +1762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Microsoft Power Query|Power query]] (12), next (10), hit (6), power (5)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (12), [[Microsoft Power BI|Power bi]] (5), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (12), make (9)
 > **UI Navigation:** click on (6), go to (4), dropdown (1)
 > **Definitions:** is a  (4), is an  (1), is called (1), means that (1)
@@ -1783,12 +1771,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (2), good practice (1)
 > **Prerequisites:** make sure you have (1), set up (1)
 
-#### Import sales territory data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-sales-territory-data?u=76281980)
+#### [Import sales territory data](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-sales-territory-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-sales-territory-data?u=76281980&t=7)** - [Instructor] Okay, so let's continue the journey of getting data into our Power Query editor that's going to help support sales analysis.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-sales-territory-data?u=76281980&t=7)** - [Instructor] Okay, so let's continue the journey of getting data into our [[Microsoft Power Query|Power Query]] editor that's going to help support [[Sales Analysis]].
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-sales-territory-data?u=76281980&t=17)** So the next piece of data that we're going to bring in is sales territory data.
 >
@@ -1800,7 +1787,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-sales-territory-data?u=76281980&t=38)** All right, so let's go ahead and connect into that.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-sales-territory-data?u=76281980&t=40)** So I'm going to click on New Source and this time what we're going to do is we're going to click Excel Workbook.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-sales-territory-data?u=76281980&t=40)** So I'm going to click on New Source and this time what we're going to do is we're going to click [[Microsoft Excel|Excel]] Workbook.
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-sales-territory-data?u=76281980&t=49)** So we're going to open up the Excel workbook and the sales territory file is this one here called Sales Territories.
 >
@@ -1972,7 +1959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Power Query|Power query]] (10), next (3), [[Microsoft Excel|Excel]] (2), [[Sales Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (10), [[Microsoft Excel|Excel]] (2), [[Sales Analysis]] (1)
 > **UI Navigation:** go to (7), click on (2), right-click (2), dropdown (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we mentioned (1)
@@ -1980,8 +1967,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Import product data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980)
+#### [Import product data](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1991,7 +1977,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=19)** The next round of information that we're going to bring into our model is product data.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=25)** So what we're going to do here now is we are going to go to the home tab, go to New Source, we will click on Excel Workbook, and Product is the information we want to bring in this time.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=25)** So what we're going to do here now is we are going to go to the home tab, go to New Source, we will click on [[Microsoft Excel|Excel]] Workbook, and Product is the information we want to bring in this time.
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=36)** So I'm going to click open, give it a moment here.
 >
@@ -2007,7 +1993,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=73)** So I'm going to click on Table1 'cause that's what I want to connect into.
 >
-> **[1:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=77)** I will click okay, give Power Query a moment.
+> **[1:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=77)** I will click okay, give [[Microsoft Power Query|Power Query]] a moment.
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=81)** And now we can see we've got a query here called Table1.
 >
@@ -2017,7 +2003,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=92)** What don't we do it a different way this time let's actually right click and go down to properties this time, and this time let's go ahead and change this to product.
 >
-> **[1:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=102)** So we'll do it here, later on in the course, we're going to just show you what this description field is useful for, it's actually a really important part of Power BI, we're going to save that discussion for a little bit.
+> **[1:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=102)** So we'll do it here, later on in the course, we're going to just show you what this description field is useful for, it's actually a really important part of [[Microsoft Power BI|Power BI]], we're going to save that discussion for a little bit.
 >
 > **[1:52](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=112)** So let's go ahead and click okay, and now we have this new query here called Product.
 >
@@ -2167,7 +2153,7 @@ created: 2026-05-02
 >
 > **[9:38](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=578)** So I'm going to type it in like so.
 >
-> **[9:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=580)** So it's the first letter of each word being capitalized.
+> **[9:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=580)** So it's the first letter of each [[Microsoft Word|word]] being capitalized.
 >
 > **[9:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-data?u=76281980&t=583)** Everything else is lowercase, go ahead and click okay, and we'll notice that all of the ones we just typed in got rid of except for these ones that are in uppercase.
 >
@@ -2227,7 +2213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), product (20), [[Microsoft Excel|Excel]] (14), [[Microsoft Power Query|Power query]] (8), next (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (14), [[Microsoft Power Query|Power query]] (8), [[Microsoft Word|Word]] (3), [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** click on (4), go to (3), open the (1), dropdown (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3), essentially is (1)
@@ -2236,14 +2222,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Prerequisites:** set up (2)
 
-#### Import product rollup data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980)
+#### [Import product rollup data](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=6)** - [Instructor] All right, so back over on the Power BI desktop now.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=6)** - [Instructor] All right, so back over on the [[Microsoft Power BI|Power BI]] desktop now.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=10)** So, I'm just going to get myself back to the Power Query Editor here.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=10)** So, I'm just going to get myself back to the [[Microsoft Power Query|Power Query]] Editor here.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=14)** So, this is the Power BI desktop.
 >
@@ -2261,7 +2246,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=59)** There's the product name, and then the standard cost of the actual product, and the color.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=64)** So we've got a number of attributes about each of the individual physical products that we actually sell.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=64)** So we've got a number of attributes about each of the individual physical [[Microsoft Products|products]] that we actually sell.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=71)** So we want to go from subcategories, and we want to eventually be able to build a hierarchy that let's us go from categories at the top to subcategories down below, and then to individual physical products.
 >
@@ -2325,7 +2310,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=229)** Okay, so the next thing I want to do here is we're going to go through and do some standardization.
 >
-> **[3:54](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=234)** So I'm going to click the product subcategory column, 'cause we can see here that some of them are all uppercase, others are first letter of each word capitalize.
+> **[3:54](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=234)** So I'm going to click the product subcategory column, 'cause we can see here that some of them are all uppercase, others are first letter of each [[Microsoft Word|word]] capitalize.
 >
 > **[4:03](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-product-rollup-data?u=76281980&t=243)** Let's just go through and standardize that.
 >
@@ -2373,7 +2358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (18), data (12), [[Microsoft Power Query|Power query]] (5), power (3), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (7), click on (4)
 > **CLI Commands:** find (3)
 > **Analogies:** just like (2), for example (1)
@@ -2381,8 +2366,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merge the product and product rollup queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980)
+#### [Merge the product and product rollup queries](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2408,7 +2392,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=72)** So, we're going to do it for that.
 >
-> **[1:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=73)** And the third reason, which is perhaps one of the more important ones, is that later on we're going to go ahead and build a hierarchy on our product information that goes from individual physical products to product subcategories and then to categories.
+> **[1:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=73)** And the third reason, which is perhaps one of the more important ones, is that later on we're going to go ahead and build a hierarchy on our product information that goes from individual physical [[Microsoft Products|products]] to product subcategories and then to categories.
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=87)** And one of the rules on hierarchies that all columns of participate in the hierarchy need to exist in the same table.
 >
@@ -2438,7 +2422,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=155)** So, we now have the two queries that we want.
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=159)** So, I'm going to go ahead and tell Power Query how I want the match to happen.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=159)** So, I'm going to go ahead and tell [[Microsoft Power Query|Power Query]] how I want the match to happen.
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=163)** So, I'm going to click on Product Subcategory in the Merge table and Product Subcategory down here.
 >
@@ -2496,9 +2480,9 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=315)** So, a couple other notes on the merging.
 >
-> **[5:18](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=318)** So, merging behaves like a join inside a sql.
+> **[5:18](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=318)** So, merging behaves like a join inside a [[SQL]].
 >
-> **[5:22](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=322)** So, if you're familiar with SQL, or sql, this behaves like a join, or if you use any of the lookup functions inside of Excel, it behaves similarly to that.
+> **[5:22](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=322)** So, if you're familiar with SQL, or sql, this behaves like a join, or if you use any of the lookup functions inside of [[Microsoft Excel|Excel]], it behaves similarly to that.
 >
 > **[5:34](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=334)** The main difference is that the merge inside of Power Query is way more powerful, way more flexible, and way more performant.
 >
@@ -2538,7 +2522,7 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=442)** Now, you didn't see the product rollup load into the model, because I had done that in a previous save.
 >
-> **[7:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=448)** So, what I'm going to do here now is I'm just going to close and apply and get out of my Power Query editor and back over onto the Power BI desktop.
+> **[7:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=448)** So, what I'm going to do here now is I'm just going to close and apply and get out of my Power Query editor and back over onto the [[Microsoft Power BI|Power BI]] desktop.
 >
 > **[7:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=460)** All right, so this is the Power BI desktop that I want to be on.
 >
@@ -2550,7 +2534,7 @@ created: 2026-05-02
 >
 > **[7:58](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=478)** We have a few more things to do in Power Query to bring a little bit more information in, but now we've got things all loaded up.
 >
-> **[8:05](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=485)** Okay, so what I want to do now is just switch back over to PowerPoint so I can show an animation of the different join types.
+> **[8:05](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=485)** Okay, so what I want to do now is just switch back over to [[Microsoft PowerPoint|PowerPoint]] so I can show an animation of the different join types.
 >
 > **[8:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/merge-the-product-and-product-rollup-queries?u=76281980&t=494)** Okay, so I'm going to take these two queries here.
 >
@@ -2580,7 +2564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (36), [[Microsoft Power Query|Power query]] (8), data (5), next (3), [[SQL]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (8), [[SQL]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (9), dropdown (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), cat (1)
@@ -2589,14 +2573,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Import the other countries' sales data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980)
+#### [Import the other countries' sales data](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=6)** - [Instructor] Okay, so we ended off the previous lesson on the Power BI desktop.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=6)** - [Instructor] Okay, so we ended off the previous lesson on the [[Microsoft Power BI|Power BI]] desktop.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=11)** So if I want to work my way back to the Power Query Editor window, off the home tab, I just simply click transform data and this takes us back to the Power Query Editor window.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=11)** So if I want to work my way back to the [[Microsoft Power Query|Power Query]] Editor window, off the home tab, I just simply click transform data and this takes us back to the Power Query Editor window.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=21)** So in this sub-lesson what we're going to do is we want to import the other countries' sales data.
 >
@@ -2624,7 +2607,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=105)** The nice thing about the way all of these countries are delivering their data is that they all follow a similar format.
 >
-> **[1:52](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=112)** And this is a fantastic thing because if you'll notice in all these folders, if I just went through and counted, we have around 20 different Excel spreadsheets across these five different folders.
+> **[1:52](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=112)** And this is a fantastic thing because if you'll notice in all these folders, if I just went through and counted, we have around 20 different [[Microsoft Excel|Excel]] spreadsheets across these five different folders.
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=124)** And one of the nice things about using the connector we're going to talk about next year is that we can treat all the files in this Other Countries folder as if they're one file.
 >
@@ -2826,7 +2809,7 @@ created: 2026-05-02
 >
 > **[10:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=640)** This model does not need that.
 >
-> **[10:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=643)** Okay, so just going to go through and take a look at the rest of my data types.
+> **[10:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=643)** Okay, so just going to go through and take a look at the [[Representational State Transfer (REST)|rest]] of my data types.
 >
 > **[10:45](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/import-the-other-countries-sales-data?u=76281980&t=645)** So I'm happy with whole number there.
 >
@@ -2896,7 +2879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Microsoft Power Query|Power query]] (16), power (9), bi (9), next (4)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (16), [[Microsoft Power BI|Power bi]] (9), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (8), click on (2), checkbox (2), dropdown (1)
 > **CLI Commands:** make (10), find (2)
 > **Env Vars:** tbl (2), pid (1)
@@ -2905,12 +2888,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1), just like (1)
 > **Cross-References:** go back to (1)
 
-#### Append sale queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/append-sale-queries?u=76281980)
+#### [Append sale queries](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/append-sale-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/append-sale-queries?u=76281980&t=6)** - [Instructor] Okay, so what we're going to do now in this next lesson is I first want to go and load all the data from my sources through the Power Query editor using all the transformation reels I just set up.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/append-sale-queries?u=76281980&t=6)** - [Instructor] Okay, so what we're going to do now in this next lesson is I first want to go and load all the data from my sources through the [[Microsoft Power Query|Power Query]] editor using all the transformation reels I just set up.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/append-sale-queries?u=76281980&t=20)** So I'm just going to click Close and Apply, and let that data move its way over in the data model.
 >
@@ -2918,7 +2900,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/append-sale-queries?u=76281980&t=35)** The objective of this exercise is to combine the other country's sales and United States sales into a single table.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/append-sale-queries?u=76281980&t=43)** So that if we ever want to do global sales analysis, we can do it all from one place.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/append-sale-queries?u=76281980&t=43)** So that if we ever want to do global [[Sales Analysis]], we can do it all from one place.
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/append-sale-queries?u=76281980&t=49)** So let's go ahead and do that.
 >
@@ -3030,14 +3012,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Power Query|Power query]] (6), product (3), next (1), [[Sales Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (6), [[Sales Analysis]] (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-columns?u=76281980)
+#### [Create columns](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3081,13 +3062,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model loading and cleanup
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980)
+#### [Model loading and cleanup](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3125,36 +3104,35 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=116)** And now what we're going to see here in our data models, we're going to be left with the four tables that we want.
 >
-> **[2:01](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=121)** So it's very common inside of what would be called data engineering work, 'cause this is data engineering work where you're gathering data, cleaning it, and getting it ready for reporting, to bring information as far as this environment here, but never actually deliver it out to the data model where people are ultimately going to consume it.
+> **[2:01](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=121)** So it's very common inside of what would be called [[Data Engineering]] work, 'cause this is data engineering work where you're gathering data, cleaning it, and getting it ready for reporting, to bring information as far as this environment here, but never actually deliver it out to the data model where people are ultimately going to consume it.
 >
 > **[2:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=141)** Now, we refer to this type of information as staging tables in the data engineering world 'cause they're staged and used for building other information, but they're ultimately not delivered over onto our data model.
 >
 > **[2:33](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=153)** Alright, so that is the cleanup that we wanted to do, and showed you that we are only bringing the tables into the model that we want.
 >
-> **[2:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=162)** And so let's just do one final little recap on our PowerPoint diagram.
+> **[2:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=162)** And so let's just do one final little recap on our [[Microsoft PowerPoint|PowerPoint]] diagram.
 >
 > **[2:47](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=167)** So what we've accomplished so far is we've connected into a number of different data sources, extracted that data, done a series of transformations, and now loaded only the the queries that we wanted to over into the data model, which now are presented as tables.
 >
-> **[3:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=182)** So we're essentially done with Power Query aside from the next sub-lesson where we're going to do a little bit of documentation work, but we're getting ready to move onto the section on data modeling where we're going to start building our data model up using the data that has been delivered through Power Query.
+> **[3:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=182)** So we're essentially done with [[Microsoft Power Query|Power Query]] aside from the next sub-lesson where we're going to do a little bit of documentation work, but we're getting ready to move onto the section on [[Data Modeling]] where we're going to start building our data model up using the data that has been delivered through Power Query.
 >
 > **[3:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/model-loading-and-cleanup?u=76281980&t=199)** Alright, so that is the end of the sub-lesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), product (5), [[Data Engineering]] (3), [[Microsoft Power Query|Power query]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (3), [[Microsoft Power Query|Power query]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Data Modeling]] (1)
 > **Warnings:** warning (3)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organize and document Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/organize-and-document-power-query?u=76281980)
+#### [Organize and document Power Query](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/organize-and-document-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/organize-and-document-power-query?u=76281980&t=6)** - [Instructor] Okay, so let's now talk about a topic that nobody likes to talk about, and that is documentation.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/organize-and-document-power-query?u=76281980&t=12)** So let's go ahead inside of Power Query here, and let's do a little bit of organization and documentation.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/organize-and-document-power-query?u=76281980&t=12)** So let's go ahead inside of [[Microsoft Power Query|Power Query]] here, and let's do a little bit of organization and documentation.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/organize-and-document-power-query?u=76281980&t=20)** It's not what people generally like to do, but it's really important inside of Power Query, and pretty much any technology, for that matter, to go ahead and document what has been done so that you in the future can pick it up and support it, or if you hand this over to somebody else, they can do the same.
 >
@@ -3270,7 +3248,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/organize-and-document-power-query?u=76281980&t=315)** And what this is showing us here is how all your data comes together.
 >
-> **[5:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/organize-and-document-power-query?u=76281980&t=319)** And for anybody who's worked inside the Excel world, something like this is worth its weight in gold, because now I can see where all of our sources of information come from and how it all comes together to ultimately give us the tables that are loaded.
+> **[5:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/organize-and-document-power-query?u=76281980&t=319)** And for anybody who's worked inside the [[Microsoft Excel|Excel]] world, something like this is worth its weight in gold, because now I can see where all of our sources of information come from and how it all comes together to ultimately give us the tables that are loaded.
 >
 > **[5:35](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/organize-and-document-power-query?u=76281980&t=335)** So for example, I can click on Sales here and see, here's where the information came from for United States Sales.
 >
@@ -3328,7 +3306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), product (12), [[Microsoft Power Query|Power query]] (5), next (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (10), right-click (4), go to (4)
 > **Cross-References:** we talked about (2), go back to (2)
 > **CLI Commands:** find (2), make (1)
@@ -3342,14 +3320,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270073?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270073?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270073?u=76281980&t=6)** - In this lesson, we're going to build a data model to support self-service reporting.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270073?u=76281980&t=10)** And the data model is the center of the Power BI universe.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270073?u=76281980&t=10)** And the data model is the center of the [[Microsoft Power BI|Power BI]] universe.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270073?u=76281980&t=13)** So with that, we're going to go through this slowly 'cause it is different from what you may be used to doing.
 >
@@ -3373,24 +3350,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Navigate the Power Bi Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980)
+#### [Navigate the Power Bi Desktop](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=6)** - [Instructor] Okay, so in this lesson, we are going to show you how to navigate the Power BI desktop, but before we do that, let's just go ahead and recap where we're at so far.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=6)** - [Instructor] Okay, so in this lesson, we are going to show you how to navigate the [[Microsoft Power BI|Power BI]] desktop, but before we do that, let's just go ahead and recap where we're at so far.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=17)** So back in lesson number two, we did a lot of work with Power Query, connecting into our data sources, transforming the data using Power Query Editor, and then eventually loading that data here into the data model.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=17)** So back in lesson number two, we did a lot of work with [[Microsoft Power Query|Power Query]], connecting into our data sources, transforming the data using Power Query Editor, and then eventually loading that data here into the data model.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=32)** So we are effectively done with Power Query now.
 >
-> **[0:36](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=36)** We will go back a few times through the rest of the class, because it's very natural when doing analytics to have to go back to your data sources to do various things fairly frequently.
+> **[0:36](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=36)** We will go back a few times through the [[Representational State Transfer (REST)|rest]] of the class, because it's very natural when doing analytics to have to go back to your data sources to do various things fairly frequently.
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=47)** But for now, we're going to spend our time in the data modeling section.
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=47)** But for now, we're going to spend our time in the [[Data Modeling]] section.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=50)** So let's flip ourselves to the Power BI desktop and give you a quick tour.
 >
@@ -3402,7 +3378,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=66)** So as we go across these different tabs, we'll see different ribbon options.
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=70)** Very similar to pretty much every Microsoft product out there.
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=70)** Very similar to pretty much every [[Microsoft]] product out there.
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop?u=76281980&t=75)** So we've got our tabs, we've got our ribbon, and then we've got the different groups of functions in each one of these ribbons.
 >
@@ -3436,20 +3412,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), power (3), bi (3), [[Microsoft Power Query|Power query]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Power Query|Power query]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Data Modeling]] (1), [[Microsoft]] (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Dimensional Modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980)
+#### [Understanding Dimensional Modeling](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=6)** - [Instructor] All right.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=7)** So Dimensional Modeling is a data modeling methodology that centers around measuring a business process.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=7)** So Dimensional Modeling is a [[Data Modeling]] methodology that centers around measuring a business process.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=14)** The business processes are known as facts, and when we measure business processes, we need ways to describe those measurements.
 >
@@ -3479,11 +3454,11 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=111)** If the model is set up like this, such that there is a fact table in the middle and only one dimension table on the outside, this is referred to as a Star Schema.
 >
-> **[2:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=122)** So for example, back in our product dimension, if you recall, back in Power Query, we took the product query and combined it with the product roll-up query, so that we had all the information for creating a hierarchy all within one table.
+> **[2:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=122)** So for example, back in our product dimension, if you recall, back in [[Microsoft Power Query|Power Query]], we took the product query and combined it with the product roll-up query, so that we had all the information for creating a hierarchy all within one table.
 >
-> **[2:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=137)** Now, we went through and did that merge, but if we did not and we left our dimension in two separate tables, something like this, we would then ultimately end up building a relationship between the product category and the product and we would have a second table out from the fact table and this is referred to as a Snowflake Schema.
+> **[2:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=137)** Now, we went through and did that merge, but if we did not and we left our dimension in two separate tables, something like this, we would then ultimately end up building a relationship between the product category and the product and we would have a second table out from the fact table and this is referred to as a [[Snowflake]] Schema.
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=159)** As a level one user of Power BI, I recommend sticking with the Star Schema modeling.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=159)** As a level one user of [[Microsoft Power BI|Power BI]], I recommend sticking with the Star Schema modeling.
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=166)** Once you start doing more with Power BI and get into levels two and beyond, there are some advantages to the Snowflake Schema, but for now, let's keep things nice and simple and follow the Star Schema modeling.
 >
@@ -3491,7 +3466,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=187)** So what are some of the benefits of a dimensional model?
 >
-> **[3:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=192)** So essentially it makes your data structures easier to navigate, manage, and consume over the course of time.
+> **[3:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=192)** So essentially it makes your [[Data Structures]] easier to navigate, manage, and consume over the course of time.
 >
 > **[3:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=199)** It is easier to layer in more information while keeping the model results predictable.
 >
@@ -3503,7 +3478,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=228)** So for those of you that have never heard of a dimensional model or done it, it's actually not that difficult.
 >
-> **[3:55](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=235)** In fact, I would argue it's simpler than doing any modeling you've likely done in the Excel world but the biggest challenge of a dimensional model is the fact that it's different.
+> **[3:55](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=235)** In fact, I would argue it's simpler than doing any modeling you've likely done in the [[Microsoft Excel|Excel]] world but the biggest challenge of a dimensional model is the fact that it's different.
 >
 > **[4:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understanding-dimensional-modeling?u=76281980&t=244)** If you come from the Excel world, you're used to taking all your data and bringing it into one table so that you can eventually put a pivot table on top of it so that you can start building all kinds of reporting on top of that.
 >
@@ -3519,19 +3494,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), data (6), business (5), power (5), bi (5)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Snowflake]] (2), [[Microsoft Excel|Excel]] (2), [[Data Modeling]] (1), [[Microsoft Power Query|Power query]] (1)
 > **Definitions:** is a  (4), known as (2)
 > **Analogies:** imagine (1), for example (1)
 > **Tools:** notion (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create relationships and manage settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980)
+#### [Create relationships and manage settings](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=6)** - [Instructor] Okay, so I am back on my Power BI Desktop.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=6)** - [Instructor] Okay, so I am back on my [[Microsoft Power BI|Power BI]] Desktop.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=9)** I've got my sales file opened.
 >
@@ -3679,9 +3653,9 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=411)** And now this time I see a star on both sides, which is indicating many-to-many and my filters can flow in both directions.
 >
-> **[6:57](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=417)** So the easiest way to fix this is going back into Power Query and de-duplicating our product table.
+> **[6:57](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=417)** So the easiest way to fix this is going back into [[Microsoft Power Query|Power Query]] and de-duplicating our product table.
 >
-> **[7:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=426)** So, what essentially has happened is that we have duplicate products in this table right here, which is creating that many-to-many state.
+> **[7:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=426)** So, what essentially has happened is that we have duplicate [[Microsoft Products|products]] in this table right here, which is creating that many-to-many state.
 >
 > **[7:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=433)** And often the way to get away from a many-to-many relationship is simply just to deduplicate your dimension tables.
 >
@@ -3781,7 +3755,7 @@ created: 2026-05-02
 >
 > **[12:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=730)** So cardinality is official non-database dictionary definition is mathematical.
 >
-> **[12:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=735)** It is the number of values in a set, but when applied to databases, the meaning is a bit different.
+> **[12:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=735)** It is the number of values in a set, but when applied to [[Databases]], the meaning is a bit different.
 >
 > **[12:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-relationships-and-manage-settings?u=76281980&t=741)** It's the number of distinct values in a table column relative to the number of rows in the table.
 >
@@ -3821,7 +3795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (22), power (11), bi (11), data (11), [[Microsoft Power Query|Power query]] (8)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (11), [[Microsoft Power Query|Power query]] (8), [[Microsoft Products|Products]] (1), [[Databases]] (1)
 > **UI Navigation:** go to (6), click on (5)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (5)
@@ -3830,12 +3804,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Modify column properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/modify-column-properties?u=76281980)
+#### [Modify column properties](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/modify-column-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/modify-column-properties?u=76281980&t=6)** - [Chris] Okay, so I am back in my Power BI desktop and what I want to do here is I'm going to go into the Table view.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/modify-column-properties?u=76281980&t=6)** - [Chris] Okay, so I am back in my [[Microsoft Power BI|Power BI]] desktop and what I want to do here is I'm going to go into the Table view.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/modify-column-properties?u=76281980&t=14)** So I'm going to click up above the Model view and click on Table view here.
 >
@@ -4011,7 +3984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (5), power (3), bi (3), product (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3)
 > **CLI Commands:** make (8), find (7)
 > **UI Navigation:** go to (8), click on (4), open the (1)
 > **Best Practices:** best practice (2)
@@ -4019,8 +3992,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [chris] (1)
 
-#### Create a column group
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-column-group?u=76281980)
+#### [Create a column group](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-column-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4034,7 +4006,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-column-group?u=76281980&t=28)** So right now we actually don't have that data and it came from nowhere inside of our data source.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-column-group?u=76281980&t=33)** So what we're going to do inside of Power BI here is actually build a data group so that we can assign continents to this.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-column-group?u=76281980&t=33)** So what we're going to do inside of [[Microsoft Power BI|Power BI]] here is actually build a data group so that we can assign continents to this.
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-column-group?u=76281980&t=40)** So what I'm going to do here is I'm going to go over to the sales territory country column here.
 >
@@ -4122,13 +4094,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (2), bi (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** click on (10), go to (1), checkbox (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create hierarchies
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-hierarchies?u=76281980)
+#### [Create hierarchies](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-hierarchies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4144,7 +4115,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-hierarchies?u=76281980&t=34)** So this is a sample date hierarchy.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-hierarchies?u=76281980&t=38)** Here's one that is around products.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-hierarchies?u=76281980&t=38)** Here's one that is around [[Microsoft Products|products]].
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-hierarchies?u=76281980&t=39)** So this is the dimension we're going to go ahead and build next is where we take our individual physical products at the lowest level.
 >
@@ -4244,7 +4215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (28), next (5), [[Microsoft Products|Products]] (3), data (3), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (6), find (3)
 > **UI Navigation:** click on (5), go to (4)
 > **Definitions:** is a  (3)
@@ -4253,8 +4224,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Warnings:** keep in mind (1)
 
-#### Optimize relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/optimize-relationships?u=76281980)
+#### [Optimize relationships](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/optimize-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4280,7 +4250,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/optimize-relationships?u=76281980&t=75)** So how do we go about doing that?
 >
-> **[1:18](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/optimize-relationships?u=76281980&t=78)** So let's go get back into our Power Query, so I'm going to click on Home, I'm going to click on Transform data, and we're going to show you a technique here that allows you to bring the sales territory region key into the sales table.
+> **[1:18](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/optimize-relationships?u=76281980&t=78)** So let's go get back into our [[Microsoft Power Query|Power Query]], so I'm going to click on Home, I'm going to click on Transform data, and we're going to show you a technique here that allows you to bring the sales territory region key into the sales table.
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/optimize-relationships?u=76281980&t=94)** So what I'm going to do here is I'm going to click on Sales.
 >
@@ -4310,7 +4280,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/optimize-relationships?u=76281980&t=162)** So I'm going to go ahead and click Close and apply.
 >
-> **[2:45](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/optimize-relationships?u=76281980&t=165)** And I'm back over here on my Power BI desktop and I'm going to go over to my model view now.
+> **[2:45](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/optimize-relationships?u=76281980&t=165)** And I'm back over here on my [[Microsoft Power BI|Power BI]] desktop and I'm going to go over to my model view now.
 >
 > **[2:50](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/optimize-relationships?u=76281980&t=170)** So if I go over to the relationship between sales and sales territories, I can see that it's built on the region.
 >
@@ -4364,15 +4334,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), product (3), data (3), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** click on (5), drag and drop (1), go to (1)
 > **Analogies:** just like (2), imagine (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discuss data model cleanup
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/discuss-data-model-cleanup?u=76281980)
+#### [Discuss data model cleanup](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/discuss-data-model-cleanup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4432,7 +4401,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/discuss-data-model-cleanup?u=76281980&t=148)** We want to leave that inside of the sales fact because we don't actually have a dimension yet to support that.
 >
-> **[2:33](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/discuss-data-model-cleanup?u=76281980&t=153)** Later on we get into the section on Dax.
+> **[2:33](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/discuss-data-model-cleanup?u=76281980&t=153)** Later on we get into the section on [[DAX]].
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/discuss-data-model-cleanup?u=76281980&t=156)** We're going to talk about building up a date dimension, but we'll save that for later on.
 >
@@ -4454,7 +4423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (3), [[DAX]] (1)
+> **Frameworks & Libraries:** [[DAX]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** go back to (2)
@@ -4466,12 +4435,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270072?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270072?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270072?u=76281980&t=6)** - In this lesson, we're going to work on helping you understand DAX and what it is.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270072?u=76281980&t=6)** - In this lesson, we're going to work on helping you understand [[DAX]] and what it is.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270072?u=76281980&t=11)** We're going to create some basic DAX expressions, use logical expressions in DAX, then we're going to move into a comprehensive case.
 >
@@ -4487,22 +4455,21 @@ created: 2026-05-02
 > **Env Vars:** dax (3)
 > **Speakers:** - in (1)
 
-#### Understand DAX
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980)
+#### [Understand DAX](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=6)** - [Presenter] So, first off, what is DAX?
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=6)** - [Presenter] So, first off, what is [[DAX]]?
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=8)** DAX stands for Data Analysis Expressions.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=12)** It was modeled initially after the Excel formula language, it is a functional language, much like Excel, so if you're an Excel user and you've written Excel expressions, you're used to nesting functions inside of functions and, therefore, using the DAX language will have a certain degree of familiarity to you.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=12)** It was modeled initially after the [[Microsoft Excel|Excel]] formula language, it is a functional language, much like Excel, so if you're an Excel user and you've written Excel expressions, you're used to nesting functions inside of functions and, therefore, using the DAX language will have a certain degree of familiarity to you.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=31)** It is used to encapsulate business logic in your data model, and some examples of the use of DAX are calculating a full name from a first name and last name, calculating a gross margin percentage, or perhaps even calculating a year-over-year percentage change.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=47)** And back many years ago when I first started to teach DAX, I had somebody ask me a very interesting question.
 >
-> **[0:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=53)** They said, "I've been using Power BI for a number of years now, I've built lots of reporting, my executives really love it.
+> **[0:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=53)** They said, "I've been using [[Microsoft Power BI|Power BI]] for a number of years now, I've built lots of reporting, my executives really love it.
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=61)** They get to interact with their data, it's timely, it's automated, and I've never had to write a stitch of DAX.
 >
@@ -4512,7 +4479,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=76)** And the answer was yes.
 >
-> **[1:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=77)** So if you recall, back when we were in our data modeling section talking about the basics, we went through and created default summarizations on our numeric columns.
+> **[1:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=77)** So if you recall, back when we were in our [[Data Modeling]] section talking about the basics, we went through and created default summarizations on our numeric columns.
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/understand-dax?u=76281980&t=89)** And by virtue of that, when somebody goes to use those columns, there is by default a summarization there and the Power BI engine will automatically write implicit DAX for you.
 >
@@ -4698,7 +4665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (18), data (9), [[Microsoft Excel|Excel]] (7), power (7), bi (7)
+> **Frameworks & Libraries:** [[DAX]] (18), [[Microsoft Excel|Excel]] (7), [[Microsoft Power BI|Power bi]] (7), [[Data Modeling]] (1)
 > **Env Vars:** dax (18), sum (1)
 > **UI Navigation:** go to (10), click on (4), right-click (1)
 > **CLI Commands:** make (7), find (2)
@@ -4707,8 +4674,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [presenter] (1)
 
-#### Create basic DAX expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980)
+#### [Create basic DAX expressions](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4722,7 +4688,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=25)** And its value is calculated data load time.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=27)** So as you're refreshing your data model and we're pulling data from sources, running it through Power Query and ultimately landing at the data model, that work happens at load time.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=27)** So as you're refreshing your data model and we're pulling data from sources, running it through [[Microsoft Power Query|Power Query]] and ultimately landing at the data model, that work happens at load time.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=37)** Which is generally an off peak time in most organizations.
 >
@@ -4752,7 +4718,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=130)** So the value is calculated at runtime.
 >
-> **[2:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=132)** This is what gives Power BI a ton of its flexibility from the end user's perspective.
+> **[2:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=132)** This is what gives [[Microsoft Power BI|Power BI]] a ton of its flexibility from the end user's perspective.
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=137)** So they can go ahead and build reports and slice and dice measurements how they see fit on their own.
 >
@@ -4764,7 +4730,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=169)** And that happens then that you end up with frustrated users and you need to rethink your model.
 >
-> **[2:54](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=174)** So this is where we really like to tie back to the dimensional modeling technique and say that if you can build your model out using dimensional modeling techniques and from the ground up keep your model nice and simple, so only bringing the columns in you need, only bring the rows in you need, come up with good naming conventions, and respect the dimensional modeling format, you're in general are going to have DAX expressions that are very simple, and when they're very simple they tend to run a whole lot better.
+> **[2:54](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=174)** So this is where we really like to tie back to the dimensional modeling technique and say that if you can build your model out using dimensional modeling techniques and from the ground up keep your model nice and simple, so only bringing the columns in you need, only bring the rows in you need, come up with good naming conventions, and respect the dimensional modeling format, you're in general are going to have [[DAX]] expressions that are very simple, and when they're very simple they tend to run a whole lot better.
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=202)** So we'll talk a little bit more about that as we go through this course.
 >
@@ -4842,7 +4808,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=416)** So when you are going ahead and building your initial PBX file, to you it's just one big file and that's it.
 >
-> **[7:03](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=423)** So much like Excel.
+> **[7:03](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=423)** So much like [[Microsoft Excel|Excel]].
 >
 > **[7:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-basic-dax-expressions?u=76281980&t=424)** But the secret sauce inside of Power BI, in my opinion, is the fact that when you're building this sales PBX file up, or any PX file for that matter, is the separation of the data set and the report.
 >
@@ -4940,7 +4906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Power Query|Power query]] (8), power (8), bi (8), [[DAX]] (4)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (8), [[Microsoft Power BI|Power bi]] (8), [[DAX]] (4), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** pbx (8), dax (4)
 > **UI Navigation:** go to (8), click on (2)
 > **CLI Commands:** make (4), find (1)
@@ -4949,12 +4915,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [tutor] (1)
 
-#### Use logical expressions in DAX
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-logical-expressions-in-dax?u=76281980)
+#### [Use logical expressions in DAX](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-logical-expressions-in-dax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-logical-expressions-in-dax?u=76281980&t=6)** - [Instructor] Okay, in this sub lesson, we're going to discuss the use of logical expressions inside of DAX.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-logical-expressions-in-dax?u=76281980&t=6)** - [Instructor] Okay, in this sub lesson, we're going to discuss the use of logical expressions inside of [[DAX]].
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-logical-expressions-in-dax?u=76281980&t=12)** And as you begin to write more complex DAX expressions, you'll inevitably find yourself needing to understand and use logical expressions.
 >
@@ -5080,29 +5045,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), hit (4), [[DAX]] (3), business (1), prompt (1)
+> **Frameworks & Libraries:** [[DAX]] (3)
 > **UI Navigation:** go to (4), click on (2), dropdown (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** dax (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comprehensive create calculated columns and measures: Part one
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980)
+#### [Comprehensive create calculated columns and measures: Part one](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=6)** - [Presenter] Okay, so in this sub lesson, we're going to do a comprehensive example of bringing together the concepts of the calculated columns and our measures.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=16)** So what the goal of this is, is to create a DAX expression that allows you to go ahead and slice and dice total margin percentage.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=16)** So what the goal of this is, is to create a [[DAX]] expression that allows you to go ahead and slice and dice total margin percentage.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=30)** So when a business user comes to you, none of them will ever go ahead and say, "Hey, can you curate me a calculator column or a measure?"
 >
-> **[0:37](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=37)** They're just going to tell you what they want and how they want to use it, and it's up to you to interpret how to best implement that inside of Power BI.
+> **[0:37](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=37)** They're just going to tell you what they want and how they want to use it, and it's up to you to interpret how to best implement that inside of [[Microsoft Power BI|Power BI]].
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=46)** So what I'm going to do here is let's go ahead first and start walking down the path that users would typically go down.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=54)** So when I find new users, DAX, coming into the language, and especially those that come from the Excel world, I tend to find that there's a heavy reliance on calculated columns.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=54)** So when I find new users, DAX, coming into the language, and especially those that come from the [[Microsoft Excel|Excel]] world, I tend to find that there's a heavy reliance on calculated columns.
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=67)** And that's because there's a certain comfort to calculated columns.
 >
@@ -5268,7 +5232,7 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=457)** So what I'll do is the line total of sales, we actually didn't create that.
 >
-> **[7:41](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=461)** If you keep in mind that was done back in Power Query, but I'm still going to drop it on the canvas anyhow.
+> **[7:41](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=461)** If you keep in mind that was done back in [[Microsoft Power Query|Power Query]], but I'm still going to drop it on the canvas anyhow.
 >
 > **[7:45](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-one?u=76281980&t=465)** So I click on it, drop it over here, and if I look at this, it's giving me the same values that my total sales measure was.
 >
@@ -5328,7 +5292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), next (6), hit (4), [[DAX]] (3), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[DAX]] (3), [[Microsoft Excel|Excel]] (3), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Power Query|Power query]] (1)
 > **CLI Commands:** make (10), find (5)
 > **UI Navigation:** go to (5), click on (4), dropdown (1)
 > **Env Vars:** dax (3)
@@ -5337,8 +5301,7 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Warnings:** keep in mind (1)
 
-#### Comprehensive create calculated columns and measures: Part two
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-two?u=76281980)
+#### [Comprehensive create calculated columns and measures: Part two](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-two?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5402,7 +5365,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), data (1), product (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Cross-References:** go back to (1)
@@ -5410,8 +5372,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [chris] (1)
 
-#### Comprehensive create calculated columns and measures: Part three
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980)
+#### [Comprehensive create calculated columns and measures: Part three](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5433,7 +5394,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=55)** And just a note here is: I would never actually call a measure SUMX; I would leave it as Total Sales, but one of the rules inside of the data model is I can only have a measure name used once.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=68)** So Total Sales is not something I can create again, I need a way to differentiate this measure from the other Total Sales measure, and so I thought, "Well, why not just use the name of the DAX function we're going to use just to do that differentiation."
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=68)** So Total Sales is not something I can create again, I need a way to differentiate this measure from the other Total Sales measure, and so I thought, "Well, why not just use the name of the [[DAX]] function we're going to use just to do that differentiation."
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=80)** So this is more being used from an academic perspective, but I would never do that in a production world.
 >
@@ -5463,7 +5424,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=150)** And we can see here that it's giving us the exact same value as our total sales here.
 >
-> **[2:35](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=155)** The only difference here is this total sales is relying on that line total cost that we built way back in power query.
+> **[2:35](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=155)** The only difference here is this total sales is relying on that line total cost that we built way back in [[Microsoft Power Query|power query]].
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=163)** So it's relying on a column, whereas this one is actually calculating the value on the fly.
 >
@@ -5473,7 +5434,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=179)** So this is the first step in starting to move away from the calculated columns.
 >
-> **[3:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=184)** The rest of this is by no means comprehensive.
+> **[3:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=184)** The [[Representational State Transfer (REST)|rest]] of this is by no means comprehensive.
 >
 > **[3:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/comprehensive-create-calculated-columns-and-measures-part-three?u=76281980&t=186)** I don't want to go in and clean the rest of those up 'cause I think this is enough to show you the point of what iteration functions are and the value of them.
 >
@@ -5483,19 +5444,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (2), [[Representational State Transfer (REST)|Rest]] (2), data (1), hit (1), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[DAX]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** sumx (7), dax (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the FILTER function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-filter-function?u=76281980)
+#### [Use the FILTER function](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-filter-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-filter-function?u=76281980&t=6)** - [Instructor] All right, so in this sub lesson, we are going to look at a few more DAX functions.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-filter-function?u=76281980&t=6)** - [Instructor] All right, so in this sub lesson, we are going to look at a few more [[DAX]] functions.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-filter-function?u=76281980&t=12)** In particular, we're going to pay attention to the FILTER function, but first we're going to go ahead and build our way towards the use of the FILTER function.
 >
@@ -5603,14 +5563,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), hit (2), [[DAX]] (1)
+> **Frameworks & Libraries:** [[DAX]] (1)
 > **Env Vars:** filter (5), countrows (4), dax (1), sum (1), s051190 (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** go to (2), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the ALL function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-all-function?u=76281980)
+#### [Use the ALL function](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-all-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5706,7 +5665,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), hit (1), next (1), power (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1), click on (1)
 > **Env Vars:** countrows (1)
@@ -5719,12 +5677,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264875?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264875?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264875?u=76281980&t=6)** - In this lesson, we're going to learn how to build a date table, we're going to talk about disabling the auto date time setting, which is on by default in Power BI.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264875?u=76281980&t=6)** - In this lesson, we're going to learn how to build a date table, we're going to talk about disabling the auto date time setting, which is on by default in [[Microsoft Power BI|Power BI]].
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264875?u=76281980&t=14)** We'll designate a date table in our model, and talk about why that's important.
 >
@@ -5736,12 +5693,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** calculate (1)
 > **Speakers:** - in (1)
 
-#### Build a date table
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-date-table?u=76281980)
+#### [Build a date table](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-date-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5855,9 +5811,9 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-date-table?u=76281980&t=293)** Then a system matter them using that via drag and drop when they're going ahead and building the reporting.
 >
-> **[4:58](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-date-table?u=76281980&t=298)** So calendar tables or date tables are generally a very new concept to everybody who comes into Power BI, but they're one of the most powerful features you can add into Power BI.
+> **[4:58](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-date-table?u=76281980&t=298)** So calendar tables or date tables are generally a very new concept to everybody who comes into [[Microsoft Power BI|Power BI]], but they're one of the most powerful features you can add into Power BI.
 >
-> **[5:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-date-table?u=76281980&t=308)** And they really, like I said, support the time intelligence functions, which are very compelling functions inside the DAX Library.
+> **[5:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-date-table?u=76281980&t=308)** And they really, like I said, support the time intelligence functions, which are very compelling functions inside the [[DAX]] Library.
 >
 > **[5:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-date-table?u=76281980&t=315)** So something new, something a little different, but also something very powerful that you will be using inside of your DAX daily life.
 >
@@ -5865,7 +5821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (2), power (2), bi (2), [[DAX]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[DAX]] (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** dax (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -5873,8 +5829,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disable the auto date/time setting
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/disable-the-auto-date-time-setting?u=76281980)
+#### [Disable the auto date/time setting](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/disable-the-auto-date-time-setting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5898,7 +5853,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/disable-the-auto-date-time-setting?u=76281980&t=58)** It builds the hierarchy called date hierarchy with the levels in it, I get no control over on it.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/disable-the-auto-date-time-setting?u=76281980&t=64)** So Power BI is in some ways just trying to be friendly and be helpful to you.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/disable-the-auto-date-time-setting?u=76281980&t=64)** So [[Microsoft Power BI|Power BI]] is in some ways just trying to be friendly and be helpful to you.
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/disable-the-auto-date-time-setting?u=76281980&t=68)** But in some ways I find this a very- A feature you should just simply turn off.
 >
@@ -5962,13 +5917,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (5), bi (5), feature (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5)
 > **UI Navigation:** checkbox (1), go to (1), click on (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designate a date table
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980)
+#### [Designate a date table](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5990,7 +5944,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=52)** So, you may ask yourself, well, what validation was it doing?
 >
-> **[0:58](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=58)** So, what I'm going to do here is we can just go ahead and click this link right here, which I'm going to go ahead and do which brings us to this article from Microsoft which dives a little deeper into setting up and using date tables in the Power BI desktop.
+> **[0:58](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=58)** So, what I'm going to do here is we can just go ahead and click this link right here, which I'm going to go ahead and do which brings us to this article from [[Microsoft]] which dives a little deeper into setting up and using date tables in the [[Microsoft Power BI|Power BI]] desktop.
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=70)** So, what I'm going to do is just scroll down a little bit, and show you the way that the validation is occurring.
 >
@@ -6000,13 +5954,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=86)** So, that means every date can show up only once.
 >
-> **[1:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=88)** And if you recall back in Power Query, that's the way we want our dimension to be set up.
+> **[1:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=88)** And if you recall back in [[Microsoft Power Query|Power Query]], that's the way we want our dimension to be set up.
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=91)** We want uniqueness.
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=94)** It's going to check to make sure there's no null values in any of the rows for that particular column.
 >
-> **[1:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=100)** We don't have any because keep in mind what we did right off the bat to create the table was we used the calendar function inside of DAX to say build me a table that has all the dates from the earliest date in the sales table to the latest date.
+> **[1:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=100)** We don't have any because keep in mind what we did right off the bat to create the table was we used the calendar function inside of [[DAX]] to say build me a table that has all the dates from the earliest date in the sales table to the latest date.
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/designate-a-date-table?u=76281980&t=113)** And then the next one here is related to the point that is made.
 >
@@ -6034,7 +5988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), power (3), bi (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft]] (1), [[Microsoft Power Query|Power query]] (1), [[DAX]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dax (1)
@@ -6043,8 +5997,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 
-#### Build relationship between order date and sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-relationship-between-order-date-and-sales?u=76281980)
+#### [Build relationship between order date and sales](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-relationship-between-order-date-and-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6060,7 +6013,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-relationship-between-order-date-and-sales?u=76281980&t=36)** And we'll see that it goes ahead and builds the one to many relationship with the filters flowing from the order date table over to the sales table.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-relationship-between-order-date-and-sales?u=76281980&t=44)** So there we go, now we are essentially ready to go ahead and use our date table in our DAX expressions.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-relationship-between-order-date-and-sales?u=76281980&t=44)** So there we go, now we are essentially ready to go ahead and use our date table in our [[DAX]] expressions.
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-relationship-between-order-date-and-sales?u=76281980&t=53)** So just to summarize, what we've done so far in this particular lesson is we first went and created the date table.
 >
@@ -6078,7 +6031,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-relationship-between-order-date-and-sales?u=76281980&t=88)** So it's now part of our star schema.
 >
-> **[1:32](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-relationship-between-order-date-and-sales?u=76281980&t=92)** And I would have to say if, whenever we go and look at new users models, so somebody who's new to Power BI has been working in Power BI, this is often one of the major gaps they have in their model is that they do not have a date table established in the model.
+> **[1:32](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-relationship-between-order-date-and-sales?u=76281980&t=92)** And I would have to say if, whenever we go and look at new users models, so somebody who's new to [[Microsoft Power BI|Power BI]] has been working in Power BI, this is often one of the major gaps they have in their model is that they do not have a date table established in the model.
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-relationship-between-order-date-and-sales?u=76281980&t=108)** And then what ends up happening is if you're not taking advantage of this date table, then users start to write DAX.
 >
@@ -6100,15 +6053,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (5), power (3), bi (3), data (1)
+> **Frameworks & Libraries:** [[DAX]] (5), [[Microsoft Power BI|Power bi]] (3)
 > **Env Vars:** dax (5)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), we talked about (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic time intelligence functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/basic-time-intelligence-functions?u=76281980)
+#### [Basic time intelligence functions](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/basic-time-intelligence-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6156,7 +6108,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/basic-time-intelligence-functions?u=76281980&t=127)** So what I'm going to do is go to my sales table, I'm going to right-click say a New Measure because I want to build this as a measure and I'll make this a little bit bigger so it's easier to see and I'll get rid of this right here 'cause, once again, this is just reminding us that we're creating a measure and I'm going to put this code in right here.
 >
-> **[2:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/basic-time-intelligence-functions?u=76281980&t=145)** What this code is doing is creating a measure called YTD sales and we're going to take advantage of the total year to date DAX function in which we're going to pass an expression, and that expression happens to be the total sales measure which we created earlier.
+> **[2:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/basic-time-intelligence-functions?u=76281980&t=145)** What this code is doing is creating a measure called YTD sales and we're going to take advantage of the total year to date [[DAX]] function in which we're going to pass an expression, and that expression happens to be the total sales measure which we created earlier.
 >
 > **[2:41](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/basic-time-intelligence-functions?u=76281980&t=161)** And this is the date reference right here.
 >
@@ -6276,7 +6228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[DAX]] (4), [[Analytics]] (2), hit (2)
+> **Frameworks & Libraries:** [[DAX]] (4)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** right-click (3), go to (3), select the (1), click on (1)
 > **Env Vars:** dax (4), ytd (1), qtd (1)
@@ -6285,16 +6237,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### Use the CALCULATE function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-calculate-function?u=76281980)
+#### [Use the CALCULATE function](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-calculate-function?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-calculate-function?u=76281980&t=6)** - [Instructor] Okay, so in this sub-lesson, we're going to talk about the use of the CALCULATE function.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-calculate-function?u=76281980&t=11)** And the CALCULATE function is often considered the most widely used function inside of DAX.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-calculate-function?u=76281980&t=11)** And the CALCULATE function is often considered the most widely used function inside of [[DAX]].
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-calculate-function?u=76281980&t=17)** And if anybody in this session is an Excel user, it's often described as a turbocharged SUMIF function.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-calculate-function?u=76281980&t=17)** And if anybody in this session is an [[Microsoft Excel|Excel]] user, it's often described as a turbocharged SUMIF function.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-calculate-function?u=76281980&t=26)** So let's go ahead and create this first measure where we're going to try and understand prior year total sales.
 >
@@ -6344,7 +6295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (1), [[Microsoft Excel|Excel]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[DAX]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** calculate (5), dax (1), sumif (1)
 > **UI Navigation:** right-click (1), click on (1)
 > **CLI Commands:** make (1)
@@ -6358,8 +6309,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270076?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270076?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6372,12 +6322,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 
-#### Use quick measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-quick-measures?u=76281980)
+#### [Use quick measures](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-quick-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-quick-measures?u=76281980&t=6)** - [Instructor] All right, so in this lesson, we're just going to briefly introduce you to a concept called quick measures inside of Power BI.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-quick-measures?u=76281980&t=6)** - [Instructor] All right, so in this lesson, we're just going to briefly introduce you to a concept called quick measures inside of [[Microsoft Power BI|Power BI]].
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-quick-measures?u=76281980&t=14)** Okay, so what I'm going to do here is much like before when I was right clicking on the sales table, I could choose new measure, new column.
 >
@@ -6423,7 +6372,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-quick-measures?u=76281980&t=127)** I'm going to show you a website that'll actually go through and format this code and we'll talk about why we would do that in a moment here.
 >
-> **[2:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-quick-measures?u=76281980&t=135)** So here I am on a website called DAX Formatter and I'm just going to go right here and paste the formula in that I just had in my clipboard.
+> **[2:15](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-quick-measures?u=76281980&t=135)** So here I am on a website called [[DAX]] Formatter and I'm just going to go right here and paste the formula in that I just had in my clipboard.
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-quick-measures?u=76281980&t=145)** And I'm going to click Format, it'll take a sec here.
 >
@@ -6485,7 +6434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (5), power (3), bi (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[DAX]] (5), [[Microsoft Power BI|Power bi]] (3)
 > **Env Vars:** dax (5), calculate (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), go to (1)
@@ -6499,12 +6448,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264877?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264877?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264877?u=76281980&t=6)** - Okay, so in lesson number seven, we're going to learn how to navigate the Power BI Desktop report view.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264877?u=76281980&t=6)** - Okay, so in lesson number seven, we're going to learn how to navigate the [[Microsoft Power BI|Power BI]] Desktop report view.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264877?u=76281980&t=11)** We're going to create a clustered column chart.
 >
@@ -6516,12 +6464,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - okay (1)
 
-#### Navigate the Power Bi Desktop report view
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop-report-view?u=76281980)
+#### [Navigate the Power Bi Desktop report view](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop-report-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6529,7 +6476,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop-report-view?u=76281980&t=11)** So on the left hand side of the screen we can see here I've got the report view, the table view, once again the model view.
 >
-> **[0:18](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop-report-view?u=76281980&t=18)** We've been working our way through these three different areas through our travels of Power BI over the last few sub lessons.
+> **[0:18](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop-report-view?u=76281980&t=18)** We've been working our way through these three different areas through our travels of [[Microsoft Power BI|Power BI]] over the last few sub lessons.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop-report-view?u=76281980&t=27)** And we're going to focus in on the report view now.
 >
@@ -6561,7 +6508,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop-report-view?u=76281980&t=116)** And they're open and closeable so I can collapse them if I want a little bit more real estate here.
 >
-> **[2:00](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop-report-view?u=76281980&t=120)** And the last one we'll just point out is we did talk a little bit about this filters pane back in the section on DAX 'cause we were using it to manipulate the filter context.
+> **[2:00](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop-report-view?u=76281980&t=120)** And the last one we'll just point out is we did talk a little bit about this filters pane back in the section on [[DAX]] 'cause we were using it to manipulate the filter context.
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/navigate-the-power-bi-desktop-report-view?u=76281980&t=130)** And there's quite a bit you can do at this filters pane inside of Power BI.
 >
@@ -6585,14 +6532,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (4), bi (3), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[DAX]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** dax (1)
 > **Speakers:** - [tutor] (1)
 
-#### Create a clustered column chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980)
+#### [Create a clustered column chart](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6650,7 +6596,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=165)** So I'd like you to just quickly watch this visual on the left-hand side, the line chart.
 >
-> **[2:50](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=170)** And what I'm going to do here is if I click on the year 2020, what happens is this visual did not react to that change.
+> **[2:50](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=170)** And what I'm going to do here is if I click on the year 2020, what happens is this visual did not [[React.js|react]] to that change.
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=177)** So if you recall in an earlier sub-lesson we talked about manipulating the filter context using the editing interactions.
 >
@@ -6672,7 +6618,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=237)** That'll be the first thing we do here when we get into the sub-lesson is go ahead and build this overview page.
 >
-> **[4:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=242)** And there are some DAX demos we can get out as well, which we'd created earlier.
+> **[4:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=242)** And there are some [[DAX]] demos we can get out as well, which we'd created earlier.
 >
 > **[4:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=246)** But this is going to be the look and feel of what we will build over the next little bit.
 >
@@ -6680,7 +6626,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=252)** Okay, so let's go ahead.
 >
-> **[4:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=253)** We're back on our Power BI desktop here.
+> **[4:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=253)** We're back on our [[Microsoft Power BI|Power BI]] desktop here.
 >
 > **[4:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-clustered-column-chart?u=76281980&t=256)** And what I want to do is I'm going to build a cluster column chart.
 >
@@ -6840,7 +6786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (12), power (5), bi (5), feature (3), data (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[React.js|React]] (1), [[DAX]] (1)
 > **UI Navigation:** click on (9), go to (5), open the (1)
 > **CLI Commands:** make (10), find (2)
 > **Definitions:** is a  (2), is called (2), is an  (1)
@@ -6849,8 +6795,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Warnings:** heads up (1)
 
-#### Create a stacked bar chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-stacked-bar-chart?u=76281980)
+#### [Create a stacked bar chart](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-stacked-bar-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6954,22 +6899,21 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-stacked-bar-chart?u=76281980&t=297)** We went through and added a bit of extra information to our tool tip, and that's good enough for now.
 >
-> **[5:03](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-stacked-bar-chart?u=76281980&t=303)** So we've done enough with this visual, and we'll do more with it in the next lesson when we dive into more advanced features of Power BI.
+> **[5:03](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-stacked-bar-chart?u=76281980&t=303)** So we've done enough with this visual, and we'll do more with it in the next lesson when we dive into more advanced features of [[Microsoft Power BI|Power BI]].
 >
-> **[5:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-stacked-bar-chart?u=76281980&t=311)** But for this rest of this lesson here, we're just going to continue to do basic visualizations.
+> **[5:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-stacked-bar-chart?u=76281980&t=311)** But for this [[Representational State Transfer (REST)|rest]] of this lesson here, we're just going to continue to do basic visualizations.
 >
 > **[5:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-stacked-bar-chart?u=76281980&t=316)** And with that, we're at the end of this lesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), data (6), next (5), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (3)
 > **UI Navigation:** go to (6), scroll down (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a line chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-line-chart?u=76281980)
+#### [Create a line chart](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-line-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7051,15 +6995,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), data (3), hit (1), product (1)
 > **CLI Commands:** make (8), find (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a KPI visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-kpi-visual?u=76281980)
+#### [Create a KPI visual](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-kpi-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7075,9 +7017,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-kpi-visual?u=76281980&t=30)** And what I'm going to do here is create this New measure, which is basically just going to give us a blank target, say $7 million, hit enter, and now we've got something to measure against as our target.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-kpi-visual?u=76281980&t=44)** Now in a real production system you would have targets that are based on dates and products and territories and all kinds of things based on the way that your organization does planning.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-kpi-visual?u=76281980&t=44)** Now in a real production system you would have targets that are based on dates and [[Microsoft Products|products]] and territories and all kinds of things based on the way that your organization does planning.
 >
-> **[0:57](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-kpi-visual?u=76281980&t=57)** But for level one learning and introduction to Power BI, we're just going to set a general target of 7 million and not say, is that 7 million by years or by sales territory?
+> **[0:57](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-kpi-visual?u=76281980&t=57)** But for level one learning and introduction to [[Microsoft Power BI|Power BI]], we're just going to set a general target of 7 million and not say, is that 7 million by years or by sales territory?
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-kpi-visual?u=76281980&t=66)** We're just going to give it a target. And that's it.
 >
@@ -7171,7 +7113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), hit (1), [[Microsoft Products|Products]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** go to (3), click on (2), open the (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** kpi (4)
@@ -7180,8 +7122,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a card visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-card-visual?u=76281980)
+#### [Create a card visual](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-card-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7237,15 +7178,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1)
 > **UI Navigation:** go to (5), click on (1), open the (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), just like (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create slicers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-slicers?u=76281980)
+#### [Create slicers](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-slicers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7341,7 +7280,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-slicers?u=76281980&t=223)** Like I said, we could have created that second dropdown box from scratch, but sometimes, especially when you've done a lot of formatting on a visual and you want something similar, it's easier just to cut and paste that visual and start and reconfigure the data on it, and that just saves you lots of steps.
 >
-> **[3:58](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-slicers?u=76281980&t=238)** So just a little trick with inside of Power BI to make your life just a little bit easier.
+> **[3:58](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-slicers?u=76281980&t=238)** So just a little trick with inside of [[Microsoft Power BI|Power BI]] to make your life just a little bit easier.
 >
 > **[4:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-slicers?u=76281980&t=244)** Okay, so that is going ahead and creating the two slicers.
 >
@@ -7371,7 +7310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** dropdown (8), go to (7), click on (1), switch to (1)
 > **CLI Commands:** make (14), find (2)
 > **Definitions:** is a  (2)
@@ -7384,12 +7323,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20266940?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20266940?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20266940?u=76281980&t=6)** - In this lesson, we're going to look at some more advanced features of Power BI over and above what we learned in lesson number seven.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20266940?u=76281980&t=6)** - In this lesson, we're going to look at some more advanced features of [[Microsoft Power BI|Power BI]] over and above what we learned in lesson number seven.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20266940?u=76281980&t=12)** So we're going to extend the functionality.
 >
@@ -7399,12 +7337,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** pbx (1)
 > **Speakers:** - in (1)
 
-#### Add a canvas background
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/add-a-canvas-background?u=76281980)
+#### [Add a canvas background](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/add-a-canvas-background?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7426,7 +7363,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/add-a-canvas-background?u=76281980&t=47)** And what I'm going to do here is I'm going to browse for a background.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/add-a-canvas-background?u=76281980&t=49)** So I'm going to click on that, go to my Introduction to Power BI folder, Template, and I'm going to go over here and I'm going to choose the background called Background.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/add-a-canvas-background?u=76281980&t=49)** So I'm going to click on that, go to my Introduction to [[Microsoft Power BI|Power BI]] folder, Template, and I'm going to go over here and I'm going to choose the background called Background.
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/add-a-canvas-background?u=76281980&t=59)** That one right there.
 >
@@ -7472,7 +7409,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/add-a-canvas-background?u=76281980&t=157)** I'm going to give it a name because I don't like calling it just page number one.
 >
-> **[2:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/add-a-canvas-background?u=76281980&t=160)** We're going to double click on it and call it DAX Demos, like so.
+> **[2:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/add-a-canvas-background?u=76281980&t=160)** We're going to double click on it and call it [[DAX]] Demos, like so.
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/add-a-canvas-background?u=76281980&t=163)** Make it a little bit more meaningful.
 >
@@ -7512,7 +7449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), product (2), power (1), bi (1), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[DAX]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** click on (5), go to (2)
 > **Definitions:** is a  (2)
@@ -7521,8 +7458,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
 
-#### Apply a theme
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-a-theme?u=76281980)
+#### [Apply a theme](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-a-theme?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7536,7 +7472,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-a-theme?u=76281980&t=24)** I'm just going to click this little dropdown button right here.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-a-theme?u=76281980&t=28)** And we can see right now that this report is using the default Power BI theme.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-a-theme?u=76281980&t=28)** And we can see right now that this report is using the default [[Microsoft Power BI|Power BI]] theme.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-a-theme?u=76281980&t=33)** So that's not really what I want to use for this report.
 >
@@ -7544,7 +7480,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-a-theme?u=76281980&t=38)** So what I'm going to do is just scroll down a little bit and say Browse for Themes.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-a-theme?u=76281980&t=42)** So I'm going to click on this and inside of the files we provided on GitHub, there is a theme file we've already built up.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-a-theme?u=76281980&t=42)** So I'm going to click on this and inside of the files we provided on [[GitHub]], there is a theme file we've already built up.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-a-theme?u=76281980&t=48)** I'm going to go ahead and click Open, give it a moment here.
 >
@@ -7580,7 +7516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1), [[GitHub]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[GitHub]] (1)
 > **UI Navigation:** go to (1), dropdown (1), scroll down (1), click on (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cusp (1)
@@ -7589,8 +7525,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adjust existing visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/adjust-existing-visuals?u=76281980)
+#### [Adjust existing visuals](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/adjust-existing-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7604,7 +7539,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/adjust-existing-visuals?u=76281980&t=42)** And now we'll notice that disappears and we've got nicer alignment between these now.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/adjust-existing-visuals?u=76281980&t=46)** I'm then going to go over to my DAX Demos page, and this column right here, the Count of All Sales Orders, I really don't need to show that in my visual here so I'm just going to go over here, I'm actually going to open up my data pane as well because I want to be able to go into my sales table.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/adjust-existing-visuals?u=76281980&t=46)** I'm then going to go over to my [[DAX]] Demos page, and this column right here, the Count of All Sales Orders, I really don't need to show that in my visual here so I'm just going to go over here, I'm actually going to open up my data pane as well because I want to be able to go into my sales table.
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/adjust-existing-visuals?u=76281980&t=64)** And this Count of ALL Sales Orders, not something I really want people using on the reporting canvas, so I'm going to go ahead and hide it.
 >
@@ -7666,7 +7601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), data (2), [[DAX]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[DAX]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** kpi (1), dax (1), sumx (1)
 > **UI Navigation:** go to (1)
@@ -7674,8 +7609,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a custom tooltip
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-custom-tooltip?u=76281980)
+#### [Create a custom tooltip](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-custom-tooltip?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7819,14 +7753,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), product (1), hit (1)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** go to (7), click on (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore drill through
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-drill-through?u=76281980)
+#### [Explore drill through](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-drill-through?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7948,13 +7880,13 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-drill-through?u=76281980&t=303)** So I'm going to right click and here I can actually hide this page.
 >
-> **[5:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-drill-through?u=76281980&t=306)** So later on when we are in the Power BI service, there's no way to get to this page unless you're doing the action of drilling through off the overview page over to it.
+> **[5:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-drill-through?u=76281980&t=306)** So later on when we are in the [[Microsoft Power BI|Power BI]] service, there's no way to get to this page unless you're doing the action of drilling through off the overview page over to it.
 >
 > **[5:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-drill-through?u=76281980&t=316)** And I'm going to go ahead and go to my sales region, do the same thing.
 >
 > **[5:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-drill-through?u=76281980&t=319)** So this one right here, I'm just going to right click and say hide this one as well.
 >
-> **[5:23](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-drill-through?u=76281980&t=323)** And now the only two pages that will be accessible with a user just clicking on them are the Overview page and the DAX Demos page.
+> **[5:23](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-drill-through?u=76281980&t=323)** And now the only two pages that will be accessible with a user just clicking on them are the Overview page and the [[DAX]] Demos page.
 >
 > **[5:31](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-drill-through?u=76281980&t=331)** So there we go.
 >
@@ -7964,15 +7896,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (23), next (3), data (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[DAX]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Prerequisites:** set up (4)
 > **Env Vars:** dax (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply conditional formatting to a visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-conditional-formatting-to-a-visual?u=76281980)
+#### [Apply conditional formatting to a visual](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/apply-conditional-formatting-to-a-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8026,14 +7957,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), data (1)
 > **UI Navigation:** go to (6), scroll down (2), click on (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### Build an order date hierarchy
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-an-order-date-hierarchy?u=76281980)
+#### [Build an order date hierarchy](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-an-order-date-hierarchy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8119,13 +8048,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), product (1), hit (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (2), dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enable a drill-down on a visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/enable-a-drill-down-on-a-visual?u=76281980)
+#### [Enable a drill-down on a visual](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/enable-a-drill-down-on-a-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8187,19 +8114,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Edit interactions between visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980)
+#### [Edit interactions between visuals](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=6)** - [Instructor] Okay, so let's talk about editing interactions between the visuals.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=11)** But let's first show you some of the behaviors of Power BI first before we go and start modifying stuff.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=11)** But let's first show you some of the behaviors of [[Microsoft Power BI|Power BI]] first before we go and start modifying stuff.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=17)** So as you would expect if I go ahead and I'm just going to make this a little bit bigger here, so we have more space, in the slicers here, I could go and choose a particular year.
 >
@@ -8257,7 +8182,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=173)** So it effectively blocked it.
 >
-> **[2:55](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=175)** Back in the section on DAX when we were talking about filter context, we mentioned this was another area where we could manipulate filter context.
+> **[2:55](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=175)** Back in the section on [[DAX]] when we were talking about filter context, we mentioned this was another area where we could manipulate filter context.
 >
 > **[3:01](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=181)** And there we go.
 >
@@ -8279,7 +8204,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=217)** Okay, so I'm going to click on Continent and we can see that this visual had been blocked.
 >
-> **[3:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=223)** But now let's go ahead and take a look at how things would interact if I chose the Total Sales by Continent visual and said, how do I want other visuals to react?
+> **[3:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=223)** But now let's go ahead and take a look at how things would interact if I chose the Total Sales by Continent visual and said, how do I want other visuals to [[React.js|react]]?
 >
 > **[3:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/edit-interactions-between-visuals?u=76281980&t=233)** So I can say block. So let's just go ahead and try that.
 >
@@ -8315,7 +8240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1), product (1), next (1), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[DAX]] (1), [[React.js|React]] (1)
 > **UI Navigation:** click on (10), go to (1), dropdown (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dax (1)
@@ -8323,8 +8248,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the selection pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-selection-pane?u=76281980)
+#### [Use the selection pane](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-selection-pane?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8412,15 +8336,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Bookmarks pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-bookmarks-pane?u=76281980)
+#### [Use the Bookmarks pane](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-bookmarks-pane?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8550,7 +8472,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-bookmarks-pane?u=76281980&t=319)** Okay, so I have my bookmarks created, and now let's just show you how you'd go ahead and use these.
 >
-> **[5:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-bookmarks-pane?u=76281980&t=325)** And I've clicked between the different bookmark views here, but I want to actually go ahead and turn this into what is ultimately a little bit like a PowerPoint presentation.
+> **[5:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-bookmarks-pane?u=76281980&t=325)** And I've clicked between the different bookmark views here, but I want to actually go ahead and turn this into what is ultimately a little bit like a [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[5:36](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-bookmarks-pane?u=76281980&t=336)** So what I'm going to do is click this view button.
 >
@@ -8572,7 +8494,7 @@ created: 2026-05-02
 >
 > **[6:35](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-bookmarks-pane?u=76281980&t=395)** And then if we want to pull ourselves back up to the point within the story we want to navigate from, I can just go back over here to my bookmark and reset it.
 >
-> **[6:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-bookmarks-pane?u=76281980&t=403)** So bookmarks have an incredible amount of power inside a Power BI.
+> **[6:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-bookmarks-pane?u=76281980&t=403)** So bookmarks have an incredible amount of power inside a [[Microsoft Power BI|Power BI]].
 >
 > **[6:48](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-bookmarks-pane?u=76281980&t=408)** I have only really scratched the surface of what bookmarks can do for you in the reporting world, but I would encourage you to dig a little deeper 'cause there's a lot of very fantastic and cool things that you can do with bookmarks.
 >
@@ -8582,14 +8504,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), hit (2), [[Microsoft PowerPoint|Powerpoint]] (2), power (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** click on (12), go to (2), open the (1), dropdown (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the filter pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-filter-pane?u=76281980)
+#### [Explore the filter pane](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-filter-pane?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8597,13 +8518,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-filter-pane?u=76281980&t=10)** We don't spend a ton of time on it in a level one training course, like this one here, but it's worthwhile exposing you to the Filters pane, and what it can do, and we'll make one small modification to it for this particular demonstration, and then really just leave it at that, because filters is something you can dive into.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-filter-pane?u=76281980&t=28)** The Filters pane is something you could dive into a lot more in a lot greater depth once you're a little bit more familiar with Power BI, and really start wanting to play around with your filtering mechanisms inside of Power BI.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-filter-pane?u=76281980&t=28)** The Filters pane is something you could dive into a lot more in a lot greater depth once you're a little bit more familiar with [[Microsoft Power BI|Power BI]], and really start wanting to play around with your filtering mechanisms inside of Power BI.
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-filter-pane?u=76281980&t=42)** So, I'm just going to open the Filters pane up.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-filter-pane?u=76281980&t=44)** You can see up my View tab, I've got the Filters pane opened up here, so I've got it here, and that is the default state.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-filter-pane?u=76281980&t=51)** What we want to do here is just show you some modifications you can make to it, and if you recall back when we were talking about the section on DAX, we did actually interact with the Filters pane and do a little bit of work with it to show you that the ability to apply filters at the all-pages level, the page level, and then the individual visual level, so we have done a fair amount of interaction with the Filters pane.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-filter-pane?u=76281980&t=51)** What we want to do here is just show you some modifications you can make to it, and if you recall back when we were talking about the section on [[DAX]], we did actually interact with the Filters pane and do a little bit of work with it to show you that the ability to apply filters at the all-pages level, the page level, and then the individual visual level, so we have done a fair amount of interaction with the Filters pane.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-filter-pane?u=76281980&t=76)** So, I just want to show you that we could go ahead and allow us to use the Filter pane.
 >
@@ -8657,15 +8578,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), bi (5), [[DAX]] (1), management (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[DAX]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** open the (1), click on (1), go to (1)
 > **Env Vars:** dax (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the structure of a .pbix file
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-structure-of-a-pbix-file?u=76281980)
+#### [Explore the structure of a .pbix file](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-structure-of-a-pbix-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8673,11 +8593,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-structure-of-a-pbix-file?u=76281980&t=17)** And as I've mentioned earlier on in the course here,is that one of the secret sauces in behind PowerBI is the fact that the pbix file is actually broken into two different pieces.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-structure-of-a-pbix-file?u=76281980&t=30)** So we can see here in this diagram that we've got our dataset and our report and the ability to keep the data and the report as two separate objects is in my mind one of the very important architectural differentiations between Excel and PowerBI.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-structure-of-a-pbix-file?u=76281980&t=30)** So we can see here in this diagram that we've got our dataset and our report and the ability to keep the data and the report as two separate objects is in my mind one of the very important architectural differentiations between [[Microsoft Excel|Excel]] and PowerBI.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-structure-of-a-pbix-file?u=76281980&t=47)** Because Excel bundles your data and reporting all into one, it's very difficult to separate the two out and it's very difficult to achieve any level of sharing.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-structure-of-a-pbix-file?u=76281980&t=55)** Whereas with PowerBI, the fact that we've got a separate data set, which is often where a good portion of your work goes in any analytic endeavor, we can go ahead and put all that work into the dataset, make it usable by many different users, and then ultimately share that dataset so we can avoid repeating that work over and over and over again, which is a systemic problem in most Excel spreadsheets where users find themselves building spreadsheets that are very similar to other spreadsheets have that are similar to other ones they have, they build more that are similar to the ones they have and you end up with a real data management mess because you have so many spreadsheets that are similar to each other.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-structure-of-a-pbix-file?u=76281980&t=55)** Whereas with PowerBI, the fact that we've got a separate data set, which is often where a good portion of your work goes in any analytic endeavor, we can go ahead and put all that work into the dataset, make it usable by many different users, and then ultimately share that dataset so we can avoid repeating that work over and over and over again, which is a systemic problem in most Excel spreadsheets where users find themselves building spreadsheets that are very similar to other spreadsheets have that are similar to other ones they have, they build more that are similar to the ones they have and you end up with a real [[Data Management]] mess because you have so many spreadsheets that are similar to each other.
 >
 > **[1:33](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-structure-of-a-pbix-file?u=76281980&t=93)** And the real problem there is the fact that it's difficult to manage and it's a big waste of time.
 >
@@ -8701,7 +8621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (3), management (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Data Management]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
@@ -8713,14 +8633,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980&t=6)** - In this lesson, we're going to look at enhancing the experience in the Power BI Service.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980&t=6)** - In this lesson, we're going to look at enhancing the experience in the [[Microsoft Power BI|Power BI]] Service.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980&t=10)** The Power BI Service is where we'll distribute our work, and ultimately people with consumer reports, dashboards, and stories.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980&t=10)** The Power BI Service is where we'll distribute our work, and ultimately people with consumer reports, [[Dashboards]], and stories.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980&t=16)** And it is available via web browser or the mobile app.
 >
@@ -8742,17 +8661,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), [[Dashboards]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Dashboards]] (1)
 > **Speakers:** - in (1)
 
-#### Publish to the Power BI service
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980)
+#### [Publish to the Power BI service](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980&t=6)** - [Instructor] Okay, so just to recap what we've been talking about along here, we've got this Power BI high level architecture, and all along we've been doing the majority, if not all of our work, inside of the Power BI Desktop, aside from a few demos that I've done here and there in the Service.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980&t=6)** - [Instructor] Okay, so just to recap what we've been talking about along here, we've got this [[Microsoft Power BI|Power BI]] high level architecture, and all along we've been doing the majority, if not all of our work, inside of the Power BI Desktop, aside from a few demos that I've done here and there in the Service.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980&t=21)** So we've used the Power BI Service to connected data and bring it from sources that are on premise and potentially sources that are in the cloud, although in this class we don't use any cloud sources, but you do have the ability for sake of completeness, we go ahead and build all of our data modeling and reporting up and then we go ahead and publish it into the Power BI Service, which is what we're going to do next.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980&t=21)** So we've used the Power BI Service to connected data and bring it from sources that are on premise and potentially sources that are in the cloud, although in this class we don't use any cloud sources, but you do have the ability for sake of completeness, we go ahead and build all of our [[Data Modeling]] and reporting up and then we go ahead and publish it into the Power BI Service, which is what we're going to do next.
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980&t=43)** Once it's in the Power BI Service, it is pretty much instantaneously available on the Power BI mobile application if you have that enabled in your organization.
 >
@@ -8812,7 +8730,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980&t=231)** I want to verify that the Overview tab is visible.
 >
-> **[3:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980&t=233)** DAX Demos is visible.
+> **[3:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980&t=233)** [[DAX]] Demos is visible.
 >
 > **[3:55](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/publish-to-the-power-bi-service?u=76281980&t=235)** Product sales details and sales regions have both been hidden.
 >
@@ -8876,7 +8794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (17), bi (17), data (6), cloud (4), [[DAX]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (17), [[DAX]] (2), [[Data Modeling]] (1)
 > **Env Vars:** pbix (2), dax (2)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (3)
@@ -8885,12 +8803,11 @@ created: 2026-05-02
 > **URLs:** [powerbi.com](https://powerbi.com) (1)
 > **Analogies:** for example (1)
 
-#### Explore the Power BI service
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-power-bi-service?u=76281980)
+#### [Explore the Power BI service](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-power-bi-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-power-bi-service?u=76281980&t=6)** - [Instructor] Okay, so I am here in the Power BI service homepage and let's just do a quick little tour to show you around here.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-power-bi-service?u=76281980&t=6)** - [Instructor] Okay, so I am here in the [[Microsoft Power BI|Power BI]] service homepage and let's just do a quick little tour to show you around here.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-power-bi-service?u=76281980&t=14)** So I can use the Home button to take us back to the home.
 >
@@ -8918,17 +8835,16 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-power-bi-service?u=76281980&t=90)** All right, so that's enough of a general high level tour of the Power BI service and how to get at it.
 >
-> **[1:36](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-power-bi-service?u=76281980&t=96)** You're going to see a lot more of it as we go through the rest of this particular lesson All right, so with that, we're at the end of this sublesson.
+> **[1:36](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/explore-the-power-bi-service?u=76281980&t=96)** You're going to see a lot more of it as we go through the [[Representational State Transfer (REST)|rest]] of this particular lesson All right, so with that, we're at the end of this sublesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), data (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and use bookmarks
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-and-use-bookmarks?u=76281980)
+#### [Create and use bookmarks](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-and-use-bookmarks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8950,7 +8866,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-and-use-bookmarks?u=76281980&t=44)** Or you can go ahead and see this show bookmarks.
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-and-use-bookmarks?u=76281980&t=47)** And this is where we have the bookmarks that are part of the Power BI model itself.
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-and-use-bookmarks?u=76281980&t=47)** And this is where we have the bookmarks that are part of the [[Microsoft Power BI|Power BI]] model itself.
 >
 > **[0:52](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-and-use-bookmarks?u=76281980&t=52)** So if you recall back in one of the previous lessons, we had gone through and built some bookmarks into our model, and those are part of the model for everybody to go ahead and take advantage of.
 >
@@ -9018,18 +8934,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** click on (4), go to (2), dropdown (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/share-reports?u=76281980)
+#### [Share reports](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/share-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/share-reports?u=76281980&t=6)** - [Instructor] Okay, so I'm back over here in my Power BI service and I'm looking at my sales report.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/share-reports?u=76281980&t=6)** - [Instructor] Okay, so I'm back over here in my [[Microsoft Power BI|Power BI]] service and I'm looking at my sales report.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/share-reports?u=76281980&t=10)** I want to go ahead and share it, and I click the Share button at the top of the screen.
 >
@@ -9087,7 +9002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), next (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3)
 > **UI Navigation:** click on (5), go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -9096,12 +9011,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23451332?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23451332?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23451332?u=76281980&t=6)** - [Instructor] In this lesson, we're going to enhance our work in the Power BI Service.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23451332?u=76281980&t=6)** - [Instructor] In this lesson, we're going to enhance our work in the [[Microsoft Power BI|Power BI]] Service.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23451332?u=76281980&t=10)** What we're going to do first is create a new report using an existing dataset.
 >
@@ -9117,18 +9031,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a new report using an existing dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-new-report-using-an-existing-dataset?u=76281980)
+#### [Create a new report using an existing dataset](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-new-report-using-an-existing-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-new-report-using-an-existing-dataset?u=76281980&t=6)** - [Teacher] Okay, so before we go too far, let's go ahead and take a look at the relationship once again between the dataset and the report.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-new-report-using-an-existing-dataset?u=76281980&t=13)** Keeping in mind you initially built this back down on the Power BI desktop, then we ran it through a published process like this.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-new-report-using-an-existing-dataset?u=76281980&t=13)** Keeping in mind you initially built this back down on the [[Microsoft Power BI|Power BI]] desktop, then we ran it through a published process like this.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-new-report-using-an-existing-dataset?u=76281980&t=20)** We published it into My Workspace, the data set report were broken into two pieces and we ended up with a single report.
 >
@@ -9216,27 +9129,26 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-new-report-using-an-existing-dataset?u=76281980&t=217)** We're going to see now that we've got two reports, one called Sales and one called Sales Map that are both built off of this sales dataset.
 >
-> **[3:46](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-new-report-using-an-existing-dataset?u=76281980&t=226)** Alright, so pretty basic just going, building a simple report in the Power BI service more to show you that you can do it and to give you a grounding in how the structures and the Power BI service work with the report and the dataset and the way dashboards relate to it, right?
+> **[3:46](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-new-report-using-an-existing-dataset?u=76281980&t=226)** Alright, so pretty basic just going, building a simple report in the Power BI service more to show you that you can do it and to give you a grounding in how the structures and the Power BI service work with the report and the dataset and the way [[Dashboards]] relate to it, right?
 >
 > **[4:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-a-new-report-using-an-existing-dataset?u=76281980&t=242)** So with that, we're at the end of the sub lesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), bi (6), next (4), product (4), data (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[Dashboards]] (1)
 > **UI Navigation:** go to (2), scroll down (2), click on (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [teacher] (1)
 
-#### Build a dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-dashboard?u=76281980)
+#### [Build a dashboard](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-dashboard?u=76281980&t=6)** - [Instructor] All right, so before we dive into the actual building of the dashboard, let's just, once again, talk about this relationship here.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-dashboard?u=76281980&t=14)** So we have a dataset inside of our Power BI Service called Sales and a report.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-dashboard?u=76281980&t=14)** So we have a dataset inside of our [[Microsoft Power BI|Power BI]] Service called Sales and a report.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-dashboard?u=76281980&t=23)** When a we build a report, it can come from one and only one dataset.
 >
@@ -9256,7 +9168,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-dashboard?u=76281980&t=91)** So I'm going to build a single page data story.
 >
-> **[1:34](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-dashboard?u=76281980&t=94)** Now click on that and the dashboard we're going to build is called Sales Analysis.
+> **[1:34](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-dashboard?u=76281980&t=94)** Now click on that and the dashboard we're going to build is called [[Sales Analysis]].
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/build-a-dashboard?u=76281980&t=99)** So I'm just going to go and type sales analysis into here, go ahead and click Create, and we're going to have an empty dashboard.
 >
@@ -9354,7 +9266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), bi (7), data (5), [[Sales Analysis]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Sales Analysis]] (4)
 > **UI Navigation:** click on (6), go to (4)
 > **CLI Commands:** snap (2), make (2)
 > **Env Vars:** kpi (1)
@@ -9363,8 +9275,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 
-#### Configure the dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/configure-the-dashboard?u=76281980)
+#### [Configure the dashboard](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/configure-the-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9408,7 +9319,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/configure-the-dashboard?u=76281980&t=113)** And now I can see that the dashboard looks like this for a mobile device.
 >
-> **[1:57](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/configure-the-dashboard?u=76281980&t=117)** And if I want to go back, I can go back to the web layout and I can have a separate layout for what I want people to see when I'm on the Power BI service versus what I would look at if they come over to the mobile device here.
+> **[1:57](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/configure-the-dashboard?u=76281980&t=117)** And if I want to go back, I can go back to the web layout and I can have a separate layout for what I want people to see when I'm on the [[Microsoft Power BI|Power BI]] service versus what I would look at if they come over to the mobile device here.
 >
 > **[2:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/configure-the-dashboard?u=76281980&t=131)** All right, so that's all we really want to do to show you some of the things around configuring your dashboard.
 >
@@ -9416,20 +9327,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), web (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we talked about (1), go back to (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set an alert
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-an-alert?u=76281980)
+#### [Set an alert](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-an-alert?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-an-alert?u=76281980&t=6)** - [Instructor] All right, so we are back over on our dashboard and we're going to look to set an alert.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-an-alert?u=76281980&t=11)** So we set alerts in the Power BI service to notify you when data on a dashboard changes above or below limits you set.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-an-alert?u=76281980&t=11)** So we set alerts in the [[Microsoft Power BI|Power BI]] service to notify you when data on a dashboard changes above or below limits you set.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-an-alert?u=76281980&t=19)** Alerts can be set on tiles pinned from report visuals or from Power BI Q&A, but only on gauges, KPIs, and cards.
 >
@@ -9483,7 +9393,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-an-alert?u=76281980&t=186)** And if I was to go ahead and click on this, this will take me over to the help page on how you can go ahead and use Power Automate to make things more efficient over inside of Power BI that really kind of go beyond basic alerting over inside of the Power BI service.
 >
-> **[3:23](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-an-alert?u=76281980&t=203)** And we can see here now that it's come up, it's basically allowing me to go ahead if I have the skills in Power Automate, which are beyond the scope of this course here, to go in and trigger a flow with Power BI data and allow a more sophisticated alerting process and workflow management to kickoff.
+> **[3:23](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-an-alert?u=76281980&t=203)** And we can see here now that it's come up, it's basically allowing me to go ahead if I have the skills in Power Automate, which are beyond the scope of this course here, to go in and trigger a flow with Power BI data and allow a more sophisticated alerting process and [[Workflow Management]] to kickoff.
 >
 > **[3:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/set-an-alert?u=76281980&t=220)** All right, so just back over to our dashboard tile here.
 >
@@ -9493,21 +9403,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (13), bi (9), data (9), [[Workflow Management]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[Workflow Management]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **CLI Commands:** make (2), find (1), go build (1)
 > **Env Vars:** kpi (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Q&A dialog
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-q-a-dialog?u=76281980)
+#### [Use the Q&A dialog](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-q-a-dialog?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-q-a-dialog?u=76281980&t=6)** - [Instructor] Okay, so let's go ahead and demo using Q and A.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-q-a-dialog?u=76281980&t=9)** This is one of the features I find the most intriguing inside of Power BI, and it is because it allows you to go ahead and ask English like questions of your data and have Power BI return results.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-q-a-dialog?u=76281980&t=9)** This is one of the features I find the most intriguing inside of [[Microsoft Power BI|Power BI]], and it is because it allows you to go ahead and ask English like questions of your data and have Power BI return results.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/use-the-q-a-dialog?u=76281980&t=23)** Now, one thing I kind of like to say about this Q and A functionality is it is really much better supported if you use good naming conventions.
 >
@@ -9565,7 +9474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), data (7), bi (6), product (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6)
 > **Cross-References:** earlier in (1), coming up (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** find (1)
@@ -9578,8 +9487,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23455255?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23455255?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9587,7 +9495,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23455255?u=76281980&t=11)** To do that in lesson 11.1, we're going to create roll level security roles.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23455255?u=76281980&t=16)** Then in 11.2, we're going to validate those roll level security roles using the Power BI desktop.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23455255?u=76281980&t=16)** Then in 11.2, we're going to validate those roll level security roles using the [[Microsoft Power BI|Power BI]] desktop.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23455255?u=76281980&t=21)** And finally, we're going to assign and validate those roles in the Power BI service.
 >
@@ -9595,16 +9503,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **Versions:** 11.1 (1), 11.2 (1)
 > **Speakers:** - in (1)
 
-#### Create row-level security (RLS) roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980)
+#### [Create row-level security (RLS) roles](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=6)** - [Instructor] Okay, so we are back down on our Power BI Desktop, and this is where we need to go and create our role-level security initially and get the rules configured.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=6)** - [Instructor] Okay, so we are back down on our [[Microsoft Power BI|Power BI]] Desktop, and this is where we need to go and create our role-level security initially and get the rules configured.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=16)** So let's go ahead and get our roles set up first.
 >
@@ -9628,7 +9535,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=69)** So if somebody is a member of the North America Controller group, they will be able to go in and see data for Canada and United States only.
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=80)** So if I want to look at this in DAX I can switch this switch to this DAX Editor, and here's the code that sits behind the scene.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=80)** So if I want to look at this in [[DAX]] I can switch this switch to this DAX Editor, and here's the code that sits behind the scene.
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=86)** It says, "Whenever a Sales Territory Country equals Canada, or Sales Territory Country equals the United States, that user will go ahead and see those values."
 >
@@ -9644,7 +9551,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=110)** So I'm going to go through and set my Australia controller up.
 >
-> **[1:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=113)** So same thing, I'm going to go New, and I come in here, see Australia Controller, Excel, and I'm going to make sure I'm on Sales Territories.
+> **[1:53](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=113)** So same thing, I'm going to go New, and I come in here, see Australia Controller, [[Microsoft Excel|Excel]], and I'm going to make sure I'm on Sales Territories.
 >
 > **[2:02](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/create-row-level-security-rls-roles?u=76281980&t=122)** I'm going to say Add.
 >
@@ -9682,7 +9589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[DAX]] (2), power (1), bi (1), data (1)
+> **Frameworks & Libraries:** [[DAX]] (2), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (2), go to (1), switch to (1)
 > **Env Vars:** dax (2)
 > **Prerequisites:** set up (2)
@@ -9691,12 +9598,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validate RLS roles using Power BI Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/validate-rls-roles-using-power-bi-desktop?u=76281980)
+#### [Validate RLS roles using Power BI Desktop](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/validate-rls-roles-using-power-bi-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/validate-rls-roles-using-power-bi-desktop?u=76281980&t=6)** - [Instructor] Okay, so I'm on my Power BI desktop and what I'm going to do is go back to the modeling tab and I'm going to click on this button that says view as, 'cause I want to see what's visible to people with different security roles and permissions.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/validate-rls-roles-using-power-bi-desktop?u=76281980&t=6)** - [Instructor] Okay, so I'm on my [[Microsoft Power BI|Power BI]] desktop and what I'm going to do is go back to the modeling tab and I'm going to click on this button that says view as, 'cause I want to see what's visible to people with different security roles and permissions.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/validate-rls-roles-using-power-bi-desktop?u=76281980&t=17)** So this is me as the developer here going and testing to make sure that things are set up the way I want.
 >
@@ -9762,7 +9668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), bi (6), data (6), [[Security]] (5), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6)
 > **UI Navigation:** click on (3), go to (2), dropdown (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2)
@@ -9771,12 +9677,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assign and validate roles in the Power BI service
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/assign-and-validate-roles-in-the-power-bi-service?u=76281980)
+#### [Assign and validate roles in the Power BI service](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/assign-and-validate-roles-in-the-power-bi-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/assign-and-validate-roles-in-the-power-bi-service?u=76281980&t=6)** - [Narrator] Okay, so I am in the Power BI Service in my workspace, and what I want to do now is go through and assign people into those roles.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/assign-and-validate-roles-in-the-power-bi-service?u=76281980&t=6)** - [Narrator] Okay, so I am in the [[Microsoft Power BI|Power BI]] Service in my workspace, and what I want to do now is go through and assign people into those roles.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/assign-and-validate-roles-in-the-power-bi-service?u=76281980&t=16)** So what I'm going to do is go to my Sales, Dataset, and find these ellipses.
 >
@@ -9830,7 +9735,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/assign-and-validate-roles-in-the-power-bi-service?u=76281980&t=137)** So we can see now that that's all the data that he can see, and I can't look at anything else.
 >
-> **[2:22](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/assign-and-validate-roles-in-the-power-bi-service?u=76281980&t=142)** So once again, just, you know, reemphasizing this over and over again as this is part of the wonders of Power BI is the ability to build a dataset out, which we did back in Power Create in the data modeling section, put a lot of time and effort into it to make it reusable and shareable, and have one of those.
+> **[2:22](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/assign-and-validate-roles-in-the-power-bi-service?u=76281980&t=142)** So once again, just, you know, reemphasizing this over and over again as this is part of the wonders of Power BI is the ability to build a dataset out, which we did back in Power Create in the [[Data Modeling]] section, put a lot of time and effort into it to make it reusable and shareable, and have one of those.
 >
 > **[2:40](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/assign-and-validate-roles-in-the-power-bi-service?u=76281980&t=160)** And then build very few reports on top of that and then put security on top of those reports so that many people can get out of them and you can restrict them to only see the data that you want them to see.
 >
@@ -9842,7 +9747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (9), bi (7), [[Security]] (5), data (4), next (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Data Modeling]] (1)
 > **UI Navigation:** click on (5), go to (1), dropdown (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** upn (1)
@@ -9854,22 +9759,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980&t=6)** - All right, so we've covered an awful lot of ground over these few lessons, and hopefully you feel more confident now in taking Power BI and using it more within your business on a daily basis.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980&t=6)** - All right, so we've covered an awful lot of ground over these few lessons, and hopefully you feel more confident now in taking [[Microsoft Power BI|Power BI]] and using it more within your business on a daily basis.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980&t=16)** So let's just recap what we covered.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980&t=18)** In lesson one, we talked about [[Getting Started With Power Bi]].
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980&t=22)** In lesson two, we import and transform data using the Power Query Editor.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980&t=22)** In lesson two, we import and transform data using the [[Microsoft Power Query|Power Query]] Editor.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980&t=25)** In lesson three, we enhanced the data model with some basic functionality.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980&t=29)** In lesson four, we enhanced the data model and got into DAX Basics.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980&t=29)** In lesson four, we enhanced the data model and got into [[DAX]] Basics.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980&t=33)** In lesson five, we explored DAX Time Intelligence.
 >
@@ -9891,7 +9795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), data (3), business (2), [[DAX]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[DAX]] (2), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** dax (2)
 > **Cross-References:** we covered (1), we talked about (1)
 > **Prerequisites:** getting started (1)

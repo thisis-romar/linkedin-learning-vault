@@ -80,18 +80,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to application security in DevSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980)
+#### [Introduction to application security in DevSecOps](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980&t=0)** - [Tim] In today's fast-paced software development landscape, DevOps teams are constantly pressured to build applications quickly and maintain agility.
+> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980&t=0)** - [Tim] In today's fast-paced [[Software Development]] landscape, [[DevOps]] teams are constantly pressured to build applications quickly and maintain agility.
 >
 > **[0:09](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980&t=9)** Security teams face the critical challenge of integrating robust security practices without compromising development speed.
 >
-> **[0:16](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980&t=16)** DevSecOps bridges the gap by embedding security directly into the development process.
+> **[0:16](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980&t=16)** [[DevSecOps]] bridges the gap by embedding security directly into the development process.
 >
-> **[0:22](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980&t=22)** This course provides a comprehensive framework for building a continuous application security strategy that aligns seamlessly with DevOps methodologies.
+> **[0:22](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980&t=22)** This course provides a comprehensive framework for building a continuous [[Application Security]] strategy that aligns seamlessly with DevOps methodologies.
 >
 > **[0:31](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980&t=31)** Throughout this training, we'll explore the core principles of DevSecOps, the strategic role of application security in modern development, practical integration of security tools like TruffleHog and DefectDojo, and techniques for embedding security seamlessly into DevOps workflows.
 >
@@ -99,25 +98,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[DevOps]] (3), [[Software Development]] (2), teams (2), [[DevSecOps]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Software Development]] (2), [[DevSecOps]] (2), [[Application Security]] (2)
 > **Speakers:** - [tim] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=1)** - [Instructor] Let's take some time to understand some of the concepts that we should be familiar with before starting this course, and then some of the software that we can install before beginning this course that will make the exercises go more smoothly.
 >
-> **[0:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=15)** First, you should have a high-level DevOps understanding.
+> **[0:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=15)** First, you should have a high-level [[DevOps]] understanding.
 >
 > **[0:18](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=18)** We will talk a little bit about DevOps in this course and the CI/CD process, but it will really help if you have a general high-level understanding of what DevOps is and how it's integrated into an SDLC process.
 >
 > **[0:32](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=32)** You should also have some general information security experience.
 >
-> **[0:36](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=36)** We're going to be talking about some concepts related to application security and DevSecOps where a background in information security would really be helpful.
+> **[0:36](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=36)** We're going to be talking about some concepts related to [[Application Security]] and [[DevSecOps]] where a background in information security would really be helpful.
 >
-> **[0:46](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=46)** And finally, we're going to be running some commands from the terminal, so being able to understand how to bring up a terminal in Windows or Linux would really be advantageous.
+> **[0:46](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=46)** And finally, we're going to be running some commands from the terminal, so being able to understand how to bring up a terminal in [[Windows]] or [[Linux]] would really be advantageous.
 >
 > **[0:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=57)** Before starting the course, you can also set up some of the tools that we'll be using.
 >
@@ -131,9 +129,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=73)** The second tool is TruffleHog.
 >
-> **[1:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=75)** If you go to [github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog), there are instructions on how you can install this for your particular operating system.
+> **[1:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=75)** If you go to [[[GitHub]].com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog), there are instructions on how you can install this for your particular operating system.
 >
-> **[1:27](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=87)** We'll be writing and executing a Python script in this course, so it will help if you go ahead and have this installed.
+> **[1:27](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=87)** We'll be writing and executing a [[Python (Programming Language)|Python]] script in this course, so it will help if you go ahead and have this installed.
 >
 > **[1:35](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-you-should-know?u=76281980&t=95)** We'll be using Contrast Security for our IAS section.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Security]] (4), [[DevOps]] (3), ci (1), cd (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[DevOps]] (3), [[Application Security]] (1), [[DevSecOps]] (1), [[Windows]] (1)
 > **Tools:** github (5), terminal (2), visual studio (1), vs code (1)
 > **Prerequisites:** set up (4), install (2)
 > **URLs:** [github.com](https://github.com) (2), [semgrep.dev](https://semgrep.dev) (1), [visualstudio.com](https://visualstudio.com) (1)
@@ -167,12 +165,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is DevSecOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980)
+#### [What is DevSecOps?](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=1)** - [Instructor] DevOps and security don't always seem to play well together, so it's important to see how we can make them work with each other.
+> **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=1)** - [Instructor] [[DevOps]] and security don't always seem to play well together, so it's important to see how we can make them work with each other.
 >
 > **[0:11](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=11)** Let's start by talking about the problems of security in the DevOps world.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=36)** We must find ways to adapt security practices to keep up without compromising quality or increasing risk.
 >
-> **[0:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=45)** The core challenge is balancing speed and agility with robust security testing.
+> **[0:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=45)** The core challenge is balancing speed and agility with robust [[Security Testing]].
 >
 > **[0:51](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=51)** False positive and false negative rates must remain low even as processes become more efficient.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=103)** With the right approach, security can become more responsive, efficient, and effective in the new delivery model.
 >
-> **[1:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=112)** DevSecOps integrates security practices directly into the DevOps lifecycle.
+> **[1:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=112)** [[DevSecOps]] integrates security practices directly into the DevOps lifecycle.
 >
 > **[1:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=117)** The core idea is to apply the same DevOps principles of collaboration, automation, and continuous improvement to security.
 >
@@ -220,17 +217,17 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=139)** The goal of DevSecOps is to make security an integral, transparent part of the DevOps workflow, not an afterthought or a roadblock.
 >
-> **[2:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=148)** By automating security testing and controls, security can keep pace with the rapid continuous delivery.
+> **[2:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=148)** By automating security testing and controls, security can keep pace with the rapid [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[2:36](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=156)** DevSecOps offers several key benefits when implemented effectively.
 >
-> **[2:40](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=160)** Scalability.
+> **[2:40](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=160)** [[Scalability]].
 >
 > **[2:42](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=162)** Security can scale alongside DevOps teams, adapting to changes in process, tools, and sprint cadence.
 >
 > **[2:50](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=170)** Responsiveness.
 >
-> **[2:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=172)** DevSecOps allows security to be more agile, addressing defects, changes, and new feature requests in lockstep with development.
+> **[2:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=172)** DevSecOps allows security to be more [[Agile Development|agile]], addressing defects, changes, and new feature requests in lockstep with development.
 >
 > **[3:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980&t=181)** Collaboration.
 >
@@ -262,18 +259,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (32), [[DevOps]] (16), [[DevSecOps]] (8), teams (6), application (3)
+> **Frameworks & Libraries:** [[DevOps]] (16), [[DevSecOps]] (8), [[Security Testing]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Scalability]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### How is application security different
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980)
+#### [How is application security different](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=0)** - [Instructor] In this course, we'll explore how application security can be seamlessly integrated into the DevOps lifecycle through DevSecOps practices.
+> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=0)** - [Instructor] In this course, we'll explore how [[Application Security]] can be seamlessly integrated into the [[DevOps]] lifecycle through [[DevSecOps]] practices.
 >
-> **[0:09](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=9)** While there is no single silver bullet, we'll cover a range of tools and processes to help bridge the gap between security and agile delivery.
+> **[0:09](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=9)** While there is no single silver bullet, we'll cover a range of tools and processes to help bridge the gap between security and [[Agile Development|agile]] delivery.
 >
 > **[0:18](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=18)** We'll start by examining traditional application security approaches and how they differ from a DevSecOps model.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=108)** Manual processes.
 >
-> **[1:50](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=110)** Security testing and reporting is a slow, document-driven exercise.
+> **[1:50](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=110)** [[Security Testing]] and reporting is a slow, document-driven exercise.
 >
 > **[1:56](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=116)** Misaligned incentives.
 >
@@ -321,11 +317,11 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=152)** This means automating security testing and controls into the build and development pipeline, integrating security seamlessly into the development workflow, and providing security results directly to the DevOps teams in their existing tools and processes.
 >
-> **[2:48](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=168)** By making security an embedded automated part of DevOps, we can achieve the speed, quality, and scalability required in a modern delivery model.
+> **[2:48](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=168)** By making security an embedded automated part of DevOps, we can achieve the speed, quality, and [[Scalability]] required in a modern delivery model.
 >
 > **[2:59](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=179)** The key aspects of this DevSecOps workflow are: Security testing is triggered automatically with each build, running in parallel with other development activities.
 >
-> **[3:11](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=191)** Test results are fed directly into the DevOps team's existing issue tracking system, like Jira or Slack, for immediate visibility and remediation.
+> **[3:11](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=191)** Test results are fed directly into the DevOps team's existing issue tracking system, like [[Jira]] or [[Slack]], for immediate visibility and remediation.
 >
 > **[3:21](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/how-is-application-security-different?u=76281980&t=201)** Security thresholds can be set to automatically pass/fail builds based on predefined risk tolerances.
 >
@@ -335,29 +331,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (23), [[DevOps]] (9), teams (6), [[DevSecOps]] (4), application (3)
+> **Frameworks & Libraries:** [[DevOps]] (9), [[DevSecOps]] (4), [[Security Testing]] (4), [[Application Security]] (3), [[Agile Development|Agile]] (2)
 > **Tools:** jira (1), slack (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### The key to DevSecOps is continuous
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980)
+#### [The key to DevSecOps is continuous](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=0)** - [Instructor] The core principles of both DevOps and DevSecOps center around the idea of continuous everything: testing, integration, delivery and monitoring.
+> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=0)** - [Instructor] The core principles of both [[DevOps]] and [[DevSecOps]] center around the idea of continuous everything: testing, integration, delivery and monitoring.
 >
 > **[0:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=12)** Maintaining this continuous flow is essential for achieving the desired speed and agility.
 >
 > **[0:20](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=20)** The two main goals of DevOps are speed, the ability to quickly respond to changing business needs, priorities and defect fixes through rapid, frequent releases and constant feedback, implementing processes that provide real time visibility into the health of the application and development pipeline.
 >
-> **[0:42](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=42)** To achieve these goals, DevOps relies on two key practices: continuous integration, CI, and continuous delivery, CD.
+> **[0:42](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=42)** To achieve these goals, DevOps relies on two key practices: [[Continuous Integration (CI)|continuous integration]], CI, and [[Continuous Delivery (CD)|continuous delivery]], CD.
 >
 > **[0:53](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=53)** Continuous integration is a fundamental DevOps practice that involves regularly merging code changes into a shared repository, triggering automated build and testing processes.
 >
-> **[1:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=65)** Instead of infrequent, big bang integration efforts, CI promotes frequent small code check-ins multiple times a day, automated build unit testing, and static analysis and earlier detection of issues and defects.
+> **[1:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=65)** Instead of infrequent, big bang integration efforts, CI promotes frequent small code check-ins multiple times a day, automated build [[Unit Testing]], and static analysis and earlier detection of issues and defects.
 >
 > **[1:23](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=83)** This continuous integration approach allows development teams to identify problems quickly and integrate changes smoothly.
 >
@@ -381,9 +376,9 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=165)** Changes are frequently integrated, automatically tested, and continuously delivered or deployed, creating an ever improving accelerating process.
 >
-> **[2:55](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=175)** To make this continuous DevOps model work, application security must be seamlessly integrated as well.
+> **[2:55](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=175)** To make this continuous DevOps model work, [[Application Security]] must be seamlessly integrated as well.
 >
-> **[3:02](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=182)** In the upcoming sections, we'll explore how to embed security testing and controls directly into the CI/CD pipeline, empowering DevOps teams to own and manage the security process.
+> **[3:02](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=182)** In the upcoming sections, we'll explore how to embed [[Security Testing]] and controls directly into the CI/CD pipeline, empowering DevOps teams to own and manage the security process.
 >
 > **[3:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/the-key-to-decsecops-is-continuous?u=76281980&t=195)** The key is to make security testing an automated, continuous part of the development workflow, not a separate manual function.
 >
@@ -391,30 +386,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (9), ci (6), [[Security]] (6), cd (5), application (3)
+> **Frameworks & Libraries:** [[DevOps]] (9), [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Security Testing]] (2), [[DevSecOps]] (1)
 > **CLI Commands:** cd (5), make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a DevOps pipeline?
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980)
+#### [What is a DevOps pipeline?](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=1)** - [Presenter] The modern development environment is a dynamic interconnected ecosystem characterized by frequent releases.
 >
-> **[0:09](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=9)** Gone are the days of months long deployment cycles, today we're talking about continuous delivery, pushing updates daily, sometimes even hourly.
+> **[0:09](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=9)** Gone are the days of months long deployment cycles, today we're talking about [[Continuous Delivery (CD)|continuous delivery]], pushing updates daily, sometimes even hourly.
 >
 > **[0:17](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=17)** This rapid iteration allows businesses to respond quickly to market demands and user feedback.
 >
 > **[0:25](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=25)** Also, comprehensive automation, from code commit to production deployment, every step is automated.
 >
-> **[0:32](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=32)** This eliminates human error, reduces manual overhead, and ensures consistent repeatable process across the entire software development lifecycle.
+> **[0:32](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=32)** This eliminates human error, reduces manual overhead, and ensures consistent repeatable process across the entire [[Software Development]] lifecycle.
 >
 > **[0:42](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=42)** In collaborative multi-team approach, breaking down traditional silos between development, operations and security teams, we're creating a culture of shared responsibility where communication and collaboration are key to delivering high quality software efficiently.
 >
-> **[1:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=61)** A DevOps pipeline is much more than a technical workflow, it's a strategic approach to software delivery.
+> **[1:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=61)** A [[DevOps]] pipeline is much more than a technical workflow, it's a strategic approach to software delivery.
 >
 > **[1:08](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=68)** It's a set of automated processes and tools designed to transform development and operations professionals collaborate.
 >
@@ -432,9 +426,9 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=125)** This includes code validation, security scanning, performance testing and deployment, all happening automatically and consistently.
 >
-> **[2:14](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=134)** And then immediate actionable feedback, real-time insights are crucial, a superior pipeline provides instant feedback to developers, enabling quick corrections and maintaining high code quality throughout the development process.
+> **[2:14](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=134)** And then immediate actionable feedback, [[Real-Time]] insights are crucial, a superior pipeline provides instant feedback to developers, enabling quick corrections and maintaining high code quality throughout the development process.
 >
-> **[2:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=148)** And DevSecOps represents the next evolution of the DevOps pipeline, integrating security directly into the development process.
+> **[2:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=148)** And [[DevSecOps]] represents the next evolution of the DevOps pipeline, integrating security directly into the development process.
 >
 > **[2:36](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-a-devops-pipeline?u=76281980&t=156)** Strategic security automation, instead of treating security as a final point, we're embedding security tools and checks throughout the pipeline.
 >
@@ -446,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Automation]] (4), [[DevOps]] (3), [[DevSecOps]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[DevSecOps]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Software Development]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
@@ -456,14 +450,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuous static scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980)
+#### [Continuous static scanning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=0)** - [Instructor] Now we'll dive into the practical application of security testing tools and how to integrate them into the DevOps pipeline.
+> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=0)** - [Instructor] Now we'll dive into the practical application of [[Security Testing]] tools and how to integrate them into the [[DevOps]] pipeline.
 >
-> **[0:08](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=8)** We'll cover several key types of application security testing, discussing what they are, how they can be automated, and walking through live demos.
+> **[0:08](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=8)** We'll cover several key types of [[Application Security]] testing, discussing what they are, how they can be automated, and walking through live demos.
 >
 > **[0:16](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=16)** We'll start with static security analysis, which has been a foundational application security practice for many years.
 >
@@ -475,7 +468,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=53)** The potential downsides are that some static analysis tools can generate a high volume of false positives, requiring careful tuning and configuration.
 >
-> **[1:02](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=62)** Maintaining an effective static testing process is critical for DevSecOps.
+> **[1:02](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=62)** Maintaining an effective static testing process is critical for [[DevSecOps]].
 >
 > **[1:08](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=68)** When selecting and integrating a static security testing tool, there are several key qualities to look for.
 >
@@ -487,7 +480,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=83)** Configurability and tuning options can help minimize false positives.
 >
-> **[1:29](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=89)** API/CLI support.
+> **[1:29](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=89)** API/[[CLI]] support.
 >
 > **[1:31](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=91)** Automated headless execution is essential for DevOps integration.
 >
@@ -497,7 +490,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=103)** Automating the static testing process and directly feeding results into the developer workflow is crucial for DevSecOps success.
 >
-> **[1:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=112)** Here's an example of how static security analysis can be integrated into a continuous delivery pipeline.
+> **[1:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=112)** Here's an example of how static security analysis can be integrated into a [[Continuous Delivery (CD)|continuous delivery]] pipeline.
 >
 > **[1:58](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=118)** Developer commits code changes to the shared repository.
 >
@@ -505,7 +498,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=128)** The static analysis tool examines the source code and reports any findings.
 >
-> **[2:13](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=133)** The results are automatically pushed into the team's bug tracking system, like Jira, GitHub, issues.
+> **[2:13](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=133)** The results are automatically pushed into the team's bug tracking system, like [[Jira]], [[GitHub]], issues.
 >
 > **[2:19](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=139)** And finally, developers receive immediate feedback on security issues into their existing workflows.
 >
@@ -581,7 +574,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=349)** And this goes back to meeting the developers where they're at.
 >
-> **[5:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=352)** When you find issues inside of Semgrep, you can have them automatically sent to a Slack channel.
+> **[5:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=352)** When you find issues inside of Semgrep, you can have them automatically sent to a [[Slack]] channel.
 >
 > **[5:59](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980&t=359)** You can have them sent to Jira if that's what they use for task tracking.
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[GitHub]] (7), ci (6), application (5), cd (4)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Security Testing]] (5), [[Jira]] (4), [[Application Security]] (3), [[DevSecOps]] (3)
 > **Tools:** github (7), jira (4), slack (3)
 > **CLI Commands:** cd (4), find (2)
 > **UI Navigation:** go to (4)
@@ -620,18 +613,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [semgrep.dev](https://semgrep.dev) (1)
 
-#### Continuous dynamic scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980)
+#### [Continuous dynamic scanning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=0)** - [Instructor] The next type of application security testing we will cover is dynamic analysis.
+> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=0)** - [Instructor] The next type of [[Application Security]] testing we will cover is dynamic analysis.
 >
-> **[0:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=6)** This is the second most common security testing approach utilized by development teams, security professionals, and penetration testers alike.
+> **[0:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=6)** This is the second most common [[Security Testing]] approach utilized by development teams, security professionals, and penetration testers alike.
 >
 > **[0:16](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=16)** Dynamic testing is akin to an automated penetration test.
 >
-> **[0:19](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=19)** It involves scanning a running web application to discover its pages, forms, links, and other attack surface areas.
+> **[0:19](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=19)** It involves scanning a running web application to discover its pages, [[Forms]], links, and other attack surface areas.
 >
 > **[0:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=28)** The tool then systematically attempts to identify vulnerabilities by interacting with the application.
 >
@@ -645,7 +637,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=64)** Since these scans can be time-consuming, it's best to kick them off in the background and allow the build process to complete rather than holding up the entire pipeline.
 >
-> **[1:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=75)** When selecting a [[Dynamic Application Security Testing]] tool for DevSecOps, look at the following qualities.
+> **[1:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=75)** When selecting a [[Dynamic Application Security Testing]] tool for [[DevSecOps]], look at the following qualities.
 >
 > **[1:22](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=82)** Speed.
 >
@@ -655,13 +647,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=90)** The tool should have strong detection capabilities for the technologies and languages used in your application.
 >
-> **[1:37](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=97)** API/CLI support.
+> **[1:37](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=97)** API/[[CLI]] support.
 >
-> **[1:39](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=99)** Automated headless execution is essential for seamless DevOps integration.
+> **[1:39](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=99)** Automated headless execution is essential for seamless [[DevOps]] integration.
 >
 > **[1:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=105)** Bug tracker integration, the ability to directly feed findings into the development team's issue tracking system.
 >
-> **[1:53](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=113)** Tools like OWASP ZAP and Burp Suite are popular open source options that meet many of these criteria.
+> **[1:53](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=113)** Tools like [[OWASP]] ZAP and [[Burp Suite]] are popular open source options that meet many of these criteria.
 >
 > **[2:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=120)** Integrating [[Dynamic Application Security Testing]] into a CI/CD pipeline follows a similar pattern to static analysis.
 >
@@ -695,7 +687,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=213)** If you come here, when you first come in, and we go look at the feed, it's going to give you information on all of the applications that it's scanning.
 >
-> **[3:43](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=223)** One of the things that you notice is I personally signed in with my GitHub account.
+> **[3:43](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=223)** One of the things that you notice is I personally signed in with my [[GitHub]] account.
 >
 > **[3:49](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=229)** It took in a lot of the GitHub repos that I have, and it performed a static analysis tool on them as well.
 >
@@ -709,7 +701,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=253)** It's not a code-based scan.
 >
-> **[4:16](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=256)** So let's go over here to google-gruyere, which is one of my favorite online applications that's meant to be vulnerable.
+> **[4:16](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=256)** So let's go over here to [[Google]]-gruyere, which is one of my favorite online applications that's meant to be vulnerable.
 >
 > **[4:25](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=265)** If you come here, if you go to go to google-gruyere.[appspot.com](https://appspot.com), hit Continue, now it's going to tell you a little bit about what this is about, how to use it, so on and so forth.
 >
@@ -767,21 +759,21 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=392)** It really matters where your developers work.
 >
-> **[6:35](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=395)** If they work in Slack, you could take these results, and you can put them over to Slack.
+> **[6:35](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=395)** If they work in [[Slack]], you could take these results, and you can put them over to Slack.
 >
-> **[6:39](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=399)** If they work in Jira, once again, you could send these results over to Jira and add them as tasks that your developers can work through.
+> **[6:39](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=399)** If they work in [[Jira]], once again, you could send these results over to Jira and add them as tasks that your developers can work through.
 >
 > **[6:50](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=410)** Another one that I like is the GitHub, the CircleCI sort of integrations.
 >
 > **[6:56](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=416)** Obviously, with GitHub, you can set it up so that if a particular PR has a security issue, it will stop the code from being merged.
 >
-> **[7:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=425)** Also with Jenkins and CircleCI, I like these two because you can also kick off scans or have the integrations between those so that if a particular vulnerability or number of vulnerabilities are reached, you could always stop the build from happening.
+> **[7:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=425)** Also with [[Jenkins]] and CircleCI, I like these two because you can also kick off scans or have the integrations between those so that if a particular vulnerability or number of vulnerabilities are reached, you could always stop the build from happening.
 >
 > **[7:21](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dynamic-scanning?u=76281980&t=441)** So those are a couple of plugins that I really like, but this is overall a great tool that you can use for dynamic testing, but you could also look at it for your SAST testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), [[Security]] (10), hit (5), ci (4), cd (4)
+> **Frameworks & Libraries:** [[Application Security]] (4), [[GitHub]] (4), [[Google]] (3), [[Security Testing]] (2), [[DevSecOps]] (2)
 > **Env Vars:** url (3), sast (2), api (1), cli (1), owasp (1)
 > **Tools:** github (4), slack (2), jira (2)
 > **UI Navigation:** go to (3), click on (1), scroll down (1)
@@ -790,14 +782,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 
-#### Interactive application security scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980)
+#### [Interactive application security scanning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=1)** - [Instructor] The next type of application security testing we'll explore is interactive application security testing, otherwise known as IAST.
+> **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=1)** - [Instructor] The next type of [[Application Security]] testing we'll explore is interactive application security testing, otherwise known as IAST.
 >
-> **[0:10](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=10)** This emerging technique is gaining significant traction as it aligns perfectly with the continuous principles of DevSecOps.
+> **[0:10](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=10)** This emerging technique is gaining significant traction as it aligns perfectly with the continuous principles of [[DevSecOps]].
 >
 > **[0:18](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=18)** What is IAST?
 >
@@ -807,11 +798,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=36)** IAST tools achieve this by integrating directly with the application's execution environment.
 >
-> **[0:41](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=41)** For example, hooking into the Java Virtual Machine, JVM, for Java applications.
+> **[0:41](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=41)** For example, hooking into the [[Java]] Virtual Machine, JVM, for Java applications.
 >
 > **[0:47](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=47)** This allows the IAST agent to observe the application's behavior and data flows in real time, identifying security vulnerabilities as they occur.
 >
-> **[0:56](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=56)** The key benefits of this approach are continuous real-time monitoring during normal application usage, highly accurate vulnerability detection by observing actual data flows, and reduced false positives compared to static and dynamic analysis.
+> **[0:56](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=56)** The key benefits of this approach are continuous [[Real-Time]] monitoring during normal application usage, highly accurate vulnerability detection by observing actual data flows, and reduced false positives compared to static and dynamic analysis.
 >
 > **[1:13](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=73)** When selecting an IAST tool for your DevSecOps pipeline, key factors to consider are language support.
 >
@@ -829,7 +820,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=103)** You'll see how the tool instruments the application, the types of vulnerabilities it can detect, and how the results are surfaced back to the development workflow.
 >
-> **[1:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=112)** IAST represents a powerful addition to the DevSecOps security testing arsenal.
+> **[1:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=112)** IAST represents a powerful addition to the DevSecOps [[Security Testing]] arsenal.
 >
 > **[1:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=117)** By embedding security testing directly into the application itself, it enables continuous, accurate vulnerability detection without introducing significant performance overhead.
 >
@@ -849,7 +840,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=162)** For the purposes of this demo, we are going to use the WebGoat source code.
 >
-> **[2:49](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=169)** If you go to this website, you can Google Contrast Security and WebGoat and this will come up.
+> **[2:49](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=169)** If you go to this website, you can [[Google]] Contrast Security and WebGoat and this will come up.
 >
 > **[3:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=180)** But it will help you quickly set up the Java agent on WebGoat.
 >
@@ -897,7 +888,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=316)** So now you've downloaded the Contrast JAR file and you've downloaded the YAML file and got that set up.
 >
-> **[5:26](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=326)** If you go to the page on how to set up Contrast with WebGoat, there's a link on downloading WebGoat from GitHub.
+> **[5:26](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=326)** If you go to the page on how to set up Contrast with WebGoat, there's a link on downloading WebGoat from [[GitHub]].
 >
 > **[5:35](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=335)** So feel free to click that link and just download the source code and extract it is all that you have to do.
 >
@@ -965,11 +956,11 @@ created: 2026-05-02
 >
 > **[8:49](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=529)** You didn't point it to the source code, you didn't run a scan, per se, but as you're using the application, as it's running, it's automatically testing.
 >
-> **[8:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=537)** And then, obviously, once you get kind of, once you want to get it connected, you can connect this to Slack, you can connect it to Jira, and you can really kind of get that continuous flow.
+> **[8:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/interactive-application-security-scannning?u=76281980&t=537)** And then, obviously, once you get kind of, once you want to get it connected, you can connect this to [[Slack]], you can connect it to [[Jira]], and you can really kind of get that continuous flow.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (15), [[Security]] (9), [[Java]] (6), [[DevSecOps]] (3), data (3)
+> **Frameworks & Libraries:** [[Java]] (6), [[Application Security]] (3), [[DevSecOps]] (3), [[Security Testing]] (3), [[Real-Time]] (1)
 > **Env Vars:** jar (12), iast (11), yaml (10), url (3), api (3)
 > **Exercise Files:** source code (4), download the (4)
 > **UI Navigation:** go to (5), scroll down (2)
@@ -978,14 +969,13 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **File Paths:** webgoat.yaml (1)
 
-#### Continuous secret scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980)
+#### [Continuous secret scanning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=0)** - [Instructor] In today's cloud-first world, protecting our secrets has become more challenging than ever.
 >
-> **[0:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=6)** This isn't just about traditional cloud providers like AWS and Azure, it extends to our entire development ecosystem, including code repositories like Bitbucket and GitHub.
+> **[0:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=6)** This isn't just about traditional cloud providers like AWS and [[Microsoft Azure|Azure]], it extends to our entire development ecosystem, including code repositories like [[Bitbucket]] and [[GitHub]].
 >
 > **[0:17](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=17)** Today, we'll explore how to proactively scan our code for secrets before they make it to production.
 >
@@ -993,9 +983,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=31)** Here's what you need to know.
 >
-> **[0:32](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=32)** Common exposures include AWS keys, passwords, and API tokens.
+> **[0:32](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=32)** Common exposures include AWS keys, passwords, and API [[Tokens]].
 >
-> **[0:39](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=39)** Infrastructure as code files are particularly vulnerable.
+> **[0:39](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=39)** [[Infrastructure as code (IaC)|Infrastructure as code]] files are particularly vulnerable.
 >
 > **[0:43](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=43)** Best practice is to implement pre-commit hooks to catch secrets before they're committed.
 >
@@ -1021,7 +1011,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=98)** Now let's see secret scanning in action with an open source tool that embodies these principles.
 >
-> **[1:44](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=104)** Real-time scan of a sample code base, demonstration of detection capabilities, and then review of the scanning results and remediation steps.
+> **[1:44](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=104)** [[Real-Time]] scan of a sample code base, demonstration of detection capabilities, and then review of the scanning results and remediation steps.
 >
 > **[1:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-secret-scanning?u=76281980&t=112)** We're going to look at a couple of tools to perform our secret scanning.
 >
@@ -1105,7 +1095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), ci (4), aws (3), cloud (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Microsoft Azure|Azure]] (1), [[Bitbucket]] (1), [[Tokens]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** aws (3), docker (3), make (1), find (1), cd (1)
 > **Tools:** github (4), command line (4), bitbucket (1)
 > **Env Vars:** aws (3), api (1)
@@ -1114,8 +1104,7 @@ created: 2026-05-02
 > **Code Identifiers:** bwapp (1)
 > **Exercise Files:** sample code (1)
 
-#### Continuous dependency scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980)
+#### [Continuous dependency scanning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,9 +1112,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=8)** While these libraries provide tremendous value, they also introduce security risks since their development and maintenance occur outside of our direct control.
 >
-> **[0:19](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=19)** Understanding and managing these risks is a critical component of any DevSecOps program.
+> **[0:19](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=19)** Understanding and managing these risks is a critical component of any [[DevSecOps]] program.
 >
-> **[0:25](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=25)** Open source security has become a major focus in application security for several reasons.
+> **[0:25](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=25)** Open source security has become a major focus in [[Application Security]] for several reasons.
 >
 > **[0:31](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=31)** Widespread usage.
 >
@@ -1135,7 +1124,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=41)** Critical vulnerabilities in popular libraries, for example, Apache Struts, have led to major security incidents.
 >
-> **[0:48](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=48)** OWASP recognition.
+> **[0:48](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=48)** [[OWASP]] recognition.
 >
 > **[0:50](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=50)** Using components with known vulnerabilities is now a part of the OWASP Top 10.
 >
@@ -1149,9 +1138,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=78)** When choosing a tool for open source security scanning, key considerations include speed, the tool should quickly identify vulnerable dependencies, accuracy, results should be reliable, with minimal false positives, language support, the tool must support your application's technology stack, integration capabilities, easy integration with build systems and bug trackers.
 >
-> **[1:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=105)** Most tools work by comparing your applications dependencies against known vulnerability databases, CVEs, making this a relatively straightforward but crucial security check.
+> **[1:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=105)** Most tools work by comparing your applications dependencies against known vulnerability [[Databases]], CVEs, making this a relatively straightforward but crucial security check.
 >
-> **[1:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=117)** The workflow for continuous open source security testing follows a similar pattern.
+> **[1:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=117)** The workflow for continuous open source [[Security Testing]] follows a similar pattern.
 >
 > **[2:02](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=122)** Developer commits code with updated dependencies, build process triggers automated library security scan, tool analyzes dependencies against known vulnerability databases, builds can be automatically failed based on configured vulnerability thresholds, results are reported back to development teams for remediation.
 >
@@ -1183,19 +1172,19 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=237)** All of these are open source in a particular project.
 >
-> **[4:04](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=244)** I have a shiftleft-java-demo project here, and if I click on it, you can see, in this particular library, it's affected by three different vulnerabilities.
+> **[4:04](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=244)** I have a shiftleft-[[Java]]-demo project here, and if I click on it, you can see, in this particular library, it's affected by three different vulnerabilities.
 >
 > **[4:20](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=260)** So how do you fix it?
 >
 > **[4:21](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=261)** It suggests that you update to 1.13.12.
 >
-> **[4:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=268)** From here, once again, you could take this, and all of these, you could look at your integration and you could send these straight on to Jira, you could send them to Slack, to have that whole automated process built out.
+> **[4:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=268)** From here, once again, you could take this, and all of these, you could look at your integration and you could send these straight on to [[Jira]], you could send them to [[Slack]], to have that whole automated process built out.
 >
 > **[4:44](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-dependency-scanning?u=76281980&t=284)** And if you go down here to CircleCI, you can also look to stop your build based on certain open source criteria that have been found.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), application (4), [[OWASP]] (2), [[Databases]] (2), [[DevSecOps]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (2), [[OWASP]] (2), [[Databases]] (2), [[Security Testing]] (2), [[DevSecOps]] (1)
 > **CLI Commands:** apache (1), cd (1), make (1)
 > **Env Vars:** owasp (2)
 > **Tools:** jira (1), slack (1)
@@ -1204,16 +1193,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Continuous container security
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980)
+#### [Continuous container security](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=0)** - [Instructor] Containers have become increasingly popular in modern application development and deployment, introducing new security considerations that DevSecOps teams must address.
+> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=0)** - [Instructor] Containers have become increasingly popular in modern [[Application Development]] and deployment, introducing new security considerations that [[DevSecOps]] teams must address.
 >
-> **[0:11](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=11)** In this section, we'll discuss what containers are, the key areas of container security, and how to incorporate continuous container security testing into your DevOps processes.
+> **[0:11](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=11)** In this section, we'll discuss what containers are, the key areas of container security, and how to incorporate continuous container [[Security Testing]] into your [[DevOps]] processes.
 >
-> **[0:22](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=22)** In a traditional application architecture, the application components are deployed across multiple virtual machines, each with its own operating system, libraries and configurations.
+> **[0:22](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=22)** In a traditional application architecture, the application components are deployed across multiple [[Virtual Machines]], each with its own operating system, libraries and configurations.
 >
 > **[0:35](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=35)** This setup can be complex to manage and prone to environment-related issues and inconsistencies.
 >
@@ -1239,7 +1227,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=124)** While it's acceptable to start with a more narrow focus on vulnerabilities, the goal should be to build out a comprehensive container security strategy over time.
 >
-> **[2:14](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=134)** Incorporating container security testing into a continuous integration and delivery pipeline is crucial.
+> **[2:14](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=134)** Incorporating container security testing into a [[Continuous Integration (CI)|continuous integration]] and delivery pipeline is crucial.
 >
 > **[2:20](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=140)** The container image is scanned for vulnerabilities during the build process.
 >
@@ -1263,7 +1251,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=207)** I'm going to use this same tool to look at our container security.
 >
-> **[3:31](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=211)** You can use other tools, like Anchore, A-N-C-H-O-R-E, to look at your container security, but I like to try and find tools that are easy to use, have the ability to have a UI or a CLI.
+> **[3:31](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=211)** You can use other tools, like Anchore, A-N-C-H-O-R-E, to look at your container security, but I like to try and find tools that are easy to use, have the ability to have a UI or a [[CLI]].
 >
 > **[3:44](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=224)** That way, we can test as many things as possible and keep our lives simple.
 >
@@ -1301,7 +1289,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=310)** Aikido, local scanner, image scan, the image name and the API key.
 >
-> **[5:14](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=314)** This will allow you to do the scan from your local desktop or from CircleCI or Jenkins, right?
+> **[5:14](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=314)** This will allow you to do the scan from your local desktop or from CircleCI or [[Jenkins]], right?
 >
 > **[5:23](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=323)** And if you want to be able to take the callback on it so you can fail your build, you can do that here using this switch, the fail on critical.
 >
@@ -1317,11 +1305,11 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=354)** We can connect it to our Jenkins or our CI, so that we can automatically scan it on build.
 >
-> **[5:59](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=359)** And once again, from an integration perspective, you can connect this to Jira, connect it to Slack, so you have this continuous container scanning pipeline built and set up.
+> **[5:59](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continous-container-security?u=76281980&t=359)** And once again, from an integration perspective, you can connect this to [[Jira]], connect it to [[Slack]], so you have this continuous container scanning pipeline built and set up.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), application (4), [[CLI]] (3), [[DevSecOps]] (2), [[Jenkins]] (2)
+> **Frameworks & Libraries:** [[Security Testing]] (3), [[CLI]] (3), [[DevSecOps]] (2), [[Jenkins]] (2), [[Application Development]] (1)
 > **Env Vars:** cli (3), cis (1), api (1)
 > **CLI Commands:** docker (3), find (1)
 > **Tools:** jira (1), slack (1)
@@ -1330,12 +1318,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Continuous infrastructure as code scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980)
+#### [Continuous infrastructure as code scanning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=0)** - [Instructor] Infrastructure as code security is about building security from the ground up.
+> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=0)** - [Instructor] [[Infrastructure as code (IaC)|Infrastructure as code]] security is about building security from the ground up.
 >
 > **[0:04](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=4)** Let's talk more about it.
 >
@@ -1351,7 +1338,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=24)** No more, "It works on my environment."
 >
-> **[0:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=28)** Teams can spin up entire environments with a single command, and DevOps teams can focus on innovation rather than repetitive tasks.
+> **[0:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=28)** Teams can spin up entire environments with a single command, and [[DevOps]] teams can focus on innovation rather than repetitive tasks.
 >
 > **[0:38](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=38)** But with great power comes great responsibility.
 >
@@ -1389,11 +1376,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=122)** Now let's look at a demo of an IaC scanning tool.
 >
-> **[2:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=126)** We'll look at one from a UI, but we'll also look at one from the CLI, where you can use it to integrate with Jenkins or Travis CI or CircleCI.
+> **[2:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=126)** We'll look at one from a UI, but we'll also look at one from the [[CLI]], where you can use it to integrate with [[Jenkins]] or Travis CI or CircleCI.
 >
 > **[2:17](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=137)** Let's start by looking at TerraGoat.
 >
-> **[2:21](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=141)** One of the prerequisites for the course was taking your GitHub repo and cloning TerraGoat into it.
+> **[2:21](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=141)** One of the prerequisites for the course was taking your [[GitHub]] repo and cloning TerraGoat into it.
 >
 > **[2:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=148)** And so you can see that here.
 >
@@ -1405,7 +1392,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=186)** We're going to click on the first one that says S3 buckets should have block public access globally.
 >
-> **[3:14](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=194)** So you can see here, S3 bucket should have a default public access block enabled, and here's the code for that particular Terraform item, and you can see that it does not have the default block public access enabled.
+> **[3:14](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=194)** So you can see here, S3 bucket should have a default public access block enabled, and here's the code for that particular [[Terraform]] item, and you can see that it does not have the default block public access enabled.
 >
 > **[3:34](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=214)** Now this helps from the UI, and once again you can take this, you can integrate Akido with your bug management suite.
 >
@@ -1421,7 +1408,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=246)** I'm on a Mac, so I just did brew install checkov.
 >
-> **[4:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=252)** You can also use pip to install it if you are on a different Linux operating system.
+> **[4:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=252)** You can also use pip to install it if you are on a different [[Linux]] operating system.
 >
 > **[4:17](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=257)** So I installed it and now what I did was I downloaded TerraGoat to my local machine.
 >
@@ -1431,7 +1418,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=284)** So I'm in my directory right now.
 >
-> **[4:46](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=286)** You can see I've got this AppSec for DevSecOps directory here on my MacBook.
+> **[4:46](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=286)** You can see I've got this AppSec for [[DevSecOps]] directory here on my MacBook.
 >
 > **[4:51](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=291)** And this is what we're going to do.
 >
@@ -1439,7 +1426,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=306)** And it's going to run, and it's going to tell you that there are several misconfigurations.
 >
-> **[5:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=312)** So if you look through here, suspicious use of netcat with IP address, found artifact build without evidence of cosign sbom attestation in pipeline.
+> **[5:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=312)** So if you look through here, suspicious use of [[Netcat]] with IP address, found artifact build without evidence of cosign sbom attestation in pipeline.
 >
 > **[5:23](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-infrastructure-as-code-scanning?u=76281980&t=323)** So you can see that it's got several issues that it scanned from the source code that we downloaded.
 >
@@ -1451,7 +1438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[CLI]] (3), [[Jenkins]] (3), teams (2)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[CLI]] (3), [[Jenkins]] (3), [[DevOps]] (1), [[GitHub]] (1)
 > **Env Vars:** cli (3), ide (1), zip (1)
 > **Prerequisites:** install (3), setup (1)
 > **CLI Commands:** terraform (1), brew (1), pip (1)
@@ -1460,12 +1447,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1), is an  (1)
 
-#### AI application security
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980)
+#### [AI application security](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=1)** - [Instructor] Now we're going to explore how generative AI is reshaping the landscape of application security, both the opportunities and the challenges.
+> **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=1)** - [Instructor] Now we're going to explore how [[Generative AI]] is reshaping the landscape of [[Application Security]], both the opportunities and the challenges.
 >
 > **[0:10](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=10)** Let's start with a striking statistic from Checkmarx's recent AppSec report.
 >
@@ -1541,7 +1527,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=220)** So what works?
 >
-> **[3:41](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=221)** If you haven't done that, go ahead and pause it and go and Google VS Code AWS plugin, download it and install it.
+> **[3:41](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=221)** If you haven't done that, go ahead and pause it and go and [[Google]] VS Code AWS plugin, download it and install it.
 >
 > **[3:49](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=229)** It's pretty easy.
 >
@@ -1559,7 +1545,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=300)** So I just asked it, "How can I fix this vulnerability for enabled RDS public access?"
 >
-> **[5:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=305)** And it says, Based on the file pass shown and the Terraform snippet, I can help you secure your RDS instance by disabling public access.
+> **[5:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=305)** And it says, Based on the file pass shown and the [[Terraform]] snippet, I can help you secure your RDS instance by disabling public access.
 >
 > **[5:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/ai-application-security?u=76281980&t=312)** It's a critical security best practice.
 >
@@ -1589,7 +1575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (21), ai (10), teams (4), aws (3), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Application Security]] (2), [[Google]] (1), [[Terraform]] (1)
 > **Env Vars:** aws (3), rds (3)
 > **CLI Commands:** aws (3), terraform (1)
 > **Tools:** vs code (3)
@@ -1598,8 +1584,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1), best practice (1)
 > **Definitions:** is a  (1)
 
-#### Continuous application runtime monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980)
+#### [Continuous application runtime monitoring](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1625,9 +1610,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=48)** Unusual processes, unexpected connections, unauthorized changes, those are examples of suspicious activities that you should be monitoring for.
 >
-> **[0:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=57)** And this enables rapid incident response.
+> **[0:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=57)** And this enables rapid [[Incident Response]].
 >
-> **[1:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=61)** Continuous monitoring is your persistent guardian, catching new threats, overlooked issues, and malicious activities, before they become breaches.
+> **[1:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=61)** [[Continuous Monitoring]] is your persistent guardian, catching new threats, overlooked issues, and malicious activities, before they become breaches.
 >
 > **[1:10](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=70)** Let's look at key features to consider when choosing a runtime monitoring solution.
 >
@@ -1649,7 +1634,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=134)** And when you see here, the user input comes in and is first distributed through the load balancer.
 >
-> **[2:21](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=141)** Traffic is split between multiple EC2 instances for redundancy and scale, and then they go to Aurora for database usage.
+> **[2:21](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=141)** Traffic is split between multiple [[Amazon EC2|EC2]] instances for redundancy and scale, and then they go to Aurora for database usage.
 >
 > **[2:32](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=152)** Two key monitoring components are in place.
 >
@@ -1671,7 +1656,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=222)** We'll focus on AWS, but each cloud provider will have their own options.
 >
-> **[3:47](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=227)** Google will have Security Command Center, Microsoft has Sentinel, and Azure has GuardDuty, but we're going to really focus in on GuardDuty for the purposes of this demo.
+> **[3:47](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=227)** [[Google]] will have Security Command Center, [[Microsoft]] has Sentinel, and [[Microsoft Azure|Azure]] has GuardDuty, but we're going to really focus in on GuardDuty for the purposes of this demo.
 >
 > **[3:56](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=236)** If you come over here, you can get to GuardDuty by just logging into your console, typing in GuardDuty, and this is what it will show you.
 >
@@ -1687,7 +1672,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=298)** And you can see here that in this particular instance, it has a lot more information, you can click through here.
 >
-> **[5:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=305)** This particular Kubernetes policy has admin access set to default for this service account.
+> **[5:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=305)** This particular [[Kubernetes]] policy has admin access set to default for this service account.
 >
 > **[5:10](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-application-runtime-monitoring?u=76281980&t=310)** So you can see that this is really monitoring the runtime of your environment.
 >
@@ -1697,7 +1682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), aws (6), cloud (3), [[Amazon EC2|Ec2]] (3), database (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Incident Response]] (2), [[Continuous Monitoring]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** aws (6), ec2 (3), sim (1), api (1)
 > **CLI Commands:** aws (6), make (1)
 > **UI Navigation:** go to (1)
@@ -1709,8 +1694,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tying it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980)
+#### [Tying it all together](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1718,19 +1702,19 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=4)** Now it's time to understand how these tools work together seamlessly in a modern development workflow.
 >
-> **[0:11](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=11)** Just as we aim to move beyond manual UI testing, we want to automate our security testing process.
+> **[0:11](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=11)** Just as we aim to move beyond manual UI testing, we want to automate our [[Security Testing]] process.
 >
-> **[0:18](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=18)** Continuous application security should be a smooth, uninterrupted journey.
+> **[0:18](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=18)** Continuous [[Application Security]] should be a smooth, uninterrupted journey.
 >
 > **[0:24](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=24)** Gone are the days of stopping and starting tests, manual reporting, and endless debates about security vulnerabilities.
 >
 > **[0:32](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=32)** Instead, we want a process that flows seamlessly from build to defect reporting, continuously cycles and improves, integrates security directly into the development lifecycle.
 >
-> **[0:46](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=46)** While tools are important, the DevSecOps process and team integration are paramount.
+> **[0:46](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=46)** While tools are important, the [[DevSecOps]] process and team integration are paramount.
 >
-> **[0:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=52)** Two critical tools in the continuous DevSecOps process are Jenkins and CircleCI.
+> **[0:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=52)** Two critical tools in the continuous DevSecOps process are [[Jenkins]] and CircleCI.
 >
-> **[0:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=57)** These platforms are fundamental to modern DevOps, enabling task management, process automation, and streamlined workflow control.
+> **[0:57](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=57)** These platforms are fundamental to modern [[DevOps]], enabling task management, process automation, and streamlined workflow control.
 >
 > **[1:09](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=69)** These tools are the backbone of a continuous workflow, control the flow of development jobs, manage build check-ins, execute unit tests and security scans, provide pass-fail feedback, and then stop builds that don't meet security standards.
 >
@@ -1744,7 +1728,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=120)** Digging into the CircleCI and Jenkins world and setting up pipelines is a little bit outside the scope of this course.
 >
-> **[2:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=126)** There are other courses on LinkedIn where you can really get in depth on how to set these up, how to create pipelines and tasks, and the automation associated with those.
+> **[2:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=126)** There are other courses on [[LinkedIn]] where you can really get in depth on how to set these up, how to create pipelines and tasks, and the automation associated with those.
 >
 > **[2:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980&t=135)** So I would suggest looking to those courses for more detailed explanation of how to set up your pipeline.
 >
@@ -1752,20 +1736,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[Jenkins]] (3), application (2), [[DevSecOps]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Jenkins]] (3), [[Application Security]] (2), [[DevSecOps]] (2), [[Security Testing]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (2)
 > **Tools:** command line (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing the results
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980)
+#### [Managing the results](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=0)** - [Instructor] This presentation will cover a strategic approach to managing the results generated by our diverse toolset.
 >
-> **[0:07](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=7)** We'll explore how to centralize and automate this process to support our DevSecOps principles.
+> **[0:07](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=7)** We'll explore how to centralize and automate this process to support our [[DevSecOps]] principles.
 >
 > **[0:13](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=13)** Each tool in our arsenal produces results unique to its purpose.
 >
@@ -1773,7 +1756,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=25)** This allows us to consolidate the output from various tools into a central repository.
 >
-> **[0:33](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=33)** By establishing a single organized location to store all tool results, we can eliminate the scattered result files, enable cross tool analysis, improve team collaboration, and maintain a comprehensive audit trail.
+> **[0:33](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=33)** By establishing a single organized location to store all tool results, we can eliminate the scattered result files, enable cross tool analysis, improve [[Team Collaboration]], and maintain a comprehensive audit trail.
 >
 > **[0:52](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=52)** The benefits include quick access to historical data, simplified reporting, and reduced risk of losing critical information.
 >
@@ -1785,7 +1768,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=101)** To implement this workflow you have to create a script to run your tests.
 >
-> **[1:46](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=106)** And then inside that script you'll push the results to DefectDojo and then manage the scripting and testing inside of Jenkins.
+> **[1:46](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=106)** And then inside that script you'll push the results to DefectDojo and then manage the scripting and testing inside of [[Jenkins]].
 >
 > **[1:55](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=115)** Inside of our demo, we will create a script and we'll push the results to DefectDojo, but we won't manage the script testing in Jenkins because that really is outside the scope of this course.
 >
@@ -1805,15 +1788,15 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=181)** If you go to demo.[defectdojo.org](https://defectdojo.org), you can log in.
 >
-> **[3:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=186)** Their password is on the GitHub page for DefectDojo.
+> **[3:06](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=186)** Their password is on the [[GitHub]] page for DefectDojo.
 >
 > **[3:10](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=190)** It may change from time to time.
 >
-> **[3:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=192)** But once you log in, the first thing that you'll look at is to look at all the products.
+> **[3:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=192)** But once you log in, the first thing that you'll look at is to look at all the [[Microsoft Products|products]].
 >
 > **[3:19](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=199)** This is kind of what DefectDojo hinges on is creating a product.
 >
-> **[3:25](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=205)** I created one called LinkedIn Learning, so I'm going to click on that.
+> **[3:25](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=205)** I created one called [[LinkedIn]] Learning, so I'm going to click on that.
 >
 > **[3:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=208)** Once you're in here, you can create engagements.
 >
@@ -1839,9 +1822,9 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=261)** We're going to do the same thing inside of this script.
 >
-> **[4:27](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=267)** We're going to take our command, we're going to do TruffleHog docker image, truffle security secrets, and we're going to export it to a JSON file called Results.JSON.
+> **[4:27](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=267)** We're going to take our command, we're going to do TruffleHog docker image, truffle security secrets, and we're going to export it to a [[JSON]] file called Results.JSON.
 >
-> **[4:42](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=282)** Then what we're going to do is we're going to build an API inside of this Python script.
+> **[4:42](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=282)** Then what we're going to do is we're going to build an API inside of this [[Python (Programming Language)|Python]] script.
 >
 > **[4:49](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=289)** What we're going to need are a few things.
 >
@@ -1863,7 +1846,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=330)** And the easiest place to see that is up here for 15.
 >
-> **[5:36](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=336)** So I entered 15 right here, and then it's going to build the rest of your API call for you.
+> **[5:36](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=336)** So I entered 15 right here, and then it's going to build the [[Representational State Transfer (REST)|rest]] of your API call for you.
 >
 > **[5:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/managing-the-results?u=76281980&t=345)** So up here you ran TruffleHog, you exported it to JSON.
 >
@@ -1899,7 +1882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), api (5), [[DevSecOps]] (3), data (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[JSON]] (5), [[DevSecOps]] (3), [[Jenkins]] (2), [[LinkedIn]] (2), [[Team Collaboration]] (1)
 > **Env Vars:** json (5), api (5), aws (2)
 > **CLI Commands:** cd (2), aws (2), docker (1), python (1)
 > **Tools:** github (1), command line (1), vs code (1)
@@ -1908,12 +1891,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **File Paths:** results.json (1)
 
-#### Metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980)
+#### [Metrics](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=1)** - [Instructor] In the world of application security, metrics are our compass.
+> **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=1)** - [Instructor] In the world of [[Application Security]], metrics are our compass.
 >
 > **[0:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=5)** They guide our strategy, validate our efforts, and communicate our progress.
 >
@@ -1927,7 +1909,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=35)** We should have a quantitative measure for every tool and process that we use.
 >
-> **[0:42](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=42)** Remember, part of DevOps is that we're always evaluating.
+> **[0:42](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=42)** Remember, part of [[DevOps]] is that we're always evaluating.
 >
 > **[0:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=45)** We're always continuously improving, and so that should include the tools and the processes that we use.
 >
@@ -1985,7 +1967,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=176)** I've talked about security champions before in some of my other trainings, but this is a good metric to understand maybe where we can dig deep on a specific type of security test.
 >
-> **[3:07](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=187)** If we have a certain type of security defect that we're seeing a lot of, like cross-site scripting or SQL injection, maybe we can do a deep dive to the different teams explaining why we're seeing these issues and how they can fix them.
+> **[3:07](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=187)** If we have a certain type of security defect that we're seeing a lot of, like cross-site scripting or [[SQL]] injection, maybe we can do a deep dive to the different teams explaining why we're seeing these issues and how they can fix them.
 >
 > **[3:23](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/metrics?u=76281980&t=203)** Now, let's talk about some additional thoughts on metrics.
 >
@@ -2011,7 +1993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Security]] (8), teams (2), [[DevOps]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (3), [[DevOps]] (1), [[SQL]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **UI Navigation:** go to (1)
@@ -2019,16 +2001,15 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Building a continuous AppSec toolkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980)
+#### [Challenge: Building a continuous AppSec toolkit](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=0)** - [Instructor] Now let's take a lot of what we've learned in the previous movies and focus on a challenge.
 >
-> **[0:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=12)** Let's create an application security pipeline.
+> **[0:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=12)** Let's create an [[Application Security]] pipeline.
 >
-> **[0:16](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=16)** Let's go from a GitHub source code repository to a static scanner, and then into a vulnerability management system.
+> **[0:16](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=16)** Let's go from a [[GitHub]] source code repository to a static scanner, and then into a vulnerability management system.
 >
 > **[0:25](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=25)** Get all of these things to talk and be interconnected.
 >
@@ -2036,9 +2017,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=33)** If you'd like, you can use bWAPP, which is in an intentionally vulnerable application.
 >
-> **[0:37](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=37)** You can find the link here on GitHub, LinkedIn Learning, under Building Your First DevSecOps Pipeline.
+> **[0:37](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=37)** You can find the link here on GitHub, [[LinkedIn]] Learning, under Building Your First [[DevSecOps]] Pipeline.
 >
-> **[0:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=45)** You can also use Jira for the vulnerability management system.
+> **[0:45](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=45)** You can also use [[Jira]] for the vulnerability management system.
 >
 > **[0:49](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/challenge-building-a-continuous-appsec-toolkit?u=76281980&t=49)** They allow you to set up a free account that you can use for this purpose.
 >
@@ -2046,7 +2027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Security]] (2), [[GitHub]] (2), management (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (2), [[GitHub]] (2), [[LinkedIn]] (1), [[DevSecOps]] (1), [[Jira]] (1)
 > **Tools:** github (2), jira (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** bwapp (1)
@@ -2055,12 +2036,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Building a continuous AppSec toolkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980)
+#### [Solution: Building a continuous AppSec toolkit](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=0)** - [Instructor] Here you can see the BWAP application that is on the LinkedIn GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=0)** - [Instructor] Here you can see the BWAP application that is on the [[LinkedIn]] [[GitHub]] repository.
 >
 > **[0:12](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=12)** The first thing that we'll want to do is go ahead and fork this.
 >
@@ -2068,7 +2048,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=29)** Okay, that is forked into my own repository.
 >
-> **[0:33](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=33)** The next step is to create a Jira workspace.
+> **[0:33](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=33)** The next step is to create a [[Jira]] workspace.
 >
 > **[0:37](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=37)** All you have to do is sign up for an account, create a default workspace, and you should be good to go.
 >
@@ -2086,13 +2066,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=75)** So I'm going to hit accept.
 >
-> **[1:18](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=78)** If you want, you can review what this is going to do in the privacy policy.
+> **[1:18](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=78)** If you want, you can review what this is going to do in the [[Privacy]] policy.
 >
 > **[1:26](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=86)** Now we have to connect the projects.
 >
 > **[1:28](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=88)** So my domain inside of Jira is continuous security.
 >
-> **[1:33](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=93)** Default project is going to be Scrum and I'd like my issues to go over as bugs.
+> **[1:33](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=93)** Default project is going to be [[Scrum]] and I'd like my issues to go over as bugs.
 >
 > **[1:41](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=101)** You can also customize the ticket creation, automatically create tickets for high severity and high confidence findings.
 >
@@ -2108,7 +2088,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=134)** Select the code base that you brought over.
 >
-> **[2:17](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=137)** In my case, it's building-first-devsecops-pipeline.
+> **[2:17](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=137)** In my case, it's building-first-[[DevSecOps]]-pipeline.
 >
 > **[2:20](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=140)** I'm going to hit enable scans.
 >
@@ -2130,11 +2110,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=179)** You connected a static scanner to that code base, and then you set up automatic integration between Jira and your static scanner so that when you scan for issues, they are automatically sent over to Jira for management.
 >
-> **[3:21](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=201)** You could also do this with Slack or other integrations, but this really is the idea of a continuous application security.
+> **[3:21](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/solution-building-a-continuous-appsec-toolkit?u=76281980&t=201)** You could also do this with [[Slack]] or other integrations, but this really is the idea of a continuous [[Application Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), hit (3), application (2), [[Security]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jira]] (10), [[LinkedIn]] (1), [[GitHub]] (1), [[Privacy]] (1), [[Scrum]] (1)
 > **Tools:** jira (10), github (1), slack (1)
 > **Prerequisites:** set up (5)
 > **UI Navigation:** go to (1), select the (1)
@@ -2148,12 +2128,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/next-steps?u=76281980&t=1)** - [Instructor] Success in application security means integration from end to end.
+> **[0:01](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/next-steps?u=76281980&t=1)** - [Instructor] Success in [[Application Security]] means integration from end to end.
 >
 > **[0:05](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/next-steps?u=76281980&t=5)** Let's be clear, no tool is perfect and that's okay.
 >
@@ -2189,7 +2168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), application (3), teams (1), management (1)
+> **Frameworks & Libraries:** [[Application Security]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

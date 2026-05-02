@@ -81,37 +81,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Joining the NLP revolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980)
+#### [Joining the NLP revolution](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=0)** - Get the most out of AI fast.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=2)** That's what prompt engineering is about, and that's just what we'll learn in this course.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=2)** That's what [[Prompt Engineering]] is about, and that's just what we'll learn in this course.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=8)** We'll look at ChatGPT, Copilot, Gemini, and Claude.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=8)** We'll look at [[ChatGPT]], [[Microsoft Copilot|Copilot]], [[Gemini]], and Claude.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=12)** We'll learn how to modify the behavior of generative AI using advanced techniques such as few-shot learning.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=12)** We'll learn how to modify the behavior of [[Generative AI]] using advanced techniques such as few-shot learning.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=20)** I'm Ronnie Sheer.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=21)** I'm a software engineer with over a decade of experience working for companies that lean heavily on artificial intelligence.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=21)** I'm a software engineer with over a decade of experience working for companies that lean heavily on [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980&t=29)** If you want to be an AI wizard, you're in the right place, so let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1), [[Gemini]] (1), [[Generative AI]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - get (1)
 
-#### What is prompt engineering?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980)
+#### [What is prompt engineering?](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980&t=0)** - [Instructor] In order to understand what prompt engineering is, let's talk about what generative AI is.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980&t=0)** - [Instructor] In order to understand what [[Prompt Engineering]] is, let's talk about what [[Generative AI]] is.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980&t=7)** Generative AI is a broad description for technology that leverages AI to generate data.
 >
@@ -119,22 +117,21 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980&t=20)** Now, prompt engineering refers to constructing inputs that help us get the most out of generative AI and language models in particular.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980&t=31)** Now, this is a really fast-changing ecosystem we're dealing with here, and at the time of this recording, some of the technologies where prompt engineering really shines include ChatGPT, which is powered by GPT-4 and GPT-4o, there's Microsoft Copilot, which also leverages GPT-4o, there's Google's Gemini, there's Claude by the company Anthropic, then there are image generating models such as DALL-E, which is now part of ChatGPT, Stable Diffusion, Midjourney, and even video generation tools such as Sora.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/what-is-prompt-engineering?u=76281980&t=31)** Now, this is a really fast-changing ecosystem we're dealing with here, and at the time of this recording, some of the technologies where prompt engineering really shines include [[ChatGPT]], which is powered by [[GPT-4]] and GPT-4o, there's [[Microsoft Copilot]], which also leverages GPT-4o, there's [[Google]]'s [[Gemini]], there's Claude by the company Anthropic, then there are image generating models such as [[DALL-E]], which is now part of ChatGPT, [[Stable Diffusion]], [[Midjourney]], and even video generation tools such as Sora.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[Generative AI]] (3), data (2), [[ChatGPT]] (2), ai (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[Generative AI]] (3), [[ChatGPT]] (2), [[GPT-4]] (1), [[Microsoft Copilot]] (1)
 > **Env Vars:** gpt (3), dall (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Tokens vs. words
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/tokens-vs-words?u=76281980)
+#### [Tokens vs. words](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/tokens-vs-words?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/tokens-vs-words?u=76281980&t=0)** - [Instructor] In generative AI, you'll often hear the word tokens mentioned.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/tokens-vs-words?u=76281980&t=0)** - [Instructor] In [[Generative AI]], you'll often hear the [[Microsoft Word|word]] [[Tokens]] mentioned.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/tokens-vs-words?u=76281980&t=6)** Now, what does this mean?
 >
@@ -163,8 +160,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980)
+#### [Large language models](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=20)** This is because it has this unique show probabilities option.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=25)** So I'll select most likely, and for maximum length, I'll do about eight tokens.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=25)** So I'll select most likely, and for maximum length, I'll do about eight [[Tokens]].
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=36)** Now, I'll type in the prompt.
 >
@@ -190,7 +186,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=71)** You'll notice that every is extremely likely to come up.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=76)** Everyday as one word is also likely to come up.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=76)** Everyday as one [[Microsoft Word|word]] is also likely to come up.
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/large-language-models?u=76281980&t=81)** There's the chance of each, which would be probably, I try to learn something new each day.
 >
@@ -210,7 +206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), next (4), prompt (2), [[Microsoft Word|Word]] (2), ai (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** gpt (1)
 > **Cross-References:** coming up (1)
@@ -223,12 +219,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diving into ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980)
+#### [Diving into ChatGPT](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=0)** - [Instructor] ChatGPT might be the most widely adopted AI system at the time of this recording.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=0)** - [Instructor] [[ChatGPT]] might be the most widely adopted AI system at the time of this recording.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=9)** It's powered by OpenAI's GPT models.
 >
@@ -248,7 +243,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=46)** Recent iterations of ChatGPT also support voice instructions, and these instructions are becoming more and more like natural conversation.
 >
-> **[0:58](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=58)** What really makes ChatGPT stands out is a process called RLHF, reinforcement learning human feedback.
+> **[0:58](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=58)** What really makes ChatGPT stands out is a process called RLHF, [[Reinforcement Learning]] human feedback.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=68)** This is a part of the model's training where people give feedback on the model's responses, making it extremely powerful when it comes to following instructions.
 >
@@ -264,7 +259,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=137)** And AI innovation meets eco-friendly design.
 >
-> **[2:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=143)** Some versions of ChatGPT also allow you to tap into Dall-E, the image generation tool by OpenAI.
+> **[2:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=143)** Some versions of ChatGPT also allow you to tap into [[DALL-E]], the image generation tool by OpenAI.
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=152)** So I can go ahead and ask for a logo for this.
 >
@@ -292,7 +287,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=258)** If I were to include code, I can also use markdown style ticks as my delimiters.
 >
-> **[4:25](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=265)** So I can do something like tick python and then new line and insert my python function.
+> **[4:25](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=265)** So I can do something like tick [[Python (Programming Language)|python]] and then new line and insert my python function.
 >
 > **[4:35](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980&t=275)** And then once I'm done, I can close with another tick.
 >
@@ -304,18 +299,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (11), prompt (7), ai (3), data (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), [[Python (Programming Language)|Python]] (2), [[Reinforcement Learning]] (1), [[DALL-E]] (1)
 > **Env Vars:** gpt (2), rlhf (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
 
-#### ChatGPT voice mode on mobile
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980)
+#### [ChatGPT voice mode on mobile](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=0)** - [Instructor] The ChatGPT mobile apps, as well as the desktop app for Mac allow you to utilize what's called Voice mode.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=0)** - [Instructor] The [[ChatGPT]] mobile apps, as well as the desktop app for Mac allow you to utilize what's called Voice mode.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=9)** In this mode, you can prompt the system using conversational speaking.
 >
@@ -345,7 +339,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=83)** I would like to use a green and magenta pastel colors, very vibrant.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=89)** And it should project innovation and sustainability.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=89)** And it should project innovation and [[Sustainability]].
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=98)** - [ChatGPT Bot] Got it. Thanks for the details.
 >
@@ -365,7 +359,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=132)** - [Instructor] Great.
 >
-> **[2:13](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=133)** Now, can you repeat word-for-word the three questions that you asked me?
+> **[2:13](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=133)** Now, can you repeat [[Microsoft Word|word]]-for-word the three questions that you asked me?
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=138)** - [ChatGPT Bot] Sure, here are the three questions I asked you.
 >
@@ -385,25 +379,24 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=171)** Do you have any specific colors or theme?
 >
-> **[2:55](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=175)** - [Instructor] Voice mode is becoming more and more effective at fluent conversation and is a promising way of prompt engineering in some scenarios.
+> **[2:55](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/chatgpt-voice-mode-on-mobile?u=76281980&t=175)** - [Instructor] Voice mode is becoming more and more effective at fluent conversation and is a promising way of [[Prompt Engineering]] in some scenarios.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Sustainability]] (3), ai (2), [[Microsoft Word|Word]] (2), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Sustainability]] (3), [[Microsoft Word|Word]] (2), [[Prompt Engineering]] (1)
 > **Speakers:** - [instructor] (5), - [chatgpt (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Taking Google Gemini for a ride
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980)
+#### [Taking Google Gemini for a ride](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=0)** - [Instructor] The Gemini models are a group of very capable large language models and AI systems by the tech giant Google.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=0)** - [Instructor] The [[Gemini]] models are a group of very capable [[Large Language Models (LLM)|large language models]] and AI systems by the tech giant [[Google]].
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=10)** Now Gemini 1.5 supports a very large context window.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=17)** A context window is the amount of tokens you can have in the input and output when interacting with a large language model.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=17)** A context window is the amount of [[Tokens]] you can have in the input and output when interacting with a large language model.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=27)** So a very large context window will allow for a very long chat without losing too many details.
 >
@@ -413,13 +406,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=53)** There are versions of Gemini that can handle inputs that are both text, images, as well as raw audio and even video.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=65)** Google also offers Vertex AI, a very robust platforms that allows developers to integrate this technology quite easily into their applications.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=65)** Google also offers [[Vertex]] AI, a very robust platforms that allows developers to integrate this technology quite easily into their applications.
 >
-> **[1:19](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=79)** Now, similar to ChatGPT, Gemini also leverages the transformer architecture as well as an architecture called mixture of experts.
+> **[1:19](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=79)** Now, similar to [[ChatGPT]], Gemini also leverages the transformer architecture as well as an architecture called mixture of experts.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=91)** Now let's head over to Gemini and see it in action.
 >
-> **[1:36](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=96)** Right off the bat, you'll see a few possibilities for prompts, such as "Generate a fantastical image" and "Help me write HTML, CSS, and JavaScript.: I'm going to go ahead and type in, "You are a skilled graphic designer.
+> **[1:36](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=96)** Right off the bat, you'll see a few possibilities for prompts, such as "Generate a fantastical image" and "Help me write [[HTML]], CSS, and [[JavaScript]].: I'm going to go ahead and type in, "You are a skilled graphic designer.
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/taking-google-gemini-for-a-ride?u=76281980&t=122)** Ask me questions one at a time
 >
@@ -455,39 +448,38 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (7), ai (4), [[Large Language Models (LLM)|Large language models]] (2), [[Google]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Gemini]] (7), [[Large Language Models (LLM)|Large language models]] (2), [[Google]] (2), [[Tokens]] (1), [[Vertex]] (1)
 > **Env Vars:** html (1), css (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
 > **Versions:** 1.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring Microsoft Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980)
+#### [Exploring Microsoft Copilot](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=0)** - [Instructor] Microsoft Copilot brings AI innovation to the Microsoft ecosystem.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot]] brings AI innovation to the [[Microsoft]] ecosystem.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=7)** Under the hood, Copilot leverages technologies such as Open AI's GPT models and DALL-E.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=7)** Under the hood, [[Microsoft Copilot|Copilot]] leverages technologies such as Open AI's GPT models and [[DALL-E]].
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=15)** Now what makes Copilot unique is that it's built with enterprise use cases in mind.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=22)** Many companies can integrate Copilot into Microsoft 365, and this makes for some powerful workflows.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=22)** Many companies can integrate Copilot into [[Microsoft 365]], and this makes for some powerful workflows.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=31)** Now the company GitHub, which is owned by Microsoft, offers a set of tools for software developers called GitHub Copilot.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=31)** Now the company [[GitHub]], which is owned by Microsoft, offers a set of tools for software developers called [[GitHub Copilot]].
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=41)** Now, this technology was developed using lots of open source code, and it's available as a plugin through Visual Studio Code, as well as some other development environments.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=53)** Now, you can access Copilot through this interface, which is similar to chat GPT or Gemini.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=53)** Now, you can access Copilot through this interface, which is similar to chat GPT or [[Gemini]].
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=61)** Many companies can also access Copilot through Microsoft 365.
 >
-> **[1:06](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=66)** So here I am on PowerPoint online and I can go ahead and open Copilot with this button right here.
+> **[1:06](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=66)** So here I am on [[Microsoft PowerPoint|PowerPoint]] online and I can go ahead and open Copilot with this button right here.
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=74)** And for this to be available, you have to have the service as well as the administrator needs to make it available in the company.
 >
-> **[1:24](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=84)** And here we have a Copilot available to us, and I can say create a short presentation about generative AI
+> **[1:24](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=84)** And here we have a Copilot available to us, and I can say create a short presentation about [[Generative AI]]
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/exploring-microsoft-copilot?u=76281980&t=102)** and something really special can happen now with the combination of PowerPoint and a language model.
 >
@@ -507,7 +499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft 365]] (3), ai (2), [[Microsoft]] (2), [[Microsoft PowerPoint|Powerpoint]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft 365]] (3), [[Microsoft]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Copilot]] (1)
 > **Env Vars:** gpt (2), dall (1)
 > **Tools:** github (2), visual studio (1)
 > **Analogies:** such as (1), similar to (1), just like (1)
@@ -516,8 +508,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Few-shot learning with Claude
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980)
+#### [Few-shot learning with Claude](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,11 +536,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=81)** I can use these dividers right here, the example tags that Anthropic suggests.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=88)** So I open an example, and then I insert this paragraph from Wikipedia about generative AI, and I start by saying, this is text.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=88)** So I open an example, and then I insert this paragraph from Wikipedia about [[Generative AI]], and I start by saying, this is text.
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=98)** And I can say, these are my hashtags.
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=101)** So I have three hashtags: AI, ChatGPT, and artificial intelligence.
+> **[1:41](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=101)** So I have three hashtags: AI, [[ChatGPT]], and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=108)** Now, it could be difficult to describe this output to a model, but here I just give another example.
 >
@@ -581,7 +572,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=217)** and I'm going to go ahead and say, create a working Tetris game
 >
-> **[3:51](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=231)** in a single HTML file.
+> **[3:51](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=231)** in a single [[HTML]] file.
 >
 > **[3:59](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/few-shot-learning-with-claude?u=76281980&t=239)** The game should be well styled and should run in an artifact.
 >
@@ -591,26 +582,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), ai (2), [[Generative AI]] (1), [[ChatGPT]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[ChatGPT]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[HTML]] (1)
 > **Env Vars:** api (1), html (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - in (1)
 
-#### Challenge: Zero-shot, few-shot learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-zero-shot-few-shot-learning?u=76281980)
+#### [Challenge: Zero-shot, few-shot learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-zero-shot-few-shot-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-zero-shot-few-shot-learning?u=76281980&t=0)** (upbeat instrumental music)
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-zero-shot-few-shot-learning?u=76281980&t=5)** - [Instructor] So here's a fun little challenge, and for this one, I want you to create a presentation outline or even slides about the topic of prompt engineering.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-zero-shot-few-shot-learning?u=76281980&t=5)** - [Instructor] So here's a fun little challenge, and for this one, I want you to create a presentation outline or even slides about the topic of [[Prompt Engineering]].
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-zero-shot-few-shot-learning?u=76281980&t=17)** Now the presentation should be geared towards people in your industry or discipline, and you may use this part of a Wikipedia article about prompt engineering to construct your prompt.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-zero-shot-few-shot-learning?u=76281980&t=30)** Now, feel free to use some of the tools, and methods that we have covered so far.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-zero-shot-few-shot-learning?u=76281980&t=36)** You may use tools like ChatGPT, DALL-E, Copilot, Gemini or Claude.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-zero-shot-few-shot-learning?u=76281980&t=36)** You may use tools like [[ChatGPT]], [[DALL-E]], [[Microsoft Copilot|Copilot]], [[Gemini]] or Claude.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-zero-shot-few-shot-learning?u=76281980&t=42)** You may tap into methods such as few-shot or zero-shot learning, dividing your prompt up using the limiters.
 >
@@ -622,19 +612,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (2), prompt (2), [[ChatGPT]] (1), [[DALL-E]] (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[ChatGPT]] (1), [[DALL-E]] (1), [[Microsoft Copilot|Copilot]] (1), [[Gemini]] (1)
 > **Env Vars:** dall (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat instrumental music) (1)
 
-#### Solution: Zero-shot, few-shot learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980)
+#### [Solution: Zero-shot, few-shot learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980&t=0)** - [Instructor] The goal of this challenge was to create a presentation or an outline for presentation about prompt engineering.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980&t=0)** - [Instructor] The goal of this challenge was to create a presentation or an outline for presentation about [[Prompt Engineering]].
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980&t=13)** Now I'm going to go ahead and copy this paragraph right here.
 >
@@ -662,9 +651,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980&t=112)** Now, I'm going to go ahead and ask it to generate the actual slides.
 >
-> **[1:58](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980&t=118)** So I'm going to say, "Run a Python script to generate a PPTX," that's a PowerPoint presentation file, "file containing the slides."
+> **[1:58](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980&t=118)** So I'm going to say, "Run a [[Python (Programming Language)|Python]] script to generate a PPTX," that's a [[Microsoft PowerPoint|PowerPoint]] presentation file, "file containing the slides."
 >
-> **[2:21](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980&t=141)** And many versions of ChatGPT are able to do this, to use the code analysis tool to generate files.
+> **[2:21](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980&t=141)** And many versions of [[ChatGPT]] are able to do this, to use the code analysis tool to generate files.
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-zero-shot-few-shot-learning?u=76281980&t=155)** And sometimes you're not going to get something that's 100% ready as far as styles go.
 >
@@ -674,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), prompt (1), [[Python (Programming Language)|Python]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Python (Programming Language)|Python]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** pptx (1)
 > **Speakers:** - [instructor] (1)
@@ -685,8 +674,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The AI-generated image landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980)
+#### [The AI-generated image landscape](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,13 +692,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=58)** In particular, this is of concern in fake news.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=62)** Now, two very popular systems include DALL-E and Midjourney.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=62)** Now, two very popular systems include [[DALL-E]] and [[Midjourney]].
 >
-> **[1:08](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=68)** DALL-E was created by OpenAI, the company that created ChatGPT.
+> **[1:08](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=68)** DALL-E was created by OpenAI, the company that created [[ChatGPT]].
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=73)** It's a diffusion-based model, meaning it starts with a noisy sequence and then slowly removes noise until it has a clean image.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=83)** DALL-E was trained on millions of images, and it's available through Copilot as well as Chat GPT.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=83)** DALL-E was trained on millions of images, and it's available through [[Microsoft Copilot|Copilot]] as well as Chat GPT.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=92)** Midjourney is extremely powerful.
 >
@@ -718,7 +706,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=100)** It has fewer free capabilities, so if you plan on using Midjourney a lot, you probably want to look into a paid subscription.
 >
-> **[1:49](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=109)** Finally, there's the model Stable Diffusion by Stability AI.
+> **[1:49](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=109)** Finally, there's the model [[Stable Diffusion]] by Stability AI.
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980&t=115)** Now, stable diffusion is very powerful, and what makes it unique is that it's open source.
 >
@@ -740,24 +728,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[DALL-E]] (3), [[Midjourney]] (3), [[Stable Diffusion]] (2), prompt (1)
+> **Frameworks & Libraries:** [[DALL-E]] (3), [[Midjourney]] (3), [[Stable Diffusion]] (2), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** dall (3), gpt (1)
 > **Tools:** discord (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - advancements (1)
 
-#### Trying out Dall-E
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980)
+#### [Trying out Dall-E](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980&t=0)** - [Instructor] In this one, we're going to generate images using DALL-E.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980&t=0)** - [Instructor] In this one, we're going to generate images using [[DALL-E]].
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980&t=3)** Now, if you have a paid version of ChatGPT, feel free to use ChatGPT to access DALL-E.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980&t=3)** Now, if you have a paid version of [[ChatGPT]], feel free to use ChatGPT to access DALL-E.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980&t=11)** Otherwise, head over to [bing.com/chat](https://bing.com/chat) to access DALL-E through Copilot.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980&t=11)** Otherwise, head over to [bing.com/chat](https://bing.com/chat) to access DALL-E through [[Microsoft Copilot|Copilot]].
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980&t=19)** Now, if you plan to use these tools for work, always go ahead and check out the terms of use as well as privacy notice.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980&t=19)** Now, if you plan to use these tools for work, always go ahead and check out the terms of use as well as [[Privacy]] notice.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-dall-e?u=76281980&t=27)** Now, I'm going to go ahead and click on Designer, and I'll say you are a creative director.
 >
@@ -783,7 +770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (4), [[ChatGPT]] (2), prompt (2), [[Microsoft Copilot|Copilot]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[ChatGPT]] (2), [[Microsoft Copilot|Copilot]] (1), [[Privacy]] (1)
 > **Env Vars:** dall (4)
 > **Warnings:** keep in mind (2)
 > **URLs:** [bing.com](https://bing.com) (1)
@@ -791,12 +778,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trying out Midjourney
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-midjourney?u=76281980)
+#### [Trying out Midjourney](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-midjourney?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-midjourney?u=76281980&t=0)** - [Instructor] Once you create a Midjourney account, you can use Midjourney using the chat platform, Discord.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-midjourney?u=76281980&t=0)** - [Instructor] Once you create a [[Midjourney]] account, you can use Midjourney using the chat platform, Discord.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/trying-out-midjourney?u=76281980&t=7)** Now paying for subscription allows you to have more access to the Midjourney Bot and allows for faster generations.
 >
@@ -838,22 +824,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (6), prompt (3), ai (1)
+> **Frameworks & Libraries:** [[Midjourney]] (6)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** imagine (1), such as (1)
 > **Tools:** discord (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Generating a poster
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-generating-a-poster?u=76281980)
+#### [Challenge: Generating a poster](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-generating-a-poster?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-generating-a-poster?u=76281980&t=0)** - [Instructor] It is time for one of my favorite challenges, and in this one, you're going to create a movie poster about the future of AI, using generative AI.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-generating-a-poster?u=76281980&t=0)** - [Instructor] It is time for one of my favorite challenges, and in this one, you're going to create a movie poster about the future of AI, using [[Generative AI]].
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-generating-a-poster?u=76281980&t=16)** So feel free to use text generation to come up with a good title for a movie and a theme, and then you can use image generation to come up with a good movie poster.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-generating-a-poster?u=76281980&t=30)** Once you're done, you can share your creation on LinkedIn, using the hashtag #learntechwithlinkedin, #promptengineering, and #ai.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-generating-a-poster?u=76281980&t=30)** Once you're done, you can share your creation on [[LinkedIn]], using the hashtag #learntechwithlinkedin, #promptengineering, and #ai.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/challenge-generating-a-poster?u=76281980&t=40)** Also go ahead and mention me, so that I can hopefully see what you've created.
 >
@@ -861,22 +846,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Generative AI]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Generating a poster
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980)
+#### [Solution: Generating a poster](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980&t=5)** - [Instructor] The goal of this challenge was to create a poster for a movie about the future of AI using generative AI, and for extra credit, you can share it with the group using these hashtags.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980&t=5)** - [Instructor] The goal of this challenge was to create a poster for a movie about the future of AI using [[Generative AI]], and for extra credit, you can share it with the group using these hashtags.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980&t=20)** Also, feel free to mention me in your posts so that I can hopefully check out what you've created.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980&t=26)** Now, for this one, I'm going to go ahead and use copilot, and I'll say you are a marketing expert
+> **[0:26](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980&t=26)** Now, for this one, I'm going to go ahead and use [[Microsoft Copilot|copilot]], and I'll say you are a marketing expert
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980&t=39)** specializing in movie promotion.
 >
@@ -892,11 +876,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980&t=135)** And here I have a few possibilities and it's always a good idea to check out any text that is generated by these models.
 >
-> **[2:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980&t=143)** You can use software like Canva or even PowerPoint to replace the writing.
+> **[2:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/solution-generating-a-poster?u=76281980&t=143)** You can use software like [[Canva]] or even [[Microsoft PowerPoint|PowerPoint]] to replace the writing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Generative AI]] (1), [[Microsoft Copilot|Copilot]] (1), [[Canva]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Microsoft Copilot|Copilot]] (1), [[Canva]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -906,20 +890,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a custom GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980)
+#### [Creating a custom GPT](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=0)** - What if I told you you could create your own version of ChatGPT to meet your specific needs?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=0)** - What if I told you you could create your own version of [[ChatGPT]] to meet your specific needs?
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=7)** Well, custom GPTs allow you to do just that.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=7)** Well, [[Custom GPTs]] allow you to do just that.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=12)** GPTs can reduce repetition.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=15)** They allow you to share some of your workflow with your teammates, and they're easy to get started with.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=22)** Now, to get the most out of custom GPTs, it's important to check what your plan of ChatGPT enables as far as privacy and capabilities.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=22)** Now, to get the most out of custom GPTs, it's important to check what your plan of ChatGPT enables as far as [[Privacy]] and capabilities.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=35)** A good way to get started with custom GPTs is to head over to chat.[openai.com/create](https://openai.com/create).
 >
@@ -983,7 +966,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=327)** I'll do, "Let's create an invite.
 >
-> **[5:38](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=338)** "The Future of Prompt Engineering.
+> **[5:38](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=338)** "The Future of [[Prompt Engineering]].
 >
 > **[5:50](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=350)** "We'll do it Thursday, "August the 11th,
 >
@@ -1009,7 +992,7 @@ created: 2026-05-02
 >
 > **[7:27](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=447)** We can change up the prompts.
 >
-> **[7:30](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=450)** We can enable code interpretation, as well as different features of ChatGPT.
+> **[7:30](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=450)** We can enable [[Code Interpretation]], as well as different features of ChatGPT.
 >
 > **[7:37](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980&t=457)** We can also upload different files to add to the knowledge of this GPT, and this is very good if you want some question answering assistant, and this is just the beginning of the capability.
 >
@@ -1037,8 +1020,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - what (1)
 
-#### Multimodality in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980)
+#### [Multimodality in AI](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,24 +1030,23 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=11)** It supports multiple modalities.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=14)** Now, a good way of experimenting with multimodal AI is using ChatGPT or Gemini and giving it an image of some ingredients and asking it to come up with a recipe using these ingredients you have.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=14)** Now, a good way of experimenting with multimodal AI is using [[ChatGPT]] or [[Gemini]] and giving it an image of some ingredients and asking it to come up with a recipe using these ingredients you have.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=31)** And it can usually figure out what you can cook with these ingredients and come up with a unique recipe.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=38)** Another one is to draw a wireframe of an application and ask it to come up with the code for this application, perhaps to ask for it in a single HTML file.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=38)** Another one is to draw a wireframe of an application and ask it to come up with the code for this application, perhaps to ask for it in a single [[HTML]] file.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=52)** So in both of these cases, you have a visual modality along with text.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=59)** Now, if you want to learn more about multimodality, feel free to check out my extensive course called [[Introduction to Multimodal Prompting for Generative AI]].
+> **[0:59](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/multi-modality-in-ai?u=76281980&t=59)** Now, if you want to learn more about multimodality, feel free to check out my extensive course called [[Introduction to [[Multimodal Prompting]] for [[Generative AI]]]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), application (2), data (1), [[ChatGPT]] (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Gemini]] (1), [[HTML]] (1), [[Multimodal Prompting]] (1), [[Generative AI]] (1)
 > **Env Vars:** html (1)
 > **Speakers:** - [ronnie] (1)
 
-#### Model fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/model-fine-tuning?u=76281980)
+#### [Model fine-tuning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/model-fine-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1083,7 +1064,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/model-fine-tuning?u=76281980&t=51)** As a result, you can use smaller models and gain efficiency.
 >
-> **[0:58](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/model-fine-tuning?u=76281980&t=58)** Fine-tuning can also help you save up on tokens because you don't have to construct a very long prompt to instruct the model on what to do.
+> **[0:58](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/model-fine-tuning?u=76281980&t=58)** Fine-tuning can also help you save up on [[Tokens]] because you don't have to construct a very long prompt to instruct the model on what to do.
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/model-fine-tuning?u=76281980&t=69)** Now, the process itself of fine-tuning a model can cost a little bit, but it may pay off in the long run.
 >
@@ -1093,13 +1074,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Tokens]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **CLI Commands:** make (3)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [narrator] (1)
 
-#### Interacting with language models using an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/interacting-with-language-models-using-an-api?u=76281980)
+#### [Interacting with language models using an API](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/interacting-with-language-models-using-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1125,7 +1105,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/interacting-with-language-models-using-an-api?u=76281980&t=82)** So here we provide it with that article about Jupiter.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/interacting-with-language-models-using-an-api?u=76281980&t=87)** Now we have the code that reflects this prompt and we can choose from Python, We can look at JavaScript with Node.js, there's Curl.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/interacting-with-language-models-using-an-api?u=76281980&t=87)** Now we have the code that reflects this prompt and we can choose from [[Python (Programming Language)|Python]], We can look at [[JavaScript]] with [[Node.js]], there's Curl.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/interacting-with-language-models-using-an-api?u=76281980&t=99)** Now I'm going to look at Python, but what if I want to modify this code?
 >
@@ -1189,7 +1169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Python (Programming Language)|Python]] (3), application (2), api (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[JavaScript]] (1), [[Node.js]] (1)
 > **CLI Commands:** python (3), make (2), python3 (2), node (1), curl (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** node.js (1), example.py (1)
@@ -1203,12 +1183,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Warning: Use responsibly
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980)
+#### [Warning: Use responsibly](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980&t=0)** - [Instructor] Generative AI is incredibly powerful, and with great power comes great responsibility.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980&t=0)** - [Instructor] [[Generative AI]] is incredibly powerful, and with great power comes great responsibility.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980&t=7)** Try to use this technology as responsibly as you possibly can.
 >
@@ -1218,7 +1197,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980&t=30)** Now, this is a huge issue that is perhaps outside the scope of this course, but is important to keep in mind regardless.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980&t=40)** Now, when it comes to privacy and security, make sure to carefully review policies of tools you wish to use, especially at work.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980&t=40)** Now, when it comes to [[Privacy]] and security, make sure to carefully review policies of tools you wish to use, especially at work.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980&t=50)** Also, make sure you seek approval before starting to use a new tool.
 >
@@ -1226,31 +1205,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Generative AI]] (1), power (1), ai (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (3)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuing your AI journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980)
+#### [Continuing your AI journey](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=0)** - I'm Ronnie Sheer, and I wanted to thank you for taking this course and investing in your prompt engineering skills.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=0)** - I'm Ronnie Sheer, and I wanted to thank you for taking this course and investing in your [[Prompt Engineering]] skills.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=7)** Now, to keep the learning going, there are a few courses I can recommend from the library.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=13)** To learn more about multimodal AI, you can check out my course, [[Introduction to Multimodal Prompting for Generative AI]].
+> **[0:13](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=13)** To learn more about multimodal AI, you can check out my course, [[Introduction to [[Multimodal Prompting]] for [[Generative AI]]]].
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=23)** There's also my course, [[Prompt Engineering with ChatGPT]], where we use ChatGPT to examine some best practices when it comes to prompt engineering.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=23)** There's also my course, [[Prompt Engineering with [[ChatGPT]]]], where we use ChatGPT to examine some best practices when it comes to prompt engineering.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=35)** For developers who wish to have more control over their AI application, there is Ray Villalobos' course, Developing with Llama Three, Meta's Innovative and Open Large Language Model.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=35)** For developers who wish to have more control over their AI application, there is Ray Villalobos' course, Developing with [[LLaMA]] Three, Meta's Innovative and Open Large Language Model.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=50)** This course looks at using the Llama model, which is somewhat open when it comes to usage rights.
 >
-> **[0:58](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=58)** Now to stay up to date when it comes to developments in tech and AI in particular, feel free to follow me on LinkedIn where I post quite regularly.
+> **[0:58](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=58)** Now to stay up to date when it comes to developments in tech and AI in particular, feel free to follow me on [[LinkedIn]] where I post quite regularly.
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/continuing-your-ai-jourey?u=76281980&t=69)** You can also subscribe to my YouTube channel, AI Skill Boost, where I post quick tips and keep you up to date on good courses you can check out as well.
 >
@@ -1258,7 +1236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Prompt Engineering]] (3), [[ChatGPT]] (2), [[LLaMA]] (2), [[Multimodal Prompting]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[ChatGPT]] (2), [[LLaMA]] (2), [[Multimodal Prompting]] (1), [[Generative AI]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - i (1)
 

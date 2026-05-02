@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your customer service skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-customer-service-skills?u=76281980)
+#### [Build your customer service skills](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-customer-service-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,14 +117,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1)
 > **Warnings:** troubleshoot (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - if (1)
 
-#### Make customer service easy: Standard operating procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/make-customer-service-easy-standard-operating-procedures?u=76281980)
+#### [Make customer service easy: Standard operating procedures](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/make-customer-service-easy-standard-operating-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -171,7 +168,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), teams (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - ask (1)
@@ -181,8 +177,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore a model for common sense customer service
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/explore-a-model-for-common-sense-customer-service?u=76281980)
+#### [Explore a model for common sense customer service](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/explore-a-model-for-common-sense-customer-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -268,15 +263,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Ports:** :00 (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - there (1)
 
-#### How to respond when the customer is right
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/how-to-respond-when-the-customer-is-right?u=76281980)
+#### [How to respond when the customer is right](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/how-to-respond-when-the-customer-is-right?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -338,13 +331,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Speakers:** - let (1)
 
-#### What to do (or say) when the customer is wrong
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/what-to-do-or-say-when-the-customer-is-wrong?u=76281980)
+#### [What to do (or say) when the customer is wrong](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/what-to-do-or-say-when-the-customer-is-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -396,7 +387,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), business (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
@@ -408,8 +398,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diagnose a customer's concerns as the first step
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/diagnose-a-customer-s-concerns-as-the-first-step?u=76281980)
+#### [Diagnose a customer's concerns as the first step](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/diagnose-a-customer-s-concerns-as-the-first-step?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/diagnose-a-customer-s-concerns-as-the-first-step?u=76281980&t=2)** You're having some chest pains and so you decide to see your local doctor.
 >
-> **[0:06](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/diagnose-a-customer-s-concerns-as-the-first-step?u=76281980&t=6)** You spend 10 or 15 minutes in the waiting room and you finally make your way into the office.
+> **[0:06](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/diagnose-a-customer-s-concerns-as-the-first-step?u=76281980&t=6)** You spend 10 or 15 minutes in the waiting room and you finally make your way into the [[Microsoft Office|office]].
 >
 > **[0:10](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/diagnose-a-customer-s-concerns-as-the-first-step?u=76281980&t=10)** You wait another 10 minutes and finally the doctor walks in.
 >
@@ -481,19 +470,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Office|Office]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - think (1)
 
-#### Listen and listen carefully
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/listen-and-listen-carefully?u=76281980)
+#### [Listen and listen carefully](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/listen-and-listen-carefully?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/listen-and-listen-carefully?u=76281980&t=0)** - Listening sounds a lot easier than it is.
 >
-> **[0:03](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/listen-and-listen-carefully?u=76281980&t=3)** Recently, I was using the live chat customer support function from a business that I actually really like.
+> **[0:03](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/listen-and-listen-carefully?u=76281980&t=3)** Recently, I was using the live chat [[Customer Support]] function from a business that I actually really like.
 >
 > **[0:09](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/listen-and-listen-carefully?u=76281980&t=9)** We were having a good discussion when the guy finally said Okay, Doug, let me see if this is your problem.
 >
@@ -559,13 +547,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - listening (1)
 
-#### Validate the client's concerns: Three steps for success
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/validate-the-client-s-concerns-three-steps-for-success?u=76281980)
+#### [Validate the client's concerns: Three steps for success](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/validate-the-client-s-concerns-three-steps-for-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -575,7 +562,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/validate-the-client-s-concerns-three-steps-for-success?u=76281980&t=9)** I just experienced this the other day.
 >
-> **[0:12](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/validate-the-client-s-concerns-three-steps-for-success?u=76281980&t=12)** I honestly couldn't tell if I was talking to some sort of artificial intelligence robot or a real person, but it seemed like they couldn't care about what I was saying.
+> **[0:12](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/validate-the-client-s-concerns-three-steps-for-success?u=76281980&t=12)** I honestly couldn't tell if I was talking to some sort of [[Artificial Intelligence (AI)|artificial intelligence]] robot or a real person, but it seemed like they couldn't care about what I was saying.
 >
 > **[0:20](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/validate-the-client-s-concerns-three-steps-for-success?u=76281980&t=20)** I had to keep repeating my issue until I finally just gave up.
 >
@@ -641,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** it's like (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - one (1)
@@ -651,8 +638,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calming down angry and upset customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/calming-down-angry-and-upset-customers?u=76281980)
+#### [Calming down angry and upset customers](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/calming-down-angry-and-upset-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -730,7 +716,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/calming-down-angry-and-upset-customers?u=76281980&t=143)** Now, if you can't do anything right now, tell the customer how you'll follow up.
 >
-> **[2:27](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/calming-down-angry-and-upset-customers?u=76281980&t=147)** Give them a specific date and time and make sure that you keep your word.
+> **[2:27](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/calming-down-angry-and-upset-customers?u=76281980&t=147)** Give them a specific date and time and make sure that you keep your [[Microsoft Word|word]].
 >
 > **[2:32](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/calming-down-angry-and-upset-customers?u=76281980&t=152)** I hope you can see that it's possible for us all to be an angry, disgruntled, and very upset customer.
 >
@@ -750,13 +736,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
 > **Speakers:** - [narrator] (1)
 
-#### Give the customer options in unique situations
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/give-the-customer-options-in-unique-situations?u=76281980)
+#### [Give the customer options in unique situations](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/give-the-customer-options-in-unique-situations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,14 +805,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - customer (1)
 
-#### Communicate bad news with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/communicate-bad-news-with-customers?u=76281980)
+#### [Communicate bad news with customers](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/communicate-bad-news-with-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -841,7 +824,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/communicate-bad-news-with-customers?u=76281980&t=20)** Try to avoid using email to deliver bad news, don't text.
 >
-> **[0:25](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/communicate-bad-news-with-customers?u=76281980&t=25)** Pick up the phone, go see the customer, set up a Zoom session.
+> **[0:25](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/communicate-bad-news-with-customers?u=76281980&t=25)** Pick up the phone, go see the customer, set up a [[Zoom]] session.
 >
 > **[0:30](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/communicate-bad-news-with-customers?u=76281980&t=30)** Being able to make eye contact and show the customer you care is incredibly important.
 >
@@ -881,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), next (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - here (1)
@@ -891,8 +874,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Maintain your mindset during stressful times
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/maintain-your-mindset-during-stressful-times?u=76281980)
+#### [Maintain your mindset during stressful times](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/maintain-your-mindset-during-stressful-times?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -948,17 +930,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), business (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - sometimes (1)
 
-#### Build your own customer service playbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-own-customer-service-playbook?u=76281980)
+#### [Build your own customer service playbook](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-own-customer-service-playbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-own-customer-service-playbook?u=76281980&t=0)** - Look up in the building you're in right now, especially if you're in an office building.
+> **[0:00](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-own-customer-service-playbook?u=76281980&t=0)** - Look up in the building you're in right now, especially if you're in an [[Microsoft Office|office]] building.
 >
 > **[0:05](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-own-customer-service-playbook?u=76281980&t=5)** You'll likely see fire sprinklers.
 >
@@ -1020,11 +1000,11 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-own-customer-service-playbook?u=76281980&t=150)** Show your customers that you care by following up and completing the things you've told them that you would complete.
 >
-> **[2:36](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-own-customer-service-playbook?u=76281980&t=156)** If your company doesn't already have any specific tools in place, this is a really powerful way to put together a simple playbook that will help you excel in all customer service-related challenges.
+> **[2:36](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-own-customer-service-playbook?u=76281980&t=156)** If your company doesn't already have any specific tools in place, this is a really powerful way to put together a simple playbook that will help you [[Microsoft Excel|excel]] in all customer service-related challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), business (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1035,8 +1015,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Being strong at problem-solving and troubleshooting
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/being-strong-at-problem-solving-and-troubleshooting?u=76281980)
+#### [Being strong at problem-solving and troubleshooting](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/being-strong-at-problem-solving-and-troubleshooting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,7 +1041,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/being-strong-at-problem-solving-and-troubleshooting?u=76281980&t=61)** I think all of these are really easy reads and will be extremely helpful in improving your customer service efforts.
 >
-> **[1:07](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/being-strong-at-problem-solving-and-troubleshooting?u=76281980&t=67)** Next, you'll want to check out my other courses on these topics in the LinkedIn Learning library.
+> **[1:07](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/being-strong-at-problem-solving-and-troubleshooting?u=76281980&t=67)** Next, you'll want to check out my other courses on these topics in the [[LinkedIn]] Learning library.
 >
 > **[1:12](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/being-strong-at-problem-solving-and-troubleshooting?u=76281980&t=72)** Happy customers really are the key to a successful business.
 >
@@ -1074,7 +1053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Troubleshooting]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)

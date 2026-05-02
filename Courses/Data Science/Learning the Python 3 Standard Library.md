@@ -96,14 +96,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make writing Python easier with Python standard libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980)
+#### [Make writing Python easier with Python standard libraries](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980&t=0)** - Sometimes we try to create these complex algorithms without realizing how much is already built into the program we're using.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980&t=0)** - Sometimes we try to create these complex [[Algorithms]] without realizing how much is already built into the program we're using.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980&t=7)** Python is known for being concise and elegant, and in this course, I'm going to show you how to make writing Python code a little easier.
+> **[0:07](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980&t=7)** [[Python (Programming Language)|Python]] is known for being concise and elegant, and in this course, I'm going to show you how to make writing Python code a little easier.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980&t=15)** Hi, I'm Kathryn Hodge and I'm a software engineer who's super passionate about computer science.
 >
@@ -118,20 +117,19 @@ created: 2026-05-02
 > **Env Vars:** http (1)
 > **Speakers:** - sometimes (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980&t=0)** - [Instructor] Here's what you should know for the course.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980&t=2)** You should know how to use control flow statements like if-else statements, for loops, while loops.
+> **[0:02](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980&t=2)** You should know how to use [[Control Flow]] statements like if-else statements, for loops, while loops.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980&t=7)** You should be comfortable with these and using them in your applications.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980&t=11)** You should also be comfortable with lists, tuples, dictionaries, and other basic data structures.
+> **[0:11](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980&t=11)** You should also be comfortable with lists, tuples, dictionaries, and other basic [[Data Structures]].
 >
-> **[0:17](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980&t=17)** For some of the things built into the Python standard library, it'll be useful to know some basic mathematical and statistical concepts such as minimum, maximum, absolute value, range.
+> **[0:17](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980&t=17)** For some of the things built into the [[Python (Programming Language)|Python]] standard library, it'll be useful to know some basic mathematical and statistical concepts such as minimum, maximum, absolute value, range.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-the-python-3-standard-library/what-you-need-to-know-14505436?u=76281980&t=27)** And it's also important that you know how to run your Python files.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Control Flow]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Control Flow]] (1), [[Data Structures]] (1)
 > **CLI Commands:** python (5)
 > **Tools:** pycharm (2), command line (1)
 > **Versions:** python 3 (2)
@@ -166,8 +164,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/using-exercise-files-14501465?u=76281980)
+#### [Using exercise files](https://www.linkedin.com/learning/learning-the-python-3-standard-library/using-exercise-files-14501465?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-the-python-3-standard-library/using-exercise-files-14501465?u=76281980&t=19)** And inside of that, you'll find the individual files that I used with the start and finish dates.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-the-python-3-standard-library/using-exercise-files-14501465?u=76281980&t=25)** Because these are Python files, you can open them with any code editor you'd like.
+> **[0:25](https://www.linkedin.com/learning/learning-the-python-3-standard-library/using-exercise-files-14501465?u=76281980&t=25)** Because these are [[Python (Programming Language)|Python]] files, you can open them with any code editor you'd like.
 
 > [!info]- Semantic Content
 >
@@ -190,14 +187,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/how-to-use-coderpad?u=76281980)
+#### [How to use CoderPad](https://www.linkedin.com/learning/learning-the-python-3-standard-library/how-to-use-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/how-to-use-coderpad?u=76281980&t=0)** - [Instructor] These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-the-python-3-standard-library/how-to-use-coderpad?u=76281980&t=8)** We recommend using a desktop browser for the best experience, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:08](https://www.linkedin.com/learning/learning-the-python-3-standard-library/how-to-use-coderpad?u=76281980&t=8)** We recommend using a desktop browser for the best experience, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-the-python-3-standard-library/how-to-use-coderpad?u=76281980&t=15)** The code challenge has four main areas, instructions, a console for output, a code editor for your answer in the top right, and another code editor where you can see how your code is used.
 >
@@ -237,21 +233,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** show_expected_results (1), show_hints (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python standard library introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-standard-library-introduction-14503483?u=76281980)
+#### [Python standard library introduction](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-standard-library-introduction-14503483?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-standard-library-introduction-14503483?u=76281980&t=0)** - [Instructor] Standard Libraries are available for a variety of languages, including Java, Objective-C, C++, so it's important to know what exactly a Standard Library is.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-standard-library-introduction-14503483?u=76281980&t=0)** - [Instructor] Standard Libraries are available for a variety of languages, including [[Java]], Objective-C, C++, so it's important to know what exactly a Standard Library is.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-standard-library-introduction-14503483?u=76281980&t=10)** So a Standard Library is a library that can be used on any machine where you have an application using the specific language.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-standard-library-introduction-14503483?u=76281980&t=17)** And so here, our specific language will be Python and the Standard Libraries are going to have a bunch of functions that we can use in our code.
+> **[0:17](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-standard-library-introduction-14503483?u=76281980&t=17)** And so here, our specific language will be [[Python (Programming Language)|Python]] and the Standard Libraries are going to have a bunch of functions that we can use in our code.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-standard-library-introduction-14503483?u=76281980&t=25)** And so, the Python Standard Library has two things, built-in functions and built-in, but imported modules.
 >
@@ -299,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Java]] (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Java]] (1)
 > **CLI Commands:** python (5)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -311,8 +306,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Logical operators: And, or, not
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/logical-operators-and-or-not-14504431?u=76281980)
+#### [Logical operators: And, or, not](https://www.linkedin.com/learning/learning-the-python-3-standard-library/logical-operators-and-or-not-14504431?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,7 +456,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), [[Programming]] (1)
 > **Code Identifiers:** israining (11), issunny (7), isadult (3)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), is a  (1)
@@ -470,8 +463,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [woman] (1)
 
-#### Comparison operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/comparison-operators-14507480?u=76281980)
+#### [Comparison operators](https://www.linkedin.com/learning/learning-the-python-3-standard-library/comparison-operators-14507480?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -553,8 +545,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Calculating length
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-length-14507490?u=76281980)
+#### [Calculating length](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-length-14507490?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -576,7 +567,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-length-14507490?u=76281980&t=38)** We can also use this for the last name.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-length-14507490?u=76281980&t=40)** And so we'll say last name equals "Swift," then we'll go "print, len," again printing out the length of the last name here.
+> **[0:40](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-length-14507490?u=76281980&t=40)** And so we'll say last name equals "[[Swift (Programming Language)|Swift]]," then we'll go "print, len," again printing out the length of the last name here.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-length-14507490?u=76281980&t=50)** And "Swift" has five characters and that's why we get five characters in the output.
 >
@@ -590,7 +581,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-length-14507490?u=76281980&t=71)** Now, since this is a built-in function, we can use different types of data as input.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-length-14507490?u=76281980&t=75)** And so let's try it for official lists in Python.
+> **[1:15](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-length-14507490?u=76281980&t=75)** And so let's try it for official lists in [[Python (Programming Language)|Python]].
 >
 > **[1:19](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-length-14507490?u=76281980&t=79)** Create another variable called "ages," and we'll just have some ages in here.
 >
@@ -650,14 +641,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Swift (Programming Language)|Swift]] (2), [[Python (Programming Language)|Python]] (1), hit (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** firstname (1)
 > **Speakers:** - [instructor] (1)
 
-#### Range and list
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/range-and-list-14506480?u=76281980)
+#### [Range and list](https://www.linkedin.com/learning/learning-the-python-3-standard-library/range-and-list-14506480?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,13 +713,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1)
 > **Code Identifiers:** numberedcontestants (2), luckywinners (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Min and max
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/min-and-max-14506485?u=76281980)
+#### [Min and max](https://www.linkedin.com/learning/learning-the-python-3-standard-library/min-and-max-14506485?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +727,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-the-python-3-standard-library/min-and-max-14506485?u=76281980&t=9)** So say you're given zero, five, eight while your lowest item would be zero and your greatest eight.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-the-python-3-standard-library/min-and-max-14506485?u=76281980&t=15)** Well, we can do this exact thing with Python.
+> **[0:15](https://www.linkedin.com/learning/learning-the-python-3-standard-library/min-and-max-14506485?u=76281980&t=15)** Well, we can do this exact thing with [[Python (Programming Language)|Python]].
 >
 > **[0:19](https://www.linkedin.com/learning/learning-the-python-3-standard-library/min-and-max-14506485?u=76281980&t=19)** So let's say we want to calculate the winner of a given game.
 >
@@ -807,7 +795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** playeronescore (4), playertwo (3), playertwoscore (3), playerone (2), playerthreescore (2)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** python (1)
@@ -815,8 +803,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rounding, absolute value, and exponents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/rounding-absolute-value-and-exponents-14505437?u=76281980)
+#### [Rounding, absolute value, and exponents](https://www.linkedin.com/learning/learning-the-python-3-standard-library/rounding-absolute-value-and-exponents-14505437?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,7 +815,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-the-python-3-standard-library/rounding-absolute-value-and-exponents-14505437?u=76281980&t=14)** The number will be rounded down, or if the first decimal digit is five or above, then the number will be rounded up.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-the-python-3-standard-library/rounding-absolute-value-and-exponents-14505437?u=76281980&t=21)** This may be different on your computer, depending on what version of Python you're using.
+> **[0:21](https://www.linkedin.com/learning/learning-the-python-3-standard-library/rounding-absolute-value-and-exponents-14505437?u=76281980&t=21)** This may be different on your computer, depending on what version of [[Python (Programming Language)|Python]] you're using.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-the-python-3-standard-library/rounding-absolute-value-and-exponents-14505437?u=76281980&t=27)** Going into the code, let's say we create a variable called my GPA and we're going to have it equal 3.6.
 >
@@ -862,7 +849,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/learning-the-python-3-standard-library/rounding-absolute-value-and-exponents-14505437?u=76281980&t=108)** And this is going to revert to negative one because that's what this number is closest to.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-the-python-3-standard-library/rounding-absolute-value-and-exponents-14505437?u=76281980&t=113)** We could also do this with Google.
+> **[1:53](https://www.linkedin.com/learning/learning-the-python-3-standard-library/rounding-absolute-value-and-exponents-14505437?u=76281980&t=113)** We could also do this with [[Google]].
 >
 > **[1:55](https://www.linkedin.com/learning/learning-the-python-3-standard-library/rounding-absolute-value-and-exponents-14505437?u=76281980&t=115)** We could say Google equals -1.6%, and we could print out this rounded value.
 >
@@ -948,15 +935,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Google]] (2), power (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Google]] (2)
 > **Versions:** 2.5 (3), 1.2 (2), 0.5 (2), 3.6 (1), 1.4 (1)
 > **Definitions:** is a  (4), is called (1), stands for (1)
 > **Env Vars:** gpa (3), abs (2)
 > **CLI Commands:** python (3), make (1)
 > **Speakers:** - let (1)
 
-#### Sorted function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/sorted-function-14501467?u=76281980)
+#### [Sorted function](https://www.linkedin.com/learning/learning-the-python-3-standard-library/sorted-function-14501467?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1098,19 +1084,18 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/learning-the-python-3-standard-library/sorted-function-14501467?u=76281980&t=392)** So why would we use the sorted function?
 >
-> **[6:34](https://www.linkedin.com/learning/learning-the-python-3-standard-library/sorted-function-14501467?u=76281980&t=394)** Well, it's a super easy way to organize or sort your data in Python code.
+> **[6:34](https://www.linkedin.com/learning/learning-the-python-3-standard-library/sorted-function-14501467?u=76281980&t=394)** Well, it's a super easy way to organize or sort your data in [[Python (Programming Language)|Python]] code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (8), data (4), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Env Vars:** jkc (2), ckl (1), abc (1)
 > **Definitions:** is an  (2), is a  (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/type-functions-14503479?u=76281980)
+#### [Type functions](https://www.linkedin.com/learning/learning-the-python-3-standard-library/type-functions-14503479?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1228,13 +1213,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Definitions:** is a  (8), is an  (5)
 > **Cross-References:** previous video (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Count valid numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-count-valid-numbers?u=76281980)
+#### [Solution: Count valid numbers](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-count-valid-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1274,12 +1257,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Trigonometry, ceiling, floor, and constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/trigonometry-ceiling-floor-and-constants-14507479?u=76281980)
+#### [Trigonometry, ceiling, floor, and constants](https://www.linkedin.com/learning/learning-the-python-3-standard-library/trigonometry-ceiling-floor-and-constants-14507479?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/trigonometry-ceiling-floor-and-constants-14507479?u=76281980&t=0)** - [Instructor] Modules are built into Python, but we must import each module we want to use.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/trigonometry-ceiling-floor-and-constants-14507479?u=76281980&t=0)** - [Instructor] Modules are built into [[Python (Programming Language)|Python]], but we must import each module we want to use.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-python-3-standard-library/trigonometry-ceiling-floor-and-constants-14507479?u=76281980&t=5)** By built-in, we mean that we don't have to download anything extra from the internet to use it.
 >
@@ -1371,7 +1353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Versions:** 10.3 (3), 47.9 (2), 0.3 (1)
 > **Definitions:** stands for (2), is a  (1)
 > **CLI Commands:** python (1)
@@ -1380,8 +1362,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Analogies:** imagine (1)
 
-#### Factorial, square root, and GCD
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/factorial-square-root-and-gcd-14500538?u=76281980)
+#### [Factorial, square root, and GCD](https://www.linkedin.com/learning/learning-the-python-3-standard-library/factorial-square-root-and-gcd-14500538?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1405,7 +1386,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-the-python-3-standard-library/factorial-square-root-and-gcd-14500538?u=76281980&t=45)** And the square root of 64 is 8, and that's what we get in the output.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-the-python-3-standard-library/factorial-square-root-and-gcd-14500538?u=76281980&t=51)** Another thing Python can do is help us find the greatest common denominator between two numbers.
+> **[0:51](https://www.linkedin.com/learning/learning-the-python-3-standard-library/factorial-square-root-and-gcd-14500538?u=76281980&t=51)** Another thing [[Python (Programming Language)|Python]] can do is help us find the greatest common denominator between two numbers.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-the-python-3-standard-library/factorial-square-root-and-gcd-14500538?u=76281980&t=57)** The name of the method we use is GCD, and GCD stands for greatest common denominator.
 >
@@ -1485,8 +1466,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python random module
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-random-module?u=76281980)
+#### [Python random module](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-random-module?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1590,7 +1570,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-random-module?u=76281980&t=319)** Here, we have the Ace in the middle, the Queen at the end, so it did shuffle the cards.
 >
-> **[5:24](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-random-module?u=76281980&t=324)** Shuffled them again, keep shuffling them, and there is the odd case where it might be the same as the input, but usually it's going to be completely shuffled because the probability of it being the same is very low.
+> **[5:24](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-random-module?u=76281980&t=324)** Shuffled them again, keep shuffling them, and there is the odd case where it might be the same as the input, but usually it's going to be completely shuffled because the [[Probability]] of it being the same is very low.
 >
 > **[5:36](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-random-module?u=76281980&t=336)** So why is the random module useful?
 >
@@ -1604,19 +1584,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Env Vars:** heads (4), tails (4)
 > **CLI Commands:** cat (6), make (1)
 > **Code Identifiers:** lotterywinners (2), possiblepets (2), if_decider (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating statistics with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-statistics-with-python-14506484?u=76281980)
+#### [Calculating statistics with Python](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-statistics-with-python-14506484?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-statistics-with-python-14506484?u=76281980&t=0)** - [Instructor] The statistics module allows us to calculate some common statistics, like the mean, mode, standard deviation, et cetera, but it also allows us to do some more complicated things as well.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-statistics-with-python-14506484?u=76281980&t=0)** - [Instructor] The [[Statistics]] module allows us to calculate some common statistics, like the mean, mode, standard deviation, et cetera, but it also allows us to do some more complicated things as well.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-statistics-with-python-14506484?u=76281980&t=11)** So to start off, we'll go import statistics to import this module, and we're going to create some data.
 >
@@ -1722,7 +1701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Statistics]] (15)
+> **Frameworks & Libraries:** [[Statistics]] (15)
 > **Code Identifiers:** agesdata (4)
 > **Versions:** 2.33333 (1), 11.7779 (1), 0.5 (1), 1.8 (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -1730,8 +1709,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterators with itertools: Infinite processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-infinite-processes-14507482?u=76281980)
+#### [Iterators with itertools: Infinite processes](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-infinite-processes-14507482?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,7 +1755,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-infinite-processes-14507482?u=76281980&t=152)** And so if we go ahead and run this, we get RACECAR, RACECAR, until it ends at 50 and we've printed out 50 letters.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-infinite-processes-14507482?u=76281980&t=163)** Here, I don't have a semi-colon and semi-columns are not necessary in Python, so feel free to not include them.
+> **[2:43](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-infinite-processes-14507482?u=76281980&t=163)** Here, I don't have a semi-colon and semi-columns are not necessary in [[Python (Programming Language)|Python]], so feel free to not include them.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-infinite-processes-14507482?u=76281980&t=169)** I just include them because they're used in a lot of other languages.
 >
@@ -1809,19 +1787,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** x_in (1), c_in (1), r_in (1)
 > **Env Vars:** racecar (3)
 > **CLI Commands:** python (1)
 > **Versions:** go 1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterators with itertools: Permutations and combinations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-permutations-and-combinations-14506478?u=76281980)
+#### [Iterators with itertools: Permutations and combinations](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-permutations-and-combinations-14506478?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-permutations-and-combinations-14506478?u=76281980&t=0)** - [Instructor] We can also calculate permutations and combinations in Python using the editor tools module.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-permutations-and-combinations-14506478?u=76281980&t=0)** - [Instructor] We can also calculate permutations and combinations in [[Python (Programming Language)|Python]] using the editor tools module.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterators-with-itertools-permutations-and-combinations-14506478?u=76281980&t=6)** So starting with permutations, a permutation is a way in which a set or a number of things can be ordered or arranged.
 >
@@ -1919,7 +1896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** colorsforpainting (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1927,12 +1904,11 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Calculate hypotenuse
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-calculate-hypotenuse?u=76281980)
+#### [Solution: Calculate hypotenuse](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-calculate-hypotenuse?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-calculate-hypotenuse?u=76281980&t=0)** - [Instructor] Let's calculate the hypotenuse of a triangle using Python.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-calculate-hypotenuse?u=76281980&t=0)** - [Instructor] Let's calculate the hypotenuse of a triangle using [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-calculate-hypotenuse?u=76281980&t=4)** In our function, we're given two side lengths that represent two sides to a right angle triangle.
 >
@@ -1966,8 +1942,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Command-line arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/command-line-arguments-14506486?u=76281980)
+#### [Command-line arguments](https://www.linkedin.com/learning/learning-the-python-3-standard-library/command-line-arguments-14506486?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1983,7 +1958,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-the-python-3-standard-library/command-line-arguments-14506486?u=76281980&t=20)** The first is using the actual command line that comes with your Mac or PC.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-the-python-3-standard-library/command-line-arguments-14506486?u=76281980&t=25)** In the command line, all we have to do is write python to run the file and then the filename, which here is 03, there we go, and then we write whatever command line arguments we want to add, and so this is input from the user.
+> **[0:25](https://www.linkedin.com/learning/learning-the-python-3-standard-library/command-line-arguments-14506486?u=76281980&t=25)** In the command line, all we have to do is write [[Python (Programming Language)|python]] to run the file and then the filename, which here is 03, there we go, and then we write whatever command line arguments we want to add, and so this is input from the user.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-the-python-3-standard-library/command-line-arguments-14506486?u=76281980&t=40)** And so I could go 0 1 2 and those are my arguments.
 >
@@ -2089,7 +2064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Tools:** command line (14), terminal (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** ide (2)
@@ -2098,8 +2073,7 @@ created: 2026-05-02
 > **Code Identifiers:** for_arg (1)
 > **UI Navigation:** go to (1)
 
-#### Input and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/input-and-output-14506482?u=76281980)
+#### [Input and output](https://www.linkedin.com/learning/learning-the-python-3-standard-library/input-and-output-14506482?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2165,17 +2139,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), data (1)
 > **Cross-References:** previous video (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Files and file writing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/files-and-file-writing-14505439?u=76281980)
+#### [Files and file writing](https://www.linkedin.com/learning/learning-the-python-3-standard-library/files-and-file-writing-14505439?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/files-and-file-writing-14505439?u=76281980&t=0)** - [Instructor] Before we start messing with files in Python, we actually need to create a file.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/files-and-file-writing-14505439?u=76281980&t=0)** - [Instructor] Before we start messing with files in [[Python (Programming Language)|Python]], we actually need to create a file.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-python-3-standard-library/files-and-file-writing-14505439?u=76281980&t=4)** And so here, I'm going to go up to File, New, just creating a new file in this current directory or the Python file I'm running is, and I'm just going to call this new file scores.txt.
 >
@@ -2263,7 +2235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Code Identifiers:** myfile (8), myfile2 (2)
 > **File Paths:** scores.txt (8)
 > **Env Vars:** gbj (3), khd (2), bbb (1)
@@ -2272,8 +2244,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** stands for (1)
 
-#### File seeking in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/file-seeking-in-python-14506481?u=76281980)
+#### [File seeking in Python](https://www.linkedin.com/learning/learning-the-python-3-standard-library/file-seeking-in-python-14506481?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2299,7 +2270,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-the-python-3-standard-library/file-seeking-in-python-14506481?u=76281980&t=51)** In order to read it, we must set the seek pointer back to zero and go through the file again.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-the-python-3-standard-library/file-seeking-in-python-14506481?u=76281980&t=56)** We can do this with a function called seek, or we can close and reopen the file and our Python program, which will reset the seek pointer for us automatically.
+> **[0:56](https://www.linkedin.com/learning/learning-the-python-3-standard-library/file-seeking-in-python-14506481?u=76281980&t=56)** We can do this with a function called seek, or we can close and reopen the file and our [[Python (Programming Language)|Python]] program, which will reset the seek pointer for us automatically.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-the-python-3-standard-library/file-seeking-in-python-14506481?u=76281980&t=66)** Either way, say the seek pointer is back at zero, and we want to read the whole line we just wrote.
 >
@@ -2339,14 +2310,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterative files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterative-files-14507485?u=76281980)
+#### [Iterative files](https://www.linkedin.com/learning/learning-the-python-3-standard-library/iterative-files-14507485?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2412,19 +2382,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Env Vars:** bbb (5), pdj (3)
 > **Code Identifiers:** myfile (5)
 > **File Paths:** scores.txt (2)
 > **Cross-References:** in the last (1), go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tempfile module
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/tempfile-module?u=76281980)
+#### [Tempfile module](https://www.linkedin.com/learning/learning-the-python-3-standard-library/tempfile-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/tempfile-module?u=76281980&t=0)** - [Instructor] We can use the Tempfile Module to create temporary files in Python, but in order to use the Tempfile Module, we have to import it.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/tempfile-module?u=76281980&t=0)** - [Instructor] We can use the Tempfile Module to create temporary files in [[Python (Programming Language)|Python]], but in order to use the Tempfile Module, we have to import it.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-the-python-3-standard-library/tempfile-module?u=76281980&t=8)** And so to import it, we'll go import tempfile.
 >
@@ -2466,14 +2434,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** tempfile (5)
 > **CLI Commands:** python (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulate zip files in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/manipulate-zip-files-in-python-14502520?u=76281980)
+#### [Manipulate zip files in Python](https://www.linkedin.com/learning/learning-the-python-3-standard-library/manipulate-zip-files-in-python-14502520?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2517,7 +2484,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/learning-the-python-3-standard-library/manipulate-zip-files-in-python-14502520?u=76281980&t=137)** So with the Zipfile module, you kind of get a little bit of behind the scenes and what's in that zip file.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-the-python-3-standard-library/manipulate-zip-files-in-python-14502520?u=76281980&t=143)** We can also go through the different metadata that's in this zip folder, this zip file.
+> **[2:23](https://www.linkedin.com/learning/learning-the-python-3-standard-library/manipulate-zip-files-in-python-14502520?u=76281980&t=143)** We can also go through the different [[Metadata]] that's in this zip folder, this zip file.
 >
 > **[2:28](https://www.linkedin.com/learning/learning-the-python-3-standard-library/manipulate-zip-files-in-python-14502520?u=76281980&t=148)** And to do that, we can use a for loop.
 >
@@ -2561,7 +2528,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/learning-the-python-3-standard-library/manipulate-zip-files-in-python-14502520?u=76281980&t=266)** But there's a lot more you can do with that because you get access to this as a file f.
 >
-> **[4:32](https://www.linkedin.com/learning/learning-the-python-3-standard-library/manipulate-zip-files-in-python-14502520?u=76281980&t=272)** We can also extract files from the zipfile in Python code, and to do this, we can just go to zip.extract and we can just put the one file that we want to extract from the zip file, and so say it's purchased.txt, that's what we want to extract.
+> **[4:32](https://www.linkedin.com/learning/learning-the-python-3-standard-library/manipulate-zip-files-in-python-14502520?u=76281980&t=272)** We can also extract files from the zipfile in [[Python (Programming Language)|Python]] code, and to do this, we can just go to zip.extract and we can just put the one file that we want to extract from the zip file, and so say it's purchased.txt, that's what we want to extract.
 >
 > **[4:47](https://www.linkedin.com/learning/learning-the-python-3-standard-library/manipulate-zip-files-in-python-14502520?u=76281980&t=287)** we can go ahead and run this.
 >
@@ -2583,7 +2550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (8), data (2), application (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (8), [[Python (Programming Language)|Python]] (1)
 > **File Paths:** wishlist.txt (4), purchase.txt (3), purchased.txt (3)
 > **Exercise Files:** zip file (10)
 > **Cross-References:** go back to (4), previous video (1)
@@ -2592,12 +2559,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), go to (1)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Solution: Count words in a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-count-words-in-file?u=76281980)
+#### [Solution: Count words in a file](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-count-words-in-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-count-words-in-file?u=76281980&t=0)** - [Instructor] Let's count the words in a file using Python.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-count-words-in-file?u=76281980&t=0)** - [Instructor] Let's count the words in a file using [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-count-words-in-file?u=76281980&t=4)** In the sample code, we're given a helper method called create_file.
 >
@@ -2652,8 +2618,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting the current time with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/getting-the-current-time-with-python-14502518?u=76281980)
+#### [Getting the current time with Python](https://www.linkedin.com/learning/learning-the-python-3-standard-library/getting-the-current-time-with-python-14502518?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2715,12 +2680,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Formatting dates and times in Python with datetime
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/formatting-dates-and-times-in-python-with-datetime-14507489?u=76281980)
+#### [Formatting dates and times in Python with datetime](https://www.linkedin.com/learning/learning-the-python-3-standard-library/formatting-dates-and-times-in-python-with-datetime-14507489?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2772,7 +2735,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/learning-the-python-3-standard-library/formatting-dates-and-times-in-python-with-datetime-14507489?u=76281980&t=138)** And there it is.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-the-python-3-standard-library/formatting-dates-and-times-in-python-with-datetime-14507489?u=76281980&t=139)** Now, you won't need to remember all of these percent a and percent b values, as you can look them up anytime with documentation or Google, but knowing how to implement them and how we use them is exactly what we're doing here.
+> **[2:19](https://www.linkedin.com/learning/learning-the-python-3-standard-library/formatting-dates-and-times-in-python-with-datetime-14507489?u=76281980&t=139)** Now, you won't need to remember all of these percent a and percent b values, as you can look them up anytime with documentation or [[Google]], but knowing how to implement them and how we use them is exactly what we're doing here.
 >
 > **[2:34](https://www.linkedin.com/learning/learning-the-python-3-standard-library/formatting-dates-and-times-in-python-with-datetime-14507489?u=76281980&t=154)** In addition to days and months, we can also format time.
 >
@@ -2802,11 +2765,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), application (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating future times and Python calendar module
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-future-times-and-python-calendar-module?u=76281980)
+#### [Calculating future times and Python calendar module](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-future-times-and-python-calendar-module?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2822,7 +2784,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-future-times-and-python-calendar-module?u=76281980&t=30)** We can also look at past dates.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-future-times-and-python-calendar-module?u=76281980&t=32)** Say we do myFirstLinkedInCourse, and say you took your first LinkedIn course three weeks ago.
+> **[0:32](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-future-times-and-python-calendar-module?u=76281980&t=32)** Say we do myFirstLinkedInCourse, and say you took your first [[LinkedIn]] course three weeks ago.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-the-python-3-standard-library/calculating-future-times-and-python-calendar-module?u=76281980&t=40)** You can go now minus timedelta weeks equals three.
 >
@@ -2880,13 +2842,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), application (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** testdate (6), myfirstlinkedincourse (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create a timer with the Python time module
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/create-a-timer-with-the-python-time-module?u=76281980)
+#### [Create a timer with the Python time module](https://www.linkedin.com/learning/learning-the-python-3-standard-library/create-a-timer-with-the-python-time-module?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2946,16 +2907,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python HTML parser module
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980)
+#### [Python HTML parser module](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=0)** - [Instructor] Let's use the HTML Parson module to parser some HTML code in Python.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=0)** - [Instructor] Let's use the [[HTML]] Parson module to parser some HTML code in [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=5)** And so in order to parse HTML code, we have to import the HTML parser module, and so to do this, we'll go from html.parser, and from this parser we'll import the HTMLParser class.
 >
@@ -3007,7 +2966,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=265)** So say like as the user cause remember this is the console, this is what the user is going to interact with.
 >
-> **[4:30](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=270)** So say I wrote h1 [LinkedIn.com](https://LinkedIn.com), and then close that h1 tag.
+> **[4:30](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=270)** So say I wrote h1 [[[LinkedIn]].com](https://LinkedIn.com), and then close that h1 tag.
 >
 > **[4:38](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-html-parser-module?u=76281980&t=278)** There we go, it parses our tag dynamically for us depending on what we put in as the input.
 >
@@ -3039,7 +2998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (23), data (14), [[Python (Programming Language)|Python]] (3), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[HTML]] (23), [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (1)
 > **Env Vars:** html (20)
 > **Code Identifiers:** samplehtml (2), handle_starttag (1), handle_endtag (1), handle_comments (1), htmlfile (1)
 > **CLI Commands:** python (3), make (1)
@@ -3048,8 +3007,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Exercise Files:** exercise files (1)
 
-#### Text wrap module
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980)
+#### [Text wrap module](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3111,9 +3069,9 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980&t=202)** The last thing that we can do with the text wrap module is we can shorten text or abbreviate it in a certain way.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980&t=208)** We could have short = textwrap.shorten, so using the shorten method, write in some code here, [LinkedIn.com](https://LinkedIn.com) is great!
+> **[3:28](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980&t=208)** We could have short = textwrap.shorten, so using the shorten method, write in some code here, [[[LinkedIn]].com](https://LinkedIn.com) is great!
 >
-> **[3:43](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980&t=223)** We'll make the width, which is how many columns or how many characters that we're going to go until we replaced the rest with the placeholder, and that is going to be 15 here, and then we're going to go ahead and make the placeholder, which is going to be what comes after our 15 columns or our 15 characters, and we'll make that just .... And so we print this out, so we'll go ahead and run this.
+> **[3:43](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980&t=223)** We'll make the width, which is how many columns or how many characters that we're going to go until we replaced the [[Representational State Transfer (REST)|rest]] with the placeholder, and that is going to be 15 here, and then we're going to go ahead and make the placeholder, which is going to be what comes after our 15 columns or our 15 characters, and we'll make that just .... And so we print this out, so we'll go ahead and run this.
 >
 > **[4:07](https://www.linkedin.com/learning/learning-the-python-3-standard-library/text-wrap-module-14504433?u=76281980&t=247)** And we see that [LinkedIn.com](https://LinkedIn.com) goes 15 columns.
 >
@@ -3127,8 +3085,7 @@ created: 2026-05-02
 > **URLs:** [linkedin.com](https://linkedin.com) (2)
 > **Speakers:** - [instructor] (1)
 
-#### Python HTTP package and urllib and JSON modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980)
+#### [Python HTTP package and urllib and JSON modules](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3138,9 +3095,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980&t=7)** So we are going to import the sequestrable and this is just a class that we're going to use.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980&t=14)** Then we're going to import json and we're also going to import the textwrap module, and I'll explain how these fit in in a minute.
+> **[0:14](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980&t=14)** Then we're going to import [[JSON]] and we're also going to import the textwrap module, and I'll explain how these fit in in a minute.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980&t=24)** But in this video, we are going to use the Google Books API.
+> **[0:24](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980&t=24)** But in this video, we are going to use the [[Google]] Books API.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980&t=27)** And so what's going to happen is we are going to give Google Books an ISBN number and then it's going to take that ISBN number and get some data on that specific book.
 >
@@ -3172,7 +3129,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980&t=131)** And we can actually go to this link and that's exactly what we'll see.
 >
-> **[2:14](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980&t=134)** So if we go ahead and copy this and put it into our browser, paste it here, this is exactly what was printed out to us in the console in our Python.
+> **[2:14](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980&t=134)** So if we go ahead and copy this and put it into our browser, paste it here, this is exactly what was printed out to us in the console in our [[Python (Programming Language)|Python]].
 >
 > **[2:25](https://www.linkedin.com/learning/learning-the-python-3-standard-library/python-http-package-and-urllib-and-json-modules?u=76281980&t=145)** And so now we have access to this JSON object.
 >
@@ -3260,7 +3217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (8), api (6), [[Google]] (4), data (4), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Google]] (4), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** api (6), json (6), isbn (4), url (4), utf (1)
 > **Code Identifiers:** searchinfo (6), textsnippet (4)
 > **CLI Commands:** python (3), make (1), find (1)
@@ -3269,12 +3226,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Solution: Add Fractions with Fraction Module
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-add-fractions-with-fractions-module?u=76281980)
+#### [Solution: Add Fractions with Fraction Module](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-add-fractions-with-fractions-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-add-fractions-with-fractions-module?u=76281980&t=0)** - [Instructor] Let's add fractions in Python.
+> **[0:00](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-add-fractions-with-fractions-module?u=76281980&t=0)** - [Instructor] Let's add fractions in [[Python (Programming Language)|Python]].
 >
 > **[0:02](https://www.linkedin.com/learning/learning-the-python-3-standard-library/solution-add-fractions-with-fractions-module?u=76281980&t=2)** In the function, we're given the numerator and denominator for two fractions.
 >
@@ -3304,7 +3260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -3314,8 +3270,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add these built-in functions to your own applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980)
+#### [Add these built-in functions to your own applications](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3323,17 +3278,17 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980&t=3)** From here, try using some of the built-in functions and modules in your own applications.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980&t=8)** Whether it's using the statistics module for math or the input and output functions for interaction, you'll soon find out that these tools really come in handy.
+> **[0:08](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980&t=8)** Whether it's using the [[Statistics]] module for math or the input and output functions for interaction, you'll soon find out that these tools really come in handy.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980&t=17)** Personally, my first Python project was creating a Mad Libs application, and the possibilities with Python are truly endless.
+> **[0:17](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980&t=17)** Personally, my first [[Python (Programming Language)|Python]] project was creating a Mad Libs application, and the possibilities with Python are truly endless.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980&t=24)** If you're interested in data science and a budding software engineer, you'll definitely want to check out more of the Python courses in the library.
+> **[0:24](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980&t=24)** If you're interested in [[Data Science]] and a budding software engineer, you'll definitely want to check out more of the Python courses in the library.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980&t=31)** Good luck, and until next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Statistics]] (1), application (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Statistics]] (1), [[Data Science]] (1)
 > **CLI Commands:** python (3), find (1)
 > **Speakers:** - congratulations (1)
 

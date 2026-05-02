@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get ready for AI imaging
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/get-ready-for-ai-imaging?u=76281980)
+#### [Get ready for AI imaging](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/get-ready-for-ai-imaging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,7 +122,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
@@ -133,8 +131,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980)
+#### [AI in action](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,17 +141,17 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=8)** Rather, I want to make certain we have a common understanding of the current state of AI imaging.
 >
-> **[0:14](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=14)** You access an AI imager such as DALL-E or MidJourney using a web browser.
+> **[0:14](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=14)** You access an AI imager such as [[DALL-E]] or [[Midjourney]] using a web browser.
 >
-> **[0:19](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=19)** Similarly, Stable Diffusion, which is the third of the big three AI imagers right now, can be accessed through a number of different websites, some of which are free, some of which use a tiered pricing structure.
+> **[0:19](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=19)** Similarly, [[Stable Diffusion]], which is the third of the big three AI imagers right now, can be accessed through a number of different websites, some of which are free, some of which use a tiered pricing structure.
 >
 > **[0:31](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=31)** However, Stable Diffusion is open source.
 >
 > **[0:34](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=34)** Because of that, it's finding its way onto a number of different additional platforms.
 >
-> **[0:39](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=39)** I'm currently running Stable Diffusion on a desktop Windows machine, and I access it via a web browser.
+> **[0:39](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=39)** I'm currently running Stable Diffusion on a desktop [[Windows]] machine, and I access it via a web browser.
 >
-> **[0:46](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=46)** You can also get standalone applications that run on Mac OS, Windows, iOS, Android.
+> **[0:46](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=46)** You can also get standalone applications that run on Mac OS, Windows, iOS, [[Android]].
 >
 > **[0:51](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=51)** These run in a dedicated application window like any other program.
 >
@@ -162,7 +159,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=64)** Since I can access it from a web browser, I can use it on any of my computers and devices, but with the performance of that fast GPU that I have in my PC.
 >
-> **[1:14](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=74)** Stable Diffusion needs a very high-end GPU to deliver the best performance, but the fact that we're already seeing this technology running at slow but usable speeds on modern devices points to a future where this will not be a specialized only-in-the-office tool.
+> **[1:14](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=74)** Stable Diffusion needs a very high-end GPU to deliver the best performance, but the fact that we're already seeing this technology running at slow but usable speeds on modern devices points to a future where this will not be a specialized only-in-the-[[Microsoft Office|office]] tool.
 >
 > **[1:30](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=90)** Workflows and processes that you build around these tools are already portable.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=105)** So, I could say, a person sitting on a park bench eating a sandwich.
 >
-> **[1:56](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=116)** I hit generate, and after a few seconds or minutes, depending on your hardware, I get this.
+> **[1:56](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=116)** I hit generate, and after a few seconds or minutes, depending on your [[Hardware]], I get this.
 >
 > **[2:02](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980&t=122)** Sure enough, that image fits my description.
 >
@@ -272,7 +269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Stable Diffusion]] (6), prompt (5), web (3), [[Windows]] (3)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (6), [[Windows]] (3), [[DALL-E]] (1), [[Midjourney]] (1), [[Android]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gpu (2), dall (1)
 > **Analogies:** such as (2), picture (1)
@@ -280,8 +277,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
-#### Applied AI imaging
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980)
+#### [Applied AI imaging](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,7 +303,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=79)** I'm thinking mostly about large size print workflows.
 >
-> **[1:23](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=83)** However, even if you can't use these systems to generate your particular final media, they're great for brainstorming, for playing around with image ideas and for some forms of pre-visualization.
+> **[1:23](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=83)** However, even if you can't use these systems to generate your particular final media, they're great for brainstorming, for playing around with image ideas and for some [[Forms]] of pre-visualization.
 >
 > **[1:35](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=95)** Maybe you're story boarding a video shoot at a car dealership and you're stuck for ideas.
 >
@@ -343,7 +339,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=191)** So you may find that a particular AI is weak at rendering specific things you need simply because it wasn't trained on many examples of that thing.
 >
-> **[3:20](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=200)** Stable Diffusion allows you to swap out the dataset that it uses.
+> **[3:20](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=200)** [[Stable Diffusion]] allows you to swap out the dataset that it uses.
 >
 > **[3:25](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=205)** Because Stable Diffusion is open source, there's a very active community of users who are creating models with specialized data.
 >
@@ -353,7 +349,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=222)** There are models that have particular visual styles.
 >
-> **[3:45](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=225)** Here's one that mimics the style of the Midjourney AI generator.
+> **[3:45](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=225)** Here's one that mimics the style of the [[Midjourney]] AI generator.
 >
 > **[3:49](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=229)** Here's one that makes paper cutouts.
 >
@@ -369,7 +365,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=259)** Different AIs sometimes have specific styles.
 >
-> **[4:22](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=262)** DALL-E is known for being more photorealistic.
+> **[4:22](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=262)** [[DALL-E]] is known for being more photorealistic.
 >
 > **[4:26](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=266)** Midjourney is known for creating images that fall into more of a fantasy vibe.
 >
@@ -385,7 +381,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=318)** Maybe you're someone who wants to give an idea for a trade show booth to an event coordinator.
 >
-> **[5:23](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=323)** Maybe you are an office manager with an idea on how to improve the conference room.
+> **[5:23](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=323)** Maybe you are an [[Microsoft Office|office]] manager with an idea on how to improve the conference room.
 >
 > **[5:27](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/applied-ai-imaging?u=76281980&t=327)** Maybe you're a corporate CEO with some ideas about a new corporate campus.
 >
@@ -395,14 +391,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Stable Diffusion]] (4), data (4), [[Midjourney]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (4), [[Midjourney]] (3), [[Forms]] (1), [[DALL-E]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dall (1), ceo (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### AI for people who hire creatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-for-people-who-hire-creatives?u=76281980)
+#### [AI for people who hire creatives](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-for-people-who-hire-creatives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,7 +407,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-for-people-who-hire-creatives?u=76281980&t=21)** See if this sounds familiar.
 >
-> **[0:23](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-for-people-who-hire-creatives?u=76281980&t=23)** You hire a photographer and you tell them you want an image of two office workers in business-casual attire, and you want the image to have a sort of Russian constructivist boldness.
+> **[0:23](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-for-people-who-hire-creatives?u=76281980&t=23)** You hire a photographer and you tell them you want an image of two [[Microsoft Office|office]] workers in business-casual attire, and you want the image to have a sort of Russian constructivist boldness.
 >
 > **[0:33](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-for-people-who-hire-creatives?u=76281980&t=33)** But what you get back doesn't match your idea at all, so you give some notes, and the photographer takes another go at it, and it's better, but it's still not quite right.
 >
@@ -504,21 +499,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), prompt (3), [[Microsoft Office|Office]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - if (1)
 
-#### What AI content generation is not
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980)
+#### [What AI content generation is not](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=0)** (pages flipping)
 >
-> **[0:03](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=3)** - Sometimes it's hard to find just the right word for what you want to express.
+> **[0:03](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=3)** - Sometimes it's hard to find just the right [[Microsoft Word|word]] for what you want to express.
 >
-> **[0:07](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=7)** I've been looking through this dictionary hoping to find a better term than artificial intelligence or AI.
+> **[0:07](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=7)** I've been looking through this dictionary hoping to find a better term than [[Artificial Intelligence (AI)|artificial intelligence]] or AI.
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=13)** I hate that term.
 >
@@ -554,7 +548,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=116)** And if they're banding about that AI term, and without realizing it, you are thinking it implies consciousness then you're not going to be able to evaluate these technologies in the right way.
 >
-> **[2:06](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=126)** For example, would you want an issue of medical ethics to be resolved by a system that is intelligent, not conscious?
+> **[2:06](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=126)** For example, would you want an issue of medical [[Ethics]] to be resolved by a system that is intelligent, not conscious?
 >
 > **[2:13](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=133)** Would you want military decisions made by a system that lacks consciousness?
 >
@@ -564,7 +558,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=144)** Some of you might be thinking that it's only a matter of time before we have artificial consciousness.
 >
-> **[2:28](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=148)** Back in 2014, I spent some time interviewing a neurologist about how human vision works.
+> **[2:28](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=148)** Back in 2014, I spent some time [[Interviewing]] a neurologist about how human vision works.
 >
 > **[2:33](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/what-ai-content-generation-is-not?u=76281980&t=153)** I'm a photography teacher.
 >
@@ -586,14 +580,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), ai (3), [[Microsoft Word|Word]] (2), express (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Microsoft Word|Word]] (2), [[Ethics]] (1), [[Interviewing]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
 
-#### How an AI Image generator works
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980)
+#### [How an AI Image generator works](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +594,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=8)** If you can't follow the math, any explanation of how an AI generator works is always going to have some holes in it, and will rely on a lot of metaphors that mostly make sense, but not always entirely.
 >
-> **[0:18](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=18)** What's more, the big three AI generators right now, DALL-E, Stable Diffusion and Midjourney, they each take different approaches to this problem.
+> **[0:18](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=18)** What's more, the big three AI generators right now, [[DALL-E]], [[Stable Diffusion]] and [[Midjourney]], they each take different approaches to this problem.
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=26)** Out there on the web you can find some very good detailed descriptions of how these individual systems work.
 >
@@ -613,7 +606,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=46)** This is a field of study that's been around since the late 1980s and early '90s.
 >
-> **[0:50](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=50)** And the simplest thing I can say about it is that neural networks are very, very good at learning to recognize patterns.
+> **[0:50](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=50)** And the simplest thing I can say about it is that [[Neural Networks]] are very, very good at learning to recognize patterns.
 >
 > **[0:57](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=57)** It turns out that if you can recognize patterns there's a lot you can do.
 >
@@ -629,7 +622,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=87)** The chatbot isn't actually using language it has no understanding of anything it's telling you.
 >
-> **[1:31](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=91)** It's just very good at predicting what the next word in a sentence should be at any time based on what it has recognized in sentences that it has seen before.
+> **[1:31](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=91)** It's just very good at predicting what the next [[Microsoft Word|word]] in a sentence should be at any time based on what it has recognized in sentences that it has seen before.
 >
 > **[1:40](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=100)** AI image generators are, obviously, completely dependent on good language modeling.
 >
@@ -637,7 +630,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=116)** That analysis, that training gives the AI the ability to associate specific text with specific images.
 >
-> **[2:03](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=123)** Because you usually access an AI image generator over the web, a lot of people seem to think that these systems work by gathering data from the web in real-time, they do not.
+> **[2:03](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=123)** Because you usually access an AI image generator over the web, a lot of people seem to think that these systems work by gathering data from the web in [[Real-Time]], they do not.
 >
 > **[2:14](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-an-ai-image-generator-works?u=76281980&t=134)** They are trained once off of a specific dataset and what they understand doesn't change until they're trained with a new set of data.
 >
@@ -687,21 +680,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (9), [[Stable Diffusion]] (3), web (3), [[Neural Networks]] (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (3), [[Neural Networks]] (2), [[DALL-E]] (1), [[Midjourney]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (2), means that (1), in other words (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** dall (1), gpt (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - writing (1)
 
-#### You might already be using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/you-might-already-be-using-ai?u=76281980)
+#### [You might already be using AI](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/you-might-already-be-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/you-might-already-be-using-ai?u=76281980&t=0)** - These days when you hear about AI you probably think about things like Dolly or Mid Journey or Stable Diffusion or other AI image generators, but bits and variations of this technology are already built into a lot of applications that you may be using now and they may already provide enough capability for you to be able to simplify a production workflow.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/you-might-already-be-using-ai?u=76281980&t=0)** - These days when you hear about AI you probably think about things like Dolly or Mid Journey or [[Stable Diffusion]] or other AI image generators, but bits and variations of this technology are already built into a lot of applications that you may be using now and they may already provide enough capability for you to be able to simplify a production workflow.
 >
-> **[0:22](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/you-might-already-be-using-ai?u=76281980&t=22)** Now, you may already be familiar with a bunch of these tools, but I want to talk about them because it's important for managers and other people who hire creatives who use this software to have an understanding of how AI is affecting content creation workflow.
+> **[0:22](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/you-might-already-be-using-ai?u=76281980&t=22)** Now, you may already be familiar with a bunch of these tools, but I want to talk about them because it's important for managers and other people who hire creatives who use this software to have an understanding of how AI is affecting [[Content Creation]] workflow.
 >
 > **[0:36](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/you-might-already-be-using-ai?u=76281980&t=36)** For the photographer, graphic designer, motion graphics creator, or pretty much anyone else who creates any kind of visual, Photoshop is probably the place where you are already using lots of machine learning technology.
 >
@@ -767,14 +759,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Stable Diffusion]] (1), [[Content Creation]] (1), power (1)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (1), [[Content Creation]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is an  (1), in other words (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - these (1)
 
-#### How can you add an AI media generator to your workflow?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-can-you-add-an-ai-media-generator-to-your-workflow?u=76281980)
+#### [How can you add an AI media generator to your workflow?](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/how-can-you-add-an-ai-media-generator-to-your-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -846,15 +837,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), prompt (5)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** don't forget (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### Is this actually legal?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980)
+#### [Is this actually legal?](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,7 +859,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=34)** However, given the money that has been invested in it, putting constraints on the AI tech that we already have isn't going to happen without a very long, very expensive legal battle, so I wouldn't worry too much about this right now.
 >
-> **[0:47](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=47)** [Shutterstock.com](https://Shutterstock.com) has announced a partnership with OpenAI the creators of DALL-E, to use that technology to give their customers the option to create AI images.
+> **[0:47](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=47)** [Shutterstock.com](https://Shutterstock.com) has announced a partnership with OpenAI the creators of [[DALL-E]], to use that technology to give their customers the option to create AI images.
 >
 > **[0:57](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=57)** There's a curious bit in their license, you must not use the generated image to infringe, misappropriate, or violate the intellectual property or other rights of any third party to generate spam, false, misleading, deceptive, harmful, or violent imagery.
 >
@@ -894,7 +883,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=130)** The owners of those images were not compensated for that.
 >
-> **[2:14](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=134)** Their images are not being directly copied and yet these products, in some cases, commercial products only exist because this training process was possible.
+> **[2:14](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=134)** Their images are not being directly copied and yet these [[Microsoft Products|products]], in some cases, commercial products only exist because this training process was possible.
 >
 > **[2:22](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/is-this-actually-legal?u=76281980&t=142)** Don't those original creators deserve some kind of cut?
 >
@@ -970,7 +959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Microsoft Products|Products]] (3), data (3), web (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[DALL-E]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [shutterstock.com](https://shutterstock.com) (1)
 > **Env Vars:** dall (1)
@@ -978,8 +967,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - whether (1)
 
-#### But is it art?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/but-is-it-art?u=76281980)
+#### [But is it art?](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/but-is-it-art?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,7 +1035,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/but-is-it-art?u=76281980&t=214)** It's just another tool in your pallette.
 >
-> **[3:37](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/but-is-it-art?u=76281980&t=217)** When graphic design shifted to computers, suddenly skill with press type and Exacto knives didn't matter anymore, but there were plenty of new skills that did.
+> **[3:37](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/but-is-it-art?u=76281980&t=217)** When [[Graphic Design]] shifted to computers, suddenly skill with press type and Exacto knives didn't matter anymore, but there were plenty of new skills that did.
 >
 > **[3:45](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/but-is-it-art?u=76281980&t=225)** If you really liked working with press type, yeah, that's gone and that's a shame, but there have been lots of new processes to get interested in.
 >
@@ -1067,7 +1055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Graphic Design]] (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** picture (1)
@@ -1078,8 +1066,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Some final thoughts on AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980)
+#### [Some final thoughts on AI](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,7 +1074,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980&t=6)** We were told there was an information superhighway that we could get on board.
 >
-> **[0:10](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980&t=10)** That phrase made its way into presidential campaigns, merchants of all kinds, software merchants, hardware merchants, political merchants.
+> **[0:10](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980&t=10)** That phrase made its way into presidential campaigns, merchants of all kinds, software merchants, [[Hardware]] merchants, political merchants.
 >
 > **[0:17](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980&t=17)** They all tried to sell us on this idea that the most valuable commodity and the most important technology was this newfangled information technology.
 >
@@ -1125,7 +1112,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980&t=119)** So if you're worried about AI and what might happen, I think you might be able to look at the last big revolution and see that it's never as simple as good or bad, advantage or disadvantage, helpful or harmful.
 >
-> **[2:12](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980&t=132)** I started this course by complaining about the term artificial intelligence.
+> **[2:12](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980&t=132)** I started this course by complaining about the term [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[2:15](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980&t=135)** But just as I said I would, I've been using that term throughout these movies because that's the term the AI merchants have sold me, and because we understandably view this technology as intelligent.
 >
@@ -1153,7 +1140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Hardware]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

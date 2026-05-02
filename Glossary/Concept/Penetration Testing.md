@@ -31,9 +31,9 @@ created: 2026-05-02
 
 1. [[Cybersecurity Careers- Become a Penetration Tester]] — 23 mentions
 2. [[Security Testing Essential Training (2022)]] — 16 mentions
-3. [[Cybersecurity Careers and Certifications]] — 9 mentions
-4. [[Dynamic Application Security Testing]] — 9 mentions
-5. [[Leveraging AI for Security Testing]] — 9 mentions
+3. [[Leveraging AI for Security Testing]] — 10 mentions
+4. [[Cybersecurity Careers and Certifications]] — 9 mentions
+5. [[Dynamic Application Security Testing]] — 9 mentions
 6. [[Kali Linux for Advanced Pen Testing and Ethical Hacking]] — 5 mentions
 7. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 5 mentions
 8. [[Advanced Pen Testing Techniques for Active Directory]] — 5 mentions
@@ -97,7 +97,7 @@ created: 2026-05-02
 3. [[Explore a Career in Application Security]] — 31 total mentions
 4. [[Strategies for Managing Vulnerabilities and Mitigating Cyber Risks]] — 21 total mentions
 5. [[Become an Ethical Hacker]] — 20 total mentions
-6. [[Develop Your AI Skills as a Cybersecurity Professional]] — 15 total mentions
+6. [[Develop Your AI Skills as a Cybersecurity Professional]] — 16 total mentions
 7. [[Become a Cybersecurity Professional]] — 12 total mentions
 8. [[Starting Your Career in Tech- Cybersecurity]] — 10 total mentions
 9. [[The IT Professional's Path to Cybersecurity]] — 6 total mentions

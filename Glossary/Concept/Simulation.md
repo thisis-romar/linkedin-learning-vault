@@ -17,7 +17,7 @@ tags:
   - topic/security
   - topic/cloud-computing
   - topic/artificial-intelligence
-course_count: 104
+course_count: 106
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Simulation
 
-> **Type:** Concept | **Courses:** 104 | **Topics:** [[Data Science]], [[Software Development]], [[Cybersecurity]], [[Cloud Computing]], [[Artificial Intelligence (AI)]]
+> **Type:** Concept | **Courses:** 106 | **Topics:** [[Data Science]], [[Software Development]], [[Cybersecurity]], [[Cloud Computing]], [[Artificial Intelligence (AI)]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Business Analytics Foundations- Predictive, Prescriptive, and Experimental Analytics]] — 10 mentions
 10. [[Digital Transformation in Supply Chains]] — 8 mentions
 
-> [!note]- See all 104 courses
+> [!note]- See all 106 courses
 > 11. [[Advanced Python in Excel for Finance- A Hands-On Approach]] — 8 mentions
 > 12. [[Certified Analytics Professional (CAP) Cert Prep]] — 7 mentions
 > 13. [[SOLIDWORKS 2024 Essential Training]] — 7 mentions
@@ -112,29 +112,31 @@ created: 2026-05-02
 > 79. [[Solution Sales]] — 1 mentions
 > 80. [[Leading A Marketing Team]] — 1 mentions
 > 81. [[Controlling Cost with Azure Management and Billing]] — 1 mentions
-> 82. [[AWS Essential Training for Architects]] — 1 mentions
-> 83. [[Machine Learning with Python- Foundations]] — 1 mentions
-> 84. [[Predictive Customer Analytics]] — 1 mentions
-> 85. [[AI Accountability- Build Responsible and Transparent Systems]] — 1 mentions
-> 86. [[AI in Business Essential Training]] — 1 mentions
-> 87. [[Artificial Intelligence Foundations- Machine Learning]] — 1 mentions
-> 88. [[Reinforcement Learning Foundations]] — 1 mentions
-> 89. [[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]] — 1 mentions
-> 90. [[Threat Modeling for AI-ML Systems]] — 1 mentions
-> 91. [[Artificial Intelligence Case Studies in Different Business Industries]] — 1 mentions
-> 92. [[Putting ITIL® into Practice- Problem Management Techniques]] — 1 mentions
-> 93. [[SQL Server- Reporting Services]] — 1 mentions
-> 94. [[Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment]] — 1 mentions
-> 95. [[Cert Prep- Unity Certified Associate Game Developer Scripting with C-]] — 1 mentions
-> 96. [[Cert Prep- Unity Certified Associate Game Developer Audio and Effects]] — 1 mentions
-> 97. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
-> 98. [[Python Data Structures and Algorithms]] — 1 mentions
-> 99. [[Build Advanced Charts in R]] — 1 mentions
-> 100. [[Learning Soldering for Electronics]] — 1 mentions
-> 101. [[Advanced Spring- Application Events]] — 1 mentions
-> 102. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
-> 103. [[The Cybersecurity Threat Landscape]] — 1 mentions
-> 104. [[Leading With A Digital Mindset In The Age Of Ai]] — 1 mentions
+> 82. [[Introduction To Quantum Computing]] — 1 mentions
+> 83. [[AWS Essential Training for Architects]] — 1 mentions
+> 84. [[Machine Learning with Python- Foundations]] — 1 mentions
+> 85. [[Predictive Customer Analytics]] — 1 mentions
+> 86. [[AI Accountability- Build Responsible and Transparent Systems]] — 1 mentions
+> 87. [[AI in Business Essential Training]] — 1 mentions
+> 88. [[Artificial Intelligence Foundations- Machine Learning]] — 1 mentions
+> 89. [[Reinforcement Learning Foundations]] — 1 mentions
+> 90. [[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]] — 1 mentions
+> 91. [[Threat Modeling for AI-ML Systems]] — 1 mentions
+> 92. [[Artificial Intelligence Case Studies in Different Business Industries]] — 1 mentions
+> 93. [[Putting ITIL® into Practice- Problem Management Techniques]] — 1 mentions
+> 94. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 1 mentions
+> 95. [[SQL Server- Reporting Services]] — 1 mentions
+> 96. [[Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment]] — 1 mentions
+> 97. [[Cert Prep- Unity Certified Associate Game Developer Scripting with C-]] — 1 mentions
+> 98. [[Cert Prep- Unity Certified Associate Game Developer Audio and Effects]] — 1 mentions
+> 99. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
+> 100. [[Python Data Structures and Algorithms]] — 1 mentions
+> 101. [[Build Advanced Charts in R]] — 1 mentions
+> 102. [[Learning Soldering for Electronics]] — 1 mentions
+> 103. [[Advanced Spring- Application Events]] — 1 mentions
+> 104. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
+> 105. [[The Cybersecurity Threat Landscape]] — 1 mentions
+> 106. [[Leading With A Digital Mindset In The Age Of Ai]] — 1 mentions
 
 ## Learning Paths
 
@@ -142,7 +144,7 @@ created: 2026-05-02
 2. [[Master Excel for Data Science]] — 28 total mentions
 3. [[Statistics Foundations Professional Certificate by Wolfram Research]] — 25 total mentions
 4. [[CISO Leadership- Managing a Cybersecurity Program]] — 21 total mentions
-5. [[Understanding Quantum Computing]] — 17 total mentions
+5. [[Understanding Quantum Computing]] — 18 total mentions
 6. [[Optimizing Enterprise Security and Productivity Using Microsoft 365]] — 15 total mentions
 7. [[Prepare for the Google Cloud Professional Machine Learning Engineer Certification]] — 14 total mentions
 8. [[Leverage AI as a Cybersecurity Analyst]] — 14 total mentions

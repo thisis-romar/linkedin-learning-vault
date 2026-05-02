@@ -95,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting a career in iOS development
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/starting-a-career-in-ios-development?u=76281980)
+#### [Starting a career in iOS development](https://www.linkedin.com/learning/ios-17-development-essential-training/starting-a-career-in-ios-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ios-17-development-essential-training/starting-a-career-in-ios-development?u=76281980&t=8)** And the great news is, reaching this massive user base by creating your own iOS apps has never been easier!
 >
-> **[0:15](https://www.linkedin.com/learning/ios-17-development-essential-training/starting-a-career-in-ios-development?u=76281980&t=15)** The purpose of this course is to help you learn the essentials of iOS development, even if you've never developed any kind of software before.
+> **[0:15](https://www.linkedin.com/learning/ios-17-development-essential-training/starting-a-career-in-ios-development?u=76281980&t=15)** The purpose of this course is to help you learn the essentials of [[iOS Development]], even if you've never developed any kind of software before.
 >
 > **[0:23](https://www.linkedin.com/learning/ios-17-development-essential-training/starting-a-career-in-ios-development?u=76281980&t=23)** Let's jump right in.
 
@@ -114,8 +113,7 @@ created: 2026-05-02
 > **Code Identifiers:** ios (3)
 > **Speakers:** - [narrator] (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/ios-17-development-essential-training/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,12 +136,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Downloading and installing Xcode
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/downloading-and-installing-xcode?u=76281980)
+#### [Downloading and installing Xcode](https://www.linkedin.com/learning/ios-17-development-essential-training/downloading-and-installing-xcode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ios-17-development-essential-training/downloading-and-installing-xcode?u=76281980&t=1)** - [Instructor] The official tool for building iOS apps is called Xcode, which could be downloaded for free at the Mac App Store.
+> **[0:01](https://www.linkedin.com/learning/ios-17-development-essential-training/downloading-and-installing-xcode?u=76281980&t=1)** - [Instructor] The official tool for building iOS apps is called [[Xcode]], which could be downloaded for free at the Mac App Store.
 >
 > **[0:08](https://www.linkedin.com/learning/ios-17-development-essential-training/downloading-and-installing-xcode?u=76281980&t=8)** Once you've downloaded and installed Xcode, open up the application and after reading through and agreeing to the licensing agreement, you'll be asked to install additional required components.
 >
@@ -155,25 +152,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (3)
 > **Prerequisites:** install (3)
 > **Code Identifiers:** ios (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your first iOS app
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980)
+#### [Creating your first iOS app](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=0)** - [Instructor] Once Xcode is installed along with the required components, opening Xcode will take you to the welcome screen, which enables you to quickly create a new project or open an existing project, whether locally or from a repository.
+> **[0:00](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=0)** - [Instructor] Once [[Xcode]] is installed along with the required components, opening Xcode will take you to the welcome screen, which enables you to quickly create a new project or open an existing project, whether locally or from a repository.
 >
 > **[0:14](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=14)** To create your first iOS app, create an Xcode project by clicking the Create New Project button here or through the File menu by going to File, New, Project.
 >
 > **[0:26](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=26)** When creating a new project, you're asked to choose a template for the project.
 >
-> **[0:31](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=31)** These templates are organized by platform, so you'll see Multiplatform, iOS, Mac OS, et cetera.
+> **[0:31](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=31)** These templates are organized by platform, so you'll see [[Kotlin Multiplatform|Multiplatform]], iOS, Mac OS, et cetera.
 >
 > **[0:38](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=38)** Selecting a platform gives you options for the type of application or framework you want to create.
 >
@@ -197,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=105)** Leave the other options unchecked, and hit Next.
 >
-> **[1:49](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=109)** You're then asked where to save the project and whether to create a Git repository.
+> **[1:49](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=109)** You're then asked where to save the project and whether to create a [[Git]] repository.
 >
 > **[1:55](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-your-first-ios-app?u=76281980&t=115)** For what we're doing here, we don't need to create a Git repository, so leave that unchecked, and then I'm saving this in my Exercise Files folder in Chapter 01, First_project, Final.
 >
@@ -211,7 +207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (4), hit (3), product (3), next (2), [[Git]] (2)
+> **Frameworks & Libraries:** [[Xcode]] (4), [[Git]] (2), [[Kotlin Multiplatform|Multiplatform]] (1)
 > **Code Identifiers:** ios (5)
 > **CLI Commands:** make (2), git (2)
 > **Exercise Files:** exercise files (2), template (1)
@@ -220,12 +216,11 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key parts of the Xcode interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/key-parts-of-the-xcode-interface?u=76281980)
+#### [Key parts of the Xcode interface](https://www.linkedin.com/learning/ios-17-development-essential-training/key-parts-of-the-xcode-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ios-17-development-essential-training/key-parts-of-the-xcode-interface?u=76281980&t=1)** - [Instructor] The Xcode interface is somewhat complicated and can be overwhelming.
+> **[0:01](https://www.linkedin.com/learning/ios-17-development-essential-training/key-parts-of-the-xcode-interface?u=76281980&t=1)** - [Instructor] The [[Xcode]] interface is somewhat complicated and can be overwhelming.
 >
 > **[0:05](https://www.linkedin.com/learning/ios-17-development-essential-training/key-parts-of-the-xcode-interface?u=76281980&t=5)** To make it easier to learn Xcode, I'm going to go over the three parts of the interface and talk about how the interface is generally used.
 >
@@ -245,7 +240,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ios-17-development-essential-training/key-parts-of-the-xcode-interface?u=76281980&t=81)** So the editor is this main working area in Xcode.
 >
-> **[1:25](https://www.linkedin.com/learning/ios-17-development-essential-training/key-parts-of-the-xcode-interface?u=76281980&t=85)** So right now I am seeing the code in the ContentView Swift file, and you could see that up here in the comment in the editor.
+> **[1:25](https://www.linkedin.com/learning/ios-17-development-essential-training/key-parts-of-the-xcode-interface?u=76281980&t=85)** So right now I am seeing the code in the ContentView [[Swift (Programming Language)|Swift]] file, and you could see that up here in the comment in the editor.
 >
 > **[1:34](https://www.linkedin.com/learning/ios-17-development-essential-training/key-parts-of-the-xcode-interface?u=76281980&t=94)** If I single click on First_App, then I'll see the code for that file.
 >
@@ -271,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), [[Debugging]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (1)
@@ -285,8 +280,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing between SwiftUI and storyboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980)
+#### [Choosing between SwiftUI and storyboards](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -300,13 +294,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=18)** So if you have a button in your storyboard, you need to manually connect that to execute an action that runs a block of code.
 >
-> **[0:25](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=25)** Storyboards are based on ViewController classes in Swift, and the model ViewController design pattern.
+> **[0:25](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=25)** Storyboards are based on ViewController classes in [[Swift (Programming Language)|Swift]], and the model ViewController design pattern.
 >
 > **[0:32](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=32)** Storyboards are older and not receiving big updates.
 >
 > **[0:36](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=36)** In other words, when OS updates come every year, Apple is not making big updates to storyboards.
 >
-> **[0:43](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=43)** Rather, in iOS updates, you won't see a lot of bug fixes, performance improvements, or better workflows in Xcode.
+> **[0:43](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=43)** Rather, in iOS updates, you won't see a lot of bug fixes, performance improvements, or better workflows in [[Xcode]].
 >
 > **[0:51](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=51)** SwiftUI allows for UI creation using a declarative syntax.
 >
@@ -324,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=101)** That said, SwiftUI is likely to be the standard going forward, so you need to know that to develop any new applications.
 >
-> **[1:49](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=109)** For that reason, I recommend knowing both, and knowing both fairly well if you're looking to pursue a job in iOS development.
+> **[1:49](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=109)** For that reason, I recommend knowing both, and knowing both fairly well if you're looking to pursue a job in [[iOS Development]].
 >
 > **[1:57](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980&t=117)** If you're looking to simply build your own apps, you might just focus on SwiftUI, but it could never hurt to learn storyboards as well.
 >
@@ -332,14 +326,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), application (2), [[Swift (Programming Language)|Swift]] (1), [[iOS Development]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (1), [[iOS Development]] (1)
 > **Code Identifiers:** ios (6)
 > **Definitions:** in other words (2)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drag and drop user interface creation with storyboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/drag-and-drop-user-interface-creation-with-storyboards?u=76281980)
+#### [Drag and drop user interface creation with storyboards](https://www.linkedin.com/learning/ios-17-development-essential-training/drag-and-drop-user-interface-creation-with-storyboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ios-17-development-essential-training/drag-and-drop-user-interface-creation-with-storyboards?u=76281980&t=12)** And then under Interface, choose Storyboard.
 >
-> **[0:15](https://www.linkedin.com/learning/ios-17-development-essential-training/drag-and-drop-user-interface-creation-with-storyboards?u=76281980&t=15)** For language, choose Swift, though note that you can choose Objective-C if you choose storyboard for your interface.
+> **[0:15](https://www.linkedin.com/learning/ios-17-development-essential-training/drag-and-drop-user-interface-creation-with-storyboards?u=76281980&t=15)** For language, choose [[Swift (Programming Language)|Swift]], though note that you can choose Objective-C if you choose storyboard for your interface.
 >
 > **[0:23](https://www.linkedin.com/learning/ios-17-development-essential-training/drag-and-drop-user-interface-creation-with-storyboards?u=76281980&t=23)** Objective-C was the language used for creating iOS apps before Swift.
 >
@@ -425,7 +418,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/ios-17-development-essential-training/drag-and-drop-user-interface-creation-with-storyboards?u=76281980&t=206)** So let's go up to the top, and we're going to find where the text of the button is.
 >
-> **[3:31](https://www.linkedin.com/learning/ios-17-development-essential-training/drag-and-drop-user-interface-creation-with-storyboards?u=76281980&t=211)** And that is right below the word Title.
+> **[3:31](https://www.linkedin.com/learning/ios-17-development-essential-training/drag-and-drop-user-interface-creation-with-storyboards?u=76281980&t=211)** And that is right below the [[Microsoft Word|word]] Title.
 >
 > **[3:34](https://www.linkedin.com/learning/ios-17-development-essential-training/drag-and-drop-user-interface-creation-with-storyboards?u=76281980&t=214)** So we see Title, Plain, and then Button right here.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), hit (3), application (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** in the toolbar (2), go to (1), select the (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** ios (2)
@@ -456,8 +449,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Best Practices:** make sure to (1)
 
-#### Change a label's text at runtime
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/change-a-label-s-text-at-runtime?u=76281980)
+#### [Change a label's text at runtime](https://www.linkedin.com/learning/ios-17-development-essential-training/change-a-label-s-text-at-runtime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -467,7 +459,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ios-17-development-essential-training/change-a-label-s-text-at-runtime?u=76281980&t=16)** Before setting that up, you'll want to confirm that you're seeing values in the Attributes Inspector.
 >
-> **[0:22](https://www.linkedin.com/learning/ios-17-development-essential-training/change-a-label-s-text-at-runtime?u=76281980&t=22)** At the time of this recording, the current version of Xcode has a bug.
+> **[0:22](https://www.linkedin.com/learning/ios-17-development-essential-training/change-a-label-s-text-at-runtime?u=76281980&t=22)** At the time of this recording, the current version of [[Xcode]] has a bug.
 >
 > **[0:27](https://www.linkedin.com/learning/ios-17-development-essential-training/change-a-label-s-text-at-runtime?u=76281980&t=27)** When you open up Xcode project files, you may notice sometimes that when you have an object selected inside of your storyboard that nothing shows up in the Attributes Inspector.
 >
@@ -523,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (4), hit (3), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (4)
 > **UI Navigation:** right-click (3), go to (2), in the toolbar (1)
 > **Definitions:** short for (1), refers to (1), is a  (1), is called (1)
 > **Code Identifiers:** viewdidload (3)
@@ -531,8 +523,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling a button press
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/handling-a-button-press?u=76281980)
+#### [Handling a button press](https://www.linkedin.com/learning/ios-17-development-essential-training/handling-a-button-press?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,7 +575,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **UI Navigation:** dropdown (2), click on (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** make (1)
@@ -592,8 +582,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using text gathered from text fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/using-text-gathered-from-text-fields?u=76281980)
+#### [Using text gathered from text fields](https://www.linkedin.com/learning/ios-17-development-essential-training/using-text-gathered-from-text-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,7 +640,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/ios-17-development-essential-training/using-text-gathered-from-text-fields?u=76281980&t=129)** So this is a string with a question mark after it.
 >
-> **[2:12](https://www.linkedin.com/learning/ios-17-development-essential-training/using-text-gathered-from-text-fields?u=76281980&t=132)** If you're new to Swift, the question mark denotes a data type as being optional, meaning it could possibly have no value.
+> **[2:12](https://www.linkedin.com/learning/ios-17-development-essential-training/using-text-gathered-from-text-fields?u=76281980&t=132)** If you're new to [[Swift (Programming Language)|Swift]], the question mark denotes a data type as being optional, meaning it could possibly have no value.
 >
 > **[2:21](https://www.linkedin.com/learning/ios-17-development-essential-training/using-text-gathered-from-text-fields?u=76281980&t=141)** That's important because you need to handle optionals differently than other values.
 >
@@ -671,7 +660,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/ios-17-development-essential-training/using-text-gathered-from-text-fields?u=76281980&t=184)** Now we're going to change the text in the label.
 >
-> **[3:06](https://www.linkedin.com/learning/ios-17-development-essential-training/using-text-gathered-from-text-fields?u=76281980&t=186)** Change the value in the double quotes on the next line to Hello, comma, and then we're going to put in the name, if you type the word name, it's going to give the literal string name and we'll say Hello, name.
+> **[3:06](https://www.linkedin.com/learning/ios-17-development-essential-training/using-text-gathered-from-text-fields?u=76281980&t=186)** Change the value in the double quotes on the next line to Hello, comma, and then we're going to put in the name, if you type the [[Microsoft Word|word]] name, it's going to give the literal string name and we'll say Hello, name.
 >
 > **[3:20](https://www.linkedin.com/learning/ios-17-development-essential-training/using-text-gathered-from-text-fields?u=76281980&t=200)** We don't want that.
 >
@@ -703,7 +692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), data (3), next (2), [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** in the toolbar (1), right-click (1), go to (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -711,8 +700,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Showing the software keyboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/showing-the-software-keyboard?u=76281980)
+#### [Showing the software keyboard](https://www.linkedin.com/learning/ios-17-development-essential-training/showing-the-software-keyboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +710,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ios-17-development-essential-training/showing-the-software-keyboard?u=76281980&t=13)** This can be handled with something called responders.
 >
-> **[0:16](https://www.linkedin.com/learning/ios-17-development-essential-training/showing-the-software-keyboard?u=76281980&t=16)** Let's head back over to Xcode.
+> **[0:16](https://www.linkedin.com/learning/ios-17-development-essential-training/showing-the-software-keyboard?u=76281980&t=16)** Let's head back over to [[Xcode]].
 >
 > **[0:18](https://www.linkedin.com/learning/ios-17-development-essential-training/showing-the-software-keyboard?u=76281980&t=18)** In here, I'm going to hide the navigator.
 >
@@ -762,14 +750,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (2), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (2)
 > **UI Navigation:** toggle (2), click on (1), go to (1)
 > **Code Identifiers:** ios (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dismissing the software keyboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/dismissing-the-software-keyboard?u=76281980)
+#### [Dismissing the software keyboard](https://www.linkedin.com/learning/ios-17-development-essential-training/dismissing-the-software-keyboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +774,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ios-17-development-essential-training/dismissing-the-software-keyboard?u=76281980&t=39)** So again, when I launched the app, the software keyboard shows.
 >
-> **[0:43](https://www.linkedin.com/learning/ios-17-development-essential-training/dismissing-the-software-keyboard?u=76281980&t=43)** You may have noticed if you used your hardware keyboard to type in here that the software keyboard is dismissed.
+> **[0:43](https://www.linkedin.com/learning/ios-17-development-essential-training/dismissing-the-software-keyboard?u=76281980&t=43)** You may have noticed if you used your [[Hardware]] keyboard to type in here that the software keyboard is dismissed.
 >
 > **[0:51](https://www.linkedin.com/learning/ios-17-development-essential-training/dismissing-the-software-keyboard?u=76281980&t=51)** That's actually a feature of iOS.
 >
@@ -825,15 +812,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), feature (1), hit (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Code Identifiers:** resignfirstresponder (5), buttonwaspressed (2), textfield (2), ios (2), touchesbegan (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot common UI problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshoot-common-ui-problems?u=76281980)
+#### [Troubleshoot common UI problems](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshoot-common-ui-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -841,7 +827,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshoot-common-ui-problems?u=76281980&t=8)** A broken connection is where there's some UI element that is not properly connected to code, and this will manifest as a button not working, for example.
 >
-> **[0:20](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshoot-common-ui-problems?u=76281980&t=20)** So let's take a look at an example of a broken connection and how to resolve it in Xcode.
+> **[0:20](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshoot-common-ui-problems?u=76281980&t=20)** So let's take a look at an example of a broken connection and how to resolve it in [[Xcode]].
 >
 > **[0:27](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshoot-common-ui-problems?u=76281980&t=27)** I'm going to put my name in the text field and then I'm going to click this button and you'll notice that it does nothing.
 >
@@ -915,7 +901,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshoot-common-ui-problems?u=76281980&t=215)** So if I disconnect my label connection and button was pressed, for example, again, by clicking the little Xs inside of the Connections Inspector, I can fix my connection by going over to the Project Navigator.
 >
-> **[3:49](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshoot-common-ui-problems?u=76281980&t=229)** And what we're going to do here is Option, click the ViewController Swift file.
+> **[3:49](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshoot-common-ui-problems?u=76281980&t=229)** And what we're going to do here is Option, click the ViewController [[Swift (Programming Language)|Swift]] file.
 >
 > **[3:54](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshoot-common-ui-problems?u=76281980&t=234)** And remember that opens up a Split editor.
 >
@@ -951,7 +937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), application (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** ios (2)
@@ -959,8 +945,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Working with pins
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/working-with-pins?u=76281980)
+#### [Working with pins](https://www.linkedin.com/learning/ios-17-development-essential-training/working-with-pins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1041,8 +1026,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting pins
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshooting-pins?u=76281980)
+#### [Troubleshooting pins](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshooting-pins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,7 +1044,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshooting-pins?u=76281980&t=42)** Now when you select the text field again, you see solid red lines, indicating a problem with your auto layout issues.
 >
-> **[0:49](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshooting-pins?u=76281980&t=49)** Remember, if you're going to use auto layout pins, Xcode needs position and size information for each item using pins.
+> **[0:49](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshooting-pins?u=76281980&t=49)** Remember, if you're going to use auto layout pins, [[Xcode]] needs position and size information for each item using pins.
 >
 > **[0:59](https://www.linkedin.com/learning/ios-17-development-essential-training/troubleshooting-pins?u=76281980&t=59)** When any of that information is not there or it's deleted, then you see these red lines.
 >
@@ -1144,8 +1128,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Storyboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/challenge-storyboards?u=76281980)
+#### [Challenge: Storyboards](https://www.linkedin.com/learning/ios-17-development-essential-training/challenge-storyboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,11 +1148,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Storyboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/solution-storyboards?u=76281980)
+#### [Solution: Storyboards](https://www.linkedin.com/learning/ios-17-development-essential-training/solution-storyboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,7 +1240,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), hit (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** viewdidload (1)
 > **UI Navigation:** go to (1)
@@ -1271,14 +1251,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SwiftUI fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/swiftui-fundamentals?u=76281980)
+#### [SwiftUI fundamentals](https://www.linkedin.com/learning/ios-17-development-essential-training/swiftui-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ios-17-development-essential-training/swiftui-fundamentals?u=76281980&t=1)** - [Instructor] SwiftUI uses a swift language-based declarative syntax for creating user interfaces.
+> **[0:01](https://www.linkedin.com/learning/ios-17-development-essential-training/swiftui-fundamentals?u=76281980&t=1)** - [Instructor] SwiftUI uses a [[Swift (Programming Language)|swift]] language-based declarative syntax for creating user interfaces.
 >
-> **[0:07](https://www.linkedin.com/learning/ios-17-development-essential-training/swiftui-fundamentals?u=76281980&t=7)** You can create a SwiftUI project by choosing the interface option when creating a new Xcode project, just like we did with the storyboard.
+> **[0:07](https://www.linkedin.com/learning/ios-17-development-essential-training/swiftui-fundamentals?u=76281980&t=7)** You can create a SwiftUI project by choosing the interface option when creating a new [[Xcode]] project, just like we did with the storyboard.
 >
 > **[0:15](https://www.linkedin.com/learning/ios-17-development-essential-training/swiftui-fundamentals?u=76281980&t=15)** Let's create one by using the create project button from the welcome screen.
 >
@@ -1332,7 +1311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (2), [[Swift (Programming Language)|Swift]] (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), [[Xcode]] (1)
 > **Definitions:** is called (2), short for (1), is an  (1), is a  (1)
 > **Exercise Files:** exercise files (2)
 > **Analogies:** just like (2)
@@ -1340,8 +1319,7 @@ created: 2026-05-02
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating horizontal and vertical layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-horizontal-and-vertical-layouts?u=76281980)
+#### [Creating horizontal and vertical layouts](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-horizontal-and-vertical-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,8 +1387,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying fonts and spacing in SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/modifying-fonts-and-spacing-in-swiftui?u=76281980)
+#### [Modifying fonts and spacing in SwiftUI](https://www.linkedin.com/learning/ios-17-development-essential-training/modifying-fonts-and-spacing-in-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1426,7 +1403,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ios-17-development-essential-training/modifying-fonts-and-spacing-in-swiftui?u=76281980&t=33)** So, the imageScale is large and the foregroundStyle is the current tint.
 >
-> **[0:39](https://www.linkedin.com/learning/ios-17-development-essential-training/modifying-fonts-and-spacing-in-swiftui?u=76281980&t=39)** So, what we're going to do is put the word weather at the top.
+> **[0:39](https://www.linkedin.com/learning/ios-17-development-essential-training/modifying-fonts-and-spacing-in-swiftui?u=76281980&t=39)** So, what we're going to do is put the [[Microsoft Word|word]] weather at the top.
 >
 > **[0:43](https://www.linkedin.com/learning/ios-17-development-essential-training/modifying-fonts-and-spacing-in-swiftui?u=76281980&t=43)** So, I'm going to delete that H stack at the top and then create a new text view, and inside of the quotes, within the parentheses, I'll type weather with a capital W.
 >
@@ -1500,15 +1477,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** foregroundstyle (8), imagescale (5), largetitle (2), fontweight (1), ios (1)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)
 > **Analogies:** just like (1), for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading images in SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/loading-images-in-swiftui?u=76281980)
+#### [Loading images in SwiftUI](https://www.linkedin.com/learning/ios-17-development-essential-training/loading-images-in-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1516,7 +1492,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ios-17-development-essential-training/loading-images-in-swiftui?u=76281980&t=8)** As I mentioned previously, these strings come from a preset list of icons.
 >
-> **[0:13](https://www.linkedin.com/learning/ios-17-development-essential-training/loading-images-in-swiftui?u=76281980&t=13)** But what if you want to load your own image into a Swift UI project?
+> **[0:13](https://www.linkedin.com/learning/ios-17-development-essential-training/loading-images-in-swiftui?u=76281980&t=13)** But what if you want to load your own image into a [[Swift (Programming Language)|Swift]] UI project?
 >
 > **[0:17](https://www.linkedin.com/learning/ios-17-development-essential-training/loading-images-in-swiftui?u=76281980&t=17)** To do that, let's load an image just below this H stack in our parent V stack.
 >
@@ -1582,7 +1558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2)
 > **Code Identifiers:** scaledtofit (2), clipshape (2), buttonborder (2), containerrelative (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2)
@@ -1591,8 +1567,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/challenge-swiftui?u=76281980)
+#### [Challenge: SwiftUI](https://www.linkedin.com/learning/ios-17-development-essential-training/challenge-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1628,7 +1603,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Exercise Files:** download the (2)
 > **CLI Commands:** find (1)
 > **URLs:** [apple.com](https://apple.com) (1)
@@ -1636,8 +1610,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/solution-swiftui?u=76281980)
+#### [Solution: SwiftUI](https://www.linkedin.com/learning/ios-17-development-essential-training/solution-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1667,8 +1640,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting text input with SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980)
+#### [Getting text input with SwiftUI](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,7 +1676,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980&t=94)** The first one being a string that is a placeholder.
 >
-> **[1:37](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980&t=97)** If you look closely, maybe you can't see it on my screen, but on yours, you should see the word Placeholder in the text field that was placed in the view.
+> **[1:37](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980&t=97)** If you look closely, maybe you can't see it on my screen, but on yours, you should see the [[Microsoft Word|word]] Placeholder in the text field that was placed in the view.
 >
 > **[1:47](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980&t=107)** So you can press Return to accept the existing placeholder, or you can type your own.
 >
@@ -1722,7 +1694,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980&t=148)** When you use SwiftUI binding, any views that are using the variables that are modified at runtime will automatically update as those variables are updated.
 >
-> **[2:39](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980&t=159)** There are multiple types of binding variables in Swift and one of them is called a state variable.
+> **[2:39](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980&t=159)** There are multiple types of binding variables in [[Swift (Programming Language)|Swift]] and one of them is called a state variable.
 >
 > **[2:45](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980&t=165)** So let's start with that.
 >
@@ -1760,7 +1732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), [[Swift (Programming Language)|Swift]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Analogies:** just like (2), for example (1)
 > **UI Navigation:** in the toolbar (1), click on (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1768,8 +1740,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a slider in SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/using-a-slider-in-swiftui?u=76281980)
+#### [Using a slider in SwiftUI](https://www.linkedin.com/learning/ios-17-development-essential-training/using-a-slider-in-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1873,7 +1844,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **Versions:** 0.0 (2), 1.0 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1881,8 +1851,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - now (1)
 
-#### Making a custom SwiftUI view
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/making-a-custom-swiftui-view?u=76281980)
+#### [Making a custom SwiftUI view](https://www.linkedin.com/learning/ios-17-development-essential-training/making-a-custom-swiftui-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1944,7 +1913,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ios-17-development-essential-training/making-a-custom-swiftui-view?u=76281980&t=202)** And then we're going to delete this value right there.
 >
-> **[3:25](https://www.linkedin.com/learning/ios-17-development-essential-training/making-a-custom-swiftui-view?u=76281980&t=205)** And after colorValue type colon, and then a space and the word Double.
+> **[3:25](https://www.linkedin.com/learning/ios-17-development-essential-training/making-a-custom-swiftui-view?u=76281980&t=205)** And after colorValue type colon, and then a space and the [[Microsoft Word|word]] Double.
 >
 > **[3:31](https://www.linkedin.com/learning/ios-17-development-essential-training/making-a-custom-swiftui-view?u=76281980&t=211)** So when we do that, we need to provide a data type.
 >
@@ -1972,15 +1941,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (1), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** colorvalue (4), ios (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 0.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding custom SwiftUI attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/adding-custom-swiftui-attributes?u=76281980)
+#### [Adding custom SwiftUI attributes](https://www.linkedin.com/learning/ios-17-development-essential-training/adding-custom-swiftui-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2110,7 +2078,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1)
 > **UI Navigation:** go to (3), click on (1), scroll down (1)
 > **Analogies:** just like (2), picture (1)
 > **Code Identifiers:** colorvalue (1), foregroundstyle (1)
@@ -2118,8 +2085,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Build a color picker app
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/challenge-build-a-color-picker-app?u=76281980)
+#### [Challenge: Build a color picker app](https://www.linkedin.com/learning/ios-17-development-essential-training/challenge-build-a-color-picker-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2147,12 +2113,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** we talked about (5)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Build a color picker app
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/solution-build-a-color-picker-app?u=76281980)
+#### [Solution: Build a color picker app](https://www.linkedin.com/learning/ios-17-development-essential-training/solution-build-a-color-picker-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2170,7 +2134,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -2178,8 +2141,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating data for a list
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980)
+#### [Creating data for a list](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2189,7 +2151,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980&t=17)** The data model will provide the data for our application, including days of the week with their accompanying high and low temperatures, an icon, and later even a color for the icon.
 >
-> **[0:30](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980&t=30)** So let's create our data model file by pressing command + N in Xcode, and then we're going to create a new Swift file under iOS.
+> **[0:30](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980&t=30)** So let's create our data model file by pressing command + N in [[Xcode]], and then we're going to create a new [[Swift (Programming Language)|Swift]] file under iOS.
 >
 > **[0:39](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980&t=39)** So from there, let's hit Next.
 >
@@ -2269,7 +2231,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980&t=242)** And then tab to icon, I'll open up the quotes and then type sun.max.fill.
 >
-> **[4:08](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980&t=248)** And now what we'll do is add the rest of the days separated by commas.
+> **[4:08](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980&t=248)** And now what we'll do is add the [[Representational State Transfer (REST)|rest]] of the days separated by commas.
 >
 > **[4:13](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980&t=253)** Once you added them all in, it should look something like this, a list of the days under the name fields, and then high and low numbers, whatever numbers you choose.
 >
@@ -2281,15 +2243,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (3), application (2), hit (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using list views
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/using-list-views?u=76281980)
+#### [Using list views](https://www.linkedin.com/learning/ios-17-development-essential-training/using-list-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2391,7 +2352,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (1)
 > **Code Identifiers:** ios (1), navigationtitle (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (2)
@@ -2399,8 +2359,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating detail views
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-detail-views?u=76281980)
+#### [Creating detail views](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-detail-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2416,7 +2375,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-detail-views?u=76281980&t=31)** Remember, our data model is hashable, and the value that's going to be coming in when it's selected is a day.
 >
-> **[0:40](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-detail-views?u=76281980&t=40)** So here, if you put Day.self, you can tab over to the hashable value here, and then just press return, replace hashable with the word day all lowercase.
+> **[0:40](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-detail-views?u=76281980&t=40)** So here, if you put Day.self, you can tab over to the hashable value here, and then just press return, replace hashable with the [[Microsoft Word|word]] day all lowercase.
 >
 > **[0:51](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-detail-views?u=76281980&t=51)** And that's going to work just like it does here for our list.
 >
@@ -2452,7 +2411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** ios (1), navigationtitle (1), navigationdestination (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Prerequisites:** set up (2)
@@ -2460,8 +2419,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying and dismissing popover views
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/displaying-and-dismissing-popover-views?u=76281980)
+#### [Displaying and dismissing popover views](https://www.linkedin.com/learning/ios-17-development-essential-training/displaying-and-dismissing-popover-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2536,8 +2494,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Setting an app icon
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/setting-an-app-icon?u=76281980)
+#### [Setting an app icon](https://www.linkedin.com/learning/ios-17-development-essential-training/setting-an-app-icon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2583,7 +2540,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), hit (2)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** ios (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -2592,8 +2548,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/challenge-lists?u=76281980)
+#### [Challenge: Lists](https://www.linkedin.com/learning/ios-17-development-essential-training/challenge-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2619,13 +2574,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Prerequisites:** you'll need (4)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/solution-lists?u=76281980)
+#### [Solution: Lists](https://www.linkedin.com/learning/ios-17-development-essential-training/solution-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2659,7 +2612,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** you'll need (1)
@@ -2670,22 +2622,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980&t=0)** - [Instructor] Well, you've reached the end of this course and may be wondering where to go from here.
 >
-> **[0:06](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980&t=6)** If you start in the library, there are lots of great courses on iOS development, previous iterations of iOS essential training.
+> **[0:06](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980&t=6)** If you start in the library, there are lots of great courses on [[iOS Development]], previous iterations of iOS essential training.
 >
 > **[0:15](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980&t=15)** There's also getting started with AP development, which is a learning path, so you can follow multiple courses there.
 >
-> **[0:22](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980&t=22)** There's iOS test-driven development, iOS tips, iOS security, et cetera.
+> **[0:22](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980&t=22)** There's iOS [[Test-Driven Development]], iOS tips, iOS security, et cetera.
 >
 > **[0:29](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980&t=29)** So that's a great place to start.
 >
-> **[0:31](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980&t=31)** If you want to dive deeper into Swift, there are many great Swift courses out there as well.
+> **[0:31](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980&t=31)** If you want to dive deeper into [[Swift (Programming Language)|Swift]], there are many great Swift courses out there as well.
 >
 > **[0:36](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980&t=36)** Or if you want to specifically get into SwiftUI development, there are courses specifically on that.
 >
@@ -2695,7 +2646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[iOS Development]] (1), [[Test-Driven Development]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[iOS Development]] (1), [[Test-Driven Development]] (1)
 > **Code Identifiers:** ios (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

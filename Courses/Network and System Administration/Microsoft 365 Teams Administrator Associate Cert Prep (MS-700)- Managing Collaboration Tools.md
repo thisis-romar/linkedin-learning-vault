@@ -106,14 +106,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring Teams policies and settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configuring-teams-policies-and-settings?u=76281980)
+#### [Configuring Teams policies and settings](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configuring-teams-policies-and-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configuring-teams-policies-and-settings?u=76281980&t=0)** - [Robert] If you're an IT administrator, or an aspiring one, you've probably been following the problems that many video conferencing programs have been having with security and functionality.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configuring-teams-policies-and-settings?u=76281980&t=10)** Microsoft Teams is a fully featured collaboration program that relies on proven technology from Microsoft to securely connect video, audio, share files, and work with groups of staff and guests in one application.
+> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configuring-teams-policies-and-settings?u=76281980&t=10)** [[Microsoft Teams]] is a fully featured collaboration program that relies on proven technology from [[Microsoft]] to securely connect video, audio, share files, and work with groups of staff and guests in one application.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configuring-teams-policies-and-settings?u=76281980&t=23)** In this Teams course, I use hands-on demonstrations on how to configure your Microsoft Teams policies and settings.
 >
@@ -129,7 +128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Microsoft]] (2), teams (2), [[Security]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Microsoft]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
@@ -140,8 +139,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure messaging policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980)
+#### [Configure messaging policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=21)** And any user can only be assigned to one messaging policy at a time.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=27)** We can manage these policies from the Microsoft Teams admin center and through the Skype for Business online PowerShell cmdlets.
+> **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=27)** We can manage these policies from the [[Microsoft Teams]] admin center and through the Skype for Business online [[Powershell]] cmdlets.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=34)** Messaging policies can be used to activate or deactivate messaging features, as well as to configure or enforce messaging settings.
 >
@@ -171,7 +169,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=80)** I'll just call this one new policy.
 >
-> **[1:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=82)** And we can see all the different things, such as meet now in channels, Outlook add-in, channel meeting scheduling.
+> **[1:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=82)** And we can see all the different things, such as meet now in channels, [[Microsoft Outlook|Outlook]] add-in, channel meeting scheduling.
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=89)** Lots of different options here.
 >
@@ -205,7 +203,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=136)** Well, if we allow that, that means that a user and another tenant that we invite into our team can then do this same type of request control.
 >
-> **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=146)** Then we have PowerPoint sharing, whiteboarding, shared notes and others.
+> **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=146)** Then we have [[Microsoft PowerPoint|PowerPoint]] sharing, whiteboarding, shared notes and others.
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980&t=151)** We can see at the bottom letting anonymous people start a meeting is not turned on, and then we have some dropdowns for roles that have presenter rights in meetings.
 >
@@ -235,7 +233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Teams]] (1), business (1), [[Powershell]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Powershell]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (7)
 > **Analogies:** for instance (3), such as (2)
 > **Definitions:** is a  (1), means that (1)
@@ -244,12 +242,11 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Prerequisites:** configure (1)
 
-#### Manage external access
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-external-access?u=76281980)
+#### [Manage external access](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-external-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-external-access?u=76281980&t=0)** - [Instructor] With Microsoft Teams external access, Teams users from other domains can connect with you in your Teams, chats, and calls.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-external-access?u=76281980&t=0)** - [Instructor] With [[Microsoft Teams]] external access, Teams users from other domains can connect with you in your Teams, chats, and calls.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-external-access?u=76281980&t=8)** You can also allow other external users who are still using Skype for Business Online or Skype for Business Server.
 >
@@ -301,7 +298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), business (4), [[Microsoft Teams]] (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1)
 > **URLs:** [contoso.com](https://contoso.com) (3), [northwindtraders.com](https://northwindtraders.com) (2)
 > **Prerequisites:** configure (1), set up (1), setup (1)
 > **CLI Commands:** find (2)
@@ -309,12 +306,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage channels for a team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-channels-for-a-team?u=76281980)
+#### [Manage channels for a team](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-channels-for-a-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-channels-for-a-team?u=76281980&t=0)** - [Instructor] Channels in Microsoft Teams are subcategories or subgroups to a team that's already been created.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-channels-for-a-team?u=76281980&t=0)** - [Instructor] Channels in [[Microsoft Teams]] are subcategories or subgroups to a team that's already been created.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-channels-for-a-team?u=76281980&t=7)** We can see logged into the Teams application, if I expand the sales project, here are my different channels.
 >
@@ -372,14 +368,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Microsoft Teams]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Analogies:** for instance (4), such as (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Manage private channel creation policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-private-channel-creation-policies?u=76281980)
+#### [Manage private channel creation policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-private-channel-creation-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,15 +396,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5)
 > **Speakers:** - [instructor] (1)
 
-#### Manage email integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-email-integration?u=76281980)
+#### [Manage email integration](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-email-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-email-integration?u=76281980&t=0)** - [Instructor] When integrating Microsoft Teams, it allows email to individual members of your team.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-email-integration?u=76281980&t=0)** - [Instructor] When integrating [[Microsoft Teams]], it allows email to individual members of your team.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-email-integration?u=76281980&t=5)** Messages sent to these email addresses are then posted as conversation messages to the channel, and other members can download the original message or even add comments.
 >
@@ -443,7 +436,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-email-integration?u=76281980&t=111)** Now you can copy this address and then you can go into your email and send a message and it will show up in that particular channel.
 >
-> **[2:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-email-integration?u=76281980&t=120)** I'm now in Outlook on the web, although you could also use the Outlook application.
+> **[2:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-email-integration?u=76281980&t=120)** I'm now in [[Microsoft Outlook|Outlook]] on the web, although you could also use the Outlook application.
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-email-integration?u=76281980&t=125)** I'm going to paste in that particular address and choose hello and click send.
 >
@@ -453,27 +446,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Teams]] (1), feature (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Teams]] (1)
 > **UI Navigation:** go to (2)
 > **URLs:** [contoso.com](https://contoso.com) (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure external access for SharePoint and OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980)
+#### [Configure external access for SharePoint and OneDrive](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=0)** - [Instructor] If you would like external sharing in Microsoft Teams, we need to turn on external sharing in the Microsoft 365 Admin Center.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=0)** - [Instructor] If you would like external sharing in [[Microsoft Teams]], we need to turn on external sharing in the [[Microsoft 365]] Admin Center.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=8)** And right now, I'm in the Home screen, so I'm going to switch over to where it says Settings and then go down to where it says Org settings.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=16)** Then we see Services, Security & Privacy, and Organization Profile.
+> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=16)** Then we see Services, Security & [[Privacy]], and Organization Profile.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=19)** So what we want to do is scroll down to where it says SharePoint.
+> **[0:19](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=19)** So what we want to do is scroll down to where it says [[SharePoint]].
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=23)** And when we enable this on SharePoint, we also enable it for OneDrive, as well.
+> **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=23)** And when we enable this on SharePoint, we also enable it for [[Microsoft OneDrive|OneDrive]], as well.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=27)** So here we have it set for anyone.
 >
@@ -507,18 +499,17 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=102)** If you change your mind, you can uncheck those boxes and click Save.
 >
-> **[1:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=105)** Integrating SharePoint and OneDrive allows your guest users to join in on data sharing in a Team.
+> **[1:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-external-access-for-sharepoint-and-onedrive?u=76281980&t=105)** Integrating SharePoint and OneDrive allows your guest users to join in on [[Data Sharing]] in a Team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft 365]] (2), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Teams]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft 365]] (2), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Teams]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage cloud file storage options for collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980)
+#### [Manage cloud file storage options for collaboration](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,9 +517,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980&t=8)** The host of the meeting and owner of the channel can set this up in the meeting.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980&t=12)** As you can see, there's lots of different options here for adding cloud storage.
+> **[0:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980&t=12)** As you can see, there's lots of different options here for adding [[Cloud Storage]].
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980&t=16)** Originally, Microsoft had a difficult time adding in OneDrive and SharePoint so they added these other options as well.
+> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980&t=16)** Originally, [[Microsoft]] had a difficult time adding in [[Microsoft OneDrive|OneDrive]] and [[SharePoint]] so they added these other options as well.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980&t=24)** I'm now in the Microsoft Team.
 >
@@ -538,7 +529,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980&t=33)** And then once I'm in Files, I can click on Add cloud storage.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980&t=39)** And now I can choose any one of these different products.
+> **[0:39](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980&t=39)** And now I can choose any one of these different [[Microsoft Products|products]].
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-cloud-file-storage-options-for-collaboration?u=76281980&t=42)** I'll just choose Box, for instance.
 >
@@ -586,7 +577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[SharePoint]] (5), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (7), [[SharePoint]] (5), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft]] (2), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -597,8 +588,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure meeting settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980)
+#### [Configure meeting settings](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,7 +618,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980&t=56)** If I scroll down to network, We can see how we want to handle Teams meetings, real time media traffic, and that includes audio, video and screen sharing.
 >
-> **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980&t=66)** And there's several different options here, such as inserting quality of service markers for real-time media traffic.
+> **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980&t=66)** And there's several different options here, such as inserting quality of service markers for [[Real-Time]] media traffic.
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980&t=72)** We can leave that on or off.
 >
@@ -644,11 +634,11 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980&t=109)** After we make our changes, you can click Save and it will take approximately one hour for those changes to take effect.
 >
-> **[1:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980&t=117)** Meeting settings can set the parameters for many different options for users although some changes like ports are not recommended by Microsoft.
+> **[1:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980&t=117)** Meeting settings can set the parameters for many different options for users although some changes like ports are not recommended by [[Microsoft]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), next (1), teams (1), [[Real-Time]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
 > **Env Vars:** url (2)
 > **Prerequisites:** configure (1), set up (1)
@@ -657,8 +647,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create and manage meeting policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980)
+#### [Create and manage meeting policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,7 +655,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=8)** And those features can be changed in meeting policies, which is located underneath the meetings category.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=15)** In meetings policies, we see that there's several different policies that are already created and part of Microsoft Teams.
+> **[0:15](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=15)** In meetings policies, we see that there's several different policies that are already created and part of [[Microsoft Teams]].
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=22)** We can go in and add custom ones as well.
 >
@@ -678,7 +667,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=42)** And we can have that on or off.
 >
-> **[0:43](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=43)** Then there's the Outlook add in.
+> **[0:43](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=43)** Then there's the [[Microsoft Outlook|Outlook]] add in.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=45)** So if we have the Outlook application and we log in as an admin, then we're going to see that add in for Microsoft Teams.
 >
@@ -742,7 +731,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=190)** But you can certainly turn that on if you have that need.
 >
-> **[3:13](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=193)** PowerPoint sharing, whiteboard and shared notes are all turned on and very useful during meetings.
+> **[3:13](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=193)** [[Microsoft PowerPoint|PowerPoint]] sharing, whiteboard and shared notes are all turned on and very useful during meetings.
 >
 > **[3:19](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-meeting-policies?u=76281980&t=199)** Then we have video filters.
 >
@@ -824,25 +813,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft Teams]] (3), application (3), [[Microsoft Outlook|Outlook]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Microsoft Outlook|Outlook]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (1), dropdown (1), select the (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** ndi (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create and configure settings for live events
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980)
+#### [Create and configure settings for live events](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=0)** - [Narrator] If you would like to create a live event in Microsoft Teams, a user must satisfy some licensing and permission requirements and additional conditions, such as the user must have a user account in Azure Active Directory and the user can't be a guest or from another organization.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=0)** - [Narrator] If you would like to create a live event in [[Microsoft Teams]], a user must satisfy some licensing and permission requirements and additional conditions, such as the user must have a user account in [[Microsoft Entra ID|Azure Active Directory]] and the user can't be a guest or from another organization.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=16)** A user must have an Office 365 enterprise license as you see here, or an Office 365, A3 or A5 license.
+> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=16)** A user must have an [[Microsoft Office|Office]] 365 enterprise license as you see here, or an Office 365, A3 or A5 license.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=26)** User must have permission to create live events in the Microsoft Teams admin center.
 >
-> **[0:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=31)** And the user must have permission to create live events in Microsoft Stream for events produced using an external broadcasting app or device.
+> **[0:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=31)** And the user must have permission to create live events in [[Microsoft]] Stream for events produced using an external broadcasting app or device.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-settings-for-live-events?u=76281980&t=41)** And finally, the user must have an exchange online mailbox.
 >
@@ -914,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Microsoft Teams]] (2), [[Microsoft Office|Office]] (2), [[Microsoft]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Microsoft Office|Office]] (2), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Env Vars:** url (3), sdn (2), api (1)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **Analogies:** such as (2)
@@ -923,8 +911,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
 
-#### Configure conference bridge settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-conference-bridge-settings?u=76281980)
+#### [Configure conference bridge settings](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-conference-bridge-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -934,13 +921,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-conference-bridge-settings?u=76281980&t=17)** That's a conferencing list that can contain one or more phone numbers from which users can use to dial in.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-conference-bridge-settings?u=76281980&t=23)** And these phone numbers are included in every Microsoft Team Meeting invite.
+> **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-conference-bridge-settings?u=76281980&t=23)** And these phone numbers are included in every [[Microsoft]] Team Meeting invite.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-conference-bridge-settings?u=76281980&t=28)** As an admin, you can choose to continue using the default settings for a bridge, or you can change the phone number and other settings.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-conference-bridge-settings?u=76281980&t=35)** However, you must decide if you need to add new conferencing bridge numbers, which numbers should be your default, and if you need to modify the bridge settings.
 >
-> **[0:43](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-conference-bridge-settings?u=76281980&t=43)** I'm in the Microsoft Teams Admin Center, and I'm going to expand where it says Meetings on the left-hand side, and then click on Conference Bridges.
+> **[0:43](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-conference-bridge-settings?u=76281980&t=43)** I'm in the [[Microsoft Teams]] Admin Center, and I'm going to expand where it says Meetings on the left-hand side, and then click on Conference Bridges.
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-conference-bridge-settings?u=76281980&t=52)** Take a look 'cause there's a lot of different Conference Bridges from all over the place, including other countries besides just the United States.
 >
@@ -960,7 +947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Teams]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Teams]] (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** as you saw (1)
@@ -972,26 +959,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PSTN replacement based on specific business requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980)
+#### [PSTN replacement based on specific business requirements](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=0)** - [Instructor] If you use a Microsoft cloud-based phone system, calls between users are handled internally.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=0)** - [Instructor] If you use a [[Microsoft]] cloud-based phone system, calls between users are handled internally.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=6)** However, if you would like to use smartphones or other devices, then you have a couple of different options.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=11)** With a Calling Plan from Microsoft, you can make and receive calls directly through the Microsoft 365 Phone System.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=11)** With a Calling Plan from Microsoft, you can make and receive calls directly through the [[Microsoft 365]] Phone System.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=20)** You have to purchase a Microsoft Calling Plan for Microsoft 365.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=24)** Your other option is direct routing.
+> **[0:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=24)** Your other option is direct [[Routing]].
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=27)** So if you can connect your current on-premises PBX with Microsoft 365 Phone Systems, then you can use direct routing.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=35)** It may be much easier in the long run to just use a Calling Plan for Microsoft but it could save a lot of money for larger organizations to go direct.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=44)** When users call other Microsoft Teams users within an organization, the calls are free.
+> **[0:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=44)** When users call other [[Microsoft Teams]] users within an organization, the calls are free.
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980&t=50)** But you must buy a calling plan if you want users to be able to call regular phones and you don't have a service provider to make voice calls.
 >
@@ -1015,19 +1001,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft 365]] (5), [[Routing]] (3), cloud (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft 365]] (5), [[Routing]] (3), [[Microsoft Teams]] (1)
 > **Env Vars:** pstn (2), pbx (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Order phone numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/order-phone-numbers?u=76281980)
+#### [Order phone numbers](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/order-phone-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/order-phone-numbers?u=76281980&t=0)** - [instructor] Before you can assign phone numbers to the users or services in your organization you must first get the phone numbers and there's a few different ways that we can do that.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/order-phone-numbers?u=76281980&t=9)** The first option, which I'm going to demonstrate shortly, is to use the Microsoft Teams admin center.
+> **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/order-phone-numbers?u=76281980&t=9)** The first option, which I'm going to demonstrate shortly, is to use the [[Microsoft Teams]] admin center.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/order-phone-numbers?u=76281980&t=15)** For most countries and regions you can get the numbers for your users using the Teams admin center.
 >
@@ -1039,7 +1024,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/order-phone-numbers?u=76281980&t=36)** Depending on which country or region you're from, you may not be able to get your new phone numbers using the Microsoft Teams admin center, or you'll need specific phone numbers or area codes.
 >
-> **[0:46](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/order-phone-numbers?u=76281980&t=46)** Either way you're going to need to download a form, complete it and return it to Microsoft.
+> **[0:46](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/order-phone-numbers?u=76281980&t=46)** Either way you're going to need to download a form, complete it and return it to [[Microsoft]].
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/order-phone-numbers?u=76281980&t=51)** Teams uses different telephone number types depending on the purpose for which the phone number's going to be used.
 >
@@ -1089,7 +1074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), [[Microsoft Teams]] (3), [[Microsoft]] (3), next (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Microsoft]] (3)
 > **UI Navigation:** go to (3), click on (2)
 > **Prerequisites:** you'll need (1), you need to have (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1097,8 +1082,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage service numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980)
+#### [Manage service numbers](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=7)** Resource accounts are then associated with a call queue or auto attendant.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=11)** We obtain the service phone number from Microsoft or we can get one from our public switch telephone network provider.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=11)** We obtain the service phone number from [[Microsoft]] or we can get one from our public switch telephone network provider.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=18)** We then create the resource account for the call queue or auto attendant.
 >
@@ -1164,11 +1148,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=139)** And we need to make sure that our virtual license is not assigned to any other voice service before assigning it.
 >
-> **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=146)** I'm in the Microsoft 365 admin center and I went to where it says purchase services under billing.
+> **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=146)** I'm in the [[Microsoft 365]] admin center and I went to where it says purchase services under billing.
 >
 > **[2:34](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=154)** And then I clicked on the add-ons button.
 >
-> **[2:36](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=156)** And when I scroll down after doing the search for the word virtual, I found the virtual user month-to-month phone system for Microsoft 365 and we see that it is free.
+> **[2:36](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=156)** And when I scroll down after doing the search for the [[Microsoft Word|word]] virtual, I found the virtual user month-to-month phone system for Microsoft 365 and we see that it is free.
 >
 > **[2:47](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-service-numbers?u=76281980&t=167)** I'm going to click on buy.
 >
@@ -1182,13 +1166,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft 365]] (2), [[Search]] (1), [[Microsoft Word|Word]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft 365]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (3), scroll down (1), select the (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add, change, or remove an emergency address
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-change-or-remove-an-emergency-address?u=76281980)
+#### [Add, change, or remove an emergency address](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-change-or-remove-an-emergency-address?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1262,7 +1245,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), business (1), [[Search]] (1), next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -1270,15 +1252,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
+> **Speakers:** - [instructor] (1)
 
-#### Assign, change, or remove a phone number for a user
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980)
+#### [Assign, change, or remove a phone number for a user](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980&t=0)** - [Instructor] Let's look at how we can change a phone number for a user.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980&t=4)** I'm in the Microsoft Teams admin center, and under Voice, I'm going to go to where it says Phone numbers.
+> **[0:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980&t=4)** I'm in the [[Microsoft Teams]] admin center, and under Voice, I'm going to go to where it says Phone numbers.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980&t=10)** And we can see my user phone number, which is already assigned.
 >
@@ -1298,7 +1280,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980&t=44)** You can choose for instance, AT&T, and then it says here to continue, add, or edit consent for your chosen operator through here.
 >
-> **[0:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980&t=52)** Now, in my case, and in many of yours, it's going to be Microsoft.
+> **[0:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980&t=52)** Now, in my case, and in many of yours, it's going to be [[Microsoft]].
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/assign-change-or-remove-a-phone-number-for-a-user?u=76281980&t=56)** You can see I have 36 remaining numbers that I can add in.
 >
@@ -1340,20 +1322,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage voice settings for users
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-voice-settings-for-users?u=76281980)
+#### [Manage voice settings for users](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-voice-settings-for-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-voice-settings-for-users?u=76281980&t=0)** - [Instructor] Voice settings for users include call sharing and group call pickup features in Microsoft Teams, and that lets users share their incoming calls with colleagues so that others can answer calls that occur while you may be unavailable.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-voice-settings-for-users?u=76281980&t=0)** - [Instructor] Voice settings for users include call sharing and group call pickup features in [[Microsoft Teams]], and that lets users share their incoming calls with colleagues so that others can answer calls that occur while you may be unavailable.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-voice-settings-for-users?u=76281980&t=14)** of the two, group call pickup is less disruptive to recipients than other forms of call sharing, such as simultaneous ring, because users can configure how they want to be notified when an incoming shared call happens.
+> **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-voice-settings-for-users?u=76281980&t=14)** of the two, group call pickup is less disruptive to recipients than other [[Forms]] of call sharing, such as simultaneous ring, because users can configure how they want to be notified when an incoming shared call happens.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-voice-settings-for-users?u=76281980&t=27)** And that can be done through audio and visual notification, visual only, or through a banner in the Teams app.
 >
@@ -1377,19 +1358,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Teams]] (1), [[Forms]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Forms]] (1)
 > **Prerequisites:** configure (2), set up (2)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure dynamic emergency calling
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-emergency-calling?u=76281980)
+#### [Configure dynamic emergency calling](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-emergency-calling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-emergency-calling?u=76281980&t=0)** - [Instructor] Dynamic emergency calling for Microsoft calling plans and phone system direct routing provides the ability to configure and route emergency calls and notify security based on the current location of your team's client, the team's client includes location data.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-emergency-calling?u=76281980&t=0)** - [Instructor] Dynamic emergency calling for [[Microsoft]] calling plans and phone system direct [[Routing]] provides the ability to configure and route emergency calls and notify security based on the current location of your team's client, the team's client includes location data.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-emergency-calling?u=76281980&t=17)** As part of the emergency call, that data is then used by the emergency service provider to determine the public safety answering point or PSAP and then that information is going to route to the call to that location.
 >
@@ -1413,7 +1393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (4), data (2), [[Microsoft]] (1), [[Security]] (1), teams (1)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Microsoft]] (1)
 > **Prerequisites:** configure (4), set up (1)
 > **Env Vars:** psap (1), pstn (1), sbc (1)
 > **Speakers:** - [instructor] (1)
@@ -1423,12 +1403,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and configure call queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980)
+#### [Create and configure call queues](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=0)** - [Instructor] Microsoft Teams has a feature called the call queue.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=0)** - [Instructor] [[Microsoft Teams]] has a feature called the call queue.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=4)** So why do we need a call queue?
 >
@@ -1486,7 +1465,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=147)** I'll just choose general and click apply.
 >
-> **[2:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=151)** I could also just choose users in groups from Azure Active Directory.
+> **[2:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=151)** I could also just choose users in groups from [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[2:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=155)** Under conference mode I can turn that on or off.
 >
@@ -1494,7 +1473,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=166)** We can see Skype for business clients won't be able to use this.
 >
-> **[2:49](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=169)** And the routing method can be the attendant routing, serial, round robin, or longest idle.
+> **[2:49](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=169)** And the [[Routing]] method can be the attendant routing, serial, round robin, or longest idle.
 >
 > **[2:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980&t=176)** I'll just choose the attendant routing and continue on.
 >
@@ -1542,7 +1521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (4), [[Microsoft Teams]] (2), feature (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Microsoft Teams]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
@@ -1550,8 +1529,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and configure auto attendants
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-auto-attendants?u=76281980)
+#### [Create and configure auto attendants](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-auto-attendants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1569,7 +1547,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-auto-attendants?u=76281980&t=44)** After that, we need to use one of the 25 free resource licenses that comes with our business voice license in teams, and we need to set up communication credit.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-auto-attendants?u=76281980&t=55)** I'm in Microsoft Teams, the admin center.
+> **[0:55](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-auto-attendants?u=76281980&t=55)** I'm in [[Microsoft Teams]], the admin center.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-auto-attendants?u=76281980&t=57)** If I scroll down underneath Voice, then I can go to Resource accounts.
 >
@@ -1669,7 +1647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), next (4), ai (2), cloud (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1)
 > **UI Navigation:** click on (2), scroll down (1), go to (1), dropdown (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Ports:** :00 (2)
@@ -1678,8 +1656,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage call park policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-call-park-policies?u=76281980)
+#### [Manage call park policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-call-park-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1721,16 +1698,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), cloud (1), feature (1), hit (1)
 > **UI Navigation:** go to (3), click on (3), dropdown (1)
 > **Speakers:** - [tutor] (1)
 
-#### Manage calling policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980)
+#### [Manage calling policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=0)** - [Instructor] Calling policies allows you to do a lot of great things in Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=0)** - [Instructor] Calling policies allows you to do a lot of great things in [[Microsoft Teams]].
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=4)** It can help you determine which calling and call forwarding features will be available to your users.
 >
@@ -1770,7 +1745,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=108)** Although you may or may not want that.
 >
-> **[1:49](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=109)** Voicemail is available for routing inbound calls, here it's user controlled, but you could also change that to enabled or not enabled.
+> **[1:49](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=109)** Voicemail is available for [[Routing]] inbound calls, here it's user controlled, but you could also change that to enabled or not enabled.
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=119)** And we have inbound calls can be routed to call groups so I can choose to leave that on.
 >
@@ -1790,7 +1765,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=175)** So that way you can use the web client instead of just the gooey client to make calls using the public switch telephone network.
 >
-> **[3:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=184)** Real-time captions and team calls can be useful to some people with accessibility issues.
+> **[3:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=184)** [[Real-Time]] captions and team calls can be useful to some people with accessibility issues.
 >
 > **[3:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-calling-policies?u=76281980&t=188)** We also have automatically answer incoming meeting invites and sip devices can be used to perform calling, if you have them.
 >
@@ -1808,18 +1783,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (3), cloud (2), teams (2), web (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Routing]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1), go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage caller ID policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-caller-id-policies?u=76281980)
+#### [Manage caller ID policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-caller-id-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-caller-id-policies?u=76281980&t=0)** - [Instructor] Caller ID policies in Microsoft Teams can help you change or block a caller.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-caller-id-policies?u=76281980&t=0)** - [Instructor] Caller ID policies in [[Microsoft Teams]] can help you change or block a caller.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-caller-id-policies?u=76281980&t=6)** It's set up by default so that when a team's user calls a public switch telephone network phone, their phone number is going to be visible.
 >
@@ -1873,17 +1847,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (3), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3)
 > **UI Navigation:** click on (3), dropdown (2), go to (1), select the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpret a dial plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980)
+#### [Interpret a dial plan](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=0)** - [Instructor] Dial plans in Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=0)** - [Instructor] Dial plans in [[Microsoft Teams]].
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=2)** So what is a dial plan?
 >
@@ -1893,7 +1866,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=17)** And E.164 is just a way to make sure that every phone number has its own unique address because you don't want to have two different locations with the same phone number.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=28)** And this is all for purposes of call authorization and voice routing.
+> **[0:28](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=28)** And this is all for purposes of call authorization and voice [[Routing]].
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=32)** A dial plan consists of one or more normalization rules that's going to define how phone numbers expressed in various formats are translated into that alternate format.
 >
@@ -1903,7 +1876,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=58)** Clients are going to get the appropriate dial plan through provisioning settings, and they're automatically provided when a user signs into Teams.
 >
-> **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=66)** You can manage dial plan scope settings by using the Microsoft Teams admin center or remote PowerShell.
+> **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=66)** You can manage dial plan scope settings by using the Microsoft Teams admin center or remote [[Powershell]].
 >
 > **[1:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=74)** Now in Teams, there are two different types of dial plans.
 >
@@ -1941,7 +1914,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=175)** You can also choose to test the rule after it's all set up the way you want it.
 >
-> **[3:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=180)** So for instance, if I uncheck all of this and then I type in a phone number, this is a Microsoft test phone, and click Test, and we see the translated number to E.164 is correct.
+> **[3:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=180)** So for instance, if I uncheck all of this and then I type in a phone number, this is a [[Microsoft]] test phone, and click Test, and we see the translated number to E.164 is correct.
 >
 > **[3:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-a-dial-plan?u=76281980&t=194)** And then, when I'm all done, I'll just click Save.
 >
@@ -1951,7 +1924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft Teams]] (2), [[Routing]] (1), hit (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Routing]] (1), [[Powershell]] (1), [[Microsoft]] (1)
 > **Prerequisites:** set up (2), setup (1), you'll need (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (3)
@@ -1960,12 +1933,11 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpret the Health Dashboard for Direct Routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-the-health-dashboard-for-direct-routing?u=76281980)
+#### [Interpret the Health Dashboard for Direct Routing](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-the-health-dashboard-for-direct-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-the-health-dashboard-for-direct-routing?u=76281980&t=0)** - [Instructor] The Direct Routing Health Dashboard can help you monitor the connection between your Session Border Controller, SBC, and the Direct Routing interface.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-the-health-dashboard-for-direct-routing?u=76281980&t=0)** - [Instructor] The Direct [[Routing]] Health Dashboard can help you monitor the connection between your Session Border Controller, SBC, and the Direct Routing interface.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/interpret-the-health-dashboard-for-direct-routing?u=76281980&t=9)** A voice session border controller is a device regularly deployed in VoIP networks, and we use that to control the signaling and also the media streams involved in setting up and tearing down telephone calls.
 >
@@ -2023,7 +1995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (7), concurrent (5), [[Security]] (1)
+> **Frameworks & Libraries:** [[Routing]] (7)
 > **Env Vars:** sbc (7), tls (5), sip (5), spc (2), ner (1)
 > **Definitions:** is a  (2), means that (1), known as (1)
 > **Analogies:** such as (2)
@@ -2037,8 +2009,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980)
+#### [Create a team](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2056,7 +2027,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=22)** I have some options. I can create it from scratch.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=25)** I can create it from a group where it says here, create your team from a Microsoft 365 group that you own, or I can do it from a template.
+> **[0:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=25)** I can create it from a group where it says here, create your team from a [[Microsoft 365]] group that you own, or I can do it from a template.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=34)** I'm going to choose to create it by clicking on manage a project.
 >
@@ -2102,7 +2073,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=145)** I'll call this one private merger, and we're going to talk about the merger, but we'll do it in a private way, for instance.
 >
-> **[2:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=151)** And under privacy, I'm going to choose private.
+> **[2:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=151)** And under [[Privacy]], I'm going to choose private.
 >
 > **[2:34](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=154)** I also have the option to choose public as I did before.
 >
@@ -2116,7 +2087,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=174)** And if I hit the three dots, I have some additional options as well.
 >
-> **[2:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=178)** You can also create a team in PowerShell with the New-Team Commandlet.
+> **[2:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=178)** You can also create a team in [[Powershell]] with the New-Team Commandlet.
 >
 > **[3:02](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980&t=182)** Three different ways to create three different types of teams.
 >
@@ -2124,7 +2095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), [[Microsoft 365]] (1), next (1), [[Privacy]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1), [[Privacy]] (1), [[Powershell]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
@@ -2133,14 +2104,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** for instance (1)
 
-#### Upgrade an existing resource to a team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980)
+#### [Upgrade an existing resource to a team](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=0)** - [Tutor] There's several options to create a Microsoft Team from an existing resource.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=0)** - [Tutor] There's several options to create a [[Microsoft]] Team from an existing resource.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=5)** You can upgrade a SharePoint team site, or a Microsoft 365 group to a team directly.
+> **[0:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=5)** You can upgrade a [[SharePoint]] team site, or a [[Microsoft 365]] group to a team directly.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=11)** You can also convert a distribution list to a 365 group, and then you can convert it to a Microsoft team.
 >
@@ -2154,7 +2124,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=40)** And that is the shared group projects, Microsoft 365 group.
 >
-> **[0:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=45)** Up until 2020, this was referred to as an Office 365 group, but now it's been renamed.
+> **[0:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=45)** Up until 2020, this was referred to as an [[Microsoft Office|Office]] 365 group, but now it's been renamed.
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=51)** If I click on the shared group projects, we can see on the right hand side, the name, the primary email address, if there's any aliases, when it was created and others.
 >
@@ -2162,7 +2132,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=69)** Do we allow external centers, et cetera?
 >
-> **[1:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=71)** I'm going to click on Microsoft teams, and you can see the create a team option.
+> **[1:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=71)** I'm going to click on [[Microsoft Teams]], and you can see the create a team option.
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/upgrade-an-existing-resource-to-a-team?u=76281980&t=76)** So I'll click on create a team, and then click it again.
 >
@@ -2188,18 +2158,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (3), teams (2), [[Microsoft Teams]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (3), [[Microsoft Teams]] (2), [[SharePoint]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** such as (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### Manage privacy levels for a team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-privacy-levels-for-a-team?u=76281980)
+#### [Manage privacy levels for a team](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-privacy-levels-for-a-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-privacy-levels-for-a-team?u=76281980&t=0)** - [Narrator] There are three levels of privacy a team owner can use to manage access to a team, the first being private.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-privacy-levels-for-a-team?u=76281980&t=0)** - [Narrator] There are three levels of [[Privacy]] a team owner can use to manage access to a team, the first being private.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-privacy-levels-for-a-team?u=76281980&t=7)** Private teams can only be joined when the team owner adds users to those teams.
 >
@@ -2215,7 +2184,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-privacy-levels-for-a-team?u=76281980&t=35)** Then there's the org wide option.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-privacy-levels-for-a-team?u=76281980&t=37)** Org-wide teams have all members of a Microsoft 365 tenant, joined automatically.
+> **[0:37](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-privacy-levels-for-a-team?u=76281980&t=37)** Org-wide teams have all members of a [[Microsoft 365]] tenant, joined automatically.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-privacy-levels-for-a-team?u=76281980&t=43)** By default, a private team will be discoverable in the gallery and users can see some information about the team but a public team is going to be allowed for everyone to join within the organization and an org wide team will automatically join them.
 >
@@ -2241,14 +2210,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), [[Privacy]] (4), next (2), [[Microsoft 365]] (1), application (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft 365]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (4)
 > **Analogies:** for instance (2)
 > **Speakers:** - [narrator] (1)
 
-#### Manage organization-wide teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-teams?u=76281980)
+#### [Manage organization-wide teams](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2256,11 +2224,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-teams?u=76281980&t=9)** Unlicensed users are also added to the team.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-teams?u=76281980&t=11)** And the first time an unlicensed user signs into teams, the user is assigned a Microsoft teams commercial cloud trial license that will expire in 12 months.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-teams?u=76281980&t=11)** And the first time an unlicensed user signs into teams, the user is assigned a [[Microsoft Teams]] commercial cloud trial license that will expire in 12 months.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-teams?u=76281980&t=21)** These exception to members include accounts that are blocked from sign-in, guests, service accounts, and room or equipment accounts.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-teams?u=76281980&t=30)** And Microsoft 365 also has something called a shared mailbox that multiple people can access.
+> **[0:30](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-teams?u=76281980&t=30)** And [[Microsoft 365]] also has something called a shared mailbox that multiple people can access.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-teams?u=76281980&t=36)** And accounts backed by shared mailboxes are also not going to be able to be members.
 >
@@ -2292,25 +2260,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), [[Microsoft Teams]] (1), cloud (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [tutor] (1)
 
-#### Create and manage policy packages in Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980)
+#### [Create and manage policy packages in Microsoft Teams](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=0)** - [Instructor] A policy package in Microsoft Teams is a collection of predefined policies as well as policy settings, and you can assign those to users who have similar roles in your organization.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=0)** - [Instructor] A policy package in [[Microsoft Teams]] is a collection of predefined policies as well as policy settings, and you can assign those to users who have similar roles in your organization.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=11)** I'm going to click on policy packages and left-hand side.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=14)** And policy packages can be a real time saver because it creates rules, which various groups in Azure active directory that have teams licenses can operate here.
+> **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=14)** And policy packages can be a real time saver because it creates rules, which various groups in [[Microsoft Entra ID|Azure active directory]] that have teams licenses can operate here.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=23)** We see all the pre-built packages that come with Microsoft Teams.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=27)** I'm going to click on the Education one you see at the top for Higher education.
+> **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=27)** I'm going to click on the Education one you see at the top for [[Higher Education]].
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=31)** And you can see there's a messaging policy, meeting policy, all these different policies that are designed for this type of user.
 >
@@ -2336,7 +2303,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=113)** And I'm going to choose a Group name and I'll call that one education, and I put in higher Ed for the Group description.
 >
-> **[2:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=120)** And do I want to have any Azure AD roles assigned?
+> **[2:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=120)** And do I want to have any [[Microsoft Entra ID|Azure AD]] roles assigned?
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-policy-packages-in-microsoft-teams?u=76281980&t=123)** No, I do not, and under membership type, we wanted Assigned.
 >
@@ -2362,7 +2329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Higher Education]] (4), [[Microsoft Teams]] (2), [[Microsoft Entra ID|Azure active directory]] (2), teams (2), hit (1)
+> **Frameworks & Libraries:** [[Higher Education]] (4), [[Microsoft Teams]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft Entra ID|Azure ad]] (1)
 > **UI Navigation:** click on (6), go to (2), scroll down (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -2374,8 +2341,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage users in a team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-users-in-a-team?u=76281980)
+#### [Manage users in a team](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-users-in-a-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2389,7 +2355,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-users-in-a-team?u=76281980&t=33)** I can go into Settings, and I can make all different kinds of changes.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-users-in-a-team?u=76281980&t=37)** However, what if I want to do some of these changes in PowerShell, such as adding a member or an owner into this team?
+> **[0:37](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-users-in-a-team?u=76281980&t=37)** However, what if I want to do some of these changes in [[Powershell]], such as adding a member or an owner into this team?
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-users-in-a-team?u=76281980&t=44)** So I can go into PowerShell and start out by typing in the commandlet connect-microsoftteams.
 >
@@ -2443,7 +2409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), [[Powershell]] (5), prompt (1), application (1), hit (1)
+> **Frameworks & Libraries:** [[Powershell]] (5)
 > **Tools:** powershell (5)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2)
@@ -2451,12 +2417,11 @@ created: 2026-05-02
 > **Env Vars:** gui (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure dynamic membership
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980)
+#### [Configure dynamic membership](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980&t=0)** - [Instructor] Dynamic membership enables you to define members of a team by one or more rules that check for certain user attributes in Azure Active Directory.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980&t=0)** - [Instructor] Dynamic membership enables you to define members of a team by one or more rules that check for certain user attributes in [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980&t=9)** The users are then automatically removed or added to that team as the user attributes change or users join or leave the tenant.
 >
@@ -2472,9 +2437,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980&t=57)** So now I've got two users that both say they live in Portland.
 >
-> **[1:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980&t=61)** I'm going to go back to users and then back up another level to Active Directory in Azure, and I'm going to click on groups.
+> **[1:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980&t=61)** I'm going to go back to users and then back up another level to [[Active Directory]] in [[Microsoft Azure|Azure]], and I'm going to click on groups.
 >
-> **[1:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980&t=72)** Now I'm going to create a new group and under group type, we can choose either security or Microsoft 365.
+> **[1:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980&t=72)** Now I'm going to create a new group and under group type, we can choose either security or [[Microsoft 365]].
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-dynamic-membership?u=76281980&t=80)** I'll leave it as security.
 >
@@ -2514,19 +2479,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (3), [[Security]] (2), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (3), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (2), scroll down (1), dropdown (1)
 > **Cross-References:** go back to (3)
 > **Speakers:** - [instructor] (1)
 
-#### Manage access review for team members
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980)
+#### [Manage access review for team members](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=0)** - [Instructor] Azure Active Directory has something called access reviews, and that allows organizations to take a look and see what uses are up to and decide whether or not those types of activities should be approved or denied in upcoming events.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=0)** - [Instructor] [[Microsoft Entra ID|Azure Active Directory]] has something called access reviews, and that allows organizations to take a look and see what uses are up to and decide whether or not those types of activities should be approved or denied in upcoming events.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=14)** So I'm in Azure Active Directory by clicking on the Azure Active Directory button at portal.[azure.com](https://azure.com).
+> **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=14)** So I'm in Azure Active Directory by clicking on the Azure Active Directory button at portal.[[[Microsoft Azure|azure]].com](https://azure.com).
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=22)** And next, I'll click on Identity Governance.
 >
@@ -2548,7 +2512,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=59)** And we can see we get some different options.
 >
-> **[1:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=61)** I can choose All Microsoft 365 groups with guest users, so I can take a look at guest access.
+> **[1:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=61)** I can choose All [[Microsoft 365]] groups with guest users, so I can take a look at guest access.
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-access-review-for-team-members?u=76281980&t=67)** Or I could just choose Select Teams and groups and then select the group that I would like to review.
 >
@@ -2670,7 +2634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Microsoft Entra ID|Azure active directory]] (3), teams (3), hit (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (3), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (10), dropdown (2), select the (1), go to (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
@@ -2684,8 +2648,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage organization-wide app settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-app-settings?u=76281980)
+#### [Manage organization-wide app settings](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-app-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2695,9 +2658,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-app-settings?u=76281980&t=18)** You can also use them to control malicious or problematic apps.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-app-settings?u=76281980&t=22)** This particular setting is a little bit difficult to find, but if you go to where it says Teams apps, and then Manage apps, then you're going to see a list of all the different apps that can be used in Microsoft Teams.
+> **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-app-settings?u=76281980&t=22)** This particular setting is a little bit difficult to find, but if you go to where it says Teams apps, and then Manage apps, then you're going to see a list of all the different apps that can be used in [[Microsoft Teams]].
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-app-settings?u=76281980&t=35)** And these are apps that have partnered with Microsoft to be in Teams.
+> **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-app-settings?u=76281980&t=35)** And these are apps that have partnered with [[Microsoft]] to be in Teams.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-app-settings?u=76281980&t=40)** If we go in the upper right-hand corner, this is where we can set the overriding org-wide app settings.
 >
@@ -2729,21 +2692,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), data (2), [[Microsoft Teams]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and manage app permission policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980)
+#### [Create and manage app permission policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=0)** - [Instructor] We can manage application permissions on an individual basis or as an organization.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=6)** Under the teams apps option, I'm going to click on manage apps, and we're going to see a list of all the different apps that have partnered up with Microsoft.
+> **[0:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=6)** Under the teams apps option, I'm going to click on manage apps, and we're going to see a list of all the different apps that have partnered up with [[Microsoft]].
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=14)** And of course you can always create additional custom apps if you'd like.
 >
@@ -2751,7 +2713,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=30)** I'm going to click on the very first app name and we can see that the status is allowed.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=35)** So this means that the users can use this app within Microsoft Teams.
+> **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=35)** So this means that the users can use this app within [[Microsoft Teams]].
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=40)** I could also choose to disallow it as well, and then that would be the end of that app for any user.
 >
@@ -2761,7 +2723,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=53)** And here I can see that this app has been granted consent for some permission.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=57)** So I would need to go to Azure Active Directory to view the details.
+> **[0:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=57)** So I would need to go to [[Microsoft Entra ID|Azure Active Directory]] to view the details.
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=61)** I'm in the application in Azure Active Directory, and we can see this particular 1-on-1 Hub permission is for Microsoft Graph.
 >
@@ -2793,7 +2755,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=140)** Let's go down a little bit and I'm going to choose an Adobe product called Adobe Sign.
 >
-> **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=146)** And one thing that's different about this one is it says it's Microsoft 365 certified.
+> **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=146)** And one thing that's different about this one is it says it's [[Microsoft 365]] certified.
 >
 > **[2:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=152)** So it is a more trusted application.
 >
@@ -2801,7 +2763,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=160)** And under the details, it gives a lot more details.
 >
-> **[2:43](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=163)** It gives a privacy policy URL.
+> **[2:43](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=163)** It gives a [[Privacy]] policy URL.
 >
 > **[2:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-permission-policies?u=76281980&t=165)** It gives a lot of other information and descriptions about this product, and also about the approval.
 >
@@ -2823,7 +2785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Microsoft]] (3), data (2), [[Microsoft Entra ID|Azure active directory]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft Teams]] (1), [[Microsoft 365]] (1), [[Privacy]] (1)
 > **UI Navigation:** click on (5), go to (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1), is a  (1)
@@ -2832,12 +2794,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and manage app setup policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-setup-policies?u=76281980)
+#### [Create and manage app setup policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-setup-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-setup-policies?u=76281980&t=0)** - [Tutor] Custom app policies can be used to automatically assign and install applications into Microsoft teams for a specific user or group.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-setup-policies?u=76281980&t=0)** - [Tutor] Custom app policies can be used to automatically assign and install applications into [[Microsoft Teams]] for a specific user or group.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-manage-app-setup-policies?u=76281980&t=9)** I'm in the teams admin center, and underneath teams apps, I'm going to go to where it says set up policies and select that.
 >
@@ -2909,21 +2870,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Microsoft Teams]] (2), application (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Prerequisites:** install (2), set up (2), setup (1)
 > **Definitions:** means that (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [tutor] (1)
 
-#### Add messaging extensions to a team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980)
+#### [Add messaging extensions to a team](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=0)** - [Narrator] Messaging extensions allows users to interact with a web service through buttons and forums in the Microsoft Teams client.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=0)** - [Narrator] Messaging extensions allows users to interact with a web service through buttons and forums in the [[Microsoft Teams]] client.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=7)** They can search or initiate actions in an external system from the compose message area.
+> **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=7)** They can search or initiate actions in an external system from the [[Jetpack Compose|compose]] message area.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=13)** And you can send back those results, the interaction to the Microsoft Teams client in the form of a richly formatted document or other application.
 >
@@ -2931,7 +2891,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=37)** So if you're going to reserve a resource such as a television or some other resource that you have in your organization, maybe a conference room, then you're going to want that information then posted into Teams so everybody in the Team will know what time they can get that resource.
 >
-> **[0:51](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=51)** And there's other options as well, there's even a way that you can incorporate Microsoft Exchange online to add in emails into your Teams.
+> **[0:51](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=51)** And there's other options as well, there's even a way that you can incorporate [[Microsoft]] Exchange online to add in emails into your Teams.
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=60)** There are types of commands that we can add in for messaging extensions.
 >
@@ -2951,7 +2911,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=104)** So I click on that and here's one of those action items.
 >
-> **[1:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=108)** This would be forms so you can fill out a form and then submit it.
+> **[1:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=108)** This would be [[Forms]] so you can fill out a form and then submit it.
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/add-messaging-extensions-to-a-team?u=76281980&t=113)** Let's take a look at some other apps, click on more apps, and we can see a lot of different options.
 >
@@ -2973,14 +2933,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), teams (5), [[Microsoft Teams]] (3), application (3), web (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Jetpack Compose|Compose]] (1), [[Microsoft]] (1), [[Forms]] (1)
 > **Analogies:** such as (4), for instance (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [narrator] (1)
 
-#### Manage app store customization
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-app-store-customization?u=76281980)
+#### [Manage app store customization](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-app-store-customization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2990,7 +2949,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-app-store-customization?u=76281980&t=17)** So under Organization logo, I'm just going to choose an image, click Upload.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-app-store-customization?u=76281980&t=23)** I want to choose an image that created in Microsoft Paint for the Awesome company.
+> **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-app-store-customization?u=76281980&t=23)** I want to choose an image that created in [[Microsoft]] Paint for the Awesome company.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-app-store-customization?u=76281980&t=27)** The logo itself is not too awesome.
 >
@@ -3020,17 +2979,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publish and configure a custom app to Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/publish-and-configure-a-custom-app-to-microsoft-teams?u=76281980)
+#### [Publish and configure a custom app to Microsoft Teams](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/publish-and-configure-a-custom-app-to-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/publish-and-configure-a-custom-app-to-microsoft-teams?u=76281980&t=0)** - [Narrator] You can use the Microsoft Teams Developer platform to integrate your apps, to improve productivity or whatever your business needs.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/publish-and-configure-a-custom-app-to-microsoft-teams?u=76281980&t=0)** - [Narrator] You can use the [[Microsoft Teams]] Developer platform to integrate your apps, to improve productivity or whatever your business needs.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/publish-and-configure-a-custom-app-to-microsoft-teams?u=76281980&t=9)** Apps built on the Teams platform are features that work between your Teams client and your services and workflows.
 >
@@ -3042,7 +3000,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/publish-and-configure-a-custom-app-to-microsoft-teams?u=76281980&t=30)** And they'll send you the file in a zip format, once it's complete.
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/publish-and-configure-a-custom-app-to-microsoft-teams?u=76281980&t=34)** Microsoft will then use that app, where you can upload it and customize it.
+> **[0:34](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/publish-and-configure-a-custom-app-to-microsoft-teams?u=76281980&t=34)** [[Microsoft]] will then use that app, where you can upload it and customize it.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/publish-and-configure-a-custom-app-to-microsoft-teams?u=76281980&t=40)** To validate that an app is working correctly in your production tenant, you're going to need to allow yourself or trusted users to upload custom apps in the production tenant using the app's set up policies.
 >
@@ -3066,7 +3024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft Teams]] (2), business (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), such as (1)
@@ -3079,8 +3037,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshoot audio, video, and client issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980)
+#### [Troubleshoot audio, video, and client issues](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3106,9 +3063,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=54)** This provides a network-wide view of call quality across your organization.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=58)** The call quality dashboard is designed to help Microsoft Teams administrators and network engineers to optimize your network.
+> **[0:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=58)** The call quality dashboard is designed to help [[Microsoft Teams]] administrators and network engineers to optimize your network.
 >
-> **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=66)** And finally, there's the direct routing health dashboard.
+> **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=66)** And finally, there's the direct [[Routing]] health dashboard.
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=69)** This dashboard is used with direct routing and monitors the connections between a session board or controller and the direct routing interface.
 >
@@ -3140,11 +3097,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=156)** Troubleshooting in Teams usually has a simple solution.
 >
-> **[2:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=160)** You can also search [Microsoft.com](https://Microsoft.com) for additional solutions if needed or you can open a ticket with Microsoft support.
+> **[2:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980&t=160)** You can also search [[[Microsoft]].com](https://Microsoft.com) for additional solutions if needed or you can open a ticket with Microsoft support.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Troubleshooting]] (3), [[Routing]] (3), [[Microsoft]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Microsoft]] (2), [[Microsoft Teams]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** url (1), ram (1)
 > **Analogies:** such as (2)
@@ -3153,12 +3110,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot chat and presence issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980)
+#### [Troubleshoot chat and presence issues](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=0)** - [Instructor] In Microsoft Teams, there is a presence indicator that basically says whether you're available or not or in a meeting, that kind of thing.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=0)** - [Instructor] In [[Microsoft Teams]], there is a presence indicator that basically says whether you're available or not or in a meeting, that kind of thing.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=8)** And the presence indicator is not visible is one of the common issues.
 >
@@ -3170,7 +3126,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=24)** Now, there's a way that you can troubleshoot that.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=26)** And Microsoft has a tool called the Microsoft Support and Recovery Assistant.
+> **[0:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=26)** And [[Microsoft]] has a tool called the Microsoft Support and Recovery Assistant.
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=31)** Now, you can go to the link that you see here or just type Microsoft Support and Recovery Assistant in your web browser and download the file from Microsoft.
 >
@@ -3178,7 +3134,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=47)** If you're not seeing the latest messages or threads, then you might need to restart your Teams app manually to force a refresh.
 >
-> **[0:54](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=54)** In Windows 10 and 11, you can do this by heading to your task bar and look for the Microsoft Teams icon or do a search.
+> **[0:54](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=54)** In [[Windows 10]] and 11, you can do this by heading to your task bar and look for the Microsoft Teams icon or do a search.
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-chat-and-presence-issues?u=76281980&t=60)** And once you see it, right-click and choose Quit.
 >
@@ -3190,7 +3146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[Microsoft]] (4), teams (3), application (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[Microsoft]] (4), [[Windows 10]] (1)
 > **UI Navigation:** go to (1), right-click (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
@@ -3198,8 +3154,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify, collect, and interpret client logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/identify-collect-and-interpret-client-logs?u=76281980)
+#### [Identify, collect, and interpret client logs](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/identify-collect-and-interpret-client-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3213,9 +3168,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/identify-collect-and-interpret-client-logs?u=76281980&t=29)** And then there are media logs, which can help us with any media file access.
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/identify-collect-and-interpret-client-logs?u=76281980&t=34)** Logs for Microsoft Teams can be accessed by going to File Explorer.
+> **[0:34](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/identify-collect-and-interpret-client-logs?u=76281980&t=34)** Logs for [[Microsoft Teams]] can be accessed by going to File Explorer.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/identify-collect-and-interpret-client-logs?u=76281980&t=40)** Then we'll go to the C drive and the Users folder, and then we'll go to the user we're logged in as followed by AppData, Roaming, Microsoft, and then Teams.
+> **[0:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/identify-collect-and-interpret-client-logs?u=76281980&t=40)** Then we'll go to the C drive and the Users folder, and then we'll go to the user we're logged in as followed by AppData, Roaming, [[Microsoft]], and then Teams.
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/identify-collect-and-interpret-client-logs?u=76281980&t=56)** In here, you'll find all the log files that you need.
 >
@@ -3249,7 +3204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Microsoft]] (3), application (2), [[Microsoft Teams]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Teams]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** go to (2), right-click (1), scroll up (1)
 > **Prerequisites:** configure (1), install (1)
@@ -3257,12 +3212,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot Microsoft Teams sign-in issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-microsoft-teams-sign-in-issues?u=76281980)
+#### [Troubleshoot Microsoft Teams sign-in issues](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-microsoft-teams-sign-in-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-microsoft-teams-sign-in-issues?u=76281980&t=0)** - Microsoft includes a lot of different codes for the most common issues that you'll find in Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-microsoft-teams-sign-in-issues?u=76281980&t=0)** - [[Microsoft]] includes a lot of different codes for the most common issues that you'll find in [[Microsoft Teams]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-microsoft-teams-sign-in-issues?u=76281980&t=7)** So, you can see this first code in the upper left is you ran into an authorization problem.
 >
@@ -3278,7 +3232,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-microsoft-teams-sign-in-issues?u=76281980&t=42)** Then, you have, the next one in the top left, 04, your request needs to be approved by a resource owner or authorization server.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-microsoft-teams-sign-in-issues?u=76281980&t=50)** So, you can contact your IT admin so they can confirm your organization is complying with Azure AD configuration policies.
+> **[0:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-microsoft-teams-sign-in-issues?u=76281980&t=50)** So, you can contact your IT admin so they can confirm your organization is complying with [[Microsoft Entra ID|Azure AD]] configuration policies.
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-microsoft-teams-sign-in-issues?u=76281980&t=58)** You're not using the right credentials.
 >
@@ -3288,7 +3242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Teams]] (2), [[Microsoft]] (1), [[Troubleshooting]] (1), dns (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Microsoft]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** dns (1)
@@ -3301,12 +3255,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recommended courses
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/recommended-courses?u=76281980)
+#### [Recommended courses](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/recommended-courses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/recommended-courses?u=76281980&t=0)** - [Robert] Thank you for joining me in my course, Microsoft Teams Administration: Managing Collaboration Tools.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/recommended-courses?u=76281980&t=0)** - [Robert] Thank you for joining me in my course, [[Microsoft Teams]] Administration: Managing Collaboration Tools.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/recommended-courses?u=76281980&t=7)** This video series showed you how to configure and use the many features of Microsoft Teams.
 >
@@ -3318,7 +3271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (3), teams (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3)
 > **Prerequisites:** configure (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [robert] (1)

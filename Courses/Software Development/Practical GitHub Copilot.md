@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Copilot on Projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects?u=76281980)
+#### [Using Copilot on Projects](https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects?u=76281980&t=0)** - Copilot is a paid service from GitHub that is changing the way code is written.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects?u=76281980&t=0)** - [[Microsoft Copilot|Copilot]] is a paid service from [[GitHub]] that is changing the way code is written.
 >
 > **[0:05](https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects?u=76281980&t=5)** Developers who use it report feeling 88% more productive and are 96% faster at repetitive tasks.
 >
@@ -103,12 +102,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - copilot (1)
 
-#### Using the slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/using-the-slides?u=76281980)
+#### [Using the slides](https://www.linkedin.com/learning/practical-github-copilot/using-the-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/using-the-slides?u=76281980&t=0)** - [Instructor] You can find all the slides for this course at raybo dot organization slash slides underscore github copilot, which is the page you're looking at.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/using-the-slides?u=76281980&t=0)** - [Instructor] You can find all the slides for this course at raybo dot organization slash slides underscore [[GitHub Copilot]], which is the page you're looking at.
 >
 > **[0:09](https://www.linkedin.com/learning/practical-github-copilot/using-the-slides?u=76281980&t=9)** At the bottom of the screen, there is a toolbar which you can show or hide by hitting the T key.
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -131,16 +129,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is GitHub Copilot?
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980)
+#### [What is GitHub Copilot?](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=0)** - [Instructor] Let's talk about what GitHub Copilot is and what makes it special.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=0)** - [Instructor] Let's talk about what [[GitHub Copilot]] is and what makes it special.
 >
 > **[0:05](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=5)** At its core, GitHub Copilot is a code assistant to help you write code faster.
 >
-> **[0:10](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=10)** It's based on GPT, the model from OpenAI that powers ChatGPT, one of the most popular web applications in history.
+> **[0:10](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=10)** It's based on GPT, the model from OpenAI that powers [[ChatGPT]], one of the most popular web applications in history.
 >
 > **[0:18](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=18)** This is a special customized version of GPT which is a large language model.
 >
@@ -148,13 +145,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=27)** Because it's trained on public code, the more popular the language, the more code available and the better recommendations.
 >
-> **[0:34](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=34)** So it's best for popular languages like Python, JavaScript and Ruby.
+> **[0:34](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=34)** So it's best for popular languages like [[Python (Programming Language)|Python]], [[JavaScript]] and Ruby.
 >
 > **[0:40](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=40)** Models are formulas used to predict events.
 >
 > **[0:43](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=43)** One example you might be familiar with are hurricane models that attempt to chart the paths of some storms every year.
 >
-> **[0:50](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=50)** LLMs try to predict what should come next in a sequence of words, technically tokens or numbers.
+> **[0:50](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=50)** LLMs try to predict what should come next in a sequence of words, technically [[Tokens]] or numbers.
 >
 > **[0:56](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=56)** It's like the auto complete that happens when you use a search engine.
 >
@@ -172,15 +169,15 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=99)** When you make requests from the LLM, the size of the language, as well as the amount of information you're providing, can affect the cost of using the model, both in terms of compute power, as well as processing usage.
 >
-> **[1:53](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=113)** After the tokenization, the models go through training phases where, given different inputs, they try to determine the probability of what the next piece of code or token should be.
+> **[1:53](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=113)** After the tokenization, the models go through training phases where, given different inputs, they try to determine the [[Probability]] of what the next piece of code or token should be.
 >
 > **[2:04](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=124)** They do this continuously until they finish the message that they write back to you.
 >
-> **[2:09](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=129)** This mimics the way people communicate, in that we often put together sentences by typing what the next word should be.
+> **[2:09](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=129)** This mimics the way people communicate, in that we often put together sentences by typing what the next [[Microsoft Word|word]] should be.
 >
 > **[2:17](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=137)** You probably notice more when you can't find the right word and perhaps someone else suggests it.
 >
-> **[2:24](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=144)** Most of the training is a statistical analysis of the tokens that determines a most likely next token, but that's followed by human led reinforcement.
+> **[2:24](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=144)** Most of the training is a [[Statistical Analysis]] of the tokens that determines a most likely next token, but that's followed by human led reinforcement.
 >
 > **[2:33](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980&t=153)** The models predictions get better over time as it is trained on what humans prefer.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Tokens]] (4), [[GitHub Copilot]] (2), [[Microsoft Word|Word]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[GitHub Copilot]] (2), [[Microsoft Word|Word]] (2), [[ChatGPT]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (5), known as (1)
 > **CLI Commands:** python (1), ruby (1), make (1), find (1)
 > **Env Vars:** gpt (2), llm (1)
@@ -196,12 +193,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot for Individuals vs. Copilot for Business
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980)
+#### [Copilot for Individuals vs. Copilot for Business](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=0)** - [Instructor] Let's talk a bit more about the differences in the Copilot for Business version.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=0)** - [Instructor] Let's talk a bit more about the differences in the [[Microsoft Copilot|Copilot]] for Business version.
 >
 > **[0:05](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=5)** Apps like Copilot work by sending information from a user's computer to the AI, which retains that information to help train the large language model.
 >
@@ -209,13 +205,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=25)** However, with Copilot for Business, the prompts are only transmitted in real time and are not retained.
 >
-> **[0:31](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=31)** In the same way, suggestions that the model returns to GitHub are not retained.
+> **[0:31](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=31)** In the same way, suggestions that the model returns to [[GitHub]] are not retained.
 >
 > **[0:35](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=35)** They're only transmitted in real time.
 >
-> **[0:39](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=39)** It's important to note that some data is used by GitHub and Microsoft to improve and provide usage data to the service.
+> **[0:39](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=39)** It's important to note that some data is used by GitHub and [[Microsoft]] to improve and provide usage data to the service.
 >
-> **[0:46](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=46)** This data is normally used to measure the impact of Copilot on users, sorting algorithms, and prompt crafting.
+> **[0:46](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=46)** This data is normally used to measure the impact of Copilot on users, sorting [[Algorithms]], and prompt crafting.
 >
 > **[0:54](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=54)** It's also used to conduct research and experiments to improve how developers use the tools.
 >
@@ -229,22 +225,21 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=81)** GitHub for Business is also capable of working with proxies, which generally manage employees' access to websites and other security measures.
 >
-> **[1:29](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=89)** Since once your administrator procures Copilot for you, the experience is pretty similar, for the rest of this course we'll be focusing on the individual version of Copilot.
+> **[1:29](https://www.linkedin.com/learning/practical-github-copilot/copilot-individual-vs-copilot-business?u=76281980&t=89)** Since once your administrator procures Copilot for you, the experience is pretty similar, for the [[Representational State Transfer (REST)|rest]] of this course we'll be focusing on the individual version of Copilot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), business (3), [[GitHub]] (3), data (3), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[GitHub]] (3), [[Microsoft]] (1), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** github (3)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980)
+#### [Installing Copilot](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=0)** - [Instructor] Copilot is a paid extension that is sold as a service through GitHub.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] is a paid extension that is sold as a service through [[GitHub]].
 >
 > **[0:06](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=6)** Let's talk about how you can get ahold of it.
 >
@@ -262,7 +257,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=38)** And you can go to this URL, [http://github.com/features/copilot](http://github.com/features/copilot), and click on Compare plans.
 >
-> **[0:45](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=45)** You can get it for individuals, and this will be either a monthly fee or an annual fee, or you can get it for business, which has some additional features like license management, privacy, proxy support, and also organization-wide policy management.
+> **[0:45](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=45)** You can get it for individuals, and this will be either a monthly fee or an annual fee, or you can get it for business, which has some additional features like license management, [[Privacy]], proxy support, and also organization-wide policy management.
 >
 > **[1:01](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=61)** Once you've purchased your subscription, you're going to need a copy of a popular editor.
 >
@@ -298,7 +293,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=167)** Again, as of this video, you can install version 1.0 or 2.0.
 >
-> **[2:52](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=172)** If you want to install the newer version, which we're covering in this video, you're going to need to download the GitHub Copilot Nightly extension.
+> **[2:52](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=172)** If you want to install the newer version, which we're covering in this video, you're going to need to download the [[GitHub Copilot]] Nightly extension.
 >
 > **[3:00](https://www.linkedin.com/learning/practical-github-copilot/installing-copilot?u=76281980&t=180)** So I'm going to go ahead and click on Install.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[GitHub Copilot]] (7), [[GitHub]] (4), business (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[GitHub Copilot]] (7), [[GitHub]] (4), [[Privacy]] (1)
 > **Tools:** github (11), visual studio (9), neovim (1)
 > **Prerequisites:** install (7), you'll need (2)
 > **UI Navigation:** go to (3), click on (2)
@@ -347,8 +342,7 @@ created: 2026-05-02
 > **URLs:** [http://github.com/features/copilot](http://github.com/features/copilot) (1), [http://code.visualstudio.com](http://code.visualstudio.com) (1)
 > **Env Vars:** url (1), uri (1)
 
-#### Getting the repo
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980)
+#### [Getting the repo](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -356,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=3)** Now I've prepared a repository with some files that you can use to follow along.
 >
-> **[0:07](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=7)** Now, normally I like to use Codespaces to work on my projects, but the problem is that I need to use the nightly version of Visual Studio Code and some other cutting edge extensions that are experimental.
+> **[0:07](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=7)** Now, normally I like to use [[Codespaces]] to work on my projects, but the problem is that I need to use the nightly version of Visual Studio Code and some other cutting edge extensions that are experimental.
 >
 > **[0:20](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=20)** So I'm going to need to clone this repository to my hard drive.
 >
@@ -366,19 +360,19 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=32)** I like to use the hyper application and I'll make sure that I'm in the desktop.
 >
-> **[0:39](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=39)** And then I'll issue a git clone with the URL of the repository.
+> **[0:39](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=39)** And then I'll issue a [[Git]] clone with the URL of the repository.
 >
 > **[0:45](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=45)** Now this is going to download the finished version of the project.
 >
-> **[0:50](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=50)** Now this is an advanced course so I'm assuming you understand how to work with GitHub, the Terminal, and repos.
+> **[0:50](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=50)** Now this is an advanced course so I'm assuming you understand how to work with [[GitHub]], the Terminal, and repos.
 >
 > **[0:56](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=56)** If not, please take a look at one of my other courses, [[Learning Git and GitHub]].
 >
-> **[1:01](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=61)** We're also going to be using Python in this course so I'm assuming that you have that installed.
+> **[1:01](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=61)** We're also going to be using [[Python (Programming Language)|Python]] in this course so I'm assuming that you have that installed.
 >
 > **[1:07](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=67)** If not, you can take a look at one of our courses on Python.
 >
-> **[1:11](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=71)** Let's go ahead and clear this out and I'll get out of Hyper, and I should see this GitHub practical copilot repository in my desktop.
+> **[1:11](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=71)** Let's go ahead and clear this out and I'll get out of Hyper, and I should see this GitHub practical [[Microsoft Copilot|copilot]] repository in my desktop.
 >
 > **[1:20](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=80)** Now I'm going to open this up and I want to make sure that I use the Visual Studio Code Insiders version to open this up.
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=215)** And so this will save me a few steps if I can create something that will do that automatically for me.
 >
-> **[3:41](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=221)** So when you want to show that you understand a technology like GitHub copilot you want to show it through a project that you've built and any project that's going to be better if it's something that is solving a problem for you.
+> **[3:41](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=221)** So when you want to show that you understand a technology like [[GitHub Copilot]] you want to show it through a project that you've built and any project that's going to be better if it's something that is solving a problem for you.
 >
 > **[3:55](https://www.linkedin.com/learning/practical-github-copilot/getting-the-repo?u=76281980&t=235)** Now for me, this is a fantastic problem to solve because it's going to save me a lot of time.
 >
@@ -430,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Python (Programming Language)|Python]] (3), [[Git]] (2), [[Codespaces]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Python (Programming Language)|Python]] (3), [[Git]] (2), [[Codespaces]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Tools:** github (6), visual studio (2), terminal (2)
 > **CLI Commands:** python (3), make (2), git (2), find (2)
 > **Env Vars:** yaml (2), mp3 (2), url (1), xml (1), rss (1)
@@ -439,12 +433,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic autocomplete
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980)
+#### [Basic autocomplete](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=0)** - [Narrator] One of the features that Copilot gives you is the ability to auto complete your thoughts as you type them.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=0)** - [Narrator] One of the features that [[Microsoft Copilot|Copilot]] gives you is the ability to auto complete your thoughts as you type them.
 >
 > **[0:06](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=6)** Now, in order to do that, it needs a lot of context.
 >
@@ -476,7 +469,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=93)** So you can see that it's basically writing the code that you need to go to a list of files and then read them.
 >
-> **[1:43](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=103)** So this is just regular Python.
+> **[1:43](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=103)** So this is just regular [[Python (Programming Language)|Python]].
 >
 > **[1:45](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=105)** And, let's see, sometimes if you click, it'll go away.
 >
@@ -484,7 +477,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=113)** Again, you could see that there's a little bit of a popup here that gives you some hints.
 >
-> **[1:57](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=117)** So you can accept the word.
+> **[1:57](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=117)** So you can accept the [[Microsoft Word|word]].
 >
 > **[1:59](https://www.linkedin.com/learning/practical-github-copilot/basic-autocomplete?u=76281980&t=119)** You can go ahead and see additional options.
 >
@@ -604,7 +597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), application (3), [[Microsoft Word|Word]] (3), hit (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (2), python (2)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** mp3 (2)
@@ -613,12 +606,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Autocompletions panel
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/autocompletions-panel?u=76281980)
+#### [Autocompletions panel](https://www.linkedin.com/learning/practical-github-copilot/autocompletions-panel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/autocompletions-panel?u=76281980&t=0)** - [Instructor] Copilot shows you solutions on a line by line or solution by solution basis.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/autocompletions-panel?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] shows you solutions on a line by line or solution by solution basis.
 >
 > **[0:07](https://www.linkedin.com/learning/practical-github-copilot/autocompletions-panel?u=76281980&t=7)** And most of the time that's okay, but sometimes you want to see different options for the solutions.
 >
@@ -680,7 +672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), hit (3), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3)
 > **Env Vars:** mp3 (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -692,12 +684,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The chat panel
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980)
+#### [The chat panel](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=0)** - [Narrator] What's probably my favorite way of interacting with Copilot is through the Copilot chat panel, which is sitting right here at the bottom of this toolbar, and allows you to do a number of different things.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=0)** - [Narrator] What's probably my favorite way of interacting with [[Microsoft Copilot|Copilot]] is through the Copilot chat panel, which is sitting right here at the bottom of this toolbar, and allows you to do a number of different things.
 >
 > **[0:15](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=15)** Let's go over what it can do and how it can help us with some code.
 >
@@ -715,7 +706,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=59)** It can find a lot of the problems with the code.
 >
-> **[1:03](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=63)** Then there's some general help about GitHub Copilot.
+> **[1:03](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=63)** Then there's some general help about [[GitHub Copilot]].
 >
 > **[1:06](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=66)** You can also have it generate unit tests, and also you can ask questions about Visual Studio Code and clear the session.
 >
@@ -725,7 +716,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=88)** So, for example, you can ask something like, "What would be a good module to read YAML files?"
 >
-> **[1:38](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=98)** And it understands that I'm working with Python, and it gives me a suggestion.
+> **[1:38](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=98)** And it understands that I'm working with [[Python (Programming Language)|Python]], and it gives me a suggestion.
 >
 > **[1:42](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980&t=102)** So this is pretty cool.
 >
@@ -777,7 +768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (1), [[Python (Programming Language)|Python]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** visual studio (2), github (1), terminal (1)
 > **CLI Commands:** find (1), python (1), make (1)
 > **Definitions:** known as (1), is a  (1)
@@ -786,8 +777,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 
-#### Generating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/generating-data?u=76281980)
+#### [Generating data](https://www.linkedin.com/learning/practical-github-copilot/generating-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -833,7 +823,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/practical-github-copilot/generating-data?u=76281980&t=139)** Let's see what it does with this.
 >
-> **[2:34](https://www.linkedin.com/learning/practical-github-copilot/generating-data?u=76281980&t=154)** All right, so here, it didn't seem to do as good a job although it looks like it did for some reason change John Smith.
+> **[2:34](https://www.linkedin.com/learning/practical-github-copilot/generating-data?u=76281980&t=154)** All right, so here, it didn't seem to do as good a job although it looks like it did for some reason change [[John the Ripper|John]] Smith.
 >
 > **[2:43](https://www.linkedin.com/learning/practical-github-copilot/generating-data?u=76281980&t=163)** So let's try being a little more specific.
 >
@@ -869,17 +859,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), prompt (3), ai (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
 > **CLI Commands:** make (3)
 > **File Paths:** feed.yaml (1)
 > **Speakers:** - [narrator] (1)
 
-#### Chatting with Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/chatting-with-copilot?u=76281980)
+#### [Chatting with Copilot](https://www.linkedin.com/learning/practical-github-copilot/chatting-with-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/chatting-with-copilot?u=76281980&t=0)** - [Instructor] Let's take a look at how we can refine chatting with copilot in this chat window.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/chatting-with-copilot?u=76281980&t=0)** - [Instructor] Let's take a look at how we can refine chatting with [[Microsoft Copilot|copilot]] in this chat window.
 >
 > **[0:06](https://www.linkedin.com/learning/practical-github-copilot/chatting-with-copilot?u=76281980&t=6)** So I've got a bit of code here, but I know that I want to be able to read the id3 information from my MP3 files.
 >
@@ -915,7 +904,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/practical-github-copilot/chatting-with-copilot?u=76281980&t=125)** So let's go ahead now and run it.
 >
-> **[2:14](https://www.linkedin.com/learning/practical-github-copilot/chatting-with-copilot?u=76281980&t=134)** All right, so it did say that I don't have any module called eyed3, and that means that I do need to install it, so, let's see if we can get ChatGPT to help.
+> **[2:14](https://www.linkedin.com/learning/practical-github-copilot/chatting-with-copilot?u=76281980&t=134)** All right, so it did say that I don't have any module called eyed3, and that means that I do need to install it, so, let's see if we can get [[ChatGPT]] to help.
 >
 > **[2:32](https://www.linkedin.com/learning/practical-github-copilot/chatting-with-copilot?u=76281980&t=152)** And I'm just going to try to copy this error, and see what it does with it.
 >
@@ -949,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), prompt (3), data (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[ChatGPT]] (1)
 > **CLI Commands:** pip (3), find (1), pip3 (1)
 > **Prerequisites:** install (5)
 > **Cross-References:** go back to (1), previous video (1)
@@ -958,8 +947,7 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Analogies:** for example (1)
 
-#### Output to YAML
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/output-to-yaml?u=76281980)
+#### [Output to YAML](https://www.linkedin.com/learning/practical-github-copilot/output-to-yaml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,7 +969,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/practical-github-copilot/output-to-yaml?u=76281980&t=50)** Now I know that I need to install a library called PyYAML, but you may just forget and try just running pip3 install yaml, and you'll get an error like this, says, "Could not find a version that satisfies the requirement."
 >
-> **[1:07](https://www.linkedin.com/learning/practical-github-copilot/output-to-yaml?u=76281980&t=67)** So let's just see what ChatGPT says about this error.
+> **[1:07](https://www.linkedin.com/learning/practical-github-copilot/output-to-yaml?u=76281980&t=67)** So let's just see what [[ChatGPT]] says about this error.
 >
 > **[1:11](https://www.linkedin.com/learning/practical-github-copilot/output-to-yaml?u=76281980&t=71)** See if it notices errors from the terminal and tells me what I need to do.
 >
@@ -991,7 +979,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/practical-github-copilot/output-to-yaml?u=76281980&t=88)** Let's see what it says.
 >
-> **[1:30](https://www.linkedin.com/learning/practical-github-copilot/output-to-yaml?u=76281980&t=90)** "The error message suggests that the PyYAML library is not installed in your Python environment," and it accurately tells me that I need to install YAML with pip install pyyaml.
+> **[1:30](https://www.linkedin.com/learning/practical-github-copilot/output-to-yaml?u=76281980&t=90)** "The error message suggests that the PyYAML library is not installed in your [[Python (Programming Language)|Python]] environment," and it accurately tells me that I need to install YAML with pip install pyyaml.
 >
 > **[1:41](https://www.linkedin.com/learning/practical-github-copilot/output-to-yaml?u=76281980&t=101)** Now, I'm on a Mac, so I know that I need to say pip3 install pyyaml, and it's going to do that correctly.
 >
@@ -1035,7 +1023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip3 (2), find (1), python (1), pip (1), make (1)
 > **Env Vars:** yaml (5), id3 (1)
 > **Prerequisites:** install (6)
@@ -1043,12 +1031,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### History and file names
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/history-and-file-names?u=76281980)
+#### [History and file names](https://www.linkedin.com/learning/practical-github-copilot/history-and-file-names?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/history-and-file-names?u=76281980&t=0)** - [Instructor] I'm the kind of person that likes to keep things clean so I'm constantly getting rid of some of the chats that I've had with Copilot but it does keep everything.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/history-and-file-names?u=76281980&t=0)** - [Instructor] I'm the kind of person that likes to keep things clean so I'm constantly getting rid of some of the chats that I've had with [[Microsoft Copilot|Copilot]] but it does keep everything.
 >
 > **[0:11](https://www.linkedin.com/learning/practical-github-copilot/history-and-file-names?u=76281980&t=11)** So if you want to get to an early chat even if you've deleted it, you can go right here to this history panel and take a look at all the chats that you've had with the application.
 >
@@ -1140,7 +1127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Copilot|Copilot]] (3), application (3), prompt (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3)
 > **Env Vars:** yaml (4), mp3 (1), xml (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -1149,12 +1136,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** be careful (1)
 
-#### Troubleshooting fixes
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/troubleshooting-fixes?u=76281980)
+#### [Troubleshooting fixes](https://www.linkedin.com/learning/practical-github-copilot/troubleshooting-fixes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/troubleshooting-fixes?u=76281980&t=0)** - [Instructor] Sometimes you have to correct ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/troubleshooting-fixes?u=76281980&t=0)** - [Instructor] Sometimes you have to correct [[ChatGPT]].
 >
 > **[0:02](https://www.linkedin.com/learning/practical-github-copilot/troubleshooting-fixes?u=76281980&t=2)** It's a little bit faster than deleting, and then rewriting a prompt, so let's try that.
 >
@@ -1228,22 +1214,21 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/practical-github-copilot/troubleshooting-fixes?u=76281980&t=234)** So sometimes you do have to coax it a little bit, sort of move it along.
 >
-> **[3:59](https://www.linkedin.com/learning/practical-github-copilot/troubleshooting-fixes?u=76281980&t=239)** It's actually good if you know the language a little bit so that you can find not necessarily errors, but more like problems when it's not giving you just the right thing and cost Chat Copilot into giving you the help that you need to get the job done.
+> **[3:59](https://www.linkedin.com/learning/practical-github-copilot/troubleshooting-fixes?u=76281980&t=239)** It's actually good if you know the language a little bit so that you can find not necessarily errors, but more like problems when it's not giving you just the right thing and cost Chat [[Microsoft Copilot|Copilot]] into giving you the help that you need to get the job done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), prompt (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** find (1)
 > **Ports:** :00 (1)
 > **Env Vars:** yaml (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/writing-comments?u=76281980)
+#### [Writing comments](https://www.linkedin.com/learning/practical-github-copilot/writing-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/writing-comments?u=76281980&t=0)** - [Instructor] Let's finish up our function by working with the file sizes, which is the last thing I need to add to my YAML, and then I'll show you how you can use Chat Copilot to add comments to your applications.
+> **[0:00](https://www.linkedin.com/learning/practical-github-copilot/writing-comments?u=76281980&t=0)** - [Instructor] Let's finish up our function by working with the file sizes, which is the last thing I need to add to my YAML, and then I'll show you how you can use Chat [[Microsoft Copilot|Copilot]] to add comments to your applications.
 >
 > **[0:15](https://www.linkedin.com/learning/practical-github-copilot/writing-comments?u=76281980&t=15)** So let's go ahead and start by saying in the get_audio_files function, can you add the size of each MP3 file as a field in audio files, which would be this array right here.
 >
@@ -1353,7 +1338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), application (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4)
 > **File Paths:** episodes.yaml (4), feed.yaml (2)
 > **Env Vars:** yaml (4), mp3 (1)
 > **CLI Commands:** make (2), find (1)
@@ -1367,8 +1352,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/practical-github-copilot/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,11 +1362,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/practical-github-copilot/what-s-next?u=76281980&t=6)** AI-assisted coding will be helping to create the next great app Trust me, having experience with the tools is going to put you ahead of the game.
 >
-> **[0:15](https://www.linkedin.com/learning/practical-github-copilot/what-s-next?u=76281980&t=15)** Now, if you work on a project using Copilot, I'd love to know about it, so post about it on LinkedIn and use the #PoweredbyLIL, and let us know what you think.
+> **[0:15](https://www.linkedin.com/learning/practical-github-copilot/what-s-next?u=76281980&t=15)** Now, if you work on a project using [[Microsoft Copilot|Copilot]], I'd love to know about it, so post about it on [[LinkedIn]] and use the #PoweredbyLIL, and let us know what you think.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), ai (1), next (1), [[Microsoft Copilot|Copilot]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1), [[LinkedIn]] (1)
 > **Speakers:** - hey (1)
 
 

@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a marketplace GitHub action
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980)
+#### [Creating a marketplace GitHub action](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -78,9 +77,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980&t=5)** That's what this course is all about.
 >
-> **[0:07](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980&t=7)** Together, we're going to build a GitHub Action and prepare it for the marketplace, something that can become a highlight in your developer portfolio.
+> **[0:07](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980&t=7)** Together, we're going to build a [[GitHub]] Action and prepare it for the marketplace, something that can become a highlight in your developer portfolio.
 >
-> **[0:15](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980&t=15)** Along the way, you'll see how different tools like Python, Docker, YAML, and XML come together.
+> **[0:15](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980&t=15)** Along the way, you'll see how different tools like [[Python (Programming Language)|Python]], Docker, YAML, and XML come together.
 >
 > **[0:21](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980&t=21)** But more importantly, you'll see the process of designing a solution from start to finish.
 >
@@ -103,8 +102,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - employers (1)
 
-#### Using the slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/using-the-slides?u=76281980)
+#### [Using the slides](https://www.linkedin.com/learning/practical-github-actions/using-the-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +124,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** slides_practicalactions (1)
@@ -138,12 +135,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How actions work
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980)
+#### [How actions work](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=0)** - [Instructor] Before we get too far, let's talk about what GitHub Actions are, how they work, and how this course is put together.
+> **[0:00](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=0)** - [Instructor] Before we get too far, let's talk about what [[GitHub]] Actions are, how they work, and how this course is put together.
 >
 > **[0:06](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=6)** GitHub Actions make it easier to automate your projects.
 >
@@ -155,11 +151,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=36)** You can also find documentation for GitHub Actions at this URL.
 >
-> **[0:42](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=42)** Now, this isn't a beginner course, and as a matter of fact, it's categorized as an advanced course, so I'm assuming that you know how to work with Git and GitHub.
+> **[0:42](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=42)** Now, this isn't a beginner course, and as a matter of fact, it's categorized as an advanced course, so I'm assuming that you know how to work with [[Git]] and GitHub.
 >
 > **[0:51](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=51)** If you're new to GitHub, you may want to check out some of the other courses on the site.
 >
-> **[0:55](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=55)** I'm also assuming that you're familiar with the command line and that you have experience programming with something like Python.
+> **[0:55](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=55)** I'm also assuming that you're familiar with the command line and that you have experience programming with something like [[Python (Programming Language)|Python]].
 >
 > **[1:01](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=61)** This is very much a hands-on course.
 >
@@ -175,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=98)** From a technical standpoint, it's an XML file in a specific format called RSS.
 >
-> **[1:45](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=105)** XML is a markup language like HTML, but it's used for different kinds of information.
+> **[1:45](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=105)** XML is a markup language like [[HTML]], but it's used for different kinds of information.
 >
 > **[1:50](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=110)** RSS is a flavor of XML specifically for syndicating content.
 >
@@ -209,7 +205,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=203)** I have created a repository at this URL right here, but you'll be building this project on your own repository.
 >
-> **[3:31](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=211)** This LinkedIn repo will have some sample content, as well as the code for the scripts, but you're not going to be able to use it to follow along.
+> **[3:31](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=211)** This [[LinkedIn]] repo will have some sample content, as well as the code for the scripts, but you're not going to be able to use it to follow along.
 >
 > **[3:39](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980&t=219)** You're going to be building your own actions, workflows, Docker files, and customizing things that would break the LinkedIn repository if you used it.
 >
@@ -217,7 +213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (12), [[Python (Programming Language)|Python]] (6), cloud (2), [[LinkedIn]] (2), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (12), [[Python (Programming Language)|Python]] (6), [[LinkedIn]] (2), [[Git]] (1), [[HTML]] (1)
 > **CLI Commands:** python (6), make (3), find (3), docker (2), git (1)
 > **Env Vars:** xml (5), rss (3), yaml (3), url (2), html (1)
 > **Tools:** github (12), command line (1), bash (1)
@@ -225,12 +221,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a repo and GitHub Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980)
+#### [Creating a repo and GitHub Pages](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=0)** - [Instructor] All right, first things first, let's set up a repository and then take advantage of GitHub pages to host our podcast feed.
+> **[0:00](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=0)** - [Instructor] All right, first things first, let's set up a repository and then take advantage of [[GitHub]] pages to host our podcast feed.
 >
 > **[0:07](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=7)** So I'm creating a new repository here in my own personal account.
 >
@@ -270,7 +265,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=126)** Once that's done, you can hit this Commit changes and you can call this First Commit and we'll hit Commit changes.
 >
-> **[2:19](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=139)** Now I'm going to rename this README-feed file and that's because the regular LinkedIn project has this standard README file that we create for all of our courses, and we want to make sure that this one is the README file for this project.
+> **[2:19](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=139)** Now I'm going to rename this README-feed file and that's because the regular [[LinkedIn]] project has this standard README file that we create for all of our courses, and we want to make sure that this one is the README file for this project.
 >
 > **[2:36](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=156)** So I'm going to click right here and to rename a file we'll just click on this, edit this file button and we're going to change the name here.
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=286)** But let's go ahead and click on this visit site to see where we go.
 >
-> **[4:50](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=290)** And you can see that it's just a regular HTML page.
+> **[4:50](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=290)** And you can see that it's just a regular [[HTML]] page.
 >
 > **[4:52](https://www.linkedin.com/learning/practical-github-actions/creating-a-repo-and-github-pages?u=76281980&t=292)** It's displaying the README file that I uploaded and you can change the name in here if you want to, but that's actually great.
 >
@@ -342,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (13), hit (4), [[LinkedIn]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (13), [[LinkedIn]] (2), [[HTML]] (1)
 > **Env Vars:** readme (10), url (4), jpg (1), html (1), mp3 (1)
 > **Tools:** github (13)
 > **UI Navigation:** go to (5), click on (4), scroll down (1)
@@ -351,16 +346,15 @@ created: 2026-05-02
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** go back to (3)
 
-#### Python to process YAML with Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980)
+#### [Python to process YAML with Codespaces](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=0)** - [Teacher] So it's time to start processing our YAML file.
 >
-> **[0:04](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=4)** Now, to do that, I could clone this repo locally and work on it on my machine, but that would mean I have to make sure that I have Python installed and that I also installed something called pip to handle modules plus the module that I'm going to be using called the PyYAML module.
+> **[0:04](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=4)** Now, to do that, I could clone this repo locally and work on it on my machine, but that would mean I have to make sure that I have [[Python (Programming Language)|Python]] installed and that I also installed something called pip to handle modules plus the module that I'm going to be using called the PyYAML module.
 >
-> **[0:22](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=22)** But thankfully, GitHub has this great feature called codespaces that allows you to create a virtual environment with a fantastic editor.
+> **[0:22](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=22)** But thankfully, [[GitHub]] has this great feature called [[Codespaces]] that allows you to create a virtual environment with a fantastic editor.
 >
 > **[0:31](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=31)** So we're going to use that.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=222)** And then the more complex ones have attributes like this.
 >
-> **[3:46](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=226)** They may notice that sometimes you'll see the word itunes mentioned a lot.
+> **[3:46](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=226)** They may notice that sometimes you'll see the [[Microsoft Word|word]] itunes mentioned a lot.
 >
 > **[3:50](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=230)** iTunes is an Apple music player that pioneered podcasts, and that's why a lot of these tags will also have this itunes prefix.
 >
@@ -454,7 +448,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=274)** And basically we need the attributes and the values and we're going to convert these equal signs to colons.
 >
-> **[4:50](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=290)** So sort of like a JSON-type format if you're from a JavaScript background.
+> **[4:50](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=290)** So sort of like a [[JSON]]-type format if you're from a [[JavaScript]] background.
 >
 > **[4:56](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces?u=76281980&t=296)** We're going to convert these to single quotes and make sure that these also have single quotes.
 >
@@ -548,7 +542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (3), [[Codespaces]] (2), [[GitHub]] (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Codespaces]] (2), [[GitHub]] (1), [[Microsoft Word|Word]] (1), [[JSON]] (1)
 > **Env Vars:** xml (7), yaml (6), rss (6), json (1), utf (1)
 > **Code Identifiers:** xml_tree (5), rss_element (4), yaml_data (3), safe_load (2), channel_element (2)
 > **CLI Commands:** python (5), make (4), pip (2)
@@ -557,8 +551,7 @@ created: 2026-05-02
 > **Tools:** terminal (2), github (1)
 > **Cross-References:** in the next (1)
 
-#### Finishing up the RSS feed
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980)
+#### [Finishing up the RSS feed](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -592,7 +585,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=101)** We're also going to create a link element, so we're going to use that in different places.
 >
-> **[1:47](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=107)** So I'm going to create one called link prefix and it's going to hold the URL that we got when we created the GitHub page.
+> **[1:47](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=107)** So I'm going to create one called link prefix and it's going to hold the URL that we got when we created the [[GitHub]] page.
 >
 > **[1:57](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=117)** So we'll do YAML data and we'll read the link variable, which we'll need to add and create.
 >
@@ -610,7 +603,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=160)** I'm not going to add that trailing slash, just this right here.
 >
-> **[2:46](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=166)** All right, so next, let's go back into the Python document.
+> **[2:46](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=166)** All right, so next, let's go back into the [[Python (Programming Language)|Python]] document.
 >
 > **[2:53](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=173)** And when I use the image, I'm going to add the prefix to that.
 >
@@ -742,7 +735,7 @@ created: 2026-05-02
 >
 > **[10:06](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=606)** And then length, item length right here.
 >
-> **[10:15](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=615)** Cool. And then the rest should be just fine.
+> **[10:15](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=615)** Cool. And then the [[Representational State Transfer (REST)|rest]] should be just fine.
 >
 > **[10:20](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=620)** So let's go ahead and save this.
 >
@@ -760,7 +753,7 @@ created: 2026-05-02
 >
 > **[10:57](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=657)** Clear this out, and you can see that now it execute it.
 >
-> **[11:05](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=665)** And if I look at podcast.xml, I'll do a word wrap so you can see that it's a lot longer because it has all the data in the nice RSS feed format with each of the different items for the different episodes.
+> **[11:05](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=665)** And if I look at podcast.xml, I'll do a [[Microsoft Word|word]] wrap so you can see that it's a lot longer because it has all the data in the nice RSS feed format with each of the different items for the different episodes.
 >
 > **[11:21](https://www.linkedin.com/learning/practical-github-actions/finishing-up-the-rss-feed?u=76281980&t=681)** So this is really ready for an iTunes or any other feed that you would want, but we want to automate this process a lot more.
 >
@@ -768,7 +761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** yaml (9), xml (4), rss (4), url (4), mp3 (1)
 > **Code Identifiers:** itunes (8)
 > **Analogies:** similar to (3), kind of like (1), it's like (1), just like (1)
@@ -782,12 +775,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a workflow with existing actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980)
+#### [Creating a workflow with existing actions](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=0)** - [Instructor] All right, so it's time to start building our own GitHub actions.
+> **[0:00](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=0)** - [Instructor] All right, so it's time to start building our own [[GitHub]] actions.
 >
 > **[0:04](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=4)** Now you can look at the GitHub documentation for actions at this URL.
 >
@@ -819,7 +811,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=107)** So in order for this podcast feed to exist on the website we're going to need to push it to the main branch.
 >
-> **[1:55](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=115)** So I'll do a git checkout main and I'll do a get merge 01_04e, that's the last video the end of the code in the last video.
+> **[1:55](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=115)** So I'll do a [[Git]] checkout main and I'll do a get merge 01_04e, that's the last video the end of the code in the last video.
 >
 > **[2:09](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=129)** And I'll need to issue a git push command.
 >
@@ -831,7 +823,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=148)** So what I did basically is what we're going to need to do, but with an action.
 >
-> **[2:32](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=152)** We want to, if somebody modifies the YAML file, say by adding an additional episode and perhaps drop an additional audio file in this folder, then what we want to do is we want an action that's going to run this Python document, generate a new podcast XML file and then push things onto the server.
+> **[2:32](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=152)** We want to, if somebody modifies the YAML file, say by adding an additional episode and perhaps drop an additional audio file in this folder, then what we want to do is we want an action that's going to run this [[Python (Programming Language)|Python]] document, generate a new podcast XML file and then push things onto the server.
 >
 > **[2:54](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=174)** And for that, we're going to need to create an action and we're going to do that in the website.
 >
@@ -893,9 +885,9 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=326)** This job is going to run on a specific type of machine and you can specify lots of different machines here.
 >
-> **[5:35](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=335)** You can specify, for example, a Windows machine, different versions of Ubuntu.
+> **[5:35](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=335)** You can specify, for example, a [[Windows]] machine, different versions of [[Ubuntu]].
 >
-> **[5:40](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=340)** I'm going to ask for Ubuntu machine, which is basically a Linux workstation, and I'm just going to get the latest version of that machine.
+> **[5:40](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=340)** I'm going to ask for Ubuntu machine, which is basically a [[Linux]] workstation, and I'm just going to get the latest version of that machine.
 >
 > **[5:49](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980&t=349)** Cool, now I need to specify a series of steps and I like to name my steps, although you don't always have to put a name for everything.
 >
@@ -1079,7 +1071,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (13), [[Python (Programming Language)|Python]] (13), [[Git]] (10), hit (6), [[Search]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (13), [[Python (Programming Language)|Python]] (13), [[Git]] (10), [[Ubuntu]] (3), [[Windows]] (1)
 > **CLI Commands:** python (13), git (10), pip (5), make (4), find (1)
 > **Env Vars:** xml (9), yaml (9), pip (5), url (1), readme (1)
 > **Tools:** github (13), terminal (2)
@@ -1088,8 +1080,7 @@ created: 2026-05-02
 > **Analogies:** for example (4), similar to (1), kind of like (1), just like (1)
 > **Definitions:** means that (4)
 
-#### Creating a generator repo Dockerfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980)
+#### [Creating a generator repo Dockerfile](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1099,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=31)** So first off, I'm going to create a new repo.
 >
-> **[0:35](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=35)** I'll go to github.new, and I'm going to call this podcast-generator.
+> **[0:35](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=35)** I'll go to [[GitHub]].new, and I'm going to call this podcast-generator.
 >
 > **[0:45](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=45)** All right, that's available.
 >
@@ -1109,7 +1100,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=62)** All right, so I'll create a repository, and you can see that it just gives you a very basic podcast generator file with this license.
 >
-> **[1:12](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=72)** We're going to need to move some things from our other repository, mainly the Python file.
+> **[1:12](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=72)** We're going to need to move some things from our other repository, mainly the [[Python (Programming Language)|Python]] file.
 >
 > **[1:20](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=80)** And so we can, if we want to, download this, but this Python file is so small, that I'm just going to click on feed.py, and I'll click on this button right here that lets me copy the contents of this, and then I'll just recreate it in my new repository.
 >
@@ -1159,7 +1150,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=236)** Now, we saw some of this when we created our own actions, where we could specify the types of machine that you generate.
 >
-> **[4:04](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=244)** So my first command is going to be ubuntu:latest, and that's going to procure an Ubuntu machine for me.
+> **[4:04](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=244)** So my first command is going to be [[Ubuntu]]:latest, and that's going to procure an Ubuntu machine for me.
 >
 > **[4:15](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=255)** And then I'm going to install things.
 >
@@ -1169,13 +1160,13 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=271)** We've got plenty of courses that can show you how to work with Docker as well, if you need more help with this.
 >
-> **[4:37](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=277)** I'm going to once again turn off Copilot.
+> **[4:37](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=277)** I'm going to once again turn off [[Microsoft Copilot|Copilot]].
 >
 > **[4:40](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=280)** You need to do that, I guess, for every type of file that you're working with.
 >
 > **[4:44](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=284)** And since it doesn't know Dockerfiles, I needed to turn that off, or it's going to give me a little bit too much code that will be distracting.
 >
-> **[4:54](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=294)** All right, so here, I'm assuming that it's procured a machine, an Ubuntu machine, that's a Linux machine, the latest version of that.
+> **[4:54](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=294)** All right, so here, I'm assuming that it's procured a machine, an Ubuntu machine, that's a [[Linux]] machine, the latest version of that.
 >
 > **[5:01](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=301)** And now I need to go ahead and run some commands that will allow me to install things.
 >
@@ -1195,7 +1186,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=362)** So I'm going to say python3-pip.
 >
-> **[6:07](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=367)** And then finally, I want to make sure that I also have Git on this machine.
+> **[6:07](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=367)** And then finally, I want to make sure that I also have [[Git]] on this machine.
 >
 > **[6:12](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=372)** So before, we were using an action that took care of these things for us, but now we have to do it a little bit manually, because we're basically creating a machine from scratch.
 >
@@ -1227,11 +1218,11 @@ created: 2026-05-02
 >
 > **[8:19](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=499)** So that's enough for right now.
 >
-> **[8:20](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=500)** I'll pick up the rest of the other files in the next couple of videos.
+> **[8:20](https://www.linkedin.com/learning/practical-github-actions/creating-a-generator-repo-dockerfile?u=76281980&t=500)** I'll pick up the [[Representational State Transfer (REST)|rest]] of the other files in the next couple of videos.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Ubuntu]] (4), application (3), [[GitHub]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Ubuntu]] (4), [[GitHub]] (2), [[Linux]] (2), [[Git]] (2)
 > **CLI Commands:** python (5), docker (5), make (3), apt (3), git (2)
 > **File Paths:** feed.py (5), entrypoint.sh (3), usr/bin/feed.py (1)
 > **Prerequisites:** install (6)
@@ -1240,8 +1231,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (3), go to (1)
 > **Code Identifiers:** pyyaml (3)
 
-#### Creating an entry point
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980)
+#### [Creating an entry point](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1265,7 +1255,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=75)** So here now we're going to do things that we've done in other places.
 >
-> **[1:20](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=80)** So I'll do a git config and set the user.
+> **[1:20](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=80)** So I'll do a [[Git]] config and set the user.
 >
 > **[1:26](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=86)** I don't want to do the mail.
 >
@@ -1279,11 +1269,11 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=128)** And then we'll do one more to make sure that we can run workflows, and this will be global add safe directory
 >
-> **[2:26](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=146)** and github/workspace.
+> **[2:26](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=146)** and [[GitHub]]/workspace.
 >
 > **[2:30](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=150)** This will just make sure that we are adding this to the safe list of directories so that we can run git operations in here.
 >
-> **[2:40](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=160)** So next up, we'll go ahead and execute Python.
+> **[2:40](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=160)** So next up, we'll go ahead and execute [[Python (Programming Language)|Python]].
 >
 > **[2:44](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=164)** Because we installed Python 3, we have to say Python 3 here.
 >
@@ -1297,7 +1287,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=198)** Update feed.
 >
-> **[3:21](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=201)** All right, it looks like GitHub Copilot.
+> **[3:21](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=201)** All right, it looks like [[GitHub Copilot]].
 >
 > **[3:23](https://www.linkedin.com/learning/practical-github-actions/creating-an-entry-point?u=76281980&t=203)** It's really helpful, but it keeps on turning itself on, so I'll just disable it for Shell Script as well.
 >
@@ -1319,7 +1309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), [[Python (Programming Language)|Python]] (5), next (2), hit (1), generic (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[Python (Programming Language)|Python]] (5), [[GitHub]] (1), [[GitHub Copilot]] (1)
 > **CLI Commands:** git (7), python (5), make (3), docker (2)
 > **Tools:** terminal (2), bash (2), github (2), command line (1)
 > **File Paths:** entrypoint.sh (1), usr/bin/feed.py (1), feed.py (1), usr/bin.py (1), podcast.xml (1)
@@ -1328,8 +1318,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
 
-#### Crafting an action.yml file
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/crafting-an-action-yml-file?u=76281980)
+#### [Crafting an action.yml file](https://www.linkedin.com/learning/practical-github-actions/crafting-an-action-yml-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1353,7 +1342,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/practical-github-actions/crafting-an-action-yml-file?u=76281980&t=86)** Now, normally you can add a piece of branding to these things, so that in the marketplace, they have a little icon and the icons come from a library called "Feather Icons."
 >
-> **[1:37](https://www.linkedin.com/learning/practical-github-actions/crafting-an-action-yml-file?u=76281980&t=97)** So, we'll use an icon called "Git Branch," because it's the one that makes the most sense, honestly, in most of the instances.
+> **[1:37](https://www.linkedin.com/learning/practical-github-actions/crafting-an-action-yml-file?u=76281980&t=97)** So, we'll use an icon called "[[Git]] Branch," because it's the one that makes the most sense, honestly, in most of the instances.
 >
 > **[1:46](https://www.linkedin.com/learning/practical-github-actions/crafting-an-action-yml-file?u=76281980&t=106)** This isn't a a big deal, and then I'll make it red.
 >
@@ -1363,7 +1352,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/practical-github-actions/crafting-an-action-yml-file?u=76281980&t=122)** So, remember when we were creating the entry point, we are sort of relying on some of these variables being available to us.
 >
-> **[2:13](https://www.linkedin.com/learning/practical-github-actions/crafting-an-action-yml-file?u=76281980&t=133)** So here for the email, we'll use a description and we will say that the default for this is going to be basically the GitHub actor, and that will let us just get the email from whoever runs the action.
+> **[2:13](https://www.linkedin.com/learning/practical-github-actions/crafting-an-action-yml-file?u=76281980&t=133)** So here for the email, we'll use a description and we will say that the default for this is going to be basically the [[GitHub]] actor, and that will let us just get the email from whoever runs the action.
 >
 > **[2:36](https://www.linkedin.com/learning/practical-github-actions/crafting-an-action-yml-file?u=76281980&t=156)** So "GitHub, dot actor, at local host."
 >
@@ -1387,7 +1376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (2), next (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (2)
 > **CLI Commands:** make (4), docker (4), git (2), find (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1396,8 +1385,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - all (1)
 
-#### Testing your actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/testing-your-actions?u=76281980)
+#### [Testing your actions](https://www.linkedin.com/learning/practical-github-actions/testing-your-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,7 +1415,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/practical-github-actions/testing-your-actions?u=76281980&t=76)** And then, we're going to hit the Edit button.
 >
-> **[1:19](https://www.linkedin.com/learning/practical-github-actions/testing-your-actions?u=76281980&t=79)** That, basically, has taken us to podcast-test, to .github file workflows and the main.yml file.
+> **[1:19](https://www.linkedin.com/learning/practical-github-actions/testing-your-actions?u=76281980&t=79)** That, basically, has taken us to podcast-test, to .[[GitHub]] file workflows and the main.yml file.
 >
 > **[1:26](https://www.linkedin.com/learning/practical-github-actions/testing-your-actions?u=76281980&t=86)** You could also just go to the repo and then just, literally, just open the main.yml file from here.
 >
@@ -1503,7 +1491,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/practical-github-actions/testing-your-actions?u=76281980&t=313)** I can issue an ls -la command, and I can take a look at the permissions for entrypoint.sh and see that it has the right permissions, so it needs to be able to execute, basically.
 >
-> **[5:26](https://www.linkedin.com/learning/practical-github-actions/testing-your-actions?u=76281980&t=326)** Now that we have that, then let's try a git status.
+> **[5:26](https://www.linkedin.com/learning/practical-github-actions/testing-your-actions?u=76281980&t=326)** Now that we have that, then let's try a [[Git]] status.
 >
 > **[5:31](https://www.linkedin.com/learning/practical-github-actions/testing-your-actions?u=76281980&t=331)** It looked like it knows that it modified entrypoint.sh, so I'll add this, commit it,
 >
@@ -1549,7 +1537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[GitHub]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Git]] (1)
 > **File Paths:** entrypoint.sh (5), main.yml (2), feed.yaml (1)
 > **CLI Commands:** make (4), find (1), chmod (1), ls (1), git (1)
 > **UI Navigation:** go to (3), click on (3), open the (1)
@@ -1558,16 +1546,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Tools:** github (1), terminal (1)
 
-#### Creating a release
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980)
+#### [Creating a release](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=0)** - [Instructor] Now that our action is ready, we're ready to publish this onto the Marketplace.
 >
-> **[0:04](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=4)** Now, to do this, we'll need to fill out some forms and draft a release.
+> **[0:04](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=4)** Now, to do this, we'll need to fill out some [[Forms]] and draft a release.
 >
-> **[0:09](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=9)** Thankfully, once GitHub understands that your project is ready for a release, it gives you this little publish action to Marketplace box right here.
+> **[0:09](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=9)** Thankfully, once [[GitHub]] understands that your project is ready for a release, it gives you this little publish action to Marketplace box right here.
 >
 > **[0:18](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=18)** So we can draft a release from here, and you can also create a release from the sidebar.
 >
@@ -1587,7 +1574,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=54)** All right, I also need to create a tag because of releases.
 >
-> **[0:59](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=59)** Just basically a tag from Git.
+> **[0:59](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=59)** Just basically a tag from [[Git]].
 >
 > **[1:03](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=63)** So you click on this right here and then you'll have to create a new tag.
 >
@@ -1635,7 +1622,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=188)** So we'll type in podcast and then we can put in a space and it lets you add more, feed, XML, RSS.
 >
-> **[3:20](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=200)** We'll put in Python since this project used Python.
+> **[3:20](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=200)** We'll put in [[Python (Programming Language)|Python]] since this project used Python.
 >
 > **[3:25](https://www.linkedin.com/learning/practical-github-actions/creating-a-release?u=76281980&t=205)** And we'll put in gitHubactions.
 >
@@ -1675,7 +1662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (2), hit (2), [[Python (Programming Language)|Python]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (2), [[Python (Programming Language)|Python]] (2), [[Forms]] (1)
 > **Env Vars:** url (2), yaml (2), xml (1), rss (1), readme (1)
 > **CLI Commands:** git (2), python (2), make (1)
 > **UI Navigation:** click on (3), dropdown (1)

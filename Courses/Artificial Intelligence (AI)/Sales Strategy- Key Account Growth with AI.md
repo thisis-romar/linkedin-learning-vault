@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare to grow with your top clients
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/prepare-to-grow-with-your-top-clients?u=76281980)
+#### [Prepare to grow with your top clients](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/prepare-to-grow-with-your-top-clients?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,12 +102,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/what-you-need-to-know?u=76281980&t=29)** They are high-value clients who are treated differently in terms of resources, focus, and custom programs.
 >
-> **[0:36](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/what-you-need-to-know?u=76281980&t=36)** Typically, top-tier account programs are used by companies that offer long-term agreements or provide a complex suite of products and services that require ongoing support and collaboration.
+> **[0:36](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/what-you-need-to-know?u=76281980&t=36)** Typically, top-tier account programs are used by companies that offer long-term agreements or provide a complex suite of [[Microsoft Products|products]] and services that require ongoing support and collaboration.
 >
 > **[0:48](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/what-you-need-to-know?u=76281980&t=48)** Companies have varying structures and role titles to support their key accounts.
 >
@@ -146,7 +143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** b2b (1)
 
@@ -155,8 +152,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Combine account management with strategic alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/combine-account-management-with-strategic-alignment?u=76281980)
+#### [Combine account management with strategic alignment](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/combine-account-management-with-strategic-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -170,7 +166,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/combine-account-management-with-strategic-alignment?u=76281980&t=17)** You've been added to the team to stabilize the account and look for areas to grow with them.
 >
-> **[0:23](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/combine-account-management-with-strategic-alignment?u=76281980&t=23)** It's a daunting task, and one of your greatest fears is that your key account will transition away from your products and services.
+> **[0:23](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/combine-account-management-with-strategic-alignment?u=76281980&t=23)** It's a daunting task, and one of your greatest fears is that your key account will transition away from your [[Microsoft Products|products]] and services.
 >
 > **[0:30](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/combine-account-management-with-strategic-alignment?u=76281980&t=30)** Losing this flagship client would result in a substantial revenue loss for your company and gut-wrenching embarrassment for the entire key account team.
 >
@@ -230,11 +226,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 
-#### Secure the senior leader handshake
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/secure-the-senior-leader-handshake?u=76281980)
+#### [Secure the senior leader handshake](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/secure-the-senior-leader-handshake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,12 +291,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (1), such as (1)
 
-#### Establish key account criteria
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/establish-key-account-criteria?u=76281980)
+#### [Establish key account criteria](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/establish-key-account-criteria?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,7 +354,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), functional (1), teams (1), business (1), prompt (1)
 > **Analogies:** for example (2), for instance (1)
 > **Definitions:** defined as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -372,8 +364,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assemble the key account team
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980)
+#### [Assemble the key account team](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,7 +402,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980&t=100)** The focused executive must also make time for the internal key account team by participating in regular account strategy meetings.
 >
-> **[1:48](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980&t=108)** The second missing spoke was a dedicated person responsible for sales strategy and growth.
+> **[1:48](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980&t=108)** The second missing spoke was a dedicated person responsible for [[Sales Strategy]] and growth.
 >
 > **[1:54](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980&t=114)** This resource leads the efforts during regular internal strategy meetings to anticipate and plan for new opportunities, map account relationships to make sure that all relationships are moving forward, and to engage the team to build strategies that lock out competitors by focusing on value for their key account.
 >
@@ -423,7 +414,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980&t=154)** The hub and spokes make up the core team.
 >
-> **[2:37](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980&t=157)** They share accountability for the ultimate success of the key account.
+> **[2:37](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980&t=157)** They share [[Accountability]] for the ultimate success of the key account.
 >
 > **[2:41](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980&t=161)** They communicate regularly and proactively and are committed to milestones and goals that they set each year.
 >
@@ -441,13 +432,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), business (1), [[Accountability]] (1), ai (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** make (5)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** required to (1)
 
-#### Establish essentials for top-tier accounts with AI assistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/establish-essentials-for-top-tier-accounts-with-ai-assists?u=76281980)
+#### [Establish essentials for top-tier accounts with AI assistance](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/establish-essentials-for-top-tier-accounts-with-ai-assists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,7 +503,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), business (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** snap (1), make (1)
 > **Definitions:** is a  (2)
@@ -523,8 +512,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pinpoint key account opportunities and strategies with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/pinpoint-key-account-opportunities-and-strategies-with-ai?u=76281980)
+#### [Pinpoint key account opportunities and strategies with AI](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/pinpoint-key-account-opportunities-and-strategies-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,7 +532,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/pinpoint-key-account-opportunities-and-strategies-with-ai?u=76281980&t=35)** Nevertheless, the meeting started with each person sharing the untapped areas of opportunity they could forecast for their area.
 >
-> **[0:43](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/pinpoint-key-account-opportunities-and-strategies-with-ai?u=76281980&t=43)** One by one, from the strategic account manager to the customer success lead to the professional services analyst, each person reported modest growth for their products and services.
+> **[0:43](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/pinpoint-key-account-opportunities-and-strategies-with-ai?u=76281980&t=43)** One by one, from the strategic account manager to the customer success lead to the professional services analyst, each person reported modest growth for their [[Microsoft Products|products]] and services.
 >
 > **[0:54](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/pinpoint-key-account-opportunities-and-strategies-with-ai?u=76281980&t=54)** The sales VP frowned and took a visible deep breath before informing them that there was much they were missing.
 >
@@ -590,16 +578,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (2), teams (1), ai (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 
-#### Advance by deploying top account team members
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/advance-by-deploying-top-account-team-members?u=76281980)
+#### [Advance by deploying top account team members](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/advance-by-deploying-top-account-team-members?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/advance-by-deploying-top-account-team-members?u=76281980&t=1)** It's common for key account members to have an internal role that may vary from their external role.
 >
-> **[0:08](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/advance-by-deploying-top-account-team-members?u=76281980&t=8)** For example, for key account teams to thrive, they need a strong leader skilled in strategic alignment and resource utilization, and a team organizer who keeps the team moving forward with clear communication and accountability, just to mention a few.
+> **[0:08](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/advance-by-deploying-top-account-team-members?u=76281980&t=8)** For example, for key account teams to thrive, they need a strong leader skilled in strategic alignment and resource utilization, and a team organizer who keeps the team moving forward with clear communication and [[Accountability]], just to mention a few.
 >
 > **[0:24](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/advance-by-deploying-top-account-team-members?u=76281980&t=24)** These roles should be agreed upon during the formation of the key account team.
 >
@@ -657,12 +644,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Accountability]] (1), ai (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 
-#### Gain momentum with win rooms
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980)
+#### [Gain momentum with win rooms](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -672,15 +658,15 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980&t=11)** Early meetings with the new marquee client revealed their expectations.
 >
-> **[0:15](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980&t=15)** They wanted a close working relationship with a top-notch team who bring innovative ideas, strategic thinking, and value to every discussion.
+> **[0:15](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980&t=15)** They wanted a close working relationship with a top-notch team who bring innovative ideas, [[Strategic Thinking]], and value to every discussion.
 >
-> **[0:27](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980&t=27)** It was clear to the team that they needed to provide exceptional support in the delivery of their products and services, and high-level strategic engagement, leading to a robust partnership.
+> **[0:27](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980&t=27)** It was clear to the team that they needed to provide exceptional support in the delivery of their [[Microsoft Products|products]] and services, and high-level strategic engagement, leading to a robust partnership.
 >
 > **[0:38](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980&t=38)** The solution lies in the team's commitment to regular strategy sessions, in addition to scheduled account management meetings.
 >
 > **[0:46](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980&t=46)** I call these win rooms, and they ensure a focus on long-term strategic client engagement.
 >
-> **[0:52](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980&t=52)** Win rooms are the place where proactive sales strategy work gets done.
+> **[0:52](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980&t=52)** Win rooms are the place where proactive [[Sales Strategy]] work gets done.
 >
 > **[0:57](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/gain-momentum-with-win-rooms?u=76281980&t=57)** They turn the entire key account team into strategic thinkers and doers.
 >
@@ -726,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sales Strategy]] (3), teams (3), business (3), [[Strategic Thinking]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Sales Strategy]] (3), [[Strategic Thinking]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 
@@ -735,8 +721,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Activate executive engagement with an AI boost
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/activate-executive-engagement-with-an-ai-boost?u=76281980)
+#### [Activate executive engagement with an AI boost](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/activate-executive-engagement-with-an-ai-boost?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,11 +787,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Analogies:** for example (1)
 
-#### Focus on communicating your impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/focus-on-communicating-your-impact?u=76281980)
+#### [Focus on communicating your impact](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/focus-on-communicating-your-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,7 +803,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/focus-on-communicating-your-impact?u=76281980&t=24)** My client's challenge was to communicate their impact in multiple ways over time and to all their stakeholders and decision-makers.
 >
-> **[0:32](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/focus-on-communicating-your-impact?u=76281980&t=32)** They knew that their path to retention and growth was rooted in why their products and services were unique in their ability to produce the results that their key account desired.
+> **[0:32](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/focus-on-communicating-your-impact?u=76281980&t=32)** They knew that their path to retention and growth was rooted in why their [[Microsoft Products|products]] and services were unique in their ability to produce the results that their key account desired.
 >
 > **[0:42](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/focus-on-communicating-your-impact?u=76281980&t=42)** In my experience with senior salespeople over the years, I've seen firsthand how difficult it is to articulate value.
 >
@@ -868,13 +851,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2), product (1), next (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
 
-#### Collaborate on a joint planning roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/collaborate-on-a-joint-planning-roadmap?u=76281980)
+#### [Collaborate on a joint planning roadmap](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/collaborate-on-a-joint-planning-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,7 +918,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 
@@ -945,8 +926,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your customer success stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980)
+#### [Create your customer success stories](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +970,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980&t=118)** Summarize your prospect's perspective and critical learnings to help your salespeople land other big contracts.
 >
-> **[2:05](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980&t=125)** Use your findings for sales training, and share with key departments such as marketing, professional services, and the [[Executive Leadership]] team.
+> **[2:05](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980&t=125)** Use your findings for sales training, and share with key departments such as marketing, professional services, and the [[[[Executive Leadership]]]] team.
 >
 > **[2:13](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980&t=133)** Your win celebration is a wonderful time for the opportunity team leader to recount the untold stories.
 >
@@ -1014,13 +994,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Executive Leadership]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (1), picture (1), such as (1)
 > **Prerequisites:** required to (1)
 
-#### Design the path forward
-> [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/design-the-path-forward?u=76281980)
+#### [Design the path forward](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/design-the-path-forward?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,13 +1029,13 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/design-the-path-forward?u=76281980&t=82)** If you want more resources, check out my books: The Top Sales Leader Playbook: How to Win 5X Deals Repeatedly, and The Top Seller Advantage: Powerful Strategies to Build Long-Term Executive Relationships, or tap into the other valuable sales tools on my website.
 >
-> **[1:39](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/design-the-path-forward?u=76281980&t=99)** You can also follow me on LinkedIn, where I post regularly about what's working now in the world of B2B strategic sales, and it's where I announce my newest courses on LinkedIn Learning.
+> **[1:39](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/design-the-path-forward?u=76281980&t=99)** You can also follow me on [[LinkedIn]], where I post regularly about what's working now in the world of B2B strategic sales, and it's where I announce my newest courses on LinkedIn Learning.
 >
 > **[1:50](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/design-the-path-forward?u=76281980&t=110)** Know that I'm cheering you on as you embrace the winning strategies to grow with your own key accounts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), management (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Env Vars:** b2b (1)
 
 

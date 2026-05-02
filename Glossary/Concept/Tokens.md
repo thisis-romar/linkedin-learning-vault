@@ -105,20 +105,20 @@ created: 2026-05-02
 > 72. [[Fine-Tuning for LLMs- from Beginner to Advanced]] — 5 mentions
 > 73. [[Applied AI- Building NLP Apps with Hugging Face Transformers]] — 5 mentions
 > 74. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 5 mentions
-> 75. [[Azure Essential Training for Developers]] — 5 mentions
-> 76. [[Advanced Terraform]] — 5 mentions
-> 77. [[Securing Containers and Kubernetes Ecosystem]] — 5 mentions
-> 78. [[React- Cloud-Powered Apps with Firebase]] — 5 mentions
-> 79. [[Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js]] — 4 mentions
-> 80. [[Prompt Engineering with ChatGPT]] — 4 mentions
-> 81. [[IT Security Foundations- Operating System Security]] — 4 mentions
-> 82. [[Data Science Foundations- Data Mining in R]] — 4 mentions
-> 83. [[Azure AI Studio First Look]] — 4 mentions
-> 84. [[Build Ai Agents And Automate Workflows With N8n]] — 4 mentions
-> 85. [[Building Generative AI Apps to Talk to Your Data]] — 4 mentions
-> 86. [[RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance]] — 4 mentions
-> 87. [[Spring 6- Spring Security]] — 4 mentions
-> 88. [[Data Integration And Api Development For Ai Applications]] — 4 mentions
+> 75. [[Data Integration And Api Development For Ai Applications]] — 5 mentions
+> 76. [[Azure Essential Training for Developers]] — 5 mentions
+> 77. [[Advanced Terraform]] — 5 mentions
+> 78. [[Securing Containers and Kubernetes Ecosystem]] — 5 mentions
+> 79. [[React- Cloud-Powered Apps with Firebase]] — 5 mentions
+> 80. [[Hands-On AI- Build an AI Chatbot with GPT-4o and Next.js]] — 4 mentions
+> 81. [[Prompt Engineering with ChatGPT]] — 4 mentions
+> 82. [[IT Security Foundations- Operating System Security]] — 4 mentions
+> 83. [[Data Science Foundations- Data Mining in R]] — 4 mentions
+> 84. [[Azure AI Studio First Look]] — 4 mentions
+> 85. [[Build Ai Agents And Automate Workflows With N8n]] — 4 mentions
+> 86. [[Building Generative AI Apps to Talk to Your Data]] — 4 mentions
+> 87. [[RAG Fine-Tuning- Advanced Techniques for Accuracy and Model Performance]] — 4 mentions
+> 88. [[Spring 6- Spring Security]] — 4 mentions
 > 89. [[OpenAI API- Function Calling (2023)]] — 4 mentions
 > 90. [[OpenAI API- Code Interpreter and Advanced Data Analysis]] — 4 mentions
 > 91. [[Google Cloud Platform for Machine Learning Essential Training]] — 4 mentions

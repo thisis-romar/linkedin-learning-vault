@@ -105,12 +105,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python data analysis in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980)
+#### [Python data analysis in healthcare](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980&t=0)** - The healthcare industry is big, and it's one of the most diverse sources of data.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980&t=0)** - The [[Healthcare Industry]] is big, and it's one of the most diverse sources of data.
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980&t=5)** This data transcends clinical data.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980&t=18)** I'm a pharmacist and data scientist, and my work has been at the intersection of data in healthcare for the past 10 years.
 >
-> **[0:27](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980&t=27)** In this course, I will show you practical ways to use Python programming to analyze data in healthcare.
+> **[0:27](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980&t=27)** In this course, I will show you practical ways to use [[Python (Programming Language)|Python]] programming to analyze data in healthcare.
 >
 > **[0:36](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/python-data-analysis-in-healthcare?u=76281980&t=36)** We will derive insights, predict trends, visualize patterns, wrangle data, and improve our Python programming using the range of Python tools.
 >
@@ -130,39 +129,37 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3), [[Programming]] (2), [[Healthcare Industry]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Healthcare Industry]] (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - the (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/what-you-should-know?u=76281980&t=0)** - [Instructor] To successfully complete this course and to code along with me, you need to understand the basics of Python programming.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/what-you-should-know?u=76281980&t=0)** - [Instructor] To successfully complete this course and to code along with me, you need to understand the basics of [[Python (Programming Language)|Python]] programming.
 >
-> **[0:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/what-you-should-know?u=76281980&t=8)** If this is new to you, a good place to get started is my [[Python for Health Sciences and Healthcare]] course on LinkedIn Learning.
+> **[0:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/what-you-should-know?u=76281980&t=8)** If this is new to you, a good place to get started is my [[Python for Health Sciences and Healthcare]] course on [[LinkedIn]] Learning.
 >
 > **[0:17](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/what-you-should-know?u=76281980&t=17)** Otherwise, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] To get started with the exercise files provided in this course, go to colab.research.[google.com](https://google.com).
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] To get started with the exercise files provided in this course, go to colab.research.[[[Google]].com](https://google.com).
 >
 > **[0:09](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980&t=9)** And then on the left pane, click on File, Upload notebook.
 >
 > **[0:15](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980&t=15)** There'll be several options on where you can upload notebooks from.
 >
-> **[0:20](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980&t=20)** And then, click on the Python file that you would like to work with.
+> **[0:20](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980&t=20)** And then, click on the [[Python (Programming Language)|Python]] file that you would like to work with.
 >
 > **[0:26](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/how-to-use-the-exercise-files?u=76281980&t=26)** As soon as you upload that, you're going to see the exact exercise file that you uploaded into your workspace.
 >
@@ -185,12 +182,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data analysis in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980)
+#### [Data analysis in healthcare](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980&t=0)** - As training pharmacist, one of our deliverables was medication stock taking for tracking and forecasting.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980&t=0)** - As training pharmacist, one of our deliverables was medication stock taking for tracking and [[Forecasting]].
 >
 > **[0:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980&t=8)** This was one of my first exposure to medication data analysis.
 >
@@ -204,22 +200,21 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980&t=40)** Applied data analysis is a big topic in healthcare because of the availability of clinical and non-clinical data, and this means data backed improvement of both clinical and non-clinical outcomes.
 >
-> **[0:56](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980&t=56)** Data analysis also enables resource optimization, which is a priority in the healthcare industry, and then every system that generates a lot of data benefits from the patterns identified either as pre or post-analysis.
+> **[0:56](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980&t=56)** Data analysis also enables resource optimization, which is a priority in the [[Healthcare Industry]], and then every system that generates a lot of data benefits from the patterns identified either as pre or post-analysis.
 >
 > **[1:13](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980&t=73)** Now that we've laid the foundation on how to think about data analysis in healthcare, we look at the types of data you may encounter.
 >
-> **[1:22](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980&t=82)** Stay with me because we're getting to using Python to analyze healthcare a little later in this course.
+> **[1:22](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-in-healthcare?u=76281980&t=82)** Stay with me because we're getting to using [[Python (Programming Language)|Python]] to analyze healthcare a little later in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Forecasting]] (1), [[Healthcare Industry]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Healthcare Industry]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - as (1)
 
-#### Types of data in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/types-of-data-in-healthcare?u=76281980)
+#### [Types of data in healthcare](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/types-of-data-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,7 +258,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/types-of-data-in-healthcare?u=76281980&t=92)** We also have free text.
 >
-> **[1:34](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/types-of-data-in-healthcare?u=76281980&t=94)** This is unstructured data.
+> **[1:34](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/types-of-data-in-healthcare?u=76281980&t=94)** This is [[Unstructured Data]].
 >
 > **[1:36](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/types-of-data-in-healthcare?u=76281980&t=96)** It can either be hand written or digital.
 >
@@ -281,18 +276,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (1)
 > **Analogies:** for example (4), such as (3)
 > **Env Vars:** mri (1), dna (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Sources of healthcare data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980)
+#### [Sources of healthcare data](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=0)** - [Instructor] We have established that the healthcare industry is broad.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=0)** - [Instructor] We have established that the [[Healthcare Industry]] is broad.
 >
 > **[0:03](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=3)** Here are some sources of healthcare data and examples.
 >
@@ -310,7 +304,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=46)** We also have pharmaceutical data from manufacturing and drug development, and then from pre and post-marketing surveillance.
 >
-> **[0:56](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=56)** Data from public health and government.
+> **[0:56](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=56)** Data from [[Public Health]] and government.
 >
 > **[0:58](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=58)** Examples are disease surveillance and location data, like geolocation of public health facilities.
 >
@@ -318,23 +312,22 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=68)** This tends to be curated, and some are even published.
 >
-> **[1:12](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=72)** Examples are clinical trials, academic research outcomes, and curated research databases.
+> **[1:12](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=72)** Examples are clinical trials, academic research outcomes, and curated research [[Databases]].
 >
 > **[1:21](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sources-of-healthcare-data?u=76281980&t=81)** The sources mentioned here are by no means exhaustive, and you probably know many other sources of healthcare data from the work that you do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Public Health]] (2), [[Healthcare Industry]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Public Health]] (2), [[Healthcare Industry]] (1), [[Databases]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Databases and storage for healthcare data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980)
+#### [Databases and storage for healthcare data](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=0)** - [Instructor] Generally, storage for healthcare data should be organized and secured like every other data type, and then extra security because of personal identifiable information.
 >
-> **[0:15](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=15)** They are stored in databases, which are software and on storage media, which are usually hardware or on cloud.
+> **[0:15](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=15)** They are stored in [[Databases]], which are software and on storage media, which are usually [[Hardware]] or on cloud.
 >
 > **[0:24](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=24)** Databases are used to store and organize data in a structured and efficient way electronically in a computer system.
 >
@@ -344,42 +337,41 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=47)** It's a software system.
 >
-> **[0:49](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=49)** A database ensures data structure and relationship, data integrity, data retrieval, security, and data scalability, backup, and recovery.
+> **[0:49](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=49)** A database ensures data structure and relationship, [[Data Integrity]], data retrieval, security, and data [[Scalability]], backup, and recovery.
 >
 > **[1:04](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=64)** There are different types of databases.
 >
-> **[1:07](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=67)** The two major types are relational, which are structured tables with well-defined schema, examples of relational databases are MySQL, PostgreSQL, and Oracle Database, and NOSQL databases, which are flexible for structured and semi-structured data.
+> **[1:07](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=67)** The two major types are relational, which are structured tables with well-defined schema, examples of [[Relational Databases]] are [[MySQL]], [[PostgreSQL]], and Oracle Database, and [[NoSQL]] databases, which are flexible for structured and semi-structured data.
 >
 > **[1:30](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=90)** No defined schema.
 >
-> **[1:32](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=92)** Examples of NoSQL databases are MongoDB, Cassandra, and Redis.
+> **[1:32](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=92)** Examples of NoSQL databases are [[MongoDB]], Cassandra, and [[Redis]].
 >
 > **[1:39](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=99)** And then we talked about storage media.
 >
-> **[1:41](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=101)** The types of storage media are hard disk drives, which are usually called HDDs, solid state drives, and then cloud storage.
+> **[1:41](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=101)** The types of storage media are hard disk drives, which are usually called HDDs, solid state drives, and then [[Cloud Storage]].
 >
 > **[1:52](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=112)** The first two, HDD and SSD, are physical.
 >
 > **[1:57](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=117)** While cloud storage is accessed to a larger computer, typically over the internet.
 >
-> **[2:04](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=124)** This is the fundamental of healthcare data storage.
+> **[2:04](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=124)** This is the fundamental of healthcare [[Data Storage]].
 >
 > **[2:07](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/databases-and-storage-for-healthcare-data?u=76281980&t=127)** There are many variations, and there are many decisions that people make about how to study healthcare data, but behind them, foundationally, this is what the storage is about.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Databases]] (5), cloud (3), database (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Databases]] (5), [[NoSQL]] (2), [[Cloud Storage]] (2), [[Hardware]] (1), [[Data Integrity]] (1)
 > **Env Vars:** nosql (1), hdd (1), ssd (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data analysis tools and technologies for healthcare data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980)
+#### [Data analysis tools and technologies for healthcare data](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980&t=0)** - [Instructor] While this course is focused on Python for data analysis, data analysis can be done using a very wide range of tools and technology.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980&t=0)** - [Instructor] While this course is focused on [[Python (Programming Language)|Python]] for data analysis, data analysis can be done using a very wide range of tools and technology.
 >
 > **[0:10](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980&t=10)** The decision about the data analytics tool of choice is usually based on one, or a combination, of the following factors.
 >
@@ -403,9 +395,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980&t=57)** And then the budget of the organization.
 >
-> **[0:59](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980&t=59)** Low resourced healthcare analytics team needs to optimize for open source of very low cost tools.
+> **[0:59](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980&t=59)** Low resourced [[Healthcare Analytics]] team needs to optimize for open source of very low cost tools.
 >
-> **[1:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980&t=68)** These are some of the data analysis tools that are available R, Python, SPSS, SAS, Power BI, Tableau, Hadoop, Spark, Alteryx, and Cloud-based platforms.
+> **[1:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980&t=68)** These are some of the data analysis tools that are available R, Python, SPSS, SAS, [[Microsoft Power BI|Power BI]], [[Tableau]], [[Hadoop]], Spark, Alteryx, and Cloud-based platforms.
 >
 > **[1:27](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/data-analysis-tools-and-technologies-for-healthcare-data?u=76281980&t=87)** This list of tools are not exhaustive.
 >
@@ -415,14 +407,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), cloud (3), [[Python (Programming Language)|Python]] (2), [[Analytics]] (2), [[Healthcare Analytics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Healthcare Analytics]] (1), [[Microsoft Power BI|Power bi]] (1), [[Tableau]] (1), [[Hadoop]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** spss (1), sas (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Healthcare data analytics use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/healthcare-data-analytics-use-cases?u=76281980)
+#### [Healthcare data analytics use cases](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/healthcare-data-analytics-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,7 +423,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/healthcare-data-analytics-use-cases?u=76281980&t=28)** Those related to operational efficiency and resource management, like optimizing resource utilization, workforce planning and management, supply chain and inventory optimization, marketing and patient engagement analytics, and revenue management insights.
 >
-> **[0:51](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/healthcare-data-analytics-use-cases?u=76281980&t=51)** And those related to public health and research, as in public health data analytics, policy evaluation in healthcare, disease surveillance analytics, and clinical trial research analysis.
+> **[0:51](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/healthcare-data-analytics-use-cases?u=76281980&t=51)** And those related to [[Public Health]] and research, as in public health data analytics, policy evaluation in healthcare, disease surveillance analytics, and clinical trial research analysis.
 >
 > **[1:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/healthcare-data-analytics-use-cases?u=76281980&t=68)** In this course, we will work through five use cases together.
 >
@@ -440,7 +431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (5), data (3), management (3), [[Public Health]] (2)
+> **Frameworks & Libraries:** [[Public Health]] (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -449,8 +440,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore patient visit demo dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980)
+#### [Explore patient visit demo dataset](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,7 +448,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980&t=8)** First, we upload the demo_hospital_outpatient_data.csv that is provided in the exercise files.
 >
-> **[0:18](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980&t=18)** We will be using pandas, a [[Python Data Analysis]] library, so import pandas as pd.
+> **[0:18](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980&t=18)** We will be using [[Pandas (Software)|pandas]], a [[[[Python (Programming Language)|Python]] Data Analysis]] library, so import pandas as pd.
 >
 > **[0:26](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-patient-visit-demo-dataset?u=76281980&t=26)** Now let's read the data into a data frame named df_visit, meaning df_visit data frame of visit pd.read_csv.
 >
@@ -582,7 +572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** df_visit (10), demo_hospital_outpatient_data (1), read_csv (1), column_mapping (1), registration_minutes (1)
 > **CLI Commands:** make (3), python (1), find (1)
 > **File Paths:** demo_hospital_outpatient_data.csv (1)
@@ -591,14 +581,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 
-#### Save and load the patient visit demo dataset (different format)
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980)
+#### [Save and load the patient visit demo dataset (different format)](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=0)** - [Instructor] To successfully complete this exercise, you need to run the first section, Explore Patient Visit Demo dataset.
 >
-> **[0:10](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=10)** One of the most important skills in data wrangling is to be able to save your data in different formats.
+> **[0:10](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=10)** One of the most important skills in [[Data Wrangling]] is to be able to save your data in different formats.
 >
 > **[0:17](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=17)** We have cleaned and renamed some columns in the df_visit dataset.
 >
@@ -618,7 +607,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=70)** If we recheck the CSV file now, we can see that the unwanted column is no longer in the demo_hospital_outpatient_data_clean.csv.
 >
-> **[1:23](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=83)** With Pandas you can save a file as Excel.
+> **[1:23](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=83)** With [[Pandas (Software)|Pandas]] you can save a file as [[Microsoft Excel|Excel]].
 >
 > **[1:27](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=87)** So let's say df_visit.to_excel.
 >
@@ -706,7 +695,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=366)** Okay, that's our DataFrame, what's in meta?
 >
-> **[6:10](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=370)** Some form of metadata.
+> **[6:10](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=370)** Some form of [[Metadata]].
 >
 > **[6:12](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/save-and-load-the-patient-visit-demo-dataset-different-format?u=76281980&t=372)** If we want to save this data directly, maybe back to a DataFrame, we can simply do df_visit equals to pd.DataFrame, and data.
 >
@@ -720,7 +709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3), next (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3), [[Data Wrangling]] (1), [[Metadata]] (1)
 > **Code Identifiers:** df_visit (5), demo_hospital_outpatient_data_clean (4), zipped_file_name (2), to_csv (1), read_csv (1)
 > **Env Vars:** csv (11), spss (3), xlsx (1), zip_deflated (1), sav (1)
 > **Versions:** 72.85 (1), 20.47 (1)
@@ -729,8 +718,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demography analysis of the patient visit demo dataset: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/demography-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980)
+#### [Demography analysis of the patient visit demo dataset: Part 1](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/demography-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,9 +730,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/demography-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=17)** It also provided in the exercise files for you.
 >
-> **[0:22](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/demography-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=22)** Now let's import Pandas and Matplotlib.
+> **[0:22](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/demography-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=22)** Now let's import [[Pandas (Software)|Pandas]] and Matplotlib.
 >
-> **[0:29](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/demography-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=29)** Pandas is popular for data analysis and Matplotlib for data visualization in Python.
+> **[0:29](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/demography-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=29)** Pandas is popular for data analysis and Matplotlib for data visualization in [[Python (Programming Language)|Python]].
 >
 > **[0:36](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/demography-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=36)** Load the dataset into a DataFrame named df_visit.
 >
@@ -844,15 +832,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** df_visit (3), visit_gender (3), demo_hospital_outpatient_data_clean (1), value_counts (1)
 > **Definitions:** is a  (3), means that (1)
 > **Exercise Files:** zip file (1), exercise files (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demography analysis of the patient visit demo dataset: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/demography-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980)
+#### [Demography analysis of the patient visit demo dataset: Part 2](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/demography-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,7 +1007,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Code Identifiers:** df_visit (4), value_counts (2), age_distribution (1), postcode_counts (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1028,8 +1014,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trend analysis of patient visit demo dataset: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/trend-analysis-of-patient-visit-demo-dataset-part-1?u=76281980)
+#### [Trend analysis of patient visit demo dataset: Part 1](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/trend-analysis-of-patient-visit-demo-dataset-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1039,7 +1024,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/trend-analysis-of-patient-visit-demo-dataset-part-1?u=76281980&t=10)** This is provided with the exercise files.
 >
-> **[0:13](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/trend-analysis-of-patient-visit-demo-dataset-part-1?u=76281980&t=13)** Then we input Pandas.
+> **[0:13](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/trend-analysis-of-patient-visit-demo-dataset-part-1?u=76281980&t=13)** Then we input [[Pandas (Software)|Pandas]].
 >
 > **[0:16](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/trend-analysis-of-patient-visit-demo-dataset-part-1?u=76281980&t=16)** We then load the data into a data firm called df_visit.
 >
@@ -1205,7 +1190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Pandas (Software)|Pandas]] (3), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3)
 > **Code Identifiers:** df_visit (5), to_datetime (1), df_resampled (1), df_resampled_year (1), df_resampled_month (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -1213,8 +1198,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trend analysis of the patient visit demo dataset: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/trend-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980)
+#### [Trend analysis of the patient visit demo dataset: Part 2](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/trend-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,13 +1300,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** monthly_ticks (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Wait time analysis of the patient visit demo dataset: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980)
+#### [Wait time analysis of the patient visit demo dataset: Part 1](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,7 +1312,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=6)** Our hospital visit demo data set, provides information on the wait time per visit in different departments.
 >
-> **[0:13](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=13)** First, let's import the necessary libraries, import pandas as pd, import matplotlib.pyplot as plt.
+> **[0:13](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=13)** First, let's import the necessary libraries, import [[Pandas (Software)|pandas]] as pd, import matplotlib.pyplot as plt.
 >
 > **[0:27](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=27)** And then, let's upload the demo data set.
 >
@@ -1402,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** df_visit (8), demo_hospital_outpatient_data_clean (1), read_csv (1), average_total_time_in_hours (1), max_time_department (1)
 > **Definitions:** is an  (3), means that (1)
 > **CLI Commands:** find (1)
@@ -1411,14 +1393,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wait time analysis of the patient visit demo dataset: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980)
+#### [Wait time analysis of the patient visit demo dataset: Part 2](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980&t=0)** - [Instructor] In the previous video, we calculated a range of statistics about the wait time in the registration department of the patient visit demo dataset.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980&t=0)** - [Instructor] In the previous video, we calculated a range of [[Statistics]] about the wait time in the registration department of the patient visit demo dataset.
 >
-> **[0:09](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980&t=9)** Let's continue the analysis by replicating that for other departments by writing a Python function that can take a DataFrame name and the column of interest to return all these statistics in derived values.
+> **[0:09](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980&t=9)** Let's continue the analysis by replicating that for other departments by writing a [[Python (Programming Language)|Python]] function that can take a DataFrame name and the column of interest to return all these statistics in derived values.
 >
 > **[0:23](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/wait-time-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980&t=23)** We'll go ahead and create a Python function called department_wait_time_statistics, which can take a DataFrame, and the wait time column of interest.
 >
@@ -1490,7 +1471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (5), [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** wait_time_hours (4), department_wait_time_statistics (3), wait_time_column (3), wait_time_minutes (2), df_visit (2)
 > **CLI Commands:** python (2)
 > **Versions:** 0.08 (1), 0.56 (1)
@@ -1499,8 +1480,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Correlation analysis of the patient visit demo dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/correlation-analysis-of-the-patient-visit-demo-dataset?u=76281980)
+#### [Correlation analysis of the patient visit demo dataset](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/correlation-analysis-of-the-patient-visit-demo-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1508,9 +1488,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/correlation-analysis-of-the-patient-visit-demo-dataset?u=76281980&t=6)** Let's visualize the correlation patterns in the numeric columns of the hospital visit dataset that we have been analyzing.
 >
-> **[0:14](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/correlation-analysis-of-the-patient-visit-demo-dataset?u=76281980&t=14)** First, import the necessary libraries, import pandas matplotlib and seaborn.
+> **[0:14](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/correlation-analysis-of-the-patient-visit-demo-dataset?u=76281980&t=14)** First, import the necessary libraries, import [[Pandas (Software)|pandas]] matplotlib and seaborn.
 >
-> **[0:23](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/correlation-analysis-of-the-patient-visit-demo-dataset?u=76281980&t=23)** Seaborn is a Python library for visualization, just like matplotlib.
+> **[0:23](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/correlation-analysis-of-the-patient-visit-demo-dataset?u=76281980&t=23)** Seaborn is a [[Python (Programming Language)|Python]] library for visualization, just like matplotlib.
 >
 > **[0:31](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/correlation-analysis-of-the-patient-visit-demo-dataset?u=76281980&t=31)** Now we are going to upload the Demo Hospital Outpatient Data Clean.
 >
@@ -1638,7 +1618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (3), just like (1)
@@ -1647,8 +1627,7 @@ created: 2026-05-02
 > **Versions:** 0.32 (1)
 > **Speakers:** - [presenter] (1)
 
-#### Cost and insurance analysis of the patient visit demo dataset: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/cost-and-insurance-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980)
+#### [Cost and insurance analysis of the patient visit demo dataset: Part 1](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/cost-and-insurance-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1660,7 +1639,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/cost-and-insurance-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=13)** First, upload the Demo Hospital Outpatient Data Clean zipped file provided for you in the exercise file.
 >
-> **[0:23](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/cost-and-insurance-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=23)** And then go ahead and import the necessary libraries, pandas as pd, matplotlib.pyplot as plt.
+> **[0:23](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/cost-and-insurance-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=23)** And then go ahead and import the necessary libraries, [[Pandas (Software)|pandas]] as pd, matplotlib.pyplot as plt.
 >
 > **[0:35](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/cost-and-insurance-analysis-of-the-patient-visit-demo-dataset-part-1?u=76281980&t=35)** Now let's load the data set into a variable name, df_visit pd.read_csv, and then the file path.
 >
@@ -1776,15 +1755,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (2), management (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** df_visit (8), annual_total_cost (3), read_csv (1), avg_cost_by_gender (1), avg_cost_by_insurance (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [presenter] (1)
 
-#### Cost and insurance analysis of the patient visit demo dataset: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/cost-and-insurance-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980)
+#### [Cost and insurance analysis of the patient visit demo dataset: Part 2](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/cost-and-insurance-analysis-of-the-patient-visit-demo-dataset-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1844,7 +1822,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Code Identifiers:** df_visit (4), has_insurance_false (2), has_insurance_true (2), reset_index (1), set_index (1)
 > **Cross-References:** previous video (2)
 > **Definitions:** is a  (1)
@@ -1855,8 +1832,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the pharmacy sales demo dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980)
+#### [Explore the pharmacy sales demo dataset](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1868,7 +1844,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980&t=16)** To get started, upload the demo pharmacy sales data that is provided for you as part of the exercise files.
 >
-> **[0:29](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980&t=29)** Now, let's import the necessary libraries, like Pandas matplotlib and Seaborn.
+> **[0:29](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980&t=29)** Now, let's import the necessary libraries, like [[Pandas (Software)|Pandas]] matplotlib and Seaborn.
 >
 > **[0:36](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980&t=36)** Import pandas as pd, import matplotlib, import seaborn as sns.
 >
@@ -1890,7 +1866,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980&t=110)** We have two numeric columns.
 >
-> **[1:53](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980&t=113)** Let's check the statistics using the Pandas describe method.
+> **[1:53](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980&t=113)** Let's check the [[Statistics]] using the Pandas describe method.
 >
 > **[1:58](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-pharmacy-sales-demo-dataset?u=76281980&t=118)** We will save it into a variable called summary statistics, the names of the columns, quantity sold, and the price, describe.
 >
@@ -1986,7 +1962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (3), [[Statistics]] (3), generic (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Statistics]] (3)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** df_pharmacy_sales (3), read_csv (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1995,8 +1971,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Medication class analysis: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-1?u=76281980)
+#### [Medication class analysis: Part 1](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2004,7 +1979,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-1?u=76281980&t=4)** The pharmacological class they belong to is a popular method, and for each of the medication names in the pharmacy sales data set, there is a pharmacological class too.
 >
-> **[0:15](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-1?u=76281980&t=15)** First, upload the demo_pharmacy_sales data provided for you in the exercise files and then import the important Python libraries for analysis and visualization, like Pandas, Matplotlib, Seaborn, and then WordCloud.
+> **[0:15](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-1?u=76281980&t=15)** First, upload the demo_pharmacy_sales data provided for you in the exercise files and then import the important [[Python (Programming Language)|Python]] libraries for analysis and visualization, like [[Pandas (Software)|Pandas]], Matplotlib, Seaborn, and then WordCloud.
 >
 > **[0:33](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-1?u=76281980&t=33)** Now go ahead and save the data into a variable called df_pharmacy_sales.
 >
@@ -2122,15 +2097,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), generic (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** df_pharmacy_sales (4), df_top_med_classes (4), demo_pharmacy_sales (1), read_csv (1), top_number (1)
 > **Definitions:** is a  (5), means that (1)
 > **CLI Commands:** python (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Medication class analysis: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-2?u=76281980)
+#### [Medication class analysis: Part 2](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2162,7 +2136,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-2?u=76281980&t=82)** And this is the quantity sold in millions, of course.
 >
-> **[1:26](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-2?u=76281980&t=86)** To have a better appreciation of the medication classes, we can visualize the string using word cloud.
+> **[1:26](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-2?u=76281980&t=86)** To have a better appreciation of the medication classes, we can visualize the string using [[Microsoft Word|word]] cloud.
 >
 > **[1:34](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-class-analysis-part-2?u=76281980&t=94)** So let's create the word cloud of the medication classes.
 >
@@ -2258,30 +2232,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), cloud (11), data (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12)
 > **Code Identifiers:** med_classes (3), top_med_classes (2), top_number (1), df_pharmacy_sales (1), med_names (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Medication demand forecast using Prophet: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980)
+#### [Medication demand forecast using Prophet: Part 1](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=0)** - [Instructor] Demand forecasting is an important part of medication supply chain.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=0)** - [Instructor] Demand [[Forecasting]] is an important part of medication supply chain.
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=4)** The key goals are to prevent stock out of life-saving medications and optimize inventory to prevent wastage.
 >
 > **[0:13](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=13)** In many systems, there is a method to it.
 >
-> **[0:16](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=16)** In this exercise, we will leverage Prophet, a Python library for forecasting to predict the medication demand based on previous sales pattern.
+> **[0:16](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=16)** In this exercise, we will leverage Prophet, a [[Python (Programming Language)|Python]] library for forecasting to predict the medication demand based on previous sales pattern.
 >
 > **[0:25](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=25)** First, we upload the data set.
 >
 > **[0:30](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=30)** The demo_pharmacy_sales_data is provided in the exercise files.
 >
-> **[0:36](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=36)** And then, we import the necessary libraries, like Pandas, Matplotlib, Prophet, and then from prophet import Prophet.
+> **[0:36](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=36)** And then, we import the necessary libraries, like [[Pandas (Software)|Pandas]], Matplotlib, Prophet, and then from prophet import Prophet.
 >
 > **[0:48](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-1?u=76281980&t=48)** We can now go ahead and load our data set into a variable called df_pharmacy_sales, pd.read_csv, and then the file path.
 >
@@ -2375,7 +2348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Forecasting]] (2), [[Pandas (Software)|Pandas]] (2), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** df_prophet (8), df_pharmacy_sales (3), demo_pharmacy_sales_data (1), read_csv (1), reset_index (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** python (1)
@@ -2383,8 +2356,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Medication demand forecast using Prophet: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-2?u=76281980)
+#### [Medication demand forecast using Prophet: Part 2](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2458,11 +2430,11 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-2?u=76281980&t=277)** And then, we have the forecast per year, per day of the week, and also per month.
 >
-> **[4:44](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-2?u=76281980&t=284)** So we have successfully created a function, so we don't need to rewrite the code every time we want to do this Prophet forecasting for any data in our dataset.
+> **[4:44](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/medication-demand-forecast-using-prophet-part-2?u=76281980&t=284)** So we have successfully created a function, so we don't need to rewrite the code every time we want to do this Prophet [[Forecasting]] for any data in our dataset.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **Code Identifiers:** med_class (6), df_filtered (5), med_name (5), medication_quantity_forecaster (2), to_datetime (1)
 > **Cross-References:** previous video (3)
 > **UI Navigation:** select the (1)
@@ -2475,8 +2447,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore laboratory patient experience demo dataset with Plotly
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980)
+#### [Explore laboratory patient experience demo dataset with Plotly](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2484,7 +2455,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980&t=6)** In this exercise, we will analyze the patient experience data from an hypothetical laboratory.
 >
-> **[0:13](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980&t=13)** To get started, upload the demo_patient_experience_data provided in the exercise files, and then import Pandas and Plotly.
+> **[0:13](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980&t=13)** To get started, upload the demo_patient_experience_data provided in the exercise files, and then import [[Pandas (Software)|Pandas]] and Plotly.
 >
 > **[0:30](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980&t=30)** (keyboard clicks) Now load the data into a variable called df_lab.
 >
@@ -2590,11 +2561,11 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980&t=379)** So this is a visualization of all the wait time if you want that in your visualization.
 >
-> **[6:27](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980&t=387)** So we have explored what the patient experience data is, and we have tried different techniques with Plotly, a data visualization library in Python.
+> **[6:27](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-laboratory-patient-experience-demo-dataset-with-plotly?u=76281980&t=387)** So we have explored what the patient experience data is, and we have tried different techniques with Plotly, a data visualization library in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** df_lab (6), demo_patient_experience_data (1), read_csv (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1), python (1)
@@ -2603,20 +2574,19 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
 
-#### Sentiment analysis of patient experience reviews using TextBlob
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sentiment-analysis-of-patient-experience-reviews-using-textblob?u=76281980)
+#### [Sentiment analysis of patient experience reviews using TextBlob](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sentiment-analysis-of-patient-experience-reviews-using-textblob?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sentiment-analysis-of-patient-experience-reviews-using-textblob?u=76281980&t=0)** - [Instructor] Sentiment analysis allows us to gauge the intensity in text data.
 >
-> **[0:06](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sentiment-analysis-of-patient-experience-reviews-using-textblob?u=76281980&t=6)** We will be using TextBlob, a Python library to analyze if text reviews in our laboratory, patient experience them with dataset is positive, negative, or neutral.
+> **[0:06](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sentiment-analysis-of-patient-experience-reviews-using-textblob?u=76281980&t=6)** We will be using TextBlob, a [[Python (Programming Language)|Python]] library to analyze if text reviews in our laboratory, patient experience them with dataset is positive, negative, or neutral.
 >
 > **[0:20](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sentiment-analysis-of-patient-experience-reviews-using-textblob?u=76281980&t=20)** This type of information can be used to study patterns and improve on the quality of service.
 >
 > **[0:27](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sentiment-analysis-of-patient-experience-reviews-using-textblob?u=76281980&t=27)** First, upload the provided demo patient experience dataset provided with the exercise files.
 >
-> **[0:42](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sentiment-analysis-of-patient-experience-reviews-using-textblob?u=76281980&t=42)** And then input pandas, matplotlib, and textblob.
+> **[0:42](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sentiment-analysis-of-patient-experience-reviews-using-textblob?u=76281980&t=42)** And then input [[Pandas (Software)|pandas]], matplotlib, and textblob.
 >
 > **[0:58](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/sentiment-analysis-of-patient-experience-reviews-using-textblob?u=76281980&t=58)** Now, go ahead and load the dataset into a variable called df_experience, pd.read_csv.
 >
@@ -2730,7 +2700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** df_experience (6), read_csv (1), sentiment_counts (1)
 > **Versions:** 0.58 (2), 0.765 (1)
 > **Definitions:** is a  (2)
@@ -2743,20 +2713,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the public health facilities geolocation demo dataset using GeoPandas: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980)
+#### [Explore the public health facilities geolocation demo dataset using GeoPandas: Part 1](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980&t=0)** - [Instructor] Geo data is an interesting type of data that says a lot about the specific location of areas of interest.
 >
-> **[0:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980&t=8)** In this exercise, we will explore the geolocation data from an hypothetical group of public health facilities.
+> **[0:08](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980&t=8)** In this exercise, we will explore the geolocation data from an hypothetical group of [[Public Health]] facilities.
 >
 > **[0:17](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980&t=17)** I should mention this is only a demo dataset and all the locations do not exist.
 >
 > **[0:24](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980&t=24)** First, we upload the Demo Health Facilities Geo Data,
 >
-> **[0:34](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980&t=34)** and then we input the necessary libraries, like pandas, matplotlib,
+> **[0:34](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980&t=34)** and then we input the necessary libraries, like [[Pandas (Software)|pandas]], matplotlib,
 >
 > **[0:46](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-1?u=76281980&t=46)** and geopandas.
 >
@@ -2844,7 +2813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Public Health]] (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Public Health]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** df_geo (5), read_csv (1), value_counts (1), point_from_xy (1)
 > **Analogies:** for example (2), it's like (1), just like (1)
 > **CLI Commands:** make (2)
@@ -2853,8 +2822,7 @@ created: 2026-05-02
 > **Versions:** 0.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the public health facilities geolocation demo dataset using GeoPandas: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-2?u=76281980)
+#### [Explore the public health facilities geolocation demo dataset using GeoPandas: Part 2](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/explore-the-public-health-facilities-geolocation-demo-dataset-using-geopandas-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2959,14 +2927,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interactive map for public health facilities geolocation demo dataset using folium: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980)
+#### [Interactive map for public health facilities geolocation demo dataset using folium: Part 1](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=0)** - [Instructor] Maps are interesting.
 >
-> **[0:02](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=2)** In this exercise, I will show you how to make interactive maps based on geo data in Python using Folium.
+> **[0:02](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=2)** In this exercise, I will show you how to make interactive maps based on geo data in [[Python (Programming Language)|Python]] using Folium.
 >
 > **[0:11](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=11)** Note that the provided data is only a demo data for practice only.
 >
@@ -2976,7 +2943,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=24)** The demo health facility geo data is provided for you in the exercise files.
 >
-> **[0:30](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=30)** And then let's import Pandas and Folium Python libraries.
+> **[0:30](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=30)** And then let's import [[Pandas (Software)|Pandas]] and Folium Python libraries.
 >
 > **[0:37](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=37)** Import Pandas, as pd import Folium.
 >
@@ -2994,7 +2961,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=88)** So we have four unique facility types in this dataframe to see what they actually look like.
 >
-> **[1:38](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=98)** So in this data frame for the public health facility types, we have hospital, primary care center, specialized healthcare center, and pharmacy.
+> **[1:38](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=98)** So in this data frame for the [[Public Health]] facility types, we have hospital, primary care center, specialized healthcare center, and pharmacy.
 >
 > **[1:49](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-1?u=76281980&t=109)** Now we are going to visualize this data on a map layout.
 >
@@ -3056,7 +3023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Public Health]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Public Health]] (1)
 > **Code Identifiers:** df_geo (6), read_csv (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** python (2), make (1)
@@ -3065,8 +3032,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### Interactive map for public health facilities geolocation demo dataset using folium: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-2?u=76281980)
+#### [Interactive map for public health facilities geolocation demo dataset using folium: Part 2](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3132,18 +3098,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** df_geo (4), filtered_df (2), facility_type (2), facility_types_to_visualize (1), facility_type_to_visualize (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interactive map for public health facilities geolocation demo dataset using folium: Part 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980)
+#### [Interactive map for public health facilities geolocation demo dataset using folium: Part 3](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=0)** - [Instructor] In the last two videos, we began creating interactive map component for public health facilities with the demo geolocation dataset.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=0)** - [Instructor] In the last two videos, we began creating interactive map component for [[Public Health]] facilities with the demo geolocation dataset.
 >
 > **[0:11](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=11)** We will finalize it here by creating heat maps and marker clusters.
 >
@@ -3159,7 +3123,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=83)** row, longitude, for index, row in df_geo.iterrows,
 >
-> **[1:39](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=99)** iterrows helps to iterate over each row in a Pandas DataFrame.
+> **[1:39](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=99)** iterrows helps to iterate over each row in a [[Pandas (Software)|Pandas]] DataFrame.
 >
 > **[1:46](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=106)** And then we create the HeatMap object that takes heat_data and add it to the base map, which is m.
 >
@@ -3169,7 +3133,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=140)** While areas with lower density appear in cooler colors like blue and green.
 >
-> **[2:27](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=147)** If you would like to save this as an HTML file, you can do m.save, whatever name you decide to call it.
+> **[2:27](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=147)** If you would like to save this as an [[HTML]] file, you can do m.save, whatever name you decide to call it.
 >
 > **[2:37](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/interactive-map-for-public-health-facilities-geolocation-demo-dataset-using-folium-part-3?u=76281980&t=157)** Let's call it facility_heatmap.html.
 >
@@ -3213,7 +3177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[HTML]] (2), [[Public Health]] (1), data (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[HTML]] (2), [[Public Health]] (1)
 > **Code Identifiers:** df_geo (3), marker_cluster (3), heat_data (2), add_to (2), facility_heatmap (1)
 > **File Paths:** facility_heatmap.html (1)
 > **CLI Commands:** find (1)
@@ -3227,14 +3191,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practical data manipulation and wrangling using pandas: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-1?u=76281980)
+#### [Practical data manipulation and wrangling using pandas: Part 1](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-1?u=76281980&t=0)** - [Instructor] Unclean data is common, and the confidence to wrangle data efficiently is one of the most important skills as a data analyst.
 >
-> **[0:11](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-1?u=76281980&t=11)** In this exercise, we will improve the quality of a sample data set of medication names in classes using pandas.
+> **[0:11](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-1?u=76281980&t=11)** In this exercise, we will improve the quality of a sample data set of medication names in classes using [[Pandas (Software)|pandas]].
 >
 > **[0:22](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-1?u=76281980&t=22)** First, upload the provided 1000_Generic_Medication_Names data provided in your exercise files.
 >
@@ -3402,7 +3365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** df_med (8), med_class (2), read_csv (1)
 > **Definitions:** is a  (8), is called (1), means that (1), is an  (1)
 > **Versions:** 5.4 (2)
@@ -3410,8 +3373,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practical data manipulation and wrangling using pandas: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-2?u=76281980)
+#### [Practical data manipulation and wrangling using pandas: Part 2](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3541,13 +3503,13 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-2?u=76281980&t=347)** (keyboard clicks) Okay, so this is another way to arrive at the values that we actually want in our DataFrame.
 >
-> **[5:55](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-2?u=76281980&t=355)** So in this chapter, we went through a data wrangling process together because the data you will need, the data you will come across, it's probably never going to be clean.
+> **[5:55](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-2?u=76281980&t=355)** So in this chapter, we went through a [[Data Wrangling]] process together because the data you will need, the data you will come across, it's probably never going to be clean.
 >
 > **[6:05](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/practical-data-manipulation-and-wrangling-using-pandas-part-2?u=76281980&t=365)** So this is just to let you know that these are things that people do, and you know, there's still the question of this last row, we need it in that data set, what's the efficient way to fix this?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1)
 > **Code Identifiers:** df_med (6), to_csv (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
@@ -3561,12 +3523,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Python to analyze your healthcare data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980)
+#### [Using Python to analyze your healthcare data](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980&t=0)** - This is the end of the [[Python Data Analysis]] for Healthcare Course.
+> **[0:00](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980&t=0)** - This is the end of the [[[[Python (Programming Language)|Python]] Data Analysis]] for Healthcare Course.
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980&t=5)** If you made it this far, congratulations.
 >
@@ -3574,7 +3535,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980&t=12)** Implement all the new techniques that you have learned on your own dataset.
 >
-> **[0:18](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980&t=18)** If you're interested in data science and AI, consider [[Hands-on Data Science and AI for Healthcare]] and [[Advanced AI- NLP Techniques for Clinical Datasets]] on LinkedIn Learning.
+> **[0:18](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980&t=18)** If you're interested in [[Data Science]] and AI, consider [[Hands-on Data Science and AI for Healthcare]] and [[Advanced AI- NLP Techniques for Clinical Datasets]] on [[LinkedIn]] Learning.
 >
 > **[0:33](https://www.linkedin.com/learning/python-data-analysis-for-healthcare/using-python-to-analyze-your-healthcare-data?u=76281980&t=33)** You can connect with me on LinkedIn, and feel free to ask your questions in the community Q&A.
 >
@@ -3584,7 +3545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (3), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - this (1)

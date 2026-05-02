@@ -101,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Principle?
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-is-principle?u=76281980)
+#### [What is Principle?](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-is-principle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-is-principle?u=76281980&t=0)** - [Tom] Prototyping interactions, motion, and component functionality is easy with Principle.
+> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-is-principle?u=76281980&t=0)** - [Tom] [[Prototyping]] interactions, motion, and component functionality is easy with Principle.
 >
 > **[0:07](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-is-principle?u=76281980&t=7)** It allows UI designers, motion designers, and interaction designers to communicate their intent by creating artboards that have motion, interactivity, and even transitions between them.
 >
@@ -118,17 +117,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), ux (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3)
 > **Speakers:** - [tom] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is aimed at UX design and motion design pros looking for an easy to use tool that allows them to iterate specific interactions and motion designs, which can subsequently be implemented in a prototyping application, such as Figma.
+> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is aimed at UX design and motion design pros looking for an easy to use tool that allows them to iterate specific interactions and motion designs, which can subsequently be implemented in a [[Prototyping]] application, such as [[Figma (Software)|Figma]].
 >
-> **[0:19](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-you-should-know?u=76281980&t=19)** Now, before we get started, it is important to note that Principle is a Macintosh only application, and unlike other prototyping tools, such as Figma and Adobe XD, Principle does not contain any sort of code introspection feature.
+> **[0:19](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-you-should-know?u=76281980&t=19)** Now, before we get started, it is important to note that Principle is a Macintosh only application, and unlike other prototyping tools, such as Figma and [[Adobe XD]], Principle does not contain any sort of code introspection feature.
 >
 > **[0:38](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-you-should-know?u=76281980&t=38)** Since the previous version of Principle, there have been some exciting new additions to the application, including the ability to import your Figma files into Principle, the ability to share your prototypes to the web and a new export menu.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Figma (Software)|Figma]] (3), [[Prototyping]] (2), ux (1), [[Adobe XD]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Prototyping]] (2), [[Adobe XD]] (1)
 > **Tools:** figma (3)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -149,8 +147,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review of the Principle interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/review-of-the-principle-interface?u=76281980)
+#### [Review of the Principle interface](https://www.linkedin.com/learning/principle-for-ux-design-22683376/review-of-the-principle-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -246,7 +243,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (4), open the (2), go to (1)
 > **Analogies:** picture (4), such as (1)
 > **CLI Commands:** make (1), find (1)
@@ -255,8 +251,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools and menus
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980)
+#### [Tools and menus](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -268,7 +263,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=21)** This insert popped down is where you can add rectangle circles, rounded rectangles, text, and even art boards.
 >
-> **[0:30](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=30)** Import lets you bring in Sketch or Figma documents.
+> **[0:30](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=30)** Import lets you bring in Sketch or [[Figma (Software)|Figma]] documents.
 >
 > **[0:35](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=35)** That's about it.
 >
@@ -318,7 +313,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=182)** You can share a version to the web.
 >
-> **[3:05](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=185)** You can export a local HTML file and don't get too excited about that.
+> **[3:05](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=185)** You can export a local [[HTML]] file and don't get too excited about that.
 >
 > **[3:09](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=189)** And you can also mirror to iOS.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=237)** Sometimes you're going to be confronted with great big screens so the view menu is kind of interesting.
 >
-> **[4:05](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=245)** I can zoom in really big.
+> **[4:05](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=245)** I can [[Zoom]] in really big.
 >
 > **[4:08](https://www.linkedin.com/learning/principle-for-ux-design-22683376/tools-and-menus?u=76281980&t=248)** I can zoom out.
 >
@@ -364,7 +359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (7), web (3), [[Figma (Software)|Figma]] (1), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), [[Figma (Software)|Figma]] (1), [[HTML]] (1)
 > **Code Identifiers:** iphone (3), ios (2)
 > **UI Navigation:** open the (2), scroll down (1)
 > **CLI Commands:** find (2)
@@ -373,8 +368,7 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Analogies:** for instance (1)
 
-#### Create and add artboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980)
+#### [Create and add artboards](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -392,7 +386,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=34)** You get everything from smartphones to TV and even artboards you can use where you can present your ideas on Dribble, Twitter, or even Instagram.
 >
-> **[0:45](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=45)** For me, a major oversight is the non-inclusion of Android devices.
+> **[0:45](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=45)** For me, a major oversight is the non-inclusion of [[Android]] devices.
 >
 > **[0:52](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=52)** If you are developing for Android, use the custom size right here where you can actually set the width and the height to create the artboard.
 >
@@ -444,7 +438,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=174)** The bottom line is you can only prototype for one screen size per project and you can't move them around on the canvas to accommodate flow changes.
 >
-> **[3:04](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=184)** What this should tell you is Principle is aimed more toward prototyping, micro interactions and screen transitions, than prototyping an entire project with complex interactions.
+> **[3:04](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=184)** What this should tell you is Principle is aimed more toward [[Prototyping]], micro interactions and screen transitions, than prototyping an entire project with complex interactions.
 >
 > **[3:19](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-and-add-artboards?u=76281980&t=199)** This is not a bad thing because Principle is ideal for element level prototyping.
 >
@@ -452,13 +446,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), [[Android]] (2), feature (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Android]] (2)
 > **UI Navigation:** select the (2), click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [tom] (1)
 
-#### Add content to an artboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-content-to-an-artboard?u=76281980)
+#### [Add content to an artboard](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-content-to-an-artboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -592,7 +585,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), ai (2), feature (1)
 > **Env Vars:** svg (4), eps (4), pdf (4), gif (2), png (1)
 > **UI Navigation:** drag and drop (3), go to (2), open the (1), select the (1)
 > **Definitions:** is a  (3), is called (1)
@@ -600,15 +592,15 @@ created: 2026-05-02
 > **Code Identifiers:** iphone (2)
 > **Cross-References:** in the next (1), go back to (1)
 > **URLs:** [next.ai](https://next.ai) (1)
+> **Speakers:** - a (1)
 
-#### Add and format text
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-and-format-text?u=76281980)
+#### [Add and format text](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-and-format-text?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-and-format-text?u=76281980&t=0)** - [Speaker] Adding text to a principle art board is not a terribly convoluted process.
 >
-> **[0:07](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-and-format-text?u=76281980&t=7)** For instance, you could copy and paste a block of text, from Word, Sketch or Illustrator, right into your project.
+> **[0:07](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-and-format-text?u=76281980&t=7)** For instance, you could copy and paste a block of text, from [[Microsoft Word|Word]], Sketch or Illustrator, right into your project.
 >
 > **[0:16](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-and-format-text?u=76281980&t=16)** You can also enter it, which is what we're going to be doing in this exercise.
 >
@@ -686,15 +678,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **UI Navigation:** select the (2), open the (1), go to (1)
 > **Env Vars:** unesco (2)
 > **Analogies:** for instance (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [speaker] (1)
 
-#### Create your first animation
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-your-first-animation?u=76281980)
+#### [Create your first animation](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-your-first-animation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,8 +757,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test and share your work
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/test-and-share-your-work?u=76281980)
+#### [Test and share your work](https://www.linkedin.com/learning/principle-for-ux-design-22683376/test-and-share-your-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,7 +811,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/principle-for-ux-design-22683376/test-and-share-your-work?u=76281980&t=130)** You're going to make a choice here.
 >
-> **[2:11](https://www.linkedin.com/learning/principle-for-ux-design-22683376/test-and-share-your-work?u=76281980&t=131)** Do you share a version link, a HTML file, or the app?
+> **[2:11](https://www.linkedin.com/learning/principle-for-ux-design-22683376/test-and-share-your-work?u=76281980&t=131)** Do you share a version link, a [[HTML]] file, or the app?
 >
 > **[2:15](https://www.linkedin.com/learning/principle-for-ux-design-22683376/test-and-share-your-work?u=76281980&t=135)** Well, you're going to export the Mac app.
 >
@@ -853,7 +843,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/principle-for-ux-design-22683376/test-and-share-your-work?u=76281980&t=232)** It will export an HTML file which you can subsequently edit or pass on to your developer.
 >
-> **[4:01](https://www.linkedin.com/learning/principle-for-ux-design-22683376/test-and-share-your-work?u=76281980&t=241)** Just be aware, the modernizer JavaScript is minified which may or may not drive your developer crazy.
+> **[4:01](https://www.linkedin.com/learning/principle-for-ux-design-22683376/test-and-share-your-work?u=76281980&t=241)** Just be aware, the modernizer [[JavaScript]] is minified which may or may not drive your developer crazy.
 >
 > **[4:10](https://www.linkedin.com/learning/principle-for-ux-design-22683376/test-and-share-your-work?u=76281980&t=250)** My advice, check first.
 >
@@ -861,7 +851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), web (3), feature (2), hit (1), cloud (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (1)
 > **UI Navigation:** click on (3), open the (2), go to (2)
 > **Env Vars:** html (4), prd (1)
 > **CLI Commands:** make (3)
@@ -870,8 +860,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
 
-#### Import from Sketch
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/import-from-sketch?u=76281980)
+#### [Import from Sketch](https://www.linkedin.com/learning/principle-for-ux-design-22683376/import-from-sketch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,7 +918,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
 > **Cross-References:** go back to (1)
@@ -937,12 +925,11 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Figma import
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/figma-import?u=76281980)
+#### [Figma import](https://www.linkedin.com/learning/principle-for-ux-design-22683376/figma-import?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/figma-import?u=76281980&t=0)** - [Instructor] A common prototyping application is Figma.
+> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/figma-import?u=76281980&t=0)** - [Instructor] A common [[Prototyping]] application is [[Figma (Software)|Figma]].
 >
 > **[0:04](https://www.linkedin.com/learning/principle-for-ux-design-22683376/figma-import?u=76281980&t=4)** And one of the great features of Principle is you can now import your Figma files directly into Principle.
 >
@@ -994,7 +981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (12), [[Prototyping]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (12), [[Prototyping]] (1)
 > **Tools:** figma (12)
 > **Code Identifiers:** iphone (2)
 > **CLI Commands:** make (1)
@@ -1002,8 +989,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export to web
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/export-to-web?u=76281980)
+#### [Export to web](https://www.linkedin.com/learning/principle-for-ux-design-22683376/export-to-web?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,7 +1039,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), next (1), cloud (1)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
@@ -1063,8 +1048,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What Principle doesn't do
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-principle-doesn-t-do?u=76281980)
+#### [What Principle doesn't do](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-principle-doesn-t-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1088,7 +1072,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-principle-doesn-t-do?u=76281980&t=59)** Bitmaps are edited and manipulated in Sketch and/or Photoshop.
 >
-> **[1:04](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-principle-doesn-t-do?u=76281980&t=64)** Layouts can be created in artboards in Photoshop or in Sketch and brought into Principle in a manner that will render them properly if they are to be tested on Android or iOS devices.
+> **[1:04](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-principle-doesn-t-do?u=76281980&t=64)** Layouts can be created in artboards in Photoshop or in Sketch and brought into Principle in a manner that will render them properly if they are to be tested on [[Android]] or iOS devices.
 >
 > **[1:17](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-principle-doesn-t-do?u=76281980&t=77)** Principle doesn't contain the graphics features we are all used to, such as grids, rulers and simple effects such as blurs and things like that because that's not its job.
 >
@@ -1160,7 +1144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Android]] (1)
+> **Frameworks & Libraries:** [[Android]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** go to (3), click on (1)
 > **Analogies:** such as (3), for example (1)
@@ -1169,8 +1153,7 @@ created: 2026-05-02
 > **URLs:** [principlerepo.com](https://principlerepo.com) (1)
 > **Env Vars:** prd (1)
 
-#### Modify content in the Properties panel
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/modify-content-in-the-properties-panel?u=76281980)
+#### [Modify content in the Properties panel](https://www.linkedin.com/learning/principle-for-ux-design-22683376/modify-content-in-the-properties-panel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,7 +1259,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 0.5 (1), 1.5 (1)
 > **Cross-References:** previous chapter (1), in the next (1)
@@ -1284,9 +1266,9 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** rgba (1)
 > **Analogies:** picture (1)
+> **Speakers:** - [instructor] (1)
 
-#### Create assets in Photoshop
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-photoshop?u=76281980)
+#### [Create assets in Photoshop](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-photoshop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1366,7 +1348,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-photoshop?u=76281980&t=242)** So if I go to View, you can see if I go actual size, it's massive.
 >
-> **[4:11](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-photoshop?u=76281980&t=251)** And if I zoom out and I just keep doing it by pressing Command + minus, you can see that image is massive.
+> **[4:11](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-photoshop?u=76281980&t=251)** And if I [[Zoom]] out and I just keep doing it by pressing Command + minus, you can see that image is massive.
 >
 > **[4:20](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-photoshop?u=76281980&t=260)** That is a 3x image on a 3x board.
 >
@@ -1388,7 +1370,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-photoshop?u=76281980&t=332)** If I push that down, you can see that I've got all kinds of suffixes that I can add here.
 >
-> **[5:38](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-photoshop?u=76281980&t=338)** For iOS devices, it's 1x, 2x, 3x and all the rest are Android devices.
+> **[5:38](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-photoshop?u=76281980&t=338)** For iOS devices, it's 1x, 2x, 3x and all the [[Representational State Transfer (REST)|rest]] are [[Android]] devices.
 >
 > **[5:45](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-photoshop?u=76281980&t=345)** And of course, the Android devices, well, it's the Wild West.
 >
@@ -1435,8 +1417,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 
-#### Create assets in Sketch
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-sketch?u=76281980)
+#### [Create assets in Sketch](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-sketch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,12 +1529,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create assets in Illustrator
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-illustrator?u=76281980)
+#### [Create assets in Illustrator](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-illustrator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-illustrator?u=76281980&t=0)** - [Instructor] The ubiquity of mobile devices such as smartphones and tablets has given rise to an increased emphasis on the use of SVG images in many prototyping applications.
+> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-illustrator?u=76281980&t=0)** - [Instructor] The ubiquity of mobile devices such as smartphones and tablets has given rise to an increased emphasis on the use of SVG images in many [[Prototyping]] applications.
 >
 > **[0:14](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-assets-in-illustrator?u=76281980&t=14)** And as you've seen earlier, well, SVG just does not work with Principle.
 >
@@ -1635,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (1), application (1), ai (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **Env Vars:** png (6), svg (3), eps (2), bip (1), pdf (1)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
@@ -1644,8 +1624,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### Import retina images into Principle
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/import-retina-images-into-principle?u=76281980)
+#### [Import retina images into Principle](https://www.linkedin.com/learning/principle-for-ux-design-22683376/import-retina-images-into-principle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,7 +1642,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/principle-for-ux-design-22683376/import-retina-images-into-principle?u=76281980&t=57)** Well, one place you can go is right here, Useyourloaf and what they do is they go through all of the iPhones and as you can see for the iPhone 14 Pro, we know the screen resolution, the native resolution and the scale factor, which is all important.
 >
-> **[1:17](https://www.linkedin.com/learning/principle-for-ux-design-22683376/import-retina-images-into-principle?u=76281980&t=77)** Android is, well, it's an open source OS and that has kicked off what I call the wild west.
+> **[1:17](https://www.linkedin.com/learning/principle-for-ux-design-22683376/import-retina-images-into-principle?u=76281980&t=77)** [[Android]] is, well, it's an open source OS and that has kicked off what I call the wild west.
 >
 > **[1:25](https://www.linkedin.com/learning/principle-for-ux-design-22683376/import-retina-images-into-principle?u=76281980&t=85)** As the device manufacturers are competing on screen resolution among other features.
 >
@@ -1693,7 +1672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (3), ux (1)
+> **Frameworks & Libraries:** [[Android]] (3)
 > **Code Identifiers:** iphone (3), iphones (1)
 > **Env Vars:** ldpi (1), xhdpi (1), dpi (1)
 > **Documentation:** stack overflow (2)
@@ -1702,8 +1681,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Crop and mask
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/crop-and-mask?u=76281980)
+#### [Crop and mask](https://www.linkedin.com/learning/principle-for-ux-design-22683376/crop-and-mask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1805,7 +1783,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **UI Navigation:** select the (3), open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1815,8 +1792,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980)
+#### [Understand the timeline](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1868,7 +1844,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980&t=157)** This is the start, this is the end.
 >
-> **[2:40](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980&t=160)** Unlike other prototyping applications, you can't add key frames, this is what you get.
+> **[2:40](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980&t=160)** Unlike other [[Prototyping]] applications, you can't add key frames, this is what you get.
 >
 > **[2:46](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980&t=166)** This blue area you see here is duration.
 >
@@ -1894,7 +1870,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980&t=211)** So you can actually control the motion of an element just by simply playing with the key frames, and you can change the duration by moving the key frames in or out, or even giving them a slight delay before the animation actually occurs.
 >
-> **[3:48](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980&t=228)** Now, you're probably wondering what this little snowflake is.
+> **[3:48](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980&t=228)** Now, you're probably wondering what this little [[Snowflake]] is.
 >
 > **[3:52](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980&t=232)** Well, that snowflake actually freezes key frames.
 >
@@ -1920,14 +1896,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (2), ux (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (2), [[Prototyping]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add keyframes and durations
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-keyframes-and-durations?u=76281980)
+#### [Add keyframes and durations](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-keyframes-and-durations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2085,15 +2060,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Analogies:** picture (6)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2), open the (1), scroll down (1)
 > **Cross-References:** as you saw (1), in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### Use the easing feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/use-the-easing-feature?u=76281980)
+#### [Use the easing feature](https://www.linkedin.com/learning/principle-for-ux-design-22683376/use-the-easing-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2127,7 +2100,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/principle-for-ux-design-22683376/use-the-easing-feature?u=76281980&t=66)** So the description moves up to here and that's the center X that we're going to be moving because it's moving on the Y axis.
 >
-> **[1:17](https://www.linkedin.com/learning/principle-for-ux-design-22683376/use-the-easing-feature?u=76281980&t=77)** So what we're going to do is we're going to click on the word default, and you can see there's an easing equation.
+> **[1:17](https://www.linkedin.com/learning/principle-for-ux-design-22683376/use-the-easing-feature?u=76281980&t=77)** So what we're going to do is we're going to click on the [[Microsoft Word|word]] default, and you can see there's an easing equation.
 >
 > **[1:25](https://www.linkedin.com/learning/principle-for-ux-design-22683376/use-the-easing-feature?u=76281980&t=85)** So if you're unfamiliar with these, basically the object speeds up, stays at a constant speed to about here and then starts to slow down.
 >
@@ -2258,8 +2231,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create motion arcs
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-motion-arcs?u=76281980)
+#### [Create motion arcs](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-motion-arcs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2340,8 +2312,7 @@ created: 2026-05-02
 > **Versions:** 0.4 (1), 1.50 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create circular motion
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-circular-motion?u=76281980)
+#### [Create circular motion](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-circular-motion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2419,19 +2390,18 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-circular-motion?u=76281980&t=175)** I would like that circle to go around.
 >
-> **[2:58](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-circular-motion?u=76281980&t=178)** Once you settle on it, the concept can move into development or be pulled together in a formal prototyping application.
+> **[2:58](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-circular-motion?u=76281980&t=178)** Once you settle on it, the concept can move into development or be pulled together in a formal [[Prototyping]] application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (1), [[Prototyping]] (1), application (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **UI Navigation:** select the (3), open the (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a tabbed interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-tabbed-interface?u=76281980)
+#### [Create a tabbed interface](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-tabbed-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2453,7 +2423,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-tabbed-interface?u=76281980&t=60)** So let's get this thing wired up.
 >
-> **[1:02](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-tabbed-interface?u=76281980&t=62)** So the first thing I want to do is just select the word Museum and add a tap event over to art board number two.
+> **[1:02](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-tabbed-interface?u=76281980&t=62)** So the first thing I want to do is just select the [[Microsoft Word|word]] Museum and add a tap event over to art board number two.
 >
 > **[1:15](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-tabbed-interface?u=76281980&t=75)** And if I open up the Museum tap event, I'm going to give the indicator an ease of both.
 >
@@ -2485,7 +2455,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-tabbed-interface?u=76281980&t=189)** So you see how quickly you can navigate through multiple screens using a tabbed interface.
 >
-> **[3:16](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-tabbed-interface?u=76281980&t=196)** So there you have it, prototyping a tabbed interface.
+> **[3:16](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-tabbed-interface?u=76281980&t=196)** So there you have it, [[Prototyping]] a tabbed interface.
 
 > [!info]- Semantic Content
 >
@@ -2495,14 +2465,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create scrollable content
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-scrollable-content?u=76281980)
+#### [Create scrollable content](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-scrollable-content?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-scrollable-content?u=76281980&t=0)** - [Instructor] In this video, we're going to take a look at making a scrollable interface.
 >
-> **[0:05](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-scrollable-content?u=76281980&t=5)** This is one of the more common prototyping tasks people undertake and, in principle, it's not that difficult to do.
+> **[0:05](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-scrollable-content?u=76281980&t=5)** This is one of the more common [[Prototyping]] tasks people undertake and, in principle, it's not that difficult to do.
 >
 > **[0:14](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-scrollable-content?u=76281980&t=14)** There's just a couple of niggly things you have to be aware of, let's get started.
 >
@@ -2559,8 +2528,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of Driver channel
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/overview-of-driver-channel?u=76281980)
+#### [Overview of Driver channel](https://www.linkedin.com/learning/principle-for-ux-design-22683376/overview-of-driver-channel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2632,14 +2600,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Constrain drivers
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/constrain-drivers?u=76281980)
+#### [Constrain drivers](https://www.linkedin.com/learning/principle-for-ux-design-22683376/constrain-drivers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2715,8 +2681,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drivers and layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/drivers-and-layers?u=76281980)
+#### [Drivers and layers](https://www.linkedin.com/learning/principle-for-ux-design-22683376/drivers-and-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2799,8 +2764,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the paging property
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/use-the-paging-property?u=76281980)
+#### [Use the paging property](https://www.linkedin.com/learning/principle-for-ux-design-22683376/use-the-paging-property?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2894,15 +2858,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (2), open the (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drivers and paging
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/drivers-and-paging?u=76281980)
+#### [Drivers and paging](https://www.linkedin.com/learning/principle-for-ux-design-22683376/drivers-and-paging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3008,7 +2970,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** open the (2), scroll down (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -3019,8 +2980,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a drag-and-drop effect
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-drag-and-drop-effect?u=76281980)
+#### [Create a drag-and-drop effect](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-drag-and-drop-effect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3080,7 +3040,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-drag-and-drop-effect?u=76281980&t=128)** Let's come on over to artboard two.
 >
-> **[2:12](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-drag-and-drop-effect?u=76281980&t=132)** And we're going to grab our little crafts image, and we're going to move it into the box, and come over to the scale, and we'll just zoom it up a little bit here, and center it up a bit over the text.
+> **[2:12](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-drag-and-drop-effect?u=76281980&t=132)** And we're going to grab our little crafts image, and we're going to move it into the box, and come over to the scale, and we'll just [[Zoom]] it up a little bit here, and center it up a bit over the text.
 >
 > **[2:31](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-drag-and-drop-effect?u=76281980&t=151)** And so how do we get from here to there?
 >
@@ -3132,12 +3092,11 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a component
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-component?u=76281980)
+#### [Create a component](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-component?u=76281980&t=0)** - [Instructor] A common feature of practically every prototyping application known to man, regardless of platform, is components.
+> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-component?u=76281980&t=0)** - [Instructor] A common feature of practically every [[Prototyping]] application known to man, regardless of platform, is components.
 >
 > **[0:08](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-component?u=76281980&t=8)** These are reusable UI elements and in many respects are akin to symbols in a lot of interactive emotion tools out there.
 >
@@ -3245,15 +3204,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (1), [[Prototyping]] (1), application (1), teams (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **UI Navigation:** select the (4), go to (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a preloader
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-preloader?u=76281980)
+#### [Create a preloader](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-preloader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3342,12 +3300,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Create a card animation
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-card-animation?u=76281980)
+#### [Create a card animation](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-card-animation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-card-animation?u=76281980&t=0)** - [Instructor] One of the great advantages to working with prototyping software such as Principle, is you get to play what I call what if games.
+> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-card-animation?u=76281980&t=0)** - [Instructor] One of the great advantages to working with [[Prototyping]] software such as Principle, is you get to play what I call what if games.
 >
 > **[0:08](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-card-animation?u=76281980&t=8)** For example, what if I touch this image and I keep my finger over the image and the image pops out of the stack and moves in front of the other images?
 >
@@ -3365,7 +3322,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-card-animation?u=76281980&t=61)** And the first thing I want to do is select art board one and duplicate it, which is Command D.
 >
-> **[1:10](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-card-animation?u=76281980&t=70)** And what I'm going to do is I'm going to zoom out the interface here 'cause I want to get all of the art boards into position, or visible to you.
+> **[1:10](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-card-animation?u=76281980&t=70)** And what I'm going to do is I'm going to [[Zoom]] out the interface here 'cause I want to get all of the art boards into position, or visible to you.
 >
 > **[1:20](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-card-animation?u=76281980&t=80)** So we're going to give the user a little hint that he or she has picked this card.
 >
@@ -3489,7 +3446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (1), [[Zoom]] (1), application (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Zoom]] (1)
 > **UI Navigation:** select the (4), open the (1), go to (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1), for example (1), picture (1)
@@ -3497,8 +3454,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a slide-in menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-slide-in-menu?u=76281980)
+#### [Create a slide-in menu](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-slide-in-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3524,7 +3480,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-slide-in-menu?u=76281980&t=72)** And how does this happen?
 >
-> **[1:13](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-slide-in-menu?u=76281980&t=73)** Well, before we get going, we want to focus on these two art boards, I'm just going to zoom in a bit so you can actually be concentrated on what we're doing.
+> **[1:13](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-slide-in-menu?u=76281980&t=73)** Well, before we get going, we want to focus on these two art boards, I'm just going to [[Zoom]] in a bit so you can actually be concentrated on what we're doing.
 >
 > **[1:25](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-slide-in-menu?u=76281980&t=85)** There we go.
 >
@@ -3646,7 +3602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), feature (1), [[Zoom]] (1), game (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** select the (5), open the (1)
 > **Cross-References:** earlier in (2), as you saw (1)
 > **CLI Commands:** make (2)
@@ -3654,8 +3610,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create special effects
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-special-effects?u=76281980)
+#### [Create special effects](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-special-effects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3809,15 +3764,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** select the (7), open the (3)
 > **CLI Commands:** make (4)
 > **Analogies:** just like (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare video for Principle
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/prepare-video-for-principle?u=76281980)
+#### [Prepare video for Principle](https://www.linkedin.com/learning/principle-for-ux-design-22683376/prepare-video-for-principle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4057,7 +4010,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), next (2), ux (1), web (1)
 > **Env Vars:** mp4 (4), vbr (2), aac (2), mpeg (1)
 > **CLI Commands:** make (5)
 > **Versions:** 50.2 (3)
@@ -4065,9 +4017,9 @@ created: 2026-05-02
 > **Code Identifiers:** iphone (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
+> **Warnings:** be aware (1)
 
-#### Add video to an artboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-video-to-an-artboard?u=76281980)
+#### [Add video to an artboard](https://www.linkedin.com/learning/principle-for-ux-design-22683376/add-video-to-an-artboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4143,15 +4095,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Control audio volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/scrub-video?u=76281980)
+#### [Control audio volume](https://www.linkedin.com/learning/principle-for-ux-design-22683376/scrub-video?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4226,8 +4176,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (2), open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Control video playback
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/control-audio-volume?u=76281980)
+#### [Control video playback](https://www.linkedin.com/learning/principle-for-ux-design-22683376/control-audio-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4321,19 +4270,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2)
 > **UI Navigation:** open the (3), select the (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** mp3 (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an Apple Watch alert
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-an-apple-watch-alert?u=76281980)
+#### [Create an Apple Watch alert](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-an-apple-watch-alert?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-an-apple-watch-alert?u=76281980&t=0)** - [Instructor] Our final exercise in Practical Principle Projects involves creating an Apple Watch interface, and what makes prototyping for an Apple Watch so intriguing is you have such a small space to work with.
+> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-an-apple-watch-alert?u=76281980&t=0)** - [Instructor] Our final exercise in Practical Principle Projects involves creating an Apple Watch interface, and what makes [[Prototyping]] for an Apple Watch so intriguing is you have such a small space to work with.
 >
 > **[0:15](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-an-apple-watch-alert?u=76281980&t=15)** Let me show you.
 >
@@ -4426,12 +4373,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/principle-for-ux-design-22683376/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/next-steps?u=76281980&t=0)** - [Instructor] So here we are at the end of the Principle for Mac deep dive.
+> **[0:00](https://www.linkedin.com/learning/principle-for-ux-design-22683376/next-steps?u=76281980&t=0)** - [Instructor] So here we are at the end of the [[Principle for Mac]] deep dive.
 >
 > **[0:04](https://www.linkedin.com/learning/principle-for-ux-design-22683376/next-steps?u=76281980&t=4)** As you can see, it is quite the flexible application and there is a lot you can do with it.
 >
@@ -4469,7 +4415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Principle for Mac]] (3), application (2), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[Principle for Mac]] (3)
 > **Definitions:** is a  (3)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **CLI Commands:** find (1)

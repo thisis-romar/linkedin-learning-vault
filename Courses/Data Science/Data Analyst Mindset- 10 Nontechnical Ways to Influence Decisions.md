@@ -66,8 +66,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Put away your data and listen carefully
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/put-away-your-data-and-listen-carefully?u=76281980)
+#### [Put away your data and listen carefully](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/put-away-your-data-and-listen-carefully?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,7 +82,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), game (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - do (1)
 
@@ -92,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Know your role: The guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/know-your-role-the-guide?u=76281980)
+#### [Know your role: The guide](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/know-your-role-the-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,15 +176,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Automation]] (1), cloud (1), next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), think of it as (1)
 > **Env Vars:** pdf (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - one (1)
 
-#### Be intelligent: Ask the right questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-intelligent-ask-the-right-questions?u=76281980)
+#### [Be intelligent: Ask the right questions](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-intelligent-ask-the-right-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -203,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-intelligent-ask-the-right-questions?u=76281980&t=31)** Question number one: "What do you want to achieve?"
 >
-> **[0:34](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-intelligent-ask-the-right-questions?u=76281980&t=34)** While you may hope that your end users know what they want to get out of the project, a lot of times, this question leads to a very technical response, such as, "To automate our reports," or, "To replace our 10 Excel reports with a dashboard."
+> **[0:34](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-intelligent-ask-the-right-questions?u=76281980&t=34)** While you may hope that your end users know what they want to get out of the project, a lot of times, this question leads to a very technical response, such as, "To automate our reports," or, "To replace our 10 [[Microsoft Excel|Excel]] reports with a dashboard."
 >
 > **[0:48](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-intelligent-ask-the-right-questions?u=76281980&t=48)** While this would be correct, these answers actually fail to get to the real point.
 >
@@ -247,13 +242,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Analogies:** such as (2), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - did (1)
 
-#### Build trust: Listen more than you speak
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/build-trust-listen-more-than-you-speak?u=76281980)
+#### [Build trust: Listen more than you speak](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/build-trust-listen-more-than-you-speak?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/build-trust-listen-more-than-you-speak?u=76281980&t=5)** I've personally witnessed this having trained over 15,000 data professionals to date.
 >
-> **[0:11](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/build-trust-listen-more-than-you-speak?u=76281980&t=11)** Bryant McGill said it best: One of the most sincere forms of respect is actually listening to what another has to say.
+> **[0:11](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/build-trust-listen-more-than-you-speak?u=76281980&t=11)** Bryant McGill said it best: One of the most sincere [[Forms]] of respect is actually listening to what another has to say.
 >
 > **[0:19](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/build-trust-listen-more-than-you-speak?u=76281980&t=19)** Not only is it respectful, but a study done by the Listing Association found that people who actively listen and engage retain 75% of the information versus those who do not; this has proven important to build trust, effective communication and overall productivity.
 >
@@ -317,15 +311,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - did (1)
 
-#### Trigger congruency: The Three Nods Rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/trigger-congruency-the-three-nods-rule?u=76281980)
+#### [Trigger congruency: The Three Nods Rule](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/trigger-congruency-the-three-nods-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,17 +400,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), game (2), career (2), next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - did (1)
 
-#### Show don't tell: Use storyboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/show-don-t-tell-use-storyboards?u=76281980)
+#### [Show don't tell: Use storyboards](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/show-don-t-tell-use-storyboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/show-don-t-tell-use-storyboards?u=76281980&t=0)** - Did you know that by using storyboards, and data requirement gathering, you can hyper-focus on user needs, create real emotional connections, get iterative feedback in real-time, and provide contextual understanding?
+> **[0:00](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/show-don-t-tell-use-storyboards?u=76281980&t=0)** - Did you know that by using storyboards, and data requirement gathering, you can hyper-focus on user needs, create real emotional connections, get iterative feedback in [[Real-Time]], and provide contextual understanding?
 >
 > **[0:13](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/show-don-t-tell-use-storyboards?u=76281980&t=13)** Simon Sinek says it best.
 >
@@ -495,14 +486,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Real-Time]] (1), hit (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Env Vars:** whw (2), kpi (2)
 > **Definitions:** is a  (2), stands for (1), is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - did (1)
 
-#### Be memorable: Use visual action words
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-memorable-use-visual-action-words?u=76281980)
+#### [Be memorable: Use visual action words](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-memorable-use-visual-action-words?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,7 +556,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-memorable-use-visual-action-words?u=76281980&t=185)** Once you have those answers, you then rewrite the metric to be grow sales by 10% / 1 million by the end of the year, and voila, you have a SMART metric that is both easy to remember and easy to visualize.
 >
-> **[3:20](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-memorable-use-visual-action-words?u=76281980&t=200)** You'll note the visual action word in the front, which is grow instead of increase, why?
+> **[3:20](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-memorable-use-visual-action-words?u=76281980&t=200)** You'll note the visual action [[Microsoft Word|word]] in the front, which is grow instead of increase, why?
 >
 > **[3:25](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-memorable-use-visual-action-words?u=76281980&t=205)** Let's do a short exercise.
 >
@@ -598,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), power (2), data (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **Env Vars:** whw (6), smart (3), kpi (1)
 > **Definitions:** stands for (4), is a  (1)
 > **Analogies:** picture (3)
@@ -606,8 +596,7 @@ created: 2026-05-02
 > **Speakers:** - did (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Focus on change, nothing else really matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/focus-on-change-nothing-else-really-matters?u=76281980)
+#### [Focus on change, nothing else really matters](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/focus-on-change-nothing-else-really-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,7 +654,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/focus-on-change-nothing-else-really-matters?u=76281980&t=158)** I so wish someone told me this when I started.
 >
-> **[2:41](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/focus-on-change-nothing-else-really-matters?u=76281980&t=161)** I over-engineered the problem and loaded my reports and dashboards with tons of filters to ensure they had every single view.
+> **[2:41](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/focus-on-change-nothing-else-really-matters?u=76281980&t=161)** I over-engineered the problem and loaded my reports and [[Dashboards]] with tons of filters to ensure they had every single view.
 >
 > **[2:50](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/focus-on-change-nothing-else-really-matters?u=76281980&t=170)** So the next time you find yourself adding multiple for an infinite amount of views that forces your users to hunt for things, take a minute to find out the type of change they care about, highlight it, show why it happened, and ensure they're notified once it hits the target.
 >
@@ -673,14 +662,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), career (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** kpi (1), okr (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Never say no, or yes for that matter
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/never-say-no-or-yes-for-that-matter?u=76281980)
+#### [Never say no, or yes for that matter](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/never-say-no-or-yes-for-that-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +684,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/never-say-no-or-yes-for-that-matter?u=76281980&t=45)** Here are the top five scenarios where you'll likely need to say no, also known as push back.
 >
-> **[0:51](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/never-say-no-or-yes-for-that-matter?u=76281980&t=51)** One, data quality issues.
+> **[0:51](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/never-say-no-or-yes-for-that-matter?u=76281980&t=51)** One, [[Data Quality]] issues.
 >
 > **[0:53](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/never-say-no-or-yes-for-that-matter?u=76281980&t=53)** Perhaps the most common of the group, but dirty data is dirty data.
 >
@@ -752,15 +740,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), career (1), teams (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Definitions:** known as (3), is a  (2)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - did (1)
 
-#### Be tool agnostic
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-tool-agnostic?u=76281980)
+#### [Be tool agnostic](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-tool-agnostic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,7 +757,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-tool-agnostic?u=76281980&t=14)** In a study conducted by Gartner, it was found that a premature focus on technology rather than the actual data is one of the top reasons for failures in data projects.
 >
-> **[0:26](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-tool-agnostic?u=76281980&t=26)** So why do data analysts often lead with technology, like Power BI, Tableau, or even Excel?
+> **[0:26](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-tool-agnostic?u=76281980&t=26)** So why do data analysts often lead with technology, like [[Microsoft Power BI|Power BI]], [[Tableau]], or even [[Microsoft Excel|Excel]]?
 >
 > **[0:33](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/be-tool-agnostic?u=76281980&t=33)** The answer lies in our perception that these tools are superpower in the data world.
 >
@@ -834,15 +821,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (3), bi (3), feature (3), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Tableau]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - did (1)
 
-#### Avoiding common issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/in-god-we-trust-everyone-else-bring-data?u=76281980)
+#### [Avoiding common issues](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/in-god-we-trust-everyone-else-bring-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,7 +892,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), leadership (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - did (1)
@@ -916,8 +901,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your data analyst learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/continue-your-data-analyst-learning-journey?u=76281980)
+#### [Continue your data analyst learning journey](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/continue-your-data-analyst-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,13 +921,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/continue-your-data-analyst-learning-journey?u=76281980&t=40)** Thank you so much for spending this time with me.
 >
-> **[0:43](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/continue-your-data-analyst-learning-journey?u=76281980&t=43)** Connect with me on LinkedIn, and please take a minute to review the course and leave some feedback in the comments.
+> **[0:43](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/continue-your-data-analyst-learning-journey?u=76281980&t=43)** Connect with me on [[LinkedIn]], and please take a minute to review the course and leave some feedback in the comments.
 >
 > **[0:48](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/continue-your-data-analyst-learning-journey?u=76281980&t=48)** I'll see you in the next course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), career (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Versions:** 2.0 (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)

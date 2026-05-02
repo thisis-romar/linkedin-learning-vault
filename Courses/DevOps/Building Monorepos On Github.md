@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing code in monorepos
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/managing-code-in-monorepos?u=76281980)
+#### [Managing code in monorepos](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/managing-code-in-monorepos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,11 +92,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a monorepo, and why should you use one?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980)
+#### [What is a monorepo, and why should you use one?](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,9 +104,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=19)** Repos can have one or many programming languages.
 >
-> **[0:23](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=23)** A mobile app, for example, could use mainly one programming language such as Java, Kotlin, or Swift.
+> **[0:23](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=23)** A mobile app, for example, could use mainly one programming language such as [[Java]], [[Kotlin]], or [[Swift (Programming Language)|Swift]].
 >
-> **[0:30](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=30)** One of the most important part of a repository is version control: a system to store and manage every change made in the code that allows developers to revert the software to any previous state.
+> **[0:30](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=30)** One of the most important part of a repository is [[Version Control]]: a system to store and manage every change made in the code that allows developers to revert the software to any previous state.
 >
 > **[0:44](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=44)** You can think that a repo is a container for a project which is one of the most common use cases.
 >
@@ -119,7 +116,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=62)** For example, if a web app has a team working exclusively on the frontend and another separate team dealing with the backend, the most common solution here is to create separate repositories with different team members, workflows, and deploy tools.
 >
-> **[1:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=79)** The more complex the software gets, the more code units are required, like in this example, using microservices architecture, where different teams manage every microservice.
+> **[1:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=79)** The more complex the software gets, the more code units are required, like in this example, using [[Microservices]] architecture, where different teams manage every microservice.
 >
 > **[1:32](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=92)** Same happens here, with microfrontends architecture applied in the frontend.
 >
@@ -139,7 +136,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=136)** Each repo should be decoupled, allowing teams to deploy their changes independently.
 >
-> **[2:22](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=142)** Here, in this example, we can see that if a team makes a change on the repo before it's available to the rest of the app, it needs to be compiled or integrated.
+> **[2:22](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=142)** Here, in this example, we can see that if a team makes a change on the repo before it's available to the [[Representational State Transfer (REST)|rest]] of the app, it needs to be compiled or integrated.
 >
 > **[2:33](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/what-is-a-monorepo-and-why-should-you-use-it?u=76281980&t=153)** That requires a form of orchestrator or building task that can run on demand or schedule, for example, once or twice a day.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Programming]] (2), [[Version Control]] (2), api (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (2), [[Java]] (1), [[Kotlin]] (1), [[Swift (Programming Language)|Swift]] (1), [[Microservices]] (1)
 > **Analogies:** for example (4), such as (1)
 > **Definitions:** is a  (2), known as (1)
 > **Prerequisites:** before we start (1), required to (1)
@@ -186,16 +183,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] This is Ravi del Lobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] This is Ravi del Lobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file, because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -307,7 +303,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit OK.
 >
-> **[5:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-github-codespaces-with-this-course?u=76281980&t=337)** That way, it'll automatically sync with your forked repo.
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (2), go to (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -337,16 +333,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating your first monorepo
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980)
+#### [Creating your first monorepo](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=0)** - [Instructor] We're going to create your first monorepo, but before we begin, make sure you have an active repository on your workspace.
 >
-> **[0:08](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=8)** Use the comments git init to initialize a new repository, or git clone with the URL where you want to download your original repository.
+> **[0:08](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=8)** Use the comments [[Git]] init to initialize a new repository, or git clone with the URL where you want to download your original repository.
 >
-> **[0:23](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=23)** I already have my repository initialized and connected with GitHub.
+> **[0:23](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=23)** I already have my repository initialized and connected with [[GitHub]].
 >
 > **[0:28](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=28)** Now you need to install Rush on your system.
 >
@@ -356,11 +351,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=40)** I'm working on Visual Studio Code, and we'll use the terminal.
 >
-> **[0:44](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=44)** The first thing I'll do is to install Rush with the command npm install -g.
+> **[0:44](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=44)** The first thing I'll do is to install Rush with the command [[npm]] install -g.
 >
 > **[0:53](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=53)** This means the application will be globally available on your whole system.
 >
-> **[0:58](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=58)** Now include the name of the package, in this case, Microsoft/rush.
+> **[0:58](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=58)** Now include the name of the package, in this case, [[Microsoft]]/rush.
 >
 > **[1:06](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=66)** Hit enter, and this will install Rush on your system.
 >
@@ -380,7 +375,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=116)** First, you'll find the common folder with configuration settings we can use across all the different applications in this Monorepo.
 >
-> **[2:03](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=123)** We also have different configuration files, especially the Rush.json file that manages the configuration of the whole project.
+> **[2:03](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=123)** We also have different configuration files, especially the Rush.[[JSON]] file that manages the configuration of the whole project.
 >
 > **[2:13](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980&t=133)** Now that the repo is successfully created, it's time to save the changes in a GitHub repository.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), node (3), [[GitHub]] (2), hit (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[GitHub]] (2), [[npm]] (1), [[Microsoft]] (1), [[JSON]] (1)
 > **CLI Commands:** git (4), node (3), find (2), make (1), npm (1)
 > **Tools:** terminal (3), github (2), visual studio (1)
 > **Prerequisites:** install (4), make sure you have (1)
@@ -401,14 +396,13 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
 
-#### Setting up config files
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/setting-up-config-files-26270150?u=76281980)
+#### [Setting up config files](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/setting-up-config-files-26270150?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/setting-up-config-files-26270150?u=76281980&t=0)** - [Instructor] Configuration settings are key to keep your monorepo organized and consistent.
 >
-> **[0:05](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/setting-up-config-files-26270150?u=76281980&t=5)** In a Rush based monorepo, these settings are stored in the rush.json file.
+> **[0:05](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/setting-up-config-files-26270150?u=76281980&t=5)** In a Rush based monorepo, these settings are stored in the rush.[[JSON]] file.
 >
 > **[0:11](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/setting-up-config-files-26270150?u=76281980&t=11)** When you open this file for the first time in Visual Studio Code, you're likely to see some syntax errors.
 >
@@ -430,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), node (4)
+> **Frameworks & Libraries:** [[JSON]] (6)
 > **CLI Commands:** node (4), make (2)
 > **Env Vars:** json (3), jsonc (1), pmpm (1)
 > **File Paths:** rush.json (3)
@@ -439,8 +433,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a new project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980)
+#### [Adding a new project](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,7 +443,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=7)** I will create a new folder called Monorepos, and inside this folder, I want to include the name of this lesson.
 >
-> **[0:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=19)** I will move the rush.json file and the Common folder.
+> **[0:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=19)** I will move the rush.[[JSON]] file and the Common folder.
 >
 > **[0:31](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=31)** Those are the configuration files for Rush.
 >
@@ -466,11 +459,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=69)** So let's create a new project.
 >
-> **[1:12](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=72)** Let's go to the new folder called Apps with the command cd apps and include the command npm create vite customers.
+> **[1:12](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=72)** Let's go to the new folder called Apps with the command cd apps and include the command [[npm]] create vite customers.
 >
 > **[1:27](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=87)** This will create a new project using vite, and the project will be called Customers, hit Enter.
 >
-> **[1:35](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=95)** In this case, I want to select React project based on JavaScript.
+> **[1:35](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=95)** In this case, I want to select [[React.js|React]] project based on [[JavaScript]].
 >
 > **[1:40](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/adding-a-new-project?u=76281980&t=100)** There's no need to run npm install.
 >
@@ -508,7 +501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[npm]] (2), hit (2), cd (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[npm]] (2), [[React.js|React]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (3), npm (2), make (2), cd (1)
 > **UI Navigation:** select the (2), open the (2), go to (1)
 > **Prerequisites:** install (2), setup (1)
@@ -517,8 +510,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-commands?u=76281980)
+#### [Running commands](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,7 +546,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-commands?u=76281980&t=84)** Once you incite the folder, you can run local development comments using rushx.
 >
-> **[1:32](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-commands?u=76281980&t=92)** If you open the package, the JSON file of this project, you can find a list of available comments.
+> **[1:32](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-commands?u=76281980&t=92)** If you open the package, the [[JSON]] file of this project, you can find a list of available comments.
 >
 > **[1:41](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-commands?u=76281980&t=101)** For example, if you want to run the dev comment type rushx and then the comment, dev.
 >
@@ -566,7 +558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), hit (1), next (1), cd (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** make (2), cd (1), find (1)
 > **UI Navigation:** click on (1), select the (1), navigate to (1), open the (1)
 > **Tools:** terminal (3)
@@ -575,8 +567,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Building your monorepo
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-your-monorepo-26273169?u=76281980)
+#### [Building your monorepo](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-your-monorepo-26273169?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,7 +575,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-your-monorepo-26273169?u=76281980&t=5)** I have two projects that need to be added to this monorepo.
 >
-> **[0:09](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-your-monorepo-26273169?u=76281980&t=9)** So first, I locate the monorepo for this lesson and locate the rush.json file.
+> **[0:09](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-your-monorepo-26273169?u=76281980&t=9)** So first, I locate the monorepo for this lesson and locate the rush.[[JSON]] file.
 >
 > **[0:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-your-monorepo-26273169?u=76281980&t=19)** Here I have one project included, and in the apps folder, I include two more called Finance and Shop.
 >
@@ -628,7 +619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[JSON]] (3)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **File Paths:** rush.json (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1), click on (1)
@@ -637,14 +628,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 
-#### Monorepo Git hooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/monorepo-git-hooks?u=76281980)
+#### [Monorepo Git hooks](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/monorepo-git-hooks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/monorepo-git-hooks?u=76281980&t=0)** - [Instructor] Working on Monorepos is about large code bases and independent teams working on different parts of the code.
 >
-> **[0:07](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/monorepo-git-hooks?u=76281980&t=7)** You need to make sure every new change meet the standards and Git Hooks can help.
+> **[0:07](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/monorepo-git-hooks?u=76281980&t=7)** You need to make sure every new change meet the standards and [[Git]] Hooks can help.
 >
 > **[0:12](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/monorepo-git-hooks?u=76281980&t=12)** Git Hooks are simple task that you can attach to your Git events.
 >
@@ -718,7 +708,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/monorepo-git-hooks?u=76281980&t=260)** And here in the terminal, I'm going to commit with git at everything and git commit dash M.
 >
-> **[4:35](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/monorepo-git-hooks?u=76281980&t=275)** And in this case I'm just going to include one single word in order to trigger the git hook that validates the message.
+> **[4:35](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/monorepo-git-hooks?u=76281980&t=275)** And in this case I'm just going to include one single [[Microsoft Word|word]] in order to trigger the git hook that validates the message.
 >
 > **[4:47](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/monorepo-git-hooks?u=76281980&t=287)** So press enter.
 >
@@ -730,7 +720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (16), node (2), teams (1), cd (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Git]] (16), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** git (16), make (8), node (2), cd (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Tools:** terminal (3)
@@ -739,8 +729,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 
-#### Installing shared components
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/installing-shared-components?u=76281980)
+#### [Installing shared components](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/installing-shared-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +741,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/installing-shared-components?u=76281980&t=18)** Inside it and included a new UI component.
 >
-> **[0:21](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/installing-shared-components?u=76281980&t=21)** In this case, a button based on React.
+> **[0:21](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/installing-shared-components?u=76281980&t=21)** In this case, a button based on [[React.js|React]].
 >
 > **[0:25](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/installing-shared-components?u=76281980&t=25)** I'm going to share this new component with another app on my monorepo.
 >
@@ -826,7 +815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[React.js|React]] (2), cd (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **CLI Commands:** find (2), cd (1)
 > **Prerequisites:** install (2)
 > **Env Vars:** jes (1)
@@ -839,8 +828,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to migrate projects to your monorepo
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980)
+#### [How to migrate projects to your monorepo](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +846,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980&t=43)** So, to clean this folder, first we need to browse to this new application.
 >
-> **[0:49](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980&t=49)** To, so, I need to go to the terminal and type: cd apps/new_app Here I am inside the 'new _app' and I need to remove any traces from git by typing: rm dash (-) rf dot (.)
+> **[0:49](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980&t=49)** To, so, I need to go to the terminal and type: cd apps/new_app Here I am inside the 'new _app' and I need to remove any traces from [[Git]] by typing: rm dash (-) rf dot (.)
 >
 > **[1:13](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980&t=73)** git This will remove the git folder with possibly outdated info.
 >
@@ -866,7 +854,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980&t=88)** In this case, I will remove files that are often present on external repos.
 >
-> **[1:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980&t=94)** Here I will include a command that will remove files such as 'package-lock.json' or 'shrinkwrap.yaml'.
+> **[1:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980&t=94)** Here I will include a command that will remove files such as 'package-lock.[[JSON]]' or 'shrinkwrap.yaml'.
 >
 > **[1:46](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980&t=106)** Now I need to ensure that the project is include in the rush, the 'json' file, by adding a new entry for my new project.
 >
@@ -894,7 +882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), application (2), [[JSON]] (2), cd (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[JSON]] (2)
 > **CLI Commands:** git (4), cd (1), rm (1), make (1)
 > **Code Identifiers:** new_app (5)
 > **File Paths:** package-lock.json (1), shrinkwrap.yaml (1)
@@ -903,8 +891,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Best Practices:** remember to (1)
 
-#### Running custom commands on your monorepo
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-custom-commands-on-your-monorepo?u=76281980)
+#### [Running custom commands on your monorepo](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-custom-commands-on-your-monorepo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -916,7 +903,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-custom-commands-on-your-monorepo?u=76281980&t=11)** Here, I have a monorepo with multiple apps, and I need to run unit test on every application, but to do so, I have to browse one by one the folders that contains my applications.
 >
-> **[0:23](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-custom-commands-on-your-monorepo?u=76281980&t=23)** For example, I need to go to cd apps/customers to open one of my applications, then open the package.json file and find the scripts section.
+> **[0:23](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-custom-commands-on-your-monorepo?u=76281980&t=23)** For example, I need to go to cd apps/customers to open one of my applications, then open the package.[[JSON]] file and find the scripts section.
 >
 > **[0:45](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/running-custom-commands-on-your-monorepo?u=76281980&t=45)** In this case, I need the test script.
 >
@@ -966,7 +953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[JSON]] (4), cd (1), parallel (1)
+> **Frameworks & Libraries:** [[JSON]] (4)
 > **UI Navigation:** go to (3), open the (2)
 > **CLI Commands:** find (3), cd (1)
 > **File Paths:** package.json (3)
@@ -975,12 +962,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Tools:** terminal (1)
 
-#### Dependabot pull requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980)
+#### [Dependabot pull requests](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980&t=0)** - [Instructor] Dependabot is a GitHub tool to keep your dependencies secure and up to date.
+> **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980&t=0)** - [Instructor] Dependabot is a [[GitHub]] tool to keep your dependencies secure and up to date.
 >
 > **[0:06](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980&t=6)** To install Dependabot, go to GitHub, select your repo, and click on Insights.
 >
@@ -998,9 +984,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980&t=50)** The first one is to include the package ecosystem.
 >
-> **[0:54](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980&t=54)** In this case, I am using a React-based application so I need to include the value npm.
+> **[0:54](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980&t=54)** In this case, I am using a [[React.js|React]]-based application so I need to include the value [[npm]].
 >
-> **[1:03](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980&t=63)** The directory is the place where we store the package.json files.
+> **[1:03](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980&t=63)** The directory is the place where we store the package.[[JSON]] files.
 >
 > **[1:07](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/dependabot-pull-requests?u=76281980&t=67)** So, in this case, we can set the schedule for this process to run again.
 >
@@ -1028,7 +1014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Security]] (2), [[React.js|React]] (1), application (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[React.js|React]] (1), [[npm]] (1), [[JSON]] (1)
 > **CLI Commands:** find (3), npm (1), make (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Tools:** github (3)
@@ -1037,8 +1023,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1), set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other tools to manage monorepos
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980)
+#### [Other tools to manage monorepos](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,19 +1045,19 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=44)** I want to show you a list of monorepo managers, so you can have more options to choose how to build your project.
 >
-> **[0:52](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=52)** The first tool is Bazel, an open-source tool supported by Google.
+> **[0:52](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=52)** The first tool is Bazel, an open-source tool supported by [[Google]].
 >
-> **[0:57](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=57)** It supports multiple languages such as Java C++ or Python.
+> **[0:57](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=57)** It supports multiple languages such as [[Java]] C++ or [[Python (Programming Language)|Python]].
 >
 > **[1:02](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=62)** It is widely used for machine-learning projects.
 >
-> **[1:05](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=65)** Since TensorFlow, a popular machine learning platform used Bazel to build Python projects.
+> **[1:05](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=65)** Since [[TensorFlow]], a popular machine learning platform used Bazel to build Python projects.
 >
 > **[1:12](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=72)** Bazel used the Starlark language to manage configuration and settings.
 >
 > **[1:17](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=77)** Next, we have Lerna.
 >
-> **[1:20](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=80)** Lerna is designed for JavaScript projects.
+> **[1:20](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=80)** Lerna is designed for [[JavaScript]] projects.
 >
 > **[1:23](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=83)** It has a good integration with the Babel compiler and in learner, all projects are packages and advantages repos as multipackage repositories.
 >
@@ -1080,9 +1065,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=99)** Buck users, such as Airbnb or Uber report benchmarks of up to 50% faster builds and smaller apps.
 >
-> **[1:48](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=108)** Buck is commonly used for Android and iOS development.
+> **[1:48](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=108)** Buck is commonly used for [[Android]] and [[iOS Development]].
 >
-> **[1:53](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=113)** Finally, we have Rush, sponsored by Microsoft.
+> **[1:53](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=113)** Finally, we have Rush, sponsored by [[Microsoft]].
 >
 > **[1:56](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/other-tools-to-manage-monorepos?u=76281980&t=116)** This monorepo manager is designed for JavaScript projects.
 >
@@ -1092,7 +1077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JavaScript]] (2), open-source (1), [[Google]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JavaScript]] (2), [[Google]] (1), [[Java]] (1), [[TensorFlow]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** such as (2)
 > **Code Identifiers:** ios (1)
@@ -1103,12 +1088,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting familiar with GitHub Actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980)
+#### [Getting familiar with GitHub Actions](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980&t=0)** - [Instructor] GitHub Actions are powerful tools that allows you to automate tasks, and design workflows to build and deploy applications.
+> **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980&t=0)** - [Instructor] [[GitHub]] Actions are powerful tools that allows you to automate tasks, and design workflows to build and deploy applications.
 >
 > **[0:09](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980&t=9)** To install GitHub Actions, go to GitHub, select your repo, and click on Actions.
 >
@@ -1142,7 +1126,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980&t=80)** Actions use code packages in Docker to run operative systems.
 >
-> **[1:25](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980&t=85)** So we can select here, the operative system, in this case, Ubuntu.
+> **[1:25](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980&t=85)** So we can select here, the operative system, in this case, [[Ubuntu]].
 >
 > **[1:30](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980&t=90)** Once we have our container running, we can run steps.
 >
@@ -1172,7 +1156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), next (1), parallel (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Ubuntu]] (1)
 > **Tools:** github (8)
 > **UI Navigation:** go to (2), click on (2), select the (1)
 > **CLI Commands:** find (1), make (1), docker (1)
@@ -1181,8 +1165,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1), set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the perfect workflow for your monorepo
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980)
+#### [Creating the perfect workflow for your monorepo](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1190,7 +1173,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=9)** Triggers, for example, define when the workflow starts.
 >
-> **[0:13](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=13)** They can be activated by Git events such as pushing code, manually, or even schedule.
+> **[0:13](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=13)** They can be activated by [[Git]] events such as pushing code, manually, or even schedule.
 >
 > **[0:20](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=20)** When you work with a monorepo with dozens of projects, it's important to know what and when to build or deploy your projects, and triggers can use filters for this.
 >
@@ -1222,13 +1205,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=116)** We can use almost the same comments that we can use on local.
 >
-> **[2:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=120)** Using multiple steps, we can compose complex actions.
+> **[2:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=120)** Using multiple steps, we can [[Jetpack Compose|compose]] complex actions.
 >
 > **[2:05](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=125)** Here, in this example, we are using several steps.
 >
 > **[2:09](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=129)** The first one, it's checking out the code that is on our monorepo.
 >
-> **[2:14](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=134)** Then installed Node.js and finally, we can run rush comments.
+> **[2:14](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=134)** Then installed [[Node.js]] and finally, we can run rush comments.
 >
 > **[2:21](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=141)** As I mentioned, we can use almost the same code as local.
 >
@@ -1242,15 +1225,15 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=163)** We can also use custom comments.
 >
-> **[2:46](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=166)** For example, here we're using a custom comment that is included on the command-line.json.
+> **[2:46](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=166)** For example, here we're using a custom comment that is included on the command-line.[[JSON]].
 >
 > **[2:53](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=173)** Any comment that is defined there can be called on the terminal using this format.
 >
-> **[2:58](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=178)** By using a combination of these tools, you can build workflows on GitHub to filter, build, and deploy any single or group of applications.
+> **[2:58](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-the-perfect-workflow-for-your-monorepo?u=76281980&t=178)** By using a combination of these tools, you can build workflows on [[GitHub]] to filter, build, and deploy any single or group of applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2), [[Git]] (1), node (1), [[Jetpack Compose|Compose]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Git]] (1), [[Jetpack Compose|Compose]] (1), [[Node.js]] (1), [[JSON]] (1), [[GitHub]] (1)
 > **Analogies:** for example (5), such as (1)
 > **CLI Commands:** node (2), make (1), git (1), docker (1)
 > **Tools:** terminal (3), github (1)
@@ -1259,12 +1242,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating workflows for your apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980)
+#### [Creating workflows for your apps](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=0)** - [Instructor] You can run a workflow for your monorepos using GitHub actions.
+> **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=0)** - [Instructor] You can run a workflow for your monorepos using [[GitHub]] actions.
 >
 > **[0:05](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=5)** Let me show you how.
 >
@@ -1280,9 +1262,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=60)** In this case, it will be called test.
 >
-> **[1:06](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=66)** Before we can start this job, I need to define that we will run it on an ubuntu container.
+> **[1:06](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=66)** Before we can start this job, I need to define that we will run it on an [[Ubuntu]] container.
 >
-> **[1:13](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=73)** I need to define the node version as well and define that we're working on a continuous integration environment.
+> **[1:13](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=73)** I need to define the node version as well and define that we're working on a [[Continuous Integration (CI)|continuous integration]] environment.
 >
 > **[1:22](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=82)** It's time to work on the steps.
 >
@@ -1290,7 +1272,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=89)** We need to get the code from our monorepo into the container.
 >
-> **[1:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=94)** Next step, it's to use and install Node.js.
+> **[1:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=94)** Next step, it's to use and install [[Node.js]].
 >
 > **[1:40](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-workflows-for-your-apps?u=76281980&t=100)** Here, we're going to use Node.js version 14.
 >
@@ -1330,7 +1312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[GitHub]] (3), [[Node.js]] (2), [[Ubuntu]] (1), node (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Node.js]] (2), [[Ubuntu]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** node (3), find (2)
 > **File Paths:** node.js (2), github/workflows/main.yml (1), install-run-rush.js (1)
 > **Prerequisites:** install (4)
@@ -1339,8 +1321,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Versions:** version 14 (1)
 
-#### Using multiple workflows for your apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-multiple-workflows-for-your-apps?u=76281980)
+#### [Using multiple workflows for your apps](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-multiple-workflows-for-your-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,7 +1333,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-multiple-workflows-for-your-apps?u=76281980&t=9)** First, locate your action.
 >
-> **[0:12](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-multiple-workflows-for-your-apps?u=76281980&t=12)** Remember, the GitHub actions are located on the dot GitHub folder, slash workflows, and the name, of your action.
+> **[0:12](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-multiple-workflows-for-your-apps?u=76281980&t=12)** Remember, the [[GitHub]] actions are located on the dot GitHub folder, slash workflows, and the name, of your action.
 >
 > **[0:20](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/using-multiple-workflows-for-your-apps?u=76281980&t=20)** In this case, main, dot yaml.
 >
@@ -1396,14 +1377,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), application (2), parallel (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Tools:** github (3)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
 > **Speakers:** - in (1)
 
-#### Building and deploying monorepos with Netlify
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980)
+#### [Building and deploying monorepos with Netlify](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,7 +1391,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=7)** I'm going to use [netlify.com](https://netlify.com) to deploy my application.
 >
-> **[0:13](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=13)** You can create a free account, and once you have it, click on New site from Git.
+> **[0:13](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=13)** You can create a free account, and once you have it, click on New site from [[Git]].
 >
 > **[0:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=19)** We need to use the same name of our repository to create one site.
 >
@@ -1425,7 +1405,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=59)** That means we need to run the installing process from scratch.
 >
-> **[1:04](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=64)** So we need to start with npm install dash g @Microsoft/rush
+> **[1:04](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=64)** So we need to start with [[npm]] install dash g @[[Microsoft]]/rush
 >
 > **[1:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=79)** That will install Rush.
 >
@@ -1449,7 +1429,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=165)** In the Publish Directory, the common deploy apps, the name of the app and slash build, is the value that we need to include.
 >
-> **[3:01](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=181)** We're ready to deploy this site and at this current moment it is possible that we have errors since we need to configure GitHub.
+> **[3:01](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=181)** We're ready to deploy this site and at this current moment it is possible that we have errors since we need to configure [[GitHub]].
 >
 > **[3:11](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/building-and-deploying-monorepos-with-netlify?u=76281980&t=191)** But first, let's go to site settings and copy the API ID value.
 >
@@ -1467,7 +1447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[GitHub]] (3), [[Git]] (1), [[npm]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (1), [[npm]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (6), click on (1), select the (1)
 > **Prerequisites:** install (3), configure (1)
 > **CLI Commands:** git (1), npm (1), cd (1)
@@ -1476,8 +1456,7 @@ created: 2026-05-02
 > **URLs:** [netlify.com](https://netlify.com) (1)
 > **Speakers:** - in (1)
 
-#### Deploying monorepos with GitHub actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980)
+#### [Deploying monorepos with GitHub actions](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1499,7 +1478,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=46)** In this case, red-app.
 >
-> **[0:51](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=51)** This will create a config file called deploy.json on your monorepo's common folder.
+> **[0:51](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=51)** This will create a config file called deploy.[[JSON]] on your monorepo's common folder.
 >
 > **[0:58](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=58)** Now we need to run two more comments, rush build && rush deploy.
 >
@@ -1511,7 +1490,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=87)** Click on commit.
 >
-> **[1:29](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=89)** And remember to sync your change with GitHub.
+> **[1:29](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=89)** And remember to sync your change with [[GitHub]].
 >
 > **[1:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=94)** In this example, my Monorepo is located on a sub folder.
 >
@@ -1545,9 +1524,9 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=189)** We're going to replace this code.
 >
-> **[3:13](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=193)** Let's start creating a virtual machine based on Ubuntu.
+> **[3:13](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=193)** Let's start creating a virtual machine based on [[Ubuntu]].
 >
-> **[3:17](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=197)** Then set up Node.js.
+> **[3:17](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=197)** Then set up [[Node.js]].
 >
 > **[3:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/deploying-monorepos-with-github-actions?u=76281980&t=199)** We need it to run Rush comments.
 >
@@ -1579,7 +1558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), application (3), [[JSON]] (1), [[Ubuntu]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[JSON]] (1), [[Ubuntu]] (1), [[Node.js]] (1)
 > **UI Navigation:** click on (7), select the (2), go to (1)
 > **Tools:** github (6), terminal (1)
 > **CLI Commands:** find (2), make (1), node (1), cd (1)
@@ -1593,8 +1572,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to design your monorepo
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980)
+#### [How to design your monorepo](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,7 +1590,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980&t=26)** So before choosing any monorepo manager run performance test on the realistic scenarios and compare results.
 >
-> **[0:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980&t=34)** Always ask your DevOps for suggestions.
+> **[0:34](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980&t=34)** Always ask your [[DevOps]] for suggestions.
 >
 > **[0:38](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980&t=38)** They understand the project needs an infrastructure and could provide critical feedback.
 >
@@ -1636,7 +1614,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980&t=104)** Automation can help to test and analyze every comment.
 >
-> **[1:49](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980&t=109)** For repetitive, mindless tasks such as monitor dependencies, you can use GitHub Dependabot.
+> **[1:49](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980&t=109)** For repetitive, mindless tasks such as monitor dependencies, you can use [[GitHub]] Dependabot.
 >
 > **[1:55](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980&t=115)** GitHub actions can help you to improve visibility on important changes by tracking critical files and notifying other members of a full request.
 >
@@ -1656,15 +1634,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (2), [[Automation]] (2), [[GitHub]] (2), teams (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[GitHub]] (2)
 > **Analogies:** such as (2), picture (2)
 > **CLI Commands:** make (3)
 > **Tools:** github (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Architectural governance in your monorepo
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980)
+#### [Architectural governance in your monorepo](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,21 +1673,21 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980&t=63)** Keep close track of outdated dependencies.
 >
-> **[1:07](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980&t=67)** Tools like GitHub's Dependabot can automate this process.
+> **[1:07](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980&t=67)** Tools like [[GitHub]]'s Dependabot can automate this process.
 >
 > **[1:11](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980&t=71)** Track and audit your code, remove large unused dependencies, and monitor for security issues.
 >
-> **[1:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980&t=79)** Finally, one trick to ensure you have control of dependencies, is to monitor files such as package.json, and create GitHub actions to assign architects and team leads to every pull request, including your dependencies.
+> **[1:19](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980&t=79)** Finally, one trick to ensure you have control of dependencies, is to monitor files such as package.[[JSON]], and create GitHub actions to assign architects and team leads to every pull request, including your dependencies.
 >
 > **[1:35](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980&t=95)** Pull requests are great for discussion.
 >
 > **[1:37](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980&t=97)** You can use GitHub actions to track sensitive changes, auto-assign team members, and discuss architecture guidelines on every pull request.
 >
-> **[1:46](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980&t=106)** And always remember to include DevOps on infrastructure and work-flow changes.
+> **[1:46](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/architectural-governance-in-your-monorepo?u=76281980&t=106)** And always remember to include [[DevOps]] on infrastructure and work-flow changes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Security]] (1), [[JSON]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[JSON]] (1), [[DevOps]] (1)
 > **Tools:** github (3)
 > **Analogies:** such as (2)
 > **File Paths:** package.json (1)
@@ -1722,26 +1699,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980&t=0)** - [Instructor] We reached the end of this training, and I hope that you have a clear picture of what is a monorepo, and how to use GitHub to manage and automate your code.
+> **[0:00](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980&t=0)** - [Instructor] We reached the end of this training, and I hope that you have a clear picture of what is a monorepo, and how to use [[GitHub]] to manage and automate your code.
 >
 > **[0:10](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980&t=10)** If you want to learn more about Rush and how to manage your monorepos, I recommend checking the Documents section.
 >
-> **[0:18](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980&t=18)** I encourage you to test other monorepo managers, such as Lerna in case you're looking for JavaScript projects, or Bazel, if you're looking for multiple languages.
+> **[0:18](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980&t=18)** I encourage you to test other monorepo managers, such as Lerna in case you're looking for [[JavaScript]] projects, or Bazel, if you're looking for multiple languages.
 >
 > **[0:29](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980&t=29)** Compare the results and choose the better options for you.
 >
-> **[0:33](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980&t=33)** To learn more about git hooks, check out [githooks.com](https://githooks.com), with detailed information and examples.
+> **[0:33](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980&t=33)** To learn more about [[Git]] hooks, check out [githooks.com](https://githooks.com), with detailed information and examples.
 >
 > **[0:41](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980&t=41)** Finally, you can find on GitHub extensive documentation about GitHub actions and its syntax to take your workflows to the next level.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[JavaScript]] (1), [[Git]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[JavaScript]] (1), [[Git]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** git (1), find (1)
 > **Analogies:** picture (1), such as (1)

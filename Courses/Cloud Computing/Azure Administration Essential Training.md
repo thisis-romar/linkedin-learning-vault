@@ -110,14 +110,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Essentials of Microsoft Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980)
+#### [The Essentials of Microsoft Azure](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980&t=0)** - [David] Azure is the color of the cloudless sky.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980&t=0)** - [David] [[Microsoft Azure|Azure]] is the color of the cloudless sky.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980&t=3)** Microsoft Azure is Microsoft's public cloud offering.
+> **[0:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980&t=3)** [[Microsoft Azure]] is [[Microsoft]]'s public cloud offering.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980&t=7)** My name is David Elfassy, and I've helped organizations deploy and optimize their Azure infrastructure.
 >
@@ -127,7 +126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), cloud (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [david] (1)
 
@@ -136,12 +135,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fundamentals of cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980)
+#### [Fundamentals of cloud computing](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=0)** - [Instructor] If we're going to get familiar with Azure computing, we first need to get familiar with cloud computing as a whole.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=0)** - [Instructor] If we're going to get familiar with [[Microsoft Azure|Azure]] computing, we first need to get familiar with [[Cloud Computing]] as a whole.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=7)** It is important to understand the terminology of cloud computing and some of the standard terms that are used throughout Azure.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=47)** But before we do that, let's rewind a little bit and talk about on-premises networks and where we've come from essentially.
 >
-> **[0:55](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=55)** An on-premises infrastructure is an infrastructure that is deployed within your company's network using your company's hardware.
+> **[0:55](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=55)** An on-premises infrastructure is an infrastructure that is deployed within your company's network using your company's [[Hardware]].
 >
 > **[1:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=65)** So you are responsible for managing servers.
 >
@@ -177,7 +175,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=130)** As we talk about moving to the cloud and migrating to the cloud, we look at how these types of offerings can be transferred into similar cloud-like functionalities and experiences and in many cases how we can now offer solutions at scale in the cloud that were never possible before.
 >
-> **[2:30](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=150)** For example, virtual machines provide similar administrative experience in the cloud for those that have been managing virtual machines with Hyper-V.
+> **[2:30](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=150)** For example, [[Virtual Machines]] provide similar administrative experience in the cloud for those that have been managing virtual machines with Hyper-V.
 >
 > **[2:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=161)** However it's just now done in the cloud or many would have never been able to imagine the resources required for cognitive services, AI, or machine learning to be deployed on premises.
 >
@@ -203,15 +201,15 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=271)** The experience that an administrator has when they are managing workloads and that experience is quite similar than for an administrator who's managing workloads in the cloud.
 >
-> **[4:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=284)** Administrators can build private clouds with various types of management software or even they can purchase a less-known version of Microsoft Azure which is called the Microsoft Azure Stack.
+> **[4:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=284)** Administrators can build [[Private Clouds]] with various types of management software or even they can purchase a less-known version of [[Microsoft Azure]] which is called the Microsoft Azure Stack.
 >
 > **[4:58](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=298)** The Azure Stack which is designed to run on dedicated hardware contains all of the services and workloads that an administrator would encounter in Microsoft Azure.
 >
 > **[5:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=310)** So we've talked about it a little bit, but let's dive deep into the public cloud.
 >
-> **[5:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=315)** So you might have heard already of other public clouds such as the Google Public Cloud or even Amazon Web Services, and of course, there's Microsoft Azure, what we're all here for.
+> **[5:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=315)** So you might have heard already of other public clouds such as the [[Google]] Public Cloud or even [[Amazon Web Services (AWS)|Amazon Web Services]], and of course, there's Microsoft Azure, what we're all here for.
 >
-> **[5:27](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=327)** Microsoft Azure provides this public cloud functionality where essentially a cloud vendor, Microsoft in this case, is responsible for most tasks that are performed relating to the infrastructure.
+> **[5:27](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=327)** Microsoft Azure provides this public cloud functionality where essentially a cloud vendor, [[Microsoft]] in this case, is responsible for most tasks that are performed relating to the infrastructure.
 >
 > **[5:42](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=342)** The physical servers, cooling the servers, replacing hardware, replacing memory.
 >
@@ -225,11 +223,11 @@ created: 2026-05-02
 >
 > **[6:28](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=388)** Consumption costs can be accrued based on the amount of data that is transferred out of Azure or Red from Azure.
 >
-> **[6:37](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=397)** The amount of data that is stored in Azure, so the amount of files or databases that you're storing on discs in Azure or even the number of CPUs, the processors that are assigned to virtual machines that are hosted in Azure.
+> **[6:37](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=397)** The amount of data that is stored in Azure, so the amount of files or [[Databases]] that you're storing on discs in Azure or even the number of CPUs, the processors that are assigned to virtual machines that are hosted in Azure.
 >
 > **[6:53](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=413)** In some cases cost can also come from the types of services that you deploy or the licenses that you need to purchase to have some advanced services.
 >
-> **[7:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=425)** A great advantage of a public cloud infrastructure is that you have an entire infrastructure that's already ready for you and you can very quickly deploy new services, new applications, new solutions, new servers to that infrastructure.
+> **[7:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=425)** A great advantage of a public [[Cloud Infrastructure]] is that you have an entire infrastructure that's already ready for you and you can very quickly deploy new services, new applications, new solutions, new servers to that infrastructure.
 >
 > **[7:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=443)** You can perform these tasks very quickly and at a relatively low cost.
 >
@@ -237,7 +235,7 @@ created: 2026-05-02
 >
 > **[7:33](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=453)** In some cases, simply purchasing hardware for an organization can take weeks or months, especially in large organizations.
 >
-> **[7:42](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=462)** If you have a public cloud infrastructure, within a few minutes you can deploy virtual machines or build an IoT, Internet of Things, infrastructure.
+> **[7:42](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=462)** If you have a public cloud infrastructure, within a few minutes you can deploy virtual machines or build an [[IoT]], [[IoT|Internet of Things]], infrastructure.
 >
 > **[7:53](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=473)** A major differentiating aspect of the public cloud for many organizations is that they are now able to really reduce capital expenditures.
 >
@@ -249,11 +247,11 @@ created: 2026-05-02
 >
 > **[8:31](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=511)** Whether you decide to go with an Azure public cloud, or Amazon, or Google, those solutions are essentially very similar from a model or a business model standpoint.
 >
-> **[8:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=524)** Of course, there's another solution out there and that's the hybrid cloud.
+> **[8:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=524)** Of course, there's another solution out there and that's the [[Hybrid Cloud]].
 >
 > **[8:49](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=529)** Now the hybrid cloud is truly a mix of public and on-premises solution, whereas you can have your own internal private data center and then you may choose to store some workloads, some services, some applications, some users even in the public cloud.
 >
-> **[9:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=549)** And that could be done for a multitude of reasons such as the availability of those resources globally, the scalability, the scale of the cloud, or simply that it's cheaper to move those resources to the cloud rather than buy new servers.
+> **[9:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=549)** And that could be done for a multitude of reasons such as the availability of those resources globally, the [[Scalability]], the scale of the cloud, or simply that it's cheaper to move those resources to the cloud rather than buy new servers.
 >
 > **[9:25](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980&t=565)** Some customers or organizations are reluctant to move to the cloud for various reasons.
 >
@@ -271,13 +269,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (37), [[Microsoft Azure|Azure]] (10), [[Hardware]] (9), data (9), [[Microsoft Azure]] (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Hardware]] (9), [[Microsoft Azure]] (5), [[Virtual Machines]] (4), [[Cloud Computing]] (2)
 > **Analogies:** such as (2), for example (1), imagine (1)
 > **Definitions:** is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fundamentals of cloud service offerings
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980)
+#### [Fundamentals of cloud service offerings](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,29 +286,29 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=18)** If you're watching this course today, you're utilizing learning as a service.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=23)** So it's really become a structural way of referencing the solutions that are offered in cloud services and cloud offerings.
+> **[0:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=23)** So it's really become a structural way of referencing the solutions that are offered in [[Cloud Services]] and cloud offerings.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=32)** Let's look specifically at these three here.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=36)** Software as a service, platform as a service and infrastructure as a service.
+> **[0:36](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=36)** [[SaaS|Software as a service]], [[PaaS|platform as a service]] and [[IaaS|infrastructure as a service]].
 >
-> **[0:42](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=42)** Those three types of offerings are available with Microsoft Azure.
+> **[0:42](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=42)** Those three types of offerings are available with [[Microsoft Azure]].
 >
 > **[0:46](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=46)** The main difference between them is essentially how much of the work you'll be doing yourself versus how much of the work will be managed by someone else, and that someone else is usually a cloud provider.
 >
 > **[1:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=61)** So I'm actually going to work my way up and down this list, first starting with infrastructure as a service.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=68)** Microsoft Azure provides infrastructure as a service in the form of the actual hardware, the actual electricity, the actual air conditioning, the actual back plane that runs all of the hardware and the networking pieces that you need in order to store your data or store your virtual machines, and all of those that will be hosted by Microsoft Azure.
+> **[1:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=68)** Microsoft Azure provides infrastructure as a service in the form of the actual [[Hardware]], the actual electricity, the actual air conditioning, the actual back plane that runs all of the hardware and the networking pieces that you need in order to store your data or store your [[Virtual Machines]], and all of those that will be hosted by Microsoft Azure.
 >
 > **[1:34](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=94)** So that backend infrastructure gives you the ability to build the services, the solutions that you will then be responsible for.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=104)** So Microsoft provides the infrastructure support or the infrastructure services, and you can then build your solutions on top of that.
+> **[1:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=104)** So [[Microsoft]] provides the infrastructure support or the infrastructure services, and you can then build your solutions on top of that.
 >
 > **[1:54](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=114)** That is infrastructure as a service.
 >
 > **[1:56](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=116)** Microsoft Azure also provides platform as a service.
 >
-> **[2:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=120)** Now, platform as a service is the actual web services or web servers or database servers that are running in Azure.
+> **[2:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=120)** Now, platform as a service is the actual web services or [[Web Servers]] or database servers that are running in [[Microsoft Azure|Azure]].
 >
 > **[2:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=128)** That's the platform.
 >
@@ -329,9 +326,9 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=194)** So the end result is that an actual service, a software application, is becoming available to be consumed by your users.
 >
-> **[3:25](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=205)** A great example of that are the Microsoft 365 Workloads.
+> **[3:25](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=205)** A great example of that are the [[Microsoft 365]] Workloads.
 >
-> **[3:30](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=210)** Microsoft 365 Workloads such as Exchange Online, SharePoint online, Microsoft Teams and many others, are a great example of software as a service because all it is that the user consumes and sees is the software, the end application, all of it is hosted by the cloud provider, Microsoft in this case.
+> **[3:30](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=210)** Microsoft 365 Workloads such as Exchange Online, [[SharePoint]] online, [[Microsoft Teams]] and many others, are a great example of software as a service because all it is that the user consumes and sees is the software, the end application, all of it is hosted by the cloud provider, Microsoft in this case.
 >
 > **[3:53](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=233)** The user consumes the end application and the service with no access or visibility into the backend infrastructure that's managing the software.
 >
@@ -343,7 +340,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=274)** Microsoft Azure provides all three of those offerings using a multitude of different solutions and workloads.
 >
-> **[4:42](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=282)** However, as we move along and cloud computing becomes more and more mature and evolved as a solution, we see that the distinction between IaaS, PaaS and SaaS, those lines between those three types of offerings become a little bit blurred.
+> **[4:42](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=282)** However, as we move along and [[Cloud Computing]] becomes more and more mature and evolved as a solution, we see that the distinction between [[IaaS]], [[PaaS]] and [[SaaS]], those lines between those three types of offerings become a little bit blurred.
 >
 > **[5:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=301)** Some even say that the services that are being offered, the application, the solutions, are more important than the actual types of cloud offerings.
 >
@@ -351,7 +348,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=319)** And I want to go through some of these offerings to highlight the fact that whether some of these are infrastructure or platform, because some of these sometimes are both, it's less important than the type of service and the type of solution that is being offered.
 >
-> **[5:36](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=336)** So in a cloud offering, we have data storage services, for example, where you're able to store your files, store little bits of data called blobs, or store very large databases, or store your data in existing databases.
+> **[5:36](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=336)** So in a cloud offering, we have [[Data Storage]] services, for example, where you're able to store your files, store little bits of data called blobs, or store very large [[Databases]], or store your data in existing databases.
 >
 > **[5:53](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=353)** Depending on the type of data, how your data is structured, and how much of it you want to store, and how you want it to be accessed, there are multitudes of built-in data storage services in Azure and there are others provided by third-party vendors through the Azure marketplace where you can actually purchase those services as well by those third-parties.
 >
@@ -365,23 +362,23 @@ created: 2026-05-02
 >
 > **[7:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=429)** There are application services, so specific applicative services.
 >
-> **[7:12](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=432)** such as Identity, Azure Active Directory, Azure AD is an example of an application service where it provides the ability to authenticate users as they access resources in the cloud.
+> **[7:12](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=432)** such as Identity, [[Microsoft Entra ID|Azure Active Directory]], [[Microsoft Entra ID|Azure AD]] is an example of an application service where it provides the ability to authenticate users as they access resources in the cloud.
 >
-> **[7:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=446)** We also have an amazing addition to the cloud, one of the things that have become more and more important in the cloud of late, is AI, artificial intelligence, and machine learning.
+> **[7:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=446)** We also have an amazing addition to the cloud, one of the things that have become more and more important in the cloud of late, is AI, [[Artificial Intelligence (AI)|artificial intelligence]], and machine learning.
 >
-> **[7:38](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=458)** The type of compute resources and storage resources that are required to be able to provide AI solutions and machine learning solutions are only available in the cloud.
+> **[7:38](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=458)** The type of compute resources and storage resources that are required to be able to provide [[AI Solutions]] and machine learning solutions are only available in the cloud.
 >
 > **[7:50](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=470)** They are really at scale.
 >
-> **[7:52](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=472)** To be able to build an application that can compute and process a tremendous amount of data in real-time and then output recommendations based on that data, those are the types of artificial intelligence solutions that are built into Azure.
+> **[7:52](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=472)** To be able to build an application that can compute and process a tremendous amount of data in [[Real-Time]] and then output recommendations based on that data, those are the types of artificial intelligence solutions that are built into Azure.
 >
 > **[8:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=489)** Those really require the scale of the cloud and something that, really, the cloud only can provide.
 >
-> **[8:16](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=496)** The Internet of Things is something that of late is also becoming very relevant and it's connectivity through the cloud as well, providing large amount of data processing and data streaming in real-time.
+> **[8:16](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=496)** The [[IoT|Internet of Things]] is something that of late is also becoming very relevant and it's connectivity through the cloud as well, providing large amount of [[Data Processing]] and [[Data Streaming]] in real-time.
 >
 > **[8:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=509)** When we have an Internet of Things solution, we have, potentially, hundreds of thousands of processors that are capturing data and that need to gather that data, stream that data, and then decisions need to be made quickly based on that data, through a central database and computing solution.
 >
-> **[8:52](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=532)** And that's where a solution like Azure, that's when an Azure Cloud is able to provide a meaningful solution for IoT products and IoT solutions in the cloud.
+> **[8:52](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=532)** And that's where a solution like Azure, that's when an Azure Cloud is able to provide a meaningful solution for [[IoT]] [[Microsoft Products|products]] and IoT solutions in the cloud.
 >
 > **[9:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-service-offerings?u=76281980&t=543)** So these are examples of services that are provided in a public cloud offering, such as Azure, and they are many more that are constantly being added into the Microsoft Azure solution.
 >
@@ -389,26 +386,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), data (16), [[Microsoft Azure|Azure]] (12), application (9), [[Microsoft Azure]] (7)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Microsoft Azure]] (7), [[SaaS|Software as a service]] (4), [[IaaS|Infrastructure as a service]] (4), [[Virtual Machines]] (4)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft 365 and Microsoft Azure: key concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980)
+#### [Microsoft 365 and Microsoft Azure: key concepts](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=0)** - [Instructor] Earlier in this course, we started talking about infrastructure as a service, platform as a service, and software as a service, and these different models of clouds that are provided through various Microsoft Cloud offering.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=0)** - [Instructor] Earlier in this course, we started talking about [[IaaS|infrastructure as a service]], [[PaaS|platform as a service]], and [[SaaS|software as a service]], and these different models of clouds that are provided through various [[Microsoft]] Cloud offering.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=14)** Clearly throughout this course, we will review the infrastructure as a service and platform as a service solutions of Azure.
+> **[0:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=14)** Clearly throughout this course, we will review the infrastructure as a service and platform as a service solutions of [[Microsoft Azure|Azure]].
 >
-> **[0:22](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=22)** See how Azure provides an infrastructure for you to build your virtual machines and your applications.
+> **[0:22](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=22)** See how Azure provides an infrastructure for you to build your [[Virtual Machines]] and your applications.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=29)** Azure provides a platform for databases where you can upload your data and have it accessible to applications or users, But there are also software as a service offerings, and the primary software as a service offering for Microsoft, is through Microsoft 365.
+> **[0:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=29)** Azure provides a platform for [[Databases]] where you can upload your data and have it accessible to applications or users, But there are also software as a service offerings, and the primary software as a service offering for Microsoft, is through [[Microsoft 365]].
 >
-> **[0:47](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=47)** In Microsoft 365, we will have the ability to manage users and groups the same way that we manage them in Azure, because Microsoft Azure and Microsoft 365 if they are part of the same tenant, they are sharing an Azure Active directory tenant.
+> **[0:47](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=47)** In Microsoft 365, we will have the ability to manage users and groups the same way that we manage them in Azure, because [[Microsoft Azure]] and Microsoft 365 if they are part of the same tenant, they are sharing an [[Microsoft Entra ID|Azure Active directory]] tenant.
 >
 > **[1:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=65)** So what I'm going to show you now, is that I have here my Microsoft Azure portal.
 >
@@ -422,7 +418,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=115)** But in addition to that, from the Microsoft 365 admin center, I will also manage my workloads.
 >
-> **[2:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=123)** I can access here the various admin centers that will allow me to manage my exchange online, SharePoint online, and teams workloads, for example.
+> **[2:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=123)** I can access here the various admin centers that will allow me to manage my exchange online, [[SharePoint]] online, and teams workloads, for example.
 >
 > **[2:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/microsoft-365-and-microsoft-azure-key-concepts?u=76281980&t=135)** But there are many more.
 >
@@ -447,16 +443,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controlling Azure costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980)
+#### [Controlling Azure costs](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980&t=1)** - [Instructor] One aspect that many administrators find challenging in Azure is managing all of the costs that are associated with your resources in Azure, and ensuring that those costs don't run too high and stay within an allocated budget.
+> **[0:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980&t=1)** - [Instructor] One aspect that many administrators find challenging in [[Microsoft Azure|Azure]] is managing all of the costs that are associated with your resources in Azure, and ensuring that those costs don't run too high and stay within an allocated budget.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980&t=17)** Often, administrators need to provide to other individuals within the company the estimated cost of: How much will our Azure account cost us this month, and how do we make sure that we don't go above those costs?
 >
-> **[0:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980&t=32)** Also, how can we use Cost Management to ensure that if someone accesses our resources, that they don't run malicious tasks on those resources, and therefore, once again, run up our costs way too high?
+> **[0:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980&t=32)** Also, how can we use [[Cost Management]] to ensure that if someone accesses our resources, that they don't run malicious tasks on those resources, and therefore, once again, run up our costs way too high?
 >
 > **[0:47](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980&t=47)** So there is a series of tools in Azure that allow you to manage and configure your cost.
 >
@@ -478,7 +473,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980&t=134)** The largest cost for my subscription is in Azure App Service, essentially a website that is being hosted in an app on my subscription.
 >
-> **[2:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980&t=143)** Then, there is storage costs and then a series of other costs around security, a SQL database, advanced data security, backup, virtual machines, and a virtual network.
+> **[2:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980&t=143)** Then, there is storage costs and then a series of other costs around security, a [[SQL]] database, advanced [[Data Security]], backup, [[Virtual Machines]], and a virtual network.
 >
 > **[2:37](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/controlling-azure-costs?u=76281980&t=157)** So these are the various types of resources, as well where those resources are hosted.
 >
@@ -518,7 +513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Cost Management]] (5), [[Security]] (2), data (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Cost Management]] (5), [[SQL]] (1), [[Data Security]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is an  (3), is a  (2)
 > **CLI Commands:** find (1), make (1)
@@ -532,24 +527,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure management tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980)
+#### [Azure management tools](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=0)** - [Instructor] So now that you have a general understanding of Azure, the resources, the services, and the workloads that exist in Azure, let's talk a little bit about management.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=0)** - [Instructor] So now that you have a general understanding of [[Microsoft Azure|Azure]], the resources, the services, and the workloads that exist in Azure, let's talk a little bit about management.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=10)** How do we create, update, control, configure, and monitor all of these resources in Azure?
 >
 > **[0:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=17)** So there's two primary methods that we use for managing Azure.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=21)** One of them is programmatically, or using some type of a command line tool, such as PowerShell, or using a web-based interface.
+> **[0:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=21)** One of them is programmatically, or using some type of a command line tool, such as [[Powershell]], or using a web-based interface.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=30)** Now the web-based interface is the Azure portal.
 >
 > **[0:33](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=33)** And I'll talk about, in detail, on how to use the Azure portal and that will be the primary tool that we'll be using throughout this course.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=41)** However, I just want to highlight quickly that we can also use Windows PowerShell, using a local installation of Windows PowerShell, on a Windows machine.
+> **[0:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=41)** However, I just want to highlight quickly that we can also use [[Windows]] PowerShell, using a local installation of Windows PowerShell, on a Windows machine.
 >
 > **[0:50](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=50)** So here I have Windows PowerShell that's installed on my computer and I then need to add the various Azure modules into my Windows PowersShell installation, so that I can connect to my Azure resources, using Windows PowerShell.
 >
@@ -563,9 +557,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=85)** Once I'm in the Azure portal sign in interface, I need to enter in a user account that has access to the Azure subscription, so to the Azure environment.
 >
-> **[1:37](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=97)** That user account is an account that must be a Microsoft account or a trusted account into Azure.
+> **[1:37](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=97)** That user account is an account that must be a [[Microsoft]] account or a trusted account into Azure.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=104)** So I actually have an account, that's stored in Azure Active Directory.
+> **[1:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=104)** So I actually have an account, that's stored in [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[1:48](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=108)** And I'll talk a little bit more about the Azure Active Directory workload a little bit later on.
 >
@@ -611,7 +605,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=232)** I have Bash or PowerShell.
 >
-> **[3:55](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=235)** So, depending on your background and the type of command line tools that you have experience using, if you come from more of a Linux background, you may be more familiar with Bash.
+> **[3:55](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=235)** So, depending on your background and the type of command line tools that you have experience using, if you come from more of a [[Linux]] background, you may be more familiar with Bash.
 >
 > **[4:06](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980&t=246)** If you come for more of a Windows background, you're more familiar with Cloud Shell.
 >
@@ -625,7 +619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), [[Powershell]] (12), [[Windows]] (11), [[Microsoft Entra ID|Azure active directory]] (8), cloud (8)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), [[Powershell]] (12), [[Windows]] (11), [[Microsoft Entra ID|Azure active directory]] (8), [[Microsoft]] (2)
 > **Tools:** powershell (12), azure portal (8), bash (3), command line (2)
 > **UI Navigation:** click on (4)
 > **Definitions:** is an  (1), is a  (1)
@@ -634,12 +628,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fundamentals of Azure management
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980)
+#### [Fundamentals of Azure management](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=0)** - [Instructor] From within the Azure Portal is where we'll be creating and managing all of our resources in our Azure subscription.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=0)** - [Instructor] From within the [[Microsoft Azure|Azure]] Portal is where we'll be creating and managing all of our resources in our Azure subscription.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=8)** Now, the first resource type that we need to create is actually a resource type that will help us organize all of our resources.
 >
@@ -671,7 +664,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=105)** So it's sort of like selecting a physical location for that resource group.
 >
-> **[1:50](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=110)** Now here I have options for various data centers that are available from Microsoft Azure.
+> **[1:50](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=110)** Now here I have options for various data centers that are available from [[Microsoft Azure]].
 >
 > **[1:55](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=115)** I'm going to select the default, which is East US.
 >
@@ -679,7 +672,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=121)** Tags are actually ways to organize your resources in Azure.
 >
-> **[2:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=125)** So if you know that this resource group will be used for managing your storage resources or maybe your databases or whatever specific type of information that is going to be relevant for you later on to search and manage those resource groups, you can create a tag.
+> **[2:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=125)** So if you know that this resource group will be used for managing your storage resources or maybe your [[Databases]] or whatever specific type of information that is going to be relevant for you later on to search and manage those resource groups, you can create a tag.
 >
 > **[2:25](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=145)** Tags are like labels that you can reuse across your various resources in Azure.
 >
@@ -747,7 +740,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=380)** Now, if this resource group was deployed as part of a global deployment using templates, which we will look at later on in this course, I would get to see the details of that deployment here.
 >
-> **[6:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=392)** As well through the Security tab, if I have any security recommendations that apply to this resource, they will be noted here and we'll talk about security in detail later on as we review the Microsoft Defender for Cloud, one of the great new functionalities of Azure.
+> **[6:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=392)** As well through the Security tab, if I have any security recommendations that apply to this resource, they will be noted here and we'll talk about security in detail later on as we review the [[Microsoft Defender]] for Cloud, one of the great new functionalities of Azure.
 >
 > **[6:51](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=411)** If I click on Policies, I see policies that have been applied to this resource and they are various policies that we can create in Azure and apply to resources to control how and what happens to a resource, who can manage it, how they can manage it or what events are triggered on those resources.
 >
@@ -755,7 +748,7 @@ created: 2026-05-02
 >
 > **[7:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=437)** Each one of those can be copied to a click board.
 >
-> **[7:20](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=440)** Again, these have been masked for privacy reasons and these various properties here can be used.
+> **[7:20](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=440)** Again, these have been masked for [[Privacy]] reasons and these various properties here can be used.
 >
 > **[7:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=449)** If you need to program an application or another external resource to communicate with this resource group, you'll need to have information such as it's location ID, it's resource ID and it's subscription ID in order to access it.
 >
@@ -765,7 +758,7 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=484)** And we'll look at locks also a little bit more in detail later on.
 >
-> **[8:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=488)** Cost management section all relates to the cost associated to this resource in Azure.
+> **[8:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=488)** [[Cost Management]] section all relates to the cost associated to this resource in Azure.
 >
 > **[8:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-management?u=76281980&t=495)** The great news is that resource groups have no cost associated to them.
 >
@@ -785,7 +778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[Security]] (3), [[Databases]] (2), [[Search]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[Databases]] (2), [[Microsoft Azure]] (1), [[Microsoft Defender]] (1), [[Privacy]] (1)
 > **UI Navigation:** click on (7), select the (1)
 > **Analogies:** for example (4), such as (2), think of it as (1)
 > **Env Vars:** rg1 (4)
@@ -794,12 +787,11 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Warnings:** note that (1)
 
-#### Fundamentals of Azure resource hierarchy
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-resource-hierarchy?u=76281980)
+#### [Fundamentals of Azure resource hierarchy](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-resource-hierarchy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-resource-hierarchy?u=76281980&t=0)** - So far in this course, we've already talked about the concept of a subscription where everything that you create in your Azure environment is in your subscription.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-resource-hierarchy?u=76281980&t=0)** - So far in this course, we've already talked about the concept of a subscription where everything that you create in your [[Microsoft Azure|Azure]] environment is in your subscription.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-resource-hierarchy?u=76281980&t=11)** As well, in the previous video, we looked at creating resource groups, and how we can then organize our resources inside of resource groups.
 >
@@ -853,7 +845,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-resource-hierarchy?u=76281980&t=217)** So the concept of management group is one that allows you to manage your subscriptions, but also if you only have a single subscription, a management group is there, and once you create additional subscriptions in your environment, those additional subscriptions can be members of that management group, or they can be added or moved to another management group.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-resource-hierarchy?u=76281980&t=239)** As you go through the various videos in this course, keep in mind that the interface of Microsoft Azure keeps on being updated, keeps on being upgraded, and modified.
+> **[3:59](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-resource-hierarchy?u=76281980&t=239)** As you go through the various videos in this course, keep in mind that the interface of [[Microsoft Azure]] keeps on being updated, keeps on being upgraded, and modified.
 >
 > **[4:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-azure-resource-hierarchy?u=76281980&t=249)** It is a live product that lives in the cloud, and that goes through daily, almost, updates.
 >
@@ -869,7 +861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (15), [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (1), product (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** click on (2)
 > **Cross-References:** previous video (1)
@@ -877,8 +869,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### Adding resources to Resource groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/adding-resources-to-resource-groups?u=76281980)
+#### [Adding resources to Resource groups](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/adding-resources-to-resource-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -888,11 +879,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/adding-resources-to-resource-groups?u=76281980&t=8)** It allows you to manage your resources.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/adding-resources-to-resource-groups?u=76281980&t=11)** When I go and create a resource in my Azure subscription, I'm going to utilize this resource group to organize my resources.
+> **[0:11](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/adding-resources-to-resource-groups?u=76281980&t=11)** When I go and create a resource in my [[Microsoft Azure|Azure]] subscription, I'm going to utilize this resource group to organize my resources.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/adding-resources-to-resource-groups?u=76281980&t=21)** So I'm going to create a resource here, and you'll see that when you go and create a resource in Azure, you have all the various choices of types of resources or categories of resources.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/adding-resources-to-resource-groups?u=76281980&t=33)** So I'm going to create a database, and I'm going to create an Azure SQL database.
+> **[0:33](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/adding-resources-to-resource-groups?u=76281980&t=33)** So I'm going to create a database, and I'm going to create an Azure [[SQL]] database.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/adding-resources-to-resource-groups?u=76281980&t=43)** So you'll notice that the first question that I get is where am I going to store this database?
 >
@@ -944,19 +935,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[Microsoft Azure|Azure]] (5), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[SQL]] (1)
 > **Env Vars:** rg1 (2), sql (1), sql1 (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating resources in an Azure subscription
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980)
+#### [Creating resources in an Azure subscription](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=0)** - [Instructor] Sometimes, the terminology in Azure can be a little bit confusing when we're referencing to the various resources or services that we can create within our subscription.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=0)** - [Instructor] Sometimes, the terminology in [[Microsoft Azure|Azure]] can be a little bit confusing when we're referencing to the various resources or services that we can create within our subscription.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=11)** For example, if you look here, the header is Azure Services, and then right below, we have a Create a Resource option.
 >
@@ -966,7 +956,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=35)** So let's go ahead and click on Create a Resource.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=38)** And so we've seen already that when we create resources, we're going to add them inside of our resource groups to organize them properly, but now, I want to explore this interface a little bit, this interface of categories, and you'll see that these categories, which, by the way, are often updated by Microsoft, and if you're looking at your interface, it may be slightly different than mine, but these categories reference the type of services that are really relevant today to Microsoft and to the Microsoft Azure subscribers.
+> **[0:38](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=38)** And so we've seen already that when we create resources, we're going to add them inside of our resource groups to organize them properly, but now, I want to explore this interface a little bit, this interface of categories, and you'll see that these categories, which, by the way, are often updated by [[Microsoft]], and if you're looking at your interface, it may be slightly different than mine, but these categories reference the type of services that are really relevant today to Microsoft and to the [[Microsoft Azure]] subscribers.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=71)** So I have two options here: I can go ahead and create services or resources from Azure natively, or resources that have been published through the Azure Marketplace.
 >
@@ -982,7 +972,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=138)** For example, I can create a virtual machine from here.
 >
-> **[2:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=141)** We will be creating virtual machines later on in this course.
+> **[2:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=141)** We will be creating [[Virtual Machines]] later on in this course.
 >
 > **[2:24](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-resources-in-an-azure-subscription?u=76281980&t=144)** If I click on Storage, for example, I have a Learn More link next to most of the resources, as well as the Create link.
 >
@@ -1000,17 +990,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft]] (3), data (3), [[Microsoft Azure]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft]] (3), [[Microsoft Azure]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Analogies:** for example (3), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing Azure with Azure PowerShell and Azure CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980)
+#### [Managing Azure with Azure PowerShell and Azure CLI](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=0)** - [Instructor] Of course you can create and manage all of your resources from the Azure portal, the web UI for Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=0)** - [Instructor] Of course you can create and manage all of your resources from the [[Microsoft Azure|Azure]] portal, the web UI for Azure.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=8)** But some administrators prefer to use command line tools.
 >
@@ -1018,7 +1007,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=20)** Within the browser, we have access to command line tools as well.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=25)** If you want to use Windows PowerShell to manage your subscription in Azure, you need to install the Azure modules within Windows PowerShell.
+> **[0:25](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=25)** If you want to use [[Windows]] [[Powershell]] to manage your subscription in Azure, you need to install the Azure modules within Windows PowerShell.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=36)** What I have here on the left hand side in my Windows PowerShell command is the command to install the Azure modules into Windows PowerShell.
 >
@@ -1028,9 +1017,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=65)** Of course, you'll have to authenticate first by using the Connect-AZ account cmdlet and you'll be prompted to enter your username and password.
 >
-> **[1:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=75)** Other administrators prefer to use the CLI or the command line interface.
+> **[1:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=75)** Other administrators prefer to use the [[CLI]] or the command line interface.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=80)** If you come from more of a Linux background or you're more familiar with CLI you'll be wanting to use the Azure CLI.
+> **[1:20](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=80)** If you come from more of a [[Linux]] background or you're more familiar with CLI you'll be wanting to use the Azure CLI.
 >
 > **[1:28](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-with-azure-powershell-and-azure-cli?u=76281980&t=88)** And again, you can use it directly from your computer using your command line interface, your regular command prompt.
 >
@@ -1094,7 +1083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[Powershell]] (14), [[CLI]] (12), [[Windows]] (6), cloud (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[Powershell]] (14), [[CLI]] (12), [[Windows]] (6), [[Linux]] (1)
 > **Tools:** powershell (14), command line (5), azure portal (4), command prompt (2), bash (2)
 > **Env Vars:** cli (12), vnet (1), find (1)
 > **CLI Commands:** az (8), find (4)
@@ -1103,18 +1092,17 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing Azure with Azure Advisor
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980)
+#### [Optimizing Azure with Azure Advisor](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=0)** - One of the reasons why you're watching this course today is that you understand that Microsoft Azure has a large amount of resources, functionalities, options, settings, configurations, optimizations.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=0)** - One of the reasons why you're watching this course today is that you understand that [[Microsoft Azure]] has a large amount of resources, functionalities, options, settings, configurations, optimizations.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=14)** There are so many things that you can do in Azure.
+> **[0:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=14)** There are so many things that you can do in [[Microsoft Azure|Azure]].
 >
 > **[0:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=17)** There are so many settings that you can configure and sometimes a small configuration can have an impact an impact on cost, an impact on security, an impact on how you manage your resources.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=32)** It would be great if Microsoft provided a functionality that would allow you to scan your entire subscription, all of your resources, and give you advice on how you've done, what type of configurations you have in place.
+> **[0:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=32)** It would be great if [[Microsoft]] provided a functionality that would allow you to scan your entire subscription, all of your resources, and give you advice on how you've done, what type of configurations you have in place.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=45)** Are they optimized?
 >
@@ -1134,13 +1122,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=122)** It's sort of a gamification of the management of your Azure infrastructure but it is a very relevant way to look at how well you've deployed your resources, how well you've configured each one of those resources.
 >
-> **[2:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=137)** Because all of those resources together are evaluated by the advisors score to provide this view, this outlook, on your Azure infrastructure.
+> **[2:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=137)** Because all of those resources together are evaluated by the advisors score to provide this view, this [[Microsoft Outlook|outlook]], on your Azure infrastructure.
 >
 > **[2:28](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=148)** So let's start to dive a little bit deeper here.
 >
 > **[2:30](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=150)** First of all, let's click on cost.
 >
-> **[2:34](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=154)** So if I click on cost I will see that I have one recommendation for improvement and it specifically relates to one of my databases.
+> **[2:34](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=154)** So if I click on cost I will see that I have one recommendation for improvement and it specifically relates to one of my [[Databases]].
 >
 > **[2:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=164)** I have a database that is a Cosmos DB and I've made a setting on this database for scaling which does not use a throughput threshold.
 >
@@ -1168,13 +1156,13 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=231)** So I have recommendations to change my security settings for my infrastructure.
 >
-> **[3:57](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=237)** There are actually many more security recommendations that I can get under the Microsoft Defender for Cloud, which we will look at at a later video in this course.
+> **[3:57](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=237)** There are actually many more security recommendations that I can get under the [[Microsoft Defender]] for Cloud, which we will look at at a later video in this course.
 >
 > **[4:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=248)** When it comes to reliability, as well, I have another recommendation here where I'm being told that if I use a NAT Gateway, or network address translation, a NAT gateway for outbound connectivity it would be a better or a more reliable solution for my infrastructure.
 >
 > **[4:27](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=267)** Currently, I'm not using a NAT gateway and if I click on that description, it would link me to an article that would describe the process of how to create a NAT gateway.
 >
-> **[4:39](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=279)** If I click on operational excellence I also get a recommendation to switch to Azure monitor alerts for my backups.
+> **[4:39](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=279)** If I click on [[Operational Excellence]] I also get a recommendation to switch to Azure monitor alerts for my backups.
 >
 > **[4:48](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/optimizing-azure-with-azure-advisor?u=76281980&t=288)** So currently I don't have any Azure monitor based alerts for my backup.
 >
@@ -1194,7 +1182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Security]] (6), [[Microsoft]] (3), database (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Microsoft]] (3), [[Microsoft Azure]] (1), [[Microsoft Outlook|Outlook]] (1), [[Databases]] (1)
 > **UI Navigation:** click on (6)
 > **Definitions:** is a  (5)
 > **Env Vars:** nat (4)
@@ -1203,12 +1191,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - one (1)
 
-#### Explore Microsoft Defender for Cloud (formerly Azure Security Center and Azure Defender)
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980)
+#### [Explore Microsoft Defender for Cloud (formerly Azure Security Center and Azure Defender)](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=0)** - [Instructor] As an administrator of an Azure environment you have many things to be concerned with.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=0)** - [Instructor] As an administrator of an [[Microsoft Azure|Azure]] environment you have many things to be concerned with.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=5)** But probably one of the most important or one of the topics that administrators get asked about the most, is security.
 >
@@ -1216,7 +1203,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=15)** Have we done everything that we need to do in order to ensure that our resources, our data, our IP is protected in our Azure Cloud?
 >
-> **[0:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=26)** Often people misunderstand the fact that Azure is hosted and managed by Microsoft Data Center.
+> **[0:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=26)** Often people misunderstand the fact that Azure is hosted and managed by [[Microsoft]] Data Center.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=34)** Microsoft doesn't handle all of the security aspects of your resources that are stored in Azure.
 >
@@ -1230,11 +1217,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=67)** To improve the implementation of the security settings and therefore make your environment more secure.
 >
-> **[1:13](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=73)** That tool is called Microsoft Defender for Cloud.
+> **[1:13](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=73)** That tool is called [[Microsoft Defender]] for Cloud.
 >
 > **[1:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=77)** So I can click in the search bar to look for it or click on it here if it's one of my listed services.
 >
-> **[1:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=83)** Microsoft Defender for Cloud used to be called Azure Defender and has been recently rebranded.
+> **[1:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=83)** Microsoft Defender for Cloud used to be called Azure [[Microsoft Defender|Defender]] and has been recently rebranded.
 >
 > **[1:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=89)** So some of the terminology and documentation you might see on the internet references Microsoft Defender and some references Azure Defender.
 >
@@ -1256,11 +1243,11 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=150)** So security alerts are much more important than recommendation from the perspective that is a imminent threat that is being highlighted by the Microsoft Defender for Cloud tool with a recommendation to make a change.
 >
-> **[2:45](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=165)** So this screen here provides some of that information along with my regulatory compliance.
+> **[2:45](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=165)** So this screen here provides some of that information along with my [[Regulatory Compliance]].
 >
 > **[2:52](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=172)** And my workload protection where all of my workloads are being assessed in real time to ensure that they are still secure in their configurations.
 >
-> **[3:02](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=182)** I have an inventory here along with my virtual machines, and notice here that six of my virtual machines are not monitored.
+> **[3:02](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=182)** I have an inventory here along with my [[Virtual Machines]], and notice here that six of my virtual machines are not monitored.
 >
 > **[3:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=190)** That is because my virtual machines are entities in themselves.
 >
@@ -1312,7 +1299,7 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=377)** But it is essential to understand that Microsoft Defender is an all-encompassing tool gives you the ability to audit and to monitor all of your resources and give you security recommendations.
 >
-> **[6:31](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=391)** And that is true not only for your objects and resources such as storage accounts and databases in Azure but also very specific configuration such as firewall, here through the firewall manager.
+> **[6:31](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=391)** And that is true not only for your objects and resources such as storage accounts and [[Databases]] in Azure but also very specific configuration such as firewall, here through the firewall manager.
 >
 > **[6:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-defender-for-cloud-formerly-azure-security-center-and-azure-defender?u=76281980&t=404)** It will look at your firewall configurations if you have them deployed.
 >
@@ -1326,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (21), [[Microsoft Defender]] (12), [[Microsoft Azure|Azure]] (9), cloud (7), [[Virtual Machines]] (5)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (12), [[Microsoft Azure|Azure]] (9), [[Virtual Machines]] (5), [[Microsoft]] (4), [[Microsoft Defender|Defender]] (2)
 > **Env Vars:** mfa (4), css (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **UI Navigation:** click on (3)
@@ -1335,12 +1322,11 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Best Practices:** recommended (1)
 
-#### Explore Deployment Options (ARM and Bicep)
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980)
+#### [Explore Deployment Options (ARM and Bicep)](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=0)** - [Instructor] Once you start to get quite familiar with managing and creating resources in your Azure subscription, you're going to want to start to automate certain processes and you may want to build resources at scale, a large number of resources at once, or even redeploy resources in multiple environments, update your resources.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=0)** - [Instructor] Once you start to get quite familiar with managing and creating resources in your [[Microsoft Azure|Azure]] subscription, you're going to want to start to automate certain processes and you may want to build resources at scale, a large number of resources at once, or even redeploy resources in multiple environments, update your resources.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=22)** And again, being a little bit more sophisticated in the way you do that means that you're not necessarily going to use the web UI in the Azure portal.
 >
@@ -1348,7 +1334,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=35)** Throughout the life cycle of Azure, the primary process for automating deployment and redeployment of resources in Azure has been ARM or the Azure Resource Manager.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=48)** Using ARM templates, I would be able to modify JSON documents, and those JSON documents would be specified with the type of resource that I want to create or update.
+> **[0:48](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=48)** Using ARM templates, I would be able to modify [[JSON]] documents, and those JSON documents would be specified with the type of resource that I want to create or update.
 >
 > **[1:02](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=62)** When I create a resource from the Azure portal, I can also output the JSON that was used in the background to deploy my resource, so that I can use that as a template to later modify throughout my management of other resources or creation of other resources.
 >
@@ -1368,7 +1354,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=127)** The ARM templates can be created as simply as that in a text file, modified in a text file, saved as a JSON text file, and then after that, deployed through our portal.
 >
-> **[2:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=138)** Recently, Microsoft introduced a newer method of managing, and creating, and updating resources programmatically.
+> **[2:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=138)** Recently, [[Microsoft]] introduced a newer method of managing, and creating, and updating resources programmatically.
 >
 > **[2:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=146)** It's called Bicep.
 >
@@ -1392,11 +1378,11 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=235)** However, Bicep is the way of the future that Microsoft is pushing forward for automated deployment of resources within your Azure subscription.
 >
-> **[4:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=245)** Once you've saved those documents, in order to deploy them, you would be using either the Azure CLI or Windows PowerShell or the Azure Cloud Shell in order to deploy those into your Azure subscription.
+> **[4:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-deployment-options-arm-and-bicep?u=76281980&t=245)** Once you've saved those documents, in order to deploy them, you would be using either the Azure [[CLI]] or [[Windows]] [[Powershell]] or the Azure Cloud Shell in order to deploy those into your Azure subscription.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[JSON]] (9), [[Microsoft]] (2), web (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[JSON]] (9), [[Microsoft]] (2), [[CLI]] (1), [[Windows]] (1)
 > **Env Vars:** arm (10), json (9), cli (1)
 > **Tools:** azure portal (2), visual studio (2), powershell (1)
 > **Definitions:** is a  (3), is an  (2)
@@ -1405,16 +1391,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting Azure support
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980)
+#### [Getting Azure support](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=0)** - [Lecturer] When we start out in our Azure environment, we expect everything to function as it's been designed to function.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=0)** - [Lecturer] When we start out in our [[Microsoft Azure|Azure]] environment, we expect everything to function as it's been designed to function.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=7)** And we expect that all services will be fully available to us.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=11)** However, in some cases, some services become degraded and some functionalities are no longer available to us because of a service issue with Microsoft.
+> **[0:11](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=11)** However, in some cases, some services become degraded and some functionalities are no longer available to us because of a service issue with [[Microsoft]].
 >
 > **[0:22](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=22)** As well, sometimes we may require support or assistance from Microsoft in order to help us either with our configuration or with the availability of our product or recovering any type of data that we lost.
 >
@@ -1472,7 +1457,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=209)** And from this portal I can see whether or not there are services around the world that may be affected by some type of a maintenance issue or a health issue.
 >
-> **[3:40](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=220)** Now, sometimes a service may be unavailable only in one part of the world, but in the rest of the world it's working just fine.
+> **[3:40](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=220)** Now, sometimes a service may be unavailable only in one part of the world, but in the [[Representational State Transfer (REST)|rest]] of the world it's working just fine.
 >
 > **[3:46](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=226)** And that's where this map becomes useful.
 >
@@ -1480,7 +1465,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=233)** If my users reported an issue yesterday but report that today, that issue is no longer there.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=239)** Going through health history would help me identify if there was a previous service health issue inside of Microsoft Azure.
+> **[3:59](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=239)** Going through health history would help me identify if there was a previous service health issue inside of [[Microsoft Azure]].
 >
 > **[4:07](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/getting-azure-support?u=76281980&t=247)** So help and support is very useful for an organization to troubleshoot issues and get assistance from Microsoft in terms of resolving any problem with the resources.
 >
@@ -1488,7 +1473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (10), [[Microsoft Azure|Azure]] (4), product (1), data (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft]] (10), [[Microsoft Azure|Azure]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** azure portal (1)
@@ -1500,12 +1485,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring Azure storage services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980)
+#### [Exploring Azure storage services](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=0)** - [Instructor] Earlier in this course, we talked about the distinction of infrastructure as a service, IaaS, software as a service, SaaS, platform as a service, PaaS, and the different implementations of those solutions within Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=0)** - [Instructor] Earlier in this course, we talked about the distinction of [[IaaS|infrastructure as a service]], [[IaaS]], [[SaaS|software as a service]], [[SaaS]], [[PaaS|platform as a service]], [[PaaS]], and the different implementations of those solutions within [[Microsoft Azure|Azure]].
 >
 > **[0:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=14)** Some of these services blend over or bleed from one of these solution areas to another.
 >
@@ -1515,13 +1499,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=35)** So if I click on Create a resource within Azure services in my Azure Portal.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=41)** So I'm actually going to click on Storage because some of these resources are repeated from databases, and in storage I will also see my database options.
+> **[0:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=41)** So I'm actually going to click on Storage because some of these resources are repeated from [[Databases]], and in storage I will also see my database options.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=51)** So in here, again, we have some storage options that allow us to store different types of data, whether we have structured data or unstructured data, whether we have actual files or if we have images or videos that we want to store.
+> **[0:51](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=51)** So in here, again, we have some storage options that allow us to store different types of data, whether we have structured data or [[Unstructured Data]], whether we have actual files or if we have images or videos that we want to store.
 >
 > **[1:07](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=67)** Depending on the type of data that we want to store in our Azure subscription, depending on the type of access that we want to provide for that data, we will select a different storage option.
 >
-> **[1:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=81)** For example, Azure Cosmos DB is a type of database, which is quite different than an Azure SQL database.
+> **[1:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=81)** For example, Azure Cosmos DB is a type of database, which is quite different than an Azure [[SQL]] database.
 >
 > **[1:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980&t=89)** An Azure SQL database typically will store structured data or relational structured data, and an Azure Cosmos DB will typically store unstructured data.
 >
@@ -1549,7 +1533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), data (9), database (5), [[IaaS|Infrastructure as a service]] (2), [[PaaS|Platform as a service]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[IaaS|Infrastructure as a service]] (2), [[PaaS|Platform as a service]] (2), [[Unstructured Data]] (2), [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Cross-References:** earlier in (1), we talked about (1)
 > **UI Navigation:** click on (2)
@@ -1558,8 +1542,7 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Prerequisites:** install (1)
 
-#### Implementing a storage account
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-a-storage-account?u=76281980)
+#### [Implementing a storage account](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-a-storage-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1623,15 +1606,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Definitions:** is an  (1), is a  (1), basically means (1)
 > **Env Vars:** rg1 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing Azure storage account basic settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-basic-settings?u=76281980)
+#### [Managing Azure storage account basic settings](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-basic-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,9 +1622,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-basic-settings?u=76281980&t=17)** And this actually is a great new view.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-basic-settings?u=76281980&t=20)** What was above here, above the word tags.
+> **[0:20](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-basic-settings?u=76281980&t=20)** What was above here, above the [[Microsoft Word|word]] tags.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-basic-settings?u=76281980&t=24)** This has been here since the beginning of Azure.
+> **[0:24](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-basic-settings?u=76281980&t=24)** This has been here since the beginning of [[Microsoft Azure|Azure]].
 >
 > **[0:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-basic-settings?u=76281980&t=26)** But what you find down below is something that's been recently added to the Azure portal as of the recording of this course.
 >
@@ -1739,7 +1720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (3)
@@ -1748,14 +1729,13 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Managing Azure storage account advanced settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980)
+#### [Managing Azure storage account advanced settings](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=0)** - Now let's go ahead and explore some more advanced configurations for our storage account.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=5)** First, if I click here on the left, I see that most of these first options are the same options that I see for all resources in Azure.
+> **[0:05](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=5)** First, if I click here on the left, I see that most of these first options are the same options that I see for all resources in [[Microsoft Azure|Azure]].
 >
 > **[0:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=14)** Access Control, again, defining who has access to the storage account.
 >
@@ -1777,7 +1757,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=68)** AZ copy is one of those very popular copy tools that allow me to copy my on-prem information, my on-prem data into my storage account.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=79)** I can do it programmatically, also, using Powershell, for example, or the CLI.
+> **[1:19](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=79)** I can do it programmatically, also, using [[Powershell]], for example, or the [[CLI]].
 >
 > **[1:24](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=84)** There are many, many options and tools, some services that are native to Azure, some that are third party available from the marketplace.
 >
@@ -1785,13 +1765,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=96)** Now, the storage browser actually gives you sort of a view of each of the various containers that are in your storage account.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=104)** Now, I've mentioned the word container in passing before, but simply put, the containers are the subsets of resources that exist inside of your storage account.
+> **[1:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=104)** Now, I've mentioned the [[Microsoft Word|word]] container in passing before, but simply put, the containers are the subsets of resources that exist inside of your storage account.
 >
 > **[1:55](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=115)** So your actual data is not stored in the storage account.
 >
 > **[1:59](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=119)** It is stored in a container within the storage account.
 >
-> **[2:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=123)** Those containers come in these four forms.
+> **[2:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=123)** Those containers come in these four [[Forms]].
 >
 > **[2:06](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=126)** They can either be a blob container, a table, a queue, or a file share.
 >
@@ -1805,13 +1785,13 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=159)** Different types of applications will need different types of data.
 >
-> **[2:43](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=163)** And that's why you may use a blob container for an application that stores and reads blobs, unstructured data.
+> **[2:43](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=163)** And that's why you may use a blob container for an application that stores and reads blobs, [[Unstructured Data]].
 >
 > **[2:50](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=170)** Or you may use a queue for an application that requires a queuing service.
 >
 > **[2:56](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=176)** So, depending on the type of functionality of your application, and how that application is programmed, you would be needing and configuring different types of containers.
 >
-> **[3:07](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=187)** And to create the containers, I would go under data storage, and I would click on the plus sign to create a blob.
+> **[3:07](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=187)** And to create the containers, I would go under [[Data Storage]], and I would click on the plus sign to create a blob.
 >
 > **[3:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=194)** Or, I can create my file shares, my queues, or my tables.
 >
@@ -1851,7 +1831,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=321)** Essentially, your data that is stored in Azure is always encrypted.
 >
-> **[5:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=326)** This is what we reference as data at rest.
+> **[5:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=326)** This is what we reference as data at [[Representational State Transfer (REST)|rest]].
 >
 > **[5:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-storage-account-advanced-settings?u=76281980&t=329)** The data that is stored in Azure is encrypted.
 >
@@ -1925,7 +1905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), application (8), [[Microsoft Azure|Azure]] (7), [[Search]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Powershell]] (1), [[CLI]] (1), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **Env Vars:** uri (2), cli (1), grs (1)
 > **Analogies:** for example (3)
 > **Cross-References:** previous video (2)
@@ -1934,14 +1914,13 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **UI Navigation:** click on (1)
 
-#### Explore Microsoft Purview
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980)
+#### [Explore Microsoft Purview](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980&t=0)** - [Instructor] As we discuss data storage and how to store and manage our data in an Azure subscription, we would be remiss to not talk about that data itself.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980&t=0)** - [Instructor] As we discuss [[Data Storage]] and how to store and manage our data in an [[Microsoft Azure|Azure]] subscription, we would be remiss to not talk about that data itself.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980&t=10)** And one of the biggest challenges to most organization is data governance, or having control over that data, understanding that if we have hundreds of SQL Server databases, we have many different storage accounts and blobs, and many different locations on our network, both on-prem and in the cloud that store data.
+> **[0:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980&t=10)** And one of the biggest challenges to most organization is [[Data Governance]], or having control over that data, understanding that if we have hundreds of [[Microsoft SQL Server|SQL Server]] [[Databases]], we have many different storage accounts and blobs, and many different locations on our network, both on-prem and in the cloud that store data.
 >
 > **[0:33](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980&t=33)** We need to have a control over that data, understand how that data is being used, and have a clear view into the data health.
 >
@@ -1949,7 +1928,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980&t=45)** And data governance is something that most organizations are becoming more and more concerned with, and need additional resources that help them into maintaining and getting control over that data.
 >
-> **[0:58](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980&t=58)** Microsoft Purview is one of those tools.
+> **[0:58](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980&t=58)** [[Microsoft]] Purview is one of those tools.
 >
 > **[1:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-microsoft-purview?u=76281980&t=61)** Microsoft Purview is recently renamed from Azure Purview.
 >
@@ -1983,7 +1962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft]] (8), [[Microsoft Azure|Azure]] (5), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Azure|Azure]] (5), [[Data Governance]] (3), [[Data Storage]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
@@ -1994,12 +1973,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing Azure web apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980)
+#### [Implementing Azure web apps](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980&t=0)** - [Instructor] Early on in Azure, one of the first services and functionalities that became available and that drove utilization of the Azure Cloud was app hosting.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980&t=0)** - [Instructor] Early on in [[Microsoft Azure|Azure]], one of the first services and functionalities that became available and that drove utilization of the Azure Cloud was app hosting.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980&t=12)** When you have a web app, you can publish your APIs to the cloud and then configure an interface for your app, and provide access to users through secure mechanisms that are available in Azure.
 >
@@ -2025,7 +2003,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980&t=116)** So the coding runtime stack that will be used for my app.
 >
-> **[2:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980&t=121)** As well, it will specify whether it's a Linux or Windows app if I specify a docker container.
+> **[2:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980&t=121)** As well, it will specify whether it's a [[Linux]] or [[Windows]] app if I specify a docker container.
 >
 > **[2:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980&t=128)** So the docker container will host an operating system, that operating system will host the code.
 >
@@ -2053,7 +2031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), [[Microsoft Azure|Azure]] (6), cloud (2), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Linux]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** docker (2), make (1)
 > **Env Vars:** url (3)
@@ -2061,8 +2039,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing Azure web apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-web-apps?u=76281980)
+#### [Managing Azure web apps](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-web-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2100,7 +2077,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-web-apps?u=76281980&t=132)** So if I click under Authentication, this is where we can add an identity provider.
 >
-> **[2:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-web-apps?u=76281980&t=138)** So if you want to allow users from other identity services to be able to access your app, this is where you're going to add, for example Facebook or Google, as an identity provider, and then a user that has a Facebook account through the trusted mechanisms of Azure will be able to access and authenticate successfully to your application.
+> **[2:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-web-apps?u=76281980&t=138)** So if you want to allow users from other identity services to be able to access your app, this is where you're going to add, for example Facebook or [[Google]], as an identity provider, and then a user that has a Facebook account through the trusted mechanisms of [[Microsoft Azure|Azure]] will be able to access and authenticate successfully to your application.
 >
 > **[2:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-azure-web-apps?u=76281980&t=161)** So identity providers require an advanced set of configuration at the organization level, specifically here for your subscription, to allow those identity provider to be added in and therefore for you to provide the necessary set of permissions for users that are authenticated through that identity provider.
 >
@@ -2176,7 +2153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), application (7), data (5), web (3), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Google]] (1)
 > **Env Vars:** url (3), ftp (2), https (2), tls (1), ssl (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -2190,18 +2167,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating virtual machines in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980)
+#### [Creating virtual machines in Azure](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=0)** - [Instructor] Earlier in the course, we talked about infrastructure as a service, platform as a service, and again, those different resources that can fall or bridge into one of those types of infrastructure cloud solution.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=0)** - [Instructor] Earlier in the course, we talked about [[IaaS|infrastructure as a service]], [[PaaS|platform as a service]], and again, those different resources that can fall or bridge into one of those types of infrastructure cloud solution.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=14)** One of those that is clearly infrastructure as a service is the ability to create these virtual machines in the cloud.
+> **[0:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=14)** One of those that is clearly infrastructure as a service is the ability to create these [[Virtual Machines]] in the cloud.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=23)** Virtual machines or virtualization solutions have been used on-prem by network administrators for quite some time.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=32)** VMware and Microsoft Hyper-V are examples of virtualization hosts that allow you to use virtual machines.
+> **[0:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=32)** VMware and [[Microsoft]] Hyper-V are examples of virtualization hosts that allow you to use virtual machines.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=40)** And then these virtual machines can host specific services or workloads, and then be managed as these separate virtual entities.
 >
@@ -2211,7 +2187,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=63)** We can configure their networking, we can configure their storage, we can configure their security, their operating system, and then we can sign in to these virtual machines and have access to the resources and services that live within these virtual machines.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=79)** So let's go ahead and see how we create virtual machines in Azure.
+> **[1:19](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=79)** So let's go ahead and see how we create virtual machines in [[Microsoft Azure|Azure]].
 >
 > **[1:24](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=84)** So the way that we're going to create those virtual machines, of course, we're going to create them as a resource.
 >
@@ -2225,11 +2201,11 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=116)** So instead of deploying a base operating system and then updating it to a newer version, we can deploy a newer version right away.
 >
-> **[2:04](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=124)** And you see here, I have examples of Windows operating systems, but also Ubuntu.
+> **[2:04](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=124)** And you see here, I have examples of [[Windows]] operating systems, but also [[Ubuntu]].
 >
-> **[2:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=129)** So there are Linux, there's other types of operating systems that I can deploy, not only Windows-based products.
+> **[2:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=129)** So there are [[Linux]], there's other types of operating systems that I can deploy, not only Windows-based [[Microsoft Products|products]].
 >
-> **[2:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=137)** So for example, here, I'm going to go and create Windows Server 2019 Datacenter.
+> **[2:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=137)** So for example, here, I'm going to go and create [[Windows Server]] 2019 Datacenter.
 >
 > **[2:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980&t=143)** And that means that I'm going to create a virtual machine that is going to run Windows Server 2019, the Datacenter edition.
 >
@@ -2327,7 +2303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (15), [[Windows Server]] (6), [[Microsoft Azure|Azure]] (5), cloud (4), [[Security]] (4)
+> **Frameworks & Libraries:** [[Virtual Machines]] (15), [[Windows Server]] (6), [[Microsoft Azure|Azure]] (5), [[IaaS|Infrastructure as a service]] (2), [[Windows]] (2)
 > **Env Vars:** rdp (3), rg1 (1), vm1 (1)
 > **Cross-References:** in the next (2), earlier in (1), we talked about (1)
 > **UI Navigation:** click on (4)
@@ -2336,12 +2312,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 
-#### Managing virtual machines in Azure: Basic
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980)
+#### [Managing virtual machines in Azure: Basic](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=0)** - [Instructor] In this video, we are following up on the previous video where we deployed or we provisioned a virtual machine inside of our Azure subscription.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=0)** - [Instructor] In this video, we are following up on the previous video where we deployed or we provisioned a virtual machine inside of our [[Microsoft Azure|Azure]] subscription.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=9)** That virtual machine has now been successfully deployed.
 >
@@ -2379,13 +2354,13 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=128)** The architecture of this virtual machine is an X64.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=133)** Actually, that's the only version that's available for Windows Server 2019 Data Center.
+> **[2:13](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=133)** Actually, that's the only version that's available for [[Windows Server]] 2019 Data Center.
 >
 > **[2:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=138)** The VM generation is a V1.
 >
 > **[2:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=141)** Now, similarly to other things that we discussed in this course, through the evolution of Azure the VM generation went from V1 to V2.
 >
-> **[2:31](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=151)** Older VMs, maybe VM V1 generation virtual machines today we're on V2 and you can all no longer create a V1 virtual machine that had again, less settings and configurable options.
+> **[2:31](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=151)** Older VMs, maybe VM V1 generation [[Virtual Machines]] today we're on V2 and you can all no longer create a V1 virtual machine that had again, less settings and configurable options.
 >
 > **[2:47](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-basic?u=76281980&t=167)** It was more of a basic virtual machine.
 >
@@ -2439,7 +2414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), data (4), management (1), dns (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Windows Server]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** rdp (4), vnic (2), ds1 (1), dns (1), x64 (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **Cross-References:** previous video (1), we discussed (1)
@@ -2448,8 +2423,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Warnings:** be aware (1)
 
-#### Managing virtual machines in Azure: Networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980)
+#### [Managing virtual machines in Azure: Networking](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2495,7 +2469,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=141)** That is the resource of my public IP address.
 >
-> **[2:24](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=144)** And just to prove to you that that's an actual resource in Azure, I'm going to click on that.
+> **[2:24](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=144)** And just to prove to you that that's an actual resource in [[Microsoft Azure|Azure]], I'm going to click on that.
 >
 > **[2:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=149)** And you see, you get a whole resource screen with its own essential property, its location, its subscription, the resource group it belongs to.
 >
@@ -2527,7 +2501,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=221)** So what is this additional resource here in the middle?
 >
-> **[3:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=224)** Well, that's the NSG or the network security group.
+> **[3:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=224)** Well, that's the NSG or the [[Network Security]] group.
 >
 > **[3:49](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-networking?u=76281980&t=229)** An NSG or a network security group is the tool that we use to control connection through the network card.
 >
@@ -2592,12 +2566,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing virtual machines in Azure: Advanced
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980)
+#### [Managing virtual machines in Azure: Advanced](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=0)** - [Host] In this next video, we'll look at some additional configurations of the Azure virtual machines.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=0)** - [Host] In this next video, we'll look at some additional configurations of the [[Microsoft Azure|Azure]] [[Virtual Machines]].
 >
 > **[0:06](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=6)** First, let's start with discs.
 >
@@ -2635,7 +2608,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=93)** Now, you see that I have options between SSDs and there's multiple SSD option and also hard disk drives.
 >
-> **[1:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=101)** Of course, the SSD, or the solid state disc, even though we're not talking about a physical disc here, it's a virtual disc, there is some hardware behind it on the data centers, so it assures you that you're going to be using the performance, the SSD performance.
+> **[1:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=101)** Of course, the SSD, or the solid state disc, even though we're not talking about a physical disc here, it's a virtual disc, there is some [[Hardware]] behind it on the data centers, so it assures you that you're going to be using the performance, the SSD performance.
 >
 > **[1:56](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=116)** And if I select HDD, we'll see that my max iOPS and throughputs will change as well because this disc actually has some additional functionalities that provide a greater throughput.
 >
@@ -2671,7 +2644,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=309)** And these different series are basically groupings of discs that can be used for similar purposes.
 >
-> **[5:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=315)** So for example, if you have virtual machines that are going to be used to store databases or to host virtualized applications or so on, based on the purpose of that virtual machine, you may want to choose a different type of virtual machine configuration or VM size.
+> **[5:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=315)** So for example, if you have virtual machines that are going to be used to store [[Databases]] or to host virtualized applications or so on, based on the purpose of that virtual machine, you may want to choose a different type of virtual machine configuration or VM size.
 >
 > **[5:33](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-virtual-machines-in-azure-advanced?u=76281980&t=333)** And that will have a different set of options that are grouped together that are more beneficial for the purpose that you have.
 >
@@ -2707,7 +2680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (4), data (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (4), [[Hardware]] (2), [[Databases]] (1)
 > **Env Vars:** ssd (5), lun (5), lrs (1), hdd (1), ade (1)
 > **Definitions:** is an  (3), is a  (3)
 > **Analogies:** for example (2), similar to (1), such as (1)
@@ -2716,8 +2689,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 
-#### Connecting to virtual machines in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980)
+#### [Connecting to virtual machines in Azure](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2725,7 +2697,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=11)** When I click on the Connect icon, I have my three methods for connecting to my virtual machine.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=18)** The first, RDP, I've talked about it before, Remote Desktop Protocol through the Remote Desktop Client, which is a client that is built in to every Windows machine, is a method that's quite known to administrators who connect remotely to servers.
+> **[0:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=18)** The first, RDP, I've talked about it before, Remote Desktop Protocol through the Remote Desktop Client, which is a client that is built in to every [[Windows]] machine, is a method that's quite known to administrators who connect remotely to servers.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=36)** So even on an on-prem network where we have multiple servers, many administrators will use Remote Desktop to connect to other servers remotely rather than sit down physically at a server console.
 >
@@ -2737,7 +2709,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=71)** I have the public IP address specified here.
 >
-> **[1:13](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=73)** The port number, remember that the port number 3389 is the one that is allowed through my inbound rule in my network security group.
+> **[1:13](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=73)** The port number, remember that the port number 3389 is the one that is allowed through my inbound rule in my [[Network Security]] group.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=84)** And so the default inbound rule specifies that Port TCP 3389 is allowed to connect to the virtual machine.
 >
@@ -2745,7 +2717,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=99)** Next, I have another type of client that I can connect my virtual machine to.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=104)** If I'm using a Mac or a Linux, I'll be using the SSH client.
+> **[1:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=104)** If I'm using a Mac or a [[Linux]], I'll be using the SSH client.
 >
 > **[1:49](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=109)** And with the SSH client, I'll require a private key file and I'll be using that.
 >
@@ -2753,7 +2725,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=129)** A third method is using Bastion.
 >
-> **[2:12](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=132)** Now Bastion is a new service that's been introduced recently into Azure, which is a for pay service, so you'll have to pay to use Bastion within your subscription.
+> **[2:12](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=132)** Now Bastion is a new service that's been introduced recently into [[Microsoft Azure|Azure]], which is a for pay service, so you'll have to pay to use Bastion within your subscription.
 >
 > **[2:25](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=145)** So it will give you a very fast and still secure encrypted connection to your virtual machine but it will not require the RDP client, so you'll be doing it directly from here.
 >
@@ -2775,7 +2747,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=204)** And now you see that a Remote Desktop session is opening to the server and I'm connected to the server as if I was sitting right in front of a physical server.
 >
-> **[3:36](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=216)** So this is a Windows Server 2019 machine.
+> **[3:36](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=216)** So this is a [[Windows Server]] 2019 machine.
 >
 > **[3:39](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/connecting-to-virtual-machines-in-azure?u=76281980&t=219)** It has all of the same identical configuration that a Windows Server 2019 machine would have.
 >
@@ -2801,18 +2773,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring Microsoft Entra ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980)
+#### [Exploring Microsoft Entra ID](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980&t=1)** - [Instructor] Administrators often find that the most important service to manage in their Azure environment is Azure Active Directory.
+> **[0:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980&t=1)** - [Instructor] Administrators often find that the most important service to manage in their [[Microsoft Azure|Azure]] environment is [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[0:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980&t=10)** As well, it is usually the first service that they will configure and the service that they may be the most familiar with if they are already coming from an on-premises environment.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980&t=22)** On-prem environments had or have still active directory.
+> **[0:22](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980&t=22)** On-prem environments had or have still [[Active Directory]].
 >
-> **[0:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980&t=26)** Microsoft Active Directory domain controllers provide authentication services for users on an on-prem network.
+> **[0:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980&t=26)** [[Microsoft]] Active Directory domain controllers provide authentication services for users on an on-prem network.
 >
 > **[0:35](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980&t=35)** In the Azure Cloud, Azure Active directory provides the same functionalities, though not utilizing the traditional domain controllers you would find on a network, but rather utilizing a central authentication and authorization service.
 >
@@ -2854,7 +2825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (12), [[Active Directory]] (7), [[Microsoft Azure|Azure]] (5), [[Microsoft]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (12), [[Active Directory]] (7), [[Microsoft Azure|Azure]] (5), [[Microsoft]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** click on (1)
@@ -2862,16 +2833,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### A look into Microsoft Entra
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980)
+#### [A look into Microsoft Entra](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=0)** - [Instructor] In this course we focus on Azure Active Directory, the identity provider through Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=0)** - [Instructor] In this course we focus on [[Microsoft Entra ID|Azure Active Directory]], the identity provider through [[Microsoft Azure|Azure]].
 >
-> **[0:06](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=6)** However, Microsoft is going through a rebranding process of everything related to identity inside of the cloud products.
+> **[0:06](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=6)** However, [[Microsoft]] is going through a rebranding process of everything related to identity inside of the cloud [[Microsoft Products|products]].
 >
-> **[0:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=15)** Azure Active Directory is being rebranded as Azure Active Directory, part of Microsoft Entra.
+> **[0:15](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=15)** Azure Active Directory is being rebranded as Azure Active Directory, part of Microsoft [[Microsoft Entra ID|Entra]].
 >
 > **[0:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=21)** Microsoft Entra is essentially the same product as Azure Active Directory, plus some additional functionalities that are being added.
 >
@@ -2895,7 +2865,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=73)** The same Azure Active Directory that we have as part of the Azure Active Directory Admin Center with our Users and Groups.
 >
-> **[1:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=81)** However, a main difference here is that the UI, the user experience that I'm seeing, is very similar to Microsoft 365.
+> **[1:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=81)** However, a main difference here is that the UI, the [[User Experience (UX)|user experience]] that I'm seeing, is very similar to [[Microsoft 365]].
 >
 > **[1:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=89)** So if you are familiar to a Microsoft 365 environment, this is the type of user interface that you're going to be familiar with.
 >
@@ -2933,7 +2903,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=179)** Where I see here any identity provider that I've configured.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=181)** And this is where you would configure your organization to trust, for example, Facebook identity or Google identities.
+> **[3:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=181)** And this is where you would configure your organization to trust, for example, Facebook identity or [[Google]] identities.
 >
 > **[3:09](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/a-look-into-microsoft-entra?u=76281980&t=189)** So, Microsoft Entra is a new name.
 >
@@ -2951,12 +2921,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring Administrative (RBAC) roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-administrative-rbac-roles?u=76281980)
+#### [Exploring Administrative (RBAC) roles](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-administrative-rbac-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-administrative-rbac-roles?u=76281980&t=0)** - [Instructor] In order to manage your identities inside of Azure Active Directory, Microsoft has created a grouping of pre-canned roles.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-administrative-rbac-roles?u=76281980&t=0)** - [Instructor] In order to manage your identities inside of [[Microsoft Entra ID|Azure Active Directory]], [[Microsoft]] has created a grouping of pre-canned roles.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-administrative-rbac-roles?u=76281980&t=10)** These roles are a combination of rights, the right to perform certain tasks, the right to read certain objects, the right to modify certain objects, the right to create certain types of objects.
 >
@@ -2990,7 +2959,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-administrative-rbac-roles?u=76281980&t=147)** That new role, you would do it by clicking here on New Custom Role.
 >
-> **[2:31](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-administrative-rbac-roles?u=76281980&t=151)** Note that in order to be able to create custom roles, you need to have a special type of Azure AD license, which is a premium license, either P1 or P2.
+> **[2:31](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-administrative-rbac-roles?u=76281980&t=151)** Note that in order to be able to create custom roles, you need to have a special type of [[Microsoft Entra ID|Azure AD]] license, which is a premium license, either P1 or P2.
 >
 > **[2:42](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-administrative-rbac-roles?u=76281980&t=162)** With that type of license, you can create custom roles.
 >
@@ -3026,7 +2995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (5), [[Microsoft Entra ID|Azure ad]] (4), [[Search]] (2), [[Microsoft]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (5), [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft]] (1)
 > **UI Navigation:** click on (6)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (4)
@@ -3035,12 +3004,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing users in Azure AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980)
+#### [Managing users in Azure AD](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=0)** - [Instructor] The primary identity that we will be managing as part of Azure Active Directory is the user account.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=0)** - [Instructor] The primary identity that we will be managing as part of [[Microsoft Entra ID|Azure Active Directory]] is the user account.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=7)** Now, the user account is typically assigned to a person, an employee, a user in your organization.
 >
@@ -3074,7 +3042,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=97)** But first I'm going to show you that guest users, again these invited users that come from an external tenant, have their own identity.
 >
-> **[1:45](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=105)** In this case here it says multiple identity, which means that that user may have access to multiple tenants, across Microsoft 365 Azure Active Directory tenants.
+> **[1:45](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=105)** In this case here it says multiple identity, which means that that user may have access to multiple tenants, across [[Microsoft 365]] Azure Active Directory tenants.
 >
 > **[1:57](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=117)** So it has multiple identities.
 >
@@ -3120,7 +3088,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=236)** So it's a real person, it's a real entity inside of my Azure Active Directory tenant.
 >
-> **[4:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=243)** If you also have a Microsoft 365 tenant, where you have SharePoint online and exchange online mailboxes and so on, this user account can also be associated with those entities in Microsoft 365.
+> **[4:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=243)** If you also have a Microsoft 365 tenant, where you have [[SharePoint]] online and exchange online mailboxes and so on, this user account can also be associated with those entities in Microsoft 365.
 >
 > **[4:19](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=259)** That user account, Steve Smith, may have a mailbox in exchange.
 >
@@ -3166,7 +3134,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=405)** So the Azure Active Directory Admin Center is really a useful tool for managing your identities.
 >
-> **[6:54](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=414)** Again, I've mentioned that Entra will be the next generation of Azure Active Directory with slightly different user interface.
+> **[6:54](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=414)** Again, I've mentioned that [[Microsoft Entra ID|Entra]] will be the next generation of Azure Active Directory with slightly different user interface.
 >
 > **[7:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-users-in-azure-ad?u=76281980&t=423)** We've looked at those user interface in another video in this course.
 >
@@ -3174,7 +3142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (9), [[Microsoft 365]] (6), [[Security]] (2), [[SharePoint]] (1), [[Microsoft Entra ID|Entra]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (9), [[Microsoft 365]] (6), [[SharePoint]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **UI Navigation:** click on (6), checkbox (1)
 > **Env Vars:** csv (2), mfa (2)
 > **Definitions:** is a  (2), means that (1)
@@ -3183,14 +3151,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Warnings:** keep in mind (1)
 
-#### Create member users in Azure AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980)
+#### [Create member users in Azure AD](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980&t=0)** - [Instructor] There are two types of users that I can manage and implement as part of my Azure Active Directory.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980&t=0)** - [Instructor] There are two types of users that I can manage and implement as part of my [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[0:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980&t=8)** They're member users, entities that are inside of your Active Directory tenant, and they are guest users, users that you invite into your Azure Active Directory tenant in order to access resources and collaborate.
+> **[0:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980&t=8)** They're member users, entities that are inside of your [[Active Directory]] tenant, and they are guest users, users that you invite into your Azure Active Directory tenant in order to access resources and collaborate.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980&t=22)** So if I click on Users on the Azure Active Directory admin center, I will see all of my users, but if I want to create new users, I will click here on New user, and I have the choice of creating a new member or inviting a guest user.
 >
@@ -3216,7 +3183,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980&t=134)** That's part of my password policy.
 >
-> **[2:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980&t=137)** If I go down below, I can also add the user to a group, so there are many groups that I can create in my Azure AD similarly to an on-prem AD, where you can have many groups, and I can add that user to the group.
+> **[2:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980&t=137)** If I go down below, I can also add the user to a group, so there are many groups that I can create in my [[Microsoft Entra ID|Azure AD]] similarly to an on-prem AD, where you can have many groups, and I can add that user to the group.
 >
 > **[2:33](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-member-users-in-azure-ad?u=76281980&t=153)** Then I have a role.
 >
@@ -3244,7 +3211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (3), [[Active Directory]] (1), [[Microsoft Entra ID|Azure ad]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (3), [[Active Directory]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **UI Navigation:** click on (4), switch to (1)
 > **Env Vars:** upn (1), rbac (1)
 > **Cross-References:** we talked about (1)
@@ -3252,8 +3219,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enable Multi Factor Authentication for a User
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980)
+#### [Enable Multi Factor Authentication for a User](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3261,7 +3227,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=6)** Now, I would like to enhance the security for that user.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=10)** And when I say enhance the security is I want to ensure that when the user signs in to my tenant, I want to make sure that that user uses multiple forms of authentication.
+> **[0:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=10)** And when I say enhance the security is I want to ensure that when the user signs in to my tenant, I want to make sure that that user uses multiple [[Forms]] of authentication.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=21)** Multiple forms of authentication, being that they must have a username and password.
 >
@@ -3273,7 +3239,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=35)** The user has many different choices as to what that second form of authentication would be but I want two forms of authentication.
 >
-> **[0:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=44)** This is a great way to ensure that your Azure resources are as secure as possible and that malicious users are unable to use a very simple username and password potentially that a user has left unsecured in order to access your resources.
+> **[0:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=44)** This is a great way to ensure that your [[Microsoft Azure|Azure]] resources are as secure as possible and that malicious users are unable to use a very simple username and password potentially that a user has left unsecured in order to access your resources.
 >
 > **[1:03](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=63)** So let's go ahead and enable multifactor authentication.
 >
@@ -3283,7 +3249,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=86)** Now, this portal is probably the oldest portal that exists in Azure.
 >
-> **[1:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=92)** It actually uses the old naming of Azure and you'll notice in the browser Window that it says Windows Azure, the old name of Microsoft Azure.
+> **[1:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=92)** It actually uses the old naming of Azure and you'll notice in the browser Window that it says [[Windows]] Azure, the old name of [[Microsoft Azure]].
 >
 > **[1:40](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/enable-multi-factor-authentication-for-a-user?u=76281980&t=100)** It hasn't had that name in many, many years.
 >
@@ -3335,7 +3301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Security]] (3), [[Forms]] (3), [[Search]] (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Forms]] (3), [[Windows]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** mfa (19)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (1), find (1)
@@ -3344,18 +3310,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 
-#### Managing groups in Azure AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980)
+#### [Managing groups in Azure AD](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=0)** - [Instructor] To provide access to resources in an easy and meaningful way, most administrators will utilize groups, grouping your identities, your users, and even grouping other groups inside of groups and then assigning roles or permissions to groups.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=18)** Groups have existed since the beginning of identity services inside of Windows servers and networks, and it was part of Active Directory.
+> **[0:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=18)** Groups have existed since the beginning of identity services inside of [[Windows]] servers and networks, and it was part of [[Active Directory]].
 >
-> **[0:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=29)** And groups, of course, are part of Azure Active Directory.
+> **[0:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=29)** And groups, of course, are part of [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[0:33](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=33)** As well, if you have a Microsoft 365 subscription, there is a special type of group that you will also be able to create as part of your Azure AD tenant.
+> **[0:33](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=33)** As well, if you have a [[Microsoft 365]] subscription, there is a special type of group that you will also be able to create as part of your [[Microsoft Entra ID|Azure AD]] tenant.
 >
 > **[0:44](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=44)** So let's click on Groups within Azure Active Directory Admin Center.
 >
@@ -3377,7 +3342,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=107)** A Microsoft 365 group will have access to other resources throughout Microsoft 365 as well.
 >
-> **[1:54](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=114)** For example, the group will also have a Microsoft Team.
+> **[1:54](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=114)** For example, the group will also have a [[Microsoft]] Team.
 >
 > **[1:59](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=119)** Then we have our membership.
 >
@@ -3391,7 +3356,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=140)** Dynamic membership means that users are dynamically added to the group based on a rule or a predicate.
 >
-> **[2:28](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=148)** Basically, you are setting up a parameter that says that this group will include anyone that shares this parameter, and that parameter could be anything, anyone that belongs to the office of Seattle, anyone that has a manager of Mike Bee, anyone that is a type of user that is member.
+> **[2:28](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=148)** Basically, you are setting up a parameter that says that this group will include anyone that shares this parameter, and that parameter could be anything, anyone that belongs to the [[Microsoft Office|office]] of Seattle, anyone that has a manager of Mike Bee, anyone that is a type of user that is member.
 >
 > **[2:52](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/managing-groups-in-azure-ad?u=76281980&t=172)** You can specify any type of rule for your membership type.
 >
@@ -3451,30 +3416,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (10), [[Microsoft Entra ID|Azure ad]] (6), [[Security]] (5), [[Microsoft Entra ID|Azure active directory]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (10), [[Microsoft Entra ID|Azure ad]] (6), [[Microsoft Entra ID|Azure active directory]] (2), [[Windows]] (1), [[Active Directory]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Definitions:** is a  (4), means that (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring advanced Azure AD features
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980)
+#### [Exploring advanced Azure AD features](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=0)** - [Instructor] Now that we've looked at creating users, and creating groups, and managing those users in groups, and that we've already talked a little bit about Azure Active Directory and its primary role as part of your Azure subscription, let's take a look at some of the more advanced configuration in Azure Active Directory or some configurations that you should be aware of to help you optimize your Azure Active Directory deployment.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=0)** - [Instructor] Now that we've looked at creating users, and creating groups, and managing those users in groups, and that we've already talked a little bit about [[Microsoft Entra ID|Azure Active Directory]] and its primary role as part of your [[Microsoft Azure|Azure]] subscription, let's take a look at some of the more advanced configuration in Azure Active Directory or some configurations that you should be aware of to help you optimize your Azure Active Directory deployment.
 >
 > **[0:27](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=27)** So if I'm here in the Azure Active Directory Admin Center, I'm going to look at these different options here on the left.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=36)** One of those here is administrative units.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=39)** Administrative units to you administrators who come from on-prem Windows and Active Directory environment.
+> **[0:39](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=39)** Administrative units to you administrators who come from on-prem [[Windows]] and [[Active Directory]] environment.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=46)** You'll remember the term organizational units, or OUs, in Active Directory.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=51)** An administrative unit is essentially the same thing in Active Directory and Azure Active Directory, allowing you to organize all of your objects and then manage them as a single entity.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=62)** Think of a resource group for Azure AD.
+> **[1:02](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=62)** Think of a resource group for [[Microsoft Entra ID|Azure AD]].
 >
 > **[1:06](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=66)** Going down the list here, I also have devices the same way that devices on an on-prem network can join Active Directory.
 >
@@ -3498,7 +3462,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=147)** So I can create here a custom domain name and I can have it be anything.
 >
-> **[2:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=152)** It could be [microsoft.com](https://microsoft.com) if I want to.
+> **[2:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=152)** It could be [[[Microsoft]].com](https://microsoft.com) if I want to.
 >
 > **[2:35](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=155)** And you see that the validation check here is approved.
 >
@@ -3530,7 +3494,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=253)** Sign-in logs can be very useful when you want to see when a user signed in to your tenant, so you can actually see the IP address of the user, you can see their location, and you can also see their name and what workload they access.
 >
-> **[4:28](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=268)** So I have this user here that accessed a Microsoft Teams workload, and that is their IP address that's masked out here and the location where they access from.
+> **[4:28](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=268)** So I have this user here that accessed a [[Microsoft Teams]] workload, and that is their IP address that's masked out here and the location where they access from.
 >
 > **[4:39](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-advanced-azure-ad-features?u=76281980&t=279)** It knows based on the IP address where that IP address is located.
 >
@@ -3570,12 +3534,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the Azure virtual networking resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980)
+#### [Explore the Azure virtual networking resources](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=0)** - [Instructor] Your Azure subscription may contain lots of different resources, virtual machines IOT devices, containers, databases, and then you have your users, and your users need to access these resources or you need to publish these resources on the internet and make them accessible to the world.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=0)** - [Instructor] Your [[Microsoft Azure|Azure]] subscription may contain lots of different resources, [[Virtual Machines]] [[IoT]] devices, containers, [[Databases]], and then you have your users, and your users need to access these resources or you need to publish these resources on the internet and make them accessible to the world.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=21)** In order for these resources to connect to the internet, to connect to each other, they need to do that in a meaningful and secure way.
 >
@@ -3597,7 +3560,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=97)** You can also create connections, and connections are actually that, connections between servers or connections between virtual networks, connections between virtual and physical networks as well.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=112)** We can also create network security groups.
+> **[1:52](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=112)** We can also create [[Network Security]] groups.
 >
 > **[1:54](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=114)** We've talked briefly about set network security groups earlier in this course, the functionality that allows us to open and close certain ports and protocol to communication while those interact with virtual networks.
 >
@@ -3605,13 +3568,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=142)** And then we'll want to take that public IP address and secure it properly using a firewall.
 >
-> **[2:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=149)** And there are many different firewall solutions that exist, from multiple vendors as well as Microsoft's firewall solution, which we will look at in a later video in this course.
+> **[2:29](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=149)** And there are many different firewall solutions that exist, from multiple vendors as well as [[Microsoft]]'s firewall solution, which we will look at in a later video in this course.
 >
 > **[2:42](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=162)** Maybe we have multiple virtual machines that, together, publish an enterprise application.
 >
 > **[2:49](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=169)** For example, you might have deployed a custom internal application on a set of multiple virtual machines.
 >
-> **[2:57](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=177)** Those may be Windows machines or Linux machines, whatever they may be, but you may want to balance the connection between those virtual machines, ensuring that the load of connectivity doesn't only go to one virtual machine, and then that virtual machine may become overloaded.
+> **[2:57](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=177)** Those may be [[Windows]] machines or [[Linux]] machines, whatever they may be, but you may want to balance the connection between those virtual machines, ensuring that the load of connectivity doesn't only go to one virtual machine, and then that virtual machine may become overloaded.
 >
 > **[3:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=194)** So we use a layer for load balancer to balance the load across multiple virtual machines.
 >
@@ -3619,7 +3582,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=203)** That's a virtualized version of a physical appliance that you would normally have on your on-premises network.
 >
-> **[3:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=212)** Another type of virtualized networking solution is a virtualized VPN, a virtual private network.
+> **[3:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=212)** Another type of virtualized networking solution is a virtualized VPN, a [[Virtual Private Network (VPN)|virtual private network]].
 >
 > **[3:39](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980&t=219)** So now we have a virtualized virtual private network with a local network gateway and a virtual network gateway.
 >
@@ -3633,7 +3596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (6), [[Microsoft Azure|Azure]] (4), cloud (4), [[Network Security]] (2), application (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (6), [[Microsoft Azure|Azure]] (4), [[Network Security]] (2), [[Virtual Private Network (VPN)|Virtual private network]] (2), [[IoT]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** vpn (2), iot (1)
 > **Analogies:** for example (2), just like (1)
@@ -3642,12 +3605,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** configure (1)
 
-#### Creating a virtual network
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-a-virtual-network?u=76281980)
+#### [Creating a virtual network](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-a-virtual-network?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-a-virtual-network?u=76281980&t=0)** - [Instructor] Using a virtual network, we can create an isolated network segment inside of our Azure environment.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-a-virtual-network?u=76281980&t=0)** - [Instructor] Using a virtual network, we can create an isolated network segment inside of our [[Microsoft Azure|Azure]] environment.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-a-virtual-network?u=76281980&t=8)** So let's go ahead and create a virtual network resource from within the Azure portal.
 >
@@ -3727,7 +3689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** cidr (3)
 > **Versions:** 10.0.0 (2)
@@ -3735,12 +3697,11 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a load balancer
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-a-load-balancer?u=76281980)
+#### [Create a load balancer](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-a-load-balancer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-a-load-balancer?u=76281980&t=0)** - [Instructor] Earlier in this course, we discussed how if you have multiple virtual machines that host an application, you may want to spread the load of access to that application by using a device, a load balancing device, that would then equally, or based on parameters, spread connectivity to multiple virtual machines.
+> **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-a-load-balancer?u=76281980&t=0)** - [Instructor] Earlier in this course, we discussed how if you have multiple [[Virtual Machines]] that host an application, you may want to spread the load of access to that application by using a device, a load balancing device, that would then equally, or based on parameters, spread connectivity to multiple virtual machines.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-a-load-balancer?u=76281980&t=23)** Using a load balancer, you would avoid a single virtual machine from being overloaded with client demand, and therefore, provide a better service to your users.
 >
@@ -3762,7 +3723,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-a-load-balancer?u=76281980&t=74)** And then we have Standard and Basic SKUs as well.
 >
-> **[1:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-a-load-balancer?u=76281980&t=78)** What is included, excluded in these SKUs is constantly changing so I suggest that you look at the latest version of Microsoft documentation on what is included in each one of those SKUs.
+> **[1:18](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-a-load-balancer?u=76281980&t=78)** What is included, excluded in these SKUs is constantly changing so I suggest that you look at the latest version of [[Microsoft]] documentation on what is included in each one of those SKUs.
 >
 > **[1:30](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/create-a-load-balancer?u=76281980&t=90)** So basically, the primary differences will be around cost and functionalities, the additional functionalities that you may have.
 >
@@ -3788,7 +3749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Virtual Machines]] (5), database (2), vpn (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Microsoft]] (1)
 > **Env Vars:** lb5 (1), sku (1), vpn (1)
 > **Cross-References:** earlier in (1), we discussed (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -3802,28 +3763,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about Microsoft Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980)
+#### [Learning more about Microsoft Azure](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=0)** - [Narrator] So here we are.
 >
-> **[0:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=1)** We've completed this course and you've learned a lot about Azure and administering and managing your resources with Azure, but you want to take it to the next level.
+> **[0:01](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=1)** We've completed this course and you've learned a lot about [[Microsoft Azure|Azure]] and administering and managing your resources with Azure, but you want to take it to the next level.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=10)** So luckily there are many other courses on Microsoft Azure available in the LinkedIn Learning portal.
+> **[0:10](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=10)** So luckily there are many other courses on [[Microsoft Azure]] available in the [[LinkedIn]] Learning portal.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=17)** Some of those courses I've recorded myself, and I encourage you to focus on networking and security and Azure Active Directory, where I have specialized courses on those topics, as well as Microsoft 365, the other cloud offering from Microsoft.
+> **[0:17](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=17)** Some of those courses I've recorded myself, and I encourage you to focus on networking and security and [[Microsoft Entra ID|Azure Active Directory]], where I have specialized courses on those topics, as well as [[Microsoft 365]], the other cloud offering from [[Microsoft]].
 >
 > **[0:32](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=32)** As well, there are many resources available from Microsoft that you can use to enhance your learning on Microsoft Azure Technology Solutions.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=41)** Specifically, click on technical documentation at the bottom of your Azure portal, and you'll go right into the Azure documentation portal.
+> **[0:41](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=41)** Specifically, click on [[Technical Documentation]] at the bottom of your Azure portal, and you'll go right into the Azure documentation portal.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980&t=51)** From here, you'll be able to access specific technical documentation on all of the Azure workloads, all of the Azure services, and you'll be able to become a true Azure expert.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Azure]] (2), [[Microsoft]] (2), [[Technical Documentation]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Azure]] (2), [[Microsoft]] (2), [[Technical Documentation]] (2), [[LinkedIn]] (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)

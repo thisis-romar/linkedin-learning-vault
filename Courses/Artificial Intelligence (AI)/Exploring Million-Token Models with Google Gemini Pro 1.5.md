@@ -63,16 +63,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of AI is huge
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980)
+#### [The future of AI is huge](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980&t=0)** - Something a bit unexpected happened on the way to artificial general intelligence, and that's the explosion of huge context windows.
+> **[0:00](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980&t=0)** - Something a bit unexpected happened on the way to artificial general intelligence, and that's the explosion of huge context [[Windows]].
 >
-> **[0:09](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980&t=9)** In other words, the amount of information that large language models like ChatGPT and Google Gemini can't remember when handling prompts.
+> **[0:09](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980&t=9)** In other words, the amount of information that [[Large Language Models (LLM)|large language models]] like [[ChatGPT]] and [[Google Gemini]] can't remember when handling prompts.
 >
-> **[0:18](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980&t=18)** With Gemini 1.5, Google has taken context windows to a whole new level, letting users access up to a million tokens.
+> **[0:18](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980&t=18)** With [[Gemini]] 1.5, [[Google]] has taken context windows to a whole new level, letting users access up to a million [[Tokens]].
 >
 > **[0:25](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980&t=25)** But what does that mean in practical terms?
 >
@@ -97,12 +96,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Google Gemini Pro and the Gemini Family
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980)
+#### [Google Gemini Pro and the Gemini Family](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=0)** - Let's talk about the Gemini technology overall.
+> **[0:00](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=0)** - Let's talk about the [[Gemini]] technology overall.
 >
 > **[0:02](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=2)** Gemini is a family of tools with multimodal capabilities.
 >
@@ -118,11 +116,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=41)** There are two versions of the Pro Model, 1.0 and 1.5, and most versions of the model support a 32K parameter context length, while the 1.5 model supports a 128,000 context window by default.
 >
-> **[0:56](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=56)** But under a developer preview, which you can access now for free, but fully available after May the 2nd, 2024, developers have access to up to a million tokens.
+> **[0:56](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=56)** But under a developer preview, which you can access now for free, but fully available after May the 2nd, 2024, developers have access to up to a million [[Tokens]].
 >
 > **[1:06](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=66)** The model has even been tested with up to 10 million tokens.
 >
-> **[1:10](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=70)** So let's talk about tokens in context windows.
+> **[1:10](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=70)** So let's talk about tokens in context [[Windows]].
 >
 > **[1:14](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=74)** A token is a standard unit of measure for an AI model.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=102)** This shows you how the model can break down text into tokens.
 >
-> **[1:46](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=106)** You can see that different models like GPT-3 and 4 vary slightly in how they produce tokens, so the same would apply to Google Gemini.
+> **[1:46](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=106)** You can see that different models like GPT-3 and 4 vary slightly in how they produce tokens, so the same would apply to [[Google Gemini]].
 >
 > **[1:54](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=114)** I'm going to paste the text of the famous poem "The Raven" to show you how many tokens an average piece of text can produce.
 >
@@ -154,11 +152,11 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=158)** Although Pro is the model running the Google Gemini chatbot, it uses Gemini 1.0 at the moment.
 >
-> **[2:45](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=165)** You can access version 1.5 with a number of developer tools, and the easiest one to use is Google's AI Studio.
+> **[2:45](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=165)** You can access version 1.5 with a number of developer tools, and the easiest one to use is [[Google]]'s AI Studio.
 >
-> **[2:51](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=171)** But if you have a Google Cloud account, you can use Vertex AI.
+> **[2:51](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=171)** But if you have a [[Google Cloud Platform (GCP)|Google Cloud]] account, you can use [[Vertex]] AI.
 >
-> **[2:55](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=175)** You can also use the API as a developer by getting an API key and then writing your own code to test the tool in Python and other programming languages.
+> **[2:55](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=175)** You can also use the API as a developer by getting an API key and then writing your own code to test the tool in [[Python (Programming Language)|Python]] and other programming languages.
 >
 > **[3:05](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980&t=185)** Let's talk about pricing.
 >
@@ -180,29 +178,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (17), [[Gemini]] (5), ai (3), [[Google Gemini]] (2), api (2)
+> **Frameworks & Libraries:** [[Tokens]] (17), [[Gemini]] (5), [[Google Gemini]] (2), [[Windows]] (1), [[Google]] (1)
 > **Definitions:** is a  (4), means that (1), refers to (1)
 > **Versions:** 1.0 (2), 1.5 (2), version 1 (1)
 > **Env Vars:** api (2), gpt (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - let (1)
 
-#### Why larger context sizes make a difference
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980)
+#### [Why larger context sizes make a difference](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980&t=0)** - Let's talk about how these larger contexts work, and why that makes a huge difference.
 >
-> **[0:05](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980&t=5)** The version of Gemini uses something called a Mixture of Experts Model.
+> **[0:05](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980&t=5)** The version of [[Gemini]] uses something called a Mixture of Experts Model.
 >
-> **[0:09](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980&t=9)** That's a modern technique where instead of passing your prompts to a single large model, the tool sends requests to two or more neural networks that are more specialized in answering specific types of prompts.
+> **[0:09](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980&t=9)** That's a modern technique where instead of passing your prompts to a single large model, the tool sends requests to two or more [[Neural Networks]] that are more specialized in answering specific types of prompts.
 >
 > **[0:21](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980&t=21)** For example, one model might be better at dealing with math, and another with audio or video.
 >
 > **[0:27](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980&t=27)** A mixture of experts is the key to making multimodal models effective.
 >
-> **[0:32](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980&t=32)** A million tokens allows you to feed the model a massive amount of data.
+> **[0:32](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980&t=32)** A million [[Tokens]] allows you to feed the model a massive amount of data.
 >
 > **[0:36](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/why-larger-context-sizes-make-a-difference?u=76281980&t=36)** Let's take a look at what that means practically and compare it to other models.
 >
@@ -256,7 +253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (7), [[Tokens]] (6), next (3), data (2), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (7), [[Tokens]] (6), [[Neural Networks]] (1)
 > **Env Vars:** gpt (3), motb (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -265,12 +262,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - let (1)
 
-#### Using Google AI Studio for testing large context windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980)
+#### [Using Google AI Studio for testing large context windows](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=0)** - Since Google AI Studio is the easiest way to work with Gemini, let's take a look at the tool and what you can do with it.
+> **[0:00](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=0)** - Since [[Google]] AI Studio is the easiest way to work with [[Gemini]], let's take a look at the tool and what you can do with it.
 >
 > **[0:07](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=7)** AI Studio is a developer-focused version of a chatbot with some additional features and controls you can use to test the models.
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=77)** You can add any types of images or video or audio, and have a natural back and forth conversation with the model.
 >
-> **[1:23](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=83)** You'll be able to upload photos or use photos that are already in your Google Drive.
+> **[1:23](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=83)** You'll be able to upload photos or use photos that are already in your [[Google Drive]].
 >
 > **[1:28](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=88)** Also, when you do save photos, they'll automatically be added to your Google Drive as well.
 >
@@ -356,7 +352,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=274)** Another option is to run a Freeform prompt.
 >
-> **[4:36](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=276)** Now, this is similar to a Chat, but it creates more of a document that you can interact with, so you can make changes, and it's a great place to fine tune a prompt, plus it lets you add variables through this table interface where you can add additional examples for ChatGPT to consider.
+> **[4:36](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=276)** Now, this is similar to a Chat, but it creates more of a document that you can interact with, so you can make changes, and it's a great place to fine tune a prompt, plus it lets you add variables through this table interface where you can add additional examples for [[ChatGPT]] to consider.
 >
 > **[4:54](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/using-google-ai-studio-for-testing-large-context-windows?u=76281980&t=294)** You also have the option of running a structured prompt, which gives you the ability to include up to 500 examples and then write different inputs and outputs to test the responses.
 >
@@ -374,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (15), [[Gemini]] (6), ai (4), api (4), [[Google]] (2)
+> **Frameworks & Libraries:** [[Gemini]] (6), [[Google]] (2), [[Google Drive]] (2), [[ChatGPT]] (1)
 > **Versions:** 1.5 (4), 1.0 (2), version 1 (1)
 > **Env Vars:** api (4), llm (1), csv (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
@@ -383,8 +379,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** in the next (1)
 
-#### Exploring large context assets: Audio, Video, Text
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980)
+#### [Exploring large context assets: Audio, Video, Text](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,13 +389,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=7)** This is a YouTube short I created to show a get tip feature called Get Update index.
 >
-> **[0:14](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=14)** Let's see what Gemini 1.5 can do with this.
+> **[0:14](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=14)** Let's see what [[Gemini]] 1.5 can do with this.
 >
 > **[0:16](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=16)** I'm going to start by going in and creating a new chat, so I'll give this thing a name, and I'm going to hit the video button here and upload my video.
 >
 > **[0:26](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=26)** I'll start by asking, what can you tell me about this video?
 >
-> **[0:30](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=30)** This registers as 8,850 tokens, and it was easily able to explain what I was trying to do with the video.
+> **[0:30](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=30)** This registers as 8,850 [[Tokens]], and it was easily able to explain what I was trying to do with the video.
 >
 > **[0:38](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=38)** I'll follow up with, can you give me a summary of the tip to see what it does?
 >
@@ -440,7 +435,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=152)** This time I'm going to go for a freeform prompt.
 >
-> **[2:35](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=155)** I already have the audio loaded up in my Google Drive, so I'll choose that, and I'll choose this episode from here.
+> **[2:35](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=155)** I already have the audio loaded up in my [[Google Drive]], so I'll choose that, and I'll choose this episode from here.
 >
 > **[2:42](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/exploring-large-context-assets-audio-video-text?u=76281980&t=162)** It did add the audio a lot faster, because it was end the Google Drive, and because it's something that is much smaller than the three encyclopedias.
 >
@@ -476,7 +471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Search]] (3), [[Gemini]] (2), [[Google Drive]] (2), feature (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Google Drive]] (2), [[Tokens]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** pdf (1)
 > **Versions:** 1.5 (1)

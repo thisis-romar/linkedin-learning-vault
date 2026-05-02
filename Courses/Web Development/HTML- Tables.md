@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create semantic HTML tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/create-semantic-html-tables-23413073?u=76281980)
+#### [Create semantic HTML tables](https://www.linkedin.com/learning/html-tables/create-semantic-html-tables-23413073?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-tables/create-semantic-html-tables-23413073?u=76281980&t=0)** - If it lives in a spreadsheet, it's probably suitable for an HTML table.
+> **[0:00](https://www.linkedin.com/learning/html-tables/create-semantic-html-tables-23413073?u=76281980&t=0)** - If it lives in a spreadsheet, it's probably suitable for an [[HTML]] table.
 >
 > **[0:05](https://www.linkedin.com/learning/html-tables/create-semantic-html-tables-23413073?u=76281980&t=5)** This course is all about bringing you up to speed on how to create simple and complex HTML tables.
 >
@@ -98,17 +97,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), css (1)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **Env Vars:** html (5), css (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - if (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=1)** - [Instructor] Coming into this course you should have a working knowledge of HTML.
+> **[0:01](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=1)** - [Instructor] Coming into this course you should have a working knowledge of [[HTML]].
 >
 > **[0:05](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=5)** If you don't understand HTML, a gentle introduction is my course: Practical HTML for Marketing Projects.
 >
@@ -118,34 +116,33 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=26)** I recommend the CSS Essential Training one course for this type of background.
 >
-> **[0:32](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=32)** I'll be working with CodePen in this course, available at [codepen.io](https://codepen.io).
+> **[0:32](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=32)** I'll be working with [[CodePen]] in this course, available at [codepen.io](https://codepen.io).
 >
 > **[0:38](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=38)** You can follow along with my examples directly in CodePen via the URL provided for each video without an account.
 >
 > **[0:47](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=47)** However, creating an account if you want to save your work and then fork my examples to make your own saved changes.
 >
-> **[0:56](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=56)** JavaScript is not included in this course, so no background in that is required.
+> **[0:56](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=56)** [[JavaScript]] is not included in this course, so no background in that is required.
 >
 > **[1:01](https://www.linkedin.com/learning/html-tables/what-you-should-know?u=76281980&t=61)** With a little knowledge of HTML and CSS you should be ready to start the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), css (3), [[CodePen]] (3), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[CodePen]] (3), [[JavaScript]] (1)
 > **Env Vars:** html (5), css (3), url (1)
 > **CLI Commands:** make (1)
 > **URLs:** [codepen.io](https://codepen.io) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with CodePen
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/working-with-codepen?u=76281980)
+#### [Working with CodePen](https://www.linkedin.com/learning/html-tables/working-with-codepen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/html-tables/working-with-codepen?u=76281980&t=1)** - [Narrator] In this course, we'll be working with a product called CodePen.
+> **[0:01](https://www.linkedin.com/learning/html-tables/working-with-codepen?u=76281980&t=1)** - [Narrator] In this course, we'll be working with a product called [[CodePen]].
 >
 > **[0:04](https://www.linkedin.com/learning/html-tables/working-with-codepen?u=76281980&t=4)** CodePen is something of an industry standard at this point.
 >
-> **[0:08](https://www.linkedin.com/learning/html-tables/working-with-codepen?u=76281980&t=8)** It is a way that you can work with HTML, CSS, and JavaScript online and where everyone can see your work.
+> **[0:08](https://www.linkedin.com/learning/html-tables/working-with-codepen?u=76281980&t=8)** It is a way that you can work with [[HTML]], CSS, and [[JavaScript]] online and where everyone can see your work.
 >
 > **[0:16](https://www.linkedin.com/learning/html-tables/working-with-codepen?u=76281980&t=16)** So, I have some of the examples that we'll be using in this course available here through the CodePen editor.
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (4), product (1), [[HTML]] (1), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (4), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (1), css (1), url (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -185,8 +182,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Display data semantically
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980)
+#### [Display data semantically](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -194,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980&t=3)** When the Web was first moving into the commercial space in the mid 1990s, CSS was so new that it was unavailable in the browser.
 >
-> **[0:12](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980&t=12)** Therefor, styling was very much a part of HTML.
+> **[0:12](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980&t=12)** Therefor, styling was very much a part of [[HTML]].
 >
 > **[0:16](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980&t=16)** Webpage layouts were pretty much limited to two methodologies.
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980&t=96)** The kind of content that comes from a spreadsheet.
 >
-> **[1:39](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980&t=99)** Over the next 10 years after that book's publication, the Web Standards Project led an intense campaign, encouraging developers to use semantic HTML that reflected the content of their webpages, and to separate presentation from markup using CSS.
+> **[1:39](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980&t=99)** Over the next 10 years after that book's publication, the [[Web Standards]] Project led an intense campaign, encouraging developers to use semantic HTML that reflected the content of their webpages, and to separate presentation from markup using CSS.
 >
 > **[1:56](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980&t=116)** While the project never said that tables were bad for displaying data, unfortunately, many developers took away the message that tables were inherently evil and should never be used in websites.
 >
@@ -240,23 +236,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), data (6), web (5), css (3), next (2)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Web Standards]] (1)
 > **Env Vars:** html (7), css (3), w3c (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Documentation:** w3c (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Understand table rows and table data
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/understand-table-rows-and-table-data?u=76281980)
+#### [Understand table rows and table data](https://www.linkedin.com/learning/html-tables/understand-table-rows-and-table-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/html-tables/understand-table-rows-and-table-data?u=76281980&t=1)** - [Instructor] Let's get started with coding some tables with HTML.
+> **[0:01](https://www.linkedin.com/learning/html-tables/understand-table-rows-and-table-data?u=76281980&t=1)** - [Instructor] Let's get started with coding some tables with [[HTML]].
 >
-> **[0:04](https://www.linkedin.com/learning/html-tables/understand-table-rows-and-table-data?u=76281980&t=4)** I'm going to work here in Codepen to make things easier to see immediately and keep the focus on our code rather than working in something like VSCode where we would have to write the HTML and then individually view it in a browser.
+> **[0:04](https://www.linkedin.com/learning/html-tables/understand-table-rows-and-table-data?u=76281980&t=4)** I'm going to work here in [[CodePen]] to make things easier to see immediately and keep the focus on our code rather than working in something like VSCode where we would have to write the HTML and then individually view it in a browser.
 >
-> **[0:20](https://www.linkedin.com/learning/html-tables/understand-table-rows-and-table-data?u=76281980&t=20)** To keep this really simple for now, I'm going to start by minimizing these windows here.
+> **[0:20](https://www.linkedin.com/learning/html-tables/understand-table-rows-and-table-data?u=76281980&t=20)** To keep this really simple for now, I'm going to start by minimizing these [[Windows]] here.
 >
 > **[0:25](https://www.linkedin.com/learning/html-tables/understand-table-rows-and-table-data?u=76281980&t=25)** You just grab them and drag them on down.
 >
@@ -350,7 +345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), css (4), next (2), data (2), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[CodePen]] (1), [[Windows]] (1)
 > **Env Vars:** html (7), css (4)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), in other words (1)
@@ -358,12 +353,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1), note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add content and data to table cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/add-content-and-data-to-table-cells?u=76281980)
+#### [Add content and data to table cells](https://www.linkedin.com/learning/html-tables/add-content-and-data-to-table-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-tables/add-content-and-data-to-table-cells?u=76281980&t=0)** - [Instructor] Now that you have a sense of the basic HTML that goes into marking up a table, let's talk about how to get content from a spreadsheet into an HTML table.
+> **[0:00](https://www.linkedin.com/learning/html-tables/add-content-and-data-to-table-cells?u=76281980&t=0)** - [Instructor] Now that you have a sense of the basic [[HTML]] that goes into marking up a table, let's talk about how to get content from a spreadsheet into an HTML table.
 >
 > **[0:13](https://www.linkedin.com/learning/html-tables/add-content-and-data-to-table-cells?u=76281980&t=13)** So, this is the Wisdom Pet Medicine pricing spreadsheet and this is what we were given as content when we were asked to go ahead and put this on the website.
 >
@@ -421,7 +415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), data (5), css (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **Env Vars:** html (6), css (1)
 > **Analogies:** just like (1), kind of like (1)
 > **CLI Commands:** find (1)
@@ -429,8 +423,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand table headings
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980)
+#### [Understand table headings](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -442,13 +435,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=16)** Everything is exactly the same in this table and that's actually not true.
 >
-> **[0:21](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=21)** Some pieces of data are slightly different than others and it would be interesting to include that information in our HTML markup.
+> **[0:21](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=21)** Some pieces of data are slightly different than others and it would be interesting to include that information in our [[HTML]] markup.
 >
 > **[0:28](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=28)** So for example, here we have a row of information that talks about the item number or the product or the service, the price and so forth.
 >
 > **[0:37](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=37)** And usually that type of information is called a header.
 >
-> **[0:40](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=40)** Usually it's maybe bolded or somehow displayed differently than the rest of the information in the spreadsheet.
+> **[0:40](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=40)** Usually it's maybe bolded or somehow displayed differently than the [[Representational State Transfer (REST)|rest]] of the information in the spreadsheet.
 >
 > **[0:47](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=47)** And so we would probably like to mark it up to reflect that difference between that header data and the data in the rest of the table.
 >
@@ -456,7 +449,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=63)** So if we go ahead and just swap out these TDs for THs that's all that we need to do here.
 >
-> **[1:11](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=71)** And in fact here in CodePen all you have to do is change the first tag and it will be smart enough to change the closing tag for you, which is super-handy.
+> **[1:11](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=71)** And in fact here in [[CodePen]] all you have to do is change the first tag and it will be smart enough to change the closing tag for you, which is super-handy.
 >
 > **[1:21](https://www.linkedin.com/learning/html-tables/understand-table-headings?u=76281980&t=81)** So what you're going to see here is as I change those cells from table data to table heading is that that text becomes bold and it looks like it's out of alignment a little bit.
 >
@@ -474,18 +467,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1), product (1), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1), [[CodePen]] (1)
 > **Env Vars:** html (1), css (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify table head, body, and foot
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/identify-table-head-body-and-foot?u=76281980)
+#### [Identify table head, body, and foot](https://www.linkedin.com/learning/html-tables/identify-table-head-body-and-foot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/html-tables/identify-table-head-body-and-foot?u=76281980&t=1)** - [Instructor] HTML tables may be divided into three parts a head, a body, and a foot.
+> **[0:01](https://www.linkedin.com/learning/html-tables/identify-table-head-body-and-foot?u=76281980&t=1)** - [Instructor] [[HTML]] tables may be divided into three parts a head, a body, and a foot.
 >
 > **[0:07](https://www.linkedin.com/learning/html-tables/identify-table-head-body-and-foot?u=76281980&t=7)** And I'd like to go ahead and to do that to my table now because the head, the body, and the foot serve different functions inside of this table so let's walk through how we might go about doing that.
 >
@@ -593,7 +585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (4), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Versions:** 125.04 (1), 1425.46 (1), 75.02 (1), 1350.43 (1), 150.05 (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (3)
@@ -602,14 +594,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 
-#### Include table captions
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/include-table-captions?u=76281980)
+#### [Include table captions](https://www.linkedin.com/learning/html-tables/include-table-captions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/html-tables/include-table-captions?u=76281980&t=1)** - [Instructor] We know what this table is about.
 >
-> **[0:02](https://www.linkedin.com/learning/html-tables/include-table-captions?u=76281980&t=2)** This is a list of products or services with the various prices associated with them for Wisdom Pet Medicine.
+> **[0:02](https://www.linkedin.com/learning/html-tables/include-table-captions?u=76281980&t=2)** This is a list of [[Microsoft Products|products]] or services with the various prices associated with them for Wisdom Pet Medicine.
 >
 > **[0:09](https://www.linkedin.com/learning/html-tables/include-table-captions?u=76281980&t=9)** But would anyone else know that coming and visiting this webpage?
 >
@@ -663,7 +654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), css (2), data (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -671,18 +662,17 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Group columns and apply to headers
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980)
+#### [Group columns and apply to headers](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=0)** - [Instructor] If you've noticed our data, you'll see that we have some retail prices and some case prices for our products.
+> **[0:00](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=0)** - [Instructor] If you've noticed our data, you'll see that we have some retail prices and some case prices for our [[Microsoft Products|products]].
 >
 > **[0:08](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=8)** We may want to group these columns to show a relationship between these kinds of prices.
 >
 > **[0:13](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=13)** The way to do this is with a combination of a col group tag, and the col tag.
 >
-> **[0:20](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=20)** And that's going to spell out a model that we can then apply to the actual HTML tags that make up our table.
+> **[0:20](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=20)** And that's going to spell out a model that we can then apply to the actual [[HTML]] tags that make up our table.
 >
 > **[0:29](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=29)** It's kind of like a model that runs on top of that code.
 >
@@ -696,7 +686,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=51)** And then in between the col group tags, we're going to put in a series of tags that are simply col.
 >
-> **[0:57](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=57)** And we need to account for seven columns because that's what we have spelled out in the rest of the document.
+> **[0:57](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=57)** And we need to account for seven columns because that's what we have spelled out in the [[Representational State Transfer (REST)|rest]] of the document.
 >
 > **[1:06](https://www.linkedin.com/learning/html-tables/group-columns-and-apply-to-headers?u=76281980&t=66)** And, so, we have to have at least seven of these cols in one form or another.
 >
@@ -780,7 +770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** kind of like (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -788,8 +778,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use colspan and rowspan
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/use-colspan-and-rowspan?u=76281980)
+#### [Use colspan and rowspan](https://www.linkedin.com/learning/html-tables/use-colspan-and-rowspan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -825,7 +814,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/html-tables/use-colspan-and-rowspan?u=76281980&t=116)** And the way that I can make that happen is through an attribute called colspan.
 >
-> **[2:01](https://www.linkedin.com/learning/html-tables/use-colspan-and-rowspan?u=76281980&t=121)** So right inside of this TH or inside of a TD if that happens to be what you're working with you can say colspan, all one word, and then equals however many columns you'd like it to span across.
+> **[2:01](https://www.linkedin.com/learning/html-tables/use-colspan-and-rowspan?u=76281980&t=121)** So right inside of this TH or inside of a TD if that happens to be what you're working with you can say colspan, all one [[Microsoft Word|word]], and then equals however many columns you'd like it to span across.
 >
 > **[2:14](https://www.linkedin.com/learning/html-tables/use-colspan-and-rowspan?u=76281980&t=134)** So in this case I want to go across two columns so I just say colspan of two.
 >
@@ -851,7 +840,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/html-tables/use-colspan-and-rowspan?u=76281980&t=182)** So let's just say for example this item number here, this very first item number, I'd like it to span across two rows.
 >
-> **[3:11](https://www.linkedin.com/learning/html-tables/use-colspan-and-rowspan?u=76281980&t=191)** So to set that up the way I'd go about doing that is first of all let's find 100050 here in our HTML.
+> **[3:11](https://www.linkedin.com/learning/html-tables/use-colspan-and-rowspan?u=76281980&t=191)** So to set that up the way I'd go about doing that is first of all let's find 100050 here in our [[HTML]].
 >
 > **[3:20](https://www.linkedin.com/learning/html-tables/use-colspan-and-rowspan?u=76281980&t=200)** It's on line 28.
 >
@@ -875,20 +864,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), product (1), [[Microsoft Word|Word]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for example (2)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Mark up a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/challenge-mark-up-a-table?u=76281980)
+#### [Challenge: Mark up a table](https://www.linkedin.com/learning/html-tables/challenge-mark-up-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-tables/challenge-mark-up-a-table?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/html-tables/challenge-mark-up-a-table?u=76281980&t=5)** - [Instructor] Now that we've talked about all of the basic HTML tags that you need to code a table, how about you go ahead and give it a try now.
+> **[0:05](https://www.linkedin.com/learning/html-tables/challenge-mark-up-a-table?u=76281980&t=5)** - [Instructor] Now that we've talked about all of the basic [[HTML]] tags that you need to code a table, how about you go ahead and give it a try now.
 >
 > **[0:13](https://www.linkedin.com/learning/html-tables/challenge-mark-up-a-table?u=76281980&t=13)** This will be your first challenge, and it will be to mark up a table, so make sure you've downloaded the exercise files for this particular challenge.
 >
@@ -928,7 +916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Definitions:** is a  (2), in other words (2)
 > **CLI Commands:** make (3)
 > **Exercise Files:** exercise files (2)
@@ -937,8 +925,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Mark up a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/solution-mark-up-a-table?u=76281980)
+#### [Solution: Mark up a table](https://www.linkedin.com/learning/html-tables/solution-mark-up-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -976,7 +963,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/html-tables/solution-mark-up-a-table?u=76281980&t=109)** The very first one, I actually wanted it to go across the day of the week and the date, so that's just the day column here coming from the call group.
 >
-> **[1:59](https://www.linkedin.com/learning/html-tables/solution-mark-up-a-table?u=76281980&t=119)** And we have columns for all the rest of these.
+> **[1:59](https://www.linkedin.com/learning/html-tables/solution-mark-up-a-table?u=76281980&t=119)** And we have columns for all the [[Representational State Transfer (REST)|rest]] of these.
 >
 > **[2:04](https://www.linkedin.com/learning/html-tables/solution-mark-up-a-table?u=76281980&t=124)** Then as we go down into the body itself, the body is relatively short.
 >
@@ -1002,13 +989,13 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/html-tables/solution-mark-up-a-table?u=76281980&t=206)** You can close the table foot and you can close the table.
 >
-> **[3:29](https://www.linkedin.com/learning/html-tables/solution-mark-up-a-table?u=76281980&t=209)** So that's the way that I approached this particular HTML, you might've had a few variations on that.
+> **[3:29](https://www.linkedin.com/learning/html-tables/solution-mark-up-a-table?u=76281980&t=209)** So that's the way that I approached this particular [[HTML]], you might've had a few variations on that.
 >
 > **[3:35](https://www.linkedin.com/learning/html-tables/solution-mark-up-a-table?u=76281980&t=215)** But as always, there are no one single true right or wrong answer for this type of thing and it all depends on what it is that you're trying to convey in terms of the value of this table.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -1020,8 +1007,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Style table borders and basic styling
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/style-table-borders-and-basic-styling?u=76281980)
+#### [Style table borders and basic styling](https://www.linkedin.com/learning/html-tables/style-table-borders-and-basic-styling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1101,15 +1087,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), data (1), next (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** css (4), ccae51 (1)
 > **Cross-References:** previous chapter (1), in the last (1), later in (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Style the table caption
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/style-the-table-caption?u=76281980)
+#### [Style the table caption](https://www.linkedin.com/learning/html-tables/style-the-table-caption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,7 +1111,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/html-tables/style-the-table-caption?u=76281980&t=27)** So I'm just going to scroll on down here in my style sheet.
 >
-> **[0:31](https://www.linkedin.com/learning/html-tables/style-the-table-caption?u=76281980&t=31)** You'll remember that this caption here comes from the caption tag here in our HTML.
+> **[0:31](https://www.linkedin.com/learning/html-tables/style-the-table-caption?u=76281980&t=31)** You'll remember that this caption here comes from the caption tag here in our [[HTML]].
 >
 > **[0:37](https://www.linkedin.com/learning/html-tables/style-the-table-caption?u=76281980&t=37)** And we can just go on ahead and leverage that.
 >
@@ -1167,14 +1151,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** html (1), ccae51 (1), css (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Style your table headers and footers
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/style-your-table-headers-and-footers?u=76281980)
+#### [Style your table headers and footers](https://www.linkedin.com/learning/html-tables/style-your-table-headers-and-footers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,7 +1193,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/html-tables/style-your-table-headers-and-footers?u=76281980&t=88)** What I'd like to have happen is for this in the, this row here where we have retail and cases, this row, but not the row after it, just this very first row here, I would like to make it a sort of a dark brown color with the white text, and I'd actually like the words Retail and Cases to be centered, even though I just turned off the centering for all of my headers.
 >
-> **[1:55](https://www.linkedin.com/learning/html-tables/style-your-table-headers-and-footers?u=76281980&t=115)** So the best way to approach this is to take a look at your HTML and think about what sets off that first row here in the table head.
+> **[1:55](https://www.linkedin.com/learning/html-tables/style-your-table-headers-and-footers?u=76281980&t=115)** So the best way to approach this is to take a look at your [[HTML]] and think about what sets off that first row here in the table head.
 >
 > **[2:05](https://www.linkedin.com/learning/html-tables/style-your-table-headers-and-footers?u=76281980&t=125)** What sets off that row from everything else?
 >
@@ -1271,14 +1254,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stripe table rows with background colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/stripe-table-rows-with-background-colors?u=76281980)
+#### [Stripe table rows with background colors](https://www.linkedin.com/learning/html-tables/stripe-table-rows-with-background-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-tables/stripe-table-rows-with-background-colors?u=76281980&t=0)** - [Instructor] Our table looks pretty good as it is.
 >
-> **[0:03](https://www.linkedin.com/learning/html-tables/stripe-table-rows-with-background-colors?u=76281980&t=3)** I probably would leave it just like this if this was the only four products that I had in this particular table.
+> **[0:03](https://www.linkedin.com/learning/html-tables/stripe-table-rows-with-background-colors?u=76281980&t=3)** I probably would leave it just like this if this was the only four [[Microsoft Products|products]] that I had in this particular table.
 >
 > **[0:10](https://www.linkedin.com/learning/html-tables/stripe-table-rows-with-background-colors?u=76281980&t=10)** But it's more than likely, and as you can tell, these are only A, B, and C products, it's more than likely that we're going to have at least dozens of rows, if not hundreds of rows.
 >
@@ -1348,7 +1330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Search]] (2), css (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** rgba (4), css (1)
 > **Definitions:** is a  (3), in other words (2)
 > **Versions:** 0.2 (2)
@@ -1357,8 +1339,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Style HTML tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/challenge-style-html-tables?u=76281980)
+#### [Challenge: Style HTML tables](https://www.linkedin.com/learning/html-tables/challenge-style-html-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1366,13 +1347,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/html-tables/challenge-style-html-tables?u=76281980&t=5)** - (Instructor) Okay, so now that you've seen all of the different ways you might think about styling a table, it's time for you to go ahead and give it a try in this next challenge.
 >
-> **[0:14](https://www.linkedin.com/learning/html-tables/challenge-style-html-tables?u=76281980&t=14)** So, I've given you a starting Codepen that you can take a look at.
+> **[0:14](https://www.linkedin.com/learning/html-tables/challenge-style-html-tables?u=76281980&t=14)** So, I've given you a starting [[CodePen]] that you can take a look at.
 >
 > **[0:19](https://www.linkedin.com/learning/html-tables/challenge-style-html-tables?u=76281980&t=19)** This is the same starting table, the mark-up that you created in the first challenge in this course.
 >
 > **[0:26](https://www.linkedin.com/learning/html-tables/challenge-style-html-tables?u=76281980&t=26)** I've given you it here.
 >
-> **[0:28](https://www.linkedin.com/learning/html-tables/challenge-style-html-tables?u=76281980&t=28)** You can keep working with the same html that you created in that challenge if you wish, and then using the principles that I've presented over the last few videos, along with your own tricks that you may bring to this as well, make that table look prettier than it does now.
+> **[0:28](https://www.linkedin.com/learning/html-tables/challenge-style-html-tables?u=76281980&t=28)** You can keep working with the same [[HTML]] that you created in that challenge if you wish, and then using the principles that I've presented over the last few videos, along with your own tricks that you may bring to this as well, make that table look prettier than it does now.
 >
 > **[0:44](https://www.linkedin.com/learning/html-tables/challenge-style-html-tables?u=76281980&t=44)** Trust me, the bar is really low.
 >
@@ -1388,14 +1369,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[CodePen]] (2), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[CodePen]] (2), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** css (1)
 > **Cross-References:** in the next (1)
 > **Non-Speech:** (bright music plays) (1)
 
-#### Solution: Style HTML tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/solution-style-html-tables?u=76281980)
+#### [Solution: Style HTML tables](https://www.linkedin.com/learning/html-tables/solution-style-html-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1407,7 +1387,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/html-tables/solution-style-html-tables?u=76281980&t=17)** So I stuck with the same colors that I had been using in my previous example, but I styled things up a little bit differently here.
 >
-> **[0:26](https://www.linkedin.com/learning/html-tables/solution-style-html-tables?u=76281980&t=26)** So let me just walk you through my CSS and the HTML I didn't change at all.
+> **[0:26](https://www.linkedin.com/learning/html-tables/solution-style-html-tables?u=76281980&t=26)** So let me just walk you through my CSS and the [[HTML]] I didn't change at all.
 >
 > **[0:32](https://www.linkedin.com/learning/html-tables/solution-style-html-tables?u=76281980&t=32)** So, here of course one of the first things I do pretty much in anything that I've ever done is change the font family to a sans-serif.
 >
@@ -1457,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -1469,8 +1449,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsive tables with side scrolling
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/responsive-tables-with-side-scrolling?u=76281980)
+#### [Responsive tables with side scrolling](https://www.linkedin.com/learning/html-tables/responsive-tables-with-side-scrolling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,7 +1491,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/html-tables/responsive-tables-with-side-scrolling?u=76281980&t=176)** What I'm going to do here is to my class, the div with the class of table scroll, I'm going to add a couple of other attributes here.
 >
-> **[3:05](https://www.linkedin.com/learning/html-tables/responsive-tables-with-side-scrolling?u=76281980&t=185)** One is a role of region, and I'm going to add here an aria hyphen labeled by, all one word, and I'm going to give it a name of pricelist because hey, that's what it is.
+> **[3:05](https://www.linkedin.com/learning/html-tables/responsive-tables-with-side-scrolling?u=76281980&t=185)** One is a role of region, and I'm going to add here an aria hyphen labeled by, all one [[Microsoft Word|word]], and I'm going to give it a name of pricelist because hey, that's what it is.
 >
 > **[3:23](https://www.linkedin.com/learning/html-tables/responsive-tables-with-side-scrolling?u=76281980&t=203)** And then finally, I'm going to give this a tab index of zero.
 >
@@ -1532,15 +1511,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), css (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** css (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reformat a table for responsive layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/reformat-a-table-for-responsive-layout?u=76281980)
+#### [Reformat a table for responsive layout](https://www.linkedin.com/learning/html-tables/reformat-a-table-for-responsive-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1558,7 +1536,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/html-tables/reformat-a-table-for-responsive-layout?u=76281980&t=53)** The reason why is you'll wind up writing less code in the end, and it will be more straightforward to understand what's going on.
 >
-> **[1:01](https://www.linkedin.com/learning/html-tables/reformat-a-table-for-responsive-layout?u=76281980&t=61)** You can, in fact, build your table this way using a desktop first approach, even if the rest of your site is built with mobile first.
+> **[1:01](https://www.linkedin.com/learning/html-tables/reformat-a-table-for-responsive-layout?u=76281980&t=61)** You can, in fact, build your table this way using a desktop first approach, even if the [[Representational State Transfer (REST)|rest]] of your site is built with mobile first.
 >
 > **[1:10](https://www.linkedin.com/learning/html-tables/reformat-a-table-for-responsive-layout?u=76281980&t=70)** So I'm going to recommend that you go on ahead and do that.
 >
@@ -1634,7 +1612,7 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/html-tables/reformat-a-table-for-responsive-layout?u=76281980&t=355)** Yes, those of you who are thinking, this is not very sustainable in terms of putting that information here into CSS, you are absolutely right.
 >
-> **[6:05](https://www.linkedin.com/learning/html-tables/reformat-a-table-for-responsive-layout?u=76281980&t=365)** This is something that you could write in with JavaScript, this is something you could write in with some kind of server-side technique, maybe something with PHP, or with Python, or whatever it is you want to use.
+> **[6:05](https://www.linkedin.com/learning/html-tables/reformat-a-table-for-responsive-layout?u=76281980&t=365)** This is something that you could write in with [[JavaScript]], this is something you could write in with some kind of server-side technique, maybe something with [[PHP]], or with [[Python (Programming Language)|Python]], or whatever it is you want to use.
 >
 > **[6:17](https://www.linkedin.com/learning/html-tables/reformat-a-table-for-responsive-layout?u=76281980&t=377)** Those languages and techniques could simply write in this information as well.
 >
@@ -1644,15 +1622,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), next (3), [[Representational State Transfer (REST)|Rest]] (2), product (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[JavaScript]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** css (7), php (1)
 > **CLI Commands:** make (3), php (1), python (1)
 > **Analogies:** just like (3), kind of like (1)
 > **Definitions:** means that (1), in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Final styling tweaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/final-styling-tweaks?u=76281980)
+#### [Final styling tweaks](https://www.linkedin.com/learning/html-tables/final-styling-tweaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1716,15 +1693,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), hit (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Make tables responsive
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/challenge-make-tables-responsive?u=76281980)
+#### [Challenge: Make tables responsive](https://www.linkedin.com/learning/html-tables/challenge-make-tables-responsive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1732,7 +1707,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/html-tables/challenge-make-tables-responsive?u=76281980&t=5)** - [Instructor] For your last challenge in this course, I'd like you to take the table that we've worked with over the last two challenges, and now we're going to take that same table and make it responsive.
 >
-> **[0:15](https://www.linkedin.com/learning/html-tables/challenge-make-tables-responsive?u=76281980&t=15)** So you'll start with a CodePen that I have given you that has all of my HTML and CSS as I configured it, if you'd like to start there, or if you want to keep working on the CodePen you've already been working on where you wrote your own HTML and your own CSS, you're welcome to do that, as well.
+> **[0:15](https://www.linkedin.com/learning/html-tables/challenge-make-tables-responsive?u=76281980&t=15)** So you'll start with a [[CodePen]] that I have given you that has all of my [[HTML]] and CSS as I configured it, if you'd like to start there, or if you want to keep working on the CodePen you've already been working on where you wrote your own HTML and your own CSS, you're welcome to do that, as well.
 >
 > **[0:34](https://www.linkedin.com/learning/html-tables/challenge-make-tables-responsive?u=76281980&t=34)** Then using the principles that I presented over the last few videos, along with whatever additional tricks you may have, make that table responsive an appropriate breakpoint.
 >
@@ -1746,15 +1721,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (3), [[HTML]] (3), css (3), next (1)
+> **Frameworks & Libraries:** [[CodePen]] (3), [[HTML]] (3)
 > **Env Vars:** html (3), css (3)
 > **CLI Commands:** make (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Make tables responsive
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/solution-make-tables-responsive?u=76281980)
+#### [Solution: Make tables responsive](https://www.linkedin.com/learning/html-tables/solution-make-tables-responsive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1768,7 +1742,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/html-tables/solution-make-tables-responsive?u=76281980&t=36)** So that's how I styled my particular version of this time sheet.
 >
-> **[0:42](https://www.linkedin.com/learning/html-tables/solution-make-tables-responsive?u=76281980&t=42)** So let's go and through my HTML, my CSS, here is that scrollbar that I attached to the top of the page, and I called this the timesheet, so the caption has the ID of timesheet, that's the only change that I've made to the HTML, and the CSS, everything outside the media query is the same as it was before.
+> **[0:42](https://www.linkedin.com/learning/html-tables/solution-make-tables-responsive?u=76281980&t=42)** So let's go and through my [[HTML]], my CSS, here is that scrollbar that I attached to the top of the page, and I called this the timesheet, so the caption has the ID of timesheet, that's the only change that I've made to the HTML, and the CSS, everything outside the media query is the same as it was before.
 >
 > **[1:02](https://www.linkedin.com/learning/html-tables/solution-make-tables-responsive?u=76281980&t=62)** Here inside the media query I've gone ahead and, from this comment of responsive table, I guess this table scroll is actually outside the media query, but that and the following media query here, this is where the special sauce comes in.
 >
@@ -1788,7 +1762,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/html-tables/solution-make-tables-responsive?u=76281980&t=184)** That to me made this table more readable, more understandable by adding that additional little bit of text.
 >
-> **[3:11](https://www.linkedin.com/learning/html-tables/solution-make-tables-responsive?u=76281980&t=191)** Once again, you could do something with JavaScript, or PHP, or Pearl, or Python, or any one of a number of different programming languages to throw that stuff in place.
+> **[3:11](https://www.linkedin.com/learning/html-tables/solution-make-tables-responsive?u=76281980&t=191)** Once again, you could do something with [[JavaScript]], or [[PHP]], or Pearl, or [[Python (Programming Language)|Python]], or any one of a number of different programming languages to throw that stuff in place.
 >
 > **[3:22](https://www.linkedin.com/learning/html-tables/solution-make-tables-responsive?u=76281980&t=202)** I've done it here with CSS to keep simple HTML and CSS only, probably not the best way to implement this out in the real world however.
 >
@@ -1796,7 +1770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (3), [[JavaScript]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** css (4), html (3), php (1)
 > **CLI Commands:** make (3), php (1), python (1)
 > **Cross-References:** in the last (1)
@@ -1808,14 +1782,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/html-tables/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-tables/next-steps?u=76281980&t=0)** - Hey everybody, it's Jen Kramer.
 >
-> **[0:02](https://www.linkedin.com/learning/html-tables/next-steps?u=76281980&t=2)** Thank you so much for watching HTML Tables.
+> **[0:02](https://www.linkedin.com/learning/html-tables/next-steps?u=76281980&t=2)** Thank you so much for watching [[HTML]] Tables.
 >
 > **[0:05](https://www.linkedin.com/learning/html-tables/next-steps?u=76281980&t=5)** I hope you took away some valuable learning, especially in making those responsive tables and doing great things with layouts on mobile devices.
 >
@@ -1833,7 +1806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), web (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)

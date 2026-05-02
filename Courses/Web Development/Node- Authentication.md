@@ -89,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Real sites need authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980)
+#### [Real sites need authentication](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980&t=21)** Implementing user-friendly, secure and seamless authentication is therefore an important task any web or app developer should be familiar with.
 >
-> **[0:31](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980&t=31)** I'm going to show you how you can add user registration and authentication to any app built with Node.js and Express.
+> **[0:31](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980&t=31)** I'm going to show you how you can add user registration and authentication to any app built with [[Node.js]] and Express.
 >
 > **[0:38](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980&t=38)** We will cover everything from simple logging, using a username and a password stored in a database, to more complex ways, like single sign-on against a third-party.
 >
@@ -112,27 +111,26 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980&t=61)** Along the way, I also did my bachelor in software engineering and I'm really super excited to share what I know.
 >
-> **[1:07](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980&t=67)** If you're ready to learn how to build perfect authentication into your apps, then join me on my LinkedIn learning course on authentication with Node.js.
+> **[1:07](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980&t=67)** If you're ready to learn how to build perfect authentication into your apps, then join me on my [[LinkedIn]] learning course on authentication with Node.js.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), web (1), express (1), database (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[LinkedIn]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
 > **Speakers:** - [daniel] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/node-authentication/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-authentication/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is not a beginner's course.
 >
-> **[0:02](https://www.linkedin.com/learning/node-authentication/what-you-should-know?u=76281980&t=2)** To get the most out of it, you should have some working knowledge with Node.js and Express, and you should also know recent language concepts like promises and async await, and ES6 syntax like destructuring assignments.
+> **[0:02](https://www.linkedin.com/learning/node-authentication/what-you-should-know?u=76281980&t=2)** To get the most out of it, you should have some working knowledge with [[Node.js]] and Express, and you should also know recent language concepts like promises and async await, and ES6 syntax like destructuring assignments.
 >
-> **[0:15](https://www.linkedin.com/learning/node-authentication/what-you-should-know?u=76281980&t=15)** Also some basic knowledge of databases and maybe MongoDB will help you understand everything we cover during this course.
+> **[0:15](https://www.linkedin.com/learning/node-authentication/what-you-should-know?u=76281980&t=15)** Also some basic knowledge of [[Databases]] and maybe [[MongoDB]] will help you understand everything we cover during this course.
 >
-> **[0:23](https://www.linkedin.com/learning/node-authentication/what-you-should-know?u=76281980&t=23)** The exercise files for this course are on GitHub and while you don't need to do a rebase, basic GIT commands like commit, push, and pull should sound familiar to you.
+> **[0:23](https://www.linkedin.com/learning/node-authentication/what-you-should-know?u=76281980&t=23)** The exercise files for this course are on [[GitHub]] and while you don't need to do a rebase, basic [[Git]] commands like commit, push, and pull should sound familiar to you.
 >
 > **[0:32](https://www.linkedin.com/learning/node-authentication/what-you-should-know?u=76281980&t=32)** If you feel you have to expand your knowledge a bit, you can first take my courses, building a website with Node.js and Express, advanced Express and Node.js databases.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (3), express (3), [[Databases]] (2), [[GitHub]] (2), [[Git]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (3), [[Databases]] (2), [[GitHub]] (2), [[Git]] (2), [[MongoDB]] (1)
 > **CLI Commands:** node (3), git (2)
 > **File Paths:** node.js (3)
 > **Env Vars:** es6 (1), git (1)
@@ -154,14 +152,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading the exercise files from GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980)
+#### [Loading the exercise files from GitHub](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980&t=0)** - [Instructor] All the files for this course are freely available at GitHub repo at this URL.
+> **[0:00](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980&t=0)** - [Instructor] All the files for this course are freely available at [[GitHub]] repo at this URL.
 >
-> **[0:05](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980&t=5)** Please make sure that Git Client is installed on your machine and you have some basic knowledge about what Git and GitHub are and how they work.
+> **[0:05](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980&t=5)** Please make sure that [[Git]] Client is installed on your machine and you have some basic knowledge about what Git and GitHub are and how they work.
 >
 > **[0:13](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980&t=13)** If you're completely new to Git, please search the library for the topic.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980&t=109)** And then I open the terminal.
 >
-> **[1:51](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980&t=111)** This might look different if you're on Windows, but from it's principal it should be the same.
+> **[1:51](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980&t=111)** This might look different if you're on [[Windows]], but from it's principal it should be the same.
 >
 > **[1:55](https://www.linkedin.com/learning/node-authentication/loading-the-exercise-files-from-github?u=76281980&t=115)** I'm now changing into this directory by doing CD.
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (13), [[GitHub]] (5), node (2), [[Search]] (1), career (1)
+> **Frameworks & Libraries:** [[Git]] (13), [[GitHub]] (5), [[Windows]] (1)
 > **CLI Commands:** git (13), ssh (2), node (2), make (1), cd (1)
 > **Tools:** github (5), terminal (2)
 > **Env Vars:** url (2), ssh (2)
@@ -245,8 +242,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare your development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980)
+#### [Prepare your development environment](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980&t=49)** It's ready to run configurations.
 >
-> **[0:51](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980&t=51)** If you are completely unfamiliar to databases in node js, I recommend you taking my course, node js databases first.
+> **[0:51](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980&t=51)** If you are completely unfamiliar to [[Databases]] in node js, I recommend you taking my course, node js databases first.
 >
 > **[0:58](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980&t=58)** Yet, I'll explain all the needed setup steps during this course.
 >
@@ -282,7 +278,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980&t=64)** We first have to install it on our system.
 >
-> **[1:07](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980&t=67)** Docker is available for Mac, Windows, and Linux, and there installation instructions for each of them.
+> **[1:07](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980&t=67)** Docker is available for Mac, [[Windows]], and [[Linux]], and there installation instructions for each of them.
 >
 > **[1:12](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980&t=72)** I already installed Docker on my system, you see also this little Docker icon in my task bar up there.
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[Databases]] (2), next (2), database (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (10), node (7), mongo (4), make (1)
 > **Tools:** terminal (2), visual studio (2)
 > **Prerequisites:** setup (1), install (1), set up (1)
@@ -315,12 +311,11 @@ created: 2026-05-02
 > **Env Vars:** lts (1)
 > **Definitions:** is an  (1)
 
-#### Set up MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/set-up-mongodb?u=76281980)
+#### [Set up MongoDB](https://www.linkedin.com/learning/node-authentication/set-up-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-authentication/set-up-mongodb?u=76281980&t=0)** - [Instructor] Authentication is very often performed against a user database, and we will use MongoDB for that.
+> **[0:00](https://www.linkedin.com/learning/node-authentication/set-up-mongodb?u=76281980&t=0)** - [Instructor] Authentication is very often performed against a user database, and we will use [[MongoDB]] for that.
 >
 > **[0:07](https://www.linkedin.com/learning/node-authentication/set-up-mongodb?u=76281980&t=7)** And setting up MongoDB can be a bit complicated depending on your operating system, we will use Docker to run it.
 >
@@ -344,7 +339,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/node-authentication/set-up-mongodb?u=76281980&t=120)** To restart this container again, you can always later run docker start mongodb, now, of course, MongoDB is already running.
 >
-> **[2:14](https://www.linkedin.com/learning/node-authentication/set-up-mongodb?u=76281980&t=134)** When working with databases it's always a good idea to have some graphical interface to it so that you can look at the content in the database, and we will install one for MongoDB now.
+> **[2:14](https://www.linkedin.com/learning/node-authentication/set-up-mongodb?u=76281980&t=134)** When working with [[Databases]] it's always a good idea to have some graphical interface to it so that you can look at the content in the database, and we will install one for MongoDB now.
 >
 > **[2:25](https://www.linkedin.com/learning/node-authentication/set-up-mongodb?u=76281980&t=145)** I chose to use MongoDB Compass, it's free and provided by the company behind MongoDB.
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (19), database (2), [[Databases]] (2), hit (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (19), [[Databases]] (2)
 > **CLI Commands:** docker (15), make (3), mongo (2)
 > **Tools:** docker desktop (1), terminal (1)
 > **Prerequisites:** install (1), setup (1)
@@ -377,14 +372,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up and understand the playground sample application
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980)
+#### [Set up and understand the playground sample application](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=0)** - [Instructor] This course comes with two sample applications called Playground and Todolist.
 >
-> **[0:05](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=5)** Playground is a simple Express.js web application that uses MongoDB as its database in Mongoose, which is a popular object document mapper.
+> **[0:05](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=5)** Playground is a simple [[Express.js]] web application that uses [[MongoDB]] as its database in Mongoose, which is a popular object document mapper.
 >
 > **[0:15](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=15)** You don't have to be a MongoDB or Mongoose expert to take this course.
 >
@@ -392,19 +386,19 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=24)** Ideally, you can then apply your learnings to any database you may choose.
 >
-> **[0:29](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=29)** To do list is a single page application that uses the JavaScript framework Vue.js.
+> **[0:29](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=29)** To do list is a single page application that uses the [[JavaScript]] framework [[Vue.js]].
 >
 > **[0:35](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=35)** No worries, for this course you don't have to know Vue.js at all, everything is already set up for you.
 >
-> **[0:42](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=42)** But the key thing is that Todolist will later in this course use an API provided by playground and there, I will show you how to authenticate REST API calls.
+> **[0:42](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=42)** But the key thing is that Todolist will later in this course use an API provided by playground and there, I will show you how to authenticate [[Representational State Transfer (REST)|REST]] API calls.
 >
 > **[0:54](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=54)** At the start, we only need the Playground app and to set it up, I have now opened Visual Studio Code, there I'm in the exercise files folder.
 >
 > **[1:02](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=62)** Now I'm opening the internal terminal official Studio Code by clicking on view and then terminal.
 >
-> **[1:10](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=70)** And first I'm going to change into the Playground directory and in there I first run NPM install to install all dependencies for this project.
+> **[1:10](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=70)** And first I'm going to change into the Playground directory and in there I first run [[npm]] install to install all dependencies for this project.
 >
-> **[1:21](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=81)** If you look into this folder then let's open package.json and as you should know already, all the dependencies are listed in here.
+> **[1:21](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=81)** If you look into this folder then let's open package.[[JSON]] and as you should know already, all the dependencies are listed in here.
 >
 > **[1:31](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=91)** But most importantly in line eight you see that we are using Nodemon to start the application during development.
 >
@@ -428,7 +422,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=185)** So they will survive a reload or a redirect on the page.
 >
-> **[3:09](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=189)** If we scroll further, we also see that in line 84 we are initializing the routing system.
+> **[3:09](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=189)** If we scroll further, we also see that in line 84 we are initializing the [[Routing]] system.
 >
 > **[3:15](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=195)** I'm using ExpressRoute to form a route and as you see this index route to here is called as a function and a pass in the config object, so let's look at this index route.
 >
@@ -444,7 +438,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=247)** And if we look really quick into all these directories, we see that there are a lot of routing files and we will work with all of them throughout this course.
 >
-> **[4:17](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=257)** One more important things are the models, so Mongoose relies models that lets us communicate with the database and there we have models for the user, for the Todolist that we will use later and also one model that we'll use later to create tokens to reset a password.
+> **[4:17](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=257)** One more important things are the models, so Mongoose relies models that lets us communicate with the database and there we have models for the user, for the Todolist that we will use later and also one model that we'll use later to create [[Tokens]] to reset a password.
 >
 > **[4:38](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=278)** One quick look into user model and you see, this is a typically Mongoose model.
 >
@@ -454,7 +448,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=304)** And if we open that you see that this user service, for instance, contains all the boilerplate methods that you need to communicate with the database.
 >
-> **[5:16](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=316)** I did that to really take away all that database queries from you so that we can really focus on purely authentication and what this is all about.
+> **[5:16](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=316)** I did that to really take away all that [[Database Queries]] from you so that we can really focus on purely authentication and what this is all about.
 >
 > **[5:27](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-playground-sample-application?u=76281980&t=327)** To finish this up, we also have one directory which is called middlewares and in there I have a validation middleware.
 >
@@ -488,7 +482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[MongoDB]] (9), database (5), [[Routing]] (5), [[Vue.js]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (9), [[Routing]] (5), [[Vue.js]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[npm]] (2)
 > **File Paths:** index.js (3), vue.js (2), app.js (2), express.js (1), package.json (1)
 > **Definitions:** is a  (6), is called (3)
 > **CLI Commands:** npm (2), docker (2), make (1)
@@ -502,8 +496,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Registering new users
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980)
+#### [Registering new users](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,7 +520,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=54)** So we can still not trust the data we are getting.
 >
-> **[0:57](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=57)** This is why for this form, I omitted all HTML validations just to give you a better feel of what it takes to ensure that the provided data is valid.
+> **[0:57](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=57)** This is why for this form, I omitted all [[HTML]] validations just to give you a better feel of what it takes to ensure that the provided data is valid.
 >
 > **[1:08](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=68)** In the end, validation on the client is mostly for convenience for the user to let them know about unintended mistakes before the form is submitted.
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=360)** So now if the email exists already, it's stored in existing email.
 >
-> **[6:04](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=364)** Also note that I'm using a weight here and the method, so the routing function up here is marked as 'async' in line 29.
+> **[6:04](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=364)** Also note that I'm using a weight here and the method, so the [[Routing]] function up here is marked as 'async' in line 29.
 >
 > **[6:13](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=373)** Right next let's do the same for the username.
 >
@@ -693,7 +686,7 @@ created: 2026-05-02
 >
 > **[11:20](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=680)** I want to redirect the user then to the login form.
 >
-> **[11:23](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=683)** This is also good practice when dealing with forms, redirect the user in the end so that they can not hit the form again and again, and maybe trigger an error or resend it all the time and maybe create one database entry after the other.
+> **[11:23](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=683)** This is also good practice when dealing with [[Forms]], redirect the user in the end so that they can not hit the form again and again, and maybe trigger an error or resend it all the time and maybe create one database entry after the other.
 >
 > **[11:40](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=700)** So best practice is to return a 'response.redirect', and we redirect to the route 'auth/login'.
 >
@@ -717,11 +710,11 @@ created: 2026-05-02
 >
 > **[12:35](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=755)** Let's click on that and then click connect.
 >
-> **[12:39](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=759)** And there you see, we now have a new database, 'linkedIn note authentication'.
+> **[12:39](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=759)** And there you see, we now have a new database, '[[LinkedIn]] note authentication'.
 >
 > **[12:44](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=764)** This was created automatically.
 >
-> **[12:46](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=766)** And if you click into that, we also see that there is now a collection for reset tokens, to do list items.
+> **[12:46](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=766)** And if you click into that, we also see that there is now a collection for reset [[Tokens]], to do list items.
 >
 > **[12:53](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980&t=773)** These were also created automatically with the models we defined in the application.
 >
@@ -745,7 +738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (7), next (3), application (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Routing]] (1), [[Forms]] (1), [[LinkedIn]] (1), [[Tokens]] (1)
 > **CLI Commands:** make (4), mongo (3), find (2)
 > **UI Navigation:** click on (5), scroll up (1)
 > **Definitions:** is a  (3)
@@ -754,8 +747,7 @@ created: 2026-05-02
 > **File Paths:** registration.js (1)
 > **Code Identifiers:** linkedin (1)
 
-#### Why plaintext passwords are bad
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/why-plaintext-passwords-are-bad?u=76281980)
+#### [Why plaintext passwords are bad](https://www.linkedin.com/learning/node-authentication/why-plaintext-passwords-are-bad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -793,7 +785,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/node-authentication/why-plaintext-passwords-are-bad?u=76281980&t=88)** The hashing function that we will use is provided by a module called bcrypt.
 >
-> **[1:33](https://www.linkedin.com/learning/node-authentication/why-plaintext-passwords-are-bad?u=76281980&t=93)** It's kind of the gold standard for hashing in Node.js.
+> **[1:33](https://www.linkedin.com/learning/node-authentication/why-plaintext-passwords-are-bad?u=76281980&t=93)** It's kind of the gold standard for hashing in [[Node.js]].
 >
 > **[1:37](https://www.linkedin.com/learning/node-authentication/why-plaintext-passwords-are-bad?u=76281980&t=97)** Bcrypt takes three input arguments.
 >
@@ -833,7 +825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), product (1), [[Node.js]] (1), database (1), application (1)
+> **Frameworks & Libraries:** [[Node.js]] (1)
 > **CLI Commands:** node (1), find (1)
 > **File Paths:** node.js (1)
 > **Code Identifiers:** haveibeenpwned (1)
@@ -841,8 +833,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hashing and validating passwords with bcrypt
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/hashing-and-validating-passwords-with-bcrypt?u=76281980)
+#### [Hashing and validating passwords with bcrypt](https://www.linkedin.com/learning/node-authentication/hashing-and-validating-passwords-with-bcrypt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -854,7 +845,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/node-authentication/hashing-and-validating-passwords-with-bcrypt?u=76281980&t=29)** The first thing I have to do is I have to install bcrypt.
 >
-> **[0:33](https://www.linkedin.com/learning/node-authentication/hashing-and-validating-passwords-with-bcrypt?u=76281980&t=33)** So I'm stopping the Node.js process now with Ctrl C, and then I'll run npm install-S bcrypt.
+> **[0:33](https://www.linkedin.com/learning/node-authentication/hashing-and-validating-passwords-with-bcrypt?u=76281980&t=33)** So I'm stopping the [[Node.js]] process now with Ctrl C, and then I'll run [[npm]] install-S bcrypt.
 >
 > **[0:47](https://www.linkedin.com/learning/node-authentication/hashing-and-validating-passwords-with-bcrypt?u=76281980&t=47)** Next we of course have to require bcrypt in our model file.
 >
@@ -962,7 +953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), database (3), [[Node.js]] (2), [[npm]] (2), express (2)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (2)
 > **CLI Commands:** node (3), make (2), npm (2)
 > **Code Identifiers:** generatehash (1), ismodified (1), usersschema (1)
 > **File Paths:** node.js (2)
@@ -971,8 +962,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 
-#### Implementing login and logout
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980)
+#### [Implementing login and logout](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -984,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=21)** The Playground App already comes with the login form, so if you click on login in the top nav, or also on this screen login button, you end up at this login form that asks for username and the password.
 >
-> **[0:35](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=35)** It also comes with a remember me feature, we will cover that a bit later, and it also offers a social login via GitHub, and we will cover that later in this course.
+> **[0:35](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=35)** It also comes with a remember me feature, we will cover that a bit later, and it also offers a social login via [[GitHub]], and we will cover that later in this course.
 >
 > **[0:47](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=47)** First, we will head into Visual Studio Code, to implement the validation of the user's credentials for that I open playground. server, routes, auth and there we have a dedicated file login.js, and as you see again in line three, we require the user service, which we use to talk to the database.
 >
@@ -1016,7 +1006,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=257)** So in models, user model, scroll down and there is this method here in line 65, which is available on each user object that we get from our views, and it's called compare password, and it uses the bcrypt compare function to validate or compare a given password with the password that is on the database.
 >
-> **[4:43](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=283)** So let's hit back into login.js, and there right now, can add const is valid equals await, and there is this user object that we loaded from MongoDB and they are now called compare password, and then pass in req.body.password.
+> **[4:43](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=283)** So let's hit back into login.js, and there right now, can add const is valid equals await, and there is this user object that we loaded from [[MongoDB]] and they are now called compare password, and then pass in req.body.password.
 >
 > **[5:07](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=307)** Now, this is now pretty straightforward.
 >
@@ -1056,11 +1046,11 @@ created: 2026-05-02
 >
 > **[9:57](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=597)** So the application would expect this differently, and it also makes sense to of course load the user, but right now we just store the user in the session.
 >
-> **[10:07](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=607)** So what we have to do next is to create the middleware that does this, loading the user with the given user ID from the database, and then providing it to the rest of the application, and we will do this in the next video.
+> **[10:07](https://www.linkedin.com/learning/node-authentication/implementing-login-and-logout?u=76281980&t=607)** So what we have to do next is to create the middleware that does this, loading the user with the given user ID from the database, and then providing it to the [[Representational State Transfer (REST)|rest]] of the application, and we will do this in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), next (5), application (3), [[MongoDB]] (2), feature (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** scroll down (5), click on (2)
 > **CLI Commands:** find (5), make (1)
 > **File Paths:** login.js (3)
@@ -1069,8 +1059,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1), in the next (1)
 > **Tools:** github (1), visual studio (1)
 
-#### Deserializing the logged in user from the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/deserializing-the-logged-in-user-from-the-database?u=76281980)
+#### [Deserializing the logged in user from the database](https://www.linkedin.com/learning/node-authentication/deserializing-the-logged-in-user-from-the-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,7 +1119,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), database (6), express (2), feature (1)
 > **Code Identifiers:** userid (9)
 > **Tools:** visual studio (3)
 > **Cross-References:** later in (1), in the next (1)
@@ -1139,8 +1127,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - so (1)
 
-#### Offer remember me
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/offer-remember-me?u=76281980)
+#### [Offer remember me](https://www.linkedin.com/learning/node-authentication/offer-remember-me?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,7 +1237,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), application (1), next (1)
 > **UI Navigation:** click on (6), checkbox (3), scroll down (2), go to (2)
 > **Definitions:** means that (3), is called (1)
 > **CLI Commands:** make (2)
@@ -1258,9 +1244,9 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** initialization (1)
+> **Speakers:** - [instructor] (1)
 
-#### Require user verification
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/require-user-verification?u=76281980)
+#### [Require user verification](https://www.linkedin.com/learning/node-authentication/require-user-verification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1384,7 +1370,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (3), database (2), [[Security]] (2), express (1)
 > **UI Navigation:** click on (7), toggle (1), scroll down (1), open the (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** findbyid (1), userid (1), verificationtoken (1)
@@ -1392,9 +1377,9 @@ created: 2026-05-02
 > **Env Vars:** url (2)
 > **Tools:** visual studio (2)
 > **API Endpoints:** get  (1)
+> **Cross-References:** in the next (1)
 
-#### Resetting passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/resetting-passwords?u=76281980)
+#### [Resetting passwords](https://www.linkedin.com/learning/node-authentication/resetting-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1454,7 +1439,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/node-authentication/resetting-passwords?u=76281980&t=136)** Let's have a quick look into the code to see what we have already.
 >
-> **[2:21](https://www.linkedin.com/learning/node-authentication/resetting-passwords?u=76281980&t=141)** So in vicious to the code, and now I want to show you how this expirable tokens are made.
+> **[2:21](https://www.linkedin.com/learning/node-authentication/resetting-passwords?u=76281980&t=141)** So in vicious to the code, and now I want to show you how this expirable [[Tokens]] are made.
 >
 > **[2:28](https://www.linkedin.com/learning/node-authentication/resetting-passwords?u=76281980&t=148)** So I go into server, models and, there is this reset token model.
 >
@@ -1466,7 +1451,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/node-authentication/resetting-passwords?u=76281980&t=171)** In our case, the token will now be valid for one hour.
 >
-> **[2:55](https://www.linkedin.com/learning/node-authentication/resetting-passwords?u=76281980&t=175)** After that Mongodb will automatically delete this record.
+> **[2:55](https://www.linkedin.com/learning/node-authentication/resetting-passwords?u=76281980&t=175)** After that [[MongoDB]] will automatically delete this record.
 >
 > **[2:59](https://www.linkedin.com/learning/node-authentication/resetting-passwords?u=76281980&t=179)** So that's a built in feature of Mongodb.
 >
@@ -1490,7 +1475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (6), [[MongoDB]] (3), [[Security]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[MongoDB]] (3)
 > **CLI Commands:** find (3)
 > **UI Navigation:** scroll down (2), click on (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1498,8 +1483,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - i (1)
 
-#### Implementing the password reset flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/implementing-the-password-reset-flow?u=76281980)
+#### [Implementing the password reset flow](https://www.linkedin.com/learning/node-authentication/implementing-the-password-reset-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,7 +1559,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/node-authentication/implementing-the-password-reset-flow?u=76281980&t=304)** So we had back individuals to the code and there we have to implement this, get route to verify the reset token and show the form to change the password.
 >
-> **[5:15](https://www.linkedin.com/learning/node-authentication/implementing-the-password-reset-flow?u=76281980&t=315)** Let's see if we get the user ready and to rest token as request params.
+> **[5:15](https://www.linkedin.com/learning/node-authentication/implementing-the-password-reset-flow?u=76281980&t=315)** Let's see if we get the user ready and to [[Representational State Transfer (REST)|rest]] token as request params.
 >
 > **[5:20](https://www.linkedin.com/learning/node-authentication/implementing-the-password-reset-flow?u=76281980&t=320)** So what will we do now? I add const, reset, token equals await user service.
 >
@@ -1697,7 +1681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (5), make (3)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (3)
@@ -1710,14 +1694,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Passport.js for authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980)
+#### [Using Passport.js for authentication](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=0)** - Passport is the most widely used authentication module for Node.js.
+> **[0:00](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=0)** - Passport is the most widely used authentication module for [[Node.js]].
 >
-> **[0:05](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=5)** You'll find it at [passportjs.org](https://passportjs.org) and on GitHub.
+> **[0:05](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=5)** You'll find it at [passportjs.org](https://passportjs.org) and on [[GitHub]].
 >
 > **[0:09](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=9)** Conceptually, Passport provides an authenticate function.
 >
@@ -1747,13 +1730,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=89)** For instance, you can store the user ID with the session and decentralize function built in.
 >
-> **[1:36](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=96)** Fetch the user with this user ID from the database, and then it will provide this user and the request that user to all following middleware and droughts.
+> **[1:36](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=96)** [[Fetch]] the user with this user ID from the database, and then it will provide this user and the request that user to all following middleware and droughts.
 >
 > **[1:48](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980&t=108)** In the next videos, we're going to add passport to a playground application, and start using it for authentication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[GitHub]] (2), database (2), application (2), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Node.js]] (1), [[Fetch]] (1)
 > **CLI Commands:** node (1), find (1)
 > **Tools:** github (2)
 > **File Paths:** node.js (1)
@@ -1762,8 +1745,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - passport (1)
 
-#### Implementing local authentication with Passport.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980)
+#### [Implementing local authentication with Passport.js](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1771,13 +1753,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=7)** To kick this off, you first have to of course installed Passport and also the Local Strategy Module.
 >
-> **[0:15](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=15)** For that, I'm stopping the Node.js process by pressing Control C in the console and there now type npm install -S passport passport-local.
+> **[0:15](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=15)** For that, I'm stopping the [[Node.js]] process by pressing Control C in the console and there now type [[npm]] install -S passport passport-local.
 >
 > **[0:32](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=32)** So that's the LocalStrategy.
 >
 > **[0:36](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=36)** The LocalStrategy is always used when you have to implement your own logic on how credentials should be verified.
 >
-> **[0:43](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=43)** In our case, now this means that we will validate against MongoDB.
+> **[0:43](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=43)** In our case, now this means that we will validate against [[MongoDB]].
 >
 > **[0:46](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=46)** I already prepared the empty module where we will implement all the authentication logic.
 >
@@ -1861,7 +1843,7 @@ created: 2026-05-02
 >
 > **[7:27](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=447)** As we have a serialized user, we also have to find a way to deserialize the user and this is again, similar to what we did before.
 >
-> **[7:34](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=454)** We have to fetch the user with the given user.id from the database.
+> **[7:34](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=454)** We have to [[Fetch]] the user with the given user.id from the database.
 >
 > **[7:40](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=460)** So add passport.deserializeUser and this is an async function, it gets id that's the user.id and again, there is a done callback.
 >
@@ -1877,7 +1859,7 @@ created: 2026-05-02
 >
 > **[8:59](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=539)** So with that, we have a central module where we configure passport and set everything up that we need.
 >
-> **[9:08](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=548)** Next, we have to hook this module now up with the rest of the application.
+> **[9:08](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=548)** Next, we have to hook this module now up with the [[Representational State Transfer (REST)|rest]] of the application.
 >
 > **[9:12](https://www.linkedin.com/learning/node-authentication/implementing-local-authentication-with-passport-js?u=76281980&t=552)** For that, I open app.js and right after via requiring the UserService I now add const setupPassport equals require,
 >
@@ -1963,7 +1945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), express (3), management (3), [[Node.js]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (2), [[MongoDB]] (2), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** usernamefield (4), setuppassport (3), passwordfield (2), passreqtocallback (1), passrequesttocallback (1)
 > **Definitions:** means that (3), is an  (3), is called (3), is a  (3)
 > **CLI Commands:** node (2), npm (2), make (2), find (1)
@@ -1972,8 +1954,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (4)
 > **Prerequisites:** set up (2), install (1), configure (1)
 
-#### Securing routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980)
+#### [Securing routes](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2005,7 +1986,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=112)** So that's a middleware provided by this module.
 >
-> **[1:55](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=115)** And this middleware does nothing else than looking into the request object and the data structures created by Passport in there to see if a user is actually logged in.
+> **[1:55](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=115)** And this middleware does nothing else than looking into the request object and the [[Data Structures]] created by Passport in there to see if a user is actually logged in.
 >
 > **[2:05](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=125)** So to use it now, we scroll down to the my account route, and there I will now simply add ensure logged in, and there's an argument that just passing the route, the user should be redirected too if they're not logged in.
 >
@@ -2031,17 +2012,17 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=214)** And this works and next, I will now try to log in lcorla, my secret too, and let's click on login and this now should bring us back to the my account page.
 >
-> **[3:49](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=229)** So let's see if this works, and you see, yes, we are back at the my account page, and that's a very good user experience because you wanted to access the page, but you had to provide your credentials first, but now you're back on the page where you wanted to go in the first place.
+> **[3:49](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=229)** So let's see if this works, and you see, yes, we are back at the my account page, and that's a very good [[User Experience (UX)|user experience]] because you wanted to access the page, but you had to provide your credentials first, but now you're back on the page where you wanted to go in the first place.
 >
 > **[4:04](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=244)** With that we can authenticate users using Passport, and we can also secure routes with it.
 >
 > **[4:09](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=249)** One of the strengths of Passport is that it comes with hundreds of strategies for every authentication mechanism you can think of.
 >
-> **[4:17](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=257)** And starting with the next video, we will look into what needs to be done to secure REST APIs using Passport.
+> **[4:17](https://www.linkedin.com/learning/node-authentication/securing-routes?u=76281980&t=257)** And starting with the next video, we will look into what needs to be done to secure [[Representational State Transfer (REST)|REST]] APIs using Passport.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), node (1), application (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pim (1), url (1), rest (1)
 > **UI Navigation:** scroll down (2), click on (1)
 > **Prerequisites:** install (3)
@@ -2050,14 +2031,13 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Analogies:** imagine (1)
 
-#### Set up and understand the ToDo list sample application
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980)
+#### [Set up and understand the ToDo list sample application](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980&t=0)** - [Instructor] For the rest of this chapter, we will take a look at how to secure single-page applications, as they are very common these days and have specific requirements when it comes to authentication.
+> **[0:00](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980&t=0)** - [Instructor] For the [[Representational State Transfer (REST)|rest]] of this chapter, we will take a look at how to secure single-page applications, as they are very common these days and have specific requirements when it comes to authentication.
 >
-> **[0:11](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980&t=11)** The single-page application we will be working with is a todolist implemented with Vue.js This application is fully implemented, so there is no need to understand Vue.js.
+> **[0:11](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980&t=11)** The single-page application we will be working with is a todolist implemented with [[Vue.js]] This application is fully implemented, so there is no need to understand Vue.js.
 >
 > **[0:24](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980&t=24)** All you need to know is that it utilizes an API provided by the Playground app.
 >
@@ -2087,7 +2067,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980&t=182)** So now let's set up and run this todolist application.
 >
-> **[3:05](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980&t=185)** For that, I open another integrate terminal by clicking on this plus here on the top right of the terminal, and in here I change now into, todolist and as it's a new project then I'll have to run npm install, and this will now pull down a lot of stuff because it's a Vue.js application, and of course it's all those front-end projects, it has a lot of dependencies.
+> **[3:05](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980&t=185)** For that, I open another integrate terminal by clicking on this plus here on the top right of the terminal, and in here I change now into, todolist and as it's a new project then I'll have to run [[npm]] install, and this will now pull down a lot of stuff because it's a Vue.js application, and of course it's all those front-end projects, it has a lot of dependencies.
 >
 > **[3:32](https://www.linkedin.com/learning/node-authentication/set-up-and-understand-the-todo-list-sample-application?u=76281980&t=212)** While this is running let's just have one look into the, todolist application, so open todolist and in source, you find all the Vue.js components, and there is also a folder api, and in there you find actually the whole metric that deals with the rest API.
 >
@@ -2115,7 +2095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (16), application (10), [[Vue.js]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[npm]] (2)
+> **Frameworks & Libraries:** [[Vue.js]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[npm]] (2)
 > **Env Vars:** api (9), post (2), url (2), put (1), delete (1)
 > **CLI Commands:** find (4), npm (2)
 > **API Endpoints:** post  (2), get  (1), /api/todolist (1), put  (1), delete  (1)
@@ -2124,8 +2104,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2), terminal (2)
 > **Code Identifiers:** todolistrouter (1), additem (1), updateitems (1)
 
-#### Authenticating API calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/authenticating-api-calls?u=76281980)
+#### [Authenticating API calls](https://www.linkedin.com/learning/node-authentication/authenticating-api-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2161,7 +2140,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/node-authentication/authenticating-api-calls?u=76281980&t=106)** Now let's look at API calls from single page applications.
 >
-> **[1:50](https://www.linkedin.com/learning/node-authentication/authenticating-api-calls?u=76281980&t=110)** In single page applications, the page only loads once from the server with the initial request, the rest is done by JavaScript and communication with the service done through API calls with XHR or Fetch.
+> **[1:50](https://www.linkedin.com/learning/node-authentication/authenticating-api-calls?u=76281980&t=110)** In single page applications, the page only loads once from the server with the initial request, the [[Representational State Transfer (REST)|rest]] is done by [[JavaScript]] and communication with the service done through API calls with XHR or [[Fetch]].
 >
 > **[2:03](https://www.linkedin.com/learning/node-authentication/authenticating-api-calls?u=76281980&t=123)** Let's assume we're now sending username and password to the regular login route that used cookie-based session.
 >
@@ -2181,7 +2160,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/node-authentication/authenticating-api-calls?u=76281980&t=192)** In short, single page applications and XHR don't mix well with cookies.
 >
-> **[3:18](https://www.linkedin.com/learning/node-authentication/authenticating-api-calls?u=76281980&t=198)** So there have to be other ways and JSON Web Tokens, short JWT are one of them.
+> **[3:18](https://www.linkedin.com/learning/node-authentication/authenticating-api-calls?u=76281980&t=198)** So there have to be other ways and [[JSON]] Web [[Tokens]], short JWT are one of them.
 >
 > **[3:24](https://www.linkedin.com/learning/node-authentication/authenticating-api-calls?u=76281980&t=204)** Let's look at the same flow and now we are using JWT.
 >
@@ -2269,7 +2248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Tokens]] (6), database (3), application (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[JavaScript]] (2), [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1)
 > **Env Vars:** jwt (11), api (7), xhr (6), json (2), uhs (1)
 > **Definitions:** is a  (3), means that (2)
 > **CLI Commands:** make (1), find (1)
@@ -2277,8 +2256,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and sending JWT tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980)
+#### [Creating and sending JWT tokens](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2312,13 +2290,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=112)** If we look into gitignore and scroll way down, you see that in line 58, I have added .env to the ignore list.
 >
-> **[2:01](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=121)** If I now commit and push to GitHub, for instance, this file won't be committed and this means that my credentials, secret, whatever, won't ever be leaked into GitHub because that's a very common security problem that happens once in a while that people just commit their secret tokens to GitHub.
+> **[2:01](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=121)** If I now commit and push to [[GitHub]], for instance, this file won't be committed and this means that my credentials, secret, whatever, won't ever be leaked into GitHub because that's a very common security problem that happens once in a while that people just commit their secret [[Tokens]] to GitHub.
 >
 > **[2:22](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=142)** With that done, let's now implement the route that creates this JWT token and for that, I open routes, api, and there index.js.
 >
-> **[2:36](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=156)** And as so often with Node.js, there is already a module that helps us with dealing with JSON web tokens and I install it now.
+> **[2:36](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=156)** And as so often with [[Node.js]], there is already a module that helps us with dealing with [[JSON]] web tokens and I install it now.
 >
-> **[2:44](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=164)** So I run npm install -S jsonwebtoken.
+> **[2:44](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=164)** So I run [[npm]] install -S jsonwebtoken.
 >
 > **[2:54](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=174)** And then I'm starting the application right away again and here around line two, I now add const jwt equals require jsonwebtoken
 >
@@ -2362,9 +2340,9 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=367)** So I add return and I want to return a JSON payload, so it's res.json and in there, I know send an object and the property's jwt and the value is token.
 >
-> **[6:23](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=383)** And please note that this is completely arbitrary, so in my Vue app, I just know that the token has to come along in a property called jwt but you could also just call it token, for instance, so that's completely up between the API and the consumer of the API.
+> **[6:23](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=383)** And please note that this is completely arbitrary, so in my [[Vue.js|Vue]] app, I just know that the token has to come along in a property called jwt but you could also just call it token, for instance, so that's completely up between the API and the consumer of the API.
 >
-> **[6:43](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=403)** And with that, we can already try this out in our Vue.js app.
+> **[6:43](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=403)** And with that, we can already try this out in our [[Vue.js]] app.
 >
 > **[6:49](https://www.linkedin.com/learning/node-authentication/creating-and-sending-jwt-tokens?u=76281980&t=409)** And now let's try to log in.
 >
@@ -2388,7 +2366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (3), [[GitHub]] (3), [[Tokens]] (3), api (3)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Tokens]] (3), [[JSON]] (3), [[Node.js]] (1), [[npm]] (1)
 > **Env Vars:** jwt (6), jwtsecret (4), json (2), api (2)
 > **File Paths:** index.js (2), process.env (2), node.js (1), params.config (1), res.json (1)
 > **Tools:** github (3), terminal (2)
@@ -2397,8 +2375,7 @@ created: 2026-05-02
 > **Code Identifiers:** userid (1), expiresin (1)
 > **Analogies:** for instance (2)
 
-#### Implementing JWT authentication with passport
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980)
+#### [Implementing JWT authentication with passport](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2408,11 +2385,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=35)** And of course, passport comes with a JWT strategy but we have to install it first.
 >
-> **[0:42](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=42)** So I'm stopping this process here in the terminal and I now type npm install -S passport-jwt.
+> **[0:42](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=42)** So I'm stopping this process here in the terminal and I now type [[npm]] install -S passport-jwt.
 >
 > **[0:54](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=54)** So this is the passport-jwt strategy.
 >
-> **[0:57](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=57)** And I run Node.js again and I will now start by first bringing in the strategy.
+> **[0:57](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=57)** And I run [[Node.js]] again and I will now start by first bringing in the strategy.
 >
 > **[1:05](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=65)** So add const passportJWT equals require passport-jwt.
 >
@@ -2440,7 +2417,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=140)** And right before we do the serializeUser and after the local strategy configuration, I now add passport.use, the same as with the local strategy and now I add new JWTStrategy and then we have this configuration object and there we now define jwtFromRequest and this is done now via ExtractJWT.fromAuthAsBearerToken.
 >
-> **[3:02](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=182)** So this uses this ExtractJWT helper to extract the JWT token from this bearer token header that we are sending from the Vue.js application.
+> **[3:02](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=182)** So this uses this ExtractJWT helper to extract the JWT token from this bearer token header that we are sending from the [[Vue.js]] application.
 >
 > **[3:15](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=195)** And just real quick, so in case you don't believe me, let's head into this application real quick.
 >
@@ -2474,7 +2451,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=307)** Well, if you remembered, when we created the token here in routes, api, index.js, we wrote it into userId.
 >
-> **[5:20](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=320)** So it is now inside the payload of the token and with that, we can just fetch it from jwtPayload.userId.
+> **[5:20](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=320)** So it is now inside the payload of the token and with that, we can just [[Fetch]] it from jwtPayload.userId.
 >
 > **[5:33](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=333)** And in case everything works fine, we will have a user then and we will now return null and the user, as we did before.
 >
@@ -2494,7 +2471,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=392)** So I now add passport.authenticate and the strategy is now not local but jwt, so we instruct passport to look into the header and try to extract the JWT token there and again, session is false because we don't need a session or the user stored into the session here.
 >
-> **[6:58](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=418)** Then, of course, we also don't want to return not implemented but we will return res.json and in this JSON object, I now write username: request.user.username.
+> **[6:58](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=418)** Then, of course, we also don't want to return not implemented but we will return res.[[JSON]] and in this JSON object, I now write username: request.user.username.
 >
 > **[7:19](https://www.linkedin.com/learning/node-authentication/implementing-jwt-authentication-with-passport?u=76281980&t=439)** Again, the Vue.js application is configured in a way so that it expects the username in this property.
 >
@@ -2620,7 +2597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), api (10), [[Vue.js]] (6), next (4), [[Fetch]] (3)
+> **Frameworks & Libraries:** [[Vue.js]] (6), [[Fetch]] (3), [[JSON]] (2), [[npm]] (1), [[Node.js]] (1)
 > **Env Vars:** jwt (15), api (5), url (2), jwtsecret (1), json (1)
 > **Code Identifiers:** passportjwt (3), userid (3), jwtpayload (2), updateitem (2), serializeuser (1)
 > **File Paths:** index.js (6), vue.js (6), node.js (1), res.json (1)
@@ -2629,8 +2606,7 @@ created: 2026-05-02
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **Prerequisites:** configure (2), install (2)
 
-#### Ensuring object level authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/ensuring-object-level-authorization?u=76281980)
+#### [Ensuring object level authorization](https://www.linkedin.com/learning/node-authentication/ensuring-object-level-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2710,7 +2686,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), application (2), data (1), database (1), [[Security]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** api (3), jwt (1)
 > **UI Navigation:** click on (2)
@@ -2723,8 +2698,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Authentication, authorization, and single sign-on (SSO)
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980)
+#### [Authentication, authorization, and single sign-on (SSO)](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2764,7 +2738,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=94)** And it really depends on which technology or standard that you're using, but in a nutshell, it works like that.
 >
-> **[1:41](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=101)** So in the morning, you come to the office and switch on your computer.
+> **[1:41](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=101)** So in the morning, you come to the [[Microsoft Office|office]] and switch on your computer.
 >
 > **[1:45](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=105)** And you want to access some internal application like email.
 >
@@ -2820,7 +2794,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=223)** So if you're working in an enterprise.
 >
-> **[3:45](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=225)** And you have maybe a log in against an Asia-active directory or something similar, you're using most likely SAML.
+> **[3:45](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=225)** And you have maybe a log in against an Asia-[[Active Directory]] or something similar, you're using most likely SAML.
 >
 > **[3:54](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=234)** Then there is OAuth 2.0 aka OAuth2.
 >
@@ -2854,13 +2828,13 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=303)** Regardless, passport likely comes with a strategy for it.
 >
-> **[5:07](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=307)** For our example, we will use GitHub as OAuth provider.
+> **[5:07](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=307)** For our example, we will use [[GitHub]] as OAuth provider.
 >
 > **[5:10](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980&t=310)** And I will show you a popular way to use it for authentication, although it does not support OpenID Connect.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (1), [[Microsoft Office|Office]] (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Active Directory]] (1), [[GitHub]] (1)
 > **Env Vars:** sso (4), saml (3), api (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.0 (1)
@@ -2869,14 +2843,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Warnings:** note that (1)
 
-#### The GitHub OAuth2 authorization (and authentication) flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980)
+#### [The GitHub OAuth2 authorization (and authentication) flow](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=0)** - [Instructor] Social login is a form of single sign-on using existing information from a social networking service to log into another service without providing username and password for it.
 >
-> **[0:10](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=10)** I'm sure you've already used your Google, Twitter, Facebook, or LinkedIn account to sign in to some other application and also hi that behind the scenes, you were using OAuth 2.0 for this.
+> **[0:10](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=10)** I'm sure you've already used your [[Google]], Twitter, Facebook, or [[LinkedIn]] account to sign in to some other application and also hi that behind the scenes, you were using OAuth 2.0 for this.
 >
 > **[0:22](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=22)** Technically, this means you were giving the app you were using access to the API of the service on your behalf.
 >
@@ -2884,7 +2857,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=36)** After this video, you will understand how this is done.
 >
-> **[0:39](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=39)** We will use GitHub to implement social sign on.
+> **[0:39](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=39)** We will use [[GitHub]] to implement social sign on.
 >
 > **[0:42](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=42)** It is an OAuth provider as well.
 >
@@ -2944,7 +2917,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=247)** And now authorization is basically done because now we have authorized our app against GitHub and now the authentication of our user starts because what we are now doing is we send a request to api.[github.com/user](https://github.com/user) and send the access_token with it.
 >
-> **[4:27](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=267)** And with this access-Token, we are now allowed to fetch the user information and get back the user profile.
+> **[4:27](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=267)** And with this access-Token, we are now allowed to [[Fetch]] the user information and get back the user profile.
 >
 > **[4:34](https://www.linkedin.com/learning/node-authentication/the-github-oauth2-authorization-and-authentication-flow?u=76281980&t=274)** And with that, we have now, though OAuth does not provide authentication directly, identified the user.
 >
@@ -2970,7 +2943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (22), application (3), api (3), [[Google]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (22), [[Google]] (1), [[LinkedIn]] (1), [[Fetch]] (1)
 > **Tools:** github (22)
 > **Code Identifiers:** access_token (3), client_id (2), redirect_uri (2), client_secret (1)
 > **Env Vars:** url (4), api (2), uml (1), post (1)
@@ -2979,12 +2952,11 @@ created: 2026-05-02
 > **Versions:** 2.0 (3)
 > **URLs:** [github.com](https://github.com) (2)
 
-#### Prepare Passport.js for GitHub OAuth2
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980)
+#### [Prepare Passport.js for GitHub OAuth2](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=0)** - [Instructor] Now to kick this off, let's now register this Oauth app in github for that I head into the browser and on the top, right where my profile pic is I click on settings and then I scroll down and select developer settings.
+> **[0:00](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=0)** - [Instructor] Now to kick this off, let's now register this Oauth app in [[GitHub]] for that I head into the browser and on the top, right where my profile pic is I click on settings and then I scroll down and select developer settings.
 >
 > **[0:18](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=18)** And there, I can now click on auth apps and there, and I now click on new OAuth app and then give the app name.
 >
@@ -3018,7 +2990,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=129)** So now we have a registered auth app running on GitHub.
 >
-> **[2:13](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=133)** Next, we need a strategy for GitHub and for that we install, npm install - S passport, and now be careful github2 because this is the most recent version that supports the latest GitHub API.
+> **[2:13](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=133)** Next, we need a strategy for GitHub and for that we install, [[npm]] install - S passport, and now be careful github2 because this is the most recent version that supports the latest GitHub API.
 >
 > **[2:32](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=152)** So let's install this and now I head into server lib in passport index and let's bring in now the GitHub strategy.
 >
@@ -3054,7 +3026,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=319)** Let's just real quick save that away.
 >
-> **[5:22](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=322)** So that eslint is happy.
+> **[5:22](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=322)** So that [[ESLint]] is happy.
 >
 > **[5:24](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=324)** So it's request accessToken, a refreshToken, a profile, and the done callback.
 >
@@ -3068,13 +3040,13 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=349)** If we really wanted to create a GitHub Integration.
 >
-> **[5:53](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=353)** This means if we wanted to really continuously fetch information from GitHub, then we would need to store this accessToken.
+> **[5:53](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=353)** This means if we wanted to really continuously [[Fetch]] information from GitHub, then we would need to store this accessToken.
 >
 > **[6:02](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=362)** In our case, we don't need it because behind the scenes, when this callback is called, the strategy already has used this accessToken to fetch the user profile.
 >
 > **[6:13](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=373)** The next argument is the refreshToken.
 >
-> **[6:16](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=376)** We don't need it, and it will also be empty because expire able tokens are right now, opt in feature in GitHub.
+> **[6:16](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=376)** We don't need it, and it will also be empty because expire able [[Tokens]] are right now, opt in feature in GitHub.
 >
 > **[6:25](https://www.linkedin.com/learning/node-authentication/prepare-passport-js-for-github-oauth2?u=76281980&t=385)** And we haven't enabled that.
 >
@@ -3206,7 +3178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (25), next (9), application (4), api (3), [[Fetch]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (25), [[Fetch]] (3), [[npm]] (2), [[ESLint]] (1), [[Tokens]] (1)
 > **Tools:** github (25), visual studio (3)
 > **Code Identifiers:** accesstoken (5), refreshtoken (4), passreqtocallback (1)
 > **Env Vars:** url (3), api (3), gwt (1), github_client_id (1), github_client_secret (1)
@@ -3215,8 +3187,7 @@ created: 2026-05-02
 > **CLI Commands:** npm (2), make (1), find (1)
 > **Cross-References:** we talked about (2), next video (1)
 
-#### Extend the application for single sign-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980)
+#### [Extend the application for single sign-on](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3224,7 +3195,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=3)** We also need to extend the database a bit to support storing the profile ID.
 >
-> **[0:09](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=9)** The main challenge is that GitHub supports multiple email addresses and that for us, the email address is a mandatory field.
+> **[0:09](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=9)** The main challenge is that [[GitHub]] supports multiple email addresses and that for us, the email address is a mandatory field.
 >
 > **[0:17](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=17)** So if we get the profile with two email addresses, which one should we take?
 >
@@ -3238,13 +3209,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=51)** For that, I open server, models, UserModel and there somewhere down there after the verification token, I now add a structure for the profile ID.
 >
-> **[1:05](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=65)** And I want this to be an array because I want to be able to maybe store later a Facebook ID or a Google ID or whatever.
+> **[1:05](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=65)** And I want this to be an array because I want to be able to maybe store later a Facebook ID or a [[Google]] ID or whatever.
 >
 > **[1:16](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=76)** So this should be agnostic to the provider of the OAuth.
 >
 > **[1:22](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=82)** So I call this field oauthprofiles.
 >
-> **[1:25](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=85)** And as I said, this is an array, so that's a notation to create an array structure in MongoDB and in there, I can now define the data this array holds.
+> **[1:25](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=85)** And as I said, this is an array, so that's a notation to create an array structure in [[MongoDB]] and in there, I can now define the data this array holds.
 >
 > **[1:39](https://www.linkedin.com/learning/node-authentication/extend-the-application-for-single-sign-on?u=76281980&t=99)** And first, I want to have a field provider and this is type: String and I also want to have a field profileId.
 >
@@ -3492,7 +3463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (19), database (6), [[MongoDB]] (4), next (4), data (3)
+> **Frameworks & Libraries:** [[GitHub]] (19), [[MongoDB]] (4), [[Google]] (1)
 > **Code Identifiers:** profileid (7), tempoauthprofile (6), returnto (3), createsocialuser (2), oauthprofile (2)
 > **Tools:** github (19)
 > **CLI Commands:** find (5), make (3)
@@ -3501,14 +3472,13 @@ created: 2026-05-02
 > **File Paths:** index.js (1), github.js (1)
 > **Env Vars:** url (1)
 
-#### Finalize and test the single sign-on flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980)
+#### [Finalize and test the single sign-on flow](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=0)** - [Instructor] The last thing we are missing now is this post complete route.
 >
-> **[0:03](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=3)** So let's look into server, routes, auth and GitHub.
+> **[0:03](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=3)** So let's look into server, routes, auth and [[GitHub]].
 >
 > **[0:11](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=11)** And let's scroll down here, and here we have the get complete route.
 >
@@ -3738,7 +3708,7 @@ created: 2026-05-02
 >
 > **[12:07](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=727)** And if you look into the database, so in models, user model, again, you see that we are agnostic to which OAuth provider we use.
 >
-> **[12:19](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=739)** So this could be as well, Facebook or Google or something else.
+> **[12:19](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=739)** So this could be as well, Facebook or [[Google]] or something else.
 >
 > **[12:22](https://www.linkedin.com/learning/node-authentication/finalize-and-test-the-single-sign-on-flow?u=76281980&t=742)** So with this structure, you can really authenticate against any OAuth provider that is out there.
 >
@@ -3758,7 +3728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (28), database (3), [[Security]] (1), hit (1), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (28), [[Google]] (1)
 > **Tools:** github (28)
 > **UI Navigation:** click on (8), scroll down (3), go to (2), scroll up (1), in the menu (1)
 > **CLI Commands:** make (2), node (1)
@@ -3772,8 +3742,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3781,13 +3750,13 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=1)** I hope you enjoyed it.
 >
-> **[0:03](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=3)** In this course, we covered the key concepts of authentication with Node.js, and we also went through more complex topics like JWT or single sign-on.
+> **[0:03](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=3)** In this course, we covered the key concepts of authentication with [[Node.js]], and we also went through more complex topics like JWT or single sign-on.
 >
 > **[0:12](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=12)** I'm convinced that you are now ready to implement your own authentication flows, especially with the help of Passport.js.
 >
 > **[0:20](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=20)** If you want to expand your knowledge in authentication, there is a dedicated course in OAuth and OpenID Connect available in the library.
 >
-> **[0:28](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=28)** If you were a little struggling with the usage of databases in this course, why don't you take my course, "Node.js Databases" next?
+> **[0:28](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=28)** If you were a little struggling with the usage of [[Databases]] in this course, why don't you take my course, "Node.js Databases" next?
 >
 > **[0:36](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=36)** Or if you feel you want to expand your knowledge in Express, there are the courses "Building Websites with Node.js and Express", and "Advanced Express" waiting for you.
 >
@@ -3797,7 +3766,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=58)** And I'm also always happy if you reach out to provide feedback.
 >
-> **[1:02](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=62)** You find me on LinkedIn or on Twitter, and you can also use the Q&A function here on this page.
+> **[1:02](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=62)** You find me on [[LinkedIn]] or on Twitter, and you can also use the Q&A function here on this page.
 >
 > **[1:09](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980&t=69)** Again, thank you for taking this course.
 >
@@ -3805,7 +3774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (3), express (3), [[Databases]] (2), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (3), [[Databases]] (2), [[LinkedIn]] (1)
 > **File Paths:** node.js (3), passport.js (1)
 > **CLI Commands:** node (3), find (1)
 > **Env Vars:** jwt (1)

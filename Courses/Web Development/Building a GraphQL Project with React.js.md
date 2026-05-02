@@ -82,18 +82,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use React with GraphQL for projects?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980)
+#### [Why use React with GraphQL for projects?](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980&t=0)** - [Ray] GraphQL and React are extremely popular web development platforms that are highly desired by developers and employers alike.
+> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980&t=0)** - [Ray] [[GraphQL]] and [[React.js|React]] are extremely popular [[Web Development]] platforms that are highly desired by developers and employers alike.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980&t=8)** But learning how to use them can be challenging, especially if you're not practicing them in context.
 >
-> **[0:14](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980&t=14)** Hey there, this is Ray Villalobos, senior staff instructor at LinkedIn, and in this course, I'm going to show you how to create a realistic application that uses GitHub's GraphQL API to show you a searchable list of the repositories on your account.
+> **[0:14](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980&t=14)** Hey there, this is Ray Villalobos, senior staff instructor at [[LinkedIn]], and in this course, I'm going to show you how to create a realistic application that uses [[GitHub]]'s GraphQL API to show you a searchable list of the repositories on your account.
 >
-> **[0:29](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980&t=29)** Now we'll go step-by-step through the concepts and then dive right into building the application using the latest React techniques, which include React hooks, authenticating into GitHub GraphQL, paginating and searching through GraphQL data.
+> **[0:29](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980&t=29)** Now we'll go step-by-step through the concepts and then dive right into building the application using the latest React techniques, which include [[React Hooks]], authenticating into GitHub GraphQL, paginating and searching through GraphQL data.
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?u=76281980&t=44)** Now, this is a hands-on course for those who like learning by building.
 >
@@ -101,14 +100,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (5), [[React.js|React]] (3), application (2), [[GitHub]] (2), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[React.js|React]] (3), [[GitHub]] (2), [[Web Development]] (1), [[LinkedIn]] (1)
 > **Tools:** github (2)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [ray] (1)
 
-#### Using the exercises for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980)
+#### [Using the exercises for this course](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980&t=16)** You can hit the T key to show or hide the toolbar.
 >
-> **[0:19](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980&t=19)** You can also find links to the GitHub repository as well as contact information.
+> **[0:19](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980&t=19)** You can also find links to the [[GitHub]] repository as well as contact information.
 >
 > **[0:24](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980&t=24)** If you hit the M key, you'll see an index of all those slides for the course.
 >
@@ -150,15 +148,15 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980&t=102)** That way you can download the ZIP file for the specific video you want to follow along with.
 >
-> **[1:48](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980&t=108)** We recommend that you download the main branch and issue the NPM install from there.
+> **[1:48](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980&t=108)** We recommend that you download the main branch and issue the [[npm]] install from there.
 >
-> **[1:54](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980&t=114)** If you need more experience working with Git and GitHub, do a search for [[Learning Git and GitHub]] in our library.
+> **[1:54](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980&t=114)** If you need more experience working with [[Git]] and GitHub, do a search for [[Learning Git and GitHub]] in our library.
 >
 > **[2:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-exercises-for-this-course?u=76281980&t=120)** If you're comfortable with this, then let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), hit (2), [[Git]] (2), [[npm]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Git]] (2), [[npm]] (1)
 > **Tools:** github (5), visual studio (1), terminal (1)
 > **Exercise Files:** download the (4), github repo (1), zip file (1)
 > **CLI Commands:** find (2), git (2), npm (1)
@@ -172,22 +170,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980)
+#### [Installing requirements](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=0)** - [Instructor] Let's take a look at what we're going to need to get going with our react project.
+> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=0)** - [Instructor] Let's take a look at what we're going to need to get going with our [[React.js|react]] project.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=4)** Now, there are some prerequisites that you're going to have to install before you get started.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=8)** First, is a copy of Git.
+> **[0:08](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=8)** First, is a copy of [[Git]].
 >
-> **[0:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=11)** Git is a version control system that is used to manage most web projects.
+> **[0:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=11)** Git is a [[Version Control]] system that is used to manage most web projects.
 >
-> **[0:16](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=16)** If you're on a PC, when you install Git, you have the option of installing an app called Git Bash which lets you use Linux commands on a PC.
+> **[0:16](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=16)** If you're on a PC, when you install Git, you have the option of installing an app called Git Bash which lets you use [[Linux]] commands on a PC.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=24)** You'll also need a copy of Node.js which is used to manage node projects.
+> **[0:24](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=24)** You'll also need a copy of [[Node.js]] which is used to manage node projects.
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=29)** And it comes with something called NPX which we will need for this project.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=202)** Now we're in the right folder and we can use any of these commands right here.
 >
-> **[3:26](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=206)** Now I want to go ahead and open this up in my editor instead of running the NPM start command from here.
+> **[3:26](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=206)** Now I want to go ahead and open this up in my editor instead of running the [[npm]] start command from here.
 >
 > **[3:35](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/installing-requirements?u=76281980&t=215)** So I'm going to open this up in visual studio code and I'll open up a terminal.
 >
@@ -289,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (10), [[Git]] (7), application (6), [[Node.js]] (5), [[npm]] (5)
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[Git]] (7), [[Node.js]] (5), [[npm]] (5), [[Version Control]] (1)
 > **CLI Commands:** git (7), make (7), node (6), npm (5), npx (4)
 > **Tools:** terminal (5), bash (2), visual studio (2)
 > **File Paths:** node.js (5), db.js (1)
@@ -298,12 +295,11 @@ created: 2026-05-02
 > **Prerequisites:** install (5)
 > **UI Navigation:** go to (2)
 
-#### Analyzing the React installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980)
+#### [Analyzing the React installation](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=0)** - [Instructor] Create React App makes it easier to create a project by installing a lot of modules.
+> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=0)** - [Instructor] Create [[React.js|React]] App makes it easier to create a project by installing a lot of modules.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=5)** So let's go over what we get when we use the application.
 >
@@ -313,7 +309,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=18)** The first one is called Webpack.
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=20)** Now Webpack is a JavaScript bundler.
+> **[0:20](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=20)** Now Webpack is a [[JavaScript]] bundler.
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=23)** Its main job is to manage how our applications are assembled and the loading of your different modules into an application.
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=35)** It lets you write code with the latest JavaScript features and it will convert them so that it works with older browsers.
 >
-> **[0:43](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=43)** Next is something called ESLint.
+> **[0:43](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=43)** Next is something called [[ESLint]].
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=45)** ESLint is a JavaScript linter which analyzes your code against certain rules and helps you fix them.
 >
@@ -351,9 +347,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=117)** Now you'll notice that the README that I have here is a little bit different that you would get from the Create React App and that one just has the different commands that you can run.
 >
-> **[2:08](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=128)** Those commands are also inside this package that JSON so the commands that you can run our start build test and eject.
+> **[2:08](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=128)** Those commands are also inside this package that [[JSON]] so the commands that you can run our start build test and eject.
 >
-> **[2:16](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=136)** So this package.json file is the file that node.js creates to manage the project.
+> **[2:16](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=136)** So this package.json file is the file that [[Node.js]] creates to manage the project.
 >
 > **[2:22](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=142)** You can see a list of the default dependencies, which has some of the modules that we just talked about right here.
 >
@@ -369,7 +365,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=198)** Next up is a file called gitignore.
 >
-> **[3:20](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=200)** Now this is the document that helps you control what's being tracked by GitHub.
+> **[3:20](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=200)** Now this is the document that helps you control what's being tracked by [[GitHub]].
 >
 > **[3:25](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=205)** In the last video you notice that I added this source.db.js file, which is something that we're going to be adding a little bit later on.
 >
@@ -381,7 +377,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=227)** You can see that there are some icons as well as logos of different sizes and also a file called robots.txt, this gives web crawlers information about your websites.
 >
-> **[3:59](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=239)** Web crawlers are applications that search engines like Google use to get more information about your sites.
+> **[3:59](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=239)** Web crawlers are applications that search engines like [[Google]] use to get more information about your sites.
 >
 > **[4:05](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=245)** So you can configure that right here.
 >
@@ -391,7 +387,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=257)** They allow your projects to be installed in mobile platforms without building native apps.
 >
-> **[4:23](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=263)** Finally, we get to the real important file in this folder which is the index.html file.
+> **[4:23](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=263)** Finally, we get to the real important file in this folder which is the index.[[HTML]] file.
 >
 > **[4:28](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=268)** This is the entry point for browsers, so whenever you're looking at the webpage that gets generated, you're looking at this index.html page which also runs the application.
 >
@@ -417,13 +413,13 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=355)** Now this file imports a lot of different codes from different libraries that you can see right here including something called React as well as ReactDom.
 >
-> **[6:04](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=364)** React of course is the main library for React and ReactDom is used to essentially control the document object model, sort of the structure of how webpages are put together.
+> **[6:04](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=364)** React of course is the main library for React and ReactDom is used to essentially control the [[Document Object Model (DOM)|document object model]], sort of the structure of how webpages are put together.
 >
 > **[6:16](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=376)** One of the nice things about React is that it controls the Dom for you so that all you have to do is worry about the state or the data that goes into a page and React will take care of that Dom for you.
 >
 > **[6:29](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=389)** You can see this being used right down here in this ReactDom.render, this is probably the only time that you will use this ReactDom library in your projects.
 >
-> **[6:41](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=401)** Most of these are going to be installed into this folder when the Create React App runs, it actually runs an npm install command and then it puts a lot of stuff in here.
+> **[6:41](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=401)** Most of these are going to be installed into this folder when the Create React App runs, it actually runs an [[npm]] install command and then it puts a lot of stuff in here.
 >
 > **[6:52](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/analyzing-the-react-installation?u=76281980&t=412)** But if you scroll down far enough you should be able to see the React folder or the folder for all of these different items in here.
 >
@@ -517,7 +513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (20), application (14), [[JavaScript]] (12), [[HTML]] (11), web (10)
+> **Frameworks & Libraries:** [[React.js|React]] (20), [[JavaScript]] (12), [[HTML]] (11), [[ESLint]] (3), [[JSON]] (3)
 > **File Paths:** index.html (5), index.js (3), app.js (3), index.css (2), contributing.md (1)
 > **Env Vars:** css (7), html (6), jsx (3), readme (1), json (1)
 > **Definitions:** is a  (13), is called (3), means that (2)
@@ -526,8 +522,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), configure (1), setup (1)
 > **Cross-References:** in the last (1), coming up (1), earlier in (1)
 
-#### Customizing and adding modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980)
+#### [Customizing and adding modules](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,7 +530,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=9)** So I'm going to switch back into my application, and I'm going to start by removing a lot of files that we're not going to use here.
 >
-> **[0:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=18)** So we'll open up the public folder, and get rid of these two logos, as well as the manifest.json, and the robots file.
+> **[0:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=18)** So we'll open up the public folder, and get rid of these two logos, as well as the manifest.[[JSON]], and the robots file.
 >
 > **[0:28](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=28)** And then here, we're going to get rid of App, as well as the test and also the Index.css file, and also this logo.
 >
@@ -545,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=54)** We'll also need to make some modifications to some of the files, so that these changes will be taken care of.
 >
-> **[1:01](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=61)** So I'll start with the index.html.
+> **[1:01](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=61)** So I'll start with the index.[[HTML]].
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=64)** There's just a lot of code here and I'm not going to use a lot of it.
 >
@@ -553,7 +548,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=74)** You can leave some of these in here, but I'm just going to make some very lean code.
 >
-> **[1:19](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=79)** And I'll go all the way to this notice here that has the title create React dot.
+> **[1:19](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=79)** And I'll go all the way to this notice here that has the title create [[React.js|React]] dot.
 >
 > **[1:25](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=85)** That's really all we need on the head tag.
 >
@@ -615,7 +610,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=258)** And you're going to need to install some of these modules.
 >
-> **[4:21](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=261)** So I'll do npm i for install, and I'll use bootstrap@next.
+> **[4:21](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=261)** So I'll do [[npm]] i for install, and I'll use bootstrap@next.
 >
 > **[4:27](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/customizing-and-adding-modules?u=76281980&t=267)** By the time this is released, it might just be Bootstrap, but I'm going to use bootstrap@next because it's still under beta.
 >
@@ -765,7 +760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (11), application (7), next (3), [[npm]] (3), node (3)
+> **Frameworks & Libraries:** [[npm]] (3), [[JSON]] (2), [[HTML]] (2), [[React.js|React]] (2)
 > **CLI Commands:** make (9), npm (3), node (3), find (3)
 > **File Paths:** custom.scss (4), index.js (2), app.js (2), manifest.json (1), index.css (1)
 > **Env Vars:** css (9), scss (3), html (1), jsx (1)
@@ -779,12 +774,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980)
+#### [Exploring GraphQL](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=0)** - [Instructor] Before we get going with GraphQL, let's talk about what it is and how you can use it with GitHub.
+> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=0)** - [Instructor] Before we get going with [[GraphQL]], let's talk about what it is and how you can use it with [[GitHub]].
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=6)** GraphQL is an open source query language for managing data on your server.
 >
@@ -794,9 +788,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=26)** What makes it unique is that it lets you retrieve everything you need from your database in a single call.
 >
-> **[0:33](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=33)** You get a lot of information quicker than with traditional REST APIs and in less requests to the server, which makes it faster.
+> **[0:33](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=33)** You get a lot of information quicker than with traditional [[Representational State Transfer (REST)|REST]] APIs and in less requests to the server, which makes it faster.
 >
-> **[0:42](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=42)** Like react GraphQL was created by Facebook.
+> **[0:42](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=42)** Like [[React.js|react]] GraphQL was created by Facebook.
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=45)** It has been running their mobile apps since 2012 which in web years is a really long time.
 >
@@ -826,9 +820,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=118)** To begin with, you get a sample query and all you have to do is click on this button right here to play that query.
 >
-> **[2:05](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=125)** So you can see on the right that the data you receive is in the JSON format.
+> **[2:05](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=125)** So you can see on the right that the data you receive is in the [[JSON]] format.
 >
-> **[2:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=131)** Now the graph QL requests, syntax it's something that is close to JSON or JavaScript object notation.
+> **[2:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=131)** Now the graph QL requests, syntax it's something that is close to JSON or [[JavaScript]] object notation.
 >
 > **[2:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=138)** And you can see that it has the curly braces just like JSON, but it doesn't have name and valley pairs.
 >
@@ -878,7 +872,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=300)** And we can click on these to add them to our queries.
 >
-> **[5:04](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=304)** And notice that when I clicked on Company HTML, it automatically added that in here.
+> **[5:04](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=304)** And notice that when I clicked on Company [[HTML]], it automatically added that in here.
 >
 > **[5:10](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/exploring-graphql?u=76281980&t=310)** So now if I put in here, say planetoftheweb, I do have a company set up in my profile.
 >
@@ -930,7 +924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (12), data (7), [[GitHub]] (6), [[React.js|React]] (4), web (3)
+> **Frameworks & Libraries:** [[GraphQL]] (12), [[GitHub]] (6), [[React.js|React]] (4), [[JSON]] (3), [[HTML]] (2)
 > **Documentation:** the documentation (8), the docs (1)
 > **Env Vars:** json (3), html (2), rest (1), api (1), gui (1)
 > **UI Navigation:** go to (4), click on (4)
@@ -939,16 +933,15 @@ created: 2026-05-02
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1), just like (1)
 
-#### Building queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980)
+#### [Building queries](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=0)** - [Instructor] So let's go ahead and talk about how queries are built with GraphQL and then we'll work on some different examples and then we'll take a look at how that works inside the GraphQL Explorer.
+> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=0)** - [Instructor] So let's go ahead and talk about how queries are built with [[GraphQL]] and then we'll work on some different examples and then we'll take a look at how that works inside the GraphQL Explorer.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=11)** The structure of all the data in your queries is known as the schema.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=15)** And this is a common term in databases.
+> **[0:15](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=15)** And this is a common term in [[Databases]].
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=17)** This just means that you need to understand how your data is going to be structured when you ask for it especially with GraphQL.
 >
@@ -964,7 +957,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=50)** So, for example, one of the types is a repository.
 >
-> **[0:53](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=53)** That's a unique type that GitHub has that isn't really a normal JavaScript, or any type that you'd find in other data.
+> **[0:53](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=53)** That's a unique type that [[GitHub]] has that isn't really a normal [[JavaScript]], or any type that you'd find in other data.
 >
 > **[1:02](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=62)** There are really only two types of requests that you can make with GraphQL.
 >
@@ -1014,7 +1007,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=187)** Now, notice that before we add query written out right here, that is optional, you don't really have to have the keyword query.
 >
-> **[3:15](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=195)** And you can also do name queries, but we're not going to need that for our react project.
+> **[3:15](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=195)** And you can also do name queries, but we're not going to need that for our [[React.js|react]] project.
 >
 > **[3:20](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=200)** So, we'll stick to what we're doing.
 >
@@ -1026,7 +1019,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=220)** So, I'm going to open up this query parameter section here and I'm going to type in log in and then hit return and type a name, bio and company.
 >
-> **[3:53](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=233)** Notice that unlike what I would be doing with JSON, I don't really need the commas that I normally would put there.
+> **[3:53](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=233)** Notice that unlike what I would be doing with [[JSON]], I don't really need the commas that I normally would put there.
 >
 > **[4:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=240)** And I'm going to also ask for the avatar URL.
 >
@@ -1044,7 +1037,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=274)** So, actually, this one's a URI, so it's expecting a URI type and you can even click on that here on the right to show you that this is pretty much just a URL.
 >
-> **[4:46](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=286)** That's another word for that.
+> **[4:46](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=286)** That's another [[Microsoft Word|word]] for that.
 >
 > **[4:47](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-queries?u=76281980&t=287)** But you can also pass along arguments if you want to.
 >
@@ -1216,7 +1209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[GraphQL]] (7), [[GitHub]] (4), application (4), hit (4)
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[GitHub]] (4), [[React.js|React]] (3), [[JSON]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** url (3), json (2), uri (2), mit (2), bsd (1)
 > **Definitions:** is a  (7), known as (1), means that (1)
 > **CLI Commands:** make (4), find (2), node (1)
@@ -1225,14 +1218,13 @@ created: 2026-05-02
 > **Analogies:** just like (2), for example (1)
 > **Documentation:** the documentation (1)
 
-#### GitHub authentication tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980)
+#### [GitHub authentication tokens](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=0)** - [Ray] In order to work with the GitHub GraphQL API we'll need to create an authentication token.
+> **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=0)** - [Ray] In order to work with the [[GitHub]] [[GraphQL]] API we'll need to create an authentication token.
 >
-> **[0:05](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=5)** But that's a secret that will give an application access to the GitHub GraphQL data from within react.
+> **[0:05](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=5)** But that's a secret that will give an application access to the GitHub GraphQL data from within [[React.js|react]].
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=11)** Now, before you do this, make sure that you're logged in to GitHub and that your email has been verified.
 >
@@ -1240,7 +1232,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=30)** And then you want to scroll down to developers settings that is down here for me.
 >
-> **[0:35](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=35)** And then you want to switch to personal access tokens.
+> **[0:35](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=35)** And then you want to switch to personal access [[Tokens]].
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=38)** Now, here, you want to create a new access token.
 >
@@ -1318,7 +1310,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=255)** So we're going to need to pass along content type.
 >
-> **[4:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=258)** And this will be application/json.
+> **[4:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=258)** And this will be application/[[JSON]].
 >
 > **[4:22](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=262)** Make sure you capitalize these 'cause that's a common error.
 >
@@ -1330,7 +1322,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=276)** And it will need this quote over here on the right.
 >
-> **[4:39](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=279)** And this is going to save first, the word bearer.
+> **[4:39](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=279)** And this is going to save first, the [[Microsoft Word|word]] bearer.
 >
 > **[4:43](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/github-authentication-tokens?u=76281980&t=283)** And then you're going to paste the access token from GitHub, right?
 >
@@ -1352,7 +1344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (10), application (8), data (5), [[GraphQL]] (4), api (2)
+> **Frameworks & Libraries:** [[GitHub]] (10), [[GraphQL]] (4), [[React.js|React]] (1), [[Tokens]] (1), [[JSON]] (1)
 > **Tools:** github (10)
 > **UI Navigation:** go to (4), click on (2), scroll down (1), switch to (1)
 > **CLI Commands:** make (5)
@@ -1366,18 +1358,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Retrieving data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980)
+#### [Retrieving data](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=0)** - [Instructor] Let's go ahead and start building our application.
 >
-> **[0:02](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=2)** And the first thing I need to do is go ahead and import the github object that I created from my database file.
+> **[0:02](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=2)** And the first thing I need to do is go ahead and import the [[GitHub]] object that I created from my database file.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=11)** So that'll be ./db.js that will load up this file that has all the credentials that I will need to import my application.
 >
-> **[0:21](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=21)** So next up, I'm going to also import a feature called useEffect and this feature will come from react.
+> **[0:21](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=21)** So next up, I'm going to also import a feature called useEffect and this feature will come from [[React.js|react]].
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=31)** This is going to allow us to load up that data when we need it in our application.
 >
@@ -1397,7 +1388,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=94)** And I'm just going to create a simple query in GitHub.
 >
-> **[1:38](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=98)** So I'll call this query and using the tick marks, I'm going to just put in a sample query that I would send in to the GraphQL explores.
+> **[1:38](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=98)** So I'll call this query and using the tick marks, I'm going to just put in a sample query that I would send in to the [[GraphQL]] explores.
 >
 > **[1:52](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=112)** The same thing that you would type in the GraphQL Explorer.
 >
@@ -1411,7 +1402,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=137)** And I'm just going to paste this query in here.
 >
-> **[2:21](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=141)** So you actually don't need this word query in here.
+> **[2:21](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=141)** So you actually don't need this [[Microsoft Word|word]] query in here.
 >
 > **[2:24](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=144)** And if you would have hit the predefined button, it actually gets rid of that, but it's going to copy this part right here, and then I'll paste it.
 >
@@ -1433,21 +1424,21 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=190)** So now when I paste this quick because I'll be doing that some, then it's going to have the right and dentations that it looks pretty with my application.
 >
-> **[3:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=198)** So in addition to that, so this useEffect is going to define this query and then I'm going to use the fetch API.
+> **[3:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=198)** So in addition to that, so this useEffect is going to define this query and then I'm going to use the [[Fetch]] API.
 >
-> **[3:29](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=209)** So this is just a regular JavaScript API and I'm going to use the github object that I imported from db.js and I'm going to read the base URL.
+> **[3:29](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=209)** So this is just a regular [[JavaScript]] API and I'm going to use the github object that I imported from db.js and I'm going to read the base URL.
 >
 > **[3:41](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=221)** That's the URL of the GitHub API itself, and I'm going to pass along an object here that is going to say method.
 >
 > **[3:51](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=231)** And the method needs to be POST.
 >
-> **[3:53](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=233)** You can use a git method, but not when you use headers.
+> **[3:53](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=233)** You can use a [[Git]] method, but not when you use headers.
 >
 > **[3:59](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=239)** So let's go back here, method: "POST" and then I'm going to use headers.
 >
 > **[4:06](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=246)** And I already have that defined in my db.js file.
 >
-> **[4:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=251)** So this will say github.headers, and as the body I'm going to use JSON.stringify.
+> **[4:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=251)** So this will say github.headers, and as the body I'm going to use [[JSON]].stringify.
 >
 > **[4:19](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/retrieving-data?u=76281980&t=259)** So this is a method that converts some JSON data which we're going to be reading from this GitHub query into a string.
 >
@@ -1497,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), application (7), [[GitHub]] (7), [[JSON]] (6), [[GraphQL]] (4)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[JSON]] (6), [[GraphQL]] (4), [[React.js|React]] (3), [[Fetch]] (3)
 > **Env Vars:** json (6), api (4), url (2), post (2)
 > **Code Identifiers:** useeffect (5), githubquery (2)
 > **Tools:** github (7)
@@ -1506,8 +1497,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2), git (1)
 > **UI Navigation:** go to (2), click on (1)
 
-#### Generating state
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980)
+#### [Generating state](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1517,7 +1507,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=12)** Now to do that, we're going to to have to use another hook called useState.
 >
-> **[0:17](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=17)** So if you remember from previous versions of react you could define a variable called state that you could access in your applications.
+> **[0:17](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=17)** So if you remember from previous versions of [[React.js|react]] you could define a variable called state that you could access in your applications.
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=27)** The way that this works with hooks is by allowing you to use another feature called the useState.
 >
@@ -1551,7 +1541,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=126)** So I need to replicate that.
 >
-> **[2:08](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=128)** And so I will say, setUserName, data.data because the first data is the variable that I place this JSON into, and then it returns the thing called data in there.
+> **[2:08](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=128)** And so I will say, setUserName, data.data because the first data is the variable that I place this [[JSON]] into, and then it returns the thing called data in there.
 >
 > **[2:22](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=142)** And then I need to say viewer and the variable in there is called name that has the name.
 >
@@ -1561,7 +1551,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=165)** Now I'll do a paragraph and I'll say, Hey there and now I can use that variable in here.
 >
-> **[2:52](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=172)** So, I'll just say username and once this refreshes, you could see that he grabbed the data from the GitHub GraphQL API and it created a variable that my component had access to and it was able to read for that to me.
+> **[2:52](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=172)** So, I'll just say username and once this refreshes, you could see that he grabbed the data from the [[GitHub]] [[GraphQL]] API and it created a variable that my component had access to and it was able to read for that to me.
 >
 > **[3:09](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-state?u=76281980&t=189)** So another thing that you can do when you're looking at these is take a look at the inspector and you can see that data coming in.
 >
@@ -1581,7 +1571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[React.js|React]] (2), [[GitHub]] (2), [[GraphQL]] (2), api (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[GitHub]] (2), [[GraphQL]] (2), [[JSON]] (1)
 > **Code Identifiers:** usestate (3), username (2), setusername (2)
 > **Env Vars:** api (2), json (1)
 > **CLI Commands:** find (1), make (1)
@@ -1590,8 +1580,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Warnings:** warning (1)
 
-#### Creating a query component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-a-query-component?u=76281980)
+#### [Creating a query component](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-a-query-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1633,15 +1622,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **File Paths:** query.js (1), app.js (1)
 > **Code Identifiers:** githubquery (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Callback hook
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-callback-hook?u=76281980)
+#### [Using the Callback hook](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-callback-hook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1651,7 +1638,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-callback-hook?u=76281980&t=12)** So by reloading, we get the data from the server twice.
 >
-> **[0:16](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-callback-hook?u=76281980&t=16)** That's because the user fact feature will rerun there this data, as we fetch it from the server and it might do that more than once.
+> **[0:16](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-callback-hook?u=76281980&t=16)** That's because the user fact feature will rerun there this data, as we [[Fetch]] it from the server and it might do that more than once.
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-callback-hook?u=76281980&t=25)** As our application grows, this is going to become more of a problem.
 >
@@ -1703,11 +1690,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-callback-hook?u=76281980&t=160)** And as we go through the building of this application you will notice that I'm going to add different dependencies that are going to trigger a new fetching of the data.
 >
-> **[2:51](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-callback-hook?u=76281980&t=171)** So I can very clearly control when that new data needs to be fetched, as opposed to letting react take care of it, which can cause some of these reloading problems.
+> **[2:51](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-the-callback-hook?u=76281980&t=171)** So I can very clearly control when that new data needs to be fetched, as opposed to letting [[React.js|react]] take care of it, which can cause some of these reloading problems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), data (7), [[Fetch]] (4), feature (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[React.js|React]] (1)
 > **Code Identifiers:** fetchdata (3), usecallback (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** mtr (1)
@@ -1720,8 +1707,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating a list of repos
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980)
+#### [Generating a list of repos](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1801,7 +1787,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980&t=208)** All right, so now it's time to start outputting this into our application.
 >
-> **[3:33](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980&t=213)** So we just need to write some really boring HTML.
+> **[3:33](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980&t=213)** So we just need to write some really boring [[HTML]].
 >
 > **[3:38](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980&t=218)** And what I'm going to do, also, is go ahead and put this on a method here.
 >
@@ -1813,7 +1799,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980&t=240)** So I'm going to just say repoList and then use this notation here, parentheses to just output.
 >
-> **[4:09](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980&t=249)** Then I'll just go ahead and output my JavaScript.
+> **[4:09](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980&t=249)** Then I'll just go ahead and output my [[JavaScript]].
 >
 > **[4:12](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/generating-a-list-of-repos?u=76281980&t=252)** Technically, this is JSX.
 >
@@ -1893,7 +1879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (4), hit (3), [[HTML]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Code Identifiers:** classname (3), setrepolist (1), repolist (1)
 > **Env Vars:** url (2), html (1), jsx (1)
@@ -1902,8 +1888,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** common mistake (1)
 
-#### Using search queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980)
+#### [Using search queries](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1915,7 +1900,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=23)** So what I'm going to do, is I'm going to take this out.
 >
-> **[0:25](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=25)** Actually, I'm going to go to the GraphQL Explorer because I did tell you that it's a much better way of doing this sort of thing.
+> **[0:25](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=25)** Actually, I'm going to go to the [[GraphQL]] Explorer because I did tell you that it's a much better way of doing this sort of thing.
 >
 > **[0:32](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=32)** So in our query, we're going to extract all these repositories from there.
 >
@@ -1925,7 +1910,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=48)** And then on the search, we're going to ask it to return a query.
 >
-> **[0:53](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=53)** And so this is the equivalent of when you go to GitHub and you do a search, you may have noticed when you type a search, it'll actually create these different search parameters that go in the query.
+> **[0:53](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=53)** And so this is the equivalent of when you go to [[GitHub]] and you do a search, you may have noticed when you type a search, it'll actually create these different search parameters that go in the query.
 >
 > **[1:06](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=66)** Or if you've done an advanced search it does something like this.
 >
@@ -2001,7 +1986,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=325)** So let's go ahead and save this and we'll go back into app.js.
 >
-> **[5:33](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=333)** And now I need to also make sure that I properly get the information when we retrieve the data from our fetch.
+> **[5:33](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=333)** And now I need to also make sure that I properly get the information when we retrieve the data from our [[Fetch]].
 >
 > **[5:43](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/using-search-queries?u=76281980&t=343)** So after viewer, I'm going to create another variable here const repos, and it's in a different structure now.
 >
@@ -2027,7 +2012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (18), data (4), application (3), [[GitHub]] (2), hit (2)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[GraphQL]] (1), [[Fetch]] (1)
 > **File Paths:** app.js (2), repoinfo.js (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (1), jsx (1)
@@ -2036,8 +2021,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with conditional classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/working-with-conditional-classes?u=76281980)
+#### [Working with conditional classes](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/working-with-conditional-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2103,7 +2087,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/working-with-conditional-classes?u=76281980&t=229)** So, what I want to do is I'll cut all this out, cut all these classes out and then I'm going to use an object here.
 >
-> **[3:58](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/working-with-conditional-classes?u=76281980&t=238)** And this could be cool or not that cool depending on whether or not you love how react does classes and how jsx works.
+> **[3:58](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/working-with-conditional-classes?u=76281980&t=238)** And this could be cool or not that cool depending on whether or not you love how [[React.js|react]] does classes and how jsx works.
 >
 > **[4:08](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/working-with-conditional-classes?u=76281980&t=248)** So, I know that I want to add all these classes and in line still it's a doesn't look good in line block here, oops.
 >
@@ -2115,7 +2099,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/working-with-conditional-classes?u=76281980&t=280)** Then I can use and this is what's called a turnery statement.
 >
-> **[4:45](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/working-with-conditional-classes?u=76281980&t=285)** One of the coolest ways of doing if then statements with JavaScript, which is heavily used in react.
+> **[4:45](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/working-with-conditional-classes?u=76281980&t=285)** One of the coolest ways of doing if then statements with [[JavaScript]], which is heavily used in react.
 >
 > **[4:52](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/working-with-conditional-classes?u=76281980&t=292)** So if the subscription is subscribed, then I will use the btn-success style.
 >
@@ -2147,7 +2131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), data (2), application (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** classname (3), viewersubscription (1)
 > **File Paths:** repoinfo.js (2)
@@ -2156,16 +2140,15 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading license information
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980)
+#### [Reading license information](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980&t=0)** - [Instructor] Another thing I want to to do with this project is help me track whether or not a project has the proper license or any license at all.
 >
-> **[0:09](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980&t=9)** Sometimes I use GitHub for really quick projects and I want to go through and make sure that I am licensing them properly.
+> **[0:09](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980&t=9)** Sometimes I use [[GitHub]] for really quick projects and I want to go through and make sure that I am licensing them properly.
 >
-> **[0:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980&t=18)** So, let's go back into the GraphQL Explorer, I'm going to add something called license info.
+> **[0:18](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980&t=18)** So, let's go back into the [[GraphQL]] Explorer, I'm going to add something called license info.
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980&t=25)** So I'll do that after URL and license info is an object and you have the option of adding all kinds of information here.
 >
@@ -2197,7 +2180,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980&t=189)** So, you can see that I'm getting an error here and that's because sometimes when I get data back from the server, some of that data comes along with a null value and the loop that is printing this out doesn't like to print out null values.
 >
-> **[3:28](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980&t=208)** So what I can do is use one of JavaScript's new operator types.
+> **[3:28](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980&t=208)** So what I can do is use one of [[JavaScript]]'s new operator types.
 >
 > **[3:33](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/reading-license-information?u=76281980&t=213)** It's a question mark, and then a period instead of just a period and what that does, it's called an optional chaining operator.
 >
@@ -2263,7 +2246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[GitHub]] (1), [[GraphQL]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[GraphQL]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** spdxid (5), classname (2), licenseinfo (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **CLI Commands:** make (4)
@@ -2277,8 +2260,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating dynamic queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980)
+#### [Creating dynamic queries](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2312,7 +2294,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980&t=66)** So this would be how many items I receive back from querying the database.
 >
-> **[1:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980&t=71)** All right, so, what I'm going to do in here is create a new constant or the queryText because right now, when I look for the data in the database, I'm taking the query that comes from the file, and I'm using JSON.stringify, but I'm going to create a variable like I've done for other things to make it like I did for some of these things down here just to make it easier to find these 'cause it gets kind of complicated after a while.
+> **[1:11](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980&t=71)** All right, so, what I'm going to do in here is create a new constant or the queryText because right now, when I look for the data in the database, I'm taking the query that comes from the file, and I'm using [[JSON]].stringify, but I'm going to create a variable like I've done for other things to make it like I did for some of these things down here just to make it easier to find these 'cause it gets kind of complicated after a while.
 >
 > **[1:44](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980&t=104)** So here I'll create this variable called queryText, and I'm using it up here.
 >
@@ -2330,7 +2312,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980&t=145)** And this is when this array right here becomes useful.
 >
-> **[2:31](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980&t=151)** Remember that the useCallback hook will take care of memorizing what we get back from fetch, but I do want it to keep track of when certain variables change, I want it to reprocess my fetch command.
+> **[2:31](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980&t=151)** Remember that the useCallback hook will take care of memorizing what we get back from [[Fetch]], but I do want it to keep track of when certain variables change, I want it to reprocess my fetch command.
 >
 > **[2:48](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-dynamic-queries?u=76281980&t=168)** The interface is telling me here that it's missing these two dependencies that it needs in order to get the data back.
 >
@@ -2412,7 +2394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (3), [[Fetch]] (3), [[Search]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[JSON]] (2)
 > **Code Identifiers:** pagecount (9), querystring (8), totalcount (3), querytext (3), repositorycount (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** json (2)
@@ -2421,8 +2403,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Warnings:** warning (1)
 
-#### Building a search component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-a-search-component?u=76281980)
+#### [Building a search component](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/building-a-search-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2552,7 +2533,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), next (2), application (2), css (1)
 > **Code Identifiers:** pagecount (5), onquerychange (5), querystring (4), totalcount (3), querystrings (1)
 > **CLI Commands:** make (3)
 > **File Paths:** searchbox.js (1)
@@ -2560,14 +2540,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up pagination
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980)
+#### [Setting up pagination](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=0)** - [Instructor] The last feature that we're going to add to this application is pagination.
 >
-> **[0:05](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=5)** Now to do that, we need to review how it works in the GitHub GraphQL Explorer.
+> **[0:05](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=5)** Now to do that, we need to review how it works in the [[GitHub]] [[GraphQL]] Explorer.
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=13)** So the way that you do this is by adding a series of edges and then putting the nodes within those edges.
 >
@@ -2687,7 +2666,7 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=421)** Instead of going from search to nodes, I need to go to the edges now.
 >
-> **[7:07](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=427)** And then, I also need to initialize some constants for the rest of the data.
+> **[7:07](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=427)** And then, I also need to initialize some constants for the [[Representational State Transfer (REST)|rest]] of the data.
 >
 > **[7:15](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/setting-up-pagination?u=76281980&t=435)** So start is going to be, actually, a lot of them are going to be similar.
 >
@@ -2719,7 +2698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), data (4), [[GraphQL]] (2), hit (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[GraphQL]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[GitHub]] (1)
 > **Code Identifiers:** pageinfo (5), paginationstring (5), paginationkeyword (4), querystring (3), startcursor (2)
 > **CLI Commands:** node (7), find (1), make (1)
 > **File Paths:** app.js (1)
@@ -2728,8 +2707,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** kind of like (1)
 
-#### Creating the pagination interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-the-pagination-interface?u=76281980)
+#### [Creating the pagination interface](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-the-pagination-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2811,11 +2789,11 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-the-pagination-interface?u=76281980&t=329)** Super, that is a pretty cool app.
 >
-> **[5:31](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-the-pagination-interface?u=76281980&t=331)** I'm sure you have more ideas on what you can do with the app, but this kind of shows you all the things that you would use with GraphQL that you might want to do when working with an application that uses the GitHub version of GraphQL, and also, React working with hooks.
+> **[5:31](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/creating-the-pagination-interface?u=76281980&t=331)** I'm sure you have more ideas on what you can do with the app, but this kind of shows you all the things that you would use with [[GraphQL]] that you might want to do when working with an application that uses the [[GitHub]] version of GraphQL, and also, [[React.js|React]] working with hooks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), application (2), [[GraphQL]] (2), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[GraphQL]] (2), [[GitHub]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** onpage (4), setpaginationkeyword (2), mykeyword (2), mystring (1), setpaginationstring (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (3)
@@ -2829,20 +2807,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980&t=0)** - [Ray] Working with a real project like this is a lot of fun, but I bet you're probably wondering what else you could do with this technology.
 >
-> **[0:07](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980&t=7)** Now you can spend a lot of time inside the documentation for the GitHub GraphQL Explorer.
+> **[0:07](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980&t=7)** Now you can spend a lot of time inside the documentation for the [[GitHub]] [[GraphQL]] Explorer.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980&t=14)** It's well-documented and a great place to explore what else you could do with this app.
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980&t=20)** You should also check out the documentation for the regular version of GraphQL at this URL.
 >
-> **[0:26](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980&t=26)** Now we have lots of content on GraphQL as well as React.
+> **[0:26](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980&t=26)** Now we have lots of content on GraphQL as well as [[React.js|React]].
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/next-steps?u=76281980&t=30)** So make sure you do a search for GraphQL or React from the library.
 >
@@ -2852,7 +2829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (4), [[React.js|React]] (3), [[GitHub]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[React.js|React]] (3), [[GitHub]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Documentation:** the documentation (2)
 > **URLs:** [raybo.org](https://raybo.org) (1)

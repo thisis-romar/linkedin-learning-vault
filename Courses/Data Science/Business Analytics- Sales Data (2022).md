@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating sales insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980)
+#### [Generating sales insights](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,13 +91,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980&t=23)** And that's what this course is all about.
 >
-> **[0:25](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980&t=25)** My name is John David Ariansen, and I'm the co-founder of Silvertone Analytics.
+> **[0:25](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980&t=25)** My name is [[John the Ripper|John]] David Ariansen, and I'm the co-founder of Silvertone Analytics.
 >
 > **[0:30](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980&t=30)** I also run the "How to Get an Analytics Job" podcast, where I've interviewed over 100 experts throughout the years.
 >
 > **[0:37](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980&t=37)** And in this course, I want to share how you can use your sales data to supercharge your business.
 >
-> **[0:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980&t=42)** I'll share the basics of analytics best practices, like data governance and how to make data-informed decisions.
+> **[0:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980&t=42)** I'll share the basics of analytics best practices, like [[Data Governance]] and how to make data-informed decisions.
 >
 > **[0:49](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980&t=49)** Then I'll show you how to track your sales data effectively so you have a rich set of data that you can mine for insights.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (3), power (1), business (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Data Governance]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - as (1)
 
@@ -117,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools to track sales data
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980)
+#### [Tools to track sales data](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,11 +132,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=39)** You can take this one step further with a little bit of a manual setup to include category, location, price point, and many other detailed data points.
 >
-> **[0:51](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=51)** Using these platforms empowers you to simply download the transaction history into Excel and start doing some analysis.
+> **[0:51](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=51)** Using these platforms empowers you to simply download the transaction history into [[Microsoft Excel|Excel]] and start doing some analysis.
 >
 > **[0:59](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=59)** This data gives you the ability to study your transactions history at the aggregate level, and uncover trends across your whole customer base.
 >
-> **[1:08](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=68)** For example, you may find that one product is outselling all the other products and you are getting a huge amount of traction on just this one product line.
+> **[1:08](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=68)** For example, you may find that one product is outselling all the other [[Microsoft Products|products]] and you are getting a huge amount of traction on just this one product line.
 >
 > **[1:17](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=77)** If you have a larger organization or your customers are likely to buy on a repeated basis, you may want to start using a customer relationship management tool or a CRM tool such as Salesforce.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=116)** All these data points can help you evaluate which of your customers are ready to purchase from you again.
 >
-> **[2:02](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=122)** And finally, we have an even more advanced way of tracking sales through Google Analytics.
+> **[2:02](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=122)** And finally, we have an even more advanced way of tracking sales through [[Google]] Analytics.
 >
 > **[2:09](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980&t=129)** When implemented correctly, Google Analytics enables you to see what marketing campaigns, channels and webpages are leading to sales.
 >
@@ -178,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Analytics]] (5), [[Google]] (4), product (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** crm (2)
@@ -187,8 +185,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980)
+#### [Common challenges](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=4)** An organization will want to conduct an analysis but then suddenly realize that they've not been collecting the data necessary for the project.
 >
-> **[0:14](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=14)** This is where data governance comes into play.
+> **[0:14](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=14)** This is where [[Data Governance]] comes into play.
 >
 > **[0:16](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=16)** Data governance is a process of collecting data effectively and storing it in a way that you can use later for analysis.
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=52)** You can simply use a payment processing system like Stripe or Square, which will collect all your sales data automatically.
 >
-> **[1:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=60)** All you need to do is download the raw data file into Excel, and then you're off to the races to do your analysis.
+> **[1:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=60)** All you need to do is download the raw data file into [[Microsoft Excel|Excel]], and then you're off to the races to do your analysis.
 >
 > **[1:06](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=66)** If you're a larger business, you may be selling multiple types of product lines to various different types of customers.
 >
@@ -230,13 +227,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=104)** If you're a small business, a simple survey asked upon checkout on your website will do the trick.
 >
-> **[1:50](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=110)** This is effective, if you're an e-commerce store and not doing in-person sales.
+> **[1:50](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=110)** This is effective, if you're an [[E-Commerce]] store and not doing in-person sales.
 >
 > **[1:55](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=115)** On the other hand, larger organizations will probably be using a CRM system and might have an in-person sales team.
 >
 > **[2:04](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=124)** Just make sure your sales team is proactively tracking as much data as possible.
 >
-> **[2:09](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=129)** Last be mindful of potential data quality issues.
+> **[2:09](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=129)** Last be mindful of potential [[Data Quality]] issues.
 >
 > **[2:14](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=134)** A common type of data quality issue is data duplication.
 >
@@ -244,7 +241,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=140)** This could skew the final recommendations that you come up with after you're done with your analysis.
 >
-> **[2:25](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=145)** Sometimes this can come from a mistake in the data collection process or when an analyst needs to join two data sources together.
+> **[2:25](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=145)** Sometimes this can come from a mistake in the [[Data Collection]] process or when an analyst needs to join two data sources together.
 >
 > **[2:32](https://www.linkedin.com/learning/business-analytics-sales-data-2022/common-challenges-14576735?u=76281980&t=152)** One way to help solve this challenge is to have an employee really own the role of data governance administrator, but also document how the data flows.
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), business (3), [[Microsoft Excel|Excel]] (1), product (1), management (1)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[Data Quality]] (4), [[Microsoft Excel|Excel]] (1), [[E-Commerce]] (1), [[Data Collection]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
 > **UI Navigation:** dropdown (1)
@@ -269,8 +266,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sales metrics to study
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980)
+#### [Sales metrics to study](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -294,17 +290,17 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=50)** This is especially important if you have very different lines of business.
 >
-> **[0:54](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=54)** For example, one of my clients sold hardware, but varying different types of hardware, screws, kitchen appliances, utilities, marine accessories, just to name a few.
+> **[0:54](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=54)** For example, one of my clients sold [[Hardware]], but varying different types of hardware, screws, kitchen appliances, utilities, marine accessories, just to name a few.
 >
 > **[1:05](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=65)** In situations like these, it makes sense to segment your sales.
 >
 > **[1:09](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=69)** Marine hardware sales will have a vastly different trend than kitchen hardware, and diving deep and studying these two different assortments separately can really unlock a treasure trove of insight.
 >
-> **[1:22](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=82)** Second, to address when sales are occurring, I would ensure that my data collection process includes a time dimension or when the purchase occurred.
+> **[1:22](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=82)** Second, to address when sales are occurring, I would ensure that my [[Data Collection]] process includes a time dimension or when the purchase occurred.
 >
 > **[1:32](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=92)** This can really help your organization target your audience in an effective way, both informing the marketing and sales for the best time to reach out to potential customers.
 >
-> **[1:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=102)** In addition, to helping the supply chain team estimate demand and stocking products accordingly.
+> **[1:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=102)** In addition, to helping the supply chain team estimate demand and stocking [[Microsoft Products|products]] accordingly.
 >
 > **[1:49](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-metrics-to-study?u=76281980&t=109)** Next, we have the question of where?
 >
@@ -340,14 +336,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Hardware]] (4), business (2), [[Analytics]] (1), product (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Data Collection]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using data source maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/using-data-source-maps?u=76281980)
+#### [Using data source maps](https://www.linkedin.com/learning/business-analytics-sales-data-2022/using-data-source-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/business-analytics-sales-data-2022/using-data-source-maps?u=76281980&t=38)** As a solid marketing effort will very quickly help you increase sales, understanding what posts and campaigns are getting the most traction in terms of clicks, likes, comments and shares can help you understand what's making noise out on the marketplace.
 >
-> **[0:53](https://www.linkedin.com/learning/business-analytics-sales-data-2022/using-data-source-maps?u=76281980&t=53)** You really should listen to this signal, as this signal gives you an idea which of your products are in hot markets.
+> **[0:53](https://www.linkedin.com/learning/business-analytics-sales-data-2022/using-data-source-maps?u=76281980&t=53)** You really should listen to this signal, as this signal gives you an idea which of your [[Microsoft Products|products]] are in hot markets.
 >
 > **[1:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/using-data-source-maps?u=76281980&t=60)** Next, we have cost data sources.
 >
@@ -403,17 +398,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Products|Products]] (4), next (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
-#### How data is structured
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/how-data-is-structured-14572810?u=76281980)
+#### [How data is structured](https://www.linkedin.com/learning/business-analytics-sales-data-2022/how-data-is-structured-14572810?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/how-data-is-structured-14572810?u=76281980&t=0)** - [Instructor] Your organization is probably creating a ton of data, then storing that data in Excel or some sort of database.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/how-data-is-structured-14572810?u=76281980&t=0)** - [Instructor] Your organization is probably creating a ton of data, then storing that data in [[Microsoft Excel|Excel]] or some sort of database.
 >
 > **[0:08](https://www.linkedin.com/learning/business-analytics-sales-data-2022/how-data-is-structured-14572810?u=76281980&t=8)** In this video, I'll explain how your data needs to be structured so that you can successfully analyze it.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/business-analytics-sales-data-2022/how-data-is-structured-14572810?u=76281980&t=44)** I've created these two different datasets in Excel just to illustrate the point I'm making.
 >
-> **[0:48](https://www.linkedin.com/learning/business-analytics-sales-data-2022/how-data-is-structured-14572810?u=76281980&t=48)** So we have dataset one, which is in Columns A through C, and then dataset two, which is A through the rest of the alphabet.
+> **[0:48](https://www.linkedin.com/learning/business-analytics-sales-data-2022/how-data-is-structured-14572810?u=76281980&t=48)** So we have dataset one, which is in Columns A through C, and then dataset two, which is A through the [[Representational State Transfer (REST)|rest]] of the alphabet.
 >
 > **[0:56](https://www.linkedin.com/learning/business-analytics-sales-data-2022/how-data-is-structured-14572810?u=76281980&t=56)** When I mean you need deep datasets rather than wide, I'm talking about this kind of a dataset here.
 >
@@ -449,7 +443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -459,8 +453,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools for studying your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980)
+#### [Tools for studying your data](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,13 +461,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=9)** There have been some major developments and tools to support all these analysis that make the task so much easier than ever before.
 >
-> **[0:18](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=18)** Excel is by far the most popular data analysis tool out on the market.
+> **[0:18](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=18)** [[Microsoft Excel|Excel]] is by far the most popular data analysis tool out on the market.
 >
 > **[0:22](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=22)** With just a few hours of practice and study, you can learn how to leverage this tool to find valuable insights in your data.
 >
 > **[0:29](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=29)** Excel was the tool we used in my master's program to learn the basics of analytics.
 >
-> **[0:35](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=35)** You can build charts, graphs, and infographics right inside this powerful tool.
+> **[0:35](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=35)** You can build charts, graphs, and [[Infographics]] right inside this powerful tool.
 >
 > **[0:40](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=40)** If you wanted to get even more advanced, you can build optimization and predictive models in Excel as well.
 >
@@ -486,11 +479,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=64)** Learning this functionality is a breeze, especially if you know the right questions to ask about your data.
 >
-> **[1:10](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=70)** Next, you have data visualization tools like Tableau and Power BI that build off the same functionality of a pivot chart, but take it to a whole new level.
+> **[1:10](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=70)** Next, you have data visualization tools like [[Tableau]] and [[Microsoft Power BI|Power BI]] that build off the same functionality of a pivot chart, but take it to a whole new level.
 >
 > **[1:19](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=79)** In fact, both Tableau and Power BI can hook directly into Excel and allow you to build extremely powerful visualizations.
 >
-> **[1:27](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=87)** One of the values of working with data visualization tools is that they afford you the ability to build dashboards.
+> **[1:27](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=87)** One of the values of working with data visualization tools is that they afford you the ability to build [[Dashboards]].
 >
 > **[1:34](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980&t=94)** A dashboard is a collection of data visualizations that are oftentimes interactive.
 >
@@ -514,21 +507,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), [[Analytics]] (3), [[Infographics]] (2), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Infographics]] (2), [[Tableau]] (2), [[Microsoft Power BI|Power bi]] (2), [[Dashboards]] (2)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Building a PivotChart in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/building-a-pivotchart-in-excel-14576740?u=76281980)
+#### [Building a PivotChart in Excel](https://www.linkedin.com/learning/business-analytics-sales-data-2022/building-a-pivotchart-in-excel-14576740?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/building-a-pivotchart-in-excel-14576740?u=76281980&t=0)** - [Instructor] Excel is the most popular data analysis tool that's currently out on the marketplace.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/building-a-pivotchart-in-excel-14576740?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] is the most popular data analysis tool that's currently out on the marketplace.
 >
 > **[0:05](https://www.linkedin.com/learning/business-analytics-sales-data-2022/building-a-pivotchart-in-excel-14576740?u=76281980&t=5)** But there's so many features within Excel that you could get lost rather quickly.
 >
-> **[0:10](https://www.linkedin.com/learning/business-analytics-sales-data-2022/building-a-pivotchart-in-excel-14576740?u=76281980&t=10)** In this video, we're going to focus on pivot charts, as they are a mechanism that allow you to very quickly slice through your data and build infographics that visualize the underlying trends.
+> **[0:10](https://www.linkedin.com/learning/business-analytics-sales-data-2022/building-a-pivotchart-in-excel-14576740?u=76281980&t=10)** In this video, we're going to focus on pivot charts, as they are a mechanism that allow you to very quickly slice through your data and build [[Infographics]] that visualize the underlying trends.
 >
 > **[0:22](https://www.linkedin.com/learning/business-analytics-sales-data-2022/building-a-pivotchart-in-excel-14576740?u=76281980&t=22)** Now let's take a look at how easy it is for you to slice through your own data.
 >
@@ -580,18 +572,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (3), hit (2), [[Infographics]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Infographics]] (1)
 > **UI Navigation:** select the (1), click on (1), right-click (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data visualization basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/data-visualization-basics?u=76281980)
+#### [Data visualization basics](https://www.linkedin.com/learning/business-analytics-sales-data-2022/data-visualization-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/data-visualization-basics?u=76281980&t=0)** - [Instructor] Your sales data most likely lives in an Excel spreadsheet or a database of some kind.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/data-visualization-basics?u=76281980&t=0)** - [Instructor] Your sales data most likely lives in an [[Microsoft Excel|Excel]] spreadsheet or a database of some kind.
 >
 > **[0:06](https://www.linkedin.com/learning/business-analytics-sales-data-2022/data-visualization-basics?u=76281980&t=6)** It's nice that you have it stored, but what value are you getting out of your data if you just keep it in its data source?
 >
@@ -653,17 +644,16 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/business-analytics-sales-data-2022/data-visualization-basics?u=76281980&t=170)** This video was a short primer on data visualization.
 >
-> **[2:54](https://www.linkedin.com/learning/business-analytics-sales-data-2022/data-visualization-basics?u=76281980&t=174)** If you would like additional information, you should check out books such as "Storytelling with Data" for some data vis theory; or if you want a more business-focused lens, "The Big Book of Dashboards," which will walk you through effective and ineffective dashboards set in a real-world business setting.
+> **[2:54](https://www.linkedin.com/learning/business-analytics-sales-data-2022/data-visualization-basics?u=76281980&t=174)** If you would like additional information, you should check out books such as "[[Storytelling]] with Data" for some data vis theory; or if you want a more business-focused lens, "The Big Book of [[Dashboards]]," which will walk you through effective and ineffective dashboards set in a real-world business setting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), business (3), [[Dashboards]] (2), [[Microsoft Excel|Excel]] (1), database (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Microsoft Excel|Excel]] (1), [[Storytelling]] (1)
 > **Analogies:** such as (3), picture (2), for example (2)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sales dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980)
+#### [Sales dashboard](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -681,7 +671,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=45)** An effective sales dashboard will visualize these trends.
 >
-> **[0:48](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=48)** The three kinds of analysis that I typically visualize on sales dashboards are sales by month, to identify seasonality, sales by category, and also, sales by geography.
+> **[0:48](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=48)** The three kinds of analysis that I typically visualize on sales [[Dashboards]] are sales by month, to identify seasonality, sales by category, and also, sales by geography.
 >
 > **[1:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=60)** The last thing that you should note about an effective sales dashboard is that it's interactive.
 >
@@ -695,7 +685,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=88)** Now let's highlight the interactive component of this dashboard.
 >
-> **[1:33](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=93)** For example, if we click on any one of these categories, all of the rest of the dashboard will change.
+> **[1:33](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=93)** For example, if we click on any one of these categories, all of the [[Representational State Transfer (REST)|rest]] of the dashboard will change.
 >
 > **[1:39](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=99)** So let's check out furniture.
 >
@@ -707,7 +697,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=123)** This means that we're getting a huge return on each additional sale from this category.
 >
-> **[2:09](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=129)** So this can help you drive your sales strategy.
+> **[2:09](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=129)** So this can help you drive your [[Sales Strategy]].
 >
 > **[2:11](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-dashboard-14572808?u=76281980&t=131)** It sounds like increasing furniture category sales would be a great idea.
 >
@@ -717,15 +707,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Sales Strategy]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Sales Strategy]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** known as (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reporting infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/reporting-infrastructure-14573803?u=76281980)
+#### [Reporting infrastructure](https://www.linkedin.com/learning/business-analytics-sales-data-2022/reporting-infrastructure-14573803?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,7 +730,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/business-analytics-sales-data-2022/reporting-infrastructure-14573803?u=76281980&t=37)** Seeing things from this perspective helps you conceptualize things like demand planning.
 >
-> **[0:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/reporting-infrastructure-14573803?u=76281980&t=42)** If you can identify when your products are being sold, then you know how much to produce at different points of the year.
+> **[0:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/reporting-infrastructure-14573803?u=76281980&t=42)** If you can identify when your [[Microsoft Products|products]] are being sold, then you know how much to produce at different points of the year.
 >
 > **[0:49](https://www.linkedin.com/learning/business-analytics-sales-data-2022/reporting-infrastructure-14573803?u=76281980&t=49)** This same concept can be applied to where you're selling as well.
 >
@@ -767,14 +756,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2), data (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sales and marketing dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-and-marketing-dashboard-14574763?u=76281980)
+#### [Sales and marketing dashboard](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-and-marketing-dashboard-14574763?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -830,7 +818,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Search]] (2), business (1), traffic (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -840,12 +827,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Type of sales analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980)
+#### [Type of sales analysis](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=0)** - [Instructor] The kind of sales analysis that you can conduct really depends on the dimensions that are in your data sources.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=0)** - [Instructor] The kind of [[Sales Analysis]] that you can conduct really depends on the dimensions that are in your data sources.
 >
 > **[0:08](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=8)** The dimensions you track depend on the systems you have in place to properly collect data.
 >
@@ -855,7 +841,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=31)** Usually, with this type of analysis, a simple bar chart is a good starting point.
 >
-> **[0:36](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=36)** That way you can see how your different types of products are selling.
+> **[0:36](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=36)** That way you can see how your different types of [[Microsoft Products|products]] are selling.
 >
 > **[0:41](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=41)** If you wanted to get more advanced, you could create a stacked bar chart that looks at categorical sales, but is divided into different colors or specific features.
 >
@@ -889,7 +875,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=118)** This can help you identify a high selling month, or state, or assortment.
 >
-> **[2:03](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=123)** These insights can be very useful when sitting down to plan your organization's sales strategy.
+> **[2:03](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=123)** These insights can be very useful when sitting down to plan your organization's [[Sales Strategy]].
 >
 > **[2:09](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980&t=129)** A sales dashboard is usually a combination of KPI indicators and data visualizations that focus on various aspects of your sales data set.
 >
@@ -897,15 +883,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Sales Analysis]] (2), product (1), [[Microsoft Products|Products]] (1), [[Sales Strategy]] (1)
+> **Frameworks & Libraries:** [[Sales Analysis]] (2), [[Microsoft Products|Products]] (1), [[Sales Strategy]] (1)
 > **Env Vars:** kpi (3)
 > **Definitions:** means that (1), is a  (1), short for (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying seasonality
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980)
+#### [Identifying seasonality](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,11 +900,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=19)** This is a very simplistic example, but how do you think their demand is different?
 >
-> **[0:23](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=23)** If you think people are buying a lot of ice cream in the dead of winter, well, maybe you live somewhere warm like Florida, but for the rest of us, it gets cold during the winter and people generally don't want to buy cold desserts during that time period.
+> **[0:23](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=23)** If you think people are buying a lot of ice cream in the dead of winter, well, maybe you live somewhere warm like Florida, but for the [[Representational State Transfer (REST)|rest]] of us, it gets cold during the winter and people generally don't want to buy cold desserts during that time period.
 >
 > **[0:37](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=37)** It's very easy to identify seasonality with a PivotChart.
 >
-> **[0:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=42)** Now, I'm going to use the Sales_Data Excel file from the course exercise files to demonstrate how you can quickly use a PivotChart to identify seasonality.
+> **[0:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=42)** Now, I'm going to use the Sales_Data [[Microsoft Excel|Excel]] file from the course exercise files to demonstrate how you can quickly use a PivotChart to identify seasonality.
 >
 > **[0:53](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=53)** The first step is to select cell A1.
 >
@@ -957,21 +942,20 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=150)** It looks like things peak in March, and things are pretty low in October.
 >
-> **[2:36](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=156)** These are some very important insights that you can use to drive your sales strategy moving forward.
+> **[2:36](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=156)** These are some very important insights that you can use to drive your [[Sales Strategy]] moving forward.
 >
 > **[2:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/identifying-seasonality?u=76281980&t=162)** Now you know how to quickly build out a PivotChart that identify seasonality within your sales dataset.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (3), business (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1), [[Sales Strategy]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** right-click (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Categorical analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/categorical-analysis?u=76281980)
+#### [Categorical analysis](https://www.linkedin.com/learning/business-analytics-sales-data-2022/categorical-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,11 +963,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/business-analytics-sales-data-2022/categorical-analysis?u=76281980&t=5)** It helps you identify which items, categories, or assortments are performing well.
 >
-> **[0:10](https://www.linkedin.com/learning/business-analytics-sales-data-2022/categorical-analysis?u=76281980&t=10)** The well-performing items are a great place to start your sales strategy 'cause these are the items that are performing well out on the marketplace.
+> **[0:10](https://www.linkedin.com/learning/business-analytics-sales-data-2022/categorical-analysis?u=76281980&t=10)** The well-performing items are a great place to start your [[Sales Strategy]] 'cause these are the items that are performing well out on the marketplace.
 >
 > **[0:19](https://www.linkedin.com/learning/business-analytics-sales-data-2022/categorical-analysis?u=76281980&t=19)** This means that you've hit on something.
 >
-> **[0:21](https://www.linkedin.com/learning/business-analytics-sales-data-2022/categorical-analysis?u=76281980&t=21)** In this video, I'm going to show you how to create a PivotChart in Excel that will help you identify which of your items are performing well.
+> **[0:21](https://www.linkedin.com/learning/business-analytics-sales-data-2022/categorical-analysis?u=76281980&t=21)** In this video, I'm going to show you how to create a PivotChart in [[Microsoft Excel|Excel]] that will help you identify which of your items are performing well.
 >
 > **[0:29](https://www.linkedin.com/learning/business-analytics-sales-data-2022/categorical-analysis?u=76281980&t=29)** I'm using the exercise file from this course.
 >
@@ -1033,14 +1017,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), next (2), [[Sales Strategy]] (1), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Sales Strategy]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** toggle (2), dropdown (2)
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regional analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/regional-analysis?u=76281980)
+#### [Regional analysis](https://www.linkedin.com/learning/business-analytics-sales-data-2022/regional-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,7 +1031,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/business-analytics-sales-data-2022/regional-analysis?u=76281980&t=5)** It can take your national ad campaign that sells across the entire United States, and break it out into segments of regionally specific demographics that are really resonating with your product.
 >
-> **[0:19](https://www.linkedin.com/learning/business-analytics-sales-data-2022/regional-analysis?u=76281980&t=19)** I've opened up a fresh Tableau workbook so that we can see this in action.
+> **[0:19](https://www.linkedin.com/learning/business-analytics-sales-data-2022/regional-analysis?u=76281980&t=19)** I've opened up a fresh [[Tableau]] workbook so that we can see this in action.
 >
 > **[0:23](https://www.linkedin.com/learning/business-analytics-sales-data-2022/regional-analysis?u=76281980&t=23)** So I'm going to pull in Store Velocity, which is the number of sales per store.
 >
@@ -1080,7 +1063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1090,12 +1073,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sales analysis with Google Analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980)
+#### [Sales analysis with Google Analytics](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=0)** - [Instructor] If you're new to studying your sales data then Google Analytics is a great place to start.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=0)** - [Instructor] If you're new to studying your sales data then [[Google]] Analytics is a great place to start.
 >
 > **[0:05](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=5)** Especially if you're selling through an Ecommerce store I've gone ahead and connected to the demo account through Google Analytics so we walk through the interface together.
 >
@@ -1125,7 +1107,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=83)** Looks like they resulted in about 30 transactions, about $1,500 in revenue and an average order value of $45.
 >
-> **[1:32](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=92)** Next, you can see how your products are performing.
+> **[1:32](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=92)** Next, you can see how your [[Microsoft Products|products]] are performing.
 >
 > **[1:35](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=95)** You can see total product revenue here and then the percentage of total revenue.
 >
@@ -1149,24 +1131,23 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=147)** But one thing to note here is that this is not a very interactive interface and it's honestly quite clunky.
 >
-> **[2:34](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=154)** This is where data visualization can really come into play Tableau and Power BI can connect directly into Google Analytics.
+> **[2:34](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=154)** This is where data visualization can really come into play [[Tableau]] and [[Microsoft Power BI|Power BI]] can connect directly into Google Analytics.
 >
 > **[2:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980&t=162)** So you can start to build out your own interactive data visualizations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (5), [[Google]] (4), [[Analytics]] (4), next (3)
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft Products|Products]] (2), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** click on (1), toggle (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sales analysis with Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-tableau-14579605?u=76281980)
+#### [Sales analysis with Tableau](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-tableau-14579605?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-tableau-14579605?u=76281980&t=0)** - [Instructor] Tableau is a great tool for helping you make sense of your sales data.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-tableau-14579605?u=76281980&t=0)** - [Instructor] [[Tableau]] is a great tool for helping you make sense of your sales data.
 >
 > **[0:04](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-tableau-14579605?u=76281980&t=4)** In this video, I'll walk you through how to build out an interactive visualization that can act somewhat like an app.
 >
@@ -1210,7 +1191,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-tableau-14579605?u=76281980&t=118)** So your sales representative in Florida now knows what are his good demographics to go after.
 >
-> **[2:05](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-tableau-14579605?u=76281980&t=125)** It looks like they're only women over the age of 65 that are buying products.
+> **[2:05](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-tableau-14579605?u=76281980&t=125)** It looks like they're only women over the age of 65 that are buying [[Microsoft Products|products]].
 >
 > **[2:10](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-tableau-14579605?u=76281980&t=130)** He can now use this information to structure his day.
 >
@@ -1224,22 +1205,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (3), next (3), hit (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** dropdown (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Sales analysis with Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-power-bi-14572807?u=76281980)
+#### [Sales analysis with Power BI](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-power-bi-14572807?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-power-bi-14572807?u=76281980&t=0)** - [Narrator] Power BI is a very useful tool.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-power-bi-14572807?u=76281980&t=0)** - [Narrator] [[Microsoft Power BI|Power BI]] is a very useful tool.
 >
 > **[0:02](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-power-bi-14572807?u=76281980&t=2)** If you're interested in conducting deep analysis into your sales trends, then you'll probably need to connect to multiple data sources at some point.
 >
-> **[0:11](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-power-bi-14572807?u=76281980&t=11)** Power BI's data modeling feature allows you to connect, combine, then analyze multiple data sources.
+> **[0:11](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-power-bi-14572807?u=76281980&t=11)** Power BI's [[Data Modeling]] feature allows you to connect, combine, then analyze multiple data sources.
 >
 > **[0:18](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-power-bi-14572807?u=76281980&t=18)** So here's an example of when you're going to need to combine multiple data sources.
 >
@@ -1287,7 +1267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), power (5), bi (5), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Data Modeling]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1296,12 +1276,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tableau forums
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980)
+#### [Tableau forums](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980&t=0)** - [Instructor] The Tableau Forums are a great place to learn about sales analytics.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980&t=0)** - [Instructor] The [[Tableau]] Forums are a great place to learn about sales analytics.
 >
 > **[0:04](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980&t=4)** Even if your organization is not currently using Tableau, you can download the free version of Tableau called Tableau Public and start analyzing data on your own.
 >
@@ -1311,7 +1290,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980&t=26)** All you need to do is start a new conversation thread and the community members will respond to your post.
 >
-> **[0:32](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980&t=32)** Or if you're not so sure how to articulate your problem, you could search for the term sales analysis or a similar search term to see if someone else has asked a similar question.
+> **[0:32](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980&t=32)** Or if you're not so sure how to articulate your problem, you could search for the term [[Sales Analysis]] or a similar search term to see if someone else has asked a similar question.
 >
 > **[0:42](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980&t=42)** I've done just that in this example.
 >
@@ -1329,19 +1308,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (9), [[Sales Analysis]] (3), [[Analytics]] (2), data (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (9), [[Sales Analysis]] (3)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing Reddit
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980)
+#### [Utilizing Reddit](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980&t=0)** - [Instructor] Reddit is a great resource to learn more about sales analysis from experts that are currently out in the field.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980&t=0)** - [Instructor] Reddit is a great resource to learn more about [[Sales Analysis]] from experts that are currently out in the field.
 >
-> **[0:07](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980&t=7)** The Tableau in Power BI subreddits are a great tool that I've leaned on from time to time whenever I came across a problem that I wasn't quite sure how to solve.
+> **[0:07](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980&t=7)** The [[Tableau]] in [[Microsoft Power BI|Power BI]] subreddits are a great tool that I've leaned on from time to time whenever I came across a problem that I wasn't quite sure how to solve.
 >
 > **[0:16](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980&t=16)** Now, Reddit is not only a good problem solving tool, though.
 >
@@ -1351,7 +1329,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980&t=29)** That being said, there are a ton of analytics related communities where people are helping each other solve problems.
 >
-> **[0:36](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980&t=36)** I just searched for e-commerce sales analysis in Reddit, and you can see all the results that have come up.
+> **[0:36](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980&t=36)** I just searched for [[E-Commerce]] sales analysis in Reddit, and you can see all the results that have come up.
 >
 > **[0:41](https://www.linkedin.com/learning/business-analytics-sales-data-2022/utilizing-reddit?u=76281980&t=41)** Startup resources might be a great subreddit for you if you're just starting out.
 >
@@ -1365,12 +1343,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sales Analysis]] (2), data (2), [[Tableau]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Sales Analysis]] (2), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1), [[E-Commerce]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Watching YouTube
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/watching-youtube?u=76281980)
+#### [Watching YouTube](https://www.linkedin.com/learning/business-analytics-sales-data-2022/watching-youtube?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,7 +1355,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/business-analytics-sales-data-2022/watching-youtube?u=76281980&t=4)** But it's actually an amazing place to expand your analytics knowledge.
 >
-> **[0:09](https://www.linkedin.com/learning/business-analytics-sales-data-2022/watching-youtube?u=76281980&t=9)** In fact, YouTube has become the second largest search engine right behind Google.
+> **[0:09](https://www.linkedin.com/learning/business-analytics-sales-data-2022/watching-youtube?u=76281980&t=9)** In fact, YouTube has become the second largest search engine right behind [[Google]].
 >
 > **[0:15](https://www.linkedin.com/learning/business-analytics-sales-data-2022/watching-youtube?u=76281980&t=15)** Analytics content creators like myself have cut onto this trend and have started posting more and more educational content on YouTube as a result.
 >
@@ -1400,7 +1377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (5), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
@@ -1410,14 +1387,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time to analyze
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980)
+#### [Time to analyze](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980&t=0)** - Congratulations on making it all the way through the course.
 >
-> **[0:04](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980&t=4)** What you can do now is follow me on LinkedIn.
+> **[0:04](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980&t=4)** What you can do now is follow me on [[LinkedIn]].
 >
 > **[0:06](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980&t=6)** I post regularly all about analytics and even sales analytics, in particular.
 >
@@ -1429,13 +1405,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980&t=37)** Now, there's one specific video that I wanted to highlight, and it's this video right here.
 >
-> **[0:43](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980&t=43)** In this podcast episode, Danny Lauer, a senior product manager at Amazon, talks about what he looks for when he's hiring analysts, touches on the hiring process at Amazon, and even gives feedback to one of my students on their sales analytics dashboard that they built in Tableau.
+> **[0:43](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980&t=43)** In this podcast episode, Danny Lauer, a senior product manager at Amazon, talks about what he looks for when he's hiring analysts, touches on the hiring process at Amazon, and even gives feedback to one of my students on their sales analytics dashboard that they built in [[Tableau]].
 >
 > **[1:00](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980&t=60)** Check out this episode if you want to see a deep dive into how a true analytics expert thinks about analytics day to day.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (10), [[LinkedIn]] (1), product (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Tableau]] (1)
 > **Speakers:** - congratulations (1)
 
 

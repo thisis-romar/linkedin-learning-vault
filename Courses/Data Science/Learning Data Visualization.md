@@ -97,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The essence of data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980)
+#### [The essence of data visualization](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,9 +107,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980&t=12)** I'm Bill Shander.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980&t=13)** I've been doing data visualization for almost 30 years and I've been teaching it here on LinkedIn Learning and at the University of Vermont and in private workshops for over 10 years.
+> **[0:13](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980&t=13)** I've been doing data visualization for almost 30 years and I've been teaching it here on [[LinkedIn]] Learning and at the University of Vermont and in private workshops for over 10 years.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980&t=22)** I love data, I love storytelling, and I love design.
+> **[0:22](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980&t=22)** I love data, I love [[Storytelling]], and I love design.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980&t=26)** I'm passionate about this work.
 >
@@ -132,13 +131,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980&t=104)** As you'll see, almost every visual you'll see here is just a sketch of a visualization because the most important thing to learn when you're just starting in data visualization is how to come up with the right ideas.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980&t=116)** And sketching is the way to do that.
+> **[1:56](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980&t=116)** And [[Sketching]] is the way to do that.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980&t=119)** More on this later. And let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[LinkedIn]] (1), [[Storytelling]] (1), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Storytelling]] (1), [[Sketching]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [bill] (1)
 
@@ -147,8 +146,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data visualization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-is-data-visualization?u=76281980)
+#### [What is data visualization?](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-is-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -204,13 +202,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Ask what makes a good data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/ask-what-makes-a-good-data-visualization?u=76281980)
+#### [Ask what makes a good data visualization](https://www.linkedin.com/learning/learning-data-visualization-15572314/ask-what-makes-a-good-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,18 +252,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** ask (1)
 > **Versions:** 8.6 (1)
 > **Speakers:** - now (1)
 
-#### Why visualize data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/why-visualize-data?u=76281980)
+#### [Why visualize data?](https://www.linkedin.com/learning/learning-data-visualization-15572314/why-visualize-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-visualization-15572314/why-visualize-data?u=76281980&t=0)** - [Instructor] There are a lot of really good reasons to visualize data, but there are three that rise above all the rest.
+> **[0:00](https://www.linkedin.com/learning/learning-data-visualization-15572314/why-visualize-data?u=76281980&t=0)** - [Instructor] There are a lot of really good reasons to visualize data, but there are three that rise above all the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-visualization-15572314/why-visualize-data?u=76281980&t=7)** First of all, humans are visual creatures.
 >
@@ -291,7 +285,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-data-visualization-15572314/why-visualize-data?u=76281980&t=66)** Maybe you can detect a pattern or two, but most people don't notice anything without staring at them for quite a while.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-data-visualization-15572314/why-visualize-data?u=76281980&t=73)** If you analyze them with statistics, you find that they are in fact pretty much identical.
+> **[1:13](https://www.linkedin.com/learning/learning-data-visualization-15572314/why-visualize-data?u=76281980&t=73)** If you analyze them with [[Statistics]], you find that they are in fact pretty much identical.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-data-visualization-15572314/why-visualize-data?u=76281980&t=78)** They all have the same average of both X and Y values, the same variance of X and Y, the same regression, the same correlation, and the same correlation coefficient.
 >
@@ -305,7 +299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** picture (2)
 > **Definitions:** is called (1)
@@ -316,8 +310,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three focal points
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980)
+#### [Three focal points](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,7 +344,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980&t=74)** You need to understand enough so your communication captures the right level of detail and nuance for your audience.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980&t=80)** You need enough data literacy to ask the right questions of the person analyzing the data if it's not you.
+> **[1:20](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980&t=80)** You need enough [[Data Literacy]] to ask the right questions of the person analyzing the data if it's not you.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980&t=86)** The second terrible acronym is KWYANTH.
 >
@@ -359,7 +352,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980&t=91)** You need to know what your audience needs to hear.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980&t=94)** Most people don't really think enough about this one, and the key word there is "need."
+> **[1:34](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980&t=94)** Most people don't really think enough about this one, and the key [[Microsoft Word|word]] there is "need."
 >
 > **[1:41](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980&t=101)** Your boss may ask you for the quarterly sales figures but what she really needs is the profits.
 >
@@ -399,14 +392,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Data Literacy]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** kwyrwts (2), kwydis (1), kwyanth (1)
 > **Definitions:** stands for (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### What your data is saying
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-your-data-is-saying?u=76281980)
+#### [What your data is saying](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-your-data-is-saying?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,14 +466,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [narrator] (1)
 
-#### What your audience needs to hear
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-your-audience-needs-to-hear?u=76281980)
+#### [What your audience needs to hear](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-your-audience-needs-to-hear?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,14 +533,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you really want to say
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-you-really-want-to-say?u=76281980)
+#### [What you really want to say](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-you-really-want-to-say?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,14 +588,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explanatory vs. exploratory
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/explanatory-vs-exploratory?u=76281980)
+#### [Explanatory vs. exploratory](https://www.linkedin.com/learning/learning-data-visualization-15572314/explanatory-vs-exploratory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,7 +603,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-data-visualization-15572314/explanatory-vs-exploratory?u=76281980&t=11)** This of course relates directly to your quas, particularly what your audience needs to hear.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-data-visualization-15572314/explanatory-vs-exploratory?u=76281980&t=16)** If you're creating a tool for internal use in an organization to track and manage KPIs or to enable some other business intelligence activities, you might be creating exploratory visualizations, like a dashboard that allows a manager to poke around in the data, and find the insights themselves.
+> **[0:16](https://www.linkedin.com/learning/learning-data-visualization-15572314/explanatory-vs-exploratory?u=76281980&t=16)** If you're creating a tool for internal use in an organization to track and manage KPIs or to enable some other [[Business Intelligence (BI)|business intelligence]] activities, you might be creating exploratory visualizations, like a dashboard that allows a manager to poke around in the data, and find the insights themselves.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-data-visualization-15572314/explanatory-vs-exploratory?u=76281980&t=32)** This might include more individual data points, and filters and toggles, and hover events to reveal more details.
 >
@@ -641,13 +627,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### The true "so what" and goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-true-so-what-and-goals?u=76281980)
+#### [The true "so what" and goals](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-true-so-what-and-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,13 +696,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Human visual perception and pre-attentive processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/human-visual-perception-and-pre-attentive-processing?u=76281980)
+#### [Human visual perception and pre-attentive processing](https://www.linkedin.com/learning/learning-data-visualization-15572314/human-visual-perception-and-pre-attentive-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,7 +764,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1), means that (1)
 > **Cross-References:** later in (1)
@@ -792,8 +774,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose charts with intention
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/choose-charts-with-intention?u=76281980)
+#### [Choose charts with intention](https://www.linkedin.com/learning/learning-data-visualization-15572314/choose-charts-with-intention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,17 +816,16 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/learning-data-visualization-15572314/choose-charts-with-intention?u=76281980&t=116)** Now you have a way to think about the right chart and even how to start to test it, but we're not going to stop there.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-data-visualization-15572314/choose-charts-with-intention?u=76281980&t=122)** I'm going to arm you with more information to help you pick charts more strategically in the rest of this section of the course.
+> **[2:02](https://www.linkedin.com/learning/learning-data-visualization-15572314/choose-charts-with-intention?u=76281980&t=122)** I'm going to arm you with more information to help you pick charts more strategically in the [[Representational State Transfer (REST)|rest]] of this section of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - just (1)
 
-#### Cheat sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/cheat-sheets?u=76281980)
+#### [Cheat sheets](https://www.linkedin.com/learning/learning-data-visualization-15572314/cheat-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,12 +887,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### What goes in the chart?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-goes-in-the-chart?u=76281980)
+#### [What goes in the chart?](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-goes-in-the-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,15 +966,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), database (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparison visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/comparison-visualizations?u=76281980)
+#### [Comparison visualizations](https://www.linkedin.com/learning/learning-data-visualization-15572314/comparison-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,7 +1014,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-data-visualization-15572314/comparison-visualizations?u=76281980&t=140)** See how hard it is to get a rank position out of this chart and yet we can see the actual values here.
 >
-> **[2:27](https://www.linkedin.com/learning/learning-data-visualization-15572314/comparison-visualizations?u=76281980&t=147)** See how the values hardly changed for this place, even as it's rank position changed again and again, and how the best burrito place is so much better than all the rest based on its scores.
+> **[2:27](https://www.linkedin.com/learning/learning-data-visualization-15572314/comparison-visualizations?u=76281980&t=147)** See how the values hardly changed for this place, even as it's rank position changed again and again, and how the best burrito place is so much better than all the [[Representational State Transfer (REST)|rest]] based on its scores.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-data-visualization-15572314/comparison-visualizations?u=76281980&t=160)** These two charts enable different tasks, both within the category of comparison.
 >
@@ -1066,7 +1042,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/learning-data-visualization-15572314/comparison-visualizations?u=76281980&t=210)** Fair question.
 >
-> **[3:31](https://www.linkedin.com/learning/learning-data-visualization-15572314/comparison-visualizations?u=76281980&t=211)** I have a whole video later when I'll be talking about this in more detail, but for now I'll just say that sketching is the best way to come up with visualization ideas.
+> **[3:31](https://www.linkedin.com/learning/learning-data-visualization-15572314/comparison-visualizations?u=76281980&t=211)** I have a whole video later when I'll be talking about this in more detail, but for now I'll just say that [[Sketching]] is the best way to come up with visualization ideas.
 >
 > **[3:42](https://www.linkedin.com/learning/learning-data-visualization-15572314/comparison-visualizations?u=76281980&t=222)** So I'll be showing sketches like these for a whole bunch of these lessons.
 >
@@ -1074,14 +1050,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Sketching]] (1)
 > **Analogies:** for instance (1), imagine (1), just like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Correlation visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/correlation-visualizations?u=76281980)
+#### [Correlation visualizations](https://www.linkedin.com/learning/learning-data-visualization-15572314/correlation-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1137,7 +1112,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/learning-data-visualization-15572314/correlation-visualizations?u=76281980&t=164)** Now, if you're using software, you can generate a bunch of scatter plots and look for correlations one by one, but that takes time.
 >
-> **[2:52](https://www.linkedin.com/learning/learning-data-visualization-15572314/correlation-visualizations?u=76281980&t=172)** If you're in Excel, you can actually use a nice tool built into it called Data Analysis ToolPak and generate a correlation matrix, which kicks out a decidedly non-visual table of numbers, which show values between negative one and one, which are the mathematical representation of the strength of the various correlations between all of these variables.
+> **[2:52](https://www.linkedin.com/learning/learning-data-visualization-15572314/correlation-visualizations?u=76281980&t=172)** If you're in [[Microsoft Excel|Excel]], you can actually use a nice tool built into it called Data Analysis ToolPak and generate a correlation matrix, which kicks out a decidedly non-visual table of numbers, which show values between negative one and one, which are the mathematical representation of the strength of the various correlations between all of these variables.
 >
 > **[3:16](https://www.linkedin.com/learning/learning-data-visualization-15572314/correlation-visualizations?u=76281980&t=196)** The closer to one or negative one, the stronger the correlation, and if we just use a little conditional formatting, I can see which of these are most strongly correlated.
 >
@@ -1167,20 +1142,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Distribution visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/distribution-visualizations?u=76281980)
+#### [Distribution visualizations](https://www.linkedin.com/learning/learning-data-visualization-15572314/distribution-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-visualization-15572314/distribution-visualizations?u=76281980&t=0)** - [Instructor] Sometimes it's less important to learn about the individual data values themselves and it's more about the nature of the dataset as a whole.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-data-visualization-15572314/distribution-visualizations?u=76281980&t=8)** The word we use to describe this is distribution because it's how the data values are distributed across the dataset.
+> **[0:08](https://www.linkedin.com/learning/learning-data-visualization-15572314/distribution-visualizations?u=76281980&t=8)** The [[Microsoft Word|word]] we use to describe this is distribution because it's how the data values are distributed across the dataset.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-data-visualization-15572314/distribution-visualizations?u=76281980&t=15)** When would you want to know this and what visual best represents it?
 >
@@ -1274,14 +1248,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Composition visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/composition-visualizations?u=76281980)
+#### [Composition visualizations](https://www.linkedin.com/learning/learning-data-visualization-15572314/composition-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1297,7 +1270,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-data-visualization-15572314/composition-visualizations?u=76281980&t=37)** Another 10% we're looking at carne asada burritos and the other ratings were of 89 different burrito types.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-data-visualization-15572314/composition-visualizations?u=76281980&t=45)** It's also interesting that the top 10 burrito joints in terms of the number of ratings they received account for a full 48% of all the ratings and the rest are distributed evenly among all the other 86 burrito joints.
+> **[0:45](https://www.linkedin.com/learning/learning-data-visualization-15572314/composition-visualizations?u=76281980&t=45)** It's also interesting that the top 10 burrito joints in terms of the number of ratings they received account for a full 48% of all the ratings and the [[Representational State Transfer (REST)|rest]] are distributed evenly among all the other 86 burrito joints.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-data-visualization-15572314/composition-visualizations?u=76281980&t=58)** And while we're thinking about composition it's worth noting that Scott Cole the guy who created this burrito scoring database conducted 35% of all the reviews.
 >
@@ -1331,7 +1304,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-data-visualization-15572314/composition-visualizations?u=76281980&t=186)** You need to make thoughtful decisions about sorting your data and your visuals.
 >
-> **[3:09](https://www.linkedin.com/learning/learning-data-visualization-15572314/composition-visualizations?u=76281980&t=189)** Don't just let your column order in Excel decide what order your segments are in.
+> **[3:09](https://www.linkedin.com/learning/learning-data-visualization-15572314/composition-visualizations?u=76281980&t=189)** Don't just let your column order in [[Microsoft Excel|Excel]] decide what order your segments are in.
 >
 > **[3:15](https://www.linkedin.com/learning/learning-data-visualization-15572314/composition-visualizations?u=76281980&t=195)** Another visual you can consider is a tree map diagram which is getting more popular and is available in more and more tools, including Excel.
 >
@@ -1359,7 +1332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Excel|Excel]] (2), database (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (4), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), picture (1)
@@ -1368,8 +1341,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Geographic visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/geographic-visualizations?u=76281980)
+#### [Geographic visualizations](https://www.linkedin.com/learning/learning-data-visualization-15572314/geographic-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1387,7 +1359,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-data-visualization-15572314/geographic-visualizations?u=76281980&t=45)** That has nothing to do with location.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-data-visualization-15572314/geographic-visualizations?u=76281980&t=48)** On the other hand, if my task is to figure out where I can get a good burrito on the way home from work and my office is here and my house is here, then this view absolutely would be helpful because I can see that there are two burrito joints here and one over here.
+> **[0:48](https://www.linkedin.com/learning/learning-data-visualization-15572314/geographic-visualizations?u=76281980&t=48)** On the other hand, if my task is to figure out where I can get a good burrito on the way home from work and my [[Microsoft Office|office]] is here and my house is here, then this view absolutely would be helpful because I can see that there are two burrito joints here and one over here.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-data-visualization-15572314/geographic-visualizations?u=76281980&t=64)** So based on my route home, I can be thoughtful about where to go.
 >
@@ -1437,13 +1409,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for instance (2), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flow visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/flow-visualizations?u=76281980)
+#### [Flow visualizations](https://www.linkedin.com/learning/learning-data-visualization-15572314/flow-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,14 +1466,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hierarchical visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/hierarchical-visualizations?u=76281980)
+#### [Hierarchical visualizations](https://www.linkedin.com/learning/learning-data-visualization-15572314/hierarchical-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1556,15 +1525,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), node (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1), node (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### Creative, innovative visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/creative-innovative-visualizations?u=76281980)
+#### [Creative, innovative visualizations](https://www.linkedin.com/learning/learning-data-visualization-15572314/creative-innovative-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1584,7 +1551,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-data-visualization-15572314/creative-innovative-visualizations?u=76281980&t=56)** This is a pretty standard chart type again, but I spruce it up with a bit of design.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-data-visualization-15572314/creative-innovative-visualizations?u=76281980&t=61)** I couldn't create this in Excel exactly, but it's also not the craziest visual in the world.
+> **[1:01](https://www.linkedin.com/learning/learning-data-visualization-15572314/creative-innovative-visualizations?u=76281980&t=61)** I couldn't create this in [[Microsoft Excel|Excel]] exactly, but it's also not the craziest visual in the world.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-data-visualization-15572314/creative-innovative-visualizations?u=76281980&t=67)** Or this one, examining job trends in the US where I wanted to show the overall change in pay for a whole bunch of jobs across a range of job categories.
 >
@@ -1634,14 +1601,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), express (2), [[Microsoft Excel|Excel]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other factors when choosing visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/other-factors-when-choosing-visualizations?u=76281980)
+#### [Other factors when choosing visualizations](https://www.linkedin.com/learning/learning-data-visualization-15572314/other-factors-when-choosing-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1719,7 +1685,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (1)
 > **Versions:** 4.5 (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1733,8 +1698,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of sketching
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980)
+#### [The importance of sketching](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1744,7 +1708,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980&t=16)** I mean, that's not an entirely unwarranted assumption and I actually did start to do exactly that.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980&t=22)** But then I started thinking through the visuals I wanted to talk about and show and explain, and I started sketching those ideas for myself.
+> **[0:22](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980&t=22)** But then I started thinking through the visuals I wanted to talk about and show and explain, and I started [[Sketching]] those ideas for myself.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980&t=31)** Why?
 >
@@ -1786,7 +1750,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980&t=163)** That's what I used to create all of the sketched visuals you've seen so far.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980&t=167)** It's a digital tool that really follows an analog process because I'm using a stylist, not a mouse and I'm using extremely simple software, just pick a brush and go, rather than fighting Bézier curves or chart settings in a tool like Tableau or Excel.
+> **[2:47](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980&t=167)** It's a digital tool that really follows an analog process because I'm using a stylist, not a mouse and I'm using extremely simple software, just pick a brush and go, rather than fighting Bézier curves or chart settings in a tool like [[Tableau]] or [[Microsoft Excel|Excel]].
 >
 > **[3:05](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980&t=185)** Those are great for later, but not for early in the process.
 >
@@ -1802,14 +1766,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (6), data (3), [[Tableau]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Sketching]] (6), [[Tableau]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - so (1)
 
-#### What's the "so what"?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-s-the-so-what?u=76281980)
+#### [What's the "so what"?](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-s-the-so-what?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1869,15 +1832,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3)
 > **Cross-References:** earlier in (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** kwyrwts (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pre-attentive processing and design
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/pre-attentive-processing-and-design?u=76281980)
+#### [Pre-attentive processing and design](https://www.linkedin.com/learning/learning-data-visualization-15572314/pre-attentive-processing-and-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1961,19 +1922,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), parallel (1)
 > **CLI Commands:** make (8)
 > **Definitions:** in other words (2)
 > **Cross-References:** earlier in (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [presenter] (1)
 
-#### Keeping it fresh and predictable
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/keeping-it-fresh-and-predictable?u=76281980)
+#### [Keeping it fresh and predictable](https://www.linkedin.com/learning/learning-data-visualization-15572314/keeping-it-fresh-and-predictable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-visualization-15572314/keeping-it-fresh-and-predictable?u=76281980&t=0)** - [Instructor] Man, am I sick of looking at PowerPoint decks consisting of 75 slides full of bar charts, line charts and pie charts, aren't you?
+> **[0:00](https://www.linkedin.com/learning/learning-data-visualization-15572314/keeping-it-fresh-and-predictable?u=76281980&t=0)** - [Instructor] Man, am I sick of looking at [[Microsoft PowerPoint|PowerPoint]] decks consisting of 75 slides full of bar charts, line charts and pie charts, aren't you?
 >
 > **[0:09](https://www.linkedin.com/learning/learning-data-visualization-15572314/keeping-it-fresh-and-predictable?u=76281980&t=9)** Can't anyone think of anything new and interesting?
 >
@@ -2009,13 +1968,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** der (1), spiegel (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thoughtful use of color
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/thoughtful-use-of-color?u=76281980)
+#### [Thoughtful use of color](https://www.linkedin.com/learning/learning-data-visualization-15572314/thoughtful-use-of-color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2077,13 +2035,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting scales
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/setting-scales?u=76281980)
+#### [Setting scales](https://www.linkedin.com/learning/learning-data-visualization-15572314/setting-scales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2117,7 +2073,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-data-visualization-15572314/setting-scales?u=76281980&t=94)** Although sometimes the default scales our software picks, even doing what I just described adding a bit of buffer to the max value can be odd.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-data-visualization-15572314/setting-scales?u=76281980&t=103)** When I first made this chart, Excel did set the scale from zero to six on both axis, and that's just weird.
+> **[1:43](https://www.linkedin.com/learning/learning-data-visualization-15572314/setting-scales?u=76281980&t=103)** When I first made this chart, [[Microsoft Excel|Excel]] did set the scale from zero to six on both axis, and that's just weird.
 >
 > **[1:52](https://www.linkedin.com/learning/learning-data-visualization-15572314/setting-scales?u=76281980&t=112)** Another little detail that research has shown is that people expect the high numbers to go up vertically and to the right, by the way.
 >
@@ -2195,7 +2151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (4), known as (1), means that (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (2), for example (1)
@@ -2204,8 +2160,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** you'll need (1)
 
-#### Labels and annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/labels-and-annotations?u=76281980)
+#### [Labels and annotations](https://www.linkedin.com/learning/learning-data-visualization-15572314/labels-and-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2283,7 +2238,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/learning-data-visualization-15572314/labels-and-annotations?u=76281980&t=208)** Instead, this title helps me understand and remember the real point, which is much more impactful.
 >
-> **[3:35](https://www.linkedin.com/learning/learning-data-visualization-15572314/labels-and-annotations?u=76281980&t=215)** Of course, this assumes you're a bit nerdy and get the word analogies, symbols, and meaning.
+> **[3:35](https://www.linkedin.com/learning/learning-data-visualization-15572314/labels-and-annotations?u=76281980&t=215)** Of course, this assumes you're a bit nerdy and get the [[Microsoft Word|word]] analogies, symbols, and meaning.
 >
 > **[3:40](https://www.linkedin.com/learning/learning-data-visualization-15572314/labels-and-annotations?u=76281980&t=220)** One more thought here, though.
 >
@@ -2305,13 +2260,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making numbers relatable
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/making-numbers-relatable?u=76281980)
+#### [Making numbers relatable](https://www.linkedin.com/learning/learning-data-visualization-15572314/making-numbers-relatable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2375,7 +2329,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/learning-data-visualization-15572314/making-numbers-relatable?u=76281980&t=168)** When you're communicating data, you need to make it relatable to your audience.
 >
-> **[2:52](https://www.linkedin.com/learning/learning-data-visualization-15572314/making-numbers-relatable?u=76281980&t=172)** This is about the nature of the numbers themselves, which falls in the category of data literacy.
+> **[2:52](https://www.linkedin.com/learning/learning-data-visualization-15572314/making-numbers-relatable?u=76281980&t=172)** This is about the nature of the numbers themselves, which falls in the category of [[Data Literacy]].
 >
 > **[2:57](https://www.linkedin.com/learning/learning-data-visualization-15572314/making-numbers-relatable?u=76281980&t=177)** And then when you visualize it, think about how relatable your visuals are.
 >
@@ -2389,7 +2343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
+> **Frameworks & Libraries:** [[Data Literacy]] (1)
 > **Versions:** 6.3 (6), 2.5 (1), 137.5 (1)
 > **Env Vars:** covid (4)
 > **CLI Commands:** make (3)
@@ -2397,8 +2351,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/accessibility?u=76281980)
+#### [Accessibility](https://www.linkedin.com/learning/learning-data-visualization-15572314/accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2424,7 +2377,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-data-visualization-15572314/accessibility?u=76281980&t=68)** I stand by this phrasing, by this idea, but I think in the past I've encouraged the use of a too light a gray.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-data-visualization-15572314/accessibility?u=76281980&t=74)** Google contrast checker, and you'll find tools that can help you identify a gray that's visible enough for maximum discernibility without attracting undue attention to itself, and make sure you use colorblind-friendly and maximally-contrasting colors for your non-gray colors as well, which I talk about a bit in the video about color.
+> **[1:14](https://www.linkedin.com/learning/learning-data-visualization-15572314/accessibility?u=76281980&t=74)** [[Google]] contrast checker, and you'll find tools that can help you identify a gray that's visible enough for maximum discernibility without attracting undue attention to itself, and make sure you use colorblind-friendly and maximally-contrasting colors for your non-gray colors as well, which I talk about a bit in the video about color.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-data-visualization-15572314/accessibility?u=76281980&t=96)** Probably the biggest thing you can do for those with really low vision is to recognize that many of these people are consuming content using screen readers, software that reads any text aloud.
 >
@@ -2436,7 +2389,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-data-visualization-15572314/accessibility?u=76281980&t=156)** With this one, someone who is only getting this information with a screen reader will get the whole story, not just a vague reference to a visual in the most general terms.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-data-visualization-15572314/accessibility?u=76281980&t=167)** Accessibility is important, not only because nearly one in three people will have a better user experience if you make it accessible, but also because the other two out of three will also have a better user experience.
+> **[2:47](https://www.linkedin.com/learning/learning-data-visualization-15572314/accessibility?u=76281980&t=167)** Accessibility is important, not only because nearly one in three people will have a better [[User Experience (UX)|user experience]] if you make it accessible, but also because the other two out of three will also have a better user experience.
 >
 > **[3:00](https://www.linkedin.com/learning/learning-data-visualization-15572314/accessibility?u=76281980&t=180)** They might use your well-phrased caption in an email to their colleagues, explaining why they should look at your content, and that caption also might be more likely to help them understand and remember your data, just like a good title does and by the way, the process of writing the caption and alt text will continue to help you hone in and understand what you're really communicating.
 >
@@ -2446,14 +2399,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[User Experience (UX)|User experience]] (2), [[Google]] (1), web (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Google]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Analogies:** just like (2), for instance (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### When and how to use animation and interactivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/when-and-how-to-use-animation-and-interactivity?u=76281980)
+#### [When and how to use animation and interactivity](https://www.linkedin.com/learning/learning-data-visualization-15572314/when-and-how-to-use-animation-and-interactivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2479,7 +2431,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-data-visualization-15572314/when-and-how-to-use-animation-and-interactivity?u=76281980&t=69)** And this idea of building content isn't new to online news.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-data-visualization-15572314/when-and-how-to-use-animation-and-interactivity?u=76281980&t=73)** This is a built in feature of PowerPoint that's been used to build slides for a couple of decades or so.
+> **[1:13](https://www.linkedin.com/learning/learning-data-visualization-15572314/when-and-how-to-use-animation-and-interactivity?u=76281980&t=73)** This is a built in feature of [[Microsoft PowerPoint|PowerPoint]] that's been used to build slides for a couple of decades or so.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-data-visualization-15572314/when-and-how-to-use-animation-and-interactivity?u=76281980&t=79)** So building contents to reveal complexity or progress a story isn't a new idea either.
 >
@@ -2503,14 +2455,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), feature (1), [[Microsoft PowerPoint|Powerpoint]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ruthless editing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/ruthless-editing?u=76281980)
+#### [Ruthless editing](https://www.linkedin.com/learning/learning-data-visualization-15572314/ruthless-editing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2542,7 +2493,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Tools:** sublime (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2551,8 +2501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2560,7 +2509,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=10)** Now that you're armed with a new way of thinking about this work, there are a bunch of different ways to go next.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=15)** You can check out other courses here on LinkedIn Learning that might be of interest to you.
+> **[0:15](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=15)** You can check out other courses here on [[LinkedIn]] Learning that might be of interest to you.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=19)** For instance, I have a course called Data Visualization: A Lesson and Lesson Series, which is a monthly recurring series.
 >
@@ -2568,7 +2517,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=32)** You'll find lots of good content if you want to check that course out.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=35)** And feel free to check out my other courses here on LinkedIn Learning, which cover a range of topics in data storytelling and visualization.
+> **[0:35](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=35)** And feel free to check out my other courses here on LinkedIn Learning, which cover a range of topics in [[Data Storytelling]] and visualization.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=43)** You also might feel like you want to start to learn more about data analytics.
 >
@@ -2576,7 +2525,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=60)** And finally, you'll want to learn some data visualization tools.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=63)** You can learn Excel from Oz du Soleil, or Power BI from Geni von Courter, or Tableau from Curt Frye.
+> **[1:03](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=63)** You can learn [[Microsoft Excel|Excel]] from Oz du Soleil, or [[Microsoft Power BI|Power BI]] from Geni von Courter, or [[Tableau]] from Curt Frye.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980&t=70)** I really hope you've enjoyed this course, and I wish you the best of luck on your ongoing learning journey.
 >
@@ -2584,7 +2533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[LinkedIn]] (3), [[Analytics]] (2), next (1), [[Data Storytelling]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Data Storytelling]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1), [[Tableau]] (1)
 > **Analogies:** for instance (1), it's like (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)

@@ -129,15 +129,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the best way to use AWS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-way-to-use-aws?u=76281980)
+#### [What is the best way to use AWS?](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-way-to-use-aws?u=76281980)
 
-#### How to choose AWS services
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980)
+#### [How to choose AWS services](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980&t=0)** - Amazon Web Services has over a hundred different services, and it just seems like they're adding more and more each year.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980&t=0)** - [[Amazon Web Services (AWS)|Amazon Web Services]] has over a hundred different services, and it just seems like they're adding more and more each year.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980&t=8)** Now, don't worry.
 >
@@ -185,15 +183,15 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980&t=214)** Then, we're going to start from the bottom of the Starship in our engine room, and we're going to get our hands dirty with some servers and some storage options, and go through some cloud networking concepts.
 >
-> **[3:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980&t=225)** From there, we're going to move up to the nicer decks of our Starship, where AWS has done all the work of managing servers and databases, and look at the various tools they have for quickly deploying your code, or helping you quickly develop a mobile application, or leverage machine learning in your application for text recognition or voice detection.
+> **[3:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980&t=225)** From there, we're going to move up to the nicer decks of our Starship, where AWS has done all the work of managing servers and [[Databases]], and look at the various tools they have for quickly deploying your code, or helping you quickly develop a mobile application, or leverage machine learning in your application for text recognition or voice detection.
 >
-> **[4:07](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980&t=247)** Along the way, we'll encounter several terms that you might have heard related to cloud computing, such as infrastructure as a service, big data, and serverless architecture.
+> **[4:07](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980&t=247)** Along the way, we'll encounter several terms that you might have heard related to [[Cloud Computing]], such as [[IaaS|infrastructure as a service]], [[Big Data]], and serverless architecture.
 >
 > **[4:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/how-to-choose-aws-services?u=76281980&t=258)** Hey, listen, don't worry, we're going to break down all the buzzwords for you, so get ready to learn.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (14), application (2), mobile application (2), cloud (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Databases]] (1), [[Cloud Computing]] (1), [[IaaS|Infrastructure as a service]] (1), [[Big Data]] (1)
 > **CLI Commands:** aws (14), find (1), make (1)
 > **Env Vars:** aws (14), dns (1)
 > **Documentation:** the documentation (2)
@@ -201,20 +199,19 @@ created: 2026-05-02
 > **Speakers:** - amazon (1), - so (1)
 > **Analogies:** such as (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=0)** - You don't have to be an expert on managing servers to take this course, but it helps if you have a basic understanding of how a computer works and how devices talk to each other in an IP network, much like the network you probably have at home.
 >
-> **[0:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=14)** This course is going to introduce cloud computing concepts using computer parts that you would find on the shelves of any big box electronic store, such as CPUs, and RAM, and networking switches, and routers.
+> **[0:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=14)** This course is going to introduce [[Cloud Computing]] concepts using computer parts that you would find on the shelves of any big box electronic store, such as CPUs, and RAM, and networking switches, and routers.
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=26)** So, it helps if you've used these components before and you're at least a little familiar with what they do.
 >
-> **[0:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=33)** The application that you're developing may not be a web or mobile app, but I'll introduce you to some cloud concepts by showing you a few ways you can host a website with AWS, such as one built on WordPress.
+> **[0:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=33)** The application that you're developing may not be a web or mobile app, but I'll introduce you to some cloud concepts by showing you a few ways you can host a website with AWS, such as one built on [[WordPress]].
 >
-> **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=45)** You should have a basic understanding of how a web server works and how a domain name like [linkedin.com](https://linkedin.com) points to an IP address for serving up that site to your web browser.
+> **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=45)** You should have a basic understanding of how a web server works and how a domain name like [[[LinkedIn]].com](https://linkedin.com) points to an IP address for serving up that site to your web browser.
 >
 > **[0:56](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-you-need-to-know?u=76281980&t=56)** You likely don't transport your source code around using a huge external hard drive like this one anymore, but this hard drive will represent the source code and the assets to the application you want to run from within AWS.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), web (3), cloud (2), aws (2), database (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[WordPress]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (2), find (1)
 > **Env Vars:** aws (2), ram (1)
 > **Exercise Files:** source code (2)
@@ -245,8 +242,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The AWS root account
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/the-aws-root-account-22739499?u=76281980)
+#### [The AWS root account](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/the-aws-root-account-22739499?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/the-aws-root-account-22739499?u=76281980&t=136)** You never want to give out your AWS root account and you should only log into the AWS root account when you absolutely have to.
 >
-> **[2:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/the-aws-root-account-22739499?u=76281980&t=145)** Make sure your AWS root account has a strong password and if you want to take extra precautions, AWS recommends that you secure the root account by using a physical multi-factor authentication key.
+> **[2:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/the-aws-root-account-22739499?u=76281980&t=145)** Make sure your AWS root account has a strong password and if you want to take extra precautions, AWS recommends that you secure the root account by using a physical [[Multi-factor Authentication]] key.
 >
 > **[2:39](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/the-aws-root-account-22739499?u=76281980&t=159)** The MFA key requires that whoever puts on the captain's uniform must have the root username and password and have the MFA key in hand.
 >
@@ -298,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (22), [[Multi-factor Authentication]] (2), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (2)
 > **Env Vars:** aws (21), mfa (9), iam (6)
 > **CLI Commands:** aws (22), make (1), find (1)
 > **UI Navigation:** click on (3)
@@ -307,8 +303,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Tools:** aws console (1)
 
-#### Learn how to create an IAM user group
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980)
+#### [Learn how to create an IAM user group](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,13 +335,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=122)** if you have existing IAM users already, you can attach them to this new group by selecting them in the section below, but we're going to create a new user and attach them to this group in the next video.
 >
-> **[2:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=137)** Scroll down and under the section attach permissions policies, click inside of the policy search bar, type administrator access, all one word with no spaces, and press enter.
+> **[2:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=137)** Scroll down and under the section attach permissions policies, click inside of the policy search bar, type administrator access, all one [[Microsoft Word|word]] with no spaces, and press enter.
 >
 > **[2:36](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=156)** Click the checkbox next to the Administrator Access policy.
 >
 > **[2:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=162)** The Administrator Access policy includes all of the default security policies that AWS has for administrator access.
 >
-> **[2:52](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=172)** But if you would like to really dial in exactly what your team members have access to in AWS, such as allowing a team member to create servers and read data from your AWS databases, but restrict them from viewing your billing details, you can create a custom policy for this group and grant or deny access to specific permissions and resources within AWS.
+> **[2:52](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=172)** But if you would like to really dial in exactly what your team members have access to in AWS, such as allowing a team member to create servers and read data from your AWS [[Databases]], but restrict them from viewing your billing details, you can create a custom policy for this group and grant or deny access to specific permissions and resources within AWS.
 >
 > **[3:21](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=201)** AWS recommends that you follow the rule of only granting least-privilege or only giving your team members the bare minimum of rights over your AWS account that they need to perform their jobs well.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=236)** To view the group we just created, click on admins from the group list.
 >
-> **[4:02](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=242)** Notice under the summary that this user group has an ARN, or A-R-N, which stands for Amazon Resource Names, all of your cloud infrastructure, including your servers, networking components, storage, IAM users, your roles, almost everything will have a unique ARN.
+> **[4:02](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=242)** Notice under the summary that this user group has an ARN, or A-R-N, which stands for Amazon Resource Names, all of your [[Cloud Infrastructure]], including your servers, networking components, storage, IAM users, your roles, almost everything will have a unique ARN.
 >
 > **[4:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-group?u=76281980&t=265)** This is like the dog tags to your cloud infrastructure.
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), [[Search]] (3), [[Cloud Infrastructure]] (3), next (2), management (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (3), [[Microsoft Word|Word]] (1), [[Databases]] (1)
 > **Env Vars:** aws (13), iam (11), arn (3)
 > **CLI Commands:** aws (13), find (1)
 > **UI Navigation:** click on (8), scroll down (2), checkbox (2)
@@ -377,8 +372,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
 
-#### Learn how to create an IAM user and access key
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980)
+#### [Learn how to create an IAM user and access key](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,7 +388,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980&t=30)** It's like creating a set of car keys for your AWS account.
 >
-> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980&t=35)** We need this key later because later in the course we're going to use the AWS command-line interface or CLI to interact with our AWS account.
+> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980&t=35)** We need this key later because later in the course we're going to use the AWS command-line interface or [[CLI]] to interact with our AWS account.
 >
 > **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980&t=45)** And you'll need this key to tell AWS who you are.
 >
@@ -448,9 +442,9 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980&t=215)** You can even load up the IAM console again and start adding the other users on your team.
 >
-> **[3:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980&t=222)** If you need to manage a large list of users and you already use another identity provider such as Microsoft's Active Directory take a look at AWS Identity Center.
+> **[3:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980&t=222)** If you need to manage a large list of users and you already use another identity provider such as [[Microsoft]]'s [[Active Directory]] take a look at AWS Identity Center.
 >
-> **[3:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980&t=235)** This can be configured so that your users have a single sign-on that they will use inside your office and from within AWS.
+> **[3:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980&t=235)** This can be configured so that your users have a single sign-on that they will use inside your [[Microsoft Office|office]] and from within AWS.
 >
 > **[4:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-iam-user-and-access-key?u=76281980&t=246)** And if you have a ton of departments, or separate companies, or startup projects that you need to stay somewhat isolated from each other, you might find it easier to create multiple root accounts.
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), next (4), [[CLI]] (1), management (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[Microsoft]] (1), [[Active Directory]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** aws (13), iam (3), csv (3), url (2), cli (1)
 > **CLI Commands:** aws (13), make (3), find (1)
 > **UI Navigation:** click on (4), checkbox (2), go to (1)
@@ -469,8 +463,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Tools:** aws console (1)
 
-#### Break down the bill in AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/break-down-the-bill-in-aws?u=76281980)
+#### [Break down the bill in AWS](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/break-down-the-bill-in-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,7 +491,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/break-down-the-bill-in-aws?u=76281980&t=94)** If this is a new account, it may take a little bit before AWS starts showing you billing metrics.
 >
-> **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/break-down-the-bill-in-aws?u=76281980&t=102)** At the bottom of this widget, click on the Go to AWS Cost Management link.
+> **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/break-down-the-bill-in-aws?u=76281980&t=102)** At the bottom of this widget, click on the Go to AWS [[Cost Management]] link.
 >
 > **[1:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/break-down-the-bill-in-aws?u=76281980&t=109)** Within the AWS Cost Management screen, on the left-hand side, click Cost Explorer.
 >
@@ -534,7 +527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (15), [[Cost Management]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Cost Management]] (2)
 > **Env Vars:** aws (15), pdf (2)
 > **CLI Commands:** aws (15), make (1)
 > **UI Navigation:** click on (3), scroll down (2), go to (1)
@@ -542,8 +535,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - man (1)
 
-#### Set a budget to save money
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-a-budget-to-save-money?u=76281980)
+#### [Set a budget to save money](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-a-budget-to-save-money?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-a-budget-to-save-money?u=76281980&t=8)** Just like you can create a budget in real life to monitor how you would spend on groceries and eating out, you can create budgets within AWS to monitor your spending on one or all of your AWS services.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-a-budget-to-save-money?u=76281980&t=22)** On the left underneath cost management, click on Budgets.
+> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-a-budget-to-save-money?u=76281980&t=22)** On the left underneath [[Cost Management]], click on Budgets.
 >
 > **[0:29](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-a-budget-to-save-money?u=76281980&t=29)** Click on Create a budget.
 >
@@ -587,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), next (4), [[Cost Management]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Cost Management]] (1)
 > **CLI Commands:** aws (9), make (3)
 > **Env Vars:** aws (9)
 > **UI Navigation:** click on (2), scroll down (2)
@@ -600,16 +592,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### On-premise infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980)
+#### [On-premise infrastructure](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=0)** - Let's clear the air and demystify the cloud.
 >
-> **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=4)** And to do this, we need to go back in time to the birth of the cloud, to the year 2006, right before Amazon Web Services launched.
+> **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=4)** And to do this, we need to go back in time to the birth of the cloud, to the year 2006, right before [[Amazon Web Services (AWS)|Amazon Web Services]] launched.
 >
-> **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=13)** So at this time, to host an application over to the internet, most medium to large organizations would self-host and build out an expensive data center room in their office.
+> **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=13)** So at this time, to host an application over to the internet, most medium to large organizations would self-host and build out an expensive data center room in their [[Microsoft Office|office]].
 >
 > **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=23)** Or they would do what most small businesses were doing and they would rent space in someone else's data center called co-location, which would provide you with redundant sources of power and internet so that, you know, your whole website doesn't go down every time building maintenance shuts off the breakers.
 >
@@ -645,13 +636,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=149)** And you'd just have this giant thing shipped to you.
 >
-> **[2:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=152)** Then you would self-host it from a room within your office or you'd set it up, the fancy word for this was to provision it, and then take it down to your co-located data center, which was called the colo, and slot it into your server rack.
+> **[2:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=152)** Then you would self-host it from a room within your office or you'd set it up, the fancy [[Microsoft Word|word]] for this was to provision it, and then take it down to your co-located data center, which was called the colo, and slot it into your server rack.
 >
 > **[2:47](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=167)** So a third option that you had is that you could lease dedicated servers.
 >
 > **[2:51](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=171)** So instead of bringing your own server down to the colo you would just rent one of these servers.
 >
-> **[2:56](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=176)** And if anything happened to say the hardware of the server, instead of you driving down to the data center to fix it the data center text would just walk over and look at your server and fix anything that was wrong with it.
+> **[2:56](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=176)** And if anything happened to say the [[Hardware]] of the server, instead of you driving down to the data center to fix it the data center text would just walk over and look at your server and fix anything that was wrong with it.
 >
 > **[3:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=189)** These three types of deployments fell under a category called on-premise hosting, which is some form of just do it yourself hosting where you had the full responsibility of figuring out what to do if your single server failed on a busy Tuesday afternoon.
 >
@@ -663,7 +654,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=234)** So this allowed a single physical server to split up its resources and appear to the outside world as three or even 10 separate servers.
 >
-> **[4:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=246)** So you can do this today with your own computer using software from VMware or VirtualBox and it'll let you run an old copy of say, you know, Windows 7 virtually on top of any operating system you've got.
+> **[4:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=246)** So you can do this today with your own computer using software from VMware or VirtualBox and it'll let you run an old copy of say, you know, [[Windows]] 7 virtually on top of any operating system you've got.
 >
 > **[4:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980&t=259)** Why does virtualization matter?
 >
@@ -673,21 +664,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (3), [[Virtualization]] (3), [[Microsoft Office|Office]] (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Hardware]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - let (1)
 
-#### Birth of the cloud: EC2 and S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980)
+#### [Birth of the cloud: EC2 and S3](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=0)** - Running your own servers, whether from your own office, or from within a data center, has a lot of challenges to it.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=0)** - Running your own servers, whether from your own [[Microsoft Office|office]], or from within a data center, has a lot of challenges to it.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=7)** You need to have staff that understands how to maintain and to fix all that hardware, and that team also needs to be responsible for maintaining all the software that's running on that hardware.
+> **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=7)** You need to have staff that understands how to maintain and to fix all that [[Hardware]], and that team also needs to be responsible for maintaining all the software that's running on that hardware.
 >
 > **[0:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=18)** Another issue that companies were facing was scaling.
 >
@@ -701,13 +691,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=54)** It could take weeks to order and set up new servers, so by the time you rack 10 more servers and brought them online, the traffic from that news article has already moved on, and you lost a key moment to acquire a lot of new customers.
 >
-> **[1:08](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=68)** So to help with this, Amazon launched two services, one of these services is called Elastic Compute Cloud, which is abbreviated as EC2.
+> **[1:08](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=68)** So to help with this, Amazon launched two services, one of these services is called Elastic Compute Cloud, which is abbreviated as [[Amazon EC2|EC2]].
 >
 > **[1:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=78)** This is the old icon for the entire EC2 service, and this is the new icon.
 >
 > **[1:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=85)** On the surface, this just looked like virtual servers that you could rent from Amazon, which a lot of other companies were doing this at the same time.
 >
-> **[1:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=93)** The secret sauce here is that word elastic.
+> **[1:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=93)** The secret sauce here is that [[Microsoft Word|word]] elastic.
 >
 > **[1:37](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=97)** Think about the number of servers stretching automatically when traffic increases, and then shrinking back down again when the traffic drops off.
 >
@@ -725,11 +715,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=167)** So when you were using Dropbox, you were really using S3 storage.
 >
-> **[2:53](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=173)** Because you could now virtually build servers and storage solutions in the cloud with EC2 and S3, these services acquired the term Infrastructure as a Service, or IaaS, where instead of building out your own physical infrastructure of racks and servers, you're renting someone else's racks, and only paying them for how much of the service you consume.
+> **[2:53](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=173)** Because you could now virtually build servers and storage solutions in the cloud with EC2 and S3, these services acquired the term [[IaaS|Infrastructure as a Service]], or [[IaaS]], where instead of building out your own physical infrastructure of racks and servers, you're renting someone else's racks, and only paying them for how much of the service you consume.
 >
 > **[3:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=198)** The cloud revolution led to greater up times, and total lower costs of ownership, because you no longer had to buy your own physical servers and replace them every few years, and have all that staff to maintain that hardware.
 >
-> **[3:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=213)** However, even though Amazon manages the physical servers, you still have responsibilities over the software on your virtual servers, this is called the Shared Responsibility Model, where you, and Amazon Web Services, share different responsibilities in keeping your servers up.
+> **[3:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=213)** However, even though Amazon manages the physical servers, you still have responsibilities over the software on your virtual servers, this is called the Shared Responsibility Model, where you, and [[Amazon Web Services (AWS)|Amazon Web Services]], share different responsibilities in keeping your servers up.
 >
 > **[3:52](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=232)** AWS handles the data center and its physical security so no one can sneak into the data center and steal your files, and AWS holds certifications for the physical and hardware requirements of most industry compliance standards.
 >
@@ -737,17 +727,17 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=252)** To use the Infrastructure as a Service offerings, you are responsible for the security of your virtual machine.
 >
-> **[4:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=259)** You will need to run the operating system updates for Windows and Linux, configure backups, make sure your firewalls are set up correctly, and check on these things regularly on a maintenance schedule to ensure that you're practicing proper security.
+> **[4:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=259)** You will need to run the operating system updates for [[Windows]] and [[Linux]], configure backups, make sure your firewalls are set up correctly, and check on these things regularly on a maintenance schedule to ensure that you're practicing proper security.
 >
-> **[4:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=274)** You are also responsible for ensuring that your application is secured against known attacks, such as SQL injections.
+> **[4:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=274)** You are also responsible for ensuring that your application is secured against known attacks, such as [[SQL]] injections.
 >
-> **[4:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=282)** Okay, if these topics are brand new to you, and you've never managed servers before, search our catalog for Windows Server Security, or Linux Security, and you can dive deeper into these topics.
+> **[4:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=282)** Okay, if these topics are brand new to you, and you've never managed servers before, search our catalog for [[Windows Server]] Security, or Linux Security, and you can dive deeper into these topics.
 >
-> **[4:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=295)** To get started with application security, check out our course on [[Learning the OWASP Top 10]], which will cover the top 10 vulnerabilities in web applications.
+> **[4:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/birth-of-the-cloud-ec2-and-s3?u=76281980&t=295)** To get started with [[Application Security]], check out our course on [[Learning the [[OWASP]] Top 10]], which will cover the top 10 vulnerabilities in web applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), [[Hardware]] (6), [[Amazon EC2|Ec2]] (6), [[Security]] (6), cloud (4)
+> **Frameworks & Libraries:** [[Hardware]] (6), [[Amazon EC2|Ec2]] (6), [[IaaS|Infrastructure as a service]] (2), [[Linux]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ec2 (6), aws (3), sql (1), owasp (1)
 > **CLI Commands:** aws (3), make (1)
 > **Prerequisites:** set up (2), you need to have (1), configure (1)
@@ -756,8 +746,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - running (1)
 
-#### Where in the world are your AWS services?
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/where-in-the-world-are-your-aws-services?u=76281980)
+#### [Where in the world are your AWS services?](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/where-in-the-world-are-your-aws-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -773,7 +762,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/where-in-the-world-are-your-aws-services?u=76281980&t=33)** So your services may be served up behind the scenes by one or more AWS data centers linked together within that availability zone.
 >
-> **[0:44](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/where-in-the-world-are-your-aws-services?u=76281980&t=44)** AWS recommends that you always design your cloud infrastructure so that it can run simultaneously across at least two availability zones.
+> **[0:44](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/where-in-the-world-are-your-aws-services?u=76281980&t=44)** AWS recommends that you always design your [[Cloud Infrastructure]] so that it can run simultaneously across at least two availability zones.
 >
 > **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/where-in-the-world-are-your-aws-services?u=76281980&t=54)** Going back to our server rack, they want you to think of a single availability zone as a single rack in the data center.
 >
@@ -781,7 +770,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/where-in-the-world-are-your-aws-services?u=76281980&t=69)** You'll see options within various AWS services that refer to multi AZ for cloning your service into at least two availability zones.
 >
-> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/where-in-the-world-are-your-aws-services?u=76281980&t=79)** Okay, let's zoom out once more.
+> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/where-in-the-world-are-your-aws-services?u=76281980&t=79)** Okay, let's [[Zoom]] out once more.
 >
 > **[1:22](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/where-in-the-world-are-your-aws-services?u=76281980&t=82)** The availability zones are clustered together by region.
 >
@@ -807,7 +796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), data (7), [[Cloud Infrastructure]] (2), [[Zoom]] (1), application (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (2), [[Zoom]] (1)
 > **CLI Commands:** aws (9), az (2)
 > **Env Vars:** aws (9), ecs (1)
 > **Tools:** aws console (1)
@@ -815,8 +804,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - each (1)
 
-#### Get closer to users with Local Zones
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/get-closer-to-users-with-local-zones?u=76281980)
+#### [Get closer to users with Local Zones](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/get-closer-to-users-with-local-zones?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -826,7 +814,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/get-closer-to-users-with-local-zones?u=76281980&t=26)** AWS has local zones, which are extensions of the AWS regions that put a set of servers even closer to a set of users.
 >
-> **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/get-closer-to-users-with-local-zones?u=76281980&t=40)** Local zones are labeled as the region name such as US East One, followed by the physical location of the hardware such as DFW1A to indicate that these physical servers are located within Dallas, Texas.
+> **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/get-closer-to-users-with-local-zones?u=76281980&t=40)** Local zones are labeled as the region name such as US East One, followed by the physical location of the [[Hardware]] such as DFW1A to indicate that these physical servers are located within Dallas, Texas.
 >
 > **[0:56](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/get-closer-to-users-with-local-zones?u=76281980&t=56)** For our demo, it'll be fast enough to use US East one without using a local zone.
 >
@@ -834,7 +822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Hardware]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** aws (2), dfw1a (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** such as (2)
@@ -845,12 +833,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn how to create an EC2 instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980)
+#### [Learn how to create an EC2 instance](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=0)** - [Instructor] Let's create our first server within EC2.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=0)** - [Instructor] Let's create our first server within [[Amazon EC2|EC2]].
 >
 > **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=5)** From within the AWS console, in the services search bar, type in EC2 and click on the entry that auto-completes.
 >
@@ -862,11 +849,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=28)** Scroll down to the section titled Application and OS Images or Amazon Machine Image.
 >
-> **[0:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=38)** Virtual machines in AWS are called Amazon Machine Images or AMI.
+> **[0:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=38)** [[Virtual Machines]] in AWS are called Amazon Machine Images or AMI.
 >
-> **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=45)** These virtual machines already have an operating system or OS installed on them, such as Windows Server or your favorite Linux distribution.
+> **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=45)** These virtual machines already have an operating system or OS installed on them, such as [[Windows Server]] or your favorite [[Linux]] distribution.
 >
-> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=57)** There are several AMIs that already have entire server applications, such as WordPress, installed and configured for you.
+> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=57)** There are several AMIs that already have entire server applications, such as [[WordPress]], installed and configured for you.
 >
 > **[1:07](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=67)** Type WordPress into the AMI search bar and hit Enter.
 >
@@ -876,7 +863,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=88)** However, there are also some AMIs that have additional charges to cover the licensing and service fees for any commercial applications, so be sure to read the details before launching these.
 >
-> **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=102)** We are going to launch an instance with just Ubuntu installed on it and set up the web server ourselves.
+> **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=102)** We are going to launch an instance with just [[Ubuntu]] installed on it and set up the web server ourselves.
 >
 > **[1:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980&t=109)** So click on Launch an Instance from the breadcrumbs to return to the launch instance screen.
 >
@@ -888,7 +875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[WordPress]] (3), [[Ubuntu]] (3), aws (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[WordPress]] (3), [[Ubuntu]] (3), [[Virtual Machines]] (2), [[Windows Server]] (1)
 > **Env Vars:** ec2 (3), ami (3), aws (2), lts (1)
 > **UI Navigation:** click on (4), scroll down (2), select the (1)
 > **CLI Commands:** aws (2)
@@ -897,16 +884,15 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Prerequisites:** set up (1)
 
-#### What is the best EC2 instance type?
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980)
+#### [What is the best EC2 instance type?](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=0)** - Sometimes you might build a computer with a fancy graphics card for playing the latest PC games, and you typically don't find these in a server like this.
 >
-> **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=9)** But these chips on the graphics cards are faster at running some algorithms, such as finance models and some machine learning tasks.
+> **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=9)** But these chips on the graphics cards are faster at running some [[Algorithms]], such as finance models and some machine learning tasks.
 >
-> **[0:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=18)** You select more than just the number of CPU cores and RAM when you're building an EC2 instance.
+> **[0:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=18)** You select more than just the number of CPU cores and RAM when you're building an [[Amazon EC2|EC2]] instance.
 >
 > **[0:24](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=24)** It really is like specking out your own computer.
 >
@@ -916,7 +902,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=44)** The instance types will start with t2, t3, or c1 and so on, and this is the instance family.
 >
-> **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=54)** Each instance family has virtual machines that are optimized for certain workloads.
+> **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=54)** Each instance family has [[Virtual Machines]] that are optimized for certain workloads.
 >
 > **[1:01](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=61)** The T and M families are the most commonly used general purpose instances.
 >
@@ -934,7 +920,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=130)** These instances don't use the CPU credits so you don't have to worry about that.
 >
-> **[2:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=138)** The memory optimized R an X classes are for workloads that need more memory and there's even instances under the accelerated computing category that include GPUs which are great for 3D rendering pipelines or training some artificial intelligence models.
+> **[2:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=138)** The memory optimized R an X classes are for workloads that need more memory and there's even instances under the accelerated computing category that include GPUs which are great for 3D rendering pipelines or training some [[Artificial Intelligence (AI)|artificial intelligence]] models.
 >
 > **[2:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-ec2-instance-type?u=76281980&t=162)** Once you've selected an instance family, you'll need to choose the size of the instance.
 >
@@ -960,7 +946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), aws (3), [[Algorithms]] (1), [[Virtual Machines]] (1), application (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Algorithms]] (1), [[Virtual Machines]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** cpu (8), ec2 (5), aws (2), ram (1)
 > **CLI Commands:** aws (3), find (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -969,16 +955,15 @@ created: 2026-05-02
 > **Code Identifiers:** vcpus (1)
 > **Speakers:** - sometimes (1)
 
-#### Learn how to create a key pair
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980)
+#### [Learn how to create a key pair](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980&t=0)** - [Instructor] When you launch a new Linux instance within Amazon, you must use a key pair to set up SSH access to your server.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980&t=0)** - [Instructor] When you launch a new [[Linux]] instance within Amazon, you must use a key pair to set up SSH access to your server.
 >
 > **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980&t=9)** This will allow you to connect a terminal application to your server so that you can run commands against it.
 >
-> **[0:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980&t=17)** In the EC2 Launch Wizard, click on the Create new key pair link.
+> **[0:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980&t=17)** In the [[Amazon EC2|EC2]] Launch Wizard, click on the Create new key pair link.
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980&t=26)** For the key name type AWS demo and then click Create key pair.
 >
@@ -992,7 +977,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980&t=70)** You'll see that it's a really long private key and it's matching public key is kept by Amazon and installed onto our Linux virtual machine.
 >
-> **[1:22](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980&t=82)** If you are launching a Windows server EC2 instance this private key in the key pair is used to decrypt the administrator password to connect to your instance.
+> **[1:22](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980&t=82)** If you are launching a [[Windows Server]] EC2 instance this private key in the key pair is used to decrypt the administrator password to connect to your instance.
 >
 > **[1:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-a-key-pair?u=76281980&t=94)** If you're working on a team with several people it's a good idea to copy this private key into a secure password store and to grant access to your team members who need to access these servers.
 >
@@ -1022,7 +1007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), aws (3), web (3), [[Linux]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Linux]] (2), [[Windows Server]] (1)
 > **Env Vars:** ec2 (5), aws (3), ssh (2), pem (2), https (2)
 > **CLI Commands:** aws (3), ssh (2), make (2)
 > **Tools:** terminal (2)
@@ -1031,12 +1016,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up a web server
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980)
+#### [Set up a web server](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=0)** - [Instructor] In the EC2 console, you might have to expand out the left hand side by clicking on the hamburger icon and then under the instances header, click on instances.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=0)** - [Instructor] In the [[Amazon EC2|EC2]] console, you might have to expand out the left hand side by clicking on the hamburger icon and then under the instances header, click on instances.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=12)** The instance state is listed next to our new instance and if it doesn't say running yet, just give it a few more minutes to start up.
 >
@@ -1050,7 +1034,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=55)** The AMI images that Amazon provides do not always include the latest packages or OS updates, so you'll want to make sure your virtual machine has the latest packages in OS updates before starting.
 >
-> **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=71)** Now that Ubuntu has updated its list of available packages, type sudo space apt space upgrade, and hit enter.
+> **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=71)** Now that [[Ubuntu]] has updated its list of available packages, type sudo space apt space upgrade, and hit enter.
 >
 > **[1:21](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=81)** Type capital Y to confirm, and hit enter.
 >
@@ -1086,7 +1070,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=223)** Press capital Y and hit enter to confirm.
 >
-> **[3:48](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=228)** This will install the Apache Web Server with its default configuration and installing a web server is one of the first steps to setting up a web application, like WordPress.
+> **[3:48](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=228)** This will install the Apache Web Server with its default configuration and installing a web server is one of the first steps to setting up a web application, like [[WordPress]].
 >
 > **[4:01](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/set-up-a-web-server?u=76281980&t=241)** Switch back to the previous browser tab that has the EC2 console.
 >
@@ -1112,7 +1096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Amazon EC2|Ec2]] (5), next (4), web (4), [[Ubuntu]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Ubuntu]] (2), [[WordPress]] (1)
 > **CLI Commands:** make (4), ssh (3), sudo (3), apt (3), apache (3)
 > **Env Vars:** ec2 (5), ssh (3), ami (1), aws (1), url (1)
 > **UI Navigation:** click on (8), checkbox (3), select the (1)
@@ -1121,12 +1105,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stopping and starting vs. rebooting instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/stopping-and-starting-vs-rebooting-instances?u=76281980)
+#### [Stopping and starting vs. rebooting instances](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/stopping-and-starting-vs-rebooting-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/stopping-and-starting-vs-rebooting-instances?u=76281980&t=0)** - [Instructor] In the EC2 console, on the instances screen make sure you've selected your running instance.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/stopping-and-starting-vs-rebooting-instances?u=76281980&t=0)** - [Instructor] In the [[Amazon EC2|EC2]] console, on the instances screen make sure you've selected your running instance.
 >
 > **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/stopping-and-starting-vs-rebooting-instances?u=76281980&t=7)** Then click on the Instance state pull down at the top and in the options select Stop instance and then click the Stop button.
 >
@@ -1136,7 +1119,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/stopping-and-starting-vs-rebooting-instances?u=76281980&t=42)** If you stop and start an instance this virtual machine will actually move to another physical server in the availability zone.
 >
-> **[0:51](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/stopping-and-starting-vs-rebooting-instances?u=76281980&t=51)** So do this if you're having problems connecting to the instance because it could be a hardware failure on the AWS side.
+> **[0:51](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/stopping-and-starting-vs-rebooting-instances?u=76281980&t=51)** So do this if you're having problems connecting to the instance because it could be a [[Hardware]] failure on the AWS side.
 >
 > **[1:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/stopping-and-starting-vs-rebooting-instances?u=76281980&t=60)** After a few moments, click the Refresh button and you'll see that your instance is in a stopped state.
 >
@@ -1158,18 +1141,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Hardware]] (2), hit (2), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Amazon EC2|Ec2]] (1)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** aws (3), make (1)
 > **Env Vars:** aws (3), ec2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Right-sizing with EC2 autoscaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/right-sizing-with-ec2-autoscaling?u=76281980)
+#### [Right-sizing with EC2 autoscaling](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/right-sizing-with-ec2-autoscaling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/right-sizing-with-ec2-autoscaling?u=76281980&t=0)** - Remember, EC2 stands for Elastic Compute Cloud, and the word of the day is elastic.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/right-sizing-with-ec2-autoscaling?u=76281980&t=0)** - Remember, [[Amazon EC2|EC2]] stands for Elastic Compute Cloud, and the [[Microsoft Word|word]] of the day is elastic.
 >
 > **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/right-sizing-with-ec2-autoscaling?u=76281980&t=9)** An Auto Scaling policy can tell AWS that when an event occurs, such as our instance CPU usage goes above 80% for five minutes to stretch our one server into two.
 >
@@ -1203,7 +1185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), application (4), [[Amazon EC2|Ec2]] (2), traffic (2), cloud (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** aws (5), ec2 (2), cpu (2), ami (1)
 > **CLI Commands:** aws (5)
 > **Definitions:** stands for (1), is called (1)
@@ -1211,12 +1193,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - remember (1)
 
-#### Learn how to create backups with an AMI Snapshot
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-backups-with-an-ami-snapshot?u=76281980)
+#### [Learn how to create backups with an AMI Snapshot](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-backups-with-an-ami-snapshot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-backups-with-an-ami-snapshot?u=76281980&t=0)** - [Instructor] From within the EC2 console in the details pane of your running instance, click on the Networking tab, scroll down and take note of the availability zone.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-backups-with-an-ami-snapshot?u=76281980&t=0)** - [Instructor] From within the [[Amazon EC2|EC2]] console in the details pane of your running instance, click on the Networking tab, scroll down and take note of the availability zone.
 >
 > **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-backups-with-an-ami-snapshot?u=76281980&t=10)** the instance is currently running in.
 >
@@ -1294,7 +1275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Amazon EC2|Ec2]] (3), aws (1), hit (1), traffic (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **UI Navigation:** click on (8), scroll down (1), select the (1)
 > **Env Vars:** ami (4), ec2 (3), aws (1)
 > **CLI Commands:** aws (1), make (1), apache (1)
@@ -1303,20 +1284,19 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Best Practices:** remember to (1)
 
-#### Saving money in EC2
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980)
+#### [Saving money in EC2](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=0)** - [Instructor] The instances that we just spun up, are called on demand instances, and we can turn them off at any time to stop accumulating billing charges.
 >
-> **[0:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=11)** But, if you can help out AWS by telling them upfront what your usage will be over the next year, you can help AWS plan out their needed hardware capacity.
+> **[0:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=11)** But, if you can help out AWS by telling them upfront what your usage will be over the next year, you can help AWS plan out their needed [[Hardware]] capacity.
 >
 > **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=22)** And as a thank you, they'll give you some discounts on your usage.
 >
 > **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=28)** One way to do this, is through reserved instances.
 >
-> **[0:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=33)** Reserved instances aren't actual EC2 instances, they're billing coupons you are purchasing for a specific instance type.
+> **[0:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=33)** Reserved instances aren't actual [[Amazon EC2|EC2]] instances, they're billing coupons you are purchasing for a specific instance type.
 >
 > **[0:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=42)** For example, when you buy a T3 medium reserved instance, you're telling AWS you would like a coupon for the monthly discount off any one, on demand, T3 medium instance.
 >
@@ -1354,7 +1334,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=188)** An EC2 instant savings plan will allow you to change the size of your server over the course of your contract, but you must stay within the same instance family.
 >
-> **[3:20](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=200)** So you could go from a T3 medium to a T3 large, or switch between Linux and Windows instance types, and still stay within your contract.
+> **[3:20](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=200)** So you could go from a T3 medium to a T3 large, or switch between [[Linux]] and [[Windows]] instance types, and still stay within your contract.
 >
 > **[3:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/saving-money-in-ec2-22737463?u=76281980&t=213)** If you need to be able to switch instance families entirely, use a compute savings plan instead.
 >
@@ -1366,7 +1346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), next (4), [[Amazon EC2|Ec2]] (4), [[Hardware]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Hardware]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** aws (4), ec2 (4)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** click on (3)
@@ -1378,8 +1358,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using security groups as firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980)
+#### [Using security groups as firewalls](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,7 +1372,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980&t=53)** Think of these as line filters on ethernet cords going into your servers.
 >
-> **[0:59](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980&t=59)** If you do see a security group on a diagram, it's usually a black and red dashed line that is drawn around the resource it's protecting, such as an EC2 instance.
+> **[0:59](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980&t=59)** If you do see a security group on a diagram, it's usually a black and red dashed line that is drawn around the resource it's protecting, such as an [[Amazon EC2|EC2]] instance.
 >
 > **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980&t=70)** Now that I've got a security group in place, I'm ready to connect back to the public internet.
 >
@@ -1431,9 +1410,9 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980&t=220)** It's not a great idea to have our SSH port publicly exposed to the entire internet, even though AWS gave us a really long and secure private key to use when we created the key pair.
 >
-> **[3:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980&t=235)** Throughout the rest of this chapter, we are going to discuss some other networking strategies that will give you better security.
+> **[3:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980&t=235)** Throughout the [[Representational State Transfer (REST)|rest]] of this chapter, we are going to discuss some other networking strategies that will give you better security.
 >
-> **[4:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980&t=243)** Our security group will also accept any traffic over Port 80, which is the default HTTP port used by web servers that are not encrypting their traffic.
+> **[4:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980&t=243)** Our security group will also accept any traffic over Port 80, which is the default HTTP port used by [[Web Servers]] that are not encrypting their traffic.
 >
 > **[4:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980&t=255)** Next to the HTTP Port 80 rule, click the Delete button, and we're going to see what this does to our web server.
 >
@@ -1487,7 +1466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (32), web (11), traffic (8), [[Amazon EC2|Ec2]] (6), next (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Web Servers]] (1)
 > **Env Vars:** ec2 (6), http (6), ssh (3), aws (1), tpc (1)
 > **UI Navigation:** click on (7), select the (2)
 > **CLI Commands:** make (3), ssh (3), aws (1)
@@ -1496,8 +1475,7 @@ created: 2026-05-02
 > **Versions:** version 4 (3), 0.0.0 (1)
 > **Cross-References:** go back to (1)
 
-#### Virtual Private Cloud (VPC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/virtual-private-cloud-vpc-22731602?u=76281980)
+#### [Virtual Private Cloud (VPC)](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/virtual-private-cloud-vpc-22731602?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,7 +1493,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/virtual-private-cloud-vpc-22731602?u=76281980&t=75)** Here's the old icon for a VPC.
 >
-> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/virtual-private-cloud-vpc-22731602?u=76281980&t=79)** Your EC2 instances still have security groups on them and those still take priority, but your instances will also sit within a VPC with private networking addresses, which will allow your servers to talk privately with each other without traversing the public internet.
+> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/virtual-private-cloud-vpc-22731602?u=76281980&t=79)** Your [[Amazon EC2|EC2]] instances still have security groups on them and those still take priority, but your instances will also sit within a VPC with private networking addresses, which will allow your servers to talk privately with each other without traversing the public internet.
 >
 > **[1:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/virtual-private-cloud-vpc-22731602?u=76281980&t=98)** A VPC is indicated on diagrams as a green box that is drawn around the components within the VPC.
 >
@@ -1523,7 +1501,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/virtual-private-cloud-vpc-22731602?u=76281980&t=113)** Every VPC will have a range of non-routable IPs or private IPs that you can pick from to use in your private network.
 >
-> **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/virtual-private-cloud-vpc-22731602?u=76281980&t=124)** Within your home network, when you try to link two computers together with a switch, also called your Local Area Network or LAN, you'll be working with ranges of non-routable IP addresses which can be used by any local network such as the common 192.168.1.1 through 255 address ranges
+> **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/virtual-private-cloud-vpc-22731602?u=76281980&t=124)** Within your home network, when you try to link two computers together with a switch, also called your [[Local Area Network (LAN)|Local Area Network]] or LAN, you'll be working with ranges of non-routable IP addresses which can be used by any local network such as the common 192.168.1.1 through 255 address ranges
 >
 > **[2:30](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/virtual-private-cloud-vpc-22731602?u=76281980&t=150)** you'll see used by most home routers.
 >
@@ -1543,7 +1521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Amazon EC2|Ec2]] (2), cloud (1), [[Security]] (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** vpc (13), aws (5), ec2 (2), lan (1)
 > **CLI Commands:** aws (5)
 > **Versions:** 192.168.1 (3), 172.31.0 (1), 172.31.255 (1)
@@ -1552,8 +1530,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Tools:** aws console (1)
 
-#### Public and private subnets
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/public-and-private-subnets?u=76281980)
+#### [Public and private subnets](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/public-and-private-subnets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,9 +1544,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/public-and-private-subnets?u=76281980&t=40)** If you scroll to the right in the table, you'll notice that it created a subnet within each availability zone in this region.
 >
-> **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/public-and-private-subnets?u=76281980&t=50)** So if my EC2 instance has a private IP address of 172.31.0.something, then it's going to be in the US East One region, in the 1A availability zone.
+> **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/public-and-private-subnets?u=76281980&t=50)** So if my [[Amazon EC2|EC2]] instance has a private IP address of 172.31.0.something, then it's going to be in the US East One region, in the 1A availability zone.
 >
-> **[1:08](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/public-and-private-subnets?u=76281980&t=68)** You can divide up your subnets even further and a best practice is to create a public subnet within an availability zone that includes all of your servers that will be exposed to incoming internet traffic, like your web servers, and then to also create a private subnet, which will include servers that need to be more protected, such as your database servers or file servers.
+> **[1:08](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/public-and-private-subnets?u=76281980&t=68)** You can divide up your subnets even further and a best practice is to create a public subnet within an availability zone that includes all of your servers that will be exposed to incoming internet traffic, like your [[Web Servers]], and then to also create a private subnet, which will include servers that need to be more protected, such as your database servers or file servers.
 >
 > **[1:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/public-and-private-subnets?u=76281980&t=95)** This diagram shows one VPC created within a region that includes a public and a private subnet.
 >
@@ -1581,7 +1558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Amazon EC2|Ec2]] (2), traffic (1), web (1), database (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Web Servers]] (1)
 > **Env Vars:** vpc (6), aws (2), ec2 (2)
 > **CLI Commands:** aws (2), make (1)
 > **Best Practices:** best practice (1), it's best to (1)
@@ -1590,8 +1567,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Internet and NAT gateways
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/internet-and-nat-gateways-22736458?u=76281980)
+#### [Internet and NAT gateways](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/internet-and-nat-gateways-22736458?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1601,7 +1577,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/internet-and-nat-gateways-22736458?u=76281980&t=26)** This allows your wide area network interface to get a single public IP address from your internet provider, like 1.2.3.4, and to share that IP address to all the devices on your local area, network, or LAN.
 >
-> **[0:41](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/internet-and-nat-gateways-22736458?u=76281980&t=41)** So when one of your computers, such as 192.168.1.2, goes to a website like [linkedin.com](https://linkedin.com), the servers at LinkedIn will see traffic coming from the WAN interface at 1.2.3.4, and then when LinkedIn responds, the return traffic is sent to 1.2.3.4, and it's routed by your router back to the originating computer at 192.168.1.2.
+> **[0:41](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/internet-and-nat-gateways-22736458?u=76281980&t=41)** So when one of your computers, such as 192.168.1.2, goes to a website like [[[LinkedIn]].com](https://linkedin.com), the servers at LinkedIn will see traffic coming from the WAN interface at 1.2.3.4, and then when LinkedIn responds, the return traffic is sent to 1.2.3.4, and it's routed by your router back to the originating computer at 192.168.1.2.
 >
 > **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/internet-and-nat-gateways-22736458?u=76281980&t=70)** Now, if some random person on the internet, such as 5.6.7.8, wants to reach one of your private devices, it's going to try to open a connection with 1.2.3.4, which is your WAN interface, and then your router will drop the traffic because it doesn't know which computer on your private network it needs to route this traffic to because no private device first talked to 5.6.7.8.
 >
@@ -1637,7 +1613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (10), [[LinkedIn]] (3), aws (2), lan (1), database (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **Env Vars:** nat (9), vpc (6), wan (3), aws (2), lan (1)
 > **Versions:** 1.2.3 (4), 192.168.1 (2), 5.6.7 (2)
 > **UI Navigation:** click on (3), open the (1)
@@ -1646,8 +1622,7 @@ created: 2026-05-02
 > **CLI Commands:** aws (2)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 
-#### Static addresses with Elastic IPs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980)
+#### [Static addresses with Elastic IPs](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1659,9 +1634,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980&t=36)** Now, if you've hard coded your IP address anywhere, such as in your DNS records, which we'll get into DNS later, then you'll need to go through and update everything with your new public IP address.
 >
-> **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980&t=49)** Now, if this happens randomly in the middle of the night, which it can, especially if AWS is trying to recover an instance due to a hardware failure, then your site's going to be down until you get up and make your DNS changes.
+> **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980&t=49)** Now, if this happens randomly in the middle of the night, which it can, especially if AWS is trying to recover an instance due to a [[Hardware]] failure, then your site's going to be down until you get up and make your DNS changes.
 >
-> **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980&t=63)** It's like waking up one morning, going out to check your mail, and realizing that the post office changed the house number on your mailbox.
+> **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980&t=63)** It's like waking up one morning, going out to check your mail, and realizing that the post [[Microsoft Office|office]] changed the house number on your mailbox.
 >
 > **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980&t=73)** If you need this public IP address to stay the same, regardless of what happens to this instance, then you'll need to request an elastic IP.
 >
@@ -1673,7 +1648,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980&t=123)** So if you terminate your instance, make sure you release its elastic IP if you have no further need of it, because you will be billed for it if you don't.
 >
-> **[2:16](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980&t=136)** You can manage your elastic IPs from the VPC console, and you would do this to request an elastic IP and bind it to a NAT gateway, but you can also request Elastic IPs from the EC2 console and then bind them to EC2 servers.
+> **[2:16](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980&t=136)** You can manage your elastic IPs from the VPC console, and you would do this to request an elastic IP and bind it to a NAT gateway, but you can also request Elastic IPs from the [[Amazon EC2|EC2]] console and then bind them to EC2 servers.
 >
 > **[2:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/static-addresses-with-elastic-ips-22740496?u=76281980&t=155)** This will replace the public IP address that AWS has randomly assigned to your running public instance, but now it's a fixed IP that won't change when you stop and start your instance.
 >
@@ -1711,7 +1686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), [[Amazon EC2|Ec2]] (4), dns (3), [[Search]] (2), power (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Hardware]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** aws (8), ec2 (4), dns (3), nat (2), ipv4 (1)
 > **CLI Commands:** aws (8), make (2)
 > **UI Navigation:** click on (4), select the (2), go to (1), scroll down (1)
@@ -1720,8 +1695,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Speakers:** - because (1)
 
-#### Using VPNs to access private subnets
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980)
+#### [Using VPNs to access private subnets](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1735,7 +1709,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980&t=38)** But if the servers in the private subnet are protected from all outside internet traffic, how do you connect to them to administer them?
 >
-> **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980&t=48)** And what if you want to restrict administrative access to the servers in the public subnet, such as closing off the ports for SSH for Linux terminal access or Remote Desktop Protocol, or RDP, for Windows servers?
+> **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980&t=48)** And what if you want to restrict administrative access to the servers in the public subnet, such as closing off the ports for SSH for [[Linux]] terminal access or Remote Desktop Protocol, or RDP, for [[Windows]] servers?
 >
 > **[1:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980&t=66)** One way to securely connect to your instances is by using a bastion host.
 >
@@ -1763,9 +1737,9 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980&t=177)** By using an AWS client VPN, you can use a VPN client on your home or work computer to establish a secure connection with your VPC.
 >
-> **[3:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980&t=190)** This works really well for allowing you to use coding and database management tools with your servers just like they were sitting across the desk from you.
+> **[3:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980&t=190)** This works really well for allowing you to use coding and [[Database Management]] tools with your servers just like they were sitting across the desk from you.
 >
-> **[3:20](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980&t=200)** Another way you can use a VPN within AWS is a site-to-site VPN and this is one of the ways that you can bridge your existing on-premise datacenter network or your entire office network with your VPC.
+> **[3:20](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980&t=200)** Another way you can use a VPN within AWS is a site-to-site VPN and this is one of the ways that you can bridge your existing on-premise datacenter network or your entire [[Microsoft Office|office]] network with your VPC.
 >
 > **[3:39](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-vpns-to-access-private-subnets?u=76281980&t=219)** You could use a site-to-site VPN to securely move your data up to AWS as a part of a cloud migration or you would use this in a hybrid model where some of your on-premise infrastructure continues to serve your application, but you start using AWS services to support your on-premise application.
 >
@@ -1781,7 +1755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (14), vpn (7), traffic (3), [[Linux]] (3), data (3)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2), [[Database Management]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** aws (14), vpn (7), vpc (5), nat (1), ssh (1)
 > **CLI Commands:** aws (14), ssh (1), make (1)
 > **Tools:** aws console (2), terminal (1), command line (1)
@@ -1790,8 +1764,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), such as (1)
 > **Prerequisites:** set up (1), setup (1)
 
-#### Scaling with Elastic Load Balancer (ELB)
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/scaling-with-elastic-load-balancer-elb-22736457?u=76281980)
+#### [Scaling with Elastic Load Balancer (ELB)](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/scaling-with-elastic-load-balancer-elb-22736457?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1835,13 +1808,13 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/scaling-with-elastic-load-balancer-elb-22736457?u=76281980&t=148)** Application load balancers are great for web traffic because they will look at the incoming traffic and route it based on a set of rules.
 >
-> **[2:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/scaling-with-elastic-load-balancer-elb-22736457?u=76281980&t=158)** We will be using an application load balancer since we are running web servers.
+> **[2:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/scaling-with-elastic-load-balancer-elb-22736457?u=76281980&t=158)** We will be using an application load balancer since we are running [[Web Servers]].
 >
 > **[2:44](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/scaling-with-elastic-load-balancer-elb-22736457?u=76281980&t=164)** So let's set one up.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), aws (2), application (2), web (2)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** such as (2), imagine (1)
 > **Env Vars:** aws (2)
@@ -1850,12 +1823,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Learn how to create an Application Load Balancer (ALB)
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-application-load-balancer-alb?u=76281980)
+#### [Learn how to create an Application Load Balancer (ALB)](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-application-load-balancer-alb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-application-load-balancer-alb?u=76281980&t=0)** - [Instructor] In the EC2 console take a look at your two running instances.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-application-load-balancer-alb?u=76281980&t=0)** - [Instructor] In the [[Amazon EC2|EC2]] console take a look at your two running instances.
 >
 > **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-application-load-balancer-alb?u=76281980&t=5)** You'll need to note two things before starting.
 >
@@ -1899,7 +1871,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-application-load-balancer-alb?u=76281980&t=157)** Select the security group that is bound to each of your running EC2 instances.
 >
-> **[2:44](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-application-load-balancer-alb?u=76281980&t=164)** So instead of specifying IP ranges for my routing, you can specify security groups.
+> **[2:44](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-application-load-balancer-alb?u=76281980&t=164)** So instead of specifying IP ranges for my [[Routing]], you can specify security groups.
 >
 > **[2:51](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-application-load-balancer-alb?u=76281980&t=171)** So any instance that is bound with this security group will be able to receive traffic from the ALB.
 >
@@ -1975,7 +1947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), traffic (8), [[Amazon EC2|Ec2]] (4), next (4), dns (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Routing]] (1)
 > **Env Vars:** alb (8), http (5), ec2 (4), vpc (2), dns (2)
 > **UI Navigation:** click on (7), select the (5), scroll down (2), open the (1)
 > **Ports:** port 80 (4)
@@ -1984,26 +1956,24 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Point a domain to your EC2s with Route 53
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/point-a-domain-to-your-ec2s-with-route-53?u=76281980)
+#### [Point a domain to your EC2s with Route 53](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/point-a-domain-to-your-ec2s-with-route-53?u=76281980)
 
 
 ### 5. IaaS Storage
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hard drives with Elastic Block Store (EBS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980)
+#### [Hard drives with Elastic Block Store (EBS)](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=0)** - Computers and servers use hard drives to store data, and virtual servers need hard drives as well because this is where they store their operating systems, server configuration files, and the source code that you'll create and upload to them to run your applications.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=0)** - Computers and servers use hard drives to store data, and virtual servers need hard drives as well because this is where they store their operating systems, [[Server Configuration]] files, and the source code that you'll create and upload to them to run your applications.
 >
 > **[0:16](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=16)** But unlike physical hard drives in the real world, virtual drives can grow and shrink in size.
 >
 > **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=23)** You can even snapshot them at any point in time and you can easily clone them.
 >
-> **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=28)** Amazon's primary storage service for EC2 servers is called Elastic Block Store, elastic because it can stretch in size when you need it to.
+> **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=28)** Amazon's primary storage service for [[Amazon EC2|EC2]] servers is called Elastic Block Store, elastic because it can stretch in size when you need it to.
 >
 > **[0:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=38)** Let's take a look at Elastic Block Store in the EC2 console.
 >
@@ -2045,7 +2015,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=173)** There's no file system on the drive, so you need to connect to your instance and format the drive so that you can use this.
 >
-> **[3:01](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=181)** If you want to do this under Linux or Windows Operating Systems, the AWS Docs has a guide that'll help you.
+> **[3:01](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=181)** If you want to do this under [[Linux]] or [[Windows]] Operating Systems, the AWS Docs has a guide that'll help you.
 >
 > **[3:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980&t=191)** Some of the other things you can do with EBS volumes is that you can also detach the drive and move it to another computer.
 >
@@ -2069,7 +2039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), data (3), [[Linux]] (2), [[Windows]] (2), aws (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Linux]] (2), [[Windows]] (2), [[Server Configuration]] (1)
 > **Env Vars:** ebs (7), ec2 (4), ami (4), aws (2)
 > **UI Navigation:** click on (6), select the (1), scroll down (1)
 > **CLI Commands:** aws (2)
@@ -2078,29 +2048,25 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), configure (1)
 > **Exercise Files:** source code (1)
 
-#### NAS with Elastic File System (EFS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nas-with-elastic-file-system-efs-22740497?u=76281980)
+#### [NAS with Elastic File System (EFS)](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nas-with-elastic-file-system-efs-22740497?u=76281980)
 
-#### Web storage with Simple Storage Service (S3)
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/web-storage-with-simple-storage-service-s3-22731604?u=76281980)
+#### [Web storage with Simple Storage Service (S3)](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/web-storage-with-simple-storage-service-s3-22731604?u=76281980)
 
-#### Upload a file to S3 from the AWS CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/upload-a-file-to-s3-from-the-aws-cli-22739498?u=76281980)
+#### [Upload a file to S3 from the AWS CLI](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/upload-a-file-to-s3-from-the-aws-cli-22739498?u=76281980)
 
-#### Use the SDK to create a file within S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980)
+#### [Use the SDK to create a file within S3](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=0)** - [Instructor] Let's use the AWS SDK, or Software Development Kit to interface with S3 from our source code on our server.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=0)** - [Instructor] Let's use the AWS SDK, or [[Software Development]] Kit to interface with S3 from our source code on our server.
 >
 > **[0:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=11)** Before we begin, write down the name of the S3 bucket that we just created, since we'll reference this later within our code.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=21)** In the AWS console, type EC2 into the search bar and click on the entry that auto completes.
+> **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=21)** In the AWS console, type [[Amazon EC2|EC2]] into the search bar and click on the entry that auto completes.
 >
 > **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=30)** Click on instances and click on your first running instance and then click the connect button.
 >
-> **[0:39](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=39)** Under the EC2 instance connect tab make sure that your username is ubuntu.
+> **[0:39](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=39)** Under the EC2 instance connect tab make sure that your username is [[Ubuntu]].
 >
 > **[0:47](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=47)** This is the default local user for this Ubuntu AMI.
 >
@@ -2108,13 +2074,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=59)** Included in the exercise files, you'll find a text file that includes all the terminal commands we're going to run, and it might be easier to pull this up and cut and paste the commands.
 >
-> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=73)** Paste in the first command which will install PHP on our server along with several other packages that'll help get the AWS SDK installed.
+> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=73)** Paste in the first command which will install [[PHP]] on our server along with several other packages that'll help get the AWS SDK installed.
 >
 > **[1:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=85)** Right click inside of this session and click the paste as plain text option.
 >
 > **[1:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=92)** I'm using Chrome as my browser, but if you're using another browser it should have a similar option.
 >
-> **[1:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=98)** Or on Windows, you can try Ctrl + Shift + V or on Mac, Apple + Shift + V.
+> **[1:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=98)** Or on [[Windows]], you can try Ctrl + Shift + V or on Mac, Apple + Shift + V.
 >
 > **[1:46](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=106)** If you see the commands pasting into the terminal with any special characters added to the end of it, you might have to hand type the commands into the terminal window if pasting doesn't work.
 >
@@ -2130,7 +2096,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=168)** Type nano, space, s3test.php, and hit enter.
 >
-> **[2:58](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=178)** This will open the nano editor in Linux and create a new file called s3test.php.
+> **[2:58](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=178)** This will open the nano editor in [[Linux]] and create a new file called s3test.php.
 >
 > **[3:07](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=187)** Included in the same example files is a PHP file that we first need to edit and put in our credentials.
 >
@@ -2168,7 +2134,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=322)** You'll see that the contents of this text file is the same as what we inserted from our source code.
 >
-> **[5:30](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=330)** Using the other SDKs, such as the Python or Node.js SDKs, is very similar to this example in PHP.
+> **[5:30](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=330)** Using the other SDKs, such as the [[Python (Programming Language)|Python]] or [[Node.js]] SDKs, is very similar to this example in PHP.
 >
 > **[5:41](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/use-the-sdk-to-create-a-file-within-s3-22737461?u=76281980&t=341)** There's a lot you can do with this.
 >
@@ -2184,7 +2150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), hit (10), aws (8), [[Amazon EC2|Ec2]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[PHP]] (11), [[Amazon EC2|Ec2]] (3), [[Ubuntu]] (2), [[Software Development]] (1), [[Windows]] (1)
 > **CLI Commands:** php (11), aws (8), composer (2), make (1), find (1)
 > **Env Vars:** php (7), aws (6), sdk (4), ec2 (3), ami (1)
 > **UI Navigation:** click on (7), open the (1)
@@ -2193,8 +2159,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (3), exercise files (1)
 > **Prerequisites:** install (2), you'll need (1)
 
-#### IAM roles for EC2
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980)
+#### [IAM roles for EC2](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2208,7 +2173,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=25)** IAM or identity access management has a feature called roles.
 >
-> **[0:31](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=31)** By creating an IAM role, I can tell AWS what permissions this EC2 instance has.
+> **[0:31](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=31)** By creating an IAM role, I can tell AWS what permissions this [[Amazon EC2|EC2]] instance has.
 >
 > **[0:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=38)** In our example, I can use a role to grant read and write permissions to my S3 buckets and apply that role to my instances.
 >
@@ -2232,7 +2197,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=111)** At the bottom, click next.
 >
-> **[1:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=115)** For role name, type s3grantforec2 all as one word.
+> **[1:55](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=115)** For role name, type s3grantforec2 all as one [[Microsoft Word|word]].
 >
 > **[2:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=123)** And then at the bottom, click on create role.
 >
@@ -2256,7 +2221,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=213)** If yours is disconnected, you'll just need to click on the AWSdemo1 instance, and then click connect again.
 >
-> **[3:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=222)** Type nano S3 test.php and hit enter.
+> **[3:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=222)** Type nano S3 test.[[PHP]] and hit enter.
 >
 > **[3:50](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/iam-roles-for-ec2-22737465?u=76281980&t=230)** Now we're going to remove the credentials element from this array.
 >
@@ -2276,7 +2241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), aws (5), next (3), [[PHP]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), [[PHP]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ec2 (8), iam (6), aws (5), ctrl (2), ssh (1)
 > **UI Navigation:** click on (10), checkbox (1), select the (1)
 > **CLI Commands:** aws (5), php (3), make (1), ssh (1), find (1)
@@ -2285,8 +2250,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 
-#### Putting together all of the IAM resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/putting-together-all-of-the-iam-resources?u=76281980)
+#### [Putting together all of the IAM resources](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/putting-together-all-of-the-iam-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2298,7 +2262,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/putting-together-all-of-the-iam-resources?u=76281980&t=25)** That just means these are settings and services that aren't tied to a specific region.
 >
-> **[0:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/putting-together-all-of-the-iam-resources?u=76281980&t=32)** IAM resources are different from your regular AWS resources like your EC2 instances or VPCs.
+> **[0:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/putting-together-all-of-the-iam-resources?u=76281980&t=32)** IAM resources are different from your regular AWS resources like your [[Amazon EC2|EC2]] instances or VPCs.
 >
 > **[0:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/putting-together-all-of-the-iam-resources?u=76281980&t=42)** Your root account sits off to the side and it's not an IAM resource.
 >
@@ -2332,19 +2296,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), [[Amazon EC2|Ec2]] (4), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4)
 > **Env Vars:** iam (15), aws (11), ec2 (4)
 > **CLI Commands:** aws (11)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storing passwords with Secrets Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/storing-passwords-with-secrets-manager?u=76281980)
+#### [Storing passwords with Secrets Manager](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/storing-passwords-with-secrets-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/storing-passwords-with-secrets-manager?u=76281980&t=0)** - [Instructor] We followed best practices by creating the IAM role for our EC2 instance to access S3 and removing our secret access key from within our code.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/storing-passwords-with-secrets-manager?u=76281980&t=0)** - [Instructor] We followed best practices by creating the IAM role for our [[Amazon EC2|EC2]] instance to access S3 and removing our secret access key from within our code.
 >
 > **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/storing-passwords-with-secrets-manager?u=76281980&t=13)** However, there are times when you need to pass in credentials to external third party services that aren't AWS services from within your code and you don't want to put those passwords or keys directly within your code either.
 >
@@ -2360,14 +2323,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Amazon EC2|Ec2]] (1), [[Search]] (1), api (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (3), iam (1), ec2 (1), api (1)
 > **CLI Commands:** aws (3), find (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Long-term storage with S3 Glacier
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980)
+#### [Long-term storage with S3 Glacier](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2389,13 +2351,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=77)** This will add S3 as a favorite to your AWS console and create a link for you that stays at the top of the console.
 >
-> **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=88)** Add EC2 as a favorite as well by clicking the star next to its title, since we've been using that one a lot as well.
+> **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=88)** Add [[Amazon EC2|EC2]] as a favorite as well by clicking the star next to its title, since we've been using that one a lot as well.
 >
 > **[1:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=98)** Click on S3 and go to the S3 console.
 >
 > **[1:43](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=103)** From the S3 console, select the test bucket that we just made.
 >
-> **[1:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=109)** Click on the test folder and then click on the first LinkedIn logo that we had uploaded earlier.
+> **[1:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=109)** Click on the test folder and then click on the first [[LinkedIn]] logo that we had uploaded earlier.
 >
 > **[1:58](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=118)** Scroll down and under Storage class, click on Edit.
 >
@@ -2417,7 +2379,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=237)** At the bottom, static website hosting lets you host an entirely static website directly from an S3 bucket.
 >
-> **[4:07](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=247)** If you've used GitHub pages, it's sort of like that, but a little more basic, where you can use a static site generator like Hugo to host a simple blog or marketing site without Node.js or WordPress or databases.
+> **[4:07](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=247)** If you've used [[GitHub]] pages, it's sort of like that, but a little more basic, where you can use a static site generator like Hugo to host a simple blog or marketing site without [[Node.js]] or [[WordPress]] or [[Databases]].
 >
 > **[4:24](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/long-term-storage-with-s3-glacier-22735519?u=76281980&t=264)** Search our catalog for AWS S3, and you'll see a number of videos that walk through static site hosting and lifecycle management, if this is something you'd like to use.
 >
@@ -2429,7 +2391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), aws (8), management (2), [[Amazon EC2|Ec2]] (1), next (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1), [[LinkedIn]] (1), [[GitHub]] (1), [[Node.js]] (1), [[WordPress]] (1)
 > **UI Navigation:** click on (7), go to (1), select the (1), scroll down (1)
 > **CLI Commands:** aws (8), node (1)
 > **Env Vars:** aws (8), ec2 (1)
@@ -2438,8 +2400,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 
-#### Serve content faster with CloudFront
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serve-content-faster-with-cloudfront-22734525?u=76281980)
+#### [Serve content faster with CloudFront](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serve-content-faster-with-cloudfront-22734525?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2479,7 +2440,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serve-content-faster-with-cloudfront-22734525?u=76281980&t=141)** At the bottom, click the Save changes button.
 >
-> **[2:27](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serve-content-faster-with-cloudfront-22734525?u=76281980&t=147)** Click on the Objects tab, and then click on the test folder, and then click on the first LinkedIn logo that we uploaded earlier.
+> **[2:27](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serve-content-faster-with-cloudfront-22734525?u=76281980&t=147)** Click on the Objects tab, and then click on the test folder, and then click on the first [[LinkedIn]] logo that we uploaded earlier.
 >
 > **[2:39](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serve-content-faster-with-cloudfront-22734525?u=76281980&t=159)** Click on the Permissions tab, and then click the Edit button.
 >
@@ -2531,7 +2492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[LinkedIn]] (3), [[Search]] (2), traffic (2), database (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **UI Navigation:** click on (10), scroll down (2), checkbox (1), select the (1)
 > **CLI Commands:** find (2), make (2), aws (1)
 > **Env Vars:** url (3), cdn (1), aws (1)
@@ -2545,22 +2506,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is database as a service (DBaaS)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980)
+#### [What is database as a service (DBaaS)?](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=0)** - AWS has a lot of services for helping you manage databases, and this can be pretty overwhelming.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=0)** - AWS has a lot of services for helping you manage [[Databases]], and this can be pretty overwhelming.
 >
 > **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=7)** Having a cloud vendor help you manage the servers and backups of your data is called Database as a Service or DBaaS, and it lets you focus on the data itself and optimizing retrieval versus configuring failover and managing database engine updates.
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=26)** If you are migrating an existing application into AWS, then your database technology has already been chosen for you, either by your development team or by the vendor who created your app.
 >
-> **[0:37](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=37)** And so I would recommend looking at the AWS Data Migration Service, which can take your on-premise relational database and create a real-time in-sync clone of your database in the cloud so you can perform a smooth transition from your on-premise data center into AWS.
+> **[0:37](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=37)** And so I would recommend looking at the AWS Data Migration Service, which can take your on-premise relational database and create a [[Real-Time]] in-sync clone of your database in the cloud so you can perform a smooth transition from your on-premise data center into AWS.
 >
 > **[0:56](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=56)** Now, if you're building a new application or re-architecting an existing application, choosing a database provider can be complicated.
 >
-> **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=65)** Before you start having an internal war with your team about whether to use an Oracle database or a Postgres database, I would back up and look at the data needs for your whole application.
+> **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=65)** Before you start having an internal war with your team about whether to use an Oracle database or a [[PostgreSQL|Postgres]] database, I would back up and look at the data needs for your whole application.
 >
 > **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=77)** What kind of data will you be storing?
 >
@@ -2576,11 +2536,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=94)** Ask some higher level questions first and then design a database solution around those broad categories.
 >
-> **[1:41](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=101)** If you're going to store a lot of historical data for reporting, I don't know, maybe you need a big data solution, but if you need real-time access to a current month of data, maybe you just store that in a relational database and then move the rest of it into a big data store later.
+> **[1:41](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=101)** If you're going to store a lot of historical data for reporting, I don't know, maybe you need a [[Big Data]] solution, but if you need real-time access to a current month of data, maybe you just store that in a relational database and then move the [[Representational State Transfer (REST)|rest]] of it into a big data store later.
 >
 > **[1:58](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=118)** If your relational database is going to ingest a large stream of data, maybe you need a queue that sits in front of the relational database that aggregates some of the data over, say, like a five minute period, and then it only inserts the aggregated data into the relational database.
 >
-> **[2:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=134)** If the data types that you're storing are object base and you don't need a lot of reporting, maybe it's better to use a NoSQL database.
+> **[2:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=134)** If the data types that you're storing are object base and you don't need a lot of reporting, maybe it's better to use a [[NoSQL]] database.
 >
 > **[2:22](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=142)** Once you know the broad strokes and identified the larger pieces of how it's all going to tie together, then you research which relational database would be good for your application based on feature sets and budget and things like vendor support.
 >
@@ -2588,7 +2548,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=167)** But using the wrong type of database technology in the wrong way can really hurt your app going forward.
 >
-> **[2:56](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=176)** Relational databases are not a good substitute for a big data store, and vice versa.
+> **[2:56](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=176)** [[Relational Databases]] are not a good substitute for a big data store, and vice versa.
 >
 > **[3:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980&t=183)** Even if you're familiar with database types, I would recommend you read the book, "Designing Data-Intensive Applications."
 >
@@ -2602,22 +2562,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (22), data (18), aws (6), application (5), [[Big Data]] (3)
+> **Frameworks & Libraries:** [[Big Data]] (3), [[Real-Time]] (2), [[Databases]] (1), [[PostgreSQL|Postgres]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** aws (6)
 > **Env Vars:** aws (6)
 > **Definitions:** is called (1)
 > **Speakers:** - aws (1)
 
-#### Relational Database Service (RDS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980)
+#### [Relational Database Service (RDS)](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=0)** - If you have a relational database, like MySQL or Microsoft SQL Server, you can always spin up an EC2 instance and install the database engine directly onto the server.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=0)** - If you have a relational database, like [[MySQL]] or [[Microsoft SQL Server]], you can always spin up an [[Amazon EC2|EC2]] instance and install the database engine directly onto the server.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=12)** If you're coming from an on-premise environment, this is probably how you already configured your servers and AWS will let you replicate that same environment in the cloud.
 >
-> **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=21)** However, just like your on-premise environment, you may not have responsibilities over the hardware anymore, but you're still responsible for all the configuration, the operating system updates, the database engine updates, the monitoring, setting up failover replication in case your database instance fails, and, you know, the list goes on and on.
+> **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=21)** However, just like your on-premise environment, you may not have responsibilities over the [[Hardware]] anymore, but you're still responsible for all the configuration, the operating system updates, the database engine updates, the monitoring, setting up failover replication in case your database instance fails, and, you know, the list goes on and on.
 >
 > **[0:43](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=43)** So to help you out, AWS has a managed platform where you just give them your database and they do all this for you.
 >
@@ -2625,7 +2584,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=58)** The service is called Relational Database Service, or RDS.
 >
-> **[1:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=64)** RDS supports most of the popular relational databases, such as Postgres and MySQL, SQL Server, and Oracle.
+> **[1:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=64)** RDS supports most of the popular [[Relational Databases]], such as [[PostgreSQL|Postgres]] and MySQL, [[Microsoft SQL Server|SQL Server]], and Oracle.
 >
 > **[1:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=72)** Let's dive into a few ways that you can use RDS.
 >
@@ -2659,7 +2618,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=226)** So you'll have to change these database connections in your code to roll the entire cluster back to a point in time.
 >
-> **[3:54](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=234)** RDS is great, but you still have a few database administration tasks you have to perform, like keeping some monitors on read and write throughput.
+> **[3:54](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=234)** RDS is great, but you still have a few [[Database Administration]] tasks you have to perform, like keeping some monitors on read and write throughput.
 >
 > **[4:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/relational-database-service-rds?u=76281980&t=243)** If the thought of this scares or just bores you, look at Aurora.
 >
@@ -2671,7 +2630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (20), [[MySQL]] (4), [[PostgreSQL|Postgres]] (4), [[Amazon EC2|Ec2]] (3), aws (3)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[PostgreSQL|Postgres]] (4), [[Amazon EC2|Ec2]] (3), [[Microsoft SQL Server]] (1), [[Hardware]] (1)
 > **Env Vars:** rds (11), ec2 (3), aws (3), sql (2)
 > **CLI Commands:** mysql (4), az (4), aws (3), make (3)
 > **Analogies:** similar to (2), just like (1), such as (1)
@@ -2680,16 +2639,15 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - if (1)
 
-#### NoSQL databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980)
+#### [NoSQL databases](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980&t=0)** - [Narrator] AWS has a great page that breaks down the terminology around NoSQL databases and shows the different NoSQL databases that they offer.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980&t=0)** - [Narrator] AWS has a great page that breaks down the terminology around [[NoSQL]] [[Databases]] and shows the different NoSQL databases that they offer.
 >
 > **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980&t=10)** A NoSQL database is just what the name implies.
 >
-> **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980&t=13)** It's usually a database engine that isn't a relational database type that doesn't use the standard SQL query language.
+> **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980&t=13)** It's usually a database engine that isn't a relational database type that doesn't use the standard [[SQL]] query language.
 >
 > **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980&t=20)** There's NoSQL.
 >
@@ -2713,7 +2671,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980&t=96)** And I walked through partitioning and global tables in my other course, "ECS and Multi-Region Load Balancing."
 >
-> **[1:43](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980&t=103)** One of the databases that popularize NoSQL databases is MongoDB.
+> **[1:43](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980&t=103)** One of the databases that popularize NoSQL databases is [[MongoDB]].
 >
 > **[1:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/nosql-databases-22731601?u=76281980&t=109)** DocumentDB is a database platform that's Mongo like, but you don't have to deal with servers and Mongo clusters.
 >
@@ -2721,7 +2679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (6), [[Databases]] (5), database (5), data (4), aws (2)
+> **Frameworks & Libraries:** [[NoSQL]] (6), [[Databases]] (5), [[SQL]] (1), [[MongoDB]] (1)
 > **CLI Commands:** mongo (3), aws (2)
 > **Env Vars:** aws (2), sql (1), rds (1), ecs (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2729,8 +2687,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [narrator] (1)
 
-#### In-memory caches
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980)
+#### [In-memory caches](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2738,15 +2695,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=4)** And if you need to keep looking up the same piece of data over and over again it can really slow down your application.
 >
-> **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=13)** Some databases are used like scratch pads where you can just look something up from your database and then you just write it down real fast on your scratch pad and then you don't have to keep looking it up each time.
+> **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=13)** Some [[Databases]] are used like scratch pads where you can just look something up from your database and then you just write it down real fast on your scratch pad and then you don't have to keep looking it up each time.
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=26)** In-memory caches can do this for you and to help you deploy one of these AWS has created ElastiCache.
 >
-> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=35)** ElastiCache will help you manage and deploy two of the most common types of in-memory caches, Mimcached and Redis.
+> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=35)** ElastiCache will help you manage and deploy two of the most common types of in-memory caches, Mimcached and [[Redis]].
 >
-> **[0:43](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=43)** Redis is the more popular in-memory cache but I've used Mimchached because it's supported by a few PHP open source apps.
+> **[0:43](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=43)** Redis is the more popular in-memory cache but I've used Mimchached because it's supported by a few [[PHP]] open source apps.
 >
-> **[0:51](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=51)** Now, you can always install Redis or Mimcached directly on some EC2 servers and set all this up yourself but AWS has simplified a lot of the management of these services with ElastiCache.
+> **[0:51](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=51)** Now, you can always install Redis or Mimcached directly on some [[Amazon EC2|EC2]] servers and set all this up yourself but AWS has simplified a lot of the management of these services with ElastiCache.
 >
 > **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/in-memory-caches?u=76281980&t=63)** Not every application will need an in-memory store and to learn the right use cases, I would refer you back to the designing data intensive applications book.
 >
@@ -2754,33 +2711,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Redis]] (3), database (2), application (2), aws (2)
+> **Frameworks & Libraries:** [[Redis]] (3), [[Databases]] (1), [[PHP]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (2), php (1), ec2 (1)
 > **CLI Commands:** aws (2), php (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - when (1)
 
-#### Big data databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/big-data-databases-22740499?u=76281980)
+#### [Big data databases](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/big-data-databases-22740499?u=76281980)
 
-#### Buffer data with a message queue
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980)
+#### [Buffer data with a message queue](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=0)** - When new data needs to be written to your database, your database engine may place a lock or a hold on the table that you're writing to and this is going to prevent other users from reading from that table until you're done writing your new data.
 >
-> **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=15)** Now, when you have a lot of data streaming into your database, this wait time on reading from the tables can really slow down your application.
+> **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=15)** Now, when you have a lot of [[Data Streaming]] into your database, this wait time on reading from the tables can really slow down your application.
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=26)** A queue temporarily store the data that you need to write, so that a spike in incoming data doesn't cause your database to melt down.
 >
-> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=35)** This means that your application's users aren't sitting around waiting on your database, so they can move on and keep using the rest of your app and their data will be written later.
+> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=35)** This means that your application's users aren't sitting around waiting on your database, so they can move on and keep using the [[Representational State Transfer (REST)|rest]] of your app and their data will be written later.
 >
 > **[0:46](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=46)** This is just one use case for a queue and there's several other use cases, such as creating a messaging framework to help the components of your app talk to each other without relying on the database for this.
 >
 > **[1:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=60)** In AWS, two such services for creating a queue are Kinesis and Simple Queue Service.
 >
-> **[1:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=69)** Kinesis is able to handle a large stream of incoming data, such as real-time data on what your users are clicking on in your web application or streaming of real-time application logs from your servers.
+> **[1:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=69)** Kinesis is able to handle a large stream of incoming data, such as [[Real-Time]] data on what your users are clicking on in your web application or streaming of real-time application logs from your servers.
 >
 > **[1:23](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/buffer-data-with-a-message-queue?u=76281980&t=83)** It's also able to connect to other services to do real-time reporting on these large data streams.
 >
@@ -2800,7 +2755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (6), application (3), [[Real-Time]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sqs (6), sns (4), aws (1), http (1)
 > **Analogies:** such as (3), picture (1)
 > **Definitions:** is a  (2), means that (1)
@@ -2813,20 +2768,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hosting web apps with Elastic Beanstalk
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980)
+#### [Hosting web apps with Elastic Beanstalk](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980&t=0)** - [Instructor] Elastic Beanstalk is great if you have a single code base for your project and you just want to give AWS your code and let them do more of the work of managing the servers and the operating system updates. Underneath the hood, it's still EC2 servers, but it's great for developers who don't have the time for managing servers.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980&t=0)** - [Instructor] Elastic Beanstalk is great if you have a single code base for your project and you just want to give AWS your code and let them do more of the work of managing the servers and the operating system updates. Underneath the hood, it's still [[Amazon EC2|EC2]] servers, but it's great for developers who don't have the time for managing servers.
 >
-> **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980&t=26)** Elastic Beanstalk is one way we can host our WordPress marketing site and AWS has a tutorial in their docs where you can create a high availability WordPress site using RDS for the database and EFS to store the uploaded files.
+> **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980&t=26)** Elastic Beanstalk is one way we can host our [[WordPress]] marketing site and AWS has a tutorial in their docs where you can create a high availability WordPress site using RDS for the database and EFS to store the uploaded files.
 >
 > **[0:46](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980&t=46)** If you're used to hosting WordPress from a shared host like GoDaddy or Blue Host, you usually pick a dedicated hosting plan based on your needs.
 >
 > **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980&t=57)** If you want an experience similar to what you would get with one of these hosts, look at Lightsail.
 >
-> **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980&t=65)** It's interface and user experience are similar to what you would get with another web host and it's a great way to bring a site into AWS.
+> **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980&t=65)** It's interface and [[User Experience (UX)|user experience]] are similar to what you would get with another web host and it's a great way to bring a site into AWS.
 >
 > **[1:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980&t=75)** If you're already used to using something like C Panel for managing your web host.
 >
@@ -2836,24 +2790,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[WordPress]] (3), [[Amazon EC2|Ec2]] (2), web (2), database (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Amazon EC2|Ec2]] (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** aws (3), ec2 (2), rds (1), efs (1)
 > **CLI Commands:** aws (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running containers on AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980)
+#### [Running containers on AWS](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=0)** - Containers can be used to take a large monolithic single application and break its features down into smaller microservices that can be easier to scale, monitor, and maintain.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=0)** - Containers can be used to take a large monolithic single application and break its features down into smaller [[Microservices]] that can be easier to scale, monitor, and maintain.
 >
 > **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=13)** So instead of my large monolithic app, let's say I've got a microservice container that handles the signups for my app, maybe one that handles the payments for my app, and maybe another one that handles all the reports for my app.
 >
-> **[0:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=32)** Now, if you're new to the world of containers, or you've only briefly heard of technologies like Docker, think of a container like a mini virtual machine, although it's not technically a virtual machine like your EC2 instances.
+> **[0:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=32)** Now, if you're new to the world of containers, or you've only briefly heard of technologies like Docker, think of a container like a mini virtual machine, although it's not technically a virtual machine like your [[Amazon EC2|EC2]] instances.
 >
-> **[0:47](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=47)** Imagine it more like its own little computer, like a Raspberry Pi, where all of your application's software dependencies and libraries are already installed and configured, things like NodeJS and Python, and all your code is already set up, and just by, say, plugging it in to your container host, your app immediately starts and runs with no setup on your part.
+> **[0:47](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=47)** Imagine it more like its own little computer, like a Raspberry Pi, where all of your application's software dependencies and libraries are already installed and configured, things like NodeJS and [[Python (Programming Language)|Python]], and all your code is already set up, and just by, say, plugging it in to your container host, your app immediately starts and runs with no setup on your part.
 >
 > **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=73)** Now, if this talk about containers has piqued your interest, search our catalog for Docker or microservices and we'll walk you through hands-on examples so you can use these concepts in your apps.
 >
@@ -2865,7 +2818,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=109)** You first create a cluster, and within that cluster, you create nodes, such as EC2 instances, that will run your individual containers.
 >
-> **[2:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=120)** Just like when we load balanced our web servers across two availability zones, you can load balance multiple copies of your containers across nodes running in different availability zones.
+> **[2:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=120)** Just like when we load balanced our [[Web Servers]] across two availability zones, you can load balance multiple copies of your containers across nodes running in different availability zones.
 >
 > **[2:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=135)** This will allow your app to scale and provide redundancies if one of those EC2 instances were to fail.
 >
@@ -2881,7 +2834,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=197)** When setting up your ECS task definitions, you'll select the launch type for your containers, either EC2 to create your nodes as EC2 instances, Fargate, or external.
 >
-> **[3:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=213)** External allows you to run containers on your own on-premise servers in a hybrid cloud environment.
+> **[3:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=213)** External allows you to run containers on your own on-premise servers in a [[Hybrid Cloud]] environment.
 >
 > **[3:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/running-containers-on-aws?u=76281980&t=222)** Select EC2 for your launch type if your containers are always going to be running and will be processing lots of incoming requests and need to be available immediately to return responses quickly.
 >
@@ -2905,7 +2858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), application (4), [[Microservices]] (3), aws (2), web (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), [[Microservices]] (3), [[Python (Programming Language)|Python]] (1), [[Web Servers]] (1), [[Hybrid Cloud]] (1)
 > **Env Vars:** ec2 (9), ecs (5), aws (2), ecr (1), api (1)
 > **CLI Commands:** docker (2), aws (2), python (1), find (1)
 > **Analogies:** such as (2), imagine (1), just like (1)
@@ -2914,14 +2867,13 @@ created: 2026-05-02
 > **Tools:** gitlab (1)
 > **UI Navigation:** select the (1)
 
-#### Using Kubernetes with AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980)
+#### [Using Kubernetes with AWS](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980&t=0)** - [Instructor] One of the most popular container orchestration services is called Kubernetes.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980&t=0)** - [Instructor] One of the most popular container orchestration services is called [[Kubernetes]].
 >
-> **[0:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980&t=6)** Kubernetes is an open source version of an internal Google project called Borg that they use to orchestrate their server clusters.
+> **[0:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980&t=6)** Kubernetes is an open source version of an internal [[Google]] project called Borg that they use to orchestrate their server clusters.
 >
 > **[0:16](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980&t=16)** If you want to use Kubernetes to orchestrate your containers instead of ECS, Amazon has a service called Elastic Kubernetes Service or EKS.
 >
@@ -2935,7 +2887,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980&t=64)** Kubernetes also lets you get more control over the networking layer of how your containers will talk to each other.
 >
-> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980&t=73)** With both ECS and EKS, you can use either EC2 instances for your nodes, Fargate for on-demand nodes, or blend in your own on-premise servers.
+> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980&t=73)** With both ECS and EKS, you can use either [[Amazon EC2|EC2]] instances for your nodes, Fargate for on-demand nodes, or blend in your own on-premise servers.
 >
 > **[1:27](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-kubernetes-with-aws?u=76281980&t=87)** Depending on the size of your project and its projected future, my recommendations for building a new microservice application are to start small and scale up.
 >
@@ -2951,24 +2903,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Amazon EC2|Ec2]] (3), [[Orchestration]] (2), [[Google]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Amazon EC2|Ec2]] (3), [[Google]] (1)
 > **Env Vars:** ecs (5), eks (5), ec2 (3), aws (1)
 > **CLI Commands:** find (3), aws (1)
 > **Definitions:** is called (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Serverless functions with Lambda
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980)
+#### [Serverless functions with Lambda](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=0)** - As a subset of the Platform as a Service offerings or PaaS, a new category has come about called Functions as a Service.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=0)** - As a subset of the [[PaaS|Platform as a Service]] offerings or [[PaaS]], a new category has come about called Functions as a Service.
 >
 > **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=10)** Now, containers have all this like extra tooling around them where you need to define what your dependencies are, build them into the container, and then tell the host what kind of resources your container needs, and all this extra stuff just surrounds the actual source code that you want to run.
 >
 > **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=27)** So Amazon thought, could we make containers even easier?
 >
-> **[0:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=32)** Instead of giving us the container and configuring ECS for how to spawn multiple copies of the same container, can people just give us the actual code inside of here that they want to run and just let us, I don't know, figure out the rest?
+> **[0:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=32)** Instead of giving us the container and configuring ECS for how to spawn multiple copies of the same container, can people just give us the actual code inside of here that they want to run and just let us, I don't know, figure out the [[Representational State Transfer (REST)|rest]]?
 >
 > **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=48)** Whoa, this actually works.
 >
@@ -2976,7 +2927,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=61)** This way is called Serverless Architecture, and it forces you to think about the organization of your application in a slightly different way.
 >
-> **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=71)** And although it's called serverless, it's actually taking your source code and building and running a container for you, which is running on an EC2 virtual machine on a physical server within an AWS availability zone.
+> **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=71)** And although it's called serverless, it's actually taking your source code and building and running a container for you, which is running on an [[Amazon EC2|EC2]] virtual machine on a physical server within an AWS availability zone.
 >
 > **[1:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=85)** Serverless doesn't mean that there aren't servers involved, it just means that you don't have to deal with those servers.
 >
@@ -2986,7 +2937,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=111)** I've got an example Lambda function here, and I'll just run it by clicking the test button.
 >
-> **[1:57](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=117)** In serverless design, you don't want a large function, like maybe you could pull off with a Node.js container that does several things.
+> **[1:57](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=117)** In serverless design, you don't want a large function, like maybe you could pull off with a [[Node.js]] container that does several things.
 >
 > **[2:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/serverless-functions-with-lambda?u=76281980&t=126)** But you want this Lambda function just to do a single thing.
 >
@@ -3008,7 +2959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), aws (2), web (2), [[PaaS|Platform as a service]] (1), [[PaaS]] (1)
+> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (1), [[PaaS]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Amazon EC2|Ec2]] (1), [[Node.js]] (1)
 > **Env Vars:** ecs (2), aws (2), ec2 (1), ses (1), sns (1)
 > **CLI Commands:** aws (2), make (1), find (1), node (1)
 > **Exercise Files:** source code (2)
@@ -3017,8 +2968,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Definitions:** is called (1)
 
-#### Managing long-running jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980)
+#### [Managing long-running jobs](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3026,7 +2976,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=2)** These are great for code that runs quickly, but a single execution can't run any longer than 15 minutes.
 >
-> **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=10)** If you have a job that needs to crunch a bunch of data or wait on something to come back from a service or database, you'll need to look at the services that AWS has for batch processing and workflows.
+> **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=10)** If you have a job that needs to crunch a bunch of data or wait on something to come back from a service or database, you'll need to look at the services that AWS has for [[Batch Processing]] and workflows.
 >
 > **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=22)** You can use the messaging services that we talked about earlier, like SQS, within your lambda function, and that could be the trigger to kick off a batch processing job to say, resize a bunch of images.
 >
@@ -3038,7 +2988,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=70)** If your app needs to crunch through some backend jobs, take a look at AWS Batch.
 >
-> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=76)** It's a great way to manage and schedule jobs that can use EC2 spot instances.
+> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=76)** It's a great way to manage and schedule jobs that can use [[Amazon EC2|EC2]] spot instances.
 >
 > **[1:22](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=82)** Spot instances have a model very much like Priceline for airfare, where you can bid on using Amazon's unused capacity at a steep discount, but you can get bumped from the flight if someone else is willing to pay full price for your server.
 >
@@ -3046,11 +2996,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=113)** If you have a multi-step workflow that you need to manage, look at step functions.
 >
-> **[1:58](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=118)** Step functions are great when you need to step through a series of tasks, and they're easier to read and organize than a 3000 line bash script that you would've just run as a Linux cron job.
+> **[1:58](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/managing-long-running-jobs?u=76281980&t=118)** Step functions are great when you need to step through a series of tasks, and they're easier to read and organize than a 3000 line bash script that you would've just run as a [[Linux]] cron job.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), data (2), [[Batch Processing]] (2), database (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (2), [[Amazon EC2|Ec2]] (1), [[Linux]] (1)
 > **Env Vars:** aws (3), sqs (1), ec2 (1)
 > **CLI Commands:** aws (3)
 > **Cross-References:** we talked about (1)
@@ -3063,12 +3013,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### User authentication for your app
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980)
+#### [User authentication for your app](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=0)** - We're now moving up to the Softwares of service products abbreviated as SaaS.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=0)** - We're now moving up to the Softwares of service [[Microsoft Products|products]] abbreviated as [[SaaS]].
 >
 > **[0:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=6)** In this part of our AWS Starship, high above the engine room, this is the nicest part of the ship.
 >
@@ -3078,7 +3027,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=25)** These services just work and in the shared responsibility model, most of the effort is now on AWS and it's off of you.
 >
-> **[0:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=34)** All of these services that AWSs offers are built on top of the EC2 and storage options that we already looked at but at this level, you won't see any of the servers running this software or have to manage them in any way.
+> **[0:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=34)** All of these services that AWSs offers are built on top of the [[Amazon EC2|EC2]] and storage options that we already looked at but at this level, you won't see any of the servers running this software or have to manage them in any way.
 >
 > **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=48)** You just use the service.
 >
@@ -3088,7 +3037,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=63)** Managing password hashes in your database and making sure you're practicing proper security in case of a data breach has always been a struggle but AWSS has a few services to help you manage your user authentication for you.
 >
-> **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=77)** One of those services is Cognito and it can help you implement sign-in integrations with other providers so your users can sign in with Google or their Facebook logins.
+> **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=77)** One of those services is Cognito and it can help you implement sign-in integrations with other providers so your users can sign in with [[Google]] or their Facebook logins.
 >
 > **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=88)** Let's take a look at how this works.
 >
@@ -3104,7 +3053,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=122)** Or you can select to also enable Federated Identity Providers so your users could create accounts in your app by signing in with their Google, Facebook, Amazon or Apple logins.
 >
-> **[2:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=135)** This is similar to creating a new account with [linkedin.com](https://linkedin.com) where it gives you the option to sign in with Google.
+> **[2:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=135)** This is similar to creating a new account with [[[LinkedIn]].com](https://linkedin.com) where it gives you the option to sign in with Google.
 >
 > **[2:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980&t=145)** I'm going to leave Federated Identity Providers off for now.
 >
@@ -3166,7 +3115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), next (5), [[Google]] (3), [[Search]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Microsoft Products|Products]] (1), [[SaaS]] (1), [[Amazon EC2|Ec2]] (1), [[LinkedIn]] (1)
 > **Env Vars:** aws (7), mfa (2), ses (2), iam (2), ec2 (1)
 > **CLI Commands:** aws (7), make (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -3175,40 +3124,38 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Designing backend APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980)
+#### [Designing backend APIs](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=0)** - [Instructor] If you were designing a microservices architecture for the backend of your web or mobile app, you were likely building out your own API that will allow your front-end code to interface with your backend code on your servers, containers, or serverless functions.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=0)** - [Instructor] If you were designing a [[Microservices]] architecture for the backend of your web or mobile app, you were likely building out your own API that will allow your front-end code to interface with your backend code on your servers, containers, or serverless functions.
 >
-> **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=20)** Take a look at API Gateway as a way to publish your REST API endpoints for each of your microservices and point them at various AWS services.
+> **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=20)** Take a look at API Gateway as a way to publish your [[Representational State Transfer (REST)|REST]] API endpoints for each of your microservices and point them at various AWS services.
 >
 > **[0:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=33)** So, for instance, your backend could have an API endpoint such as [halvanta.com/login](https://halvanta.com/login), and that's handled by your EKS cluster, but /reports is answered by a Lambda function.
 >
-> **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=50)** If you're building out a newer GraphQL API instead of a REST API, take a look at AppSync.
+> **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=50)** If you're building out a newer [[GraphQL]] API instead of a REST API, take a look at AppSync.
 >
 > **[1:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=60)** These services are great for allowing you to wire together multiple solutions within AWS to handle specific functions within your app, and they make managing the API layer with authentication and logging a bit easier.
 >
-> **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=77)** You'll typically find these services sitting at the very edge of a backend API and brokering traffic for EC2 instances, ECS, and EKS clusters and Lambda functions.
+> **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=77)** You'll typically find these services sitting at the very edge of a backend API and brokering traffic for [[Amazon EC2|EC2]] instances, ECS, and EKS clusters and Lambda functions.
 >
 > **[1:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=93)** When you need to start wiring all these services together to create a backend, you might need to track down errors or slowdowns in your system.
 >
 > **[1:44](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=104)** Try out AWS X-Ray.
 >
-> **[1:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=109)** It can perform an x-ray scan on your cloud infrastructure and let you know that your slow endpoint is being caused by some inefficient code on your EC2 instance and not the large image file it's uploading to an S3 bucket.
+> **[1:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/designing-backend-apis?u=76281980&t=109)** It can perform an x-ray scan on your [[Cloud Infrastructure]] and let you know that your slow endpoint is being caused by some inefficient code on your EC2 instance and not the large image file it's uploading to an S3 bucket.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), aws (3), [[Microservices]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Amazon EC2|Ec2]] (2), [[GraphQL]] (1), [[Cloud Infrastructure]] (1)
 > **Env Vars:** api (8), aws (3), rest (2), eks (2), ec2 (2)
 > **CLI Commands:** aws (3), make (1), find (1)
 > **Analogies:** for instance (1), such as (1)
 > **URLs:** [halvanta.com](https://halvanta.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Helpful machine learning services
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980)
+#### [Helpful machine learning services](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3228,7 +3175,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=69)** We've got a great course on getting started with SageMaker so just search the catalog for SageMaker.
 >
-> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=76)** For the rest of us, Amazon has packaged up some machine learning technologies in an easy to use set of APIs that you can just bake directly into your app.
+> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=76)** For the [[Representational State Transfer (REST)|rest]] of us, Amazon has packaged up some machine learning technologies in an easy to use set of APIs that you can just bake directly into your app.
 >
 > **[1:27](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=87)** You can pass a block of text into Comprehend and it can tell you the mood of the writer.
 >
@@ -3236,7 +3183,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=102)** You can see a few use cases on the Comprehend page and it'll show you some example text and then what response you'd get back from using Comprehend.
 >
-> **[1:52](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=112)** You can use Lex to build a chatbot for your apps or you can use Personalize to promote recommended products to a specific user based on their shopping habits.
+> **[1:52](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=112)** You can use Lex to build a chatbot for your apps or you can use Personalize to promote recommended [[Microsoft Products|products]] to a specific user based on their shopping habits.
 >
 > **[2:05](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=125)** Polly can narrate dynamic text into some pretty life-like voices.
 >
@@ -3244,7 +3191,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=137)** One language is never enough.
 >
-> **[2:21](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=141)** - [Instructor] Rekognition can find faces in an image or extract text from an image but if you're processing a large number of documents or handwritten forms, look at Textract which can automate a lot of this for you.
+> **[2:21](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=141)** - [Instructor] Rekognition can find faces in an image or extract text from an image but if you're processing a large number of documents or handwritten [[Forms]], look at Textract which can automate a lot of this for you.
 >
 > **[2:36](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/helpful-machine-learning-services?u=76281980&t=156)** Translate can translate text into several languages and it can even detect the language that you're passing into it.
 >
@@ -3256,7 +3203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), data (2), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), chatbot (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), [[Forms]] (1)
 > **CLI Commands:** aws (2), find (2)
 > **Speakers:** - we (1), - [computer] (1), - [instructor] (1)
 > **Env Vars:** aws (2)
@@ -3269,8 +3216,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is DevOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-devops?u=76281980)
+#### [What is DevOps?](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3290,7 +3236,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-devops?u=76281980&t=36)** Now, I was responsible for keeping the servers fast and stable, which put my new priorities at odds with the developers who always wanted to change stuff.
 >
-> **[0:46](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-devops?u=76281980&t=46)** DevOps removes the barrier between these two teams and creates a single team that has responsibility over development and operations, DevOps.
+> **[0:46](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-devops?u=76281980&t=46)** [[DevOps]] removes the barrier between these two teams and creates a single team that has responsibility over development and operations, DevOps.
 >
 > **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-devops?u=76281980&t=58)** The developers now help maintain the servers and the IT people now start working more in the code.
 >
@@ -3320,7 +3266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), career (2), feature (1), teams (1), api (1)
+> **Frameworks & Libraries:** [[DevOps]] (6)
 > **Env Vars:** api (1), aws (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** aws (1)
@@ -3329,30 +3275,29 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - man (1)
 
-#### Developer tools within AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980)
+#### [Developer tools within AWS](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=0)** - Every time I make a change to my code, I need to check in the changes into my source control, rebuild my app and then package it back up and deploy it to my platform or my EC2 servers.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=0)** - Every time I make a change to my code, I need to check in the changes into my source control, rebuild my app and then package it back up and deploy it to my platform or my [[Amazon EC2|EC2]] servers.
 >
 > **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=13)** But what if every time I checked in my code, all this just happened automatically?
 >
 > **[0:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=19)** Imagine how much faster you would be and the team would be if every time a code change is approved, it's automatically tested and deployed to a staging environment, and then if everything's working, deployed into production with a single click.
 >
-> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=35)** A key component of agile development is to release early and often.
+> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=35)** A key component of [[Agile Development|agile]] development is to release early and often.
 >
 > **[0:39](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=39)** And this allows the development team to make smaller changes to the code more frequently.
 >
 > **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=45)** And combined with automated testing, performance monitoring and feedback from your users, it allows you to find bugs faster and to easily identify which small set of code changes correlated to the introduction of that bug.
 >
-> **[0:59](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=59)** To align with this agile principle, a key DevOps practice is the creation of a system that allows for continuous integration, or CI, which allows the code changes from multiple developers to play together regularly to work out any conflicts when two developers are both working on the same file.
+> **[0:59](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=59)** To align with this agile principle, a key [[DevOps]] practice is the creation of a system that allows for [[Continuous Integration (CI)|continuous integration]], or CI, which allows the code changes from multiple developers to play together regularly to work out any conflicts when two developers are both working on the same file.
 >
 > **[1:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=78)** It can also run an automated test suite against the code to make sure that the new changes haven't broken anything.
 >
 > **[1:24](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=84)** For that, Amazon has a tool that's called CodePipeline.
 >
-> **[1:30](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=90)** CodePipeline can be used to create a workflow that automatically pulls your code, such as, you know, your code that you have in GitHub or CodeCommit, and then builds your project and runs some automated tests using CodeBuild.
+> **[1:30](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=90)** CodePipeline can be used to create a workflow that automatically pulls your code, such as, you know, your code that you have in [[GitHub]] or CodeCommit, and then builds your project and runs some automated tests using CodeBuild.
 >
 > **[1:47](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/developer-tools-within-aws?u=76281980&t=107)** A related key DevOps practice is called continuous deployment, or CD, and this step would occur at the end of your pipeline so that you can quickly introduce these changes into your production system without manually moving new code and changes up to your fleet of servers by hand.
 >
@@ -3362,7 +3307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Agile Development|Agile]] (2), [[DevOps]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), ci (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Agile Development|Agile]] (2), [[DevOps]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (4), find (1), cd (1)
 > **Env Vars:** ecs (3), ec2 (2)
 > **Analogies:** imagine (1), such as (1)
@@ -3370,12 +3315,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - every (1)
 
-#### Infrastructure as Code with AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980)
+#### [Infrastructure as Code with AWS](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=0)** - A key component to DevOps is treating your infrastructure as code.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=0)** - A key component to [[DevOps]] is treating your [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=6)** Earlier in this course, we looked at physical server racks and servers, and while all these objects exist in the real world, in the cloud, these are just representations of virtual components that we've wired together.
 >
@@ -3385,11 +3329,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=34)** It's like a packing manifest of everything that should be on that server and describes and documents the server in a very real way.
 >
-> **[0:43](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=43)** Okay, for example, if you have 10 identical web servers behind a load balancer and let's say a change is made manually to a single server, the problem will only show up for your users one out of every 10 times and so it's hard to figure out which server is different.
+> **[0:43](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=43)** Okay, for example, if you have 10 identical [[Web Servers]] behind a load balancer and let's say a change is made manually to a single server, the problem will only show up for your users one out of every 10 times and so it's hard to figure out which server is different.
 >
 > **[1:02](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=62)** Deployment automation tools can check all of your servers against the source of truth and set configurations back to their original states.
 >
-> **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=71)** The three most popular open source tools for this are Puppet, Chef and Ansible.
+> **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=71)** The three most popular open source tools for this are Puppet, Chef and [[Ansible]].
 >
 > **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=77)** If you're already using Chef or Puppet, AWS has a service to help you set up the control servers for these tools and that's called AWS OpsWorks.
 >
@@ -3397,7 +3341,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=97)** Whereas Ansible and Chef really shine with the management and configuration state of several servers, CloudFormation goes a level deeper for AWS customers.
 >
-> **[1:48](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=108)** It allows you to script the creation of EC2 servers, VPCs, load balancers, and almost any of the AWS infrastructure and platform services that we've looked at so far.
+> **[1:48](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=108)** It allows you to script the creation of [[Amazon EC2|EC2]] servers, VPCs, load balancers, and almost any of the AWS infrastructure and platform services that we've looked at so far.
 >
 > **[2:01](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=121)** We've got several resources in our catalog on CloudFormation if you want to get started with describing your AWS resources as blocks of code.
 >
@@ -3411,13 +3355,13 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=170)** You can choose whether you would like to create a CloudFormation template that describes new AWS resources or you could even create a script that defines your existing resources, such as the web servers and security groups and load balancers we've already created.
 >
-> **[3:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=186)** Click the use a sample template option and in the search bar, type WordPress.
+> **[3:06](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=186)** Click the use a sample template option and in the search bar, type [[WordPress]].
 >
 > **[3:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=194)** Click on the WordPress blog entry underneath the simple category.
 >
 > **[3:20](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=200)** Click the view in designer button to view this sample CloudFormation template.
 >
-> **[3:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=206)** Click the fit to window target button right above the zoom slider.
+> **[3:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=206)** Click the fit to window target button right above the [[Zoom]] slider.
 >
 > **[3:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=214)** This script is creating for us an EC2 instance and a new security group to apply to that instance.
 >
@@ -3433,9 +3377,9 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=258)** We won't be creating these resources right now but I wanted to show you a sample CloudFormation template and these are great resources for customizing your own templates.
 >
-> **[4:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=272)** Another popular infrastructure as code tool is called Terraform.
+> **[4:32](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=272)** Another popular infrastructure as code tool is called [[Terraform]].
 >
-> **[4:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=278)** Whereas CloudFormation is built into AWS, Terraform will let you use AWS or any of the other popular cloud services as providers.
+> **[4:38](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=278)** Whereas CloudFormation is built into AWS, Terraform will let you use AWS or any of the other popular [[Cloud Services]] as providers.
 >
 > **[4:49](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=289)** Terraform also has a large community and the templating style looks similar to CloudFormation but some people find it a lot easier to work with than CloudFormation.
 >
@@ -3443,13 +3387,13 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=318)** When you set up Terraform, it's going to ask you for your secret access key, and under the hood, it's going to use the AWS API to create and manage resources for you.
 >
-> **[5:31](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=331)** Just as you might have picked Kubernetes for your container orchestration service, you might also want to choose Terraform so you aren't locked into an AWS environment if you want to move between cloud providers.
+> **[5:31](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=331)** Just as you might have picked [[Kubernetes]] for your container orchestration service, you might also want to choose Terraform so you aren't locked into an AWS environment if you want to move between cloud providers.
 >
 > **[5:46](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/infrastructure-as-code-with-aws?u=76281980&t=346)** If you want to get started with either CloudFormation or Terraform, search our catalog for some great resources on both these topics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (14), [[Terraform]] (6), web (4), cloud (3), [[Ansible]] (3)
+> **Frameworks & Libraries:** [[Terraform]] (6), [[Web Servers]] (3), [[Ansible]] (3), [[Amazon EC2|Ec2]] (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (2)
 > **CLI Commands:** aws (14), terraform (6), ansible (3), find (1)
 > **Env Vars:** aws (14), ec2 (3), ami (1), api (1)
 > **Exercise Files:** template (5)
@@ -3458,14 +3402,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (3), install (1)
 > **Cross-References:** earlier in (1)
 
-#### Monitoring with CloudWatch
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980)
+#### [Monitoring with CloudWatch](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=0)** - [Instructor] One change that DevOps made on how a service operates is to expand the role of monitoring the service past "Is the site up?" to "How is the site performing?"
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=0)** - [Instructor] One change that [[DevOps]] made on how a service operates is to expand the role of monitoring the service past "Is the site up?" to "How is the site performing?"
 >
-> **[0:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=14)** The easiest way to think about this is to look at the status page of a popular SMS messaging service called Twilio.
+> **[0:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=14)** The easiest way to think about this is to look at the status page of a popular SMS messaging service called [[Twilio]].
 >
 > **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=23)** Their status page is showing a high level status of the various parts of their service in a stoplight format.
 >
@@ -3493,13 +3436,13 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=120)** And underneath that, click on All metrics.
 >
-> **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=124)** Click on the EC2 card and then click on Per-Instance Metrics.
+> **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=124)** Click on the [[Amazon EC2|EC2]] card and then click on Per-Instance Metrics.
 >
 > **[2:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=131)** This will show you just some of the metrics that are available on the EC2 instances themselves.
 >
 > **[2:20](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=140)** You can also use CloudWatch to log errors within your application or within your Lambda functions so you can spot problems and track errors over time.
 >
-> **[2:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=153)** CloudWatch ties into several AWS services and you can do a lot with this to monitor your cloud infrastructure.
+> **[2:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=153)** CloudWatch ties into several AWS services and you can do a lot with this to monitor your [[Cloud Infrastructure]].
 >
 > **[2:42](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/monitoring-with-cloudwatch?u=76281980&t=162)** But its strong suit has never been on getting underneath your code or tracing the root cause of a nasty error message from your application.
 >
@@ -3511,7 +3454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), application (4), [[DevOps]] (2), [[Amazon EC2|Ec2]] (2), [[Twilio]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Amazon EC2|Ec2]] (2), [[Twilio]] (1), [[Cloud Infrastructure]] (1)
 > **Env Vars:** aws (9), ec2 (2), sms (1), api (1), apm (1)
 > **UI Navigation:** click on (8), scroll down (2), go to (1)
 > **CLI Commands:** aws (9)
@@ -3520,24 +3463,23 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### DevOps using machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980)
+#### [DevOps using machine learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=0)** - [Instructor] CloudWatch is great at storing logs of the metrics of your AWS resources, such as how much memory your EC2 instances have left or how many reads are happening against your database.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=0)** - [Instructor] CloudWatch is great at storing logs of the metrics of your AWS resources, such as how much memory your [[Amazon EC2|EC2]] instances have left or how many reads are happening against your database.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=14)** But unless you know ahead of time the metrics you want to put monitors on, CloudWatch can only help you out in debugging a problem after it's occurred.
 >
-> **[0:24](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=24)** DevOps Guru takes this a step further and it uses machine learning to look at operational data across your AWS resources and it'll notify you when it sees that things are out of place.
+> **[0:24](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=24)** [[DevOps]] Guru takes this a step further and it uses machine learning to look at operational data across your AWS resources and it'll notify you when it sees that things are out of place.
 >
 > **[0:39](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=39)** Think of it like hiring a robot to bring up the CloudWatch console and constantly scan your metrics for anything that's out of the ordinary.
 >
-> **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=50)** DevOps Guru can notify you if it finds some performance issues with your RDS databases or if it sees that your Lambda functions are running out of control.
+> **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=50)** DevOps Guru can notify you if it finds some performance issues with your RDS [[Databases]] or if it sees that your Lambda functions are running out of control.
 >
-> **[1:01](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=61)** An AWS has also applied machine learning tools to help you spot problems directly within the source code of your application.
+> **[1:01](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=61)** An AWS has also [[Applied Machine Learning]] tools to help you spot problems directly within the source code of your application.
 >
-> **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=71)** Code Guru will look at your source code repository and every time that you submit a new change to your code base, it'll do an automated code review on your source code.
+> **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=71)** Code Guru will look at your source code repository and every time that you submit a new change to your code base, it'll do an automated [[Code Review]] on your source code.
 >
 > **[1:24](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/devops-using-machine-learning?u=76281980&t=84)** It won't fix your code for you, but it will make a comment on your code change inside of your code repository.
 >
@@ -3547,7 +3489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[DevOps]] (2), [[Amazon EC2|Ec2]] (1), database (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Amazon EC2|Ec2]] (1), [[Databases]] (1), [[Applied Machine Learning]] (1), [[Code Review]] (1)
 > **Env Vars:** aws (3), ec2 (1), rds (1), api (1)
 > **CLI Commands:** aws (3), make (2)
 > **Exercise Files:** source code (4)
@@ -3559,8 +3501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS Shield and firewalls with WAF
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-shield-and-firewalls-with-waf?u=76281980)
+#### [AWS Shield and firewalls with WAF](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-shield-and-firewalls-with-waf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3580,7 +3521,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-shield-and-firewalls-with-waf?u=76281980&t=78)** This will mitigate some attacks, but one really powerful feature is that they have managed rules that you can subscribe to.
 >
-> **[1:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-shield-and-firewalls-with-waf?u=76281980&t=86)** So, if you're running a web application, there's a set of managed rules that are being updated constantly to combat the latest threats and this can really help out if you've got a hundred other things you need to be doing and you don't always have time to keep a close eye on the web server logs for that, you know, one WordPress marketing site that you're running.
+> **[1:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-shield-and-firewalls-with-waf?u=76281980&t=86)** So, if you're running a web application, there's a set of managed rules that are being updated constantly to combat the latest threats and this can really help out if you've got a hundred other things you need to be doing and you don't always have time to keep a close eye on the web server logs for that, you know, one [[WordPress]] marketing site that you're running.
 >
 > **[1:47](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-shield-and-firewalls-with-waf?u=76281980&t=107)** Another product to take a look at is Shield, which can help mitigate a denial of service attack against your application.
 >
@@ -3590,7 +3531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), [[Security]] (4), web (3), traffic (3), web application (3)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Env Vars:** aws (6), waf (1)
 > **CLI Commands:** aws (6)
 > **Cross-References:** earlier in (1), later in (1)
@@ -3598,12 +3539,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - now (1)
 
-#### Spot issues with Inspector, GuardDuty, and Macie
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/spot-issues-with-inspector-guardduty-and-macie?u=76281980)
+#### [Spot issues with Inspector, GuardDuty, and Macie](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/spot-issues-with-inspector-guardduty-and-macie?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/spot-issues-with-inspector-guardduty-and-macie?u=76281980&t=0)** - I mentioned previously that for your WordPress marketing site that runs off that single EC2 instance buried in your account somewhere.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/spot-issues-with-inspector-guardduty-and-macie?u=76281980&t=0)** - I mentioned previously that for your [[WordPress]] marketing site that runs off that single [[Amazon EC2|EC2]] instance buried in your account somewhere.
 >
 > **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/spot-issues-with-inspector-guardduty-and-macie?u=76281980&t=9)** You may not always have the time to dig through Apache server logs and look for hacking attempts or signs of intrusion.
 >
@@ -3621,7 +3561,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/spot-issues-with-inspector-guardduty-and-macie?u=76281980&t=61)** Now, getting started with this level of security can be overwhelming from a developer's perspective, especially if you've never had to deal with servers or infrastructure before.
 >
-> **[1:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/spot-issues-with-inspector-guardduty-and-macie?u=76281980&t=72)** Inspector is like a full scan of your cloud infrastructure and it looks for unpatched servers or common security or vulnerabilities that you'll need to fix or block access to using your firewall.
+> **[1:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/spot-issues-with-inspector-guardduty-and-macie?u=76281980&t=72)** Inspector is like a full scan of your [[Cloud Infrastructure]] and it looks for unpatched servers or common security or vulnerabilities that you'll need to fix or block access to using your firewall.
 >
 > **[1:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/spot-issues-with-inspector-guardduty-and-macie?u=76281980&t=86)** If you stepped into an AWS account that was managed by somebody else and you are now responsible for the security of your application, this is a great place to start.
 >
@@ -3645,7 +3585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), aws (6), [[Security]] (5), application (3), [[WordPress]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Cloud Infrastructure]] (2), [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** aws (6), apache (1), find (1), make (1)
 > **Env Vars:** aws (6), ec2 (1), waf (1)
 > **Analogies:** think of it as (2)
@@ -3653,12 +3593,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Manage EC2 with Systems Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980)
+#### [Manage EC2 with Systems Manager](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=0)** - [Instructor] In our two running EC2 instances, we would have to connect to each instance individually and run Linux terminal commands to install package updates and keep our operating system up to date with patches.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=0)** - [Instructor] In our two running [[Amazon EC2|EC2]] instances, we would have to connect to each instance individually and run [[Linux]] terminal commands to install package updates and keep our operating system up to date with patches.
 >
 > **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=15)** But how would you do this with 50 or 100 instances?
 >
@@ -3666,27 +3605,26 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=27)** Systems Manager gives you a suite of tools for managing a fleet of instances.
 >
-> **[0:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=34)** The Node Management section of Systems Manager will notify you if one set of servers is, say, out of compliance, if one of your servers is missing required hardware, or having operational issues, or needs new patches to be applied to it.
+> **[0:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=34)** The Node Management section of Systems Manager will notify you if one set of servers is, say, out of compliance, if one of your servers is missing required [[Hardware]], or having operational issues, or needs new patches to be applied to it.
 >
 > **[0:51](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=51)** Session Manager can give you a secure way to access your EC2 instances.
 >
-> **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=58)** You can always use Terraform or other infrastructure as code tools to apply automations across a fleet of servers, but Run Command will give you another way to do this from within AWS.
+> **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=58)** You can always use [[Terraform]] or other [[Infrastructure as code (IaC)|infrastructure as code]] tools to apply automations across a fleet of servers, but Run Command will give you another way to do this from within AWS.
 >
 > **[1:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=72)** Under the Operations Management category, you can use OpsCenter as a central console to tie together alarms from CloudWatch, logs from CloudTrail, and alerts and information from other AWS services.
 >
-> **[1:27](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=87)** Then with Incident Manager, your DevOps team can get notified of the incident and coordinate their efforts as they work together to resolve the issue.
+> **[1:27](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/manage-ec2-with-systems-manager?u=76281980&t=87)** Then with Incident Manager, your [[DevOps]] team can get notified of the incident and coordinate their efforts as they work together to resolve the issue.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), management (2), aws (2), [[Linux]] (1), node (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Linux]] (1), [[Hardware]] (1), [[Terraform]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** aws (2), node (1), terraform (1)
 > **Env Vars:** ec2 (2), aws (2)
 > **Tools:** terminal (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Traceability with CloudTrail and Security Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/traceability-with-cloudtrail-and-security-hub?u=76281980)
+#### [Traceability with CloudTrail and Security Hub](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/traceability-with-cloudtrail-and-security-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3704,7 +3642,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/traceability-with-cloudtrail-and-security-hub?u=76281980&t=53)** Now, I hope you never have to use this, but for applications that store and manage highly sensitive data that's regulated by compliance standards, it's probably wise to look into CloudTrail so that you can spot problems before someone tries to delete all your servers.
 >
-> **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/traceability-with-cloudtrail-and-security-hub?u=76281980&t=71)** And I know I've thrown a lot of different security products at you, but Security Hub tries to bring a lot of these products under one dashboard.
+> **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/traceability-with-cloudtrail-and-security-hub?u=76281980&t=71)** And I know I've thrown a lot of different security [[Microsoft Products|products]] at you, but Security Hub tries to bring a lot of these products under one dashboard.
 >
 > **[1:21](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/traceability-with-cloudtrail-and-security-hub?u=76281980&t=81)** Think of Security Hub like the security workstation on your ship's bridge.
 >
@@ -3714,15 +3652,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), aws (5), [[Microsoft Products|Products]] (3), data (2), api (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Env Vars:** aws (5), api (1)
 > **CLI Commands:** aws (5)
 > **Definitions:** is an  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - sometimes (1)
 
-#### Investigate threats with AWS Detective
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/investigate-threats-with-aws-detective?u=76281980)
+#### [Investigate threats with AWS Detective](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/investigate-threats-with-aws-detective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3738,7 +3675,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), data (2), [[Security]] (1), cloud (1), api (1)
 > **Env Vars:** aws (3), vpc (1), api (1)
 > **CLI Commands:** aws (3), find (1)
 > **Tools:** aws console (1)
@@ -3749,14 +3685,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Check for unwanted charges
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/check-for-unwanted-charges?u=76281980)
+#### [Check for unwanted charges](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/check-for-unwanted-charges?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/check-for-unwanted-charges?u=76281980&t=0)** - [Instructor] The first thing that we want to do at the end of this course is to clean up.
 >
-> **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/check-for-unwanted-charges?u=76281980&t=5)** Make sure you terminate any EC2 instances that you started and release any elastic IPs.
+> **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/check-for-unwanted-charges?u=76281980&t=5)** Make sure you terminate any [[Amazon EC2|EC2]] instances that you started and release any elastic IPs.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/check-for-unwanted-charges?u=76281980&t=12)** Delete any EBS volumes to your instances and delete the load balancer and any S3 buckets you created.
 >
@@ -3772,8 +3707,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Well-Architected Framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980)
+#### [AWS Well-Architected Framework](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3789,13 +3723,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=53)** As we go through these, I will call attention to the design principles AWS feels our most important to implement, such as designing for failure.
 >
-> **[1:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=64)** AWS also has a list of value propositions for you to use when discussing the benefits of cloud computing.
+> **[1:04](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=64)** AWS also has a list of value propositions for you to use when discussing the benefits of [[Cloud Computing]].
 >
 > **[1:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=74)** I have marked this list of keywords, two of which are included right here in the names of the pillars, security and reliability.
 >
-> **[1:23](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=83)** In the first pillar for operational excellence, you should follow the design principles of treating your infrastructure as code, like you can with cloud formation.
+> **[1:23](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=83)** In the first pillar for [[Operational Excellence]], you should follow the design principles of treating your [[Infrastructure as code (IaC)|infrastructure as code]], like you can with cloud formation.
 >
-> **[1:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=94)** Make many small changes that are easy to test and back out of, and always design for failure, such as putting your EC2 instances in different availability zones.
+> **[1:34](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=94)** Make many small changes that are easy to test and back out of, and always design for failure, such as putting your [[Amazon EC2|EC2]] instances in different availability zones.
 >
 > **[1:46](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=106)** and then learn from those failures and quickly make any changes to your operational procedures.
 >
@@ -3803,11 +3737,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=129)** Stop guessing at expected usage or server capacity.
 >
-> **[2:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=134)** Track these metrics and then right-size your resources to match your current needs by doing something that your fixed capital expenses of on-premise hardware can't do.
+> **[2:14](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=134)** Track these metrics and then right-size your resources to match your current needs by doing something that your fixed capital expenses of on-premise [[Hardware]] can't do.
 >
 > **[2:26](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=146)** Implement elasticity and shrink your resources to match your actual demand.
 >
-> **[2:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=153)** And then, as need arises, use the scalability of the cloud to scale horizontally, such as using EC2 auto-scaling with load balancers and use automation to control and track all of these processes.
+> **[2:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=153)** And then, as need arises, use the [[Scalability]] of the cloud to scale horizontally, such as using EC2 auto-scaling with load balancers and use automation to control and track all of these processes.
 >
 > **[2:52](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=172)** For security, you should use identity management policies and audit who has access to your data, and then use traceability tools like CloudTrail to know what they are doing with that access.
 >
@@ -3815,7 +3749,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=195)** Automate your security audits so they happen more frequently.
 >
-> **[3:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=199)** Secure your data at rest or in transit as it moves through your app and then sits within AWS, and anywhere that you can, just hide sensitive data, even from your own team.
+> **[3:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=199)** Secure your data at [[Representational State Transfer (REST)|rest]] or in transit as it moves through your app and then sits within AWS, and anywhere that you can, just hide sensitive data, even from your own team.
 >
 > **[3:33](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=213)** If someone doesn't absolutely need to see the email addresses of your users, restrict their access.
 >
@@ -3827,7 +3761,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=259)** But, on the flip side, so that you don't have to be an expert on database engine design, just use managed services and use the upper decks of your starship wherever you can and focus your team's effort on building your product and let the smart AWS engineers sweat the engine room for you.
 >
-> **[4:41](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=281)** Speaking of managed services, use serverless architectures like Lambda to decouple the components in your app into a microservices design, and design for failure of these smaller parts instead of having one giant monolithic architecture.
+> **[4:41](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=281)** Speaking of managed services, use serverless architectures like Lambda to decouple the components in your app into a [[Microservices]] design, and design for failure of these smaller parts instead of having one giant monolithic architecture.
 >
 > **[4:59](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=299)** And then think parallel.
 >
@@ -3835,7 +3769,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=325)** If this seems like a good idea, run an experiment first.
 >
-> **[5:30](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=330)** Instead of writing a proposal to outline the potential risk, be quick and agile and just clone your application into a test environment, whip up a quick test of how all this would work, and gather some real data.
+> **[5:30](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=330)** Instead of writing a proposal to outline the potential risk, be quick and [[Agile Development|agile]] and just clone your application into a test environment, whip up a quick test of how all this would work, and gather some real data.
 >
 > **[5:44](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=344)** And remember to always start small, but be thinking ahead to deploying into multiple regions, because then, with just a few clicks, you can go global in minutes.
 >
@@ -3851,7 +3785,7 @@ created: 2026-05-02
 >
 > **[7:15](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=435)** And track and tag expenditures on your AWS bill by team, department, or project to give individual owners the ability to optimize their part of the bill.
 >
-> **[7:29](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=449)** It's also important that we focus on the sustainability of our planet, and you can do your part to reduce electricity usage and waste by maximizing your application's efficiency, which can lower your costs as well.
+> **[7:29](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=449)** It's also important that we focus on the [[Sustainability]] of our planet, and you can do your part to reduce electricity usage and waste by maximizing your application's efficiency, which can lower your costs as well.
 >
 > **[7:45](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-well-architected-framework?u=76281980&t=465)** Know your impact on the environment and set sustainability goals to reduce waste in your application by optimizing your code and being elastic and right-sizing your resources to match your exact workload.
 >
@@ -3859,7 +3793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (14), [[Security]] (6), cloud (5), data (5), application (5)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Sustainability]] (3), [[Hardware]] (2), [[Cloud Computing]] (1), [[Operational Excellence]] (1)
 > **CLI Commands:** aws (14), make (3), find (1)
 > **Env Vars:** aws (13), ec2 (3), ebs (1)
 > **Analogies:** such as (5)
@@ -3868,8 +3802,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Exercise Files:** source code (1)
 
-#### Getting help from AWS Support
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/getting-help-from-aws-support?u=76281980)
+#### [Getting help from AWS Support](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/getting-help-from-aws-support?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3877,7 +3810,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/getting-help-from-aws-support?u=76281980&t=8)** Where do you go now if you need more information?
 >
-> **[0:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/getting-help-from-aws-support?u=76281980&t=12)** For starters, you can always use an online learning platform, like LinkedIn Learning.
+> **[0:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/getting-help-from-aws-support?u=76281980&t=12)** For starters, you can always use an online learning platform, like [[LinkedIn]] Learning.
 >
 > **[0:18](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/getting-help-from-aws-support?u=76281980&t=18)** AWS also has their own resources and teams that'll help you dive further into AWS.
 >
@@ -3891,7 +3824,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/getting-help-from-aws-support?u=76281980&t=52)** If you want to interface with a real person, hover over the partner network menu item.
 >
-> **[0:59](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/getting-help-from-aws-support?u=76281980&t=59)** The Amazon Partner Network, or APN, can connect you with consultants and companies who have partnered with AWS to help you get the most out of your cloud infrastructure.
+> **[0:59](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/getting-help-from-aws-support?u=76281980&t=59)** The Amazon Partner Network, or APN, can connect you with consultants and companies who have partnered with AWS to help you get the most out of your [[Cloud Infrastructure]].
 >
 > **[1:12](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/getting-help-from-aws-support?u=76281980&t=72)** You can also attend several events that AWS hosts each year to attend in-person sessions.
 >
@@ -3923,7 +3856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), application (4), [[LinkedIn]] (1), teams (1), [[Cloud Infrastructure]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** aws (13), make (1)
 > **Env Vars:** aws (12), apn (1)
 > **Documentation:** the documentation (1), the docs (1)

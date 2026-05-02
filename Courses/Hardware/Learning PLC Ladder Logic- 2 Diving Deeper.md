@@ -108,26 +108,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn to climb the PLC ladder
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980)
+#### [Learn to climb the PLC ladder](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=1)** - Everyday products that you use are built according to specific requirements.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=1)** - Everyday [[Microsoft Products|products]] that you use are built according to specific requirements.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=6)** In manufacturing and industrial settings, robotic arms, conveyor belts, sensors and the process sequence itself are programmed to perform task to meet those requirements.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=18)** PLC Ladder Logic programming is one of the common languages used to program industrial and manufacturing processes.
+> **[0:18](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=18)** [[PLC Ladder Logic]] programming is one of the common languages used to program industrial and manufacturing processes.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=26)** Although there are many types of PLC devices, the concepts of the language are the same.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=33)** In this LinkedIn Learning course, I'll explain the basics of PLC Ladder Logic programming like math, compare and some of the data transfer instructions.
+> **[0:33](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=33)** In this [[LinkedIn]] Learning course, I'll explain the basics of PLC Ladder Logic programming like math, compare and some of the data transfer instructions.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=44)** I will show you sequence logic and how to use state diagrams in programming PLC processes.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=52)** I'll explore each instruction separately and go through examples, step by step, to better understand each concept.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=60)** You will also see the examples in the simulation software.
+> **[1:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=60)** You will also see the examples in the [[Simulation Software]].
 >
 > **[1:04](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980&t=64)** Hello, I'm Zaharaa Khalil.
 >
@@ -137,13 +136,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (5), [[Programming]] (4), [[LinkedIn]] (2), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (3), [[LinkedIn]] (2), [[Microsoft Products|Products]] (1), [[Simulation Software]] (1)
 > **Env Vars:** plc (5)
 > **Analogies:** just like (1)
 > **Speakers:** - everyday (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -155,30 +153,29 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980&t=34)** I'll be using LogixPro PLC Simulator from LearningPit.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980&t=40)** This simulation software mimics Allen-Bradley Rockwell RSLogix 500.
+> **[0:40](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980&t=40)** This [[Simulation Software]] mimics Allen-Bradley Rockwell RSLogix 500.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980&t=47)** I will only use this software to demo the examples and show you how the programs work.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980&t=53)** This course does not teach the software, because you will be able to apply the knowledge to any PLC software that uses ladder logic.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980&t=62)** This course is designed as a continuation of Learning PLC Ladder Logic.
+> **[1:02](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980&t=62)** This course is designed as a continuation of Learning [[PLC Ladder Logic]].
 >
 > **[1:08](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/what-you-should-know?u=76281980&t=68)** If you need a refresher on the basics of programming ladder logic, I recommend that you check it out first.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), plc (3), data (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (1), [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (3)
 > **Speakers:** - before (1)
 
-#### Using LogixPro PLC software simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/using-logixpro-plc-software-simulation?u=76281980)
+#### [Using LogixPro PLC software simulation](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/using-logixpro-plc-software-simulation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/using-logixpro-plc-software-simulation?u=76281980&t=1)** - [Instructor] For this course, I'll be using LogixPro PLC simulator from Learning Pit.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/using-logixpro-plc-software-simulation?u=76281980&t=8)** This simulation software mimics Allen-Bradley Rockwell RSLogix 500.
+> **[0:08](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/using-logixpro-plc-software-simulation?u=76281980&t=8)** This [[Simulation Software]] mimics Allen-Bradley Rockwell RSLogix 500.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/using-logixpro-plc-software-simulation?u=76281980&t=16)** Please refer to this video, LogixPro PLC Simulation Software, where I go through the software and how to download it.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (3), [[Simulation Software]] (3)
+> **Frameworks & Libraries:** [[Simulation Software]] (3)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
@@ -197,8 +194,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to binary coded decimal
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-binary-coded-decimal?u=76281980)
+#### [Introduction to binary coded decimal](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-binary-coded-decimal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,13 +246,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (3), power (3), application (1), data (1), next (1)
 > **Env Vars:** bcd (12), plc (3)
 > **Definitions:** means that (1)
 > **Speakers:** - [female (1)
 
-#### Thumbwheel in PLC
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/thumbwheel-in-plc?u=76281980)
+#### [Thumbwheel in PLC](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/thumbwheel-in-plc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,17 +278,16 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/thumbwheel-in-plc?u=76281980&t=76)** The binary now shows 135 instead of 87.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/thumbwheel-in-plc?u=76281980&t=82)** In order to tell the software to read each four-bit separately, the BCD number, PLC programming uses an instruction called FRD, that looks for each four bits as one number.
+> **[1:22](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/thumbwheel-in-plc?u=76281980&t=82)** In order to tell the software to read each four-bit separately, the BCD number, [[PLC Programming]] uses an instruction called FRD, that looks for each four bits as one number.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (6), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PLC Programming]] (1)
 > **Env Vars:** plc (6), bcd (4), frd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### FRD instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980)
+#### [FRD instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -334,7 +327,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980&t=150)** Then FRD instruction converts it to a binary equivalent and place it on a discreet output model O:2.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980&t=158)** So here we have the program and the simulation software.
+> **[2:38](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980&t=158)** So here we have the program and the [[Simulation Software]].
 >
 > **[2:41](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/frd-instruction?u=76281980&t=161)** I'm going to go ahead and download the program to PLC.
 >
@@ -356,7 +349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (4), data (2), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (1)
 > **Env Vars:** frd (9), bcd (6), plc (4)
 > **Definitions:** is an  (2), is a  (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -365,8 +358,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 
-#### Example: FRD
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-frd?u=76281980)
+#### [Example: FRD](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-frd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -384,13 +376,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), plc (1)
 > **Env Vars:** plc (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: FRD
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-frd?u=76281980)
+#### [Solution: FRD](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-frd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,7 +396,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-frd?u=76281980&t=33)** We put the input switch ahead of the timer so the timer will start when the switch is on and we can control the reset of the timer when needed.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-frd?u=76281980&t=44)** Please refer to the timer section from PLC Ladder Logic Programming course to understand more about the timer operation.
+> **[0:44](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-frd?u=76281980&t=44)** Please refer to the timer section from [[PLC Ladder Logic]] Programming course to understand more about the timer operation.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-frd?u=76281980&t=52)** If we use a push button instead, we can simply use the timer timing bit as as a seal-in instruction to keep the timer working.
 >
@@ -420,15 +410,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), plc (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
 > **Env Vars:** frd (4), plc (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### LED displays in PLC
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/led-displays-in-plc?u=76281980)
+#### [LED displays in PLC](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/led-displays-in-plc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -452,13 +441,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (3)
 > **Env Vars:** led (5), bcd (4), plc (3), tod (2), frd (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### TOD instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/tod-instruction?u=76281980)
+#### [TOD instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/tod-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,14 +475,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (1)
 > **Env Vars:** bcd (7), tod (3), led (2), plc (1), frd (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: TOD
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-tod?u=76281980)
+#### [Example: TOD](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-tod?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -522,8 +507,7 @@ created: 2026-05-02
 > **Env Vars:** led (2), tod (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: TOD
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-tod?u=76281980)
+#### [Solution: TOD](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-tod?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-tod?u=76281980&t=19)** The preset is four because we need four boxes.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-tod?u=76281980&t=23)** Please refer to the counter section from PLC Ladder Logic programming course to understand more about the counter operation.
+> **[0:23](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-tod?u=76281980&t=23)** Please refer to the counter section from [[PLC Ladder Logic]] programming course to understand more about the counter operation.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-tod?u=76281980&t=34)** Next is to send the data to the LED display.
 >
@@ -573,14 +557,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), plc (1), [[Programming]] (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
 > **Env Vars:** led (3), plc (1), tod (1), xic (1), xio (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: FRD and TOD
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-frd-and-tod?u=76281980)
+#### [Example: FRD and TOD](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-frd-and-tod?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,8 +598,7 @@ created: 2026-05-02
 > **Env Vars:** led (4), rfd (1), tod (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: FRD and TOD
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-frd-and-tod?u=76281980)
+#### [Solution: FRD and TOD](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-frd-and-tod?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,7 +642,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** frd (4), tod (2), led (2), xic (1)
 > **Analogies:** for example (2)
 > **Versions:** 0.1 (1)
@@ -673,8 +654,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to math instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-math-instructions?u=76281980)
+#### [Introduction to math instructions](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-math-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -702,12 +682,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of math instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/types-of-math-instructions?u=76281980)
+#### [Types of math instructions](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/types-of-math-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,13 +719,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (1), [[Debugging]] (1)
 > **Env Vars:** plc (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considerations with math instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/considerations-with-math-instructions?u=76281980)
+#### [Considerations with math instructions](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/considerations-with-math-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -799,15 +775,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (2), plc (2), power (1)
 > **Env Vars:** run (2), plc (2), xic (1)
 > **UI Navigation:** click on (3)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: Convert Fahrenheit to Celsius
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-convert-fahrenheit-to-celsius?u=76281980)
+#### [Example: Convert Fahrenheit to Celsius](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-convert-fahrenheit-to-celsius?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -825,8 +799,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Convert Fahrenheit to Celsius
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-convert-fahrenheit-to-celsius?u=76281980)
+#### [Solution: Convert Fahrenheit to Celsius](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-convert-fahrenheit-to-celsius?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,19 +843,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** tod (2), frd (1), bcd (1), lod (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: Use arithmetic instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-use-arithmetic-instructions?u=76281980)
+#### [Example: Use arithmetic instructions](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-use-arithmetic-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-use-arithmetic-instructions?u=76281980&t=1)** - [Instructor] In manufacturing process, the scenario goes this way.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-use-arithmetic-instructions?u=76281980&t=5)** We need to leave the fan on for a certain time to cool down the finished products and we want to keep track of the remaining time.
+> **[0:05](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-use-arithmetic-instructions?u=76281980&t=5)** We need to leave the fan on for a certain time to cool down the finished [[Microsoft Products|products]] and we want to keep track of the remaining time.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-use-arithmetic-instructions?u=76281980&t=15)** A technician sets the time, the thumbwheel switch is used to enter the value for the timer, and a press on the start push button to start timing.
 >
@@ -902,8 +873,7 @@ created: 2026-05-02
 > **Env Vars:** led (3)
 > **Speakers:** - [instructor] (1)
 
-#### Solution 1: Use arithmetic instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-use-arithmetic-instructions?u=76281980)
+#### [Solution 1: Use arithmetic instructions](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-use-arithmetic-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,7 +887,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-use-arithmetic-instructions?u=76281980&t=32)** For 10 seconds, we multiply by 100.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-use-arithmetic-instructions?u=76281980&t=35)** Please refer to the timer section in the Learning PLC Ladder Logic course if you want to learn more about the timer base.
+> **[0:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-use-arithmetic-instructions?u=76281980&t=35)** Please refer to the timer section in the Learning [[PLC Ladder Logic]] course if you want to learn more about the timer base.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-use-arithmetic-instructions?u=76281980&t=45)** So we are going to add a multiply math instruction, multiplying by 10 or 100 depending on what you want to show in the timer.
 >
@@ -949,14 +919,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
 > **Env Vars:** xio (2), frd (1), plc (1), xic (1)
 > **Versions:** 0.1 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution 2: Use arithmetic instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-use-arithmetic-instructions?u=76281980)
+#### [Solution 2: Use arithmetic instructions](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-use-arithmetic-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,7 +957,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-use-arithmetic-instructions?u=76281980&t=95)** And this how the program looks like at the end.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-use-arithmetic-instructions?u=76281980&t=99)** So this is the program in the simulation software.
+> **[1:39](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-use-arithmetic-instructions?u=76281980&t=99)** So this is the program in the [[Simulation Software]].
 >
 > **[1:42](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-use-arithmetic-instructions?u=76281980&t=102)** You can see in rung two that I used the yellow pilot light for output 2/0.
 >
@@ -1012,15 +981,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (1)
 > **Env Vars:** led (3), tod (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### ONS: One-shot instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/ons-one-shot-instruction?u=76281980)
+#### [ONS: One-shot instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/ons-one-shot-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1058,13 +1026,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2)
 > **Env Vars:** xic (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: ONS with math instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-ons-with-math-instructions?u=76281980)
+#### [Example: ONS with math instructions](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-ons-with-math-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1082,7 +1048,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-ons-with-math-instructions?u=76281980&t=46)** This is a very simple Ladder Logic code.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-ons-with-math-instructions?u=76281980&t=48)** I use a Start Pushbutton that is connected to an addition instruction and I'm going to use N7 address which is the integer in the data table for the simulation software.
+> **[0:48](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-ons-with-math-instructions?u=76281980&t=48)** I use a Start Pushbutton that is connected to an addition instruction and I'm going to use N7 address which is the integer in the data table for the [[Simulation Software]].
 >
 > **[1:02](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-ons-with-math-instructions?u=76281980&t=62)** So in order to see the data table, you click over here and then I'll just drag it so you can see it and then you can select the type of address that you want to see.
 >
@@ -1122,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** n70 (2)
 > **UI Navigation:** select the (1), go to (1)
@@ -1135,8 +1101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to comparison instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-comparison-instructions?u=76281980)
+#### [Introduction to comparison instructions](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-comparison-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,16 +1127,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common comparison instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/common-comparison-instructions?u=76281980)
+#### [Common comparison instructions](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/common-comparison-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/common-comparison-instructions?u=76281980&t=1)** - [Instructor] The common conversion instructions that are used in PLC ladder logic programming are equal, not equal, greater than, greater than or equal, less than, less than or equal.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/common-comparison-instructions?u=76281980&t=1)** - [Instructor] The common conversion instructions that are used in [[PLC Ladder Logic]] programming are equal, not equal, greater than, greater than or equal, less than, less than or equal.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/common-comparison-instructions?u=76281980&t=17)** The name of the instruction is written on the top of the block.
 >
@@ -1201,13 +1164,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: Comparison instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-comparison-instruction?u=76281980)
+#### [Example: Comparison instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-comparison-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1233,8 +1195,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Comparison instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-comparison-instruction?u=76281980)
+#### [Solution: Comparison instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-comparison-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1266,7 +1227,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-comparison-instruction?u=76281980&t=90)** And this is how the complete program looks like at the end.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-comparison-instruction?u=76281980&t=95)** So, here we have the program in the simulation software.
+> **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-comparison-instruction?u=76281980&t=95)** So, here we have the program in the [[Simulation Software]].
 >
 > **[1:38](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-comparison-instruction?u=76281980&t=98)** I'll go ahead and run the program.
 >
@@ -1284,8 +1245,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limit Comparison instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/limit-comparison-instruction?u=76281980)
+#### [Limit Comparison instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/limit-comparison-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1297,7 +1257,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/limit-comparison-instruction?u=76281980&t=28)** And the instruction uses the test to compare it to the limits.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/limit-comparison-instruction?u=76281980&t=33)** Limits and the test can be word addresses or constants.
+> **[0:33](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/limit-comparison-instruction?u=76281980&t=33)** Limits and the test can be [[Microsoft Word|word]] addresses or constants.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/limit-comparison-instruction?u=76281980&t=39)** The instruction goes true if the value of the test is equal to or greater than the low limit and the test is less than or equal to the high limit.
 >
@@ -1311,8 +1271,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example and solution 1: LIM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-1-lim?u=76281980)
+#### [Example and solution 1: LIM](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-1-lim?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1350,14 +1309,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Env Vars:** rpm (2), frd (1), led (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example and solution 2: LIM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-2-lim?u=76281980)
+#### [Example and solution 2: LIM](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-2-lim?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1391,7 +1348,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-2-lim?u=76281980&t=92)** And for that purpose, we're using the thermal switch to enter the value of the temperature, so we need to add an FRD instruction in the first rung.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-2-lim?u=76281980&t=101)** So this is the program that we have in the simulation software and we're going to go ahead and download it to the PLC.
+> **[1:41](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-2-lim?u=76281980&t=101)** So this is the program that we have in the [[Simulation Software]] and we're going to go ahead and download it to the PLC.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-and-solution-2-lim?u=76281980&t=108)** And then go online and then the program.
 >
@@ -1403,7 +1360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (1), plc (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (1)
 > **Env Vars:** led (7), frd (1), plc (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1413,14 +1370,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to MOV instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980)
+#### [Introduction to MOV instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980&t=1)** - [Instructor] The MOV instruction is considered one of the data transfer instructions.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980&t=6)** Data transfer instructions simply involve the transfer of the content from one word or register to another.
+> **[0:06](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980&t=6)** Data transfer instructions simply involve the transfer of the content from one [[Microsoft Word|word]] or register to another.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980&t=17)** A MOV instruction comes in a block format with both a source and a destination parameter.
 >
@@ -1440,19 +1396,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Env Vars:** mov (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: MOV instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-mov-instruction?u=76281980)
+#### [Example: MOV instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-mov-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-mov-instruction?u=76281980&t=1)** - [Instructor] Here is an example that we are going to use move instruction to move a value.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-mov-instruction?u=76281980&t=6)** Let's say we have 10 desks that operators can leave products to air dry them while in the production floor.
+> **[0:06](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-mov-instruction?u=76281980&t=6)** Let's say we have 10 desks that operators can leave [[Microsoft Products|products]] to air dry them while in the production floor.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-mov-instruction?u=76281980&t=15)** Every time a station gets used, a push button is pressed to start counting.
 >
@@ -1469,8 +1424,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: MOV instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mov-instruction?u=76281980)
+#### [Solution: MOV instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mov-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1492,7 +1446,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mov-instruction?u=76281980&t=86)** And finally, adding a reset and push button to reset the counter.
 >
-> **[1:32](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mov-instruction?u=76281980&t=92)** So here we have the program in the simulation software.
+> **[1:32](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mov-instruction?u=76281980&t=92)** So here we have the program in the [[Simulation Software]].
 >
 > **[1:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mov-instruction?u=76281980&t=95)** I'm going to go ahead and run the program and notice here, no pilot light is on because we're less than 10 stations.
 >
@@ -1510,13 +1464,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (1)
 > **Env Vars:** led (5), xio (1), tod (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Masked move instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/masked-move-instruction?u=76281980)
+#### [Masked move instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/masked-move-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1538,7 +1491,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/masked-move-instruction?u=76281980&t=66)** The instruction has three parameters, source, mask, and destination.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/masked-move-instruction?u=76281980&t=72)** The source can be a constant, or the address of word of the data you want to move.
+> **[1:12](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/masked-move-instruction?u=76281980&t=72)** The source can be a constant, or the address of [[Microsoft Word|word]] of the data you want to move.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/masked-move-instruction?u=76281980&t=78)** Example could be inputs one or internal tag n seven zero, or values from timer or counter.
 >
@@ -1546,13 +1499,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Definitions:** is an  (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mask parameter
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/mask-parameter?u=76281980)
+#### [Mask parameter](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/mask-parameter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1572,7 +1524,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/mask-parameter?u=76281980&t=51)** So here's how it works.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/mask-parameter?u=76281980&t=53)** If the source data is this 16 bit word binary number and the mask is this 16 bit word binary number, now the values that are going to be moved to the destination are the ones with one.
+> **[0:53](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/mask-parameter?u=76281980&t=53)** If the source data is this 16 bit [[Microsoft Word|word]] binary number and the mask is this 16 bit word binary number, now the values that are going to be moved to the destination are the ones with one.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/mask-parameter?u=76281980&t=72)** Remember, to pass data is to make the mask one and to block the passing is to make it equal to zero.
 >
@@ -1580,13 +1532,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: MVM instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-mvm-instruction?u=76281980)
+#### [Example: MVM instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-mvm-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1626,8 +1577,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: MVM instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980)
+#### [Solution: MVM instruction](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1643,7 +1593,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=45)** If the value of the masked is one, then turn on the LED.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=52)** The rest of the program is the same.
+> **[0:52](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=52)** The [[Representational State Transfer (REST)|rest]] of the program is the same.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=54)** I did however just remove the previous move instruction from the previous solution.
 >
@@ -1653,7 +1603,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=75)** You can certainly keep it as it is if you prefer it that way.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=81)** So this is the program, it is simulation software.
+> **[1:21](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=81)** So this is the program, it is [[Simulation Software]].
 >
 > **[1:24](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-mvm-instruction?u=76281980&t=84)** You can see in rung one that I moved the accumulative value to N7:7 and I used Masked Move Instruction to mask the D.O.
 >
@@ -1685,7 +1635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (2), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Simulation Software]] (1)
 > **Env Vars:** led (3), tod (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -1695,8 +1645,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to sequence logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-sequence-logic?u=76281980)
+#### [Introduction to sequence logic](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-sequence-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1714,13 +1663,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (1), generic (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to state diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-state-diagrams?u=76281980)
+#### [Introduction to state diagrams](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-state-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,13 +1701,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: Develop a state diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-develop-a-state-diagram?u=76281980)
+#### [Example: Develop a state diagram](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-develop-a-state-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1778,8 +1723,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Develop a state diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-develop-a-state-diagram?u=76281980)
+#### [Solution: Develop a state diagram](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-develop-a-state-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1815,18 +1759,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7)
 > **UI Navigation:** open the (1), go to (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand bottle style logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/understand-bottle-style-logic?u=76281980)
+#### [Understand bottle style logic](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/understand-bottle-style-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/understand-bottle-style-logic?u=76281980&t=0)** - [Instructor] When it comes to PLC ladder logic programming there is a general format for the rungs for the sequential logic.
+> **[0:00](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/understand-bottle-style-logic?u=76281980&t=0)** - [Instructor] When it comes to [[PLC Ladder Logic]] programming there is a general format for the rungs for the sequential logic.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/understand-bottle-style-logic?u=76281980&t=9)** And the format is called the bottle logic.
 >
@@ -1860,13 +1802,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
 > **Definitions:** is a  (1), is called (1), we call this (1)
 > **Env Vars:** plc (1), cln (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: Sequential process
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-sequential-process?u=76281980)
+#### [Example: Sequential process](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/example-sequential-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,12 +1843,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), plc (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution 1: Develop the state diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-develop-the-state-diagram?u=76281980)
+#### [Solution 1: Develop the state diagram](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-1-develop-the-state-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1965,17 +1904,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **Cross-References:** go back to (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - [teacher] (1)
 
-#### Solution 2: Bottle logic for state 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-bottle-logic-for-state-1?u=76281980)
+#### [Solution 2: Bottle logic for state 1](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-bottle-logic-for-state-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-bottle-logic-for-state-1?u=76281980&t=1)** - [Instructor] So now we'll take the complete state diagram and convert it to a PLC ladder logic program.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-bottle-logic-for-state-1?u=76281980&t=1)** - [Instructor] So now we'll take the complete state diagram and convert it to a [[PLC Ladder Logic]] program.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-2-bottle-logic-for-state-1?u=76281980&t=9)** The first part is to develop the control section using the bottle logic format.
 >
@@ -2011,15 +1948,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (1), next (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution 3: Control section
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-3-control-section?u=76281980)
+#### [Solution 3: Control section](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-3-control-section?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2077,12 +2013,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** xio (1)
 > **Speakers:** - [teacher] (1)
 
-#### Solution 4: Output section
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980)
+#### [Solution 4: Output section](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2112,7 +2046,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=76)** Remember that we use the output only once in the program for multiple inputs.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=83)** Please refer to this video to learn more about outputs in PLC ladder logic.
+> **[1:23](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=83)** Please refer to this video to learn more about outputs in [[PLC Ladder Logic]].
 >
 > **[1:30](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=90)** Finally for the counter, it is on in step four only.
 >
@@ -2124,7 +2058,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=112)** Another way to reset the counter is using step zero and counter done bits.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=118)** Here it comes your kind of PLC programming style, both methods work.
+> **[1:58](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=118)** Here it comes your kind of [[PLC Programming]] style, both methods work.
 >
 > **[2:05](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-4-output-section?u=76281980&t=125)** And this is how the complete output section looks like for our example.
 >
@@ -2136,17 +2070,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1), [[PLC Programming]] (1)
 > **Env Vars:** plc (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution 5: Using the software
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-5-using-the-software?u=76281980)
+#### [Solution 5: Using the software](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-5-using-the-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-5-using-the-software?u=76281980&t=1)** - [Instructor] So before we see the demo using the simulation software, let's just recall the process.
+> **[0:01](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-5-using-the-software?u=76281980&t=1)** - [Instructor] So before we see the demo using the [[Simulation Software]], let's just recall the process.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/solution-5-using-the-software?u=76281980&t=6)** So first of all, we have a part that we put on the conveyor.
 >
@@ -2222,7 +2155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation Software]] (2), plc (1), next (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (2)
 > **UI Navigation:** go to (5), scroll down (4), scroll up (1), click on (1)
 > **Env Vars:** led (7), plc (1)
 > **CLI Commands:** make (1)
@@ -2234,8 +2167,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2247,11 +2179,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980&t=21)** If you're interested in understanding more about PLCs and how they fit within the field of industrial automation, check out this course, Learn Industrial Automation, which walks through each level of the industrial automation field.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980&t=35)** I hope this course gave you an opportunity to learn more about PLC ladder logic, and to dive into the world of PLC ladder logic programming.
+> **[0:35](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980&t=35)** I hope this course gave you an opportunity to learn more about [[PLC Ladder Logic]], and to dive into the world of PLC ladder logic programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (3), [[Automation]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (2)
 > **Env Vars:** plc (3)
 > **Documentation:** the documentation (1)
 > **Speakers:** - thank (1)

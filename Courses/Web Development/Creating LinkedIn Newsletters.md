@@ -59,12 +59,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Find your voice with newsletters on LinkedIn
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters/find-your-voice-with-newsletters-on-linkedin-14656532?u=76281980)
+#### [Find your voice with newsletters on LinkedIn](https://www.linkedin.com/learning/creating-linkedin-newsletters/find-your-voice-with-newsletters-on-linkedin-14656532?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-linkedin-newsletters/find-your-voice-with-newsletters-on-linkedin-14656532?u=76281980&t=1)** - In March 2019, I published my first LinkedIn newsletter, "Mindset Matters."
+> **[0:01](https://www.linkedin.com/learning/creating-linkedin-newsletters/find-your-voice-with-newsletters-on-linkedin-14656532?u=76281980&t=1)** - In March 2019, I published my first [[LinkedIn]] newsletter, "Mindset Matters."
 >
 > **[0:07](https://www.linkedin.com/learning/creating-linkedin-newsletters/find-your-voice-with-newsletters-on-linkedin-14656532?u=76281980&t=7)** I had no idea what I was doing, no plan, no strategy, no training.
 >
@@ -83,12 +82,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **Speakers:** - in (1)
 
-#### Preparing to publish a LinkedIn newsletter
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters/preparing-to-publish-a-linkedin-newsletter-14656531?u=76281980)
+#### [Preparing to publish a LinkedIn newsletter](https://www.linkedin.com/learning/creating-linkedin-newsletters/preparing-to-publish-a-linkedin-newsletter-14656531?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-linkedin-newsletters/preparing-to-publish-a-linkedin-newsletter-14656531?u=76281980&t=0)** - Writing a newsletter on LinkedIn is a great way to build your reputation and share your expertise.
+> **[0:00](https://www.linkedin.com/learning/creating-linkedin-newsletters/preparing-to-publish-a-linkedin-newsletter-14656531?u=76281980&t=0)** - Writing a newsletter on [[LinkedIn]] is a great way to build your reputation and share your expertise.
 >
 > **[0:07](https://www.linkedin.com/learning/creating-linkedin-newsletters/preparing-to-publish-a-linkedin-newsletter-14656531?u=76281980&t=7)** But you need to be strategic about how you engage and connect with your audience.
 >
@@ -104,7 +102,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/creating-linkedin-newsletters/preparing-to-publish-a-linkedin-newsletter-14656531?u=76281980&t=29)** It relates to your mindset at work, which most people can relate to.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-linkedin-newsletters/preparing-to-publish-a-linkedin-newsletter-14656531?u=76281980&t=33)** But equally, I've seen really great newsletters that are very niche, very specialized, and ultimately, have a very engaged audience as well.
+> **[0:33](https://www.linkedin.com/learning/creating-linkedin-newsletters/preparing-to-publish-a-linkedin-newsletter-14656531?u=76281980&t=33)** But equally, I've seen really great [[Newsletters]] that are very niche, very specialized, and ultimately, have a very engaged audience as well.
 >
 > **[0:44](https://www.linkedin.com/learning/creating-linkedin-newsletters/preparing-to-publish-a-linkedin-newsletter-14656531?u=76281980&t=44)** Choosing a type of newsletter is really important as well.
 >
@@ -140,14 +138,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Newsletters]] (2), next (2), [[LinkedIn]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Newsletters]] (2), [[LinkedIn]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - writing (1)
 
-#### Writing your article
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980)
+#### [Writing your article](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=74)** Think about where you want to send your audience for more information.
 >
-> **[1:17](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=77)** Today, I point people in the direction of coaching videos that I post weekly on Instagram, my LinkedIn profile page, and I remind people to subscribe to the newsletter.
+> **[1:17](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=77)** Today, I point people in the direction of coaching videos that I post weekly on Instagram, my [[LinkedIn]] profile page, and I remind people to subscribe to the newsletter.
 >
 > **[1:30](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=90)** Once everything is clearly constructed, think about the flow.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=103)** So make reading it easy, quick, and worth it.
 >
-> **[1:47](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=107)** Finally, I want to touch on word count.
+> **[1:47](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=107)** Finally, I want to touch on [[Microsoft Word|word]] count.
 >
 > **[1:51](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=111)** Whilst I don't think there's a hard-and-fast rule here, I challenge you to remove as many words as you can without losing the flow or meaning in your newsletter.
 >
@@ -209,20 +206,19 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=141)** And in fact, I don't even consider myself a great writer.
 >
-> **[2:25](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=145)** I just write in a way that works for me, and I keep tweaking my approach, sometimes by figuring out what people like or by reading other newsletters and picking up ideas.
+> **[2:25](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=145)** I just write in a way that works for me, and I keep tweaking my approach, sometimes by figuring out what people like or by reading other [[Newsletters]] and picking up ideas.
 >
 > **[2:37](https://www.linkedin.com/learning/creating-linkedin-newsletters/writing-your-article-14655552?u=76281980&t=157)** My advice is to give it a go and learn as you go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), hit (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Publishing a LinkedIn newsletter
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters/publishing-a-linkedin-newsletter-14653539?u=76281980)
+#### [Publishing a LinkedIn newsletter](https://www.linkedin.com/learning/creating-linkedin-newsletters/publishing-a-linkedin-newsletter-14653539?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/creating-linkedin-newsletters/publishing-a-linkedin-newsletter-14653539?u=76281980&t=85)** You can save a draft of your newsletter at any time.
 >
-> **[1:29](https://www.linkedin.com/learning/creating-linkedin-newsletters/publishing-a-linkedin-newsletter-14653539?u=76281980&t=89)** I save my newsletters in draft format and do the final editing, such as adding videos, just before I publish.
+> **[1:29](https://www.linkedin.com/learning/creating-linkedin-newsletters/publishing-a-linkedin-newsletter-14653539?u=76281980&t=89)** I save my [[Newsletters]] in draft format and do the final editing, such as adding videos, just before I publish.
 >
 > **[1:38](https://www.linkedin.com/learning/creating-linkedin-newsletters/publishing-a-linkedin-newsletter-14653539?u=76281980&t=98)** Please also make sure you save your newsletter text somewhere else just in case you can't access your drafts or you lose them.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/creating-linkedin-newsletters/publishing-a-linkedin-newsletter-14653539?u=76281980&t=127)** You also need to think about what you're going to post to your network when you hit that Publish button.
 >
-> **[2:13](https://www.linkedin.com/learning/creating-linkedin-newsletters/publishing-a-linkedin-newsletter-14653539?u=76281980&t=133)** This text will show in your LinkedIn feed when you post.
+> **[2:13](https://www.linkedin.com/learning/creating-linkedin-newsletters/publishing-a-linkedin-newsletter-14653539?u=76281980&t=133)** This text will show in your [[LinkedIn]] feed when you post.
 >
 > **[2:17](https://www.linkedin.com/learning/creating-linkedin-newsletters/publishing-a-linkedin-newsletter-14653539?u=76281980&t=137)** You want that wording to encourage people to open and read your newsletter.
 >
@@ -284,14 +280,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[LinkedIn]] (3), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Newsletters]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - once (1)
 
-#### Engaging with your LinkedIn newsletter
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters/engaging-with-your-linkedin-newsletter?u=76281980)
+#### [Engaging with your LinkedIn newsletter](https://www.linkedin.com/learning/creating-linkedin-newsletters/engaging-with-your-linkedin-newsletter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/creating-linkedin-newsletters/engaging-with-your-linkedin-newsletter?u=76281980&t=121)** Equally though, don't miss out on the long-term engagement opportunities.
 >
-> **[2:07](https://www.linkedin.com/learning/creating-linkedin-newsletters/engaging-with-your-linkedin-newsletter?u=76281980&t=127)** This could mean checking in with your audience again first thing the next morning, looking at what comments have come in overnight, but it could also mean going back to past newsletters and checking if any new comments have come up or any new observations that are actually quite interesting.
+> **[2:07](https://www.linkedin.com/learning/creating-linkedin-newsletters/engaging-with-your-linkedin-newsletter?u=76281980&t=127)** This could mean checking in with your audience again first thing the next morning, looking at what comments have come in overnight, but it could also mean going back to past [[Newsletters]] and checking if any new comments have come up or any new observations that are actually quite interesting.
 >
 > **[2:24](https://www.linkedin.com/learning/creating-linkedin-newsletters/engaging-with-your-linkedin-newsletter?u=76281980&t=144)** I tend to do this about once a month or so.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/creating-linkedin-newsletters/engaging-with-your-linkedin-newsletter?u=76281980&t=170)** Think about how you communicate with people in other forums such as social media or through a website.
 >
-> **[2:57](https://www.linkedin.com/learning/creating-linkedin-newsletters/engaging-with-your-linkedin-newsletter?u=76281980&t=177)** Is there a way that you can tell those people about a newsletter that you've published on LinkedIn?
+> **[2:57](https://www.linkedin.com/learning/creating-linkedin-newsletters/engaging-with-your-linkedin-newsletter?u=76281980&t=177)** Is there a way that you can tell those people about a newsletter that you've published on [[LinkedIn]]?
 >
 > **[3:04](https://www.linkedin.com/learning/creating-linkedin-newsletters/engaging-with-your-linkedin-newsletter?u=76281980&t=184)** Even if you don't have a marketing plan yet, your newsletter could be a great way to start the process.
 >
@@ -365,14 +360,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1), [[Newsletters]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - the (1)
 
-#### Technical challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980)
+#### [Technical challenges](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -380,7 +374,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=8)** Here are a few that I've come across that I want to share with you as you get your newsletter underway.
 >
-> **[0:15](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=15)** Challenge number one, your newsletter says it's been published but the email hasn't been sent out and there's no notification on LinkedIn.
+> **[0:15](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=15)** Challenge number one, your newsletter says it's been published but the email hasn't been sent out and there's no notification on [[LinkedIn]].
 >
 > **[0:24](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=24)** This has happened to me once, and I've heard from others that have experienced the same thing.
 >
@@ -390,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=42)** If this doesn't happen within five minutes of posting, there could be a problem.
 >
-> **[0:47](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=47)** I would leave it around 30 minutes and if you have time to get this sorted, you can contact technical support via the give feedback tab at the bottom of the article page.
+> **[0:47](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=47)** I would leave it around 30 minutes and if you have time to get this sorted, you can contact [[Technical Support]] via the give feedback tab at the bottom of the article page.
 >
 > **[0:58](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=58)** In my case, I deleted the newsletter and reposted it later that day, and that version was sent out.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=128)** Challenge number three, videos not showing in the email version of the newsletter.
 >
-> **[2:14](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=134)** This is a bit of an irritation of mine with newsletters.
+> **[2:14](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=134)** This is a bit of an irritation of mine with [[Newsletters]].
 >
 > **[2:18](https://www.linkedin.com/learning/creating-linkedin-newsletters/technical-challenges?u=76281980&t=138)** If you add a video link straight into the desktop version, it looks great on screen.
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Technical Support]] (1), next (1), [[Newsletters]] (1), application (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Technical Support]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
@@ -468,8 +462,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - like (1)
 
-#### Levelling up a LinkedIn newsletter
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980)
+#### [Levelling up a LinkedIn newsletter](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -485,15 +478,15 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=28)** Logging that information will help you over time to understand what your audience likes, what they respond to, and maybe, what you can change in the future.
 >
-> **[0:38](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=38)** Also think about subscribing to other newsletters out there.
+> **[0:38](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=38)** Also think about subscribing to other [[Newsletters]] out there.
 >
-> **[0:42](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=42)** I get tons of newsletters emailed to me via LinkedIn every day, because I want to see what other people are doing, and what they're writing about.
+> **[0:42](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=42)** I get tons of newsletters emailed to me via [[LinkedIn]] every day, because I want to see what other people are doing, and what they're writing about.
 >
 > **[0:51](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=51)** I want to see what I like, and what I don't necessarily like.
 >
-> **[0:55](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=55)** Think of this as market research.
+> **[0:55](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=55)** Think of this as [[Market Research]].
 >
-> **[0:58](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=58)** Doing this can give you ideas of what you can include, and how different audiences react to different content.
+> **[0:58](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=58)** Doing this can give you ideas of what you can include, and how different audiences [[React.js|react]] to different content.
 >
 > **[1:05](https://www.linkedin.com/learning/creating-linkedin-newsletters/levelling-up-a-linkedin-newsletter?u=76281980&t=65)** Also, periodically review your posting schedule.
 >
@@ -555,7 +548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Newsletters]] (3), [[LinkedIn]] (2), [[Analytics]] (1), data (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Newsletters]] (3), [[LinkedIn]] (2), [[Market Research]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1)
 > **Speakers:** - developing (1)

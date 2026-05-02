@@ -51,8 +51,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taylorist management vs. Lean management
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/taylorist-management-vs-lean-management?u=76281980)
+#### [Taylorist management vs. Lean management](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/taylorist-management-vs-lean-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,16 +145,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), product (2), next (2), leadership (1), [[Engineering]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - the (1)
 
-#### What makes a high-performing team?
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980)
+#### [What makes a high-performing team?](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980&t=5)** - I have been studying high performance in technology organizations for a number of years now as part of the State of DevOps Report working with Gene Kim, Doctor Nicole Forsgren, and the team at Puppet Labs.
+> **[0:05](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980&t=5)** - I have been studying high performance in technology organizations for a number of years now as part of the State of [[DevOps]] Report working with Gene Kim, Doctor Nicole Forsgren, and the team at Puppet Labs.
 >
 > **[0:16](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980&t=16)** We've surveyed over 20,000 people across thousands of organizations to discover what makes high performance in both an organizational and an IT context.
 >
@@ -243,11 +240,11 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980&t=264)** Or is it crushed?
 >
-> **[4:25](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980&t=265)** And to see why that is, I'm going to turn to a study that was done by Google.
+> **[4:25](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980&t=265)** And to see why that is, I'm going to turn to a study that was done by [[Google]].
 >
 > **[4:30](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980&t=270)** Google was looking at its teams to find out which teams performed well and which performed badly and to try and find the secret list of ingredients to create the perfect Google team.
 >
-> **[4:39](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980&t=279)** So they thought it might be, you know, a Stanford graduate, someone who knows Node.js, and get rid of all the managers.
+> **[4:39](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980&t=279)** So they thought it might be, you know, a Stanford graduate, someone who knows [[Node.js]], and get rid of all the managers.
 >
 > **[4:45](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/what-makes-a-high-performing-team?u=76281980&t=285)** But what they found was actually something very different and quite surprising.
 >
@@ -291,15 +288,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), teams (3), next (2), [[DevOps]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[DevOps]] (1), [[Node.js]] (1)
 > **CLI Commands:** find (9), make (5), node (1)
 > **File Paths:** node.js (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### How to change culture: The NUMMI case study
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980)
+#### [How to change culture: The NUMMI case study](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,7 +347,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=174)** "Oh, this one can't be driven, either "because the engine's on the wrong way around."
 >
-> **[2:57](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=177)** And off they go to a parking lot to rust, maybe be fixed, whereas the cars that are good and that work go off to a dealership.
+> **[2:57](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=177)** And off they go to a parking lot to [[Rust (Programming Language)|rust]], maybe be fixed, whereas the cars that are good and that work go off to a dealership.
 >
 > **[3:05](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=185)** And at Fremont assembly, cars were coming off the production line all the time and being sent to a parking lot rather than to a dealership because they were all crappy and not made properly.
 >
@@ -381,7 +377,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=287)** This is crucial to what's different about the Toyota production system and the lean way of management.
 >
-> **[4:52](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=292)** John Schuck is one of the leading lights of the lean movement.
+> **[4:52](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=292)** [[John the Ripper|John]] Schuck is one of the leading lights of the lean movement.
 >
 > **[4:56](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=296)** He created the original training program for American employees going to Toyota City in Nagoya, including those original GM employees back in the 1980s and he says, "what my NUMMI experience taught me "that was so powerful was that the way to change culture "is not to first change how people think, "but instead to start by changing how people behave "and what they do."
 >
@@ -405,7 +401,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=370)** A lot of people turn to frameworks and they try and copy the framework without changing the management system and the leadership system and it doesn't work.
 >
-> **[6:19](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=379)** If you take SCRUM or SAFE or any of these frameworks and just try and copy it, you won't get the same results.
+> **[6:19](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=379)** If you take [[Scrum]] or SAFE or any of these frameworks and just try and copy it, you won't get the same results.
 >
 > **[6:25](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=385)** You'll get a bunch of people who are standing up taking orders rather than sitting down taking orders, and you have a huge backlog of prioritized and estimated work, but they're still building the wrong things, not happy in their jobs, have no control over their work, you won't get any of the benefits that we've talked about today.
 >
@@ -415,7 +411,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=409)** Toyota actually invented this idea of building quality in a long time ago.
 >
-> **[6:55](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=415)** Their first products before they were building cars was the Toyota Automatic Loom Type G.
+> **[6:55](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=415)** Their first [[Microsoft Products|products]] before they were building cars was the Toyota Automatic Loom Type G.
 >
 > **[7:00](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=420)** This was a product that was released about 90 years ago.
 >
@@ -427,17 +423,17 @@ created: 2026-05-02
 >
 > **[7:33](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=453)** So a key part of the Toyota philosophy is that machines do the boring repetitive tasks and humans solve problems.
 >
-> **[7:41](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=461)** There's an exact analogy to this practice in modern software development and that is continuous integration.
+> **[7:41](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=461)** There's an exact analogy to this practice in modern [[Software Development]] and that is [[Continuous Integration (CI)|continuous integration]].
 >
 > **[7:49](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=469)** Having a system that detects when we check in a defect or something that's broken and we run automated tests and it tells us so we can fix it straight away.
 >
 > **[8:00](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=480)** Continuous integration actually is an idea that originated in Japan 90 years ago with the automatic loom which would find problems and tell the operator straight away so that you could fix it.
 >
-> **[8:10](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=490)** We've done research into what predicts culture and IT performance and we find that technical practices predict not just better IT performance and better culture, but also, less re-work, better quality, lower deployment pain, less burnout, implementing, test automation, continuous integration, trunk based development, and all these ideas at the heart of continuous delivery by changing the way people behave and the way they work, you change the culture.
+> **[8:10](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/how-to-change-culture-the-nummi-case-study?u=76281980&t=490)** We've done research into what predicts culture and IT performance and we find that technical practices predict not just better IT performance and better culture, but also, less re-work, better quality, lower deployment pain, less burnout, implementing, [[Test Automation]], continuous integration, trunk based development, and all these ideas at the heart of [[Continuous Delivery (CD)|continuous delivery]] by changing the way people behave and the way they work, you change the culture.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), product (4), leadership (3), [[Continuous Integration (CI)|Continuous integration]] (3), next (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Rust (Programming Language)|Rust]] (1), [[John the Ripper|John]] (1), [[Scrum]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** nummi (3), scrum (1), safe (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -446,8 +442,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
 
-#### Improving performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980)
+#### [Improving performance](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +454,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=24)** What happens if you hire great people into crappy systems is you break the people.
 >
-> **[0:29](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=29)** Conversely, Adrian Cockcroft, one of the originators of cloud computing at scale who is the cloud architect at Netflix, he would go and give talks at a number of large companies, and the executives would come to Adrian and say, "Adrian, where to you get your amazing people?"
+> **[0:29](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=29)** Conversely, Adrian Cockcroft, one of the originators of [[Cloud Computing]] at scale who is the cloud architect at Netflix, he would go and give talks at a number of large companies, and the executives would come to Adrian and say, "Adrian, where to you get your amazing people?"
 >
 > **[0:46](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=46)** And Adrian would turn around and say to them, "I get them from you."
 >
@@ -525,7 +520,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=232)** How do we invest in our people and their development in order to make sure that the people we hire now will be the people that we need in two years or five years or 10 years?
 >
-> **[4:02](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=242)** Google did a lot of research into how to hire good people, and what they found is that a lot of the techniques that are used to interview people, like setting them problem solving tasks like how many pianos are there in California don't actually predict anything.
+> **[4:02](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=242)** [[Google]] did a lot of research into how to hire good people, and what they found is that a lot of the techniques that are used to interview people, like setting them problem solving tasks like how many pianos are there in California don't actually predict anything.
 >
 > **[4:19](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=259)** What they found is that what's important is the ability of people to learn and synthesize new knowledge, their ability to lead in an emergent way, which means that when they see something needs doing, they step up.
 >
@@ -619,7 +614,7 @@ created: 2026-05-02
 >
 > **[9:00](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=540)** And this is something they actually do at Amazon on a regular basis, is power down data centers or execute other disasters and make sure their systems are still running.
 >
-> **[9:09](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=549)** There's a whole team at Google that creates, designs, and then implements disaster recovery testing exercises that go over several days where they actually do things like turning off the fiber connection between Silicon Valley and the rest of the world or powering down data centers or causing other kinds of problems.
+> **[9:09](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=549)** There's a whole team at Google that creates, designs, and then implements disaster recovery testing exercises that go over several days where they actually do things like turning off the fiber connection between Silicon Valley and the [[Representational State Transfer (REST)|rest]] of the world or powering down data centers or causing other kinds of problems.
 >
 > **[9:28](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/improving-performance?u=76281980&t=568)** And these exercises have two important outcomes.
 >
@@ -667,15 +662,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (13), [[Google]] (3), data (3), cloud (2), management (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[Cloud Computing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** nummi (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - it (1)
 
-#### Principles for high-performing teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/principles-for-high-performing-teams?u=76281980)
+#### [Principles for high-performing teams](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/principles-for-high-performing-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,7 +689,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), leadership (2)
 > **Speakers:** - we (1)
 
 

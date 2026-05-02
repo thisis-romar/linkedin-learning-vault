@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to determine your cloud strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/how-to-determine-your-cloud-strategy?u=76281980)
+#### [How to determine your cloud strategy](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/how-to-determine-your-cloud-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,13 +101,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/how-to-determine-your-cloud-strategy?u=76281980&t=29)** Over years, I've helped businesses of all sizes succeed in their cloud journeys.
 >
-> **[0:36](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/how-to-determine-your-cloud-strategy?u=76281980&t=36)** So, join me in my LinkedIn Learning course, where I walk you through critical steps in determining cloud strategy for your company's success.
+> **[0:36](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/how-to-determine-your-cloud-strategy?u=76281980&t=36)** So, join me in my [[LinkedIn]] Learning course, where I walk you through critical steps in determining [[Cloud Strategy]] for your company's success.
 >
 > **[0:45](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/how-to-determine-your-cloud-strategy?u=76281980&t=45)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), ai (1), aws (1), [[Automation]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Cloud Strategy]] (1)
 > **CLI Commands:** aws (1)
 > **Code Identifiers:** ewow (1)
 > **Env Vars:** aws (1)
@@ -119,8 +118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining the need to move to the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980)
+#### [Defining the need to move to the cloud](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=38)** It enables organizations to harness the power of emerging technologies.
 >
-> **[0:43](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=43)** With cloud, you can scale your infrastructure on demand, pay only for what you use and accelerate the adoption of modern practices like DevOps.
+> **[0:43](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=43)** With cloud, you can scale your infrastructure on demand, pay only for what you use and accelerate the adoption of modern practices like [[DevOps]].
 >
 > **[0:53](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=53)** But as an IT leader, it is critical to understand why your company needs to move to the cloud so that you can craft the right strategy.
 >
@@ -152,21 +150,20 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=93)** In this case, migration tools, automation, and seamless integration capabilities become key valuation criteria.
 >
-> **[1:42](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=102)** Others are driven by the need to access advanced capabilities like AI and machine learning to build intelligent products and services.
+> **[1:42](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=102)** Others are driven by the need to access advanced capabilities like AI and machine learning to build intelligent [[Microsoft Products|products]] and services.
 >
 > **[1:51](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=111)** In such cases, evaluating cloud providers for the breadth and maturity of AI ML services, pre-trained models and APIs become critical to accelerating time to value.
 >
 > **[2:04](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=124)** Businesses move to cloud for different reasons.
 >
-> **[2:07](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=127)** While creating a cloud strategy, it is essential to identify your organization's key drivers for the move so that you can evaluate your options effectively and set the right expectations.
+> **[2:07](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980&t=127)** While creating a [[Cloud Strategy]], it is essential to identify your organization's key drivers for the move so that you can evaluate your options effectively and set the right expectations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), ai (3), business (1), power (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Microsoft Products|Products]] (1), [[Cloud Strategy]] (1)
 > **Speakers:** - organizations (1)
 
-#### Understanding cloud deployment models
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980)
+#### [Understanding cloud deployment models](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,25 +173,25 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=19)** You have options.
 >
-> **[0:20](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=20)** Hybrid cloud and multi-cloud strategies allow you to choose what works best for your business needs, technical requirements, and innovation goals.
+> **[0:20](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=20)** [[Hybrid Cloud]] and multi-cloud strategies allow you to choose what works best for your business needs, technical requirements, and innovation goals.
 >
-> **[0:29](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=29)** A hybrid cloud deployment model combines public cloud services offered by providers like Amazon Web Services, Microsoft Azure, or Google Cloud, with private cloud infrastructure.
+> **[0:29](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=29)** A hybrid cloud deployment model combines public [[Cloud Services]] offered by providers like [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud]], with private [[Cloud Infrastructure]].
 >
 > **[0:42](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=42)** These environments operate from separate data centers, often in different geographic locations, and are connected via secure, encrypted channels that allow seamless flow of data and applications.
 >
 > **[0:55](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=55)** For example, a financial services firm concerned about data sovereignty and security might use a private cloud to process sensitive customer data while using the public cloud to run nonsensitive workloads.
 >
-> **[1:09](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=69)** Similarly, an e-commerce company may rely on hybrid deployment to quickly scale up operations during peak seasons while keeping core transaction systems in a private environment.
+> **[1:09](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=69)** Similarly, an [[E-Commerce]] company may rely on hybrid deployment to quickly scale up operations during peak seasons while keeping core transaction systems in a private environment.
 >
 > **[1:22](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=82)** Hybrid cloud is also increasingly leveraged for AI and analytics where sensitive training data remains on-prem.
 >
-> **[1:30](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=90)** But scalable cloud computing resources are used to run AI models or handle inference at scale.
+> **[1:30](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=90)** But scalable [[Cloud Computing]] resources are used to run AI models or handle inference at scale.
 >
-> **[1:38](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=98)** In contrast, a multi-cloud strategy enables businesses to use services from multiple public cloud providers.
+> **[1:38](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=98)** In contrast, a multi-[[Cloud Strategy]] enables businesses to use services from multiple public cloud providers.
 >
-> **[1:46](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=106)** This model works well when you want to use best services from different providers like AI from one and data storage or networking from another, and reduce the dependency on a single vendor.
+> **[1:46](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=106)** This model works well when you want to use best services from different providers like AI from one and [[Data Storage]] or networking from another, and reduce the dependency on a single vendor.
 >
-> **[1:59](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=119)** For example, a company may run compute and networking on AWS while using Azure's AI models or data services.
+> **[1:59](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=119)** For example, a company may run compute and networking on AWS while using [[Microsoft Azure|Azure]]'s AI models or data services.
 >
 > **[2:08](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=128)** Some applications may exclusively use Azure resources while others run only in AWS, depending on performance, pricing, or functionality advantages.
 >
@@ -202,17 +199,17 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=144)** Multi-cloud always involves multiple public cloud providers and can include private cloud as well.
 >
-> **[2:31](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=151)** While evaluating, also consider your AI strategy.
+> **[2:31](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=151)** While evaluating, also consider your [[AI Strategy]].
 >
-> **[2:35](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=155)** My course, [[Building a Generative AI Tech Strategy]], can help you understand how to integrate your AI strategy with your cloud strategy.
+> **[2:35](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=155)** My course, [[Building a [[Generative AI]] Tech Strategy]], can help you understand how to integrate your AI strategy with your cloud strategy.
 >
 > **[2:45](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=165)** Moving to the cloud is a journey, and the decisions that you make today will have long-term implications.
 >
-> **[2:52](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=172)** Consider your current and future technology needs, including emerging tech, scalability, security, and vendor flexibility to select the cloud approach that aligns with your business goals.
+> **[2:52](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/understanding-cloud-deployment-models?u=76281980&t=172)** Consider your current and future technology needs, including emerging tech, [[Scalability]], security, and vendor flexibility to select the cloud approach that aligns with your business goals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), data (8), ai (6), [[Hybrid Cloud]] (4), business (2)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (4), [[Cloud Strategy]] (2), [[Microsoft Azure|Azure]] (2), [[AI Strategy]] (2), [[Cloud Services]] (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2)
 > **Analogies:** for example (2)
@@ -220,12 +217,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### Evaluating sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-sustainability?u=76281980)
+#### [Evaluating sustainability](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-sustainability?u=76281980&t=0)** - Sustainability in cloud computing entails energy efficiency, resource optimization, and carbon footprint reduction.
+> **[0:00](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-sustainability?u=76281980&t=0)** - [[Sustainability]] in [[Cloud Computing]] entails energy efficiency, resource optimization, and carbon footprint reduction.
 >
 > **[0:08](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-sustainability?u=76281980&t=8)** As you plan a cloud migration, it's important to compare the energy usage of your current infrastructure with that of potential cloud providers.
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-sustainability?u=76281980&t=102)** Reviewing their annual sustainability reports can give you insight into their real impact.
 >
-> **[1:48](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-sustainability?u=76281980&t=108)** Communicating these environmental considerations to stakeholders helps build alignment between your cloud strategy and your broader ESG objectives.
+> **[1:48](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-sustainability?u=76281980&t=108)** Communicating these environmental considerations to stakeholders helps build alignment between your [[Cloud Strategy]] and your broader ESG objectives.
 >
 > **[1:59](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-sustainability?u=76281980&t=119)** By prioritizing sustainability, you're not only modernizing your tech stack.
 >
@@ -257,13 +253,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (5), cloud (5), ai (3), power (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Cloud Computing]] (1), [[Cloud Strategy]] (1)
 > **Env Vars:** esg (1)
 > **Analogies:** such as (1)
 > **Speakers:** - sustainability (1)
 
-#### Educating your stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980)
+#### [Educating your stakeholders](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -281,13 +276,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980&t=49)** These cross-functional discussions are key to building a solid cloud adoption roadmap.
 >
-> **[0:55](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980&t=55)** In my experience, skipping this step often leads to friction and slows down the digital transformation journey.
+> **[0:55](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980&t=55)** In my experience, skipping this step often leads to friction and slows down the [[Digital Transformation]] journey.
 >
-> **[1:03](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980&t=63)** Everyone in the organization should have basic understanding of cloud computing concepts.
+> **[1:03](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980&t=63)** Everyone in the organization should have basic understanding of [[Cloud Computing]] concepts.
 >
-> **[1:09](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980&t=69)** This is especially important as technologies such as artificial intelligence and automation become part of day-to-day operations.
+> **[1:09](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980&t=69)** This is especially important as technologies such as [[Artificial Intelligence (AI)|artificial intelligence]] and automation become part of day-to-day operations.
 >
-> **[1:18](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980&t=78)** Many IT teams lead change management initiatives to help employees understand what to expect and how to adapt during this transition.
+> **[1:18](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980&t=78)** Many IT teams [[Lead Change]] management initiatives to help employees understand what to expect and how to adapt during this transition.
 >
 > **[1:28](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/educating-your-stakeholders?u=76281980&t=88)** It is also important to look beyond internal stakeholders.
 >
@@ -299,13 +294,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), management (2), business (2), teams (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Cloud Computing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Lead Change]] (1)
 > **Env Vars:** poc (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - cloud (1)
 
-#### Creating a future roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/creating-a-future-roadmap?u=76281980)
+#### [Creating a future roadmap](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/creating-a-future-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -315,7 +309,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/creating-a-future-roadmap?u=76281980&t=14)** You need to have a thorough understanding of your current technical landscape.
 >
-> **[0:19](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/creating-a-future-roadmap?u=76281980&t=19)** This understanding forms the basis for the roadmap.
+> **[0:19](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/creating-a-future-roadmap?u=76281980&t=19)** This understanding [[Forms]] the basis for the roadmap.
 >
 > **[0:23](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/creating-a-future-roadmap?u=76281980&t=23)** So at a business level, analyze your application portfolio, infrastructure, resource allocation, costs, and cloud readiness.
 >
@@ -329,7 +323,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/creating-a-future-roadmap?u=76281980&t=70)** As you identify your workloads and the desired outcomes, map the capabilities of your shortlisted cloud providers.
 >
-> **[1:18](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/creating-a-future-roadmap?u=76281980&t=78)** While doing so, consider the cloud services you need, including AI and machine learning platforms, along with your security, disaster recovery, business continuity, and SLA requirements.
+> **[1:18](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/creating-a-future-roadmap?u=76281980&t=78)** While doing so, consider the [[Cloud Services]] you need, including AI and machine learning platforms, along with your security, disaster recovery, business continuity, and SLA requirements.
 >
 > **[1:32](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/creating-a-future-roadmap?u=76281980&t=92)** You should also consider whether your shortlisted cloud providers have a professional services team to support you in the migration process.
 >
@@ -343,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), business (3), ai (3), [[Forms]] (1), application (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Cloud Services]] (1)
 > **Env Vars:** poc (2), sla (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - many (1)
@@ -353,8 +347,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying the right candidate for a POC
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/identifying-the-right-candidate-for-poc?u=76281980)
+#### [Identifying the right candidate for a POC](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/identifying-the-right-candidate-for-poc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -392,13 +385,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), business (2), application (1), ai (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - most (1)
 
-#### Building your POC team
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/identifying-the-poc-team?u=76281980)
+#### [Building your POC team](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/identifying-the-poc-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,7 +415,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), next (1), ai (1)
 > **CLI Commands:** make (1)
 > **Warnings:** caution (1)
 > **Speakers:** - after (1)
@@ -434,8 +424,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining the roles and responsibilities of the COE
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-roles-and-responsibilities-of-the-coe?u=76281980)
+#### [Defining the roles and responsibilities of the COE](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-roles-and-responsibilities-of-the-coe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,13 +462,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), business (2), [[Security]] (1), [[Automation]] (1), ai (1)
 > **Env Vars:** coe (8)
 > **Prerequisites:** set up (1)
 > **Speakers:** - starting (1)
 
-#### Building the COE team
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/building-the-coe-team?u=76281980)
+#### [Building the COE team](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/building-the-coe-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,14 +508,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), teams (1), functional (1), [[Security]] (1), database (1)
 > **Env Vars:** coe (11), ceo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - cloud (1)
 
-#### Enabling the COE
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980)
+#### [Enabling the COE](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,7 +527,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980&t=32)** Work with your cloud vendor to identify a learning path and a targeted timeframe for the training.
 >
-> **[0:38](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980&t=38)** Check out my "Addressing Technical Skills Gap" and "Building Onboarding Frameworks: Strategies for Tech Leaders" courses here on LinkedIn Learning for more tips on how to do this.
+> **[0:38](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980&t=38)** Check out my "Addressing Technical Skills Gap" and "Building Onboarding Frameworks: Strategies for Tech Leaders" courses here on [[LinkedIn]] Learning for more tips on how to do this.
 >
 > **[0:50](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980&t=50)** It is important for the COE to have certification goals as well.
 >
@@ -552,9 +537,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980&t=62)** It will not only help validate their skillset, but also build credibility among other teams.
 >
-> **[1:09](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980&t=69)** The COE team also needs to be trained on Scrum, Agile fundamentals, DevOps tools, and AI driven cloud services.
+> **[1:09](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980&t=69)** The COE team also needs to be trained on [[Scrum]], [[Agile Development|Agile]] fundamentals, [[DevOps Tools]], and AI driven [[Cloud Services]].
 >
-> **[1:18](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980&t=78)** Many enterprises also have their COE teams go through change management workshops to prepare them for a positive outlook during the company's cloud journey.
+> **[1:18](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980&t=78)** Many enterprises also have their COE teams go through change management workshops to prepare them for a positive [[Microsoft Outlook|outlook]] during the company's cloud journey.
 >
 > **[1:30](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/enabling-the-coe?u=76281980&t=90)** Build a culture of continuous learning in your team.
 >
@@ -566,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), teams (3), ai (3), [[LinkedIn]] (1), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Scrum]] (1), [[Agile Development|Agile]] (1), [[DevOps Tools]] (1), [[Cloud Services]] (1)
 > **Env Vars:** coe (9)
 > **Speakers:** - one (1)
 
@@ -575,8 +560,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding the right partner
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/finding-the-right-partner?u=76281980)
+#### [Finding the right partner](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/finding-the-right-partner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/finding-the-right-partner?u=76281980&t=29)** Cloud providers understand that they can scale and better support customers by building strong partner networks, equipped with deep technical knowledge around AI automation, 6G enabled edge computing, and NLP powered applications alongside traditional cloud capabilities.
 >
-> **[0:50](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/finding-the-right-partner?u=76281980&t=50)** All leading cloud providers like AWS, Microsoft and Google have a robust cloud partner network focused on these emerging technologies.
+> **[0:50](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/finding-the-right-partner?u=76281980&t=50)** All leading cloud providers like AWS, [[Microsoft]] and [[Google]] have a robust cloud partner network focused on these emerging technologies.
 >
 > **[1:01](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/finding-the-right-partner?u=76281980&t=61)** Partners bring domain expertise, such as in healthcare and finance, strategic vision, and hands-on cloud experience implementing solutions for various enterprises.
 >
@@ -606,14 +590,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), ai (2), [[Automation]] (2), nlp (2), aws (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** nlp (2), aws (1)
 > **CLI Commands:** aws (1), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - the (1)
 
-#### Evaluating the need for a managed service provider (MSP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-the-need-for-a-managed-service-provider-msp?u=76281980)
+#### [Evaluating the need for a managed service provider (MSP)](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-the-need-for-a-managed-service-provider-msp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,9 +608,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-the-need-for-a-managed-service-provider-msp?u=76281980&t=28)** What kind of support do you need?
 >
-> **[0:30](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-the-need-for-a-managed-service-provider-msp?u=76281980&t=30)** Are you looking for help with running daily IT operations, implementing cloud security with AI driven threat detection, migrating specific workloads, or leveraging DevOps and automation practices?
+> **[0:30](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-the-need-for-a-managed-service-provider-msp?u=76281980&t=30)** Are you looking for help with running daily IT operations, implementing [[Cloud Security]] with AI driven threat detection, migrating specific workloads, or leveraging [[DevOps]] and automation practices?
 >
-> **[0:43](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-the-need-for-a-managed-service-provider-msp?u=76281980&t=43)** Many MSPs now offer comprehensive cloud migration services where they not only move cloud workloads, but also manage systems, monitor security, and optimize operations with AI and DevOps tools.
+> **[0:43](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-the-need-for-a-managed-service-provider-msp?u=76281980&t=43)** Many MSPs now offer comprehensive cloud migration services where they not only move cloud workloads, but also manage systems, monitor security, and optimize operations with AI and [[DevOps Tools]].
 >
 > **[0:59](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/evaluating-the-need-for-a-managed-service-provider-msp?u=76281980&t=59)** While choosing an MSP, ensure that they have experience supporting cloud adoption for businesses similar to yours and can meet both your current needs and future growth, especially around evolving technologies.
 >
@@ -641,7 +624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Security]] (2), ai (2), [[DevOps]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (1), [[DevOps]] (1), [[DevOps Tools]] (1)
 > **Env Vars:** msp (5), hipaa (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
@@ -653,26 +636,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing for GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980)
+#### [Designing for GenAI](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=0)** - Generative and agentic AI hold immense potential for innovation, from creating personalized content to analyzing complex datasets and autonomously driving decisions.
 >
-> **[0:13](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=13)** However, realizing these benefits requires a cloud strategy that meets the demand of both generative and agentic AI workloads.
+> **[0:13](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=13)** However, realizing these benefits requires a [[Cloud Strategy]] that meets the demand of both generative and agentic AI workloads.
 >
-> **[0:23](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=23)** Generative AI models are compute-intensive, especially when training large language models.
+> **[0:23](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=23)** [[Generative AI]] models are compute-intensive, especially when training [[Large Language Models (LLM)|large language models]].
 >
 > **[0:30](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=30)** Agentic AI adds complexity by involving autonomous agents that interact with environments, learn and make decisions without constant human input.
 >
-> **[0:42](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=42)** This requires high-performance compute resources and systems that support real-time processing and integration with multiple data sources.
+> **[0:42](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=42)** This requires high-performance compute resources and systems that support [[Real-Time]] processing and integration with multiple data sources.
 >
 > **[0:52](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=52)** Choosing cloud providers with high-performance GPUs or specialized AI chips makes a big difference.
 >
 > **[0:59](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=59)** Leveraging autoscaling helps manage resources effectively, paying only for what you need during peak hours.
 >
-> **[1:07](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=67)** Integrating DevOps practices is critical to support continuous deployment, testing and iteration as AI agents adapt and learn.
+> **[1:07](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=67)** Integrating [[DevOps]] practices is critical to support continuous deployment, testing and iteration as [[AI Agents]] adapt and learn.
 >
 > **[1:18](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=78)** Generative AI needs massive datasets, often petabytes, and agentic AI produces continuous data streams, both demanding, scalable, flexible storage.
 >
@@ -686,43 +668,42 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=123)** Use cost-saving strategies like spot instances, reserved instances, and provider discounts to control budgets while scaling effectively.
 >
-> **[2:14](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=134)** To unlock generative AI and agentic AI's potential, your cloud strategy must prioritize high-performance compute, efficient storage, security, cost control, and DevOps-driven continuous integration and deployment.
+> **[2:14](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=134)** To unlock generative AI and agentic AI's potential, your cloud strategy must prioritize high-performance compute, efficient storage, security, cost control, and DevOps-driven [[Continuous Integration (CI)|continuous integration]] and deployment.
 >
 > **[2:30](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980&t=150)** This will help your organization innovate while staying cost-efficient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), cloud (4), data (4), [[Generative AI]] (3), [[DevOps]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Cloud Strategy]] (2), [[DevOps]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - generative (1)
 
-#### Designing for 6G
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980)
+#### [Designing for 6G](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=0)** - 6G technology provides ultra low latency, high bandwidth, and new possibilities.
 >
-> **[0:07](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=7)** Developing a cloud strategy that's 6G ready will position your organization to capitalize on this next wave of connectivity.
+> **[0:07](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=7)** Developing a [[Cloud Strategy]] that's 6G ready will position your organization to capitalize on this next wave of connectivity.
 >
-> **[0:16](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=16)** 6G requires near-instantaneous data processing.
+> **[0:16](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=16)** 6G requires near-instantaneous [[Data Processing]].
 >
 > **[0:20](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=20)** To achieve this, you need to plan for Edge computing solutions that bring your computer resources closer to the end user.
 >
-> **[0:28](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=28)** Many cloud providers offer localized data centers or Edge zones, enabling you to reduce latency and deliver real-time responses.
+> **[0:28](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=28)** Many cloud providers offer localized data centers or Edge zones, enabling you to reduce latency and deliver [[Real-Time]] responses.
 >
-> **[0:37](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=37)** With 6G, there'll be an influx of data from IoT devices and connected applications.
+> **[0:37](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=37)** With 6G, there'll be an influx of data from [[IoT]] devices and connected applications.
 >
 > **[0:43](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=43)** Your cloud strategy should be able to handle and process high data volumes securely.
 >
 > **[0:50](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=50)** Look for strong identity and access management, data encryption, and compliance features from your provider.
 >
-> **[0:58](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=58)** By building an elastic cloud infrastructure with dynamic scaling capabilities, you can manage the fluctuations in network traffic seamlessly, ensuring reliable performance and user experience.
+> **[0:58](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=58)** By building an elastic [[Cloud Infrastructure]] with dynamic scaling capabilities, you can manage the fluctuations in network traffic seamlessly, ensuring reliable performance and [[User Experience (UX)|user experience]].
 >
 > **[1:11](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=71)** 6G adoption has high energy demands.
 >
-> **[1:15](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=75)** Working with cloud providers who prioritize sustainable practices and energy-efficient data centers helps align your 6G strategy with broader sustainability goals.
+> **[1:15](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=75)** Working with cloud providers who prioritize sustainable practices and energy-efficient data centers helps align your 6G strategy with broader [[Sustainability]] goals.
 >
 > **[1:27](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-6g?u=76281980&t=87)** A 6G-ready cloud strategy prioritizes Edge computing, secure and scalable data handling, and sustainability.
 >
@@ -730,49 +711,48 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (5), [[Sustainability]] (2), next (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Cloud Strategy]] (3), [[Sustainability]] (2), [[Data Processing]] (1), [[Real-Time]] (1), [[IoT]] (1)
 > **Speakers:** - 6g (1)
 
-#### Designing for natural language processing (NLP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980)
+#### [Designing for natural language processing (NLP)](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=0)** - Natural language processing or NLP is a critical component of AI that enables machines to understand, interpret, and respond to human language.
+> **[0:00](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=0)** - [[Natural Language Processing (NLP)|Natural language processing]] or NLP is a critical component of AI that enables machines to understand, interpret, and respond to human language.
 >
 > **[0:11](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=11)** It is essential for applications involving language comprehension, like chat bots, sentiment analysis, and language translation.
 >
-> **[0:20](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=20)** Developing a cloud strategy that supports NLP effectively allows you to harness these capabilities to enhance user experience.
+> **[0:20](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=20)** Developing a [[Cloud Strategy]] that supports NLP effectively allows you to harness these capabilities to enhance [[User Experience (UX)|user experience]].
 >
 > **[0:30](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=30)** NLP models, particularly transformers, are highly resource intensive.
 >
-> **[0:36](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=36)** Choose cloud providers that offer high memory instances and access to GPUs or custom AI hardware for NLP workloads, manage services like AWS SageMaker or Google API platform can streamline model training and deployment, making it easier to manage infrastructure.
+> **[0:36](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=36)** Choose cloud providers that offer high memory instances and access to GPUs or custom AI [[Hardware]] for NLP workloads, manage services like [[AWS SageMaker]] or [[Google]] API platform can streamline model training and deployment, making it easier to manage infrastructure.
 >
 > **[0:57](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=57)** NLP applications often process personal or sensitive data.
 >
-> **[1:02](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=62)** So data security and regulatory compliance should be key considerations.
+> **[1:02](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=62)** So [[Data Security]] and [[Regulatory Compliance]] should be key considerations.
 >
 > **[1:07](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=67)** Choose providers that offer robust encryption, access control, and compliance certifications.
 >
-> **[1:14](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=74)** Tools like differential privacy or federated learning can also help protect sensitive information without compromising the model accuracy.
+> **[1:14](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=74)** Tools like differential [[Privacy]] or federated learning can also help protect sensitive information without compromising the model accuracy.
 >
 > **[1:24](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=84)** NLP models require frequent updates to stay relevant.
 >
-> **[1:28](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=88)** Managed machine learning services can help you streamline version control, monitoring, and model retraining.
+> **[1:28](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=88)** Managed machine learning services can help you streamline [[Version Control]], monitoring, and model retraining.
 >
-> **[1:35](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=95)** For real-time applications, ensure that your cloud infrastructure supports autoscaling to meet demand while maintaining responsiveness.
+> **[1:35](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=95)** For [[Real-Time]] applications, ensure that your [[Cloud Infrastructure]] supports autoscaling to meet demand while maintaining responsiveness.
 >
 > **[1:45](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=105)** Cloud providers offer pre-trained language models and NLP APIs, which save time and resources by providing out of the box solutions.
 >
 > **[1:55](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=115)** This accelerates your time to market and reduces costs, making it easier to embed NLP into your applications.
 >
-> **[2:03](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=123)** A strong cloud strategy for NLP requires high performance compute and memory, data security, scalability, and access to pre-trained models.
+> **[2:03](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=123)** A strong cloud strategy for NLP requires high performance compute and memory, data security, [[Scalability]], and access to pre-trained models.
 >
 > **[2:14](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-nlp?u=76281980&t=134)** By setting up a well optimized NLP cloud infrastructure, you can deliver robust language processing applications that drive engagement and user satisfaction.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (10), cloud (4), data (3), ai (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cloud Strategy]] (2), [[Data Security]] (2), [[Cloud Infrastructure]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** nlp (10), aws (1), api (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
@@ -783,16 +763,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980&t=0)** - In today's rapidly evolving tech landscape, staying relevant requires embracing industry disruptions and committing to continuous transformation.
 >
-> **[0:10](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980&t=10)** Cloud computing provides the agility and flexibility needed to navigate this constant change, and creating a robust cloud strategy is the first step to it.
+> **[0:10](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980&t=10)** [[Cloud Computing]] provides the agility and flexibility needed to navigate this constant change, and creating a robust [[Cloud Strategy]] is the first step to it.
 >
-> **[0:22](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980&t=22)** As next steps, I encourage you to take my [[Building a Generative AI Tech Strategy]] course on LinkedIn Learning for coaching on how to build your cloud strategy.
+> **[0:22](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980&t=22)** As next steps, I encourage you to take my [[Building a [[Generative AI]] Tech Strategy]] course on [[LinkedIn]] Learning for coaching on how to build your cloud strategy.
 >
 > **[0:32](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980&t=32)** You can always reach out to me on LinkedIn.
 >
@@ -800,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[LinkedIn]] (2), next (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Cloud Strategy]] (2), [[LinkedIn]] (2), [[Cloud Computing]] (1), [[Generative AI]] (1)
 > **Speakers:** - in (1)
 
 

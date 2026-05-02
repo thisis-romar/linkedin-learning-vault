@@ -78,12 +78,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create smart agents with agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/create-smart-agents-with-agentic-ai?u=76281980)
+#### [Create smart agents with agentic AI](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/create-smart-agents-with-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/create-smart-agents-with-agentic-ai?u=76281980&t=0)** Agentic AI is all about creating smart AI agents that can collaborate.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/create-smart-agents-with-agentic-ai?u=76281980&t=0)** Agentic AI is all about creating smart [[AI Agents]] that can collaborate.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/create-smart-agents-with-agentic-ai?u=76281980&t=5)** In this course, you will see how easy it is to build agentic AI workflows using AutoGen Studio simple graphical interface.
 >
@@ -107,14 +106,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mvp (1)
 > **UI Navigation:** drag and drop (1)
 > **Prerequisites:** getting started (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/what-you-should-know?u=76281980&t=19)** Each module builds on the last, guiding you towards creating a complete workflow using skills and agents.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/what-you-should-know?u=76281980&t=25)** There's no need to be a developer or have any special ability like Python.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/what-you-should-know?u=76281980&t=25)** There's no need to be a developer or have any special ability like [[Python (Programming Language)|Python]].
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/what-you-should-know?u=76281980&t=30)** Anyone can jump right in.
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 
 
@@ -140,8 +138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agentic AI basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980)
+#### [Agentic AI basics](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,11 +148,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980&t=11)** And with AutoGen Studio, this powerful concept becomes a reality at your fingertips.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980&t=17)** At the heart of agentic AI, we have AI agents.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980&t=17)** At the heart of agentic AI, we have [[AI Agents]].
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980&t=21)** But what exactly is an AI agent?
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980&t=25)** Think of an agent as a digital helper that acts for you using advanced AI models like GPT-4 and others.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980&t=25)** Think of an agent as a digital helper that acts for you using advanced AI models like [[GPT-4]] and others.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980&t=33)** Each agent has a unique personality, whether it's friendly, analytical, or efficient, that shapes how it interacts and solves problems.
 >
@@ -211,14 +208,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[GPT-4]] (4), [[Automation]] (1), power (1)
+> **Frameworks & Libraries:** [[GPT-4]] (4), [[AI Agents]] (3)
 > **Env Vars:** gpt (5), ceo (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Versions:** 3.5 (1)
 > **Analogies:** imagine (1)
 
-#### AutoGen Studio 101
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/autogen-studio-101?u=76281980)
+#### [AutoGen Studio 101](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/autogen-studio-101?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/autogen-studio-101?u=76281980&t=20)** It is designed to create advanced AI workflows by having different agents working together.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/autogen-studio-101?u=76281980&t=28)** Think of it as a toolkit, like a Lego, that lets you build and manage AI agents.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/autogen-studio-101?u=76281980&t=28)** Think of it as a toolkit, like a Lego, that lets you build and manage [[AI Agents]].
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/autogen-studio-101?u=76281980&t=35)** These agents can interact and collaborate much like a team of experts working on a project.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/autogen-studio-101?u=76281980&t=61)** Now let's talk about AutoGen Studio, the visual tool that makes working with AutoGen accessible to everybody.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/autogen-studio-101?u=76281980&t=69)** AutoGen Studio, or AGS, is a low-code visual interface for rapidly prototyping agentic AI workflows.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/autogen-studio-101?u=76281980&t=69)** AutoGen Studio, or AGS, is a low-code visual interface for rapidly [[Prototyping]] agentic AI workflows.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/autogen-studio-101?u=76281980&t=77)** It is an excellent way to get into agentic AI, either if you are just starting out or you want to test the concept.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (2), open-source (1), [[Programming]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Prototyping]] (1)
 > **Env Vars:** ags (8)
 > **Prerequisites:** set up (3), install (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -292,8 +288,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 
-#### Getting ready to set up AutoGen Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980)
+#### [Getting ready to set up AutoGen Studio](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,11 +300,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=10)** The first thing to do is to explore the main AutoGen website.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=14)** Here in microsoft.[github.io/autogen](https://github.io/autogen), we can go and check the documentation.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=14)** Here in [[Microsoft]].[[[GitHub]].io/autogen](https://github.io/autogen), we can go and check the documentation.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=22)** First, we can check on the Getting Started, the installation guide, and we can see that this is mostly for AutoGen, not AutoGen Studio.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=32)** One important note is that AutoGen requires Python version 3.8. While this is true for AutoGen, it's not the same for AutoGen Studio.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=32)** One important note is that AutoGen requires [[Python (Programming Language)|Python]] version 3.8. While this is true for AutoGen, it's not the same for AutoGen Studio.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=42)** So one of the first things to do is to install Conda.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=79)** So I recommend that you go either to openai.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=83)** com and you go to Products, API login; or you can go directly to platform.[openai.com/api-keys](https://openai.com/api-keys), which is way easier.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=83)** com and you go to [[Microsoft Products|Products]], API login; or you can go directly to platform.[openai.com/api-keys](https://openai.com/api-keys), which is way easier.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/getting-ready-to-set-up-autogen-studio?u=76281980&t=96)** And here once you have logged in and you have an account, of course, this is a paid service, so bear that in mind, you can click on Create a secret key.
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (3), api (2), [[Microsoft]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft]] (1), [[GitHub]] (1), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** install (3), getting started (2), set up (1)
 > **CLI Commands:** python (3), find (1)
 > **Versions:** version 3 (2), 3.10 (1), python 3 (1)
@@ -352,8 +347,7 @@ created: 2026-05-02
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 
-#### A walkthrough to AutoGen Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/a-walkthrough-to-autogen-studio?u=76281980)
+#### [A walkthrough to AutoGen Studio](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/a-walkthrough-to-autogen-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,7 +385,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/a-walkthrough-to-autogen-studio?u=76281980&t=72)** Then we have the models.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/a-walkthrough-to-autogen-studio?u=76281980&t=73)** This is where we can configure the models that your agents will use, such as GPT-4, GPT-3.5, GPT-4o, etc., and the agents themselves.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/a-walkthrough-to-autogen-studio?u=76281980&t=73)** This is where we can configure the models that your agents will use, such as [[GPT-4]], GPT-3.5, GPT-4o, etc., and the agents themselves.
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/a-walkthrough-to-autogen-studio?u=76281980&t=83)** Here is where we can combine the skills and the models and create the agents, and we can assign them specific roles and like assisting with tasks or acting as a user proxy or managing a chat.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1), data (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (1)
 > **Env Vars:** gpt (3), ags (1)
 > **Cross-References:** in the next (2), as we saw (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -425,8 +419,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to build your first AI agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980)
+#### [How to build your first AI agent](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,9 +431,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=19)** Before we dive into the creation steps, let's quickly break down the key components that make up an AI agent in AutoGen Studio.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=26)** Skills. These are the Python functions that define what an agent can do.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=26)** Skills. These are the [[Python (Programming Language)|Python]] functions that define what an agent can do.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=32)** For example, skill may generate text, fetch data, or even perform calculations.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=32)** For example, skill may generate text, [[Fetch]] data, or even perform calculations.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=37)** It's important to craft skills that are reusable and flexible for different tasks.
 >
@@ -448,7 +441,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=44)** The second key component is the large language model that the agent will use to interpret and generate text or other media.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=50)** This can be an OpenAI model like GPT-4 or a locally hosted model.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=50)** This can be an OpenAI model like [[GPT-4]] or a locally hosted model.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980&t=55)** Then agents.
 >
@@ -518,15 +511,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), ai (3), data (2), application (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Fetch]] (1), [[GPT-4]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** gpt (2)
 > **Cross-References:** next video (1)
 > **Prerequisites:** setup (1)
 
-#### Creating and configuring your first AI agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-and-configuring-your-first-ai-agent?u=76281980)
+#### [Creating and configuring your first AI agent](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-and-configuring-your-first-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,7 +636,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), next (1), llm (1)
 > **UI Navigation:** go to (4), click on (4)
 > **Env Vars:** gpt (2), llm (1)
 > **CLI Commands:** make (2)
@@ -657,8 +648,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agentic workflows in AutoGen Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-workflows-in-autogen-studio?u=76281980)
+#### [Agentic workflows in AutoGen Studio](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-workflows-in-autogen-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,12 +716,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6)
 > **Analogies:** for example (3), think of it like (1)
 > **Env Vars:** ags (1)
 
-#### Creating an agentic workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-agentic-workflow?u=76281980)
+#### [Creating an agentic workflow](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-agentic-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,7 +817,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-agentic-workflow?u=76281980&t=232)** You like responding where the words rhyme together.
 >
-> **[3:55](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-agentic-workflow?u=76281980&t=235)** And the rest I will leave it by default and I'm not going to change any of the advanced options and click on Create Agent.
+> **[3:55](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-agentic-workflow?u=76281980&t=235)** And the [[Representational State Transfer (REST)|rest]] I will leave it by default and I'm not going to change any of the advanced options and click on Create Agent.
 >
 > **[4:05](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-agentic-workflow?u=76281980&t=245)** Once it's done, I can assign the model.
 >
@@ -891,7 +879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (3), [[Representational State Transfer (REST)|Rest]] (3), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3)
 > **UI Navigation:** click on (7), go to (4), select the (3)
 > **Env Vars:** llm (3), gpt (1)
 > **CLI Commands:** make (3)
@@ -905,8 +893,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools and function calling
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980)
+#### [Tools and function calling](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -970,7 +957,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980&t=193)** You don't have to manage it manually.
 >
-> **[3:16](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980&t=196)** The LLM handles the decision-making and all the inter-process things for you.
+> **[3:16](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980&t=196)** The LLM handles the [[Decision-Making]] and all the inter-process things for you.
 >
 > **[3:23](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980&t=203)** All the complication is going away, just as I have to add the skill to the agent, and that's it.
 >
@@ -982,7 +969,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980&t=231)** AGS uses the term "skills" to refer to the tools or functions that agents use to complete their tasks.
 >
-> **[3:57](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980&t=237)** These skills are just Python functions that can do anything from basic calculation to complex operations, like retrieving data from external APIs.
+> **[3:57](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980&t=237)** These skills are just [[Python (Programming Language)|Python]] functions that can do anything from basic calculation to complex operations, like retrieving data from external APIs.
 >
 > **[4:07](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980&t=247)** We create them from the Build tab on the Skills section, and there we can add them.
 >
@@ -996,7 +983,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (12), data (3), next (3), api (2), application (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** llm (12), ags (3), api (2)
 > **Definitions:** means that (1), known as (1), stands for (1)
 > **Analogies:** for example (2)
@@ -1004,8 +991,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 
-#### Creating a skill
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-a-skill?u=76281980)
+#### [Creating a skill](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-a-skill?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1017,11 +1003,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-a-skill?u=76281980&t=15)** Here we have two which are default and to create one on the top right side, we have new skill which we have some example here.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-a-skill?u=76281980&t=25)** So if we copy it and we go, for example, you need to know how to go to ChatGPT and we can simply ask it, make me skill that returns a date in UTC.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-a-skill?u=76281980&t=25)** So if we copy it and we go, for example, you need to know how to go to [[ChatGPT]] and we can simply ask it, make me skill that returns a date in UTC.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-a-skill?u=76281980&t=39)** Make a skill that returns in UTC format.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-a-skill?u=76281980&t=53)** This is a Python.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-a-skill?u=76281980&t=53)** This is a [[Python (Programming Language)|Python]].
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-a-skill?u=76281980&t=57)** It's going to write properly function as the example provided.
 >
@@ -1071,7 +1057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Python (Programming Language)|Python]] (1), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** get_utc_date (2), get_thai_menu (1)
 > **Env Vars:** utc (3)
@@ -1079,8 +1065,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 
-#### Adding tools to agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/adding-tools-to-agents?u=76281980)
+#### [Adding tools to agents](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/adding-tools-to-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,7 +1085,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/adding-tools-to-agents?u=76281980&t=44)** Yes, it works the same way with agents.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/adding-tools-to-agents?u=76281980&t=46)** If you want an agent to fetch data or generate an image, you assign them the right skill.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/adding-tools-to-agents?u=76281980&t=46)** If you want an agent to [[Fetch]] data or generate an image, you assign them the right skill.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/adding-tools-to-agents?u=76281980&t=52)** Here is how to do that.
 >
@@ -1204,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Analogies:** for example (5), just like (2), imagine (2), think of it like (1), similar to (1)
 > **Code Identifiers:** get_utc_date (2), get_thai_menu (2), get_thai_restaurant_menu (1)
 > **UI Navigation:** go to (4), click on (1)
@@ -1218,8 +1203,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a useful agentic workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980)
+#### [Creating a useful agentic workflow](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1245,7 +1229,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=48)** One thing to note is that we will need to configure it, so we will need to configure a secret without changing the name because this is what is being used in the code.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=59)** And we have to put here our OpenAI key so this skill can use DALL-E 3 to generate the images. All right.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=59)** And we have to put here our OpenAI key so this skill can use [[DALL-E]] 3 to generate the images. All right.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=68)** With that done, we can check the model we will use.
 >
@@ -1263,7 +1247,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=98)** We can even make it a bit more creative.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=102)** Tokens and everything is good.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=102)** [[Tokens]] and everything is good.
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980&t=104)** We can put local, even otherwise it will decide and create the agent.
 >
@@ -1329,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[DALL-E]] (1), [[Tokens]] (1), llm (1)
+> **Frameworks & Libraries:** [[DALL-E]] (1), [[Tokens]] (1)
 > **UI Navigation:** go to (6), click on (3)
 > **Env Vars:** pdf (3), gpt (3), dall (1), llm (1)
 > **Cross-References:** go back to (1), in the next (1), next video (1)
@@ -1337,8 +1321,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
 
-#### Review of the agentic workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/review-of-the-agentic-workflow?u=76281980)
+#### [Review of the agentic workflow](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/review-of-the-agentic-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1424,14 +1407,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** pdf (5), gpt (2)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Debugging your agentic workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/debugging-our-agentic-workflow?u=76281980)
+#### [Debugging your agentic workflow](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/debugging-our-agentic-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1471,7 +1452,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/debugging-our-agentic-workflow?u=76281980&t=83)** So we can see the end result here.
 >
-> **[1:26](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/debugging-our-agentic-workflow?u=76281980&t=86)** The two images for the pages, some Python files, and the PDF story, which if we open, all right, the curious caterpillar and the friendly ladybug. All right.
+> **[1:26](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/debugging-our-agentic-workflow?u=76281980&t=86)** The two images for the pages, some [[Python (Programming Language)|Python]] files, and the PDF story, which if we open, all right, the curious caterpillar and the friendly ladybug. All right.
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/debugging-our-agentic-workflow?u=76281980&t=101)** That's pretty cool. We could save it.
 >
@@ -1511,7 +1492,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/debugging-our-agentic-workflow?u=76281980&t=185)** Here it was calling the tools, the Book_Creating_assistant, and the code execution which were executed by the, yes, surprise, the user proxy.
 >
-> **[3:14](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/debugging-our-agentic-workflow?u=76281980&t=194)** And then the tokens used, which in this case were 10,743.
+> **[3:14](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/debugging-our-agentic-workflow?u=76281980&t=194)** And then the [[Tokens]] used, which in this case were 10,743.
 >
 > **[3:22](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/debugging-our-agentic-workflow?u=76281980&t=202)** Yes. Okay. So that was quite pretty, pretty good.
 >
@@ -1565,8 +1546,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build more with AutoGen
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/build-more-with-autogen?u=76281980)
+#### [Build more with AutoGen](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/build-more-with-autogen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1588,7 +1568,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/build-more-with-autogen?u=76281980&t=33)** I'm showing you on the screen where you can explore more resources.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/build-more-with-autogen?u=76281980&t=36)** AutoGen documentation, the GitHub repo.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/build-more-with-autogen?u=76281980&t=36)** AutoGen documentation, the [[GitHub]] repo.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/build-more-with-autogen?u=76281980&t=40)** You have learned how to build a children's book, but why stop there with your own minions -- I mean agents, you can build anything.
 >
@@ -1604,7 +1584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** go build (1)
 > **Tools:** github (1)

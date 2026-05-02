@@ -68,8 +68,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of developing a learning mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/the-importance-of-developing-a-learning-mindset?u=76281980)
+#### [The importance of developing a learning mindset](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/the-importance-of-developing-a-learning-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -77,7 +76,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/the-importance-of-developing-a-learning-mindset?u=76281980&t=7)** I'm going to help you develop a learning mindset, create a learning self-inventory, and understand why it's so important to know what you love to learn.
 >
-> **[0:17](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/the-importance-of-developing-a-learning-mindset?u=76281980&t=17)** And we'll end with strategies on how to keep growing as a learner and how to make it fun so you can keep on learning for the rest of your life.
+> **[0:17](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/the-importance-of-developing-a-learning-mindset?u=76281980&t=17)** And we'll end with strategies on how to keep growing as a learner and how to make it fun so you can keep on learning for the [[Representational State Transfer (REST)|rest]] of your life.
 >
 > **[0:27](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/the-importance-of-developing-a-learning-mindset?u=76281980&t=27)** I'm Gary Bolles.
 >
@@ -100,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tap into your learning mindset, skill set, and toolset
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980)
+#### [Tap into your learning mindset, skill set, and toolset](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,11 +117,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980&t=32)** It's by having three things, a learning skill set, a learning tool set, and a learning mindset.
 >
-> **[0:40](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980&t=40)** I talk about the learning skillset in my course, "Learning With Agility in the Age of AI" here on LinkedIn Learning.
+> **[0:40](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980&t=40)** I talk about the learning skillset in my course, "Learning With Agility in the Age of AI" here on [[LinkedIn]] Learning.
 >
-> **[0:47](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980&t=47)** It's all about developing the specific skills you need to be an agile learner, but you also need a learning toolset, a set of techniques and technologies that can supercharge your process for developing a learning mindset.
+> **[0:47](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980&t=47)** It's all about developing the specific skills you need to be an [[Agile Development|agile]] learner, but you also need a learning toolset, a set of techniques and technologies that can supercharge your process for developing a learning mindset.
 >
-> **[1:02](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980&t=62)** You happen to be living at a time when some truly amazing technologies have appeared to help you as you learn and work, technologies that are often grouped into the category of AI, artificial intelligence, and generative AI.
+> **[1:02](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980&t=62)** You happen to be living at a time when some truly amazing technologies have appeared to help you as you learn and work, technologies that are often grouped into the category of AI, [[Artificial Intelligence (AI)|artificial intelligence]], and [[Generative AI]].
 >
 > **[1:16](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980&t=76)** So you have an opportunity to use a toolset that wasn't even available to people in earlier times.
 >
@@ -141,11 +139,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), next (1), [[LinkedIn]] (1), [[Agile Development|Agile]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Agile Development|Agile]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
 > **Speakers:** - our (1)
 
-#### Yesterday's learning vs. tomorrow's
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/yesterday-s-learning-vs-tomorrow-s?u=76281980)
+#### [Yesterday's learning vs. tomorrow's](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/yesterday-s-learning-vs-tomorrow-s?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,14 +192,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **CLI Commands:** make (2), rails (1)
 > **Env Vars:** ted (1)
 > **Analogies:** for example (1)
 > **Speakers:** - many (1)
 
-#### Learning vs. education
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-vs-education?u=76281980)
+#### [Learning vs. education](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-vs-education?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-vs-education?u=76281980&t=83)** So your know skills and your flex skills.
 >
-> **[1:27](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-vs-education?u=76281980&t=87)** Now, you might have heard these called hard skills and soft skills, but there's nothing soft about flex skills.
+> **[1:27](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-vs-education?u=76281980&t=87)** Now, you might have heard these called hard skills and [[Soft Skills]], but there's nothing soft about flex skills.
 >
 > **[1:35](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-vs-education?u=76281980&t=95)** They're so important, they're sometimes called durable skills because they can be useful throughout your entire life.
 >
@@ -258,7 +253,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-vs-education?u=76281980&t=170)** Remember that we also have a tool set today that previous generations could only imagine.
 >
-> **[2:55](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-vs-education?u=76281980&t=175)** Artificial intelligence software can help us with both kinds of learning.
+> **[2:55](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-vs-education?u=76281980&t=175)** [[Artificial Intelligence (AI)|Artificial intelligence]] software can help us with both kinds of learning.
 >
 > **[3:00](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-vs-education?u=76281980&t=180)** First, with know skills, our brains benefit tremendously by asking good questions, by having difficult concepts repeated or reframed, and from being quizzed to make sure we remember.
 >
@@ -274,14 +269,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Soft Skills]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Conduct a self-inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/conduct-a-self-inventory?u=76281980)
+#### [Conduct a self-inventory](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/conduct-a-self-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/conduct-a-self-inventory?u=76281980&t=57)** The first is we forget what we know.
 >
-> **[1:01](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/conduct-a-self-inventory?u=76281980&t=61)** Sure there was a time when you didn't know how to roller skate or to use pivot tables in a spreadsheet, but it's easy to forget what that was like when you didn't know how to do those things.
+> **[1:01](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/conduct-a-self-inventory?u=76281980&t=61)** Sure there was a time when you didn't know how to roller skate or to use [[Pivot Tables]] in a spreadsheet, but it's easy to forget what that was like when you didn't know how to do those things.
 >
 > **[1:12](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/conduct-a-self-inventory?u=76281980&t=72)** It's also easy to forget that you actually learned that skill.
 >
@@ -347,14 +341,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **CLI Commands:** make (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - one (1)
 
-#### Cultivate a growth mindset to learn and adapt
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/cultivate-a-growth-mindset-to-learn-and-adapt?u=76281980)
+#### [Cultivate a growth mindset to learn and adapt](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/cultivate-a-growth-mindset-to-learn-and-adapt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -414,7 +407,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/cultivate-a-growth-mindset-to-learn-and-adapt?u=76281980&t=149)** But a fixed mindset doesn't help us to continually adapt in a world of constant change.
 >
-> **[2:35](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/cultivate-a-growth-mindset-to-learn-and-adapt?u=76281980&t=155)** If you really like the social element of working in an office with coworkers, and then, along came a global pandemic, a fixed mindset can make it very difficult to rapidly change.
+> **[2:35](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/cultivate-a-growth-mindset-to-learn-and-adapt?u=76281980&t=155)** If you really like the social element of working in an [[Microsoft Office|office]] with coworkers, and then, along came a global pandemic, a fixed mindset can make it very difficult to rapidly change.
 >
 > **[2:47](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/cultivate-a-growth-mindset-to-learn-and-adapt?u=76281980&t=167)** So as you've guessed, a learning mindset is an important part of a growth mindset.
 >
@@ -450,14 +443,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (2)
 > **Analogies:** just like (1)
 > **Speakers:** - think (1)
 
-#### Tune into how your brain learns
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tune-into-how-your-brain-learns?u=76281980)
+#### [Tune into how your brain learns](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tune-into-how-your-brain-learns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -557,7 +549,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (2), game (1), ai (1), next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)
 
@@ -566,8 +557,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connect to your motivation to learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/connect-to-your-motivation-to-learn?u=76281980)
+#### [Connect to your motivation to learn](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/connect-to-your-motivation-to-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,7 +597,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/connect-to-your-motivation-to-learn?u=76281980&t=125)** But proactive learning encourages you to go find something you want to learn before you even need it.
 >
-> **[2:12](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/connect-to-your-motivation-to-learn?u=76281980&t=132)** Think of this as banking your learning.
+> **[2:12](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/connect-to-your-motivation-to-learn?u=76281980&t=132)** Think of this as [[Banking]] your learning.
 >
 > **[2:15](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/connect-to-your-motivation-to-learn?u=76281980&t=135)** You develop a skill or you gather information, and that could be very helpful to you in the future.
 >
@@ -649,14 +639,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), next (1), career (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - let (1)
 
-#### Power up your learning for work
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/power-up-your-learning-for-work?u=76281980)
+#### [Power up your learning for work](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/power-up-your-learning-for-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,15 +727,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), ai (2), next (1), management (1)
 > **CLI Commands:** make (2), find (2)
 > **Prerequisites:** you'll need (1), required to (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Learn for yourself
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learn-for-yourself?u=76281980)
+#### [Learn for yourself](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learn-for-yourself?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -826,13 +813,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (6), ai (5), next (3)
 > **CLI Commands:** make (7), find (5)
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
 
-#### Learning online vs. learning in-person
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learn-online-learning-in-person?u=76281980)
+#### [Learning online vs. learning in-person](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learn-online-learning-in-person?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,14 +893,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), generic (1), next (1)
 > **Analogies:** for example (1), it's like (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - we (1)
 
-#### Learning as a group sport
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-as-a-group-sport?u=76281980)
+#### [Learning as a group sport](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/learning-as-a-group-sport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +970,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), next (1), teams (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** don't forget (1)
@@ -998,8 +980,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980)
+#### [Your learning journey](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1017,7 +998,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=47)** So why is it important to continue that momentum?
 >
-> **[0:51](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=51)** You may remember from your high school science class that the law of an inertia means that a body at rest tends to stay at rest.
+> **[0:51](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=51)** You may remember from your high school science class that the law of an inertia means that a body at [[Representational State Transfer (REST)|rest]] tends to stay at rest.
 >
 > **[0:59](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=59)** But we often forget the other property of inertia.
 >
@@ -1025,13 +1006,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=68)** Think of your curiosity catalog as a living document.
 >
-> **[1:12](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=72)** Leave it on your refrigerator, or post it in your office, or have it in a browser tab that you can regularly update and keep adding to it.
+> **[1:12](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=72)** Leave it on your refrigerator, or post it in your [[Microsoft Office|office]], or have it in a browser tab that you can regularly update and keep adding to it.
 >
 > **[1:21](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=81)** And be sure to prioritize that list and keep setting learning goals so you can cross learning goals off the list once you've accomplished them.
 >
 > **[1:30](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=90)** Now you can take all that you've learned about yourself from your learning inventory and use that as the motivation to nudge yourself toward taking action.
 >
-> **[1:41](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=101)** If you need some help, take your learning inventory and use it in my other course on learning agility to develop more of your learning skills.
+> **[1:41](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=101)** If you need some help, take your learning inventory and use it in my other course on [[Learning Agility]] to develop more of your learning skills.
 >
 > **[1:50](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980&t=110)** But if you're on fire now to jump into your learning process, then by all means, get started.
 >
@@ -1039,7 +1020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), ai (1), [[Microsoft Office|Office]] (1), [[Learning Agility]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Office|Office]] (1), [[Learning Agility]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - to (1)
 

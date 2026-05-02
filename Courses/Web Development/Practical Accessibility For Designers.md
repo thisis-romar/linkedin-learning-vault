@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gain a new perspective on accessibility in your designs
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/gain-a-new-perspective-on-accessibility-in-your-designs?u=76281980)
+#### [Gain a new perspective on accessibility in your designs](https://www.linkedin.com/learning/practical-accessibility-for-designers/gain-a-new-perspective-on-accessibility-in-your-designs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,20 +100,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [chimmy (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-you-should-know?u=76281980&t=0)** - [Instructor] You're going to need to know a few things before you can get into the Practical Accessibility for Designers course.
 >
-> **[0:07](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-you-should-know?u=76281980&t=7)** First, I assume a working knowledge of the basic design principles, as well as knowledge of design tools, for example, Figma.
+> **[0:07](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-you-should-know?u=76281980&t=7)** First, I assume a working knowledge of the basic design principles, as well as knowledge of design tools, for example, [[Figma (Software)|Figma]].
 >
-> **[0:17](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-you-should-know?u=76281980&t=17)** If you're not familiar with design you might want to brush up on an introduction to UX Foundations: Interaction Design, and if you want a little bit of training on Figma, you can go through Figma Essential Training: The Basics, both on LinkedIn.
+> **[0:17](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-you-should-know?u=76281980&t=17)** If you're not familiar with design you might want to brush up on an introduction to UX Foundations: Interaction Design, and if you want a little bit of training on Figma, you can go through Figma Essential Training: The Basics, both on [[LinkedIn]].
 >
 > **[0:34](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-you-should-know?u=76281980&t=34)** Just a heads up on the language that I use through the course.
 >
@@ -130,7 +127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), ux (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[LinkedIn]] (1)
 > **Tools:** figma (3)
 > **Analogies:** for example (1)
 > **Warnings:** heads up (1)
@@ -141,8 +138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why should you prioritize accessibility?
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/why-should-you-prioritize-accessibility?u=76281980)
+#### [Why should you prioritize accessibility?](https://www.linkedin.com/learning/practical-accessibility-for-designers/why-should-you-prioritize-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,15 +188,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), mobile application (1), next (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ada (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/defining-accessibility?u=76281980)
+#### [Defining accessibility](https://www.linkedin.com/learning/practical-accessibility-for-designers/defining-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,16 +226,15 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/practical-accessibility-for-designers/defining-accessibility?u=76281980&t=71)** Accessibility, of course, goes beyond the digital, but for this course, we will focus on user interfaces.
 >
-> **[1:17](https://www.linkedin.com/learning/practical-accessibility-for-designers/defining-accessibility?u=76281980&t=77)** There are many other resources on the internet for learning about accessibility outside of product design, including LinkedIn.
+> **[1:17](https://www.linkedin.com/learning/practical-accessibility-for-designers/defining-accessibility?u=76281980&t=77)** There are many other resources on the internet for learning about accessibility outside of [[Product Design]], including [[LinkedIn]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Product Design]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessibility standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/accessibility-standards?u=76281980)
+#### [Accessibility standards](https://www.linkedin.com/learning/practical-accessibility-for-designers/accessibility-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -295,7 +288,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/practical-accessibility-for-designers/accessibility-standards?u=76281980&t=163)** Things are structured a little bit differently.
 >
-> **[2:45](https://www.linkedin.com/learning/practical-accessibility-for-designers/accessibility-standards?u=76281980&t=165)** You have functional performance criteria, electronic content, hardware, software, and support documentation and scope.
+> **[2:45](https://www.linkedin.com/learning/practical-accessibility-for-designers/accessibility-standards?u=76281980&t=165)** You have functional performance criteria, electronic content, [[Hardware]], software, and support documentation and scope.
 >
 > **[2:54](https://www.linkedin.com/learning/practical-accessibility-for-designers/accessibility-standards?u=76281980&t=174)** All of the different elements that you need to deliver a digital product.
 >
@@ -313,7 +306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), web (2), hit (1), next (1), functional (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** wcag (6)
 > **Analogies:** for example (2), just like (1)
 > **Versions:** version 2 (1)
@@ -321,8 +314,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing web accessibility: Understanding the process
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-understanding-the-process?u=76281980)
+#### [Testing web accessibility: Understanding the process](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-understanding-the-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -388,7 +380,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1)
 > **Env Vars:** wcag (4), aaa (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **CLI Commands:** make (1)
@@ -397,8 +388,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing web accessibility: Using tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980)
+#### [Testing web accessibility: Using tools](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +426,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=91)** We can see that there are no errors.
 >
-> **[1:33](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=93)** There are few things that have been suggested as alerts but remember that not every element on your website is integral to the experience, so what is counted as an error is something that is essential to the user experience.
+> **[1:33](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=93)** There are few things that have been suggested as alerts but remember that not every element on your website is integral to the experience, so what is counted as an error is something that is essential to the [[User Experience (UX)|user experience]].
 >
 > **[1:50](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=110)** So this website passes on those things.
 >
@@ -444,7 +434,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=118)** So for a plugin or extension, they're usually available as part of your browser, or you have to install them as part of your browser.
 >
-> **[2:07](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=127)** I use Google Chrome.
+> **[2:07](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=127)** I use [[Google]] Chrome.
 >
 > **[2:08](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=128)** So I'm going to show you Google's Lighthouse, which comes with Chrome.
 >
@@ -470,7 +460,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=198)** Finally, we have some other plugins for design tools.
 >
-> **[3:22](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=202)** I use Figma, and we have Stark, which is a paid plugin, and Contrast, which is a free one.
+> **[3:22](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=202)** I use [[Figma (Software)|Figma]], and we have [[Stark (Accessibility Software)|Stark]], which is a paid plugin, and Contrast, which is a free one.
 >
 > **[3:30](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-using-tools?u=76281980&t=210)** These two things I've installed, because Contrast is one of the biggest things that a designer can influence, as far as accessibility is concerned.
 >
@@ -498,7 +488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Google]] (2), [[Stark (Accessibility Software)|Stark]] (2), [[User Experience (UX)|User experience]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Stark (Accessibility Software)|Stark]] (2), [[User Experience (UX)|User experience]] (1), [[Figma (Software)|Figma]] (1)
 > **Env Vars:** aim (3), aaa (2), url (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), navigate to (1)
@@ -507,8 +497,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Tools:** figma (1)
 
-#### Testing web accessibility: Human testers
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-human-testers?u=76281980)
+#### [Testing web accessibility: Human testers](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-human-testers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,7 +533,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-human-testers?u=76281980&t=91)** Diversify your team.
 >
-> **[1:34](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-human-testers?u=76281980&t=94)** If you hire disabled people, they will help you build digital products that are accessible.
+> **[1:34](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-human-testers?u=76281980&t=94)** If you hire disabled people, they will help you build digital [[Microsoft Products|products]] that are accessible.
 >
 > **[1:39](https://www.linkedin.com/learning/practical-accessibility-for-designers/testing-web-accessibility-human-testers?u=76281980&t=99)** Diversifying your team can ensure that perspectives, that you wouldn't otherwise have, are available in real time.
 >
@@ -566,8 +555,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How vision impairments affect access
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980)
+#### [How vision impairments affect access](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -599,9 +587,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980&t=100)** And color blindness refers to being unable to see the full spectrum of colors.
 >
-> **[1:47](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980&t=107)** We're going to look at what web accessibility needs there are for people with these vision impairments.
+> **[1:47](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980&t=107)** We're going to look at what [[Web Accessibility]] needs there are for people with these vision impairments.
 >
-> **[1:54](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980&t=114)** They cover navigation, how people go through website, text and typography, the content or information, the contrast of elements on the website, forms, the use of images, the use of color, and the use of UX copy.
+> **[1:54](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980&t=114)** They cover navigation, how people go through website, text and [[Typography]], the content or information, the contrast of elements on the website, [[Forms]], the use of images, the use of color, and the use of UX copy.
 >
 > **[2:12](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980&t=132)** Learning how to tackle these various aspects of your website is a really important part of making your website accessible.
 >
@@ -611,15 +599,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Web Accessibility]] (1), [[Typography]] (1), [[Forms]] (1), ux (1), web (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (1), [[Typography]] (1), [[Forms]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** wcag (1)
 > **Versions:** 2.2 (1)
 > **Speakers:** - [host] (1)
 
-#### Creating accessible navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/creating-accessible-navigation?u=76281980)
+#### [Creating accessible navigation](https://www.linkedin.com/learning/practical-accessibility-for-designers/creating-accessible-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,7 +638,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/practical-accessibility-for-designers/creating-accessible-navigation?u=76281980&t=76)** eCommerce websites are probably one of few exceptions to this because they have to show everything that's available in the shop via navigation.
 >
-> **[1:26](https://www.linkedin.com/learning/practical-accessibility-for-designers/creating-accessible-navigation?u=76281980&t=86)** What does this look like in Figma?
+> **[1:26](https://www.linkedin.com/learning/practical-accessibility-for-designers/creating-accessible-navigation?u=76281980&t=86)** What does this look like in [[Figma (Software)|Figma]]?
 >
 > **[1:29](https://www.linkedin.com/learning/practical-accessibility-for-designers/creating-accessible-navigation?u=76281980&t=89)** Here's a navigation, like you might know, at the top.
 >
@@ -671,7 +658,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/practical-accessibility-for-designers/creating-accessible-navigation?u=76281980&t=143)** This is what going into the sub-nav looks like.
 >
-> **[2:27](https://www.linkedin.com/learning/practical-accessibility-for-designers/creating-accessible-navigation?u=76281980&t=147)** So someone would've hit enter on products in this example to see the list of things grouped within the products.
+> **[2:27](https://www.linkedin.com/learning/practical-accessibility-for-designers/creating-accessible-navigation?u=76281980&t=147)** So someone would've hit enter on [[Microsoft Products|products]] in this example to see the list of things grouped within the products.
 >
 > **[2:36](https://www.linkedin.com/learning/practical-accessibility-for-designers/creating-accessible-navigation?u=76281980&t=156)** The inclusive design is highlighted when someone hovers or clicks so that they know where they are if they don't have a mouse.
 >
@@ -725,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (2), [[Microsoft Products|Products]] (2), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (1), means that (1)
@@ -734,8 +721,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Text and typography for a range of vision needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/text-and-typography-for-a-range-of-vision-needs?u=76281980)
+#### [Text and typography for a range of vision needs](https://www.linkedin.com/learning/practical-accessibility-for-designers/text-and-typography-for-a-range-of-vision-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,7 +731,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/practical-accessibility-for-designers/text-and-typography-for-a-range-of-vision-needs?u=76281980&t=12)** So it's pretty important that they get access to the information and are able to complete their tasks.
 >
-> **[0:19](https://www.linkedin.com/learning/practical-accessibility-for-designers/text-and-typography-for-a-range-of-vision-needs?u=76281980&t=19)** This is why it's critical to ensure that your text and typography are accessible to people with visual impairments.
+> **[0:19](https://www.linkedin.com/learning/practical-accessibility-for-designers/text-and-typography-for-a-range-of-vision-needs?u=76281980&t=19)** This is why it's critical to ensure that your text and [[Typography]] are accessible to people with visual impairments.
 >
 > **[0:28](https://www.linkedin.com/learning/practical-accessibility-for-designers/text-and-typography-for-a-range-of-vision-needs?u=76281980&t=28)** What makes text accessible?
 >
@@ -839,7 +825,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/practical-accessibility-for-designers/text-and-typography-for-a-range-of-vision-needs?u=76281980&t=292)** I know some designers justify their text because symmetry is so pleasing.
 >
-> **[4:57](https://www.linkedin.com/learning/practical-accessibility-for-designers/text-and-typography-for-a-range-of-vision-needs?u=76281980&t=297)** However, the additional white space makes it harder to figure out where one word or sentence ends and the next begins.
+> **[4:57](https://www.linkedin.com/learning/practical-accessibility-for-designers/text-and-typography-for-a-range-of-vision-needs?u=76281980&t=297)** However, the additional white space makes it harder to figure out where one [[Microsoft Word|word]] or sentence ends and the next begins.
 >
 > **[5:08](https://www.linkedin.com/learning/practical-accessibility-for-designers/text-and-typography-for-a-range-of-vision-needs?u=76281980&t=308)** Here's what that looks like.
 >
@@ -901,7 +887,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (2), next (2), ux (2), [[Microsoft Word|Word]] (1), product (1)
+> **Frameworks & Libraries:** [[Typography]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** refers to (1), is an  (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.25 (1), 1.5 (1)
@@ -910,8 +896,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Best Practices:** it's best to (1)
 
-#### How contrast affects accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-contrast-affects-accessibility?u=76281980)
+#### [How contrast affects accessibility](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-contrast-affects-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,7 +974,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-contrast-affects-accessibility?u=76281980&t=208)** Because, if my design doesn't make sense without color it doesn't meet contrast standards.
 >
-> **[3:35](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-contrast-affects-accessibility?u=76281980&t=215)** While I'm doing the design, I have my contrast plugin for Figma and my Colorblindly Simulator for images.
+> **[3:35](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-contrast-affects-accessibility?u=76281980&t=215)** While I'm doing the design, I have my contrast plugin for [[Figma (Software)|Figma]] and my Colorblindly Simulator for images.
 >
 > **[3:46](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-contrast-affects-accessibility?u=76281980&t=226)** If you make your text legible, but forget color contrast you will create an inaccessible experience for those with color vision deficiency, vision loss, or even just people using their devices in bright sunlight.
 >
@@ -1006,12 +991,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 
-#### Designing accessible forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/designing-accessible-forms?u=76281980)
+#### [Designing accessible forms](https://www.linkedin.com/learning/practical-accessibility-for-designers/designing-accessible-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-accessibility-for-designers/designing-accessible-forms?u=76281980&t=0)** - Forms.
+> **[0:00](https://www.linkedin.com/learning/practical-accessibility-for-designers/designing-accessible-forms?u=76281980&t=0)** - [[Forms]].
 >
 > **[0:02](https://www.linkedin.com/learning/practical-accessibility-for-designers/designing-accessible-forms?u=76281980&t=2)** Anyone with a website winds up creating them at some point, right?
 >
@@ -1121,15 +1105,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (5), next (2)
+> **Frameworks & Libraries:** [[Forms]] (5)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** ios (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - forms (1)
 
-#### Making images accessible for blind people
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980)
+#### [Making images accessible for blind people](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1157,7 +1140,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=88)** And there are examples of screen readers for all of the operating systems.
 >
-> **[1:32](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=92)** So there's voiceover for Mac OS, JAWS for Windows, and Speakup for Linux.
+> **[1:32](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=92)** So there's voiceover for Mac OS, JAWS for [[Windows]], and Speakup for [[Linux]].
 >
 > **[1:40](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=100)** How does this work?
 >
@@ -1175,7 +1158,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=173)** You need to use alt text if an image is important for the full experience or understanding of your website.
 >
-> **[3:02](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=182)** The images that need alt text are part of the storytelling and without them, some of that experience is lost.
+> **[3:02](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=182)** The images that need alt text are part of the [[Storytelling]] and without them, some of that experience is lost.
 >
 > **[3:10](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=190)** If an image is merely decorative and doesn't add anything to a page other than aesthetics then it's okay to omit the alt text.
 >
@@ -1237,11 +1220,11 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=424)** And where you document your alt text is a conversation with your team.
 >
-> **[7:09](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=429)** I use Figma for my annotations in general and since I don't think that accessibility is separate or a special kind of annotation, that's exactly where I leave it.
+> **[7:09](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=429)** I use [[Figma (Software)|Figma]] for my annotations in general and since I don't think that accessibility is separate or a special kind of annotation, that's exactly where I leave it.
 >
 > **[7:20](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=440)** However, you can choose from many other options as long as your developers and testers also agree.
 >
-> **[7:28](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=448)** You can use your design tool, JIRA, Confluence, Zeplin, a Microsoft or Google doc, MIRA, whatever works for you.
+> **[7:28](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=448)** You can use your design tool, [[Jira]], [[Confluence]], Zeplin, a [[Microsoft]] or [[Google]] doc, MIRA, whatever works for you.
 >
 > **[7:38](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-images-accessible-for-blind-people?u=76281980&t=458)** If you want to go the extra mile, then you can record voiceover audio for screen readers.
 >
@@ -1264,8 +1247,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** go back to (1)
 
-#### How to treat colours for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-to-treat-colours-for-accessibility?u=76281980)
+#### [How to treat colours for accessibility](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-to-treat-colours-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1325,7 +1307,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-to-treat-colours-for-accessibility?u=76281980&t=169)** If you have something like graphs or other kinds of visual UI elements, patterns help support the colors.
 >
-> **[2:57](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-to-treat-colours-for-accessibility?u=76281980&t=177)** Here's an example from the project management app Trello.
+> **[2:57](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-to-treat-colours-for-accessibility?u=76281980&t=177)** Here's an example from the project management app [[Trello]].
 >
 > **[3:02](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-to-treat-colours-for-accessibility?u=76281980&t=182)** I've added three different labels to represent the status of each card.
 >
@@ -1339,16 +1321,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), management (1), [[Trello]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Trello]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Making UX copy accessible for blind people
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-ux-copy-accessible-for-blind-people?u=76281980)
+#### [Making UX copy accessible for blind people](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-ux-copy-accessible-for-blind-people?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-ux-copy-accessible-for-blind-people?u=76281980&t=0)** - [Instructor] In many instances, in your typical brain is able to see a word correctly even if the letters are misspelled.
+> **[0:00](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-ux-copy-accessible-for-blind-people?u=76281980&t=0)** - [Instructor] In many instances, in your typical brain is able to see a [[Microsoft Word|word]] correctly even if the letters are misspelled.
 >
 > **[0:08](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-ux-copy-accessible-for-blind-people?u=76281980&t=8)** Let's look at a few examples.
 >
@@ -1392,7 +1373,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-ux-copy-accessible-for-blind-people?u=76281980&t=163)** That's another example.
 >
-> **[2:44](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-ux-copy-accessible-for-blind-people?u=76281980&t=164)** If I don't tell you what it means, then some of you might correctly interpret it as repetitive strain injury, or you might Google and get confused when you see the top answer, which is relative strength index, nothing to do with accessibility and therefore quite confusing in this context.
+> **[2:44](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-ux-copy-accessible-for-blind-people?u=76281980&t=164)** If I don't tell you what it means, then some of you might correctly interpret it as repetitive strain injury, or you might [[Google]] and get confused when you see the top answer, which is relative strength index, nothing to do with accessibility and therefore quite confusing in this context.
 >
 > **[3:07](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-ux-copy-accessible-for-blind-people?u=76281980&t=187)** What you want to do if you must use acronyms is expand them out the first time you use them.
 >
@@ -1408,7 +1389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), ux (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Google]] (1)
 > **Env Vars:** nhs (5), tmi (2), rsi (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
@@ -1418,8 +1399,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is D/deafness?
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980)
+#### [What is D/deafness?](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,13 +1433,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980&t=90)** When you have moderate hearing loss, it's difficult to hear sounds like a doorbell or a ringing telephone.
 >
-> **[1:37](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980&t=97)** It's also tricky to follow spoken conversations or hear every word in a conversation.
+> **[1:37](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980&t=97)** It's also tricky to follow spoken conversations or hear every [[Microsoft Word|word]] in a conversation.
 >
 > **[1:44](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980&t=104)** Some people with mild or moderate hearing loss can use hearing aids to hear better.
 >
 > **[1:51](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980&t=111)** People with severe hearing loss will be unlikely to follow spoken conversations effectively without hearing aids or lip reading.
 >
-> **[2:00](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980&t=120)** However, hearing aids are not as effective for hearing in this instance as with the mild and moderate forms of hearing loss.
+> **[2:00](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980&t=120)** However, hearing aids are not as effective for hearing in this instance as with the mild and moderate [[Forms]] of hearing loss.
 >
 > **[2:09](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980&t=129)** Profound hearing loss makes it difficult to hear loud sounds like airplanes or fire alarms.
 >
@@ -1478,8 +1458,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subtitles, captions, and transcripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/subtitles-captions-and-transcripts?u=76281980)
+#### [Subtitles, captions, and transcripts](https://www.linkedin.com/learning/practical-accessibility-for-designers/subtitles-captions-and-transcripts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1587,7 +1566,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (2), product (1), business (1), web (1), next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** vlc (2), ceo (1), html5 (1)
 > **Analogies:** for example (2)
@@ -1595,8 +1573,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Live content
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980)
+#### [Live content](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1614,7 +1591,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=30)** Make your live event accessible by hiring a sign language interpreter and/or live captions Same is true for live events online streaming video.
 >
-> **[0:44](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=44)** People who are considering hosting these kind of events on Instagram or LinkedIn Live or streaming interviews or such other content on their websites must consider accommodations that create a good experience for people who can't hear.
+> **[0:44](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=44)** People who are considering hosting these kind of events on Instagram or [[LinkedIn]] Live or streaming interviews or such other content on their websites must consider accommodations that create a good experience for people who can't hear.
 >
 > **[1:01](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=61)** Sign language interpreters are fluent in American Sign Language or British Sign Language or one of the up to 150 sign languages that are available in the world.
 >
@@ -1628,7 +1605,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=97)** If you're just in charge of the live content on your website, then you can make sure that live captions will be available.
 >
-> **[1:43](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=103)** Live captions convert audio dialogue and sounds into text that appears in a video in real-time.
+> **[1:43](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=103)** Live captions convert audio dialogue and sounds into text that appears in a video in [[Real-Time]].
 >
 > **[1:50](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=110)** They're commonly provided for events and meetings that are streamed over the internet or in-person meetings.
 >
@@ -1642,7 +1619,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=136)** However, if you can't get access to professional live captions, then you should use automatically generated ones.
 >
-> **[2:23](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=143)** We can turn these on on platforms like Zoom and Google or browsers like Google Chrome.
+> **[2:23](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=143)** We can turn these on on platforms like [[Zoom]] and [[Google]] or browsers like Google Chrome.
 >
 > **[2:32](https://www.linkedin.com/learning/practical-accessibility-for-designers/live-content?u=76281980&t=152)** Let me show you how to turn on live captions in Chrome.
 >
@@ -1660,7 +1637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[LinkedIn]] (1), [[Automation]] (1), [[Real-Time]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[LinkedIn]] (1), [[Real-Time]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
@@ -1671,14 +1648,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making websites understandable
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980)
+#### [Making websites understandable](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980&t=0)** - [Narrator] If you can read this, maybe you have a neurotypical brain.
 >
-> **[0:05](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980&t=5)** Did you know that a neurotypical brain doesn't read every letter in a word or sentence?
+> **[0:05](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980&t=5)** Did you know that a neurotypical brain doesn't read every letter in a [[Microsoft Word|word]] or sentence?
 >
 > **[0:12](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980&t=12)** It predicts what's supposed to be there, and so can cope with small typos and jumbled up letters.
 >
@@ -1726,7 +1702,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980&t=147)** Information submission should be reversible, checked, and or confirmed.
 >
-> **[2:33](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980&t=153)** Feedback is such an essential aspect of user experience design.
+> **[2:33](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980&t=153)** Feedback is such an essential aspect of [[User Experience Design (UED)|user experience design]].
 >
 > **[2:37](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980&t=157)** When we ask users to submit something, for example, a form, they need to know that their submissions were successful and that there are no issues.
 >
@@ -1736,15 +1712,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), web (1), [[User Experience Design (UED)|User experience design]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[User Experience Design (UED)|User experience design]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** wcag (2), adhd (1)
 > **Definitions:** known as (2), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Making text readable
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-readable?u=76281980)
+#### [Making text readable](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-readable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1822,7 +1797,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-readable?u=76281980&t=252)** I'm also going to make this sentence less complicated,
 >
-> **[4:20](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-readable?u=76281980&t=260)** change the word "slowly" to "gently," and remove this extra bit of text here.
+> **[4:20](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-readable?u=76281980&t=260)** change the [[Microsoft Word|word]] "slowly" to "gently," and remove this extra bit of text here.
 >
 > **[4:31](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-readable?u=76281980&t=271)** You can see that the app is instinctively removing any of those errors as I correct it.
 >
@@ -1890,7 +1865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Microsoft Word|Word]] (2), next (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (6)
 > **Env Vars:** uri (1), adhd (1)
 > **Versions:** 59.24 (1), 6.08 (1)
@@ -1898,8 +1873,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making text legible
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-legible?u=76281980)
+#### [Making text legible](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-legible?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1921,7 +1895,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-legible?u=76281980&t=48)** Being unable to distinguish between those two letters means that my text is currently illegible.
 >
-> **[0:54](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-legible?u=76281980&t=54)** If that were part of a word or a sentence, you might not be able to make sense of it.
+> **[0:54](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-legible?u=76281980&t=54)** If that were part of a [[Microsoft Word|word]] or a sentence, you might not be able to make sense of it.
 >
 > **[1:01](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-text-legible?u=76281980&t=61)** Isn't that better?
 >
@@ -1988,8 +1962,7 @@ created: 2026-05-02
 > **Env Vars:** wcag (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making websites consistent and predictable
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-consistent-and-predictable?u=76281980)
+#### [Making websites consistent and predictable](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-consistent-and-predictable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2071,15 +2044,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), web (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** adhd (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Helping users avoid and correct mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/helping-users-avoid-and-correct-mistakes?u=76281980)
+#### [Helping users avoid and correct mistakes](https://www.linkedin.com/learning/practical-accessibility-for-designers/helping-users-avoid-and-correct-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2091,7 +2062,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/practical-accessibility-for-designers/helping-users-avoid-and-correct-mistakes?u=76281980&t=20)** It's wonderful to see a well crafted error message, but what can you do to help people avoid the error in the first place?
 >
-> **[0:28](https://www.linkedin.com/learning/practical-accessibility-for-designers/helping-users-avoid-and-correct-mistakes?u=76281980&t=28)** Let's see what this might look like in a Figma prototype.
+> **[0:28](https://www.linkedin.com/learning/practical-accessibility-for-designers/helping-users-avoid-and-correct-mistakes?u=76281980&t=28)** Let's see what this might look like in a [[Figma (Software)|Figma]] prototype.
 >
 > **[0:34](https://www.linkedin.com/learning/practical-accessibility-for-designers/helping-users-avoid-and-correct-mistakes?u=76281980&t=34)** We'll start with just a form.
 >
@@ -2186,8 +2157,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making websites operable
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-operable?u=76281980)
+#### [Making websites operable](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-operable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2223,14 +2193,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** wcag (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigating without a mouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/navigating-without-a-mouse?u=76281980)
+#### [Navigating without a mouse](https://www.linkedin.com/learning/practical-accessibility-for-designers/navigating-without-a-mouse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2282,7 +2250,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/practical-accessibility-for-designers/navigating-without-a-mouse?u=76281980&t=175)** That's how people get through your flow.
 >
-> **[2:59](https://www.linkedin.com/learning/practical-accessibility-for-designers/navigating-without-a-mouse?u=76281980&t=179)** And let's see what this looks like in Figma.
+> **[2:59](https://www.linkedin.com/learning/practical-accessibility-for-designers/navigating-without-a-mouse?u=76281980&t=179)** And let's see what this looks like in [[Figma (Software)|Figma]].
 >
 > **[3:02](https://www.linkedin.com/learning/practical-accessibility-for-designers/navigating-without-a-mouse?u=76281980&t=182)** Here's a mock up of the information that we had on the gov.uk website.
 >
@@ -2348,7 +2316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), web (1), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3)
 > **UI Navigation:** click on (4), in the tab (1)
 > **CLI Commands:** make (3)
 > **Tools:** figma (3)
@@ -2357,8 +2325,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), it's like (1)
 > **Cross-References:** earlier in (1)
 
-#### User control of content
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/user-control-of-content?u=76281980)
+#### [User control of content](https://www.linkedin.com/learning/practical-accessibility-for-designers/user-control-of-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2410,7 +2377,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/practical-accessibility-for-designers/user-control-of-content?u=76281980&t=162)** The recommendation is that people should be able to tell that the information has changed without tapping or engaging with it to investigate.
 >
-> **[2:51](https://www.linkedin.com/learning/practical-accessibility-for-designers/user-control-of-content?u=76281980&t=171)** Let's have a look at what this might mean in a Figma prototype.
+> **[2:51](https://www.linkedin.com/learning/practical-accessibility-for-designers/user-control-of-content?u=76281980&t=171)** Let's have a look at what this might mean in a [[Figma (Software)|Figma]] prototype.
 >
 > **[2:56](https://www.linkedin.com/learning/practical-accessibility-for-designers/user-control-of-content?u=76281980&t=176)** Here's a mock up of a online art store.
 >
@@ -2454,7 +2421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), game (1), hit (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
 > **Env Vars:** wcag (1)
@@ -2462,8 +2429,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tap or touch area
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/tap-or-touch-area?u=76281980)
+#### [Tap or touch area](https://www.linkedin.com/learning/practical-accessibility-for-designers/tap-or-touch-area?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2533,7 +2499,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/practical-accessibility-for-designers/tap-or-touch-area?u=76281980&t=218)** You can also make it so that if your website visitor clicks outside of your popup or popover, it's dismissed.
 >
-> **[3:45](https://www.linkedin.com/learning/practical-accessibility-for-designers/tap-or-touch-area?u=76281980&t=225)** Here's what that looks like in a Figma prototype.
+> **[3:45](https://www.linkedin.com/learning/practical-accessibility-for-designers/tap-or-touch-area?u=76281980&t=225)** Here's what that looks like in a [[Figma (Software)|Figma]] prototype.
 >
 > **[3:50](https://www.linkedin.com/learning/practical-accessibility-for-designers/tap-or-touch-area?u=76281980&t=230)** Here's a page with a link that we can click.
 >
@@ -2551,8 +2517,7 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adapting design to different devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/adapting-design-to-different-devices?u=76281980)
+#### [Adapting design to different devices](https://www.linkedin.com/learning/practical-accessibility-for-designers/adapting-design-to-different-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2654,7 +2619,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -2666,8 +2630,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary of course and exercises
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/summary-of-course-and-exercises?u=76281980)
+#### [Summary of course and exercises](https://www.linkedin.com/learning/practical-accessibility-for-designers/summary-of-course-and-exercises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2687,7 +2650,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), power (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** w3c (1), wcag (1)
 > **Documentation:** w3c (1)

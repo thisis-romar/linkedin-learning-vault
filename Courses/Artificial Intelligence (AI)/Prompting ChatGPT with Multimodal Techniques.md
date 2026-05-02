@@ -70,20 +70,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Level up your prompting with Multimodal features
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980)
+#### [Level up your prompting with Multimodal features](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980&t=0)** - The new GPT for Turbo isn't just about speed.
 >
-> **[0:03](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980&t=3)** There's a range of new abilities that let you combine voice commands, file uploads, AI Python development, and a whole lot more.
+> **[0:03](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980&t=3)** There's a range of new abilities that let you combine voice commands, file uploads, AI [[Python (Programming Language)|Python]] development, and a whole lot more.
 >
 > **[0:12](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980&t=12)** And that means that you should be thinking of prompting in a totally different way.
 >
 > **[0:16](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980&t=16)** I'm going to show you how each of these different features work, and then how to combine them to make prompting more powerful.
 >
-> **[0:21](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980&t=21)** We'll use the mobile voice feature as a great way to bounce ideas off of AI, and then go to the desktop and use web search to add context to prompts, upload Excel and other files to boost GPT focus, plus have GPT create visualizations, images, and output the results to PowerPoint and other format.
+> **[0:21](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980&t=21)** We'll use the mobile voice feature as a great way to bounce ideas off of AI, and then go to the desktop and use web search to add context to prompts, upload [[Microsoft Excel|Excel]] and other files to boost GPT focus, plus have GPT create visualizations, images, and output the results to [[Microsoft PowerPoint|PowerPoint]] and other format.
 >
 > **[0:40](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980&t=40)** By the end, you'll learn to work with the tool beyond traditional text prompting, with innovative and powerful new techniques.
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Python (Programming Language)|Python]] (1), feature (1), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** gpt (3)
 > **CLI Commands:** python (1), make (1)
 > **UI Navigation:** go to (1)
@@ -103,12 +102,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ChatGPT Free versus ChatGPT Plus
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980)
+#### [ChatGPT Free versus ChatGPT Plus](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=0)** - ChatGPT is a web application that is connected to models from OpenAI, which includes GPT for natural language and DALL-E for image generation.
+> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=0)** - [[ChatGPT]] is a web application that is connected to models from OpenAI, which includes GPT for natural language and [[DALL-E]] for image generation.
 >
 > **[0:09](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=9)** In order to have access to all of its features, you need to purchase the GPT Plus account, which is available for $20 a month.
 >
@@ -120,11 +118,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=40)** Think of this as how much of your conversation ChatGPT is able to hold in its memory.
 >
-> **[0:45](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=45)** The free version has a 16,000-token context window, and that translates to about 40 pages of content, whereas ChatGPT Plus has 128,000 tokens, which is about 300 pages.
+> **[0:45](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=45)** The free version has a 16,000-token context window, and that translates to about 40 pages of content, whereas ChatGPT Plus has 128,000 [[Tokens]], which is about 300 pages.
 >
 > **[0:58](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=58)** Now, tokens are used by GPT to convert the prompts that you type into numerical representations, which the computers can handle much better.
 >
-> **[1:06](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=66)** A token isn't necessarily a word.
+> **[1:06](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=66)** A token isn't necessarily a [[Microsoft Word|word]].
 >
 > **[1:08](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=68)** It can be part of a word or a combination of words that are used often.
 >
@@ -140,9 +138,9 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=107)** The paid version has an April 2023 cutoff.
 >
-> **[1:51](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=111)** I do imagine that these cutoffs will eventually update for both versions, and if you're really trying to query about current events, it's possibly better to use a model that is backed by a search engine like Google's Bard or Bing Copilot chat.
+> **[1:51](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=111)** I do imagine that these cutoffs will eventually update for both versions, and if you're really trying to query about current events, it's possibly better to use a model that is backed by a search engine like [[Google]]'s Bard or Bing [[Microsoft Copilot|Copilot]] chat.
 >
-> **[2:06](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=126)** ChatGPT Plus also lets you upload files in formats like Excel, PowerPoint, and PDFs.
+> **[2:06](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=126)** ChatGPT Plus also lets you upload files in formats like [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], and PDFs.
 >
 > **[2:12](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=132)** Other tools like Google Bard do let you upload images, and I find that Anthropic does a pretty similar job to what ChatGPT does in terms of what files it understands.
 >
@@ -160,13 +158,13 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=185)** Through the Plus subscription, you can also generate images.
 >
-> **[3:08](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=188)** Now, other tools like Midjourney and Stable Diffusion can generate great photos and illustration, but where ChatGPT is superior is in how well it translates your instructions to images.
+> **[3:08](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=188)** Now, other tools like [[Midjourney]] and [[Stable Diffusion]] can generate great photos and illustration, but where ChatGPT is superior is in how well it translates your instructions to images.
 >
 > **[3:19](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=199)** One place you can do this for free, though, is Bing Create, as well as in any version of Copilot or Bing Chat.
 >
-> **[3:27](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=207)** The other main thing that the Plus subscription gives you is code interpreter, where ChatGPT can behave as your developer and write Python applications to accomplish certain tasks, so you can have it create programs to analyze and visualize your data.
+> **[3:27](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=207)** The other main thing that the Plus subscription gives you is code interpreter, where ChatGPT can behave as your developer and write [[Python (Programming Language)|Python]] applications to accomplish certain tasks, so you can have it create programs to analyze and visualize your data.
 >
-> **[3:41](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=221)** Finally, with the paid version, you can create custom GPTs where you upload specific data and other commands into a custom bot, and it remembers those instructions in a series of new conversations.
+> **[3:41](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=221)** Finally, with the paid version, you can create [[Custom GPTs]] where you upload specific data and other commands into a custom bot, and it remembers those instructions in a series of new conversations.
 >
 > **[3:53](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980&t=233)** It's like having your own custom version of ChatGPT.
 >
@@ -183,8 +181,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - chatgpt (1)
 
-#### Dynamic AI prompts using mobile audio inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980)
+#### [Dynamic AI prompts using mobile audio inputs](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,7 +189,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=4)** Now, the app looks similar to the desktop app, but it's clearly been adjusted to work with mobile devices.
 >
-> **[0:10](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=10)** I want to make sure that I'm using the GPT-4 version, which is available with the Plus plan.
+> **[0:10](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=10)** I want to make sure that I'm using the [[GPT-4]] version, which is available with the Plus plan.
 >
 > **[0:15](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=15)** Although, voice is available in the free version.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=23)** Plus will get you things like vision, image generation, and file uploads.
 >
-> **[0:27](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=27)** The mobile app is perfect if you're taking a walk or away from your computer and you want to run things by ChatGPT.
+> **[0:27](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=27)** The mobile app is perfect if you're taking a walk or away from your computer and you want to run things by [[ChatGPT]].
 >
 > **[0:33](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=33)** You can pick up a new conversation or one of your previous conversations and continue it on your phone as well.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=50)** I'll start by clicking on this headphones icon.
 >
-> **[0:53](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=53)** I'm thinking about starting a brand of pet food products for a company called Wisdom Pets.
+> **[0:53](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=53)** I'm thinking about starting a brand of pet food [[Microsoft Products|products]] for a company called Wisdom Pets.
 >
 > **[0:57](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=57)** What should I be thinking about?
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=63)** Here's what to consider.
 >
-> **[1:04](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=64)** One, market research.
+> **[1:04](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=64)** One, [[Market Research]].
 >
 > **[1:06](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/dynamic-ai-prompts-using-mobile-audio-inputs?u=76281980&t=66)** Understand what pet owners need.
 >
@@ -280,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (2), [[GPT-4]] (2), [[Microsoft Products|Products]] (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[GPT-4]] (2), [[Microsoft Products|Products]] (1), [[Market Research]] (1)
 > **Speakers:** - [chatgpt (2), - you (2), - a (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (2)
@@ -289,12 +286,11 @@ created: 2026-05-02
 > **Code Identifiers:** icloud (1)
 > **Analogies:** similar to (1)
 
-#### Loading and utilizing data in AI prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/loading-and-utilizing-data-in-ai-prompts?u=76281980)
+#### [Loading and utilizing data in AI prompts](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/loading-and-utilizing-data-in-ai-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/loading-and-utilizing-data-in-ai-prompts?u=76281980&t=0)** - When you prompt ChatGPT, it takes into consideration the prompts you give it, but it can also take custom instructions.
+> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/loading-and-utilizing-data-in-ai-prompts?u=76281980&t=0)** - When you prompt [[ChatGPT]], it takes into consideration the prompts you give it, but it can also take custom instructions.
 >
 > **[0:06](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/loading-and-utilizing-data-in-ai-prompts?u=76281980&t=6)** Now, custom instructions are found under your Settings menu, which is at the bottom of the screen.
 >
@@ -356,16 +352,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (11), prompt (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
 
-#### Interpreting images with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/interpreting-images-with-ai?u=76281980)
+#### [Interpreting images with AI](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/interpreting-images-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/interpreting-images-with-ai?u=76281980&t=0)** - ChatGPT uses a model called DALL-E 3 in order to generate images.
+> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/interpreting-images-with-ai?u=76281980&t=0)** - [[ChatGPT]] uses a model called [[DALL-E]] 3 in order to generate images.
 >
 > **[0:05](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/interpreting-images-with-ai?u=76281980&t=5)** If you've used other image generation tools, you know that it's pretty tough to get them to be precise in how they interpret prompts.
 >
@@ -397,7 +392,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/interpreting-images-with-ai?u=76281980&t=82)** This Mojo is the spokesdog for the brand.
 >
-> **[1:25](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/interpreting-images-with-ai?u=76281980&t=85)** I want to make sure that there are some coloring books that the kids can use when they come to the office.
+> **[1:25](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/interpreting-images-with-ai?u=76281980&t=85)** I want to make sure that there are some coloring books that the kids can use when they come to the [[Microsoft Office|office]].
 >
 > **[1:31](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/interpreting-images-with-ai?u=76281980&t=91)** That does look pretty great, and I could keep on going with additional pictures.
 >
@@ -425,19 +420,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[DALL-E]] (1), feature (1), [[Microsoft Office|Office]] (1), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[DALL-E]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dall (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - chatgpt (1)
 
-#### Making data analysis easy with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/making-data-analysis-easy-with-ai?u=76281980)
+#### [Making data analysis easy with AI](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/making-data-analysis-easy-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/making-data-analysis-easy-with-ai?u=76281980&t=0)** - ChatGPT can also take into consideration websites and online materials to help you create content that resonates with your audience.
+> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/making-data-analysis-easy-with-ai?u=76281980&t=0)** - [[ChatGPT]] can also take into consideration websites and online materials to help you create content that resonates with your audience.
 >
 > **[0:07](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/making-data-analysis-easy-with-ai?u=76281980&t=7)** Now, I want ChatGPT to help me craft a message that will be a description for the bag of dog food, but I also want it to look at the Wisdom Pet Medicine website, which has some information about the vision for Wisdom Pets.
 >
@@ -465,17 +459,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), web (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - chatgpt (1)
 
-#### Visualizing data and conversations in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/visualizing-data-and-conversations-in-ai?u=76281980)
+#### [Visualizing data and conversations in AI](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/visualizing-data-and-conversations-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/visualizing-data-and-conversations-in-ai?u=76281980&t=0)** - ChatGPT Plus will let you upload files that you can use as a baseline for projects, or to give ChatGPT additional information.
+> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/visualizing-data-and-conversations-in-ai?u=76281980&t=0)** - [[ChatGPT]] Plus will let you upload files that you can use as a baseline for projects, or to give ChatGPT additional information.
 >
 > **[0:07](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/visualizing-data-and-conversations-in-ai?u=76281980&t=7)** Now make sure you're not just prompting based on ChatGPT's knowledge, but take advantage of any documents that you have that can provide additional context.
 >
@@ -519,7 +512,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/visualizing-data-and-conversations-in-ai?u=76281980&t=125)** Now that it's returned some data, let's go ahead and have it put it all together.
 >
-> **[2:10](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/visualizing-data-and-conversations-in-ai?u=76281980&t=130)** I could also ask it to create a Word, or a PDF document for me.
+> **[2:10](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/visualizing-data-and-conversations-in-ai?u=76281980&t=130)** I could also ask it to create a [[Microsoft Word|Word]], or a PDF document for me.
 >
 > **[2:15](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/visualizing-data-and-conversations-in-ai?u=76281980&t=135)** Those things are in the early stages, so it's a little bit hit and miss right now with whether it can create those.
 >
@@ -527,21 +520,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (11), web (3), prompt (2), data (2), power (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** coming up (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - chatgpt (1)
 
-#### Producing visual content with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/producing-visual-content-with-ai?u=76281980)
+#### [Producing visual content with AI](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/producing-visual-content-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/producing-visual-content-with-ai?u=76281980&t=0)** - One of the tools that's unique to ChatGPT Plus is the Advanced Data Analysis tool, which is also known as the code interpreter.
+> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/producing-visual-content-with-ai?u=76281980&t=0)** - One of the tools that's unique to [[ChatGPT]] Plus is the Advanced Data Analysis tool, which is also known as the code interpreter.
 >
-> **[0:07](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/producing-visual-content-with-ai?u=76281980&t=7)** It's useful as a helpful AI developer who can convert your prompts to Python code and perform data analysis and visualizations.
+> **[0:07](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/producing-visual-content-with-ai?u=76281980&t=7)** It's useful as a helpful AI developer who can convert your prompts to [[Python (Programming Language)|Python]] code and perform data analysis and visualizations.
 >
 > **[0:14](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/producing-visual-content-with-ai?u=76281980&t=14)** I have a sample data file that I'm going to use with some appointments and some of the clients for Wisdom Pet Medicine.
 >
@@ -597,24 +589,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (5), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - one (1)
 
-#### Custom GPTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980)
+#### [Custom GPTs](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=0)** - The Plus version of ChatGPT has one more trick.
+> **[0:00](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=0)** - The Plus version of [[ChatGPT]] has one more trick.
 >
 > **[0:03](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=3)** It can help you generate a custom GPT that knows certain things, like our list of appointments, and can answer certain questions with presets that are like custom instructions that we've been using.
 >
-> **[0:13](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=13)** It can draw images, write Python code, and access the web just like the regular GPT.
+> **[0:13](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=13)** It can draw images, write [[Python (Programming Language)|Python]] code, and access the web just like the regular GPT.
 >
-> **[0:18](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=18)** Let's go through the process of building a custom GPT for our pet care business since it's the ultimate multimodal prompting technique.
+> **[0:18](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=18)** Let's go through the process of building a custom GPT for our pet care business since it's the ultimate [[Multimodal Prompting]] technique.
 >
 > **[0:25](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=25)** To do that, I'm going to go to this Explore section, and I'm going to click right here on this plus button under Create a GPT.
 >
@@ -692,11 +683,11 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=214)** That's sort of like an app store.
 >
-> **[3:35](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=215)** Now, this ability to have a GPT that has everything preloaded and understands your data while having access to all of ChatGPT Plus features is a new way of using artificial intelligence.
+> **[3:35](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/custom-gpts?u=76281980&t=215)** Now, this ability to have a GPT that has everything preloaded and understands your data while having access to all of ChatGPT Plus features is a new way of using [[Artificial Intelligence (AI)|artificial intelligence]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), data (5), web (3), [[Python (Programming Language)|Python]] (2), hit (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (2), [[Multimodal Prompting]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** gpt (10)
 > **CLI Commands:** python (2), make (2), find (1)
 > **Analogies:** just like (1), picture (1), similar to (1)

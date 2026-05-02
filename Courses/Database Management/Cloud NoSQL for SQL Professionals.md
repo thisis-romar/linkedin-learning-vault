@@ -101,16 +101,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simplify the NoSQL ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980)
+#### [Simplify the NoSQL ecosystem](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980&t=0)** - [Lynn] Is the volume of data that you have to manage outgrowing your database infrastructure?
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980&t=6)** Have you heard about NoSQL database alternatives and are you wondering if any of those would be a fit for your situation?
+> **[0:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980&t=6)** Have you heard about [[NoSQL]] database alternatives and are you wondering if any of those would be a fit for your situation?
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980&t=14)** Have you considered using open source NoSQL databases, such as Redis, or MongoDB, and wondered whether cloud versions of those would be a better fit, or cloud alternatives such as Amazon DynamoDB or Google Cloud Bigtable?
+> **[0:14](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980&t=14)** Have you considered using open source NoSQL [[Databases]], such as [[Redis]], or [[MongoDB]], and wondered whether cloud versions of those would be a better fit, or cloud alternatives such as Amazon DynamoDB or [[Google Cloud Platform (GCP)|Google Cloud]] Bigtable?
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980&t=34)** I'm Lynn Langit, and in this course, we're going to take a look at the different aspects of NoSQL databases.
 >
@@ -120,20 +119,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (3), [[Databases]] (3), database (2), cloud (2), data (1)
+> **Frameworks & Libraries:** [[NoSQL]] (3), [[Databases]] (3), [[Redis]] (1), [[MongoDB]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [lynn] (1)
 
-#### Use cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-services?u=76281980)
+#### [Use cloud services](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-services?u=76281980&t=0)** - [Instructor] In this course, we're going to be working with a number of public cloud services, and there are some best practices for working with those while you're learning.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-services?u=76281980&t=0)** - [Instructor] In this course, we're going to be working with a number of public [[Cloud Services]], and there are some best practices for working with those while you're learning.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-services?u=76281980&t=9)** We're going to be working with Amazon Web Services, or Google Cloud Platform services.
+> **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-services?u=76281980&t=9)** We're going to be working with [[Amazon Web Services (AWS)|Amazon Web Services]], or [[Google Cloud Platform (GCP)|Google Cloud Platform]] services.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-services?u=76281980&t=14)** You may choose to use other cloud vendors such as Azure and your process will be slightly different, but these best practices still apply.
+> **[0:14](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-services?u=76281980&t=14)** You may choose to use other cloud vendors such as [[Microsoft Azure|Azure]] and your process will be slightly different, but these best practices still apply.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-services?u=76281980&t=22)** First, I recommend that you create a dedicated learning account if possible.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Microsoft Azure|Azure]] (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -162,18 +160,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage data as file or tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980)
+#### [Manage data as file or tables](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=0)** - [Instructor] To get us started taking a look at NoSql, let's consider this quote from Craig Mundie, "data are becoming the new raw material of business."
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=0)** - [Instructor] To get us started taking a look at [[NoSQL]], let's consider this quote from Craig Mundie, "data are becoming the new raw material of business."
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=10)** The most important part of this is the word are.
+> **[0:10](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=10)** The most important part of this is the [[Microsoft Word|word]] are.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=13)** Multiple types of data.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=15)** And it's really for this reason that the NoSql movement and set of databases was born.
+> **[0:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=15)** And it's really for this reason that the NoSql movement and set of [[Databases]] was born.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=23)** To start, we need to see where we came from, and what is the state of data today.
 >
@@ -181,9 +178,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=34)** We think about data as tables.
 >
-> **[0:36](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=36)** It's more specifically relational tables in relational database systems, such as SQL Server, Oracle, or open source systems like MySQL.
+> **[0:36](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=36)** It's more specifically relational tables in relational [[Database Systems]], such as [[Microsoft SQL Server|SQL Server]], Oracle, or open source systems like [[MySQL]].
 >
-> **[0:46](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=46)** The data in the tables is in commercial such as Oracle or open source, RDBMs or relational database management systems.
+> **[0:46](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=46)** The data in the tables is in commercial such as Oracle or open source, RDBMs or relational [[Database Management]] systems.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=56)** Data these days is also in data warehouses.
 >
@@ -199,13 +196,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=106)** Managed by network managers rather than data professionals.
 >
-> **[1:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=109)** Although, as these file systems move to the cloud, the emergence of DevOps or even DataOps roles is something that I see occurring.
+> **[1:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=109)** Although, as these file systems move to the cloud, the emergence of [[DevOps]] or even DataOps roles is something that I see occurring.
 >
-> **[1:58](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=118)** Particularly on-prem to optimize for increasing amounts of files, the network managers would configure the hardware.
+> **[1:58](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=118)** Particularly on-prem to optimize for increasing amounts of files, the network managers would configure the [[Hardware]].
 >
 > **[2:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=126)** Contrast this with key aspects of relational database management systems or RDBMs.
 >
-> **[2:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=132)** These systems would use the SQL syntax very notably, JOIN syntax to join information between multiple tables to retrieve results, and CRUD, or create, read, update or delete modification operations would use database schemas, and often transactions.
+> **[2:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=132)** These systems would use the [[SQL]] syntax very notably, JOIN syntax to join information between multiple tables to retrieve results, and CRUD, or create, read, update or delete modification operations would use database schemas, and often transactions.
 >
 > **[2:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980&t=153)** And the reason I'm calling these aspects of RDBMs out is that I know that most of my viewers will probably have a RDBMS background but some may not.
 >
@@ -233,7 +230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), database (5), [[NoSQL]] (4), [[Hardware]] (3), management (2)
+> **Frameworks & Libraries:** [[NoSQL]] (4), [[Hardware]] (3), [[Database Management]] (2), [[Microsoft Word|Word]] (1), [[Databases]] (1)
 > **Env Vars:** sql (2), crud (2), olap (1), oltp (1), join (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** mysql (1)
@@ -242,8 +239,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add behavioral data
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-behavioral-data?u=76281980)
+#### [Add behavioral data](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-behavioral-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -301,25 +297,24 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-behavioral-data?u=76281980&t=170)** Another use case is from mobile applications.
 >
-> **[2:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-behavioral-data?u=76281980&t=173)** User location can be tracked, user activity, it's a really interesting exercise if you use Google Maps and you have location turned on, to turn on the timeline feature.
+> **[2:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-behavioral-data?u=76281980&t=173)** User location can be tracked, user activity, it's a really interesting exercise if you use [[Google]] Maps and you have location turned on, to turn on the timeline feature.
 >
 > **[3:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-behavioral-data?u=76281980&t=184)** Not only will Google track where you have been, but they will estimate what you were doing in transit, I think based on the accelerometer in your phone.
 >
-> **[3:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-behavioral-data?u=76281980&t=195)** If you are a real data nerd like me, you can download that data as a JSON file and you can take a look at where Google has been monitoring that you have gone and what they think that you've been doing, if you've been walking, driving, so on and so forth.
+> **[3:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-behavioral-data?u=76281980&t=195)** If you are a real data nerd like me, you can download that data as a [[JSON]] file and you can take a look at where Google has been monitoring that you have gone and what they think that you've been doing, if you've been walking, driving, so on and so forth.
 >
-> **[3:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-behavioral-data?u=76281980&t=210)** So the key aspect of this is relatively recently, the amount and types and, importantly, volume of data that are available has increased exponentially and because of this, new types of data solutions, most notably NoSQL, have been designed to address working with this data more efficiently and effectively.
+> **[3:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-behavioral-data?u=76281980&t=210)** So the key aspect of this is relatively recently, the amount and types and, importantly, volume of data that are available has increased exponentially and because of this, new types of data solutions, most notably [[NoSQL]], have been designed to address working with this data more efficiently and effectively.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Google]] (3), database (1), traffic (1), feature (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[JSON]] (1), [[NoSQL]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** json (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Add web-scale data
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980)
+#### [Add web-scale data](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -331,11 +326,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=9)** It's behavioral data collected at a massive scale, scale we've never seen before.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=15)** And this was first driven by the biggest search engines, most notably Google, but Bing and some of the others ones as well.
+> **[0:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=15)** And this was first driven by the biggest search engines, most notably [[Google]], but Bing and some of the others ones as well.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=22)** Many of the products that we see today is NoSQL databases were developed by people who worked at Google at one time, or based on technologies that were designed to address these scalability challenges because of the amount of data that Google was collecting, not only to index the Web, which in some ways could be argued was transactional, but increasingly behaviorally, through their android ecosystem and through their applications such as maps, and so on.
+> **[0:22](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=22)** Many of the [[Microsoft Products|products]] that we see today is [[NoSQL]] [[Databases]] were developed by people who worked at Google at one time, or based on technologies that were designed to address these [[Scalability]] challenges because of the amount of data that Google was collecting, not only to index the Web, which in some ways could be argued was transactional, but increasingly behaviorally, through their [[Android]] ecosystem and through their applications such as maps, and so on.
 >
-> **[0:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=54)** Again, along with Google, the other big social players like Facebook, Twitter, and LinkedIn, joined in in this collection of massive amounts of behavioral data and then turning that into business value, either by monetizing that data, or by using that data to increase stickiness of their sites and so on and so forth.
+> **[0:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=54)** Again, along with Google, the other big social players like Facebook, Twitter, and [[LinkedIn]], joined in in this collection of massive amounts of behavioral data and then turning that into business value, either by monetizing that data, or by using that data to increase stickiness of their sites and so on and so forth.
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=78)** Additionally, over the past few years, the type of data that's being collected as behavioral data, has grown exponentially in volume, because it's, in addition to text, it's picture and video based.
 >
@@ -345,24 +340,23 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=124)** So, this data growth, driven by web-scale behavioral data, changes everything, and it's really where the NoSQL ecosystem came from.
 >
-> **[2:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=135)** File systems and relational databases no longer work at this level of scale, and in this course, we're going to look at how the NoSQL ecosystem has evolved.
+> **[2:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=135)** File systems and [[Relational Databases]] no longer work at this level of scale, and in this course, we're going to look at how the NoSQL ecosystem has evolved.
 >
 > **[2:25](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=145)** I've been working with it for over ten years, it's been really interesting to see kind of the loop, and this is the second generation of this course.
 >
-> **[2:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=153)** The first generation was about five years ago, and there's been quite a bit of change in the NoSQL ecosystem, most notably with the growth of public cloud services and the services that I choose to show and that I now use with my customers, has substantially changed over this period of time, as well.
+> **[2:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-web-scale-data?u=76281980&t=153)** The first generation was about five years ago, and there's been quite a bit of change in the NoSQL ecosystem, most notably with the growth of public [[Cloud Services]] and the services that I choose to show and that I now use with my customers, has substantially changed over this period of time, as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Google]] (5), [[NoSQL]] (4), web (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[NoSQL]] (4), [[Microsoft Products|Products]] (1), [[Databases]] (1), [[Scalability]] (1)
 > **Analogies:** picture (2), such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add NoSQL databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980)
+#### [Add NoSQL databases](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=0)** - To address this data growth challenge the addition of NoSQL databases has been a common pattern for really many years.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=0)** - To address this data growth challenge the addition of [[NoSQL]] [[Databases]] has been a common pattern for really many years.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=9)** However the way it's implemented today has evolved.
 >
@@ -372,11 +366,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=28)** But it is important to consider that for certain business cases certain data volumes, certain data types, relational database is not the most efficient answer.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=40)** At web scale it becomes too expensive to scale these relational database systems in particular.
+> **[0:40](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=40)** At web scale it becomes too expensive to scale these relational [[Database Systems]] in particular.
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=46)** Non-relational or NoSQL databases were created to address specifically this problem.
 >
-> **[0:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=53)** Many many years ago buy vendors such as Google and Facebook as well as other groups of developers worldwide.
+> **[0:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=53)** Many many years ago buy vendors such as [[Google]] and Facebook as well as other groups of developers worldwide.
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=59)** NoSQL databases live in the space between files and relational tables.
 >
@@ -384,7 +378,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=71)** And we'll be looking at specific types.
 >
-> **[1:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=73)** Whether it's JSON type of data, XML data or other types of data.
+> **[1:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=73)** Whether it's [[JSON]] type of data, XML data or other types of data.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=80)** Often times that data comes first from files and then is loaded into proprietary storage format for the particular NoSQL database instance type.
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=138)** So when we then about what data are today in addition to a file based data which we would see everywhere from laptops to file servers whether there on parameter in the cloud.
 >
-> **[2:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=150)** And tabular data in relational databases or data warehouses.
+> **[2:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=150)** And tabular data in [[Relational Databases]] or data warehouses.
 >
 > **[2:34](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/add-nosql-databases?u=76281980&t=154)** The new type of data that's so important to consider and is really the driving force behind NoSQL is behavior data which is sometimes called event data as well.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[NoSQL]] (11), [[Databases]] (5), database (5), web (2)
+> **Frameworks & Libraries:** [[NoSQL]] (11), [[Databases]] (5), [[Database Systems]] (1), [[Google]] (1), [[JSON]] (1)
 > **Env Vars:** json (1), xml (1)
 > **Versions:** 38.6 (1)
 > **Analogies:** such as (1)
@@ -423,12 +417,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Store data, query information including NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980)
+#### [Store data, query information including NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=0)** - [Instructor] Here's a quote from Ankala Subbarao to start the section on learning more about NoSQL, "Process data is information.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=0)** - [Instructor] Here's a quote from Ankala Subbarao to start the section on learning more about [[NoSQL]], "Process data is information.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=9)** "Processed information is knowledge."
 >
@@ -448,7 +441,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=91)** And NoSQL storage is often specific to the NoSQL database type.
 >
-> **[1:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=95)** As we'll see when we get into this, there's general categories such as key value or document, NoSQL databases, so if you have data coming in in the shape of let's say a document, you will tend to choose a NoSQL database from that category.
+> **[1:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=95)** As we'll see when we get into this, there's general categories such as key value or document, NoSQL [[Databases]], so if you have data coming in in the shape of let's say a document, you will tend to choose a NoSQL database from that category.
 >
 > **[1:50](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=110)** And data types often will drive the selection of the particular NoSQL database, not always though.
 >
@@ -456,7 +449,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=118)** I think when you're new to it, is much more challenging, particularly if you come from a relational background.
 >
-> **[2:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=124)** Because in the name, it does not use the answer SQL query language, and again, notes from the real world, I've seen a number of dev teams underestimate the amount of effort it's going to take to learn how to query data with NoSQL.
+> **[2:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=124)** Because in the name, it does not use the answer [[SQL]] query language, and again, notes from the real world, I've seen a number of dev teams underestimate the amount of effort it's going to take to learn how to query data with NoSQL.
 >
 > **[2:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=138)** So we not using the SQL query language, sometimes it's like it and it's often called something QL.
 >
@@ -466,7 +459,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=163)** NoSQL doesn't use relational tables and joins.
 >
-> **[2:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=165)** Again, I'm emphasizing this because if you're coming from that background, it's almost in my opinion, more difficult to unlearn what you know about relational databases, you just really have to start with beginner's mind and think this is a completely different system, it's not like that, it's something new.
+> **[2:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=165)** Again, I'm emphasizing this because if you're coming from that background, it's almost in my opinion, more difficult to unlearn what you know about [[Relational Databases]], you just really have to start with beginner's mind and think this is a completely different system, it's not like that, it's something new.
 >
 > **[3:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980&t=183)** And NoSQL queries are optimized by the system type.
 >
@@ -494,34 +487,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (21), data (10), database (9), [[SQL]] (5), teams (3)
+> **Frameworks & Libraries:** [[NoSQL]] (21), [[SQL]] (5), [[Databases]] (3), [[Relational Databases]] (1)
 > **Env Vars:** sql (5), cql (1)
 > **Analogies:** for example (2), such as (1), it's like (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overcome file system limits including NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980)
+#### [Overcome file system limits including NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=0)** - [Instructor] So let's consider how NoSQL can overcome file system limits when we work with web scale behavioral data.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=0)** - [Instructor] So let's consider how [[NoSQL]] can overcome file system limits when we work with web scale behavioral data.
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=8)** NoSQL uses proprietary storage methods.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=11)** And as I previously mentioned, you can think of it sitting on a scale between file servers and relational database systems.
+> **[0:11](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=11)** And as I previously mentioned, you can think of it sitting on a scale between file servers and relational [[Database Systems]].
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=21)** Now in addition to working with file systems, of course there is an entire ecosystem designed to work with data which is represented as files at massive scale.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=33)** And that's the Hadoop/Spark ecosystem.
+> **[0:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=33)** And that's the [[Hadoop]]/Spark ecosystem.
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=36)** Hadoop/Spark you may know uses its own proprietary file storage system commonly called NTFS or increasingly these days, a new type of storage system which is called a Data Lake.
 >
-> **[0:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=51)** Now I've done a number of courses in the library on the Hadoop/Spark ecosystem and Data Lakes, so you may want to search on those terms if you're interested in understanding more about those use cases.
+> **[0:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=51)** Now I've done a number of courses in the library on the Hadoop/Spark ecosystem and [[Data Lakes]], so you may want to search on those terms if you're interested in understanding more about those use cases.
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=64)** In particular I've done work with genomics or bioinformatic research which is file based and worked with Hadoop/Spark and those use cases are discussed in those courses.
 >
-> **[1:16](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=76)** So Data Lakes increasingly operate on not only distributed file systems, but cloud-based, such as AWS S3 or Google Cloud Storage, File Buckets or Azure Data Lakes.
+> **[1:16](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=76)** So Data Lakes increasingly operate on not only distributed file systems, but cloud-based, such as AWS S3 or [[Google Cloud Platform (GCP)|Google Cloud]] Storage, File Buckets or [[Microsoft Azure|Azure]] Data Lakes.
 >
 > **[1:32](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-file-system-limits-including-nosql?u=76281980&t=92)** So there are a number of services that have been released relatively recently, over the past 12 months by the cloud vendors, to help to operationalize Data Lakes.
 >
@@ -529,19 +521,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Hadoop]] (5), [[NoSQL]] (3), cloud (3), web (1)
+> **Frameworks & Libraries:** [[Hadoop]] (5), [[Data Lakes]] (4), [[NoSQL]] (3), [[Database Systems]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** ntfs (1), aws (1)
 > **Definitions:** is an  (1), is called (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overcome RDBMS limits using NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980)
+#### [Overcome RDBMS limits using NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=0)** - [Instructor] Now NoSQL, in terms of overcoming RDBMS limits, we're reminded that NoSQL doesn't use SQL syntax or JOINS.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=0)** - [Instructor] Now [[NoSQL]], in terms of overcoming RDBMS limits, we're reminded that NoSQL doesn't use [[SQL]] syntax or JOINS.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=10)** And because of this, throwing massive amounts of quasi structured data into tabular structures can be much more efficient using NoSQL systems.
 >
@@ -557,7 +548,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=75)** Previously many years ago, I not only worked in this area, I wrote three books on the topic.
 >
-> **[1:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=80)** So it's interesting to see how technology advances and improves and I am sort of happy to say that a key limit of data warehousing, which was some of these restrictive star schemas, has been superseded by some of the NoSQL technologies that are now available, which provides better value to the customers.
+> **[1:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=80)** So it's interesting to see how technology advances and improves and I am sort of happy to say that a key limit of [[Data Warehousing]], which was some of these restrictive star schemas, has been superseded by some of the NoSQL technologies that are now available, which provides better value to the customers.
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=101)** NoSQL does not use aggregations, which is the data warehousing method of indexing or adding duplicating portions of the data stored in the warehouse for faster queries.
 >
@@ -565,7 +556,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=129)** So its kind of exciting to see actually.
 >
-> **[2:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=132)** And NoSQL often, not always, does not use custom hardware.
+> **[2:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=132)** And NoSQL often, not always, does not use custom [[Hardware]].
 >
 > **[2:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/overcome-rdbms-limits-using-nosql?u=76281980&t=135)** Data warehouses were notorious for this.
 >
@@ -579,13 +570,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (15), data (10), [[SQL]] (1), database (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[NoSQL]] (15), [[Data Warehousing]] (4), [[SQL]] (1), [[Hardware]] (1)
 > **Env Vars:** crud (2), rdbms (1), sql (1), joins (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand CAP Theorem and data
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980)
+#### [Understand CAP Theorem and data](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,21 +587,21 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=18)** Consistency has to do with data and the consistency of the data being written and being read.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=26)** Now in relational databases we have transactions by default which can be summarized by saying if we had two tables and we wanted to take something out of one and put it into another.
+> **[0:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=26)** Now in [[Relational Databases]] we have transactions by default which can be summarized by saying if we had two tables and we wanted to take something out of one and put it into another.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=35)** Then we can combine or group those two statements as a transaction.
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=39)** They can either all succeed or all fail.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=40)** Banking is a classic example here.
+> **[0:40](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=40)** [[Banking]] is a classic example here.
 >
-> **[0:43](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=43)** Generally in NoSQL databases transactions aren't present although there are exceptions that we'll see.
+> **[0:43](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=43)** Generally in [[NoSQL]] [[Databases]] transactions aren't present although there are exceptions that we'll see.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=49)** It's important to understand the performance overhead that transactions cause.
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=53)** In terms of availability, that means that the system will have multiple copies in case one part of the system goes down, there's a redundant copy.
 >
-> **[1:02](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=62)** Again, there's a cost to this and partitions increase scalability because you can simply add more nodes to serve up more of the data.
+> **[1:02](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=62)** Again, there's a cost to this and partitions increase [[Scalability]] because you can simply add more nodes to serve up more of the data.
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=71)** Now, you can already start to see even if you're new to this how these different abilities can be in conflict.
 >
@@ -639,7 +629,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=151)** But as I just mentioned not transactionally consistent.
 >
-> **[2:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=155)** Of course Google always has to have the exception case and so of the products that I'm aware of that are commercially available the only thing that claims to be and appears to be having all three of the CAP capabilities is Google Cloud Spanner.
+> **[2:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=155)** Of course [[Google]] always has to have the exception case and so of the [[Microsoft Products|products]] that I'm aware of that are commercially available the only thing that claims to be and appears to be having all three of the CAP capabilities is [[Google Cloud Platform (GCP)|Google Cloud]] Spanner.
 >
 > **[2:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/understand-cap-theorem-and-data?u=76281980&t=171)** Now, as you might imagine this capacity is expensive and although it's very exciting I only recommend it to use for Google-scale relational data.
 >
@@ -651,19 +641,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Google]] (3), database (2), [[Banking]] (2), [[NoSQL]] (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[Banking]] (2), [[NoSQL]] (2), [[Relational Databases]] (1), [[Databases]] (1)
 > **Definitions:** is a  (2), stands for (1), means that (1)
 > **Env Vars:** cap (2)
 > **Cross-References:** we mentioned (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Apply CAP Theorem with NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980)
+#### [Apply CAP Theorem with NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=0)** - [Instructor] So now let's apply the CAP theorem to NoSQL databases.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=0)** - [Instructor] So now let's apply the CAP theorem to [[NoSQL]] [[Databases]].
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=5)** NoSQL databases, we've been discussing, are designed to overcome the limits of scale and of course, having the C or the transactional capabilities slows databases down, so they're generally AP, available and partitionable.
 >
@@ -677,9 +666,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=45)** And they live between files and relational tables.
 >
-> **[0:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=49)** So if we think of what data are today, we think of files and so we think of laptops, file servers, the Hadoop/Spark ecosystem for massive amounts of pure file-based data, which had been NTFS but are now moving towards cloud-based data lakes, object storers such as S3.
+> **[0:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=49)** So if we think of what data are today, we think of files and so we think of laptops, file servers, the [[Hadoop]]/Spark ecosystem for massive amounts of pure file-based data, which had been NTFS but are now moving towards cloud-based [[Data Lakes]], object storers such as S3.
 >
-> **[1:08](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=68)** We have tables and relational databases.
+> **[1:08](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=68)** We have tables and [[Relational Databases]].
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=71)** We also have our data in data warehouses, we see that still at the OLAP star schemas.
 >
@@ -715,7 +704,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=199)** Back five years ago when I created the original course, if you were looking at a document NoSQL database, it provided documents.
 >
-> **[3:27](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=207)** Now that same document database will provide different types of data and different types of capabilities and might have transactions, it might have indexes, so as the market has grown up, the products have grown up.
+> **[3:27](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=207)** Now that same document database will provide different types of data and different types of capabilities and might have transactions, it might have indexes, so as the market has grown up, the [[Microsoft Products|products]] have grown up.
 >
 > **[3:39](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/apply-cap-theorem-with-nosql?u=76281980&t=219)** And what I would encourage you to do and I'll provide you with resources throughout the course is if you're interested to go more deeply in a particular NoSQL database type, then do that because this course is designed to cover more broadly the entire ecosystem so that you can select the appropriate products of interest.
 >
@@ -739,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (20), cloud (10), [[Databases]] (7), data (7), database (6)
+> **Frameworks & Libraries:** [[NoSQL]] (20), [[Databases]] (7), [[Microsoft Products|Products]] (3), [[Hadoop]] (1), [[Data Lakes]] (1)
 > **Env Vars:** cap (1), ntfs (1), olap (1), gcp (1), orm (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -751,16 +740,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Store huge, in-memory lookup lists on NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980)
+#### [Store huge, in-memory lookup lists on NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=0)** - [Narrator] We're going to consider this quote: "Memory storage is number one.
 >
-> **[0:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=3)** "The Redis data set, composed of defined key-value pairs, "is primarily stored in the computer's memory."
+> **[0:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=3)** "The [[Redis]] data set, composed of defined key-value pairs, "is primarily stored in the computer's memory."
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=9)** This is from The Redis, which is a key-value NoSQL database manifesto.
+> **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=9)** This is from The Redis, which is a key-value [[NoSQL]] database manifesto.
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=15)** So what would you use a key-value NoSQL database for?
 >
@@ -772,7 +760,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=36)** These lists which are sometimes called dictionaries, are stored in memory by default, but can be figured to be persistent on disk.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=44)** Of course, there's going to be a very significant performance cost to this, so very often key-value in memory databases are used for what is called hot data, or data that needs to be accessed very frequently in applications, look-ups, for example.
+> **[0:44](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=44)** Of course, there's going to be a very significant performance cost to this, so very often key-value in memory [[Databases]] are used for what is called hot data, or data that needs to be accessed very frequently in applications, look-ups, for example.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=60)** So it's also used for application and requirements which include caching.
 >
@@ -782,7 +770,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=76)** They're extremely fast and easily scalable and as you might guess based on our previous discussion of CAP, they are not by default transactionally consistent which is important to understand.
 >
-> **[1:29](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=89)** Let's look at a Redis data structure so that we can understand what a key-value database looks like in terms of data storage.
+> **[1:29](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=89)** Let's look at a Redis data structure so that we can understand what a key-value database looks like in terms of [[Data Storage]].
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=98)** It's just as the picture shows, there's a key and a value.
 >
@@ -790,7 +778,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=109)** These are data types and read as strings, bitmaps, so on and so forth and it's really important to understand these are very different especially when you come from a relational background.
 >
-> **[1:58](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=118)** From relational data types, there's no such thing as hyperloglogs, for example, by default in SQL Server, Oracle, so on and so forth.
+> **[1:58](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=118)** From relational data types, there's no such thing as hyperloglogs, for example, by default in [[Microsoft SQL Server|SQL Server]], Oracle, so on and so forth.
 >
 > **[2:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=126)** So you want to understand the data typing in your particular NoSQL system.
 >
@@ -798,7 +786,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=145)** Here are some examples of key-value NoSQL databases.
 >
-> **[2:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=148)** There are many more than this, but these are ones that I've used in production, so Redis or RedisLabs, Memcached, Google Cloud Platform Cloud Memorystore for Redis, AWS Elasticache for Redis or Memcached.
+> **[2:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=148)** There are many more than this, but these are ones that I've used in production, so Redis or RedisLabs, Memcached, [[Google Cloud Platform (GCP)|Google Cloud Platform]] Cloud Memorystore for Redis, AWS Elasticache for Redis or Memcached.
 >
 > **[2:43](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980&t=163)** Now, I want to give you the one, two, three of NoSQL, and what I mean by this is when you're thinking about whether or not you're going to use a particular NoSQL database, in this case a key-value NoSQL database, you generally will have three ways you can implement it.
 >
@@ -834,7 +822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (10), data (10), [[NoSQL]] (9), cloud (8), database (7)
+> **Frameworks & Libraries:** [[Redis]] (10), [[NoSQL]] (9), [[Databases]] (3), [[Data Storage]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** gcp (3), cap (1), sql (1), aws (1)
 > **Analogies:** for example (3), such as (2), picture (1)
 > **Definitions:** is a  (4), is called (1)
@@ -842,16 +830,15 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use Cloud Memorystore for Redis on GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980)
+#### [Use Cloud Memorystore for Redis on GCP](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=0)** - [Instructor] To work with the Redis key value NoSQL store on the Google Cloud Platform, you have a number of choices.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=0)** - [Instructor] To work with the [[Redis]] key value [[NoSQL]] store on the [[Google Cloud Platform (GCP)|Google Cloud Platform]], you have a number of choices.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=7)** And what I've done is I've set up using cloud memory store, here in the instance for us to work with.
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=16)** It's pretty fast to set up and if you want to try this out and you don't have a Google Cloud account, just set a new one up, you get $300 in free credit and then you'll have to enable the API at just the click of a blue button.
+> **[0:16](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=16)** It's pretty fast to set up and if you want to try this out and you don't have a [[Google Cloud Platform (GCP)|Google Cloud]] account, just set a new one up, you get $300 in free credit and then you'll have to enable the API at just the click of a blue button.
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=30)** Took about five minutes to set it up.
 >
@@ -863,7 +850,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=62)** Here you set the location, you set the capacity.
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=64)** Notice if I put this up, then that just goes up by a factor of, you know, an appropriate amount there and then it shows the estimated network throughput for your capacity planning.
+> **[1:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=64)** Notice if I put this up, then that just goes up by a factor of, you know, an appropriate amount there and then it shows the estimated network throughput for your [[Capacity Planning]].
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=75)** You can set the Redis version, three, two, and four are supported as of this recording.
 >
@@ -879,7 +866,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=112)** So if you had like an on prem Redis, or you know, coming from another cloud or something, you could just import that and then bring that in.
 >
-> **[2:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=120)** Now, as is typical with many services in the Google Cloud Web UI, there is no capacity here to insert data, query data, and this is sort of typical for Google.
+> **[2:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=120)** Now, as is typical with many services in the Google Cloud Web UI, there is no capacity here to insert data, query data, and this is sort of typical for [[Google]].
 >
 > **[2:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=132)** Oftentimes, they don't make functionality available in the Web UI.
 >
@@ -895,7 +882,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=195)** Now when you interact with Redis, it's a set and a get.
 >
-> **[3:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=198)** Again, like I was saying, this is the world of SQL, it's NoSQL, so set hello world and then you get hello.
+> **[3:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=198)** Again, like I was saying, this is the world of [[SQL]], it's NoSQL, so set hello world and then you get hello.
 >
 > **[3:24](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=204)** This is sort of the, you know, simplest possible way.
 >
@@ -925,17 +912,17 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=306)** Now when we're working with this instance, we can see that we have a certain capacity set up here and we have the basic monitoring inside of here, but we can integrate with the Google monitoring stacked, or over monitoring of this instance lives within the Google network, so there are other ways to work with Redis in Google.
 >
-> **[5:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=328)** For example, if you just type Redis, you can see that we have some click to deploy and this is open source Redis that has been set up and can either be run on containers, or it can be run on virtual machines.
+> **[5:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=328)** For example, if you just type Redis, you can see that we have some click to deploy and this is open source Redis that has been set up and can either be run on containers, or it can be run on [[Virtual Machines]].
 >
 > **[5:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=345)** So, when you are working with Redis on the Google Cloud Platform, I recommend you take a look at memory store or basically, you just type in here because there are more solutions coming up, you can see Redis Enterprise from Redis Labs is available, and they've configured it.
 >
 > **[6:01](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=361)** So, it's really quick and easy to set up a key value store, now I did kind of skip over the client.
 >
-> **[6:07](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=367)** Redis itself has a client, a CLI, that you would install, I just kind of did a hello world, so you'd want to look into the documentation here, export and import data, and then setup the Redis client, or the API, which is more typical, is that you would be programming against this in your application.
+> **[6:07](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-memorystore-for-redis-on-gcp?u=76281980&t=367)** Redis itself has a client, a [[CLI]], that you would install, I just kind of did a hello world, so you'd want to look into the documentation here, export and import data, and then setup the Redis client, or the API, which is more typical, is that you would be programming against this in your application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (17), [[Google]] (8), cloud (4), data (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (3)
+> **Frameworks & Libraries:** [[Redis]] (17), [[Google]] (8), [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[NoSQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **Prerequisites:** set up (10), install (3), setup (1)
 > **CLI Commands:** gcloud (2), apt (2), make (1), ssh (1)
 > **Env Vars:** api (2), sql (1), ssh (1), cli (1)
@@ -944,12 +931,11 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Documentation:** the documentation (1)
 
-#### Use AWS ElastiCache for Redis
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980)
+#### [Use AWS ElastiCache for Redis](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=0)** - [Instructor] Now, to work with managed, no-sequel key value Redis on Amazon, I'm in the Amazon console here, and again, like with Google, you can just set up a trial account.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=0)** - [Instructor] Now, to work with managed, no-sequel key value [[Redis]] on Amazon, I'm in the Amazon console here, and again, like with [[Google]], you can just set up a trial account.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=10)** And notice when you type Redis, you get their managed service, which is called ElastiCache.
 >
@@ -977,11 +963,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=76)** The port, parameter group, number of replicas, and the node type.
 >
-> **[1:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=81)** So you can see this is set up by default for a pretty big size, and the idea is, again, that this is going to be a massive data storage.
+> **[1:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=81)** So you can see this is set up by default for a pretty big size, and the idea is, again, that this is going to be a massive [[Data Storage]].
 >
 > **[1:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=90)** Now if you're using a brand-new Amazon account, you might have to make sure that you can get this number of instance.
 >
-> **[1:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=97)** These are easy to perch a machine instances, 'cause if you are using this instance size for something else, Amazon purposely limits, as does Google and Azure, everybody, how many of big instances you can get.
+> **[1:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=97)** These are easy to perch a machine instances, 'cause if you are using this instance size for something else, Amazon purposely limits, as does Google and [[Microsoft Azure|Azure]], everybody, how many of big instances you can get.
 >
 > **[1:50](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=110)** It's basically for your own protection so that somebody doesn't get in there and spit out too many instances and run up charges.
 >
@@ -1023,7 +1009,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=236)** When you're just getting started, I really recommend, that's why I'm showing this first, to use a vendor's implementation, if you're going up on the cloud.
 >
-> **[4:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=244)** Of course with this you would also have to create a full client, and so you get an EC2 instance and then you would install the Redis binaries for the Redis client, and then can interact from a command line.
+> **[4:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=244)** Of course with this you would also have to create a full client, and so you get an [[Amazon EC2|EC2]] instance and then you would install the Redis binaries for the Redis client, and then can interact from a command line.
 >
 > **[4:17](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=257)** Or if you want to, you can go directly to the API.
 >
@@ -1065,7 +1051,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=391)** If we wanted to add a node, we can do that here.
 >
-> **[6:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=393)** Now of course, as with Google, when we're in the Amazon world, we use the console for learning, but for any sort of production situation, we should be using the AWS CLI.
+> **[6:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=393)** Now of course, as with Google, when we're in the Amazon world, we use the console for learning, but for any sort of production situation, we should be using the AWS [[CLI]].
 >
 > **[6:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-elasticache-for-redis?u=76281980&t=405)** Just script any changes to our cluster.
 >
@@ -1079,7 +1065,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (20), [[Google]] (11), node (6), data (4), cloud (3)
+> **Frameworks & Libraries:** [[Redis]] (20), [[Google]] (11), [[Amazon EC2|Ec2]] (2), [[Data Storage]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** node (6), make (2), az (1), gcloud (1), aws (1)
 > **Env Vars:** ec2 (2), vpc (1), api (1), cpu (1), aws (1)
 > **Prerequisites:** set up (6), getting started (1), install (1)
@@ -1088,14 +1074,13 @@ created: 2026-05-02
 > **Analogies:** kind of like (1), for example (1)
 > **Tools:** command line (1)
 
-#### Review NoSQL key-value architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980)
+#### [Review NoSQL key-value architecture](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980&t=0)** - [Instructor] So, now that we've seen a cloud key-value NoSQL database, namely Redis, in action, let's talk about where you would use this in the real world by example with an architecture.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980&t=0)** - [Instructor] So, now that we've seen a cloud key-value [[NoSQL]] database, namely [[Redis]], in action, let's talk about where you would use this in the real world by example with an architecture.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980&t=12)** So for my architectural examples in this course, I've tried to use reference architectures published by Amazon or Google, rather than ones that I created myself for clients.
+> **[0:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980&t=12)** So for my architectural examples in this course, I've tried to use reference architectures published by Amazon or [[Google]], rather than ones that I created myself for clients.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980&t=23)** First because my client ones are proprietary and second, one of the nice features of some of these architectures, mostly the Amazon ones, is that they include a CloudFormation template.
 >
@@ -1109,7 +1094,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980&t=72)** So I thought it was interesting 'cause it showed an alternative to using pub/sub with key-value NoSQL implementations so ElastiCache.
 >
-> **[1:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980&t=81)** It has a Node.js front-end, and it has a Node.js/WebSockets backend and like I said, the link is to the Amazon blog post that explains the connection through WebSockets 'cause I'm sure some of you people listening, will want to know about that.
+> **[1:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980&t=81)** It has a [[Node.js]] front-end, and it has a Node.js/[[WebSocket|WebSockets]] backend and like I said, the link is to the Amazon blog post that explains the connection through WebSockets 'cause I'm sure some of you people listening, will want to know about that.
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-key-value-architecture?u=76281980&t=96)** Even though it's not directly related to the NoSQL choice, it's still interesting.
 >
@@ -1157,7 +1142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[NoSQL]] (6), cloud (5), [[Redis]] (4), [[Node.js]] (3)
+> **Frameworks & Libraries:** [[NoSQL]] (6), [[Redis]] (4), [[Node.js]] (3), [[WebSocket|Websockets]] (2), [[Google]] (1)
 > **CLI Commands:** node (3), make (1)
 > **File Paths:** node.js (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1171,18 +1156,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Store events on NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980)
+#### [Store events on NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=0)** - [Narrator] In this next section, let's consider this quote, "Data is the new science.
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=4)** "Big Data holds the answers."
+> **[0:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=4)** "[[Big Data]] holds the answers."
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=6)** From Angela Ahrendts from Apple.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=8)** In this section, we're going to take a look at capturing customer events with NoSQL.
+> **[0:08](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=8)** In this section, we're going to take a look at capturing customer events with [[NoSQL]].
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=14)** A typical type of database that we would select for this type of scenario would be a columnstore.
 >
@@ -1222,11 +1206,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=97)** In a columnstore, the data is stored in column families, in a column-oriented structure.
 >
-> **[1:43](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=103)** And this diagram is from a representation of a service called Dremel that was made by Google that is the basis for a number of their commercial products.
+> **[1:43](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=103)** And this diagram is from a representation of a service called Dremel that was made by [[Google]] that is the basis for a number of their commercial [[Microsoft Products|products]].
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=112)** But it really represents visually the difference in the storage of a columnstore and a rowstore.
 >
-> **[2:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=120)** So some examples of columnar NoSQL databases are, as I mentioned, Cassandra, which was developed at Facebook and then open-sourced and took a kind of familiar route, kind of like Redis and Mongo and some of the other big open-source NoSQL databases.
+> **[2:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=120)** So some examples of columnar NoSQL [[Databases]] are, as I mentioned, Cassandra, which was developed at Facebook and then open-sourced and took a kind of familiar route, kind of like [[Redis]] and Mongo and some of the other big open-source NoSQL databases.
 >
 > **[2:14](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980&t=134)** There's a free version and there's the commercial version.
 >
@@ -1268,7 +1252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[NoSQL]] (6), [[Google]] (6), gcp (5), database (4)
+> **Frameworks & Libraries:** [[NoSQL]] (6), [[Google]] (6), [[Microsoft Products|Products]] (2), [[Databases]] (2), [[Big Data]] (1)
 > **Env Vars:** gcp (5), cap (1)
 > **Cross-References:** earlier in (2), we talked about (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1276,12 +1260,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1), mongo (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use Cloud Cassandra on AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980)
+#### [Use Cloud Cassandra on AWS](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=0)** - [Instructor] So, to look at NoSQL column stores, let's first look on AWS.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=0)** - [Instructor] So, to look at [[NoSQL]] column stores, let's first look on AWS.
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=4)** And in the search box here, we'll type Cassandra.
 >
@@ -1295,7 +1278,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=22)** And you can see here that you have a Cassandra application and then you have your managed service.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=30)** So, if we click Get Started, it's really kind of great, and I wish all NoSQL databases had this.
+> **[0:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=30)** So, if we click Get Started, it's really kind of great, and I wish all NoSQL [[Databases]] had this.
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=36)** Because I know years ago when I was exploring all of them, all the different terms and ways of storing and ways of querying are, as I was mentioning, unique to the NoSQL database type.
 >
@@ -1321,7 +1304,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=81)** Then the next step is we want to create a table in the keyspace.
 >
-> **[1:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=86)** So, it tells you here that tables are the primary data structures, and they're organized into rows and columns.
+> **[1:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=86)** So, it tells you here that tables are the primary [[Data Structures]], and they're organized into rows and columns.
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=91)** Of course, they're going to be a column store underneath the hood.
 >
@@ -1353,7 +1336,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=135)** But of course, under the hood, although this looks quite relational, remember it's a column store.
 >
-> **[2:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=140)** So, in this case, the actual information is stored in a JSON format.
+> **[2:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=140)** So, in this case, the actual information is stored in a [[JSON]] format.
 >
 > **[2:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-cassandra-on-aws?u=76281980&t=146)** So, I love the ability to quickly get going here if you're new to working with Cassandra.
 >
@@ -1379,19 +1362,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (3), data (3), next (2), aws (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[NoSQL]] (3), [[Databases]] (1), [[Data Structures]] (1), [[JSON]] (1)
 > **Env Vars:** aws (1), cql (1), json (1)
 > **CLI Commands:** aws (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use GCP BigTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980)
+#### [Use GCP BigTable](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=0)** - [Narrator] Now in the Google world for columnar noSQL databases we have Bigtable.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=0)** - [Narrator] Now in the [[Google]] world for columnar [[NoSQL]] [[Databases]] we have Bigtable.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=5)** And I went ahead and created an instance already.
 >
@@ -1469,13 +1451,13 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=219)** So set for my table, for column family one, a test value.
 >
-> **[3:44](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=224)** And again I have all this here, in terms of a script on GitHub.
+> **[3:44](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=224)** And again I have all this here, in terms of a script on [[GitHub]].
 >
 > **[3:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=229)** And there's the URL for GitHub.
 >
 > **[3:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=231)** So that you can add a column family, you can view it, you can put a test value, and you can read it.
 >
-> **[3:57](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=237)** So once you put it in, then here we're reading my table and you can see again it's in JSON.
+> **[3:57](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=237)** So once you put it in, then here we're reading my table and you can see again it's in [[JSON]].
 >
 > **[4:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigtable?u=76281980&t=244)** So it's just a little bit different in the way that you interact with it.
 >
@@ -1499,7 +1481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), cloud (5), [[NoSQL]] (3), data (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Google]] (6), [[NoSQL]] (3), [[GitHub]] (2), [[Databases]] (1), [[JSON]] (1)
 > **Env Vars:** ssd (1), hdd (1), gcp (1), cbttrc (1), stk (1)
 > **Code Identifiers:** nosql (2), nosgl (1)
 > **Tools:** github (2), terminal (1)
@@ -1508,18 +1490,17 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use GCP BigQuery
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980)
+#### [Use GCP BigQuery](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=0)** - [Instructor] Now this next NoSQL service isn't really NoSQL, so it's a little bit tricky.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=0)** - [Instructor] Now this next [[NoSQL]] service isn't really NoSQL, so it's a little bit tricky.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=6)** The underlying storage is NoSQL, but the query layer is actually SQL, so but I'm getting ahead of myself.
+> **[0:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=6)** The underlying storage is NoSQL, but the query layer is actually [[SQL]], so but I'm getting ahead of myself.
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=13)** It's called Google BigQuery.
+> **[0:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=13)** It's called [[Google]] BigQuery.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=15)** So in order to use this in your Google Cloud account, if you go to the marketplace and datasets, and that's just off the menu over here, and then I'm just going to search for some data, so I'm going to pick storm data.
+> **[0:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=15)** So in order to use this in your [[Google Cloud Platform (GCP)|Google Cloud]] account, if you go to the marketplace and datasets, and that's just off the menu over here, and then I'm just going to search for some data, so I'm going to pick storm data.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=27)** This is public data, and if you click that, it'll say View Dataset.
 >
@@ -1547,7 +1528,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=100)** Well, the underlying storage is a column store, but you don't see it or care about it because it's serverless.
 >
-> **[1:47](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=107)** And really the brilliance of the service is that the column store is designed for aggregations, so they're sort of the classic data warehousing of events.
+> **[1:47](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=107)** And really the brilliance of the service is that the column store is designed for aggregations, so they're sort of the classic [[Data Warehousing]] of events.
 >
 > **[1:55](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=115)** However, the top query layer, unlike everything else I'm going to show in this course, is actually SQL, so this is NoSQL SQL.
 >
@@ -1567,15 +1548,15 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=173)** The idea is you pay only for the amount of data scanned.
 >
-> **[2:58](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=178)** You don't pay for servers, you don't pay for licenses, you don't pay for hardware.
+> **[2:58](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=178)** You don't pay for servers, you don't pay for licenses, you don't pay for [[Hardware]].
 >
 > **[3:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=183)** You pay for query as a service, if you will.
 >
-> **[3:07](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=187)** And you can see once you run this, you get the result, now this is going to be cached because I already ran it once, and, of course, it's JSON under the hood because we're in a column store situation.
+> **[3:07](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=187)** And you can see once you run this, you get the result, now this is going to be cached because I already ran it once, and, of course, it's [[JSON]] under the hood because we're in a column store situation.
 >
 > **[3:19](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=199)** Also you can look here at the execution details, which you might want to when you're running massive queries so see how you might want to optimize this.
 >
-> **[3:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=208)** And again, this course really isn't getting into the depths of optimization, because each of these products could be its own course, but I will tell you that it is extremely important that you understand how to optimize.
+> **[3:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=208)** And again, this course really isn't getting into the depths of optimization, because each of these [[Microsoft Products|products]] could be its own course, but I will tell you that it is extremely important that you understand how to optimize.
 >
 > **[3:41](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-bigquery?u=76281980&t=221)** This is one where I've actually done quite a bit of production work.
 >
@@ -1615,25 +1596,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[SQL]] (13), [[NoSQL]] (9), [[Google]] (5), database (2)
+> **Frameworks & Libraries:** [[SQL]] (13), [[NoSQL]] (9), [[Google]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Data Warehousing]] (1)
 > **Env Vars:** sql (13), noaa (3), json (1), ansi (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review NoSQL columnar architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980)
+#### [Review NoSQL columnar architecture](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=0)** - [Narrator] So now let's look at applying this Cloud Columnar NoSQL services to an architecture.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=0)** - [Narrator] So now let's look at applying this Cloud Columnar [[NoSQL]] services to an architecture.
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=7)** In this case we're going to be building a scalable Ad Tech application and we want to use column stores for both events, which is individual queries and analytics patterns, which is aggregates queries.
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=20)** Via Pub/Sub on the front-end, which is really typical for events or event streams because usually the events come in in streams.
 >
-> **[0:27](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=27)** Because we're going to actually be working with the Google ecosystem here, we're going to use their middleware product called Dataflow, which is a implementation of open source Apache Beam, which is the distributed data processing platform that many people at Google, and others, worked with.
+> **[0:27](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=27)** Because we're going to actually be working with the [[Google]] ecosystem here, we're going to use their middleware product called Dataflow, which is a implementation of open source Apache Beam, which is the distributed [[Data Processing]] platform that many people at Google, and others, worked with.
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=48)** And importantly, we're going to use a NoSQL Column storer multi service back end.
 >
@@ -1641,9 +1621,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=59)** You can see the information is being collected in the modern way with multiple different types of systems collecting the customer events.
 >
-> **[1:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=69)** So we have beacons, so these could be in, for example, a retail store or they could be at an event, we have back office business systems and we have mobile devices, that in this case are getting push notifications when certain thresholds are met.
+> **[1:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=69)** So we have beacons, so these could be in, for example, a retail store or they could be at an event, we have back [[Microsoft Office|office]] business systems and we have mobile devices, that in this case are getting push notifications when certain thresholds are met.
 >
-> **[1:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=86)** So within Google Cloud, we have Pub/Sub that the events are coming in on, and then our processing is happening on the Dataflow platform.
+> **[1:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=86)** So within [[Google Cloud Platform (GCP)|Google Cloud]], we have Pub/Sub that the events are coming in on, and then our processing is happening on the Dataflow platform.
 >
 > **[1:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=95)** Messaging is going to Pub/Sub and the notifications through App Engine, which is the server list web hosting set of services on GCP.
 >
@@ -1653,11 +1633,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=135)** And, note, it is serverless as well and BigQuery is your analytics store.
 >
-> **[2:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=141)** So you have the SQL layer built on top of the column store and that provides the data warehouse functionality in a serverless fashion.
+> **[2:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-columnar-architecture?u=76281980&t=141)** So you have the [[SQL]] layer built on top of the column store and that provides the data warehouse functionality in a serverless fashion.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), cloud (2), [[NoSQL]] (2), [[Analytics]] (2), data (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[NoSQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Data Processing]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** gcp (1), sql (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** is a  (1)
@@ -1669,22 +1649,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Store customer activity using NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980)
+#### [Store customer activity using NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=0)** - [Instructor] We'll start a discussion of document NoSQL databases with a quote from Werner Vogels, the CTO of Amazon.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=0)** - [Instructor] We'll start a discussion of document [[NoSQL]] [[Databases]] with a quote from Werner Vogels, the CTO of Amazon.
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=6)** He said, it all started in 2004 when Amazon was running Oracle's enterprise edition with clustering and replication.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=13)** We had an advanced team of database administrators and access to top experts within Oracle.
 >
-> **[0:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=18)** We were pushing the limits of what was a leading commercial database at the time, and were unable to sustain the availability, scalability and performance needed that our growing Amazon business demanded.
+> **[0:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=18)** We were pushing the limits of what was a leading commercial database at the time, and were unable to sustain the availability, [[Scalability]] and performance needed that our growing Amazon business demanded.
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=30)** I think that quote is a very useful introduction to document NoSQL databases.
 >
-> **[0:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=37)** Google wasn't the only player who created the basis for what has become a type of NoSQL database.
+> **[0:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=37)** [[Google]] wasn't the only player who created the basis for what has become a type of NoSQL database.
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=44)** In other words, the column stores we just looked at.
 >
@@ -1692,7 +1671,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=54)** So we're going to take a look at storing customer activity with NoSQL.
 >
-> **[0:58](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=58)** Using Documents stores, such as MongoDB and DynamoDB, which is Amazon, to store customer activity.
+> **[0:58](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=58)** Using Documents stores, such as [[MongoDB]] and DynamoDB, which is Amazon, to store customer activity.
 >
 > **[1:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=66)** These stores are going to store behavioral events and documents.
 >
@@ -1710,9 +1689,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=110)** But the value would be a document.
 >
-> **[1:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=113)** Those documents generally take formats that are those such as JSON, which stands for JavaScript Object Notation as shown here.
+> **[1:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=113)** Those documents generally take formats that are those such as [[JSON]], which stands for [[JavaScript]] Object Notation as shown here.
 >
-> **[2:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=123)** BSON, which is Binary Object Notation which is serialized or other forms such as XML.
+> **[2:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=123)** BSON, which is Binary Object Notation which is serialized or other [[Forms]] such as XML.
 >
 > **[2:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980&t=132)** Examples of document NoSQL databases are MongoDB, which is open source or there's a commercial version.
 >
@@ -1750,7 +1729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (11), [[Databases]] (7), [[MongoDB]] (6), database (5), aws (3)
+> **Frameworks & Libraries:** [[NoSQL]] (11), [[Databases]] (7), [[MongoDB]] (6), [[Scalability]] (1), [[Google]] (1)
 > **Env Vars:** aws (3), cto (1), json (1), bson (1), xml (1)
 > **Definitions:** is a  (3), in other words (1), stands for (1)
 > **Analogies:** such as (5)
@@ -1759,14 +1738,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Cloud MongoDB on GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980)
+#### [Use Cloud MongoDB on GCP](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=0)** - [Instructor] Let's take a look at MongoDB on GCP.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=0)** - [Instructor] Let's take a look at [[MongoDB]] on GCP.
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=4)** In order to do that, as with previous examples, just go into the search box here in the web UI, and type Mongo, and you'll see that we have a number of choices and as with Redis, when we looked at that in a previous movie, you can see here that we have Google supported deployments through the Google marketplace.
+> **[0:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=4)** In order to do that, as with previous examples, just go into the search box here in the web UI, and type Mongo, and you'll see that we have a number of choices and as with [[Redis]], when we looked at that in a previous movie, you can see here that we have [[Google]] supported deployments through the Google marketplace.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=27)** And, I've gone ahead and set one of these up 'cause it takes a few minutes, and you'll notice here that some of them are administered by Google and some of them are administered by Mongo, so it's a similar type of decision factor as what we've seen.
 >
@@ -1786,7 +1764,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=143)** So once it's deployed, what you have is you have this, which shows the deployment and it gives you more information.
 >
-> **[2:32](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=152)** Again, this really helps you get up and running quickly, so it's a tip when you're evaluating NoSQL rather than, you know, going through the pain of installing this manually on either a local virtual machine or a cloud based virtual machine using the marketplace, is really very important when you're evaluating.
+> **[2:32](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=152)** Again, this really helps you get up and running quickly, so it's a tip when you're evaluating [[NoSQL]] rather than, you know, going through the pain of installing this manually on either a local virtual machine or a cloud based virtual machine using the marketplace, is really very important when you're evaluating.
 >
 > **[2:52](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=172)** So you can see once it's set up, then how do you connect to it?
 >
@@ -1798,7 +1776,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=214)** So this the Mongo client.
 >
-> **[3:36](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=216)** And again, just to be clear on this, this Google Cloud shell is a separate VM, so it's a client machine, it's not the actual cluster.
+> **[3:36](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=216)** And again, just to be clear on this, this [[Google Cloud Platform (GCP)|Google Cloud]] shell is a separate VM, so it's a client machine, it's not the actual cluster.
 >
 > **[3:44](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-cloud-mongodb-on-gcp?u=76281980&t=224)** And now, we're in the Mongo prompt.
 >
@@ -1824,7 +1802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), cloud (4), database (4), [[Search]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3)
+> **Frameworks & Libraries:** [[Google]] (8), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[MongoDB]] (2), [[NoSQL]] (2), [[Redis]] (1)
 > **CLI Commands:** mongo (11), gcloud (1), make (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), similar to (1)
@@ -1833,8 +1811,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** template (1)
 
-#### Use AWS DocumentDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980)
+#### [Use AWS DocumentDB](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1842,35 +1819,35 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=6)** So if I type mongo, again, I really like the clever search capability here, remember when we typed Cassandra, we got a last to cache, so Amazon's doing a good job with SEO here.
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=16)** So we have a relatively new offering called DocumentDB, and DocumentDB is a MongoDB compatible database service.
+> **[0:16](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=16)** So we have a relatively new offering called DocumentDB, and DocumentDB is a [[MongoDB]] compatible database service.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=24)** Now, the cynical among us would say that Amazon is simply trying to basically eliminate all their competitors by creating alternative solutions and I think you wouldn't be wrong in this particular case because, rater than optimize MongoDB for AWS, Amazon has gone the route of creating their own Mongo compatible version, so direct competition.
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=47)** So it's called DocumentDB, I've already made one here, but I'm going to go ahead and click Create and show you what this would look like.
 >
-> **[0:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=53)** It's very much in the vain of the managed NoSQL databases, so you can create a cluster, you set up the instance class, the number of instances to set up the authentication, the username, the password, it tells you how much it will cost, and then you create the cluster, and this takes, again, about five, ten minutes, it is server based, and you have the ability to have manage the instances and make snapshots as well.
+> **[0:53](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=53)** It's very much in the vain of the managed [[NoSQL]] [[Databases]], so you can create a cluster, you set up the instance class, the number of instances to set up the authentication, the username, the password, it tells you how much it will cost, and then you create the cluster, and this takes, again, about five, ten minutes, it is server based, and you have the ability to have manage the instances and make snapshots as well.
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=78)** So I've set this up, and you can see once you do that, then it gives you the ability to connect.
 >
-> **[1:25](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=85)** You can connect as a Mongo client and you can see here, this is the command that you would use from your separate, in this case, EC2 instance, to connect.
+> **[1:25](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=85)** You can connect as a Mongo client and you can see here, this is the command that you would use from your separate, in this case, [[Amazon EC2|EC2]] instance, to connect.
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=96)** You also could connect with an application, which would be a typical sort of production use case of this.
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=102)** You can see information about your particular cluster, including the endpoints, information about the backups, so on and so forth.
 >
-> **[1:50](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=110)** Now, I will leave the client configuration as an exercise for you since we just did it in Google.
+> **[1:50](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=110)** Now, I will leave the client configuration as an exercise for you since we just did it in [[Google]].
 >
 > **[1:56](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=116)** You can see here is the directions, it's really very similar, you would have to spin up an EC2 instance, and then you install the Mongo shell, and then once you install the Mongo shell, and then you would use that command that I pointed out there to connect from the client, and then you would be able to use the Mongo shell as we did previous movie using the Google instance of this, and you can see here's an example using the Mongo shell of inserting a more typical sized document.
 >
-> **[2:31](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=151)** You might remember from previous movie, we just said X is one, but this is sort of a more typical ragged, nested JSON document, so in this case, db.inventory.insert, and here's the document, and then here, we're calling a find command, and if we wanted to update, we would update here, and then we could delete, which is called remove in this syntax.
+> **[2:31](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=151)** You might remember from previous movie, we just said X is one, but this is sort of a more typical ragged, nested [[JSON]] document, so in this case, db.inventory.insert, and here's the document, and then here, we're calling a find command, and if we wanted to update, we would update here, and then we could delete, which is called remove in this syntax.
 >
-> **[2:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=174)** Now one of the reasons I am showing you this page is, if this syntax just seems really strange to you if you come from a SQL background, well that kind of is the point.
+> **[2:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=174)** Now one of the reasons I am showing you this page is, if this syntax just seems really strange to you if you come from a [[SQL]] background, well that kind of is the point.
 >
 > **[3:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=183)** I've been talking about the challenge of learning the particular data access language for the particular type of NoSQL implementation that you select, and again, I keep saying it 'cause it's nontrivial.
 >
 > **[3:17](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=197)** I've seen many a dev group just really not consider how long it's going to take them to figure out how to use this syntax if they have a relational background.
 >
-> **[3:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=208)** Now not every dev group does, some come directly out of maybe university and they've never actually worked with relational databases, so they don't have to unlearn it, but in any case, it's not a like for like, and that's really, really important.
+> **[3:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=208)** Now not every dev group does, some come directly out of maybe university and they've never actually worked with [[Relational Databases]], so they don't have to unlearn it, but in any case, it's not a like for like, and that's really, really important.
 >
 > **[3:41](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-documentdb?u=76281980&t=221)** So when you are going through and setting up, you're going to want to always get to the point of creating the cluster, creating the database, and then doing a hello world, which is inserting some data, maybe updating it and deleting it, so you can at least get that level of functionality to understand what it's like to work with the NoSQL product, and again, as an aside, I have to tell you, and having worked with tens and maybe even 50 different NoSQL databases, sometimes just doing that can take too much time, which will tell you quite a lot about the functionality.
 >
@@ -1878,7 +1855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (6), database (3), [[Databases]] (3), aws (2), [[MongoDB]] (2)
+> **Frameworks & Libraries:** [[NoSQL]] (6), [[Databases]] (3), [[MongoDB]] (2), [[Amazon EC2|Ec2]] (2), [[Google]] (2)
 > **CLI Commands:** mongo (8), aws (2), make (1), find (1)
 > **Env Vars:** aws (2), ec2 (2), seo (1), json (1), sql (1)
 > **Prerequisites:** set up (3), install (2)
@@ -1886,12 +1863,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use AWS DynamoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980)
+#### [Use AWS DynamoDB](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=0)** - [Instructor] Next up in document and key value NoSQL databases is probably the most widely used now NoSQL database in the world, and that's DynamoDB.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=0)** - [Instructor] Next up in document and key value [[NoSQL]] [[Databases]] is probably the most widely used now NoSQL database in the world, and that's DynamoDB.
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=11)** As I said in my introduction to this section, through the quote with Werner Vogels, the Amazon CTO, Amazon productized this technology that they used to solve their own business problem and I think because of this, this service has been quite revolutionary and highly usable since its initial release and Amazon really just continually improves it.
 >
@@ -1913,7 +1889,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=89)** It's vendor-determined capacity.
 >
-> **[1:32](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=92)** It has alarms set at 80% upper threshold and an encryption at rest, with default encryption type.
+> **[1:32](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=92)** It has alarms set at 80% upper threshold and an encryption at [[Representational State Transfer (REST)|rest]], with default encryption type.
 >
 > **[1:39](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=99)** And, I don't have the required role to enable auto scaling by default.
 >
@@ -1925,7 +1901,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=115)** So the creation is going to be almost instantaneous and the UI here is great, it's really easy to use.
 >
-> **[2:01](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=121)** Of course, in any production situation, you're going to use the AWS CLI and script.
+> **[2:01](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=121)** Of course, in any production situation, you're going to use the AWS [[CLI]] and script.
 >
 > **[2:07](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=127)** Any of the work with the tables and check that under your source control.
 >
@@ -1957,9 +1933,9 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=198)** So I'm just doing key value pairs and then here, notice the data types, and then I'm going to click save.
 >
-> **[3:31](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=211)** Notice, here's my item and if I click into it, I can see the text or the tray the text is in, json, and notice I have a DynamoDB json, which shows me the allocated information here on lines 3, 6, and 9.
+> **[3:31](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=211)** Notice, here's my item and if I click into it, I can see the text or the tray the text is in, [[JSON]], and notice I have a DynamoDB json, which shows me the allocated information here on lines 3, 6, and 9.
 >
-> **[3:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=229)** Now in terms of querying, querying here is very non SQL like so it's very important that you understand how to query.
+> **[3:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=229)** Now in terms of querying, querying here is very non [[SQL]] like so it's very important that you understand how to query.
 >
 > **[3:56](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=236)** I could do a whole course on this.
 >
@@ -2003,11 +1979,11 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=384)** We have contributor insights, triggers.
 >
-> **[6:27](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=387)** And another thing I want to talk about is DAX.
+> **[6:27](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=387)** And another thing I want to talk about is [[DAX]].
 >
 > **[6:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=390)** So DAX is in response to competition of in memory, large NoSQL type of stores.
 >
-> **[6:38](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=398)** Not just Redis, other ones as well, they call 'em accelerators.
+> **[6:38](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=398)** Not just [[Redis]], other ones as well, they call 'em accelerators.
 >
 > **[6:42](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-dynamodb?u=76281980&t=402)** So Amazon calls DAX, DynamoDB accelerator.
 >
@@ -2025,7 +2001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (10), data (7), [[Databases]] (3), database (3), cloud (3)
+> **Frameworks & Libraries:** [[NoSQL]] (10), [[Databases]] (3), [[DAX]] (3), [[JSON]] (2), [[Redis]] (2)
 > **Env Vars:** dax (3), ttl (2), cto (1), aws (1), cli (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Definitions:** is a  (3), in other words (1)
@@ -2034,12 +2010,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review NoSQL document architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980)
+#### [Review NoSQL document architecture](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=0)** - [Instructor] Let's look now at a reference cloud document, NoSQL Architecture.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=0)** - [Instructor] Let's look now at a reference cloud document, [[NoSQL]] Architecture.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=5)** This one was actually published by Amazon.
 >
@@ -2065,7 +2040,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=54)** It's actually amazingly simple.
 >
-> **[0:57](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=57)** So what has been interesting in the mobile development space is the implementation of frameworks which sit on top of cloud based services.
+> **[0:57](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=57)** So what has been interesting in the [[Mobile Development]] space is the implementation of frameworks which sit on top of cloud based services.
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=69)** For Amazon, that framework is called Amplify.
 >
@@ -2083,7 +2058,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=126)** So customers table and whatever fields or columns would be in that table would then build tables in Dynamo and really until we got to the point of diving into the performance of the application, they were aware the Dynamo tables were there, but they were really working at a higher level, they were working at the Amplify level.
 >
-> **[2:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=146)** So it kind of reminded me of the days of having object of relational mappers in the relational database world when we had layers up above the databases.
+> **[2:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=146)** So it kind of reminded me of the days of having object of relational mappers in the relational database world when we had layers up above the [[Databases]].
 >
 > **[2:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=157)** But this was interesting coz it wasn't just database, other services as well.
 >
@@ -2091,15 +2066,15 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=169)** It is used for key value storage.
 >
-> **[2:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=171)** It's used for document storage, there are some tables that are using the DAX accelerator so they're in memory they're hot tables.
+> **[2:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=171)** It's used for document storage, there are some tables that are using the [[DAX]] accelerator so they're in memory they're hot tables.
 >
 > **[2:58](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=178)** So I think growing trend I see having these vendor services, and most of them are serverless just be the sort all in one, NoSQL store on that vendor platform.
 >
-> **[3:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=193)** Now, that's not to say that using other databases such as MongoDB, or Redis, or Cassandra would be poor choice.
+> **[3:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=193)** Now, that's not to say that using other databases such as [[MongoDB]], or [[Redis]], or Cassandra would be poor choice.
 >
 > **[3:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=200)** It's really all about speed.
 >
-> **[3:23](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=203)** And because Amazon and Google have been quickly building features into their own NoSQL services, it's becoming increasingly difficult to find value in services that are built outside of these ecosystems.
+> **[3:23](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=203)** And because Amazon and [[Google]] have been quickly building features into their own NoSQL services, it's becoming increasingly difficult to find value in services that are built outside of these ecosystems.
 >
 > **[3:40](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-document-architecture?u=76281980&t=220)** So it's a real interesting sort of situation, because on one hand of course you don't get locked into the vendor, probably.
 >
@@ -2109,7 +2084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (5), application (5), cloud (3), database (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[NoSQL]] (5), [[Databases]] (2), [[Mobile Development]] (1), [[DAX]] (1), [[MongoDB]] (1)
 > **Definitions:** is called (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dax (1)
@@ -2121,18 +2096,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Store customer relations using NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980)
+#### [Store customer relations using NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=0)** - [Instructor] To open this section, here's a quote from Eric Schmidt from Google.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=0)** - [Instructor] To open this section, here's a quote from Eric Schmidt from [[Google]].
 >
 > **[0:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=3)** "There were 5 exabytes of information created between the dawn of civilization through 2003, but that much information is now created every 2 days."
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=12)** In this section, we're going to analyze customer activity with NoSQL.
+> **[0:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=12)** In this section, we're going to analyze customer activity with [[NoSQL]].
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=15)** We're going to look at graph databases, such as Neo4j that store data and importantly, their relationships between the data items.
+> **[0:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=15)** We're going to look at graph [[Databases]], such as [[Neo4j]] that store data and importantly, their relationships between the data items.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=24)** This is defined as nodes and edges that are stored in graphs.
 >
@@ -2146,9 +2120,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=51)** And, this is from a vendor documentation for graph databases.
 >
-> **[0:55](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=55)** You can see it's the entities, so John, Andrew, Sara, for example.
+> **[0:55](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=55)** You can see it's the entities, so [[John the Ripper|John]], Andrew, Sara, for example.
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=60)** And they can have metadata, such as labels, users in this case.
+> **[1:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=60)** And they can have [[Metadata]], such as labels, users in this case.
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980&t=64)** They can have properties, such as John has a username, a city, a notifications and a registration date.
 >
@@ -2190,29 +2164,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (5), [[Neo4j]] (4), [[NoSQL]] (3), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Neo4j]] (4), [[John the Ripper|John]] (4), [[NoSQL]] (3), [[Databases]] (3), [[Google]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** csv (1), sparql (1), rdf (1), aws (1)
 > **Definitions:** defined as (1), is a  (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Neo4j on Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980)
+#### [Use Neo4j on Kubernetes](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=0)** So let's start by taking a look at a pattern that we've seen throughout this course.
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=4)** And this is a vendor or a Google optimized implementation on GCP.
+> **[0:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=4)** And this is a vendor or a [[Google]] optimized implementation on GCP.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=9)** So, in the GCP console, I've typed neo4j and you can see we have a lot of different configurations to pick from.
+> **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=9)** So, in the GCP console, I've typed [[Neo4j]] and you can see we have a lot of different configurations to pick from.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=17)** The one that caught my eye was the casual cluster.
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=19)** So let's take a look at it.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=21)** What this does is this is a Kubernetes app so this uses containers.
+> **[0:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=21)** What this does is this is a [[Kubernetes]] app so this uses containers.
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=26)** And for those of you who've done any work with Kubernetes, that's a whole set of learning steps in and of itself and if you layer on properly setting up a distributed no sequel database, that's a lot to do.
 >
@@ -2240,11 +2213,11 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=109)** And now I'm going to show you what the completed deployment looks like.
 >
-> **[1:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=114)** So this took, oh gosh, maybe about five minutes to do, and what it does is it sets up on the Kubernetes cluster and Kubernetes, of course is backed by Google Compute Engine virtual machines, but you don't see that, it's basically all done for you when the Kubernetes cluster is set up.
+> **[1:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=114)** So this took, oh gosh, maybe about five minutes to do, and what it does is it sets up on the Kubernetes cluster and Kubernetes, of course is backed by Google Compute Engine [[Virtual Machines]], but you don't see that, it's basically all done for you when the Kubernetes cluster is set up.
 >
 > **[2:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=132)** And then on top of that, the neo4j casual cluster is set up.
 >
-> **[2:17](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=137)** And you can see you've got some nice documentation here, that tells you how to then access, because, as with all the other no sequel databases you then need a client to work with.
+> **[2:17](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=137)** And you can see you've got some nice documentation here, that tells you how to then access, because, as with all the other no sequel [[Databases]] you then need a client to work with.
 >
 > **[2:29](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=149)** This becomes a little bit more tricky because you're not working with the Ms here you're working with Kubernetes cluster and so you have to figure out how to connect to the appropriate node in the cluster.
 >
@@ -2268,7 +2241,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=227)** And you can see that the first line here is, I got the container credentials.
 >
-> **[3:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=234)** And then once I did that, then I passed the rest of this through, passing in the container name here.
+> **[3:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=234)** And then once I did that, then I passed the [[Representational State Transfer (REST)|rest]] of this through, passing in the container name here.
 >
 > **[4:01](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=241)** And then once that was run, then I was able to work with the shell.
 >
@@ -2288,7 +2261,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=292)** Also, some of you might be interested in how to import data, so inside of the manual here, basically the sort of canonical movies example and they have the data, that's here, so persons, movies and roles, so you'd have to create these CSV files put them in a bucket, and then you would import them.
 >
-> **[5:11](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=311)** And that would be here, or it says load CSV, this would be into a Google Cloud Storage bucket.
+> **[5:11](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=311)** And that would be here, or it says load CSV, this would be into a [[Google Cloud Platform (GCP)|Google Cloud]] Storage bucket.
 >
 > **[5:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-neo4j-on-kubernetes?u=76281980&t=318)** So then you could run the canonical movie example.
 >
@@ -2304,7 +2277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Neo4j]] (8), [[Google]] (5), [[Databases]] (4), gcp (3)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Neo4j]] (8), [[Google]] (5), [[Databases]] (4), [[Virtual Machines]] (1)
 > **Prerequisites:** set up (5), setup (2), configure (1)
 > **Env Vars:** gcp (3), csv (2), a81 (1), ctl (1)
 > **Definitions:** is a  (5)
@@ -2313,18 +2286,17 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Documentation:** the documentation (1)
 
-#### Use AWS Neptune
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980)
+#### [Use AWS Neptune](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=0)** - Now for this next example we'll look at Amazon.
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=4)** So here if we type, Neo4J we don't find anything.
+> **[0:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=4)** So here if we type, [[Neo4j]] we don't find anything.
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=8)** Then, of course, you may remember from the earlier movie that Amazon has an alternative.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=12)** And this is you know, just kind of similar throughout this course where Google seems to be supporting the open source version and Amazon seems to be creating an alternative version.
+> **[0:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=12)** And this is you know, just kind of similar throughout this course where [[Google]] seems to be supporting the open source version and Amazon seems to be creating an alternative version.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=22)** Which one's better?
 >
@@ -2388,11 +2360,11 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=189)** And this is indeed a Jupiter Notebook and this is served up by the Amazon Sage Maker ecosystem.
 >
-> **[3:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=195)** And the idea here is that rather than having client I guess would be a Gremlin client or a Sparkle client on a separate EC2 instance you could use those libraries through a Jupiter Notebook.
+> **[3:15](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=195)** And the idea here is that rather than having client I guess would be a Gremlin client or a Sparkle client on a separate [[Amazon EC2|EC2]] instance you could use those libraries through a Jupiter Notebook.
 >
-> **[3:29](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=209)** And I just find this interesting because this comes to me out of the data science world.
+> **[3:29](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=209)** And I just find this interesting because this comes to me out of the [[Data Science]] world.
 >
-> **[3:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=215)** So my experience is that graph databases are often combined with machine learning workloads and so I think that's where the notebook client is coming in.
+> **[3:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=215)** So my experience is that graph [[Databases]] are often combined with machine learning workloads and so I think that's where the notebook client is coming in.
 >
 > **[3:47](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-neptune?u=76281980&t=227)** I think it's interesting they built it into the interface.
 >
@@ -2426,7 +2398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (4), [[Neo4j]] (3), [[Amazon EC2|Ec2]] (3), next (2)
+> **Frameworks & Libraries:** [[Neo4j]] (3), [[Amazon EC2|Ec2]] (3), [[Google]] (1), [[Data Science]] (1), [[Databases]] (1)
 > **Env Vars:** rdf (5), ec2 (3), vpc (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **CLI Commands:** find (3), make (1)
@@ -2435,12 +2407,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), open the (1)
 > **Best Practices:** remember to (1)
 
-#### Review NoSQL Graph architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980)
+#### [Review NoSQL Graph architecture](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=0)** - [Narrator] In terms of looking at an architecture for a graph NoSQL database.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=0)** - [Narrator] In terms of looking at an architecture for a graph [[NoSQL]] database.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=5)** Let's evaluate using one for a scalable marketing customer-analysis application.
 >
@@ -2458,7 +2429,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=37)** The idea is that you have an object store or a huge file system.
 >
-> **[0:41](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=41)** So in the Amazon case of S3 in Google would be Google cloud storage buckets and you apply layers on top of that So that becomes your storage facility.
+> **[0:41](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=41)** So in the Amazon case of S3 in [[Google]] would be [[Google Cloud Platform (GCP)|Google cloud]] storage buckets and you apply layers on top of that So that becomes your storage facility.
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=52)** So this comes out of the Amazon ecosystem and this was from a blog posts.
 >
@@ -2466,7 +2437,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=62)** So the idea is that you have users accessing a Neptune utilities and an Apache gremlin client.
 >
-> **[1:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=69)** So custom application on an EC2 instance, or could be (mumbles) Kubernetes, some kind of compute inside the VPC and that is going to generate twitter like data into the data Lake so Amazon S3 and then that is going to interact with Amazon Neptune, which is going to use gremlin queries over Amazon Neptune and perform an aggregation of the data that's been analyzed for relationships with the data that is just stored in the data Lake.
+> **[1:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=69)** So custom application on an [[Amazon EC2|EC2]] instance, or could be (mumbles) [[Kubernetes]], some kind of compute inside the VPC and that is going to generate twitter like data into the data Lake so Amazon S3 and then that is going to interact with Amazon Neptune, which is going to use gremlin queries over Amazon Neptune and perform an aggregation of the data that's been analyzed for relationships with the data that is just stored in the data Lake.
 >
 > **[1:47](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/review-nosql-graph-architecture?u=76281980&t=107)** So Neptune is performing the analysis of the data in the data Lake.
 >
@@ -2478,7 +2449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[NoSQL]] (3), database (3), application (3), cloud (2)
+> **Frameworks & Libraries:** [[NoSQL]] (3), [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Amazon EC2|Ec2]] (1), [[Kubernetes]] (1)
 > **Env Vars:** ec2 (1), vpc (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** we discussed (1)
@@ -2492,22 +2463,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Store real-time events using NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980)
+#### [Store real-time events using NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=0)** - [Instructor] Let's start with this quote from Thomas Davenport.
 >
-> **[0:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=3)** "Every company has big data in its future "and every company will eventually be in the data business."
+> **[0:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=3)** "Every company has [[Big Data]] in its future "and every company will eventually be in the data business."
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=9)** In this section, we're going to look at what I call specialty NoSQL databases.
+> **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=9)** In this section, we're going to look at what I call specialty [[NoSQL]] [[Databases]].
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=14)** As the NoSQL ecosystem matures, it's interesting to see how the databases evolve to meet customer demands.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=23)** And the top level trend here is time-based events coming from devices.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=28)** So in this section, we're going to look at specialty built NoSQL databases that can store real-time events using NoSQL, and we'll start with looking at two versions of a GCP popular NoSQL event database, Firebase and Firestore, and the idea with this is we're going to store time-based event data.
+> **[0:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=28)** So in this section, we're going to look at specialty built NoSQL databases that can store [[Real-Time]] events using NoSQL, and we'll start with looking at two versions of a GCP popular NoSQL event database, [[Firebase]] and Firestore, and the idea with this is we're going to store time-based event data.
 >
 > **[0:50](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=50)** Depending on whether it's Firebase or Firestore, data will be stored and made available in either real time or near real time.
 >
@@ -2523,7 +2493,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=86)** And we'll start by looking at these two.
 >
-> **[1:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=88)** So Firebase stores one large JSON tree.
+> **[1:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=88)** So Firebase stores one large [[JSON]] tree.
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980&t=91)** It is a complex, hierarchical structure, it's harder to organize at scale 'cause it's a single structure.
 >
@@ -2539,13 +2509,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[NoSQL]] (5), gcp (5), [[Firebase]] (5), [[Databases]] (3)
+> **Frameworks & Libraries:** [[NoSQL]] (5), [[Firebase]] (5), [[Databases]] (3), [[Big Data]] (1), [[Real-Time]] (1)
 > **Env Vars:** gcp (5), json (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use GCP Firestore
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980)
+#### [Use GCP Firestore](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2563,7 +2532,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=17)** They have two different API's.
 >
-> **[0:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=20)** The scalability is different.
+> **[0:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=20)** The [[Scalability]] is different.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=22)** App Engine support is different.
 >
@@ -2583,7 +2552,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=57)** And I'm going to click create database.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=59)** Now while I'm doing that, I'm going to navigate over to the Firebase web UI, which as I mentioned the previous movie, because Google acquired Firebase is still separate as of this recording from the GCP console.
+> **[0:59](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=59)** Now while I'm doing that, I'm going to navigate over to the [[Firebase]] web UI, which as I mentioned the previous movie, because [[Google]] acquired Firebase is still separate as of this recording from the GCP console.
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=72)** And you can see here, the recommendation is also to use firestore.
 >
@@ -2593,7 +2562,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=85)** It looks similar, but not quite the same.
 >
-> **[1:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=88)** This is designed for very rapid mobile development.
+> **[1:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=88)** This is designed for very rapid [[Mobile Development]].
 >
 > **[1:32](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-gcp-firestore?u=76281980&t=92)** And it provides a number of services that sit on top of this real time database.
 >
@@ -2617,7 +2586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (4), cloud (3), data (3), database (3), web (2)
+> **Frameworks & Libraries:** [[Firebase]] (2), [[Scalability]] (1), [[Google]] (1), [[Mobile Development]] (1)
 > **Env Vars:** gcp (4), api (1)
 > **Tools:** gcp console (3)
 > **Definitions:** is a  (2), in other words (1)
@@ -2625,18 +2594,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Store IoT events
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980)
+#### [Store IoT events](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=0)** - [Instructor] Now we're going to take a overview look at what I think is really the future of NoSQL.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=0)** - [Instructor] Now we're going to take a overview look at what I think is really the future of [[NoSQL]].
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=6)** And this is through the lens of IoT, or Internet of Things.
+> **[0:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=6)** And this is through the lens of [[IoT]], or [[IoT|Internet of Things]].
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=9)** I have quite a bit of familiarity with the AWS IoT ecosystem, having worked in a production setting a few years ago when the services were relatively new, for over a year.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=21)** And what has been interesting to see is how across the cloud ecosystem, whether it's Amazon, Google, or Azure, how these purpose-built systems are evolving because of demand.
+> **[0:21](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=21)** And what has been interesting to see is how across the cloud ecosystem, whether it's Amazon, [[Google]], or [[Microsoft Azure|Azure]], how these purpose-built systems are evolving because of demand.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=35)** IoT is one of the big drivers and creators of data that would be appropriate for NoSQL.
 >
@@ -2694,7 +2662,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=203)** 'Cause we had competitive pressure.
 >
-> **[3:25](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=205)** So Iot events is a subset of the IoT core, which is a layer of abstraction on top of several types of NoSQL databases.
+> **[3:25](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=205)** So Iot events is a subset of the IoT core, which is a layer of abstraction on top of several types of NoSQL [[Databases]].
 >
 > **[3:32](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-iot-events?u=76281980&t=212)** And it actually provides a graphical design input, I'll show you it in the subsequent movie, but the concepts are, you have device inputs, and then the IoT Events service, which is to release all of these new services.
 >
@@ -2710,25 +2678,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (17), data (10), [[NoSQL]] (9), aws (4), cloud (2)
+> **Frameworks & Libraries:** [[IoT]] (17), [[NoSQL]] (9), [[IoT|Internet of things]] (1), [[Google]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (4), is an  (3)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (4)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use AWS IoT events
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-iot-events?u=76281980)
+#### [Use AWS IoT events](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-iot-events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-iot-events?u=76281980&t=0)** - [Instructor] Here we are in the AWS management console, and if we scroll down you can see in the IOT section or Internet of Things, we have really a large list of services.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-iot-events?u=76281980&t=0)** - [Instructor] Here we are in the AWS management console, and if we scroll down you can see in the [[IoT]] section or [[IoT|Internet of Things]], we have really a large list of services.
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-iot-events?u=76281980&t=11)** The first service that typically you start with is IOT core and that allows you to setup your database and your connection to your external devices and they're called things, so we'll see that referenced in the events section.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-iot-events?u=76281980&t=28)** You can see that we have a number of analytic capabilities including IOT analytics, we have 1-Click, we have Device Defender, Device Management, Greengrass which runs IOT on the device rather than in the cloud, we have SiteWise and Things Graph.
+> **[0:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-iot-events?u=76281980&t=28)** You can see that we have a number of analytic capabilities including IOT analytics, we have 1-Click, we have Device [[Microsoft Defender|Defender]], Device Management, Greengrass which runs IOT on the device rather than in the cloud, we have SiteWise and Things Graph.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-iot-events?u=76281980&t=45)** We're going to drill into events, because again it represents a layer of abstraction over the underlying noSQL database that I think is interesting for IOT, and 'cause it represents I think where noSQL is going in terms of the value that the cloud vendors are providing.
+> **[0:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-iot-events?u=76281980&t=45)** We're going to drill into events, because again it represents a layer of abstraction over the underlying [[NoSQL]] database that I think is interesting for IOT, and 'cause it represents I think where noSQL is going in terms of the value that the cloud vendors are providing.
 >
 > **[1:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-iot-events?u=76281980&t=63)** So inside of IOT events we remember from the previous movie that basically it is a framework to help us to set up thresholds for events on our particular devices and actions.
 >
@@ -2758,7 +2725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (11), [[NoSQL]] (6), database (3), management (2), cloud (2)
+> **Frameworks & Libraries:** [[IoT]] (11), [[NoSQL]] (6), [[IoT|Internet of things]] (1), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** iot (11), aws (1), api (1), mqtt (1), tcpip (1)
 > **Code Identifiers:** nosql (6)
 > **Definitions:** is a  (2), is called (1), is an  (1)
@@ -2767,12 +2734,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** aws (1)
 
-#### Use AWS TimeStream
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980)
+#### [Use AWS TimeStream](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=0)** - Yet another innovation announced by AWS at last years Reinvent was a new NoSQL database to further augment IOT and other event scenarios.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=0)** - Yet another innovation announced by AWS at last years Reinvent was a new [[NoSQL]] database to further augment [[IoT]] and other event scenarios.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=13)** As of this recording this product is not yet publicly available.
 >
@@ -2784,9 +2750,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=35)** So time-based event data bases, \such as the newly announced AWS TimeStream.
 >
-> **[0:41](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=41)** The data will be stored and query able via time windows.
+> **[0:41](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=41)** The data will be stored and query able via time [[Windows]].
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=45)** Now this is a capability that we've had in relational databases via windowing functions for quite a while.
+> **[0:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=45)** Now this is a capability that we've had in [[Relational Databases]] via windowing functions for quite a while.
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=51)** So you might wonder what is the purpose of this?
 >
@@ -2812,7 +2778,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=148)** All that is included in what you're getting from the vendor.
 >
-> **[2:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=153)** So I haven't seen competitive TimeStream type databases yet available from the other cloud vendors.
+> **[2:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=153)** So I haven't seen competitive TimeStream type [[Databases]] yet available from the other cloud vendors.
 >
 > **[2:40](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-timestream?u=76281980&t=160)** So I think this will be an interesting area to watch as Amazon leads here and to see what the adoption is around this solution.
 >
@@ -2824,7 +2790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (7), data (7), [[IoT]] (5), database (4), aws (3)
+> **Frameworks & Libraries:** [[NoSQL]] (7), [[IoT]] (5), [[Windows]] (2), [[Relational Databases]] (1), [[Databases]] (1)
 > **Env Vars:** iot (5), aws (3)
 > **CLI Commands:** aws (3)
 > **Definitions:** is a  (2), in other words (1)
@@ -2832,12 +2798,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - yet (1)
 
-#### Store blockchain entries using NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-blockchain-entries-using-nosql?u=76281980)
+#### [Store blockchain entries using NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-blockchain-entries-using-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-blockchain-entries-using-nosql?u=76281980&t=0)** - [Woman] The next type of NoSQL data base is designed to store blockchain data.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-blockchain-entries-using-nosql?u=76281980&t=0)** - [Woman] The next type of [[NoSQL]] data base is designed to store [[Blockchain]] data.
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-blockchain-entries-using-nosql?u=76281980&t=4)** An example of this is Amazon QLDB or quantum ledger database.
 >
@@ -2873,14 +2838,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (9), data (3), next (2), aws (2), [[NoSQL]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (9), [[NoSQL]] (1)
 > **Env Vars:** qldb (7), aws (2)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** aws (2)
 > **Speakers:** - [woman] (1)
 
-#### Use AWS QLDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-qldb?u=76281980)
+#### [Use AWS QLDB](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-qldb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2936,11 +2900,11 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-qldb?u=76281980&t=165)** I think if you just ran through it quickly, it would be faster.
 >
-> **[2:48](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-qldb?u=76281980&t=168)** To summarize, Amazon QLDB does not require that you use Amazon blockchain, but these two are often used together.
+> **[2:48](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/use-aws-qldb?u=76281980&t=168)** To summarize, Amazon QLDB does not require that you use Amazon [[Blockchain]], but these two are often used together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (1)
 > **Env Vars:** qldb (2), vin (1), sha (1)
 > **UI Navigation:** open the (1), go to (1)
 > **CLI Commands:** make (1)
@@ -2948,16 +2912,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - here (1)
 
-#### Google Cloud Vertex AI Vector Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980)
+#### [Google Cloud Vertex AI Vector Search](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=0)** - [Instructor] In the world of NoSQL, vector-databases are being increasingly used in generative AI solutions.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=0)** - [Instructor] In the world of [[NoSQL]], vector-[[Databases]] are being increasingly used in [[Generative AI]] solutions.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=9)** What is a vector-database and how do you actually use it?
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=13)** Well, you can see by the graphic here that we take our content, and rather than just querying directly using a query engine like SQL or a query language associated, there is an interim step, which is called embedding.
+> **[0:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=13)** Well, you can see by the graphic here that we take our content, and rather than just querying directly using a query engine like [[SQL]] or a query language associated, there is an interim step, which is called embedding.
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=28)** What this embedding does is it translates the source data into a numerical representation, a set of vectors.
 >
@@ -2965,7 +2928,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=45)** The purpose of this is to take semi-structured data and to represent it in a highly efficient manner so that queries can be performed against thousands, tens of thousands, or even millions of dimensions of data.
 >
-> **[1:05](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=65)** While there are many open source solutions, such as ChromaDB, a new way to work with vector-databases if you work on the cloud, is to use vendor created solutions because they're somewhat simpler to implement.
+> **[1:05](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=65)** While there are many open source solutions, such as [[ChromaDB]], a new way to work with vector-databases if you work on the cloud, is to use vendor created solutions because they're somewhat simpler to implement.
 >
 > **[1:19](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=79)** They're often created as indexing solutions rather than databases.
 >
@@ -2975,9 +2938,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=88)** Let's look at an example in the GCP ecosystem.
 >
-> **[1:32](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=92)** Using a Jupyter Notebook inside of Google Cloud from Colab Enterprise.
+> **[1:32](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=92)** Using a Jupyter Notebook inside of [[Google Cloud Platform (GCP)|Google Cloud]] from Colab Enterprise.
 >
-> **[1:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=97)** If you don't have a Google Cloud account, you can also run this sample, which is part of Google sample set on public Colab.
+> **[1:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=97)** If you don't have a Google Cloud account, you can also run this sample, which is part of [[Google]] sample set on public Colab.
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=105)** We're going to take a look at how this works in the Google ecosystem.
 >
@@ -2985,7 +2948,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=111)** So you can see on the right side, we have a look data set.
 >
-> **[1:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=114)** This is a public data set, has 30,000 rows of synthetic product data for e-commerce.
+> **[1:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=114)** This is a public data set, has 30,000 rows of synthetic product data for [[E-Commerce]].
 >
 > **[2:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=120)** We're first going to get the data, so we're just downloading the data into a bucket.
 >
@@ -3019,7 +2982,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=232)** So once we've created the index endpoint, then we need to deploy it.
 >
-> **[3:57](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=237)** Once we deploy it inside of Vertex AI, you can see that we have a vector search section, and here is our index, and here is our endpoint.
+> **[3:57](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=237)** Once we deploy it inside of [[Vertex]] AI, you can see that we have a vector search section, and here is our index, and here is our endpoint.
 >
 > **[4:07](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=247)** You can have multiple endpoints for scaling.
 >
@@ -3037,13 +3000,13 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=285)** And then for our query, this is the syntax of the query language.
 >
-> **[4:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=289)** So what we're doing here is we're getting the embedding from the product embeds JSON.
+> **[4:49](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=289)** So what we're doing here is we're getting the embedding from the product embeds [[JSON]].
 >
 > **[4:57](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=297)** And then once we get that, we can specify a product ID to get the embedding for it, and we can run a query with our particular embedding to, in this case, find our neighbors because that's how we generated our embedding.
 >
 > **[5:10](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=310)** So this is a shopping basket example.
 >
-> **[5:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=312)** We can see, you know, what type of products people bought, when they bought, in this case, the excursion short, and then what's the proximity in terms of frequency of nearest neighbors.
+> **[5:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=312)** We can see, you know, what type of [[Microsoft Products|products]] people bought, when they bought, in this case, the excursion short, and then what's the proximity in terms of frequency of nearest neighbors.
 >
 > **[5:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=326)** And it's really just that simple.
 >
@@ -3051,13 +3014,13 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=334)** The difference here is we are using embeddings for scale.
 >
-> **[5:38](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=338)** And when I started this movie, I talked about gen AI, and this is the use case that my customers are using this capability because for gen AI, of course, when you are either fine tuning a model or you are not as often, but trying to build your own custom of models, you are working with really a crushing amount of data and more typical approaches in the NoSQL ecosystem are really unable to be able to scale unless you have the resources of someone like a Google.
+> **[5:38](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=338)** And when I started this movie, I talked about gen AI, and this is the use case that my customers are using this capability because for gen AI, of course, when you are either [[Fine Tuning]] a model or you are not as often, but trying to build your own custom of models, you are working with really a crushing amount of data and more typical approaches in the NoSQL ecosystem are really unable to be able to scale unless you have the resources of someone like a Google.
 >
 > **[6:08](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/vector-database-index-on-gcp-vertex-ai?u=76281980&t=368)** So this new capability of generating embeddings allows for more efficient query ability of semi-structured data and is very well integrated into Google and other cloud vendor ecosystems as indexing capability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Google]] (6), database (4), ai (4), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Google]] (6), [[Databases]] (3), [[NoSQL]] (2), [[ChromaDB]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **Env Vars:** api (3), sql (1), gcp (1), json (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Tools:** colab (2), jupyter (1)
@@ -3071,12 +3034,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Consolidation and cloud for NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980)
+#### [Consolidation and cloud for NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=0)** - [Narrator] Peter Sondergaard from Gartner says, "Information is the oil of the 21st century, and analytics is the combustion engine," and this is reflected in the evolution of NoSQL, in the time I've been working with the ecosystem.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=0)** - [Narrator] Peter Sondergaard from Gartner says, "Information is the oil of the 21st century, and analytics is the combustion engine," and this is reflected in the evolution of [[NoSQL]], in the time I've been working with the ecosystem.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=13)** The first big trend I'm seeing is consolidation of the NoSQL market.
 >
@@ -3084,7 +3046,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=35)** I'm also seeing consolidation by mergers of the NoSQL companies.
 >
-> **[0:41](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=41)** I'm further observing consolidation by current NoSQL products such as, Redis for example, adding features, NoSQL databases that were started in one category.
+> **[0:41](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=41)** I'm further observing consolidation by current NoSQL [[Microsoft Products|products]] such as, [[Redis]] for example, adding features, NoSQL [[Databases]] that were started in one category.
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=54)** Key-Value in the case of Redis are adding capabilities and some of the other categories such as, documents or wide column.
 >
@@ -3098,13 +3060,13 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=101)** Importantly, events is driving the evolution of the NoSQL ecosystem.
 >
-> **[1:48](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=108)** And I think it's really interesting to see what the vendors, and I've paid the most attention to Amazon because that's where I've done most of my production work has done in this space in terms of time streams, near real time and IoT abstraction layers.
+> **[1:48](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=108)** And I think it's really interesting to see what the vendors, and I've paid the most attention to Amazon because that's where I've done most of my production work has done in this space in terms of time streams, near real time and [[IoT]] abstraction layers.
 >
-> **[2:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=123)** Support for blockchain technologies is also really interesting coming from the cloud vendors, and we did take a look here at Amazon's relatively recently released QLDB or Quantum Ledger Database.
+> **[2:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=123)** Support for [[Blockchain]] technologies is also really interesting coming from the cloud vendors, and we did take a look here at Amazon's relatively recently released QLDB or Quantum Ledger Database.
 >
-> **[2:17](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=137)** Probably though the most interesting aspect of the NoSQL ecosystem is a subtle one, and this relates to what's going on in Google's implementation.
+> **[2:17](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=137)** Probably though the most interesting aspect of the NoSQL ecosystem is a subtle one, and this relates to what's going on in [[Google]]'s implementation.
 >
-> **[2:29](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=149)** I think it's best represented by Google BigQuery, which many would argue is not a NoSQL service because you use a SQL-query layer.
+> **[2:29](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=149)** I think it's best represented by Google BigQuery, which many would argue is not a NoSQL service because you use a [[SQL]]-query layer.
 >
 > **[2:38](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980&t=158)** However, if you read the underlying implementation, it is indeed built on a massive NoSQL store in Dremel.
 >
@@ -3138,27 +3100,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (19), cloud (9), [[Google]] (5), open-source (4), [[SQL]] (4)
+> **Frameworks & Libraries:** [[NoSQL]] (19), [[Google]] (5), [[SQL]] (4), [[Redis]] (3), [[Databases]] (3)
 > **Env Vars:** sql (4), qldb (1), cql (1), ansi (1), gcp (1)
 > **Analogies:** such as (4), for example (2)
 > **CLI Commands:** mongo (2), find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Multifunction NoSQL databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980)
+#### [Multifunction NoSQL databases](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=0)** - [Narrator] Continuing on evaluating the evolution of the NoSQL ecosystem, looking a multi functionality is really important.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=0)** - [Narrator] Continuing on evaluating the evolution of the [[NoSQL]] ecosystem, looking a multi functionality is really important.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=9)** When I first got into this game, many years ago, I would say, all right, I need key value store, so let me pick Redis, I need a document data base, so let me pick MongoDB.
+> **[0:09](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=9)** When I first got into this game, many years ago, I would say, all right, I need key value store, so let me pick [[Redis]], I need a document data base, so let me pick [[MongoDB]].
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=18)** Now it's really not that simple, because both MongoDB and Redis can be both.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=23)** Key value and document and more.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=26)** So what has really happened is, instead of having 150 different NoSQL databases, we're having maybe five that are relevant.
+> **[0:26](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=26)** So what has really happened is, instead of having 150 different NoSQL [[Databases]], we're having maybe five that are relevant.
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=34)** And those five are adding layers of features.
 >
@@ -3170,13 +3131,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=59)** Enterprise features are key, whether to backup, monitoring.
 >
-> **[1:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=63)** Google has had an interesting direction in terms of integrating versions of open source products such as Cloud memory store for Redis or Neo4J or MongoDB for example, and integrating them so that Google's enterprise monitoring, staff driver, in their case, will integrate with the performance counters in the particular NoSQL databases, so it's one monitoring solution.
+> **[1:03](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=63)** [[Google]] has had an interesting direction in terms of integrating versions of open source [[Microsoft Products|products]] such as Cloud memory store for Redis or [[Neo4j]] or MongoDB for example, and integrating them so that Google's enterprise monitoring, staff driver, in their case, will integrate with the performance counters in the particular NoSQL databases, so it's one monitoring solution.
 >
 > **[1:30](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=90)** And again, this provides significant value in production applications.
 >
 > **[1:35](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=95)** Another interesting trend is abstraction layers.
 >
-> **[1:38](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=98)** Y'know, we looked briefly in this course at IoT services and venting.
+> **[1:38](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=98)** Y'know, we looked briefly in this course at [[IoT]] services and venting.
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=102)** And I mentioned Amplify in terms of my mentorship of a startup.
 >
@@ -3186,7 +3147,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=128)** And some people might argue, that's not a good thing, because when you are building you will invariably run into challenges, and if there's too much abstraction, it becomes difficult to find where the problems are.
 >
-> **[2:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=140)** But, I mean, I did see this team get to value, and of course, Google has the entire Firebase ecosystem, which is somewhat similar to Amplify.
+> **[2:20](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=140)** But, I mean, I did see this team get to value, and of course, Google has the entire [[Firebase]] ecosystem, which is somewhat similar to Amplify.
 >
 > **[2:28](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=148)** The idea is to abstract away the database, so that you can work on the application code.
 >
@@ -3206,7 +3167,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=186)** I'm really hoping that they add a serverless component to that, because I think it will help it to be more competitive.
 >
-> **[3:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=192)** On the GCP side, we have Bigtable for hot data and BigQuery, which has the interesting SQL layer over the top of it for the data warehouser aggregate queries.
+> **[3:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=192)** On the GCP side, we have Bigtable for hot data and BigQuery, which has the interesting [[SQL]] layer over the top of it for the data warehouser aggregate queries.
 >
 > **[3:22](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=202)** And I think in this category, Google really has a very interesting offering, cause both of these services are very fast, very usable, serverless and very compelling, and I use them with a lot of customer solutions.
 >
@@ -3236,7 +3197,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=273)** GCP has strong offering there with Firebase, Firestore, and they do have IoT core, and again, all this is serverless.
 >
-> **[4:39](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=279)** On the ledger side, we have Amazon with Hyperledger offering on Blockchain.
+> **[4:39](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=279)** On the ledger side, we have Amazon with Hyperledger offering on [[Blockchain]].
 >
 > **[4:44](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/multifunction-nosql-databases?u=76281980&t=284)** And then as far as pure ledger database, they have the relatively newly released, serverless QLDB.
 >
@@ -3248,7 +3209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), [[NoSQL]] (5), [[Redis]] (5), [[MongoDB]] (5), data (4)
+> **Frameworks & Libraries:** [[Google]] (6), [[NoSQL]] (5), [[Redis]] (5), [[MongoDB]] (5), [[Databases]] (4)
 > **Env Vars:** gcp (4), aws (2), sql (1), sparql (1), qldb (1)
 > **CLI Commands:** aws (2), find (1), mongo (1)
 > **Analogies:** such as (1), for example (1), similar to (1)
@@ -3256,28 +3217,27 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### DataLake NoSQL alternatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980)
+#### [DataLake NoSQL alternatives](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=0)** - [Narrator] Now although this course covers NoSQL in my work as an architect, I am often asked to discuss another alternative in terms of big data processing and that is DataLake.
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=0)** - [Narrator] Now although this course covers [[NoSQL]] in my work as an architect, I am often asked to discuss another alternative in terms of [[Big Data]] processing and that is DataLake.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=14)** So it's really beyond the scope of this course to go deep into it.
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=18)** I do have some other courses in the library on these technologies and I would really encourage you to also include learning about these technologies because increasingly as the volumes of data become very very significant, Data lake becomes a relevant part of an ecosystem that probably will include NoSQL.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=40)** So although I call this Data lake alternative for the NoSQLmarket I might also say Data lakes plus NoSQL.
+> **[0:40](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=40)** So although I call this Data lake alternative for the NoSQLmarket I might also say [[Data Lakes]] plus NoSQL.
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=48)** So a couple of trends that are significant here.
 >
-> **[0:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=51)** The Hadoop ecosystem which is distributed data processing at huge scale has really evolved into in memory via the spark ecosystem.
+> **[0:51](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=51)** The [[Hadoop]] ecosystem which is distributed [[Data Processing]] at huge scale has really evolved into in memory via the spark ecosystem.
 >
 > **[1:01](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=61)** And I would recommend that again, if you're working with file-based solutions that are huge sized, you might also want to take a look at some of these technologies.
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=72)** I've been doing quite a lot of work for example with Genomic data for Bioinformatic research and nearly every customer that I work with there is using a combination of Hadoop spark and NoSQL.
 >
-> **[1:25](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=85)** In this data Lake ecosystem spark dominates and then we'll add NoSQL like functionality and sometimes SQL on top of it as well.
+> **[1:25](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=85)** In this data Lake ecosystem spark dominates and then we'll add NoSQL like functionality and sometimes [[SQL]] on top of it as well.
 >
 > **[1:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=93)** Cloud based data lakes from vendors like Amazon that are built on object stores such as S3.
 >
@@ -3285,7 +3245,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=110)** In fact Amazon actually introduced a set of services called Amazon data Lake last year re-invent to help customers get time to value more quickly when they're building data Lake technologies.
 >
-> **[2:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=124)** Google again is taking the lead.
+> **[2:04](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=124)** [[Google]] again is taking the lead.
 >
 > **[2:07](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/datalake-nosql-alternatives?u=76281980&t=127)** They seem to always be pushing the market forward in terms of technology which is skin good for all of us.
 >
@@ -3309,7 +3269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[NoSQL]] (11), [[Hadoop]] (4), [[Google]] (4), [[SQL]] (3)
+> **Frameworks & Libraries:** [[NoSQL]] (11), [[Hadoop]] (4), [[Google]] (4), [[Data Lakes]] (3), [[SQL]] (3)
 > **Env Vars:** sql (3), hdfs (1), api (1), gcs (1), gcp (1)
 > **Definitions:** is called (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
@@ -3321,20 +3281,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980)
+#### [Next steps with NoSQL](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=0)** - [Lynn] Pearl Zhu says, "We are moving slowly into "an era where Big Data is the starting point, not the end."
+> **[0:00](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=0)** - [Lynn] Pearl Zhu says, "We are moving slowly into "an era where [[Big Data]] is the starting point, not the end."
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=6)** Although we are at the end of this course, there are many resources available for you to continue your learning.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=12)** In particular, because this is cloud-based NoSQL, I want to point you to some resources that I find really valuable on both the GCP and the AWS cloud communities.
+> **[0:12](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=12)** In particular, because this is cloud-based [[NoSQL]], I want to point you to some resources that I find really valuable on both the GCP and the AWS cloud communities.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=24)** In addition to the architecture references that I've used and pointed out in this particular course, there are two communities of experts.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=33)** For Google, it's Google Cloud Developer Expert, and Amazon, it's Amazon Community Hero.
+> **[0:33](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=33)** For [[Google]], it's [[Google Cloud Platform (GCP)|Google Cloud]] Developer Expert, and Amazon, it's Amazon Community Hero.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=37)** So here I am out on the AWS Hero's directory page, and I will point out that relatively new is this category called Data Heroes.
 >
@@ -3342,7 +3301,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=56)** But in addition to the work I've done, the people that are listed here are fantastic resources around the world for understanding NoSQL and other data services on AWS.
 >
-> **[1:08](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=68)** In addition to that, in the Google community, if you go to the Google Developer Expert community, and here I'll set it for the Google Cloud platform.
+> **[1:08](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=68)** In addition to that, in the Google community, if you go to the Google Developer Expert community, and here I'll set it for the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=76)** There's not yet a data category.
 >
@@ -3354,7 +3313,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=97)** Most people will blog.
 >
-> **[1:38](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=98)** They will publish content on GitHub, and I've just found this community to be tremendously useful.
+> **[1:38](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=98)** They will publish content on [[GitHub]], and I've just found this community to be tremendously useful.
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980&t=105)** So join our communities and wishing you much success with your NoSQL implementation.
 >
@@ -3362,7 +3321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (3), aws (3), [[Google]] (3), data (3), cloud (2)
+> **Frameworks & Libraries:** [[NoSQL]] (3), [[Google]] (3), [[Big Data]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **CLI Commands:** aws (3), find (2)
 > **Env Vars:** aws (3), gcp (2)
 > **UI Navigation:** click on (2), go to (1)

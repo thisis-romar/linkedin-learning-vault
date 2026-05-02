@@ -87,12 +87,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for the ISTQB Certification
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980)
+#### [Preparing for the ISTQB Certification](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980&t=0)** Imagine having a certification that sets you apart in the software testing world recognized by employers globally.
+> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980&t=0)** Imagine having a certification that sets you apart in the [[Software Testing]] world recognized by employers globally.
 >
 > **[0:08](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980&t=8)** That's the kind of advantage that ISTQB certifications could offer.
 >
@@ -102,22 +101,21 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980&t=28)** I'm Mike Smith, and with over 15 years of software testing experience, I'll guide you through the benefits and potential career impact of earning this certification.
 >
-> **[0:39](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980&t=39)** By the end of this course, you'll know whether or not ISTQB certification is right for you and how it can support your career development.
+> **[0:39](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980&t=39)** By the end of this course, you'll know whether or not ISTQB certification is right for you and how it can support your [[Career Development]].
 >
 > **[0:48](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980&t=48)** So ready to dive in? Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (3), career (2), [[Career Development]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (3), [[Career Development]] (1)
 > **Env Vars:** istqb (3)
 > **Analogies:** imagine (1)
 
-#### ISTQB Certification
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/istqb-certification?u=76281980)
+#### [ISTQB Certification](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/istqb-certification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/istqb-certification?u=76281980&t=0)** What if one certification could open doors to global recognition and boost your software testing career?
+> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/istqb-certification?u=76281980&t=0)** What if one certification could open doors to global recognition and boost your [[Software Testing]] career?
 >
 > **[0:07](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/istqb-certification?u=76281980&t=7)** That's what the ISTQB certification promises to deliver.
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/istqb-certification?u=76281980&t=29)** Well, let's break it down.
 >
-> **[0:31](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/istqb-certification?u=76281980&t=31)** By the end of this video, you'll understand what the ISTQB certification is, its value, and whether or not it's a good fit for your career development.
+> **[0:31](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/istqb-certification?u=76281980&t=31)** By the end of this video, you'll understand what the ISTQB certification is, its value, and whether or not it's a good fit for your [[Career Development]].
 >
 > **[0:43](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/istqb-certification?u=76281980&t=43)** The ISTQB or International Software Testing Qualifications Board offers a globally recognized certification in software testing.
 >
@@ -171,21 +169,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (4), career (4), [[Career Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (4), [[Career Development]] (1)
 > **Env Vars:** istqb (9)
 > **Versions:** 4.0 (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 
-#### Revision 4.0
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980)
+#### [Revision 4.0](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980&t=0)** In the world of software testing, staying current with industry standards is crucial.
+> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980&t=0)** In the world of [[Software Testing]], staying current with industry standards is crucial.
 >
-> **[0:06](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980&t=6)** The ISTQB Foundation Level revision 4.0 introduces several important updates that align certification with today's best practices and trends in software development.
+> **[0:06](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980&t=6)** The ISTQB Foundation Level revision 4.0 introduces several important updates that align certification with today's best practices and trends in [[Software Development]].
 >
 > **[0:19](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980&t=19)** The ISTQB regularly revises its syllabi to ensure it reflects the evolving landscape of software testing.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980&t=33)** So let's explore what's changed and why that matters.
 >
-> **[0:39](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980&t=39)** The goal of these revisions is to keep up with modern practices in agile development, automation, and risk-based testing.
+> **[0:39](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980&t=39)** The goal of these revisions is to keep up with modern practices in [[Agile Development|agile]] development, automation, and risk-based testing.
 >
 > **[0:48](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/revision-4-0?u=76281980&t=48)** One of the most notable changes is the stronger focus on these methodologies, which are crucial in today's fast-paced development cycles.
 >
@@ -225,18 +222,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), [[Software Testing]] (2), [[Agile Development|Agile]] (2), [[Software Development]] (1), functional (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Agile Development|Agile]] (2), [[Software Development]] (1)
 > **Versions:** 4.0 (7)
 > **Env Vars:** istqb (3)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** you'll need (1)
 
-#### Terminology is key
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/terminology-is-key?u=76281980)
+#### [Terminology is key](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/terminology-is-key?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/terminology-is-key?u=76281980&t=0)** Have you ever encountered a familiar word in a test, only to find out that it means something completely different in the context of an exam?
+> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/terminology-is-key?u=76281980&t=0)** Have you ever encountered a familiar [[Microsoft Word|word]] in a test, only to find out that it means something completely different in the context of an exam?
 >
 > **[0:09](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/terminology-is-key?u=76281980&t=9)** Well, that's something you'll definitely want to avoid with ISTQB exams.
 >
@@ -297,8 +293,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Types of learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/types-of-learning-objectives?u=76281980)
+#### [Types of learning objectives](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/types-of-learning-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,7 +381,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** istqb (4)
 > **Definitions:** is a  (2), stands for (1), means that (1)
@@ -398,12 +392,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is testing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/what-is-testing?u=76281980)
+#### [What is testing?](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/what-is-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/what-is-testing?u=76281980&t=0)** When you think about software testing, what comes to mind?
+> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/what-is-testing?u=76281980&t=0)** When you think about [[Software Testing]], what comes to mind?
 >
 > **[0:03](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/what-is-testing?u=76281980&t=3)** Many people think of it as simply finding bugs, but it's actually much more than that.
 >
@@ -453,14 +446,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (2), [[Security]] (2), [[Debugging]] (2), product (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** think of it as (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** you'll need (1)
 
-#### Why is testing necessary?
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/why-is-testing-necessary?u=76281980)
+#### [Why is testing necessary?](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/why-is-testing-necessary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/why-is-testing-necessary?u=76281980&t=35)** It's about improving the overall quality of the software.
 >
-> **[0:40](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/why-is-testing-necessary?u=76281980&t=40)** Now, testing is closely tied to quality assurance.
+> **[0:40](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/why-is-testing-necessary?u=76281980&t=40)** Now, testing is closely tied to [[Quality Assurance]].
 >
 > **[0:44](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/why-is-testing-necessary?u=76281980&t=44)** And while quality assurance covers the broader process of ensuring high standards, testing specifically evaluates the product to see if it meets those standards.
 >
@@ -514,24 +506,23 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/why-is-testing-necessary?u=76281980&t=147)** You'll need to really focus on the following cognitive learning points for this section: explaining in your own words why testing is necessary, remembering the relation between testing and quality assurance, and explaining in your own words the difference between root cause, error, defect, and failure.
 >
-> **[2:49](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/why-is-testing-necessary?u=76281980&t=169)** And in the next video, we're going to dive into the fundamental testing principles that guide effective software testing.
+> **[2:49](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/why-is-testing-necessary?u=76281980&t=169)** And in the next video, we're going to dive into the fundamental testing principles that guide effective [[Software Testing]].
 >
 > **[2:57](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/why-is-testing-necessary?u=76281980&t=177)** So stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quality Assurance]] (4), product (3), data (1), functional (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (4), [[Software Testing]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Testing principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-principles?u=76281980)
+#### [Testing principles](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-principles?u=76281980&t=0)** Have you ever wondered why we follow specific rules in software testing?
+> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-principles?u=76281980&t=0)** Have you ever wondered why we follow specific rules in [[Software Testing]]?
 >
 > **[0:05](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-principles?u=76281980&t=5)** Well, these rules or principles are what make our testing more efficient and effective.
 >
@@ -571,7 +562,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-principles?u=76281980&t=100)** Six is that testing is context-dependent.
 >
-> **[1:44](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-principles?u=76281980&t=104)** The way you test an e-commerce website is very different to how you would test a medical device.
+> **[1:44](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-principles?u=76281980&t=104)** The way you test an [[E-Commerce]] website is very different to how you would test a medical device.
 >
 > **[1:50](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-principles?u=76281980&t=110)** The context changes how you approach testing.
 >
@@ -595,18 +586,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Software Testing]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** next video (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** you'll need (1)
 
-#### Test activities, testware, and test roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980)
+#### [Test activities, testware, and test roles](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=0)** Let's break down what happens during software testing.
+> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=0)** Let's break down what happens during [[Software Testing]].
 >
 > **[0:04](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=4)** Testing isn't just about running a few test scripts or checking for bugs.
 >
@@ -626,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=41)** This is where we determine what needs to be tested and how we'll do it.
 >
-> **[0:45](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=45)** Think of this as sketching out the blueprint for testing.
+> **[0:45](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=45)** Think of this as [[Sketching]] out the blueprint for testing.
 >
 > **[0:49](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=49)** After that comes test implementation and execution.
 >
@@ -676,7 +666,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=176)** So this could change.
 >
-> **[2:57](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=177)** Some agile teams manage the test management responsibilities of the testing.
+> **[2:57](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=177)** Some [[Agile Development|agile]] teams manage the test management responsibilities of the testing.
 >
 > **[3:02](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-activities-testware-and-test-roles?u=76281980&t=182)** It's very much a collaborative effort.
 >
@@ -702,14 +692,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Software Testing]] (1), [[Sketching]] (1), data (1), mobile application (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[Sketching]] (1), [[Agile Development|Agile]] (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Essential skills and good practices in testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/essential-skills-and-good-practices-in-testing?u=76281980)
+#### [Essential skills and good practices in testing](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/essential-skills-and-good-practices-in-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -773,11 +762,11 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/essential-skills-and-good-practices-in-testing?u=76281980&t=161)** You'll need to really focus on the following cognitive learning points for this section: explaining in your own words examples of generic skills required for testing, remembering the advantages of the whole team approach, and explaining in your own words the benefits and drawbacks of the independent testing method.
 >
-> **[3:03](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/essential-skills-and-good-practices-in-testing?u=76281980&t=183)** Now, in the next video, we're going to look at how testing fits into the software development lifecycle and why it's important to understand the different phases of development.
+> **[3:03](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/essential-skills-and-good-practices-in-testing?u=76281980&t=183)** Now, in the next video, we're going to look at how testing fits into the [[Software Development]] lifecycle and why it's important to understand the different phases of development.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), career (1), teams (1), business (1), generic (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Prerequisites:** you'll need (3)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
@@ -788,12 +777,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing in the context of the software development lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980)
+#### [Testing in the context of the software development lifecycle](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980&t=0)** Testing is essential in every part of software development, but its role can change depending on the type of lifecycle your team follows, whether it's waterfall, agile, or DevOps.
+> **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980&t=0)** Testing is essential in every part of [[Software Development]], but its role can change depending on the type of lifecycle your team follows, whether it's waterfall, [[Agile Development|agile]], or [[DevOps]].
 >
 > **[0:12](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980&t=12)** Testing must adapt, and in this video, we'll explore how testing fits within the different software development lifecycles and why it's crucial to get the timing just right.
 >
@@ -815,7 +803,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980&t=85)** Whether you're using agile, waterfall, or anything in between, these core practices help ensure consistent quality.
 >
-> **[1:35](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980&t=95)** Test-first approaches like test-driven development or TDD and behavior-driven development, or BDD, ensure that testing is built into the development process from the very start.
+> **[1:35](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980&t=95)** Test-first approaches like [[Test-Driven Development]] or TDD and behavior-driven development, or BDD, ensure that testing is built into the development process from the very start.
 >
 > **[1:49](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980&t=109)** In test-driven development, you write your tests before writing the code.
 >
@@ -847,15 +835,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), [[Software Development]] (5), [[Agile Development|Agile]] (5), [[Test-Driven Development]] (2), teams (2)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Software Development]] (5), [[Agile Development|Agile]] (5), [[Test-Driven Development]] (2)
 > **Env Vars:** sdlc (1), tdd (1), bdd (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** setup (1)
 
-#### Test levels and test types
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-levels-and-test-types?u=76281980)
+#### [Test levels and test types](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-levels-and-test-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -863,13 +850,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-levels-and-test-types?u=76281980&t=4)** Testing is split into different levels and types, each serving a specific purpose.
 >
-> **[0:11](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-levels-and-test-types?u=76281980&t=11)** Now in this video, we'll explore the various levels and types of testing and why they're crucial to ensure quality in software development.
+> **[0:11](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-levels-and-test-types?u=76281980&t=11)** Now in this video, we'll explore the various levels and types of testing and why they're crucial to ensure quality in [[Software Development]].
 >
 > **[0:21](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-levels-and-test-types?u=76281980&t=21)** Let's start with the test levels.
 >
 > **[0:24](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-levels-and-test-types?u=76281980&t=24)** These are the different stages where testing can take place.
 >
-> **[0:28](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-levels-and-test-types?u=76281980&t=28)** The four main areas are unit testing, which checks individual components or functions; integration testing, which makes sure different parts of the system work well together; system testing, which focuses on testing the entire system to ensure it meets the requirements; and acceptance testing, which checks whether or not the software meets the end users' needs.
+> **[0:28](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-levels-and-test-types?u=76281980&t=28)** The four main areas are [[Unit Testing]], which checks individual components or functions; [[Integration Testing]], which makes sure different parts of the system work well together; system testing, which focuses on testing the entire system to ensure it meets the requirements; and acceptance testing, which checks whether or not the software meets the end users' needs.
 >
 > **[0:55](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-levels-and-test-types?u=76281980&t=55)** Now, let's move on to testing types.
 >
@@ -939,7 +926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Software Development]] (1), [[Unit Testing]] (1), [[Integration Testing]] (1), functional (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Unit Testing]] (1), [[Integration Testing]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **Versions:** version 4 (1), 0.1 (1)
 > **CLI Commands:** make (1)
@@ -947,8 +934,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Maintenance testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/maintenance-testing?u=76281980)
+#### [Maintenance testing](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/maintenance-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -986,7 +972,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/maintenance-testing?u=76281980&t=112)** Another important objective is ensuring that the software still meets user needs after any modifications.
 >
-> **[2:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/maintenance-testing?u=76281980&t=120)** It's essential that changes or updates align with the intended user experience.
+> **[2:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/maintenance-testing?u=76281980&t=120)** It's essential that changes or updates align with the intended [[User Experience (UX)|user experience]].
 >
 > **[2:08](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/maintenance-testing?u=76281980&t=128)** Now consider a scenario where you implement a performance enhancement, but the update causes the application to crash under high loads.
 >
@@ -1008,7 +994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), feature (1), [[Security]] (1), prompt (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Analogies:** imagine (2), picture (1), it's like (1), such as (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
@@ -1019,8 +1005,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Static testing basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980)
+#### [Static testing basics](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1028,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980&t=9)** That's essentially what static testing is, catching errors early without executing any code.
 >
-> **[0:18](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980&t=18)** Static testing is a method used to find defects in work products, such as requirements or code, without running the actual software.
+> **[0:18](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980&t=18)** Static testing is a method used to find defects in work [[Microsoft Products|products]], such as requirements or code, without running the actual software.
 >
 > **[0:28](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980&t=28)** It's done by examining the product, whether it's through reviews, walkthroughs, or inspections.
 >
@@ -1066,19 +1051,18 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980&t=157)** You'll need to really focus on the following cognitive learning points for this section: explaining in your own words the value of static testing, remembering the types of work products that can be examined with static testing, and explaining in your own words the difference between static and dynamic testing.
 >
-> **[2:59](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980&t=179)** And in the next video, we'll be exploring the feedback and review process, diving deeper into how static testing can improve product quality and team collaboration.
+> **[2:59](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980&t=179)** And in the next video, we'll be exploring the feedback and review process, diving deeper into how static testing can improve product quality and [[Team Collaboration]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), next (1), [[Team Collaboration]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Team Collaboration]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Feedback and review process
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/feedback-and-review-process?u=76281980)
+#### [Feedback and review process](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/feedback-and-review-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,9 +1074,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/feedback-and-review-process?u=76281980&t=9)** They spot something you missed and you're able to fix it before moving any further.
 >
-> **[0:14](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/feedback-and-review-process?u=76281980&t=14)** This is how early feedback works in software testing too.
+> **[0:14](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/feedback-and-review-process?u=76281980&t=14)** This is how early feedback works in [[Software Testing]] too.
 >
-> **[0:20](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/feedback-and-review-process?u=76281980&t=20)** In software development, early and frequent feedback from stakeholders is crucial.
+> **[0:20](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/feedback-and-review-process?u=76281980&t=20)** In [[Software Development]], early and frequent feedback from stakeholders is crucial.
 >
 > **[0:26](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/feedback-and-review-process?u=76281980&t=26)** It helps you catch issues early, minimizing rework, and keeping projects on track.
 >
@@ -1144,7 +1128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (3), product (2), [[Software Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (3), [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Analogies:** imagine (1)
@@ -1155,8 +1139,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test techniques overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980)
+#### [Test techniques overview](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1204,7 +1187,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980&t=134)** So for example, black box techniques are ideal for validating end-user functions like checking if a login page works correctly.
 >
-> **[2:23](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980&t=143)** White box testing, on the other hand, might be used to test algorithms or critical code paths in complex calculations.
+> **[2:23](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980&t=143)** White box testing, on the other hand, might be used to test [[Algorithms]] or critical code paths in complex calculations.
 >
 > **[2:33](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980&t=153)** Experience-based testing might be used by testers familiar with common weak spots in similar applications, such as areas prone to security vulnerabilities.
 >
@@ -1216,7 +1199,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980&t=195)** It's common to use a combination of these techniques as well.
 >
-> **[3:19](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980&t=199)** For example, during software development, developers may apply white box techniques for their code whilst the QA team conducts black box and experience testing to ensure the software meets user expectations.
+> **[3:19](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980&t=199)** For example, during [[Software Development]], developers may apply white box techniques for their code whilst the QA team conducts black box and experience testing to ensure the software meets user expectations.
 >
 > **[3:35](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980&t=215)** Understanding and selecting the right technique can make a significant difference in the quality of your software.
 >
@@ -1232,14 +1215,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Algorithms]] (1), [[Security]] (1), strengths (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Software Development]] (1)
 > **Analogies:** for example (2), imagine (1), just like (1), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 
-#### Black-box test techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/black-box-test-techniques?u=76281980)
+#### [Black-box test techniques](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/black-box-test-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1289,7 +1271,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/black-box-test-techniques?u=76281980&t=172)** Using these techniques together gives you a comprehensive approach to uncover defects from the users' perspective without diving into the code.
 >
-> **[3:01](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/black-box-test-techniques?u=76281980&t=181)** This makes them ideal for functional testing as well as in agile environments where speed and efficiency are essential.
+> **[3:01](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/black-box-test-techniques?u=76281980&t=181)** This makes them ideal for functional testing as well as in [[Agile Development|agile]] environments where speed and efficiency are essential.
 >
 > **[3:10](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/black-box-test-techniques?u=76281980&t=190)** Let's think about a practical example, testing a loan application form.
 >
@@ -1309,14 +1291,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), functional (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Analogies:** imagine (2), for example (1), for instance (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### White-box test techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/white-box-test-techniques?u=76281980)
+#### [White-box test techniques](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/white-box-test-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1388,20 +1369,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), next (1)
 > **Analogies:** imagine (2), for example (1)
 > **Cross-References:** next video (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** you'll need (1)
 
-#### Experience-based test techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/experience-based-test-techniques?u=76281980)
+#### [Experience-based test techniques](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/experience-based-test-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/experience-based-test-techniques?u=76281980&t=0)** Ever wondered how a tester's experience can be their most valuable tool?
 >
-> **[0:05](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/experience-based-test-techniques?u=76281980&t=5)** Well, picture a scenario where testers rely on their intuition, past experiences, and critical thinking skills to pinpoint issues.
+> **[0:05](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/experience-based-test-techniques?u=76281980&t=5)** Well, picture a scenario where testers rely on their intuition, past experiences, and critical [[Thinking Skills]] to pinpoint issues.
 >
 > **[0:13](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/experience-based-test-techniques?u=76281980&t=13)** This is where experience-based techniques really come into play.
 >
@@ -1457,7 +1436,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/experience-based-test-techniques?u=76281980&t=222)** This adds significant value to the overall testing process.
 >
-> **[3:47](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/experience-based-test-techniques?u=76281980&t=227)** Imagine you're testing an e-commerce app with these techniques.
+> **[3:47](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/experience-based-test-techniques?u=76281980&t=227)** Imagine you're testing an [[E-Commerce]] app with these techniques.
 >
 > **[3:51](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/experience-based-test-techniques?u=76281980&t=231)** With error guessing, you might check if entering symbols in the payment field causes errors.
 >
@@ -1481,14 +1460,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Thinking Skills]] (1), application (1), strengths (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Thinking Skills]] (1), [[E-Commerce]] (1)
 > **Analogies:** such as (2), imagine (2), picture (1), think of it as (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** you'll need (1)
 
-#### Collaboration-based test approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/collaboration-based-test-approaches?u=76281980)
+#### [Collaboration-based test approaches](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/collaboration-based-test-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1498,7 +1476,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/collaboration-based-test-approaches?u=76281980&t=19)** In this video, we'll look at how these collaborative methods play a key role in testing.
 >
-> **[0:25](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/collaboration-based-test-approaches?u=76281980&t=25)** Techniques like writing user stories with input from all stakeholders, establishing clear acceptance criteria, and practicing acceptance test-driven development or ATDD are just some of the practices we'll cover.
+> **[0:25](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/collaboration-based-test-approaches?u=76281980&t=25)** Techniques like writing user stories with input from all stakeholders, establishing clear acceptance criteria, and practicing acceptance [[Test-Driven Development]] or ATDD are just some of the practices we'll cover.
 >
 > **[0:41](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/collaboration-based-test-approaches?u=76281980&t=41)** Let's start with user stories, which are essential to bridge the gap between developers, testers, and business representatives.
 >
@@ -1554,7 +1532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), feature (6), teams (2), test-driven (1), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1)
 > **Env Vars:** atdd (5)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -1567,8 +1545,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980)
+#### [Test planning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1638,7 +1615,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980&t=188)** For example, if you have a lot of experience with testing certain types of software, you would be able to give a reasonably accurate estimate based on your previous experience.
 >
-> **[3:19](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980&t=199)** Or if we have a history of similar products, we can use that data to estimate testing times.
+> **[3:19](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980&t=199)** Or if we have a history of similar [[Microsoft Products|products]], we can use that data to estimate testing times.
 >
 > **[3:26](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980&t=206)** Accurate estimation helps secure the necessary resources and manage project timelines effectively.
 >
@@ -1664,7 +1641,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980&t=298)** They help teams balance their approach by covering both functional and nonfunctional aspects.
 >
-> **[5:04](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980&t=304)** For example, functional tests that validate requirements fall into one quadrant, while usability tests that evaluate the user experience fall to another.
+> **[5:04](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980&t=304)** For example, functional tests that validate requirements fall into one quadrant, while usability tests that evaluate the [[User Experience (UX)|user experience]] fall to another.
 >
 > **[5:15](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980&t=315)** This helps ensure that all testing aspects are covered appropriately.
 >
@@ -1676,14 +1653,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), business (2), data (2), functional (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (3), think of it as (1), picture (1), such as (1)
 > **Prerequisites:** required to (1), you'll need (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Risk management
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/risk-management?u=76281980)
+#### [Risk management](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/risk-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1699,7 +1675,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/risk-management?u=76281980&t=37)** To assess risk, we consider two key factors: likelihood and impact.
 >
-> **[0:43](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/risk-management?u=76281980&t=43)** Likelihood is the probability of the risk occurring, while impact is the level of damage it would cause if it did happen.
+> **[0:43](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/risk-management?u=76281980&t=43)** Likelihood is the [[Probability]] of the risk occurring, while impact is the level of damage it would cause if it did happen.
 >
 > **[0:51](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/risk-management?u=76281980&t=51)** And together, they form the basis of determining the overall risk level.
 >
@@ -1717,7 +1693,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/risk-management?u=76281980&t=95)** On the other hand, product risks are factors that could impact the product's functionality or performance.
 >
-> **[1:42](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/risk-management?u=76281980&t=102)** Performance issues, lack of usability, or scalability issues are all examples of product risks.
+> **[1:42](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/risk-management?u=76281980&t=102)** Performance issues, lack of usability, or [[Scalability]] issues are all examples of product risks.
 >
 > **[1:50](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/risk-management?u=76281980&t=110)** Understanding the difference helps in assigning the right response strategies.
 >
@@ -1753,12 +1729,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), management (4), feature (2), [[Probability]] (1), teams (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Scalability]] (1)
 > **Analogies:** imagine (1), for example (1), for instance (1)
 > **Cross-References:** coming up (1)
 
-#### Test monitoring, test control, and test completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-monitoring-test-control-and-test-completion?u=76281980)
+#### [Test monitoring, test control, and test completion](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-monitoring-test-control-and-test-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1818,14 +1793,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), teams (1), management (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (2), it's like (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 
-#### Configuration and defect management
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980)
+#### [Configuration and defect management](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1835,7 +1808,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=12)** They provide structure and tracking to prevent this exact scenario.
 >
-> **[0:17](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=17)** Configuration management is all about keeping track of elements in your project: code, documentation, test cases, and more.
+> **[0:17](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=17)** [[Configuration Management]] is all about keeping track of elements in your project: code, documentation, test cases, and more.
 >
 > **[0:26](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=26)** It helps maintain consistency and control, especially in complicated environments.
 >
@@ -1849,7 +1822,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=53)** First, baselines are specific points in the project you can return to if issues do arise.
 >
-> **[1:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=60)** Secondly, version control is essential for tracking code across multiple different versions.
+> **[1:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=60)** Secondly, [[Version Control]] is essential for tracking code across multiple different versions.
 >
 > **[1:06](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=66)** And finally, change management keeps updates organized.
 >
@@ -1873,7 +1846,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=120)** It's retested by the QA team, and it's closed if it's resolved.
 >
-> **[2:05](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=125)** This cycle promotes accountability and efficiency.
+> **[2:05](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=125)** This cycle promotes [[Accountability]] and efficiency.
 >
 > **[2:09](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/configuration-and-defect-management?u=76281980&t=129)** Now, let's talk about a good defect report.
 >
@@ -1897,7 +1870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[Configuration Management]] (5), [[Version Control]] (1), feature (1), teams (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (5), [[Version Control]] (1), [[Accountability]] (1)
 > **Analogies:** imagine (1), for example (1), for instance (1)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** you'll need (1)
@@ -1907,8 +1880,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tool support for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980)
+#### [Tool support for testing](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1930,19 +1902,19 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=45)** These help us to organize and monitor our test cases, making tracking easy and efficient.
 >
-> **[0:52](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=52)** Tools like Jira and TestRail are popular choices for managing test cases, assigning tasks, and reporting results.
+> **[0:52](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=52)** Tools like [[Jira]] and TestRail are popular choices for managing test cases, assigning tasks, and reporting results.
 >
 > **[1:01](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=61)** They provide a single place where everyone can see what needs testing and track progress.
 >
 > **[1:08](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=68)** Next up, we have automation tools.
 >
-> **[1:10](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=70)** Tools such as Selenium or Cypress, they're used to automate repetitive tasks like functional tests.
+> **[1:10](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=70)** Tools such as [[Selenium]] or Cypress, they're used to automate repetitive tasks like functional tests.
 >
 > **[1:17](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=77)** This is so that we can focus on complex issues.
 >
 > **[1:20](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=80)** This saves time and also helps ensure that no steps are missed in our testing processes.
 >
-> **[1:27](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=87)** Then we have performance testing tools such as JMeter or LoadRunner.
+> **[1:27](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=87)** Then we have performance testing tools such as [[JMeter]] or LoadRunner.
 >
 > **[1:31](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=91)** These simulate user loads to see how an application performs under stress.
 >
@@ -1954,7 +1926,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=120)** They're used to find vulnerabilities, code smells, or potential errors that might lead to bigger issues down the line.
 >
-> **[2:08](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=128)** Defect-tracking tools such as Bugzilla and GitHub help us keep record of any issues we find.
+> **[2:08](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=128)** Defect-tracking tools such as Bugzilla and [[GitHub]] help us keep record of any issues we find.
 >
 > **[2:14](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=134)** They ensure that defects don't slip through the cracks and are prioritized based on their impact on the software.
 >
@@ -1968,19 +1940,18 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=160)** You'll need to really focus on the following cognitive learning points for this section: explaining in your own words how different types of test tools support testing.
 >
-> **[2:51](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=171)** And in our next video, we're going to look at the benefits and risks of test automation to deepen our understanding of tool support within testing. So stay tuned.
+> **[2:51](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980&t=171)** And in our next video, we're going to look at the benefits and risks of [[Test Automation]] to deepen our understanding of tool support within testing. So stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[JMeter]] (2), application (2), management (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[JMeter]] (2), [[Jira]] (1), [[Selenium]] (1), [[GitHub]] (1), [[Test Automation]] (1)
 > **Analogies:** such as (4), imagine (1)
 > **CLI Commands:** make (2), find (2)
 > **Tools:** jira (1), github (1)
 > **Cross-References:** next video (1)
 > **Prerequisites:** you'll need (1)
 
-#### Benefits and risks of test automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/benefits-and-risks-of-test-automation?u=76281980)
+#### [Benefits and risks of test automation](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/benefits-and-risks-of-test-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1988,7 +1959,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/benefits-and-risks-of-test-automation?u=76281980&t=5)** Manually testing everything before each release would be nearly impossible without errors slipping through.
 >
-> **[0:12](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/benefits-and-risks-of-test-automation?u=76281980&t=12)** And that's where test automation really shines.
+> **[0:12](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/benefits-and-risks-of-test-automation?u=76281980&t=12)** And that's where [[Test Automation]] really shines.
 >
 > **[0:16](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/benefits-and-risks-of-test-automation?u=76281980&t=16)** Test automation is all about efficiency and accuracy.
 >
@@ -2000,7 +1971,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/benefits-and-risks-of-test-automation?u=76281980&t=46)** Automation also enhances accuracy.
 >
-> **[0:49](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/benefits-and-risks-of-test-automation?u=76281980&t=49)** Manual testing is prone to human error, especially when repeatedly testing the same areas.
+> **[0:49](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/benefits-and-risks-of-test-automation?u=76281980&t=49)** [[Manual Testing]] is prone to human error, especially when repeatedly testing the same areas.
 >
 > **[0:57](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/benefits-and-risks-of-test-automation?u=76281980&t=57)** Automation minimizes these risks, ensuring that each test is performed exactly as specified each time.
 >
@@ -2038,7 +2009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (7), [[Test Automation]] (4), [[Manual Testing]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Test Automation]] (4), [[Manual Testing]] (2)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -2048,8 +2019,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exam paper example
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980)
+#### [Exam paper example](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2081,7 +2051,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980&t=90)** The next question is which of the following options shows an example of test activities that contribute to success?
 >
-> **[1:38](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980&t=98)** A, having testers involved during various software development lifecycle activities will help to detect defects in work products.
+> **[1:38](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980&t=98)** A, having testers involved during various [[Software Development]] lifecycle activities will help to detect defects in work [[Microsoft Products|products]].
 >
 > **[1:46](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980&t=106)** B, testers try not to disturb the developers while coding so that the developers can write better code.
 >
@@ -2107,7 +2077,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980&t=180)** C, executing a performance efficiency test for a component during component testing?
 >
-> **[3:07](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980&t=187)** Or is it D, writing a test script before setting up the configuration management process?
+> **[3:07](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980&t=187)** Or is it D, writing a test script before setting up the [[Configuration Management]] process?
 >
 > **[3:15](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980&t=195)** Now in this question, D is the correct answer.
 >
@@ -2219,15 +2189,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Software Development]] (1), [[Microsoft Products|Products]] (1), management (1), product (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** istqb (6), sdlc (2)
 > **Definitions:** is a  (5), refers to (2), is an  (1)
 > **Best Practices:** don't forget (2)
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** download the (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2243,7 +2212,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/next-steps?u=76281980&t=25)** Remember, practice is key to success.
 >
-> **[0:29](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/next-steps?u=76281980&t=29)** Also, if you've enjoyed this course, check out my other software testing videos in the library for more insights and techniques.
+> **[0:29](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/next-steps?u=76281980&t=29)** Also, if you've enjoyed this course, check out my other [[Software Testing]] videos in the library for more insights and techniques.
 >
 > **[0:37](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/next-steps?u=76281980&t=37)** And don't forget, you can follow me on social media for updates, tips, and more testing content.
 >
@@ -2251,7 +2220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Software Testing]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1)
 > **Env Vars:** istqb (2)
 > **Best Practices:** don't forget (1)
 

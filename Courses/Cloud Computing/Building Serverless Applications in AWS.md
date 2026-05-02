@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a serverless application in AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/building-a-serverless-application-in-aws?u=76281980)
+#### [Building a serverless application in AWS](https://www.linkedin.com/learning/building-serverless-applications-in-aws/building-a-serverless-application-in-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,29 +98,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), cloud (2), aws (2)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Speakers:** - have (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=0)** - Before we embark on our journey of building serverless applications on AWS, let's briefly discuss what you should know to get the most out of this course.
 >
-> **[0:08](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=8)** First, I recommend having a general understanding of cloud computing.
+> **[0:08](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=8)** First, I recommend having a general understanding of [[Cloud Computing]].
 >
-> **[0:12](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=12)** This means knowing what the cloud is, the benefits it offers, and the underlying principles behind how cloud services operate.
+> **[0:12](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=12)** This means knowing what the cloud is, the benefits it offers, and the underlying principles behind how [[Cloud Services]] operate.
 >
 > **[0:19](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=19)** Secondly, it also helps to have a basic understanding of programming.
 >
 > **[0:23](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=23)** We'll be working with code, setting up functions, and talking about concepts like APIs, triggers, and event driven programming.
 >
-> **[0:31](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=31)** It doesn't matter what programming language you're already familiar with, be it Python, Java, or something else.
+> **[0:31](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=31)** It doesn't matter what programming language you're already familiar with, be it [[Python (Programming Language)|Python]], [[Java]], or something else.
 >
-> **[0:38](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=38)** In this course, we'll be using Python, HTML and CSS, but don't worry if you haven't come across them before.
+> **[0:38](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=38)** In this course, we'll be using Python, [[HTML]] and CSS, but don't worry if you haven't come across them before.
 >
 > **[0:45](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-you-need-to-know?u=76281980&t=45)** The code we'll be implementing is relatively straightforward, and I'll guide you through every step of the way.
 >
@@ -129,7 +126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Programming]] (3), aws (2), [[Python (Programming Language)|Python]] (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Cloud Computing]] (1), [[Cloud Services]] (1), [[Java]] (1), [[HTML]] (1)
 > **CLI Commands:** aws (2), python (2)
 > **Env Vars:** aws (2), html (1), css (1)
 > **Speakers:** - before (1)
@@ -139,8 +136,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a serverless application?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980)
+#### [What is a serverless application?](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -148,9 +144,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=4)** Or how Airbnb can manage thousands of bookings every day?
 >
-> **[0:09](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=9)** The secret lies in the power of serverless computing, but what exactly is serverless?
+> **[0:09](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=9)** The secret lies in the power of [[Serverless Computing]], but what exactly is serverless?
 >
-> **[0:14](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=14)** Well, in the world of cloud computing, serverless refers to the ability to build and run applications without having to provision or maintain the underlying infrastructure.
+> **[0:14](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=14)** Well, in the world of [[Cloud Computing]], serverless refers to the ability to build and run applications without having to provision or maintain the underlying infrastructure.
 >
 > **[0:23](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=23)** Serverless doesn't mean that there are no servers involved.
 >
@@ -158,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=33)** So what makes serverless applications attractive for companies and developers?
 >
-> **[0:37](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=37)** One major advantage is scalability.
+> **[0:37](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=37)** One major advantage is [[Scalability]].
 >
 > **[0:40](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=40)** Serverless computing allows applications to scale automatically based on demand.
 >
@@ -176,7 +172,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=81)** Without having to manage servers, developers can have more rapid development cycles.
 >
-> **[1:26](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=86)** This allows companies to iterate quickly and bring new features and products to market much faster.
+> **[1:26](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=86)** This allows companies to iterate quickly and bring new features and [[Microsoft Products|products]] to market much faster.
 >
 > **[1:33](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980&t=93)** However, despite its advantages, serverless does come with a few drawbacks.
 >
@@ -194,27 +190,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Serverless Computing]] (3), cloud (3), aws (2), power (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Serverless Computing]] (3), [[Cloud Computing]] (3), [[Scalability]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** refers to (1), short for (1), is an  (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Analogies:** such as (2)
 > **Speakers:** - have (1)
 
-#### Overview of AWS services
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980)
+#### [Overview of AWS services](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980&t=0)** - [Narrator] Imagine walking into a large supermarket for the first time and being greeted by rows and rows of new products.
+> **[0:00](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980&t=0)** - [Narrator] Imagine walking into a large supermarket for the first time and being greeted by rows and rows of new [[Microsoft Products|products]].
 >
 > **[0:06](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980&t=6)** The thought might be both exciting and overwhelming at the same time, and that's what it can feel like when you first enter the AWS Management console.
 >
 > **[0:14](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980&t=14)** AWS has over 200 fully featured services, so it can often be hard knowing where to start.
 >
-> **[0:20](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980&t=20)** Broadly speaking, most AWS services can be grouped into seven main categories: compute, storage, databases, networking and content delivery, analytics, machine learning, and security, identity and compliance.
+> **[0:20](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980&t=20)** Broadly speaking, most AWS services can be grouped into seven main categories: compute, storage, [[Databases]], networking and content delivery, analytics, machine learning, and security, identity and compliance.
 >
-> **[0:36](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980&t=36)** For example, Amazon EC2 is a compute service that provides virtual server capacity in the cloud.
+> **[0:36](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980&t=36)** For example, [[Amazon EC2]] is a compute service that provides virtual server capacity in the cloud.
 >
 > **[0:41](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-services?u=76281980&t=41)** And Amazon SageMaker is a machine learning service that allows you to build, train, and deploy machine learning models.
 >
@@ -230,15 +225,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), cloud (2), [[Microsoft Products|Products]] (1), management (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Databases]] (1), [[Amazon EC2]] (1)
 > **Env Vars:** aws (6), ec2 (1), api (1)
 > **CLI Commands:** aws (6)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Overview of Amazon S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-s3?u=76281980)
+#### [Overview of Amazon S3](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-s3?u=76281980&t=39)** First of all, it provides a reliable place to store data, and is designed for 99.9% of availability and 11 nines of durability, making the risk of losing data and downtime extremely rare.
 >
-> **[0:53](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-s3?u=76281980&t=53)** Another benefit of Amazon S3 is scalability.
+> **[0:53](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-s3?u=76281980&t=53)** Another benefit of Amazon S3 is [[Scalability]].
 >
 > **[0:56](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-s3?u=76281980&t=56)** Unlike traditional storage solutions where you may need to estimate amount of storage needed, S3 lets you scale up and down as required.
 >
@@ -268,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), aws (2), cloud (1), application (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), pdf (1)
 > **Definitions:** known as (1), is an  (1)
@@ -276,8 +270,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - if (1)
 
-#### Overview of AWS Lambda
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-lambda?u=76281980)
+#### [Overview of AWS Lambda](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-lambda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +286,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-lambda?u=76281980&t=33)** With AWS Lambda, you don't need to worry about setting up servers, optimizing them, or even keeping them running.
 >
-> **[0:40](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-lambda?u=76281980&t=40)** You can just upload the code you want to run, and Lambda takes care of the rest.
+> **[0:40](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-lambda?u=76281980&t=40)** You can just upload the code you want to run, and Lambda takes care of the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:45](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-lambda?u=76281980&t=45)** Similar to S3, the biggest benefits of using AWS Lambda is in its cost and flexibility.
 >
@@ -301,7 +294,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-lambda?u=76281980&t=58)** This pay per use pricing model also comes in handy where running applications with unpredictable workloads or varying levels of user traffic.
 >
-> **[1:07](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-lambda?u=76281980&t=67)** AWS Lambda offers added flexibility through its support for multiple programming languages, including Python, Java, and Node.js.
+> **[1:07](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-lambda?u=76281980&t=67)** AWS Lambda offers added flexibility through its support for multiple programming languages, including [[Python (Programming Language)|Python]], [[Java]], and [[Node.js]].
 >
 > **[1:16](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-aws-lambda?u=76281980&t=76)** It also integrates seamlessly with storage and database services, like Amazon S3 and DynamoDB.
 >
@@ -311,7 +304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), application (1), [[Representational State Transfer (REST)|Rest]] (1), traffic (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Node.js]] (1)
 > **CLI Commands:** aws (6), python (1), node (1)
 > **Env Vars:** aws (6)
 > **Analogies:** for instance (1), picture (1), similar to (1)
@@ -319,20 +312,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Overview of Amazon DynamoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980)
+#### [Overview of Amazon DynamoDB](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=0)** - In today's digital world filled with data, organizing and retrieving information efficiently continues to be a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=7)** That's where databases come in.
+> **[0:07](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=7)** That's where [[Databases]] come in.
 >
 > **[0:09](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=9)** Amazon DynamoDB is a fully managed non-relational database service offered by AWS that provides fast, predictable database performance.
 >
-> **[0:18](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=18)** Unlike traditional databases, non-relational databases are designed for speed and flexibility, making them a great fit for serverless applications.
+> **[0:18](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=18)** Unlike traditional databases, non-[[Relational Databases]] are designed for speed and flexibility, making them a great fit for serverless applications.
 >
-> **[0:27](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=27)** One of the biggest advantages of DynamoDB is its scalability.
+> **[0:27](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=27)** One of the biggest advantages of DynamoDB is its [[Scalability]].
 >
 > **[0:31](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=31)** It can handle over 10 trillion requests per day and automatically adjusts its capacity to meet workload demands.
 >
@@ -344,20 +336,19 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=57)** This pricing model makes DynamoDB a great option for both small and large-scale applications that need to handle a large amount of data.
 >
-> **[1:04](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=64)** Overall, DynamoDB takes away the burden of having to manage database software and provision hardware, but providing a reliable, scalable, and cost effective way to store and access data.
+> **[1:04](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=64)** Overall, DynamoDB takes away the burden of having to manage database software and provision [[Hardware]], but providing a reliable, scalable, and cost effective way to store and access data.
 >
 > **[1:17](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-amazon-dynamodb?u=76281980&t=77)** Next, we'll take a look at Amazon API Gateway, the final service to know before we build our serverless application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), [[Databases]] (2), aws (2), application (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Relational Databases]] (1), [[Scalability]] (1), [[Hardware]] (1)
 > **Env Vars:** aws (2), api (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Overview of API Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-api-gateway?u=76281980)
+#### [Overview of API Gateway](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-api-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -371,11 +362,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-api-gateway?u=76281980&t=29)** In the case of a serverless application, API gateway typically serves as the entry point for the application to interact with backend services, such as Amazon Dynamo db.
 >
-> **[0:40](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-api-gateway?u=76281980&t=40)** One of the key advantages of API gateway is its scalability and versatility.
+> **[0:40](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-api-gateway?u=76281980&t=40)** One of the key advantages of API gateway is its [[Scalability]] and versatility.
 >
 > **[0:46](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-api-gateway?u=76281980&t=46)** It can handle thousands of concurrent API calls and scales automatically in response to traffic patterns.
 >
-> **[0:52](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-api-gateway?u=76281980&t=52)** Amazon API Gateway can support a wide range of APIs, including REST APIs and HTTP APIs.
+> **[0:52](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-api-gateway?u=76281980&t=52)** Amazon API Gateway can support a wide range of APIs, including [[Representational State Transfer (REST)|REST]] APIs and HTTP APIs.
 >
 > **[0:59](https://www.linkedin.com/learning/building-serverless-applications-in-aws/overview-of-api-gateway?u=76281980&t=59)** And similar to the other services we've discussed, Amazon API Gateway uses a pay-as-you-go model.
 >
@@ -387,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), application (4), concurrent (2), traffic (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (11), aws (1), rest (1), http (1)
 > **Analogies:** similar to (2), such as (1)
 > **Definitions:** stands for (1), is an  (1)
@@ -395,8 +386,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
 
-#### What we are building today
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-we-are-building-today?u=76281980)
+#### [What we are building today](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-we-are-building-today?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,7 +400,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-we-are-building-today?u=76281980&t=27)** The first component to our web application is Amazon S3.
 >
-> **[0:31](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-we-are-building-today?u=76281980&t=31)** Amazon S3 acts as a scalable and reliable storage solution for our static web files, such as HTML, CSS, and JavaScript code.
+> **[0:31](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-we-are-building-today?u=76281980&t=31)** Amazon S3 acts as a scalable and reliable storage solution for our static web files, such as [[HTML]], CSS, and [[JavaScript]] code.
 >
 > **[0:40](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-we-are-building-today?u=76281980&t=40)** This will serve as the frontend where users can interact with the application.
 >
@@ -432,7 +422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), aws (4), web application (2), next (2), data (2)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** aws (4), html (1), css (1), api (1)
 > **CLI Commands:** aws (4)
 > **Cross-References:** next chapter (1)
@@ -445,8 +435,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating and using an AWS account
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/creating-and-using-an-aws-account?u=76281980)
+#### [Creating and using an AWS account](https://www.linkedin.com/learning/building-serverless-applications-in-aws/creating-and-using-an-aws-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,7 +477,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), management (1), next (1)
 > **CLI Commands:** aws (10)
 > **Env Vars:** aws (10)
 > **UI Navigation:** click on (2)
@@ -496,9 +484,9 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - okay (1)
 
-#### Create an S3 bucket and upload the landing page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980)
+#### [Create an S3 bucket and upload the landing page](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,7 +502,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=20)** Click on Create Bucket, and here you need to type in a name for your bucket.
 >
-> **[0:26](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=26)** I'm going to type in luci-linkedin-project, but feel free to type in any project name you'd like as long as it's not taken by another AWS user.
+> **[0:26](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=26)** I'm going to type in luci-[[LinkedIn]]-project, but feel free to type in any project name you'd like as long as it's not taken by another AWS user.
 >
 > **[0:39](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=39)** We're going to scroll all the way down and disable the block public access.
 >
@@ -528,13 +516,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=65)** So click on the bucket and download the website contents folder from the course files.
 >
-> **[1:11](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=71)** We're going to click Upload and we're going to add these files to our bucket, so app.js, index.html, and style.css.
+> **[1:11](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=71)** We're going to click Upload and we're going to add these files to our bucket, so app.js, index.[[HTML]], and style.css.
 >
 > **[1:24](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=84)** These files will form the front end for our website.
 >
 > **[1:28](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=88)** Click on Upload and wait for the files to finish uploading.
 >
-> **[1:33](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=93)** If you have some previous experience with web design, feel free to customize the design of the website.
+> **[1:33](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=93)** If you have some previous experience with [[Web Design]], feel free to customize the design of the website.
 >
 > **[1:39](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-an-s3-bucket-and-upload-the-landing-page?u=76281980&t=99)** The files I've provided is just a starting point.
 >
@@ -544,7 +532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), application (1), management (1), [[Search]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[HTML]] (1), [[Web Design]] (1)
 > **UI Navigation:** click on (6), scroll down (1)
 > **File Paths:** app.js (1), index.html (1), style.css (1)
 > **CLI Commands:** aws (2)
@@ -553,8 +541,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
 
-#### Configure the S3 bucket for static website hosting
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-the-s3-bucket-for-static-website-hosting?u=76281980)
+#### [Configure the S3 bucket for static website hosting](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-the-s3-bucket-for-static-website-hosting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +551,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-the-s3-bucket-for-static-website-hosting?u=76281980&t=17)** Click on edit and we're going to enable static website hosting.
 >
-> **[0:23](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-the-s3-bucket-for-static-website-hosting?u=76281980&t=23)** In the index document section, type in index dot HTML.
+> **[0:23](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-the-s3-bucket-for-static-website-hosting?u=76281980&t=23)** In the index document section, type in index dot [[HTML]].
 >
 > **[0:29](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-the-s3-bucket-for-static-website-hosting?u=76281980&t=29)** This basically tells AWS that the index dot HTML file is the main page for your website.
 >
@@ -578,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-the-s3-bucket-for-static-website-hosting?u=76281980&t=52)** And remember to rename your bucket name into the name of your actual S3 bucket.
 >
-> **[0:58](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-the-s3-bucket-for-static-website-hosting?u=76281980&t=58)** In my case, it's Lucy LinkedIn Project.
+> **[0:58](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-the-s3-bucket-for-static-website-hosting?u=76281980&t=58)** In my case, it's Lucy [[LinkedIn]] Project.
 >
 > **[1:06](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-the-s3-bucket-for-static-website-hosting?u=76281980&t=66)** Scroll down and click on save changes.
 >
@@ -598,7 +585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), aws (2), [[LinkedIn]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[LinkedIn]] (1)
 > **UI Navigation:** click on (6), scroll down (2), navigate to (1)
 > **Env Vars:** html (2), aws (2), url (2)
 > **CLI Commands:** aws (2), find (1)
@@ -612,8 +599,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up a DynamoDB table for data storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/set-up-a-dynamodb-table-for-data-storage?u=76281980)
+#### [Set up a DynamoDB table for data storage](https://www.linkedin.com/learning/building-serverless-applications-in-aws/set-up-a-dynamodb-table-for-data-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,7 +629,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-serverless-applications-in-aws/set-up-a-dynamodb-table-for-data-storage?u=76281980&t=58)** And now we're going to click on Create item.
 >
-> **[1:02](https://www.linkedin.com/learning/building-serverless-applications-in-aws/set-up-a-dynamodb-table-for-data-storage?u=76281980&t=62)** And navigate to the JSON view.
+> **[1:02](https://www.linkedin.com/learning/building-serverless-applications-in-aws/set-up-a-dynamodb-table-for-data-storage?u=76281980&t=62)** And navigate to the [[JSON]] view.
 >
 > **[1:05](https://www.linkedin.com/learning/building-serverless-applications-in-aws/set-up-a-dynamodb-table-for-data-storage?u=76281980&t=65)** Here you'll see a JSON editor where you can input the data for your recipes.
 >
@@ -677,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), aws (2), next (2), management (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4)
 > **Env Vars:** json (4), aws (2)
 > **UI Navigation:** click on (5), navigate to (1)
 > **CLI Commands:** aws (2), find (1), make (1)
@@ -686,8 +672,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - by (1)
 
-#### Create a Lambda function to retrieve data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-a-lambda-function-to-retrieve-data?u=76281980)
+#### [Create a Lambda function to retrieve data](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-a-lambda-function-to-retrieve-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -701,7 +686,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-a-lambda-function-to-retrieve-data?u=76281980&t=19)** Let's name our function getRecipes.
 >
-> **[0:25](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-a-lambda-function-to-retrieve-data?u=76281980&t=25)** For the runtime let's select Node.js 16.
+> **[0:25](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-a-lambda-function-to-retrieve-data?u=76281980&t=25)** For the runtime let's select [[Node.js]] 16.
 >
 > **[0:30](https://www.linkedin.com/learning/building-serverless-applications-in-aws/create-a-lambda-function-to-retrieve-data?u=76281980&t=30)** Keep all the other settings as default, and then click Create function.
 >
@@ -743,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Search]] (2), [[Node.js]] (1), next (1), api (1)
+> **Frameworks & Libraries:** [[Node.js]] (1)
 > **UI Navigation:** click on (6), scroll up (1), scroll down (1)
 > **Env Vars:** aws (2), iam (2), api (1)
 > **CLI Commands:** aws (2), node (1), make (1)
@@ -757,8 +742,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure API Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-api-gateway?u=76281980)
+#### [Configure API Gateway](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-api-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,7 +754,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-api-gateway?u=76281980&t=14)** Click on API Gateway.
 >
-> **[0:17](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-api-gateway?u=76281980&t=17)** And once you're on the landing page, scroll down until you see REST API.
+> **[0:17](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-api-gateway?u=76281980&t=17)** And once you're on the landing page, scroll down until you see [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:22](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-api-gateway?u=76281980&t=22)** Click on Build.
 >
@@ -808,7 +792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), application (3), [[Representational State Transfer (REST)|Rest]] (2), [[Search]] (1), aws (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (12), rest (2), aws (1), http (1), url (1)
 > **UI Navigation:** click on (7), scroll down (2)
 > **CLI Commands:** aws (1), find (1)
@@ -817,8 +801,7 @@ created: 2026-05-02
 > **API Endpoints:** get  (1)
 > **Cross-References:** in the next (1)
 
-#### Edit an app.js file
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/edit-an-app-js-file?u=76281980)
+#### [Edit an app.js file](https://www.linkedin.com/learning/building-serverless-applications-in-aws/edit-an-app-js-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,7 +847,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), application (3), aws (1), management (1), front-end (1)
 > **UI Navigation:** click on (6), navigate to (3), go to (1), scroll down (1)
 > **Env Vars:** api (3), url (3), cors (2), aws (1)
 > **File Paths:** app.js (5)
@@ -872,8 +854,7 @@ created: 2026-05-02
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test the recipe website to ensure proper functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/test-the-recipe-website-to-ensure-proper-functionality?u=76281980)
+#### [Test the recipe website to ensure proper functionality](https://www.linkedin.com/learning/building-serverless-applications-in-aws/test-the-recipe-website-to-ensure-proper-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,7 +874,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), api (1)
 > **Env Vars:** url (1), api (1)
 > **UI Navigation:** click on (2)
 > **Speakers:** - now (1)
@@ -903,8 +883,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -916,17 +895,17 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980&t=18)** Keep exploring and keep building.
 >
-> **[0:20](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980&t=20)** The world of cloud computing, especially in the serverless space, is constantly evolving.
+> **[0:20](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980&t=20)** The world of [[Cloud Computing]], especially in the serverless space, is constantly evolving.
 >
 > **[0:24](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980&t=24)** Look out for opportunities to apply your newly acquired skills in the real world.
 >
-> **[0:29](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980&t=29)** Check out the other cloud courses on LinkedIn Learning and feel free to take a look at my YouTube channel, Tech with Lucy to stay updated with the latest AWS career and study tips.
+> **[0:29](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980&t=29)** Check out the other cloud courses on [[LinkedIn]] Learning and feel free to take a look at my YouTube channel, Tech with Lucy to stay updated with the latest AWS career and study tips.
 >
 > **[0:38](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980&t=38)** Thank you for taking this course, and until next time, happy learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), aws (2), next (2), functional (1), application (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Speakers:** - congratulations (1)

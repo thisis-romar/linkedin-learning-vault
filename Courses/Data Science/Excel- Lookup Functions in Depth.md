@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transform your Excel skills with in-depth lookup functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/transform-your-excel-skills-with-in-depth-lookup-functions?u=76281980)
+#### [Transform your Excel skills with in-depth lookup functions](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/transform-your-excel-skills-with-in-depth-lookup-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/transform-your-excel-skills-with-in-depth-lookup-functions?u=76281980&t=0)** - [Dennis] Lookup functions change the way you use Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/transform-your-excel-skills-with-in-depth-lookup-functions?u=76281980&t=0)** - [Dennis] Lookup functions change the way you use [[Microsoft Excel|Excel]].
 >
 > **[0:03](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/transform-your-excel-skills-with-in-depth-lookup-functions?u=76281980&t=3)** They open up new horizons as you work with formulas and functions.
 >
@@ -105,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Locating data with the MATCH and XMATCH functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/locating-data-with-the-match-and-xmatch-functions?u=76281980)
+#### [Locating data with the MATCH and XMATCH functions](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/locating-data-with-the-match-and-xmatch-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/locating-data-with-the-match-and-xmatch-functions?u=76281980&t=19)** Now, possibly we could sort the list, maybe look for it that way, but we want to keep the list in this order that's alphabetized by employee name.
 >
-> **[0:27](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/locating-data-with-the-match-and-xmatch-functions?u=76281980&t=27)** We have the option here of using two different functions, the match function, which has been in Excel from the beginning or the recently introduced XMatch.
+> **[0:27](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/locating-data-with-the-match-and-xmatch-functions?u=76281980&t=27)** We have the option here of using two different functions, the match function, which has been in [[Microsoft Excel|Excel]] from the beginning or the recently introduced XMatch.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/locating-data-with-the-match-and-xmatch-functions?u=76281980&t=36)** Ultimately XMatch is the better choice, but it's helpful to know both functions.
 >
@@ -242,18 +240,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), next (4), data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieving information by location with the INDEX function
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/retrieving-information-by-location-with-the-index-function?u=76281980)
+#### [Retrieving information by location with the INDEX function](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/retrieving-information-by-location-with-the-index-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/retrieving-information-by-location-with-the-index-function?u=76281980&t=0)** - [Instructor] Excel's INDEX function allows us to pull information out of an array of cells based on a row and column reference.
+> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/retrieving-information-by-location-with-the-index-function?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]]'s INDEX function allows us to pull information out of an array of cells based on a row and column reference.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/retrieving-information-by-location-with-the-index-function?u=76281980&t=7)** And in this worksheet, in column O, we've got a large list of items listed here, and they have to be shipped to different zones, we see that in column P, and they are of different sizes.
 >
@@ -383,7 +380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** index (7), counta (5), t13 (1), u14 (1)
 > **SQL:** index (7)
 > **Versions:** 23.60 (1), 19.86 (1)
@@ -392,8 +389,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the XMATCH and INDEX functions together
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xmatch-and-index-functions-together?u=76281980)
+#### [Using the XMATCH and INDEX functions together](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xmatch-and-index-functions-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +431,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xmatch-and-index-functions-together?u=76281980&t=90)** The row that we're interested in is May.
 >
-> **[1:33](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xmatch-and-index-functions-together?u=76281980&t=93)** Now May, the word May, is in column A.
+> **[1:33](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xmatch-and-index-functions-together?u=76281980&t=93)** Now May, the [[Microsoft Word|word]] May, is in column A.
 >
 > **[1:35](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xmatch-and-index-functions-together?u=76281980&t=95)** It's not part of our list, but if we use the XMATCH function, xm tab, remember, let's get that word May.
 >
@@ -547,13 +543,13 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xmatch-and-index-functions-together?u=76281980&t=322)** And earlier we saw how INDEX and MATCH, much more powerfully used here, could work to pull out information from this list.
 >
-> **[5:30](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xmatch-and-index-functions-together?u=76281980&t=330)** And in a real life scenario, with more rows and more columns, you can imagine this being set up by way of a pick list using data validation.
+> **[5:30](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xmatch-and-index-functions-together?u=76281980&t=330)** And in a real life scenario, with more rows and more columns, you can imagine this being set up by way of a pick list using [[Data Validation]].
 >
 > **[5:37](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xmatch-and-index-functions-together?u=76281980&t=337)** So, powerful tools as we work with these together, INDEX and XMATCH.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), product (3), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Data Validation]] (1)
 > **Env Vars:** index (9), xmatch (7), match (4), a14 (1), f14 (1)
 > **SQL:** index (9)
 > **Analogies:** imagine (4)
@@ -567,8 +563,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structuring data for use with lookup functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980)
+#### [Structuring data for use with lookup functions](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -626,11 +621,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980&t=163)** And so in these different uses of the lookup functions, keep in mind the idea, it's always best to have these lookup lists nearby the data, makes formula writing simpler and easier.
 >
-> **[2:54](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980&t=174)** Another aspect of this that we're not seeing just yet is that some of you are familiar with the term table in Excel.
+> **[2:54](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980&t=174)** Another aspect of this that we're not seeing just yet is that some of you are familiar with the term table in [[Microsoft Excel|Excel]].
 >
 > **[3:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980&t=180)** If we convert a list to a table, there are some advantages.
 >
-> **[3:04](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980&t=184)** And we want to be careful when we use the word table, not to say that this is a table.
+> **[3:04](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980&t=184)** And we want to be careful when we use the [[Microsoft Word|word]] table, not to say that this is a table.
 >
 > **[3:09](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980&t=189)** But also, and you'll see this in some of the subsequent examples, when we do convert a list to a table, we gain some advantages in terms of handling information, but it does introduce some problems with certain kinds of formulas.
 >
@@ -644,7 +639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** xlookup (2), vlookup (2), hlookup (1)
 > **Warnings:** keep in mind (2), note that (1), be careful (1)
 > **CLI Commands:** make (2)
@@ -652,8 +647,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Finding exact and approximate matches with VLOOKUP and HLOOKUP
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-exact-and-approximate-matches-with-vlookup-and-hlookup?u=76281980)
+#### [Finding exact and approximate matches with VLOOKUP and HLOOKUP](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-exact-and-approximate-matches-with-vlookup-and-hlookup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,7 +663,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-exact-and-approximate-matches-with-vlookup-and-hlookup?u=76281980&t=36)** Equal, as you type it, you can press VL + Tab.
 >
-> **[0:40](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-exact-and-approximate-matches-with-vlookup-and-hlookup?u=76281980&t=40)** We're looking up the word fair, comma, over in these cells here.
+> **[0:40](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-exact-and-approximate-matches-with-vlookup-and-hlookup?u=76281980&t=40)** We're looking up the [[Microsoft Word|word]] fair, comma, over in these cells here.
 >
 > **[0:45](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-exact-and-approximate-matches-with-vlookup-and-hlookup?u=76281980&t=45)** If there's nothing else in these columns, we can simply drag across columns A and B.
 >
@@ -747,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Env Vars:** vlookup (7), hlookup (4), false (1), lookup (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -756,12 +750,11 @@ created: 2026-05-02
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the XLOOKUP function for exact matches
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-exact-matches?u=76281980)
+#### [Using the XLOOKUP function for exact matches](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-exact-matches?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-exact-matches?u=76281980&t=0)** - [Instructor] Excel's XLOOKUP function was introduced in late 2019, and for many Excel users, it's been a real game changer.
+> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-exact-matches?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]]'s XLOOKUP function was introduced in late 2019, and for many Excel users, it's been a real game changer.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-exact-matches?u=76281980&t=8)** Not only is it easier to work with than either VLOOKUP or HLOOKUP, it encompasses all the capabilities of those functions and it's got a few more attributes as well.
 >
@@ -827,7 +820,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-exact-matches?u=76281980&t=145)** So where are we looking here?
 >
-> **[2:26](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-exact-matches?u=76281980&t=146)** We're again looking at that word Fair in cell E2, but instead of looking in column B, now we're looking in these cells right here, H2 over to N2.
+> **[2:26](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-exact-matches?u=76281980&t=146)** We're again looking at that [[Microsoft Word|word]] Fair in cell E2, but instead of looking in column B, now we're looking in these cells right here, H2 over to N2.
 >
 > **[2:37](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-exact-matches?u=76281980&t=157)** And when we find it, the answer there, we would look into the corresponding cells above it.
 >
@@ -853,7 +846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2), game (1), [[Microsoft Word|Word]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** xlookup (4), vlookup (4), hlookup (4)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is an  (1), in other words (1)
@@ -861,8 +854,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the XLOOKUP function for approximate matches
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-approximate-matches?u=76281980)
+#### [Using the XLOOKUP function for approximate matches](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-xlookup-function-for-approximate-matches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -948,7 +940,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), [[Search]] (1)
 > **Env Vars:** xlookup (6), vlookup (4)
 > **CLI Commands:** find (4), make (2)
 > **Versions:** 3.5 (1), 4.5 (1)
@@ -956,9 +947,9 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [instructor] (1)
 
-#### New and expanded capabilities using XLOOKUP
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/new-and-expanded-capabilities-using-xlookup?u=76281980)
+#### [New and expanded capabilities using XLOOKUP](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/new-and-expanded-capabilities-using-xlookup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,7 +979,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/new-and-expanded-capabilities-using-xlookup?u=76281980&t=51)** Remember, only the first three are required.
 >
-> **[0:54](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/new-and-expanded-capabilities-using-xlookup?u=76281980&t=54)** So in cell A3 equal Excel tab.
+> **[0:54](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/new-and-expanded-capabilities-using-xlookup?u=76281980&t=54)** So in cell A3 equal [[Microsoft Excel|Excel]] tab.
 >
 > **[0:58](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/new-and-expanded-capabilities-using-xlookup?u=76281980&t=58)** Now, what are we looking for?
 >
@@ -1120,7 +1111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[Microsoft Excel|Excel]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** xlookup (7), vlookup (2), hlookup (2), xmatch (2)
 > **CLI Commands:** find (6), make (1)
 > **UI Navigation:** click on (2)
@@ -1134,14 +1125,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding table-like information within a function using the CHOOSE function
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-table-like-information-within-a-function-using-the-choose-function?u=76281980)
+#### [Finding table-like information within a function using the CHOOSE function](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-table-like-information-within-a-function-using-the-choose-function?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-table-like-information-within-a-function-using-the-choose-function?u=76281980&t=0)** - [Instructor] The function choose is a lookup function, but it's different in the others in that it does not require an external list.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-table-like-information-within-a-function-using-the-choose-function?u=76281980&t=7)** And at certain points as you're using Excel, that could be really handy.
+> **[0:07](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-table-like-information-within-a-function-using-the-choose-function?u=76281980&t=7)** And at certain points as you're using [[Microsoft Excel|Excel]], that could be really handy.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-table-like-information-within-a-function-using-the-choose-function?u=76281980&t=12)** On this worksheet, we've got some dates in column A.
 >
@@ -1309,7 +1299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Cross-References:** coming up (1), go back to (1)
@@ -1318,12 +1308,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the SWITCH function for formula-embedded selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-switch-function-for-formula-embedded-selection?u=76281980)
+#### [Using the SWITCH function for formula-embedded selection](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-switch-function-for-formula-embedded-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-switch-function-for-formula-embedded-selection?u=76281980&t=0)** - [Instructor] Excel's SWITCH function is not truly a lookup function.
+> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-switch-function-for-formula-embedded-selection?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]]'s SWITCH function is not truly a lookup function.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-switch-function-for-formula-embedded-selection?u=76281980&t=4)** If you were searching for it on the Formulas tab in the ribbon, you'd find it under Logical.
 >
@@ -1339,7 +1328,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-switch-function-for-formula-embedded-selection?u=76281980&t=33)** We've got a list here in columns, D, E, and F.
 >
-> **[0:35](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-switch-function-for-formula-embedded-selection?u=76281980&t=35)** We're trying to come up with the scores and we're using, for example, in cell F2 here, the XLOOKUP function to look up the word Fair.
+> **[0:35](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-switch-function-for-formula-embedded-selection?u=76281980&t=35)** We're trying to come up with the scores and we're using, for example, in cell F2 here, the XLOOKUP function to look up the [[Microsoft Word|word]] Fair.
 >
 > **[0:43](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-the-switch-function-for-formula-embedded-selection?u=76281980&t=43)** We're looking that up over in column B, then returning the number that's next to it, which is 71.
 >
@@ -1405,7 +1394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (3), data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** switch (7), choose (4), xlookup (4), ifs (1), fair (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1417,12 +1406,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extracting and counting unique entries using the UNIQUE function
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980)
+#### [Extracting and counting unique entries using the UNIQUE function](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980&t=0)** - [Instructor] In the early 2020s, Microsoft introduced a number of new functions, often categorized as dynamic array functions.
+> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980&t=0)** - [Instructor] In the early 2020s, [[Microsoft]] introduced a number of new functions, often categorized as dynamic array functions.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980&t=8)** And a number of them are in the lookup and reference category.
 >
@@ -1454,7 +1442,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980&t=60)** Enter.
 >
-> **[1:01](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980&t=61)** As I scroll up and down, you'll see that's a list of all the departments, including by the way, the word Department on top and a zero at the bottom.
+> **[1:01](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980&t=61)** As I scroll up and down, you'll see that's a list of all the departments, including by the way, the [[Microsoft Word|word]] Department on top and a zero at the bottom.
 >
 > **[1:09](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980&t=69)** Let's say for the moment, that's not going to bother us.
 >
@@ -1548,7 +1536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (5), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Microsoft]] (1)
 > **Env Vars:** unique (6), b999 (1), true (1)
 > **UI Navigation:** scroll up (1), click on (1)
 > **Definitions:** is called (1), is a  (1)
@@ -1556,12 +1544,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using FILTER and CHOOSECOLS for multiple column retrieval
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-filter-and-choosecols-for-multiple-column-retrieval?u=76281980)
+#### [Using FILTER and CHOOSECOLS for multiple column retrieval](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-filter-and-choosecols-for-multiple-column-retrieval?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-filter-and-choosecols-for-multiple-column-retrieval?u=76281980&t=0)** - [Instructor] If you've worked with lists in Excel, no doubt you're familiar with Excel's filtering capability.
+> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-filter-and-choosecols-for-multiple-column-retrieval?u=76281980&t=0)** - [Instructor] If you've worked with lists in [[Microsoft Excel|Excel]], no doubt you're familiar with Excel's filtering capability.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-filter-and-choosecols-for-multiple-column-retrieval?u=76281980&t=5)** There are times when you've got a big list, you don't want to see all of it, you just want to see people, for example, in a certain department, those above a certain salary level, and so on.
 >
@@ -1669,7 +1656,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-filter-and-choosecols-for-multiple-column-retrieval?u=76281980&t=299)** So we've got a list off to the right.
 >
-> **[5:02](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-filter-and-choosecols-for-multiple-column-retrieval?u=76281980&t=302)** And remember, on a table, when you add information at the bottom, it automatically becomes part of the table and therefore formulas will react.
+> **[5:02](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-filter-and-choosecols-for-multiple-column-retrieval?u=76281980&t=302)** And remember, on a table, when you add information at the bottom, it automatically becomes part of the table and therefore formulas will [[React.js|react]].
 >
 > **[5:11](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/using-filter-and-choosecols-for-multiple-column-retrieval?u=76281980&t=311)** If we're saying we want to see all the people whose salaries are under 40,000, let's zip into the list here, I'll press Ctrl + down arrow, and we're going to add a new person.
 >
@@ -1701,7 +1688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), feature (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[React.js|React]] (1)
 > **Env Vars:** filter (5), choosecols (3), e999 (1), b999 (1), empl (1)
 > **Analogies:** imagine (4), for example (1)
 > **Definitions:** is a  (2), refers to (1)
@@ -1710,8 +1697,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 
-#### Use the SORT and SORTBY functions to create new lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-sort-and-sortby-functions-to-create-new-lists?u=76281980)
+#### [Use the SORT and SORTBY functions to create new lists](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-sort-and-sortby-functions-to-create-new-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1785,7 +1771,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-sort-and-sortby-functions-to-create-new-lists?u=76281980&t=213)** We need to include, within curly braces, the two fields that we're referring to and, also within curly braces, the order in which they're going to appear.
 >
-> **[3:45](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-sort-and-sortby-functions-to-create-new-lists?u=76281980&t=225)** And this will work better as I zoom in, I think we'll see it a bit better this way.
+> **[3:45](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-sort-and-sortby-functions-to-create-new-lists?u=76281980&t=225)** And this will work better as I [[Zoom]] in, I think we'll see it a bit better this way.
 >
 > **[3:53](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-sort-and-sortby-functions-to-create-new-lists?u=76281980&t=233)** We do want that fourth column, that's the years, but we want another column as well.
 >
@@ -1833,7 +1819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Zoom]] (2), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Definitions:** is a  (2), in other words (2), refers to (1)
 > **Env Vars:** e999 (1), d999 (1), a999 (1)
 > **Analogies:** similar to (2), imagine (1)
@@ -1842,8 +1828,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Prerequisites:** set up (1)
 
-#### Use the INDIRECT function to return references specified by text strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-indirect-function-to-return-references-specified-by-text-strings?u=76281980)
+#### [Use the INDIRECT function to return references specified by text strings](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-indirect-function-to-return-references-specified-by-text-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1883,7 +1868,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-indirect-function-to-return-references-specified-by-text-strings?u=76281980&t=96)** What we'll be using here is a function called INDIRECT.
 >
-> **[1:39](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-indirect-function-to-return-references-specified-by-text-strings?u=76281980&t=99)** Now, one thought might be, could we somehow combine the word California with the address?
+> **[1:39](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-indirect-function-to-return-references-specified-by-text-strings?u=76281980&t=99)** Now, one thought might be, could we somehow combine the [[Microsoft Word|word]] California with the address?
 >
 > **[1:45](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-indirect-function-to-return-references-specified-by-text-strings?u=76281980&t=105)** Could we do this manually by actually saying something like =, let's bring in California and let's combine this with, what do we need there within double quotes?
 >
@@ -1917,7 +1902,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-indirect-function-to-return-references-specified-by-text-strings?u=76281980&t=237)** What's different?
 >
-> **[3:58](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-indirect-function-to-return-references-specified-by-text-strings?u=76281980&t=238)** Because there's a space in it, when you use sheet names in formulas and there's a space in the sheet name, Excel embeds the sheet name in single quotes as well.
+> **[3:58](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-indirect-function-to-return-references-specified-by-text-strings?u=76281980&t=238)** Because there's a space in it, when you use sheet names in formulas and there's a space in the sheet name, [[Microsoft Excel|Excel]] embeds the sheet name in single quotes as well.
 >
 > **[4:10](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/use-the-indirect-function-to-return-references-specified-by-text-strings?u=76281980&t=250)** So if we were to somehow rework our formula for here to account for that, and I've done this ahead of time, 'cause I think it might be boring to watch me type it, we choose this kind of a formula here, INDIRECT.
 >
@@ -1935,7 +1920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** indirect (6), a12 (1)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
 > **Definitions:** is a  (2)
@@ -1947,8 +1932,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CHOOSEROWS and CHOOSECOLS: Return lists with selected rows or columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/chooserows-choosecols-return-lists-with-selected-rows-or-columns?u=76281980)
+#### [CHOOSEROWS and CHOOSECOLS: Return lists with selected rows or columns](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/chooserows-choosecols-return-lists-with-selected-rows-or-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1996,7 +1980,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/chooserows-choosecols-return-lists-with-selected-rows-or-columns?u=76281980&t=98)** So I'll use the XLOOKUP function first.
 >
-> **[1:40](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/chooserows-choosecols-return-lists-with-selected-rows-or-columns?u=76281980&t=100)** Excel tab, looking for Ed Fox, in column B, and when I find his name, I'm going to pull out data from columns, C, D, and E.
+> **[1:40](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/chooserows-choosecols-return-lists-with-selected-rows-or-columns?u=76281980&t=100)** [[Microsoft Excel|Excel]] tab, looking for Ed Fox, in column B, and when I find his name, I'm going to pull out data from columns, C, D, and E.
 >
 > **[1:52](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/chooserows-choosecols-return-lists-with-selected-rows-or-columns?u=76281980&t=112)** Let's just drag across those.
 >
@@ -2102,7 +2086,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** chooserows (8), choosecols (7), xlookup (5), empl (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), is called (1)
@@ -2111,8 +2095,7 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### TAKE and DROP: Copy from lists selecting or ignoring consecutive rows or columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/take-drop-copy-from-lists-selecting-ignoring-consecutive-rows-columns?u=76281980)
+#### [TAKE and DROP: Copy from lists selecting or ignoring consecutive rows or columns](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/take-drop-copy-from-lists-selecting-ignoring-consecutive-rows-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2218,7 +2201,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** drop (3), index (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** coming up (2)
@@ -2226,8 +2208,7 @@ created: 2026-05-02
 > **SQL:** index (1)
 > **Speakers:** - [instructor] (1)
 
-#### TOROW and TOCOL: Convert array data into a single row or column
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/torow-tocol-convert-array-data-into-a-single-row-or-column?u=76281980)
+#### [TOROW and TOCOL: Convert array data into a single row or column](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/torow-tocol-convert-array-data-into-a-single-row-or-column?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2343,7 +2324,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (1)
 > **Env Vars:** torow (5), tocol (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), in the menu (1)
@@ -2351,8 +2331,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### WRAPROWS and WRAPCOLS: Convert row or column data into an array
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/wraprows-wrapcols-convert-row-column-data-into-an-array?u=76281980)
+#### [WRAPROWS and WRAPCOLS: Convert row or column data into an array](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/wraprows-wrapcols-convert-row-column-data-into-an-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2462,7 +2441,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/wraprows-wrapcols-convert-row-column-data-into-an-array?u=76281980&t=254)** That's the name of this table.
 >
-> **[4:16](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/wraprows-wrapcols-convert-row-column-data-into-an-array?u=76281980&t=256)** And so the formula right here, and I'll zoom in a bit so we can see it more clearly, WRAPCOLS, and we're simply taking the sales entry there and wrapping it 12 times in the same way.
+> **[4:16](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/wraprows-wrapcols-convert-row-column-data-into-an-array?u=76281980&t=256)** And so the formula right here, and I'll [[Zoom]] in a bit so we can see it more clearly, WRAPCOLS, and we're simply taking the sales entry there and wrapping it 12 times in the same way.
 >
 > **[4:26](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/wraprows-wrapcols-convert-row-column-data-into-an-array?u=76281980&t=266)** And here too, we could be doing the same thing down below.
 >
@@ -2478,7 +2457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** wrapcols (5), wraprows (5), f16 (2), tocol (1), torow (1)
 > **Analogies:** imagine (4), for example (2)
 > **Definitions:** is called (2), is an  (1)
@@ -2486,12 +2465,11 @@ created: 2026-05-02
 > **Code Identifiers:** wrap_count (1)
 > **Speakers:** - [instructor] (1)
 
-#### VSTACK and HSTACK: Stack multiple arrays into a vertical or horizontal array
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/vstack-hstack-stack-mutiple-arrays-into-a-vertical-horizontal-array?u=76281980)
+#### [VSTACK and HSTACK: Stack multiple arrays into a vertical or horizontal array](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/vstack-hstack-stack-mutiple-arrays-into-a-vertical-horizontal-array?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/vstack-hstack-stack-mutiple-arrays-into-a-vertical-horizontal-array?u=76281980&t=0)** - [Instructor] Excel's VSTACK and HSTACK functions allow, as their name suggests, stacking data.
+> **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/vstack-hstack-stack-mutiple-arrays-into-a-vertical-horizontal-array?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]]'s VSTACK and HSTACK functions allow, as their name suggests, stacking data.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/vstack-hstack-stack-mutiple-arrays-into-a-vertical-horizontal-array?u=76281980&t=6)** V for vertical, H for horizontal.
 >
@@ -2605,7 +2583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** vstack (8), hstack (8), groupby (2)
 > **UI Navigation:** double-click (2), scroll up (1)
 > **CLI Commands:** make (1), find (1)
@@ -2618,16 +2596,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your next steps in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980)
+#### [Your next steps in Excel](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980&t=0)** - [Lecturer] After viewing this course, you might be saying, "What's up next?
 >
-> **[0:03](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980&t=3)** "What else do I need to learn about Excel?"
+> **[0:03](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980&t=3)** "What else do I need to learn about [[Microsoft Excel|Excel]]?"
 >
-> **[0:06](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980&t=6)** As you explore LinkedIn Learning, you'll find many courses on this software including charts, formatting, pivot tables, tips and tricks, essentials, and quite a few others.
+> **[0:06](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980&t=6)** As you explore [[LinkedIn]] Learning, you'll find many courses on this software including charts, formatting, [[Pivot Tables]], tips and tricks, essentials, and quite a few others.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980&t=18)** Most Excel courses are identified by the Excel version and many of them explore additional features related to topics covered in this course.
 >
@@ -2639,7 +2616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1), [[LinkedIn]] (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[LinkedIn]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [lecturer] (1)
 

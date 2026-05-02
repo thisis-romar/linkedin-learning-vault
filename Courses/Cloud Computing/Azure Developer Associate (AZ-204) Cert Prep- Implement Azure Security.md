@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why security matters for developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980)
+#### [Why security matters for developers](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980&t=0)** - [Karl] With Azure Services, the time to market for application development is faster than ever before.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980&t=0)** - [Karl] With [[Microsoft Azure|Azure]] Services, the time to market for [[Application Development]] is faster than ever before.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980&t=6)** At the same time, any security issues we might face will have a wider impact than ever before.
 >
@@ -96,9 +95,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980&t=30)** Hi, I'm Karl Ots, an Azure MVP, CISSP, and a patented inventor.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980&t=36)** I invite you to join me for my course on LinkedIn Learning.
+> **[0:36](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980&t=36)** I invite you to join me for my course on [[LinkedIn]] Learning.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980&t=39)** There we will explore the baseline Azure security controls and discuss Azure application security best practices.
+> **[0:39](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980&t=39)** There we will explore the baseline Azure security controls and discuss Azure [[Application Security]] best practices.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980&t=46)** You can start incorporating these controls today with your existing projects.
 >
@@ -106,20 +105,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Security]] (5), application (2), [[Application Development]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Application Development]] (1), [[LinkedIn]] (1), [[Application Security]] (1)
 > **Env Vars:** mvp (1), cissp (1)
 > **Speakers:** - [karl] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980&t=0)** - [Instructor] For this course, I'm assuming that you're already familiar with Azure Portal and the basic services available in Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980&t=0)** - [Instructor] For this course, I'm assuming that you're already familiar with [[Microsoft Azure|Azure]] Portal and the basic services available in Azure.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980&t=6)** We'll be using a few different Azure resources in this course, but the focus of this course is security.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980&t=13)** If you find that you have any questions about apps services, storage, or Azure Active Directory, I'd encourage you to take a look at one of our other Azure courses.
+> **[0:13](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980&t=13)** If you find that you have any questions about apps services, storage, or [[Microsoft Entra ID|Azure Active Directory]], I'd encourage you to take a look at one of our other Azure courses.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980&t=22)** It's also important to note that the tools we are discussing aren't limited to the services we'll be using in our examples.
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980&t=32)** For this course, we will be working in a natural environment of KinetEco, Inc.
 >
-> **[0:37](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980&t=37)** KinetEco creates alternative energy products and systems worldwide.
+> **[0:37](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980&t=37)** KinetEco creates alternative energy [[Microsoft Products|products]] and systems worldwide.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/what-you-should-know-14526629?u=76281980&t=41)** It serves both industrial and consumer customers.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Security]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
 > **Warnings:** note that (1)
@@ -148,16 +146,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Role Based Access Control (RBAC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980)
+#### [Azure Role Based Access Control (RBAC)](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=0)** - [Instructor] The default way of granting access to Azure resources is called Role-based Access Control.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=0)** - [Instructor] The default way of granting access to [[Microsoft Azure|Azure]] resources is called Role-based Access Control.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=6)** Role-based Access Control or RBAC handles authorization across all services in Azure, be it databases, app services, or even virtual machines.
+> **[0:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=6)** Role-based Access Control or RBAC handles authorization across all services in Azure, be it [[Databases]], app services, or even [[Virtual Machines]].
 >
-> **[0:16](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=16)** And keep in mind that while Role-based Access Control handles authorization, Azure AD actually takes care of the authentication of our users and applications.
+> **[0:16](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=16)** And keep in mind that while Role-based Access Control handles authorization, [[Microsoft Entra ID|Azure AD]] actually takes care of the authentication of our users and applications.
 >
 > **[0:26](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=26)** Before we go any deeper with Role-based Access Control, let's talk about Azure Resource Manager Terminology.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=82)** A resource provider is an API or a representation of a particular Azure service.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=88)** For example, Microsoft.compute gives us services related to Microsoft virtual machines.
+> **[1:28](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=88)** For example, [[Microsoft]].compute gives us services related to Microsoft virtual machines.
 >
 > **[1:34](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=94)** Another example will be Microsoft database resource provider that gives us all actions and operations related to Azure App Services.
 >
@@ -183,9 +180,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=105)** A resource is an instance of an Azure service such as a particular web application or a particular database.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=112)** In KinetEco's case, their Azure active directory is called kinetecoinc.[onmicrosoft.com](https://onmicrosoft.com).
+> **[1:52](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=112)** In KinetEco's case, their [[Microsoft Entra ID|Azure active directory]] is called kinetecoinc.[onmicrosoft.com](https://onmicrosoft.com).
 >
-> **[1:58](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=118)** This Azure ID is actually linked to their on premises active directory so that all of the users and groups are actually synchronized from on premises to Azure ID.
+> **[1:58](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=118)** This Azure ID is actually linked to their on premises [[Active Directory]] so that all of the users and groups are actually synchronized from on premises to Azure ID.
 >
 > **[2:07](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=127)** This means that their users can actually use their existing credentials, username and password, to log into Azure.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=140)** Underneath the subscription, KinetEco has two resource groups, one for installation app, and one for solar panel.
 >
-> **[2:27](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=147)** The installation application actually has resources from several resource providers, Azure App Service, SQL database, and storage accounts.
+> **[2:27](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=147)** The installation application actually has resources from several resource providers, Azure App Service, [[SQL]] database, and storage accounts.
 >
 > **[2:36](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980&t=156)** The KinetEco remote solar panel app actually only has one resource, Azure App Service.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microsoft]] (6), [[Virtual Machines]] (3), [[Microsoft Entra ID|Azure ad]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microsoft]] (6), [[Virtual Machines]] (3), [[Microsoft Entra ID|Azure ad]] (3), [[Databases]] (1)
 > **Definitions:** is called (2), is a  (2), is an  (2), means that (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** rbac (1), api (1), sql (1)
@@ -222,8 +219,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grant role based access to a user
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980)
+#### [Grant role based access to a user](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -231,9 +227,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980&t=4)** I'm the consultant.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980&t=5)** I've been tasked to introduce a new developer into Kineteco's Azure environment.
+> **[0:05](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980&t=5)** I've been tasked to introduce a new developer into Kineteco's [[Microsoft Azure|Azure]] environment.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980&t=11)** And as you'll see, I've actually logged in with my own Azure AD credentials.
+> **[0:11](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980&t=11)** And as you'll see, I've actually logged in with my own [[Microsoft Entra ID|Azure AD]] credentials.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980&t=16)** But Kineteco has granted me access in their own environment.
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980&t=64)** And there are a ton of built in roles available, but because Brian is a developer, we are going to give them the contributor role.
 >
-> **[1:12](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980&t=72)** Brian actually has already a user in Kineteco's Azure active directory so we will leave this as it is.
+> **[1:12](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980&t=72)** Brian actually has already a user in Kineteco's [[Microsoft Entra ID|Azure active directory]] so we will leave this as it is.
 >
 > **[1:19](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/grant-role-based-access-to-a-user-14529522?u=76281980&t=79)** And let's search for Brian's user here on the selection box.
 >
@@ -281,14 +277,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), next (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft Entra ID|Azure ad]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft Entra ID|Azure ad]] (1)
 > **UI Navigation:** select the (1), click on (1), navigate to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [man] (1)
 
-#### Azure RBAC roles for development
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-rbac-roles-for-development-14528562?u=76281980)
+#### [Azure RBAC roles for development](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-rbac-roles-for-development-14528562?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -306,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-rbac-roles-for-development-14528562?u=76281980&t=43)** So, owner can invite new people in, assign people different roles, and delete existing RBAC assignments.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-rbac-roles-for-development-14528562?u=76281980&t=51)** Next, we have the contributor, and the contributor shall be the default role for an active developer or an administrator in any Azure project.
+> **[0:51](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-rbac-roles-for-development-14528562?u=76281980&t=51)** Next, we have the contributor, and the contributor shall be the default role for an active developer or an administrator in any [[Microsoft Azure|Azure]] project.
 >
 > **[1:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-rbac-roles-for-development-14528562?u=76281980&t=60)** Contributor is the role that lets you create, read, and delete any resources within the scope that it's assigned to, which means that we can modify anything.
 >
@@ -326,14 +321,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), next (1), management (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rbac (1)
 > **Speakers:** - [instructor] (1)
 
-#### The contributor role
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-contributor-role-14529520?u=76281980)
+#### [The contributor role](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-contributor-role-14529520?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,7 +339,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-contributor-role-14529520?u=76281980&t=19)** And now that Brian is a contributor in this resource group, they are able to add new resources, they are able to delete existing resources and they are able to change the tags assigned to this resource group.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-contributor-role-14529520?u=76281980&t=32)** However, if they go to access control and try to add role assignments, they'll see that add role assignment functionality is disabled because they don't have access to the Microsoft.authorization resource provider.
+> **[0:32](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-contributor-role-14529520?u=76281980&t=32)** However, if they go to access control and try to add role assignments, they'll see that add role assignment functionality is disabled because they don't have access to the [[Microsoft]].authorization resource provider.
 >
 > **[0:47](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-contributor-role-14529520?u=76281980&t=47)** But Brian has only this particular resource group visible to them.
 >
@@ -363,7 +357,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-contributor-role-14529520?u=76281980&t=95)** I'm able to navigate back, ask Brian to the list of resource groups.
 >
-> **[1:40](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-contributor-role-14529520?u=76281980&t=100)** And once we hit refresh, we are able to see the rest of the resource groups visible to Brian as well.
+> **[1:40](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-contributor-role-14529520?u=76281980&t=100)** And once we hit refresh, we are able to see the [[Representational State Transfer (REST)|rest]] of the resource groups visible to Brian as well.
 >
 > **[1:46](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-contributor-role-14529520?u=76281980&t=106)** And let's have a look at the third one over here, Kinetico remote solar panel up .
 >
@@ -373,24 +367,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), business (1), application (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** navigate to (2), go to (2), click on (1)
 > **Env Vars:** snl (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### The User Access Administrator and Owner roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980)
+#### [The User Access Administrator and Owner roles](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=0)** - [Instructor] Beyond the owner role, there's also another built-in role in Azure called user access administrator that users will use for managing access.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=0)** - [Instructor] Beyond the owner role, there's also another built-in role in [[Microsoft Azure|Azure]] called user access administrator that users will use for managing access.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=9)** Let's take a look at the user access administrator role.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=12)** As you will see, the list of available actions for user access admin is pretty slim.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=17)** We have the read action available for any resource provider in Azure, but we also have access to any operations within the Microsoft.Authorization resource provider.
+> **[0:17](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=17)** We have the read action available for any resource provider in Azure, but we also have access to any operations within the [[Microsoft]].Authorization resource provider.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=28)** This means that the user access administrator does not have access to make any changes to resources or resource groups, but it can control access for other users.
 >
@@ -398,13 +391,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=52)** The owner role is really a combination of user access administrative role, as well as the contributor role.
 >
-> **[0:59](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=59)** Beyond the role based access control roles, your developers might also need Azure active directory roles.
+> **[0:59](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=59)** Beyond the role based access control roles, your developers might also need [[Microsoft Entra ID|Azure active directory]] roles.
 >
 > **[1:05](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=65)** Azure active directory roles are assigned in the directory or a tenant level.
 >
 > **[1:09](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=69)** So they are not assigned in the same scopes as role based access control, subscription, resource group, or resource.
 >
-> **[1:17](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=77)** There are two relevant roles for application developers in Azure AD.
+> **[1:17](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=77)** There are two relevant roles for application developers in [[Microsoft Entra ID|Azure AD]].
 >
 > **[1:20](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-user-access-administrator-and-owner-roles-14530456?u=76281980&t=80)** First, we have application developer, which is a role that lets you create and manage application registrations, and similarly, we have the Azure active directory guest inviter.
 >
@@ -414,22 +407,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (6), application (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Microsoft Entra ID|Azure ad]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (6), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Best Practices:** rule of thumb (1), you should always (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom Azure RBAC roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980)
+#### [Custom Azure RBAC roles](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=0)** - [Instructor] Now that we know how to set up a development environment using built-in roles, let's talk about custom Azure role based access control roles.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=0)** - [Instructor] Now that we know how to set up a development environment using built-in roles, let's talk about custom [[Microsoft Azure|Azure]] role based access control roles.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=9)** And there are several cases where you will think of implementing custom roles for Azure role based access control.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=15)** First of all is, there are more than 70 different roles available and Microsoft is actually building even more roles as we speak.
+> **[0:15](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=15)** First of all is, there are more than 70 different roles available and [[Microsoft]] is actually building even more roles as we speak.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=22)** So sometimes you might be very tempted to implement just one custom role or one higher up role, for example, implementing the owner role instead of the user access administrator and the contributor role, if you need all of those powers in one.
 >
@@ -449,7 +441,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=114)** We need to monitor who has access to where, we even need to be aware of some of these backdoors that might not be visible to us using traditional monitoring or using test monitoring that's available to us.
 >
-> **[2:07](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=127)** For example, Azure active directory global administrators actually have the possibility to elevate them as user access administrators to any of the subscriptions that are linked to our Azure AD tenant.
+> **[2:07](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=127)** For example, [[Microsoft Entra ID|Azure active directory]] global administrators actually have the possibility to elevate them as user access administrators to any of the subscriptions that are linked to our [[Microsoft Entra ID|Azure AD]] tenant.
 >
 > **[2:20](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=140)** And some of the resource specific roles are not always very clear on their naming either.
 >
@@ -459,33 +451,32 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=160)** So why won't I consider custom roles?
 >
-> **[2:43](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=163)** First of all, built in roles are actually products just like any other Azure services built by Microsoft.
+> **[2:43](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=163)** First of all, built in roles are actually [[Microsoft Products|products]] just like any other Azure services built by Microsoft.
 >
-> **[2:50](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=170)** Microsoft teams are actually try to modeling these role based access controls roles.
+> **[2:50](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=170)** [[Microsoft Teams]] are actually try to modeling these role based access controls roles.
 >
 > **[2:54](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=174)** And when they are introducing new features, the Azure services, specifically these resource providers, they are actually introducing new services or at least re-evaluating these building roles as well.
 >
-> **[3:07](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=187)** When we are building these roles ourselves, whenever something changes on Microsoft side, we actually need to version control the changes and actually update these changes to each of our subscriptions that are using these custom roles.
+> **[3:07](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=187)** When we are building these roles ourselves, whenever something changes on Microsoft side, we actually need to [[Version Control]] the changes and actually update these changes to each of our subscriptions that are using these custom roles.
 >
 > **[3:18](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/custom-azure-rbac-roles-14524621?u=76281980&t=198)** And if you're not careful, you actually might end up having names that are very similar to those of the built-in roles.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (3), web (3), [[Security]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (3), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Entra ID|Azure ad]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (4), just like (1), similar to (1)
 > **CLI Commands:** find (2)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create custom Azure RBAC roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980)
+#### [Create custom Azure RBAC roles](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=0)** - [Tutor] So all of the built-in roles are actually defined here in docs.[microsoft.com](https://microsoft.com) under built-in roles for Azure resources page.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=0)** - [Tutor] So all of the built-in roles are actually defined here in docs.[[[Microsoft]].com](https://microsoft.com) under built-in roles for [[Microsoft Azure|Azure]] resources page.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=8)** For example, if I were to look for SQL related roles, I could just go ahead and search for SQL.
+> **[0:08](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=8)** For example, if I were to look for [[SQL]] related roles, I could just go ahead and search for SQL.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=14)** We'll see that there are actually a couple of roles built specifically for Microsoft SQL.
 >
@@ -521,17 +512,17 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=119)** Where can we actually implement this particular role?
 >
-> **[2:03](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=123)** The KinetEco database administrator has access to do anything within the Microsoft.Sql/servers/databases namespace of the resource provider.
+> **[2:03](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=123)** The KinetEco database administrator has access to do anything within the Microsoft.Sql/servers/[[Databases]] namespace of the resource provider.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=133)** But specifically, it is not permitted to perform any write or delete operations to the firewall rules of the SQL server.
+> **[2:13](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=133)** But specifically, it is not permitted to perform any write or delete operations to the firewall rules of the [[Microsoft SQL Server|SQL server]].
 >
 > **[2:22](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=142)** The KinetEco Database Network Administrator however, has no other access to that Microsoft.Sql resource provider, but it actually has access to modify and delete the firewall rules.
 >
 > **[2:36](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=156)** Custom rules are uploaded from the command line.
 >
-> **[2:39](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=159)** In Azure CLI, it now using the command az role definition create.
+> **[2:39](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=159)** In Azure [[CLI]], it now using the command az role definition create.
 >
-> **[2:45](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=165)** Azure parameter it takes in the role definition file that is written in Json.
+> **[2:45](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=165)** Azure parameter it takes in the role definition file that is written in [[JSON]].
 >
 > **[2:56](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/create-custom-azure-rbac-roles-14524612?u=76281980&t=176)** And once we have uploaded the custom roles into our Azure subscription, we are able to assign them to users.
 >
@@ -551,7 +542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (10), database (7), [[Microsoft]] (5), [[Microsoft Azure|Azure]] (4), [[Search]] (3)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Microsoft]] (5), [[Microsoft Azure|Azure]] (4), [[JSON]] (2), [[Databases]] (1)
 > **Env Vars:** sql (8), cli (1)
 > **File Paths:** microsoft.sql (3)
 > **Analogies:** for example (1), just like (1)
@@ -560,14 +551,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Tools:** command line (1)
 
-#### Management pane vs data pane RBAC roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/management-pane-vs-data-pane-rbac-roles-14525617?u=76281980)
+#### [Management pane vs data pane RBAC roles](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/management-pane-vs-data-pane-rbac-roles-14525617?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/management-pane-vs-data-pane-rbac-roles-14525617?u=76281980&t=0)** - [Instructor] So far, we have talked about access to Azure management pane.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/management-pane-vs-data-pane-rbac-roles-14525617?u=76281980&t=0)** - [Instructor] So far, we have talked about access to [[Microsoft Azure|Azure]] management pane.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/management-pane-vs-data-pane-rbac-roles-14525617?u=76281980&t=4)** Examples of these management pane access controls are rights about modifying file modules to Azure SQL, creating new resources, or managing access to others.
+> **[0:04](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/management-pane-vs-data-pane-rbac-roles-14525617?u=76281980&t=4)** Examples of these management pane access controls are rights about modifying file modules to Azure [[SQL]], creating new resources, or managing access to others.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/management-pane-vs-data-pane-rbac-roles-14525617?u=76281980&t=15)** We gave Brian a contributor access so that he can create, read, update or delete resources in his resource group.
 >
@@ -623,14 +613,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Azure|Azure]] (8), management (3), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[SQL]] (1)
 > **Env Vars:** sql (1), pdf (1)
 > **UI Navigation:** navigate to (1), drag and drop (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Design Azure access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-azure-access-control-14529518?u=76281980)
+#### [Challenge: Design Azure access control](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-azure-access-control-14529518?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -642,13 +631,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-azure-access-control-14529518?u=76281980&t=12)** The application itself is pretty easy.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-azure-access-control-14529518?u=76281980&t=14)** They have a web application, SQL database, and a storage account for installing installation manuals as PDF files.
+> **[0:14](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-azure-access-control-14529518?u=76281980&t=14)** They have a web application, [[SQL]] database, and a storage account for installing installation manuals as PDF files.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-azure-access-control-14529518?u=76281980&t=21)** There are two copies of the environment, the development environment, and the production environment.
 >
 > **[0:27](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-azure-access-control-14529518?u=76281980&t=27)** KinetEco has defined the following access control requirements for the application.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-azure-access-control-14529518?u=76281980&t=33)** First off, the project managers need to be able to manage project members' access to Azure resources.
+> **[0:33](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-azure-access-control-14529518?u=76281980&t=33)** First off, the project managers need to be able to manage project members' access to [[Microsoft Azure|Azure]] resources.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-azure-access-control-14529518?u=76281980&t=40)** The developers need to be able to create and modify resources in the development resource group, and they also need to be able to view the production resource group to troubleshoot issues in production.
 >
@@ -664,15 +653,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), web application (1), [[SQL]] (1), database (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (1), pdf (1)
 > **Cross-References:** next video (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Design Azure access control design
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-azure-access-control-design?u=76281980)
+#### [Solution: Design Azure access control design](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-azure-access-control-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-azure-access-control-design?u=76281980&t=10)** On the top, I have Cecilia, who has access as a User Access Administrator for the whole KinetEco Business Application Subscription scope.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-azure-access-control-design?u=76281980&t=18)** Next up, I have two assignments for the installation-app-dev Azure AD group role-based Access Control Contributor for the dev environment, and Reader for the production environment.
+> **[0:18](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-azure-access-control-design?u=76281980&t=18)** Next up, I have two assignments for the installation-app-dev [[Microsoft Entra ID|Azure AD]] group role-based Access Control Contributor for the dev environment, and Reader for the production environment.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-azure-access-control-design?u=76281980&t=30)** And lastly, I have the Installation Manual Uploaders group, assigned a storage block data contributor access, specifically to production environments, storage account only.
 >
@@ -688,13 +676,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-azure-access-control-design?u=76281980&t=45)** You might recall that Azure AD groups can be a target or the object of a RBAC assignment, just like a user or an application can be.
 >
-> **[0:54](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-azure-access-control-design?u=76281980&t=54)** If this was a brand new subscription, Cecilia will need to have owner privileges to register the resource providers of a mitered dev app, mitered SQL, and mitered storage, for the first time they want to use those services.
+> **[0:54](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-azure-access-control-design?u=76281980&t=54)** If this was a brand new subscription, Cecilia will need to have owner privileges to register the resource providers of a mitered dev app, mitered [[SQL]], and mitered storage, for the first time they want to use those services.
 >
 > **[1:09](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-azure-access-control-design?u=76281980&t=69)** After that User Access Administrator privileges are sufficient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (3), application (2), business (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (3), [[SQL]] (1)
 > **Env Vars:** rbac (1), sql (1)
 > **Analogies:** just like (1)
 > **Speakers:** - and (1)
@@ -705,12 +693,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Register an application to Azure AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980)
+#### [Register an application to Azure AD](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980&t=0)** - [Instructor] Registering an application is really a prerequisite for us to use Azure AD as an identity provider in our applications, meaning that our users get single sign-on using their existing credentials.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980&t=0)** - [Instructor] Registering an application is really a prerequisite for us to use [[Microsoft Entra ID|Azure AD]] as an identity provider in our applications, meaning that our users get single sign-on using their existing credentials.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980&t=13)** But you can use Azure AD to authentic applications as well.
 >
@@ -720,9 +707,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980&t=28)** When we register an application, an application object and a corresponding service principle are actually created behind the scenes.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980&t=38)** Applications are registered in the Azure portal.
+> **[0:38](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980&t=38)** Applications are registered in the [[Microsoft Azure|Azure]] portal.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980&t=41)** I've logged in as myself into Kineteco's Azure environment, and I'll navigate to the Azure Active Directory page of the Azure portal.
+> **[0:41](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980&t=41)** I've logged in as myself into Kineteco's Azure environment, and I'll navigate to the [[Microsoft Entra ID|Azure Active Directory]] page of the Azure portal.
 >
 > **[0:50](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980&t=50)** Here on, I'll scroll down for application registrations, and select new registration.
 >
@@ -768,7 +755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), [[Microsoft Entra ID|Azure active directory]] (6), [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft Azure|Azure]] (4), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (6), [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft Azure|Azure]] (4)
 > **Env Vars:** url (3)
 > **UI Navigation:** navigate to (1), scroll down (1), click on (1)
 > **Tools:** azure portal (2)
@@ -777,16 +764,15 @@ created: 2026-05-02
 > **URLs:** [azurewebsites.net](https://azurewebsites.net) (1)
 > **Cross-References:** go back to (1)
 
-#### Web application sign in with Azure AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980)
+#### [Web application sign in with Azure AD](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=0)** - [Instructor] To authenticate users in our web applications using Azure AD, we need to talk about claims-based access control.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=0)** - [Instructor] To authenticate users in our web applications using [[Microsoft Entra ID|Azure AD]], we need to talk about claims-based access control.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=8)** And claims-based access control starts with both the user and the application trusting a separate external identity provider, in this case, Azure AD.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=18)** Beyond just simple authentication tokens, the external identity provider can actually store multitude of claims about the user as well.
+> **[0:18](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=18)** Beyond just simple authentication [[Tokens]], the external identity provider can actually store multitude of claims about the user as well.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=28)** These can be used to grant more granular access and actually perform authorization-related access control methods within our application.
 >
@@ -800,7 +786,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=71)** In some cases, it might be your date of birth and maybe even some physical abilities as well.
 >
-> **[1:17](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=77)** So when we are building web applications that let users authenticate using Azure Active Directory, we are actually implementing something called an open ID authentication protocol.
+> **[1:17](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=77)** So when we are building web applications that let users authenticate using [[Microsoft Entra ID|Azure Active Directory]], we are actually implementing something called an open ID authentication protocol.
 >
 > **[1:28](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=88)** And let's quickly walk through how does it work.
 >
@@ -818,9 +804,9 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=127)** Once the user is redirected to the page, they are able to present the correct authentication token and our application is able to parse that token and decide whether or not the user is authorized to log into the page.
 >
-> **[2:21](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=141)** Now that we have verified the identity of the user based on the authentication provider's security token, we can actually fetch more detailed profile information from the identity provider.
+> **[2:21](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=141)** Now that we have verified the identity of the user based on the authentication provider's security token, we can actually [[Fetch]] more detailed profile information from the identity provider.
 >
-> **[2:33](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=153)** In Azure AD's case, that could entail claims about group membership, office location or which part of the organization do they belong to?
+> **[2:33](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=153)** In Azure AD's case, that could entail claims about group membership, [[Microsoft Office|office]] location or which part of the organization do they belong to?
 >
 > **[2:43](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=163)** So we left off KinetEco's website unsecured.
 >
@@ -840,7 +826,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=203)** Once we have copied these IDs, we can go ahead and configure the app service.
 >
-> **[3:28](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=208)** In the Azure portal, I'm going to select my app service from the recent resources.
+> **[3:28](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=208)** In the [[Microsoft Azure|Azure]] portal, I'm going to select my app service from the recent resources.
 >
 > **[3:33](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=213)** Under settings, when I scroll down, I see authentication/authorization and I can go ahead and turn this on.
 >
@@ -878,7 +864,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=305)** To do that, I'm going to open up a new in private window and navigate to the website.
 >
-> **[5:12](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=312)** I'm getting redirected to the login.microsoft.online, slash our directory ID.
+> **[5:12](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=312)** I'm getting redirected to the login.[[Microsoft]].online, slash our directory ID.
 >
 > **[5:19](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/web-application-sign-in-with-azure-ad-14525621?u=76281980&t=319)** I'll log in using Aaron's credentials.
 >
@@ -892,7 +878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), [[Microsoft Entra ID|Azure ad]] (8), [[Microsoft Entra ID|Azure active directory]] (4), web (3), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (8), [[Microsoft Entra ID|Azure active directory]] (4), [[Microsoft Azure|Azure]] (3), [[Tokens]] (1), [[Fetch]] (1)
 > **Prerequisites:** configure (4), set up (2)
 > **Env Vars:** url (3)
 > **UI Navigation:** scroll down (1), navigate to (1)
@@ -900,20 +886,19 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing web application authentication with Azure AD Conditional Access
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/securing-web-application-authentication-with-azure-ad-conditional-access-14529515?u=76281980)
+#### [Securing web application authentication with Azure AD Conditional Access](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/securing-web-application-authentication-with-azure-ad-conditional-access-14529515?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/securing-web-application-authentication-with-azure-ad-conditional-access-14529515?u=76281980&t=0)** - [Instructor] Now that we have set up authentication of our application, let's start looking at authorization.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/securing-web-application-authentication-with-azure-ad-conditional-access-14529515?u=76281980&t=6)** And authorization logic can be applied using Azure AD conditional access.
+> **[0:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/securing-web-application-authentication-with-azure-ad-conditional-access-14529515?u=76281980&t=6)** And authorization logic can be applied using [[Microsoft Entra ID|Azure AD]] conditional access.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/securing-web-application-authentication-with-azure-ad-conditional-access-14529515?u=76281980&t=12)** Azure AD conditional access also lets us specify when should we ask the user for another form of authentication, such as a one-time use code over SMS or an authentication application.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/securing-web-application-authentication-with-azure-ad-conditional-access-14529515?u=76281980&t=24)** Let's continue from our app registration and navigate into the manage application in our local directory.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/securing-web-application-authentication-with-azure-ad-conditional-access-14529515?u=76281980&t=31)** Conditional access is part of the premium licenses, which KinetEco has because they're using Office 365.
+> **[0:31](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/securing-web-application-authentication-with-azure-ad-conditional-access-14529515?u=76281980&t=31)** Conditional access is part of the premium licenses, which KinetEco has because they're using [[Microsoft Office|Office]] 365.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/securing-web-application-authentication-with-azure-ad-conditional-access-14529515?u=76281980&t=38)** So in the Enterprise application view, I'll just go ahead and click on Security, Conditional Access, and select new policy.
 >
@@ -989,7 +974,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Microsoft Entra ID|Azure ad]] (4), web application (3), [[Microsoft Office|Office]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (2), select the (2), scroll down (1)
 > **Prerequisites:** set up (2), configure (2)
 > **URLs:** [azurewebsites.net](https://azurewebsites.net) (1)
@@ -998,35 +983,33 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Microsoft Authentication Library
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980)
+#### [The Microsoft Authentication Library](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=0)** - [Instructor] We have talked about securing the authentication towards our application using Azure App Service.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=0)** - [Instructor] We have talked about securing the authentication towards our application using [[Microsoft Azure|Azure]] App Service.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=6)** However, if you are using another platform to host your apps, or if you are using a specific other technology, you might want to have a look at how to do this all in code.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=15)** To do that, have a look at the Microsoft identity platform.
+> **[0:15](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=15)** To do that, have a look at the [[Microsoft]] identity platform.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=19)** You'll find the information about how to implement all of these authentication scenarios in application code for a single page application, web application, even authenticating APIs against other APIs, and building native applications for services like mobile apps or Windows native.
+> **[0:19](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=19)** You'll find the information about how to implement all of these authentication scenarios in application code for a single page application, web application, even authenticating APIs against other APIs, and building native applications for services like mobile apps or [[Windows]] native.
 >
 > **[0:37](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=37)** What's more, Microsoft is providing us with Microsoft Authentication Library.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=43)** Microsoft Authentication Library or MSAL, is available for .NET, JavaScript, and other languages.
+> **[0:43](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=43)** Microsoft Authentication Library or MSAL, is available for .NET, [[JavaScript]], and other languages.
 >
 > **[0:49](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/the-microsoft-authentication-library?u=76281980&t=49)** From here, you'll have a chance to look at all of the sample code on a specific language or framework that you would like to use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), application (3), [[Microsoft Azure|Azure]] (1), web application (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Azure|Azure]] (1), [[Windows]] (1), [[JavaScript]] (1)
 > **Env Vars:** msal (1), net (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Internal web app with Azure AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980)
+#### [Challenge: Internal web app with Azure AD](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,15 +1017,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980&t=6)** - It's time for another challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980&t=8)** This time we are going to secure an internal web application using Azure ID.
+> **[0:08](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980&t=8)** This time we are going to secure an internal web application using [[Microsoft Azure|Azure]] ID.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980&t=13)** KinetEco wants to approach the cloud with the same security standards as they are used to from the on-premises world.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980&t=20)** Specifically, they want to provide access to their internal applications only to the users who have credentials in their own premises Active Directory already, and the users need to be accessing the application from the known secure company network.
+> **[0:20](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980&t=20)** Specifically, they want to provide access to their internal applications only to the users who have credentials in their own premises [[Active Directory]] already, and the users need to be accessing the application from the known secure company network.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980&t=36)** Your challenge is to plan the access control for this internal web application.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980&t=41)** Securing access from the point of view of network security is something that we haven't talked about before.
+> **[0:41](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980&t=41)** Securing access from the point of view of [[Network Security]] is something that we haven't talked about before.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-internal-web-app-with-azure-ad?u=76281980&t=46)** So go ahead and explore while the other conditions are available for you to protect your applications.
 >
@@ -1050,12 +1033,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (2), [[Microsoft Azure|Azure]] (1), cloud (1), [[Security]] (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Active Directory]] (1), [[Network Security]] (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (upbeat intro music) (1)
 
-#### Solution: Internal web application with Azure AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-internal-web-application-with-azure-ad-14531514?u=76281980)
+#### [Solution: Internal web application with Azure AD](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-internal-web-application-with-azure-ad-14531514?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,7 +1061,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (2), next (2)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1089,12 +1070,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage Azure application secrets
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980)
+#### [Manage Azure application secrets](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=0)** - [Tutor] Kineteco also has a line of products aimed at consumers.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=0)** - [Tutor] Kineteco also has a line of [[Microsoft Products|products]] aimed at consumers.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=4)** Most of these products are actually built around solar panels.
 >
@@ -1110,11 +1090,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=35)** As the key feature of the solar panel companion app is actually displaying off the manuals to the end user, we now need a way to grant solar panel web application access to the storage account.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=47)** I've already logged into the Azure environment of Kineteco.
+> **[0:47](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=47)** I've already logged into the [[Microsoft Azure|Azure]] environment of Kineteco.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=52)** The storage account that actually has all of the servicing manuals is the same one that we are using in the installation application.
 >
-> **[0:59](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=59)** To connect to a storage account securely, just like to our SQL database we need a connection string.
+> **[0:59](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=59)** To connect to a storage account securely, just like to our [[SQL]] database we need a connection string.
 >
 > **[1:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=66)** We can find them under the settings and access keys.
 >
@@ -1172,11 +1152,11 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=217)** We should avoid sharing this key with other users because this is the same key for all users of this storage account.
 >
-> **[3:44](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=224)** We shouldn't hard code it in any code and we shouldn't definitely store it in version control.
+> **[3:44](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980&t=224)** We shouldn't hard code it in any code and we shouldn't definitely store it in [[Version Control]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Products|Products]] (2), hit (2), feature (1), web application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Products|Products]] (2), [[SQL]] (1), [[Version Control]] (1)
 > **Env Vars:** sql (1), pdf (1)
 > **UI Navigation:** navigate to (1), select the (1)
 > **Analogies:** just like (1), for example (1)
@@ -1184,12 +1164,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### Shared Access Signatures in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980)
+#### [Shared Access Signatures in Azure](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=0)** - [Instructor] Instead of using this one account key to rule them all, let's talk about Shared Access Signatures or SAS tokens that we can use in Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=0)** - [Instructor] Instead of using this one account key to rule them all, let's talk about Shared Access Signatures or SAS [[Tokens]] that we can use in [[Microsoft Azure|Azure]].
 >
 > **[0:09](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=9)** Shared Access Signatures control the access to Azure Storage in a much more granular way.
 >
@@ -1277,7 +1256,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=352)** So I want to do this, so I click yes.
 >
-> **[5:54](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=354)** Now that I have successfully regenerated the key, we can go ahead and try to fetch the file again from the Azure Blob Storage.
+> **[5:54](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=354)** Now that I have successfully regenerated the key, we can go ahead and try to [[Fetch]] the file again from the Azure Blob Storage.
 >
 > **[6:02](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=362)** Now when I refresh the page, we actually get another type of error saying that, "Our authorization header is formed incorrectly," because the signature is no longer valid.
 >
@@ -1289,7 +1268,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=391)** In addition to Azure Storage, SAS tokens are available for us for authorization and access control in Azure Service Bus as well.
 >
-> **[6:39](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=399)** Because Service Bus shares the authorization model with these other services, we can actually use SAS tokens with Service Bus queues, topics, Relay and even Event Hub and IoT Hub as well.
+> **[6:39](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=399)** Because Service Bus shares the authorization model with these other services, we can actually use SAS tokens with Service Bus queues, topics, Relay and even Event Hub and [[IoT]] Hub as well.
 >
 > **[6:51](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/shared-access-signatures-in-azure?u=76281980&t=411)** Using SAS tokens to authorize your users, downloading files from Blob Storage, is actually a best practice.
 >
@@ -1297,7 +1276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (13), [[Microsoft Azure|Azure]] (13), web application (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[Tokens]] (13), [[Microsoft Azure|Azure]] (13), [[Fetch]] (1), [[IoT]] (1)
 > **Env Vars:** sas (18), url (3)
 > **UI Navigation:** click on (3), drag and drop (1), navigate to (1), right-click (1)
 > **Analogies:** for example (5)
@@ -1306,12 +1285,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Best Practices:** best practice (1)
 
-#### Azure Key Vault service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980)
+#### [Azure Key Vault service](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=0)** - [Instructor] As we are dealing with various connection strings in Azure, we need a place to store all of these secrets.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=0)** - [Instructor] As we are dealing with various connection strings in [[Microsoft Azure|Azure]], we need a place to store all of these secrets.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=6)** And that's where Azure Key Vault comes in.
 >
@@ -1319,13 +1297,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=16)** Mugshots make sure to store these secrets in a compliant way.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=19)** We can even bring in our own keys that Microsoft will use to store these secrets in hardware security modules.
+> **[0:19](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=19)** We can even bring in our own keys that [[Microsoft]] will use to store these secrets in [[Hardware]] security modules.
 >
 > **[0:26](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=26)** And one of the key features of Azure Key Vault is auditing.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=30)** We get a centralized view of who has access to our keys.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=33)** We also get versioning, when changes are needed to access tokens or account keys of storage accounts or any other secrets, we can build on the existing Azure key, well secret key or certificate.
+> **[0:33](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=33)** We also get versioning, when changes are needed to access [[Tokens]] or account keys of storage accounts or any other secrets, we can build on the existing Azure key, well secret key or certificate.
 >
 > **[0:44](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-service-14528564?u=76281980&t=44)** And we even get this audit trail record of what was changed and by whom.
 >
@@ -1351,19 +1329,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (3), [[Microsoft]] (1), [[Hardware]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft]] (1), [[Hardware]] (1), [[Tokens]] (1)
 > **Analogies:** such as (1), just like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding secrets to an Azure Key Vault
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980)
+#### [Adding secrets to an Azure Key Vault](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=0)** - [Instructor] To secure the access between the solar panel companion app, web application and the storage account of the installation app, Kineteco is going to use Azure key vault.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=0)** - [Instructor] To secure the access between the solar panel companion app, web application and the storage account of the installation app, Kineteco is going to use [[Microsoft Azure|Azure]] key vault.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=10)** And as Cecilia is the project manager of the whole Azure business of Kineteco, she's the one who is able to set up the Azure key vault.
 >
@@ -1401,7 +1378,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=118)** And for the value, I'm going to navigate to the storage account.
 >
-> **[2:02](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=122)** Now, as Cecilia is actually a contributor for this storage account, she's actually able to create these SAS tokens as well.
+> **[2:02](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=122)** Now, as Cecilia is actually a contributor for this storage account, she's actually able to create these SAS [[Tokens]] as well.
 >
 > **[2:10](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=130)** Let's configure this SAS token.
 >
@@ -1423,13 +1400,13 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=180)** Now that the secret has been successfully created, we can go ahead and navigate to the secret and we'll see that we always have versioning on, even though we only have this one version currently available, We can just go ahead and click on open it.
 >
-> **[3:13](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=193)** We see the URL that the solar panel application we need to call in order to fetch the connection string of the storage account.
+> **[3:13](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=193)** We see the URL that the solar panel application we need to call in order to [[Fetch]] the connection string of the storage account.
 >
 > **[3:21](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/adding-secrets-to-an-azure-key-vault-14530459?u=76281980&t=201)** If you navigate down below, we can click on show secret value in order to copy or view the secret.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), application (4), web application (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Tokens]] (1), [[Fetch]] (1)
 > **Env Vars:** sas (2), tls (1), ssl (1), url (1)
 > **UI Navigation:** click on (4), navigate to (1)
 > **Prerequisites:** set up (2), configure (2)
@@ -1438,8 +1415,7 @@ created: 2026-05-02
 > **URLs:** [azure.net](https://azure.net) (1)
 > **Analogies:** just like (1)
 
-#### Azure Key Vault Access Policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-access-policies-14530455?u=76281980)
+#### [Azure Key Vault Access Policies](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-access-policies-14530455?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1449,7 +1425,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-access-policies-14530455?u=76281980&t=12)** As we discussed, Cecilia is a Contributor for the subscription and Brian is actually a Reader for the whole subscription.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-access-policies-14530455?u=76281980&t=20)** So Brian is able to read the management pane of this Azure environment, but not the data pane, so the actual content of the Secrets, If he navigates to the Secrets page, he gets an error message showing that his access is unauthorized.
+> **[0:20](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-access-policies-14530455?u=76281980&t=20)** So Brian is able to read the management pane of this [[Microsoft Azure|Azure]] environment, but not the data pane, so the actual content of the Secrets, If he navigates to the Secrets page, he gets an error message showing that his access is unauthorized.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-access-policies-14530455?u=76281980&t=34)** Back in Cecelia's environment, she can go ahead to the Access policies page and add an access policy.
 >
@@ -1463,7 +1439,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-access-policies-14530455?u=76281980&t=57)** So let's just pick those.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-access-policies-14530455?u=76281980&t=62)** And let's select Brian from the list of Azure AD principles and click Select.
+> **[1:02](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-access-policies-14530455?u=76281980&t=62)** And let's select Brian from the list of [[Microsoft Entra ID|Azure AD]] principles and click Select.
 >
 > **[1:10](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-key-vault-access-policies-14530455?u=76281980&t=70)** Finally, we'll click on Add, and we need to remember to click Save, and these are now updated.
 >
@@ -1477,7 +1453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Microsoft Azure|Azure]] (1), data (1), [[Microsoft Entra ID|Azure ad]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **UI Navigation:** click on (1), navigate to (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Cross-References:** we discussed (1)
@@ -1486,12 +1462,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audit logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/audit-logs?u=76281980)
+#### [Audit logs](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/audit-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/audit-logs?u=76281980&t=0)** - [Instructor] Auditing is one of the key features of Azure Key Vault but it's not turned on by default as there are some costs involved.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/audit-logs?u=76281980&t=0)** - [Instructor] Auditing is one of the key features of [[Microsoft Azure|Azure]] Key Vault but it's not turned on by default as there are some costs involved.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/audit-logs?u=76281980&t=7)** Auditing functionality is actually hidden away underneath this monitoring and diagnostic settings.
 >
@@ -1517,29 +1492,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Azure|Azure]] (1), web application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managed Identity for Azure Resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980)
+#### [Managed Identity for Azure Resources](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=0)** - [Instructor] Now that our secrets are securely stored in Azure Key Vault, let's make sure that our applications are able to access the key vault as well, and we are going to do that using something called managed identities for Azure resources.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=0)** - [Instructor] Now that our secrets are securely stored in [[Microsoft Azure|Azure]] Key Vault, let's make sure that our applications are able to access the key vault as well, and we are going to do that using something called managed identities for Azure resources.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=13)** Managed identities are an alternative to using secrets or connections strings in our code.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=19)** Behind the scenes when we create a managed identity, we automatically get created an Azure AD identity or an object, for our application's Azure resources.
+> **[0:19](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=19)** Behind the scenes when we create a managed identity, we automatically get created an [[Microsoft Entra ID|Azure AD]] identity or an object, for our application's Azure resources.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=29)** For example, our Azure app service could have its own Azure AD identity.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=34)** Because Azure managed identities are actually represented in Azure AD, we can use those as a target or an object in role-based access control or access policy assignments.
 >
-> **[0:46](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=46)** Granting role-based access control to an application makes sense when the application itself needs to modify existing resources on Azure, it makes sense for example, in the case of AKS or Azure Kubernetes Service, when we actually need to give the AKS cluster itself contributor access in a resource group.
+> **[0:46](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=46)** Granting role-based access control to an application makes sense when the application itself needs to modify existing resources on Azure, it makes sense for example, in the case of AKS or Azure [[Kubernetes]] Service, when we actually need to give the AKS cluster itself contributor access in a resource group.
 >
-> **[1:05](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=65)** That way the AKS cluster is able to create and modify virtual machines and virtual networks as the cluster is being scaled up and down.
+> **[1:05](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=65)** That way the AKS cluster is able to create and modify [[Virtual Machines]] and virtual networks as the cluster is being scaled up and down.
 >
 > **[1:15](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/managed-identity-for-azure-resources-14525627?u=76281980&t=75)** I'm back in the Azure portal and I have logged in using Brian's credentials.
 >
@@ -1607,7 +1581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Microsoft Entra ID|Azure ad]] (7), application (7), web application (3), data (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Microsoft Entra ID|Azure ad]] (7), [[Kubernetes]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** click on (4), navigate to (2), select the (2)
 > **Env Vars:** aks (3), uri (1)
 > **Analogies:** for example (3), just like (1)
@@ -1616,8 +1590,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Tools:** azure portal (1)
 
-#### Challenge: Design data access controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-data-access-controls-14529524?u=76281980)
+#### [Challenge: Design data access controls](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-data-access-controls-14529524?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1633,19 +1606,18 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-data-access-controls-14529524?u=76281980&t=34)** Here's a recommendation.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-data-access-controls-14529524?u=76281980&t=35)** Have a look what Azure Key Vault could do for you in this case.
+> **[0:35](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-data-access-controls-14529524?u=76281980&t=35)** Have a look what [[Microsoft Azure|Azure]] Key Vault could do for you in this case.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/challenge-design-data-access-controls-14529524?u=76281980&t=39)** Because you are only choosing the access control technologies, this shouldn't take you more than a few minutes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), web (1), database (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Design data access controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-data-access-controls-14524620?u=76281980)
+#### [Solution: Design data access controls](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-data-access-controls-14524620?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1655,11 +1627,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-data-access-controls-14524620?u=76281980&t=16)** They just input in a free form field, a serial number of the database.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-data-access-controls-14524620?u=76281980&t=21)** Secondly, our solar panel web app fetches the SQL connection string from the key vault and uses that connection string to check whether or not this serial number is already in the list of registered devices.
+> **[0:21](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-data-access-controls-14524620?u=76281980&t=21)** Secondly, our solar panel web app fetches the [[SQL]] connection string from the key vault and uses that connection string to check whether or not this serial number is already in the list of registered devices.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-data-access-controls-14524620?u=76281980&t=33)** If that is the case, we are able to use Azure data pane role-based access control assignments to fetch the data from storage account and display that to the solar panel owners.
+> **[0:33](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-data-access-controls-14524620?u=76281980&t=33)** If that is the case, we are able to use [[Microsoft Azure|Azure]] data pane role-based access control assignments to [[Fetch]] the data from storage account and display that to the solar panel owners.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-data-access-controls-14524620?u=76281980&t=43)** Another way of controlling the access between the web app and the SQL database, would be to use something called, Azure AD authentication for SQL.
+> **[0:43](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-data-access-controls-14524620?u=76281980&t=43)** Another way of controlling the access between the web app and the SQL database, would be to use something called, [[Microsoft Entra ID|Azure AD]] authentication for SQL.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/solution-design-data-access-controls-14524620?u=76281980&t=52)** This is a feature of Azure SQL, where we could use instead of real SQL users, Azure AD users, and in this case, for example, the manage identity of our whole web application.
 >
@@ -1667,7 +1639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft Azure|Azure]] (4), database (2), web (2), data (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft Azure|Azure]] (4), [[Microsoft Entra ID|Azure ad]] (2), [[Fetch]] (1)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1679,16 +1651,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing solutions for Azure and beyond
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980)
+#### [Developing solutions for Azure and beyond](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980&t=0)** - [Instructor] You might have been watching this course in the preparation of the Azure Developer Exam AZ-203.
+> **[0:00](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980&t=0)** - [Instructor] You might have been watching this course in the preparation of the [[Microsoft Azure|Azure]] Developer Exam AZ-203.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980&t=6)** If you have, here are a couple of pointers for you.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980&t=9)** First of all, all information related to the exam is available at the Microsoft Learn website.
+> **[0:09](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980&t=9)** First of all, all information related to the exam is available at the [[Microsoft]] Learn website.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980&t=15)** At the same website, you can go ahead and finally schedule your exam and view more details about what sort of skills are measured and what are the (indistinct) averages across them.
 >
@@ -1770,7 +1741,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980&t=198)** I was able to block HTTP access with just a couple of clicks.
 >
-> **[3:23](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980&t=203)** Beyond such recommendations and fixes, Security Center can also send us alerts real-time when something malicious happens.
+> **[3:23](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980&t=203)** Beyond such recommendations and fixes, Security Center can also send us alerts [[Real-Time]] when something malicious happens.
 >
 > **[3:31](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980&t=211)** For example, for Azure Storage accounts, we will get alerts when something malicious is happening in our environment.
 >
@@ -1782,7 +1753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Security]] (10), application (3), web (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microsoft]] (1), [[Real-Time]] (1)
 > **Env Vars:** http (5), https (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** az (1), find (1)

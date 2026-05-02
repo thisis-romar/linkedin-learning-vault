@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting value from data to draw business conclusions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/getting-value-from-data-to-draw-business-conclusions?u=76281980)
+#### [Getting value from data to draw business conclusions](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/getting-value-from-data-to-draw-business-conclusions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,7 +113,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (3), power (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
@@ -124,8 +122,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why data, why now?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/why-data-why-now?u=76281980)
+#### [Why data, why now?](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/why-data-why-now?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/why-data-why-now?u=76281980&t=42)** And anything based on emotions and instinct are often fleeting and can change in a heartbeat.
 >
-> **[0:48](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/why-data-why-now?u=76281980&t=48)** When you have data-driven or evidence-based decision-making you're making calculated, planned directions.
+> **[0:48](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/why-data-why-now?u=76281980&t=48)** When you have data-driven or evidence-based [[Decision-Making]] you're making calculated, planned directions.
 >
 > **[0:55](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/why-data-why-now?u=76281980&t=55)** You have a solid sense of why you're making the decision and you generally have a good idea of your own degree of confidence.
 >
@@ -181,12 +178,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Decision-Making]] (2), business (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2)
 > **CLI Commands:** make (3)
 > **Speakers:** - have (1)
 
-#### Data drives decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980)
+#### [Data drives decision-making](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=12)** This is the power of data.
 >
-> **[0:14](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=14)** Data drives our decision-making.
+> **[0:14](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=14)** Data drives our [[Decision-Making]].
 >
 > **[0:16](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=16)** The restaurant, the crab cakes, the pasta, the price, these are all data points, data points for your decision.
 >
@@ -206,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=29)** If it turns out that your crab cakes were actually on sale that day, and you didn't order them, wouldn't you be disappointed?
 >
-> **[0:37](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=37)** Now think about if that was a decision about a equipment purchase, office lease, or merger.
+> **[0:37](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=37)** Now think about if that was a decision about a equipment purchase, [[Microsoft Office|office]] lease, or merger.
 >
 > **[0:43](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=43)** You need to ask yourself, which elements are relevant to the decision I need to make now or tomorrow.
 >
@@ -250,20 +246,19 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=127)** Data drives organizations to make informed decisions, to beat their competitions, and stay relevant.
 >
-> **[2:14](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=134)** The data helps them with decisions that lead to more profitable products, happier customers, and retained employees.
+> **[2:14](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=134)** The data helps them with decisions that lead to more profitable [[Microsoft Products|products]], happier customers, and retained employees.
 >
 > **[2:21](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-drives-decision-making?u=76281980&t=141)** Data insights drive decision-making, and the choices we make for tomorrow's success depend on drawing the right insights from the right data today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Decision-Making]] (3), power (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### Data context and digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-context-and-digital-transformation?u=76281980)
+#### [Data context and digital transformation](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-context-and-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -285,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-context-and-digital-transformation?u=76281980&t=50)** So in today's work, no longer does size or access become the only factor in helping you make smart decisions.
 >
-> **[0:57](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-context-and-digital-transformation?u=76281980&t=57)** With data-driven decision making, you're going to need accuracy of your data, speed of accessing the data, and the ability to filter and focus the data.
+> **[0:57](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-context-and-digital-transformation?u=76281980&t=57)** With [[Data-driven Decision Making]], you're going to need accuracy of your data, speed of accessing the data, and the ability to filter and focus the data.
 >
 > **[1:09](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-context-and-digital-transformation?u=76281980&t=69)** What's great is, technology helps deliver all this.
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), power (2), [[Data-driven Decision Making]] (1)
+> **Frameworks & Libraries:** [[Data-driven Decision Making]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - what (1)
@@ -315,8 +310,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying the business problem or opportunity
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980)
+#### [Identifying the business problem or opportunity](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -376,7 +370,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980&t=117)** It will definitely give some customer sentiment on how the current product line is being valued, but what about your competition?
 >
-> **[2:04](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980&t=124)** What are their products right now?
+> **[2:04](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980&t=124)** What are their [[Microsoft Products|products]] right now?
 >
 > **[2:07](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980&t=127)** Or what are they currently promoting?
 >
@@ -384,7 +378,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980&t=142)** But know that the data is a means to an end, not the end itself.
 >
-> **[2:28](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980&t=148)** To use the data for your decision-making means knowing what question you are answering, and why that decision is so important.
+> **[2:28](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980&t=148)** To use the data for your [[Decision-Making]] means knowing what question you are answering, and why that decision is so important.
 >
 > **[2:36](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980&t=156)** This will not only make the data valuable, but it'll help you stay focused.
 >
@@ -400,13 +394,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), product (7), next (3), teams (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### How to break down the business problem into data requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-break-down-the-business-problem-into-data-requirements?u=76281980)
+#### [How to break down the business problem into data requirements](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-break-down-the-business-problem-into-data-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,7 +421,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-break-down-the-business-problem-into-data-requirements?u=76281980&t=43)** But let's think about what we have.
 >
-> **[0:46](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-break-down-the-business-problem-into-data-requirements?u=76281980&t=46)** We have the data on the current products.
+> **[0:46](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-break-down-the-business-problem-into-data-requirements?u=76281980&t=46)** We have the data on the current [[Microsoft Products|products]].
 >
 > **[0:48](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-break-down-the-business-problem-into-data-requirements?u=76281980&t=48)** Okay, easy enough.
 >
@@ -470,13 +463,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Products|Products]] (8), product (2), next (2), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - using (1)
 
-#### Driving to prescriptive questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/driving-to-prescriptive-questions?u=76281980)
+#### [Driving to prescriptive questions](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/driving-to-prescriptive-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -536,11 +528,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/driving-to-prescriptive-questions?u=76281980&t=112)** These questions, help us analyze past trends and data to provide future insights.
 >
-> **[1:59](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/driving-to-prescriptive-questions?u=76281980&t=119)** So if we see that every December, we have higher revenue than the entire year, we might predict that next December we'll have higher revenue than the rest of our year.
+> **[1:59](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/driving-to-prescriptive-questions?u=76281980&t=119)** So if we see that every December, we have higher revenue than the entire year, we might predict that next December we'll have higher revenue than the [[Representational State Transfer (REST)|rest]] of our year.
 >
 > **[2:09](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/driving-to-prescriptive-questions?u=76281980&t=129)** These start getting us closer to feeling like our data is actually helping us.
 >
-> **[2:14](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/driving-to-prescriptive-questions?u=76281980&t=134)** But let's try push our questions making them prescriptive type, where we use our findings from different forms of data and analysis, to try to anticipate what is going to happen when we do different actions.
+> **[2:14](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/driving-to-prescriptive-questions?u=76281980&t=134)** But let's try push our questions making them prescriptive type, where we use our findings from different [[Forms]] of data and analysis, to try to anticipate what is going to happen when we do different actions.
 >
 > **[2:28](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/driving-to-prescriptive-questions?u=76281980&t=148)** So if we launch a new product in January, will it be as well-received as if we launched the new product in July or November?
 >
@@ -566,7 +558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (3), product (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - so (1)
 
@@ -575,8 +567,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying data you have
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-have?u=76281980)
+#### [Identifying data you have](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-have?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -608,7 +599,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-have?u=76281980&t=51)** Take a minute and think through these.
 >
-> **[0:53](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-have?u=76281980&t=53)** If your job is a financial analyst and you provide updated monthly sales reports, then you might be dealing with data on products and revenue and pricing.
+> **[0:53](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-have?u=76281980&t=53)** If your job is a financial analyst and you provide updated monthly sales reports, then you might be dealing with data on [[Microsoft Products|products]] and revenue and pricing.
 >
 > **[1:03](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-have?u=76281980&t=63)** If you access the company's customer relationship management system or CRM application, then you have insight on who the customer base is, their geographical location and order history.
 >
@@ -636,15 +627,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), management (2), business (2), [[Microsoft Products|Products]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** crm (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### Identifying data you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-need?u=76281980)
+#### [Identifying data you need](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,7 +684,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-need?u=76281980&t=110)** Then consider what are all the types of data that apply to revenue?
 >
-> **[1:54](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-need?u=76281980&t=114)** Current revenue, current products, price per produce, or ROI of each.
+> **[1:54](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-need?u=76281980&t=114)** Current revenue, current [[Microsoft Products|products]], price per produce, or ROI of each.
 >
 > **[1:59](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-need?u=76281980&t=119)** This is how you identify what data you need access to for making solid, confident decisions.
 >
@@ -734,13 +724,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** erp (1), roi (1)
 > **Speakers:** - the (1)
 
-#### How to identify and use alternative data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-and-use-alternative-data-sources?u=76281980)
+#### [How to identify and use alternative data sources](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-and-use-alternative-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +753,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-and-use-alternative-data-sources?u=76281980&t=34)** This is simply getting the data that we need from another source.
 >
-> **[0:38](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-and-use-alternative-data-sources?u=76281980&t=38)** So those purchase locations where people purchase our products?
+> **[0:38](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-and-use-alternative-data-sources?u=76281980&t=38)** So those purchase locations where people purchase our [[Microsoft Products|products]]?
 >
 > **[0:42](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-and-use-alternative-data-sources?u=76281980&t=42)** Marketing says they know what's purchased in store, but only know what percentage is purchased online.
 >
@@ -784,7 +773,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-and-use-alternative-data-sources?u=76281980&t=77)** Take a slightly different perspective on getting the data.
 >
-> **[1:20](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-and-use-alternative-data-sources?u=76281980&t=80)** If finance doesn't have the data you want, does customer relations or HR?
+> **[1:20](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-and-use-alternative-data-sources?u=76281980&t=80)** If finance doesn't have the data you want, does [[Customer Relations]] or HR?
 >
 > **[1:26](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-and-use-alternative-data-sources?u=76281980&t=86)** The data might have a little different flavor, but it can be just as helpful.
 >
@@ -816,12 +805,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Products|Products]] (2), traffic (1), [[Customer Relations]] (1), hr (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Customer Relations]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### How to ask for help with data analysis work
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-ask-for-help-with-data-analysis-work?u=76281980)
+#### [How to ask for help with data analysis work](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-ask-for-help-with-data-analysis-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,7 +859,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-ask-for-help-with-data-analysis-work?u=76281980&t=100)** So now the trick is to add in here one more part, the why.
 >
-> **[1:45](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-ask-for-help-with-data-analysis-work?u=76281980&t=105)** I want the purchasing data from customers who are between ages of 18 and 24 as we're trying to target new products to this demographic.
+> **[1:45](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-ask-for-help-with-data-analysis-work?u=76281980&t=105)** I want the purchasing data from customers who are between ages of 18 and 24 as we're trying to target new [[Microsoft Products|products]] to this demographic.
 >
 > **[1:54](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-ask-for-help-with-data-analysis-work?u=76281980&t=114)** Great, now we got the why.
 >
@@ -901,7 +889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 > **Warnings:** caveat (1)
@@ -912,8 +900,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying conclusions, not causation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980)
+#### [Identifying conclusions, not causation](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,7 +914,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980&t=27)** Correlation just means any kind of relationship or association that happens.
 >
-> **[0:32](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980&t=32)** You ever wear a similar shirt or pants as a colleague in the office?
+> **[0:32](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980&t=32)** You ever wear a similar shirt or pants as a colleague in the [[Microsoft Office|office]]?
 >
 > **[0:36](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980&t=36)** You just happened to correlate that day, nothing planned, nothing affected, just happened.
 >
@@ -975,19 +962,18 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980&t=149)** Why, 'cause those are the elements that affect the outcomes of our decisions.
 >
-> **[2:35](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980&t=155)** We want to use our data for smart and effective decision-making, so we need to understand where an action we take can have an effect on a result.
+> **[2:35](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980&t=155)** We want to use our data for smart and effective [[Decision-Making]], so we need to understand where an action we take can have an effect on a result.
 >
 > **[2:44](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980&t=164)** And so this is why we want to start digging in and finding where we have causation in our work by looking for the relationships in our data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Office|Office]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - okay (1)
 
-#### Important aspects of data conclusions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/important-aspects-of-data-conclusions?u=76281980)
+#### [Important aspects of data conclusions](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/important-aspects-of-data-conclusions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1009,7 +995,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/important-aspects-of-data-conclusions?u=76281980&t=24)** It's what you do with the data that's important.
 >
-> **[0:28](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/important-aspects-of-data-conclusions?u=76281980&t=28)** So for our decision-making, we need to then ask why.
+> **[0:28](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/important-aspects-of-data-conclusions?u=76281980&t=28)** So for our [[Decision-Making]], we need to then ask why.
 >
 > **[0:31](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/important-aspects-of-data-conclusions?u=76281980&t=31)** Why do we even care?
 >
@@ -1043,7 +1029,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/important-aspects-of-data-conclusions?u=76281980&t=93)** We start with a simple goal, as many do, to increase revenue.
 >
-> **[1:37](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/important-aspects-of-data-conclusions?u=76281980&t=97)** So I did some looking at our current products and current revenue and of course our finances.
+> **[1:37](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/important-aspects-of-data-conclusions?u=76281980&t=97)** So I did some looking at our current [[Microsoft Products|products]] and current revenue and of course our finances.
 >
 > **[1:42](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/important-aspects-of-data-conclusions?u=76281980&t=102)** I added in there some more data about our customers and where and how they've purchased products.
 >
@@ -1085,13 +1071,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), business (3), [[Microsoft Products|Products]] (3), [[Decision-Making]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Decision-Making]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - feeling (1)
 
-#### Translating data conclusions for business decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/translating-data-conclusions-for-business-decisions?u=76281980)
+#### [Translating data conclusions for business decisions](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/translating-data-conclusions-for-business-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1153,7 +1138,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/translating-data-conclusions-for-business-decisions?u=76281980&t=111)** And it's okay to just say this.
 >
-> **[1:53](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/translating-data-conclusions-for-business-decisions?u=76281980&t=113)** You don't have to have all the answers for everything when you first start using your data conclusions, I'll get the people who are smart about products and our customers, and I'll work with them to figure out the how.
+> **[1:53](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/translating-data-conclusions-for-business-decisions?u=76281980&t=113)** You don't have to have all the answers for everything when you first start using your data conclusions, I'll get the people who are smart about [[Microsoft Products|products]] and our customers, and I'll work with them to figure out the how.
 >
 > **[2:06](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/translating-data-conclusions-for-business-decisions?u=76281980&t=126)** But now, I've set us up to have options, and at least now have a solid direction of how we're going to get more revenue.
 >
@@ -1169,7 +1154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), product (1), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1)
 > **Speakers:** - all (1)
@@ -1179,8 +1164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of using visuals to share data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980)
+#### [The importance of using visuals to share data](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,7 +1176,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=17)** So the last thing we want to do is overwhelm those we share our data with.
 >
-> **[0:22](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=22)** Presenting data and visual formats for decision-making is all about clarity.
+> **[0:22](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=22)** Presenting data and visual formats for [[Decision-Making]] is all about clarity.
 >
 > **[0:27](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=27)** You're providing clarity on situations, and this clarity then needs to be focused.
 >
@@ -1216,7 +1200,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=72)** So, I get some good data that surveys of efficient workspaces show that some organizations have high project completion rates, some good correlation, even causation, and can show you this.
 >
-> **[1:24](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=84)** This table is definitely clearer than showing you rows and rows of Excel survey data.
+> **[1:24](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=84)** This table is definitely clearer than showing you rows and rows of [[Microsoft Excel|Excel]] survey data.
 >
 > **[1:29](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=89)** Sure, but now let's focus the data by turning this into a chart such as this.
 >
@@ -1246,7 +1230,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=126)** I tell you productivity goes up when you go from this to this.
 >
-> **[2:11](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=131)** Which office would you want to roll up to in the morning?
+> **[2:11](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=131)** Which [[Microsoft Office|office]] would you want to roll up to in the morning?
 >
 > **[2:14](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980&t=134)** I am literally already looking at my side pile of clutter and notes and actually feeling my response to the data.
 >
@@ -1274,14 +1258,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Decision-Making]] (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** picture (2), such as (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - the (1)
 
-#### How to present data conclusions in visual formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-conclusions-in-visual-formats?u=76281980)
+#### [How to present data conclusions in visual formats](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-conclusions-in-visual-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,7 +1274,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-conclusions-in-visual-formats?u=76281980&t=14)** We're going to start off simple.
 >
-> **[0:15](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-conclusions-in-visual-formats?u=76281980&t=15)** This isn't a data visualization course, though there are some great ones here on LinkedIn.
+> **[0:15](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-conclusions-in-visual-formats?u=76281980&t=15)** This isn't a data visualization course, though there are some great ones here on [[LinkedIn]].
 >
 > **[0:21](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-conclusions-in-visual-formats?u=76281980&t=21)** I want you to hold some clear concepts and guidance in your mind when you're presenting your data conclusions.
 >
@@ -1361,15 +1344,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[LinkedIn]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** roi (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - so (1)
 
-#### Presenting data through the use of storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/presenting-data-through-the-use-of-storytelling?u=76281980)
+#### [Presenting data through the use of storytelling](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/presenting-data-through-the-use-of-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1383,7 +1365,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/presenting-data-through-the-use-of-storytelling?u=76281980&t=28)** If we bore people with too much facts and information and fail to make that needed connection to what our data is telling us, then we fail to use the power of our data to give you a tool, to help when explaining your data conclusions.
 >
-> **[0:43](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/presenting-data-through-the-use-of-storytelling?u=76281980&t=43)** I want to talk about storytelling.
+> **[0:43](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/presenting-data-through-the-use-of-storytelling?u=76281980&t=43)** I want to talk about [[Storytelling]].
 >
 > **[0:46](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/presenting-data-through-the-use-of-storytelling?u=76281980&t=46)** Storytelling helps to provide the emotional connection to the data you are presenting.
 >
@@ -1431,7 +1413,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/presenting-data-through-the-use-of-storytelling?u=76281980&t=161)** I know the point.
 >
-> **[2:42](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/presenting-data-through-the-use-of-storytelling?u=76281980&t=162)** So drive the story of how having multiple products that produce revenue when market prices are dropping, are going to give the company and really me a level of comfort.
+> **[2:42](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/presenting-data-through-the-use-of-storytelling?u=76281980&t=162)** So drive the story of how having multiple [[Microsoft Products|products]] that produce revenue when market prices are dropping, are going to give the company and really me a level of comfort.
 >
 > **[2:54](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/presenting-data-through-the-use-of-storytelling?u=76281980&t=174)** Great, the hero swoops in.
 >
@@ -1451,7 +1433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Storytelling]] (3), power (2), business (1), product (1)
+> **Frameworks & Libraries:** [[Storytelling]] (3), [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (4), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
@@ -1461,8 +1443,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to present data in response to business requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-in-response-to-business-requests?u=76281980)
+#### [How to present data in response to business requests](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-in-response-to-business-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,16 +1493,15 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-in-response-to-business-requests?u=76281980&t=138)** You're simply connecting the dots now to the business, to help define the beginning of the fairytale.
 >
-> **[2:24](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-in-response-to-business-requests?u=76281980&t=144)** I've got a whole list of questions you can consider in the course handout as this is how your data, and more importantly, you become so much more valuable in the business decision-making process.
+> **[2:24](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-in-response-to-business-requests?u=76281980&t=144)** I've got a whole list of questions you can consider in the course handout as this is how your data, and more importantly, you become so much more valuable in the business [[Decision-Making]] process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (8), next (5), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### How to identify data gaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-data-gaps?u=76281980)
+#### [How to identify data gaps](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-identify-data-gaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,14 +1555,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), business (3), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - do (1)
 
-#### Leveraging data to drive business decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980)
+#### [Leveraging data to drive business decisions](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1608,7 +1586,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=43)** Here's what I mean.
 >
-> **[0:45](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=45)** We have a need to increase revenue, so you look at marketing data and see that younger generations use social media to purchase products.
+> **[0:45](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=45)** We have a need to increase revenue, so you look at marketing data and see that younger generations use social media to purchase [[Microsoft Products|products]].
 >
 > **[0:53](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=53)** So you put your action statement together of, "We need to increase revenue, so we should build mobile and social apps to sell our products."
 >
@@ -1616,7 +1594,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=65)** Is your company even on social media?
 >
-> **[1:08](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=68)** And if you are, do you have employees with skills who understand online and social media marketing?
+> **[1:08](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=68)** And if you are, do you have employees with skills who understand online and [[Social Media Marketing]]?
 >
 > **[1:13](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=73)** And are your products even appropriate for online markets?
 >
@@ -1652,7 +1630,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=196)** And what would we need?"
 >
-> **[3:18](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=198)** All good questions for decision-making, with even more in your handouts for this course.
+> **[3:18](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=198)** All good questions for [[Decision-Making]], with even more in your handouts for this course.
 >
 > **[3:23](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/leveraging-data-to-drive-business-decisions?u=76281980&t=203)** And again, these answers all come from your data.
 >
@@ -1670,7 +1648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (4), [[Microsoft Products|Products]] (3), [[Social Media Marketing]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Social Media Marketing]] (1), [[Decision-Making]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - so (1)
 
@@ -1679,8 +1657,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data conclusions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-conclusions?u=76281980)
+#### [Data conclusions](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-conclusions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1716,7 +1693,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (2), power (1), next (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - this (1)

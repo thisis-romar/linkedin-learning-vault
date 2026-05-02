@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/welcome?u=76281980&t=1)** - [Instructor] My name is Kumaran Ponnambalam.
 >
-> **[0:04](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/welcome?u=76281980&t=4)** Welcome to this Business Analytics Foundations course, covering Predictive, Prescriptive, and Experimental Analytics.
+> **[0:04](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/welcome?u=76281980&t=4)** Welcome to this [[Business Analytics]] Foundations course, covering Predictive, Prescriptive, and Experimental Analytics.
 >
 > **[0:12](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/welcome?u=76281980&t=12)** Business analytics is a field of technology which is gaining an increasing role in driving businesses.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (8), business (6)
+> **Frameworks & Libraries:** [[Business Analytics]] (5)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -117,12 +116,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is business analytics?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/what-is-business-analytics?u=76281980)
+#### [What is business analytics?](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/what-is-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/what-is-business-analytics?u=76281980&t=1)** - [Instructor] Before we get into the details, let us define business analytics.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/what-is-business-analytics?u=76281980&t=1)** - [Instructor] Before we get into the details, let us define [[Business Analytics]].
 >
 > **[0:07](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/what-is-business-analytics?u=76281980&t=7)** The term business analytics has been used loosely these days to define a wide range of data driven analytics activities and processes.
 >
@@ -146,16 +144,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), [[Analytics]] (7), data (5)
+> **Frameworks & Libraries:** [[Business Analytics]] (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business analytics compared
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980)
+#### [Business analytics compared](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980&t=1)** - [Narrator] If you have been watching the analytics horizon over the past few years, there are a few buzz words that stand out, the most important of them being: Business analytics, business intelligence, data engineering, and data science.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980&t=1)** - [Narrator] If you have been watching the analytics horizon over the past few years, there are a few buzz words that stand out, the most important of them being: [[Business Analytics]], [[Business Intelligence (BI)|business intelligence]], [[Data Engineering]], and [[Data Science]].
 >
 > **[0:20](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980&t=20)** How are these terms different?
 >
@@ -165,11 +162,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980&t=27)** When you look at the various activities associated with data inside a business they can be defined as the following.
 >
-> **[0:38](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980&t=38)** It starts from getting data from data sources and building data pipelines.
+> **[0:38](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980&t=38)** It starts from getting data from data sources and building [[Data Pipelines]].
 >
 > **[0:43](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980&t=43)** Then data is processed, transformed, and stored.
 >
-> **[0:48](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980&t=48)** The processed data is used to build dashboards and reports.
+> **[0:48](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980&t=48)** The processed data is used to build [[Dashboards]] and reports.
 >
 > **[0:53](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-compared?u=76281980&t=53)** This then becomes the basis for exploratory analytics, statistical modeling, and machine learning.
 >
@@ -195,17 +192,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (8), business (7), [[Data Engineering]] (4), [[Business Intelligence (BI)|Business intelligence]] (3)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Business Analytics]] (3), [[Business Intelligence (BI)|Business intelligence]] (3), [[Data Science]] (2), [[Dashboards]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Stages of business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/stages-of-business-analytics?u=76281980)
+#### [Stages of business analytics](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/stages-of-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/stages-of-business-analytics?u=76281980&t=1)** - [Narrator] Let us take a moment to look at the various stages of business analytics.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/stages-of-business-analytics?u=76281980&t=1)** - [Narrator] Let us take a moment to look at the various stages of [[Business Analytics]].
 >
 > **[0:08](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/stages-of-business-analytics?u=76281980&t=8)** The first stage of business analytics is descriptive analytics.
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/stages-of-business-analytics?u=76281980&t=52)** This is a targeted exploration and recent finding effort to answer a specific business question.
 >
-> **[1:00](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/stages-of-business-analytics?u=76281980&t=60)** The fourth stage is predictive analytics.
+> **[1:00](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/stages-of-business-analytics?u=76281980&t=60)** The fourth stage is [[Predictive Analytics]].
 >
 > **[1:04](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/stages-of-business-analytics?u=76281980&t=64)** This stage answers the question, what will happen?
 >
@@ -245,20 +241,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (9), business (5), data (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (3), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
-#### Business analytics process
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980)
+#### [Business analytics process](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980&t=1)** - [Instructor] Let us look at how business analytics processes work inside an organization.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980&t=1)** - [Instructor] Let us look at how [[Business Analytics]] processes work inside an organization.
 >
 > **[0:08](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980&t=8)** An organization has multiple data sources.
 >
-> **[0:12](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980&t=12)** There are data files or databases that capture enterprise data.
+> **[0:12](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980&t=12)** There are data files or [[Databases]] that capture enterprise data.
 >
 > **[0:17](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980&t=17)** That is data captured from the internet, like keywords and trending items from social media.
 >
@@ -274,7 +269,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980&t=67)** This is then stored again in the central repository.
 >
-> **[1:11](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980&t=71)** There are analytics products that will run on top of the transformed data and provide users and analysts with reports, dashboards, and exploratory capabilities.
+> **[1:11](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980&t=71)** There are analytics [[Microsoft Products|products]] that will run on top of the transformed data and provide users and analysts with reports, [[Dashboards]], and exploratory capabilities.
 >
 > **[1:25](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/business-analytics-process?u=76281980&t=85)** This data then will be the source for machine learning.
 >
@@ -286,12 +281,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Analytics]] (4), business (3), [[Databases]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (1), [[Databases]] (1), [[Microsoft Products|Products]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/course-use-case?u=76281980)
+#### [Course use case](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/course-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,7 +303,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/course-use-case?u=76281980&t=53)** The second data set is about email campaigns and conversions.
 >
-> **[0:58](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/course-use-case?u=76281980&t=58)** It is about a business that sends out emails periodically to potential customers with offers for their products.
+> **[0:58](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/course-use-case?u=76281980&t=58)** It is about a business that sends out emails periodically to potential customers with offers for their [[Microsoft Products|products]].
 >
 > **[1:07](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/course-use-case?u=76281980&t=67)** You should be receiving this kind of emails and offers from multiple stores.
 >
@@ -333,11 +327,11 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/course-use-case?u=76281980&t=141)** In other words, did the customer convert or not?
 >
-> **[2:25](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/course-use-case?u=76281980&t=145)** Now let us move on and start to take a deeper look into various stages of business analytics.
+> **[2:25](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/course-use-case?u=76281980&t=145)** Now let us move on and start to take a deeper look into various stages of [[Business Analytics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (3), business (2), [[Microsoft Products|Products]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Business Analytics]] (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -346,18 +340,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PRA definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980)
+#### [PRA definition](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980&t=1)** - [Instructor] Let us now start exploring the hot topic in analytics, predictive analytics.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980&t=1)** - [Instructor] Let us now start exploring the hot topic in analytics, [[Predictive Analytics]].
 >
 > **[0:08](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980&t=8)** What is predictive analytics?
 >
 > **[0:11](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980&t=11)** It answers the question, what will happen.
 >
-> **[0:15](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980&t=15)** The goal of predictive analytics is to identify the likelihood of future outcomes based on historical data, statistics, and machine learning.
+> **[0:15](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980&t=15)** The goal of predictive analytics is to identify the likelihood of future outcomes based on historical data, [[Statistics]], and machine learning.
 >
 > **[0:27](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980&t=27)** It tries to predict the behavior of humans or systems based on trends identified earlier.
 >
@@ -397,17 +390,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Predictive Analytics]] (7), [[Analytics]] (2), [[Statistics]] (1), business (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (7), [[Statistics]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### PRA tools and techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980)
+#### [PRA tools and techniques](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=1)** - Let us look into the tools and techniques used in machine learning for predictive analytics.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=1)** - Let us look into the tools and techniques used in machine learning for [[Predictive Analytics]].
 >
-> **[0:08](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=8)** We start off with data preparation techniques used for predictive analytics.
+> **[0:08](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=8)** We start off with [[Data Preparation]] techniques used for predictive analytics.
 >
 > **[0:14](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=14)** Data cleansing involves moving bad data or badly formatted data.
 >
@@ -431,7 +423,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=93)** Machine learning is usually classified into two types.
 >
-> **[1:37](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=97)** Supervised learning and unsupervised learning.
+> **[1:37](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=97)** [[Supervised Learning]] and unsupervised learning.
 >
 > **[1:41](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=101)** In supervised learning, we are trying to predict a specific target variable.
 >
@@ -455,7 +447,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=163)** For example, we tried to do a binary prediction as to whether the prospect will actually turn into a customer or predict a customer's class, say, platinum, gold, or silver based on various attributes and historical data.
 >
-> **[3:02](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=182)** There are a number of algorithms available for classification.
+> **[3:02](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=182)** There are a number of [[Algorithms]] available for classification.
 >
 > **[3:07](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=187)** Finally, we have recommendation engines.
 >
@@ -473,27 +465,26 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=238)** A very popular association rules algorithm is market basket analysis, which deals with items that are frequently bought together.
 >
-> **[4:10](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=250)** Businesses use this affinity score to offer additional products.
+> **[4:10](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-tools-and-techniques?u=76281980&t=250)** Businesses use this affinity score to offer additional [[Microsoft Products|products]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Supervised Learning]] (4), [[Predictive Analytics]] (2), product (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Supervised Learning]] (4), [[Predictive Analytics]] (2), [[Algorithms]] (2), [[Data Preparation]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
 
-#### PRA use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980)
+#### [PRA use case](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=1)** - [Instructor] Let us now try to do some predictive analytics for our email campaign use case.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=1)** - [Instructor] Let us now try to do some [[Predictive Analytics]] for our email campaign use case.
 >
 > **[0:09](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=9)** The goal of this predictive analytics use case is to predict whether a customer would buy a product advertised in the email campaign.
 >
 > **[0:19](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=19)** We will try to do so using data about their gender, age range, and earnings.
 >
-> **[0:26](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=26)** The first thing we do is to convert data into a format that is usable by machine learning algorithms.
+> **[0:26](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=26)** The first thing we do is to convert data into a format that is usable by machine learning [[Algorithms]].
 >
 > **[0:34](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=34)** We convert gender, age, and earnings into indicator variables.
 >
@@ -517,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=92)** Then, we do actual machine learning.
 >
-> **[1:36](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=96)** We have some sample python code here to show the steps.
+> **[1:36](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=96)** We have some sample [[Python (Programming Language)|python]] code here to show the steps.
 >
 > **[1:41](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-use-case?u=76281980&t=101)** We first split the data set into training and testing sets.
 >
@@ -533,17 +524,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Predictive Analytics]] (3), feature (2), [[Python (Programming Language)|Python]] (2), product (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (3), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### PRA best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980)
+#### [PRA best practices](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=1)** - [Narrator] What are some of the best practices for predictive analytics?
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=1)** - [Narrator] What are some of the best practices for [[Predictive Analytics]]?
 >
 > **[0:06](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=6)** First, when you try to use a model for actual business purposes, focus on the business gain or return on investment, not just model accuracy.
 >
@@ -553,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=32)** Focus on data and getting more data.
 >
-> **[0:35](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=35)** Algorithms can only do so much with insufficient data.
+> **[0:35](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=35)** [[Algorithms]] can only do so much with insufficient data.
 >
 > **[0:41](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=41)** Test model building with multiple algorithms and see which one fits best for your use case based on accuracy and response times.
 >
@@ -565,7 +555,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=73)** The accuracy should be stable across multiple data sets for the model to be effective in the field.
 >
-> **[1:20](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=80)** Predictive analytics teams should have the right composition of talent including data engineering, statistics, machine learning, and business.
+> **[1:20](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=80)** Predictive analytics teams should have the right composition of talent including [[Data Engineering]], [[Statistics]], machine learning, and business.
 >
 > **[1:30](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-best-practices?u=76281980&t=90)** This will help in planning, building, and executing the right model, and the business can focus on customers who will actually buy and spend more marketing dollars on them.
 >
@@ -573,7 +563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (5), [[Predictive Analytics]] (2), [[Algorithms]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Algorithms]] (2), [[Data Engineering]] (1), [[Statistics]] (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - [narrator] (1)
 
@@ -582,14 +572,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PSA definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980)
+#### [PSA definition](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=1)** - [Instructor] What is prescriptive analytics?
 >
-> **[0:05](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=5)** The goal of prescriptive analytics is to identify ways and means to take advantage of the findings and predictions provided by earlier stages of analytics, namely exploratory, explanatory, and predictive analytics.
+> **[0:05](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=5)** The goal of prescriptive analytics is to identify ways and means to take advantage of the findings and predictions provided by earlier stages of analytics, namely exploratory, explanatory, and [[Predictive Analytics]].
 >
 > **[0:24](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=24)** Exploratory, explanatory, and predictive analytics generate a number of findings, patterns, and predictions.
 >
@@ -597,7 +586,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=39)** Using these findings from analytics in business requires additional analysis to understand how they will work in the field and what benefits and risks they have.
 >
-> **[0:53](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=53)** We need to consider things like budget, time, and human resources that is required to implement the findings.
+> **[0:53](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=53)** We need to consider things like budget, time, and [[Human Resources (HR)|human resources]] that is required to implement the findings.
 >
 > **[1:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=61)** It is important to understand both budgetary costs and opportunity costs.
 >
@@ -613,18 +602,17 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=107)** For all the strategies and alternatives, costs and benefits are analyzed.
 >
-> **[1:54](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=114)** Simulation is done, if required, to create how the future environment would behave against these strategies and evaluate the business outcomes for these strategies.
+> **[1:54](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=114)** [[Simulation]] is done, if required, to create how the future environment would behave against these strategies and evaluate the business outcomes for these strategies.
 >
 > **[2:07](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980&t=127)** Finally, the team makes recommendations to management for the best course of action.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (5), business (4), [[Predictive Analytics]] (2), [[Human Resources (HR)|Human resources]] (1), product (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Human Resources (HR)|Human resources]] (1), [[Simulation]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### PSA tools and techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-tools-and-techniques?u=76281980)
+#### [PSA tools and techniques](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-tools-and-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +636,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-tools-and-techniques?u=76281980&t=52)** The constraints that are there include that x could be between zero and hundred and y should be between 50 and 150 and x is greater than y.
 >
-> **[1:04](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-tools-and-techniques?u=76281980&t=64)** Zed could be the total units sold, while x and y could be the number of individual products that can be sold based on inventory capacity.
+> **[1:04](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-tools-and-techniques?u=76281980&t=64)** Zed could be the total units sold, while x and y could be the number of individual [[Microsoft Products|products]] that can be sold based on inventory capacity.
 >
 > **[1:16](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-tools-and-techniques?u=76281980&t=76)** The second technique used is decision analysis.
 >
@@ -678,7 +666,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-tools-and-techniques?u=76281980&t=167)** This is then provided to management as recommendations.
 >
-> **[2:51](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-tools-and-techniques?u=76281980&t=171)** The final tool in prescriptive analytics is simulation.
+> **[2:51](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-tools-and-techniques?u=76281980&t=171)** The final tool in prescriptive analytics is [[Simulation]].
 >
 > **[2:56](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-tools-and-techniques?u=76281980&t=176)** The goal of a simulation exercise is to simulate a real business situation and measure outcomes.
 >
@@ -698,13 +686,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (6), [[Analytics]] (5), [[Programming]] (4), business (4), next (2)
+> **Frameworks & Libraries:** [[Simulation]] (6), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### PSA use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-use-case?u=76281980)
+#### [PSA use case](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,17 +753,16 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-use-case?u=76281980&t=157)** But still continue to do some on other days of the week?
 >
-> **[2:42](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-use-case?u=76281980&t=162)** As you can see, looking at these elements create necessities for fine tuning the strategy.
+> **[2:42](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-use-case?u=76281980&t=162)** As you can see, looking at these elements create necessities for [[Fine Tuning]] the strategy.
 >
-> **[2:48](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-use-case?u=76281980&t=168)** You might want to rather do 50% of your campaigns on Saturdays and sprinkle the rest across other days of the week.
+> **[2:48](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-use-case?u=76281980&t=168)** You might want to rather do 50% of your campaigns on Saturdays and sprinkle the [[Representational State Transfer (REST)|rest]] across other days of the week.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Analytics]] (1), next (1), hit (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### PSA best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-best-practices?u=76281980)
+#### [PSA best practices](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,7 +778,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-best-practices?u=76281980&t=32)** If key elements got missed out, then the analysis will not be accurate and relevant.
 >
-> **[0:39](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-best-practices?u=76281980&t=39)** Choose the right mathematical models for simulation.
+> **[0:39](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-best-practices?u=76281980&t=39)** Choose the right mathematical models for [[Simulation]].
 >
 > **[0:43](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-best-practices?u=76281980&t=43)** Do test runs to make sure that the simulation works as desired.
 >
@@ -804,7 +790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (5), teams (2), [[Simulation]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -813,8 +799,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### EXA definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-definition?u=76281980)
+#### [EXA definition](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -824,7 +809,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-definition?u=76281980&t=14)** The goal of experimental analytics is to test a hypothesis or an alternative to understand actual performance in the field.
 >
-> **[0:24](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-definition?u=76281980&t=24)** They key difference between prescriptive analytics and experimental analytics is, prescriptive analytics are used with simulation, within the enterprise.
+> **[0:24](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-definition?u=76281980&t=24)** They key difference between prescriptive analytics and experimental analytics is, prescriptive analytics are used with [[Simulation]], within the enterprise.
 >
 > **[0:35](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-definition?u=76281980&t=35)** Experimental analytics deals with actual experiments conducted on the field with actual customers, or subjects.
 >
@@ -858,12 +843,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (11), [[Simulation]] (1), business (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **CLI Commands:** find (3)
 > **Speakers:** - [narrator] (1)
 
-#### EXA tools and techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-tools-and-techniques?u=76281980)
+#### [EXA tools and techniques](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-tools-and-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,7 +873,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-tools-and-techniques?u=76281980&t=70)** The next type of testing is A/B testing.
 >
-> **[1:14](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-tools-and-techniques?u=76281980&t=74)** This is a very popular testing technique used by software companies to understand how users react to new features on their website.
+> **[1:14](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-tools-and-techniques?u=76281980&t=74)** This is a very popular testing technique used by software companies to understand how users [[React.js|react]] to new features on their website.
 >
 > **[1:25](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-tools-and-techniques?u=76281980&t=85)** In this case, there are typically two options, say two types of medication for cholesterol, and we want to see which one performs better.
 >
@@ -933,14 +917,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Analytics]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### EXA use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-use-case?u=76281980)
+#### [EXA use case](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,11 +957,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), [[Analytics]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### EXA best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-best-practices?u=76281980)
+#### [EXA best practices](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1006,7 +987,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1015,8 +995,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compliance considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980)
+#### [Compliance considerations](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1024,7 +1003,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980&t=7)** In this chapter, we will review some of the key trust and safety considerations.
 >
-> **[0:12](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980&t=12)** When doing business analytics, there are organizational, ethical, and legal requirements that an analyst should know about and conform to.
+> **[0:12](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980&t=12)** When doing [[Business Analytics]], there are organizational, ethical, and legal requirements that an analyst should know about and conform to.
 >
 > **[0:22](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980&t=22)** We will introduce four of these requirements in the chapter.
 >
@@ -1040,9 +1019,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980&t=51)** There are also industry-specific governing bodies, like GDPR and HIPPA, which also enforce certain regulations for their domain.
 >
-> **[1:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980&t=61)** Data security standards, like PCI, also exist that protects private data in the business.
+> **[1:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980&t=61)** [[Data Security]] standards, like PCI, also exist that protects private data in the business.
 >
-> **[1:09](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980&t=69)** Ethics in business analytics are generally accepted principles that are recommended to be met.
+> **[1:09](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980&t=69)** [[Ethics]] in business analytics are generally accepted principles that are recommended to be met.
 >
 > **[1:15](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980&t=75)** An organization may enforce such ethics for its employees.
 >
@@ -1058,14 +1037,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (5), business (5), [[Ethics]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (3), [[Ethics]] (2), [[Data Security]] (1)
 > **Env Vars:** gdpr (1), hippa (1), pci (1)
 > **Definitions:** refers to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data security and protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-security-protection?u=76281980)
+#### [Data security and protection](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-security-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,7 +1057,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-security-protection?u=76281980&t=29)** There could be confidential business data like sales data, expenses data and forecasts.
 >
-> **[0:36](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-security-protection?u=76281980&t=36)** Trade secrets and intellectual property may also be exposed during business analytics.
+> **[0:36](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-security-protection?u=76281980&t=36)** Trade secrets and intellectual property may also be exposed during [[Business Analytics]].
 >
 > **[0:43](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-security-protection?u=76281980&t=43)** Anytime an accidental exposure of this data happens to unauthorized personnel, it could lead to trust and financial impact for the company.
 >
@@ -1103,20 +1081,19 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-security-protection?u=76281980&t=115)** When moving data through emails or storing them on devices, use encryption with keys so the data is not accidentally exposed to those without required access.
 >
-> **[2:07](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-security-protection?u=76281980&t=127)** Finally, physically protect devices on which data is stored, whether they are central databases in data centers or laptops used by business analysts.
+> **[2:07](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-security-protection?u=76281980&t=127)** Finally, physically protect devices on which data is stored, whether they are central [[Databases]] in data centers or laptops used by business analysts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), business (5), [[Analytics]] (3), application (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (1), [[Databases]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data privacy considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980)
+#### [Data privacy considerations](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980&t=0)** - [Instructor] Data privacy is another key consideration when using data for business analytics.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980&t=0)** - [Instructor] [[Data Privacy]] is another key consideration when using data for [[Business Analytics]].
 >
 > **[0:06](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980&t=6)** Why do we need data privacy protections?
 >
@@ -1130,11 +1107,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980&t=34)** For this, such personal data is needed for analytics and machine learning.
 >
-> **[0:39](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980&t=39)** The entire domain of customer analytics is built on such data, but using such private data can violate laws, regulations, and ethics based on the industry, country, or company it's used in.
+> **[0:39](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980&t=39)** The entire domain of customer analytics is built on such data, but using such private data can violate laws, regulations, and [[Ethics]] based on the industry, country, or company it's used in.
 >
 > **[0:54](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980&t=54)** When such violations happen and are exposed, it can lead to serious issues for the company, like lawsuits, fines, loss of customer confidence, and impact on the company's stock price.
 >
-> **[1:08](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980&t=68)** Hence, it's important to honor privacy requirements when using data for analytics.
+> **[1:08](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980&t=68)** Hence, it's important to honor [[Privacy]] requirements when using data for analytics.
 >
 > **[1:15](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/data-privacy-considerations?u=76281980&t=75)** What steps should be taken to ensure compliance to privacy requirements?
 >
@@ -1152,15 +1129,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Analytics]] (7), [[Privacy]] (4), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (2), [[Privacy]] (2), [[Business Analytics]] (1), [[Ethics]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bias in business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/bias-in-business-analytics?u=76281980)
+#### [Bias in business analytics](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/bias-in-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/bias-in-business-analytics?u=76281980&t=0)** - [Presenter] Another key trust consideration when doing business analytics is bias.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/bias-in-business-analytics?u=76281980&t=0)** - [Presenter] Another key trust consideration when doing [[Business Analytics]] is bias.
 >
 > **[0:06](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/bias-in-business-analytics?u=76281980&t=6)** What is bias, especially in the context of business analytics?
 >
@@ -1176,7 +1152,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/bias-in-business-analytics?u=76281980&t=57)** Confirmation bias happens if the analyst has beliefs that favors a specific group and that bias makes its way to the results found.
 >
-> **[1:06](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/bias-in-business-analytics?u=76281980&t=66)** Algorithmic bias happens when algorithms used for analytics have a bias built in.
+> **[1:06](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/bias-in-business-analytics?u=76281980&t=66)** Algorithmic bias happens when [[Algorithms]] used for analytics have a bias built in.
 >
 > **[1:13](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/bias-in-business-analytics?u=76281980&t=73)** Measurement bias happens when the measuring process is biased.
 >
@@ -1202,7 +1178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (11), business (5), data (5), [[Algorithms]] (2), product (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (5), [[Algorithms]] (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [presenter] (1)
 
@@ -1211,20 +1187,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980&t=1)** - [Instructor] There is a lot you can learn and do with business analytics beyond this course.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980&t=1)** - [Instructor] There is a lot you can learn and do with [[Business Analytics]] beyond this course.
 >
 > **[0:07](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980&t=7)** Here are some of my recommendations.
 >
-> **[0:10](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980&t=10)** Learn business analytics programming using R, Python, or Java.
+> **[0:10](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980&t=10)** Learn business analytics programming using R, [[Python (Programming Language)|Python]], or [[Java]].
 >
-> **[0:16](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980&t=16)** Learn cross domain skills like statistics and business decision making.
+> **[0:16](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980&t=16)** Learn cross domain skills like [[Statistics]] and [[Business Decision Making]].
 >
-> **[0:22](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980&t=22)** Learn advanced skills like machine learning and predictive analytics.
+> **[0:22](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980&t=22)** Learn advanced skills like machine learning and [[Predictive Analytics]].
 >
 > **[0:26](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980&t=26)** Data always intrigues me, I bet it intrigues you, too.
 >
@@ -1232,7 +1207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Analytics]] (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Statistics]] (1), [[Business Decision Making]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

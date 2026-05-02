@@ -53,22 +53,22 @@ created: 2026-05-02
 > 20. [[Using AI in the Design to Full-Stack Development Life Cycle]] — 3 mentions
 > 21. [[Refactoring with GitHub Copilot]] — 3 mentions
 > 22. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 3 mentions
-> 23. [[An Introduction to AI and Sustainability]] — 2 mentions
-> 24. [[Building PHP Applications with Generative AI]] — 2 mentions
-> 25. [[Ai And Developer Productivity]] — 2 mentions
-> 26. [[Capstone- Building Production Features with Copilot]] — 2 mentions
-> 27. [[Learning Git and GitHub]] — 2 mentions
-> 28. [[What Is Generative AI-]] — 1 mentions
-> 29. [[Microsoft Security Copilot]] — 1 mentions
-> 30. [[Cloud Computing Careers and Certifications]] — 1 mentions
-> 31. [[Implementing a Data Strategy for Responsible AI]] — 1 mentions
-> 32. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
-> 33. [[Programming Foundations- Conducting Code Reviews]] — 1 mentions
-> 34. [[Enhancing Your Productivity as a Data Scientist with Generative AI]] — 1 mentions
-> 35. [[Devops Foundations Lean And Agile]] — 1 mentions
-> 36. [[Introduction To Prompt Engineering For Generative Ai]] — 1 mentions
-> 37. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 1 mentions
-> 38. [[Vibe Coding Fundamentals Tools And Best Practices]] — 1 mentions
+> 23. [[Vibe Coding Fundamentals Tools And Best Practices]] — 2 mentions
+> 24. [[An Introduction to AI and Sustainability]] — 2 mentions
+> 25. [[Building PHP Applications with Generative AI]] — 2 mentions
+> 26. [[Ai And Developer Productivity]] — 2 mentions
+> 27. [[Capstone- Building Production Features with Copilot]] — 2 mentions
+> 28. [[Learning Git and GitHub]] — 2 mentions
+> 29. [[What Is Generative AI-]] — 1 mentions
+> 30. [[Microsoft Security Copilot]] — 1 mentions
+> 31. [[Cloud Computing Careers and Certifications]] — 1 mentions
+> 32. [[Implementing a Data Strategy for Responsible AI]] — 1 mentions
+> 33. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
+> 34. [[Programming Foundations- Conducting Code Reviews]] — 1 mentions
+> 35. [[Enhancing Your Productivity as a Data Scientist with Generative AI]] — 1 mentions
+> 36. [[Devops Foundations Lean And Agile]] — 1 mentions
+> 37. [[Introduction To Prompt Engineering For Generative Ai]] — 1 mentions
+> 38. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 1 mentions
 > 39. [[Effectively Leading Digital Transformation]] — 1 mentions
 > 40. [[The AI-Driven Cybersecurity Analyst]] — 1 mentions
 > 41. [[Azure AI- The Big Picture]] — 1 mentions
@@ -87,9 +87,9 @@ created: 2026-05-02
 3. [[Career Essentials in GitHub Copilot Professional Certificate]] — 52 total mentions
 4. [[GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development]] — 49 total mentions
 5. [[Prepare for the GitHub Foundations Certification]] — 15 total mentions
-6. [[Improve Your Programming Skills with Artificial Intelligence]] — 13 total mentions
-7. [[Career Essentials in GitHub Professional Certificate]] — 13 total mentions
-8. [[Learn Vibe Coding- Build Apps with AI-Powered Coding]] — 13 total mentions
+6. [[Learn Vibe Coding- Build Apps with AI-Powered Coding]] — 14 total mentions
+7. [[Improve Your Programming Skills with Artificial Intelligence]] — 13 total mentions
+8. [[Career Essentials in GitHub Professional Certificate]] — 13 total mentions
 9. [[Building Generative AI Skills for Web Developers]] — 12 total mentions
 10. [[C- Foundations- From Basics to Building Blocks]] — 11 total mentions
 

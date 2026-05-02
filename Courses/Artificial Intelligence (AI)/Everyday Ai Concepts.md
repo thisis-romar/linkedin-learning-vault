@@ -85,12 +85,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is artificial intelligence?
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/what-is-artificial-intelligence?u=76281980)
+#### [What is artificial intelligence?](https://www.linkedin.com/learning/everyday-ai-concepts/what-is-artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/what-is-artificial-intelligence?u=76281980&t=0)** - Artificial intelligence systems are only getting more powerful.
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/what-is-artificial-intelligence?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] systems are only getting more powerful.
 >
 > **[0:04](https://www.linkedin.com/learning/everyday-ai-concepts/what-is-artificial-intelligence?u=76281980&t=4)** That's why it's important to understand some core AI concepts.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - artificial (1)
 
 
@@ -118,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A machine that learns by doing (and redoing)
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980)
+#### [A machine that learns by doing (and redoing)](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,27 +161,27 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=96)** Kasparov knew all the best moves, so it was just a matter of programming them into the machine.
 >
-> **[1:42](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=102)** Decades later, Google created another chess playing machine, but this computer learned by observing.
+> **[1:42](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=102)** Decades later, [[Google]] created another chess playing machine, but this computer learned by observing.
 >
 > **[1:49](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=109)** It didn't use Boolean logic like my plastic box.
 >
 > **[1:52](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=112)** Instead, it watched experts play games.
 >
-> **[1:55](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=115)** Then it used probability to make guesses and learn from its mistakes.
+> **[1:55](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=115)** Then it used [[Probability]] to make guesses and learn from its mistakes.
 >
 > **[2:00](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=120)** This technique was called machine learning.
 >
-> **[2:03](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=123)** This newer type of artificial intelligence could do much more than just play chess.
+> **[2:03](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=123)** This newer type of [[Artificial Intelligence (AI)|artificial intelligence]] could do much more than just play chess.
 >
 > **[2:08](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=128)** It could beat humans at complex video games.
 >
-> **[2:11](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=131)** These games required real-time creativity and movement.
+> **[2:11](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=131)** These games required [[Real-Time]] creativity and movement.
 >
 > **[2:15](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=135)** Google used this machine in a game called, "Go", a game so complex that it could never be programmed using simple IF-THEN statements.
 >
 > **[2:24](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=144)** There's simply too many moves and counter moves.
 >
-> **[2:27](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=147)** The Go machine used something called a deep learning artificial neural network.
+> **[2:27](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=147)** The Go machine used something called a [[Deep Learning]] artificial neural network.
 >
 > **[2:33](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980&t=153)** This was a form of machine learning that allowed it to process enormous amounts of data about strategy.
 >
@@ -211,17 +209,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (5), game (3), [[Google]] (2), [[Probability]] (2), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Google]] (2), [[Probability]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
 
-#### Scale up and learn from massive datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980)
+#### [Scale up and learn from massive datasets](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=0)** - If you've been in technology for a while, then you probably remember the rise of big data.
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=0)** - If you've been in technology for a while, then you probably remember the rise of [[Big Data]].
 >
 > **[0:05](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=5)** The term came from a NASA report.
 >
@@ -235,11 +232,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=29)** It was almost as if these companies landed on a continent that was filled with millions of acres of wheat, but they didn't have any of the tools to bring that wheat to harvest.
 >
-> **[0:40](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=40)** Then, around 2011, organizations started investigating the use of deep learning.
+> **[0:40](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=40)** Then, around 2011, organizations started investigating the use of [[Deep Learning]].
 >
 > **[0:45](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=45)** Deep learning was a machine learning technique that used an artificial neural network that was many layers deep.
 >
-> **[0:52](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=52)** Imagine that you had two enormous cakes, one chocolate and one vanilla.
+> **[0:52](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=52)** Imagine that you had two enormous cakes, one chocolate and one [[Vanilla]].
 >
 > **[0:57](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=57)** You needed to cut these cakes into thousands of slices so that each person got a slice.
 >
@@ -263,13 +260,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=113)** That way, every time there's a new cake, it would get better at making sure everyone got the right slice.
 >
-> **[2:00](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=120)** At first, these deep learning neural networks were used mostly to classify things.
+> **[2:00](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=120)** At first, these deep learning [[Neural Networks]] were used mostly to classify things.
 >
 > **[2:05](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=125)** You could tune the network using tens of thousands of images of cats.
 >
 > **[2:10](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=130)** Then, anytime you fed a new cat image into the network, it would be correctly classified.
 >
-> **[2:16](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=136)** Later, in 2017, the same technology was used by Google to create AlphaGo.
+> **[2:16](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=136)** Later, in 2017, the same technology was used by [[Google]] to create AlphaGo.
 >
 > **[2:22](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=142)** This is the system that Google created to play "Go", that was mentioned earlier.
 >
@@ -277,7 +274,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=154)** Once it identified these patterns, it would come up with new strategies on how to win the game.
 >
-> **[2:39](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=159)** Later, organizations started using these deep learning neural networks to do all forms of predictive machine learning.
+> **[2:39](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=159)** Later, organizations started using these deep learning neural networks to do all [[Forms]] of predictive machine learning.
 >
 > **[2:46](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=166)** You could classify your customers based on how much they spend.
 >
@@ -293,11 +290,11 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=196)** What started out as an accurate way to identify images turned into one of the best ways to do any form of prediction.
 >
-> **[3:23](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=203)** That's why, for over a decade, artificial neural networks have still been the dominant form of AI.
+> **[3:23](https://www.linkedin.com/learning/everyday-ai-concepts/scale-up-and-learn-from-massive-datasets?u=76281980&t=203)** That's why, for over a decade, [[Artificial Neural Networks]] have still been the dominant form of AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Big Data]] (4), data (3), [[Vanilla]] (3), [[Google]] (3)
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Big Data]] (4), [[Vanilla]] (3), [[Google]] (3), [[Neural Networks]] (2)
 > **CLI Commands:** make (4), cat (1), find (1)
 > **Env Vars:** nasa (1)
 > **Analogies:** imagine (1)
@@ -308,8 +305,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accurately predict what someone will do
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980)
+#### [Accurately predict what someone will do](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=10)** In fact, many people believe that it's our ability to learn from mistakes that defines intelligence.
 >
-> **[0:15](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=15)** So far, you've seen that artificial neural networks scale machine learning to work on massive data sets.
+> **[0:15](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=15)** So far, you've seen that [[Artificial Neural Networks]] scale machine learning to work on massive data sets.
 >
 > **[0:22](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=22)** Remember, that was part of our big cake problem.
 >
@@ -339,7 +335,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=59)** The system has to tune itself to respond.
 >
-> **[1:03](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=63)** In neural networks, this self tuning to improve the performance is called the back propagation of errors.
+> **[1:03](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=63)** In [[Neural Networks]], this self tuning to improve the performance is called the back propagation of errors.
 >
 > **[1:10](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=70)** When the network makes a bad guess, this failure goes back up through the network to make future changes.
 >
@@ -367,13 +363,13 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=123)** You must sell a certain number of tickets, but some connecting flights will be delayed, or passengers might board an earlier flight.
 >
-> **[2:11](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=131)** In this case, you could use a neural network to go through all the big data of your previous flights.
+> **[2:11](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=131)** In this case, you could use a neural network to go through all the [[Big Data]] of your previous flights.
 >
 > **[2:17](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=137)** It can identify patterns and then predict who will be on the next plane.
 >
 > **[2:21](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=141)** You can then test the network based on some new data to see if it does a good job making a guess.
 >
-> **[2:28](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=148)** Back propagation algorithms can then improve the accuracy of the artificial neural network by making small changes.
+> **[2:28](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=148)** Back propagation [[Algorithms]] can then improve the accuracy of the artificial neural network by making small changes.
 >
 > **[2:34](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980&t=154)** If it's way off, then the algorithm will make a big change.
 >
@@ -399,14 +395,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Neural Networks]] (3), [[Artificial Neural Networks]] (1), [[Big Data]] (1), next (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Artificial Neural Networks]] (1), [[Big Data]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - as (1)
 
-#### Create a data model of what you've learned
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-data-model-of-what-you-ve-learned?u=76281980)
+#### [Create a data model of what you've learned](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-data-model-of-what-you-ve-learned?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,11 +445,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-data-model-of-what-you-ve-learned?u=76281980&t=80)** Even though they go through a very different process, they still use these models the same way.
 >
-> **[1:26](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-data-model-of-what-you-ve-learned?u=76281980&t=86)** If you sell products, you might have a machine learning algorithm go through all your purchasing data.
+> **[1:26](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-data-model-of-what-you-ve-learned?u=76281980&t=86)** If you sell [[Microsoft Products|products]], you might have a machine learning algorithm go through all your purchasing data.
 >
 > **[1:32](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-data-model-of-what-you-ve-learned?u=76281980&t=92)** The machine learning system will then create a data model of what most people buy.
 >
-> **[1:37](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-data-model-of-what-you-ve-learned?u=76281980&t=97)** This data model will be a summary of everything that the machine learning algorithms have learned from the purchasing history.
+> **[1:37](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-data-model-of-what-you-ve-learned?u=76281980&t=97)** This data model will be a summary of everything that the machine learning [[Algorithms]] have learned from the purchasing history.
 >
 > **[1:44](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-data-model-of-what-you-ve-learned?u=76281980&t=104)** The system will find patterns and then use those patterns to make predictions.
 >
@@ -492,7 +487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (3), [[Microsoft Products|Products]] (1), [[Algorithms]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -500,18 +495,17 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - you (1)
 
-#### Train the system on what you know
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980)
+#### [Train the system on what you know](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=0)** - Most businesses with machine learning use supervised learning for some type of classification.
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=0)** - Most businesses with machine learning use [[Supervised Learning]] for some type of classification.
 >
 > **[0:07](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=7)** Classification is about grouping new data by comparing it with data you already have.
 >
 > **[0:12](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=12)** That's why when you buy a new pair of socks, you put them in your sock drawer, you know what a sock is and you know where it goes.
 >
-> **[0:19](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=19)** In a sense, you're grouping the new sock data with similar sock data Classification uses human created labels.
+> **[0:19](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=19)** In a sense, you're grouping the new sock data with similar sock [[Data Classification]] uses human created labels.
 >
 > **[0:28](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=28)** It was you as a human that set aside a drawer for your socks.
 >
@@ -575,7 +569,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=178)** Also, keep in mind that the more data you get, the more accurate the data model will become.
 >
-> **[3:03](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=183)** If you've ever seen video recognition systems, you might notice those little boxes always include a probability.
+> **[3:03](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=183)** If you've ever seen video recognition systems, you might notice those little boxes always include a [[Probability]].
 >
 > **[3:10](https://www.linkedin.com/learning/everyday-ai-concepts/train-the-system-on-what-you-know?u=76281980&t=190)** The machine might be 98% sure that this is a coffee mugger, 72% sure that this is a cat.
 >
@@ -587,15 +581,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Definitions:** is a  (4), is called (2)
 > **CLI Commands:** make (2), cat (1)
 > **Warnings:** keep in mind (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - most (1)
 
-#### Let the machine discover what you don't know
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980)
+#### [Let the machine discover what you don't know](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=98)** That way it can see if you fit into that cluster, it'll then guess that you have similar taste in music.
 >
-> **[1:45](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=105)** Unsupervised learning uses a completely different method than supervised learning.
+> **[1:45](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=105)** Unsupervised learning uses a completely different method than [[Supervised Learning]].
 >
 > **[1:50](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=110)** It only works with unlabeled data, so there's no specific label for frequent restaurant goers.
 >
@@ -643,7 +636,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=121)** It's looking at every piece of clothing.
 >
-> **[2:04](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=124)** That means that it doesn't have the same kind of training in testing and said unsupervised machine learning uses statistics, probability, and algorithms to create clusters of similar characteristics.
+> **[2:04](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=124)** That means that it doesn't have the same kind of training in testing and said unsupervised machine learning uses [[Statistics]], [[Probability]], and [[Algorithms]] to create clusters of similar characteristics.
 >
 > **[2:18](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=138)** Then it's up to humans to go back through and find the value in the clusters.
 >
@@ -657,7 +650,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=166)** Remember that it won't be neatly labeled.
 >
-> **[2:49](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=169)** It won't say full-time graduate student, or only buys products on Thursday, or frequent restaurant goer.
+> **[2:49](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=169)** It won't say full-time graduate student, or only buys [[Microsoft Products|products]] on Thursday, or frequent restaurant goer.
 >
 > **[2:57](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-discover-what-you-don-t-know?u=76281980&t=177)** It'll just be saying something like These things are connected somehow.
 >
@@ -677,20 +670,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Supervised Learning]] (1), [[Statistics]] (1), [[Probability]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (1), [[Statistics]] (1), [[Probability]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is called (1), is a  (1), means that (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - you (1)
 
-#### Give the machine an incentive to be right
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980)
+#### [Give the machine an incentive to be right](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=0)** - Earlier, you saw that Google created a machine learning system that played the game "Go".
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=0)** - Earlier, you saw that [[Google]] created a machine learning system that played the game "Go".
 >
-> **[0:06](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=6)** This system ran on a deep learning artificial neural network.
+> **[0:06](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=6)** This system ran on a [[Deep Learning]] artificial neural network.
 >
 > **[0:10](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=10)** Google called the program AlphaGo.
 >
@@ -708,7 +700,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=40)** That's why immediately after AlphaGo, Google started developing a new system, which they called AlphaGo Zero.
 >
-> **[0:48](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=48)** This new system was using a technique called reinforcement learning.
+> **[0:48](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=48)** This new system was using a technique called [[Reinforcement Learning]].
 >
 > **[0:54](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=54)** Reinforcement learning is a type of machine learning where the system creates a series of rewards.
 >
@@ -758,7 +750,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=199)** Pharmaceutical companies now use them to research new drugs.
 >
-> **[3:22](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=202)** It can create a reward system so that deep learning artificial neural networks can find more effective antibiotics.
+> **[3:22](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=202)** It can create a reward system so that deep learning [[Artificial Neural Networks]] can find more effective antibiotics.
 >
 > **[3:29](https://www.linkedin.com/learning/everyday-ai-concepts/give-the-machine-an-incentive-to-be-right?u=76281980&t=209)** Airline companies use reinforcement systems to route people in a way that uses less fuel.
 >
@@ -766,7 +758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (7), game (5), [[Google]] (4), [[Deep Learning]] (2), data (2)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (7), [[Google]] (4), [[Deep Learning]] (2), [[Artificial Neural Networks]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -778,20 +770,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a system that generates something new
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980)
+#### [Build a system that generates something new](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=0)** - The last few years have seen a big rise in interest around artificial intelligence, and it's not because your Netflix account is better at making recommendations.
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=0)** - The last few years have seen a big rise in interest around [[Artificial Intelligence (AI)|artificial intelligence]], and it's not because your Netflix account is better at making recommendations.
 >
 > **[0:09](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=9)** It's not that you noticed your package arrived a few days earlier.
 >
 > **[0:12](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=12)** This type of artificial intelligence has been working for years.
 >
-> **[0:16](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=16)** This increase in interest is because of something called generative AI.
+> **[0:16](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=16)** This increase in interest is because of something called [[Generative AI]].
 >
-> **[0:20](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=20)** Up until the last few years, most of the work in artificial intelligence has been in what's called predictive AI.
+> **[0:20](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=20)** Up until the last few years, most of the work in artificial intelligence has been in what's called [[Predictive AI]].
 >
 > **[0:27](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=27)** This is when the system looks for patterns.
 >
@@ -801,13 +792,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=37)** It could be a retail website that predicts customer purchases.
 >
-> **[0:40](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=40)** It could even be a reinforcement learning system that predicts the next move in an ancient game.
+> **[0:40](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=40)** It could even be a [[Reinforcement Learning]] system that predicts the next move in an ancient game.
 >
 > **[0:46](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=46)** These predictive systems have been the quiet engine that's built up many today's largest companies.
 >
-> **[0:52](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=52)** LinkedIn got its start by predicting your business context.
+> **[0:52](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=52)** [[LinkedIn]] got its start by predicting your business context.
 >
-> **[0:56](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=56)** Google has become very good at predicting which website closely matches your search.
+> **[0:56](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=56)** [[Google]] has become very good at predicting which website closely matches your search.
 >
 > **[1:00](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=60)** Facebook can predict which news stories you'll find the most interesting, but newer generative AI systems are no longer just predicting your behavior.
 >
@@ -831,7 +822,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=105)** It's important to remember that even though these new capabilities are impressive, they still use most of the same technology.
 >
-> **[1:52](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=112)** These new generative AI systems still use deep learning artificial neural networks.
+> **[1:52](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=112)** These new generative AI systems still use [[Deep Learning]] [[Artificial Neural Networks]].
 >
 > **[1:57](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=117)** They still use machine learning to identify key patterns.
 >
@@ -843,7 +834,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=136)** Companies like OpenAI have looked through trillions of words and billions of images.
 >
-> **[2:21](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=141)** This allowed systems like ChatGPT to have what seems like a very human conversation.
+> **[2:21](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=141)** This allowed systems like [[ChatGPT]] to have what seems like a very human conversation.
 >
 > **[2:27](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980&t=147)** Once it sees patterns, it can come up with something entirely new.
 >
@@ -865,17 +856,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), next (2), ai (2), data (2)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Predictive AI]] (1), [[Reinforcement Learning]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
 
-#### Create a foundation model of everything
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980)
+#### [Create a foundation model of everything](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=0)** - You've already seen that predictive artificial intelligence relies on a data model.
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=0)** - You've already seen that predictive [[Artificial Intelligence (AI)|artificial intelligence]] relies on a data model.
 >
 > **[0:06](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=6)** Remember, that's how you're able to turn on an unknown faucet in a hotel room or ride public transportation in a new city.
 >
@@ -889,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=33)** They train the model on new data to help it make better predictions, but there's a downside to this approach.
 >
-> **[0:39](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=39)** Remember that credit card companies can classify customers using supervised learning.
+> **[0:39](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=39)** Remember that credit card companies can classify customers using [[Supervised Learning]].
 >
 > **[0:44](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=44)** They might predict the likelihood that you'll go to a restaurant.
 >
@@ -907,7 +897,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=79)** If you want to predict something new, then you need to start over and retrain the system.
 >
-> **[1:25](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=85)** This limitation is a much bigger challenge when you start talking about generative AI.
+> **[1:25](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=85)** This limitation is a much bigger challenge when you start talking about [[Generative AI]].
 >
 > **[1:30](https://www.linkedin.com/learning/everyday-ai-concepts/create-a-foundation-model-of-everything?u=76281980&t=90)** If you want a system to write a poem or create a new image, then you can't retrain the system with every new possibility.
 >
@@ -945,15 +935,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Generative AI]] (2), power (2), teams (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Generative AI]] (2), [[Supervised Learning]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - you (1)
 
-#### Let the machine learn without you
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-learn-without-you?u=76281980)
+#### [Let the machine learn without you](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-learn-without-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -961,7 +950,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-learn-without-you?u=76281980&t=4)** The more data the model consumes, the more powerful the system becomes.
 >
-> **[0:08](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-learn-without-you?u=76281980&t=8)** That's why some of the most advanced generative AI systems are being developed by companies with huge computing resources.
+> **[0:08](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-learn-without-you?u=76281980&t=8)** That's why some of the most advanced [[Generative AI]] systems are being developed by companies with huge computing resources.
 >
 > **[0:15](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-learn-without-you?u=76281980&t=15)** You need that kind of massive computing power to vacuum up and process all that data.
 >
@@ -985,7 +974,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-learn-without-you?u=76281980&t=74)** So to feed the foundation models, these organizations needed a way to label all those unlabeled clusters.
 >
-> **[1:22](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-learn-without-you?u=76281980&t=82)** In a sense, it needed to use unsupervised learning to cluster together the unlabeled data and then label those clusters so it can be used with supervised learning.
+> **[1:22](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-learn-without-you?u=76281980&t=82)** In a sense, it needed to use unsupervised learning to cluster together the unlabeled data and then label those clusters so it can be used with [[Supervised Learning]].
 >
 > **[1:33](https://www.linkedin.com/learning/everyday-ai-concepts/let-the-machine-learn-without-you?u=76281980&t=93)** These new systems need to harness the power of unsupervised learning to vacuum the data, but at the same time use supervised learning to classify all that data.
 >
@@ -1025,15 +1014,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Supervised Learning]] (6), power (2), [[Generative AI]] (1), ai (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (6), [[Generative AI]] (1)
 > **CLI Commands:** cat (4), find (1)
 > **Definitions:** means that (1), is called (1)
 > **Analogies:** picture (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - foundation (1)
 
-#### Learn to get the most from the system
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980)
+#### [Learn to get the most from the system](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=25)** They didn't know anything about you or your search history.
 >
-> **[0:28](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=28)** Later companies like Google and Bing tried to fix that problem.
+> **[0:28](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=28)** Later companies like [[Google]] and Bing tried to fix that problem.
 >
 > **[0:33](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=33)** They gathered as much data as they could.
 >
@@ -1061,7 +1049,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=56)** You'll get different results from the same prompt.
 >
-> **[1:01](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=61)** In many ways, generative AI systems are like early search engines.
+> **[1:01](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=61)** In many ways, [[Generative AI]] systems are like early search engines.
 >
 > **[1:05](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=65)** Even though their computing power vastly exceeds these early engines, generative AI systems still benefit from greater context.
 >
@@ -1069,11 +1057,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=80)** But for now, to get the most from these systems, you should focus on writing specialized prompts.
 >
-> **[1:26](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=86)** In generative AI, this is called prompt engineering.
+> **[1:26](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=86)** In generative AI, this is called [[Prompt Engineering]].
 >
 > **[1:30](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=90)** Prompt engineering is about giving the system the context it needs to produce better results.
 >
-> **[1:36](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=96)** Imagine wanting an AI chatbot like ChatGPT to help you choose between a Surface tablet and an iPad.
+> **[1:36](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=96)** Imagine wanting an AI chatbot like [[ChatGPT]] to help you choose between a Surface tablet and an iPad.
 >
 > **[1:43](https://www.linkedin.com/learning/everyday-ai-concepts/learn-to-get-the-most-from-the-system?u=76281980&t=103)** You could type in a simple prompt, like, "What's the difference between a Surface tablet and an iPad?"
 >
@@ -1111,7 +1099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), prompt (7), [[Generative AI]] (5), data (3), [[Prompt Engineering]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Prompt Engineering]] (3), [[Google]] (1), [[ChatGPT]] (1)
 > **Code Identifiers:** ipad (3)
 > **Analogies:** imagine (3)
 > **Cross-References:** in the next (1)
@@ -1124,12 +1112,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Who owns what the machine learned?
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980)
+#### [Who owns what the machine learned?](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980&t=0)** - In 2024, Google's AI system mistakenly recommended eating rocks for better health.
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980&t=0)** - In 2024, [[Google]]'s AI system mistakenly recommended eating rocks for better health.
 >
 > **[0:07](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980&t=7)** This information was easy to track down to a comedy news website.
 >
@@ -1139,7 +1126,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980&t=20)** Can this system just use that information as part of its chat system?
 >
-> **[0:25](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980&t=25)** Generative AI can compose music in someone else's voice or generate artwork that looks like an artist style.
+> **[0:25](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980&t=25)** [[Generative AI]] can [[Jetpack Compose|compose]] music in someone else's voice or generate artwork that looks like an artist style.
 >
 > **[0:31](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980&t=31)** So, are these systems simply copying another artist's work, or are they using it for inspiration?
 >
@@ -1201,27 +1188,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), ai (3), data (3), [[Generative AI]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[Generative AI]] (2), [[Jetpack Compose|Compose]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - in (1)
 
-#### Can a machine make consequential decisions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980)
+#### [Can a machine make consequential decisions?](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=0)** - You've seen that generative AI can produce hallucinations.
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=0)** - You've seen that [[Generative AI]] can produce hallucinations.
 >
-> **[0:03](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=3)** They make up facts as a side effect of their self-supervised learning.
+> **[0:03](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=3)** They make up facts as a side effect of their self-[[Supervised Learning]].
 >
 > **[0:08](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=8)** This could result in some strange responses, like suggesting that people eat rocks or mislabeling images.
 >
 > **[0:14](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=14)** But if you're aware of the problem, then these models could get better over time.
 >
-> **[0:19](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=19)** A bigger challenge is when foundation models are used for organizational decision-making.
+> **[0:19](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=19)** A bigger challenge is when foundation models are used for organizational [[Decision-Making]].
 >
 > **[0:24](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=24)** Hallucinations can become much more difficult when you're using generative AI to approve loans or filter out job candidates.
 >
@@ -1241,7 +1227,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=70)** Yet there'll be a huge temptation to use these foundation models because of their power and flexibility.
 >
-> **[1:16](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=76)** A human resources foundation model will be able to filter through tens of thousands of resumes in milliseconds.
+> **[1:16](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=76)** A [[Human Resources (HR)|human resources]] foundation model will be able to filter through tens of thousands of resumes in milliseconds.
 >
 > **[1:24](https://www.linkedin.com/learning/everyday-ai-concepts/can-a-machine-make-consequential-decisions?u=76281980&t=84)** It'll be able to look at the whole person, their job history, where they went to school.
 >
@@ -1289,14 +1275,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Decision-Making]] (4), data (4), [[Supervised Learning]] (3), ai (3)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Decision-Making]] (4), [[Supervised Learning]] (3), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** it's like (1), imagine (1)
 > **Speakers:** - you (1)
 
-#### Can you teach the system values?
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980)
+#### [Can you teach the system values?](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,7 +1295,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=13)** The way that you spoke had a huge impact on how you viewed the world.
 >
-> **[0:18](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=18)** When you learn a word like justice, it shapes many of your ideas about fairness, dignity, and order.
+> **[0:18](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=18)** When you learn a [[Microsoft Word|word]] like justice, it shapes many of your ideas about fairness, dignity, and order.
 >
 > **[0:24](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=24)** That's how humans perceive language.
 >
@@ -1322,7 +1307,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=37)** There are more words than humans could speak in a thousand lifetimes.
 >
-> **[0:41](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=41)** Then it uses statistics to find probabilities between those words.
+> **[0:41](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=41)** Then it uses [[Statistics]] to find probabilities between those words.
 >
 > **[0:45](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=45)** If someone writes, I am walking the, it's statistically more likely to be the word dog, than the word cake.
 >
@@ -1358,7 +1343,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=121)** The system might sound human, but it isn't human.
 >
-> **[2:05](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=125)** In artificial intelligence, this is called the alignment problem.
+> **[2:05](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=125)** In [[Artificial Intelligence (AI)|artificial intelligence]], this is called the alignment problem.
 >
 > **[2:09](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=129)** It's when you expect the system to have the same goals and expectations as a human, then the system does something entirely different.
 >
@@ -1370,7 +1355,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=151)** Let's say that you are programming a system to play a game.
 >
-> **[2:34](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=154)** You used reinforcement learning and gave the system a reward every time it earned a point.
+> **[2:34](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=154)** You used [[Reinforcement Learning]] and gave the system a reward every time it earned a point.
 >
 > **[2:39](https://www.linkedin.com/learning/everyday-ai-concepts/can-you-teach-the-system-values?u=76281980&t=159)** The system can learn that the best way to earn points is to focus on preventing others from winning instead of trying to win itself.
 >
@@ -1394,7 +1379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), ai (5), game (3), [[Statistics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Statistics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Reinforcement Learning]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1)
 > **Best Practices:** you should always (1)
@@ -1406,18 +1391,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in AI concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980)
+#### [Next steps in AI concepts](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=0)** - This course was a broad overview of important artificial intelligence concepts.
+> **[0:00](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=0)** - This course was a broad overview of important [[Artificial Intelligence (AI)|artificial intelligence]] concepts.
 >
 > **[0:05](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=5)** You started by getting a quick look at predictive artificial intelligence.
 >
-> **[0:10](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=10)** Predictive AI is still the way most businesses use AI.
+> **[0:10](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=10)** [[Predictive AI]] is still the way most businesses use AI.
 >
-> **[0:14](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=14)** Then you saw how larger companies are starting to use generative AI.
+> **[0:14](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=14)** Then you saw how larger companies are starting to use [[Generative AI]].
 >
 > **[0:19](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=19)** GenAI now gives you the ability to work with much larger data sources.
 >
@@ -1429,7 +1413,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=41)** In that course, I turn these AI concepts into everyday tools and strategies.
 >
-> **[0:47](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=47)** As always, please feel free to follow me on LinkedIn.
+> **[0:47](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=47)** As always, please feel free to follow me on [[LinkedIn]].
 >
 > **[0:50](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980&t=50)** It's there that I'll post articles about AI and other topics.
 >
@@ -1437,7 +1421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (1), [[Generative AI]] (1), data (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (1), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **Speakers:** - this (1)
 
 

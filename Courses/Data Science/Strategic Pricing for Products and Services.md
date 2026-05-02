@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of strategic pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/the-power-of-strategic-pricing?u=76281980)
+#### [The power of strategic pricing](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/the-power-of-strategic-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,7 +83,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/the-power-of-strategic-pricing?u=76281980&t=24)** This course offers a step-by-step guide to help you define the best price in a systematic way.
 >
-> **[0:31](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/the-power-of-strategic-pricing?u=76281980&t=31)** You will learn how to integrate your pricing strategy into your business model.
+> **[0:31](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/the-power-of-strategic-pricing?u=76281980&t=31)** You will learn how to integrate your [[Pricing Strategy]] into your business model.
 >
 > **[0:35](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/the-power-of-strategic-pricing?u=76281980&t=35)** Make strong decisions around costs, and measure your customer's price sensitivity.
 >
@@ -94,13 +93,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Pricing Strategy]] (2), product (1)
+> **Frameworks & Libraries:** [[Pricing Strategy]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [sefan] (1)
 
-#### Set the best pricing with the 4C marketing framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/set-the-best-pricing-with-the-4c-marketing-framework?u=76281980)
+#### [Set the best pricing with the 4C marketing framework](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/set-the-best-pricing-with-the-4c-marketing-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -178,7 +176,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/set-the-best-pricing-with-the-4c-marketing-framework?u=76281980&t=206)** I recommend that you download the checklist for your own 4C analysis.
 >
-> **[3:32](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/set-the-best-pricing-with-the-4c-marketing-framework?u=76281980&t=212)** You can do a separate 4C analysis for any of your products and services, and even for different segments or different season.
+> **[3:32](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/set-the-best-pricing-with-the-4c-marketing-framework?u=76281980&t=212)** You can do a separate 4C analysis for any of your [[Microsoft Products|products]] and services, and even for different segments or different season.
 >
 > **[3:40](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/set-the-best-pricing-with-the-4c-marketing-framework?u=76281980&t=220)** Make sure to update your analysis frequently because markets are dynamic.
 >
@@ -188,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** general rule (1), make sure to (1)
@@ -197,8 +195,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define your pricing challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980)
+#### [Define your pricing challenge](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980&t=45)** I'm currently working with an established B2B company on their release of a new model of an existing machine and helping them to define the best price.
 >
-> **[0:55](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980&t=55)** Second, many of you may not be selling products but services for which you want to improve the pricing.
+> **[0:55](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980&t=55)** Second, many of you may not be selling [[Microsoft Products|products]] but services for which you want to improve the pricing.
 >
 > **[1:02](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980&t=62)** For example, I recently talked to the social media consulting agency that defined three packages for their services.
 >
@@ -260,9 +257,9 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980&t=199)** This can be a product, service, solution, project, or brand.
 >
-> **[3:24](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980&t=204)** You may also react to a competitive action or design a price promotion.
+> **[3:24](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980&t=204)** You may also [[React.js|react]] to a competitive action or design a price promotion.
 >
-> **[3:29](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980&t=209)** In the next steps, you will relate to your pricing strategy to your business model, consider objectives and constraints, your price carriers, and your cost structure.
+> **[3:29](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980&t=209)** In the next steps, you will relate to your [[Pricing Strategy]] to your business model, consider objectives and constraints, your price carriers, and your cost structure.
 >
 > **[3:40](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-challenge?u=76281980&t=220)** You then focus on customer value by defining the job to be done and your value propositions to create a price value map.
 >
@@ -282,7 +279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), product (2), [[Microsoft Products|Products]] (2), [[React.js|React]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[React.js|React]] (1), [[Pricing Strategy]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** find (1)
 > **Env Vars:** b2b (1)
@@ -295,8 +292,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business model first, then pricing strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980)
+#### [Business model first, then pricing strategy](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980&t=54)** In this course, we will focus on strategic pricing, which considers that the price you charge for your product and service is not the consequence of a lot of decisions.
 >
-> **[1:07](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980&t=67)** Strategic pricing, in fact, impacts almost every variable of your marketing strategy.
+> **[1:07](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980&t=67)** Strategic pricing, in fact, impacts almost every variable of your [[Marketing Strategy]].
 >
 > **[1:12](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980&t=72)** Your price level attracts specific segments and it's key determinant of your positioning.
 >
@@ -324,7 +320,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980&t=100)** Customer centric organizations use a customer star to align eight dimensions around what their customer really want and need.
 >
-> **[1:49](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980&t=109)** Strategic pricing is the critical element of the dimension profit model, which has to be aligned with the segment you target, your brand positioning, your products and services and your relationship with various partners in your ecosystem.
+> **[1:49](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980&t=109)** Strategic pricing is the critical element of the dimension profit model, which has to be aligned with the segment you target, your brand positioning, your [[Microsoft Products|products]] and services and your relationship with various partners in your ecosystem.
 >
 > **[2:06](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980&t=126)** Those dimensions in turn, must be aligned to your employee skills, to your culture, to your technology and infrastructure and to your operations.
 >
@@ -344,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), management (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Marketing Strategy]] (1)
 > **Versions:** 9.50 (1), 9.99 (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Env Vars:** stp (1)
@@ -352,8 +348,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Define your pricing objectives and constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-objectives-and-constraints?u=76281980)
+#### [Define your pricing objectives and constraints](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-pricing-objectives-and-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -425,14 +420,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), product (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify your price carriers
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-your-price-carriers?u=76281980)
+#### [Identify your price carriers](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-your-price-carriers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,7 +449,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-your-price-carriers?u=76281980&t=70)** Vacation resorts innovated their pricing years ago when they no longer charged for the rooms and food items, but rather charged a fixed fee for a whole party that included accommodation, food, beverage, and any form of entertainments or sports.
 >
-> **[1:31](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-your-price-carriers?u=76281980&t=91)** A second approach to changing price carriers is the bundling and unbundling question where the price tag is either on a single item or on a bundle of products and services, like skis and ski binders, cars and warranties, printed newspaper and online access to the newspaper.
+> **[1:31](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-your-price-carriers?u=76281980&t=91)** A second approach to changing price carriers is the bundling and unbundling question where the price tag is either on a single item or on a bundle of [[Microsoft Products|products]] and services, like skis and ski binders, cars and warranties, printed newspaper and online access to the newspaper.
 >
 > **[1:55](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-your-price-carriers?u=76281980&t=115)** A third prominent application of price carrier pricing is the installed based model, in which companies such as Gillette, Hewlett Packard and Schindler sell one product, a razor, a printer, or an elevator respectively, for a rather a low price to generate profits from follow-up consumptions of the installed base.
 >
@@ -496,12 +489,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), application (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate variable costs, fixed costs, and break-even point
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/calculate-variable-costs-fixed-costs-and-break-even-point?u=76281980)
+#### [Calculate variable costs, fixed costs, and break-even point](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/calculate-variable-costs-fixed-costs-and-break-even-point?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -583,7 +575,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), data (1), next (1), business (1)
 > **Versions:** 26.44 (2), 5.78 (2), 14.44 (1), 27.50 (1)
 > **Definitions:** means that (2), in other words (1), is called (1), is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -596,12 +587,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify the job-to-be-done to articulate your value proposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980)
+#### [Identify the job-to-be-done to articulate your value proposition](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980&t=0)** - [Presenter] One of the fundamental insights into customer behavior is that customers are not buying products and services for what they are.
+> **[0:00](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980&t=0)** - [Presenter] One of the fundamental insights into customer behavior is that customers are not buying [[Microsoft Products|products]] and services for what they are.
 >
 > **[0:07](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980&t=7)** They purchase products and services for what they can do with them.
 >
@@ -629,9 +619,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980&t=61)** (laughs) In Switzerland, mainly tunnels.
 >
-> **[1:05](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980&t=65)** An entrepreneur needs an auditor to approve her financial statements to attract investors who finance the company's growth.
+> **[1:05](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980&t=65)** An entrepreneur needs an auditor to approve her [[Financial Statements]] to attract investors who finance the company's growth.
 >
-> **[1:13](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980&t=73)** And I believe that you watch this video because you are having so much fun, but there is a chance that a LinkedIn Learning subscription helps you and your company stay competitive.
+> **[1:13](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980&t=73)** And I believe that you watch this video because you are having so much fun, but there is a chance that a [[LinkedIn]] Learning subscription helps you and your company stay competitive.
 >
 > **[1:26](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980&t=86)** So why is this important?
 >
@@ -665,13 +655,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2), [[Financial Statements]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Financial Statements]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
 > **Env Vars:** b2b (2)
 > **Speakers:** - [presenter] (1)
 
-#### Define your value proposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-value-proposition?u=76281980)
+#### [Define your value proposition](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-value-proposition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -701,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-value-proposition?u=76281980&t=91)** These benefits touch on several values that are important to consumers.
 >
-> **[1:36](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-value-proposition?u=76281980&t=96)** This product is better for your health if you have difficulties digesting lactose, you can make a small contribution to climate change and you can enjoy a slice of cheese without any difficulties.
+> **[1:36](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-value-proposition?u=76281980&t=96)** This product is better for your health if you have difficulties digesting lactose, you can make a small contribution to [[Climate Change]] and you can enjoy a slice of cheese without any difficulties.
 >
 > **[1:51](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-value-proposition?u=76281980&t=111)** For some families, it has become increasingly difficult to cook and eat together because of the many dietary restrictions.
 >
@@ -717,7 +706,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-value-proposition?u=76281980&t=155)** You care about climate change.
 >
-> **[2:37](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-value-proposition?u=76281980&t=157)** Our products help you to reduce your CO2 footprint because our cheese is made from cashew nut.
+> **[2:37](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-value-proposition?u=76281980&t=157)** Our [[Microsoft Products|products]] help you to reduce your CO2 footprint because our cheese is made from cashew nut.
 >
 > **[2:46](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/define-your-value-proposition?u=76281980&t=166)** Let's conclude this with a third value proposition.
 >
@@ -747,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Climate Change]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Climate Change]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** co2 (1)
@@ -756,14 +745,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a price/value positioning map
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/create-a-price-value-positioning-map?u=76281980)
+#### [Create a price/value positioning map](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/create-a-price-value-positioning-map?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/create-a-price-value-positioning-map?u=76281980&t=0)** - [Narrator] In most markets, customer have choices.
 >
-> **[0:03](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/create-a-price-value-positioning-map?u=76281980&t=3)** They can choose between your service and products and competing offers.
+> **[0:03](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/create-a-price-value-positioning-map?u=76281980&t=3)** They can choose between your service and [[Microsoft Products|products]] and competing offers.
 >
 > **[0:07](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/create-a-price-value-positioning-map?u=76281980&t=7)** And they can also decide not to buy anything.
 >
@@ -837,7 +825,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/create-a-price-value-positioning-map?u=76281980&t=241)** You want to draw the line so that it is as close as possible to every data point.
 >
-> **[4:06](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/create-a-price-value-positioning-map?u=76281980&t=246)** Statistically speaking, we draw a linear regression line.
+> **[4:06](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/create-a-price-value-positioning-map?u=76281980&t=246)** Statistically speaking, we draw a [[Linear Regression]] line.
 >
 > **[4:11](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/create-a-price-value-positioning-map?u=76281980&t=251)** This is called the price value line.
 >
@@ -871,7 +859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (5), next (4), [[Microsoft Products|Products]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Linear Regression]] (1)
 > **Code Identifiers:** iwatch (5)
 > **Definitions:** means that (3), is a  (1), is called (1)
 > **Env Vars:** v650 (2), vo2 (1)
@@ -885,8 +873,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze customer price sensitivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/analyze-customer-price-sensitivity?u=76281980)
+#### [Analyze customer price sensitivity](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/analyze-customer-price-sensitivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,7 +1013,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), business (1), data (1)
 > **Env Vars:** imd (2), b2b (1)
 > **Definitions:** means that (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
@@ -1035,8 +1021,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze customer trade-offs in pricing a product or service
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/analyze-customer-trade-offs-in-pricing-a-product-or-service?u=76281980)
+#### [Analyze customer trade-offs in pricing a product or service](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/analyze-customer-trade-offs-in-pricing-a-product-or-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,7 +1097,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1), product (1)
 > **Versions:** 0.19 (2), 9.99 (1), 0.45 (1), 7.99 (1), 0.43 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1120,12 +1104,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Observe and experiment to find your best price
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/observe-and-experiment-to-find-your-best-price?u=76281980)
+#### [Observe and experiment to find your best price](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/observe-and-experiment-to-find-your-best-price?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/observe-and-experiment-to-find-your-best-price?u=76281980&t=0)** - [Instructor] The better we know how much our customers are willing to pay for our products and services, the closer we can get to set the best price.
+> **[0:00](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/observe-and-experiment-to-find-your-best-price?u=76281980&t=0)** - [Instructor] The better we know how much our customers are willing to pay for our [[Microsoft Products|products]] and services, the closer we can get to set the best price.
 >
 > **[0:08](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/observe-and-experiment-to-find-your-best-price?u=76281980&t=8)** Pricing research approaches such as conjoint analysis and the Van Westendorp's Price Sensitivity Meter are very practical tools to estimate customer's willingness to pay.
 >
@@ -1215,7 +1198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1), business (1), application (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), such as (1)
 > **Versions:** 11.5 (1)
@@ -1226,8 +1209,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Run what-if scenarios with three different prices
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/run-what-if-scenarios-with-three-different-prices?u=76281980)
+#### [Run what-if scenarios with three different prices](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/run-what-if-scenarios-with-three-different-prices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,7 +1269,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/run-what-if-scenarios-with-three-different-prices?u=76281980&t=201)** For software or other digital assets where direct costs are low or even zero.
 >
-> **[3:27](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/run-what-if-scenarios-with-three-different-prices?u=76281980&t=207)** A price decrease or a freemium model may sometimes be profitable while we don't know the actual demand after price change, using a spreadsheet to run several what-if scenarios is a simple, yet powerful way to estimate, and compare various pricing strategy.
+> **[3:27](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/run-what-if-scenarios-with-three-different-prices?u=76281980&t=207)** A price decrease or a freemium model may sometimes be profitable while we don't know the actual demand after price change, using a spreadsheet to run several what-if scenarios is a simple, yet powerful way to estimate, and compare various [[Pricing Strategy]].
 >
 > **[3:47](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/run-what-if-scenarios-with-three-different-prices?u=76281980&t=227)** I strongly encourage you to download the exercise file for this video, and run a few more scenarios on your own.
 >
@@ -1295,15 +1277,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Pricing Strategy]] (1)
+> **Frameworks & Libraries:** [[Pricing Strategy]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2), such as (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **Env Vars:** bogo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decide on the best price based on impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/decide-on-the-best-price-based-on-impact?u=76281980)
+#### [Decide on the best price based on impact](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/decide-on-the-best-price-based-on-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1333,7 +1314,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/decide-on-the-best-price-based-on-impact?u=76281980&t=76)** Another consideration when it comes down to pricing impact is perceived fairness.
 >
-> **[1:22](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/decide-on-the-best-price-based-on-impact?u=76281980&t=82)** If you follow me on LinkedIn, you will see that I often comment on news stories where customers are upset about pricing increase.
+> **[1:22](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/decide-on-the-best-price-based-on-impact?u=76281980&t=82)** If you follow me on [[LinkedIn]], you will see that I often comment on news stories where customers are upset about pricing increase.
 >
 > **[1:30](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/decide-on-the-best-price-based-on-impact?u=76281980&t=90)** Whether this is about search pricing at Uber, price increases at Disneyland or dynamic pricing at ski resort, pricing is a very emotional and public topic.
 >
@@ -1365,7 +1346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), [[Search]] (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is an  (1), is a  (1), defined as (1), means that (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1373,8 +1354,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Communicate your price effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/communicate-your-price-effectively?u=76281980)
+#### [Communicate your price effectively](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/communicate-your-price-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,7 +1376,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/communicate-your-price-effectively?u=76281980&t=45)** Applying psychological principles to pricing has two main reasons.
 >
-> **[0:50](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/communicate-your-price-effectively?u=76281980&t=50)** First, we want the customers to buy our products and services because they are convinced it offers the best price value ratio.
+> **[0:50](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/communicate-your-price-effectively?u=76281980&t=50)** First, we want the customers to buy our [[Microsoft Products|products]] and services because they are convinced it offers the best price value ratio.
 >
 > **[0:59](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/communicate-your-price-effectively?u=76281980&t=59)** Secondly, we want to ensure that customers perceive our prices as theirs.
 >
@@ -1404,7 +1384,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/communicate-your-price-effectively?u=76281980&t=68)** So I'll focus only on one example in this video.
 >
-> **[1:12](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/communicate-your-price-effectively?u=76281980&t=72)** Examples we go through is an online experiment I ran with my participants at the International Institute for Management Development.
+> **[1:12](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/communicate-your-price-effectively?u=76281980&t=72)** Examples we go through is an online experiment I ran with my participants at the International Institute for [[Management Development]].
 >
 > **[1:20](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/communicate-your-price-effectively?u=76281980&t=80)** This is also known as IMD.
 >
@@ -1452,7 +1432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Microsoft Products|Products]] (1), [[Management Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Management Development]] (1)
 > **Definitions:** in other words (2), is an  (1), known as (1)
 > **Env Vars:** imd (3)
 > **Analogies:** for example (1)
@@ -1464,8 +1444,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Value-based pricing is both customer and profit oriented
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980)
+#### [Value-based pricing is both customer and profit oriented](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1511,13 +1490,13 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980&t=145)** Thanks to these two measures, the satisfaction scores with these trainings improved significantly.
 >
-> **[2:32](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980&t=152)** Once word of mouth spread, more clients wanted to enroll in this training, and they were willing to pay for it.
+> **[2:32](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980&t=152)** Once [[Microsoft Word|word]] of mouth spread, more clients wanted to enroll in this training, and they were willing to pay for it.
 >
 > **[2:41](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980&t=161)** These two examples illustrate that value-based pricing, if done right, can be both profit oriented and customer oriented.
 >
 > **[2:50](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980&t=170)** It increases the value you create with the client, and it allows you to capture a part of this value.
 >
-> **[2:58](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980&t=178)** I encourage you to through the portfolio of all of your products and services with two questions in mind.
+> **[2:58](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980&t=178)** I encourage you to through the portfolio of all of your [[Microsoft Products|products]] and services with two questions in mind.
 >
 > **[3:05](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980&t=185)** First, can I create different offerings for the premium segment and the price segment?
 >
@@ -1525,15 +1504,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), product (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** b2b (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Pricing excellence is an organizational capability
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/pricing-excellence-is-an-organizational-capability?u=76281980)
+#### [Pricing excellence is an organizational capability](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/pricing-excellence-is-an-organizational-capability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1555,7 +1533,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/pricing-excellence-is-an-organizational-capability?u=76281980&t=63)** The first pillar refers to the economics of pricing.
 >
-> **[1:07](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/pricing-excellence-is-an-organizational-capability?u=76281980&t=67)** For example, you know how profitable different projects and products are.
+> **[1:07](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/pricing-excellence-is-an-organizational-capability?u=76281980&t=67)** For example, you know how profitable different projects and [[Microsoft Products|products]] are.
 >
 > **[1:13](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/pricing-excellence-is-an-organizational-capability?u=76281980&t=73)** The second pillar consists of capabilities related to pricing management.
 >
@@ -1623,7 +1601,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/pricing-excellence-is-an-organizational-capability?u=76281980&t=344)** I'm confident that you are now better equipped to find the best price for your product and service.
 >
-> **[5:50](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/pricing-excellence-is-an-organizational-capability?u=76281980&t=350)** If you are interested in learning more, please follow me on LinkedIn, where I regularly post new examples and research studies on the topics of pricing, marketing strategy, and management.
+> **[5:50](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/pricing-excellence-is-an-organizational-capability?u=76281980&t=350)** If you are interested in learning more, please follow me on [[LinkedIn]], where I regularly post new examples and research studies on the topics of pricing, [[Marketing Strategy]], and management.
 >
 > **[6:02](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/pricing-excellence-is-an-organizational-capability?u=76281980&t=362)** Please use the Q&A section of this course to share your experience and to ask questions.
 >
@@ -1631,7 +1609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (4), [[Microsoft Products|Products]] (3), application (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[LinkedIn]] (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Versions:** 4.5 (1), 4.0 (1)
 > **Exercise Files:** download the (1), exercise files (1)

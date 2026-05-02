@@ -77,14 +77,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transforming innovation with GANs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/transforming-innovation-with-gans?u=76281980)
+#### [Transforming innovation with GANs](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/transforming-innovation-with-gans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/transforming-innovation-with-gans?u=76281980&t=0)** - [Gwendolyn] Did you know that generative adversarial networks, or GANs, are responsible for creating realistic images, music, and even synthetic data?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/transforming-innovation-with-gans?u=76281980&t=0)** - [Gwendolyn] Did you know that [[Generative Adversarial Networks (GANs)|generative adversarial networks]], or GANs, are responsible for creating realistic images, music, and even synthetic data?
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/transforming-innovation-with-gans?u=76281980&t=12)** By the end of this course, you'll be ready to identify new opportunities for generative AI with thin your organization, build compelling business cases for GAN projects, and effectively contribute to AI initiatives that leverage synthetic data.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/transforming-innovation-with-gans?u=76281980&t=12)** By the end of this course, you'll be ready to identify new opportunities for [[Generative AI]] with thin your organization, build compelling business cases for GAN projects, and effectively contribute to AI initiatives that leverage synthetic data.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/transforming-innovation-with-gans?u=76281980&t=28)** Hi, I'm Gwendolyn Stripling.
 >
@@ -94,18 +93,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), ai (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Generative AI]] (1), business (1)
+> **Frameworks & Libraries:** [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Generative AI]] (1)
 > **Env Vars:** gan (1)
 > **Speakers:** - [gwendolyn] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/what-you-should-know?u=76281980&t=0)** - [Instructor] This introductory course is designed for anyone interested in a high-level look at generative adversarial networks, known as GANs, and their transformative applications in real-world scenarios.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/what-you-should-know?u=76281980&t=0)** - [Instructor] This introductory course is designed for anyone interested in a high-level look at [[Generative Adversarial Networks (GANs)|generative adversarial networks]], known as GANs, and their transformative applications in real-world scenarios.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/what-you-should-know?u=76281980&t=14)** Some familiarity with the basics of neural networks and Python will be helpful, but it's not required for hands-on work.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/what-you-should-know?u=76281980&t=14)** Some familiarity with the basics of [[Neural Networks]] and [[Python (Programming Language)|Python]] will be helpful, but it's not required for hands-on work.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/what-you-should-know?u=76281980&t=23)** There is no coding, there's nothing to install.
 >
@@ -115,7 +113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Neural Networks]] (1), [[Python (Programming Language)|Python]] (1), teams (1)
+> **Frameworks & Libraries:** [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Neural Networks]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** install (1)
@@ -126,14 +124,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to GANs and their broad impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980)
+#### [Introduction to GANs and their broad impact](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=0)** - [Narrator] Look at this image, and what do you think?
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=3)** Is it real or was it generated by artificial intelligence?
+> **[0:03](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=3)** Is it real or was it generated by [[Artificial Intelligence (AI)|artificial intelligence]]?
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=9)** And what about this image?
 >
@@ -143,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=19)** Do you think it shows real sales data or synthetic data made to look like the real thing?
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=27)** These are all examples of output from generative adversarial networks or GANs, and their capabilities allow them to be used in a variety of transformative ways across various sectors.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=27)** These are all examples of output from [[Generative Adversarial Networks (GANs)|generative adversarial networks]] or GANs, and their capabilities allow them to be used in a variety of transformative ways across various sectors.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=42)** Common use cases of GANs are found in healthcare.
 >
@@ -155,7 +152,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=67)** And in synthetic patient records, it's possible to generate anonymized realistic records for medical training.
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=75)** Common use cases of GANs in entertainment are found in music and soundtrack generation, where it is possible to compose background music or soundscapes.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=75)** Common use cases of GANs in entertainment are found in music and soundtrack generation, where it is possible to [[Jetpack Compose|compose]] background music or soundscapes.
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=86)** And in AI-driven character animation, where you can create fluid facial expressions and movements.
 >
@@ -165,13 +162,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=111)** And synthetic product photography, where you can produce high quality images without photo shoots.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=117)** And customer behavior simulation, where it is possible to create behavioral data to test recommendations.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=117)** And customer behavior [[Simulation]], where it is possible to create behavioral data to test recommendations.
 >
-> **[2:06](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=126)** Common use cases of GANs in cybersecurity include the ability to train detection systems with varied phishing formats, simulate brute force or credential stuffing events, or mimic malicious traffic to test an organization's defenses.
+> **[2:06](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=126)** Common use cases of GANs in [[Cybersecurity]] include the ability to train detection systems with varied [[Phishing]] formats, simulate brute force or credential stuffing events, or mimic malicious traffic to test an organization's defenses.
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=144)** What is, again, a Generative Adversarial Network is a class of machine learning systems invented by Ian Goodfellow and his colleagues in 2014.
 >
-> **[2:35](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=155)** At their core, GANs consists of two competing neural networks, a generator network, and a discriminator network.
+> **[2:35](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=155)** At their core, GANs consists of two competing [[Neural Networks]], a generator network, and a discriminator network.
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980&t=164)** They're trained simultaneously in a zero sum game, which means that the two neural networks are competing against each other in a way where one network's gain is directly equivalent to the other network's loss.
 >
@@ -181,16 +178,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (3), [[Neural Networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Jetpack Compose|Compose]] (1), [[Simulation]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Generative and discriminative models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/generatives-and-discriminative-models?u=76281980)
+#### [Generative and discriminative models](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/generatives-and-discriminative-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/generatives-and-discriminative-models?u=76281980&t=0)** - [Instructor] Deep learning is a subset of machine learning, and both discriminative and generative models are built using deep neural networks.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/generatives-and-discriminative-models?u=76281980&t=0)** - [Instructor] [[Deep Learning]] is a subset of machine learning, and both discriminative and generative models are built using deep [[Neural Networks]].
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/generatives-and-discriminative-models?u=76281980&t=11)** While both rely on the core principles of deep learning, they're optimized for fundamentally different tasks.
 >
@@ -198,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/generatives-and-discriminative-models?u=76281980&t=28)** This is a classic example of a discriminative model.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/generatives-and-discriminative-models?u=76281980&t=32)** In this case, a logistic regression classifier trained on housing data.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/generatives-and-discriminative-models?u=76281980&t=32)** In this case, a [[Logistic Regression]] classifier trained on housing data.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/generatives-and-discriminative-models?u=76281980&t=38)** Each dot is a house.
 >
@@ -240,14 +236,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Deep Learning]] (2), [[Neural Networks]] (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Neural Networks]] (1), [[Logistic Regression]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** gan (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case: Synthetic customer reviews for product analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/use-case-synthetic-customer-reviews-for-product-analysis?u=76281980)
+#### [Use case: Synthetic customer reviews for product analysis](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/use-case-synthetic-customer-reviews-for-product-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/use-case-synthetic-customer-reviews-for-product-analysis?u=76281980&t=19)** To address this, we use GANs to generate high quality synthetic reviews for retail insights.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/use-case-synthetic-customer-reviews-for-product-analysis?u=76281980&t=28)** These synthetic data sets allow teams to build, test, and validate machine learning models in a safe and privacy compliant way.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/use-case-synthetic-customer-reviews-for-product-analysis?u=76281980&t=28)** These synthetic data sets allow teams to build, test, and validate machine learning models in a safe and [[Privacy]] compliant way.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/use-case-synthetic-customer-reviews-for-product-analysis?u=76281980&t=40)** Our use case explores how a GAN trained on structured customer review data can generate realistic synthetic reviews.
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/use-case-synthetic-customer-reviews-for-product-analysis?u=76281980&t=207)** For our retail company, this means we can generate an endless stream of synthetic reviews that accurately reflect genuine customer preferences and pain points.
 >
-> **[3:40](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/use-case-synthetic-customer-reviews-for-product-analysis?u=76281980&t=220)** This synthetic data becomes an invaluable asset for training more robust models, providing ample diverse data to build highly accurate recommendation engines, customer segmentation algorithms, and churn prediction models, even when real data is scarce and for safe experimentation, testing new product features, marketing strategies, or even potential price changes against a realistic simulated customer base without impacting real customers or compromising privacy and identifying edge cases.
+> **[3:40](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/use-case-synthetic-customer-reviews-for-product-analysis?u=76281980&t=220)** This synthetic data becomes an invaluable asset for training more robust models, providing ample diverse data to build highly accurate recommendation engines, customer segmentation [[Algorithms]], and churn prediction models, even when real data is scarce and for safe experimentation, testing new product features, marketing strategies, or even potential price changes against a realistic simulated customer base without impacting real customers or compromising privacy and identifying edge cases.
 >
 > **[4:21](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/use-case-synthetic-customer-reviews-for-product-analysis?u=76281980&t=261)** Stress testing our existing ML models with synthetic data designed to challenge them, helping us uncover potential weaknesses or biases before they affect real world performance.
 >
@@ -301,7 +296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), product (5), [[Privacy]] (2), ai (1), teams (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Algorithms]] (1)
 > **Env Vars:** gan (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -312,8 +307,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980)
+#### [The Generator](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -333,9 +327,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980&t=68)** The key takeaway here is this, a GAN that has learned the data distribution well can generate new data that looks and behaves just like the real thing, even though it's entirely synthetic.
 >
-> **[1:24](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980&t=84)** This is what makes GANs so powerful for data augmentation, simulation and testing.
+> **[1:24](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980&t=84)** This is what makes GANs so powerful for data augmentation, [[Simulation]] and testing.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980&t=92)** But how does the generator learn the probability distribution?
+> **[1:32](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980&t=92)** But how does the generator learn the [[Probability]] distribution?
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980&t=98)** The process begins with random noise fed into the generator.
 >
@@ -369,7 +363,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980&t=235)** Each slider's value influences a specific characteristic of the generated output, such as overall rating or mention of specific product features.
 >
-> **[4:08](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980&t=248)** This high dimensional latent space forms the GAN's imagination landscape, where different combinations of these slider values correspond to distinct output.
+> **[4:08](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980&t=248)** This high dimensional latent space [[Forms]] the GAN's imagination landscape, where different combinations of these slider values correspond to distinct output.
 >
 > **[4:20](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980&t=260)** By moving through this map, the generator can produce a wide variety of synthetic data with nearby points in the latent space yielding similar outputs.
 >
@@ -381,15 +375,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), product (3), [[Simulation]] (1), [[Probability]] (1), feature (1)
+> **Frameworks & Libraries:** [[Simulation]] (1), [[Probability]] (1), [[Forms]] (1)
 > **Env Vars:** gan (6)
 > **Analogies:** just like (1), think of it as (1), for example (1), such as (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Discriminator
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-discriminator?u=76281980)
+#### [The Discriminator](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-discriminator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -441,7 +434,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-discriminator?u=76281980&t=151)** The x-axis is the raw score before applying the sigmoid function.
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-discriminator?u=76281980&t=157)** The y-axis is the probability output after applying sigmoid, between zero and one.
+> **[2:37](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-discriminator?u=76281980&t=157)** The y-axis is the [[Probability]] output after applying sigmoid, between zero and one.
 >
 > **[2:45](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-discriminator?u=76281980&t=165)** On the left, the sigmoid function outputs a value close to one, around 0.93, in response to a real customer review.
 >
@@ -463,7 +456,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-discriminator?u=76281980&t=241)** So this back-and-forth setup, where one model generates and the other evaluates, is an adversarial learning process, where each model pushes the other to improve.
 >
-> **[4:16](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-discriminator?u=76281980&t=256)** To summarize, GANs rely on two neural networks working in tandem, the generator and the discriminator.
+> **[4:16](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-discriminator?u=76281980&t=256)** To summarize, GANs rely on two [[Neural Networks]] working in tandem, the generator and the discriminator.
 >
 > **[4:25](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-discriminator?u=76281980&t=265)** They engage in an adversarial loop.
 >
@@ -475,7 +468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Security]] (1), product (1), [[Probability]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Neural Networks]] (1)
 > **Versions:** 0.93 (2), 1.0 (1), 0.08 (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -484,8 +477,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 
-#### How GANs learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980)
+#### [How GANs learn](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,13 +495,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980&t=58)** Loss functions measure how well each model is performing.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980&t=62)** In the vanilla GAN, we use binary cross-entropy loss.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980&t=62)** In the [[Vanilla]] GAN, we use binary cross-entropy loss.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980&t=67)** It's a function that compares to probability distributions, whether the discriminator's output is real or fake.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980&t=67)** It's a function that compares to [[Probability]] distributions, whether the discriminator's output is real or fake.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980&t=77)** Once the loss is calculated, we use backpropagation, short for a backward propagation of errors.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980&t=85)** This is how neural networks learn, by adjusting weights and biases based on how wrong the prediction was.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980&t=85)** This is how [[Neural Networks]] learn, by adjusting weights and biases based on how wrong the prediction was.
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-gans-learn?u=76281980&t=93)** At some point, with proper architecture, the training should reach a state called model convergence.
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Vanilla]] (1), [[Probability]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Vanilla]] (1), [[Probability]] (1), [[Neural Networks]] (1)
 > **Env Vars:** gan (5), dgz (1)
 > **Definitions:** is a  (2), short for (1)
 > **Versions:** 0.5 (2)
@@ -577,12 +569,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to use the challenge exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-to-use-the-challenge-exercise-files?u=76281980)
+#### [How to use the challenge exercise files](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-to-use-the-challenge-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-to-use-the-challenge-exercise-files?u=76281980&t=0)** - [Instructor] The files needed for this lab are located in the course's GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-to-use-the-challenge-exercise-files?u=76281980&t=0)** - [Instructor] The files needed for this lab are located in the course's [[GitHub]] repository.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-to-use-the-challenge-exercise-files?u=76281980&t=5)** To use the files, please clone the repo into your own GitHub account, or download the files locally.
 >
@@ -599,8 +590,7 @@ created: 2026-05-02
 > **Exercise Files:** clone the repo (1), download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Build and evaluate a GAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/challenge-build-and-evaluate-a-gan?u=76281980)
+#### [Challenge: Build and evaluate a GAN](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/challenge-build-and-evaluate-a-gan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,7 +620,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** gan (1)
 > **Cross-References:** in the next (1)
 > **Tools:** colab (1)
@@ -638,9 +627,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Build and evaluate a GAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980)
+#### [Solution: Build and evaluate a GAN](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -656,7 +645,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=50)** Next, we simulate real data here to avoid any future dependencies on external files.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=56)** In your environment, you would typically pull this data from a data warehouse or other database systems.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=56)** In your environment, you would typically pull this data from a data warehouse or other [[Database Systems]].
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=63)** And again here, we're simply going to run the cell.
 >
@@ -664,7 +653,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=81)** And the code to do that is shown here.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=85)** We are defining a python function to build the Keras sequential model.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=85)** We are defining a [[Python (Programming Language)|python]] function to build the Keras sequential model.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=99)** Also in your challenge lab, you had to build the discriminator network.
 >
@@ -696,13 +685,13 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=267)** The generated data's distribution closely overlap with the real data's distributions across all three features.
 >
-> **[4:36](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=276)** This is the ideal outcome for a GAN, as it signifies that the Generator is producing synthetic data that is statistically very similar to the real data, making it highly valuable for tasks like data augmentation, privacy-safe testing, and simulation in your retail use case.
+> **[4:36](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=276)** This is the ideal outcome for a GAN, as it signifies that the Generator is producing synthetic data that is statistically very similar to the real data, making it highly valuable for tasks like data augmentation, [[Privacy]]-safe testing, and [[Simulation]] in your retail use case.
 >
 > **[4:57](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/solution-build-and-evaluate-a-gan?u=76281980&t=297)** This is a very strong result!"
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (2), next (1), database (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Database Systems]] (1), [[Privacy]] (1), [[Simulation]] (1)
 > **Env Vars:** gan (7)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** review_length (1), sentiment_score (1)
@@ -716,18 +705,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GANs and multimodal LLMs for scalable content generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980)
+#### [GANs and multimodal LLMs for scalable content generation](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980&t=0)** - [Narrator] GANs are powerful creators capable of generating realistic images, data, audio, and other synthetic content, but they don't inherently understand the meaning or context of what they create.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980&t=16)** That's where large language models, particularly multimodal large language models come into play.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980&t=16)** That's where [[Large Language Models (LLM)|large language models]], particularly multimodal large language models come into play.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980&t=23)** They add the layer of comprehension, interpreting, describing, and acting on what GANs produce.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980&t=32)** Imagine an e-commerce business selling thousands of unique products like shoes.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980&t=32)** Imagine an [[E-Commerce]] business selling thousands of unique [[Microsoft Products|products]] like shoes.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980&t=38)** Each product needs a compelling description, accurate category tags, and catchy marketing taglines for website listings, advertisements, and social media manually.
 >
@@ -759,14 +747,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), ai (2), data (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[E-Commerce]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** llm (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### A collaborative pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980)
+#### [A collaborative pipeline](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,13 +769,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=33)** This collaborative approach demonstrates several key aspects of modern AI.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=40)** Specialization, different AI models excel at different tasks.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=40)** Specialization, different AI models [[Microsoft Excel|excel]] at different tasks.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=45)** GANs are great at generating, while multimodal LLMs are great at understanding and describing complex content.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=55)** And in human in the loop, human experts guide the AI, provide context, make strategic decisions, and refine the AI's output to ensure it meets business goals and scalability.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=55)** And in human in the loop, human experts guide the AI, provide context, make strategic decisions, and refine the AI's output to ensure it meets business goals and [[Scalability]].
 >
-> **[1:11](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=71)** Automating parts of the content creation process allows businesses to generate vast amounts of personalized and diverse content at scale.
+> **[1:11](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=71)** Automating parts of the [[Content Creation]] process allows businesses to generate vast amounts of personalized and diverse content at scale.
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=82)** Something that would be impossible with manual methods alone and efficiency.
 >
@@ -796,7 +783,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=101)** Let's break down each role in this collaboration.
 >
-> **[1:44](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=104)** The developer designer role is critical for the initial creation and fine tuning of the GAN itself.
+> **[1:44](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=104)** The developer designer role is critical for the initial creation and [[Fine Tuning]] of the GAN itself.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=111)** They are responsible for setting up the training process, curating the real data sets, monitoring convergence, and ensuring the GaN can consistently produce high quality, relevant synthetic outputs.
 >
@@ -810,21 +797,21 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=180)** It ensures that the various AI components can talk to each other and operate efficiently within a larger workflow.
 >
-> **[3:11](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=191)** APIs application programming interfaces, allow different software components like your GANs output module and the multimodal LLMs input module to communicate.
+> **[3:11](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=191)** APIs [[Application Programming Interfaces (API)|application programming interfaces]], allow different software components like your GANs output module and the multimodal LLMs input module to communicate.
 >
 > **[3:25](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=205)** This table summarizes the collaborative AI pipeline by role, task and some of the key tools used.
 >
 > **[3:34](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=214)** Here we briefly show some of the skills needed by role.
 >
-> **[3:39](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=219)** Developers and designers need some Python knowledge.
+> **[3:39](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=219)** Developers and designers need some [[Python (Programming Language)|Python]] knowledge.
 >
 > **[3:41](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=221)** They need to understand GAN training and prompt tuning, data pre-processing and visual design tools.
 >
-> **[3:48](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=228)** Marketers and content creators should be skilled in prompt engineering, multimodal LLM usage, copywriting, and branding awareness, AI system integration requires knowledge of API integration, UI design, model orchestration, and cloud deployment.
+> **[3:48](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/a-collaborative-pipeline?u=76281980&t=228)** Marketers and content creators should be skilled in [[Prompt Engineering]], multimodal LLM usage, copywriting, and branding awareness, AI system integration requires knowledge of API integration, UI design, model orchestration, and cloud deployment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), llm (3), data (2), prompt (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Scalability]] (1), [[Content Creation]] (1), [[Fine Tuning]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
 > **Env Vars:** gan (6), llm (3), api (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** for example (2)
@@ -836,8 +823,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next Steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980)
+#### [Next Steps](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,15 +853,15 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980&t=55)** Deploy a GAN pipeline with loss tracking, model checkpoints, and synthetic data evaluation.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980&t=64)** Interested in learning more about deep learning and how to prep data for model training?
+> **[1:04](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980&t=64)** Interested in learning more about [[Deep Learning]] and how to prep data for model training?
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980&t=69)** Scan the QR codes to check out my two LinkedIn courses.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980&t=69)** Scan the QR codes to check out my two [[LinkedIn]] courses.
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980&t=74)** Good luck on your journey and keep learning!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), ai (2), data (2), product (1), teams (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gan (4)
 > **Speakers:** - [instructor] (1)
 

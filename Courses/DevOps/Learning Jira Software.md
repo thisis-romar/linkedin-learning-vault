@@ -89,52 +89,50 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to Jira Software
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980)
+#### [Welcome to Jira Software](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=0)** - Software development is a special type of work and great tools are needed to do it well.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=0)** - [[Software Development]] is a special type of work and great tools are needed to do it well.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=5)** Jira Software's features extend Jira so development teams can implement feature requests, track progress, fix bugs, and manage their work from requirements gathering to deployment.
+> **[0:05](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=5)** [[Jira]] Software's features extend Jira so development teams can implement feature requests, track progress, fix bugs, and manage their work from [[Requirements Gathering]] to deployment.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=15)** As a former web developer, I'll share my tips for getting the most out of Jira Software.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=19)** You'll learn how Jira Software extends Jira with development specific features, ways to leverage backlogs, sprints, and fix versions.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=28)** How to create custom-user objects like boards, dashboards, filters, and filter subscriptions, and more.
+> **[0:28](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=28)** How to create custom-user objects like boards, [[Dashboards]], filters, and filter subscriptions, and more.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=35)** Hi, I'm Rachel Wright, Certified Jira Administrator and author of the "Jira Strategy Admin Workbook."
 >
 > **[0:41](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=41)** I've used Jira Software since 2011 and I love how it helps developers launch new features, fix bugs, and release code.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=49)** Join my LinkedIn Learning course to understand how to use Jira Software to track all your development work.
+> **[0:49](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=49)** Join my [[LinkedIn]] Learning course to understand how to use Jira Software to track all your development work.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980&t=54)** Don't miss the demos, challenges, and quizzes at the end of each section to help reinforce the material.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), [[Software Development]] (1), teams (1), feature (1), [[Requirements Gathering]] (1)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Software Development]] (1), [[Requirements Gathering]] (1), [[Dashboards]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (9)
 > **Definitions:** is a  (1)
 > **Speakers:** - software (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=0)** - [Instructor] This course helps users get started with Jira software, use features built specifically for development tasks, and track work so you can develop, test, and release software for your organization.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=0)** - [Instructor] This course helps users get started with [[Jira]] software, use features built specifically for development tasks, and track work so you can develop, test, and release software for your organization.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=12)** You may be brand new to Jira software, have some previous experience, or have used Jira at a previous company.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=18)** Additionally, you may be a new Jira administrator or project administrator without much end-user experience.
+> **[0:18](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=18)** Additionally, you may be a new Jira administrator or project administrator without much end-[[User Experience (UX)|user experience]].
 >
 > **[0:25](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=25)** For you, we'll cover a few admin topics that are specifically related to Jira software features.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=30)** It doesn't matter if you're a software developer, tester, project manager, Scrum master, product owner, or release manager.
+> **[0:30](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=30)** It doesn't matter if you're a software developer, tester, project manager, [[Scrum]] master, product owner, or release manager.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=36)** Anyone involved in the software development lifecycle can benefit from tracking their in Jira software.
+> **[0:36](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=36)** Anyone involved in the [[Software Development]] lifecycle can benefit from tracking their in Jira software.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=44)** If you're new to Jira, take my learning Jira course first.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=64)** Also, if you're involved in any step of the software development life cycle, I invite you to also take my [[Planning and Releasing Software with Jira]] course.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=73)** It shows how to combine the power of Jira with Confluence, Bitbucket, and Sourcetree, so teams can reduce manual work and holistically support the entire development process.
+> **[1:13](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=73)** It shows how to combine the power of Jira with [[Confluence]], [[Bitbucket]], and Sourcetree, so teams can reduce manual work and holistically support the entire development process.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=83)** It's for coders and anyone who wants to know more about what goes on behind the scenes in the world of software development.
 >
@@ -170,13 +168,13 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=131)** Additionally, Jira software is available in three different deployment types.
 >
-> **[2:15](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=135)** If you have Cloud, it means the software is hosted by Atlassian.
+> **[2:15](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=135)** If you have Cloud, it means the software is hosted by [[Atlassian]].
 >
 > **[2:19](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=139)** That means Atlassian is responsible for application uptime, the database and the mail server.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=144)** If you have Server, it means the software is hosted independently.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=148)** Now your application may be hosted on premises, on a server in your office, in your data center with other internal applications, in a cloud environment like Amazon AWS, Microsoft Azure or Google Cloud Platform, or by a third party.
+> **[2:28](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=148)** Now your application may be hosted on premises, on a server in your [[Microsoft Office|office]], in your data center with other internal applications, in a cloud environment like Amazon AWS, [[Microsoft Azure]] or [[Google Cloud Platform (GCP)|Google Cloud Platform]], or by a third party.
 >
 > **[2:44](https://www.linkedin.com/learning/learning-jira-software-14677108/who-is-this-course-for?u=76281980&t=164)** Finally, if you have data center, it means you have multiple application nodes or instances for high availability, load balancing, redundancy, and disaster recovery.
 >
@@ -196,19 +194,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (25), cloud (6), application (5), data (4), teams (4)
+> **Frameworks & Libraries:** [[Jira]] (25), [[Software Development]] (3), [[Bitbucket]] (2), [[Atlassian]] (2), [[User Experience (UX)|User experience]] (1)
 > **Tools:** jira (25), bitbucket (2), confluence (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### What do you need for this course?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/what-do-you-need-for-this-course?u=76281980)
+#### [What do you need for this course?](https://www.linkedin.com/learning/learning-jira-software-14677108/what-do-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/what-do-you-need-for-this-course?u=76281980&t=0)** - [Instructor] Ideally, you'll have some experience creating issues, working on issues, and navigating to the most-used areas of Jira.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/what-do-you-need-for-this-course?u=76281980&t=0)** - [Instructor] Ideally, you'll have some experience creating issues, working on issues, and navigating to the most-used areas of [[Jira]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jira-software-14677108/what-do-you-need-for-this-course?u=76281980&t=7)** All you need right now is user-level access to your organization's Jira Software application.
 >
@@ -222,18 +219,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), application (1), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Jira]] (4)
 > **Tools:** jira (4)
 > **Speakers:** - [instructor] (1)
 
-#### Important definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980)
+#### [Important definitions](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=0)** - [Instructor] Before we get started, I wanted to refresh your memory of some important terms.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=4)** An issue is an individual item in Jira.
+> **[0:04](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=4)** An issue is an individual item in [[Jira]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=7)** Each time you create an item, you're creating a new issue with the unique key to identify it.
 >
@@ -241,7 +237,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=23)** Now, a project is a collection of issues.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=25)** The word project in Jira is different than an initiative your team is working on outside of Jira.
+> **[0:25](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=25)** The [[Microsoft Word|word]] project in Jira is different than an initiative your team is working on outside of Jira.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=31)** You can think of a Jira project as a container for all your team's initiatives, tasks and to-do items.
 >
@@ -279,11 +275,11 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=110)** When work is ready to start, simply drag the issue to the in progress column in this view or go to the issue to transition it to another step in the workflow.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=119)** A dashboard is a statistics-based view of issues from one or more projects.
+> **[1:59](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=119)** A dashboard is a [[Statistics]]-based view of issues from one or more projects.
 >
 > **[2:05](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=125)** A dashboard shows a lot of issue data at one time.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=128)** Dashboards show counts, trends and charts.
+> **[2:08](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=128)** [[Dashboards]] show counts, trends and charts.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=131)** There's a default system dashboard for everyone to use and you can create your own custom dashboards too.
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=146)** JQL means Jira Query Language and it's the way to search through thousands of issues to find the few that you're looking for.
 >
-> **[2:33](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=153)** If you're familiar with SQL, you'll pick this up very quickly.
+> **[2:33](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=153)** If you're familiar with [[SQL]], you'll pick this up very quickly.
 >
 > **[2:37](https://www.linkedin.com/learning/learning-jira-software-14677108/important-definitions?u=76281980&t=157)** In this example, the query asks how many bugs the marketing team reported this week.
 >
@@ -307,7 +303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (11), [[Dashboards]] (3), database (1), [[Microsoft Word|Word]] (1), application (1)
+> **Frameworks & Libraries:** [[Jira]] (11), [[Dashboards]] (3), [[Microsoft Word|Word]] (1), [[Statistics]] (1), [[SQL]] (1)
 > **Tools:** jira (11)
 > **Env Vars:** jql (3), dev (2), sql (1)
 > **Definitions:** is a  (5), is an  (1)
@@ -321,12 +317,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Software project types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980)
+#### [Software project types](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=0)** - [Instructor] Jira Software provides additional development specific features and abilities.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=0)** - [Instructor] [[Jira]] Software provides additional development specific features and abilities.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=5)** In this section, we'll discuss the software project types so you can understand their differences.
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=23)** Regardless of your development method there are some process specific terms that you'll encounter while using Jira.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=29)** Agile is an iterative approach to project management and software development.
+> **[0:29](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=29)** [[Agile Development|Agile]] is an iterative approach to project management and [[Software Development]].
 >
 > **[0:33](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=33)** It's an umbrella term that includes a set of practices designed to improve communication and how teams respond to change.
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=60)** The term agile started as an iterative approach to project management and software development, but has since expanded to encompass other teams that also want to quickly respond to change.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=71)** Another term you'll see in Jira is DevOps.
+> **[1:11](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=71)** Another term you'll see in Jira is [[DevOps]].
 >
 > **[1:14](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=74)** DevOps is a combination of the words development and operations.
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=118)** Jira has two types of boards to help teams visualize work.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=122)** The boards are built to use with two of the agile frameworks, Scrum and Kanban.
+> **[2:02](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=122)** The boards are built to use with two of the agile frameworks, [[Scrum]] and Kanban.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=128)** Scrum boards are for teams that deliver their work in regular fixed intervals called sprints.
 >
@@ -454,7 +449,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=335)** I like to enable the reports option.
 >
-> **[5:37](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=337)** There are also other options to connect to other tools like confluence and bit bucket at the bottom of the page.
+> **[5:37](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=337)** There are also other options to connect to other tools like [[Confluence]] and bit bucket at the bottom of the page.
 >
 > **[5:44](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=344)** Now one quick note about items in the left sidebar.
 >
@@ -464,7 +459,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=359)** I have some additional third party apps installed.
 >
-> **[6:02](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=362)** Further, Atlassian is constantly changing Jira.
+> **[6:02](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=362)** Further, [[Atlassian]] is constantly changing Jira.
 >
 > **[6:05](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980&t=365)** Design and feature changes are frequent, especially in Cloud.
 >
@@ -636,7 +631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (31), [[Scrum]] (13), cloud (12), teams (10), data (10)
+> **Frameworks & Libraries:** [[Jira]] (31), [[Scrum]] (13), [[Software Development]] (6), [[Agile Development|Agile]] (4), [[DevOps]] (2)
 > **Tools:** jira (31), confluence (1)
 > **Exercise Files:** template (20)
 > **Analogies:** just like (3), for example (2), similar to (1)
@@ -645,14 +640,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (2)
 > **Prerequisites:** you'll need (1), install (1)
 
-#### Common issue types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980)
+#### [Common issue types](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=0)** - [Instructor] In this section, we'll discuss specific issue types and their common uses.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=5)** As previously defined, individual records in Jira are called issues.
+> **[0:05](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=5)** As previously defined, individual records in [[Jira]] are called issues.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=9)** Jira comes with multiple issue types, and your Jira administrator can add additional custom types when there's a business need.
 >
@@ -660,7 +654,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=22)** Let's discuss the standard software issue types and how most organizations use them.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=28)** An epic is an agile term describing a large body of work that's typically broken down into many small accomplishable pieces.
+> **[0:28](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=28)** An epic is an [[Agile Development|agile]] term describing a large body of work that's typically broken down into many small accomplishable pieces.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=36)** For example, the marketing team wants to redesign the company website.
 >
@@ -698,7 +692,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=129)** They're often expressed in a standard format, like, as a user I want X so I can do Y.
 >
-> **[2:16](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=136)** So for example, as a website customer, I want a product summary page so I can see all products in one place.
+> **[2:16](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=136)** So for example, as a website customer, I want a product summary page so I can see all [[Microsoft Products|products]] in one place.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=143)** Or, as a product marketer, I want a referral program so I can grow our customer base.
 >
@@ -720,7 +714,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=186)** A fix version is a grouping of issues by date or time period.
 >
-> **[3:10](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=190)** You may also see them referred to as versions Tom Preston-Warner, inventor of Gravatar and founder of GitHub, created the semantic versioning specification.
+> **[3:10](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=190)** You may also see them referred to as versions Tom Preston-Warner, inventor of Gravatar and founder of [[GitHub]], created the semantic versioning specification.
 >
 > **[3:20](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=200)** This is a recommendation for naming versions in the format major.minor.patch.
 >
@@ -736,7 +730,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=231)** The linked issues feature links issues together regardless of their Jira project or issue type.
 >
-> **[3:57](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=237)** So in this example, the story SCRUM-8 is linked to SCRUM-6 because the issues are related.
+> **[3:57](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=237)** So in this example, the story [[Scrum]]-8 is linked to SCRUM-6 because the issues are related.
 >
 > **[4:04](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=244)** The epic linked field only supports one association, but you can have as many issue links as you'd like.
 >
@@ -826,7 +820,7 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=484)** It's important to know that different Jira projects may have different issue types, workflows, and other settings.
 >
-> **[8:11](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=491)** In this simple example, Project 1 and Project 2 are both software projects, but Project 2 has two additional issue types and one additional workflow step.
+> **[8:11](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=491)** In this simple example, Project 1 and Project 2 are both [[Software Projects]], but Project 2 has two additional issue types and one additional workflow step.
 >
 > **[8:21](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=501)** If you don't see an expected issue type in your Jira project, ask your Jira administrator to add it.
 >
@@ -886,7 +880,7 @@ created: 2026-05-02
 >
 > **[10:43](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=643)** First, there's no limit to how many issues are created at each level.
 >
-> **[10:47](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=647)** Additional levels are possible with apps in the Atlassian marketplace.
+> **[10:47](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=647)** Additional levels are possible with apps in the [[Atlassian]] marketplace.
 >
 > **[10:52](https://www.linkedin.com/learning/learning-jira-software-14677108/common-issue-types?u=76281980&t=652)** Levels above epic are often named initiative, theme, goal, or whatever makes sense to track strategic priorities at your organization.
 >
@@ -952,7 +946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (23), next (8), cloud (5), [[Search]] (5), feature (4)
+> **Frameworks & Libraries:** [[Jira]] (23), [[Scrum]] (4), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1), [[GitHub]] (1)
 > **Tools:** jira (23), github (1)
 > **Definitions:** is a  (6), is an  (1), in other words (1), is called (1)
 > **Analogies:** for example (4), just like (2)
@@ -961,14 +955,13 @@ created: 2026-05-02
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** parentepic (1)
 
-#### Using software workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980)
+#### [Using software workflows](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=0)** - [Instructor] In the previous learning JIRA cloud, and learning JIRA server courses, I showed how to transition issues in a workflow so you can keep issue status in sync with reality.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=0)** - [Instructor] In the previous learning [[Jira]] cloud, and learning JIRA server courses, I showed how to transition issues in a workflow so you can keep issue status in sync with reality.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=10)** In this course, we'll talk more about how workflows are typically used and configured in software projects.
+> **[0:10](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=10)** In this course, we'll talk more about how workflows are typically used and configured in [[Software Projects]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=17)** But first, here are some definitions to know.
 >
@@ -1032,7 +1025,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=194)** Next, let's discuss transitions which move issues between workflow statuses.
 >
-> **[3:20](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=200)** Both the examples use global transitions indicated by the word, All.
+> **[3:20](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=200)** Both the examples use global transitions indicated by the [[Microsoft Word|word]], All.
 >
 > **[3:25](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=205)** This transition means an issue can move from one status to any other status.
 >
@@ -1046,7 +1039,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=235)** Workflows sometimes contain custom behaviors to specify actions before, during or after a transition.
 >
-> **[4:03](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=243)** Here are some examples commonly used in software development workflows.
+> **[4:03](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=243)** Here are some examples commonly used in [[Software Development]] workflows.
 >
 > **[4:07](https://www.linkedin.com/learning/learning-jira-software-14677108/using-software-workflows?u=76281980&t=247)** If a code branch is created in bit bucket, automatically transitioned the JIRA issue from the to do status, to the In Progress status.
 >
@@ -1136,7 +1129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), teams (4), next (4), business (3), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Software Projects]] (1), [[Microsoft Word|Word]] (1), [[Software Development]] (1)
 > **Env Vars:** jira (6)
 > **Tools:** jira (6)
 > **Analogies:** for example (4)
@@ -1145,12 +1138,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging backlogs and sprints
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980)
+#### [Leveraging backlogs and sprints](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=0)** - [Instructor] In this section, we'll discuss how the backlog and sprint features help Scrum teams manage work.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=0)** - [Instructor] In this section, we'll discuss how the backlog and sprint features help [[Scrum]] teams manage work.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=6)** And as usual, here are some definitions.
 >
@@ -1220,7 +1212,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=163)** When it's time to start work, click the start sprint button.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=167)** Jira redirects to the active sprints page to see the sprint's issues in board format.
+> **[2:47](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=167)** [[Jira]] redirects to the active sprints page to see the sprint's issues in board format.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=174)** Let's return to the backlog to see what changed.
 >
@@ -1312,13 +1304,13 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=408)** Here's one more complex example from the documentation.
 >
-> **[6:51](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=411)** Atlassian recommends keeping OR clauses outside of the parentheses and AND subclauses inside of the parentheses.
+> **[6:51](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=411)** [[Atlassian]] recommends keeping OR clauses outside of the parentheses and AND subclauses inside of the parentheses.
 >
 > **[6:59](https://www.linkedin.com/learning/learning-jira-software-14677108/leveraging-backlogs-and-sprints?u=76281980&t=419)** For additional examples and more information on this topic, visit the URL shown.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), [[Scrum]] (4), next (4), teams (3), feature (3)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Scrum]] (4), [[Atlassian]] (1)
 > **Tools:** jira (10)
 > **CLI Commands:** make (1), find (1)
 > **Documentation:** the documentation (2)
@@ -1327,14 +1319,13 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Versions:** 1.0.0 (1)
 
-#### Estimating work and tracking time
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980)
+#### [Estimating work and tracking time](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=0)** - [Presenter] Estimation helps predict and plan work, set expectations, and communicate the scope.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=6)** There are two ways to estimate in Jira software.
+> **[0:06](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=6)** There are two ways to estimate in [[Jira]] software.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=9)** In this section we'll discuss the differences between time and story point estimates.
 >
@@ -1404,7 +1395,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=161)** Let's compare the three sub-tasks in the to-do column.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=165)** In scrum 11, the gray lozenge shows one hour and 30 minutes.
+> **[2:45](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=165)** In [[Scrum]] 11, the gray lozenge shows one hour and 30 minutes.
 >
 > **[2:50](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=170)** This is calculated by subtracting the hours logged from the original estimate.
 >
@@ -1416,7 +1407,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=185)** In scrum 13, no estimate is entered and no time is logged either.
 >
-> **[3:11](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=191)** The word unestimated appears when hovering over the gray lozenge.
+> **[3:11](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=191)** The [[Microsoft Word|word]] unestimated appears when hovering over the gray lozenge.
 >
 > **[3:16](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=196)** Next, enter time during the workflow assuming the workflow contains a transition screen.
 >
@@ -1480,7 +1471,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=349)** as in all company managed projects.
 >
-> **[5:51](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=351)** Check out Atlassian's Agile project management guide for additional estimation guidance.
+> **[5:51](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=351)** Check out [[Atlassian]]'s [[Agile Development|Agile]] project management guide for additional estimation guidance.
 >
 > **[5:57](https://www.linkedin.com/learning/learning-jira-software-14677108/estimating-work-and-tracking-time?u=76281980&t=357)** Now that we've discussed estimation, let's discuss tracking time spent.
 >
@@ -1616,7 +1607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (16), next (8), data (6), application (5), cloud (4)
+> **Frameworks & Libraries:** [[Jira]] (16), [[Scrum]] (4), [[Atlassian]] (3), [[Agile Development|Agile]] (2), [[Microsoft Word|Word]] (1)
 > **Tools:** jira (16)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (1), checkbox (1), dropdown (1)
@@ -1625,12 +1616,11 @@ created: 2026-05-02
 > **Env Vars:** jql (1)
 > **Versions:** 2.5 (1)
 
-#### Using fix versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980)
+#### [Using fix versions](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=0)** - [Instructor] Another Jira software feature is fix versions and releases.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=0)** - [Instructor] Another [[Jira]] software feature is fix versions and releases.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=4)** A fix version is a grouping of issues by date or time period.
 >
@@ -1704,7 +1694,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=159)** This Jira project has three versions, 1.0.0, 1.1.0, and 1.2.0.
 >
-> **[2:46](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=166)** Each version has metadata like a status and an optional start date, release date, and description.
+> **[2:46](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=166)** Each version has [[Metadata]] like a status and an optional start date, release date, and description.
 >
 > **[2:53](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=173)** Hover over the progress bar to see a count of issues.
 >
@@ -1734,7 +1724,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=233)** If your tier application is connected to other development tools like Bamboo, use the build and release option.
 >
-> **[4:00](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=240)** For more information about connecting Jira to other tools, take my [[Planning and Releasing Software with Jira]] LinkedIn course.
+> **[4:00](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=240)** For more information about connecting Jira to other tools, take my [[Planning and Releasing Software with Jira]] [[LinkedIn]] course.
 >
 > **[4:07](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=247)** Next is the merge option for combining versions together.
 >
@@ -1856,7 +1846,7 @@ created: 2026-05-02
 >
 > **[8:33](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=513)** Visit the sandbox website at the URL shown.
 >
-> **[8:37](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=517)** For server and data center, there's lots of great automation apps in the Atlassian marketplace.
+> **[8:37](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=517)** For server and data center, there's lots of great automation apps in the [[Atlassian]] marketplace.
 >
 > **[8:42](https://www.linkedin.com/learning/learning-jira-software-14677108/using-fix-versions?u=76281980&t=522)** To add the functionality in the previous example, install the app called Automation for Jira.
 >
@@ -1864,7 +1854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (17), next (9), [[Automation]] (7), application (4), data (3)
+> **Frameworks & Libraries:** [[Jira]] (17), [[LinkedIn]] (2), [[Metadata]] (1), [[Atlassian]] (1)
 > **Tools:** jira (17)
 > **Versions:** 1.0.0 (3), 1.1.0 (2), 1.0 (2), 1.2.0 (1), version 1 (1)
 > **Env Vars:** jql (3), url (2)
@@ -1873,14 +1863,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
-#### Types of boards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980)
+#### [Types of boards](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=0)** - [Narrator] We previously defined these terms in an earlier section, but here's a reminder.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=5)** There are many ways to visualize work in Jira, and the boards feature is one of them.
+> **[0:05](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=5)** There are many ways to visualize work in [[Jira]], and the boards feature is one of them.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=9)** Boards are customizable, and there's no limit to how many you can have.
 >
@@ -1888,7 +1877,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=16)** The naming of the link in a project's left sidebar differs by project type however.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=21)** In company managed Scrum projects, click the active sprints link as shown in the example.
+> **[0:21](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=21)** In company managed [[Scrum]] projects, click the active sprints link as shown in the example.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=26)** In company managed Kanban projects, the link is named Kanban board.
 >
@@ -1916,7 +1905,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=90)** Like in most areas of Jira, you can bookmark the board list URL.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=95)** Atlassian says that in the future it will be possible to customize a cloud sites domain, so I included that future format as well.
+> **[1:35](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=95)** [[Atlassian]] says that in the future it will be possible to customize a cloud sites domain, so I included that future format as well.
 >
 > **[1:43](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=103)** Now that you know how to find boards, let's discuss the differences between Scrum and Kanban board types.
 >
@@ -2076,7 +2065,7 @@ created: 2026-05-02
 >
 > **[7:14](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=434)** For server and data center, the configuration capabilities and differences are the same as cloud, only the UI is slightly different.
 >
-> **[7:23](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=443)** Atlassian has fantastic documentation on Scrum, Kanban, and board differences in their agile coach documentation section.
+> **[7:23](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=443)** Atlassian has fantastic documentation on Scrum, Kanban, and board differences in their [[Agile Development|agile]] coach documentation section.
 >
 > **[7:31](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-boards?u=76281980&t=451)** Learn more at the URL shown.
 >
@@ -2084,7 +2073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (12), feature (8), [[Jira]] (5), cloud (3), data (3)
+> **Frameworks & Libraries:** [[Scrum]] (12), [[Jira]] (5), [[Atlassian]] (2), [[Agile Development|Agile]] (1)
 > **UI Navigation:** in the menu (3), dropdown (2), switch to (1), right-click (1)
 > **Env Vars:** url (4), jql (1)
 > **Tools:** jira (5)
@@ -2093,8 +2082,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Types of reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980)
+#### [Types of reports](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2184,7 +2172,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=223)** Don't wait until the end of the work cycle to check how things are going.
 >
-> **[3:48](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=228)** Part of Jira's power is its reporting capabilities.
+> **[3:48](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=228)** Part of [[Jira]]'s power is its reporting capabilities.
 >
 > **[3:52](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=232)** Data is pulled from entire projects, JQL queries, and specific boards.
 >
@@ -2200,7 +2188,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=260)** The link is in the same place for any project or deployment type, but the types of reports differ.
 >
-> **[4:26](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=266)** SCRUM projects in Jira cloud have the most options.
+> **[4:26](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=266)** [[Scrum]] projects in Jira cloud have the most options.
 >
 > **[4:29](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=269)** They're over 20 reports to choose from.
 >
@@ -2274,11 +2262,11 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=428)** As I mentioned, most reports are customizable.
 >
-> **[7:11](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=431)** If you need more features or can't get to the desired data, there are many reporting apps to explore in the Atlassian Marketplace.
+> **[7:11](https://www.linkedin.com/learning/learning-jira-software-14677108/types-of-reports?u=76281980&t=431)** If you need more features or can't get to the desired data, there are many reporting apps to explore in the [[Atlassian]] Marketplace.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (7), [[Jira]] (3), teams (2), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Scrum]] (2), [[Atlassian]] (1)
 > **Env Vars:** url (3), scrum (2), kanban (2), jql (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (2), find (1)
@@ -2287,18 +2275,17 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1), dropdown (1)
 > **Versions:** 2022.8.0 (1)
 
-#### Common integrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980)
+#### [Common integrations](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=0)** - [Narrator] Jira software connects to additional Atlassian and non-Atlassian tools.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=0)** - [Narrator] [[Jira]] software connects to additional [[Atlassian]] and non-Atlassian tools.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=5)** In this section we'll discuss common integrations.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=9)** Integration with other applications and middleware accelerates work and avoids duplicating information in multiple places.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=16)** For example, automatically trigger a zoom meeting and a high priority issue is created.
+> **[0:16](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=16)** For example, automatically trigger a [[Zoom]] meeting and a high priority issue is created.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=22)** Send Jira work logs to an external billing application or sync information between tools so different teams can leverage it.
 >
@@ -2316,25 +2303,25 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=61)** Regardless of which tools you use, connecting them this manual work, fosters transparency and increases collaboration potential.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=70)** Development teams, often connect Jira to a collaboration platform, Wiki or document repository like confluence.
+> **[1:10](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=70)** Development teams, often connect Jira to a collaboration platform, Wiki or document repository like [[Confluence]].
 >
 > **[1:17](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=77)** Confluence helps organize work, manage files and document everything in one place.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=83)** Jira connects with other similar tools too, for example, import Jira data or query Jira from a Google sheet.
+> **[1:23](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=83)** Jira connects with other similar tools too, for example, import Jira data or query Jira from a [[Google]] sheet.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=91)** There are many code management tools that connect to Jira .
 >
-> **[1:34](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=94)** Bamboo is for continuous integration, deployment and release management, Bidbucket is used to manage, test and deploy code.
+> **[1:34](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=94)** Bamboo is for [[Continuous Integration (CI)|continuous integration]], deployment and release management, Bidbucket is used to manage, test and deploy code.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=102)** If you have a peer code review process you might use crucible to find bugs and approved code quality.
+> **[1:42](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=102)** If you have a peer [[Code Review]] process you might use crucible to find bugs and approved code quality.
 >
-> **[1:49](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=109)** Fisheye helps search, monitor and track code across repositories Sourcetree is a free Git client for Windows and Mac.
+> **[1:49](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=109)** Fisheye helps search, monitor and track code across repositories Sourcetree is a free [[Git]] client for [[Windows]] and Mac.
 >
 > **[1:56](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=116)** You can visualize and manage repositories through a simple graphical interface, Jira connects to other common industry tools too.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=126)** Finally connect Jira to tools like Opsgenie and status page to manage alerts and communicate system availability.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=133)** It's easy for application administrators to connect Atlassian products together.
+> **[2:13](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=133)** It's easy for application administrators to connect Atlassian [[Microsoft Products|products]] together.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=138)** In the admin area, scroll down on the left sidebar and click application links.
 >
@@ -2348,13 +2335,13 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=180)** For example, connect to Jira project to a confluence space to create confluence pages in Jira and create Jira issues from confluence.
 >
-> **[3:08](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=188)** Connect to Jira project to a Bitbucket repository to create issues directly from a pull request comment or update Jira issues without leaving Bitbucket, time is saved by working in one place and not switching applications all day.
+> **[3:08](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=188)** Connect to Jira project to a [[Bitbucket]] repository to create issues directly from a pull request comment or update Jira issues without leaving Bitbucket, time is saved by working in one place and not switching applications all day.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=202)** Next use webhook as a lightweight mechanism for pushing Jira notifications to remote applications.
 >
 > **[3:29](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=209)** For example, alert another application when an issue is updated, a workflow post function is executed or an incident is being worked.
 >
-> **[3:38](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=218)** Chat applications like Slack and Microsoft Teams are often connected to Jira using web hook functionality.
+> **[3:38](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=218)** Chat applications like [[Slack]] and [[Microsoft Teams]] are often connected to Jira using web hook functionality.
 >
 > **[3:45](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=225)** In this example, Slack notifies it channel when Jira epics are closed and when bugs are created you can also create Jira issues within Slack.
 >
@@ -2362,15 +2349,15 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=239)** Now, I can see what's happening in Jira without needing to own open Jira .
 >
-> **[4:03](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=243)** Finally, there are many easy to install integration apps in the Atlassian marketplace and of course if you can't find the integration you're looking for, you can always develop your own using the Atlassian framework or the rest API.
+> **[4:03](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=243)** Finally, there are many easy to install integration apps in the Atlassian marketplace and of course if you can't find the integration you're looking for, you can always develop your own using the Atlassian framework or the [[Representational State Transfer (REST)|rest]] API.
 >
-> **[4:16](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=256)** Exact instructions for connecting Atlassian applications are available in my [[Planning and Releasing Software with Jira]] LinkedIn course.
+> **[4:16](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=256)** Exact instructions for connecting Atlassian applications are available in my [[Planning and Releasing Software with Jira]] [[LinkedIn]] course.
 >
 > **[4:24](https://www.linkedin.com/learning/learning-jira-software-14677108/common-integrations?u=76281980&t=264)** I hope you'll take this course next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (29), application (14), [[Confluence]] (8), [[Atlassian]] (7), [[Slack]] (4)
+> **Frameworks & Libraries:** [[Jira]] (29), [[Confluence]] (8), [[Atlassian]] (7), [[Slack]] (4), [[Bitbucket]] (2)
 > **Tools:** jira (29), confluence (8), slack (4), bitbucket (2)
 > **Analogies:** for example (5)
 > **CLI Commands:** find (3), git (1)
@@ -2384,12 +2371,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting the most from Jira Software
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980)
+#### [Getting the most from Jira Software](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980&t=0)** - I wanted to share my top tips for getting the most out of Jira software.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980&t=0)** - I wanted to share my top tips for getting the most out of [[Jira]] software.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980&t=4)** First, Jira is just a tool, and no tool can make up for a bad process, leadership, or results.
 >
@@ -2443,7 +2429,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980&t=109)** Notification messages can be delayed, blocked, or filtered.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980&t=113)** It's better to use boards, dashboards, filters, and reports to monitor activity.
+> **[1:53](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980&t=113)** It's better to use boards, [[Dashboards]], filters, and reports to monitor activity.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980&t=118)** Also, don't rely too much on issue export functions.
 >
@@ -2457,7 +2443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (8), data (4), leadership (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Jira]] (8), [[Dashboards]] (1)
 > **Tools:** jira (8)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1)
@@ -2469,12 +2455,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filter overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980)
+#### [Filter overview](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=0)** - [Instructor] First let's review a few terms from the basic Jira course.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=0)** - [Instructor] First let's review a few terms from the basic [[Jira]] course.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=4)** A query is a search or a way to answer a question, like which issues are assigned to me?
 >
@@ -2488,7 +2473,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=24)** And JQL is for everyone, not just technical users.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=28)** JQL powers Jira features, like boards, dashboards, and reports.
+> **[0:28](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=28)** JQL powers Jira features, like boards, [[Dashboards]], and reports.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=33)** A filter is a saved JQL search to use again or share with colleagues.
 >
@@ -2510,7 +2495,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=76)** On the search page, enter a query to find issues as desired and execute the search.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=81)** I'll search for issues in the scrum project assigned to me that aren't done and are ordered by due date.
+> **[1:21](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=81)** I'll search for issues in the [[Scrum]] project assigned to me that aren't done and are ordered by due date.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=88)** Notice that current user is a JQL function.
 >
@@ -2556,13 +2541,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=181)** Since many of you are developers, here's some bonus information you might find useful.
 >
-> **[3:05](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=185)** In addition to the abilities in the UI, you can also leverage the REST API to access information.
+> **[3:05](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=185)** In addition to the abilities in the UI, you can also leverage the [[Representational State Transfer (REST)|REST]] API to access information.
 >
 > **[3:11](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=191)** Here are some examples to get you started, then you can extract the data and parse it any way you want.
 >
 > **[3:17](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=197)** Don't forget to escape or encode any special characters or spaces.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=201)** More about the REST API is available in the developer documentation at developer.[atlassian.com](https://atlassian.com).
+> **[3:21](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=201)** More about the REST API is available in the developer documentation at developer.[[[Atlassian]].com](https://atlassian.com).
 >
 > **[3:28](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980&t=208)** Further, server and data center users can also directly query the database, but be careful.
 >
@@ -2572,7 +2557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (13), [[Jira]] (6), data (5), database (3), next (3)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Dashboards]] (2), [[Scrum]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Atlassian]] (2)
 > **Env Vars:** jql (7), url (3), rest (2), api (2)
 > **Tools:** jira (6)
 > **CLI Commands:** find (4)
@@ -2581,12 +2566,11 @@ created: 2026-05-02
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
 > **UI Navigation:** dropdown (1)
 
-#### Using filter subscriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/using-filter-subscriptions?u=76281980)
+#### [Using filter subscriptions](https://www.linkedin.com/learning/learning-jira-software-14677108/using-filter-subscriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/using-filter-subscriptions?u=76281980&t=0)** - [Instructor] Remember in the last section when I recommended being proactive by not waiting to receive Jira email notifications?
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/using-filter-subscriptions?u=76281980&t=0)** - [Instructor] Remember in the last section when I recommended being proactive by not waiting to receive [[Jira]] email notifications?
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jira-software-14677108/using-filter-subscriptions?u=76281980&t=6)** Well, I still stand by that advice.
 >
@@ -2628,7 +2612,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-jira-software-14677108/using-filter-subscriptions?u=76281980&t=83)** Here's an example way to use this feature.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-jira-software-14677108/using-filter-subscriptions?u=76281980&t=85)** I use JQL to find issues in the scrum project that are in the in-progress or done status where there's no assignee.
+> **[1:25](https://www.linkedin.com/learning/learning-jira-software-14677108/using-filter-subscriptions?u=76281980&t=85)** I use JQL to find issues in the [[Scrum]] project that are in the in-progress or done status where there's no assignee.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-jira-software-14677108/using-filter-subscriptions?u=76281980&t=93)** Now, ideally this condition shouldn't exist.
 >
@@ -2656,7 +2640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), next (4), feature (2), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Scrum]] (1)
 > **Tools:** jira (4)
 > **Cross-References:** in the last (2)
 > **CLI Commands:** find (1)
@@ -2665,8 +2649,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 
-#### Challenge: Create a custom filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-filter?u=76281980)
+#### [Challenge: Create a custom filter](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2676,11 +2659,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-filter?u=76281980&t=16)** We know four pieces of information.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-filter?u=76281980&t=18)** You are the reporter, the issues contain the word website.
+> **[0:18](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-filter?u=76281980&t=18)** You are the reporter, the issues contain the [[Microsoft Word|word]] website.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-filter?u=76281980&t=22)** The issues haven't been updated in a month, and the issues were due last year, but weren't completed.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-filter?u=76281980&t=28)** Visit the JIRA search page, enter a JQL query, execute the search and save the filter.
+> **[0:28](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-filter?u=76281980&t=28)** Visit the [[Jira]] search page, enter a JQL query, execute the search and save the filter.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-filter?u=76281980&t=34)** Now, I made this query a little complicated on purpose.
 >
@@ -2694,14 +2677,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), [[Search]] (2), [[Microsoft Word|Word]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** jira (2), jql (2)
 > **Tools:** jira (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Create a custom filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-filter?u=76281980)
+#### [Solution: Create a custom filter](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2717,7 +2699,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-filter?u=76281980&t=22)** You could also hard code your username.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-filter?u=76281980&t=25)** The tilde in the second clause does a like search for a word or phrase.
+> **[0:25](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-filter?u=76281980&t=25)** The tilde in the second clause does a like search for a [[Microsoft Word|word]] or phrase.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-filter?u=76281980&t=29)** The search includes the summary, description, and comment fields.
 >
@@ -2735,7 +2717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Microsoft Word|Word]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** jql (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2745,18 +2727,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dashboard overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980)
+#### [Dashboard overview](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980&t=0)** - [Instructor] Dashboards provide powerful insights, statistics, and high-level views to monitor the health of a release, progress on an initiative, or your custom set of important issues.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980&t=0)** - [Instructor] [[Dashboards]] provide powerful insights, [[Statistics]], and high-level views to monitor the health of a release, progress on an initiative, or your custom set of important issues.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980&t=11)** A dashboard is a statistic-based view of issues.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980&t=15)** Dashboards are powered by one or more JQL filters.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980&t=18)** A gadget displays dynamic content on a Jira Dashboard.
+> **[0:18](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980&t=18)** A gadget displays dynamic content on a [[Jira]] Dashboard.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980&t=22)** There are many types of gadgets, like charts, graphs, and lists.
 >
@@ -2794,21 +2775,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (6), [[Jira]] (2), application (2), data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (6), [[Jira]] (2), [[Statistics]] (1)
 > **Env Vars:** jql (1), url (1)
 > **Tools:** jira (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980)
+#### [Example dashboards](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=0)** - [Instructor] Let's look at some example dashboards so you can get ideas for your own custom version.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=0)** - [Instructor] Let's look at some example [[Dashboards]] so you can get ideas for your own custom version.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=5)** These first examples are from Jira Cloud.
+> **[0:05](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=5)** These first examples are from [[Jira]] Cloud.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=7)** Here's my real personal dashboard, and my production application.
 >
@@ -2820,7 +2800,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=22)** At the bottom right is a stream showing recent Jira activity.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=27)** I also use the Atlassian tools outside of work to track personal growth items.
+> **[0:27](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=27)** I also use the [[Atlassian]] tools outside of work to track personal growth items.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=31)** This dashboard tracks personal goal progress.
 >
@@ -2828,7 +2808,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=37)** Shows a pie chart for progress on my bucket list.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=40)** And calculates various statistics, percentages, and work logs.
+> **[0:40](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=40)** And calculates various [[Statistics]], percentages, and work logs.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=44)** In case it doesn't translate, a bucket list is a list of things I want to achieve or experience before the end of my life.
 >
@@ -2866,7 +2846,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=118)** It was like a mini service desk without installing Jira Service Management.
 >
-> **[2:01](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=121)** To add the content, I added the text gadget, which accommodates plain text or HTML.
+> **[2:01](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=121)** To add the content, I added the text gadget, which accommodates plain text or [[HTML]].
 >
 > **[2:08](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=128)** Now, because of the potential cross-site scripting vulnerability, this gadget is only available in Server and Data Center.
 >
@@ -2884,7 +2864,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=160)** Finally, scroll down to the line labeled text.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=163)** Then hover over the word disabled to enable the gadget.
+> **[2:43](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=163)** Then hover over the [[Microsoft Word|word]] disabled to enable the gadget.
 >
 > **[2:46](https://www.linkedin.com/learning/learning-jira-software-14677108/example-dashboards?u=76281980&t=166)** Here's a tip.
 >
@@ -2898,7 +2878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (11), data (5), [[Atlassian]] (4), cloud (3), application (2)
+> **Frameworks & Libraries:** [[Jira]] (11), [[Atlassian]] (4), [[Statistics]] (2), [[HTML]] (2), [[Dashboards]] (1)
 > **Tools:** jira (11)
 > **Definitions:** is a  (4)
 > **Env Vars:** html (2), jira (1)
@@ -2906,24 +2886,23 @@ created: 2026-05-02
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing dashboard gadgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980)
+#### [Choosing dashboard gadgets](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=0)** - [Instructor] Here are some of my favorite and most used gadgets.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=3)** On the left is the two dimensional filter statistics and filter results gadgets.
+> **[0:03](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=3)** On the left is the two dimensional filter [[Statistics]] and filter results gadgets.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=8)** On the right is the issue statistics and pie chart gadgets.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=12)** Here are my favorite dev specific gadgets.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=15)** On the left is the sprint health and Jira roadmap gadgets.
+> **[0:15](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=15)** On the left is the sprint health and [[Jira]] roadmap gadgets.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=19)** On the right is the sprint burndown and days remaining in sprint gadgets.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=24)** Dashboards are a quick and easy way to build helpful views for yourself, your team, or leadership.
+> **[0:24](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=24)** [[Dashboards]] are a quick and easy way to build helpful views for yourself, your team, or leadership.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-jira-software-14677108/choosing-dashboard-gadgets?u=76281980&t=30)** Here are some dashboard tips.
 >
@@ -2957,15 +2936,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), leadership (2), next (2), [[Jira]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Jira]] (1), [[Dashboards]] (1)
 > **Env Vars:** url (1)
 > **Tools:** jira (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a custom dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-dashboard?u=76281980)
+#### [Challenge: Create a custom dashboard](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2983,13 +2961,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** jql (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a custom dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-dashboard?u=76281980)
+#### [Solution: Create a custom dashboard](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2997,7 +2973,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-dashboard?u=76281980&t=8)** Here's how to do it.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-dashboard?u=76281980&t=9)** From the Dashboards page, click Create dashboard on the top right.
+> **[0:09](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-dashboard?u=76281980&t=9)** From the [[Dashboards]] page, click Create dashboard on the top right.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-dashboard?u=76281980&t=13)** Then enter a unique name and optional description, and set permissions as desired.
 >
@@ -3017,7 +2993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Dashboards]] (1), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **Prerequisites:** configure (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -3028,12 +3004,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What your administrator wishes you knew
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980)
+#### [What your administrator wishes you knew](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980&t=0)** - As a Jira administrator, there are four things I wish my users knew.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980&t=0)** - As a [[Jira]] administrator, there are four things I wish my users knew.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980&t=4)** First, and I know not all admins want to hear this, but if you hate Jira, if it's a pain to use, or if it doesn't work well for your team, it's probably your administrator's fault.
 >
@@ -3075,7 +3050,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980&t=108)** Finally, there are some things you initially might not like, but are often built that way on purpose.
 >
-> **[1:54](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980&t=114)** Atlassian tries to steer you towards best practices with the default settings and options.
+> **[1:54](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980&t=114)** [[Atlassian]] tries to steer you towards best practices with the default settings and options.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980&t=119)** A common complaint is issues can only be assigned to one user.
 >
@@ -3093,7 +3068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), cloud (1), data (1), next (1), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Atlassian]] (1)
 > **Tools:** jira (6)
 > **CLI Commands:** make (4)
 > **Warnings:** watch out (1)
@@ -3104,8 +3079,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Board overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980)
+#### [Board overview](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3119,7 +3093,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980&t=14)** You can add your own quick filters and swimlanes, with a JQL query.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980&t=19)** We created a sample board and the basic JIRA course.
+> **[0:19](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980&t=19)** We created a sample board and the basic [[Jira]] course.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980&t=22)** Today, let's create one using additional features, we didn't previously explore.
 >
@@ -3127,7 +3101,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980&t=29)** If you need help getting to the page shown, there are instructions in the previous, types of board section.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980&t=35)** For this example, I'll create a board for a Dev Team, using SCRUM with an existing project.
+> **[0:35](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980&t=35)** For this example, I'll create a board for a Dev Team, using [[Scrum]] with an existing project.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980&t=41)** After the board is created, it's time to set some preferences.
 >
@@ -3209,7 +3183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (3), next (3), data (2), [[Jira]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Jira]] (1)
 > **Env Vars:** scrum (3), jql (2), jira (1)
 > **Tools:** jira (1)
 > **UI Navigation:** select the (1)
@@ -3218,16 +3192,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Ranking issues on boards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980)
+#### [Ranking issues on boards](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980&t=0)** - [Instructor] JIRA provides an easy way to order and prioritize issues.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980&t=0)** - [Instructor] [[Jira]] provides an easy way to order and prioritize issues.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980&t=4)** On a board, drag an issue above or below another issue to determine ranking.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980&t=9)** In the example, the position of SCRUM-10 is changing.
+> **[0:09](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980&t=9)** In the example, the position of [[Scrum]]-10 is changing.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980&t=13)** Issues at the top of the list are higher priority than issues at the bottom.
 >
@@ -3259,7 +3232,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980&t=80)** I added the rank column to the screenshot just so you could see an example rank format.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980&t=85)** While I use the ranking often in queries, I really display the rank data in filters or dashboards.
+> **[1:25](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980&t=85)** While I use the ranking often in queries, I really display the rank data in filters or [[Dashboards]].
 >
 > **[1:32](https://www.linkedin.com/learning/learning-jira-software-14677108/ranking-issues-on-boards?u=76281980&t=92)** The only time I actually view rank settings is to troubleshoot the ranking feature.
 >
@@ -3277,15 +3250,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), [[Scrum]] (1), product (1), data (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Scrum]] (1), [[Dashboards]] (1)
 > **Env Vars:** jira (3), scrum (1), jql (1)
 > **Tools:** jira (3)
 > **Definitions:** is a  (1), is called (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a custom board
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-board?u=76281980)
+#### [Challenge: Create a custom board](https://www.linkedin.com/learning/learning-jira-software-14677108/challenge-create-a-custom-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3302,8 +3274,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - here (1)
 
-#### Solution: Create a custom board
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-board?u=76281980)
+#### [Solution: Create a custom board](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3313,7 +3284,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-board?u=76281980&t=9)** From the Boards page, click Create Board on the top right.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-board?u=76281980&t=13)** In the overlay, choose Scrum or KanBan, then select a data source.
+> **[0:13](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-board?u=76281980&t=13)** In the overlay, choose [[Scrum]] or KanBan, then select a data source.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-jira-software-14677108/solution-create-a-custom-board?u=76281980&t=19)** Finally, enter a unique name, select the associated project, and in cloud, choose where to store the board.
 >
@@ -3335,7 +3306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (1), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Scrum]] (1)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -3346,16 +3317,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources for Jira learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980)
+#### [Additional resources for Jira learning](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=0)** - Congrats on completing the course.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=2)** You've explored many of the development-specific features in JIRA software.
+> **[0:02](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=2)** You've explored many of the development-specific features in [[Jira]] software.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=6)** You should now be able to recognize the differences between Scrum and Kanvan software projects, and company-managed and team-managed projects in cloud, leverage backlogs, sprints, and fixed versions, estimate work and track time, and create and user objects like filters, filter subscriptions, boards, and dashboards.
+> **[0:06](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=6)** You should now be able to recognize the differences between [[Scrum]] and Kanvan [[Software Projects]], and company-managed and team-managed projects in cloud, leverage backlogs, sprints, and fixed versions, estimate work and track time, and create and user objects like filters, filter subscriptions, boards, and [[Dashboards]].
 >
 > **[0:26](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=26)** Your next step is to continue learning.
 >
@@ -3367,11 +3337,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=45)** Admin should read my nine ways to learn JIRA administration article for creative ways to continue learning.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=51)** And don't forget to take my other JIRA courses on LinkedIn.
+> **[0:51](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=51)** And don't forget to take my other JIRA courses on [[LinkedIn]].
 >
 > **[0:56](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=56)** Here's some additional resources so you can continue learning.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=59)** Atlassian's product documentation is categorized by application type, deployment type, and version.
+> **[0:59](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=59)** [[Atlassian]]'s product documentation is categorized by application type, deployment type, and version.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980&t=66)** Make sure you're reading the right information for the type of JIRA you have.
 >
@@ -3415,7 +3385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (12), [[Atlassian]] (7), next (3), feature (2), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Jira]] (12), [[Atlassian]] (7), [[Scrum]] (1), [[Software Projects]] (1), [[Dashboards]] (1)
 > **Env Vars:** jira (12), url (1)
 > **Tools:** jira (12)
 > **CLI Commands:** make (2), find (1)

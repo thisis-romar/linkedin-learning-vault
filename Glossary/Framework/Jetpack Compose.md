@@ -20,7 +20,7 @@ tags:
   - topic/data-science
   - topic/network-and-system-administration
   - topic/artificial-intelligence
-course_count: 113
+course_count: 114
 created: 2026-05-02
 ---
 
@@ -30,7 +30,7 @@ created: 2026-05-02
 
 Android's modern declarative UI toolkit.
 
-> **Type:** Framework | **Courses:** 113 | **Topics:** [[Software Development]], [[DevOps]], [[Data Science]], [[Network and System Administration]], [[Artificial Intelligence (AI)]]
+> **Type:** Framework | **Courses:** 114 | **Topics:** [[Software Development]], [[DevOps]], [[Data Science]], [[Network and System Administration]], [[Artificial Intelligence (AI)]]
 
 ## Courses
 
@@ -45,7 +45,7 @@ Android's modern declarative UI toolkit.
 9. [[Docker Essential Training]] — 14 mentions
 10. [[SQL Essential Training]] — 13 mentions
 
-> [!note]- See all 113 courses
+> [!note]- See all 114 courses
 > 11. [[Learning Docker]] — 10 mentions
 > 12. [[Complete Guide to Data Lakes and Lakehouses]] — 10 mentions
 > 13. [[Functional Programming with PHP]] — 9 mentions
@@ -112,43 +112,44 @@ Android's modern declarative UI toolkit.
 > 74. [[Learning Microsoft 365 Copilot for Work]] — 1 mentions
 > 75. [[Software Testing Assistance with GitHub Copilot AI]] — 1 mentions
 > 76. [[Rust for Data Engineering]] — 1 mentions
-> 77. [[Building Monorepos On Github]] — 1 mentions
-> 78. [[Introduction to Generative AI with GPT]] — 1 mentions
-> 79. [[Copilot in Word- Create and Refine Documents with AI]] — 1 mentions
-> 80. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 1 mentions
-> 81. [[Building Serverless Apps with AI Services on AWS]] — 1 mentions
-> 82. [[Cisco Network Security- VPN]] — 1 mentions
-> 83. [[C- Design Patterns Part 1]] — 1 mentions
-> 84. [[Advanced Prompting With Github Copilot]] — 1 mentions
-> 85. [[Building a Project with the ChatGPT API]] — 1 mentions
-> 86. [[Python Practice- Operations]] — 1 mentions
-> 87. [[Apache Spark Essential Training- Big Data Engineering]] — 1 mentions
-> 88. [[Selenium Essential Training]] — 1 mentions
-> 89. [[Introduction to Generative Adversarial Networks (GANs)]] — 1 mentions
-> 90. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 1 mentions
-> 91. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 1 mentions
-> 92. [[Getting Started with the Google Gemini API]] — 1 mentions
-> 93. [[SQL for Finance- Income Statement Project]] — 1 mentions
-> 94. [[Google Cloud Data and Storage Foundations]] — 1 mentions
-> 95. [[Machine Learning Foundations- Statistics]] — 1 mentions
-> 96. [[Data Wrangling in R]] — 1 mentions
-> 97. [[From React to React Native]] — 1 mentions
-> 98. [[Understanding Ai S Global Impact Governance Equity And Responsibility]] — 1 mentions
-> 99. [[Advanced Node.js- Scaling Applications]] — 1 mentions
-> 100. [[PHP with MySQL Essential Training- 2 Build a CMS]] — 1 mentions
-> 101. [[Learning Microsoft 365 Copilot for Work (2024)]] — 1 mentions
-> 102. [[Hands-On AI- Image Processing with Python]] — 1 mentions
-> 103. [[C Programming for Embedded Applications]] — 1 mentions
-> 104. [[UX Deep Dive- Remote Research]] — 1 mentions
-> 105. [[Cert Prep Unity Certified Associate Game Developer Fundamentals]] — 1 mentions
-> 106. [[Complete Your First Project in R]] — 1 mentions
-> 107. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 1 mentions
-> 108. [[Microsoft 365 Teams Administrator Associate Cert Prep (MS-700)- Managing Collaboration Tools]] — 1 mentions
-> 109. [[Essential Jigsaw for PHP and Laravel Developers]] — 1 mentions
-> 110. [[React- Components, Context, and Accessibility]] — 1 mentions
-> 111. [[Visualizing Advanced Charts and Graphs]] — 1 mentions
-> 112. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
-> 113. [[Databases for Node.js Developers]] — 1 mentions
+> 77. [[Azure Understanding The Big Picture]] — 1 mentions
+> 78. [[Building Monorepos On Github]] — 1 mentions
+> 79. [[Introduction to Generative AI with GPT]] — 1 mentions
+> 80. [[Copilot in Word- Create and Refine Documents with AI]] — 1 mentions
+> 81. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 1 mentions
+> 82. [[Building Serverless Apps with AI Services on AWS]] — 1 mentions
+> 83. [[Cisco Network Security- VPN]] — 1 mentions
+> 84. [[C- Design Patterns Part 1]] — 1 mentions
+> 85. [[Advanced Prompting With Github Copilot]] — 1 mentions
+> 86. [[Building a Project with the ChatGPT API]] — 1 mentions
+> 87. [[Python Practice- Operations]] — 1 mentions
+> 88. [[Apache Spark Essential Training- Big Data Engineering]] — 1 mentions
+> 89. [[Selenium Essential Training]] — 1 mentions
+> 90. [[Introduction to Generative Adversarial Networks (GANs)]] — 1 mentions
+> 91. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 1 mentions
+> 92. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 1 mentions
+> 93. [[Getting Started with the Google Gemini API]] — 1 mentions
+> 94. [[SQL for Finance- Income Statement Project]] — 1 mentions
+> 95. [[Google Cloud Data and Storage Foundations]] — 1 mentions
+> 96. [[Machine Learning Foundations- Statistics]] — 1 mentions
+> 97. [[Data Wrangling in R]] — 1 mentions
+> 98. [[From React to React Native]] — 1 mentions
+> 99. [[Understanding Ai S Global Impact Governance Equity And Responsibility]] — 1 mentions
+> 100. [[Advanced Node.js- Scaling Applications]] — 1 mentions
+> 101. [[PHP with MySQL Essential Training- 2 Build a CMS]] — 1 mentions
+> 102. [[Learning Microsoft 365 Copilot for Work (2024)]] — 1 mentions
+> 103. [[Hands-On AI- Image Processing with Python]] — 1 mentions
+> 104. [[C Programming for Embedded Applications]] — 1 mentions
+> 105. [[UX Deep Dive- Remote Research]] — 1 mentions
+> 106. [[Cert Prep Unity Certified Associate Game Developer Fundamentals]] — 1 mentions
+> 107. [[Complete Your First Project in R]] — 1 mentions
+> 108. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 1 mentions
+> 109. [[Microsoft 365 Teams Administrator Associate Cert Prep (MS-700)- Managing Collaboration Tools]] — 1 mentions
+> 110. [[Essential Jigsaw for PHP and Laravel Developers]] — 1 mentions
+> 111. [[React- Components, Context, and Accessibility]] — 1 mentions
+> 112. [[Visualizing Advanced Charts and Graphs]] — 1 mentions
+> 113. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
+> 114. [[Databases for Node.js Developers]] — 1 mentions
 
 ## Learning Paths
 

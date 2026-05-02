@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A bridge between business and tech
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980)
+#### [A bridge between business and tech](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,9 +87,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980&t=5)** From the payroll clerk to the software engineer, every department in your company uses technology.
 >
-> **[0:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980&t=11)** But most of the teams that keep the business moving forward are not cybersecurity experts, and many of the technology experts at your company may not have studied business, yet think about how important it is for them to work together.
+> **[0:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980&t=11)** But most of the teams that keep the business moving forward are not [[Cybersecurity]] experts, and many of the technology experts at your company may not have studied business, yet think about how important it is for them to work together.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980&t=26)** Without that collaboration, you can't develop cutting-edge products, delight your customers, or even process payroll.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980&t=26)** Without that collaboration, you can't develop cutting-edge [[Microsoft Products|products]], delight your customers, or even process payroll.
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980&t=34)** That's where the business information security officer, or BISO comes in.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Security]] (5), teams (2), [[Cybersecurity]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** biso (6)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - technology (1)
@@ -122,8 +121,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The BizOps and cybersecurity disconnect
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980)
+#### [The BizOps and cybersecurity disconnect](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=32)** However, that may not be as easy as it sounds.
 >
-> **[0:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=36)** Cybersecurity teams typically get a bad reputation.
+> **[0:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=36)** [[Cybersecurity]] teams typically get a bad reputation.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=39)** Many business leaders see us as road blockers, the department of no or people who have a knack for slowing everything down.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=57)** But now that supply chain attacks and breaches are happening now more than ever, boards are asking more about cybersecurity, clients too.
 >
-> **[1:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=65)** And cybersecurity teams have an opportunity to emerge from a back office function and position themselves as strategic partners to the business.
+> **[1:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=65)** And cybersecurity teams have an opportunity to emerge from a back [[Microsoft Office|office]] function and position themselves as strategic partners to the business.
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=75)** Business information security officers are leaders tasked with creating alignment between the business and the company's chief information security officer.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=93)** They can also be project managers, consultants, problem solvers, devils advocates, and defenders.
 >
-> **[1:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=101)** In order to be effective, BISOs must build relationships, rapport, and trust with leaders, learn about the company's products and services, understand customer profiles, needs and challenges, and have insight to the organization's cyber risk profile and be mindful of corporate culture.
+> **[1:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=101)** In order to be effective, BISOs must build relationships, rapport, and trust with leaders, learn about the company's [[Microsoft Products|products]] and services, understand customer profiles, needs and challenges, and have insight to the organization's cyber risk profile and be mindful of corporate culture.
 >
 > **[2:01](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980&t=121)** Business and tech were often seen as two very distinct worlds and they are but the BISO was there to bring them together in order to make security easy.
 >
@@ -163,27 +161,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), [[Security]] (7), [[Cybersecurity]] (5), teams (3), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** biso (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - many (1)
 
-#### What is a business information security officer (BISO)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980)
+#### [What is a business information security officer (BISO)?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=1)** - The role of the BISO, short for business information security officer, is rapidly growing in popularity.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=8)** BISOs are part of an organization's information or cybersecurity function, and usually report directly to the chief information security officer or their chosen delegate.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=8)** BISOs are part of an organization's information or [[Cybersecurity]] function, and usually report directly to the chief information security officer or their chosen delegate.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=19)** Each BISO is assigned to a particular division region or business unit across the organization where they help drive security into business operations.
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=19)** Each BISO is assigned to a particular division region or business unit across the organization where they help drive security into [[Business Operations]].
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=30)** While that sounds simple BISOs have to be intentional about how they meet their goals.
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=36)** First it's imperative that they develop a deep understanding of the businesses they support.
 >
-> **[0:42](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=42)** In fact, the BISO should be one of if not the most well versed security practitioner in the company, they should be familiar with the business' products and services, customer profiles, regulatory requirements, revenues, opportunities, challenges, and strategic initiatives.
+> **[0:42](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=42)** In fact, the BISO should be one of if not the most well versed security practitioner in the company, they should be familiar with the business' [[Microsoft Products|products]] and services, customer profiles, regulatory requirements, revenues, opportunities, challenges, and strategic initiatives.
 >
 > **[1:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=62)** Second, the BISO should work across the domains within the security function to have ongoing insight into the organization's incident history and trends, tools, vulnerabilities, threat intelligence, infrastructure, vendor risk management, and associate awareness levels.
 >
@@ -209,19 +206,18 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=177)** Sure, the company has policies, procedures and standards that the business must adhere to but in no way is the BISO empowered to change a business unit strategy and operations or deploy controls.
 >
-> **[3:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=190)** So by having an understanding of the business, knowing services provided by security and being well versed on the company's policies, procedures, and standards while building trust with leaders across the teams they support, the BISO is well equipped to leverage trust and influence to partner with business leaders to drive change.
+> **[3:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=190)** So by having an understanding of the business, knowing services provided by security and being well versed on the company's policies, procedures, and standards while [[Building Trust]] with leaders across the teams they support, the BISO is well equipped to leverage trust and influence to partner with business leaders to drive change.
 >
 > **[3:30](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/what-is-a-business-information-security-officer-biso?u=76281980&t=210)** Oftentimes a cyber security function as seen as a detractors from progress but the role of the BISO helps transform the perception of security from the department of no by identifying secure, thoughtful yeses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (18), business (17), [[Microsoft Products|Products]] (2), [[Cybersecurity]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Cybersecurity]] (1), [[Business Operations]] (1), [[Building Trust]] (1)
 > **Env Vars:** biso (11)
 > **Definitions:** short for (1)
 > **Speakers:** - the (1)
 
-#### Organizational architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980)
+#### [Organizational architecture](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,9 +233,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980&t=55)** This requires BISOs to be aware and familiar with the goals of the CISO, and have the autonomy to make important decisions on behalf of the information security function.
 >
-> **[1:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980&t=66)** It also means that BISOs are familiar with each information security domain within their group, and will pull in domain experts to support decision-making as needed.
+> **[1:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980&t=66)** It also means that BISOs are familiar with each information security domain within their group, and will pull in domain experts to support [[Decision-Making]] as needed.
 >
-> **[1:17](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980&t=77)** Business units are often not sure what teams to engage from within the security function when they want to roll out technology-backed products.
+> **[1:17](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980&t=77)** Business units are often not sure what teams to engage from within the security function when they want to roll out technology-backed [[Microsoft Products|products]].
 >
 > **[1:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980&t=86)** This is where the BISO can help.
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980&t=95)** However, this does not interrupt any relationships that exist between business leaders and other security teams.
 >
-> **[1:43](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980&t=103)** In fact, the BISO role was put in place to add to and enhance the connections between the security function and broader business operations.
+> **[1:43](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980&t=103)** In fact, the BISO role was put in place to add to and enhance the connections between the security function and broader [[Business Operations]].
 >
 > **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/organizational-architecture?u=76281980&t=112)** While it's important that BISOs work closely with chief information security officers, they also have to work with leaders across the business units that they support.
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), business (14), teams (2), career (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Microsoft Products|Products]] (1), [[Business Operations]] (1)
 > **Env Vars:** biso (5), ciso (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -273,8 +269,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The instructor's journey to becoming a BISO
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-instructor-s-journey-to-becoming-a-biso?u=76281980)
+#### [The instructor's journey to becoming a BISO](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-instructor-s-journey-to-becoming-a-biso?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,7 +293,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-instructor-s-journey-to-becoming-a-biso?u=76281980&t=78)** Then I became a certified internal auditor at a video game company where I learned about risk, controls, governance, and how to influence and negotiate.
 >
-> **[1:28](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-instructor-s-journey-to-becoming-a-biso?u=76281980&t=88)** The BISO role is always tasks with balancing the priorities of information security and business operations.
+> **[1:28](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-instructor-s-journey-to-becoming-a-biso?u=76281980&t=88)** The BISO role is always tasks with balancing the priorities of information security and [[Business Operations]].
 >
 > **[1:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-instructor-s-journey-to-becoming-a-biso?u=76281980&t=96)** In fact, a lot of BISO successes come from understanding how to manage risk and influencing business leaders to adopt secure practices while not disrupting innovation.
 >
@@ -322,14 +317,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), career (4), [[Security]] (3), management (3), teams (2)
+> **Frameworks & Libraries:** [[Business Operations]] (1)
 > **Env Vars:** biso (9)
 > **Definitions:** means that (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - being (1)
 
-#### Core skills for aspiring BISOs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980)
+#### [Core skills for aspiring BISOs](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,7 +339,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=36)** Let's talk about a few categories of skills needed to thrive as a BISO.
 >
-> **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=41)** First soft skills are essential.
+> **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=41)** First [[Soft Skills]] are essential.
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=44)** The root cause of many security issues is human behavior.
 >
@@ -361,11 +355,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=93)** In these situations, the BISO must be a skilled negotiator, understand how to influence and be thoughtful and strategic about their approach.
 >
-> **[1:43](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=103)** But the BISO is a cybersecurity leader so they must also have technical expertise.
+> **[1:43](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=103)** But the BISO is a [[Cybersecurity]] leader so they must also have technical expertise.
 >
 > **[1:48](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=108)** There's no specific domain expertise for a BISO that's better than another, but the BISOs area of deep knowledge should align with the organization they work for and the business unit they support.
 >
-> **[2:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=120)** It's not uncommon to find a BISO who has certifications in or has led teams in one or more cyber security domains including security operations, identity and access management, security architecture, third party risk, governance and threat intelligence.
+> **[2:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=120)** It's not uncommon to find a BISO who has certifications in or has led teams in one or more cyber security domains including [[Security Operations]], identity and access management, security architecture, third party risk, governance and threat intelligence.
 >
 > **[2:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/core-skills-for-aspiring-bisos?u=76281980&t=139)** Theory is great but execution is better.
 >
@@ -383,19 +377,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), business (8), teams (3), management (3), [[Soft Skills]] (2)
+> **Frameworks & Libraries:** [[Soft Skills]] (2), [[Cybersecurity]] (1), [[Security Operations]] (1)
 > **Env Vars:** biso (12), ciso (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - are (1)
 
-#### Interviewing for a BISO role
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/interviewing-for-a-biso-role?u=76281980)
+#### [Interviewing for a BISO role](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/interviewing-for-a-biso-role?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/interviewing-for-a-biso-role?u=76281980&t=1)** - Interviewing for any role can be intimidating.
+> **[0:01](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/interviewing-for-a-biso-role?u=76281980&t=1)** - [[Interviewing]] for any role can be intimidating.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/interviewing-for-a-biso-role?u=76281980&t=4)** And frankly, interviewing to be a BISO can be especially so.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** job description (4), [[Interviewing]] (2), next (2), career (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2)
 > **Env Vars:** biso (8)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -459,8 +452,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relationship management
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980)
+#### [Relationship management](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -476,7 +468,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980&t=39)** It does mean that they're intentional about targeting business leaders who can help them reach their goal.
 >
-> **[0:46](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980&t=46)** Because the BSO has to integrate information security into business operations, they should connect with leaders who have decision-making authority or influence those who do.
+> **[0:46](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980&t=46)** Because the BSO has to integrate information security into [[Business Operations]], they should connect with leaders who have [[Decision-Making]] authority or influence those who do.
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980&t=59)** I find that the best contacts for me as a BSO have been executive leaders of a business unit and a tactical leader who's accountable for accomplishing the goals set out by their executives.
 >
@@ -484,7 +476,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980&t=76)** Set up an initial meeting with each leader for 30 to 45 minutes.
 >
-> **[1:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980&t=80)** During this time, the BSO should introduce themselves, share the purpose of their role and spend the rest of the time learning about their leader.
+> **[1:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980&t=80)** During this time, the BSO should introduce themselves, share the purpose of their role and spend the [[Representational State Transfer (REST)|rest]] of the time learning about their leader.
 >
 > **[1:28](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980&t=88)** I recommend doing a bit of research on that leader in their business beforehand so you can make the most of that time together by asking pointed questions.
 >
@@ -504,15 +496,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Security]] (4), teams (3), [[Decision-Making]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[Decision-Making]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** bso (7)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - relationships (1)
 
-#### Partnering with the CISO
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/partnering-with-the-ciso?u=76281980)
+#### [Partnering with the CISO](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/partnering-with-the-ciso?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,7 +521,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/partnering-with-the-ciso?u=76281980&t=38)** Think about it.
 >
-> **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/partnering-with-the-ciso?u=76281980&t=39)** The CISO has to protect their company from breaches, hackers and insiders while ensuring their tech stack is secured and stay in compliance with ever evolving InfoSec and data privacy regulations.
+> **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/partnering-with-the-ciso?u=76281980&t=39)** The CISO has to protect their company from breaches, hackers and insiders while ensuring their tech stack is secured and stay in compliance with ever evolving InfoSec and [[Data Privacy]] regulations.
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/partnering-with-the-ciso?u=76281980&t=52)** They do all of that while leading a number of security teams and professionals, reporting updates to the board of directors and managing escalations and requests from business leaders.
 >
@@ -566,18 +557,17 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/partnering-with-the-ciso?u=76281980&t=188)** They also dedicate a lot of time to helping the business understand services performed by InfoSec teams.
 >
-> **[3:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/partnering-with-the-ciso?u=76281980&t=195)** Finally, the BISO also supports teams across the security function so they can navigate nuances specific to the business's products, services and customers, all of which makes the BISO stand out from any other security role.
+> **[3:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/partnering-with-the-ciso?u=76281980&t=195)** Finally, the BISO also supports teams across the security function so they can navigate nuances specific to the business's [[Microsoft Products|products]], services and customers, all of which makes the BISO stand out from any other security role.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), [[Security]] (8), teams (4), data (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ciso (13), biso (11)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Collaborating with business leaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980)
+#### [Collaborating with business leaders](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,7 +585,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=54)** You'd start with each of the domains across information security to develop an understanding of your security offerings to the business.
 >
-> **[1:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=62)** Then you meet with leaders across the businesses you support, as well as the teams that support the enterprise, like finance, privacy, human resources, and legal.
+> **[1:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=62)** Then you meet with leaders across the businesses you support, as well as the teams that support the enterprise, like finance, [[Privacy]], [[Human Resources (HR)|human resources]], and legal.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=73)** How do you determine which business leaders to meet in those departments?
 >
@@ -615,9 +605,9 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=129)** It's a roadmap highlighting the business' big goals and mapping out how to achieve those goals, typically on a quarterly basis.
 >
-> **[2:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=138)** Strat plans are developed by business leadership teams, pressure tested by executives, reworked, updated, and approved before being deployed.
+> **[2:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=138)** Strat plans are developed by [[Business Leadership]] teams, pressure tested by executives, reworked, updated, and approved before being deployed.
 >
-> **[2:28](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=148)** They're the pulse of business operations and a smart BISO will become familiar with their business' roadmap, as it can help them accomplish many, many things.
+> **[2:28](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=148)** They're the pulse of [[Business Operations]] and a smart BISO will become familiar with their business' roadmap, as it can help them accomplish many, many things.
 >
 > **[2:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=158)** You'll understand what projects are going on and the scope of those projects and recommend which information security services and teams need to be involved.
 >
@@ -625,7 +615,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=177)** Last, as the BISO continues to interact with business leaders and teams and develops an understanding of roadmaps, you can begin to build a plan for how the information security teams get involved.
 >
-> **[3:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=190)** Engaging security at the beginning stages of a project allows the business teams to develop and release products and services with security embedded all throughout the life cycle.
+> **[3:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=190)** Engaging security at the beginning stages of a project allows the business teams to develop and release [[Microsoft Products|products]] and services with security embedded all throughout the life cycle.
 >
 > **[3:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/collaborating-with-business-leaders?u=76281980&t=201)** This allows information security to be a part of the project's DNA and not an afterthought.
 >
@@ -633,15 +623,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (18), teams (9), [[Security]] (8), leadership (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Human Resources (HR)|Human resources]] (1), [[Business Leadership]] (1), [[Business Operations]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** biso (7), ciso (1), dna (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Connecting with InfoSec teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980)
+#### [Connecting with InfoSec teams](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -649,7 +638,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=15)** When I started as a BISO, one of the first things I did was a listing tour, meeting with the leaders across each domain of the InfoSec function.
 >
-> **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=23)** This included leaders and teams from fraud, security operations, incident response, threat intelligence, investigations, governance, risk and compliance, security architecture, communications and awareness, as well as identity and access management.
+> **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=23)** This included leaders and teams from fraud, [[Security Operations]], [[Incident Response]], threat intelligence, investigations, governance, risk and compliance, security architecture, communications and awareness, as well as identity and access management.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=39)** During the listening tour, I got information about the challenges these teams face.
 >
@@ -659,11 +648,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=50)** I also asked about services that they perform that few people know about, and what they'd like to do more of, and it's just as important to learn the philosophy behind the work they do, and get to know the people doing the work.
 >
-> **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=64)** Understanding working styles and cultures is critical to driving collaboration between InfoSec and business operations.
+> **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=64)** Understanding working styles and cultures is critical to driving collaboration between InfoSec and [[Business Operations]].
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=73)** At the end of a listening tour, you'll have enough information to create an information security service catalog.
 >
-> **[1:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=80)** A service catalog is a single source for all things that your InfoSec teams do whether for other technical teams like product management or information technology or for more traditional business teams like sales, customer service or human resources.
+> **[1:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=80)** A service catalog is a single source for all things that your InfoSec teams do whether for other technical teams like product management or information technology or for more traditional business teams like sales, customer service or [[Human Resources (HR)|human resources]].
 >
 > **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/connecting-with-infosec-teams?u=76281980&t=95)** New BISOs will find the service catalog handy.
 >
@@ -677,7 +666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), teams (6), business (5), management (2), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Security Operations]] (1), [[Incident Response]] (1), [[Business Operations]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** biso (5)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -688,8 +677,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Innovative problem-solving
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/innovative-problem-solving?u=76281980)
+#### [Innovative problem-solving](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/innovative-problem-solving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,7 +705,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/innovative-problem-solving?u=76281980&t=95)** when you get the answer to that question, and, "Why?" of the next answer, until you've asked five why questions to drill down to the root of the problem.
 >
-> **[1:47](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/innovative-problem-solving?u=76281980&t=107)** If you want to learn more about The Five Whys technique, you can do that in the Critical Thinking course right here on LinkedIn learning.
+> **[1:47](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/innovative-problem-solving?u=76281980&t=107)** If you want to learn more about The Five Whys technique, you can do that in the Critical Thinking course right here on [[LinkedIn]] learning.
 >
 > **[1:55](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/innovative-problem-solving?u=76281980&t=115)** Once you understand what's causing the issue, you can partner with your information security or business teams to resolve it.
 >
@@ -737,25 +725,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Security]] (3), teams (3), product (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** bso (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - business (1)
 
-#### Special projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980)
+#### [Special projects](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=1)** - BSOs often work on special projects, projects that are unexpected and don't fall into their normal responsibilities.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=8)** Like helping information security leaders understand customer concerns, creating infographics about security for non-technical staff or building or leading new hire security training programs.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=8)** Like helping information security leaders understand customer concerns, creating [[Infographics]] about security for non-technical staff or building or leading new hire security training programs.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=21)** These projects let BSOs connect with colleagues they might not normally work with and have a meaningful impact on the teams they're helping out.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=30)** Many times BSOs create and drive these projects, but it's not unusual for the business or InfoSec teams to also invite the BSO on special projects that may already be in the works.
 >
-> **[0:42](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=42)** Some of the special projects I've worked on include reducing fraud activity for a specific product, creating security awareness programs for a line of business, building asset inventories, and designing niche training programs for digital operations teams.
+> **[0:42](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=42)** Some of the special projects I've worked on include reducing fraud activity for a specific product, creating [[Security Awareness]] programs for a line of business, building asset inventories, and designing niche training programs for digital operations teams.
 >
 > **[1:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=60)** Each of these special projects came about because of something in the business not going as intended.
 >
@@ -773,7 +760,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=129)** It creates trust and shows the value that security teams can create through collaboration and teamwork.
 >
-> **[2:16](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=136)** When a special project team forms, BSO should identify stakeholders from relevant business and information security teams.
+> **[2:16](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=136)** When a special project team [[Forms]], BSO should identify stakeholders from relevant business and information security teams.
 >
 > **[2:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/special-projects?u=76281980&t=145)** Getting buy-in from these leaders before kicking off the project, helps you solidify direction, secure necessary resources, and consider all perspectives required to make the best decisions.
 >
@@ -789,13 +776,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), teams (9), business (9), [[Forms]] (2), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Infographics]] (1), [[Security Awareness]] (1)
 > **Env Vars:** bso (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - bsos (1)
 
-#### Common challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/common-challenges?u=76281980)
+#### [Common challenges](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/common-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -805,7 +791,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/common-challenges?u=76281980&t=7)** Because the BSO function is new, many security practitioners and business leaders are unsure of how to work with the role.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/common-challenges?u=76281980&t=16)** And because the goals of the BSO are quite broad, like improve the business' experience within cybersecurity, it's not uncommon for security leaders to pass unwanted tasks onto BSOs.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/common-challenges?u=76281980&t=16)** And because the goals of the BSO are quite broad, like improve the business' experience within [[Cybersecurity]], it's not uncommon for security leaders to pass unwanted tasks onto BSOs.
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/common-challenges?u=76281980&t=29)** This can lead to the BSO being overwhelmed, with performing tasks, with little time left to contribute to their purpose of aligning security and business functions, all of which can lead to burnout and high turnover in this role.
 >
@@ -837,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), [[Security]] (11), teams (6), [[Cybersecurity]] (2), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Env Vars:** bso (8)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -848,12 +834,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue to evolve
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980)
+#### [Continue to evolve](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980&t=0)** - Constantly aligning the ever-changing needs of the business with cybersecurity best practices is an ongoing challenge but that doesn't mean it's impossible.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980&t=0)** - Constantly aligning the ever-changing needs of the business with [[Cybersecurity]] best practices is an ongoing challenge but that doesn't mean it's impossible.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980&t=12)** It just means that this role is that much more important.
 >
@@ -863,7 +848,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980&t=25)** We run businesses in the digital age where breaches and hacks are becoming more common.
 >
-> **[0:31](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980&t=31)** Laws and regulations around data privacy are more stringent and technology is a core part of all we do.
+> **[0:31](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980&t=31)** Laws and regulations around [[Data Privacy]] are more stringent and technology is a core part of all we do.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980&t=39)** And as bad actors continue to evolve their strategies, we've got to do the same.
 >
@@ -877,7 +862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Security]] (4), [[Cybersecurity]] (1), data (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Data Privacy]] (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Env Vars:** bso (2)
 > **CLI Commands:** make (1)

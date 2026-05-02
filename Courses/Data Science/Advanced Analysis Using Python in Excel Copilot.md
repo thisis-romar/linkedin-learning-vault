@@ -61,12 +61,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced analysis using Python in Excel Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/advanced-analysis-using-python-in-excel-copilot?u=76281980)
+#### [Advanced analysis using Python in Excel Copilot](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/advanced-analysis-using-python-in-excel-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/advanced-analysis-using-python-in-excel-copilot?u=76281980&t=0)** - [Scott] The ability to use Python in Excel gives us enormous flexibility to work with our data using the best tools in the field, and now, we can leverage the power of Copilot, Microsoft's generative AI assistant to build Python solutions for us right within Excel.
+> **[0:00](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/advanced-analysis-using-python-in-excel-copilot?u=76281980&t=0)** - [Scott] The ability to use [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]] gives us enormous flexibility to work with our data using the best tools in the field, and now, we can leverage the power of [[Microsoft Copilot|Copilot]], [[Microsoft]]'s [[Generative AI]] assistant to build Python solutions for us right within Excel.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/advanced-analysis-using-python-in-excel-copilot?u=76281980&t=14)** Advanced analysis using Python and Excel Copilot lets us ask Copilot questions about our data in a conversational way, and allows us to shape the solutions, outputs, and insights to meet our needs.
 >
@@ -80,22 +79,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (4), [[Microsoft Copilot|Copilot]] (4), data (3), feature (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (4), [[Microsoft Copilot|Copilot]] (4), [[Microsoft]] (1), [[Generative AI]] (1)
 > **CLI Commands:** python (4)
 > **Speakers:** - [scott] (1)
 
-#### Using Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980)
+#### [Using Python in Excel](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=0)** - [Instructor] Before we move on to using advanced analysis to generate Python code for us, let's take a few minutes exploring how Python in Excel works just to get started.
+> **[0:00](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=0)** - [Instructor] Before we move on to using advanced analysis to generate [[Python (Programming Language)|Python]] code for us, let's take a few minutes exploring how Python in [[Microsoft Excel|Excel]] works just to get started.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=9)** Python in Excel is a feature that's available to Microsoft 365 subscribers, and it allows us to use Python inside of Excel.
+> **[0:09](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=9)** Python in Excel is a feature that's available to [[Microsoft 365]] subscribers, and it allows us to use Python inside of Excel.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=17)** This feature is made possible by an Anaconda Python environment running in the cloud, and that environment has many popular data science and machine learning libraries already installed.
+> **[0:17](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=17)** This feature is made possible by an Anaconda Python environment running in the cloud, and that environment has many popular [[Data Science]] and machine learning libraries already installed.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=27)** That's things like Matplotlib, Scikit-learn, NumPy, SciPy, Pandas, Seaborn and more.
+> **[0:27](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=27)** That's things like Matplotlib, Scikit-learn, NumPy, SciPy, [[Pandas (Software)|Pandas]], Seaborn and more.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=34)** We'll access these libraries, and write our Python code in a Python cell, which we can create anywhere on the Excel grid by typing =py().
 >
@@ -109,7 +107,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=65)** And if we use it to refer to one cell, we'll get that individual value to use in Python.
 >
-> **[1:11](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=71)** Python in Excel can't reach out to the file system or to the internet, so we'll need to provide the data that we want to use it with either manually by opening a file and adding that to the sheet or by importing data through Power Query or other means within Excel.
+> **[1:11](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=71)** Python in Excel can't reach out to the file system or to the internet, so we'll need to provide the data that we want to use it with either manually by opening a file and adding that to the sheet or by importing data through [[Microsoft Power Query|Power Query]] or other means within Excel.
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=85)** I have a workbook here with some basic data, and a few Python cells.
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=99)** I have a table of values here representing X and Y, and then down below, I have an area to input a value, and display an expected value Y based on the input value X.
 >
-> **[1:52](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=112)** Here in this cell, which is a Python cell, I have a few lines of Python code using Scikit-learn to perform linear regression in order to predict my value.
+> **[1:52](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=112)** Here in this cell, which is a Python cell, I have a few lines of Python code using Scikit-learn to perform [[Linear Regression]] in order to predict my value.
 >
 > **[2:00](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=120)** Let's take a look at that.
 >
@@ -153,13 +151,13 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=201)** Okay.
 >
-> **[3:22](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=202)** That's a really brief introduction to how the Python in Excel feature works, and if you're curious to learn more about the basics of this, be sure to take a look at the Python in Excel courses here on LinkedIn Learning.
+> **[3:22](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=202)** That's a really brief introduction to how the Python in Excel feature works, and if you're curious to learn more about the basics of this, be sure to take a look at the Python in Excel courses here on [[LinkedIn]] Learning.
 >
-> **[3:32](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=212)** Let's move on now to exploring advanced analysis using Python in Excel Copilot.
+> **[3:32](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-python-in-excel?u=76281980&t=212)** Let's move on now to exploring advanced analysis using Python in Excel [[Microsoft Copilot|Copilot]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (26), [[Microsoft Excel|Excel]] (13), data (7), feature (4), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (26), [[Microsoft Excel|Excel]] (13), [[Microsoft 365]] (1), [[Data Science]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (26), find (3)
 > **UI Navigation:** click on (1), go to (1), right-click (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -172,16 +170,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using advanced analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980)
+#### [Using advanced analysis](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=0)** - [Instructor] Copilot is Microsoft's generative AI assistant.
+> **[0:00](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] is [[Microsoft]]'s [[Generative AI]] assistant.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=3)** And as a Copilot Pro subscriber, we can use it inside of Excel to provide tips and insights and to analyze our data.
+> **[0:03](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=3)** And as a Copilot Pro subscriber, we can use it inside of [[Microsoft Excel|Excel]] to provide tips and insights and to analyze our data.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=10)** Today, I'm happy to be able to show you a forthcoming feature of Excel Copilot called "Advanced analysis," which allows Copilot to generate Python code to help us analyze our data.
+> **[0:10](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=10)** Today, I'm happy to be able to show you a forthcoming feature of Excel Copilot called "Advanced analysis," which allows Copilot to generate [[Python (Programming Language)|Python]] code to help us analyze our data.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=20)** Using Advanced analysis, Excel Copilot will be able to recognize data in tables in my workbook.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=215)** Let's cluster these ratings into sensible groupings.
 >
-> **[3:38](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=218)** I'll do that by providing the prompt, "Perform k-means clustering."
+> **[3:38](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=218)** I'll do that by providing the prompt, "Perform [[k-means clustering]]."
 >
 > **[3:43](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/using-advanced-analysis?u=76281980&t=223)** Notice that I don't have to tell Copilot what I'm talking about.
 >
@@ -281,14 +278,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), data (11), [[Python (Programming Language)|Python]] (11), prompt (7), [[Microsoft Excel|Excel]] (5)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (5), [[Microsoft]] (1), [[Generative AI]] (1)
 > **CLI Commands:** python (11), find (3)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing real-world data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980)
+#### [Analyzing real-world data](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,13 +294,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=13)** I'll download that.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=21)** And I'll open it in Excel.
+> **[0:21](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=21)** And I'll open it in [[Microsoft Excel|Excel]].
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=24)** In order to use advanced analysis, the auto save feature needs to be enabled, and for that to happen, we need for this file to be an Excel file.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=32)** So I'll save it as that.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=45)** I will open my Home ribbon and find the Copilot button and click it.
+> **[0:45](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=45)** I will open my Home ribbon and find the [[Microsoft Copilot|Copilot]] button and click it.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=52)** And then I'll move into Advanced analysis for this workbook.
 >
@@ -316,7 +312,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=81)** That's something we could also do with Excel by itself.
 >
-> **[1:24](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=84)** But what's important here is that Copilot is using Python and its understanding of our data to build a data frame and use the Python methods for working with the data frame to return our results.
+> **[1:24](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=84)** But what's important here is that Copilot is using [[Python (Programming Language)|Python]] and its understanding of our data to build a data frame and use the Python methods for working with the data frame to return our results.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/analyzing-real-world-data?u=76281980&t=93)** Let's have Copilot examine the trend of electric vehicle registrations over the years.
 >
@@ -370,15 +366,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Microsoft Copilot|Copilot]] (6), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** make (4), python (3), find (1)
 > **Analogies:** for example (2)
 > **URLs:** [data.gov](https://data.gov) (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming and plotting geodata
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/transforming-and-plotting-geodata?u=76281980)
+#### [Transforming and plotting geodata](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/transforming-and-plotting-geodata?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/transforming-and-plotting-geodata?u=76281980&t=11)** Usually, though, we'll want our data to be a latitude first and longitude second, and in the field we have, these values are reversed.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/transforming-and-plotting-geodata?u=76281980&t=18)** So let's ask Copilot to extract and transform the number values we're looking for in the way we want to use them from this single string field.
+> **[0:18](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/transforming-and-plotting-geodata?u=76281980&t=18)** So let's ask [[Microsoft Copilot|Copilot]] to extract and transform the number values we're looking for in the way we want to use them from this single string field.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/transforming-and-plotting-geodata?u=76281980&t=26)** I'll move back to my Analysis, and then I'll click into Advanced Analysis.
 >
@@ -414,7 +409,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/transforming-and-plotting-geodata?u=76281980&t=104)** Copilot knows about the approximate bounding box of where Washington is separately from the dataset that we've given it here.
 >
-> **[1:51](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/transforming-and-plotting-geodata?u=76281980&t=111)** I can scroll up here and find the Python code, and I can see that Copilot provided these values.
+> **[1:51](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/transforming-and-plotting-geodata?u=76281980&t=111)** I can scroll up here and find the [[Python (Programming Language)|Python]] code, and I can see that Copilot provided these values.
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/transforming-and-plotting-geodata?u=76281980&t=119)** So, with Copilot's help, we've added some information that lets us better visualize the distribution of electric vehicles in one state.
 >
@@ -432,7 +427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), data (4), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
@@ -442,12 +437,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/next-steps?u=76281980&t=0)** - Advanced analysis with Python in Excel Copilot gives us the ability to use generative AI to work with Python, to analyze and display our data in Excel.
+> **[0:00](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/next-steps?u=76281980&t=0)** - Advanced analysis with [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]] [[Microsoft Copilot|Copilot]] gives us the ability to use [[Generative AI]] to work with Python, to analyze and display our data in Excel.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-analysis-using-python-in-excel-copilot/next-steps?u=76281980&t=9)** As with any generative AI or large language model, the responses you see may differ from what I have here, and it's always important to check the results to make sure they're doing what you expect.
 >
@@ -479,7 +473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Excel|Excel]] (4), [[Microsoft Copilot|Copilot]] (4), feature (3), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Excel|Excel]] (4), [[Microsoft Copilot|Copilot]] (4), [[Generative AI]] (2)
 > **CLI Commands:** python (9), make (1), find (1)
 > **Speakers:** - advanced (1)
 

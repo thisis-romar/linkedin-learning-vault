@@ -70,14 +70,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing web and software applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/designing-web-and-software-applications?u=76281980)
+#### [Designing web and software applications](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/designing-web-and-software-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/designing-web-and-software-applications?u=76281980&t=0)** - [Narrator] Designing web and software applications can be a challenge.
 >
-> **[0:03](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/designing-web-and-software-applications?u=76281980&t=3)** Luckily, we have interaction patterns we can leverage to apply to a real world design and guide us in creating useful products faster.
+> **[0:03](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/designing-web-and-software-applications?u=76281980&t=3)** Luckily, we have interaction patterns we can leverage to apply to a real world design and guide us in creating useful [[Microsoft Products|products]] faster.
 >
 > **[0:11](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/designing-web-and-software-applications?u=76281980&t=11)** Hi, I'm Diane Cronenwett.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), application (2), [[Microsoft Products|Products]] (1), ux (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -101,14 +100,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Web applications and software patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/web-applications-and-software-patterns?u=76281980)
+#### [Web applications and software patterns](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/web-applications-and-software-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/web-applications-and-software-patterns?u=76281980&t=0)** - [Narrator] Designing complex web applications and software can be daunting.
 >
-> **[0:04](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/web-applications-and-software-patterns?u=76281980&t=4)** However we can leverage common design patterns and paradigms to guide us to the complexities of application design.
+> **[0:04](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/web-applications-and-software-patterns?u=76281980&t=4)** However we can leverage common [[Design Patterns]] and paradigms to guide us to the complexities of application design.
 >
 > **[0:11](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/web-applications-and-software-patterns?u=76281980&t=11)** When designing web applications, the most important consideration is understanding your user's goals.
 >
@@ -154,15 +152,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), web (3), application (2), [[Design Patterns]] (1), web application (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Common actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980)
+#### [Common actions](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,9 +173,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980&t=24)** These actions will likely be found in the menu bar for a software product, but can also be labeled actions on web application interfaces.
 >
-> **[0:32](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980&t=32)** For example, if you want to create something new in Google Drive, you could do that by pressing the button on the top left.
+> **[0:32](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980&t=32)** For example, if you want to create something new in [[Google Drive]], you could do that by pressing the button on the top left.
 >
-> **[0:39](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980&t=39)** You can also see another example of new in Microsoft Outlook on the top left.
+> **[0:39](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980&t=39)** You can also see another example of new in [[Microsoft Outlook]] on the top left.
 >
 > **[0:44](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980&t=44)** Usually, the ability to do some of these additive properties are displayed as a main action, but your use case may vary.
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980&t=87)** Remove, close and delete are actions that are contextual to the item being affected.
 >
-> **[1:31](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980&t=91)** For example, these actions might be seen on the same row of a table, like in this example from the Microsoft Task application.
+> **[1:31](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980&t=91)** For example, these actions might be seen on the same row of a table, like in this example from the [[Microsoft]] Task application.
 >
 > **[1:39](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/common-actions?u=76281980&t=99)** The delete functionality is shown at the row level.
 >
@@ -216,15 +213,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (2), product (1), web application (1), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (1), [[Microsoft Outlook]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** in the menu (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customizable actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/customizable-actions?u=76281980)
+#### [Customizable actions](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/customizable-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,7 +256,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/customizable-actions?u=76281980&t=108)** Allowing users to customize their workspace is also common.
 >
-> **[1:52](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/customizable-actions?u=76281980&t=112)** Workspace customization allows the user to configure their workspace by moving toolbars, panels, and docking your floating windows in different areas.
+> **[1:52](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/customizable-actions?u=76281980&t=112)** Workspace customization allows the user to configure their workspace by moving toolbars, panels, and docking your floating [[Windows]] in different areas.
 >
 > **[2:02](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/customizable-actions?u=76281980&t=122)** This experience relies on a modular approach to how tools are setup and designed.
 >
@@ -272,15 +268,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), product (1), feature (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** set up (1), configure (1), setup (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigation headers
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/navigation-headers?u=76281980)
+#### [Navigation headers](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/navigation-headers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,13 +307,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/navigation-headers?u=76281980&t=85)** When designing for web applications, the navigation can be broken down into elements that are global with the ability for users to pop in and out of their application into others.
 >
-> **[1:34](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/navigation-headers?u=76281980&t=94)** You can see this principle at work with Google products.
+> **[1:34](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/navigation-headers?u=76281980&t=94)** You can see this principle at work with [[Google]] [[Microsoft Products|products]].
 >
 > **[1:38](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/navigation-headers?u=76281980&t=98)** All Google properties are set up under a single unified navigation.
 >
 > **[1:42](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/navigation-headers?u=76281980&t=102)** We can do something similar for this example.
 >
-> **[1:45](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/navigation-headers?u=76281980&t=105)** I've added three other apps that are part of this suite a writing, diagramming and weather app.
+> **[1:45](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/navigation-headers?u=76281980&t=105)** I've added three other apps that are part of this suite a writing, [[Diagramming]] and weather app.
 >
 > **[1:51](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/navigation-headers?u=76281980&t=111)** When the user clicks on the App Selector icon, they can see a drop-down and select to different application.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), web (4), web application (2), [[Google]] (2), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Products|Products]] (1), [[Diagramming]] (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -348,8 +343,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### First time experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980)
+#### [First time experience](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,11 +357,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=18)** So, beginning users can become skilled in using the product efficiently and find immediate value.
 >
-> **[0:24](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=24)** When designing a first-time user experience, you'll want to define the type of experience you're supporting.
+> **[0:24](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=24)** When designing a first-time [[User Experience (UX)|user experience]], you'll want to define the type of experience you're supporting.
 >
 > **[0:30](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=30)** Some common approaches are onboarding for new product experience, ongoing learning, and persistent help.
 >
-> **[0:40](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=40)** Onboarding introduces the user to the products most meaningful features and can encompass a series of different patterns and approaches.
+> **[0:40](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=40)** Onboarding introduces the user to the [[Microsoft Products|products]] most meaningful features and can encompass a series of different patterns and approaches.
 >
 > **[0:48](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=48)** For example, it can be a combination of guided tours, modals or task lists to give users a set of activities.
 >
@@ -403,7 +397,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=139)** While they may understand basic functionality, they may also have more complex use cases over time and persistent help provides contextual information for them.
 >
-> **[2:28](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=148)** Here's an example of a contextual help panel for Google Analytics.
+> **[2:28](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=148)** Here's an example of a contextual help panel for [[Google]] Analytics.
 >
 > **[2:33](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980&t=153)** It's always a good idea to come up with a strategy for how you want to introduce users to your product or beneficial features.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), [[Microsoft Products|Products]] (2), data (2), [[User Experience (UX)|User experience]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[User Experience (UX)|User experience]] (1), [[Google]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
 > **Env Vars:** ibm (1)
@@ -419,8 +413,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-step tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/multi-step-tasks?u=76281980)
+#### [Multi-step tasks](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/multi-step-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,7 +425,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/multi-step-tasks?u=76281980&t=18)** Usually this pattern is used for infrequent tasks, like setting up an experience.
 >
-> **[0:23](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/multi-step-tasks?u=76281980&t=23)** For example, you can use this pattern when you first set up an e-commerce store, or setting up an initial project.
+> **[0:23](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/multi-step-tasks?u=76281980&t=23)** For example, you can use this pattern when you first set up an [[E-Commerce]] store, or setting up an initial project.
 >
 > **[0:29](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/multi-step-tasks?u=76281980&t=29)** Not all experiences are good candidates for wizards.
 >
@@ -464,7 +457,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/multi-step-tasks?u=76281980&t=128)** Just be clear on where they can find the step they missed.
 >
-> **[2:11](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/multi-step-tasks?u=76281980&t=131)** Here's an example of a wizard for WooCommerce, a WordPress plug in for configuring a setup.
+> **[2:11](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/multi-step-tasks?u=76281980&t=131)** Here's an example of a wizard for [[WooCommerce]], a [[WordPress]] plug in for configuring a setup.
 >
 > **[2:17](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/multi-step-tasks?u=76281980&t=137)** This wizard walks you through setting up your taxes and payments, and other important aspects of setting up an online store.
 >
@@ -472,15 +465,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1), next (1), [[WooCommerce]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[WooCommerce]] (1), [[WordPress]] (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (2), setup (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### First use task list
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-use-task-list?u=76281980)
+#### [First use task list](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-use-task-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -524,13 +516,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [narrator] (1)
 
-#### Guided tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/guided-tour?u=76281980)
+#### [Guided tour](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/guided-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,7 +560,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/guided-tour?u=76281980&t=104)** Modals can have supportive imagery to reinforce the concept.
 >
-> **[1:48](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/guided-tour?u=76281980&t=108)** Here's an example from Outlook.
+> **[1:48](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/guided-tour?u=76281980&t=108)** Here's an example from [[Microsoft Outlook|Outlook]].
 >
 > **[1:50](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/guided-tour?u=76281980&t=110)** Tours should be short and impactful.
 >
@@ -584,19 +574,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), feature (2), next (2), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **Prerequisites:** set up (1), you need to have (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### In-line help
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/in-line-help?u=76281980)
+#### [In-line help](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/in-line-help?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/in-line-help?u=76281980&t=0)** - [Instructor] As designers, we strive for simplicity when designing our products.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/in-line-help?u=76281980&t=0)** - [Instructor] As designers, we strive for simplicity when designing our [[Microsoft Products|products]].
 >
 > **[0:04](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/in-line-help?u=76281980&t=4)** But for complex web and software interfaces, sometimes we need to add some help throughout the product to help support our users' goals.
 >
@@ -632,7 +621,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/in-line-help?u=76281980&t=100)** When designing which content goes into the contextual help panel, you'll want to focus on common issues as it relates to the screen they're on.
 >
-> **[1:48](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/in-line-help?u=76281980&t=108)** You can get this data through analytics, or through interviewing customers.
+> **[1:48](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/in-line-help?u=76281980&t=108)** You can get this data through analytics, or through [[Interviewing]] customers.
 >
 > **[1:52](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/in-line-help?u=76281980&t=112)** You can then identify patterns or confusing terms that can be addressed through a help panel.
 >
@@ -646,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (2), [[Microsoft Products|Products]] (1), product (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Interviewing]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -656,8 +645,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tables: Column, sort, and pagination
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tables-column-sort-and-pagination?u=76281980)
+#### [Tables: Column, sort, and pagination](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tables-column-sort-and-pagination?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,7 +661,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tables-column-sort-and-pagination?u=76281980&t=30)** Headers for tables provide context by labeling each column of data.
 >
-> **[0:35](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tables-column-sort-and-pagination?u=76281980&t=35)** Column headings should be short and descriptive and limited to a single word if possible.
+> **[0:35](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tables-column-sort-and-pagination?u=76281980&t=35)** Column headings should be short and descriptive and limited to a single [[Microsoft Word|word]] if possible.
 >
 > **[0:41](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tables-column-sort-and-pagination?u=76281980&t=41)** Sometimes columns expand the width of the view and using an overflow menu conserve space while giving more options to show columns.
 >
@@ -715,11 +703,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), web (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Table actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/table-actions?u=76281980)
+#### [Table actions](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/table-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,7 +732,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/table-actions?u=76281980&t=74)** When working with tables, having the ability to take batch actions is very helpful, as it's tedious to work one table row at a time.
 >
-> **[1:22](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/table-actions?u=76281980&t=82)** Here's an example of that with Microsoft Outlook, where you can see all emails, and a set of actions are shown on the right-hand panel to apply to the selected emails as a group.
+> **[1:22](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/table-actions?u=76281980&t=82)** Here's an example of that with [[Microsoft Outlook]], where you can see all emails, and a set of actions are shown on the right-hand panel to apply to the selected emails as a group.
 >
 > **[1:32](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/table-actions?u=76281980&t=92)** Some global actions for tables are create, edit, and delete.
 >
@@ -769,15 +756,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Search]] (3), [[Microsoft Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook]] (1)
 > **UI Navigation:** dropdown (3), toggle (1)
 > **Env Vars:** ibm (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic data panel
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/dynamic-data-panel?u=76281980)
+#### [Dynamic data panel](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/dynamic-data-panel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -805,18 +791,17 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/dynamic-data-panel?u=76281980&t=75)** The panels can have a close option or a button to take action if there's editable fields in the panel.
 >
-> **[1:22](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/dynamic-data-panel?u=76281980&t=82)** Microsoft 365 security uses this pattern to show more information on the line item with the ability to leave a note in the panel as well as taking other actions.
+> **[1:22](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/dynamic-data-panel?u=76281980&t=82)** [[Microsoft 365]] security uses this pattern to show more information on the line item with the ability to leave a note in the panel as well as taking other actions.
 >
 > **[1:31](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/dynamic-data-panel?u=76281980&t=91)** The dynamic panel pattern is useful when paired with tables and other data views to provide users with supplementary information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), web (1), next (1), [[Microsoft 365]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [narrator] (1)
 
-#### Tree views
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tree-views?u=76281980)
+#### [Tree views](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tree-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -854,15 +839,15 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tree-views?u=76281980&t=90)** Tree views can be combined to work within tables, and they can also be used with check boxes.
 >
-> **[1:35](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tree-views?u=76281980&t=95)** In this example from Unity, the tree is in combination with check boxes.
+> **[1:35](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tree-views?u=76281980&t=95)** In this example from [[Unity]], the tree is in combination with check boxes.
 >
-> **[1:41](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tree-views?u=76281980&t=101)** The top element is the root node, which contains the rest of the elements, but each element has its own checkbox control.
+> **[1:41](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tree-views?u=76281980&t=101)** The top element is the root node, which contains the [[Representational State Transfer (REST)|rest]] of the elements, but each element has its own checkbox control.
 >
 > **[1:48](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tree-views?u=76281980&t=108)** Tree views are a complex interaction, but it might be the right pattern to help solve your design challenge if you need to nest items in a hierarchy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[Unity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Unity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (3), make (1)
 > **Analogies:** similar to (1), for example (1)
 > **UI Navigation:** checkbox (1)
@@ -872,8 +857,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tool bars
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tool-bars?u=76281980)
+#### [Tool bars](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tool-bars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,15 +913,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), feature (1)
 > **UI Navigation:** in the toolbar (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drag and drop
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/drag-and-drop?u=76281980)
+#### [Drag and drop](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/drag-and-drop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,14 +955,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (1)
 > **UI Navigation:** drag and drop (7)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - drag (1)
 
-#### Sliders
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/sliders?u=76281980)
+#### [Sliders](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/sliders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,8 +1011,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preview
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980)
+#### [Preview](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,15 +1021,15 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=17)** You also don't need to preview something that doesn't have any stylistic or visual elements as an output.
 >
-> **[0:24](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=24)** When using a live preview the user can in real-time see the changes they're making in a separate panel.
+> **[0:24](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=24)** When using a live preview the user can in [[Real-Time]] see the changes they're making in a separate panel.
 >
-> **[0:30](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=30)** For example, you can see this pattern with some web development editors.
+> **[0:30](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=30)** For example, you can see this pattern with some [[Web Development]] editors.
 >
 > **[0:34](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=34)** Here's an example from Dreamweaver.
 >
 > **[0:37](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=37)** The changes you make in either the preview panel or the code updates in real-time.
 >
-> **[0:42](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=42)** And in this example from Google Ads as you enter information on the left the information displays on the right in real-time.
+> **[0:42](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=42)** And in this example from [[Google]] Ads as you enter information on the left the information displays on the right in real-time.
 >
 > **[0:50](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=50)** This pattern works well when the user has to view a design they're creating or editing, or if there's a heavy visual element to the task.
 >
@@ -1064,7 +1043,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=81)** And in this example Photoshop allows you to select the text in the canvas and hover over the type list to see how the font will look before committing to a font change.
 >
-> **[1:31](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=91)** And in this example Google Drive allows you to preview the document before selecting it, reducing the overhead of selecting each document to find out it's not the right one.
+> **[1:31](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=91)** And in this example [[Google Drive]] allows you to preview the document before selecting it, reducing the overhead of selecting each document to find out it's not the right one.
 >
 > **[1:41](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/preview?u=76281980&t=101)** Preview patterns are useful for a lot of different use cases and offers a glimpse into the task before changes are committed, which is helpful in enhancing the user's workflow.
 
@@ -1076,8 +1055,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Menus
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/menus?u=76281980)
+#### [Menus](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/menus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,7 +1101,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/menus?u=76281980&t=117)** The icon in both places reinforces the visual language for the command.
 >
-> **[2:01](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/menus?u=76281980&t=121)** Use can see this at work with Google Docs.
+> **[2:01](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/menus?u=76281980&t=121)** Use can see this at work with [[Google]] Docs.
 >
 > **[2:04](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/menus?u=76281980&t=124)** The icon in the menu matches the icons in the toolbar.
 >
@@ -1147,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), web (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** in the menu (1), in the toolbar (1)
 > **Analogies:** for example (2)
@@ -1158,8 +1136,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,13 +1146,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/next-steps?u=76281980&t=9)** You can check out my other courses UX Foundations: Protoyping and [[Interaction Design- Structure]] to learn more relevant material.
 >
-> **[0:17](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/next-steps?u=76281980&t=17)** Also feel free to follow me on LinkedIn or Twitter.
+> **[0:17](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/next-steps?u=76281980&t=17)** Also feel free to follow me on [[LinkedIn]] or Twitter.
 >
 > **[0:21](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/next-steps?u=76281980&t=21)** If you have any follow up questions, please post them on the Q&A on this course's page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), web (1), application (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [diane] (1)
 
 

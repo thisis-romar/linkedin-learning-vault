@@ -87,16 +87,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicate and collaborate with Slack
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980)
+#### [Communicate and collaborate with Slack](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980&t=0)** - [Gini] Slack is software for people who work together.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980&t=0)** - [Gini] [[Slack]] is software for people who work together.
 >
 > **[0:04](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980&t=4)** When your team uses Slack, all of your important work conversations are in one place.
 >
-> **[0:10](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980&t=10)** You can participate in those conversations from a browser, on a PC or Mac using a desktop client, or with an iPhone or Android.
+> **[0:10](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980&t=10)** You can participate in those conversations from a browser, on a PC or Mac using a desktop client, or with an iPhone or [[Android]].
 >
 > **[0:19](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980&t=19)** And Slack synchronizes your conversations across all those devices.
 >
@@ -120,24 +119,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (13), [[Android]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Slack]] (13), [[Android]] (1)
 > **Tools:** slack (13)
 > **Code Identifiers:** iphone (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [gini] (1)
 
-#### Slack products and plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980)
+#### [Slack products and plans](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=0)** - [Instructor] Slack lives on the web, but there are different applications that you can use to work with Slack.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=0)** - [Instructor] [[Slack]] lives on the web, but there are different applications that you can use to work with Slack.
 >
 > **[0:06](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=6)** There is a browser-based version of Slack that is found at www.[slack.com](https://slack.com), and there are many users that simply use Slack in a browser.
 >
-> **[0:17](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=17)** But you can download a local client that you install on your computer for Slack, whether you're using Windows or a Mac.
+> **[0:17](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=17)** But you can download a local client that you install on your computer for Slack, whether you're using [[Windows]] or a Mac.
 >
-> **[0:26](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=26)** Finally, there are mobile Slack applications, Slack for the Apple devices, and Slack is also available for Android.
+> **[0:26](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=26)** Finally, there are mobile Slack applications, Slack for the Apple devices, and Slack is also available for [[Android]].
 >
 > **[0:35](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=35)** You don't need to make a choice about whether you use Slack for Windows, Slack in a browser, Slack for Android.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=82)** And Slack allows you to integrate with other software services available on the web.
 >
-> **[1:29](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=89)** Google Drive, OneDrive, a wide variety of connections to different types of services.
+> **[1:29](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=89)** [[Google Drive]], [[Microsoft OneDrive|OneDrive]], a wide variety of connections to different types of services.
 >
 > **[1:36](https://www.linkedin.com/learning/slack-essential-training/slack-products-and-plans?u=76281980&t=96)** And each of those connections is an integration.
 >
@@ -193,7 +191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (25), [[Search]] (4), web (2), [[Windows]] (2), [[Android]] (2)
+> **Frameworks & Libraries:** [[Slack]] (25), [[Windows]] (2), [[Android]] (2), [[Google Drive]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Tools:** slack (25)
 > **Definitions:** is a  (2), is an  (2), means that (1)
 > **URLs:** [slack.com](https://slack.com) (2)
@@ -207,12 +205,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Log in to Slack
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980)
+#### [Log in to Slack](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980&t=0)** - [Instructor] If this is your first time logging into Slack in a team that already exists then simply go to [slack.com](https://slack.com) and click sign in.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980&t=0)** - [Instructor] If this is your first time logging into [[Slack]] in a team that already exists then simply go to [slack.com](https://slack.com) and click sign in.
 >
 > **[0:10](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980&t=10)** You have two ways that you can sign in here.
 >
@@ -248,7 +245,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980&t=95)** And as Slack is loading, notice that it says you also have the choice to use Slack in your browser.
 >
-> **[1:41](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980&t=101)** And I just wait, and it will actually load the web client for Microsoft Slack here in my browser.
+> **[1:41](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980&t=101)** And I just wait, and it will actually load the web client for [[Microsoft]] Slack here in my browser.
 >
 > **[1:48](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980&t=108)** One more thought, if you were the first person in your organization to use Slack and you're trying it out, then you'll actually need to set up a Slack workspace of your own.
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (24), web (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Slack]] (24), [[Microsoft]] (1)
 > **Tools:** slack (24)
 > **URLs:** [slack.com](https://slack.com) (4)
 > **UI Navigation:** go to (3), dropdown (1)
@@ -268,12 +265,11 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### A quick tour of Slack
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/a-quick-tour-of-slack?u=76281980)
+#### [A quick tour of Slack](https://www.linkedin.com/learning/slack-essential-training/a-quick-tour-of-slack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/a-quick-tour-of-slack?u=76281980&t=0)** - [Instructor] Let's take a quick tour of the basic features of Slack.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/a-quick-tour-of-slack?u=76281980&t=0)** - [Instructor] Let's take a quick tour of the basic features of [[Slack]].
 >
 > **[0:04](https://www.linkedin.com/learning/slack-essential-training/a-quick-tour-of-slack?u=76281980&t=4)** If I look here at the top of the page, I have a History button, which lets me see where I have been recently.
 >
@@ -361,7 +357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (10), [[Search]] (3)
+> **Frameworks & Libraries:** [[Slack]] (10)
 > **Tools:** slack (10)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (4)
@@ -370,8 +366,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Best Practices:** good practice (1)
 
-#### Edit your profile
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/edit-your-profile?u=76281980)
+#### [Edit your profile](https://www.linkedin.com/learning/slack-essential-training/edit-your-profile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -381,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/slack-essential-training/edit-your-profile?u=76281980&t=12)** We edit our profile so that other members of our workspace can identify us and perhaps know a little something about us.
 >
-> **[0:20](https://www.linkedin.com/learning/slack-essential-training/edit-your-profile?u=76281980&t=20)** To edit your profile, click that icon up here by your name in Slack, and drop down to Edit Profile.
+> **[0:20](https://www.linkedin.com/learning/slack-essential-training/edit-your-profile?u=76281980&t=20)** To edit your profile, click that icon up here by your name in [[Slack]], and drop down to Edit Profile.
 >
 > **[0:30](https://www.linkedin.com/learning/slack-essential-training/edit-your-profile?u=76281980&t=30)** It already has my name, and it has a display name.
 >
@@ -427,18 +422,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (2), next (1)
+> **Frameworks & Libraries:** [[Slack]] (2)
 > **Tools:** slack (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Join or leave a channel
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/join-or-leave-a-channel?u=76281980)
+#### [Join or leave a channel](https://www.linkedin.com/learning/slack-essential-training/join-or-leave-a-channel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/join-or-leave-a-channel?u=76281980&t=0)** - [Instructor] In Slack, channels are used to focus and filter our messaging.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/join-or-leave-a-channel?u=76281980&t=0)** - [Instructor] In [[Slack]], channels are used to focus and filter our messaging.
 >
 > **[0:06](https://www.linkedin.com/learning/slack-essential-training/join-or-leave-a-channel?u=76281980&t=6)** Each new Slack workspace includes a public channel that is called general.
 >
@@ -452,7 +446,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/slack-essential-training/join-or-leave-a-channel?u=76281980&t=46)** You can create other public channels in Slack, and most of the channels that we'll create in Slack will, in fact, be public channels.
 >
-> **[0:55](https://www.linkedin.com/learning/slack-essential-training/join-or-leave-a-channel?u=76281980&t=55)** But you can create a private channel if a topic or a team requires privacy for their work.
+> **[0:55](https://www.linkedin.com/learning/slack-essential-training/join-or-leave-a-channel?u=76281980&t=55)** But you can create a private channel if a topic or a team requires [[Privacy]] for their work.
 >
 > **[1:03](https://www.linkedin.com/learning/slack-essential-training/join-or-leave-a-channel?u=76281980&t=63)** There are also shared channels that are used to connect your Slack workspace with a Slack workspace at another company.
 >
@@ -522,19 +516,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (8), [[Search]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Slack]] (8), [[Privacy]] (1)
 > **Tools:** slack (8), notion (1)
 > **UI Navigation:** click on (3), open the (1), go to (1)
 > **Definitions:** is a  (2), is called (1)
 > **Code Identifiers:** sales_events (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set your status and availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/set-your-status-and-availability?u=76281980)
+#### [Set your status and availability](https://www.linkedin.com/learning/slack-essential-training/set-your-status-and-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/set-your-status-and-availability?u=76281980&t=0)** - [Gini] When you're using Slack, it's nice to be able to know if another member of your team is available right now, or if they're in a meeting, if they're out of the office, if they're elsewhere.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/set-your-status-and-availability?u=76281980&t=0)** - [Gini] When you're using [[Slack]], it's nice to be able to know if another member of your team is available right now, or if they're in a meeting, if they're out of the [[Microsoft Office|office]], if they're elsewhere.
 >
 > **[0:11](https://www.linkedin.com/learning/slack-essential-training/set-your-status-and-availability?u=76281980&t=11)** In Slack, there are two different settings that are used to be able to let your colleagues know whether you are available and what it is you're doing.
 >
@@ -582,7 +575,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/slack-essential-training/set-your-status-and-availability?u=76281980&t=144)** And then there are statuses that automatically updates.
 >
-> **[2:27](https://www.linkedin.com/learning/slack-essential-training/set-your-status-and-availability?u=76281980&t=147)** So if you work in Outlook, you can have Slack set In a meeting automatically for you based on your Outlook Calendar, which is kind of cool, so then you just set your status to In a meeting, and Slack will know when you're no longer away or in a meeting based on when the meeting ends in Outlook.
+> **[2:27](https://www.linkedin.com/learning/slack-essential-training/set-your-status-and-availability?u=76281980&t=147)** So if you work in [[Microsoft Outlook|Outlook]], you can have Slack set In a meeting automatically for you based on your Outlook Calendar, which is kind of cool, so then you just set your status to In a meeting, and Slack will know when you're no longer away or in a meeting based on when the meeting ends in Outlook.
 >
 > **[2:51](https://www.linkedin.com/learning/slack-essential-training/set-your-status-and-availability?u=76281980&t=171)** But I'm going to choose Working remotely because that's what I'm doing.
 >
@@ -634,7 +627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (13), next (3), [[Microsoft Outlook|Outlook]] (3), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Slack]] (13), [[Microsoft Outlook|Outlook]] (3), [[Microsoft Office|Office]] (1)
 > **Tools:** slack (13)
 > **Analogies:** for example (1), kind of like (1)
 > **Warnings:** note that (2)
@@ -646,12 +639,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a message in a channel
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980)
+#### [Create a message in a channel](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980&t=0)** - [Instructor] Slack gives us three distinctly different communication mechanisms, and it's useful to know when you might want to use each.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980&t=0)** - [Instructor] [[Slack]] gives us three distinctly different communication mechanisms, and it's useful to know when you might want to use each.
 >
 > **[0:09](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980&t=9)** Our first choice is to post or drop a message in a channel, either in a public channel or a private channel.
 >
@@ -741,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (6), hit (5), next (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Slack]] (6)
 > **Tools:** slack (6)
 > **Analogies:** for example (3), picture (1), just like (1)
 > **CLI Commands:** make (3), find (1)
@@ -749,14 +741,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Respond to a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/respond-to-a-message?u=76281980)
+#### [Respond to a message](https://www.linkedin.com/learning/slack-essential-training/respond-to-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/respond-to-a-message?u=76281980&t=0)** - [Instructor] Whenever someone posts a message, other people have the opportunity to read it and then to react to it.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/respond-to-a-message?u=76281980&t=0)** - [Instructor] Whenever someone posts a message, other people have the opportunity to read it and then to [[React.js|react]] to it.
 >
-> **[0:05](https://www.linkedin.com/learning/slack-essential-training/respond-to-a-message?u=76281980&t=5)** That's the point of Slack.
+> **[0:05](https://www.linkedin.com/learning/slack-essential-training/respond-to-a-message?u=76281980&t=5)** That's the point of [[Slack]].
 >
 > **[0:07](https://www.linkedin.com/learning/slack-essential-training/respond-to-a-message?u=76281980&t=7)** And we have a lot of different choices about how we might react to a particular message.
 >
@@ -872,7 +863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), next (2), [[Slack]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Slack]] (1)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** sales_events (2)
@@ -880,12 +871,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share a link to a webpage
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/share-a-link-to-a-webpage?u=76281980)
+#### [Share a link to a webpage](https://www.linkedin.com/learning/slack-essential-training/share-a-link-to-a-webpage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/share-a-link-to-a-webpage?u=76281980&t=0)** - [Instructor] Slack makes it wicked easy to share content that you find on websites with your colleagues whether the content is a tweet from Twitter, a post from a website or blog or information on your organization's intranet, if you can get to a URL then you can share it on Slack.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/share-a-link-to-a-webpage?u=76281980&t=0)** - [Instructor] [[Slack]] makes it wicked easy to share content that you find on websites with your colleagues whether the content is a tweet from Twitter, a post from a website or blog or information on your organization's intranet, if you can get to a URL then you can share it on Slack.
 >
 > **[0:17](https://www.linkedin.com/learning/slack-essential-training/share-a-link-to-a-webpage?u=76281980&t=17)** For example, let's take a look at the US government's efforts on solar energy.
 >
@@ -949,7 +939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (6), hit (2)
+> **Frameworks & Libraries:** [[Slack]] (6)
 > **Tools:** slack (6)
 > **Env Vars:** url (2)
 > **CLI Commands:** find (1)
@@ -958,8 +948,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Add and share files
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980)
+#### [Add and share files](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,7 +956,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=5)** A couple of different ways to do this.
 >
-> **[0:08](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=8)** If I click add a file, I can add a file from Google Drive, OneDrive and SharePoint, Box.
+> **[0:08](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=8)** If I click add a file, I can add a file from [[Google Drive]], [[Microsoft OneDrive|OneDrive]] and [[SharePoint]], Box.
 >
 > **[0:15](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=15)** Notice that all of these are loading.
 >
@@ -995,7 +984,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=67)** So the other way I can do this is with drag and drop.
 >
-> **[1:09](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=69)** I'm working in Windows, so I can do the half-size, which allows me to see everything else I have opened.
+> **[1:09](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=69)** I'm working in [[Windows]], so I can do the half-size, which allows me to see everything else I have opened.
 >
 > **[1:18](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=78)** Here's my downloads folder.
 >
@@ -1027,19 +1016,18 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=145)** Both this image and the video can be downloaded, can be shared, can have a copied link, add to save items and so on by my colleagues.
 >
-> **[2:37](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=157)** So sharing files directly in a channel is a really great way to be able to share work with my colleagues in Slack.
+> **[2:37](https://www.linkedin.com/learning/slack-essential-training/add-and-share-files?u=76281980&t=157)** So sharing files directly in a channel is a really great way to be able to share work with my colleagues in [[Slack]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Google Drive]] (2), [[Windows]] (2), [[SharePoint]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Google Drive]] (2), [[Windows]] (2), [[SharePoint]] (1), [[Slack]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** url (1)
 > **Tools:** slack (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make an announcement
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/make-an-announcement?u=76281980)
+#### [Make an announcement](https://www.linkedin.com/learning/slack-essential-training/make-an-announcement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1051,7 +1039,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/slack-essential-training/make-an-announcement?u=76281980&t=23)** We use @channel to make an announcement that is pertinent to everyone in the channel.
 >
-> **[0:28](https://www.linkedin.com/learning/slack-essential-training/make-an-announcement?u=76281980&t=28)** If your channel has more than six members, Slack will ask you to confirm that you want to do this.
+> **[0:28](https://www.linkedin.com/learning/slack-essential-training/make-an-announcement?u=76281980&t=28)** If your channel has more than six members, [[Slack]] will ask you to confirm that you want to do this.
 >
 > **[0:34](https://www.linkedin.com/learning/slack-essential-training/make-an-announcement?u=76281980&t=34)** This is the default behavior, but the owner of your workspace could turn that off.
 >
@@ -1123,7 +1111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **UI Navigation:** go to (1)
@@ -1131,8 +1119,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Send a direct message
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/send-a-direct-message?u=76281980)
+#### [Send a direct message](https://www.linkedin.com/learning/slack-essential-training/send-a-direct-message?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,7 +1137,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/slack-essential-training/send-a-direct-message?u=76281980&t=52)** If there's anything I can do, let me know.
 >
-> **[0:59](https://www.linkedin.com/learning/slack-essential-training/send-a-direct-message?u=76281980&t=59)** Because Charles has covered for me when I've needed to be out of the office, so I want to make sure I do that.
+> **[0:59](https://www.linkedin.com/learning/slack-essential-training/send-a-direct-message?u=76281980&t=59)** Because Charles has covered for me when I've needed to be out of the [[Microsoft Office|office]], so I want to make sure I do that.
 >
 > **[1:05](https://www.linkedin.com/learning/slack-essential-training/send-a-direct-message?u=76281980&t=65)** I could add an emoji or something else, but this is all I really want to say right now.
 >
@@ -1206,16 +1193,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Make and receive Slack calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/make-and-receive-slack-calls?u=76281980)
+#### [Make and receive Slack calls](https://www.linkedin.com/learning/slack-essential-training/make-and-receive-slack-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/make-and-receive-slack-calls?u=76281980&t=0)** - [Narrator] I got a text from Charles asking if I would give him a call and I can call him directly from Slack.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/make-and-receive-slack-calls?u=76281980&t=0)** - [Narrator] I got a text from Charles asking if I would give him a call and I can call him directly from [[Slack]].
 >
 > **[0:07](https://www.linkedin.com/learning/slack-essential-training/make-and-receive-slack-calls?u=76281980&t=7)** So I do that through direct messaging.
 >
@@ -1231,7 +1217,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/slack-essential-training/make-and-receive-slack-calls?u=76281980&t=39)** That's cool, now, if you try to hold a call and you get a message about your browser, not all browsers are recommended for calling in Slack.
 >
-> **[0:49](https://www.linkedin.com/learning/slack-essential-training/make-and-receive-slack-calls?u=76281980&t=49)** So the chromium browsers, Microsoft Edge Chromium or Google Chrome.
+> **[0:49](https://www.linkedin.com/learning/slack-essential-training/make-and-receive-slack-calls?u=76281980&t=49)** So the chromium browsers, [[Microsoft]] Edge Chromium or [[Google]] Chrome.
 >
 > **[0:53](https://www.linkedin.com/learning/slack-essential-training/make-and-receive-slack-calls?u=76281980&t=53)** You can also download the desktop client for either your Mac or your PC and those work as well.
 >
@@ -1263,12 +1249,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a post or snippet
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980)
+#### [Create a post or snippet](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980&t=0)** - [Gini] Slack messages are really meant to be brief.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980&t=0)** - [Gini] [[Slack]] messages are really meant to be brief.
 >
 > **[0:03](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980&t=3)** As you look at the different messages that we have, we don't have long, drawn-out documents.
 >
@@ -1336,17 +1321,17 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980&t=204)** You have lots of choices here.
 >
-> **[3:26](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980&t=206)** C, C#, JSON, all of the major text types are here.
+> **[3:26](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980&t=206)** C, C#, [[JSON]], all of the major text types are here.
 >
 > **[3:30](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980&t=210)** You can turn wrap on or off.
 >
 > **[3:33](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980&t=213)** And then you can share this file in whatever channel you want to share it with.
 >
-> **[3:38](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980&t=218)** So although Slack is a no-code environment, people who code sometimes use it, and snippets are for you, posts for the rest of us.
+> **[3:38](https://www.linkedin.com/learning/slack-essential-training/create-a-post-or-snippet?u=76281980&t=218)** So although Slack is a no-code environment, people who code sometimes use it, and snippets are for you, posts for the [[Representational State Transfer (REST)|rest]] of us.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (5), teams (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Slack]] (5), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** slack (5)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (3)
@@ -1355,12 +1340,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### Direct message yourself or Slackbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/direct-message-yourself-or-slackbot?u=76281980)
+#### [Direct message yourself or Slackbot](https://www.linkedin.com/learning/slack-essential-training/direct-message-yourself-or-slackbot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/direct-message-yourself-or-slackbot?u=76281980&t=0)** - [Gini] One way that I can keep track of tasks and things that I want to remember in Slack is to direct message myself.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/direct-message-yourself-or-slackbot?u=76281980&t=0)** - [Gini] One way that I can keep track of tasks and things that I want to remember in [[Slack]] is to direct message myself.
 >
 > **[0:08](https://www.linkedin.com/learning/slack-essential-training/direct-message-yourself-or-slackbot?u=76281980&t=8)** For example, I want to remember to follow up with Charles tomorrow at lunchtime.
 >
@@ -1368,7 +1352,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/slack-essential-training/direct-message-yourself-or-slackbot?u=76281980&t=25)** And rather than lunch, I'm going to say at noon.
 >
-> **[0:31](https://www.linkedin.com/learning/slack-essential-training/direct-message-yourself-or-slackbot?u=76281980&t=31)** And I also need to pick up our office order.
+> **[0:31](https://www.linkedin.com/learning/slack-essential-training/direct-message-yourself-or-slackbot?u=76281980&t=31)** And I also need to pick up our [[Microsoft Office|office]] order.
 >
 > **[0:42](https://www.linkedin.com/learning/slack-essential-training/direct-message-yourself-or-slackbot?u=76281980&t=42)** That's another good thing in my day tomorrow, and review trainer possibilities for 2023 staff retreat.
 >
@@ -1418,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (6), [[Microsoft Office|Office]] (3), hit (1)
+> **Frameworks & Libraries:** [[Slack]] (6), [[Microsoft Office|Office]] (3)
 > **Tools:** slack (6)
 > **Ports:** :00 (3)
 > **CLI Commands:** make (1)
@@ -1431,12 +1415,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand roles and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980)
+#### [Understand roles and permissions](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980&t=0)** - [Instructor] In a Slack workspace, every single person has a role, and each role has permissions.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980&t=0)** - [Instructor] In a [[Slack]] workspace, every single person has a role, and each role has permissions.
 >
 > **[0:08](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980&t=8)** Workspace owners have the highest level of permissions.
 >
@@ -1490,7 +1473,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980&t=175)** And most importantly for our next few movies, members can create both public and private channels.
 >
-> **[3:02](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980&t=182)** We're using the Free version of Microsoft Slack which has these roles.
+> **[3:02](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980&t=182)** We're using the Free version of [[Microsoft]] Slack which has these roles.
 >
 > **[3:08](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980&t=188)** But remember that there is an Enterprise version of Slack used by very large organizations, and that Enterprise plan supports multiple workspaces within an organization.
 >
@@ -1500,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (7), [[Security]] (1), [[Search]] (1), next (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Slack]] (7), [[Microsoft]] (1)
 > **Tools:** slack (7)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1), is an  (1)
@@ -1508,8 +1491,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a new channel
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-new-channel?u=76281980)
+#### [Create a new channel](https://www.linkedin.com/learning/slack-essential-training/create-a-new-channel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1539,7 +1521,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/slack-essential-training/create-a-new-channel?u=76281980&t=104)** And I know for fact that budget 2023 didn't exist, because it wouldn't allow me to create it.
 >
-> **[1:50](https://www.linkedin.com/learning/slack-essential-training/create-a-new-channel?u=76281980&t=110)** So even if Sally had created this channel and not let me know, Slack would not have allowed me to create a second channel that has the same name.
+> **[1:50](https://www.linkedin.com/learning/slack-essential-training/create-a-new-channel?u=76281980&t=110)** So even if Sally had created this channel and not let me know, [[Slack]] would not have allowed me to create a second channel that has the same name.
 >
 > **[2:00](https://www.linkedin.com/learning/slack-essential-training/create-a-new-channel?u=76281980&t=120)** This is where it starts.
 >
@@ -1567,14 +1549,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Search]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Tools:** slack (1)
 > **Speakers:** - [presenter] (1)
 
-#### Manage a channel
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/manage-a-channel?u=76281980)
+#### [Manage a channel](https://www.linkedin.com/learning/slack-essential-training/manage-a-channel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1638,7 +1619,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/slack-essential-training/manage-a-channel?u=76281980&t=127)** Here's the key.
 >
-> **[2:08](https://www.linkedin.com/learning/slack-essential-training/manage-a-channel?u=76281980&t=128)** When you archive a channel, it's contents are still available when you search in Slack.
+> **[2:08](https://www.linkedin.com/learning/slack-essential-training/manage-a-channel?u=76281980&t=128)** When you archive a channel, it's contents are still available when you search in [[Slack]].
 >
 > **[2:14](https://www.linkedin.com/learning/slack-essential-training/manage-a-channel?u=76281980&t=134)** If you have a public channel you can change it to a private channel.
 >
@@ -1678,7 +1659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Slack]] (2), management (1)
+> **Frameworks & Libraries:** [[Slack]] (2)
 > **Tools:** slack (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -1691,16 +1672,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install a storage app
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980)
+#### [Install a storage app](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980&t=0)** - [Narrator] I have existing file storage in the cloud.
 >
-> **[0:03](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980&t=3)** I have files in Google Drive, in Box, in OneDrive, in Dropbox.
+> **[0:03](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980&t=3)** I have files in [[Google Drive]], in Box, in [[Microsoft OneDrive|OneDrive]], in Dropbox.
 >
-> **[0:09](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980&t=9)** And I don't get a lot of storage with the free Slack plan.
+> **[0:09](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980&t=9)** And I don't get a lot of storage with the free [[Slack]] plan.
 >
 > **[0:14](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980&t=14)** So I'd like to be able to connect to those repositories but even if I'm working with the paid Slack plan, I'd like to be able to connect to where my files are actually located.
 >
@@ -1722,7 +1702,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980&t=90)** So when I click attach file, I can choose Box, the app I just added.
 >
-> **[1:34](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980&t=94)** I'd previously added Google Drive and OneDrive and SharePoint, but this is my new application.
+> **[1:34](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980&t=94)** I'd previously added Google Drive and OneDrive and [[SharePoint]], but this is my new application.
 >
 > **[1:40](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980&t=100)** And this is Box being fired up by Slack where I can choose a file and add it to a message directly from my Box account.
 >
@@ -1734,17 +1714,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (6), application (4), cloud (3), [[Google Drive]] (2), [[Microsoft OneDrive|Onedrive]] (2)
+> **Frameworks & Libraries:** [[Slack]] (6), [[Google Drive]] (2), [[Microsoft OneDrive|Onedrive]] (2), [[SharePoint]] (1)
 > **Tools:** slack (6)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add a poll app to Slack
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/add-a-poll-app-to-slack?u=76281980)
+#### [Add a poll app to Slack](https://www.linkedin.com/learning/slack-essential-training/add-a-poll-app-to-slack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/add-a-poll-app-to-slack?u=76281980&t=0)** - [Instructor] There are a lot of apps that you can connect to Slack, not just storage apps.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/add-a-poll-app-to-slack?u=76281980&t=0)** - [Instructor] There are a lot of apps that you can connect to [[Slack]], not just storage apps.
 >
 > **[0:05](https://www.linkedin.com/learning/slack-essential-training/add-a-poll-app-to-slack?u=76281980&t=5)** One of the apps that is often useful for teams is an app where you can create questions, polls, and surveys.
 >
@@ -1796,7 +1775,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/slack-essential-training/add-a-poll-app-to-slack?u=76281980&t=97)** I primarily plan to use Simple Poll within a Slack community.
 >
-> **[1:44](https://www.linkedin.com/learning/slack-essential-training/add-a-poll-app-to-slack?u=76281980&t=104)** There are privacy policies and terms of service.
+> **[1:44](https://www.linkedin.com/learning/slack-essential-training/add-a-poll-app-to-slack?u=76281980&t=104)** There are [[Privacy]] policies and terms of service.
 >
 > **[1:47](https://www.linkedin.com/learning/slack-essential-training/add-a-poll-app-to-slack?u=76281980&t=107)** I could get emails.
 >
@@ -1842,7 +1821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (8), next (2), teams (1), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Slack]] (8), [[Privacy]] (1)
 > **Tools:** slack (8)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (2)
@@ -1851,12 +1830,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install a Slack desktop or mobile app
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980)
+#### [Install a Slack desktop or mobile app](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=0)** - [Instructor] If you'd like to have more control over your notifications in Slack.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=0)** - [Instructor] If you'd like to have more control over your notifications in [[Slack]].
 >
 > **[0:05](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=5)** If you'd like to be able to work from your cell phone or from a tablet rather than always needing to open a browser.
 >
@@ -1872,7 +1850,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=31)** And Slack will automatically check your browser, check your operating system, and offer you versions of Slack that make sense for you.
 >
-> **[0:40](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=40)** I'm signed in on a Windows 10 machine.
+> **[0:40](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=40)** I'm signed in on a [[Windows 10]] machine.
 >
 > **[0:43](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=43)** And so it is offering me a 64 bit download and a 32 bit download.
 >
@@ -1892,7 +1870,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=86)** For IOS, go to the App Store.
 >
-> **[1:28](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=88)** For Androids, go to Google Play.
+> **[1:28](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=88)** For Androids, go to [[Google]] Play.
 >
 > **[1:31](https://www.linkedin.com/learning/slack-essential-training/install-a-slack-desktop-or-mobile-app?u=76281980&t=91)** And download and install your app.
 >
@@ -1900,7 +1878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (10), [[Windows 10]] (2), product (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Slack]] (10), [[Windows 10]] (2), [[Google]] (1)
 > **Tools:** slack (10)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (1)
@@ -1914,12 +1892,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Search in Slack
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980)
+#### [Search in Slack](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980&t=0)** - [Instructor] Slack has seriously great search capability.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980&t=0)** - [Instructor] [[Slack]] has seriously great search capability.
 >
 > **[0:04](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980&t=4)** As soon as you have sent a message or uploaded a file, it's immediately searchable.
 >
@@ -1953,7 +1930,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980&t=78)** So if I'm looking for a message that has to do with budget, I can just search messages.
 >
-> **[1:24](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980&t=84)** It offers up some particular channels that I could search in, but I have four messages and I have three channels that include the word budget.
+> **[1:24](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980&t=84)** It offers up some particular channels that I could search in, but I have four messages and I have three channels that include the [[Microsoft Word|word]] budget.
 >
 > **[1:33](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980&t=93)** Over here on the right I have refiners that allow me to filter.
 >
@@ -2033,19 +2010,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (18), [[Slack]] (7), [[Microsoft Word|Word]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Slack]] (7), [[Microsoft Word|Word]] (1)
 > **Tools:** slack (7)
 > **Analogies:** for example (3), imagine (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** as we saw (1), go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set notification preferences
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980)
+#### [Set notification preferences](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980&t=0)** - [Instructor] We've been working with the default preferences in Slack, but I'm going to show you how you can modify your preferences.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980&t=0)** - [Instructor] We've been working with the default preferences in [[Slack]], but I'm going to show you how you can modify your preferences.
 >
 > **[0:09](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980&t=9)** Slack preferences are specific to you and specific to the Slack workspace you're working in.
 >
@@ -2147,9 +2123,9 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980&t=299)** So do I want to preview of the message?
 >
-> **[5:02](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980&t=302)** It says, "Disable this for extra privacy."
+> **[5:02](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980&t=302)** It says, "Disable this for extra [[Privacy]]."
 >
-> **[5:04](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980&t=304)** Extra privacy being someone looking over your shoulder or sitting in your office.
+> **[5:04](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980&t=304)** Extra privacy being someone looking over your shoulder or sitting in your [[Microsoft Office|office]].
 >
 > **[5:09](https://www.linkedin.com/learning/slack-essential-training/set-notification-preferences?u=76281980&t=309)** So I can say, "I don't want to have a preview."
 >
@@ -2187,7 +2163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (17), [[Privacy]] (2), feature (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Slack]] (17), [[Privacy]] (2), [[Microsoft Office|Office]] (1)
 > **Tools:** slack (17)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** make (2), find (1)
@@ -2196,12 +2172,11 @@ created: 2026-05-02
 > **UI Navigation:** checkbox (1)
 > **Prerequisites:** set up (1)
 
-#### Set sidebar, message, and theme preferences
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/set-sidebar-message-and-theme-preferences?u=76281980)
+#### [Set sidebar, message, and theme preferences](https://www.linkedin.com/learning/slack-essential-training/set-sidebar-message-and-theme-preferences?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/set-sidebar-message-and-theme-preferences?u=76281980&t=0)** - [Instructor] Let's return to our Slack preferences Click on your workspace name, choose Preferences, and we're going to now look at Sidebar, then Messages & media.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/set-sidebar-message-and-theme-preferences?u=76281980&t=0)** - [Instructor] Let's return to our [[Slack]] preferences Click on your workspace name, choose Preferences, and we're going to now look at Sidebar, then Messages & media.
 >
 > **[0:11](https://www.linkedin.com/learning/slack-essential-training/set-sidebar-message-and-theme-preferences?u=76281980&t=11)** There are other sets of preferences and I trust you to spend some time with those as you continue working with Slack.
 >
@@ -2291,7 +2266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (5), next (1)
+> **Frameworks & Libraries:** [[Slack]] (5)
 > **Tools:** slack (5)
 > **UI Navigation:** click on (1), in the sidebar (1)
 > **Analogies:** for example (1), picture (1)
@@ -2304,12 +2279,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a new Slack workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-new-slack-workspace?u=76281980)
+#### [Create a new Slack workspace](https://www.linkedin.com/learning/slack-essential-training/create-a-new-slack-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/create-a-new-slack-workspace?u=76281980&t=0)** - [Gini] If you have been working in Slack and need to create a new Slack workspace for another purpose, you can click on your workspace name, go to add workspaces, and create a new workspace.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/create-a-new-slack-workspace?u=76281980&t=0)** - [Gini] If you have been working in [[Slack]] and need to create a new Slack workspace for another purpose, you can click on your workspace name, go to add workspaces, and create a new workspace.
 >
 > **[0:14](https://www.linkedin.com/learning/slack-essential-training/create-a-new-slack-workspace?u=76281980&t=14)** If you have other workspaces that you wish to use, for example, a workspace for your volunteer life or a workspace for your educational institution, you can sign into another workspace and switch between the workspaces here in Slack.
 >
@@ -2383,7 +2357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (16), next (3)
+> **Frameworks & Libraries:** [[Slack]] (16)
 > **Tools:** slack (16)
 > **UI Navigation:** go to (2), click on (1)
 > **URLs:** [slack.com](https://slack.com) (1)
@@ -2397,14 +2371,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980&t=0)** - [Gini] Congratulations, you've reached the end of this introductory course on Slack.
+> **[0:00](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980&t=0)** - [Gini] Congratulations, you've reached the end of this introductory course on [[Slack]].
 >
-> **[0:05](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980&t=5)** This is a great time to upload your certificate of completion to your LinkedIn profile.
+> **[0:05](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980&t=5)** This is a great time to upload your certificate of completion to your [[LinkedIn]] profile.
 >
 > **[0:11](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980&t=11)** It was truly a pleasure to create this course for you.
 >
@@ -2414,7 +2387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Slack]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Slack]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)

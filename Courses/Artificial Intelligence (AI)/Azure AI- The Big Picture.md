@@ -102,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure AI from a 10,000-foot view
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980)
+#### [Azure AI from a 10,000-foot view](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,17 +112,17 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=10)** Embracing AI tools in modern development is crucial because it allows us to automate tasks, make predictions, and gain insights that were once impossible.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=21)** Azure AI and machine learning provides a wide range of services to help you create the next generation of AI powered applications for any scenario.
+> **[0:21](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=21)** [[Microsoft Azure|Azure]] AI and machine learning provides a wide range of services to help you create the next generation of AI powered applications for any scenario.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=30)** Hi there, I'm Walt Ritscher, and I'm here to guide you through a big picture exploration of Azure AI.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=38)** There's a lot to discover.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=40)** There's a ton of machine learning tools for data preparation, model training, and deployment.
+> **[0:40](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=40)** There's a ton of machine learning tools for [[Data Preparation]], model training, and deployment.
 >
 > **[0:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=47)** You can create intelligent chat bots, build autonomous machines, research DNA sequences and analyze image and video content.
 >
-> **[0:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=56)** You don't want to miss out on the OpenAI services like GTP-4 and Dall-E.
+> **[0:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=56)** You don't want to miss out on the OpenAI services like GTP-4 and [[DALL-E]].
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-ai-from-a-10-000-foot-view?u=76281980&t=62)** Equally important are the Azure Content Safety Services designed to help keep your customer community safe.
 >
@@ -131,20 +130,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Microsoft Azure|Azure]] (4), next (1), data (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Data Preparation]] (1), [[DALL-E]] (1)
 > **Env Vars:** dna (1), gtp (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [walt] (1)
 
-#### Getting the most out of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/getting-the-most-out-of-this-course?u=76281980)
+#### [Getting the most out of this course](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/getting-the-most-out-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/getting-the-most-out-of-this-course?u=76281980&t=0)** - [Instructor] There are a lot of Azure services available.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/getting-the-most-out-of-this-course?u=76281980&t=0)** - [Instructor] There are a lot of [[Microsoft Azure|Azure]] services available.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/getting-the-most-out-of-this-course?u=76281980&t=3)** This course focuses on a subset of those services, the ones devoted to artificial intelligence, AI, and machine learning, ML.
+> **[0:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/getting-the-most-out-of-this-course?u=76281980&t=3)** This course focuses on a subset of those services, the ones devoted to [[Artificial Intelligence (AI)|artificial intelligence]], AI, and machine learning, ML.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/getting-the-most-out-of-this-course?u=76281980&t=12)** Machine learning and AI are a substantial portion of the services in Azure.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** picture (3)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -182,16 +180,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Azure AI services names
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980)
+#### [The Azure AI services names](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=0)** - [Instructor] Azure AI services offer a collection of cloud-based tools that help developers build intelligent applications.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI services offer a collection of cloud-based tools that help developers build intelligent applications.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=7)** These services include ready-made and customizable APIs and models, enabling you to add cognitive intelligence to your apps without needing AI or data science skills.
+> **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=7)** These services include ready-made and customizable APIs and models, enabling you to add cognitive intelligence to your apps without needing AI or [[Data Science]] skills.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=17)** If you follow Microsoft, you know that they change product and service names periodically.
+> **[0:17](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=17)** If you follow [[Microsoft]], you know that they change product and service names periodically.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=22)** Microsoft is constantly evolving and improving its Azure Cloud platform, which includes a wide range of services and features.
 >
@@ -211,9 +208,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=69)** Here's one example of the name evolution.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=71)** Microsoft Bot Framework was a platform for building and deploying chatbots and conversational AI applications.
+> **[1:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=71)** Microsoft Bot Framework was a platform for building and deploying chatbots and [[Conversational AI]] applications.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=79)** It provided developers with tools and resources to create bots that could interact with users through various channels such as Facebook Messenger, Skype, Slack, and more.
+> **[1:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=79)** It provided developers with tools and resources to create bots that could interact with users through various channels such as Facebook Messenger, Skype, [[Slack]], and more.
 >
 > **[1:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=89)** Soon it was integrated into Azure Bot Service, which is a part of Azure AI.
 >
@@ -225,36 +222,35 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=113)** Microsoft has officially dropped these category names.
 >
-> **[1:57](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=117)** Regardless of the current names, Microsoft Azure's AI Services continue to offer powerful capabilities.
+> **[1:57](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=117)** Regardless of the current names, [[Microsoft Azure]]'s AI Services continue to offer powerful capabilities.
 >
 > **[2:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-ai-services-names?u=76281980&t=123)** As we go through the course, I'll highlight these changes when relevant.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Microsoft Azure|Azure]] (10), [[Microsoft]] (7), cloud (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft]] (7), [[Data Science]] (1), [[Conversational AI]] (1), [[Slack]] (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### An overview of Azure AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980)
+#### [An overview of Azure AI](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=0)** - [Instructor] Artificial intelligence has become one of the most transformative technologies of our time, with the potential to revolutionize the way we create content and work.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] has become one of the most transformative technologies of our time, with the potential to revolutionize the way we create content and work.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=9)** At its core, AI is about creating intelligent machines and software that can perform tasks that would normally require human intelligence, such as recognizing patterns, making decisions, and learning from experience.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=22)** AI technology is changing the way we interact with the world around us.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=25)** Whether it's from machine learning algorithms that can analyze vast amounts of data or auto caption services that can parse video and extract captions, we are seeing the massive influence of AI on our lives.
+> **[0:25](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=25)** Whether it's from machine learning [[Algorithms]] that can analyze vast amounts of data or auto caption services that can parse video and extract captions, we are seeing the massive influence of AI on our lives.
 >
 > **[0:37](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=37)** What do you think of when you hear AI mentioned in conversation?
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=41)** It's a wide area.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=42)** My guess is that it's one of these areas: machine learning, cognitive services, large language models, generative AI, or the Internet of Things.
+> **[0:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=42)** My guess is that it's one of these areas: machine learning, cognitive services, [[Large Language Models (LLM)|large language models]], [[Generative AI]], or the [[IoT|Internet of Things]].
 >
 > **[0:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=53)** Let's start with the difference between artificial intelligence and machine learning.
 >
@@ -268,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=91)** Machine learning is important because it allows software to learn and improve from data.
 >
-> **[1:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=95)** This can lead to more accurate and efficient decision-making.
+> **[1:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=95)** This can lead to more accurate and efficient [[Decision-Making]].
 >
 > **[1:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=98)** By analyzing patterns and trends in data, machine learning algorithms can identify insights and make predictions faster than humans.
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=121)** The algorithm then identifies patterns within the music and utilizes those characteristics to recognize and catalog other songs.
 >
-> **[2:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=128)** Machine learning serves as the fundamental building block of Azure AI, providing the backbone upon which many of its key features and capabilities are built.
+> **[2:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=128)** Machine learning serves as the fundamental building block of [[Microsoft Azure|Azure]] AI, providing the backbone upon which many of its key features and capabilities are built.
 >
 > **[2:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=136)** In machine learning, algorithms are used to analyze data and identify patterns or relationships in that data.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=228)** With tools like this, Azure can analyze the contents of images or videos and identify specific content.
 >
-> **[3:55](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=235)** For the last few years, Microsoft has grouped the AI services into categories like Cognitive Services and Applied AI Services.
+> **[3:55](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=235)** For the last few years, [[Microsoft]] has grouped the AI services into categories like Cognitive Services and Applied AI Services.
 >
 > **[4:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=242)** As I mentioned in another video, Microsoft has officially dropped these category names.
 >
@@ -328,17 +324,17 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=277)** They are a type of machine learning model that is specifically designed to process and understand natural language.
 >
-> **[4:44](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=284)** While other machine learning models may be designed to process structured data, such as numerical or categorical data, large language models are designed to process unstructured data, such as text or speech.
+> **[4:44](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=284)** While other machine learning models may be designed to process structured data, such as numerical or categorical data, large language models are designed to process [[Unstructured Data]], such as text or speech.
 >
 > **[4:57](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=297)** This requires different techniques and algorithms for processing and analyzing the data.
 >
-> **[5:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=301)** LLMs are typically built using deep learning techniques, such as neural networks, and are trained on large amounts of text data to learn patterns and relationships in language.
+> **[5:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=301)** LLMs are typically built using [[Deep Learning]] techniques, such as [[Neural Networks]], and are trained on large amounts of text data to learn patterns and relationships in language.
 >
 > **[5:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=311)** Some of the Azure cognitive services are based on large language models.
 >
 > **[5:15](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=315)** For example, the Language Understanding service, LUIS, is based on a large language model that has been trained on a vast amount of text data to understand natural language queries and commands.
 >
-> **[5:26](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=326)** LUIS allows developers to build natural language processing capabilities into their applications, enabling users to interact with the application using conversational language.
+> **[5:26](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=326)** LUIS allows developers to build [[Natural Language Processing (NLP)|natural language processing]] capabilities into their applications, enabling users to interact with the application using conversational language.
 >
 > **[5:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=334)** Similarly, the Text Analytics service in Azure cognitive services is based on large language models that have been trained on vast amounts of text data to identify sentiment, key phrases, and other insights in the text.
 >
@@ -346,7 +342,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=356)** One of the most popular pre-trained language models or LLMs is offered by OpenAI, an artificial intelligence research laboratory.
 >
-> **[6:04](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=364)** ChatGPT is a pre-trained language model for conversational AI based on the GPT, which stands for generative pre-trained transformer architecture.
+> **[6:04](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=364)** [[ChatGPT]] is a pre-trained language model for [[Conversational AI]] based on the GPT, which stands for generative pre-trained transformer architecture.
 >
 > **[6:15](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=375)** GPT is a type of neural network.
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=412)** They do this by analyzing patterns and styles in existing works and creating new ones based on that analysis.
 >
-> **[6:58](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=418)** One popular generative tool is DALL-E, a neural network-based image generation system developed by OpenAI.
+> **[6:58](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=418)** One popular generative tool is [[DALL-E]], a neural network-based image generation system developed by OpenAI.
 >
 > **[7:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=425)** It can generate high-quality images from textual descriptions.
 >
@@ -374,7 +370,7 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=445)** It refers to a group of connected or network set of physical devices, vehicles, home appliances, and other items that are embedded with sensors, software and connectivity.
 >
-> **[7:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=455)** IoT is rapidly expanding, with billions of devices already connected to the internet and many more expected to come online in the coming years.
+> **[7:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=455)** [[IoT]] is rapidly expanding, with billions of devices already connected to the internet and many more expected to come online in the coming years.
 >
 > **[7:43](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/an-overview-of-azure-ai?u=76281980&t=463)** This fast network of connected devices has the potential to transform industries ranging from healthcare and manufacturing to transportation and agriculture.
 >
@@ -388,7 +384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), ai (17), [[Microsoft Azure|Azure]] (16), [[Algorithms]] (8), [[Large Language Models (LLM)|Large language models]] (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Algorithms]] (8), [[Large Language Models (LLM)|Large language models]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Microsoft]] (4)
 > **Definitions:** is a  (7), in other words (1), stands for (1), means that (1), refers to (1)
 > **Analogies:** such as (5), for example (3)
 > **Env Vars:** luis (2), gpt (2), dall (2)
@@ -397,12 +393,11 @@ created: 2026-05-02
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### A short tour of the Azure AI services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980)
+#### [A short tour of the Azure AI services](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=0)** - [Narrator] There are approximately 20 Azure AI services available at the time I'm recording this course.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=0)** - [Narrator] There are approximately 20 [[Microsoft Azure|Azure]] AI services available at the time I'm recording this course.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=6)** Before looking at each one in detail, I think it's useful to take a high level view of each one.
 >
@@ -410,9 +405,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=16)** AI is the broader concept of creating intelligent machines.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=20)** Machine learning is a specific approach within AI that uses data and algorithms to mimic the way humans learn.
+> **[0:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=20)** Machine learning is a specific approach within AI that uses data and [[Algorithms]] to mimic the way humans learn.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=27)** As you might assume, the services available from Azure AI are built upon machine learning, enabling them to perform tasks such as natural language processing, image recognition, video indexing, and speech recognition.
+> **[0:27](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=27)** As you might assume, the services available from Azure AI are built upon machine learning, enabling them to perform tasks such as [[Natural Language Processing (NLP)|natural language processing]], image recognition, video indexing, and [[Speech Recognition]].
 >
 > **[0:40](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=40)** When working with Azure, you can either leverage pre-built AI services for quick integration or build your own custom machine learning models for tailored solutions.
 >
@@ -434,7 +429,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=93)** For example, we can use Azure cognitive search for its powerful search capabilities while integrating our own custom model to enhance the search results with our domain specific insights.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=104)** This hybrid approach allows us to build more advanced and effective AI solutions.
+> **[1:44](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=104)** This hybrid approach allows us to build more advanced and effective [[AI Solutions]].
 >
 > **[1:49](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=109)** Here's a comprehensive list of the Azure AI services.
 >
@@ -444,7 +439,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=123)** There is the Document Intelligence Service formerly known as the form recognizer.
 >
-> **[2:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=128)** Use it to extract text, tables and document metadata from forms, receipts, invoices, and other documents.
+> **[2:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=128)** Use it to extract text, tables and document [[Metadata]] from [[Forms]], receipts, invoices, and other documents.
 >
 > **[2:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=136)** Once you have the text, you can run various analytical tools over that text.
 >
@@ -508,21 +503,21 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=334)** It uses AI to perform data monitoring and anomaly detection in time series data.
 >
-> **[5:40](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=340)** The service automates the process of applying models to your data and provides a set of APIs and a web-based workspace for data ingestion, anomaly detection, and diagnostics without needing to know machine learning.
+> **[5:40](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=340)** The service automates the process of applying models to your data and provides a set of APIs and a web-based workspace for [[Data Ingestion]], anomaly detection, and diagnostics without needing to know machine learning.
 >
-> **[5:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=353)** Azure OpenAI is a partnership between Microsoft and OpenAI.
+> **[5:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=353)** Azure OpenAI is a partnership between [[Microsoft]] and OpenAI.
 >
-> **[5:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=356)** A research organization focused on developing artificial intelligence in a safe and beneficial way.
+> **[5:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=356)** A research organization focused on developing [[Artificial Intelligence (AI)|artificial intelligence]] in a safe and beneficial way.
 >
-> **[6:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=362)** As part of the collaboration, some of the OpenAI's language models are available on Microsoft Azure.
+> **[6:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=362)** As part of the collaboration, some of the OpenAI's language models are available on [[Microsoft Azure]].
 >
 > **[6:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=368)** Here are two examples.
 >
-> **[6:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=369)** The most famous model is the one used in ChatGPT, a good example of interactive chat based AI.
+> **[6:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=369)** The most famous model is the one used in [[ChatGPT]], a good example of interactive chat based AI.
 >
 > **[6:15](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=375)** In Azure OpenAI, we have access to the underlying model called GPT 4 or GPT 3.5.
 >
-> **[6:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=382)** Dall-E is an advanced image generation model developed by OpenAI.
+> **[6:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=382)** [[DALL-E]] is an advanced image generation model developed by OpenAI.
 >
 > **[6:26](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/a-short-tour-of-the-azure-ai-services?u=76281980&t=386)** It can generate highly realistic images from textual descriptions, allowing users to create images of objects and scenes that don't exist in the real world.
 >
@@ -546,7 +541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (26), [[Microsoft Azure|Azure]] (20), data (10), [[Search]] (3), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[Microsoft]] (3), [[Algorithms]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Speech Recognition]] (1)
 > **Definitions:** is a  (7), known as (1), is an  (1)
 > **Analogies:** such as (7), for example (2)
 > **CLI Commands:** find (2), make (1)
@@ -559,14 +554,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basics of Azure machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980)
+#### [The basics of Azure machine learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=0)** - [Instructor] Machine learning is a complex topic.
 >
-> **[0:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=2)** In this video, we'll look at some general principles and how it works in Azure.
+> **[0:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=2)** In this video, we'll look at some general principles and how it works in [[Microsoft Azure|Azure]].
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=7)** Later in this chapter, we'll look at the Azure Machine Learning Studio, which is a nice way to visualize and manage your workflows.
 >
@@ -576,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=24)** You can easily create and manage machine learning workflows from data prep to deployment all within the Azure platform.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=31)** It provides a wide range of tools and services, including automated machine learning, deep learning, and reinforcement learning.
+> **[0:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=31)** It provides a wide range of tools and services, including [[Automated Machine Learning (AutoML)|automated machine learning]], [[Deep Learning]], and [[Reinforcement Learning]].
 >
 > **[0:39](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=39)** To use Azure Machine Learning, you'll first need a workspace.
 >
@@ -586,15 +580,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=53)** Next, you need a compute instance.
 >
-> **[0:55](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=55)** Think of it as a pre-configured cloud computing resource that you can use to train, automate, manage, and track machine learning models.
+> **[0:55](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=55)** Think of it as a pre-configured [[Cloud Computing]] resource that you can use to train, automate, manage, and track machine learning models.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=63)** A compute instance is the quickest way to start using the Azure machine learning SDKs and the command line interface or CLI.
+> **[1:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=63)** A compute instance is the quickest way to start using the Azure machine learning SDKs and the command line interface or [[CLI]].
 >
-> **[1:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=71)** You can use it to run Jupyter Notebooks and Python scripts.
+> **[1:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=71)** You can use it to run Jupyter Notebooks and [[Python (Programming Language)|Python]] scripts.
 >
 > **[1:14](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=74)** A Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
 >
-> **[1:25](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=85)** It supports a wide range of programming languages, including Julia, R, and Python, and is commonly used for data science.
+> **[1:25](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=85)** It supports a wide range of programming languages, including Julia, R, and Python, and is commonly used for [[Data Science]].
 >
 > **[1:33](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=93)** Jupyter Notebooks can be used for tasks such as data cleansing and transformation, statistical modeling, machine learning, and data visualization.
 >
@@ -606,7 +600,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=126)** Python is a high-level, interpreted programming language that is known for simplicity, its readability, and its versatility.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=133)** Python is a cross-platform language, and that means that code written in Python can run on different operating systems, including Windows, macOS, and Linux.
+> **[2:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=133)** Python is a cross-platform language, and that means that code written in Python can run on different operating systems, including [[Windows]], macOS, and [[Linux]].
 >
 > **[2:23](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=143)** And Azure Machine Learning jobs are training runs that you use to build your models.
 >
@@ -632,7 +626,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=209)** Registering a model means that you're creating a reference to a trained machine learning model in your workspace.
 >
-> **[3:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=214)** This reference includes metadata about the model, such as this name, version, and description, as well as information about the run that produced the model.
+> **[3:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=214)** This reference includes [[Metadata]] about the model, such as this name, version, and description, as well as information about the run that produced the model.
 >
 > **[3:43](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=223)** Registering a model allows you to easily track and manage your models and makes it simple to deploy them to production environments.
 >
@@ -648,17 +642,17 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=270)** In Azure, you can perform inferencing by utilizing endpoints and deployments.
 >
-> **[4:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=275)** These endpoints and deployments allow you to separate the interface of your production workload from the implementation that serves it, providing greater flexibility and scalability.
+> **[4:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=275)** These endpoints and deployments allow you to separate the interface of your production workload from the implementation that serves it, providing greater flexibility and [[Scalability]].
 >
 > **[4:44](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=284)** Creating an online endpoint refers to the process of deploying a trained machine learning model as a web service that can be accessed by other applications or services over the internet.
 >
-> **[4:54](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=294)** Creating an online endpoint in Azure Machine Learning involves packaging the trained model as a Docker container, configuring the deployment environment and exposing the endpoint through a REST API.
+> **[4:54](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=294)** Creating an online endpoint in Azure Machine Learning involves packaging the trained model as a Docker container, configuring the deployment environment and exposing the endpoint through a [[Representational State Transfer (REST)|REST]] API.
 >
 > **[5:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-machine-learning?u=76281980&t=306)** Once the endpoint is up and running, it can be accessed by other applications or services using HTTP requests.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Microsoft Azure|Azure]] (15), [[Python (Programming Language)|Python]] (8), cloud (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Python (Programming Language)|Python]] (8), [[Data Science]] (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** python (8), make (3), docker (1)
 > **Definitions:** is a  (7), means that (2), refers to (2), is an  (1)
 > **Tools:** jupyter (4), azure portal (1), command line (1)
@@ -667,12 +661,11 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **Cross-References:** later in (1)
 
-#### Azure Machine Learning Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980)
+#### [Azure Machine Learning Studio](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=0)** - [Instructor] While the Azure Portal provides some basic functionality for working with machine learning, it's recommended to use the Azure Machine Learning Studio for more advanced machine learning tasks.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=0)** - [Instructor] While the [[Microsoft Azure|Azure]] Portal provides some basic functionality for working with machine learning, it's recommended to use the Azure Machine Learning Studio for more advanced machine learning tasks.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=9)** The Azure Portal provides some basic machine learning services, such as creating and managing workspaces, setting up data sources, and deploying machine learning models.
 >
@@ -684,11 +677,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=34)** This capability provides a centralized place for data scientists and developers to work with all the artifacts for building, training and deploying machine learning models.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=43)** It provides a wide range of tools and services for data preparation, feature engineering, model training, and model evaluation.
+> **[0:43](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=43)** It provides a wide range of tools and services for [[Data Preparation]], [[Feature Engineering]], model training, and model evaluation.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=51)** It also includes a drag and drop interface for building machine learning models, as well as support for popular programming languages such as Python and R.
+> **[0:51](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=51)** It also includes a drag and drop interface for building machine learning models, as well as support for popular programming languages such as [[Python (Programming Language)|Python]] and R.
 >
-> **[1:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=60)** Additionally, it provides more advanced features such as automated machine learning, deep learning, and reinforcement learning.
+> **[1:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=60)** Additionally, it provides more advanced features such as [[Automated Machine Learning (AutoML)|automated machine learning]], [[Deep Learning]], and [[Reinforcement Learning]].
 >
 > **[1:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=66)** The navigation section is split into two parts.
 >
@@ -712,7 +705,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=110)** Once logged in, click the symbol in the sidebar to view the available data.
 >
-> **[1:54](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=114)** Azure Machine Learning can use data from various sources, including cloud storage, web addresses, or databases.
+> **[1:54](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=114)** Azure Machine Learning can use data from various sources, including [[Cloud Storage]], web addresses, or [[Databases]].
 >
 > **[2:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=121)** The data component doesn't necessarily store data on the Azure machine learning platform.
 >
@@ -746,7 +739,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=211)** This is known as compute in machine learning.
 >
-> **[3:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=214)** For development purposes, Azure Machine Learning provides compute instances which are interactive and come with pre-configured environments, making them ideal for data science tasks.
+> **[3:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=214)** For development purposes, Azure Machine Learning provides compute instances which are interactive and come with pre-configured environments, making them ideal for [[Data Science]] tasks.
 >
 > **[3:44](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=224)** However, for model training, which may require more powerful and expensive resources, compute clusters are used.
 >
@@ -778,11 +771,11 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=322)** Once you have trained your machine learning models, you can use the studio to deploy them to production.
 >
-> **[5:28](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=328)** This includes setting up endpoints and deploying models to Azure, Kubernetes, or Azure container instance.
+> **[5:28](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=328)** This includes setting up endpoints and deploying models to Azure, [[Kubernetes]], or Azure container instance.
 >
 > **[5:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=334)** Let's talk about another similar name tool.
 >
-> **[5:36](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=336)** It's the Azure AI Studio, which is sometimes called the Azure OpenAI Studio.
+> **[5:36](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=336)** It's the [[Azure AI Studio]], which is sometimes called the Azure OpenAI Studio.
 >
 > **[5:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=342)** It is another web-based interface that allows you to interact with the Azure OpenAI service.
 >
@@ -792,13 +785,13 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=357)** Here, you can see the playground section listed on the left menu bar.
 >
-> **[6:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=361)** Here, you can use the chat services or use the DALL-E generative service to create images.
+> **[6:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=361)** Here, you can use the chat services or use the [[DALL-E]] generative service to create images.
 >
 > **[6:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/azure-machine-learning-studio?u=76281980&t=366)** We'll look at the Azure AI Studio in another chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Microsoft Azure|Azure]] (15), [[Feature Engineering]] (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Data Preparation]] (2), [[Feature Engineering]] (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (2), [[Azure AI Studio]] (2)
 > **Analogies:** such as (5), for example (1)
 > **UI Navigation:** drag and drop (1), in the sidebar (1), select the (1)
 > **Definitions:** refers to (1), known as (1), is a  (1)
@@ -807,12 +800,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), set up (1)
 > **Env Vars:** dall (1)
 
-#### Build better prompts with Prompt Flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980)
+#### [Build better prompts with Prompt Flow](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=0)** - [Instructor] In the realm of large language models, a prompt refers to a natural language instruction or query given to the model.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=0)** - [Instructor] In the realm of [[Large Language Models (LLM)|large language models]], a prompt refers to a natural language instruction or query given to the model.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=7)** The purpose of the prompt is to guide the model in generating a response that is both correct and adequate in form and content.
 >
@@ -820,13 +812,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=21)** Without this skill, you may end up with vague or inaccurate responses.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=25)** Prompt engineering is the name given to the skill of crafting effective prompts.
+> **[0:25](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=25)** [[Prompt Engineering]] is the name given to the skill of crafting effective prompts.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=30)** There is a lot of buzz about large language model prompt engineering, because it is an emerging field that requires creativity and attention to detail.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=38)** It involves selecting the right words, phrases, and formats to guide the model into generating high-quality and relevant information.
 >
-> **[0:46](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=46)** Whether you are using ChatGPT to casually write some social media headlines for your TikTok account or using Azure LLMs to get report data from your enterprise data sources, writing a good prompt is an iterative process requiring thought and refinement.
+> **[0:46](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=46)** Whether you are using [[ChatGPT]] to casually write some social media headlines for your TikTok account or using [[Microsoft Azure|Azure]] LLMs to get report data from your enterprise data sources, writing a good prompt is an iterative process requiring thought and refinement.
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=62)** There are several steps to think about.
 >
@@ -860,11 +852,11 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=127)** This prompt engineering process involves several steps, such as preparing the data, creating the tailored prompts, executing the prompts using the LLM API, and then refining the generated content.
 >
-> **[2:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=139)** Microsoft created the Azure Machine Learning prompt flow to streamline the entire development cycle of AI applications that are powered by LLMs.
+> **[2:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=139)** [[Microsoft]] created the Azure Machine Learning [[Prompt Flow]] to streamline the entire development cycle of AI applications that are powered by LLMs.
 >
-> **[2:27](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=147)** It streamlines the development, evaluation, and the continuous integration and deployment of prompt engineering projects.
+> **[2:27](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=147)** It streamlines the development, evaluation, and the [[Continuous Integration (CI)|continuous integration]] and deployment of prompt engineering projects.
 >
-> **[2:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=154)** It empowers data scientists and the LLM application developers with an interactive experience that combines natural language prompts, templating language, and a list of built-in tools and Python code.
+> **[2:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=154)** It empowers data scientists and the LLM application developers with an interactive experience that combines natural language prompts, templating language, and a list of built-in tools and [[Python (Programming Language)|Python]] code.
 >
 > **[2:46](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=166)** The Azure research team found some significant blocking points in the workflow, which convinced Microsoft to create prompt flow.
 >
@@ -872,7 +864,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=176)** First is design and development.
 >
-> **[2:58](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=178)** Users must understand LLMs, experiment with different prompt, and use complex logic and control flow to create effective prompts.
+> **[2:58](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=178)** Users must understand LLMs, experiment with different prompt, and use complex logic and [[Control Flow]] to create effective prompts.
 >
 > **[3:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=187)** They also may face something called a cold start problem where they lack prior knowledge or examples to guide them.
 >
@@ -904,13 +896,13 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=267)** The input is a URL to classify.
 >
-> **[4:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=269)** Then it uses a Python script to fetch text content from the URL, uses an LLM to summarize the text content within 100 words, then classifies based on the URL and summarized text content.
+> **[4:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=269)** Then it uses a Python script to [[Fetch]] text content from the URL, uses an LLM to summarize the text content within 100 words, then classifies based on the URL and summarized text content.
 >
 > **[4:40](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-better-prompts-with-prompt-flow?u=76281980&t=280)** And then last, it uses a Python script to convert LLM output into a dictionary.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (15), data (6), [[Microsoft Azure|Azure]] (5), [[Prompt Engineering]] (4), [[ChatGPT]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Prompt Engineering]] (4), [[ChatGPT]] (4), [[Microsoft]] (3), [[Prompt Flow]] (3)
 > **Env Vars:** url (7), llm (4), api (1)
 > **Definitions:** is a  (5), is an  (3), refers to (1)
 > **CLI Commands:** python (3), find (1)
@@ -924,18 +916,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basics of Azure OpenAI Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980)
+#### [The basics of Azure OpenAI Service](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=0)** - [Instructor] OpenAI is an artificial intelligence research and deployment company.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=0)** - [Instructor] OpenAI is an [[Artificial Intelligence (AI)|artificial intelligence]] research and deployment company.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=4)** They have a significant partnership with Microsoft.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=4)** They have a significant partnership with [[Microsoft]].
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=7)** This collaboration began in 2019 when Microsoft invested $1 billion in OpenAI as part of a long-term partnership.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=16)** This partnership is focused on developing advanced AI technologies and making AI more accessible through Microsoft's Azure cloud platform.
+> **[0:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=16)** This partnership is focused on developing advanced AI technologies and making AI more accessible through Microsoft's [[Microsoft Azure|Azure]] cloud platform.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=24)** OpenAI is best known for developing several state-of-the-art AI models.
 >
@@ -945,17 +936,17 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=34)** Remember that GPT stands for generative pre-trained transformer.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=38)** It is a type of language model that uses deep learning technology to understand and generate human-like text.
+> **[0:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=38)** It is a type of language model that uses [[Deep Learning]] technology to understand and generate human-like text.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=45)** It supports tasks such as content creation, language translation, programming assistance, and more.
+> **[0:45](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=45)** It supports tasks such as [[Content Creation]], language translation, programming assistance, and more.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=50)** DALL-E is a model that can generate and edit images given a natural language prompt.
+> **[0:50](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=50)** [[DALL-E]] is a model that can generate and edit images given a natural language prompt.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=55)** Codex is a language model designed to assist with programming tasks.
 >
-> **[0:59](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=59)** It can generate code snippets based on natural language prompts and supports multiple programming languages, including Python, JavaScript, and more.
+> **[0:59](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=59)** It can generate code snippets based on natural language prompts and supports multiple programming languages, including [[Python (Programming Language)|Python]], [[JavaScript]], and more.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=67)** It powers GitHub Copilot, an AI-powered code completion tool that helps developers write code more efficiently by suggesting whole lines or blocks of code.
+> **[1:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=67)** It powers [[GitHub Copilot]], an AI-powered code completion tool that helps developers write code more efficiently by suggesting whole lines or blocks of code.
 >
 > **[1:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=76)** Whisper is a model that can transcribe audio into text across multiple languages.
 >
@@ -979,9 +970,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=134)** For example, there is no DALL-E type service yet in the native Azure AI.
 >
-> **[2:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=140)** Azure OpenAI service is a service that provides REST API access to open AI's powerful language models, including GPT-4, Embeddings, DALL-E, and Whisper.
+> **[2:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=140)** Azure OpenAI service is a service that provides [[Representational State Transfer (REST)|REST]] API access to open AI's powerful language models, including [[GPT-4]], Embeddings, DALL-E, and Whisper.
 >
-> **[2:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=151)** These models can be easily adapted to your specific task, including but not limited to content generation, summarization, semantic search, and natural language to code translation.
+> **[2:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=151)** These models can be easily adapted to your specific task, including but not limited to content generation, summarization, [[Semantic Search]], and natural language to code translation.
 >
 > **[2:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-basics-of-azure-openai-service?u=76281980&t=162)** We can access the services through REST APIs, the Python SDK, or the web-based interface in the Azure OpenAI Studio.
 >
@@ -991,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), ai (6), [[Microsoft]] (4), [[Programming]] (3), [[DALL-E]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft]] (4), [[DALL-E]] (3), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** gpt (3), dall (3), rest (2), clip (1), api (1)
 > **Definitions:** is a  (9), is an  (1), means that (1)
 > **CLI Commands:** python (2)
@@ -999,12 +990,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the Azure AI Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980)
+#### [Explore the Azure AI Studio](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=0)** - [Instructor] This is the Azure OpenAI Studio, a place designed to explore and utilize various OpenAI services and tools.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=0)** - [Instructor] This is the [[Microsoft Azure|Azure]] OpenAI Studio, a place designed to explore and utilize various OpenAI services and tools.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=7)** Let's take a quick tour of the main features available here.
 >
@@ -1020,11 +1010,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=38)** Currently, there are four playgrounds available.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=41)** Chat is for testing conversational AI models in an interactive dialogue.
+> **[0:41](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=41)** Chat is for testing [[Conversational AI]] models in an interactive dialogue.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=46)** Assistance is for building custom AI assistance tailored to specific tasks.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=51)** Images is generating and modifying images using the Dall-E models, and completion is experimenting with text generation and completion tasks.
+> **[0:51](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=51)** Images is generating and modifying images using the [[DALL-E]] models, and completion is experimenting with text generation and completion tasks.
 >
 > **[1:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=61)** While both completions and chat are powered by AI engines and involve text-based interactions, they serve slightly different purposes and user interactions.
 >
@@ -1050,7 +1040,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=122)** This section offers a range of utilities that can help you enhance and optimize your AI projects.
 >
-> **[2:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=126)** Two key features here are fine tuning and batch job execution.
+> **[2:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=126)** Two key features here are [[Fine Tuning]] and batch job execution.
 >
 > **[2:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-azure-ai-studio?u=76281980&t=131)** Fine tuning is useful.
 >
@@ -1070,19 +1060,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (4), [[Fine Tuning]] (2), [[Microsoft Azure|Azure]] (1), [[Conversational AI]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Microsoft Azure|Azure]] (1), [[Conversational AI]] (1), [[DALL-E]] (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choose and deploy an OpenAI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/choose-and-deploy-an-openai-model?u=76281980)
+#### [Choose and deploy an OpenAI model](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/choose-and-deploy-an-openai-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/choose-and-deploy-an-openai-model?u=76281980&t=0)** - [Instructor] In the model catalog, you can see when we start looking at this page, it says, find the right model to build your custom AI solution.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/choose-and-deploy-an-openai-model?u=76281980&t=7)** This section serves as the central hub for exploring all the OpenAI models available for us to use in Azure.
+> **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/choose-and-deploy-an-openai-model?u=76281980&t=7)** This section serves as the central hub for exploring all the OpenAI models available for us to use in [[Microsoft Azure|Azure]].
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/choose-and-deploy-an-openai-model?u=76281980&t=14)** It provides a comprehensive overview of the various models that OpenAI offers, ranging from the general purpose models to specialized ones designed for a specific task.
 >
@@ -1092,7 +1081,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/choose-and-deploy-an-openai-model?u=76281980&t=39)** So we can look through this model catalog.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/choose-and-deploy-an-openai-model?u=76281980&t=42)** We can also filter it over here, only see the embeddings, only see the speech recognition and many more choices, only the completions chat completion, so on.
+> **[0:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/choose-and-deploy-an-openai-model?u=76281980&t=42)** We can also filter it over here, only see the embeddings, only see the [[Speech Recognition]] and many more choices, only the completions chat completion, so on.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/choose-and-deploy-an-openai-model?u=76281980&t=53)** So we can filter the list. Here's the ones for chat.
 >
@@ -1134,13 +1123,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (1), [[Speech Recognition]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Speech Recognition]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)
 
-#### Create a chat with OpenAI’s chat playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-chat-with-openai-s-chat-playground?u=76281980)
+#### [Create a chat with OpenAI’s chat playground](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-chat-with-openai-s-chat-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1148,7 +1136,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-chat-with-openai-s-chat-playground?u=76281980&t=2)** Before starting, I want to clarify something I said in the last video.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-chat-with-openai-s-chat-playground?u=76281980&t=6)** I have to choose an existing Azure OpenAI service from my Azure subscription, and I do that in this dropdown.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-chat-with-openai-s-chat-playground?u=76281980&t=6)** I have to choose an existing [[Microsoft Azure|Azure]] OpenAI service from my Azure subscription, and I do that in this dropdown.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-chat-with-openai-s-chat-playground?u=76281980&t=13)** And I have several resources available.
 >
@@ -1230,11 +1218,11 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-chat-with-openai-s-chat-playground?u=76281980&t=191)** So you can set these up and that's included in the headers that are sent to the model.
 >
-> **[3:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-chat-with-openai-s-chat-playground?u=76281980&t=196)** Now what we'll look at in the next video is how to call this model from a REST API.
+> **[3:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-chat-with-openai-s-chat-playground?u=76281980&t=196)** Now what we'll look at in the next video is how to call this model from a [[Representational State Transfer (REST)|REST]] API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), data (2), prompt (1), chatbot (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** in the last (2), in the next (1)
 > **UI Navigation:** dropdown (1), click on (1), go to (1)
 > **Env Vars:** rest (1), api (1)
@@ -1242,16 +1230,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Call the OpenAI REST API
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980)
+#### [Call the OpenAI REST API](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=0)** - [Instructor] We create these OpenAI models so that we can use them from our applications.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=6)** What I'll show you in this video is a simple way to call the rest API that I've created.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=6)** What I'll show you in this video is a simple way to call the [[Representational State Transfer (REST)|rest]] API that I've created.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=12)** So, what we need to have in Azure is we need to have our resource, we need to have a deployment.
+> **[0:12](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=12)** So, what we need to have in [[Microsoft Azure|Azure]] is we need to have our resource, we need to have a deployment.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=18)** That deployment will have a URI or URL associated with it, which you can see here in Notepad.
 >
@@ -1271,9 +1258,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=62)** Up here at the top is an area for viewing the code, so I click on this, and again, it shows me some information about endpoints and keys, and then down here, I can see some sample code, and it's already plugged in the information that I've entered in the Chat playground, including the prompt.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=79)** So, this is the Python code, this is the C# code.
+> **[1:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=79)** So, this is the [[Python (Programming Language)|Python]] code, this is the C# code.
 >
-> **[1:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=82)** There's also code for Curl, Java, Go, JavaScript and a JSON file.
+> **[1:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=82)** There's also code for Curl, [[Java]], Go, [[JavaScript]] and a [[JSON]] file.
 >
 > **[1:28](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-the-openai-rest-api?u=76281980&t=88)** So, what I did for my rest API is I copied this JSON file.
 >
@@ -1309,7 +1296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[Representational State Transfer (REST)|Rest]] (4), [[JSON]] (4), [[Microsoft Azure|Azure]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[JSON]] (4), [[Microsoft Azure|Azure]] (3), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Env Vars:** api (8), json (4), url (3), uri (1), post (1)
 > **CLI Commands:** make (2), python (1), curl (1), find (1)
 > **Tools:** postman (3)
@@ -1318,14 +1305,13 @@ created: 2026-05-02
 > **API Endpoints:** post  (1)
 > **Cross-References:** previous video (1)
 
-#### Generative images with DALL-E
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980)
+#### [Generative images with DALL-E](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=0)** - [Instructor] With the last example in this chapter, I'm looking at the Images playground.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=5)** This is using a DALL-E 2 deployment.
+> **[0:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=5)** This is using a [[DALL-E]] 2 deployment.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=7)** You can see that up here at the top.
 >
@@ -1333,7 +1319,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=14)** There is a model deployed.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=16)** I'm going to make a REST API call to the DALL-E model.
+> **[0:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=16)** I'm going to make a [[Representational State Transfer (REST)|REST]] API call to the DALL-E model.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=20)** It's going to pass in the prompt.
 >
@@ -1341,23 +1327,23 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=25)** The model will interpret the picture, create the picture, and send back the pixels to my code.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=32)** In this case, Microsoft is going to put the image on the page.
+> **[0:32](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=32)** In this case, [[Microsoft]] is going to put the image on the page.
 >
 > **[0:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=35)** So we'll click here to generate.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=38)** The pixels are coming back.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=40)** Microsoft is capturing them in this Azure Studio, and showing it here on the page.
+> **[0:40](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=40)** Microsoft is capturing them in this [[Microsoft Azure|Azure]] Studio, and showing it here on the page.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=46)** Now, if you want to do this on your own application, you can see the code here.
 >
-> **[0:52](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=52)** There's the JSON package.
+> **[0:52](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=52)** There's the [[JSON]] package.
 >
-> **[0:54](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=54)** There's also sample code for Python, C#, Java, Go, and JavaScript.
+> **[0:54](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/generative-images-with-dall-e?u=76281980&t=54)** There's also sample code for [[Python (Programming Language)|Python]], C#, [[Java]], Go, and [[JavaScript]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (2), [[Microsoft]] (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), prompt (1)
+> **Frameworks & Libraries:** [[DALL-E]] (2), [[Microsoft]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure|Azure]] (1), [[JSON]] (1)
 > **Env Vars:** dall (2), rest (1), api (1), json (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** picture (2)
@@ -1370,18 +1356,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Azure Studios
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980)
+#### [The Azure Studios](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=0)** - [Instructor] Azure offers a variety of tools for interacting with its services, including the Azure CLI, Azure PowerShell, Azure REST APIs, and the Azure web portal.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] offers a variety of tools for interacting with its services, including the Azure [[CLI]], Azure [[Powershell]], Azure [[Representational State Transfer (REST)|REST]] APIs, and the Azure web portal.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=11)** The Azure Portal has long been the primary web interface for creating, configuring, and managing all available Azure services.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=19)** It serves as a comprehensive one-stop destination for developers and administrators.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=24)** However, Microsoft has recently begun developing more specialized portals known as studios to provide a more focused experience for specific services and workflows.
+> **[0:24](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=24)** However, [[Microsoft]] has recently begun developing more specialized portals known as studios to provide a more focused experience for specific services and workflows.
 >
 > **[0:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=35)** These are all web-based tools.
 >
@@ -1397,7 +1382,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=71)** It's a good place to discover the Azure documentation, quick start guides, and SDK references.
 >
-> **[1:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=78)** You can invoke the REST API and view samples on GitHub.
+> **[1:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=78)** You can invoke the REST API and view samples on [[GitHub]].
 >
 > **[1:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/the-azure-studios?u=76281980&t=82)** You can try out some features without needing an Azure subscription.
 >
@@ -1417,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), web (4), [[Representational State Transfer (REST)|Rest]] (3), [[CLI]] (2), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Representational State Transfer (REST)|Rest]] (3), [[CLI]] (2), [[Powershell]] (1), [[Microsoft]] (1)
 > **Env Vars:** rest (3), cli (2), sdk (1), api (1)
 > **Tools:** azure portal (3), powershell (1), github (1)
 > **CLI Commands:** find (2)
@@ -1425,12 +1410,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extract text from images
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980)
+#### [Extract text from images](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=0)** - [Instructor] Azure Vision Studio is the place to explore the Azure AI vision services.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Vision Studio is the place to explore the Azure AI vision services.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=5)** In this video, we'll look at optical character recognition.
 >
@@ -1450,7 +1434,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=51)** The Azure AI vision OCR service offers a fast synchronous API designed for lightweight scenarios where images are not text-heavy.
 >
-> **[1:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=61)** This allows OCR to be integrated into near real-time user experiences, enhancing content, understanding and enabling quick follow-up actions.
+> **[1:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=61)** This allows OCR to be integrated into near [[Real-Time]] user experiences, enhancing content, understanding and enabling quick follow-up actions.
 >
 > **[1:10](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=70)** Our goal is to use the optical character recognition service to extract text from images.
 >
@@ -1466,15 +1450,15 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=106)** I've already done that, so I'll click cancel.
 >
-> **[1:48](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=108)** So, once I've checked this check box, then I can either upload a file and have it recognize the text there, or I can use one of the predefined samples, these pictures here available from Microsoft.
+> **[1:48](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=108)** So, once I've checked this check box, then I can either upload a file and have it recognize the text there, or I can use one of the predefined samples, these pictures here available from [[Microsoft]].
 >
 > **[1:59](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=119)** So for this example, I'm choosing this nutrition facts image.
 >
 > **[2:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=125)** The services run, and it's giving me some attributes.
 >
-> **[2:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=129)** Before I show you that, however, before I show the information here, let's look at the JSON package that's returned to the programmer.
+> **[2:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=129)** Before I show you that, however, before I show the information here, let's look at the [[JSON]] package that's returned to the programmer.
 >
-> **[2:15](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=135)** This gives us a bunch of information, including a list of words, like it's found the word nutrition, and it gives me information about that word within the confines of this image, so it's telling me the location of the word in this bounding polygon.
+> **[2:15](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=135)** This gives us a bunch of information, including a list of words, like it's found the [[Microsoft Word|word]] nutrition, and it gives me information about that word within the confines of this image, so it's telling me the location of the word in this bounding polygon.
 >
 > **[2:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-text-from-images?u=76281980&t=154)** Now how you use, that's up to you.
 >
@@ -1490,21 +1474,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Word|Word]] (5), ai (2), [[Microsoft]] (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Word|Word]] (5), [[Microsoft]] (2), [[Real-Time]] (1), [[JSON]] (1)
 > **Env Vars:** ocr (3), api (1), json (1)
 > **UI Navigation:** checkbox (1), dropdown (1), click on (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze spatial data in real time
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/analyze-spatial-data-in-real-time?u=76281980)
+#### [Analyze spatial data in real time](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/analyze-spatial-data-in-real-time?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/analyze-spatial-data-in-real-time?u=76281980&t=0)** - [Instructor] Spatial analysis within Azure AI Vision is a powerful tool that allows you to understand people's presence and movements in real time within physical areas.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/analyze-spatial-data-in-real-time?u=76281980&t=0)** - [Instructor] Spatial analysis within [[Microsoft Azure|Azure]] AI Vision is a powerful tool that allows you to understand people's presence and movements in real time within physical areas.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/analyze-spatial-data-in-real-time?u=76281980&t=10)** It processes live video streams or recorded video data from cameras, sensors, or other sources, providing real-time insights into crowd behavior, occupancy patterns, and movement trajectories.
+> **[0:10](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/analyze-spatial-data-in-real-time?u=76281980&t=10)** It processes live video streams or recorded video data from cameras, sensors, or other sources, providing [[Real-Time]] insights into crowd behavior, occupancy patterns, and movement trajectories.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/analyze-spatial-data-in-real-time?u=76281980&t=22)** By analyzing spatial context, businesses and organizations can gain valuable insights to improve operations and make data-driven decisions.
 >
@@ -1568,21 +1551,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Real-Time]] (2), traffic (2), [[Microsoft Azure|Azure]] (1), ai (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detect faces in an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980)
+#### [Detect faces in an image](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=0)** - [Instructor] The Azure AI Face Recognition Service provides algorithms for detecting, recognizing, and analyzing human faces in images.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=0)** - [Instructor] The [[Microsoft Azure|Azure]] AI Face Recognition Service provides [[Algorithms]] for detecting, recognizing, and analyzing human faces in images.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=9)** Facial recognition is a versatile service used in various scenarios to enhance security and enhance user experience.
+> **[0:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=9)** Facial recognition is a versatile service used in various scenarios to enhance security and enhance [[User Experience (UX)|user experience]].
 >
 > **[0:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=16)** One key application is identification, where the service verifies a person against a trusted face image.
 >
@@ -1598,7 +1580,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=53)** Another important feature is liveness detection, which prevents spoofing attacks by ensuring the user is physically present in front of the camera, protecting against attempts using printed photos, videos, or 3D masks.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=67)** Face redaction is a feature that redacts or blurs detected faces of people and videos to protect their privacy.
+> **[1:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=67)** Face redaction is a feature that redacts or blurs detected faces of people and videos to protect their [[Privacy]].
 >
 > **[1:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=73)** This is useful in scenarios where sharing or distributing media content requires safeguarding the identities of individuals such as public footage, security recordings, or media production.
 >
@@ -1606,24 +1588,23 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=94)** This feature is particularly useful for conducting a face search using an image.
 >
-> **[1:39](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=99)** This functionality is commonly seen in image services like Google Photos or Apple Photos, where you can search for all photos of a specific person.
+> **[1:39](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=99)** This functionality is commonly seen in image services like [[Google]] Photos or Apple Photos, where you can search for all photos of a specific person.
 >
 > **[1:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-faces-in-an-image?u=76281980&t=107)** By using the find similar operation, these services can quickly locate and group together images of a friend or family member, making it easier to organize, manage, and relive memories.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), feature (3), [[Search]] (2), [[Microsoft Azure|Azure]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Algorithms]] (1), [[User Experience (UX)|User experience]] (1), [[Privacy]] (1), [[Google]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Tag and categorize images with image analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980)
+#### [Tag and categorize images with image analysis](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=0)** - [Speaker] At the core of services, like optical character recognition, face recognition and spatial analysis lies the Azure AI Vision Image Analysis service.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=0)** - [Speaker] At the core of services, like optical character recognition, face recognition and spatial analysis lies the [[Microsoft Azure|Azure]] AI Vision Image Analysis service.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=10)** This foundational service provides essential capabilities for understanding and extracting insights from images.
 >
@@ -1649,7 +1630,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=76)** These tags provide meaningful information about the content, which makes it easier to search, categorize and analyze visual data.
 >
-> **[1:24](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=84)** Azure Smart Cropping refers to intelligent image processing that automatically identifies and extracts the most relevant part of an image.
+> **[1:24](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=84)** Azure Smart Cropping refers to intelligent [[Image Processing]] that automatically identifies and extracts the most relevant part of an image.
 >
 > **[1:33](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=93)** This cropping process ensures that the essential content remains visible while removing any unnecessary or distracting elements.
 >
@@ -1657,7 +1638,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=107)** Another useful service is background removal.
 >
-> **[1:50](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=110)** This works by first identifying the important objects in the image, then removing the rest of the picture.
+> **[1:50](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=110)** This works by first identifying the important objects in the image, then removing the [[Representational State Transfer (REST)|rest]] of the picture.
 >
 > **[1:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/tag-and-categorize-images-with-image-analysis?u=76281980&t=116)** There's also color scheme detection.
 >
@@ -1687,7 +1668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), ai (2), feature (2), api (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Image Processing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (9)
 > **Definitions:** is a  (2), refers to (2), in other words (1)
 > **CLI Commands:** make (4)
@@ -1700,12 +1681,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the features of Azure AI language analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980)
+#### [Explore the features of Azure AI language analysis](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980&t=0)** - [Presenter] Azure AI Language service is a comprehensive suite of natural language processing tools designed to help developers build intelligent applications that understand and interpret human language.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980&t=0)** - [Presenter] [[Microsoft Azure|Azure]] AI Language service is a comprehensive suite of [[Natural Language Processing (NLP)|natural language processing]] tools designed to help developers build intelligent applications that understand and interpret human language.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980&t=12)** We can learn more about them on the Azure AI Language Studio site.
 >
@@ -1727,7 +1707,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980&t=81)** By pinpointing key phrases, the service enables sufficient data analysis, allows us to identify trends and gain valuable insights without manually sifting through extensive text.
 >
-> **[1:30](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980&t=90)** Azure AI language offers a PII or personally identifiable information feature that identifies, categorizes, and redacts sensitive information, such as phone numbers, email addresses, and many forms of identification.
+> **[1:30](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980&t=90)** Azure AI language offers a PII or personally identifiable information feature that identifies, categorizes, and redacts sensitive information, such as phone numbers, email addresses, and many [[Forms]] of identification.
 >
 > **[1:45](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980&t=105)** Azure Text Analytics for Health is a specialized feature designed to process and analyze medical and clinical text.
 >
@@ -1757,22 +1737,21 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980&t=202)** Opinion mining, also known as aspect-based sentiment analysis, is a type of sentiment analysis that digs deeper into specific opinions in the text.
 >
-> **[3:32](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980&t=212)** It identifies and analyzes sentiments related to features or aspects of products and services, providing a detailed view of what people think about different elements.
+> **[3:32](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-features-of-azure-ai-language-analysis?u=76281980&t=212)** It identifies and analyzes sentiments related to features or aspects of [[Microsoft Products|products]] and services, providing a detailed view of what people think about different elements.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), feature (5), ai (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (5), known as (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** api (2), pii (1)
 > **Speakers:** - [presenter] (1)
 
-#### Extract information from text
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980)
+#### [Extract information from text](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=0)** - [Instructor] Looking at the Language Studio site, we can see that Microsoft has categorized their services into these areas.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=0)** - [Instructor] Looking at the Language Studio site, we can see that [[Microsoft]] has categorized their services into these areas.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=7)** There's extracting information from a document, classifying text in the document, understanding questions or understanding conversational language, summarizing the text, and translating the text.
 >
@@ -1784,11 +1763,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=39)** I'll start with this one.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=42)** First thing that happens on this page is Azure verifies that I have a valid resource, which I do.
+> **[0:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=42)** First thing that happens on this page is [[Microsoft Azure|Azure]] verifies that I have a valid resource, which I do.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=48)** Then I scroll down and I can see a place to enter my own text.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=51)** Or for this example, I'll use one of Microsoft's predefined text, so I'll choose banking.
+> **[0:51](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=51)** Or for this example, I'll use one of Microsoft's predefined text, so I'll choose [[Banking]].
 >
 > **[0:57](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=57)** Scroll up and take a look at the information.
 >
@@ -1796,7 +1775,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=64)** So we're going to look through this, or the service is going to look through this text, to try to find the personally identifiable information.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=71)** To do that, I'll click down here on the run button and then what I get back is a JSON document, and and within that Jason document, is the text with redacted information so I can show this to the user and I don't have to show the personal information.
+> **[1:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=71)** To do that, I'll click down here on the run button and then what I get back is a [[JSON]] document, and and within that Jason document, is the text with redacted information so I can show this to the user and I don't have to show the personal information.
 >
 > **[1:27](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=87)** I also get back the specific entity value.
 >
@@ -1822,7 +1801,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=131)** Here's August 17th, that's when they lost their credit card, but there's also, there are date of birth here, and the services found both of those.
 >
-> **[2:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=140)** It's also found some swift code, email address, and phone number.
+> **[2:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=140)** It's also found some [[Swift (Programming Language)|swift]] code, email address, and phone number.
 >
 > **[2:24](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/extract-information-from-text?u=76281980&t=144)** And then you can see down here it's showing this and underlining the values with the type.
 >
@@ -1840,15 +1819,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Azure|Azure]] (1), [[Banking]] (1), [[JSON]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Azure|Azure]] (1), [[Banking]] (1), [[JSON]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** pii (1), json (1)
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sentiment analysis and language detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/sentiment-analysis-and-language-detection?u=76281980)
+#### [Sentiment analysis and language detection](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/sentiment-analysis-and-language-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1858,7 +1836,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/sentiment-analysis-and-language-detection?u=76281980&t=13)** It'll give you a score based on how confident it is that it's detected the correct language.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/sentiment-analysis-and-language-detection?u=76281980&t=18)** So what I've got down here is some samples from Microsoft.
+> **[0:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/sentiment-analysis-and-language-detection?u=76281980&t=18)** So what I've got down here is some samples from [[Microsoft]].
 >
 > **[0:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/sentiment-analysis-and-language-detection?u=76281980&t=20)** This is the French example, and then there's Chinese.
 >
@@ -1892,7 +1870,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/sentiment-analysis-and-language-detection?u=76281980&t=91)** And we'll go down and run the example, and it comes back that 1% negative, 8% neutral, and 91% positive.
 >
-> **[1:41](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/sentiment-analysis-and-language-detection?u=76281980&t=101)** So even though they said it was a long wait, if you read the rest of the document, it says that, "The food is good enough to keep me entertained, though."
+> **[1:41](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/sentiment-analysis-and-language-detection?u=76281980&t=101)** So even though they said it was a long wait, if you read the [[Representational State Transfer (REST)|rest]] of the document, it says that, "The food is good enough to keep me entertained, though."
 >
 > **[1:55](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/sentiment-analysis-and-language-detection?u=76281980&t=115)** There are other types of classification.
 >
@@ -1904,8 +1882,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize text
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/summarize-text?u=76281980)
+#### [Summarize text](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/summarize-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1963,8 +1940,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Call transcription and analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980)
+#### [Call transcription and analysis](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1978,17 +1954,17 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=23)** The example we're looking at here in the call transcription is an example of turning audio into text.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=29)** Say it's a customer support audio, you can analyze that and create a transcript.
+> **[0:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=29)** Say it's a [[Customer Support]] audio, you can analyze that and create a transcript.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=34)** So I'll click here to see an example.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=36)** The way most of the examples on this site work is that you have a Try it out section where you can see how it works, and then you might have a Developer resources section on the page where you can see how you'd write code.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=47)** For here's an example how to write the sample code using REST API and the different programming languages.
+> **[0:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=47)** For here's an example how to write the sample code using [[Representational State Transfer (REST)|REST]] API and the different programming languages.
 >
-> **[0:52](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=52)** So you can get the code in C#, or C++, or Java, Python.
+> **[0:52](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=52)** So you can get the code in C#, or C++, or [[Java]], [[Python (Programming Language)|Python]].
 >
-> **[0:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=56)** You can also see what the JSON output looks like.
+> **[0:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=56)** You can also see what the [[JSON]] output looks like.
 >
 > **[1:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=60)** We're looking at the first section here, Try it out.
 >
@@ -2024,13 +2000,13 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=148)** And if so, you can hide it.
 >
-> **[2:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=149)** That's what Microsoft's doing here in this example, it's using asterisks here to hide the name, but I can turn that off to see the actual information.
+> **[2:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=149)** That's what [[Microsoft]]'s doing here in this example, it's using asterisks here to hide the name, but I can turn that off to see the actual information.
 >
 > **[2:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/call-transcription-and-analysis?u=76281980&t=158)** That gives you an idea how you can use audio transcription in your application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Analytics]] (1), [[Customer Support]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[JSON]] (1)
 > **Speakers:** - [instructor] (2), - [agent] (2), - [mary] (1)
 > **Env Vars:** rest (1), api (1), json (1), pii (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2039,8 +2015,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** sample code (1)
 
-#### Pronunciation assessment and correction
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980)
+#### [Pronunciation assessment and correction](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2048,11 +2023,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=5)** Mispronunciations can lead to misunderstandings and reduce the clarity of communication.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=11)** Recognizing this need, Microsoft introduced the Azure Pronunciation Assessment and Correction service.
+> **[0:11](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=11)** Recognizing this need, [[Microsoft]] introduced the [[Microsoft Azure|Azure]] Pronunciation Assessment and Correction service.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=16)** It leverages advanced speech recognition and natural language processing technologies to evaluate a speaker's pronunciation.
+> **[0:16](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=16)** It leverages advanced [[Speech Recognition]] and [[Natural Language Processing (NLP)|natural language processing]] technologies to evaluate a speaker's pronunciation.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=23)** This service provides instant detailed feedback on how accurately a word, phrase, or entire sentence is pronounced compared to native speech patterns.
+> **[0:23](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=23)** This service provides instant detailed feedback on how accurately a [[Microsoft Word|word]], phrase, or entire sentence is pronounced compared to native speech patterns.
 >
 > **[0:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=31)** It is designed to be integrated into various applications, such as language learning platforms, educational tools, and corporate training programs.
 >
@@ -2102,7 +2077,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=152)** The countryside was in full bleem, yet air was crisp, cold.
 >
-> **[2:37](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=157)** Towards the end of the day, clouds came in forecasting a much-needed rain.
+> **[2:37](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=157)** Towards the end of the day, clouds came in [[Forecasting]] a much-needed rain.
 >
 > **[2:45](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/pronunciation-assessment-and-correction?u=76281980&t=165)** Let's go look at my results.
 >
@@ -2136,12 +2111,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the built-in voice agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980)
+#### [Explore the built-in voice agents](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=0)** - [Narrator] Azure's text to speech agents offer a powerful suite of tools for creating natural and engaging voice interactions.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=0)** - [Narrator] [[Microsoft Azure|Azure]]'s text to speech agents offer a powerful suite of tools for creating natural and engaging voice interactions.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=6)** These agents are divided into two categories, built-in agents and customizable voice agents.
 >
@@ -2159,9 +2133,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=53)** The AI models behind these agents are trained on vast amounts of data, enabling them to produce speech that accurately reflects the intended tone, emotion, and context.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=63)** This capability is crucial for applications that require expressive and dynamic speech, such as audio books, educational content, and interactive storytelling.
+> **[1:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=63)** This capability is crucial for applications that require expressive and dynamic speech, such as audio books, educational content, and interactive [[Storytelling]].
 >
-> **[1:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=73)** By capturing the subtleties of human speech, Azure's agents can deliver a more engaging and immersive user experience.
+> **[1:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=73)** By capturing the subtleties of human speech, Azure's agents can deliver a more engaging and immersive [[User Experience (UX)|user experience]].
 >
 > **[1:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=80)** If the current set of voice agents doesn't have what you need, you can train your own.
 >
@@ -2275,7 +2249,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=318)** And then when we switch to Sara, it's whispering and we switch to Tony, it's shouting.
 >
-> **[5:23](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=323)** What Microsoft has done is hide most of the XML, and they're just showing the name of the agent and the style.
+> **[5:23](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=323)** What [[Microsoft]] has done is hide most of the XML, and they're just showing the name of the agent and the style.
 >
 > **[5:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/explore-the-built-in-voice-agents?u=76281980&t=331)** Let's see what this sounds like.
 >
@@ -2299,7 +2273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (3), data (2), next (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Storytelling]] (1), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1)
 > **Speakers:** - [narrator] (6), - [nancy] (2), - [ava] (1), - [emma] (1), - [ryan] (1)
 > **UI Navigation:** scroll down (2), switch to (2), click on (1), go to (1)
 > **Definitions:** is a  (4)
@@ -2308,8 +2282,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 
-#### Create a custom voice agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-custom-voice-agent?u=76281980)
+#### [Create a custom voice agent](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-custom-voice-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2341,7 +2314,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-custom-voice-agent?u=76281980&t=50)** It's also lightweight in the training time.
 >
-> **[0:52](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-custom-voice-agent?u=76281980&t=52)** If you look, it's less than one hour compute time to train the voice on the Microsoft training servers.
+> **[0:52](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-custom-voice-agent?u=76281980&t=52)** If you look, it's less than one hour compute time to train the voice on the [[Microsoft]] training servers.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-custom-voice-agent?u=76281980&t=59)** On the other hand, you can have Professional.
 >
@@ -2404,12 +2377,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft]] (2)
 > **Speakers:** - [instructor] (7), - [narrator] (6)
 
-#### Create a life-like video avatar
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980)
+#### [Create a life-like video avatar](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980&t=0)** - [Instructor] The Azure Text-to-Speech Avatar is a feature within Azure Speech Service that converts text into a digital video of a photorealistic human avatar, speaking with a natural sounding voice.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980&t=0)** - [Instructor] The [[Microsoft Azure|Azure]] Text-to-Speech Avatar is a feature within Azure Speech Service that converts text into a digital video of a photorealistic human avatar, speaking with a natural sounding voice.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980&t=12)** You can choose from a collection of prebuilt avatars or create custom ones.
 >
@@ -2435,13 +2407,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980&t=65)** - Welcome to this new course from Learnit Labs.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980&t=68)** This course looks at the big picture of Microsoft Azure AI offerings.
+> **[1:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980&t=68)** This course looks at the big picture of [[Microsoft Azure]] AI offerings.
 >
-> **[1:12](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980&t=72)** Instructor Walt Ritscher provides a perspective that will help you understand the many Azure offerings, and assess which best fit your organization's cloud strategy.
+> **[1:12](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/create-a-life-like-video-avatar?u=76281980&t=72)** Instructor Walt Ritscher provides a perspective that will help you understand the many Azure offerings, and assess which best fit your organization's [[Cloud Strategy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (2), feature (1), [[Microsoft Azure]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Azure]] (1), [[Cloud Strategy]] (1)
 > **Speakers:** - [instructor] (1), - welcome (1)
 > **Env Vars:** mp4 (1)
 > **Definitions:** is a  (1)
@@ -2452,8 +2424,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build intelligent bots with Azure Bot Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980)
+#### [Build intelligent bots with Azure Bot Service](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2461,7 +2432,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=7)** For example, web crawlers or spider bots, are search engine bots that scan and index webpages on the internet.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=14)** A chatbot is a type of bot that is designed to interact with users through natural language processing and machine learning algorithms.
+> **[0:14](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=14)** A chatbot is a type of bot that is designed to interact with users through [[Natural Language Processing (NLP)|natural language processing]] and machine learning [[Algorithms]].
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=22)** These bots are designed to simulate human conversation, and can understand and respond to user queries in a way that seems natural and intuitive.
 >
@@ -2479,13 +2450,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=59)** Machine learning and AI technologies are used to power these bots, allowing them to learn from user interactions and improve their responses over time.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=67)** For example, a chatbot that provides customer service for an e-commerce website can learn from the user queries and feedback, and improve its ability to answer questions and provide assistance.
+> **[1:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=67)** For example, a chatbot that provides customer service for an [[E-Commerce]] website can learn from the user queries and feedback, and improve its ability to answer questions and provide assistance.
 >
-> **[1:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=78)** Bots may also use other technologies such as computer vision and speech recognition to interact with users in more sophisticated ways.
+> **[1:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=78)** Bots may also use other technologies such as [[Computer Vision]] and [[Speech Recognition]] to interact with users in more sophisticated ways.
 >
 > **[1:26](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=86)** Overall, bots are designed to provide a personalized and engaging experience for users.
 >
-> **[1:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=91)** Azure Bot Services provide a range of tools and services to help developers build and deploy bots quickly and easily.
+> **[1:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=91)** [[Microsoft Azure|Azure]] Bot Services provide a range of tools and services to help developers build and deploy bots quickly and easily.
 >
 > **[1:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=98)** This includes a Bot Framework SDK, a Bot Builder SDK, and a Bot Connector service.
 >
@@ -2495,19 +2466,19 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=123)** The Bot Framework SDK is a set of tools and libraries for building chatbots and conversational agents.
 >
-> **[2:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=129)** It provides developers with a framework for creating bots that can communicate with users through various channels such as Facebook Messenger, Skype, and Slack.
+> **[2:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=129)** It provides developers with a framework for creating bots that can communicate with users through various channels such as Facebook Messenger, Skype, and [[Slack]].
 >
-> **[2:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=138)** The SDK includes a range of features such as natural language processing, dialogue management, and message routing.
+> **[2:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=138)** The SDK includes a range of features such as natural language processing, dialogue management, and message [[Routing]].
 >
 > **[2:26](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=146)** This makes it easier to build sophisticated and intelligent bots.
 >
-> **[2:30](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=150)** This framework supports multiple programming languages, including Python, C-Sharp, and JavaScript, and it can be used with various development environments such as Visual Studio and Visual Studio Code.
+> **[2:30](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=150)** This framework supports multiple programming languages, including [[Python (Programming Language)|Python]], C-Sharp, and [[JavaScript]], and it can be used with various development environments such as Visual Studio and Visual Studio Code.
 >
 > **[2:41](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=161)** The SDK also integrates with the Azure Bot Service, which provide hosting, deployment and management capabilities for bots.
 >
 > **[2:48](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=168)** The Azure Bot Analytics is a feature that provides developers with insights into how their chatbots are performing.
 >
-> **[2:55](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=175)** It allows developers to track user interactions with their bots, monitor performance metrics, and analyze user feedback to improve the bot's functionality.
+> **[2:55](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=175)** It allows developers to track user interactions with their bots, monitor [[Performance Metrics]], and analyze user feedback to improve the bot's functionality.
 >
 > **[3:04](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=184)** With Azure Bot Analytics, developers can view detailed analytics on user engagement, such as the number of conversations, the number of messages sent and received, and user retention rates.
 >
@@ -2527,7 +2498,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=247)** Azure Bot Service can easily integrate into other tools.
 >
-> **[4:10](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=250)** For example, it integrates with Microsoft Teams.
+> **[4:10](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=250)** For example, it integrates with [[Microsoft Teams]].
 >
 > **[4:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=253)** You can allow users to interact with the bot directly within the Teams interface.
 >
@@ -2537,13 +2508,13 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=269)** To be clear, this is for Teams, not for the other endpoints.
 >
-> **[4:33](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=273)** This tool, formerly known as App Studio, is the primary tool for configuring, distributing, and managing your Microsoft Team apps.
+> **[4:33](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=273)** This tool, formerly known as App Studio, is the primary tool for configuring, distributing, and managing your [[Microsoft]] Team apps.
 >
 > **[4:41](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/build-intelligent-bots-with-azure-bot-service?u=76281980&t=281)** With Developer Portal, you can collaborate with your colleagues on your app, set up runtime environments, and more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), teams (5), [[Analytics]] (3), chatbot (2), [[Natural Language Processing (NLP)|Natural language processing]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Performance Metrics]] (2), [[Algorithms]] (1), [[E-Commerce]] (1)
 > **Analogies:** such as (8), for example (3)
 > **Env Vars:** sdk (6), http (1)
 > **Definitions:** is a  (4), is an  (1), known as (1)
@@ -2552,12 +2523,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Streamline data extraction with Azure Document Intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980)
+#### [Streamline data extraction with Azure Document Intelligence](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=0)** - [Lecturer] In today's data-driven world, businesses tend to have vast amounts of information stored in various forms and documents.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=0)** - [Lecturer] In today's data-driven world, businesses tend to have vast amounts of information stored in various [[Forms]] and documents.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=7)** Traditional methods of manually processing and extracting information from these documents are not only time consuming, but also prone to errors, leading to inefficiencies and potential inaccuracies.
 >
@@ -2565,13 +2535,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=23)** Companies can now automate this process, enabling faster and more accurate data extraction from a wide range of sources.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=30)** Microsoft's version of automatic document extraction is called Azure AI Document.
+> **[0:30](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=30)** [[Microsoft]]'s version of automatic document extraction is called [[Microsoft Azure|Azure]] AI Document.
 >
 > **[0:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=35)** It was previously known as Azure Form Recognizer.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=38)** It is a service that uses machine learning to analyze text and extract valuable information from various types of documents.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=45)** This service helps automate data processing by efficiently identifying and pulling out relevant details from forms, receipts, invoices, and other document types.
+> **[0:45](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=45)** This service helps automate [[Data Processing]] by efficiently identifying and pulling out relevant details from forms, receipts, invoices, and other document types.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=55)** It includes language understanding capabilities, allowing it to categorize content into any of the 70 supported written languages.
 >
@@ -2599,9 +2569,9 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=116)** It can extract different document types.
 >
-> **[1:58](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=118)** It can extract text from HTML, PDF documents, and scanned images.
+> **[1:58](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=118)** It can extract text from [[HTML]], PDF documents, and scanned images.
 >
-> **[2:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=122)** It has support for extracting text from Microsoft Office docs like Word, Excel, and PowerPoint.
+> **[2:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=122)** It has support for extracting text from [[Microsoft Office]] docs like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[2:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=128)** Basic text extraction is useful for capturing the written content of a document, but documents often contain much more than just texts.
 >
@@ -2667,7 +2637,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=295)** So let's look at this example, and I'll run analysis on this.
 >
-> **[5:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=303)** And I'll zoom in a bit so we can see.
+> **[5:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=303)** And I'll [[Zoom]] in a bit so we can see.
 >
 > **[5:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/streamline-data-extraction-with-azure-document-intelligence?u=76281980&t=305)** So it's telling me that there is no selection marks, but there are some parts of the document that are considered tables.
 >
@@ -2721,7 +2691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Azure|Azure]] (6), [[Forms]] (5), [[Microsoft]] (5), ai (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Forms]] (5), [[Microsoft]] (5), [[Data Processing]] (1), [[HTML]] (1)
 > **Env Vars:** pdf (3), ocr (1), html (1)
 > **Definitions:** is called (2), is a  (2), known as (1)
 > **CLI Commands:** make (1), find (1)
@@ -2730,30 +2700,29 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Best Practices:** the key is (1)
 
-#### Improve accessibility with Immersive Reader
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980)
+#### [Improve accessibility with Immersive Reader](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=0)** - [Instructor] The Immersive Reader is a feature that is part of the Azure Cognitive Services suite of tools.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=0)** - [Instructor] The Immersive Reader is a feature that is part of the [[Microsoft Azure|Azure]] Cognitive Services suite of tools.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=5)** It is designed to help improve reading comprehension and fluency for users of all ages and abilities.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=12)** The immersive reader can be integrated into a variety of your applications and platforms, including web browsers, mobile apps, and desktop software.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=22)** It uses advanced natural language processing and machine learning algorithms to provide a range of features that can help users better understand and engage with written content.
+> **[0:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=22)** It uses advanced [[Natural Language Processing (NLP)|natural language processing]] and machine learning [[Algorithms]] to provide a range of features that can help users better understand and engage with written content.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=32)** So the key to understanding here is that this is a reader that you can embed into your application.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=38)** You'll pass the text to the immersive reader, and then the user can work within the immersive reader to read that information.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=47)** Microsoft is committed to making technology more accessible and inclusive for all users, regardless of their abilities or disabilities.
+> **[0:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=47)** [[Microsoft]] is committed to making technology more accessible and inclusive for all users, regardless of their abilities or disabilities.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=54)** The immersive reader, for example, can help users with different learning styles and abilities, such as dyslexia, ADHD, and visual impairments.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=63)** These features include text to speech, text translation, and word highlighting, as well as customizable fonts, colors, and spacing.
+> **[1:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=63)** These features include text to speech, text translation, and [[Microsoft Word|word]] highlighting, as well as customizable fonts, colors, and spacing.
 >
-> **[1:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=73)** If you'd like to see how the immersive reader looks, there's a great example available on the [onenote.com](https://onenote.com) website in the Learning Tool section.
+> **[1:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=73)** If you'd like to see how the immersive reader looks, there's a great example available on the [[[OneNote]].com](https://onenote.com) website in the Learning Tool section.
 >
 > **[1:20](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=80)** Click on this, Try It Out button.
 >
@@ -2787,7 +2756,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=148)** So my focus or the user's focus is on this line.
 >
-> **[2:33](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=153)** If you turn on line focus, what happens is the immersive reader just shows one line of text in white and the rest is in a darker color.
+> **[2:33](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=153)** If you turn on line focus, what happens is the immersive reader just shows one line of text in white and the [[Representational State Transfer (REST)|rest]] is in a darker color.
 >
 > **[2:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/improve-accessibility-with-immersive-reader?u=76281980&t=162)** So the user can select how many lines of text they want to see as they're looking at the document or reading the document.
 >
@@ -2823,7 +2792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), application (3), feature (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Algorithms]] (1)
 > **Speakers:** - [instructor] (2), - [computer (2), - and (1), - i (1)
 > **UI Navigation:** click on (3), toggle (1)
 > **Analogies:** picture (2), for example (1), such as (1)
@@ -2831,12 +2800,11 @@ created: 2026-05-02
 > **URLs:** [onenote.com](https://onenote.com) (1)
 > **Env Vars:** adhd (1)
 
-#### Detect anomalies with Azure Metrics Advisor
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980)
+#### [Detect anomalies with Azure Metrics Advisor](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=0)** - [Narrator] Azure Metrics Advisor is a comprehensive monitoring solution that uses advanced machine learning algorithms to detect anomalies in real time across a wide range of metrics.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=0)** - [Narrator] [[Microsoft Azure|Azure]] Metrics Advisor is a comprehensive monitoring solution that uses advanced machine learning [[Algorithms]] to detect anomalies in real time across a wide range of metrics.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=10)** Designed to help organizations monitor their data continuously, it identifies unusual patterns, trends, and potential issues before they escalate into critical problems.
 >
@@ -2846,7 +2814,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=40)** Monitoring data over time allows organizations to identify trends and patterns that may not be immediately obvious.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=47)** For instance, in e-commerce, monitoring customer behavior data can reveal emerging trends, helping businesses adjust their offerings accordingly.
+> **[0:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=47)** For instance, in [[E-Commerce]], monitoring customer behavior data can reveal emerging trends, helping businesses adjust their offerings accordingly.
 >
 > **[0:56](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=56)** Anomaly detection is the process of identifying data points that deviate from a datasets expected patterns.
 >
@@ -2854,7 +2822,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=70)** A sudden spike or drop in a metric is considered anomalous behavior and warrants attention.
 >
-> **[1:15](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=75)** In this line chart, you can see data points that deviate from the rest of the series.
+> **[1:15](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=75)** In this line chart, you can see data points that deviate from the [[Representational State Transfer (REST)|rest]] of the series.
 >
 > **[1:19](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=79)** Are these deviations important?
 >
@@ -2872,7 +2840,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=138)** With this service, you can easily apply models to your data without needing to know machine learning.
 >
-> **[2:23](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=143)** It offers a range of APIs and a web-based workspace for data ingestion, anomaly detection, and diagnostics.
+> **[2:23](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=143)** It offers a range of APIs and a web-based workspace for [[Data Ingestion]], anomaly detection, and diagnostics.
 >
 > **[2:31](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/detect-anomalies-with-azure-metrics-advisor?u=76281980&t=151)** Essentially, it takes your data, analyzes it, and identifies any incidents or inconsistencies.
 >
@@ -2896,15 +2864,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Microsoft Azure|Azure]] (3), web (2), [[Algorithms]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Algorithms]] (1), [[E-Commerce]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Ingestion]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Unlock smarter search with Azure Cognitive Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980)
+#### [Unlock smarter search with Azure Cognitive Search](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2916,15 +2883,15 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=14)** With the vast amounts of data we accumulate, we still need a good system to efficiently search through our digital stockpile and locate the information we need.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=21)** Azure Cognitive Search is a cloud-based search service that enables developers to add sophisticated search capabilities to their applications.
+> **[0:21](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=21)** [[Microsoft Azure|Azure]] Cognitive Search is a cloud-based search service that enables developers to add sophisticated search capabilities to their applications.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=29)** With Azure Cognitive Search, you can easily create search indexes for your data and use advanced algorithms to provide powerful search capabilities, such as fuzzy matching, synonyms, and faceting.
+> **[0:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=29)** With Azure Cognitive Search, you can easily create search indexes for your data and use advanced [[Algorithms]] to provide powerful search capabilities, such as fuzzy matching, synonyms, and faceting.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=40)** Azure Cognitive Search offers several benefits for your application, including simplifying the development and delivery of search solutions by integrating with Azure storage solutions and providing easy-to-use RESTful APIs and SDKs.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=53)** You can use it for advanced deep learning models from Microsoft Research and Bing to provide contextual and relevant results for your users.
+> **[0:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=53)** You can use it for advanced [[Deep Learning]] models from [[Microsoft]] Research and Bing to provide contextual and relevant results for your users.
 >
-> **[1:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=61)** Use it to employ semantic search capability to better understand the intent of customer search terms, offer improved results, and drive deeper customer engagement.
+> **[1:01](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=61)** Use it to employ [[Semantic Search]] capability to better understand the intent of customer search terms, offer improved results, and drive deeper customer engagement.
 >
 > **[1:09](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=69)** Semantic search is a data-searching technique that uses the intent and contextual meaning behind a search query to deliver more relevant results.
 >
@@ -2970,7 +2937,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=208)** This is helpful when dealing with data that may contain typos or misspellings.
 >
-> **[3:32](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=212)** For example, if a user searches for one of these misspelled versions of London, fuzzy string matching would identify that London was the intended word and that the search engine would return results for London.
+> **[3:32](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=212)** For example, if a user searches for one of these misspelled versions of London, fuzzy string matching would identify that London was the intended [[Microsoft Word|word]] and that the search engine would return results for London.
 >
 > **[3:43](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=223)** Fuzzy matching can be used to match words that have different spellings in different regions.
 >
@@ -2992,13 +2959,13 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=286)** Why not add Azure Cognitive Search to your applications?
 >
-> **[4:49](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=289)** With features like faceted search, fuzzy matching, and natural language processing, you can create search experiences that are both powerful and user-friendly.
+> **[4:49](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=289)** With features like faceted search, fuzzy matching, and [[Natural Language Processing (NLP)|natural language processing]], you can create search experiences that are both powerful and user-friendly.
 >
 > **[4:58](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/unlock-smarter-search-with-azure-cognitive-search?u=76281980&t=298)** Plus, with customizable search capabilities and seamless integration with the other Azure services, you can easily build modern search experiences.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (37), data (16), [[Microsoft Azure|Azure]] (8), [[Semantic Search]] (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Semantic Search]] (3), [[Algorithms]] (2), [[Microsoft Word|Word]] (2), [[Deep Learning]] (1)
 > **Analogies:** for example (5), such as (4)
 > **CLI Commands:** find (5), make (2)
 > **Definitions:** is a  (3), means that (2), in other words (1)
@@ -3009,8 +2976,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reveal genetic insights with Microsoft Genomics
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980)
+#### [Reveal genetic insights with Microsoft Genomics](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3018,7 +2984,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=8)** By analyzing this information, researchers can understand the causes of diseases, identify drug targets, and develop personalized treatment plans.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=17)** Microsoft Genomics provides tools and services for processing, analyzing, and interpreting genomic data at scale.
+> **[0:17](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=17)** [[Microsoft]] Genomics provides tools and services for processing, analyzing, and interpreting genomic data at scale.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=24)** It is a cloud service that helps with genome sequencing.
 >
@@ -3028,15 +2994,15 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=37)** It also offers predictable pricing for your sequencing needs so you can plan your budget.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=42)** It utilizes cloud computing to process and analyze vast amounts of genomic data.
+> **[0:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=42)** It utilizes [[Cloud Computing]] to process and analyze vast amounts of genomic data.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=47)** With Microsoft Azure, researchers and clinicians can rapidly scale their genomics workflows to handle even the largest data sets.
+> **[0:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=47)** With [[Microsoft Azure]], researchers and clinicians can rapidly scale their genomics workflows to handle even the largest data sets.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=54)** This enables faster, more accurate analysis and interpretation of the data, leading to more precise diagnosis and treatments.
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=62)** It uses AI to analyze and interpret genomic data.
 >
-> **[1:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=65)** By applying machine learning algorithms, researchers can identify patterns and associations that would be difficult to detect using traditional methods.
+> **[1:05](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=65)** By applying machine learning [[Algorithms]], researchers can identify patterns and associations that would be difficult to detect using traditional methods.
 >
 > **[1:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=73)** This enables more accurate predictions of disease risk, more targeted drug development, and more personalized treatment plans for patients.
 >
@@ -3046,9 +3012,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=95)** Microsoft Genomics is designed with security and compliance in mind.
 >
-> **[1:39](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=99)** Because it's built on Azure, it includes features such as encryption of data at rest and in transit, access controls and auditing capabilities to ensure that data is secure and compliant with industry standards.
+> **[1:39](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=99)** Because it's built on [[Microsoft Azure|Azure]], it includes features such as encryption of data at [[Representational State Transfer (REST)|rest]] and in transit, access controls and auditing capabilities to ensure that data is secure and compliant with industry standards.
 >
-> **[1:50](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=110)** Azure also has a comprehensive set of compliance offerings, including certifications for the US Health Insurance Portability and Accountability Act, also known as HIPAA.
+> **[1:50](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=110)** Azure also has a comprehensive set of compliance offerings, including certifications for the US Health Insurance Portability and [[Accountability]] Act, also known as HIPAA.
 >
 > **[2:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/reveal-genetic-insights-with-microsoft-genomics?u=76281980&t=120)** It's also GDPR compliant and supports many other certifications.
 >
@@ -3066,18 +3032,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft]] (3), cloud (3), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Azure|Azure]] (2), [[Cloud Computing]] (1), [[Microsoft Azure]] (1), [[Algorithms]] (1)
 > **Env Vars:** dna (3), rna (1), hipaa (1), gdpr (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhance content moderation with Azure AI Content Safety
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980)
+#### [Enhance content moderation with Azure AI Content Safety](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=0)** - [Instructor] Azure AI Content Safety is a content moderation platform that uses machine learning and other tools to keep your content safe.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI Content Safety is a content moderation platform that uses machine learning and other tools to keep your content safe.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=8)** We can use its powerful AI models to quickly detect offensive, risky, or other undesirable content.
 >
@@ -3087,7 +3052,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=26)** Content moderation is an important practice in many different industries.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=29)** For example, social messaging platforms, gaming companies and online marketplaces, all rely on content moderation to maintain a high standard of quality and safety for their users.
+> **[0:29](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=29)** For example, social [[Messaging Platforms]], gaming companies and online marketplaces, all rely on content moderation to maintain a high standard of quality and safety for their users.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=41)** By moderating user-generated content, these companies can ensure that their platforms remain free from inappropriate or harmful content.
 >
@@ -3103,17 +3068,17 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=88)** By leveraging these different services, the content moderation APIs in Azure are able to provide a comprehensive set of moderation capabilities that can be customized to meet the specific needs of your business.
 >
-> **[1:39](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=99)** The content moderator service can be accessed through REST APIs or by using the appropriate software development kit.
+> **[1:39](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=99)** The content moderator service can be accessed through [[Representational State Transfer (REST)|REST]] APIs or by using the appropriate [[Software Development]] kit.
 >
-> **[1:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=107)** The current supported languages in the Software Development Kit or SDK, are C Sharp, Java, and Python.
+> **[1:47](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=107)** The current supported languages in the Software Development Kit or SDK, are C Sharp, [[Java]], and [[Python (Programming Language)|Python]].
 >
 > **[1:53](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=113)** The service provides text moderation capabilities to help organizations detect potential offensive language, personal information, and other types of unwanted content in their text-based content.
 >
-> **[2:04](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=124)** The service uses machine learning algorithms to analyze, text, and identify potentially inappropriate content based on a set of predefined rules and criteria.
+> **[2:04](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=124)** The service uses machine learning [[Algorithms]] to analyze, text, and identify potentially inappropriate content based on a set of predefined rules and criteria.
 >
 > **[2:13](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=133)** These rules can be customized to meet the specific needs of your organization.
 >
-> **[2:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=138)** It's important to note, you can specify your own custom word list.
+> **[2:18](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=138)** It's important to note, you can specify your own custom [[Microsoft Word|word]] list.
 >
 > **[2:22](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/enhance-content-moderation-with-azure-ai-content-safety?u=76281980&t=142)** You get to choose the rules that apply to your customer-submitted content.
 >
@@ -3139,7 +3104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (2), [[Software Development]] (2), application (1), [[Messaging Platforms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Software Development]] (2), [[Messaging Platforms]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Java]] (1)
 > **Env Vars:** rest (1), sdk (1), api (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** python (1)
@@ -3151,8 +3116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3160,7 +3124,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=3)** It's been a journey.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=4)** We explored a range of Azure AI services.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=4)** We explored a range of [[Microsoft Azure|Azure]] AI services.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=8)** Perhaps you are wondering what to do next.
 >
@@ -3172,11 +3136,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=27)** If you like this broad overview of a topic, check out my three-and-a-half hour Azure: Understanding the Big Picture course.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=35)** I have other Azure-specific topics like [[Azure DevOps for Beginners]], Azure AI Security, and Azure AI Studio.
+> **[0:35](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=35)** I have other Azure-specific topics like [[Azure [[DevOps]] for Beginners]], Azure [[AI Security]], and [[Azure AI Studio]].
 >
 > **[0:42](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=42)** When you tire of Azure topics, I have courses on C#, .Net, Visual Studio and many more.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=48)** Last time I checked, I have over 90 courses here on LinkedIn Learning.
+> **[0:48](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=48)** Last time I checked, I have over 90 courses here on [[LinkedIn]] Learning.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-ai-the-big-picture-23676334/next-steps?u=76281980&t=52)** Thanks so much for watching this course.
 >
@@ -3188,7 +3152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), ai (3), next (1), [[DevOps]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[DevOps]] (1), [[AI Security]] (1), [[Azure AI Studio]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** visual studio (1)
 > **Analogies:** picture (1)

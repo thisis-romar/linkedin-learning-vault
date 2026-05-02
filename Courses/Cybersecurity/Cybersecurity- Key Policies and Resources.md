@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating cybersecurity: Essential policies and resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980)
+#### [Navigating cybersecurity: Essential policies and resources](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,9 +85,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980&t=16)** Many of these attacks are repelled by good cyber defenses.
 >
-> **[0:20](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980&t=20)** But the ones that succeed come at enormous costs to our data, our privacy, and often, our wallets.
+> **[0:20](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980&t=20)** But the ones that succeed come at enormous costs to our data, our [[Privacy]], and often, our wallets.
 >
-> **[0:28](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980&t=28)** I'm Gregory Michaelidis, and for more than 15 years, I've advised senior officials in government and in the public and private sectors on better understanding and communicating about the cybersecurity risks they face.
+> **[0:28](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980&t=28)** I'm Gregory Michaelidis, and for more than 15 years, I've advised senior officials in government and in the public and private sectors on better understanding and communicating about the [[Cybersecurity]] risks they face.
 >
 > **[0:41](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980&t=41)** You'll learn about the latest policies and resources out there to help you, your family, and your workplace become more secure and resilient.
 >
@@ -96,15 +95,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Privacy]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Cybersecurity]] (1)
 > **Speakers:** - [gregory] (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-is-this-course-for?u=76281980&t=0)** - [Instructor] This course will be relevant to learners regardless of their skill level or knowledge of cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-is-this-course-for?u=76281980&t=0)** - [Instructor] This course will be relevant to learners regardless of their skill level or knowledge of [[Cybersecurity]].
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-is-this-course-for?u=76281980&t=6)** The steps and resources I talk about are generally non-technical and can be powerful tools to make yourself and your organization more secure against many of the most common cyber threats.
 >
@@ -114,7 +112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -123,12 +121,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The cooperative origins of the internet
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980)
+#### [The cooperative origins of the internet](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=0)** - [Narrator] Consider a few data points about the size of the cybersecurity problem.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=0)** - [Narrator] Consider a few data points about the size of the [[Cybersecurity]] problem.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=5)** By one estimate, the global cost of cybercrime could reach $10 trillion a year by 2025.
 >
@@ -146,7 +143,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=52)** And since the Internet itself is global and evolved from a collaborative, sometimes chaotic process, imposing rules for everyone to follow can be difficult.
 >
-> **[1:02](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=62)** The digital networks we now rely on had their origin in several fields of applied math, especially cryptography and electrical engineering.
+> **[1:02](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=62)** The digital networks we now rely on had their origin in several fields of applied math, especially [[Cryptography]] and electrical engineering.
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=72)** During World War II and throughout the Cold War, academic and military research, much, but not all American, sparked innovations that eventually led to an extraordinary array of technologies, including microprocessors, the global positioning system, and the Internet itself.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=191)** Some argue it shouldn't be managed or policed at all.
 >
-> **[3:14](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=194)** Others, usually governments and countries with less political and social freedom, seek to exercise a high level of control over content and rules about privacy.
+> **[3:14](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=194)** Others, usually governments and countries with less political and social freedom, seek to exercise a high level of control over content and rules about [[Privacy]].
 >
 > **[3:24](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980&t=204)** Who is in charge and what rules should apply remains a topic for debate.
 >
@@ -186,21 +183,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Cybersecurity]] (2), data (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Cryptography]] (1), [[Privacy]] (1)
 > **Env Vars:** arpanet (3), arpa (1), cern (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### The market incentives and disincentives for security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980)
+#### [The market incentives and disincentives for security](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=0)** - [Narrator] As we just saw, the Internet's cooperative origins contributed to its remarkable creativity and transparency, but it also gave almost free reign to those with bad intentions, including those looking to steal, break, interrupt, or empower their very real criminal pursuits.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=19)** In this video, we address the question, "What is the role of the marketplace in addressing cybersecurity?"
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=19)** In this video, we address the question, "What is the role of the marketplace in addressing [[Cybersecurity]]?"
 >
-> **[0:25](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=25)** Or asked another way, "If we presume technology companies should want to protect their users' data and privacy, how did the security problem get this bad?
+> **[0:25](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=25)** Or asked another way, "If we presume technology companies should want to protect their users' data and [[Privacy]], how did the security problem get this bad?
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=36)** And what, if anything, can we do about it?"
 >
@@ -208,11 +204,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=49)** In fact, up until the early nineties, authenticated users were largely exchanging text and data person-to-person or within defined groups.
 >
-> **[0:59](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=59)** Beginning in the 1960s, researchers and then-private businesses began using new computer languages like COBOL, FORTRAN, and BASIC to program large databases and run many aspects of their organization.
+> **[0:59](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=59)** Beginning in the 1960s, researchers and then-private businesses began using new computer languages like COBOL, FORTRAN, and BASIC to program large [[Databases]] and run many aspects of their organization.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=73)** Few people could anticipate that in a more networked world, you'd not only be just a few clicks or commands away from your favorite user groups and forums, but also the vast troves of sensitive corporate and government data that was quickly migrating online.
 >
-> **[1:29](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=89)** Today, there's a massive industry to cybersecurity products and services, but too often over the past three decades, many smaller hardware and software developers treated security as a second tier concern at best.
+> **[1:29](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=89)** Today, there's a massive industry to cybersecurity [[Microsoft Products|products]] and services, but too often over the past three decades, many smaller [[Hardware]] and software developers treated security as a second tier concern at best.
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-market-incentives-and-disincentives-for-security?u=76281980&t=103)** Noted security expert, Bruce Schneier, has smartly and bravely written of the need for additional forward-looking regulation to help correct the market failure that today, provides little incentive for all but the biggest technology players to invest in security.
 >
@@ -228,13 +224,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (4), data (3), [[Microsoft Products|Products]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Microsoft Products|Products]] (2), [[Privacy]] (1), [[Databases]] (1), [[Hardware]] (1)
 > **Env Vars:** cobol (1), fortran (1), basic (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### The role of users in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-role-of-users-in-cybersecurity?u=76281980)
+#### [The role of users in cybersecurity](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-role-of-users-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -242,7 +237,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-role-of-users-in-cybersecurity?u=76281980&t=8)** Most malware is delivered by text or email to people, often under guise of fake invoices or password reset requests because manipulating human behavior is cheap and effective, yet multiple surveys show that Americans tend to ignore even the most basic security measures with their own digital devices.
 >
-> **[0:28](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-role-of-users-in-cybersecurity?u=76281980&t=28)** There's some evidence Americans are getting better at spotting phishing scams via email and text, but the public does poorly when it comes to understanding or implementing two-factor authentication on their devices and online accounts.
+> **[0:28](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-role-of-users-in-cybersecurity?u=76281980&t=28)** There's some evidence Americans are getting better at spotting [[Phishing]] scams via email and text, but the public does poorly when it comes to understanding or implementing two-factor authentication on their devices and online accounts.
 >
 > **[0:43](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-role-of-users-in-cybersecurity?u=76281980&t=43)** So how to do better?
 >
@@ -264,7 +259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Phishing]] (1), next (1), product (1), power (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -274,12 +269,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Who does what in the federal government?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980)
+#### [Who does what in the federal government?](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=0)** - [Instructor] Because the federal government collects and uses so much data, cybersecurity is a fundamental part of what it does.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=0)** - [Instructor] Because the federal government collects and uses so much data, [[Cybersecurity]] is a fundamental part of what it does.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=8)** What you may not know, however, is that the federal government also manages a range of programs and awareness campaigns to help the public and small businesses keep their own data and networks safe.
 >
@@ -307,7 +301,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=106)** We'll learn more in a later chapter about how CISA works with the private sector to make our infrastructure more secure and resilient.
 >
-> **[1:55](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=115)** Another key federal agency working on cybersecurity is the National Institute of Standards and Technology, or NIST.
+> **[1:55](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=115)** Another key federal agency working on cybersecurity is the National Institute of Standards and Technology, or [[NIST]].
 >
 > **[2:03](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=123)** NIST regularly updates its Cybersecurity Framework, which is a set of questions and procedures that are widely used by organizations to assess risk and align security to meet that risk.
 >
@@ -317,27 +311,26 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=160)** The Small Business Administration site has a clear, easy-to-understand set of best practices and links to protect your business, use limited budgets wisely and also engage your employees in effective cyber safety training.
 >
-> **[2:56](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=176)** And finally, during Cyber Security Awareness Month each October, there are lots of events online and in communities across the country, as well as a host of online tools to engage and inform you and your family.
+> **[2:56](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=176)** And finally, during Cyber [[Security Awareness]] Month each October, there are lots of events online and in communities across the country, as well as a host of online tools to engage and inform you and your family.
 >
 > **[3:12](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980&t=192)** The National Cybersecurity Alliance, which is funded by CISA, coordinates the awareness month and has lots of free tools and helpful suggestions year round on their site at [staysafeonline.org](https://staysafeonline.org).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Security]] (4), business (4), data (3), [[NIST]] (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[NIST]] (3), [[Security Awareness]] (1)
 > **Env Vars:** cisa (6), nist (3), ftc (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [cisa.gov](https://cisa.gov) (1), [staysafeonline.org](https://staysafeonline.org) (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy and consumer protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980)
+#### [Privacy and consumer protection](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=0)** - [Narrator] One area of particular interest for the federal government going back almost 50 years is protecting the privacy of individuals whose information is stored by the government.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=0)** - [Narrator] One area of particular interest for the federal government going back almost 50 years is protecting the [[Privacy]] of individuals whose information is stored by the government.
 >
-> **[0:11](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=11)** Today, the government increasingly is being called upon to protect the data privacy of consumers from being abused by companies, including big name social media firms.
+> **[0:11](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=11)** Today, the government increasingly is being called upon to protect the [[Data Privacy]] of consumers from being abused by companies, including big name social media firms.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=21)** The privacy field is extremely complex and for individuals, it can be a blurry line between losing control of your personal information because of lax rules and policies, and losing it because of a hacking or a security breach.
 >
@@ -367,11 +360,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=119)** Until the 1990s, federal law didn't really address the network technologies that had been evolving for a few decades, largely because the networks themselves were limited to so few academic and defense researchers.
 >
-> **[2:11](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=131)** That began to change with the passage of the 1996 Health Insurance Portability and Accountability Act, or HIPAA, which created new categories for consumer data protection.
+> **[2:11](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=131)** That began to change with the passage of the 1996 Health Insurance Portability and [[Accountability]] Act, or HIPAA, which created new categories for consumer data protection.
 >
 > **[2:23](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=143)** HIPAA expanded the idea of PII to include protected health information.
 >
-> **[2:29](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=149)** You've probably seen HIPAA in action if you've ever been asked to sign consent to have your medical information shared with your hospital or doctor's office.
+> **[2:29](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=149)** You've probably seen HIPAA in action if you've ever been asked to sign consent to have your medical information shared with your hospital or doctor's [[Microsoft Office|office]].
 >
 > **[2:37](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=157)** So what can you do?
 >
@@ -379,7 +372,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=164)** There's already a lot of information about you and your family members out there in the hands of data brokers, but that doesn't mean there aren't ways to reduce your risk and to get smarter about protecting your private data.
 >
-> **[2:56](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=176)** First, think of data privacy and cybersecurity as two aspects of the same broader issue.
+> **[2:56](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=176)** First, think of data privacy and [[Cybersecurity]] as two aspects of the same broader issue.
 >
 > **[3:02](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-and-consumer-protection?u=76281980&t=182)** Control over your assets and information.
 >
@@ -399,7 +392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (13), data (8), [[Security]] (5), [[Accountability]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (9), [[Data Privacy]] (4), [[Accountability]] (1), [[Microsoft Office|Office]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** pii (4), hipaa (3)
 > **Warnings:** be aware (2), be careful (1)
 > **Analogies:** such as (1), for example (1)
@@ -408,8 +401,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Contacting law enforcement
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/contacting-law-enforcement?u=76281980)
+#### [Contacting law enforcement](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/contacting-law-enforcement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -419,7 +411,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/contacting-law-enforcement?u=76281980&t=19)** First, it helps to know about the main categories of cybercrimes.
 >
-> **[0:23](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/contacting-law-enforcement?u=76281980&t=23)** They include email compromises of your business or personal accounts, identity theft, ransomware, which we'll discuss in greater detail later, spoofing or phishing, which essentially are attacks by email or text by fake or pretend accounts, child predation, and a myriad of online fraud schemes.
+> **[0:23](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/contacting-law-enforcement?u=76281980&t=23)** They include email compromises of your business or personal accounts, identity theft, ransomware, which we'll discuss in greater detail later, spoofing or [[Phishing]], which essentially are attacks by email or text by fake or pretend accounts, child predation, and a myriad of online fraud schemes.
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/contacting-law-enforcement?u=76281980&t=44)** There's also a growing problem online with incidents like cyberbullying, stalking, and doxxing, where someone's personal information is stolen and posted online.
 >
@@ -457,7 +449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), business (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Phishing]] (2)
 > **Env Vars:** fbi (3), ic3 (2), dhs (1), ice (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -468,14 +460,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### International bodies and organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980)
+#### [International bodies and organizations](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=0)** - [Presenter] The internet is inherently global and international.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=4)** When you search for something, stream music or a video like this one, or download a file, you are crossing national and international boundaries in milliseconds, literally tapping into a worldwide network of physical servers, optical fiber cables, and all the hardware and software that sits in between.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=4)** When you search for something, stream music or a video like this one, or download a file, you are crossing national and international boundaries in milliseconds, literally tapping into a worldwide network of physical servers, optical fiber cables, and all the [[Hardware]] and software that sits in between.
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=23)** It's already an astonishing feat of science and engineering when you think about it.
 >
@@ -489,7 +480,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=67)** Consensus is still key to its governance.
 >
-> **[1:10](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=70)** For example, the International Telecommunications Union or ITU, is a UN agency with 193 member states that coordinates issues such as global use of the radio spectrum.
+> **[1:10](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=70)** For example, the International [[Telecommunications]] Union or ITU, is a UN agency with 193 member states that coordinates issues such as global use of the radio spectrum.
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=84)** Another key collaboration is the nonprofit ICANN or Internet Cooperation for Assigned Names and Numbers.
 >
@@ -497,7 +488,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=95)** It assigns countries their unique internet suffix and also manages the process of creating top level domains such as .com, .edu, or .eu.
 >
-> **[1:46](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=106)** To maintain a high level of security for the so-called domain name system or DNS, as well as transparency with its thousands of members and partners worldwide, ICANN actually conduct a regular convening at numerous locations around the world where new encryption keys are updated and shared.
+> **[1:46](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=106)** To maintain a high level of security for the so-called [[Domain Name System (DNS)|domain name system]] or DNS, as well as transparency with its thousands of members and partners worldwide, ICANN actually conduct a regular convening at numerous locations around the world where new encryption keys are updated and shared.
 >
 > **[2:05](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=125)** The US gave up its formal control over the DNS in 2016 and the authority for this vital aspect of information security now rests with the international community through ICANN.
 >
@@ -513,31 +504,30 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=197)** In fact, in their 2022 Freedom of the Net report, Freedom House ranks only 18% of countries as being free with the majority being partly free or not free.
 >
-> **[3:30](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=210)** That certainly doesn't mean you should avoid these countries altogether, but you absolutely should do your research ahead of time about what to do and what not to do with mobile devices, apps, and data storage units.
+> **[3:30](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980&t=210)** That certainly doesn't mean you should avoid these countries altogether, but you absolutely should do your research ahead of time about what to do and what not to do with mobile devices, apps, and [[Data Storage]] units.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (2), dns (2), [[Search]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Telecommunications]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Data Storage]] (1)
 > **Env Vars:** icann (4), dns (2), itu (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [presenter] (1)
 
-#### Privacy in the European Union
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980)
+#### [Privacy in the European Union](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=0)** - [Narrator] Just as internet freedom varies greatly from country to country, the laws that govern data privacy vary greatly as well.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=0)** - [Narrator] Just as internet freedom varies greatly from country to country, the laws that govern [[Data Privacy]] vary greatly as well.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=8)** Privacy law gets pretty complex, pretty quickly.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=8)** [[Privacy]] law gets pretty complex, pretty quickly.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=12)** So here's a few key things you should know from an international perspective.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=17)** As I mentioned in the previous chapter, the United States has a peculiar approach to privacy, owing to its own legal history among other factors.
 >
-> **[0:25](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=25)** That leaves it with a patchwork of different laws and regulations, giving tech firms latitude to operate from places where laws about data collection are lax.
+> **[0:25](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=25)** That leaves it with a patchwork of different laws and regulations, giving tech firms latitude to operate from places where laws about [[Data Collection]] are lax.
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=35)** And here, the EU, or European Union, plays an increasingly important role.
 >
@@ -551,7 +541,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=72)** GDPR added requirements for companies to protect people's data against hacking or other unauthorized breaches.
 >
-> **[1:19](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=79)** Those data breaches can come back on ordinary users via phishing, spoofing, or malware campaigns.
+> **[1:19](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=79)** Those data breaches can come back on ordinary users via [[Phishing]], spoofing, or malware campaigns.
 >
 > **[1:25](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/privacy-in-the-european-union?u=76281980&t=85)** GDPR doesn't guarantee that won't happen, but it raises the stakes for companies who fail to implement strong information security procedures.
 >
@@ -565,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Privacy]] (5), [[Phishing]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Privacy]] (1), [[Data Collection]] (1), [[Phishing]] (1)
 > **Env Vars:** gdpr (8), wired (1), pii (1)
 > **Definitions:** known as (2)
 > **Cross-References:** previous chapter (1)
@@ -577,8 +567,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Combatting ransomware
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980)
+#### [Combatting ransomware](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +579,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=30)** At its simplest, ransomware refers to a cyber attack where the attacker seeks to hold something of value, such as your company's email system or client database for ransom until you pay their price.
 >
-> **[0:43](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=43)** Cyber criminals using this approach typically encrypt whatever data they can and then, in return for unlocking it, demand payment and Bitcoin or other cryptocurrency to reduce their chances of getting caught.
+> **[0:43](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=43)** Cyber criminals using this approach typically encrypt whatever data they can and then, in return for unlocking it, demand payment and Bitcoin or other [[Cryptocurrency]] to reduce their chances of getting caught.
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=57)** The last several years has seen an explosion of ransomware attacks, and it's unclear if these will abate anytime soon.
 >
@@ -602,7 +591,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=92)** The total damage worldwide is unknown, because few of the successful attacks are shared publicly.
 >
-> **[1:40](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=100)** The Cybersecurity and Infrastructure Security Agency, or CISA, reported that in 2021, 14 of the 16 federally designated critical infrastructure sectors were successfully targeted by a ransomware attack.
+> **[1:40](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=100)** The [[Cybersecurity]] and Infrastructure Security Agency, or CISA, reported that in 2021, 14 of the 16 federally designated critical infrastructure sectors were successfully targeted by a ransomware attack.
 >
 > **[1:55](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=115)** These attacks have hobbled city halls and social service agencies, shut down hospital services and threaten the safety of companies that supply our water, electricity and other vital services.
 >
@@ -620,7 +609,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=177)** So what should you do?
 >
-> **[2:59](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=179)** - Aside from increasing awareness about phishing and spoofing emails, the FBI recommends five steps that you and your organization should take right now.
+> **[2:59](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=179)** - Aside from increasing awareness about [[Phishing]] and spoofing emails, the FBI recommends five steps that you and your organization should take right now.
 >
 > **[3:09](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980&t=189)** First, keep operating systems, software, and applications current and up to date.
 >
@@ -636,7 +625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (2), [[Cybersecurity]] (2), database (1), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Cryptocurrency]] (1), [[Phishing]] (1)
 > **Env Vars:** fbi (2), ibm (1), cisa (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** refers to (1), known as (1)
@@ -644,12 +633,11 @@ created: 2026-05-02
 > **Versions:** 9.5 (1)
 > **Analogies:** such as (1)
 
-#### Protecting critical infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980)
+#### [Protecting critical infrastructure](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=0)** - [Instructor] Now let's take a closer look at one critical cybersecurity role for the federal government.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=0)** - [Instructor] Now let's take a closer look at one critical [[Cybersecurity]] role for the federal government.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=5)** That is maintaining the security of some of the most important networks and systems there are.
 >
@@ -657,7 +645,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=18)** CISA categorizes what needs to be protected using the acronym CIKR, for critical infrastructure and key resources.
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=27)** Their official description is that these are, quote, "Assets, systems and networks, whether physical or virtual "are considered so vital to the United States "that their incapacitation or destruction "would have a debilitating effect on security, "national economic security, "national public health or safety."
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=27)** Their official description is that these are, quote, "Assets, systems and networks, whether physical or virtual "are considered so vital to the United States "that their incapacitation or destruction "would have a debilitating effect on security, "national economic security, "national [[Public Health]] or safety."
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=45)** The US government puts critical infrastructure into 16 sectors, and these cover so much ground, there's a good chance that you or your business are connected to one or more of these sectors.
 >
@@ -685,7 +673,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=141)** CISA, together with other federal agencies, also maintains sector coordinating councils for each of the 16 sectors.
 >
-> **[2:28](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=148)** Essentially, these are like industry-specific public-private partnerships, say in energy, banking or in telecommunications.
+> **[2:28](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=148)** Essentially, these are like industry-specific public-private partnerships, say in energy, [[Banking]] or in [[Telecommunications]].
 >
 > **[2:36](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-critical-infrastructure?u=76281980&t=156)** Often, coordination within a particular sector happens via an information sharing and analysis center, or ISAC.
 >
@@ -703,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (3), [[Public Health]] (1), business (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Public Health]] (1), [[Banking]] (1), [[Telecommunications]] (1)
 > **Env Vars:** cisa (4), dhs (1), cikr (1), isac (1), pii (1)
 > **Warnings:** be aware (1), warning (1), note that (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -715,8 +703,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Personal security checkup
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980)
+#### [Personal security checkup](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,9 +713,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980&t=11)** Today, we are flooded with images and sounds, information and disinformation.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980&t=16)** Discerning fact from myth will only get more challenging as artificial intelligence becomes more mature and widespread.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980&t=16)** Discerning fact from myth will only get more challenging as [[Artificial Intelligence (AI)|artificial intelligence]] becomes more mature and widespread.
 >
-> **[0:24](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980&t=24)** So while cybersecurity can be a cause for anxiety, it's important to keep this key theme in mind.
+> **[0:24](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980&t=24)** So while [[Cybersecurity]] can be a cause for anxiety, it's important to keep this key theme in mind.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980&t=30)** It's not about achieving perfection, nor should you need to devote hours and hours to improving your security posture.
 >
@@ -752,7 +739,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980&t=88)** Third, think before you click.
 >
-> **[1:31](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980&t=91)** According to CISA, more than 90% of successful cyber attacks start with a phishing email.
+> **[1:31](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980&t=91)** According to CISA, more than 90% of successful cyber attacks start with a [[Phishing]] email.
 >
 > **[1:37](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980&t=97)** If you get a link you don't recognize, trust your instincts and use caution.
 >
@@ -772,18 +759,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cybersecurity]] (1), web (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cybersecurity]] (1), [[Phishing]] (1)
 > **Env Vars:** cisa (2)
 > **Cross-References:** coming up (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980)
+#### [Protecting your organization](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=0)** - [Instructor] As I've said before, cybersecurity isn't a lone pursuit.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=0)** - [Instructor] As I've said before, [[Cybersecurity]] isn't a lone pursuit.
 >
 > **[0:03](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=3)** It's a team sport.
 >
@@ -809,7 +795,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=66)** In this chapter, I'll highlight some of the best ways to increase security and resilience at your organization.
 >
-> **[1:14](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=74)** For those of you who are implementing your company's IT security policies or who are simply comfortable with the more technical side of cybersecurity, you should know about the National Institute of Standards and Technology, or NIST, and their Cybersecurity Framework.
+> **[1:14](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=74)** For those of you who are implementing your company's IT security policies or who are simply comfortable with the more technical side of cybersecurity, you should know about the National Institute of Standards and Technology, or [[NIST]], and their Cybersecurity Framework.
 >
 > **[1:30](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=90)** First released in 2014 and regularly updated, it's an important tool for organizations, especially those in one of the critical infrastructure sectors, to manage their cyber risk.
 >
@@ -823,13 +809,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=147)** And CISA's Shields Up offers good advice for organizations and CEOs.
 >
-> **[2:32](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=152)** You'll see that many of these resources tend to stress a basic set of actions that can go a long way to making you a tougher target: turning on two-factor authentication for your devices and accounts, using strong passphrases or passwords, continual patching and updating of systems, continual off-site backups of data, and regular employee training on phishing and insider threats.
+> **[2:32](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=152)** You'll see that many of these resources tend to stress a basic set of actions that can go a long way to making you a tougher target: turning on two-factor authentication for your devices and accounts, using strong passphrases or passwords, continual patching and updating of systems, continual off-site backups of data, and regular employee training on [[Phishing]] and insider threats.
 >
 > **[2:58](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/protecting-your-organization?u=76281980&t=178)** Getting yourself and your organization on board with these steps will go a long way toward improving your security posture.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Security]] (3), business (2), [[NIST]] (1), data (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[NIST]] (1), [[Phishing]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** nist (1), cisa (1)
 > **Definitions:** is a  (1)
@@ -840,12 +826,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/next-steps?u=76281980&t=0)** - [Gregory] Now that you made it to the end of the course, I hope that some of the cybersecurity resources and policies that exist seem less complex or scary.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/next-steps?u=76281980&t=0)** - [Gregory] Now that you made it to the end of the course, I hope that some of the [[Cybersecurity]] resources and policies that exist seem less complex or scary.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/next-steps?u=76281980&t=8)** When I tell people that I work in cybersecurity education, they often respond, "Oh, that sounds complicated.
 >

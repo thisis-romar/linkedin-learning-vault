@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-microsoft-365
 course_count: 6
 linkedin_topics:
   - Cloud Computing
-louvain_cluster: 8
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/cloud-computing

@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reinforcement learning in a nutshell
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980)
+#### [Reinforcement learning in a nutshell](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980&t=1)** An algorithm mastering the game of chess through trial and error, gradually improving its strategies with every move.
 >
-> **[0:10](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980&t=10)** That is the essence of reinforcement learning, a dynamic process where machines learn by interacting with the world, receiving feedback and refining their actions.
+> **[0:10](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980&t=10)** That is the essence of [[Reinforcement Learning]], a dynamic process where machines learn by interacting with the world, receiving feedback and refining their actions.
 >
 > **[0:23](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980&t=23)** In this course, we'll delve into the foundations of reinforcement learning, unraveling core concepts that drive machines to explore their environment, learn from experiences and make intelligent decisions.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), game (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2)
 > **Env Vars:** sarsa (2)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -122,14 +121,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Terms in reinforcement learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980)
+#### [Terms in reinforcement learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980&t=0)** - [Instructor] Before we get into the technical details, you first need to understand some very important terms that are common in reinforcement learning.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980&t=0)** - [Instructor] Before we get into the technical details, you first need to understand some very important terms that are common in [[Reinforcement Learning]].
 >
-> **[0:08](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980&t=8)** This will give you a better foundation for the rest of the course.
+> **[0:08](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980&t=8)** This will give you a better foundation for the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[0:12](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980&t=12)** First, let's talk about the agent.
 >
@@ -177,16 +175,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### A basic RL problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-problem?u=76281980)
+#### [A basic RL problem](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-problem?u=76281980&t=0)** - [Presenter] Now, how do you recognize a reinforcement learning problem?
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-problem?u=76281980&t=0)** - [Presenter] Now, how do you recognize a [[Reinforcement Learning]] problem?
 >
 > **[0:05](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-problem?u=76281980&t=5)** It has to have some or all of the properties stated in the previous lesson.
 >
@@ -258,23 +255,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), next (2)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (5)
 > **Definitions:** known as (3), is an  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Markov decision process
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980)
+#### [Markov decision process](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980&t=0)** - [Instructor] One very important topic left to discuss when describing a reinforcement learning problem, is the Markov decision process.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980&t=0)** - [Instructor] One very important topic left to discuss when describing a [[Reinforcement Learning]] problem, is the Markov decision process.
 >
 > **[0:09](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980&t=9)** You might have been wondering how everything discussed in the previous lesson is even possible mathematically, or even in code.
 >
 > **[0:18](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980&t=18)** Markov decision process, MDP in short, is how reinforcement learning problems are represented mathematically.
 >
-> **[0:26](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980&t=26)** Its variables include states, actions, rewards, one step dynamics of the environment, which is the states transition probability, and the discount factor.
+> **[0:26](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980&t=26)** Its variables include states, actions, rewards, one step dynamics of the environment, which is the states transition [[Probability]], and the discount factor.
 >
 > **[0:40](https://www.linkedin.com/learning/reinforcement-learning-foundations/markov-decision-process?u=76281980&t=40)** I know, I didn't mention discount factor before, so I'll do justice to that.
 >
@@ -348,7 +344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), [[Reinforcement Learning]] (2), next (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Reinforcement Learning]] (2)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** mdp (2)
@@ -356,8 +352,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### A basic RL solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-solution?u=76281980)
+#### [A basic RL solution](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -389,9 +384,9 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-solution?u=76281980&t=115)** This path is known as the optimal policy.
 >
-> **[2:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-solution?u=76281980&t=120)** Now let's look at various forms of the bellman equation.
+> **[2:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-solution?u=76281980&t=120)** Now let's look at various [[Forms]] of the bellman equation.
 >
-> **[2:04](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-solution?u=76281980&t=124)** Are there different ways to solve a reinforcement learning problem?
+> **[2:04](https://www.linkedin.com/learning/reinforcement-learning-foundations/a-basic-rl-solution?u=76281980&t=124)** Are there different ways to solve a [[Reinforcement Learning]] problem?
 
 > [!info]- Semantic Content
 >
@@ -406,8 +401,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monte Carlo method
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-method?u=76281980)
+#### [Monte Carlo method](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,12 +453,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Temporal difference methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980)
+#### [Temporal difference methods](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980&t=0)** - [Instructor] Temporal difference methods are the second major category of ways in which reinforcement learning agents learn.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980&t=0)** - [Instructor] Temporal difference methods are the second major category of ways in which [[Reinforcement Learning]] agents learn.
 >
 > **[0:08](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980&t=8)** Unlike the Monte Carlo method, temporary difference methods update the Q-table at every time step, instead of the end of every episode.
 >
@@ -474,7 +467,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980&t=37)** Note that this also works for episodic tasks.
 >
-> **[0:40](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980&t=40)** Considering a real world application of artificial intelligence systems like self-driving cars, the agent drive in the car needs to know if it's a slow down at the junction or maintain its speed.
+> **[0:40](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980&t=40)** Considering a real world application of [[Artificial Intelligence (AI)|artificial intelligence]] systems like self-driving cars, the agent drive in the car needs to know if it's a slow down at the junction or maintain its speed.
 >
 > **[0:53](https://www.linkedin.com/learning/reinforcement-learning-foundations/temporal-difference-methods?u=76281980&t=53)** If it has to wait after an episode before knowing the right action to take, it might have crashed into another vehicle and caused an accident.
 >
@@ -482,22 +475,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (1), application (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other RL algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/other-rl-algorithms?u=76281980)
+#### [Other RL algorithms](https://www.linkedin.com/learning/reinforcement-learning-foundations/other-rl-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/other-rl-algorithms?u=76281980&t=0)** - [Instructor] The Monte Carlo and temporal difference methods form the baseline to the many advanced reinforcement learning algorithms, which are all modifications of the Bellman equation.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/other-rl-algorithms?u=76281980&t=0)** - [Instructor] The Monte Carlo and temporal difference methods form the baseline to the many advanced [[Reinforcement Learning]] [[Algorithms]], which are all modifications of the Bellman equation.
 >
-> **[0:12](https://www.linkedin.com/learning/reinforcement-learning-foundations/other-rl-algorithms?u=76281980&t=12)** They include better ways of storing the agent's rewards, states, and actions as in deep reinforcement learning, agents learning by imitating other AI agents as in inverse reinforcement learning, or agents learning alongside other agents as in multi-agent reinforcement learning.
+> **[0:12](https://www.linkedin.com/learning/reinforcement-learning-foundations/other-rl-algorithms?u=76281980&t=12)** They include better ways of storing the agent's rewards, states, and actions as in deep reinforcement learning, agents learning by imitating other [[AI Agents]] as in inverse reinforcement learning, or agents learning alongside other agents as in multi-agent reinforcement learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (4), [[Algorithms]] (1), ai (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (4), [[Algorithms]] (1), [[AI Agents]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -505,8 +497,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The setting
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting-2?u=76281980)
+#### [The setting](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,12 +524,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploration and exploitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980)
+#### [Exploration and exploitation](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980&t=0)** - [Instructor] Exploration and exploitation are very important terms in reinforcement learning.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980&t=0)** - [Instructor] Exploration and exploitation are very important terms in [[Reinforcement Learning]].
 >
 > **[0:07](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980&t=7)** When an agent explores an environment, it tries to understand as much of the environment as possible.
 >
@@ -558,7 +548,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980&t=76)** To avoid missing actions that will lead to better rewards, the agent would not only select the best action to follow as it sees in the Q-table.
 >
-> **[1:25](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980&t=85)** If the Q-table says action right would yield the highest reward, action right will be selected with a 70% probability while other actions, left, forward and backwards will be selected with 10% probability each.
+> **[1:25](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980&t=85)** If the Q-table says action right would yield the highest reward, action right will be selected with a 70% [[Probability]] while other actions, left, forward and backwards will be selected with 10% probability each.
 >
 > **[1:41](https://www.linkedin.com/learning/reinforcement-learning-foundations/exploration-and-exploitation?u=76281980&t=101)** This way, the agents is exploring those other actions in that state more, and it might end up learning something better that will lead to a higher reward.
 >
@@ -574,8 +564,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monte Carlo prediction
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-prediction?u=76281980)
+#### [Monte Carlo prediction](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-prediction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,17 +590,16 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-prediction?u=76281980&t=77)** V pi S, T plus one, is the state value of the next state while ST is equal to S, implies that the whole equation is applicable to a current state S.
 >
-> **[1:29](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-prediction?u=76281980&t=89)** This equation is used to solve a reinforcement learning problem using the mark of decision process and thus interpreted directly in code as you'll see later in this course.
+> **[1:29](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-prediction?u=76281980&t=89)** This equation is used to solve a [[Reinforcement Learning]] problem using the mark of decision process and thus interpreted directly in code as you'll see later in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Reinforcement Learning]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (1)
 > **Cross-References:** we discussed (1), later in (1)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### First visit and every visit MC prediction
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/first-visit-and-every-visit-mc-prediction?u=76281980)
+#### [First visit and every visit MC prediction](https://www.linkedin.com/learning/reinforcement-learning-foundations/first-visit-and-every-visit-mc-prediction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,8 +629,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monte Carlo control
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-control?u=76281980)
+#### [Monte Carlo control](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -662,8 +649,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Additional modifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/additional-modifications?u=76281980)
+#### [Additional modifications](https://www.linkedin.com/learning/reinforcement-learning-foundations/additional-modifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,8 +705,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The setting
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980)
+#### [The setting](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,7 +717,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980&t=23)** Besides these obvious similarities, the Monte Carlo method has a high variance due to its randomness but isn't biased, while the temporal difference methods have low variance but are biased.
 >
-> **[0:37](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980&t=37)** This temporal difference methods exploit more of the Markov property, which holds when the conditional probability of future states depend only on the immediate past states.
+> **[0:37](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980&t=37)** This temporal difference methods exploit more of the Markov property, which holds when the conditional [[Probability]] of future states depend only on the immediate past states.
 >
 > **[0:49](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980&t=49)** By doing this, they seem to update the Q-table immediately only with information from the past state without waiting for a complete episode.
 >
@@ -745,14 +730,13 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Probability]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### SARSA
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsa?u=76281980)
+#### [SARSA](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsa?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsa?u=76281980&t=0)** - [Instructor] SARSA is the first form of temporary difference methods and is the acronym for, State Action Reward next State and next Action.
 >
-> **[0:11](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsa?u=76281980&t=11)** Which is the process taken by the agent to update the queue table and also mix up a complete reinforcement learning cycle.
+> **[0:11](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsa?u=76281980&t=11)** Which is the process taken by the agent to update the queue table and also mix up a complete [[Reinforcement Learning]] cycle.
 >
 > **[0:19](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsa?u=76281980&t=19)** Let's go back to the room with the orange fruits and see how the reward is updated in the queue table.
 >
@@ -820,7 +804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Reinforcement Learning]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (1)
 > **Env Vars:** sarsa (2)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
@@ -829,8 +813,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 
-#### SARSAMAX (Q-learning)
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsamax-q-learning?u=76281980)
+#### [SARSAMAX (Q-learning)](https://www.linkedin.com/learning/reinforcement-learning-foundations/sarsamax-q-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,15 +847,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5)
 > **Env Vars:** sarsamax (6), sarsa (3)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expected SARSA
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980)
+#### [Expected SARSA](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,7 +863,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=10)** Remember, with SARSAMAX, the greedy policy is used to select the action from the second state.
 >
-> **[0:17](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=17)** However, in expected SARSA, it uses the expected value of the next state-action pair, where this expected value takes into account the probability that the agent selects each possible action from the next state.
+> **[0:17](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=17)** However, in expected SARSA, it uses the expected value of the next state-action pair, where this expected value takes into account the [[Probability]] that the agent selects each possible action from the next state.
 >
 > **[0:34](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=34)** That is, there is an equal probability of selecting every action in the next state.
 >
@@ -890,7 +871,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=54)** All these temporal difference methods have different situations they favor, even though they all converged to the optimal action value function, leading to an optimal policy.
 >
-> **[1:06](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=66)** SARSA and expected SARSA are both known as on-policy temporal difference algorithms because they use the same policy to pick an action for the current and next state, while Q-learning, or SARSAMAX, is known as an off-policy temporal difference control method because it uses a different policy to select different actions.
+> **[1:06](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=66)** SARSA and expected SARSA are both known as on-policy temporal difference [[Algorithms]] because they use the same policy to pick an action for the current and next state, while Q-learning, or SARSAMAX, is known as an off-policy temporal difference control method because it uses a different policy to select different actions.
 >
 > **[1:30](https://www.linkedin.com/learning/reinforcement-learning-foundations/expected-sarsa?u=76281980&t=90)** The on-policy methods are better for continuous tasks and in general, while the off-policy method, Q-learning, works best for episodic tasks.
 >
@@ -898,7 +879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Probability]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Algorithms]] (1)
 > **Env Vars:** sarsa (6), sarsamax (3)
 > **Definitions:** known as (2), is an  (1)
 > **UI Navigation:** select the (2)
@@ -911,12 +892,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deep reinforcement learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980)
+#### [Deep reinforcement learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980&t=0)** - [Instructor] In the course so far, we have considered reinforcement learning in its most basic form, understanding how it all works, the way an agent learns in a state, how the action values for each action is taught in the Q-Table.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980&t=0)** - [Instructor] In the course so far, we have considered [[Reinforcement Learning]] in its most basic form, understanding how it all works, the way an agent learns in a state, how the action values for each action is taught in the Q-Table.
 >
 > **[0:16](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980&t=16)** We also know that for the agent to perform well and take better actions, it needs to have tried many many actions to have learned properly.
 >
@@ -926,7 +906,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980&t=34)** Yeah, very, very big.
 >
-> **[0:37](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980&t=37)** And that's where deep learning comes in, to help make reinforcement learning more effective, and makes it easier to handle the larger information space.
+> **[0:37](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980&t=37)** And that's where [[Deep Learning]] comes in, to help make reinforcement learning more effective, and makes it easier to handle the larger information space.
 >
 > **[0:46](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980&t=46)** The neural network takes as inputs the information that the agent has on the environment, and all possible actions that can be taken in the states, and predicts the reward for every possible action, before taking an action.
 >
@@ -936,12 +916,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), [[Deep Learning]] (1), ai (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), [[Deep Learning]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-agent reinforcement learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980)
+#### [Multi-agent reinforcement learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,32 +928,31 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=5)** How about the learning in a situation that is more realistic, with different agents?
 >
-> **[0:12](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=12)** They can be trained using reinforcement learning to reach a common goal.
+> **[0:12](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=12)** They can be trained using [[Reinforcement Learning]] to reach a common goal.
 >
 > **[0:16](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=16)** This means they are cooperative, or they could have different goals, this makes them competitive.
 >
 > **[0:24](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=24)** Or they could be general, neither cooperative, nor competitive.
 >
-> **[0:30](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=30)** This makes us develop safe artificial intelligence systems, that learn in the same setting, as they are supposed to perform with others.
+> **[0:30](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=30)** This makes us develop safe [[Artificial Intelligence (AI)|artificial intelligence]] systems, that learn in the same setting, as they are supposed to perform with others.
 >
 > **[0:40](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=40)** For example, if you're training a group of reinforcement learning agents to play football, those on the same team will have to act cooperatively, to score goals, while agents in opposite teams will be competitive.
 >
 > **[0:54](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=54)** Another typical example, is with autonomous vehicles.
 >
-> **[0:58](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=58)** Multiple agents could be made to drive cars in simulation, and learn from each other.
+> **[0:58](https://www.linkedin.com/learning/reinforcement-learning-foundations/multi-agent-reinforcement-learning?u=76281980&t=58)** Multiple agents could be made to drive cars in [[Simulation]], and learn from each other.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), teams (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Simulation]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inverse reinforcement learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/inverse-reinforcement-learning?u=76281980)
+#### [Inverse reinforcement learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/inverse-reinforcement-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/inverse-reinforcement-learning?u=76281980&t=0)** - [Instructor] Imitation learning is another type of reinforcement learning that you should know about.
+> **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/inverse-reinforcement-learning?u=76281980&t=0)** - [Instructor] Imitation learning is another type of [[Reinforcement Learning]] that you should know about.
 >
 > **[0:04](https://www.linkedin.com/learning/reinforcement-learning-foundations/inverse-reinforcement-learning?u=76281980&t=4)** One of the many ways it's achieved, is through inverse reinforcement learning.
 >
@@ -1002,14 +980,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your reinforcement learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980)
+#### [Your reinforcement learning journey](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=0)** - [Khaulat] Congratulations, and thank you for making it to the end of this course.
 >
-> **[0:05](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=5)** Now that you understand reinforcement learning, I believe let's do a quick test.
+> **[0:05](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=5)** Now that you understand [[Reinforcement Learning]], I believe let's do a quick test.
 >
 > **[0:10](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=10)** Pause this video and take 30 seconds to answer the question, what is reinforcement learning, in the question and answer section.
 >
@@ -1021,13 +998,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=43)** If you're a product manager, a machine learning developer, or a researcher, you already know what you want to do with your knowledge from this course.
 >
-> **[0:51](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=51)** However, if you're new to the field of artificial intelligence, I have some suggestions for you.
+> **[0:51](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=51)** However, if you're new to the field of [[Artificial Intelligence (AI)|artificial intelligence]], I have some suggestions for you.
 >
-> **[0:58](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=58)** First, learn about the other machine learning techniques for supervised and unsupervised learning, learn more about neural networks and deep neural networks, understand what deep learning is before you dive into deep reinforcement learning.
+> **[0:58](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=58)** First, learn about the other machine learning techniques for supervised and unsupervised learning, learn more about [[Neural Networks]] and deep neural networks, understand what [[Deep Learning]] is before you dive into deep reinforcement learning.
 >
-> **[1:14](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=74)** There happens to be some great resources on LinkedIn Learning, so you don't have to go far.
+> **[1:14](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=74)** There happens to be some great resources on [[LinkedIn]] Learning, so you don't have to go far.
 >
-> **[1:19](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=79)** I also have some projects I've personally worked on with reinforcement learning at khaulat.[github.io](https://github.io).
+> **[1:19](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=79)** I also have some projects I've personally worked on with reinforcement learning at khaulat.[[[GitHub]].io](https://github.io).
 >
 > **[1:28](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980&t=88)** If you have any questions during your learning journey, you can always ask in the question and answer section.
 >
@@ -1039,7 +1016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), [[Neural Networks]] (2), [[LinkedIn]] (2), product (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (5), [[Neural Networks]] (2), [[LinkedIn]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Deep Learning]] (1)
 > **URLs:** [github.io](https://github.io) (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)

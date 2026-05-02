@@ -98,8 +98,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing the lens of AI governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/developing-the-lens-of-ai-governance?u=76281980)
+#### [Developing the lens of AI governance](https://www.linkedin.com/learning/introduction-to-ai-governance/developing-the-lens-of-ai-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-ai-governance/developing-the-lens-of-ai-governance?u=76281980&t=10)** It starts with a mindset shift to spot the opportunities for implementing these frameworks.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-ai-governance/developing-the-lens-of-ai-governance?u=76281980&t=16)** Then we will move into seamlessly embedding ethics throughout the AI lifecycle, and we will talk about this from both the atomic developer level and the larger organization.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-ai-governance/developing-the-lens-of-ai-governance?u=76281980&t=16)** Then we will move into seamlessly embedding [[Ethics]] throughout the AI lifecycle, and we will talk about this from both the atomic developer level and the larger organization.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-ai-governance/developing-the-lens-of-ai-governance?u=76281980&t=30)** I am Vidhi Chugh. I'm an AI strategist and futurist, and I love helping organizations in their AI transformation journey.
 >
@@ -119,7 +118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [vidhi] (1)
 
@@ -128,12 +127,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of AI governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980)
+#### [Overview of AI governance](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=0)** - [Presenter] Generative AI has taken everyone by surprise and shown immense potential in comprehending language like never before.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=0)** - [Presenter] [[Generative AI]] has taken everyone by surprise and shown immense potential in comprehending language like never before.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=7)** It has become high stakes in boardroom discussions and is set to disrupt many of the ways businesses operate.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=51)** Not really.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=52)** Some of the risk persist from the pre-generative AI era, such as inheriting or at times amplifying bias from the training data, violating privacy by exposing sensitive user information without consent, lack of transparency in AI's decision making that impedes trust in its finding, subsequently creating a barrier to its adoption, and the notion of AI bringing efficiencies, resulting in loss of jobs for profiles requiring basic cognitive and manual skills like retail, salespersons, and customer service.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=52)** Some of the risk persist from the pre-generative AI era, such as inheriting or at times amplifying bias from the training data, violating [[Privacy]] by exposing sensitive user information without consent, lack of transparency in AI's decision making that impedes trust in its finding, subsequently creating a barrier to its adoption, and the notion of AI bringing efficiencies, resulting in loss of jobs for profiles requiring basic cognitive and manual skills like retail, salespersons, and customer service.
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=87)** With generative AI that can create new data, additional risk emerge that require urgent attention.
 >
@@ -165,13 +163,13 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=160)** As we have just seen, generative AI applications present unique risk and challenges, which necessitate a more comprehensive approach to regulate and govern advanced AI systems.
 >
-> **[2:53](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=173)** That's exactly what AI governance seems to do.
+> **[2:53](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=173)** That's exactly what [[AI Governance]] seems to do.
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=176)** However, most people think of governance as restrictive.
 >
 > **[3:01](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=181)** When I'm consulting with clients, the first impression of governance is it hinders business growth.
 >
-> **[3:07](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=187)** I feel that sentiment comes from the need to ship products faster, which is driven by catering to what is imminent.
+> **[3:07](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=187)** I feel that sentiment comes from the need to ship [[Microsoft Products|products]] faster, which is driven by catering to what is imminent.
 >
 > **[3:15](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980&t=195)** At a broader level, governance, in fact, allows us to foster innovation by harnessing the upside of AI while effectively managing its potential risk.
 >
@@ -179,18 +177,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (9), ai (6), data (4), [[Privacy]] (1), business (1)
+> **Frameworks & Libraries:** [[Generative AI]] (9), [[Privacy]] (1), [[AI Governance]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
 > **Speakers:** - [presenter] (1)
 
-#### Demystifying governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980)
+#### [Demystifying governance](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=0)** - [Instructor] To bring effective AI governance into action, let us first develop a shared understanding on what AI governance is.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=0)** - [Instructor] To bring effective [[AI Governance]] into action, let us first develop a shared understanding on what AI governance is.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=8)** The goal of AI governance is to promote responsible and ethical practices throughout the lifecycle of an AI system.
 >
@@ -250,13 +247,13 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=244)** What about documentation on details related to models?
 >
-> **[4:08](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=248)** And finally, we've been talking about transparency and accountability.
+> **[4:08](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=248)** And finally, we've been talking about transparency and [[Accountability]].
 >
 > **[4:12](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=252)** How do you embed such ethical practices by design?
 >
 > **[4:17](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=257)** You may already be practicing it, but even if you have not thought about these processes yet, consider these initial questions as a stepping stone to help you identify what it takes to govern complex AI systems.
 >
-> **[4:31](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=271)** We will cover such ethical design thinking in upcoming videos.
+> **[4:31](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=271)** We will cover such ethical [[Design Thinking]] in upcoming videos.
 >
 > **[4:36](https://www.linkedin.com/learning/introduction-to-ai-governance/demystifying-governance?u=76281980&t=276)** The overall legal framework is very broad and includes rules and procedures for specific industries to ensure compliance and effective governance.
 >
@@ -268,12 +265,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (2), [[Accountability]] (1), [[Design Thinking]] (1), business (1)
+> **Frameworks & Libraries:** [[AI Governance]] (5), [[Accountability]] (1), [[Design Thinking]] (1)
 > **Analogies:** such as (2), similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Need for increasing governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980)
+#### [Need for increasing governance](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -281,9 +277,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=9)** We also learned that increasing risks call for stricter measures that form the basis for governance.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=16)** But all of it looks good in theory, is the typical concern when explaining the governance or AI ethics.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=16)** But all of it looks good in theory, is the typical concern when explaining the governance or AI [[Ethics]].
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=23)** Let us address such concerns today and look at some practical generative AI applications and their implications, highlighting the need for additional steps to govern them.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=23)** Let us address such concerns today and look at some practical [[Generative AI]] applications and their implications, highlighting the need for additional steps to govern them.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=33)** We are going to talk about these applications in four aspects, where we will set the context, list the measures that organizations can take, figure out how it impacts users, and how it impacts the business.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=89)** Being aware of AI generated content helps them consider its limitations, that it might be missing human insight, intuition, and context, and allows them to assess the content differently.
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=103)** Such awareness is crucial, especially in critical domains like medicine and finance that involve high stakes and complex decision-making.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=103)** Such awareness is crucial, especially in critical domains like medicine and finance that involve high stakes and complex [[Decision-Making]].
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=112)** Consider how your response would change if you were recommended stock investments by a human expert versus an AI tool, or for that matter, a medical diagnosis.
 >
@@ -309,9 +305,9 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=130)** So, next, we will assess how businesses eventually benefit by adopting governance.
 >
-> **[2:15](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=135)** These measures go a long way in building trust with users and show up in brand loyalty.
+> **[2:15](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=135)** These measures go a long way in [[Building Trust]] with users and show up in brand loyalty.
 >
-> **[2:21](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=141)** It also demonstrates organizations' emphasis on promoting transparent and responsible AI practices.
+> **[2:21](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=141)** It also demonstrates organizations' emphasis on promoting transparent and [[Responsible AI]] practices.
 >
 > **[2:28](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=148)** Such values build a good reputation for ethical AI use, which can be a powerful asset and give a competitive edge, especially when ethics are becoming a pressing necessity.
 >
@@ -327,13 +323,13 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=204)** Further, soliciting user feedback can also help check the chatbots' performance and fine-tune them as needed to address their concerns.
 >
-> **[3:35](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=215)** Inform the user consent about data collection and utilization protocols provides them with a safe channel to express their intent and ask detailed questions freely.
+> **[3:35](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=215)** Inform the user consent about [[Data Collection]] and utilization protocols provides them with a safe channel to express their intent and ask detailed questions freely.
 >
 > **[3:45](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=225)** This in turn leads to effective query resolution and a positive customer experience.
 >
-> **[3:52](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=232)** Such measures talk volumes about businesses' focus on compliant ethical measures, including data security and privacy, which in turn builds credibility, a valuable asset for business differentiation.
+> **[3:52](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=232)** Such measures talk volumes about businesses' focus on compliant ethical measures, including [[Data Security]] and [[Privacy]], which in turn builds credibility, a valuable asset for business differentiation.
 >
-> **[4:07](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=247)** These examples illustrate how AI governance lays down the foundation for trustworthy practices.
+> **[4:07](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=247)** These examples illustrate how [[AI Governance]] lays down the foundation for trustworthy practices.
 >
 > **[4:13](https://www.linkedin.com/learning/introduction-to-ai-governance/need-for-increasing-governance?u=76281980&t=253)** It does not hinder innovation, but promotes it.
 >
@@ -355,21 +351,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Generative AI]] (5), business (5), data (3), [[Ethics]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Ethics]] (2), [[Decision-Making]] (1), [[Building Trust]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### What went wrong?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980)
+#### [What went wrong?](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=0)** - [Instructor] Let us dive into the past and learn from the instances when AI went wrong.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=6)** When I started my journey into building trustworthy and responsible AI solutions several years ago, I, too, like most of us, were struggling with the abstract nature of ethical guidelines.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=6)** When I started my journey into building trustworthy and [[Responsible AI]] solutions several years ago, I, too, like most of us, were struggling with the abstract nature of ethical guidelines.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=18)** I understood everything theoretically, but was still not able to relate how to practically apply them in real life.
 >
@@ -379,13 +374,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=49)** Take, for example, a not so good movie recommender, which can make us put extra effort into looking for movies of our interest.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=57)** A product search at an e-commerce website might require us to navigate to the next page that otherwise should have been listed higher in the search results.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=57)** A product search at an [[E-Commerce]] website might require us to navigate to the next page that otherwise should have been listed higher in the search results.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=67)** No doubt, these search results were not at par, could negatively impact the business through bad customer experience, and make them churn candidates.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=78)** But as bad as these might seem, there are far worse downsides.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=83)** When algorithms discriminate against marginalized communities, denying them credit loans and employment, and even leading to events that can have lasting impacts on their lives, such as grant bail and access to healthcare.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=83)** When [[Algorithms]] discriminate against marginalized communities, denying them credit loans and employment, and even leading to events that can have lasting impacts on their lives, such as grant bail and access to healthcare.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=99)** Yes, you read that right.
 >
@@ -425,9 +420,9 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=227)** As much as identifying shortcomings is essential, so is its timing.
 >
-> **[3:53](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=233)** Timely audits and rigorous testing of such systems with clear disclosure of its decision-making steps should have been shared with all associated stakeholders, including schools, parents, and students, before even leveraging such algorithms for full scale-decisions, that is official scoring.
+> **[3:53](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=233)** Timely audits and rigorous testing of such systems with clear disclosure of its [[Decision-Making]] steps should have been shared with all associated stakeholders, including schools, parents, and students, before even leveraging such algorithms for full scale-decisions, that is official scoring.
 >
-> **[4:14](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=254)** Having discussed the impact of AI on access to education in the pre-generative AI era, let us also see the repercussions that have surfaced with the advent of gen AI.
+> **[4:14](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=254)** Having discussed the impact of AI on access to education in the pre-[[Generative AI]] era, let us also see the repercussions that have surfaced with the advent of gen AI.
 >
 > **[4:26](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=266)** An algorithm recently raised a false alert, flagging the use of AI to complete an assignment, leading to poor grades for the student.
 >
@@ -441,11 +436,11 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=315)** Think from both sides, as an end user and the creator of such advanced system.
 >
-> **[5:23](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=323)** As you wear your problem-solving hats on, let us next understand the evolving landscape of AI governance.
+> **[5:23](https://www.linkedin.com/learning/introduction-to-ai-governance/what-went-wrong?u=76281980&t=323)** As you wear your problem-solving hats on, let us next understand the evolving landscape of [[AI Governance]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Algorithms]] (4), [[Search]] (3), next (2), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Responsible AI]] (1), [[E-Commerce]] (1), [[Decision-Making]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** navigate to (1)
@@ -457,12 +452,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dimensions of governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980)
+#### [Dimensions of governance](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=0)** - [Instructor] We know that AI governance is the need of the hour, but what is stopping us from effectively implementing it?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=0)** - [Instructor] We know that [[AI Governance]] is the need of the hour, but what is stopping us from effectively implementing it?
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=8)** Well, it is not as easy as it sounds.
 >
@@ -492,11 +486,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=117)** However, integration of AI brings additional challenges that can often manifest in unforeseen ways, and hence, raises a need to govern them more stringently, mainly due to their direct effect on users and their lives in general.
 >
-> **[2:13](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=133)** Keep in mind though that when we talk about risk, it is important to segregate the risk to check if it is coming from the algorithm or is black box nature or from the data underneath, such as data privacy and bias stemming from misrepresented data.
+> **[2:13](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=133)** Keep in mind though that when we talk about risk, it is important to segregate the risk to check if it is coming from the algorithm or is black box nature or from the data underneath, such as [[Data Privacy]] and bias stemming from misrepresented data.
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=151)** There can be unintended consequences arising from various factors, such as unexpected interactions between different variables or the emergence of patterns that were not apparent during the development phase.
 >
-> **[2:45](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=165)** Now, compare this with the malicious use of AI systems or bad actors who can sabotage AI applications, exploit systems' vulnerabilities, or extract sensitive information from data sets, violating individuals' privacy.
+> **[2:45](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=165)** Now, compare this with the malicious use of AI systems or bad actors who can sabotage AI applications, exploit systems' vulnerabilities, or extract sensitive information from data sets, violating individuals' [[Privacy]].
 >
 > **[3:01](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=181)** It raises a very valid point that often concerns business executives.
 >
@@ -512,7 +506,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=237)** By categorizing risk based on their potential impact, organizations can focus on addressing high priority risk that significantly impact users, stakeholders, and the overall system.
 >
-> **[4:09](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=249)** Moreover, grading applications based on their degree of risk helps bring in the necessary accountability and list the repercussions and hefty penalties in case of violations.
+> **[4:09](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=249)** Moreover, grading applications based on their degree of risk helps bring in the necessary [[Accountability]] and list the repercussions and hefty penalties in case of violations.
 >
 > **[4:23](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=263)** Having discussed some multifaceted challenges to govern AI, I would still say we have barely scratched the surface.
 >
@@ -520,18 +514,17 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=275)** Drawing from your experience, what are the key challenges you have faced in operationalizing effective AI governance in your organization?
 >
-> **[4:43](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=283)** Lastly, as promised, let us see what it takes to embed ethics by design.
+> **[4:43](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980&t=283)** Lastly, as promised, let us see what it takes to embed [[Ethics]] by design.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (5), business (2), [[Privacy]] (2), teams (1)
+> **Frameworks & Libraries:** [[AI Governance]] (6), [[Data Privacy]] (1), [[Privacy]] (1), [[Accountability]] (1), [[Ethics]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embedding ethics by design
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980)
+#### [Embedding ethics by design](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,7 +532,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=7)** This is where building systems that are ethical by design helps.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=12)** I advocate embedding ethics by design.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=12)** I advocate embedding [[Ethics]] by design.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=14)** But what does that mean?
 >
@@ -551,7 +544,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=43)** Over the years, I have emphasized that adopting ethics needs to be woven into an organization's culture.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=51)** It is not a term only associated with AI data science or technology in general.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=51)** It is not a term only associated with AI [[Data Science]] or technology in general.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=56)** It is an organization-wide change.
 >
@@ -561,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=78)** Deciding what constitutes the training set.
 >
-> **[1:22](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=82)** Does that data comply with privacy regulations?
+> **[1:22](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=82)** Does that data comply with [[Privacy]] regulations?
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=85)** Is it a good representation of the problem to be solved?
 >
@@ -595,7 +588,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=186)** It is after all a sequence of steps.
 >
-> **[3:09](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=189)** Rather, the design choices go wrong, be it the premise of the problem itself, the input data collection, the choice of algorithm, or the inference of model outcome.
+> **[3:09](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=189)** Rather, the design choices go wrong, be it the premise of the problem itself, the input [[Data Collection]], the choice of algorithm, or the inference of model outcome.
 >
 > **[3:22](https://www.linkedin.com/learning/introduction-to-ai-governance/embedding-ethics-by-design?u=76281980&t=202)** What are some of the responsible design choices you make to embed ethics in your AI projects?
 >
@@ -605,20 +598,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (8), ai (7), data (3), business (1), power (1)
+> **Frameworks & Libraries:** [[Ethics]] (8), [[Data Science]] (1), [[Privacy]] (1), [[Data Collection]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenges of governing AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980)
+#### [Challenges of governing AI](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=0)** - [Educator] We discuss the challenges of bringing governance into action, and those discussions are happening across the globe.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=9)** And that's a key point, it's not just AI governance, but global AI governance.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=9)** And that's a key point, it's not just [[AI Governance]], but global AI governance.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=15)** Several countries are working on designing regulatory frameworks and resorting to global collaboration to build a shared and cooperative governance goal.
 >
@@ -658,7 +650,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=181)** Moreover, the lines quickly get blurred from regulating how AI is used.
 >
-> **[3:06](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=186)** For example, in healthcare or hiring, to regulating processes that rely on AI, such as facial recognition or cybersecurity.
+> **[3:06](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=186)** For example, in healthcare or hiring, to regulating processes that rely on AI, such as facial recognition or [[Cybersecurity]].
 >
 > **[3:16](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=196)** Another consideration towards making AI safe is its intertwined nature.
 >
@@ -672,11 +664,11 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=226)** It has its benefits in the form of streamlining operations.
 >
-> **[3:51](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=231)** However, the other side of it also involves the privacy concerns of the individuals when their facial features are analyzed and collected Without their consent, it becomes a matter of breaching personal privacy.
+> **[3:51](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=231)** However, the other side of it also involves the [[Privacy]] concerns of the individuals when their facial features are analyzed and collected Without their consent, it becomes a matter of breaching personal privacy.
 >
 > **[4:04](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=244)** The harms do not stop here and have repercussions downstream too.
 >
-> **[4:10](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=250)** If such store data is later used for training algorithms, it can perpetuate biases and lead to discriminatory outcomes for specific groups if not well represented.
+> **[4:10](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=250)** If such store data is later used for training [[Algorithms]], it can perpetuate biases and lead to discriminatory outcomes for specific groups if not well represented.
 >
 > **[4:21](https://www.linkedin.com/learning/introduction-to-ai-governance/challenges-of-governing-ai?u=76281980&t=261)** The worst can happen when the impact of such personal data goes beyond the training set and haunts the individuals by tracking them under mass surveillance.
 >
@@ -694,7 +686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), power (2), [[Privacy]] (2), data (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[AI Governance]] (3), [[Privacy]] (2), [[Cybersecurity]] (1), [[Algorithms]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** aka (1)
@@ -706,8 +698,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up an ethics board
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980)
+#### [Setting up an ethics board](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,7 +710,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980&t=22)** That developer is a part of a team that brings many additional pairs of eyes with their own set of governance.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980&t=30)** This team comes together to create a product with ethics embedded in design.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980&t=30)** This team comes together to create a product with [[Ethics]] embedded in design.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980&t=35)** The organization also has its governance measures and adheres to what the law dictates.
 >
@@ -753,9 +744,9 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980&t=147)** Like most other things in life, diversifications benefits hold true here as well.
 >
-> **[2:33](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980&t=153)** A well-equipped cross-functional team comprising members from compliance, legal, engineering, product, and data science can enable the right use of this technology.
+> **[2:33](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980&t=153)** A well-equipped cross-functional team comprising members from compliance, legal, engineering, product, and [[Data Science]] can enable the right use of this technology.
 >
-> **[2:44](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980&t=164)** But there is more, which gives us a good segue to introduce the emerging profiles following the rise of AI governance, especially AI ethicist, Chief AI ethics officers, AI audit officers, AI ethics and compliance officer, and ethical AI architects.
+> **[2:44](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980&t=164)** But there is more, which gives us a good segue to introduce the emerging profiles following the rise of [[AI Governance]], especially AI ethicist, Chief AI ethics officers, AI audit officers, AI ethics and compliance officer, and ethical AI architects.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980&t=183)** While each role brings its specialty and expertise, the underlying responsibility is essentially the same.
 >
@@ -785,15 +776,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Ethics]] (10), product (4), business (3), functional (1)
+> **Frameworks & Libraries:** [[Ethics]] (10), [[Data Science]] (1), [[AI Governance]] (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify and mitigate AI risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980)
+#### [Identify and mitigate AI risks](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -807,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=21)** In fact, we'll proactively account for those risk from the perspective of the AI developer.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=27)** So let us get straight to it and focus on critical risk, bias and privacy.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=27)** So let us get straight to it and focus on critical risk, bias and [[Privacy]].
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=34)** Starting with bias, let us take an example of a bank using ML models to issue credit loans.
 >
@@ -855,7 +845,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=190)** Say if a data breach lands sensitive user details in the hands of bad actors, it is a high severity incident.
 >
-> **[3:18](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=198)** It demands security measures and standards to maintain data integrity.
+> **[3:18](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=198)** It demands security measures and standards to maintain [[Data Integrity]].
 >
 > **[3:23](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=203)** Here is what I recommend.
 >
@@ -863,7 +853,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=217)** Next, whenever there is a change in how data is handled, stored, managed, or utilized, give an explicit call out to the user to withdraw or update their intent timely.
 >
-> **[3:50](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=230)** And finally, ethics by design needs to go hand in hand with cyber-secure systems by design.
+> **[3:50](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=230)** And finally, [[Ethics]] by design needs to go hand in hand with cyber-secure systems by design.
 >
 > **[3:57](https://www.linkedin.com/learning/introduction-to-ai-governance/identify-and-mitigate-ai-risks?u=76281980&t=237)** Organizations must have robust measures in place to prevent data theft, breaches, and any kind of wrongdoing on user data.
 >
@@ -881,14 +871,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), ai (4), [[Privacy]] (3), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Integrity]] (1), [[Ethics]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Driving organizational governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980)
+#### [Driving organizational governance](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=14)** The developer engages in discussion with peers and leverages teams diverse technical expertise.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=20)** As the team makes progress, the ethics board that initially reviewed the idea and give a green signal to the project remains an active and essential participant.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=20)** As the team makes progress, the [[Ethics]] board that initially reviewed the idea and give a green signal to the project remains an active and essential participant.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=30)** Their continuous involvement throughout the development lifecycle involves crucial milestones, providing ongoing assessments and feedback.
 >
@@ -944,7 +933,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=143)** Beyond the conventional rewards based system or connecting the responsibilities with the OKRs, the typical business approach, I believe by instilling the right governance principles, the teams are inherently motivated.
 >
-> **[2:38](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=158)** Awareness brings accountability.
+> **[2:38](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=158)** Awareness brings [[Accountability]].
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=160)** Everyone has a shared accountability to build AI systems.
 >
@@ -956,7 +945,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=184)** Yes, these are precisely the actions that are core to building governance.
 >
-> **[3:10](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=190)** It involves building systems and processes such as compliance workflows, documentation that include an inventory stock of all algorithms.
+> **[3:10](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=190)** It involves building systems and processes such as compliance workflows, documentation that include an inventory stock of all [[Algorithms]].
 >
 > **[3:22](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=202)** What, why, and how?
 >
@@ -972,11 +961,11 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=221)** How to audit and perform impact assessment of the AI risk?
 >
-> **[3:46](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=226)** Having explored the measures to steer AI governance in the right direction, let us now shift our focus to what lies ahead, to embrace the change at our workplace.
+> **[3:46](https://www.linkedin.com/learning/introduction-to-ai-governance/driving-organizational-governance?u=76281980&t=226)** Having explored the measures to steer [[AI Governance]] in the right direction, let us now shift our focus to what lies ahead, to embrace the change at our workplace.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), teams (4), business (2), [[Accountability]] (2), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Ethics]] (1), [[Algorithms]] (1), [[AI Governance]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -986,12 +975,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The road ahead
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980)
+#### [The road ahead](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=0)** - [Instructor] Having developed a good understanding of introducing AI governance into organizational frameworks, we need to discuss the current state of affairs in the AI regulatory landscape.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=0)** - [Instructor] Having developed a good understanding of introducing [[AI Governance]] into organizational frameworks, we need to discuss the current state of affairs in the AI regulatory landscape.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=12)** Keep in mind, though, I'm not a lawyer, so if you begin implementing this in your organization, you should seek appropriate legal counsel.
 >
@@ -1019,9 +1007,9 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=97)** It puts increased compliance checks on high-risk systems to minimize the potential harmful effects of AI.
 >
-> **[1:44](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=104)** The US also follows a risk-based approach through its voluntary AI Risk Management Framework standard, called AI RMF.
+> **[1:44](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=104)** The US also follows a risk-based approach through its voluntary AI [[Risk Management Framework (RMF)|Risk Management Framework]] standard, called AI RMF.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=114)** The US agency, National Institute of Standards and Technology, NIST, facilitates this framework, incorporating trustworthiness into the design, development, use, and evaluation of AI products, services, and systems.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=114)** The US agency, National Institute of Standards and Technology, [[NIST]], facilitates this framework, incorporating trustworthiness into the design, development, use, and evaluation of AI [[Microsoft Products|products]], services, and systems.
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=131)** While the AI Act is set to become the first of its kind AI law, the US recently released a first of its kind executive order advising different departments and agencies to take additional measures to safeguard AI.
 >
@@ -1035,9 +1023,9 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=178)** It currently holds the GenAI service providers responsible for ensuring that AI-generated content aligns with Chinese law.
 >
-> **[3:06](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=186)** Additionally, public guidelines are available from UNESCO, the OECD AI Principles, and the White House Office of Science and Technologies' Blueprint for an AI Bill of Rights.
+> **[3:06](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=186)** Additionally, public guidelines are available from UNESCO, the OECD AI Principles, and the White House [[Microsoft Office|Office]] of Science and Technologies' Blueprint for an AI Bill of Rights.
 >
-> **[3:18](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=198)** I highly promote self-regulation and would give a call out to corporate champions such as Microsoft's Responsible AI Standard and Google's Responsible AI Practices.
+> **[3:18](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=198)** I highly promote self-regulation and would give a call out to corporate champions such as [[Microsoft]]'s [[Responsible AI]] Standard and [[Google]]'s Responsible AI Practices.
 >
 > **[3:29](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980&t=209)** In my early days as an AI ethicist, I used to give an analogy.
 >
@@ -1055,25 +1043,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), [[Responsible AI]] (2), [[Risk Management Framework (RMF)|Risk management framework]] (1), rmf (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[AI Governance]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[NIST]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** rmf (1), nist (1), unesco (1), oecd (1), iso (1)
 > **Cross-References:** we talked about (1), we discussed (1)
 > **Analogies:** such as (1), similar to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980)
+#### [Change management](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=0)** - [Instructor] It is fair to say that the world is still warming up to the possibilities of Generative AI.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=0)** - [Instructor] It is fair to say that the world is still warming up to the possibilities of [[Generative AI]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=5)** However, one thing is sure, the change is in the order.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=10)** Generative AI has been a transformative force, accelerating the art of what is possible.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=16)** To fully harness this groundbreaking development, organizations must account for revised ways of working, streamlining processes and policies to ramp up their digital transformation journeys.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=16)** To fully harness this groundbreaking development, organizations must account for revised ways of working, streamlining processes and policies to ramp up their [[Digital Transformation]] journeys.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=28)** The question that arises, how can these organizations proactively leverage these advanced models responsibly?
 >
@@ -1093,7 +1080,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=88)** Job displacement is a significant concern in the ever evolving landscape of technological progress, like the one Generative AI brings.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=97)** Even McKinsey points to a tough job market for roles centered on repetitive task, data collection, and elementary data processing.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=97)** Even McKinsey points to a tough job market for roles centered on repetitive task, [[Data Collection]], and elementary [[Data Processing]].
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=107)** So, where is the market headed?
 >
@@ -1121,7 +1108,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=172)** Discussions around displacement tax involve imposing tax if the affected workers are not adequately assisted through retraining, with an aim to ensure continuous organizational support.
 >
-> **[3:05](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=185)** Beyond managing workforce sentiment, embracing change introduces the challenge of adopting new technology, particularly in integrating AI solutions into operations.
+> **[3:05](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=185)** Beyond managing workforce sentiment, embracing change introduces the challenge of adopting new technology, particularly in integrating [[AI Solutions]] into operations.
 >
 > **[3:17](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=197)** However, such changes demand change in organizational policies.
 >
@@ -1135,11 +1122,11 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=235)** It is a very vast topic that merits its own dedicated course.
 >
-> **[4:00](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=240)** However, I will distill five essential factors for a smoother adoption of AI governance, starting from an AI vision rooted in human-centric principles.
+> **[4:00](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=240)** However, I will distill five essential factors for a smoother adoption of [[AI Governance]], starting from an AI vision rooted in human-centric principles.
 >
 > **[4:12](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=252)** As the journey progresses, the significance of change management becomes crucial.
 >
-> **[4:17](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=257)** Relying on the art of expectation management, a skill best cultivated when AI literacy is woven into the fabric of the organization.
+> **[4:17](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=257)** Relying on the art of expectation management, a skill best cultivated when [[AI Literacy]] is woven into the fabric of the organization.
 >
 > **[4:28](https://www.linkedin.com/learning/introduction-to-ai-governance/change-management?u=76281980&t=268)** Lastly, the success of any AI project hinges on continuous refinement.
 >
@@ -1147,7 +1134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Generative AI]] (5), [[Automation]] (3), management (3), business (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Digital Transformation]] (1), [[Data Collection]] (1), [[Data Processing]] (1), [[AI Solutions]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1157,8 +1144,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advancing AI governance in your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980)
+#### [Advancing AI governance in your organization](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,7 +1174,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980&t=91)** Yes, we are critical to the success of the Gen AI revolution.
 >
-> **[1:36](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980&t=96)** While effective mobilization of AI governance may take time, it is incumbent on us as users of such advanced technology to criticize what we are presented with.
+> **[1:36](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980&t=96)** While effective mobilization of [[AI Governance]] may take time, it is incumbent on us as users of such advanced technology to criticize what we are presented with.
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980&t=108)** Always fact-check before making informed decisions on utilizing such information.
 >
@@ -1204,7 +1190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (1)
+> **Frameworks & Libraries:** [[AI Governance]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 

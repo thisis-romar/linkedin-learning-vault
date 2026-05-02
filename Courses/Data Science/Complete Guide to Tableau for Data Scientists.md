@@ -200,12 +200,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of Tableau for data scientists
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/the-power-of-tableau-for-data-scientists?u=76281980)
+#### [The power of Tableau for data scientists](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/the-power-of-tableau-for-data-scientists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/the-power-of-tableau-for-data-scientists?u=76281980&t=0)** - [Matt] Welcome to the Complete Guide to Tableau.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/the-power-of-tableau-for-data-scientists?u=76281980&t=0)** - [Matt] Welcome to the Complete Guide to [[Tableau]].
 >
 > **[0:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/the-power-of-tableau-for-data-scientists?u=76281980&t=2)** My name's Matt Francis, a two-time Tableau Visionary and a Tableau Social Ambassador.
 >
@@ -223,18 +222,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (6), data (6)
+> **Frameworks & Libraries:** [[Tableau]] (6)
 > **CLI Commands:** make (1)
 > **Speakers:** - [matt] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=0)** - [Instructor] Here's what you need to know to get the very best out of this course.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=4)** Now, if you're a beginner, we're going to assume that you have zero knowledge of Tableau.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=4)** Now, if you're a beginner, we're going to assume that you have zero knowledge of [[Tableau]].
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=8)** We're going to start by taking a tour of the user interface, so you'll know exactly what I'm talking about when I tell you to click in certain places.
 >
@@ -266,15 +264,15 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=87)** However, there is a 14-day free demo that has all of the options open to you.
 >
-> **[1:33](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=93)** Tableau Desktop can connect to dozens of different data sources, including web connections, databases such as Oracle, PSQL, MySQL, and it can publish to public.[tableau.com](https://tableau.com).
+> **[1:33](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=93)** Tableau Desktop can connect to dozens of different data sources, including web connections, [[Databases]] such as Oracle, PSQL, [[MySQL]], and it can publish to public.[tableau.com](https://tableau.com).
 >
 > **[1:47](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=107)** But you can also publish to a local Tableau server, maybe within your organization.
 >
 > **[1:52](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=112)** Now, Tableau Public, on the other hand, is totally free.
 >
-> **[1:57](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=117)** The only limitation is you can only connect to files or something like Google Sheets.
+> **[1:57](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=117)** The only limitation is you can only connect to files or something like [[Google]] Sheets.
 >
-> **[2:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=123)** The local files need to be something like an Excel, a CSV, a PDF file, something that exists on your local machine.
+> **[2:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=123)** The local files need to be something like an [[Microsoft Excel|Excel]], a CSV, a PDF file, something that exists on your local machine.
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-you-should-know?u=76281980&t=130)** You can't connect to remote databases.
 >
@@ -310,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (25), data (8), web (2), [[Databases]] (2), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (25), [[Databases]] (2), [[MySQL]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), psql (1), mysql (1)
 > **URLs:** [tableau.com](https://tableau.com) (4)
 > **Env Vars:** psql (1), csv (1), pdf (1)
@@ -319,14 +317,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Tableau UI tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-ui-tour?u=76281980)
+#### [Tableau UI tour](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-ui-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-ui-tour?u=76281980&t=0)** - [Instructor] This video, we're going to do a quick tour of the user interface, so that later on in the course when I tell you to do something, you'll know exactly where to go.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-ui-tour?u=76281980&t=8)** Now, when you first open up Tableau, this might be your starting screen.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-ui-tour?u=76281980&t=8)** Now, when you first open up [[Tableau]], this might be your starting screen.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-ui-tour?u=76281980&t=13)** In the middle, there's a big white space at the moment, but this is where all of your previously opened and saved workbooks are going to appear.
 >
@@ -340,7 +337,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-ui-tour?u=76281980&t=37)** It lists the type of data we can connect to, whether it's a file or whether it's on a server.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-ui-tour?u=76281980&t=42)** If you're using Tableau Public, it would also include things like databases as well.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-ui-tour?u=76281980&t=42)** If you're using Tableau Public, it would also include things like [[Databases]] as well.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-ui-tour?u=76281980&t=48)** On the right-hand side, there's an Information pane.
 >
@@ -466,19 +463,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Tableau]] (10), [[Databases]] (1), product (1), power (1)
+> **Frameworks & Libraries:** [[Tableau]] (10), [[Databases]] (1)
 > **UI Navigation:** click on (2), toggle (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2), think of it as (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Tableau order of operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-order-of-operations?u=76281980)
+#### [Tableau order of operations](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-order-of-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-order-of-operations?u=76281980&t=0)** - [Instructor] In order to understand how and when Tableau does something, we need to think about Tableau's order of operations.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-order-of-operations?u=76281980&t=0)** - [Instructor] In order to understand how and when [[Tableau]] does something, we need to think about Tableau's order of operations.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/tableau-order-of-operations?u=76281980&t=9)** Now, this diagram shows the order of operations that Tableau does.
 >
@@ -562,15 +558,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Tableau]] (13), next (3)
+> **Frameworks & Libraries:** [[Tableau]] (13)
 > **Env Vars:** fixed (1), exclude (1), include (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Welcome to the Langdon Hotel
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/welcome-to-the-langdon-hotel?u=76281980)
+#### [Welcome to the Langdon Hotel](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/welcome-to-the-langdon-hotel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,7 +629,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/welcome-to-the-langdon-hotel?u=76281980&t=152)** Once we've found some answers, we need to share those with people.
 >
-> **[2:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/welcome-to-the-langdon-hotel?u=76281980&t=155)** So we're going to create a series of dashboards at different levels in order so people can see and understand that data.
+> **[2:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/welcome-to-the-langdon-hotel?u=76281980&t=155)** So we're going to create a series of [[Dashboards]] at different levels in order so people can see and understand that data.
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/welcome-to-the-langdon-hotel?u=76281980&t=162)** Ultimately, what we're looking for are answers, answers to things that are inside our data.
 >
@@ -650,7 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), business (4), product (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -660,12 +655,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the difference between green and blue fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understand-the-difference-between-green-and-blue-fields?u=76281980)
+#### [Understand the difference between green and blue fields](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understand-the-difference-between-green-and-blue-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understand-the-difference-between-green-and-blue-fields?u=76281980&t=0)** - [Instructor] To really understand what Tableau's doing, it's essential to understand the difference between blue and green.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understand-the-difference-between-green-and-blue-fields?u=76281980&t=0)** - [Instructor] To really understand what [[Tableau]]'s doing, it's essential to understand the difference between blue and green.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understand-the-difference-between-green-and-blue-fields?u=76281980&t=7)** Now, what do we mean by blue and green?
 >
@@ -811,15 +805,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Tableau]] (6)
+> **Frameworks & Libraries:** [[Tableau]] (6)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How do green and blue fields affect rows and columns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-rows-and-columns?u=76281980)
+#### [How do green and blue fields affect rows and columns?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-rows-and-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,7 +824,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-rows-and-columns?u=76281980&t=17)** They're the things we can aggregate together, like the sum of sales or the average profit and the dimensions are what we're going to use to break those values down.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-rows-and-columns?u=76281980&t=27)** Then when we add one of these fields to either the row or the column, tableau is going to behave, depending on whether it's discreet or continuous, that behavior is going to drive the type of chart that we get.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-rows-and-columns?u=76281980&t=27)** Then when we add one of these fields to either the row or the column, [[Tableau]] is going to behave, depending on whether it's discreet or continuous, that behavior is going to drive the type of chart that we get.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-rows-and-columns?u=76281980&t=39)** And understanding how tablet's going to interpret the data field, discreet or continuous, will determine the type of chart that we have.
 >
@@ -925,14 +918,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (4), next (1), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Versions:** 2.3 (1)
 > **Speakers:** - [instructor] (1)
 
-#### How do green and blue fields affect filters?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-filters?u=76281980)
+#### [How do green and blue fields affect filters?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,14 +1026,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **UI Navigation:** click on (4), drag and drop (1), select the (1), right-click (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### How do green and blue fields affect colors?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-colours?u=76281980)
+#### [How do green and blue fields affect colors?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-colours?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,7 +1043,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-colours?u=76281980&t=13)** It can highlight outliers.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-colours?u=76281980&t=16)** Because it's so powerful, we need to understand how Tableau uses color in order to best use it.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-colours?u=76281980&t=16)** Because it's so powerful, we need to understand how [[Tableau]] uses color in order to best use it.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-colours?u=76281980&t=22)** Now, Tableau has two ways of handling color, and that depends on whether we are using a discreet or a continuous field to apply that color.
 >
@@ -1117,7 +1107,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-colours?u=76281980&t=178)** If I take my Category out, drag and drop it onto Color, we now color-coded the bars based on their parent category.
 >
-> **[3:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-colours?u=76281980&t=186)** I've got three categories: furniture, office supplies, technology.
+> **[3:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-colours?u=76281980&t=186)** I've got three categories: furniture, [[Microsoft Office|office]] supplies, technology.
 >
 > **[3:11](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-colours?u=76281980&t=191)** So I use three colors.
 >
@@ -1189,15 +1179,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tableau]] (4), [[Microsoft Office|Office]] (3), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Microsoft Office|Office]] (3)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### How do green and blue fields affect dates?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-dates?u=76281980)
+#### [How do green and blue fields affect dates?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-dates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,7 +1198,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-dates?u=76281980&t=16)** They're either discreet or continuous depending on what type of data you're looking at and what kind of question you want to answer from that data.
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-dates?u=76281980&t=26)** Tableau treats dates in a very different way depending on whether you're looking in them as a continuous date or a discreet date.
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-dates?u=76281980&t=26)** [[Tableau]] treats dates in a very different way depending on whether you're looking in them as a continuous date or a discreet date.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-green-and-blue-fields-affect-dates?u=76281980&t=35)** And it makes some questions a lot easy to answer one way rather than the other.
 >
@@ -1329,21 +1318,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tableau]] (5), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (5)
 > **UI Navigation:** drag and drop (1), click on (1), switch to (1), right-click (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Green and blue
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-green-and-blue?u=76281980)
+#### [Challenge: Green and blue](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-green-and-blue?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-green-and-blue?u=76281980&t=0)** - [Instructor] Here's a challenge to see if you understand the difference between blue and green, and how it affects everything within the Tableau user interface.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-green-and-blue?u=76281980&t=0)** - [Instructor] Here's a challenge to see if you understand the difference between blue and green, and how it affects everything within the [[Tableau]] user interface.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-green-and-blue?u=76281980&t=14)** I want to know which region made at least a 13,000 profit in the home office segment.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-green-and-blue?u=76281980&t=14)** I want to know which region made at least a 13,000 profit in the home [[Microsoft Office|office]] segment.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-green-and-blue?u=76281980&t=20)** Now, to do this, you're going to need to do these steps.
 >
@@ -1357,19 +1345,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), next (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Tableau]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Green and blue
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-green-and-blue?u=76281980)
+#### [Solution: Green and blue](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-green-and-blue?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-green-and-blue?u=76281980&t=0)** - [Narrator] Here's my solution to the blue green challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-green-and-blue?u=76281980&t=8)** We've been asked to find out which region made at least a 13,000 profit in the Home Office segment.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-green-and-blue?u=76281980&t=8)** We've been asked to find out which region made at least a 13,000 profit in the Home [[Microsoft Office|Office]] segment.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-green-and-blue?u=76281980&t=16)** Now, the best way to visualize this, I think, is going to be with a bar chart.
 >
@@ -1455,7 +1442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), next (3)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1)
@@ -1467,14 +1454,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to connect to Excel sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980)
+#### [How to connect to Excel sheets](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=0)** - [Instructor] One of the most common data sources you're probably going to work with is Excel.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=0)** - [Instructor] One of the most common data sources you're probably going to work with is [[Microsoft Excel|Excel]].
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=5)** Tableau makes it very, very easy to connect to an Excel workbook, extract the data out of a table, and use it to build a visualization.
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=5)** [[Tableau]] makes it very, very easy to connect to an Excel workbook, extract the data out of a table, and use it to build a visualization.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=12)** To do that, we need to go and create a connection to that Excel file, and we do that by going to the connection pane within the data connection window.
 >
@@ -1504,7 +1490,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=107)** If we click on that, this gives us a preview of the data within that particular sheet, so we can make sure that we've selected the correct one.
 >
-> **[1:57](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=117)** Now this is our office supply data, and this looks like I want this file, which has got all of the orders in it, so I can close that back down.
+> **[1:57](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=117)** Now this is our [[Microsoft Office|office]] supply data, and this looks like I want this file, which has got all of the orders in it, so I can close that back down.
 >
 > **[2:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=126)** And Tableau's been very helpful for us.
 >
@@ -1546,7 +1532,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=229)** Now, Tableau knows that these are geographic regions, so it has a little globe icon to tell us that should we want to, we could do some mapping with that.
 >
-> **[3:59](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=239)** Further along, we have information about all of our products, so we can see that each row represents one order of a particular product.
+> **[3:59](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=239)** Further along, we have information about all of our [[Microsoft Products|products]], so we can see that each row represents one order of a particular product.
 >
 > **[4:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980&t=248)** Now, it's important to understand what level of detail our data is that.
 >
@@ -1578,21 +1564,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Tableau]] (9), [[Microsoft Excel|Excel]] (6), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (9), [[Microsoft Excel|Excel]] (6), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (5), go to (3), navigate to (1), select the (1), drag and drop (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** abc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to clean Excel data with the Data Interpreter
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980)
+#### [How to clean Excel data with the Data Interpreter](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=0)** - [Instructor] Tableau always works best with a nice, clean table of data, but unfortunately, that's not always what we get.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=0)** - [Instructor] [[Tableau]] always works best with a nice, clean table of data, but unfortunately, that's not always what we get.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=9)** In this video, we're going to look at how we can use the built-in Data Interpreter to clean up an Excel file.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=9)** In this video, we're going to look at how we can use the built-in Data Interpreter to clean up an [[Microsoft Excel|Excel]] file.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=15)** So to see it in action, let's first connect to this new file.
 >
@@ -1640,7 +1625,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=137)** Now we've clicked that, we can then see that now, we have all of our headings of actually the correct headings that we expected.
 >
-> **[2:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=144)** We still have one null column in here because although Tableau's identified the rest of the table, it wasn't quite sure what to do with this one.
+> **[2:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=144)** We still have one null column in here because although Tableau's identified the [[Representational State Transfer (REST)|rest]] of the table, it wasn't quite sure what to do with this one.
 >
 > **[2:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=151)** So rather than get rid of it, it shows it in there.
 >
@@ -1664,7 +1649,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=228)** So from this point on, Tableau's just treating this as a table of data because that's what it's done for us.
 >
-> **[3:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=234)** What this means is that now we can utilize Excel sheets or Google Sheets where people have tried to be helpful to other humans by putting header and footer text.
+> **[3:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=234)** What this means is that now we can utilize Excel sheets or [[Google]] Sheets where people have tried to be helpful to other humans by putting header and footer text.
 >
 > **[4:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-clean-excel-data-with-the-data-interpreter?u=76281980&t=245)** If there were two or more table structures in that data, Tableau would also be able to identify those for us as well.
 >
@@ -1672,24 +1657,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (16), data (16), [[Microsoft Excel|Excel]] (6), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (16), [[Microsoft Excel|Excel]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **UI Navigation:** click on (3), navigate to (1), scroll down (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to connect to Google Sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980)
+#### [How to connect to Google Sheets](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=0)** - [Instructor] Google Sheets are becoming an increasingly popular way of drawing tables of data.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=0)** - [Instructor] [[Google]] Sheets are becoming an increasingly popular way of drawing tables of data.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=6)** It has all the advantages of Excel in that it's easy to use, but because it's in the cloud, it's also available anywhere where you have a connection.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=6)** It has all the advantages of [[Microsoft Excel|Excel]] in that it's easy to use, but because it's in the cloud, it's also available anywhere where you have a connection.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=14)** Plus, it's really good for collaborating.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=17)** Now, Tableau can easily connect to a Google Sheet and use it for the basis of a dashboard.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=17)** Now, [[Tableau]] can easily connect to a Google Sheet and use it for the basis of a dashboard.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=23)** The advantage of which is that if the data changes on the Google Sheet, the published dashboard is automatically going to update it so if you don't have to republish the dashboard every time.
 >
@@ -1699,7 +1683,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=49)** So the first thing I have to do is tell Tableau that I want to connect to a Google Sheet.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=54)** So we'll go back into Tableau and I'm going to click on Connect to Data and I'm going to set the Google Drive connector.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=54)** So we'll go back into Tableau and I'm going to click on Connect to Data and I'm going to set the [[Google Drive]] connector.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-google-sheets?u=76281980&t=62)** The next thing Tableau's going to do is pop up a browser and it's going to ask me to authenticate my Google account with Tableau.
 >
@@ -1785,7 +1769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (16), [[Tableau]] (13), data (12), [[Google Drive]] (2), game (2)
+> **Frameworks & Libraries:** [[Google]] (16), [[Tableau]] (13), [[Google Drive]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (3), right-click (2), go to (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
@@ -1794,14 +1778,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Warnings:** be aware (1)
 
-#### How to connect to PDF files and extract tables of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-pdf-files-and-extract-tables-of-data?u=76281980)
+#### [How to connect to PDF files and extract tables of data](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-pdf-files-and-extract-tables-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-pdf-files-and-extract-tables-of-data?u=76281980&t=0)** - [Instructor] A common file where we have data is PDF files.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-pdf-files-and-extract-tables-of-data?u=76281980&t=4)** Now, getting data out of a PDF always used to be quite tricky, because the table format within a PDF can have a lot of background formatting in it, and sometimes we'd have to copy and paste it either directly into Tableau, which may or may not work, or we'd have to put it into a third-party piece of software and then import that into Tableau, which again, may or may not work.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-pdf-files-and-extract-tables-of-data?u=76281980&t=4)** Now, getting data out of a PDF always used to be quite tricky, because the table format within a PDF can have a lot of background formatting in it, and sometimes we'd have to copy and paste it either directly into [[Tableau]], which may or may not work, or we'd have to put it into a third-party piece of software and then import that into Tableau, which again, may or may not work.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-pdf-files-and-extract-tables-of-data?u=76281980&t=24)** Tableau makes it easier, because now we have a PDF Connector where we can connect directly to a PDF, find a table of data, and then import it in.
 >
@@ -1907,15 +1890,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Tableau]] (15)
+> **Frameworks & Libraries:** [[Tableau]] (15)
 > **Env Vars:** pdf (14), null (1), abc (1)
 > **UI Navigation:** click on (2), go to (2), select the (1), double-click (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the default properties of your data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/setting-up-the-default-properties-of-your-data-source?u=76281980)
+#### [Setting up the default properties of your data source](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/setting-up-the-default-properties-of-your-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1943,7 +1925,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/setting-up-the-default-properties-of-your-data-source?u=76281980&t=75)** There is for that is, is that in our data pane in the left, all of our measures don't have any default values.
 >
-> **[1:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/setting-up-the-default-properties-of-your-data-source?u=76281980&t=82)** When Tableau sees a number in a newly imported data, it just thinks it's a number.
+> **[1:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/setting-up-the-default-properties-of-your-data-source?u=76281980&t=82)** When [[Tableau]] sees a number in a newly imported data, it just thinks it's a number.
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/setting-up-the-default-properties-of-your-data-source?u=76281980&t=87)** It doesn't understand that things might have a currency or be a percentage.
 >
@@ -2003,7 +1985,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/setting-up-the-default-properties-of-your-data-source?u=76281980&t=293)** Tableau's read only, it doesn't write back to the data.
 >
-> **[4:56](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/setting-up-the-default-properties-of-your-data-source?u=76281980&t=296)** So any changes made here are not going to be changed back in the Excel sheet that I earlier connected to.
+> **[4:56](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/setting-up-the-default-properties-of-your-data-source?u=76281980&t=296)** So any changes made here are not going to be changed back in the [[Microsoft Excel|Excel]] sheet that I earlier connected to.
 >
 > **[5:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/setting-up-the-default-properties-of-your-data-source?u=76281980&t=302)** However, changes to the Excel sheet are going to get carried forward.
 >
@@ -2015,21 +1997,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Tableau]] (4), [[Microsoft Excel|Excel]] (2), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (3), go to (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving your data sources for future use
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/saving-your-datasources-for-future-use?u=76281980)
+#### [Saving your data sources for future use](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/saving-your-datasources-for-future-use?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/saving-your-datasources-for-future-use?u=76281980&t=0)** - [Instructor] Once we've set all of our measure and dimensions preferences, we don't have to go and do that every single time we connect to the data source.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/saving-your-datasources-for-future-use?u=76281980&t=9)** Now, in this example, we've connected to our Excel sheet, we've pulled that data in, and that's created us our data source.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/saving-your-datasources-for-future-use?u=76281980&t=9)** Now, in this example, we've connected to our [[Microsoft Excel|Excel]] sheet, we've pulled that data in, and that's created us our data source.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/saving-your-datasources-for-future-use?u=76281980&t=15)** This is what exists in the Data pane on the left-hand side, our measures and all of our dimensions.
 >
@@ -2055,7 +2036,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/saving-your-datasources-for-future-use?u=76281980&t=90)** First, let's give our data source a more useful name.
 >
-> **[1:33](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/saving-your-datasources-for-future-use?u=76281980&t=93)** Now, by default, Tableau just takes the table name and the name of the file to create the data source name, but I'm going to change that to something more useful.
+> **[1:33](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/saving-your-datasources-for-future-use?u=76281980&t=93)** Now, by default, [[Tableau]] just takes the table name and the name of the file to create the data source name, but I'm going to change that to something more useful.
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/saving-your-datasources-for-future-use?u=76281980&t=103)** I would always recommend that you rename your data source to something more memorable, and something that tells you what this data actually is.
 >
@@ -2121,15 +2102,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Microsoft Excel|Excel]] (4), [[Tableau]] (3), next (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Tableau]] (3)
 > **Definitions:** is a  (2), stands for (1), means that (1)
 > **UI Navigation:** go to (1), right-click (1), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Creating a data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-creating-a-data-source?u=76281980)
+#### [Challenge: Creating a data source](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-creating-a-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2145,7 +2125,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-creating-a-data-source?u=76281980&t=21)** What's the most expensive product?
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-creating-a-data-source?u=76281980&t=23)** Which property has the largest number of products?
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-creating-a-data-source?u=76281980&t=23)** Which property has the largest number of [[Microsoft Products|products]]?
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-creating-a-data-source?u=76281980&t=27)** To do this, first, we're going to need to connect to some data.
 >
@@ -2159,7 +2139,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-creating-a-data-source?u=76281980&t=45)** So if it's not, drag it to the Dimension panel.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-creating-a-data-source?u=76281980&t=49)** Save the workbook as Landon Hotel Analysis as we're going to be making use of this throughout the rest of your employment.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-creating-a-data-source?u=76281980&t=49)** Save the workbook as Landon Hotel Analysis as we're going to be making use of this throughout the [[Representational State Transfer (REST)|rest]] of your employment.
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-creating-a-data-source?u=76281980&t=56)** Next, to answer our question, we're going to need to create a new sheet.
 >
@@ -2171,15 +2151,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (4), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** nata (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Creating a data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980)
+#### [Solution: Creating a data source](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2191,11 +2170,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=20)** Now, for this purpose, we're going to use the land and hotel property order info.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=24)** Now that's an Excel sheet that we've already saved into our data sources folder.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=24)** Now that's an [[Microsoft Excel|Excel]] sheet that we've already saved into our data sources folder.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=29)** So I'm going to click on the Excel connector going to find the hotel property order info.
 >
-> **[0:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=35)** Now that this only has one sheet, Tableau automatically pulls it in for us.
+> **[0:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=35)** Now that this only has one sheet, [[Tableau]] automatically pulls it in for us.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=39)** Now, in the data pane, we can have a little look at our raw underlying data.
 >
@@ -2203,7 +2182,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=48)** We've got a property ID and a product ID and a product name.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=52)** The products all belong to a particular category, and we have a quantity.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=52)** The [[Microsoft Products|products]] all belong to a particular category, and we have a quantity.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-creating-a-data-source?u=76281980&t=57)** So the size of each one of the orders, the product price or the price per product.
 >
@@ -2347,7 +2326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (17), data (13), [[Microsoft Products|Products]] (8), [[Tableau]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Tableau]] (3), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (3), go to (2), select the (1)
 > **CLI Commands:** make (4), find (1)
 > **Speakers:** - [instructor] (1)
@@ -2358,8 +2337,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Combining data using relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980)
+#### [Combining data using relationships](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2375,15 +2353,15 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980&t=30)** None of that data is currently available to us.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980&t=33)** We've got the region, so I know where the products were sold, but not the person responsible for it.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980&t=33)** We've got the region, so I know where the [[Microsoft Products|products]] were sold, but not the person responsible for it.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980&t=40)** Luckily, Tableau makes it very easy to combine data together using relationships.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980&t=40)** Luckily, [[Tableau]] makes it very easy to combine data together using relationships.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980&t=46)** We simply define that these two tables are related somehow, and Tableau does all the work of combining that data for us.
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980&t=53)** To see that in action, we're going to go and edit our Data pane, and we're going to add our new table.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980&t=60)** So I'm going to right-click on the order name, click Edit Data Source, and I can see that there are three other tables within my Excel sheet The orders one I'm already using, that's got the order information.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980&t=60)** So I'm going to right-click on the order name, click Edit Data Source, and I can see that there are three other tables within my [[Microsoft Excel|Excel]] sheet The orders one I'm already using, that's got the order information.
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980&t=74)** We have a tab here called People.
 >
@@ -2447,21 +2425,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (11), data (10), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (11), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (1), click on (1), select the (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are the different ways of joining data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-different-ways-of-joining-data?u=76281980)
+#### [What are the different ways of joining data?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-different-ways-of-joining-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-different-ways-of-joining-data?u=76281980&t=0)** - [Instructor] Let's take a moment to talk about the types of join there are and the different ways of combining data.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-different-ways-of-joining-data?u=76281980&t=7)** Now, if we're using relationships within Tableau, where Tableau takes care of doing the join for us, or we're manually joining our data, it's important to understand what's actually happening behind the scenes.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-different-ways-of-joining-data?u=76281980&t=7)** Now, if we're using relationships within [[Tableau]], where Tableau takes care of doing the join for us, or we're manually joining our data, it's important to understand what's actually happening behind the scenes.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-different-ways-of-joining-data?u=76281980&t=19)** It's good to know the different types of join, because that way we can anticipate the sort of results we're going to get.
 >
@@ -2489,7 +2466,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-different-ways-of-joining-data?u=76281980&t=89)** Let's look an example of this.
 >
-> **[1:32](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-different-ways-of-joining-data?u=76281980&t=92)** So if we had two tables, one with a list of products and then one with a list of sales data.
+> **[1:32](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-different-ways-of-joining-data?u=76281980&t=92)** So if we had two tables, one with a list of [[Microsoft Products|products]] and then one with a list of sales data.
 >
 > **[1:38](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-different-ways-of-joining-data?u=76281980&t=98)** So the blue table is a list of our inventory.
 >
@@ -2593,14 +2570,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), product (7), [[Microsoft Products|Products]] (5), [[Tableau]] (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Tableau]] (4)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to join tables in the same data connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980)
+#### [How to join tables in the same data connection](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2614,9 +2590,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980&t=17)** And I want to bring in some information about orders that have been returned.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980&t=21)** Now this exists in another tab in the original Excel sheet, and I want to bring that in.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980&t=21)** Now this exists in another tab in the original [[Microsoft Excel|Excel]] sheet, and I want to bring that in.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980&t=27)** Now I could use relationships, and Tableau would do all the joining for me, but I want to look at the difference between inner and left and right joins and how that makes some analysis easier and some analysis harder.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980&t=27)** Now I could use relationships, and [[Tableau]] would do all the joining for me, but I want to look at the difference between inner and left and right joins and how that makes some analysis easier and some analysis harder.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980&t=41)** So first, we'll go to our data pane, and we'll right-click on our data source name, click Edit Data Source.
 >
@@ -2676,7 +2652,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980&t=200)** It's 296.
 >
-> **[3:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980&t=202)** If I wanted to know the total number of products, I could put the quantity onto the column, and now, I have the full breakdown of all of the number of products that were returned.
+> **[3:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980&t=202)** If I wanted to know the total number of [[Microsoft Products|products]], I could put the quantity onto the column, and now, I have the full breakdown of all of the number of products that were returned.
 >
 > **[3:36](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-the-same-data-connection?u=76281980&t=216)** And if I go to Analysis, go to Totals, and then show the Column Grand Totals, and scroll down, I can see that in total, 12,190 individual items were returned.
 >
@@ -2736,7 +2712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Products|Products]] (3), [[Tableau]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Tableau]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (4), scroll down (3), double-click (2), right-click (1)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** find (2), make (1)
@@ -2744,16 +2720,15 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to join tables in two using a cross database join
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980)
+#### [How to join tables in two using a cross database join](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=0)** - [Instructor] One of the real strengths of Tableau is the ability to combine data from two different data sources in two different locations.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=0)** - [Instructor] One of the real strengths of [[Tableau]] is the ability to combine data from two different data sources in two different locations.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=9)** We're not limited to just joining sheets within the same Excel document or tables within the same database.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=9)** We're not limited to just joining sheets within the same [[Microsoft Excel|Excel]] document or tables within the same database.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=17)** We can use a mechanism called cross database joins to combine tables from two different Excel documents or an Excel and a Google sheet, or two completely different databases, maybe a database and an Excel sheet.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=17)** We can use a mechanism called cross database joins to combine tables from two different Excel documents or an Excel and a [[Google]] sheet, or two completely different [[Databases]], maybe a database and an Excel sheet.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=31)** Wherever your data is, as long as Tableau can connect to it, it can then combine it together to form one single data source.
 >
@@ -2811,7 +2786,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=185)** Ah, okay, so these are all called category name.
 >
-> **[3:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=189)** Well, in my original data, these values of these products are actually in a table called subcategory.
+> **[3:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=189)** Well, in my original data, these values of these [[Microsoft Products|products]] are actually in a table called subcategory.
 >
 > **[3:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-join-tables-in-two-using-a-cross-database-join?u=76281980&t=197)** So that's why Tableau couldn't find the match because we haven't got a common name across the two data sources.
 >
@@ -2851,7 +2826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Tableau]] (11), [[Microsoft Excel|Excel]] (6), database (4), strengths (1)
+> **Frameworks & Libraries:** [[Tableau]] (11), [[Microsoft Excel|Excel]] (6), [[Google]] (1), [[Databases]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (3), navigate to (1), select the (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** csv (2)
@@ -2860,12 +2835,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to append one data source to another using unions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-append-one-data-source-to-another-using-unions?u=76281980)
+#### [How to append one data source to another using unions](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-append-one-data-source-to-another-using-unions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-append-one-data-source-to-another-using-unions?u=76281980&t=0)** - [Narrator] A common way that people like to store data, particularly in something like Excel or Google Sheets, is using tabs to have the same data and the same structure but duplicated over multiple tabs.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-append-one-data-source-to-another-using-unions?u=76281980&t=0)** - [Narrator] A common way that people like to store data, particularly in something like [[Microsoft Excel|Excel]] or [[Google]] Sheets, is using tabs to have the same data and the same structure but duplicated over multiple tabs.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-append-one-data-source-to-another-using-unions?u=76281980&t=14)** As an example, look at this data I have here.
 >
@@ -2889,7 +2863,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-append-one-data-source-to-another-using-unions?u=76281980&t=63)** That method is using a union.
 >
-> **[1:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-append-one-data-source-to-another-using-unions?u=76281980&t=65)** So let's see that in action in Tableau.
+> **[1:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-append-one-data-source-to-another-using-unions?u=76281980&t=65)** So let's see that in action in [[Tableau]].
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-append-one-data-source-to-another-using-unions?u=76281980&t=68)** So first I'm going to connect to my data, which is an Excel sheet.
 >
@@ -3017,14 +2991,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Tableau]] (7), [[Microsoft Excel|Excel]] (2), [[Search]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Microsoft Excel|Excel]] (2), [[Google]] (1)
 > **UI Navigation:** scroll down (2), drag and drop (1), click on (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Combining data, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-combining-data-part-1?u=76281980)
+#### [Challenge: Combining data, part 1](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-combining-data-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3056,13 +3029,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Combining data, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-1?u=76281980)
+#### [Solution: Combining data, part 1](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3082,7 +3053,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-1?u=76281980&t=43)** So for that we're going to add a second data connection.
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-1?u=76281980&t=47)** It's going to be an Excel file.
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-1?u=76281980&t=47)** It's going to be an [[Microsoft Excel|Excel]] file.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-1?u=76281980&t=50)** So I've already got the order detail.
 >
@@ -3092,7 +3063,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-1?u=76281980&t=59)** So I'm going to drag Sheet 1 into the data modeler and we've got a problem.
 >
-> **[1:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-1?u=76281980&t=65)** So Tableau can't find a corresponding field between those two sheets.
+> **[1:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-1?u=76281980&t=65)** So [[Tableau]] can't find a corresponding field between those two sheets.
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-1?u=76281980&t=69)** So I'm going to have to define it myself.
 >
@@ -3294,15 +3265,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Tableau]] (3), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (6), drag and drop (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Challenge: Combining data, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-combining-data-part-2?u=76281980)
+#### [Challenge: Combining data, part 2](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-combining-data-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3328,13 +3298,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Combining data, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-2?u=76281980)
+#### [Solution: Combining data, part 2](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3352,7 +3320,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-2?u=76281980&t=55)** Now, if somebody else was to come to this, that looks a bit odd because if we want to look at any of the expenses, occupancy, or revenue data, we want to have the hotel name in there.
 >
-> **[1:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-2?u=76281980&t=67)** But in order to do that, Tableau's got to do the join via the order details back out to location to add the hotel name to the revenue report, for example.
+> **[1:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-2?u=76281980&t=67)** But in order to do that, [[Tableau]]'s got to do the join via the order details back out to location to add the hotel name to the revenue report, for example.
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-combining-data-part-2?u=76281980&t=78)** And that doesn't quite make sense.
 >
@@ -3522,7 +3490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Tableau]] (7), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (7)
 > **CLI Commands:** make (8)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)
 > **Cross-References:** go back to (1)
@@ -3536,12 +3504,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the pros and cons of using a data extract?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-pros-and-cons-of-using-a-data-extract?u=76281980)
+#### [What are the pros and cons of using a data extract?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-pros-and-cons-of-using-a-data-extract?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-pros-and-cons-of-using-a-data-extract?u=76281980&t=0)** - [Instructor] This video only applies to Tableau desktop.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-pros-and-cons-of-using-a-data-extract?u=76281980&t=0)** - [Instructor] This video only applies to [[Tableau]] desktop.
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-pros-and-cons-of-using-a-data-extract?u=76281980&t=3)** So what exactly is a data extract and why might we want to make use of one?
 >
@@ -3685,24 +3652,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), database (4), [[Security]] (4), [[Tableau]] (2), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), means that (1)
 > **Env Vars:** tdx (1), tde (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a data extract.
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-data-extract?u=76281980)
+#### [How to create a data extract.](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-data-extract?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-data-extract?u=76281980&t=0)** - [Instructor] This video only applies to Tableau Desktop.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-data-extract?u=76281980&t=0)** - [Instructor] This video only applies to [[Tableau]] Desktop.
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-data-extract?u=76281980&t=3)** This workbook is currently connected to a live copy of the data.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-data-extract?u=76281980&t=7)** Now, I can tell that because of the icon at the top left of my Data pane.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-data-extract?u=76281980&t=12)** We have the single database icon, which tells me I'm connecting live to my Excel spreadsheet, but this could also be a database, Oracle, MySQL, Postgres, or a web connector.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-data-extract?u=76281980&t=12)** We have the single database icon, which tells me I'm connecting live to my [[Microsoft Excel|Excel]] spreadsheet, but this could also be a database, Oracle, [[MySQL]], [[PostgreSQL|Postgres]], or a web connector.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-data-extract?u=76281980&t=24)** Any changes that are made to that data source are going to be reflected in my visualization.
 >
@@ -3778,14 +3744,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Tableau]] (11), [[Microsoft Excel|Excel]] (4), database (3), hit (2)
+> **Frameworks & Libraries:** [[Tableau]] (11), [[Microsoft Excel|Excel]] (4), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **UI Navigation:** right-click (3), go to (3), click on (1)
 > **CLI Commands:** make (4), mysql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to limit the data in a data extract
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-limit-the-data-in-a-data-extract?u=76281980)
+#### [How to limit the data in a data extract](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-limit-the-data-in-a-data-extract?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3831,7 +3796,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-limit-the-data-in-a-data-extract?u=76281980&t=111)** So, if I go to my Extract, right click and click on Extract Data, we have the extract dialogue box appear.
 >
-> **[2:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-limit-the-data-in-a-data-extract?u=76281980&t=123)** Now, this might look different depending on what version of Tableau you're using, but the logic is still the same.
+> **[2:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-limit-the-data-in-a-data-extract?u=76281980&t=123)** Now, this might look different depending on what version of [[Tableau]] you're using, but the logic is still the same.
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-limit-the-data-in-a-data-extract?u=76281980&t=130)** In the Filter section, we can apply a filter.
 >
@@ -3947,18 +3912,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Tableau]] (8), [[Security]] (2), database (1)
+> **Frameworks & Libraries:** [[Tableau]] (8)
 > **UI Navigation:** go to (6), click on (5), select the (1), scroll down (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to edit a data extract to include more data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-edit-a-data-extract-to-include-more-data?u=76281980)
+#### [How to edit a data extract to include more data](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-edit-a-data-extract-to-include-more-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-edit-a-data-extract-to-include-more-data?u=76281980&t=0)** - [Instructor] This video only applies to Tableau Desktop.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-edit-a-data-extract-to-include-more-data?u=76281980&t=0)** - [Instructor] This video only applies to [[Tableau]] Desktop.
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-edit-a-data-extract-to-include-more-data?u=76281980&t=3)** One of the great things about a data extract is you can limit the data that's pulled into it.
 >
@@ -4086,7 +4050,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-edit-a-data-extract-to-include-more-data?u=76281980&t=314)** Yep, 23 and 24.
 >
-> **[5:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-edit-a-data-extract-to-include-more-data?u=76281980&t=316)** Still want the rest of the region, and I want to hide all the other fields.
+> **[5:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-edit-a-data-extract-to-include-more-data?u=76281980&t=316)** Still want the [[Representational State Transfer (REST)|rest]] of the region, and I want to hide all the other fields.
 >
 > **[5:20](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-edit-a-data-extract-to-include-more-data?u=76281980&t=320)** So I'm going to click Hide All Unused Fields.
 >
@@ -4132,7 +4096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Tableau]] (7), product (6), [[Security]] (2), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (13), right-click (5), go to (2)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (1)
@@ -4144,12 +4108,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are measure names and measure values?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980)
+#### [What are measure names and measure values?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980&t=0)** - [Instructor] One of the key things to understand why Tableau behaves the way it does is the relationship between green field and blue field, between continuous and discreet fields.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980&t=0)** - [Instructor] One of the key things to understand why [[Tableau]] behaves the way it does is the relationship between green field and blue field, between continuous and discreet fields.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980&t=11)** To understand them in a bit more detail, check out the chapters where we go into detail on green and blue fields.
 >
@@ -4177,7 +4140,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980&t=95)** This denotes that these are not part of the original data.
 >
-> **[1:40](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980&t=100)** So you won't find these columns in the Excel sheet that we connected to.
+> **[1:40](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980&t=100)** So you won't find these columns in the [[Microsoft Excel|Excel]] sheet that we connected to.
 >
 > **[1:44](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980&t=104)** These are values that Tableau generates for us automatically when we need them.
 >
@@ -4267,20 +4230,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (11), data (5), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (11), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
 > **Versions:** 2.3 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a combined axis chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-combined-axis-chart?u=76281980)
+#### [Creating a combined axis chart](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-combined-axis-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-combined-axis-chart?u=76281980&t=0)** - [Instructor] One way to compare measures is to create a combined axis chart.
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-combined-axis-chart?u=76281980&t=5)** This is where we tell Tableau to break its own rules and combined measures into a single axis, so we can compare one measure and one value against the other.
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-combined-axis-chart?u=76281980&t=5)** This is where we tell [[Tableau]] to break its own rules and combined measures into a single axis, so we can compare one measure and one value against the other.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-combined-axis-chart?u=76281980&t=17)** So let's see this in action in two different charts.
 >
@@ -4290,7 +4252,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-combined-axis-chart?u=76281980&t=33)** Now obviously there's a couple of ways we could do this.
 >
-> **[0:34](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-combined-axis-chart?u=76281980&t=34)** I could put profit onto color so I could then see which of my products made high sales, low sales, and which ones made a profit.
+> **[0:34](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-combined-axis-chart?u=76281980&t=34)** I could put profit onto color so I could then see which of my [[Microsoft Products|products]] made high sales, low sales, and which ones made a profit.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-combined-axis-chart?u=76281980&t=46)** But if I want to see the profit in bars, I have to do it in a particular way.
 >
@@ -4402,7 +4364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (6), data (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Cross-References:** go back to (1)
@@ -4410,14 +4372,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a dual axis chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-dual-axis-chart?u=76281980)
+#### [Creating a dual axis chart](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-dual-axis-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-dual-axis-chart?u=76281980&t=0)** - [Instructor] Sometimes, we want to compare two measures against each other, but they're either different units or different orders of magnitude.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-dual-axis-chart?u=76281980&t=11)** Now, in those cases, the combined axis chart won't quite do it, because when we combine the measures onto that same axis, Tableau scales that axis, and if the two measures vary very differently, it's going to have the effect of suppressing one of them down so we don't see as much detail.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-dual-axis-chart?u=76281980&t=11)** Now, in those cases, the combined axis chart won't quite do it, because when we combine the measures onto that same axis, [[Tableau]] scales that axis, and if the two measures vary very differently, it's going to have the effect of suppressing one of them down so we don't see as much detail.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-dual-axis-chart?u=76281980&t=31)** The way to see all the detail is to use a dual axis chart.
 >
@@ -4529,7 +4490,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-dual-axis-chart?u=76281980&t=351)** Ways that we can do this include using profit and sales in the title.
 >
-> **[5:56](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-dual-axis-chart?u=76281980&t=356)** So for example, if I double-click on the title, I have the Edit Title box, and I can actually put the word "profit" and "sales" in the title.
+> **[5:56](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-dual-axis-chart?u=76281980&t=356)** So for example, if I double-click on the title, I have the Edit Title box, and I can actually put the [[Microsoft Word|word]] "profit" and "sales" in the title.
 >
 > **[6:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-dual-axis-chart?u=76281980&t=366)** I could then change the color of sales to be orange, the profit to be blue.
 >
@@ -4549,14 +4510,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (2), data (2), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (4), right-click (3), go to (1), double-click (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a bar-in-bar chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-bar-in-bar-candlestick-chart?u=76281980)
+#### [Creating a bar-in-bar chart](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-bar-in-bar-candlestick-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4696,7 +4656,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), hit (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** go back to (1)
@@ -4704,8 +4663,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a multiple measure crosstab
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-multiple-measure-crosstab?u=76281980)
+#### [Creating a multiple measure crosstab](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-multiple-measure-crosstab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4727,7 +4685,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-multiple-measure-crosstab?u=76281980&t=46)** Now, instead of dropping it on the row or the column, we're going to drop it straight in the middle of the view.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-multiple-measure-crosstab?u=76281980&t=52)** This tells Tableau that we want to see the value of the sum of sales as text.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-multiple-measure-crosstab?u=76281980&t=52)** This tells [[Tableau]] that we want to see the value of the sum of sales as text.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-multiple-measure-crosstab?u=76281980&t=57)** So the total amount of sales in our data is 2.3 million.
 >
@@ -4779,7 +4737,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-multiple-measure-crosstab?u=76281980&t=188)** And it's a familiar-looking table to many people.
 >
-> **[3:13](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-multiple-measure-crosstab?u=76281980&t=193)** If people are used to working in Excel or Google Sheets, they're used to a table of data.
+> **[3:13](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-multiple-measure-crosstab?u=76281980&t=193)** If people are used to working in [[Microsoft Excel|Excel]] or [[Google]] Sheets, they're used to a table of data.
 >
 > **[3:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-multiple-measure-crosstab?u=76281980&t=199)** So the cross tab is quite a familiar-looking thing.
 >
@@ -4793,14 +4751,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Tableau]] (3), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
 > **Versions:** 2.3 (1)
 > **UI Navigation:** drag and drop (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing two measures using a scatter plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/comparing-two-measures-using-a-scatter-plot?u=76281980)
+#### [Comparing two measures using a scatter plot](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/comparing-two-measures-using-a-scatter-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4810,7 +4767,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/comparing-two-measures-using-a-scatter-plot?u=76281980&t=17)** Now, to build a scatterplot, we have two axes, and then we plot the aggregated totals for those two measures somewhere within the axis.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/comparing-two-measures-using-a-scatter-plot?u=76281980&t=28)** Now, because of Tableau's rules of one green field equals one axis, we know we need two green fields, one on the row, one on the column.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/comparing-two-measures-using-a-scatter-plot?u=76281980&t=28)** Now, because of [[Tableau]]'s rules of one green field equals one axis, we know we need two green fields, one on the row, one on the column.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/comparing-two-measures-using-a-scatter-plot?u=76281980&t=37)** So let's put sales onto our column and put profit on our rows, and there's our scatterplot.
 >
@@ -4884,7 +4841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2)
@@ -4892,8 +4849,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Comparing measures, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-comparing-measures-part-1?u=76281980)
+#### [Challenge: Comparing measures, part 1](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-comparing-measures-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4934,8 +4890,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Comparing measures, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-comparing-measures-part-1?u=76281980)
+#### [Solution: Comparing measures, part 1](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-comparing-measures-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5201,15 +5156,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** click on (3), drag and drop (1), go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Comparing measures, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-comparing-measures-part-2?u=76281980)
+#### [Challenge: Comparing measures, part 2](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-comparing-measures-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5243,8 +5196,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Comparing measures, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-comparing-measures-part-2?u=76281980)
+#### [Solution: Comparing measures, part 2](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-comparing-measures-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5302,7 +5254,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-comparing-measures-part-2?u=76281980&t=130)** So the measure names and measure values have just appeared.
 >
-> **[2:12](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-comparing-measures-part-2?u=76281980&t=132)** I didn't even ask for those to happen, but Tableau obviously realizes that it needs to use those to enable the chart to be built.
+> **[2:12](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-comparing-measures-part-2?u=76281980&t=132)** I didn't even ask for those to happen, but [[Tableau]] obviously realizes that it needs to use those to enable the chart to be built.
 >
 > **[2:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-comparing-measures-part-2?u=76281980&t=141)** Excellent stuff.
 >
@@ -5416,7 +5368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -5427,8 +5379,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do calculations work in Tableau?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-calculations-work-in-tableau?u=76281980)
+#### [How do calculations work in Tableau?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-calculations-work-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5440,7 +5391,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-calculations-work-in-tableau?u=76281980&t=22)** So that's what we're going to look at now.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-calculations-work-in-tableau?u=76281980&t=25)** Now, a calculation within Tableau creates a calculated field.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-calculations-work-in-tableau?u=76281980&t=25)** Now, a calculation within [[Tableau]] creates a calculated field.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-calculations-work-in-tableau?u=76281980&t=30)** So what that means is it's going to be an additional field in our data pane.
 >
@@ -5586,7 +5537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Tableau]] (7), hit (3), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (7)
 > **Env Vars:** upper (4)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (2), select the (1)
@@ -5595,16 +5546,15 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the order of operations in calculation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understanding-the-order-of-operations-in-calculation?u=76281980)
+#### [Understanding the order of operations in calculation](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understanding-the-order-of-operations-in-calculation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understanding-the-order-of-operations-in-calculation?u=76281980&t=0)** - [Instructor] One of the most important things when it comes to understanding how Tableau creates calculated fields is understanding the order of operations, and particularly when does the aggregation occur.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understanding-the-order-of-operations-in-calculation?u=76281980&t=0)** - [Instructor] One of the most important things when it comes to understanding how [[Tableau]] creates calculated fields is understanding the order of operations, and particularly when does the aggregation occur.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understanding-the-order-of-operations-in-calculation?u=76281980&t=14)** Now the citizen action, we're going to look at profitability for some of our subcategories in our superstore data set.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understanding-the-order-of-operations-in-calculation?u=76281980&t=22)** So I'm going to start off with a very simple bar chart, which is showing the number of products.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understanding-the-order-of-operations-in-calculation?u=76281980&t=22)** So I'm going to start off with a very simple bar chart, which is showing the number of [[Microsoft Products|products]].
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understanding-the-order-of-operations-in-calculation?u=76281980&t=27)** So this is the sum of quantity for each one of those subcategories.
 >
@@ -5720,14 +5670,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Tableau]] (4), [[Microsoft Products|Products]] (3), business (2), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (9)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (2), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating strings using string functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980)
+#### [Manipulating strings using string functions](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5735,7 +5684,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=5)** It's usually messy, it usually needs cleaning up, but also, free text does have a lot of useful information if we can extract it out of it.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=15)** Luckily for us, Tableau has several string functions that will do just that.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=15)** Luckily for us, [[Tableau]] has several string functions that will do just that.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=19)** We can change the existing text, we can extract useful bits of information from it, and we create calculations that are based off some of the things within that string.
 >
@@ -5757,7 +5706,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=85)** Now the opposite of uppercase is lowercase, and what that will do is create the lowercase version of that customer name.
 >
-> **[1:34](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=94)** The third option that we have for case is called proper, and what this will do is it will change the string to be proper case, so it'll capitalise the initial letter of each word and lowercase all of the other words.
+> **[1:34](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=94)** The third option that we have for case is called proper, and what this will do is it will change the string to be proper case, so it'll capitalise the initial letter of each [[Microsoft Word|word]] and lowercase all of the other words.
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=108)** This can be quite useful if you want to format an entire string.
 >
@@ -5875,7 +5824,7 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=455)** If I do an automatic split, what Tableau does is create three new fields, and if I put all of these onto my row, we get a split on each of the three columns that it could do.
 >
-> **[7:47](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=467)** This is the equivalent of text to columns in something like Excel or Google Sheets.
+> **[7:47](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=467)** This is the equivalent of text to columns in something like [[Microsoft Excel|Excel]] or [[Google]] Sheets.
 >
 > **[7:53](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-strings-using-string-functions?u=76281980&t=473)** The string functions are incredibly useful at manipulating strings and changing them for use in further analysis.
 >
@@ -5885,7 +5834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), data (3), [[Tableau]] (3), hit (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
 > **Code Identifiers:** startswith (4), endswith (2)
 > **UI Navigation:** click on (3)
 > **Definitions:** is called (1), refers to (1)
@@ -5893,12 +5842,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating dates with date functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-dates-with-date-functions?u=76281980)
+#### [Manipulating dates with date functions](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-dates-with-date-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-dates-with-date-functions?u=76281980&t=0)** - [Instructor] Tableau makes it really easy to manipulate dates, and we're going to look at a couple of the functions now, one for adding duration to dates and one to create durations based off of dates so we can look for the amount of time that's elapsed between two different dates.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-dates-with-date-functions?u=76281980&t=0)** - [Instructor] [[Tableau]] makes it really easy to manipulate dates, and we're going to look at a couple of the functions now, one for adding duration to dates and one to create durations based off of dates so we can look for the amount of time that's elapsed between two different dates.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-dates-with-date-functions?u=76281980&t=16)** And to do that, I'm going to first create a table so I can see the results of the calculation in real time.
 >
@@ -5924,7 +5872,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-dates-with-date-functions?u=76281980&t=113)** So for our example, I want to know what is the date five days from our order date?
 >
-> **[2:01](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-dates-with-date-functions?u=76281980&t=121)** Maybe we have some agreement that all of our products will be shipped out within five days, so I want to see what date should they have gone out.
+> **[2:01](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-dates-with-date-functions?u=76281980&t=121)** Maybe we have some agreement that all of our [[Microsoft Products|products]] will be shipped out within five days, so I want to see what date should they have gone out.
 >
 > **[2:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/manipulating-dates-with-date-functions?u=76281980&t=128)** So I'm going to add, the unit is going to be Day, not Days.
 >
@@ -6026,20 +5974,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (5), data (5), [[Microsoft Products|Products]] (2), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** right-click (3), select the (2), click on (1), drag and drop (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating logic calculations using IF functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980)
+#### [Creating logic calculations using IF functions](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=0)** - [Instructor] Logic functions are a way of testing a scenario, and based on the results of that, we can then return a specific value, which we can then use in our analysis.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=10)** So to see an example of that, let's look at profitability of the sales of our products.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=10)** So to see an example of that, let's look at profitability of the sales of our [[Microsoft Products|products]].
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=17)** So I'm going to start by looking at the amount of sales for each of our subcategories.
 >
@@ -6103,7 +6050,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=186)** So the if function works by testing the expressions, and if the expression is true, then it will return the value that's been supplied.
 >
-> **[3:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=197)** So first test, if the profit is greater than 0, then we want to return the word profitable.
+> **[3:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=197)** So first test, if the profit is greater than 0, then we want to return the [[Microsoft Word|word]] profitable.
 >
 > **[3:28](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=208)** The second test is for those where it's less than 0.
 >
@@ -6115,7 +6062,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=228)** So for that, we'll say ElSEIF profit equals 0, then we've broken even.
 >
-> **[4:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=242)** We then have to tell Tableau that this is the end of the IF calculation.
+> **[4:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=242)** We then have to tell [[Tableau]] that this is the end of the IF calculation.
 >
 > **[4:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-logic-calculations-using-if-functions?u=76281980&t=247)** So what's going to happen when we apply this is Tableau's going to go down every row of our data.
 >
@@ -6173,18 +6120,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Products|Products]] (2), data (2), business (1), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** picture (1), such as (1)
 > **Env Vars:** elseif (1)
 > **Speakers:** - [instructor] (1)
 
-#### How do table calculations work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-table-calculations-work?u=76281980)
+#### [How do table calculations work?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-table-calculations-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-table-calculations-work?u=76281980&t=0)** - [Instructor] There are a second set of calculations that Tableau can do called table calculations.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-table-calculations-work?u=76281980&t=0)** - [Instructor] There are a second set of calculations that [[Tableau]] can do called table calculations.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-table-calculations-work?u=76281980&t=6)** Now, these differ from calculated fields in one important way.
 >
@@ -6310,7 +6256,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-table-calculations-work?u=76281980&t=322)** I can see there looks to be some kind of cyclical pattern when we have these peaks and troughs.
 >
-> **[5:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-table-calculations-work?u=76281980&t=327)** But what I want to know is what percentage of sales is due to technology office supplies or furniture, and how does that vary over the course of our time?
+> **[5:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-table-calculations-work?u=76281980&t=327)** But what I want to know is what percentage of sales is due to technology [[Microsoft Office|office]] supplies or furniture, and how does that vary over the course of our time?
 >
 > **[5:37](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-table-calculations-work?u=76281980&t=337)** To do that, we use our table calculation.
 >
@@ -6370,14 +6316,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Tableau]] (3), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (2), select the (1), click on (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Table calc directions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/table-calc-directions?u=76281980)
+#### [Table calc directions](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/table-calc-directions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6421,7 +6366,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/table-calc-directions?u=76281980&t=108)** So the percent of total can be computed using several different directions.
 >
-> **[1:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/table-calc-directions?u=76281980&t=114)** When we open up the table calculation editor, Tableau highlights in yellow the direction that the calculation is going.
+> **[1:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/table-calc-directions?u=76281980&t=114)** When we open up the table calculation editor, [[Tableau]] highlights in yellow the direction that the calculation is going.
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/table-calc-directions?u=76281980&t=123)** So, if we have the percent of total showing the table across, we can see that the 100% column in the grand totals on the right shows us how the direction is working.
 >
@@ -6467,7 +6412,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/table-calc-directions?u=76281980&t=291)** Now we might want to look at the pane.
 >
-> **[4:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/table-calc-directions?u=76281980&t=294)** Now in this case, we can see the scoping is just for each individual pane, and the one that's been highlighted is office supplies.
+> **[4:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/table-calc-directions?u=76281980&t=294)** Now in this case, we can see the scoping is just for each individual pane, and the one that's been highlighted is [[Microsoft Office|office]] supplies.
 >
 > **[5:01](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/table-calc-directions?u=76281980&t=301)** Now what this tells us is that for each of our values highlighted in yellow, that this contributes to just within that pane.
 >
@@ -6491,15 +6436,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Office|Office]] (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Tableau]] (1)
 > **Versions:** 4.96 (2), 9.45 (1), 5.03 (1), 2.42 (1), 16.84 (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (1), go to (1), click on (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are Level of Detail (LOD) calculations?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-level-of-detail-lod-calculations?u=76281980)
+#### [What are Level of Detail (LOD) calculations?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-level-of-detail-lod-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6537,7 +6481,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-level-of-detail-lod-calculations?u=76281980&t=137)** Now, to get around that we have to use a special type of calculation called an Level of Detail calculation or LOD calc.
 >
-> **[2:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-level-of-detail-lod-calculations?u=76281980&t=144)** What that allows us to do is say to Tableau, I know you've displayed the data at this level of detail.
+> **[2:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-level-of-detail-lod-calculations?u=76281980&t=144)** What that allows us to do is say to [[Tableau]], I know you've displayed the data at this level of detail.
 >
 > **[2:32](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-level-of-detail-lod-calculations?u=76281980&t=152)** In this case the level of detail is at subcategory, 'cause that's the smallest level that we can break it down into.
 >
@@ -6563,16 +6507,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **Env Vars:** lod (7)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### EXCLUDE LOD calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/exclude-lod-calculations?u=76281980)
+#### [EXCLUDE LOD calculations](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/exclude-lod-calculations?u=76281980)
 
-#### INCLUDE LOD calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/include-lod-calculations?u=76281980)
+#### [INCLUDE LOD calculations](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/include-lod-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6582,13 +6524,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/include-lod-calculations?u=76281980&t=21)** So, for example, what about if we wanted to know, what's the average sale of a product compared to the product category?
 >
-> **[0:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/include-lod-calculations?u=76281980&t=31)** So, if I put product Category onto the row, and we look at the Sales, and I change that to be the average sales per product, changed the measure from Sum to Average, I can see the average sales for my products is, if I turn the labels on, 343, 119 and 450 for each of my three categories.
+> **[0:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/include-lod-calculations?u=76281980&t=31)** So, if I put product Category onto the row, and we look at the Sales, and I change that to be the average sales per product, changed the measure from Sum to Average, I can see the average sales for my [[Microsoft Products|products]] is, if I turn the labels on, 343, 119 and 450 for each of my three categories.
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/include-lod-calculations?u=76281980&t=59)** Now, I want to know, what's the average selling price for a product within those categories?
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/include-lod-calculations?u=76281980&t=66)** Now, if I add Product to the view, it's going to get very messy because I've got lots of products.
 >
-> **[1:12](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/include-lod-calculations?u=76281980&t=72)** So, if we put Product name onto the row, Tableau warns us, it's going to add over 2,000 values, you sure you want to do that?
+> **[1:12](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/include-lod-calculations?u=76281980&t=72)** So, if we put Product name onto the row, [[Tableau]] warns us, it's going to add over 2,000 values, you sure you want to do that?
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/include-lod-calculations?u=76281980&t=80)** So, in this case, we'll say Yes, and yeah, we can see that that advice is pretty good, because it's just too much information.
 >
@@ -6626,13 +6568,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), [[Microsoft Products|Products]] (7), data (3), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Tableau]] (1)
 > **Env Vars:** lod (2), include (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### FIXED LOD calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/fixed-lod-calculations?u=76281980)
+#### [FIXED LOD calculations](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/fixed-lod-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6644,7 +6585,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/fixed-lod-calculations?u=76281980&t=20)** This is because of the order of operations that happens with LOD calculations.
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/fixed-lod-calculations?u=76281980&t=26)** And to understand that, let's look at the order of operations that typically happens with Tableau.
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/fixed-lod-calculations?u=76281980&t=26)** And to understand that, let's look at the order of operations that typically happens with [[Tableau]].
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/fixed-lod-calculations?u=76281980&t=32)** Now see where the dimension filters fit within the order of operations.
 >
@@ -6710,13 +6651,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Env Vars:** lod (20)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using calculations in a join
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/using-calculations-in-a-join?u=76281980)
+#### [Using calculations in a join](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/using-calculations-in-a-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6752,7 +6692,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/using-calculations-in-a-join?u=76281980&t=94)** And when I release it.
 >
-> **[1:36](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/using-calculations-in-a-join?u=76281980&t=96)** Tableau successfully found two matching columns.
+> **[1:36](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/using-calculations-in-a-join?u=76281980&t=96)** [[Tableau]] successfully found two matching columns.
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/using-calculations-in-a-join?u=76281980&t=99)** It's found the region column in my order table and the region column in the regional stores table.
 >
@@ -6866,7 +6806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Tableau]] (2), hit (1), database (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Cross-References:** go back to (5)
 > **UI Navigation:** click on (3), go to (1), select the (1)
 > **Definitions:** is a  (2)
@@ -6874,8 +6814,7 @@ created: 2026-05-02
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-calculations?u=76281980)
+#### [Challenge: Calculations](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6915,13 +6854,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), next (1), data (1)
 > **Env Vars:** lod (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (playful music) (1)
 
-#### Solution: Calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-calculations?u=76281980)
+#### [Solution: Calculations](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7045,7 +6982,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-calculations?u=76281980&t=285)** Close my curly bracket.
 >
-> **[4:46](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-calculations?u=76281980&t=286)** So what Tableau's going to do for each combination of product name and order id, it's going to create the average order total and that will give my average sales per order.
+> **[4:46](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-calculations?u=76281980&t=286)** So what [[Tableau]]'s going to do for each combination of product name and order id, it's going to create the average order total and that will give my average sales per order.
 >
 > **[4:56](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-calculations?u=76281980&t=296)** What I can then do is add that to my view.
 >
@@ -7077,7 +7014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (4), next (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** lod (2)
 > **Versions:** 0.3 (1), 0.7 (1)
@@ -7090,8 +7027,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Just because you can, should you create a map?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/just-because-you-can-should-you-create-a-map?u=76281980)
+#### [Just because you can, should you create a map?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/just-because-you-can-should-you-create-a-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7121,7 +7057,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/just-because-you-can-should-you-create-a-map?u=76281980&t=99)** I'm going to drag out sales and put it onto color.
 >
-> **[1:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/just-because-you-can-should-you-create-a-map?u=76281980&t=103)** Now what Tableau does is it colors each of the areas, in our case, the states a shade of blue, depending on the value of the sum of sales.
+> **[1:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/just-because-you-can-should-you-create-a-map?u=76281980&t=103)** Now what [[Tableau]] does is it colors each of the areas, in our case, the states a shade of blue, depending on the value of the sum of sales.
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/just-because-you-can-should-you-create-a-map?u=76281980&t=113)** The higher the value of sales, the darker the blue, the smaller, the lighter blue, and all the shades in between.
 >
@@ -7251,14 +7187,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (2), [[Tableau]] (1), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create an area map
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-map?u=76281980)
+#### [How to create an area map](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7266,7 +7201,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-map?u=76281980&t=6)** So how do we go about creating a map?
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-map?u=76281980&t=10)** And how do we know that Tableau even knows how to create a map?
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-map?u=76281980&t=10)** And how do we know that [[Tableau]] even knows how to create a map?
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-map?u=76281980&t=14)** Well, if we look in the left hand side of our data pane, we can see the symbols that Tableau's assigned to those fields and tells you what kind of data is there.
 >
@@ -7284,7 +7219,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-map?u=76281980&t=35)** Table's got an inbuilt database where it knows about locations.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-map?u=76281980&t=38)** If it sees a field name with the word city or country or postcode or state, it would assume that that column of data contains geographic data, and because of that, Tableau will try and create a map for you.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-map?u=76281980&t=38)** If it sees a field name with the [[Microsoft Word|word]] city or country or postcode or state, it would assume that that column of data contains geographic data, and because of that, Tableau will try and create a map for you.
 >
 > **[0:52](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-map?u=76281980&t=52)** We also know that it knows about maps because of two other fields.
 >
@@ -7414,7 +7349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Tableau]] (8), database (2), [[Microsoft Word|Word]] (1), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (8), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (6), is an  (2)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (3)
@@ -7422,8 +7357,7 @@ created: 2026-05-02
 > **Env Vars:** usa (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a symbol map
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map?u=76281980)
+#### [How to create a symbol map](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7435,7 +7369,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map?u=76281980&t=22)** So let's have a look and see how we would do something like that.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map?u=76281980&t=25)** Now we know that Tableau can create a map because of the way it handles geographic data.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map?u=76281980&t=25)** Now we know that [[Tableau]] can create a map because of the way it handles geographic data.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map?u=76281980&t=31)** When we look in our data pan, we can see there are certain fields that have the globe icon.
 >
@@ -7519,7 +7453,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map?u=76281980&t=261)** Part of the issue with using the symbol map is that clustering and congestion of some of those data points.
 >
-> **[4:29](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map?u=76281980&t=269)** Now, we could zoom in on a map in a particular area if we wanted to get around that, but it's something to consider when anytime you build that map, is it actually making the data easier to see or not?
+> **[4:29](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map?u=76281980&t=269)** Now, we could [[Zoom]] in on a map in a particular area if we wanted to get around that, but it's something to consider when anytime you build that map, is it actually making the data easier to see or not?
 >
 > **[4:41](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map?u=76281980&t=281)** In a case like this, maybe it does, maybe it doesn't?
 >
@@ -7567,19 +7501,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Tableau]] (7), next (2), database (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Zoom]] (1)
 > **Analogies:** for example (2), such as (1), picture (1), kind of like (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customizing the look of your maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980)
+#### [Customizing the look of your maps](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=0)** - [Instructor] If you've got geographic data, Tableau makes it really easy to create a map, and the default map is pretty good, but there's lots of options that we can do to customize a map to make it fit in with our other dashboards, and we have some control over the interaction that we're going to allow our users to do with it.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=0)** - [Instructor] If you've got geographic data, [[Tableau]] makes it really easy to create a map, and the default map is pretty good, but there's lots of options that we can do to customize a map to make it fit in with our other [[Dashboards]], and we have some control over the interaction that we're going to allow our users to do with it.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=18)** So to look at that, we're just going to create a very simple map using the default values, and then we'll go through some of the customizations so you can see how you can change the look and the feel of your maps.
 >
@@ -7613,7 +7546,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=127)** So that can be quite useful.
 >
-> **[2:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=129)** It's modifying the map to zoom in on an area without having to manually ask somebody to zoom in just by using the filtering and saying, "We don't want to see everything else, just want to see that southern region."
+> **[2:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=129)** It's modifying the map to [[Zoom]] in on an area without having to manually ask somebody to zoom in just by using the filtering and saying, "We don't want to see everything else, just want to see that southern region."
 >
 > **[2:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=139)** It will zoom in just to show those southern cities.
 >
@@ -7691,7 +7624,7 @@ created: 2026-05-02
 >
 > **[6:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=403)** Maybe I don't actually want to see all of those regions, maybe I don't want to see all of that detail.
 >
-> **[6:49](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=409)** So what I could do is maybe select South, and I don't want to see the rest of this gray map out here 'cause that's distracting.
+> **[6:49](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=409)** So what I could do is maybe select South, and I don't want to see the [[Representational State Transfer (REST)|rest]] of this gray map out here 'cause that's distracting.
 >
 > **[6:55](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/customising-the-look-of-your-maps?u=76281980&t=415)** I just literally want to see the shapes of those states themselves.
 >
@@ -7711,18 +7644,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (12), data (9), [[Tableau]] (1), [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (12), [[Tableau]] (1), [[Dashboards]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (5), go to (4), select the (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3)
 > **Speakers:** - [instructor] (1)
 
-#### Create locations from coordinates
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-locations-from-co-ordinates?u=76281980)
+#### [Create locations from coordinates](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-locations-from-co-ordinates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-locations-from-co-ordinates?u=76281980&t=0)** - [Instructor] Tableau makes it really easy to create new locations and to map any kind of geographic data.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-locations-from-co-ordinates?u=76281980&t=0)** - [Instructor] [[Tableau]] makes it really easy to create new locations and to map any kind of geographic data.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-locations-from-co-ordinates?u=76281980&t=7)** The only thing that we need to provide to Tableau is either a name of locations that it already knows about, but we can map any data as long as we have the latitude, the longitude, and a unique identifier for each row that we want to plot on the map.
 >
@@ -7732,7 +7664,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-locations-from-co-ordinates?u=76281980&t=40)** So first, let's go ahead and build our starter map.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-locations-from-co-ordinates?u=76281980&t=43)** So for that we're going to connect to an Excel sheet, which is called LA Stores.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-locations-from-co-ordinates?u=76281980&t=43)** So for that we're going to connect to an [[Microsoft Excel|Excel]] sheet, which is called LA Stores.
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-locations-from-co-ordinates?u=76281980&t=49)** So I'm going to open that.
 >
@@ -7832,7 +7764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Tableau]] (14), [[Microsoft Excel|Excel]] (5), feature (2)
+> **Frameworks & Libraries:** [[Tableau]] (14), [[Microsoft Excel|Excel]] (5)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 34.396 (1), 119.521 (1)
@@ -7840,12 +7772,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create lines to connect locations on a map
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-lines-to-connect-locations-on-a-map?u=76281980)
+#### [Create lines to connect locations on a map](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-lines-to-connect-locations-on-a-map?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-lines-to-connect-locations-on-a-map?u=76281980&t=0)** - [Instructor] Tableau's spatial calculations let us change latitudes and longitudes into spatial objects, join them together with lines, and even calculate distances between them.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-lines-to-connect-locations-on-a-map?u=76281980&t=0)** - [Instructor] [[Tableau]]'s spatial calculations let us change latitudes and longitudes into spatial objects, join them together with lines, and even calculate distances between them.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-lines-to-connect-locations-on-a-map?u=76281980&t=11)** So let's have a look at this data set that we've got here.
 >
@@ -7975,7 +7906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (9), data (8), hit (3), database (1)
+> **Frameworks & Libraries:** [[Tableau]] (9)
 > **Env Vars:** makepoint (3), makeline (2), makeobject (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), we call this (1), is called (1)
@@ -7984,8 +7915,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing distances using buffer calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/analysing-distances-using-buffer-calculations?u=76281980)
+#### [Analyzing distances using buffer calculations](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/analysing-distances-using-buffer-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8111,17 +8041,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** go to (1), drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing spatial data using intersect calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/analysing-spatial-data-using-intersect-calculations?u=76281980)
+#### [Analyzing spatial data using intersect calculations](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/analysing-spatial-data-using-intersect-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/analysing-spatial-data-using-intersect-calculations?u=76281980&t=0)** - [Instructor] Tableau's spatial functions allow us to answer questions about the geographic portion of our data that otherwise be really difficult to answer.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/analysing-spatial-data-using-intersect-calculations?u=76281980&t=0)** - [Instructor] [[Tableau]]'s spatial functions allow us to answer questions about the geographic portion of our data that otherwise be really difficult to answer.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/analysing-spatial-data-using-intersect-calculations?u=76281980&t=10)** So for example, I've got 30 locations of my stores and I want to know how many of these stores lie within a certain radius of my main store in LA.
 >
@@ -8283,7 +8211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tableau]] (5), [[Search]] (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (5)
 > **Env Vars:** makepoint (3), intersects (1), count (1), iff (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), drag and drop (1), select the (1)
@@ -8291,8 +8219,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-mapping?u=76281980)
+#### [Challenge: Mapping](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8328,12 +8255,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-mapping?u=76281980)
+#### [Solution: Mapping](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8349,7 +8274,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-mapping?u=76281980&t=31)** So let's put the latitude and longitude in our row column.
 >
-> **[0:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-mapping?u=76281980&t=35)** And Tableau creates a map for me.
+> **[0:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-mapping?u=76281980&t=35)** And [[Tableau]] creates a map for me.
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-mapping?u=76281980&t=38)** That's interesting.
 >
@@ -8515,7 +8440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), hit (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** make (16)
 > **Versions:** 51.51 (2)
 > **UI Navigation:** go to (1)
@@ -8528,12 +8453,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the Analytics pane?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980)
+#### [What is the Analytics pane?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980&t=0)** - [Instructor] Tableau not only makes it really easy to visualize our data, it's increasingly making it easier to analyze it as well, giving us drag and drop analytics when we need it.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980&t=0)** - [Instructor] [[Tableau]] not only makes it really easy to visualize our data, it's increasingly making it easier to analyze it as well, giving us drag and drop analytics when we need it.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980&t=13)** Now, this is very simple to do, because this is how Tableau tries to everything to make it simple as possible.
 >
@@ -8617,7 +8541,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980&t=229)** That could happen with either a bar chart such as this, or maybe with a table.
 >
-> **[3:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980&t=234)** Once we've created our view, we can also do things like modeling and forecasting.
+> **[3:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980&t=234)** Once we've created our view, we can also do things like modeling and [[Forecasting]].
 >
 > **[3:59](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980&t=239)** This allows us to look at our data, but only after we've visualized it, because we need something to look at.
 >
@@ -8637,14 +8561,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Analytics]] (18), [[Tableau]] (5), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Forecasting]] (1)
 > **UI Navigation:** drag and drop (6), click on (1)
 > **Analogies:** such as (2), for example (1), similar to (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a constant reference line
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-constant-reference-line?u=76281980)
+#### [Create a constant reference line](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-constant-reference-line?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8728,7 +8651,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-constant-reference-line?u=76281980&t=231)** This is because I have two axes.
 >
-> **[3:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-constant-reference-line?u=76281980&t=234)** Tableau will let me attach a reference line to each one of those.
+> **[3:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-constant-reference-line?u=76281980&t=234)** [[Tableau]] will let me attach a reference line to each one of those.
 >
 > **[3:57](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-constant-reference-line?u=76281980&t=237)** So, first of all, let's just attach one to the Sales axis like we did before, and let's put 80k as the value we're interested in.
 >
@@ -8754,14 +8677,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (7), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** right-click (2), click on (1), select the (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** month (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a dynamic average reference line
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-dynamic-average-reference-line?u=76281980)
+#### [Create a dynamic average reference line](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-dynamic-average-reference-line?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8827,7 +8749,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-dynamic-average-reference-line?u=76281980&t=154)** We can see here that the average for those selected bars is 211,000.
 >
-> **[2:40](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-dynamic-average-reference-line?u=76281980&t=160)** Tableau recalculated the average to just show the average for those selected bars.
+> **[2:40](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-dynamic-average-reference-line?u=76281980&t=160)** [[Tableau]] recalculated the average to just show the average for those selected bars.
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-dynamic-average-reference-line?u=76281980&t=165)** The original average is still here, but it's grayed out to show that the emphasis now on the new bar that we've just selected.
 >
@@ -8847,7 +8769,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-dynamic-average-reference-line?u=76281980&t=206)** So we go to the average line, drag that across, and I'm going to select the pane.
 >
-> **[3:32](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-dynamic-average-reference-line?u=76281980&t=212)** Well, now we have three average lines, one for the furniture, one for the office supplies, and one for the technology.
+> **[3:32](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-dynamic-average-reference-line?u=76281980&t=212)** Well, now we have three average lines, one for the furniture, one for the [[Microsoft Office|office]] supplies, and one for the technology.
 >
 > **[3:41](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-a-dynamic-average-reference-line?u=76281980&t=221)** So I can see that on average the sales for office supplies is 81,000, and I can see that the average sales of technology of 209,000 are higher than the average sales for furniture.
 >
@@ -8917,13 +8839,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (5), [[Microsoft Office|Office]] (3), [[Tableau]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Tableau]] (2)
 > **UI Navigation:** select the (2), go to (2), click on (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to create box plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-box-plots?u=76281980)
+#### [How to create box plots](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-box-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8979,7 +8900,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-box-plots?u=76281980&t=191)** So I'm going to add this to my view by just dragging and dropping it onto the view.
 >
-> **[3:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-box-plots?u=76281980&t=196)** And now Tableau has drawn the box plot reference on top for me.
+> **[3:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-box-plots?u=76281980&t=196)** And now [[Tableau]] has drawn the box plot reference on top for me.
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-box-plots?u=76281980&t=202)** Now what this represents is the distribution of the data.
 >
@@ -9011,14 +8932,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Analytics]] (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding totals and sub-totals to a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-totals-and-sub-totals-to-a-view?u=76281980)
+#### [Adding totals and sub-totals to a view](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-totals-and-sub-totals-to-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9048,7 +8968,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-totals-and-sub-totals-to-a-view?u=76281980&t=79)** Let's color it by the category so we can see our three distinct categories.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-totals-and-sub-totals-to-a-view?u=76281980&t=83)** Now, if I want to know what the subtotal is for the furniture office supplies and technologies, I've got two options.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-totals-and-sub-totals-to-a-view?u=76281980&t=83)** Now, if I want to know what the subtotal is for the furniture [[Microsoft Office|office]] supplies and technologies, I've got two options.
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-totals-and-sub-totals-to-a-view?u=76281980&t=91)** I could either hover over and select all of the values for that particular category, and then the hover over it tells me what the total sum of sales is, and I could change that to look at maybe the average or whatever I wanted to do, but actually I want to be able to see the subtotal.
 >
@@ -9148,25 +9068,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (7), [[Microsoft Office|Office]] (4), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.3 (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a forecast to a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980)
+#### [Adding a forecast to a view](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=0)** - [Instructor] One of the types of analysis that we sometimes need to do is predict what might happen in the future.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=6)** Now to do this, Tableau's got some inbuilt forecasting tools that we can apply to our view.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=6)** Now to do this, [[Tableau]]'s got some inbuilt [[Forecasting]] tools that we can apply to our view.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=12)** Now, much like the other analytics in this section, we need to apply that analytics after we've created the view, because Tableau's going to use what is inside the view, the measures, the dimensions, the level of detail, in order to perform the calculations for the forecasting function.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=30)** So to have a look at that, we're going to build a timeline, and then we're going to use some predictive analytics to see if we can figure out what might happen in the future.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=30)** So to have a look at that, we're going to build a timeline, and then we're going to use some [[Predictive Analytics]] to see if we can figure out what might happen in the future.
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=38)** So first let's create our timeline.
 >
@@ -9236,7 +9155,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=231)** We can still see that seasonal trend going on for the next two years, but that overall growth also looks to be going upwards.
 >
-> **[3:58](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=238)** All that analytics, all that calculation, all that tricky statistics is being done for us.
+> **[3:58](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=238)** All that analytics, all that calculation, all that tricky [[Statistics]] is being done for us.
 >
 > **[4:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=246)** All we had to do was drag and drop.
 >
@@ -9246,21 +9165,20 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=253)** I didn't have to get involved with any kind of numeric calculations.
 >
-> **[4:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=256)** I simply dropped the forecast onto the view and Tableau did the rest for me.
+> **[4:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=256)** I simply dropped the forecast onto the view and Tableau did the [[Representational State Transfer (REST)|rest]] for me.
 >
 > **[4:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-forcast-to-a-view?u=76281980&t=261)** We had a little fiddle around with things to make it look slightly closer to what we think it should look like based on the underlying data, but Tableau does all the hard work for us to get the answers that we need with our data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (9), data (9), [[Analytics]] (5), [[Forecasting]] (3), next (3)
+> **Frameworks & Libraries:** [[Tableau]] (9), [[Forecasting]] (3), [[Predictive Analytics]] (1), [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), click on (3), drag and drop (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a trend line to a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-trend-line-to-a-view?u=76281980)
+#### [Adding a trend line to a view](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-trend-line-to-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9304,7 +9222,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-trend-line-to-a-view?u=76281980&t=99)** Now it asks me what kind of trend line do I want to do.
 >
-> **[1:42](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-trend-line-to-a-view?u=76281980&t=102)** Well, I'm just going to look at for the linear trend on this one, and I can see that Tableau's placed a nice line over the top of my existing view to show me the trend line of that data.
+> **[1:42](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-trend-line-to-a-view?u=76281980&t=102)** Well, I'm just going to look at for the linear trend on this one, and I can see that [[Tableau]]'s placed a nice line over the top of my existing view to show me the trend line of that data.
 >
 > **[1:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-trend-line-to-a-view?u=76281980&t=114)** Now, this is a kind of reference line or secondary calculation.
 >
@@ -9316,7 +9234,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-trend-line-to-a-view?u=76281980&t=137)** If I go back up to say, the month, the trend line again changes to show me the month data.
 >
-> **[2:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-trend-line-to-a-view?u=76281980&t=144)** If I hover over the trend line, it gives me some details about the statistics behind that calculation.
+> **[2:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-trend-line-to-a-view?u=76281980&t=144)** If I hover over the trend line, it gives me some details about the [[Statistics]] behind that calculation.
 >
 > **[2:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/adding-a-trend-line-to-a-view?u=76281980&t=151)** Now, like reference lines, this is a dynamic line.
 >
@@ -9374,25 +9292,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Analytics]] (3), [[Tableau]] (3), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Statistics]] (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1), click on (1), drag and drop (1)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Looking for clusters of data in a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980)
+#### [Looking for clusters of data in a view](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=0)** - [Instructor] Not only does Tableau make it really easy to visualize the data, increasingly it makes it easier to analyze the data.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=0)** - [Instructor] Not only does [[Tableau]] make it really easy to visualize the data, increasingly it makes it easier to analyze the data.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=7)** One of the things we can do is look at clustering.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=10)** This is where we take some of the measures and dimensions and tell Tableau to look to see if it can see any clusters within that data that might show something interesting that we might want to make a business change or decision on.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=22)** To look at that, let's look at the relationship between sales and profit for all of our products across several different regions.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=22)** To look at that, let's look at the relationship between sales and profit for all of our [[Microsoft Products|products]] across several different regions.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=31)** I want to see if there's any clustering of all those disparate data points.
 >
@@ -9472,7 +9389,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=259)** So what the clustering does is it does some calculations behind the scenes for us.
 >
-> **[4:23](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=263)** It tries to figure out what the statistics are behind that data and then colors them accordingly.
+> **[4:23](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=263)** It tries to figure out what the [[Statistics]] are behind that data and then colors them accordingly.
 >
 > **[4:29](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=269)** We can choose to add or remove variables into our clustering to see what's happening.
 >
@@ -9484,7 +9401,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=290)** Tableau not only does drag and drop visualization, it does drag and drop analysis as well.
 >
-> **[4:56](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=296)** Now this means that anybody can do statistical analysis without having to know statistics.
+> **[4:56](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=296)** Now this means that anybody can do [[Statistical Analysis]] without having to know statistics.
 >
 > **[5:01](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/looking-for-clusters-of-data-in-a-view?u=76281980&t=301)** We just need to know how to build the view, how to apply the automatic calculations, and Tableau will do it for us.
 >
@@ -9492,15 +9409,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Tableau]] (9), [[Statistics]] (2), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (9), [[Statistics]] (2), [[Microsoft Products|Products]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** drag and drop (2), go to (1), select the (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a reference band
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-reference-band?u=76281980)
+#### [Creating a reference band](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-reference-band?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9520,7 +9436,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-reference-band?u=76281980&t=50)** This time we'll look at our sales per category and subcategory, and let's put category onto the color.
 >
-> **[1:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-reference-band?u=76281980&t=62)** Now my sales are across 17 different subcategories and I have some high value products and I have some low value products, and I have some color ones in the middle.
+> **[1:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-reference-band?u=76281980&t=62)** Now my sales are across 17 different subcategories and I have some high value [[Microsoft Products|products]] and I have some low value products, and I have some color ones in the middle.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-reference-band?u=76281980&t=73)** Now let's say we have three different sales teams.
 >
@@ -9548,7 +9464,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-reference-band?u=76281980&t=139)** The extent of that gray shaded area is determined by some of the underlying data.
 >
-> **[2:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-reference-band?u=76281980&t=144)** That's how Tableau builds this by default, and we can see that in the band from section, which is the lower value for that band, it's using the value of summer sales and it's taking the minimum value, and that's the lowest value in our data, and you can see that it's actually corresponds to the lowest bar, it's fasteners.
+> **[2:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-reference-band?u=76281980&t=144)** That's how [[Tableau]] builds this by default, and we can see that in the band from section, which is the lower value for that band, it's using the value of summer sales and it's taking the minimum value, and that's the lowest value in our data, and you can see that it's actually corresponds to the lowest bar, it's fasteners.
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/creating-a-reference-band?u=76281980&t=165)** Similarly, if we look at the other end of the bar, we have the maximum is our chairs, and that is using the maximum value of the sale.
 >
@@ -9632,14 +9548,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (3), [[Analytics]] (2), teams (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Tableau]] (1)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Analytics, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-analytics-part-1?u=76281980)
+#### [Challenge: Analytics, part 1](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-analytics-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9675,12 +9590,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Analytics]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (cheerful upbeat music) (1)
 
-#### Solution: Analytics, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-analytics-part-1?u=76281980)
+#### [Solution: Analytics, part 1](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-analytics-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9820,15 +9733,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Analytics]] (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Analytics, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-analytics-part-2?u=76281980)
+#### [Challenge: Analytics, part 2](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-analytics-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9864,13 +9775,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Analytics, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-analytics-part-2?u=76281980)
+#### [Solution: Analytics, part 2](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-analytics-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9912,7 +9821,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-analytics-part-2?u=76281980&t=93)** I'm going to click on the carrot and then we'll do pivot.
 >
-> **[1:36](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-analytics-part-2?u=76281980&t=96)** So what Tableau will do, will now pivot those into, instead of being a wide table, it's going to be a tool table with the field names and then the values against each of my dates.
+> **[1:36](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-analytics-part-2?u=76281980&t=96)** So what [[Tableau]] will do, will now pivot those into, instead of being a wide table, it's going to be a tool table with the field names and then the values against each of my dates.
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-analytics-part-2?u=76281980&t=108)** So, let's rename this column to be, expense type.
 >
@@ -10034,7 +9943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Tableau]] (1), database (1), power (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** click on (2), dropdown (1), go to (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
@@ -10046,8 +9955,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How are parameters different compared to filters?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-are-parameters-different-to-filters?u=76281980)
+#### [How are parameters different compared to filters?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-are-parameters-different-to-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10075,7 +9983,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-are-parameters-different-to-filters?u=76281980&t=82)** So, the minimum and the maximum of these values is minus 17,000 and it's 56,000.
 >
-> **[1:29](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-are-parameters-different-to-filters?u=76281980&t=89)** That was decided on by Tableau.
+> **[1:29](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-are-parameters-different-to-filters?u=76281980&t=89)** That was decided on by [[Tableau]].
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-are-parameters-different-to-filters?u=76281980&t=92)** Tableau looked at the visualization, worked out in that view what is the highest value of sales and set that as the highest value for my parameter, and found the lowest value for the profit and set that as the value for the profit.
 >
@@ -10185,7 +10093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Tableau]] (5)
+> **Frameworks & Libraries:** [[Tableau]] (5)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** sum (3)
 > **CLI Commands:** make (2)
@@ -10193,8 +10101,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use parameters in a calculation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-parameters-in-a-calculations?u=76281980)
+#### [How to use parameters in a calculation](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-parameters-in-a-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10224,7 +10131,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-parameters-in-a-calculations?u=76281980&t=77)** If I want to see that, I could either put it onto the column, so I see it side by side.
 >
-> **[1:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-parameters-in-a-calculations?u=76281980&t=82)** But you'll notice that because Tableau's scaling the axis, the actual bars themselves look identical.
+> **[1:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-parameters-in-a-calculations?u=76281980&t=82)** But you'll notice that because [[Tableau]]'s scaling the axis, the actual bars themselves look identical.
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-parameters-in-a-calculations?u=76281980&t=88)** So I'm actually going to make a bar in bar chart.
 >
@@ -10322,15 +10229,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tableau]] (3)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **UI Navigation:** go to (3), right-click (2), click on (1)
 > **CLI Commands:** make (3)
 > **Versions:** 1.1 (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create dynamic reference lines using parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-dynamic-reference-lines-using-parameters?u=76281980)
+#### [Create dynamic reference lines using parameters](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-dynamic-reference-lines-using-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10424,7 +10330,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-dynamic-reference-lines-using-parameters?u=76281980&t=277)** Now at the moment, that parameter isn't doing anything at all, because we're not using that input in any way.
 >
-> **[4:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-dynamic-reference-lines-using-parameters?u=76281980&t=283)** All we've done is literally create that widget, so we have to tell Tableau to do something with that.
+> **[4:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-dynamic-reference-lines-using-parameters?u=76281980&t=283)** All we've done is literally create that widget, so we have to tell [[Tableau]] to do something with that.
 >
 > **[4:51](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/create-dynamic-reference-lines-using-parameters?u=76281980&t=291)** Now I want to create a custom reference line that's going to use that value.
 >
@@ -10476,14 +10382,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hit (2), [[Analytics]] (2), next (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** click on (4), go to (2), select the (1), dropdown (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), refers to (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a parameter to select dimensions and measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-select-dimensions-and-measures?u=76281980)
+#### [Use a parameter to select dimensions and measures](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-select-dimensions-and-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10497,7 +10402,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-select-dimensions-and-measures?u=76281980&t=19)** But what if I want to see the summer sales broken down by the region or by the profit?
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-select-dimensions-and-measures?u=76281980&t=26)** Well, I can do that because I, as an editor, can go into Tableau and I could just swap the profit for the sales.
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-select-dimensions-and-measures?u=76281980&t=26)** Well, I can do that because I, as an editor, can go into [[Tableau]] and I could just swap the profit for the sales.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-select-dimensions-and-measures?u=76281980&t=35)** And now I'm looking at the profit broken down by the category.
 >
@@ -10645,7 +10550,7 @@ created: 2026-05-02
 >
 > **[7:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-select-dimensions-and-measures?u=76281980&t=439)** At the point of viewing, we don't have to preempt what somebody's going to want to look at.
 >
-> **[7:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-select-dimensions-and-measures?u=76281980&t=444)** This means we can make incredibly flexible dashboards to show what's been selected.
+> **[7:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-select-dimensions-and-measures?u=76281980&t=444)** This means we can make incredibly flexible [[Dashboards]] to show what's been selected.
 >
 > **[7:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-select-dimensions-and-measures?u=76281980&t=451)** We can go one step further to make it slightly easier to see what has been selected by double clicking on the title and using the insert option to insert the actual value of the two parameters.
 >
@@ -10655,14 +10560,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), data (4), next (1), [[Dashboards]] (1), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Dashboards]] (1)
 > **UI Navigation:** go to (3), click on (1), select the (1), drag and drop (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a parameter to search free text fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980)
+#### [Use a parameter to search free text fields](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10680,7 +10584,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=44)** Well, one way we can do that is by using pattern matching and searching for free text.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=51)** Similarly to what you would do in any kind of Word document or Notepad where you can search through looking for particular words or phrase or anything that you can type in, we can build that same kind of functionality within a visualization.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=51)** Similarly to what you would do in any kind of [[Microsoft Word|Word]] document or Notepad where you can search through looking for particular words or phrase or anything that you can type in, we can build that same kind of functionality within a visualization.
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=65)** So for example, if we were looking at something to do with our customers, and we wanted to find all of the customers that started with a particular name or had a particular phrase within their name, how could we go ahead and do that?
 >
@@ -10738,7 +10642,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=213)** At the moment, we're saying, "Search for the letter Q."
 >
-> **[3:37](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=217)** If I get rid of that, and instead use the parameter name itself, what we're saying to Tableau is, "Use the contain function, search through customer name using whatever value has been entered into that parameter box to see if you can find it.
+> **[3:37](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=217)** If I get rid of that, and instead use the parameter name itself, what we're saying to [[Tableau]] is, "Use the contain function, search through customer name using whatever value has been entered into that parameter box to see if you can find it.
 >
 > **[3:53](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=233)** And if you do, that's true. And if you can't, that's false."
 >
@@ -10756,7 +10660,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=269)** This could be really, really useful.
 >
-> **[4:32](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=272)** If you had, for example, a system where somebody's doing some QC on some data quality and they are typing in some visualization, you know, feelings of what they see on screen when they're doing their QC, and they might be typing in sort of, you know, whatever they think is the problem.
+> **[4:32](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=272)** If you had, for example, a system where somebody's doing some QC on some [[Data Quality]] and they are typing in some visualization, you know, feelings of what they see on screen when they're doing their QC, and they might be typing in sort of, you know, whatever they think is the problem.
 >
 > **[4:50](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/use-a-parameter-to-search-free-text-fields?u=76281980&t=290)** It could be that weeks or even months later on, you realize that actually there was a problem with your process.
 >
@@ -10782,7 +10686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Search]] (8), [[Microsoft Word|Word]] (3), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Tableau]] (2), [[Data Quality]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Analogies:** for example (4), such as (2)
 > **Cross-References:** go back to (1)
@@ -10790,12 +10694,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Top N analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/top-n-analysis?u=76281980)
+#### [Top N analysis](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/top-n-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/top-n-analysis?u=76281980&t=0)** - [Instructor] Tableau allows us to do top end analysis by making use of parameters.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/top-n-analysis?u=76281980&t=0)** - [Instructor] [[Tableau]] allows us to do top end analysis by making use of parameters.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/top-n-analysis?u=76281980&t=5)** That's where we can take input from the user and change what's happening within our view.
 >
@@ -10835,7 +10738,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/top-n-analysis?u=76281980&t=115)** How do we handle that as developers?
 >
-> **[1:58](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/top-n-analysis?u=76281980&t=118)** Do we have to have three different sheets, one for each of those values and then three different dashboards?
+> **[1:58](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/top-n-analysis?u=76281980&t=118)** Do we have to have three different sheets, one for each of those values and then three different [[Dashboards]]?
 >
 > **[2:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/top-n-analysis?u=76281980&t=125)** That'd be a bit of a pain because then we've got to maintain them, edit them, keep 'em up to date.
 >
@@ -10923,24 +10826,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tableau]] (2), [[Dashboards]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Dashboards]] (2)
 > **UI Navigation:** click on (3), go to (2), select the (2), dropdown (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980)
+#### [Dynamic parameters](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=0)** - [Instructor] By far, the most requested feature for Tableau for a long, long time was dynamic parameters.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=0)** - [Instructor] By far, the most requested feature for [[Tableau]] for a long, long time was dynamic parameters.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=7)** Well, what is a dynamic parameter and why are they so useful?
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=11)** Well, let's look at an example of using a parameter to highlight data.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=16)** And in this example, I'm looking at my products.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=16)** And in this example, I'm looking at my [[Microsoft Products|products]].
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=19)** I've got 1800 products, and we're looking at them across the sales and the profit with the size based on the quantity of each product sold.
 >
@@ -11024,7 +10926,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=244)** Well, let's see.
 >
-> **[4:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=245)** If I look at the underlying data, it's coming from this Excel file.
+> **[4:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=245)** If I look at the underlying data, it's coming from this [[Microsoft Excel|Excel]] file.
 >
 > **[4:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/dynamic-parameters?u=76281980&t=249)** So say for example, this Message Book, currently its subcategory is Paper, but what if we had a new subcategory called Book?
 >
@@ -11090,15 +10992,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Tableau]] (6), [[Microsoft Products|Products]] (4), [[Microsoft Excel|Excel]] (3), feature (2)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Microsoft Products|Products]] (4), [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** click on (3), dropdown (3), go to (2), select the (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-parameters?u=76281980)
+#### [Challenge: Parameters](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11108,7 +11009,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-parameters?u=76281980&t=7)** It doesn't look like that Pivot broke anything, so that's good.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-parameters?u=76281980&t=11)** "Hiya, I'd like to be able to see the top five products for the USA group of hotels on the quantities, not the cost."
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-parameters?u=76281980&t=11)** "Hiya, I'd like to be able to see the top five [[Microsoft Products|products]] for the USA group of hotels on the quantities, not the cost."
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-parameters?u=76281980&t=20)** Okay, oh, and another one.
 >
@@ -11157,8 +11058,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-paremeters?u=76281980)
+#### [Solution: Parameters](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-paremeters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11174,13 +11074,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-paremeters?u=76281980&t=19)** So I'm just going to select all the ones that are red and then delete them.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-paremeters?u=76281980&t=24)** I know Tableau's not using them 'cause they're red 'cause it means that it can't find them anymore.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-paremeters?u=76281980&t=24)** I know [[Tableau]]'s not using them 'cause they're red 'cause it means that it can't find them anymore.
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-paremeters?u=76281980&t=28)** So let's just tidy that up.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-paremeters?u=76281980&t=31)** Always good to tidy up our data as we go along.
 >
-> **[0:34](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-paremeters?u=76281980&t=34)** Right, bar chart showing the cost of products.
+> **[0:34](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-paremeters?u=76281980&t=34)** Right, bar chart showing the cost of [[Microsoft Products|products]].
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-paremeters?u=76281980&t=37)** So let's see, we've got product name.
 >
@@ -11378,7 +11278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (15), [[Microsoft Products|Products]] (6), data (2), [[Tableau]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Tableau]] (1)
 > **CLI Commands:** make (7), find (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (1), is a  (1)
@@ -11390,14 +11290,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the dashboard UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/introducing-the-dashboard-ui?u=76281980)
+#### [Introducing the dashboard UI](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/introducing-the-dashboard-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/introducing-the-dashboard-ui?u=76281980&t=0)** - [Instructor] Dashboards are a way to combine one or more sheets into a dashboard where you have full control over the layout and the styling of that visualization.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/introducing-the-dashboard-ui?u=76281980&t=0)** - [Instructor] [[Dashboards]] are a way to combine one or more sheets into a dashboard where you have full control over the layout and the styling of that visualization.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/introducing-the-dashboard-ui?u=76281980&t=10)** Now, you can create loads of different charts within Tableau.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/introducing-the-dashboard-ui?u=76281980&t=10)** Now, you can create loads of different charts within [[Tableau]].
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/introducing-the-dashboard-ui?u=76281980&t=14)** In this workbook, I've got dozens of different charts I've created.
 >
@@ -11557,15 +11456,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (3), [[Dashboards]] (1), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Dashboards]] (1)
 > **CLI Commands:** make (11), find (1)
 > **UI Navigation:** click on (2), go to (1), in the menu (1), select the (1)
 > **Analogies:** such as (2), for example (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a tiled dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-tiled-dashboard?u=76281980)
+#### [How to create a tiled dashboard](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-tiled-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11643,7 +11541,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-tiled-dashboard?u=76281980&t=225)** Go back to the dashboard tab, and then I can put my profit map inside and my profit heat map underneath my map.
 >
-> **[3:55](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-tiled-dashboard?u=76281980&t=235)** Now Tableau automatically scaled those four charts to fit them all in to make them fit correctly so that the map looks big.
+> **[3:55](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-tiled-dashboard?u=76281980&t=235)** Now [[Tableau]] automatically scaled those four charts to fit them all in to make them fit correctly so that the map looks big.
 >
 > **[4:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-tiled-dashboard?u=76281980&t=242)** My bottom right hand table looks big as well.
 >
@@ -11721,7 +11619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (2), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **UI Navigation:** go to (8), click on (6), drag and drop (2), select the (2)
 > **CLI Commands:** make (8)
 > **Cross-References:** go back to (1)
@@ -11729,12 +11627,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a floating dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-floating-dashboard?u=76281980)
+#### [How to create a floating dashboard](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-floating-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-floating-dashboard?u=76281980&t=0)** - [Instructor] One option we have for creating dashboards are creating floating dashboards.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-floating-dashboard?u=76281980&t=0)** - [Instructor] One option we have for creating [[Dashboards]] are creating floating dashboards.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-floating-dashboard?u=76281980&t=6)** If we were to use a tiled layout, we're constrained with aligning everything to the grid.
 >
@@ -11786,7 +11683,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-floating-dashboard?u=76281980&t=148)** Okay, that looks fine.
 >
-> **[2:30](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-floating-dashboard?u=76281980&t=150)** I've got my scroll bar, so I can still see the rest of the chart in there, and I don't need my sales axis, so I'm going to get rid of that.
+> **[2:30](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-floating-dashboard?u=76281980&t=150)** I've got my scroll bar, so I can still see the [[Representational State Transfer (REST)|rest]] of the chart in there, and I don't need my sales axis, so I'm going to get rid of that.
 >
 > **[2:37](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-floating-dashboard?u=76281980&t=157)** Okay, now let's add that map.
 >
@@ -11834,13 +11731,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use filter actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-filter-actions?u=76281980)
+#### [How to use filter actions](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-filter-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11848,7 +11744,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-filter-actions?u=76281980&t=12)** And because filtering works kind of in between the data and the visualization, it can include a bit of a performance hit.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-filter-actions?u=76281980&t=21)** If we were to add filters to every sheet in our dashboard, every time we review the data or update the dashboard, Tableau's got to check all of those filters, to see what data it should get through to be visualized and that's going to take a bit of a performance hit.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-filter-actions?u=76281980&t=21)** If we were to add filters to every sheet in our dashboard, every time we review the data or update the dashboard, [[Tableau]]'s got to check all of those filters, to see what data it should get through to be visualized and that's going to take a bit of a performance hit.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-filter-actions?u=76281980&t=39)** Each filter might not take a lot, but if you have more than 1, 2, 3, 4, it kind of all adds up.
 >
@@ -11972,14 +11868,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (3), [[Tableau]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** click on (7), select the (4), go to (1), dropdown (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to use highlight actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980)
+#### [How to use highlight actions](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11991,7 +11886,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=14)** Well, let's look at an example.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=16)** If I was to change my profit map in this dashboard where I have four sheets to be a filter by using the quick filter icon, and then I select one of those states, that's going to filter the rest of the dashboard.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=16)** If I was to change my profit map in this dashboard where I have four sheets to be a filter by using the quick filter icon, and then I select one of those states, that's going to filter the [[Representational State Transfer (REST)|rest]] of the dashboard.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=29)** If you want to understand more how that worked, check out the video on Filter Actions.
 >
@@ -12029,7 +11924,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=118)** Click on Add Action and click on Highlight.
 >
-> **[2:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=122)** Now, what I need to do is tell Tableau what is going to be the source of the action, the action I'm actually going to do, and the sheet it's going to apply to.
+> **[2:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=122)** Now, what I need to do is tell [[Tableau]] what is going to be the source of the action, the action I'm actually going to do, and the sheet it's going to apply to.
 >
 > **[2:13](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=133)** Now, in my case, we're going to click on the Profit Map.
 >
@@ -12109,13 +12004,13 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=368)** Now, when I select the map, it's highlighting the customers, but filtering the charts.
 >
-> **[6:15](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=375)** This means that I can look at my sales, I can look at my profit, and I can find that poor customer is probably the consumer segment in the home office because they are some pretty low sales there.
+> **[6:15](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=375)** This means that I can look at my sales, I can look at my profit, and I can find that poor customer is probably the consumer segment in the home [[Microsoft Office|office]] because they are some pretty low sales there.
 >
 > **[6:28](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-highlight-actions?u=76281980&t=388)** Mix and matching these actions allow us to do some detailed analysis, but still have a nice, clean, precise dashboard.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (5), [[Representational State Transfer (REST)|Rest]] (1), hit (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (7), select the (2), go to (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -12123,8 +12018,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use URL actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-url-actions?u=76281980)
+#### [How to use URL actions](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-url-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12184,7 +12078,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-url-actions?u=76281980&t=154)** What I need to do is insert the name of the state into the URL.
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-url-actions?u=76281980&t=159)** So if I remove Texas and instead go to Insert and put the state province name in, we see an example at the bottom of what Tableau will do if I was to select Alabama in my state map.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-url-actions?u=76281980&t=159)** So if I remove Texas and instead go to Insert and put the state province name in, we see an example at the bottom of what [[Tableau]] will do if I was to select Alabama in my state map.
 >
 > **[2:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-url-actions?u=76281980&t=174)** For your data and your webpage, this is where you would insert your ID, for example, that would open up a webpage that showed the ID of that object that you pass through to it.
 >
@@ -12200,7 +12094,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), web (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** go to (6), open the (2), click on (2), select the (1)
 > **Env Vars:** url (9)
 > **Definitions:** is a  (2), means that (1)
@@ -12208,16 +12102,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigating between dashboards using go to sheet actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980)
+#### [Navigating between dashboards using go to sheet actions](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980&t=0)** - [Instructor] This video, we're going to look at two ways to navigate between dashboards.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980&t=0)** - [Instructor] This video, we're going to look at two ways to navigate between [[Dashboards]].
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980&t=5)** Now, there's a couple of different ways that we can navigate between dashboards.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980&t=8)** When we publish them to the Tableau server, we have the option to have tab views at the top of the screen.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980&t=8)** When we publish them to the [[Tableau]] server, we have the option to have tab views at the top of the screen.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980&t=14)** So we can click on a tab and go to a different dashboard.
 >
@@ -12311,7 +12204,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980&t=271)** Now the title, let's call this go profit and hit Apply and now I've got my little button that says go profit.
 >
-> **[4:44](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980&t=284)** Make it a little bit bigger so we can fit all the word in, but we could change the format if you wanted to.
+> **[4:44](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980&t=284)** Make it a little bit bigger so we can fit all the [[Microsoft Word|word]] in, but we could change the format if you wanted to.
 >
 > **[4:50](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/navigating-between-dashboards-using-go-to-sheet-actions?u=76281980&t=290)** So now I've got my go-to profit button up here.
 >
@@ -12345,15 +12238,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (4), [[Tableau]] (1), data (1), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Tableau]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (14), click on (11), navigate to (3)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use set actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-set-actions?u=76281980)
+#### [How to use set actions](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-set-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12485,15 +12377,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **UI Navigation:** go to (4), click on (4), select the (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1), go back to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### A deeper look at containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/a-deeper-look-at-containers?u=76281980)
+#### [A deeper look at containers](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/a-deeper-look-at-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12517,7 +12407,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/a-deeper-look-at-containers?u=76281980&t=59)** And because containers are always aligned with one another, it makes it very easy to create tiled layouts.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/a-deeper-look-at-containers?u=76281980&t=68)** And the downside of that is they're not necessarily as useful for creating more artistic dashboards.
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/a-deeper-look-at-containers?u=76281980&t=68)** And the downside of that is they're not necessarily as useful for creating more artistic [[Dashboards]].
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/a-deeper-look-at-containers?u=76281980&t=74)** If you need complete control and pixel perfect alignment of different objects, maybe you want to add images or other kind of artistic flare to your dashboard, then the floating layout might be slightly better because it gives you more control over where you put everything.
 >
@@ -12567,13 +12457,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (2), data (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-dashboards?u=76281980)
+#### [Challenge: Dashboards](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12583,13 +12472,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-dashboards?u=76281980&t=6)** One last email.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-dashboards?u=76281980&t=8)** "We'd like a couple of dashboards please.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-dashboards?u=76281980&t=8)** "We'd like a couple of [[Dashboards]] please.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-dashboards?u=76281980&t=10)** "One that looks at the hotels, expenses, occupancy, "maybe a map showing where they are."
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-dashboards?u=76281980&t=16)** Okay.
 >
-> **[0:18](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-dashboards?u=76281980&t=18)** "The other I want to know about the products "and where they're going.
+> **[0:18](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-dashboards?u=76281980&t=18)** "The other I want to know about the [[Microsoft Products|products]] "and where they're going.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/challenge-dashboards?u=76281980&t=22)** "Oh, make them look good," okay.
 >
@@ -12611,20 +12500,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (2), product (2), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (playful music) (1)
 
-#### Solution: Dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards?u=76281980)
+#### [Solution: Dashboards](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards?u=76281980&t=0)** - [Tutor] Okay, let's see how we can build these two dashboards.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards?u=76281980&t=0)** - [Tutor] Okay, let's see how we can build these two [[Dashboards]].
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards?u=76281980&t=9)** So I need one dashboard that's looking at hotel expenses and another one that's looking for information on products into kind of navigation between the two.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards?u=76281980&t=9)** So I need one dashboard that's looking at hotel expenses and another one that's looking for information on [[Microsoft Products|products]] into kind of navigation between the two.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards?u=76281980&t=19)** So let's see if any of the chance we've already got are going to be any good for us.
 >
@@ -12828,21 +12716,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Dashboards]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Dashboards]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (2)
 > **Env Vars:** hotel (1)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Dashboards, continued
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards-continued?u=76281980)
+#### [Solution: Dashboards, continued](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards-continued?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards-continued?u=76281980&t=5)** - [Instructor] Okay, so we've built the hotel analysis.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards-continued?u=76281980&t=8)** Now to partner this, we wanted to look at the products, who they go to and where they go.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards-continued?u=76281980&t=8)** Now to partner this, we wanted to look at the [[Microsoft Products|products]], who they go to and where they go.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards-continued?u=76281980&t=15)** So we'll click on a new dashboard and we'll set the size again to be a fixed size and we'll set that to our generic dashboard site.
 >
@@ -13120,7 +13007,7 @@ created: 2026-05-02
 >
 > **[8:34](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards-continued?u=76281980&t=514)** We've had to do some analysis on it, we've had to join that data.
 >
-> **[8:38](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards-continued?u=76281980&t=518)** But ultimately we've been able to take all of that information and put it into two dashboards.
+> **[8:38](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards-continued?u=76281980&t=518)** But ultimately we've been able to take all of that information and put it into two [[Dashboards]].
 >
 > **[8:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/solution-dashboards-continued?u=76281980&t=523)** We've connected the dashboards together with a navigation button.
 >
@@ -13132,7 +13019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (8), data (3), [[Dashboards]] (3), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Dashboards]] (3)
 > **UI Navigation:** go to (5), click on (4), navigate to (1)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** go back to (2)
@@ -13146,8 +13033,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to create bar charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-bar-charts?u=76281980)
+#### [How to create bar charts](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-bar-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13180,8 +13066,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use colors to highlight data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-colours-to-highlight-data?u=76281980)
+#### [How to use colors to highlight data](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-use-colours-to-highlight-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13285,15 +13170,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (1), drag and drop (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [lecturer] (1)
 
-#### How to create timelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-time-lines?u=76281980)
+#### [How to create timelines](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-time-lines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13321,7 +13204,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-time-lines?u=76281980&t=53)** So let's select the month of order date.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-time-lines?u=76281980&t=55)** When we click OK, Tableau puts a mark on each of the individual months that we have data for.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-time-lines?u=76281980&t=55)** When we click OK, [[Tableau]] puts a mark on each of the individual months that we have data for.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-time-lines?u=76281980&t=62)** This is just a placeholder to say, when you add the measure, this is where they are going to go.
 >
@@ -13359,13 +13242,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (1), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** select the (2), drag and drop (1), go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to create small multiple timelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-small-multiple-time-lines?u=76281980)
+#### [How to create small multiple timelines](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-small-multiple-time-lines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13405,7 +13287,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-small-multiple-time-lines?u=76281980&t=103)** These are sometimes known as spark lines.
 >
-> **[1:46](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-small-multiple-time-lines?u=76281980&t=106)** For example, if we look at office supplies in the southern region, we can see overall it's pretty flat.
+> **[1:46](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-small-multiple-time-lines?u=76281980&t=106)** For example, if we look at [[Microsoft Office|office]] supplies in the southern region, we can see overall it's pretty flat.
 >
 > **[1:52](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-small-multiple-time-lines?u=76281980&t=112)** But there was this big spike in March, 2022.
 >
@@ -13435,14 +13317,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create month-over-month or year-over-year charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-month-on-month-or-year-on-year-charts?u=76281980)
+#### [How to create month-over-month or year-over-year charts](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-month-on-month-or-year-on-year-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13510,13 +13391,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **UI Navigation:** right-click (1), select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a combined axis bar chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-bar-chart?u=76281980)
+#### [How to create a combined axis bar chart](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-bar-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13528,7 +13407,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-bar-chart?u=76281980&t=21)** This is going to create a combined axis bar chart.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-bar-chart?u=76281980&t=25)** If I pull out Profit and put it onto the column, I'm going to get two axes, because of Tableau's internal rule, one green field, one continuous measure, means one discreet axis.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-bar-chart?u=76281980&t=25)** If I pull out Profit and put it onto the column, I'm going to get two axes, because of [[Tableau]]'s internal rule, one green field, one continuous measure, means one discreet axis.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-bar-chart?u=76281980&t=37)** Instead, we need to drag and drop the Profit onto the existing axis.
 >
@@ -13564,8 +13443,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a combined axis timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-timeline?u=76281980)
+#### [How to create a combined axis timeline](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13593,7 +13471,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-timeline?u=76281980&t=55)** So, now I have two timelines.
 >
-> **[0:57](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-timeline?u=76281980&t=57)** Tableau's already colored it for me, so I can identify which is which.
+> **[0:57](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-timeline?u=76281980&t=57)** [[Tableau]]'s already colored it for me, so I can identify which is which.
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-combined-axis-timeline?u=76281980&t=61)** I have my Profit in blue and my Sales in orange, and I can see how the two are related.
 >
@@ -13617,8 +13495,7 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a dual axis timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-dual-axis-timeline?u=76281980)
+#### [How to create a dual axis timeline](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-dual-axis-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13686,13 +13563,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** select the (2), drag and drop (1), right-click (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Two ways to create a crosstab
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/two-ways-to-create-a-crosstab?u=76281980)
+#### [Two ways to create a crosstab](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/two-ways-to-create-a-crosstab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13732,7 +13607,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/two-ways-to-create-a-crosstab?u=76281980&t=105)** When we put our measure values in, they're going to fill in where it says the A, B, C.
 >
-> **[1:50](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/two-ways-to-create-a-crosstab?u=76281980&t=110)** Tableau always needs to aggregate and show the data.
+> **[1:50](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/two-ways-to-create-a-crosstab?u=76281980&t=110)** [[Tableau]] always needs to aggregate and show the data.
 >
 > **[1:54](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/two-ways-to-create-a-crosstab?u=76281980&t=114)** So the A, B, C is a placeholder which says, when you're ready, this is where I'm going to visualize the data.
 >
@@ -13742,15 +13617,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** find (2)
 > **Versions:** 2.3 (1)
 > **UI Navigation:** drag and drop (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhance a crosstab using colors to create a highlight table
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/enhance-a-crosstab-using-colours-to-create-a-highlight-table?u=76281980)
+#### [Enhance a crosstab using colors to create a highlight table](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/enhance-a-crosstab-using-colours-to-create-a-highlight-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13804,13 +13678,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to turn a crosstab into a heatmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-turn-a-crosstab-into-a-heatmap?u=76281980)
+#### [How to turn a crosstab into a heatmap](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-turn-a-crosstab-into-a-heatmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13864,13 +13736,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create an area chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-chart?u=76281980)
+#### [How to create an area chart](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13886,7 +13756,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-chart?u=76281980&t=28)** I'm now looking at my monthly sales.
 >
-> **[0:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-chart?u=76281980&t=31)** This is automatically a line chart 'cause Tableau knows that is the best way to view this data.
+> **[0:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-chart?u=76281980&t=31)** This is automatically a line chart 'cause [[Tableau]] knows that is the best way to view this data.
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-chart?u=76281980&t=36)** But if I want to turn it into an area chart, I simply have to change the mark type.
 >
@@ -13898,7 +13768,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-chart?u=76281980&t=57)** What I mean by this is if we add a dimension, we're going to get the shaded area colored by each individual member of that dimension.
 >
-> **[1:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-chart?u=76281980&t=65)** So for example, if I put segment onto color, we have three possible segments, consumer, corporate, and home office.
+> **[1:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-chart?u=76281980&t=65)** So for example, if I put segment onto color, we have three possible segments, consumer, corporate, and home [[Microsoft Office|office]].
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-an-area-chart?u=76281980&t=72)** And now I can see how much each one of those segments contributes to the monthly total in sales.
 >
@@ -13906,15 +13776,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (1), data (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What's the difference between line charts vs. area charts?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/whats-the-difference-between-line-charts-vs-area-charts?u=76281980)
+#### [What's the difference between line charts vs. area charts?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/whats-the-difference-between-line-charts-vs-area-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13942,7 +13811,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/whats-the-difference-between-line-charts-vs-area-charts?u=76281980&t=74)** In fact, it looks like they're probably the closest they've ever been.
 >
-> **[1:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/whats-the-difference-between-line-charts-vs-area-charts?u=76281980&t=77)** Ordinarily, we can see that office supplies lags behind furniture and technology, and we can see cases where technology has outperformed all of them.
+> **[1:17](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/whats-the-difference-between-line-charts-vs-area-charts?u=76281980&t=77)** Ordinarily, we can see that [[Microsoft Office|office]] supplies lags behind furniture and technology, and we can see cases where technology has outperformed all of them.
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/whats-the-difference-between-line-charts-vs-area-charts?u=76281980&t=89)** The line chart plots three lines, one on top of the other.
 >
@@ -13954,7 +13823,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/whats-the-difference-between-line-charts-vs-area-charts?u=76281980&t=108)** The total quarter sales for that Q4 in 2023 was 236,000, but when I have them broken down by the category, I lose that information because now, I'm looking at each individual's category.
 >
-> **[2:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/whats-the-difference-between-line-charts-vs-area-charts?u=76281980&t=123)** Now I could select all three of them, and Tableau would tell me in the Tall Tip what the total amount was.
+> **[2:03](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/whats-the-difference-between-line-charts-vs-area-charts?u=76281980&t=123)** Now I could select all three of them, and [[Tableau]] would tell me in the Tall Tip what the total amount was.
 >
 > **[2:09](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/whats-the-difference-between-line-charts-vs-area-charts?u=76281980&t=129)** But if I'm interested in what the total amount was all the time, the timeline makes it harder to do.
 >
@@ -13998,8 +13867,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [tutor] (1)
 
-#### How to create 100% area charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-100-area-charts?u=76281980)
+#### [How to create 100% area charts](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-100-area-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14043,7 +13911,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-100-area-charts?u=76281980&t=119)** Similarly, with furniture, I have a baseline at the top of the screen so I can see how it's grown or shrunk.
 >
-> **[2:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-100-area-charts?u=76281980&t=126)** With office supplies, there's no such flat line, so it's very difficult to see if office supplies has increased or decreased over time.
+> **[2:06](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-100-area-charts?u=76281980&t=126)** With [[Microsoft Office|office]] supplies, there's no such flat line, so it's very difficult to see if office supplies has increased or decreased over time.
 >
 > **[2:15](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-100-area-charts?u=76281980&t=135)** As a little tip, if one of these categories was more important to you, change the order, simply select it, drag it to the top or bottom of the list, and it moves to the top or bottom of the screen.
 >
@@ -14056,8 +13924,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create stacked bar charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-stacked-bar-charts?u=76281980)
+#### [How to create stacked bar charts](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-stacked-bar-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14089,13 +13956,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a 100% stacked bar chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-100-stacked-bar-chart?u=76281980)
+#### [How to create a 100% stacked bar chart](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-100-stacked-bar-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14147,8 +14012,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How and why to add a running total to a line chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-and-why-to-add-a-running-total-to-a-line-chart?u=76281980)
+#### [How and why to add a running total to a line chart](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-and-why-to-add-a-running-total-to-a-line-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14180,7 +14044,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-and-why-to-add-a-running-total-to-a-line-chart?u=76281980&t=82)** To add that, we go to the Sales on our row, we go to Quick Table Calculation and Running Total.
 >
-> **[1:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-and-why-to-add-a-running-total-to-a-line-chart?u=76281980&t=91)** Tableau's now performing a cumulative total month on month.
+> **[1:31](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-and-why-to-add-a-running-total-to-a-line-chart?u=76281980&t=91)** [[Tableau]]'s now performing a cumulative total month on month.
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-and-why-to-add-a-running-total-to-a-line-chart?u=76281980&t=95)** It starts at zero, adds the first month of data, and then adds the sum total for each month going across, so we can then see that the total amount of sales is 2.3 million.
 >
@@ -14198,14 +14062,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** go to (2), right-click (1), select the (1)
 > **Definitions:** is a  (3)
 > **Versions:** 2.3 (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to show the difference between values in a line chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-show-the-difference-between-values-in-a-line-chart?u=76281980)
+#### [How to show the difference between values in a line chart](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-show-the-difference-between-values-in-a-line-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14239,7 +14102,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-show-the-difference-between-values-in-a-line-chart?u=76281980&t=84)** This is because what we are showing is the difference between the current and the preceding data point.
 >
-> **[1:30](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-show-the-difference-between-values-in-a-line-chart?u=76281980&t=90)** For the first record in our data, we don't have a preceding data point, therefore, Tableau cannot complete that calculation.
+> **[1:30](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-show-the-difference-between-values-in-a-line-chart?u=76281980&t=90)** For the first record in our data, we don't have a preceding data point, therefore, [[Tableau]] cannot complete that calculation.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-show-the-difference-between-values-in-a-line-chart?u=76281980&t=97)** To overcome this, we can click on the null indicator and say, show data at default position.
 >
@@ -14247,14 +14110,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** click on (2), drag and drop (1), select the (1), go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a scatter plot and a bubble chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-scatter-plot-and-a-bubble-chart?u=76281980)
+#### [How to create a scatter plot and a bubble chart](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-scatter-plot-and-a-bubble-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14268,11 +14130,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-scatter-plot-and-a-bubble-chart?u=76281980&t=18)** So, let's look at profit on our row, sales on our column, and we get a scatter plot.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-scatter-plot-and-a-bubble-chart?u=76281980&t=25)** Now, we only have one single point because Tableau is showing us the total sum of sales and the total sum of profit across all of our dimensions.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-scatter-plot-and-a-bubble-chart?u=76281980&t=25)** Now, we only have one single point because [[Tableau]] is showing us the total sum of sales and the total sum of profit across all of our dimensions.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-scatter-plot-and-a-bubble-chart?u=76281980&t=33)** In order to break this down into finer detail, we need to add one or more dimensions to our marks.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-scatter-plot-and-a-bubble-chart?u=76281980&t=40)** So, for example, if we wanted to look at the relationship between products, we could put the product name onto the detail.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-scatter-plot-and-a-bubble-chart?u=76281980&t=40)** So, for example, if we wanted to look at the relationship between [[Microsoft Products|products]], we could put the product name onto the detail.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-scatter-plot-and-a-bubble-chart?u=76281980&t=47)** Now, we have one single data point for each one of our products.
 >
@@ -14318,14 +14180,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Products|Products]] (2), [[Tableau]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Tableau]] (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a connected scatterplot to show changes over time
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-connected-scatterplot-to-show-changes-over-time?u=76281980)
+#### [How to create a connected scatterplot to show changes over time](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-connected-scatterplot-to-show-changes-over-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14411,14 +14272,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** right-click (1), select the (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a bar-in-bar chart and a candlestick chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-bar-in-bar-candlestick-chart?u=76281980)
+#### [How to create a bar-in-bar chart and a candlestick chart](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-bar-in-bar-candlestick-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14448,7 +14307,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-bar-in-bar-candlestick-chart?u=76281980&t=65)** So when we drag Sales Target from the data pane on the left, we need to drag and drop it onto the existing sales axis.
 >
-> **[1:13](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-bar-in-bar-candlestick-chart?u=76281980&t=73)** This invokes the measure names and measure values to allow Tableau to plot both those bars on that same axis.
+> **[1:13](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-bar-in-bar-candlestick-chart?u=76281980&t=73)** This invokes the measure names and measure values to allow [[Tableau]] to plot both those bars on that same axis.
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-bar-in-bar-candlestick-chart?u=76281980&t=80)** However, it doesn't look very good.
 >
@@ -14498,14 +14357,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tableau]] (3), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **Definitions:** is a  (1), means that (1), is an  (1), known as (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a symbol map
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map-23118520?u=76281980)
+#### [How to create a symbol map](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map-23118520?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14513,7 +14371,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map-23118520?u=76281980&t=5)** This is very similar to how a scatterplot works in that we plot the latitude and longitude as our X and Y and have an image of a map behind it.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map-23118520?u=76281980&t=14)** To create a map within Tableau, it's simply a case of dragging and dropping geographic data into our view.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map-23118520?u=76281980&t=14)** To create a map within [[Tableau]], it's simply a case of dragging and dropping geographic data into our view.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-symbol-map-23118520?u=76281980&t=21)** The easiest way is to start with the highest level of detail that you have.
 >
@@ -14551,13 +14409,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Tableau]] (2), database (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Analogies:** similar to (1), for example (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to create a filled area map
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-filled-area-map?u=76281980)
+#### [How to create a filled area map](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-filled-area-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14567,7 +14424,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-filled-area-map?u=76281980&t=11)** To create a filled map, we need geographic data.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-filled-area-map?u=76281980&t=14)** Tableau understands that cities, countries, post codes, and states are all kinds of geographic data with latitudes and longitudes.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-filled-area-map?u=76281980&t=14)** [[Tableau]] understands that cities, countries, post codes, and states are all kinds of geographic data with latitudes and longitudes.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-a-filled-area-map?u=76281980&t=22)** If we drag these into the view, Tableau's going to create a map for us.
 >
@@ -14613,14 +14470,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Tableau]] (4)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create pie charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-pie-charts?u=76281980)
+#### [How to create pie charts](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-pie-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14634,7 +14490,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-pie-charts?u=76281980&t=20)** To create a pie chart, there's a couple of simple steps.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-pie-charts?u=76281980&t=24)** First, we need to tell Tableau we want to create a pie.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-pie-charts?u=76281980&t=24)** First, we need to tell [[Tableau]] we want to create a pie.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-pie-charts?u=76281980&t=27)** To do that, we go to the marks card, click on the dropdown, and select pie.
 >
@@ -14678,13 +14534,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Tableau]] (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** go to (2), click on (2), dropdown (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create Gantt charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-gantt-charts?u=76281980)
+#### [How to create Gantt charts](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-gantt-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14754,7 +14609,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-gantt-charts?u=76281980&t=169)** However, if we look at the underlying data, we can see that this is not exactly true.
 >
-> **[2:55](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-gantt-charts?u=76281980&t=175)** Tableau calculates the duration for each row, and then because we tell Tableau to aggregate data, it then sums those four rows, which gives us the total duration of 16, which is clearly not correct.
+> **[2:55](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-gantt-charts?u=76281980&t=175)** [[Tableau]] calculates the duration for each row, and then because we tell Tableau to aggregate data, it then sums those four rows, which gives us the total duration of 16, which is clearly not correct.
 >
 > **[3:08](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-gantt-charts?u=76281980&t=188)** So rather than the sum of duration, we need to do the average.
 >
@@ -14786,7 +14641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Tableau]] (2), next (1), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **UI Navigation:** go to (2), select the (2), click on (1), scroll down (1)
 > **Analogies:** for example (3)
 > **Env Vars:** datediff (2)
@@ -14798,8 +14653,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How can I grow my data science and Tableau skills?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980)
+#### [How can I grow my data science and Tableau skills?](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14819,9 +14673,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=30)** There's lots of tips and tricks there that anybody at any level will be able to pick up.
 >
-> **[0:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=35)** Now, although it uses Tableau for all of its visualizations, it's actually tool agnostic.
+> **[0:35](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=35)** Now, although it uses [[Tableau]] for all of its visualizations, it's actually tool agnostic.
 >
-> **[0:41](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=41)** The other course you should really look at is the [[Creating Interactive Tableau Dashboards]].
+> **[0:41](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=41)** The other course you should really look at is the [[Creating Interactive Tableau [[Dashboards]]]].
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980&t=46)** This goes into a lot more detail about the final part of our Tableau journey, which is creating the dashboards.
 >
@@ -14913,7 +14767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (15), data (14), [[Dashboards]] (4), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (15), [[Dashboards]] (4)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (1)

@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Effortlessly navigate Azure's AI model catalog
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/effortlessly-navigate-azure-s-ai-model-catalogue?u=76281980)
+#### [Effortlessly navigate Azure's AI model catalog](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/effortlessly-navigate-azure-s-ai-model-catalogue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/effortlessly-navigate-azure-s-ai-model-catalogue?u=76281980&t=12)** Yet, many miss out due to the complexity of finding and deploying the right models.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/effortlessly-navigate-azure-s-ai-model-catalogue?u=76281980&t=18)** But you can avoid the pitfalls of endless searching and integration headaches by learning how to quickly navigate and use the Azure AI Model Catalog.
+> **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/effortlessly-navigate-azure-s-ai-model-catalogue?u=76281980&t=18)** But you can avoid the pitfalls of endless searching and integration headaches by learning how to quickly navigate and use the [[Microsoft Azure|Azure]] AI Model Catalog.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/effortlessly-navigate-azure-s-ai-model-catalogue?u=76281980&t=28)** In today's fast-paced world, getting up to speed with these powerful tools is essential.
 >
@@ -103,11 +102,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **Speakers:** - [sammy] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,15 +113,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=6)** First, you don't need to be an AI expert.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=8)** Just a basic idea of what artificial intelligence and machine learning mean will help you.
+> **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=8)** Just a basic idea of what [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning mean will help you.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=14)** You'll be introduced to the Azure AI Model Catalog, a centralized library of prebuilt AI models that you can use directly on the Azure platform.
+> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=14)** You'll be introduced to the [[Microsoft Azure|Azure]] AI Model Catalog, a centralized library of prebuilt AI models that you can use directly on the Azure platform.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=23)** You'll also need an active Azure account.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=26)** If you don't have one yet, Microsoft offers a free trial, so you can experiment with these models without cost concerns.
+> **[0:26](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=26)** If you don't have one yet, [[Microsoft]] offers a free trial, so you can experiment with these models without cost concerns.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=33)** A bit of familiarity with Python will be useful for the coding demos, though the demos are simple and explained step by step.
+> **[0:33](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=33)** A bit of familiarity with [[Python (Programming Language)|Python]] will be useful for the coding demos, though the demos are simple and explained step by step.
 >
 > **[0:42](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/what-you-should-know?u=76281980&t=42)** Finally, don't worry, if you're not a developer, this course is designed for both business professionals and technical users.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -142,18 +140,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of the Azure AI model catalog
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980)
+#### [Overview of the Azure AI model catalog](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=0)** - [Instructor] The Azure AI model catalog, which is part of Azure AI Foundry, is a central hub of prebuilt AI models on Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=0)** - [Instructor] The [[Microsoft Azure|Azure]] AI model catalog, which is part of [[Azure AI Foundry]], is a central hub of prebuilt AI models on Azure.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=9)** Think of it as an online library of AI models that you can browse and use.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=14)** Azure's model catalog includes popular AI models from many sources.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=19)** Microsoft provides some models, but it also includes models from OpenAI, Hugging Face, Meta, Cohere, and many other partners.
+> **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=19)** [[Microsoft]] provides some models, but it also includes models from OpenAI, [[Hugging Face]], Meta, Cohere, and many other partners.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=28)** In fact, it contains a large collection of over 1,800 models as for now.
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=60)** You can search for models, read about what they do, and quickly try them out or deploy them in your own application.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=68)** It's all integrated into the Azure AI Foundry, so you benefit from Azure security and scalability.
+> **[1:08](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=68)** It's all integrated into the Azure AI Foundry, so you benefit from Azure security and [[Scalability]].
 >
 > **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980&t=74)** In summary, the Azure AI model catalog is Azure's one stop shop for AI models.
 >
@@ -175,20 +172,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (7), [[Azure AI Foundry]] (2), [[Microsoft]] (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Azure AI Foundry]] (2), [[Microsoft]] (1), [[Hugging Face]] (1), [[Scalability]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importance and benefits of using the model catalog
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/importance-and-benefits-of-using-the-model-catalog?u=76281980)
+#### [Importance and benefits of using the model catalog](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/importance-and-benefits-of-using-the-model-catalog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/importance-and-benefits-of-using-the-model-catalog?u=76281980&t=0)** - [Lecturer] So why would we use the Azure AI model catalog?
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/importance-and-benefits-of-using-the-model-catalog?u=76281980&t=0)** - [Lecturer] So why would we use the [[Microsoft Azure|Azure]] AI model catalog?
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/importance-and-benefits-of-using-the-model-catalog?u=76281980&t=4)** Well, the model for businesses, the model catalog allows you to adopt AI solutions quickly.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/importance-and-benefits-of-using-the-model-catalog?u=76281980&t=4)** Well, the model for businesses, the model catalog allows you to adopt [[AI Solutions]] quickly.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/importance-and-benefits-of-using-the-model-catalog?u=76281980&t=10)** You don't need a team of data scientists to train a model from scratch.
 >
@@ -230,18 +226,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (4), data (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[AI Solutions]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Key features and capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980)
+#### [Key features and capabilities](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=0)** - [Speaker] Now let's go over the key features and capabilities of the Azure AI model catalog.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=0)** - [Speaker] Now let's go over the key features and capabilities of the [[Microsoft Azure|Azure]] AI model catalog.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=5)** Understanding these features will give you a sense of what you can do with the catalog.
 >
@@ -261,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=41)** Collections help you filter models based on their source or type.
 >
-> **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=44)** For example, if you only want Microsoft curated open source models or only want open AI models, you can narrow down by collection.
+> **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=44)** For example, if you only want [[Microsoft]] curated open source models or only want open AI models, you can narrow down by collection.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=53)** Each model also has a detailed page or model card.
 >
@@ -291,13 +286,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=125)** Some models can be fine-tuned or customized with your own data.
 >
-> **[2:11](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=131)** Azure provides pipelines or tools for fine tuning through the Foundry platform.
+> **[2:11](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=131)** Azure provides pipelines or tools for [[Fine Tuning]] through the Foundry platform.
 >
 > **[2:16](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=136)** While our course focuses on using prebuilt models, it's good to know that if a model nearly fits you your needs, but not perfectly, you might have the option to retrain it on your data within Azure.
 >
 > **[2:27](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=147)** This extends the capabilities from just using out of the box models to tailoring them.
 >
-> **[2:32](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=152)** Because this is part of Azure AI Foundry, it integrates with other Azure tools like prom-flow and Azure AI safety tools.
+> **[2:32](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=152)** Because this is part of [[Azure AI Foundry]], it integrates with other Azure tools like prom-flow and Azure AI safety tools.
 >
 > **[2:41](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/key-features-and-capabilities?u=76281980&t=161)** For example, you can send model outputs to Azure AI content safety for screening if needed, and developers can also use unified Azure AI SDK to work with these models programmatically.
 >
@@ -307,7 +302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), ai (7), data (3), feature (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Microsoft]] (1), [[Fine Tuning]] (1), [[Azure AI Foundry]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sdk (1)
@@ -319,12 +314,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessing the Azure AI model catalog
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980)
+#### [Accessing the Azure AI model catalog](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=0)** - [Instructor] To get started, open your web browser and go to ai.[azure.com](https://azure.com).
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=0)** - [Instructor] To get started, open your web browser and go to ai.[[[Microsoft Azure|azure]].com](https://azure.com).
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=6)** If you have not signed in yet with your Azure accounts, you'll see an information page about the foundry.
 >
@@ -338,7 +332,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=49)** So let's go back to the previous page and we click here on the top Create project.
 >
-> **[0:55](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=55)** We give our project a name, I'll call it Project LinkedIn demo.
+> **[0:55](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=55)** We give our project a name, I'll call it Project [[LinkedIn]] demo.
 >
 > **[1:01](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=61)** And then we can also customize everything that is created behind the scenes.
 >
@@ -374,7 +368,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=134)** So it's creating the resources now for us after validation created.
 >
-> **[2:20](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=140)** We get into the actual Azure AI Foundry linked to our particular project or resource.
+> **[2:20](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=140)** We get into the actual [[Azure AI Foundry]] linked to our particular project or resource.
 >
 > **[2:28](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980&t=148)** Now, we'll see here a bunch of difference menu items, but we are going to focus on the model catalog and how to use it.
 >
@@ -384,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (4), [[LinkedIn]] (2), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[LinkedIn]] (2), [[Azure AI Foundry]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** make sure you have (1), you'll need (1)
@@ -393,8 +387,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the user interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/understanding-the-user-interface?u=76281980)
+#### [Understanding the user interface](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/understanding-the-user-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -404,7 +397,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/understanding-the-user-interface?u=76281980&t=18)** The second section is the model leaderboard, where we'll be able to figure out what models are the best based on quality, cost, and throughput.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/understanding-the-user-interface?u=76281980&t=29)** Underneath that, the real model catalog actually starts, we will have all the different filter panes where we can filter all the models based on collection, like we only want to see the Microsoft models, or we want to filter based on industry, and so on.
+> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/understanding-the-user-interface?u=76281980&t=29)** Underneath that, the real model catalog actually starts, we will have all the different filter panes where we can filter all the models based on collection, like we only want to see the [[Microsoft]] models, or we want to filter based on industry, and so on.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/understanding-the-user-interface?u=76281980&t=48)** But as well, we get a search bar where we can filter, for example, only the GPT models.
 >
@@ -414,14 +407,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Searching and filtering models
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980)
+#### [Searching and filtering models](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +427,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=24)** So if you know the name or part of the name of the model, just type it into the search bar.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=29)** For example, if you heard about a model called Llama, type Llama.
+> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=29)** For example, if you heard about a model called [[LLaMA]], type Llama.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=34)** You'll see models like meta-llama-2 up here.
 >
@@ -465,11 +457,11 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=101)** If you prefer models from a certain source, you can filter by that.
 >
-> **[1:45](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=105)** So for example, we only want to make use of the Azure OpenAI Services, then we get a nice list of those ones.
+> **[1:45](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=105)** So for example, we only want to make use of the [[Microsoft Azure|Azure]] OpenAI Services, then we get a nice list of those ones.
 >
-> **[1:54](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=114)** Or we can choose curated by Azure AI to see the third-party models that Microsoft has validated.
+> **[1:54](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=114)** Or we can choose curated by Azure AI to see the third-party models that [[Microsoft]] has validated.
 >
-> **[2:03](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=123)** And then as well, a very important one is the big Hugging Face collection, which is actually the biggest part of all the models.
+> **[2:03](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=123)** And then as well, a very important one is the big [[Hugging Face]] collection, which is actually the biggest part of all the models.
 >
 > **[2:13](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=133)** And these are all community-based models.
 >
@@ -483,7 +475,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=165)** This way, you won't spend time looking at a model that you can only run on your own GPU.
 >
-> **[2:52](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=172)** Conversely, if you know you want to deploy on your own dedicated hardware for some reason, you might filter for models that support managed deployments.
+> **[2:52](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=172)** Conversely, if you know you want to deploy on your own dedicated [[Hardware]] for some reason, you might filter for models that support managed deployments.
 >
 > **[3:01](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/searching-and-filtering-models?u=76281980&t=181)** We'll explain those terms, serverless and managed, in detail in a further module.
 >
@@ -501,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Microsoft Azure|Azure]] (5), next (4), [[LLaMA]] (3), api (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[LLaMA]] (3), [[Microsoft]] (1), [[Hugging Face]] (1), [[Hardware]] (1)
 > **Analogies:** for example (4), for instance (1), think of it as (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** api (2), gpu (1)
@@ -513,30 +505,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Curated by Azure AI: Popular non-Microsoft models
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980)
+#### [Curated by Azure AI: Popular non-Microsoft models](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=0)** - [Instructor] Now let's focus on curated by Azure AI collection.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=0)** - [Instructor] Now let's focus on curated by [[Microsoft Azure|Azure]] AI collection.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=6)** What does it actually mean, curated by Azure AI?
 >
-> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=11)** It means Microsoft has taken some of the best open source or third-party AI models, and made sure they work well on Azure.
+> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=11)** It means [[Microsoft]] has taken some of the best open source or third-party AI models, and made sure they work well on Azure.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=20)** They might containerize them, optimize their performance on Azure hardware and test them.
+> **[0:20](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=20)** They might containerize them, optimize their performance on Azure [[Hardware]] and test them.
 >
 > **[0:26](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=26)** These models are often marked with a special icon, for example, a green check mark on their cart, indicating Azure's validation.
 >
 > **[0:33](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=33)** These curated models include some big names in AI from various domains.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=38)** We have the Meta Llama family, which is very popular open source large language model for text generation and chat.
+> **[0:38](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=38)** We have the Meta [[LLaMA]] family, which is very popular open source large language model for text generation and chat.
 >
-> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=46)** We have Mistral AI's model, another provider of open large language models.
+> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=46)** We have Mistral AI's model, another provider of open [[Large Language Models (LLM)|large language models]].
 >
 > **[0:52](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=52)** For example, Mistral 7B, known for being small but powerful.
 >
-> **[0:57](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=57)** We have Stable Diffusion from Stability AI, a widely used image generation model.
+> **[0:57](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=57)** We have [[Stable Diffusion]] from Stability AI, a widely used image generation model.
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980&t=62)** If you want to generate images from text, this is a go-to open model.
 >
@@ -576,20 +567,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), ai (8), [[Microsoft]] (4), [[Hardware]] (1), [[LLaMA]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Microsoft]] (4), [[Hardware]] (1), [[LLaMA]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** nvidia (1), ai21 (1), jais (1), g42 (1), ntt (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure OpenAI models: Exclusive models available on Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980)
+#### [Azure OpenAI models: Exclusive models available on Azure](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=0)** - [Instructor] Let's talk about the Azure OpenAI models.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=0)** - [Instructor] Let's talk about the [[Microsoft Azure|Azure]] OpenAI models.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=4)** These are the models developed by OpenAI, the company behind chatGPT, and they are offered as a service through Azure.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=4)** These are the models developed by OpenAI, the company behind [[ChatGPT]], and they are offered as a service through Azure.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=11)** They are exclusive in the sense that you cannot get these models elsewhere.
 >
@@ -603,17 +593,17 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=27)** We started with 3.5, now we're at four, and even 4.5 in preview, and of course as well the O models.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=35)** Next to that, we also have the image generation models, like Dall-E 2 and Dall-E 3.
+> **[0:35](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=35)** Next to that, we also have the image generation models, like [[DALL-E]] 2 and Dall-E 3.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=41)** We have the embedding models, like text-embedding-3-large, text-embedding-3-small.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=47)** Of course, we also have speech recognition with Whisper and text-to-speech with TTS and TTS HD.
+> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=47)** Of course, we also have [[Speech Recognition]] with Whisper and text-to-speech with TTS and TTS HD.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=54)** So plenty of different models to choose from.
 >
 > **[0:57](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=57)** Now because of Azure OpenAI models come with Azure's Enterprise readiness, security compliance, and reliability, that really are great benefits.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=69)** Microsoft support these models fully since they have a partnership with OpenAI and provide SLAs as per the Azure OpenAI service.
+> **[1:09](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=69)** [[Microsoft]] support these models fully since they have a partnership with OpenAI and provide SLAs as per the Azure OpenAI service.
 >
 > **[1:18](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/azure-openai-models-exclusive-models-available-on-azure?u=76281980&t=78)** If your application needs the cutting edge AI that OpenAI provides, Azure is often the enterprise-friendly way to get it.
 >
@@ -623,23 +613,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), ai (3), [[DALL-E]] (2), [[ChatGPT]] (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[DALL-E]] (2), [[ChatGPT]] (1), [[Speech Recognition]] (1), [[Microsoft]] (1)
 > **Env Vars:** tts (2), api (1), gpt (1)
 > **Versions:** 3.5 (1), 4.5 (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** chatgpt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open models from Hugging Face: Real-time inference models
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980)
+#### [Open models from Hugging Face: Real-time inference models](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=0)** - [Instructor] Another rich source of models in Azure's catalog is the Hugging Face collection.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=0)** - [Instructor] Another rich source of models in [[Microsoft Azure|Azure]]'s catalog is the [[Hugging Face]] collection.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=5)** Hugging Face hub is a popular community repository of AI models.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=10)** Azure integrates with it to offer many of those open models for real-time interference.
+> **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=10)** Azure integrates with it to offer many of those open models for [[Real-Time]] interference.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=15)** Let's explain what that means.
 >
@@ -659,7 +648,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=66)** Now, it's important to note that models from Hugging Face are created and maintained by the open source community.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=74)** Azure provides the platform to run them, but Microsoft doesn't fix issues in the model's algorithm.
+> **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=74)** Azure provides the platform to run them, but [[Microsoft]] doesn't fix issues in the model's algorithm.
 >
 > **[1:21](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=81)** If there's a question about model's outputs, or quality, one would refer to Hugging Face forums or the model's author.
 >
@@ -677,7 +666,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=122)** Now, why would I use Hugging Face models via Azure?
 >
-> **[2:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=126)** Well, convenience and scalability.
+> **[2:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=126)** Well, convenience and [[Scalability]].
 >
 > **[2:08](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/open-models-from-hugging-face-real-time-inference-models?u=76281980&t=128)** If you find a great model on Hugging Face, using Azure's catalog means you can deploy it to a secure, scalable endpoint without setting up a server yourself.
 >
@@ -687,19 +676,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Hugging Face]] (12), ai (2), [[Real-Time]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Hugging Face]] (12), [[Real-Time]] (2), [[Microsoft]] (2), [[Scalability]] (1)
 > **CLI Commands:** find (2), make (1), apache (1)
 > **Env Vars:** mit (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Industry models from partners
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980)
+#### [Industry models from partners](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=0)** - Aside from the major categories, Azure AI Model Catalog also includes industries.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=0)** - Aside from the major categories, [[Microsoft Azure|Azure]] AI Model Catalog also includes industries.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=6)** These are models developed by specific organizations, often specialized in a particular domain or industry, and made available through the AI Foundry Model Catalog.
 >
@@ -707,7 +695,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=28)** Here are a couple of examples.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=30)** TamGen developed by Microsoft is a model that can generate compounds based on the input protein information.
+> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=30)** TamGen developed by [[Microsoft]] is a model that can generate compounds based on the input protein information.
 >
 > **[0:37](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=37)** The model is trained on 10 million chemical compounds from PubChem.
 >
@@ -727,7 +715,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=82)** Instead of training a model for a specific language or industry from scratch, you can leverage something that a specialist company has already built and vetted.
 >
-> **[1:33](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=93)** Azure hosting, it means you can get scalability and integration benefits.
+> **[1:33](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=93)** Azure hosting, it means you can get [[Scalability]] and integration benefits.
 >
 > **[1:38](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/industry-models-from-partners?u=76281980&t=98)** So in conclusion, the industry partner models and Azure's catalog broaden the application of the platform.
 >
@@ -739,7 +727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (4), [[Microsoft]] (1), [[Scalability]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (1), [[Scalability]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - aside (1)
@@ -749,8 +737,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reviewing model cards and sample inferences
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980)
+#### [Reviewing model cards and sample inferences](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,7 +753,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=32)** When we're in the model catalog, we can go to our filters section and we can start searching for a particular model.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=39)** Let's say we're looking for the Llama 3 model.
+> **[0:39](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=39)** Let's say we're looking for the [[LLaMA]] 3 model.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=43)** And now to get the model card, we just need to open it up and then we get all the details.
 >
@@ -792,7 +779,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=126)** So they're also trying to protect themselves, of course.
 >
-> **[2:09](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=129)** Now further on we get more details about hardware and software, the amount of GPU hours that were necessary.
+> **[2:09](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=129)** Now further on we get more details about [[Hardware]] and software, the amount of GPU hours that were necessary.
 >
 > **[2:16](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=136)** A very important one as well is the training data, so we have an insight on what kind of data they might use of.
 >
@@ -806,7 +793,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=177)** And then, of course, what comes out of it.
 >
-> **[3:02](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=182)** Now scrolling further, we get a list of critical risks that could happen, something that was linked to cybersecurity, what kind evaluations that they had already done, how the model has implemented some child safety, how the community is helping in it.
+> **[3:02](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=182)** Now scrolling further, we get a list of critical risks that could happen, something that was linked to [[Cybersecurity]], what kind evaluations that they had already done, how the model has implemented some child safety, how the community is helping in it.
 >
 > **[3:20](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980&t=200)** And if you scroll even down, Meta is even sharing all the contributors.
 >
@@ -828,7 +815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (1), [[LLaMA]] (1), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[LLaMA]] (1), [[Hardware]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** select the (2), go to (1), scroll down (1)
 > **Env Vars:** gpu (1)
@@ -836,14 +823,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing benchmarks across models and datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/comparing-benchmarks-across-models-and-datasets?u=76281980)
+#### [Comparing benchmarks across models and datasets](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/comparing-benchmarks-across-models-and-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/comparing-benchmarks-across-models-and-datasets?u=76281980&t=0)** - [Instructor] After reviewing individual model details, the next step is often to compare models to decide which one is best for your scenario.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/comparing-benchmarks-across-models-and-datasets?u=76281980&t=8)** Well, for that, the Azure AI model catalog provides us benchmark information that can really help us.
+> **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/comparing-benchmarks-across-models-and-datasets?u=76281980&t=8)** Well, for that, the [[Microsoft Azure|Azure]] AI model catalog provides us benchmark information that can really help us.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/comparing-benchmarks-across-models-and-datasets?u=76281980&t=15)** So let's have a look at the catalog again.
 >
@@ -913,7 +899,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/comparing-benchmarks-across-models-and-datasets?u=76281980&t=225)** So let's just clean it up.
 >
-> **[3:47](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/comparing-benchmarks-across-models-and-datasets?u=76281980&t=227)** So we have Llama-2-7b here.
+> **[3:47](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/comparing-benchmarks-across-models-and-datasets?u=76281980&t=227)** So we have [[LLaMA]]-2-7b here.
 >
 > **[3:50](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/comparing-benchmarks-across-models-and-datasets?u=76281980&t=230)** So we're just going to clean up this.
 >
@@ -959,7 +945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Azure|Azure]] (2), [[LLaMA]] (2), next (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[LLaMA]] (2)
 > **UI Navigation:** go to (3), scroll down (2), open the (1), select the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** lama (1)
@@ -968,8 +954,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting the right model for your business scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980)
+#### [Selecting the right model for your business scenario](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,7 +992,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=72)** Do you have constraints on costs?
 >
-> **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=74)** Some models like GPT-4 might solve your tasks brilliantly, but could be expensive for large volumes.
+> **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=74)** Some models like [[GPT-4]] might solve your tasks brilliantly, but could be expensive for large volumes.
 >
 > **[1:21](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=81)** A fifth item is data sensitivity.
 >
@@ -1031,7 +1016,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=129)** For instance, some models only support English, while others explicitly list multiple languages.
 >
-> **[2:16](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=136)** If the use case is conversational AI, lean towards chat tuned models For straightforward text generation, a generic model might do.
+> **[2:16](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=136)** If the use case is [[Conversational AI]], lean towards chat tuned models For straightforward text generation, a generic model might do.
 >
 > **[2:26](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=146)** If the task has vision on images, you'll filter to vision models.
 >
@@ -1043,17 +1028,17 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=171)** Smaller models are faster, cheaper, but maybe slightly less accurate.
 >
-> **[2:56](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=176)** But for many business applications, a slightly less powerful model that is fast and cheap can, actually, provide a better user experience and ROI.
+> **[2:56](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=176)** But for many business applications, a slightly less powerful model that is fast and cheap can, actually, provide a better [[User Experience (UX)|user experience]] and ROI.
 >
 > **[3:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=186)** So don't overkill if you don't need to.
 >
 > **[3:09](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=189)** And then we also need to think about maintainability.
 >
-> **[3:13](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=193)** If your scenario might require fine tuning or updating the model with new data, consider models that allow fine tuning.
+> **[3:13](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=193)** If your scenario might require [[Fine Tuning]] or updating the model with new data, consider models that allow fine tuning.
 >
-> **[3:20](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=200)** For example, some open source models, you can fine tune using Azure ML if needed, whereas proprietary ones like GPT-4, you cannot fine tune.
+> **[3:20](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=200)** For example, some open source models, you can fine tune using [[Microsoft Azure|Azure]] ML if needed, whereas proprietary ones like GPT-4, you cannot fine tune.
 >
-> **[3:28](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=208)** You only use them as is, or do prompt engineering.
+> **[3:28](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=208)** You only use them as is, or do [[Prompt Engineering]].
 >
 > **[3:32](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/selecting-the-right-model-for-your-business-scenario?u=76281980&t=212)** If customization is a requirement, pick accordingly.
 >
@@ -1093,7 +1078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), business (3), data (3), [[GPT-4]] (2), [[Fine Tuning]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[GPT-4]] (2), [[Fine Tuning]] (2), [[Conversational AI]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (4), for instance (2)
 > **Env Vars:** gpt (2), api (1), roi (1)
 > **Definitions:** is a  (3)
@@ -1105,16 +1090,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deployment options: Managed compute vs. serverless APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980)
+#### [Deployment options: Managed compute vs. serverless APIs](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=0)** - [Instructor] Now that we've chosen a model, the next step is to deploy it so we can use it in our application.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=6)** Azure offers two main deployment options for models, managed compute and serverless.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=6)** [[Microsoft Azure|Azure]] offers two main deployment options for models, managed compute and serverless.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=13)** It's important to understand the difference because it affects cost, scalability, and maintenance.
+> **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=13)** It's important to understand the difference because it affects cost, [[Scalability]], and maintenance.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=19)** Let's start with managed compute.
 >
@@ -1140,7 +1124,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=87)** So what are some use cases for managed compute?
 >
-> **[1:30](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=90)** Well, if you require fine tuning or running a custom version of a model, you would use managed compute.
+> **[1:30](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=90)** Well, if you require [[Fine Tuning]] or running a custom version of a model, you would use managed compute.
 >
 > **[1:37](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=97)** Also, if your model is not offered in serverless mode, you'd use managed.
 >
@@ -1154,7 +1138,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=120)** Azure ensures the model is available and scales to meet demand.
 >
-> **[2:03](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=123)** You pay per request, usually per number of tokens, essentially, pay as you go for usage.
+> **[2:03](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=123)** You pay per request, usually per number of [[Tokens]], essentially, pay as you go for usage.
 >
 > **[2:11](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=131)** If no one calls your model for an hour, you pay nothing for that hour.
 >
@@ -1162,11 +1146,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=140)** It's like an API as a service, Azure's OpenAI service and the new model inference services for third party models fall under this category.
 >
-> **[2:31](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=151)** For example, calling GPT-4 via Azure is serverless.
+> **[2:31](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=151)** For example, calling [[GPT-4]] via Azure is serverless.
 >
 > **[2:35](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=155)** You don't maintain a server running GPT-4.
 >
-> **[2:37](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=157)** Microsoft does and charge you per token.
+> **[2:37](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=157)** [[Microsoft]] does and charge you per token.
 >
 > **[2:41](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=161)** Now, if you look at the cost, typically measured in units, like per 1,000 tokens or prediction, each model have its own rate.
 >
@@ -1182,11 +1166,11 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=197)** Well, quick start and low maintenance scenarios.
 >
-> **[3:20](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=200)** If you want to integrate an AI model into an app without worrying about DevOps, this is ideal.
+> **[3:20](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=200)** If you want to integrate an AI model into an app without worrying about [[DevOps]], this is ideal.
 >
 > **[3:26](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=206)** Also, if usage is unpredictable, serverless automatically scales.
 >
-> **[3:31](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=211)** For example, an e-commerce chat bot that is mostly quiet at night but busy during sales events, serverless will handle that automatically.
+> **[3:31](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=211)** For example, an [[E-Commerce]] chat bot that is mostly quiet at night but busy during sales events, serverless will handle that automatically.
 >
 > **[3:40](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980&t=220)** So now let's compare costs with a simple scenario.
 >
@@ -1226,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (16), [[Microsoft Azure|Azure]] (11), api (2), [[GPT-4]] (2), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (16), [[Microsoft Azure|Azure]] (11), [[GPT-4]] (2), [[Scalability]] (1), [[Fine Tuning]] (1)
 > **Versions:** 2.50 (2), 0.02 (1), 0.20 (1), 4.59 (1), 0.75 (1)
 > **Env Vars:** gpt (3), api (2), nc6 (1), nc24 (1), nc48 (1)
 > **Analogies:** for example (3), it's like (2), for instance (1)
@@ -1234,12 +1218,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step-by-step guide to deploying a model
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/step-by-step-guide-to-deploying-a-model?u=76281980)
+#### [Step-by-step guide to deploying a model](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/step-by-step-guide-to-deploying-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/step-by-step-guide-to-deploying-a-model?u=76281980&t=0)** - [Instructor] Now that we understand the difference between serverless and managed compute, it's time to get our hands dirty and start deploying some models in the Azure AI Foundry, and we will start initially with the serverless deployment process.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/step-by-step-guide-to-deploying-a-model?u=76281980&t=0)** - [Instructor] Now that we understand the difference between serverless and managed compute, it's time to get our hands dirty and start deploying some models in the [[Azure AI Foundry]], and we will start initially with the serverless deployment process.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/step-by-step-guide-to-deploying-a-model?u=76281980&t=16)** So let's go to the Azure AI Foundry and especially our model catalog.
 >
@@ -1273,7 +1256,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/step-by-step-guide-to-deploying-a-model?u=76281980&t=151)** We give our deployment a name and we click on deploy.
 >
-> **[2:36](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/step-by-step-guide-to-deploying-a-model?u=76281980&t=156)** Now, this will take quite some time because at the backend, you are creating a couple of new extra resources on Azure.
+> **[2:36](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/step-by-step-guide-to-deploying-a-model?u=76281980&t=156)** Now, this will take quite some time because at the backend, you are creating a couple of new extra resources on [[Microsoft Azure|Azure]].
 >
 > **[2:45](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/step-by-step-guide-to-deploying-a-model?u=76281980&t=165)** So we're just going to leave it here, what will happen is at the end, when you click on models plus endpoints, you will see your specific managed compute service.
 >
@@ -1285,7 +1268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), next (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (6), go to (3)
 > **Env Vars:** uri (2), nc24 (2), ads (1)
 > **CLI Commands:** make (2)
@@ -1294,14 +1277,13 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Warnings:** keep in mind (1)
 
-#### Integrating models into applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980)
+#### [Integrating models into applications](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980&t=0)** - [Instructor] Now that we have some models deployed in Azure AI Foundry, let's have a look how we can call those models via the AI inference SDK and Python language.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980&t=0)** - [Instructor] Now that we have some models deployed in [[Azure AI Foundry]], let's have a look how we can call those models via the AI inference SDK and [[Python (Programming Language)|Python]] language.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980&t=12)** Therefore, I have an example notebook here that will be shared, where we install the Azure AI interference library.
+> **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980&t=12)** Therefore, I have an example notebook here that will be shared, where we install the [[Microsoft Azure|Azure]] AI interference library.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980&t=21)** Now we need a couple of classes.
 >
@@ -1331,7 +1313,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980&t=79)** Then I create a chat completion client where I configure, okay, this is the endpoint that you need to make use of, and this is the key that you can make use of.
 >
-> **[1:27](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980&t=87)** And then I have a chat conversation, a system message where I'm defining how the chatbot should react.
+> **[1:27](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980&t=87)** And then I have a chat conversation, a system message where I'm defining how the chatbot should [[React.js|react]].
 >
 > **[1:34](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/integrating-models-into-applications?u=76281980&t=94)** So where I'm saying you reply the user's question with a joke based on some keywords.
 >
@@ -1391,7 +1373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Microsoft Azure|Azure]] (6), [[Azure AI Foundry]] (2), [[Python (Programming Language)|Python]] (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Azure AI Foundry]] (2), [[Python (Programming Language)|Python]] (1), [[React.js|React]] (1)
 > **Env Vars:** sdk (3), url (2), api (1), uri (1)
 > **CLI Commands:** make (5), python (1)
 > **Prerequisites:** install (1), configure (1), set up (1)
@@ -1404,14 +1386,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recap
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980)
+#### [Recap](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=0)** - [Instructor] We have reached the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=3)** Let's take a moment to recap what we've learned about the Azure AI model catalog and how to use it.
+> **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=3)** Let's take a moment to recap what we've learned about the [[Microsoft Azure|Azure]] AI model catalog and how to use it.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=9)** We started with an overview of Azure AI model catalog, a centralized hub of over 1,800 AI models from various providers.
 >
@@ -1423,7 +1404,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=51)** This is how you find the right model for your needs quickly.
 >
-> **[0:55](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=55)** We also delved in the different categories of models, curated models, popular open source and third party models, then we also have the Azure OpenAI models, the Hugging Face models, and of course the industry and partner models.
+> **[0:55](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=55)** We also delved in the different categories of models, curated models, popular open source and third party models, then we also have the Azure OpenAI models, the [[Hugging Face]] models, and of course the industry and partner models.
 >
 > **[1:10](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=70)** Then we had a look at the model cards and understand sample inferences, so we know what a model does, its strengths, limitations, and also see examples of its outputs before using it.
 >
@@ -1445,11 +1426,11 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=133)** It provides the models, the information to choose them, and the tools to deploy and consume them.
 >
-> **[2:18](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=138)** For businesses, this means you can bring advanced AI capabilities into your products with less time and risk.
+> **[2:18](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=138)** For businesses, this means you can bring advanced AI capabilities into your [[Microsoft Products|products]] with less time and risk.
 >
 > **[2:25](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=145)** For developers, it means you can focus on building the solution rather than wrangling ML models and infrastructure from scratch.
 >
-> **[2:33](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=153)** And we also saw the importance of evaluating models responsibly, not just grabbing one, but checking if it's right for the job, which ties into building effective and ethical AI solutions.
+> **[2:33](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=153)** And we also saw the importance of evaluating models responsibly, not just grabbing one, but checking if it's right for the job, which ties into building effective and ethical [[AI Solutions]].
 >
 > **[2:46](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980&t=166)** So now, don't hesitate to explore the catalog yourself.
 >
@@ -1459,26 +1440,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Microsoft Azure|Azure]] (8), data (2), [[Search]] (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Hugging Face]] (1), [[Microsoft Products|Products]] (1), [[AI Solutions]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we discussed (1), we talked about (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Additional resources for continued learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980)
+#### [Additional resources for continued learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980&t=0)** - [Instructor] Even though our course is concluding, your learning doesn't have to stop here.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980&t=5)** I want to point you to some additional resources that can help you deepen your understanding and stay updated on Azure AI model catalog and related services.
+> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980&t=5)** I want to point you to some additional resources that can help you deepen your understanding and stay updated on [[Microsoft Azure|Azure]] AI model catalog and related services.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980&t=15)** On the Microsoft Learn page concerning the model catalog, you will be able to stay up to date with the latest changes in the tool.
+> **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980&t=15)** On the [[Microsoft]] Learn page concerning the model catalog, you will be able to stay up to date with the latest changes in the tool.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980&t=22)** Now, if you want more details about how to make use of the AI Foundry SDK, or the AI Inference Library in Python, or even in C, there are plenty of examples to be find in their documentation.
+> **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980&t=22)** Now, if you want more details about how to make use of the AI Foundry SDK, or the AI Inference Library in [[Python (Programming Language)|Python]], or even in C, there are plenty of examples to be find in their documentation.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980&t=36)** And finally, do have a look at the Hugging Face community sites to learn more about incredible open source models that are getting built by the community.
+> **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980&t=36)** And finally, do have a look at the [[Hugging Face]] community sites to learn more about incredible open source models that are getting built by the community.
 >
 > **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/additional-resources-for-continued-learning?u=76281980&t=47)** Now, with all those resources and your new knowledge, you are well equipped to leverage Azure's AI model catalog to its fullest.
 >
@@ -1486,7 +1466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1), [[Hugging Face]] (1)
 > **CLI Commands:** make (1), python (1), find (1)
 > **Env Vars:** sdk (1)
 > **Speakers:** - [instructor] (1)

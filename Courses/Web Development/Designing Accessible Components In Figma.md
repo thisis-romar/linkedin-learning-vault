@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why does accessibility matter in Figma?
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980)
+#### [Why does accessibility matter in Figma?](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,9 +84,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980&t=6)** With accessible components, you can make sure that your designs can be viewed and applied by every user, regardless of their physical or cognitive impairments.
 >
-> **[0:15](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980&t=15)** Hi, my name is Tetiana Gulei and I'm a UX designer with five years of design and software development experience.
+> **[0:15](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980&t=15)** Hi, my name is Tetiana Gulei and I'm a UX designer with five years of design and [[Software Development]] experience.
 >
-> **[0:22](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980&t=22)** In this LinkedIn learning course, you'll discover the process of creating accessible components in Figma, including buttons, image cards, a navigation menu bar, and many more.
+> **[0:22](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980&t=22)** In this [[LinkedIn]] learning course, you'll discover the process of creating accessible components in [[Figma (Software)|Figma]], including buttons, image cards, a navigation menu bar, and many more.
 >
 > **[0:32](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980&t=32)** You'll also learn how to apply components in your design project to speed up your working process.
 >
@@ -95,13 +94,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), ux (1), [[Software Development]] (1), [[LinkedIn]] (1), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[LinkedIn]] (1), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
 > **Speakers:** - [tetiana] (1)
 
-#### What are accessible components?
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980)
+#### [What are accessible components?](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=2)** Components are design elements that are reused across mobile and web interfaces.
 >
-> **[0:08](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=8)** When designed with accessibility in mind, they significantly simplify the user interaction and also improve user experience.
+> **[0:08](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=8)** When designed with accessibility in mind, they significantly simplify the user interaction and also improve [[User Experience (UX)|user experience]].
 >
 > **[0:16](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=16)** Think about the website that you recently visited.
 >
@@ -117,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=24)** These are the examples of web components that we as users see every day, and as a designer, it is important to plan out your process ahead before you start designing accessible components.
 >
-> **[0:36](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=36)** A very common approach is to use Web Content Accessibility Guidelines which is an international standard used by designers, developers, and organizations to make their websites and other digital products accessible.
+> **[0:36](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=36)** A very common approach is to use Web Content Accessibility Guidelines which is an international standard used by designers, developers, and organizations to make their websites and other digital [[Microsoft Products|products]] accessible.
 >
 > **[0:50](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=50)** Today, we'll cover four main disabilities that are crucial while designing accessible components.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=60)** Vision is a disability that is relevant for a wide group of users.
 >
-> **[1:04](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=64)** To make your component accessible, make sure that you apply a specific contrast ratio defined by Web Accessibility Guidelines.
+> **[1:04](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=64)** To make your component accessible, make sure that you apply a specific contrast ratio defined by [[Web Accessibility]] Guidelines.
 >
 > **[1:12](https://www.linkedin.com/learning/designing-accessible-components-in-figma/what-are-accessible-components?u=76281980&t=72)** To differentiate your content, use some patterns instead of just simply relying on colors.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Web Accessibility]] (3), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (3), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** such as (3)
 > **Definitions:** is an  (1), is a  (1)
@@ -168,14 +166,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Style your components
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980)
+#### [Style your components](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980&t=0)** - [Instructor] You might want to work alongside me through this LinkedIn Learning course.
+> **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980&t=0)** - [Instructor] You might want to work alongside me through this [[LinkedIn]] Learning course.
 >
-> **[0:04](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980&t=4)** To simplify your learning journey, I've created a Figma file with color and textiles for you to apply to your accessible components.
+> **[0:04](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980&t=4)** To simplify your learning journey, I've created a [[Figma (Software)|Figma]] file with color and textiles for you to apply to your accessible components.
 >
 > **[0:11](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980&t=11)** In this way, you don't have to think about choosing the right color and font settings.
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980&t=56)** Simply let's create the frame with desktop dimensions.
 >
-> **[1:01](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980&t=61)** I'm going to zoom it in and I will just draw a simple rectangle right here.
+> **[1:01](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980&t=61)** I'm going to [[Zoom]] it in and I will just draw a simple rectangle right here.
 >
 > **[1:08](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980&t=68)** So instead of going to fill as you would normally do, just to select your color, you can simply click on this icon that is called style and select the color styles from this file.
 >
@@ -219,12 +216,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create your first component in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-your-first-component-in-figma?u=76281980)
+#### [Create your first component in Figma](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-your-first-component-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-your-first-component-in-figma?u=76281980&t=0)** - [Instructor] Before we start designing accessible components, let me quickly explain to you how to create a component in Figma and how to manage it across your design file.
+> **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-your-first-component-in-figma?u=76281980&t=0)** - [Instructor] Before we start designing accessible components, let me quickly explain to you how to create a component in [[Figma (Software)|Figma]] and how to manage it across your design file.
 >
 > **[0:09](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-your-first-component-in-figma?u=76281980&t=9)** In Figma, you can create components from any layers, groups, and frames.
 >
@@ -316,7 +312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), next (1), hit (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4)
 > **UI Navigation:** click on (3), go to (2), dropdown (1), right-click (1), navigate to (1)
 > **Definitions:** is a  (2), known as (1), means that (1), is called (1)
 > **Tools:** figma (4)
@@ -325,12 +321,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Best Practices:** good practice (1)
 
-#### Create accessible buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-buttons?u=76281980)
+#### [Create accessible buttons](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-buttons?u=76281980&t=0)** - As we learn the basics of creating components in Figma, let's design accessible buttons.
+> **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-buttons?u=76281980&t=0)** - As we learn the basics of creating components in [[Figma (Software)|Figma]], let's design accessible buttons.
 >
 > **[0:05](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-buttons?u=76281980&t=5)** Buttons are the primary components that communicate actions that users can take, and they're usually placed across the website user interface.
 >
@@ -500,7 +495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), hit (4), feature (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4)
 > **UI Navigation:** select the (3), go to (2), dropdown (2), click on (2), open the (1)
 > **CLI Commands:** make (3), find (2)
 > **Tools:** figma (4)
@@ -509,12 +504,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - as (1)
 
-#### Create accessible icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980)
+#### [Create accessible icons](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=0)** - [Instructor] Icons are a visual representation of an object or action using user interface design.
+> **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=0)** - [Instructor] Icons are a visual representation of an object or action using [[User Interface Design]].
 >
 > **[0:06](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=6)** Accessible icons usually come along with the text labels to ensure that the users immediately understand their purpose and meaning.
 >
@@ -522,7 +516,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=19)** In fact, you can design icons from scratch.
 >
-> **[0:21](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=21)** But very common practice between designers is to reuse the Figma plugins, with the right existing icons libraries.
+> **[0:21](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=21)** But very common practice between designers is to reuse the [[Figma (Software)|Figma]] plugins, with the right existing icons libraries.
 >
 > **[0:28](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=28)** And right now, I'm going to show you one of the plugins that we are going to work with.
 >
@@ -556,7 +550,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=98)** But today we are going to work with social media icons.
 >
-> **[1:41](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=101)** So let's just type in LinkedIn.
+> **[1:41](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=101)** So let's just type in [[LinkedIn]].
 >
 > **[1:44](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-accessible-icons?u=76281980&t=104)** When you click on the icon, you can immediately see it appearing in your working area.
 >
@@ -624,8 +618,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessible radio buttons and checkboxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-radio-buttons-and-checkboxes?u=76281980)
+#### [Accessible radio buttons and checkboxes](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-radio-buttons-and-checkboxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,7 +630,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-radio-buttons-and-checkboxes?u=76281980&t=21)** It is also wise to add the relevant text labels, so that the user can get more context about the available choices.
 >
-> **[0:28](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-radio-buttons-and-checkboxes?u=76281980&t=28)** In Figma, we are going to design each of the elements with three different states, which are normal, click and disable.
+> **[0:28](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-radio-buttons-and-checkboxes?u=76281980&t=28)** In [[Figma (Software)|Figma]], we are going to design each of the elements with three different states, which are normal, click and disable.
 >
 > **[0:34](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-radio-buttons-and-checkboxes?u=76281980&t=34)** Let's start with designing radio buttons.
 >
@@ -783,7 +776,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-radio-buttons-and-checkboxes?u=76281980&t=433)** And let's also extend its text area.
 >
-> **[7:21](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-radio-buttons-and-checkboxes?u=76281980&t=441)** We can also zoom out a bit and just to see, so that the text area matches the text area of our radio box.
+> **[7:21](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-radio-buttons-and-checkboxes?u=76281980&t=441)** We can also [[Zoom]] out a bit and just to see, so that the text area matches the text area of our radio box.
 >
 > **[7:30](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-radio-buttons-and-checkboxes?u=76281980&t=450)** We can zoom out just to see that our text area has exactly the same width as the text area of our radio button.
 >
@@ -821,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Zoom]] (2), [[Figma (Software)|Figma]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** checkbox (7), select the (2), click on (2), navigate to (1), go to (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** earlier in (1)
@@ -830,8 +823,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an accessible image card
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/creating-an-accessible-image-card?u=76281980)
+#### [Creating an accessible image card](https://www.linkedin.com/learning/designing-accessible-components-in-figma/creating-an-accessible-image-card?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +841,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/designing-accessible-components-in-figma/creating-an-accessible-image-card?u=76281980&t=34)** First, let's throw the area where our images are going to be displayed.
 >
-> **[0:38](https://www.linkedin.com/learning/designing-accessible-components-in-figma/creating-an-accessible-image-card?u=76281980&t=38)** I'm going to hit a rectangle in Figma and make sure that its dimensions are 896 pixels and 508 pixel of the height.
+> **[0:38](https://www.linkedin.com/learning/designing-accessible-components-in-figma/creating-an-accessible-image-card?u=76281980&t=38)** I'm going to hit a rectangle in [[Figma (Software)|Figma]] and make sure that its dimensions are 896 pixels and 508 pixel of the height.
 >
 > **[0:48](https://www.linkedin.com/learning/designing-accessible-components-in-figma/creating-an-accessible-image-card?u=76281980&t=48)** We're also going to change the corner radius to the value of 40 pixels, because as you remember we applied similar settings to our buttons, check boxes and other components that also have smooth corners.
 >
@@ -933,7 +925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Figma (Software)|Figma]] (2), feature (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **UI Navigation:** go to (2), click on (2), select the (2)
 > **CLI Commands:** make (4)
 > **Tools:** figma (2)
@@ -941,8 +933,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create accessible input fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/challenge-create-accessible-input-fields?u=76281980)
+#### [Challenge: Create accessible input fields](https://www.linkedin.com/learning/designing-accessible-components-in-figma/challenge-create-accessible-input-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,7 +943,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/designing-accessible-components-in-figma/challenge-create-accessible-input-fields?u=76281980&t=9)** These components are essential for users to enter their personal data on webpages.
 >
-> **[0:15](https://www.linkedin.com/learning/designing-accessible-components-in-figma/challenge-create-accessible-input-fields?u=76281980&t=15)** You've definitely interacted with input fields while trying to log in into the system or filling in some personal information in online forms.
+> **[0:15](https://www.linkedin.com/learning/designing-accessible-components-in-figma/challenge-create-accessible-input-fields?u=76281980&t=15)** You've definitely interacted with input fields while trying to log in into the system or filling in some personal information in online [[Forms]].
 >
 > **[0:23](https://www.linkedin.com/learning/designing-accessible-components-in-figma/challenge-create-accessible-input-fields?u=76281980&t=23)** In this challenge specifically, focus on creating two different component sets, which are one line and multiline input fields.
 >
@@ -968,14 +959,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat synth music) (1)
 
-#### Solution: Create accessible input fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/solution-create-accessible-input-fields?u=76281980)
+#### [Solution: Create accessible input fields](https://www.linkedin.com/learning/designing-accessible-components-in-figma/solution-create-accessible-input-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1091,7 +1081,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **UI Navigation:** select the (2), dropdown (2), click on (2), navigate to (2), go to (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1)
@@ -1103,8 +1092,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessible header menus
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-header-menus?u=76281980)
+#### [Accessible header menus](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-header-menus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,7 +1102,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-header-menus?u=76281980&t=12)** Accessible headers have a clear and consistent structure that is reused across the web pages.
 >
-> **[0:17](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-header-menus?u=76281980&t=17)** To create a header component in Figma, we are going to work with a new concept of nested components and it means that we are going to use already existing components to create our header.
+> **[0:17](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-header-menus?u=76281980&t=17)** To create a header component in [[Figma (Software)|Figma]], we are going to work with a new concept of nested components and it means that we are going to use already existing components to create our header.
 >
 > **[0:27](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-header-menus?u=76281980&t=27)** It sounds a bit complicated, but it's definitely not.
 >
@@ -1186,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), web (2), next (2), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -1194,8 +1182,7 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Speakers:** - a (1)
 
-#### Accessible footers
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980)
+#### [Accessible footers](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1207,7 +1194,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=17)** To make our footer accessible, we need to make sure that the shown data has a high-contrast ratio with the footers background.
 >
-> **[0:24](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=24)** All right, so we are back in our Figma file.
+> **[0:24](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=24)** All right, so we are back in our [[Figma (Software)|Figma]] file.
 >
 > **[0:27](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=27)** Let's select the frame and make sure that the layout grid is activated again.
 >
@@ -1279,9 +1266,9 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=298)** Great, and the remaining thing to do is to add our social media icons in the last column.
 >
-> **[5:04](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=304)** Let's quickly go to the assets panel and type in LinkedIn to find our first icon that we are going to drag right here under the follow us headline.
+> **[5:04](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=304)** Let's quickly go to the assets panel and type in [[LinkedIn]] to find our first icon that we are going to drag right here under the follow us headline.
 >
-> **[5:14](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=314)** I will immediately zoom in right here and make sure that this icon is properly aligned.
+> **[5:14](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=314)** I will immediately [[Zoom]] in right here and make sure that this icon is properly aligned.
 >
 > **[5:20](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-footers?u=76281980&t=320)** The distance between the icon and the header should also be 20 pixels.
 >
@@ -1309,7 +1296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hit (3), next (2), [[LinkedIn]] (2), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (12), find (1)
 > **UI Navigation:** go to (2), select the (1), navigate to (1)
 > **Cross-References:** go back to (2), in the last (1)
@@ -1318,12 +1305,11 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Figma plugins for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/figma-plugins-for-accessibility?u=76281980)
+#### [Figma plugins for accessibility](https://www.linkedin.com/learning/designing-accessible-components-in-figma/figma-plugins-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/figma-plugins-for-accessibility?u=76281980&t=0)** - [Instructor] Today we'll discuss two Figma plugins that can help you validate whether your components are accessible or whether you need to make more changes to your components to meet accessibility standards.
+> **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/figma-plugins-for-accessibility?u=76281980&t=0)** - [Instructor] Today we'll discuss two [[Figma (Software)|Figma]] plugins that can help you validate whether your components are accessible or whether you need to make more changes to your components to meet accessibility standards.
 >
 > **[0:11](https://www.linkedin.com/learning/designing-accessible-components-in-figma/figma-plugins-for-accessibility?u=76281980&t=11)** In Figma, make sure that you are in a community section where together we are going to search for our accessibility plugins.
 >
@@ -1367,7 +1353,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/designing-accessible-components-in-figma/figma-plugins-for-accessibility?u=76281980&t=162)** So here we have two different variations of our footer component.
 >
-> **[2:46](https://www.linkedin.com/learning/designing-accessible-components-in-figma/figma-plugins-for-accessibility?u=76281980&t=166)** Let's quickly zoom it in.
+> **[2:46](https://www.linkedin.com/learning/designing-accessible-components-in-figma/figma-plugins-for-accessibility?u=76281980&t=166)** Let's quickly [[Zoom]] it in.
 >
 > **[2:47](https://www.linkedin.com/learning/designing-accessible-components-in-figma/figma-plugins-for-accessibility?u=76281980&t=167)** We can see that colors are different, but this is how people with visual limitations can see our component.
 >
@@ -1379,7 +1365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Figma (Software)|Figma]] (4), next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[Zoom]] (1)
 > **UI Navigation:** click on (5), go to (2), select the (1)
 > **CLI Commands:** make (7)
 > **Tools:** figma (4)
@@ -1388,8 +1374,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 
-#### Create a simple web page with Figma components
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-a-simple-web-page-with-figma-components?u=76281980)
+#### [Create a simple web page with Figma components](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-a-simple-web-page-with-figma-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1399,7 +1384,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-a-simple-web-page-with-figma-components?u=76281980&t=10)** So make sure that you follow along.
 >
-> **[0:12](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-a-simple-web-page-with-figma-components?u=76281980&t=12)** In your Figma project, first of all, let's select a frame, and also make sure that we select a desktop dimension.
+> **[0:12](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-a-simple-web-page-with-figma-components?u=76281980&t=12)** In your [[Figma (Software)|Figma]] project, first of all, let's select a frame, and also make sure that we select a desktop dimension.
 >
 > **[0:20](https://www.linkedin.com/learning/designing-accessible-components-in-figma/create-a-simple-web-page-with-figma-components?u=76281980&t=20)** I will immediately extend the height of my frame because we are going to create multiple sections.
 >
@@ -1517,15 +1502,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Figma (Software)|Figma]] (1), feature (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (21), find (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Tools:** figma (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Design a contact page
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/challenge-design-a-contact-page?u=76281980)
+#### [Challenge: Design a contact page](https://www.linkedin.com/learning/designing-accessible-components-in-figma/challenge-design-a-contact-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,8 +1531,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Design a contact page
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/solution-design-a-contact-page?u=76281980)
+#### [Solution: Design a contact page](https://www.linkedin.com/learning/designing-accessible-components-in-figma/solution-design-a-contact-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,7 +1583,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/designing-accessible-components-in-figma/solution-design-a-contact-page?u=76281980&t=149)** Let's duplicate this component with a control+D shortcut and we will have the distance of 14 pixels.
 >
-> **[2:36](https://www.linkedin.com/learning/designing-accessible-components-in-figma/solution-design-a-contact-page?u=76281980&t=156)** Right here, I would like to change the text to make sure that the user can subscribe to my newsletters.
+> **[2:36](https://www.linkedin.com/learning/designing-accessible-components-in-figma/solution-design-a-contact-page?u=76281980&t=156)** Right here, I would like to change the text to make sure that the user can subscribe to my [[Newsletters]].
 >
 > **[2:44](https://www.linkedin.com/learning/designing-accessible-components-in-figma/solution-design-a-contact-page?u=76281980&t=164)** And also for the variety, let's change the state of the component to the value of click.
 >
@@ -1632,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1)
 > **CLI Commands:** make (8), find (2)
 > **UI Navigation:** select the (3), go to (2), click on (1), checkbox (1)
 > **Definitions:** is a  (1)
@@ -1644,18 +1627,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue designing accessible components
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980)
+#### [Continue designing accessible components](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980&t=0)** - [Instructor] Congratulations on finishing the course.
 >
-> **[0:03](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980&t=3)** Now you know how to create accessible components in Figma and how to apply them in your design project.
+> **[0:03](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980&t=3)** Now you know how to create accessible components in [[Figma (Software)|Figma]] and how to apply them in your design project.
 >
 > **[0:09](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980&t=9)** As a part of this course, we discovered the importance of accessibility in design.
 >
-> **[0:13](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980&t=13)** We reviewed the most common web accessibility standards to create accessible components.
+> **[0:13](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980&t=13)** We reviewed the most common [[Web Accessibility]] standards to create accessible components.
 >
 > **[0:19](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980&t=19)** Even more importantly, we designed a full set of accessible components in Figma, including buttons, image cards, header navigation, and so on.
 >
@@ -1667,7 +1649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Web Accessibility]] (1), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Web Accessibility]] (1)
 > **Tools:** figma (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)

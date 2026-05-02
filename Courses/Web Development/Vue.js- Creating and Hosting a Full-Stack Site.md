@@ -114,8 +114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vue.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-js?u=76281980)
+#### [Vue.js](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-js?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,26 +126,25 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-js?u=76281980&t=16)** Hi, I'm Shaun Wassell, a senior full-stack developer with a passion for education.
 >
-> **[0:21](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-js?u=76281980&t=21)** If you've ever wondered about the easiest way to get into full-stack development, I invite you to join me in this LinkedIn learning course, where you'll learn the ins and outs of full-stack development, and in the process, you'll create and then deploy a full-stack view powered e-commerce website from scratch.
+> **[0:21](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-js?u=76281980&t=21)** If you've ever wondered about the easiest way to get into [[Full-Stack Development]], I invite you to join me in this [[LinkedIn]] learning course, where you'll learn the ins and outs of full-stack development, and in the process, you'll create and then deploy a full-stack view powered [[E-Commerce]] website from scratch.
 >
 > **[0:38](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-js?u=76281980&t=38)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** full-stack (4), [[Full-Stack Development]] (2), [[LinkedIn]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Full-Stack Development]] (2), [[LinkedIn]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 
-#### Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980)
+#### [Codespaces](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=0)** - [Instructor] For this course, we're going to be using Codespaces to build our full stack application, and I definitely recommend that you follow along in Codespaces as well.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=0)** - [Instructor] For this course, we're going to be using [[Codespaces]] to build our full stack application, and I definitely recommend that you follow along in Codespaces as well.
 >
 > **[0:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=8)** Now, in order to open up Codespaces for this project, there are two ways to get there.
 >
-> **[0:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=12)** The first way is simply to navigate to the GitHub repo for this course and add /codespaces at the end of the URL.
+> **[0:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=12)** The first way is simply to navigate to the [[GitHub]] repo for this course and add /codespaces at the end of the URL.
 >
 > **[0:20](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=20)** And that'll take you to this screen.
 >
@@ -160,13 +158,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=46)** Now if you want to navigate to the specific state that our app is in at any given point in the course, you can simply check out the corresponding branch with the chapter number and the video number.
 >
-> **[0:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=57)** So for example, if we wanted to check out the exact code state at the beginning of, let's say chapter four, video two, we could simply run the command git checkout 04_02.
+> **[0:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=57)** So for example, if we wanted to check out the exact code state at the beginning of, let's say chapter four, video two, we could simply run the command [[Git]] checkout 04_02.
 >
 > **[1:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=72)** And then, in order to check out the beginning, we would say _B.
 >
 > **[1:16](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=76)** Now if you want to check out the code at the end of a given video, you can always just add _E for end instead.
 >
-> **[1:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=85)** But anyway, once you've navigated to that branch, another thing that you're going to need to do is install the corresponding NPM packages into both the frontend and backend directories.
+> **[1:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=85)** But anyway, once you've navigated to that branch, another thing that you're going to need to do is install the corresponding [[npm]] packages into both the frontend and backend directories.
 >
 > **[1:36](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/codespaces?u=76281980&t=96)** And the way you do that is simply by saying cd front-end.
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (6), [[npm]] (5), [[GitHub]] (2), cd (2), application (1)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[npm]] (5), [[GitHub]] (2), [[Git]] (1)
 > **CLI Commands:** npm (5), cd (2), git (1)
 > **Prerequisites:** install (5)
 > **Env Vars:** npm (3), url (1)
@@ -189,14 +187,13 @@ created: 2026-05-02
 > **Exercise Files:** github repo (1)
 > **Analogies:** for example (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-you-should-know?u=76281980&t=0)** - [Narrator] In order to get the most out of this course, there are a few things that it would be helpful for you to know already.
 >
-> **[0:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-you-should-know?u=76281980&t=6)** First of all, it would definitely be very helpful for you to have a basic knowledge of JavaScript and ideally a knowledge of how front-end frameworks work as well.
+> **[0:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-you-should-know?u=76281980&t=6)** First of all, it would definitely be very helpful for you to have a basic knowledge of [[JavaScript]] and ideally a knowledge of how front-end frameworks work as well.
 >
 > **[0:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-you-should-know?u=76281980&t=15)** Now, if you haven't already worked with these a little, I'd recommend you take a look at one of the JavaScript basics courses in the library first and then come back to this one since we won't be covering any of the very basics of JavaScript in this course.
 >
@@ -210,21 +207,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), front-end (1), cd (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **CLI Commands:** make (2), cd (1), ls (1)
 > **Tools:** command line (1)
 > **Speakers:** - [narrator] (1)
 
-#### Installing Node.js and NPM
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/installing-node-js-and-npm?u=76281980)
+#### [Installing Node.js and NPM](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/installing-node-js-and-npm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/installing-node-js-and-npm?u=76281980&t=0)** - [Instructor] All right, so as we've seen, I'm going to be using Codespaces to write all of the code for this course.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/installing-node-js-and-npm?u=76281980&t=0)** - [Instructor] All right, so as we've seen, I'm going to be using [[Codespaces]] to write all of the code for this course.
 >
 > **[0:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/installing-node-js-and-npm?u=76281980&t=4)** And I highly recommend you do the same thing.
 >
-> **[0:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/installing-node-js-and-npm?u=76281980&t=6)** But if you want to develop on your computer, you're going to want to make sure that you have an up-to-date version of Node.js and npm installed.
+> **[0:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/installing-node-js-and-npm?u=76281980&t=6)** But if you want to develop on your computer, you're going to want to make sure that you have an up-to-date version of [[Node.js]] and [[npm]] installed.
 >
 > **[0:14](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/installing-node-js-and-npm?u=76281980&t=14)** Now, you can tell if you don't have them installed if you open up a terminal and run the command node, and you see something that looks like this, where it says "Command not found: node."
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (7), [[Node.js]] (5), node (5), [[Codespaces]] (2)
+> **Frameworks & Libraries:** [[npm]] (7), [[Node.js]] (5), [[Codespaces]] (2)
 > **CLI Commands:** node (10), npm (7), make (2)
 > **File Paths:** node.js (5)
 > **Prerequisites:** install (3)
@@ -259,20 +255,19 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### What to expect from this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980)
+#### [What to expect from this course](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980&t=0)** - [Narrator] As I mentioned earlier, in this course, we're going to be using a number of different technologies to build and host a full stack web application.
 >
-> **[0:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980&t=8)** Now, the application that we're going to be building here is an e-commerce site and just for the sake of example, I've chosen to go with building a site called Two Trees Olive Oil, an e-commerce application that sells, as you can see, different olive oils.
+> **[0:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980&t=8)** Now, the application that we're going to be building here is an [[E-Commerce]] site and just for the sake of example, I've chosen to go with building a site called Two Trees Olive Oil, an e-commerce application that sells, as you can see, different olive oils.
 >
-> **[0:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980&t=22)** And the exciting part here is that the site we're building is going to include things for listing products, viewing individual products, and also, viewing the users shopping cart and since those piece of functionality are common across pretty much any e-commerce site, you'll be able to use the site that we're building here to create any other type of e-commerce site that you want.
+> **[0:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980&t=22)** And the exciting part here is that the site we're building is going to include things for listing [[Microsoft Products|products]], viewing individual products, and also, viewing the users shopping cart and since those piece of functionality are common across pretty much any e-commerce site, you'll be able to use the site that we're building here to create any other type of e-commerce site that you want.
 >
 > **[0:44](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980&t=44)** Now, the front end of this site, which is what you're looking at here will be built using View, which is a very popular and easy to use front end framework and the front end site is served by a back end written for a node JS environment.
 >
-> **[0:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980&t=57)** For this, we're going to be using a very popular server framework called Express and we're also going to be storing all of the data for this application in a MongoDB.
+> **[0:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980&t=57)** For this, we're going to be using a very popular server framework called Express and we're also going to be storing all of the data for this application in a [[MongoDB]].
 >
 > **[1:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/what-to-expect-from-this-course?u=76281980&t=68)** Finally, at the end of the course, we'll be hosting our entire full stack application on a hosting platform so that it can be accessed from anywhere.
 >
@@ -282,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[E-Commerce]] (4), [[Microsoft Products|Products]] (2), web application (1), node (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (4), [[Microsoft Products|Products]] (2), [[MongoDB]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [narrator] (1)
@@ -292,14 +287,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Vue?
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980)
+#### [Why Vue?](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=0)** - Okay, so we're going to be building the front-end of our e-commerce site using Vue, but before we get started you may be wondering why we choose to use Vue in the first place.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=0)** - Okay, so we're going to be building the front-end of our [[E-Commerce]] site using [[Vue.js|Vue]], but before we get started you may be wondering why we choose to use Vue in the first place.
 >
-> **[0:11](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=11)** So to get a little bit more specific with this question, the first question is why we'd want to use a front-end library at all, instead of just creating our site using basic HTML, CSS and JavaScript, or instead of using some other low-code solutions such as WordPress or Wix?
+> **[0:11](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=11)** So to get a little bit more specific with this question, the first question is why we'd want to use a front-end library at all, instead of just creating our site using basic [[HTML]], CSS and [[JavaScript]], or instead of using some other low-code solutions such as [[WordPress]] or Wix?
 >
 > **[0:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=29)** Well, compared to Hand coding a site, full featured front-end libraries such as Vue have a lot of advantages.
 >
@@ -323,7 +317,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=135)** Honestly, it'll probably end up being much more difficult for you in the long run if you try and create a code-based site with Vue if you still struggle with basic coding concepts.
 >
-> **[2:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=145)** All right, now another question, and this is probably the most common question I get asked, is why you would choose Vue over some of the other front-end libraries like React or Angular.
+> **[2:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=145)** All right, now another question, and this is probably the most common question I get asked, is why you would choose Vue over some of the other front-end libraries like [[React.js|React]] or [[Angular]].
 >
 > **[2:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=155)** Now, this may come as a bit of a shock to those of you who are looking to learn "the best front-end library", but in my opinion there is no single best front-end library, and here's why.
 >
@@ -333,7 +327,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=198)** And what they actually mean, in most of these cases, is that they've found the best library for their own needs, or, more commonly, their favorite front-end library is the only one that they've ever worked with, and therefore they think it's the greatest.
 >
-> **[3:33](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=213)** That's a pretty common thing to happen in the front-end development world.
+> **[3:33](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=213)** That's a pretty common thing to happen in the [[Front-End Development]] world.
 >
 > **[3:37](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980&t=217)** All right, so all that being said, a better question might be something like, what is Vue's unique value proposition compared to some of the other libraries out there?
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (15), front-end (14), [[HTML]] (4), [[React.js|React]] (4), [[Angular]] (4)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (15), [[HTML]] (4), [[React.js|React]] (4), [[Angular]] (4), [[JavaScript]] (3)
 > **Env Vars:** html (4), css (3)
 > **Analogies:** such as (4), imagine (1)
 > **CLI Commands:** make (3)
@@ -355,18 +349,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - okay (1)
 
-#### Setting up and running a Vue project
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-and-running-a-vue-project?u=76281980)
+#### [Setting up and running a Vue project](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-and-running-a-vue-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-and-running-a-vue-project?u=76281980&t=0)** - [Instructor] Now that we're a little more familiar with the Vue Library and some of the benefits it provides us with, let's get started creating the view front-end for our full stack project.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-and-running-a-vue-project?u=76281980&t=0)** - [Instructor] Now that we're a little more familiar with the [[Vue.js|Vue]] Library and some of the benefits it provides us with, let's get started creating the view front-end for our full stack project.
 >
-> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-and-running-a-vue-project?u=76281980&t=10)** All right, now the first thing we'll need to do here is install something called the Vue CLI.
+> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-and-running-a-vue-project?u=76281980&t=10)** All right, now the first thing we'll need to do here is install something called the Vue [[CLI]].
 >
 > **[0:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-and-running-a-vue-project?u=76281980&t=15)** And what you're going to want to do there is open up a terminal, and you can do that by pressing Control J or Command J, depending on your operating system.
 >
-> **[0:24](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-and-running-a-vue-project?u=76281980&t=24)** And inside that terminal, what we're going to want to do is globally install the Vue CLI package by saying npm install dash g and then the package name is @vue/cli.
+> **[0:24](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-and-running-a-vue-project?u=76281980&t=24)** And inside that terminal, what we're going to want to do is globally install the Vue CLI package by saying [[npm]] install dash g and then the package name is @vue/cli.
 >
 > **[0:38](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-and-running-a-vue-project?u=76281980&t=38)** Now if you hit Enter, that's going to install that globally for us.
 >
@@ -462,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (16), front-end (8), [[npm]] (4), hit (4), [[CLI]] (3)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (16), [[npm]] (4), [[CLI]] (3)
 > **CLI Commands:** npm (4), make (4), yarn (1), cd (1), ls (1)
 > **Env Vars:** cli (2), npm (2), url (1)
 > **Prerequisites:** install (4)
@@ -471,14 +464,13 @@ created: 2026-05-02
 > **Ports:** port 80 (1)
 > **Cross-References:** go back to (1)
 
-#### Vue project structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980)
+#### [Vue project structure](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=0)** - [Instructor] Okay, so we've got our Vue project set up now.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=0)** - [Instructor] Okay, so we've got our [[Vue.js|Vue]] project set up now.
 >
-> **[0:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=3)** But before we get started building our app, I wanted to give you a brief walkthrough of all the files that the Vue CLI created for us, right?
+> **[0:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=3)** But before we get started building our app, I wanted to give you a brief walkthrough of all the files that the Vue [[CLI]] created for us, right?
 >
 > **[0:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=12)** We created this new frontend folder with a bunch of stuff in it.
 >
@@ -516,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=101)** So now that we've added those two things, the next thing that we're going to do is talk about all of the files inside our frontend directory.
 >
-> **[1:47](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=107)** So the first folder that's in here is the public directory, and inside there we have this index.html file.
+> **[1:47](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=107)** So the first folder that's in here is the public directory, and inside there we have this index.[[HTML]] file.
 >
 > **[1:56](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=116)** Now this index.html file is what the user will be sent directly when they open up our Vue site, right?
 >
@@ -526,19 +518,19 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=139)** So in other words, when the user receives this empty HTML file, that's going to load our Vue code, right?
 >
-> **[2:26](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=146)** The actual JavaScript code we're writing as part of our Vue application, it's going to run that and render our app inside this div.
+> **[2:26](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=146)** The actual [[JavaScript]] code we're writing as part of our Vue application, it's going to run that and render our app inside this div.
 >
 > **[2:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=155)** And by the way, don't worry too much about the actual mechanics of this.
 >
-> **[2:38](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=158)** This is all something that the Vue CLI takes care of behind the scenes for us when we run the app with npm run serve.
+> **[2:38](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=158)** This is all something that the Vue CLI takes care of behind the scenes for us when we run the app with [[npm]] run serve.
 >
 > **[2:46](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=166)** So let's see.
 >
-> **[2:47](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=167)** Besides the public and the source directory which we'll talk about in more detail shortly, the rest of the files inside this frontend directory are pretty much just configuration files.
+> **[2:47](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=167)** Besides the public and the source directory which we'll talk about in more detail shortly, the [[Representational State Transfer (REST)|rest]] of the files inside this frontend directory are pretty much just configuration files.
 >
 > **[2:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=177)** So you have configuration for Babel, if you want to play around with the JavaScript settings.
 >
-> **[3:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=183)** We have configuration for Vue itself, and we also have the package.json and package-lock.json files, which just contain extra information about our projects such as what dependencies we've installed.
+> **[3:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=183)** We have configuration for Vue itself, and we also have the package.[[JSON]] and package-lock.json files, which just contain extra information about our projects such as what dependencies we've installed.
 >
 > **[3:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-project-structure?u=76281980&t=197)** Cool.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (21), [[HTML]] (5), application (4), [[CLI]] (3), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (21), [[HTML]] (5), [[CLI]] (3), [[JavaScript]] (2), [[JSON]] (2)
 > **File Paths:** index.html (4), package.json (1), package-lock.json (1), main.js (1)
 > **Env Vars:** cli (3), html (1)
 > **Definitions:** in other words (2), is called (1)
@@ -595,12 +587,11 @@ created: 2026-05-02
 > **CLI Commands:** npm (1)
 > **Tools:** terminal (1)
 
-#### Creating application pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980)
+#### [Creating application pages](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=0)** - [Instructor] Now that we're a little bit more familiar with the basic project structure in vue, the next thing that we're going to do is start creating our Full Stack site, right, the front end for our Full Stack site, that is, by creating the pages and adding routing to our vue project.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=0)** - [Instructor] Now that we're a little bit more familiar with the basic project structure in [[Vue.js|vue]], the next thing that we're going to do is start creating our Full Stack site, right, the front end for our Full Stack site, that is, by creating the pages and adding [[Routing]] to our vue project.
 >
 > **[0:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=17)** All right, so in order to add routing to our project and by the way, routing in vue is basically just the logic that handles displaying different pages on different paths, right?
 >
@@ -610,7 +601,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=29)** So in order to add routing to a vue project, what we're going to need to do is install a package called Vue Router.
 >
-> **[0:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=35)** So let's open up a new terminal here, which you can do by clicking this plus button in Codespaces.
+> **[0:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=35)** So let's open up a new terminal here, which you can do by clicking this plus button in [[Codespaces]].
 >
 > **[0:42](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=42)** And then what you're going to do is you're going to first of all need to switch into the front end directory.
 >
@@ -620,7 +611,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=55)** So we're going to say CD front end.
 >
-> **[0:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=57)** And once you're inside that front end directory, you're going to say NPM install.
+> **[0:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=57)** And once you're inside that front end directory, you're going to say [[npm]] install.
 >
 > **[1:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=63)** And then the package we're installing is going to be called vue-router.
 >
@@ -638,7 +629,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=89)** So our application for the time being, is going to have three main pages.
 >
-> **[1:33](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=93)** That's going to be the shopping cart page, the products page, and the product detail page.
+> **[1:33](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=93)** That's going to be the shopping cart page, the [[Microsoft Products|products]] page, and the product detail page.
 >
 > **[1:38](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-application-pages?u=76281980&t=98)** So what we're going to want to do is create a new directory inside this source directory, right?
 >
@@ -722,7 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (15), [[Microsoft Products|Products]] (9), product (8), [[Routing]] (5), application (2)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (15), [[Microsoft Products|Products]] (9), [[Routing]] (5), [[Codespaces]] (1), [[npm]] (1)
 > **CLI Commands:** make (5), cd (1), npm (1)
 > **Exercise Files:** template (3)
 > **Prerequisites:** install (3)
@@ -731,14 +722,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Routing in Vue
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980)
+#### [Routing in Vue](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=0)** - [Instructor] All right, so now that we have those three pages the next thing that we're going to want to do is set up our view applications so that each of those pages is displayed on a specific route, right?
 >
-> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=10)** So when we go to local host 80 80 slash products for example, we'll want to show the products page.
+> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=10)** So when we go to local host 80 80 slash [[Microsoft Products|products]] for example, we'll want to show the products page.
 >
 > **[0:16](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=16)** And if we go to slash cart, we'll want to show the cart page.
 >
@@ -774,7 +764,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=108)** And this is where we tell our app which page should be displayed on which URL.
 >
-> **[1:54](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=114)** So this is just going to be an array of JavaScript objects.
+> **[1:54](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=114)** So this is just going to be an array of [[JavaScript]] objects.
 >
 > **[1:58](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=118)** And each of those objects is going to have two properties.
 >
@@ -842,7 +832,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=288)** So now if we save this file and go back to our tab what we're going to see is if we go to this URL slash cart and you may have to hit refresh here.
 >
-> **[4:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=297)** Sure enough, you'll see hello from Vue.
+> **[4:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=297)** Sure enough, you'll see hello from [[Vue.js|Vue]].
 >
 > **[5:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/routing-in-vue?u=76281980&t=300)** And under that you'll see the shopping cart page.
 >
@@ -862,7 +852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), product (7), application (4), hit (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), [[JavaScript]] (1), [[Vue.js|Vue]] (1)
 > **Env Vars:** url (7), env (1), ide (1)
 > **UI Navigation:** go to (5)
 > **Cross-References:** go back to (2)
@@ -871,8 +861,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Adding data, styles, and images
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980)
+#### [Adding data, styles, and images](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -880,9 +869,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=3)** But before we just go into implementing, each individual page there are a few small things, we're going to need to add to our app, that will make our development go more smoothly and ultimately it's going to make it more realistic and fun as well.
 >
-> **[0:16](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=16)** So what we're going to want to do here is add some images, to our application, and this will be the products, that are going to be listed on our site.
+> **[0:16](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=16)** So what we're going to want to do here is add some images, to our application, and this will be the [[Microsoft Products|products]], that are going to be listed on our site.
 >
-> **[0:24](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=24)** Now, in order to do this, what you're going to want to do is download the images, from the GitHub folder for this project, right?
+> **[0:24](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=24)** Now, in order to do this, what you're going to want to do is download the images, from the [[GitHub]] folder for this project, right?
 >
 > **[0:32](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=32)** You should see those inside the source assets folder, in that project.
 >
@@ -906,7 +895,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=90)** Now, you're going to want to copy and paste this, from the GitHub repo as well.
 >
-> **[1:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=95)** It's basically just going to be an array of JavaScript data, containing the prices, names and images, for each of our products.
+> **[1:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=95)** It's basically just going to be an array of [[JavaScript]] data, containing the prices, names and images, for each of our products.
 >
 > **[1:43](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=103)** So what you're going to want to do, is create a new file inside the source directory, and we're going to call this file temp data.js.
 >
@@ -920,7 +909,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=140)** We have a bunch of imports up at the top, and then we have our product data, which is just a simple JavaScript array, full of objects representing each of our products.
 >
-> **[2:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=151)** All right and the last thing that we're going to do, is copy and paste some styles, from the GitHub repo so that as we go and build out, all of our components for our application, we'll be able to actually see them styled, instead of just seeing the default HTML styling.
+> **[2:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=151)** All right and the last thing that we're going to do, is copy and paste some styles, from the GitHub repo so that as we go and build out, all of our components for our application, we'll be able to actually see them styled, instead of just seeing the default [[HTML]] styling.
 >
 > **[2:48](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-data-styles-and-images?u=76281980&t=168)** So what we're going to do here, is create another file inside the source directory and we're going to call this file main.css, right?
 >
@@ -944,7 +933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (7), [[GitHub]] (6), css (5), [[Microsoft Products|Products]] (4)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Microsoft Products|Products]] (4), [[JavaScript]] (2), [[HTML]] (1)
 > **File Paths:** main.css (5), data.js (1), main.js (1)
 > **Tools:** github (6), visual studio (1)
 > **Exercise Files:** github repo (5), download the (1)
@@ -953,18 +942,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a products page
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980)
+#### [Creating a products page](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=0)** - [Instructor] Okay, the first page we're going to implement here is going to be the products page.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=0)** - [Instructor] Okay, the first page we're going to implement here is going to be the [[Microsoft Products|products]] page.
 >
 > **[0:05](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=5)** And the main purpose of this page, as I specified before, is going to be to display all of the products that are available on our site.
 >
 > **[0:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=13)** So let's open up the products page here.
 >
-> **[0:16](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=16)** And what we're going to need to do is we're going to need to add HTML elements to this page in order to obviously display all of our products.
+> **[0:16](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=16)** And what we're going to need to do is we're going to need to add [[HTML]] elements to this page in order to obviously display all of our products.
 >
 > **[0:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=25)** So the first thing that we're going to want to do here is remove this H1 products page heading, or rather just remove the text inside of it.
 >
@@ -984,7 +972,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=59)** And inside here is where we're going to have the list of all of our products.
 >
-> **[1:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=64)** Now, in order to display a list in Vue based on a JavaScript array, what we're going to need to do is use something called the v-for directive.
+> **[1:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=64)** Now, in order to display a list in [[Vue.js|Vue]] based on a [[JavaScript]] array, what we're going to need to do is use something called the v-for directive.
 >
 > **[1:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=75)** And what that looks like, I guess I'll just show you here, we just need to add that to an HTML element.
 >
@@ -1068,7 +1056,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=324)** And that is just a unique identifier that Vue uses behind the scenes to keep track of the divs.
 >
-> **[5:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=331)** Cool, so that just about completes our products page, but one more thing that we're going to want to do is open up our App.vue file and remove some of the default styles that the Vue CLI gave us from before.
+> **[5:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=331)** Cool, so that just about completes our products page, but one more thing that we're going to want to do is open up our App.vue file and remove some of the default styles that the Vue [[CLI]] gave us from before.
 >
 > **[5:44](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-products-page?u=76281980&t=344)** So we can actually just remove this entire style tag.
 >
@@ -1102,7 +1090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (25), product (21), data (7), [[HTML]] (5), [[Vue.js|Vue]] (5)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (25), [[HTML]] (5), [[Vue.js|Vue]] (5), [[JavaScript]] (3), [[CLI]] (1)
 > **Env Vars:** html (5), cli (1), url (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
@@ -1110,12 +1098,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a product detail page
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980)
+#### [Creating a product detail page](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=0)** - [Instructor] Now that we have the products page for displaying all of the products on our site, the next page we're going to implement here will be the product detail page.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=0)** - [Instructor] Now that we have the [[Microsoft Products|products]] page for displaying all of the products on our site, the next page we're going to implement here will be the product detail page.
 >
 > **[0:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=9)** So this page is going to be for displaying more in-depth details about a specific product, and it's going to come up whenever the user clicks on this view details button for a specific product.
 >
@@ -1147,7 +1134,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=109)** So unlike in the products page where we just made all of the products available to the template up above because we wanted to loop through, display all of them, in the product detail page we only want to display a single product.
 >
-> **[2:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=124)** So we're going to need to use a little bit of JavaScript logic to find the correct product from our products array up here and display that in our template.
+> **[2:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=124)** So we're going to need to use a little bit of [[JavaScript]] logic to find the correct product from our products array up here and display that in our template.
 >
 > **[2:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=135)** So here's what this is going to look like.
 >
@@ -1165,7 +1152,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=202)** And that's how we can find the matching product.
 >
-> **[3:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=205)** So now that we have that product, what we're going to want to do is go up to our template and add some HTML here.
+> **[3:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=205)** So now that we have that product, what we're going to want to do is go up to our template and add some [[HTML]] here.
 >
 > **[3:32](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=212)** So first of all, instead of having this product detail page H1 heading up at the top, we're just going to want to remove that and display the name of the product.
 >
@@ -1225,11 +1212,11 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=365)** So we could go to product 345, for example, and we'll see another olive oil come up.
 >
-> **[6:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=372)** So it's a really nice way that we just saw here to allow ourselves to use a single component in Vue to represent multiple pages.
+> **[6:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-product-detail-page?u=76281980&t=372)** So it's a really nice way that we just saw here to allow ourselves to use a single component in [[Vue.js|Vue]] to represent multiple pages.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (32), [[Microsoft Products|Products]] (11), data (6), [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), [[JavaScript]] (2), [[HTML]] (1), [[Vue.js|Vue]] (1)
 > **Env Vars:** url (7), html (1)
 > **CLI Commands:** find (7)
 > **Exercise Files:** template (3)
@@ -1238,12 +1225,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
 
-#### Creating a shopping cart page
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980)
+#### [Creating a shopping cart page](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=0)** - [Instructor] All right, so far we've done our products page and our products detail page.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=0)** - [Instructor] All right, so far we've done our [[Microsoft Products|products]] page and our products detail page.
 >
 > **[0:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=4)** The last page we need to do here is the shopping cart page which will display a list of all of the items the user has added to their cart.
 >
@@ -1277,7 +1263,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=97)** Okay, so now inside our template we're going to want to use the same v-for directive that we used in our products page to display all of the products on our site to display these cart items.
 >
-> **[1:50](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=110)** Now we're going to be obviously using a slightly different HTML structure for this, but the same view concepts are going to apply.
+> **[1:50](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=110)** Now we're going to be obviously using a slightly different [[HTML]] structure for this, but the same view concepts are going to apply.
 >
 > **[1:58](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=118)** So what we're going to do is we're going to change the heading to just say shopping cart.
 >
@@ -1381,7 +1367,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=401)** All right, so here's what that's going to look like.
 >
-> **[6:43](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=403)** Up here above our product container div, we're actually going to add another div that surrounds everything we want be able to show and hide and put the rest of our page content inside of there including the proceed to checkout button, right?
+> **[6:43](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=403)** Up here above our product container div, we're actually going to add another div that surrounds everything we want be able to show and hide and put the [[Representational State Transfer (REST)|rest]] of our page content inside of there including the proceed to checkout button, right?
 >
 > **[6:56](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-shopping-cart-page?u=76281980&t=416)** Because obviously we don't want to show that if the user doesn't have any items to buy.
 >
@@ -1405,7 +1391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (15), [[Microsoft Products|Products]] (11), data (9), [[HTML]] (3), hit (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** html (3), url (1)
 > **Cross-References:** go back to (2)
@@ -1414,8 +1400,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** just like (1)
 
-#### Creating a navigation bar
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980)
+#### [Creating a navigation bar](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1425,7 +1410,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=14)** So to go to the Cart, we got to type in cart.
 >
-> **[0:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=17)** To go to the Products, we have to go to /products.
+> **[0:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=17)** To go to the [[Microsoft Products|Products]], we have to go to /products.
 >
 > **[0:20](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=20)** And to go to an individual product, we actually have to type in the ID of the product we want to view.
 >
@@ -1447,9 +1432,9 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=77)** So what we're going to do is open up our IDE here and, inside our components directory, right, currently our components directory has just been sitting empty while we've implemented our pages.
 >
-> **[1:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=89)** Inside here, we're going to create a new file called NavBar.vue.
+> **[1:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=89)** Inside here, we're going to create a new file called NavBar.[[Vue.js|vue]].
 >
-> **[1:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=95)** Now since our nav bar is going to be a component, and it's going to have the same main parts as the rest of our components, it's just going to have a template, and it's also going to have a script tag.
+> **[1:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=95)** Now since our nav bar is going to be a component, and it's going to have the same main parts as the [[Representational State Transfer (REST)|rest]] of our components, it's just going to have a template, and it's also going to have a script tag.
 >
 > **[1:47](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=107)** And inside that script tag, we're just going to say export default.
 >
@@ -1491,7 +1476,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=232)** So inside a div here, we're going to say class="logo-wrap".
 >
-> **[3:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=239)** And then inside that div is where we're going to put the image with the src property, remember to put that colon in front of it, because this is JavaScript data that we're referring to.
+> **[3:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=239)** And then inside that div is where we're going to put the image with the src property, remember to put that colon in front of it, because this is [[JavaScript]] data that we're referring to.
 >
 > **[4:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=249)** We're going to say :src="logo".
 >
@@ -1515,7 +1500,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=306)** So now all we need to do is replace this Two Trees Olive Oil h1 heading with our NavBar element, which looks like that.
 >
-> **[5:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=315)** So all you need to do to display a component inside another component is import it, add it to this components object, and then use that same string that you used for the property name inside an HTML tag like we did up here, cool.
+> **[5:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=315)** So all you need to do to display a component inside another component is import it, add it to this components object, and then use that same string that you used for the property name inside an [[HTML]] tag like we did up here, cool.
 >
 > **[5:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-navigation-bar?u=76281980&t=331)** So now that we added that to our app, let's take a look, and we should be able to refresh our app.
 >
@@ -1571,7 +1556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), data (6), [[Vue.js|Vue]] (4), product (3), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), [[Vue.js|Vue]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1), [[HTML]] (1)
 > **UI Navigation:** go to (7), click on (5)
 > **Exercise Files:** template (5)
 > **CLI Commands:** make (3)
@@ -1580,12 +1565,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Linking to the product detail page
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/linking-to-the-product-detail-page?u=76281980)
+#### [Linking to the product detail page](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/linking-to-the-product-detail-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/linking-to-the-product-detail-page?u=76281980&t=0)** - [Instructor] All right, so we've created our nav bar and that has allowed us to navigate between our shopping cart page and products page but we still have yet to be able to link our products page to the product detail page.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/linking-to-the-product-detail-page?u=76281980&t=0)** - [Instructor] All right, so we've created our nav bar and that has allowed us to navigate between our shopping cart page and [[Microsoft Products|products]] page but we still have yet to be able to link our products page to the product detail page.
 >
 > **[0:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/linking-to-the-product-detail-page?u=76281980&t=12)** So here's what that's going to look like.
 >
@@ -1611,7 +1595,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/linking-to-the-product-detail-page?u=76281980&t=92)** Now, for whatever reason, this kind of trips people up as to how to do this.
 >
-> **[1:37](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/linking-to-the-product-detail-page?u=76281980&t=97)** When you want to insert a product ID into a to attribute like this, all you need to do is add a colon to this and then use basic JavaScript logic to get what you want.
+> **[1:37](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/linking-to-the-product-detail-page?u=76281980&t=97)** When you want to insert a product ID into a to attribute like this, all you need to do is add a colon to this and then use basic [[JavaScript]] logic to get what you want.
 >
 > **[1:48](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/linking-to-the-product-detail-page?u=76281980&t=108)** So what we're going to do is inside these double quotes, we're going to add the string product, which we're going to express in single quotes, as you can see to the product ID.
 >
@@ -1627,15 +1611,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (9), [[JavaScript]] (1), express (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[JavaScript]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** url (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a 404 page in Vue
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980)
+#### [Creating a 404 page in Vue](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,15 +1630,15 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980&t=22)** And this is also true if they try and look up a product with an ID that we don't actually have a product for, right?
 >
-> **[0:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980&t=29)** So if we do /products/ and then some nonsense id, well, we get the same result.
+> **[0:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980&t=29)** So if we do /[[Microsoft Products|products]]/ and then some nonsense id, well, we get the same result.
 >
 > **[0:36](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980&t=36)** So in both of these cases, what we're going to want to do is come up with a default page that will get displayed telling the user that yes, the site is working, they just went to an incorrect route.
 >
 > **[0:47](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980&t=47)** So what we're going to do here is open up our IDE.
 >
-> **[0:51](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980&t=51)** And inside this pages directory, we're going to create a new file called NotFoundPage.vue.
+> **[0:51](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980&t=51)** And inside this pages directory, we're going to create a new file called NotFoundPage.[[Vue.js|vue]].
 >
-> **[0:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980&t=59)** And this is going to have the same parts as the rest of our components.
+> **[0:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980&t=59)** And this is going to have the same parts as the [[Representational State Transfer (REST)|rest]] of our components.
 >
 > **[1:02](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-404-page-in-vue?u=76281980&t=62)** It'll have a template section, and actually that section's going to be pretty simple.
 >
@@ -1773,7 +1756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), [[Vue.js|Vue]] (5), [[Microsoft Products|Products]] (4), application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (5), [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (6)
 > **Exercise Files:** template (3)
@@ -1782,14 +1765,13 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **File Paths:** main.js (1)
 
-#### Using modular components
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980)
+#### [Using modular components](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=0)** - [Instructor] Okay, now that we've got our entire app set up, there are still a few more things that we should do in order to have our front end in the best possible shape.
 >
-> **[0:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=9)** You may have noticed that when we were building our products page and shopping cart page, that the templates for both of those components were a little bit complex.
+> **[0:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=9)** You may have noticed that when we were building our [[Microsoft Products|products]] page and shopping cart page, that the templates for both of those components were a little bit complex.
 >
 > **[0:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=17)** And let me just open those up so I can show you what I'm talking about in a little bit more detail.
 >
@@ -1809,7 +1791,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=77)** The shopping cart page will be a challenge for you later on.
 >
-> **[1:21](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=81)** So the first thing that we're going to do is we're going to create a new file to hold this new component that we're going to be using and we'll call this component something like ProductsList.vue.
+> **[1:21](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=81)** So the first thing that we're going to do is we're going to create a new file to hold this new component that we're going to be using and we'll call this component something like ProductsList.[[Vue.js|vue]].
 >
 > **[1:34](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=94)** Okay.
 >
@@ -1855,7 +1837,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=197)** And basically props are sort of openings in our view components that we can pass data into from parent components.
 >
-> **[3:27](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=207)** So, you know, just like HTML elements are able to have attributes that we can change, right, the href attribute on an anchor tag, for example, right.
+> **[3:27](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=207)** So, you know, just like [[HTML]] elements are able to have attributes that we can change, right, the href attribute on an anchor tag, for example, right.
 >
 > **[3:36](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-modular-components?u=76281980&t=216)** Components have props that we can pass data through.
 >
@@ -1909,7 +1891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (26), [[Vue.js|Vue]] (5), product (4), data (3), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (26), [[Vue.js|Vue]] (5), [[HTML]] (1)
 > **Analogies:** for example (3), just like (1)
 > **Cross-References:** go back to (3)
 > **Exercise Files:** template (3)
@@ -1918,14 +1900,13 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Prerequisites:** set up (1)
 
-#### Challenge: Modular components
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/challenge-modular-components?u=76281980)
+#### [Challenge: Modular components](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/challenge-modular-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/challenge-modular-components?u=76281980&t=0)** (keys clacking)
 >
-> **[0:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/challenge-modular-components?u=76281980&t=3)** - [Instructor] Okay, we just saw how to break out the template code for our products page into a separate reusable component.
+> **[0:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/challenge-modular-components?u=76281980&t=3)** - [Instructor] Okay, we just saw how to break out the template code for our [[Microsoft Products|products]] page into a separate reusable component.
 >
 > **[0:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/challenge-modular-components?u=76281980&t=9)** So the next step is going to be for you to do the same thing for the shopping cart page component, and that's going to be your challenge here.
 >
@@ -1939,14 +1920,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Cross-References:** previous video (1), next video (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Modular components
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-modular-components?u=76281980)
+#### [Solution: Modular components](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-modular-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1964,7 +1944,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-modular-components?u=76281980&t=35)** And then for the script, it was just a simple straightforward component with a single prop, which we'll see in just a minute.
 >
-> **[0:42](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-modular-components?u=76281980&t=42)** So I added name, shopping cart list, and props for that one I made the prop name products just like in our products list.
+> **[0:42](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-modular-components?u=76281980&t=42)** So I added name, shopping cart list, and props for that one I made the prop name [[Microsoft Products|products]] just like in our products list.
 >
 > **[0:56](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-modular-components?u=76281980&t=56)** Cool.
 >
@@ -1980,7 +1960,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-modular-components?u=76281980&t=110)** And once I did that, that's pretty much all I had to do.
 >
-> **[1:53](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-modular-components?u=76281980&t=113)** So in order to use this shopping cart list what I then did was I headed over to the shopping cart page and since I already removed all of that HTML content from the template, all I had to do was import the new component that I created, so import shopping cart list from components, blah, blah, blah.
+> **[1:53](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-modular-components?u=76281980&t=113)** So in order to use this shopping cart list what I then did was I headed over to the shopping cart page and since I already removed all of that [[HTML]] content from the template, all I had to do was import the new component that I created, so import shopping cart list from components, blah, blah, blah.
 >
 > **[2:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-modular-components?u=76281980&t=135)** It looks like my IDE got that for me this time.
 >
@@ -2024,7 +2004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), product (3), next (1), [[HTML]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[HTML]] (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** ide (2), html (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -2037,14 +2017,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Node.js?
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980)
+#### [Why Node.js?](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980&t=0)** - [Instructor] Now that we've got our client side working nicely with Vue, it's time to start building the backend of our blog, and to do this, we're going to be using Node.js.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980&t=0)** - [Instructor] Now that we've got our client side working nicely with [[Vue.js|Vue]], it's time to start building the backend of our blog, and to do this, we're going to be using [[Node.js]].
 >
-> **[0:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980&t=9)** Now, you've probably already heard about Node.js by now, and it's very important, because it allows us to write our backend in JavaScript instead of in PHP or Python or Java.
+> **[0:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980&t=9)** Now, you've probably already heard about Node.js by now, and it's very important, because it allows us to write our backend in [[JavaScript]] instead of in [[PHP]] or [[Python (Programming Language)|Python]] or [[Java]].
 >
 > **[0:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980&t=22)** Now, this is great news for JavaScript developers, because it means that with a single language, we can develop both the front end and backend of our site.
 >
@@ -2056,25 +2035,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), express (3), [[JavaScript]] (2), [[Vue.js|Vue]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[JavaScript]] (2), [[Vue.js|Vue]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (4), php (1), python (1)
 > **File Paths:** node.js (4)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **Env Vars:** php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up an express server
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980)
+#### [Setting up an express server](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=0)** - [Instructor] To get started creating a backend for our app with node.JS in Express, what we're going to do first is create a new directory outside of our frontend directory, right?
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=0)** - [Instructor] To get started creating a backend for our app with [[Node.js]] in Express, what we're going to do first is create a new directory outside of our frontend directory, right?
 >
-> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=10)** So, earlier we created this Vue project called frontend in our directory.
+> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=10)** So, earlier we created this [[Vue.js|Vue]] project called frontend in our directory.
 >
 > **[0:14](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=14)** And next to it we're going to create a new folder now called backend.
 >
-> **[0:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=19)** All right, now, unlike with our frontend code where we had to use the Vue CLI to generate a new project for ourselves.
+> **[0:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=19)** All right, now, unlike with our frontend code where we had to use the Vue [[CLI]] to generate a new project for ourselves.
 >
 > **[0:26](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=26)** With the backend code, setting up an Express app is actually pretty easy where we can just do it ourselves.
 >
@@ -2090,9 +2068,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=61)** Cool.
 >
-> **[1:02](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=62)** So, now that we're in the backend directory, the next thing that we're going to do is we're going to create a new NPM package by running the command npm init -y and you're going to want to hit enter.
+> **[1:02](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=62)** So, now that we're in the backend directory, the next thing that we're going to do is we're going to create a new [[npm]] package by running the command npm init -y and you're going to want to hit enter.
 >
-> **[1:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=73)** Now, what that's going to do for us is it's going to create a new package.json file inside our folder.
+> **[1:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=73)** Now, what that's going to do for us is it's going to create a new package.[[JSON]] file inside our folder.
 >
 > **[1:20](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=80)** And you can take a look at the contents of that if you want.
 >
@@ -2114,7 +2092,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=138)** However, before we actually jump in and start writing code in this file, there's something we need to do first, right?
 >
-> **[2:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=145)** Because when we're creating a node JS server, we want to have access to the most up-to-date syntax of JavaScript available.
+> **[2:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=145)** Because when we're creating a node JS server, we want to have access to the most up-to-date syntax of [[JavaScript]] available.
 >
 > **[2:32](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-an-express-server?u=76281980&t=152)** And the easiest way for us to do that is to use a library called Babel.
 >
@@ -2266,7 +2244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (12), next (6), [[npm]] (5), hit (4), node (4)
+> **Frameworks & Libraries:** [[npm]] (5), [[Vue.js|Vue]] (3), [[JSON]] (3), [[CLI]] (2), [[JavaScript]] (2)
 > **CLI Commands:** node (5), npm (5), make (4), cd (1), npx (1)
 > **Prerequisites:** install (6), set up (2), make sure you have (1)
 > **File Paths:** package.json (2), server.js (2), node.js (1), package-lock.json (1), source/server.js (1)
@@ -2275,8 +2253,7 @@ created: 2026-05-02
 > **Env Vars:** cli (1), npm (1)
 > **Tools:** terminal (1), vs code (1)
 
-#### Testing servers with Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/testing-servers-with-postman?u=76281980)
+#### [Testing servers with Postman](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/testing-servers-with-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2294,7 +2271,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/testing-servers-with-postman?u=76281980&t=47)** So what you're going to want to do if you don't already have Postman is go to [postman.com/downloads](https://postman.com/downloads).
 >
-> **[0:53](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/testing-servers-with-postman?u=76281980&t=53)** And the URL may change, so you can always just Google "download Postman," if you're not sure where to find it.
+> **[0:53](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/testing-servers-with-postman?u=76281980&t=53)** And the URL may change, so you can always just [[Google]] "download Postman," if you're not sure where to find it.
 >
 > **[1:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/testing-servers-with-postman?u=76281980&t=60)** And you're going to want to download this for whatever your current operating system is.
 >
@@ -2324,7 +2301,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/testing-servers-with-postman?u=76281980&t=132)** Cool, so anyway, now that we have Postman downloaded and running, let's take a look at how to use Postman to send requests to our server.
 >
-> **[2:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/testing-servers-with-postman?u=76281980&t=139)** So sending requests using Postman is pretty straightforward, but if you're using Codespaces, there's going to be an extra step that you're going to have to do in order to make sure it works correctly.
+> **[2:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/testing-servers-with-postman?u=76281980&t=139)** So sending requests using Postman is pretty straightforward, but if you're using [[Codespaces]], there's going to be an extra step that you're going to have to do in order to make sure it works correctly.
 >
 > **[2:30](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/testing-servers-with-postman?u=76281980&t=150)** Now, if you're developing locally, first of all, and you have your server running on, let's say, localhost port 8,000, then sending a request to your server is pretty simple.
 >
@@ -2354,7 +2331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (5), application (2), express (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Codespaces]] (5), [[Google]] (1)
 > **Tools:** postman (13)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** click on (3), go to (1), dropdown (1)
@@ -2363,8 +2340,7 @@ created: 2026-05-02
 > **Ports:** port 8 (1), :8000 (1)
 > **Cross-References:** go back to (1)
 
-#### Creating routes in Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980)
+#### [Creating routes in Express](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2376,7 +2352,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=27)** Now, these three endpoints are going to look like this.
 >
-> **[0:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=29)** The first endpoint is going to be an endpoint for loading all of the products.
+> **[0:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=29)** The first endpoint is going to be an endpoint for loading all of the [[Microsoft Products|products]].
 >
 > **[0:34](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=34)** So for that we're going to say app.get lkv and the endpoint for that is going to be /products and we'll see how to implement this in just a second.
 >
@@ -2430,11 +2406,11 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=202)** And we were able to just send back a simple string that was received by the front end with our products endpoint, card endpoint and so on.
 >
-> **[3:32](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=212)** We can just send back basic JavaScript data by saying response.send.
+> **[3:32](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=212)** We can just send back basic [[JavaScript]] data by saying response.send.
 >
 > **[3:37](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=217)** And then, if we want to send back the products here, we say products.
 >
-> **[3:40](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=220)** Now, one minor difference here is that generally it's considered a good idea, if you're sending back json data specifically, to say response.json instead of response.send.
+> **[3:40](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=220)** Now, one minor difference here is that generally it's considered a good idea, if you're sending back [[JSON]] data specifically, to say response.json instead of response.send.
 >
 > **[3:53](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-routes-in-express?u=76281980&t=233)** So that's what we're going to use in this case.
 >
@@ -2498,7 +2474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (21), product (18), data (8), [[JSON]] (5), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (21), [[JSON]] (5), [[JavaScript]] (1)
 > **CLI Commands:** find (7), make (4), npx (1), node (1)
 > **File Paths:** response.json (4), server.js (1), source/server.js (1)
 > **Code Identifiers:** productid (4), myurlparameter (1)
@@ -2507,8 +2483,7 @@ created: 2026-05-02
 > **Tools:** postman (2)
 > **Prerequisites:** setup (2)
 
-#### Using nodemon to restart a server
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980)
+#### [Using nodemon to restart a server](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2520,7 +2495,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=30)** And that's obviously a little bit annoying to have to do, so what we're going to take a look at is how to use a package called nodemon in order to help us automatically restart our server in response to changes.
 >
-> **[0:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=41)** So what we're going to do here is stop our server and inside our backend directory, we're going to say npm install -- save-dev.
+> **[0:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=41)** So what we're going to do here is stop our server and inside our backend directory, we're going to say [[npm]] install -- save-dev.
 >
 > **[0:54](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=54)** And we're going to install, as I said, a package called nodemon, which is spelled like that, and there are different pronunciations for this.
 >
@@ -2560,9 +2535,9 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=151)** We'll just comment out all of the code that that contains.
 >
-> **[2:34](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=154)** And for now, just for testing purposes, we'll say response.json, and we'll say hello again.
+> **[2:34](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=154)** And for now, just for testing purposes, we'll say response.[[JSON]], and we'll say hello again.
 >
-> **[2:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=161)** Okay, so let's save that and what you're going to see is that as we save that file, which I've done automatically several times just in Codespaces here, the server automatically restarts and again, we see server is listening on Port 8,000.
+> **[2:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=161)** Okay, so let's save that and what you're going to see is that as we save that file, which I've done automatically several times just in [[Codespaces]] here, the server automatically restarts and again, we see server is listening on Port 8,000.
 >
 > **[2:56](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=176)** And one thing that we are going to have to fix here is you'll see that even though nodemon has automatically restarted for us, it's set the visibility back to private.
 >
@@ -2590,7 +2565,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=247)** And now if we go back and send that same request, we'll see that we get back the same product as before.
 >
-> **[4:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=252)** Now, one last thing that I wanted to mention here is that since this command is pretty long to have to run each and every time we want to start up our server, even if we only have to do it, let's say, once a day while we're developing, there's a way that Node.js provides us with for creating shortcuts.
+> **[4:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=252)** Now, one last thing that I wanted to mention here is that since this command is pretty long to have to run each and every time we want to start up our server, even if we only have to do it, let's say, once a day while we're developing, there's a way that [[Node.js]] provides us with for creating shortcuts.
 >
 > **[4:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/using-nodemon-to-restart-a-server?u=76281980&t=269)** And all we have to do in order to make that happen is open up our backend folder and then package.json.
 >
@@ -2614,7 +2589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[JSON]] (3), [[npm]] (2), product (2), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[npm]] (2), [[Node.js]] (2), [[Codespaces]] (1)
 > **CLI Commands:** make (5), npx (3), node (3), npm (2), find (1)
 > **File Paths:** node.js (2), package.json (2), source/server.js (1), response.json (1)
 > **Ports:** port 8 (4)
@@ -2623,8 +2598,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 
-#### Creating server data
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-server-data?u=76281980)
+#### [Creating server data](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-server-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2654,13 +2628,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-server-data?u=76281980&t=68)** And as we've already seen, this response object contains a lot of tools and methods that we can use to send back a response to the client's side.
 >
-> **[1:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-server-data?u=76281980&t=77)** Such as, when we say response.json product, that tells our server to send back a response with that data inside of it.
+> **[1:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-server-data?u=76281980&t=77)** Such as, when we say response.[[JSON]] product, that tells our server to send back a response with that data inside of it.
 >
 > **[1:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-server-data?u=76281980&t=85)** So, what we're going to do here is we're going to need to add an item to the cart but what we're going to have the user include.
 >
 > **[1:33](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-server-data?u=76281980&t=93)** What we're going to have the client side include in this request is the id of the product that they want to add to their cart.
 >
-> **[1:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-server-data?u=76281980&t=101)** So if we go back and take a look at our products on our backend.
+> **[1:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-server-data?u=76281980&t=101)** So if we go back and take a look at our [[Microsoft Products|products]] on our backend.
 >
 > **[1:44](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-server-data?u=76281980&t=104)** If we take a look at this temp data.js file, what we're going to see is that remember that each of these items has an id.
 >
@@ -2774,7 +2748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (9), [[JSON]] (5), data (5), express (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[JSON]] (5)
 > **File Paths:** response.json (2), data.js (1), express.json (1)
 > **Env Vars:** url (2), json (2)
 > **UI Navigation:** dropdown (2), go to (1), select the (1)
@@ -2783,8 +2757,7 @@ created: 2026-05-02
 > **Tools:** postman (2)
 > **Cross-References:** go back to (1)
 
-#### Deleting server data
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980)
+#### [Deleting server data](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2800,7 +2773,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=44)** It's going to be /cart/productid.
 >
-> **[0:47](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=47)** And now for the callback, which again is going to have request and response object arguments, what we're going to do inside of here is basically just filter our products array so that it only contains items that do not match this product ID URL parameter.
+> **[0:47](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=47)** And now for the callback, which again is going to have request and response object arguments, what we're going to do inside of here is basically just filter our [[Microsoft Products|products]] array so that it only contains items that do not match this product ID URL parameter.
 >
 > **[1:05](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=65)** So let's get the value of that parameter here.
 >
@@ -2808,7 +2781,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=75)** And this is just like what we did up here for loading an individual product, by the way.
 >
-> **[1:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=79)** And then underneath that what we're going to do is say products equals products and then we're going to use JavaScript's built-in filter function, which allows us to get all of the items in an array that fit a certain criteria.
+> **[1:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=79)** And then underneath that what we're going to do is say products equals products and then we're going to use [[JavaScript]]'s built-in filter function, which allows us to get all of the items in an array that fit a certain criteria.
 >
 > **[1:32](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=92)** So sort of like products.find, but instead of allowing us to get a single product, it allows us to get all of the products that match that criteria.
 >
@@ -2824,7 +2797,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=138)** So the next thing that we want to do is send back the updated cart items just like we did in the create endpoint up above.
 >
-> **[2:26](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=146)** So we'll say response.json(cartItems), like so.
+> **[2:26](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=146)** So we'll say response.[[JSON]](cartItems), like so.
 >
 > **[2:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-server-data?u=76281980&t=151)** And now, if we go back and test this out, we should be able to open up Postman and we don't need the request body here, so we can just change that to none.
 >
@@ -2836,7 +2809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), product (9), next (2), [[JavaScript]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[JavaScript]] (1), [[JSON]] (1)
 > **Code Identifiers:** cartitems (3)
 > **Env Vars:** url (2)
 > **Analogies:** just like (2)
@@ -2845,8 +2818,7 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **UI Navigation:** dropdown (1)
 
-#### Rewriting the shopping cart
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/rewriting-the-shopping-cart?u=76281980)
+#### [Rewriting the shopping cart](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/rewriting-the-shopping-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2856,7 +2828,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/rewriting-the-shopping-cart?u=76281980&t=14)** So let me explain what I mean by that, first of all.
 >
-> **[0:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/rewriting-the-shopping-cart?u=76281980&t=17)** If we take a look at the current structure of our cart items array and our products array, notice that there's a lot of repeated data, right?
+> **[0:17](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/rewriting-the-shopping-cart?u=76281980&t=17)** If we take a look at the current structure of our cart items array and our [[Microsoft Products|products]] array, notice that there's a lot of repeated data, right?
 >
 > **[0:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/rewriting-the-shopping-cart?u=76281980&t=25)** We have the same data for all of the products in here, the ID, the name, the price, and so on.
 >
@@ -2888,7 +2860,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/rewriting-the-shopping-cart?u=76281980&t=129)** So here's what that's going to look like.
 >
-> **[2:11](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/rewriting-the-shopping-cart?u=76281980&t=131)** We're going to use JavaScript's built-in map function to map each ID to its corresponding product.
+> **[2:11](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/rewriting-the-shopping-cart?u=76281980&t=131)** We're going to use [[JavaScript]]'s built-in map function to map each ID to its corresponding product.
 >
 > **[2:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/rewriting-the-shopping-cart?u=76281980&t=139)** And what that's going to look like is we're going to say const, we'll just call this something like populated cart.
 >
@@ -2990,7 +2962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (9), data (5), database (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[JavaScript]] (1)
 > **Code Identifiers:** cartitems (5), populatedcart (4), populatecartids (3), populatedcartids (1), productid (1)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** just like (2)
@@ -3004,20 +2976,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why MongoDB?
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980)
+#### [Why MongoDB?](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980&t=0)** - [Instructor] At this point, we have a working front end and a working back end for our full stack application.
 >
-> **[0:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980&t=6)** Now, since both the front and the back end are written in JavaScript, it makes sense to persist our data in a database that plays very nicely with JavaScript.
+> **[0:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980&t=6)** Now, since both the front and the back end are written in [[JavaScript]], it makes sense to persist our data in a database that plays very nicely with JavaScript.
 >
-> **[0:14](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980&t=14)** And for that, we need to look no further than MongoDB.
+> **[0:14](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980&t=14)** And for that, we need to look no further than [[MongoDB]].
 >
 > **[0:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980&t=18)** Now, MongoDB is what we call a non-relational database, which means that we can basically just push data into it without worrying too much about how that data is formatted.
 >
-> **[0:28](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980&t=28)** And this is in contrast to MySQL and other SQL-based databases that have pretty strict requirements for the format of the data they store.
+> **[0:28](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980&t=28)** And this is in contrast to [[MySQL]] and other [[SQL]]-based [[Databases]] that have pretty strict requirements for the format of the data they store.
 >
 > **[0:39](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980&t=39)** So in the case of MongoDB, MongoDB plays particularly well with JavaScript because we're able to just store JavaScript objects in MongoDB and retrieve them later.
 >
@@ -3029,22 +3000,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (6), [[JavaScript]] (5), data (4), database (2), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[JavaScript]] (5), [[MySQL]] (2), [[SQL]] (1), [[Databases]] (1)
 > **CLI Commands:** mysql (2)
 > **Env Vars:** sql (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980)
+#### [Setting up MongoDB](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=0)** - [Instructor] Now that we know what MongoDB is and what we're going to use it for, let's get an instance up and running.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=0)** - [Instructor] Now that we know what [[MongoDB]] is and what we're going to use it for, let's get an instance up and running.
 >
 > **[0:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=6)** And in order to do this, first of all it is possible to have a local MongoDB instance running on your computer.
 >
-> **[0:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=13)** But since we're currently developing in Codespaces we're going to jump straight to using MongoDB on the cloud.
+> **[0:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=13)** But since we're currently developing in [[Codespaces]] we're going to jump straight to using MongoDB on the cloud.
 >
 > **[0:21](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=21)** Now, if you want to download the MongoDB shell and use it locally on your own computer, you can download and install it at the URL shown on the screen.
 >
@@ -3060,7 +3030,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=59)** And what we're going to do is give our project a name.
 >
-> **[1:02](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=62)** So we'll call this something like Full Stack Vue.
+> **[1:02](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=62)** So we'll call this something like Full Stack [[Vue.js|Vue]].
 >
 > **[1:07](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=67)** And then we're going to click next.
 >
@@ -3074,7 +3044,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=95)** So what you're going to want to do next is click on this build a database button, and then you're going to want to select the free option all the way over to the right hand side here and make sure they haven't switched that around on you.
 >
-> **[1:48](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=108)** You're just going to want to look for the word that says free, obviously.
+> **[1:48](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=108)** You're just going to want to look for the [[Microsoft Word|word]] that says free, obviously.
 >
 > **[1:51](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=111)** And let's click the create button here and that will create a new shared cluster for us.
 >
@@ -3122,7 +3092,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=211)** So while that's downloading and installing for us, what we're going to want to do is make a few changes to the data that we'll be adding to our database.
 >
-> **[3:40](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=220)** So remember that earlier when we added data to our backend in the form of this temp-data.js file, we commented out all of the image name properties for our products.
+> **[3:40](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=220)** So remember that earlier when we added data to our backend in the form of this temp-data.js file, we commented out all of the image name properties for our [[Microsoft Products|products]].
 >
 > **[3:51](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=231)** Now, the reason that we did this is because the images are going to work a little bit differently on the backend than they are when you just store the images on the front end.
 >
@@ -3134,7 +3104,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=261)** So for our basil bottle olive oil here, it's going to be /images/basil-bottle.webp.
 >
-> **[4:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=271)** And then we'll do the same thing for the rest of our products.
+> **[4:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=271)** And then we'll do the same thing for the [[Representational State Transfer (REST)|rest]] of our products.
 >
 > **[4:36](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/setting-up-mongodb?u=76281980&t=276)** And once we've done that we're going to remove all of the imports up at the top since we no longer need to do that.
 >
@@ -3166,7 +3136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (11), database (6), data (5), [[Codespaces]] (3), next (3)
+> **Frameworks & Libraries:** [[MongoDB]] (11), [[Codespaces]] (3), [[Microsoft Products|Products]] (3), [[Vue.js|Vue]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** mongo (4), brew (4), make (3), find (1), aws (1)
 > **Tools:** terminal (7), command line (1)
 > **Prerequisites:** install (6)
@@ -3175,12 +3145,11 @@ created: 2026-05-02
 > **Code Identifiers:** imagename (1), imageurl (1)
 > **UI Navigation:** select the (2)
 
-#### Connecting and adding data to MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980)
+#### [Connecting and adding data to MongoDB](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=0)** - [Instructor] All right, so now that we've installed the Mongo SH tool and set up a MongoDB instance on MongoDB Atlas the next thing that we're going to do is connect to MongoDB Atlas and insert some data into it that our application will be able to use.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=0)** - [Instructor] All right, so now that we've installed the Mongo SH tool and set up a [[MongoDB]] instance on MongoDB Atlas the next thing that we're going to do is connect to MongoDB Atlas and insert some data into it that our application will be able to use.
 >
 > **[0:14](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=14)** So the first thing that we're going to have to do is open up the MongoDB Atlas tab that we had open.
 >
@@ -3206,7 +3175,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=79)** But before that will actually work, we're going to need to go into the Network Access tab here, over on the left-hand side.
 >
-> **[1:27](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=87)** And in order to allow ourselves to connect from Codespaces, we're going to need to allow ourselves to connect from anywhere, so let's click Add IP Address.
+> **[1:27](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=87)** And in order to allow ourselves to connect from [[Codespaces]], we're going to need to allow ourselves to connect from anywhere, so let's click Add IP Address.
 >
 > **[1:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=95)** And what you're going to want to do is click on this option Allow Access from Anywhere, and then we're going to click Confirm.
 >
@@ -3270,7 +3239,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=243)** And as we've already mentioned, this will allow us to persist our data in a more permanent way.
 >
-> **[4:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=249)** So we're going to copy all of the products data.
+> **[4:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=249)** So we're going to copy all of the [[Microsoft Products|products]] data.
 >
 > **[4:11](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/connecting-and-adding-data-to-mongodb?u=76281980&t=251)** And you're just going to want to copy the square brackets and everything inside of them.
 >
@@ -3346,7 +3315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[MongoDB]] (13), data (12), [[Microsoft Products|Products]] (8), hit (6)
+> **Frameworks & Libraries:** [[MongoDB]] (13), [[Microsoft Products|Products]] (8), [[Codespaces]] (4)
 > **CLI Commands:** mongo (6), make (5), find (2), brew (1), node (1)
 > **UI Navigation:** click on (2), switch to (1)
 > **Prerequisites:** set up (2), install (1)
@@ -3355,12 +3324,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 
-#### Adding MongoDB to a Node.js server
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980)
+#### [Adding MongoDB to a Node.js server](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=0)** - [Instructor] Now that we've inserted all of our data into our Mongo database instance on Mongo Atlas, the next thing that we're going to do is see how to connect to MongoDB and load data on our Express server.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=0)** - [Instructor] Now that we've inserted all of our data into our Mongo database instance on Mongo Atlas, the next thing that we're going to do is see how to connect to [[MongoDB]] and load data on our Express server.
 >
 > **[0:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=13)** So let's open up our server file, right?
 >
@@ -3368,7 +3336,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=18)** And what we're going to need to do first is install what's called the MongoDB driver, right?
 >
-> **[0:24](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=24)** This is just an NPM package that allows us to connect to MongoDB and provide some helpful methods and functions for doing so.
+> **[0:24](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=24)** This is just an [[npm]] package that allows us to connect to MongoDB and provide some helpful methods and functions for doing so.
 >
 > **[0:32](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=32)** So what we're going to do is inside our backend, and again, you're going to want to make sure that you're in your backend directory when you run this command.
 >
@@ -3396,13 +3364,13 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=118)** And now instead of clicking connect with the MongoDB shell, we're going to say, connect your application.
 >
-> **[2:05](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=125)** And now you should see that it says driver, Node.js, and the version says 4.1 or later.
+> **[2:05](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=125)** And now you should see that it says driver, [[Node.js]], and the version says 4.1 or later.
 >
 > **[2:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=130)** And down here you'll see the URL that you want.
 >
 > **[2:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=133)** So let's copy that, and we're going to go back to our server and in back ticks, right?
 >
-> **[2:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=139)** That's a little bit different from single quotes because it allows you to insert values into strings in JavaScript.
+> **[2:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=139)** That's a little bit different from single quotes because it allows you to insert values into strings in [[JavaScript]].
 >
 > **[2:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=145)** What we're going to do is paste that URL.
 >
@@ -3414,7 +3382,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=163)** And notice that this includes the username that we defined before as well as the password.
 >
-> **[2:49](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=169)** All right, now the first thing you should know about this password is what you don't want to do is just type your password into here and then publish this to GitHub.
+> **[2:49](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=169)** All right, now the first thing you should know about this password is what you don't want to do is just type your password into here and then publish this to [[GitHub]].
 >
 > **[2:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=179)** If you do want to use GitHub for this project, you'll definitely want to make sure that it's a private GitHub repo and not a public GitHub repo.
 >
@@ -3454,7 +3422,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=299)** We can now use it by saying something like db.collection.
 >
-> **[5:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=304)** And if we wanted to access, let's say the products collection, we could say products, and then we can use .findOne or .find in order to find documents in that collection that match a certain piece of criteria.
+> **[5:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=304)** And if we wanted to access, let's say the [[Microsoft Products|products]] collection, we could say products, and then we can use .findOne or .find in order to find documents in that collection that match a certain piece of criteria.
 >
 > **[5:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-a-node-js-server?u=76281980&t=319)** So if we wanted to find all of the products in the products collection, we could just say db.collection products.find.
 >
@@ -3506,7 +3474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (10), [[Microsoft Products|Products]] (10), [[GitHub]] (8), database (5), express (3)
+> **Frameworks & Libraries:** [[MongoDB]] (10), [[Microsoft Products|Products]] (10), [[GitHub]] (8), [[npm]] (3), [[Node.js]] (2)
 > **CLI Commands:** find (7), make (6), mongo (5), npm (3), node (2)
 > **Env Vars:** url (9), npm (1)
 > **Tools:** github (8), postman (2)
@@ -3515,16 +3483,15 @@ created: 2026-05-02
 > **File Paths:** node.js (2)
 > **Code Identifiers:** findone (1), toarray (1)
 
-#### Adding MongoDB to GET endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-get-endpoints?u=76281980)
+#### [Adding MongoDB to GET endpoints](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-get-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-get-endpoints?u=76281980&t=0)** - [Instructor] Now that we've seen how to connect to MongoDB from inside an Express application, the next thing that we're going to do is convert all of our get end points so that they load their data from MongoDB instead of using the in-memory data, right?
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-get-endpoints?u=76281980&t=0)** - [Instructor] Now that we've seen how to connect to [[MongoDB]] from inside an Express application, the next thing that we're going to do is convert all of our get end points so that they load their data from MongoDB instead of using the in-memory data, right?
 >
 > **[0:14](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-get-endpoints?u=76281980&t=14)** The temp-data file that we've been using so far.
 >
-> **[0:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-get-endpoints?u=76281980&t=18)** All right, now the good news is that what we just saw in this hello endpoint as a demonstration is actually the exact way that you load all of the products from our database.
+> **[0:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-get-endpoints?u=76281980&t=18)** All right, now the good news is that what we just saw in this hello endpoint as a demonstration is actually the exact way that you load all of the [[Microsoft Products|products]] from our database.
 >
 > **[0:28](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-mongodb-to-get-endpoints?u=76281980&t=28)** So what we can do is replace the logic inside our products callback with what we had inside of our hello endpoint.
 >
@@ -3640,7 +3607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (8), [[Microsoft Products|Products]] (8), database (8), data (5), product (3)
+> **Frameworks & Libraries:** [[MongoDB]] (8), [[Microsoft Products|Products]] (8)
 > **Code Identifiers:** userid (5), populatecartids (3), cartitems (2), productids (1), findone (1)
 > **CLI Commands:** find (5), make (2), mongo (1)
 > **Env Vars:** url (2)
@@ -3649,12 +3616,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading individual products from MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980)
+#### [Loading individual products from MongoDB](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980&t=0)** - Alright, so we've added MongoDB to two of our three load endpoints.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980&t=0)** - Alright, so we've added [[MongoDB]] to two of our three load endpoints.
 >
 > **[0:05](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980&t=5)** So the last thing that we're going to do here is see how to add MongoDB to our endpoint for loading individual product data.
 >
@@ -3672,9 +3638,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980&t=60)** And then what we're going to do is say .findone and we're going to find the product whose ID matches the product ID URL parameter.
 >
-> **[1:11](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980&t=71)** And once we've done that, we should be able to send back our product to the client by just saying, response.json product.
+> **[1:11](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980&t=71)** And once we've done that, we should be able to send back our product to the client by just saying, response.[[JSON]] product.
 >
-> **[1:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980&t=78)** So let's test this endpoint out now by sending a get request to /products/123.
+> **[1:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980&t=78)** So let's test this endpoint out now by sending a get request to /[[Microsoft Products|products]]/123.
 >
 > **[1:26](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-individual-products-from-mongodb?u=76281980&t=86)** And if we click send here, we should see, oops, so looks like we got null.
 >
@@ -3744,7 +3710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), [[MongoDB]] (10), [[Microsoft Products|Products]] (5), database (4), data (1)
+> **Frameworks & Libraries:** [[MongoDB]] (10), [[Microsoft Products|Products]] (5), [[JSON]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Ports:** port 8 (2)
 > **Env Vars:** url (2)
@@ -3753,12 +3719,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** postman (1)
 
-#### Creating data in MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-data-in-mongodb?u=76281980)
+#### [Creating data in MongoDB](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-data-in-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-data-in-mongodb?u=76281980&t=0)** - [Instructor] All right, so now that we've converted our get endpoints over to use MongoDB and done a little bit of cleanup, we can now move on to converting some of our create endpoints over to MongoDB.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-data-in-mongodb?u=76281980&t=0)** - [Instructor] All right, so now that we've converted our get endpoints over to use [[MongoDB]] and done a little bit of cleanup, we can now move on to converting some of our create endpoints over to MongoDB.
 >
 > **[0:11](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-data-in-mongodb?u=76281980&t=11)** And as a matter of fact, we only have one create endpoint, and that is the endpoint for adding items to a user's cart.
 >
@@ -3862,7 +3827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (8), product (5), database (2), data (1)
+> **Frameworks & Libraries:** [[MongoDB]] (8)
 > **Code Identifiers:** updateone (5), cartitems (5), userid (4), populatecartids (1), addtoset (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** similar to (2), just like (1), for example (1)
@@ -3870,12 +3835,11 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting data in MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-data-in-mongodb?u=76281980)
+#### [Deleting data in MongoDB](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-data-in-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-data-in-mongodb?u=76281980&t=0)** - [Instructor] All right, so the last endpoint that we're going to convert over to use MongoDB is going to be the endpoint for removing products from a user's cart.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-data-in-mongodb?u=76281980&t=0)** - [Instructor] All right, so the last endpoint that we're going to convert over to use [[MongoDB]] is going to be the endpoint for removing [[Microsoft Products|products]] from a user's cart.
 >
 > **[0:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-data-in-mongodb?u=76281980&t=8)** Now, this one's going to be pretty straightforward, and it's actually going to be very similar to the endpoint for adding items to the user's cart.
 >
@@ -3933,7 +3897,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-data-in-mongodb?u=76281980&t=214)** So that's how to convert the remove from cart endpoint over to use MongoDB.
 >
-> **[3:38](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-data-in-mongodb?u=76281980&t=218)** And at this point, we have all of our major endpoints converted to use MongoDB instead of an in-memory JavaScript array.
+> **[3:38](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-data-in-mongodb?u=76281980&t=218)** And at this point, we have all of our major endpoints converted to use MongoDB instead of an in-memory [[JavaScript]] array.
 >
 > **[3:45](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/deleting-data-in-mongodb?u=76281980&t=225)** So what we can actually do is just remove these cartItems and products.
 >
@@ -3949,7 +3913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (6), [[Microsoft Products|Products]] (3), data (2), product (2), hit (1)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[Microsoft Products|Products]] (3), [[JavaScript]] (1)
 > **Code Identifiers:** userid (5), productid (3), cartitems (3), updateone (2)
 > **API Endpoints:** get  (1), delete  (1)
 > **Env Vars:** url (1), delete (1)
@@ -3963,12 +3927,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the Axios library
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980)
+#### [Introduction to the Axios library](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=0)** - So far in this course, we've used Vue, Node.js, Express, and MongoDB to build a full stack e-commerce site.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=0)** - So far in this course, we've used [[Vue.js|Vue]], [[Node.js]], Express, and [[MongoDB]] to build a full stack [[E-Commerce]] site.
 >
 > **[0:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=8)** However, even though our site has a working front end and backend, those two sides aren't communicating with each other yet.
 >
@@ -3982,7 +3945,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=44)** So for example, when we visit the product detail page that you see here, our front end is going to need to automatically make a request to load the data for this product.
 >
-> **[0:54](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=54)** And the same thing is going to be true of course for our products page here.
+> **[0:54](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=54)** And the same thing is going to be true of course for our [[Microsoft Products|products]] page here.
 >
 > **[0:58](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=58)** It's going to need to automatically load all of the products for our site as soon as we open the page and display them in the page's template.
 >
@@ -4002,7 +3965,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=111)** Now this is very similar to what we've been doing in the last few chapters with Postman, except now we're doing it programmatically.
 >
-> **[1:58](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=118)** Now get as well as the rest of Axios's methods that we're going to be working with throughout the rest of this course, returns promises.
+> **[1:58](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=118)** Now get as well as the [[Representational State Transfer (REST)|rest]] of Axios's methods that we're going to be working with throughout the rest of this course, returns promises.
 >
 > **[2:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=126)** And in our case, basically what this means is that we'll be able to use the async and await keywords with them.
 >
@@ -4012,7 +3975,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=152)** This is generally where the response body is contained.
 >
-> **[2:38](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=158)** And just to give you an idea of how this relates to what we're sending back from the backend, generally whatever we pass to response.json inside our server endpoint is going to show up on that data property on the frontend.
+> **[2:38](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=158)** And just to give you an idea of how this relates to what we're sending back from the backend, generally whatever we pass to response.[[JSON]] inside our server endpoint is going to show up on that data property on the frontend.
 >
 > **[2:52](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=172)** So in this case, if we had an object with the property message equal to "Hello", if we were to send that using the backend, Then on the frontend response.data would be that same object with message equal to "Hello" pretty straightforward right?
 >
@@ -4022,13 +3985,13 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=200)** Now, all of these other methods are pretty straightforward.
 >
-> **[3:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=202)** The main thing that you're going to need to know is that with the post method, we'll be wanting to pass extra data along with our request, which we can do simply by passing a JavaScript object as the second argument to the function.
+> **[3:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=202)** The main thing that you're going to need to know is that with the post method, we'll be wanting to pass extra data along with our request, which we can do simply by passing a [[JavaScript]] object as the second argument to the function.
 >
 > **[3:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980&t=215)** And that's pretty much all we need to know about Axios, So let's move on to seeing how we can incorporate this into our full stack application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (3), [[Vue.js|Vue]] (2), product (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (2), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Node.js]] (1), [[MongoDB]] (1)
 > **CLI Commands:** make (5), node (1)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Tools:** postman (3)
@@ -4037,14 +4000,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **UI Navigation:** open the (1)
 
-#### Loading data from the server: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980)
+#### [Loading data from the server: Part 1](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=0)** - [Instructor] Now that we know the basics of how axios works and the methods it provides us with for making requests to the backend, the next thing we're going to take a look at is how to actually install and use this library on our view front end.
 >
-> **[0:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=13)** Now, the first thing that you're going to want to do in Codespaces here is open up two terminals.
+> **[0:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=13)** Now, the first thing that you're going to want to do in [[Codespaces]] here is open up two terminals.
 >
 > **[0:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=19)** So you're going to want to see both those terminals over here on the right hand side.
 >
@@ -4062,7 +4024,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=59)** So inside our front end directory what we're going to do here is install the axios library.
 >
-> **[1:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=64)** And the way we're going to do that is by running npm install axios and hitting enter.
+> **[1:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=64)** And the way we're going to do that is by running [[npm]] install axios and hitting enter.
 >
 > **[1:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=70)** Okay, so that'll take a minute or two to install.
 >
@@ -4074,7 +4036,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=83)** Now the first part that we're going to take a look at is the parts of our application that need to load data from the server when the page is opened.
 >
-> **[1:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=91)** So to get a little bit more specific here that's going to refer to pages such as our products page.
+> **[1:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=91)** So to get a little bit more specific here that's going to refer to pages such as our [[Microsoft Products|products]] page.
 >
 > **[1:38](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-1?u=76281980&t=98)** So let's open that up here in our front end directory, source, pages and products page.
 >
@@ -4228,7 +4190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (28), data (13), api (5), next (4), hit (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (28), [[npm]] (3), [[Codespaces]] (2)
 > **CLI Commands:** make (7), npm (3), cd (2)
 > **Env Vars:** url (6), api (3), cors (2)
 > **Prerequisites:** install (5), set up (3)
@@ -4237,12 +4199,11 @@ created: 2026-05-02
 > **Ports:** port 8 (1), port 8080 (1)
 > **API Endpoints:** /api/products (2)
 
-#### Loading data from the server: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980)
+#### [Loading data from the server: Part 2](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=0)** - [Instructor] All right, so now that we've seen how to convert our products page so that it loads its data from the server instead of using file data, we're going to do the same thing with our other two pages here, but before we do that, let's fix the problem we're currently having with displaying our photos.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=0)** - [Instructor] All right, so now that we've seen how to convert our [[Microsoft Products|products]] page so that it loads its data from the server instead of using file data, we're going to do the same thing with our other two pages here, but before we do that, let's fix the problem we're currently having with displaying our photos.
 >
 > **[0:16](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=16)** What we're going to have to do is change our front end so that it tries to load its photos from the back end.
 >
@@ -4262,7 +4223,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=67)** And then the second argument is going to be the actual path of the folder we want to serve the files from.
 >
-> **[1:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=73)** So in order to do this, we're going to import Node.js' built-in path package by saying import path from path.
+> **[1:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=73)** So in order to do this, we're going to import [[Node.js]]' built-in path package by saying import path from path.
 >
 > **[1:21](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=81)** And then for the second argument here we're going to say express.static and then path.join _ _ directory name and then ../assets.
 >
@@ -4324,7 +4285,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=283)** Okay, and now that we're loading that data from the server, we no longer need this product.find thing from before.
 >
-> **[4:49](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=289)** So we'll just set the initial value of our product data on our product detail page to an empty JavaScript object.
+> **[4:49](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=289)** So we'll just set the initial value of our product data on our product detail page to an empty [[JavaScript]] object.
 >
 > **[4:56](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/loading-data-from-the-server-part-2?u=76281980&t=296)** And this also means we can remove this products' import up at the top.
 >
@@ -4376,7 +4337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (21), data (14), [[Microsoft Products|Products]] (10), express (3), hit (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[Node.js]] (2), [[JavaScript]] (1)
 > **CLI Commands:** make (6), node (2), find (1)
 > **Code Identifiers:** imageurl (3), cartitems (2), productid (1)
 > **Env Vars:** url (5)
@@ -4385,8 +4346,7 @@ created: 2026-05-02
 > **API Endpoints:** /api/products (1), /api/users/12345/cart (1)
 > **Cross-References:** go back to (1)
 
-#### Adding items to the shopping cart
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980)
+#### [Adding items to the shopping cart](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4408,7 +4368,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=63)** All right, so what this will do is if we define an addToCart method down here in our component, and by the way, you can do that by underneath our data adding a property called methods.
 >
-> **[1:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=75)** And this is where we can define the different callable methods based on events that happen in our components HTML, right?
+> **[1:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=75)** And this is where we can define the different callable methods based on events that happen in our components [[HTML]], right?
 >
 > **[1:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=82)** Such as when a user clicks a button.
 >
@@ -4440,7 +4400,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=164)** All we want to do here is once we've successfully added the item to a user's cart, we'll want to display some sort of message.
 >
-> **[2:51](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=171)** And the easiest way to do that in Vue is just going to be to display an alert saying something like Successfully added item to cart, okay?
+> **[2:51](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=171)** And the easiest way to do that in [[Vue.js|Vue]] is just going to be to display an alert saying something like Successfully added item to cart, okay?
 >
 > **[3:02](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=182)** That's all we need to do there.
 >
@@ -4448,7 +4408,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=186)** So let's try this out.
 >
-> **[3:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=188)** What we're going to want to do is go to our frontend and hit refresh, and let's try going to our products and adding a product to our cart that isn't already there.
+> **[3:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=188)** What we're going to want to do is go to our frontend and hit refresh, and let's try going to our [[Microsoft Products|products]] and adding a product to our cart that isn't already there.
 >
 > **[3:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=198)** So actually, let's check out our shopping cart.
 >
@@ -4480,7 +4440,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=273)** And sure enough, remember that what we wanted to be defined in the request body was just the property ID not product ID.
 >
-> **[4:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=281)** So what we're going to have to do is go back to our ProductDetailPage, change this to Id, and now the unfortunate part is that we've inserted some incorrect data into MongoDB, so we have to actually remove that manually.
+> **[4:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=281)** So what we're going to have to do is go back to our ProductDetailPage, change this to Id, and now the unfortunate part is that we've inserted some incorrect data into [[MongoDB]], so we have to actually remove that manually.
 >
 > **[4:54](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/adding-items-to-the-shopping-cart?u=76281980&t=294)** And you can do that by opening up a new terminal.
 >
@@ -4540,7 +4500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), hit (4), [[MongoDB]] (4), data (3), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[HTML]] (1), [[Vue.js|Vue]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** addtocart (4), productid (2), updateone (1), cartitems (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** go to (2), click on (1)
@@ -4549,8 +4509,7 @@ created: 2026-05-02
 > **API Endpoints:** /api/users/12345 (1)
 > **Env Vars:** html (1)
 
-#### Removing items from the shopping cart
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/removing-items-from-the-shopping-cart?u=76281980)
+#### [Removing items from the shopping cart](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/removing-items-from-the-shopping-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4658,7 +4617,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/removing-items-from-the-shopping-cart?u=76281980&t=325)** What we're going to do is go back to our front end and hit refresh just to make sure we have the up-to-date version.
 >
-> **[5:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/removing-items-from-the-shopping-cart?u=76281980&t=331)** And now we should be able to click remove from cart on any one of these products and see it disappear.
+> **[5:31](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/removing-items-from-the-shopping-cart?u=76281980&t=331)** And now we should be able to click remove from cart on any one of these [[Microsoft Products|products]] and see it disappear.
 >
 > **[5:36](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/removing-items-from-the-shopping-cart?u=76281980&t=336)** So let's try this.
 >
@@ -4670,15 +4629,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (9), hit (2), api (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1), means that (1)
 > **API Endpoints:** /api/users/12345/cart (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [speaker] (1)
 
-#### Challenge: Item already in cart
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/challenge-item-already-in-cart?u=76281980)
+#### [Challenge: Item already in cart](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/challenge-item-already-in-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4714,15 +4672,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), product (2), feature (1), next (1)
 > **File Paths:** server.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Item already in cart
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-item-already-in-cart?u=76281980)
+#### [Solution: Item already in cart](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/solution-item-already-in-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4826,7 +4782,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (3), api (1), hit (1)
 > **Code Identifiers:** cartitems (5), cartresponse (2), itemisincart (1), productid (1)
 > **Analogies:** just like (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
@@ -4834,20 +4789,20 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 5. Adding Authentication with Firebase Authentication
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Firebase Authentication?
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980)
+#### [Why Firebase Authentication?](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980&t=0)** - All right, so at this point in the course, we have a working front end, a working backend, and we've seen how to connect the two by making network requests with the Axios Library.
 >
-> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980&t=10)** So the next thing that we're going to take a look at here is how to add some simple user authentication to our app using Firebase Authentication.
+> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980&t=10)** So the next thing that we're going to take a look at here is how to add some simple user authentication to our app using [[Firebase]] Authentication.
 >
 > **[0:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980&t=18)** Now, what this is ultimately going to allow us to do is replace this dummy user ID that we've been using, right, 12345, with a real user ID generated for us by Firebase.
 >
@@ -4857,7 +4812,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980&t=51)** But this can be made a lot easier by using an authentication provider, and for that we're going to be using Firebase Authentication.
 >
-> **[0:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980&t=59)** Now, Firebase, first of all, is a very user-friendly platform for adding things like databases, hosting, and of course user authentication which is all that we're going to be using here.
+> **[0:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980&t=59)** Now, Firebase, first of all, is a very user-friendly platform for adding things like [[Databases]], hosting, and of course user authentication which is all that we're going to be using here.
 >
 > **[1:11](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980&t=71)** So basically what Firebase Authentication allows us to do is quickly set up a specific sign-in method, and we'll see how to do this in just a minute here, and from then on all we have to do is install Firebase off into our project.
 >
@@ -4869,26 +4824,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (8), next (1), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Firebase]] (8), [[Databases]] (1)
 > **Prerequisites:** set up (1), install (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)
 
-#### Creating a Firebase project
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980)
+#### [Creating a Firebase project](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=0)** - [Instructor] The first thing that we're going to have to do in order to add Firebase authentication to our project is set up a Firebase project and app in the Firebase console.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=0)** - [Instructor] The first thing that we're going to have to do in order to add [[Firebase]] authentication to our project is set up a Firebase project and app in the Firebase console.
 >
-> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=10)** So you're going to want to navigate to console.firebase.[google.com](https://google.com), which is the current URL of the Firebase console.
+> **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=10)** So you're going to want to navigate to console.firebase.[[[Google]].com](https://google.com), which is the current URL of the Firebase console.
 >
 > **[0:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=18)** And what you're going to want to do is, of course, log in with your Gmail account or some sort of account like that and you should see a screen that looks something like this.
 >
 > **[0:28](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=28)** So what we're going to want to do here is click the Add Project button and the first thing that's going to ask us is for a project name.
 >
-> **[0:37](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=37)** So I'm just going to call this project Vue Site, something like that, it doesn't really matter too much.
+> **[0:37](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=37)** So I'm just going to call this project [[Vue.js|Vue]] Site, something like that, it doesn't really matter too much.
 >
 > **[0:43](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=43)** The only thing that we can't change later is the ID of the app, which is this down here.
 >
@@ -4928,7 +4882,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=175)** You should see front-end on the tab name over here on the right hand side.
 >
-> **[2:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=179)** And what we're going to do is say npm install firebase, and then we're going to say @ with the current version that I'm going to be using for this project, and that's going to be 9.15.0, so if you add this, this will make sure that you have the exact same version of Firebase on your computer as I do here.
+> **[2:59](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=179)** And what we're going to do is say [[npm]] install firebase, and then we're going to say @ with the current version that I'm going to be using for this project, and that's going to be 9.15.0, so if you add this, this will make sure that you have the exact same version of Firebase on your computer as I do here.
 >
 > **[3:21](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=201)** It'll just make sure that everything works the same way.
 >
@@ -4970,7 +4924,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=337)** And in order to do that, you just need to go to Settings, select Authorized domains, and what you're going to want to do is click Add domain, and then you can find the domain here by going back to your front end and just copying everything except for the final path, right?
 >
-> **[5:54](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=354)** So for me, that's going to be everything after https up until /products, we're just going to copy that and now we can paste that inside the domain and click Add, and that will tell our Firebase project that we should trust that domain.
+> **[5:54](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=354)** So for me, that's going to be everything after https up until /[[Microsoft Products|products]], we're just going to copy that and now we can paste that inside the domain and click Add, and that will tell our Firebase project that we should trust that domain.
 >
 > **[6:09](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/creating-a-firebase-project?u=76281980&t=369)** This just allows us to reroute the user back to that domain after the user has signed in.
 >
@@ -4982,7 +4936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (21), [[Vue.js|Vue]] (8), next (8), [[Google]] (4), [[Analytics]] (3)
+> **Frameworks & Libraries:** [[Firebase]] (21), [[Vue.js|Vue]] (8), [[Google]] (4), [[npm]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5), find (2), npm (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Prerequisites:** install (3), set up (1), setup (1)
@@ -4991,12 +4945,11 @@ created: 2026-05-02
 > **Code Identifiers:** createapp (1)
 > **URLs:** [google.com](https://google.com) (1)
 
-#### Sending Firebase Auth email links
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/sending-firebase-auth-email-links?u=76281980)
+#### [Sending Firebase Auth email links](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/sending-firebase-auth-email-links?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/sending-firebase-auth-email-links?u=76281980&t=0)** - [Instructor] All right, so now that we've set up a basic Firebase project for our app here, the next thing that we're going to do is start adding the email link authentication flow to our app.
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/sending-firebase-auth-email-links?u=76281980&t=0)** - [Instructor] All right, so now that we've set up a basic [[Firebase]] project for our app here, the next thing that we're going to do is start adding the email link authentication flow to our app.
 >
 > **[0:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/sending-firebase-auth-email-links?u=76281980&t=10)** Now, here's how authentication in this app is going to work.
 >
@@ -5110,7 +5063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (11), prompt (4), product (4), next (2), application (1)
+> **Frameworks & Libraries:** [[Firebase]] (11)
 > **Code Identifiers:** issigninwithemaillink (3), actioncodesettings (3), signin (2), getauth (2), sendsigninlinktoemail (2)
 > **Env Vars:** url (4)
 > **Definitions:** is a  (2), is called (1)
@@ -5118,12 +5071,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging in with an email link
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/logging-in-with-an-email-link?u=76281980)
+#### [Logging in with an email link](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/logging-in-with-an-email-link?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/logging-in-with-an-email-link?u=76281980&t=0)** - [Instructor] Cool, so now that we're sending this authentication link to the user using Firebase's sendSignInLinkToEmail function, the next thing that we're going to have to do is listen for this function to complete, right?
+> **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/logging-in-with-an-email-link?u=76281980&t=0)** - [Instructor] Cool, so now that we're sending this authentication link to the user using [[Firebase]]'s sendSignInLinkToEmail function, the next thing that we're going to have to do is listen for this function to complete, right?
 >
 > **[0:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/logging-in-with-an-email-link?u=76281980&t=12)** We want to know that everything went well and that Firebase Auth was able to send that email.
 >
@@ -5249,7 +5201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (5), next (3), hit (1)
+> **Frameworks & Libraries:** [[Firebase]] (5)
 > **Code Identifiers:** localstorage (5), signinwithemaillink (4), emailforsignin (3), sendsigninlinktoemail (2), signin (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1), coming up (1)
@@ -5258,8 +5210,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Best Practices:** make sure to (1)
 
-#### Listening for auth state changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/listening-for-auth-state-changes?u=76281980)
+#### [Listening for auth state changes](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/listening-for-auth-state-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5277,7 +5228,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/listening-for-auth-state-changes?u=76281980&t=19)** And what we're going to have the app component do is actually subscribe to changes in the user's logged in state.
 >
-> **[0:27](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/listening-for-auth-state-changes?u=76281980&t=27)** Now, if that sounds complicated don't worry too much because Firebase Auth provides us with a function that does exactly that.
+> **[0:27](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/listening-for-auth-state-changes?u=76281980&t=27)** Now, if that sounds complicated don't worry too much because [[Firebase]] Auth provides us with a function that does exactly that.
 >
 > **[0:34](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/listening-for-auth-state-changes?u=76281980&t=34)** So what we're going to do is import two things from Firebase Auth.
 >
@@ -5387,15 +5338,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Firebase]] (6), next (3), product (1), hit (1)
+> **Frameworks & Libraries:** [[Firebase]] (6)
 > **Definitions:** in other words (2), is a  (1)
 > **Env Vars:** uid (2)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Signing the user out
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/signing-the-user-out?u=76281980)
+#### [Signing the user out](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/signing-the-user-out?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5403,7 +5353,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/signing-the-user-out?u=76281980&t=13)** So what we're going to do here is add a simple sign out button to the top of our nav bar, and what that's going to involve is just opening up our nav bar component.
 >
-> **[0:24](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/signing-the-user-out?u=76281980&t=24)** And then what we're going to do is we're going to start off by importing the "getAuth" function from Firebase Auth, as well as the "signOut" function.
+> **[0:24](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/signing-the-user-out?u=76281980&t=24)** And then what we're going to do is we're going to start off by importing the "getAuth" function from [[Firebase]] Auth, as well as the "signOut" function.
 >
 > **[0:35](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/signing-the-user-out?u=76281980&t=35)** So we'll import those from "firebase/auth" And then down here in our nav bar, what we're going to want to do is create a method for signing out.
 >
@@ -5451,7 +5401,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/signing-the-user-out?u=76281980&t=186)** We're going to say sign out and, sure enough, that changes this button to say "sign in to add to cart".
 >
-> **[3:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/signing-the-user-out?u=76281980&t=192)** And if you want to test that out by clicking that and reentering your email, so I'm going to enter my shaun.vue.test fake email into there and click okay.
+> **[3:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/signing-the-user-out?u=76281980&t=192)** And if you want to test that out by clicking that and reentering your email, so I'm going to enter my shaun.[[Vue.js|vue]].test fake email into there and click okay.
 >
 > **[3:24](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/signing-the-user-out?u=76281980&t=204)** And again, we'll see this alert that says a login link was sent to the email you provided.
 >
@@ -5491,15 +5441,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (4), hit (4), next (3), data (3), [[Vue.js|Vue]] (2)
+> **Frameworks & Libraries:** [[Firebase]] (4), [[Vue.js|Vue]] (2)
 > **Code Identifiers:** signout (4), getauth (2), cartitems (2)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** go back to (4)
 > **File Paths:** server.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing cart items with authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980)
+#### [Managing cart items with authentication](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5523,7 +5472,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=89)** All right, so now that we have this existingUser loaded from the database, we're going to need to check and see if the user exists.
 >
-> **[1:34](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=94)** Now, if existingUser is undefined, as it will be if we didn't find any matching users, then what we're going to want to do, as I said, is insert a new user with an empty shopping cart, and then just let the rest of this logic run from before.
+> **[1:34](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=94)** Now, if existingUser is undefined, as it will be if we didn't find any matching users, then what we're going to want to do, as I said, is insert a new user with an empty shopping cart, and then just let the [[Representational State Transfer (REST)|rest]] of this logic run from before.
 >
 > **[1:51](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=111)** So here's what that's going to look like.
 >
@@ -5641,7 +5590,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=416)** We're going to save it.
 >
-> **[6:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=417)** And if we go back and hit Refresh, we should see that it'll successfully load all of our products for us.
+> **[6:57](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=417)** And if we go back and hit Refresh, we should see that it'll successfully load all of our [[Microsoft Products|products]] for us.
 >
 > **[7:07](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=427)** And let's now try removing these items from our cart.
 >
@@ -5649,11 +5598,11 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=432)** And sure enough, that removes the item.
 >
-> **[7:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=435)** So, anyway, at this point, we've fully integrated our app with Firebase Authentication, so the next step for us is going to be releasing this app.
+> **[7:15](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/managing-cart-items-with-authentication?u=76281980&t=435)** So, anyway, at this point, we've fully integrated our app with [[Firebase]] Authentication, so the next step for us is going to be releasing this app.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), next (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), [[Firebase]] (1)
 > **Code Identifiers:** existinguser (6), updateone (1), insertone (1), userid (1), removefromcart (1)
 > **CLI Commands:** make (5), find (4)
 > **Env Vars:** url (2)
@@ -5667,8 +5616,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The release process
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/the-release-process?u=76281980)
+#### [The release process](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/the-release-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5702,15 +5650,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), full-stack (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing the front-end for release
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980)
+#### [Preparing the front-end for release](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5720,9 +5666,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=18)** And the main benefit of this is that it helps us simplify our architecture a little bit.
 >
-> **[0:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=22)** So anyway, what this is going to look like is we're going to start off by opening up our terminal into the front-end, and we're going to run the command npm run build.
+> **[0:22](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=22)** So anyway, what this is going to look like is we're going to start off by opening up our terminal into the front-end, and we're going to run the command [[npm]] run build.
 >
-> **[0:33](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=33)** All right, so this is going to build our Vue project.
+> **[0:33](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=33)** All right, so this is going to build our [[Vue.js|Vue]] project.
 >
 > **[0:36](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=36)** And what we're going to see if we take a look at the front end directory now is that there's this dist directory that contains all of the compiled view code for our project.
 >
@@ -5732,7 +5678,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=64)** So the first of those changes is going to be to open up our main.js file and we're going to add a redirect to our routes down here.
 >
-> **[1:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=73)** So basically what we're going to do is when the user goes to the / route, right, the regular home route, we're going to automatically redirect them to the products.
+> **[1:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=73)** So basically what we're going to do is when the user goes to the / route, right, the regular home route, we're going to automatically redirect them to the [[Microsoft Products|products]].
 >
 > **[1:23](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=83)** So what we're going to do is say path and we're just going to say the / route here.
 >
@@ -5746,7 +5692,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=107)** Now, the next thing we have to do is change the redirect URL that we specified in our product detail page, right?
 >
-> **[1:54](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=114)** Because currently the redirect URL is going to take us to our development application running in Codespaces, and that's not what we want.
+> **[1:54](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=114)** Because currently the redirect URL is going to take us to our development application running in [[Codespaces]], and that's not what we want.
 >
 > **[2:04](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=124)** Now, before we can actually know what this URL is going to be, we need to know what URL our application is going to be running on in production.
 >
@@ -5758,7 +5704,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=152)** So we're going to select web service here.
 >
-> **[2:34](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=154)** Now, the next step in this process is going to be to link this web service with a GitHub repo that we own.
+> **[2:34](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=154)** Now, the next step in this process is going to be to link this web service with a [[GitHub]] repo that we own.
 >
 > **[2:41](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/preparing-the-front-end-for-release?u=76281980&t=161)** So what I'm going to do is link this with the GitHub repo that I've been developing on with Codespaces.
 >
@@ -5832,7 +5778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), front-end (4), next (4), [[npm]] (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[npm]] (3), [[Microsoft Products|Products]] (3), [[Codespaces]] (3), [[GitHub]] (3), [[Vue.js|Vue]] (2)
 > **CLI Commands:** make (6), npm (3), node (2), npx (1)
 > **Env Vars:** url (9), npm (1), ide (1)
 > **Prerequisites:** setup (2), install (2), set up (1)
@@ -5841,14 +5787,13 @@ created: 2026-05-02
 > **File Paths:** main.js (1), build/server.js (1)
 > **Exercise Files:** github repo (2)
 
-#### Releasing the app
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980)
+#### [Releasing the app](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=0)** - [Instructor] Alright, so in order to have our front end files served by our backend, we're again going to have to run the build script inside our view front end.
 >
-> **[0:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=8)** So you're going to want to open up a terminal in the front end directory and run npm, run build.
+> **[0:08](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=8)** So you're going to want to open up a terminal in the front end directory and run [[npm]], run build.
 >
 > **[0:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=13)** And this will replace any old disk directory that you may have had.
 >
@@ -5882,7 +5827,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=102)** And the path here is going to be a star, which basically will catch all of the other routes that weren't caught by the above handlers.
 >
-> **[1:50](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=110)** Okay, and for the callback function here what we're going to do is just say response dot send file and then we're going to say path dot join, underscore, underscore, directory name again and then dot dot slash, dist slash index dot html.
+> **[1:50](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=110)** Okay, and for the callback function here what we're going to do is just say response dot send file and then we're going to say path dot join, underscore, underscore, directory name again and then dot dot slash, dist slash index dot [[HTML]].
 >
 > **[2:07](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=127)** So what this is doing is it's going to send back the index html file, which is the main file that the client wants to load from our view app for each and every request that isn't handled by an API endpoint.
 >
@@ -5930,7 +5875,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=298)** So what we should be able to do now is click on this fullstack view deployment dot on [render.com](https://render.com) thing up at the top and yours might have a different name, assuming that you used a different project name there.
 >
-> **[5:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=310)** So I'm going to click on that and sure enough, we'll see our products page rendered.
+> **[5:10](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=310)** So I'm going to click on that and sure enough, we'll see our [[Microsoft Products|products]] page rendered.
 >
 > **[5:13](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=313)** So let's just take a look at some of the other pages to make sure things work.
 >
@@ -5942,7 +5887,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=327)** There we go.
 >
-> **[5:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=329)** And as a matter of fact, that's not going to work because if you take a look at the console, you'll see that we're getting an unauthorized continue URI error from Firebase.
+> **[5:29](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=329)** And as a matter of fact, that's not going to work because if you take a look at the console, you'll see that we're getting an unauthorized continue URI error from [[Firebase]].
 >
 > **[5:39](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/releasing-the-app?u=76281980&t=339)** So basically all that means is we need to add the new URL for our deployed project to authorize domains, right alongside our code spaces URL.
 >
@@ -5972,7 +5917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (2), express (2), [[HTML]] (2), [[Firebase]] (2), next (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[HTML]] (2), [[Firebase]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** url (3), api (1), npm (1), uri (1)
 > **Tools:** terminal (4)
 > **CLI Commands:** npm (2), make (1)
@@ -5986,14 +5931,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recommended next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980)
+#### [Recommended next steps](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=0)** - [Shaun] Well, that's about it for the course, and we have covered quite a few topics.
 >
-> **[0:05](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=5)** So just to review what we've learned in this course, we started off by seeing how to build a basic front end for our application with Vue, and then we saw how to build a corresponding back end for our application using Node.js and Express, and we also added MongoDB to that stack a little bit later.
+> **[0:05](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=5)** So just to review what we've learned in this course, we started off by seeing how to build a basic front end for our application with [[Vue.js|Vue]], and then we saw how to build a corresponding back end for our application using [[Node.js]] and Express, and we also added [[MongoDB]] to that stack a little bit later.
 >
 > **[0:23](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=23)** After that, we saw how to connect the front end and back end using the Axios library to make network requests between the two.
 >
@@ -6003,7 +5947,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=48)** So, you should definitely feel very proud of yourself if you've followed along with all the steps and understand all of the concepts we've covered here.
 >
-> **[0:56](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=56)** So now that you've got all of this great full-stack development knowledge, you might be wondering where to go next.
+> **[0:56](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=56)** So now that you've got all of this great [[Full-Stack Development]] knowledge, you might be wondering where to go next.
 >
 > **[1:02](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=62)** And there are several things that I would recommend.
 >
@@ -6015,13 +5959,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=93)** All right, so besides building your own applications, there are also several other courses in the library that would complement this one nicely.
 >
-> **[1:40](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=100)** And in particular, if you're interested in seeing how to build a similar full-stack web application but using a different tech stack, be sure to check out my courses on building a full-stack application with React and building a full-stack application with Angular.
+> **[1:40](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=100)** And in particular, if you're interested in seeing how to build a similar full-stack web application but using a different tech stack, be sure to check out my courses on building a full-stack application with [[React.js|React]] and building a full-stack application with [[Angular]].
 >
 > **[1:55](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=115)** And now that I think about it, those are actually fantastic next steps for you to expand your full-stack development skills.
 >
 > **[2:01](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=121)** Well, thank you so much for watching.
 >
-> **[2:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=123)** If you want to get in touch with me, please don't hesitate to connect with me on LinkedIn.
+> **[2:03](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=123)** If you want to get in touch with me, please don't hesitate to connect with me on [[LinkedIn]].
 >
 > **[2:07](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980&t=127)** I'm on LinkedIn pretty often and would love to hear any questions or comments from you, or if you just want to say "Hi," that's okay too.
 >
@@ -6029,7 +5973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), full-stack (5), [[Full-Stack Development]] (2), next (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Full-Stack Development]] (2), [[LinkedIn]] (2), [[Vue.js|Vue]] (1), [[Node.js]] (1), [[MongoDB]] (1)
 > **CLI Commands:** node (1), make (1)
 > **File Paths:** node.js (1)
 > **Definitions:** is a  (1)

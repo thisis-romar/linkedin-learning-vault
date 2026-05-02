@@ -94,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stepping up to the challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980)
+#### [Stepping up to the challenge](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980&t=0)** - [Instructor] Are you looking for a bootcamp style introduction to Python?
+> **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980&t=0)** - [Instructor] Are you looking for a bootcamp style introduction to [[Python (Programming Language)|Python]]?
 >
 > **[0:03](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980&t=3)** Or maybe you just want to get a feel for working with large projects while getting more Python experience.
 >
@@ -113,19 +112,18 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980&t=24)** So you can start from the ground up, or you can build on what you already know with this course alone.
 >
-> **[0:30](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980&t=30)** So if your GitHub commit history is looking a little bare or you're looking for jobs and want to make sure you can cut it as a programmer you've found the right place.
+> **[0:30](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980&t=30)** So if your [[GitHub]] commit history is looking a little bare or you're looking for jobs and want to make sure you can cut it as a programmer you've found the right place.
 >
 > **[0:38](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980&t=38)** Let's dive into this Python project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), hit (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[GitHub]] (1)
 > **CLI Commands:** python (6), make (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=6)** If you want to learn what it really feels like to be a programmer, how to manage code, how to make engineering decisions how to think like a programmer, you'll do that here.
 >
-> **[0:16](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=16)** Do you need to know Python?
+> **[0:16](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=16)** Do you need to know [[Python (Programming Language)|Python]]?
 >
 > **[0:18](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=18)** Nope, but your level of Python expertise will determine how you should use this course.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=55)** The first, to give you hands-on experience working with a large Python project.
 >
-> **[1:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=60)** Now, keep in mind that large here doesn't mean large compared to most enterprise software projects.
+> **[1:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=60)** Now, keep in mind that large here doesn't mean large compared to most [[Enterprise Software]] projects.
 >
 > **[1:05](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=65)** They can run into millions of lines of code.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=78)** So weighing trade-offs of multiple approaches, thinking about how your code is going to be used by others, also, things like, do you write for readability or computing efficiency?
 >
-> **[1:29](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=89)** And finally, we want to get something on GitHub.
+> **[1:29](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=89)** And finally, we want to get something on [[GitHub]].
 >
 > **[1:33](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/who-this-course-is-for?u=76281980&t=93)** Get a project on GitHub and show it off.
 >
@@ -177,19 +175,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Programming]] (2), [[Engineering]] (2), [[GitHub]] (2), career (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[GitHub]] (2), [[Enterprise Software]] (1)
 > **CLI Commands:** python (10), make (2)
 > **Tools:** github (2)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Laying out the code
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980)
+#### [Laying out the code](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=0)** - [Instructor] In Python, I can print a dot.
+> **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=0)** - [Instructor] In [[Python (Programming Language)|Python]], I can print a dot.
 >
 > **[0:05](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=5)** There you go.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=56)** So, I'm going to make a function called clear, and I'm going to call os.system cls if os.name is equal to nt.
 >
-> **[1:08](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=68)** So, this is the command that we're going to send to the system, if our operating system is Windows NT, because it's a little bit different, else we're going to just call clear.
+> **[1:08](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=68)** So, this is the command that we're going to send to the system, if our operating system is [[Windows]] NT, because it's a little bit different, else we're going to just call clear.
 >
 > **[1:18](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=78)** Now, I'm going to sleep for a 10th of a second, then clear the screen.
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=129)** This coordinate system might seem a little strange at first but it's common in situations where you're working with positions on top of documents.
 >
-> **[2:16](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=136)** For instance, HTML and CSS have this reversed Y-axis, as does most photo editing software, where the boundaries of a box are defined with 00 in the top left and larger numbers at the bottom right.
+> **[2:16](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=136)** For instance, [[HTML]] and CSS have this reversed Y-axis, as does most photo editing software, where the boundaries of a box are defined with 00 in the top left and larger numbers at the bottom right.
 >
 > **[2:29](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/laying-out-the-code?u=76281980&t=149)** So, first I'm going to define a canvas class.
 >
@@ -337,7 +334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[HTML]] (1), css (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[HTML]] (1)
 > **Tools:** terminal (12)
 > **CLI Commands:** make (9), python (1)
 > **Code Identifiers:** setpos (3)
@@ -351,14 +348,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: It's hip to be square
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980)
+#### [Challenge: It's hip to be square](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980&t=0)** - I am very excited about this challenge because it's introducing a project that we're going to be carrying forward through the rest of this course.
+> **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980&t=0)** - I am very excited about this challenge because it's introducing a project that we're going to be carrying forward through the [[Representational State Transfer (REST)|rest]] of this course.
 >
-> **[0:14](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980&t=14)** By the end, you should have something really cool that you can commit to GitHub, showcase in a portfolio, and really make it your own.
+> **[0:14](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980&t=14)** By the end, you should have something really cool that you can commit to [[GitHub]], showcase in a portfolio, and really make it your own.
 >
 > **[0:21](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980&t=21)** For these challenges, I encourage you to think outside the box, and use each challenge as a starting point for what you could do, rather than just another box to check.
 >
@@ -396,8 +392,7 @@ created: 2026-05-02
 > **Speakers:** - i (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: It's hip to be square
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-it-s-hip-to-be-square?u=76281980)
+#### [Solution: It's hip to be square](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-it-s-hip-to-be-square?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,8 +424,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Sense of direction
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-sense-of-direction?u=76281980)
+#### [Challenge: Sense of direction](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-sense-of-direction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -467,8 +461,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Sense of direction
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-sense-of-direction?u=76281980)
+#### [Solution: Sense of direction](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-sense-of-direction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,8 +508,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Structuring scribes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-structuring-scribes?u=76281980)
+#### [Challenge: Structuring scribes](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-structuring-scribes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -534,7 +526,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-structuring-scribes?u=76281980&t=41)** Remember to include the starting direction for each scribe and maybe give them some fun names.
 >
-> **[0:47](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-structuring-scribes?u=76281980&t=47)** Also, if you want one of your scribes to say, move forward 10 times, please don't literally type the word forward over and over and over again.
+> **[0:47](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-structuring-scribes?u=76281980&t=47)** Also, if you want one of your scribes to say, move forward 10 times, please don't literally type the [[Microsoft Word|word]] forward over and over and over again.
 >
 > **[0:55](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-structuring-scribes?u=76281980&t=55)** We're programmers now.
 >
@@ -542,15 +534,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Structuring scribes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-structuring-scribes?u=76281980)
+#### [Solution: Structuring scribes](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-structuring-scribes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +571,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-structuring-scribes?u=76281980&t=61)** So to make this easier, I flattened the list of instructions.
 >
-> **[1:06](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-structuring-scribes?u=76281980&t=66)** I used Python to convert it from something like, 'function': 'left', 'duration': 10 into a list that looks like, 'left', 'left', 'left', 'left', et cetera.
+> **[1:06](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-structuring-scribes?u=76281980&t=66)** I used [[Python (Programming Language)|Python]] to convert it from something like, 'function': 'left', 'duration': 10 into a list that looks like, 'left', 'left', 'left', 'left', et cetera.
 >
 > **[1:16](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-structuring-scribes?u=76281980&t=76)** Then when I go into my loop to iterate over the instructions, I have to get the i-th instruction for every flat set of instructions, and then just do that.
 >
@@ -590,7 +581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -601,8 +592,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Hitting a wall
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-hitting-a-wall?u=76281980)
+#### [Challenge: Hitting a wall](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-hitting-a-wall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -635,8 +625,7 @@ created: 2026-05-02
 > **Speakers:** - in (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Hitting a wall
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-hitting-a-wall?u=76281980)
+#### [Solution: Hitting a wall](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-hitting-a-wall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +677,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -698,8 +686,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Plotting the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-plotting-the-course?u=76281980)
+#### [Challenge: Plotting the course](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-plotting-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,15 +712,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Tools:** terminal (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Plotting the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-plotting-the-course?u=76281980)
+#### [Solution: Plotting the course](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-plotting-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,7 +738,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** plotx (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
@@ -765,8 +749,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Extending the scribe
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-extending-the-scribe?u=76281980)
+#### [Challenge: Extending the scribe](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-extending-the-scribe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -805,8 +788,7 @@ created: 2026-05-02
 > **Speakers:** - our (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Extending the scribe
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-extending-the-scribe?u=76281980)
+#### [Solution: Extending the scribe](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-extending-the-scribe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -855,8 +837,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: The trouble with scribbles
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-the-trouble-with-scribbles?u=76281980)
+#### [Challenge: The trouble with scribbles](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-the-trouble-with-scribbles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,15 +859,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - while (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: The trouble with scribbles
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-the-trouble-with-scribbles?u=76281980)
+#### [Solution: The trouble with scribbles](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-the-trouble-with-scribbles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,9 +893,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-the-trouble-with-scribbles?u=76281980&t=70)** So just for safety, in case I as a programmer screwed something up, I have a nice error message that happens here.
 >
-> **[1:17](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-the-trouble-with-scribbles?u=76281980&t=77)** And the rest of this is really just checking for inputs.
+> **[1:17](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-the-trouble-with-scribbles?u=76281980&t=77)** And the [[Representational State Transfer (REST)|rest]] of this is really just checking for inputs.
 >
-> **[1:21](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-the-trouble-with-scribbles?u=76281980&t=81)** So here, I'm using the issubclass function provided by Python to determine whether this canvas object that's being passed in is actually a canvas, or at least something that extends the canvas class, like canvas axis.
+> **[1:21](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-the-trouble-with-scribbles?u=76281980&t=81)** So here, I'm using the issubclass function provided by [[Python (Programming Language)|Python]] to determine whether this canvas object that's being passed in is actually a canvas, or at least something that extends the canvas class, like canvas axis.
 >
 > **[1:36](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-the-trouble-with-scribbles?u=76281980&t=96)** Then, I check the trail and the mark, convert them into strings if possible.
 >
@@ -944,7 +923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1), make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -954,8 +933,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: When I move, you move
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-when-i-move-you-move?u=76281980)
+#### [Challenge: When I move, you move](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-when-i-move-you-move?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1032,8 +1010,7 @@ created: 2026-05-02
 > **Speakers:** - good (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: When I move, you move
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-when-i-move-you-move?u=76281980)
+#### [Solution: When I move, you move](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-when-i-move-you-move?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,7 +1040,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1072,14 +1048,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Single file
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980)
+#### [Challenge: Single file](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=0)** (bright music)
 >
-> **[0:06](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=6)** - In a previous challenge, we looked at creating and running terminal scribes from data structures like dictionaries and lists.
+> **[0:06](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=6)** - In a previous challenge, we looked at creating and running terminal scribes from [[Data Structures]] like dictionaries and lists.
 >
 > **[0:13](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=13)** Now obviously dictionaries and lists can be written to files.
 >
@@ -1093,7 +1068,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=38)** So I've given you a headstart and created a fromDict and toDict method, on both the Canvas and the terminal scribe classes.
 >
-> **[0:45](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=45)** Now it's not that I doubt your Python skills, but I just wanted to make sure that it was written in such a way that it would handle any classes that extend from the parent class smoothly.
+> **[0:45](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=45)** Now it's not that I doubt your [[Python (Programming Language)|Python]] skills, but I just wanted to make sure that it was written in such a way that it would handle any classes that extend from the parent class smoothly.
 >
 > **[0:53](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=53)** Let's go to the code.
 >
@@ -1127,13 +1102,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=147)** You can see an example I wrote here in the plot scribe where I've made a custom toDict and fromDict method for that plot scribe.
 >
-> **[2:35](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=155)** So I want you to use these functions, modify them or reuse them as needed for your own code and then create the functions to file and from file that will write and read these to and from your actual text or JSON files on your computer.
+> **[2:35](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=155)** So I want you to use these functions, modify them or reuse them as needed for your own code and then create the functions to file and from file that will write and read these to and from your actual text or [[JSON]] files on your computer.
 >
 > **[2:48](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980&t=168)** All right, get filing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Structures]] (1), [[JSON]] (1)
 > **Code Identifiers:** fromdict (6), todict (6), movesfromdict (1)
 > **CLI Commands:** python (4), make (3)
 > **Tools:** terminal (4)
@@ -1142,14 +1117,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Solution: Single file
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-single-file?u=76281980)
+#### [Solution: Single file](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-single-file?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-single-file?u=76281980&t=0)** (upbeat techno music)
 >
-> **[0:06](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-single-file?u=76281980&t=6)** - [Instructor] For this solution, I chose to save the canvas and scribe objects as JSON files.
+> **[0:06](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-single-file?u=76281980&t=6)** - [Instructor] For this solution, I chose to save the canvas and scribe objects as [[JSON]] files.
 >
 > **[0:11](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-single-file?u=76281980&t=11)** This is the natural choice because we have a combination of dictionaries and lists going on here, and frankly, it's just the easiest.
 >
@@ -1189,7 +1163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), generic (1)
+> **Frameworks & Libraries:** [[JSON]] (5)
 > **Env Vars:** json (4)
 > **Code Identifiers:** todict (1), fromdict (1)
 > **Speakers:** - [instructor] (1)
@@ -1200,8 +1174,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Handling arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-handling-arguments-18720931?u=76281980)
+#### [Challenge: Handling arguments](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-handling-arguments-18720931?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1240,12 +1213,11 @@ created: 2026-05-02
 > **Speakers:** - our (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Handling arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-handling-arguments-18726725?u=76281980)
+#### [Solution: Handling arguments](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-handling-arguments-18726725?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-handling-arguments-18726725?u=76281980&t=0)** - In this challenge, you might have discovered that tearing apart Python files isn't as easy as it might seem at first glance.
+> **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-handling-arguments-18726725?u=76281980&t=0)** - In this challenge, you might have discovered that tearing apart [[Python (Programming Language)|Python]] files isn't as easy as it might seem at first glance.
 >
 > **[0:12](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/solution-handling-arguments-18726725?u=76281980&t=12)** I start by creating two directories, canvases and scribes.
 >
@@ -1310,14 +1282,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your Python journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980)
+#### [Continue your Python journey](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=0)** - [Instructor] Congratulations.
 >
-> **[0:01](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=1)** You have a large Python project with error handling and excellent user interface, multiple features, and it's beautifully documented and packaged.
+> **[0:01](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=1)** You have a large [[Python (Programming Language)|Python]] project with error handling and excellent user interface, multiple features, and it's beautifully documented and packaged.
 >
 > **[0:10](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=10)** You've also learned how to make engineering decisions, and then the hard part, live with those engineering decisions.
 >
@@ -1331,7 +1302,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=34)** It can be tough to know from the start if something is going to be the next multimillion dollar startup or just a fun afternoon of programming.
 >
-> **[0:42](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=42)** The important part isn't the destination, it's the GitHub commits that you make along the way.
+> **[0:42](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=42)** The important part isn't the destination, it's the [[GitHub]] commits that you make along the way.
 >
 > **[0:47](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=47)** You want to show potential employers that you're actively programming, that you're thinking about problems, and then coming up with ways to solve them.
 >
@@ -1339,7 +1310,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=60)** Sometimes, even a simple problem can be the seed that grows into something much larger.
 >
-> **[1:06](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=66)** Although you should be comfortable with the basics of Python programming at this point, I've included a guide to some of my favorite Python resources for more advanced topics that you might need, things like data science, data structures, web app development.
+> **[1:06](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=66)** Although you should be comfortable with the basics of Python programming at this point, I've included a guide to some of my favorite Python resources for more advanced topics that you might need, things like [[Data Science]], [[Data Structures]], web app development.
 >
 > **[1:18](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980&t=78)** If you want to go in a particular direction with Python and don't know where to start, this guide is a good place.
 >
@@ -1351,7 +1322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Programming]] (5), [[Engineering]] (2), web (2), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[GitHub]] (1), [[Data Science]] (1), [[Data Structures]] (1)
 > **CLI Commands:** python (6), make (3), find (1), go build (1)
 > **Cross-References:** coming up (1)
 > **Tools:** github (1)

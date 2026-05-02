@@ -72,12 +72,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Amazon Web Services quick tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980)
+#### [Amazon Web Services quick tips](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980&t=3)** - I'm Bear Cahill, and I've put together a group of quick tips for developers using Amazon Web Services, or AWS.
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980&t=3)** - I'm Bear Cahill, and I've put together a group of quick tips for developers using [[Amazon Web Services (AWS)|Amazon Web Services]], or AWS.
 >
 > **[0:11](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980&t=11)** These videos are designed to give you some insights and new skills when working with AWS.
 >
@@ -95,13 +94,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[Amazon Web Services (AWS)|Amazon web services]] (1), power (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (4), make (2)
 > **Env Vars:** aws (4), iam (1)
 > **Speakers:** - i (1)
 
-#### Triggering an AWS Lambda from DynamoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/triggering-an-aws-lambda-from-dynamodb-2?u=76281980)
+#### [Triggering an AWS Lambda from DynamoDB](https://www.linkedin.com/learning/aws-quick-tips-for-developers/triggering-an-aws-lambda-from-dynamodb-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,15 +137,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), aws (1), database (1)
 > **Env Vars:** iam (1), dyn (1), aws (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** aws (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scheduling a Lambda to run regularly
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/scheduling-a-lambda-to-run-regularly?u=76281980)
+#### [Scheduling a Lambda to run regularly](https://www.linkedin.com/learning/aws-quick-tips-for-developers/scheduling-a-lambda-to-run-regularly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -185,8 +181,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### Generating an API Gateway for DynamoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/generating-an-api-gateway-for-dynamodb?u=76281980)
+#### [Generating an API Gateway for DynamoDB](https://www.linkedin.com/learning/aws-quick-tips-for-developers/generating-an-api-gateway-for-dynamodb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -218,29 +213,28 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/aws-quick-tips-for-developers/generating-an-api-gateway-for-dynamodb?u=76281980&t=62)** We create this and then we have everything we need in AppSync to start using it in our apps.
 >
-> **[1:09](https://www.linkedin.com/learning/aws-quick-tips-for-developers/generating-an-api-gateway-for-dynamodb?u=76281980&t=69)** And you can get help on that here for IOS, Android, and JavaScript.
+> **[1:09](https://www.linkedin.com/learning/aws-quick-tips-for-developers/generating-an-api-gateway-for-dynamodb?u=76281980&t=69)** And you can get help on that here for IOS, [[Android]], and [[JavaScript]].
 >
 > **[1:13](https://www.linkedin.com/learning/aws-quick-tips-for-developers/generating-an-api-gateway-for-dynamodb?u=76281980&t=73)** And there you go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Android]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[JavaScript]] (1)
 > **Env Vars:** api (3), scores (1), ios (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Allowing RDS access for multiple servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/allowing-rds-access-for-multiple-servers?u=76281980)
+#### [Allowing RDS access for multiple servers](https://www.linkedin.com/learning/aws-quick-tips-for-developers/allowing-rds-access-for-multiple-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/allowing-rds-access-for-multiple-servers?u=76281980&t=3)** - [Instructor] If you create an RDS database, it'll run on an EC2 instance, and you'll only be able to connect to it from the computer you were using when you created it.
+> **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/allowing-rds-access-for-multiple-servers?u=76281980&t=3)** - [Instructor] If you create an RDS database, it'll run on an [[Amazon EC2|EC2]] instance, and you'll only be able to connect to it from the computer you were using when you created it.
 >
 > **[0:11](https://www.linkedin.com/learning/aws-quick-tips-for-developers/allowing-rds-access-for-multiple-servers?u=76281980&t=11)** I beat my head against the wall on this one for a while, so hopefully it'll help you out.
 >
-> **[0:15](https://www.linkedin.com/learning/aws-quick-tips-for-developers/allowing-rds-access-for-multiple-servers?u=76281980&t=15)** So from this machine, I can connect to it using MySQL Shell or MySQL Workbench, but nobody else from other machines can if they need to do some administration.
+> **[0:15](https://www.linkedin.com/learning/aws-quick-tips-for-developers/allowing-rds-access-for-multiple-servers?u=76281980&t=15)** So from this machine, I can connect to it using [[MySQL]] Shell or MySQL Workbench, but nobody else from other machines can if they need to do some administration.
 >
 > **[0:24](https://www.linkedin.com/learning/aws-quick-tips-for-developers/allowing-rds-access-for-multiple-servers?u=76281980&t=24)** If you go to the Connectivity & Security settings and scroll down, you'll see that the Inbound is set for the IP address of the computer that you're on.
 >
@@ -252,15 +246,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[MySQL]] (2), [[Security]] (2), database (1), management (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[MySQL]] (2)
 > **UI Navigation:** go to (2), click on (2), scroll down (1)
 > **CLI Commands:** mysql (2), make (1)
 > **Env Vars:** ec2 (2), rds (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sending email from an AWS Lambda
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980)
+#### [Sending email from an AWS Lambda](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -282,7 +275,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980&t=48)** You don't need both, but SendRawEmail allows you to attach headers if you want to do that in your email.
 >
-> **[0:54](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980&t=54)** Then in my lambda code, I'm using Python 3.7.
+> **[0:54](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980&t=54)** Then in my lambda code, I'm using [[Python (Programming Language)|Python]] 3.7.
 >
 > **[0:57](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980&t=57)** And I import boto3 in the exceptions for error handling.
 >
@@ -290,7 +283,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980&t=68)** We set up our client, specifying SES in one of the regions where it's available.
 >
-> **[1:12](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980&t=72)** Then we call send_email and specify the to address, the body in HTML and text, and the subject, and then finally the from email address as the source.
+> **[1:12](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980&t=72)** Then we call send_email and specify the to address, the body in [[HTML]] and text, and the subject, and then finally the from email address as the source.
 >
 > **[1:23](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sending-email-from-an-aws-lambda-2?u=76281980&t=83)** We check for errors and look for the "message": "success" when we run it.
 >
@@ -311,8 +304,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring AWS billing with alarms
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/monitoring-aws-billing-with-alarms?u=76281980)
+#### [Monitoring AWS billing with alarms](https://www.linkedin.com/learning/aws-quick-tips-for-developers/monitoring-aws-billing-with-alarms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -338,14 +330,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), aws (1), cloud (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Env Vars:** aws (1), sns (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting triggers for S3 bucket events
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/setting-triggers-for-s3-bucket-events?u=76281980)
+#### [Setting triggers for S3 bucket events](https://www.linkedin.com/learning/aws-quick-tips-for-developers/setting-triggers-for-s3-bucket-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -379,8 +369,7 @@ created: 2026-05-02
 > **Env Vars:** sns (1), sqs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting an S3 bucket from deletion
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/protecting-an-s3-bucket-from-deletion?u=76281980)
+#### [Protecting an S3 bucket from deletion](https://www.linkedin.com/learning/aws-quick-tips-for-developers/protecting-an-s3-bucket-from-deletion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,8 +406,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving money with S3 Glacier
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/saving-money-with-s3-glacier?u=76281980)
+#### [Saving money with S3 Glacier](https://www.linkedin.com/learning/aws-quick-tips-for-developers/saving-money-with-s3-glacier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,13 +434,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using CloudTrail for user action audits
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/using-cloudtrail-for-user-action-audits?u=76281980)
+#### [Using CloudTrail for user action audits](https://www.linkedin.com/learning/aws-quick-tips-for-developers/using-cloudtrail-for-user-action-audits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,14 +470,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), aws (1)
 > **Env Vars:** aws (1), sns (1), tco (1)
 > **CLI Commands:** aws (1), make (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting user policies with IAM groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/setting-user-policies-with-iam-groups?u=76281980)
+#### [Setting user policies with IAM groups](https://www.linkedin.com/learning/aws-quick-tips-for-developers/setting-user-policies-with-iam-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -523,15 +507,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), next (2), aws (1), [[Search]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hitting an AWS Lambda via API Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/hitting-an-aws-lambda-via-api-gateway?u=76281980)
+#### [Hitting an AWS Lambda via API Gateway](https://www.linkedin.com/learning/aws-quick-tips-for-developers/hitting-an-aws-lambda-via-api-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,7 +523,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/aws-quick-tips-for-developers/hitting-an-aws-lambda-via-api-gateway?u=76281980&t=11)** It's basically just a simple function that returns the status, code headers, and bodies.
 >
-> **[0:15](https://www.linkedin.com/learning/aws-quick-tips-for-developers/hitting-an-aws-lambda-via-api-gateway?u=76281980&t=15)** We're using text/plain, but you could use application/json or whatever else you need, but this format is important because when it creates the API Gateway for us it's going to use Lambda proxy and it'll expect this format.
+> **[0:15](https://www.linkedin.com/learning/aws-quick-tips-for-developers/hitting-an-aws-lambda-via-api-gateway?u=76281980&t=15)** We're using text/plain, but you could use application/[[JSON]] or whatever else you need, but this format is important because when it creates the API Gateway for us it's going to use Lambda proxy and it'll expect this format.
 >
 > **[0:28](https://www.linkedin.com/learning/aws-quick-tips-for-developers/hitting-an-aws-lambda-via-api-gateway?u=76281980&t=28)** We can add the trigger, select the API Gateway trigger, set the security to Open and add it.
 >
@@ -561,13 +543,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), application (1), [[JSON]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** api (5), url (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an SNS event with S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/creating-an-sns-event-with-s3?u=76281980)
+#### [Creating an SNS event with S3](https://www.linkedin.com/learning/aws-quick-tips-for-developers/creating-an-sns-event-with-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -577,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/aws-quick-tips-for-developers/creating-an-sns-event-with-s3?u=76281980&t=16)** So I'm going to click create topic and I'm going to name it kicker for Lambda kicker, and we have to change the access policy to allow anyone to publish to this topic.
 >
-> **[0:26](https://www.linkedin.com/learning/aws-quick-tips-for-developers/creating-an-sns-event-with-s3?u=76281980&t=26)** That updates our JSON permissions here with the principle of asterisk.
+> **[0:26](https://www.linkedin.com/learning/aws-quick-tips-for-developers/creating-an-sns-event-with-s3?u=76281980&t=26)** That updates our [[JSON]] permissions here with the principle of asterisk.
 >
 > **[0:30](https://www.linkedin.com/learning/aws-quick-tips-for-developers/creating-an-sns-event-with-s3?u=76281980&t=30)** Then I'm going to create the topic.
 >
@@ -595,21 +576,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** sns (3), aws (1), json (1)
 > **UI Navigation:** go to (2), dropdown (1), scroll down (1)
 > **CLI Commands:** aws (1), make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Easily hosting a web app on S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/easily-hosting-a-web-app-on-s3?u=76281980)
+#### [Easily hosting a web app on S3](https://www.linkedin.com/learning/aws-quick-tips-for-developers/easily-hosting-a-web-app-on-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/aws-quick-tips-for-developers/easily-hosting-a-web-app-on-s3?u=76281980&t=3)** - [Instructor] If you want to host your web app on AWS, Amplify can do it for you.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-quick-tips-for-developers/easily-hosting-a-web-app-on-s3?u=76281980&t=7)** I have a basic react app I created with the NPM init react app command.
+> **[0:07](https://www.linkedin.com/learning/aws-quick-tips-for-developers/easily-hosting-a-web-app-on-s3?u=76281980&t=7)** I have a basic [[React.js|react]] app I created with the [[npm]] init react app command.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-quick-tips-for-developers/easily-hosting-a-web-app-on-s3?u=76281980&t=12)** You can find out more about that at the Create React App Getting Started page.
 >
@@ -639,7 +619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[React.js|React]] (3), web (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[npm]] (1)
 > **CLI Commands:** aws (3), npm (1), find (1)
 > **Prerequisites:** configure (2), getting started (1), install (1), set up (1)
 > **Env Vars:** aws (3), npm (1)
@@ -647,8 +627,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limiting access via IAM boundaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/limiting-access-via-iam-boundaries?u=76281980)
+#### [Limiting access via IAM boundaries](https://www.linkedin.com/learning/aws-quick-tips-for-developers/limiting-access-via-iam-boundaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,14 +665,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Env Vars:** iam (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enable MFA for root security
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/enable-mfa-for-root-security?u=76281980)
+#### [Enable MFA for root security](https://www.linkedin.com/learning/aws-quick-tips-for-developers/enable-mfa-for-root-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,23 +680,22 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/aws-quick-tips-for-developers/enable-mfa-for-root-security?u=76281980&t=13)** I can click here and then click Manage MFA, or from pretty much anywhere in AWS under your user account, you can go to My Security Credentials.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-quick-tips-for-developers/enable-mfa-for-root-security?u=76281980&t=22)** From here, you can continue on and then expand the multi-factor authentication area and activate MFA.
+> **[0:22](https://www.linkedin.com/learning/aws-quick-tips-for-developers/enable-mfa-for-root-security?u=76281980&t=22)** From here, you can continue on and then expand the [[Multi-factor Authentication]] area and activate MFA.
 >
-> **[0:29](https://www.linkedin.com/learning/aws-quick-tips-for-developers/enable-mfa-for-root-security?u=76281980&t=29)** You have a few different options, including apps or hardware devices, and in each case, it'll step you through the process, even giving you some help in listing what applications are available and how much they cost.
+> **[0:29](https://www.linkedin.com/learning/aws-quick-tips-for-developers/enable-mfa-for-root-security?u=76281980&t=29)** You have a few different options, including apps or [[Hardware]] devices, and in each case, it'll step you through the process, even giving you some help in listing what applications are available and how much they cost.
 >
 > **[0:42](https://www.linkedin.com/learning/aws-quick-tips-for-developers/enable-mfa-for-root-security?u=76281980&t=42)** Once you've enabled it, you'll have MFA on your account and you'll be even more secure than ever.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Security]] (2), [[Multi-factor Authentication]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (1), [[Hardware]] (1)
 > **Env Vars:** mfa (4), aws (2)
 > **CLI Commands:** aws (2)
 > **UI Navigation:** go to (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### IAM credential report
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/iam-credential-report?u=76281980)
+#### [IAM credential report](https://www.linkedin.com/learning/aws-quick-tips-for-developers/iam-credential-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,8 +722,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cognito user pool triggers
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/cognito-user-pool-triggers?u=76281980)
+#### [Cognito user pool triggers](https://www.linkedin.com/learning/aws-quick-tips-for-developers/cognito-user-pool-triggers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -783,14 +758,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sqs?u=76281980)
+#### [SQS](https://www.linkedin.com/learning/aws-quick-tips-for-developers/sqs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,15 +801,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1)
 > **CLI Commands:** make (2), aws (1)
 > **Env Vars:** aws (1), sqs (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CloudFront
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/cloudfront?u=76281980)
+#### [CloudFront](https://www.linkedin.com/learning/aws-quick-tips-for-developers/cloudfront?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -846,7 +817,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/aws-quick-tips-for-developers/cloudfront?u=76281980&t=12)** So let's look at an example.
 >
-> **[0:14](https://www.linkedin.com/learning/aws-quick-tips-for-developers/cloudfront?u=76281980&t=14)** I have an S3 bucket here, and I want to distribute the files inside of it around the world, but only the files in this files folder, and in this files folder, I have one file, the highly-important index.html.
+> **[0:14](https://www.linkedin.com/learning/aws-quick-tips-for-developers/cloudfront?u=76281980&t=14)** I have an S3 bucket here, and I want to distribute the files inside of it around the world, but only the files in this files folder, and in this files folder, I have one file, the highly-important index.[[HTML]].
 >
 > **[0:27](https://www.linkedin.com/learning/aws-quick-tips-for-developers/cloudfront?u=76281980&t=27)** So let's create a distribution for it.
 >
@@ -872,7 +843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), web (2)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **File Paths:** index.html (2)
 > **Env Vars:** rtmp (1)
 > **UI Navigation:** click on (1)

@@ -64,12 +64,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Built-in machine learning in the Wolfram language
-> [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980)
+#### [Built-in machine learning in the Wolfram language](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=3)** - [Abrita] Hello, and welcome to this tutorial on built-in machine learning in the Wolfram language.
+> **[0:03](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=3)** - [Abrita] Hello, and welcome to this tutorial on built-in machine learning in the [[Wolfram Language]].
 >
 > **[0:08](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=8)** My name is Abrita Chakravarty, and I'm going to talk to you about some functions available in the Wolfram language that make it really easy to perform specific machine learning tasks.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=118)** So the Wolfram language offers a number of pre-trained classifiers.
 >
-> **[2:03](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=123)** These perform specific tasks in computer vision, natural language processing applications, and so on.
+> **[2:03](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=123)** These perform specific tasks in [[Computer Vision]], [[Natural Language Processing (NLP)|natural language processing]] applications, and so on.
 >
 > **[2:09](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=129)** These classifiers have been trained on a large amount of data, and their parameters have been tuned for optimal performance.
 >
@@ -145,13 +144,13 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=343)** We also have a programming language classifier, and you use it by specifying the name ProgrammingLanguage as a named classifier for the Classify function, and then you can provide pieces of text from different programming languages, and you will see that they can be identified as a programming language from which this syntax came from.
 >
-> **[6:08](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=368)** So here, we have different programming languages, like Perl, JavaScript, C#, the shell script from Bourne shell, and the Wolfram language identified as the programming languages.
+> **[6:08](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=368)** So here, we have different programming languages, like Perl, [[JavaScript]], C#, the shell script from Bourne shell, and the Wolfram language identified as the programming languages.
 >
 > **[6:22](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=382)** And finally, once more, the example that I showed right at the beginning of identifying notable people from their images.
 >
 > **[6:30](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=390)** The name of the classifier is NotablePerson, and the way you use it is by providing the name NotablePerson as the first option for the Classify function, and then you provide the test images, and you can also provide various options to modify the results.
 >
-> **[6:47](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=407)** So when we just use the classifier without these special options, we just get back the decision, like who this person is not identified as, but with these options like TopProbabilities, probabilities and so on, we get the probability with which the classifier has identified a particular person from this image.
+> **[6:47](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=407)** So when we just use the classifier without these special options, we just get back the decision, like who this person is not identified as, but with these options like TopProbabilities, probabilities and so on, we get the [[Probability]] with which the classifier has identified a particular person from this image.
 >
 > **[7:11](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980&t=431)** So let's take a look at this quick example here.
 >
@@ -201,7 +200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wolfram Language]] (11), [[Programming]] (5), [[Computer Vision]] (4), data (3), web (1)
+> **Frameworks & Libraries:** [[Wolfram Language]] (11), [[Computer Vision]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[JavaScript]] (1), [[Probability]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** make (1), cat (1)
 > **Definitions:** is called (1), is a  (1)
@@ -212,12 +211,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dedicated functions: Natural language processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980)
+#### [Dedicated functions: Natural language processing](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=1)** - [Instructor] Moving on to more dedicated functions, this time for natural language processing.
+> **[0:01](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=1)** - [Instructor] Moving on to more dedicated functions, this time for [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:06](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=6)** So we already saw the language classifier used with the Classify function, but this time we used the dedicated function of LanguageIdentify.
 >
@@ -225,7 +223,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=32)** WordTranslation is a similar example.
 >
-> **[0:37](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=37)** If you give it a word, then it'll translate it to whatever is specified by the options here.
+> **[0:37](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=37)** If you give it a [[Microsoft Word|word]], then it'll translate it to whatever is specified by the options here.
 >
 > **[0:46](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=46)** So we give it the word in German, and I ask WordTranslate to translate the word from German to English, French, and Esperanto.
 >
@@ -259,7 +257,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=195)** This particular word with the little, with the cursive joining of letters of K and N, the I in there, this was incorrectly recognized as something like an X in this piece of text, and that sort of threw the translation off a little bit.
 >
-> **[3:34](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=214)** But this is a quick example of how you can do something like recognizing text from images of books and then actually translating them on the fly very easily using the Wolfram Language.
+> **[3:34](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=214)** But this is a quick example of how you can do something like recognizing text from images of books and then actually translating them on the fly very easily using the [[Wolfram Language]].
 >
 > **[3:48](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980&t=228)** So let's move on to other functions, like TextStructure and TextCases.
 >
@@ -339,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Wolfram Language]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Wolfram Language]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** for example (3), just like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)

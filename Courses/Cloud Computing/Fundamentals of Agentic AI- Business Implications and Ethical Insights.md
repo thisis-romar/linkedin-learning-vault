@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to agentic AI for businesses
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/introduction-to-agentic-ai-for-businesses?u=76281980)
+#### [Introduction to agentic AI for businesses](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/introduction-to-agentic-ai-for-businesses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,13 +87,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/introduction-to-agentic-ai-for-businesses?u=76281980&t=38)** My name is Zack Kass.
 >
-> **[0:39](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/introduction-to-agentic-ai-for-businesses?u=76281980&t=39)** I'm the former head of Go-to-Market at OpenAI, the creator of ChatGPT, and now I advise businesses and organizations on how AI is redefining the human experience.
+> **[0:39](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/introduction-to-agentic-ai-for-businesses?u=76281980&t=39)** I'm the former head of Go-to-Market at OpenAI, the creator of [[ChatGPT]], and now I advise businesses and organizations on how AI is redefining the human experience.
 >
 > **[0:49](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/introduction-to-agentic-ai-for-businesses?u=76281980&t=49)** I am so excited to guide you through this transformative technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
 
@@ -103,18 +102,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is agentic AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980)
+#### [What is agentic AI?](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=0)** - When you think of AI, you might imagine generative tools, like ChatGPT, Bard, or Claude, where users provide text prompts or audio cues to generate new content.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=0)** - When you think of AI, you might imagine generative tools, like [[ChatGPT]], Bard, or Claude, where users provide text prompts or audio cues to generate new content.
 >
 > **[0:11](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=11)** And while these tools are very useful, they're not agentic.
 >
-> **[0:14](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=14)** So I'd like to take a moment now to define agentic AI and help differentiate it from other forms.
+> **[0:14](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=14)** So I'd like to take a moment now to define agentic AI and help differentiate it from other [[Forms]].
 >
-> **[0:21](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=21)** Agentic AI refers to systems designed to operate autonomously, utilizing independent decision-making to complete specific goals.
+> **[0:21](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=21)** Agentic AI refers to systems designed to operate autonomously, utilizing independent [[Decision-Making]] to complete specific goals.
 >
 > **[0:29](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=29)** You give them a task, they complete it.
 >
@@ -130,9 +128,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=75)** Autonomous vehicles are equipped with AI tools that can navigate roads, recognize obstacles, and make split second decisions without human intervention.
 >
-> **[1:24](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=84)** A specific example is Tesla's self-driving car capabilities, which have the ability to switch lanes, park, and even react to traffic conditions.
+> **[1:24](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=84)** A specific example is Tesla's self-driving car capabilities, which have the ability to switch lanes, park, and even [[React.js|react]] to traffic conditions.
 >
-> **[1:33](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=93)** Next, consider robotic process automation or RPA.
+> **[1:33](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=93)** Next, consider [[Robotic Process Automation (RPA)|robotic process automation]] or RPA.
 >
 > **[1:37](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=97)** Imagine software bots carrying out data entry tasks or robotic machines instructed to mix salads in a local fast food shop.
 >
@@ -140,11 +138,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=119)** Finally, think about virtual personal assistance, like Siri or Alexa.
 >
-> **[2:03](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=123)** These AI agents can schedule meetings for you, turn on alarms, make calls, and much more, all by processing your natural language commands and making decisions to execute your requests.
+> **[2:03](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=123)** These [[AI Agents]] can schedule meetings for you, turn on alarms, make calls, and much more, all by processing your natural language commands and making decisions to execute your requests.
 >
 > **[2:16](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=136)** There are plenty of other examples of a agentic AI in action, however, these are some of the most common practices we see today.
 >
-> **[2:23](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=143)** As the technology advances though, these agents will be able to carry out even more complex tasks, such as end-to-end software development or even video production.
+> **[2:23](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=143)** As the technology advances though, these agents will be able to carry out even more complex tasks, such as end-to-end [[Software Development]] or even [[Video Production]].
 >
 > **[2:33](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980&t=153)** Pause for a moment and try to recall agentic AI's two differentiating features.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Decision-Making]] (4), [[Forms]] (2), [[ChatGPT]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (4), [[Forms]] (2), [[ChatGPT]] (1), [[React.js|React]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Analogies:** imagine (2), such as (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rpa (1)
@@ -166,14 +164,13 @@ created: 2026-05-02
 > **Speakers:** - when (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### How does agentic AI broadly function?
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980)
+#### [How does agentic AI broadly function?](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=1)** - Each agentic AI system operates uniquely relative to its assigned goal.
 >
-> **[0:05](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=5)** However, most systems abide by the same fundamental mechanisms: perception, decision-making, autonomous action, and learning and adaptation.
+> **[0:05](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=5)** However, most systems abide by the same fundamental mechanisms: perception, [[Decision-Making]], autonomous action, and learning and adaptation.
 >
 > **[0:14](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=14)** Let's start with perception.
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=32)** Here the agents analyze the gathered information to make an informed decision.
 >
-> **[0:37](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=37)** Advanced algorithms and machine learning models evaluate possible actions and select the best one to achieve its programmed specific goals.
+> **[0:37](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=37)** Advanced [[Algorithms]] and machine learning models evaluate possible actions and select the best one to achieve its programmed specific goals.
 >
 > **[0:46](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=46)** The third mechanism is autonomous action.
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=67)** Most agentic AI tools are equipped with the ability to learn from past experiences and actions.
 >
-> **[1:13](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=73)** Through reinforcement learning and neural networks, these systems continuously improve and adapt their strategies based on new information.
+> **[1:13](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=73)** Through [[Reinforcement Learning]] and [[Neural Networks]], these systems continuously improve and adapt their strategies based on new information.
 >
 > **[1:21](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-does-agentic-ai-broadly-function?u=76281980&t=81)** Most important in how agentic AI functions is its ability to act autonomously.
 >
@@ -211,20 +208,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (4), next (2), [[Decision-Making]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Algorithms]] (1), [[Reinforcement Learning]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - each (1)
 
-#### Historical improvements and limitations
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/historical-improvements-and-limitations?u=76281980)
+#### [Historical improvements and limitations](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/historical-improvements-and-limitations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/historical-improvements-and-limitations?u=76281980&t=0)** - The evolution of Agentic AI has rapidly progressed in the past few years, but there's still lots of room for technological growth.
 >
-> **[0:08](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/historical-improvements-and-limitations?u=76281980&t=8)** Two examples of key improvements that have allowed for the progress we see today include reinforcement learning and convolutional neural networks.
+> **[0:08](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/historical-improvements-and-limitations?u=76281980&t=8)** Two examples of key improvements that have allowed for the progress we see today include [[Reinforcement Learning]] and [[Convolutional Neural Networks (CNN)|convolutional neural networks]].
 >
 > **[0:17](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/historical-improvements-and-limitations?u=76281980&t=17)** Reinforcement learning allows systems to improve their behavior and strategies by receiving feedback from their actions.
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Reinforcement Learning]] (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), data (1), business (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -267,8 +263,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Impacts on processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980)
+#### [Impacts on processes](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -282,7 +277,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980&t=27)** Let me share two examples.
 >
-> **[0:29](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980&t=29)** With supply chain management, Agentic AI will monitor inventory levels in real time, predict demand, and automatically place orders, ensuring stock levels are always optimal, without human intervention.
+> **[0:29](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980&t=29)** With [[Supply Chain Management]], Agentic AI will monitor inventory levels in real time, predict demand, and automatically place orders, ensuring stock levels are always optimal, without human intervention.
 >
 > **[0:41](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980&t=41)** Meanwhile, in customer service, AI will handle basic inquiries and support tasks, such as answering frequently asked questions and processing returns.
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980&t=59)** Next, let's consider productivity.
 >
-> **[1:01](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980&t=61)** By leveraging Agentic AI, businesses will gain much deeper insight from data, enabling much more informed decision-making.
+> **[1:01](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980&t=61)** By leveraging Agentic AI, businesses will gain much deeper insight from data, enabling much more informed [[Decision-Making]].
 >
 > **[1:08](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980&t=68)** Regardless of industry, AI will also analyze market trends and customer data, to identify investment opportunities and risks, offering valuable recommendations to human employees.
 >
@@ -304,12 +299,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), business (2), data (2), [[Supply Chain Management]] (1), next (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Changing team dynamics
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980)
+#### [Changing team dynamics](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,11 +315,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=24)** This shift requires teams to adapt their workflows and collaboration strategies.
 >
-> **[0:29](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=29)** Project managers may need to learn how to delegate tasks to AI agents and monitor their performance effectively.
+> **[0:29](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=29)** Project managers may need to learn how to delegate tasks to [[AI Agents]] and monitor their performance effectively.
 >
 > **[0:36](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=36)** Additionally, communication within teams will evolve as AI agents provide updates, summaries, and feedback on both the team's work and their own contributions.
 >
-> **[0:47](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=47)** Agentic AI can enhance team collaboration by handling administrative and routine tasks, allowing human team members to focus on higher level problem solving and creativity.
+> **[0:47](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=47)** Agentic AI can enhance [[Team Collaboration]] by handling administrative and routine tasks, allowing human team members to focus on higher level problem solving and creativity.
 >
 > **[0:57](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=57)** This can lead to a more dynamic and innovative work environment and ultimately much more job satisfaction.
 >
@@ -335,7 +329,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=70)** One, establishing clear guidelines and protocols for interacting with AI agents.
 >
-> **[1:16](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=76)** Two, ensuring that AI agents are transparent in their decision-making process.
+> **[1:16](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=76)** Two, ensuring that AI agents are transparent in their [[Decision-Making]] process.
 >
 > **[1:21](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/changing-team-dynamics?u=76281980&t=81)** We'll call this explainability.
 >
@@ -345,12 +339,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), teams (3), [[Team Collaboration]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Team Collaboration]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### Varying implications across industries
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980)
+#### [Varying implications across industries](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,23 +353,23 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=13)** Agentic AI will significantly enhance diagnostic and patient care.
 >
-> **[0:18](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=18)** AI agents will analyze medical images to detect early signs of diseases, recommend personalized treatment plans, and monitor patient health in real time.
+> **[0:18](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=18)** [[AI Agents]] will analyze medical images to detect early signs of diseases, recommend personalized treatment plans, and monitor patient health in real time.
 >
 > **[0:27](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=27)** These applications not only improve patient outcomes, but also enable much more efficient and less expensive healthcare delivery.
 >
-> **[0:36](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=36)** For retail, Agentic AI will greatly improve customer shopping experience by offering personalized recommendations, managing inventory, and optimizing supply chain operations.
+> **[0:36](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=36)** For retail, Agentic AI will greatly improve customer shopping experience by offering personalized recommendations, managing inventory, and optimizing [[Supply Chain Operations]].
 >
-> **[0:47](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=47)** AI-driven chatbots will assist customers with product inquiries and purchases, while predictive analytics already enable retailers to anticipate demand and manage stock levels more efficiently.
+> **[0:47](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=47)** AI-driven chatbots will assist customers with product inquiries and purchases, while [[Predictive Analytics]] already enable retailers to anticipate demand and manage stock levels more efficiently.
 >
 > **[0:58](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=58)** There are many ways Agentic AI will influence finance, including fraud detection, risk management, and investment strategies.
 >
-> **[1:06](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=66)** AI agents will analyze vast amounts of financial data, certainly more than humanly possible, to identify suspicious activities, assess credit risk, and recommend investment opportunities, helping financial institutions make better informed decisions, and lowering the cost of financial goods and services.
+> **[1:06](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=66)** AI agents will analyze vast amounts of [[Financial Data]], certainly more than humanly possible, to identify suspicious activities, assess credit risk, and recommend investment opportunities, helping financial institutions make better informed decisions, and lowering the cost of financial goods and services.
 >
 > **[1:23](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=83)** Recognizing the vast benefits of Agentic AI across sectors will help you think of use cases for your own company or organization.
 >
 > **[1:31](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=91)** Take a moment now and note a few opportunities in your department or industry.
 >
-> **[1:36](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=96)** As you explore these possibilities, it's crucial to address issues related to data privacy, security, and AI ethics, which we will touch on more in the next section.
+> **[1:36](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=96)** As you explore these possibilities, it's crucial to address issues related to [[Data Privacy]], security, and AI [[Ethics]], which we will touch on more in the next section.
 >
 > **[1:46](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/varying-implications-across-industries?u=76281980&t=106)** Leaders across all industries are actively working to ensure that AI agents operate transparently and align with industry standards and regulations.
 >
@@ -384,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Supply Chain Operations]] (1), product (1), [[Predictive Analytics]] (1), management (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Supply Chain Operations]] (1), [[Predictive Analytics]] (1), [[Financial Data]] (1), [[Data Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - we (1)
@@ -394,8 +387,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Realized versus expected applications of agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980)
+#### [Realized versus expected applications of agentic AI](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,7 +407,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=47)** Another example of agentic AI is an autonomous agriculture, where AI powered machines, such as tractors and harvesters, independently perform tasks like planting, watering, and harvesting crops.
 >
-> **[0:59](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=59)** These machines are equipped with sensors and AI algorithms that allow them to assess soil conditions, monitor crop health, and make real-time decisions to optimize yield.
+> **[0:59](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=59)** These machines are equipped with sensors and AI [[Algorithms]] that allow them to assess soil conditions, monitor crop health, and make [[Real-Time]] decisions to optimize yield.
 >
 > **[1:09](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=69)** They can navigate fields, apply fertilizers precisely where needed, and even adjust their actions based on weather conditions, all without human intervention.
 >
@@ -427,13 +419,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=102)** The future possibilities of agentic AI.
 >
-> **[1:45](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=105)** End-to-end business processes will soon become a reality with agentic AI systems that can autonomously design, code, test, and deliver entire apps or products.
+> **[1:45](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=105)** End-to-end business processes will soon become a reality with agentic AI systems that can autonomously design, code, test, and deliver entire apps or [[Microsoft Products|products]].
 >
-> **[1:55](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=115)** This will apply to creative production, marketing, software development, and many other industries.
+> **[1:55](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=115)** This will apply to creative production, marketing, [[Software Development]], and many other industries.
 >
 > **[2:01](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=121)** In the coming years, we can expect these AI systems to handle even more complex tasks from start to finish, fully transforming how businesses operate.
 >
-> **[2:11](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=131)** Real-time decision-making is also a powerful application, where systems will analyze vast amounts of data within milliseconds to predict trends and optimize outcomes.
+> **[2:11](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=131)** Real-time [[Decision-Making]] is also a powerful application, where systems will analyze vast amounts of data within milliseconds to predict trends and optimize outcomes.
 >
 > **[2:21](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980&t=141)** This ability allows businesses to make faster, more accurate decisions than ever before, giving them a significant competitive edge in a rapidly changing environment.
 >
@@ -447,23 +439,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Real-Time]] (2), management (1), power (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Algorithms]] (1), [[Microsoft Products|Products]] (1), [[Software Development]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Warnings:** caution (1)
 > **Speakers:** - when (1)
 
-#### Ethical concerns of implementing AI into business practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980)
+#### [Ethical concerns of implementing AI into business practices](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=0)** - The rise of Agentic AI brings with it not only opportunities, but also significant ethical challenges.
 >
-> **[0:06](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=6)** As businesses increasingly rely on AI for decision-making and operations, exploring ethical concerns is crucial to ensure responsible deployment.
+> **[0:06](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=6)** As businesses increasingly rely on AI for [[Decision-Making]] and operations, exploring ethical concerns is crucial to ensure responsible deployment.
 >
-> **[0:16](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=16)** Let's go over some specific terms you may hear when talking about AI ethics.
+> **[0:16](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=16)** Let's go over some specific terms you may hear when talking about AI [[Ethics]].
 >
 > **[0:20](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=20)** Undue semantics, blast radius, and principles of least privilege.
 >
@@ -489,7 +480,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=102)** Our final concept to explore is the principle of least privilege.
 >
-> **[1:46](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=106)** This concept, originating from cybersecurity and system design, is also relevant to Agentic AI.
+> **[1:46](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=106)** This concept, originating from [[Cybersecurity]] and system design, is also relevant to Agentic AI.
 >
 > **[1:52](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/ethical-concerns-of-implementing-ai-into-business-practices?u=76281980&t=112)** The principle asserts that systems should only have the minimum access necessary to perform their tasks.
 >
@@ -513,18 +504,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (5), [[Decision-Making]] (2), [[Ethics]] (2), next (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Ethics]] (2), [[Cybersecurity]] (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Definitions:** refers to (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
 
-#### Planning for AI ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980)
+#### [Planning for AI ethics](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=0)** - While AI ethics could be an entire course on its own, I want to share with you three points that can help your organization or business start planning for ethical challenges associated with AI.
+> **[0:00](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=0)** - While AI [[Ethics]] could be an entire course on its own, I want to share with you three points that can help your organization or business start planning for ethical challenges associated with AI.
 >
 > **[0:12](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=12)** These steps will help you craft a proactive approach, leaving room for upcoming changes and advancements in technology.
 >
@@ -536,7 +526,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=32)** Start by asking critical questions such as who is responsible for the decisions made by agent AI and who will monitor the tools being used.
 >
-> **[0:42](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=42)** It's crucial to ensure that AI systems are transparent in their decision-making processes.
+> **[0:42](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=42)** It's crucial to ensure that AI systems are transparent in their [[Decision-Making]] processes.
 >
 > **[0:47](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=47)** Additionally, make sure that these AI tools are aligned with your organization's values and societal norms, helping to guide ethical AI implementation.
 >
@@ -548,7 +538,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=71)** Consistent monitoring is key to catching any problems early and ensuring that the AI continues to operate safely and effectively.
 >
-> **[1:20](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=80)** Last, foster a culture of informed accountability.
+> **[1:20](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=80)** Last, foster a culture of informed [[Accountability]].
 >
 > **[1:24](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=84)** It's crucial to create a culture where both AI developers and users are aware of and accountable for the outcomes of AI decisions.
 >
@@ -566,11 +556,11 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=131)** Remember, the key to ethical AI isn't just in reacting to issues as they arise, but in proactively planning and embedding ethical considerations into every step of AI implementation.
 >
-> **[2:23](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=143)** This forward thinking approach will also not only help mitigate risk, but position your organization as a leader in responsible AI use.
+> **[2:23](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/planning-for-ai-ethics?u=76281980&t=143)** This forward thinking approach will also not only help mitigate risk, but position your organization as a leader in [[Responsible AI]] use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Accountability]] (2), [[Ethics]] (1), business (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Ethics]] (1), [[Decision-Making]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - while (1)
@@ -580,8 +570,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How agentic AI may evolve in the next ten years
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980)
+#### [How agentic AI may evolve in the next ten years](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,7 +582,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980&t=20)** One of the most significant advancements we can expect is a great leap in the autonomy and decision making abilities of Agentic AI systems.
 >
-> **[0:29](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980&t=29)** These AI agents will evolve to handle increasingly complex tasks with minimal human intervention.
+> **[0:29](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980&t=29)** These [[AI Agents]] will evolve to handle increasingly complex tasks with minimal human intervention.
 >
 > **[0:35](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980&t=35)** Think of AI agents that can manage entire projects from strategy formulation to execution.
 >
@@ -619,7 +608,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980&t=114)** While in finance they could become indispensable in managing portfolios or detecting fraud.
 >
-> **[2:00](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980&t=120)** No matter the case, Agentic AI tools will be more specialized than generative AI tools, given their need to process information like an industry expert.
+> **[2:00](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980&t=120)** No matter the case, Agentic AI tools will be more specialized than [[Generative AI Tools]], given their need to process information like an industry expert.
 >
 > **[2:10](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980&t=130)** In summary, the next decade will be a period of rapid growth and evolution for Agentic AI.
 >
@@ -627,14 +616,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), next (2), teams (1), data (1), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (6), [[Generative AI Tools]] (1)
 > **Analogies:** for example (2), such as (1), just like (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - agentic (1)
 
-#### Upcoming challenges with rapid innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/upcoming-challenges-with-rapid-innovation?u=76281980)
+#### [Upcoming challenges with rapid innovation](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/upcoming-challenges-with-rapid-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/upcoming-challenges-with-rapid-innovation?u=76281980&t=33)** To navigate this, organizations have to encourage continuous learning and agility, ensuring that teams are always up-to-date with the latest developments and ready to adapt.
 >
-> **[0:44](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/upcoming-challenges-with-rapid-innovation?u=76281980&t=44)** Second, managing data privacy and security.
+> **[0:44](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/upcoming-challenges-with-rapid-innovation?u=76281980&t=44)** Second, managing [[Data Privacy]] and security.
 >
 > **[0:48](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/upcoming-challenges-with-rapid-innovation?u=76281980&t=48)** It's a tough task when AI systems become more powerful and pervasive.
 >
@@ -676,11 +664,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/upcoming-challenges-with-rapid-innovation?u=76281980&t=115)** Maintaining constant AI innovation, managing data privacy, and overcoming workforce and identity displacement are demanding dilemmas, but they're also feasible ones and natural in the cycle of technology.
 >
-> **[2:08](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/upcoming-challenges-with-rapid-innovation?u=76281980&t=128)** Agentic AI offers immense opportunities for the future, and by staying informed and agile and ethically grounded, you'll be able to navigate obstacles with ease.
+> **[2:08](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/upcoming-challenges-with-rapid-innovation?u=76281980&t=128)** Agentic AI offers immense opportunities for the future, and by staying informed and [[Agile Development|agile]] and ethically grounded, you'll be able to navigate obstacles with ease.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (4), [[Privacy]] (2), teams (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
@@ -689,14 +677,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategic planning for AI integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980)
+#### [Strategic planning for AI integration](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980&t=1)** - By now, you've got a good grasp on what Agentic AI is and the immense potential it holds, but how do you effectively incorporate it into your existing strategies?
 >
-> **[0:10](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980&t=10)** I'm going to walk you through a three step process on integrating Agentic AI into your business operations.
+> **[0:10](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980&t=10)** I'm going to walk you through a three step process on integrating Agentic AI into your [[Business Operations]].
 >
 > **[0:17](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980&t=17)** Step one, assess your business needs.
 >
@@ -710,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980&t=45)** Search for pain points, whether it's scheduling meetings, uploading files, or responding to client emails.
 >
-> **[0:52](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980&t=52)** Step two, build an adaptive AI strategy.
+> **[0:52](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980&t=52)** Step two, build an adaptive [[AI Strategy]].
 >
 > **[0:56](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980&t=56)** AI technology is evolving rapidly, so your strategy needs to be flexible.
 >
@@ -742,14 +729,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), business (4), [[Automation]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[AI Strategy]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - by (1)
 
-#### Balancing innovation with practicality
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/mitigating-potential-business-harms-of-agentic-ai?u=76281980)
+#### [Balancing innovation with practicality](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/mitigating-potential-business-harms-of-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -789,12 +775,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), business (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### Next steps in planning for agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/balancing-innovation-with-practicality?u=76281980)
+#### [Next steps in planning for agentic AI](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/balancing-innovation-with-practicality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,9 +786,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/balancing-innovation-with-practicality?u=76281980&t=3)** I hope you enjoyed learning all about Agentic AI.
 >
-> **[0:06](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/balancing-innovation-with-practicality?u=76281980&t=6)** We covered its fundamental principles and differentiated it from other forms of AI due to its autonomy and decision-making capabilities.
+> **[0:06](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/balancing-innovation-with-practicality?u=76281980&t=6)** We covered its fundamental principles and differentiated it from other [[Forms]] of AI due to its autonomy and [[Decision-Making]] capabilities.
 >
-> **[0:14](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/balancing-innovation-with-practicality?u=76281980&t=14)** Then we spoke about practical business applications, ethics, and the future of Agentic AI, concluding with a planning framework for you to address AI implementation.
+> **[0:14](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/balancing-innovation-with-practicality?u=76281980&t=14)** Then we spoke about practical business applications, [[Ethics]], and the future of Agentic AI, concluding with a planning framework for you to address AI implementation.
 >
 > **[0:25](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/balancing-innovation-with-practicality?u=76281980&t=25)** If you take away two things from this course, I hope they're the following.
 >
@@ -848,7 +832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), business (2), [[Forms]] (1), [[Decision-Making]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Decision-Making]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [zackkass.com](https://zackkass.com) (1)
 > **Cross-References:** we covered (1)

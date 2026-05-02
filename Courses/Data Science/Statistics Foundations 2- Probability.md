@@ -99,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of probabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980)
+#### [The importance of probabilities](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980&t=5)** Tell me, what do all of these groups of people have in common?
 >
-> **[0:09](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980&t=9)** They're all obsessed with probability.
+> **[0:09](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980&t=9)** They're all obsessed with [[Probability]].
 >
 > **[0:12](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980&t=12)** Their understanding of probability is often reflected in the level of their success.
 >
@@ -128,7 +127,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980&t=68)** In this course, we'll discuss the foundational elements of probability.
 >
-> **[1:12](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980&t=72)** This is part two of a two-part series of basic statistics.
+> **[1:12](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980&t=72)** This is part two of a two-part series of basic [[Statistics]].
 >
 > **[1:18](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980&t=78)** We'll calculate basic probability, as well as multiple event probability and conditional probability.
 >
@@ -142,7 +141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (10), data (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (10), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - gamblers (1)
@@ -152,12 +151,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Probability basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980)
+#### [Probability basics](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980&t=0)** - Whenever uncertainty looms, probability is there.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980&t=0)** - Whenever uncertainty looms, [[Probability]] is there.
 >
 > **[0:04](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980&t=4)** What are the chances of rain today?
 >
@@ -209,7 +207,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980&t=126)** Obviously this isn't an exact science so it should be treated as an estimate.
 >
-> **[2:11](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980&t=131)** Any fantasy sports players out there have used these types of statistics to make projections for upcoming games and for the rest of the season.
+> **[2:11](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980&t=131)** Any fantasy sports players out there have used these types of [[Statistics]] to make projections for upcoming games and for the [[Representational State Transfer (REST)|rest]] of the season.
 >
 > **[2:19](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980&t=139)** And so you all know they are definitely not an exact science.
 >
@@ -231,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (18), data (2), [[Statistics]] (2), next (1), game (1)
+> **Frameworks & Libraries:** [[Probability]] (18), [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ceo (4)
 > **CLI Commands:** make (3)
 > **Versions:** 0.50 (1), 0.077 (1), 7.7 (1)
@@ -240,14 +238,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - whenever (1)
 
-#### Examples of probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/examples-of-probability?u=76281980)
+#### [Examples of probability](https://www.linkedin.com/learning/statistics-foundations-2-probability/examples-of-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/examples-of-probability?u=76281980&t=0)** - Probabilities can come in many forms, but all probabilities must conform to some simple rules.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/examples-of-probability?u=76281980&t=0)** - Probabilities can come in many [[Forms]], but all probabilities must conform to some simple rules.
 >
-> **[0:07](https://www.linkedin.com/learning/statistics-foundations-2-probability/examples-of-probability?u=76281980&t=7)** Let's take a look at two different types of probability, coin flips and weather.
+> **[0:07](https://www.linkedin.com/learning/statistics-foundations-2-probability/examples-of-probability?u=76281980&t=7)** Let's take a look at two different types of [[Probability]], coin flips and weather.
 >
 > **[0:12](https://www.linkedin.com/learning/statistics-foundations-2-probability/examples-of-probability?u=76281980&t=12)** Coin flips are an example of even odds.
 >
@@ -297,18 +294,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (8), [[Forms]] (1), data (1), business (1)
+> **Frameworks & Libraries:** [[Probability]] (8), [[Forms]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - probabilities (1)
 
-#### Permutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/permutations?u=76281980)
+#### [Permutations](https://www.linkedin.com/learning/statistics-foundations-2-probability/permutations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/statistics-foundations-2-probability/permutations?u=76281980&t=1)** - [Instructor] Probabilities are ratios, a desired event divided by all the possible outcomes.
 >
-> **[0:07](https://www.linkedin.com/learning/statistics-foundations-2-probability/permutations?u=76281980&t=7)** For example, the probability of drawing an ace from a standard deck of 52 cards.
+> **[0:07](https://www.linkedin.com/learning/statistics-foundations-2-probability/permutations?u=76281980&t=7)** For example, the [[Probability]] of drawing an ace from a standard deck of 52 cards.
 >
 > **[0:13](https://www.linkedin.com/learning/statistics-foundations-2-probability/permutations?u=76281980&t=13)** Desired event; draw one of the four aces possible.
 >
@@ -392,8 +388,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combinations
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/combinations?u=76281980)
+#### [Combinations](https://www.linkedin.com/learning/statistics-foundations-2-probability/combinations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/statistics-foundations-2-probability/combinations?u=76281980&t=35)** Olivia and Layla are sisters.
 >
-> **[0:38](https://www.linkedin.com/learning/statistics-foundations-2-probability/combinations?u=76281980&t=38)** They both want to be on the team together, so what's the probability they will both get chosen for the team?
+> **[0:38](https://www.linkedin.com/learning/statistics-foundations-2-probability/combinations?u=76281980&t=38)** They both want to be on the team together, so what's the [[Probability]] they will both get chosen for the team?
 >
 > **[0:45](https://www.linkedin.com/learning/statistics-foundations-2-probability/combinations?u=76281980&t=45)** To solve this, we'll need to know how many combinations of four students would be possible.
 >
@@ -461,14 +456,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Versions:** 9.1 (1)
 > **Speakers:** - when (1)
 
-#### Percentiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/percentiles?u=76281980)
+#### [Percentiles](https://www.linkedin.com/learning/statistics-foundations-2-probability/percentiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,7 +542,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/statistics-foundations-2-probability/percentiles?u=76281980&t=185)** So if we had more exam scores, it is likely that the highest score would be in the 99th percentile.
 >
-> **[3:13](https://www.linkedin.com/learning/statistics-foundations-2-probability/percentiles?u=76281980&t=193)** Other techniques for finding percentile may differ as does Excel's method for finding percentile, but don't worry about it.
+> **[3:13](https://www.linkedin.com/learning/statistics-foundations-2-probability/percentiles?u=76281980&t=193)** Other techniques for finding percentile may differ as does [[Microsoft Excel|Excel]]'s method for finding percentile, but don't worry about it.
 >
 > **[3:21](https://www.linkedin.com/learning/statistics-foundations-2-probability/percentiles?u=76281980&t=201)** Most calculations will give you fairly similar numbers.
 >
@@ -558,7 +552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** gre (1), gmat (1), lsat (1), mcat (1)
 > **Versions:** 32.5 (1), 97.5 (1)
 > **Definitions:** in other words (1)
@@ -570,8 +564,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to multiple events
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980)
+#### [Introduction to multiple events](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=4)** These are relatively simple probabilities.
 >
-> **[0:06](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=6)** We calculate the probability.
+> **[0:06](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=6)** We calculate the [[Probability]].
 >
 > **[0:08](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=8)** We observe a single event.
 >
@@ -595,7 +588,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=31)** Both events have their own individual probability, but is there a relationship between team wins and this player's success in scoring?
 >
-> **[0:41](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=41)** Here's another example, consider these two statistics.
+> **[0:41](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=41)** Here's another example, consider these two [[Statistics]].
 >
 > **[0:45](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=45)** First, one in 10,000 people gets a particular rare disease.
 >
@@ -603,7 +596,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=70)** How do we find the probability that a positive test was inaccurate?
 >
-> **[1:16](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=76)** One more, in a class of 20 graduate students, only four will get a chance to interview with Microsoft.
+> **[1:16](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=76)** One more, in a class of 20 graduate students, only four will get a chance to interview with [[Microsoft]].
 >
 > **[1:25](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980&t=85)** Mohan and Lily are friends.
 >
@@ -621,12 +614,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (9), game (1), [[Statistics]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Probability]] (9), [[Statistics]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - heads (1)
 
-#### Probabilities of two events
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/probabilities-of-two-events?u=76281980)
+#### [Probabilities of two events](https://www.linkedin.com/learning/statistics-foundations-2-probability/probabilities-of-two-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/statistics-foundations-2-probability/probabilities-of-two-events?u=76281980&t=71)** This was on 25% of the outcomes.
 >
-> **[1:14](https://www.linkedin.com/learning/statistics-foundations-2-probability/probabilities-of-two-events?u=76281980&t=74)** So the probability of getting heads on at least one of two coins is 75%.
+> **[1:14](https://www.linkedin.com/learning/statistics-foundations-2-probability/probabilities-of-two-events?u=76281980&t=74)** So the [[Probability]] of getting heads on at least one of two coins is 75%.
 >
 > **[1:21](https://www.linkedin.com/learning/statistics-foundations-2-probability/probabilities-of-two-events?u=76281980&t=81)** This was an example of what we call the addition rule in action.
 >
@@ -728,17 +720,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), game (1)
+> **Frameworks & Libraries:** [[Probability]] (2)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Versions:** 30.56 (1)
 > **Speakers:** - sometimes (1)
 
-#### Conditional probabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980)
+#### [Conditional probabilities](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=0)** - Imagine that our office has six workers.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=0)** - Imagine that our [[Microsoft Office|office]] has six workers.
 >
 > **[0:04](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=4)** Pretend their names are A, B, C, X, Y, Z.
 >
@@ -750,7 +741,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=22)** What are the odds that both X and Y will be the winners?
 >
-> **[0:26](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=26)** Well, we can find that there are 15 combinations of two winners from a group of six people using our combinations formula, but only one of those combinations would result in X and Y as winners, so the probability that both X and Y will win together is one in 15, or 6.67%.
+> **[0:26](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=26)** Well, we can find that there are 15 combinations of two winners from a group of six people using our combinations formula, but only one of those combinations would result in X and Y as winners, so the [[Probability]] that both X and Y will win together is one in 15, or 6.67%.
 >
 > **[0:54](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=54)** In this case, we picked two cards at once.
 >
@@ -770,7 +761,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=98)** This is what is referred to as conditional probability.
 >
-> **[1:42](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=102)** Understanding conditional probability is very important in the world of statistics, but as the scenarios become more complex, so do the calculations.
+> **[1:42](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=102)** Understanding conditional probability is very important in the world of [[Statistics]], but as the scenarios become more complex, so do the calculations.
 >
 > **[1:53](https://www.linkedin.com/learning/statistics-foundations-2-probability/conditional-probabilities?u=76281980&t=113)** In many cases, you'll want to consider using a very helpful tool, a probability tree.
 >
@@ -787,12 +778,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - imagine (1)
 
-#### Probability trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-trees?u=76281980)
+#### [Probability trees](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-trees?u=76281980&t=0)** - When you're trying to calculate probabilities for multiple events it's often helpful to draw a probability tree to visualize how the events might occur.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-trees?u=76281980&t=0)** - When you're trying to calculate probabilities for multiple events it's often helpful to draw a [[Probability]] tree to visualize how the events might occur.
 >
 > **[0:10](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-trees?u=76281980&t=10)** Let's use a probability tree to see how probabilities will change as we flip a coin two times.
 >
@@ -874,17 +864,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (14), next (2), data (1)
+> **Frameworks & Libraries:** [[Probability]] (14)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - when (1)
 
-#### Multiplication rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/multiplication-rule?u=76281980)
+#### [Multiplication rule](https://www.linkedin.com/learning/statistics-foundations-2-probability/multiplication-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/multiplication-rule?u=76281980&t=0)** - Earlier we saw the addition rule of probability.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/multiplication-rule?u=76281980&t=0)** - Earlier we saw the addition rule of [[Probability]].
 >
 > **[0:04](https://www.linkedin.com/learning/statistics-foundations-2-probability/multiplication-rule?u=76281980&t=4)** Now let's look at the multiplication rule of probability.
 >
@@ -950,8 +939,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - earlier (1)
 
-#### Using probability trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/using-probability-trees?u=76281980)
+#### [Using probability trees](https://www.linkedin.com/learning/statistics-foundations-2-probability/using-probability-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,7 +955,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/statistics-foundations-2-probability/using-probability-trees?u=76281980&t=20)** The hope that this first test was a false positive.
 >
-> **[0:25](https://www.linkedin.com/learning/statistics-foundations-2-probability/using-probability-trees?u=76281980&t=25)** So what's the probability that this first test might be wrong.
+> **[0:25](https://www.linkedin.com/learning/statistics-foundations-2-probability/using-probability-trees?u=76281980&t=25)** So what's the [[Probability]] that this first test might be wrong.
 >
 > **[0:30](https://www.linkedin.com/learning/statistics-foundations-2-probability/using-probability-trees?u=76281980&t=30)** First, we need to realize that we are considering two different events.
 >
@@ -975,7 +963,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/statistics-foundations-2-probability/using-probability-trees?u=76281980&t=39)** Event two test positive or tests negative.
 >
-> **[0:45](https://www.linkedin.com/learning/statistics-foundations-2-probability/using-probability-trees?u=76281980&t=45)** Next, we need some statistics.
+> **[0:45](https://www.linkedin.com/learning/statistics-foundations-2-probability/using-probability-trees?u=76281980&t=45)** Next, we need some [[Statistics]].
 >
 > **[0:48](https://www.linkedin.com/learning/statistics-foundations-2-probability/using-probability-trees?u=76281980&t=48)** According to doctors, only one in 10,000 people has the disease.
 >
@@ -1053,14 +1041,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Statistics]] (1)
 > **Versions:** 0.0001 (1), 0.9999 (1), 0.98 (1), 0.02 (1), 0.000099 (1)
 > **Definitions:** in other words (1), means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - disease (1)
 
-#### Bayes theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/bayes-theorem?u=76281980)
+#### [Bayes theorem](https://www.linkedin.com/learning/statistics-foundations-2-probability/bayes-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1088,7 +1075,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/statistics-foundations-2-probability/bayes-theorem?u=76281980&t=50)** And only 15% of millionaires with graduate degrees inherited their wealth.
 >
-> **[0:56](https://www.linkedin.com/learning/statistics-foundations-2-probability/bayes-theorem?u=76281980&t=56)** What's the probability that a millionaire did not complete high school given that they earned their wealth?
+> **[0:56](https://www.linkedin.com/learning/statistics-foundations-2-probability/bayes-theorem?u=76281980&t=56)** What's the [[Probability]] that a millionaire did not complete high school given that they earned their wealth?
 >
 > **[1:02](https://www.linkedin.com/learning/statistics-foundations-2-probability/bayes-theorem?u=76281980&t=62)** Well, let's set up a tree.
 >
@@ -1156,7 +1143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Probability]] (8), business (1)
+> **Frameworks & Libraries:** [[Probability]] (8)
 > **Versions:** 3.8 (3), 0.038 (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -1167,8 +1154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discrete vs. continuous
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980)
+#### [Discrete vs. continuous](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,7 +1166,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980&t=12)** Why random?
 >
-> **[0:14](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980&t=14)** Why do we use that word?
+> **[0:14](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980&t=14)** Why do we use that [[Microsoft Word|word]]?
 >
 > **[0:15](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980&t=15)** Well, as we perform experiments, we need to understand that the value of the eventual outcome of an experiment is unknown or random.
 >
@@ -1210,7 +1196,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980&t=90)** Again, we do not have any decimals.
 >
-> **[1:33](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980&t=93)** This, too, would be a discrete probability.
+> **[1:33](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980&t=93)** This, too, would be a discrete [[Probability]].
 >
 > **[1:37](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980&t=97)** So, what our continuous random variables?
 >
@@ -1250,13 +1236,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), [[Microsoft Word|Word]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Microsoft Word|Word]] (1)
 > **Versions:** 0.58 (1), 2.35 (1), 4.777 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - for (1)
 
-#### Discrete mean
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980)
+#### [Discrete mean](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1292,13 +1277,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=63)** 0.025, or 2.5% of customers, ordered zero drinks; 0.55, or 55% of customers, ordered a single drink; and so on.
 >
-> **[1:15](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=75)** To find the mean of this discrete probability distribution, we will use a weighted mean.
+> **[1:15](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=75)** To find the mean of this discrete [[Probability]] distribution, we will use a weighted mean.
 >
 > **[1:21](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=81)** To do this, multiply zero drinks times the relative frequency, 0.025.
 >
 > **[1:28](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=88)** Multiply one drink by 0.55, 2 drinks by the relative frequency of 0.25, and so on.
 >
-> **[1:37](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=97)** Those products are your weights.
+> **[1:37](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=97)** Those [[Microsoft Products|products]] are your weights.
 >
 > **[1:40](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=100)** When you add those weights, you get 1.68 drinks.
 >
@@ -1330,7 +1315,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=179)** Therefore, our standard deviation for this discrete probability is 1.03 drinks.
 >
-> **[3:07](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=187)** This is a nice opportunity to put together a few things we've covered throughout our statistics course.
+> **[3:07](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=187)** This is a nice opportunity to put together a few things we've covered throughout our [[Statistics]] course.
 >
 > **[3:12](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-mean?u=76281980&t=192)** The average customer in Starbucks between ten AM and 11 AM ordered 1.68 drinks in their drink purchase.
 >
@@ -1378,7 +1363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), data (2), [[Microsoft Products|Products]] (2), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Microsoft Products|Products]] (2), [[Statistics]] (1)
 > **Versions:** 1.68 (5), 1.03 (4), 0.025 (2), 0.55 (2), 1.07 (2)
 > **CLI Commands:** find (5)
 > **UI Navigation:** go to (2)
@@ -1386,8 +1371,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binomials
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/binomials?u=76281980)
+#### [Binomials](https://www.linkedin.com/learning/statistics-foundations-2-probability/binomials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1399,7 +1383,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/statistics-foundations-2-probability/binomials?u=76281980&t=14)** A patient can either test positive or negative for a disease.
 >
-> **[0:18](https://www.linkedin.com/learning/statistics-foundations-2-probability/binomials?u=76281980&t=18)** These are possible binomial random variables provided we have n trials with a probability of success we call p.
+> **[0:18](https://www.linkedin.com/learning/statistics-foundations-2-probability/binomials?u=76281980&t=18)** These are possible binomial random variables provided we have n trials with a [[Probability]] of success we call p.
 >
 > **[0:27](https://www.linkedin.com/learning/statistics-foundations-2-probability/binomials?u=76281980&t=27)** Typically in stats, n is the number of instances.
 >
@@ -1475,7 +1459,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/statistics-foundations-2-probability/binomials?u=76281980&t=261)** Suppose n is equal to a million.
 >
-> **[4:23](https://www.linkedin.com/learning/statistics-foundations-2-probability/binomials?u=76281980&t=263)** These charts wouldn't be in much use, but luckily when n gets bigger, we can use calculus.
+> **[4:23](https://www.linkedin.com/learning/statistics-foundations-2-probability/binomials?u=76281980&t=263)** These charts wouldn't be in much use, but luckily when n gets bigger, we can use [[Calculus]].
 >
 > **[4:30](https://www.linkedin.com/learning/statistics-foundations-2-probability/binomials?u=76281980&t=270)** Probably not what you wanted to hear.
 >
@@ -1497,8 +1481,7 @@ created: 2026-05-02
 > **CLI Commands:** find (2)
 > **Speakers:** - when (1)
 
-#### Normal curve
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/normal-curve?u=76281980)
+#### [Normal curve](https://www.linkedin.com/learning/statistics-foundations-2-probability/normal-curve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1520,7 +1503,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/statistics-foundations-2-probability/normal-curve?u=76281980&t=41)** Bar charts wouldn't work here, so instead we use curves to illustrate the distribution of outcomes.
 >
-> **[0:48](https://www.linkedin.com/learning/statistics-foundations-2-probability/normal-curve?u=76281980&t=48)** These curves are called probability densities.
+> **[0:48](https://www.linkedin.com/learning/statistics-foundations-2-probability/normal-curve?u=76281980&t=48)** These curves are called [[Probability]] densities.
 >
 > **[0:52](https://www.linkedin.com/learning/statistics-foundations-2-probability/normal-curve?u=76281980&t=52)** The area under the curve represents the probability of each and every outcome.
 >
@@ -1556,7 +1539,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/statistics-foundations-2-probability/normal-curve?u=76281980&t=167)** for that, we would need two things.
 >
-> **[2:49](https://www.linkedin.com/learning/statistics-foundations-2-probability/normal-curve?u=76281980&t=169)** The formula of the curve and calculus, taking an integral.
+> **[2:49](https://www.linkedin.com/learning/statistics-foundations-2-probability/normal-curve?u=76281980&t=169)** The formula of the curve and [[Calculus]], taking an integral.
 >
 > **[2:54](https://www.linkedin.com/learning/statistics-foundations-2-probability/normal-curve?u=76281980&t=174)** Yeah, that's probably a bit more than we can cover today.
 >
@@ -1572,13 +1555,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (14), [[Security]] (5), data (1), [[Calculus]] (1)
+> **Frameworks & Libraries:** [[Probability]] (14), [[Calculus]] (1)
 > **Versions:** 1.0 (2), 12.5 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - discrete (1)
 
-#### Bell-shaped curve
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/bell-shaped-curve?u=76281980)
+#### [Bell-shaped curve](https://www.linkedin.com/learning/statistics-foundations-2-probability/bell-shaped-curve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,7 +1594,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/statistics-foundations-2-probability/bell-shaped-curve?u=76281980&t=73)** Often we find that data follows a pattern.
 >
-> **[1:16](https://www.linkedin.com/learning/statistics-foundations-2-probability/bell-shaped-curve?u=76281980&t=76)** Data will take on this bell shape for its probability distribution.
+> **[1:16](https://www.linkedin.com/learning/statistics-foundations-2-probability/bell-shaped-curve?u=76281980&t=76)** Data will take on this bell shape for its [[Probability]] distribution.
 >
 > **[1:21](https://www.linkedin.com/learning/statistics-foundations-2-probability/bell-shaped-curve?u=76281980&t=81)** When we see a bell shape curve, what exactly are we looking at?
 >
@@ -1632,7 +1614,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/statistics-foundations-2-probability/bell-shaped-curve?u=76281980&t=137)** It is vital to understanding probabilities, especially when you're told that the data is normally distributed.
 >
-> **[2:24](https://www.linkedin.com/learning/statistics-foundations-2-probability/bell-shaped-curve?u=76281980&t=144)** In statistics, when you're told that the data are normally distributed, it's telling you that the data are taking on the shape of a normal curve.
+> **[2:24](https://www.linkedin.com/learning/statistics-foundations-2-probability/bell-shaped-curve?u=76281980&t=144)** In [[Statistics]], when you're told that the data are normally distributed, it's telling you that the data are taking on the shape of a normal curve.
 >
 > **[2:34](https://www.linkedin.com/learning/statistics-foundations-2-probability/bell-shaped-curve?u=76281980&t=154)** Not all normal curves are created equal though.
 >
@@ -1656,14 +1638,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Probability]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Statistics]] (1)
 > **Definitions:** is a  (2), in other words (1), means that (1)
 > **CLI Commands:** find (2), make (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - three (1)
 
-#### Z transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/z-transformation?u=76281980)
+#### [Z transformation](https://www.linkedin.com/learning/statistics-foundations-2-probability/z-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1709,7 +1690,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/statistics-foundations-2-probability/z-transformation?u=76281980&t=116)** Let's use the Z transformation to answer another question.
 >
-> **[2:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/z-transformation?u=76281980&t=120)** What's the probability a man weighs between 140 pounds and 190 pounds in this population.
+> **[2:00](https://www.linkedin.com/learning/statistics-foundations-2-probability/z-transformation?u=76281980&t=120)** What's the [[Probability]] a man weighs between 140 pounds and 190 pounds in this population.
 >
 > **[2:09](https://www.linkedin.com/learning/statistics-foundations-2-probability/z-transformation?u=76281980&t=129)** Now we need two Z scores.
 >
@@ -1749,7 +1730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (6), data (3)
+> **Frameworks & Libraries:** [[Probability]] (6)
 > **Versions:** 1.98 (5), 0.65 (4), 0.7422 (3), 0.08 (2), 0.78 (2)
 > **CLI Commands:** find (7)
 > **UI Navigation:** go to (1)
@@ -1762,18 +1743,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980&t=1)** - Thank you for spending some time with me and learning about the foundations of statistical probability.
+> **[0:01](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980&t=1)** - Thank you for spending some time with me and learning about the foundations of statistical [[Probability]].
 >
 > **[0:06](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980&t=6)** I really want to encourage you to continue to grow your skills by applying what you've learned in these first two courses, both at home and at work.
 >
 > **[0:16](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980&t=16)** But I want to let you know that this doesn't need to be the end of your statistical journey.
 >
-> **[0:22](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980&t=22)** Probability and the basic elements of statistics, like means, medians, and standard deviations, they're all helpful in making sense of data sets that are given to you, but it doesn't need to end there.
+> **[0:22](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980&t=22)** Probability and the basic elements of [[Statistics]], like means, medians, and standard deviations, they're all helpful in making sense of data sets that are given to you, but it doesn't need to end there.
 >
 > **[0:35](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980&t=35)** Our next statistics course will help us gather our own data, and it will help us understand how confident we can be in our data.
 >
@@ -1783,7 +1763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), data (3), [[Statistics]] (2), next (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Statistics]] (2)
 > **Speakers:** - thank (1)
 
 

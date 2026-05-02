@@ -69,49 +69,46 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use NLP techniques for your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980)
+#### [Use NLP techniques for your data](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980&t=0)** - [Wuraola] Clinical narratives are data-rich, and it makes them viable use cases for the application of AI methodologies.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980&t=8)** In this course, we will explore how to apply natural language processing to clinical and biomedical data.
+> **[0:08](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980&t=8)** In this course, we will explore how to apply [[Natural Language Processing (NLP)|natural language processing]] to clinical and biomedical data.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980&t=16)** The exercise cover range of techniques, from clinical named entity recognition, clinical aberration resolution, transformers for clinical diagnosis, and ward prediction.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980&t=29)** My name is Wuraola Oyewusi.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980&t=32)** Before transitioning to data science, I began my career as a pharmacist working with a range of clinical datasets, and I am excited to be your instructor in this LinkedIn learning course.
+> **[0:32](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980&t=32)** Before transitioning to [[Data Science]], I began my career as a pharmacist working with a range of clinical datasets, and I am excited to be your instructor in this [[LinkedIn]] learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (1), ai (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), career (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Data Science]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [wuraola] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the best out of this course, I'm assuming that you have a basic understanding of Python programming, machine learning and natural language processing, and you're comfortable with clinical and biomedical terminologies.
+> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the best out of this course, I'm assuming that you have a basic understanding of [[Python (Programming Language)|Python]] programming, machine learning and [[Natural Language Processing (NLP)|natural language processing]], and you're comfortable with clinical and biomedical terminologies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] To maximize your learning experience, it is encouraged that you work along with the provided exercise files.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980&t=7)** Let's start by going to collab.research.[google.com](https://google.com).
+> **[0:07](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980&t=7)** Let's start by going to collab.research.[[[Google]].com](https://google.com).
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980&t=12)** To upload an I Python file, click on file at the top left corner.
+> **[0:12](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980&t=12)** To upload an I [[Python (Programming Language)|Python]] file, click on file at the top left corner.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/how-to-use-the-exercise-files?u=76281980&t=19)** Then select upload notebook.
 >
@@ -143,8 +140,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is clinical named entity recognition (CNER)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980)
+#### [What is clinical named entity recognition (CNER)?](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -162,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=47)** The design of clinical narratives is, to be as descriptive as possible.
 >
-> **[0:52](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=52)** This means, there is increase, in the probability of, nested entities.
+> **[0:52](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=52)** This means, there is increase, in the [[Probability]] of, nested entities.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=58)** And finally, if you're training, a custom clinical named entity recognition model, because the domain is specific, only experts can be annotators.
 >
@@ -170,7 +166,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=79)** Some examples are, medication, disease, symptoms, adverse drug reaction, anatomy, duration of medication, gene and genetics, specialty of practice, laboratory tests, and route of administration.
 >
-> **[1:41](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=101)** And the machine learning algorithms, used for clinical named entity recognition, can either be supervised, where the training data is labeled, or unsupervised, where the training data is unlabeled.
+> **[1:41](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=101)** And the machine learning [[Algorithms]], used for clinical named entity recognition, can either be supervised, where the training data is labeled, or unsupervised, where the training data is unlabeled.
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=116)** The supervised approach, is more prominent in real life.
 >
@@ -180,9 +176,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=139)** and it's four, Clinical information, collection, mining and retrieval.
 >
-> **[2:27](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=147)** In the implementation of clinical named entity recognition, there are existing and useful libraries and frameworks, such as, scispaCy for scientific and clinical data, which is built on spaCy.
+> **[2:27](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=147)** In the implementation of clinical named entity recognition, there are existing and useful libraries and frameworks, such as, scispaCy for scientific and clinical data, which is built on [[spaCy]].
 >
-> **[2:42](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=162)** A popular general framework, for natural language processing task.
+> **[2:42](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=162)** A popular general framework, for [[Natural Language Processing (NLP)|natural language processing]] task.
 >
 > **[2:47](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980&t=167)** CliNER from clinical named entity recognition Clamp, a tool for clinical language annotation,modeling and processing.
 >
@@ -206,19 +202,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Natural Language Processing (NLP)|Natural language processing]] (2), application (1), [[Probability]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Probability]] (1), [[Algorithms]] (1), [[spaCy]] (1)
 > **Code Identifiers:** scispacy (1), spacy (1), ctakes (1)
 > **Env Vars:** cner (2), nlp (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - clinical (1)
 
-#### Clinical named entity recognition using scispaCy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-scispacy?u=76281980)
+#### [Clinical named entity recognition using scispaCy](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-scispacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-scispacy?u=76281980&t=0)** - [Instructor] We will demonstrate how to liberate scispaCy, a Python natural longer processing framework for scientific, biomedical, and clinical name entity recognition tasks.
+> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-scispacy?u=76281980&t=0)** - [Instructor] We will demonstrate how to liberate scispaCy, a [[Python (Programming Language)|Python]] natural longer processing framework for scientific, biomedical, and clinical name entity recognition tasks.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-scispacy?u=76281980&t=13)** There are different portrayed models based on the data trade on and the entities they can recognize.
 >
@@ -272,7 +267,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-scispacy?u=76281980&t=268)** And find out the variable type is set when checked.
 >
-> **[4:32](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-scispacy?u=76281980&t=272)** Then we save the entities, labels and models into a Pandas data frame.
+> **[4:32](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-scispacy?u=76281980&t=272)** Then we save the entities, labels and models into a [[Pandas (Software)|Pandas]] data frame.
 >
 > **[4:39](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-scispacy?u=76281980&t=279)** Finally, we may go ahead to save the data frame as a CSV, maybe for future use.
 >
@@ -280,7 +275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (2), find (2)
 > **Code Identifiers:** scispacy (2), ner_jnlpba (1), bionlp_ner (1)
 > **Analogies:** such as (3)
@@ -294,8 +289,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is clinical entity resolution?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980)
+#### [What is clinical entity resolution?](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=25)** It can also be referred to as clinical record matching, clinical fuzzy matching, and clinical record linkage.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=35)** Clinical knowledge bases are curated databases for clinical and biomedical data.
+> **[0:35](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=35)** Clinical knowledge bases are curated [[Databases]] for clinical and biomedical data.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=42)** These entities and concepts covered in a clinical knowledge base can usually be inferred from their names.
 >
@@ -315,7 +309,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=56)** It captures about 3 million concepts at different levels.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=61)** MeSH, medical subject heading which contains about 30,000 entities and useful for indexing.
+> **[1:01](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=61)** [[Mesh]], medical subject heading which contains about 30,000 entities and useful for indexing.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=70)** RxNorm based on 100,000 concepts related to clinical drugs and pharmacy concepts.
 >
@@ -325,7 +319,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=102)** When you think of clinical entity resolution, think of it as a pipeline from entity recognition and extraction as a pre-task, the availability of established clinical and biomedical knowledge bases and the ability to derive further insight by entity matching and linkage without unique identifiers.
 >
-> **[2:08](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=128)** To implement clinical entity resolution, there are existing and useful libraries in framework such as scispaCy, a Python library for scientific, biomedical and clinical data.
+> **[2:08](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=128)** To implement clinical entity resolution, there are existing and useful libraries in framework such as scispaCy, a [[Python (Programming Language)|Python]] library for scientific, biomedical and clinical data.
 >
 > **[2:24](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980&t=144)** It is useful for resolving abbreviation and has an easy to use programming interface to clinical knowledge bases, and Spark NLP for healthcare.
 >
@@ -339,15 +333,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), data (2), [[Mesh]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Mesh]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (2), for example (1), think of it as (1)
 > **Env Vars:** umls (1), hpo (1), nlp (1)
 > **CLI Commands:** python (1), make (1)
 > **Code Identifiers:** scispacy (1)
 > **Speakers:** - [instructor] (1)
 
-#### Medical abbreviation resolution with scispaCy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/medical-abbreviation-resolution-with-scispacy?u=76281980)
+#### [Medical abbreviation resolution with scispaCy](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/medical-abbreviation-resolution-with-scispacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -355,7 +348,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/medical-abbreviation-resolution-with-scispacy?u=76281980&t=8)** The sample text are case reports and they can be found here.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/medical-abbreviation-resolution-with-scispacy?u=76281980&t=13)** First, we install scispaCy in two Python models.
+> **[0:13](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/medical-abbreviation-resolution-with-scispacy?u=76281980&t=13)** First, we install scispaCy in two [[Python (Programming Language)|Python]] models.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/medical-abbreviation-resolution-with-scispacy?u=76281980&t=19)** Then we input necessary models like the abbreviation detector from scispaCy dot abbreviation.
 >
@@ -391,7 +384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** bionlpdcg (2), ner (2), bc5cdr (1), t2dm (1), cvd (1)
 > **Code Identifiers:** scispacy (4)
 > **CLI Commands:** python (2)
@@ -399,14 +392,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - we (1)
 
-#### Entity linkage and resolution with a biomedical knowledge base
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/entity-linkage-and-resolution-with-a-biomedical-knowledge-base?u=76281980)
+#### [Entity linkage and resolution with a biomedical knowledge base](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/entity-linkage-and-resolution-with-a-biomedical-knowledge-base?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/entity-linkage-and-resolution-with-a-biomedical-knowledge-base?u=76281980&t=0)** - [Instructor] In this exercise, we will work together to resolve clinical entities by linking them to established knowledge bases.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/entity-linkage-and-resolution-with-a-biomedical-knowledge-base?u=76281980&t=9)** We will be leveraging scispaCy linking submodel to connect to the MeSH, HPO, RxNorm, GO, and UMLS biomedical knowledge bases.
+> **[0:09](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/entity-linkage-and-resolution-with-a-biomedical-knowledge-base?u=76281980&t=9)** We will be leveraging scispaCy linking submodel to connect to the [[Mesh]], HPO, RxNorm, GO, and UMLS biomedical knowledge bases.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/entity-linkage-and-resolution-with-a-biomedical-knowledge-base?u=76281980&t=23)** First, we install scispaCy in the necessary pre-trained models.
 >
@@ -462,13 +454,13 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/entity-linkage-and-resolution-with-a-biomedical-knowledge-base?u=76281980&t=235)** In fact, because I am using the free tier with limited RAM support, I loaded these as a new connection.
 >
-> **[4:03](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/entity-linkage-and-resolution-with-a-biomedical-knowledge-base?u=76281980&t=243)** We have explored different types of biomedical knowledge bases, and we saw in real-time how they work to resolve clinical entities they were designed to work with.
+> **[4:03](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/entity-linkage-and-resolution-with-a-biomedical-knowledge-base?u=76281980&t=243)** We have explored different types of biomedical knowledge bases, and we saw in [[Real-Time]] how they work to resolve clinical entities they were designed to work with.
 >
 > **[4:13](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/entity-linkage-and-resolution-with-a-biomedical-knowledge-base?u=76281980&t=253)** This will guide your decision on the most appropriate knowledge base for your specific use case.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (4), database (2), next (1), data (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (4), [[Real-Time]] (1)
 > **Code Identifiers:** entities_dataframe (4), scispacy (2), mesh_entity_linker (2), mesh_nlp (1), resolve_abbreviations (1)
 > **Env Vars:** hpo (2), umls (2), cui (1), ram (1)
 > **Versions:** 0.999 (1), 0.826 (1), 0.74 (1)
@@ -482,8 +474,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is clinical text representation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980)
+#### [What is clinical text representation?](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,7 +486,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980&t=26)** Now that we've established what clinical text means, what is different about it and why should we pay attention?
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980&t=34)** The most important reason is domain nuances and contextual word use, such as the heavy use of notations and abbreviations that would typically not be in normal text.
+> **[0:34](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980&t=34)** The most important reason is domain nuances and contextual [[Microsoft Word|word]] use, such as the heavy use of notations and abbreviations that would typically not be in normal text.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980&t=46)** And they are influential in making sense of clinical data.
 >
@@ -505,7 +496,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980&t=73)** Think K for potassium.
 >
-> **[1:16](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980&t=76)** The central principle for text representation including clinical text, is that machine learning algorithms cannot directly process text documents, so, they expect numerical feature vectors with fixed size rather than the raw text documents with variable length.
+> **[1:16](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980&t=76)** The central principle for text representation including clinical text, is that machine learning [[Algorithms]] cannot directly process text documents, so, they expect numerical feature vectors with fixed size rather than the raw text documents with variable length.
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980&t=96)** And transforming text is usually performed by building language models.
 >
@@ -523,12 +514,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (2), [[Algorithms]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Algorithms]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - clinical (1)
 
-#### Clinical text representation using fastText
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-fasttext?u=76281980)
+#### [Clinical text representation using fastText](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-fasttext?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +530,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-fasttext?u=76281980&t=20)** Then we install fast text and Tika using Peep.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-fasttext?u=76281980&t=25)** Tika is a Python library to extract text from pdf.
+> **[0:25](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-fasttext?u=76281980&t=25)** Tika is a [[Python (Programming Language)|Python]] library to extract text from pdf.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-fasttext?u=76281980&t=31)** Now we go ahead to input the necessary models and sub models.
 >
@@ -598,7 +588,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-fasttext?u=76281980&t=224)** All three models were able to predict doxycycline and tetracycline as similar words.
 >
-> **[3:51](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-fasttext?u=76281980&t=231)** We'll also apply the train fast text models to decide on the word that does not match in a series.
+> **[3:51](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-fasttext?u=76281980&t=231)** We'll also apply the train fast text models to decide on the [[Microsoft Word|word]] that does not match in a series.
 >
 > **[3:58](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-fasttext?u=76281980&t=238)** Here we have paracetamol, headache, diarrhea, and dizziness.
 >
@@ -634,7 +624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sti (7)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** python (2), wget (1), find (1)
@@ -643,14 +633,13 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** such as (1)
 
-#### Clinical text representation using Universal Sentence Encoder (USE)
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-universal-sentence-encoder-use?u=76281980)
+#### [Clinical text representation using Universal Sentence Encoder (USE)](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-universal-sentence-encoder-use?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-universal-sentence-encoder-use?u=76281980&t=0)** - We will demonstrate how to use the Universal Sentence Encoder for vector representation of clinical text.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-universal-sentence-encoder-use?u=76281980&t=7)** First, we install spaCy Universal Sentence Encoder using pip.
+> **[0:07](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-universal-sentence-encoder-use?u=76281980&t=7)** First, we install [[spaCy]] Universal Sentence Encoder using pip.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-text-representation-using-universal-sentence-encoder-use?u=76281980&t=14)** Our choice of using the spaCy implementation is because of ease of comparing vector similarities.
 >
@@ -682,7 +671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (2), next (1)
+> **Frameworks & Libraries:** [[spaCy]] (2)
 > **Code Identifiers:** spacy (2), vector_shape (2), spacy_universal_sentence_encoder (1)
 > **Versions:** 0.228 (1), 0.474 (1), 0.575 (1), 0.176 (1), 0.002 (1)
 > **CLI Commands:** pip (1)
@@ -696,8 +685,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are transformers?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980)
+#### [What are transformers?](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980&t=24)** Before transformers, there were different models to solve sequence tasks.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980&t=30)** This include word embedding, such as Word2vec, recurring neural networks, and context-based embedding, such as ELMo.
+> **[0:30](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980&t=30)** This include [[Microsoft Word|word]] embedding, such as Word2vec, recurring [[Neural Networks]], and context-based embedding, such as ELMo.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980&t=41)** There are three main types of transformers.
 >
@@ -721,15 +709,15 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980&t=64)** The central principle of our transformers' warp for data, including clinical texts, is that they are pretrained, learning can be transferred to smaller task, they can be fine tuned to specific task, and they have longer memory compared to recurrent models.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980&t=85)** There are some transformer models specifically trained on clinical empowerment medical related texts, Bio_ClinicalBERT, Clinical-Longformer, CORe clinical diagnosis prediction, Clinic-dialog-sum-T5, BioBERT, PubMedBERT, Clinical-BigBird, BERT-ClinicalQA, roberta-base-biomedical-clinical.
+> **[1:25](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980&t=85)** There are some [[Transformer Models]] specifically trained on clinical empowerment medical related texts, Bio_ClinicalBERT, Clinical-Longformer, CORe clinical diagnosis prediction, Clinic-dialog-sum-T5, BioBERT, PubMedBERT, Clinical-BigBird, BERT-ClinicalQA, roberta-base-biomedical-clinical.
 >
-> **[1:54](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980&t=114)** Some libraries and frameworks for working with transformers are Transformers by Hugging Face, TensorFlow Hub, PyTorch-Transformers, and project specific repositories on platforms like GitHub.
+> **[1:54](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980&t=114)** Some libraries and frameworks for working with transformers are Transformers by [[Hugging Face]], [[TensorFlow]] Hub, [[PyTorch]]-Transformers, and project specific repositories on platforms like [[GitHub]].
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980&t=130)** As with other data types, transformers are used in the clinical context for tasks such as treatment outcome prediction, translation of clinical notes to other languages, summarization of clinical narratives, and detection of clinical entities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), [[Neural Networks]] (1), [[Transformer Models]] (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Neural Networks]] (1), [[Transformer Models]] (1), [[Hugging Face]] (1), [[TensorFlow]] (1)
 > **Analogies:** such as (6)
 > **Env Vars:** bert (2), gpt (1), bart (1)
 > **CLI Commands:** make (1)
@@ -737,12 +725,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clinical diagnosis prediction using transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-diagnosis-prediction-using-transformers?u=76281980)
+#### [Clinical diagnosis prediction using transformers](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-diagnosis-prediction-using-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-diagnosis-prediction-using-transformers?u=76281980&t=0)** - [Instructor] The data snippets used there are from the clinical practice in cases in emergency medicine, in the transformer models from the organ face Python library.
+> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-diagnosis-prediction-using-transformers?u=76281980&t=0)** - [Instructor] The data snippets used there are from the clinical practice in cases in emergency medicine, in the [[Transformer Models]] from the organ face [[Python (Programming Language)|Python]] library.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-diagnosis-prediction-using-transformers?u=76281980&t=11)** First we install transformers.
 >
@@ -780,7 +767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Transformer Models]] (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Transformer Models]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** cad (1)
@@ -788,16 +775,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clinical named entity recognition using transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980)
+#### [Clinical named entity recognition using transformers](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980&t=0)** - Return transformer models can also be used for clinical name data recognition.
+> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980&t=0)** - Return [[Transformer Models]] can also be used for clinical name data recognition.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980&t=6)** The sample text is about hypoglycemia.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980&t=9)** The first step is to install transformers, then input the necessary modules, searches, pipeline, pandas, and pretty prints.
+> **[0:09](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980&t=9)** The first step is to install transformers, then input the necessary modules, searches, pipeline, [[Pandas (Software)|pandas]], and pretty prints.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980&t=21)** We then go ahead to share the pipeline with the BES based on case clinical NER model and saving to a variable code NER pipe.
 >
@@ -809,7 +795,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980&t=57)** From the output, hypoglycemia takes the first five rows, and was labeled as a problem, which is true.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980&t=66)** The breaking word as seen here typically happens when a pre-trained models do not have the exact representation of a word at training time.
+> **[1:06](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980&t=66)** The breaking [[Microsoft Word|word]] as seen here typically happens when a pre-trained models do not have the exact representation of a word at training time.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-named-entity-recognition-using-transformers?u=76281980&t=76)** Another transformer model, which can detect up to one hundred and seven English power medical entities such as; this is disorder, diagnostic procedure, qualitative concepts, therapeutic procedure, science symptom, biological structure and clinical event, is the biomedical N.E.R.O.
 >
@@ -821,19 +807,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (3), [[Pandas (Software)|Pandas]] (2), [[Transformer Models]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Pandas (Software)|Pandas]] (2), [[Transformer Models]] (1)
 > **Env Vars:** ner (3), bes (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - return (1)
 
-#### Clinical word prediction using transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-word-prediction-using-transformers?u=76281980)
+#### [Clinical word prediction using transformers](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-word-prediction-using-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-word-prediction-using-transformers?u=76281980&t=0)** - [Instructor] We're going to make clinical word prediction with Transformers.
+> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-word-prediction-using-transformers?u=76281980&t=0)** - [Instructor] We're going to make clinical [[Microsoft Word|word]] prediction with Transformers.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/clinical-word-prediction-using-transformers?u=76281980&t=5)** A use case for this can be an implementing text prediction in electronic health record systems.
 >
@@ -871,7 +856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** nlp (1), mask (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
@@ -883,24 +868,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980&t=0)** - [Wuraola] It's been a pleasure working through a range of applications of natural language processing on clinical data.
+> **[0:00](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980&t=0)** - [Wuraola] It's been a pleasure working through a range of applications of [[Natural Language Processing (NLP)|natural language processing]] on clinical data.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980&t=7)** The next steps is to implement those new skills in your work from research to production pipelines.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980&t=15)** I'm looking forward to your building and sharing.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980&t=18)** You can connect with me on LinkedIn and feel free to ask your questions in the community question and answer section.
+> **[0:18](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980&t=18)** You can connect with me on [[LinkedIn]] and feel free to ask your questions in the community question and answer section.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980&t=26)** Cheers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [wuraola] (1)
 
 

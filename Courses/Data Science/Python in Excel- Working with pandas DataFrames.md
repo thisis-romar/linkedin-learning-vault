@@ -83,18 +83,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python in Excel and pandas DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980)
+#### [Python in Excel and pandas DataFrames](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980&t=0)** - [Felix] Python and Excel are two of the most popular tools used in data science.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980&t=0)** - [Felix] [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]] are two of the most popular tools used in [[Data Science]].
 >
-> **[0:05](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980&t=5)** And finally, Microsoft brings them together in a brand-new feature called Python in Excel.
+> **[0:05](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980&t=5)** And finally, [[Microsoft]] brings them together in a brand-new feature called Python in Excel.
 >
 > **[0:13](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980&t=13)** While Python offers you a powerful programming language, Excel gives you an intuitive spreadsheet interface.
 >
-> **[0:21](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980&t=21)** In this course, I will teach you all about pandas data frames, the core building blocks of Python in Excel.
+> **[0:21](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980&t=21)** In this course, I will teach you all about [[Pandas (Software)|pandas]] data frames, the core building blocks of Python in Excel.
 >
 > **[0:28](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980&t=28)** The fun part, we never have to leave Excel.
 >
@@ -104,20 +103,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (5), data (2), [[Microsoft]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (5), [[Data Science]] (1), [[Microsoft]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (5)
 > **Speakers:** - [felix] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/what-you-should-know?u=76281980&t=0)** - [Narrator] This course builds on top of the introductory course "Python in Excel" so I would recommend you to watch it before starting with this one.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/what-you-should-know?u=76281980&t=0)** - [Narrator] This course builds on top of the introductory course "[[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]]" so I would recommend you to watch it before starting with this one.
 >
 > **[0:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/what-you-should-know?u=76281980&t=10)** If you don't have at least a basic Python knowledge, please watch a course about Python first.
 >
-> **[0:17](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/what-you-should-know?u=76281980&t=17)** There are various beginner courses here on LinkedIn Learning such as "Python for Non-Programmers" or "Learning Python."
+> **[0:17](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/what-you-should-know?u=76281980&t=17)** There are various beginner courses here on [[LinkedIn]] Learning such as "Python for Non-Programmers" or "Learning Python."
 >
 > **[0:27](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/what-you-should-know?u=76281980&t=27)** In every video, I will be using an exercise file in the form of an Excel workbook.
 >
@@ -143,21 +141,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (7)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### About Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/about-python-in-excel?u=76281980)
+#### [About Python in Excel](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/about-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/about-python-in-excel?u=76281980&t=0)** - [Instructor] While I'm recording this course, Python in Excel is still in preview.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/about-python-in-excel?u=76281980&t=0)** - [Instructor] While I'm recording this course, [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]] is still in preview.
 >
-> **[0:05](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/about-python-in-excel?u=76281980&t=5)** Right now it's only available on Windows for Microsoft 365 subscribers who are on the beta channel.
+> **[0:05](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/about-python-in-excel?u=76281980&t=5)** Right now it's only available on [[Windows]] for [[Microsoft 365]] subscribers who are on the beta channel.
 >
 > **[0:14](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/about-python-in-excel?u=76281980&t=14)** It's possible though that by the time you're watching this, it will be available on macOS and the web version of Excel as well.
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (7), [[Microsoft 365]] (2), [[Windows]] (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (7), [[Microsoft 365]] (2), [[Windows]] (1)
 > **CLI Commands:** python (7)
 > **Code Identifiers:** macos (1)
 > **Env Vars:** nan (1)
@@ -198,12 +195,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hello World
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980)
+#### [Hello World](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980&t=0)** - [Instructor] When exploring a new technology such as Python in Excel, it's crucial to know what tools we have at our disposal.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980&t=0)** - [Instructor] When exploring a new technology such as [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]], it's crucial to know what tools we have at our disposal.
 >
 > **[0:07](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980&t=7)** So let's explore them using the classic Hello World example.
 >
@@ -267,11 +263,11 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980&t=262)** Well, this was a quick overview of how Python in Excel works.
 >
-> **[4:26](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980&t=266)** This means that we are now ready to dive into Pandas DataFrames.
+> **[4:26](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980&t=266)** This means that we are now ready to dive into [[Pandas (Software)|Pandas]] DataFrames.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (7), hit (3), next (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (7), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (11), make (1)
 > **Tools:** jupyter (3)
 > **Definitions:** means that (3)
@@ -280,16 +276,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 
-#### pandas DataFrame and Series
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980)
+#### [pandas DataFrame and Series](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=0)** - [Instructor] Python in Excel is all about working with Pandas DataFrames.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]] is all about working with [[Pandas (Software)|Pandas]] DataFrames.
 >
 > **[0:04](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=4)** So let's see what a DataFrame is and how you can create one from your Excel data.
 >
-> **[0:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=10)** Pandas is Python's go-to library for statistics, data analysis and time-series analysis.
+> **[0:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=10)** Pandas is Python's go-to library for [[Statistics]], data analysis and time-series analysis.
 >
 > **[0:19](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=19)** The core data structure that Pandas uses is called DataFrame and it looks and behaves a lot like a spreadsheet or a range of a spreadsheet.
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=114)** We will use all of these sources throughout the course, but for now, let's just focus on a simple range.
 >
-> **[2:04](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=124)** The exercise file has a small dataset that represents a few fictitious participants of a LinkedIn Learning course.
+> **[2:04](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=124)** The exercise file has a small dataset that represents a few fictitious participants of a [[LinkedIn]] Learning course.
 >
 > **[2:12](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=132)** For each student, it shows a few details such as the score for each chapter quiz and whether the student completed the course.
 >
@@ -375,7 +370,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=364)** So again, we can look at the preview and this is our series.
 >
-> **[6:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=370)** However, we hardly need to construct our own DataFrame with Python in Excel, as we mostly just reference data that sits in a sheet or in a power query.
+> **[6:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=370)** However, we hardly need to construct our own DataFrame with Python in Excel, as we mostly just reference data that sits in a sheet or in a [[Microsoft Power Query|power query]].
 >
 > **[6:23](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/pandas-dataframe-and-series?u=76281980&t=383)** And that's the full roundtrip.
 >
@@ -383,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (16), data (12), [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (4), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (16), [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (4), [[Statistics]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (4), make (1), find (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -392,12 +387,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise file (1)
 
-#### Data selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980)
+#### [Data selection](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=0)** - [Instructor] If you want to work with Pandas data frames, you need to know how to access that part of the data that you need, such as a specific row or column.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=0)** - [Instructor] If you want to work with [[Pandas (Software)|Pandas]] data frames, you need to know how to access that part of the data that you need, such as a specific row or column.
 >
 > **[0:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=10)** Let's see how it's done.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=35)** Loc stands for location and accepts both a row and column selection.
 >
-> **[0:41](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=41)** To understand what we can use for row selection and column selection, let's run through a couple of examples in Excel.
+> **[0:41](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=41)** To understand what we can use for row selection and column selection, let's run through a couple of examples in [[Microsoft Excel|Excel]].
 >
 > **[0:50](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=50)** But first we need to turn our sample data from over here into a data frame.
 >
@@ -437,7 +431,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=148)** So what does the column mean?
 >
-> **[2:31](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=151)** The column works the same way as when you slice a Python list, so it means that you want all the rows from start to finish.
+> **[2:31](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=151)** The column works the same way as when you slice a [[Python (Programming Language)|Python]] list, so it means that you want all the rows from start to finish.
 >
 > **[2:40](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-selection?u=76281980&t=160)** Since selecting columns is such a common operation, there's a shorthand notation for it.
 >
@@ -521,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft Excel|Excel]] (9), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (3), make (1)
 > **Cross-References:** in the next (2), go back to (1), in the last (1)
 > **Definitions:** refers to (2), stands for (1), is a  (1)
@@ -530,8 +524,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 
-#### Calculations, vectorization, and empty cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980)
+#### [Calculations, vectorization, and empty cells](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,7 +536,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=19)** This time we're using the named range students from over here.
 >
-> **[0:25](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=25)** Like with Excel tables, the Excel function here in M1 automatically adds a reference to the named range, so let's quickly rewrite the cell to see that in in action.
+> **[0:25](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=25)** Like with [[Microsoft Excel|Excel]] tables, the Excel function here in M1 automatically adds a reference to the named range, so let's quickly rewrite the cell to see that in in action.
 >
 > **[0:39](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=39)** As you can see, selecting that range automatically pulls in the name of the range, which is students in this case.
 >
@@ -555,7 +548,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=69)** So I would do most likely something like that, summing up these two fields and then applying the formula down over each row.
 >
-> **[1:21](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=81)** In Pandas, we don't need to iterate over each row.
+> **[1:21](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=81)** In [[Pandas (Software)|Pandas]], we don't need to iterate over each row.
 >
 > **[1:26](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=86)** When we look at the code in cell M2, we can see that we can simply sum up the two columns in the form of a Pandas series.
 >
@@ -587,7 +580,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=198)** But let's now go back to the sum of the two quizzes where we jumped over that num error here, because summing up 2.2 plus an empty cell definitely doesn't give us a num over here in the case of the Excel formulas.
 >
-> **[3:40](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=220)** So to understand what's going on here, we first have to understand how Python in Excel handles empty cells when it translates them to Pandas data frames.
+> **[3:40](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=220)** So to understand what's going on here, we first have to understand how [[Python (Programming Language)|Python]] in Excel handles empty cells when it translates them to Pandas data frames.
 >
 > **[3:50](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/calculations-vectorization-and-empty-cells?u=76281980&t=230)** In string columns, empty cells are translated to none, and for numbers we get NaN, which stands for not a number.
 >
@@ -621,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (16), data (5), [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (3), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (16), [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
 > **Versions:** 2.2 (3)
 > **Cross-References:** go back to (2)
@@ -630,12 +623,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Row filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/row-filtering?u=76281980)
+#### [Row filtering](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/row-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/row-filtering?u=76281980&t=0)** - [Instructor] When using an Excel table, the most common operations are filtering and sorting rows.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/row-filtering?u=76281980&t=0)** - [Instructor] When using an [[Microsoft Excel|Excel]] table, the most common operations are filtering and sorting rows.
 >
 > **[0:06](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/row-filtering?u=76281980&t=6)** Let's see how this is done with data frames.
 >
@@ -671,7 +663,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/row-filtering?u=76281980&t=123)** Now we need to combine this Boolean series with the Boolean series of whether the country is Italy or not.
 >
-> **[2:14](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/row-filtering?u=76281980&t=134)** In Python, we would use the and keyword for this, but in Pandas we need to use the ampersand like this in cell K6.
+> **[2:14](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/row-filtering?u=76281980&t=134)** In [[Python (Programming Language)|Python]], we would use the and keyword for this, but in [[Pandas (Software)|Pandas]] we need to use the ampersand like this in cell K6.
 >
 > **[2:26](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/row-filtering?u=76281980&t=146)** Why though, do we need to use parenthesis here?
 >
@@ -709,7 +701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3), next (3), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** similar to (1), such as (1)
 > **File Paths:** tf.lock (1)
@@ -717,8 +709,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/manipulating-dataframes?u=76281980)
+#### [Manipulating DataFrames](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/manipulating-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,11 +717,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/manipulating-dataframes?u=76281980&t=9)** Let's get started.
 >
-> **[0:11](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/manipulating-dataframes?u=76281980&t=11)** Datasets often have issues, so let's assume that John over here in row 11 has actually completed the course, but for some reason the data just won't reflect that properly.
+> **[0:11](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/manipulating-dataframes?u=76281980&t=11)** Datasets often have issues, so let's assume that [[John the Ripper|John]] over here in row 11 has actually completed the course, but for some reason the data just won't reflect that properly.
 >
 > **[0:24](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/manipulating-dataframes?u=76281980&t=24)** Luckily, we can fix this in our data frame.
 >
-> **[0:28](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/manipulating-dataframes?u=76281980&t=28)** As usual, we start in cell K1 by turning our Excel table into a data frame.
+> **[0:28](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/manipulating-dataframes?u=76281980&t=28)** As usual, we start in cell K1 by turning our [[Microsoft Excel|Excel]] table into a data frame.
 >
 > **[0:34](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/manipulating-dataframes?u=76281980&t=34)** However, this time we call the data frame source.
 >
@@ -808,24 +799,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), next (5), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (5), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the next (4), previous video (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python editor and magic commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-editor-and-magic-commands?u=76281980)
+#### [Python editor and magic commands](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-editor-and-magic-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-editor-and-magic-commands?u=76281980&t=0)** - [Instructor] While following the first couple of videos, you may have been wondering if there was a better option than editing the code in the cell or in the formula bar.
 >
-> **[0:11](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-editor-and-magic-commands?u=76281980&t=11)** Yes, there is, and it's called Python Editor.
+> **[0:11](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-editor-and-magic-commands?u=76281980&t=11)** Yes, there is, and it's called [[Python (Programming Language)|Python]] Editor.
 >
 > **[0:14](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-editor-and-magic-commands?u=76281980&t=14)** Let me show you how to use it.
 >
-> **[0:17](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-editor-and-magic-commands?u=76281980&t=17)** With the beta version of Python in Excel, the Python Editor has to be installed manually via Excel's add in store.
+> **[0:17](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-editor-and-magic-commands?u=76281980&t=17)** With the beta version of Python in [[Microsoft Excel|Excel]], the Python Editor has to be installed manually via Excel's add in store.
 >
 > **[0:24](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-editor-and-magic-commands?u=76281980&t=24)** In the future though, this will most likely be integrated directly here in the Python menu in the ribbon so you won't have to install the add-in anymore.
 >
@@ -893,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Microsoft Excel|Excel]] (8), hit (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Microsoft Excel|Excel]] (8)
 > **CLI Commands:** python (14), make (3)
 > **UI Navigation:** click on (3), go to (2)
 > **Tools:** jupyter (4)
@@ -907,8 +897,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data cleaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980)
+#### [Data cleaning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,13 +911,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=30)** This gives you an idea about the index and about the number of observations and data type for each column.
 >
-> **[0:41](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=41)** Now may actually be a good time to mention that Pandas shows the data type object for strings.
+> **[0:41](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=41)** Now may actually be a good time to mention that [[Pandas (Software)|Pandas]] shows the data type object for strings.
 >
-> **[0:48](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=48)** However, because the output is printed, it appears here on the diagnostics pane, far away from the Python cell.
+> **[0:48](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=48)** However, because the output is printed, it appears here on the diagnostics pane, far away from the [[Python (Programming Language)|Python]] cell.
 >
 > **[0:56](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=56)** Printing also has the side effect of making the diagnostics pane show over and over again whenever the sheet is recalculated.
 >
-> **[1:04](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=64)** That's why I tend to avoid printing in Python, in Excel, if anyhow possible.
+> **[1:04](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=64)** That's why I tend to avoid printing in Python, in [[Microsoft Excel|Excel]], if anyhow possible.
 >
 > **[1:09](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=69)** In this case, we can do the following.
 >
@@ -940,7 +929,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=100)** For example, quiz 1 has 12 while quiz 2 has only 11 records.
 >
-> **[1:46](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=106)** To calculate some statistics, I may decide that I only want to include students who have a score for both quizzes.
+> **[1:46](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=106)** To calculate some [[Statistics]], I may decide that I only want to include students who have a score for both quizzes.
 >
 > **[1:55](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980&t=115)** To do this, Pandas offers the drop NA method that we can use in cell K6.
 >
@@ -998,7 +987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (4), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Env Vars:** nan (1), k10 (1), k11 (1), k12 (1)
 > **CLI Commands:** python (2)
@@ -1006,12 +995,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980)
+#### [Working with text data](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=0)** - [Instructor] One thing Python is really good at is text manipulation.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=0)** - [Instructor] One thing [[Python (Programming Language)|Python]] is really good at is text manipulation.
 >
 > **[0:04](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=4)** So let's see how we can access Python's string methods to clean up messy DataFrame columns.
 >
@@ -1025,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=41)** That shows us how to access Python's string methods from a DataFrame column.
 >
-> **[0:47](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=47)** So to strip off any white space at the beginning and end of the word, we can use the strip method, but importantly, to do so, we need to use the str attribute on the DataFrame column.
+> **[0:47](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=47)** So to strip off any white space at the beginning and end of the [[Microsoft Word|word]], we can use the strip method, but importantly, to do so, we need to use the str attribute on the DataFrame column.
 >
 > **[1:02](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=62)** In the preview, we can see that all names are now properly aligned.
 >
@@ -1051,13 +1039,13 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=143)** So let's go ahead and split the name up into two separate columns in the next cell, K6, one for the first name and one for the last name.
 >
-> **[2:36](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=156)** Pandas offers the split method that we can use for this, and again, it's a long line of code, so this may be easier to read in the formula bar.
+> **[2:36](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=156)** [[Pandas (Software)|Pandas]] offers the split method that we can use for this, and again, it's a long line of code, so this may be easier to read in the formula bar.
 >
 > **[2:50](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=170)** The first argument is a space, which defines the character we use for splitting.
 >
 > **[2:56](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=176)** n=1 means that we just want a single split.
 >
-> **[3:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=180)** So after the first space, it allocates the rest of the string to the last name.
+> **[3:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=180)** So after the first space, it allocates the [[Representational State Transfer (REST)|rest]] of the string to the last name.
 >
 > **[3:06](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=186)** And finally, expand=True is required to split the parts into new columns.
 >
@@ -1079,7 +1067,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=279)** There's really a lot you can do by just using string methods.
 >
-> **[4:43](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=283)** For example, if you want to filter the table for names that contain the name John, you can use the contains method as I show here.
+> **[4:43](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=283)** For example, if you want to filter the table for names that contain the name [[John the Ripper|John]], you can use the contains method as I show here.
 >
 > **[4:53](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=293)** Again, long line of code, easier to read here in the formula bar.
 >
@@ -1089,7 +1077,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=317)** And from an earlier video, you probably remember that we can use this to filter the DataFrame to only those rows that contain the name John, like shown here in the last cell.
 >
-> **[5:32](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=332)** And as this is our last cell, let's go ahead and turn it into values so that we can look at the filtered table in Excel.
+> **[5:32](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=332)** And as this is our last cell, let's go ahead and turn it into values so that we can look at the filtered table in [[Microsoft Excel|Excel]].
 >
 > **[5:43](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/working-with-text-data?u=76281980&t=343)** And that is how you can use Python's string methods on DataFrame columns.
 >
@@ -1097,7 +1085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (2), next (2), [[Microsoft Excel|Excel]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[John the Ripper|John]] (4), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (2), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (5), make (3), find (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Cross-References:** in the next (2), in the last (1)
@@ -1105,16 +1093,15 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/combining-dataframes?u=76281980)
+#### [Combining DataFrames](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/combining-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/combining-dataframes?u=76281980&t=0)** - [Instructor] Most of the time, your data doesn't come in one piece.
 >
-> **[0:03](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/combining-dataframes?u=76281980&t=3)** Instead it is split up across different Excel ranges, sheets, or files.
+> **[0:03](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/combining-dataframes?u=76281980&t=3)** Instead it is split up across different [[Microsoft Excel|Excel]] ranges, sheets, or files.
 >
-> **[0:09](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/combining-dataframes?u=76281980&t=9)** Let's see how we can combine these parts into a single data frame using the Pandas functions concat and merge.
+> **[0:09](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/combining-dataframes?u=76281980&t=9)** Let's see how we can combine these parts into a single data frame using the [[Pandas (Software)|Pandas]] functions concat and merge.
 >
 > **[0:17](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/combining-dataframes?u=76281980&t=17)** In this version of the exercise file, we have a separate tab for students who took the course in January, February, and March.
 >
@@ -1202,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Microsoft Excel|Excel]] (6), [[Pandas (Software)|Pandas]] (5), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Pandas (Software)|Pandas]] (5)
 > **Env Vars:** num (2), vlookup (1), xlookup (1), id1 (1), j11 (1)
 > **Definitions:** means that (2), stands for (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -1210,8 +1197,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data aggregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980)
+#### [Data aggregation](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1219,7 +1205,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=8)** Let's see how it works.
 >
-> **[0:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=10)** As usual, we start in cell K1 by turning our Excel table into a DataFrame that we call df.
+> **[0:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=10)** As usual, we start in cell K1 by turning our [[Microsoft Excel|Excel]] table into a DataFrame that we call df.
 >
 > **[0:17](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=17)** To calculate the average score for each quiz, we can use the mean method.
 >
@@ -1231,7 +1217,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=41)** This returns a series, and the preview shows us that Quiz 2 has a slightly higher mean than Quiz 1.
 >
-> **[0:50](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=50)** By default, the mean and other descriptive statistics ignore NaN values.
+> **[0:50](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=50)** By default, the mean and other descriptive [[Statistics]] ignore NaN values.
 >
 > **[0:58](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=58)** Luckily, this is in line with how Excel treats empty cells when calculating the average, which is the corresponding Excel formula to calculate the mean.
 >
@@ -1255,7 +1241,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=134)** Instead of mean, you could also use other aggregation methods, such as min, max, or count.
 >
-> **[2:23](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=143)** One caveat here is that pandas drops rows where the grouping key is NaN, or, in our case, an empty cell.
+> **[2:23](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=143)** One caveat here is that [[Pandas (Software)|pandas]] drops rows where the grouping key is NaN, or, in our case, an empty cell.
 >
 > **[2:32](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-aggregation?u=76281980&t=152)** To prevent that, add the argument dropna=False, as you can see here in the cell below.
 >
@@ -1275,7 +1261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), [[Statistics]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Statistics]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** k10 (1), k12 (1)
 > **UI Navigation:** select the (2)
 > **Cross-References:** in the last (1)
@@ -1284,12 +1270,11 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [felix] (1)
 
-#### Plotting
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/plotting?u=76281980)
+#### [Plotting](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/plotting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/plotting?u=76281980&t=0)** - [Instructor] Python in Excel gives you access to the plotting libraries Matplotlab and Seaborn.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/plotting?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]] gives you access to the plotting libraries Matplotlab and Seaborn.
 >
 > **[0:07](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/plotting?u=76281980&t=7)** In comparison to native Excel charts, they offer additional and more complex chart types and they can plot bigger datasets.
 >
@@ -1299,7 +1284,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/plotting?u=76281980&t=27)** However, Matplotlib is a low-level library, so it can take a lot of code to achieve a fairly simple thing.
 >
-> **[0:36](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/plotting?u=76281980&t=36)** This is why Pandas makes it easy for us to create a plot from a data frame without having to use Matplotlib directly.
+> **[0:36](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/plotting?u=76281980&t=36)** This is why [[Pandas (Software)|Pandas]] makes it easy for us to create a plot from a data frame without having to use Matplotlib directly.
 >
 > **[0:45](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/plotting?u=76281980&t=45)** Seaborn is also built on top of Matplotlib.
 >
@@ -1369,7 +1354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Pandas (Software)|Pandas]] (5), data (4), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** plt (3), k14 (2), k13 (1), bmh (1)
 > **Definitions:** is a  (4), stands for (1)
 > **CLI Commands:** python (2), make (1), find (1)
@@ -1383,12 +1368,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to time series
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980)
+#### [Introduction to time series](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=0)** - [Instructor] Pandas was born at a hedge fund and that's why it's really good at working with time-series.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=0)** - [Instructor] [[Pandas (Software)|Pandas]] was born at a hedge fund and that's why it's really good at working with time-series.
 >
 > **[0:07](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=7)** So let's go ahead and learn the very basics of time-series analysis.
 >
@@ -1400,7 +1384,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=30)** The things we are learning though could be applied to any time-series, whether that's data from a fitness tracker or a thermometer.
 >
-> **[0:39](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=39)** Now, Excel doesn't have its own data type for a date and time.
+> **[0:39](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=39)** Now, [[Microsoft Excel|Excel]] doesn't have its own data type for a date and time.
 >
 > **[0:44](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=44)** Instead, it simply formats a number as a date.
 >
@@ -1414,7 +1398,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=79)** And so far we can only see that it shows the same date and time as the naive Excel cell.
 >
-> **[1:28](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=88)** But when we wrap this into repr in the cell below, we can see how Python in Excel translated this into a Python datetime object.
+> **[1:28](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=88)** But when we wrap this into repr in the cell below, we can see how [[Python (Programming Language)|Python]] in Excel translated this into a Python datetime object.
 >
 > **[1:40](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980&t=100)** repr stands for object representation and you see datetime twice, because the datetime class lifts in a module with the same name.
 >
@@ -1470,23 +1454,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (7), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (3)
 > **Definitions:** is a  (3), stands for (1), is called (1)
 > **Code Identifiers:** to_datetime (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Time series analysis with pandas DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980)
+#### [Time series analysis with pandas DataFrames](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980&t=0)** - [Instructor] Let's get started with some real-world time series analysis using the historical price data of the Microsoft stock.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980&t=0)** - [Instructor] Let's get started with some real-world [[Time Series Analysis]] using the historical price data of the [[Microsoft]] stock.
 >
 > **[0:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980&t=10)** To get our historical stock data, we can use the stock history formula here in cell B5.
 >
-> **[0:17](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980&t=17)** Just in case you don't have access to this formula in your version of Excel, you can use the data from the value sheet instead.
+> **[0:17](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980&t=17)** Just in case you don't have access to this formula in your version of [[Microsoft Excel|Excel]], you can use the data from the value sheet instead.
 >
 > **[0:26](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980&t=26)** The stock history formula accepts a stock ticker and a start and end date.
 >
@@ -1542,27 +1525,26 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980&t=256)** Turning this into Excel values will give us the name of the day for each trading day.
 >
-> **[4:26](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980&t=266)** So from this video, let's remember that Pandas makes it easy to select specific timeframes via strings, and that date time methods require you to use the DT attribute on regular columns.
+> **[4:26](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/time-series-analysis-with-pandas-dataframes?u=76281980&t=266)** So from this video, let's remember that [[Pandas (Software)|Pandas]] makes it easy to select specific timeframes via strings, and that date time methods require you to use the DT attribute on regular columns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft]] (3), [[Microsoft Excel|Excel]] (3), [[Time Series Analysis]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Excel|Excel]] (3), [[Time Series Analysis]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** f13 (1), f14 (1), f15 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shifting and percentage changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980)
+#### [Shifting and percentage changes](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=0)** - [Felix] Calculating percentage changes is a core part of time series analysis, but the way you do it with data frames is a bit different from the classic spreadsheet formula.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=0)** - [Felix] Calculating percentage changes is a core part of [[Time Series Analysis]], but the way you do it with data frames is a bit different from the classic spreadsheet formula.
 >
 > **[0:12](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=12)** So let's see how it works.
 >
-> **[0:14](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=14)** I have pulled the open and close prices here for the Microsoft stock using the stock history function, but I have stored the data as values.
+> **[0:14](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=14)** I have pulled the open and close prices here for the [[Microsoft]] stock using the stock history function, but I have stored the data as values.
 >
 > **[0:24](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=24)** I have, however, left the formula in a comment here for your reference.
 >
@@ -1578,7 +1560,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=70)** Now to find out if a stock did well over a certain period of time, we can look at its percentage change.
 >
-> **[1:18](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=78)** In order to calculate this, pandas offers the pct_change method, as we can see here in cell G10.
+> **[1:18](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=78)** In order to calculate this, [[Pandas (Software)|pandas]] offers the pct_change method, as we can see here in cell G10.
 >
 > **[1:29](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=89)** Looking at the preview, we can see reasonable positive and negative percentage changes.
 >
@@ -1616,7 +1598,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=236)** Now, NumPy's log function is a so-called universal function, which just means that it works on every element of a pandas data frame.
 >
-> **[4:07](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=247)** A little caveat here, in NumPy, log is the natural logarithm, so it corresponds to what Excel calls LN.
+> **[4:07](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=247)** A little caveat here, in NumPy, log is the natural logarithm, so it corresponds to what [[Microsoft Excel|Excel]] calls LN.
 >
 > **[4:17](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/shifting-and-percentage-changes?u=76281980&t=257)** And finally, to visualize all these log returns, we can plot a histogram here in cell G18.
 >
@@ -1628,7 +1610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (7), [[Time Series Analysis]] (1), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Time Series Analysis]] (1), [[Microsoft]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** g10 (1), g13 (1), g14 (1), g15 (1), g18 (1)
 > **Definitions:** is a  (3), defined as (1), means that (1)
 > **CLI Commands:** find (1)
@@ -1637,8 +1619,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** caveat (1)
 
-#### Comparing time series
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980)
+#### [Comparing time series](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1646,13 +1627,13 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=2)** So, let's use the historic prices of a couple of tech stocks to compare their performance.
 >
-> **[0:09](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=9)** In addition to the Microsoft stock from before, we have the tickers for Google, Apple, Amazon, Meta, Netflix and Tesla.
+> **[0:09](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=9)** In addition to the [[Microsoft]] stock from before, we have the tickers for [[Google]], Apple, Amazon, Meta, Netflix and Tesla.
 >
 > **[0:20](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=20)** I loaded the historic prices using the stock history function and then converted the data into values.
 >
 > **[0:27](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=27)** However, I'll have the formulas here as cell comments for your reference.
 >
-> **[0:34](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=34)** You will notice that Meta and Tesla start at a later date than the rest of the stocks, and the reason is simple.
+> **[0:34](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=34)** You will notice that Meta and Tesla start at a later date than the [[Representational State Transfer (REST)|rest]] of the stocks, and the reason is simple.
 >
 > **[0:42](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=42)** They just weren't traded before that date.
 >
@@ -1710,7 +1691,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=253)** While the prices data frame is two-dimensional, the first row is a one-dimensional series.
 >
-> **[4:20](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=260)** However, Pandas automatically copes with the difference in dimension, so it can perform an element wise division.
+> **[4:20](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=260)** However, [[Pandas (Software)|Pandas]] automatically copes with the difference in dimension, so it can perform an element wise division.
 >
 > **[4:29](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/comparing-time-series?u=76281980&t=269)** Technically, this process is called broadcasting.
 >
@@ -1726,18 +1707,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (2), [[Microsoft]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Microsoft]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **Env Vars:** concat (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resampling and correlation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980)
+#### [Resampling and correlation](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=0)** - [Instructor] Changing the frequency of time series and looking at their mutual correlation coefficient are important concepts in time series analysis.
+> **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=0)** - [Instructor] Changing the frequency of time series and looking at their mutual correlation coefficient are important concepts in [[Time Series Analysis]].
 >
 > **[0:09](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=9)** Let's see how it's done.
 >
@@ -1747,13 +1727,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=22)** So, let's switch over to the Calculations sheet and turn it back into a data frame with the date as the index here in cell B1.
 >
-> **[0:34](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=34)** Having a quick look at the data here in the preview shows us that these are daily time series, but if you are a long-term investor, a daily time series may be too noisy for statistical analysis.
+> **[0:34](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=34)** Having a quick look at the data here in the preview shows us that these are daily time series, but if you are a long-term investor, a daily time series may be too noisy for [[Statistical Analysis]].
 >
 > **[0:49](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=49)** So, we want to change the frequency of the observations from daily to weekly.
 >
 > **[0:56](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=56)** This is called resampling.
 >
-> **[0:58](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=58)** And accordingly, pandas has a method called resample, as we can see here in cell B4.
+> **[0:58](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=58)** And accordingly, [[Pandas (Software)|pandas]] has a method called resample, as we can see here in cell B4.
 >
 > **[1:08](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=68)** As an argument, you have to provide the desired frequency.
 >
@@ -1779,7 +1759,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=171)** Looking at the preview gives us the full correlation matrix where you can read off the correlation of each stock with the other one.
 >
-> **[3:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=180)** I personally love this functionality as the built-in Excel function CORREL only accepts two datasets and can't calculate a full correlation matrix.
+> **[3:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=180)** I personally love this functionality as the built-in [[Microsoft Excel|Excel]] function CORREL only accepts two datasets and can't calculate a full correlation matrix.
 >
 > **[3:12](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/resampling-and-correlation?u=76281980&t=192)** Now, looking at all these numbers may make you a bit dizzy, so to make things easier, we can visualize this correlation matrix as a heat map.
 >
@@ -1815,7 +1795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (3), [[Time Series Analysis]] (1), [[Statistical Analysis]] (1), business (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Time Series Analysis]] (1), [[Statistical Analysis]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (4), in other words (1), is called (1)
 > **Env Vars:** b12 (2), correl (1)
 > **CLI Commands:** make (2)
@@ -1824,14 +1804,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** initialization (1)
 
-#### Case study: Sales dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980)
+#### [Case study: Sales dashboard](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=0)** - [Instructor] Let's build a sales dashboard.
 >
-> **[0:02](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=2)** We will use Power Query to load data into a data frame, and we will see how pivot tables work in Pandas.
+> **[0:02](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=2)** We will use [[Microsoft Power Query|Power Query]] to load data into a data frame, and we will see how [[Pivot Tables]] work in [[Pandas (Software)|Pandas]].
 >
 > **[0:10](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=10)** So here's what we're going to build.
 >
@@ -1841,7 +1820,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=25)** Within the exercise files, there's a folder called Sales Data.
 >
-> **[0:30](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=30)** It contains the Excel files with our sales data, so it's one file per month, and we have files covering two years.
+> **[0:30](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=30)** It contains the [[Microsoft Excel|Excel]] files with our sales data, so it's one file per month, and we have files covering two years.
 >
 > **[0:38](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=38)** Let's open this sample file from April 22.
 >
@@ -1859,7 +1838,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=87)** Now, let's switch over to calculations.
 >
-> **[1:31](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=91)** As you can see, it is currently full of errors, but that will be fixed once we replaced the todo in cell B1 here with actual Python code.
+> **[1:31](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=91)** As you can see, it is currently full of errors, but that will be fixed once we replaced the todo in cell B1 here with actual [[Python (Programming Language)|Python]] code.
 >
 > **[1:43](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=103)** But first, we need to load our data files with Power Query.
 >
@@ -1895,7 +1874,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=193)** The preview here in cell B1 shows us that we're looking at roughly 160,000 rows.
 >
-> **[3:21](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=201)** Now we can move on to the usual first steps in a time series analysis, which is setting the index and sorting it.
+> **[3:21](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=201)** Now we can move on to the usual first steps in a [[Time Series Analysis]], which is setting the index and sorting it.
 >
 > **[3:31](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=211)** In cell B3, we are writing out the years that are covered in the external files, so we can use them later for the year selection.
 >
@@ -1955,7 +1934,7 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=440)** So, the last step is to turn the year, here, for the selection into a dropdown.
 >
-> **[7:29](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=449)** Select this cell, and then go to data and data validation.
+> **[7:29](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=449)** Select this cell, and then go to data and [[Data Validation]].
 >
 > **[7:36](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/case-study-sales-dashboard?u=76281980&t=456)** Say Allow List, and for the source, go to Calculations, select only the first cell, and then add a hash key here, and select OK.
 >
@@ -1971,7 +1950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (6), [[Microsoft Power Query|Power query]] (4), hit (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (6), [[Microsoft Power Query|Power query]] (4), [[Pivot Tables]] (1), [[Pandas (Software)|Pandas]] (1)
 > **UI Navigation:** click on (4), go to (4), navigate to (1), open the (1), select the (1)
 > **CLI Commands:** python (6), make (2)
 > **Env Vars:** ctrl (5), str (1), iloc (1)
@@ -1984,14 +1963,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The next steps for learning more about Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980)
+#### [The next steps for learning more about Python in Excel](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=0)** - [Instructor] Congratulations on reaching the end of the course.
 >
-> **[0:04](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=4)** If you want to learn more about Python in Excel, it's always a good idea to check out the official documentation.
+> **[0:04](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=4)** If you want to learn more about [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]], it's always a good idea to check out the official documentation.
 >
 > **[0:12](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=12)** If there are things where you got stuck or where you need more information, there's a Q and A section on the course page that you can use.
 >
@@ -1999,7 +1977,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=25)** However, we touched on many different topics and were only able to scratch the surface.
 >
-> **[0:32](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=32)** There are other courses that go into more detail on data science and data analysis like Python for Data Science Essential Training, or [[Python Data Analysis]].
+> **[0:32](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=32)** There are other courses that go into more detail on [[Data Science]] and data analysis like Python for Data Science Essential Training, or [[Python Data Analysis]].
 >
 > **[0:45](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=45)** Other courses like [[Python for Data Visualization]], focus on Matplotlib and other plotting libraries.
 >
@@ -2015,17 +1993,17 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=93)** A key difference to Python in Excel is that it runs locally or on your self-hosted server.
 >
-> **[1:40](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=100)** If these things sound interesting to you, you may want to have a look at my book "Python for Excel", which covers Pandas and xlwings, as well as other libraries such as Openpyxl and XLsxWriter.
+> **[1:40](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=100)** If these things sound interesting to you, you may want to have a look at my book "Python for Excel", which covers [[Pandas (Software)|Pandas]] and xlwings, as well as other libraries such as Openpyxl and XLsxWriter.
 >
 > **[1:56](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=116)** And finally, I'm posting regularly about Python and Excel.
 >
-> **[2:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=120)** So make sure to follow me on LinkedIn or Twitter or on YouTube.
+> **[2:00](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=120)** So make sure to follow me on [[LinkedIn]] or Twitter or on YouTube.
 >
 > **[2:07](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980&t=127)** I hope to see you there!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (8), data (5), [[Automation]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (8), [[Data Science]] (2), [[Pandas (Software)|Pandas]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (12), make (1)
 > **Analogies:** such as (2)
 > **URLs:** [xlwings.org](https://xlwings.org) (1)

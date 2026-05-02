@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What it takes to lead
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980)
+#### [What it takes to lead](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980&t=26)** Hi, I'm Rashim Mogha.
 >
-> **[0:27](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980&t=27)** I'm a technology leader, a bestselling author, LinkedIn Top Voice, and the founder of Empowered Women of the World Initiative.
+> **[0:27](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980&t=27)** I'm a technology leader, a bestselling author, [[LinkedIn]] Top Voice, and the founder of Empowered Women of the World Initiative.
 >
 > **[0:35](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980&t=35)** I've held leadership positions at companies like Skillsoft, Oracle, and AWS, where I have built diverse high performing teams.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), teams (2), [[LinkedIn]] (2), business (1), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - congratulations (1)
@@ -128,8 +127,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for the leadership role
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980)
+#### [Preparing for the leadership role](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980&t=69)** When I told her that I was spending so much of my time reviewing the code, she was surprised because she did not expect me to review the code as part of my job.
 >
-> **[1:20](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980&t=80)** I just assumed that I had to review everybody's work before it was sent to the quality assurance team.
+> **[1:20](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980&t=80)** I just assumed that I had to review everybody's work before it was sent to the [[Quality Assurance]] team.
 >
 > **[1:26](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980&t=86)** I wanted my team's work to be perfect.
 >
@@ -213,13 +211,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), management (2), [[Quality Assurance]] (1), ai (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - while (1)
 
-#### Understanding your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/understanding-your-team-24921046?u=76281980)
+#### [Understanding your team](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/understanding-your-team-24921046?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,7 +264,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/understanding-your-team-24921046?u=76281980&t=125)** If you don't intend to change the direction, it's okay to say "I'm really impressed with what the team has achieved so far, and I want us to continue doing the great work, and work in the same direction as we have been."
 >
-> **[2:19](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/understanding-your-team-24921046?u=76281980&t=139)** It's also a great time to talk about how you see the team leveraging AI and putting any concerns to rest if your company has big plans around AI.
+> **[2:19](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/understanding-your-team-24921046?u=76281980&t=139)** It's also a great time to talk about how you see the team leveraging AI and putting any concerns to [[Representational State Transfer (REST)|rest]] if your company has big plans around AI.
 >
 > **[2:30](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/understanding-your-team-24921046?u=76281980&t=150)** Acknowledge any concerns shared by the team members and share your thoughts on how you plan to address them.
 >
@@ -281,13 +278,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), career (1), management (1), [[Representational State Transfer (REST)|Rest]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
 > **Speakers:** - as (1)
 
-#### Hiring for complementary skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/hiring-for-complementary-skills-24919138?u=76281980)
+#### [Hiring for complementary skills](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/hiring-for-complementary-skills-24919138?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -349,7 +345,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/hiring-for-complementary-skills-24919138?u=76281980&t=203)** It was a win-win for the entire team.
 >
-> **[3:26](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/hiring-for-complementary-skills-24919138?u=76281980&t=206)** If you would like to learn more on how to create a holistic strategy to build skills in your team, check out my course Addressing Technical Skills Gap in the LinkedIn Learning Library.
+> **[3:26](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/hiring-for-complementary-skills-24919138?u=76281980&t=206)** If you would like to learn more on how to create a holistic strategy to build skills in your team, check out my course Addressing Technical Skills Gap in the [[LinkedIn]] Learning Library.
 >
 > **[3:38](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/hiring-for-complementary-skills-24919138?u=76281980&t=218)** For a team to achieve its goals, it must have the skillset required to be successful.
 >
@@ -361,14 +357,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), teams (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Prerequisites:** required to (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - a (1)
 
-#### Always be hiring
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/always-be-hiring-24915138?u=76281980)
+#### [Always be hiring](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/always-be-hiring-24915138?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -398,7 +393,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/always-be-hiring-24915138?u=76281980&t=68)** As a leader, you should have a fairly good idea of your expansion plans and the roles and the skills you'll need as your team grows.
 >
-> **[1:16](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/always-be-hiring-24915138?u=76281980&t=76)** A few weeks before I open a job requisition, I put an "I'm Hiring" sign on my LinkedIn profile.
+> **[1:16](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/always-be-hiring-24915138?u=76281980&t=76)** A few weeks before I open a job requisition, I put an "I'm Hiring" sign on my [[LinkedIn]] profile.
 >
 > **[1:23](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/always-be-hiring-24915138?u=76281980&t=83)** If I'm speaking at a conference, I make sure to let the attendees know that I'm hiring.
 >
@@ -434,15 +429,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), leadership (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Best Practices:** make sure to (1), the key is (1)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - always (1)
 
-#### Evolving role of tech managers in the era of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980)
+#### [Evolving role of tech managers in the era of AI](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,7 +448,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=35)** The role of tech leaders has transformed.
 >
-> **[0:38](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=38)** While in the past, tech managers primarily focused on overseeing the execution, they're now expected to drive AI strategy within their teams.
+> **[0:38](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=38)** While in the past, tech managers primarily focused on overseeing the execution, they're now expected to drive [[AI Strategy]] within their teams.
 >
 > **[0:48](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=48)** This requires them to have a point of view on the areas where AI can add value.
 >
@@ -462,7 +456,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=61)** As a tech manager, it is important that you have an AI first mindset.
 >
-> **[1:06](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=66)** Building an AI first mindset doesn't mean that you become an expert in AI programming or algorithms.
+> **[1:06](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=66)** Building an AI first mindset doesn't mean that you become an expert in AI programming or [[Algorithms]].
 >
 > **[1:14](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=74)** Instead, it involves gaining a foundational understanding of AI and how it impacts your industry or profession.
 >
@@ -472,15 +466,14 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=101)** It also enables you to identify potential risks associated with AI adoption, positioning you as a strategic and proactive leader.
 >
-> **[1:52](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=112)** The role of a tech leader is transforming, and it is important that you think of your role as a strategic enabler who inspires their team to navigate the ambiguity, be agile and nimble, and continuously learn and innovate to drive business results.
+> **[1:52](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/evolving-role-of-tech-managers-in-the-era-of-ai-24916142?u=76281980&t=112)** The role of a tech leader is transforming, and it is important that you think of your role as a strategic enabler who inspires their team to navigate the ambiguity, be [[Agile Development|agile]] and nimble, and continuously learn and innovate to drive business results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), management (1), teams (1), [[Programming]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[AI Strategy]] (1), [[Algorithms]] (1), [[Agile Development|Agile]] (1)
 > **Speakers:** - in (1)
 
-#### Managing human-AI collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/managing-human-ai-collaboration-24916141?u=76281980)
+#### [Managing human-AI collaboration](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/managing-human-ai-collaboration-24916141?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -508,7 +501,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/managing-human-ai-collaboration-24916141?u=76281980&t=89)** You also need to ensure that the use of AI within your team aligns with your company's values and legal requirements.
 >
-> **[1:37](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/managing-human-ai-collaboration-24916141?u=76281980&t=97)** Involve your team to establish processes for continuous monitoring of AI performance to maintain fairness and inclusivity.
+> **[1:37](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/managing-human-ai-collaboration-24916141?u=76281980&t=97)** Involve your team to establish processes for [[Continuous Monitoring]] of AI performance to maintain fairness and inclusivity.
 >
 > **[1:46](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/managing-human-ai-collaboration-24916141?u=76281980&t=106)** As a manager, your approach to AI sets the tone for your team.
 >
@@ -522,12 +515,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), leadership (1), [[Continuous Monitoring]] (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
-#### Preparing for future
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-future-24919133?u=76281980)
+#### [Preparing for future](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-future-24919133?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +555,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-future-24919133?u=76281980&t=83)** These sessions often lead to structured and unstructured learning and use case exploration for emerging technologies like GenAI, Automation and 6G.
 >
-> **[1:34](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-future-24919133?u=76281980&t=94)** For generative AI, you can explore use cases like automated content creation, code generation, or design assistance to increase productivity.
+> **[1:34](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-future-24919133?u=76281980&t=94)** For [[Generative AI]], you can explore use cases like automated [[Content Creation]], code generation, or design assistance to increase productivity.
 >
 > **[1:43](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-future-24919133?u=76281980&t=103)** You and your team can identify processes within your organization that could benefit from increased automation.
 >
@@ -573,7 +565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Automation]] (2), application (1), [[Generative AI]] (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Content Creation]] (1)
 > **Speakers:** - to (1)
 
 
@@ -581,8 +573,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicating organizational vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980)
+#### [Communicating organizational vision](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,7 +601,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980&t=67)** As a leader, your team looks up to you for motivation and inspiration.
 >
-> **[1:12](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980&t=72)** Communicating the vision is an opportunity to inspire, to get them excited about the future, emerging technologies, new products, and an expanding customer base.
+> **[1:12](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980&t=72)** Communicating the vision is an opportunity to inspire, to get them excited about the future, emerging technologies, new [[Microsoft Products|products]], and an expanding customer base.
 >
 > **[1:23](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980&t=83)** You'll have a lot of opportunities to discuss how this vision translates into tactics, so leave that for future discussions.
 >
@@ -650,7 +641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), ai (1), nlp (1), [[Microsoft Products|Products]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** nlp (1)
 > **Cross-References:** we discussed (1)
@@ -658,8 +649,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - today (1)
 
-#### Creating the goal for your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/creating-the-goal-for-your-team-24915136?u=76281980)
+#### [Creating the goal for your team](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/creating-the-goal-for-your-team-24915136?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,7 +683,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/creating-the-goal-for-your-team-24915136?u=76281980&t=75)** There were product managers, training and certification leads, and customer reference managers on my team.
 >
-> **[1:22](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/creating-the-goal-for-your-team-24915136?u=76281980&t=82)** Our organization's vision was to drive revenue and customer adoption of cloud services.
+> **[1:22](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/creating-the-goal-for-your-team-24915136?u=76281980&t=82)** Our organization's vision was to drive revenue and customer adoption of [[Cloud Services]].
 >
 > **[1:28](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/creating-the-goal-for-your-team-24915136?u=76281980&t=88)** As a leader, I had to translate this vision into a goal that everyone on my team could relate to.
 >
@@ -717,13 +707,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), cloud (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### Creating KPIs for the common goal
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/creating-kpis-for-the-common-goal-24916138?u=76281980)
+#### [Creating KPIs for the common goal](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/creating-kpis-for-the-common-goal-24916138?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -799,7 +788,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (2), teams (1), next (1)
 > **Env Vars:** kpi (6)
 > **Definitions:** defined as (2), is a  (1)
 > **Speakers:** - key (1)
@@ -809,8 +797,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating your team with the business
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/integrating-your-team-with-the-business-24920109?u=76281980)
+#### [Integrating your team with the business](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/integrating-your-team-with-the-business-24920109?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -842,13 +829,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), teams (8), product (2), [[Engineering]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - have (1)
 
-#### Talking tech to a non-tech audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-tech-to-a-non-tech-audience-24917148?u=76281980)
+#### [Talking tech to a non-tech audience](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-tech-to-a-non-tech-audience-24917148?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,14 +875,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Talking business to a tech audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-business-to-a-tech-audience-24914294?u=76281980)
+#### [Talking business to a tech audience](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-business-to-a-tech-audience-24914294?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,7 +888,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-business-to-a-tech-audience-24914294?u=76281980&t=8)** It is easy to get sucked into the technical details of the product your team is building or a piece of code that they're working on.
 >
-> **[0:16](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-business-to-a-tech-audience-24914294?u=76281980&t=16)** But for your team to create great products, they need to understand the business problem the product solves.
+> **[0:16](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-business-to-a-tech-audience-24914294?u=76281980&t=16)** But for your team to create great [[Microsoft Products|products]], they need to understand the business problem the product solves.
 >
 > **[0:22](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-business-to-a-tech-audience-24914294?u=76281980&t=22)** They also need to understand the competitive landscape, market segmentation, and product differentiation.
 >
@@ -921,7 +904,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-business-to-a-tech-audience-24914294?u=76281980&t=71)** In one of my previous leadership roles, I led a product management team.
 >
-> **[1:15](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-business-to-a-tech-audience-24914294?u=76281980&t=75)** Our company would frequently participate in market research done by companies like Gartner.
+> **[1:15](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-business-to-a-tech-audience-24914294?u=76281980&t=75)** Our company would frequently participate in [[Market Research]] done by companies like Gartner.
 >
 > **[1:21](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/talking-business-to-a-tech-audience-24914294?u=76281980&t=81)** When Gartner published the report, the company created a response to the report that was used by the sales team.
 >
@@ -933,7 +916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), product (4), [[Microsoft Products|Products]] (3), management (2), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Market Research]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - as (1)
@@ -943,8 +926,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leading a global team
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leading-a-global-team-24915135?u=76281980)
+#### [Leading a global team](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leading-a-global-team-24915135?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,7 +940,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leading-a-global-team-24915135?u=76281980&t=46)** One significant challenge when leading a diverse, multi-generational global team is bridging the gap in communication styles and preferences.
 >
-> **[0:56](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leading-a-global-team-24915135?u=76281980&t=56)** When you are in the same location, it's so easy to pop into someone's office and share information and ideas.
+> **[0:56](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leading-a-global-team-24915135?u=76281980&t=56)** When you are in the same location, it's so easy to pop into someone's [[Microsoft Office|office]] and share information and ideas.
 >
 > **[1:03](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leading-a-global-team-24915135?u=76281980&t=63)** A surprising amount of crucial information is shared informally in this way.
 >
@@ -992,13 +974,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Office|Office]] (2), power (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (3)
 > **Tools:** notion (1)
 > **Speakers:** - in (1)
 
-#### Communicating across cultures
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980)
+#### [Communicating across cultures](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,7 +997,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=46)** Similarly, understanding generational differences within the team is also crucial.
 >
-> **[0:52](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=52)** For example, some may prefer email or phone calls, while others may lean towards communication tools like Slack or Teams.
+> **[0:52](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=52)** For example, some may prefer email or phone calls, while others may lean towards communication tools like [[Slack]] or Teams.
 >
 > **[1:01](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=61)** In the past, when I have led diverse global teams, I conducted get to know each other sessions where all team members get an opportunity to share their values, their culture and preferred communication style.
 >
@@ -1034,7 +1015,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=121)** As a leader, it is essential to collaborate with your team to establish a centralized platform for sharing information.
 >
-> **[2:09](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=129)** You can use internal wikis, SharePoint, or OneDrive to share information with the team.
+> **[2:09](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=129)** You can use internal wikis, [[SharePoint]], or [[Microsoft OneDrive|OneDrive]] to share information with the team.
 >
 > **[2:14](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=134)** Team calls are a key communication channel for global teams.
 >
@@ -1060,21 +1041,20 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=205)** This provides an opportunity for team members to not only share their success stories, but also appreciate each other's effort and applaud the good work.
 >
-> **[3:35](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=215)** I also ensure that I share real-time feedback with my team members to keep them motivated and to help them grow.
+> **[3:35](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=215)** I also ensure that I share [[Real-Time]] feedback with my team members to keep them motivated and to help them grow.
 >
 > **[3:43](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-across-cultures-24919134?u=76281980&t=223)** Consistent communication is the key to successfully leading global teams, and it is an ongoing effort.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), hr (1), [[Slack]] (1), business (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[SharePoint]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** slack (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Implementing a global vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/implementing-a-global-vision-24917147?u=76281980)
+#### [Implementing a global vision](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/implementing-a-global-vision-24917147?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1126,13 +1106,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), cloud (1), management (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - implementing (1)
 
-#### Working with global teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/working-with-global-teams-24916137?u=76281980)
+#### [Working with global teams](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/working-with-global-teams-24916137?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1168,7 +1146,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/working-with-global-teams-24916137?u=76281980&t=118)** Share the success and keep the global team updated.
 >
-> **[2:02](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/working-with-global-teams-24916137?u=76281980&t=122)** I used to send out monthly newsletters to keep all regions updated on curriculum, any promotions that we were running, and how they could communicate the information to their customers.
+> **[2:02](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/working-with-global-teams-24916137?u=76281980&t=122)** I used to send out monthly [[Newsletters]] to keep all regions updated on curriculum, any promotions that we were running, and how they could communicate the information to their customers.
 >
 > **[2:14](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/working-with-global-teams-24916137?u=76281980&t=134)** We had a "Thank You" section in the newsletter to acknowledge the effort of other teams in curriculum development.
 >
@@ -1180,18 +1158,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (10), [[Newsletters]] (2), leadership (1), business (1), hit (1)
+> **Frameworks & Libraries:** [[Newsletters]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Leveraging AI for decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leveraging-ai-for-decision-making-24916143?u=76281980)
+#### [Leveraging AI for decision-making](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leveraging-ai-for-decision-making-24916143?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leveraging-ai-for-decision-making-24916143?u=76281980&t=0)** - As a first time tech manager, you'll need to make decisions that impact your team's performance, project outcomes, and overall success.
 >
-> **[0:09](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leveraging-ai-for-decision-making-24916143?u=76281980&t=9)** While your technical expertise and leadership skills are crucial, incorporating AI into your decision-making process can help you drive better results.
+> **[0:09](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leveraging-ai-for-decision-making-24916143?u=76281980&t=9)** While your technical expertise and leadership skills are crucial, incorporating AI into your [[Decision-Making]] process can help you drive better results.
 >
 > **[0:19](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leveraging-ai-for-decision-making-24916143?u=76281980&t=19)** AI can provide valuable insights that help improve resource allocation, project management, risk assessment, performance evaluation, and the hiring processes.
 >
@@ -1213,7 +1190,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leveraging-ai-for-decision-making-24916143?u=76281980&t=85)** Deciding how to distribute your team's time, skills, and tools across various projects is crucial for maximizing productivity and meeting deadlines.
 >
-> **[1:35](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leveraging-ai-for-decision-making-24916143?u=76281980&t=95)** By analyzing historical data and current workloads, AI tools can predict which team members are most likely to excel in certain tasks based on the past projects and skills.
+> **[1:35](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leveraging-ai-for-decision-making-24916143?u=76281980&t=95)** By analyzing historical data and current workloads, AI tools can predict which team members are most likely to [[Microsoft Excel|excel]] in certain tasks based on the past projects and skills.
 >
 > **[1:47](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leveraging-ai-for-decision-making-24916143?u=76281980&t=107)** By leveraging AI in this way, you can make data-driven decisions that enhance your team's efficiency and prevent burnout.
 >
@@ -1233,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (4), [[Decision-Making]] (3), management (2), leadership (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1244,14 +1221,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/next-steps-24919131?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/next-steps-24919131?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/next-steps-24919131?u=76281980&t=0)** - Now that you have strategies to help you succeed in a leadership role, the next step is to hone your skills.
 >
-> **[0:07](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/next-steps-24919131?u=76281980&t=7)** I have some great courses here in the LinkedIn Learning Library that can help you build leadership, strategy, and tech skills.
+> **[0:07](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/next-steps-24919131?u=76281980&t=7)** I have some great courses here in the [[LinkedIn]] Learning Library that can help you build leadership, strategy, and tech skills.
 >
 > **[0:15](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/next-steps-24919131?u=76281980&t=15)** You can also check out the Career Accelerator Program I'm coaching offered by eWOW for professional success.
 >
@@ -1263,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (5), career (4), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ewow (1)
 > **Exercise Files:** template (1)

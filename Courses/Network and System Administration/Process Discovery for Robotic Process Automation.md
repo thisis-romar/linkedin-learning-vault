@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A leading enterprise technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-leading-enterprise-technology-25742338?u=76281980)
+#### [A leading enterprise technology](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-leading-enterprise-technology-25742338?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,7 +83,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-leading-enterprise-technology-25742338?u=76281980&t=8)** To succeed in today's digital era, you must first understand your business processes, how and why work gets done, but surface level knowledge isn't enough.
 >
-> **[0:17](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-leading-enterprise-technology-25742338?u=76281980&t=17)** True digital transformation requires a deep, detailed understanding.
+> **[0:17](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-leading-enterprise-technology-25742338?u=76281980&t=17)** True [[Digital Transformation]] requires a deep, detailed understanding.
 >
 > **[0:22](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-leading-enterprise-technology-25742338?u=76281980&t=22)** Many transformation efforts fail due to incomplete or inaccurate process insights.
 >
@@ -98,17 +97,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (2), business (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2)
 > **Speakers:** - companies (1)
 
-#### Generative AI reinforces process fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/genai-reinforces-process-fundamentals?u=76281980)
+#### [Generative AI reinforces process fundamentals](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/genai-reinforces-process-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/genai-reinforces-process-fundamentals?u=76281980&t=0)** - Since producing the first version of this course, many things have happened that both supplement and reinforce the value of process discovery in your efforts to digitize and modernize your business.
 >
-> **[0:11](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/genai-reinforces-process-fundamentals?u=76281980&t=11)** The last few years have seen an explosion of AI tools, including GenAI and AI agents.
+> **[0:11](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/genai-reinforces-process-fundamentals?u=76281980&t=11)** The last few years have seen an explosion of AI tools, including GenAI and [[AI Agents]].
 >
 > **[0:18](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/genai-reinforces-process-fundamentals?u=76281980&t=18)** These tools help us do everything from craft content to write code to evaluate intense amounts of data.
 >
@@ -124,13 +122,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), rpa (2), business (1), data (1), next (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **Env Vars:** rpa (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - since (1)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -140,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=11)** This course will lay the foundations for understanding the role process discovery plays in deploying process automation technology.
 >
-> **[0:20](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=20)** I've designed this course for a broad audience, but this course is especially for you if you're part of an individual process improvement project or you're running an entire digital transformation program.
+> **[0:20](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=20)** I've designed this course for a broad audience, but this course is especially for you if you're part of an individual process improvement project or you're running an entire [[Digital Transformation]] program.
 >
 > **[0:34](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=34)** But even more importantly, this course is for you if you're looking to get ahead by familiarizing yourself with a leading form of enterprise technology.
 >
@@ -148,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=49)** These aren't strict prerequisites, but I'm confident that you'll find them helpful to relate to throughout this course.
 >
-> **[0:56](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=56)** One is [[Process Mining for Robotic Process Automation]], which is a primer for the general class of technologies that process discovery belongs to.
+> **[0:56](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=56)** One is [[[[Process Mining]] for [[Robotic Process Automation (RPA)|Robotic Process Automation]]]], which is a primer for the general class of technologies that process discovery belongs to.
 >
 > **[1:07](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/course-overview?u=76281980&t=67)** The other is Introduction to Robotic Process Automation, otherwise known as RPA.
 >
@@ -158,7 +155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (2), rpa (2), career (1), [[Automation]] (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (2), [[Digital Transformation]] (1), [[Process Mining]] (1)
 > **Env Vars:** rpa (2)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** find (1)
@@ -169,8 +166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Laying the groundwork
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980)
+#### [Laying the groundwork](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,23 +178,22 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980&t=26)** Then, as digital computers emerged in the late 20th century, the application of process science broadened as more companies used computers to crunch numbers at a large scale, quantifying their operations in the form of measurements like key performance indicators.
 >
-> **[0:43](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980&t=43)** The opening of the 21st century marked the beginning of business process management, or BPM, as a formalized discipline which included process management software tools.
+> **[0:43](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980&t=43)** The opening of the 21st century marked the beginning of [[Business Process Management]], or BPM, as a formalized discipline which included process management software tools.
 >
 > **[0:54](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980&t=54)** And as software began to take over the business world in the next few decades, process discovery took root as its own discipline and category of technology.
 >
-> **[1:04](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980&t=64)** Growth in process discovery has now accelerated alongside the adoption of automation technologies like robotic process automation.
+> **[1:04](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980&t=64)** Growth in process discovery has now accelerated alongside the adoption of automation technologies like [[Robotic Process Automation (RPA)|robotic process automation]].
 >
 > **[1:13](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980&t=73)** In this course, we'll see why process discovery is indispensable, not only for automation, but also for designing the enterprises of the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Automation]] (2), application (1), [[Business Process Management]] (1), business (1)
+> **Frameworks & Libraries:** [[Business Process Management]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Env Vars:** bpm (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - before (1)
 
-#### A modern approach to discovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-modern-approach-to-discovery?u=76281980)
+#### [A modern approach to discovery](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-modern-approach-to-discovery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,7 +221,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-modern-approach-to-discovery?u=76281980&t=108)** It leverages the digital environment of modern operations to observe and capture each step and task performed by workers on their computer.
 >
-> **[1:58](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-modern-approach-to-discovery?u=76281980&t=118)** The sequence of tasks for each process by every worker are digested by machine learning algorithms and organized into interactive process models.
+> **[1:58](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-modern-approach-to-discovery?u=76281980&t=118)** The sequence of tasks for each process by every worker are digested by machine learning [[Algorithms]] and organized into interactive process models.
 >
 > **[2:07](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-modern-approach-to-discovery?u=76281980&t=127)** These models have to be somewhat powerful since every iteration of a process across the entire team is part of the data set.
 >
@@ -252,18 +247,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), business (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - at (1)
 
-#### Process discovery vs. process mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980)
+#### [Process discovery vs. process mining](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=0)** - If you've done your own research on the technology ecosystem, you may have encountered the term process mining and wondered what's the difference between process mining and process discovery?
+> **[0:00](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=0)** - If you've done your own research on the technology ecosystem, you may have encountered the term [[Process Mining]] and wondered what's the difference between process mining and process discovery?
 >
 > **[0:11](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=11)** It's important to have a clear understanding of these two terms to avoid confusion since they're frequently seen together.
 >
@@ -283,7 +277,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=65)** First, to capture process data, process mining tools extract transactional workflow data from applications, also known as even logs.
 >
-> **[1:15](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=75)** Process discovery tools capture data by observing user actions on the desktop with computer vision.
+> **[1:15](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=75)** Process discovery tools capture data by observing user actions on the desktop with [[Computer Vision]].
 >
 > **[1:23](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=83)** As a result, in terms of integrations, as shown in the next row, process mining tools require backend integration with software applications, while process discovery tools require the installation of a desktop observation tool, something that watches your people as they work.
 >
@@ -291,7 +285,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=116)** Both process mining and process discovery tools produce a visual process model and have similar features to extract insights from it.
 >
-> **[2:05](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=125)** Lastly, process mining lends itself best to optimization due to the abundance of performance metrics inherent in the event logs.
+> **[2:05](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=125)** Lastly, process mining lends itself best to optimization due to the abundance of [[Performance Metrics]] inherent in the event logs.
 >
 > **[2:14](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=134)** While process discovery is best used to augment process automation since it enhances the understanding of a process at a more granular level.
 >
@@ -299,23 +293,22 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=150)** The most important take away from this lesson is that process discovery is best deployed for the sake of automation.
 >
-> **[2:37](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=157)** This unique value proposition will be the focus for the rest of the course.
+> **[2:37](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/process-discovery-vs-process-mining?u=76281980&t=157)** This unique value proposition will be the focus for the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Process Mining]] (11), data (5), [[Automation]] (2), [[Computer Vision]] (1), next (1)
+> **Frameworks & Libraries:** [[Process Mining]] (11), [[Computer Vision]] (1), [[Performance Metrics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** in other words (1), is a  (1), known as (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - if (1)
 
-#### Synergies with automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980)
+#### [Synergies with automation](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=0)** - When paired with automation tools, like robotic process automation, process discovery can greatly enhance the degree of value gained.
+> **[0:00](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=0)** - When paired with automation tools, like [[Robotic Process Automation (RPA)|robotic process automation]], process discovery can greatly enhance the degree of value gained.
 >
 > **[0:08](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=8)** If you're totally unfamiliar with RPA, the course I mentioned in the course overview lesson, Introduction to Robotic Process Automation, will be useful preparation for this upcoming section.
 >
@@ -323,26 +316,25 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=34)** Think of tasks like filling in a form or copying data from a document into a spreadsheet.
 >
-> **[0:39](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=39)** In large enterprises, these tasks are commonplace in virtually every process, whether it's finance or human resources.
+> **[0:39](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=39)** In large enterprises, these tasks are commonplace in virtually every process, whether it's finance or [[Human Resources (HR)|human resources]].
 >
 > **[0:47](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=47)** This is where automation tools like RPA can create value by minimizing the manual repetitive work that would otherwise be done by a human.
 >
 > **[0:56](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=56)** Before you automate a process with RPA or even design a plan to do so, you must first conduct the process discovery phase in which you learn the process inside and out.
 >
-> **[1:08](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=68)** In the next section, we'll walk through the various stages of conducting process discovery for a set of processes, say for a digital transformation initiative involving RPA.
+> **[1:08](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=68)** In the next section, we'll walk through the various stages of conducting process discovery for a set of processes, say for a [[Digital Transformation]] initiative involving RPA.
 >
 > **[1:19](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/synergies-with-automation?u=76281980&t=79)** We'll then explore where process discovery technology can play a substantial role.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (5), [[Automation]] (3), [[Robotic Process Automation (RPA)|Robotic process automation]] (2), data (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (2), [[Human Resources (HR)|Human resources]] (1), [[Digital Transformation]] (1)
 > **Env Vars:** rpa (5)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
 
-#### The new frontier of automation and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980)
+#### [The new frontier of automation and AI](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,13 +346,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980&t=22)** For instance, intelligent document processing, which serves as the eyes to read and interpret structured and unstructured documents.
 >
-> **[0:31](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980&t=31)** You should also explore conversational AI, the ears and mouth, allowing people to interact with and query data.
+> **[0:31](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980&t=31)** You should also explore [[Conversational AI]], the ears and mouth, allowing people to interact with and query data.
 >
-> **[0:38](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980&t=38)** Finally, AI agents in the broader agentic landscape of intelligence powered by large language models and machine learning.
+> **[0:38](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980&t=38)** Finally, [[AI Agents]] in the broader agentic landscape of intelligence powered by [[Large Language Models (LLM)|large language models]] and machine learning.
 >
 > **[0:46](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980&t=46)** These agents promise to alter everything about how we work and who we work with.
 >
-> **[0:51](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980&t=51)** You can find courses on all of these topics on my LinkedIn Learning instructor page.
+> **[0:51](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980&t=51)** You can find courses on all of these topics on my [[LinkedIn]] Learning instructor page.
 >
 > **[0:55](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-new-frontier-of-automation-and-ai?u=76281980&t=55)** But note, with all of these advancements in digital technology, the one thing that remains constant is the importance of well-documented and well-understood processes.
 >
@@ -368,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (3), [[Automation]] (1), [[Conversational AI]] (1), data (1), ai (1)
+> **Frameworks & Libraries:** [[Conversational AI]] (1), [[AI Agents]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rpa (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -379,8 +371,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting an initial scope for automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/setting-an-initial-scope-for-automation?u=76281980)
+#### [Setting an initial scope for automation](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/setting-an-initial-scope-for-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,11 +401,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), data (2)
 > **Speakers:** - let (1)
 
-#### Challenge: Process complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-process-complexity?u=76281980)
+#### [Challenge: Process complexity](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-process-complexity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +425,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-process-complexity?u=76281980&t=72)** The types and number of inputs.
 >
-> **[1:15](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-process-complexity?u=76281980&t=75)** The amount of unstructured data, any data of variable length and format.
+> **[1:15](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-process-complexity?u=76281980&t=75)** The amount of [[Unstructured Data]], any data of variable length and format.
 >
 > **[1:21](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-process-complexity?u=76281980&t=81)** The number of steps or screens.
 >
@@ -458,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), teams (2), [[Unstructured Data]] (2), rpa (2), next (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (2)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** rpa (2)
 > **CLI Commands:** make (1)
@@ -466,8 +455,7 @@ created: 2026-05-02
 > **Speakers:** - after (1)
 > **Non-Speech:** (upbeat pop music) (1)
 
-#### Solution: Process complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-process-complexity?u=76281980)
+#### [Solution: Process complexity](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-process-complexity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -501,14 +489,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), application (1), data (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 > **Non-Speech:** (upbeat pop music) (1)
 
-#### Challenge: Benefit estimation
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-benefit-estimation?u=76281980)
+#### [Challenge: Benefit estimation](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-benefit-estimation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,13 +528,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Automation]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - with (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Benefit estimation
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-benefit-estimation?u=76281980)
+#### [Solution: Benefit estimation](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-benefit-estimation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,7 +568,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (1), business (1)
 > **Versions:** 1.8 (1)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
@@ -592,8 +575,7 @@ created: 2026-05-02
 > **Speakers:** - as (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Prioritization and scope-setting
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-prioritization-and-scope-setting?u=76281980)
+#### [Challenge: Prioritization and scope-setting](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-prioritization-and-scope-setting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-prioritization-and-scope-setting?u=76281980&t=24)** It can be tempting to step right into the fray and begin work on those processes with the highest potential benefit.
 >
-> **[0:31](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-prioritization-and-scope-setting?u=76281980&t=31)** But this is not the most organized approach to holistic digital transformation.
+> **[0:31](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-prioritization-and-scope-setting?u=76281980&t=31)** But this is not the most organized approach to holistic [[Digital Transformation]].
 >
 > **[0:37](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/challenge-prioritization-and-scope-setting?u=76281980&t=37)** In fact, I've seen it get in the way of achieving the longer term benefits of a transformation initiative.
 >
@@ -621,18 +603,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Automation]] (1), teams (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **Speakers:** - using (1)
 > **Non-Speech:** (energetic electronic music) (1)
 
-#### Solution: Prioritization of scope-setting
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-prioritization-of-scope-setting?u=76281980)
+#### [Solution: Prioritization of scope-setting](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-prioritization-of-scope-setting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-prioritization-of-scope-setting?u=76281980&t=0)** (upbeat pop music)
 >
-> **[0:05](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-prioritization-of-scope-setting?u=76281980&t=5)** - For a large scale digital transformation initiative, where RPA is being rolled out across multiple processes, and automation roadmap is a must have.
+> **[0:05](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-prioritization-of-scope-setting?u=76281980&t=5)** - For a large scale [[Digital Transformation]] initiative, where RPA is being rolled out across multiple processes, and automation roadmap is a must have.
 >
 > **[0:15](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-prioritization-of-scope-setting?u=76281980&t=15)** In this course we'll be focusing on one core component of a typical roadmap where process discovery makes a big impact.
 >
@@ -646,7 +627,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-prioritization-of-scope-setting?u=76281980&t=45)** As you can see, it's a plot where one access represents the spectrum of process complexity, and the other is the spectrum of estimated benefits.
 >
-> **[0:55](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-prioritization-of-scope-setting?u=76281980&t=55)** Each process being considered is then plotted based on its relative complexity and benefits compared to the rest of the set.
+> **[0:55](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-prioritization-of-scope-setting?u=76281980&t=55)** Each process being considered is then plotted based on its relative complexity and benefits compared to the [[Representational State Transfer (REST)|rest]] of the set.
 >
 > **[1:02](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/solution-prioritization-of-scope-setting?u=76281980&t=62)** To communicate the key takeaways to stakeholders, it can help to label the four quadrants according to rough categories.
 >
@@ -684,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), [[Digital Transformation]] (2), rpa (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rpa (1)
 > **Definitions:** is a  (1)
@@ -696,8 +677,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A summary of hurdles
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-summary-of-hurdles?u=76281980)
+#### [A summary of hurdles](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-summary-of-hurdles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,16 +701,15 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-summary-of-hurdles?u=76281980&t=80)** From my own experience and from the public testimony of enterprises and research firms, these challenges reflect some of the most common stumbling blocks organizations face when deploying RPA.
 >
-> **[1:32](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-summary-of-hurdles?u=76281980&t=92)** If you're able to leverage process knowledge to overcome each of the obstacles we've gone through in this course, you'll greatly boost your chances of success in your digital transformation endeavor.
+> **[1:32](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-summary-of-hurdles?u=76281980&t=92)** If you're able to leverage process knowledge to overcome each of the obstacles we've gone through in this course, you'll greatly boost your chances of success in your [[Digital Transformation]] endeavor.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Automation]] (2), next (1), rpa (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **Env Vars:** rpa (1)
 > **Speakers:** - so (1)
 
-#### The automation ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980)
+#### [The automation ecosystem](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,23 +717,23 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=8)** While we've primarily focused on RPA as the key driver of automation, the landscape is evolving rapidly.
 >
-> **[0:14](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=14)** Process discovery tools are no longer just enablers for RPA, they're becoming essential for deploying a broader range of intelligent automation technologies, including intelligent document processing and natural language processing.
+> **[0:14](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=14)** Process discovery tools are no longer just enablers for RPA, they're becoming essential for deploying a broader range of intelligent automation technologies, including intelligent document processing and [[Natural Language Processing (NLP)|natural language processing]].
 >
-> **[0:28](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=28)** Looking ahead, AI agents and generative AI are reshaping automation in ways we're only beginning to grasp.
+> **[0:28](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=28)** Looking ahead, [[AI Agents]] and [[Generative AI]] are reshaping automation in ways we're only beginning to grasp.
 >
-> **[0:35](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=35)** These new automation tools promise even greater efficiency, adaptability, and decision-making capabilities.
+> **[0:35](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=35)** These new automation tools promise even greater efficiency, adaptability, and [[Decision-Making]] capabilities.
 >
 > **[0:42](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=42)** But success still depends on one fundamental principle, deeply understanding your processes before choosing a solution.
 >
 > **[0:51](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=51)** It's been a pleasure guiding you through this journey.
 >
-> **[0:54](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=54)** Please stay in touch and follow me on LinkedIn.
+> **[0:54](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=54)** Please stay in touch and follow me on [[LinkedIn]].
 >
 > **[0:56](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/the-automation-ecosystem-25742339?u=76281980&t=56)** I wish you much success.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), rpa (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), ai (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[AI Agents]] (1), [[Generative AI]] (1), [[Decision-Making]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rpa (2)
 > **Speakers:** - i (1)
 

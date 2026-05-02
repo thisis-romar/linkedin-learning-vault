@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Focus on what actually matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-what-actually-matters?u=76281980)
+#### [Focus on what actually matters](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-what-actually-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-what-actually-matters?u=76281980&t=2)** The world of data science is constantly evolving.
+> **[0:02](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-what-actually-matters?u=76281980&t=2)** The world of [[Data Science]] is constantly evolving.
 >
 > **[0:05](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-what-actually-matters?u=76281980&t=5)** In this course, we've brought together top data scientists across industries to share their knowledge, You'll learn how to overcome obstacles.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **CLI Commands:** make (1)
 
 
@@ -103,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Redefine what "data scientist" means
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980)
+#### [Redefine what "data scientist" means](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980&t=8)** It's the job.
 >
-> **[0:09](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980&t=9)** Hey, I'm Lorenzo, I’m a data analytics lead with over seven years of experience working in the data science space.
+> **[0:09](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980&t=9)** Hey, I'm Lorenzo, I’m a data analytics lead with over seven years of experience working in the [[Data Science]] space.
 >
 > **[0:14](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980&t=14)** And here's the thing: “data scientist” doesn't mean one fixed role.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980&t=64)** Here is an example.
 >
-> **[1:05](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980&t=65)** At one company I worked with a data scientist whose main job was building dashboard and writing SQL.
+> **[1:05](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980&t=65)** At one company I worked with a data scientist whose main job was building dashboard and writing [[SQL]].
 >
 > **[1:10](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980&t=70)** She wasn't doing anything you would call advanced, but she was critical to helping sales leadership hit targets every single quarter.
 >
@@ -160,12 +158,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (2), leadership (2), [[Analytics]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is an  (1)
 
-#### Ask the questions you're afraid to ask
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/ask-the-questions-you-re-afraid-to-ask?u=76281980)
+#### [Ask the questions you're afraid to ask](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/ask-the-questions-you-re-afraid-to-ask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/ask-the-questions-you-re-afraid-to-ask?u=76281980&t=46)** Let's say someone asks you for user engagement metrics.
 >
-> **[0:49](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/ask-the-questions-you-re-afraid-to-ask?u=76281980&t=49)** Instead of diving straight into SQL, stop and clarify: Which users?
+> **[0:49](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/ask-the-questions-you-re-afraid-to-ask?u=76281980&t=49)** Instead of diving straight into [[SQL]], stop and clarify: Which users?
 >
 > **[0:53](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/ask-the-questions-you-re-afraid-to-ask?u=76281980&t=53)** What kind of engagement?
 >
@@ -219,12 +216,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), teams (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 
-#### Focus on usefulness, not genius
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-usefulness-not-genius?u=76281980)
+#### [Focus on usefulness, not genius](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-usefulness-not-genius?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -270,7 +266,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1)
 > **CLI Commands:** make (1)
 
 
@@ -278,8 +273,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Slow down before you write your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980)
+#### [Slow down before you write your code](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +287,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=11)** I'm a data scientist, software engineer, and a STEM educator.
 >
-> **[0:15](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=15)** Planning upfront is really important in data science work.
+> **[0:15](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=15)** Planning upfront is really important in [[Data Science]] work.
 >
 > **[0:18](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=18)** It helps you make sure your efforts are aligned with the actual goals of the project.
 >
@@ -309,7 +303,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=47)** After that experience, I decided to carve in more time for planning at the beginning of projects.
 >
-> **[0:52](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=52)** For the next project, before I began any development work, I set up a planning session with stakeholders and the rest of the development team.
+> **[0:52](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=52)** For the next project, before I began any development work, I set up a planning session with stakeholders and the [[Representational State Transfer (REST)|rest]] of the development team.
 >
 > **[0:59](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=59)** I shared what my understanding is of the end goal and the high-level approach I have in mind, invited feedback, and initiated an open discussion.
 >
@@ -333,20 +327,19 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=105)** Write down the answers before you start coding.
 >
-> **[1:48](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=108)** You could put them in a project doc, a Jira ticket, or even a sticky note on your desk.
+> **[1:48](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=108)** You could put them in a project doc, a [[Jira]] ticket, or even a sticky note on your desk.
 >
 > **[1:52](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980&t=112)** Having those goals defined up front will keep your work focused, prevent misalignment, and make sure you're solving the right problem from the start.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Jira]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ide (1), stem (1)
 > **Tools:** jira (1)
 > **Prerequisites:** set up (1)
 
-#### Know when you're overbuilding
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/know-when-you-re-overbuilding?u=76281980)
+#### [Know when you're overbuilding](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/know-when-you-re-overbuilding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,13 +399,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Engineering]] (1), product (1), next (1)
 > **Env Vars:** mvp (1)
 > **Analogies:** picture (1)
 > **Best Practices:** the key is (1)
 
-#### Keep a mental checklist of assumptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/keep-a-mental-checklist-of-assumptions?u=76281980)
+#### [Keep a mental checklist of assumptions](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/keep-a-mental-checklist-of-assumptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +411,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/keep-a-mental-checklist-of-assumptions?u=76281980&t=4)** But small gaps can affect your data analysis or model.
 >
-> **[0:07](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/keep-a-mental-checklist-of-assumptions?u=76281980&t=7)** Every project has hidden assumptions about data quality, user behavior, business contacts, or system coverage.
+> **[0:07](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/keep-a-mental-checklist-of-assumptions?u=76281980&t=7)** Every project has hidden assumptions about [[Data Quality]], user behavior, business contacts, or system coverage.
 >
 > **[0:15](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/keep-a-mental-checklist-of-assumptions?u=76281980&t=15)** If you don't surface them, your work may look accurate but still miss the mark in reality.
 >
@@ -454,13 +445,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/keep-a-mental-checklist-of-assumptions?u=76281980&t=76)** Treat it as an evolving checklist that you can add to and update as you go.
 >
-> **[1:20](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/keep-a-mental-checklist-of-assumptions?u=76281980&t=80)** And keep it logged somewhere that you can revisit often, like in a project notebook, a Jira ticket, or a repo README file.
+> **[1:20](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/keep-a-mental-checklist-of-assumptions?u=76281980&t=80)** And keep it logged somewhere that you can revisit often, like in a project notebook, a [[Jira]] ticket, or a repo README file.
 >
 > **[1:28](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/keep-a-mental-checklist-of-assumptions?u=76281980&t=88)** Doing this can save you from building something that's accurate on paper, but broken in practice.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (3), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** readme (1)
 > **Tools:** jira (1)
@@ -471,8 +462,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Say what it means—not just what it is
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/say-what-it-means-not-just-what-it-is?u=76281980)
+#### [Say what it means—not just what it is](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/say-what-it-means-not-just-what-it-is?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,7 +478,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/say-what-it-means-not-just-what-it-is?u=76281980&t=19)** Communicating the implications of your findings are just as important as the results themselves.
 >
-> **[0:24](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/say-what-it-means-not-just-what-it-is?u=76281980&t=24)** Stakeholders aren't looking for R-squared values or a lesson in logistic regression.
+> **[0:24](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/say-what-it-means-not-just-what-it-is?u=76281980&t=24)** Stakeholders aren't looking for R-squared values or a lesson in [[Logistic Regression]].
 >
 > **[0:28](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/say-what-it-means-not-just-what-it-is?u=76281980&t=28)** They're looking for direction.
 >
@@ -518,11 +508,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Logistic Regression]] (1), next (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (1)
 > **Analogies:** it's like (1)
 
-#### Talk to stakeholders as a data scientist
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/talk-to-stakeholders-as-a-data-scientist?u=76281980)
+#### [Talk to stakeholders as a data scientist](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/talk-to-stakeholders-as-a-data-scientist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -532,7 +521,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/talk-to-stakeholders-as-a-data-scientist?u=76281980&t=6)** That's what actually puts you at risk.
 >
-> **[0:08](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/talk-to-stakeholders-as-a-data-scientist?u=76281980&t=8)** In data science, honesty builds trust, even if that means admitting uncertainty.
+> **[0:08](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/talk-to-stakeholders-as-a-data-scientist?u=76281980&t=8)** In [[Data Science]], honesty builds trust, even if that means admitting uncertainty.
 >
 > **[0:13](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/talk-to-stakeholders-as-a-data-scientist?u=76281980&t=13)** You're not expected to have every answer on the spot.
 >
@@ -562,11 +551,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), career (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **CLI Commands:** find (1), make (1)
 
-#### Admit what you don't know
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/admit-what-you-don-t-know?u=76281980)
+#### [Admit what you don't know](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/admit-what-you-don-t-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,9 +588,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/admit-what-you-don-t-know?u=76281980&t=55)** And here's what I would recommend.”
 >
-> **[0:57](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/admit-what-you-don-t-know?u=76281980&t=57)** Even simple word swaps make a huge difference.
+> **[0:57](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/admit-what-you-don-t-know?u=76281980&t=57)** Even simple [[Microsoft Word|word]] swaps make a huge difference.
 >
-> **[1:00](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/admit-what-you-don-t-know?u=76281980&t=60)** Like saying, “We predict this group is likely to churn” instead of “The model output a probability over 0.75.”
+> **[1:00](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/admit-what-you-don-t-know?u=76281980&t=60)** Like saying, “We predict this group is likely to churn” instead of “The model output a [[Probability]] over 0.75.”
 >
 > **[1:06](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/admit-what-you-don-t-know?u=76281980&t=66)** This lands better and actually drives action.
 >
@@ -614,7 +602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), feature (1), [[Microsoft Word|Word]] (1), [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Probability]] (1)
 > **CLI Commands:** make (3)
 > **Versions:** 0.75 (1)
 
@@ -623,8 +611,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Treat mistakes like story material
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/treat-mistakes-like-story-material?u=76281980)
+#### [Treat mistakes like story material](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/treat-mistakes-like-story-material?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,12 +667,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 
-#### Stop chasing tools you don't need yet
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/stop-chasing-tools-you-don-t-need-yet?u=76281980)
+#### [Stop chasing tools you don't need yet](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/stop-chasing-tools-you-don-t-need-yet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +696,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/stop-chasing-tools-you-don-t-need-yet?u=76281980&t=37)** What tool does my team already use that I could learn better?
 >
-> **[0:40](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/stop-chasing-tools-you-don-t-need-yet?u=76281980&t=40)** If your job is to build dashboards, don't spend your weekends learning to build a neural network.
+> **[0:40](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/stop-chasing-tools-you-don-t-need-yet?u=76281980&t=40)** If your job is to build [[Dashboards]], don't spend your weekends learning to build a neural network.
 >
 > **[0:45](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/stop-chasing-tools-you-don-t-need-yet?u=76281980&t=45)** Your task at hand --building dashboards-- will make you valuable tomorrow.
 >
@@ -723,17 +708,16 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/stop-chasing-tools-you-don-t-need-yet?u=76281980&t=62)** You have to walk before you can run.
 >
-> **[1:04](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/stop-chasing-tools-you-don-t-need-yet?u=76281980&t=64)** And so stop chasing tools that sound like data science.
+> **[1:04](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/stop-chasing-tools-you-don-t-need-yet?u=76281980&t=64)** And so stop chasing tools that sound like [[Data Science]].
 >
 > **[1:07](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/stop-chasing-tools-you-don-t-need-yet?u=76281980&t=67)** Focus on the tools that lets you do good work today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), [[Dashboards]] (2), next (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Data Science]] (1)
 > **CLI Commands:** make (1)
 
-#### Create simple systems and workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/create-simple-systems-and-workflows?u=76281980)
+#### [Create simple systems and workflows](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/create-simple-systems-and-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -793,7 +777,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (2)
 
@@ -802,8 +785,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose jobs that enable you to grow
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980)
+#### [Choose jobs that enable you to grow](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,9 +797,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980&t=13)** When I was looking for a job a few years ago, I considered a range of different opportunities.
 >
-> **[0:18](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980&t=18)** After all, data science can be applied to so many different fields.
+> **[0:18](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980&t=18)** After all, [[Data Science]] can be applied to so many different fields.
 >
-> **[0:22](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980&t=22)** Through the process of interviewing and doing my research, I got a sense of how each role maps to my career aspirations.
+> **[0:22](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980&t=22)** Through the process of [[Interviewing]] and doing my research, I got a sense of how each role maps to my career aspirations.
 >
 > **[0:28](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980&t=28)** I also got a sense of which roles I felt most excited by.
 >
@@ -857,11 +839,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), data (2), [[Interviewing]] (1), parallel (1), teams (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Interviewing]] (1)
 > **CLI Commands:** make (1)
 
-#### Build a reputation as a collaborator
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/build-a-reputation-as-a-collaborator?u=76281980)
+#### [Build a reputation as a collaborator](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/build-a-reputation-as-a-collaborator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,29 +888,24 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/build-a-reputation-as-a-collaborator?u=76281980&t=68)** Start building that reputation now before you need it.
 
-> [!info]- Semantic Content
->
-> **Frameworks & Libraries:** data (1), next (1), leadership (1)
-
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Develop in your data science career
-> [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/develop-in-your-data-science-career?u=76281980)
+#### [Develop in your data science career](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/develop-in-your-data-science-career?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/develop-in-your-data-science-career?u=76281980&t=1)** Thanks for watching this course on lessons from Data Scientists.
 >
-> **[0:04](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/develop-in-your-data-science-career?u=76281980&t=4)** Data science is an exciting field, and as you can see, offers many rewarding career paths.
+> **[0:04](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/develop-in-your-data-science-career?u=76281980&t=4)** [[Data Science]] is an exciting field, and as you can see, offers many rewarding career paths.
 >
 > **[0:10](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/develop-in-your-data-science-career?u=76281980&t=10)** If you enjoyed this course, check out the additional data science courses on this platform.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **Definitions:** is an  (1)
 
 

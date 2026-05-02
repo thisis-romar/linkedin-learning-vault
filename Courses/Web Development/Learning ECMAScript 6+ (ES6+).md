@@ -105,14 +105,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using modern JavaScript today
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980)
+#### [Using modern JavaScript today](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980&t=0)** (electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980&t=5)** - [Eve] JavaScript is more popular than ever and it's usually the go to for building web applications.
+> **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980&t=5)** - [Eve] [[JavaScript]] is more popular than ever and it's usually the go to for building web applications.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980&t=12)** As the web changes though, JavaScript is changing too.
 >
@@ -128,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980&t=39)** I use it for almost everything and I love to check out the new features that can help save me time and write better code.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980&t=47)** In this course we'll get into ECMAScript.
+> **[0:47](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980&t=47)** In this course we'll get into [[ECMAScript]].
 >
 > **[0:49](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980&t=49)** What it is, how to use it, and we'll cover a ton of features to help you work more effectively with objects, arrays, functions, and classes as you build your own apps.
 >
@@ -138,21 +137,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), web (2), [[ECMAScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ECMAScript]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [eve] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-you-should-know-before-watching-this-course?u=76281980&t=0)** - [Narrator] Before we begin this course, there are a few things you might want to have in place before we get started.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-you-should-know-before-watching-this-course?u=76281980&t=5)** So a few things to know, this course does assume a little bit of knowledge of HTML, a tiny bit of knowledge about CSS, and then some information about JavaScript.
+> **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-you-should-know-before-watching-this-course?u=76281980&t=5)** So a few things to know, this course does assume a little bit of knowledge of [[HTML]], a tiny bit of knowledge about CSS, and then some information about [[JavaScript]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-you-should-know-before-watching-this-course?u=76281980&t=16)** So if you know basics like strings, numbers, arrays, objects or functions or at least you've seen these things, you should have everything you need to get started.
 >
@@ -168,13 +166,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** html (1), css (1)
 > **Tools:** vs code (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to use CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/how-to-use-coderpad?u=76281980)
+#### [How to use CoderPad](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/how-to-use-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/how-to-use-coderpad?u=76281980&t=16)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/how-to-use-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience with the code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/how-to-use-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience with the code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/how-to-use-coderpad?u=76281980&t=33)** The code challenge has four areas.
 >
@@ -238,7 +235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** bycategory (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** cat (1)
@@ -250,14 +247,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is ECMAScript?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-is-ecmascript?u=76281980)
+#### [What is ECMAScript?](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-is-ecmascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-is-ecmascript?u=76281980&t=0)** - [Instructor] A discussion of what ECMAScript is should start with a quick recap of the history of ECMAScript in general.
+> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-is-ecmascript?u=76281980&t=0)** - [Instructor] A discussion of what [[ECMAScript]] is should start with a quick recap of the history of ECMAScript in general.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-is-ecmascript?u=76281980&t=5)** In 1995, JavaScript was created by Brendon Eich at Netscape, and then was adopted by Microsoft as JScript.
+> **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-is-ecmascript?u=76281980&t=5)** In 1995, [[JavaScript]] was created by Brendon Eich at Netscape, and then was adopted by [[Microsoft]] as JScript.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-is-ecmascript?u=76281980&t=13)** With different versions of a language for different browsers, there was soon a need to standardize the language.
 >
@@ -296,20 +292,19 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Staying up to date with new releases
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980)
+#### [Staying up to date with new releases](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=1)** - [Instructor] In the previous video, we talked about the ECMAScript Committee as kind of this shadowy, vague concept.
+> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=1)** - [Instructor] In the previous video, we talked about the [[ECMAScript]] Committee as kind of this shadowy, vague concept.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=7)** It's this nebulous group of people that does something related to JavaScript.
+> **[0:07](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=7)** It's this nebulous group of people that does something related to [[JavaScript]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=13)** But it's not a secret what they're up to.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=15)** So you can stay on top of what this committee is up to by going to the repo.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=22)** So you can use this repo [github.com/tc39](https://github.com/tc39).
+> **[0:22](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=22)** So you can use this repo [[[GitHub]].com/tc39](https://github.com/tc39).
 >
 > **[0:27](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/staying-up-to-date-with-new-releases?u=76281980&t=27)** In it, you're going to see all of the different proposals that are part of the ECMAScript process.
 >
@@ -327,19 +322,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ECMAScript]] (2), [[JavaScript]] (1), [[GitHub]] (1), feature (1)
+> **Frameworks & Libraries:** [[ECMAScript]] (2), [[JavaScript]] (1), [[GitHub]] (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **UI Navigation:** click on (2)
 > **URLs:** [github.com](https://github.com) (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding browser support
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-browser-support?u=76281980)
+#### [Understanding browser support](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-browser-support?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-browser-support?u=76281980&t=0)** - [Instructor] When the ECMAScript Committee approves new features, companies that make web browsers have new guidelines for how to use JavaScript, but that doesn't necessarily mean that a magic wand is waved, and all these browsers automatically support that feature.
+> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-browser-support?u=76281980&t=0)** - [Instructor] When the [[ECMAScript]] Committee approves new features, companies that make web browsers have new guidelines for how to use [[JavaScript]], but that doesn't necessarily mean that a magic wand is waved, and all these browsers automatically support that feature.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-browser-support?u=76281980&t=14)** Something that can help you if you're trying to explore some of the newer corners of the ECMAScript ecosystem is this compatibility table right here.
 >
@@ -349,7 +343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ECMAScript]] (2), web (1), [[JavaScript]] (1), feature (1)
+> **Frameworks & Libraries:** [[ECMAScript]] (2), [[JavaScript]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -358,14 +352,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the let keyword
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980)
+#### [Using the let keyword](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980&t=0)** - [Instructor] In earlier versions of JavaScript, there was only one way to create a variable, and that was to use the var keyword.
+> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980&t=0)** - [Instructor] In earlier versions of [[JavaScript]], there was only one way to create a variable, and that was to use the var keyword.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980&t=7)** So I have an HTML document set up here.
+> **[0:07](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980&t=7)** So I have an [[HTML]] document set up here.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980&t=10)** I have added a script tag, and I'm just going to place some JavaScript code directly there in the script tag.
 >
@@ -373,7 +366,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980&t=21)** Now, inside of the script tag, using this topic variable, I'm going to go ahead and create a loop.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980&t=27)** So if the topic exists, we're going to reset the value of this topic to ECMAScript.
+> **[0:27](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980&t=27)** So if the topic exists, we're going to reset the value of this topic to [[ECMAScript]].
 >
 > **[0:35](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980&t=35)** And then we're going to try to look at the value of this topic inside of the block.
 >
@@ -455,7 +448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), [[ECMAScript]] (3), [[HTML]] (2), dom (2), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[ECMAScript]] (3), [[HTML]] (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (3)
 > **Code Identifiers:** getelementbyid (1), createelement (1)
@@ -464,12 +457,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with the const keyword
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/working-with-the-const-keyword?u=76281980)
+#### [Working with the const keyword](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/working-with-the-const-keyword?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/working-with-the-const-keyword?u=76281980&t=0)** - [Instructor] In addition to let, there's another way to create a variable with JavaScript, and that's to create a constant.
+> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/working-with-the-const-keyword?u=76281980&t=0)** - [Instructor] In addition to let, there's another way to create a variable with [[JavaScript]], and that's to create a constant.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/working-with-the-const-keyword?u=76281980&t=6)** So we can use the const keyword, just like we use the var keyword to create a variable that cannot be reset.
 >
@@ -509,18 +501,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Cross-References:** later in (1)
 > **Analogies:** just like (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing template strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-template-strings?u=76281980)
+#### [Writing template strings](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-template-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-template-strings?u=76281980&t=0)** - [Instructor] Another powerful feature of JavaScript that you can use are template strings.
+> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-template-strings?u=76281980&t=0)** - [Instructor] Another powerful feature of [[JavaScript]] that you can use are template strings.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-template-strings?u=76281980&t=4)** Template strings or template literals allow you to tap into the functionality of template languages to format your JavaScript code with variables.
 >
@@ -592,19 +583,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5)
 > **Exercise Files:** template (15)
 > **CLI Commands:** make (2)
 > **File Paths:** script.js (1)
 > **Versions:** 5.95 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Searching strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/searching-strings?u=76281980)
+#### [Searching strings](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/searching-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/searching-strings?u=76281980&t=1)** - [Instructor] There are a few built in utilities that are part of JavaScript that can help us complete common tasks like searching strings.
+> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/searching-strings?u=76281980&t=1)** - [Instructor] There are a few built in utilities that are part of [[JavaScript]] that can help us complete common tasks like searching strings.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/searching-strings?u=76281980&t=8)** Let's take a look at how a few of these might work.
 >
@@ -666,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** endswith (3), startswith (2)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** note that (1), keep in mind (1)
@@ -674,12 +664,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using symbols
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-symbols?u=76281980)
+#### [Using symbols](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-symbols?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-symbols?u=76281980&t=1)** - [Instructor] At the core of all of our JavaScript applications are primitives.
+> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-symbols?u=76281980&t=1)** - [Instructor] At the core of all of our [[JavaScript]] applications are primitives.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-symbols?u=76281980&t=5)** Primitives in JavaScript are types like numbers, strings, arrays, objects, and more.
 >
@@ -725,14 +714,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5)
 > **CLI Commands:** make (1)
 > **Env Vars:** es6 (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-maps?u=76281980)
+#### [Writing maps](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,7 +736,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-maps?u=76281980&t=25)** Maps then have these methods on them called set so we can set values.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-maps?u=76281980&t=30)** So the key would be react and the value would be description ui, so that object.
+> **[0:30](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-maps?u=76281980&t=30)** So the key would be [[React.js|react]] and the value would be description ui, so that object.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-maps?u=76281980&t=36)** So then we can say course.set jest, and we'll give that one an object description as well.
 >
@@ -780,7 +768,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-maps?u=76281980&t=121)** The second one here, we'll use two.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-maps?u=76281980&t=123)** We'll use a JavaScript number as our key.
+> **[2:03](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-maps?u=76281980&t=123)** We'll use a [[JavaScript]] number as our key.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-maps?u=76281980&t=128)** Then we can set the value to this object that has a nested array inside of it.
 >
@@ -812,12 +800,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[JavaScript]] (2), hit (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JavaScript]] (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/working-with-sets?u=76281980)
+#### [Working with sets](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/working-with-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -883,15 +870,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Solution: Building a user processor function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-a-user-processor-function?u=76281980)
+#### [Solution: Building a user processor function](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-a-user-processor-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,7 +926,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), power (1)
 > **Code Identifiers:** isadmin (3), tolowercase (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
@@ -953,8 +937,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the array spread operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-array-spread-operator?u=76281980)
+#### [Using the array spread operator](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-array-spread-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1004,8 +987,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Destructuring arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/destructuring-arrays?u=76281980)
+#### [Destructuring arrays](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/destructuring-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,12 +1031,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Searching arrays with the .includes function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/searching-arrays-with-the-includes-function?u=76281980)
+#### [Searching arrays with the .includes function](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/searching-arrays-with-the-includes-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,11 +1052,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Implementing a Smart Array processor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-implementing-a-smart-array-processor?u=76281980)
+#### [Solution: Implementing a Smart Array processor](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-implementing-a-smart-array-processor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1108,7 +1086,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3)
 > **Env Vars:** es6 (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1117,8 +1094,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enhancing object literals
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/enhancing-object-literals?u=76281980)
+#### [Enhancing object literals](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/enhancing-object-literals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1168,7 +1144,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/enhancing-object-literals?u=76281980&t=106)** Now if we try to call that powder yell function again, we should see that this is still working and we can test it out by swapping out woo for yeah and everything works.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/enhancing-object-literals?u=76281980&t=117)** So this syntax in ECMAScript is called object literal enhancement.
+> **[1:57](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/enhancing-object-literals?u=76281980&t=117)** So this syntax in [[ECMAScript]] is called object literal enhancement.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/enhancing-object-literals?u=76281980&t=122)** We're creating an object literal and making it cleaner and more readable with less repetition.
 
@@ -1180,8 +1156,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating objects with the spread operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/creating-objects-with-the-spread-operator?u=76281980)
+#### [Creating objects with the spread operator](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/creating-objects-with-the-spread-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1226,12 +1201,11 @@ created: 2026-05-02
 > **Code Identifiers:** backpackingmeals (1)
 > **Speakers:** - [instructor] (1)
 
-#### Destructuring objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/destructuring-objects?u=76281980)
+#### [Destructuring objects](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/destructuring-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/destructuring-objects?u=76281980&t=1)** - [Instructor] A handy feature that you'll see used widely in JavaScript applications is destructuring.
+> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/destructuring-objects?u=76281980&t=1)** - [Instructor] A handy feature that you'll see used widely in [[JavaScript]] applications is destructuring.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/destructuring-objects?u=76281980&t=8)** So let's use a simple example to get us started.
 >
@@ -1291,13 +1265,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterating with the for/of loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980)
+#### [Iterating with the for/of loop](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1307,7 +1280,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=14)** So let's go ahead and loop over a string.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=16)** So we're going to say for and we'll say let letter of JavaScript and then for each letter in JavaScript, we'll log it to the console.
+> **[0:16](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=16)** So we're going to say for and we'll say let letter of [[JavaScript]] and then for each letter in JavaScript, we'll log it to the console.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=25)** So we see all of these different letters being added to the console on their own line.
 >
@@ -1319,7 +1292,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=50)** And we see all of them being added here at the bottom.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=53)** So instead of using the array for topics, we're going to go ahead and create a new map and then we'll use the set function to define a key, which will be HTML.
+> **[0:53](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=53)** So instead of using the array for topics, we're going to go ahead and create a new map and then we'll use the set function to define a key, which will be [[HTML]].
 >
 > **[1:03](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=63)** And a route where we can find more information about it.
 >
@@ -1353,27 +1326,26 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=144)** It will give us the key-value pairs that are part of this map.
 >
-> **[2:31](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=151)** So because we have these new data structures available in the latest versions of ECMAScript, it's really nice to have something like for/of to help us iterate.
+> **[2:31](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/iterating-with-the-for-of-loop?u=76281980&t=151)** So because we have these new [[Data Structures]] available in the latest versions of [[ECMAScript]], it's really nice to have something like for/of to help us iterate.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), css (4), [[HTML]] (4), node (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[HTML]] (4), [[Data Structures]] (1), [[ECMAScript]] (1)
 > **Env Vars:** css (4), html (3)
 > **CLI Commands:** node (1), find (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/introducing-classes?u=76281980)
+#### [Introducing classes](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/introducing-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/introducing-classes?u=76281980&t=1)** - [Instructor] Classes have long been used in object-oriented programming languages to encourage reusability.
+> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/introducing-classes?u=76281980&t=1)** - [Instructor] Classes have long been used in [[Object-Oriented Programming (OOP)|object-oriented programming]] languages to encourage reusability.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/introducing-classes?u=76281980&t=8)** For example, if we created some sort of a class called chair, a chair would have certain characteristics and then we could create instances of that chair in our projects.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/introducing-classes?u=76281980&t=18)** As of around 2015, we now have a way to create and use classes with JavaScript and the syntax is pretty fun to use.
+> **[0:18](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/introducing-classes?u=76281980&t=18)** As of around 2015, we now have a way to create and use classes with [[JavaScript]] and the syntax is pretty fun to use.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/introducing-classes?u=76281980&t=26)** So first, let's go ahead and create a class called Vehicle.
 >
@@ -1419,7 +1391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Code Identifiers:** describeyourself (3), coolskivan (2)
 > **Definitions:** is a  (2)
 > **Exercise Files:** template (1)
@@ -1427,8 +1399,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inheritance with JavaScript classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/inheritance-with-javascript-classes?u=76281980)
+#### [Inheritance with JavaScript classes](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/inheritance-with-javascript-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1450,7 +1421,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/inheritance-with-javascript-classes?u=76281980&t=72)** We create one superclass the Vehicle, and then we can extend it for reuse.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/inheritance-with-javascript-classes?u=76281980&t=78)** Developers who have come to JavaScript from Python or Java are usually pretty excited to hear this because there wasn't a way to create a class in the past, and this sort of mirrors what goes on in other languages.
+> **[1:18](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/inheritance-with-javascript-classes?u=76281980&t=78)** Developers who have come to [[JavaScript]] from [[Python (Programming Language)|Python]] or [[Java]] are usually pretty excited to hear this because there wasn't a way to create a class in the past, and this sort of mirrors what goes on in other languages.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/inheritance-with-javascript-classes?u=76281980&t=91)** So this is a syntax that you can take advantage of if you like it, and you can use it to create all sorts of reusable objects.
 
@@ -1463,12 +1434,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [tutor] (1)
 
-#### Getting and setting class values
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/getting-and-setting-class-values?u=76281980)
+#### [Getting and setting class values](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/getting-and-setting-class-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/getting-and-setting-class-values?u=76281980&t=2)** - [Instructor] In objects and in classes, JavaScript has a get method and a set method.
+> **[0:02](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/getting-and-setting-class-values?u=76281980&t=2)** - [Instructor] In objects and in classes, [[JavaScript]] has a get method and a set method.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/getting-and-setting-class-values?u=76281980&t=8)** A getter or a get method gets the value of a specific property.
 >
@@ -1554,14 +1524,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** addname (2), calclength (1), mttallac (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Building a product object
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-a-product-object?u=76281980)
+#### [Solution: Building a product object](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-a-product-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1591,11 +1560,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-a-product-object?u=76281980&t=78)** Let's go ahead and test my code.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-a-product-object?u=76281980&t=80)** And we see, okay, we have mastered our ES6 object literals, we're using this shorthand function syntax, and we're creating a function that can be used to create various instances of these products.
+> **[1:20](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-a-product-object?u=76281980&t=80)** And we see, okay, we have mastered our ES6 object literals, we're using this shorthand function syntax, and we're creating a function that can be used to create various instances of these [[Microsoft Products|products]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** es6 (2)
 > **Definitions:** is a  (1)
@@ -1606,8 +1575,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the string.repeat function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-string-repeat-function?u=76281980)
+#### [Using the string.repeat function](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-string-repeat-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1662,14 +1630,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting default function parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/setting-default-function-parameters?u=76281980)
+#### [Setting default function parameters](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/setting-default-function-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/setting-default-function-parameters?u=76281980&t=0)** - [Instructor] There might be situations where you want to provide default values for your functions parameters.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/setting-default-function-parameters?u=76281980&t=5)** And with modern JavaScript, you can.
+> **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/setting-default-function-parameters?u=76281980&t=5)** And with modern [[JavaScript]], you can.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/setting-default-function-parameters?u=76281980&t=8)** So let's create a really basic function that adds a couple of numbers together.
 >
@@ -1725,8 +1692,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing arrow functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-arrow-functions?u=76281980)
+#### [Writing arrow functions](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-arrow-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1796,7 +1762,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-arrow-functions?u=76281980&t=126)** We can use this instead of a full function declaration to do the exact same thing.
 >
-> **[2:11](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-arrow-functions?u=76281980&t=131)** Arrow functions are a great way to make your JavaScript code more readable and more compact.
+> **[2:11](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-arrow-functions?u=76281980&t=131)** Arrow functions are a great way to make your [[JavaScript]] code more readable and more compact.
 >
 > **[2:16](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/writing-arrow-functions?u=76281980&t=136)** And you'll see them used a lot as we've done here with functions like map and filter.
 
@@ -1807,14 +1773,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding this in arrow functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-this-in-arrow-functions?u=76281980)
+#### [Understanding this in arrow functions](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-this-in-arrow-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-this-in-arrow-functions?u=76281980&t=1)** - In the previous lesson we reviewed how Arrow Functions can make our code more readable.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-this-in-arrow-functions?u=76281980&t=6)** In addition to this, though, arrow functions help us to deal with the scope of this in our JavaScript code.
+> **[0:06](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-this-in-arrow-functions?u=76281980&t=6)** In addition to this, though, arrow functions help us to deal with the scope of this in our [[JavaScript]] code.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/understanding-this-in-arrow-functions?u=76281980&t=13)** Let's take a look at an example of the old way and then we'll update this to the new syntax.
 >
@@ -1862,8 +1827,7 @@ created: 2026-05-02
 > **CLI Commands:** make (3)
 > **Speakers:** - in (1)
 
-#### Working with generators
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/working-with-generators?u=76281980)
+#### [Working with generators](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/working-with-generators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1913,12 +1877,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), hit (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Implementing advanced function patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-implementing-advanced-function-patterns?u=76281980)
+#### [Solution: Implementing advanced function patterns](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-implementing-advanced-function-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1972,12 +1934,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building promises
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/building-promises?u=76281980)
+#### [Building promises](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/building-promises?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/building-promises?u=76281980&t=0)** - [Instructor] Promises help us deal with asynchronous behavior in JavaScript.
+> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/building-promises?u=76281980&t=0)** - [Instructor] Promises help us deal with asynchronous behavior in [[JavaScript]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/building-promises?u=76281980&t=4)** When something is asynchronous, it just means that some sort of weighting is going on.
 >
@@ -2061,21 +2022,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JavaScript]] (1), api (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** settimeout (3)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading remote data with promises
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/loading-remote-data-with-promises?u=76281980)
+#### [Loading remote data with promises](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/loading-remote-data-with-promises?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/loading-remote-data-with-promises?u=76281980&t=1)** - [Instructor] We often use promises to load data.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/loading-remote-data-with-promises?u=76281980&t=4)** Let's create a function called spacePeople that returns a promise and we'll call it spacePeople because it's going to fetch some data from an API of astronauts who are currently in space.
+> **[0:04](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/loading-remote-data-with-promises?u=76281980&t=4)** Let's create a function called spacePeople that returns a promise and we'll call it spacePeople because it's going to [[Fetch]] some data from an API of astronauts who are currently in space.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/loading-remote-data-with-promises?u=76281980&t=16)** So spacePeople again will return a new Promise.
 >
@@ -2105,7 +2065,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/loading-remote-data-with-promises?u=76281980&t=95)** And then we'll send the request using the send method.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/loading-remote-data-with-promises?u=76281980&t=99)** So this is just kind of a standard format for how you would send an HTTP request with JavaScript.
+> **[1:39](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/loading-remote-data-with-promises?u=76281980&t=99)** So this is just kind of a standard format for how you would send an HTTP request with [[JavaScript]].
 >
 > **[1:45](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/loading-remote-data-with-promises?u=76281980&t=105)** It's kind of a boilerplate thing at this point.
 >
@@ -2141,7 +2101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), api (6), [[Fetch]] (3), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[JavaScript]] (1)
 > **Env Vars:** api (6), http (3), xml (1)
 > **Code Identifiers:** spacepeople (4)
 > **Definitions:** in other words (2), is a  (1)
@@ -2150,14 +2110,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Returning promises with fetch
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980)
+#### [Returning promises with fetch](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=0)** - [Instructor] Remember our spacePeople function from the previous video that went and got some data from an API?
 >
-> **[0:07](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=7)** It works pretty well but we're going to reformat this request and instead, use something called fetch.
+> **[0:07](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=7)** It works pretty well but we're going to reformat this request and instead, use something called [[Fetch]].
 >
 > **[0:14](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=14)** Fetch is a function that works natively in the browser.
 >
@@ -2165,7 +2124,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=26)** Fetch is just going to take in the URL of our API.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=30)** So that api.[open-notify.org/astros/json](https://open-notify.org/astros/json), that's where all of our data is.
+> **[0:30](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=30)** So that api.[open-notify.org/astros/[[JSON]]](https://open-notify.org/astros/json), that's where all of our data is.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/returning-promises-with-fetch?u=76281980&t=37)** So we're going to pass that directly into this fetch function.
 >
@@ -2231,7 +2190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (12), data (7), [[JSON]] (4), api (3), node (2)
+> **Frameworks & Libraries:** [[Fetch]] (12), [[JSON]] (4)
 > **Env Vars:** api (2), json (2), url (1), xml (1), http (1)
 > **Code Identifiers:** spacepeople (2), getspacepeople (2), spacenames (1)
 > **CLI Commands:** node (2), make (1)
@@ -2240,12 +2199,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 
-#### Using async/await syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-async-await-syntax?u=76281980)
+#### [Using async/await syntax](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-async-await-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-async-await-syntax?u=76281980&t=1)** - [Instructor] The next asynchronous feature of the JavaScript language that I want to talk about is a syntax called async/await.
+> **[0:01](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-async-await-syntax?u=76281980&t=1)** - [Instructor] The next asynchronous feature of the [[JavaScript]] language that I want to talk about is a syntax called async/await.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-async-await-syntax?u=76281980&t=8)** Async functions return a promise, and the resolved value of the promise will be whatever you return from the function.
 >
@@ -2317,17 +2275,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (1), [[JavaScript]] (1), hit (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incorporating fetch with async/await
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980)
+#### [Incorporating fetch with async/await](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=0)** - [Instructor] We've talked about async, await and we've talked about fetch.
+> **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=0)** - [Instructor] We've talked about async, await and we've talked about [[Fetch]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=4)** Let's take a minute to look at how we can use all of these things together.
 >
@@ -2337,7 +2294,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=14)** So let's go ahead and create a function called githubRequest.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=20)** And this is going to be an async function that takes in the login name of a user of GitHub.
+> **[0:20](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=20)** And this is going to be an async function that takes in the login name of a user of [[GitHub]].
 >
 > **[0:26](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=26)** And we're going to use await here.
 >
@@ -2359,7 +2316,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=62)** So that login will be concatenated onto the end of the string.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=67)** Now on line five here, we're going to create a variable called let json.
+> **[1:07](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=67)** Now on line five here, we're going to create a variable called let [[JSON]].
 >
 > **[1:11](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=71)** So remember with fetch, we need to convert the response to JSON so that we can parse the results.
 >
@@ -2389,7 +2346,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=157)** Once we have it, we can then log it to the console or use it anywhere in our app.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=163)** So this sort of syntax is going to be super useful to you as you work on JavaScript projects.
+> **[2:43](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=163)** So this sort of syntax is going to be super useful to you as you work on [[JavaScript]] projects.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/incorporating-fetch-with-async-await?u=76281980&t=169)** I use async, await, and fetch literally everyday of my life.
 >
@@ -2397,7 +2354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (7), api (6), [[GitHub]] (4), data (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Fetch]] (7), [[GitHub]] (4), [[JSON]] (3), [[JavaScript]] (1)
 > **Env Vars:** api (5), json (2)
 > **Tools:** github (4)
 > **CLI Commands:** make (2)
@@ -2406,14 +2363,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Building an async data handler
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-an-async-data-handler?u=76281980)
+#### [Solution: Building an async data handler](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-an-async-data-handler?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-an-async-data-handler?u=76281980&t=0)** - [Instructor] ES6 gives us a ton of new features for working with asynchronous data.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-an-async-data-handler?u=76281980&t=5)** So what we want to do here in our answer is we want to model a data fetch from an API, and we'll also add some timing functions into the mix.
+> **[0:05](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-an-async-data-handler?u=76281980&t=5)** So what we want to do here in our answer is we want to model a data [[Fetch]] from an API, and we'll also add some timing functions into the mix.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-an-async-data-handler?u=76281980&t=17)** So the first thing we'll do is we'll replace this little code comment with some actual code.
 >
@@ -2441,7 +2397,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-an-async-data-handler?u=76281980&t=91)** We are waiting one second to call this function.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-an-async-data-handler?u=76281980&t=96)** We're going to return some data, and this is a lot like an API request to some sort of a rest API.
+> **[1:36](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-an-async-data-handler?u=76281980&t=96)** We're going to return some data, and this is a lot like an API request to some sort of a [[Representational State Transfer (REST)|rest]] API.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/solution-building-an-async-data-handler?u=76281980&t=104)** So if we click test our code, we're going to get that error, and that's because I should delete that.
 >
@@ -2469,7 +2425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), api (3), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (3), es6 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2480,8 +2436,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2489,7 +2444,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980&t=3)** I hope you'll start to incorporate these features into your own projects.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980&t=7)** The next steps I would recommend are to check out some of the libraries that exist to help you build modern web applications, things like React and Vue and Angular and even Svelte.
+> **[0:07](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980&t=7)** The next steps I would recommend are to check out some of the libraries that exist to help you build modern web applications, things like [[React.js|React]] and [[Vue.js|Vue]] and [[Angular]] and even Svelte.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980&t=17)** These are libraries and frameworks that you can use to build your own applications.
 >
@@ -2499,7 +2454,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980&t=37)** New features, they're not just trendy.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980&t=40)** They're intended to help save you time and to solve problems for JavaScript developers.
+> **[0:40](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980&t=40)** They're intended to help save you time and to solve problems for [[JavaScript]] developers.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980&t=45)** They help us deal with asynchronous behavior.
 >
@@ -2513,7 +2468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[JavaScript]] (2), next (1), [[React.js|React]] (1), [[Vue.js|Vue]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[React.js|React]] (1), [[Vue.js|Vue]] (1), [[Angular]] (1)
 > **Env Vars:** tc39 (1)
 > **Speakers:** - [instructor] (1)
 

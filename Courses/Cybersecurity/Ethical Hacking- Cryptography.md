@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take a crack at cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980)
+#### [Take a crack at cryptography](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,15 +101,15 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980&t=8)** Will you be ready?
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980&t=10)** There's a high demand for the ethical hacking skillset.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980&t=10)** There's a high demand for the [[Ethical Hacking]] skillset.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980&t=13)** Like any topic, cryptography has also evolved to keep up with the latest exploit, tools and techniques, especially with the onset of artificial intelligence and quantum computing.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980&t=13)** Like any topic, [[Cryptography]] has also evolved to keep up with the latest exploit, tools and techniques, especially with the onset of [[Artificial Intelligence (AI)|artificial intelligence]] and [[Quantum Computing]].
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980&t=24)** Whether you're preparing to take the Certified Ethical Hacker Exam or simply wanting to learn more about this great topic, you're in the right place.
 >
 > **[0:32](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980&t=32)** Let's have fun exploring various algorithm types and methods for cracking cryptography.
 >
-> **[0:37](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980&t=37)** My name is Diondria Holliman and I'm a cybersecurity professional and educator with over 15 plus years experience across multiple IT roles at major corporations.
+> **[0:37](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980&t=37)** My name is Diondria Holliman and I'm a [[Cybersecurity]] professional and educator with over 15 plus years experience across multiple IT roles at major corporations.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980&t=47)** What are you waiting for?
 >
@@ -121,14 +120,13 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Cryptography]] (2), [[Ethical Hacking]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Quantum Computing]] (1), [[Cybersecurity]] (1)
 > **Speakers:** - as (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/what-you-should-know?u=76281980&t=0)** - For those who are studying to take the Certified Ethical Hacker Exam, often referred to as the CEH exam, this course contains updates to align with the latest version where the exam expanded to cover 20 different modules of information security.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/what-you-should-know?u=76281980&t=0)** - For those who are studying to take the Certified Ethical Hacker Exam, often referred to as the [[CEH]] exam, this course contains updates to align with the latest version where the exam expanded to cover 20 different modules of information security.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/what-you-should-know?u=76281980&t=16)** I'll cover everything you need to know about the 20th, or last module, Cryptography.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/what-you-should-know?u=76281980&t=16)** I'll cover everything you need to know about the 20th, or last module, [[Cryptography]].
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/what-you-should-know?u=76281980&t=21)** At the time of this recording, the current version of the exam is now at version 12.
 >
@@ -174,21 +172,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (7), [[Security]] (2), business (1)
+> **Frameworks & Libraries:** [[Cryptography]] (7), [[CEH]] (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** ceh (2)
 > **Versions:** version 12 (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - for (1)
 
-#### Why cryptography?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/why-cryptography?u=76281980)
+#### [Why cryptography?](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/why-cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/why-cryptography?u=76281980&t=0)** - What comes to mind when you think about cryptography?
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/why-cryptography?u=76281980&t=0)** - What comes to mind when you think about [[Cryptography]]?
 >
-> **[0:04](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/why-cryptography?u=76281980&t=4)** Often, you hear the word "crypto," and your mind starts to think about mysteries of crypto or digital currency, like Bitcoin, or maybe even the blockchain.
+> **[0:04](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/why-cryptography?u=76281980&t=4)** Often, you hear the [[Microsoft Word|word]] "crypto," and your mind starts to think about mysteries of crypto or digital currency, like Bitcoin, or maybe even the [[Blockchain]].
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/why-cryptography?u=76281980&t=13)** In fact, the root word "crypto" means to hide or keep secret, and it's certainly true about aspects of those things.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (7), data (5), [[Microsoft Word|Word]] (2), [[Blockchain]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (7), [[Microsoft Word|Word]] (2), [[Blockchain]] (1)
 > **Definitions:** in other words (1), is called (1), is an  (1), is a  (1)
 > **Speakers:** - what (1)
 
@@ -241,12 +238,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding cryptography terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980)
+#### [Understanding cryptography terminology](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=0)** - [Instructor] Now, let's review some key terms so we're all speaking the same language, and to determine how best to implement cryptography services.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=0)** - [Instructor] Now, let's review some key terms so we're all speaking the same language, and to determine how best to implement [[Cryptography]] services.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=8)** You'll also find all review terms and many more in the glossary provided in the exercise files.
 >
@@ -258,7 +254,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=35)** The term cryptology is derived from cryptos, hidden or secret.
 >
-> **[0:41](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=41)** And logo, word, or logia, study.
+> **[0:41](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=41)** And logo, [[Microsoft Word|word]], or logia, study.
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=44)** Cryptology represents the science of combining cryptography and crypto analysis.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=103)** Decrypt or decipher transforms encrypted information into a readable form, also known as plaintext.
 >
-> **[1:52](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=112)** We explore the complexity of the algorithms which serve as a mathematical recipe running behind cryptography.
+> **[1:52](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=112)** We explore the complexity of the [[Algorithms]] which serve as a mathematical recipe running behind cryptography.
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=117)** You can think of an algorithm in two different ways, a written set of instructions like a recipe or a flow chart guiding you through step by step.
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=131)** Like, can you go shopping at the algorithm store like Algorithms are US, or Algorithm Depot?
 >
-> **[2:17](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=137)** Well, the truth is that some very smart people typically in the academic realm or government-funded research companies publish algorithms like the National Institute of Science and Technology, also known as NIST.
+> **[2:17](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=137)** Well, the truth is that some very smart people typically in the academic realm or government-funded research companies publish algorithms like the National Institute of Science and Technology, also known as [[NIST]].
 >
 > **[2:30](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980&t=150)** We will learn about several algorithms such as AES, DES, RSA.
 >
@@ -350,7 +346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), [[Cryptography]] (5), data (3), [[Microsoft Word|Word]] (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Cryptography]] (5), [[Microsoft Word|Word]] (1), [[NIST]] (1)
 > **Definitions:** known as (4), is a  (3)
 > **Env Vars:** nist (1), aes (1), des (1), rsa (1)
 > **CLI Commands:** find (1), make (1)
@@ -359,18 +355,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linking cryptography to cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980)
+#### [Linking cryptography to cybersecurity](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=0)** - [Narrator] We must understand how cryptography links directly to cybersecurity so that we can fully grasp its benefits.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=0)** - [Narrator] We must understand how [[Cryptography]] links directly to [[Cybersecurity]] so that we can fully grasp its benefits.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=7)** There are three key areas we'll focus on throughout this course.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=11)** Encryption, hashing, and how to send secure messages or communications such as email or across a server via a website.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=21)** There are different algorithms or protocols behind the scenes in each, for example, 3DES, AES 256, RC6, MD5, SHA-1,
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=21)** There are different [[Algorithms]] or protocols behind the scenes in each, for example, 3DES, AES 256, RC6, MD5, SHA-1,
 >
 > **[0:33](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=33)** PGP, TLS/SSL, and HTTPS.
 >
@@ -424,15 +419,15 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=175)** And N for non-repudiation.
 >
-> **[2:59](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=179)** I must admit that the English dictionary reference for the word CAIN is a bit taboo as it refers to the biblical story of Cain and Abel.
+> **[2:59](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=179)** I must admit that the English dictionary reference for the [[Microsoft Word|word]] CAIN is a bit taboo as it refers to the biblical story of Cain and Abel.
 >
 > **[3:07](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=187)** Cain was the first murderer cited in the Book of Genesis.
 >
 > **[3:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=190)** Stories also help you remember.
 >
-> **[3:13](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=193)** Perhaps it may suit you better to change the C to a P for privacy.
+> **[3:13](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=193)** Perhaps it may suit you better to change the C to a P for [[Privacy]].
 >
-> **[3:18](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=198)** This now forms the mnemonic word PAIN.
+> **[3:18](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=198)** This now [[Forms]] the mnemonic word PAIN.
 >
 > **[3:20](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/linking-cryptography-to-cybersecurity?u=76281980&t=200)** The terms confidentiality and pain are often used interchangeably in the business world.
 >
@@ -452,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Cryptography]] (4), [[Cybersecurity]] (3), data (3), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Cryptography]] (4), [[Cybersecurity]] (3), [[Privacy]] (3), [[Microsoft Word|Word]] (2), [[Algorithms]] (1)
 > **Env Vars:** cia (3), cain (3), pain (2), aes (1), rc6 (1)
 > **Definitions:** refers to (3), in other words (2), is a  (2), stands for (1)
 > **CLI Commands:** find (2)
@@ -465,14 +460,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Symmetric cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980)
+#### [Symmetric cryptography](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=1)** - [Instructor] Hello again.
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=1)** It's time for us to build our foundation and dive into the two main types of cryptography.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=1)** It's time for us to build our foundation and dive into the two main types of [[Cryptography]].
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=7)** We've got symmetric and asymmetric.
 >
@@ -482,7 +476,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=29)** To begin, let's talk about symmetric cryptography.
 >
-> **[0:33](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=33)** What comes to mind when you think of the word symmetric or symmetry?
+> **[0:33](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=33)** What comes to mind when you think of the [[Microsoft Word|word]] symmetric or symmetry?
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=37)** Perhaps you think of shapes or even us as humans having attributes of being divided into identical or similar parts.
 >
@@ -502,7 +496,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=94)** It enhances our experience and performance.
 >
-> **[1:38](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=98)** I'll provide an example, explain the strengths and weaknesses, and highlight the algorithms associated with it.
+> **[1:38](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=98)** I'll provide an example, explain the strengths and weaknesses, and highlight the [[Algorithms]] associated with it.
 >
 > **[1:44](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=104)** Now let's review how this process really works.
 >
@@ -538,7 +532,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=202)** This means we're going to meet face-to-face, write it on paper and mail it, or use our phones.
 >
-> **[3:29](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=209)** In the age of artificial intelligence, we certainly can see how voices can be imitated.
+> **[3:29](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=209)** In the age of [[Artificial Intelligence (AI)|artificial intelligence]], we certainly can see how voices can be imitated.
 >
 > **[3:34](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980&t=214)** Also, remote work limits the ability to exchange in person, and mailing it may not be efficient either.
 >
@@ -586,19 +580,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (10), data (2), [[Microsoft Word|Word]] (1), strengths (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (10), [[Microsoft Word|Word]] (1), [[Algorithms]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** means that (2), defined as (1), known as (1)
 > **Prerequisites:** you'll need (1), required to (1)
 > **Cross-References:** later in (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Symmetric cryptography, continued
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980)
+#### [Symmetric cryptography, continued](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=0)** - [Instructor] The other limitation of symmetric cryptography was the number of key requirements.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=0)** - [Instructor] The other limitation of symmetric [[Cryptography]] was the number of key requirements.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=5)** Let's say we have a small organization of seven people and they all want to communicate with each other.
 >
@@ -630,7 +623,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=76)** It's computationally fast and that matters.
 >
-> **[1:20](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=80)** Let's continue to build our foundation and dive into the two main algorithms.
+> **[1:20](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=80)** Let's continue to build our foundation and dive into the two main [[Algorithms]].
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=84)** Our mathematical recipes categories of what I referred to earlier as running in the background to make symmetric cryptography work.
 >
@@ -730,11 +723,11 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=394)** Some include relying on third-party systems or email to send the key to the receiver without compromise and without being intercepted.
 >
-> **[6:42](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=402)** The more people involved, it creates scalability issues as you create an exponential need to manage more and more keys.
+> **[6:42](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=402)** The more people involved, it creates [[Scalability]] issues as you create an exponential need to manage more and more keys.
 >
 > **[6:50](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=410)** And last but not least, it does not provide non-repudiation, which says, I cannot prove without any doubt that you or some other entity took a certain set of actions.
 >
-> **[7:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=420)** I wouldn't be adequately preparing you for the CEH or similar exam properly if I didn't share some tips that commonly cause confusion.
+> **[7:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=420)** I wouldn't be adequately preparing you for the [[CEH]] or similar exam properly if I didn't share some tips that commonly cause confusion.
 >
 > **[7:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography-continued?u=76281980&t=430)** There are several key related aliases using symmetric cryptography, which is also known as secret key encryption.
 >
@@ -746,7 +739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (6), [[Algorithms]] (6), data (3), next (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (6), [[Algorithms]] (6), [[Scalability]] (1), [[CEH]] (1)
 > **Env Vars:** ascii (1), rc4 (1), rc6 (1), aes (1), des (1)
 > **Analogies:** imagine (2), for example (1), kind of like (1), such as (1)
 > **Cross-References:** later in (2)
@@ -755,12 +748,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Asymmetric cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography-24026012?u=76281980)
+#### [Asymmetric cryptography](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography-24026012?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography-24026012?u=76281980&t=1)** - [Instructor] It's now time to talk about asymmetric cryptography.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography-24026012?u=76281980&t=1)** - [Instructor] It's now time to talk about asymmetric [[Cryptography]].
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography-24026012?u=76281980&t=4)** At a high level it uses two separate keys called a key pair, one to encrypt and the other to decrypt.
 >
@@ -776,7 +768,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography-24026012?u=76281980&t=43)** As wonderful, as you'll soon discover, that asymmetric cryptography is, you'll also expose its greatest weakness of being computationally slow.
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography-24026012?u=76281980&t=52)** I'll provide an example, explain its strengths and weaknesses, and highlight algorithms associated with it without going into all the gory details, asymmetric cryptography relies on a mathematical recipe known as trapdoor functions, which uses very large prime numbers.
+> **[0:52](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography-24026012?u=76281980&t=52)** I'll provide an example, explain its strengths and weaknesses, and highlight [[Algorithms]] associated with it without going into all the gory details, asymmetric cryptography relies on a mathematical recipe known as trapdoor functions, which uses very large prime numbers.
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography-24026012?u=76281980&t=70)** A trapdoor function is easy to compute in one direction, yet difficult to compute in the opposite direction.
 >
@@ -856,14 +848,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (10), [[Security]] (2), strengths (1), [[Algorithms]] (1), next (1)
+> **Frameworks & Libraries:** [[Cryptography]] (10), [[Algorithms]] (1)
 > **Definitions:** known as (2), is called (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Asymmetric cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980)
+#### [Asymmetric cryptography](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +876,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=49)** To reiterate, we're only compromised if someone gains access to the private key, and if the private key is compromised, then the entire communication is compromised as a result.
 >
-> **[1:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=62)** The other advantage of asymmetric over symmetric cryptography is the max number of keys required.
+> **[1:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=62)** The other advantage of asymmetric over symmetric [[Cryptography]] is the max number of keys required.
 >
 > **[1:08](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=68)** N multiplied by two is certainly more manageable.
 >
@@ -905,7 +896,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=134)** We'll discuss how this is accomplished through hashing and other mechanisms later.
 >
-> **[2:18](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=138)** Similarly, asymmetric cryptography has two main categories of algorithms.
+> **[2:18](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=138)** Similarly, asymmetric cryptography has two main categories of [[Algorithms]].
 >
 > **[2:23](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=143)** We've got discrete logs and factorization.
 >
@@ -923,9 +914,9 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=185)** The other specialized and signature schemes are key exchange.
 >
-> **[3:09](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=189)** In fact, you'll learn that major companies like Google's entire public key infrastructure is dependent on ECC.
+> **[3:09](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=189)** In fact, you'll learn that major companies like [[Google]]'s entire public key infrastructure is dependent on ECC.
 >
-> **[3:17](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=197)** And RSA is a standard in many operating systems we use today like Microsoft and Apple.
+> **[3:17](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=197)** And RSA is a standard in many operating systems we use today like [[Microsoft]] and Apple.
 >
 > **[3:23](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/asymmetric-cryptography?u=76281980&t=203)** We'll discuss each of these algorithms to better understand their key and block sizes and other differentiators later in this course.
 >
@@ -953,7 +944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (6), [[Algorithms]] (5), [[Security]] (3), data (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (6), [[Algorithms]] (5), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** ecc (3), rsa (3), dsa (1), cpu (1)
 > **Cross-References:** we mentioned (1), later in (1)
 > **Definitions:** means that (1), is a  (1)
@@ -962,12 +953,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hybrid-cryptography?u=76281980)
+#### [Hybrid cryptography](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hybrid-cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hybrid-cryptography?u=76281980&t=0)** - [Instructor] So far, we've learned about the advantages and disadvantages of both asymmetric and symmetric cryptography.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hybrid-cryptography?u=76281980&t=0)** - [Instructor] So far, we've learned about the advantages and disadvantages of both asymmetric and symmetric [[Cryptography]].
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hybrid-cryptography?u=76281980&t=7)** Let's do a quick review to ensure we can clearly see their distinct differences across various categories, starting with the key.
 >
@@ -1053,19 +1043,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (5), [[Security]] (2), next (1)
+> **Frameworks & Libraries:** [[Cryptography]] (5)
 > **Analogies:** such as (2), imagine (2), kind of like (1)
 > **Definitions:** known as (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hashing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980)
+#### [Hashing](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=1)** - [Instructor] Welcome back.
 >
-> **[0:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=2)** While we cover the two main types of cryptography, specifically symmetric and asymmetric to be exact, there is a surprising third option called hashing.
+> **[0:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=2)** While we cover the two main types of [[Cryptography]], specifically symmetric and asymmetric to be exact, there is a surprising third option called hashing.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=12)** Many may argue that hashing belongs to its own category because it's not an encryption method at all.
 >
@@ -1103,7 +1092,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=106)** This means it doesn't matter what size data I give it, I'm going to get a fixed size output.
 >
-> **[1:52](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=112)** Hashing is mainly used for data integrity checks and password storage.
+> **[1:52](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=112)** Hashing is mainly used for [[Data Integrity]] checks and password storage.
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=117)** In general, the hash function is relatively easy to compute for any input.
 >
@@ -1123,7 +1112,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=174)** Let's explore how this process works.
 >
-> **[2:58](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=178)** At a high level, we have a message we need to send that simply says, "I am ready to pass the CEH exam."
+> **[2:58](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=178)** At a high level, we have a message we need to send that simply says, "I am ready to pass the [[CEH]] exam."
 >
 > **[3:05](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing?u=76281980&t=185)** One way to accomplish this is using a one-way hashing algorithm, no pun intended.
 >
@@ -1179,7 +1168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Cryptography]] (5), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (5), [[CEH]] (2), [[Data Integrity]] (1)
 > **Definitions:** is a  (4), in other words (1), is called (1)
 > **Analogies:** for example (1), think of it as (1), such as (1)
 > **Env Vars:** ceh (2)
@@ -1187,8 +1176,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hashing, continued
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980)
+#### [Hashing, continued](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1220,7 +1208,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=102)** In addition, salted hashes can be applied over several iterations to add more layers to make it even more secure.
 >
-> **[1:51](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=111)** We'll talk more about these concepts when we dive deeper into the common hash algorithms later in this course.
+> **[1:51](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=111)** We'll talk more about these concepts when we dive deeper into the common hash [[Algorithms]] later in this course.
 >
 > **[1:58](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=118)** Now let's review how the hashing process blends with asymmetric encryption.
 >
@@ -1258,7 +1246,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=237)** A verified match also proves that the message was not modified after it was signed, again, voila, although a bit more complicated, you get the point.
 >
-> **[4:08](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=248)** We've combined hashing with asymmetric encryption and provided all four of the cryptography services of confidentiality, integrity, authentication, and non-repudiation along the way.
+> **[4:08](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=248)** We've combined hashing with asymmetric encryption and provided all four of the [[Cryptography]] services of confidentiality, integrity, authentication, and non-repudiation along the way.
 >
 > **[4:22](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=262)** Even if intercepted by prying eyes, like a hacker, for example, a public key being compromised, we can still guarantee integrity, because if the hacker modified the message, even a tiny change such as punctuation, then the results wouldn't match.
 >
@@ -1276,13 +1264,13 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=322)** When it comes to output, encryption provides variable length ciphertext, whereas hashing provides a fixed size value called a message digest.
 >
-> **[5:34](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=334)** In general, the use case, our application for encryption is for securing data and storage or doing transmission and hashing is for data integrity checks, password storage and digital signatures.
+> **[5:34](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=334)** In general, the use case, our application for encryption is for securing data and storage or doing transmission and hashing is for [[Data Integrity]] checks, password storage and digital signatures.
 >
 > **[5:47](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/hashing-continued?u=76281980&t=347)** Again, that's why most systems today are built as crypto hybrids, meaning they take advantage of the upsides of both encryption and hashing and combine them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), [[Algorithms]] (1), [[Cryptography]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Cryptography]] (1), [[Data Integrity]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1296,8 +1284,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Desirable qualities of an algorithm and key
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980)
+#### [Desirable qualities of an algorithm and key](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1305,13 +1292,13 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980&t=2)** The security of a crypto system is largely dependent on two factors, the algorithm you select and the length of the key.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980&t=10)** We'll review the desirable qualities of both factors starting with algorithms.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980&t=10)** We'll review the desirable qualities of both factors starting with [[Algorithms]].
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980&t=16)** Let's explore a few concepts to aid in our understanding of what is going on behind the scenes.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980&t=21)** We'll look at what it means to apply confusion versus diffusion, permutations versus combinations.
 >
-> **[0:29](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980&t=29)** More importantly, how these concepts combine to create the grand finale of the Avalanche Effect At a high level we reviewed confusion versus diffusion earlier in this course under "Symmetric Cryptography," more specifically when discussing block ciphers.
+> **[0:29](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980&t=29)** More importantly, how these concepts combine to create the grand finale of the Avalanche Effect At a high level we reviewed confusion versus diffusion earlier in this course under "Symmetric [[Cryptography]]," more specifically when discussing block ciphers.
 >
 > **[0:45](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980&t=45)** These are also older terms for substitution and transposition, respectively.
 >
@@ -1415,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), [[Security]] (2), [[Cryptography]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Cryptography]] (1)
 > **Analogies:** imagine (6), for example (4), think of it as (1), such as (1)
 > **Definitions:** means that (2)
 > **Env Vars:** xor (1)
@@ -1423,14 +1410,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Desirable qualities of an algorithm and key, continued
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key-continued?u=76281980)
+#### [Desirable qualities of an algorithm and key, continued](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key-continued?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key-continued?u=76281980&t=1)** - [Presenter] Now it's time to talk about what are the desirable qualities of a key as the other key factor in securing a cryptosystem?
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key-continued?u=76281980&t=9)** When we review encryption algorithms individually later in this course, you'll learn that some allow you to select the length of the encryption key.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key-continued?u=76281980&t=9)** When we review encryption [[Algorithms]] individually later in this course, you'll learn that some allow you to select the length of the encryption key.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key-continued?u=76281980&t=19)** While the general rule is the longer the key, the better, we must also consider trade-offs that as the key length gets longer, so does the amount of time it takes to respond, which could also lead to performance issues.
 >
@@ -1450,7 +1436,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key-continued?u=76281980&t=84)** Well, maybe this one's intuitive, but I felt it was worth calling out.
 >
-> **[1:29](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key-continued?u=76281980&t=89)** When we talked about symmetric cryptography, we even had to figure out ways to share the same share key securely.
+> **[1:29](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key-continued?u=76281980&t=89)** When we talked about symmetric [[Cryptography]], we even had to figure out ways to share the same share key securely.
 >
 > **[1:37](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key-continued?u=76281980&t=97)** In terms of asymmetric cryptography, a person's private key is never shared.
 >
@@ -1482,7 +1468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), next (3), [[Algorithms]] (2), [[Cryptography]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Cryptography]] (2)
 > **Cross-References:** later in (1), we talked about (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** known as (1)
@@ -1490,12 +1476,11 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [presenter] (1)
 
-#### Common symmetric algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980)
+#### [Common symmetric algorithms](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=0)** - [Instructor] There are six common symmetric algorithms, DES, 3DES, AES, along with the family of ciphers designed by Ron Rivest called RC4, RC5, and RC6.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=0)** - [Instructor] There are six common symmetric [[Algorithms]], DES, 3DES, AES, along with the family of ciphers designed by Ron Rivest called RC4, RC5, and RC6.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=16)** If you recall from our earlier review, these six can be further categorized as stream based, or block-based ciphers.
 >
@@ -1577,7 +1562,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=274)** RC4 was a byte-oriented stream cipher, and it leveraged variable 64-bit or 128-bit key sizes.
 >
-> **[4:42](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=282)** It was used in secure sockets layer or transport layer security known as SSL or TLS, along with Wired Equivalent Privacy, or WEP, applications for early WiFi.
+> **[4:42](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=282)** It was used in secure sockets layer or transport layer security known as SSL or TLS, along with Wired Equivalent [[Privacy]], or WEP, applications for early WiFi.
 >
 > **[4:56](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=296)** The code was released and it exposed RC4's weak implementation structure.
 >
@@ -1603,7 +1588,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=379)** To clarify, RC4 is the only streaming cipher listed, so it technically doesn't have a block size.
 >
-> **[6:27](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=387)** There are other algorithms that you may come across in your studies associated with symmetric cryptography, namely Blowfish, Two fish, IDEA, Rijndael, and Skipjack, for example.
+> **[6:27](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=387)** There are other algorithms that you may come across in your studies associated with symmetric [[Cryptography]], namely Blowfish, Two fish, IDEA, Rijndael, and Skipjack, for example.
 >
 > **[6:40](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-symmetric-algorithms?u=76281980&t=400)** Here's an expanded chart of how these five rank in comparison with block and key size to the six common symmetric algorithms we reviewed.
 >
@@ -1613,7 +1598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), data (4), next (2), power (1), ai (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Privacy]] (1), [[Cryptography]] (1)
 > **Env Vars:** des (11), aes (9), rc4 (5), rc5 (3), rc6 (2)
 > **Definitions:** stands for (2), known as (2), basically means (1)
 > **Analogies:** for example (4)
@@ -1621,12 +1606,11 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common asymmetric algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980)
+#### [Common asymmetric algorithms](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=1)** - [Instructor] There are five common asymmetric algorithms: Diffie-Hellman, El Gamal, DSA, ECC, and RSA.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=1)** - [Instructor] There are five common asymmetric [[Algorithms]]: Diffie-Hellman, El Gamal, DSA, ECC, and RSA.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=11)** If you recall from our earlier review, these five can be further categorized as operating as discrete logs or factorization.
 >
@@ -1704,7 +1688,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=270)** RSA uses the difficulty in factoring large prime numbers called trap door functions with up to 4,096 bits.
 >
-> **[4:39](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=279)** As a reminder from when we further broke this concept down in the introduction of asymmetric cryptography, a prime number is defined as a whole number greater than one that cannot be exactly divided by any whole number other than itself in one.
+> **[4:39](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=279)** As a reminder from when we further broke this concept down in the introduction of asymmetric [[Cryptography]], a prime number is defined as a whole number greater than one that cannot be exactly divided by any whole number other than itself in one.
 >
 > **[4:53](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=293)** And a trap or function is easy to compute in one direction, yet difficult to compute in the opposite direction.
 >
@@ -1740,7 +1724,7 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=397)** Both ECC and RSA are still widely in use today.
 >
-> **[6:43](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=403)** ECC provides bigger wins in situations where efficiency is the top priority, especially in the era of artificial intelligence.
+> **[6:43](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=403)** ECC provides bigger wins in situations where efficiency is the top priority, especially in the era of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[6:53](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-asymmetric-algorithms?u=76281980&t=413)** It may be more obvious if I explain it through looking at a table of key sizes to compare the two.
 >
@@ -1768,7 +1752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (5), data (4), [[Algorithms]] (3), next (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Cryptography]] (5), [[Algorithms]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** ecc (12), rsa (12), dsa (6), ssl (2), tls (2)
 > **Analogies:** such as (4), it's like (1), imagine (1)
 > **Cross-References:** later in (3), in the next (1)
@@ -1777,12 +1761,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** install (1)
 
-#### Common hashing algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-hashing-algorithms?u=76281980)
+#### [Common hashing algorithms](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-hashing-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-hashing-algorithms?u=76281980&t=0)** - [Instructor] There are four common hashing algorithms, MD5 along with the SHA family called SHA-1 and SHA-2, and SHA-3.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-hashing-algorithms?u=76281980&t=0)** - [Instructor] There are four common hashing [[Algorithms]], MD5 along with the SHA family called SHA-1 and SHA-2, and SHA-3.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-hashing-algorithms?u=76281980&t=9)** By now you probably have seen a lot of acronyms and your head may be spinning.
 >
@@ -1864,7 +1847,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-hashing-algorithms?u=76281980&t=316)** In fact, SHA-2 512 is twice as fast as SHA-3 512 in certain computational processing instances.
 >
-> **[5:26](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-hashing-algorithms?u=76281980&t=326)** However, in other hardware implementations, SHA-3 remains faster than them all.
+> **[5:26](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-hashing-algorithms?u=76281980&t=326)** However, in other [[Hardware]] implementations, SHA-3 remains faster than them all.
 >
 > **[5:33](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/common-hashing-algorithms?u=76281980&t=333)** The verdict is still out on SHA-3, but there's still more to be explored and it will likely be at the forefront in a few short years.
 >
@@ -1882,7 +1865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (8), data (3), next (1), [[Security]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (8), [[Hardware]] (1)
 > **Env Vars:** sha (26), md5 (8), rc4 (1), md2 (1), md4 (1)
 > **Analogies:** such as (2), think of it as (1), for example (1)
 > **CLI Commands:** find (2), ssh (1)
@@ -1896,18 +1879,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fundamentals of public key infrastructure (PKI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980)
+#### [Fundamentals of public key infrastructure (PKI)](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=0)** - [Instructor] With all the knowledge you've learned to this point, we can now focus on the use cases for implementing cryptographic solutions.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=7)** We started with understanding encryption versus hashing and highlighting the common algorithms associated with those methods for protecting data.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=7)** We started with understanding encryption versus hashing and highlighting the common [[Algorithms]] associated with those methods for protecting data.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=15)** There are three states of data.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=17)** One is data at rest, which you can think of is literally sleeping.
+> **[0:17](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=17)** One is data at [[Representational State Transfer (REST)|rest]], which you can think of is literally sleeping.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=22)** Data at rest means it's written on some type of storage device or system, such as a disk or USB stick.
 >
@@ -1919,7 +1901,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=46)** We'll concentrate on solving the problems of preventing the data from being read or tampered with, especially while being stored, or at rest, and emailed, or in transit.
 >
-> **[0:58](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=58)** First, we must highlight that strong cryptography depends on some degree of trust.
+> **[0:58](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=58)** First, we must highlight that strong [[Cryptography]] depends on some degree of trust.
 >
 > **[1:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980&t=62)** Trust can be complicated, just as in human relationships.
 >
@@ -2003,15 +1985,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Representational State Transfer (REST)|Rest]] (3), next (2), management (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Algorithms]] (1), [[Cryptography]] (1)
 > **Env Vars:** pki (10), usb (1), crl (1)
 > **Analogies:** such as (2), similar to (1), think of it as (1)
 > **Definitions:** is a  (1), in other words (1), known as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fundamentals of public key infrastructure (PKI), continued
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki-continued?u=76281980)
+#### [Fundamentals of public key infrastructure (PKI), continued](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki-continued?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2143,7 +2124,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), power (1)
 > **Env Vars:** pki (2), crl (1), csr (1), x509 (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Analogies:** such as (2), imagine (1)
@@ -2151,8 +2131,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementations of public key infrastructure (PKI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980)
+#### [Implementations of public key infrastructure (PKI)](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2160,7 +2139,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=8)** If a signed certificate is trusted by a certain CA, then other entities can trust that identity as well.
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=15)** X.509 is the International Telecommunications Union standard for how PKI works.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=15)** X.509 is the International [[Telecommunications]] Union standard for how PKI works.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=21)** Certificates that conform to the X.509 format contain the following data.
 >
@@ -2210,7 +2189,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=177)** We'll discuss ways to mitigate those risks with proper configuration, monitoring, and key management later.
 >
-> **[3:04](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=184)** Just up ahead, we'll also flow through an example of how to create an SSL/TLS certificate use to secure HTTPS connections between your web browser and the LinkedIn web server that got you to this course, so that you can connect the dots further.
+> **[3:04](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=184)** Just up ahead, we'll also flow through an example of how to create an SSL/TLS certificate use to secure HTTPS connections between your web browser and the [[LinkedIn]] web server that got you to this course, so that you can connect the dots further.
 >
 > **[3:22](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=202)** As a fun fact, there are many different implementations of digital certificates and use today, which include code signing.
 >
@@ -2234,9 +2213,9 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=283)** Furthermore, is also how you got to this course.
 >
-> **[4:47](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=287)** Even though you might still be able to utilize these older protocols, companies are hiring cybersecurity experts like you to recommend modifications or replacements that incorporate encryption technology such as HTTPS and a host of other modern solutions.
+> **[4:47](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=287)** Even though you might still be able to utilize these older protocols, companies are hiring [[Cybersecurity]] experts like you to recommend modifications or replacements that incorporate encryption technology such as HTTPS and a host of other modern solutions.
 >
-> **[5:04](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=304)** Your knowledgeable recommendation will include a variety of newer, more secure replacements, such as S/MIME or Secure MIME, Pretty Good Privacy, PGP, Secure Sockets Layer SSL, Transport Layer Security, TLS, Internet Protocol Security, IPsec, and Secure Shell, SSH.
+> **[5:04](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=304)** Your knowledgeable recommendation will include a variety of newer, more secure replacements, such as S/MIME or Secure MIME, Pretty Good [[Privacy]], PGP, Secure Sockets Layer SSL, Transport Layer Security, TLS, Internet Protocol Security, IPsec, and Secure Shell, SSH.
 >
 > **[5:30](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=330)** We'll compare these concepts to understand how adding encryption prevents a hacker from eavesdropping on your session and stealing your private data such as a password.
 >
@@ -2248,7 +2227,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=357)** S/MIME has a centralized approach versus open PGP, which uses a decentralized approach.
 >
-> **[6:03](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=363)** However, they both leverage hybrid cryptography and retrofit the older protocols mentioned by adding symmetric and asymmetric encryption along with hashing functions to add more layers of security.
+> **[6:03](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=363)** However, they both leverage hybrid [[Cryptography]] and retrofit the older protocols mentioned by adding symmetric and asymmetric encryption along with hashing functions to add more layers of security.
 >
 > **[6:18](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/implementations-of-public-key-infrastructure-pki?u=76281980&t=378)** The main uses of S/MIME and PGP includes sending secure messages and encrypted files stored on devices or the cloud.
 >
@@ -2264,7 +2243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (2), web (2), [[Telecommunications]] (1), management (1)
+> **Frameworks & Libraries:** [[Telecommunications]] (1), [[LinkedIn]] (1), [[Cybersecurity]] (1), [[Privacy]] (1), [[Cryptography]] (1)
 > **Env Vars:** mime (4), pgp (4), ssl (3), tls (3), pki (2)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** ssh (2)
@@ -2273,8 +2252,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The SSL and TSL handshake process
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980)
+#### [The SSL and TSL handshake process](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2286,9 +2264,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=18)** SSL is an insecure predecessor of the latest version of TLS, which is now at 1.3.
 >
-> **[0:26](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=26)** Although you may still see references to SSL, Google discovered major vulnerabilities around 2014, and as with everything else, it's been improved.
+> **[0:26](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=26)** Although you may still see references to SSL, [[Google]] discovered major vulnerabilities around 2014, and as with everything else, it's been improved.
 >
-> **[0:37](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=37)** This will be important if you see any exam answer choices that suggest not upgrading legacy systems that are still running SSL, or other insecure protocols, and you'll know right away this isn't a recommended path expected from your cybersecurity expert role.
+> **[0:37](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=37)** This will be important if you see any exam answer choices that suggest not upgrading legacy systems that are still running SSL, or other insecure protocols, and you'll know right away this isn't a recommended path expected from your [[Cybersecurity]] expert role.
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=54)** Now, let's look at the TLS handshake process.
 >
@@ -2302,7 +2280,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=88)** This request includes a random value, also known as a pre-master secret, and a list of cipher suites supported by the client.
 >
-> **[1:38](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=98)** It's important to note that TLS is the only protocol that allows for this flexibility of using other cryptographic algorithms.
+> **[1:38](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=98)** It's important to note that TLS is the only protocol that allows for this flexibility of using other cryptographic [[Algorithms]].
 >
 > **[1:47](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=107)** The server responds to say, how are you, along with the specifics of which algorithms it can accept from the cipher suite sent by the client.
 >
@@ -2334,7 +2312,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=209)** This is where we move from asymmetric to symmetric encryption going forward.
 >
-> **[3:35](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=215)** It's almost magical in that these two keys never traveled over the internet, and yet we still harness the power of hybrid cryptography.
+> **[3:35](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=215)** It's almost magical in that these two keys never traveled over the internet, and yet we still harness the power of hybrid [[Cryptography]].
 >
 > **[3:45](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=225)** Both the client and the server will now use those session keys to exchange encrypted messages back and forth over a secure channel.
 >
@@ -2342,7 +2320,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=238)** Thus, we've just witnessed how PKI represents the accumulation of all cryptography services by providing confidentiality, integrity, authentication, and non-repudiation throughout the TLS handshake process.
 >
-> **[4:15](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=255)** At a high level, both parties can also agree on a set of algorithms or keys to establish a virtual private network, or VPN, like most businesses run on today, which creates a secure tunnel for communications.
+> **[4:15](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=255)** At a high level, both parties can also agree on a set of algorithms or keys to establish a [[Virtual Private Network (VPN)|virtual private network]], or VPN, like most businesses run on today, which creates a secure tunnel for communications.
 >
 > **[4:31](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/the-ssl-and-tsl-handshake-process?u=76281980&t=271)** A popular way to do so is through the use of IPSec, which operates in two primary modes, transport mode, or tunnel mode.
 >
@@ -2356,7 +2334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), [[Google]] (2), [[Cryptography]] (2), [[Cybersecurity]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Google]] (2), [[Cryptography]] (2), [[Cybersecurity]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1)
 > **Env Vars:** tls (6), pki (4), ssl (4), vpn (1)
 > **Definitions:** known as (2), is an  (1)
 > **Documentation:** spec (2)
@@ -2365,8 +2343,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Versions:** 1.3 (1)
 
-#### Examine a x.509 digital certificate
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/examine-a-x-509-digital-certiciate?u=76281980)
+#### [Examine a x.509 digital certificate](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/examine-a-x-509-digital-certiciate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2374,7 +2351,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/examine-a-x-509-digital-certiciate?u=76281980&t=3)** The premise of what we've been talking about is how do we move from the familiar insecure protocols such as HTTP, to more secure protocols such as HTTPS?
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/examine-a-x-509-digital-certiciate?u=76281980&t=15)** Again, let's consider how you securely got to this LinkedIn site to begin with.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/examine-a-x-509-digital-certiciate?u=76281980&t=15)** Again, let's consider how you securely got to this [[LinkedIn]] site to begin with.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/examine-a-x-509-digital-certiciate?u=76281980&t=21)** I'm here in the browser on my LinkedIn page.
 >
@@ -2442,7 +2419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (8), next (3), [[Security]] (1), web (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (8)
 > **Env Vars:** https (3), http (2), rsa (2), url (1), tls (1)
 > **UI Navigation:** click on (6), double-click (1), scroll down (1)
 > **Analogies:** such as (1), for example (1)
@@ -2456,8 +2433,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cryptanalysis goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980)
+#### [Cryptanalysis goals](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2467,13 +2443,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=12)** Earlier, we provided a basic definition of cryptanalysis as the science of finding weaknesses in cryptographic systems and figuring out how to break them.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=21)** Cryptography itself is referred to as secret writing.
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=21)** [[Cryptography]] itself is referred to as secret writing.
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=25)** In cryptanalysis we refer to as secret breaking.
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=30)** Another term you'll need to know pertains to understanding a cryptosystem.
 >
-> **[0:35](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=35)** A cryptosystem is a suite of cryptographic algorithms needed to implement a particular security service.
+> **[0:35](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=35)** A cryptosystem is a suite of cryptographic [[Algorithms]] needed to implement a particular security service.
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=42)** It typically consists of three algorithms: one for key generation, one for encryption, and one for decryption.
 >
@@ -2531,7 +2507,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=235)** What if I told you a shocking truth?
 >
-> **[3:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=237)** Your job as a cybersecurity professional is not to stop attackers.
+> **[3:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=237)** Your job as a [[Cybersecurity]] professional is not to stop attackers.
 >
 > **[4:03](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=243)** Take a deep breath.
 >
@@ -2539,7 +2515,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=247)** Your job as a cybersecurity professional is to slow down or discourage attackers instead.
 >
-> **[4:14](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=254)** I know you hope for a better answer, but you need to understand that nothing lasts forever, especially as our world is ramping up to solve intricate problems using quantum computing and artificial intelligence.
+> **[4:14](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=254)** I know you hope for a better answer, but you need to understand that nothing lasts forever, especially as our world is ramping up to solve intricate problems using [[Quantum Computing]] and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[4:28](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980&t=268)** I'll speak more on these upcoming technology advancements later in the course.
 >
@@ -2551,7 +2527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), [[Cryptography]] (2), [[Security]] (2), [[Search]] (2), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Cryptography]] (2), [[Cybersecurity]] (2), [[Quantum Computing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** as we saw (1), later in (1)
 > **Definitions:** is a  (1), is called (1)
@@ -2560,8 +2536,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Frequency analysis: It’s all about randomness
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/frequency-analysis-it-s-all-about-randomness?u=76281980)
+#### [Frequency analysis: It’s all about randomness](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/frequency-analysis-it-s-all-about-randomness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2571,9 +2546,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/frequency-analysis-it-s-all-about-randomness?u=76281980&t=15)** The security of a crypto system is largely dependent on two factors, the algorithm you select and the length of the key.
 >
-> **[0:22](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/frequency-analysis-it-s-all-about-randomness?u=76281980&t=22)** Earlier we reviewed the desirable qualities of both an algorithm and the key while examining the fundamentals of cryptographic algorithms.
+> **[0:22](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/frequency-analysis-it-s-all-about-randomness?u=76281980&t=22)** Earlier we reviewed the desirable qualities of both an algorithm and the key while examining the fundamentals of cryptographic [[Algorithms]].
 >
-> **[0:31](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/frequency-analysis-it-s-all-about-randomness?u=76281980&t=31)** Predictability is the enemy of cryptography, and using predictable keys or patterns makes crypto analysis much easier.
+> **[0:31](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/frequency-analysis-it-s-all-about-randomness?u=76281980&t=31)** Predictability is the enemy of [[Cryptography]], and using predictable keys or patterns makes crypto analysis much easier.
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/frequency-analysis-it-s-all-about-randomness?u=76281980&t=41)** It may now make sense why we discussed the use of an initialization factor earlier, which was adding a random value to the plain text before it's encrypted.
 >
@@ -2663,7 +2638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (4), [[Security]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (4), [[Algorithms]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), known as (1)
@@ -2672,8 +2647,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Three cryptanalytic attack categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980)
+#### [Three cryptanalytic attack categories](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2703,7 +2677,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=101)** It's important to realize the vulnerability of endpoints as it can be a cyber securities professional niche skillset, if desired.
 >
-> **[1:48](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=108)** Earlier in my career, it has translated to me leading global initiatives to prevent unauthorized USB and external drives from accessing an employee's PC, and even blocking the ability to use popular cloud file storage systems like Dropbox or Google Drive.
+> **[1:48](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=108)** Earlier in my career, it has translated to me leading global initiatives to prevent unauthorized USB and external drives from accessing an employee's PC, and even blocking the ability to use popular cloud file storage systems like Dropbox or [[Google Drive]].
 >
 > **[2:05](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=125)** Just offering up real-life examples of what you can do with the knowledge you're learning in this course.
 >
@@ -2751,7 +2725,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=280)** A related-key attack allows the attacker to observe the operation of a cipher under several different keys whose values were initially unknown, but where some mathematical relationship connecting the keys is known to the attacker.
 >
-> **[4:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=297)** In fact, if you recall our review of common symmetric algorithms earlier, this attack exposed the weak implementation structure of Wired Equivalent Privacy, or WEP, applications used in early Wi-Fi, thus contributing to it becoming obsolete as WEP keys could be recovered in as little as three minutes.
+> **[4:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=297)** In fact, if you recall our review of common symmetric [[Algorithms]] earlier, this attack exposed the weak implementation structure of Wired Equivalent [[Privacy]], or WEP, applications used in early Wi-Fi, thus contributing to it becoming obsolete as WEP keys could be recovered in as little as three minutes.
 >
 > **[5:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=321)** Next, we have the side channel attacks.
 >
@@ -2799,13 +2773,13 @@ created: 2026-05-02
 >
 > **[8:20](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=500)** The variations on these attacks are far, far too numerous to even summarize.
 >
-> **[8:27](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=507)** You'll learn even more about them as you progress through your ethical hacking series.
+> **[8:27](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=507)** You'll learn even more about them as you progress through your [[Ethical Hacking]] series.
 >
 > **[8:32](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/3-cryptanalytic-attack-categories?u=76281980&t=512)** In addition, I've included the definitions of some of these common names in the glossary as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (5), next (4), power (3), career (1), cloud (1)
+> **Frameworks & Libraries:** [[Google Drive]] (1), [[Algorithms]] (1), [[Privacy]] (1), [[Ethical Hacking]] (1)
 > **Definitions:** is called (4), means that (1), is a  (1)
 > **Analogies:** such as (5)
 > **Env Vars:** wep (2), usb (1), irs (1)
@@ -2814,8 +2788,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key management principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/key-management-principles?u=76281980)
+#### [Key management principles](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/key-management-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2855,13 +2828,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering cryptoanalysis tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980)
+#### [Discovering cryptoanalysis tools](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2871,15 +2842,15 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980&t=11)** Perhaps what I love the most is that it's a free e-learning program where you can share open source projects and learn to decode and break ciphers.
 >
-> **[0:20](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980&t=20)** It includes tools like CrypTool-Online or CTO, where you can play around with different algorithms directly in your browser, or you can leverage CrypTool 1, or CT1, which was the initial version offered in six different languages for experimenting with different algorithms on Windows machines.
+> **[0:20](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980&t=20)** It includes tools like CrypTool-Online or CTO, where you can play around with different [[Algorithms]] directly in your browser, or you can leverage CrypTool 1, or CT1, which was the initial version offered in six different languages for experimenting with different algorithms on [[Windows]] machines.
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980&t=41)** This portal now offers CrypTool2 or CT2, which is a more enhanced version to support visual programming, cascading of cryptographic procedures, et cetera.
 >
 > **[0:53](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980&t=53)** It includes not only encryption, but cryptanalysis of cipher.
 >
-> **[0:56](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980&t=56)** But also, there are basics in the whole spectrum of modern cryptography.
+> **[0:56](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980&t=56)** But also, there are basics in the whole spectrum of modern [[Cryptography]].
 >
-> **[1:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980&t=62)** Finally, you have JCrypTool or JCT, which is more advanced in helping you develop Java plugins.
+> **[1:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980&t=62)** Finally, you have JCrypTool or JCT, which is more advanced in helping you develop [[Java]] plugins.
 >
 > **[1:11](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/discovering-cryptoanalysis-tools?u=76281980&t=71)** But I love that it also focuses on post-quantum algorithms too, which are paving the way for the very near future.
 >
@@ -2895,7 +2866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), [[Windows]] (1), [[Programming]] (1), [[Cryptography]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Windows]] (1), [[Cryptography]] (1), [[Java]] (1)
 > **Env Vars:** cto (1), ct1 (1), ct2 (1), jct (1), rsa (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [md5hashgenerator.com](https://md5hashgenerator.com) (1), [onlinehashcrack.com](https://onlinehashcrack.com) (1)
@@ -2904,8 +2875,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/prevention-strategies?u=76281980)
+#### [Prevention strategies](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/prevention-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2917,7 +2887,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/prevention-strategies?u=76281980&t=16)** You probably should think of it as having a secure lock on your front door as your first line of offense against a thief.
 >
-> **[0:22](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/prevention-strategies?u=76281980&t=22)** As we reviewed many algorithms along with their trade-offs, you have several options to choose from, some stronger than others.
+> **[0:22](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/prevention-strategies?u=76281980&t=22)** As we reviewed many [[Algorithms]] along with their trade-offs, you have several options to choose from, some stronger than others.
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/prevention-strategies?u=76281980&t=30)** So select what fits your needs and provide the highest level of security in doing so.
 >
@@ -2927,7 +2897,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/prevention-strategies?u=76281980&t=46)** Next, monitoring for anomalies, it may seem odd to look for signs of an attack as a prevention measure, but detecting odd or an unusual behavior for a given metric based on historical data can be quite useful.
 >
-> **[1:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/prevention-strategies?u=76281980&t=60)** Furthermore, the use of intrusion detection systems or IDS to monitor access and key exchanges can be very beneficial.
+> **[1:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/prevention-strategies?u=76281980&t=60)** Furthermore, the use of [[Intrusion Detection]] systems or IDS to monitor access and key exchanges can be very beneficial.
 >
 > **[1:09](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/prevention-strategies?u=76281980&t=69)** Implementing key management, this includes storing keys in a secure location, never allowing the transfer of private keys for certificate signing, adding key-stretching techniques to add more computational work, and leveraging the largest bit length for a key where possible.
 >
@@ -2955,7 +2925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Algorithms]] (1), next (1), data (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** ids (1), usb (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2968,14 +2938,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Guidelines and standards in cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980)
+#### [Guidelines and standards in cryptography](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=0)** - [Presenter] There are several guidelines and standards related to cryptosystems as follows: FIPS 140-3, GAK, X.509.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=10)** I'll highlight three items from NIST SP, the 800-57, the 800-175B, and the 1800-38.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=10)** I'll highlight three items from [[NIST]] SP, the 800-57, the 800-175B, and the 1800-38.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=22)** Keep in mind as we go through each of these items that guidelines are more like advice and standards are strictly enforceable by the government.
 >
@@ -2985,7 +2954,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=50)** You can see what this looks like from the diagram on their site.
 >
-> **[0:54](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=54)** The latest version has more robust key management and authentication systems.
+> **[0:54](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=54)** The latest version has more robust key management and [[Authentication Systems]].
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=59)** At level one, you'll need to specify a relevant cryptographic algorithm, which hasn't been discontinued.
 >
@@ -3025,7 +2994,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=207)** I encourage you to get acquainted with the NIST website.
 >
-> **[3:31](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=211)** Site revisions are added often so it's critical for you to stay up to date as you progress in your cybersecurity career.
+> **[3:31](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=211)** Site revisions are added often so it's critical for you to stay up to date as you progress in your [[Cybersecurity]] career.
 >
 > **[3:39](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=219)** Next, we have 800-175B, which provides a guideline and standards for federal government cryptographic mechanisms.
 >
@@ -3035,17 +3004,17 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=248)** In fact, we're on the cusp of a pending announcement to finalize the algorithm selection process, which is anticipated by early 2025.
 >
-> **[4:17](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=257)** At the publishing of this course, NIST is entering their fourth round of final candidates to see which cryptographic algorithms will be able to withstand quantum cryptanalysis.
+> **[4:17](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=257)** At the publishing of this course, NIST is entering their fourth round of final candidates to see which cryptographic [[Algorithms]] will be able to withstand quantum cryptanalysis.
 >
 > **[4:28](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=268)** These are exciting times.
 >
-> **[4:30](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=270)** Quantum cryptography is already here and I can't wait to share the ways it's going to radically impact our lives.
+> **[4:30](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=270)** Quantum [[Cryptography]] is already here and I can't wait to share the ways it's going to radically impact our lives.
 >
 > **[4:37](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980&t=277)** So stay tuned if you're interested in learning more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (5), data (4), next (4), management (2), [[Authentication Systems]] (1)
+> **Frameworks & Libraries:** [[NIST]] (5), [[Authentication Systems]] (1), [[Cybersecurity]] (1), [[Algorithms]] (1), [[Cryptography]] (1)
 > **Env Vars:** nist (5), fips (2), gak (2), des (1), fbi (1)
 > **Definitions:** is called (1), means that (1), refers to (1), is an  (1), stands for (1)
 > **Prerequisites:** you'll need (3)
@@ -3059,22 +3028,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fusion of AI and quantum cryptography: What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980)
+#### [Fusion of AI and quantum cryptography: What's next?](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=1)** - All right.
 >
-> **[0:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=2)** As we venture deeper into the realm of AI and quantum cryptography, we're witnessing the ushering of an entirely new era where the compelling synergy between these powerful forces will reshape the landscape of cybersecurity and beyond.
+> **[0:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=2)** As we venture deeper into the realm of AI and quantum [[Cryptography]], we're witnessing the ushering of an entirely new era where the compelling synergy between these powerful forces will reshape the landscape of [[Cybersecurity]] and beyond.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=17)** Why now?
 >
-> **[0:20](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=20)** I'm here at the NIST government site and they're working on a special project called the Post-Quantum Cryptography Standardization Process.
+> **[0:20](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=20)** I'm here at the [[NIST]] government site and they're working on a special project called the Post-Quantum Cryptography Standardization Process.
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=28)** You can see that we're on the cusp of a pending announcement to finalize the algorithm selection process, which is anticipated by early 2025.
 >
-> **[0:38](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=38)** These developing algorithms don't require us to abandon the current state right now.
+> **[0:38](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=38)** These developing [[Algorithms]] don't require us to abandon the current state right now.
 >
 > **[0:43](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=43)** Rather, they're designed to make those systems resistant against quantum computer attacks.
 >
@@ -3092,7 +3060,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=96)** "The Matrix" has had a lasting impact on our popular culture and how we think about AI and its potential consequences.
 >
-> **[1:45](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=105)** The fusion of AI and quantum computing have the ability to bend the rules of the digital world, much like how the hackers or agents in the movie manipulated code.
+> **[1:45](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=105)** The fusion of AI and [[Quantum Computing]] have the ability to bend the rules of the digital world, much like how the hackers or agents in the movie manipulated code.
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=115)** It represents a metaphor for the power of technology to alter the fabric of our reality.
 >
@@ -3146,7 +3114,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=273)** It can be one, it can be zero, and it can be an indeterminate state or even both at the same time.
 >
-> **[4:42](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=282)** It's sometimes represented by using a diagram called a Bloch sphere, where the top point of the spear is a state of zero, or rather, it's the highest point of being zero together with the lowest probability of being one.
+> **[4:42](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=282)** It's sometimes represented by using a diagram called a Bloch sphere, where the top point of the spear is a state of zero, or rather, it's the highest point of being zero together with the lowest [[Probability]] of being one.
 >
 > **[4:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=297)** And the bottom point is the state of one or the highest probability of being one and the lowest probability of being zero.
 >
@@ -3184,7 +3152,7 @@ created: 2026-05-02
 >
 > **[7:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=430)** This is where AI steps in again to meticulously identify and correct these errors through using well-adapted machine algorithms.
 >
-> **[7:19](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=439)** Next, scalability issues.
+> **[7:19](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=439)** Next, [[Scalability]] issues.
 >
 > **[7:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=441)** As we accommodate more qubits and the need to maintain all these indeterminate states, AI can assist with managing the growth of these systems while ensuring performance remains optimal.
 >
@@ -3194,7 +3162,7 @@ created: 2026-05-02
 >
 > **[7:50](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=470)** What I can say is that the rewards outweigh the risks, and that quantum cryptography represents an opportunity to get ahead of national adversaries.
 >
-> **[7:59](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=479)** The nation, or even the race you currently see between companies like Google and IBM to out-innovate in this highly competitive market will create a chilling advantage for those who arrive first to solve these challenges.
+> **[7:59](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=479)** The nation, or even the race you currently see between companies like [[Google]] and IBM to out-innovate in this highly competitive market will create a chilling advantage for those who arrive first to solve these challenges.
 >
 > **[8:14](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=494)** AI offers more enhancements than foresight, intelligence, and strategy.
 >
@@ -3214,9 +3182,9 @@ created: 2026-05-02
 >
 > **[9:21](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=561)** The cure for all types of diseases like cancer is on the horizon.
 >
-> **[9:27](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=567)** And the field of telecommunications will be able to detect and counter rock any quantum level eavesdropping attempts in real time, making the network of any company impenetrable to external threats.
+> **[9:27](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=567)** And the field of [[Telecommunications]] will be able to detect and counter rock any quantum level eavesdropping attempts in real time, making the network of any company impenetrable to external threats.
 >
-> **[9:40](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=580)** In the realm of environmental science, imagine scaled up climate modeling and sustainability efforts when combined with AI's predictive analytics will gain deeper insights on the pattern of climate change so that we can devise better strategies for environmental conservation.
+> **[9:40](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=580)** In the realm of environmental science, imagine scaled up climate modeling and [[Sustainability]] efforts when combined with AI's [[Predictive Analytics]] will gain deeper insights on the pattern of [[Climate Change]] so that we can devise better strategies for environmental conservation.
 >
 > **[9:57](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=597)** The education sector will have the most profound impact.
 >
@@ -3250,7 +3218,7 @@ created: 2026-05-02
 >
 > **[11:19](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=679)** It's a call to assist in realigning education and legislation to foster ethical and responsible use of these technologies.
 >
-> **[11:29](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=689)** One thing is certain, despite an active debate you hear in the news about the impact of automation and artificial intelligence on jobs, there's always going to be a great demand for your cybersecurity skillset.
+> **[11:29](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=689)** One thing is certain, despite an active debate you hear in the news about the impact of automation and [[Artificial Intelligence (AI)|artificial intelligence]] on jobs, there's always going to be a great demand for your cybersecurity skillset.
 >
 > **[11:44](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980&t=704)** In fact, you'll be presented with remarkable new frontiers to explore.
 >
@@ -3260,7 +3228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Cryptography]] (11), [[Quantum Computing]] (4), [[Algorithms]] (3), [[Probability]] (3)
+> **Frameworks & Libraries:** [[Cryptography]] (11), [[Quantum Computing]] (4), [[Algorithms]] (3), [[Probability]] (3), [[Cybersecurity]] (2)
 > **Env Vars:** nist (2), bike (1), hqc (1), sike (1), rsa (1)
 > **Definitions:** is a  (2), in other words (2), is called (1), is an  (1)
 > **Analogies:** imagine (4), such as (1)
@@ -3268,8 +3236,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - all (1)
 
-#### Summary of exam expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980)
+#### [Summary of exam expectations](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3279,7 +3246,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=6)** Let's summarize the main topics we've learned.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=9)** Again, this course was intended to demystify cryptography for everyone while covering the key objectives required for the CEH exam.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=9)** Again, this course was intended to demystify [[Cryptography]] for everyone while covering the key objectives required for the [[CEH]] exam.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=17)** Well, I can't guarantee exactly how many questions you'll see from this module.
 >
@@ -3289,11 +3256,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=38)** We spent quite a bit of time on understanding the differences between symmetric and asymmetric encryption and hashing functions.
 >
-> **[0:46](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=46)** You'll want to make sure that you're pretty well versed in those, able to recognize associated common algorithms, and understand which ones are more secure.
+> **[0:46](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=46)** You'll want to make sure that you're pretty well versed in those, able to recognize associated common [[Algorithms]], and understand which ones are more secure.
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=56)** We examine PKI infrastructure, which encompasses everything related to managing public key encryption and confirming identity.
 >
-> **[1:05](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=65)** This includes hardware, software, policies, and procedures that are used to create, distribute, manage, store, and revoke digital certificates.
+> **[1:05](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=65)** This includes [[Hardware]], software, policies, and procedures that are used to create, distribute, manage, store, and revoke digital certificates.
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=75)** Towards the end, we explored the three categories of crypto analytic attacks, along with prevention strategies and key management principles.
 >
@@ -3309,7 +3276,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=134)** Perhaps you'll be drawn to complete some of the fun thought-provoking cryptographic riddles and challenges as well.
 >
-> **[2:20](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=140)** Best of all, I incorporated LinkedIn's new text integrated feature, so you can easily go back over the process steps for each area to enhance your learning experience.
+> **[2:20](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=140)** Best of all, I incorporated [[LinkedIn]]'s new text integrated feature, so you can easily go back over the process steps for each area to enhance your learning experience.
 >
 > **[2:31](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=151)** You don't have to worry about getting confused with, "Wait, do I encrypt something with my private key?
 >
@@ -3317,17 +3284,17 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=159)** Feel free to leverage all these activities and features to help you further connect the dots to all the concepts you've learned.
 >
-> **[2:48](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=168)** In doing so, you'll be on your way to reaching my ultimate goal for you to fully understand how cryptography links directly to cybersecurity to form a critical part of an effective information security plan for any organization.
+> **[2:48](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=168)** In doing so, you'll be on your way to reaching my ultimate goal for you to fully understand how cryptography links directly to [[Cybersecurity]] to form a critical part of an effective information security plan for any organization.
 >
 > **[3:02](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=182)** I really enjoyed creating this course, and I hope you enjoy watching it.
 >
-> **[3:07](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=187)** Good luck on the rest of your test preparation.
+> **[3:07](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=187)** Good luck on the [[Representational State Transfer (REST)|rest]] of your test preparation.
 >
 > **[3:10](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/summary-of-exam-expectations?u=76281980&t=190)** Keep learning and I hope to see you again soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (3), [[Algorithms]] (1), [[Hardware]] (1), management (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (3), [[CEH]] (1), [[Algorithms]] (1), [[Hardware]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ceh (1), pki (1), nis (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)

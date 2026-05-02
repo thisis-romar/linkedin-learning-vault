@@ -103,14 +103,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a full-stack Angular app with the Django REST framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980)
+#### [Create a full-stack Angular app with the Django REST framework](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980&t=0)** - [Instructor] Learning Angular is a rewarding experience and gives you the skills to become a full stacked developer.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980&t=0)** - [Instructor] Learning [[Angular]] is a rewarding experience and gives you the skills to become a full stacked developer.
 >
-> **[0:06](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980&t=6)** By working with rest APIs through Django and Python, you can build fully-featured front-end interfaces with Angular.
+> **[0:06](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980&t=6)** By working with [[Representational State Transfer (REST)|rest]] APIs through [[Django]] and [[Python (Programming Language)|Python]], you can build fully-featured front-end interfaces with Angular.
 >
 > **[0:13](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980&t=13)** You'll use Angular's built-in HTTP client to communicate between the front end and the back end server.
 >
@@ -124,47 +123,45 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980&t=43)** I've been optimizing developer feedback loops for the past 10 years.
 >
-> **[0:47](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980&t=47)** Join me in my LinkedIn Learning course to create a full stack app.
+> **[0:47](https://www.linkedin.com/learning/building-angular-and-django-apps/create-a-full-stack-angular-app-with-the-django-rest-framework?u=76281980&t=47)** Join me in my [[LinkedIn]] Learning course to create a full stack app.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Django]] (1), [[Python (Programming Language)|Python]] (1), front-end (1)
+> **Frameworks & Libraries:** [[Angular]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Django]] (1), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** http (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-angular-and-django-apps/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course you will need to know some Python, you can check out the book "Learn Python the Hard Way" or the LinkedIn Learning Course Learning Python Two.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course you will need to know some [[Python (Programming Language)|Python]], you can check out the book "Learn Python the Hard Way" or the [[LinkedIn]] Learning Course Learning Python Two.
 >
-> **[0:11](https://www.linkedin.com/learning/building-angular-and-django-apps/what-you-should-know?u=76281980&t=11)** There's also the LinkedIn Learning Course for learning Django.
+> **[0:11](https://www.linkedin.com/learning/building-angular-and-django-apps/what-you-should-know?u=76281980&t=11)** There's also the LinkedIn Learning Course for learning [[Django]].
 >
 > **[0:14](https://www.linkedin.com/learning/building-angular-and-django-apps/what-you-should-know?u=76281980&t=14)** And [[Building RESTful Web APIs with Django]].
 >
-> **[0:17](https://www.linkedin.com/learning/building-angular-and-django-apps/what-you-should-know?u=76281980&t=17)** And you will also need to know some JavaScript.
+> **[0:17](https://www.linkedin.com/learning/building-angular-and-django-apps/what-you-should-know?u=76281980&t=17)** And you will also need to know some [[JavaScript]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (2), [[Django]] (2), web (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (2), [[Django]] (2), [[JavaScript]] (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - [instructor] (1)
 
-#### Demo project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/demo-project-overview?u=76281980)
+#### [Demo project overview](https://www.linkedin.com/learning/building-angular-and-django-apps/demo-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/demo-project-overview?u=76281980&t=0)** - [Instructor] We have already installed some libraries for you to use with Django.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/demo-project-overview?u=76281980&t=0)** - [Instructor] We have already installed some libraries for you to use with [[Django]].
 >
-> **[0:04](https://www.linkedin.com/learning/building-angular-and-django-apps/demo-project-overview?u=76281980&t=4)** Django the web framework of course, and Django REST framework for creating REST APIs.
+> **[0:04](https://www.linkedin.com/learning/building-angular-and-django-apps/demo-project-overview?u=76281980&t=4)** Django the web framework of course, and Django [[Representational State Transfer (REST)|REST]] framework for creating REST APIs.
 >
 > **[0:10](https://www.linkedin.com/learning/building-angular-and-django-apps/demo-project-overview?u=76281980&t=10)** And we've also installed Django-filter for filtering querysets and models and the Django OAuth Toolkit for OAuth2 authentication.
 >
-> **[0:20](https://www.linkedin.com/learning/building-angular-and-django-apps/demo-project-overview?u=76281980&t=20)** On the front-end we have installed the following modules, Angular, Angular Router and Angular Material for Material Design components, and Protractor for end-to-end testing of Angular apps.
+> **[0:20](https://www.linkedin.com/learning/building-angular-and-django-apps/demo-project-overview?u=76281980&t=20)** On the front-end we have installed the following modules, [[Angular]], Angular Router and Angular Material for Material Design components, and Protractor for [[End-to-end Testing]] of Angular apps.
 >
 > **[0:34](https://www.linkedin.com/learning/building-angular-and-django-apps/demo-project-overview?u=76281980&t=34)** We have already built some parts of the project for you as well.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (6), [[Angular]] (5), [[Representational State Transfer (REST)|Rest]] (2), web (1), front-end (1)
+> **Frameworks & Libraries:** [[Django]] (6), [[Angular]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[End-to-end Testing]] (1)
 > **Env Vars:** rest (2)
 > **Speakers:** - [instructor] (1)
 
@@ -181,12 +178,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running the Angular and Django development servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/running-the-angular-and-django-development-servers?u=76281980)
+#### [Running the Angular and Django development servers](https://www.linkedin.com/learning/building-angular-and-django-apps/running-the-angular-and-django-development-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/running-the-angular-and-django-development-servers?u=76281980&t=0)** - [Instructor] While we are developing our Django rest API backend and Angular front end, we will need to run the development web servers for each of them.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/running-the-angular-and-django-development-servers?u=76281980&t=0)** - [Instructor] While we are developing our [[Django]] [[Representational State Transfer (REST)|rest]] API backend and [[Angular]] front end, we will need to run the development [[Web Servers]] for each of them.
 >
 > **[0:07](https://www.linkedin.com/learning/building-angular-and-django-apps/running-the-angular-and-django-development-servers?u=76281980&t=7)** On the back end we will need to run the Django command which is manage.py runserver.
 >
@@ -196,56 +192,54 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/building-angular-and-django-apps/running-the-angular-and-django-development-servers?u=76281980&t=42)** To view the Angular front end, we can go to localhost on port 4200.
 >
-> **[0:53](https://www.linkedin.com/learning/building-angular-and-django-apps/running-the-angular-and-django-development-servers?u=76281980&t=53)** The Angular development server is configured in the proxy conf JSON file to proxy any requests made to /api and /oauth directly to the Django web server.
+> **[0:53](https://www.linkedin.com/learning/building-angular-and-django-apps/running-the-angular-and-django-development-servers?u=76281980&t=53)** The Angular development server is configured in the proxy conf [[JSON]] file to proxy any requests made to /api and /oauth directly to the Django web server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (5), [[Django]] (4), api (3), web (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Angular]] (5), [[Django]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Web Servers]] (1), [[JSON]] (1)
 > **Env Vars:** api (2), json (1)
 > **Ports:** port 8000 (1), port 4200 (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **File Paths:** manage.py (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compiling Angular Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/compiling-angular-code?u=76281980)
+#### [Compiling Angular Code](https://www.linkedin.com/learning/building-angular-and-django-apps/compiling-angular-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/compiling-angular-code?u=76281980&t=0)** - [Announcer] We can use the Angular command-line interface to compile the code for production.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/compiling-angular-code?u=76281980&t=0)** - [Announcer] We can use the [[Angular]] command-line interface to compile the code for production.
 >
 > **[0:05](https://www.linkedin.com/learning/building-angular-and-django-apps/compiling-angular-code?u=76281980&t=5)** All we need to do is run this command.
 >
 > **[0:09](https://www.linkedin.com/learning/building-angular-and-django-apps/compiling-angular-code?u=76281980&t=9)** The dash dash prod is important because it enables production mode in Angular, and turns on compiler features that will lower file sizes, remove some debugging utilities and improve performance.
 >
-> **[0:22](https://www.linkedin.com/learning/building-angular-and-django-apps/compiling-angular-code?u=76281980&t=22)** In the angular.json configuration file, you can see certain options are turned on for production compilation, such as sourceMap is false, extractCss is true, aot, Ahead-of-Time is true, and so on.
+> **[0:22](https://www.linkedin.com/learning/building-angular-and-django-apps/compiling-angular-code?u=76281980&t=22)** In the angular.[[JSON]] configuration file, you can see certain options are turned on for production compilation, such as sourceMap is false, extractCss is true, aot, Ahead-of-Time is true, and so on.
 >
 > **[0:41](https://www.linkedin.com/learning/building-angular-and-django-apps/compiling-angular-code?u=76281980&t=41)** Let's see what files were produced as part of the build.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (3), [[Debugging]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[JSON]] (1)
 > **Code Identifiers:** sourcemap (1), extractcss (1)
 > **File Paths:** angular.json (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [announcer] (1)
 
-#### Serving Angular Code Through Django static files
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/serving-angular-code-through-django-static-files?u=76281980)
+#### [Serving Angular Code Through Django static files](https://www.linkedin.com/learning/building-angular-and-django-apps/serving-angular-code-through-django-static-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/serving-angular-code-through-django-static-files?u=76281980&t=0)** - [Instructor] Now that we have the compiled version of our Angular app, we need to add a setting to the Django backend called front end root which will point to the path where it can be found.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/serving-angular-code-through-django-static-files?u=76281980&t=0)** - [Instructor] Now that we have the compiled version of our [[Angular]] app, we need to add a setting to the [[Django]] backend called front end root which will point to the path where it can be found.
 >
 > **[0:13](https://www.linkedin.com/learning/building-angular-and-django-apps/serving-angular-code-through-django-static-files?u=76281980&t=13)** In the URLs configuration of Django, we add a new regular expression URL.
 >
 > **[0:19](https://www.linkedin.com/learning/building-angular-and-django-apps/serving-angular-code-through-django-static-files?u=76281980&t=19)** It will point all URLs to the front end directory that we defined in the settings file.
 >
-> **[0:26](https://www.linkedin.com/learning/building-angular-and-django-apps/serving-angular-code-through-django-static-files?u=76281980&t=26)** Now we run the Django web server, and let's go to local host at port 8000 index.html and we can see that the compiled angular app has loaded up.
+> **[0:26](https://www.linkedin.com/learning/building-angular-and-django-apps/serving-angular-code-through-django-static-files?u=76281980&t=26)** Now we run the Django web server, and let's go to local host at port 8000 index.[[HTML]] and we can see that the compiled angular app has loaded up.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), [[Angular]] (2), web (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Django]] (3), [[Angular]] (2), [[HTML]] (1)
 > **File Paths:** index.html (1)
 > **Ports:** port 8000 (1)
 > **Env Vars:** url (1)
@@ -257,8 +251,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating models with the Django REST framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-models-with-the-django-rest-framework?u=76281980)
+#### [Creating models with the Django REST framework](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-models-with-the-django-rest-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,17 +283,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), generic (1)
 > **Env Vars:** api (5), url (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a ViewSet with Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-viewset-with-django?u=76281980)
+#### [Creating a ViewSet with Django](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-viewset-with-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-viewset-with-django?u=76281980&t=0)** - Django REST Framework provides an easy way to grade common operations for models and objects in a REST API.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-viewset-with-django?u=76281980&t=0)** - [[Django]] [[Representational State Transfer (REST)|REST]] Framework provides an easy way to grade common operations for models and objects in a REST API.
 >
 > **[0:07](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-viewset-with-django?u=76281980&t=7)** Typically, for any object exposed by the API, we will want to be able to create, update, delete, retrieve them, or retrieve a list of them.
 >
@@ -332,17 +323,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), [[Representational State Transfer (REST)|Rest]] (4), api (4)
+> **Frameworks & Libraries:** [[Django]] (4), [[Representational State Transfer (REST)|Rest]] (4)
 > **Env Vars:** rest (4), api (4), url (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - django (1)
 
-#### Creating a REST API service with Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-rest-api-service-with-angular?u=76281980)
+#### [Creating a REST API service with Angular](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-rest-api-service-with-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-rest-api-service-with-angular?u=76281980&t=0)** - [Instructor] With the Django server running with the back end rest API code for creating a package, we can implement the http call we need in the front end Angular app.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-rest-api-service-with-angular?u=76281980&t=0)** - [Instructor] With the [[Django]] server running with the back end [[Representational State Transfer (REST)|rest]] API code for creating a package, we can implement the http call we need in the front end [[Angular]] app.
 >
 > **[0:10](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-rest-api-service-with-angular?u=76281980&t=10)** We're going to be creating the rest API service class, which is injectable, which means it can be injected anywhere in the Angular app as a dependency.
 >
@@ -370,18 +360,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), api (5), [[Django]] (3), data (3), [[Angular]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), [[Django]] (3), [[Angular]] (2)
 > **Env Vars:** api (4), url (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a basic form as an Angular component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980)
+#### [Creating a basic form as an Angular component](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=0)** - [Instructor] Let's create a form component so that users can create new tour packages.
 >
-> **[0:05](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=5)** We import the form control and the form group from Angular forms, which provides a way to construct reactive forms that use two-way data bind.
+> **[0:05](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=5)** We import the form control and the form group from [[Angular]] [[Forms]], which provides a way to construct reactive forms that use two-way data bind.
 >
 > **[0:20](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=20)** In our create tour form component, we add two instance variables, package form, which is a form group, and one input to the component, which is id, the id of an existing package.
 >
@@ -395,11 +384,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=86)** And then, we're going to set up the other fields, the category, which has a default value of tour, the name, it's tour package, the promo, a tour length, the price, the rating, and start.
 >
-> **[2:03](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=123)** This is a java script data object.
+> **[2:03](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=123)** This is a [[Java]] script data object.
 >
 > **[2:08](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=128)** We also have a place holder save method that will be called whenever we click the save button.
 >
-> **[2:16](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=136)** Now let's update the html template for the create tour form.
+> **[2:16](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=136)** Now let's update the [[HTML]] template for the create tour form.
 >
 > **[2:22](https://www.linkedin.com/learning/building-angular-and-django-apps/creating-a-basic-form-as-an-angular-component?u=76281980&t=142)** We're going to create the form and then bind the form group to the package form.
 >
@@ -449,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), [[Forms]] (2), data (2), dom (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[Forms]] (2), [[Java]] (1), [[HTML]] (1)
 > **Definitions:** is a  (2), is called (2)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (2)
@@ -458,14 +447,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting an Angular component to a service
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/connecting-an-angular-component-to-a-service?u=76281980)
+#### [Connecting an Angular component to a service](https://www.linkedin.com/learning/building-angular-and-django-apps/connecting-an-angular-component-to-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/connecting-an-angular-component-to-a-service?u=76281980&t=0)** - [Instructor] We now need to fill in the controller which will manage the logic of our app.
 >
-> **[0:05](https://www.linkedin.com/learning/building-angular-and-django-apps/connecting-an-angular-component-to-a-service?u=76281980&t=5)** The controller makes it easier for us to rate unit test because it introduces a lair between the components and the rest APIs service calls which are more tedious to mark.
+> **[0:05](https://www.linkedin.com/learning/building-angular-and-django-apps/connecting-an-angular-component-to-a-service?u=76281980&t=5)** The controller makes it easier for us to rate unit test because it introduces a lair between the components and the [[Representational State Transfer (REST)|rest]] APIs service calls which are more tedious to mark.
 >
 > **[0:15](https://www.linkedin.com/learning/building-angular-and-django-apps/connecting-an-angular-component-to-a-service?u=76281980&t=15)** We have the dependency on the restApiService, and in the save method of the controller, we are accepting tourPackageData, and then we will be calling the createTour method of the restApiService with that data.
 >
@@ -479,11 +467,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/building-angular-and-django-apps/connecting-an-angular-component-to-a-service?u=76281980&t=105)** Now we can see that the button has changed.
 >
-> **[1:48](https://www.linkedin.com/learning/building-angular-and-django-apps/connecting-an-angular-component-to-a-service?u=76281980&t=108)** And now, we can check the Django admin, and we can see that the Hello California package was created.
+> **[1:48](https://www.linkedin.com/learning/building-angular-and-django-apps/connecting-an-angular-component-to-a-service?u=76281980&t=108)** And now, we can check the [[Django]] admin, and we can see that the Hello California package was created.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Django]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Django]] (1)
 > **Code Identifiers:** restapiservice (2), tourpackagedata (2), createtour (1), createtourpackage (1), packageform (1)
 > **Speakers:** - [instructor] (1)
 
@@ -492,12 +480,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Form layout with Angular Material
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/form-layout-with-angular-material?u=76281980)
+#### [Form layout with Angular Material](https://www.linkedin.com/learning/building-angular-and-django-apps/form-layout-with-angular-material?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/form-layout-with-angular-material?u=76281980&t=0)** - [Instructor] Angular Material Grids have two components to them, the mat grid list and the mat grid tile.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/form-layout-with-angular-material?u=76281980&t=0)** - [Instructor] [[Angular]] Material Grids have two components to them, the mat grid list and the mat grid tile.
 >
 > **[0:08](https://www.linkedin.com/learning/building-angular-and-django-apps/form-layout-with-angular-material?u=76281980&t=8)** These are some of the input attributes that they have.
 >
@@ -533,13 +520,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (1), next (1)
+> **Frameworks & Libraries:** [[Angular]] (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Date/time selection with a Calendar in Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/date-time-selection-with-a-calendar-in-angular?u=76281980)
+#### [Date/time selection with a Calendar in Angular](https://www.linkedin.com/learning/building-angular-and-django-apps/date-time-selection-with-a-calendar-in-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -571,18 +557,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** toggle (2), go to (1)
 > **File Paths:** moment.js (1)
 > **Code Identifiers:** matdatepicker (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying a data table with Angular Material table
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-data-table-with-angular-material-table?u=76281980)
+#### [Displaying a data table with Angular Material table](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-data-table-with-angular-material-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-data-table-with-angular-material-table?u=76281980&t=0)** - [Instructor] In the tour package list component, we're going to construct a table using angular material components.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-data-table-with-angular-material-table?u=76281980&t=0)** - [Instructor] In the tour package list component, we're going to construct a table using [[Angular]] material components.
 >
 > **[0:08](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-data-table-with-angular-material-table?u=76281980&t=8)** The data source for the table is the packages variable.
 >
@@ -648,7 +632,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-data-table-with-angular-material-table?u=76281980&t=279)** We need to also define what happens when a page is changed.
 >
-> **[4:45](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-data-table-with-angular-material-table?u=76281980&t=285)** So when we want to actually load the data, so we call tour package controller list, we subscribe to the results of the HTP call that will be made to our Janga rest server.
+> **[4:45](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-data-table-with-angular-material-table?u=76281980&t=285)** So when we want to actually load the data, so we call tour package controller list, we subscribe to the results of the HTP call that will be made to our Janga [[Representational State Transfer (REST)|rest]] server.
 >
 > **[5:00](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-data-table-with-angular-material-table?u=76281980&t=300)** We're expecting a tour package page.
 >
@@ -672,14 +656,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Angular]] (1), [[Representational State Transfer (REST)|Rest]] (1), dom (1)
+> **Frameworks & Libraries:** [[Angular]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** htp (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying a pop-up dialog box with Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-pop-up-dialog-box-with-angular?u=76281980)
+#### [Displaying a pop-up dialog box with Angular](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-pop-up-dialog-box-with-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,7 +670,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-pop-up-dialog-box-with-angular?u=76281980&t=10)** Unlike boostrapped components, entry components are not launched immediately.
 >
-> **[0:18](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-pop-up-dialog-box-with-angular?u=76281980&t=18)** In the create tour form, we're going to import the mat dialogue service from angular material and import the terms of use component.
+> **[0:18](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-pop-up-dialog-box-with-angular?u=76281980&t=18)** In the create tour form, we're going to import the mat dialogue service from [[Angular]] material and import the terms of use component.
 >
 > **[0:39](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-a-pop-up-dialog-box-with-angular?u=76281980&t=39)** In the constructor we're going to declare the mat dialogue as a dependency.
 >
@@ -721,17 +704,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Angular]] (2)
+> **Frameworks & Libraries:** [[Angular]] (2)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying more information with Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-more-information-with-angular?u=76281980)
+#### [Displaying more information with Angular](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-more-information-with-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-more-information-with-angular?u=76281980&t=0)** - [Instructor] We're going to create the tour length filter by using the chip components from Angular material.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-more-information-with-angular?u=76281980&t=0)** - [Instructor] We're going to create the tour length filter by using the chip components from [[Angular]] material.
 >
 > **[0:07](https://www.linkedin.com/learning/building-angular-and-django-apps/displaying-more-information-with-angular?u=76281980&t=7)** Start with a div, and we have tour length to filter by.
 >
@@ -806,8 +788,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Authentication with Django OAuth Toolkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980)
+#### [Setting up Authentication with Django OAuth Toolkit](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,7 +796,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980&t=4)** This means we're going to need authentication.
 >
-> **[0:07](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980&t=7)** Django OAUTH Tool Kit provides an easy way to add OAUTH token based authentication.
+> **[0:07](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980&t=7)** [[Django]] OAUTH Tool Kit provides an easy way to add OAUTH token based authentication.
 >
 > **[0:13](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980&t=13)** We need to update the middleware setting in our settings pi file.
 >
@@ -827,24 +808,23 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980&t=37)** And we're going to insert an oauth2_provider.backend.
 >
-> **[0:45](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980&t=45)** We must configure the oauth2 provider, specifically the backend class because we are going to be using JSON data payloads with this rest API server.
+> **[0:45](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980&t=45)** We must configure the oauth2 provider, specifically the backend class because we are going to be using [[JSON]] data payloads with this [[Representational State Transfer (REST)|rest]] API server.
 >
 > **[1:04](https://www.linkedin.com/learning/building-angular-and-django-apps/setting-up-authentication-with-django-oauth-toolkit?u=76281980&t=64)** And then we have to configure Django rest framework to no longer use the no authentication backend and instead to use the oauth2_provider rest framework specific oauth2 authentication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Django]] (2), [[JSON]] (1), data (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Django]] (2), [[JSON]] (1)
 > **Env Vars:** oauth (2), json (1), api (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using scopes with Django OAuth Toolkit for permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/using-scopes-with-django-oauth-toolkit-for-permissions?u=76281980)
+#### [Using scopes with Django OAuth Toolkit for permissions](https://www.linkedin.com/learning/building-angular-and-django-apps/using-scopes-with-django-oauth-toolkit-for-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/using-scopes-with-django-oauth-toolkit-for-permissions?u=76281980&t=0)** - [Instructor] To add more nuance to permissions, we can use scopes with Django OAuth Toolkit.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/using-scopes-with-django-oauth-toolkit-for-permissions?u=76281980&t=0)** - [Instructor] To add more nuance to permissions, we can use scopes with [[Django]] OAuth Toolkit.
 >
 > **[0:06](https://www.linkedin.com/learning/building-angular-and-django-apps/using-scopes-with-django-oauth-toolkit-for-permissions?u=76281980&t=6)** We add the scopes to oauth2_provider in the settings file.
 >
@@ -866,17 +846,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Django]] (1)
+> **Frameworks & Libraries:** [[Django]] (1)
 > **Code Identifiers:** rest_framework (1), permission_classes (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
-#### Registering a new OAuth application with Django OAuth Toolkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/registering-a-new-oauth-application-with-django-oauth-toolkit?u=76281980)
+#### [Registering a new OAuth application with Django OAuth Toolkit](https://www.linkedin.com/learning/building-angular-and-django-apps/registering-a-new-oauth-application-with-django-oauth-toolkit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/registering-a-new-oauth-application-with-django-oauth-toolkit?u=76281980&t=0)** - [Instructor] Now that we have oauth tool kit as authentication backend and middleware for Django.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/registering-a-new-oauth-application-with-django-oauth-toolkit?u=76281980&t=0)** - [Instructor] Now that we have oauth tool kit as authentication backend and middleware for [[Django]].
 >
 > **[0:05](https://www.linkedin.com/learning/building-angular-and-django-apps/registering-a-new-oauth-application-with-django-oauth-toolkit?u=76281980&t=5)** We have to register a new application through the admin interface, we can launch the Django server, go to the browser, and login to the Django admin.
 >
@@ -890,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/building-angular-and-django-apps/registering-a-new-oauth-application-with-django-oauth-toolkit?u=76281980&t=45)** And we're just going to name this as example frontend.
 >
-> **[0:53](https://www.linkedin.com/learning/building-angular-and-django-apps/registering-a-new-oauth-application-with-django-oauth-toolkit?u=76281980&t=53)** So we already have an existing application and it is used by our Angular app to make requests to the API server.
+> **[0:53](https://www.linkedin.com/learning/building-angular-and-django-apps/registering-a-new-oauth-application-with-django-oauth-toolkit?u=76281980&t=53)** So we already have an existing application and it is used by our [[Angular]] app to make requests to the API server.
 >
 > **[1:04](https://www.linkedin.com/learning/building-angular-and-django-apps/registering-a-new-oauth-application-with-django-oauth-toolkit?u=76281980&t=64)** So it already has a client ID, the client type is confidential, and we already have the client secret.
 >
@@ -898,19 +877,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), application (3), api (2), [[Angular]] (1)
+> **Frameworks & Libraries:** [[Django]] (4), [[Angular]] (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging in and authentication with Angular and HttpClient
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/logging-in-and-authentication-with-angular-and-httpclient?u=76281980)
+#### [Logging in and authentication with Angular and HttpClient](https://www.linkedin.com/learning/building-angular-and-django-apps/logging-in-and-authentication-with-angular-and-httpclient?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/logging-in-and-authentication-with-angular-and-httpclient?u=76281980&t=0)** - [Instructor] We have OAuth authentication set up on the Django backend, so now we'll be able to make login requests to the server through Angular and a REST API class.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/logging-in-and-authentication-with-angular-and-httpclient?u=76281980&t=0)** - [Instructor] We have OAuth authentication set up on the [[Django]] backend, so now we'll be able to make login requests to the server through [[Angular]] and a [[Representational State Transfer (REST)|REST]] API class.
 >
 > **[0:10](https://www.linkedin.com/learning/building-angular-and-django-apps/logging-in-and-authentication-with-angular-and-httpclient?u=76281980&t=10)** We're going to be keeping track of whether or not the user is logged in or not, and we're going to keep track of their OAuth access token.
 >
@@ -976,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), data (3), [[Angular]] (2), [[Representational State Transfer (REST)|Rest]] (2), api (2)
+> **Frameworks & Libraries:** [[Django]] (3), [[Angular]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** restapiservice (2), formcontrol (2), loggedin (1), accesstoken (1), grant_type (1)
 > **Env Vars:** rest (2), api (2), http (1)
 > **Definitions:** is an  (3), means that (1)
@@ -985,12 +963,11 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **UI Navigation:** click on (1)
 
-#### Using OAuth headers with Angular and HttpClient
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/using-oauth-headers-with-angular-and-httpclient?u=76281980)
+#### [Using OAuth headers with Angular and HttpClient](https://www.linkedin.com/learning/building-angular-and-django-apps/using-oauth-headers-with-angular-and-httpclient?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/using-oauth-headers-with-angular-and-httpclient?u=76281980&t=0)** - [Instructor] Now that we can login, we need to reuse the Oauth access token in all of our rest API requests.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/using-oauth-headers-with-angular-and-httpclient?u=76281980&t=0)** - [Instructor] Now that we can login, we need to reuse the Oauth access token in all of our [[Representational State Transfer (REST)|rest]] API requests.
 >
 > **[0:07](https://www.linkedin.com/learning/building-angular-and-django-apps/using-oauth-headers-with-angular-and-httpclient?u=76281980&t=7)** We can update the common options method in the rest API service class to populate the HTTP client headers.
 >
@@ -1000,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/building-angular-and-django-apps/using-oauth-headers-with-angular-and-httpclient?u=76281980&t=42)** which will be bearer with the access token attached.
 >
-> **[0:50](https://www.linkedin.com/learning/building-angular-and-django-apps/using-oauth-headers-with-angular-and-httpclient?u=76281980&t=50)** Now let's run the Django dev server and Angular's dev server
+> **[0:50](https://www.linkedin.com/learning/building-angular-and-django-apps/using-oauth-headers-with-angular-and-httpclient?u=76281980&t=50)** Now let's run the [[Django]] dev server and [[Angular]]'s dev server
 >
 > **[1:02](https://www.linkedin.com/learning/building-angular-and-django-apps/using-oauth-headers-with-angular-and-httpclient?u=76281980&t=62)** and let's see how this looks in the browser.
 >
@@ -1010,18 +987,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Representational State Transfer (REST)|Rest]] (2), [[Django]] (1), [[Angular]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Django]] (1), [[Angular]] (1)
 > **Env Vars:** api (3), http (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication storage with Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/authentication-storage-with-angular?u=76281980)
+#### [Authentication storage with Angular](https://www.linkedin.com/learning/building-angular-and-django-apps/authentication-storage-with-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/authentication-storage-with-angular?u=76281980&t=0)** - To make things easier on us as we write our app, we can use HTML5 local storage to store the access token for later use.
 >
-> **[0:08](https://www.linkedin.com/learning/building-angular-and-django-apps/authentication-storage-with-angular?u=76281980&t=8)** When we initialize the rest API service, we can check for an existing access token and retrieve it from local storage.
+> **[0:08](https://www.linkedin.com/learning/building-angular-and-django-apps/authentication-storage-with-angular?u=76281980&t=8)** When we initialize the [[Representational State Transfer (REST)|rest]] API service, we can check for an existing access token and retrieve it from local storage.
 >
 > **[0:21](https://www.linkedin.com/learning/building-angular-and-django-apps/authentication-storage-with-angular?u=76281980&t=21)** Then, we can update the login status if the access token is set.
 >
@@ -1043,7 +1019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), api (1), application (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** html5 (1), api (1)
 > **UI Navigation:** go to (1)
@@ -1055,12 +1031,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Checking permissions with Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980)
+#### [Checking permissions with Django](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980&t=0)** - [Instructor] To add permission checking per object, we can use the base filter back in from Django rest framework.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980&t=0)** - [Instructor] To add permission checking per object, we can use the base filter back in from [[Django]] [[Representational State Transfer (REST)|rest]] framework.
 >
 > **[0:11](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980&t=11)** We can also use our pre-existing package permission model from API models.
 >
@@ -1092,7 +1067,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980&t=158)** Now let's see how this looks in the browser.
 >
-> **[2:40](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980&t=160)** We go to local host 4200, where our Angular app is, we log in as user A, and the password is the same.
+> **[2:40](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980&t=160)** We go to local host 4200, where our [[Angular]] app is, we log in as user A, and the password is the same.
 >
 > **[2:53](https://www.linkedin.com/learning/building-angular-and-django-apps/checking-permissions-with-django?u=76281980&t=173)** And as you can see in the list of packages returned, we can only see packages that have user A in the name.
 >
@@ -1106,19 +1081,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Angular]] (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting an item using Angular and Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/deleting-an-item-using-angular-and-django?u=76281980)
+#### [Deleting an item using Angular and Django](https://www.linkedin.com/learning/building-angular-and-django-apps/deleting-an-item-using-angular-and-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/deleting-an-item-using-angular-and-django?u=76281980&t=0)** - [Instructor] To delete an item, we need to send an http request from Angular to Django.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/deleting-an-item-using-angular-and-django?u=76281980&t=0)** - [Instructor] To delete an item, we need to send an http request from [[Angular]] to [[Django]].
 >
-> **[0:05](https://www.linkedin.com/learning/building-angular-and-django-apps/deleting-an-item-using-angular-and-django?u=76281980&t=5)** Let's update the rest API service to make that call in a delete tour method.
+> **[0:05](https://www.linkedin.com/learning/building-angular-and-django-apps/deleting-an-item-using-angular-and-django?u=76281980&t=5)** Let's update the [[Representational State Transfer (REST)|rest]] API service to make that call in a delete tour method.
 >
 > **[0:11](https://www.linkedin.com/learning/building-angular-and-django-apps/deleting-an-item-using-angular-and-django?u=76281980&t=11)** Go to the bottom of rest API service, and we create delete tour, it accepts an ID, and then it's going to return the result of calling http client delete and its point to api v1 slash packages with the package ID that we want to delete and then we provide the olof token in the headers.
 >
@@ -1154,20 +1128,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Representational State Transfer (REST)|Rest]] (3), [[Angular]] (1), [[Django]] (1), web (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Angular]] (1), [[Django]] (1)
 > **Env Vars:** api (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partially updating an item using Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/partially-updating-an-item-using-angular?u=76281980)
+#### [Partially updating an item using Angular](https://www.linkedin.com/learning/building-angular-and-django-apps/partially-updating-an-item-using-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/partially-updating-an-item-using-angular?u=76281980&t=0)** - We're able to create new tour packages, list them, and delete them and now it would be nice to be able to update them as well.
 >
-> **[0:08](https://www.linkedin.com/learning/building-angular-and-django-apps/partially-updating-an-item-using-angular?u=76281980&t=8)** So in the rest-api.service we're going to add a new method called updateTour.
+> **[0:08](https://www.linkedin.com/learning/building-angular-and-django-apps/partially-updating-an-item-using-angular?u=76281980&t=8)** So in the [[Representational State Transfer (REST)|rest]]-api.service we're going to add a new method called updateTour.
 >
 > **[0:15](https://www.linkedin.com/learning/building-angular-and-django-apps/partially-updating-an-item-using-angular?u=76281980&t=15)** It's going to take tourPackageData as a parameter.
 >
@@ -1187,7 +1160,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/building-angular-and-django-apps/partially-updating-an-item-using-angular?u=76281980&t=95)** We're going to check if the TourPackage ID is greater than zero, which means it has an ID which exists, and then we're going to return the result of calling updateTour.
 >
-> **[1:53](https://www.linkedin.com/learning/building-angular-and-django-apps/partially-updating-an-item-using-angular?u=76281980&t=113)** Now, to reuse the create-tour-form, we're going to need to start by importing ActivatedRoute from @angular/router, and we're going to be using that in the constructor, and when we initialize this component, we're going to be checking the route parameters to see if an ID has been set.
+> **[1:53](https://www.linkedin.com/learning/building-angular-and-django-apps/partially-updating-an-item-using-angular?u=76281980&t=113)** Now, to reuse the create-tour-form, we're going to need to start by importing ActivatedRoute from @[[Angular]]/router, and we're going to be using that in the constructor, and when we initialize this component, we're going to be checking the route parameters to see if an ID has been set.
 >
 > **[2:27](https://www.linkedin.com/learning/building-angular-and-django-apps/partially-updating-an-item-using-angular?u=76281980&t=147)** So extract the ID from the parameter map, and if there is no ID set, we just return.
 >
@@ -1209,7 +1182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Representational State Transfer (REST)|Rest]] (3), api (3), [[Angular]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Angular]] (1)
 > **Code Identifiers:** updatetour (2), tourpackagedata (1), tour_length (1), commonoptions (1), tourlength (1)
 > **Env Vars:** api (1), url (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1218,14 +1191,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - we (1)
 
-#### Pagination with Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-django?u=76281980)
+#### [Pagination with Django](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-django?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-django?u=76281980&t=0)** - [Instructor] On the front end we have the full list of tour packages showing up.
 >
-> **[0:04](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-django?u=76281980&t=4)** However, with Django rest_framework, we can add some pagination to reduce load on the server and the database and to show a smaller amount of packages at a time.
+> **[0:04](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-django?u=76281980&t=4)** However, with [[Django]] rest_framework, we can add some pagination to reduce load on the server and the database and to show a smaller amount of packages at a time.
 >
 > **[0:17](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-django?u=76281980&t=17)** So we import PageNumberPagination and then we create a sub class PackagePagination, which is a subclass of PageNumberPagination, and then all we have to do is set the size which will be 10.
 >
@@ -1235,19 +1207,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (1), database (1), api (1)
+> **Frameworks & Libraries:** [[Django]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** rest_framework (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pagination with Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-angular?u=76281980)
+#### [Pagination with Angular](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-angular?u=76281980&t=0)** - [Instructor] To add Pagination to the front end we add the angular material match paginator component to the tour package list page.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-angular?u=76281980&t=0)** - [Instructor] To add Pagination to the front end we add the [[Angular]] material match paginator component to the tour package list page.
 >
 > **[0:08](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-angular?u=76281980&t=8)** We're going to add it after the table.
 >
@@ -1271,7 +1242,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-angular?u=76281980&t=101)** It is a number type and a default value is one.
 >
-> **[1:45](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-angular?u=76281980&t=105)** And again, we're passing it through to the rest API service.
+> **[1:45](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-angular?u=76281980&t=105)** And again, we're passing it through to the [[Representational State Transfer (REST)|rest]] API service.
 >
 > **[1:52](https://www.linkedin.com/learning/building-angular-and-django-apps/pagination-with-angular?u=76281980&t=112)** Now, in the rest API service we can update the list tours method.
 >
@@ -1303,7 +1274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (2), [[Representational State Transfer (REST)|Rest]] (2), api (2), feature (1), web (1)
+> **Frameworks & Libraries:** [[Angular]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** http (4), api (2)
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (2)
@@ -1312,12 +1283,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering with Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980)
+#### [Filtering with Django](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980&t=0)** - [Instructor] We already implemented a filter on the Django side for checking permissions of whether or not a user can access or write to a particular package.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980&t=0)** - [Instructor] We already implemented a filter on the [[Django]] side for checking permissions of whether or not a user can access or write to a particular package.
 >
 > **[0:11](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980&t=11)** Now, we want an additional filter.
 >
@@ -1355,22 +1325,21 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980&t=127)** So we just added this filter, and now, we're going to actually use it as part of the query parameters here.
 >
-> **[2:13](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980&t=133)** And just to make the output of the JSON a little nicer.
+> **[2:13](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980&t=133)** And just to make the output of the [[JSON]] a little nicer.
 >
-> **[2:18](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980&t=138)** Going to use Python, json.tool, and we only want to see the first 50 lines of that.
+> **[2:18](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980&t=138)** Going to use [[Python (Programming Language)|Python]], json.tool, and we only want to see the first 50 lines of that.
 >
 > **[2:27](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-django?u=76281980&t=147)** So, as you can see, we have 38 items returned, and the tour length is equal to one, and so the filter is working.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), [[Django]] (1), api (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Django]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), curl (1), python (1)
 > **Env Vars:** api (1), json (1)
 > **Code Identifiers:** filter_queryset (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering with Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-angular?u=76281980)
+#### [Filtering with Angular](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1380,7 +1349,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-angular?u=76281980&t=11)** So we want to pass in that tour length value to the tour package controller list method.
 >
-> **[0:20](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-angular?u=76281980&t=20)** And then in the tour package controller, we update it so that it can pass the tour length on to the list tours method of the rest API service.
+> **[0:20](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-angular?u=76281980&t=20)** And then in the tour package controller, we update it so that it can pass the tour length on to the list tours method of the [[Representational State Transfer (REST)|rest]] API service.
 >
 > **[0:33](https://www.linkedin.com/learning/building-angular-and-django-apps/filtering-with-angular?u=76281980&t=33)** And then we update the rest API service and note that we are using question mark as part of the pipe signature here for the variable.
 >
@@ -1404,18 +1373,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), api (2), web (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (2)
 > **UI Navigation:** switch to (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Animations in Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/animations-in-angular?u=76281980)
+#### [Animations in Angular](https://www.linkedin.com/learning/building-angular-and-django-apps/animations-in-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/animations-in-angular?u=76281980&t=0)** - [Instructor] Angular provides a set of functions that are a mini-language to make it easier to manage different animations and transitions between different states and styles for elements and groups of elements.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/animations-in-angular?u=76281980&t=0)** - [Instructor] [[Angular]] provides a set of functions that are a mini-language to make it easier to manage different animations and transitions between different states and styles for elements and groups of elements.
 >
 > **[0:11](https://www.linkedin.com/learning/building-angular-and-django-apps/animations-in-angular?u=76281980&t=11)** This is an overview of the key animation functions we'll be using.
 >
@@ -1517,7 +1485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Angular]] (3), dom (2), web (1)
+> **Frameworks & Libraries:** [[Angular]] (3)
 > **UI Navigation:** scroll up (2), scroll down (1), click on (1)
 > **Prerequisites:** set up (4)
 > **Env Vars:** dom (2)
@@ -1531,12 +1499,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unit testing a component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980)
+#### [Unit testing a component](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=0)** - [Instructor] And now we're going to be unit testing an Angular component.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=0)** - [Instructor] And now we're going to be [[Unit Testing]] an [[Angular]] component.
 >
 > **[0:04](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=4)** We already have a test suite and two tests that we have to fill out.
 >
@@ -1562,7 +1529,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=110)** And there's only one tour package in it and it will be our example tour package.
 >
-> **[1:58](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=118)** So, in this test we're expecting that we're going to be loading a list of tour packages from the REST API.
+> **[1:58](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=118)** So, in this test we're expecting that we're going to be loading a list of tour packages from the [[Representational State Transfer (REST)|REST]] API.
 >
 > **[2:04](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=124)** So, the component will be calling the controller which will call the REST API.
 >
@@ -1570,7 +1537,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=146)** We call fixture dot detect changes which will initiate the life cycle of the Angular component.
 >
-> **[2:36](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=156)** And if you recall, this tour package list component will immediately try and fetch a page of tour packages to be displayed.
+> **[2:36](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=156)** And if you recall, this tour package list component will immediately try and [[Fetch]] a page of tour packages to be displayed.
 >
 > **[2:47](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-component?u=76281980&t=167)** So after this, we expect that the controller, list method, has been called.
 >
@@ -1600,7 +1567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), api (4), [[Angular]] (3), data (2), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Angular]] (3), [[Unit Testing]] (1), [[Fetch]] (1)
 > **Env Vars:** rest (4), api (4)
 > **Prerequisites:** setup (2), set up (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1608,12 +1575,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit testing a service
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-service?u=76281980)
+#### [Unit testing a service](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-service?u=76281980&t=0)** - [Instructor] Now we're going to be testing on Angular service, the rest API service.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-service?u=76281980&t=0)** - [Instructor] Now we're going to be testing on [[Angular]] service, the [[Representational State Transfer (REST)|rest]] API service.
 >
 > **[0:07](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-service?u=76281980&t=7)** We begin by creating it here, and before every test, we're going to be initializing that service.
 >
@@ -1645,7 +1611,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-service?u=76281980&t=156)** We're getting a tour package back from this method.
 >
-> **[2:41](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-service?u=76281980&t=161)** And then we are extracting the tour length because if you recall, the tour length on the Django side is underscored while on the Angular side here it's in camel case.
+> **[2:41](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-service?u=76281980&t=161)** And then we are extracting the tour length because if you recall, the tour length on the [[Django]] side is underscored while on the Angular side here it's in camel case.
 >
 > **[2:57](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-service?u=76281980&t=177)** So we extract the data from the test data, and then we're going to be expecting that the tour we received, when making the http called, will have a tour length that equals what we have in the test data.
 >
@@ -1671,7 +1637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Representational State Transfer (REST)|Rest]] (7), api (7), [[Angular]] (2), hit (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), [[Angular]] (2), [[Django]] (1)
 > **Env Vars:** api (7), url (4)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
@@ -1679,8 +1645,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit testing a controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-controller?u=76281980)
+#### [Unit testing a controller](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-a-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1744,7 +1709,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), hit (1)
 > **Code Identifiers:** mockservice (7), gettour (2), createtour (1), updatetour (1), listtours (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
@@ -1752,8 +1716,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - now (1)
 
-#### End-to-end testing the form submission process
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-form-submission-process?u=76281980)
+#### [End-to-end testing the form submission process](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-form-submission-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,7 +1724,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-form-submission-process?u=76281980&t=5)** We have two convenience functions already written.
 >
-> **[0:08](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-form-submission-process?u=76281980&t=8)** The first is enter text, which will find an input element, clear the value in it, and then send some keys and type a new value in it, and we also have enter form data, which uses enter text, but it looks for a form control, an angular form control.
+> **[0:08](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-form-submission-process?u=76281980&t=8)** The first is enter text, which will find an input element, clear the value in it, and then send some keys and type a new value in it, and we also have enter form data, which uses enter text, but it looks for a form control, an [[Angular]] form control.
 >
 > **[0:27](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-form-submission-process?u=76281980&t=27)** And after all of our tests are run, we're going to be able to print out the logs from the browser and this is very helpful in debugging, because the test runner is separate from the browser.
 >
@@ -1789,7 +1752,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-form-submission-process?u=76281980&t=175)** And we're expecting that the value has changed to new tour package, to match what we've written in.
 >
-> **[3:06](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-form-submission-process?u=76281980&t=186)** And we can continue filling out the rest of the form.
+> **[3:06](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-form-submission-process?u=76281980&t=186)** And we can continue filling out the [[Representational State Transfer (REST)|rest]] of the form.
 >
 > **[3:11](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-form-submission-process?u=76281980&t=191)** We're going to set the category as testing.
 >
@@ -1839,15 +1802,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Angular]] (1), [[Debugging]] (1), web (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Angular]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** url (1), http (1), api (1)
 > **Tools:** command line (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### End-to-end testing the filtered data table
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-filtered-data-table?u=76281980)
+#### [End-to-end testing the filtered data table](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-filtered-data-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1869,7 +1831,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-filtered-data-table?u=76281980&t=95)** And then we're going to be clicking on that two days filter,
 >
-> **[1:44](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-filtered-data-table?u=76281980&t=104)** and we have to await for that click and then we're going to be awaiting for 1000 milliseconds, or one second, for the browser to load up all the data after making the http request to our rest API service.
+> **[1:44](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-filtered-data-table?u=76281980&t=104)** and we have to await for that click and then we're going to be awaiting for 1000 milliseconds, or one second, for the browser to load up all the data after making the http request to our [[Representational State Transfer (REST)|rest]] API service.
 >
 > **[2:06](https://www.linkedin.com/learning/building-angular-and-django-apps/end-to-end-testing-the-filtered-data-table?u=76281980&t=126)** And then we're going to be taking another screenshot, called filtered list.
 >
@@ -1889,7 +1851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1898,12 +1860,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unit testing authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980)
+#### [Unit testing authentication](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980&t=0)** - [Instructor] So, when we're testing our oauth authentication for this rest API, we're going to need to create an access token for the user.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980&t=0)** - [Instructor] So, when we're testing our oauth authentication for this [[Representational State Transfer (REST)|rest]] API, we're going to need to create an access token for the user.
 >
 > **[0:16](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980&t=16)** And set the expiration time in future and maybe 60 minutes in the future.
 >
@@ -1915,7 +1876,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980&t=49)** It'll have the user ID in it along with a unique value the time stamp of the expiration time.
 >
-> **[1:02](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980&t=62)** And then the application will be the oauth2 application that already exists in the database that we've been using with Angular.
+> **[1:02](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980&t=62)** And then the application will be the oauth2 application that already exists in the database that we've been using with [[Angular]].
 >
 > **[1:13](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-authentication?u=76281980&t=73)** And it expires at the token expiration time.
 >
@@ -1947,7 +1908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), application (2), [[Representational State Transfer (REST)|Rest]] (1), database (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Angular]] (1)
 > **Env Vars:** api (3), http (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1955,8 +1916,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit testing permission checks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-permission-checks?u=76281980)
+#### [Unit testing permission checks](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-permission-checks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1994,14 +1954,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), next (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit testing validation for the REST API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-validation-for-the-rest-api?u=76281980)
+#### [Unit testing validation for the REST API](https://www.linkedin.com/learning/building-angular-and-django-apps/unit-testing-validation-for-the-rest-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2031,7 +1989,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2040,22 +1997,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-django-apps/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-angular-and-django-apps/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-angular-and-django-apps/next-steps?u=76281980&t=0)** - [Rudolf] Thanks for watching this course.
 >
-> **[0:01](https://www.linkedin.com/learning/building-angular-and-django-apps/next-steps?u=76281980&t=1)** The next steps you can take are to watch another LinkedIn Learning course, "Angular: Material Design," or you can check out how to make cool animations with Angular in "Angular: Animations."
+> **[0:01](https://www.linkedin.com/learning/building-angular-and-django-apps/next-steps?u=76281980&t=1)** The next steps you can take are to watch another [[LinkedIn]] Learning course, "[[Angular]]: Material Design," or you can check out how to make cool animations with Angular in "Angular: Animations."
 >
-> **[0:13](https://www.linkedin.com/learning/building-angular-and-django-apps/next-steps?u=76281980&t=13)** Or, become a Django developer with the learning path "Become a Django Developer."
+> **[0:13](https://www.linkedin.com/learning/building-angular-and-django-apps/next-steps?u=76281980&t=13)** Or, become a [[Django]] developer with the learning path "Become a Django Developer."
 >
 > **[0:19](https://www.linkedin.com/learning/building-angular-and-django-apps/next-steps?u=76281980&t=19)** Thanks again for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (3), [[Django]] (2), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Django]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [rudolf] (1)
 

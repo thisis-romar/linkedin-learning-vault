@@ -86,12 +86,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making decisions with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980)
+#### [Making decisions with Python](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980&t=0)** - [Fred] Decision trees are one of the most popular and easy to use approaches in supervised machine learning.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980&t=0)** - [Fred] [[Decision Trees]] are one of the most popular and easy to use approaches in supervised machine learning.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980&t=7)** So how does a decision tree get built?
 >
@@ -109,16 +108,15 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980&t=33)** I discuss when decision trees are most useful, and when they are not.
 >
-> **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980&t=38)** Finally, I walk through the process of building, visualizing, and optimizing a classification tree, as well as a regression tree in Python, let's get started.
+> **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/making-decisions-with-python?u=76281980&t=38)** Finally, I walk through the process of building, visualizing, and optimizing a classification tree, as well as a regression tree in [[Python (Programming Language)|Python]], let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (3), data (1), ai (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [fred] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,11 +124,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=7)** First, I assume that you have a fundamental understanding of what machine learning is, specifically supervised machine learning.
 >
-> **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=17)** If you don't, I recommend that you review my introductory LinkedIn Learning course, [[Machine Learning with Python- Foundations]].
+> **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=17)** If you don't, I recommend that you review my introductory [[LinkedIn]] Learning course, [[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]].
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=25)** Second, it will be helpful if you have some entry level knowledge coding in Python I will assume that you know how to import a Python package, refer to attributes of an object and call the methods of an object.
 >
-> **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=38)** Next, it would also be helpful if you have some familiarity with the pandas and scikit-learn packages.
+> **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=38)** Next, it would also be helpful if you have some familiarity with the [[Pandas (Software)|pandas]] and scikit-learn packages.
 >
 > **[0:46](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-you-should-know?u=76281980&t=46)** If you don't, no worries.
 >
@@ -142,19 +140,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), next (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### The tools you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/the-tools-you-need?u=76281980)
+#### [The tools you need](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/the-tools-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/the-tools-you-need?u=76281980&t=0)** - [Man] Before working through the exercises in this course, I want to make sure that you have the tools you need, to be successful.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/the-tools-you-need?u=76281980&t=7)** The first thing you want to make sure to do, is install or verify that you have the latest version, of Python 3.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/the-tools-you-need?u=76281980&t=7)** The first thing you want to make sure to do, is install or verify that you have the latest version, of [[Python (Programming Language)|Python]] 3.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/the-tools-you-need?u=76281980&t=14)** I'll be working in Python 3.8.
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), open-source (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), make (2)
 > **Tools:** jupyter (3), anaconda (3)
 > **Versions:** python 3 (4), python 2 (1)
@@ -185,8 +182,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [man] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,7 +192,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/using-the-exercise-files?u=76281980&t=10)** I recommend that you do so.
 >
-> **[0:12](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/using-the-exercise-files?u=76281980&t=12)** The best way to become proficient in building decision tree models in Python is to practice doing it yourself.
+> **[0:12](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/using-the-exercise-files?u=76281980&t=12)** The best way to become proficient in building decision tree models in [[Python (Programming Language)|Python]] is to practice doing it yourself.
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/using-the-exercise-files?u=76281980&t=20)** The exercise files are organized into folders that correspond with the chapters of the course.
 >
@@ -230,7 +226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (2), navigate to (1), go to (1)
 > **Tools:** anaconda (2), jupyter (1)
 > **Exercise Files:** exercise files (3)
@@ -244,14 +240,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a decision tree?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-is-a-decision-tree?u=76281980)
+#### [What is a decision tree?](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-is-a-decision-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-is-a-decision-tree?u=76281980&t=0)** - [Instructor] A decision tree is a machine learning approach that uses an inverted tree-like structure to model the relationship between independent variables and a dependent variable.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-is-a-decision-tree?u=76281980&t=10)** Decision trees are a supervised machine learning approach.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-is-a-decision-tree?u=76281980&t=10)** [[Decision Trees]] are a supervised machine learning approach.
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/what-is-a-decision-tree?u=76281980&t=13)** This means that we can use a decision tree to predict future outcomes.
 >
@@ -321,15 +316,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), [[Decision Trees]] (5), next (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (5)
 > **CLI Commands:** node (8)
 > **Definitions:** is a  (4), is called (2), means that (1), known as (1)
 > **Analogies:** such as (2), just like (1), for example (1), imagine (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### How is a classification tree built?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-classification-tree-built?u=76281980)
+#### [How is a classification tree built?](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-classification-tree-built?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,19 +415,18 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-classification-tree-built?u=76281980&t=357)** We can continue the recursive partitioning process in an attempt to create smaller and more homogenous partitions, or we can stop here.
 >
-> **[6:06](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-classification-tree-built?u=76281980&t=366)** Generally, classification tree algorithms continue the recursive partitioning process until all of the instances within the partition are of the same class or value, or all the features in the dataset have been exhausted, or when some user-defined condition has been satisfied.
+> **[6:06](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-classification-tree-built?u=76281980&t=366)** Generally, classification tree [[Algorithms]] continue the recursive partitioning process until all of the instances within the partition are of the same class or value, or all the features in the dataset have been exhausted, or when some user-defined condition has been satisfied.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (4), parallel (3), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** node (4), find (2), make (1)
 > **Definitions:** known as (1), is a  (1), in other words (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Warnings:** note that (2)
 > **Speakers:** - [instructor] (1)
 
-#### How do classification trees measure impurity?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980)
+#### [How do classification trees measure impurity?](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -441,7 +434,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=5)** The objective of recursive partitioning is to create child partitions that are purer than their parents.
 >
-> **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=11)** Classification tree algorithms use a mathematical formula to quantify the degree of impurity within a partition.
+> **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=11)** Classification tree [[Algorithms]] use a mathematical formula to quantify the degree of impurity within a partition.
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=19)** Two of the most commonly used measures of impurity are entropy and Gini.
 >
@@ -449,7 +442,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=30)** It is a concept that is borrowed from information theory.
 >
-> **[0:33](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=33)** And when applied to decision trees, represents a quantification of the level of randomness or disorder that exists within a partition.
+> **[0:33](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=33)** And when applied to [[Decision Trees]], represents a quantification of the level of randomness or disorder that exists within a partition.
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=43)** A partition with low entropy is one in which most of the items have the same value or outcome, while a partition with high entropy is one that has no dominant outcome.
 >
@@ -477,7 +470,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=118)** 0.47 is 14 divided by 30.
 >
-> **[2:03](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=123)** Adding the two products yields 0.997.
+> **[2:03](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=123)** Adding the two [[Microsoft Products|products]] yields 0.997.
 >
 > **[2:07](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-do-classification-trees-measure-impurity?u=76281980&t=127)** This is the entropy of the orange partition.
 >
@@ -539,7 +532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (1), [[Decision Trees]] (1), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Decision Trees]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 0.53 (3), 0.47 (3), 0.967 (3), 0.997 (2), 0.986 (2)
 > **Definitions:** is a  (4), known as (2)
 > **Analogies:** similar to (2), imagine (1)
@@ -547,8 +540,7 @@ created: 2026-05-02
 > **Env Vars:** cart (1)
 > **Speakers:** - [instructor] (1)
 
-#### How is a regression tree built?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-regression-tree-built?u=76281980)
+#### [How is a regression tree built?](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-regression-tree-built?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,7 +560,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-regression-tree-built?u=76281980&t=71)** So the first thing a regression tree algorithm does is figure out how best to split this data into two so we have partitions or subsets that minimize variability the most.
 >
-> **[1:24](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-regression-tree-built?u=76281980&t=84)** One of the measures that regression tree algorithms rely on to figure out the best split is the sum of squared residuals, or SSR.
+> **[1:24](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-regression-tree-built?u=76281980&t=84)** One of the measures that regression tree [[Algorithms]] rely on to figure out the best split is the sum of squared residuals, or SSR.
 >
 > **[1:32](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-is-a-regression-tree-built?u=76281980&t=92)** A residual is the difference between an observed data point and a reference data point such as the mean.
 >
@@ -632,7 +624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Algorithms]] (1), node (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** ssr (12)
 > **Versions:** 27.5 (2), 16.8 (1), 43.9 (1), 50.4 (1), 635.2 (1)
 > **Definitions:** is a  (3), known as (1)
@@ -641,8 +633,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to prune a decision tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-decision-tree?u=76281980)
+#### [How to prune a decision tree](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-decision-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -750,7 +741,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), product (1)
 > **Definitions:** means that (5), known as (4), is a  (4)
 > **Env Vars:** ssr (4)
 > **Analogies:** imagine (1), for example (1)
@@ -758,14 +748,13 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why and when to use a decision tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/why-and-when-to-use-a-decision-tree?u=76281980)
+#### [Why and when to use a decision tree](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/why-and-when-to-use-a-decision-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/why-and-when-to-use-a-decision-tree?u=76281980&t=0)** - [Man] In order to know when to use a decision tree, we need to understand its strengths and weaknesses.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/why-and-when-to-use-a-decision-tree?u=76281980&t=6)** In terms of strengths, decision trees are simple to understand and interpret.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/why-and-when-to-use-a-decision-tree?u=76281980&t=6)** In terms of strengths, [[Decision Trees]] are simple to understand and interpret.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/why-and-when-to-use-a-decision-tree?u=76281980&t=11)** The logical structure of a tree is intuitive, and easy to follow.
 >
@@ -823,7 +812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (16), data (12), strengths (2), feature (2), business (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (16)
 > **Definitions:** means that (3), in other words (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -834,8 +823,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to build a classification tree in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980)
+#### [How to build a classification tree in Python](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,7 +831,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=11)** Before we get started, note that this video is the first in a three video sequence, that explains how to build, visualize, and prune a classification tree.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=22)** We start by importing the Pandas package.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=22)** We start by importing the [[Pandas (Software)|Pandas]] package.
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=25)** Then we import the data into a data frame called loan and preview it to make sure that the input worked as expected.
 >
@@ -857,7 +845,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=59)** Looking at the D type column of the summary, we see that the income and loan amount columns hold integer values while the default column holds text, AKA object.
 >
-> **[1:10](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=70)** Next, we get summary statistics for the data by calling the described method of the data frame.
+> **[1:10](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=70)** Next, we get summary [[Statistics]] for the data by calling the described method of the data frame.
 >
 > **[1:22](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=82)** From the statistics, we see that the minimum income value in the data is five.
 >
@@ -915,7 +903,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=278)** We can see that we have 24 instances in the training set and six instances in the test set.
 >
-> **[4:46](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=286)** To build a classification tree in Python, we need to import the decision tree classifier class from the SK learn tree sub package.
+> **[4:46](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=286)** To build a classification tree in [[Python (Programming Language)|Python]], we need to import the decision tree classifier class from the SK learn tree sub package.
 >
 > **[4:55](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-classification-tree-in-python?u=76281980&t=295)** We then instant sheet an object from the class.
 >
@@ -941,7 +929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), next (4), [[Statistics]] (2), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Warnings:** note that (3)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (2)
@@ -949,8 +937,7 @@ created: 2026-05-02
 > **Versions:** 0.8 (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to visualize a classification tree in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-classification-tree-in-python?u=76281980)
+#### [How to visualize a classification tree in Python](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-classification-tree-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,7 +1003,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-classification-tree-in-python?u=76281980&t=189)** As one class dominates, the Gini value tends toward zero.
 >
-> **[3:15](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-classification-tree-in-python?u=76281980&t=195)** One of the benefits of decision trees is that they are pretty good at ranking the effectiveness of independent variables and predicting the values of the dependent variable.
+> **[3:15](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-classification-tree-in-python?u=76281980&t=195)** One of the benefits of [[Decision Trees]] is that they are pretty good at ranking the effectiveness of independent variables and predicting the values of the dependent variable.
 >
 > **[3:27](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-classification-tree-in-python?u=76281980&t=207)** This is known as feature_importance.
 >
@@ -1026,7 +1013,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-classification-tree-in-python?u=76281980&t=223)** The attribute returns an array of the important scores of each independent variable.
 >
-> **[3:49](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-classification-tree-in-python?u=76281980&t=229)** Next, we create a Pandas Series called feature_importance by using the importance array as the values and the independent variable names as the index.
+> **[3:49](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-classification-tree-in-python?u=76281980&t=229)** Next, we create a [[Pandas (Software)|Pandas]] Series called feature_importance by using the importance array as the values and the independent variable names as the index.
 >
 > **[4:00](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-classification-tree-in-python?u=76281980&t=240)** Finally, we plot the series.
 >
@@ -1036,7 +1023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), next (3), data (1), [[Decision Trees]] (1), feature (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** node (7), make (1)
 > **Code Identifiers:** feature_importance (3), figure_method (1), plot_tree (1)
 > **Definitions:** is a  (2), means that (2), known as (1)
@@ -1045,8 +1032,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### How to prune a classification tree in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-classification-tree-in-python?u=76281980)
+#### [How to prune a classification tree in Python](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-classification-tree-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1058,7 +1044,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-classification-tree-in-python?u=76281980&t=17)** Now that we've trained and visualized a classification tree, let's look into what we can do to improve its performance by pruning.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-classification-tree-in-python?u=76281980&t=25)** Decision trees are prone to overfitting.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-classification-tree-in-python?u=76281980&t=25)** [[Decision Trees]] are prone to overfitting.
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-classification-tree-in-python?u=76281980&t=28)** One telltale sign that a tree has overfit is if it has a high accuracy score on the training data with a low accuracy score on the test data.
 >
@@ -1150,7 +1136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (2), [[Search]] (2), [[Decision Trees]] (1), node (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1)
 > **Definitions:** known as (3), is a  (2), means that (1)
 > **Env Vars:** gcv (3)
 > **CLI Commands:** node (1), find (1)
@@ -1162,8 +1148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to build a regression tree in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980)
+#### [How to build a regression tree in Python](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1171,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=11)** Before we get started, know that this video is the first in the three video sequence that explains how to build, visualize, and prune a regression tree.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=22)** We start by importing the Pandas package.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=22)** We start by importing the [[Pandas (Software)|Pandas]] package.
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=25)** Then we import the data into a data frame called income and preview it to make sure that the import worked as expected.
 >
@@ -1187,7 +1172,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=65)** The education column holds text, AKA object, and the salary column, holds floating point or decimal values.
 >
-> **[1:13](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=73)** Next, we get summary statistics for the numeric columns by calling the described method of the data frame.
+> **[1:13](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=73)** Next, we get summary [[Statistics]] for the numeric columns by calling the described method of the data frame.
 >
 > **[1:24](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=84)** From the statistics, we see that the minimum salary value in the data is 16.8 while the maximum value is 118.
 >
@@ -1211,7 +1196,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=158)** This chart doesn't show much separation between the groups.
 >
-> **[2:41](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=161)** However, we do see that those with professional degrees tend to be a bit older than the rest of the workers in the data set.
+> **[2:41](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=161)** However, we do see that those with professional degrees tend to be a bit older than the [[Representational State Transfer (REST)|rest]] of the workers in the data set.
 >
 > **[2:51](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=171)** Finally, let's create a scatter plot to look at the relationship between salary and age.
 >
@@ -1259,11 +1244,11 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=338)** Let's dummy code and preview the test data set X_test as well.
 >
-> **[5:44](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=344)** We are done with data preparation.
+> **[5:44](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=344)** We are done with [[Data Preparation]].
 >
 > **[5:46](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=346)** We can now build our model.
 >
-> **[5:48](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=348)** To build the regression tree in Python, we need to import the decision tree regressor class from the SK learn tree sub package.
+> **[5:48](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=348)** To build the regression tree in [[Python (Programming Language)|Python]], we need to import the decision tree regressor class from the SK learn tree sub package.
 >
 > **[5:55](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-build-a-regression-tree-in-python?u=76281980&t=355)** We then instantiate an object from the class.
 >
@@ -1297,7 +1282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), next (5), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Preparation]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** y_test_pred (2), y_test (1)
 > **Versions:** 16.8 (1), 0.6 (1), 58.5 (1)
 > **CLI Commands:** make (1), python (1)
@@ -1306,8 +1291,7 @@ created: 2026-05-02
 > **Env Vars:** aka (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to visualize a regression tree in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-regression-tree-in-python?u=76281980)
+#### [How to visualize a regression tree in Python](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-regression-tree-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1385,7 +1369,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-regression-tree-in-python?u=76281980&t=253)** The average of all this error is in the training data.
 >
-> **[4:16](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-regression-tree-in-python?u=76281980&t=256)** One of the benefits of decision trees is that they are pretty good at ranking the effectiveness of independent variables in predicting the values of the dependent variable.
+> **[4:16](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-regression-tree-in-python?u=76281980&t=256)** One of the benefits of [[Decision Trees]] is that they are pretty good at ranking the effectiveness of independent variables in predicting the values of the dependent variable.
 >
 > **[4:28](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-visualize-a-regression-tree-in-python?u=76281980&t=268)** This is known as feature importance.
 >
@@ -1405,7 +1389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), node (5), data (3), next (2), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1)
 > **CLI Commands:** node (5), make (2)
 > **Definitions:** is a  (1), in other words (1), known as (1)
 > **Analogies:** for example (2)
@@ -1414,18 +1398,17 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Warnings:** note that (1)
 
-#### How to prune a regression tree in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-regression-tree-in-python?u=76281980)
+#### [How to prune a regression tree in Python](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-regression-tree-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-regression-tree-in-python?u=76281980&t=0)** - [Instructor] Before we get started, note that this video is the third in a three-video sequence that explains how to build, visualize and prune a regression tree in Python.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-regression-tree-in-python?u=76281980&t=0)** - [Instructor] Before we get started, note that this video is the third in a three-video sequence that explains how to build, visualize and prune a regression tree in [[Python (Programming Language)|Python]].
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-regression-tree-in-python?u=76281980&t=11)** If you have not done so, watch the previous two videos for a detailed walkthrough of the code in the cells above.
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-regression-tree-in-python?u=76281980&t=19)** Now that we've trained and visualized a regression tree, let's look into what we can do to improve its performance by pruning.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-regression-tree-in-python?u=76281980&t=27)** Decision trees are prone to overfitting.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-regression-tree-in-python?u=76281980&t=27)** [[Decision Trees]] are prone to overfitting.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/how-to-prune-a-regression-tree-in-python?u=76281980&t=30)** One telltale sign that a tree has overfit is if it performs well on the training data but very poorly on the test data.
 >
@@ -1529,7 +1512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Python (Programming Language)|Python]] (1), [[Decision Trees]] (1), node (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Decision Trees]] (1)
 > **Definitions:** known as (4), means that (1)
 > **CLI Commands:** python (1), node (1)
 > **Code Identifiers:** ccp_alpha (2)
@@ -1543,8 +1526,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with decision trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980)
+#### [Next steps with decision trees](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1552,23 +1534,23 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=1)** You now know what a decision tree is, how it's built, and when to use one.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=7)** You've learned how to build, visualize, and prune a classification tree, as well as a regression tree in Python.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=7)** You've learned how to build, visualize, and prune a classification tree, as well as a regression tree in [[Python (Programming Language)|Python]].
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=15)** The foundational knowledge and skills you've acquired in this course should serve as a stepping stone to continue learning about machine learning.
 >
-> **[0:23](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=23)** Specifically, it should serve as a launchpad for solving more complex, supervised machine learning problems using decision trees.
+> **[0:23](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=23)** Specifically, it should serve as a launchpad for solving more complex, supervised machine learning problems using [[Decision Trees]].
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=33)** Here are a few recommended next steps.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=36)** Decision trees are one of many supervised machine learning models we can build in Python.
 >
-> **[0:41](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=41)** I encourage you to continue to explore other LinkedIn Learning courses that illustrate the use of different types of machine learning models.
+> **[0:41](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=41)** I encourage you to continue to explore other [[LinkedIn]] Learning courses that illustrate the use of different types of machine learning models.
 >
-> **[0:49](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=49)** One such course is Machine Learning with Python, k-Means Clustering.
+> **[0:49](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=49)** One such course is Machine Learning with Python, [[k-means clustering]].
 >
-> **[0:55](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=55)** Besides courses that explore other models, I also encourage you to explore courses that highlight the importance of ethics in data collection and use.
+> **[0:55](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=55)** Besides courses that explore other models, I also encourage you to explore courses that highlight the importance of [[Ethics]] in [[Data Collection]] and use.
 >
-> **[1:04](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=64)** An example of such a course is Data Ethics, Watching Out for Data Misuse.
+> **[1:04](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=64)** An example of such a course is [[Data Ethics]], Watching Out for Data Misuse.
 >
 > **[1:10](https://www.linkedin.com/learning/machine-learning-with-python-decision-trees/next-steps-with-decision-trees?u=76281980&t=70)** If you're interested in broadening your skillset into other languages, such as R, then also check out my book, "Practical Machine Learning in R."
 >
@@ -1584,7 +1566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[Decision Trees]] (2), next (2), [[Ethics]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Decision Trees]] (2), [[LinkedIn]] (1), [[k-means clustering]] (1), [[Ethics]] (1)
 > **CLI Commands:** python (4), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

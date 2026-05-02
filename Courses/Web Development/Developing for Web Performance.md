@@ -104,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is performance and why is it so important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-performance-and-why-is-it-so-important?u=76281980)
+#### [What is performance and why is it so important?](https://www.linkedin.com/learning/developing-for-web-performance/what-is-performance-and-why-is-it-so-important?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,7 +132,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [morten] (1)
@@ -143,8 +141,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is web performance and optimization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-web-performance-and-optimization?u=76281980)
+#### [What is web performance and optimization?](https://www.linkedin.com/learning/developing-for-web-performance/what-is-web-performance-and-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,15 +199,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), web application (1), power (1), feature (1), next (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mdn (1), http (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Documentation:** mdn (1)
 > **Speakers:** - web (1)
 
-#### How do we measure performance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980)
+#### [How do we measure performance?](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -270,7 +265,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=127)** So the opportunities here include eliminate render blocking resources.
 >
-> **[2:11](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=131)** If I open that, you can see the render blocking resource in question is Google fonts.
+> **[2:11](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=131)** If I open that, you can see the render blocking resource in question is [[Google]] fonts.
 >
 > **[2:16](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=136)** And we'll talk a lot about web fonts and optimization later.
 >
@@ -284,7 +279,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=165)** And finally, at the bottom here, we have remove unused JavaScripts.
 >
-> **[2:48](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=168)** And that just means somewhere in the sites, there's JavaScript being loaded that isn't being used which is a waste of resources.
+> **[2:48](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=168)** And that just means somewhere in the sites, there's [[JavaScript]] being loaded that isn't being used which is a waste of resources.
 >
 > **[2:56](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=176)** So the Lighthouse report is really good at seeing at a glance where the performance enhancements of your site can be.
 >
@@ -316,7 +311,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=244)** So here you see, for example, it took 237.99 milliseconds between the request was sent to the server and the response came back and then the actual download was only 1.49 milliseconds.
 >
-> **[4:17](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=257)** If we look at the top one here, this is the HTML document.
+> **[4:17](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=257)** If we look at the top one here, this is the [[HTML]] document.
 >
 > **[4:21](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=261)** You can also see, there is a very slow start on the server.
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[7:21](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=441)** Regardless of what testing procedure you use, browser tools, hosted third party tools or something else, the actual test results always include page speed scores and other details.
 >
-> **[7:33](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=453)** They also show you key indicators describing the user experience most important of which are first paint, the time it takes before the user sees changes happening in the browser, Largest Contentful Paint.
+> **[7:33](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=453)** They also show you key indicators describing the [[User Experience (UX)|user experience]] most important of which are first paint, the time it takes before the user sees changes happening in the browser, Largest Contentful Paint.
 >
 > **[7:45](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=465)** the time it takes before the user sees content, so text images, something else in the browser.
 >
@@ -398,7 +393,7 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=476)** So when above the full content and web fonts are loaded and the user can derive meaning from what they are seeing.
 >
-> **[8:03](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=483)** And finally, Time To Interactive, the time it takes before the content has finished loading and the UI can be interacted with so the user can actually click on buttons, fill forms or do whatever else is going to happen on the site.
+> **[8:03](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=483)** And finally, Time To Interactive, the time it takes before the content has finished loading and the UI can be interacted with so the user can actually click on buttons, fill [[Forms]] or do whatever else is going to happen on the site.
 >
 > **[8:15](https://www.linkedin.com/learning/developing-for-web-performance/how-do-we-measure-performance?u=76281980&t=495)** The longer it takes for a site to hit each of these points, the higher the chance of the user either getting annoyed or abandoning the user experience altogether.
 >
@@ -416,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), data (4), [[Google]] (2), [[JavaScript]] (2), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[JavaScript]] (2), [[User Experience (UX)|User experience]] (2), [[HTML]] (1), [[Forms]] (1)
 > **UI Navigation:** go to (3), click on (3), open the (2), scroll down (1)
 > **Definitions:** is a  (8), means that (1)
 > **Env Vars:** jpeg (2), seo (1), http (1), html (1), tti (1)
@@ -425,14 +420,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Tools:** firefox (1)
 
-#### Why does performance matter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/why-does-performance-matter?u=76281980)
+#### [Why does performance matter?](https://www.linkedin.com/learning/developing-for-web-performance/why-does-performance-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/why-does-performance-matter?u=76281980&t=0)** - [Instructor] Performance has become a key metric for the success of websites and apps.
 >
-> **[0:04](https://www.linkedin.com/learning/developing-for-web-performance/why-does-performance-matter?u=76281980&t=4)** So much, in fact, Google uses performance metrics to rank sites in their search engine.
+> **[0:04](https://www.linkedin.com/learning/developing-for-web-performance/why-does-performance-matter?u=76281980&t=4)** So much, in fact, [[Google]] uses [[Performance Metrics]] to rank sites in their search engine.
 >
 > **[0:10](https://www.linkedin.com/learning/developing-for-web-performance/why-does-performance-matter?u=76281980&t=10)** Poorly performing sites get lower ranking.
 >
@@ -440,7 +434,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/developing-for-web-performance/why-does-performance-matter?u=76281980&t=19)** The end user, the human beings visiting your website, is the real reason.
 >
-> **[0:25](https://www.linkedin.com/learning/developing-for-web-performance/why-does-performance-matter?u=76281980&t=25)** Almost all performance optimizations and best practices center around either reducing the size of data sent to the user, or speeding up the user experience by simplifying tasks and improving code quality.
+> **[0:25](https://www.linkedin.com/learning/developing-for-web-performance/why-does-performance-matter?u=76281980&t=25)** Almost all performance optimizations and best practices center around either reducing the size of data sent to the user, or speeding up the [[User Experience (UX)|user experience]] by simplifying tasks and improving code quality.
 >
 > **[0:38](https://www.linkedin.com/learning/developing-for-web-performance/why-does-performance-matter?u=76281980&t=38)** Both of these reasons have to do with our duty of care to the end user.
 >
@@ -472,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[User Experience (UX)|User experience]] (3), web (3), [[Search]] (2), data (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[User Experience (UX)|User experience]] (3), [[Performance Metrics]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -482,8 +476,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How browsers render content
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980)
+#### [How browsers render content](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +484,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=9)** So let's follow our requests to some [site.com](https://site.com) all the way from the initial request to the final results.
 >
-> **[0:17](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=17)** It all starts with the browser sending a request for some [site.com](https://site.com) to its ISP, that's the internet service provider for the current internet connection the browser is connected to, that could be your regular internet provider, if you're in your house or an office, or it could be your cell phone provider, if you're using your mobile phone, the ISP then sends the request immediately to a DNS domain name service.
+> **[0:17](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=17)** It all starts with the browser sending a request for some [site.com](https://site.com) to its ISP, that's the internet service provider for the current internet connection the browser is connected to, that could be your regular internet provider, if you're in your house or an [[Microsoft Office|office]], or it could be your cell phone provider, if you're using your mobile phone, the ISP then sends the request immediately to a DNS domain name service.
 >
 > **[0:42](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=42)** This is effectively a phone book for the web, associating the host name or URL.
 >
@@ -507,7 +500,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=78)** Anyway, this DNS lookup is done for each unique hostname.
 >
-> **[1:23](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=83)** So if the site you're requesting is using externally hosted fonts, or JavaScript libraries, or images, or videos or other services, this DNS lookup happens for each of those different services.
+> **[1:23](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=83)** So if the site you're requesting is using externally hosted fonts, or [[JavaScript]] libraries, or images, or videos or other services, this DNS lookup happens for each of those different services.
 >
 > **[1:36](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=96)** Anytime there's a new domain name, a new DNS lookup have to take effect.
 >
@@ -533,7 +526,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=187)** At this point, the browser sends an HTTP GET request for the resource it's looking for.
 >
-> **[3:13](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=193)** This initial GET request will be for whatever the default file on the server location is, typically index.html or index.php or index.js or something similar to that.
+> **[3:13](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=193)** This initial GET request will be for whatever the default file on the server location is, typically index.[[HTML]] or index.[[PHP]] or index.js or something similar to that.
 >
 > **[3:24](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980&t=204)** The time it takes for the browser to finally receive the first byte of the actual page it's looking for, is measured in time to first byte or TTFB, the first true performance measurement.
 >
@@ -567,7 +560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (6), [[JavaScript]] (5), css (4), [[HTML]] (3), dom (3)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[HTML]] (3), [[Microsoft Office|Office]] (1), [[PHP]] (1)
 > **Env Vars:** dns (6), http (4), css (4), isp (3), dom (3)
 > **Definitions:** is a  (2), known as (1), refers to (1)
 > **File Paths:** index.html (1), index.php (1), index.js (1)
@@ -576,8 +569,7 @@ created: 2026-05-02
 > **API Endpoints:** get  (2)
 > **Versions:** 1.1 (1)
 
-#### HTTP/2 and multiplexing
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980)
+#### [HTTP/2 and multiplexing](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,13 +585,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=31)** In HTTP/1.1, all files requested by the browser are loaded synchronously, one after the other.
 >
-> **[0:38](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=38)** So a typical HTML page with two style sheets, a couple of images, and some JavaScript would require the browser to first load the HTML document, then the CSS files, then the JavaScript files, and finally the image files one after the other.
+> **[0:38](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=38)** So a typical [[HTML]] page with two style sheets, a couple of images, and some [[JavaScript]] would require the browser to first load the HTML document, then the CSS files, then the JavaScript files, and finally the image files one after the other.
 >
 > **[0:53](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=53)** This is slow, inefficient, and a recipe for terrible performance.
 >
 > **[0:59](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=59)** To work around this obvious issue, browsers cheat by opening up to six parallel connections to the server to pull down data.
 >
-> **[1:07](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=67)** However, this creates what's known as head of line blocking, where the first file, the HTML file, holds back the rest of the files from downloading.
+> **[1:07](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=67)** However, this creates what's known as head of line blocking, where the first file, the HTML file, holds back the [[Representational State Transfer (REST)|rest]] of the files from downloading.
 >
 > **[1:17](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=77)** It also puts enormous strain on the internet connection and the infrastructure, both the browser and the server, because you're now operating with six connections instead of one single connection.
 >
@@ -627,18 +619,17 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=147)** They're available for free from services like Let's Encrypt and ensure your server supports HTTP/2.
 >
-> **[2:33](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=153)** As a bonus, your site traffic is encrypted out of the gate, which means safer browsing for your visitors and higher ranking on Google and everywhere else.
+> **[2:33](https://www.linkedin.com/learning/developing-for-web-performance/http-2-and-multiplexing?u=76281980&t=153)** As a bonus, your site traffic is encrypted out of the gate, which means safer browsing for your visitors and higher ranking on [[Google]] and everywhere else.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), data (2), [[JavaScript]] (2), web (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Env Vars:** http (13), html (3), css (1), https (1), ssl (1)
 > **Versions:** 1.1 (3)
 > **Definitions:** known as (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bottlenecks
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980)
+#### [Bottlenecks](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -684,13 +675,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=158)** With HTTP2 and multiplexing, none of this is an issue anymore, and this loading of JS and CSS bundles is no longer a best practice because the browser can and will download multiple files simultaneously.
 >
-> **[2:52](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=172)** As a result, it may be a lot faster to serve up CSS and JavaScript in several smaller modular files than one big bundle.
+> **[2:52](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=172)** As a result, it may be a lot faster to serve up CSS and [[JavaScript]] in several smaller modular files than one big bundle.
 >
 > **[3:01](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=181)** This more modern approach goes against common doctrine for both CSS and JavaScript and requires working against the standard features and code bundlers, but it is slowly gaining traction because of the obvious performance benefits.
 >
 > **[3:15](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=195)** Additionally, there's the question of when the files are requested and in what order?
 >
-> **[3:20](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=200)** Using Async and defer when loading JavaScript and loading critical CSS and then deferring the rest of the CSS can greatly enhance the perceived performance of a site.
+> **[3:20](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=200)** Using Async and defer when loading JavaScript and loading critical CSS and then deferring the [[Representational State Transfer (REST)|rest]] of the CSS can greatly enhance the perceived performance of a site.
 >
 > **[3:31](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=211)** Now, this level of optimization requires careful analysis and testing, so we'll talk a lot about it later in the course.
 >
@@ -702,13 +693,13 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=247)** We'll talk about all of that later in the course as well because it's such a huge and important topic for performance optimization.
 >
-> **[4:14](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=254)** On the topic of optimization, all files, from HTML to CSS to JavaScript, and images and everything else can and should be compressed and optimized as much as possible to make the physical data transfer as small as possible.
+> **[4:14](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=254)** On the topic of optimization, all files, from [[HTML]] to CSS to JavaScript, and images and everything else can and should be compressed and optimized as much as possible to make the physical data transfer as small as possible.
 >
 > **[4:27](https://www.linkedin.com/learning/developing-for-web-performance/bottlenecks?u=76281980&t=267)** So, yeah, there are many bottlenecks in this transaction, which means there are many opportunities for performance optimization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), traffic (4), [[JavaScript]] (4), dns (2), data (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Env Vars:** css (6), dns (2), http (1), cdn (1), tcp (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** later in (2)
@@ -717,8 +708,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Caching
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/caching?u=76281980)
+#### [Caching](https://www.linkedin.com/learning/developing-for-web-performance/caching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -734,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/developing-for-web-performance/caching?u=76281980&t=23)** If you're running a site or service relying on server-side rendering, meaning each page or view is generated on the fly by the server when it is requested, caching may provide a huge performance boost.
 >
-> **[0:34](https://www.linkedin.com/learning/developing-for-web-performance/caching?u=76281980&t=34)** This scenario includes pretty much all established content management systems like WordPress, Drupal, Joomla!
+> **[0:34](https://www.linkedin.com/learning/developing-for-web-performance/caching?u=76281980&t=34)** This scenario includes pretty much all established [[Content Management Systems (CMS)|content management systems]] like [[WordPress]], [[Drupal]], Joomla!
 >
 > **[0:40](https://www.linkedin.com/learning/developing-for-web-performance/caching?u=76281980&t=40)** Magento and so on.
 >
@@ -766,7 +756,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/developing-for-web-performance/caching?u=76281980&t=124)** So instead of the server rendering the page and delivering cache snapshot to the CDN, the CDN renders the page when requested and then caches it itself.
 >
-> **[2:13](https://www.linkedin.com/learning/developing-for-web-performance/caching?u=76281980&t=133)** This edge approach works well with modern static site generators like Gatsby and all JavaScript based site generators and frameworks because they serve up static assets by default, and are built to work in this modern web architecture.
+> **[2:13](https://www.linkedin.com/learning/developing-for-web-performance/caching?u=76281980&t=133)** This edge approach works well with modern static site generators like Gatsby and all [[JavaScript]] based site generators and frameworks because they serve up static assets by default, and are built to work in this modern web architecture.
 >
 > **[2:27](https://www.linkedin.com/learning/developing-for-web-performance/caching?u=76281980&t=147)** Once that connection is made between the server and the CDN of the browser, and all files are being sent to the browser, we get to the last caching step, storing assets in the browser for future use.
 >
@@ -806,7 +796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), css (4), next (2), web (2), management (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[WordPress]] (1), [[Drupal]] (1)
 > **Env Vars:** cdn (7), css (4), cms (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
@@ -814,8 +804,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The PRPL pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/the-prpl-pattern?u=76281980)
+#### [The PRPL pattern](https://www.linkedin.com/learning/developing-for-web-performance/the-prpl-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,7 +820,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/developing-for-web-performance/the-prpl-pattern?u=76281980&t=38)** If we push or preload important resources to the browser using server push for the initial load and service workers in the next round, the application will run faster.
 >
-> **[0:48](https://www.linkedin.com/learning/developing-for-web-performance/the-prpl-pattern?u=76281980&t=48)** If we render the initial route as soon as possible by serving the browser with critical CSS and JavaScript, the perceived performance of the application will be improved.
+> **[0:48](https://www.linkedin.com/learning/developing-for-web-performance/the-prpl-pattern?u=76281980&t=48)** If we render the initial route as soon as possible by serving the browser with critical CSS and [[JavaScript]], the perceived performance of the application will be improved.
 >
 > **[0:58](https://www.linkedin.com/learning/developing-for-web-performance/the-prpl-pattern?u=76281980&t=58)** If we pre-cache remaining assets so they are available when the browser needs them, the application performance will be dramatically improved.
 >
@@ -841,7 +830,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), web (1), next (1), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** prpl (3), css (1)
 > **Definitions:** is an  (1), stands for (1)
 > **CLI Commands:** make (1)
@@ -853,8 +842,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a performance budget?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980)
+#### [What is a performance budget?](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,7 +862,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980&t=43)** Go over the budget and decisions need to be made.
 >
-> **[0:45](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980&t=45)** Performance budgets turn real-life user experience into a usable metric even before a single user has touched the site you're building.
+> **[0:45](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980&t=45)** Performance budgets turn real-life [[User Experience (UX)|user experience]] into a usable metric even before a single user has touched the site you're building.
 >
 > **[0:54](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980&t=54)** It gives you a metric to measure every new feature against and a tool to use when hard decisions need to be made.
 >
@@ -890,17 +878,16 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980&t=96)** Performance budgets are quickly becoming the industry standard for during development for performance and for this reason, we now have tools that we can integrate into our build processes.
 >
-> **[1:45](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980&t=105)** They include things like Webpack's performance options, which you can get directly inside Webpack and Lighthouse's light wallet, which gives you the ability to test your builds against the performance budget at any time to get flags anytime your images are too big or your JavaScript is too big or your CSS is too big or anything else.
+> **[1:45](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980&t=105)** They include things like Webpack's performance options, which you can get directly inside Webpack and Lighthouse's light wallet, which gives you the ability to test your builds against the performance budget at any time to get flags anytime your images are too big or your [[JavaScript]] is too big or your CSS is too big or anything else.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), data (1), [[User Experience (UX)|User experience]] (1), web (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[JavaScript]] (1)
 > **Env Vars:** http (1), css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a realistic performance budget
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980)
+#### [Creating a realistic performance budget](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,11 +897,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=9)** And a performance budget that is not based on real data and analysis has little practical value.
 >
-> **[0:15](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=15)** To get started on a performance budget of your own here are some best practice metrics recommended by industry leaders, including researchers at Google.
+> **[0:15](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=15)** To get started on a performance budget of your own here are some best practice metrics recommended by industry leaders, including researchers at [[Google]].
 >
 > **[0:22](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=22)** Make sure that your site meets a speed index under three seconds.
 >
-> **[0:27](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=27)** That time to interactive is under five seconds, that the largest contentful paint is under one second, that the max potential first input delay is under 130 microseconds, that the maximum size of the Gzipped JavaScript bundle is under 170k, that the total bundle size is under 250k and that all of this happens on a low powered feature phone on 3G.
+> **[0:27](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=27)** That time to interactive is under five seconds, that the largest contentful paint is under one second, that the max potential first input delay is under 130 microseconds, that the maximum size of the Gzipped [[JavaScript]] bundle is under 170k, that the total bundle size is under 250k and that all of this happens on a low powered feature phone on 3G.
 >
 > **[0:53](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=53)** Now these performance budget metrics are severe and really difficult to hit.
 >
@@ -944,7 +931,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=138)** In that case, do a closer inspection to find out where the bottlenecks and performance hogs are so that you can deal with them.
 >
-> **[2:24](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=144)** Once you have relevant competitor information, baseline performance metrics for your own project and the recommendations I introduced at the top of this movie, you can map out your own performance budget and start working with it.
+> **[2:24](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=144)** Once you have relevant competitor information, baseline [[Performance Metrics]] for your own project and the recommendations I introduced at the top of this movie, you can map out your own performance budget and start working with it.
 >
 > **[2:37](https://www.linkedin.com/learning/developing-for-web-performance/creating-a-realistic-performance-budget?u=76281980&t=157)** One important thing to keep in mind as you start this work, performance budgets are individual to each project and there is no one size fits all here.
 >
@@ -962,20 +949,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Google]] (1), [[JavaScript]] (1), feature (1), hit (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[JavaScript]] (1), [[Performance Metrics]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** recommended (2), best practice (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - maybe (1)
 
-#### Common culprits and performance hogs
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/common-culprits-and-performance-hogs?u=76281980)
+#### [Common culprits and performance hogs](https://www.linkedin.com/learning/developing-for-web-performance/common-culprits-and-performance-hogs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/common-culprits-and-performance-hogs?u=76281980&t=0)** - [Instructor] Measuring your project up against the performance budget for the first time it's normal to discover you are way over budget and there's a lot of things you can do to improve the performance.
 >
-> **[0:09](https://www.linkedin.com/learning/developing-for-web-performance/common-culprits-and-performance-hogs?u=76281980&t=9)** There are typically three main areas which stand out as significant performance culprits, images, JavaScript bundles and external web fonts.
+> **[0:09](https://www.linkedin.com/learning/developing-for-web-performance/common-culprits-and-performance-hogs?u=76281980&t=9)** There are typically three main areas which stand out as significant performance culprits, images, [[JavaScript]] bundles and external web fonts.
 >
 > **[0:18](https://www.linkedin.com/learning/developing-for-web-performance/common-culprits-and-performance-hogs?u=76281980&t=18)** And we can use Lighthouse for a performance evaluation and then get a report that tells us about these obvious issues so we can deal with them immediately.
 >
@@ -1005,7 +991,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/developing-for-web-performance/common-culprits-and-performance-hogs?u=76281980&t=101)** So the style sheet is not as optimal as it can be.
 >
-> **[1:45](https://www.linkedin.com/learning/developing-for-web-performance/common-culprits-and-performance-hogs?u=76281980&t=105)** To solve this we can do what's known as critical CSS rendering where we place the important CSS that needs to be rendered in the top of the page, inside the HTML documents, and then we defer the rest of the CSS for later loading we'll also talk about that later on in the course.
+> **[1:45](https://www.linkedin.com/learning/developing-for-web-performance/common-culprits-and-performance-hogs?u=76281980&t=105)** To solve this we can do what's known as critical CSS rendering where we place the important CSS that needs to be rendered in the top of the page, inside the [[HTML]] documents, and then we defer the [[Representational State Transfer (REST)|rest]] of the CSS for later loading we'll also talk about that later on in the course.
 >
 > **[2:00](https://www.linkedin.com/learning/developing-for-web-performance/common-culprits-and-performance-hogs?u=76281980&t=120)** Then we have serve images in next-gen formats I mean swapping from existing formats to something like WebP, and we have use HTTP/2 which is adding an HTTPS certificate and then taking advantage of multiplexing to serve the falls.
 >
@@ -1063,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), data (3), [[JavaScript]] (2), [[HTML]] (2), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (4), css (4), cdn (3), https (2), html (2)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **UI Navigation:** scroll down (2)
@@ -1076,8 +1062,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Images are the leading cause of the slow web
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/images-are-the-leading-cause-of-the-slow-web?u=76281980)
+#### [Images are the leading cause of the slow web](https://www.linkedin.com/learning/developing-for-web-performance/images-are-the-leading-cause-of-the-slow-web?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,7 +1070,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/developing-for-web-performance/images-are-the-leading-cause-of-the-slow-web?u=76281980&t=2)** Images are the leading cause of the slow web.
 >
-> **[0:05](https://www.linkedin.com/learning/developing-for-web-performance/images-are-the-leading-cause-of-the-slow-web?u=76281980&t=5)** According to stats gathered by the HTTP Archive, images contribute twice as much to the weight of the average webpage as the next culprit, which is JavaScript.
+> **[0:05](https://www.linkedin.com/learning/developing-for-web-performance/images-are-the-leading-cause-of-the-slow-web?u=76281980&t=5)** According to stats gathered by the HTTP Archive, images contribute twice as much to the weight of the average webpage as the next culprit, which is [[JavaScript]].
 >
 > **[0:15](https://www.linkedin.com/learning/developing-for-web-performance/images-are-the-leading-cause-of-the-slow-web?u=76281980&t=15)** To be direct, the stats on images and their impact on the web are quite damning, as you can see both in the 2020 HTTP Archive Web Almanac and in their ongoing tracking of page weight.
 >
@@ -1107,14 +1092,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** http (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Image quality matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/image-quality-matters?u=76281980)
+#### [Image quality matters](https://www.linkedin.com/learning/developing-for-web-performance/image-quality-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,7 +1164,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/developing-for-web-performance/image-quality-matters?u=76281980&t=130)** If you wonder if that reduces the quality of the image, you can go and look at it.
 >
-> **[2:14](https://www.linkedin.com/learning/developing-for-web-performance/image-quality-matters?u=76281980&t=134)** So we'll zoom in to a hundred percent here and then you can see them side by side.
+> **[2:14](https://www.linkedin.com/learning/developing-for-web-performance/image-quality-matters?u=76281980&t=134)** So we'll [[Zoom]] in to a hundred percent here and then you can see them side by side.
 >
 > **[2:19](https://www.linkedin.com/learning/developing-for-web-performance/image-quality-matters?u=76281980&t=139)** This image over here, this one is 1.8 megabytes.
 >
@@ -1242,7 +1226,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/developing-for-web-performance/image-quality-matters?u=76281980&t=268)** Shallow depth of field means better performance.
 >
-> **[4:32](https://www.linkedin.com/learning/developing-for-web-performance/image-quality-matters?u=76281980&t=272)** So the reason I said this has to do with image quality is for many types of photography including products, headshots, documentary, and others a shallower depth of field is preferred.
+> **[4:32](https://www.linkedin.com/learning/developing-for-web-performance/image-quality-matters?u=76281980&t=272)** So the reason I said this has to do with image quality is for many types of photography including [[Microsoft Products|products]], headshots, documentary, and others a shallower depth of field is preferred.
 >
 > **[4:44](https://www.linkedin.com/learning/developing-for-web-performance/image-quality-matters?u=76281980&t=284)** And a well-trained photographer will know instinctively to bring down that depth of field to improve the image.
 >
@@ -1252,7 +1236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), web (3), [[Zoom]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 2.5 (4), 1.8 (2), 9.9 (2), 1.4 (1), 3.9 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -1260,8 +1244,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### The image scaling hack
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/the-image-scaling-hack?u=76281980)
+#### [The image scaling hack](https://www.linkedin.com/learning/developing-for-web-performance/the-image-scaling-hack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,13 +1304,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), web (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** in other words (1), is a  (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Image format options
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/image-format-options?u=76281980)
+#### [Image format options](https://www.linkedin.com/learning/developing-for-web-performance/image-format-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1423,7 +1404,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), application (1), feature (1), css (1)
 > **Env Vars:** jpeg (14), png (12), svg (9), gif (8), css (1)
 > **Code Identifiers:** webp (11)
 > **Definitions:** is a  (6)
@@ -1431,8 +1411,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1), recommended (1)
 > **Speakers:** - the (1)
 
-#### Manual image optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/manual-image-optimization?u=76281980)
+#### [Manual image optimization](https://www.linkedin.com/learning/developing-for-web-performance/manual-image-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1516,14 +1495,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), hit (1), data (1)
 > **Env Vars:** svg (5), jpg (3), png (2)
 > **CLI Commands:** make (4), find (1)
 > **Best Practices:** rule of thumb (2)
 > **Speakers:** - [instructor] (1)
 
-#### Automated image optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980)
+#### [Automated image optimization](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1541,9 +1518,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980&t=23)** First, for industry standard image optimization, Imagemin is a good choice.
 >
-> **[0:29](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980&t=29)** You can use it to build a custom optimization function in Node.js.
+> **[0:29](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980&t=29)** You can use it to build a custom optimization function in [[Node.js]].
 >
-> **[0:32](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980&t=32)** Use the CLI to optimize all images in a specified folder.
+> **[0:32](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980&t=32)** Use the [[CLI]] to optimize all images in a specified folder.
 >
 > **[0:37](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980&t=37)** Or add automated image optimization into your preferred build process using gold or grunt or web pack or whatever it is you're using.
 >
@@ -1617,7 +1594,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980&t=206)** If you want to be on the bleeding edge of inventory optimization, you can check out Squoosh.
 >
-> **[3:31](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980&t=211)** Like Imagemin Squoosh uses various compression algorithms to optimize images.
+> **[3:31](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980&t=211)** Like Imagemin Squoosh uses various compression [[Algorithms]] to optimize images.
 >
 > **[3:36](https://www.linkedin.com/learning/developing-for-web-performance/automated-image-optimization?u=76281980&t=216)** And it has an experimental CLI you can use to automate that process.
 >
@@ -1737,7 +1714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), web (3), [[CLI]] (3), [[Node.js]] (1), feature (1)
+> **Frameworks & Libraries:** [[CLI]] (3), [[Node.js]] (1), [[Algorithms]] (1)
 > **Env Vars:** jpeg (6), cli (3), png (3)
 > **CLI Commands:** node (5), make (1)
 > **Code Identifiers:** webp (4), imageminpngquant (1)
@@ -1746,8 +1723,7 @@ created: 2026-05-02
 > **UI Navigation:** drag and drop (1), scroll down (1)
 > **Versions:** 1.5 (1)
 
-#### Responsive images
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/responsive-images?u=76281980)
+#### [Responsive images](https://www.linkedin.com/learning/developing-for-web-performance/responsive-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1867,7 +1843,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/developing-for-web-performance/responsive-images?u=76281980&t=304)** Third, your design will almost always have a standard max width for in content images.
 >
-> **[5:10](https://www.linkedin.com/learning/developing-for-web-performance/responsive-images?u=76281980&t=310)** So they stay in line with the rest of the layout.
+> **[5:10](https://www.linkedin.com/learning/developing-for-web-performance/responsive-images?u=76281980&t=310)** So they stay in line with the [[Representational State Transfer (REST)|rest]] of the layout.
 >
 > **[5:13](https://www.linkedin.com/learning/developing-for-web-performance/responsive-images?u=76281980&t=313)** Whatever this max with is create an image size to match it.
 >
@@ -1885,14 +1861,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), css (2), web (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (2), uri (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - even (1)
 
-#### Lazy-loading images
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-images?u=76281980)
+#### [Lazy-loading images](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1916,9 +1891,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-images?u=76281980&t=43)** We're simply wasting data that we shouldn't be wasting.
 >
-> **[0:47](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-images?u=76281980&t=47)** To deal with this issue, developers started adding lazy loading JavaScript libraries that would wait for the user to scroll close to an element before the image was loaded by the browser so that instead of loading all the images on a page, only the images the user would actually get to see inside the viewport were loaded by the browser.
+> **[0:47](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-images?u=76281980&t=47)** To deal with this issue, developers started adding lazy loading [[JavaScript]] libraries that would wait for the user to scroll close to an element before the image was loaded by the browser so that instead of loading all the images on a page, only the images the user would actually get to see inside the viewport were loaded by the browser.
 >
-> **[1:06](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-images?u=76281980&t=66)** This developer pattern became so popular that it became what we colloquially call a cow path, and once that was well enough established, developers at Google decided this should probably be part of the web platform.
+> **[1:06](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-images?u=76281980&t=66)** This developer pattern became so popular that it became what we colloquially call a cow path, and once that was well enough established, developers at [[Google]] decided this should probably be part of the web platform.
 >
 > **[1:19](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-images?u=76281980&t=79)** So now, native lazy loading is either active in or soon to be active in all modern browsers.
 >
@@ -1950,7 +1925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[JavaScript]] (3), feature (2), data (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Google]] (1)
 > **Definitions:** is a  (2)
 > **Documentation:** specification (1)
 > **Best Practices:** recommended (1)
@@ -1961,8 +1936,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automated optimization of JavaScript and CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980)
+#### [Automated optimization of JavaScript and CSS](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1982,11 +1956,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980&t=52)** At minimum, you'll need a development track where the human readable code is stored and a production track where the highly optimized and compressed machine-readable code is stored.
 >
-> **[1:02](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980&t=62)** In this build tool, the two main focus areas are JavaScript and CSS because these are the two types of code we can optimize the most.
+> **[1:02](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980&t=62)** In this build tool, the two main focus areas are [[JavaScript]] and CSS because these are the two types of code we can optimize the most.
 >
-> **[1:10](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980&t=70)** As JavaScript has transformed from adding a sprinkling of effects on top of HTML and CSS to becoming the de facto development language for the modern web, JavaScript weight has become a real performance issue.
+> **[1:10](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980&t=70)** As JavaScript has transformed from adding a sprinkling of effects on top of [[HTML]] and CSS to becoming the de facto development language for the modern web, JavaScript weight has become a real performance issue.
 >
-> **[1:23](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980&t=83)** JavaScript is now the second largest contributor to performance bloat, and much of this bloat is caused by popular frameworks, like React.
+> **[1:23](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980&t=83)** JavaScript is now the second largest contributor to performance bloat, and much of this bloat is caused by popular frameworks, like [[React.js|React]].
 >
 > **[1:32](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980&t=92)** And it's not just the size of JavaScript bundles that cause performance issues.
 >
@@ -2004,24 +1978,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), css (5), web (3), [[HTML]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[HTML]] (1), [[React.js|React]] (1)
 > **Env Vars:** css (5), html (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### JavaScript bundling vs. modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980)
+#### [JavaScript bundling vs. modules](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=0)** - At the very beginning of this course I talked about HTTP/2 and multiplexing, the ability of the browser to pull down many files at the same time rather than one file after the other.
 >
-> **[0:11](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=11)** This new ability is challenging how we think about serving JavaScript to the browser.
+> **[0:11](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=11)** This new ability is challenging how we think about serving [[JavaScript]] to the browser.
 >
 > **[0:16](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=16)** So bear with me here.
 >
-> **[0:18](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=18)** As websites and applications started relying more and more on JavaScript and front-end frameworks like react.
+> **[0:18](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=18)** As websites and applications started relying more and more on JavaScript and front-end frameworks like [[React.js|react]].
 >
 > **[0:23](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=23)** Developers ran into a significant performance issue with the old HTTP 1.1 protocol.
 >
@@ -2101,13 +2074,13 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=247)** And that's done using the breakdown I provided earlier.
 >
-> **[4:10](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=250)** First, critical JavaScript, then necessary functionality, and then lazy load the rest.
+> **[4:10](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=250)** First, critical JavaScript, then necessary functionality, and then lazy load the [[Representational State Transfer (REST)|rest]].
 >
 > **[4:15](https://www.linkedin.com/learning/developing-for-web-performance/javascript-bundling-vs-modules?u=76281980&t=255)** I'll talk a lot more about lazy loading JavaScript a little later on in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (24), web (5), [[React.js|React]] (2), feature (2), front-end (1)
+> **Frameworks & Libraries:** [[JavaScript]] (24), [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (3)
 > **Exercise Files:** download the (2)
 > **CLI Commands:** make (1)
@@ -2115,18 +2088,17 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - at (1)
 
-#### JavaScript loading: Async and defer
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/javascript-loading-async-and-defer?u=76281980)
+#### [JavaScript loading: Async and defer](https://www.linkedin.com/learning/developing-for-web-performance/javascript-loading-async-and-defer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/javascript-loading-async-and-defer?u=76281980&t=0)** - [Instructor] When and how the browser loads each JavaScript file it encounters has a significant impact on both performance and functionality.
+> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/javascript-loading-async-and-defer?u=76281980&t=0)** - [Instructor] When and how the browser loads each [[JavaScript]] file it encounters has a significant impact on both performance and functionality.
 >
 > **[0:07](https://www.linkedin.com/learning/developing-for-web-performance/javascript-loading-async-and-defer?u=76281980&t=7)** For this reason, we have the async and defer keywords which instruct the browser to either load JavaScript files asynchronously while rendering takes place, and then execute them as soon as they're available, or to load the files asynchronously and defer execution until the DOM rendering is done.
 >
 > **[0:24](https://www.linkedin.com/learning/developing-for-web-performance/javascript-loading-async-and-defer?u=76281980&t=24)** Let's take a closer look at these two keywords and how they work.
 >
-> **[0:27](https://www.linkedin.com/learning/developing-for-web-performance/javascript-loading-async-and-defer?u=76281980&t=27)** When the browser is presented with JavaScript, either inline or from an external file, it immediately stops its rendering process because there's a good chance the JavaScript will impact the HTML or CSS or both in some way.
+> **[0:27](https://www.linkedin.com/learning/developing-for-web-performance/javascript-loading-async-and-defer?u=76281980&t=27)** When the browser is presented with JavaScript, either inline or from an external file, it immediately stops its rendering process because there's a good chance the JavaScript will impact the [[HTML]] or CSS or both in some way.
 >
 > **[0:39](https://www.linkedin.com/learning/developing-for-web-performance/javascript-loading-async-and-defer?u=76281980&t=39)** This is what's referred to as render blocking.
 >
@@ -2216,7 +2188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (30), [[HTML]] (7), dom (6), css (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (30), [[HTML]] (7)
 > **Env Vars:** html (7), dom (6), css (1)
 > **Exercise Files:** download the (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -2224,12 +2196,11 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lazy-loading JavaScript modules with import()
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980)
+#### [Lazy-loading JavaScript modules with import()](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=0)** - [Instructor] Earlier in the course, I talked about lazy loading images and other media assets to improve performance by only loading them into the browser if the user got to them well, we can sort of use that same idea to lazy load JavaScript modules and their associated assets only when they're interacted with and needed.
+> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=0)** - [Instructor] Earlier in the course, I talked about lazy loading images and other media assets to improve performance by only loading them into the browser if the user got to them well, we can sort of use that same idea to lazy load [[JavaScript]] modules and their associated assets only when they're interacted with and needed.
 >
 > **[0:17](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=17)** This is achieved using the import statements in JavaScript and it's best explained through a practical example.
 >
@@ -2253,7 +2224,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=89)** That's where lazy loading JavaScript with the import statement comes in.
 >
-> **[1:33](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=93)** If we jump to the code for this example you'll see in index dot HTML, I'm calling in a single file called script dot JS sits over here and script dot JS, just monitors the button, and then says if we click on the button, then do something.
+> **[1:33](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=93)** If we jump to the code for this example you'll see in index dot [[HTML]], I'm calling in a single file called script dot JS sits over here and script dot JS, just monitors the button, and then says if we click on the button, then do something.
 >
 > **[1:47](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=107)** When the user clicks on the button this import statement is used to import the module in an external file on the fly.
 >
@@ -2327,7 +2298,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=303)** And this async function goes and imports a package from a CDN called rough.
 >
-> **[5:09](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=309)** Rough allows us to draw roughly shaped shapes for prototyping purposes.
+> **[5:09](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=309)** Rough allows us to draw roughly shaped shapes for [[Prototyping]] purposes.
 >
 > **[5:15](https://www.linkedin.com/learning/developing-for-web-performance/lazy-loading-javascript-modules-with-import?u=76281980&t=315)** And this example starts to indicate why it's important to use this lazy loading approach.
 >
@@ -2363,7 +2334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (14), [[HTML]] (5), feature (2), data (2), product (2)
+> **Frameworks & Libraries:** [[JavaScript]] (14), [[HTML]] (5), [[Prototyping]] (1)
 > **Env Vars:** html (5), cdn (2), esm (2)
 > **UI Navigation:** click on (3), go to (2), open the (1), scroll down (1)
 > **Prerequisites:** set up (4), setup (1)
@@ -2372,12 +2343,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 
-#### Minifying and uglifying JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/minifying-and-uglifying-javascript?u=76281980)
+#### [Minifying and uglifying JavaScript](https://www.linkedin.com/learning/developing-for-web-performance/minifying-and-uglifying-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/minifying-and-uglifying-javascript?u=76281980&t=0)** - JavaScript is code written by humans for computers.
+> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/minifying-and-uglifying-javascript?u=76281980&t=0)** - [[JavaScript]] is code written by humans for computers.
 >
 > **[0:04](https://www.linkedin.com/learning/developing-for-web-performance/minifying-and-uglifying-javascript?u=76281980&t=4)** And as I've mentioned before, while we humans need human readable code, with lots of white space, and indentation, and comments, computers do not.
 >
@@ -2395,7 +2365,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/developing-for-web-performance/minifying-and-uglifying-javascript?u=76281980&t=58)** These monifiers all work the same way.
 >
-> **[1:00](https://www.linkedin.com/learning/developing-for-web-performance/minifying-and-uglifying-javascript?u=76281980&t=60)** You input handwritten, beautifully laid out Java script, and outcomes are dramatically monified and uglified and mangled version of that code, in a new file placed somewhere in your production stack.
+> **[1:00](https://www.linkedin.com/learning/developing-for-web-performance/minifying-and-uglifying-javascript?u=76281980&t=60)** You input handwritten, beautifully laid out [[Java]] script, and outcomes are dramatically monified and uglified and mangled version of that code, in a new file placed somewhere in your production stack.
 >
 > **[1:12](https://www.linkedin.com/learning/developing-for-web-performance/minifying-and-uglifying-javascript?u=76281980&t=72)** Both uglify and terser have default settings that work for most purposes.
 >
@@ -2486,14 +2456,13 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - javascript (1)
 
-#### Critical CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980)
+#### [Critical CSS](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=0)** - [Instructor] Perceived performance plays a major role in improving the user experience and for websites and apps, the number one measure of perceived performance is how fast something loads in the view port of the browser.
+> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=0)** - [Instructor] Perceived performance plays a major role in improving the [[User Experience (UX)|user experience]] and for websites and apps, the number one measure of perceived performance is how fast something loads in the view port of the browser.
 >
-> **[0:11](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=11)** That means the goal is to load the content above the fold, meaning in the user's view port as quickly as possible and then load the rest afterwards, so the user has the experience of the site loading faster than it's actually loading.
+> **[0:11](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=11)** That means the goal is to load the content above the fold, meaning in the user's view port as quickly as possible and then load the [[Representational State Transfer (REST)|rest]] afterwards, so the user has the experience of the site loading faster than it's actually loading.
 >
 > **[0:25](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=25)** One major blocker to this is CSS itself.
 >
@@ -2505,9 +2474,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=52)** It works like this.
 >
-> **[0:53](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=53)** First, inline any styles impacting the content above the fold in the HTML document itself as a style tag in the head.
+> **[0:53](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=53)** First, inline any styles impacting the content above the fold in the [[HTML]] document itself as a style tag in the head.
 >
-> **[1:02](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=62)** Then lazy load and defer the rest of the CSS, using a clever JavaScript trick, so it only loads when the page is fully loaded.
+> **[1:02](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=62)** Then lazy load and defer the rest of the CSS, using a clever [[JavaScript]] trick, so it only loads when the page is fully loaded.
 >
 > **[1:10](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=70)** This works because the inline styles are loaded ahead of the dom elements and the document and therefore render right away, while the rest of the CSS is applied after the document load is complete.
 >
@@ -2621,7 +2590,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=331)** You can play around with them.
 >
-> **[5:32](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=332)** There's a huge list of options on GitHub that you can go through.
+> **[5:32](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=332)** There's a huge list of options on [[GitHub]] that you can go through.
 >
 > **[5:35](https://www.linkedin.com/learning/developing-for-web-performance/critical-css?u=76281980&t=335)** There are also some examples of how to configure different types of environments.
 >
@@ -2685,7 +2654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (41), [[HTML]] (11), [[Representational State Transfer (REST)|Rest]] (3), [[JavaScript]] (2), dom (2)
+> **Frameworks & Libraries:** [[HTML]] (11), [[Representational State Transfer (REST)|Rest]] (3), [[JavaScript]] (2), [[User Experience (UX)|User experience]] (1), [[GitHub]] (1)
 > **Env Vars:** css (41), html (11)
 > **Definitions:** is a  (5), is an  (1)
 > **Prerequisites:** set up (2), setup (1), configure (1)
@@ -2693,12 +2662,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deferring noncritical CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980)
+#### [Deferring noncritical CSS](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=0)** - [Instructor] To see how much of your JavaScript and CSS and other code is loaded unnecessarily into the browser, you can use the coverage view in the browser dev tools.
+> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=0)** - [Instructor] To see how much of your [[JavaScript]] and CSS and other code is loaded unnecessarily into the browser, you can use the coverage view in the browser dev tools.
 >
 > **[0:08](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=8)** You get to it by opening the dev tools, opening the settings here and going to more tools and coverage.
 >
@@ -2726,7 +2694,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=84)** Now, you already saw an example of that in Critical.
 >
-> **[1:27](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=87)** You'll remember when we used Critical, the Critical CSS was in lined and then the rest of the styles were put in this uncritical CSS file and deferred.
+> **[1:27](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=87)** You'll remember when we used Critical, the Critical CSS was in lined and then the [[Representational State Transfer (REST)|rest]] of the styles were put in this uncritical CSS file and deferred.
 >
 > **[1:36](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=96)** So, here's a different way of doing the same thing.
 >
@@ -2744,21 +2712,20 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=150)** And that event could be activating a gallery or triggering a JavaScript or triggering some external function and only then will the browser go to the internet, pull down the style sheet, and mount it in the browser.
 >
-> **[2:43](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=163)** This means we can now split up our style sheet in many different pieces and then progressively load them, only when it makes sense to do so in the browser using standard html.
+> **[2:43](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=163)** This means we can now split up our style sheet in many different pieces and then progressively load them, only when it makes sense to do so in the browser using standard [[HTML]].
 >
 > **[2:52](https://www.linkedin.com/learning/developing-for-web-performance/deferring-noncritical-css?u=76281980&t=172)** This is really cool and it makes performance of CSS much more powerful.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[JavaScript]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Env Vars:** css (9)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Component-based CSS loading
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/component-based-css-loading?u=76281980)
+#### [Component-based CSS loading](https://www.linkedin.com/learning/developing-for-web-performance/component-based-css-loading?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2786,7 +2753,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), feature (2)
 > **Env Vars:** css (3)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
@@ -2796,8 +2762,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Web fonts can be major performance hogs
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980)
+#### [Web fonts can be major performance hogs](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2811,9 +2776,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980&t=24)** Second, web fonts require their own font files, one file for each individual font weight or style.
 >
-> **[0:30](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980&t=30)** If you use several styles of font, think weights, italics, et cetera, you need several font files, and all of these files often live on external services, like Google Fonts.
+> **[0:30](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980&t=30)** If you use several styles of font, think weights, italics, et cetera, you need several font files, and all of these files often live on external services, like [[Google]] Fonts.
 >
-> **[0:41](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980&t=41)** While web fonts make our texts more visually appealing, they also cause some significant user experience problems with weird names, like FOUT or flash of unstyled text, or FOIT, flash of invisible text.
+> **[0:41](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980&t=41)** While web fonts make our texts more visually appealing, they also cause some significant [[User Experience (UX)|user experience]] problems with weird names, like FOUT or flash of unstyled text, or FOIT, flash of invisible text.
 >
 > **[0:55](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980&t=55)** If you choose to use custom web fonts, and most projects do, then web font optimization becomes an important part of your performance plan.
 >
@@ -2821,17 +2786,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), css (1), [[Google]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (1), fout (1), foit (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing third-party web font delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980)
+#### [Optimizing third-party web font delivery](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=0)** - [Instructor] Let's look at how to optimize fonts from a third party source like Google Fonts first.
+> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=0)** - [Instructor] Let's look at how to optimize fonts from a third party source like [[Google]] Fonts first.
 >
 > **[0:05](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=5)** Even though these fonts are delivered from some of the fastest servers and services on the web, they still cause negative performance effects.
 >
@@ -2857,7 +2821,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=65)** If you define several different fonts inside Google Fonts, it'll automatically string them all into one request for you.
 >
-> **[1:11](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=71)** Third, use resource hints to pre-fetch the Google Font API and pre-connect to the service that hosts the font files for you.
+> **[1:11](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=71)** Third, use resource hints to pre-[[Fetch]] the Google Font API and pre-connect to the service that hosts the font files for you.
 >
 > **[1:19](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=79)** I'll show you how that works in a second.
 >
@@ -2869,7 +2833,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=101)** This eliminates the risk of a flash of visible text.
 >
-> **[1:44](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=104)** And finally, in the rare case when you're using a font to display a specific word or sentence and nothing else, maybe a company name or heading or something similar, you can actually pass that custom text along with your request to Google Fonts and Google fonts will only return the glyphs for that text and nothing else.
+> **[1:44](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=104)** And finally, in the rare case when you're using a font to display a specific [[Microsoft Word|word]] or sentence and nothing else, maybe a company name or heading or something similar, you can actually pass that custom text along with your request to Google Fonts and Google fonts will only return the glyphs for that text and nothing else.
 >
 > **[2:04](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=124)** So let's look at this code.
 >
@@ -2889,7 +2853,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=164)** These files will only be requested once the style sheet is fully loaded and having this preconnect in place means there's already an open pipe leading to that server that we can pull data from.
 >
-> **[2:54](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=174)** I've also added cross origin here because this is not the same domain that we're pulling the rest of the site from.
+> **[2:54](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=174)** I've also added cross origin here because this is not the same domain that we're pulling the [[Representational State Transfer (REST)|rest]] of the site from.
 >
 > **[2:59](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-third-party-web-font-delivery?u=76281980&t=179)** And this allows the browser to validate the content and not create conflicts because data's coming from different sources.
 >
@@ -2915,7 +2879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (12), css (4), web (3), dns (3), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Google]] (12), [[Fetch]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (4), dns (3), http (1), api (1)
 > **CLI Commands:** make (2)
 > **URLs:** [fontsgoogleapis.com](https://fontsgoogleapis.com) (1), [gstatic.com](https://gstatic.com) (1)
@@ -2923,8 +2887,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing self-hosted web font delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980)
+#### [Optimizing self-hosted web font delivery](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2936,11 +2899,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=17)** When you self-host your web fonts, you can take advantage of a whole range of performance optimization we've already talked about including pre-loading the font style sheets or even in-lining them in critical CSS and setting font display swap as a standard.
 >
-> **[0:30](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=30)** You can also further control how the web fonts are loaded using JavaScript and hooking into the browser's font loading API, though this is still experimental technology.
+> **[0:30](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=30)** You can also further control how the web fonts are loaded using [[JavaScript]] and hooking into the browser's font loading API, though this is still experimental technology.
 >
 > **[0:39](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=39)** So your mileage will vary as they say.
 >
-> **[0:42](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=42)** The cool thing is most open web fonts that you find on services like Google fonts are also available for downloads.
+> **[0:42](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=42)** The cool thing is most open web fonts that you find on services like [[Google]] fonts are also available for downloads.
 >
 > **[0:48](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=48)** You can incorporate them and self host them in your own projects.
 >
@@ -3002,7 +2965,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=179)** So you make the loading of this file asynchronous, even though it is technically a synchronous loading.
 >
-> **[3:06](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=186)** That's done in index.HTML.
+> **[3:06](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=186)** That's done in index.[[HTML]].
 >
 > **[3:08](https://www.linkedin.com/learning/developing-for-web-performance/optimizing-self-hosted-web-font-delivery?u=76281980&t=188)** So here we have those two files being preloaded.
 >
@@ -3020,7 +2983,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), css (5), [[Google]] (3), hit (2), api (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** css (5), api (2), ttf (1), html (1)
 > **File Paths:** style.css (1), index.html (1)
 > **CLI Commands:** find (1), make (1)
@@ -3029,12 +2992,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is called (1)
 
-#### Variable fonts to the rescue?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/variable-fonts-to-the-rescue?u=76281980)
+#### [Variable fonts to the rescue?](https://www.linkedin.com/learning/developing-for-web-performance/variable-fonts-to-the-rescue?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/variable-fonts-to-the-rescue?u=76281980&t=0)** - [Instructor] In the previous example where I self hosted Playfair Display, I mentioned when I downloaded this whole font family from Google, I got both the variable version and the static version, and this has a significant impact on performance.
+> **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/variable-fonts-to-the-rescue?u=76281980&t=0)** - [Instructor] In the previous example where I self hosted Playfair Display, I mentioned when I downloaded this whole font family from [[Google]], I got both the variable version and the static version, and this has a significant impact on performance.
 >
 > **[0:14](https://www.linkedin.com/learning/developing-for-web-performance/variable-fonts-to-the-rescue?u=76281980&t=14)** To understand why we need to understand how fonts work.
 >
@@ -3102,8 +3064,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Web fonts on a performance budget
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-on-a-performance-budget?u=76281980)
+#### [Web fonts on a performance budget](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-on-a-performance-budget?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3155,7 +3116,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), hit (1), css (1), next (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** we talked about (1), we covered (1)
 > **Env Vars:** css (1)
@@ -3166,8 +3126,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compress data with Gzip and Brotli
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980)
+#### [Compress data with Gzip and Brotli](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3211,7 +3170,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980&t=104)** If you want to control how your server handles compression, and there's a good chance you do, the team at HTML5 Boilerplate has created baseline configuration files you can use to put together a compression scheme to fit your needs.
 >
-> **[1:56](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980&t=116)** Here there are examples from many different server types including Apache, Google App Engine, Internet Information Services, Lightpd, Ngix, and Node.js.
+> **[1:56](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980&t=116)** Here there are examples from many different server types including Apache, [[Google]] App Engine, Internet Information Services, Lightpd, Ngix, and [[Node.js]].
 >
 > **[2:06](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980&t=126)** Let me show you an example from Ngix.
 >
@@ -3241,7 +3200,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980&t=195)** Once you activate Brotli compression on the server, you can upload Brotli compressed files to the server and it'll automatically pass them on to the browser for you.
 >
-> **[3:23](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980&t=203)** Now, this is important, before you dive into any custom server configuration, check out the documentation for your host and your CDN to make sure you're not doing work they're already doing automatically.
+> **[3:23](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980&t=203)** Now, this is important, before you dive into any custom [[Server Configuration]], check out the documentation for your host and your CDN to make sure you're not doing work they're already doing automatically.
 >
 > **[3:35](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980&t=215)** If in doubt, contact your providers directly and ask about their compression schemes.
 >
@@ -3249,7 +3208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Google]] (1), [[Node.js]] (1), [[Server Configuration]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Node.js]] (1), [[Server Configuration]] (1)
 > **CLI Commands:** apache (1), node (1), make (1)
 > **Env Vars:** html5 (1), cdn (1)
 > **Definitions:** is a  (2)
@@ -3258,8 +3217,7 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
 
-#### Server push
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980)
+#### [Server push](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3267,11 +3225,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=11)** Here's the idea.
 >
-> **[0:12](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=12)** Traditionally, when a request for a web page goes to the server, the server returns the web page, the HTML document, and the browser starts rendering that HTML document and discovers that, "Hey, I need a CSS file."
+> **[0:12](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=12)** Traditionally, when a request for a web page goes to the server, the server returns the web page, the [[HTML]] document, and the browser starts rendering that HTML document and discovers that, "Hey, I need a CSS file."
 >
 > **[0:23](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=23)** So it sends another request to the server and the server returns the CSS file.
 >
-> **[0:28](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=28)** Then the browser discovers, it also needs a JavaScript file and another request is sent to the server and another file is sent back from the server, and all of this takes a long time.
+> **[0:28](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=28)** Then the browser discovers, it also needs a [[JavaScript]] file and another request is sent to the server and another file is sent back from the server, and all of this takes a long time.
 >
 > **[0:36](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=36)** Server push allows you to configure the server to say, "If you're requesting this HTML document, "I know you'll also need this CSS file "and this JavaScript file, so I'll send them along as well."
 >
@@ -3295,7 +3253,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=96)** It has to be done at the server level.
 >
-> **[1:38](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=98)** If you're using good old fashioned PHP, you can easily manipulate the headers on the fly because your pages are generated on the server.
+> **[1:38](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=98)** If you're using good old fashioned [[PHP]], you can easily manipulate the headers on the fly because your pages are generated on the server.
 >
 > **[1:45](https://www.linkedin.com/learning/developing-for-web-performance/server-push?u=76281980&t=105)** But for static site generators, for example, this gets a lot more complicated.
 >
@@ -3309,7 +3267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (4), [[JavaScript]] (3), web (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (3), [[PHP]] (1)
 > **Env Vars:** http (4), html (4), css (4), php (1)
 > **Prerequisites:** configure (2), set up (1)
 > **CLI Commands:** php (1)
@@ -3317,8 +3275,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preloading vs. prefetch
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/preloading-vs-prefetch?u=76281980)
+#### [Preloading vs. prefetch](https://www.linkedin.com/learning/developing-for-web-performance/preloading-vs-prefetch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3334,7 +3291,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/developing-for-web-performance/preloading-vs-prefetch?u=76281980&t=24)** Preloading is quite literally jumping the normal loading queue, so it should only be used for critical resources you know you'll need right away.
 >
-> **[0:32](https://www.linkedin.com/learning/developing-for-web-performance/preloading-vs-prefetch?u=76281980&t=32)** For everything else, images, non-critical styles, non-critical JavaScript, et cetera, the browser will load them when they become relevant and we should not preload them.
+> **[0:32](https://www.linkedin.com/learning/developing-for-web-performance/preloading-vs-prefetch?u=76281980&t=32)** For everything else, images, non-critical styles, non-critical [[JavaScript]], et cetera, the browser will load them when they become relevant and we should not preload them.
 >
 > **[0:41](https://www.linkedin.com/learning/developing-for-web-performance/preloading-vs-prefetch?u=76281980&t=41)** When preloading assets, like scripts or fonts or links or images, make sure you set the as attribute to describe what this asset is.
 >
@@ -3358,7 +3315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), web (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Warnings:** be careful (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -3366,14 +3323,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Browser caching
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/browser-caching?u=76281980)
+#### [Browser caching](https://www.linkedin.com/learning/developing-for-web-performance/browser-caching?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/developing-for-web-performance/browser-caching?u=76281980&t=0)** - [Instructor] Every file the browser receives in response to a request will be stored by the browser in its cache for later retrieval.
 >
-> **[0:06](https://www.linkedin.com/learning/developing-for-web-performance/browser-caching?u=76281980&t=6)** This ensures you don't have to re-download the style sheet and JavaScript and images and everything else every time you navigate to a page you've already visited.
+> **[0:06](https://www.linkedin.com/learning/developing-for-web-performance/browser-caching?u=76281980&t=6)** This ensures you don't have to re-download the style sheet and [[JavaScript]] and images and everything else every time you navigate to a page you've already visited.
 >
 > **[0:14](https://www.linkedin.com/learning/developing-for-web-performance/browser-caching?u=76281980&t=14)** You can control the caching of all of these assets on your site to either prolong or shorten the time an asset is cached, depending on your needs.
 >
@@ -3399,15 +3355,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), css (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** cdn (5), html5 (1), css (1)
 > **CLI Commands:** make (2), nginx (1), find (1)
 > **Exercise Files:** boilerplate (2), download the (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### CDNs
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/cdns?u=76281980)
+#### [CDNs](https://www.linkedin.com/learning/developing-for-web-performance/cdns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3437,7 +3392,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), traffic (1), management (1)
 > **Env Vars:** cdn (11)
 > **Definitions:** is a  (1), is an  (1)
 > **Documentation:** the documentation (1)
@@ -3448,8 +3402,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thank you
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/thank-you?u=76281980)
+#### [Thank you](https://www.linkedin.com/learning/developing-for-web-performance/thank-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3469,7 +3422,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), next (1)
 > **CLI Commands:** make (1), go build (1)
 > **URLs:** [web.dev](https://web.dev) (1)
 > **Env Vars:** mdn (1)

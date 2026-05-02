@@ -7,7 +7,7 @@ course_count: 9
 linkedin_topics:
   - DevOps
   - IT Help Desk
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
@@ -19,47 +19,43 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[Devops Foundations Lean And Agile]]"
-    last_opened:
+  - course: '[[Devops Foundations Lean And Agile]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Lean Foundations]]"
-    last_opened:
+  - course: '[[Lean Foundations]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Agile Software Development]]"
-    last_opened:
+  - course: '[[Agile Software Development]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Agile Software Development- Transforming Your Organization]]"
-    last_opened:
+  - course: '[[Agile Software Development- Transforming Your Organization]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[DevOps Foundations- Transforming the Enterprise]]"
-    last_opened:
+  - course: '[[DevOps Foundations- Transforming the Enterprise]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Lean Technology Strategy- Running Agile at Scale]]"
-    last_opened:
+  - course: '[[Lean Technology Strategy- Running Agile at Scale]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Lean Technology Strategy- Building High-Performing Teams]]"
-    last_opened:
+  - course: '[[Lean Technology Strategy- Building High-Performing Teams]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Lean Technology Strategy- Starting Your Business Transformation]]"
-    last_opened:
+  - course: '[[Lean Technology Strategy- Starting Your Business Transformation]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Lean Technology Strategy- Moving Fast With Defined Constraints]]"
-    last_opened:
+  - course: '[[Lean Technology Strategy- Moving Fast With Defined Constraints]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: agile-software-development
-    last_opened: 2026-05-02T20:34:06.930Z
-    open_count: 1
-    videos: []
-created: 2026-05-02
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Applying%20Lean%2C%20DevOps%2C%20and%20Agile%20to%20Your%20IT%20Organization.md)

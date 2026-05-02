@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Empathy and user experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980)
+#### [Empathy and user experience](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980&t=5)** Maybe you experience tremendous empathy now with your friends, family, and coworkers, and when you go to work and do your job, maybe you experience the same level of empathy.
 >
-> **[0:16](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980&t=16)** Or maybe you struggle to really feel for the end users of products your team develops.
+> **[0:16](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980&t=16)** Or maybe you struggle to really feel for the end users of [[Microsoft Products|products]] your team develops.
 >
 > **[0:22](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980&t=22)** Regardless of where you're starting, a better understanding of those customers can make you and everyone on your team better at creating products that work.
 >
@@ -98,11 +97,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980&t=46)** Join me on this journey to build your empathy skills.
 >
-> **[0:50](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980&t=50)** Understand where empathy intersects user experience and produce deliverables that convey critical empathy to everyone around you.
+> **[0:50](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980&t=50)** Understand where empathy intersects [[User Experience (UX)|user experience]] and produce deliverables that convey critical empathy to everyone around you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), ux (2), product (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 
@@ -111,12 +110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is empathy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980)
+#### [What is empathy?](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980&t=0)** Before we talk about empathy and user experience, let's just think for a minute about empathy itself and what it means generally.
+> **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980&t=0)** Before we talk about empathy and [[User Experience (UX)|user experience]], let's just think for a minute about empathy itself and what it means generally.
 >
 > **[0:09](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980&t=9)** Merriam-Webster defines empathy this way: the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another of either the past or present without having the feelings, thoughts, and experience fully communicated in an objectively explicit manner.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980&t=110)** I'll offer you some suggestions for managing those in a bit.
 >
-> **[1:54](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980&t=114)** But now let's define one more word.
+> **[1:54](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980&t=114)** But now let's define one more [[Microsoft Word|word]].
 >
 > **[1:57](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980&t=117)** After defining empathy, Merriam-Webster discusses compassion and defines it as sympathetic consciousness of others' distress together with a desire to alleviate it.
 >
@@ -166,11 +164,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Microsoft Word|Word]] (1), ux (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** in other words (1), means that (1)
 
-#### How empathy relates to UX
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/how-empathy-relates-to-ux?u=76281980)
+#### [How empathy relates to UX](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/how-empathy-relates-to-ux?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/how-empathy-relates-to-ux?u=76281980&t=32)** But it's also important to have empathy as a UX professional too.
 >
-> **[0:36](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/how-empathy-relates-to-ux?u=76281980&t=36)** To some extent, you need to be able to feel what others have felt and will feel when using existing products.
+> **[0:36](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/how-empathy-relates-to-ux?u=76281980&t=36)** To some extent, you need to be able to feel what others have felt and will feel when using existing [[Microsoft Products|products]].
 >
 > **[0:44](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/how-empathy-relates-to-ux?u=76281980&t=44)** You first do your best to filter out your biases and assumptions and try to pull away from your own thoughts and feelings as the center of your attention.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (7), [[Microsoft Products|Products]] (3), product (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 
@@ -251,14 +248,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where is your starting point?
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/where-is-your-starting-point?u=76281980)
+#### [Where is your starting point?](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/where-is-your-starting-point?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/where-is-your-starting-point?u=76281980&t=0)** I gravitated to user research many years ago because I like investigating and exploring and solving puzzles.
 >
-> **[0:07](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/where-is-your-starting-point?u=76281980&t=7)** I have remained a user experience researcher for all these years, however, because it wasn't just solving puzzles that was a good personal match.
+> **[0:07](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/where-is-your-starting-point?u=76281980&t=7)** I have remained a [[User Experience (UX)|user experience]] researcher for all these years, however, because it wasn't just solving puzzles that was a good personal match.
 >
 > **[0:15](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/where-is-your-starting-point?u=76281980&t=15)** As a very empathetic person, I discovered a lot of emotional resonance.
 >
@@ -298,11 +294,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), product (1), ux (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2)
 > **Cross-References:** later in (1)
 
-#### Empathy in life
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-in-life?u=76281980)
+#### [Empathy in life](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-in-life?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,13 +367,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 
-#### Empathy for customers and users
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-customers-users?u=76281980)
+#### [Empathy for customers and users](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-customers-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,7 +379,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-customers-users?u=76281980&t=3)** But unfortunately, while some of these references to corporate empathy may be real, oftentimes, the references end up being hollow marketing speak.
 >
-> **[0:11](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-customers-users?u=76281980&t=11)** The truth is, however, that a company's current commitment to empathy for customers or users of their products matters.
+> **[0:11](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-customers-users?u=76281980&t=11)** The truth is, however, that a company's current commitment to empathy for customers or users of their [[Microsoft Products|products]] matters.
 >
 > **[0:19](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-customers-users?u=76281980&t=19)** I recently did work for an organization that was at their wits' end after learning of tremendous frustration with their rollout of a new system.
 >
@@ -422,12 +415,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1), data (1), ux (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 
-#### Empathy through research and interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-through-research-and-interaction?u=76281980)
+#### [Empathy through research and interaction](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-through-research-and-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,15 +447,14 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-through-research-and-interaction?u=76281980&t=92)** This has allowed them to create tax systems that help these users by reducing some of the confusion and stress that is inherent in filing and paying taxes.
 >
-> **[1:41](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-through-research-and-interaction?u=76281980&t=101)** And that opportunity to meet and interact with users, to see customers actually using products, and to hear directly from them about what is working well and what is causing frustration adds tremendous corporate value.
+> **[1:41](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-through-research-and-interaction?u=76281980&t=101)** And that opportunity to meet and interact with users, to see customers actually using [[Microsoft Products|products]], and to hear directly from them about what is working well and what is causing frustration adds tremendous corporate value.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** cpa (1)
 
-#### Empathy for workplace kindness
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-workplace-kindness?u=76281980)
+#### [Empathy for workplace kindness](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-workplace-kindness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -489,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-workplace-kindness?u=76281980&t=54)** Work to build a culture of inclusivity and respect.
 >
-> **[0:57](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-workplace-kindness?u=76281980&t=57)** And remember that while some of the users of the products you're designing for or researching may be a lot like you, many may be very different.
+> **[0:57](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-workplace-kindness?u=76281980&t=57)** And remember that while some of the users of the [[Microsoft Products|products]] you're designing for or researching may be a lot like you, many may be very different.
 >
 > **[1:05](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-workplace-kindness?u=76281980&t=65)** So being able to harmonize differences in your workplace and build bonds will help both those around you feel better about where they work and who they are working with and help create a culture of empathy for product users as new products are designed.
 >
@@ -527,14 +518,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** imagine (3)
 > **Definitions:** is a  (1), means that (1)
 > **Tools:** notion (1)
 
-#### Dealing with the pain of empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/dealing-with-the-pain-of-empathy?u=76281980)
+#### [Dealing with the pain of empathy](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/dealing-with-the-pain-of-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,7 +544,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/dealing-with-the-pain-of-empathy?u=76281980&t=49)** And more than once, I paused the research script for a moment to say something comforting.
 >
-> **[0:53](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/dealing-with-the-pain-of-empathy?u=76281980&t=53)** While I certainly wanted to be sure not to compromise the data collection, I am also human, and I really felt for them.
+> **[0:53](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/dealing-with-the-pain-of-empathy?u=76281980&t=53)** While I certainly wanted to be sure not to compromise the [[Data Collection]], I am also human, and I really felt for them.
 >
 > **[1:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/dealing-with-the-pain-of-empathy?u=76281980&t=60)** And even without any particularly complex defining user attributes, the truth is that any user research can involve intense user frustration necessary for companies to know but potentially painful as an empathetic user researcher who walks a line between objectivity and humanity.
 >
@@ -588,12 +578,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), data (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 
-#### Empathy for neurodiversity: My experience with ADHD
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980)
+#### [Empathy for neurodiversity: My experience with ADHD](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -609,7 +598,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=54)** On the flip side, I believe that ADHD has made me really strong at intuitively making connections between ideas in unique ways and solving UX problems.
 >
-> **[1:04](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=64)** This makes UX research a really good fit for me.
+> **[1:04](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=64)** This makes [[UX Research]] a really good fit for me.
 >
 > **[1:07](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=67)** I enjoy the research process itself but then love being presented with problems and subsequently being able to provide effective solutions.
 >
@@ -627,7 +616,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=132)** But I also know that the more immersed I am in my environment, the more ideal my focus will be.
 >
-> **[2:18](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=138)** So when I suggest doing user research in person, what I'm saying is that both the immersion of in-person interaction with clients and participants and the uniqueness of an environment that is different than my home office will be optimal for my ability to gather a full stream of data and come up with design solutions.
+> **[2:18](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=138)** So when I suggest doing user research in person, what I'm saying is that both the immersion of in-person interaction with clients and participants and the uniqueness of an environment that is different than my home [[Microsoft Office|office]] will be optimal for my ability to gather a full stream of data and come up with design solutions.
 >
 > **[2:35](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=155)** Of course, I still do some remote research because that's just the way of the world.
 >
@@ -643,7 +632,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=186)** In fact, as a freelancer, that's one of the criteria I try to apply when deciding to take on a project: whether I can have kind and respectful interactions with the team, which is one of the best things for keeping my own anxieties at bay.
 >
-> **[3:20](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=200)** These are only some of the examples of how I experience ADHD, which are not necessarily going to be the same as others with ADHD, or more generally, with other forms of neurodiversity.
+> **[3:20](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=200)** These are only some of the examples of how I experience ADHD, which are not necessarily going to be the same as others with ADHD, or more generally, with other [[Forms]] of neurodiversity.
 >
 > **[3:31](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-for-neurodiversity-my-experience-with-adhd?u=76281980&t=211)** Yet, I'd encourage you to use your empathy to at least try to recognize the uniqueness of your colleagues and how you can be most successful in your interactions with them.
 >
@@ -653,7 +642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (5), [[Microsoft Office|Office]] (1), data (1), [[Forms]] (1), strengths (1)
+> **Frameworks & Libraries:** [[UX Research]] (2), [[Microsoft Office|Office]] (1), [[Forms]] (1)
 > **Env Vars:** adhd (14), asd (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -663,18 +652,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing methods to tell a story
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980)
+#### [Choosing methods to tell a story](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=0)** At its heart, user research is about understanding users and their interactions with technology, products, and services.
+> **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=0)** At its heart, user research is about understanding users and their interactions with technology, [[Microsoft Products|products]], and services.
 >
 > **[0:08](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=8)** It means gathering data and conveying that data to a company so that the company can do better at meeting user needs.
 >
 > **[0:15](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=15)** But it's not just data, bits of information, that need to get conveyed.
 >
-> **[0:20](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=20)** Rather, it's data frame coherently in storytelling form, and storytelling is emotive.
+> **[0:20](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=20)** Rather, it's data frame coherently in [[Storytelling]] form, and storytelling is emotive.
 >
 > **[0:26](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=26)** It captures the reader or the listener and gives them something to lock on to, something, someone, to feel for.
 >
@@ -694,7 +682,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=63)** When storytelling from user research is reduced to user stories, a formulaic approach to dictating how a feature request is framed, the opportunity for empathy is largely removed from the equation.
 >
-> **[1:14](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=74)** I'm not saying that findings can't go into a research repository, nor am I saying that you need to steer clear of user stories because these are pretty standard when working in Agile.
+> **[1:14](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=74)** I'm not saying that findings can't go into a research repository, nor am I saying that you need to steer clear of user stories because these are pretty standard when working in [[Agile Development|Agile]].
 >
 > **[1:25](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=85)** What I am saying is that you should first think about the research you need to do to give you not just the data, but a pathway to genuine, empathy-inducing storytelling.
 >
@@ -718,7 +706,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=161)** Rather, its moderated qualitative research that is most likely to provide you with the tools you need to convey that empathy.
 >
-> **[2:49](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=169)** Moderated qualitative research techniques could involve such methods as in-depth interviews or IDIs, usability testing or focus groups, as well as ethnographic research.
+> **[2:49](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=169)** Moderated qualitative research techniques could involve such methods as in-depth interviews or IDIs, [[Usability Testing]] or focus groups, as well as ethnographic research.
 >
 > **[3:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980&t=180)** Interviews represent a one-on-one conversation where you can talk with people about their perspectives, opinions, needs and wants, their use of existing products and services, and their hopes for something new.
 >
@@ -746,13 +734,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Storytelling]] (4), product (4), [[Microsoft Products|Products]] (2), feature (2)
+> **Frameworks & Libraries:** [[Storytelling]] (4), [[Microsoft Products|Products]] (2), [[Usability Testing]] (2), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), just like (1)
 > **Prerequisites:** you'll need (1)
 
-#### Involve stakeholders in research
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/involve-stakeholders-in-research?u=76281980)
+#### [Involve stakeholders in research](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/involve-stakeholders-in-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,7 +765,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/involve-stakeholders-in-research?u=76281980&t=78)** Conversely, when less time is available, I might draw up initial documents and then when together, review and iterate these materials.
 >
-> **[1:26](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/involve-stakeholders-in-research?u=76281980&t=86)** Whenever possible, I encourage at least some of the stakeholders who are involved in product development to attend user research sessions that I moderate.
+> **[1:26](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/involve-stakeholders-in-research?u=76281980&t=86)** Whenever possible, I encourage at least some of the stakeholders who are involved in [[Product Development]] to attend user research sessions that I moderate.
 >
 > **[1:34](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/involve-stakeholders-in-research?u=76281980&t=94)** If stakeholders are on the fence about attending or are pressed for time, I suggest that they attend as many of the sessions as possible, particularly the earlier sessions if they can.
 >
@@ -790,7 +777,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/involve-stakeholders-in-research?u=76281980&t=133)** This offers me the chance to connect with those stakeholders between sessions, while their memories of what just happened still feel fresh and real.
 >
-> **[2:21](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/involve-stakeholders-in-research?u=76281980&t=141)** If stakeholders can't make it to the testing location or if it's a remote study, then I can at least stream the study for real-time viewing.
+> **[2:21](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/involve-stakeholders-in-research?u=76281980&t=141)** If stakeholders can't make it to the testing location or if it's a remote study, then I can at least stream the study for [[Real-Time]] viewing.
 >
 > **[2:29](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/involve-stakeholders-in-research?u=76281980&t=149)** Stakeholder involvement in the research process is so valuable for so many reasons.
 >
@@ -804,12 +791,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Product Development]] (1), [[Real-Time]] (1), power (1), product (1)
+> **Frameworks & Libraries:** [[Product Development]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (2)
 
-#### In-person vs. remote research
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/in-person-vs-remote-research?u=76281980)
+#### [In-person vs. remote research](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/in-person-vs-remote-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,16 +847,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
-#### Example: Empathy in research sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-empathy-in-research-sessions?u=76281980)
+#### [Example: Empathy in research sessions](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-empathy-in-research-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-empathy-in-research-sessions?u=76281980&t=0)** Throughout this course, we've talked about how helpful it is to do user research and to sync up emotionally with participants in order to understand them better, to empathize with who they are, and how they may use current or future products.
+> **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-empathy-in-research-sessions?u=76281980&t=0)** Throughout this course, we've talked about how helpful it is to do user research and to sync up emotionally with participants in order to understand them better, to empathize with who they are, and how they may use current or future [[Microsoft Products|products]].
 >
 > **[0:14](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-empathy-in-research-sessions?u=76281980&t=14)** We've also talked about the pain that can come from being an empathetic individual.
 >
@@ -934,12 +918,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 
-#### Managing emotional research
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/managing-emotional-research?u=76281980)
+#### [Managing emotional research](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/managing-emotional-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -951,7 +934,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/managing-emotional-research?u=76281980&t=29)** If you encounter a participant who does want to discontinue for whatever reason, absolutely let them leave and give them their incentive regardless.
 >
-> **[0:37](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/managing-emotional-research?u=76281980&t=37)** As a verbal introduction in usability testing scripts, I emphasize that in no way is the study a test of their knowledge, but rather a way of telling me what could be improved.
+> **[0:37](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/managing-emotional-research?u=76281980&t=37)** As a verbal introduction in [[Usability Testing]] scripts, I emphasize that in no way is the study a test of their knowledge, but rather a way of telling me what could be improved.
 >
 > **[0:47](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/managing-emotional-research?u=76281980&t=47)** So if they can't successfully complete a task, they shouldn't feel like it's due to their lack of skill, but rather a poorly designed system.
 >
@@ -997,16 +980,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Usability Testing]] (1), career (1), next (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (1)
 > **CLI Commands:** make (2), rails (1)
 > **Best Practices:** make sure to (2)
 
-#### Empathy through flexibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-through-flexibility?u=76281980)
+#### [Empathy through flexibility](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-through-flexibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-through-flexibility?u=76281980&t=0)** We've talked about why structured qualitative research, like usability testing, interviews, and focus groups, typically provide more opportunities to generate empathy than quantitative research.
+> **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-through-flexibility?u=76281980&t=0)** We've talked about why structured qualitative research, like [[Usability Testing]], interviews, and focus groups, typically provide more opportunities to generate empathy than quantitative research.
 >
 > **[0:11](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-through-flexibility?u=76281980&t=11)** Beyond the methods, however, these qualitative techniques provide you with one other powerful tool, flexibility.
 >
@@ -1036,8 +1018,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
 
-#### Can AI understand emotion?
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/can-ai-understand-emotion?u=76281980)
+#### [Can AI understand emotion?](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/can-ai-understand-emotion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,7 +1056,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), ux (2), data (2), product (1)
 > **Analogies:** for instance (1), such as (1), for example (1)
 > **CLI Commands:** find (1)
 
@@ -1084,8 +1064,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storytelling with research findings
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980)
+#### [Storytelling with research findings](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1086,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980&t=39)** Even if they support the theoretical idea of doing user research as something that seems like the right thing to do, they may not be ready to run with findings.
 >
-> **[0:49](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980&t=49)** That's when the value of storytelling really comes in.
+> **[0:49](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980&t=49)** That's when the value of [[Storytelling]] really comes in.
 >
 > **[0:53](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980&t=53)** To play it safe and, to be honest, to make reporting a bit more fun, do your best to present your findings in story form.
 >
@@ -1119,7 +1098,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980&t=75)** Say it like it is.
 >
-> **[1:16](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980&t=76)** The more you can make the reader feel the pain or happiness that you experienced when doing usability testing, the more meaningful and impactful the report will be.
+> **[1:16](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980&t=76)** The more you can make the reader feel the pain or happiness that you experienced when doing [[Usability Testing]], the more meaningful and impactful the report will be.
 >
 > **[1:25](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980&t=85)** If you're using a template from a prior report, but you find that you need to reorganize a bit to better frame your story, do it.
 >
@@ -1161,18 +1140,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (2), data (1), [[Usability Testing]] (1), generic (1), product (1)
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[Usability Testing]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Designing with empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/designing-with-empathy?u=76281980)
+#### [Designing with empathy](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/designing-with-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/designing-with-empathy?u=76281980&t=0)** With only general UX best practices as a guide, an interaction designer could create interactive mockups, wireframes, and prototypes, and a visual designer can apply an attractive look and feel that applies the best practices for colors, typography, and space.
+> **[0:00](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/designing-with-empathy?u=76281980&t=0)** With only general UX best practices as a guide, an interaction designer could create interactive mockups, wireframes, and prototypes, and a visual designer can apply an attractive look and feel that applies the best practices for colors, [[Typography]], and space.
 >
 > **[0:16](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/designing-with-empathy?u=76281980&t=16)** Yet, as you know, while best practices are a great place to start, they are never enough.
 >
@@ -1184,7 +1162,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/designing-with-empathy?u=76281980&t=33)** A designer applies appropriate findings and produces the designs needed to create a website or app.
 >
-> **[0:39](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/designing-with-empathy?u=76281980&t=39)** Maybe there is another iteration or two with some usability testing inserted in the process. And that's it.
+> **[0:39](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/designing-with-empathy?u=76281980&t=39)** Maybe there is another iteration or two with some [[Usability Testing]] inserted in the process. And that's it.
 >
 > **[0:45](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/designing-with-empathy?u=76281980&t=45)** The design is launched.
 >
@@ -1242,14 +1220,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), product (2), [[Typography]] (1), [[Usability Testing]] (1), next (1)
+> **Frameworks & Libraries:** [[Typography]] (1), [[Usability Testing]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Warnings:** note that (1)
 
-#### Example: Personas
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980)
+#### [Example: Personas](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1257,11 +1234,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=5)** In my dream world, every stakeholder would attend all the research sessions.
 >
-> **[0:09](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=9)** We'd have lots of discussion time to talk about what we learned in the research, and each stakeholder would carefully and meticulously read every word I wrote, absorb every highlights video I made, and take everything we learned to heart, supporting all necessary changes to meet user needs if only.
+> **[0:09](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=9)** We'd have lots of discussion time to talk about what we learned in the research, and each stakeholder would carefully and meticulously read every [[Microsoft Word|word]] I wrote, absorb every highlights video I made, and take everything we learned to heart, supporting all necessary changes to meet user needs if only.
 >
 > **[0:28](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=28)** In addition to the deliverables we've talked about so far, such as research findings, mockups, and wireframes, another good way to represent users for whom stakeholders can feel empathy is through the use of personas.
 >
-> **[0:41](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=41)** Personas are based on data from user research and perhaps some other sources too, such as market research or even web analytics.
+> **[0:41](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=41)** Personas are based on data from user research and perhaps some other sources too, such as [[Market Research]] or even [[Web Analytics]].
 >
 > **[0:49](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=49)** But instead of a diverse collection of data points, personas pull everything together into a composite person.
 >
@@ -1269,7 +1246,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=64)** The intent of the personas represents something tangible for design teams to grab onto and feel for.
 >
-> **[1:09](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=69)** The personas' needs are needs that a product should aim to meet, and the personas' frustrations are frustrations that real users may frequently experience with a current product or perhaps competing products.
+> **[1:09](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=69)** The personas' needs are needs that a product should aim to meet, and the personas' frustrations are frustrations that real users may frequently experience with a current product or perhaps competing [[Microsoft Products|products]].
 >
 > **[1:21](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=81)** Over the course of my career, I've come across all sorts of personas.
 >
@@ -1303,7 +1280,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=196)** As a researcher, when I'm asked to design research that will be used to build personas, I often find it helpful to first develop these proto-personas, then I can more easily develop a recruiting and research strategy to fill in the gaps and validate or modify from this starting point.
 >
-> **[3:33](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=213)** This research could involve some combination of user interviews, contextual inquiry, usability testing, and survey research.
+> **[3:33](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=213)** This research could involve some combination of [[User Interviews]], contextual inquiry, [[Usability Testing]], and survey research.
 >
 > **[3:40](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-personas?u=76281980&t=220)** Sometimes the user research also involves a secondary analysis of the prior research that is recent enough to still be valid.
 >
@@ -1335,13 +1312,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), data (4), [[Usability Testing]] (2), [[Microsoft Word|Word]] (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (2), [[Microsoft Word|Word]] (1), [[Market Research]] (1), [[Web Analytics]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2), for example (2), picture (1), just like (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 
-#### Example: Customer journey maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-customer-journey-maps?u=76281980)
+#### [Example: Customer journey maps](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-customer-journey-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,7 +1327,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-customer-journey-maps?u=76281980&t=12)** As we've been thinking about empathy in UX, by and large, we've been talking about things with screens.
 >
-> **[0:18](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-customer-journey-maps?u=76281980&t=18)** Certainly, while design artifacts may be a bit different, a lot of what we've discussed is still relevant to physical products too.
+> **[0:18](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-customer-journey-maps?u=76281980&t=18)** Certainly, while design artifacts may be a bit different, a lot of what we've discussed is still relevant to physical [[Microsoft Products|products]] too.
 >
 > **[0:25](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/example-customer-journey-maps?u=76281980&t=25)** But when we think about service design, we're going beyond any single product, whether screen-based or not.
 >
@@ -1391,7 +1367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), ux (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Analogies:** for example (1), picture (1)
 > **Versions:** 7.5 (1)
 > **Warnings:** caution (1)
@@ -1401,8 +1377,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use your empathy for good
-> [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980)
+#### [Use your empathy for good](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1412,19 +1387,19 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980&t=17)** I'd encourage you to start making an effort to move empathy from something unconscious to something that you will start paying particular attention to, both with family and friends and at work.
 >
-> **[0:29](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980&t=29)** Recognize the value of emotion and storytelling and design with empathy.
+> **[0:29](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980&t=29)** Recognize the value of emotion and [[Storytelling]] and design with empathy.
 >
 > **[0:34](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980&t=34)** Do research that's able to funnel empathy to others.
 >
-> **[0:37](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980&t=37)** You can also check out my other LinkedIn Learning courses, including deeper dives into topics we've covered, such as [[Using AI in Research Projects]] and Being Flexible with Research.
+> **[0:37](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980&t=37)** You can also check out my other [[LinkedIn]] Learning courses, including deeper dives into topics we've covered, such as [[Using AI in Research Projects]] and Being Flexible with Research.
 >
 > **[0:48](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980&t=48)** And remember that as a UX professional, you're likely already starting from a place with some empathy, and you can absolutely hone your empathy skills over time to do great UX work.
 >
-> **[0:59](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980&t=59)** So go forward and use your superpower to help others create meaningful products that help people feel good.
+> **[0:59](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980&t=59)** So go forward and use your superpower to help others create meaningful [[Microsoft Products|products]] that help people feel good.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), [[Storytelling]] (1), [[LinkedIn]] (1), ai (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (1)
 
 

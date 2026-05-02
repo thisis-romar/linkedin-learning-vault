@@ -17,7 +17,7 @@ tags:
   - topic/devops
   - topic/database-management
   - topic/network-and-system-administration
-course_count: 214
+course_count: 217
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Dashboards
 
-> **Type:** Concept | **Courses:** 214 | **Topics:** [[Data Science]], [[Software Development]], [[DevOps]], [[Database Management]], [[Network and System Administration]]
+> **Type:** Concept | **Courses:** 217 | **Topics:** [[Data Science]], [[Software Development]], [[DevOps]], [[Database Management]], [[Network and System Administration]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Excel- Dashboards for Beginners (2022)]] — 20 mentions
 10. [[Data Management Essential Training]] — 18 mentions
 
-> [!note]- See all 214 courses
+> [!note]- See all 217 courses
 > 11. [[Complete Guide to Data Lakes and Lakehouses]] — 18 mentions
 > 12. [[Using Tableau to Discover Powerful Business Insights]] — 18 mentions
 > 13. [[Learning Jira Software]] — 18 mentions
@@ -133,118 +133,121 @@ created: 2026-05-02
 > 100. [[Data Steward Foundations]] — 2 mentions
 > 101. [[Data Engineering With Dbt]] — 2 mentions
 > 102. [[Introduction To Web Design And Development]] — 2 mentions
-> 103. [[Tableau Essential Training]] — 2 mentions
-> 104. [[PySpark Essential Training- Introduction to Building Data Pipelines]] — 2 mentions
-> 105. [[Azure Management Basics- Portal, PowerShell, Bicep, and CLI]] — 2 mentions
-> 106. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 2 mentions
-> 107. [[Building a Cybersecurity Awareness Program]] — 2 mentions
-> 108. [[Digital Transformation Tips]] — 2 mentions
-> 109. [[Learning AI for Business Analysis]] — 2 mentions
-> 110. [[Azure Quick Tips for Developers]] — 2 mentions
-> 111. [[DevOps Tips]] — 2 mentions
-> 112. [[Python Functions for Data Science]] — 2 mentions
-> 113. [[IT Service Management Foundations- Capacity and Availability Management]] — 2 mentions
-> 114. [[Lessons from Data Scientists]] — 2 mentions
-> 115. [[Advanced Laravel]] — 2 mentions
-> 116. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 2 mentions
-> 117. [[Foundations of Geographic Information Systems (GIS)]] — 2 mentions
-> 118. [[Cyber Resilience- An Overview]] — 1 mentions
-> 119. [[Cybersecurity Foundations]] — 1 mentions
-> 120. [[Vibe Code This Interactive Dashboard Tooling For Your Team]] — 1 mentions
-> 121. [[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]] — 1 mentions
-> 122. [[Organizational Leadership in the Era of AI]] — 1 mentions
-> 123. [[Learning Data Analytics- 1 Foundations]] — 1 mentions
-> 124. [[Data Analyst Mindset- 10 Nontechnical Ways to Influence Decisions]] — 1 mentions
-> 125. [[Power BI Data Methods]] — 1 mentions
-> 126. [[Ethical Hacking- Vulnerability Analysis]] — 1 mentions
-> 127. [[Ethical Hacking- The Complete Malware Analysis Process]] — 1 mentions
-> 128. [[Ethical Hacking- Wireless Networks]] — 1 mentions
-> 129. [[Executive Guide to Predictive Modeling Strategy at Scale]] — 1 mentions
-> 130. [[Executive Guide to Deploying, Monitoring, and Maintaining Models]] — 1 mentions
-> 131. [[Enhancing Your Productivity as a Data Scientist with Generative AI]] — 1 mentions
-> 132. [[Devops Foundations Lean And Agile]] — 1 mentions
-> 133. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 1 mentions
-> 134. [[Cybersecurity with Cloud Computing]] — 1 mentions
-> 135. [[Artificial Intelligence for Cybersecurity]] — 1 mentions
-> 136. [[Devops Foundations]] — 1 mentions
-> 137. [[Vibe Coding Fundamentals Tools And Best Practices]] — 1 mentions
-> 138. [[Effectively Leading Digital Transformation]] — 1 mentions
-> 139. [[Including Sustainability in Your Cloud Strategy]] — 1 mentions
-> 140. [[Planning and Releasing Software with Jira]] — 1 mentions
-> 141. [[Agile Software Development- Scrum for Developers]] — 1 mentions
-> 142. [[GenAIOps Foundations]] — 1 mentions
-> 143. [[Learning Asp Dot Net Core Mvc Razor Pages Web Apis Other Foundations]] — 1 mentions
-> 144. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
-> 145. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
-> 146. [[XAI and Interpretability in Cybersecurity]] — 1 mentions
-> 147. [[Strategic Data Collection, Modeling, and Quality Management for AI Systems]] — 1 mentions
-> 148. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
+> 103. [[Scalable Data Storage and Processing for AI Workloads]] — 2 mentions
+> 104. [[Tableau Essential Training]] — 2 mentions
+> 105. [[PySpark Essential Training- Introduction to Building Data Pipelines]] — 2 mentions
+> 106. [[Azure Management Basics- Portal, PowerShell, Bicep, and CLI]] — 2 mentions
+> 107. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 2 mentions
+> 108. [[Building a Cybersecurity Awareness Program]] — 2 mentions
+> 109. [[Digital Transformation Tips]] — 2 mentions
+> 110. [[Learning AI for Business Analysis]] — 2 mentions
+> 111. [[Azure Quick Tips for Developers]] — 2 mentions
+> 112. [[DevOps Tips]] — 2 mentions
+> 113. [[Python Functions for Data Science]] — 2 mentions
+> 114. [[IT Service Management Foundations- Capacity and Availability Management]] — 2 mentions
+> 115. [[Lessons from Data Scientists]] — 2 mentions
+> 116. [[Advanced Laravel]] — 2 mentions
+> 117. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 2 mentions
+> 118. [[Foundations of Geographic Information Systems (GIS)]] — 2 mentions
+> 119. [[Cyber Resilience- An Overview]] — 1 mentions
+> 120. [[Cybersecurity Foundations]] — 1 mentions
+> 121. [[Vibe Code This Interactive Dashboard Tooling For Your Team]] — 1 mentions
+> 122. [[ISO-IEC 42001-2023- Understanding and Implementing the Artificial Intelligence Management System (AIMS) Standard]] — 1 mentions
+> 123. [[Organizational Leadership in the Era of AI]] — 1 mentions
+> 124. [[Learning Data Analytics- 1 Foundations]] — 1 mentions
+> 125. [[Data Analyst Mindset- 10 Nontechnical Ways to Influence Decisions]] — 1 mentions
+> 126. [[Power BI Data Methods]] — 1 mentions
+> 127. [[Ethical Hacking- Vulnerability Analysis]] — 1 mentions
+> 128. [[Ethical Hacking- The Complete Malware Analysis Process]] — 1 mentions
+> 129. [[Ethical Hacking- Wireless Networks]] — 1 mentions
+> 130. [[Executive Guide to Predictive Modeling Strategy at Scale]] — 1 mentions
+> 131. [[Executive Guide to Deploying, Monitoring, and Maintaining Models]] — 1 mentions
+> 132. [[Enhancing Your Productivity as a Data Scientist with Generative AI]] — 1 mentions
+> 133. [[Devops Foundations Lean And Agile]] — 1 mentions
+> 134. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 1 mentions
+> 135. [[Cybersecurity with Cloud Computing]] — 1 mentions
+> 136. [[Artificial Intelligence for Cybersecurity]] — 1 mentions
+> 137. [[Devops Foundations]] — 1 mentions
+> 138. [[Vibe Coding Fundamentals Tools And Best Practices]] — 1 mentions
+> 139. [[Effectively Leading Digital Transformation]] — 1 mentions
+> 140. [[Including Sustainability in Your Cloud Strategy]] — 1 mentions
+> 141. [[Planning and Releasing Software with Jira]] — 1 mentions
+> 142. [[Agile Software Development- Scrum for Developers]] — 1 mentions
+> 143. [[GenAIOps Foundations]] — 1 mentions
+> 144. [[Learning Asp Dot Net Core Mvc Razor Pages Web Apis Other Foundations]] — 1 mentions
+> 145. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
+> 146. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
+> 147. [[XAI and Interpretability in Cybersecurity]] — 1 mentions
+> 148. [[Strategic Data Collection, Modeling, and Quality Management for AI Systems]] — 1 mentions
 > 149. [[Power BI Mistakes to Avoid]] — 1 mentions
 > 150. [[Choosing A Database Postgresql Mysql Mongo And Cloud]] — 1 mentions
 > 151. [[SQL for Data Analysis]] — 1 mentions
 > 152. [[AWS- Networking]] — 1 mentions
 > 153. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
 > 154. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
-> 155. [[Learning Digital Business Analysis]] — 1 mentions
-> 156. [[Understanding and Prioritizing Data Privacy]] — 1 mentions
-> 157. [[Privacy, Governance, and Compliance- Data Classification and Inventory]] — 1 mentions
-> 158. [[Privacy, Governance, and Compliance- Data Sharing]] — 1 mentions
-> 159. [[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]] — 1 mentions
-> 160. [[Database Design Fundamentals]] — 1 mentions
-> 161. [[The Non Technical Skills Of Effective Data Scientists]] — 1 mentions
-> 162. [[Devops Foundations Devsecops]] — 1 mentions
-> 163. [[Cisco Network Security- Cisco Firewall Technologies]] — 1 mentions
-> 164. [[Excel For Financial Planning And Analysis Fp A]] — 1 mentions
-> 165. [[SQL for Finance Professionals]] — 1 mentions
-> 166. [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 1 mentions
-> 167. [[Data Integration And Api Development For Ai Applications]] — 1 mentions
-> 168. [[Apache Spark Essential Training- Big Data Engineering]] — 1 mentions
-> 169. [[Agile Project Management with Jira Cloud- 2 Lean and Agile Processes]] — 1 mentions
-> 170. [[MPLS L3VPN Foundation and Implementation]] — 1 mentions
-> 171. [[Azure AI for Developers- Content Safety and Responsible AI]] — 1 mentions
-> 172. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 1 mentions
-> 173. [[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]] — 1 mentions
-> 174. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 1 mentions
-> 175. [[Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training]] — 1 mentions
-> 176. [[Azure Storage Essential Training (2021)]] — 1 mentions
-> 177. [[Excel- PivotTables in Depth]] — 1 mentions
-> 178. [[Google Cloud Data and Storage Foundations]] — 1 mentions
-> 179. [[Microservices- Security]] — 1 mentions
-> 180. [[SQL Server- Reporting Services]] — 1 mentions
-> 181. [[Learning Jenkins Automating Software Development And System Administration]] — 1 mentions
-> 182. [[Automated Data Governance in Practice]] — 1 mentions
-> 183. [[Introduction to Modern Data Engineering with Snowflake]] — 1 mentions
-> 184. [[Advanced Data Engineering with Snowflake]] — 1 mentions
-> 185. [[Kubernetes- Essential Tools]] — 1 mentions
-> 186. [[Securing Containers and Kubernetes Ecosystem]] — 1 mentions
-> 187. [[Certified Analytics Professional (CAP) Cert Prep]] — 1 mentions
-> 188. [[Learning SnowflakeDB]] — 1 mentions
-> 189. [[Apache Kafka Essential Training- Getting Started]] — 1 mentions
-> 190. [[Advanced Power BI Custom Visuals with d3.js]] — 1 mentions
-> 191. [[Power BI- Working Together with ChatGPT]] — 1 mentions
-> 192. [[Sales Strategy Using Ai And Automation To Sell More]] — 1 mentions
-> 193. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
-> 194. [[AI Orchestration- Foundations]] — 1 mentions
-> 195. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 1 mentions
-> 196. [[Power BI Top Skills]] — 1 mentions
-> 197. [[Machine Learning with Logistic Regression in Excel, R, and Power BI]] — 1 mentions
-> 198. [[15 Tips for Landing a Data Science Job]] — 1 mentions
-> 199. [[Get a Remote Data Science Job]] — 1 mentions
-> 200. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
-> 201. [[Advanced Python in Excel- Data Analysis and Visualization]] — 1 mentions
-> 202. [[Advanced Python in Excel- Machine Learning]] — 1 mentions
-> 203. [[Level Up- Python Data Acquisitions, Prep, and EDA]] — 1 mentions
-> 204. [[Digital Marketing Foundations]] — 1 mentions
-> 205. [[Email and Newsletter Marketing Foundations]] — 1 mentions
-> 206. [[Creating Maps with R]] — 1 mentions
-> 207. [[A Day In The Life Of A Data Scientist]] — 1 mentions
-> 208. [[Spring Boot Observability- Deep Dive into Logging, Metrics, and Tracing]] — 1 mentions
-> 209. [[Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced]] — 1 mentions
-> 210. [[Learning ArcGIS Python Scripting]] — 1 mentions
-> 211. [[Leveraging Cloud Computing for IoT]] — 1 mentions
-> 212. [[Problem-Solving Strategies for Data Engineers]] — 1 mentions
-> 213. [[Data Visualization Storytelling]] — 1 mentions
-> 214. [[RAG for Cybersecurity- Use Cases and Implementation]] — 1 mentions
+> 155. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 1 mentions
+> 156. [[Learning Digital Business Analysis]] — 1 mentions
+> 157. [[Understanding and Prioritizing Data Privacy]] — 1 mentions
+> 158. [[Privacy, Governance, and Compliance- Data Classification and Inventory]] — 1 mentions
+> 159. [[Privacy, Governance, and Compliance- Data Sharing]] — 1 mentions
+> 160. [[Leveraging AI in Your Nonprofit Organization by Microsoft and NetHope]] — 1 mentions
+> 161. [[Database Design Fundamentals]] — 1 mentions
+> 162. [[The Non Technical Skills Of Effective Data Scientists]] — 1 mentions
+> 163. [[Devops Foundations Devsecops]] — 1 mentions
+> 164. [[Cisco Network Security- Cisco Firewall Technologies]] — 1 mentions
+> 165. [[Excel For Financial Planning And Analysis Fp A]] — 1 mentions
+> 166. [[SQL for Finance Professionals]] — 1 mentions
+> 167. [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 1 mentions
+> 168. [[Data Integration And Api Development For Ai Applications]] — 1 mentions
+> 169. [[Apache Spark Essential Training- Big Data Engineering]] — 1 mentions
+> 170. [[Agile Project Management with Jira Cloud- 2 Lean and Agile Processes]] — 1 mentions
+> 171. [[MPLS L3VPN Foundation and Implementation]] — 1 mentions
+> 172. [[Azure AI for Developers- Content Safety and Responsible AI]] — 1 mentions
+> 173. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 1 mentions
+> 174. [[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]] — 1 mentions
+> 175. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 1 mentions
+> 176. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
+> 177. [[Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training]] — 1 mentions
+> 178. [[Azure Storage Essential Training (2021)]] — 1 mentions
+> 179. [[Excel- PivotTables in Depth]] — 1 mentions
+> 180. [[Google Cloud Data and Storage Foundations]] — 1 mentions
+> 181. [[Microservices- Security]] — 1 mentions
+> 182. [[SQL Server- Reporting Services]] — 1 mentions
+> 183. [[Learning Jenkins Automating Software Development And System Administration]] — 1 mentions
+> 184. [[Operational Excellence Foundations]] — 1 mentions
+> 185. [[Automated Data Governance in Practice]] — 1 mentions
+> 186. [[Introduction to Modern Data Engineering with Snowflake]] — 1 mentions
+> 187. [[Advanced Data Engineering with Snowflake]] — 1 mentions
+> 188. [[Kubernetes- Essential Tools]] — 1 mentions
+> 189. [[Securing Containers and Kubernetes Ecosystem]] — 1 mentions
+> 190. [[Certified Analytics Professional (CAP) Cert Prep]] — 1 mentions
+> 191. [[Learning SnowflakeDB]] — 1 mentions
+> 192. [[Apache Kafka Essential Training- Getting Started]] — 1 mentions
+> 193. [[Advanced Power BI Custom Visuals with d3.js]] — 1 mentions
+> 194. [[Power BI- Working Together with ChatGPT]] — 1 mentions
+> 195. [[Sales Strategy Using Ai And Automation To Sell More]] — 1 mentions
+> 196. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
+> 197. [[AI Orchestration- Foundations]] — 1 mentions
+> 198. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 1 mentions
+> 199. [[Power BI Top Skills]] — 1 mentions
+> 200. [[Machine Learning with Logistic Regression in Excel, R, and Power BI]] — 1 mentions
+> 201. [[15 Tips for Landing a Data Science Job]] — 1 mentions
+> 202. [[Get a Remote Data Science Job]] — 1 mentions
+> 203. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
+> 204. [[Advanced Python in Excel- Data Analysis and Visualization]] — 1 mentions
+> 205. [[Advanced Python in Excel- Machine Learning]] — 1 mentions
+> 206. [[Level Up- Python Data Acquisitions, Prep, and EDA]] — 1 mentions
+> 207. [[Digital Marketing Foundations]] — 1 mentions
+> 208. [[Email and Newsletter Marketing Foundations]] — 1 mentions
+> 209. [[Creating Maps with R]] — 1 mentions
+> 210. [[A Day In The Life Of A Data Scientist]] — 1 mentions
+> 211. [[Spring Boot Observability- Deep Dive into Logging, Metrics, and Tracing]] — 1 mentions
+> 212. [[Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced]] — 1 mentions
+> 213. [[Learning ArcGIS Python Scripting]] — 1 mentions
+> 214. [[Leveraging Cloud Computing for IoT]] — 1 mentions
+> 215. [[Problem-Solving Strategies for Data Engineers]] — 1 mentions
+> 216. [[Data Visualization Storytelling]] — 1 mentions
+> 217. [[RAG for Cybersecurity- Use Cases and Implementation]] — 1 mentions
 
 ## Learning Paths
 

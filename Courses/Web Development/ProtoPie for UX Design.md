@@ -74,14 +74,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What to expect from this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/what-to-expect-from-this-course?u=76281980)
+#### [What to expect from this course](https://www.linkedin.com/learning/protopie-for-ux-design/what-to-expect-from-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/what-to-expect-from-this-course?u=76281980&t=0)** - [Ronnie] Hello, my name is Ronnie McBride and I'll be your instructor for this ProtoPie essential course.
+> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/what-to-expect-from-this-course?u=76281980&t=0)** - [Ronnie] Hello, my name is Ronnie McBride and I'll be your instructor for this [[ProtoPie]] essential course.
 >
-> **[0:04](https://www.linkedin.com/learning/protopie-for-ux-design/what-to-expect-from-this-course?u=76281980&t=4)** I'll begin this course with an overview of the ProtoPie interface, then we'll go through the core concepts and processes for prototyping.
+> **[0:04](https://www.linkedin.com/learning/protopie-for-ux-design/what-to-expect-from-this-course?u=76281980&t=4)** I'll begin this course with an overview of the ProtoPie interface, then we'll go through the core concepts and processes for [[Prototyping]].
 >
 > **[0:11](https://www.linkedin.com/learning/protopie-for-ux-design/what-to-expect-from-this-course?u=76281980&t=11)** Next, I'll demonstrate various methods for importing assets.
 >
@@ -93,11 +92,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ProtoPie]] (2), [[Prototyping]] (1), next (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (2), [[Prototyping]] (1)
 > **Speakers:** - [ronnie] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/protopie-for-ux-design/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,12 +121,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reviewing the Jumpstart screen
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980)
+#### [Reviewing the Jumpstart screen](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=0)** - [Instructor] Okay, so by now you should have ProtoPie installed, and if you don't have ProtoPie installed head on over to [protopie.io](https://protopie.io) and there you'll click on Try for Free.
+> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=0)** - [Instructor] Okay, so by now you should have [[ProtoPie]] installed, and if you don't have ProtoPie installed head on over to [protopie.io](https://protopie.io) and there you'll click on Try for Free.
 >
 > **[0:09](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=9)** And when you click the Try for Free button, they'll take you to another page where you'll enter a little bit of information, just your name and your email address, and that's so you can start the cloud account that you need to create for ProtoPie as well as start your 30 day free trial.
 >
@@ -138,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=31)** There is one that supports the macOS Intel, and then there's a version that supports the macOS Apple Silicon, so if you have an older Mac or a newer Mac you're supported, so there's no worries there.
 >
-> **[0:43](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=43)** Windows users will use the Windows 64-bit, and you'll just download that and install.
+> **[0:43](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=43)** [[Windows]] users will use the Windows 64-bit, and you'll just download that and install.
 >
 > **[0:49](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=49)** Now the other thing I'd like for you to download, if you're going to create any application that's going to be on a mobile device, whether it's a tablet or a phone, you want to make sure that you download the ProtoPie Player.
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=165)** And, down here, you can also create a custom preset as well, too, so if you're a designer or UI designer that works for, maybe, a car company, you may be working with a specific size screen and so that you can create a custom preset and that'll be added to your list.
 >
-> **[3:04](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=184)** Also, down here, you have a System Status Bar for supporting people who need to see system status information for the iOS or the Android device, so you can select that here.
+> **[3:04](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=184)** Also, down here, you have a System Status Bar for supporting people who need to see system status information for the iOS or the [[Android]] device, so you can select that here.
 >
 > **[3:13](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980&t=193)** We're going to keep it, by default, on None, and then you also have an option, over here, where you can change the background color that's on the canvas itself.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ProtoPie]] (17), application (9), [[Windows]] (2), cloud (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (17), [[Windows]] (2), [[Android]] (1)
 > **UI Navigation:** click on (3), go to (2), select the (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** macos (2), ios (1)
@@ -211,12 +208,11 @@ created: 2026-05-02
 > **URLs:** [protopie.io](https://protopie.io) (1)
 > **Documentation:** the documentation (1)
 
-#### Interface overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980)
+#### [Interface overview](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=0)** - [Instructor] In this video, I'd like to walk you through the ProtoPie interface.
+> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=0)** - [Instructor] In this video, I'd like to walk you through the [[ProtoPie]] interface.
 >
 > **[0:03](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=3)** If you've worked in other design applications, you'll find that the commonalities between ProtoPie's interface and those other applications should feel familiar.
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=23)** So if you look over here on the left-hand side, we'll start at the top of the toolbar of the interface.
 >
-> **[0:30](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=30)** And if you click Import, you'll see that you can import Figma files, Adobe, XD files, and sketch files.
+> **[0:30](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=30)** And if you click Import, you'll see that you can import [[Figma (Software)|Figma]] files, Adobe, XD files, and sketch files.
 >
 > **[0:37](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=37)** These three programs all have plugins that allow you to import from those applications or from within Figma itself.
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=55)** That way would be here.
 >
-> **[0:56](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=56)** If you click on Media, you can import those individual assets right into your application, and then start prototyping.
+> **[0:56](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=56)** If you click on Media, you can import those individual assets right into your application, and then start [[Prototyping]].
 >
 > **[1:03](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=63)** The next tool is the Shape tool.
 >
@@ -374,7 +370,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=432)** Over here, if you click on device, this gives you a little QR code.
 >
-> **[7:16](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=436)** And if you download the ProtoPie player on whichever device that you're using, whether it's a Android device, or if it's an iOS device, you'll be able to preview your prototype within your device, which is really cool.
+> **[7:16](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=436)** And if you download the ProtoPie player on whichever device that you're using, whether it's a [[Android]] device, or if it's an iOS device, you'll be able to preview your prototype within your device, which is really cool.
 >
 > **[7:31](https://www.linkedin.com/learning/protopie-for-ux-design/interface-overview?u=76281980&t=451)** Over here, you could actually run on the device your application.
 >
@@ -400,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), [[ProtoPie]] (7), cloud (5), [[Figma (Software)|Figma]] (2), [[Prototyping]] (2)
+> **Frameworks & Libraries:** [[ProtoPie]] (7), [[Figma (Software)|Figma]] (2), [[Prototyping]] (2), [[Android]] (1)
 > **UI Navigation:** click on (12)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** ios (2), iphone (1)
@@ -409,14 +405,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (2)
 
-#### Process and core concept of ProtoPie
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/process-and-core-concept-of-protopie?u=76281980)
+#### [Process and core concept of ProtoPie](https://www.linkedin.com/learning/protopie-for-ux-design/process-and-core-concept-of-protopie?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/process-and-core-concept-of-protopie?u=76281980&t=0)** - [Narrator] I'd like to talk a little bit about the process and where ProtoPie fits within that process.
+> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/process-and-core-concept-of-protopie?u=76281980&t=0)** - [Narrator] I'd like to talk a little bit about the process and where [[ProtoPie]] fits within that process.
 >
-> **[0:04](https://www.linkedin.com/learning/protopie-for-ux-design/process-and-core-concept-of-protopie?u=76281980&t=4)** First, you need to create your design in a tool like Figma, Sketch, or XD or any other design tool.
+> **[0:04](https://www.linkedin.com/learning/protopie-for-ux-design/process-and-core-concept-of-protopie?u=76281980&t=4)** First, you need to create your design in a tool like [[Figma (Software)|Figma]], Sketch, or XD or any other design tool.
 >
 > **[0:09](https://www.linkedin.com/learning/protopie-for-ux-design/process-and-core-concept-of-protopie?u=76281980&t=9)** You're going to export those assets into ProtoPie so you can do all your interactivity there and create your prototype.
 >
@@ -480,7 +475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ProtoPie]] (6), cloud (2), [[Figma (Software)|Figma]] (1), hit (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (6), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Cross-References:** go back to (1)
@@ -494,14 +489,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importing assets
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980)
+#### [Importing assets](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980&t=0)** - [Instructor] In this video, I'd like to talk about importing assets.
 >
-> **[0:03](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980&t=3)** If you own Figma, Sketch, or Adobe XD, you'd be happy to know that these three industry standard applications have the plugin support for ProtoPie.
+> **[0:03](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980&t=3)** If you own [[Figma (Software)|Figma]], Sketch, or [[Adobe XD]], you'd be happy to know that these three industry standard applications have the plugin support for [[ProtoPie]].
 >
 > **[0:11](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980&t=11)** So all you need to do is head on over to your plugin manager or your plugin exchange found in your tool of choice, and search for the ProtoPie plugin.
 >
@@ -559,7 +553,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980&t=175)** So all your design changes happen inside your application, your design application.
 >
-> **[3:00](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980&t=180)** In ProtoPie, you want to just focus on your prototyping there.
+> **[3:00](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980&t=180)** In ProtoPie, you want to just focus on your [[Prototyping]] there.
 >
 > **[3:03](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980&t=183)** So I'm going to go ahead and I'm going to select my artboard again, hit export.
 >
@@ -605,7 +599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ProtoPie]] (11), application (3), hit (3), [[Adobe XD]] (2), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (11), [[Adobe XD]] (2), [[Figma (Software)|Figma]] (1), [[Prototyping]] (1)
 > **Prerequisites:** set up (3), install (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
@@ -613,8 +607,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Containers, scrolling, paging
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/containers-scrolling-paging?u=76281980)
+#### [Containers, scrolling, paging](https://www.linkedin.com/learning/protopie-for-ux-design/containers-scrolling-paging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,7 +697,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/protopie-for-ux-design/containers-scrolling-paging?u=76281980&t=215)** You'll see, when I tap and drag, I have that scrolling functionality here.
 >
-> **[3:42](https://www.linkedin.com/learning/protopie-for-ux-design/containers-scrolling-paging?u=76281980&t=222)** So in ProtoPie, it's super easy to create a scrolling area, so if you have a design and it's a very long page, just make it a group and make the elements that fit inside that group as long as you'd like, and you can easily scroll up and down in the demo.
+> **[3:42](https://www.linkedin.com/learning/protopie-for-ux-design/containers-scrolling-paging?u=76281980&t=222)** So in [[ProtoPie]], it's super easy to create a scrolling area, so if you have a design and it's a very long page, just make it a group and make the elements that fit inside that group as long as you'd like, and you can easily scroll up and down in the demo.
 >
 > **[4:02](https://www.linkedin.com/learning/protopie-for-ux-design/containers-scrolling-paging?u=76281980&t=242)** Okay?
 >
@@ -780,23 +773,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), hit (2), [[ProtoPie]] (2), next (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (2)
 > **CLI Commands:** make (7)
 > **UI Navigation:** scroll up (2), go to (1), toggle (1), click on (1)
 > **Prerequisites:** set up (4), you need to have (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scenes
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980)
+#### [Scenes](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=0)** - [Instructor] So up until now, we only worked on importing one art board at a time to create our interactions in ProtoPie.
+> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=0)** - [Instructor] So up until now, we only worked on importing one art board at a time to create our interactions in [[ProtoPie]].
 >
 > **[0:08](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=8)** In this video, I'd like to focus on importing multiple art boards and turning those art boards into scenes in the ProtoPie so you could add your micro interactions and interactivity.
 >
-> **[0:18](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=18)** Now we always start with our design in our design apple choice, whether it's sketch, XD or Figma or some other design tool, but we're going to use those three particular tools because they have the plugin for ProtoPie.
+> **[0:18](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=18)** Now we always start with our design in our design apple choice, whether it's sketch, XD or [[Figma (Software)|Figma]] or some other design tool, but we're going to use those three particular tools because they have the plugin for ProtoPie.
 >
 > **[0:32](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=32)** So I'm going to head on over to my XD file, show you what I have going on.
 >
@@ -818,7 +810,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=88)** Now that I have those selected, I'm going to go ahead and I'm going to hit Export.
 >
-> **[1:32](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=92)** It's going to take a few seconds here, it says recording three scenes from Adobe XD, and there you go.
+> **[1:32](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=92)** It's going to take a few seconds here, it says recording three scenes from [[Adobe XD]], and there you go.
 >
 > **[1:37](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=97)** It opens up the scene manager and you see the homepage, cart view and product details page, and you can move those around, however you'd like.
 >
@@ -884,7 +876,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=297)** And now I would like to add it to the cart.
 >
-> **[5:00](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=300)** Now to add that functionality, I'm going to head on over to the products detail page.
+> **[5:00](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=300)** Now to add that functionality, I'm going to head on over to the [[Microsoft Products|products]] detail page.
 >
 > **[5:07](https://www.linkedin.com/learning/protopie-for-ux-design/scenes?u=76281980&t=307)** I'm going to double click on that, now that is open and I'm going to double click on, Add to cart button, and we're going to add our trigger and we're going to say Tap.
 >
@@ -908,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[ProtoPie]] (7), hit (2), [[Figma (Software)|Figma]] (1), [[Adobe XD]] (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (7), [[Figma (Software)|Figma]] (1), [[Adobe XD]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (8), select the (2)
 > **CLI Commands:** make (5)
 > **Tools:** figma (1)
@@ -916,8 +908,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating triggers and responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/creating-triggers-and-responses?u=76281980)
+#### [Creating triggers and responses](https://www.linkedin.com/learning/protopie-for-ux-design/creating-triggers-and-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1040,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), hit (2)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** click on (3), in the menu (1), select the (1)
 > **Prerequisites:** setup (2), set up (2)
@@ -1058,12 +1048,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Timeline and animation curves explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/timeline-and-animation-curves-explained?u=76281980)
+#### [Timeline and animation curves explained](https://www.linkedin.com/learning/protopie-for-ux-design/timeline-and-animation-curves-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/timeline-and-animation-curves-explained?u=76281980&t=0)** - In the previous video, I've demonstrated how to use triggers and responses to create interactions in ProtoPie.
+> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/timeline-and-animation-curves-explained?u=76281980&t=0)** - In the previous video, I've demonstrated how to use triggers and responses to create interactions in [[ProtoPie]].
 >
 > **[0:07](https://www.linkedin.com/learning/protopie-for-ux-design/timeline-and-animation-curves-explained?u=76281980&t=7)** And, in this video, I'd like to spend a little bit more time on this area over here, to talk about the timeline and these bars and how they relate to each other.
 >
@@ -1133,7 +1122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ProtoPie]] (3), hit (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (3)
 > **Versions:** 0.2 (3), 0.8 (1), 0.4 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -1146,8 +1135,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Formula and variables basic overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/formula-and-variables-basic-overview?u=76281980)
+#### [Formula and variables basic overview](https://www.linkedin.com/learning/protopie-for-ux-design/formula-and-variables-basic-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1229,13 +1217,13 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/protopie-for-ux-design/formula-and-variables-basic-overview?u=76281980&t=237)** And then when you're finished debugging, you just turn that off.
 >
-> **[4:01](https://www.linkedin.com/learning/protopie-for-ux-design/formula-and-variables-basic-overview?u=76281980&t=241)** Hopefully, you have a basic awareness of the variable in formula feature in ProtoPie.
+> **[4:01](https://www.linkedin.com/learning/protopie-for-ux-design/formula-and-variables-basic-overview?u=76281980&t=241)** Hopefully, you have a basic awareness of the variable in formula feature in [[ProtoPie]].
 >
 > **[4:05](https://www.linkedin.com/learning/protopie-for-ux-design/formula-and-variables-basic-overview?u=76281980&t=245)** I encourage you to dig deeper into the topic because the more you know about the advanced features, the more dynamic your prototypes will be.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), hit (2), data (1), application (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** click on (4)
 > **Definitions:** is a  (1)
@@ -1247,14 +1235,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Component basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/component-basics?u=76281980)
+#### [Component basics](https://www.linkedin.com/learning/protopie-for-ux-design/component-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/component-basics?u=76281980&t=0)** - Components are grouped objects and interactions that can be saved for reuse across your prototype.
 >
-> **[0:05](https://www.linkedin.com/learning/protopie-for-ux-design/component-basics?u=76281980&t=5)** This is a common feature that you'll find in most popular design applications, but ProtoPie does it a little bit different because it allows you to save the graphic along with the interactions.
+> **[0:05](https://www.linkedin.com/learning/protopie-for-ux-design/component-basics?u=76281980&t=5)** This is a common feature that you'll find in most popular design applications, but [[ProtoPie]] does it a little bit different because it allows you to save the graphic along with the interactions.
 >
 > **[0:15](https://www.linkedin.com/learning/protopie-for-ux-design/component-basics?u=76281980&t=15)** And that is a lot more powerful than just one or the other.
 >
@@ -1346,7 +1333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ProtoPie]] (2), feature (1), hit (1), power (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (2)
 > **UI Navigation:** go to (5), select the (1), click on (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (2)
@@ -1359,12 +1346,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ProtoPie Player
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980)
+#### [ProtoPie Player](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980&t=0)** - So up until to now, we've been testing our prototypes within protopie using the preview feature.
+> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980&t=0)** - So up until to now, we've been testing our prototypes within [[ProtoPie]] using the preview feature.
 >
 > **[0:05](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980&t=5)** So if you click on the preview, we've been testing it this way. Now this is great.
 >
@@ -1374,7 +1360,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980&t=19)** It's called protopie player.
 >
-> **[0:20](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980&t=20)** So if we close this and we head on over to the website, you could download the player by going to [prototype.io](https://prototype.io), clicking on, download, scrolling to the middle of the page here and download the player for iOS or iPad, iOS or Android.
+> **[0:20](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980&t=20)** So if we close this and we head on over to the website, you could download the player by going to [prototype.io](https://prototype.io), clicking on, download, scrolling to the middle of the page here and download the player for iOS or iPad, iOS or [[Android]].
 >
 > **[0:37](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980&t=37)** And that's what is currently supporting. Now, once you've done that, then what you want to do is go over here to this button where it says device, click on that.
 >
@@ -1414,7 +1400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ProtoPie]] (4), cloud (2), feature (1), [[Android]] (1), application (1)
+> **Frameworks & Libraries:** [[ProtoPie]] (4), [[Android]] (1)
 > **UI Navigation:** click on (4)
 > **Code Identifiers:** ios (2), ipad (1)
 > **Exercise Files:** download the (2)
@@ -1423,12 +1409,11 @@ created: 2026-05-02
 > **URLs:** [prototype.io](https://prototype.io) (1)
 > **Cross-References:** in the next (1)
 
-#### ProtoPie Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-cloud?u=76281980)
+#### [ProtoPie Cloud](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-cloud?u=76281980&t=0)** - So previously I showed you how to test and share your prototype by using the ProtoPie Player.
+> **[0:00](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-cloud?u=76281980&t=0)** - So previously I showed you how to test and share your prototype by using the [[ProtoPie]] Player.
 >
 > **[0:06](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-cloud?u=76281980&t=6)** But there's another way that you can share your Pies with people who are not in the same space as you.
 >
@@ -1518,13 +1503,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[ProtoPie]] (4), teams (3), hit (2)
+> **Frameworks & Libraries:** [[ProtoPie]] (4)
 > **UI Navigation:** click on (6), go to (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - so (1)
 
-#### Recording
-> [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/recording?u=76281980)
+#### [Recording](https://www.linkedin.com/learning/protopie-for-ux-design/recording?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,7 +1534,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), hit (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mp4 (1)
 > **Cross-References:** previous video (1)

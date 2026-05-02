@@ -107,34 +107,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure for Developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980)
+#### [Azure for Developers](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=0)** - Cloud services are quickly becoming the new standard in software development.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=0)** - [[Cloud Services]] are quickly becoming the new standard in [[Software Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=5)** With so many advantages for so many different scenarios, it's easy to see why more development teams are making the shift.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=13)** Cloud services enable us to accomplish many things today that were once difficult or even impossible to do.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=20)** Things like scaling on demand to accommodate users around the world, having a reliable and affordable way to keep your applications online, conforming to various compliance and data privacy standards, or simply having the flexibility to pick and choose what you need to support your systems.
+> **[0:20](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=20)** Things like scaling on demand to accommodate users around the world, having a reliable and affordable way to keep your applications online, conforming to various compliance and [[Data Privacy]] standards, or simply having the flexibility to pick and choose what you need to support your systems.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=39)** (speaks in foreign language) That means hello in Tagalog.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=43)** I'm Adrienne Braganza Tacke.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=45)** I'm a software engineer and I work in Azure every day.
+> **[0:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=45)** I'm a software engineer and I work in [[Microsoft Azure|Azure]] every day.
 >
 > **[0:49](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=49)** I love working with other developers to see how cloud services can fit into their own organizations.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=55)** Azure has a lot to offer so it can be overwhelming, especially if you don't need to use all of its services and tools.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=62)** So join me for my course on LinkedIn Learning where we'll explore what's most helpful for you, the developer.
+> **[1:02](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980&t=62)** So join me for my course on [[LinkedIn]] Learning where we'll explore what's most helpful for you, the developer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Microsoft Azure|Azure]] (2), [[Software Development]] (1), teams (1), data (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (3), [[Microsoft Azure|Azure]] (2), [[Software Development]] (1), [[Data Privacy]] (1), [[LinkedIn]] (1)
 > **Speakers:** - cloud (1)
 
 
@@ -142,12 +141,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud Models and Service Types
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980)
+#### [Cloud Models and Service Types](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=0)** - By distributing compute resources around the world, cloud services and their providers give you a global network of resources to use.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=0)** - By distributing compute resources around the world, [[Cloud Services]] and their providers give you a global network of resources to use.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=9)** Gone are the days of being restricted by your on-premise infrastructure, and in some cases, your budget.
 >
@@ -157,9 +155,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=26)** First, there's the public cloud model.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=29)** In this widely used model, all resources are owned, operated, and managed by a third-party cloud service provider, like Azure.
+> **[0:29](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=29)** In this widely used model, all resources are owned, operated, and managed by a third-party cloud service provider, like [[Microsoft Azure|Azure]].
 >
-> **[0:38](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=38)** This includes all the hardware, software, and infrastructure used to support all of the cloud service provider's customers.
+> **[0:38](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=38)** This includes all the [[Hardware]], software, and infrastructure used to support all of the cloud service provider's customers.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=46)** Because it is the public cloud, these resources are shared between all costumers and organizations using the same cloud provider.
 >
@@ -177,9 +175,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=103)** So if you do use Azure with a private cloud model, you can be sure the resources you need will be separated and only be available to your organization.
 >
-> **[1:53](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=113)** And, for those who need a unique setup, or want the best of both worlds, there's the hybrid cloud model.
+> **[1:53](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=113)** And, for those who need a unique setup, or want the best of both worlds, there's the [[Hybrid Cloud]] model.
 >
-> **[2:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=120)** In this model, a combination of on-premise infrastructure, private clouds, and public clouds, are tailored to fit your organization's needs.
+> **[2:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=120)** In this model, a combination of on-premise infrastructure, [[Private Clouds]], and public clouds, are tailored to fit your organization's needs.
 >
 > **[2:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=130)** With access to multiple cloud sources, data and applications can move back and forth between the different clouds as you need.
 >
@@ -191,15 +189,15 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=163)** This aligns with the three main service types that are usually offered with all cloud services.
 >
-> **[2:49](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=169)** When you need full-featured services that you don't have to manage, like Azure Batch or Azure AI, you're looking for software as a service offerings.
+> **[2:49](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=169)** When you need full-featured services that you don't have to manage, like Azure Batch or Azure AI, you're looking for [[SaaS|software as a service]] offerings.
 >
-> **[2:59](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=179)** SaaS offerings are typically web based versions of applications we once downloaded and owned.
+> **[2:59](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=179)** [[SaaS]] offerings are typically web based versions of applications we once downloaded and owned.
 >
-> **[3:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=185)** These products usually require a subscription fee to use.
+> **[3:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=185)** These [[Microsoft Products|products]] usually require a subscription fee to use.
 >
-> **[3:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=189)** If you want to manage the applications and services you develop, most of the cloud offerings that will make sense for you will probably fall into the platform as a service type.
+> **[3:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=189)** If you want to manage the applications and services you develop, most of the cloud offerings that will make sense for you will probably fall into the [[PaaS|platform as a service]] type.
 >
-> **[3:20](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=200)** PaaS offerings are similar to hosting an operating system in the cloud.
+> **[3:20](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=200)** [[PaaS]] offerings are similar to hosting an operating system in the cloud.
 >
 > **[3:25](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=205)** Azure takes care of the system maintenance, so you can focus your attention on your apps.
 >
@@ -207,7 +205,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=215)** This includes things like Azure App Services, and Azure Search.
 >
-> **[3:40](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=220)** Finally, if a few additional virtual machines are all you need, you know, to take care of you finicky applications and their operating environments, then infrastructure as a service offerings are what you're looking for.
+> **[3:40](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=220)** Finally, if a few additional [[Virtual Machines]] are all you need, you know, to take care of you finicky applications and their operating environments, then [[IaaS|infrastructure as a service]] offerings are what you're looking for.
 >
 > **[3:54](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980&t=234)** As it's name implies, any infrastructure concerns, like networking firewalls, servers, or storage, can be used from a cloud provider to help you fill in the gaps in your existing architecture.
 >
@@ -217,7 +215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (22), [[Microsoft Azure|Azure]] (10), [[Security]] (2), data (2), [[SaaS|Software as a service]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Cloud Services]] (6), [[SaaS|Software as a service]] (2), [[PaaS|Platform as a service]] (2), [[IaaS|Infrastructure as a service]] (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - by (1)
@@ -227,14 +225,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an Azure Subscription?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980)
+#### [What is an Azure Subscription?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=0)** Working in Azure means you'll need an Azure subscription, but what is it?
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=0)** Working in [[Microsoft Azure|Azure]] means you'll need an Azure subscription, but what is it?
 >
-> **[0:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=5)** With an Azure subscription, you can use any of Microsoft's cloud offerings , to help you create, manage, host and scale your applications.
+> **[0:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=5)** With an Azure subscription, you can use any of [[Microsoft]]'s cloud offerings , to help you create, manage, host and scale your applications.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=14)** So like any subscription it refers to the account you have with Microsoft and how you'll pay for those services.
 >
@@ -242,19 +239,19 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=25)** This architectural separation plays a big part in helping you understand how resources are consumed and logically grouped.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=33)** With an Azure subscription, you can create and host cloud native applications with Azure app services or migrate your on premise instance of SQL database to an Azure SQL database and let Azure handle complex scaling and updating for you.
+> **[0:33](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=33)** With an Azure subscription, you can create and host cloud native applications with Azure app services or migrate your on premise instance of [[SQL]] database to an Azure SQL database and let Azure handle complex scaling and updating for you.
 >
 > **[0:49](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=49)** If you do a lot of graphics rendering or need to calculate thousands of data points per second, you can offload this work to Azure high performance computing, which is built for computation heavy processes.
 >
 > **[1:01](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=61)** And if you're thinking of implementing your next application with an event driven architecture in mind, as your functions can help you achieve that with it's serverless compute platform.
 >
-> **[1:12](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=72)** Or if you're simply looking to quickly and reliably deliver features and fixes, preferably by using automated CICD pipelines, then Azure DevOps may be what you're looking for.
+> **[1:12](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=72)** Or if you're simply looking to quickly and reliably deliver features and fixes, preferably by using automated CICD pipelines, then Azure [[DevOps]] may be what you're looking for.
 >
 > **[1:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=83)** This is just a sampling of all of the tools and services you can use, even if you don't need it all, an Azure subscription gives you the flexibility to use whatever you need.
 >
 > **[1:34](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=94)** With an Azure subscription, the whatever can also mean newer services including those you may not otherwise have the chance to work with.
 >
-> **[1:42](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=102)** For example, artificial intelligence and machine learning are two areas many developers are excited about but few actually get to use.
+> **[1:42](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=102)** For example, [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning are two areas many developers are excited about but few actually get to use.
 >
 > **[1:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=111)** With an Azure subscription, however, you can easily add Azure AI and Azure machine learning to your applications.
 >
@@ -268,7 +265,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=148)** It's also here that you'll be able to create an Azure subscription along with any resources you want to use.
 >
-> **[2:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=155)** When you use Azure infrastructure as a service or platform as a service based cloud offerings, you'll notice that you are billed based on cloud resource consumption.
+> **[2:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=155)** When you use Azure [[IaaS|infrastructure as a service]] or [[PaaS|platform as a service]] based cloud offerings, you'll notice that you are billed based on cloud resource consumption.
 >
 > **[2:46](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980&t=166)** If that sounds intimidating, don't worry.
 >
@@ -288,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (26), cloud (6), [[Microsoft]] (2), [[SQL]] (2), database (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (26), [[Microsoft]] (2), [[SQL]] (2), [[DevOps]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** sql (2), cicd (1)
 > **Tools:** azure portal (2)
 > **Prerequisites:** you'll need (2)
@@ -296,12 +293,11 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
 
-#### What is an Azure Resource Group?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980)
+#### [What is an Azure Resource Group?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=0)** - As you start developing applications on Azure, you may quickly find yourself needing to keep track of hundreds of resources.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=0)** - As you start developing applications on [[Microsoft Azure|Azure]], you may quickly find yourself needing to keep track of hundreds of resources.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=7)** Luckily, Azure resources groups can come to your rescue.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=27)** Say you have an eCommerce platform that sells dessert T-shirts.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=32)** Now imagine wanting to manage the Azure app service it runs on, the SQL server and database storing its data, and the Azure blob storage account hosting its media files, all in a single place.
+> **[0:32](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=32)** Now imagine wanting to manage the Azure app service it runs on, the [[Microsoft SQL Server|SQL server]] and database storing its data, and the Azure blob storage account hosting its media files, all in a single place.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=45)** By putting them all in the same resource group,
 >
@@ -319,7 +315,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=57)** Or what if your networking team needed a consolidated and separated way to access your organization's application gateways, firewalls and virtual networks.
 >
-> **[1:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=70)** And because we know each team wants ownership of their own resources, let's say your database administrators also required exclusive access to your organization's SQL server instances and databases.
+> **[1:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=70)** And because we know each team wants ownership of their own resources, let's say your database administrators also required exclusive access to your organization's SQL server instances and [[Databases]].
 >
 > **[1:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=83)** Setting up this kind of separation is simple with resource groups.
 >
@@ -359,13 +355,13 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=186)** Finally, Azure resource groups also takes advantage of tagging, which can be a powerful way to work with resources.
 >
-> **[3:17](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=197)** By tagging resource groups with meaningful context like environment, workload, or owner, you can make it easier to identify how you use your resources, separate cost by departments that incur them, and take advantage of automation opportunities when used with continuous integration and continuous deployment processes.
+> **[3:17](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=197)** By tagging resource groups with meaningful context like environment, workload, or owner, you can make it easier to identify how you use your resources, separate cost by departments that incur them, and take advantage of automation opportunities when used with [[Continuous Integration (CI)|continuous integration]] and continuous deployment processes.
 >
 > **[3:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-resource-group?u=76281980&t=217)** No matter what kind of applications you build, resources you use, or strategy you implement to manage resources within your team, resource groups give you the flexibility to maintain them that makes sense to you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), application (3), [[Microsoft SQL Server|Sql server]] (2), database (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sql (2)
 > **Analogies:** imagine (1), for example (1)
@@ -373,8 +369,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - as (1)
 
-#### Using the Azure Resource Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980)
+#### [Using the Azure Resource Manager](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -384,9 +379,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=10)** Even with the help of resource groups, we'll realistically deal with several versions of our applications, different environments, and other configurations that increase the number of resources we use.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=23)** Understanding this, Azure provides the Azure Resource Manager as a convenient way to deal with this in a reliable and scalable way.
+> **[0:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=23)** Understanding this, [[Microsoft Azure|Azure]] provides the Azure Resource Manager as a convenient way to deal with this in a reliable and scalable way.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=33)** At its core, the Azure Resource Manager is a collection of rest API endpoints that are used to create, update, and delete resources.
+> **[0:33](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=33)** At its core, the Azure Resource Manager is a collection of [[Representational State Transfer (REST)|rest]] API endpoints that are used to create, update, and delete resources.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=43)** Each request is authenticated and authorized by the same management layer.
 >
@@ -396,11 +391,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=63)** In fact, because of its significance to resource management and deployment, it even has its own templates.
 >
-> **[1:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=70)** Abbreviated and nicknamed ARM templates, these are JSON files that you can use to state your resource needs as code.
+> **[1:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=70)** Abbreviated and nicknamed ARM templates, these are [[JSON]] files that you can use to state your resource needs as code.
 >
 > **[1:18](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=78)** By using these templates, you can repeat deployments and get the same results each time.
 >
-> **[1:24](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=84)** Common tasks done at scale, like deploying 300 Windows VMs with tags or creating several manage clusters with Azure Container Service, are also easier because of these templates.
+> **[1:24](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=84)** Common tasks done at scale, like deploying 300 [[Windows]] VMs with tags or creating several manage clusters with Azure Container Service, are also easier because of these templates.
 >
 > **[1:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=97)** This is due to the declarative syntax use.
 >
@@ -416,7 +411,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=138)** In general, ARM templates are the preferred way of managing resources in a production environment.
 >
-> **[2:25](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=145)** It is worth noting, though, that there are many developers preferring to use the Azure CLI instead.
+> **[2:25](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=145)** It is worth noting, though, that there are many developers preferring to use the Azure [[CLI]] instead.
 >
 > **[2:31](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=151)** The main reason, ARM templates can quickly become overly verbose, large, and difficult to maintain especially as resources increase or become more interdependent.
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=187)** Since the Azure Resource Manager is essentially a restful API, we can use it in a few different ways.
 >
-> **[3:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=194)** Through the Azure portal, with the Azure CLI, or with PowerShell.
+> **[3:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=194)** Through the Azure portal, with the Azure CLI, or with [[Powershell]].
 >
 > **[3:19](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=199)** The Azure portal, as you may have already experienced, is the central hub for managing you applications and resources.
 >
@@ -458,7 +453,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=312)** For me, that seals the deal with the Azure CLI.
 >
-> **[5:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=316)** As a final factor, the Azure CLI is also the fastest tool to use for prototyping and exploration.
+> **[5:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=316)** As a final factor, the Azure CLI is also the fastest tool to use for [[Prototyping]] and exploration.
 >
 > **[5:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-resource-manager?u=76281980&t=323)** This makes it my favorite way to use the Azure Resource Manager.
 >
@@ -470,7 +465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (28), [[CLI]] (10), [[Powershell]] (4), api (3), management (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (28), [[CLI]] (10), [[Powershell]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Windows]] (2)
 > **Env Vars:** cli (10), arm (6), api (3), json (1)
 > **Tools:** powershell (4), azure portal (2), command line (1)
 > **Definitions:** is a  (3), means that (1)
@@ -479,12 +474,11 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - once (1)
 
-#### What is an Azure Region?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-region?u=76281980)
+#### [What is an Azure Region?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-region?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-region?u=76281980&t=0)** - [Narrator] Azure offers 55 regions worldwide, spread across 140 different countries.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-region?u=76281980&t=0)** - [Narrator] [[Microsoft Azure|Azure]] offers 55 regions worldwide, spread across 140 different countries.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-region?u=76281980&t=6)** These regions are key to scaling your applications to your users around the world, fulfilling different compliance or data residency standards, and helping your applications stay online, even during outages or disasters.
 >
@@ -544,18 +538,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9)
 > **Best Practices:** general rule (1), good practice (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### What is an Azure Availability Zone?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980)
+#### [What is an Azure Availability Zone?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=0)** - Azure Availability Zones are unique physical locations within an Azure region.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=0)** - [[Microsoft Azure|Azure]] Availability Zones are unique physical locations within an Azure region.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=6)** Each zone is comprised of one or more data centers that have their own power, cooling, and networking.
 >
@@ -579,13 +572,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=88)** So, if your legacy apps, the ones running on VMs, happen to be used the most within West US Two region, you could assign those VMs to a specific zone within that region.
 >
-> **[1:39](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=99)** Or to have granular control with your Azure Kubernetes service cluster, you could also specify which zones they are allowed to be distributed on.
+> **[1:39](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=99)** Or to have granular control with your Azure [[Kubernetes]] service cluster, you could also specify which zones they are allowed to be distributed on.
 >
 > **[1:49](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=109)** Zone-redundant services are what enables automatic replication of your applications and data across zones.
 >
-> **[1:57](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=117)** For your SQL database backups and redundancies or replicating your Azure Redis caches across zones, this service is invaluable.
+> **[1:57](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=117)** For your [[SQL]] database backups and redundancies or replicating your Azure [[Redis]] caches across zones, this service is invaluable.
 >
-> **[2:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=126)** When you combine Availability Zones with region pairs, you can rest easy knowing that your high-availability strategy is reinforced.
+> **[2:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=126)** When you combine Availability Zones with region pairs, you can [[Representational State Transfer (REST)|rest]] easy knowing that your high-availability strategy is reinforced.
 >
 > **[2:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=136)** With your applications and data replicated on different zones within a region, and further replication across your region pairs, you can be sure that your applications are always available, thanks to the large network of redundancies you've just created.
 >
@@ -595,11 +588,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=164)** It's actually pretty easy to take advantage of all the benefits Availability Zones offer you.
 >
-> **[2:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=170)** To see for yourself, check out this quick tutorial on how to create a Linux VM in an Availability Zone with the Azure CLI.
+> **[2:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-availability-zone?u=76281980&t=170)** To see for yourself, check out this quick tutorial on how to create a [[Linux]] VM in an Availability Zone with the Azure [[CLI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (5), power (2), [[Kubernetes]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Kubernetes]] (1), [[SQL]] (1), [[Redis]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (1), cli (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -610,24 +603,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an Azure App Service?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980)
+#### [What is an Azure App Service?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=0)** - An Azure App Service is an H-T-T-P based service that allows you to build and host web applications, mobile backends, and RESTful APIs.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=0)** - An [[Microsoft Azure|Azure]] App Service is an H-T-T-P based service that allows you to build and host web applications, mobile backends, and RESTful APIs.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=10)** Azure App Service has support for .NET, .NET Core, Node JS, Python, Ruby, Java, and PHP, so there's a high likelihood that you can develop in your favorite language.
+> **[0:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=10)** Azure App Service has support for .NET, .NET Core, Node JS, [[Python (Programming Language)|Python]], Ruby, [[Java]], and [[PHP]], so there's a high likelihood that you can develop in your favorite language.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=23)** You can also run PowerShell scripts or other executables as background services.
+> **[0:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=23)** You can also run [[Powershell]] scripts or other executables as background services.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=28)** This is great for handling legacy applications or parts of your app that can't be migrated to Azure App Service immediately, and once you're ready to deploy you can do so on either Windows or Linux environments.
+> **[0:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=28)** This is great for handling legacy applications or parts of your app that can't be migrated to Azure App Service immediately, and once you're ready to deploy you can do so on either [[Windows]] or [[Linux]] environments.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=41)** By building and hosting your applications with Azure App Service you can take advantage of so many services within Azure to make them better.
 >
-> **[0:49](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=49)** One of the best services to use with your Azure App Service is Azure DevOps.
+> **[0:49](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=49)** One of the best services to use with your Azure App Service is Azure [[DevOps]].
 >
-> **[0:54](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=54)** From your commits, using whichever source control platform you prefer, all the way to deployment, Azure DevOps can fully automate your continuous integration and continuous delivery processes.
+> **[0:54](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=54)** From your commits, using whichever source control platform you prefer, all the way to deployment, Azure DevOps can fully automate your [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] processes.
 >
 > **[1:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=66)** Using Azure DevOps also allows you to set up multiple environments like Dev, QA, and Staging, which can be used to promote features and fixes through a validated process.
 >
@@ -637,9 +629,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=92)** You can also setup IP restrictions, configure subdomains, or create blacklists and whitelists, among other compliance focused requirements.
 >
-> **[1:41](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=101)** And as an extra convenience Azure App Services integrates natively with Azure Active Directory so you don't have to re-write any authentication mechanisms from scratch.
+> **[1:41](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=101)** And as an extra convenience Azure App Services integrates natively with [[Microsoft Entra ID|Azure Active Directory]] so you don't have to re-write any authentication mechanisms from scratch.
 >
-> **[1:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=111)** When hosting your apps with Azure App Services you can manage scale through the Azure CLI or the Azure portal.
+> **[1:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=111)** When hosting your apps with Azure App Services you can manage scale through the Azure [[CLI]] or the Azure portal.
 >
 > **[1:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=118)** You can scale up or out, depending on your needs.
 >
@@ -655,7 +647,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=162)** So instead of replacing our existing graphics card with a better one, in this strategy we combine multiple lower end graphics cards to work together to help us play our game at an acceptable rate.
 >
-> **[2:55](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=175)** This strategy is common in big data processing where multiple machines are linked together to collectively provide processing power.
+> **[2:55](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=175)** This strategy is common in [[Big Data]] processing where multiple machines are linked together to collectively provide processing power.
 >
 > **[3:03](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=183)** Depending on your pricing tier you can scale out anywhere from 20 instances to 100 instances.
 >
@@ -665,9 +657,9 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=202)** Azure has a vast library of quick start templates.
 >
-> **[3:25](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=205)** Using one of those templates you can literally create and deploy a web app, an Azure function, a REST API, or one of many other common applications with a single click.
+> **[3:25](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=205)** Using one of those templates you can literally create and deploy a web app, an Azure function, a [[Representational State Transfer (REST)|REST]] API, or one of many other common applications with a single click.
 >
-> **[3:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=217)** This is my favorite part about using Azure App Services as it allows me to get up and running quickly, especially when I'm prototyping or experimenting with new features.
+> **[3:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=217)** This is my favorite part about using Azure App Services as it allows me to get up and running quickly, especially when I'm [[Prototyping]] or experimenting with new features.
 >
 > **[3:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980&t=227)** As developers Azure App Services helps us offload the management scaling and monitoring of the applications we build.
 >
@@ -679,7 +671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[DevOps]] (3), game (3), web (2), application (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[DevOps]] (3), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[PHP]] (1)
 > **Env Vars:** net (2), api (2), php (1), ico (1), soc (1)
 > **CLI Commands:** node (1), python (1), ruby (1), php (1), make (1)
 > **Prerequisites:** set up (2), setup (1), configure (1)
@@ -687,12 +679,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - an (1)
 
-#### Create an App Service to host an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980)
+#### [Create an App Service to host an API](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=0)** - [Instructor] Using the Azure Cloud Shell we can quickly create an Azure app service to host an API.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=0)** - [Instructor] Using the [[Microsoft Azure|Azure]] Cloud Shell we can quickly create an Azure app service to host an API.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=6)** I'll show you how in literally just a few steps.
 >
@@ -742,13 +733,13 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=129)** And the name of the web app itself which will be cakes for all.
 >
-> **[2:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=136)** Finally, add the deployment local git parameter so that we can use git to deploy our app.
+> **[2:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=136)** Finally, add the deployment local [[Git]] parameter so that we can use git to deploy our app.
 >
 > **[2:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=143)** That'll be dash dash deployment dash local dash git.
 >
 > **[2:30](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=150)** Then press Enter.
 >
-> **[2:32](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=152)** Once this command finishes successfully you should receive some JSON output like this.
+> **[2:32](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=152)** Once this command finishes successfully you should receive some [[JSON]] output like this.
 >
 > **[2:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-an-app-service-to-host-an-api?u=76281980&t=157)** All that's left is to find the deployment local git URL.
 >
@@ -756,7 +747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[Microsoft Azure|Azure]] (5), [[Git]] (5), next (3), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Git]] (5), [[JSON]] (1)
 > **CLI Commands:** git (5), az (3), find (1)
 > **Env Vars:** api (3), url (2), free (1), json (1)
 > **Tools:** azure portal (1)
@@ -769,14 +760,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Azure Blob Storage?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980)
+#### [What is Azure Blob Storage?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=0)** - At the heart of many applications, Azure Blob Storage gives you a place to store large amounts of readily accessible data in the cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=0)** - At the heart of many applications, [[Microsoft Azure|Azure]] Blob Storage gives you a place to store large amounts of readily accessible data in the cloud.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=8)** One of five Azure storage types, blob storage deals primarily with large, unstructured data.
+> **[0:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=8)** One of five Azure storage types, blob storage deals primarily with large, [[Unstructured Data]].
 >
 > **[0:15](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=15)** Think videos, images, audio, text or even virtual hard drives for VMs.
 >
@@ -800,7 +790,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=68)** On the other hand, Azure File Storage is the preferred option in two primary scenarios.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=74)** If your solutions are already integrated with the native file system APIs, and you're just looking to migrate to the cloud without having to re-architect your entire data storage model, files is the best option.
+> **[1:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=74)** If your solutions are already integrated with the native file system APIs, and you're just looking to migrate to the cloud without having to re-architect your entire [[Data Storage]] model, files is the best option.
 >
 > **[1:27](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=87)** Since it supports the standard server message blob protocol, Azure Files allow you to migrate to any other platform that uses the same standard.
 >
@@ -824,9 +814,9 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=156)** These tiers determine your costs, how easily you'll be able to access your data, and how performant your data store will be.
 >
-> **[2:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=165)** Access tiers come in three forms, Hot, Cool and Archive.
+> **[2:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=165)** Access tiers come in three [[Forms]], Hot, Cool and Archive.
 >
-> **[2:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=171)** If I were to guess, GIPHY stores all of the office GIFs in the Hot access tier, which is perfect for storing data that is accessed frequently and actively.
+> **[2:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=171)** If I were to guess, GIPHY stores all of the [[Microsoft Office|office]] GIFs in the Hot access tier, which is perfect for storing data that is accessed frequently and actively.
 >
 > **[3:01](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=181)** The storage cost are higher than the Cool and Archive tiers but it also has the lowest access cost.
 >
@@ -868,7 +858,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=288)** Applications that require a lot of interactivity, user feedback and quick responsive updates are better suited to utilize the premium performance tier.
 >
-> **[4:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=298)** Use cases like a mapping tool where massive amounts of data need to be instantly available based on user feedback, IoT analytics where thousands of write operations can occur a second or AI and ML processes, where massive amounts of different data types need to be consumed and processed in a rapid time frame.
+> **[4:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=298)** Use cases like a mapping tool where massive amounts of data need to be instantly available based on user feedback, [[IoT]] analytics where thousands of write operations can occur a second or AI and ML processes, where massive amounts of different data types need to be consumed and processed in a rapid time frame.
 >
 > **[5:19](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980&t=319)** These would all be ideal candidates for the premium performance tier.
 >
@@ -880,25 +870,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Microsoft Azure|Azure]] (10), cloud (3), application (3), [[Unstructured Data]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Unstructured Data]] (2), [[Data Storage]] (2), [[Forms]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** https (1), smb (1), giphy (1), aka (1)
 > **Prerequisites:** you'll need (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - at (1)
 
-#### What is Cosmos DB?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980)
+#### [What is Cosmos DB?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=0)** - Azure Cosmos DB is Microsoft's globally distributed database service.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=0)** - [[Microsoft Azure|Azure]] Cosmos DB is [[Microsoft]]'s globally distributed database service.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=5)** It was created to accommodate the high responsiveness and always on nature of most modern applications that live in the cloud.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=13)** Cosmos DB is considered a NoSQL database and primarily works with four data models.
+> **[0:13](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=13)** Cosmos DB is considered a [[NoSQL]] database and primarily works with four data models.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=19)** This includes a document store, where data is schema-less and most likely stored as json documents, a graph oriented model, where data is represented as graph structures like nodes and edges, a key value store, which is the simplest form of a database management system and only stores pairs of keys and values, and wide column stores, which allow data with vast numbers of dynamic columns to be stored.
+> **[0:19](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=19)** This includes a document store, where data is schema-less and most likely stored as [[JSON]] documents, a graph oriented model, where data is represented as graph structures like nodes and edges, a key value store, which is the simplest form of a [[Database Management]] system and only stores pairs of keys and values, and wide column stores, which allow data with vast numbers of dynamic columns to be stored.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=46)** Because of Cosmos DB's focus on high availability, geographic distribution, and speed, it comes with some pretty neat advantages.
 >
@@ -910,7 +899,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=74)** Cosmos DB also automatically indexes your data.
 >
-> **[1:18](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=78)** This was especially helpful for smaller teams, like my own, where the responsibilities of database administration were usually left to us as developers.
+> **[1:18](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=78)** This was especially helpful for smaller teams, like my own, where the responsibilities of [[Database Administration]] were usually left to us as developers.
 >
 > **[1:27](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=87)** For most teams, the indexing Cosmos DB provides is enough, but if finer grain tuning and maintenance are needed, Cosmos DB gives you the option to do so.
 >
@@ -932,7 +921,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=168)** One thing must be made clear though.
 >
-> **[2:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=170)** Cosmos DB is not an alternative or replacement for SQL server.
+> **[2:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=170)** Cosmos DB is not an alternative or replacement for [[Microsoft SQL Server|SQL server]].
 >
 > **[2:56](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=176)** There are very rare exceptions where you'd ever migrate your existing SQL server database to Cosmos DB.
 >
@@ -948,7 +937,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=223)** If you're creating cloud-first, globally available applications, Cosmos DB might be the better option for you.
 >
-> **[3:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=230)** Another significant factor to keep in mind is that Cosmos DB supports a SQL like language to query your data.
+> **[3:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=230)** Another significant factor to keep in mind is that Cosmos DB supports a [[SQL]] like language to query your data.
 >
 > **[3:57](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-cosmos-db?u=76281980&t=237)** At first glance, this seemed to be a non issue and worked out well.
 >
@@ -988,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft SQL Server|Sql server]] (9), database (8), [[Microsoft Azure|Azure]] (3), cloud (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Microsoft Azure|Azure]] (3), [[SQL]] (3), [[JSON]] (2), [[Microsoft]] (1)
 > **Env Vars:** sql (12), api (2), sku (1), cpu (1)
 > **CLI Commands:** mongo (1), make (1), node (1)
 > **Analogies:** for example (2)
@@ -996,14 +985,13 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - azure (1)
 
-#### Using Azure SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980)
+#### [Using Azure SQL](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=0)** - As SQL Database and SQL Server have evolved over the years, so have their deployment options.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=0)** - As [[SQL]] Database and [[Microsoft SQL Server|SQL Server]] have evolved over the years, so have their deployment options.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=7)** With Azure SQL Database, the SQL databases and SQL server instances you know can now be hosted and managed completely in the cloud.
+> **[0:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=7)** With [[Microsoft Azure|Azure]] SQL Database, the SQL [[Databases]] and SQL server instances you know can now be hosted and managed completely in the cloud.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=16)** By going cloud first on your databases, you get the same benefits as any other cloud-first resource you use, like easy scaling, global availability, or hands-off administration.
 >
@@ -1021,19 +1009,19 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=58)** It's also great for existing applications that require a quick migration to the cloud with barely any changes.
 >
-> **[1:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=65)** And it's the best option if you need custom development or test environments and don't want to buy additional on-premise hardware, which can get real expensive.
+> **[1:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=65)** And it's the best option if you need custom development or test environments and don't want to buy additional on-premise [[Hardware]], which can get real expensive.
 >
 > **[1:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=76)** The alternative options are to use Azure SQL databases or managed SQL instances.
 >
 > **[1:22](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=82)** With these options, you give all the database maintenance tasks, like applying patches or upgrading SQL Server versions, to Azure instead of doing them yourself.
 >
-> **[1:31](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=91)** You also get to use the latest stable SQL Server features, as the hardware and software you use will be fully managed, owned, and hosted by Microsoft.
+> **[1:31](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=91)** You also get to use the latest stable SQL Server features, as the hardware and software you use will be fully managed, owned, and hosted by [[Microsoft]].
 >
 > **[1:41](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=101)** For Azure SQL databases, there are three deployment options to choose from.
 >
 > **[1:46](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=106)** First, there's the single database, which has its own set of resources managed by a database server.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=112)** Single-database deployments are built for cloud-native applications and even have hyperscale and serverless tiers.
+> **[1:52](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=112)** Single-database deployments are built for [[Cloud-Native Applications]] and even have hyperscale and serverless tiers.
 >
 > **[2:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-sql?u=76281980&t=120)** Hyperscale is a special service tier in Azure SQL Database that basically removes any of the practical limits set on normal cloud databases.
 >
@@ -1057,7 +1045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[SQL]] (10), [[Microsoft Azure|Azure]] (9), [[Databases]] (9), [[Microsoft SQL Server|Sql server]] (6)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Microsoft Azure|Azure]] (9), [[Databases]] (9), [[Microsoft SQL Server|Sql server]] (6), [[Hardware]] (2)
 > **Env Vars:** sql (16)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -1069,8 +1057,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an Azure Function?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980)
+#### [What is an Azure Function?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1078,7 +1065,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=6)** Maybe we need to copy a file for backup purposes, or we need to kickstart a web job based on some sort of state.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=13)** Azure functions work well for these scenarios.
+> **[0:13](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=13)** [[Microsoft Azure|Azure]] functions work well for these scenarios.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=16)** With Azure functions, we only need to write the code needed to perform the action we want without requiring the full blown infrastructure that larger applications may need.
 >
@@ -1086,11 +1073,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=31)** The code itself, and some sort of configuration file.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=35)** Usually denoted as a function.json file.
+> **[0:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=35)** Usually denoted as a function.[[JSON]] file.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=39)** If you use a scripting language to write your code with, say, Powershell, you'll need to create this configuration file yourself.
+> **[0:39](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=39)** If you use a scripting language to write your code with, say, [[Powershell]], you'll need to create this configuration file yourself.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=47)** Otherwise, if using compiled languages like C Sharp or Java, this config file will be automatically generated for you from the annotations in your code.
+> **[0:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=47)** Otherwise, if using compiled languages like C Sharp or [[Java]], this config file will be automatically generated for you from the annotations in your code.
 >
 > **[0:57](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980&t=57)** This config file holds several key pieces of information for your function.
 >
@@ -1150,7 +1137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), web (2), data (2), [[JSON]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[JSON]] (1), [[Powershell]] (1), [[Java]] (1)
 > **Tools:** powershell (1), command prompt (1), terminal (1), visual studio (1), azure portal (1)
 > **Env Vars:** http (1), net (1)
 > **Best Practices:** recommended (2)
@@ -1159,12 +1146,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Create a Function with a BlobTrigger
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980)
+#### [Create a Function with a BlobTrigger](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=0)** - One of the most common uses for Azure functions is using it in conjunction with blob triggers.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=0)** - One of the most common uses for [[Microsoft Azure|Azure]] functions is using it in conjunction with blob triggers.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=6)** If you handle media or documents in your application, you'll most likely be utilizing Azure blob storage.
 >
@@ -1172,7 +1158,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=19)** This could include sending notification emails to your sales team when certain clients upload files, copying the originally uploaded files to a backup directory, or kickstarting other processes in your platform.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=32)** The platform I'm currently working on deals with many CSV and Excel files.
+> **[0:32](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=32)** The platform I'm currently working on deals with many CSV and [[Microsoft Excel|Excel]] files.
 >
 > **[0:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=37)** Compared to the initial upload, these files end up as completely different files after all of the processing it goes through.
 >
@@ -1206,7 +1192,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=114)** Since I don't already have one, I'll go ahead and create a new one.
 >
-> **[1:59](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=119)** As before, I'll leave the default options of Windows for my operating system, and the consumption type for my plan, as that's what we'll be using.
+> **[1:59](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=119)** As before, I'll leave the default options of [[Windows]] for my operating system, and the consumption type for my plan, as that's what we'll be using.
 >
 > **[2:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-function-with-a-blobtrigger?u=76281980&t=128)** Click next.
 >
@@ -1284,7 +1270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Search]] (4), next (4), application (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (3), select the (2), go to (1)
 > **CLI Commands:** find (2), make (2)
 > **Prerequisites:** install (2), configure (1), set up (1)
@@ -1293,12 +1279,11 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Best Practices:** make sure to (1)
 
-#### Other function trigger types
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980)
+#### [Other function trigger types](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=0)** - All Azure Functions require exactly one trigger, which is the action that starts the execution of your function code.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=0)** - All [[Microsoft Azure|Azure]] Functions require exactly one trigger, which is the action that starts the execution of your function code.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=8)** There are a variety of trigger types available that work with many common scenarios.
 >
@@ -1308,7 +1293,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=27)** Another example are QueueTriggers, which allow you to respond to messages as they arrive in an Azure storage queue.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=35)** These can be essential to functions that process a lot of data, like resolving matches for a catalog of products, or logging some metadata before moving the message to the next phase of a workflow.
+> **[0:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=35)** These can be essential to functions that process a lot of data, like resolving matches for a catalog of [[Microsoft Products|products]], or logging some [[Metadata]] before moving the message to the next phase of a workflow.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=46)** If a queue trigger happens to fail, Azure Functions automatically retries the function up to five more times before adding it to something called a poison queue.
 >
@@ -1316,7 +1301,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=65)** CosmosDBTriggers are another trigger type available and are exactly what they sound like.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=71)** They kickstart functions whenever additions or updates occur in a no SQL database.
+> **[1:11](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=71)** They kickstart functions whenever additions or updates occur in a no [[SQL]] database.
 >
 > **[1:17](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=77)** EvenGridTriggers respond to events delivered to a subscription in Azure Event Grid, an eventing service.
 >
@@ -1328,9 +1313,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=105)** That way, only events that match your filters execute your resizing function.
 >
-> **[1:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=111)** EventHugTriggers respond to events delivered to Azure Event Hub, a big data streaming platform and event ingestion service.
+> **[1:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=111)** EventHugTriggers respond to events delivered to Azure Event Hub, a [[Big Data]] streaming platform and event ingestion service.
 >
-> **[2:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=120)** This is better suited for workflows working with IoT and application instrumentation.
+> **[2:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=120)** This is better suited for workflows working with [[IoT]] and application instrumentation.
 >
 > **[2:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/other-function-trigger-types?u=76281980&t=126)** Azure Event Hub in particular has one distinct characteristic over Azure Event Grid, and that's ordering.
 >
@@ -1348,15 +1333,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), application (2), web (1), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft Products|Products]] (1), [[Metadata]] (1), [[SQL]] (1), [[Big Data]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - all (1)
 
-#### When to use Durable Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980)
+#### [When to use Durable Functions](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1366,7 +1350,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=13)** If you have functionality in your app that depends on previous steps or specific states to trigger the next steps, durable functions make several tricky parts about these workflows much easier.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=26)** Durable functions are an extension of Azure functions that allow you to write stateful functions in a server less compute environment.
+> **[0:26](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=26)** Durable functions are an extension of [[Microsoft Azure|Azure]] functions that allow you to write stateful functions in a server less compute environment.
 >
 > **[0:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=35)** These are incredibly powerful when you have complex workflows or longer running dependent steps, and are the preferred solution over regular functions.
 >
@@ -1406,7 +1390,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=162)** And as an added bonus, this makes versioning your durable functions possible.
 >
-> **[2:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=167)** Using durable functions with workflows also allows you to check the status of your workflow via REST API.
+> **[2:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=167)** Using durable functions with workflows also allows you to check the status of your workflow via [[Representational State Transfer (REST)|REST]] API.
 >
 > **[2:53](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76281980&t=173)** Something that is a pain to do with a regular functions.
 >
@@ -1440,14 +1424,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Orchestration]] (3), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (2), api (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** rest (2), api (2)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **CLI Commands:** make (1), snap (1)
 > **Speakers:** - when (1)
 
-#### A closer look at Durable Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/a-closer-look-at-durable-functions?u=76281980)
+#### [A closer look at Durable Functions](https://www.linkedin.com/learning/azure-essential-training-for-developers/a-closer-look-at-durable-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,7 +1478,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), [[Orchestration]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -1506,16 +1488,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Provision a Virtual Machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980)
+#### [Provision a Virtual Machine](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980&t=0)** - Virtual machines offer a great way to provide additional environments to work with.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980&t=0)** - [[Virtual Machines]] offer a great way to provide additional environments to work with.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980&t=5)** Especially if there are DEV or QA environments used during the development life cycle.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980&t=11)** I'll show you how easy it is to provision one in Azure.
+> **[0:11](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980&t=11)** I'll show you how easy it is to provision one in [[Microsoft Azure|Azure]].
 >
 > **[0:15](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980&t=15)** If you find yourself needing to provision one, you can do so graphically or via a CLA.
 >
@@ -1579,7 +1560,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980&t=177)** At this point, only RGP connections are opened on the VM you just created.
 >
-> **[3:03](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980&t=183)** This is the default when creating a Windows VM in Azure.
+> **[3:03](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980&t=183)** This is the default when creating a [[Windows]] VM in Azure.
 >
 > **[3:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980&t=187)** To open it for web traffic, run the "az VM" open port command with the port, resource group, and name parameters.
 >
@@ -1591,7 +1572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Virtual Machines]] (3), cloud (3), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Virtual Machines]] (3), [[Windows]] (1)
 > **CLI Commands:** make (4), az (3), find (1)
 > **Env Vars:** rgp (2), dev (1), cla (1), http (1)
 > **Tools:** bash (3), azure portal (1), command line (1)
@@ -1600,12 +1581,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (2)
 > **URLs:** [http://www.shell.azure.com/bash](http://www.shell.azure.com/bash) (1)
 
-#### Azure Resource Manager templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980)
+#### [Azure Resource Manager templates](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980&t=0)** - Azure Resource Manager templates or ARM templates for short, are great for consistently deploying the same set of resources.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980&t=0)** - [[Microsoft Azure|Azure]] Resource Manager templates or ARM templates for short, are great for consistently deploying the same set of resources.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980&t=9)** Let's create one using the Azure portal.
 >
@@ -1623,9 +1603,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980&t=40)** You can build your own template in the editor.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980&t=43)** Use one or the common templates featured or even load one from GitHub.
+> **[0:43](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980&t=43)** Use one or the common templates featured or even load one from [[GitHub]].
 >
-> **[0:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980&t=51)** Keep in mind that if you do use a template from the GitHub community, it won't be supported by Microsoft.
+> **[0:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980&t=51)** Keep in mind that if you do use a template from the GitHub community, it won't be supported by [[Microsoft]].
 >
 > **[0:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-resource-manager-templates?u=76281980&t=58)** As with all open source resources, Be sure to event any potential templates you'd like to use for active owners and community, and a relatively recent change log.
 >
@@ -1711,7 +1691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), web (5), [[GitHub]] (3), [[Search]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[GitHub]] (3), [[Microsoft]] (1)
 > **Exercise Files:** template (18)
 > **Env Vars:** arm (5), cdn (3)
 > **UI Navigation:** select the (5), in the menu (1)
@@ -1720,16 +1700,15 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - azure (1)
 
-#### What is Azure Batch?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980)
+#### [What is Azure Batch?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=0)** - Azure Batch is a managed service that allows you to run high-performance parallel computing jobs in the cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=0)** - [[Microsoft Azure|Azure]] Batch is a managed service that allows you to run high-performance parallel computing jobs in the cloud.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=7)** In other words, if you need to process a lot of data within a relatively short amount of time, you'll probably use Azure Batch.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=16)** Instagram and Google are great examples of the sheer volume of data Azure Batch was built to handle.
+> **[0:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=16)** Instagram and [[Google]] are great examples of the sheer volume of data Azure Batch was built to handle.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=22)** During every minute of every single day, Instagram users upload around 49,000 photos and 3.8 million Google searches are performed.
 >
@@ -1737,7 +1716,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=47)** And, that's exactly what Azure Batch provides.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=50)** When you run a high-compute job with Azure Batch, it starts a pool of compute virtual machines for you, runs jobs to execute the tasks you have, while automatically re-queuing any failures, and then scales down the pool as work completes.
+> **[0:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=50)** When you run a high-compute job with Azure Batch, it starts a pool of compute [[Virtual Machines]] for you, runs jobs to execute the tasks you have, while automatically re-queuing any failures, and then scales down the pool as work completes.
 >
 > **[1:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=65)** What's even better us that you control how quickly to complete these jobs and what your upper limit is on scaling.
 >
@@ -1763,7 +1742,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=136)** Here, you decide how powerful your job can be.
 >
-> **[2:21](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=141)** Using the Azure CLI or the Azure portal, you'd specify the number of compute nodes for the pool, their individual size, and what operating system to use.
+> **[2:21](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=141)** Using the Azure [[CLI]] or the Azure portal, you'd specify the number of compute nodes for the pool, their individual size, and what operating system to use.
 >
 > **[2:31](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=151)** When your tasks run, it will be assigned to one of these nodes.
 >
@@ -1791,7 +1770,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=220)** And geneticists harness its compute power for genetic sequence analysis.
 >
-> **[3:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=225)** And, for my fellow developers who want to make friends with their quality assurance teams, Azure Batch could also be used for software test execution.
+> **[3:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=225)** And, for my fellow developers who want to make friends with their [[Quality Assurance]] teams, Azure Batch could also be used for software test execution.
 >
 > **[3:54](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-batch?u=76281980&t=234)** Especially on large platforms with even larger test suites, offloading that amount of work to Azure Batch can probably cut your test execution times in a real good way.
 >
@@ -1801,7 +1780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), data (3), [[CLI]] (3), parallel (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[CLI]] (3), [[Google]] (2), [[Virtual Machines]] (1), [[Quality Assurance]] (1)
 > **CLI Commands:** cat (5), make (1)
 > **Env Vars:** cli (3)
 > **Tools:** azure portal (2)
@@ -1815,8 +1794,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Container and Kubernetes Basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980)
+#### [Container and Kubernetes Basics](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,7 +1806,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=18)** With containers, we can explicitly state what kind of environment our application needs, and then have that environment automatically created for us instead.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=27)** If it's our local dev environment, our company's private data center, or a public cloud offering like Azure, containers give us the freedom not to care.
+> **[0:27](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=27)** If it's our local dev environment, our company's private data center, or a public cloud offering like [[Microsoft Azure|Azure]], containers give us the freedom not to care.
 >
 > **[0:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=37)** Since the exact same environment is created to host our application, it will probably work everywhere and not just on my machine.
 >
@@ -1846,11 +1824,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=94)** Just as our application source code is version-controlled, kept pristine, or hey, at least we try to, and shared in a repository, the container image can also be version-controlled and distributed anywhere from a repository of its own, the container registry.
 >
-> **[1:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=111)** After hearing all this, you may be asking, how are containers different from virtual machines?
+> **[1:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=111)** After hearing all this, you may be asking, how are containers different from [[Virtual Machines]]?
 >
 > **[1:57](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=117)** While some major concepts are similar between the two, like the ability to isolate resources or allocate specific ones, containers offer more benefits through its implementation.
 >
-> **[2:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=130)** Where virtual machines virtualize the hardware, containers virtualize the operating system instead.
+> **[2:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=130)** Where virtual machines virtualize the [[Hardware]], containers virtualize the operating system instead.
 >
 > **[2:17](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=137)** This makes containers much more lightweight than virtual machines, and faster, as they only need to boot a fraction of the memory required rather than the entire operating system.
 >
@@ -1858,9 +1836,9 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=152)** And many would consider Docker containers to be the industry standard.
 >
-> **[2:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=157)** Docker supports Linux and Windows environments, is open source, and is supported by all major cloud platforms, including Azure.
+> **[2:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=157)** Docker supports [[Linux]] and [[Windows]] environments, is open source, and is supported by all major cloud platforms, including Azure.
 >
-> **[2:46](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=166)** As are, if you work with Kubernetes and containers, you'll probably work with Docker.
+> **[2:46](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=166)** As are, if you work with [[Kubernetes]] and containers, you'll probably work with Docker.
 >
 > **[2:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=170)** If you're lucky and only have to deal with a single container, then running that single container is easy.
 >
@@ -1878,25 +1856,24 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=227)** These are things like resource consumption, load balancing limits, and availability limits.
 >
-> **[3:53](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=233)** Mix and match these constraints to your team's needs, then Kubernetes will handle the rest.
+> **[3:53](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=233)** Mix and match these constraints to your team's needs, then Kubernetes will handle the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980&t=238)** Really, depending on the available resources it has access to, Kubernetes can automatically load balance requests across different instances of an application, move an application from one host to another if it detects a resource shortage or outage, and makes canary deployments a much, much simpler process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Kubernetes]] (6), [[Virtual Machines]] (3), cloud (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Virtual Machines]] (3), [[Microsoft Azure|Azure]] (2), [[Hardware]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (4)
 > **Documentation:** specification (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** known as (1)
 > **Speakers:** - many (1)
 
-#### Create a managed Kubernetes cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-managed-kubernetes-cluster?u=76281980)
+#### [Create a managed Kubernetes cluster](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-managed-kubernetes-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-managed-kubernetes-cluster?u=76281980&t=0)** - Creating an Azure managed Kubernetes cluster is super simple.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-managed-kubernetes-cluster?u=76281980&t=0)** - Creating an [[Microsoft Azure|Azure]] managed [[Kubernetes]] cluster is super simple.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-a-managed-kubernetes-cluster?u=76281980&t=4)** Let's create one now using the Azure Cloud Shell.
 >
@@ -1966,7 +1943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), node (5), [[Kubernetes]] (3), cloud (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Kubernetes]] (3)
 > **CLI Commands:** node (5), ssh (4)
 > **Env Vars:** aks (4), ssh (4)
 > **Tools:** azure portal (1)
@@ -1975,14 +1952,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - creating (1)
 
-#### Create, Publish image to Container Registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-publish-image-to-container-registry?u=76281980)
+#### [Create, Publish image to Container Registry](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-publish-image-to-container-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-publish-image-to-container-registry?u=76281980&t=0)** - [Narrator] When we want to create containerized applications, Visual Studio makes it easy for us with built-in docker support.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-publish-image-to-container-registry?u=76281980&t=8)** Let's see how to build a simple app, create a container image from it, and then push it to an Azure Container Registry.
+> **[0:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-publish-image-to-container-registry?u=76281980&t=8)** Let's see how to build a simple app, create a container image from it, and then push it to an [[Microsoft Azure|Azure]] Container Registry.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-essential-training-for-developers/create-publish-image-to-container-registry?u=76281980&t=15)** To start, I'm going to create a new project.
 >
@@ -2060,7 +2036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Microsoft Azure|Azure]] (3), web application (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **CLI Commands:** docker (5), make (4)
 > **UI Navigation:** checkbox (1), navigate to (1), click on (1), go to (1), scroll down (1)
 > **Env Vars:** gif (4)
@@ -2074,8 +2050,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Authentication options in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980)
+#### [Authentication options in Azure](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2083,7 +2058,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=6)** Authentication and authorization are related, but they're not the same thing.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=12)** It's worth exploring what each is and isn't so that you can properly secure your Azure applications.
+> **[0:12](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=12)** It's worth exploring what each is and isn't so that you can properly secure your [[Microsoft Azure|Azure]] applications.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=19)** Authentication answers the question are you the person you're claiming to be?
 >
@@ -2123,7 +2098,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=169)** Identity providers are third-party services that manage user identities and authentication flows for the applications that use them.
 >
-> **[2:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=178)** Azure supports five identity providers by default, Azure Active Directory, a generic Microsoft account, or accounts from Facebook, Google, or Twitter.
+> **[2:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=178)** Azure supports five identity providers by default, [[Microsoft Entra ID|Azure Active Directory]], a generic [[Microsoft]] account, or accounts from Facebook, [[Google]], or Twitter.
 >
 > **[3:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=189)** When you enable one of these identity providers, you'll be able to use the provider's sign-in and point to authenticate users on your application.
 >
@@ -2139,7 +2114,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=229)** Once your users are authenticated, a really neat feature of using these identity providers with Azure App Services is that you have a built-in token store at your disposal.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=239)** This store holds your users' tokens.
+> **[3:59](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=239)** This store holds your users' [[Tokens]].
 >
 > **[4:03](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980&t=243)** If you've ever had to manually manage, collect, and refresh users' tokens, you'll love the token store as much as me.
 >
@@ -2151,14 +2126,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Microsoft Azure|Azure]] (6), [[Tokens]] (4), [[Security]] (3), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Tokens]] (4), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Definitions:** in other words (1), means that (1)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - authentication (1)
 
-#### Role-Based vs Claims-Based Authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/role-based-vs-claims-based-authorization?u=76281980)
+#### [Role-Based vs Claims-Based Authorization](https://www.linkedin.com/learning/azure-essential-training-for-developers/role-based-vs-claims-based-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2200,7 +2174,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/role-based-vs-claims-based-authorization?u=76281980&t=118)** And the badges that hold their respective titles are the roles security agents use to give them the approval.
 >
-> **[2:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/role-based-vs-claims-based-authorization?u=76281980&t=125)** Meanwhile, the rest of us are still waiting in line to get through the security checkpoint.
+> **[2:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/role-based-vs-claims-based-authorization?u=76281980&t=125)** Meanwhile, the [[Representational State Transfer (REST)|rest]] of us are still waiting in line to get through the security checkpoint.
 >
 > **[2:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/role-based-vs-claims-based-authorization?u=76281980&t=130)** We can't use that other line as we're just plain old travelers.
 >
@@ -2220,7 +2194,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/azure-essential-training-for-developers/role-based-vs-claims-based-authorization?u=76281980&t=184)** I've gone through this mistake before.
 >
-> **[3:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/role-based-vs-claims-based-authorization?u=76281980&t=186)** It's not a fun process to re-architect your application security.
+> **[3:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/role-based-vs-claims-based-authorization?u=76281980&t=186)** It's not a fun process to re-architect your [[Application Security]].
 >
 > **[3:11](https://www.linkedin.com/learning/azure-essential-training-for-developers/role-based-vs-claims-based-authorization?u=76281980&t=191)** Have you ever assumed a certain role was going to stay the same, or get to a point where two people with the same role needed varying levels of authorization?
 >
@@ -2246,15 +2220,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), application (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Application Security]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - when (1)
 
-#### What is Azure Key Vault?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-key-vault?u=76281980)
+#### [What is Azure Key Vault?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-key-vault?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2272,11 +2245,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-key-vault?u=76281980&t=30)** That's why it's especially important for us as developers to ensure these parts of our application are secure.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-key-vault?u=76281980&t=38)** This is where Azure Key Vault comes in.
+> **[0:38](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-key-vault?u=76281980&t=38)** This is where [[Microsoft Azure|Azure]] Key Vault comes in.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-key-vault?u=76281980&t=40)** Just like it sounds, Key Vault is a centralized place to store all kinds of sensitive information that your application might need.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-key-vault?u=76281980&t=48)** Things like API keys, tokens, connection strings, and passwords can all be stored and managed in the Azure Key Vault, which means you can remove it from your application's code.
+> **[0:48](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-key-vault?u=76281980&t=48)** Things like API keys, [[Tokens]], connection strings, and passwords can all be stored and managed in the Azure Key Vault, which means you can remove it from your application's code.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-key-vault?u=76281980&t=59)** What's extremely convenient is that when we do need this information, we can use the Key Vault API to retrieve it.
 >
@@ -2292,7 +2265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), api (4), application (3), [[Tokens]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Tokens]] (1)
 > **Env Vars:** api (4)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** is a  (1)
@@ -2303,8 +2276,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Azure Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-monitor?u=76281980)
+#### [Using Azure Monitor](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2314,7 +2286,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-monitor?u=76281980&t=14)** And when things go wrong, we certainly want to know.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-monitor?u=76281980&t=18)** Azure Monitor is a full platform of tools that help us keep an eye on our applications.
+> **[0:18](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-monitor?u=76281980&t=18)** [[Microsoft Azure|Azure]] Monitor is a full platform of tools that help us keep an eye on our applications.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-monitor?u=76281980&t=24)** It's a centralized solution for collecting, analyzing, and acting on the telemetry data we feed into it.
 >
@@ -2368,15 +2340,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (6), [[Microsoft Azure|Azure]] (5), database (4), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** cpu (2)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - once (1)
 
-#### What is Application Insights?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-application-insights?u=76281980)
+#### [What is Application Insights?](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-application-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2402,7 +2373,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-application-insights?u=76281980&t=59)** Like cupcakes sold or least liked cat video.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-application-insights?u=76281980&t=62)** All of this data and much more is continuously sent over to Azure Monitor to help you make sense of it all.
+> **[1:02](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-application-insights?u=76281980&t=62)** All of this data and much more is continuously sent over to [[Microsoft Azure|Azure]] Monitor to help you make sense of it all.
 >
 > **[1:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-application-insights?u=76281980&t=69)** Since there's so much valuable information tracked by Application Insights, it's usually the first place I look when I need to diagnose production issues.
 >
@@ -2424,7 +2395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Microsoft Azure|Azure]] (2), data (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** find (3), cat (1), make (1)
 > **Env Vars:** http (1)
 > **Tools:** visual studio (1)
@@ -2436,8 +2407,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Azure Redis for caching
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980)
+#### [Using Azure Redis for caching](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2449,7 +2419,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980&t=18)** That's why it's very much encouraged to implement caching with our applications, especially with data we know we'll need later on.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980&t=27)** Azure Cache for Redis is the Azure-based implementation of Redis, a popular software used for caching.
+> **[0:27](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980&t=27)** [[Microsoft Azure|Azure]] Cache for [[Redis]] is the Azure-based implementation of Redis, a popular software used for caching.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980&t=34)** It's a great way to implement caching with our Azure applications.
 >
@@ -2493,7 +2463,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980&t=175)** Say Dennis calls ahead and places an order for some macrons.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980&t=181)** Oh, then Natalie calls in and orders a chocolate cupcake with sprinkles and a vanilla cupcake.
+> **[3:01](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980&t=181)** Oh, then Natalie calls in and orders a chocolate cupcake with sprinkles and a [[Vanilla]] cupcake.
 >
 > **[3:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980&t=188)** And at the last minute, Scott also calls in and places an order for two cupcakes.
 >
@@ -2511,15 +2481,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (9), [[Redis]] (6), database (3), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Redis]] (6), [[Vanilla]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** fast (1), gdpr (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** kind of like (1), similar to (1)
 > **Speakers:** - as (1)
 
-#### Using the Azure Content Delivery Network
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-content-delivery-network?u=76281980)
+#### [Using the Azure Content Delivery Network](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-content-delivery-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2529,9 +2498,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-content-delivery-network?u=76281980&t=14)** I didn't think so.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-content-delivery-network?u=76281980&t=16)** I'm sure you're quite aware of how important fast load times are, they can make or break the user experience.
+> **[0:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-content-delivery-network?u=76281980&t=16)** I'm sure you're quite aware of how important fast load times are, they can make or break the [[User Experience (UX)|user experience]].
 >
-> **[0:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-content-delivery-network?u=76281980&t=23)** If you're developing applications that have a lot of media, dynamically generated content or content that can't be cached, the Azure Content Delivery Network is something you need.
+> **[0:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-content-delivery-network?u=76281980&t=23)** If you're developing applications that have a lot of media, dynamically generated content or content that can't be cached, the [[Microsoft Azure|Azure]] Content Delivery Network is something you need.
 >
 > **[0:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-the-azure-content-delivery-network?u=76281980&t=35)** The Azure Content Delivery Network, or Azure CDN for short, is a globally distributed network of servers designed to get content to users fast.
 >
@@ -2573,19 +2542,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), feature (5), [[User Experience (UX)|User experience]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** cdn (11), https (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - remember (1)
 
-#### Kubernetes Service scaling strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/kubernetes-service-scaling-strategies?u=76281980)
+#### [Kubernetes Service scaling strategies](https://www.linkedin.com/learning/azure-essential-training-for-developers/kubernetes-service-scaling-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/kubernetes-service-scaling-strategies?u=76281980&t=0)** - As you run applications in Azure Kubernetes Service, the compute resources you need will vary from time to time.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/kubernetes-service-scaling-strategies?u=76281980&t=0)** - As you run applications in [[Microsoft Azure|Azure]] [[Kubernetes]] Service, the compute resources you need will vary from time to time.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/kubernetes-service-scaling-strategies?u=76281980&t=7)** Ideally, they'd scale as demand increases and decreases, and it would all be done automatically.
 >
@@ -2635,7 +2603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Microsoft Azure|Azure]] (4), application (3), api (3), node (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Microsoft Azure|Azure]] (4)
 > **Env Vars:** api (3)
 > **CLI Commands:** node (1)
 > **Definitions:** is a  (1)
@@ -2647,8 +2615,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure AI and Responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980)
+#### [Azure AI and Responsible AI](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2660,9 +2627,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=16)** As we adapt and integrate AI into our day-to-day workflows, it's imperative that we have guidelines we can follow while we go on this AI journey together.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=28)** In this video, we'll discuss what responsible AI is and why it's important.
+> **[0:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=28)** In this video, we'll discuss what [[Responsible AI]] is and why it's important.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=34)** We'll also learn about the six responsible AI principles that define the Microsoft Responsible AI Standard and how they can guide our AI development and use.
+> **[0:34](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=34)** We'll also learn about the six responsible AI principles that define the [[Microsoft]] Responsible AI Standard and how they can guide our AI development and use.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=48)** So what is responsible AI?
 >
@@ -2676,7 +2643,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=100)** Let's talk about those six principles.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=104)** First is accountability.
+> **[1:44](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=104)** First is [[Accountability]].
 >
 > **[1:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=107)** This principle states that people should be accountable for AI systems.
 >
@@ -2686,7 +2653,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=135)** Regular review of and additional oversight and requirements for systems that may have a significant adverse impact on people, organizations, and society.
 >
-> **[2:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=148)** Documented and defined purpose for the AI system, including how the system's use will solve the problem posed by each intended use, data governance and management of datasets used by the AI system, and the availability of human oversight and control with these AI systems.
+> **[2:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=148)** Documented and defined purpose for the AI system, including how the system's use will solve the problem posed by each intended use, [[Data Governance]] and management of datasets used by the AI system, and the availability of human oversight and control with these AI systems.
 >
 > **[2:52](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=172)** The next principle is transparency.
 >
@@ -2708,11 +2675,11 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=295)** Implementing this principle means ensuring reliability and safety guidance surrounding an AI system, including the evaluation of operational factors and ranges within which they're expected to perform, minimizing the time to remediation of predictable or known failures, and establishing ongoing monitoring, feedback, and evaluation of the AI system to identify and review new use cases, identify and troubleshoot issues, manage and maintain the system, and improve them over time.
 >
-> **[5:33](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=333)** Privacy and security is the fifth principle.
+> **[5:33](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=333)** [[Privacy]] and security is the fifth principle.
 >
 > **[5:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=337)** It states that AI systems should be secure and respect privacy, and asks us to contemplate on how an AI system might be designed to support privacy and security.
 >
-> **[5:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=351)** This includes designing systems to protect privacy in accordance with the Microsoft Privacy Standard and to be secure in accordance with the Microsoft Security Policy.
+> **[5:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=351)** This includes designing systems to protect privacy in accordance with the Microsoft Privacy Standard and to be secure in accordance with the [[Microsoft Security]] Policy.
 >
 > **[6:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980&t=365)** Finally, the last principle is inclusiveness.
 >
@@ -2726,18 +2693,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (34), [[Responsible AI]] (5), [[Microsoft]] (5), [[Privacy]] (5), [[Accountability]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (5), [[Microsoft]] (5), [[Privacy]] (5), [[Accountability]] (2), [[Data Governance]] (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure AI Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980)
+#### [Azure AI Services](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=0)** - [Presenter] Wonder what Azure AI Services are?
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=0)** - [Presenter] Wonder what [[Microsoft Azure|Azure]] AI Services are?
 >
-> **[0:04](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=4)** Formerly known as Azure Cognitive Services, Azure AI Services are a collection of prebuilt, cloud-based AI capabilities offered by Microsoft Azure.
+> **[0:04](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=4)** Formerly known as Azure Cognitive Services, Azure AI Services are a collection of prebuilt, cloud-based AI capabilities offered by [[Microsoft Azure]].
 >
 > **[0:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=16)** You can think of them as ready-to-use AI building blocks with the purpose of making AI functions accessible to more developers, especially those who don't have deep machine learning expertise from scratch.
 >
@@ -2769,9 +2735,9 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=154)** (presenter speaks in foreign language)
 >
-> **[2:48](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=168)** For cutting-edge generative AI, you can use Azure OpenAI and Phi open models to build powerful agents and applications with large and small language models.
+> **[2:48](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=168)** For cutting-edge [[Generative AI]], you can use Azure OpenAI and Phi open models to build powerful agents and applications with large and small language models.
 >
-> **[3:02](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=182)** Finally, for speech capabilities, Azure AI Speech provides several services, including highly accurate speech-to-text conversion, natural-sounding text to speech, real-time speech translation, and even speaker recognition.
+> **[3:02](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=182)** Finally, for speech capabilities, Azure AI Speech provides several services, including highly accurate speech-to-text conversion, natural-sounding text to speech, [[Real-Time]] speech translation, and even speaker recognition.
 >
 > **[3:22](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=202)** Think transcribing customer service calls or offering voice interfaces for your applications.
 >
@@ -2783,13 +2749,13 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=225)** Azure holds several common and industry standard compliance certifications, like GDPR, HIPAA, ISO and SOC 2.
 >
-> **[3:55](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=235)** This means you'll have access to features like data encryption in transit and at rest, access controls with role-based access control, private endpoints, content filtering, and more.
+> **[3:55](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=235)** This means you'll have access to features like data encryption in transit and at [[Representational State Transfer (REST)|rest]], access controls with role-based access control, private endpoints, content filtering, and more.
 >
-> **[4:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=249)** Cost management is another key area to consider.
+> **[4:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=249)** [[Cost Management]] is another key area to consider.
 >
 > **[4:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=254)** Azure AI services operate on a flexible, consumption-based pricing model.
 >
-> **[4:20](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=260)** While this offers scalability, large-scale AI projects can incur significant costs if not carefully monitored and optimized.
+> **[4:20](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=260)** While this offers [[Scalability]], large-scale AI projects can incur significant costs if not carefully monitored and optimized.
 >
 > **[4:29](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=269)** It's essential to understand your usage patterns and leverage Azure's cost management tools to avoid unexpected expenditures.
 >
@@ -2799,21 +2765,21 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=300)** If that's the case, you might need to combine the pre-built models with something like Azure Machine Learning, which requires more specialized expertise.
 >
-> **[5:11](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=311)** Fourth, data management and quality are critical.
+> **[5:11](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=311)** Fourth, [[Data Management]] and quality are critical.
 >
 > **[5:16](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=316)** The effectiveness of any AI model is completely dependent on the quality of your data.
 >
-> **[5:22](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=322)** Be prepared for challenges related to data ingestion, cleaning, and ensuring data quality Tools like Microsoft Purview can help.
+> **[5:22](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=322)** Be prepared for challenges related to [[Data Ingestion]], cleaning, and ensuring [[Data Quality]] Tools like [[Microsoft]] Purview can help.
 >
 > **[5:31](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=331)** Also be aware of model decay.
 >
 > **[5:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=335)** AI models can degrade over time as data patterns shift, a phenomenon known as data drift.
 >
-> **[5:42](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=342)** Continuous monitoring and a feedback loop between users and technical teams are vital to maintain accuracy.
+> **[5:42](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=342)** [[Continuous Monitoring]] and a feedback loop between users and technical teams are vital to maintain accuracy.
 >
 > **[5:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=350)** Finally, ethical AI practices cannot be an afterthought.
 >
-> **[5:56](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=356)** This includes addressing potential biases in your datasets, ensuring fairness, and considering the user experience and ethical implications of your AI solution.
+> **[5:56](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=356)** This includes addressing potential biases in your datasets, ensuring fairness, and considering the [[User Experience (UX)|user experience]] and ethical implications of your AI solution.
 >
 > **[6:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-services?u=76281980&t=369)** With the help of Azure AI Services, you can build intelligent applications faster and more efficiently.
 >
@@ -2821,14 +2787,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (23), [[Microsoft Azure|Azure]] (19), data (9), [[Security]] (2), [[Cost Management]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[Cost Management]] (2), [[Data Quality]] (2), [[Microsoft Azure]] (1), [[Generative AI]] (1)
 > **Env Vars:** ocr (1), gdpr (1), hipaa (1), iso (1), soc (1)
 > **Definitions:** known as (3), is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [presenter] (1)
 
-#### Azure Machine Learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980)
+#### [Azure Machine Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2836,7 +2801,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=4)** Need to build something completely unique to your situation?
 >
-> **[0:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=9)** Then, Azure Machine Learning might be what you're looking for.
+> **[0:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=9)** Then, [[Microsoft Azure|Azure]] Machine Learning might be what you're looking for.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=14)** In this video, I'll take you through what Azure Machine Learning is, when to use it, and how you would use it to manage the lifecycle of creating your own custom model.
 >
@@ -2848,7 +2813,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=47)** Instead, Azure Machine Learning, or Azure ML for short, is intended for custom model development.
 >
-> **[0:56](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=56)** If you need to build a model from scratch, have specific requirements, or work with open-source frameworks, like PyTorch, TensorFlow, or scikit-learn, Azure ML is what you'll want to use as well.
+> **[0:56](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=56)** If you need to build a model from scratch, have specific requirements, or work with open-source frameworks, like [[PyTorch]], [[TensorFlow]], or scikit-learn, Azure ML is what you'll want to use as well.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=71)** Overall, Azure ML is an ML ops platform, meaning it helps you manage the entire machine learning lifecycle, from experimentation to production.
 >
@@ -2872,7 +2837,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=159)** Will you go with a code-first or low-code approach?
 >
-> **[2:44](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=164)** In a code-first approach, you write your training scripts in Python or R using the Python SDK or the Azure CLI, then run them on compute resources.
+> **[2:44](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=164)** In a code-first approach, you write your training scripts in [[Python (Programming Language)|Python]] or R using the Python SDK or the Azure [[CLI]], then run them on compute resources.
 >
 > **[2:56](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=176)** In a low-code approach, you can use Azure ML Designer, a drag-and-drop visual interface to build and train models without writing the code yourself.
 >
@@ -2880,7 +2845,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=193)** Defining your environment means explicitly describing the software environment your model needs, as well as any dependencies, like Conda or Docker containers.
 >
-> **[3:24](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=204)** It's similar to a requirements file or a package.json file where you can explicitly set which version of libraries and packages to use.
+> **[3:24](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=204)** It's similar to a requirements file or a package.[[JSON]] file where you can explicitly set which version of libraries and packages to use.
 >
 > **[3:34](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=214)** This helps ensure reproducibility no matter where your model is run.
 >
@@ -2890,17 +2855,17 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=230)** It establishes the computational power allocated for your ML tasks, whether that's for development, training, or inference.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=239)** You can think of it like provisioning a VM or Kubernetes cluster, but specifically focused on machine learning workloads.
+> **[3:59](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=239)** You can think of it like provisioning a VM or [[Kubernetes]] cluster, but specifically focused on machine learning workloads.
 >
 > **[4:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=247)** You can decide from single-node, cloud-based dev environments called compute instances, scalable, multi-node clusters of VMs designed for distributed training and processing larger datasets, called compute clusters, or for basic tasks, plain old serverless compute.
 >
 > **[4:27](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=267)** With everything in place, you train, evaluate, and register your custom model next.
 >
-> **[4:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=275)** This means submitting your training job, likely multiple times with different configurations, and tracking experiment metrics and parameters with MLflow.
+> **[4:35](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=275)** This means submitting your training job, likely multiple times with different configurations, and tracking experiment metrics and parameters with [[MLflow]].
 >
 > **[4:46](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=286)** Out of these runs, you evaluate which model performed the best and register it in the model registry, a central repository for versioning and managing your models.
 >
-> **[5:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=300)** When you are ready to deploy a trained model, you take your static model file, such as a .pk1 or .onnx file, and make it available as a callable service for real-time predictions or batch processing.
+> **[5:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=300)** When you are ready to deploy a trained model, you take your static model file, such as a .pk1 or .onnx file, and make it available as a callable service for [[Real-Time]] predictions or [[Batch Processing]].
 >
 > **[5:15](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=315)** As you use your trained model, a critical, ongoing last step is to monitor your model.
 >
@@ -2910,13 +2875,13 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=339)** This feedback loop is crucial for knowing when to retrain your models.
 >
-> **[5:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=345)** Azure Machine Learning gives you the full control and capabilities to innovate with custom AI solutions.
+> **[5:45](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=345)** Azure Machine Learning gives you the full control and capabilities to innovate with custom [[AI Solutions]].
 >
 > **[5:52](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-machine-learning?u=76281980&t=352)** It provides the ecosystem to take your models from ideation to production, manage them at scale, and continually improve their performance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), data (11), ai (4), cloud (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Python (Programming Language)|Python]] (2), [[PyTorch]] (1), [[TensorFlow]] (1), [[CLI]] (1)
 > **CLI Commands:** make (2), python (2), node (2), docker (1)
 > **Analogies:** similar to (1), think of it like (1), such as (1)
 > **Env Vars:** sdk (1), cli (1)
@@ -2925,24 +2890,23 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitHub Copilot with Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980)
+#### [GitHub Copilot with Azure](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=0)** - [Narrator] Building and deploying applications on Azure can be powerful, but let's be real.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=0)** - [Narrator] Building and deploying applications on [[Microsoft Azure|Azure]] can be powerful, but let's be real.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=6)** It can also be complex and sometimes confusing.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=10)** There are services to juggle, boilerplate code to get through, and documentation to slowly sift through.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=20)** Luckily for us, GitHub Copilot can help with all of that.
+> **[0:20](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=20)** Luckily for us, [[GitHub Copilot]] can help with all of that.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=25)** While we may consider Copilot as just a fancier auto-completion tool, it has grown to become a much more useful assistant for the entire Azure development lifecycle.
+> **[0:25](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=25)** While we may consider [[Microsoft Copilot|Copilot]] as just a fancier auto-completion tool, it has grown to become a much more useful assistant for the entire Azure development lifecycle.
 >
 > **[0:37](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=37)** Let's see how GitHub Copilot can make your workflow a bit easier.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=42)** Copilot can certainly help you write code faster, whether it's Python, .NET, or JavaScript for your applications, or Bicep or Terraform templates for infrastructure as code, Copilot's got your back.
+> **[0:42](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=42)** Copilot can certainly help you write code faster, whether it's [[Python (Programming Language)|Python]], .NET, or [[JavaScript]] for your applications, or Bicep or [[Terraform]] templates for [[Infrastructure as code (IaC)|infrastructure as code]], Copilot's got your back.
 >
 > **[0:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=58)** Even better, there's a VS Code extension for GitHub Copilot for Azure.
 >
@@ -2952,7 +2916,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=78)** You can let agent mode decide on those tools or choose them yourself and guide the process.
 >
-> **[1:26](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=86)** For example, you can choose #azuregenerateazurecli command to let the agent generate Azure CLI commands based on the given intent.
+> **[1:26](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=86)** For example, you can choose #azuregenerateazurecli command to let the agent generate Azure [[CLI]] commands based on the given intent.
 >
 > **[1:38](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=98)** This tool will be used when you explicitly ask for help with or examples for using the Azure CLI or when Azure CLI commands are needed to complete another task.
 >
@@ -2962,7 +2926,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=130)** You can also give high-level requirements and let agent mode determine the relevant context and files to edit autonomously.
 >
-> **[2:19](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=139)** For example, you could prompt, "Create a restaurant rating web app using Svelte and Node.js.
+> **[2:19](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=139)** For example, you could prompt, "Create a restaurant rating web app using Svelte and [[Node.js]].
 >
 > **[2:27](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=147)** The other mode you can use with the GitHub Copilot for Azure extension is ask mode.
 >
@@ -2970,11 +2934,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=159)** If you need to create a storage account, deploy a web app, or troubleshoot a deployment, you can just ask Copilot.
 >
-> **[2:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=167)** For example, you can type in the chat, "@Azure, create a web app and a SQL database," and Copilot will guide you through the process.
+> **[2:47](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=167)** For example, you can type in the chat, "@Azure, create a web app and a [[SQL]] database," and Copilot will guide you through the process.
 >
 > **[2:56](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=176)** This is much nicer than switching between the portal and your code, or you can ask for diagnostic help on your app.
 >
-> **[3:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=185)** For example, you can type in the chat, "@Azure, help me diagnose a problem with Azure Kubernetes service."
+> **[3:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=185)** For example, you can type in the chat, "@Azure, help me diagnose a problem with Azure [[Kubernetes]] service."
 >
 > **[3:13](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-copilot-with-azure?u=76281980&t=193)** Using both agent and ask modes can make you much more efficient by being able to learn on the fly, being able to deploy with ease, and being able to troubleshoot faster.
 >
@@ -2986,7 +2950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[GitHub Copilot]] (9), [[Microsoft Copilot|Copilot]] (6), [[CLI]] (3), web (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[GitHub Copilot]] (9), [[Microsoft Copilot|Copilot]] (6), [[CLI]] (3), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (9), vs code (2)
 > **CLI Commands:** make (2), python (1), terraform (1), cd (1), node (1)
 > **Env Vars:** cli (3), net (1), sql (1)
@@ -3000,18 +2964,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Load testing on Azure App Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980)
+#### [Load testing on Azure App Service](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=0)** - [Speaker] Ensuring your application can handle real-world user traffic is crucial for a smooth and reliable user experience.
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=0)** - [Speaker] Ensuring your application can handle real-world user traffic is crucial for a smooth and reliable [[User Experience (UX)|user experience]].
 >
-> **[0:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=8)** Load testing helps us achieve that by simulating various traffic patterns and loads to identify a performance bottlenecks and potential breaking points.
+> **[0:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=8)** [[Load Testing]] helps us achieve that by simulating various traffic patterns and loads to identify a performance bottlenecks and potential breaking points.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=18)** By the end of this video, you'll understand the importance of load testing.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=23)** You'll also learn how to create and run load tests directly from the Azure portal specifically within your app service instance.
+> **[0:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=23)** You'll also learn how to create and run load tests directly from the [[Microsoft Azure|Azure]] portal specifically within your app service instance.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=30)** Imagine your newly launched application suddenly experiences a surge in users due to a viral video.
 >
@@ -3031,15 +2994,15 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=82)** With load testing, identifying bottlenecks becomes easier as you can pinpoint specific parts of your application that may be causing performance issues under load.
 >
-> **[1:34](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=94)** By proactively load testing, you can identify these issues before they impact your users, allowing you to optimize your application and infrastructure for resilience and scalability.
+> **[1:34](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=94)** By proactively load testing, you can identify these issues before they impact your users, allowing you to optimize your application and infrastructure for resilience and [[Scalability]].
 >
-> **[1:46](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=106)** The load testing feature integrated within Azure App Service allows you to generate synthetic-user traffic to your application and observe its performance metrics directly within the portal.
+> **[1:46](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=106)** The load testing feature integrated within Azure App Service allows you to generate synthetic-user traffic to your application and observe its [[Performance Metrics]] directly within the portal.
 >
 > **[1:58](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=118)** This simplified setup means you don't have to configure external load testing tools.
 >
 > **[2:04](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=124)** The configuration is done directly within the app service blade.
 >
-> **[2:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=129)** Behind the scenes, the feature uses the Azure Load Testing service, which provides the power and scale you'll need for your testing infrastructure and key performance indicators like response time, requests per second and error rates are displayed in real-time during the test.
+> **[2:09](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=129)** Behind the scenes, the feature uses the Azure Load Testing service, which provides the power and scale you'll need for your testing infrastructure and key performance indicators like response time, requests per second and error rates are displayed in [[Real-Time]] during the test.
 >
 > **[2:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980&t=148)** One thing to keep in mind, running load tests does incur costs associated with the Azure load testing service.
 >
@@ -3141,7 +3104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Load Testing]] (16), [[Microsoft Azure|Azure]] (11), application (9), traffic (4), feature (2)
+> **Frameworks & Libraries:** [[Load Testing]] (16), [[Microsoft Azure|Azure]] (11), [[User Experience (UX)|User experience]] (1), [[Scalability]] (1), [[Performance Metrics]] (1)
 > **Prerequisites:** configure (3), you'll need (3), setup (1), set up (1)
 > **UI Navigation:** click on (4), open the (1), scroll down (1)
 > **Env Vars:** url (2), cpu (1), http (1)
@@ -3150,8 +3113,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 
-#### GitHub Advanced Security for Azure DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-advanced-security-for-azure-devops?u=76281980)
+#### [GitHub Advanced Security for Azure DevOps](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-advanced-security-for-azure-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3159,7 +3121,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-advanced-security-for-azure-devops?u=76281980&t=7)** But what if you could weave security into your existing workflow, catching vulnerabilities before they hit production?
 >
-> **[0:15](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-advanced-security-for-azure-devops?u=76281980&t=15)** That's where GitHub Advanced Security for Azure DevOps comes in.
+> **[0:15](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-advanced-security-for-azure-devops?u=76281980&t=15)** That's where [[GitHub]] Advanced Security for [[Microsoft Azure|Azure]] [[DevOps]] comes in.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-advanced-security-for-azure-devops?u=76281980&t=19)** This suite of tools brings automated code, secret, and dependency scanning directly into your Azure DevOps pipelines, allowing developers to build more secure applications.
 >
@@ -3171,7 +3133,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-advanced-security-for-azure-devops?u=76281980&t=51)** Code scanning is a feature that uses CodeQL, a semantic code analysis engine to identify potential security vulnerabilities in your code.
 >
-> **[1:01](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-advanced-security-for-azure-devops?u=76281980&t=61)** This includes SQL injection, cross site scripting, and path traversal.
+> **[1:01](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-advanced-security-for-azure-devops?u=76281980&t=61)** This includes [[SQL]] injection, cross site scripting, and path traversal.
 >
 > **[1:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/github-advanced-security-for-azure-devops?u=76281980&t=67)** It analyzes your code as you commit changes and during your pull request, providing actionable alerts directly within Azure Ops.
 >
@@ -3243,7 +3205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[Microsoft Azure|Azure]] (9), [[DevOps]] (8), [[GitHub]] (4), feature (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[DevOps]] (8), [[GitHub]] (4), [[SQL]] (1)
 > **UI Navigation:** click on (2), toggle (2), select the (1), navigate to (1)
 > **Tools:** github (4), notion (1)
 > **Env Vars:** sql (1), api (1)
@@ -3252,24 +3214,23 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Azure AI Foundry
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980)
+#### [Azure AI Foundry](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=0)** - [Narrator] Keeping up with the Azure ecosystem can feel like drinking from a fire hose, right?
+> **[0:00](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=0)** - [Narrator] Keeping up with the [[Microsoft Azure|Azure]] ecosystem can feel like drinking from a fire hose, right?
 >
-> **[0:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=5)** Luckily, we'll break down one of those new things in this video, the Azure AI Foundry.
+> **[0:05](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=5)** Luckily, we'll break down one of those new things in this video, the [[Azure AI Foundry]].
 >
 > **[0:12](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=12)** You'll learn what it is, why it matters for your workflow, and how you can get started right away.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=20)** So what's the big deal with Azure AI Foundry?
 >
-> **[0:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=23)** Formerly known as Azure AI Studio, you can think of it as a massive marketplace for AI capabilities built right into the Azure ecosystem you already know.
+> **[0:23](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=23)** Formerly known as [[Azure AI Studio]], you can think of it as a massive marketplace for AI capabilities built right into the Azure ecosystem you already know.
 >
 > **[0:33](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=33)** It's not a new separate platform you have to learn from scratch.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=38)** Instead, it's a new experience that brings together the best foundation models from across the industry to Microsoft's own models.
+> **[0:38](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=38)** Instead, it's a new experience that brings together the best foundation models from across the industry to [[Microsoft]]'s own models.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=48)** As developers, this means no more hunting around for the latest open-source models or managing complex setups.
 >
@@ -3279,7 +3240,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=70)** First is the variety and model selection.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=74)** You get direct access to a curated collection of both cutting-edge proprietary models and the best open-source models, like Meta's Llama family or Mistral models.
+> **[1:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=74)** You get direct access to a curated collection of both cutting-edge proprietary models and the best open-source models, like Meta's [[LLaMA]] family or Mistral models.
 >
 > **[1:26](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=86)** This saves you the headache of vetting the models yourself.
 >
@@ -3293,9 +3254,9 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=127)** Another helpful feature is the seamless deployment and integration of models.
 >
-> **[2:12](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=132)** You can deploy models to a managed real-time endpoint with just a few clicks.
+> **[2:12](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=132)** You can deploy models to a managed [[Real-Time]] endpoint with just a few clicks.
 >
-> **[2:17](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=137)** Because it's all native to Azure, you also get the enterprise-grade security, compliance, and scalability you'd expect.
+> **[2:17](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=137)** Because it's all native to Azure, you also get the enterprise-grade security, compliance, and [[Scalability]] you'd expect.
 >
 > **[2:26](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=146)** Plus, you can easily integrate these endpoints into your existing applications using a simple API call.
 >
@@ -3307,11 +3268,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=164)** For many of the most popular third-party models, Microsoft is offering a pay-as-you-go, token-based billing system.
 >
-> **[2:52](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=172)** This means you don't have to manage any underlying GPU infrastructure yourself, you just pay for what you use, similar to calling an OpenAI API.
+> **[2:52](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=172)** This means you don't have to manage any underlying GPU infrastructure yourself, you just pay for what you use, similar to calling an [[OpenAI API]].
 >
 > **[3:03](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=183)** If you decide to fine-tune a model or host an open-source model on your own dedicated computer, you'll pay for the standard Azure resources you consume.
 >
-> **[3:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=194)** This includes the virtual machines for training and hosting and the storage for your model and data.
+> **[3:14](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=194)** This includes the [[Virtual Machines]] for training and hosting and the storage for your model and data.
 >
 > **[3:20](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-foundry?u=76281980&t=200)** The good news is that you'll have full control over the performance and cost by choosing the right VM size for your needs.
 >
@@ -3339,7 +3300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Azure AI Foundry]] (7), open-source (3), ai (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Azure AI Foundry]] (7), [[Microsoft]] (2), [[Azure AI Studio]] (1), [[LLaMA]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** api (2), gpu (1)
 > **Analogies:** think of it as (1), similar to (1)
@@ -3352,8 +3313,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3363,13 +3323,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980&t=4)** Thank you for making it to the end, and for finishing this course.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980&t=8)** We covered everything you'd want to know about Azure as a developer.
+> **[0:08](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980&t=8)** We covered everything you'd want to know about [[Microsoft Azure|Azure]] as a developer.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980&t=12)** From the basics of cloud development to the tools and services you'll need and want for a better development experience.
+> **[0:12](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980&t=12)** From the basics of [[Cloud Development]] to the tools and services you'll need and want for a better development experience.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980&t=19)** At this point, you should have a firm understanding of what you can do with Azure, and how to integrate its offerings into your own solutions.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980&t=28)** As you start using the services and tools that are right for your application, I encourage you to check out the LinkedIn Learning library for deeper-dive courses on those topics.
+> **[0:28](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980&t=28)** As you start using the services and tools that are right for your application, I encourage you to check out the [[LinkedIn]] Learning library for deeper-dive courses on those topics.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980&t=38)** Throughout the course I've shared a collection of resources that make great starting points.
 >
@@ -3385,7 +3345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Cloud Development]] (1), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Cloud Development]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** download the (1)

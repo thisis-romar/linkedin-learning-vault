@@ -99,14 +99,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get answers to common Excel questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980)
+#### [Get answers to common Excel questions](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980&t=1)** - [Narrator] Welcome to Microsoft Excel Quick Tips.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980&t=1)** - [Narrator] Welcome to [[Microsoft Excel]] Quick Tips.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980&t=3)** This is a collection of quick tips and tricks designed to give you some new skills, inspire new ways of working, or remind you of features that you may have forgotten about in Excel.
+> **[0:03](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980&t=3)** This is a collection of quick tips and tricks designed to give you some new skills, inspire new ways of working, or remind you of features that you may have forgotten about in [[Microsoft Excel|Excel]].
 >
 > **[0:12](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980&t=12)** Each self-contained movie is about one minute long, so you can jump in at any point and get some helpful insight in no time.
 >
@@ -116,7 +115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -125,12 +124,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fill in a series of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980)
+#### [Fill in a series of data](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980&t=1)** - [Narrator] You can use your mouse to create patterns of data to quickly fill Excel rows or columns.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980&t=1)** - [Narrator] You can use your mouse to create patterns of data to quickly fill [[Microsoft Excel|Excel]] rows or columns.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980&t=5)** Enter a value in a cell, (keyboard clicks) and hover your mouse over the bottom right-hand side of the cell.
 >
@@ -146,16 +144,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Quickly insert multiple rows and columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/quickly-insert-multiple-rows-and-columns?u=76281980)
+#### [Quickly insert multiple rows and columns](https://www.linkedin.com/learning/excel-quick-tips-2023/quickly-insert-multiple-rows-and-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/quickly-insert-multiple-rows-and-columns?u=76281980&t=0)** - [Narrator] You can quickly insert rows and columns in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/quickly-insert-multiple-rows-and-columns?u=76281980&t=0)** - [Narrator] You can quickly insert rows and columns in [[Microsoft Excel|Excel]].
 >
 > **[0:03](https://www.linkedin.com/learning/excel-quick-tips-2023/quickly-insert-multiple-rows-and-columns?u=76281980&t=3)** To insert a row, click the number of the row that you want to appear below the new row.
 >
@@ -175,8 +172,7 @@ created: 2026-05-02
 > **UI Navigation:** right-click (3), select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Insert links
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-links?u=76281980)
+#### [Insert links](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -208,12 +204,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and manage dropdown lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/create-and-manage-dropdown-lists?u=76281980)
+#### [Create and manage dropdown lists](https://www.linkedin.com/learning/excel-quick-tips-2023/create-and-manage-dropdown-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/create-and-manage-dropdown-lists?u=76281980&t=0)** - [Instructor] Dropdown lists are a great way to provide a menu of choices in a single cell of an Excel web sheet.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/create-and-manage-dropdown-lists?u=76281980&t=0)** - [Instructor] Dropdown lists are a great way to provide a menu of choices in a single cell of an [[Microsoft Excel|Excel]] web sheet.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-quick-tips-2023/create-and-manage-dropdown-lists?u=76281980&t=6)** To create a dropdown list, first, create a blank sheet in your workbook.
 >
@@ -235,7 +230,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/excel-quick-tips-2023/create-and-manage-dropdown-lists?u=76281980&t=47)** Go to the sheet where you want the dropdown list to appear and select the cell where you want the list to be.
 >
-> **[0:53](https://www.linkedin.com/learning/excel-quick-tips-2023/create-and-manage-dropdown-lists?u=76281980&t=53)** Under the Data ribbon, click Data Validation and under the Settings tab, select List from the Allow menu.
+> **[0:53](https://www.linkedin.com/learning/excel-quick-tips-2023/create-and-manage-dropdown-lists?u=76281980&t=53)** Under the Data ribbon, click [[Data Validation]] and under the Settings tab, select List from the Allow menu.
 >
 > **[1:05](https://www.linkedin.com/learning/excel-quick-tips-2023/create-and-manage-dropdown-lists?u=76281980&t=65)** Then in the source field, enter an equal sign, followed by the name of your list.
 >
@@ -253,13 +248,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Data Validation]] (1)
 > **UI Navigation:** dropdown (5), select the (3), click on (1), go to (1)
 > **CLI Commands:** make (6)
 > **Speakers:** - [instructor] (1)
 
-#### Summing rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/summing-rows?u=76281980)
+#### [Summing rows](https://www.linkedin.com/learning/excel-quick-tips-2023/summing-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -279,23 +273,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fill in contents with Flash Fill
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-contents-with-flash-fill?u=76281980)
+#### [Fill in contents with Flash Fill](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-contents-with-flash-fill?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-contents-with-flash-fill?u=76281980&t=1)** - [Instructor] Excel's Flash Fill feature lets you automatically fill in data when Excel detects a pattern.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-contents-with-flash-fill?u=76281980&t=1)** - [Instructor] [[Microsoft Excel|Excel]]'s Flash Fill feature lets you automatically fill in data when Excel detects a pattern.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-contents-with-flash-fill?u=76281980&t=5)** For example, in this spreadsheet say you need to copy the first and last names in column A into their own individual columns.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-contents-with-flash-fill?u=76281980&t=12)** Start by typing the first name into the top cell of the first name column.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-contents-with-flash-fill?u=76281980&t=17)** Next, select the cell beneath that one and under the Home tab in the ribbon, click Fill, Flash Fill and Excel fills in the rest of the column.
+> **[0:17](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-contents-with-flash-fill?u=76281980&t=17)** Next, select the cell beneath that one and under the Home tab in the ribbon, click Fill, Flash Fill and Excel fills in the [[Representational State Transfer (REST)|rest]] of the column.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-contents-with-flash-fill?u=76281980&t=30)** We'll repeat that process with the last name column by typing the last name in the top cell of that column.
 >
@@ -305,17 +297,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), feature (1), data (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quickly insert a total
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/quickly-insert-a-total?u=76281980)
+#### [Quickly insert a total](https://www.linkedin.com/learning/excel-quick-tips-2023/quickly-insert-a-total?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/quickly-insert-a-total?u=76281980&t=0)** - [Instructor] You can quickly total data or perform other calculations in an Excel sheet by using the total row option.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/quickly-insert-a-total?u=76281980&t=0)** - [Instructor] You can quickly total data or perform other calculations in an [[Microsoft Excel|Excel]] sheet by using the total row option.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-quick-tips-2023/quickly-insert-a-total?u=76281980&t=7)** Start by clicking anywhere inside the table where you want to create totals.
 >
@@ -335,12 +326,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extract part of a cell's contents
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/extract-part-of-a-cell-s-contents?u=76281980)
+#### [Extract part of a cell's contents](https://www.linkedin.com/learning/excel-quick-tips-2023/extract-part-of-a-cell-s-contents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/excel-quick-tips-2023/extract-part-of-a-cell-s-contents?u=76281980&t=48)** I'll press Enter, and the first five characters from the left of cell A1 now appear in the cell.
 >
-> **[0:54](https://www.linkedin.com/learning/excel-quick-tips-2023/extract-part-of-a-cell-s-contents?u=76281980&t=54)** To do the same thing with the rest of the serial numbers we can use Excel's flash fill feature and drag the lower right-hand corner of this cell down.
+> **[0:54](https://www.linkedin.com/learning/excel-quick-tips-2023/extract-part-of-a-cell-s-contents?u=76281980&t=54)** To do the same thing with the [[Representational State Transfer (REST)|rest]] of the serial numbers we can use [[Microsoft Excel|Excel]]'s flash fill feature and drag the lower right-hand corner of this cell down.
 >
 > **[1:09](https://www.linkedin.com/learning/excel-quick-tips-2023/extract-part-of-a-cell-s-contents?u=76281980&t=69)** Similarly, you can use the right function to extract content starting on the right side of a cell.
 >
@@ -394,7 +384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), feature (2), data (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** a12 (1), a22 (1), zip (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -406,8 +396,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Select specific rows or columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980)
+#### [Select specific rows or columns](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -425,12 +414,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
-#### Find named ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/find-named-ranges?u=76281980)
+#### [Find named ranges](https://www.linkedin.com/learning/excel-quick-tips-2023/find-named-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/find-named-ranges?u=76281980&t=0)** - [Instructor] In Microsoft Excel, you can apply names to ranges of cells, functions, constants or tables in order to make it easier to keep track of complex content in your workbooks.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/find-named-ranges?u=76281980&t=0)** - [Instructor] In [[Microsoft Excel]], you can apply names to ranges of cells, functions, constants or tables in order to make it easier to keep track of complex content in your workbooks.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-quick-tips-2023/find-named-ranges?u=76281980&t=10)** Once you've added names to your content it's very easy to track down ranges of cells and other content by name.
 >
@@ -449,8 +437,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change sort order
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/change-sort-order?u=76281980)
+#### [Change sort order](https://www.linkedin.com/learning/excel-quick-tips-2023/change-sort-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,18 +449,17 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/excel-quick-tips-2023/change-sort-order?u=76281980&t=19)** If I choose to continue with the current selection, it will sort only the column I have selected, leaving the other cells untouched which wouldn't be desirable in this case, but I can keep my data intact by allowing it to expand the selection and sort everything using the column I selected to determine the order.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-quick-tips-2023/change-sort-order?u=76281980&t=37)** So Excel recognized that the first row contained header labels so it wasn't included in the sort.
+> **[0:37](https://www.linkedin.com/learning/excel-quick-tips-2023/change-sort-order?u=76281980&t=37)** So [[Microsoft Excel|Excel]] recognized that the first row contained header labels so it wasn't included in the sort.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-quick-tips-2023/change-sort-order?u=76281980&t=41)** The column I selected is now in alphabetical order, and all of the data in the rows was sorted to stay with the items that moved in the first column.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/filter-data?u=76281980)
+#### [Filter data](https://www.linkedin.com/learning/excel-quick-tips-2023/filter-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -483,7 +469,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/excel-quick-tips-2023/filter-data?u=76281980&t=15)** A menu appears in each column, open the menu for the column that contains the data you want to filter out.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-quick-tips-2023/filter-data?u=76281980&t=20)** For example, I want to see only Rose where the address column contains the word London.
+> **[0:20](https://www.linkedin.com/learning/excel-quick-tips-2023/filter-data?u=76281980&t=20)** For example, I want to see only Rose where the address column contains the [[Microsoft Word|word]] London.
 >
 > **[0:26](https://www.linkedin.com/learning/excel-quick-tips-2023/filter-data?u=76281980&t=26)** I'll choose text filters and the contains option and I'll fill in the word London.
 >
@@ -493,14 +479,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (1), open the (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove duplicate entries
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/remove-duplicate-entries?u=76281980)
+#### [Remove duplicate entries](https://www.linkedin.com/learning/excel-quick-tips-2023/remove-duplicate-entries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -524,7 +509,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/excel-quick-tips-2023/remove-duplicate-entries?u=76281980&t=48)** Notice rows eight, 17, and 20 have the same number repeated but only rows 17 and 20 have the same name, while row eight has a different name.
 >
-> **[0:58](https://www.linkedin.com/learning/excel-quick-tips-2023/remove-duplicate-entries?u=76281980&t=58)** If we went in to remove all duplicates regardless of the name that appears next to them, we would choose the column A or phone number column and Excel would keep the first instance of the number and remove both duplicates below.
+> **[0:58](https://www.linkedin.com/learning/excel-quick-tips-2023/remove-duplicate-entries?u=76281980&t=58)** If we went in to remove all duplicates regardless of the name that appears next to them, we would choose the column A or phone number column and [[Microsoft Excel|Excel]] would keep the first instance of the number and remove both duplicates below.
 >
 > **[1:09](https://www.linkedin.com/learning/excel-quick-tips-2023/remove-duplicate-entries?u=76281980&t=69)** But if we want to keep the duplicate numbers that have a different name, we'll check both column A and B, in this case, phone number and name, and then click OK.
 >
@@ -538,19 +523,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Non-Speech:** (computer chimes) (2)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Convert formula values to plain numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/convert-formula-values-to-plain-numbers?u=76281980)
+#### [Convert formula values to plain numbers](https://www.linkedin.com/learning/excel-quick-tips-2023/convert-formula-values-to-plain-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/convert-formula-values-to-plain-numbers?u=76281980&t=1)** - [Instructor] In Excel, you can convert the contents of a cell that contains a formula so that the calculated value replaces the formula and won't be altered if other values in the spreadsheet change.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/convert-formula-values-to-plain-numbers?u=76281980&t=1)** - [Instructor] In [[Microsoft Excel|Excel]], you can convert the contents of a cell that contains a formula so that the calculated value replaces the formula and won't be altered if other values in the spreadsheet change.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-quick-tips-2023/convert-formula-values-to-plain-numbers?u=76281980&t=10)** Start by selecting the cell or range of cells that contain the formulas.
 >
@@ -564,17 +548,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transpose data from vertical to horizontal
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/transpose-data-from-vertical-to-horizontal?u=76281980)
+#### [Transpose data from vertical to horizontal](https://www.linkedin.com/learning/excel-quick-tips-2023/transpose-data-from-vertical-to-horizontal?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/transpose-data-from-vertical-to-horizontal?u=76281980&t=1)** - [Instructor] Occasionally, you may need to switch a horizontal row of cells to a vertical orientation or to transpose a vertical set of cells to horizontal.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-quick-tips-2023/transpose-data-from-vertical-to-horizontal?u=76281980&t=8)** You can accomplish this by using Excel's transpose function.
+> **[0:08](https://www.linkedin.com/learning/excel-quick-tips-2023/transpose-data-from-vertical-to-horizontal?u=76281980&t=8)** You can accomplish this by using [[Microsoft Excel|Excel]]'s transpose function.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-quick-tips-2023/transpose-data-from-vertical-to-horizontal?u=76281980&t=12)** In your sheet, determine the number of cells you want to transpose.
 >
@@ -608,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** enter (5), shift (3), transpose (2), control (2), command (2)
 > **UI Navigation:** select the (2), switch to (1)
 > **Speakers:** - [instructor] (1)
@@ -618,12 +601,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Text wrap
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980)
+#### [Text wrap](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=1)** - [Instructor] A common problem you'll run into in Excel is when data doesn't fit into the width of a cell.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=1)** - [Instructor] A common problem you'll run into in [[Microsoft Excel|Excel]] is when data doesn't fit into the width of a cell.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=5)** You'll either have this problem where the text is cut off when there's content in the adjacent column or the text runs all the way to the right across your spreadsheet.
 >
@@ -631,17 +613,16 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=30)** Ultimately, you can also make the cell width adjust to the width of its contents by placing the mouse cursor on the right border of the cell header and double-clicking.
 >
-> **[0:39](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=39)** Also, if you have so much text in the cell that is difficult to read, try adding line breaks by placing your cursor in the cell where you want the brake to occur and pressing Option + Enter on a Mac or Alt + Enter on Windows.
+> **[0:39](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980&t=39)** Also, if you have so much text in the cell that is difficult to read, try adding line breaks by placing your cursor in the cell where you want the brake to occur and pressing Option + Enter on a Mac or Alt + Enter on [[Windows]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [instructor] (1)
 
-#### Rotate and align cell data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/rotate-and-align-cell-data?u=76281980)
+#### [Rotate and align cell data](https://www.linkedin.com/learning/excel-quick-tips-2023/rotate-and-align-cell-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,8 +642,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Apply international currency formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/apply-international-currency-formats?u=76281980)
+#### [Apply international currency formats](https://www.linkedin.com/learning/excel-quick-tips-2023/apply-international-currency-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -682,8 +662,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (mouse clicking) (1)
 
-#### Apply cell styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/apply-cell-styles?u=76281980)
+#### [Apply cell styles](https://www.linkedin.com/learning/excel-quick-tips-2023/apply-cell-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,8 +690,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Page options
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/page-options?u=76281980)
+#### [Page options](https://www.linkedin.com/learning/excel-quick-tips-2023/page-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,12 +704,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### Adjust row height and column width
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/adjust-row-height-and-column-width?u=76281980)
+#### [Adjust row height and column width](https://www.linkedin.com/learning/excel-quick-tips-2023/adjust-row-height-and-column-width?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,8 +727,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add headers and footers
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/add-headers-and-footers?u=76281980)
+#### [Add headers and footers](https://www.linkedin.com/learning/excel-quick-tips-2023/add-headers-and-footers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,8 +754,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Align cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/align-cells?u=76281980)
+#### [Align cells](https://www.linkedin.com/learning/excel-quick-tips-2023/align-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,12 +772,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a watermark
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/add-a-watermark?u=76281980)
+#### [Add a watermark](https://www.linkedin.com/learning/excel-quick-tips-2023/add-a-watermark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/add-a-watermark?u=76281980&t=0)** - [Educator] You can add an image to an Excel file to act as a watermark when your sheets are printed on paper.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/add-a-watermark?u=76281980&t=0)** - [Educator] You can add an image to an [[Microsoft Excel|Excel]] file to act as a watermark when your sheets are printed on paper.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-quick-tips-2023/add-a-watermark?u=76281980&t=5)** With your spreadsheet open in Page Layout View, go to the Insert tab in the ribbon to the Text Menu and choose Header and Footer.
 >
@@ -829,17 +802,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Analogies:** picture (5)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [educator] (1)
 
-#### Conditional formatting by cell contents
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/conditional-formatting-by-cell-contents?u=76281980)
+#### [Conditional formatting by cell contents](https://www.linkedin.com/learning/excel-quick-tips-2023/conditional-formatting-by-cell-contents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/conditional-formatting-by-cell-contents?u=76281980&t=0)** - [Instructor] Applying conditional formatting to cells in Excel spreadsheets allows you to highlight certain cells based on their contents, making it easy to quickly identify certain data throughout your sheet without rearranging its contents.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/conditional-formatting-by-cell-contents?u=76281980&t=0)** - [Instructor] Applying conditional formatting to cells in [[Microsoft Excel|Excel]] spreadsheets allows you to highlight certain cells based on their contents, making it easy to quickly identify certain data throughout your sheet without rearranging its contents.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-quick-tips-2023/conditional-formatting-by-cell-contents?u=76281980&t=12)** In this example, we have a spreadsheet containing a hotel's customer information.
 >
@@ -873,19 +845,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (1)
 > **Versions:** 20.5 (1)
 > **UI Navigation:** in the menu (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy and paste cell formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980)
+#### [Copy and paste cell formatting](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980&t=1)** - [Instructor] Excel's format Painter Tool lets you quickly copy the formatting of cells and apply it to other cells.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980&t=1)** - [Instructor] [[Microsoft Excel|Excel]]'s format Painter Tool lets you quickly copy the formatting of cells and apply it to other cells.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-quick-tips-2023/copy-and-paste-cell-formatting?u=76281980&t=6)** With a few clicks you can copy and paste formatting like font color, font size, border style, and so on.
 >
@@ -921,14 +892,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merge cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/merge-cells?u=76281980)
+#### [Merge cells](https://www.linkedin.com/learning/excel-quick-tips-2023/merge-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/merge-cells?u=76281980&t=1)** - [Instructor] You can merge cells together to make data in only one cell look a little bit better.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-quick-tips-2023/merge-cells?u=76281980&t=5)** For example, let's say we wanted to center the word Rates here at the top of the sheet.
+> **[0:05](https://www.linkedin.com/learning/excel-quick-tips-2023/merge-cells?u=76281980&t=5)** For example, let's say we wanted to center the [[Microsoft Word|word]] Rates here at the top of the sheet.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-quick-tips-2023/merge-cells?u=76281980&t=10)** Click and drag to select all the cells you wish to merge, and then in the Home ribbon, Click Merge & Center.
 >
@@ -946,7 +916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Warnings:** be aware (1), warning (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -957,12 +927,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change magnification
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/change-magnification?u=76281980)
+#### [Change magnification](https://www.linkedin.com/learning/excel-quick-tips-2023/change-magnification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/change-magnification?u=76281980&t=0)** - [Narrator] If the text in your spreadsheet is too small to read, you can change the Zoom.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/change-magnification?u=76281980&t=0)** - [Narrator] If the text in your spreadsheet is too small to read, you can change the [[Zoom]].
 >
 > **[0:04](https://www.linkedin.com/learning/excel-quick-tips-2023/change-magnification?u=76281980&t=4)** To get a closer look. In the view ribbon, click the Zoom button and set the percentage you want to get a closer look at your sheet.
 >
@@ -972,12 +941,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (7), data (1)
+> **Frameworks & Libraries:** [[Zoom]] (7)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Freeze panes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/freeze-panes?u=76281980)
+#### [Freeze panes](https://www.linkedin.com/learning/excel-quick-tips-2023/freeze-panes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1001,13 +969,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (1), select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hide and unhide columns and rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/hide-and-unhide-columns-and-rows?u=76281980)
+#### [Hide and unhide columns and rows](https://www.linkedin.com/learning/excel-quick-tips-2023/hide-and-unhide-columns-and-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1025,16 +991,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
-#### Show and hide grouped data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/show-and-hide-grouped-data?u=76281980)
+#### [Show and hide grouped data](https://www.linkedin.com/learning/excel-quick-tips-2023/show-and-hide-grouped-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/show-and-hide-grouped-data?u=76281980&t=0)** - [Instructor] In Excel, it can often be useful to show and hide groups of data, especially when dealing with spreadsheets containing a lot of data.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/show-and-hide-grouped-data?u=76281980&t=0)** - [Instructor] In [[Microsoft Excel|Excel]], it can often be useful to show and hide groups of data, especially when dealing with spreadsheets containing a lot of data.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-quick-tips-2023/show-and-hide-grouped-data?u=76281980&t=8)** Being able to collapse and expand groups makes it easier to see other sections and to get a sense of the general contents of the spreadsheet.
 >
@@ -1056,7 +1020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1065,12 +1029,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Insert and respond to comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-and-respond-to-comments?u=76281980)
+#### [Insert and respond to comments](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-and-respond-to-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-and-respond-to-comments?u=76281980&t=0)** - [Instructor] You and the people you collaborate with can insert comments directly into cells in Excel spreadsheets, letting you have discussions and make decisions without having to use any other messaging platforms.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-and-respond-to-comments?u=76281980&t=0)** - [Instructor] You and the people you collaborate with can insert comments directly into cells in [[Microsoft Excel|Excel]] spreadsheets, letting you have discussions and make decisions without having to use any other [[Messaging Platforms]].
 >
 > **[0:11](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-and-respond-to-comments?u=76281980&t=11)** To add a comment, right click on a cell and choose New Comment.
 >
@@ -1093,12 +1056,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaborate on an Excel file
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/collaborate-on-an-excel-file?u=76281980)
+#### [Collaborate on an Excel file](https://www.linkedin.com/learning/excel-quick-tips-2023/collaborate-on-an-excel-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/collaborate-on-an-excel-file?u=76281980&t=1)** - [Instructor] You can co-author your Excel files with others if you upload your file to your OneDrive account.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/collaborate-on-an-excel-file?u=76281980&t=1)** - [Instructor] You can co-author your [[Microsoft Excel|Excel]] files with others if you upload your file to your [[Microsoft OneDrive|OneDrive]] account.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-quick-tips-2023/collaborate-on-an-excel-file?u=76281980&t=5)** The advantage of editing online is that each contributor can see what other contributors are doing to the document in real time.
 >
@@ -1129,12 +1091,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Highlight portions of a spreadsheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/highlight-portions-of-a-spreadsheet?u=76281980)
+#### [Highlight portions of a spreadsheet](https://www.linkedin.com/learning/excel-quick-tips-2023/highlight-portions-of-a-spreadsheet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/highlight-portions-of-a-spreadsheet?u=76281980&t=1)** - [Instructor] Excel doesn't include a tool that allows you to highlight cells in your spreadsheets.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/highlight-portions-of-a-spreadsheet?u=76281980&t=1)** - [Instructor] [[Microsoft Excel|Excel]] doesn't include a tool that allows you to highlight cells in your spreadsheets.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-quick-tips-2023/highlight-portions-of-a-spreadsheet?u=76281980&t=4)** However, you can mimic a highlight by creating a custom cell style that you can apply to cells to which you want to draw attention.
 >
@@ -1162,12 +1123,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Draw and mark up spreadsheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/draw-and-mark-up-spreadsheets?u=76281980)
+#### [Draw and mark up spreadsheets](https://www.linkedin.com/learning/excel-quick-tips-2023/draw-and-mark-up-spreadsheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/draw-and-mark-up-spreadsheets?u=76281980&t=1)** - [Instructor] If you're using Excel on a touch-enabled device such as a Microsoft Surface computer, you can use Excel's built-in drawing tools to mark up and draw directly on your spreadsheets.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/draw-and-mark-up-spreadsheets?u=76281980&t=1)** - [Instructor] If you're using [[Microsoft Excel|Excel]] on a touch-enabled device such as a [[Microsoft]] Surface computer, you can use Excel's built-in drawing tools to mark up and draw directly on your spreadsheets.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-quick-tips-2023/draw-and-mark-up-spreadsheets?u=76281980&t=9)** Start by selecting the Draw tab in the ribbon and select one of the drawing tools found here.
 >
@@ -1190,12 +1150,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Encrypt a workbook with a password
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/encrypt-a-workbook-with-a-password?u=76281980)
+#### [Encrypt a workbook with a password](https://www.linkedin.com/learning/excel-quick-tips-2023/encrypt-a-workbook-with-a-password?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/encrypt-a-workbook-with-a-password?u=76281980&t=0)** - [Instructor] Protecting an Excel file with a password is a good way to prevent unauthorized people from accessing the data in your workbook.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/encrypt-a-workbook-with-a-password?u=76281980&t=0)** - [Instructor] Protecting an [[Microsoft Excel|Excel]] file with a password is a good way to prevent unauthorized people from accessing the data in your workbook.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-quick-tips-2023/encrypt-a-workbook-with-a-password?u=76281980&t=7)** To password Protect an Excel document, go to File, Info.
 >
@@ -1215,18 +1174,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (1), open the (1)
 > **Warnings:** note that (1), be aware (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restrict editing
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/restrict-editing?u=76281980)
+#### [Restrict editing](https://www.linkedin.com/learning/excel-quick-tips-2023/restrict-editing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/restrict-editing?u=76281980&t=1)** - [Instructor] In Excel, you can set a password to limit editing or modifying a file to only authorized users.
+> **[0:01](https://www.linkedin.com/learning/excel-quick-tips-2023/restrict-editing?u=76281980&t=1)** - [Instructor] In [[Microsoft Excel|Excel]], you can set a password to limit editing or modifying a file to only authorized users.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-quick-tips-2023/restrict-editing?u=76281980&t=7)** Start by opening the file and choosing File, Save As.
 >
@@ -1265,12 +1223,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save as PDF or CSV
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/save-as-pdf-or-csv?u=76281980)
+#### [Save as PDF or CSV](https://www.linkedin.com/learning/excel-quick-tips-2023/save-as-pdf-or-csv?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/save-as-pdf-or-csv?u=76281980&t=0)** - [Instructor] You can easily save your Excel spreadsheet as a PDF file by clicking File and choosing Export.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/save-as-pdf-or-csv?u=76281980&t=0)** - [Instructor] You can easily save your [[Microsoft Excel|Excel]] spreadsheet as a PDF file by clicking File and choosing Export.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-quick-tips-2023/save-as-pdf-or-csv?u=76281980&t=9)** Click Create PDF
 >
@@ -1286,13 +1243,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** pdf (3), csv (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inspect a spreadsheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/inspect-a-spreadsheet?u=76281980)
+#### [Inspect a spreadsheet](https://www.linkedin.com/learning/excel-quick-tips-2023/inspect-a-spreadsheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,15 +1266,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check for compatibility issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/check-for-compatibility-issues?u=76281980)
+#### [Check for compatibility issues](https://www.linkedin.com/learning/excel-quick-tips-2023/check-for-compatibility-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/check-for-compatibility-issues?u=76281980&t=0)** - [Instructor] If you ever need to share an Excel document with people who might be using an older version of Excel, it's a good idea to run your workbook through the compatibility checker to see if you're using any features that aren't supported by previous versions.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/check-for-compatibility-issues?u=76281980&t=0)** - [Instructor] If you ever need to share an [[Microsoft Excel|Excel]] document with people who might be using an older version of Excel, it's a good idea to run your workbook through the compatibility checker to see if you're using any features that aren't supported by previous versions.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-quick-tips-2023/check-for-compatibility-issues?u=76281980&t=12)** With your file open, go to file, info.
 >
@@ -1326,18 +1280,17 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/excel-quick-tips-2023/check-for-compatibility-issues?u=76281980&t=24)** This opens the compatibility checker window and you'll see a list of any issues that might be a problem and which versions of Excel will be affected.
 >
-> **[0:33](https://www.linkedin.com/learning/excel-quick-tips-2023/check-for-compatibility-issues?u=76281980&t=33)** By default, this check's versions of Excel going back through Office 97.
+> **[0:33](https://www.linkedin.com/learning/excel-quick-tips-2023/check-for-compatibility-issues?u=76281980&t=33)** By default, this check's versions of Excel going back through [[Microsoft Office|Office]] 97.
 >
 > **[0:37](https://www.linkedin.com/learning/excel-quick-tips-2023/check-for-compatibility-issues?u=76281980&t=37)** If you know that your workbook will only be viewed in certain versions of Excel, you can refine the compatibility display by clicking the select versions to show menu and deselecting the versions you don't need to see.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add and reference worksheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/add-and-reference-worksheets?u=76281980)
+#### [Add and reference worksheets](https://www.linkedin.com/learning/excel-quick-tips-2023/add-and-reference-worksheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,20 +1304,19 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/excel-quick-tips-2023/add-and-reference-worksheets?u=76281980&t=19)** (keyboard clicks) Now you can pull the content from the new sheet into any other sheet in your workbook by typing an equal sign in a cell, followed by the name of the sheet, (keyboard clicks) followed by an exclamation mark and the cell number from that sheet that you're pulling the content from.
 >
-> **[0:42](https://www.linkedin.com/learning/excel-quick-tips-2023/add-and-reference-worksheets?u=76281980&t=42)** Note that if the name of the sheet is more than one word, you need to put the name between single quotation marks.
+> **[0:42](https://www.linkedin.com/learning/excel-quick-tips-2023/add-and-reference-worksheets?u=76281980&t=42)** Note that if the name of the sheet is more than one [[Microsoft Word|word]], you need to put the name between single quotation marks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lock cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/lock-cells?u=76281980)
+#### [Lock cells](https://www.linkedin.com/learning/excel-quick-tips-2023/lock-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/lock-cells?u=76281980&t=0)** - [Educator] You can protect a worksheet in an Excel document by going to the Review ribbon and choosing Protect Sheet.
+> **[0:00](https://www.linkedin.com/learning/excel-quick-tips-2023/lock-cells?u=76281980&t=0)** - [Educator] You can protect a worksheet in an [[Microsoft Excel|Excel]] document by going to the Review ribbon and choosing Protect Sheet.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-quick-tips-2023/lock-cells?u=76281980&t=8)** In the window that opens, make sure Protect Worksheet and Contents of Locked Cells is checked and click OK.
 >
@@ -1372,7 +1324,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/excel-quick-tips-2023/lock-cells?u=76281980&t=19)** If you try to change a cell, you'll see this message telling you that the sheet is protected.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-quick-tips-2023/lock-cells?u=76281980&t=25)** However, it's possible that you'll want to keep some of the cells unlocked so you can make changes while keeping the rest of the cells locked and protected.
+> **[0:25](https://www.linkedin.com/learning/excel-quick-tips-2023/lock-cells?u=76281980&t=25)** However, it's possible that you'll want to keep some of the cells unlocked so you can make changes while keeping the [[Representational State Transfer (REST)|rest]] of the cells locked and protected.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-quick-tips-2023/lock-cells?u=76281980&t=33)** To do so, first go to the Review tab and unprotect the sheet.
 >

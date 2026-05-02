@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security and Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980)
+#### [Security and Django](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,68 +95,65 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=6)** Have you ever wanted to know how two-factor authentication works, and how you can fully encrypt user data?
 >
-> **[0:12](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=12)** In this course, we work with a prebuilt Django REST API and add code to it so it is more secure and safe from cyber attacks.
+> **[0:12](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=12)** In this course, we work with a prebuilt [[Django]] [[Representational State Transfer (REST)|REST]] API and add code to it so it is more secure and safe from cyber attacks.
 >
-> **[0:21](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=21)** You will use Python and Django and its cache layer with Redis and Celery background worker.
+> **[0:21](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=21)** You will use [[Python (Programming Language)|Python]] and Django and its cache layer with [[Redis]] and Celery background worker.
 >
-> **[0:27](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=27)** You will create audit logs for compliance and two factor auth codes using Twilio's API.
+> **[0:27](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=27)** You will create audit logs for compliance and two factor auth codes using [[Twilio]]'s API.
 >
 > **[0:33](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=33)** On top of that, you will be able to encrypt user data on the server and within zero knowledge client side encryption method.
 >
-> **[0:42](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=42)** Hi, I'm Rudolf software developer for over 10 years with experience in creating Django WebApps and increasing their scalability and security.
+> **[0:42](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=42)** Hi, I'm Rudolf software developer for over 10 years with experience in creating Django WebApps and increasing their [[Scalability]] and security.
 >
-> **[0:51](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=51)** Join me in this LinkedIn course where we increase the security of a Django REST API WebApp.
+> **[0:51](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980&t=51)** Join me in this [[LinkedIn]] course where we increase the security of a Django REST API WebApp.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), [[Security]] (3), api (3), data (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Django]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1), [[Redis]] (1), [[Twilio]] (1)
 > **Env Vars:** api (3), rest (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/securing-django-applications/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-django-applications/what-you-should-know?u=76281980&t=0)** - [Narrator] Here's what you should know for the course.
 >
-> **[0:03](https://www.linkedin.com/learning/securing-django-applications/what-you-should-know?u=76281980&t=3)** You should know some Python, you can check out this LinkedIn learning course to learn more about the Python programming language.
+> **[0:03](https://www.linkedin.com/learning/securing-django-applications/what-you-should-know?u=76281980&t=3)** You should know some [[Python (Programming Language)|Python]], you can check out this [[LinkedIn]] learning course to learn more about the Python programming language.
 >
-> **[0:10](https://www.linkedin.com/learning/securing-django-applications/what-you-should-know?u=76281980&t=10)** You should also know how to use the Django web app framework and you can learn some of the basics of cyber security and encryption from another LinkedIn learning course, Cyber Security for IT Professionals.
+> **[0:10](https://www.linkedin.com/learning/securing-django-applications/what-you-should-know?u=76281980&t=10)** You should also know how to use the [[Django]] web app framework and you can learn some of the basics of cyber security and encryption from another LinkedIn learning course, Cyber Security for IT Professionals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), [[Security]] (2), [[Programming]] (1), [[Django]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), [[Django]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [narrator] (1)
 
-#### What's included in the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/what-s-included-in-the-project?u=76281980)
+#### [What's included in the project](https://www.linkedin.com/learning/securing-django-applications/what-s-included-in-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/what-s-included-in-the-project?u=76281980&t=0)** - [Narrator] What's included in the project is a Django web app for booking a travel tour experience.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/what-s-included-in-the-project?u=76281980&t=0)** - [Narrator] What's included in the project is a [[Django]] web app for booking a travel tour experience.
 >
-> **[0:06](https://www.linkedin.com/learning/securing-django-applications/what-s-included-in-the-project?u=76281980&t=6)** There is also a Django REST API for the web app and there is sample data for the SQL database.
+> **[0:06](https://www.linkedin.com/learning/securing-django-applications/what-s-included-in-the-project?u=76281980&t=6)** There is also a Django [[Representational State Transfer (REST)|REST]] API for the web app and there is sample data for the [[SQL]] database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), web (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), data (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
 > **Env Vars:** rest (1), api (1), sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Installing the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980)
+#### [Installing the project](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980&t=0)** - [Instructor] To install the project, we first have to install the Redis server, and the Apache utils package, which contains Apache Benchmark.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980&t=0)** - [Instructor] To install the project, we first have to install the [[Redis]] server, and the Apache utils package, which contains Apache Benchmark.
 >
-> **[0:16](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980&t=16)** Then we have to create a virtual environment for Python, where we're using Python 3, we're creating the env folder and then we have to source the activation script so that we're in this Python environment and then we have to install the dependencies of the project.
+> **[0:16](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980&t=16)** Then we have to create a virtual environment for [[Python (Programming Language)|Python]], where we're using Python 3, we're creating the env folder and then we have to source the activation script so that we're in this Python environment and then we have to install the dependencies of the project.
 >
-> **[0:49](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980&t=49)** And now you should be able to run the Django Code.
+> **[0:49](https://www.linkedin.com/learning/securing-django-applications/installing-the-project?u=76281980&t=49)** And now you should be able to run the [[Django]] Code.
 
 > [!info]- Semantic Content
 >
@@ -167,12 +163,11 @@ created: 2026-05-02
 > **Versions:** python 3 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running the server
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/running-the-server?u=76281980)
+#### [Running the server](https://www.linkedin.com/learning/securing-django-applications/running-the-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/running-the-server?u=76281980&t=0)** - [Instructor] To run the Django server, we have to activate the virtual environment.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/running-the-server?u=76281980&t=0)** - [Instructor] To run the [[Django]] server, we have to activate the virtual environment.
 >
 > **[0:07](https://www.linkedin.com/learning/securing-django-applications/running-the-server?u=76281980&t=7)** Then we have to go into demo folder, and then we have to run the migration script, and then we have to run the server.
 
@@ -186,12 +181,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up per-object permissions in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980)
+#### [Setting up per-object permissions in Django](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980&t=0)** - When you have data models in Django, the permissions to add, modify or delete that data depends on the logic you implement in your views.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980&t=0)** - When you have data models in [[Django]], the permissions to add, modify or delete that data depends on the logic you implement in your views.
 >
 > **[0:08](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980&t=8)** Without fine grain security checks, any user could access another user's data and even modify it if the security check is poorly coded.
 >
@@ -205,12 +199,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (2), [[Django]] (1)
+> **Frameworks & Libraries:** [[Django]] (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - when (1)
 
-#### Enabling per-object permissions in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/enabling-per-object-permissions-in-django?u=76281980)
+#### [Enabling per-object permissions in Django](https://www.linkedin.com/learning/securing-django-applications/enabling-per-object-permissions-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,7 +229,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/securing-django-applications/enabling-per-object-permissions-in-django?u=76281980&t=98)** And now we're going to assign the per object permission by specifying the instance as well.
 >
-> **[1:50](https://www.linkedin.com/learning/securing-django-applications/enabling-per-object-permissions-in-django?u=76281980&t=110)** Now we can go to the django shell.
+> **[1:50](https://www.linkedin.com/learning/securing-django-applications/enabling-per-object-permissions-in-django?u=76281980&t=110)** Now we can go to the [[Django]] shell.
 >
 > **[1:57](https://www.linkedin.com/learning/securing-django-applications/enabling-per-object-permissions-in-django?u=76281980&t=117)** And from there we can import time zone.
 >
@@ -262,14 +255,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Django]] (2)
+> **Frameworks & Libraries:** [[Django]] (2)
 > **Env Vars:** api (2)
 > **UI Navigation:** scroll down (1), go to (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit test for per-object permissions in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-per-object-permissions-in-django?u=76281980)
+#### [Unit test for per-object permissions in Django](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-per-object-permissions-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,7 +313,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** auth_user (1), auth_header (1)
 > **Env Vars:** api (1)
@@ -329,12 +320,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a group permissions model
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980)
+#### [Creating a group permissions model](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=0)** - Using django Guardian, you can split read write modification, delete permissions into different roles groups.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=0)** - Using [[Django]] Guardian, you can split read write modification, delete permissions into different roles groups.
 >
 > **[0:07](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=7)** To make sure groups were correctly, you have to create them in a data migration, we're going to be creating two groups.
 >
@@ -358,7 +348,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=107)** And for the accounts manager, they will have permission to change a package and view a package
 >
-> **[2:05](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=125)** customer support will be helping customers so they need permission to view the package
+> **[2:05](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=125)** [[Customer Support]] will be helping customers so they need permission to view the package
 >
 > **[2:20](https://www.linkedin.com/learning/securing-django-applications/creating-a-group-permissions-model?u=76281980&t=140)** and permission to change your booking that was created by a customer.
 >
@@ -392,14 +382,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Django]] (2), [[Customer Support]] (1), api (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Customer Support]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** api (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - using (1)
 
-#### Unit test for access control and group permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980)
+#### [Unit test for access control and group permissions](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,7 +396,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=5)** Before we get started, Let's take a look at this sign permission, shortcut function we used.
 >
-> **[0:12](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=12)** As you can see the function imports the group model and then imports the assigned permission function from django guardian.
+> **[0:12](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=12)** As you can see the function imports the group model and then imports the assigned permission function from [[Django]] guardian.
 >
 > **[0:20](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=20)** And then for every group and the permissions, we are getting the group model instance.
 >
@@ -415,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=33)** Next, we have a function that checks whether a given group has permission to access a given object.
 >
-> **[0:41](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=41)** We fetch the group model instance.
+> **[0:41](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=41)** We [[Fetch]] the group model instance.
 >
 > **[0:44](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=44)** And then we use the get objects for group django guardian shortcut to check whether out of the set of all objects that this group has permission to whether the given object is in that set.
 >
@@ -427,7 +416,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=81)** So let's create another test here.
 >
-> **[1:26](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=86)** And this test will be to test the customer support group permissions.
+> **[1:26](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=86)** And this test will be to test the [[Customer Support]] group permissions.
 >
 > **[1:38](https://www.linkedin.com/learning/securing-django-applications/unit-test-for-access-control-and-group-permissions?u=76281980&t=98)** We're going to create a booking.
 >
@@ -459,11 +448,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (4), [[Django]] (3), next (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (4), [[Django]] (3), [[Fetch]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding activity logs for auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/adding-activity-logs-for-auditing?u=76281980)
+#### [Adding activity logs for auditing](https://www.linkedin.com/learning/securing-django-applications/adding-activity-logs-for-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,18 +491,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), data (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting objects in an audit/compliance-compatible way
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980)
+#### [Deleting objects in an audit/compliance-compatible way](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=0)** - [Instructor] When deleting data in a Django app we need to be aware of compliance requirements and whether the data can be truly deleted.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=0)** - [Instructor] When deleting data in a [[Django]] app we need to be aware of compliance requirements and whether the data can be truly deleted.
 >
 > **[0:07](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=7)** We create a new data model, which will store a copy of the deleted data.
 >
@@ -528,7 +514,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=47)** we're going to be archiving it, and storing it in the DeletedData model.
 >
-> **[0:57](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=57)** Now we do this by using DJango serializers and we're going to store a JSON copy of this instance that was deleted, and then we're going to store it in the DeletedData objects.
+> **[0:57](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=57)** Now we do this by using DJango serializers and we're going to store a [[JSON]] copy of this instance that was deleted, and then we're going to store it in the DeletedData objects.
 >
 > **[1:14](https://www.linkedin.com/learning/securing-django-applications/deleting-objects-in-an-audit-compliance-compatible-way?u=76281980&t=74)** So the model type is booking.
 >
@@ -570,7 +556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Django]] (2), [[JSON]] (1), database (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[JSON]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** json (1)
 > **Definitions:** is a  (1)
@@ -582,8 +568,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using ApacheBench to simulate a flood of requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980)
+#### [Using ApacheBench to simulate a flood of requests](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -591,7 +576,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=8)** However, it can be used to test any other web server too.
 >
-> **[0:12](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=12)** In one terminal, we're going to be running the Django web server.
+> **[0:12](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=12)** In one terminal, we're going to be running the [[Django]] web server.
 >
 > **[0:21](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=21)** In another terminal, we're going to be running AB, which is the command to run Apache Bench.
 >
@@ -603,9 +588,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=56)** So it looks like we can handle a lot of requests when using the Django web server.
 >
-> **[1:03](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=63)** Let's try that again with more requests and this time pointing to our REST API URL.
+> **[1:03](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=63)** Let's try that again with more requests and this time pointing to our [[Representational State Transfer (REST)|REST]] API URL.
 >
-> **[1:10](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=70)** Instead, so he used the T flag to set the content type to JSON.
+> **[1:10](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=70)** Instead, so he used the T flag to set the content type to [[JSON]].
 >
 > **[1:18](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980&t=78)** We're going to make 200 requests and we are going to be hitting the API V1 public packages endpoint.
 >
@@ -671,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), web (5), data (5), [[Django]] (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Django]] (3), [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (6), json (3), rest (1), url (1), http (1)
 > **CLI Commands:** make (4), apache (3)
 > **Tools:** terminal (2)
@@ -679,8 +664,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to ensure actions happen only once
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/how-to-ensure-actions-happen-only-once?u=76281980)
+#### [How to ensure actions happen only once](https://www.linkedin.com/learning/securing-django-applications/how-to-ensure-actions-happen-only-once?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -708,21 +692,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), hit (1), web (1), concurrent (1), data (1)
 > **CLI Commands:** make (1), apache (1)
 > **Env Vars:** api (2)
 > **Tools:** terminal (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit testing idempotent actions that should only happen once
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/unit-testing-idempotent-actions-that-should-only-happen-once?u=76281980)
+#### [Unit testing idempotent actions that should only happen once](https://www.linkedin.com/learning/securing-django-applications/unit-testing-idempotent-actions-that-should-only-happen-once?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-django-applications/unit-testing-idempotent-actions-that-should-only-happen-once?u=76281980&t=0)** - [Instructor] Let's open the test file and write a test case for the cooldown throttling period.
 >
-> **[0:05](https://www.linkedin.com/learning/securing-django-applications/unit-testing-idempotent-actions-that-should-only-happen-once?u=76281980&t=5)** We already have the Django cache imported, and we have our package create view test case with some sample data.
+> **[0:05](https://www.linkedin.com/learning/securing-django-applications/unit-testing-idempotent-actions-that-should-only-happen-once?u=76281980&t=5)** We already have the [[Django]] cache imported, and we have our package create view test case with some sample data.
 >
 > **[0:14](https://www.linkedin.com/learning/securing-django-applications/unit-testing-idempotent-actions-that-should-only-happen-once?u=76281980&t=14)** So before we start testing, we need to setup what are the expectations here, which is that after we make a request, we're going to be seeing that one additional object was created.
 >
@@ -746,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Django]] (1), database (1)
+> **Frameworks & Libraries:** [[Django]] (1)
 > **CLI Commands:** make (7)
 > **Prerequisites:** before we start (1), setup (1)
 > **Tools:** terminal (1)
@@ -754,8 +736,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using background queues to throttle floods of requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/using-background-queues-to-throttle-floods-of-requests?u=76281980)
+#### [Using background queues to throttle floods of requests](https://www.linkedin.com/learning/securing-django-applications/using-background-queues-to-throttle-floods-of-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,12 +800,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), hit (1), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - in (1)
 
-#### Unit testing background queue flood prevention
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/unit-testing-background-queue-flood-prevention?u=76281980)
+#### [Unit testing background queue flood prevention](https://www.linkedin.com/learning/securing-django-applications/unit-testing-background-queue-flood-prevention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -850,7 +829,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/securing-django-applications/unit-testing-background-queue-flood-prevention?u=76281980&t=121)** So when we call a create comment right away, the user won't be able to create this comment and it will be retried later.
 >
-> **[2:10](https://www.linkedin.com/learning/securing-django-applications/unit-testing-background-queue-flood-prevention?u=76281980&t=130)** Now in the terminal, we have to make sure that Redis server is running.
+> **[2:10](https://www.linkedin.com/learning/securing-django-applications/unit-testing-background-queue-flood-prevention?u=76281980&t=130)** Now in the terminal, we have to make sure that [[Redis]] server is running.
 >
 > **[2:16](https://www.linkedin.com/learning/securing-django-applications/unit-testing-background-queue-flood-prevention?u=76281980&t=136)** It looks like it is.
 >
@@ -858,7 +837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Redis]] (1)
+> **Frameworks & Libraries:** [[Redis]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** ugc (1)
 > **Tools:** terminal (1)
@@ -871,8 +850,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Per-field encryption of data in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980)
+#### [Per-field encryption of data in Django](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -888,9 +866,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980&t=47)** Going to be using the encryption key with that and then calling encrypt on encoded value.
 >
-> **[0:54](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980&t=54)** So Fernet is one encryption algorithm provided by the Python cryptography library.
+> **[0:54](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980&t=54)** So Fernet is one encryption algorithm provided by the [[Python (Programming Language)|Python]] [[Cryptography]] library.
 >
-> **[1:04](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980&t=64)** There are other algorithms that you can choose but this one is the simplest and easiest to use for this case.
+> **[1:04](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980&t=64)** There are other [[Algorithms]] that you can choose but this one is the simplest and easiest to use for this case.
 >
 > **[1:12](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980&t=72)** And now for decryption, we're going to be again using Fernet with our same encryption key so this is symmetric encryption where we're using the same key or decrypting the value and then we have to encode it as UTF8.
 >
@@ -904,14 +882,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Python (Programming Language)|Python]] (2), [[Security]] (1), data (1), [[Cryptography]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Cryptography]] (1), [[Algorithms]] (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** db_value (1), get_prep (1)
 > **Env Vars:** utf8 (1)
 > **Speakers:** - to (1)
 
-#### Unit testing per-field encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980)
+#### [Unit testing per-field encryption](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -921,11 +898,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=26)** and the password confirmation code is our secret code right here.
 >
-> **[0:34](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=34)** We are going to make sure that the payment passport confirmation is equal to the secret code, and this field is in memory, so it's unencrypted, and then we're going to be using the database connection cursor, so that we can make a direct SQL query
+> **[0:34](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=34)** We are going to make sure that the payment passport confirmation is equal to the secret code, and this field is in memory, so it's unencrypted, and then we're going to be using the database connection cursor, so that we can make a direct [[SQL]] query
 >
 > **[1:14](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=74)** from the model and select that field and make sure it is encrypted.
 >
-> **[1:33](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=93)** And then we get the result of this query using fetch one.
+> **[1:33](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=93)** And then we get the result of this query using [[Fetch]] one.
 >
 > **[1:41](https://www.linkedin.com/learning/securing-django-applications/unit-testing-per-field-encryption?u=76281980&t=101)** We can print the encrypted string, and then we can make sure that it's not equal to our secret code, because it is encrypted, and we also in to test the deserialization, and for that we get the object from the database through Djangos ORM.
 >
@@ -939,24 +916,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[SQL]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** abc123 (1), sql (1), orm (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [tutor] (1)
 
-#### Zero knowledge encryption of data in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980)
+#### [Zero knowledge encryption of data in Django](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=0)** - [Narrator] Before we get into the code.
 >
-> **[0:02](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=2)** Remember that encryption and cryptography and security are tough subjects to be an expert at.
+> **[0:02](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=2)** Remember that encryption and [[Cryptography]] and security are tough subjects to be an expert at.
 >
-> **[0:08](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=8)** For example, spider Oak uses multiple sets of encryption algorithms for their zero knowledge storage, while we are only using one algorithm.
+> **[0:08](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=8)** For example, spider Oak uses multiple sets of encryption [[Algorithms]] for their zero knowledge storage, while we are only using one algorithm.
 >
-> **[0:18](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=18)** If you are asked to use the code, we write here in a production setting, hire a cybersecurity expert to audit the code.
+> **[0:18](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=18)** If you are asked to use the code, we write here in a production setting, hire a [[Cybersecurity]] expert to audit the code.
 >
 > **[0:26](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=26)** So, here we have a new model for users to be able to store a travel journal and descriptions of their trip.
 >
@@ -966,7 +942,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=47)** (mouse clicking) We're going to create a custom permission, called only creator permission.
 >
-> **[0:53](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=53)** It is a subclass of Django rest frameworks based permission, and, we are overriding the has permission method.
+> **[0:53](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=53)** It is a subclass of [[Django]] [[Representational State Transfer (REST)|rest]] frameworks based permission, and, we are overriding the has permission method.
 >
 > **[1:04](https://www.linkedin.com/learning/securing-django-applications/zero-knowledge-encryption-of-data-in-django?u=76281980&t=64)** (keyboard keys clicking) And we want to allow only post or get methods
 >
@@ -1002,7 +978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Django]] (2), [[Cryptography]] (1), [[Security]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Cryptography]] (1), [[Algorithms]] (1), [[Cybersecurity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Non-Speech:** (keyboard keys clicking) (2), (mouse clicking) (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** scroll down (1)
@@ -1010,8 +986,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Unit testing zero knowledge encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/unit-testing-zero-knowledge-encryption?u=76281980)
+#### [Unit testing zero knowledge encryption](https://www.linkedin.com/learning/securing-django-applications/unit-testing-zero-knowledge-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1039,7 +1014,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/securing-django-applications/unit-testing-zero-knowledge-encryption?u=76281980&t=96)** We also need to make sure that the encrypted text is a list of bytes.
 >
-> **[1:52](https://www.linkedin.com/learning/securing-django-applications/unit-testing-zero-knowledge-encryption?u=76281980&t=112)** And then we're ready to assemble the rest API data we're going to send over.
+> **[1:52](https://www.linkedin.com/learning/securing-django-applications/unit-testing-zero-knowledge-encryption?u=76281980&t=112)** And then we're ready to assemble the [[Representational State Transfer (REST)|rest]] API data we're going to send over.
 >
 > **[2:00](https://www.linkedin.com/learning/securing-django-applications/unit-testing-zero-knowledge-encryption?u=76281980&t=120)** That's created by the user and then the encrypted text is this encrypted text.
 >
@@ -1095,19 +1070,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), api (3), [[Representational State Transfer (REST)|Rest]] (2), web (1), database (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** api (3)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Packaging user data for download
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980)
+#### [Packaging user data for download](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=0)** - [Instructor] Data privacy regulations such as GDPR in the European Union and CCPA in the State of California make it more important than ever to give users a way to download all of the data that they have put into your web app.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=0)** - [Instructor] [[Data Privacy]] regulations such as GDPR in the European Union and CCPA in the State of California make it more important than ever to give users a way to download all of the data that they have put into your web app.
 >
 > **[0:13](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=13)** So we're going to give them the ability to download a csv file.
 >
@@ -1169,7 +1143,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=272)** So we get the package name from the booking, the package price, the start date, and the name.
 >
-> **[4:53](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=293)** After that we have the activity log and we need to fetch all the objects and actions done by the user.
+> **[4:53](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=293)** After that we have the activity log and we need to [[Fetch]] all the objects and actions done by the user.
 >
 > **[5:11](https://www.linkedin.com/learning/securing-django-applications/packaging-user-data-for-download?u=76281980&t=311)** And then we have writerows
 >
@@ -1187,7 +1161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Privacy]] (1), web (1), next (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gdpr (1), ccpa (1), http (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1201,16 +1175,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Twilio to send an SMS code
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980)
+#### [Using Twilio to send an SMS code](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=0)** - [Instructor] We're going to be using Twilio to send a two-factor SMS code.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=0)** - [Instructor] We're going to be using [[Twilio]] to send a two-factor SMS code.
 >
 > **[0:04](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=4)** So we're going to to start by importing the trace function from the random model so that we can generate the SMS code.
 >
-> **[0:16](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=16)** And we have to import the REST client for Twilio.
+> **[0:16](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=16)** And we have to import the [[Representational State Transfer (REST)|REST]] client for Twilio.
 >
 > **[0:23](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=23)** And we already have a model here.
 >
@@ -1242,7 +1215,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=146)** Now let's save this and let's switch to Terminal and see this in action.
 >
-> **[2:33](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=153)** We can go into the Django shell and we import the user model.
+> **[2:33](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=153)** We can go into the [[Django]] shell and we import the user model.
 >
 > **[2:44](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980&t=164)** And then from our two-factor auth app, we import the two-factor auth code model.
 >
@@ -1263,8 +1236,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Confirming SMS code and enabling 2FA
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/confirming-sms-code-and-enabling-2fa?u=76281980)
+#### [Confirming SMS code and enabling 2FA](https://www.linkedin.com/learning/securing-django-applications/confirming-sms-code-and-enabling-2fa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1299,12 +1271,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - to (1)
 
-#### Validating 2FA login before performing actions in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/validating-2fa-login-before-performing-actions-in-django?u=76281980)
+#### [Validating 2FA login before performing actions in Django](https://www.linkedin.com/learning/securing-django-applications/validating-2fa-login-before-performing-actions-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/validating-2fa-login-before-performing-actions-in-django?u=76281980&t=0)** - [Tutor] To use two factor authentication with Django and Django REST framework, we need a way to confirm and validate an action.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/validating-2fa-login-before-performing-actions-in-django?u=76281980&t=0)** - [Tutor] To use two factor authentication with [[Django]] and Django [[Representational State Transfer (REST)|REST]] framework, we need a way to confirm and validate an action.
 >
 > **[0:07](https://www.linkedin.com/learning/securing-django-applications/validating-2fa-login-before-performing-actions-in-django?u=76281980&t=7)** Therefore, we need to create a permission class.
 >
@@ -1331,8 +1302,7 @@ created: 2026-05-02
 > **Env Vars:** rest (2)
 > **Speakers:** - [tutor] (1)
 
-#### Unit testing 2FA login requirement for Django REST API
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/unit-testing-2fa-login-requirement-for-django-rest-api?u=76281980)
+#### [Unit testing 2FA login requirement for Django REST API](https://www.linkedin.com/learning/securing-django-applications/unit-testing-2fa-login-requirement-for-django-rest-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1368,7 +1338,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), data (1)
 > **Env Vars:** api (1), url (1)
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
@@ -1379,8 +1348,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enabling CSRF tokens in Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980)
+#### [Enabling CSRF tokens in Django](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1398,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980&t=43)** And we want to make sure, that whenever any request is sent to this view, that it is protected with a CSRF token.
 >
-> **[0:56](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980&t=56)** So, we going to use CSRF protect, and django has another decorator called CSRF exempt, In case you do want a view that is exempt from CSRF tokens.
+> **[0:56](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980&t=56)** So, we going to use CSRF protect, and [[Django]] has another decorator called CSRF exempt, In case you do want a view that is exempt from CSRF [[Tokens]].
 >
 > **[1:10](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980&t=70)** In this case, we want the CSRF token to be there for any post request.
 >
@@ -1416,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Django]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Django]] (1), [[Tokens]] (1)
 > **Env Vars:** csrf (10)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
@@ -1425,8 +1393,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - csrf (1)
 
-#### Unit testing Django forms that use CSRF
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980)
+#### [Unit testing Django forms that use CSRF](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1438,7 +1405,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=15)** We need to create a new HTTP client and we need to make sure that it enforces CSRF checks.
 >
-> **[0:27](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=27)** Usually Django will skip these to make testing easier.
+> **[0:27](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=27)** Usually [[Django]] will skip these to make testing easier.
 >
 > **[0:31](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=31)** And then we are going to use Force Login to login as the user.
 >
@@ -1454,9 +1421,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=83)** So, let's try again.
 >
-> **[1:25](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=85)** We have the response of getting the journal entries and on that page, the two forms that exist are the add new entry form and the delete entry forms.
+> **[1:25](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=85)** We have the response of getting the journal entries and on that page, the two [[Forms]] that exist are the add new entry form and the delete entry forms.
 >
-> **[1:42](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=102)** And as part of those forms, there are CSRF tokens.
+> **[1:42](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=102)** And as part of those forms, there are CSRF [[Tokens]].
 >
 > **[1:46](https://www.linkedin.com/learning/securing-django-applications/unit-testing-django-forms-that-use-csrf?u=76281980&t=106)** So we want to make sure that this response returns to 200 as a status code.
 >
@@ -1488,7 +1455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), [[Forms]] (3), data (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Django]] (3), [[Forms]] (3), [[Tokens]] (1)
 > **Env Vars:** csrf (9), post (2), http (1), ugc (1)
 > **CLI Commands:** make (6)
 > **API Endpoints:** post  (2)
@@ -1500,16 +1467,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/securing-django-applications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-django-applications/next-steps?u=76281980&t=0)** - [Instructor] The next steps you can take after watching this course are learning more about Django REST APIs with the LinkedIn Learning course "[[Building RESTful Web APIs with Django]]," and you can further your cybersecurity knowledge as well and your web app security knowledge with the "Online Application Security Testing Essentials" course.
+> **[0:00](https://www.linkedin.com/learning/securing-django-applications/next-steps?u=76281980&t=0)** - [Instructor] The next steps you can take after watching this course are learning more about [[Django]] [[Representational State Transfer (REST)|REST]] APIs with the [[LinkedIn]] Learning course "[[Building RESTful Web APIs with Django]]," and you can further your [[Cybersecurity]] knowledge as well and your web app security knowledge with the "Online [[Application Security]] Testing Essentials" course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), web (2), [[Security]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1), [[Cybersecurity]] (1), [[Application Security]] (1)
 > **Env Vars:** rest (1)
 > **Speakers:** - [instructor] (1)
 

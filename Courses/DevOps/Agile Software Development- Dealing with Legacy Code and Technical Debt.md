@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embrace the legacy and tackle the debt
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/embrace-the-legacy-and-tackle-the-debt?u=76281980)
+#### [Embrace the legacy and tackle the debt](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/embrace-the-legacy-and-tackle-the-debt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,18 +104,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/embrace-the-legacy-and-tackle-the-debt?u=76281980&t=38)** You can avoid these challenges by embracing the legacy system that you have and to making a commitment to pay down technical debt while making improvements to it.
 >
-> **[0:49](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/embrace-the-legacy-and-tackle-the-debt?u=76281980&t=49)** Hi, I'm M. Scott Ford, co-founder of Corgibytes, an organization that works exclusively on legacy code products.
+> **[0:49](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/embrace-the-legacy-and-tackle-the-debt?u=76281980&t=49)** Hi, I'm M. Scott Ford, co-founder of Corgibytes, an organization that works exclusively on legacy code [[Microsoft Products|products]].
 >
-> **[0:56](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/embrace-the-legacy-and-tackle-the-debt?u=76281980&t=56)** Come join me in my LinkedIn Learning course, on dealing with legacy code and technical debt.
+> **[0:56](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/embrace-the-legacy-and-tackle-the-debt?u=76281980&t=56)** Come join me in my [[LinkedIn]] Learning course, on dealing with legacy code and technical debt.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [scott] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,24 +134,23 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=25)** Intermediate programming experience in at least one language is important, as is being comfortable writing and reading unit tests.
 >
-> **[0:32](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=32)** If you want to level up your skills in any of these areas, I encourage you to browse through the rest of the library.
+> **[0:32](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=32)** If you want to level up your skills in any of these areas, I encourage you to browse through the [[Representational State Transfer (REST)|rest]] of the library.
 >
 > **[0:38](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=38)** There are many different courses which cover these topics in detail.
 >
-> **[0:42](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=42)** While not required, you might want to watch my [[Agile Software Development]]: Clean Code Practices course.
+> **[0:42](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=42)** While not required, you might want to watch my [[[[Agile Software Development]]]]: Clean Code Practices course.
 >
 > **[0:47](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/what-you-should-know?u=76281980&t=47)** The material on that course pairs nicely with what is covered in this one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Agile Software Development]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Agile Software Development]] (1)
 > **Tools:** visual studio (1), terminal (1)
 > **CLI Commands:** ruby (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/definitions?u=76281980)
+#### [Definitions](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,7 +194,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -207,8 +203,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Familiarize yourself
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/familiarize-yourself?u=76281980)
+#### [Familiarize yourself](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/familiarize-yourself?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -274,7 +269,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Search]] (1)
 > **CLI Commands:** find (8)
 > **Env Vars:** readme (4)
 > **Prerequisites:** you'll need (3), install (1)
@@ -283,8 +277,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remember the prime directive
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remember-the-prime-directive?u=76281980)
+#### [Remember the prime directive](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remember-the-prime-directive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -294,7 +287,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remember-the-prime-directive?u=76281980&t=8)** Its details are not all that important for our discussion here, but what is important to know is that in the Star Trek universe, the Prime Directive is taking very seriously and is treated with a lot of respect.
 >
-> **[0:20](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remember-the-prime-directive?u=76281980&t=20)** Inspired by the idea of having one rule that's more important than all others, Norm Kerth crafted a prime directive for Agile teams to use during a retrospective.
+> **[0:20](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remember-the-prime-directive?u=76281980&t=20)** Inspired by the idea of having one rule that's more important than all others, Norm Kerth crafted a prime directive for [[Agile Development|Agile]] teams to use during a retrospective.
 >
 > **[0:30](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remember-the-prime-directive?u=76281980&t=30)** "Regardless of what we discover, "we understand and truly believe "that everyone did the best job they could, "given what they knew at the time, "their skills and abilities, "the resources available, "and the situation at hand."
 >
@@ -328,14 +321,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Take ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/take-ownership?u=76281980)
+#### [Take ownership](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/take-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,13 +387,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), power (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** open the (1), switch to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Set up a dev environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/set-up-a-dev-environment?u=76281980)
+#### [Set up a dev environment](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/set-up-a-dev-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -425,7 +415,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/set-up-a-dev-environment?u=76281980&t=51)** And when you have to replace your work station that information will come in handy even if you don't add another team member.
 >
-> **[0:57](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/set-up-a-dev-environment?u=76281980&t=57)** On many projects, Docker and Docker Compose are the perfect technologies to help address these issues.
+> **[0:57](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/set-up-a-dev-environment?u=76281980&t=57)** On many projects, Docker and Docker [[Jetpack Compose|Compose]] are the perfect technologies to help address these issues.
 >
 > **[1:03](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/set-up-a-dev-environment?u=76281980&t=63)** Many teams discount using Docker for their development environment because they have no plans to use it in production.
 >
@@ -451,7 +441,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/set-up-a-dev-environment?u=76281980&t=126)** which was the Ruby version available at around the time the code that we're working on was released.
 >
-> **[2:11](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/set-up-a-dev-environment?u=76281980&t=131)** Other than specifying a Ruby version to use, the rest of this file just ensures that an app directory is created for us to work with.
+> **[2:11](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/set-up-a-dev-environment?u=76281980&t=131)** Other than specifying a Ruby version to use, the [[Representational State Transfer (REST)|rest]] of this file just ensures that an app directory is created for us to work with.
 >
 > **[2:19](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/set-up-a-dev-environment?u=76281980&t=139)** Let's peek at the docker-compose.yaml file.
 >
@@ -503,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Representational State Transfer (REST)|Rest]] (2), database (2), next (2), teams (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** docker (16), ruby (5), make (2)
 > **File Paths:** docker-compose.yaml (2), docker-entrypoint.sh (1)
 > **Versions:** version 1 (1), ruby 1 (1), 9.3 (1)
@@ -512,8 +502,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Skim the code
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/skim-the-code?u=76281980)
+#### [Skim the code](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/skim-the-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -589,7 +578,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), web application (1), next (1)
 > **File Paths:** base.rb (4), sinatra.rb (3)
 > **CLI Commands:** make (2), ruby (1), find (1)
 > **Versions:** version 1 (1)
@@ -602,8 +590,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Technical debt grows without tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-grows-without-tests?u=76281980)
+#### [Technical debt grows without tests](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-grows-without-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,12 +624,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (3), find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create a test suite (if one is missing)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/create-a-test-suite-if-one-is-missing?u=76281980)
+#### [Create a test suite (if one is missing)](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/create-a-test-suite-if-one-is-missing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,8 +679,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run the test suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/run-the-test-suite?u=76281980)
+#### [Run the test suite](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/run-the-test-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -729,7 +713,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** ide (4)
 > **Prerequisites:** you'll need (2), set up (1)
@@ -738,8 +721,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handle failing tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/handle-failing-tests?u=76281980)
+#### [Handle failing tests](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/handle-failing-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -789,12 +771,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **CLI Commands:** make (5)
 > **Speakers:** - [instructor] (1)
 
-#### Build out test coverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-out-test-coverage?u=76281980)
+#### [Build out test coverage](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-out-test-coverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,9 +788,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-out-test-coverage?u=76281980&t=18)** When you go to clean up a chunk of code, it's very important to have high code coverage for that chunk of code.
 >
-> **[0:23](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-out-test-coverage?u=76281980&t=23)** Even if coverage is low across the rest of the code base.
+> **[0:23](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-out-test-coverage?u=76281980&t=23)** Even if coverage is low across the [[Representational State Transfer (REST)|rest]] of the code base.
 >
-> **[0:27](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-out-test-coverage?u=76281980&t=27)** The trouble is, not all code is easy to test, especially using traditional unit testing techniques.
+> **[0:27](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-out-test-coverage?u=76281980&t=27)** The trouble is, not all code is easy to test, especially using traditional [[Unit Testing]] techniques.
 >
 > **[0:34](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-out-test-coverage?u=76281980&t=34)** That's where employing a different testing technique can be a big help.
 >
@@ -866,14 +846,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build dependency behavior tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-dependency-behavior-tests?u=76281980)
+#### [Build dependency behavior tests](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-dependency-behavior-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-dependency-behavior-tests?u=76281980&t=1)** - [Narrator] Chances are, your project relies on a lot of external libraries to implement all of the functionality that's contained inside of it.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-dependency-behavior-tests?u=76281980&t=7)** There are libraries for interacting with databases, reading XML documents, making HTTP, the list goes on.
+> **[0:07](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-dependency-behavior-tests?u=76281980&t=7)** There are libraries for interacting with [[Databases]], reading XML documents, making HTTP, the list goes on.
 >
 > **[0:15](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/build-dependency-behavior-tests?u=76281980&t=15)** These libraries reduce the amount of code that you have to write in order for your project to do its job.
 >
@@ -911,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), [[Security]] (1), application (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** xml (1), http (1)
 > **Exercise Files:** template (2)
@@ -922,8 +901,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Aging tools make technical debt worse
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980)
+#### [Aging tools make technical debt worse](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,13 +927,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980&t=74)** And too many teams just accept this as their reality when they inherit an older project.
 >
-> **[1:19](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980&t=79)** They keep working day after day on an old code base using old tools and they resent it because they feel the rest of the industry is rapidly leaving them behind, making it incredibly hard for them to get another job if their current one gets canceled.
+> **[1:19](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980&t=79)** They keep working day after day on an old code base using old tools and they resent it because they feel the [[Representational State Transfer (REST)|rest]] of the industry is rapidly leaving them behind, making it incredibly hard for them to get another job if their current one gets canceled.
 >
 > **[1:34](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980&t=94)** Tolerating old tools is the easiest way to hate working on a project that you've inherited from someone else.
 >
 > **[1:41](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980&t=101)** So what should you do instead when you find yourself working on a project with aging tools?
 >
-> **[1:46](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980&t=106)** Go to the hardware store and grab some upgrades.
+> **[1:46](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980&t=106)** Go to the [[Hardware]] store and grab some upgrades.
 >
 > **[1:50](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980&t=110)** Figure out how to make them part of your workflow.
 >
@@ -979,15 +957,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduce dependency management
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980)
+#### [Introduce dependency management](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1001,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980&t=31)** And worst of all, some projects have no documentation for what third party dependencies are used.
 >
-> **[0:37](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980&t=37)** Regardless of what state you find the project you're working with, it's best to move towards keeping track of all of the dependencies using some form of dependency management system.
+> **[0:37](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980&t=37)** Regardless of what state you find the project you're working with, it's best to move towards keeping track of all of the dependencies using some form of [[Dependency Management]] system.
 >
 > **[0:48](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980&t=48)** These systems exist for almost every programming language environment, and their most basic purpose is to allow you to specify the dependencies that you are using, including the exact version and often a range of versions that are expected to be compatible.
 >
@@ -1013,9 +990,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980&t=90)** The system will detect when there are incompatibilities between the packages that are specified and will prevent you from installing them.
 >
-> **[1:37](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980&t=97)** For example, if your system is designed to work with packages Alpha 2.0 and Beta 1.5, and both of those packages at those versions require different incompatible versions of a package named Delta, then the package management system will detect this for you and alert you that you need to make some adjustment to the version of either package Alpha or package Beta.
+> **[1:37](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980&t=97)** For example, if your system is designed to work with packages Alpha 2.0 and Beta 1.5, and both of those packages at those versions require different incompatible versions of a package named Delta, then the [[Package Management]] system will detect this for you and alert you that you need to make some adjustment to the version of either package Alpha or package Beta.
 >
-> **[2:01](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980&t=121)** Examples of these dependency management systems are Bundler for Ruby, pip for Python, Cargo for Rust, npm or Yarn for JavaScript, Composer for PHP, Buckaroo or Conan for C++, NuGet for C# or any other .NET language, and Maven or Gradle for Java and other JVM languages.
+> **[2:01](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980&t=121)** Examples of these dependency management systems are Bundler for Ruby, pip for [[Python (Programming Language)|Python]], Cargo for [[Rust (Programming Language)|Rust]], [[npm]] or Yarn for [[JavaScript]], Composer for [[PHP]], Buckaroo or Conan for C++, NuGet for C# or any other .NET language, and Maven or [[Gradle]] for [[Java]] and other JVM languages.
 >
 > **[2:22](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/introduce-dependency-management?u=76281980&t=142)** There are many, many more systems that I have not named.
 >
@@ -1041,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dependency Management]] (4), [[Programming]] (1), [[Package Management]] (1), [[Python (Programming Language)|Python]] (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Dependency Management]] (4), [[Package Management]] (1), [[Python (Programming Language)|Python]] (1), [[Rust (Programming Language)|Rust]] (1), [[npm]] (1)
 > **CLI Commands:** make (4), find (3), ruby (1), pip (1), python (1)
 > **Env Vars:** ftp (1), readme (1), php (1), net (1), jvm (1)
 > **Prerequisites:** install (2), make sure you have (1)
@@ -1050,8 +1027,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update dependencies and tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/update-dependencies-and-tools?u=76281980)
+#### [Update dependencies and tools](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/update-dependencies-and-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1041,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/update-dependencies-and-tools?u=76281980&t=16)** If you're not there yet, then you'll need to continue working with the older dependencies until you are.
 >
-> **[0:22](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/update-dependencies-and-tools?u=76281980&t=22)** Along with the test coverage, it's also a good idea to make sure that you're third party dependencies are managed by a dependency management system.
+> **[0:22](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/update-dependencies-and-tools?u=76281980&t=22)** Along with the test coverage, it's also a good idea to make sure that you're third party dependencies are managed by a [[Dependency Management]] system.
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/update-dependencies-and-tools?u=76281980&t=29)** If you're not there yet, then it's best to make that transition before you start upgrading anything.
 >
@@ -1151,7 +1127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (3), [[Dependency Management]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Dependency Management]] (2)
 > **CLI Commands:** make (5), find (3)
 > **Env Vars:** ide (5)
 > **Best Practices:** it's best to (1)
@@ -1163,8 +1139,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Remove noise and distractions
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remove-noise-and-distractions?u=76281980)
+#### [Remove noise and distractions](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remove-noise-and-distractions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,7 +1155,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remove-noise-and-distractions?u=76281980&t=17)** What's even worse, is when the code that you're working on, is the very source of the noise and distraction that you're fighting against.
 >
-> **[0:23](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remove-noise-and-distractions?u=76281980&t=23)** There are several forms of noise and distraction that you need to remove with impunity.
+> **[0:23](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remove-noise-and-distractions?u=76281980&t=23)** There are several [[Forms]] of noise and distraction that you need to remove with impunity.
 >
 > **[0:28](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remove-noise-and-distractions?u=76281980&t=28)** Don't ask for permission, either.
 >
@@ -1262,7 +1237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), next (1), hit (1), application (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **Warnings:** caution (1), warning (1)
 > **Env Vars:** ide (1)
@@ -1271,8 +1246,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Read by refactoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/read-by-refactoring?u=76281980)
+#### [Read by refactoring](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/read-by-refactoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1320,7 +1294,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/read-by-refactoring?u=76281980&t=101)** On the first line of the method, a call is made, and the result of that call is stored in a variable named res.
 >
-> **[1:47](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/read-by-refactoring?u=76281980&t=107)** There rest of the method focuses on how that result should be handled.
+> **[1:47](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/read-by-refactoring?u=76281980&t=107)** There [[Representational State Transfer (REST)|rest]] of the method focuses on how that result should be handled.
 >
 > **[1:50](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/read-by-refactoring?u=76281980&t=110)** Let's extract some methods to make it more clear what's going on.
 >
@@ -1360,15 +1334,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4), is an  (3), short for (1)
 > **CLI Commands:** make (3), ruby (1)
 > **Versions:** version 1 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Isolate external services and devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980)
+#### [Isolate external services and devices](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,7 +1349,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980&t=7)** These external services and devices likely contribute a very important part of the end user's overall experience.
 >
-> **[0:15](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980&t=15)** But since they are outside of the development team's control, it's difficult to predict how the software system will react in every scenario.
+> **[0:15](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980&t=15)** But since they are outside of the development team's control, it's difficult to predict how the software system will [[React.js|react]] in every scenario.
 >
 > **[0:22](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980&t=22)** This makes testing very difficult, especially because it can be a challenge to force the external system to behave in unpredictable ways.
 >
@@ -1386,9 +1359,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980&t=37)** Some of them are very large, an industrial CNC machine is not something that you can have sitting on your desk.
 >
-> **[0:44](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980&t=44)** Connecting them to a continuous integration environment can be a challenge, especially if your team wants to use a continuous integration service that's hosted in the cloud.
+> **[0:44](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980&t=44)** Connecting them to a [[Continuous Integration (CI)|continuous integration]] environment can be a challenge, especially if your team wants to use a continuous integration service that's hosted in the cloud.
 >
-> **[0:52](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980&t=52)** The cloud providers don't publish an address where you have hardware shipped and then connected to their servers.
+> **[0:52](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980&t=52)** The cloud providers don't publish an address where you have [[Hardware]] shipped and then connected to their servers.
 >
 > **[0:57](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/isolate-external-services-and-devices?u=76281980&t=57)** Both services and devices also add difficulty when new versions are released.
 >
@@ -1428,14 +1401,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (2), cloud (2), [[React.js|React]] (1), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (2), [[React.js|React]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cnc (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Code like a scientist
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/code-like-a-scientist?u=76281980)
+#### [Code like a scientist](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/code-like-a-scientist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,7 +1425,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/code-like-a-scientist?u=76281980&t=23)** Turns out with the right tools, you can.
 >
-> **[0:26](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/code-like-a-scientist?u=76281980&t=26)** A few years ago, GitHub released a Ruby library that they aptly called Scientist.
+> **[0:26](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/code-like-a-scientist?u=76281980&t=26)** A few years ago, [[GitHub]] released a Ruby library that they aptly called Scientist.
 >
 > **[0:31](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/code-like-a-scientist?u=76281980&t=31)** This library lets you craft an experiment to see if a refactoring behaves exactly the same as the code that it's replacing.
 >
@@ -1503,7 +1475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), data (1), [[Programming]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** make (3), ruby (2)
 > **Env Vars:** fast (1)
 > **Tools:** github (1)
@@ -1515,8 +1487,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Technical debt will grow like weeds
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980)
+#### [Technical debt will grow like weeds](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,7 +1505,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980&t=23)** There are some specific practices that you can make part of your team's daily and weekly repertoire to keep technical debt to a minimum.
 >
-> **[0:31](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980&t=31)** One of the critical practices for your team to embrace is test-driven development.
+> **[0:31](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980&t=31)** One of the critical practices for your team to embrace is [[Test-Driven Development]].
 >
 > **[0:35](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980&t=35)** You write tests to describe the behavior you want out of your code before you write the code that passes the test, but just writing automated tests isn't enough.
 >
@@ -1542,7 +1513,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980&t=54)** Your team needs to take the time to simplify their code, using the test as a guide to ensure that you haven't broken anything during the simplification process.
 >
-> **[1:03](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980&t=63)** Clean coding practices will help give you a set of guidelines to follow when deciding what needs to be refactored.
+> **[1:03](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980&t=63)** Clean [[Coding Practices]] will help give you a set of guidelines to follow when deciding what needs to be refactored.
 >
 > **[1:09](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980&t=69)** And finally, your team needs to pay attention to your code's quality on a regular basis and employ the right tools to do so.
 >
@@ -1550,18 +1521,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (2), next (1), [[Coding Practices]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[Coding Practices]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Stay test driven
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980)
+#### [Stay test driven](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=1)** - [Instructor] Write a test, watch it fail, make it pass, refactor, repeat.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=8)** The basics of test-driven development can be described so simply, but practicing it, especially on an existing project, can be quite a challenge.
+> **[0:08](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=8)** The basics of [[Test-Driven Development]] can be described so simply, but practicing it, especially on an existing project, can be quite a challenge.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=17)** One of the advantages of following test-driven development is that you are practically guaranteed to end up with code that is easy to test.
 >
@@ -1573,7 +1543,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=46)** There are many different courses right here in the library which cover test-driven development.
 >
-> **[0:50](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=50)** One of my favorites is Neelam Dwivedi's course, [[Programming Foundations- Test-Driven Development]].
+> **[0:50](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=50)** One of my favorites is Neelam Dwivedi's course, [[[[Programming Foundations]]- Test-Driven Development]].
 >
 > **[0:56](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/stay-test-driven?u=76281980&t=56)** Another way to level up you TDD skills is to practice following TDD in a more controlled setting.
 >
@@ -1594,12 +1564,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice refactoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980)
+#### [Practice refactoring](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=1)** - [Instructor] When you've inherited a project, you'll find yourself surrounded by things you want to change, designs that you feel could be implemented more concisely, algorithms which you feel could be more efficient, chunks of code which should be made more easier to understand.
+> **[0:01](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=1)** - [Instructor] When you've inherited a project, you'll find yourself surrounded by things you want to change, designs that you feel could be implemented more concisely, [[Algorithms]] which you feel could be more efficient, chunks of code which should be made more easier to understand.
 >
 > **[0:15](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=15)** These are just some of the valid reasons that you might have for wanting to make changes to the project without actually changing its behavior, a practice that's more commonly referred to as refactoring.
 >
@@ -1615,7 +1584,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=64)** There are many great resources for learning more about refactoring here in the library.
 >
-> **[1:08](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=68)** Richard Kasperowski's "[[Agile Software Development]]: "Refactoring" is a great place to start.
+> **[1:08](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=68)** Richard Kasperowski's "[[[[Agile Software Development]]]]: "Refactoring" is a great place to start.
 >
 > **[1:13](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/practice-refactoring?u=76281980&t=73)** Richard's course even covers some techniques which will be useful when working with existing code bases.
 >
@@ -1632,8 +1601,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Keep code clean
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/keep-code-clean?u=76281980)
+#### [Keep code clean](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/keep-code-clean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1653,7 +1621,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/keep-code-clean?u=76281980&t=46)** David Losert has one that is worth checking out.
 >
-> **[0:50](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/keep-code-clean?u=76281980&t=50)** The clean coding practices are the closest to weeding a garden that you're going to find.
+> **[0:50](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/keep-code-clean?u=76281980&t=50)** The clean [[Coding Practices]] are the closest to weeding a garden that you're going to find.
 >
 > **[0:55](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/keep-code-clean?u=76281980&t=55)** Each guideline is very small and is targeted at a very specific change.
 >
@@ -1666,8 +1634,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitor code quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/monitor-code-quality?u=76281980)
+#### [Monitor code quality](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/monitor-code-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1687,7 +1654,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/monitor-code-quality?u=76281980&t=44)** Here in the library, you can take a look at my tools-focused course on code quality to learn about some of the different tools that are available and how you might be able to use them to transform your project into one that your team can be proud of.
 >
-> **[0:58](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/monitor-code-quality?u=76281980&t=58)** You may also want to check out the Awesome Static Analysis repository on GitHub.
+> **[0:58](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/monitor-code-quality?u=76281980&t=58)** You may also want to check out the Awesome Static Analysis repository on [[GitHub]].
 >
 > **[1:02](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/monitor-code-quality?u=76281980&t=62)** It's a very impressive list of tools and services for analyzing your code.
 >
@@ -1701,7 +1668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
@@ -1711,8 +1678,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1726,7 +1692,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980&t=18)** The problems that you're facing weren't built quickly, and they're not going to be solved quickly.
 >
-> **[0:24](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980&t=24)** Feel free to connect with me on LinkedIn.
+> **[0:24](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980&t=24)** Feel free to connect with me on [[LinkedIn]].
 >
 > **[0:26](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980&t=26)** I'm happy to have conversations on different ways to tackle legacy code and technical debt.
 >
@@ -1734,7 +1700,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980&t=34)** Check it out if you find legacy code and technical debt interesting and want to learn more.
 >
-> **[0:39](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980&t=39)** We also have a newsletter, a Slack workspace, and a weekly virtual meetup group.
+> **[0:39](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980&t=39)** We also have a newsletter, a [[Slack]] workspace, and a weekly virtual meetup group.
 >
 > **[0:43](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980&t=43)** Lots of different ways to engage with other people who are passionate about legacy code and paying down technical debt.
 >

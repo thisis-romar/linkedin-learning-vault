@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Excel modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/getting-started-with-excel-modeling?u=76281980)
+#### [Getting started with Excel modeling](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/getting-started-with-excel-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/getting-started-with-excel-modeling?u=76281980&t=0)** - [Instructor] Excel modeling is an important tool for any business that wants to plan for the future or manage their operations.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/getting-started-with-excel-modeling?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] modeling is an important tool for any business that wants to plan for the future or manage their operations.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/getting-started-with-excel-modeling?u=76281980&t=6)** Companies large and small can benefit from using financial models to make key decisions, and that makes Excel modeling an important skill for many employees.
 >
@@ -97,11 +96,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/getting-started-with-excel-modeling?u=76281980&t=28)** I'm Dr. Michael McDonald, and I'd like to help you learn how to use Excel for building business and financial models of all types.
 >
-> **[0:35](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/getting-started-with-excel-modeling?u=76281980&t=35)** So if you're ready to dive in and learn how to start using Excel to build your own financial and operational models, then please join me here on LinkedIn Learning.
+> **[0:35](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/getting-started-with-excel-modeling?u=76281980&t=35)** So if you're ready to dive in and learn how to start using Excel to build your own financial and operational models, then please join me here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), business (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -110,16 +109,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Objectives in financial modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980)
+#### [Objectives in financial modeling](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980&t=0)** - [Instructor] Financial modeling is a skillset that's useful in virtually every industry.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980&t=0)** - [Instructor] [[Financial Modeling]] is a skillset that's useful in virtually every industry.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980&t=4)** So I want to start by talking about the objectives in financial modeling and what you need to know as you begin your journey.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980&t=12)** So to begin with, when we think about financial models, we're talking about models in Excel.
+> **[0:12](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980&t=12)** So to begin with, when we think about financial models, we're talking about models in [[Microsoft Excel|Excel]].
 >
 > **[0:18](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980&t=18)** And the reality is that any model, whether an Excel or anywhere else, is just a simplified representation of the real world.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980&t=116)** Excel models usually rely on a key set of assumptions that we make upfront when we're building that model.
 >
-> **[2:02](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980&t=122)** So for instance, if we're thinking about forecasting a company's sales over time or building out a budget model, we probably make assumptions about what marketing spend might be, or at a more basic level, what the overall economy might look like.
+> **[2:02](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980&t=122)** So for instance, if we're thinking about [[Forecasting]] a company's sales over time or building out a budget model, we probably make assumptions about what marketing spend might be, or at a more basic level, what the overall economy might look like.
 >
 > **[2:16](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/objectives-in-financial-modeling?u=76281980&t=136)** So for instance, we might make an assumption about the growth rate in the overall market, and then we use that assumption to try to capture what we think is going to happen to our specific firm.
 >
@@ -183,7 +181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (15), [[Financial Modeling]] (2), business (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (15), [[Financial Modeling]] (2), [[Forecasting]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (4), just like (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -191,12 +189,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rules and best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980)
+#### [Rules and best practices](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=0)** - [Instructor] When we're building Excel models, it's important that we understand how the Excel models are going to work and the rules and principles that will guide those Excel models at a high level.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=0)** - [Instructor] When we're building [[Microsoft Excel|Excel]] models, it's important that we understand how the Excel models are going to work and the rules and principles that will guide those Excel models at a high level.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=10)** So to begin with, you need to understand that building good Excel models is hard.
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=20)** The reality is that models vary dramatically between different industries.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=24)** If we're trying to model, for instance, the probability or risk of an event in one industry, that's going to be completely different than a model built around forecasting sales in another industry.
+> **[0:24](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=24)** If we're trying to model, for instance, the [[Probability]] or risk of an event in one industry, that's going to be completely different than a model built around [[Forecasting]] sales in another industry.
 >
 > **[0:35](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=35)** So we can't necessarily come up with a set of steps that'll work for every single model that's out there.
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=108)** In general, there's only a few constructs out there.
 >
-> **[1:51](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=111)** It might be, as an example, financial statements, it might be a budget, et cetera.
+> **[1:51](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=111)** It might be, as an example, [[Financial Statements]], it might be a budget, et cetera.
 >
 > **[1:56](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/rules-and-best-practices?u=76281980&t=116)** Let's look at a couple examples.
 >
@@ -264,15 +261,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Probability]] (1), [[Forecasting]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Probability]] (1), [[Forecasting]] (1), [[Financial Statements]] (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing a financial model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/assessing-a-financial-model?u=76281980)
+#### [Assessing a financial model](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/assessing-a-financial-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -282,7 +278,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/assessing-a-financial-model?u=76281980&t=16)** So the idea here is that most people often use models that are built by others.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/assessing-a-financial-model?u=76281980&t=22)** The reality is large organizations have dozens or even hundreds of Excel models, and these are designed to track everything from say, employee expense reimbursement to product or SKU profitability, and everything in between.
+> **[0:22](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/assessing-a-financial-model?u=76281980&t=22)** The reality is large organizations have dozens or even hundreds of [[Microsoft Excel|Excel]] models, and these are designed to track everything from say, employee expense reimbursement to product or SKU profitability, and everything in between.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/assessing-a-financial-model?u=76281980&t=36)** We've got an Excel model for just about every aspect of most businesses, but no single person builds all of these models.
 >
@@ -318,7 +314,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/assessing-a-financial-model?u=76281980&t=114)** Are those assumptions too aggressive?
 >
-> **[1:56](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/assessing-a-financial-model?u=76281980&t=116)** For instance, if I look at a model forecasting profitability in the future, for instance, and it's built upon a long-term CAGR, a compounded annual growth rate, of say 10%.
+> **[1:56](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/assessing-a-financial-model?u=76281980&t=116)** For instance, if I look at a model [[Forecasting]] profitability in the future, for instance, and it's built upon a long-term CAGR, a compounded annual growth rate, of say 10%.
 >
 > **[2:09](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/assessing-a-financial-model?u=76281980&t=129)** I'm going to laugh, I'm going to say, "Where on earth are you getting that number?
 >
@@ -394,7 +390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), product (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Forecasting]] (1)
 > **Analogies:** for instance (5), picture (1), it's like (1), kind of like (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** sku (1), cagr (1)
@@ -402,18 +398,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Copilot, AI, and Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980)
+#### [Copilot, AI, and Excel](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=0)** - [Instructor] This course is all about how to use Excel effectively.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=0)** - [Instructor] This course is all about how to use [[Microsoft Excel|Excel]] effectively.
 >
 > **[0:03](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=3)** But the reality is there's a sea change coming in the way that we do work in Excel and a variety of other computer applications.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=11)** And that change is really all around artificial intelligence, and in particular, the new tools around generative artificial intelligence.
+> **[0:11](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=11)** And that change is really all around [[Artificial Intelligence (AI)|artificial intelligence]], and in particular, the new tools around generative artificial intelligence.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=19)** One of those tools is Copilot for Microsoft.
+> **[0:19](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=19)** One of those tools is [[Microsoft Copilot|Copilot]] for [[Microsoft]].
 >
 > **[0:22](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=22)** So let's just talk about Copilot briefly, and then we'll talk about how it's applied in Excel.
 >
@@ -429,7 +424,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=60)** All of these are fairly simple tasks, but they are time consuming.
 >
-> **[1:04](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=64)** And so to the extent that Copilot or any other generative AI tool lets you do this, it can be a very effective, time-saving opportunity and it can let you spend more of your time on kind of the higher level and more complex tasks, which at least as of right now, I have personally found generative AI is not very good at.
+> **[1:04](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=64)** And so to the extent that Copilot or any other [[Generative AI]] tool lets you do this, it can be a very effective, time-saving opportunity and it can let you spend more of your time on kind of the higher level and more complex tasks, which at least as of right now, I have personally found generative AI is not very good at.
 >
 > **[1:24](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=84)** So that's Copilot in a nutshell.
 >
@@ -505,7 +500,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=285)** The other thing we can do, however, is using the Excel 365 Store, I can go through and I can sort and look for different tools that might have more sophisticated capabilities, right?
 >
-> **[4:58](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=298)** So I'll just search as an example, GPT, as in ChatGPT, which is one of the most commonly talked about artificial intelligence tools.
+> **[4:58](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=298)** So I'll just search as an example, GPT, as in [[ChatGPT]], which is one of the most commonly talked about artificial intelligence tools.
 >
 > **[5:06](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/copilot-ai-and-excel?u=76281980&t=306)** And you can see there's lots and lots of different AI tools that we can kind of add into Excel.
 >
@@ -521,7 +516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (22), [[Microsoft Copilot|Copilot]] (10), data (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (22), [[Microsoft Copilot|Copilot]] (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Microsoft]] (3), [[Generative AI]] (2)
 > **Env Vars:** fred (1), cpi (1), gpt (1)
 > **Analogies:** for example (2), similar to (1)
 > **Cross-References:** in the last (1)
@@ -533,14 +528,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Doing a basic loan amortization model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980)
+#### [Doing a basic loan amortization model](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980&t=0)** - [Presenter] One of the most basic types of financial models is an amortization schedule.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980&t=4)** And this illustrates what you're typically trying to do in a Excel model.
+> **[0:04](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980&t=4)** And this illustrates what you're typically trying to do in a [[Microsoft Excel|Excel]] model.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980&t=9)** We're trying to go through and use a series of steps to answer a question that we're interested in.
 >
@@ -552,7 +546,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980&t=28)** We've got our $250,000 loan, a 4% interest rate, and a term of 180 months.
 >
-> **[0:34](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980&t=34)** So to get started, I'm going to go ahead and figure out what my payment is and we'll zoom in just a little bit so we can read this more easily.
+> **[0:34](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980&t=34)** So to get started, I'm going to go ahead and figure out what my payment is and we'll [[Zoom]] in just a little bit so we can read this more easily.
 >
 > **[0:43](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/doing-a-basic-loan-amortization-model?u=76281980&t=43)** So I'm going to put in equals PMT, open parentheses, and I've got my interest rate here.
 >
@@ -684,7 +678,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (3), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Zoom]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** pmt (1), c181 (1)
 > **Versions:** 1849.22 (1), 984.11 (1)
@@ -693,12 +687,11 @@ created: 2026-05-02
 > **UI Navigation:** drag and drop (1)
 > **Analogies:** for example (1)
 
-#### Thinking through the model structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/thinking-through-the-model-structure?u=76281980)
+#### [Thinking through the model structure](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/thinking-through-the-model-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/thinking-through-the-model-structure?u=76281980&t=0)** - [Instructor] It's fairly easy to go through and build simple Excel models.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/thinking-through-the-model-structure?u=76281980&t=0)** - [Instructor] It's fairly easy to go through and build simple [[Microsoft Excel|Excel]] models.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/thinking-through-the-model-structure?u=76281980&t=4)** But what makes Excel modeling a useful skill is the ability to adjust that model based on real-world business conditions.
 >
@@ -806,18 +799,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), business (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 849.22 (2), 388.89 (1), 816.14 (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### The three parts of Excel models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/the-three-parts-of-excel-models?u=76281980)
+#### [The three parts of Excel models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/the-three-parts-of-excel-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/the-three-parts-of-excel-models?u=76281980&t=0)** - [Instructor] One common type of Excel model involves doing operational planning for a business, oftentimes at a unit or store level using Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/the-three-parts-of-excel-models?u=76281980&t=0)** - [Instructor] One common type of [[Microsoft Excel|Excel]] model involves doing operational planning for a business, oftentimes at a unit or store level using Excel.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/the-three-parts-of-excel-models?u=76281980&t=10)** Let's take a look at an example.
 >
@@ -965,19 +957,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), business (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Versions:** 4.25 (3), 1.5 (1), 4.33 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding toggles and inputs to a model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/adding-toggles-and-inputs-to-a-model?u=76281980)
+#### [Adding toggles and inputs to a model](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/adding-toggles-and-inputs-to-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/adding-toggles-and-inputs-to-a-model?u=76281980&t=0)** - [Narrator] One of the neat things about Excel and building financial models in Excel is that you can go through and update that model and change the model very quickly and easily to reflect real world circumstances.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/adding-toggles-and-inputs-to-a-model?u=76281980&t=0)** - [Narrator] One of the neat things about [[Microsoft Excel|Excel]] and building financial models in Excel is that you can go through and update that model and change the model very quickly and easily to reflect real world circumstances.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/adding-toggles-and-inputs-to-a-model?u=76281980&t=10)** Let's take a look at an example.
 >
@@ -1033,17 +1024,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), traffic (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **UI Navigation:** toggle (2), go to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using if/then analysis in models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-if-then-analysis-in-models?u=76281980)
+#### [Using if/then analysis in models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-if-then-analysis-in-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-if-then-analysis-in-models?u=76281980&t=0)** - [Instructor] You can build a basic toggle in an Excel model simply by using the IF function, but Excel, if you're looking to do something a little slicker, also has dropdowns that you can easily add.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-if-then-analysis-in-models?u=76281980&t=0)** - [Instructor] You can build a basic toggle in an [[Microsoft Excel|Excel]] model simply by using the IF function, but Excel, if you're looking to do something a little slicker, also has dropdowns that you can easily add.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-if-then-analysis-in-models?u=76281980&t=11)** Let's take a look at an example.
 >
@@ -1093,7 +1083,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-if-then-analysis-in-models?u=76281980&t=141)** So to help with this, we can instead go through, and we can add in a dropdown here.
 >
-> **[2:26](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-if-then-analysis-in-models?u=76281980&t=146)** So to do that, I'm going to come over to the Data tab, and then I'm going to come to Data Validation, and I'm going to click under Settings for a list.
+> **[2:26](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-if-then-analysis-in-models?u=76281980&t=146)** So to do that, I'm going to come over to the Data tab, and then I'm going to come to [[Data Validation]], and I'm going to click under Settings for a list.
 >
 > **[2:37](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-if-then-analysis-in-models?u=76281980&t=157)** And I want to put in, then what are my choices for seasonality?
 >
@@ -1121,14 +1111,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Data Validation]] (1)
 > **UI Navigation:** dropdown (3), toggle (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making assumptions in financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/making-assumptions-in-financial-models?u=76281980)
+#### [Making assumptions in financial models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/making-assumptions-in-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1129,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/making-assumptions-in-financial-models?u=76281980&t=17)** Let's take a look at an example.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/making-assumptions-in-financial-models?u=76281980&t=19)** I'm in the 02_06_Begin Excel file.
+> **[0:19](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/making-assumptions-in-financial-models?u=76281980&t=19)** I'm in the 02_06_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/making-assumptions-in-financial-models?u=76281980&t=23)** Now, a good Excel model should capture the key elements that we care about from the real world, while leaving out extraneous details.
 >
@@ -1286,19 +1275,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Versions:** 1.10 (1), 1.0 (1), 1.05 (1), 1.02 (1), 1.04 (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1), in other words (1), means that (1)
 > **UI Navigation:** toggle (2)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in building the single-sheet model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/steps-in-building-the-single-sheet-model?u=76281980)
+#### [Steps in building the single-sheet model](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/steps-in-building-the-single-sheet-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/steps-in-building-the-single-sheet-model?u=76281980&t=0)** - [Instructor] One of the really useful things about Excel is the ability to go through and modify our Excel model in order to see what the outcome is in real-world scenarios.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/steps-in-building-the-single-sheet-model?u=76281980&t=0)** - [Instructor] One of the really useful things about [[Microsoft Excel|Excel]] is the ability to go through and modify our Excel model in order to see what the outcome is in real-world scenarios.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/steps-in-building-the-single-sheet-model?u=76281980&t=11)** Let's take a look at an example.
 >
@@ -1385,12 +1373,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up a multi-sheet financial model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/setting-up-a-multi-sheet-financial-model?u=76281980)
+#### [Setting up a multi-sheet financial model](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/setting-up-a-multi-sheet-financial-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/setting-up-a-multi-sheet-financial-model?u=76281980&t=0)** - [Instructor] So far, we've been talking about relatively simple Excel models, Excel models involving only a single sheet.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/setting-up-a-multi-sheet-financial-model?u=76281980&t=0)** - [Instructor] So far, we've been talking about relatively simple [[Microsoft Excel|Excel]] models, Excel models involving only a single sheet.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/setting-up-a-multi-sheet-financial-model?u=76281980&t=6)** But for many different issues that we're trying to model in the real world, we might need to use multiple Excel sheets.
 >
@@ -1446,11 +1433,11 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/setting-up-a-multi-sheet-financial-model?u=76281980&t=219)** Excel makes it very easy to do this consistently across all of the different assumptions that we make.
 >
-> **[3:45](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/setting-up-a-multi-sheet-financial-model?u=76281980&t=225)** So, that's our starting point for doing a multi-sheet model in particular around forecasting.
+> **[3:45](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/setting-up-a-multi-sheet-financial-model?u=76281980&t=225)** So, that's our starting point for doing a multi-sheet model in particular around [[Forecasting]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), next (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Forecasting]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** b18 (2), c18 (1)
 > **Analogies:** for example (3)
@@ -1459,12 +1446,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linking sheets in financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-sheets-in-financial-models?u=76281980)
+#### [Linking sheets in financial models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-sheets-in-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-sheets-in-financial-models?u=76281980&t=0)** - [Narrator] One of the best functions in Excel when you're building models is the indirect function.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-sheets-in-financial-models?u=76281980&t=0)** - [Narrator] One of the best functions in [[Microsoft Excel|Excel]] when you're building models is the indirect function.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-sheets-in-financial-models?u=76281980&t=5)** Let's take a look at an example of how you can use this.
 >
@@ -1542,7 +1528,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-sheets-in-financial-models?u=76281980&t=260)** Well, it's not going to like that.
 >
-> **[4:23](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-sheets-in-financial-models?u=76281980&t=263)** Now, we could get around this by adding a toggle, for example, using data validation.
+> **[4:23](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-sheets-in-financial-models?u=76281980&t=263)** Now, we could get around this by adding a toggle, for example, using [[Data Validation]].
 >
 > **[4:29](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-sheets-in-financial-models?u=76281980&t=269)** We could make this a list function, but that then creates some kind of extra noise along the way.
 >
@@ -1552,19 +1538,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Data Validation]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **UI Navigation:** toggle (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Steps in building the multi-sheet model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/steps-in-building-the-multi-sheet-model?u=76281980)
+#### [Steps in building the multi-sheet model](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/steps-in-building-the-multi-sheet-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/steps-in-building-the-multi-sheet-model?u=76281980&t=0)** - [Instructor] Multi-sheet financial models in Excel often feel fairly intimidating, but they don't have to be.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/steps-in-building-the-multi-sheet-model?u=76281980&t=0)** - [Instructor] Multi-sheet financial models in [[Microsoft Excel|Excel]] often feel fairly intimidating, but they don't have to be.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/steps-in-building-the-multi-sheet-model?u=76281980&t=5)** Once you start working with them and using some simple tips and tricks, they can actually become a lot easier to work with.
 >
@@ -1616,18 +1601,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** dropdown (1), toggle (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cogs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notating and comments in models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/notating-and-comments-in-models?u=76281980)
+#### [Notating and comments in models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/notating-and-comments-in-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/notating-and-comments-in-models?u=76281980&t=0)** - [Narrator] Models in Excel can be quite complex.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/notating-and-comments-in-models?u=76281980&t=0)** - [Narrator] Models in [[Microsoft Excel|Excel]] can be quite complex.
 >
 > **[0:02](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/notating-and-comments-in-models?u=76281980&t=2)** So it's critical that you go through and do what you can to make that model understandable, readable, and usable, not only for other users in the future, but also for yourself.
 >
@@ -1710,12 +1694,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Historical data in financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/historical-data-in-financial-models?u=76281980)
+#### [Historical data in financial models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/historical-data-in-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/historical-data-in-financial-models?u=76281980&t=0)** - [Instructor] Models in Excel often rely for their assumptions on a combination of historical data and external data.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/historical-data-in-financial-models?u=76281980&t=0)** - [Instructor] Models in [[Microsoft Excel|Excel]] often rely for their assumptions on a combination of historical data and external data.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/historical-data-in-financial-models?u=76281980&t=7)** Let's take a look and a deeper dive into how we come up with some of the assumptions in an Excel model.
 >
@@ -1729,7 +1712,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/historical-data-in-financial-models?u=76281980&t=36)** Well, some of these assumptions, you're probably going to have to rely on external data.
 >
-> **[0:40](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/historical-data-in-financial-models?u=76281980&t=40)** We could look back, for instance, at our unit growth in the past, but it's likely that we'd be forecasting based not on what we've done historically, but instead based on things like economic reports and economic forecasts from, say, external economists or maybe from the Fed or from our own internal economists, whatever that might be.
+> **[0:40](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/historical-data-in-financial-models?u=76281980&t=40)** We could look back, for instance, at our unit growth in the past, but it's likely that we'd be [[Forecasting]] based not on what we've done historically, but instead based on things like economic reports and economic forecasts from, say, external economists or maybe from the Fed or from our own internal economists, whatever that might be.
 >
 > **[1:04](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/historical-data-in-financial-models?u=76281980&t=64)** Same thing with price growth and cost growth.
 >
@@ -1777,19 +1760,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), [[Forecasting]] (3), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Forecasting]] (3)
 > **Analogies:** picture (2), for instance (1), for example (1)
 > **CLI Commands:** make (2)
 > **Versions:** 11.16 (1), 50.04 (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### External data in financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980)
+#### [External data in financial models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=0)** - [Instructor] Getting external data is one of the biggest challenges that you may face when building a novel Excel model.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=0)** - [Instructor] Getting external data is one of the biggest challenges that you may face when building a novel [[Microsoft Excel|Excel]] model.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=6)** So, where can you turn for that data?
 >
@@ -1805,11 +1787,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=51)** And one of my favorites is what's called FRED.
 >
-> **[0:54](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=54)** Now, FRED stands for Federal Reserve Economic Database, and you can get this from the Excel Office Add-in.
+> **[0:54](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=54)** Now, FRED stands for Federal Reserve Economic Database, and you can get this from the Excel [[Microsoft Office|Office]] Add-in.
 >
 > **[1:02](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=62)** So to get FRED, we can come to the Add-ins option in Excel 365, and then I can search for different add-ins.
 >
-> **[1:10](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=70)** For example, we've got add-ins related to ChatGPT, to a variety of different tools, like Autopilot, Data Visualizer, but I'm going to put in FRED.
+> **[1:10](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=70)** For example, we've got add-ins related to [[ChatGPT]], to a variety of different tools, like Autopilot, Data Visualizer, but I'm going to put in FRED.
 >
 > **[1:21](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=81)** Now, this is one that I've already got, but if I hadn't, it would come down here.
 >
@@ -1883,13 +1865,13 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=335)** Is it going to be based on kind of what's more recent, or is the longer term trend the right metric to use?
 >
-> **[5:42](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=342)** But either way, this gives me some external data that I can use to start going through and kind of benchmarking my key assumptions, because if these assumptions are bad, the rest of the model isn't going to matter.
+> **[5:42](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=342)** But either way, this gives me some external data that I can use to start going through and kind of benchmarking my key assumptions, because if these assumptions are bad, the [[Representational State Transfer (REST)|rest]] of the model isn't going to matter.
 >
 > **[5:54](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/external-data-in-financial-models?u=76281980&t=354)** So, I've got to try to make sure that I'm comfortable with those assumptions, broadly speaking.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Excel|Excel]] (8), database (1), [[Microsoft Office|Office]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Office|Office]] (1), [[ChatGPT]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gdp (7), fred (6), cpi (3)
 > **CLI Commands:** make (3)
 > **Versions:** 2.32 (2)
@@ -1898,8 +1880,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Projections in financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/projections-in-financial-models?u=76281980)
+#### [Projections in financial models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/projections-in-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,7 +1888,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/projections-in-financial-models?u=76281980&t=6)** So let's take a look at this process.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/projections-in-financial-models?u=76281980&t=8)** I'm in the 03_07_Begin Excel file.
+> **[0:08](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/projections-in-financial-models?u=76281980&t=8)** I'm in the 03_07_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/projections-in-financial-models?u=76281980&t=12)** So I have here my forecast model and we've added a few more variables, and we've also gone through and hidden a couple of sheets, just to make things kind of easier to read.
 >
@@ -2071,7 +2052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), business (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (9)
 > **Env Vars:** cagr (3)
 > **Versions:** 2.75 (1), 23.86 (1), 17.36 (1)
@@ -2084,12 +2065,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determining model accuracy
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980)
+#### [Determining model accuracy](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980&t=0)** - [Instructor] It's important not only to be able to build financial models in Excel, but also to be able to evaluate the accuracy and quality of those financial models by reviewing either your own models or other people's models.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980&t=0)** - [Instructor] It's important not only to be able to build financial models in [[Microsoft Excel|Excel]], but also to be able to evaluate the accuracy and quality of those financial models by reviewing either your own models or other people's models.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980&t=12)** Let's take a look at an example.
 >
@@ -2153,7 +2133,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980&t=175)** And we see, all right, for the most part, fairly reasonable, but a few kind of notable items.
 >
-> **[3:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980&t=180)** Our product development, we ended up with a little less in cost than we expected.
+> **[3:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980&t=180)** Our [[Product Development]], we ended up with a little less in cost than we expected.
 >
 > **[3:05](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/determining-model-accuracy?u=76281980&t=185)** Perhaps a good thing, as long as we're not kind of shortchanging our investment in the product.
 >
@@ -2195,7 +2175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), [[Product Development]] (1), product (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Product Development]] (1)
 > **Versions:** 2.0 (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2203,8 +2183,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stress testing models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/stress-testing-models?u=76281980)
+#### [Stress testing models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/stress-testing-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2212,11 +2191,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/stress-testing-models?u=76281980&t=15)** Let's take a look at an example of how we can do this.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/stress-testing-models?u=76281980&t=17)** I'm in the 0402 Begin Excel file.
+> **[0:17](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/stress-testing-models?u=76281980&t=17)** I'm in the 0402 Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/stress-testing-models?u=76281980&t=21)** So we have here our forecast for RedTech 30 over the next few years.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/stress-testing-models?u=76281980&t=28)** And what we might want to do is go through and say, okay, let me look at my key indicators, my key performance metrics for this particular firm, say revenue, net income, and units sold.
+> **[0:28](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/stress-testing-models?u=76281980&t=28)** And what we might want to do is go through and say, okay, let me look at my key indicators, my key [[Performance Metrics]] for this particular firm, say revenue, net income, and units sold.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/stress-testing-models?u=76281980&t=41)** And I just want to see kind of how aggressive that particular model is, right?
 >
@@ -2272,19 +2251,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Performance Metrics]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.25 (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-financial-models?u=76281980)
+#### [Using financial models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-financial-models?u=76281980&t=0)** - [Instructor] Excel has some great tools to be able to go through and critically interpret financial models.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-financial-models?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] has some great tools to be able to go through and critically interpret financial models.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-financial-models?u=76281980&t=6)** Let's take a look at an example.
 >
@@ -2298,7 +2276,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-financial-models?u=76281980&t=57)** And this tells me immediately that obviously, that 90th percentile is very high level.
 >
-> **[1:03](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-financial-models?u=76281980&t=63)** It's not necessarily a very good value or outcome, but, you know, if I were to go through and I take that out, and just remove kind of that conditional formatting from that particular set, I can see that, really, a lot of my costs are being driven by technical, product development, customer service, sales, and support costs.
+> **[1:03](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-financial-models?u=76281980&t=63)** It's not necessarily a very good value or outcome, but, you know, if I were to go through and I take that out, and just remove kind of that conditional formatting from that particular set, I can see that, really, a lot of my costs are being driven by technical, [[Product Development]], customer service, sales, and support costs.
 >
 > **[1:27](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/using-financial-models?u=76281980&t=87)** My other costs up above, my kind of overhead type costs, are not adding much, but how about if we were to go through and kind of do this from scratch with the Airbnb model?
 >
@@ -2318,14 +2296,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linking Excel results to PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-excel-results-to-powerpoint?u=76281980)
+#### [Linking Excel results to PowerPoint](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-excel-results-to-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-excel-results-to-powerpoint?u=76281980&t=0)** - [Presenter] Excel is a great tool, of course, for building Excel models and understanding what's going to happen to a business over time, but it's also a great tool for displaying that information to other users.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-excel-results-to-powerpoint?u=76281980&t=0)** - [Presenter] [[Microsoft Excel|Excel]] is a great tool, of course, for building Excel models and understanding what's going to happen to a business over time, but it's also a great tool for displaying that information to other users.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-excel-results-to-powerpoint?u=76281980&t=13)** Let's take a look at an example of how we can do this effectively using Excel and especially in combination with PowerPoint.
+> **[0:13](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-excel-results-to-powerpoint?u=76281980&t=13)** Let's take a look at an example of how we can do this effectively using Excel and especially in combination with [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:20](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/linking-excel-results-to-powerpoint?u=76281980&t=20)** I'm in the 04_04_Begin Excel file.
 >
@@ -2399,7 +2376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft PowerPoint|Powerpoint]] (10), data (8), business (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft PowerPoint|Powerpoint]] (10)
 > **CLI Commands:** make (6)
 > **Versions:** 2.0 (1), 1.5 (1)
 > **Definitions:** is a  (1), we call this (1)
@@ -2408,8 +2385,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Maintaining your models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/maintaining-your-models?u=76281980)
+#### [Maintaining your models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/maintaining-your-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2419,7 +2395,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/maintaining-your-models?u=76281980&t=9)** Let's take a look at an example.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/maintaining-your-models?u=76281980&t=10)** I'm in the 04_05_begin Excel file.
+> **[0:10](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/maintaining-your-models?u=76281980&t=10)** I'm in the 04_05_begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/maintaining-your-models?u=76281980&t=14)** So we have here our monthly forecast for cash flows for a firm based on a variety of costs and their revenues over time.
 >
@@ -2427,7 +2403,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/maintaining-your-models?u=76281980&t=27)** This forecast might be reasonable for say, the start of the year, but three months in, we can be certain that, some of these values will have changed.
 >
-> **[0:36](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/maintaining-your-models?u=76281980&t=36)** Certainly we'll have actuals instead of forecasts, and we'll also probably have changes in the rest of the year's assumptions.
+> **[0:36](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/maintaining-your-models?u=76281980&t=36)** Certainly we'll have actuals instead of forecasts, and we'll also probably have changes in the [[Representational State Transfer (REST)|rest]] of the year's assumptions.
 >
 > **[0:43](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/maintaining-your-models?u=76281980&t=43)** So you'll want to be able to go through and change these models.
 >
@@ -2490,14 +2466,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to build Excel models
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980)
+#### [Continuing to build Excel models](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980&t=0)** - [Michael] We've reached the end of our journey in Excel modeling, but there's a few key points I'd like you to keep in mind.
+> **[0:00](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980&t=0)** - [Michael] We've reached the end of our journey in [[Microsoft Excel|Excel]] modeling, but there's a few key points I'd like you to keep in mind.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980&t=6)** First of all, as you now see, Excel's a great tool for business modeling and it can be used to make models for nearly any variable of interest in business, whether it's a complex model spanning multiple different sheets and encompassing hundreds of different variables, or a fairly simple model used for basic sales forecasting or something like that, perhaps for a small business, Excel can be your go-to tool for doing this.
+> **[0:06](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980&t=6)** First of all, as you now see, Excel's a great tool for business modeling and it can be used to make models for nearly any variable of interest in business, whether it's a complex model spanning multiple different sheets and encompassing hundreds of different variables, or a fairly simple model used for basic sales [[Forecasting]] or something like that, perhaps for a small business, Excel can be your go-to tool for doing this.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980&t=30)** Regardless of the difficulty involved in your model, you've got a three step process you'll want to follow, first, determine your variable of interest.
 >
@@ -2517,11 +2492,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980&t=84)** So keep these factors in mind as you go out and start building Excel models.
 >
-> **[1:29](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980&t=89)** And of course, keep an eye out for great additional courses right here on LinkedIn Learning, and I'll see you next time.
+> **[1:29](https://www.linkedin.com/learning/excel-modeling-tips-and-tricks-24676326/continuing-to-build-excel-models?u=76281980&t=89)** And of course, keep an eye out for great additional courses right here on [[LinkedIn]] Learning, and I'll see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), business (3), [[Forecasting]] (1), product (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Forecasting]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Warnings:** keep in mind (1)

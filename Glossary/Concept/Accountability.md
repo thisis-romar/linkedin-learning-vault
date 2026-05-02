@@ -51,13 +51,13 @@ created: 2026-05-02
 > 18. [[Ethics in the Age of Generative AI]] — 7 mentions
 > 19. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 7 mentions
 > 20. [[The Data Science Of Healthcare Medicine And Public Health]] — 7 mentions
-> 21. [[AI Product Security- Foundations and Proactive Security for AI]] — 7 mentions
-> 22. [[Program Management for IT Professionals]] — 6 mentions
-> 23. [[Building a Responsible AI Program- Context, Culture, Content, and Commitment]] — 6 mentions
-> 24. [[AI Product Security- Building Strong Data Governance and Protection]] — 6 mentions
-> 25. [[Responsible AI for Managers]] — 6 mentions
-> 26. [[Learning Data Governance]] — 6 mentions
-> 27. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 6 mentions
+> 21. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 7 mentions
+> 22. [[AI Product Security- Foundations and Proactive Security for AI]] — 7 mentions
+> 23. [[Program Management for IT Professionals]] — 6 mentions
+> 24. [[Building a Responsible AI Program- Context, Culture, Content, and Commitment]] — 6 mentions
+> 25. [[AI Product Security- Building Strong Data Governance and Protection]] — 6 mentions
+> 26. [[Responsible AI for Managers]] — 6 mentions
+> 27. [[Learning Data Governance]] — 6 mentions
 > 28. [[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]] — 6 mentions
 > 29. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 6 mentions
 > 30. [[Influence Skills for Leaders and Managers]] — 6 mentions

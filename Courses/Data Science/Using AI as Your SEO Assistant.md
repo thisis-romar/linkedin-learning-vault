@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### You plus AI equals better SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/you-plus-ai-equals-better-seo?u=76281980)
+#### [You plus AI equals better SEO](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/you-plus-ai-equals-better-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/you-plus-ai-equals-better-seo?u=76281980&t=57)** (modem dialing) Yeah, I've been around for a while but throughout my journey, one thing has always been at the forefront of my mind getting what I create onto as many people's monitors as possible and that's where the art of SEO comes in.
 >
-> **[1:15](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/you-plus-ai-equals-better-seo?u=76281980&t=75)** I've watched the world of search engine optimization evolve over the years, and I've done my best to stay on top of it.
+> **[1:15](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/you-plus-ai-equals-better-seo?u=76281980&t=75)** I've watched the world of [[Search Engine Optimization (SEO)|search engine optimization]] evolve over the years, and I've done my best to stay on top of it.
 >
 > **[1:23](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/you-plus-ai-equals-better-seo?u=76281980&t=83)** Now as it takes its biggest leap yet, I want to guide you into the new world of SEO where collaboration with AI can take away some of the drudgery and boost your output.
 >
@@ -115,14 +114,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (4), ai (4), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Search]] (1), power (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** seo (4)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - do (1)
 
-#### Choosing the right AI for the job
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980)
+#### [Choosing the right AI for the job](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,13 +130,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=4)** Throughout this course, I'm going to be switching between different AI platforms depending on what I need each prompt to do.
 >
-> **[0:11](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=11)** For the majority of cases, I'll be using ChatGPT version 3.5.
+> **[0:11](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=11)** For the majority of cases, I'll be using [[ChatGPT]] version 3.5.
 >
 > **[0:17](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=17)** Why is that?
 >
 > **[0:18](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=18)** Well, that's what you get access to with a free account.
 >
-> **[0:21](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=21)** However, if you're using the page GPT-4 version, even better.
+> **[0:21](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=21)** However, if you're using the page [[GPT-4]] version, even better.
 >
 > **[0:26](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=26)** You'll probably get better results.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=51)** It's a dynamic world, my friends.
 >
-> **[0:53](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=53)** So when we need access to live internet data on this course, we'll be turning to Bing's version of ChatGPT which you can access through the Microsoft Edge browser.
+> **[0:53](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=53)** So when we need access to live internet data on this course, we'll be turning to Bing's version of ChatGPT which you can access through the [[Microsoft]] Edge browser.
 >
 > **[1:05](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=65)** It's a really handy tool and it ensures that we're not limited to out-of-date knowledge.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=80)** So we'll be leaning on Bing.
 >
-> **[1:22](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=82)** And let's not forget about Google's Bard.
+> **[1:22](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=82)** And let's not forget about [[Google]]'s Bard.
 >
 > **[1:25](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=85)** While most of these prompts will work on Bard, I won't be demonstrating that here, but feel free to give a go if you're curious.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=104)** Now, it's important to note that I won't be covering how to write good prompts in this course.
 >
-> **[1:49](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=109)** If that's something you're interested in, please check out my course, How to Research and Write Using Generative AI Tools.
+> **[1:49](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=109)** If that's something you're interested in, please check out my course, How to Research and Write Using [[Generative AI Tools]].
 >
 > **[1:56](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/choosing-the-right-ai-for-the-job?u=76281980&t=116)** That's where I dive deep into that topic.
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (4), prompt (2), [[Microsoft]] (2), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Microsoft]] (2), [[GPT-4]] (1), [[Google]] (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Warnings:** heads up (1), note that (1)
 > **Env Vars:** gpt (1)
@@ -211,8 +209,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI to generate keywords for SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980)
+#### [Using AI to generate keywords for SEO](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -244,7 +241,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980&t=69)** Chat GPT is pretty darn good at this.
 >
-> **[1:11](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980&t=71)** So let's give it a whirl and see how it performs on one of my own products.
+> **[1:11](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980&t=71)** So let's give it a whirl and see how it performs on one of my own [[Microsoft Products|products]].
 >
 > **[1:17](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980&t=77)** So let's paste our prompt into Chat GPT.
 >
@@ -256,7 +253,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980&t=89)** "You are an SEO expert with a reputation for getting sites to the top of search engine rankings.
 >
-> **[1:36](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980&t=96)** I want you to help me generate effective keywords that will help my site get onto the first page of Google," what we all dream of.
+> **[1:36](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980&t=96)** I want you to help me generate effective keywords that will help my site get onto the first page of [[Google]]," what we all dream of.
 >
 > **[1:43](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980&t=103)** "My site is about curly brackets, site subject and I'm hoping to attract an audience of curly brackets, audience."
 >
@@ -366,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Search]] (5), traffic (5), prompt (5), seo (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **Env Vars:** gpt (9), seo (4), ted (1)
 > **CLI Commands:** find (1)
 > **Versions:** 3.5 (1)
@@ -375,8 +372,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Warnings:** keep in mind (1)
 
-#### Using AI to generate search intent keywords
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-search-intent-keywords?u=76281980)
+#### [Using AI to generate search intent keywords](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-search-intent-keywords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +478,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-search-intent-keywords?u=76281980&t=257)** We could dive deep.
 >
-> **[4:18](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-search-intent-keywords?u=76281980&t=258)** We could ask ChatGPT to explore them further for their specific search terms that they would use and for their motivations when they're booking.
+> **[4:18](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-search-intent-keywords?u=76281980&t=258)** We could ask [[ChatGPT]] to explore them further for their specific search terms that they would use and for their motivations when they're booking.
 >
 > **[4:27](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-search-intent-keywords?u=76281980&t=267)** So it's just a great way of exploring audiences and a far more broad and deep way, and it just gives us lots of useful information that we can use to feed into our SEO strategy.
 >
@@ -510,14 +506,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (13), prompt (5), seo (2), next (1), management (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Env Vars:** seo (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - when (1)
 
-#### Using AI to create a content plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980)
+#### [Using AI to create a content plan](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,7 +592,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=174)** Okay, so let's imagine there's a horse riding school for kittens.
 >
-> **[2:58](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=178)** Posting four times a week using a vlog, LinkedIn, and Instagram.
+> **[2:58](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=178)** Posting four times a week using a vlog, [[LinkedIn]], and Instagram.
 >
 > **[3:02](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=182)** Let's see if it comes up with anything different.
 >
@@ -645,13 +640,13 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=285)** However, what I like about the suggestions that we got in this exercise is that they tap into keywords to enhance our SEO efforts, which means that everything pulls in the same direction.
 >
-> **[4:57](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=297)** And if you're thinking of starting a horse riding school for kittens, I've just given you a headstart on your content creation.
+> **[4:57](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=297)** And if you're thinking of starting a horse riding school for kittens, I've just given you a headstart on your [[Content Creation]].
 >
 > **[5:05](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-create-a-content-plan?u=76281980&t=305)** You're welcome.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (3), [[Search]] (3), [[LinkedIn]] (3), prompt (2), web (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Content Creation]] (1)
 > **Env Vars:** seo (3)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
@@ -659,12 +654,11 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1)
 > **Speakers:** - attracting (1)
 
-#### Using AI to analyze sites that rank highly for keywords
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980)
+#### [Using AI to analyze sites that rank highly for keywords](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=0)** - I think we've all experienced the frustration of searching for our own page on Google, only to find countless other pages ranking higher and stealing all the clicks.
+> **[0:00](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=0)** - I think we've all experienced the frustration of searching for our own page on [[Google]], only to find countless other pages ranking higher and stealing all the clicks.
 >
 > **[0:10](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=10)** It makes you wonder, "What did they have that my site doesn't?
 >
@@ -674,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=18)** Now you can find out exactly what it takes to leapfrog those pages and claim the gold medal in search rankings.
 >
-> **[0:26](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=26)** In this demo, we'll be using Bing's version of ChatGPT, because it's got access to the web.
+> **[0:26](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=26)** In this demo, we'll be using Bing's version of [[ChatGPT]], because it's got access to the web.
 >
 > **[0:32](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=32)** However, you may prefer to use a ChatGPT plugin for this purpose.
 >
@@ -682,7 +676,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=38)** Let's dive into the prompt and uncover the secrets of outperforming your competitors.
 >
-> **[0:44](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=44)** So here we are in Microsoft Edge.
+> **[0:44](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=44)** So here we are in [[Microsoft]] Edge.
 >
 > **[0:47](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-sites-that-rank-highly-for-keywords?u=76281980&t=47)** The way that we activate Bing's version of ChatGPT is in the top right.
 >
@@ -760,15 +754,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[ChatGPT]] (3), seo (3), [[Search]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[ChatGPT]] (3), [[Microsoft]] (1)
 > **Env Vars:** seo (3), url (2)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
 
-#### Using AI to improve your target keywords
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-improve-your-target-keywords?u=76281980)
+#### [Using AI to improve your target keywords](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-improve-your-target-keywords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -788,9 +781,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-improve-your-target-keywords?u=76281980&t=31)** So let's take the prompt for a spin and see what insights it offers us.
 >
-> **[0:36](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-improve-your-target-keywords?u=76281980&t=36)** We're back in Microsoft Edge.
+> **[0:36](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-improve-your-target-keywords?u=76281980&t=36)** We're back in [[Microsoft]] Edge.
 >
-> **[0:37](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-improve-your-target-keywords?u=76281980&t=37)** Let's activate Bing's version of ChatGPT by rolling over the speech bubble.
+> **[0:37](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-improve-your-target-keywords?u=76281980&t=37)** Let's activate Bing's version of [[ChatGPT]] by rolling over the speech bubble.
 >
 > **[0:41](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-improve-your-target-keywords?u=76281980&t=41)** There we go.
 >
@@ -846,15 +839,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), seo (2), [[Microsoft]] (1), [[ChatGPT]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** seo (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
 
-#### Using AI to optimize content for SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-optimize-content-for-seo?u=76281980)
+#### [Using AI to optimize content for SEO](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-optimize-content-for-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -872,9 +864,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-optimize-content-for-seo?u=76281980&t=33)** You're going to start with a keyword, and then you'll write a series of bullet points, outlining the content that you want to cover.
 >
-> **[0:41](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-optimize-content-for-seo?u=76281980&t=41)** Once you're ready, sit back, relax, and let ChatGPT do its magic.
+> **[0:41](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-optimize-content-for-seo?u=76281980&t=41)** Once you're ready, sit back, relax, and let [[ChatGPT]] do its magic.
 >
-> **[0:47](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-optimize-content-for-seo?u=76281980&t=47)** Watch as it generates the first draft copy complete with all the HTML tags that you need.
+> **[0:47](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-optimize-content-for-seo?u=76281980&t=47)** Watch as it generates the first draft copy complete with all the [[HTML]] tags that you need.
 >
 > **[0:53](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-optimize-content-for-seo?u=76281980&t=53)** Right, let's give it a whirl.
 >
@@ -948,15 +940,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (1), [[HTML]] (1), seo (1), power (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[HTML]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** html (1), seo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - as (1)
 
-#### Using AI to write an outreach email for link building
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980)
+#### [Using AI to write an outreach email for link building](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -992,7 +983,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=76)** See it in action.
 >
-> **[1:18](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=78)** Okay, we're in Microsoft Edge.
+> **[1:18](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=78)** Okay, we're in [[Microsoft]] Edge.
 >
 > **[1:19](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=79)** Let's activate Bing up here.
 >
@@ -1000,7 +991,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=83)** Now, I don't want to use the chat function here.
 >
-> **[1:26](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=86)** I want to go to Compose.
+> **[1:26](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=86)** I want to go to [[Jetpack Compose|Compose]].
 >
 > **[1:27](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=87)** Let me paste our prompt into Compose, and I will read the prompt out to you.
 >
@@ -1028,7 +1019,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=154)** They're good friends of mine.
 >
-> **[2:35](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=155)** Then we've got the relevant content that I want them to post is a checklist for good ChatGPT prompts.
+> **[2:35](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=155)** Then we've got the relevant content that I want them to post is a checklist for good [[ChatGPT]] prompts.
 >
 > **[2:43](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-write-an-outreach-email-for-link-building?u=76281980&t=163)** And my site is, well, my site, [davebirss.com](https://davebirss.com).
 >
@@ -1118,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[ChatGPT]] (3), seo (2), [[Jetpack Compose|Compose]] (2), express (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Jetpack Compose|Compose]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [thedrum.com](https://thedrum.com) (1), [davebirss.com](https://davebirss.com) (1)
 > **Env Vars:** seo (2)
@@ -1126,8 +1117,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Using AI to help optimize social media profiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980)
+#### [Using AI to help optimize social media profiles](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1139,11 +1129,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=25)** This prompt is designed to make the process of writing your social media profiles an absolute breeze.
 >
-> **[0:31](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=31)** In fact, we'll be using Bing's version of ChatGPT to fetch the necessary information from the about page on your website, making it even simpler for you.
+> **[0:31](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=31)** In fact, we'll be using Bing's version of [[ChatGPT]] to [[Fetch]] the necessary information from the about page on your website, making it even simpler for you.
 >
 > **[0:41](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=41)** All right, it's demo time. Let's go.
 >
-> **[0:44](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=44)** Okay, let's activate Bing in Microsoft's Edge browser here.
+> **[0:44](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=44)** Okay, let's activate Bing in [[Microsoft]]'s Edge browser here.
 >
 > **[0:48](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-help-optimize-social-media-profiles?u=76281980&t=48)** Now we're asking it to come up with some stuff here to write some things for us with a bit of character, so we're going to go to creative mode here.
 >
@@ -1201,7 +1191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), prompt (3), traffic (2), [[ChatGPT]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Fetch]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** seo (1)
 > **UI Navigation:** go to (1)
@@ -1209,8 +1199,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - while (1)
 
-#### Using AI to generate schema markup
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-schema-markup?u=76281980)
+#### [Using AI to generate schema markup](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-schema-markup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1232,7 +1221,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-schema-markup?u=76281980&t=56)** So let's see it in the wild.
 >
-> **[0:58](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-schema-markup?u=76281980&t=58)** Okay, let's open up Bing's version of ChatGPT here.
+> **[0:58](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-schema-markup?u=76281980&t=58)** Okay, let's open up Bing's version of [[ChatGPT]] here.
 >
 > **[1:02](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-schema-markup?u=76281980&t=62)** I'm going to keep it in balanced mode and let's paste in what is the shortest prompt in this course.
 >
@@ -1288,7 +1277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Search]] (3), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **Env Vars:** url (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -1296,8 +1285,7 @@ created: 2026-05-02
 > **Speakers:** - you (1)
 > **Non-Speech:** (swoosh music) (1)
 
-#### Using AI to analyze website data
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-website-data?u=76281980)
+#### [Using AI to analyze website data](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-website-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1311,7 +1299,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-website-data?u=76281980&t=27)** I've got some actual data from one of my websites that I'm going to paste in.
 >
-> **[0:31](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-website-data?u=76281980&t=31)** You can download your own data from services like Google Analytics or whichever other platform you use to track your stats.
+> **[0:31](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-website-data?u=76281980&t=31)** You can download your own data from services like [[Google]] Analytics or whichever other platform you use to track your stats.
 >
 > **[0:38](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-website-data?u=76281980&t=38)** The goal is to see what valuable insights ChapGPT can derive from the data.
 >
@@ -1393,7 +1381,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-website-data?u=76281980&t=220)** I'm going to press that. It's quite a new button.
 >
-> **[3:42](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-website-data?u=76281980&t=222)** I've only seen it appear in the last few days in my ChatGPT.
+> **[3:42](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-website-data?u=76281980&t=222)** I've only seen it appear in the last few days in my [[ChatGPT]].
 >
 > **[3:46](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-analyze-website-data?u=76281980&t=226)** So I will press that, and there. It continues.
 >
@@ -1437,7 +1425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), prompt (4), web (2), next (2), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Google]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Env Vars:** seo (1)
@@ -1445,12 +1433,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - spreadsheets (1)
 
-#### Using plugins with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-plugins-with-chatgpt?u=76281980)
+#### [Using plugins with ChatGPT](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-plugins-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-plugins-with-chatgpt?u=76281980&t=0)** - Just a few days before I recorded this video, ChatGPT released plugins, opening up a whole new world of possibilities.
+> **[0:00](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-plugins-with-chatgpt?u=76281980&t=0)** - Just a few days before I recorded this video, [[ChatGPT]] released plugins, opening up a whole new world of possibilities.
 >
 > **[0:09](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-plugins-with-chatgpt?u=76281980&t=9)** One of the plugins currently available and free of charge is Bramework.
 >
@@ -1464,7 +1451,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-plugins-with-chatgpt?u=76281980&t=39)** Now, let's take a quick look at how we can use the Bramework plugin.
 >
-> **[0:45](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-plugins-with-chatgpt?u=76281980&t=45)** If you've got the paid version of ChatGPT, you're able to access GPT-4.
+> **[0:45](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-plugins-with-chatgpt?u=76281980&t=45)** If you've got the paid version of ChatGPT, you're able to access [[GPT-4]].
 >
 > **[0:50](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-plugins-with-chatgpt?u=76281980&t=50)** This is at the time of filming.
 >
@@ -1598,7 +1585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[Search]] (6), [[ChatGPT]] (5), [[GPT-4]] (3), data (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[GPT-4]] (3)
 > **Env Vars:** gpt (3), seo (2)
 > **UI Navigation:** dropdown (2), click on (1), scroll down (1)
 > **CLI Commands:** make (2)
@@ -1612,14 +1599,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=0)** - Congratulations, you have made it to the end of the course and I hope you've gained a heap of value from it.
 >
-> **[0:07](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=7)** Now, armed with the knowledge of how to make your site more alluring to search engines, I can't wait to see you on the first page of Google because that's where I want to be hanging at.
+> **[0:07](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=7)** Now, armed with the knowledge of how to make your site more alluring to search engines, I can't wait to see you on the first page of [[Google]] because that's where I want to be hanging at.
 >
 > **[0:18](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=18)** But before we part ways, I want to make sure that you've got all the resources you need.
 >
@@ -1627,11 +1613,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=33)** Trust me, its well worth checking out.
 >
-> **[0:36](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=36)** If you haven't done so already, I highly recommend taking my Prompt Engineering course next.
+> **[0:36](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=36)** If you haven't done so already, I highly recommend taking my [[Prompt Engineering]] course next.
 >
 > **[0:41](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=41)** It's a fantastic compliment to what you've learned here and it will really accelerate your AI journey.
 >
-> **[0:48](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=48)** Keep an eye out for my upcoming courses on LinkedIn Learning to stay up to date.
+> **[0:48](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=48)** Keep an eye out for my upcoming courses on [[LinkedIn]] Learning to stay up to date.
 >
 > **[0:52](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=52)** Simply click on my profile image somewhere around this video to see if they've been added to my list of courses yet, and to stay connected and explore more about AI, creativity and innovation, be sure to subscribe to my LinkedIn newsletter, Experiments in Creativity, and follow me on LinkedIn.
 >
@@ -1639,13 +1625,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=75)** Now, it's time for you to go out and share this course with others.
 >
-> **[1:19](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=79)** Spread the word so that more people can benefit from the prompts and approaches that we've discussed here.
+> **[1:19](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=79)** Spread the [[Microsoft Word|word]] so that more people can benefit from the prompts and approaches that we've discussed here.
 >
 > **[1:25](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980&t=85)** Thank you for joining me on this learning adventure and I'll see you in another course real soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), ai (2), [[Search]] (1), [[Google]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Google]] (1), [[Prompt Engineering]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - congratulations (1)

@@ -108,28 +108,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Excel for Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980)
+#### [Getting started with Excel for Microsoft 365](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980&t=0)** - [Dennis] Being efficient at Excel is considered one of the most beneficial and indispensable skills that you can offer your team.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980&t=0)** - [Dennis] Being efficient at [[Microsoft Excel|Excel]] is considered one of the most beneficial and indispensable skills that you can offer your team.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980&t=7)** Excel is vital to the functioning of most workplace environments.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980&t=10)** It provides an extensive set of features for managing and analyzing data.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980&t=15)** In my LinkedIn course, I'll cover Excel's menu system, how to create formulas and use simple functions, how to format your data, how to sort and filtered large lists, how to create charts, and a lot more.
+> **[0:15](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980&t=15)** In my [[LinkedIn]] course, I'll cover Excel's menu system, how to create formulas and use simple functions, how to format your data, how to sort and filtered large lists, how to create charts, and a lot more.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980&t=28)** This course is intended to take you from beginner to intermediate.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980&t=31)** If you're experienced with Excel, be sure to check out the many intermediate courses available on LinkedIn Learning.
 >
-> **[0:38](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980&t=38)** So, if you're ready, join me, Dennis Taylor, as we get started with Excel Essential Training for Microsoft 365.
+> **[0:38](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980&t=38)** So, if you're ready, join me, Dennis Taylor, as we get started with Excel Essential Training for [[Microsoft 365]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (2), [[LinkedIn]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[LinkedIn]] (2), [[Microsoft 365]] (1)
 > **Speakers:** - [dennis] (1)
 
 
@@ -137,12 +136,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Excel fundamentals: What can it do?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980)
+#### [Excel fundamentals: What can it do?](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=0)** - [Lecturer] What is Excel all about?
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=0)** - [Lecturer] What is [[Microsoft Excel|Excel]] all about?
 >
 > **[0:02](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=2)** What is it used for?
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=41)** With this sea of numbers, it might be overwhelming, but Excel has a number of techniques for hiding some of the columns that we don't really need to see right now or hiding some of the rows.
 >
-> **[0:50](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=50)** And we can zoom in and zoom out quickly and easily to focus on certain areas here.
+> **[0:50](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=50)** And we can [[Zoom]] in and zoom out quickly and easily to focus on certain areas here.
 >
 > **[0:55](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=55)** Talk about these numbers or those numbers.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=67)** And at different times when you're using this list, you quickly want to see just the people in a certain state, maybe, or a certain city, or maybe just simply want to alphabetize the entire list based on state or city.
 >
-> **[1:21](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=81)** Excel has numerous techniques for what we call data management, not only sorting, but also filtering.
+> **[1:21](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=81)** Excel has numerous techniques for what we call [[Data Management]], not only sorting, but also filtering.
 >
 > **[1:27](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980&t=87)** So we can easily manage this information and keep track of it.
 >
@@ -236,17 +234,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), data (4), [[Zoom]] (2), business (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Zoom]] (2), [[Data Management]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Excel's ribbon menu and the Quick Access Toolbar
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980)
+#### [Excel's ribbon menu and the Quick Access Toolbar](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=0)** - [Instructor] Excel's menu system at the top of the screen consists of a series of tabs on top of a group of icons.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]]'s menu system at the top of the screen consists of a series of tabs on top of a group of icons.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=6)** Now it's quite extensive and it certainly can be intimidating if you let it be.
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=33)** For most Excel users, much of the time, it's the Home tab that's likely to be active.
 >
-> **[0:38](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=38)** And if you work with Excel only a little bit, or possibly you've worked with Word or PowerPoint, certainly some of these buttons or icons as we call them are likely to be fairly apparent.
+> **[0:38](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=38)** And if you work with Excel only a little bit, or possibly you've worked with [[Microsoft Word|Word]] or [[Microsoft PowerPoint|PowerPoint]], certainly some of these buttons or icons as we call them are likely to be fairly apparent.
 >
 > **[0:48](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=48)** Like B for bold, I for italic, so on, U for underline.
 >
@@ -280,13 +277,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=89)** There's no question that many of the day-to-day features that you will be using if you work with Excel frequently are found here on what we call the Home tab.
 >
-> **[1:38](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=98)** Now, without going through every single tab and every button, it's a quick reminder, the Insert tab is where we often insert new features like pivot tables, which you might have seen referenced in the previous movie, or off to the right, we've got various kinds of charts here, and some other features as well, like sparklines and things that you might not have heard of.
+> **[1:38](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=98)** Now, without going through every single tab and every button, it's a quick reminder, the Insert tab is where we often insert new features like [[Pivot Tables]], which you might have seen referenced in the previous movie, or off to the right, we've got various kinds of charts here, and some other features as well, like sparklines and things that you might not have heard of.
 >
 > **[1:58](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=118)** Page Layout has a lot to do with printing options.
 >
 > **[2:02](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=122)** Formulas, the heart and soul for many Excel users as they work with spreadsheets, have a lot to do with inserting Excel functions, and off to the right, some other more advanced features related to that, tracing dependent cells and so on.
 >
-> **[2:15](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=135)** The Data tab has a lot to do with Excel's data management features.
+> **[2:15](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=135)** The Data tab has a lot to do with Excel's [[Data Management]] features.
 >
 > **[2:19](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=139)** Here we see Sort & Filter, two of the most widely used tools.
 >
@@ -318,7 +315,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=208)** The one tab in the list here that is different than the others is the File tab.
 >
-> **[3:32](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=212)** And as I point with the left mouse button and click File, we're seeing what Microsoft refers to as the backstage view.
+> **[3:32](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=212)** And as I point with the left mouse button and click File, we're seeing what [[Microsoft]] refers to as the backstage view.
 >
 > **[3:39](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-ribbon-menu-and-the-quick-access-toolbar?u=76281980&t=219)** And here we see some of those commands and features primarily related to managing files, creating a new file, opening files, sharing files, and also printing.
 >
@@ -328,18 +325,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), data (6), [[Microsoft Word|Word]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Microsoft Word|Word]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Pivot Tables]] (1), [[Data Management]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** refers to (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shortcut menus and the mini toolbar
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/shortcut-menus-and-the-mini-toolbar?u=76281980)
+#### [Shortcut menus and the mini toolbar](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/shortcut-menus-and-the-mini-toolbar?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/shortcut-menus-and-the-mini-toolbar?u=76281980&t=0)** - [Instructor] In Excel, the right mouse button always means shortcut menu.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/shortcut-menus-and-the-mini-toolbar?u=76281980&t=0)** - [Instructor] In [[Microsoft Excel|Excel]], the right mouse button always means shortcut menu.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/shortcut-menus-and-the-mini-toolbar?u=76281980&t=4)** And it's a great tool because particularly as you're getting started with Excel, it can easily be intimidating because there's so many choices in the menu system.
 >
@@ -463,7 +459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** click on (3), in the menu (1), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** a11 (1)
@@ -472,12 +468,11 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Excel workbooks and worksheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980)
+#### [Understanding Excel workbooks and worksheets](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=0)** - [Instructor] In Excel, there are a few words and terms that you should use consistently.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=0)** - [Instructor] In [[Microsoft Excel|Excel]], there are a few words and terms that you should use consistently.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=5)** A file is a workbook, a workbook is a file.
 >
@@ -485,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=13)** You'll see this at the top of the screen.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=15)** And nearly always, we can use the word workbook and file interchangeably.
+> **[0:15](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=15)** And nearly always, we can use the [[Microsoft Word|word]] workbook and file interchangeably.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=20)** Every workbook has at least one worksheet.
 >
@@ -573,7 +568,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=207)** And at the moment, that's not meaningful, but as we work with formulas a bit later, it's all important to keep your eye on the idea that we use cell addresses comprised always of the column letters followed by the row numbers.
 >
-> **[3:40](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=220)** Also, as you work with Excel, and although we don't have any numbers on the screen right now, at different times, you'll want to increase the zoom factor.
+> **[3:40](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=220)** Also, as you work with Excel, and although we don't have any numbers on the screen right now, at different times, you'll want to increase the [[Zoom]] factor.
 >
 > **[3:48](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/understanding-excel-workbooks-and-worksheets?u=76281980&t=228)** And in the lower-right-hand corner, you see the zoom slider bar.
 >
@@ -611,7 +606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), data (6), [[Microsoft Word|Word]] (3), [[Zoom]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Word|Word]] (3), [[Zoom]] (3)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** az (1)
 > **Env Vars:** xfd (1)
@@ -619,12 +614,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Excel Help
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-excel-help?u=76281980)
+#### [Use Excel Help](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-excel-help?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-excel-help?u=76281980&t=0)** - [Instructor] Built into Excel is an extensive help system, and it's available in a variety of different ways.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-excel-help?u=76281980&t=0)** - [Instructor] Built into [[Microsoft Excel|Excel]] is an extensive help system, and it's available in a variety of different ways.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-excel-help?u=76281980&t=6)** If I'm pretty much of a beginner in Excel and I'm curious about what a button might mean, I'm sliding my mouse up toward the top of the screen here.
 >
@@ -722,7 +716,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-excel-help?u=76281980&t=161)** Tell me more.
 >
-> **[2:42](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-excel-help?u=76281980&t=162)** And again, that Help system is going to react on the right-hand side.
+> **[2:42](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-excel-help?u=76281980&t=162)** And again, that Help system is going to [[React.js|react]] on the right-hand side.
 >
 > **[2:46](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-excel-help?u=76281980&t=166)** And there it is.
 >
@@ -748,18 +742,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), feature (2), data (1), next (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[React.js|React]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** it's like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Excel's accessibility features
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980)
+#### [Excel's accessibility features](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=0)** - [Instructor] At different times when working with Excel, you might see in the lower left corner just to the right of the word ready, Accessibility: Investigate.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=0)** - [Instructor] At different times when working with [[Microsoft Excel|Excel]], you might see in the lower left corner just to the right of the [[Microsoft Word|word]] ready, Accessibility: Investigate.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=8)** If you see this, and I'm sliding over it right now, the popup reads, "Accessibility recommendations found.
 >
@@ -781,7 +774,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=77)** So I could provide text, and if I click there, Missing alt text, it's inviting me, in fact, right here to provide a description.
 >
-> **[1:26](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=86)** So I could say, for example, for that chart on the left=hand side, something like this, I could type in a vertical column chart with columns showing sales of particular products in regions, something like that.
+> **[1:26](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=86)** So I could say, for example, for that chart on the left=hand side, something like this, I could type in a vertical column chart with columns showing sales of particular [[Microsoft Products|products]] in regions, something like that.
 >
 > **[1:39](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=99)** And that helps explain the chart if someone or some people possibly couldn't see it as clearly as they might want.
 >
@@ -799,7 +792,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=144)** And here are a couple of features that from time to time do pose some problems.
 >
-> **[2:28](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=148)** If you go to Options Accessibility, make Office more accessible, this will take you into a screen where if you say, "You know, I don't need this feature at all," you could just turn off this check mark right here, keep accessibility checker running while I work.
+> **[2:28](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=148)** If you go to Options Accessibility, make [[Microsoft Office|Office]] more accessible, this will take you into a screen where if you say, "You know, I don't need this feature at all," you could just turn off this check mark right here, keep accessibility checker running while I work.
 >
 > **[2:43](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-s-accessibility-features?u=76281980&t=163)** But above is a longer description of why you might want to keep it on.
 >
@@ -843,7 +836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (2)
@@ -857,18 +850,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring data entry, editing, and AutoFill
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980)
+#### [Exploring data entry, editing, and AutoFill](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=0)** - [Instructor] At different times, as Excel users, we need to do data entry.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=0)** - [Instructor] At different times, as [[Microsoft Excel|Excel]] users, we need to do data entry.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=4)** And sometimes it can be rather boring, but there are some shortcuts and techniques and some concepts that you want to be familiar with.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=10)** Imagine that on this worksheet, I'm going to keep track of sales for the first six months, I've got a small operation, maybe I'm starting out of my home, and I want to keep track of sales and the expenses that I have each month and also, hopefully, the profit.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=24)** I'm only going to need six or seven columns or so, so one thing, and not truly necessary, but to make everything larger on the screen, I'm going to zoom in.
+> **[0:24](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=24)** I'm only going to need six or seven columns or so, so one thing, and not truly necessary, but to make everything larger on the screen, I'm going to [[Zoom]] in.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=33)** In the lower right-hand corner, you'll see that slider bar.
 >
@@ -888,7 +880,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=69)** And in the left corner here, just above this, just above the column letters on the left side, you'll see the name, in this case cell A2, of that current cell.
 >
-> **[1:18](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=78)** So I'm going to type the word Sales and immediately recognize it's on the left-hand side of the cell.
+> **[1:18](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=78)** So I'm going to type the [[Microsoft Word|word]] Sales and immediately recognize it's on the left-hand side of the cell.
 >
 > **[1:24](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980&t=84)** And that's what Excel does as we type text entries.
 >
@@ -1066,7 +1058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (6), next (5), [[Microsoft Word|Word]] (3), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft Word|Word]] (3), [[Zoom]] (1)
 > **Definitions:** we call this (1), is a  (1), short for (1)
 > **UI Navigation:** double-click (1), click on (1)
 > **Analogies:** imagine (2)
@@ -1074,12 +1066,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with dates and times in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/working-with-dates-and-times-in-excel?u=76281980)
+#### [Working with dates and times in Excel](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/working-with-dates-and-times-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/working-with-dates-and-times-in-excel?u=76281980&t=0)** - [Instructor] Excel has a great deal of computational capability when you work with dates and times.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/working-with-dates-and-times-in-excel?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] has a great deal of computational capability when you work with dates and times.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/working-with-dates-and-times-in-excel?u=76281980&t=5)** And provided you put in those dates in what we call a standard way, the regional settings in your version of Excel also come into play in terms of the format that you use.
 >
@@ -1171,7 +1162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), next (2), feature (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9)
 > **CLI Commands:** make (2), find (2)
 > **Ports:** :15 (3), :00 (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1179,12 +1170,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Undo and Redo
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-undo-and-redo?u=76281980)
+#### [Using Undo and Redo](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-undo-and-redo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-undo-and-redo?u=76281980&t=0)** - [Instructor] We're looking at a worksheet that's called Undo-Redo, and it brings to mind a very powerful feature in Excel actually mentioned briefly in one of our previous movies.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-undo-and-redo?u=76281980&t=0)** - [Instructor] We're looking at a worksheet that's called Undo-Redo, and it brings to mind a very powerful feature in [[Microsoft Excel|Excel]] actually mentioned briefly in one of our previous movies.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-undo-and-redo?u=76281980&t=10)** I'm about to make a change here.
 >
@@ -1202,7 +1192,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-undo-and-redo?u=76281980&t=42)** In the quick access toolbar, which is above the menu, we see a counterclockwise arrow; it's the undo button.
 >
-> **[0:49](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-undo-and-redo?u=76281980&t=49)** Undo, and it usually is followed by a word that's meaningful, in this case, clear.
+> **[0:49](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-undo-and-redo?u=76281980&t=49)** Undo, and it usually is followed by a [[Microsoft Word|word]] that's meaningful, in this case, clear.
 >
 > **[0:54](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-undo-and-redo?u=76281980&t=54)** I just cleared some data and there's that keystroke shortcut, CTRL + Z, so I'm going to click the button.
 >
@@ -1274,7 +1264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), feature (2), data (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ctrl (16), crtl (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), refers to (1)
@@ -1282,8 +1272,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Save or Save As
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-save-or-save-as?u=76281980)
+#### [Use Save or Save As](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-save-or-save-as?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1315,7 +1304,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-save-or-save-as?u=76281980&t=85)** Rarely, but occasionally you might have to save this in a different format.
 >
-> **[1:30](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-save-or-save-as?u=76281980&t=90)** Most of the time it's going to be Excel, but here are some other options here too.
+> **[1:30](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-save-or-save-as?u=76281980&t=90)** Most of the time it's going to be [[Microsoft Excel|Excel]], but here are some other options here too.
 >
 > **[1:33](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/use-save-or-save-as?u=76281980&t=93)** Maybe an older version of Excel, highly unlikely, or maybe as a text file.
 >
@@ -1347,7 +1336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Definitions:** means that (1), in other words (1)
 > **Analogies:** imagine (2)
 > **UI Navigation:** go to (1)
@@ -1358,12 +1347,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using simple formulas in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980)
+#### [Using simple formulas in Excel](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=0)** - [Lecturer] For many Excel users, writing formulas is what they do most often.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=0)** - [Lecturer] For many [[Microsoft Excel|Excel]] users, writing formulas is what they do most often.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=4)** And in this worksheet called Formulas, we're going to put in some simple formulas.
 >
@@ -1477,7 +1465,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=227)** Left parenthesis, and now rather than putting in the names of all those cells, we highlight them.
 >
-> **[3:54](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=234)** And sometimes you'll hear the word "select," "highlight" means the same thing.
+> **[3:54](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=234)** And sometimes you'll hear the [[Microsoft Word|word]] "select," "highlight" means the same thing.
 >
 > **[3:58](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=238)** We use the mouse and we can either drag left-right or right-left, but hold down the left mouse button first.
 >
@@ -1505,7 +1493,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=288)** If you click cell B4, and that's the formula we wrote earlier, we see the formula.
 >
-> **[4:54](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=294)** So you develop that instinct too, the more you work with financial data in particular.
+> **[4:54](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=294)** So you develop that instinct too, the more you work with [[Financial Data]] in particular.
 >
 > **[4:59](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=299)** Click a cell, look in the formula bar.
 >
@@ -1623,7 +1611,7 @@ created: 2026-05-02
 >
 > **[8:22](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=502)** That's the way we would be expecting it.
 >
-> **[8:25](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=505)** And of course, it will react just as our other formulas might, if this changes.
+> **[8:25](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=505)** And of course, it will [[React.js|react]] just as our other formulas might, if this changes.
 >
 > **[8:29](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980&t=509)** If I change the January entry, maybe I just found out it was 95, I'll change that to be 95.
 >
@@ -1649,7 +1637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), data (2), next (2), [[Microsoft Word|Word]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft Word|Word]] (1), [[Financial Data]] (1), [[React.js|React]] (1)
 > **UI Navigation:** double-click (2), click on (1)
 > **Versions:** 0.25 (1)
 > **Cross-References:** in the next (1)
@@ -1658,8 +1646,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Copying a formula into adjacent cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/copying-a-formula-into-adjacent-cells?u=76281980)
+#### [Copying a formula into adjacent cells](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/copying-a-formula-into-adjacent-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1681,7 +1668,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/copying-a-formula-into-adjacent-cells?u=76281980&t=28)** No, of course not.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/copying-a-formula-into-adjacent-cells?u=76281980&t=30)** What we'd like to be able to do is to copy a formula, and fortunately in Excel, that's relatively straightforward and easy.
+> **[0:30](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/copying-a-formula-into-adjacent-cells?u=76281980&t=30)** What we'd like to be able to do is to copy a formula, and fortunately in [[Microsoft Excel|Excel]], that's relatively straightforward and easy.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/copying-a-formula-into-adjacent-cells?u=76281980&t=36)** Sometimes you'll be copying formulas across a row, at other times down a column.
 >
@@ -1785,18 +1772,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using SUM and AVERAGE in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-sum-and-average-in-excel?u=76281980)
+#### [Using SUM and AVERAGE in Excel](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-sum-and-average-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-sum-and-average-in-excel?u=76281980&t=0)** - [Narrator] For many Excel users, the two most frequently used functions are SUM and AVERAGE.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-sum-and-average-in-excel?u=76281980&t=0)** - [Narrator] For many [[Microsoft Excel|Excel]] users, the two most frequently used functions are SUM and AVERAGE.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-sum-and-average-in-excel?u=76281980&t=5)** And the SUM function has some special shortcuts as well.
 >
@@ -1920,14 +1906,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** sum (6), average (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### XLOOKUP and lookup functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/xlookup-and-lookup-functions?u=76281980)
+#### [XLOOKUP and lookup functions](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/xlookup-and-lookup-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1937,7 +1922,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/xlookup-and-lookup-functions?u=76281980&t=7)** One category of functions that has wide use when working with lists is what we call lookup functions.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/xlookup-and-lookup-functions?u=76281980&t=13)** And anytime you are looking for a function in Excel, go to the formulas tab in the ribbon, and here are the various categories of functions.
+> **[0:13](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/xlookup-and-lookup-functions?u=76281980&t=13)** And anytime you are looking for a function in [[Microsoft Excel|Excel]], go to the formulas tab in the ribbon, and here are the various categories of functions.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/xlookup-and-lookup-functions?u=76281980&t=22)** Now it's going to be quite a leap for those of you who've never worked with functions before.
 >
@@ -2033,7 +2018,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/xlookup-and-lookup-functions?u=76281980&t=217)** And finding your way through list, particularly large lists sometimes seems a little bit intimidating.
 >
-> **[3:43](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/xlookup-and-lookup-functions?u=76281980&t=223)** But in addition to the data management tools that are available in Excel, like filtering and sorting, you also have the capability of using functions like this that help you track down data and off to the right.
+> **[3:43](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/xlookup-and-lookup-functions?u=76281980&t=223)** But in addition to the [[Data Management]] tools that are available in Excel, like filtering and sorting, you also have the capability of using functions like this that help you track down data and off to the right.
 >
 > **[3:55](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/xlookup-and-lookup-functions?u=76281980&t=235)** We could be using this in a similar way here.
 >
@@ -2057,7 +2042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (5), next (1), power (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Data Management]] (1)
 > **Env Vars:** xlookup (5), vlookup (1), hlooup (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (2)
@@ -2071,12 +2056,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring font styles, borders, and color backgrounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980)
+#### [Exploring font styles, borders, and color backgrounds](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980&t=0)** - [Instructor] If you want to improve perhaps readability of a worksheet or to provide special emphasis on one portion of a worksheet or another, or sometimes you just like certain colors, Excel has quite a few easy-to-use tools, found mostly on the Home tab in the Font group.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980&t=0)** - [Instructor] If you want to improve perhaps readability of a worksheet or to provide special emphasis on one portion of a worksheet or another, or sometimes you just like certain colors, [[Microsoft Excel|Excel]] has quite a few easy-to-use tools, found mostly on the Home tab in the Font group.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980&t=16)** There's a bunch of 'em up here that I'm moving the mouse around, and also in the Alignment group to the right.
 >
@@ -2084,7 +2068,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980&t=23)** It's also displayed to the right, and it's using a font called Aptos.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980&t=28)** In 2023, Microsoft introduced a new standard font to be used in Excel called Aptos, and prior versions used Calibri.
+> **[0:28](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980&t=28)** In 2023, [[Microsoft]] introduced a new standard font to be used in Excel called Aptos, and prior versions used Calibri.
 >
 > **[0:37](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980&t=37)** And although not too important for most people, most of the time, in the lower portion of this screen, we do see the difference in the fonts here and from time to time, with certain kinds of data, you might want to pay attention to that or make a change here and there.
 >
@@ -2254,7 +2238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2), next (2), [[Microsoft]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** e13 (1), a15 (1)
 > **UI Navigation:** go to (2)
@@ -2262,18 +2246,17 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying numeric formats in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980)
+#### [Applying numeric formats in Excel](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=0)** - [Instructor] Excel has any number of different numeric formats.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] has any number of different numeric formats.
 >
 > **[0:03](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=3)** And you can see on this worksheet called Numeric, Some of them are in place already.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=7)** And as you work with numbers or different kinds of numbers in Excel, you want to keep your eye on the Home tab in the number group right here.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=15)** Now, if I click on an empty cell in this worksheet where there's never been any data, we're likely to see the word general.
+> **[0:15](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=15)** Now, if I click on an empty cell in this worksheet where there's never been any data, we're likely to see the [[Microsoft Word|word]] general.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=22)** This is what we call the native font.
 >
@@ -2329,7 +2312,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=123)** Now, behind the scenes, and you don't always necessarily want to go there, here's a little button here.
 >
-> **[2:08](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=128)** Now, Microsoft has dubbed this the dialogue box launcher, but whenever you see these buttons, and here's one for alignment, here's one for font, it's as if you're saying let's go behind the scenes and find some more options.
+> **[2:08](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=128)** Now, [[Microsoft]] has dubbed this the dialogue box launcher, but whenever you see these buttons, and here's one for alignment, here's one for font, it's as if you're saying let's go behind the scenes and find some more options.
 >
 > **[2:21](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/applying-numeric-formats-in-excel?u=76281980&t=141)** So Number format here.
 >
@@ -2413,7 +2396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), [[Security]] (3), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** right-click (2), click on (1), go to (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -2421,8 +2404,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adjusting row heights and column widths in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/adjusting-row-heights-and-column-widths-in-excel?u=76281980)
+#### [Adjusting row heights and column widths in Excel](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/adjusting-row-heights-and-column-widths-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2536,7 +2518,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (9)
 > **UI Navigation:** in the menu (1), click on (1), select the (1)
 > **Analogies:** imagine (1), for example (1)
@@ -2548,8 +2529,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rows and columns: Insert/delete and hide/unhide
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980)
+#### [Rows and columns: Insert/delete and hide/unhide](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2669,7 +2649,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980&t=236)** But if we click on the upper-left corner or right click a column letter and Unhide, that column still isn't very visible.
 >
-> **[4:03](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980&t=243)** Now, if you look closely or zoom in, you could see that's hidden.
+> **[4:03](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980&t=243)** Now, if you look closely or [[Zoom]] in, you could see that's hidden.
 >
 > **[4:07](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980&t=247)** What we could do in an alternate way is drag across these, and then take any of the boundaries, point to it, hold down the left mouse button, make it wider, then you get some sense of what's going on.
 >
@@ -2689,7 +2669,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980&t=290)** So many times, hiding columns is just a precautionary measure.
 >
-> **[4:55](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980&t=295)** And sometimes, if you allow other users to work with their workbook simply by hiding a column, if they're not too knowledgeable about Excel, they certainly will not know how to unhide it as well.
+> **[4:55](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980&t=295)** And sometimes, if you allow other users to work with their workbook simply by hiding a column, if they're not too knowledgeable about [[Microsoft Excel|Excel]], they certainly will not know how to unhide it as well.
 >
 > **[5:05](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980&t=305)** So it's a viable tool hiding and unhiding columns.
 >
@@ -2697,15 +2677,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), management (1), [[Zoom]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Moving, copying, and inserting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-inserting-data?u=76281980)
+#### [Moving, copying, and inserting data](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-inserting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2721,7 +2700,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-inserting-data?u=76281980&t=20)** In this worksheet here, I want to make a backup copy of the numbers I see at the top of the screen.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-inserting-data?u=76281980&t=25)** So pointing to the word sales, holding down the left mouse button, I'm dragging across and down to highlight this data.
+> **[0:25](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-inserting-data?u=76281980&t=25)** So pointing to the [[Microsoft Word|word]] sales, holding down the left mouse button, I'm dragging across and down to highlight this data.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-inserting-data?u=76281980&t=31)** If I simply wanted to move this, I would drag any edge, say the lower edge, down to row, 15, 16, 20, somewhere down there, let go of the mouse, and I've moved the data.
 >
@@ -2813,14 +2792,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding and replacing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/finding-and-replacing-data?u=76281980)
+#### [Finding and replacing data](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/finding-and-replacing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2886,7 +2864,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), data (3), [[Search]] (1)
 > **CLI Commands:** find (7)
 > **Env Vars:** rick (2), ick (1)
 > **Analogies:** imagine (1), for example (1)
@@ -2898,14 +2875,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Page Layout view and commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980)
+#### [Page Layout view and commands](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980&t=0)** - [Instructor] At times, you do want to print a worksheet.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980&t=3)** Excel has a number of approaches to printing, and it can be a little confusing at times, not because it's difficult, but because there's so many different ways we could start the process.
+> **[0:03](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980&t=3)** [[Microsoft Excel|Excel]] has a number of approaches to printing, and it can be a little confusing at times, not because it's difficult, but because there's so many different ways we could start the process.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980&t=12)** If I'm interested in printing this list to the left, it's best to go to the Page Layout tab and observe some of the choices that we have here.
 >
@@ -2995,7 +2971,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980&t=209)** Now, not necessarily to complicate matters, but to point out, there are other approaches to printing.
 >
-> **[3:36](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980&t=216)** Another major one will be covered in the next movie, but in the lower right-hand corner to the left of that zoom slider bar where you see the minuses and plus, there are three buttons.
+> **[3:36](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980&t=216)** Another major one will be covered in the next movie, but in the lower right-hand corner to the left of that [[Zoom]] slider bar where you see the minuses and plus, there are three buttons.
 >
 > **[3:46](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980&t=226)** Usually, the left one is selected, and it refers to Excel's normal view.
 >
@@ -3071,7 +3047,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (5), next (4), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Zoom]] (1)
 > **UI Navigation:** go to (5), select the (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** in the next (3), go back to (1)
@@ -3080,8 +3056,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** setup (1)
 
-#### Using Page Break Preview and print setup options
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-page-break-preview-and-print-setup-options?u=76281980)
+#### [Using Page Break Preview and print setup options](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-page-break-preview-and-print-setup-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3089,9 +3064,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-page-break-preview-and-print-setup-options?u=76281980&t=17)** A completely different approach is, rather than selecting the data first, go to the lower right hand corner and choose the page break preview button.
 >
-> **[0:27](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-page-break-preview-and-print-setup-options?u=76281980&t=27)** And it's helpful here, sometimes, to zoom out.
+> **[0:27](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-page-break-preview-and-print-setup-options?u=76281980&t=27)** And it's helpful here, sometimes, to [[Zoom]] out.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-page-break-preview-and-print-setup-options?u=76281980&t=30)** That lower set of buttons in the lower right hand corner, the plus and the minus, the zoom slider bar, indicates here's what Excel would print if we decided to print right now.
+> **[0:30](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-page-break-preview-and-print-setup-options?u=76281980&t=30)** That lower set of buttons in the lower right hand corner, the plus and the minus, the zoom slider bar, indicates here's what [[Microsoft Excel|Excel]] would print if we decided to print right now.
 >
 > **[0:40](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-page-break-preview-and-print-setup-options?u=76281980&t=40)** Let's say that what we really want to print is the information in columns A through H.
 >
@@ -3211,7 +3186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Zoom]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (5)
 > **Prerequisites:** setup (5)
 > **Definitions:** is a  (1), means that (1), in other words (1)
@@ -3224,8 +3199,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980)
+#### [Creating charts](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3235,7 +3209,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=17)** And for some people, that chart tells the story a lot better than looking at those numbers.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=23)** Creating charts in Excel is easy and fast, and there are a number of different approaches to it, and there are lots of different chart types, as we'll see, particularly in the next movie.
+> **[0:23](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=23)** Creating charts in [[Microsoft Excel|Excel]] is easy and fast, and there are a number of different approaches to it, and there are lots of different chart types, as we'll see, particularly in the next movie.
 >
 > **[0:32](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=32)** Creating a chart begins with a simple idea of highlighting the data that we want to appear in a chart.
 >
@@ -3307,7 +3281,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=198)** And if somehow or another, you might be saying, "Yeah, I'm not sure about these colors, I don't like the colors very much."
 >
-> **[3:24](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=204)** You could go to Page Layout and click that Themes button to the left and change to a different Office theme.
+> **[3:24](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=204)** You could go to Page Layout and click that Themes button to the left and change to a different [[Microsoft Office|Office]] theme.
 >
 > **[3:29](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=209)** Now, this is going to make other changes, too, that you might not like say off to the right, but that's certainly is another approach.
 >
@@ -3329,7 +3303,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=263)** So I want to make it smaller this way and let go of the mouse first.
 >
-> **[4:27](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=267)** I could also, in that lower right-hand corner, zoom back a little bit using the minus there, move this around, and make some other changes.
+> **[4:27](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=267)** I could also, in that lower right-hand corner, [[Zoom]] back a little bit using the minus there, move this around, and make some other changes.
 >
 > **[4:37](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980&t=277)** If somehow or other, you think, "I want these edges to line up with the cell boundaries in the background," hold down the Alt key and then we'll go over the mouse.
 >
@@ -3397,7 +3371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Excel|Excel]] (4), next (2), feature (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Office|Office]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (11)
 > **Env Vars:** f11 (2), b11 (1)
 > **UI Navigation:** go to (2), select the (1)
@@ -3406,8 +3380,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Warnings:** keep in mind (1)
 
-#### Exploring chart types
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-chart-types?u=76281980)
+#### [Exploring chart types](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-chart-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3583,7 +3556,7 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-chart-types?u=76281980&t=361)** And look what happens when I click the Switch Row/Column button.
 >
-> **[6:06](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-chart-types?u=76281980&t=366)** Now we see each cluster is about the regions/ Click it again, each cluster is about the products.
+> **[6:06](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-chart-types?u=76281980&t=366)** Now we see each cluster is about the regions/ Click it again, each cluster is about the [[Microsoft Products|products]].
 >
 > **[6:13](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-chart-types?u=76281980&t=373)** Different charts showing the same data.
 >
@@ -3627,7 +3600,7 @@ created: 2026-05-02
 >
 > **[7:48](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-chart-types?u=76281980&t=468)** Look at that chart now as I'm sliding over these color palettes.
 >
-> **[7:52](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-chart-types?u=76281980&t=472)** So again, you might say too much opportunity here for fine tuning.
+> **[7:52](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-chart-types?u=76281980&t=472)** So again, you might say too much opportunity here for [[Fine Tuning]].
 >
 > **[7:57](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-chart-types?u=76281980&t=477)** On the other hand, at different times, maybe you have that particular need.
 >
@@ -3657,7 +3630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), product (3), next (1), [[Microsoft Products|Products]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Fine Tuning]] (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (3), is an  (2), refers to (1), in other words (1)
 > **UI Navigation:** go to (4), select the (1), click on (1)
@@ -3671,8 +3644,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Freezing and unfreezing panes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/freezing-and-unfreezing-panes?u=76281980)
+#### [Freezing and unfreezing panes](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/freezing-and-unfreezing-panes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3780,7 +3752,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/freezing-and-unfreezing-panes?u=76281980&t=218)** The next worksheet here is a table.
 >
-> **[3:40](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/freezing-and-unfreezing-panes?u=76281980&t=220)** When you convert data to a table, Excel does a very obvious visual things.
+> **[3:40](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/freezing-and-unfreezing-panes?u=76281980&t=220)** When you convert data to a table, [[Microsoft Excel|Excel]] does a very obvious visual things.
 >
 > **[3:45](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/freezing-and-unfreezing-panes?u=76281980&t=225)** It introduces what we call banded rows.
 >
@@ -3818,7 +3790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), feature (2), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** scroll down (2), click on (2), scroll up (2)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
@@ -3826,8 +3798,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Splitting screens horizontally and vertically
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/splitting-screens-horizontally-and-vertically?u=76281980)
+#### [Splitting screens horizontally and vertically](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/splitting-screens-horizontally-and-vertically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3843,7 +3814,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/splitting-screens-horizontally-and-vertically?u=76281980&t=33)** So, somewhat arbitrarily, in column A, about halfway down or so, makes no difference where really, I'll click on a cell.
 >
-> **[0:40](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/splitting-screens-horizontally-and-vertically?u=76281980&t=40)** And then, on the View tab in the ribbon off to the right, you'll see the word Split, and that introduces a horizontal line, dark gray, right here.
+> **[0:40](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/splitting-screens-horizontally-and-vertically?u=76281980&t=40)** And then, on the View tab in the ribbon off to the right, you'll see the [[Microsoft Word|word]] Split, and that introduces a horizontal line, dark gray, right here.
 >
 > **[0:50](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/splitting-screens-horizontally-and-vertically?u=76281980&t=50)** I can click and drag to move it up or down if necessary, but I'll leave it right there for now.
 >
@@ -3865,7 +3836,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/splitting-screens-horizontally-and-vertically?u=76281980&t=96)** And I may or may not want to move that split line up or down.
 >
-> **[1:39](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/splitting-screens-horizontally-and-vertically?u=76281980&t=99)** Possibly if I zoom back, I'll be able to see more names on either side.
+> **[1:39](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/splitting-screens-horizontally-and-vertically?u=76281980&t=99)** Possibly if I [[Zoom]] back, I'll be able to see more names on either side.
 >
 > **[1:43](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/splitting-screens-horizontally-and-vertically?u=76281980&t=103)** That's easily adjustable.
 >
@@ -3933,7 +3904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), data (3), [[Microsoft Word|Word]] (1), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Zoom]] (1)
 > **UI Navigation:** double-click (4), click on (1), scroll down (1), scroll up (1), in the menu (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
@@ -3944,8 +3915,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Renaming, inserting, and deleting sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/renaming-inserting-and-deleting-sheets?u=76281980)
+#### [Renaming, inserting, and deleting sheets](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/renaming-inserting-and-deleting-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4023,7 +3993,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/renaming-inserting-and-deleting-sheets?u=76281980&t=170)** But now when I try and delete the sheet, I do get a warning because there's data in it.
 >
-> **[2:57](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/renaming-inserting-and-deleting-sheets?u=76281980&t=177)** Now, the reason Excel uses the word permanently here, and they don't quite use the word the way I might want them to use it, but you cannot undo this action.
+> **[2:57](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/renaming-inserting-and-deleting-sheets?u=76281980&t=177)** Now, the reason [[Microsoft Excel|Excel]] uses the [[Microsoft Word|word]] permanently here, and they don't quite use the word the way I might want them to use it, but you cannot undo this action.
 >
 > **[3:07](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/renaming-inserting-and-deleting-sheets?u=76281980&t=187)** If I press Delete, I can't use the undo concept, Ctrl + Z or the undo button to bring that sheet back.
 >
@@ -4071,7 +4041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (6)
 > **Warnings:** warning (3)
 > **Definitions:** in other words (1), means that (1)
@@ -4079,8 +4049,7 @@ created: 2026-05-02
 > **Env Vars:** f11 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Moving, copying, and grouping sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-grouping-sheets?u=76281980)
+#### [Moving, copying, and grouping sheets](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-grouping-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4108,7 +4077,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-grouping-sheets?u=76281980&t=52)** I let go of the mouse first and I've made a copy of West.
 >
-> **[0:56](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-grouping-sheets?u=76281980&t=56)** So we've got two copies of West and for the moment, they're identical except for the name, Excel automatically when it sees a name like this, Excel automatically appends that too within parenthesis there.
+> **[0:56](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-grouping-sheets?u=76281980&t=56)** So we've got two copies of West and for the moment, they're identical except for the name, [[Microsoft Excel|Excel]] automatically when it sees a name like this, Excel automatically appends that too within parenthesis there.
 >
 > **[1:09](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-grouping-sheets?u=76281980&t=69)** You can also group sheets.
 >
@@ -4142,7 +4111,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-grouping-sheets?u=76281980&t=124)** And always be alert to this idea.
 >
-> **[2:06](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-grouping-sheets?u=76281980&t=126)** When you do select more than one sheet, you'll see the word group up in the title bar at the top of the screen.
+> **[2:06](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-grouping-sheets?u=76281980&t=126)** When you do select more than one sheet, you'll see the [[Microsoft Word|word]] group up in the title bar at the top of the screen.
 >
 > **[2:12](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/moving-copying-and-grouping-sheets?u=76281980&t=132)** But I want four sheets to be selected here.
 >
@@ -4184,21 +4153,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (3), go to (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Opening, closing, and saving workbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/opening-closing-saving-workbooks?u=76281980)
+#### [Opening, closing, and saving workbooks](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/opening-closing-saving-workbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/opening-closing-saving-workbooks?u=76281980&t=0)** - [Instructor] It's not uncommon when working with Excel that you might have more than one file open.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/opening-closing-saving-workbooks?u=76281980&t=0)** - [Instructor] It's not uncommon when working with [[Microsoft Excel|Excel]] that you might have more than one file open.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/opening-closing-saving-workbooks?u=76281980&t=5)** And a quick check is on the view tab and the ribbon menu system off to the right switch windows, click the drop arrow.
+> **[0:05](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/opening-closing-saving-workbooks?u=76281980&t=5)** And a quick check is on the view tab and the ribbon menu system off to the right switch [[Windows]], click the drop arrow.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/opening-closing-saving-workbooks?u=76281980&t=12)** Well, there's only one open here, but I use this button often, so often that I actually have added it to the quick access toolbar.
 >
@@ -4322,7 +4290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Windows]] (4), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1)
@@ -4333,12 +4301,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sorting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980)
+#### [Sorting data](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=0)** - [Instructor] If you work with lists in Excel, lists of any size, invariably you will want to sort the list.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=0)** - [Instructor] If you work with lists in [[Microsoft Excel|Excel]], lists of any size, invariably you will want to sort the list.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=6)** Sorting nearly always means move rows up and down.
 >
@@ -4392,7 +4359,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=141)** On the Home tab off to the right, you'll see Sort & Filter.
 >
-> **[2:25](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=145)** On the Data tab, where you see Sort and other data management tools, we see a large Sort button and also two smaller ones.
+> **[2:25](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=145)** On the Data tab, where you see Sort and other [[Data Management]] tools, we see a large Sort button and also two smaller ones.
 >
 > **[2:33](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=153)** If you don't sort very often, I suggest using the larger one, but once you get used to it, eventually use the other ones, as well.
 >
@@ -4500,7 +4467,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=362)** Alphabetically by department because that was the last grouping that we did in the previous sort.
 >
-> **[6:07](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=367)** It's also helpful, too, if you're not too familiar with the list, if you zoom back a bit at lower right-hand corner, you can click the minus button to zoom back.
+> **[6:07](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=367)** It's also helpful, too, if you're not too familiar with the list, if you [[Zoom]] back a bit at lower right-hand corner, you can click the minus button to zoom back.
 >
 > **[6:16](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980&t=376)** When you click on a cell and click the Sort button, you see in the background the data being highlighted.
 >
@@ -4528,7 +4495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (6), [[Zoom]] (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Zoom]] (2), [[Data Management]] (1)
 > **Analogies:** imagine (3), for example (1)
 > **CLI Commands:** az (2), make (1)
 > **UI Navigation:** click on (2)
@@ -4537,8 +4504,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-filters?u=76281980)
+#### [Using filters](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4548,7 +4514,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-filters?u=76281980&t=15)** All kinds of different needs as we might be using with this set of data we're seeing here on the filter sheet.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-filters?u=76281980&t=23)** Before using filtering in Excel, always make sure that the list, if it has any other data next to it off to the right, make sure it's separated by at least one empty column.
+> **[0:23](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-filters?u=76281980&t=23)** Before using filtering in [[Microsoft Excel|Excel]], always make sure that the list, if it has any other data next to it off to the right, make sure it's separated by at least one empty column.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-filters?u=76281980&t=31)** You don't want that data to be included within the filter.
 >
@@ -4668,7 +4634,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-filters?u=76281980&t=295)** With text entries, it's a little bit different.
 >
-> **[4:58](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-filters?u=76281980&t=298)** I might be looking for someone named John in this list here, so I'll click the arrow over there.
+> **[4:58](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-filters?u=76281980&t=298)** I might be looking for someone named [[John the Ripper|John]] in this list here, so I'll click the arrow over there.
 >
 > **[5:03](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-filters?u=76281980&t=303)** Text filters contains John.
 >
@@ -4684,21 +4650,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (4), [[Microsoft Excel|Excel]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[John the Ripper|John]] (2)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** scroll up (2), click on (1)
 > **Analogies:** imagine (1), for example (1)
 > **Best Practices:** always make sure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating PivotTables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980)
+#### [Creating PivotTables](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=0)** - [Instructor] One of Excel's most powerful analytical tools is a feature called a pivot table.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=0)** - [Instructor] One of [[Microsoft Excel|Excel]]'s most powerful analytical tools is a feature called a pivot table.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=5)** And it's not really a data management tool.
+> **[0:05](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=5)** And it's not really a [[Data Management]] tool.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=8)** It's not found on the data tab in the ribbon.
 >
@@ -4734,7 +4699,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=94)** Looks kind of complex.
 >
-> **[1:37](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=97)** However, it would take you a bit of time to set this up and if you were interested in making a presentation of this information and then later putting the customers up here, we see them over in column D instead of the regions, it would take you some time to rewrite the forms and readjust this.
+> **[1:37](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=97)** However, it would take you a bit of time to set this up and if you were interested in making a presentation of this information and then later putting the customers up here, we see them over in column D instead of the regions, it would take you some time to rewrite the [[Forms]] and readjust this.
 >
 > **[1:53](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=113)** But we can create a list like this and we'll be seeing the same numbers by way of a pivot table.
 >
@@ -4790,11 +4755,11 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=232)** And the next thing will be a little different.
 >
-> **[3:53](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=233)** I'm going to drag the word region into this area down below here.
+> **[3:53](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=233)** I'm going to drag the [[Microsoft Word|word]] region into this area down below here.
 >
 > **[3:58](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=238)** This is over on the right hand side into what's called the columns area.
 >
-> **[4:03](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=243)** So as we look at this, and I'll use that zoom button in the lower right hand corner, zoom in a bit, our grand total is 11,829.
+> **[4:03](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=243)** So as we look at this, and I'll use that [[Zoom]] button in the lower right hand corner, zoom in a bit, our grand total is 11,829.
 >
 > **[4:11](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-pivottables?u=76281980&t=251)** Who's the top performer here? Willie Loman.
 >
@@ -4870,7 +4835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (4), product (3), [[Microsoft Word|Word]] (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Word|Word]] (2), [[Zoom]] (2), [[Data Management]] (1), [[Forms]] (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** scroll up (1), go to (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -4882,12 +4847,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protecting worksheets and workbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/protecting-worksheets-and-workbooks?u=76281980)
+#### [Protecting worksheets and workbooks](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/protecting-worksheets-and-workbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/protecting-worksheets-and-workbooks?u=76281980&t=0)** - [Instructor] Excel has a number of protection techniques.
+> **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/protecting-worksheets-and-workbooks?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] has a number of protection techniques.
 >
 > **[0:03](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/protecting-worksheets-and-workbooks?u=76281980&t=3)** In a simple example, if I have another associate who works with this file from time to time who primarily just makes minor changes and looks at the data, if I don't want that person seeing the rating column, I'll simply right click column H and hide the column.
 >
@@ -5029,7 +4993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Microsoft Excel|Excel]] (3), data (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (9)
 > **UI Navigation:** go to (4), select the (2)
 > **Env Vars:** ctrl (1)
@@ -5037,8 +5001,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sharing workbooks and tracking changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sharing-workbooks-and-tracking-changes?u=76281980)
+#### [Sharing workbooks and tracking changes](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sharing-workbooks-and-tracking-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5046,7 +5009,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sharing-workbooks-and-tracking-changes?u=76281980&t=10)** In order to set this up properly, what you need to do is save your file in the cloud.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sharing-workbooks-and-tracking-changes?u=76281980&t=14)** In this case, I've saved this on OneDrive, and I want to share this file with another.
+> **[0:14](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sharing-workbooks-and-tracking-changes?u=76281980&t=14)** In this case, I've saved this on [[Microsoft OneDrive|OneDrive]], and I want to share this file with another.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sharing-workbooks-and-tracking-changes?u=76281980&t=19)** And it could be multiple people, but let's say initially one.
 >
@@ -5108,7 +5071,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sharing-workbooks-and-tracking-changes?u=76281980&t=147)** And he might want to only view the entries from California, and when he applied the filter, we see arrows on the screen here.
 >
-> **[2:34](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sharing-workbooks-and-tracking-changes?u=76281980&t=154)** Now if he's looking at California only, and our focus is more on adjusting some of the spellings and the names of the products, we're going to have a problem.
+> **[2:34](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sharing-workbooks-and-tracking-changes?u=76281980&t=154)** Now if he's looking at California only, and our focus is more on adjusting some of the spellings and the names of the [[Microsoft Products|products]], we're going to have a problem.
 >
 > **[2:42](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sharing-workbooks-and-tracking-changes?u=76281980&t=162)** So imagine Dennis, who's located elsewhere right now is saying, "I'm going to filter this and show just the California records.
 >
@@ -5182,7 +5145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (9)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** for example (1), imagine (1)
@@ -5196,16 +5159,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your Excel journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980)
+#### [Continue your Excel journey](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980&t=0)** - [Presenter] After viewing this course, you might be saying, "What's up next?
 >
-> **[0:04](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980&t=4)** What else do I need to learn about Excel?"
+> **[0:04](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980&t=4)** What else do I need to learn about [[Microsoft Excel|Excel]]?"
 >
-> **[0:06](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980&t=6)** If you go to LinkedIn Learning, you'll find many courses on this software including formulas and functions, pivot tables, tips and tricks, charts, and quite a few others as well.
+> **[0:06](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980&t=6)** If you go to [[LinkedIn]] Learning, you'll find many courses on this software including formulas and functions, [[Pivot Tables]], tips and tricks, charts, and quite a few others as well.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980&t=18)** Be sure to check back often as new courses are continually being released.
 >
@@ -5215,7 +5177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)

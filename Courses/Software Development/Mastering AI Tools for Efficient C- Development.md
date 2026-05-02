@@ -74,33 +74,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What to expect in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-to-expect-in-this-course?u=76281980)
+#### [What to expect in this course](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-to-expect-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-to-expect-in-this-course?u=76281980&t=0)** - Hi, my name is Jesse Freeman and in this course you'll learn how to build, document, and create tutorials using AI tools like GitHub's Copilot and ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-to-expect-in-this-course?u=76281980&t=0)** - Hi, my name is Jesse Freeman and in this course you'll learn how to build, document, and create tutorials using AI tools like [[GitHub]]'s [[Microsoft Copilot|Copilot]] and [[ChatGPT]].
 >
-> **[0:10](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-to-expect-in-this-course?u=76281980&t=10)** I'll introduce you to setting up and configuring GitHub Copilot and Visual Studio code, using GitHub Copilot to generate and complete code, letting Copilot help us refactor code and document it, and using ChatGPT to turn our final project into a step-by-step tutorial.
+> **[0:10](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-to-expect-in-this-course?u=76281980&t=10)** I'll introduce you to setting up and configuring [[GitHub Copilot]] and Visual Studio code, using GitHub Copilot to generate and complete code, letting Copilot help us refactor code and document it, and using ChatGPT to turn our final project into a step-by-step tutorial.
 >
 > **[0:29](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-to-expect-in-this-course?u=76281980&t=29)** By the end of this course, you'll have a solid understanding of how to use AI tools to help you write better C Sharp code and properly document it for others to use and build upon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Microsoft Copilot|Copilot]] (2), [[ChatGPT]] (2), [[GitHub Copilot]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[ChatGPT]] (2), [[GitHub Copilot]] (2), [[GitHub]] (1)
 > **Tools:** github (3), visual studio (1)
 > **Speakers:** - hi (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980&t=0)** - [Instructor] Before taking this course, you should have a basic understanding of C# programming and its syntax, including knowledge of object-oriented programming principles.
+> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980&t=0)** - [Instructor] Before taking this course, you should have a basic understanding of C# programming and its syntax, including knowledge of [[Object-Oriented Programming (OOP)|object-oriented programming]] principles.
 >
-> **[0:09](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980&t=9)** Being familiar with the .NET ecosystem and command line application development will also be helpful.
+> **[0:09](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980&t=9)** Being familiar with the .NET ecosystem and command line [[Application Development]] will also be helpful.
 >
-> **[0:14](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980&t=14)** Additionally, experience Visual Studio Code and installing extensions is critical to get the .NET development environment up and running, as well as using GitHub's Copilot.
+> **[0:14](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980&t=14)** Additionally, experience Visual Studio Code and installing extensions is critical to get the .NET development environment up and running, as well as using [[GitHub]]'s [[Microsoft Copilot|Copilot]].
 >
 > **[0:25](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980&t=25)** Since we'll be integrating AI-generated content into our project, having a basic understanding of prompting and the limitations of these AI tools will also be helpful.
 >
@@ -108,11 +106,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980&t=40)** I'll guide you through the entire process.
 >
-> **[0:43](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980&t=43)** Finally, to follow along, you'll need a GitHub account in order to use Copilot, and you'll need an OpenAI account in order to use ChatGPT.
+> **[0:43](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-you-should-know?u=76281980&t=43)** Finally, to follow along, you'll need a GitHub account in order to use Copilot, and you'll need an OpenAI account in order to use [[ChatGPT]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[GitHub]] (2), [[Microsoft Copilot|Copilot]] (2), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Microsoft Copilot|Copilot]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Application Development]] (1), [[ChatGPT]] (1)
 > **Tools:** github (2), command line (1), visual studio (1)
 > **Env Vars:** net (2)
 > **Prerequisites:** you'll need (2)
@@ -123,8 +121,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI autocomplete tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980)
+#### [Introduction to AI autocomplete tools](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,11 +157,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980&t=80)** In the past few years, AI has taken code completion to a whole new level.
 >
-> **[1:24](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980&t=84)** With the release of more capable large language models or LLMs like chat GPT, I can now focus on my ideas and let the AI help with the specifics, functionality, and even explanations.
+> **[1:24](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980&t=84)** With the release of more capable [[Large Language Models (LLM)|large language models]] or LLMs like chat GPT, I can now focus on my ideas and let the AI help with the specifics, functionality, and even explanations.
 >
 > **[1:37](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980&t=97)** These LLMs are advanced AI systems trained on vast amounts of text, capable of generating and understanding code to assist developers.
 >
-> **[1:47](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980&t=107)** This brings us to GitHub's Copilot.
+> **[1:47](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980&t=107)** This brings us to [[GitHub]]'s [[Microsoft Copilot|Copilot]].
 >
 > **[1:50](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980&t=110)** I started testing GitHub's Copilot when it was first announced.
 >
@@ -194,25 +191,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Microsoft Copilot|Copilot]] (5), [[GitHub]] (3), game (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[GitHub]] (3), [[Large Language Models (LLM)|Large language models]] (1)
 > **Tools:** github (3)
 > **Env Vars:** ide (1), gpt (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Introduction to and installation of GitHub's Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980)
+#### [Introduction to and installation of GitHub's Copilot](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=0)** - [Presenter] Welcome to this video on GitHub's Copilot.
+> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=0)** - [Presenter] Welcome to this video on [[GitHub]]'s [[Microsoft Copilot|Copilot]].
 >
 > **[0:03](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=3)** We'll cover what Copilot is, why it's beneficial for C# developers, how to install it in visual studio code, pricing, and key settings for you to customize to help fit your needs and coding style.
 >
 > **[0:16](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=16)** Additionally, we'll discuss other AI tools and plugins for coding as well.
 >
-> **[0:21](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=21)** So what is GitHub Copilot?
+> **[0:21](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=21)** So what is [[GitHub Copilot]]?
 >
 > **[0:24](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=24)** GitHub Copilot is an AI powered code completion tool developed by GitHub.
 >
@@ -228,7 +224,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=70)** This allows you to stay focused on coding.
 >
-> **[1:13](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=73)** Even for someone like me who's been writing C# code for over a decade, there's still a lot I don't know or remember, so having a tool like this is faster than using Google.
+> **[1:13](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=73)** Even for someone like me who's been writing C# code for over a decade, there's still a lot I don't know or remember, so having a tool like this is faster than using [[Google]].
 >
 > **[1:24](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=84)** Installing GitHub Copilot and Visual Studio Code is straightforward.
 >
@@ -242,7 +238,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=124)** For individual developers, it costs $10 a month or $100 a year.
 >
-> **[2:09](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=129)** Businesses can subscribe for $19 per user per month, which includes additional features for team management.
+> **[2:09](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=129)** Businesses can subscribe for $19 per user per month, which includes additional features for [[Team Management]].
 >
 > **[2:16](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=136)** Keep in mind that these prices may change by the time you watch this video.
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=227)** Besides GitHub's Copilot, there are other AI tools available for coding.
 >
-> **[3:52](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=232)** ChatGPT, for example, is a general purpose AI that can help with coding and a variety of other tasks.
+> **[3:52](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=232)** [[ChatGPT]], for example, is a general purpose AI that can help with coding and a variety of other tasks.
 >
 > **[3:58](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-and-installation-of-github-s-copilot?u=76281980&t=238)** However, it's not as integrated in the Visual Studio code as Copilot is, but there are a number of plugins that are starting to leverage it.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[GitHub]] (5), ai (5), [[GitHub Copilot]] (5), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[GitHub]] (5), [[GitHub Copilot]] (5), [[ChatGPT]] (2), [[Google]] (1)
 > **Tools:** github (10), visual studio (5), command line (1)
 > **Prerequisites:** install (2), you'll need (1), setup (1), getting started (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -289,12 +285,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Using comments to guide code completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980)
+#### [Using comments to guide code completion](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=0)** - [Instructor] In this video, we're going to take a look at how to actually use Copilot inside a Visual Studio Code.
+> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=0)** - [Instructor] In this video, we're going to take a look at how to actually use [[Microsoft Copilot|Copilot]] inside a Visual Studio Code.
 >
 > **[0:06](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=6)** As you can see, I've opened up Visual Studio Code and I'm presented with the welcome screen.
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=359)** Now let's go ahead and ask Copilot what's wrong with this line.
 >
-> **[6:03](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=363)** I'm going to hit Command + Shift + I, and on Windows it's Control + Shift + I, and here you'll see the Copilot prompt just came up.
+> **[6:03](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=363)** I'm going to hit Command + Shift + I, and on [[Windows]] it's Control + Shift + I, and here you'll see the Copilot prompt just came up.
 >
 > **[6:14](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=374)** Let's ask it how we can fix this code.
 >
@@ -496,7 +491,7 @@ created: 2026-05-02
 >
 > **[10:56](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=656)** I'm going to enter in pen and it tells us that we've made an invalid choice and that we need to enter in rock, paper, or scissor.
 >
-> **[11:04](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=664)** There's one last thing that I want to do here, and I just want to make sure that if you enter in the word "quit," it'll exit out of the program.
+> **[11:04](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=664)** There's one last thing that I want to do here, and I just want to make sure that if you enter in the [[Microsoft Word|word]] "quit," it'll exit out of the program.
 >
 > **[11:13](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-comments-to-guide-code-completion?u=76281980&t=673)** So again, I'm going to go and highlight this part of the code and I'm going to ask Copilot, how can we enter in a command to quit the game?
 >
@@ -524,7 +519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (23), game (7), prompt (5), next (3), ai (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (23), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** visual studio (10), command line (4), terminal (2)
 > **CLI Commands:** make (6), dotnet (1), find (1)
 > **Env Vars:** net (3), ide (1)
@@ -533,12 +528,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Definitions:** is a  (1)
 
-#### Using Copilot for refactoring and cleanup
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-copilot-for-refactoring-and-cleanup?u=76281980)
+#### [Using Copilot for refactoring and cleanup](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-copilot-for-refactoring-and-cleanup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-copilot-for-refactoring-and-cleanup?u=76281980&t=0)** - [Instructor] So in the previous video, I showed you how we can generate new code using Copilot.
+> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-copilot-for-refactoring-and-cleanup?u=76281980&t=0)** - [Instructor] So in the previous video, I showed you how we can generate new code using [[Microsoft Copilot|Copilot]].
 >
 > **[0:05](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/using-copilot-for-refactoring-and-cleanup?u=76281980&t=5)** Now let's take a look at how we can refactor and clean up existing code and take the game we made in the last video and make it more object-oriented.
 >
@@ -706,7 +700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21), game (7), prompt (3), hit (2), oop (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21)
 > **CLI Commands:** make (8), find (1)
 > **Cross-References:** previous video (1), in the last (1), go back to (1)
 > **Definitions:** is a  (3)
@@ -719,8 +713,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Documenting your code with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980)
+#### [Documenting your code with AI](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,7 +721,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980&t=6)** Not only can it give you useful documentation, AI tools can help in a number of ways to make sure that others understand what's happening in your code, which is especially useful if you're working on a large team or on an open source project.
 >
-> **[0:21](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980&t=21)** We'll start with some theory on how to properly document code, we'll show examples of good code documentation and then explore how AI tools like GitHub's Copilot and ChatGPT can assist in generating and explaining code.
+> **[0:21](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980&t=21)** We'll start with some theory on how to properly document code, we'll show examples of good code documentation and then explore how AI tools like [[GitHub]]'s [[Microsoft Copilot|Copilot]] and [[ChatGPT]] can assist in generating and explaining code.
 >
 > **[0:36](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980&t=36)** Documenting code is probably the least favorite part of coding for most developers.
 >
@@ -760,7 +753,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980&t=144)** I can't tell you how many times these comments help remind me of what I was doing in parts of my project that I don't often touch.
 >
-> **[2:32](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980&t=152)** Most developers are familiar with tools that automatically document your code by simply reading through all the code and generating out an HTML site or a PDF that goes through all the public methods and classes and links them all together.
+> **[2:32](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980&t=152)** Most developers are familiar with tools that automatically document your code by simply reading through all the code and generating out an [[HTML]] site or a PDF that goes through all the public methods and classes and links them all together.
 >
 > **[2:47](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980&t=167)** And while these automated tools can help generate the documentation by parsing your code, they often lack the contextual explanations and do not capture the rationale behind the code.
 >
@@ -794,7 +787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Microsoft Copilot|Copilot]] (5), [[ChatGPT]] (4), [[GitHub]] (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[ChatGPT]] (4), [[GitHub]] (3), [[HTML]] (1)
 > **Env Vars:** xml (3), pdf (2), html (1), ide (1)
 > **Documentation:** the documentation (3)
 > **Tools:** github (3)
@@ -802,14 +795,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documenting your code with GitHub Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-github-copilot?u=76281980)
+#### [Documenting your code with GitHub Copilot](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-github-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-github-copilot?u=76281980&t=0)** - [Instructor] In this video, we're going to learn how to document our code using GitHub Copilot.
+> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-github-copilot?u=76281980&t=0)** - [Instructor] In this video, we're going to learn how to document our code using [[GitHub Copilot]].
 >
-> **[0:04](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-github-copilot?u=76281980&t=4)** We'll explore different ways to leverage Copilot to generate code documentation, including inline prompts, highlighting code to prompt, and finally, the chat window.
+> **[0:04](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-github-copilot?u=76281980&t=4)** We'll explore different ways to leverage [[Microsoft Copilot|Copilot]] to generate code documentation, including inline prompts, highlighting code to prompt, and finally, the chat window.
 >
 > **[0:15](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-github-copilot?u=76281980&t=15)** One of the ways I like to do this is by automatically adding the comments as I'm writing my code.
 >
@@ -913,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), hit (6), prompt (3), generic (2), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[GitHub Copilot]] (1)
 > **Env Vars:** xml (6)
 > **CLI Commands:** make (2), node (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -921,18 +913,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documenting your code with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-chatgpt?u=76281980)
+#### [Documenting your code with ChatGPT](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-chatgpt?u=76281980&t=0)** - [Instructor] In the previous video we discussed using GitHub Copilot to help us add comments as we wrote and generated our code.
+> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-chatgpt?u=76281980&t=0)** - [Instructor] In the previous video we discussed using [[GitHub Copilot]] to help us add comments as we wrote and generated our code.
 >
-> **[0:07](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-chatgpt?u=76281980&t=7)** Now we'll look at how ChatGPT approaches the same tasks.
+> **[0:07](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-chatgpt?u=76281980&t=7)** Now we'll look at how [[ChatGPT]] approaches the same tasks.
 >
 > **[0:11](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-chatgpt?u=76281980&t=11)** For this scenario, I'm going to have ChatGPT open in my browser on the left and my code on the right.
 >
-> **[0:17](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-chatgpt?u=76281980&t=17)** This is something to keep in mind when using ChatGPT over Copilot since it's not built into the IDE.
+> **[0:17](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-chatgpt?u=76281980&t=17)** This is something to keep in mind when using ChatGPT over [[Microsoft Copilot|Copilot]] since it's not built into the IDE.
 >
 > **[0:22](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-chatgpt?u=76281980&t=22)** So the first thing I'm going to do is copy all of the code we created previously, including its comments, and I'm going to tell ChatGPT to strip it of all the comments.
 >
@@ -1060,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (23), prompt (9), [[Microsoft Copilot|Copilot]] (5), next (3), game (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (23), [[Microsoft Copilot|Copilot]] (5), [[GitHub Copilot]] (1)
 > **Env Vars:** xml (2), ascii (2), ide (1)
 > **CLI Commands:** make (3)
 > **Tools:** visual studio (2), github (1)
@@ -1074,8 +1065,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Technical writing with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980)
+#### [Technical writing with AI](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1091,7 +1081,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=35)** So learning how to pay it forward is valuable to keep passing on the knowledge we learn each time we fix a problem, find a solution, or create something new.
 >
-> **[0:45](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=45)** I've been involved in technical writing for decades now, starting with blogging about my code and best practices when I was a Flash developer, and I've continued this with the courses I now teach on LinkedIn.
+> **[0:45](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=45)** I've been involved in technical writing for decades now, starting with blogging about my code and best practices when I was a Flash developer, and I've continued this with the courses I now teach on [[LinkedIn]].
 >
 > **[0:56](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=56)** Over time, I've built lots of tools to help speed up and automate this process.
 >
@@ -1099,7 +1089,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=69)** I created several versions of this over the years, but none were perfect and still required me to do a lot of cleanup on the tutorials it generated.
 >
-> **[1:18](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=78)** If you're curious about this project, I made it public, and you can take a look at the code on GitHub.
+> **[1:18](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=78)** If you're curious about this project, I made it public, and you can take a look at the code on [[GitHub]].
 >
 > **[1:25](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=85)** I used tools like this to help me create all the tutorials for my open source fantasy game console, Pixel Vision Eight, as part of its onboarding documentation.
 >
@@ -1115,7 +1105,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=141)** I had to hack together Regex definitions for each language, which made it very complicated to expand and maintain.
 >
-> **[2:29](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=149)** Now, with tools like ChatGPT, I can run my code to them and have it build out tutorials for me.
+> **[2:29](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=149)** Now, with tools like [[ChatGPT]], I can run my code to them and have it build out tutorials for me.
 >
 > **[2:35](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980&t=155)** It's not perfect, but there's a lot you can do with it.
 >
@@ -1129,7 +1119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), game (3), [[GitHub]] (2), [[LinkedIn]] (1), generic (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[LinkedIn]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** github (2)
 > **Prerequisites:** getting started (2)
@@ -1138,14 +1128,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for AI technical writing
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/best-practices-for-ai-technical-writing?u=76281980)
+#### [Best practices for AI technical writing](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/best-practices-for-ai-technical-writing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/best-practices-for-ai-technical-writing?u=76281980&t=0)** - [Instructor] In this video, I'm going to cover some best practices for technical writing and making tutorials to teach others.
 >
-> **[0:06](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/best-practices-for-ai-technical-writing?u=76281980&t=6)** We'll focus on important concepts you need to know when it comes to writing technical documents and tutorials, all while talking about how to use ChatGPT to do this for you.
+> **[0:06](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/best-practices-for-ai-technical-writing?u=76281980&t=6)** We'll focus on important concepts you need to know when it comes to writing technical documents and tutorials, all while talking about how to use [[ChatGPT]] to do this for you.
 >
 > **[0:17](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/best-practices-for-ai-technical-writing?u=76281980&t=17)** As I discussed in the previous videos, technical writing is essential for facilitating knowledge transfer, enhancing the understanding and usability of your code, and providing long-term support knowledge to users and other developers looking to build with or extend your project.
 >
@@ -1175,7 +1164,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/best-practices-for-ai-technical-writing?u=76281980&t=138)** I like to think of it as ChatGPT just gets lazy and tells you what it thinks you want to hear just to make you stop bothering it.
 >
-> **[2:26](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/best-practices-for-ai-technical-writing?u=76281980&t=146)** The last thing I want to talk about is that OpenAI has recently introduced a new, no-code tool called custom GPTs.
+> **[2:26](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/best-practices-for-ai-technical-writing?u=76281980&t=146)** The last thing I want to talk about is that OpenAI has recently introduced a new, no-code tool called [[Custom GPTs]].
 >
 > **[2:34](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/best-practices-for-ai-technical-writing?u=76281980&t=154)** These can help overcome a lot of challenges I previously mentioned when using ChatGPT for technical writing.
 >
@@ -1185,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), ai (2), llm (1), [[Custom GPTs]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Custom GPTs]] (1)
 > **Env Vars:** gpt (2), llm (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), think of it as (1)
@@ -1193,12 +1182,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a custom GPT for writing tutorials
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980)
+#### [Building a custom GPT for writing tutorials](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=0)** - [Instructor] In this last video, we're going to talk about making custom GPTs for turning our C# code into tutorials.
+> **[0:00](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=0)** - [Instructor] In this last video, we're going to talk about making [[Custom GPTs]] for turning our C# code into tutorials.
 >
 > **[0:07](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=7)** We're going to start with the basic instructions, test the results, and then we'll discuss them.
 >
@@ -1208,7 +1196,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=21)** Now let's take a look at how we can do this.
 >
-> **[0:24](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=24)** Before I jump into the custom GPTs, what I just wanted to show you is that regular ChatGPT can also do this task.
+> **[0:24](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=24)** Before I jump into the custom GPTs, what I just wanted to show you is that regular [[ChatGPT]] can also do this task.
 >
 > **[0:33](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=33)** The problem is, which you may have seen in the previous videos, is that you have to spend a lot of time prompting the AI in order to understand the context of what you're doing.
 >
@@ -1280,7 +1268,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=284)** And to me, it's important that, one, when you teach someone how to build code, you break these code blocks up into smaller steps, and two, you add comments into the code.
 >
-> **[4:55](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=295)** This way, they can see exactly what's going on and get other context that may not be in the rest of the text, especially for people who like to just copy and paste code, instead of reading through full tutorials.
+> **[4:55](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=295)** This way, they can see exactly what's going on and get other context that may not be in the [[Representational State Transfer (REST)|rest]] of the text, especially for people who like to just copy and paste code, instead of reading through full tutorials.
 >
 > **[5:06](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/building-a-custom-gpt-for-writing-tutorials?u=76281980&t=306)** So we can go ahead and we can tell it to do this in the prompt here, or we can just add it back to the configuration.
 >
@@ -1316,7 +1304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Custom GPTs]] (5), [[ChatGPT]] (4), prompt (4), game (1), ai (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (5), [[ChatGPT]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** configure (4)
 > **Env Vars:** gpt (3)
@@ -1329,12 +1317,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/next-steps?u=76281980&t=1)** - Now, that you've completed this course, you should have a solid understanding of how to create and refactor your C# code using GitHub Copilot, as well as how to document it with ChatGPT.
+> **[0:01](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/next-steps?u=76281980&t=1)** - Now, that you've completed this course, you should have a solid understanding of how to create and refactor your C# code using [[GitHub Copilot]], as well as how to document it with [[ChatGPT]].
 >
 > **[0:12](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/next-steps?u=76281980&t=12)** Here are some next steps, like using GitHub Copilot to add new features like a scoring system, leveraging co-pilot to generate more documentation for the game as you enhance it, plus use ChatGPT to create a Read Me file, instructions and a setup guide, and finally using ChatGPT to help turn this into a series that you can post on your own blog and share with others.
 >
@@ -1342,7 +1329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[GitHub Copilot]] (2), next (1), game (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[GitHub Copilot]] (2)
 > **Tools:** github (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)

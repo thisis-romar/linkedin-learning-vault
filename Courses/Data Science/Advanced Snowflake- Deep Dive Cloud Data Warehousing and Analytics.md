@@ -92,12 +92,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980)
+#### [Advanced Snowflake](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=0)** - [Janani] Hi, and welcome to this course on advanced Snowflake on LinkedIn learning.
+> **[0:00](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=0)** - [Janani] Hi, and welcome to this course on advanced [[Snowflake]] on [[LinkedIn]] learning.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=5)** My name is Janani Ravi, and I'll be your instructor for today.
 >
@@ -107,17 +106,17 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=25)** Let's get started by quickly discussing what exactly Snowflake is, how it's architected and what's unique about it.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=34)** How it helps us process huge data sets and performing analytics with just queries in SQL.
+> **[0:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=34)** How it helps us process huge data sets and performing analytics with just queries in [[SQL]].
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=41)** Here is how you can define Snowflake.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=44)** Manage data platform, software as a service.
+> **[0:44](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=44)** Manage data platform, [[SaaS|software as a service]].
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=47)** available on all three major cloud platforms.
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=50)** Let's break this down because every bit of this definition is important.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=53)** The fact that Snowflake is a managed data platform means that you do not have to install and set up any software or hardware before using Snowflake.
+> **[0:53](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=53)** The fact that Snowflake is a managed data platform means that you do not have to install and set up any software or [[Hardware]] before using Snowflake.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=64)** You can simply access it as a service.
 >
@@ -125,17 +124,17 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=73)** And since the Snowflake is supported on all three major cloud platforms you can work with Snowflake where data actually is.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=81)** Now, the question is why would you choose to use Snowflake when there are so many big data technologies out there?
+> **[1:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=81)** Now, the question is why would you choose to use Snowflake when there are so many [[Big Data]] technologies out there?
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=87)** Well, Snowflake is easy, intuitive and very very straightforward to use and allows you to perform large scale data analytics using just SQL queries without the overhead of actually managing your data infrastructure.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=102)** Snowflake is supported on AWS Azure and the Google Cloud Platform which means that you can use a Snowflake with the cloud provider and on the platform of your choice.
+> **[1:42](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=102)** Snowflake is supported on AWS [[Microsoft Azure|Azure]] and the [[Google Cloud Platform (GCP)|Google Cloud Platform]] which means that you can use a Snowflake with the cloud provider and on the platform of your choice.
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=114)** You can choose to use Snowflake in the region where your data actually lives.
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=119)** Potentially avoiding moving data to a new provider or a new region.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=123)** Even compared to other big data platforms, Snowflake is a true SaaS offering very, very easy to use.
+> **[2:03](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=123)** Even compared to other big data platforms, Snowflake is a true [[SaaS]] offering very, very easy to use.
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=130)** There is absolutely no cluster provisioning and administration, and there is no overhead of managing any kind of physical or virtual hardware.
 >
@@ -145,15 +144,15 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=147)** Everything is done for you.
 >
-> **[2:28](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=148)** All of the updates, maintenance, management, performance tuning, everything is handled by Snowflake.
+> **[2:28](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=148)** All of the updates, maintenance, management, [[Performance Tuning]], everything is handled by Snowflake.
 >
 > **[2:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=154)** Snowflake offering is cloud first and cloud only, which means it's a cloud native solution.
 >
-> **[2:43](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=163)** Snowflake runs only on cloud infrastructure and is supported on AWS Azure and the GCP.
+> **[2:43](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=163)** Snowflake runs only on [[Cloud Infrastructure]] and is supported on AWS Azure and the GCP.
 >
 > **[2:49](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=169)** You cannot use a Snowflake on your own premises data center even if you want to.
 >
-> **[2:55](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=175)** Data processing in Snowflake uses cloud based virtual machines for both compute as well as query processing.
+> **[2:55](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=175)** [[Data Processing]] in Snowflake uses cloud based [[Virtual Machines]] for both compute as well as query processing.
 >
 > **[3:04](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=184)** In addition, all of your data is actually stored in cloud based storage services.
 >
@@ -165,7 +164,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=205)** Snowflake is capable of processing petabytes of data and is great for the construction of EPL pipelines.
 >
-> **[3:31](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=211)** Unlike many other big data processing platforms Snowflake does not actually build upon an existing big data framework such as Hadoop or Apache Spark.
+> **[3:31](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=211)** Unlike many other big data processing platforms Snowflake does not actually build upon an existing big data framework such as [[Hadoop]] or [[Apache Spark]].
 >
 > **[3:42](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980&t=222)** Snowflake in fact runs its own proprietary SQL query engine which makes Snowflake highly performant and very simple and intuitive to use.
 >
@@ -173,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (31), data (15), cloud (11), [[SQL]] (4), [[Big Data]] (4)
+> **Frameworks & Libraries:** [[Snowflake]] (31), [[SQL]] (4), [[Big Data]] (4), [[Hardware]] (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** sql (4), aws (2), gcp (1), epl (1)
 > **Definitions:** is a  (3), means that (2), is an  (1)
 > **CLI Commands:** aws (2), apache (1), find (1)
@@ -181,12 +180,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [janani] (1)
 
-#### Snowflake architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980)
+#### [Snowflake architecture](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=1)** - [Instructor] So how does Snowflake enable big data processing at scale?
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=1)** - [Instructor] So how does [[Snowflake]] enable [[Big Data]] processing at scale?
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=4)** Well, a large part of it is its unique architecture.
 >
@@ -202,7 +200,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=30)** Then we have the query processing layer on top of database storage.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=34)** And finally, at the very top, we have the cloud services layer.
+> **[0:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=34)** And finally, at the very top, we have the [[Cloud Services]] layer.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=37)** First, let's turn our attention to the database storage layer.
 >
@@ -230,9 +228,9 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=94)** The storage layer cannot be accessed directly by the user, so you can't work with the storage blobs directly.
 >
-> **[1:41](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=101)** Instead, you access the data stored in storage using SQL queries.
+> **[1:41](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=101)** Instead, you access the data stored in storage using [[SQL]] queries.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=106)** The important thing to note here is that the storage layer is purely used for data storage.
+> **[1:46](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=106)** The important thing to note here is that the storage layer is purely used for [[Data Storage]].
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=111)** All of the query processing is performed in the layer above.
 >
@@ -284,7 +282,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=254)** The cloud services layer, as you can see, is a collection of services.
 >
-> **[4:18](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=258)** The services managed in this layer include authentication, infrastructure management, metadata management, query parsing optimization, access control, the works.
+> **[4:18](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=258)** The services managed in this layer include authentication, infrastructure management, [[Metadata]] management, query parsing optimization, access control, the works.
 >
 > **[4:28](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=268)** Here is a quick look at the basic object hierarchy within Snowflake.
 >
@@ -294,7 +292,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=278)** All of your users and roles assigned to users are under this account object.
 >
-> **[4:45](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=285)** Databases and virtual warehouses are also provisioned within the context of an account.
+> **[4:45](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=285)** [[Databases]] and virtual warehouses are also provisioned within the context of an account.
 >
 > **[4:51](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/snowflake-architecture?u=76281980&t=291)** Within a database, you provision the schema, and the schema holds all other data-related objects.
 >
@@ -304,19 +302,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Snowflake]] (14), database (8), cloud (3), management (2)
+> **Frameworks & Libraries:** [[Snowflake]] (14), [[Cloud Services]] (3), [[Data Storage]] (2), [[Big Data]] (1), [[SQL]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (2), picture (1), for example (1)
 > **Env Vars:** sql (1), cpu (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting set up with Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980)
+#### [Getting set up with Snowflake](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=1)** - Here we are in our very first demo of this advanced Snowflake course I've logged into a Snowflake free trial account, and I'm currently on the Snowflake classic UI.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=1)** - Here we are in our very first demo of this advanced [[Snowflake]] course I've logged into a Snowflake free trial account, and I'm currently on the Snowflake classic UI.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=10)** The classic UI is an older user interface but it's more fully featured.
 >
@@ -328,7 +325,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=28)** You can get your own free trial by going to this URL that you see here on screen.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=35)** All of the demos in this course will run on any of the cloud platforms, whether it's Azure, AWS, or GCP.
+> **[0:35](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=35)** All of the demos in this course will run on any of the cloud platforms, whether it's [[Microsoft Azure|Azure]], AWS, or GCP.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=42)** I happen to be using Azure.
 >
@@ -340,7 +337,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=69)** Your account should look exactly like this when you log in.
 >
-> **[1:11](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=71)** Let's take a look at the databases and you can see that the only databases that have access to are the ones that Snowflake has created and shared with me.
+> **[1:11](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=71)** Let's take a look at the [[Databases]] and you can see that the only databases that have access to are the ones that Snowflake has created and shared with me.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/getting-set-up-with-snowflake?u=76281980&t=79)** SNOWFLAKE_SAMPLE_DATE and SNOWFLAKE.
 >
@@ -366,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (14), [[Microsoft Azure|Azure]] (2), [[Databases]] (2), cloud (1), aws (1)
+> **Frameworks & Libraries:** [[Snowflake]] (14), [[Microsoft Azure|Azure]] (2), [[Databases]] (2)
 > **Env Vars:** snowflake_sample_date (2), url (1), aws (1), gcp (1), snowflake (1)
 > **CLI Commands:** aws (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -378,18 +375,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Micropartitioning and clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980)
+#### [Micropartitioning and clustering](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=1)** - [Instructor] In order for Snowflake to be able to efficiently process large amounts of data, the design of their table structures is quite critical.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=1)** - [Instructor] In order for [[Snowflake]] to be able to efficiently process large amounts of data, the design of their table structures is quite critical.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=8)** If you had a huge amount of data in petabytes and you stored this within a table in a single contiguous blob, queries run on such tables will likely to be very, very inefficient.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=22)** If you just have a single blob of contiguous data, your queries will run slowly because they need to process this huge amount of data and queries will be unable to run in parallel on a contiguous blob.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=36)** Almost every big data processing platform partitions the data that it stores in tables.
+> **[0:36](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=36)** Almost every [[Big Data]] processing platform partitions the data that it stores in tables.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=43)** Now if this partitioning is static, well that helps with query parallelization but static partitioning has its own limitations.
 >
@@ -425,7 +421,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=126)** Query performance can be improved if you avoid unnecessary scans of micro-partitions while executing queries.
 >
-> **[2:14](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=134)** This is why Snowflake stores additional metadata about the rows in each micro-partition such as the range of values for each column, the number of distinct values and any other property that will help with query optimization.
+> **[2:14](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=134)** This is why Snowflake stores additional [[Metadata]] about the rows in each micro-partition such as the range of values for each column, the number of distinct values and any other property that will help with query optimization.
 >
 > **[2:28](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980&t=148)** This metadata is used by Snowflake to paralellize queries and to also skip micro-partitions where possible.
 >
@@ -473,18 +469,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Snowflake]] (14), [[Metadata]] (3), parallel (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (14), [[Metadata]] (3), [[Big Data]] (1)
 > **Analogies:** such as (2)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of tables in Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980)
+#### [Types of tables in Snowflake](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=0)** - [Instructor] Snowflake supports different kinds of tables meant for different use cases.
+> **[0:00](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=0)** - [Instructor] [[Snowflake]] supports different kinds of tables meant for different use cases.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=6)** In order to understand how these tables are different, it's important for us to understand how continuous data protection works in Snowflake.
 >
@@ -496,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=24)** And then finally, we have fail-safe data; this is your backup and disaster recovery.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=29)** Active data is data that you work with on a day-to-day basis: data in your Snowflake tables that is accessible via the queries that you run, any data definition language updates you made, any data manipulation language updates that you make.
+> **[0:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=29)** Active data is data that you work with on a day-to-day basis: data in your Snowflake tables that is accessible via the queries that you run, any data definition language updates you made, any [[Data Manipulation]] language updates that you make.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=43)** When you're working with active data, you'll constantly be updating this data.
 >
@@ -558,9 +553,9 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=244)** And finally, if your data is temporary or transitory data meant for short-term use, store them in temporary tables.
 >
-> **[4:13](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=253)** One last note before we move on to the demo, Snowflake also supports external tables, so Snowflake can query data stored in external cloud storage outside of Snowflake.
+> **[4:13](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=253)** One last note before we move on to the demo, Snowflake also supports external tables, so Snowflake can query data stored in external [[Cloud Storage]] outside of Snowflake.
 >
-> **[4:24](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=264)** Now, this cloud storage could be S3 on Amazon, Azure Data Lake, or Google Cloud Storage.
+> **[4:24](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=264)** Now, this cloud storage could be S3 on Amazon, [[Microsoft Azure|Azure]] Data Lake, or [[Google Cloud Platform (GCP)|Google Cloud]] Storage.
 >
 > **[4:30](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/types-of-tables-in-snowflake?u=76281980&t=270)** With external tables, your data will continue to reside on this external cloud storage service but can be queried from within Snowflake.
 >
@@ -568,14 +563,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (42), [[Snowflake]] (14), cloud (3), [[Data Manipulation]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (14), [[Cloud Storage]] (3), [[Data Manipulation]] (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating permanent tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980)
+#### [Creating permanent tables](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +581,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=24)** First, let me go ahead and create a database called ECOMMERCE_DB.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=29)** You can run this command by clicking on the run button off to the top-left, or by hitting command + enter or control + Enter with your cursor positioned over the Snowflake command you want to run.
+> **[0:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=29)** You can run this command by clicking on the run button off to the top-left, or by hitting command + enter or control + Enter with your cursor positioned over the [[Snowflake]] command you want to run.
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=40)** Once we've created this database, observe on the top-right of the worksheet, we are currently running with role ACCOUNTADMIN.
 >
@@ -633,7 +627,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=138)** That's for a later demo in this course.
 >
-> **[2:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=141)** Imagine that this table contains mobile phones that this e-commerce site sells.
+> **[2:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=141)** Imagine that this table contains mobile phones that this [[E-Commerce]] site sells.
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-permanent-tables?u=76281980&t=146)** And these are mobile phones that are launched in the actual catalog.
 >
@@ -675,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), [[Snowflake]] (4), hit (3), data (2), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[E-Commerce]] (1)
 > **Env Vars:** in_production (7), ecommerce_db (6), compute_wh (2), information_schema (2), tables (2)
 > **Definitions:** means that (2), is called (1), is a  (1)
 > **CLI Commands:** make (1), find (1)
@@ -684,8 +678,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating temporary tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-temporary-tables?u=76281980)
+#### [Creating temporary tables](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-temporary-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,7 +686,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-temporary-tables?u=76281980&t=5)** And I can do this by clicking on this plus tab here.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-temporary-tables?u=76281980&t=9)** Now, every worksheet in Snowflake is a separate session.
+> **[0:09](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-temporary-tables?u=76281980&t=9)** Now, every worksheet in [[Snowflake]] is a separate session.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-temporary-tables?u=76281980&t=13)** And if you remember, temporary tables are tables that are valid only within the session where they've been created.
 >
@@ -745,7 +738,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-temporary-tables?u=76281980&t=120)** Let's run the same query where we query the table name, table type, whether the table is transient or not, and other details from INFORMATION_SCHEMA.TABLES.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-temporary-tables?u=76281980&t=130)** The INFORMATION_SCHEMA gives us metadata information about Snowflake objects.
+> **[2:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-temporary-tables?u=76281980&t=130)** The INFORMATION_SCHEMA gives us [[Metadata]] information about Snowflake objects.
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-temporary-tables?u=76281980&t=135)** Our query is for all tables that starts with the IN_ prefix.
 >
@@ -835,19 +828,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (2), database (1), [[Metadata]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (2), [[Metadata]] (1)
 > **Env Vars:** in_testing (11), ecommerce_db (4), in_production (4), information_schema (2), select (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (4)
 > **SQL:** select (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating transient tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-transient-tables?u=76281980)
+#### [Creating transient tables](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-transient-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-transient-tables?u=76281980&t=1)** - [Instructor] In order to create transient tables and understand how they work, let's open up a new worksheet, that is a new session within our Snowflake console.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-transient-tables?u=76281980&t=1)** - [Instructor] In order to create transient tables and understand how they work, let's open up a new worksheet, that is a new session within our [[Snowflake]] console.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-transient-tables?u=76281980&t=9)** I'm going to call this worksheet Beta.
 >
@@ -877,7 +869,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-transient-tables?u=76281980&t=77)** Let's see what the characteristics of a transient table are.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-transient-tables?u=76281980&t=81)** Let's run are SELECT query on this metadata INFORMATION SCHEME TABLES.
+> **[1:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-transient-tables?u=76281980&t=81)** Let's run are SELECT query on this [[Metadata]] INFORMATION SCHEME TABLES.
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-transient-tables?u=76281980&t=87)** And you can see that for our transient table, the table type is BASE TABLE.
 >
@@ -957,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (3), hit (3), database (1), data (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Metadata]] (1)
 > **Env Vars:** in_beta (7), table (6), create (3), is_transient (3), in_production (3)
 > **Definitions:** is a  (5)
 > **SQL:** create table (2), select (2)
@@ -965,12 +957,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring data retention time
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/configuring-data-retention-time?u=76281980)
+#### [Configuring data retention time](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/configuring-data-retention-time?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/configuring-data-retention-time?u=76281980&t=1)** - [Lecturer] In this demo, that'll span the next few videos, we'll work with time travel in Snowflake.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/configuring-data-retention-time?u=76281980&t=1)** - [Lecturer] In this demo, that'll span the next few videos, we'll work with time travel in [[Snowflake]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/configuring-data-retention-time?u=76281980&t=5)** Time Travel and Snowflake gives you access to historical data stored within your table within a certain time period.
 >
@@ -978,7 +969,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/configuring-data-retention-time?u=76281980&t=17)** Now I'm working within my production worksheet.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/configuring-data-retention-time?u=76281980&t=20)** I'm going to run a query to take a look at the metadata for my in production table.
+> **[0:20](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/configuring-data-retention-time?u=76281980&t=20)** I'm going to run a query to take a look at the [[Metadata]] for my in production table.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/configuring-data-retention-time?u=76281980&t=25)** This is the table that I had created earlier in this course.
 >
@@ -1032,13 +1023,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Snowflake]] (5), [[Metadata]] (3), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Metadata]] (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Querying historical data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-historical-data?u=76281980)
+#### [Querying historical data](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-historical-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1046,7 +1036,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-historical-data?u=76281980&t=11)** Observe that the first two records are of the brand OPPO, that's a brand of mobile phone.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-historical-data?u=76281980&t=16)** You can see that the Google Pixel brand is also available here in this table.
+> **[0:16](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-historical-data?u=76281980&t=16)** You can see that the [[Google]] Pixel brand is also available here in this table.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-historical-data?u=76281980&t=21)** Another thing to note, is that there are seven records in this table.
 >
@@ -1102,13 +1092,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Google]] (11)
+> **Frameworks & Libraries:** [[Google]] (11)
 > **Env Vars:** oppo (9)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dropping and restoring tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/dropping-and-restoring-tables?u=76281980)
+#### [Dropping and restoring tables](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/dropping-and-restoring-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,7 +1125,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/dropping-and-restoring-tables?u=76281980&t=68)** I'll quickly confirm that Time Travel has indeed been disabled.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/dropping-and-restoring-tables?u=76281980&t=72)** Let query the information_schema.tables and look at the metadata.
+> **[1:12](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/dropping-and-restoring-tables?u=76281980&t=72)** Let query the information_schema.tables and look at the [[Metadata]].
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/dropping-and-restoring-tables?u=76281980&t=76)** You can see In_Production retention time has now been set to zero, which means we do not have access to historical data for this table.
 >
@@ -1164,7 +1153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Code Identifiers:** information_schema (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1173,14 +1162,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Non-materialized, materialized, and secure views
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980)
+#### [Non-materialized, materialized, and secure views](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980&t=1)** - [Instructor] If you analyze data using the same complex query over and over again, it might be useful for you to define a view.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980&t=7)** Views in Snowflake are defined by a query, and views allow users to access the result of that query as though the result were in a table.
+> **[0:07](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980&t=7)** Views in [[Snowflake]] are defined by a query, and views allow users to access the result of that query as though the result were in a table.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980&t=17)** Views can thus be thought of as a named reference to a query, and other queries can reference views exactly like they do tables.
 >
@@ -1222,7 +1210,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980&t=137)** Now, if you want Snowflake to provide additional security to your views, you can define both materialized and non-materialized views as secure views.
 >
-> **[2:28](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980&t=148)** Secure views allow for additional data privacy for the records associated with that view.
+> **[2:28](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980&t=148)** Secure views allow for additional [[Data Privacy]] for the records associated with that view.
 >
 > **[2:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980&t=154)** And because of this, secure views may be less performant than other views because they do not allow Snowflake to perform certain kinds of query optimizations.
 >
@@ -1250,17 +1238,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Snowflake]] (6), [[Security]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[Data Privacy]] (1)
 > **Analogies:** just like (1), for example (1), similar to (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and populating tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980)
+#### [Creating and populating tables](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=1)** - [Instructor] For this demo, and for all of the demos from here on in, we'll no longer work with the classic Snowflake web interface.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=1)** - [Instructor] For this demo, and for all of the demos from here on in, we'll no longer work with the classic [[Snowflake]] web interface.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=7)** You can click on this icon here, off to the top right of your screen, and switch over to the new Snowsight user interface.
 >
@@ -1276,7 +1263,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=39)** Within the Snowsight user interface you can specify the database and schema that you want to work with using this dropdown.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=47)** We'll continue working with the e-commerce database and public schema.
+> **[0:47](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=47)** We'll continue working with the [[E-Commerce]] database and public schema.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=51)** I'll run a use statement for the e-commerce database as well.
 >
@@ -1298,7 +1285,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=86)** Let's create yet another table.
 >
-> **[1:27](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=87)** This one will store the products of our e-commerce site.
+> **[1:27](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=87)** This one will store the [[Microsoft Products|products]] of our e-commerce site.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=90)** "Product Info" is the name of the table.
 >
@@ -1326,7 +1313,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=141)** External tables are tables where the data is hosted outside of Snowflake on the cloud platform's storage service.
 >
-> **[2:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=149)** Like S3 on Amazon, Google Cloud Storage on the GCP, and Blob Storage on Azure.
+> **[2:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=149)** Like S3 on Amazon, [[Google Cloud Platform (GCP)|Google Cloud]] Storage on the GCP, and Blob Storage on [[Microsoft Azure|Azure]].
 >
 > **[2:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-populating-tables?u=76281980&t=154)** Having created these tables we are now ready to populate them.
 >
@@ -1350,18 +1337,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[E-Commerce]] (6), [[Microsoft Products|Products]] (5), database (3), [[Snowflake]] (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (6), [[Microsoft Products|Products]] (5), [[Snowflake]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (1), dropdown (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** gcp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and querying views
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-querying-views?u=76281980)
+#### [Creating and querying views](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-querying-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-querying-views?u=76281980&t=1)** - [Instructor] Now that we've set up the customer's products and orders table, you might want to run a query like this one.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-querying-views?u=76281980&t=1)** - [Instructor] Now that we've set up the customer's [[Microsoft Products|products]] and orders table, you might want to run a query like this one.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-querying-views?u=76281980&t=7)** This query is fairly complicated, but it's a very useful query.
 >
@@ -1409,7 +1395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), data (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** view (16), order_summary (6), order_details (3), select (3), customer_details (2)
 > **Code Identifiers:** ord_id (2), cust_name (2), cust_id (1), prod_id (1), ord_date (1)
 > **SQL:** select (3)
@@ -1418,8 +1404,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 
-#### Recreating views
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/recreating-views?u=76281980)
+#### [Recreating views](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/recreating-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1431,7 +1416,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/recreating-views?u=76281980&t=15)** I'm going to create yet another view.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/recreating-views?u=76281980&t=17)** Once again, this is a regular view called Premium Products.
+> **[0:17](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/recreating-views?u=76281980&t=17)** Once again, this is a regular view called Premium [[Microsoft Products|Products]].
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/recreating-views?u=76281980&t=21)** This is backed by the query select star from product info where price is greater than thousand.
 >
@@ -1467,15 +1452,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (5), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7)
 > **SQL:** varchar (1)
 > **Env Vars:** varchar (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Querying regular views and secure views
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980)
+#### [Querying regular views and secure views](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1487,7 +1471,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=20)** I have a query here on line 17 and 18.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=23)** Select star from order summary where broad name like S percent products that start with S.
+> **[0:23](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=23)** Select star from order summary where broad name like S percent [[Microsoft Products|products]] that start with S.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=29)** I'm going to run this query.
 >
@@ -1505,7 +1489,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=50)** It'll open up a new browser tab and you can see that the query profile gives you a flow chart of the different operations that are run when you execute the query.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=59)** I'm going to zoom out a bit so you can see all of the individual boxes.
+> **[0:59](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=59)** I'm going to [[Zoom]] out a bit so you can see all of the individual boxes.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=63)** I'll just adjust the query profile on the screen a little bit.
 >
@@ -1583,21 +1567,20 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=250)** Secure views do not leak the details of the underlying table or its data to queries that use the secure view.
 >
-> **[4:19](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=259)** This also means that certain optimizations that Snowflake may be able to perform with regular views are not possible in secure views which means it's possible that secure views are slower than regular views.
+> **[4:19](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-regular-views-and-secure-views?u=76281980&t=259)** This also means that certain optimizations that [[Snowflake]] may be able to perform with regular views are not possible in secure views which means it's possible that secure views are slower than regular views.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Zoom]] (1), product (1), data (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Zoom]] (1), [[Snowflake]] (1)
 > **Definitions:** is a  (5), means that (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Speakers:** - so (1)
 
-#### Creating and querying materialized views
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-querying-materialized-views?u=76281980)
+#### [Creating and querying materialized views](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-querying-materialized-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-querying-materialized-views?u=76281980&t=1)** - [Instructor] In this demo, we'll create a view by using one of Snowflake's sample tables as the underlying base table.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-querying-materialized-views?u=76281980&t=1)** - [Instructor] In this demo, we'll create a view by using one of [[Snowflake]]'s sample tables as the underlying base table.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-and-querying-materialized-views?u=76281980&t=9)** The table that we are working with is in the snowflake sample data database.
 >
@@ -1677,7 +1660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Snowflake]] (2), database (2)
+> **Frameworks & Libraries:** [[Snowflake]] (2)
 > **Versions:** 13.3 (2), 1.6 (1), 1.5 (1), 0.05 (1), 0.06 (1)
 > **Definitions:** is called (1), is a  (1), means that (1)
 > **CLI Commands:** find (2)
@@ -1691,12 +1674,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Caching, clustering, and search optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980)
+#### [Caching, clustering, and search optimization](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=1)** - [Instructor] Snowflake runs queries on huge amounts of data.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=1)** - [Instructor] [[Snowflake]] runs queries on huge amounts of data.
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=3)** In order for these queries to run quickly, the queries need to be optimized.
 >
@@ -1714,7 +1696,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=23)** It's by far the easiest technique to understand, and it happens automatically.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=28)** We've already discussed that Snowflake's architecture divides Snowflake into three layers, database storage, where data is persisted, query processing, which comprise of virtual warehouses, and the cloud services layer.
+> **[0:28](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=28)** We've already discussed that Snowflake's architecture divides Snowflake into three layers, database storage, where data is persisted, query processing, which comprise of virtual warehouses, and the [[Cloud Services]] layer.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=41)** So we have the storage layer, the compute layer, and the service layer.
 >
@@ -1722,7 +1704,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=48)** However, the data is cached in both the compute layer as well as the service layer.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=53)** The service layer accepts SQL requests from users, coordinate queries, manages transactions and results, and the service layer has the result cache.
+> **[0:53](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=53)** The service layer accepts [[SQL]] requests from users, coordinate queries, manages transactions and results, and the service layer has the result cache.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980&t=63)** This holds the result of every query executed in the past 24 hours.
 >
@@ -1792,17 +1774,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Search]] (13), [[Snowflake]] (7), [[SQL]] (3), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[SQL]] (3), [[Cloud Services]] (1)
 > **Env Vars:** sql (3), ssd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading data using COPY INTO
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980)
+#### [Loading data using COPY INTO](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=1)** - [Instructor] Starting from this demo over the next few demos, we looked at some different query optimization techniques that Snowflake supports.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=1)** - [Instructor] Starting from this demo over the next few demos, we looked at some different query optimization techniques that [[Snowflake]] supports.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=8)** Now in order to run our queries, we need a large dataset.
 >
@@ -1836,7 +1817,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=76)** If you need instructions on how to install SnowSQL, this URL that you see here on screen should guide you.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=83)** Whether you have a Windows machine or Mac OS or Linux, SnowSQL is available for all of these platforms.
+> **[1:23](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=83)** Whether you have a [[Windows]] machine or Mac OS or [[Linux]], SnowSQL is available for all of these platforms.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=90)** I'm going to go ahead and run the SnowSQL command -A, specifies the URL for my Snowflake account and -use specifies the username.
 >
@@ -1856,7 +1837,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=123)** Stages in Snowflake are locations which are used to store data which are then loaded into tables.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=130)** If the data that's to be loaded is in an external location like say Amazon S3 or Azure's blob storage, you'll use an external stage.
+> **[2:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=130)** If the data that's to be loaded is in an external location like say Amazon S3 or [[Microsoft Azure|Azure]]'s blob storage, you'll use an external stage.
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=139)** But here, we're going to use an internal named stage.
 >
@@ -1896,11 +1877,11 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=247)** There are about three records that are malformed which are not loaded.
 >
-> **[4:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=250)** The rest of the data will be loaded.
+> **[4:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-data-using-copy-into?u=76281980&t=250)** The [[Representational State Transfer (REST)|rest]] of the data will be loaded.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (7), [[Snowflake]] (6), next (4), hit (3)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[Windows]] (1), [[Linux]] (1), [[Microsoft Azure|Azure]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** csv (6), url (2), sfi (1), compute (1)
 > **Code Identifiers:** sales_db (3), ecommerce (1)
 > **Tools:** terminal (1), command line (1)
@@ -1909,8 +1890,7 @@ created: 2026-05-02
 > **File Paths:** sales.csv (1)
 > **CLI Commands:** find (1)
 
-#### Retrieval optimization using cached results
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980)
+#### [Retrieval optimization using cached results](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1940,7 +1920,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=68)** This query extracted all of the 1.13 GB of compressed data.
 >
-> **[1:13](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=73)** You can see under Statistics, Bytes written to result is about 1.13 GB.
+> **[1:13](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=73)** You can see under [[Statistics]], Bytes written to result is about 1.13 GB.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=79)** So this was a fairly heavy duty operation.
 >
@@ -1958,11 +1938,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=117)** What happened?
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=119)** Well, the Query Results were stored in the cache in the cloud services layer.
+> **[1:59](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=119)** Well, the Query Results were stored in the cache in the [[Cloud Services]] layer.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=125)** And you can see from the Query Profile that this Query results were reused.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=130)** Since Snowflake had already cached the results of this query previously, Query results were now retrieved from cache.
+> **[2:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=130)** Since [[Snowflake]] had already cached the results of this query previously, Query results were now retrieved from cache.
 >
 > **[2:18](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/retrieval-optimization-using-cached-results?u=76281980&t=138)** This is Retrieval Optimization.
 >
@@ -2002,7 +1982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Snowflake]] (2), [[Statistics]] (1), hit (1), cloud (1)
+> **Frameworks & Libraries:** [[Snowflake]] (2), [[Statistics]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** find (4)
 > **Versions:** 19.7 (2), 1.13 (2)
 > **Env Vars:** alter (3)
@@ -2010,12 +1990,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Enabling clustering on tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/enabling-clustering-on-tables?u=76281980)
+#### [Enabling clustering on tables](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/enabling-clustering-on-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/enabling-clustering-on-tables?u=76281980&t=1)** - [Instructor] The next kind of query optimization that we'll explore in Snowflake is clustering.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/enabling-clustering-on-tables?u=76281980&t=1)** - [Instructor] The next kind of query optimization that we'll explore in [[Snowflake]] is clustering.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/enabling-clustering-on-tables?u=76281980&t=5)** Clustering involves the use of a clustering key to co-locate records within a table.
 >
@@ -2023,7 +2002,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/enabling-clustering-on-tables?u=76281980&t=21)** Now let's take a look at our Iowa sales table.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/enabling-clustering-on-tables?u=76281980&t=23)** We'll look at the metadata for this table, and you'll see that the table is not clustered by default.
+> **[0:23](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/enabling-clustering-on-tables?u=76281980&t=23)** We'll look at the [[Metadata]] for this table, and you'll see that the table is not clustered by default.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/enabling-clustering-on-tables?u=76281980&t=29)** This is a regular permanent table within the database sales underscore DB.
 >
@@ -2127,15 +2106,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Metadata]] (4), [[Snowflake]] (3), next (2), database (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Snowflake]] (3)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying clustered tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-clustered-tables?u=76281980)
+#### [Querying clustered tables](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-clustered-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2217,14 +2195,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying clustering information
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-clustering-information?u=76281980)
+#### [Querying clustering information](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-clustering-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2242,7 +2218,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-clustering-information?u=76281980&t=49)** For example, here, I'm curious as to whether the date column in my table will give me a good clustered result.
 >
-> **[0:57](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-clustering-information?u=76281980&t=57)** Run this query and you can see that this clustering information is present in a JSON format.
+> **[0:57](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-clustering-information?u=76281980&t=57)** Run this query and you can see that this clustering information is present in a [[JSON]] format.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-clustering-information?u=76281980&t=62)** You can select the one record in the result and then expand the JSON information off to the right.
 >
@@ -2288,7 +2264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), data (2)
+> **Frameworks & Libraries:** [[JSON]] (5)
 > **Env Vars:** json (5)
 > **Definitions:** is a  (3), refers to (1)
 > **Versions:** 6.78 (1), 4.8182 (1)
@@ -2297,8 +2273,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running point lookup queries on search-optimized tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/running-point-lookup-queries-on-search-optimized-tables?u=76281980)
+#### [Running point lookup queries on search-optimized tables](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/running-point-lookup-queries-on-search-optimized-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2324,7 +2299,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/running-point-lookup-queries-on-search-optimized-tables?u=76281980&t=69)** If you want to see what these costs will be for the Iowa sales table, let's run a select on system estimate search optimization costs.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/running-point-lookup-queries-on-search-optimized-tables?u=76281980&t=78)** We get some JSON values in the results.
+> **[1:18](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/running-point-lookup-queries-on-search-optimized-tables?u=76281980&t=78)** We get some [[JSON]] values in the results.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/running-point-lookup-queries-on-search-optimized-tables?u=76281980&t=80)** Let's expand this and take a look at what these JSON values are.
 >
@@ -2378,7 +2353,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/running-point-lookup-queries-on-search-optimized-tables?u=76281980&t=197)** Observe that search optimization is now on on the third record. For any table, it takes some time to build up and populate the data structure that allows search optimization.
 >
-> **[3:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/running-point-lookup-queries-on-search-optimized-tables?u=76281980&t=209)** Now because this is a fairly small table by Snowflake standards, it has only about one GP of compressed data.
+> **[3:29](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/running-point-lookup-queries-on-search-optimized-tables?u=76281980&t=209)** Now because this is a fairly small table by [[Snowflake]] standards, it has only about one GP of compressed data.
 >
 > **[3:36](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/running-point-lookup-queries-on-search-optimized-tables?u=76281980&t=216)** Search optimization progress is hundred.
 >
@@ -2424,7 +2399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (30), data (4), [[JSON]] (2), next (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Snowflake]] (1)
 > **Env Vars:** iowa_sales (2), json (2), use_cached_result (1), iowa_sales_optimized (1), iowa_sales_optomized (1)
 > **Definitions:** is a  (4)
 > **Versions:** 0.02 (1), 1.9 (1), 1.8 (1)
@@ -2433,8 +2408,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - in (1)
 
-#### Clustering vs. search optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/clustering-vs-search-optimization?u=76281980)
+#### [Clustering vs. search optimization](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/clustering-vs-search-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2582,7 +2556,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (17), data (3), database (1)
 > **Env Vars:** o_custkey (4), orders_clustered (4), orders_search_optimized (3), snowflake_sample_data (1), tpch_sf100 (1)
 > **Definitions:** is a  (4), is called (1)
 > **Prerequisites:** set up (2)
@@ -2595,12 +2568,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loading and querying parquet data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980)
+#### [Loading and querying parquet data](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980&t=0)** - In this demo, we'll see how we can load semi-structured data into snowflake.
+> **[0:00](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980&t=0)** - In this demo, we'll see how we can load semi-structured data into [[Snowflake]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980&t=6)** The first kind of semi-structured data that we work with is a parquet file.
 >
@@ -2612,7 +2584,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980&t=28)** This is the parquet file that will load into snowflake and query from snowflake.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980&t=34)** Now, for this demo, we'll go back to working with snow SQL because we have to load data.
+> **[0:34](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980&t=34)** Now, for this demo, we'll go back to working with snow [[SQL]] because we have to load data.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980&t=39)** So run this command log into your snowflake account.
 >
@@ -2724,19 +2696,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Snowflake]] (5), [[SQL]] (3), database (3), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[SQL]] (3)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Speakers:** - in (1)
 
-#### Loading JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-json-data?u=76281980)
+#### [Loading JSON data](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-json-data?u=76281980&t=1)** - [Instructor] In this demo, we'll see how we can load JSON data into Snowflake, and then later on, we'll query the JSON data that we've loaded.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-json-data?u=76281980&t=1)** - [Instructor] In this demo, we'll see how we can load [[JSON]] data into [[Snowflake]], and then later on, we'll query the JSON data that we've loaded.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-json-data?u=76281980&t=8)** Let's take a look at the actual structure of this JSON data.
 >
@@ -2792,7 +2763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[JSON]] (14), next (2), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[JSON]] (14), [[Snowflake]] (1)
 > **Env Vars:** json (13), url (1), zip (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** zomato_data.json (1)
@@ -2800,8 +2771,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-json-data?u=76281980)
+#### [Querying JSON data](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2809,7 +2779,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-json-data?u=76281980&t=5)** First, let's do a very simple select star from Zomato restaurants to see what this table looks like.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-json-data?u=76281980&t=12)** You can see from the result that we have exactly one column named JSON Data.
+> **[0:12](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-json-data?u=76281980&t=12)** You can see from the result that we have exactly one column named [[JSON]] Data.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-json-data?u=76281980&t=17)** And within this JSON Data column, every entry is a JSON structure representing a single restaurant.
 >
@@ -2845,7 +2815,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-json-data?u=76281980&t=113)** And we'll get two columns in the result with the name of each restaurant and the text associated with the ratings for the restaurant.
 >
-> **[2:02](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-json-data?u=76281980&t=122)** If you want to give snowflake a hint, you can also indicate the data type of the resulting field.
+> **[2:02](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-json-data?u=76281980&t=122)** If you want to give [[Snowflake]] a hint, you can also indicate the data type of the resulting field.
 >
 > **[2:07](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/querying-json-data?u=76281980&t=127)** Observe my select statement here.
 >
@@ -2895,7 +2865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (13), data (8), api (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[JSON]] (13), [[Snowflake]] (1)
 > **Env Vars:** json (13), api (1)
 > **Definitions:** is a  (3), is an  (2)
 > **UI Navigation:** select the (4)
@@ -2906,12 +2876,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980)
+#### [Access control](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980&t=1)** - In this video, we'll discuss how access control works in Snowflake and a few best practices and important considerations for managing secure access to your Snowflake accounts and Snowflake objects.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980&t=1)** - In this video, we'll discuss how access control works in [[Snowflake]] and a few best practices and important considerations for managing secure access to your Snowflake accounts and Snowflake objects.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980&t=13)** Here is the Snowflake object hierarchy.
 >
@@ -2953,7 +2922,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980&t=122)** And this role owns two objects.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980&t=126)** Both of these objects assume are either warehouses or databases, and this role has certain privileges on these objects.
+> **[2:06](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980&t=126)** Both of these objects assume are either warehouses or [[Databases]], and this role has certain privileges on these objects.
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980&t=134)** Role one may now choose to grant some or all of these privileges to other roles.
 >
@@ -3005,17 +2974,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (11), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (11), [[Databases]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** opp (1)
 > **Speakers:** - in (1)
 
-#### Creating users and viewing grants
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-users-and-viewing-grants?u=76281980)
+#### [Creating users and viewing grants](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-users-and-viewing-grants?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-users-and-viewing-grants?u=76281980&t=1)** - In this demo, we'll see how you can create a new user for your Snowflake Account, assign a role to that user, and grant specific privileges to that role.
+> **[0:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-users-and-viewing-grants?u=76281980&t=1)** - In this demo, we'll see how you can create a new user for your [[Snowflake]] Account, assign a role to that user, and grant specific privileges to that role.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/creating-users-and-viewing-grants?u=76281980&t=9)** So that the user that you have created can perform the operations that you want them to.
 >
@@ -3119,15 +3087,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (8), database (6), data (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8)
 > **UI Navigation:** click on (3), dropdown (2), select the (1), scroll down (1)
 > **Env Vars:** cis (1), url (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Granting privileges to roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/granting-privileges-to-roles?u=76281980)
+#### [Granting privileges to roles](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/granting-privileges-to-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3195,7 +3162,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/granting-privileges-to-roles?u=76281980&t=183)** But when we try to select that database, observe that we do not have access to the public schema in that database.
 >
-> **[3:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/granting-privileges-to-roles?u=76281980&t=190)** We only have default access to the information schema containing metadata about this database.
+> **[3:10](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/granting-privileges-to-roles?u=76281980&t=190)** We only have default access to the information schema containing [[Metadata]] about this database.
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/granting-privileges-to-roles?u=76281980&t=197)** We want the test user to be able to query the Iowa sales table in the SALES_DB public schema.
 >
@@ -3231,7 +3198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), next (5), hit (2), data (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Env Vars:** basic_role (18), sales_db (6), iowa_sales (3), select (2), public (2)
 > **UI Navigation:** click on (2), dropdown (2)
 > **SQL:** select (2)
@@ -3243,8 +3210,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3252,7 +3218,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=3)** Let's quickly summarize what we've covered so far and let's look ahead at what your next steps might be.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=9)** We saw that Snowflake is a managed big data platform that's cloud first and cloud only.
+> **[0:09](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=9)** We saw that [[Snowflake]] is a managed [[Big Data]] platform that's cloud first and cloud only.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=15)** We saw that tables in Snowflake can be permanent, temporary, or transient tables, and you pick one based on your use case.
 >
@@ -3264,13 +3230,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=39)** We discussed caching, clustering, and search optimization in some detail.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=45)** We then saw how we could load and query semi-structured data in Snowflake specifically Parquet data and JSON data.
+> **[0:45](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=45)** We then saw how we could load and query semi-structured data in Snowflake specifically Parquet data and [[JSON]] data.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=53)** And we rounded this course off by seeing how Snowflake enables access control using rules.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=60)** This brings us to the end of this course.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=61)** If you wish to continue your learning, there are some other interesting courses on LinkedIn Learning.
+> **[1:01](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=61)** If you wish to continue your learning, there are some other interesting courses on [[LinkedIn]] Learning.
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=67)** BigQuery is a big data platform very similar to Snowflake.
 >
@@ -3278,7 +3244,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=78)** Another managed data platform for big data processing which is a competitor to Snowflake is Databricks.
 >
-> **[1:24](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=84)** If you're interested in learning more about Databricks, [[Azure Spark Databricks Essential Training]] is a great course.
+> **[1:24](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=84)** If you're interested in learning more about Databricks, [[[[Microsoft Azure|Azure]] Spark Databricks Essential Training]] is a great course.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980&t=91)** I hope you enjoyed this course.
 >
@@ -3288,7 +3254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (8), data (4), [[Big Data]] (3), cloud (2), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Big Data]] (3), [[JSON]] (1), [[LinkedIn]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** json (1)
 > **Cross-References:** we discussed (1)

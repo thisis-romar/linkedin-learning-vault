@@ -107,12 +107,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to learning Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/welcome-to-learning-java?u=76281980)
+#### [Welcome to learning Java](https://www.linkedin.com/learning/learning-java-11/welcome-to-learning-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/welcome-to-learning-java?u=76281980&t=0)** - [Kathryn] Java is one of the most popular programming languages for beginners.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/welcome-to-learning-java?u=76281980&t=0)** - [Kathryn] [[Java]] is one of the most popular programming languages for beginners.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-java-11/welcome-to-learning-java?u=76281980&t=5)** Why?
 >
@@ -134,16 +133,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Programming]] (2), web (1)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Analogies:** such as (1)
 > **Speakers:** - [kathryn] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-java-11/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/what-you-should-know?u=76281980&t=0)** - [Instructor] To take this course you do not need any prior knowledge of Java or programming.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/what-you-should-know?u=76281980&t=0)** - [Instructor] To take this course you do not need any prior knowledge of [[Java]] or programming.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-java-11/what-you-should-know?u=76281980&t=6)** Keeping that in mind, you won't learn everything about Java, but this course will give you a good introduction and foundation to the Java programming language that you can take to more advanced Java courses and projects.
 >
@@ -157,17 +155,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/learning-java-11/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/using-the-exercise-files?u=76281980&t=0)** - [Instructor] I have created a GitHub repo at the URL below that you can use to pull a copy of the project files used in this course.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/using-the-exercise-files?u=76281980&t=0)** - [Instructor] I have created a [[GitHub]] repo at the URL below that you can use to pull a copy of the project files used in this course.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-java-11/using-the-exercise-files?u=76281980&t=9)** If you have a GitHub account, feel free to fork the repo to be able to work on your own version of it.
 >
@@ -191,14 +188,13 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tour of CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/tour-of-coderpad?u=76281980)
+#### [Tour of CoderPad](https://www.linkedin.com/learning/learning-java-11/tour-of-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-java-11/tour-of-coderpad?u=76281980&t=0)** - [Instructor] These interactive code challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the courses videos.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-java-11/tour-of-coderpad?u=76281980&t=9)** We recommend using a desktop browser for the best experience, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:09](https://www.linkedin.com/learning/learning-java-11/tour-of-coderpad?u=76281980&t=9)** We recommend using a desktop browser for the best experience, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-java-11/tour-of-coderpad?u=76281980&t=16)** The code challenge has four main areas, instructions, a console for output, a code editor for your answer, and another code editor where you can see how your code is used.
 >
@@ -230,7 +226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** showexpectedresult (2), showhints (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -240,12 +236,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Java?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980)
+#### [What is Java?](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=0)** - [Instructor] Let's get started with Java.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=0)** - [Instructor] Let's get started with [[Java]].
 >
 > **[0:02](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=2)** Java is a very commonly used programming language, and it is often the first language beginners learn.
 >
@@ -257,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=33)** What types of applications?
 >
-> **[0:34](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=34)** Think web applications, mobile applications, desktop applications, web servers, embedded systems, and more.
+> **[0:34](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=34)** Think web applications, mobile applications, desktop applications, [[Web Servers]], embedded systems, and more.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=42)** We call these applications Java programs, because they are built with the Java programming language.
 >
@@ -271,7 +266,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=80)** You need to install the JDK, or Java Development Kit.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=84)** The Java Development Kit is a full-featured software development kit that includes everything from the JRE, as well as compilers, debuggers, and tools to create Java programs.
+> **[1:24](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=84)** The Java Development Kit is a full-featured [[Software Development]] kit that includes everything from the JRE, as well as compilers, debuggers, and tools to create Java programs.
 >
 > **[1:35](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980&t=95)** This means we can just install the JDK, or Java Development Kit, and we get the JRE, or Java Runtime Environment, automatically.
 >
@@ -279,19 +274,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (17), [[Programming]] (4), web (2), application (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Java]] (17), [[Web Servers]] (1), [[Software Development]] (1)
 > **Env Vars:** jre (3), jdk (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Downloading Java on your computer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/downloading-java-on-your-computer?u=76281980)
+#### [Downloading Java on your computer](https://www.linkedin.com/learning/learning-java-11/downloading-java-on-your-computer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/downloading-java-on-your-computer?u=76281980&t=0)** - [Instructor] Let's install the Java Development Kit, or JDK, so that we can build Java applications on our computer.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/downloading-java-on-your-computer?u=76281980&t=0)** - [Instructor] Let's install the [[Java]] Development Kit, or JDK, so that we can build Java applications on our computer.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-java-11/downloading-java-on-your-computer?u=76281980&t=7)** Remember, the JDK includes the JRE, or Java Runtime Environment, so we will not only be able to build applications on our computer, but we will also be able to run them.
 >
@@ -313,13 +307,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/learning-java-11/downloading-java-on-your-computer?u=76281980&t=74)** With the installer installed, we'll click the installer, and we'll begin to install the JDK version 13.0.2.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-java-11/downloading-java-on-your-computer?u=76281980&t=84)** We'll click through these windows and continue with the installation.
+> **[1:24](https://www.linkedin.com/learning/learning-java-11/downloading-java-on-your-computer?u=76281980&t=84)** We'll click through these [[Windows]] and continue with the installation.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-java-11/downloading-java-on-your-computer?u=76281980&t=90)** With the JDK or Java Development Kit installed, we can now build and run Java programs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), [[Programming]] (1), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Windows]] (1)
 > **Env Vars:** jdk (5), jre (1)
 > **Versions:** 13.0.2 (1), java 8 (1), version 13 (1), 0.2 (1)
 > **Exercise Files:** download the (2)
@@ -328,12 +322,11 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980)
+#### [Exploring the command line](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=0)** - [Instructor] The command line is a commonly used tool that can be used to build and run Java programs.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=0)** - [Instructor] The command line is a commonly used tool that can be used to build and run [[Java]] programs.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=6)** Before we use it with our Java programs, we need to talk more about what the command line actually is.
 >
@@ -353,7 +346,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=55)** We can go to Spotlight Search and type in terminal, hit enter and this will open the program for us.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=64)** If you are a Windows user, you can search for cmd in the start menu and select command prompt from the list.
+> **[1:04](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=64)** If you are a [[Windows]] user, you can search for cmd in the start menu and select command prompt from the list.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=71)** The command prompt is built-in, so you shouldn't have to install anything.
 >
@@ -367,7 +360,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=95)** The current folder is our home folder, so if we navigate to our home folder in the GUI or graphical user interface, we should see these contents.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=105)** When talking about commands and the command line, we often use the word directory instead of folder.
+> **[1:45](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=105)** When talking about commands and the command line, we often use the [[Microsoft Word|word]] directory instead of folder.
 >
 > **[1:52](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=112)** Now, if I want to change folders or directories and see the contents of that given directory, we use the command cd with the name of the directory.
 >
@@ -385,7 +378,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=161)** It's most likely a different output than what we saw before with this command because the contents of the desktop folder are often different than the contents of the home folder.
 >
-> **[2:50](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=170)** We can make a new folder on our desktop called LinkedIn Learning with the command make directory or mkdir, and then the folder name that we want to use for our new directory, in this case, LinkedIn Learning.
+> **[2:50](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=170)** We can make a new folder on our desktop called [[LinkedIn]] Learning with the command make directory or mkdir, and then the folder name that we want to use for our new directory, in this case, LinkedIn Learning.
 >
 > **[3:05](https://www.linkedin.com/learning/learning-java-11/exploring-the-command-line?u=76281980&t=185)** We'll hit enter and we see a new folder on our desktop.
 >
@@ -403,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Windows]] (6), cd (6), [[Java]] (4), [[Search]] (2)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Java]] (4), [[LinkedIn]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cd (6), make (3), ls (2), mkdir (1)
 > **Tools:** command line (7), terminal (2), command prompt (2)
 > **UI Navigation:** go to (1), open the (1), navigate to (1)
@@ -412,14 +405,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
 
-#### Your first Java program
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/your-first-java-program?u=76281980)
+#### [Your first Java program](https://www.linkedin.com/learning/learning-java-11/your-first-java-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/your-first-java-program?u=76281980&t=0)** - [Narrator] We are ready to write our first Java program.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/your-first-java-program?u=76281980&t=0)** - [Narrator] We are ready to write our first [[Java]] program.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-java-11/your-first-java-program?u=76281980&t=3)** Just like we write essays using some kind of word editor, we need a text editor to write our code.
+> **[0:03](https://www.linkedin.com/learning/learning-java-11/your-first-java-program?u=76281980&t=3)** Just like we write essays using some kind of [[Microsoft Word|word]] editor, we need a text editor to write our code.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-java-11/your-first-java-program?u=76281980&t=10)** I'm going to download Sublime Text, which is a common text editor that developers use.
 >
@@ -495,7 +487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (13), [[Programming]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (13), [[Microsoft Word|Word]] (1)
 > **Tools:** sublime (4), command line (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3)
@@ -504,12 +496,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Hello World in the command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/hello-world-in-the-command-line?u=76281980)
+#### [Hello World in the command line](https://www.linkedin.com/learning/learning-java-11/hello-world-in-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/hello-world-in-the-command-line?u=76281980&t=0)** - [Instructor] Unlike other programming languages, Java code must be Compiled before it is run.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/hello-world-in-the-command-line?u=76281980&t=0)** - [Instructor] Unlike other programming languages, [[Java]] code must be Compiled before it is run.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-java-11/hello-world-in-the-command-line?u=76281980&t=6)** This means, we'll be using one command to compile our code, and another command to execute or run our code.
 >
@@ -523,7 +514,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-java-11/hello-world-in-the-command-line?u=76281980&t=42)** We'll need to go to our desktop directory, which is where this folder lives and our HelloWorld program is.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-java-11/hello-world-in-the-command-line?u=76281980&t=48)** So we'll go cd Desktop ls and we'll see that learning Java folders is there, cd learning-java, and you can actually hit tab to auto complete the rest of the folder name.
+> **[0:48](https://www.linkedin.com/learning/learning-java-11/hello-world-in-the-command-line?u=76281980&t=48)** So we'll go cd Desktop ls and we'll see that learning Java folders is there, cd learning-java, and you can actually hit tab to auto complete the [[Representational State Transfer (REST)|rest]] of the folder name.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-java-11/hello-world-in-the-command-line?u=76281980&t=62)** We'll hit enter to go into this folder ls and we see our Java file inside.
 >
@@ -575,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (21), hit (6), cd (2), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (21), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** ls (3), cd (2), make (1)
 > **Exercise Files:** source code (5)
 > **Tools:** command line (2), terminal (1), sublime (1)
@@ -583,14 +574,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring an integrated development environment (IDE)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?u=76281980)
+#### [Exploring an integrated development environment (IDE)](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?u=76281980&t=0)** - [Instructor] Over time, programs get larger and larger.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?u=76281980&t=3)** And although you can compile and run Java programs with the terminal, it's often faster to use an IDE.
+> **[0:03](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?u=76281980&t=3)** And although you can compile and run [[Java]] programs with the terminal, it's often faster to use an IDE.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?u=76281980&t=11)** IDE stands for integrated development environment and an assembly of software that we can use to build and run our Java programs, just like the command line.
 >
@@ -644,7 +634,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?u=76281980&t=151)** This allows us to navigate to different files in our project.
 >
-> **[2:35](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?u=76281980&t=155)** The .idea folder holds metadata about our project, but the main code for our Java program will be in the SRC folder, or the source code folder.
+> **[2:35](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?u=76281980&t=155)** The .idea folder holds [[Metadata]] about our project, but the main code for our Java program will be in the SRC folder, or the source code folder.
 >
 > **[2:46](https://www.linkedin.com/learning/learning-java-11/exploring-an-integrated-development-environment-ide?u=76281980&t=166)** You'll also notice, in the external library section, our JDK is linked.
 >
@@ -664,7 +654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (9), next (4), [[Metadata]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Java]] (9), [[Metadata]] (1)
 > **Env Vars:** ide (8), jdk (3), gui (1), sdk (1), src (1)
 > **Tools:** intellij (3), command line (2), terminal (1)
 > **Cross-References:** in the next (2)
@@ -673,12 +663,11 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Exercise Files:** source code (1)
 
-#### Hello World in an IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/hello-world-in-an-ide?u=76281980)
+#### [Hello World in an IDE](https://www.linkedin.com/learning/learning-java-11/hello-world-in-an-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/hello-world-in-an-ide?u=76281980&t=0)** - [Instructor] Let's create our first Java File in the IntelliJ IDE.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/hello-world-in-an-ide?u=76281980&t=0)** - [Instructor] Let's create our first [[Java]] File in the IntelliJ IDE.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-java-11/hello-world-in-an-ide?u=76281980&t=5)** We'll left-click the SRC, or Source Code Folder, hover over New and click Java Class.
 >
@@ -700,7 +689,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-java-11/hello-world-in-an-ide?u=76281980&t=53)** Every Java program must have a Main function, so the IDE has shortcuts that make some of that boilerplate code easier and faster to write.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-java-11/hello-world-in-an-ide?u=76281980&t=63)** This shortcut, where we type in a word and the IDE completes it for us, is called code completion and this is one of the benefits to using an IDE.
+> **[1:03](https://www.linkedin.com/learning/learning-java-11/hello-world-in-an-ide?u=76281980&t=63)** This shortcut, where we type in a [[Microsoft Word|word]] and the IDE completes it for us, is called code completion and this is one of the benefits to using an IDE.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-java-11/hello-world-in-an-ide?u=76281980&t=74)** In this Main function, we'll output something to the user, just like we did before with Sublime and the command line.
 >
@@ -756,7 +745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ide (13), src (1)
 > **Tools:** intellij (4), sublime (3), command line (1)
 > **CLI Commands:** make (3)
@@ -770,8 +759,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Primitive data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/primitive-data-types?u=76281980)
+#### [Primitive data types](https://www.linkedin.com/learning/learning-java-11/primitive-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -783,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-java-11/primitive-data-types?u=76281980&t=20)** These can all be considered pieces of data, and we represent pieces of data in code using data types.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-java-11/primitive-data-types?u=76281980&t=29)** Similar to other programming languages, Java classifies different pieces of data with data types based on their value.
+> **[0:29](https://www.linkedin.com/learning/learning-java-11/primitive-data-types?u=76281980&t=29)** Similar to other programming languages, [[Java]] classifies different pieces of data with data types based on their value.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-java-11/primitive-data-types?u=76281980&t=37)** For example, there's a data type for letters and symbols, and there are various data types for numbers.
 >
@@ -829,19 +817,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Java]] (7), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Java]] (7)
 > **Definitions:** is called (2), short for (2), is a  (1)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** gpa (1)
 > **Versions:** 3.4 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data types and variables in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/data-types-and-variables-in-java?u=76281980)
+#### [Data types and variables in Java](https://www.linkedin.com/learning/learning-java-11/data-types-and-variables-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/data-types-and-variables-in-java?u=76281980&t=0)** - [Narrator] Let's create some data in Java.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/data-types-and-variables-in-java?u=76281980&t=0)** - [Narrator] Let's create some data in [[Java]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-java-11/data-types-and-variables-in-java?u=76281980&t=3)** In this lesson, we'll be creating a few pieces of data that could represent attributes of a given high school student.
 >
@@ -929,7 +916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Java]] (8), next (2), hit (1)
+> **Frameworks & Libraries:** [[Java]] (8)
 > **Code Identifiers:** studentgpa (2), studentfirstinitial (2), studentlastinitial (1), hasperfectattendence (1), studentage (1)
 > **Versions:** 3.45 (3), 3.4 (1), 2.7 (1), 4.0 (1)
 > **Env Vars:** gpa (5)
@@ -938,8 +925,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Strings in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980)
+#### [Strings in Java](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,13 +935,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=10)** These are great for storing a whole number, true/false values, a single letter or symbol, but what if you wanted to store and reference some text, something that requires more than just a single character?
 >
-> **[0:23](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=23)** In this lesson, we'll be looking at the second overarching category of Java data types called reference types.
+> **[0:23](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=23)** In this lesson, we'll be looking at the second overarching category of [[Java]] data types called reference types.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=30)** And our first reference type is called a string.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=33)** A string is a sequence of ordered characters.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=37)** Before, we could represent a single character with a char, but now we can represent a word or a person's name with the string data type.
+> **[0:37](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=37)** Before, we could represent a single character with a char, but now we can represent a [[Microsoft Word|word]] or a person's name with the string data type.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=46)** To create a string, we surrounded the series of characters with quotation marks.
 >
@@ -977,7 +963,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=98)** It is created out of organizing char data pieces in a significant way.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=103)** The deeper meaning behind reference types is out of the scope of this course, but I highly recommend you check out [[Programming Foundations- Data Structures]] to find out more.
+> **[1:43](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=103)** The deeper meaning behind reference types is out of the scope of this course, but I highly recommend you check out [[[[Programming Foundations]]- [[Data Structures]]]] to find out more.
 >
 > **[1:56](https://www.linkedin.com/learning/learning-java-11/strings-in-java?u=76281980&t=116)** Now that we know about strings, let's create a string in Java.
 >
@@ -1013,14 +999,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Java]] (2), [[Microsoft Word|Word]] (1), [[Programming Foundations]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (1), [[Programming Foundations]] (1), [[Data Structures]] (1)
 > **Code Identifiers:** studentname (6), studentfirstname (3), studentlastname (2)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using indexes with strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/using-indexes-with-strings?u=76281980)
+#### [Using indexes with strings](https://www.linkedin.com/learning/learning-java-11/using-indexes-with-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1086,15 +1071,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Code Identifiers:** charat (8), studentfirstinitial (4), studentfirstname (3), studentlastinitial (1), studentlastname (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Concatenating strings in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/concatenating-strings-in-java?u=76281980)
+#### [Concatenating strings in Java](https://www.linkedin.com/learning/learning-java-11/concatenating-strings-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,14 +1111,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** gpa (8)
 > **Code Identifiers:** studentlastname (2), studentfirstname (1), studentgpa (1)
 > **Versions:** 3.45 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Input and output in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/input-and-output-in-java?u=76281980)
+#### [Input and output in Java](https://www.linkedin.com/learning/learning-java-11/input-and-output-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,7 +1150,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-java-11/input-and-output-in-java?u=76281980&t=98)** The data type here is Scanner.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-java-11/input-and-output-in-java?u=76281980&t=102)** There are lots of data types in Java, but for now you can think of the Scanner as a tool that has operations that allow us to get input.
+> **[1:42](https://www.linkedin.com/learning/learning-java-11/input-and-output-in-java?u=76281980&t=102)** There are lots of data types in [[Java]], but for now you can think of the Scanner as a tool that has operations that allow us to get input.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-java-11/input-and-output-in-java?u=76281980&t=111)** In order to use those operations, we have to create a Scanner first.
 >
@@ -1219,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Java]] (5), next (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (5)
 > **Env Vars:** gpa (15)
 > **Versions:** 3.45 (2), 4.0 (2), 2.75 (1)
 > **Code Identifiers:** nextdouble (2)
@@ -1228,8 +1209,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Exercise Files:** source code (1)
 
-#### Solution: Find last character
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/solution-find-last-character?u=76281980)
+#### [Solution: Find last character](https://www.linkedin.com/learning/learning-java-11/solution-find-last-character?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1282,16 +1262,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mapping out program control flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980)
+#### [Mapping out program control flow](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980&t=0)** - [Instructor] In the last chapter, we've looked at how we can represent data in Java using data types and variables, as well as how to input and output data.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980&t=0)** - [Instructor] In the last chapter, we've looked at how we can represent data in [[Java]] using data types and variables, as well as how to input and output data.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980&t=9)** In this chapter, we are going to add some decision-making logic, that will allow our programs to have different outcomes.
+> **[0:09](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980&t=9)** In this chapter, we are going to add some [[Decision-Making]] logic, that will allow our programs to have different outcomes.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980&t=17)** We saw this a little bit in the last lesson, when we printed out whatever the user inputted, but we can create more sophisticated control flow, using conditions.
+> **[0:17](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980&t=17)** We saw this a little bit in the last lesson, when we printed out whatever the user inputted, but we can create more sophisticated [[Control Flow]], using conditions.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980&t=28)** Let's break this down.
 >
@@ -1369,7 +1348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Control Flow]] (8), [[Java]] (4), data (3), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Control Flow]] (8), [[Java]] (4), [[Decision-Making]] (1)
 > **Code Identifiers:** inputtednum (4)
 > **Cross-References:** in the last (2)
 > **CLI Commands:** make (1)
@@ -1377,12 +1356,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operators in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/operators-in-java?u=76281980)
+#### [Operators in Java](https://www.linkedin.com/learning/learning-java-11/operators-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/operators-in-java?u=76281980&t=0)** - [Instructor] Thinking back to the decision block in our control flow, we have three main components.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/operators-in-java?u=76281980&t=0)** - [Instructor] Thinking back to the decision block in our [[Control Flow]], we have three main components.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-java-11/operators-in-java?u=76281980&t=6)** We have a condition, the code that gets run if the condition is true, and the code that gets run if the condition is false.
 >
@@ -1430,7 +1408,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-java-11/operators-in-java?u=76281980&t=130)** That's what makes it a condition that can be evaluated during the program's execution and manipulate a program's control flow.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-java-11/operators-in-java?u=76281980&t=138)** Now that we have an idea of how decision-making works in our programs, let's try implementing the fortune teller logic in Java.
+> **[2:18](https://www.linkedin.com/learning/learning-java-11/operators-in-java?u=76281980&t=138)** Now that we have an idea of how [[Decision-Making]] works in our programs, let's try implementing the fortune teller logic in [[Java]].
 
 > [!info]- Semantic Content
 >
@@ -1440,8 +1418,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decision-making with if in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/decision-making-with-if-in-java?u=76281980)
+#### [Decision-making with if in Java](https://www.linkedin.com/learning/learning-java-11/decision-making-with-if-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1467,7 +1444,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-java-11/decision-making-with-if-in-java?u=76281980&t=45)** If the inputtedNum is equal to or greater than five, the program should print out the shoe selection fortune.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-java-11/decision-making-with-if-in-java?u=76281980&t=53)** Before, we were just using blocks but this is a specific type of control flow statement that starts with an if so we call it an if statement.
+> **[0:53](https://www.linkedin.com/learning/learning-java-11/decision-making-with-if-in-java?u=76281980&t=53)** Before, we were just using blocks but this is a specific type of [[Control Flow]] statement that starts with an if so we call it an if statement.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-java-11/decision-making-with-if-in-java?u=76281980&t=63)** An if statement is a control flow statement, where if the condition is true, it performs some kind of action.
 >
@@ -1531,7 +1508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Control Flow]] (2)
+> **Frameworks & Libraries:** [[Control Flow]] (2)
 > **Code Identifiers:** inputtednum (9), nextint (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -1539,8 +1516,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding scope in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/understanding-scope-in-java?u=76281980)
+#### [Understanding scope in Java](https://www.linkedin.com/learning/learning-java-11/understanding-scope-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,7 +1526,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-java-11/understanding-scope-in-java?u=76281980&t=11)** Scope refers to the region of the program where a piece of code is accessible or in which it can be used.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-java-11/understanding-scope-in-java?u=76281980&t=19)** Every time we use curly braces in Java, we are creating a block in the program.
+> **[0:19](https://www.linkedin.com/learning/learning-java-11/understanding-scope-in-java?u=76281980&t=19)** Every time we use curly braces in [[Java]], we are creating a block in the program.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-java-11/understanding-scope-in-java?u=76281980&t=24)** This is why the if block and the else block are separate.
 >
@@ -1574,7 +1550,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-java-11/understanding-scope-in-java?u=76281980&t=87)** The favoriteFood scope, or where favoriteFood can be accessed, is anywhere within the curly braces it was created in.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-java-11/understanding-scope-in-java?u=76281980&t=95)** Let's take a look at some other types of control flow statements.
+> **[1:35](https://www.linkedin.com/learning/learning-java-11/understanding-scope-in-java?u=76281980&t=95)** Let's take a look at some other types of [[Control Flow]] statements.
 
 > [!info]- Semantic Content
 >
@@ -1583,8 +1559,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### While loops (conceptually)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/while-loops-conceptually?u=76281980)
+#### [While loops (conceptually)](https://www.linkedin.com/learning/learning-java-11/while-loops-conceptually?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1594,7 +1569,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-java-11/while-loops-conceptually?u=76281980&t=7)** A loop is similar to an if statement, except that it allows code to be executed repeatedly, based on a Boolean condition, instead of just one time.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-java-11/while-loops-conceptually?u=76281980&t=17)** There are several different types of loops in Java, but the one we'll be focusing on in this course is the while loop.
+> **[0:17](https://www.linkedin.com/learning/learning-java-11/while-loops-conceptually?u=76281980&t=17)** There are several different types of loops in [[Java]], but the one we'll be focusing on in this course is the while loop.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-java-11/while-loops-conceptually?u=76281980&t=25)** A while loop looks like this.
 >
@@ -1602,7 +1577,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-java-11/while-loops-conceptually?u=76281980&t=31)** If that condition evaluates to true, we execute a series of statements, and then check the condition again.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-java-11/while-loops-conceptually?u=76281980&t=38)** If that condition is false, we exit the loop, and continue to the rest of the code.
+> **[0:38](https://www.linkedin.com/learning/learning-java-11/while-loops-conceptually?u=76281980&t=38)** If that condition is false, we exit the loop, and continue to the [[Representational State Transfer (REST)|rest]] of the code.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-java-11/while-loops-conceptually?u=76281980&t=44)** On your smartphone, you've probably listened to music, and if you find a song you like, you put it on repeat.
 >
@@ -1632,17 +1607,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### While loops in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/while-loops-in-java?u=76281980)
+#### [While loops in Java](https://www.linkedin.com/learning/learning-java-11/while-loops-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/while-loops-in-java?u=76281980&t=0)** - [Instructor] Let's create a while loop in Java.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/while-loops-in-java?u=76281980&t=0)** - [Instructor] Let's create a while loop in [[Java]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-java-11/while-loops-in-java?u=76281980&t=3)** In the previous lesson, we diagrammed a while loop to represent a song playing on repeat.
 >
@@ -1724,15 +1698,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (11), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** isonrepeat (8), userinput (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Leap year checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/solution-leap-year-checker?u=76281980)
+#### [Solution: Leap year checker](https://www.linkedin.com/learning/learning-java-11/solution-leap-year-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1807,8 +1780,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debugging syntax and logical errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/debugging-syntax-and-logical-errors?u=76281980)
+#### [Debugging syntax and logical errors](https://www.linkedin.com/learning/learning-java-11/debugging-syntax-and-logical-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1948,7 +1920,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1)
 > **Code Identifiers:** correctanswer (8), choicethree (3), choicetwo (2)
 > **CLI Commands:** find (5), make (2)
 > **UI Navigation:** scroll up (2), click on (1), scroll down (1), go to (1)
@@ -1957,14 +1928,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Debugging with an IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/debugging-with-an-ide?u=76281980)
+#### [Debugging with an IDE](https://www.linkedin.com/learning/learning-java-11/debugging-with-an-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-java-11/debugging-with-an-ide?u=76281980&t=0)** [Narrator] - Adding print statements for debugging and removing them later on can get a little annoying, but there is another way that we can debug our programs.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-java-11/debugging-with-an-ide?u=76281980&t=10)** At the beginning of the course, we installed an IDE to compile and run our Java programs, but there is another benefit to using an IDE.
+> **[0:10](https://www.linkedin.com/learning/learning-java-11/debugging-with-an-ide?u=76281980&t=10)** At the beginning of the course, we installed an IDE to compile and run our [[Java]] programs, but there is another benefit to using an IDE.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-java-11/debugging-with-an-ide?u=76281980&t=20)** An IDE comes built in with some debugging tools that we can use to find and solve errors in our programs.
 >
@@ -2034,14 +2004,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (4), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** ide (4)
 > **Definitions:** is a  (2), is an  (1), refers to (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** we covered (1)
 
-#### Solution: Find the bug in string truncation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/solution-find-the-bug-in-string-truncation?u=76281980)
+#### [Solution: Find the bug in string truncation](https://www.linkedin.com/learning/learning-java-11/solution-find-the-bug-in-string-truncation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2118,8 +2087,7 @@ created: 2026-05-02
 > **Env Vars:** thi (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Find the bug in string reversal
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/solution-find-the-bug-in-string-reversal?u=76281980)
+#### [Solution: Find the bug in string reversal](https://www.linkedin.com/learning/learning-java-11/solution-find-the-bug-in-string-reversal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2141,7 +2109,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-java-11/solution-find-the-bug-in-string-reversal?u=76281980&t=46)** Let's walk through how this code would work with a given data sample.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-java-11/solution-find-the-bug-in-string-reversal?u=76281980&t=52)** Let's say our word was note.
+> **[0:52](https://www.linkedin.com/learning/learning-java-11/solution-find-the-bug-in-string-reversal?u=76281980&t=52)** Let's say our [[Microsoft Word|word]] was note.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-java-11/solution-find-the-bug-in-string-reversal?u=76281980&t=55)** Walking through the implementation, I would start off at three, because the length of the string is four, and we subtract one.
 >
@@ -2171,7 +2139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Non-Speech:** (silence) (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2181,22 +2149,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are functions? (conceptually)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980)
+#### [What are functions? (conceptually)](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=0)** - [Instructor] So far, we've created code that has run sequentially, one line after the other.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=6)** We have also written code that manipulates the program's control flow with if statements and loops.
+> **[0:06](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=6)** We have also written code that manipulates the program's [[Control Flow]] with if statements and loops.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=13)** The way we have written code so far has more to do with the way that it's executed, rather than the way it's designed.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=20)** In the next two chapters, we'll be focusing more on program design, and how we can create programs that are readable, and easily understood by other software developers.
+> **[0:20](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=20)** In the next two chapters, we'll be focusing more on [[Program Design]], and how we can create programs that are readable, and easily understood by other software developers.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=31)** In this chapter, we'll be looking at functions.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=34)** In software development, a function is just a series of finite steps that accomplish some task.
+> **[0:34](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=34)** In [[Software Development]], a function is just a series of finite steps that accomplish some task.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=41)** Let's say we have the task of creating a peanut butter and jelly sandwich.
 >
@@ -2264,13 +2231,13 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=255)** Ultimately, functions make it easier to change what our code is doing.
 >
-> **[4:20](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=260)** Next, we'll create and use our first function in Java.
+> **[4:20](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=260)** Next, we'll create and use our first function in [[Java]].
 >
 > **[4:23](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980&t=263)** Stay tuned!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Control Flow]] (1), [[Program Design]] (1), [[Software Development]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Program Design]] (1), [[Software Development]] (1), [[Java]] (1)
 > **CLI Commands:** make (9)
 > **Code Identifiers:** announcedeveloperteatime (3), makepbandjsandwich (2)
 > **Analogies:** for example (2)
@@ -2279,12 +2246,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining functions in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/defining-functions-in-java?u=76281980)
+#### [Defining functions in Java](https://www.linkedin.com/learning/learning-java-11/defining-functions-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/defining-functions-in-java?u=76281980&t=0)** - To use a function in Java, we must first define the function.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/defining-functions-in-java?u=76281980&t=0)** - To use a function in [[Java]], we must first define the function.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-java-11/defining-functions-in-java?u=76281980&t=5)** We've already seen this a little bit with the functions we mapped out in the last lesson.
 >
@@ -2330,7 +2296,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-java-11/defining-functions-in-java?u=76281980&t=128)** So we'll write, System.out.println ("waiting for developer tea time...").
 >
-> **[2:15](https://www.linkedin.com/learning/learning-java-11/defining-functions-in-java?u=76281980&t=135)** To keep this as simple as possible, we are going to make our program pause until the user types a random word and presses Enter on their keyboard.
+> **[2:15](https://www.linkedin.com/learning/learning-java-11/defining-functions-in-java?u=76281980&t=135)** To keep this as simple as possible, we are going to make our program pause until the user types a random [[Microsoft Word|word]] and presses Enter on their keyboard.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-java-11/defining-functions-in-java?u=76281980&t=145)** There are other ways we could implement this waiting for developer tea time step, But this is the most straight forward with what we know so far.
 >
@@ -2354,18 +2320,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Java]] (2)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** announcedeveloperteatime (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - to (1)
 
-#### Calling functions in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980)
+#### [Calling functions in Java](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=0)** - [Instructor] Now that we've defined our announceDeveloperTeaTime function we can proceed to the second step of using functions in Java.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=0)** - [Instructor] Now that we've defined our announceDeveloperTeaTime function we can proceed to the second step of using functions in [[Java]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=8)** We just write the name of the function to use or execute the steps within the function.
 >
@@ -2417,13 +2382,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=146)** On the next line we access this variable and use .next to retrieve input.
 >
-> **[2:33](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=153)** Let's hit continue and let the rest of the program play out.
+> **[2:33](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=153)** Let's hit continue and let the [[Representational State Transfer (REST)|rest]] of the program play out.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=156)** We'll need to enter a random word, we'll type in random, we see It's Developer Tea Time!
+> **[2:36](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=156)** We'll need to enter a random [[Microsoft Word|word]], we'll type in random, we see It's Developer Tea Time!
 >
 > **[2:42](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=162)** as expected in the console.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=165)** Let's add some more code to this main function to make sure that we understand its control flow.
+> **[2:45](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=165)** Let's add some more code to this main function to make sure that we understand its [[Control Flow]].
 >
 > **[3:07](https://www.linkedin.com/learning/learning-java-11/calling-functions-in-java?u=76281980&t=187)** Let's add a breakpoint every time we call announceDeveloperTeaTime.
 >
@@ -2475,15 +2440,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), next (5), [[Java]] (3), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Control Flow]] (1)
 > **Code Identifiers:** announcedeveloperteatime (11)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parameters in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/parameters-in-java?u=76281980)
+#### [Parameters in Java](https://www.linkedin.com/learning/learning-java-11/parameters-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2527,7 +2491,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-java-11/parameters-in-java?u=76281980&t=106)** But the values of these inputs will be assigned when we use the function or call the function.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-java-11/parameters-in-java?u=76281980&t=112)** Let's try implementing this in Java.
+> **[1:52](https://www.linkedin.com/learning/learning-java-11/parameters-in-java?u=76281980&t=112)** Let's try implementing this in [[Java]].
 >
 > **[1:55](https://www.linkedin.com/learning/learning-java-11/parameters-in-java?u=76281980&t=115)** Our function starts off with public static void and uses the function name calculateTotalMealPrice.
 >
@@ -2609,7 +2573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** calculatetotalmealprice (6), announcedeveloperteatime (3), listedmealprice (3)
 > **Versions:** 19.2 (1), 31.5 (1)
 > **CLI Commands:** make (1)
@@ -2617,8 +2581,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return types in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/return-types-in-java?u=76281980)
+#### [Return types in Java](https://www.linkedin.com/learning/learning-java-11/return-types-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2652,7 +2615,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/learning-java-11/return-types-in-java?u=76281980&t=111)** Void is actually the return type.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-java-11/return-types-in-java?u=76281980&t=113)** Every function in Java returns some value or nothing, and every function we've created so far has returned void, or nothing.
+> **[1:53](https://www.linkedin.com/learning/learning-java-11/return-types-in-java?u=76281980&t=113)** Every function in [[Java]] returns some value or nothing, and every function we've created so far has returned void, or nothing.
 >
 > **[2:03](https://www.linkedin.com/learning/learning-java-11/return-types-in-java?u=76281980&t=123)** For the calculateTotalMealPrice function, we want to return the value of the result variable.
 >
@@ -2728,7 +2691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Java]] (3), hit (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Code Identifiers:** calculatetotalmealprice (5), grouptotalmealprice (4), listedmealprice (2), tiprate (2), taxrate (2)
 > **Versions:** 0.2 (2), 0.08 (2), 25.6 (1)
 > **CLI Commands:** make (4)
@@ -2737,8 +2700,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), just like (1)
 > **UI Navigation:** go to (1)
 
-#### Using built-in functions in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/using-built-in-functions-in-java?u=76281980)
+#### [Using built-in functions in Java](https://www.linkedin.com/learning/learning-java-11/using-built-in-functions-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2746,7 +2708,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-java-11/using-built-in-functions-in-java?u=76281980&t=4)** We've defined various functions, added parameters, added return types, and then called them in our main function.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-java-11/using-built-in-functions-in-java?u=76281980&t=12)** These functions are called user-defined functions because we, as users of Java and software developers, are creating them.
+> **[0:12](https://www.linkedin.com/learning/learning-java-11/using-built-in-functions-in-java?u=76281980&t=12)** These functions are called user-defined functions because we, as users of [[Java]] and software developers, are creating them.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-java-11/using-built-in-functions-in-java?u=76281980&t=21)** We are defining the finite steps, naming the function appropriately, and then calling it in our code.
 >
@@ -2780,7 +2742,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/learning-java-11/using-built-in-functions-in-java?u=76281980&t=134)** This is a common task and there might be something in Java that already does this.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-java-11/using-built-in-functions-in-java?u=76281980&t=139)** So you'll Google around and try to find some examples of a built-in function that already does exponentiation or an example of a user-defined function.
+> **[2:19](https://www.linkedin.com/learning/learning-java-11/using-built-in-functions-in-java?u=76281980&t=139)** So you'll [[Google]] around and try to find some examples of a built-in function that already does exponentiation or an example of a user-defined function.
 >
 > **[2:29](https://www.linkedin.com/learning/learning-java-11/using-built-in-functions-in-java?u=76281980&t=149)** Let's try doing that now.
 >
@@ -2830,15 +2792,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), power (4), next (2), data (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Google]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Move capital letters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/solution-move-capital-letters?u=76281980)
+#### [Solution: Move capital letters](https://www.linkedin.com/learning/learning-java-11/solution-move-capital-letters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2886,7 +2847,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** capitalindex (2), charat (1), isuppercase (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2897,12 +2857,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classes in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/classes-in-java?u=76281980)
+#### [Classes in Java](https://www.linkedin.com/learning/learning-java-11/classes-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/classes-in-java?u=76281980&t=0)** - [Narrator] In this chapter, we will continue to talk about program design and about how we can make our programs readable to other software developers.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/classes-in-java?u=76281980&t=0)** - [Narrator] In this chapter, we will continue to talk about [[Program Design]] and about how we can make our programs readable to other software developers.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-java-11/classes-in-java?u=76281980&t=10)** As you enter the workforce, there are often several software developers working on the same program, so it's essential to write code in a way that's easy to read and understand.
 >
@@ -2988,15 +2947,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Program Design]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Program Design]] (1)
 > **Code Identifiers:** findarea (3), calculatetriangletype (2)
 > **Definitions:** is a  (3), defined as (1), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Constructors in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/constructors-in-java?u=76281980)
+#### [Constructors in Java](https://www.linkedin.com/learning/learning-java-11/constructors-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3044,7 +3002,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-java-11/constructors-in-java?u=76281980&t=140)** For the return type, the constructor always returns an instance of the class, in this case an instance of triangle.
 >
-> **[2:27](https://www.linkedin.com/learning/learning-java-11/constructors-in-java?u=76281980&t=147)** We don't have to state it in the definition of the method because it's already built into Java to expect that behavior.
+> **[2:27](https://www.linkedin.com/learning/learning-java-11/constructors-in-java?u=76281980&t=147)** We don't have to state it in the definition of the method because it's already built into [[Java]] to expect that behavior.
 >
 > **[2:35](https://www.linkedin.com/learning/learning-java-11/constructors-in-java?u=76281980&t=155)** In the implementation, we won't be using the return keyword either because no matter what we do in the constructor, it will always return an instance of the class, in this case Triangle.
 >
@@ -3070,7 +3028,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/learning-java-11/constructors-in-java?u=76281980&t=236)** The this keyword helps our program make a distinction between the attribute variable and the parameter variable.
 >
-> **[4:03](https://www.linkedin.com/learning/learning-java-11/constructors-in-java?u=76281980&t=243)** We use the word this because we are talking about an attribute of the triangle we are constructing rather than the parameter variable.
+> **[4:03](https://www.linkedin.com/learning/learning-java-11/constructors-in-java?u=76281980&t=243)** We use the [[Microsoft Word|word]] this because we are talking about an attribute of the triangle we are constructing rather than the parameter variable.
 >
 > **[4:13](https://www.linkedin.com/learning/learning-java-11/constructors-in-java?u=76281980&t=253)** When we use the dot operator on the keyword this we can access the to-be-created instance's attribute variables.
 >
@@ -3118,7 +3076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Java]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** trianglea (4), triangleb (3)
 > **Definitions:** is an  (1), we call this (1), is called (1)
 > **Analogies:** just like (3)
@@ -3127,12 +3085,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Best Practices:** remember to (1)
 
-#### Creating a class in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/creating-a-class-in-java?u=76281980)
+#### [Creating a class in Java](https://www.linkedin.com/learning/learning-java-11/creating-a-class-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/creating-a-class-in-java?u=76281980&t=0)** - [Instructor] With an understanding of classes, instances and the constructor, we can begin to write Java Code that helps us represent a triangle in a program.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/creating-a-class-in-java?u=76281980&t=0)** - [Instructor] With an understanding of classes, instances and the constructor, we can begin to write [[Java]] Code that helps us represent a triangle in a program.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-java-11/creating-a-class-in-java?u=76281980&t=10)** First, we need to write code that defines our triangle blueprint.
 >
@@ -3202,13 +3159,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), next (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Cross-References:** we discussed (1), in the last (1), we talked about (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating instances in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/creating-instances-in-java?u=76281980)
+#### [Creating instances in Java](https://www.linkedin.com/learning/learning-java-11/creating-instances-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3302,7 +3258,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), next (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** ide (1)
 > **Versions:** 2.598 (1)
@@ -3310,8 +3265,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Prerequisites:** initialization (1)
 
-#### Instance methods vs. class methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/instance-methods-vs-class-methods?u=76281980)
+#### [Instance methods vs. class methods](https://www.linkedin.com/learning/learning-java-11/instance-methods-vs-class-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3363,7 +3317,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/learning-java-11/instance-methods-vs-class-methods?u=76281980&t=155)** Because we used the dot operator on an instance and not the class name, .charAt() is an instance method, and not a class method.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-java-11/instance-methods-vs-class-methods?u=76281980&t=164)** Understanding the difference between instance methods and class methods is very important as you continue to learn Java.
+> **[2:44](https://www.linkedin.com/learning/learning-java-11/instance-methods-vs-class-methods?u=76281980&t=164)** Understanding the difference between instance methods and class methods is very important as you continue to learn [[Java]].
 
 > [!info]- Semantic Content
 >
@@ -3374,8 +3328,7 @@ created: 2026-05-02
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using instance methods in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/using-instance-methods-in-java?u=76281980)
+#### [Using instance methods in Java](https://www.linkedin.com/learning/learning-java-11/using-instance-methods-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3421,14 +3374,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **Code Identifiers:** trianglea (10), findarea (10), triangleb (7), trianglebarea (3)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 3.897 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Instance and class variables in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/instance-and-class-variables-in-java?u=76281980)
+#### [Instance and class variables in Java](https://www.linkedin.com/learning/learning-java-11/instance-and-class-variables-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3472,7 +3423,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-java-11/instance-and-class-variables-in-java?u=76281980&t=100)** The base of the triangle, the height of the triangle, they do not stay static or the same between triangle instances.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-java-11/instance-and-class-variables-in-java?u=76281980&t=107)** The values of base, height, and the rest of our instance variables change depending on the triangle.
+> **[1:47](https://www.linkedin.com/learning/learning-java-11/instance-and-class-variables-in-java?u=76281980&t=107)** The values of base, height, and the [[Representational State Transfer (REST)|rest]] of our instance variables change depending on the triangle.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-java-11/instance-and-class-variables-in-java?u=76281980&t=114)** A static variable is something that will not change per instance.
 >
@@ -3522,20 +3473,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** findarea (1), println (1), sidelenthree (1), triangleb (1)
 > **Analogies:** just like (1), for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review: Classes vs. instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/review-classes-vs-instances?u=76281980)
+#### [Review: Classes vs. instances](https://www.linkedin.com/learning/learning-java-11/review-classes-vs-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-java-11/review-classes-vs-instances?u=76281980&t=0)** - [Narrator] So what are the big takeaways from this chapter?
 >
-> **[0:04](https://www.linkedin.com/learning/learning-java-11/review-classes-vs-instances?u=76281980&t=4)** First, in Java, we can create classes to organize our code.
+> **[0:04](https://www.linkedin.com/learning/learning-java-11/review-classes-vs-instances?u=76281980&t=4)** First, in [[Java]], we can create classes to organize our code.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-java-11/review-classes-vs-instances?u=76281980&t=9)** In our previous example, we used a triangle class to organize data related to a triangle as well as how we can calculate things from triangle data.
 >
@@ -3561,23 +3511,22 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-java-11/review-classes-vs-instances?u=76281980&t=90)** To use static class variables and methods, we do not need to create an instance, we can just use the class name.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-java-11/review-classes-vs-instances?u=76281980&t=98)** This new vocabulary can sometimes be overwhelming, but when you are debugging, Google searching, and trying to figure out how to fix your code, these words often come up.
+> **[1:38](https://www.linkedin.com/learning/learning-java-11/review-classes-vs-instances?u=76281980&t=98)** This new vocabulary can sometimes be overwhelming, but when you are debugging, [[Google]] searching, and trying to figure out how to fix your code, these words often come up.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-java-11/review-classes-vs-instances?u=76281980&t=109)** Understanding these concepts is a big hurdle in Java, and once you get it, everything starts to make more sense.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), data (2), [[Debugging]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Google]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Bank account balance
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/solution-bank-account-balance?u=76281980)
+#### [Solution: Bank account balance](https://www.linkedin.com/learning/learning-java-11/solution-bank-account-balance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/solution-bank-account-balance?u=76281980&t=0)** - [Instructor] Let's implement a Java class to represent a bank account.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/solution-bank-account-balance?u=76281980&t=0)** - [Instructor] Let's implement a [[Java]] class to represent a bank account.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-java-11/solution-bank-account-balance?u=76281980&t=4)** This class has three different methods, withdraw, deposit, and get balance.
 >
@@ -3620,12 +3569,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating Java documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/navigating-java-documentation?u=76281980)
+#### [Navigating Java documentation](https://www.linkedin.com/learning/learning-java-11/navigating-java-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-java-11/navigating-java-documentation?u=76281980&t=0)** - [Instructor] Java's official documentation is a comprehensive resource for every Java developer, but it can be daunting to newcomers.
+> **[0:00](https://www.linkedin.com/learning/learning-java-11/navigating-java-documentation?u=76281980&t=0)** - [Instructor] [[Java]]'s official documentation is a comprehensive resource for every Java developer, but it can be daunting to newcomers.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-java-11/navigating-java-documentation?u=76281980&t=9)** It's provided by Oracle, the company behind Java, and it serves as a reference manual for the Java programming language.
 >
@@ -3691,7 +3639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (10), data (2), [[Search]] (2), [[Programming]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (10)
 > **Definitions:** is a  (3)
 > **Cross-References:** earlier in (1), go back to (1)
 > **Analogies:** for example (2)
@@ -3699,8 +3647,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps for learning Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980)
+#### [Next steps for learning Java](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3708,17 +3655,17 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=1)** You finished the course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=3)** From creating your very first Java program, to understanding the fundamentals of classes and instances, you've learned a lot.
+> **[0:03](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=3)** From creating your very first [[Java]] program, to understanding the fundamentals of classes and instances, you've learned a lot.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=11)** From here you can use some of your Java foundations to build your own Java programs.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=17)** Whether it's a word counting program or a card game, practice makes perfect when you're learning a new programming language.
+> **[0:17](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=17)** Whether it's a [[Microsoft Word|word]] counting program or a card game, practice makes perfect when you're learning a new programming language.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=25)** If you want to dive deeper into Java, check out Java Essential Training.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=30)** Or the Java Code Clinic series here on LinkedIn Learning.
+> **[0:30](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=30)** Or the Java Code Clinic series here on [[LinkedIn]] Learning.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=34)** If you want to build advanced programs that store more complicated data, check out my course, [[Programming Foundations- Data Structures]].
+> **[0:34](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=34)** If you want to build advanced programs that store more complicated data, check out my course, [[[[Programming Foundations]]- [[Data Structures]]]].
 >
 > **[0:43](https://www.linkedin.com/learning/learning-java-11/next-steps-for-learning-java?u=76281980&t=43)** Good luck.
 >
@@ -3726,7 +3673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), data (2), [[Microsoft Word|Word]] (1), game (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1), [[Programming Foundations]] (1), [[Data Structures]] (1)
 > **Speakers:** - [kathryn (1)
 
 

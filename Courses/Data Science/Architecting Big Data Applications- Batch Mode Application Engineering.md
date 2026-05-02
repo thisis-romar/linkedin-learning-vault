@@ -101,14 +101,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Architecting big data applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecting-big-data-applications?u=76281980)
+#### [Architecting big data applications](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecting-big-data-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecting-big-data-applications?u=76281980&t=0)** - Architecting and building big data applications has some unique challenges.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecting-big-data-applications?u=76281980&t=0)** - Architecting and building [[Big Data]] applications has some unique challenges.
 >
-> **[0:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecting-big-data-applications?u=76281980&t=6)** In this LinkedIn learning course, we will review these challenges and look at three real-life use cases for batch mode big data applications.
+> **[0:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecting-big-data-applications?u=76281980&t=6)** In this [[LinkedIn]] learning course, we will review these challenges and look at three real-life use cases for batch mode big data applications.
 >
 > **[0:16](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecting-big-data-applications?u=76281980&t=16)** In each use case, we will show you how to analyze a problem, draw an outline architecture, choose technologies, finish the architecture, and review some best practices.
 >
@@ -126,16 +125,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Characteristics of batch processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980)
+#### [Characteristics of batch processing](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980&t=0)** - Let's begin the course by discussing batch processing fundamentals.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980&t=0)** - Let's begin the course by discussing [[Batch Processing]] fundamentals.
 >
 > **[0:05](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980&t=5)** What are the characteristics of batch processing?
 >
-> **[0:08](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980&t=8)** Batch processing in big data involves processing a high volume of data in batches.
+> **[0:08](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980&t=8)** Batch processing in [[Big Data]] involves processing a high volume of data in batches.
 >
 > **[0:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980&t=15)** Batches are scheduled based on the availability of input data and processing results.
 >
@@ -165,21 +163,20 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980&t=90)** When processing failures happen, the typical resolution is to fix the problem and reprocess data once again.
 >
-> **[1:38](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980&t=98)** Batch applications focus on ensuring data integrity.
+> **[1:38](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980&t=98)** Batch applications focus on ensuring [[Data Integrity]].
 >
 > **[1:43](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980&t=103)** This means waiting until all input data is available and validating data and results at each stage in the application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Batch Processing]] (6), application (3), [[Big Data]] (1), business (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (6), [[Big Data]] (1), [[Data Integrity]] (1)
 > **Speakers:** - let (1)
 
-#### Challenges building batch applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980)
+#### [Challenges building batch applications](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980&t=0)** - [Instructor] What are the key challenges in building big data batch applications?
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980&t=0)** - [Instructor] What are the key challenges in building [[Big Data]] batch applications?
 >
 > **[0:05](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980&t=5)** When it comes to batch applications, big data, itself, is a key challenge.
 >
@@ -191,11 +188,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980&t=31)** Enabling concurrency in design is a challenge.
 >
-> **[0:34](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980&t=34)** Data processing may encounter errors and sometimes there could be missing data.
+> **[0:34](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980&t=34)** [[Data Processing]] may encounter errors and sometimes there could be missing data.
 >
 > **[0:40](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980&t=40)** Dealing with these problems at the big data scale is a challenge.
 >
-> **[0:45](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980&t=45)** Data integrity should be ensured throughout the application pipeline so that the results are trustworthy.
+> **[0:45](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980&t=45)** [[Data Integrity]] should be ensured throughout the application pipeline so that the results are trustworthy.
 >
 > **[0:53](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/challenges-building-batch-applications?u=76281980&t=53)** Allocating resources in a way that they are efficiently utilized while minimizing delays is a challenge in managing costs.
 >
@@ -205,34 +202,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Big Data]] (5), concurrent (1), application (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (5), [[Data Processing]] (1), [[Data Integrity]] (1)
 > **Definitions:** is a  (4)
 > **Speakers:** - [instructor] (1)
 
-#### Technologies for batch big data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980)
+#### [Technologies for batch big data engineering](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=0)** - [Instructor] What are the technologies available for building batch applications for big data?
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=0)** - [Instructor] What are the technologies available for building batch applications for [[Big Data]]?
 >
 > **[0:07](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=7)** Fortunately, scalable and robust technologies are available today that do the heavy lifting in big data applications.
 >
 > **[0:16](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=16)** Selecting the right technologies for a given use case, setting them up, and integrating them is the key design challenge for big data architects.
 >
-> **[0:27](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=27)** We begin with data processing technologies available.
+> **[0:27](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=27)** We begin with [[Data Processing]] technologies available.
 >
-> **[0:31](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=31)** Some of the popular ones are Apache Spark, Apache Flink, and Apache Pig.
+> **[0:31](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=31)** Some of the popular ones are [[Apache Spark]], Apache Flink, and Apache Pig.
 >
 > **[0:37](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=37)** There are also cloud native technologies like AWS Batch and Apache Storm that are available.
 >
-> **[0:44](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=44)** These products are generally mature and highly scalable.
+> **[0:44](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=44)** These [[Microsoft Products|products]] are generally mature and highly scalable.
 >
 > **[0:48](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=48)** They provide flexibility in programming, data processing, and deployment.
 >
-> **[0:54](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=54)** Then comes data storage technologies.
+> **[0:54](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=54)** Then comes [[Data Storage]] technologies.
 >
-> **[0:56](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=56)** Several types of storage technologies are available like relational databases, distributed file systems, document databases, columnar databases, graph databases, and distributed caches.
+> **[0:56](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=56)** Several types of storage technologies are available like [[Relational Databases]], distributed file systems, document [[Databases]], columnar databases, graph databases, and distributed caches.
 >
 > **[1:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technologies-for-batch-big-data-engineering?u=76281980&t=70)** Each of these technologies have their own advantages and shortcomings.
 >
@@ -248,20 +244,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Big Data]] (4), [[Databases]] (3), [[Apache Spark]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Databases]] (3), [[Data Processing]] (2), [[Apache Spark]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** apache (4), aws (1)
 > **Env Vars:** aws (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use cases for batch big data
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980)
+#### [Use cases for batch big data](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=0)** - [Instructor] What are some of the popular use cases for batch big data?
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=0)** - [Instructor] What are some of the popular use cases for batch [[Big Data]]?
 >
-> **[0:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=6)** Batch processing for big data has found its way into several business domains and verticals.
+> **[0:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=6)** [[Batch Processing]] for big data has found its way into several business domains and verticals.
 >
 > **[0:13](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=13)** Let's look at some popular use cases.
 >
@@ -279,9 +274,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=72)** Domain-specific analytics involves analyzing transactions in a domain to understand trends and insights.
 >
-> **[1:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=81)** For example, in e-commerce, batch processing can be used to analyze sales transactions and website hits by each product to determine how the product performs across geographies and customer types.
+> **[1:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=81)** For example, in [[E-Commerce]], batch processing can be used to analyze sales transactions and website hits by each product to determine how the product performs across geographies and customer types.
 >
-> **[1:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=96)** Feature engineering is a growing critical component of machine learning pipelines.
+> **[1:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=96)** [[Feature Engineering]] is a growing critical component of machine learning pipelines.
 >
 > **[1:41](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/use-cases-for-batch-big-data?u=76281980&t=101)** Big data pipelines play a critical role in acquiring large quantities of training data, and extracting features for machine learning.
 >
@@ -295,21 +290,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Big Data]] (5), [[Batch Processing]] (3), business (2), product (2)
+> **Frameworks & Libraries:** [[Big Data]] (5), [[Batch Processing]] (3), [[E-Commerce]] (1), [[Feature Engineering]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Architecture process for data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980)
+#### [Architecture process for data engineering](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980&t=0)** - [Instructor] What is the process to follow while architecting applications using batch data engineering?
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980&t=0)** - [Instructor] What is the process to follow while architecting applications using batch [[Data Engineering]]?
 >
 > **[0:08](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980&t=8)** Let's begin with the definition of data engineering.
 >
-> **[0:11](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980&t=11)** Data engineering is the methodical process of designing and building big data pipelines that acquire, store, process, and analyze data to derive business outcomes.
+> **[0:11](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980&t=11)** Data engineering is the methodical process of designing and building [[Big Data]] pipelines that acquire, store, process, and analyze data to derive business outcomes.
 >
 > **[0:25](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980&t=25)** Data engineering provides a discipline in the architecture and design process that helps build efficient and effective pipelines.
 >
@@ -339,7 +333,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980&t=103)** Here we look at each function and scale it such that it can handle expected data volumes.
 >
-> **[1:51](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980&t=111)** Finally, we will select the right technologies and products that will fit into the functions within the application.
+> **[1:51](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980&t=111)** Finally, we will select the right technologies and [[Microsoft Products|products]] that will fit into the functions within the application.
 >
 > **[1:58](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecture-process-for-data-engineering?u=76281980&t=118)** We will define selection criteria for the technology, evaluate alternatives, and then score them to make a selection.
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (4), data (3), [[Big Data]] (2), functional (2), next (2)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Big Data]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** select the (1)
@@ -359,14 +353,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making the choice: Real-time vs. batch
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980)
+#### [Making the choice: Real-time vs. batch](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980&t=0)** - Having discussed the basics of batch processing for big data, in the previous chapter, we can now focus on some key architecture principles.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980&t=0)** - Having discussed the basics of [[Batch Processing]] for [[Big Data]], in the previous chapter, we can now focus on some key architecture principles.
 >
-> **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980&t=10)** In this chapter, we will focus on architecture principles that apply to both batch and real-time big data applications.
+> **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980&t=10)** In this chapter, we will focus on architecture principles that apply to both batch and [[Real-Time]] big data applications.
 >
 > **[0:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980&t=20)** We start with making the choice, whether the application should be batch or realtime.
 >
@@ -374,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980&t=35)** A key architecture decision at the beginning of the effort, is to decide if the pipeline is going to be batch or realtime.
 >
-> **[0:43](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980&t=43)** This is a critical decision as it impacts latency, scale, cost, manageability and resiliency of the pipeline.
+> **[0:43](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980&t=43)** This is a critical decision as it impacts latency, scale, cost, manageability and [[Resiliency]] of the pipeline.
 >
 > **[0:53](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980&t=53)** Architects are in general excited about building pipelines as realtime pipelines, as it creates technical challenges for them.
 >
@@ -424,26 +417,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (9), data (4), [[Big Data]] (3), business (2), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (9), [[Big Data]] (3), [[Batch Processing]] (1), [[Resiliency]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - having (1)
 
-#### Horizontal scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980)
+#### [Horizontal scaling](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=0)** - [Instructor] Horizontal scaling is the primary technique that helps to scale a big data application to handle large volumes of data.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=0)** - [Instructor] Horizontal scaling is the primary technique that helps to scale a [[Big Data]] application to handle large volumes of data.
 >
 > **[0:09](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=9)** What is horizontal scaling?
 >
 > **[0:11](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=11)** Horizontal scaling is the process of increasing the capacity of an application by adding additional compute nodes and then distributing input data across these nodes.
 >
-> **[0:22](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=22)** In horizontal scaling, it is expected that adding additional hardware results in an equivalent increase in processing capacity.
+> **[0:22](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=22)** In horizontal scaling, it is expected that adding additional [[Hardware]] results in an equivalent increase in processing capacity.
 >
-> **[0:32](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=32)** This way, an application can scale up and scale down by managing resource allocation without additional software development.
+> **[0:32](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=32)** This way, an application can scale up and scale down by managing resource allocation without additional [[Software Development]].
 >
 > **[0:41](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=41)** For example, if you have a three-node cluster, and then add two nodes to it, it should result in an equivalent capacity increase of around 66%.
 >
@@ -501,29 +493,28 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=217)** Also, caching data sets can also help speed up joins.
 >
-> **[3:41](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=221)** Use databases that allow independent concurrent inserts and updates.
+> **[3:41](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=221)** Use [[Databases]] that allow independent concurrent inserts and updates.
 >
 > **[3:46](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/horizontal-scaling?u=76281980&t=226)** This usually happens if each node works on independent partitions on the database without locks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), node (10), application (4), [[Big Data]] (2), database (2)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Hardware]] (1), [[Software Development]] (1), [[Databases]] (1)
 > **CLI Commands:** node (10)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Distributed processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/distributed-processing?u=76281980)
+#### [Distributed processing](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/distributed-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/distributed-processing?u=76281980&t=0)** - [Instructor] Distributed processing, is another important principle, that helps build scalable big data applications.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/distributed-processing?u=76281980&t=0)** - [Instructor] Distributed processing, is another important principle, that helps build scalable [[Big Data]] applications.
 >
 > **[0:07](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/distributed-processing?u=76281980&t=7)** What is distributed processing?
 >
 > **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/distributed-processing?u=76281980&t=10)** Distributed processing is about dividing a single large task into several subtasks and then distributing them, across multiple processing clusters.
 >
-> **[0:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/distributed-processing?u=76281980&t=20)** This follows the principles of microservices.
+> **[0:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/distributed-processing?u=76281980&t=20)** This follows the principles of [[Microservices]].
 >
 > **[0:24](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/distributed-processing?u=76281980&t=24)** Tasks are split into sub-tasks based on cohesion uncoupling, between the individual job steps.
 >
@@ -553,16 +544,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Big Data]] (3), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (3), [[Microservices]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technology selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980)
+#### [Technology selection](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=0)** - [Instructor] Most big data applications are primarily built using out-of-the-box technologies that provide the required scalability and resiliency.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=0)** - [Instructor] Most [[Big Data]] applications are primarily built using out-of-the-box technologies that provide the required [[Scalability]] and [[Resiliency]].
 >
 > **[0:11](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=11)** Choosing the right technologies for the use case is a set of critical decisions that can make or break the application.
 >
@@ -570,11 +560,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=23)** Several big data technologies have been developed in the past decade or more.
 >
-> **[0:29](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=29)** They are a combination of open source enterprise products and software as a service offerings.
+> **[0:29](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=29)** They are a combination of open source enterprise [[Microsoft Products|products]] and [[SaaS|software as a service]] offerings.
 >
-> **[0:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=36)** Multiple categories of technologies are available including processing engines, NoSQL databases, and message queues.
+> **[0:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=36)** Multiple categories of technologies are available including processing engines, [[NoSQL]] [[Databases]], and message queues.
 >
-> **[0:45](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=45)** Some of the popular technologies are Apache Spark for processing data, Apache Kafka for message queues, MongoDB for NoSQL databases, and Redis for distributed cache.
+> **[0:45](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=45)** Some of the popular technologies are [[Apache Spark]] for processing data, [[Apache Kafka]] for message queues, [[MongoDB]] for NoSQL databases, and [[Redis]] for distributed cache.
 >
 > **[0:58](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-selection?u=76281980&t=58)** Each of these technologies have their own unique advantages and shortcomings.
 >
@@ -642,27 +632,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (4), [[Databases]] (4), application (2), [[NoSQL]] (2), data (2)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Databases]] (4), [[NoSQL]] (2), [[Scalability]] (1), [[Resiliency]] (1)
 > **CLI Commands:** make (2), apache (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technology integrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980)
+#### [Technology integrations](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980&t=0)** - [Instructor] Another key architecture area to focus on is integration between the out-of-the-box technologies.
 >
-> **[0:07](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980&t=7)** A single big data pipeline may use multiple big data technologies.
+> **[0:07](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980&t=7)** A single [[Big Data]] pipeline may use multiple big data technologies.
 >
-> **[0:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980&t=12)** As shown in the example, a pipeline can use an input message queue like Apache Kafka.
+> **[0:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980&t=12)** As shown in the example, a pipeline can use an input message queue like [[Apache Kafka]].
 >
-> **[0:18](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980&t=18)** An Apache Spark Job can read from the Kafka Queue, process data, and write results into the HDFS Data Store.
+> **[0:18](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980&t=18)** An [[Apache Spark]] Job can read from the Kafka Queue, process data, and write results into the HDFS Data Store.
 >
-> **[0:26](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980&t=26)** Each technology may have individual scalability and performance.
+> **[0:26](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980&t=26)** Each technology may have individual [[Scalability]] and performance.
 >
 > **[0:31](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/technology-integrations?u=76281980&t=31)** In this example, each of them, namely Kafka, Spark and HDFS are massively scalable.
 >
@@ -686,7 +675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Big Data]] (2), [[Apache Spark]] (2), [[Apache Kafka]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Apache Spark]] (2), [[Apache Kafka]] (1), [[Scalability]] (1)
 > **CLI Commands:** apache (3), node (1)
 > **Env Vars:** hdfs (4)
 > **Analogies:** for example (2)
@@ -698,16 +687,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Schedule selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980)
+#### [Schedule selection](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980&t=0)** - [Instructor] Having discussed some common architecture principles for big data applications in the earlier chapter, we will now focus on key principles for batch big data applications.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980&t=0)** - [Instructor] Having discussed some common architecture principles for [[Big Data]] applications in the earlier chapter, we will now focus on key principles for batch big data applications.
 >
 > **[0:13](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980&t=13)** We will begin with the key design decision, namely schedule selection.
 >
-> **[0:19](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980&t=19)** Batch processing jobs are scheduled to run periodically, usually based on a scheduler.
+> **[0:19](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980&t=19)** [[Batch Processing]] jobs are scheduled to run periodically, usually based on a scheduler.
 >
 > **[0:25](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980&t=25)** They typically run every hour or every day.
 >
@@ -739,7 +727,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980&t=127)** Providing a buffer to accommodate reprocessing will help reprocess all data without impacting the processing of new records.
 >
-> **[2:16](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980&t=136)** Multiple batch processing jobs can share the same resource pool, like the same Apache Spark cluster, and the same hardware resources.
+> **[2:16](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980&t=136)** Multiple batch processing jobs can share the same resource pool, like the same [[Apache Spark]] cluster, and the same [[Hardware]] resources.
 >
 > **[2:26](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980&t=146)** Jobs can be scheduled in a staggered manner such that the resource pool is continuously used.
 >
@@ -747,24 +735,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Batch Processing]] (3), [[Big Data]] (2), next (1), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (3), [[Big Data]] (2), [[Apache Spark]] (1), [[Hardware]] (1)
 > **CLI Commands:** apache (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Minimizing data volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980)
+#### [Minimizing data volumes](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=0)** - [Presenter] Removing unwanted data from the batch processing pipelines helps in reducing processing costs.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=0)** - [Presenter] Removing unwanted data from the [[Batch Processing]] pipelines helps in reducing processing costs.
 >
-> **[0:07](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=7)** In big data, the more data to be processed, more other resources required for processing.
+> **[0:07](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=7)** In [[Big Data]], the more data to be processed, more other resources required for processing.
 >
 > **[0:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=14)** More just does not mean more records, but also the size of the record.
 >
-> **[0:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=20)** More data processing requires more of the resources including CPU, memory, network, and bandwidth.
+> **[0:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=20)** More [[Data Processing]] requires more of the resources including CPU, memory, network, and bandwidth.
 >
 > **[0:27](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=27)** The inputs to a big data pipeline are typically multipurpose inputs.
 >
@@ -794,7 +781,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=115)** If the source interface supports filtering capabilities, leverage them to minimize data coming into the pipeline.
 >
-> **[2:03](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=123)** For example, if the source is an RDBMS database a WHERE class in the SQL statement can filter out data at the source.
+> **[2:03](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=123)** For example, if the source is an RDBMS database a WHERE class in the [[SQL]] statement can filter out data at the source.
 >
 > **[2:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/minimizing-data-volumes?u=76281980&t=132)** Similarly, if the source is an HDFS Parquet file, we can use projections pushed down to execute filters at the HDFS level.
 >
@@ -806,7 +793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Big Data]] (3), product (3), [[Batch Processing]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (3), [[Batch Processing]] (1), [[Data Processing]] (1), [[SQL]] (1)
 > **Env Vars:** hdfs (3), cpu (1), rdbms (1), where (1), sql (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2)
@@ -814,16 +801,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [presenter] (1)
 
-#### Uniform load distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980)
+#### [Uniform load distribution](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=0)** - [Instructor] Another key architecture goal for big data batch pipelines is distributing processing load evenly across the clusters.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=0)** - [Instructor] Another key architecture goal for [[Big Data]] batch pipelines is distributing processing load evenly across the clusters.
 >
 > **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=10)** What is the significance of load distribution?
 >
-> **[0:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=14)** Big data technologies are typically deployed in clusters whether it's Apache Spark for processing, HTFS for storage, or Apache Kafka for queuing, they are deployed in clusters.
+> **[0:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=14)** Big data technologies are typically deployed in clusters whether it's [[Apache Spark]] for processing, HTFS for storage, or [[Apache Kafka]] for queuing, they are deployed in clusters.
 >
 > **[0:28](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=28)** As the load increases, we simply add more nodes to the cluster to scale horizontally, but will it really scale without degradation?
 >
@@ -837,7 +823,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=69)** When it comes to big data, some functions like grouping or aggregation can limit load distribution even if nodes are available.
 >
-> **[1:18](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=78)** So what are some of the load distribution strategies that can be employed in batch processing?
+> **[1:18](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=78)** So what are some of the load distribution strategies that can be employed in [[Batch Processing]]?
 >
 > **[1:25](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=85)** Single record operations like map, filter, or transform operations can be distributed in a round robin basis across all nodes.
 >
@@ -855,7 +841,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=140)** Keys play a critical role in distributing load across a cluster.
 >
-> **[2:25](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=145)** The choice of key plays a critical role in ensuring horizontal scalability.
+> **[2:25](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=145)** The choice of key plays a critical role in ensuring horizontal [[Scalability]].
 >
 > **[2:32](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=152)** Select keys such that the distribution of data between the keys is even.
 >
@@ -869,7 +855,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=195)** On the other hand, if we use a key like transaction ID and there are several thousand transactions a day, it will be distributed evenly across the nodes and can also scale.
 >
-> **[3:29](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=209)** Also, use technologies that leverage keys to distribute data processing and grouping.
+> **[3:29](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=209)** Also, use technologies that leverage keys to distribute [[Data Processing]] and grouping.
 >
 > **[3:35](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/uniform-load-distribution?u=76281980&t=215)** RDBMS uses database columns for filtering and grouping.
 >
@@ -877,25 +863,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (4), node (4), data (4), [[Apache Spark]] (1), [[Apache Kafka]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Apache Spark]] (1), [[Apache Kafka]] (1), [[Batch Processing]] (1), [[Scalability]] (1)
 > **CLI Commands:** node (4), apache (2)
 > **Env Vars:** htfs (1), rdbms (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using caches
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980)
+#### [Using caches](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=0)** - [Presenter] Caches play a key role in reducing processing latency and enabling exchange of data quickly between processing entities.
 >
-> **[0:09](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=9)** Data caches are a popular component of a big data pipeline.
+> **[0:09](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=9)** Data caches are a popular component of a [[Big Data]] pipeline.
 >
-> **[0:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=14)** These caching technologies allow ultrafast access to data compared to disk-based databases.
+> **[0:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=14)** These caching technologies allow ultrafast access to data compared to disk-based [[Databases]].
 >
-> **[0:22](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=22)** Distributed caches like Redis also provides scaling and redundancy in a big data pipeline.
+> **[0:22](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=22)** Distributed caches like [[Redis]] also provides scaling and redundancy in a big data pipeline.
 >
 > **[0:28](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=28)** In distributed caches, nodes can be set up closer to the processing node, sometimes within the same cluster or pod to minimize network traffic and hence latency.
 >
@@ -907,13 +892,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=69)** They also need cache management to perch old data and keep the cache up to date.
 >
-> **[1:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=75)** What are some of the best practices for using data caches in batch processing?
+> **[1:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=75)** What are some of the best practices for using data caches in [[Batch Processing]]?
 >
 > **[1:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=80)** We can use caches to store static or near-static data for fast data enrichment.
 >
 > **[1:27](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=87)** For example, it can be used to do ID attribute mappings like getting the discount percentage for a product and other related attributes.
 >
-> **[1:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=96)** It can also be used for caching metadata like threshold levels for alerting.
+> **[1:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=96)** It can also be used for caching [[Metadata]] like threshold levels for alerting.
 >
 > **[1:43](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/using-caches?u=76281980&t=103)** Another use of data caches is to maintain transient data during processing.
 >
@@ -923,18 +908,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Big Data]] (2), [[Databases]] (1), [[Redis]] (1), node (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Databases]] (1), [[Redis]] (1), [[Batch Processing]] (1), [[Metadata]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** node (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Reprocessing
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/reprocessing?u=76281980)
+#### [Reprocessing](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/reprocessing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/reprocessing?u=76281980&t=0)** - [Instructor] Reprocessing of data in a big data pipeline is a critical function that needs to be optimally designed.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/reprocessing?u=76281980&t=0)** - [Instructor] Reprocessing of data in a [[Big Data]] pipeline is a critical function that needs to be optimally designed.
 >
 > **[0:08](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/reprocessing?u=76281980&t=8)** Why do we need reprocessing of data?
 >
@@ -976,7 +960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Big Data]] (1), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** recommended (2)
 > **Cross-References:** in the next (1)
@@ -987,12 +971,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Audit trail: Define the problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980)
+#### [Audit trail: Define the problem](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=0)** - Having discussed some key architecture principles for big data batch pipelines in the previous chapters, let's build architectures for some use cases now by applying these principles.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=0)** - Having discussed some key architecture principles for [[Big Data]] batch pipelines in the previous chapters, let's build architectures for some use cases now by applying these principles.
 >
 > **[0:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=14)** We will follow the architecture process discussed in chapter one.
 >
@@ -1004,7 +987,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=38)** Let's begin the use case by first defining the problem for the data archive.
 >
-> **[0:44](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=44)** The ABC Company has an e-commerce application that it uses to sell its products to a large number of customers over the internet.
+> **[0:44](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=44)** The ABC Company has an [[E-Commerce]] application that it uses to sell its [[Microsoft Products|products]] to a large number of customers over the internet.
 >
 > **[0:54](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=54)** It generates an audit trail of all the application events for future analytics of user behavior.
 >
@@ -1012,7 +995,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=66)** Currently, an Oracle RDBMS database is used to store the audit trail for only 15 days.
 >
-> **[1:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=74)** The storage is limited to 15 days because of limitations in scalability of the RDBMS and also because of costs associated with additional storage within this database.
+> **[1:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=74)** The storage is limited to 15 days because of limitations in [[Scalability]] of the RDBMS and also because of costs associated with additional storage within this database.
 >
 > **[1:27](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980&t=87)** But this 15 days archive is insufficient for any kind of analytics that are required.
 >
@@ -1040,20 +1023,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Analytics]] (3), database (3), application (2), functional (2)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), [[Scalability]] (1)
 > **Env Vars:** rdbms (2), abc (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - having (1)
 
-#### Audit trail: Study requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980)
+#### [Audit trail: Study requirements](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=0)** - [Instructor] Having defined the problem and goals for the audit trail use case, we will now proceed to study and analyze the requirements for the use case.
 >
-> **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=10)** We will begin by analyzing the characteristics of the inputs available for this audit big data pipeline.
+> **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=10)** We will begin by analyzing the characteristics of the inputs available for this audit [[Big Data]] pipeline.
 >
 > **[0:18](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=18)** As discussed earlier, the audit trail is available in an Oracle RDBMS database for 15 days before it is pruned.
 >
@@ -1061,7 +1043,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=32)** We may need joins with other tables for lookup reasons, but we are keeping the use case simple.
 >
-> **[0:40](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=40)** Access to this data is available through SQL.
+> **[0:40](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=40)** Access to this data is available through [[SQL]].
 >
 > **[0:43](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=43)** Clients can connect to Oracle and execute SQL queries to extract the records.
 >
@@ -1103,7 +1085,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=156)** Finally, we get to analyze the non-functional requirements for the use case.
 >
-> **[2:41](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=161)** We begin with scalability.
+> **[2:41](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=161)** We begin with [[Scalability]].
 >
 > **[2:44](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=164)** As discussed earlier, we need to handle about three GB of data per day and store it for three years.
 >
@@ -1111,20 +1093,19 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=180)** For high availability, redundancy is required for the audit trail data archive.
 >
-> **[3:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=186)** The data pipelines can be down for a maximum of one hour due to unplanned issues.
+> **[3:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=186)** The [[Data Pipelines]] can be down for a maximum of one hour due to unplanned issues.
 >
-> **[3:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=192)** Finally, when it comes to security and privacy, access to the audit trail archive should be provided only with required authentication.
+> **[3:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=192)** Finally, when it comes to security and [[Privacy]], access to the audit trail archive should be provided only with required authentication.
 >
 > **[3:22](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-study-requirements?u=76281980&t=202)** Also, customer names should be removed from the audit trail before storing in the archive.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (8), [[SQL]] (5), [[Security]] (2), functional (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Big Data]] (1), [[Scalability]] (1), [[Data Pipelines]] (1), [[Privacy]] (1)
 > **Env Vars:** sql (5), rdbms (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audit trail: Create a workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-create-a-workflow?u=76281980)
+#### [Audit trail: Create a workflow](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-create-a-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1113,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-create-a-workflow?u=76281980&t=6)** We will first draw a workflow for the audit trail archive pipeline.
 >
-> **[0:11](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-create-a-workflow?u=76281980&t=11)** At this stage, we are focused on executing data processing without any special considerations about the big data characteristics like data volumes and horizontal scaling.
+> **[0:11](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-create-a-workflow?u=76281980&t=11)** At this stage, we are focused on executing [[Data Processing]] without any special considerations about the [[Big Data]] characteristics like data volumes and horizontal scaling.
 >
 > **[0:24](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-create-a-workflow?u=76281980&t=24)** Let's now draw the workflow.
 >
@@ -1156,7 +1137,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-create-a-workflow?u=76281980&t=81)** The pipeline will use username password authentication to connect to the source database.
 >
-> **[1:28](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-create-a-workflow?u=76281980&t=88)** It'll execute a SQL statement that is bound by the timestamp of the audit trail to fetch for new records.
+> **[1:28](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-create-a-workflow?u=76281980&t=88)** It'll execute a [[SQL]] statement that is bound by the timestamp of the audit trail to [[Fetch]] for new records.
 >
 > **[1:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-create-a-workflow?u=76281980&t=96)** It then does record by record processing to remove customer names.
 >
@@ -1168,19 +1149,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (3), [[Big Data]] (1), [[SQL]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1), [[Big Data]] (1), [[SQL]] (1), [[Fetch]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audit trail: Scale the workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-scale-the-workflow?u=76281980)
+#### [Audit trail: Scale the workflow](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-scale-the-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-scale-the-workflow?u=76281980&t=0)** - [Instructor] We now have the basic workflow for the audit trail archive.
 >
-> **[0:05](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-scale-the-workflow?u=76281980&t=5)** Let's now explore the possibilities of scaling this workflow for big data loads.
+> **[0:05](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-scale-the-workflow?u=76281980&t=5)** Let's now explore the possibilities of scaling this workflow for [[Big Data]] loads.
 >
 > **[0:11](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-scale-the-workflow?u=76281980&t=11)** Let's start with the workflow that we created in the previous video.
 >
@@ -1214,15 +1194,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), concurrent (5), etl (2), data (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **Env Vars:** etl (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audit trail: Select technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980)
+#### [Audit trail: Select technologies](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,9 +1223,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=39)** For the output archival database, let's start with a few options.
 >
-> **[0:45](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=45)** We will have MySQL, which is an RDBMS.
+> **[0:45](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=45)** We will have [[MySQL]], which is an RDBMS.
 >
-> **[0:48](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=48)** Then we will have MongoDB which is a NoSQL document database.
+> **[0:48](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=48)** Then we will have [[MongoDB]] which is a [[NoSQL]] document database.
 >
 > **[0:53](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=53)** Finally, we have a combination of HDFS with the Impala query engine.
 >
@@ -1256,7 +1235,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=72)** The first criteria is if the technology choice can scale to 10 terabytes, which is the volume requirement for the use case.
 >
-> **[1:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=80)** MySQL scalability at the terabyte level is limited.
+> **[1:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=80)** MySQL [[Scalability]] at the terabyte level is limited.
 >
 > **[1:25](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=85)** Both MongoDB and HDFS can scale to this requirement.
 >
@@ -1270,13 +1249,13 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=117)** However, MySQL may have higher overhead as it would need administration for backups to provide redundancy.
 >
-> **[2:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=126)** We need ad hoc querying with a SQL-like interface as a requirement for the use case.
+> **[2:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=126)** We need ad hoc querying with a [[SQL]]-like interface as a requirement for the use case.
 >
 > **[2:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=132)** All three options provide this capability.
 >
 > **[2:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=135)** We finally get to a non-functional requirement like product maturity.
 >
-> **[2:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=141)** Organizations may demand investing in mature products to protect investment and avoid problems.
+> **[2:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=141)** Organizations may demand investing in mature [[Microsoft Products|products]] to protect investment and avoid problems.
 >
 > **[2:29](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=149)** All three again qualify for this criteria.
 >
@@ -1290,11 +1269,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=179)** We then move on to evaluate technologies for the extract load job.
 >
-> **[3:05](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=185)** Here, we select two popular options for batch processing jobs.
+> **[3:05](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=185)** Here, we select two popular options for [[Batch Processing]] jobs.
 >
-> **[3:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=190)** Apache Pig is a legacy processing engine based on Hadoop.
+> **[3:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=190)** Apache Pig is a legacy processing engine based on [[Hadoop]].
 >
-> **[3:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=194)** Apache Spark is arguably the top option for building batch jobs.
+> **[3:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=194)** [[Apache Spark]] is arguably the top option for building batch jobs.
 >
 > **[3:19](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-select-technologies?u=76281980&t=199)** Given that we need to read data from an RDBMS, it is desired to have out-of-the-box RDBMS support in the processing engine.
 >
@@ -1318,7 +1297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[MySQL]] (4), [[MongoDB]] (4), data (4), [[Apache Spark]] (3)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[MongoDB]] (4), [[Apache Spark]] (3), [[NoSQL]] (1), [[Scalability]] (1)
 > **Env Vars:** hdfs (5), rdbms (3), etl (2), sql (1)
 > **CLI Commands:** apache (5), mysql (4)
 > **Definitions:** is an  (2), is a  (2)
@@ -1327,8 +1306,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audit trail: Review final architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-review-final-architecture?u=76281980)
+#### [Audit trail: Review final architecture](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-review-final-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1338,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-review-final-architecture?u=76281980&t=12)** The source is an Oracle database.
 >
-> **[0:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-review-final-architecture?u=76281980&t=15)** The ETL process will run on Apache Spark.
+> **[0:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-review-final-architecture?u=76281980&t=15)** The ETL process will run on [[Apache Spark]].
 >
 > **[0:19](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-review-final-architecture?u=76281980&t=19)** The final archive will be created using HDFS with Impala being the query engine.
 >
@@ -1374,7 +1352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), etl (2), [[Apache Spark]] (2)
+> **Frameworks & Libraries:** [[Apache Spark]] (2)
 > **Env Vars:** hdfs (5), etl (2), rdbms (1)
 > **CLI Commands:** apache (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1386,22 +1364,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advertising analytics: Define the problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980)
+#### [Advertising analytics: Define the problem](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=0)** - [Instructor] Let's now dive into the second use case for batch big data engineering, advertising analytics.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=0)** - [Instructor] Let's now dive into the second use case for batch [[Big Data]] engineering, advertising analytics.
 >
 > **[0:07](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=7)** Let's start with the problem We are trying to solve.
 >
-> **[0:11](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=11)** ABC Company markets its products through advertisements through multiple channels.
+> **[0:11](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=11)** ABC Company markets its [[Microsoft Products|products]] through advertisements through multiple channels.
 >
 > **[0:16](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=16)** They send direct emails to potential customers.
 >
 > **[0:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=20)** They do direct emailing by using an enterprise campaign management product which they have purchased and set up in their company.
 >
-> **[0:30](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=30)** They also do advertisements on the company's e-commerce website.
+> **[0:30](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=30)** They also do advertisements on the company's [[E-Commerce]] website.
 >
 > **[0:35](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=35)** This e-commerce store is hosted by a cloud provider.
 >
@@ -1433,22 +1410,21 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=131)** Aggregation should be done across all channels on a daily basis.
 >
-> **[2:16](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=136)** We need to provide SQL based access to the insights created.
+> **[2:16](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=136)** We need to provide [[SQL]] based access to the insights created.
 >
-> **[2:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=141)** It should be possible to integrate out of the box business intelligence tools easily to the insights available.
+> **[2:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=141)** It should be possible to integrate out of the box [[Business Intelligence (BI)|business intelligence]] tools easily to the insights available.
 >
 > **[2:30](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980&t=150)** Let's now proceed to analyze the requirements further.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (3), data (3), product (2), [[Big Data]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Big Data]] (1), [[Microsoft Products|Products]] (1), [[SQL]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** ctr (3), abc (1), sql (1)
 > **Versions:** 0.75 (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advertising analytics: Study requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980)
+#### [Advertising analytics: Study requirements](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1456,11 +1432,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=6)** Let's review the inputs available for this pipeline.
 >
-> **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=10)** The e-commerce website runs on a cloud e-commerce platform.
+> **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=10)** The [[E-Commerce]] website runs on a cloud e-commerce platform.
 >
 > **[0:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=15)** This platform provides APIs to download details about the advertisements shown, including user response and demographics.
 >
-> **[0:25](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=25)** The API has a rate limit and can be invoked once every 15 minutes, so it allows batch downloads only in JSON format.
+> **[0:25](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=25)** The API has a rate limit and can be invoked once every 15 minutes, so it allows batch downloads only in [[JSON]] format.
 >
 > **[0:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=36)** The enterprise email campaign management product also supports data extractions through an API.
 >
@@ -1472,7 +1448,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=61)** What about the output we want to create?
 >
-> **[1:04](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=64)** We need to provide the analytics through a database with SQL access.
+> **[1:04](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=64)** We need to provide the analytics through a database with [[SQL]] access.
 >
 > **[1:09](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=69)** It provides only aggregate information about the advertisements.
 >
@@ -1488,13 +1464,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=116)** SQL access need to be provided to the stored summary data.
 >
-> **[2:01](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=121)** It is expected that business intelligence tools can use this access easily to integrate with the database.
+> **[2:01](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=121)** It is expected that [[Business Intelligence (BI)|business intelligence]] tools can use this access easily to integrate with the database.
 >
 > **[2:09](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=129)** The cache should be pruned periodically to keep the cache sizes small.
 >
 > **[2:14](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=134)** How about the non-functional requirements for the use case?
 >
-> **[2:18](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=138)** When it comes to scalability, we need to handle one million emails per day and 0.75 million advertisements per day.
+> **[2:18](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=138)** When it comes to [[Scalability]], we need to handle one million emails per day and 0.75 million advertisements per day.
 >
 > **[2:27](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=147)** The aggregates need to be stored for three years.
 >
@@ -1502,19 +1478,18 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=157)** Redundancy is required for the data stored in the summary tables and the pipeline, but downtimes of less than one hour should be acceptable in general.
 >
-> **[2:48](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=168)** For security and privacy, we use authenticated access to the input sources and the output destinations.
+> **[2:48](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=168)** For security and [[Privacy]], we use authenticated access to the input sources and the output destinations.
 >
 > **[2:56](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-study-requirements?u=76281980&t=176)** Given that the summaries are not capturing private information about customers, we don't need a privacy design.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Analytics]] (3), product (3), database (3), [[E-Commerce]] (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[SQL]] (2), [[Privacy]] (2), [[JSON]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** api (2), sql (2), json (1), csv (1), ctr (1)
 > **Versions:** 0.75 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advertising analytics: Create a workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-create-a-workflow?u=76281980)
+#### [Advertising analytics: Create a workflow](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-create-a-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1526,9 +1501,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-create-a-workflow?u=76281980&t=15)** Given that even in the output, the results obtained, from these data sources are captured individually, with each channel being the distinguishing attribute, we can build individual pipelines for this use case.
 >
-> **[0:31](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-create-a-workflow?u=76281980&t=31)** Let's start with the e-commerce advertisements source.
+> **[0:31](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-create-a-workflow?u=76281980&t=31)** Let's start with the [[E-Commerce]] advertisements source.
 >
-> **[0:35](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-create-a-workflow?u=76281980&t=35)** We need to have a batch process to fetch data, from the e-commerce platform.
+> **[0:35](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-create-a-workflow?u=76281980&t=35)** We need to have a batch process to [[Fetch]] data, from the e-commerce platform.
 >
 > **[0:40](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-create-a-workflow?u=76281980&t=40)** This extracted data is cached in a temporary local cache.
 >
@@ -1554,13 +1529,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Analytics]] (3), [[E-Commerce]] (2), database (2), management (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Fetch]] (1)
 > **Env Vars:** ctr (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advertising analytics: Scale the workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-scale-the-workflow?u=76281980)
+#### [Advertising analytics: Scale the workflow](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-scale-the-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1568,7 +1542,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-scale-the-workflow?u=76281980&t=7)** Let's first define the batch jobs in the workflow.
 >
-> **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-scale-the-workflow?u=76281980&t=10)** We will have an ads data extractor job that will connect to the e-commerce platform API, and download advertisement data records for the day.
+> **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-scale-the-workflow?u=76281980&t=10)** We will have an ads data extractor job that will connect to the [[E-Commerce]] platform API, and download advertisement data records for the day.
 >
 > **[0:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-scale-the-workflow?u=76281980&t=21)** And ads data summarizer job will run every day to summarize the advertisements in the temporary cache.
 >
@@ -1606,19 +1580,18 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-scale-the-workflow?u=76281980&t=146)** The technology used for the temporary file cache and the analytics database, can also limit the amount of distributed processing available.
 >
-> **[2:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-scale-the-workflow?u=76281980&t=156)** Hence, we need to choose the right technology for these databases to enable scalability.
+> **[2:36](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-scale-the-workflow?u=76281980&t=156)** Hence, we need to choose the right technology for these [[Databases]] to enable [[Scalability]].
 >
 > **[2:42](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-scale-the-workflow?u=76281980&t=162)** We will do so in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (3), concurrent (3), api (2), database (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Databases]] (1), [[Scalability]] (1)
 > **Env Vars:** api (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advertising analytics: Select technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980)
+#### [Advertising analytics: Select technologies](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1650,7 +1623,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=76)** Hence, it is recommended to build a custom extraction client for this job.
 >
-> **[1:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=81)** The extraction client can be built using a high level programming language like Java or Python.
+> **[1:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=81)** The extraction client can be built using a high level programming language like [[Java]] or [[Python (Programming Language)|Python]].
 >
 > **[1:28](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=88)** It can implement custom horizontal scaling through concurrent threats or processes.
 >
@@ -1660,7 +1633,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=106)** The temporary cache is going to store data in its granular format so there is a lot of data here, even for a single day.
 >
-> **[1:55](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=115)** For technology alternatives, we will look at MySQL which is an RDBMS and HDFS which is a scalable file system.
+> **[1:55](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=115)** For technology alternatives, we will look at [[MySQL]] which is an RDBMS and HDFS which is a scalable file system.
 >
 > **[2:05](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=125)** Let's evaluate these technologies for the temporary cache.
 >
@@ -1682,7 +1655,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=178)** Next, moving on to the processing job.
 >
-> **[3:01](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=181)** Given that the requirements for the processing engine technology is similar to the previous audit trail archival use case, we will use the same choice, namely Apache Spark for building the summarization job.
+> **[3:01](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=181)** Given that the requirements for the processing engine technology is similar to the previous audit trail archival use case, we will use the same choice, namely [[Apache Spark]] for building the summarization job.
 >
 > **[3:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=195)** Finally, we look at technology options for the analytics database.
 >
@@ -1692,13 +1665,13 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=212)** We can do away with the need for horizontal scaling for this technology.
 >
-> **[3:37](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=217)** We will choose MySQL, MongoDB, and HDFS + Impala as the three options to evaluate.
+> **[3:37](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=217)** We will choose MySQL, [[MongoDB]], and HDFS + Impala as the three options to evaluate.
 >
 > **[3:45](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=225)** We need concurrent right access to the database so that concurrent tasks in the summarization job can write data concurrently to this database.
 >
-> **[3:54](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=234)** All three databases are good here.
+> **[3:54](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=234)** All three [[Databases]] are good here.
 >
-> **[3:57](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=237)** We need SQL-based query access to the database and all the three options provide that.
+> **[3:57](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=237)** We need [[SQL]]-based query access to the database and all the three options provide that.
 >
 > **[4:04](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-select-technologies?u=76281980&t=244)** We desire powerful out of the box analytics capabilities so that analysts can run powerful queries on this data to extract insights.
 >
@@ -1712,7 +1685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (8), [[MySQL]] (6), [[Analytics]] (5), api (3)
+> **Frameworks & Libraries:** [[MySQL]] (6), [[MongoDB]] (2), [[Databases]] (2), [[SQL]] (2), [[Java]] (1)
 > **Env Vars:** hdfs (4), api (3), sql (2), sdk (1), rdbms (1)
 > **CLI Commands:** mysql (6), python (1), apache (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1721,8 +1694,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advertising analytics: Review final architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980)
+#### [Advertising analytics: Review final architecture](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1732,9 +1704,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980&t=12)** HDFS will be used as the temporary data store.
 >
-> **[0:16](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980&t=16)** Apache Spark will be used to build the daily summarizer job.
+> **[0:16](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980&t=16)** [[Apache Spark]] will be used to build the daily summarizer job.
 >
-> **[0:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980&t=20)** MySQL will serve as the analytics database.
+> **[0:20](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980&t=20)** [[MySQL]] will serve as the analytics database.
 >
 > **[0:24](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980&t=24)** Let's review some salient decisions we made in this use case.
 >
@@ -1746,7 +1718,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980&t=54)** Apache Spark can scale independently based on the data volumes.
 >
-> **[0:58](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980&t=58)** It also has native integrations to both HDFS and JDBC that will help extend parallelism to both the source and the destination.
+> **[0:58](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980&t=58)** It also has native integrations to both HDFS and [[Java Database Connectivity (JDBC)|JDBC]] that will help extend parallelism to both the source and the destination.
 >
 > **[1:08](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-review-final-architecture?u=76281980&t=68)** Finally, since summary data only had limited volume, MySQL should be sufficient to store and query the analytical results.
 >
@@ -1754,7 +1726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Analytics]] (2), [[Apache Spark]] (2), [[MySQL]] (2), database (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (2), [[MySQL]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** hdfs (3), api (1), jdbc (1)
 > **CLI Commands:** apache (2), mysql (2)
 > **Speakers:** - [instructor] (1)
@@ -1764,16 +1736,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Product recommendations: Define the problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980)
+#### [Product recommendations: Define the problem](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980&t=0)** - [Instructor] We now move to the final use case for the Batch Big Data Engineering product recommendations.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980&t=0)** - [Instructor] We now move to the final use case for the Batch [[Big Data]] Engineering product recommendations.
 >
 > **[0:07](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980&t=7)** Let's begin by discussing the problem to solve.
 >
-> **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980&t=10)** XYZ is a popular global e-commerce website that sells several household products to its customers.
+> **[0:10](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980&t=10)** XYZ is a popular global [[E-Commerce]] website that sells several household [[Microsoft Products|products]] to its customers.
 >
 > **[0:19](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980&t=19)** It has about 10 million active users, and thus around 200,000 transactions a day.
 >
@@ -1805,17 +1776,16 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980&t=100)** It should consider both the recent transaction history of the customer, as well as demographics of the customers.
 >
-> **[1:48](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980&t=108)** The recommendations should be available in a database that supports low latency retrieval for real-time display in a customer browsing session.
+> **[1:48](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980&t=108)** The recommendations should be available in a database that supports low latency retrieval for [[Real-Time]] display in a customer browsing session.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (3), [[E-Commerce]] (2), api (2), database (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Big Data]] (1), [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
 > **Env Vars:** xyz (3), api (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Product recommendations: Study requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980)
+#### [Product recommendations: Study requirements](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1827,11 +1797,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=13)** The company maintains a customer database that contains demographic information about the customer including gender, age, income, et cetera.
 >
-> **[0:24](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=24)** This is available in an RDBMS database and data can be extracted to a SQL query.
+> **[0:24](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=24)** This is available in an RDBMS database and data can be extracted to a [[SQL]] query.
 >
 > **[0:31](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=31)** Then we have customer transactions.
 >
-> **[0:35](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=35)** This contains information about what the customer bought on a e-commerce website including product name, price, et cetera.
+> **[0:35](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=35)** This contains information about what the customer bought on a [[E-Commerce]] website including product name, price, et cetera.
 >
 > **[0:43](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=43)** This transaction information is available through a Kafka topic.
 >
@@ -1843,7 +1813,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=65)** The database would contain information about the list of recommendations for the customer, along with the ranking for the recommendations.
 >
-> **[1:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=75)** The database should allow real-time, low latency queries so that recommendations can be pulled up in real time.
+> **[1:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=75)** The database should allow [[Real-Time]], low latency queries so that recommendations can be pulled up in real time.
 >
 > **[1:23](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=83)** The output database should scale beyond the current 10 million users based on the customer base growth.
 >
@@ -1875,16 +1845,15 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=166)** The pipeline itself could be down for less than an hour if needed for maintenance or unforeseen issues.
 >
-> **[2:54](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=174)** The security requirement is to provide authenticated access to the input sources and the databases in the pipeline.
+> **[2:54](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-study-requirements?u=76281980&t=174)** The security requirement is to provide authenticated access to the input sources and the [[Databases]] in the pipeline.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), product (3), data (2), [[E-Commerce]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[SQL]] (1), [[Real-Time]] (1), [[Databases]] (1)
 > **Env Vars:** rdbms (1), sql (1), api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Product recommendations: Create a workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-create-a-workflow?u=76281980)
+#### [Product recommendations: Create a workflow](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-create-a-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,7 +1871,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-create-a-workflow?u=76281980&t=38)** We then have the second input, which is customer demographics.
 >
-> **[0:42](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-create-a-workflow?u=76281980&t=42)** This is available to us as an RDBMS table and can be accessed through a SQL query.
+> **[0:42](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-create-a-workflow?u=76281980&t=42)** This is available to us as an RDBMS table and can be accessed through a [[SQL]] query.
 >
 > **[0:49](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-create-a-workflow?u=76281980&t=49)** Then, on a daily basis, we will extract transaction history and customer demographics for customers who had new transactions for the previous day.
 >
@@ -1918,14 +1887,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), api (2), database (2), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** api (2), rdbms (1), sql (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Product recommendations: Scale the workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-scale-the-workflow?u=76281980)
+#### [Product recommendations: Scale the workflow](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-scale-the-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1957,13 +1925,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-scale-the-workflow?u=76281980&t=104)** Then each node can proceed to generate recommendations independently.
 >
-> **[1:49](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-scale-the-workflow?u=76281980&t=109)** The source and destination databases should support concurrent access.
+> **[1:49](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-scale-the-workflow?u=76281980&t=109)** The source and destination [[Databases]] should support concurrent access.
 >
 > **[1:54](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-scale-the-workflow?u=76281980&t=114)** Similarly, the recommendations model API should also allow concurrent requests so that they can serve the requesting tasks without delays.
 >
 > **[2:04](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-scale-the-workflow?u=76281980&t=124)** What are the possible scaling limitations that we need to account for?
 >
-> **[2:09](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-scale-the-workflow?u=76281980&t=129)** The recommendations model API's capacity may limit concurrency, so that needs to be checked with the data science team and sized accordingly.
+> **[2:09](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-scale-the-workflow?u=76281980&t=129)** The recommendations model API's capacity may limit concurrency, so that needs to be checked with the [[Data Science]] team and sized accordingly.
 >
 > **[2:19](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-scale-the-workflow?u=76281980&t=139)** Data merge between the transaction history and the customer demographics database can be expensive and may introduce latency.
 >
@@ -1973,15 +1941,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), concurrent (5), data (4), product (2), api (2)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Data Science]] (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** node (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Product recommendations: Select technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980)
+#### [Product recommendations: Select technologies](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1966,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=42)** We need to pick some choices that will help perform such queries.
 >
-> **[0:47](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=47)** We will pick MongoDB, MySQL, and HDFS as the options to evaluate here.
+> **[0:47](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=47)** We will pick [[MongoDB]], [[MySQL]], and HDFS as the options to evaluate here.
 >
 > **[0:54](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=54)** The first criteria is concurrent reads and writes that will help the processing jobs to run multiple concurrent tasks.
 >
@@ -2015,7 +1982,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=94)** Querying for the last updated timestamp is also not trivial.
 >
-> **[1:40](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=100)** The database should scale for big data volumes.
+> **[1:40](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=100)** The database should scale for [[Big Data]] volumes.
 >
 > **[1:43](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=103)** MongoDB and HDFS are a great fit here.
 >
@@ -2031,7 +1998,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=139)** It should also provide fast querying capabilities.
 >
-> **[2:23](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=143)** As options, we will use Cassandra, a columnar NoSQL database, MySQL, an RDBMS, and HDFS with Impala for querying.
+> **[2:23](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=143)** As options, we will use Cassandra, a columnar [[NoSQL]] database, MySQL, an RDBMS, and HDFS with Impala for querying.
 >
 > **[2:33](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=153)** Let's run through the evaluation now.
 >
@@ -2057,21 +2024,20 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=211)** Then we move on to the processing job technology.
 >
-> **[3:35](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=215)** Given that the requirements for the processing engine technology is similar to the previous use cases, we will use the same choice, namely Apache Spark, for building the processing jobs.
+> **[3:35](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=215)** Given that the requirements for the processing engine technology is similar to the previous use cases, we will use the same choice, namely [[Apache Spark]], for building the processing jobs.
 >
-> **[3:47](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=227)** Apache Spark is today the defacto standard for building batch processing applications so it's no surprise that we will end up with the same choice for all the three use cases.
+> **[3:47](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-select-technologies?u=76281980&t=227)** Apache Spark is today the defacto standard for building [[Batch Processing]] applications so it's no surprise that we will end up with the same choice for all the three use cases.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[MySQL]] (9), [[MongoDB]] (5), concurrent (2), [[Big Data]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (9), [[MongoDB]] (5), [[Big Data]] (2), [[Apache Spark]] (2), [[NoSQL]] (1)
 > **CLI Commands:** mysql (9), apache (2)
 > **Env Vars:** hdfs (9), rdbms (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Product recommendations: Review the final architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980)
+#### [Product recommendations: Review the final architecture](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2079,7 +2045,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=6)** So here is the final architecture with all the technologies identified in the workflow.
 >
-> **[0:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=12)** We have selected Apache Spark for the processing jobs, MongoDB for the transactions history database and Cassandra for the recommendations database.
+> **[0:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=12)** We have selected [[Apache Spark]] for the processing jobs, [[MongoDB]] for the transactions history database and Cassandra for the recommendations database.
 >
 > **[0:21](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=21)** How does this architecture stack up?
 >
@@ -2089,13 +2055,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=38)** The processing jobs can leverage the querying and job distribution capabilities available in the Kafka and RDBMS inputs.
 >
-> **[0:47](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=47)** This helps improve scalability of the pipeline.
+> **[0:47](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=47)** This helps improve [[Scalability]] of the pipeline.
 >
 > **[0:51](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=51)** We are using a separate APA based product recommendation service.
 >
 > **[0:56](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=56)** It's also possible to embed the product recommendation service inside the Spark recommendations job.
 >
-> **[1:02](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=62)** The key decision point is coupling and if the pipeline big data and data science teams can work together closely or stay independent.
+> **[1:02](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=62)** The key decision point is coupling and if the pipeline [[Big Data]] and [[Data Science]] teams can work together closely or stay independent.
 >
 > **[1:12](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-review-the-final-architecture?u=76281980&t=72)** The transactions history database also would need pruning to remove old records that are no longer used for making predictions.
 >
@@ -2103,7 +2069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), product (3), [[Apache Spark]] (1), [[MongoDB]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (1), [[MongoDB]] (1), [[Scalability]] (1), [[Big Data]] (1), [[Data Science]] (1)
 > **Env Vars:** rdbms (1), apa (1)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
@@ -2113,14 +2079,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to architect big data applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/continuing-to-architect-big-data-applications?u=76281980)
+#### [Continuing to architect big data applications](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/continuing-to-architect-big-data-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/continuing-to-architect-big-data-applications?u=76281980&t=0)** - There's a lot you can learn and do with big data architectures beyond this course.
+> **[0:00](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/continuing-to-architect-big-data-applications?u=76281980&t=0)** - There's a lot you can learn and do with [[Big Data]] architectures beyond this course.
 >
-> **[0:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/continuing-to-architect-big-data-applications?u=76281980&t=6)** First, check out my real-time big data architecture course that deals with real-time use cases in the same pattern.
+> **[0:06](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/continuing-to-architect-big-data-applications?u=76281980&t=6)** First, check out my [[Real-Time]] big data architecture course that deals with real-time use cases in the same pattern.
 >
 > **[0:15](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/continuing-to-architect-big-data-applications?u=76281980&t=15)** Second, try and implement some of the use cases you have learned and experience how the solution works.
 >
@@ -2134,7 +2099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (2), [[Real-Time]] (2), data (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Real-Time]] (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - there (1)
 

@@ -95,16 +95,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a secure WordPress website
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980)
+#### [Building a secure WordPress website](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980&t=0)** - These days, website visitors rely on the internet more than ever so your site needs to be as secure as possible in order to make sure that users have an optimal experience.
 >
-> **[0:11](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980&t=11)** In this course, we take a no code approach to WordPress site security.
+> **[0:11](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980&t=11)** In this course, we take a no code approach to [[WordPress]] site security.
 >
-> **[0:16](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980&t=16)** I'll explain how to choose and maintain plugins and themes, how to optimize firewalls and maintain SSL certificates, and we'll take a look at what extra steps you can take to protect e-commerce sites.
+> **[0:16](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980&t=16)** I'll explain how to choose and maintain plugins and themes, how to optimize firewalls and maintain SSL certificates, and we'll take a look at what extra steps you can take to protect [[E-Commerce]] sites.
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980&t=29)** I'll give you some of my personal recommendations for free and paid tools to look into.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Security]] (2), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ssl (1)
 > **Speakers:** - these (1)
@@ -128,12 +127,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to choose a secure WordPress hosting provider
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980)
+#### [How to choose a secure WordPress hosting provider](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=0)** - [Instructor] The first step in launching a secure WordPress site is choosing a secure hosting provider.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=0)** - [Instructor] The first step in launching a secure [[WordPress]] site is choosing a secure hosting provider.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=6)** The security of your host can largely affect how secure your site is and how secure it will remain.
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=22)** Remember that all websites are made up of nothing but files.
 >
-> **[0:27](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=27)** Those files are full of code, which is just a long list of specific instructions that are delivered to your browser, Google Chrome, Safari, Firefox, et cetera.
+> **[0:27](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=27)** Those files are full of code, which is just a long list of specific instructions that are delivered to your browser, [[Google]] Chrome, Safari, Firefox, et cetera.
 >
 > **[0:37](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=37)** These instructions tell your browser what to show like photos and texts and how to interact with a user, like what to do if a user clicks on a photo or submits information through a form.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=96)** But what is managed hosting?
 >
-> **[1:39](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=99)** Managed hosting means that the hosting package is optimized to suit the unique needs of your site type be it WordPress or WordPress with WooCommerce, et cetera.
+> **[1:39](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=99)** Managed hosting means that the hosting package is optimized to suit the unique needs of your site type be it WordPress or WordPress with [[WooCommerce]], et cetera.
 >
 > **[1:50](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=110)** With managed hosting the resources, tools and support you receive are focused on what that site needs.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=187)** A lot of the decisions you make when shopping for hosting depends on the size and complexity of your website.
 >
-> **[3:13](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=193)** If you're starting a personal blog or a basic brochure website you probably won't need as many resources but if you're starting an e-Commerce website, an application, a large database site, something like that you'll need to look more deeply into security options.
+> **[3:13](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=193)** If you're starting a personal blog or a basic brochure website you probably won't need as many resources but if you're starting an [[E-Commerce]] website, an application, a large database site, something like that you'll need to look more deeply into security options.
 >
 > **[3:29](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=209)** The more information you take through a website the larger the risk, and so the more resources are needed.
 >
@@ -199,7 +197,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=230)** An SSL certificate is essential, especially if you're taking information of any kind from your visitors.
 >
-> **[3:57](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=237)** A CDN provides cloud security which can help stop a DDOS attack before it reaches your websites data center, firewalls will block attacks and viruses from affecting your site.
+> **[3:57](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=237)** A CDN provides [[Cloud Security]] which can help stop a DDOS attack before it reaches your websites data center, firewalls will block attacks and viruses from affecting your site.
 >
 > **[4:09](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980&t=249)** Many hosts provide spam filters that protect your emails and your comment section and security monitoring is definitely a must have in order to catch any problems early.
 >
@@ -207,7 +205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[WordPress]] (4), [[WooCommerce]] (3), [[Google]] (1), traffic (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[WooCommerce]] (3), [[Google]] (1), [[E-Commerce]] (1), [[Cloud Security]] (1)
 > **Env Vars:** ssl (1), cdn (1), ddos (1)
 > **Tools:** safari (1), firefox (1)
 > **Definitions:** is a  (1), means that (1)
@@ -216,18 +214,17 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 
-#### Overview of the WordPress structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980)
+#### [Overview of the WordPress structure](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=0)** - [Instructor] So let's talk a little bit about what WordPress actually is and how it's structured.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=0)** - [Instructor] So let's talk a little bit about what [[WordPress]] actually is and how it's structured.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=5)** This is going to help us understand how WordPress sites become vulnerable and subsequently how we can protect them.
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=12)** WordPress is a content management system, which means it's a system for helping manage your content.
+> **[0:12](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=12)** WordPress is a [[Content Management]] system, which means it's a system for helping manage your content.
 >
-> **[0:20](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=20)** Other CMS include Drupal, Joomla, and Magneto, as well as things like Squarespace and Wix, which you may have heard of.
+> **[0:20](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=20)** Other CMS include [[Drupal]], Joomla, and Magneto, as well as things like Squarespace and Wix, which you may have heard of.
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=27)** They all basically do the same thing but in different ways.
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=80)** This is what makes WordPress so powerful.
 >
-> **[1:23](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=83)** You don't have to know JavaScript or PHP to edit the JavaScript and PHP which makes changes to the site.
+> **[1:23](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=83)** You don't have to know [[JavaScript]] or [[PHP]] to edit the JavaScript and PHP which makes changes to the site.
 >
 > **[1:30](https://www.linkedin.com/learning/wordpress-building-a-secure-site/overview-of-the-wordpress-structure?u=76281980&t=90)** The dashboard puts it all in plain terms for you to understand and customize.
 >
@@ -269,18 +266,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (8), database (7), [[JavaScript]] (2), [[PHP]] (2), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (8), [[JavaScript]] (2), [[PHP]] (2), [[Content Management]] (1), [[Drupal]] (1)
 > **CLI Commands:** make (3), php (2)
 > **Env Vars:** php (2), cms (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How WordPress sites become vulnerable
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-wordpress-sites-become-vulnerable?u=76281980)
+#### [How WordPress sites become vulnerable](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-wordpress-sites-become-vulnerable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-wordpress-sites-become-vulnerable?u=76281980&t=0)** - [Instructor] WordPress is one of the most popular CMS platforms in the world, in large part due to how inherently secure it is.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-wordpress-sites-become-vulnerable?u=76281980&t=0)** - [Instructor] [[WordPress]] is one of the most popular CMS platforms in the world, in large part due to how inherently secure it is.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-wordpress-sites-become-vulnerable?u=76281980&t=8)** But since it's the most popular CMS in the world that also means it's the most targeted.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (8), cms (2)
+> **Frameworks & Libraries:** [[WordPress]] (8)
 > **CLI Commands:** make (2)
 > **Env Vars:** cms (2)
 > **Definitions:** means that (2)
@@ -311,12 +307,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to create a secure WordPress user account
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-create-a-secure-wordpress-user-account?u=76281980)
+#### [How to create a secure WordPress user account](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-create-a-secure-wordpress-user-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-create-a-secure-wordpress-user-account?u=76281980&t=0)** - [Instructor] So let's talk now about how to create a secure WordPress user account.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-create-a-secure-wordpress-user-account?u=76281980&t=0)** - [Instructor] So let's talk now about how to create a secure [[WordPress]] user account.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-create-a-secure-wordpress-user-account?u=76281980&t=5)** Your username and password combination is an easy access point to your website.
 >
@@ -374,18 +369,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** think of it like (1), for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for keeping WordPress user accounts secure
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-user-accounts-secure?u=76281980)
+#### [Best practices for keeping WordPress user accounts secure](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-user-accounts-secure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-user-accounts-secure?u=76281980&t=0)** - [Instructor] So let's talk about keeping WordPress user accounts that you created secure moving forward.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-user-accounts-secure?u=76281980&t=0)** - [Instructor] So let's talk about keeping [[WordPress]] user accounts that you created secure moving forward.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-user-accounts-secure?u=76281980&t=6)** There are some best practices to remember to ensure the security of these accounts over time.
 >
@@ -415,18 +409,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **Env Vars:** url (5)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for securing your WordPress login screen
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-securing-your-wordpress-login-screen?u=76281980)
+#### [Tools for securing your WordPress login screen](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-securing-your-wordpress-login-screen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-securing-your-wordpress-login-screen?u=76281980&t=0)** - [Instructor] So let's talk about tools that help you secure your WordPress login screen.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-securing-your-wordpress-login-screen?u=76281980&t=0)** - [Instructor] So let's talk about tools that help you secure your [[WordPress]] login screen.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-securing-your-wordpress-login-screen?u=76281980&t=5)** WordPress site security always begins with best practices but luckily there are also a lot of tools that can help you keep your site even more secure.
 >
@@ -462,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[WordPress]] (5)
 > **Definitions:** is called (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -471,8 +464,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How an SSL certificate keeps WordPress sites secure
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980)
+#### [How an SSL certificate keeps WordPress sites secure](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980&t=11)** This used to apply mainly for personal, private, or sensitive information, like credit cards or addresses, but these days, an SSL certificate is pretty compulsory.
 >
-> **[0:23](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980&t=23)** They're so low cost and easy to install and Google prefers that sites have them.
+> **[0:23](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980&t=23)** They're so low cost and easy to install and [[Google]] prefers that sites have them.
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980&t=29)** Most hosting providers will install one for you, sometimes even for free.
 >
@@ -500,11 +492,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980&t=90)** SSL certificates are so important that Google will actually penalize your website if you don't have one.
 >
-> **[1:38](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980&t=98)** They prioritize sites that are as safe and secure as possible, so even if you don't run an e-commerce website, installing an SSL certificate should be a priority.
+> **[1:38](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980&t=98)** They prioritize sites that are as safe and secure as possible, so even if you don't run an [[E-Commerce]] website, installing an SSL certificate should be a priority.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), data (2), web (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[E-Commerce]] (1)
 > **Env Vars:** ssl (5)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (1)
@@ -512,8 +504,7 @@ created: 2026-05-02
 > **Analogies:** think of it like (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to troubleshoot an SSL installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980)
+#### [How to troubleshoot an SSL installation](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +516,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=22)** Let's walk through how to do that now together.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=25)** In your hosting account, go to PHP My admin, that page should look somewhat like this.
+> **[0:25](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=25)** In your hosting account, go to [[PHP]] My admin, that page should look somewhat like this.
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=33)** Find your website along the left-hand side and choose Options.
 >
@@ -533,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=42)** Edit both to contain the HTTPS prefix instead of HTTP.
 >
-> **[0:49](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=49)** If that doesn't work, or if those values both already show HTTPS, log into your WordPress website and go to Settings, you'll see two fields, WordPress address URL, and site address URL.
+> **[0:49](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=49)** If that doesn't work, or if those values both already show HTTPS, log into your [[WordPress]] website and go to Settings, you'll see two fields, WordPress address URL, and site address URL.
 >
 > **[1:05](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=65)** Make sure that both of these have HTTPS instead of HTTP.
 >
@@ -547,7 +538,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=101)** I think of an SSL certificate almost like setting up blocks on every single door and window in your home.
 >
-> **[1:48](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=108)** Mixed content means, you forgot one of those windows.
+> **[1:48](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=108)** Mixed content means, you forgot one of those [[Windows]].
 >
 > **[1:51](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-troubleshoot-an-ssl-installation?u=76281980&t=111)** And since that one is unlocked, it means the entire house is now vulnerable.
 >
@@ -563,7 +554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), database (1), [[PHP]] (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[PHP]] (1), [[Windows]] (1)
 > **Env Vars:** url (8), ssl (6), https (6), http (3), php (1)
 > **CLI Commands:** make (3), php (1), find (1)
 > **UI Navigation:** go to (2)
@@ -571,8 +562,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for setting up an SSL certificate
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-an-ssl-certificate?u=76281980)
+#### [Tools for setting up an SSL certificate](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-an-ssl-certificate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,14 +588,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to choose secure WordPress plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-plugins?u=76281980)
+#### [How to choose secure WordPress plugins](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-plugins?u=76281980&t=0)** - [Instructor] Choosing secure plugins can be a challenge but is completely possible.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-plugins?u=76281980&t=6)** Plugins are one of the most important, complex interesting and powerful parts of a WordPress website.
+> **[0:06](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-plugins?u=76281980&t=6)** Plugins are one of the most important, complex interesting and powerful parts of a [[WordPress]] website.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-plugins?u=76281980&t=12)** Plugins are also one of the most common ways that WordPress websites are made vulnerable.
 >
@@ -677,7 +666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (10), [[Security]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (10)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), just like (1)
 > **Best Practices:** rule of thumb (1)
@@ -685,8 +674,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for keeping WordPress plugins secure
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-plugins-secure-25359020?u=76281980)
+#### [Best practices for keeping WordPress plugins secure](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-plugins-secure-25359020?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,11 +684,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-plugins-secure-25359020?u=76281980&t=17)** 97% of the time, plugins were responsible.
 >
-> **[0:21](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-plugins-secure-25359020?u=76281980&t=21)** 3% of those vulnerabilities were due to themes and only 0.2% were found in the core WordPress software.
+> **[0:21](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-plugins-secure-25359020?u=76281980&t=21)** 3% of those vulnerabilities were due to themes and only 0.2% were found in the core [[WordPress]] software.
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-plugins-secure-25359020?u=76281980&t=29)** When you log into your WordPress website, check the left hand navigation menu.
 >
-> **[0:35](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-plugins-secure-25359020?u=76281980&t=35)** If there's a number beside the word "plugins," that's the number of plugins that have an update ready for you to grab.
+> **[0:35](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-plugins-secure-25359020?u=76281980&t=35)** If there's a number beside the [[Microsoft Word|word]] "plugins," that's the number of plugins that have an update ready for you to grab.
 >
 > **[0:42](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-plugins-secure-25359020?u=76281980&t=42)** These updates typically mean that there is either a new feature in that new version, or, there's a patch or a fix to a problem from a previous version.
 >
@@ -726,7 +714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [wordfence.com](https://wordfence.com) (1)
 > **Versions:** 0.2 (1)
@@ -734,12 +722,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to choose secure WordPress themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-themes?u=76281980)
+#### [How to choose secure WordPress themes](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-themes?u=76281980&t=0)** - [Instructor] Now let's shift the conversation to talk about WordPress themes.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-themes?u=76281980&t=0)** - [Instructor] Now let's shift the conversation to talk about [[WordPress]] themes.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-themes?u=76281980&t=5)** Like plug-ins, there are free and premium ones available, both available through the repository and third parties.
 >
@@ -775,17 +762,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for keeping WordPress themes secure
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-themes-secure?u=76281980)
+#### [Best practices for keeping WordPress themes secure](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-themes-secure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-themes-secure?u=76281980&t=0)** - [Instructor] So now that we know how to find secure themes, let's review some best practices for keeping them secure over the life of your WordPress website.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-themes-secure?u=76281980&t=0)** - [Instructor] So now that we know how to find secure themes, let's review some best practices for keeping them secure over the life of your [[WordPress]] website.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-keeping-wordpress-themes-secure?u=76281980&t=10)** The best practices for making sure your secure theme remains that way are basically the same as for plugins, update consistently and remove inactive themes when you no longer need them.
 >
@@ -814,14 +800,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why spam comments are dangerous for WordPress sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980)
+#### [Why spam comments are dangerous for WordPress sites](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980&t=0)** - [Instructor] As blogs became more popular in the early 2000's, hackers and spammers found ways to take advantage.
 >
-> **[0:08](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980&t=8)** WordPress is at its core a blogging platform.
+> **[0:08](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980&t=8)** [[WordPress]] is at its core a blogging platform.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980&t=12)** So even if you don't utilize posts, and only use pages, it's still possible to accumulate harmful spam.
 >
@@ -835,9 +820,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980&t=37)** These links can also be used to transmit viruses and inject malicious code onto your server or computer.
 >
-> **[0:44](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980&t=44)** This is called an SQL injection attack.
+> **[0:44](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980&t=44)** This is called an [[SQL]] injection attack.
 >
-> **[0:48](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980&t=48)** We spoke in a previous video about the relationship between website files and the servers and databases.
+> **[0:48](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980&t=48)** We spoke in a previous video about the relationship between website files and the servers and [[Databases]].
 >
 > **[0:54](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980&t=54)** Hackers can use spam comments to inject and execute malicious SQL statements on your database.
 >
@@ -847,18 +832,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), database (2), [[WordPress]] (1), [[Databases]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[WordPress]] (1), [[Databases]] (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** previous video (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to prevent WordPress spam comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-prevent-wordpress-spam-comments-25351048?u=76281980)
+#### [How to prevent WordPress spam comments](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-prevent-wordpress-spam-comments-25351048?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-prevent-wordpress-spam-comments-25351048?u=76281980&t=0)** - [Instructor] Preventing WordPress spam comments is possible in a few primary ways.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-prevent-wordpress-spam-comments-25351048?u=76281980&t=0)** - [Instructor] Preventing [[WordPress]] spam comments is possible in a few primary ways.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-prevent-wordpress-spam-comments-25351048?u=76281980&t=5)** Your hosting provider may be able to provide additional resources and tools, but here are the two easiest methods that I recommend you start with.
 >
@@ -894,7 +878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), feature (1)
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **Env Vars:** captcha (2)
 > **Code Identifiers:** recaptcha (1)
 > **UI Navigation:** go to (1)
@@ -902,8 +886,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to remove WordPress spam comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980)
+#### [How to remove WordPress spam comments](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -921,25 +904,25 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=30)** Use the personal option and pay what you can if this is a personal website.
 >
-> **[0:35](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=35)** If you have ads on your site, promote a business or sell products and services through the site, you'll need to invest in a higher plan option.
+> **[0:35](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=35)** If you have ads on your site, promote a business or sell [[Microsoft Products|products]] and services through the site, you'll need to invest in a higher plan option.
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=44)** Add your email address and select the appropriate settings for your site.
 >
 > **[0:49](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=49)** Verify the account with the confirmation code sent to your email address.
 >
-> **[0:54](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=54)** You'll get an API which you can enter manually back on your WordPress dashboard by going to Plugins, Akismet, Settings, Manually enter API key, and finally Connect.
+> **[0:54](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=54)** You'll get an API which you can enter manually back on your [[WordPress]] dashboard by going to Plugins, Akismet, Settings, Manually enter API key, and finally Connect.
 >
 > **[1:08](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=68)** Now, you can configure some of the settings.
 >
 > **[1:12](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=72)** You can have Akismet remove the worst spam or hold spam comments for your review.
 >
-> **[1:18](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=78)** You can opt to display a privacy notice or not.
+> **[1:18](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=78)** You can opt to display a [[Privacy]] notice or not.
 >
 > **[1:21](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-remove-wordpress-spam-comments?u=76281980&t=81)** And you can also now use the Check for spam button on the comments page and it will grab any comments that it deems suspicious and toss them right into the spam folder for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), business (1), [[Microsoft Products|Products]] (1), [[WordPress]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[WordPress]] (1), [[Privacy]] (1)
 > **Prerequisites:** set up (1), you'll need (1), configure (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** click on (1), select the (1)
@@ -951,8 +934,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to make secure WordPress website backups
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-secure-wordpress-website-backups?u=76281980)
+#### [How to make secure WordPress website backups](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-secure-wordpress-website-backups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,19 +956,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), database (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for taking WordPress website backups
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-taking-wordpress-website-backups?u=76281980)
+#### [Best practices for taking WordPress website backups](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-taking-wordpress-website-backups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-taking-wordpress-website-backups?u=76281980&t=0)** - [Instructor] There's some important things to remember when you go about choosing a backup tool, as well as when you go ahead and set up your backups.
 >
-> **[0:07](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-taking-wordpress-website-backups?u=76281980&t=7)** Make sure that when you're taking a WordPress website backup it includes the files and the database.
+> **[0:07](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-taking-wordpress-website-backups?u=76281980&t=7)** Make sure that when you're taking a [[WordPress]] website backup it includes the files and the database.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-taking-wordpress-website-backups?u=76281980&t=13)** Sometimes you'll see the option to back up one or the other.
 >
@@ -1004,11 +984,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-taking-wordpress-website-backups?u=76281980&t=51)** If someone gets into your server or the server goes down, you want to have a safe copy someplace else that is not affected.
 >
-> **[0:58](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-taking-wordpress-website-backups?u=76281980&t=58)** You can store backups on your computer in a Dropbox or Google Drive folder or in another cloud storage system.
+> **[0:58](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-taking-wordpress-website-backups?u=76281980&t=58)** You can store backups on your computer in a Dropbox or [[Google Drive]] folder or in another [[Cloud Storage]] system.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[WordPress]] (1), [[Google Drive]] (1), cloud (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[Google Drive]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
@@ -1020,12 +1000,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How firewalls make your site more secure
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-firewalls-make-your-site-more-secure?u=76281980)
+#### [How firewalls make your site more secure](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-firewalls-make-your-site-more-secure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-firewalls-make-your-site-more-secure?u=76281980&t=0)** - [Instructor] When preparing to launch your WordPress website look at firewall options.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-firewalls-make-your-site-more-secure?u=76281980&t=0)** - [Instructor] When preparing to launch your [[WordPress]] website look at firewall options.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-firewalls-make-your-site-more-secure?u=76281980&t=5)** You can go with third-party tools or firewall options provided by your host.
 >
@@ -1047,17 +1026,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for setting up a WordPress firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-a-wordpress-firewall?u=76281980)
+#### [Tools for setting up a WordPress firewall](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-a-wordpress-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-a-wordpress-firewall?u=76281980&t=0)** - [Instructor] Many good WordPress site hosts will provide you with the choice to enable a firewall directly on the server.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-a-wordpress-firewall?u=76281980&t=0)** - [Instructor] Many good [[WordPress]] site hosts will provide you with the choice to enable a firewall directly on the server.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-a-wordpress-firewall?u=76281980&t=7)** There are also tons of plugins as well as full of third-party tools that allow you to set up a firewall.
 >
@@ -1073,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-a-wordpress-firewall?u=76281980&t=52)** It's combined with continuous site monitoring and can actually show you what the firewall was able to block at any given time.
 >
-> **[1:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-a-wordpress-firewall?u=76281980&t=60)** The Wordfence firewall is a great option which defends against SQL injections.
+> **[1:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-a-wordpress-firewall?u=76281980&t=60)** The Wordfence firewall is a great option which defends against [[SQL]] injections.
 >
 > **[1:06](https://www.linkedin.com/learning/wordpress-building-a-secure-site/tools-for-setting-up-a-wordpress-firewall?u=76281980&t=66)** Remember that from the spam comments video?
 >
@@ -1083,7 +1061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[WordPress]] (2), [[SQL]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[SQL]] (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** ithemes (2)
 > **Prerequisites:** set up (1), install (1)
@@ -1095,16 +1073,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to make your ecommerce site more secure
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980)
+#### [How to make your ecommerce site more secure](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980&t=0)** - [Instructor] If your website is an e-commerce website built with WordPress, there are definitely some additional security measures that you should make sure you have in place.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980&t=0)** - [Instructor] If your website is an [[E-Commerce]] website built with [[WordPress]], there are definitely some additional security measures that you should make sure you have in place.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980&t=10)** In addition to all of the other things mentioned in this course, you're going to want to look into a reputable and strong tool that allows you to take payments.
 >
-> **[0:20](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980&t=20)** My first recommendation would be WooCommerce.
+> **[0:20](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980&t=20)** My first recommendation would be [[WooCommerce]].
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980&t=23)** WooCommerce is built specifically for taking payments through a WordPress website.
 >
@@ -1122,19 +1099,18 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980&t=69)** PCI compliance means that your website, whether it processes, stores, or transmits credit card information, maintains a secure environment.
 >
-> **[1:19](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980&t=79)** Check out this course on LinkedIn Learning that goes through all of the steps to lock down PCI compliance.
+> **[1:19](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980&t=79)** Check out this course on [[LinkedIn]] Learning that goes through all of the steps to lock down PCI compliance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (8), [[WordPress]] (3), [[E-Commerce]] (2), [[Security]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (8), [[WordPress]] (3), [[E-Commerce]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pci (3)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for securing an ecommerce site
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-securing-an-ecommerce-site?u=76281980)
+#### [Best practices for securing an ecommerce site](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-securing-an-ecommerce-site?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,9 +1128,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-securing-an-ecommerce-site?u=76281980&t=53)** It is more expensive, but it's definitely worth it.
 >
-> **[0:57](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-securing-an-ecommerce-site?u=76281980&t=57)** If you're using something like WooCommerce, remember that WooCommerce itself does not actually process the payments.
+> **[0:57](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-securing-an-ecommerce-site?u=76281980&t=57)** If you're using something like [[WooCommerce]], remember that WooCommerce itself does not actually process the payments.
 >
-> **[1:05](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-securing-an-ecommerce-site?u=76281980&t=65)** It just creates products, pages, functionalities, interfaces and reporting so that your users can move through the process of making a purchase and you can more easily build out your store.
+> **[1:05](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-securing-an-ecommerce-site?u=76281980&t=65)** It just creates [[Microsoft Products|products]], pages, functionalities, interfaces and reporting so that your users can move through the process of making a purchase and you can more easily build out your store.
 >
 > **[1:16](https://www.linkedin.com/learning/wordpress-building-a-secure-site/best-practices-for-securing-an-ecommerce-site?u=76281980&t=76)** Also, when you're accepting credit card payments through your Ecommerce website, make sure that you're using a secured payment gateway.
 >
@@ -1178,7 +1154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (4), business (2), data (2), css (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (4), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ssl (4), css (1)
 > **CLI Commands:** make (2)
 > **URLs:** [authorize.net](https://authorize.net) (1)
@@ -1189,12 +1165,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure your WordPress site by tweaking the wp-config file
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980)
+#### [Secure your WordPress site by tweaking the wp-config file](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980&t=0)** - [Narrator] Arguably, the most important file in the WordPress file structure is the WP Config file.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980&t=0)** - [Narrator] Arguably, the most important file in the [[WordPress]] file structure is the WP Config file.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980&t=6)** This is the very first file that any web user has to access in order to get connected to your database and make WordPress run properly.
 >
@@ -1212,7 +1187,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980&t=57)** In the WordPress backend, there's a File Editor available in case you wanted to add, remove, or edit code directly from the WordPress dashboard.
 >
-> **[1:06](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980&t=66)** It can be handy, but it also poses a pretty large security risk.
+> **[1:06](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980&t=66)** It can be handy, but it also poses a pretty large [[Security Risk]].
 >
 > **[1:11](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980&t=71)** If someone accesses your dashboard, they immediately have access to all of your site files.
 >
@@ -1230,27 +1205,26 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980&t=118)** Find this line of code that establishes the table prefix, change it to something else, whatever you want, and then save your changes.
 >
-> **[2:08](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980&t=128)** Finally, in your hosting account, go to PHP My Admin and change all of the table names to match.
+> **[2:08](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980&t=128)** Finally, in your hosting account, go to [[PHP]] My Admin and change all of the table names to match.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (8), database (3), web (1), [[Security]] (1), feature (1)
+> **Frameworks & Libraries:** [[WordPress]] (8), [[Security Risk]] (1), [[PHP]] (1)
 > **CLI Commands:** make (2), find (2), php (1)
 > **Env Vars:** wp_ (1), php (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Secure your WordPress site by disabling XML-RPC
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-xml-rpc?u=76281980)
+#### [Secure your WordPress site by disabling XML-RPC](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-xml-rpc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-xml-rpc?u=76281980&t=0)** - [Instructor] You can further secure your WordPress site by disabling XML-RPC.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-xml-rpc?u=76281980&t=0)** - [Instructor] You can further secure your [[WordPress]] site by disabling XML-RPC.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-xml-rpc?u=76281980&t=6)** And what does that mean?
 >
-> **[0:07](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-xml-rpc?u=76281980&t=7)** XML-RPC is a procedure that allows you to post on your blog remotely using web blog clients like Windows Live Writer or the WordPress mobile app.
+> **[0:07](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-xml-rpc?u=76281980&t=7)** XML-RPC is a procedure that allows you to post on your blog remotely using web blog clients like [[Windows]] Live Writer or the WordPress mobile app.
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-xml-rpc?u=76281980&t=18)** It used to be disabled by default, but in recent versions of WordPress it's enabled by default.
 >
@@ -1260,23 +1234,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), web (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Windows]] (1)
 > **Env Vars:** rpc (3), xml (2), cml (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure your WordPress site by disabling PHP executions
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-php-executions?u=76281980)
+#### [Secure your WordPress site by disabling PHP executions](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-php-executions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-php-executions?u=76281980&t=0)** - [Instructor] In order for users to easily upload themes, plugins, images and videos onto your site, WordPress makes certain directories writable automatically.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-php-executions?u=76281980&t=0)** - [Instructor] In order for users to easily upload themes, plugins, images and videos onto your site, [[WordPress]] makes certain directories writable automatically.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-php-executions?u=76281980&t=10)** When a directory is writeable, that basically just means it can be edited.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-php-executions?u=76281980&t=14)** This is handy for the usability of your site as you can make certain things writable for certain users, et cetera but it can open up a backdoor access to hackers who want to upload malware to the site.
 >
-> **[0:27](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-php-executions?u=76281980&t=27)** One way to prevent this is to disable PHP execution in some directories via the htaccess file.
+> **[0:27](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-php-executions?u=76281980&t=27)** One way to prevent this is to disable [[PHP]] execution in some directories via the htaccess file.
 >
 > **[0:35](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-php-executions?u=76281980&t=35)** To start this process, download your htaccess file.
 >
@@ -1300,8 +1273,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure your WordPress site by disabling directory indexing and browsing
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-directory-indexing-and-browsing?u=76281980)
+#### [Secure your WordPress site by disabling directory indexing and browsing](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-disabling-directory-indexing-and-browsing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1325,8 +1297,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure your WordPress site by tightening file/folder permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tightening-file-folder-permissions?u=76281980)
+#### [Secure your WordPress site by tightening file/folder permissions](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tightening-file-folder-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1334,7 +1305,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tightening-file-folder-permissions?u=76281980&t=7)** You want to make sure that only certain people have access to change, remove, or add to the files and folders that make up your website.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tightening-file-folder-permissions?u=76281980&t=17)** Securing your WordPress site by tightening file and folder permissions, it's a very good idea and it's a pretty easy to do.
+> **[0:17](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tightening-file-folder-permissions?u=76281980&t=17)** Securing your [[WordPress]] site by tightening file and folder permissions, it's a very good idea and it's a pretty easy to do.
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tightening-file-folder-permissions?u=76281980&t=23)** First, locate the directory or file you want to set permissions for.
 >
@@ -1372,20 +1343,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/next-steps-25357044?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/wordpress-building-a-secure-site/next-steps-25357044?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/next-steps-25357044?u=76281980&t=0)** - Congratulations, you've completed this course and have more than enough information to secure your WordPress website, but the journey does not end here.
+> **[0:00](https://www.linkedin.com/learning/wordpress-building-a-secure-site/next-steps-25357044?u=76281980&t=0)** - Congratulations, you've completed this course and have more than enough information to secure your [[WordPress]] website, but the journey does not end here.
 >
-> **[0:10](https://www.linkedin.com/learning/wordpress-building-a-secure-site/next-steps-25357044?u=76281980&t=10)** I'd encourage you to search LinkedIn Learnings library of courses if you want to learn more about plugins, themes, firewalls, e-commerce websites, hosting, or any other topic that we touched on.
+> **[0:10](https://www.linkedin.com/learning/wordpress-building-a-secure-site/next-steps-25357044?u=76281980&t=10)** I'd encourage you to search [[LinkedIn]] Learnings library of courses if you want to learn more about plugins, themes, firewalls, [[E-Commerce]] websites, hosting, or any other topic that we touched on.
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-building-a-secure-site/next-steps-25357044?u=76281980&t=23)** I'm so excited for all the amazing things that you are going to build.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (1), [[Search]] (1), [[LinkedIn]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[LinkedIn]] (1), [[E-Commerce]] (1)
 > **Speakers:** - congratulations (1)
 
 

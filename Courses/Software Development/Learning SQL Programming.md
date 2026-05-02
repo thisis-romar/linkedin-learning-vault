@@ -95,16 +95,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning SQL programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980)
+#### [Learning SQL programming](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=0)** - [Scott] Our world is driven by data, and a lot of that data is stored in databases.
+> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=0)** - [Scott] Our world is driven by data, and a lot of that data is stored in [[Databases]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=5)** In order to unlock the information and insights stored in databases, we need a way of asking for data.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=10)** One common language for asking about and modifying data in databases is SQL.
+> **[0:10](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=10)** One common language for asking about and modifying data in databases is [[SQL]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=16)** In this course, I'll explain what SQL is, and I'll take you through an introduction to the language.
 >
@@ -122,25 +121,24 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=52)** We'll end with a quick look at overcoming some common pitfalls in working with SQL.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=57)** This course will help prepare you to work with SQL in programming, data science, or data reporting applications.
+> **[0:57](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=57)** This course will help prepare you to work with SQL in programming, [[Data Science]], or [[Data Reporting]] applications.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=64)** And it will provide a foundation for deeper learning about database administration, advanced SQL, and developing with data.
+> **[1:04](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=64)** And it will provide a foundation for deeper learning about [[Database Administration]], advanced SQL, and developing with data.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980&t=70)** Let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (6), [[Databases]] (4), database (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Databases]] (4), [[Data Science]] (1), [[Data Reporting]] (1), [[Database Administration]] (1)
 > **Env Vars:** sql (6)
 > **Prerequisites:** setup (1), you'll need (1)
 > **Speakers:** - [scott] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=0)** - [Instructor] The exercise files for this course, which contain the database that we'll be working with as we learn SQL, are available through GitHub to anyone watching the course.
+> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=0)** - [Instructor] The exercise files for this course, which contain the database that we'll be working with as we learn [[SQL]], are available through [[GitHub]] to anyone watching the course.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=9)** The files are divided into a few folders and I want to take a moment to explain those before we explore the database and take a look at the options for following along with this course.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=55)** The SQLite folder contains the database file that I'll be using in the course, and it's the one that I recommend you use as well.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=62)** The other DBMS folder contains the same database but in formats that can be imported into software like Microsoft SQL Server or other database management systems.
+> **[1:02](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=62)** The other DBMS folder contains the same database but in formats that can be imported into software like [[Microsoft SQL Server]] or other [[Database Management]] systems.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=71)** And the Notes folder contains a text document with all the commands that I use in the course for your reference.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=87)** It can also be helpful to keep notes as you go along.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=90)** If you plan to do so, I recommend Visual Studio Code for Mac, Windows, or Linux, or you can use the plain text mode of your systems text editor.
+> **[1:30](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=90)** If you plan to do so, I recommend Visual Studio Code for Mac, [[Windows]], or [[Linux]], or you can use the plain text mode of your systems text editor.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=98)** The database that the course uses, which is called Quiz Data, includes two tables.
 >
@@ -190,7 +188,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=173)** I don't necessarily recommend this method because it can become somewhat complicated, but the files are available if you need to take this route.
 >
-> **[3:01](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=181)** The third option, which is useful if you aren't able to install software on your computer or if you want to work in an environment that isn't stuck on one computer, is to use GitHub Codespaces.
+> **[3:01](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=181)** The third option, which is useful if you aren't able to install software on your computer or if you want to work in an environment that isn't stuck on one computer, is to use GitHub [[Codespaces]].
 >
 > **[3:10](https://www.linkedin.com/learning/learning-sql-programming-8382385/exercise-files-19872824?u=76281980&t=190)** GitHub Codespaces is an environment that runs in the browser without any software needing to be installed on your local machine.
 >
@@ -252,7 +250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[GitHub]] (10), [[Codespaces]] (6), [[SQL]] (4), management (2)
+> **Frameworks & Libraries:** [[GitHub]] (10), [[Codespaces]] (6), [[SQL]] (4), [[Database Management]] (2), [[Windows]] (2)
 > **Tools:** github (10), visual studio (1), terminal (1)
 > **Exercise Files:** exercise files (6), zip file (2), download the (1)
 > **CLI Commands:** find (4), make (2), unzip (1)
@@ -261,12 +259,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (3), click on (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 
-#### Exploring DB Browser for SQLite
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/exploring-db-browser-for-sqlite?u=76281980)
+#### [Exploring DB Browser for SQLite](https://www.linkedin.com/learning/learning-sql-programming-8382385/exploring-db-browser-for-sqlite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/exploring-db-browser-for-sqlite?u=76281980&t=0)** - [Instructor] When we work with SQL, we need some kind of tool that lets us write a statement and then send that statement to database software that will interpret it and give us a result.
+> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/exploring-db-browser-for-sqlite?u=76281980&t=0)** - [Instructor] When we work with [[SQL]], we need some kind of tool that lets us write a statement and then send that statement to database software that will interpret it and give us a result.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-sql-programming-8382385/exploring-db-browser-for-sqlite?u=76281980&t=8)** There are many different programs and applications that can understand SQL.
 >
@@ -278,7 +275,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-sql-programming-8382385/exploring-db-browser-for-sqlite?u=76281980&t=27)** And I don't want to get bogged down with that here at the beginning.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-sql-programming-8382385/exploring-db-browser-for-sqlite?u=76281980&t=30)** You can follow along with this course on your desktop or laptop computer with a free application for Windows, Mac and Linux called DB Browser for SQLite.
+> **[0:30](https://www.linkedin.com/learning/learning-sql-programming-8382385/exploring-db-browser-for-sqlite?u=76281980&t=30)** You can follow along with this course on your desktop or laptop computer with a free application for [[Windows]], Mac and [[Linux]] called DB Browser for SQLite.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-sql-programming-8382385/exploring-db-browser-for-sqlite?u=76281980&t=38)** It's available from [SQLitebrowser.org/dl](https://SQLitebrowser.org/dl).
 >
@@ -416,7 +413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (16), database (12), data (4), application (3), [[Windows]] (3)
+> **Frameworks & Libraries:** [[SQL]] (16), [[Windows]] (3), [[Linux]] (2)
 > **Env Vars:** sql (16)
 > **CLI Commands:** find (3), make (2), unzip (1)
 > **Prerequisites:** install (3), setup (1), set up (1)
@@ -425,8 +422,7 @@ created: 2026-05-02
 > **URLs:** [sqlitebrowser.org](https://sqlitebrowser.org) (1)
 > **Cross-References:** go back to (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/learning-sql-programming-8382385/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +432,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-sql-programming-8382385/coderpad-tour?u=76281980&t=13)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the courses videos.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-sql-programming-8382385/coderpad-tour?u=76281980&t=19)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:19](https://www.linkedin.com/learning/learning-sql-programming-8382385/coderpad-tour?u=76281980&t=19)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-sql-programming-8382385/coderpad-tour?u=76281980&t=25)** The code challenge has three areas, instructions in the top left, a console for output in the bottom left, and the code editor for your answer on the right.
 >
@@ -460,13 +456,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a database?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980)
+#### [What is a database?](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -492,13 +487,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=48)** Together, fields and records make up a table, and one or more tables make up a database.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=54)** With this kind of basic information in one table, we could use a spreadsheet like Excel to keep track of our data.
+> **[0:54](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=54)** With this kind of basic information in one table, we could use a spreadsheet like [[Microsoft Excel|Excel]] to keep track of our data.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=60)** But databases allow us not only to add more tables, but also to set up rules and relationships between the tables.
+> **[1:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=60)** But [[Databases]] allow us not only to add more tables, but also to set up rules and relationships between the tables.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=67)** The layout and definition of how fields, tables, and relationships are set up is called the schema of the database.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=74)** Creating setups with relationships and other parameters is beyond the scope of this course, but if you want to learn more about how these relational databases work, be sure to check out Programming Foundations: Databases here on LinkedIn Learning.
+> **[1:14](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=74)** Creating setups with relationships and other parameters is beyond the scope of this course, but if you want to learn more about how these [[Relational Databases]] work, be sure to check out [[Programming Foundations]]: Databases here on [[LinkedIn]] Learning.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=87)** While the row and column arrangement of data in a table can look like a spreadsheet, it's difficult to ask some kinds of questions about this data using a spreadsheet.
 >
@@ -506,23 +501,22 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=102)** But if we wanted to ask how many people in New York like the color purple, it gets a little bit more complicated.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=108)** That's where databases become helpful, and that's why we have SQL.
+> **[1:48](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-a-database?u=76281980&t=108)** That's where databases become helpful, and that's why we have [[SQL]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (3), [[Databases]] (3), [[Microsoft Excel|Excel]] (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Microsoft Excel|Excel]] (1), [[Relational Databases]] (1), [[Programming Foundations]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1), is an  (1), is called (1)
 > **Prerequisites:** set up (2), before we start (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is SQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980)
+#### [What is SQL?](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=0)** - [Instructor] SQL stands for Structured Query Language, which is a language for manipulating and defining data in databases.
+> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=0)** - [Instructor] [[SQL]] stands for Structured Query Language, which is a language for manipulating and defining data in [[Databases]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=7)** It first came into use in 1974 and became a standard in 1986.
 >
@@ -548,19 +542,19 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=74)** To make questions like this approachable for a database, we need to break them down into a series of smaller questions that are structured in a way that the database software can understand.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=83)** Because it's such a powerful way of thinking about data, SQL has been adopted into many database products.
+> **[1:23](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=83)** Because it's such a powerful way of thinking about data, SQL has been adopted into many database [[Microsoft Products|products]].
 >
 > **[1:30](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=90)** Some products support the SQL standard and add other features on top of it, and some support part, though not all, of the SQL standard.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=98)** In this course, I'll cover the basic and widely supported parts of SQL that you're likely to use, whether you're working with Microsoft Transact-SQL or T-SQL, MySQL, Postgres, SQLite, and others.
+> **[1:38](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=98)** In this course, I'll cover the basic and widely supported parts of SQL that you're likely to use, whether you're working with [[Microsoft]] [[Transact-SQL (T-SQL)|Transact-SQL]] or T-SQL, [[MySQL]], [[PostgreSQL|Postgres]], SQLite, and others.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=111)** The way we say the name of this language can sometimes be a little bit confusing.
 >
 > **[1:56](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=116)** The language is called SQL, or Structured Query Language, but was originally called SEQUEL, for Structured English Query Language.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=124)** Maybe because of this, or because the letters themselves look a little bit like the English word sequel, some people pronounce the name of the language this way instead.
+> **[2:04](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=124)** Maybe because of this, or because the letters themselves look a little bit like the English [[Microsoft Word|word]] sequel, some people pronounce the name of the language this way instead.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=132)** This confusion extends to products with the name of the language in their names, like MySQL or MySQL or Microsoft SQL Server.
+> **[2:12](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=132)** This confusion extends to products with the name of the language in their names, like MySQL or MySQL or [[Microsoft SQL Server]].
 >
 > **[2:20](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=140)** I tend to prefer switching back and forth a little bit, calling the language itself by the letters and saying sequel when it's easier to pronounce that way, or when it flows better as part of the name of a product.
 >
@@ -622,7 +616,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=312)** SQL statements can also be used to add, modify, or delete data in a database or even to create, modify, and remove tables.
 >
-> **[5:20](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=320)** When we use SQL to work with data in existing tables, that's SQL being used as a DML, or data manipulation language.
+> **[5:20](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=320)** When we use SQL to work with data in existing tables, that's SQL being used as a DML, or [[Data Manipulation]] language.
 >
 > **[5:28](https://www.linkedin.com/learning/learning-sql-programming-8382385/what-is-sql?u=76281980&t=328)** These operations where we change data are generally called CRUD, short for create, read, update, and delete.
 >
@@ -640,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (23), database (17), data (9), [[Databases]] (4), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[SQL]] (23), [[Databases]] (4), [[Microsoft Products|Products]] (3), [[MySQL]] (3), [[Data Manipulation]] (2)
 > **Env Vars:** sql (25), crud (3), sequel (1), dml (1), ddl (1)
 > **CLI Commands:** make (8), mysql (3), find (1)
 > **Definitions:** is a  (3), is called (2), stands for (1), short for (1)
@@ -653,12 +647,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ask for data with SELECT
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980)
+#### [Ask for data with SELECT](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980&t=0)** - [Instructor] The most basic way of asking for information with SQL is to use a select statement.
+> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980&t=0)** - [Instructor] The most basic way of asking for information with [[SQL]] is to use a select statement.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980&t=5)** Select statements start with the select keyword, which tells the database software that we want it to select, or choose, or collect specific information from the database and return it to us.
 >
@@ -728,11 +721,11 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980&t=266)** The select statement gives us the ability to read data and that's one of the actions that's represented by the acronym CRUD.
 >
-> **[4:33](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980&t=273)** For the rest of this chapter, we'll take a look at how to add on to basic select statements to find the data we need and get it in the form we want.
+> **[4:33](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980&t=273)** For the [[Representational State Transfer (REST)|rest]] of this chapter, we'll take a look at how to add on to basic select statements to find the data we need and get it in the form we want.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), data (9), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** select (2), sql (1), crud (1)
 > **Code Identifiers:** first_name (2), last_name (1)
 > **CLI Commands:** make (1), find (1)
@@ -741,8 +734,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 
-#### Narrow down a query with WHERE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/narrow-down-a-query-with-where?u=76281980)
+#### [Narrow down a query with WHERE](https://www.linkedin.com/learning/learning-sql-programming-8382385/narrow-down-a-query-with-where?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -812,7 +804,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/learning-sql-programming-8382385/narrow-down-a-query-with-where?u=76281980&t=236)** FROM people SELECT these fields WHERE this is true.
 >
-> **[3:59](https://www.linkedin.com/learning/learning-sql-programming-8382385/narrow-down-a-query-with-where?u=76281980&t=239)** But again, this is not how the database software needs it so it's not valid SQL, so it fails.
+> **[3:59](https://www.linkedin.com/learning/learning-sql-programming-8382385/narrow-down-a-query-with-where?u=76281980&t=239)** But again, this is not how the database software needs it so it's not valid [[SQL]], so it fails.
 >
 > **[4:07](https://www.linkedin.com/learning/learning-sql-programming-8382385/narrow-down-a-query-with-where?u=76281980&t=247)** Remembering the ordering of clauses can be tricky and it's worth practicing.
 >
@@ -822,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** where (5), select (4), sql (1)
 > **SQL:** where (5), select (4)
 > **Code Identifiers:** shirt_or_hat (4), state_code (2)
@@ -830,8 +822,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Adding more criteria to a statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/adding-more-criteria-to-a-statement?u=76281980)
+#### [Adding more criteria to a statement](https://www.linkedin.com/learning/learning-sql-programming-8382385/adding-more-criteria-to-a-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-sql-programming-8382385/adding-more-criteria-to-a-statement?u=76281980&t=24)** To do that, I would write SELECT first_name comma last_name FROM people WHERE state_code=CA AND shirt_or_hat=shirt.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-sql-programming-8382385/adding-more-criteria-to-a-statement?u=76281980&t=37)** This AND here, is a logical operator and SQL supports these logical operators as part of a predicate.
+> **[0:37](https://www.linkedin.com/learning/learning-sql-programming-8382385/adding-more-criteria-to-a-statement?u=76281980&t=37)** This AND here, is a logical operator and [[SQL]] supports these logical operators as part of a predicate.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-sql-programming-8382385/adding-more-criteria-to-a-statement?u=76281980&t=44)** You can chain logical conditions together if you want to ask for records that have more conditions fulfilled.
 >
@@ -887,7 +878,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/learning-sql-programming-8382385/adding-more-criteria-to-a-statement?u=76281980&t=200)** So we need to add some parentheses here, around the state selection to make it clear that we want to get back either California or Colorado and then ask within that set for records that match shirt.
 >
-> **[3:33](https://www.linkedin.com/learning/learning-sql-programming-8382385/adding-more-criteria-to-a-statement?u=76281980&t=213)** Parentheses around conditions let us tell the database what to interpret first, similar to how we'd use parentheses in algebra to say do this part first before evaluating the rest of the problem.
+> **[3:33](https://www.linkedin.com/learning/learning-sql-programming-8382385/adding-more-criteria-to-a-statement?u=76281980&t=213)** Parentheses around conditions let us tell the database what to interpret first, similar to how we'd use parentheses in algebra to say do this part first before evaluating the [[Representational State Transfer (REST)|rest]] of the problem.
 >
 > **[3:45](https://www.linkedin.com/learning/learning-sql-programming-8382385/adding-more-criteria-to-a-statement?u=76281980&t=225)** Now I have what I expected, no hats, only shirts and only in California and Colorado.
 >
@@ -901,7 +892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (2), [[SQL]] (1), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** shirt_or_hat (7), state_code (4), first_name (1), last_name (1)
 > **Env Vars:** select (3), where (2), sql (1)
 > **SQL:** select (3), where (2)
@@ -910,8 +901,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Warnings:** common mistake (1), troubleshoot (1)
 
-#### Broadening and limiting responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/broadening-and-limiting-responses?u=76281980)
+#### [Broadening and limiting responses](https://www.linkedin.com/learning/learning-sql-programming-8382385/broadening-and-limiting-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,7 +971,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (1), [[Search]] (1)
 > **Env Vars:** limit (4), llc (1), offset (1)
 > **Code Identifiers:** state_code (5)
 > **Analogies:** for example (2)
@@ -989,8 +978,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organize responses with ORDER BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/organize-responses-with-order-by?u=76281980)
+#### [Organize responses with ORDER BY](https://www.linkedin.com/learning/learning-sql-programming-8382385/organize-responses-with-order-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,11 +1030,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/learning-sql-programming-8382385/organize-responses-with-order-by?u=76281980&t=163)** Returning data in a particular order is a useful thing to do in reporting and when you're working with data in an application.
 >
-> **[2:50](https://www.linkedin.com/learning/learning-sql-programming-8382385/organize-responses-with-order-by?u=76281980&t=170)** You might, for example, want to return records about customer support cases in descending order by ticket ID or date to save the end user having to sort the data you provide themselves in order to find recent tickets.
+> **[2:50](https://www.linkedin.com/learning/learning-sql-programming-8382385/organize-responses-with-order-by?u=76281980&t=170)** You might, for example, want to return records about [[Customer Support]] cases in descending order by ticket ID or date to save the end user having to sort the data you provide themselves in order to find recent tickets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (3), application (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1)
 > **Env Vars:** order (3), asc (1), desc (1), select (1)
 > **Code Identifiers:** state_code (2), last_name (2), first_name (1)
 > **SQL:** order by (3), select (1)
@@ -1055,8 +1043,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** earlier in (1)
 
-#### Find information about the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/find-information-about-the-data?u=76281980)
+#### [Find information about the data](https://www.linkedin.com/learning/learning-sql-programming-8382385/find-information-about-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,15 +1115,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (3)
 > **Env Vars:** count (3), select (2), order (2), length (1), distinct (1)
 > **SQL:** select (2), order by (2), where (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** first_name (1), state_code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Retrieve data from the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/solution-retrieve-data-from-the-database-19873799?u=76281980)
+#### [Solution: Retrieve data from the database](https://www.linkedin.com/learning/learning-sql-programming-8382385/solution-retrieve-data-from-the-database-19873799?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,7 +1157,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** shirt_or_hat (2), last_name (2), first_name (1), state_code (1)
 > **Env Vars:** order (2), select (1), desc (1)
 > **SQL:** order by (2), select (1)
@@ -1183,12 +1167,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ask for data across two or more tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980)
+#### [Ask for data across two or more tables](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980&t=0)** - [Instructor] One advantage of working with databases is that we can use data for more than one table to answer a query.
+> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980&t=0)** - [Instructor] One advantage of working with [[Databases]] is that we can use data for more than one table to answer a query.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980&t=6)** Of course, you can work with data across many spreadsheets using a lookup function, and in a database, to accomplish the same thing, we use the join keyword.
 >
@@ -1204,7 +1187,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980&t=58)** Running this query here would result in this response, showing records from both tables snapped together based on that connection I made between the state code on the people table and the state abbreviation from the states table.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980&t=70)** Don't worry too much about the SQL statement here, though.
+> **[1:10](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980&t=70)** Don't worry too much about the [[SQL]] statement here, though.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980&t=72)** We'll build up to this in just a moment.
 >
@@ -1312,7 +1295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (8), next (2), [[Databases]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2), is called (1)
 > **Env Vars:** sql (1), ppl (1)
@@ -1321,8 +1304,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** good practice (1)
 
-#### Understand JOIN types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/understand-join-types?u=76281980)
+#### [Understand JOIN types](https://www.linkedin.com/learning/learning-sql-programming-8382385/understand-join-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1380,7 +1362,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/learning-sql-programming-8382385/understand-join-types?u=76281980&t=204)** This gives us the matches and also unmatched records from both the left and right tables.
 >
-> **[3:30](https://www.linkedin.com/learning/learning-sql-programming-8382385/understand-join-types?u=76281980&t=210)** There are more complex kinds of joins that you may come across as you extend your skills with SQL, but these are the basics.
+> **[3:30](https://www.linkedin.com/learning/learning-sql-programming-8382385/understand-join-types?u=76281980&t=210)** There are more complex kinds of joins that you may come across as you extend your skills with [[SQL]], but these are the basics.
 >
 > **[3:36](https://www.linkedin.com/learning/learning-sql-programming-8382385/understand-join-types?u=76281980&t=216)** You should also be aware that not all software supports all of the kinds of joins that are available in SQL.
 >
@@ -1430,13 +1412,13 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/learning-sql-programming-8382385/understand-join-types?u=76281980&t=387)** Interesting.
 >
-> **[6:28](https://www.linkedin.com/learning/learning-sql-programming-8382385/understand-join-types?u=76281980&t=388)** Joins can be confusing, but they're also extremely helpful for making use of the power of databases to represent and retrieve data.
+> **[6:28](https://www.linkedin.com/learning/learning-sql-programming-8382385/understand-join-types?u=76281980&t=388)** Joins can be confusing, but they're also extremely helpful for making use of the power of [[Databases]] to represent and retrieve data.
 >
 > **[6:35](https://www.linkedin.com/learning/learning-sql-programming-8382385/understand-join-types?u=76281980&t=395)** It can be helpful to draw out diagrams to support your thinking about joins as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (3), database (1), power (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (1)
 > **Analogies:** for example (3), similar to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (3)
@@ -1444,8 +1426,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping results
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/grouping-results?u=76281980)
+#### [Grouping results](https://www.linkedin.com/learning/learning-sql-programming-8382385/grouping-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1529,11 +1510,11 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/learning-sql-programming-8382385/grouping-results?u=76281980&t=213)** If you're not, you'll get a response that's basically meaningless.
 >
-> **[3:36](https://www.linkedin.com/learning/learning-sql-programming-8382385/grouping-results?u=76281980&t=216)** The database will dutifully report back what you asked for, so be sure to word your questions carefully.
+> **[3:36](https://www.linkedin.com/learning/learning-sql-programming-8382385/grouping-results?u=76281980&t=216)** The database will dutifully report back what you asked for, so be sure to [[Microsoft Word|word]] your questions carefully.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** group (7), select (4), count (4)
 > **Code Identifiers:** first_name (4), quiz_points (4), state_code (3), last_name (2)
 > **SQL:** group by (7), select (4)
@@ -1542,8 +1523,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
-#### Solution: Practice with JOINs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/solution-practice-with-joins-19873791?u=76281980)
+#### [Solution: Practice with JOINs](https://www.linkedin.com/learning/learning-sql-programming-8382385/solution-practice-with-joins-19873791?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,7 +1555,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), teams (1)
 > **SQL:** group by (2), select (1)
 > **Env Vars:** group (2), select (1)
 > **Code Identifiers:** state_abbreviation (1), state_code (1)
@@ -1589,8 +1568,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data types in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980)
+#### [Data types in SQL](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1598,11 +1576,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980&t=8)** Depending on how we use these fields, we may not really care what kind of information they represent.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980&t=13)** But most databases require us to define what kind of data a particular field will hold when we build a table.
+> **[0:13](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980&t=13)** But most [[Databases]] require us to define what kind of data a particular field will hold when we build a table.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980&t=20)** Different kinds of data are stored in different ways, and that's something the database software mostly takes care of.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980&t=25)** But these different kinds of information storage, these data types offer us certain abilities when writing SQL statements.
+> **[0:25](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980&t=25)** But these different kinds of information storage, these data types offer us certain abilities when writing [[SQL]] statements.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980&t=32)** For example, it doesn't make sense to ask the database to add up the value of all the names in a table.
 >
@@ -1676,7 +1654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (7), [[SQL]] (4), [[Databases]] (1), game (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (1)
 > **Env Vars:** sql (4)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
@@ -1685,12 +1663,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Math in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/math-in-sql?u=76281980)
+#### [Math in SQL](https://www.linkedin.com/learning/learning-sql-programming-8382385/math-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/math-in-sql?u=76281980&t=0)** - [Narrator] SQL supports various ways of doing math, and using mathematical functions on values and records.
+> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/math-in-sql?u=76281980&t=0)** - [Narrator] [[SQL]] supports various ways of doing math, and using mathematical functions on values and records.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-sql-programming-8382385/math-in-sql?u=76281980&t=6)** The most basic way of doing math and SQL is with a select statement and a mathematical expression.
 >
@@ -1706,7 +1683,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-sql-programming-8382385/math-in-sql?u=76281980&t=52)** We've used the equals operator already, but we can use these other competitors as well.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-sql-programming-8382385/math-in-sql?u=76281980&t=56)** Database management systems also provide mathematical functions that we can use, and to see which ones your software supports, take a look at its documentation.
+> **[0:56](https://www.linkedin.com/learning/learning-sql-programming-8382385/math-in-sql?u=76281980&t=56)** [[Database Management]] systems also provide mathematical functions that we can use, and to see which ones your software supports, take a look at its documentation.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-sql-programming-8382385/math-in-sql?u=76281980&t=65)** Let's take a quick look at doing some addition with integers.
 >
@@ -1834,7 +1811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), database (4), management (1), application (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Database Management]] (1)
 > **Env Vars:** sql (4), avg (2)
 > **CLI Commands:** find (2)
 > **Versions:** 3.0 (1), 0.333 (1)
@@ -1842,8 +1819,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [narrator] (1)
 
-#### Compound Select
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/compound-select?u=76281980)
+#### [Compound Select](https://www.linkedin.com/learning/learning-sql-programming-8382385/compound-select?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1903,15 +1879,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1), [[Search]] (1)
 > **Code Identifiers:** quiz_points (5), first_name (1), last_name (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/transforming-data?u=76281980)
+#### [Transforming data](https://www.linkedin.com/learning/learning-sql-programming-8382385/transforming-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1939,9 +1913,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-sql-programming-8382385/transforming-data?u=76281980&t=63)** And for that, we'll use the substring function, referring to a smaller piece of a larger string of text.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-sql-programming-8382385/transforming-data?u=76281980&t=69)** In most SQL implementations, substring is the name of the function.
+> **[1:09](https://www.linkedin.com/learning/learning-sql-programming-8382385/transforming-data?u=76281980&t=69)** In most [[SQL]] implementations, substring is the name of the function.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-sql-programming-8382385/transforming-data?u=76281980&t=74)** But here in SQLite, it's SUBSTR, which is a substring of the word substring.
+> **[1:14](https://www.linkedin.com/learning/learning-sql-programming-8382385/transforming-data?u=76281980&t=74)** But here in SQLite, it's SUBSTR, which is a substring of the [[Microsoft Word|word]] substring.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-sql-programming-8382385/transforming-data?u=76281980&t=80)** Let's use substring on the last name.
 >
@@ -2047,7 +2021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (8), [[SQL]] (3), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (3), cast (3), replace (2), select (1), lower (1)
 > **Code Identifiers:** last_name (5), quiz_points (2), first_name (1)
 > **Definitions:** is a  (3)
@@ -2056,14 +2030,13 @@ created: 2026-05-02
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** scroll down (1)
 
-#### Creating aliases with AS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/creating-aliases-with-as?u=76281980)
+#### [Creating aliases with AS](https://www.linkedin.com/learning/learning-sql-programming-8382385/creating-aliases-with-as?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/creating-aliases-with-as?u=76281980&t=0)** - [Instructor] It's been a little bit subtle so far, but the names of the fields that we get back when we make a query, and subsequently the names of the field we get in a program or something we'd write, are the names of fields or expressions that we put into the statement to begin with.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-sql-programming-8382385/creating-aliases-with-as?u=76281980&t=14)** Usually this makes sense, but sometimes if we have a little bit of a lengthy way of creating a field, or want to be more clear on our output, for example, if we're taking the results directly into a spreadsheet that someone else is going to use or into the data processing portion of an app, we can change the returned name of a field with the AS keyword.
+> **[0:14](https://www.linkedin.com/learning/learning-sql-programming-8382385/creating-aliases-with-as?u=76281980&t=14)** Usually this makes sense, but sometimes if we have a little bit of a lengthy way of creating a field, or want to be more clear on our output, for example, if we're taking the results directly into a spreadsheet that someone else is going to use or into the [[Data Processing]] portion of an app, we can change the returned name of a field with the AS keyword.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-sql-programming-8382385/creating-aliases-with-as?u=76281980&t=31)** Let's take a basic look at that with a statement that will get us the first_name and last_name of the participants in our people table.
 >
@@ -2095,7 +2068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (1), feature (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1)
 > **Code Identifiers:** first_name (2), last_name (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** select (1), upper (1)
@@ -2104,8 +2077,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: State score metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/solution-state-score-metrics?u=76281980)
+#### [Solution: State score metrics](https://www.linkedin.com/learning/learning-sql-programming-8382385/solution-state-score-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2138,8 +2110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add data to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980)
+#### [Add data to a table](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2159,7 +2130,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=35)** Here, all the way down at the bottom is our new information.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=40)** The first name field is what we added, and the rest of the fields have null in them.
+> **[0:40](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=40)** The first name field is what we added, and the [[Representational State Transfer (REST)|rest]] of the fields have null in them.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=46)** Because we didn't set any information, so they have no value stored in them.
 >
@@ -2207,9 +2178,9 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=209)** Auto incrementation, and constraints like uniqueness are more advanced than we'll get into here.
 >
-> **[3:34](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=214)** These constraints help to preserve the integrity of the database, and there's something you'll learn about in a course on relational databases like [[Programming Foundations Databases]].
+> **[3:34](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=214)** These constraints help to preserve the integrity of the database, and there's something you'll learn about in a course on [[Relational Databases]] like [[[[Programming Foundations]] [[Databases]]]].
 >
-> **[3:43](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=223)** And something you'll work with when you move on to using SQL is a data definition language to build your own tables.
+> **[3:43](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=223)** And something you'll work with when you move on to using [[SQL]] is a data definition language to build your own tables.
 >
 > **[3:49](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980&t=229)** We'll continue to focus on using existing tables in this course.
 >
@@ -2229,15 +2200,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), data (10), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Relational Databases]] (1), [[Programming Foundations]] (1), [[Databases]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Modify data in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/modify-data-in-a-table?u=76281980)
+#### [Modify data in a table](https://www.linkedin.com/learning/learning-sql-programming-8382385/modify-data-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2287,13 +2257,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/learning-sql-programming-8382385/modify-data-in-a-table?u=76281980&t=133)** But there's an even better way to approach this.
 >
-> **[2:16](https://www.linkedin.com/learning/learning-sql-programming-8382385/modify-data-in-a-table?u=76281980&t=136)** The people table has a unique number for each participant, and that's something you'll find is the case in many databases, which deal with people's information.
+> **[2:16](https://www.linkedin.com/learning/learning-sql-programming-8382385/modify-data-in-a-table?u=76281980&t=136)** The people table has a unique number for each participant, and that's something you'll find is the case in many [[Databases]], which deal with people's information.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-sql-programming-8382385/modify-data-in-a-table?u=76281980&t=144)** So we can use that to be absolutely certain we have the right participant record.
 >
 > **[2:29](https://www.linkedin.com/learning/learning-sql-programming-8382385/modify-data-in-a-table?u=76281980&t=149)** This Carlos has an ID number of 175.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-sql-programming-8382385/modify-data-in-a-table?u=76281980&t=152)** So using SQL, we can first write a select statement to check that we're working with a record that we intend to.
+> **[2:32](https://www.linkedin.com/learning/learning-sql-programming-8382385/modify-data-in-a-table?u=76281980&t=152)** So using [[SQL]], we can first write a select statement to check that we're working with a record that we intend to.
 >
 > **[2:38](https://www.linkedin.com/learning/learning-sql-programming-8382385/modify-data-in-a-table?u=76281980&t=158)** Looks good.
 >
@@ -2347,15 +2317,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3), [[Databases]] (2), [[SQL]] (1), feature (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (1)
 > **CLI Commands:** make (5), find (4)
 > **Env Vars:** llc (3), sql (1), crud (1)
 > **Best Practices:** it's best to (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Removing data from a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/removing-data-from-a-table?u=76281980)
+#### [Removing data from a table](https://www.linkedin.com/learning/learning-sql-programming-8382385/removing-data-from-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2423,15 +2392,15 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/learning-sql-programming-8382385/removing-data-from-a-table?u=76281980&t=155)** Now, all the records have a value for quiz_points and anything that doesn't is gone.
 >
-> **[2:40](https://www.linkedin.com/learning/learning-sql-programming-8382385/removing-data-from-a-table?u=76281980&t=160)** This covers the last letter of the CRUD acronym, delete, and it rounds out our basic set of operations that we'll use SQL for as a DML, a data manipulation language.
+> **[2:40](https://www.linkedin.com/learning/learning-sql-programming-8382385/removing-data-from-a-table?u=76281980&t=160)** This covers the last letter of the CRUD acronym, delete, and it rounds out our basic set of operations that we'll use [[SQL]] for as a DML, a [[Data Manipulation]] language.
 >
-> **[2:51](https://www.linkedin.com/learning/learning-sql-programming-8382385/removing-data-from-a-table?u=76281980&t=171)** There are other keywords in the SQL standard including those where SQL is used as a DDL, a data definition language, which we use to create and modify databases and tables themselves.
+> **[2:51](https://www.linkedin.com/learning/learning-sql-programming-8382385/removing-data-from-a-table?u=76281980&t=171)** There are other keywords in the SQL standard including those where SQL is used as a DDL, a data definition language, which we use to create and modify [[Databases]] and tables themselves.
 >
 > **[3:01](https://www.linkedin.com/learning/learning-sql-programming-8382385/removing-data-from-a-table?u=76281980&t=181)** And individual flavors of SQL provides still different options, but all versions of SQL support SELECT, INSERT, UPDATE, and DELETE.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (4), database (1), [[Data Manipulation]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Manipulation]] (1), [[Databases]] (1)
 > **Env Vars:** delete (7), null (7), sql (5), select (3), where (3)
 > **SQL:** select (3), where (3), update (2), delete from (2)
 > **API Endpoints:** delete  (6)
@@ -2440,8 +2409,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Identifying the correct record
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/solution-identifying-the-correct-record?u=76281980)
+#### [Solution: Identifying the correct record](https://www.linkedin.com/learning/learning-sql-programming-8382385/solution-identifying-the-correct-record?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2475,7 +2443,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2484,12 +2451,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overcoming common SQL mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980)
+#### [Overcoming common SQL mistakes](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980&t=0)** - [Instructor] When working with SQL, there are a few common mistakes that it's easy to make.
+> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980&t=0)** - [Instructor] When working with [[SQL]], there are a few common mistakes that it's easy to make.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980&t=5)** SQL is not a very forgiving language if you don't have the syntax just right.
 >
@@ -2519,7 +2485,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980&t=91)** When you're copying and pasting SQL statements, it's important to make sure that you're doing so using plain text.
 >
-> **[1:37](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980&t=97)** Many text editors that aren't designed for software development, things like Word or Pages or Stickies, or even many note taking applications, will make changes to text that cause problems.
+> **[1:37](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980&t=97)** Many text editors that aren't designed for [[Software Development]], things like [[Microsoft Word|Word]] or Pages or Stickies, or even many note taking applications, will make changes to text that cause problems.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980&t=108)** One of the most irritating problems to me is when a text editor changes quotation characters into so-called smart quotes.
 >
@@ -2555,7 +2521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), database (3), [[Troubleshooting]] (1), [[Software Development]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Software Development]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (7), find (2)
 > **Env Vars:** sql (7), null (2)
 > **Warnings:** keep in mind (1), watch out (1)
@@ -2564,16 +2530,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980&t=0)** - [Instructor] In this course, we've seen how to use SQL to work with an existing database.
+> **[0:00](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980&t=0)** - [Instructor] In this course, we've seen how to use [[SQL]] to work with an existing database.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980&t=5)** Depending on what your goal is, your next steps for learning can take a few different paths.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980&t=9)** If you're interested in learning how to create databases and how to administer them, take a look at our courses on database management systems, like SQL Server, MySQL, Oracle and others.
+> **[0:09](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980&t=9)** If you're interested in learning how to create [[Databases]] and how to administer them, take a look at our courses on [[Database Management]] systems, like [[Microsoft SQL Server|SQL Server]], [[MySQL]], Oracle and others.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980&t=20)** If you're interested in digging deeper into SQL itself, check out our courses on more advanced SQL.
 >
@@ -2581,7 +2546,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980&t=36)** The DBMS and the variety of SQL it uses go hand in hand.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980&t=40)** Or if you're looking to build an application that uses SQL in it, have a look at our courses about using SQL with popular languages like Python, Java, and others.
+> **[0:40](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980&t=40)** Or if you're looking to build an application that uses SQL in it, have a look at our courses about using SQL with popular languages like [[Python (Programming Language)|Python]], [[Java]], and others.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-sql-programming-8382385/next-steps?u=76281980&t=50)** Whichever path you take, have fun learning and good luck.
 >
@@ -2589,7 +2554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), database (3), next (2), management (2), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Database Management]] (2), [[Microsoft SQL Server|Sql server]] (2), [[MySQL]] (2), [[Databases]] (1)
 > **Env Vars:** sql (8), dbms (1)
 > **CLI Commands:** mysql (2), python (1)
 > **Speakers:** - [instructor] (1)

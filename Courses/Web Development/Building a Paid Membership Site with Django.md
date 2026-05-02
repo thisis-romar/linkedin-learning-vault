@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a paid membership site with Django
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/building-a-paid-membership-site-with-django?u=76281980)
+#### [Building a paid membership site with Django](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/building-a-paid-membership-site-with-django?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/building-a-paid-membership-site-with-django?u=76281980&t=0)** - [Instructor] Django and Stripe
+> **[0:00](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/building-a-paid-membership-site-with-django?u=76281980&t=0)** - [Instructor] [[Django]] and Stripe
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/building-a-paid-membership-site-with-django?u=76281980&t=0)** - [Instructor] Django and Stripe makes integrating payments into your web app simple.
 >
@@ -104,11 +103,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (4), web (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Django]] (4)
 > **Speakers:** - [instructor] (2)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=5)** before you move forward.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=6)** The first is, you should have a basic idea The first is, you should have a basic idea of how to work with Python 3.
+> **[0:06](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=6)** The first is, you should have a basic idea The first is, you should have a basic idea of how to work with [[Python (Programming Language)|Python]] 3.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=8)** of how to work with Python 3.
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=19)** this is the package manager for Python.
 >
-> **[0:21](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=21)** Also you should know how to build Also you should know how to build a basic Django project, we're going to have a basic Django project, we're going to have a nice starter project for you to move forward with a nice starter project for you to move forward with and you should be familiar with how to work and you should be familiar with how to work with models and whatnot.
+> **[0:21](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=21)** Also you should know how to build Also you should know how to build a basic [[Django]] project, we're going to have a basic Django project, we're going to have a nice starter project for you to move forward with a nice starter project for you to move forward with and you should be familiar with how to work and you should be familiar with how to work with models and whatnot.
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=29)** with models and whatnot.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=60)** to use whichever one you'd like.
 >
-> **[1:02](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=62)** Lastly, you should have some familiarity Lastly, you should have some familiarity with HTML and JavaScript.
+> **[1:02](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=62)** Lastly, you should have some familiarity Lastly, you should have some familiarity with [[HTML]] and [[JavaScript]].
 >
 > **[1:05](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/what-you-should-know?u=76281980&t=65)** with HTML and JavaScript.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Django]] (8), next (4), [[JavaScript]] (4), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Django]] (8), [[JavaScript]] (4), [[HTML]] (2)
 > **CLI Commands:** python (8), pip (2)
 > **Versions:** python 3 (6)
 > **Tools:** terminal (2), atom (2)
@@ -169,8 +167,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (2)
 
-#### Demo project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/demo-project-overview?u=76281980)
+#### [Demo project overview](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/demo-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,7 +247,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), product (2), business (2), power (2)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** click on (4), go to (2)
 > **URLs:** [email.com](https://email.com) (2)
@@ -263,8 +259,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The starter project walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980)
+#### [The starter project walkthrough](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,7 +291,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=58)** that we're going to need for this project.
 >
-> **[0:59](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=59)** So pip install, I want django, and I also want stripe.
+> **[0:59](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=59)** So pip install, I want [[Django]], and I also want stripe.
 >
 > **[0:59](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=59)** So pip install, I want django, and I also want stripe.
 >
@@ -304,11 +299,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=73)** that we have to run.
 >
-> **[1:14](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=74)** The first one is we want to migrate our database, The first one is we want to migrate our database, so do a Python manage.py, and let's migrate.
+> **[1:14](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=74)** The first one is we want to migrate our database, The first one is we want to migrate our database, so do a [[Python (Programming Language)|Python]] manage.py, and let's migrate.
 >
 > **[1:16](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=76)** so do a Python manage.py, and let's migrate.
 >
-> **[1:21](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=81)** Once that's done, I have some example data Once that's done, I have some example data for us to load into our database, for us to load into our database, so just do load data space plans.json.
+> **[1:21](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=81)** Once that's done, I have some example data Once that's done, I have some example data for us to load into our database, for us to load into our database, so just do load data space plans.[[JSON]].
 >
 > **[1:25](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=85)** so just do load data space plans.json.
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=115)** this is just a bunch of gibberish.
 >
-> **[1:57](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=117)** But some of the articles, actually the rest, But some of the articles, actually the rest, if you click on them, they are a premium article, if you click on them, they are a premium article, meaning that we can't access them meaning that we can't access them unless we have a paid subscription, unless we have a paid subscription, and so they forward us to this payment screen.
+> **[1:57](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=117)** But some of the articles, actually the [[Representational State Transfer (REST)|rest]], But some of the articles, actually the rest, if you click on them, they are a premium article, if you click on them, they are a premium article, meaning that we can't access them meaning that we can't access them unless we have a paid subscription, unless we have a paid subscription, and so they forward us to this payment screen.
 >
 > **[2:08](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=128)** and so they forward us to this payment screen.
 >
@@ -340,7 +335,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=132)** it sends us to /join.
 >
-> **[2:15](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=135)** Now this has a fully functional user authentication system, Now this has a fully functional user authentication system, so if we'd like to sign up for this site, so if we'd like to sign up for this site, we can create a username like John, we can create a username like John, we'll give John a little test email here, we'll give John a little test email here, and we'll make a password for John, and we'll make a password for John, I'm going to use django1234.
+> **[2:15](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=135)** Now this has a fully functional user authentication system, Now this has a fully functional user authentication system, so if we'd like to sign up for this site, so if we'd like to sign up for this site, we can create a username like [[John the Ripper|John]], we can create a username like John, we'll give John a little test email here, we'll give John a little test email here, and we'll make a password for John, and we'll make a password for John, I'm going to use django1234.
 >
 > **[2:29](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/the-starter-project-walkthrough?u=76281980&t=149)** I'm going to use django1234.
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (4), hit (4), [[Django]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (16), [[Django]] (2), [[Python (Programming Language)|Python]] (2), [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (6), pip3 (2), pip (2), python (2)
 > **Prerequisites:** install (6), set up (2), make sure you have (2)
 > **File Paths:** manage.py (2), plans.json (2)
@@ -367,8 +362,7 @@ created: 2026-05-02
 > **Exercise Files:** starter project (2)
 > **Definitions:** short for (2)
 
-#### Create Stripe account
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-stripe-account?u=76281980)
+#### [Create Stripe account](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-stripe-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,15 +422,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2)
 > **CLI Commands:** make (2)
 > **URLs:** [stripe.com](https://stripe.com) (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (2)
 > **Speakers:** - [instructor] (2)
 
-#### Create a product in Stripe
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-a-product-in-stripe?u=76281980)
+#### [Create a product in Stripe](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-a-product-in-stripe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,7 +506,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-a-product-in-stripe?u=76281980&t=110)** and you'll see now this has been created.
 >
-> **[1:52](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-a-product-in-stripe?u=76281980&t=112)** So to kind of take a step back from what we've just done, So to kind of take a step back from what we've just done, if you now click on products, you should have one if you now click on products, you should have one product there, it's Nick Fitness Premium, product there, it's Nick Fitness Premium, and if you go ahead and click on this, and if you go ahead and click on this, you can see that it has one pricing plan you can see that it has one pricing plan of $10 a month.
+> **[1:52](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-a-product-in-stripe?u=76281980&t=112)** So to kind of take a step back from what we've just done, So to kind of take a step back from what we've just done, if you now click on [[Microsoft Products|products]], you should have one if you now click on products, you should have one product there, it's Nick Fitness Premium, product there, it's Nick Fitness Premium, and if you go ahead and click on this, and if you go ahead and click on this, you can see that it has one pricing plan you can see that it has one pricing plan of $10 a month.
 >
 > **[2:04](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-a-product-in-stripe?u=76281980&t=124)** of $10 a month.
 >
@@ -556,7 +548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (22), hit (6), data (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **UI Navigation:** click on (6), select the (2), scroll down (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** usd (2)
@@ -569,8 +561,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Select yearly or monthly
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980)
+#### [Select yearly or monthly](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,7 +651,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980&t=88)** And move into templates, plans.
 >
-> **[1:30](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980&t=90)** And we'll go to our join.html.
+> **[1:30](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980&t=90)** And we'll go to our join.[[HTML]].
 >
 > **[1:30](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980&t=90)** And we'll go to our join.html.
 >
@@ -820,7 +811,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980&t=306)** Then we're going to remove our database completely. 1 So we'll go ahead and remove that.
 >
-> **[5:10](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980&t=310)** So we'll go ahead and remove that. 1 Then we're going to say Python manage.py Then we're going to say Python manage.py 1 make migrations.
+> **[5:10](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980&t=310)** So we'll go ahead and remove that. 1 Then we're going to say [[Python (Programming Language)|Python]] manage.py Then we're going to say Python manage.py 1 make migrations.
 >
 > **[5:16](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/select-yearly-or-monthly?u=76281980&t=316)** make migrations. 1 And you can see it made a new migration for us.
 >
@@ -838,7 +829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), database (4), [[HTML]] (2), hit (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** url (6), hrefs (2), urls (2), href (2)
 > **UI Navigation:** go to (8), click on (4)
 > **File Paths:** views.py (2), join.html (2), urls.py (2), models.py (2), manage.py (2)
@@ -847,8 +838,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Exercise Files:** template (2)
 
-#### Checkout page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980)
+#### [Checkout page](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +876,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=45)** and we're going to say "login_required".
 >
-> **[0:52](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=52)** We have to make sure that we have this imported We have to make sure that we have this imported into our project to use this code, into our project to use this code, so up at the top here, we're going to say "from" so up at the top here, we're going to say "from" and then we want "django.contrib.auth.decorators import" and then we want "django.contrib.auth.decorators import"
+> **[0:52](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=52)** We have to make sure that we have this imported We have to make sure that we have this imported into our project to use this code, into our project to use this code, so up at the top here, we're going to say "from" so up at the top here, we're going to say "from" and then we want "[[Django]].contrib.auth.decorators import" and then we want "django.contrib.auth.decorators import"
 >
 > **[1:14](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=74)** and then we want "login_required".
 >
@@ -904,7 +894,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=90)** you can see it spits us forward to the Login page, perfect.
 >
-> **[1:33](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=93)** So let's go ahead and log in with our "john", So let's go ahead and log in with our "john", put in our password.
+> **[1:33](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=93)** So let's go ahead and log in with our "[[John the Ripper|john]]", So let's go ahead and log in with our "john", put in our password.
 >
 > **[1:37](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=97)** put in our password.
 >
@@ -976,7 +966,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=176)** right here. Okay?
 >
-> **[2:59](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=179)** So with this in place, let's go ahead and open up So with this in place, let's go ahead and open up our checkout.html.
+> **[2:59](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=179)** So with this in place, let's go ahead and open up So with this in place, let's go ahead and open up our checkout.[[HTML]].
 >
 > **[3:01](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/checkout-page?u=76281980&t=181)** our checkout.html.
 >
@@ -1050,7 +1040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[HTML]] (4), data (4), next (2), [[Django]] (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (4), [[HTML]] (4), [[Django]] (2)
 > **File Paths:** views.py (6), checkout.html (4)
 > **CLI Commands:** make (8)
 > **Env Vars:** post (2), api (2), cvc (2)
@@ -1059,8 +1049,7 @@ created: 2026-05-02
 > **URLs:** [j.org](https://j.org) (2)
 > **Exercise Files:** template (2)
 
-#### Stripe front end
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/stripe-front-end?u=76281980)
+#### [Stripe front end](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/stripe-front-end?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/stripe-front-end?u=76281980&t=41)** like on our own servers.
 >
-> **[0:43](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/stripe-front-end?u=76281980&t=43)** We're going to keep this inside of the views.py, We're going to keep this inside of the views.py, this should not be in any of your HTML files.
+> **[0:43](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/stripe-front-end?u=76281980&t=43)** We're going to keep this inside of the views.py, We're going to keep this inside of the views.py, this should not be in any of your [[HTML]] files.
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/stripe-front-end?u=76281980&t=45)** this should not be in any of your HTML files.
 >
@@ -1268,7 +1257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), product (4), data (4), [[HTML]] (2), next (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Code Identifiers:** og_dollar (8), final_dollar (8), coupon_dollar (4), api_key (2)
 > **Env Vars:** api (6), html (2), aka (2)
 > **Definitions:** is a  (6)
@@ -1277,8 +1266,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (2)
 
-#### Passing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980)
+#### [Passing data](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1308,7 +1296,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=33)** well then we'll go ahead and change that to $100.
 >
-> **[0:36](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=36)** And we're going to take all of this information And we're going to take all of this information and we're going to pass it forward as we render checkout.html.
+> **[0:36](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=36)** And we're going to take all of this information And we're going to take all of this information and we're going to pass it forward as we render checkout.[[HTML]].
 >
 > **[0:39](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=39)** and we're going to pass it forward as we render checkout.html.
 >
@@ -1356,7 +1344,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=85)** So let's say we want to get premium.
 >
-> **[1:27](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=87)** Then we'll go to monthly here, and look at that, Then we'll go to monthly here, and look at that, we can see the word monthly right there.
+> **[1:27](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=87)** Then we'll go to monthly here, and look at that, Then we'll go to monthly here, and look at that, we can see the [[Microsoft Word|word]] monthly right there.
 >
 > **[1:30](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=90)** we can see the word monthly right there.
 >
@@ -1440,7 +1428,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=197)** that we're doing right there.
 >
-> **[3:19](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=199)** After we've specified the plan, After we've specified the plan, we're going to go down to this is the Java script portion we're going to go down to this is the Java script portion where we have this awesome form from stripe.
+> **[3:19](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=199)** After we've specified the plan, After we've specified the plan, we're going to go down to this is the [[Java]] script portion we're going to go down to this is the Java script portion where we have this awesome form from stripe.
 >
 > **[3:23](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/passing-data?u=76281980&t=203)** where we have this awesome form from stripe.
 >
@@ -1492,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), data (6), [[HTML]] (4), [[Microsoft Word|Word]] (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Microsoft Word|Word]] (2), [[Java]] (2)
 > **CLI Commands:** make (4), find (2)
 > **Code Identifiers:** og_dollar (2), coupon_dollar (2), final_dollar (2)
 > **File Paths:** checkout.html (4)
@@ -1501,8 +1489,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (2)
 
-#### Coupons
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/coupons?u=76281980)
+#### [Coupons](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/coupons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1652,7 +1639,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), next (2)
 > **API Endpoints:** get  (6), post  (2)
 > **Analogies:** for example (2), similar to (2), just like (2)
 > **CLI Commands:** make (4)
@@ -1660,14 +1646,14 @@ created: 2026-05-02
 > **Code Identifiers:** coupon_dollar (2)
 > **Env Vars:** post (2)
 > **Versions:** 6.90 (2)
+> **UI Navigation:** go to (2)
 
 
 ### 3. Processing Payments
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Process payment
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/process-payment?u=76281980)
+#### [Process payment](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/process-payment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1865,7 +1851,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), next (4), product (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** api (6)
 > **UI Navigation:** go to (4)
@@ -1874,8 +1859,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (2)
 > **Speakers:** - [instructor] (2)
 
-#### View Stripe data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/view-stripe-data?u=76281980)
+#### [View Stripe data](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/view-stripe-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1913,7 +1897,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/view-stripe-data?u=76281980&t=61)** Go ahead and move into our Stripe dashboard.
 >
-> **[1:04](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/view-stripe-data?u=76281980&t=64)** If we click on customers, well look who shows up, If we click on customers, well look who shows up, there's John's email, j@[j.org](https://j.org), there's John's email, j@[j.org](https://j.org), and we can click on him and see, and we can click on him and see, oh he subscribed to yearly, he used a 10% off coupon, oh he subscribed to yearly, he used a 10% off coupon, this is the time that he was created.
+> **[1:04](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/view-stripe-data?u=76281980&t=64)** If we click on customers, well look who shows up, If we click on customers, well look who shows up, there's [[John the Ripper|John]]'s email, j@[j.org](https://j.org), there's John's email, j@[j.org](https://j.org), and we can click on him and see, and we can click on him and see, oh he subscribed to yearly, he used a 10% off coupon, oh he subscribed to yearly, he used a 10% off coupon, this is the time that he was created.
 >
 > **[1:17](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/view-stripe-data?u=76281980&t=77)** this is the time that he was created.
 >
@@ -1979,14 +1963,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
 > **UI Navigation:** click on (8), go to (4)
 > **CLI Commands:** make (4)
 > **URLs:** [j.org](https://j.org) (2)
 > **Speakers:** - [instructor] (2)
 
-#### Create customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-customer?u=76281980)
+#### [Create customer](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2064,7 +2047,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-customer?u=76281980&t=191)** admin panel.
 >
-> **[3:12](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-customer?u=76281980&t=192)** So let's go ahead and stop our server, we're going to go So let's go ahead and stop our server, we're going to go python manage dot py create super user.
+> **[3:12](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-customer?u=76281980&t=192)** So let's go ahead and stop our server, we're going to go So let's go ahead and stop our server, we're going to go [[Python (Programming Language)|python]] manage dot py create super user.
 >
 > **[3:16](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-customer?u=76281980&t=196)** python manage dot py create super user.
 >
@@ -2076,7 +2059,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-customer?u=76281980&t=210)** okay let's fire back up so we can test this out.
 >
-> **[3:34](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-customer?u=76281980&t=214)** We'll move back to our page, let's go ahead and We'll move back to our page, let's go ahead and get premium access here, we're already get premium access here, we're already logged in as John so we'll go ahead and say logged in as John so we'll go ahead and say that we'll get started and we want to redeem our that we'll get started and we want to redeem our welcome coupon.
+> **[3:34](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-customer?u=76281980&t=214)** We'll move back to our page, let's go ahead and We'll move back to our page, let's go ahead and get premium access here, we're already get premium access here, we're already logged in as [[John the Ripper|John]] so we'll go ahead and say logged in as John so we'll go ahead and say that we'll get started and we want to redeem our that we'll get started and we want to redeem our welcome coupon.
 >
 > **[3:47](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/create-customer?u=76281980&t=227)** welcome coupon.
 >
@@ -2102,13 +2085,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), database (2), hit (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[John the Ripper|John]] (2)
 > **CLI Commands:** make (10), python (2)
 > **UI Navigation:** go to (4)
 > **Speakers:** - [narrator] (2)
 
-#### Release plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/release-plans?u=76281980)
+#### [Release plans](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/release-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2158,7 +2140,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/release-plans?u=76281980&t=103)** so we're going to want to log out.
 >
-> **[1:46](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/release-plans?u=76281980&t=106)** Let's log back in via John, Let's log back in via John, and once we've done this, let's check out and once we've done this, let's check out From Couch to 5k, and look at that!
+> **[1:46](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/release-plans?u=76281980&t=106)** Let's log back in via [[John the Ripper|John]], Let's log back in via John, and once we've done this, let's check out and once we've done this, let's check out From Couch to 5k, and look at that!
 >
 > **[1:52](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/release-plans?u=76281980&t=112)** From Couch to 5k, and look at that!
 >
@@ -2208,7 +2190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (4)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (4), means that (2)
 > **Analogies:** just like (4)
@@ -2220,8 +2202,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Settings for a GET request
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-for-a-get-request?u=76281980)
+#### [Settings for a GET request](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-for-a-get-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2377,7 +2358,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), next (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** cancel_at_period_end (2)
@@ -2385,8 +2365,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (2)
 > **Speakers:** - [narrator] (2)
 
-#### Cancel subscription
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/cancel-subscription?u=76281980)
+#### [Cancel subscription](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/cancel-subscription?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2404,7 +2383,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/cancel-subscription?u=76281980&t=16)** cancel, rejoin just willy-nilly.
 >
-> **[0:18](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/cancel-subscription?u=76281980&t=18)** In fact, the way that we've designed this In fact, the way that we've designed this will make it so that someone can cancel their subscription, will make it so that someone can cancel their subscription, but it's going to run out the rest of that subscription.
+> **[0:18](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/cancel-subscription?u=76281980&t=18)** In fact, the way that we've designed this In fact, the way that we've designed this will make it so that someone can cancel their subscription, will make it so that someone can cancel their subscription, but it's going to run out the [[Representational State Transfer (REST)|rest]] of that subscription.
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/cancel-subscription?u=76281980&t=23)** but it's going to run out the rest of that subscription.
 >
@@ -2448,7 +2427,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/cancel-subscription?u=76281980&t=144)** take our subscription, and we're going to save that.
 >
-> **[2:29](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/cancel-subscription?u=76281980&t=149)** That sends all the information to the Stripe API, That sends all the information to the Stripe API, so awesome that Stripe gives us this excellent, so awesome that Stripe gives us this excellent, excellent piece of Python code to simplify excellent piece of Python code to simplify this for us.
+> **[2:29](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/cancel-subscription?u=76281980&t=149)** That sends all the information to the Stripe API, That sends all the information to the Stripe API, so awesome that Stripe gives us this excellent, so awesome that Stripe gives us this excellent, excellent piece of [[Python (Programming Language)|Python]] code to simplify excellent piece of Python code to simplify this for us.
 >
 > **[2:36](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/cancel-subscription?u=76281980&t=156)** this for us.
 >
@@ -2474,15 +2453,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Representational State Transfer (REST)|Rest]] (2), api (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (2), python (2)
 > **Exercise Files:** template (4)
 > **Env Vars:** api (2)
 > **Cross-References:** in the next (2)
 > **Speakers:** - [instructor] (2)
 
-#### Settings view
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-view?u=76281980)
+#### [Settings view](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2496,7 +2474,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-view?u=76281980&t=3)** Let's go ahead and move into the template.
 >
-> **[0:05](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-view?u=76281980&t=5)** If we go inside of our templates directory If we go inside of our templates directory into registration, we can go to our settings.html.
+> **[0:05](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-view?u=76281980&t=5)** If we go inside of our templates directory If we go inside of our templates directory into registration, we can go to our settings.[[HTML]].
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-view?u=76281980&t=7)** into registration, we can go to our settings.html.
 >
@@ -2638,7 +2616,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-view?u=76281980&t=268)** so that's why it shows get a membership.
 >
-> **[4:31](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-view?u=76281980&t=271)** Let's go ahead and log out and log back in as John.
+> **[4:31](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-view?u=76281980&t=271)** Let's go ahead and log out and log back in as [[John the Ripper|John]].
 >
 > **[4:31](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/settings-view?u=76281980&t=271)** Let's go ahead and log out and log back in as John.
 >
@@ -2662,7 +2640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (2), feature (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (6), [[HTML]] (2)
 > **Env Vars:** url (7), csrf (4)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (4)
@@ -2671,8 +2649,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (2)
 
-#### Updating accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/updating-accounts?u=76281980)
+#### [Updating accounts](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/updating-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2784,7 +2761,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/updating-accounts?u=76281980&t=292)** We're going to take our customer, save them, We're going to take our customer, save them, 1 if there's, you know, been any changes, and then with this, if there's, you know, been any changes, and then with this, 1 rather than return some sort of page, rather than return some sort of page, 1 we really just want to return an http response to say, we really just want to return an http response to say, 1 hey, you know what, this all worked out hey, you know what, this all worked out 1 and you're ready to move forward.
 >
-> **[5:07](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/updating-accounts?u=76281980&t=307)** and you're ready to move forward. 1 So let's go ahead and import that by saying, So let's go ahead and import that by saying, 1 from, django, dot, http, from, django, dot, http, 1
+> **[5:07](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/updating-accounts?u=76281980&t=307)** and you're ready to move forward. 1 So let's go ahead and import that by saying, So let's go ahead and import that by saying, 1 from, [[Django]], dot, http, from, django, dot, http, 1
 >
 > **[5:21](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/updating-accounts?u=76281980&t=321)** import, capital Http, capital Response.
 >
@@ -2810,7 +2787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), hit (2)
+> **Frameworks & Libraries:** [[Django]] (2)
 > **Code Identifiers:** cancel_at_period_end (4), login_required (2), stripe_subscription_id (2)
 > **UI Navigation:** go to (8)
 > **CLI Commands:** make (6)
@@ -2824,8 +2801,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2847,7 +2823,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=14)** So instead of Stripe, maybe look at Braintree or PayPal.
 >
-> **[0:18](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=18)** Then, if you'd like to dive deeper into Django, Then, if you'd like to dive deeper into Django, I have some courses I think you would love.
+> **[0:18](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=18)** Then, if you'd like to dive deeper into [[Django]], Then, if you'd like to dive deeper into Django, I have some courses I think you would love.
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=20)** I have some courses I think you would love.
 >
@@ -2859,15 +2835,15 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=27)** like this membership site, live on the internet.
 >
-> **[0:30](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=30)** We'll learn how to deploy to Digital Ocean, We'll learn how to deploy to Digital Ocean, AWS Beanstalk, Azure, and even Heroku.
+> **[0:30](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=30)** We'll learn how to deploy to Digital Ocean, We'll learn how to deploy to Digital Ocean, AWS Beanstalk, [[Microsoft Azure|Azure]], and even Heroku.
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=33)** AWS Beanstalk, Azure, and even Heroku.
 >
-> **[0:38](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=38)** Next, I have a test-driven development course in Django, Next, I have a test-driven development course in Django, if you want to make sure the code if you want to make sure the code that you've written is absolutely correct, that you've written is absolutely correct, and won't cause bugs in other parts of your code and won't cause bugs in other parts of your code that you haven't touched in months, that you haven't touched in months, this is a great course for you.
+> **[0:38](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=38)** Next, I have a [[Test-Driven Development]] course in Django, Next, I have a test-driven development course in Django, if you want to make sure the code if you want to make sure the code that you've written is absolutely correct, that you've written is absolutely correct, and won't cause bugs in other parts of your code and won't cause bugs in other parts of your code that you haven't touched in months, that you haven't touched in months, this is a great course for you.
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=49)** this is a great course for you.
 >
-> **[0:51](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=51)** And also, I have a course on Django forms.
+> **[0:51](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=51)** And also, I have a course on Django [[Forms]].
 >
 > **[0:51](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=51)** And also, I have a course on Django forms.
 >
@@ -2891,13 +2867,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=83)** Finally, I'd love it if you'd connect with me.
 >
-> **[1:26](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=86)** If you're interested, you can find me If you're interested, you can find me on LinkedIn, or on Twitter.
+> **[1:26](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=86)** If you're interested, you can find me If you're interested, you can find me on [[LinkedIn]], or on Twitter.
 >
 > **[1:27](https://www.linkedin.com/learning/building-a-paid-membership-site-with-django/next-steps?u=76281980&t=87)** on LinkedIn, or on Twitter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (10), next (4), [[Forms]] (4), aws (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Django]] (10), [[Forms]] (4), [[Microsoft Azure|Azure]] (2), [[Test-Driven Development]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** make (4), aws (2), find (2)
 > **Env Vars:** aws (2)
 > **Definitions:** is a  (2)

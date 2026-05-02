@@ -85,12 +85,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to Cybersecurity Terminology 101
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/welcome-to-cybersecurity-terminology-101?u=76281980)
+#### [Welcome to Cybersecurity Terminology 101](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/welcome-to-cybersecurity-terminology-101?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/welcome-to-cybersecurity-terminology-101?u=76281980&t=0)** - [Lauren] Welcome to Cybersecurity Terminology 101.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/welcome-to-cybersecurity-terminology-101?u=76281980&t=0)** - [Lauren] Welcome to [[Cybersecurity]] Terminology 101.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/welcome-to-cybersecurity-terminology-101?u=76281980&t=4)** In this course, we will cover a number of terms, definitions and acronyms, or as some may even say, buzzwords that are commonly heard when cybersecurity is being discussed.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lauren] (1)
 > **Non-Speech:** (cheerful music) (1)
@@ -122,12 +121,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is cybersecurity?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980)
+#### [What is cybersecurity?](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980&t=0)** - [Instructor] Cybersecurity may be called a number of things including Information Security, Computer Security and even just Cyber InfoSec among some others not mentioned.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980&t=0)** - [Instructor] [[Cybersecurity]] may be called a number of things including Information Security, Computer Security and even just Cyber InfoSec among some others not mentioned.
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980&t=13)** According to Digital Guardian, cybersecurity refers to the body of technologies, processes, and practices, designed to protect networks, devices, programs, and data from attack, damage or unauthorized access.
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980&t=37)** That is where cybersecurity comes in.
 >
-> **[0:40](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980&t=40)** Cybersecurity doesn't just apply at work though, it also applies in your personal life, on your personally owned devices such as computers, cell phones, and even other IoT devices that are being brought into your home.
+> **[0:40](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980&t=40)** Cybersecurity doesn't just apply at work though, it also applies in your personal life, on your personally owned devices such as computers, cell phones, and even other [[IoT]] devices that are being brought into your home.
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980&t=54)** As technology continues to advance, so to do the associated risks.
 >
@@ -161,14 +159,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), data (6), [[Security]] (4), [[IoT]] (1), teams (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[IoT]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### People, process, and technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/people-process-and-technology?u=76281980)
+#### [People, process, and technology](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/people-process-and-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/people-process-and-technology?u=76281980&t=37)** And finally, we will cover technology.
 >
-> **[0:40](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/people-process-and-technology?u=76281980&t=40)** Technology is the most well-known pillar within cybersecurity, which isn't surprising, as cybersecurity needs technology as much as technology needs cybersecurity.
+> **[0:40](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/people-process-and-technology?u=76281980&t=40)** Technology is the most well-known pillar within [[Cybersecurity]], which isn't surprising, as cybersecurity needs technology as much as technology needs cybersecurity.
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/people-process-and-technology?u=76281980&t=51)** Within this pillar, we will cover security best practices and controls, as well as define some of the more recent technological advancements.
 >
@@ -192,11 +189,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/people-process-and-technology?u=76281980&t=73)** That is the threat actors and their methods of executing attacks.
 >
-> **[1:17](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/people-process-and-technology?u=76281980&t=77)** As attacks continue to grow, so does the need for cyber security in all its forms, including people, process, and technology.
+> **[1:17](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/people-process-and-technology?u=76281980&t=77)** As attacks continue to grow, so does the need for cyber security in all its [[Forms]], including people, process, and technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Cybersecurity]] (3), teams (1), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -205,8 +202,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security awareness and leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/security-awareness-and-leadership?u=76281980)
+#### [Security awareness and leadership](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/security-awareness-and-leadership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,7 +224,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/security-awareness-and-leadership?u=76281980&t=91)** Many times under the CISO or CSO security umbrella is a dedicated area to protect the human element.
 >
-> **[1:40](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/security-awareness-and-leadership?u=76281980&t=100)** Typically, this falls under the name of security awareness, though it may be named a few other things, such as security training, security education, security culture, and even human risk officer.
+> **[1:40](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/security-awareness-and-leadership?u=76281980&t=100)** Typically, this falls under the name of [[Security Awareness]], though it may be named a few other things, such as security training, security education, security culture, and even human risk officer.
 >
 > **[1:54](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/security-awareness-and-leadership?u=76281980&t=114)** Security awareness is a person, group, or team that focuses on awareness, training, communications, and education for the employees of the organization.
 >
@@ -248,15 +244,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (23), business (2), leadership (1), teams (1), data (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (3)
 > **Env Vars:** ciso (4), cso (4)
 > **Definitions:** stands for (2), means that (2), is a  (2), defined as (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Red vs. blue vs. purple teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/red-vs-blue-vs-purple-teams?u=76281980)
+#### [Red vs. blue vs. purple teams](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/red-vs-blue-vs-purple-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,19 +293,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), teams (2), [[Engineering]] (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Who are the adversaries?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/who-are-the-adversaries?u=76281980)
+#### [Who are the adversaries?](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/who-are-the-adversaries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/who-are-the-adversaries?u=76281980&t=0)** - The word criminal is a familiar term which means someone participating in nefarious behavior.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/who-are-the-adversaries?u=76281980&t=0)** - The [[Microsoft Word|word]] criminal is a familiar term which means someone participating in nefarious behavior.
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/who-are-the-adversaries?u=76281980&t=7)** So now let's align that with cybersecurity and then what we get is a cybercriminal, which is an individual that is conducting this malicious behavior via computers, networks, and even the internet.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/who-are-the-adversaries?u=76281980&t=7)** So now let's align that with [[Cybersecurity]] and then what we get is a cybercriminal, which is an individual that is conducting this malicious behavior via computers, networks, and even the internet.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/who-are-the-adversaries?u=76281980&t=21)** There is a high likelihood that you have heard the term hacker used most frequently when describing the bad guy.
 >
@@ -352,21 +345,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Cybersecurity]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Cybersecurity]] (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** find (4)
 > **Speakers:** - the (1)
 
-#### Understanding privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-privacy?u=76281980)
+#### [Understanding privacy](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-privacy?u=76281980&t=0)** - [Instructor] Another aspect of the human element of security is privacy and understanding how to protect your own information.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-privacy?u=76281980&t=0)** - [Instructor] Another aspect of the human element of security is [[Privacy]] and understanding how to protect your own information.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-privacy?u=76281980&t=9)** Privacy in the purest sense means freedom from or protection of something.
 >
-> **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-privacy?u=76281980&t=15)** But how does that apply in terms of cybersecurity?
+> **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-privacy?u=76281980&t=15)** But how does that apply in terms of [[Cybersecurity]]?
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-privacy?u=76281980&t=19)** Privacy, as related to cybersecurity, is the protection of your information.
 >
@@ -408,7 +400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (7), [[Security]] (2), [[Cybersecurity]] (2), data (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Cybersecurity]] (2)
 > **Env Vars:** pii (6)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** think of it as (1), for example (1)
@@ -420,8 +412,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding processes and documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-processes-and-documentation?u=76281980)
+#### [Understanding processes and documentation](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-processes-and-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -483,7 +474,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (3)
 > **Definitions:** is a  (3), stands for (1), means that (1), defined as (1), is called (1)
 > **Env Vars:** cia (1), gdpr (1), hipaa (1), pci (1)
 > **Documentation:** the documentation (2)
@@ -491,14 +481,13 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - if (1)
 
-#### Technical controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-controls?u=76281980)
+#### [Technical controls](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-controls?u=76281980&t=0)** - [Instructor] Have you turned on the news lately only to hear of the latest company that has experienced a breach?
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-controls?u=76281980&t=7)** To prevent these types of incident, cybersecurity teams implement controls within their environment so they don't become the next company that you read about in the news.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-controls?u=76281980&t=7)** To prevent these types of incident, [[Cybersecurity]] teams implement controls within their environment so they don't become the next company that you read about in the news.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-controls?u=76281980&t=17)** Let's take a deeper look into some of the controls that may be included within the policies, procedures, standards and guidelines.
 >
@@ -530,7 +519,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-controls?u=76281980&t=125)** As with physical security being tied to what access you have within a building, your logical access is usually tied to a username.
 >
-> **[2:14](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-controls?u=76281980&t=134)** Beyond the username, a user must also know the password as well as possibly even knowing how to get beyond any multi-factor authentication parameters that may be in place.
+> **[2:14](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-controls?u=76281980&t=134)** Beyond the username, a user must also know the password as well as possibly even knowing how to get beyond any [[Multi-factor Authentication]] parameters that may be in place.
 >
 > **[2:25](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-controls?u=76281980&t=145)** A password is a set of letters, numbers, characters, or a phrase that only you should know that will allow you access to a system when paired with the associated username.
 >
@@ -548,7 +537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (4), [[Multi-factor Authentication]] (2), [[Cybersecurity]] (1), teams (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** mfa (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
@@ -559,8 +548,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure practices, terms, and exercises
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980)
+#### [Secure practices, terms, and exercises](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,9 +582,9 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=91)** So anyone that finds your message would be able to read it and use the information.
 >
-> **[1:36](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=96)** Computer or digital forensics is when a person or team is tasked with uncovering information on a system or network, usually for the purpose of a court case or investigation.
+> **[1:36](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=96)** Computer or [[Digital Forensics]] is when a person or team is tasked with uncovering information on a system or network, usually for the purpose of a court case or investigation.
 >
-> **[1:50](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=110)** Computer forensics can be thought of almost as detectives looking into evidence in a case.
+> **[1:50](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=110)** [[Computer Forensics]] can be thought of almost as detectives looking into evidence in a case.
 >
 > **[1:55](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=115)** Just as detectives in a real case would look through physical evidence, computer forensics is tasked with looking through digital evidence.
 >
@@ -604,23 +592,22 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=131)** Some of these tools may even include description techniques if data needed has been encrypted.
 >
-> **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=137)** Next step is penetration testing.
+> **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=137)** Next step is [[Penetration Testing]].
 >
 > **[2:20](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=140)** A good way to think of this is similar to how car manufacturers intentionally crash their cars with dummies inside in order to find any issues or flaws so they can build their cars to be more safe.
 >
-> **[2:33](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=153)** In cybersecurity, penetration tests are done by a network to find flaws or vulnerabilities in a controlled environment before cyber criminals find them and exploit them.
+> **[2:33](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=153)** In [[Cybersecurity]], penetration tests are done by a network to find flaws or vulnerabilities in a controlled environment before cyber criminals find them and exploit them.
 >
 > **[2:46](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980&t=166)** Findings from such tests allow networks and environments to be hardened in order to create more security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (3), [[Computer Forensics]] (2), [[Digital Forensics]] (1), teams (1)
+> **Frameworks & Libraries:** [[Computer Forensics]] (2), [[Digital Forensics]] (1), [[Penetration Testing]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** such as (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980)
+#### [Network controls](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,7 +617,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=23)** A network is a set of computers that leverage the same set of resources and are able to communicate due to a set of common technologies.
 >
-> **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=33)** A virtual private network, or VPN, is almost like a tunnel you can turn on and off when connected to a public network.
+> **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=33)** A [[Virtual Private Network (VPN)|virtual private network]], or VPN, is almost like a tunnel you can turn on and off when connected to a public network.
 >
 > **[0:42](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=42)** This tunnel, when turned on, serves as a way to encrypt data being transmitted, which in turn is an extra layer of security when utilizing public wifi.
 >
@@ -650,7 +637,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=117)** Next up is antivirus.
 >
-> **[1:59](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=119)** One can think of antivirus similar to when someone goes to the doctor, either because they are not feeling well or just as a wellness checkup to ensure everything is in order.
+> **[1:59](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=119)** One can think of antivirus similar to when someone goes to the doctor, either because they are not feeling well or just as a [[Wellness]] checkup to ensure everything is in order.
 >
 > **[2:09](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/network-controls?u=76281980&t=129)** The doctor will do a scan and check your body, and if something is found, notify you, and perhaps make recommendations to help fix the issue.
 >
@@ -664,23 +651,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), vpn (2), data (2), [[Virtual Private Network (VPN)|Virtual private network]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Wellness]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** vpn (2)
 > **Analogies:** such as (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advancements in technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980)
+#### [Advancements in technology](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=0)** - [Instructor] So often, it is said, "Save that to the cloud," or "That is in the cloud," but what does in the cloud really mean?
 >
-> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=9)** According to Microsoft, Cloud computing is the "delivery of computing services, including servers, storage databases, networking, software, analytics, and intelligence over the internet to offer faster innovation, flexible resources, and economies of scale."
+> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=9)** According to [[Microsoft]], [[Cloud Computing]] is the "delivery of computing services, including servers, storage [[Databases]], networking, software, analytics, and intelligence over the internet to offer faster innovation, flexible resources, and economies of scale."
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=29)** Next is Artificial Intelligence, or AI.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=29)** Next is [[Artificial Intelligence (AI)|Artificial Intelligence]], or AI.
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=32)** As humans, we are able to think and make intelligent decisions, as it is human nature to be able do so.
 >
@@ -700,19 +686,19 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=89)** Just as we as students go to school to learn based on curriculum we are given, machines are also taught based on very specific information they are given.
 >
-> **[1:39](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=99)** According to IBM, "Machine learning is a branch of artificial intelligence and computer science which focuses on the use of data and algorithms to imitate the way humans learn, gradually improving its accuracy."
+> **[1:39](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=99)** According to IBM, "Machine learning is a branch of artificial intelligence and computer science which focuses on the use of data and [[Algorithms]] to imitate the way humans learn, gradually improving its accuracy."
 >
-> **[1:53](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=113)** As defined by Investopedia, "A cryptocurrency is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend."
+> **[1:53](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=113)** As defined by Investopedia, "A [[Cryptocurrency]] is a digital or virtual currency that is secured by [[Cryptography]], which makes it nearly impossible to counterfeit or double-spend."
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=126)** A defining feature of cryptocurrency is that they are generally not used by any central authority, rendering them theoretically immune to government interference or manipulation.
 >
-> **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=137)** There are many types of cryptocurrency with new ones being added, which include Bitcoin, Ethereum, and Litecoin.
+> **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=137)** There are many types of cryptocurrency with new ones being added, which include Bitcoin, [[Ethereum]], and Litecoin.
 >
 > **[2:25](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/advancements-in-technology?u=76281980&t=145)** While cryptocurrency continues to grow, it is also an area of contention and has not been as widely adopted as some may have anticipated.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), cloud (4), [[Cryptocurrency]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (2)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Microsoft]] (1), [[Cloud Computing]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** ibm (1)
@@ -725,8 +711,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Threat actors and definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threat-actors-and-definitions?u=76281980)
+#### [Threat actors and definitions](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threat-actors-and-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,15 +759,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Security]] (1), leadership (1)
 > **Analogies:** similar to (2), such as (2), think of it like (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technical risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-risks?u=76281980)
+#### [Technical risks](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,7 +805,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-risks?u=76281980&t=130)** However, the differentiator in this attack scenario here is that this is done with malicious intent.
 >
-> **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-risks?u=76281980&t=137)** Malware is a term that is actually two words combined to create a new word, malicious software, AKA malware.
+> **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-risks?u=76281980&t=137)** Malware is a term that is actually two words combined to create a new [[Microsoft Word|word]], malicious software, AKA malware.
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-risks?u=76281980&t=147)** Malware is software that is designed specifically with the intent of performing malicious tasks and wreaking havoc on computer systems by gaining unwarranted access, disrupting service, and even purposefully causing damage via viruses, Trojans, and more.
 >
@@ -832,7 +815,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-risks?u=76281980&t=174)** The more things it comes in contact with that don't have the proper protection in place, the more it will propagate and infect, though the damage may differ.
 >
-> **[3:04](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-risks?u=76281980&t=184)** Though a virus is just one of many forms of malware, it is often the one we hear the most because it is the most common.
+> **[3:04](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/technical-risks?u=76281980&t=184)** Though a virus is just one of many [[Forms]] of malware, it is often the one we hear the most because it is the most common.
 
 > [!info]- Semantic Content
 >
@@ -843,8 +826,7 @@ created: 2026-05-02
 > **Analogies:** similar to (2), think of it like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Threats that target the human element
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threats-that-target-the-human-element?u=76281980)
+#### [Threats that target the human element](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threats-that-target-the-human-element?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,7 +846,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threats-that-target-the-human-element?u=76281980&t=46)** This can be conducted in a number of ways, but we will cover some of the most common.
 >
-> **[0:52](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threats-that-target-the-human-element?u=76281980&t=52)** Then we have phishing.
+> **[0:52](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threats-that-target-the-human-element?u=76281980&t=52)** Then we have [[Phishing]].
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threats-that-target-the-human-element?u=76281980&t=54)** Phishing is when an email is sent with malicious intent with the appearance of coming from a legitimate person or company.
 >
@@ -902,7 +884,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threats-that-target-the-human-element?u=76281980&t=178)** But in this, the items that are taken or locked down are digital.
 >
-> **[3:02](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threats-that-target-the-human-element?u=76281980&t=182)** And in order to gain back access, the cyber criminal request payment, typically in cryptocurrency.
+> **[3:02](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threats-that-target-the-human-element?u=76281980&t=182)** And in order to gain back access, the cyber criminal request payment, typically in [[Cryptocurrency]].
 >
 > **[3:09](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threats-that-target-the-human-element?u=76281980&t=189)** However, there is no guarantee if you pay that they will actually give you access back.
 >
@@ -910,7 +892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (5), [[Engineering]] (3), [[Security]] (1), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (5), [[Cryptocurrency]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sms (1)
 > **Analogies:** similar to (1)
@@ -921,18 +903,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply cybersecurity terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980)
+#### [Apply cybersecurity terminology](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980&t=0)** - [Instructor] With limited time, we were unable to cover each and every definition and/or acronym within cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980&t=0)** - [Instructor] With limited time, we were unable to cover each and every definition and/or acronym within [[Cybersecurity]].
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980&t=8)** However, it is my hope that you were able to learn a number of new concepts in a way that was easily digestible.
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980&t=16)** Now that you've discovered the definition of a number of concepts you may or may not have heard before, I hope you are able to apply what you learned in your everyday conversations around cybersecurity, both at work and at home.
 >
-> **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980&t=30)** If there were definitions not covered in this training or if there are definitions that you want to take a deeper dive into learning more about, I encourage you to check out the extensive catalog of cybersecurity training right here on LinkedIn Learning.
+> **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980&t=30)** If there were definitions not covered in this training or if there are definitions that you want to take a deeper dive into learning more about, I encourage you to check out the extensive catalog of cybersecurity training right here on [[LinkedIn]] Learning.
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980&t=44)** There are many exceptional instructors that can help take you beyond just the definitions in a truly immersive learning experience.
 >

@@ -88,14 +88,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980)
+#### [Welcome to Jira](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980&t=0)** - Software development is a special type of work, and great tools are needed to do it well.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980&t=0)** - [[Software Development]] is a special type of work, and great tools are needed to do it well.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980&t=6)** Jira's development features help teams track progress, implement new features, fix bugs, and manage their work from requirements gathering to deployment.
+> **[0:06](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980&t=6)** [[Jira]]'s development features help teams track progress, implement new features, fix bugs, and manage their work from [[Requirements Gathering]] to deployment.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980&t=16)** As a former web developer, I'll share my tips for getting the most out of Jira.
 >
@@ -103,32 +102,31 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980&t=29)** And I've used Jira since 2011, and it's the best tool I've found for tracking my work.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980&t=35)** Join my LinkedIn Learning course to understand how to use Jira to track all your tasks.
+> **[0:35](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980&t=35)** Join my [[LinkedIn]] Learning course to understand how to use Jira to track all your tasks.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980&t=41)** Don't miss the demos, challenges, and quizzes at the end of each section to help reinforce the material.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), [[Software Development]] (1), teams (1), [[Requirements Gathering]] (1), web (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Software Development]] (1), [[Requirements Gathering]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (6)
 > **Env Vars:** jira (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - software (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=0)** - This course helps users understand the Jira features specifically built for development tasks and track work, so you can develop, test and release software for your organization.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=0)** - This course helps users understand the [[Jira]] features specifically built for development tasks and track work, so you can develop, test and release software for your organization.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=14)** You may be brand new to Jira software features, have some previous Jira experience, or have used Jira at a previous company.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=22)** Additionally, you may be a new Jira administrator or project administrator without much end user experience.
+> **[0:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=22)** Additionally, you may be a new Jira administrator or project administrator without much end [[User Experience (UX)|user experience]].
 >
 > **[0:30](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=30)** And for you, we'll cover a few administration topics that are specifically related to software features.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=37)** It doesn't matter if you are a software developer, tester, project manager, scrum master, product owner or release manager, anyone involved in the software development lifecycle can benefit from tracking their work in Jira.
+> **[0:37](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=37)** It doesn't matter if you are a software developer, tester, project manager, [[Scrum]] master, product owner or release manager, anyone involved in the [[Software Development]] lifecycle can benefit from tracking their work in Jira.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=54)** If you're totally new to Jira, take my Learning Jira course first.
 >
@@ -140,7 +138,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=79)** It's good to know that there are multiple types of Jira.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=82)** In May 2024, Atlassian announced that in cloud Jira Software and Jira Work Management are combined under the brand name Jira.
+> **[1:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=82)** In May 2024, [[Atlassian]] announced that in cloud Jira Software and Jira Work Management are combined under the brand name Jira.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=93)** Business. Jira projects, formerly known as Jira Work Management in cloud and known as Jira Core in server and data center, contain all the main features of Jira, like projects, work items, workflows and users.
 >
@@ -148,9 +146,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=117)** Software Jira projects are designed for development teams and teams using a Scrum or Kanban methodology.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=125)** It includes dev-specific features like sprints, story points, backlogs, and integration with tools like Bamboo and Bitbucket.
+> **[2:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=125)** It includes dev-specific features like sprints, story points, backlogs, and integration with tools like Bamboo and [[Bitbucket]].
 >
-> **[2:16](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=136)** Jira Service Management is for support and IT service management teams.
+> **[2:16](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=136)** Jira Service Management is for support and [[IT Service Management]] teams.
 >
 > **[2:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=142)** In cloud, there's also Jira Product Discovery, which helps product managers collaborate and prioritize initiatives.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=178)** If you have server, it means the software is hosted independently.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=183)** Your application may be hosted on premises, on a server in your office, in a data center with other internal applications, in a cloud server environment like Amazon AWS, Microsoft Azure, or Google Cloud platform, or by a third party.
+> **[3:03](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=183)** Your application may be hosted on premises, on a server in your [[Microsoft Office|office]], in a data center with other internal applications, in a cloud server environment like Amazon AWS, [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud platform]], or by a third party.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=202)** While support has ended for Server, I know that some organizations will continue to use it anyway, so this course includes information for users of all deployment types.
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=321)** And when you're done with this course, you can keep the free version for future testing or for personal projects, like remodeling the kitchen or recording family milestones.
 >
-> **[5:32](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=332)** Atlassian offers free versions of most of their cloud products.
+> **[5:32](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=332)** Atlassian offers free versions of most of their cloud [[Microsoft Products|products]].
 >
 > **[5:38](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=338)** Next, I wanted to mention that it's really hard to keep up with software changes.
 >
@@ -216,7 +214,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=378)** And for some of you, I speak too slowly and for others I speak too fast.
 >
-> **[6:24](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=384)** Luckily, the LinkedIn video player has some useful features to help you move at your own pace.
+> **[6:24](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=384)** Luckily, the [[LinkedIn]] video player has some useful features to help you move at your own pace.
 >
 > **[6:30](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/who-is-this-course-for?u=76281980&t=390)** On the bottom left, use the skip back icon to rewind 10 seconds and hear information again.
 >
@@ -268,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (39), [[Atlassian]] (14), cloud (12), application (8), data (7)
+> **Frameworks & Libraries:** [[Jira]] (39), [[Atlassian]] (14), [[Microsoft Products|Products]] (3), [[Scrum]] (2), [[Software Development]] (2)
 > **Tools:** jira (39), bitbucket (1)
 > **Env Vars:** aws (1), url (1)
 > **Definitions:** known as (2)
@@ -282,16 +280,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Software project types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980)
+#### [Software project types](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=0)** - In this section, we'll dive into Jira projects that are specifically built for development teams.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=0)** - In this section, we'll dive into [[Jira]] projects that are specifically built for development teams.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=7)** In Jira, a project is a collection of work items.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=11)** Now, the word project in Jira is different than an initiative your team is working on outside of Jira.
+> **[0:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=11)** Now, the [[Microsoft Word|word]] project in Jira is different than an initiative your team is working on outside of Jira.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=18)** Think of a Jira project as a container for all your team's work, tasks, and to-do items.
 >
@@ -339,11 +336,11 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=154)** The type you select when creating a work item determines which fields you'll complete and the workflow steps.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=162)** In software development, there are many different frameworks and methodologies, but dev teams can use Jira whether they use a linear process, circular process, iterative process, or no process at all.
+> **[2:42](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=162)** In [[Software Development]], there are many different frameworks and methodologies, but dev teams can use Jira whether they use a linear process, circular process, iterative process, or no process at all.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=177)** Regardless of your organization's development method, there are some process-specific terms you'll encounter while using Jira.
 >
-> **[3:07](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=187)** The term agile started out as an iterative approach to project management and software development, but has since expanded to encompass other teams that want to quickly respond to change.
+> **[3:07](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=187)** The term [[Agile Development|agile]] started out as an iterative approach to project management and software development, but has since expanded to encompass other teams that want to quickly respond to change.
 >
 > **[3:20](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=200)** With this methodology, requirements and solutions evolve continuously, instead of all at once.
 >
@@ -351,7 +348,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=216)** Instead of infrequent and large code deployments, the agile philosophy suggests many frequent and small deployments.
 >
-> **[3:46](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=226)** Another term you'll see in Jira is DevOps.
+> **[3:46](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=226)** Another term you'll see in Jira is [[DevOps]].
 >
 > **[3:50](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=230)** DevOps is a combination of the words development and operations.
 >
@@ -373,7 +370,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=295)** Jira has two types of boards to help teams visualize work.
 >
-> **[5:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=300)** The boards are built to use with the two agile frameworks, scrum and kanban.
+> **[5:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=300)** The boards are built to use with the two agile frameworks, [[Scrum]] and kanban.
 >
 > **[5:06](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=306)** Scrum boards are for teams that deliver their work in regular, fixed intervals called sprints.
 >
@@ -451,7 +448,7 @@ created: 2026-05-02
 >
 > **[9:03](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=543)** Next, I'll click on the Reports tab.
 >
-> **[9:06](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=546)** Software projects have agile and DevOps reports that you won't see in other project types, like the burndown chart or sprint report.
+> **[9:06](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=546)** [[Software Projects]] have agile and DevOps reports that you won't see in other project types, like the burndown chart or sprint report.
 >
 > **[9:16](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980&t=556)** Next, under the More menu are additional pages only found in software projects, like development, code, releases, deployments, and more.
 >
@@ -505,7 +502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (37), next (10), teams (9), [[Agile Development|Agile]] (6), [[Scrum]] (6)
+> **Frameworks & Libraries:** [[Jira]] (37), [[Agile Development|Agile]] (6), [[Scrum]] (6), [[Software Projects]] (4), [[Software Development]] (3)
 > **Tools:** jira (37)
 > **Definitions:** is a  (6), is an  (2)
 > **Env Vars:** dev (4), url (1)
@@ -514,14 +511,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Common work types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980)
+#### [Common work types](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=0)** - [Instructor] In this section we'll discuss specific work types and their common uses.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=7)** As previously defined, Individual records in Jira are called work items in Cloud or issues in Server and Data Center.
+> **[0:07](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=7)** As previously defined, Individual records in [[Jira]] are called work items in Cloud or issues in Server and Data Center.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=17)** Records are further categorized as either work types or issue types, like Tasks and Bugs.
 >
@@ -531,7 +527,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=41)** Next, we'll discuss the standard software work types and how most organizations use them.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=48)** An Epic is an agile term describing a large body of work that's typically broken down into many small accomplishable pieces.
+> **[0:48](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=48)** An Epic is an [[Agile Development|agile]] term describing a large body of work that's typically broken down into many small accomplishable pieces.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=58)** For example, the marketing team wants to redesign the company website.
 >
@@ -569,7 +565,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=183)** They're often expressed in a standard format like as a user, I want X so I can do Y.
 >
-> **[3:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=191)** So, for example, as a website customer, I want a product Summary page so I can see all products in one place.
+> **[3:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=191)** So, for example, as a website customer, I want a product Summary page so I can see all [[Microsoft Products|products]] in one place.
 >
 > **[3:19](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=199)** Or as a product marketer, I want a referral program so I can grow our customer base.
 >
@@ -595,7 +591,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=274)** Versions often have a specific naming format.
 >
-> **[4:37](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=277)** Tom Preston-Werner, inventor of Gravatar and co-founder of GitHub created the semantic versioning specification.
+> **[4:37](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=277)** Tom Preston-Werner, inventor of Gravatar and co-founder of [[GitHub]] created the semantic versioning specification.
 >
 > **[4:46](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=286)** Well, this is a recommendation for naming versions in the format MAJOR.MINOR.PATCH.
 >
@@ -703,7 +699,7 @@ created: 2026-05-02
 >
 > **[10:48](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=648)** It's important to know that different Jira projects might have different work types, workflows and other settings.
 >
-> **[10:56](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=656)** In this simple example, Project 1 and Project 2 are both software projects, but Project 2 has additional work types and a different workflow.
+> **[10:56](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=656)** In this simple example, Project 1 and Project 2 are both [[Software Projects]], but Project 2 has additional work types and a different workflow.
 >
 > **[11:07](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=667)** If you don't see an expected work type in your Jira project, ask your administrator to add it.
 >
@@ -755,7 +751,7 @@ created: 2026-05-02
 >
 > **[13:19](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=799)** First, there's no limit to how many items are created at each level.
 >
-> **[13:24](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=804)** Additional levels above the Epic are possible with Cloud premium and apps from the Atlassian Marketplace.
+> **[13:24](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=804)** Additional levels above the Epic are possible with Cloud premium and apps from the [[Atlassian]] Marketplace.
 >
 > **[13:32](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=812)** Levels above Epic are often named initiative, theme, goal, or whatever makes sense to track strategic priorities in your organization.
 >
@@ -763,7 +759,7 @@ created: 2026-05-02
 >
 > **[13:48](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=828)** This allows work to be assigned to different users.
 >
-> **[13:52](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=832)** This way accountability is shared among multiple people.
+> **[13:52](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=832)** This way [[Accountability]] is shared among multiple people.
 >
 > **[13:56](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-work-types?u=76281980&t=836)** Next, estimates and worked log in Subtasks can be summed in parent issues automatically or with automation rules.
 >
@@ -851,7 +847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (20), next (14), cloud (9), data (9), product (4)
+> **Frameworks & Libraries:** [[Jira]] (20), [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1), [[GitHub]] (1), [[Software Projects]] (1)
 > **Tools:** jira (20), github (1)
 > **Definitions:** is a  (4), is an  (1), in other words (1), is called (1)
 > **Analogies:** for example (5), just like (2)
@@ -860,14 +856,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (2), scroll down (1), checkbox (1), open the (1)
 > **CLI Commands:** find (3), make (1)
 
-#### Using software workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980)
+#### [Using software workflows](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=0)** - [Instructor] In the previous learning JIRA Cloud and learning JIRA data center courses, I showed how to transition items in a workflow so you can keep status in sync with reality.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=0)** - [Instructor] In the previous learning [[Jira]] Cloud and learning JIRA data center courses, I showed how to transition items in a workflow so you can keep status in sync with reality.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=11)** In this course, we'll talk about how workflows are typically used and configured specifically in software projects.
+> **[0:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=11)** In this course, we'll talk about how workflows are typically used and configured specifically in [[Software Projects]].
 >
 > **[0:20](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=20)** But first, here are some definitions to know.
 >
@@ -881,7 +876,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=48)** Finally, workflow transitions have what I call behaviors.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=53)** Atlassian sometimes calls these rules or workflow extensions.
+> **[0:53](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=53)** [[Atlassian]] sometimes calls these rules or workflow extensions.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=58)** These specify what happens in the background when items are transitioned from one status to another.
 >
@@ -929,7 +924,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=236)** Next, let's discuss transitions which move items between workflow statuses.
 >
-> **[4:02](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=242)** Both examples use global transitions indicated by the word all.
+> **[4:02](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=242)** Both examples use global transitions indicated by the [[Microsoft Word|word]] all.
 >
 > **[4:08](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=248)** All means items can move from one status to any other status.
 >
@@ -945,11 +940,11 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=286)** Workflows sometimes contain additional custom behaviors to control actions before, during, or after a transition.
 >
-> **[4:55](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=295)** Here are some examples commonly used in software development workflows.
+> **[4:55](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=295)** Here are some examples commonly used in [[Software Development]] workflows.
 >
 > **[5:01](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=301)** First is a trigger.
 >
-> **[5:03](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=303)** You could use this to automatically transition an issue from the to-do status to the in-progress status if a code branch is created in Bitbucket.
+> **[5:03](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=303)** You could use this to automatically transition an issue from the to-do status to the in-progress status if a code branch is created in [[Bitbucket]].
 >
 > **[5:13](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-software-workflows?u=76281980&t=313)** The next example is a condition.
 >
@@ -1047,7 +1042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), next (9), teams (4), business (3), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Software Projects]] (1), [[Atlassian]] (1), [[Microsoft Word|Word]] (1), [[Software Development]] (1)
 > **Tools:** jira (9), bitbucket (1)
 > **Env Vars:** jira (9)
 > **Analogies:** for example (6)
@@ -1056,16 +1051,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging backlogs and sprints
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980)
+#### [Leveraging backlogs and sprints](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980&t=0)** - [Instructor] In this section, we'll discuss how the backlog and sprint features help Scrum teams manage work, and as usual, here are some definitions.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980&t=0)** - [Instructor] In this section, we'll discuss how the backlog and sprint features help [[Scrum]] teams manage work, and as usual, here are some definitions.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980&t=10)** A backlog is essentially a team's might-do list.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980&t=15)** New Jira items are generally stored in the backlog until they're estimated, prioritized, and scheduled for work.
+> **[0:15](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980&t=15)** New [[Jira]] items are generally stored in the backlog until they're estimated, prioritized, and scheduled for work.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980&t=23)** A sprint is a time-boxed iteration where teams complete work pulled from the backlog.
 >
@@ -1209,13 +1203,13 @@ created: 2026-05-02
 >
 > **[7:17](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980&t=437)** Here's another complex example from the documentation.
 >
-> **[7:21](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980&t=441)** Atlassian recommends keeping or clauses outside of parentheses and and sub clauses inside of parentheses.
+> **[7:21](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980&t=441)** [[Atlassian]] recommends keeping or clauses outside of parentheses and and sub clauses inside of parentheses.
 >
 > **[7:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/leveraging-backlogs-and-sprints?u=76281980&t=451)** For additional examples and more information on this topic, visit the URL shown.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), [[Scrum]] (5), next (4), teams (3), feature (3)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Scrum]] (5), [[Atlassian]] (1)
 > **Tools:** jira (10)
 > **Env Vars:** dev (2), url (1)
 > **CLI Commands:** make (1), find (1)
@@ -1224,8 +1218,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Versions:** 1.0.0 (1)
 
-#### Estimating work and tracking time
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980)
+#### [Estimating work and tracking time](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,7 +1228,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=10)** In this section, we'll discuss the differences between time and story point estimates.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=16)** As a reminder from the Learning Jira course, time estimates are entered in minutes, hours, days, or weeks.
+> **[0:16](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=16)** As a reminder from the Learning [[Jira]] course, time estimates are entered in minutes, hours, days, or weeks.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=26)** In the example, 2,400 minutes is the same as 40 hours, five days, or one work week.
 >
@@ -1315,7 +1308,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=238)** In this example, when an item is transitioned from the Backlog Status to the Selected for Development status, an overlay appears to collect estimate details.
 >
-> **[4:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=250)** For scrum projects, another way to enter estimates is from the backlog.
+> **[4:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=250)** For [[Scrum]] projects, another way to enter estimates is from the backlog.
 >
 > **[4:15](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=255)** Click an item to open it in the right sidebar, then add the estimate.
 >
@@ -1369,7 +1362,7 @@ created: 2026-05-02
 >
 > **[6:58](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=418)** Once enabled, the functionality is the same as in company-managed projects.
 >
-> **[7:04](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=424)** Check out Atlassian's Agile Project Management Guide for additional estimation help.
+> **[7:04](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=424)** Check out [[Atlassian]]'s [[Agile Development|Agile]] Project Management Guide for additional estimation help.
 >
 > **[7:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/estimating-work-and-tracking-time?u=76281980&t=430)** Now that we've discussed estimation, let's discuss time tracking.
 >
@@ -1513,7 +1506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (15), next (8), data (5), application (4), cloud (4)
+> **Frameworks & Libraries:** [[Jira]] (15), [[Atlassian]] (3), [[Agile Development|Agile]] (2), [[Scrum]] (1)
 > **Tools:** jira (15)
 > **UI Navigation:** checkbox (2), click on (1), dropdown (1), toggle (1)
 > **Env Vars:** jira (3), jql (1)
@@ -1522,12 +1515,11 @@ created: 2026-05-02
 > **Best Practices:** good practice (1), it's best to (1)
 > **Versions:** 2.5 (1)
 
-#### Using fix versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-fix-versions?u=76281980)
+#### [Using fix versions](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-fix-versions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-fix-versions?u=76281980&t=0)** - [Rachel] Another JIRA software feature is fixed versions and releases.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-fix-versions?u=76281980&t=0)** - [Rachel] Another [[Jira]] software feature is fixed versions and releases.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-fix-versions?u=76281980&t=5)** A fixed version is a grouping of work by date or time period.
 >
@@ -1599,7 +1591,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-fix-versions?u=76281980&t=192)** Sometimes this page is also called the release hub.
 >
-> **[3:17](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-fix-versions?u=76281980&t=197)** Each version has metadata like a status, an optional start date, release date, and description.
+> **[3:17](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-fix-versions?u=76281980&t=197)** Each version has [[Metadata]] like a status, an optional start date, release date, and description.
 >
 > **[3:25](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-fix-versions?u=76281980&t=205)** Hover over the progress bar to see a count of items.
 >
@@ -1743,7 +1735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (14), [[Automation]] (9), next (6), data (3), feature (2)
+> **Frameworks & Libraries:** [[Jira]] (14), [[Metadata]] (1)
 > **Env Vars:** jira (14), jql (3), url (2)
 > **Tools:** jira (14)
 > **Versions:** 1.1.0 (2), 1.0.0 (1), 1.1.15 (1), 1.1 (1)
@@ -1752,20 +1744,19 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
-#### Types of boards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980)
+#### [Types of boards](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=0)** - [Educator] We previously defined these terms in an earlier section, but here's a reminder.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=6)** There are many ways to visualize work in Jira, and the boards feature is one of them.
+> **[0:06](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=6)** There are many ways to visualize work in [[Jira]], and the boards feature is one of them.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=11)** Boards are customizable and there's no limit to how many you can have.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=16)** There are many ways to access boards, the naming of the link and a projects navigation differs by application type and project type, however.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=27)** This example shows a company managed Scrum project in Cloud.
+> **[0:27](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=27)** This example shows a company managed [[Scrum]] project in Cloud.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=31)** Access aboard from the Active sprints link in the top nav.
 >
@@ -1923,7 +1914,7 @@ created: 2026-05-02
 >
 > **[7:47](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=467)** The board configuration capabilities are similar, but as usual, the UI is different.
 >
-> **[7:54](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=474)** Atlassian has fantastic documentation on Scrum, Kanban and board differences in their agile coach documentation.
+> **[7:54](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=474)** [[Atlassian]] has fantastic documentation on Scrum, Kanban and board differences in their [[Agile Development|agile]] coach documentation.
 >
 > **[8:04](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-boards?u=76281980&t=484)** Learn more at the URL shown.
 >
@@ -1931,7 +1922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (11), feature (7), data (5), next (5), cloud (4)
+> **Frameworks & Libraries:** [[Scrum]] (11), [[Jira]] (3), [[Atlassian]] (1), [[Agile Development|Agile]] (1)
 > **UI Navigation:** in the menu (2), toggle (2), click on (1)
 > **Env Vars:** url (3), jql (1)
 > **Tools:** jira (3)
@@ -1940,8 +1931,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 
-#### Types of reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980)
+#### [Types of reports](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2031,7 +2021,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=269)** Don't wait until the end of the work cycle to check on how things are going.
 >
-> **[4:35](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=275)** Part of Jira's power is its reporting capabilities.
+> **[4:35](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=275)** Part of [[Jira]]'s power is its reporting capabilities.
 >
 > **[4:39](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=279)** Data is pulled from entire projects, JQL queries and specific boards.
 >
@@ -2049,7 +2039,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=323)** Here's a tip.
 >
-> **[5:24](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=324)** The types of reports available differ, depending on whether the project or board selected is Scrum or Kanban.
+> **[5:24](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=324)** The types of reports available differ, depending on whether the project or board selected is [[Scrum]] or Kanban.
 >
 > **[5:32](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=332)** For example, the burndown, burnup and sprint report are all Scrum specific concepts.
 >
@@ -2119,11 +2109,11 @@ created: 2026-05-02
 >
 > **[8:48](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=528)** For example, here's the URL format for the time tracking report.
 >
-> **[8:54](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=534)** As I mentioned, most reports are customizable, but if you need more features or can't get to the desired data, there are many reporting apps to explore in the Atlassian marketplace.
+> **[8:54](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/types-of-reports?u=76281980&t=534)** As I mentioned, most reports are customizable, but if you need more features or can't get to the desired data, there are many reporting apps to explore in the [[Atlassian]] marketplace.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (9), [[Jira]] (4), [[Scrum]] (3), teams (2)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Scrum]] (3), [[Atlassian]] (1)
 > **Env Vars:** url (3), jql (1), inc (1), dec (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Tools:** jira (4)
@@ -2132,18 +2122,17 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** dropdown (1)
 
-#### Common integrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980)
+#### [Common integrations](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=0)** - [Instructor] Jira connects to additional Atlassian and non-Atlassian tools.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=0)** - [Instructor] [[Jira]] connects to additional [[Atlassian]] and non-Atlassian tools.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=5)** In this section, we'll discuss common integrations.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=10)** Integration with other applications and middleware accelerates work and avoids duplication.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=17)** For example, automatically trigger a Zoom meeting when a high-priority Jira item is created, or send Jira work logs to an external billing application, or sync information between tools so different teams can leverage it.
+> **[0:17](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=17)** For example, automatically trigger a [[Zoom]] meeting when a high-priority Jira item is created, or send Jira work logs to an external billing application, or sync information between tools so different teams can leverage it.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=33)** A common example is connecting Jira to Salesforce so users can work from either application.
 >
@@ -2161,25 +2150,25 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=70)** Regardless of which tools you use, connecting them reduces manual work, fosters transparency, and increases collaboration potential.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=81)** Development teams often connect Jira to a collaboration platform, wiki, or documentation repository, like Confluence.
+> **[1:21](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=81)** Development teams often connect Jira to a collaboration platform, wiki, or documentation repository, like [[Confluence]].
 >
 > **[1:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=91)** Confluence helps teams organize work, manage files, and document everything in one place.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=98)** Jira connects to other similar tools too.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=101)** For example, import Jira data or query Jira from a Google Sheet.
+> **[1:41](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=101)** For example, import Jira data or query Jira from a [[Google]] Sheet.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=108)** There are many code management tools that connect to Jira.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=112)** Bamboo is for continuous integration, deployment, and release management.
+> **[1:52](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=112)** Bamboo is for [[Continuous Integration (CI)|continuous integration]], deployment, and release management.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=117)** Bitbucket is used to manage, test, and deploy code.
+> **[1:57](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=117)** [[Bitbucket]] is used to manage, test, and deploy code.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=122)** If you have a peer code review process, you might use Crucible to find bugs and improve code quality.
+> **[2:02](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=122)** If you have a peer [[Code Review]] process, you might use Crucible to find bugs and improve code quality.
 >
 > **[2:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=130)** Fisheye helps search, monitor, and track code across repositories.
 >
-> **[2:16](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=136)** Sourcetree is a free Git client for Windows and Mac.
+> **[2:16](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=136)** Sourcetree is a free [[Git]] client for [[Windows]] and Mac.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=140)** You can visualize and manage repositories through a simple graphical interface.
 >
@@ -2187,7 +2176,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=151)** Finally, connect Jira to tools like Jira Service Management, Compass, or Statuspage to manage alerts and communicate system availability.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=162)** It's easy for application administrators to connect Atlassian products together.
+> **[2:42](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=162)** It's easy for application administrators to connect Atlassian [[Microsoft Products|products]] together.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=168)** Look for the application links in the product's admin section or the application's admin area in Server and Data Center.
 >
@@ -2213,7 +2202,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=260)** For example, alert another application when an item is updated, a workflow post function has executed, or an incident is being worked.
 >
-> **[4:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=271)** Chat applications like Slack and Microsoft Teams are often connected to Jira using WebHook functionality.
+> **[4:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=271)** Chat applications like [[Slack]] and [[Microsoft Teams]] are often connected to Jira using WebHook functionality.
 >
 > **[4:39](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=279)** In this example, Slack notifies a channel when Jira epics are closed and when bugs are created.
 >
@@ -2225,15 +2214,15 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=302)** Finally, there are many easy-to-install integration apps in the Atlassian Marketplace.
 >
-> **[5:08](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=308)** And of course, if you can't find the integration you're looking for, you can always develop your own using an Atlassian framework or the REST API.
+> **[5:08](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=308)** And of course, if you can't find the integration you're looking for, you can always develop your own using an Atlassian framework or the [[Representational State Transfer (REST)|REST]] API.
 >
-> **[5:19](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=319)** Exact instructions for connecting Atlassian applications are available in my [[Planning and Releasing Software with Jira]] LinkedIn course.
+> **[5:19](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=319)** Exact instructions for connecting Atlassian applications are available in my [[Planning and Releasing Software with Jira]] [[LinkedIn]] course.
 >
 > **[5:28](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/common-integrations?u=76281980&t=328)** I hope you'll take this course next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (30), application (12), [[Atlassian]] (8), [[Confluence]] (6), teams (4)
+> **Frameworks & Libraries:** [[Jira]] (30), [[Atlassian]] (8), [[Confluence]] (6), [[Slack]] (4), [[Bitbucket]] (3)
 > **Tools:** jira (30), confluence (6), slack (4), bitbucket (3)
 > **CLI Commands:** find (3), git (1)
 > **Analogies:** for example (4)
@@ -2247,12 +2236,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting the most from Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/getting-the-most-from-jira-software?u=76281980)
+#### [Getting the most from Jira](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/getting-the-most-from-jira-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/getting-the-most-from-jira-software?u=76281980&t=0)** - I wanted to share my top tips for getting the most out of Jira.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/getting-the-most-from-jira-software?u=76281980&t=0)** - I wanted to share my top tips for getting the most out of [[Jira]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/getting-the-most-from-jira-software?u=76281980&t=5)** First, Jira is just a tool.
 >
@@ -2264,18 +2252,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), leadership (1)
+> **Frameworks & Libraries:** [[Jira]] (4)
 > **Tools:** jira (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Keeping data accurate
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/keeping-data-accurate?u=76281980)
+#### [Keeping data accurate](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/keeping-data-accurate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/keeping-data-accurate?u=76281980&t=0)** - Next JIRA loves data.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/keeping-data-accurate?u=76281980&t=0)** - Next [[Jira]] loves data.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/keeping-data-accurate?u=76281980&t=3)** To leverage JIRA's powerful features be intentional about the information entered.
 >
@@ -2307,19 +2294,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), data (3), next (1), power (1)
+> **Frameworks & Libraries:** [[Jira]] (3)
 > **Env Vars:** jira (3)
 > **Tools:** jira (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - next (1)
 
-#### Ways to be proactive
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ways-to-be-proactive?u=76281980)
+#### [Ways to be proactive](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ways-to-be-proactive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ways-to-be-proactive?u=76281980&t=0)** - My final Jira use tip is to be proactive.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ways-to-be-proactive?u=76281980&t=0)** - My final [[Jira]] use tip is to be proactive.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ways-to-be-proactive?u=76281980&t=4)** Always start the day by checking a board or dashboard to see new or important items.
 >
@@ -2329,7 +2315,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ways-to-be-proactive?u=76281980&t=17)** Notification messages can be delayed, blocked, or filtered.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ways-to-be-proactive?u=76281980&t=22)** It's better to use boards, dashboards, filters and reports to monitor activity.
+> **[0:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ways-to-be-proactive?u=76281980&t=22)** It's better to use boards, [[Dashboards]], filters and reports to monitor activity.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ways-to-be-proactive?u=76281980&t=29)** Also, don't rely too much on export functions.
 >
@@ -2343,17 +2329,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), [[Dashboards]] (1), data (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Dashboards]] (1)
 > **Tools:** jira (3)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - my (1)
 
-#### What your administrator wishes you knew
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/what-your-administrator-wishes-you-knew?u=76281980)
+#### [What your administrator wishes you knew](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/what-your-administrator-wishes-you-knew?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/what-your-administrator-wishes-you-knew?u=76281980&t=0)** - As a Jira administrator, there are four things I wish my users knew.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/what-your-administrator-wishes-you-knew?u=76281980&t=0)** - As a [[Jira]] administrator, there are four things I wish my users knew.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/what-your-administrator-wishes-you-knew?u=76281980&t=5)** First, and I know not all admins want to hear this, but if you hate Jira, if it's a pain to use, or it doesn't work well for your team, it's probably your administrator's fault.
 >
@@ -2397,7 +2382,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/what-your-administrator-wishes-you-knew?u=76281980&t=125)** Finally, there are some settings that you might initially not like, but they're often built that way on purpose.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/what-your-administrator-wishes-you-knew?u=76281980&t=132)** Atlassian tries to steer you towards best practices with the default settings and options.
+> **[2:12](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/what-your-administrator-wishes-you-knew?u=76281980&t=132)** [[Atlassian]] tries to steer you towards best practices with the default settings and options.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/what-your-administrator-wishes-you-knew?u=76281980&t=138)** A common complaint is items can only be assigned to one user, so organizations sometimes hate this and they do all sorts of things to get around it, like creating service accounts, sharing accounts, and using distro email addresses.
 >
@@ -2413,7 +2398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), cloud (1), data (1), next (1), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Atlassian]] (1)
 > **Tools:** jira (7)
 > **CLI Commands:** make (4)
 > **Speakers:** - as (1)
@@ -2423,12 +2408,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filter overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980)
+#### [Filter overview](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=0)** - [Instructor] First, let's review a few terms from the Learning Jira course.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=0)** - [Instructor] First, let's review a few terms from the Learning [[Jira]] course.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=4)** A query is a question you ask Jira and JQL is the language you use to ask.
 >
@@ -2442,9 +2426,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=36)** But JQL is for everyone, not just technical users.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=41)** It powers features like boards, dashboards and reports.
+> **[0:41](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=41)** It powers features like boards, [[Dashboards]] and reports.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=46)** If you're familiar with SQL, you'll pick this up very quickly.
+> **[0:46](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=46)** If you're familiar with [[SQL]], you'll pick this up very quickly.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=51)** In this example, the query asks how many bugs the marketing team reported this week.
 >
@@ -2516,7 +2500,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=241)** Since many of you are developers, here's some bonus information you might find useful.
 >
-> **[4:07](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=247)** In addition to the abilities in the UI, you can also leverage the REST API to access information.
+> **[4:07](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=247)** In addition to the abilities in the UI, you can also leverage the [[Representational State Transfer (REST)|REST]] API to access information.
 >
 > **[4:14](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=254)** Here are some examples to get you started.
 >
@@ -2524,7 +2508,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=262)** Don't forget to escape or encode any special characters or spaces.
 >
-> **[4:27](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=267)** More info about the REST API is available in the developer documentation at developer.[atlassian.com](https://atlassian.com).
+> **[4:27](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=267)** More info about the REST API is available in the developer documentation at developer.[[[Atlassian]].com](https://atlassian.com).
 >
 > **[4:36](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980&t=276)** Further, server and data center users can also directly query the database.
 >
@@ -2534,7 +2518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (12), [[Jira]] (7), data (4), ai (2), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Dashboards]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Atlassian]] (2), [[SQL]] (1)
 > **Env Vars:** jql (10), url (3), rest (2), api (2), sql (1)
 > **Tools:** jira (7)
 > **CLI Commands:** find (3), make (1)
@@ -2543,12 +2527,11 @@ created: 2026-05-02
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
 > **UI Navigation:** dropdown (1)
 
-#### Using filter subscriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-filter-subscriptions?u=76281980)
+#### [Using filter subscriptions](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-filter-subscriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-filter-subscriptions?u=76281980&t=0)** - [Instructor] Remember in the last section when I recommended being proactive and not waiting to receive Jira email notifications?
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-filter-subscriptions?u=76281980&t=0)** - [Instructor] Remember in the last section when I recommended being proactive and not waiting to receive [[Jira]] email notifications?
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/using-filter-subscriptions?u=76281980&t=8)** Well, I still stand by that advice, but there's one place where email notifications are useful.
 >
@@ -2616,7 +2599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), next (4), feature (2), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Jira]] (5)
 > **Tools:** jira (5)
 > **Env Vars:** jql (2)
 > **Cross-References:** in the last (2)
@@ -2625,8 +2608,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 
-#### Challenge: Create a custom filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-filter?u=76281980)
+#### [Challenge: Create a custom filter](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2638,11 +2620,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-filter?u=76281980&t=20)** You are the reporter.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-filter?u=76281980&t=22)** The items contain the word website.
+> **[0:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-filter?u=76281980&t=22)** The items contain the [[Microsoft Word|word]] website.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-filter?u=76281980&t=25)** The items haven't been updated in a week, and items were due last year but weren't completed.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-filter?u=76281980&t=31)** Visit the Jira search page, enter a JQL query, execute the search, and save the filter.
+> **[0:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-filter?u=76281980&t=31)** Visit the [[Jira]] search page, enter a JQL query, execute the search, and save the filter.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-filter?u=76281980&t=39)** I made this query a little complicated on purpose.
 >
@@ -2658,15 +2640,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), [[Search]] (2), [[Microsoft Word|Word]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** jql (2)
 > **Tools:** jira (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a custom filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-filter?u=76281980)
+#### [Solution: Create a custom filter](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2684,7 +2665,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-filter?u=76281980&t=24)** You could also hard code your username.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-filter?u=76281980&t=27)** The tilde in the second clause does a like search for a word or phrase.
+> **[0:27](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-filter?u=76281980&t=27)** The tilde in the second clause does a like search for a [[Microsoft Word|word]] or phrase.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-filter?u=76281980&t=32)** The tilde looks in the summary, description and comment fields.
 >
@@ -2700,7 +2681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** jql (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -2710,12 +2691,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dashboard overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980)
+#### [Dashboard overview](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980&t=0)** - [Instructor] Dashboards provide powerful insights, statistics, and high-level views to monitor the health of the release, progress on an initiative, or your own custom list of important work.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980&t=0)** - [Instructor] [[Dashboards]] provide powerful insights, [[Statistics]], and high-level views to monitor the health of the release, progress on an initiative, or your own custom list of important work.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980&t=14)** A dashboard is a statistic space view of items from one or more projects.
 >
@@ -2725,7 +2705,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980&t=28)** There's a default system dashboard for everyone to use, and you can create custom dashboards too.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980&t=35)** A gadget displays dynamic content on a Jira dashboard.
+> **[0:35](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980&t=35)** A gadget displays dynamic content on a [[Jira]] dashboard.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980&t=40)** There are many types of gadgets, like charts, graphs, and lists.
 >
@@ -2763,19 +2743,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (8), data (3), [[Jira]] (3), application (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (8), [[Jira]] (3), [[Statistics]] (1)
 > **Tools:** jira (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** url (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980)
+#### [Example dashboards](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=0)** - [Instructor] Let's look at some example dashboards so you can get ideas for your own custom versions.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=0)** - [Instructor] Let's look at some example [[Dashboards]] so you can get ideas for your own custom versions.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=6)** These first examples are from cloud.
 >
@@ -2787,11 +2766,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=22)** On the right are reminder blocks for various consulting agreements.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=26)** At the bottom right is a stream showing recent Jira activity.
+> **[0:26](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=26)** At the bottom right is a stream showing recent [[Jira]] activity.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=31)** I also use Atlassian tools outside of work to track personal growth items.
+> **[0:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=31)** I also use [[Atlassian]] tools outside of work to track personal growth items.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=37)** This dashboard tracks personal goal progress, displays a heat map to highlight common themes, shows a pie chart for progress on my bucket list, and calculates various statistics, percentages, and work logs.
+> **[0:37](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=37)** This dashboard tracks personal goal progress, displays a heat map to highlight common themes, shows a pie chart for progress on my bucket list, and calculates various [[Statistics]], percentages, and work logs.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=52)** In case it doesn't translate, a bucket list is the list of things I want to achieve or experience before the end of my life.
 >
@@ -2829,7 +2808,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=138)** It was like having a mini service desk without installing Jira service management.
 >
-> **[2:24](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=144)** To achieve this, I used the text gadget, which accommodates plain text or HTML.
+> **[2:24](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=144)** To achieve this, I used the text gadget, which accommodates plain text or [[HTML]].
 >
 > **[2:30](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=150)** Now because of the potential for cross site scripting, this gadget is only available in server and data center.
 >
@@ -2847,7 +2826,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=191)** Finally, scroll down to the line labeled text.
 >
-> **[3:15](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=195)** Then hover over the word disabled to enable the gadget.
+> **[3:15](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=195)** Then hover over the [[Microsoft Word|word]] disabled to enable the gadget.
 >
 > **[3:19](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/example-dashboards?u=76281980&t=199)** And here's a tip.
 >
@@ -2859,7 +2838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (11), data (6), [[Atlassian]] (4), cloud (3), application (2)
+> **Frameworks & Libraries:** [[Jira]] (11), [[Atlassian]] (4), [[Statistics]] (2), [[HTML]] (2), [[Dashboards]] (1)
 > **Tools:** jira (11)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Definitions:** is a  (3)
@@ -2867,14 +2846,13 @@ created: 2026-05-02
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing dashboard gadgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980)
+#### [Choosing dashboard gadgets](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=0)** - [Instructor] Here are some of the gadgets I use most often and why I like them.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=5)** First is the two dimensional filter statistics gadget.
+> **[0:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=5)** First is the two dimensional filter [[Statistics]] gadget.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=9)** It's the only one that displays counts for two different stats in the same chart.
 >
@@ -2910,7 +2888,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=102)** You can show or hide this information.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=105)** Next is the JIRA Roadmap Gadget, which shows upcoming versions for selected JIRA projects.
+> **[1:45](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=105)** Next is the [[Jira]] Roadmap Gadget, which shows upcoming versions for selected JIRA projects.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=114)** Next is the Sprint burndown Gadget.
 >
@@ -2920,7 +2898,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=133)** I like to put this gadget at the top right of any dashboard that shows dev team progress.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=139)** As you can see, dashboards and gadgets provide a quick and easy way to build helpful views for yourself, your team, or leadership.
+> **[2:19](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=139)** As you can see, [[Dashboards]] and gadgets provide a quick and easy way to build helpful views for yourself, your team, or leadership.
 >
 > **[2:30](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/choosing-dashboard-gadgets?u=76281980&t=150)** Here are some helpful dashboard tips.
 >
@@ -2956,15 +2934,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Statistics]] (3), [[Jira]] (3), [[Dashboards]] (2), leadership (2)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Jira]] (3), [[Dashboards]] (2)
 > **Env Vars:** jira (3), url (1)
 > **Tools:** jira (3)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a custom dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-dashboard?u=76281980)
+#### [Challenge: Create a custom dashboard](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2976,7 +2953,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-dashboard?u=76281980&t=20)** Here are some ideas.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-dashboard?u=76281980&t=21)** Create a high-level view of release health, show progress for a specific initiative, or display items from multiple Jira projects.
+> **[0:21](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-dashboard?u=76281980&t=21)** Create a high-level view of release health, show progress for a specific initiative, or display items from multiple [[Jira]] projects.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-dashboard?u=76281980&t=31)** A dashboard can show any information retrievable with JQL.
 
@@ -2988,8 +2965,7 @@ created: 2026-05-02
 > **Speakers:** - here (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a custom dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-dashboard?u=76281980)
+#### [Solution: Create a custom dashboard](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2999,7 +2975,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-dashboard?u=76281980&t=8)** Here's how to do it.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-dashboard?u=76281980&t=10)** From the dashboards page, click the create dashboard button on the top right.
+> **[0:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-dashboard?u=76281980&t=10)** From the [[Dashboards]] page, click the create dashboard button on the top right.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-dashboard?u=76281980&t=15)** Then enter a unique name and optional description and set permissions as desired.
 >
@@ -3019,7 +2995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Dashboards]] (1), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **Prerequisites:** configure (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -3030,12 +3006,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Board overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980)
+#### [Board overview](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980&t=0)** - [Instructor] As previously discussed, a board is a status-based view of items from one or more Jira projects.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980&t=0)** - [Instructor] As previously discussed, a board is a status-based view of items from one or more [[Jira]] projects.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980&t=8)** It's an easy way to see the status of many items at the same time.
 >
@@ -3059,7 +3034,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980&t=63)** If you need help getting to the page shown, there are instructions in the previous Types of Boards section.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980&t=71)** For this example, I'll create a board for a dev team using Scrum with an existing Jira project.
+> **[1:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980&t=71)** For this example, I'll create a board for a dev team using [[Scrum]] with an existing Jira project.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980&t=79)** After the board is created, it's time to set some preferences.
 >
@@ -3143,7 +3118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Jira]] (3), data (2), [[Scrum]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Scrum]] (1)
 > **Tools:** jira (3)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** jql (2)
@@ -3151,12 +3126,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ranking work on boards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ranking-work-on-boards?u=76281980)
+#### [Ranking work on boards](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ranking-work-on-boards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ranking-work-on-boards?u=76281980&t=0)** - [Instructor] Jira provides an easy way to order and prioritize items.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ranking-work-on-boards?u=76281980&t=0)** - [Instructor] [[Jira]] provides an easy way to order and prioritize items.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/ranking-work-on-boards?u=76281980&t=5)** On a board or in a backlog, drag an item above or below another item to determine ranking.
 >
@@ -3208,7 +3182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), product (1), feature (1), [[Troubleshooting]] (1), database (1)
+> **Frameworks & Libraries:** [[Jira]] (5)
 > **Tools:** jira (5)
 > **Env Vars:** jql (1), order (1)
 > **Definitions:** is a  (1), is called (1)
@@ -3216,8 +3190,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a custom board
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-board?u=76281980)
+#### [Challenge: Create a custom board](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/challenge-create-a-custom-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3233,8 +3206,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a custom board
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-board?u=76281980)
+#### [Solution: Create a custom board](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3246,7 +3218,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-board?u=76281980&t=9)** From the board's page, click Create Board on the top right.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-board?u=76281980&t=13)** In the overlay, choose Scrum or Kanban.
+> **[0:13](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-board?u=76281980&t=13)** In the overlay, choose [[Scrum]] or Kanban.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/solution-create-a-custom-board?u=76281980&t=17)** Then, select a data source.
 >
@@ -3324,7 +3296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (2), cloud (2), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (1)
 > **UI Navigation:** select the (2), toggle (1)
 > **Non-Speech:** (bright rhythmic music) (1), (bright rhythmic music fading) (1)
 > **Env Vars:** jql (1)
@@ -3335,16 +3307,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=0)** - Congrats on completing the course!
 >
-> **[0:02](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=2)** You've explored many of the development-specific features in Jira and are well on your way towards a strong foundation.
+> **[0:02](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=2)** You've explored many of the development-specific features in [[Jira]] and are well on your way towards a strong foundation.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=11)** You should now be able to recognize the differences between Scrum and Kanban software projects and company-managed and team-managed projects in cloud, leverage backlogs, sprints, and fixed versions, estimate work and track time, and create custom user objects, like filters, filter subscriptions, boards, and dashboards.
+> **[0:11](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=11)** You should now be able to recognize the differences between [[Scrum]] and Kanban [[Software Projects]] and company-managed and team-managed projects in cloud, leverage backlogs, sprints, and fixed versions, estimate work and track time, and create custom user objects, like filters, filter subscriptions, boards, and [[Dashboards]].
 >
 > **[0:35](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=35)** Your next step is to continue learning.
 >
@@ -3358,19 +3329,19 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=65)** As a reminder, here's the special area of my website where I'll post corrections, updates, and new information for this course.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=74)** Also, check out my other Jira and Confluence courses right here on LinkedIn.
+> **[1:14](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=74)** Also, check out my other Jira and [[Confluence]] courses right here on [[LinkedIn]].
 >
 > **[1:19](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=79)** The most fun are about building automation rules, best practices for configuration and maintenance, and managing custom workflows.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=89)** Also, if you're involved in any step of the software development lifecycle, I invite you to take my [[Planning and Releasing Software with Jira]] course.
+> **[1:29](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=89)** Also, if you're involved in any step of the [[Software Development]] lifecycle, I invite you to take my [[Planning and Releasing Software with Jira]] course.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=98)** It shows how to combine the power of Jira with Confluence, Bitbucket, and Sourcetree so teams can reduce manual work and holistically support the entire development process.
+> **[1:38](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=98)** It shows how to combine the power of Jira with Confluence, [[Bitbucket]], and Sourcetree so teams can reduce manual work and holistically support the entire development process.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=110)** It's for coders and anyone who wants to know more about what goes on behind the scenes in the world of software development.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=119)** Here are some additional resources so you can continue learning.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=123)** Atlassian's product documentation is categorized by application type, deployment type, and version.
+> **[2:03](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=123)** [[Atlassian]]'s product documentation is categorized by application type, deployment type, and version.
 >
 > **[2:10](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980&t=130)** Make sure you're reading the right information for the type of Jira you have.
 >
@@ -3414,7 +3385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (14), [[Atlassian]] (7), next (3), [[Confluence]] (2), [[Software Development]] (2)
+> **Frameworks & Libraries:** [[Jira]] (14), [[Atlassian]] (7), [[Confluence]] (2), [[Software Development]] (2), [[Scrum]] (1)
 > **Tools:** jira (14), confluence (2), bitbucket (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (2), [jirastrategy.com](https://jirastrategy.com) (2)
 > **CLI Commands:** make (2), find (1)

@@ -59,8 +59,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How AI is transforming the manager's role
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/how-ai-is-transforming-the-manager-role?u=76281980)
+#### [How AI is transforming the manager's role](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/how-ai-is-transforming-the-manager-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -78,7 +77,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), management (1), leadership (1)
 > **Speakers:** - i (1)
 
 
@@ -86,12 +84,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI will make you efficient, not extinct
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980)
+#### [AI will make you efficient, not extinct](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=0)** - I was leading a large manager training session recently and asked, "Who's heard of ChatGPT?"
+> **[0:00](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=0)** - I was leading a large manager training session recently and asked, "Who's heard of [[ChatGPT]]?"
 >
 > **[0:07](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=7)** Every hand went up, but then I asked, "Now, who's actually used ChatGPT?"
 >
@@ -107,7 +104,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=32)** Between doing your own work, helping your team do their work, and trying to navigate long-term strategy with daily unexpected emergencies, you might feel like you're expected to be an octopus, juggling eight things at once.
 >
-> **[0:47](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=47)** While I can't magically help you generate more arms, just like that training session, I'll show you how generative AI, specifically ChatGPT, can help make your life easier.
+> **[0:47](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=47)** While I can't magically help you generate more arms, just like that training session, I'll show you how [[Generative AI]], specifically ChatGPT, can help make your life easier.
 >
 > **[0:59](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=59)** Get ready, because every manager I've shown these tools to has been amazed, and you will be too.
 >
@@ -121,7 +118,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=94)** Now, to get started with AI, you need to get started, first, by knowing what it is.
 >
-> **[1:42](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=102)** Generative artificial intelligence, I'll just call it AI to keep it short, it means computer systems using your requests, called prompts, to create outputs, such as text responses.
+> **[1:42](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=102)** Generative [[Artificial Intelligence (AI)|artificial intelligence]], I'll just call it AI to keep it short, it means computer systems using your requests, called prompts, to create outputs, such as text responses.
 >
 > **[1:56](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=116)** It can even make images or audio.
 >
@@ -133,7 +130,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=135)** And if you haven't used ChatGPT at all, you can pause the video and create a free account at chat.[openai.com](https://openai.com).
 >
-> **[2:23](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=143)** Courses on the practical, how-tos of ChatGPT are constantly being added to the LinkedIn Learning Library, so you can stay ahead of the curve, and I'll let other experts speak to the technical details.
+> **[2:23](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=143)** Courses on the practical, how-tos of ChatGPT are constantly being added to the [[LinkedIn]] Learning Library, so you can stay ahead of the curve, and I'll let other experts speak to the technical details.
 >
 > **[2:36](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=156)** But two things to keep in mind as a manager, when you start using ChatGPT, it's not a diary, nor an encyclopedia.
 >
@@ -159,9 +156,9 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=234)** For the record, you don't, but I often find myself doing it anyway.
 >
-> **[3:59](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=239)** In the rest of the videos, I'll get into specific ways that you can use ChatGPT to make the most impact as a manager.
+> **[3:59](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=239)** In the [[Representational State Transfer (REST)|rest]] of the videos, I'll get into specific ways that you can use ChatGPT to make the most impact as a manager.
 >
-> **[4:07](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=247)** I recommend that you have two windows open, one to watch these videos and another with ChatGPT.
+> **[4:07](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=247)** I recommend that you have two [[Windows]] open, one to watch these videos and another with ChatGPT.
 >
 > **[4:14](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980&t=254)** And if you need to sign in or create an account, do that now, so as we go through each topic, you can pause the video and try out the prompts I recommend.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (14), ai (10), [[Generative AI]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Generative AI]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Analogies:** just like (1), such as (1)
 > **URLs:** [openai.com](https://openai.com) (1)
@@ -180,8 +177,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - i (1)
 
-#### Make your team meetings impactful with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/make-your-team-meetings-impactful-with-ai?u=76281980)
+#### [Make your team meetings impactful with AI](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/make-your-team-meetings-impactful-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,9 +193,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/make-your-team-meetings-impactful-with-ai?u=76281980&t=27)** Well, as a manager, have you thought about the different meetings that you have?
 >
-> **[0:32](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/make-your-team-meetings-impactful-with-ai?u=76281980&t=32)** A recent Microsoft study found that the number one obstacle to employee productivity was inefficient meetings, and AI can provide a framework to think strategically about your meetings.
+> **[0:32](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/make-your-team-meetings-impactful-with-ai?u=76281980&t=32)** A recent [[Microsoft]] study found that the number one obstacle to employee productivity was inefficient meetings, and AI can provide a framework to think strategically about your meetings.
 >
-> **[0:46](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/make-your-team-meetings-impactful-with-ai?u=76281980&t=46)** Let's go back to that ChatGPT window, and I'll show you what I mean.
+> **[0:46](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/make-your-team-meetings-impactful-with-ai?u=76281980&t=46)** Let's go back to that [[ChatGPT]] window, and I'll show you what I mean.
 >
 > **[0:51](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/make-your-team-meetings-impactful-with-ai?u=76281980&t=51)** In the prompt screen, you can start by asking something really meta, like, "Should I rethink team meetings, and what should I think about?"
 >
@@ -261,26 +257,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[ChatGPT]] (6), prompt (5), next (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), in the last (1), in the next (1)
 > **Definitions:** in other words (2)
 > **Speakers:** - people (1)
 
-#### Use AI to enhance your one-to-one meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980)
+#### [Use AI to enhance your one-to-one meetings](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=1)** - Whether you have one team member reporting to you or many, you likely have one-on-one meetings.
 >
-> **[0:07](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=7)** And if you don't, watch my course Daily Habits for Effective People Management on why you should.
+> **[0:07](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=7)** And if you don't, watch my course Daily Habits for Effective [[People Management]] on why you should.
 >
-> **[0:13](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=13)** Regular one-on-one meetings with your team members are important because they provide the dedicated time for your team members to discuss their challenges and goals and get your real-time feedback.
+> **[0:13](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=13)** Regular one-on-one meetings with your team members are important because they provide the dedicated time for your team members to discuss their challenges and goals and get your [[Real-Time]] feedback.
 >
 > **[0:24](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=24)** But just like team meetings, they can feel overwhelming to have to plan for every week, especially if you have many direct reports.
 >
-> **[0:34](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=34)** My recommendation is to have standard frameworks for one-on-ones, but adjust and tailor them as needed to focus on specific individual needs, and you can use ChatGPT to do just this.
+> **[0:34](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=34)** My recommendation is to have standard frameworks for one-on-ones, but adjust and tailor them as needed to focus on specific individual needs, and you can use [[ChatGPT]] to do just this.
 >
 > **[0:48](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=48)** In my last video, I demonstrated ChatGPT on screen.
 >
@@ -306,7 +301,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=154)** If one of these resonates with you, ask ChatGPT now to add that into your one-on-one agenda for that team member.
 >
-> **[2:42](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=162)** And if you use OneNote or another shared document with agendas for each team member, then you can copy and paste each agenda you create in ChatGPT into your documents.
+> **[2:42](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=162)** And if you use [[OneNote]] or another shared document with agendas for each team member, then you can copy and paste each agenda you create in ChatGPT into your documents.
 >
 > **[2:52](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-enhance-your-one-to-one-meetings?u=76281980&t=172)** Team members really appreciate the thought that managers put into their one-on-one meeting prep and agendas.
 >
@@ -314,13 +309,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), prompt (2), ai (2), [[People Management]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[People Management]] (1), [[Real-Time]] (1), [[OneNote]] (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - whether (1)
 
-#### Use AI to coach and give better feedback to your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-coach-and-give-better-feedback-to-your-team?u=76281980)
+#### [Use AI to coach and give better feedback to your team](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-coach-and-give-better-feedback-to-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -344,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-coach-and-give-better-feedback-to-your-team?u=76281980&t=43)** Let's try before conversations.
 >
-> **[0:46](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-coach-and-give-better-feedback-to-your-team?u=76281980&t=46)** Go to your ChatGPT window and try this prompt.
+> **[0:46](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-coach-and-give-better-feedback-to-your-team?u=76281980&t=46)** Go to your [[ChatGPT]] window and try this prompt.
 >
 > **[0:50](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-coach-and-give-better-feedback-to-your-team?u=76281980&t=50)** If a team member made a mistake, how can I give feedback to them?
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), ai (3), prompt (3), next (2), career (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (2)
 > **Analogies:** just like (2)
@@ -396,8 +390,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - as (1)
 
-#### Practice accepting feedback with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/practice-accepting-feedback-with-ai?u=76281980)
+#### [Practice accepting feedback with AI](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/practice-accepting-feedback-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/practice-accepting-feedback-with-ai?u=76281980&t=25)** It's really that simple.
 >
-> **[0:27](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/practice-accepting-feedback-with-ai?u=76281980&t=27)** In this video, we're going to explore a really cool way to use ChatGPT.
+> **[0:27](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/practice-accepting-feedback-with-ai?u=76281980&t=27)** In this video, we're going to explore a really cool way to use [[ChatGPT]].
 >
 > **[0:32](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/practice-accepting-feedback-with-ai?u=76281980&t=32)** I'll show you exactly how.
 >
@@ -451,7 +444,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/practice-accepting-feedback-with-ai?u=76281980&t=121)** "What if I don't agree with the feedback?"
 >
-> **[2:04](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/practice-accepting-feedback-with-ai?u=76281980&t=124)** And, "What if I now realize that I didn't react well to feedback in the past?"
+> **[2:04](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/practice-accepting-feedback-with-ai?u=76281980&t=124)** And, "What if I now realize that I didn't [[React.js|react]] well to feedback in the past?"
 >
 > **[2:10](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/practice-accepting-feedback-with-ai?u=76281980&t=130)** I especially like what ChatGPT generates to that prompt.
 >
@@ -461,14 +454,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[ChatGPT]] (5), ai (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - what (1)
 
-#### Create training and development opportunities using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/create-training-and-development-opportunities-using-ai?u=76281980)
+#### [Create training and development opportunities using AI](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/create-training-and-development-opportunities-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,7 +476,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/create-training-and-development-opportunities-using-ai?u=76281980&t=40)** The first step is to ask questions.
 >
-> **[0:43](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/create-training-and-development-opportunities-using-ai?u=76281980&t=43)** So pause the video and go to your ChatGPT window and ask a prompt, "How can I ask team members about their development goals?"
+> **[0:43](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/create-training-and-development-opportunities-using-ai?u=76281980&t=43)** So pause the video and go to your [[ChatGPT]] window and ask a prompt, "How can I ask team members about their development goals?"
 >
 > **[0:51](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/create-training-and-development-opportunities-using-ai?u=76281980&t=51)** The output will likely give you ideas on how to have the conversations and example questions to ask.
 >
@@ -538,15 +530,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), prompt (4), ai (2), management (1), career (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - i (1)
 
-#### Delegate to your team with confidence with the help of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/delegate-to-your-team-with-confidence-with-the-help-of-ai?u=76281980)
+#### [Delegate to your team with confidence with the help of AI](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/delegate-to-your-team-with-confidence-with-the-help-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +555,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/delegate-to-your-team-with-confidence-with-the-help-of-ai?u=76281980&t=34)** In this video, I'll show you how you can generate specific tasks to delegate and have a plan to delegate effectively and communicate it to your team member.
 >
-> **[0:45](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/delegate-to-your-team-with-confidence-with-the-help-of-ai?u=76281980&t=45)** In your ChatGPT window, type a prompt of what are examples of projects and tasks I can delegate to my team?
+> **[0:45](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/delegate-to-your-team-with-confidence-with-the-help-of-ai?u=76281980&t=45)** In your [[ChatGPT]] window, type a prompt of what are examples of projects and tasks I can delegate to my team?
 >
 > **[0:53](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/delegate-to-your-team-with-confidence-with-the-help-of-ai?u=76281980&t=53)** You'll receive specific ideas for delegation based on the details you provided earlier.
 >
@@ -598,13 +589,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), ai (3), prompt (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Manage conflict like a leader using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/manage-conflict-like-a-leader-using-ai?u=76281980)
+#### [Manage conflict like a leader using AI](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/manage-conflict-like-a-leader-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,7 +610,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/manage-conflict-like-a-leader-using-ai?u=76281980&t=24)** Think of a conflict that you're currently dealing with.
 >
-> **[0:27](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/manage-conflict-like-a-leader-using-ai?u=76281980&t=27)** Now, instead of stressing about it, go to ChatGPT so we can help you solve it.
+> **[0:27](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/manage-conflict-like-a-leader-using-ai?u=76281980&t=27)** Now, instead of stressing about it, go to [[ChatGPT]] so we can help you solve it.
 >
 > **[0:33](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/manage-conflict-like-a-leader-using-ai?u=76281980&t=33)** Enter a prompt of, "How can I manage a situation where," insert, where you insert that conflict that came top of mind.
 >
@@ -664,7 +654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), ai (6), next (2), prompt (1), career (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7)
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (2)
 > **Best Practices:** don't forget (1), make sure to (1)
@@ -672,8 +662,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - can (1)
 
-#### Leverage AI in your own development
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-in-your-own-development?u=76281980)
+#### [Leverage AI in your own development](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-in-your-own-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,7 +678,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-in-your-own-development?u=76281980&t=42)** Your newest coach is at your fingertips.
 >
-> **[0:45](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-in-your-own-development?u=76281980&t=45)** We'll stick with ChatGPT so make sure that you still have a second window with it open.
+> **[0:45](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-in-your-own-development?u=76281980&t=45)** We'll stick with [[ChatGPT]] so make sure that you still have a second window with it open.
 >
 > **[0:51](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-in-your-own-development?u=76281980&t=51)** Let's start with an easy example.
 >
@@ -717,13 +706,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[ChatGPT]] (3), leadership (2), hr (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - by (1)
 
-#### Identify and get ahead of trends using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/identify-and-get-ahead-of-trends-using-ai?u=76281980)
+#### [Identify and get ahead of trends using AI](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/identify-and-get-ahead-of-trends-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +727,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/identify-and-get-ahead-of-trends-using-ai?u=76281980&t=41)** Let's look at an example.
 >
-> **[0:43](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/identify-and-get-ahead-of-trends-using-ai?u=76281980&t=43)** Ask ChatGPT, what are sources to follow for trends in my role?
+> **[0:43](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/identify-and-get-ahead-of-trends-using-ai?u=76281980&t=43)** Ask [[ChatGPT]], what are sources to follow for trends in my role?
 >
 > **[0:48](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/identify-and-get-ahead-of-trends-using-ai?u=76281980&t=48)** In my example, I use marketing, but add your role in.
 >
@@ -761,7 +749,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/identify-and-get-ahead-of-trends-using-ai?u=76281980&t=102)** In my example of marketing, one trend that ChatGPT generated was conversational marketing, including chatbots.
 >
-> **[1:50](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/identify-and-get-ahead-of-trends-using-ai?u=76281980&t=110)** When I asked for strategies, it gave me 15, from a human agent hybrid approach, to compliance with data privacy.
+> **[1:50](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/identify-and-get-ahead-of-trends-using-ai?u=76281980&t=110)** When I asked for strategies, it gave me 15, from a human agent hybrid approach, to compliance with [[Data Privacy]].
 >
 > **[1:58](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/identify-and-get-ahead-of-trends-using-ai?u=76281980&t=118)** Even though I'm not actually in marketing, I feel a lot more knowledgeable than I did seconds ago.
 >
@@ -789,13 +777,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), leadership (5), ai (2), web (1), database (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Data Privacy]] (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** heads up (1)
 > **Speakers:** - it (1)
 
-#### Leverage AI to develop cross-functional knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-to-develop-cross-functional-knowledge?u=76281980)
+#### [Leverage AI to develop cross-functional knowledge](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-to-develop-cross-functional-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,7 +806,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-to-develop-cross-functional-knowledge?u=76281980&t=55)** How can you do that?
 >
-> **[0:56](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-to-develop-cross-functional-knowledge?u=76281980&t=56)** Pause, and go to your ChatGPT window, and ask a prompt of, what does a finance department do?
+> **[0:56](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-to-develop-cross-functional-knowledge?u=76281980&t=56)** Pause, and go to your [[ChatGPT]] window, and ask a prompt of, what does a finance department do?
 >
 > **[1:03](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/leverage-ai-to-develop-cross-functional-knowledge?u=76281980&t=63)** If you're in finance, ask about another department.
 >
@@ -861,15 +848,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (4), [[ChatGPT]] (4), prompt (3), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - do (1)
 
-#### Use AI to build and drive strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980)
+#### [Use AI to build and drive strategy](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,15 +863,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=4)** Many managers hear this feedback and you may say, "Okay," but in your head you're really thinking, "What are they talking about?"
 >
-> **[0:15](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=15)** Being strategic can mean using organizational goals and data to help in your decision-making.
+> **[0:15](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=15)** Being strategic can mean using organizational goals and data to help in your [[Decision-Making]].
 >
 > **[0:21](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=21)** The result is not only a system of using those goals and data, but also showing your leadership that you're doing it.
 >
 > **[0:28](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=28)** AI can empower you to do both.
 >
-> **[0:31](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=31)** Pause the video and go to your ChatGPT window and ask, "How can I be more strategic, "and use organizational goals and data?"
+> **[0:31](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=31)** Pause the video and go to your [[ChatGPT]] window and ask, "How can I be more strategic, "and use organizational goals and data?"
 >
-> **[0:39](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=39)** It'll generate a framework that you can use to build your strategic thinking.
+> **[0:39](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=39)** It'll generate a framework that you can use to build your [[Strategic Thinking]].
 >
 > **[0:43](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=43)** That's the first step.
 >
@@ -913,7 +899,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=112)** These steps can become a living checklist for your team towards your organizational goal.
 >
-> **[1:57](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=117)** That's strategic leadership.
+> **[1:57](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=117)** That's [[Strategic Leadership]].
 >
 > **[2:00](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-build-and-drive-strategy?u=76281980&t=120)** But what if you've done the strategic thinking, and work with your team, and now you wonder, "What do I actually do with this data?"
 >
@@ -925,14 +911,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[ChatGPT]] (5), leadership (2), [[Strategic Thinking]] (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Strategic Thinking]] (2), [[Decision-Making]] (1), [[Strategic Leadership]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - you (1)
 
-#### How AI can help you present data like never before
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/how-ai-can-help-you-present-data-like-never-before?u=76281980)
+#### [How AI can help you present data like never before](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/how-ai-can-help-you-present-data-like-never-before?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1000,7 +985,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (3), prompt (2), next (1)
 > **Env Vars:** gpt (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1008,8 +992,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - have (1)
 
-#### Use AI to support internal mobility
-> [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-support-internal-mobility?u=76281980)
+#### [Use AI to support internal mobility](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-support-internal-mobility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1014,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-support-internal-mobility?u=76281980&t=45)** First, focus on you.
 >
-> **[0:48](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-support-internal-mobility?u=76281980&t=48)** In your second window, ask ChatGPT a prompt of "What skillset is needed to move from, insert your current role, to insert your desired next role?"
+> **[0:48](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-support-internal-mobility?u=76281980&t=48)** In your second window, ask [[ChatGPT]] a prompt of "What skillset is needed to move from, insert your current role, to insert your desired next role?"
 >
 > **[0:57](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/use-ai-to-support-internal-mobility?u=76281980&t=57)** As an example, I prompted ChatGPT "marketing manager to chief marketing officer."
 >
@@ -1057,7 +1040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[ChatGPT]] (4), career (4), ai (2), leadership (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (4)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 

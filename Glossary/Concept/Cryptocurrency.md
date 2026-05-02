@@ -36,9 +36,9 @@ created: 2026-05-02
 5. [[Building An Ethereum Blockchain App 1 Introduction To Blockchain]] — 15 mentions
 6. [[Finance Foundations]] — 10 mentions
 7. [[The Data Science Of Economics Banking And Finance]] — 9 mentions
-8. [[Building an Ethereum Blockchain App- 5 Your Ethereum Wallet]] — 7 mentions
-9. [[Building an Ethereum Blockchain App- 7 Smart Contracts]] — 7 mentions
-10. [[Blockchain and Smart Contracts Security]] — 7 mentions
+8. [[Blockchain and Smart Contracts Security]] — 8 mentions
+9. [[Building an Ethereum Blockchain App- 5 Your Ethereum Wallet]] — 7 mentions
+10. [[Building an Ethereum Blockchain App- 7 Smart Contracts]] — 7 mentions
 
 > [!note]- See all 51 courses
 > 11. [[Blockchain Programming in iOS Using Swift]] — 6 mentions
@@ -85,7 +85,7 @@ created: 2026-05-02
 
 ## Learning Paths
 
-1. [[Getting Started in Blockchain]] — 91 total mentions
+1. [[Getting Started in Blockchain]] — 92 total mentions
 2. [[Become a Blockchain Developer]] — 76 total mentions
 3. [[Build an Ethereum Blockchain App]] — 68 total mentions
 4. [[Digital Transformation for Tech Leaders]] — 47 total mentions

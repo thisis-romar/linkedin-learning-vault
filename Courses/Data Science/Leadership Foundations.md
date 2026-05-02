@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to leadership foundations
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/welcome-to-leadership-foundations?u=76281980)
+#### [Welcome to leadership foundations](https://www.linkedin.com/learning/leadership-foundations-22307442/welcome-to-leadership-foundations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,7 +96,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), feature (1), career (1)
 > **Env Vars:** ceo (1), chro (1)
 > **Speakers:** - if (1)
 
@@ -106,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leading yourself
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-yourself?u=76281980)
+#### [Leading yourself](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-yourself?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,7 +140,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-yourself?u=76281980&t=134)** Here's an example of my vision.
 >
-> **[2:17](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-yourself?u=76281980&t=137)** To be a world-renowned global thought leader that delivers transformational value in the areas of organizational leadership, high performance, and personal reinvention.
+> **[2:17](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-yourself?u=76281980&t=137)** To be a world-renowned global thought leader that delivers transformational value in the areas of [[Organizational Leadership]], high performance, and personal reinvention.
 >
 > **[2:28](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-yourself?u=76281980&t=148)** Vision provides clarity for the future, while directing us to place our attention in the present.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (4), [[Organizational Leadership]] (1), next (1)
+> **Frameworks & Libraries:** [[Organizational Leadership]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
@@ -188,14 +185,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - i (1)
 
-#### Demonstrating emotional intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980)
+#### [Demonstrating emotional intelligence](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=0)** - How good are you at dealing with feelings of anger, stress, sadness, frustration, or fatigue?
 >
-> **[0:08](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=8)** If someone is upset in your office, how comfortable are they at coming to you to share why?
+> **[0:08](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=8)** If someone is upset in your [[Microsoft Office|office]], how comfortable are they at coming to you to share why?
 >
 > **[0:14](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=14)** How do you respond?
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=115)** The second one is self-regulation.
 >
-> **[1:58](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=118)** Remaining calm in emotionally fraught situations, controlling your own behavior despite your emotional state, admitting your mistakes and taking accountability.
+> **[1:58](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=118)** Remaining calm in emotionally fraught situations, controlling your own behavior despite your emotional state, admitting your mistakes and taking [[Accountability]].
 >
 > **[2:09](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=129)** People who possess good self-regulation are able to adapt well to changing situations.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=148)** Find outlets to deal with workplace stress.
 >
-> **[2:31](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=151)** I have done things like practicing mindfulness, exercising, getting proper rest, finding ways to laugh, and going to my happy place, the beach.
+> **[2:31](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=151)** I have done things like practicing mindfulness, exercising, getting proper [[Representational State Transfer (REST)|rest]], finding ways to laugh, and going to my happy place, the beach.
 >
 > **[2:42](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-emotional-intelligence?u=76281980&t=162)** Keep your cool and choose your battles.
 >
@@ -335,15 +331,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (2), [[Microsoft Office|Office]] (1), [[Accountability]] (1), express (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Accountability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - how (1)
 
-#### Building a diverse team and maximizing performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/building-a-diverse-team-and-maximizing-performance?u=76281980)
+#### [Building a diverse team and maximizing performance](https://www.linkedin.com/learning/leadership-foundations-22307442/building-a-diverse-team-and-maximizing-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +412,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), leadership (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (1)
 > **Exercise Files:** exercise files (1)
@@ -425,9 +419,9 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - as (1)
+> **Non-Speech:** (bright music) (1)
 
-#### Leadership styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leadership-styles?u=76281980)
+#### [Leadership styles](https://www.linkedin.com/learning/leadership-foundations-22307442/leadership-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,7 +463,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (10)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - effective (1)
@@ -479,8 +472,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategic thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980)
+#### [Strategic thinking](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,13 +480,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980&t=11)** And can you convey your ideas in a clear, concise, and compelling way that invokes buy-in, followship and action?
 >
-> **[0:20](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980&t=20)** If you answered yes, then you are demonstrating strategic thinking skills.
+> **[0:20](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980&t=20)** If you answered yes, then you are demonstrating [[Strategic Thinking]] skills.
 >
 > **[0:26](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980&t=26)** If you did not answer yes to all of these, I challenge you to develop this important skill.
 >
 > **[0:32](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980&t=32)** Why?
 >
-> **[0:33](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980&t=33)** Because workers today want to work for leaders who have the vision, know-how to get things done, and who have the knowledge and business acumen to achieve results.
+> **[0:33](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980&t=33)** Because workers today want to work for leaders who have the vision, know-how to get things done, and who have the knowledge and [[Business Acumen]] to achieve results.
 >
 > **[0:44](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980&t=44)** This skill can be developed by every leader at every level.
 >
@@ -526,14 +518,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Strategic Thinking]] (2), career (1), data (1), leadership (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2), [[Business Acumen]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - do (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Establishing trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/establishing-trust?u=76281980)
+#### [Establishing trust](https://www.linkedin.com/learning/leadership-foundations-22307442/establishing-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,7 +546,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/leadership-foundations-22307442/establishing-trust?u=76281980&t=51)** Actions speak louder than words, so show them that you can be trusted by walking that talk.
 >
-> **[0:57](https://www.linkedin.com/learning/leadership-foundations-22307442/establishing-trust?u=76281980&t=57)** Treating others with respect is a must for building trust.
+> **[0:57](https://www.linkedin.com/learning/leadership-foundations-22307442/establishing-trust?u=76281980&t=57)** Treating others with respect is a must for [[Building Trust]].
 >
 > **[1:01](https://www.linkedin.com/learning/leadership-foundations-22307442/establishing-trust?u=76281980&t=61)** Many of the people on my team, they look, act, work, and think very differently than I do.
 >
@@ -593,15 +584,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Building Trust]] (2), leadership (1), feature (1)
+> **Frameworks & Libraries:** [[Building Trust]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - are (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Communicating with impact and influence
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/communicating-with-impact-and-influence?u=76281980)
+#### [Communicating with impact and influence](https://www.linkedin.com/learning/leadership-foundations-22307442/communicating-with-impact-and-influence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/leadership-foundations-22307442/communicating-with-impact-and-influence?u=76281980&t=42)** They are not born.
 >
-> **[0:44](https://www.linkedin.com/learning/leadership-foundations-22307442/communicating-with-impact-and-influence?u=76281980&t=44)** The art of communicating effectively can happen in many different forms, but what's most important is to convey a message that impacts and influences others.
+> **[0:44](https://www.linkedin.com/learning/leadership-foundations-22307442/communicating-with-impact-and-influence?u=76281980&t=44)** The art of communicating effectively can happen in many different [[Forms]], but what's most important is to convey a message that impacts and influences others.
 >
 > **[0:55](https://www.linkedin.com/learning/leadership-foundations-22307442/communicating-with-impact-and-influence?u=76281980&t=55)** Impact and influence as a competency is the ability to persuade or convince others to support an idea, initiative, or a request.
 >
@@ -683,15 +673,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), [[Forms]] (1), feature (1), career (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (upbeat music) (1), (bright music) (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - no (1)
 
-#### Building relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/building-relationships?u=76281980)
+#### [Building relationships](https://www.linkedin.com/learning/leadership-foundations-22307442/building-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,7 +742,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), hr (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is an  (1)
@@ -761,8 +749,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
 
-#### Developing business acumen
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980)
+#### [Developing business acumen](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=11)** Can you make sound business decisions?
 >
-> **[0:15](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=15)** This gets at business acumen and every leader should possess it.
+> **[0:15](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=15)** This gets at [[Business Acumen]] and every leader should possess it.
 >
 > **[0:19](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=19)** Simply put, business acumen is defined as understanding the context in which the company operates and utilizes that information to make solid business decisions and to solve problems.
 >
@@ -780,9 +767,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=41)** Implementing these five steps enabled me to be a successful frontline leader.
 >
-> **[0:48](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=48)** First, learn the business operations.
+> **[0:48](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=48)** First, learn the [[Business Operations]].
 >
-> **[0:51](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=51)** This includes its challenges, needs, language, products and services, the staff, customers, communities, and the financial implications.
+> **[0:51](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=51)** This includes its challenges, needs, language, [[Microsoft Products|products]] and services, the staff, customers, communities, and the financial implications.
 >
 > **[1:02](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=62)** Learn how other departments and projects interconnect so that you can develop a big picture perspective in which to make smarter and more strategic decisions.
 >
@@ -792,13 +779,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=93)** I also read the company's annual reports and its operating plan.
 >
-> **[1:38](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=98)** Also, research on social media what the word on the street is about your company and read consumer reports to stay on top of trends and to hear what customers and clients are saying.
+> **[1:38](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=98)** Also, research on social media what the [[Microsoft Word|word]] on the street is about your company and read consumer reports to stay on top of trends and to hear what customers and clients are saying.
 >
 > **[1:51](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=111)** Third, I developed the knowledge, skills, and competencies that were needed in my field and in my role.
 >
 > **[1:59](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=119)** I became a subject matter expert and a go-to resource in my company.
 >
-> **[2:04](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=124)** Fourth, listen, observe, and absorb what's being said in meetings and around the office.
+> **[2:04](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=124)** Fourth, listen, observe, and absorb what's being said in meetings and around the [[Microsoft Office|office]].
 >
 > **[2:11](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=131)** Ask questions when you don't understand something.
 >
@@ -814,19 +801,18 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=185)** List at least three things that you can do to further develop your business acumen.
 >
-> **[3:12](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=192)** If you'd like to learn more about this topic, be sure to take the course titled "Business Acumen" in the LinkedIn Learning Library.
+> **[3:12](https://www.linkedin.com/learning/leadership-foundations-22307442/developing-business-acumen?u=76281980&t=192)** If you'd like to learn more about this topic, be sure to take the course titled "Business Acumen" in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1), teams (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (7), [[Business Operations]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - can (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Influencing others
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/influencing-others?u=76281980)
+#### [Influencing others](https://www.linkedin.com/learning/leadership-foundations-22307442/influencing-others?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -852,7 +838,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/leadership-foundations-22307442/influencing-others?u=76281980&t=67)** Speaking of being vulnerable and authentic, I would also encourage you to watch the courses listed below to learn a bit more about these topics.
 >
-> **[1:16](https://www.linkedin.com/learning/leadership-foundations-22307442/influencing-others?u=76281980&t=76)** The way that I was able to influence him to do so was to talk about some compelling data that revealed storytelling was a critical skill for connecting with your staff and for building trust and psychological safety.
+> **[1:16](https://www.linkedin.com/learning/leadership-foundations-22307442/influencing-others?u=76281980&t=76)** The way that I was able to influence him to do so was to talk about some compelling data that revealed [[Storytelling]] was a critical skill for connecting with your staff and for [[Building Trust]] and psychological safety.
 >
 > **[1:30](https://www.linkedin.com/learning/leadership-foundations-22307442/influencing-others?u=76281980&t=90)** I then showed him a video of a CEO of a global company telling his story to his entire company and the impact that his story had.
 >
@@ -866,7 +852,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/leadership-foundations-22307442/influencing-others?u=76281980&t=143)** Nor is it giving into someone else's view, even when it violates your own values and beliefs.
 >
-> **[2:30](https://www.linkedin.com/learning/leadership-foundations-22307442/influencing-others?u=76281980&t=150)** Access the exercise files folder and open the checklist on dos and don'ts for influencing others.
+> **[2:30](https://www.linkedin.com/learning/leadership-foundations-22307442/influencing-others?u=76281980&t=150)** Access the exercise files folder and open the checklist on dos and don'ts for [[Influencing Others]].
 >
 > **[2:38](https://www.linkedin.com/learning/leadership-foundations-22307442/influencing-others?u=76281980&t=158)** And follow along with me as I walk through that list, so that you can identify where you are effective in demonstrating influencing skills.
 >
@@ -912,7 +898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), leadership (1), [[Storytelling]] (1), [[Building Trust]] (1), [[Influencing Others]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1), [[Building Trust]] (1), [[Influencing Others]] (1)
 > **Non-Speech:** (upbeat music) (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
@@ -920,12 +906,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - every (1)
 
-#### Demonstrating empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980)
+#### [Demonstrating empathy](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=1)** - As leadership skillsets continue to evolve, empathy has undeniably become one of the hardest soft skills necessary for successful leaders today.
+> **[0:01](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=1)** - As leadership skillsets continue to evolve, empathy has undeniably become one of the hardest [[Soft Skills]] necessary for successful leaders today.
 >
 > **[0:11](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=11)** Think about it.
 >
@@ -943,7 +928,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=68)** Some questions to ponder for developing and demonstrating empathy include these.
 >
-> **[1:13](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=73)** Can you usually predict how the people on your team will react to change, a new task, or increased demands on their time?
+> **[1:13](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=73)** Can you usually predict how the people on your team will [[React.js|react]] to change, a new task, or increased demands on their time?
 >
 > **[1:22](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=82)** Are you able to put yourself in each team member's shoes?
 >
@@ -959,7 +944,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=118)** Another strategy I use often is to offer praise and appreciation for outstanding work and effort by my team.
 >
-> **[2:06](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=126)** Whether it is the completion of a complex project, going above and beyond, or sharing a solution to a client problem, I have found that acknowledging and celebrating their effort contributes to not only enhancing empathy, but also building trust and morale.
+> **[2:06](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=126)** Whether it is the completion of a complex project, going above and beyond, or sharing a solution to a client problem, I have found that acknowledging and celebrating their effort contributes to not only enhancing empathy, but also [[Building Trust]] and morale.
 >
 > **[2:24](https://www.linkedin.com/learning/leadership-foundations-22307442/demonstrating-empathy?u=76281980&t=144)** A third strategy is that I provide performance feedback that is tailored to the individual rather than provided in a one-size-fits-all way.
 >
@@ -1013,7 +998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), [[Soft Skills]] (2), feature (1), [[React.js|React]] (1), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (2), [[React.js|React]] (1), [[Building Trust]] (1)
 > **Non-Speech:** (upbeat energetic music) (1), (energetic music) (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -1024,8 +1009,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leading change through agility and resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-change-through-agility-and-resilience?u=76281980)
+#### [Leading change through agility and resilience](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-change-through-agility-and-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,14 +1069,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - one (1)
 
-#### Managing conflict
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/managing-conflict?u=76281980)
+#### [Managing conflict](https://www.linkedin.com/learning/leadership-foundations-22307442/managing-conflict?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1118,7 +1100,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/leadership-foundations-22307442/managing-conflict?u=76281980&t=81)** In this situation, I asked him to explain his behavior and his understanding of its impact.
 >
-> **[1:28](https://www.linkedin.com/learning/leadership-foundations-22307442/managing-conflict?u=76281980&t=88)** And then I shared how it made me feel and the impact to the rest of those in the meeting.
+> **[1:28](https://www.linkedin.com/learning/leadership-foundations-22307442/managing-conflict?u=76281980&t=88)** And then I shared how it made me feel and the impact to the [[Representational State Transfer (REST)|rest]] of those in the meeting.
 >
 > **[1:34](https://www.linkedin.com/learning/leadership-foundations-22307442/managing-conflict?u=76281980&t=94)** And thirdly, I worked towards a resolution.
 >
@@ -1138,7 +1120,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/leadership-foundations-22307442/managing-conflict?u=76281980&t=141)** And if you are their direct supervisor, you can document the instance and put it in their personnel file with a warning of the consequences if it happens again.
 >
-> **[2:31](https://www.linkedin.com/learning/leadership-foundations-22307442/managing-conflict?u=76281980&t=151)** And you may have to escalate it to the next level supervisor or to human resources.
+> **[2:31](https://www.linkedin.com/learning/leadership-foundations-22307442/managing-conflict?u=76281980&t=151)** And you may have to escalate it to the next level supervisor or to [[Human Resources (HR)|human resources]].
 >
 > **[2:37](https://www.linkedin.com/learning/leadership-foundations-22307442/managing-conflict?u=76281980&t=157)** Not all conflicts can be fully resolved but we can agree on how we will work together going forward.
 >
@@ -1154,13 +1136,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Warnings:** be careful (1), warning (1)
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
 
-#### Having uncomfortable conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980)
+#### [Having uncomfortable conversations](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,7 +1153,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=25)** In addition to addressing such areas as workers' poor performance, disengagement, violations of the company policies, an area that causes great consternation for leaders is how to handle sensitive areas such as race and ethnicity, gender, religion, politics, sexual orientation and identity, disability, and the like.
 >
-> **[0:47](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=47)** As a former chief diversity and inclusion officer and an HR executive, I've dealt with countless issues such as these.
+> **[0:47](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=47)** As a former chief [[Diversity and Inclusion]] officer and an HR executive, I've dealt with countless issues such as these.
 >
 > **[0:55](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=55)** Here's a recent example.
 >
@@ -1190,7 +1171,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=103)** It is also how I've coached countless of other leaders on how to handle similar situations.
 >
-> **[1:50](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=110)** Create a safe space by building trust and rapport.
+> **[1:50](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=110)** Create a safe space by [[Building Trust]] and rapport.
 >
 > **[1:54](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=114)** Practice active and humble listening.
 >
@@ -1206,7 +1187,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=137)** Lean into your discomfort and admit that you don't know, but you're seeking to understand.
 >
-> **[2:23](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=143)** Practice empathy, avoid debate and defensiveness, and involve human resources.
+> **[2:23](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=143)** Practice empathy, avoid debate and defensiveness, and involve [[Human Resources (HR)|human resources]].
 >
 > **[2:30](https://www.linkedin.com/learning/leadership-foundations-22307442/having-uncomfortable-conversations?u=76281980&t=150)** This one is an important tip.
 >
@@ -1226,15 +1207,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (2), [[Diversity and Inclusion]] (1), [[Building Trust]] (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (1), [[Building Trust]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
 > **Env Vars:** ceo (1)
 > **Speakers:** - think (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Cultivating inclusion, equity, and belonging
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980)
+#### [Cultivating inclusion, equity, and belonging](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1270,7 +1250,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=129)** Now that I've covered a few important terms, here are a few proven strategies to cultivate inclusion, belonging, and engagement.
 >
-> **[2:17](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=137)** I implemented these when I was a Chief Diversity and Inclusion Officer for three large global organizations, and I continue to use them today in my firm.
+> **[2:17](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=137)** I implemented these when I was a Chief [[Diversity and Inclusion]] Officer for three large global organizations, and I continue to use them today in my firm.
 >
 > **[2:28](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=148)** Assess your current culture and know what opportunities exist.
 >
@@ -1284,11 +1264,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=176)** What motivates and drives them, their interests, likes, dislikes, their personal and career aspirations?
 >
-> **[3:04](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=184)** Minimize unconscious biases in decision-making, and ensure fair and consistent treatment in hiring, promotions, development, and pay.
+> **[3:04](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=184)** Minimize unconscious biases in [[Decision-Making]], and ensure fair and consistent treatment in hiring, promotions, development, and pay.
 >
 > **[3:13](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=193)** Allow for flexibility, such as in your leadership style, in the working arrangements, and in approaches to work.
 >
-> **[3:22](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=202)** Invest in line leadership development for building new skills and competencies necessary to lead this new generation of workers.
+> **[3:22](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=202)** Invest in line [[Leadership Development]] for building new skills and competencies necessary to lead this new generation of workers.
 >
 > **[3:31](https://www.linkedin.com/learning/leadership-foundations-22307442/cultivating-inclusion-equity-and-belonging?u=76281980&t=211)** In the exercise files, access to questionnaire entitled How Inclusive Welcoming and Engaging is Your Organization?
 >
@@ -1298,7 +1278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), leadership (2), management (1), [[Security]] (1), career (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Leadership Development]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -1311,8 +1291,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Richard Davis and Steve Miranda
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/introducing-richard-davis-and-steve-miranda?u=76281980)
+#### [Introducing Richard Davis and Steve Miranda](https://www.linkedin.com/learning/leadership-foundations-22307442/introducing-richard-davis-and-steve-miranda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1326,23 +1305,20 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/leadership-foundations-22307442/introducing-richard-davis-and-steve-miranda?u=76281980&t=24)** In this video series, we're going to engage in a candid and authentic conversation about their journey to becoming exceptional leaders what they learned along the way, what they wish they knew, and how they handled difficult situations.
 >
-> **[0:40](https://www.linkedin.com/learning/leadership-foundations-22307442/introducing-richard-davis-and-steve-miranda?u=76281980&t=40)** I am confident that not only will you walk away inspired but you will glean some useful gems of wisdom that you can immediately apply to your leadership development.
+> **[0:40](https://www.linkedin.com/learning/leadership-foundations-22307442/introducing-richard-davis-and-steve-miranda?u=76281980&t=40)** I am confident that not only will you walk away inspired but you will glean some useful gems of wisdom that you can immediately apply to your [[Leadership Development]].
 >
 > **[0:51](https://www.linkedin.com/learning/leadership-foundations-22307442/introducing-richard-davis-and-steve-miranda?u=76281980&t=51)** So here we go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Leadership Development]] (1)
+> **Frameworks & Libraries:** [[Leadership Development]] (1)
 > **Speakers:** - i (1)
 
-#### Leadership lessons from Dr. Shirley and Richard Davis, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/part-1-leadership-lessons-from-dr-shirley-and-richard-davis?u=76281980)
+#### [Leadership lessons from Dr. Shirley and Richard Davis, part 1](https://www.linkedin.com/learning/leadership-foundations-22307442/part-1-leadership-lessons-from-dr-shirley-and-richard-davis?u=76281980)
 
-#### Leadership lessons from Dr. Shirley and Steve Miranda, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/part-2-leadership-lessons-from-dr-shirley-and-steve-miranda?u=76281980)
+#### [Leadership lessons from Dr. Shirley and Steve Miranda, part 2](https://www.linkedin.com/learning/leadership-foundations-22307442/part-2-leadership-lessons-from-dr-shirley-and-steve-miranda?u=76281980)
 
-#### Summary of learnings
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/summary-of-learnings?u=76281980)
+#### [Summary of learnings](https://www.linkedin.com/learning/leadership-foundations-22307442/summary-of-learnings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1364,7 +1340,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), leadership (1), power (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1375,8 +1350,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Action planning and next steps to becoming a leader
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980)
+#### [Action planning and next steps to becoming a leader](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1402,9 +1376,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980&t=59)** In other words, I'm a lifelong learner and I encourage you to do the same so that you can have sustained success.
 >
-> **[1:08](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980&t=68)** In addition to the other LinkedIn learning courses that I mentioned in several videos in this course, here's a few more I recommend.
+> **[1:08](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980&t=68)** In addition to the other [[LinkedIn]] learning courses that I mentioned in several videos in this course, here's a few more I recommend.
 >
-> **[1:16](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980&t=76)** Inclusive Leadership, Leadership Styles and Models and Building Professional Relationships.
+> **[1:16](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980&t=76)** [[Inclusive Leadership]], Leadership Styles and Models and Building Professional Relationships.
 >
 > **[1:23](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980&t=83)** Now, take the next step.
 >
@@ -1428,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), leadership (2), next (2), [[Inclusive Leadership]] (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Inclusive Leadership]] (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Definitions:** in other words (1), is an  (1)
 > **CLI Commands:** make (1)

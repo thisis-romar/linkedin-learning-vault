@@ -97,16 +97,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of Apache Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980)
+#### [An overview of Apache Airflow](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=1)** - [Instructor] Hi, and welcome to this course on Learning Apache Airflow.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=1)** - [Instructor] Hi, and welcome to this course on Learning [[Apache Airflow]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=4)** This is a beginner level course on Apache Airflow.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=7)** I assume that you have no previous experience working with Airflow, but I do assume that you are familiar with Python programming and working with the Linux terminal.
+> **[0:07](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=7)** I assume that you have no previous experience working with Airflow, but I do assume that you are familiar with [[Python (Programming Language)|Python]] programming and working with the [[Linux]] terminal.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=18)** Python programming and Linux Shell commands are the prereqs for this course.
 >
@@ -128,7 +127,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=78)** Apache Airflow is also extensible.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=81)** It contains operators to connect with a whole host of external technologies, whether that be S3 Buckets, SQL, SQLite, Python, Bash, anything.
+> **[1:21](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=81)** It contains operators to connect with a whole host of external technologies, whether that be S3 Buckets, [[SQL]], SQLite, Python, Bash, anything.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=92)** Airflow is also incredibly flexible.
 >
@@ -146,7 +145,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=115)** Executors run your workflows.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=117)** The metadata database holds additional information about your workflow and its components.
+> **[1:57](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=117)** The [[Metadata]] database holds additional information about your workflow and its components.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=122)** And finally, the webserver is an interactive UI that you can use to manage your workflows.
 >
@@ -178,7 +177,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=202)** if you have questions and you get stuck using Airflow, well, it has a large community of users and developers and a very rich ecosystem of plugins and integrations that you can use to unblock yourself.
 >
-> **[3:34](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=214)** We'll be running Airflow on our local machine but Airflow works with distributed systems as well such as Apache Spark, Kubernetes, AWS, and other cloud platforms.
+> **[3:34](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=214)** We'll be running Airflow on our local machine but Airflow works with distributed systems as well such as [[Apache Spark]], [[Kubernetes]], AWS, and other cloud platforms.
 >
 > **[3:45](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=225)** So when might you choose to use Airflow?
 >
@@ -192,13 +191,13 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=250)** Data transfer and processing pipelines can be built with Airflow.
 >
-> **[4:14](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=254)** Airflow is also used for automating business intelligence and reporting.
+> **[4:14](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=254)** Airflow is also used for automating [[Business Intelligence (BI)|business intelligence]] and reporting.
 >
-> **[4:18](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=258)** And Airflow can be used for DevOps and infrastructure automation as well.
+> **[4:18](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980&t=258)** And Airflow can be used for [[DevOps]] and infrastructure automation as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Airflow]] (7), data (7), [[Python (Programming Language)|Python]] (5), [[Programming]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Apache Airflow]] (7), [[Python (Programming Language)|Python]] (5), [[Linux]] (2), [[SQL]] (1), [[Metadata]] (1)
 > **CLI Commands:** apache (8), python (5), make (2), aws (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** sql (1), aws (1)
@@ -211,12 +210,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apache Airflow concepts and architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980)
+#### [Apache Airflow concepts and architecture](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=1)** - [Instructor] Now that we have a basic understanding of Apache Airflow, let's discuss some key concepts and the architecture of Airflow.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=1)** - [Instructor] Now that we have a basic understanding of [[Apache Airflow]], let's discuss some key concepts and the architecture of Airflow.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=8)** First, what does Airflow enable us to do?
 >
@@ -226,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=20)** Your workflow instances in Airflow are actually referred to as DAGs.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=25)** Now, every task or bit of work that you want to perform is represented as a node or a vertex in this directed acyclic graph.
+> **[0:25](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=25)** Now, every task or bit of work that you want to perform is represented as a node or a [[Vertex]] in this directed acyclic graph.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=34)** The edges that connect these nodes represent dependencies.
 >
@@ -282,7 +280,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=174)** The scheduler serves as the manager for Airflow.
 >
-> **[2:57](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=177)** It's the orchestrator for Airflow's Workflow Management System.
+> **[2:57](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=177)** It's the orchestrator for Airflow's [[Workflow Management]] System.
 >
 > **[3:03](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=183)** Next, we have the executor, whose job it is to receive tasks from the scheduler and then just execute those tasks.
 >
@@ -306,7 +304,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=248)** This is great for larger workflows.
 >
-> **[4:10](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=250)** Airflow also supports a Kubernetes executor that uses the Kubernetes framework to create a pod for each task instance, which allows for efficient resource utilization and better scalability.
+> **[4:10](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=250)** Airflow also supports a [[Kubernetes]] executor that uses the Kubernetes framework to create a pod for each task instance, which allows for efficient resource utilization and better [[Scalability]].
 >
 > **[4:23](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=263)** This is the right choice for containerized production workflows running on Kubernetes clusters.
 >
@@ -314,11 +312,11 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=280)** We'll be working with the web server throughout this course.
 >
-> **[4:43](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=283)** Every workflow has some state, and it is this state that is stored in the metadata database.
+> **[4:43](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=283)** Every workflow has some state, and it is this state that is stored in the [[Metadata]] database.
 >
 > **[4:49](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=289)** This is used by the scheduler, executor, as well as the web server.
 >
-> **[4:53](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=293)** All of your workflows will be implemented in Python and stored in the DAG directory.
+> **[4:53](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=293)** All of your workflows will be implemented in [[Python (Programming Language)|Python]] and stored in the DAG directory.
 >
 > **[4:59](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980&t=299)** This is a folder of files which contain the DAG definitions and code, and this is the directory read by other components in Airflow.
 >
@@ -342,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Kubernetes]] (3), web (3), node (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Metadata]] (2), [[Python (Programming Language)|Python]] (2), [[Apache Airflow]] (1), [[Vertex]] (1)
 > **Definitions:** is a  (5), is an  (1), stands for (1)
 > **CLI Commands:** node (2), python (2), apache (1), make (1)
 > **Env Vars:** dag (2)
@@ -350,12 +348,11 @@ created: 2026-05-02
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initial setup: macOS and Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980)
+#### [Initial setup: macOS and Windows](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=0)** - In this demo, we'll see how you can install and get set up with Apache Airflow on your local machine.
+> **[0:00](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=0)** - In this demo, we'll see how you can install and get set up with [[Apache Airflow]] on your local machine.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=6)** Now, we've already discussed that Airflow is an open source platform designed to programmatically allow you to create, schedule, and monitor workflows.
 >
@@ -367,7 +364,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=30)** But the easiest way to get up and running with Airflow is to use PyPI.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=36)** PyPI is the Python Package Index.
+> **[0:36](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=36)** PyPI is the [[Python (Programming Language)|Python]] Package Index.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=38)** It's a repository of software packages that we use with the Python Programming Language.
 >
@@ -377,9 +374,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=52)** At the time of this recording, Apache Airflow can only be run POSIX-compliant operating systems.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=59)** So if you want to use a ext system with Apache Airflow you have to run a modern Linux distribution, or recent versions of macOS.
+> **[0:59](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=59)** So if you want to use a ext system with Apache Airflow you have to run a modern [[Linux]] distribution, or recent versions of macOS.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=69)** Now, it's possible for you to run Airflow on Windows, but you need to run it via WSL 1, or Windows Subsystem for Linux 2, or via Linux Containers.
+> **[1:09](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=69)** Now, it's possible for you to run Airflow on [[Windows]], but you need to run it via WSL 1, or Windows Subsystem for Linux 2, or via Linux Containers.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=80)** In the first part of this movie, I'll show you how you can get set up with a virtual environment on macOS.
 >
@@ -469,7 +466,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=263)** Click on Restart now.
 >
-> **[4:25](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=265)** Now, once the restart is complete, come back to the Start menu, and search for the Microsoft Store.
+> **[4:25](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=265)** Now, once the restart is complete, come back to the Start menu, and search for the [[Microsoft]] Store.
 >
 > **[4:32](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=272)** Just type in store, and you should find the Microsoft Store there.
 >
@@ -477,7 +474,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=279)** Notice the search bar on top.
 >
-> **[4:41](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=281)** Search for the Ubuntu distribution.
+> **[4:41](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=281)** Search for the [[Ubuntu]] distribution.
 >
 > **[4:44](https://www.linkedin.com/learning/learning-apache-airflow/initial-setup-macos-and-windows?u=76281980&t=284)** I'm going to install Ubuntu so that we can work with the Linux virtual machine using WSL.
 >
@@ -519,7 +516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Windows]] (12), [[Linux]] (10), [[Apache Airflow]] (7), [[Search]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Windows]] (12), [[Linux]] (10), [[Apache Airflow]] (7), [[Ubuntu]] (4)
 > **CLI Commands:** python (15), apache (7), docker (2), find (2), sudo (2)
 > **Prerequisites:** set up (9), install (7), setup (3), you'll need (2)
 > **Versions:** python 3 (5), 3.10 (2), 3.7 (2), 7.16 (2), 9.13 (1)
@@ -528,14 +525,13 @@ created: 2026-05-02
 > **Env Vars:** wsl (3), posix (1)
 > **Code Identifiers:** macos (2)
 
-#### Understanding Airflow configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/understanding-airflow-configuration?u=76281980)
+#### [Understanding Airflow configuration](https://www.linkedin.com/learning/learning-apache-airflow/understanding-airflow-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/understanding-airflow-configuration?u=76281980&t=1)** - [Narrator] Now that you have the prereq setup up for MacOS or Windows, let's go ahead and install Airflow using the Python package manager pip.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/understanding-airflow-configuration?u=76281980&t=1)** - [Narrator] Now that you have the prereq setup up for MacOS or [[Windows]], let's go ahead and install Airflow using the [[Python (Programming Language)|Python]] package manager pip.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-apache-airflow/understanding-airflow-configuration?u=76281980&t=11)** So I call pip install and I install Apache Airflow and I specify a constraints file.
+> **[0:11](https://www.linkedin.com/learning/learning-apache-airflow/understanding-airflow-configuration?u=76281980&t=11)** So I call pip install and I install [[Apache Airflow]] and I specify a constraints file.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-apache-airflow/understanding-airflow-configuration?u=76281980&t=17)** This constraint file specification allows you to have an Airflow installation that is repeatable.
 >
@@ -623,7 +619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Apache Airflow]] (4), database (3), [[Windows]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Apache Airflow]] (4), [[Windows]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** apache (4), pip (2), python (1), cd (1), ls (1)
 > **Prerequisites:** install (5), setup (1), configure (1)
 > **Env Vars:** utc (2), url (1)
@@ -632,8 +628,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** specification (1)
 
-#### Running Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980)
+#### [Running Airflow](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,13 +652,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=46)** Now, if you're just experimenting and working with Airflow, we can stick with the default SQLite database.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=52)** In a production environment, you need to configure PostgreSQL or some other production database.
+> **[0:52](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=52)** In a production environment, you need to configure [[PostgreSQL]] or some other production database.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=59)** Now initialize the database by calling airflow db init.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=63)** Now, it's quite possible that when you are running this command, you'll see a warning about SQLAlchemy, as you can see here on my screen.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=70)** Now, this is because Airflow is currently not compatible with SQL Alchemy 2.0, which is the latest version.
+> **[1:10](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=70)** Now, this is because Airflow is currently not compatible with [[SQL]] Alchemy 2.0, which is the latest version.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=77)** There is a ticket open to add Airflow support for SQLAlchemy 2.0, so it's quite possible that by the time you are running this code, SQLAlchemy 2.0 will be supported.
 >
@@ -709,7 +704,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=190)** So if you've created a virtual environment for Airflow, you'll need to run a Conda activate command.
 >
-> **[3:16](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=196)** So you see I have my Python 3.7 environment.
+> **[3:16](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=196)** So you see I have my [[Python (Programming Language)|Python]] 3.7 environment.
 >
 > **[3:20](https://www.linkedin.com/learning/learning-apache-airflow/running-airflow?u=76281980&t=200)** I'm going to go ahead and activate this environment, and within this environment, I'm going to run the Airflow web server.
 >
@@ -719,7 +714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), web (4), cloud (3), [[PostgreSQL]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (1), [[SQL]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), ls (1), make (1), python (1)
 > **Versions:** 2.0 (3), python 3 (1)
 > **Prerequisites:** configure (2), you'll need (2)
@@ -733,8 +728,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating and exploring the Airflow UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980)
+#### [Navigating and exploring the Airflow UI](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,15 +748,15 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980&t=39)** You can see a DAG Import Error.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980&t=41)** That's because one particular directed acyclic graph could not be imported directly, and that's because we do not have Pandas installed in our virtual environment.
+> **[0:41](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980&t=41)** That's because one particular directed acyclic graph could not be imported directly, and that's because we do not have [[Pandas (Software)|Pandas]] installed in our virtual environment.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980&t=52)** You may not see this error if you have Pandas installed.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980&t=55)** Now, this error is useful because this is how you'll see errors when you create your own DAGs, and you have errors in them like Python syntax errors or dependency errors.
+> **[0:55](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980&t=55)** Now, this error is useful because this is how you'll see errors when you create your own DAGs, and you have errors in them like [[Python (Programming Language)|Python]] syntax errors or dependency errors.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980&t=65)** So make sure you pay attention to your DAG imports.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980&t=69)** Next, you can see that there is a warning that says Do not use SQLite as a metadata DB in production.
+> **[1:09](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980&t=69)** Next, you can see that there is a warning that says Do not use SQLite as a [[Metadata]] DB in production.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980&t=75)** Well, this is not production, so that's fine.
 >
@@ -900,7 +894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1), next (1), [[Metadata]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1), [[Metadata]] (1)
 > **Env Vars:** dag (25)
 > **UI Navigation:** click on (4), go to (2), scroll down (2), select the (1)
 > **Code Identifiers:** example_branch_operator (2), run_this_first (1), follow_branch (1)
@@ -909,8 +903,7 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **Prerequisites:** set up (1), you'll need (1)
 
-#### Creating your first DAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/creating-your-first-dag?u=76281980)
+#### [Creating your first DAG](https://www.linkedin.com/learning/learning-apache-airflow/creating-your-first-dag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,7 +951,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-apache-airflow/creating-your-first-dag?u=76281980&t=115)** Remember, it's within your Airflow home directory.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-apache-airflow/creating-your-first-dag?u=76281980&t=118)** Now, inside this, I'm going to create a Python file that will contain my first DAG, and that's going to be a simple_hello_world.py file.
+> **[1:58](https://www.linkedin.com/learning/learning-apache-airflow/creating-your-first-dag?u=76281980&t=118)** Now, inside this, I'm going to create a [[Python (Programming Language)|Python]] file that will contain my first DAG, and that's going to be a simple_hello_world.py file.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-apache-airflow/creating-your-first-dag?u=76281980&t=128)** With this complete, I'm going to paste in the code for our very first workflow, and let's take a look at what a DAG looks like in code.
 >
@@ -1036,7 +1029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), next (2), [[Python (Programming Language)|Python]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dag (23), utc (1)
 > **Code Identifiers:** start_date (3), load_examples (2), default_args (2), hello_world (2), simple_hello_world (1)
 > **Tools:** terminal (5), bash (2), vs code (1)
@@ -1045,8 +1038,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1), set up (1)
 > **Definitions:** is a  (1)
 
-#### Running your first DAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/running-your-first-dag?u=76281980)
+#### [Running your first DAG](https://www.linkedin.com/learning/learning-apache-airflow/running-your-first-dag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1196,7 +1188,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Env Vars:** dag (24)
 > **UI Navigation:** click on (7), go to (2), scroll down (1), select the (1)
 > **Tools:** bash (5), vs code (1), terminal (1)
@@ -1204,9 +1195,9 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (1)
+> **Warnings:** note that (1)
 
-#### Creating a DAG using the with keyword
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/creating-a-dag-using-the-with-keyword?u=76281980)
+#### [Creating a DAG using the with keyword](https://www.linkedin.com/learning/learning-apache-airflow/creating-a-dag-using-the-with-keyword?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1216,11 +1207,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-apache-airflow/creating-a-dag-using-the-with-keyword?u=76281980&t=11)** Now if you have many operators, this is going to be painful.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-apache-airflow/creating-a-dag-using-the-with-keyword?u=76281980&t=14)** Here is a better way of creating a DAG and this is the technique that we'll be following for the rest of this course.
+> **[0:14](https://www.linkedin.com/learning/learning-apache-airflow/creating-a-dag-using-the-with-keyword?u=76281980&t=14)** Here is a better way of creating a DAG and this is the technique that we'll be following for the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-apache-airflow/creating-a-dag-using-the-with-keyword?u=76281980&t=20)** The only change here is on lines 12 through 23.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-apache-airflow/creating-a-dag-using-the-with-keyword?u=76281980&t=24)** On lines 12 through 18, I use the with keyword in Python to instantiate the DAG.
+> **[0:24](https://www.linkedin.com/learning/learning-apache-airflow/creating-a-dag-using-the-with-keyword?u=76281980&t=24)** On lines 12 through 18, I use the with keyword in [[Python (Programming Language)|Python]] to instantiate the DAG.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-apache-airflow/creating-a-dag-using-the-with-keyword?u=76281980&t=30)** This is stored in the DAG variable specified on line 18.
 >
@@ -1264,7 +1255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), api (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dag (19), api (2)
 > **CLI Commands:** python (1), make (1), ls (1)
 > **Tools:** bash (2)
@@ -1278,8 +1269,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Specifying task dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/specifying-task-dependencies?u=76281980)
+#### [Specifying task dependencies](https://www.linkedin.com/learning/learning-apache-airflow/specifying-task-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1390,8 +1380,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Bitshift operators for dependency specification
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/using-the-bitshift-operators-for-dependency-specification?u=76281980)
+#### [Using the Bitshift operators for dependency specification](https://www.linkedin.com/learning/learning-apache-airflow/using-the-bitshift-operators-for-dependency-specification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1513,12 +1502,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using bash scripts in the DAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/using-bash-scripts-in-the-dag?u=76281980)
+#### [Using bash scripts in the DAG](https://www.linkedin.com/learning/learning-apache-airflow/using-bash-scripts-in-the-dag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/using-bash-scripts-in-the-dag?u=76281980&t=1)** - [Instructor] If you're working with a real world application that uses bash operators it's highly unlikely that your scripts are so tiny that they fit as strings within your Python file.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/using-bash-scripts-in-the-dag?u=76281980&t=1)** - [Instructor] If you're working with a real world application that uses bash operators it's highly unlikely that your scripts are so tiny that they fit as strings within your [[Python (Programming Language)|Python]] file.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-apache-airflow/using-bash-scripts-in-the-dag?u=76281980&t=11)** In fact, it's not really addressable to have your external scripts be part of your DAG execution code.
 >
@@ -1624,7 +1612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), application (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Tools:** bash (8)
 > **Env Vars:** dag (7)
 > **Exercise Files:** template (3)
@@ -1638,8 +1626,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the Python operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-python-operator?u=76281980)
+#### [Introducing the Python operator](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-python-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1649,7 +1636,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-python-operator?u=76281980&t=13)** Now, if you only had to use the BashOperator in your DAG, that's going to be pretty boring.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-python-operator?u=76281980&t=18)** So in this demo, we'll see how you can construct your tasks using the Python operator that allows you to execute Python code for your tasks.
+> **[0:18](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-python-operator?u=76281980&t=18)** So in this demo, we'll see how you can construct your tasks using the [[Python (Programming Language)|Python]] operator that allows you to execute Python code for your tasks.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-python-operator?u=76281980&t=29)** Now, within my DAG subfolder in my Airflow home directory, I have a new file.
 >
@@ -1729,12 +1716,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Python operators and dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/python-operators-and-dependencies?u=76281980)
+#### [Python operators and dependencies](https://www.linkedin.com/learning/learning-apache-airflow/python-operators-and-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/python-operators-and-dependencies?u=76281980&t=1)** - [Narrator] Now in this movie, we'll see that dependencies with Python operators work exactly like dependencies with pash operators.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/python-operators-and-dependencies?u=76281980&t=1)** - [Narrator] Now in this movie, we'll see that dependencies with [[Python (Programming Language)|Python]] operators work exactly like dependencies with pash operators.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-apache-airflow/python-operators-and-dependencies?u=76281980&t=8)** In fact, dependencies work the same way with all operators that you use to specify tasks.
 >
@@ -1805,12 +1791,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [narrator] (1)
 
-#### Passing parameters to Python callables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/passing-parameters-to-python-callables?u=76281980)
+#### [Passing parameters to Python callables](https://www.linkedin.com/learning/learning-apache-airflow/passing-parameters-to-python-callables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/passing-parameters-to-python-callables?u=76281980&t=1)** - [Instructor] Now, our Python operators invoke Python callables, that is the invoke Python functions, which is where we actually have the code that performs the task that we want it to.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/passing-parameters-to-python-callables?u=76281980&t=1)** - [Instructor] Now, our [[Python (Programming Language)|Python]] operators invoke Python callables, that is the invoke Python functions, which is where we actually have the code that performs the task that we want it to.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-apache-airflow/passing-parameters-to-python-callables?u=76281980&t=12)** Now, if you're going to be invoking Python functions, it's natural for you to want to pass in input arguments to your function.
 >
@@ -1870,7 +1855,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-apache-airflow/passing-parameters-to-python-callables?u=76281980&t=131)** You can see the two tasks on the left, greet_hello and greet_hello_with_city.
 >
-> **[2:17](https://www.linkedin.com/learning/learning-apache-airflow/passing-parameters-to-python-callables?u=76281980&t=137)** I always like to execute my task either in the grit view or graph view, especially when I want to check the dependencies.
+> **[2:17](https://www.linkedin.com/learning/learning-apache-airflow/passing-parameters-to-python-callables?u=76281980&t=137)** I always like to execute my task either in the [[Grit]] view or graph view, especially when I want to check the dependencies.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-apache-airflow/passing-parameters-to-python-callables?u=76281980&t=143)** You can see that greet_hello comes first and then greet_hello_with_city.
 >
@@ -1902,12 +1887,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing XCom
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-xcom?u=76281980)
+#### [Introducing XCom](https://www.linkedin.com/learning/learning-apache-airflow/introducing-xcom?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/introducing-xcom?u=76281980&t=1)** - [Instructor] So far, all of our tasks in our DAGs built using either the Bash operator or the Python operator have been running in isolation.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/introducing-xcom?u=76281980&t=1)** - [Instructor] So far, all of our tasks in our DAGs built using either the Bash operator or the [[Python (Programming Language)|Python]] operator have been running in isolation.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-apache-airflow/introducing-xcom?u=76281980&t=9)** Each task kind of does its own thing.
 >
@@ -1919,7 +1903,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-apache-airflow/introducing-xcom?u=76281980&t=36)** XCom stands for cross-communication, and it's an Airflow feature that allows tasks to exchange messages, or cross-communicate, with each other.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-apache-airflow/introducing-xcom?u=76281980&t=46)** The XCom mechanism is great for sharing small amounts of data between tasks, data such as status updates, metadata, or output values.
+> **[0:46](https://www.linkedin.com/learning/learning-apache-airflow/introducing-xcom?u=76281980&t=46)** The XCom mechanism is great for sharing small amounts of data between tasks, data such as status updates, [[Metadata]], or output values.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-apache-airflow/introducing-xcom?u=76281980&t=55)** Now, in this course, I won't show you all of the different ways in which you can use XCom.
 >
@@ -1989,7 +1973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), data (2), feature (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Metadata]] (1)
 > **CLI Commands:** python (10), find (1)
 > **Env Vars:** dag (6)
 > **UI Navigation:** click on (2)
@@ -1998,12 +1982,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using XCom to pass values
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/using-xcom-to-pass-values?u=76281980)
+#### [Using XCom to pass values](https://www.linkedin.com/learning/learning-apache-airflow/using-xcom-to-pass-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/using-xcom-to-pass-values?u=76281980&t=1)** - [Instructor] Now that we know that return values from Python functions can be added to XCom, let's see how we can have other tasks access these values.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/using-xcom-to-pass-values?u=76281980&t=1)** - [Instructor] Now that we know that return values from [[Python (Programming Language)|Python]] functions can be added to XCom, let's see how we can have other tasks access these values.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-apache-airflow/using-xcom-to-pass-values?u=76281980&t=10)** Now, here I have a number of Python functions that perform a series of mathematical operations.
 >
@@ -2153,19 +2136,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), next (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9)
 > **CLI Commands:** python (9), make (2)
 > **Code Identifiers:** print_value (4), xcom_pull (3)
 > **Env Vars:** dag (7)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing a data transformation DAG pipeline, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980)
+#### [Implementing a data transformation DAG pipeline, part 1](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=1)** - [Instructor] Now that we know how to pass data between tasks, we can build a pipeline using Python operators that does something real, we'll build a data transformation pipeline.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=1)** - [Instructor] Now that we know how to pass data between tasks, we can build a pipeline using [[Python (Programming Language)|Python]] operators that does something real, we'll build a [[Data Transformation]] pipeline.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=11)** The data that we'll work with is this insurance dataset available in an insurance.csv file.
 >
@@ -2175,7 +2157,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=24)** We need to clean this dataset first and then perform our transformation.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=29)** Now we'll be using the Pandas library in Python to perform data transformations which means our virtual environment needs to have Pandas installed.
+> **[0:29](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=29)** Now we'll be using the [[Pandas (Software)|Pandas]] library in Python to perform data transformations which means our virtual environment needs to have Pandas installed.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=38)** Here I am in the Airflow folder within my virtual environment, Python three seven.
 >
@@ -2205,7 +2187,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=133)** This reads in the insurance CSV file in my Airflow data sets folder.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=138)** It prints out the contents of the data frame to screen, that's on line 17, and then it returns the data frames contents in the JSON format.
+> **[2:18](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=138)** It prints out the contents of the data frame to screen, that's on line 17, and then it returns the data frames contents in the [[JSON]] format.
 >
 > **[2:27](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-1?u=76281980&t=147)** This will be pushed onto the XCom for this task.
 >
@@ -2293,7 +2275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[JSON]] (10), [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (7), web (2)
+> **Frameworks & Libraries:** [[JSON]] (10), [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (7), [[Data Transformation]] (1)
 > **Env Vars:** csv (12), json (10), dag (6)
 > **CLI Commands:** python (8), make (2), pip (1), find (1)
 > **File Paths:** insurance.csv (3)
@@ -2302,8 +2284,7 @@ created: 2026-05-02
 > **Code Identifiers:** read_json (1), to_json (1)
 > **Cross-References:** go back to (2)
 
-#### Implementing a data transformation DAG pipeline, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980)
+#### [Implementing a data transformation DAG pipeline, part 2](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2329,7 +2310,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=57)** Let's look at groupby_smoker first.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=59)** It takes in a task instance as an input argument, and then calls ti.xcom_pull and gets the clean data frame in the JSON format from the task ID remove_null_values.
+> **[0:59](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=59)** It takes in a task instance as an input argument, and then calls ti.xcom_pull and gets the clean data frame in the [[JSON]] format from the task ID remove_null_values.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=73)** We convert the JSON to a data frame by calling pd.read_json on the JSON data.
 >
@@ -2357,7 +2338,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=153)** The dag instance has parameters that we're familiar with.
 >
-> **[2:37](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=157)** We have four Python operators here in this dag.
+> **[2:37](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=157)** We have four [[Python (Programming Language)|Python]] operators here in this dag.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=160)** I've defined these, read_csv_file, remove_null_values, groupby_smoker, and groupby_region.
 >
@@ -2373,7 +2354,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=195)** Groupby_region and groupby_smoker depend on data from remove_null_values, and that's why the graph is set up this way.
 >
-> **[3:23](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=203)** Let's now execute this dag and see whether our data transformation pipeline runs through successfully.
+> **[3:23](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=203)** Let's now execute this dag and see whether our [[Data Transformation]] pipeline runs through successfully.
 >
 > **[3:29](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-data-transformation-dag-pipeline-part-2?u=76281980&t=209)** You'll have to wait for a few minutes, maybe about a minute and a half.
 >
@@ -2395,7 +2376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[JSON]] (4), [[Python (Programming Language)|Python]] (3), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Python (Programming Language)|Python]] (3), [[Data Transformation]] (1)
 > **Code Identifiers:** remove_null_values (6), groupby_smoker (5), groupby_region (5), xcom_pull (2), read_json (2)
 > **Env Vars:** json (4), bmi (4), csv (3)
 > **CLI Commands:** python (3), find (2), make (1)
@@ -2409,12 +2390,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the SQLite DB and connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/setting-up-the-sqlite-db-and-connection?u=76281980)
+#### [Setting up the SQLite DB and connection](https://www.linkedin.com/learning/learning-apache-airflow/setting-up-the-sqlite-db-and-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/setting-up-the-sqlite-db-and-connection?u=76281980&t=1)** - [Instructor] In this demo, we'll see how we can use Airflow operators to work with SQL databases.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/setting-up-the-sqlite-db-and-connection?u=76281980&t=1)** - [Instructor] In this demo, we'll see how we can use Airflow operators to work with [[SQL]] [[Databases]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-apache-airflow/setting-up-the-sqlite-db-and-connection?u=76281980&t=6)** Specifically, we'll work with the SQLite Database.
 >
@@ -2486,7 +2466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), [[Databases]] (3), [[SQL]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Databases]] (3), [[SQL]] (2)
 > **Env Vars:** sql (2), dag (2)
 > **CLI Commands:** cd (1), find (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -2495,8 +2475,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing the SQLite operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-sqlite-operator?u=76281980)
+#### [Introducing the SQLite operator](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-sqlite-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2504,7 +2483,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-sqlite-operator?u=76281980&t=8)** Observe on line 3, I have an import for the SqliteOperator.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-sqlite-operator?u=76281980&t=12)** This is the operator that you'll use to run SQL commands on our SQLite DB.
+> **[0:12](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-sqlite-operator?u=76281980&t=12)** This is the operator that you'll use to run [[SQL]] commands on our SQLite DB.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-sqlite-operator?u=76281980&t=17)** Let's take a look at the actual DAG.
 >
@@ -2512,7 +2491,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-sqlite-operator?u=76281980&t=28)** This is the create_table operator, that's the task ID, and it has a SQL parameter which I use to specify the SQL statement that I want this operator to execute.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-sqlite-operator?u=76281980&t=39)** The SQL statement is defined as a multi-line Python string, starting on line 22 going through to line 30.
+> **[0:39](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-sqlite-operator?u=76281980&t=39)** The SQL statement is defined as a multi-line [[Python (Programming Language)|Python]] string, starting on line 22 going through to line 30.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-sqlite-operator?u=76281980&t=46)** This is a "CREATE TABLE IF NOT EXISTS users", and every user has an ID, name, age, is_active, and created_at.
 >
@@ -2564,7 +2543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), database (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dag (5), sql (4), create (1), table (1), exists (1)
 > **Code Identifiers:** create_table (4), is_active (1), created_at (1), my_sqlite_conn (1), executing_sql_pipeline (1)
 > **SQL:** create table (1), select (1)
@@ -2573,8 +2552,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing a SQL-based DAG pipeline, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-1?u=76281980)
+#### [Implementing a SQL-based DAG pipeline, part 1](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2592,7 +2570,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-1?u=76281980&t=32)** The task ID is create table.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-1?u=76281980&t=34)** It runs the create table if not exists, SQL command specified on lines 23 through 29.
+> **[0:34](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-1?u=76281980&t=34)** It runs the create table if not exists, [[SQL]] command specified on lines 23 through 29.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-1?u=76281980&t=41)** The SQL connection ID that it uses is my_sqlite connection.
 >
@@ -2674,7 +2652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (3), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** dag (7), sql (3)
 > **Code Identifiers:** executing_sql_pipeline (1), create_table (1), my_sqlite (1), display_result (1), do_xcom_push (1)
 > **UI Navigation:** switch to (1), click on (1)
@@ -2683,12 +2661,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing a SQL-based DAG pipeline, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-2?u=76281980)
+#### [Implementing a SQL-based DAG pipeline, part 2](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-2?u=76281980&t=1)** - [Instructor] Now I've updated my SQL pipeline one last time to include some more operators to not only insert data but also delete and update data in my user's table.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-2?u=76281980&t=1)** - [Instructor] Now I've updated my [[SQL]] pipeline one last time to include some more operators to not only insert data but also delete and update data in my user's table.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-apache-airflow/implementing-a-sql-based-dag-pipeline-part-2?u=76281980&t=13)** Let's go straight to the tasks that make up our workflow.
 >
@@ -2732,7 +2709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** delete_values (2), update_values (2), display_result (2), is_active (1), do_xcom_push (1)
 > **Env Vars:** select (2), sql (1), delete (1), where (1)
 > **SQL:** select (2), delete from (1), where (1)
@@ -2746,8 +2723,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing branching
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-branching?u=76281980)
+#### [Introducing branching](https://www.linkedin.com/learning/learning-apache-airflow/introducing-branching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2763,7 +2739,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-apache-airflow/introducing-branching?u=76281980&t=37)** This is the Airflow operator that will allow us to implement conditional branching.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-apache-airflow/introducing-branching?u=76281980&t=42)** The Python operators in my workflow invoke these Python callables.
+> **[0:42](https://www.linkedin.com/learning/learning-apache-airflow/introducing-branching?u=76281980&t=42)** The [[Python (Programming Language)|Python]] operators in my workflow invoke these Python callables.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-apache-airflow/introducing-branching?u=76281980&t=47)** On line 13 I have a method called has_driving_license which returns a random choice of either true or false.
 >
@@ -2855,7 +2831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Code Identifiers:** eligible_to_drive (9), not_eligible_to_drive (9), has_driving_license (8), executing_branching (2), python_callable (2)
 > **Env Vars:** dag (11)
 > **CLI Commands:** python (4), find (1), make (1)
@@ -2863,14 +2839,13 @@ created: 2026-05-02
 > **File Paths:** executing_branching.py (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional branching with variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/conditional-branching-with-variables?u=76281980)
+#### [Conditional branching with variables](https://www.linkedin.com/learning/learning-apache-airflow/conditional-branching-with-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/conditional-branching-with-variables?u=76281980&t=1)** - [Instructor] Now, you may have a workflow that executes several operation and you want to choose one of the operations to perform for each run, and this choice will be based on some kind of configuration that you provide.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-apache-airflow/conditional-branching-with-variables?u=76281980&t=13)** You can specify your configuration in Apache Airflow using variables.
+> **[0:13](https://www.linkedin.com/learning/learning-apache-airflow/conditional-branching-with-variables?u=76281980&t=13)** You can specify your configuration in [[Apache Airflow]] using variables.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-apache-airflow/conditional-branching-with-variables?u=76281980&t=18)** Variables are a way to store and retrieve arbitrary values that can be used across the different DAGs.
 >
@@ -2918,7 +2893,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-apache-airflow/conditional-branching-with-variables?u=76281980&t=121)** The first task in my workflow will be to read the CSV file, the functions defined on lines 19 through 24.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-apache-airflow/conditional-branching-with-variables?u=76281980&t=128)** This returns the insurance DataFrame in the JSON format.
+> **[2:08](https://www.linkedin.com/learning/learning-apache-airflow/conditional-branching-with-variables?u=76281980&t=128)** This returns the insurance DataFrame in the [[JSON]] format.
 >
 > **[2:12](https://www.linkedin.com/learning/learning-apache-airflow/conditional-branching-with-variables?u=76281980&t=132)** Next, I have the remove_null_values function that takes in a task instance as an input argument.
 >
@@ -3042,7 +3017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), [[JSON]] (2), [[Apache Airflow]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Apache Airflow]] (1)
 > **Code Identifiers:** transform_action (12), filter_by_southwest (7), groupby_region_smoker (5), remove_null_values (2), determine_branch (2)
 > **Env Vars:** dag (11), csv (5), json (2), datasets_path (1), bmi (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -3051,8 +3026,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** go back to (1)
 
-#### Task groups and edge labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/task-groups-and-edge-labels?u=76281980)
+#### [Task groups and edge labels](https://www.linkedin.com/learning/learning-apache-airflow/task-groups-and-edge-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3066,7 +3040,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-apache-airflow/task-groups-and-edge-labels?u=76281980&t=31)** Edge labels, on the other hand, allow you to add labels to the edges between tasks in a DAG, providing additional information about the dependencies between tasks.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-apache-airflow/task-groups-and-edge-labels?u=76281980&t=41)** We work with the same Python pipeline that we did in the previous demo, the branching pipeline.
+> **[0:41](https://www.linkedin.com/learning/learning-apache-airflow/task-groups-and-edge-labels?u=76281980&t=41)** We work with the same [[Python (Programming Language)|Python]] pipeline that we did in the previous demo, the branching pipeline.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-apache-airflow/task-groups-and-edge-labels?u=76281980&t=46)** Here I am in Airflow's variables UI and I've just updated the transform action variable to be filtered by Northwest, because that is the operation I want my DAG to perform.
 >
@@ -3076,7 +3050,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-apache-airflow/task-groups-and-edge-labels?u=76281980&t=66)** Take a look at the read_csv_file function.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-apache-airflow/task-groups-and-edge-labels?u=76281980&t=69)** It takes in a task instance as an input argument, and on line 26, I call ti.xcom_push to push the JSON value that I want to pass on to other tasks with the key my_csv.
+> **[1:09](https://www.linkedin.com/learning/learning-apache-airflow/task-groups-and-edge-labels?u=76281980&t=69)** It takes in a task instance as an input argument, and on line 26, I call ti.xcom_push to push the [[JSON]] value that I want to pass on to other tasks with the key my_csv.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-apache-airflow/task-groups-and-edge-labels?u=76281980&t=85)** Now, when other tasks want to access this value, they can only specify the key rather than the task ID, so read_csv_file no longer returns a value that is implicitly added to xcom.
 >
@@ -3182,7 +3156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JSON]] (1)
 > **Code Identifiers:** read_csv_file (4), remove_null_values (4), reading_and_preprocessing (4), xcom_push (3), my_csv (2)
 > **Env Vars:** dag (9), csv (2), json (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -3196,12 +3170,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Catch up with all previously scheduled runs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980)
+#### [Catch up with all previously scheduled runs](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980&t=0)** - [Instructor] In this movie, we'll see how Catchup works in Apache Airflow.
+> **[0:00](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980&t=0)** - [Instructor] In this movie, we'll see how Catchup works in [[Apache Airflow]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980&t=4)** In Airflow, Catchup refers to the process of scheduling and executing all the past DAG runs that would have been scheduled if the DAG had been created and running at an earlier point in time.
 >
@@ -3213,7 +3186,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980&t=43)** Now the actual DAG is going to be pretty straightforward.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980&t=45)** This particular DAG contains a mix of Python operators and bash operators.
+> **[0:45](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980&t=45)** This particular DAG contains a mix of [[Python (Programming Language)|Python]] operators and bash operators.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980&t=50)** Notice the three Python functions here.
 >
@@ -3351,7 +3324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (2), [[Apache Airflow]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Apache Airflow]] (1)
 > **Env Vars:** dag (23)
 > **CLI Commands:** python (6), make (2), apache (1)
 > **Definitions:** is a  (7), refers to (1), means that (1)
@@ -3360,12 +3333,11 @@ created: 2026-05-02
 > **Ports:** :00 (2)
 > **Warnings:** note that (1)
 
-#### Backfill scheduled runs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/backfill-scheduled-runs?u=76281980)
+#### [Backfill scheduled runs](https://www.linkedin.com/learning/learning-apache-airflow/backfill-scheduled-runs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/backfill-scheduled-runs?u=76281980&t=1)** - [Instructor] Now that we've understood catchup, in this demo we'll see how backfill works in Apache Airflow.
+> **[0:01](https://www.linkedin.com/learning/learning-apache-airflow/backfill-scheduled-runs?u=76281980&t=1)** - [Instructor] Now that we've understood catchup, in this demo we'll see how backfill works in [[Apache Airflow]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-apache-airflow/backfill-scheduled-runs?u=76281980&t=6)** Now, backfill refers specifically to the process of executing past DAG runs for a specific gate range rather than all past DAG runs.
 >
@@ -3443,7 +3415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Airflow]] (1), hit (1)
+> **Frameworks & Libraries:** [[Apache Airflow]] (1)
 > **Env Vars:** dag (15)
 > **CLI Commands:** apache (1)
 > **Code Identifiers:** cron_catchup_backfill (1)
@@ -3455,16 +3427,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=0)** - [Narrator] And with this demo, we come to the very end of this course on learning Apache Airflow.
+> **[0:00](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=0)** - [Narrator] And with this demo, we come to the very end of this course on learning [[Apache Airflow]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=5)** Let's take a quick look at what we covered in this course.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=8)** We started off by discussing Airflow concepts and we saw the basic architecture of the Airflow Workflow Management service.
+> **[0:08](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=8)** We started off by discussing Airflow concepts and we saw the basic architecture of the Airflow [[Workflow Management]] service.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=17)** We then built a variety of workflows using directed acyclic graphs.
 >
@@ -3474,17 +3445,17 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=34)** We then saw how we could pass data between tasks using XComs and we visualized our workflow using TaskGroups to group logical tasks together.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=45)** We brought all of this together using real world examples of a Python processing pipeline and a SQL operations pipeline.
+> **[0:45](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=45)** We brought all of this together using real world examples of a [[Python (Programming Language)|Python]] processing pipeline and a [[SQL]] operations pipeline.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=52)** And finally, we ended this course by discussing Cron scheduling of bags, catch up and backfilling bags.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=60)** If you're interested in big data processing and building pipelines, here are some other courses on LinkedIn Learning that you might like.
+> **[1:00](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=60)** If you're interested in [[Big Data]] processing and building pipelines, here are some other courses on [[LinkedIn]] Learning that you might like.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=67)** "[[Introduction to Spark SQL and DataFrames]]" will show you how you can process data using SQL in Apache Spark.
+> **[1:07](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=67)** "[[Introduction to Spark SQL and DataFrames]]" will show you how you can process data using SQL in [[Apache Spark]].
 >
 > **[1:13](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=73)** Or you might be interested in stream messaging systems.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=77)** Then the course for you would be "Learn Apache Kafka for Beginners."
+> **[1:17](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=77)** Then the course for you would be "Learn [[Apache Kafka]] for Beginners."
 >
 > **[1:22](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980&t=82)** Well, that's it from me here today.
 >
@@ -3492,7 +3463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (2), [[Apache Airflow]] (1), [[Workflow Management]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Apache Airflow]] (1), [[Workflow Management]] (1), [[Python (Programming Language)|Python]] (1), [[Big Data]] (1)
 > **CLI Commands:** apache (3), python (1)
 > **Env Vars:** sql (3)
 > **Cross-References:** we covered (1)

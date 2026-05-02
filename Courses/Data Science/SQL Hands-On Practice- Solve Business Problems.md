@@ -106,14 +106,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advancing your skills with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980)
+#### [Advancing your skills with SQL](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980&t=0)** - Are you excited to grow your SQL skills by practicing unreal business problems that you can use in your data analytics portfolio?
+> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980&t=0)** - Are you excited to grow your [[SQL]] skills by practicing unreal business problems that you can use in your data analytics portfolio?
 >
-> **[0:09](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980&t=9)** In this LinkedIn Learning course, we'll take a hands-on approach to SQL using CoderPad to practice your skills.
+> **[0:09](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980&t=9)** In this [[LinkedIn]] Learning course, we'll take a hands-on approach to SQL using CoderPad to practice your skills.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980&t=16)** I'm Jess Ramos, I'm a Senior Data Analyst in tech, and I love helping others learn SQL and data analytics.
 >
@@ -121,16 +120,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (3), [[Analytics]] (2), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[LinkedIn]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you should have some understanding of querying dataset in SQL.
+> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you should have some understanding of querying dataset in [[SQL]].
 >
 > **[0:05](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/what-you-should-know?u=76281980&t=5)** You don't have to be an expert, but you need to be familiar with basic SQL concepts like inner and left joins, aggregate functions like min, max and average, and other basic SQL query syntax, like select, group by, where, and order by.
 >
@@ -142,8 +140,7 @@ created: 2026-05-02
 > **Env Vars:** sql (4)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/coderpad-introduction?u=76281980)
+#### [CoderPad introduction](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/coderpad-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/coderpad-introduction?u=76281980&t=14)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/coderpad-introduction?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:21](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/coderpad-introduction?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/coderpad-introduction?u=76281980&t=30)** The code Challenge has three areas, instructions in the top left, a console for output in the bottom left, and a code editor for your answer on the right.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -184,8 +181,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarizing customer data for leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/summarizing-customer-data-for-leadership?u=76281980)
+#### [Summarizing customer data for leadership](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/summarizing-customer-data-for-leadership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -227,26 +223,25 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/summarizing-customer-data-for-leadership?u=76281980&t=116)** If a customer has two subscriptions, one for basic and one for expert, both user counts will be summed together and averaged for that customer.
 >
-> **[2:05](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/summarizing-customer-data-for-leadership?u=76281980&t=125)** Can you start to envision how we'd calculate this in SQL?
+> **[2:05](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/summarizing-customer-data-for-leadership?u=76281980&t=125)** Can you start to envision how we'd calculate this in [[SQL]]?
 >
 > **[2:09](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/summarizing-customer-data-for-leadership?u=76281980&t=129)** Let's dig in and see if we can answer this question in SQL together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (4), data (3), product (3), [[SQL]] (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining aggregate functions with CTEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980)
+#### [Combining aggregate functions with CTEs](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=0)** - [Instructor] Now that you've collaborated with the leadership team to understand the goal and define the project scope, you're ready to get your hands dirty in the data.
 >
-> **[0:08](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=8)** I'm using DB browser for SQL Lite here, but you can use any IDE that supports SQL.
+> **[0:08](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=8)** I'm using DB browser for [[SQL]] Lite here, but you can use any IDE that supports SQL.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=15)** Let's first check out one of the most used tables at the company, the subscriptions table.
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=162)** And we're going to rename this column, as total users.
 >
-> **[2:48](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=168)** And you don't have to use the word as here but I'm using it for clarity.
+> **[2:48](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=168)** And you don't have to use the [[Microsoft Word|word]] as here but I'm using it for clarity.
 >
 > **[2:53](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=173)** Finally, since we have an aggregate function, sum in the select statement, we have to tell SQL how how to aggregate.
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=258)** It says, misuse of aggregate function sum.
 >
-> **[4:21](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=261)** We're going to need one of my favorite SQL skills to solve the rest of this problem.
+> **[4:21](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=261)** We're going to need one of my favorite SQL skills to solve the [[Representational State Transfer (REST)|rest]] of this problem.
 >
 > **[4:25](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-aggregate-functions-with-ctes?u=76281980&t=265)** Common table expressions or CTEs for short.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[SQL]] (5), data (3), leadership (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cte (9), sql (5), select (2), ide (1), subscriptions (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), we call this (1), refers to (1)
@@ -393,12 +388,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Warnings:** keep in mind (1)
 
-#### Introduction to CTEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-ctes?u=76281980)
+#### [Introduction to CTEs](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-ctes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-ctes?u=76281980&t=0)** - [Speaker] Common table expressions or CTEs for short are arguably one of the most powerful skills you can use in SQL.
+> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-ctes?u=76281980&t=0)** - [Speaker] Common table expressions or CTEs for short are arguably one of the most powerful skills you can use in [[SQL]].
 >
 > **[0:07](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-ctes?u=76281980&t=7)** As I've grown in my career as a senior data analyst, most of the queries I write use at least one CTE so I definitely recommend you learn them as well.
 >
@@ -462,15 +456,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (5), career (2), [[Programming]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5)
 > **Env Vars:** cte (8), sql (5)
 > **Definitions:** means that (4), in other words (1), is an  (1), is a  (1)
 > **Analogies:** such as (2), just like (1), for example (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [speaker] (1)
 
-#### Solution: Pull descriptive statistics with a CTE
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980)
+#### [Solution: Pull descriptive statistics with a CTE](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,7 +471,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=1)** How'd that go for you?
 >
-> **[0:03](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=3)** Now that the business problem has been defined and you have a clear goal in front of you, you're ready to pull descriptive stats for both products' monthly revenues.
+> **[0:03](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=3)** Now that the business problem has been defined and you have a clear goal in front of you, you're ready to pull descriptive stats for both [[Microsoft Products|products]]' monthly revenues.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=11)** Let's first start with finding the monthly revenue by product, since we know we're going to need that.
 >
@@ -496,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=52)** And we're going to call it S for short, using an alias.
 >
-> **[0:56](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=56)** You can use the word as here, but you don't have to.
+> **[0:56](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=56)** You can use the [[Microsoft Word|word]] as here, but you don't have to.
 >
 > **[1:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=60)** And then we're going to join the products table.
 >
@@ -544,7 +537,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=199)** We are forgetting to group by something.
 >
-> **[3:21](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=201)** When using an aggregate function in SQL, you need to tell SQL how to aggregate in the group by clause.
+> **[3:21](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=201)** When using an aggregate function in [[SQL]], you need to tell SQL how to aggregate in the group by clause.
 >
 > **[3:27](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-descriptive-statistics-with-a-cte?u=76281980&t=207)** In this case, we want to group by the truncated date and product name fields.
 >
@@ -632,7 +625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (25), [[Microsoft Products|Products]] (5), [[SQL]] (3), business (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[SQL]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cte (6), sql (3), std (2), tldr (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
@@ -641,14 +634,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Explore variable distributions with CTEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980)
+#### [Solution: Explore variable distributions with CTEs](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=1)** This problem is one of my favorites because it involves some data wrangling to reshape the data in the way that we want it.
+> **[0:01](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=1)** This problem is one of my favorites because it involves some [[Data Wrangling]] to reshape the data in the way that we want it.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=8)** Plus finding the distribution of a variable is a super common live coding interview question for all data roles, so definitely make sure you understand this concept.
 >
@@ -694,7 +686,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=164)** How many users click the link once, twice, and three times respectively?
 >
-> **[2:49](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=169)** This dataset here is a small sample dataset so we can easily count this with our eyes, but imagine a really big data set.
+> **[2:49](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=169)** This dataset here is a small sample dataset so we can easily count this with our eyes, but imagine a really [[Big Data]] set.
 >
 > **[2:56](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-exploring-variable-distributions-with-ctes?u=76281980&t=176)** We need a more efficient way to do this, so let's turn this result set into a CTE so we can store it locally and transform it into the shape we need.
 >
@@ -738,7 +730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1), [[Big Data]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** cte (2)
 > **Analogies:** imagine (1), for example (1)
@@ -747,8 +739,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Payment funnel analysis with CTEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980)
+#### [Solution: Payment funnel analysis with CTEs](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -756,7 +747,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=6)** And I'm going to be honest here, this is definitely a challenge and it might have taken a while, but funnel analyses are a super common business problem that's extremely recognizable by hiring managers.
 >
-> **[0:18](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=18)** This also requires, not just SQL skills, but understanding the business logic behind it.
+> **[0:18](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=18)** This also requires, not just [[SQL]] skills, but understanding the business logic behind it.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=25)** I've already given you the code on lines 3 through 13 that categorize the max and current statuses into business logic using a case statement with many conditions.
 >
@@ -784,7 +775,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=113)** Let's run it.
 >
-> **[1:56](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=116)** Right now it says incorrect output because we have to write the rest of our query.
+> **[1:56](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=116)** Right now it says incorrect output because we have to write the [[Representational State Transfer (REST)|rest]] of our query.
 >
 > **[2:01](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=121)** Here we can see that all of the payment statuses, with the exception of errors, are in order chronologically.
 >
@@ -876,7 +867,7 @@ created: 2026-05-02
 >
 > **[8:05](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=485)** So we're going to go above the select statement on line 12.
 >
-> **[8:09](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=489)** to create a second CTE, we're going to type a comma, and then on a new line for visibility, we're going to add the CTE name, paymentfunnelstages, and then we need the word as, and we're going to put the closing parentheses at the end of the statement.
+> **[8:09](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=489)** to create a second CTE, we're going to type a comma, and then on a new line for visibility, we're going to add the CTE name, paymentfunnelstages, and then we need the [[Microsoft Word|word]] as, and we're going to put the closing parentheses at the end of the statement.
 >
 > **[8:29](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=509)** And finally, we're going to get a count of subscription IDs per payment funnel stage.
 >
@@ -906,7 +897,7 @@ created: 2026-05-02
 >
 > **[10:03](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=603)** Don't worry if you found this problem difficult.
 >
-> **[10:06](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=606)** This is definitely one of the most difficult in this course, not only because it requires a good amount of data wrangling but because it also requires mapping all of the status codes into business logic that stakeholders can understand.
+> **[10:06](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=606)** This is definitely one of the most difficult in this course, not only because it requires a good amount of [[Data Wrangling]] but because it also requires mapping all of the status codes into business logic that stakeholders can understand.
 >
 > **[10:21](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=621)** Sometimes translating data into business logic and vice versa is the hardest part of being a data analyst because it requires a deeper understanding of the data and how it relates to the business goals.
 >
@@ -914,13 +905,13 @@ created: 2026-05-02
 >
 > **[10:42](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=642)** Plus, this is a great project to put in your data analytics portfolio and talk about in interviews.
 >
-> **[10:48](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=648)** I've even had hiring managers ask about this very thing when I was interviewing.
+> **[10:48](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=648)** I've even had hiring managers ask about this very thing when I was [[Interviewing]].
 >
 > **[10:53](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-payment-funnel-analysis-with-multiple-ctes?u=76281980&t=653)** So well done for giving it a try.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), data (11), [[SQL]] (3), next (2), product (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[Data Wrangling]] (1), [[Interviewing]] (1)
 > **Env Vars:** cte (9), sql (3)
 > **Code Identifiers:** max_status_reached (4)
 > **Definitions:** is a  (2), means that (2)
@@ -934,8 +925,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Translating status codes into business acumen
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/translating-status-codes-into-business-acumen?u=76281980)
+#### [Translating status codes into business acumen](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/translating-status-codes-into-business-acumen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -977,7 +967,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/translating-status-codes-into-business-acumen?u=76281980&t=132)** And finally, the fourth category is user completed payment process.
 >
-> **[2:19](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/translating-status-codes-into-business-acumen?u=76281980&t=139)** Assigning meaningful string categories to each of the status codes will allow stakeholders to immediately understand where their client is in the payment process and how to coach them through the rest of the payment process to completion.
+> **[2:19](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/translating-status-codes-into-business-acumen?u=76281980&t=139)** Assigning meaningful string categories to each of the status codes will allow stakeholders to immediately understand where their client is in the payment process and how to coach them through the [[Representational State Transfer (REST)|rest]] of the payment process to completion.
 >
 > **[2:32](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/translating-status-codes-into-business-acumen?u=76281980&t=152)** Empowering stakeholders with the freedom to self-serve and the power of data at their fingertips is amazing.
 >
@@ -989,7 +979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1), database (1), [[Representational State Transfer (REST)|Rest]] (1), power (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** troubleshoot (2)
@@ -997,8 +987,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recoding and bucketing values using CASE
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/recoding-and-bucketing-values-using-case?u=76281980)
+#### [Recoding and bucketing values using CASE](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/recoding-and-bucketing-values-using-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/recoding-and-bucketing-values-using-case?u=76281980&t=94)** Now we can use case to engineer a new variable or feature and we're going to call it user payment stage.
 >
-> **[1:43](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/recoding-and-bucketing-values-using-case?u=76281980&t=103)** We'll do this by mapping all of the status codes to the appropriate business acumen that aligns with stakeholder actions.
+> **[1:43](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/recoding-and-bucketing-values-using-case?u=76281980&t=103)** We'll do this by mapping all of the status codes to the appropriate [[Business Acumen]] that aligns with stakeholder actions.
 >
 > **[1:51](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/recoding-and-bucketing-values-using-case?u=76281980&t=111)** We're going to start with case on the next line.
 >
@@ -1058,7 +1047,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/recoding-and-bucketing-values-using-case?u=76281980&t=216)** All right, let's run this and success, now all of the subscription IDs have been bucketed into different payment categories.
 >
-> **[3:47](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/recoding-and-bucketing-values-using-case?u=76281980&t=227)** We'll definitely need to do some quality assurance or QA to test out our new column and be sure it's categorizing correctly.
+> **[3:47](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/recoding-and-bucketing-values-using-case?u=76281980&t=227)** We'll definitely need to do some [[Quality Assurance]] or QA to test out our new column and be sure it's categorizing correctly.
 >
 > **[3:54](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/recoding-and-bucketing-values-using-case?u=76281980&t=234)** But once that's done, we can import this query into a dashboard and stakeholders will be able to see all of their customers and their current payment status.
 >
@@ -1070,21 +1059,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (2), hit (1), data (1), feature (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (1), [[Quality Assurance]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to CASE
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980)
+#### [Introduction to CASE](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980&t=0)** - [Narrator] CASE is the Swiss Army knife of SQL because it's so versatile and has so many different use cases.
+> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980&t=0)** - [Narrator] CASE is the Swiss Army knife of [[SQL]] because it's so versatile and has so many different use cases.
 >
-> **[0:06](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980&t=6)** Because of this, it can really elevate your SQL game when it comes to data cleaning and data wrangling.
+> **[0:06](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980&t=6)** Because of this, it can really elevate your SQL game when it comes to [[Data Cleaning]] and [[Data Wrangling]].
 >
 > **[0:12](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980&t=12)** A CASE statement consists of a collection of conditions and returns values designated by WHEN and THEN.
 >
@@ -1136,7 +1124,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980&t=189)** A more advanced use case, pun intended, of CASE statements, is to use them to pivot data.
 >
-> **[3:15](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980&t=195)** Have you ever used a pivot table in Excel to aggregate and summarize data?
+> **[3:15](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980&t=195)** Have you ever used a pivot table in [[Microsoft Excel|Excel]] to aggregate and summarize data?
 >
 > **[3:20](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-case?u=76281980&t=200)** Well, CASE can do this as well when combined with aggregate functions, such as SUM, MAX, and AVG, to name a few.
 >
@@ -1166,7 +1154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[SQL]] (3), next (2), game (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Data Cleaning]] (2), [[Data Wrangling]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** case (14), sum (4), sql (3), max (2), else (1)
 > **Analogies:** for example (2), think of it as (1), such as (1)
 > **Non-Speech:** (upbeat music) (1), (digital music) (1)
@@ -1174,8 +1162,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Creating binary columns with CASE
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980)
+#### [Solution: Creating binary columns with CASE](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=53)** First, let's write the starting point for the query.
 >
-> **[0:56](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=56)** We need to first aggregate the number of products and the number of users by customer.
+> **[0:56](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=56)** We need to first aggregate the number of [[Microsoft Products|products]] and the number of users by customer.
 >
 > **[1:02](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=62)** We're going to start out with select.
 >
@@ -1277,31 +1264,30 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=270)** For example, customer 29335 is an upsell opportunity but customer 33222 isn't an upsell opportunity.
 >
-> **[4:42](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=282)** Of course, we always want to do some QA or quality assurance and check that our logic is working as intended before turning over the final result to stakeholders.
+> **[4:42](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=282)** Of course, we always want to do some QA or [[Quality Assurance]] and check that our logic is working as intended before turning over the final result to stakeholders.
 >
 > **[4:51](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=291)** Once that's done, the list is good to go.
 >
-> **[4:54](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=294)** The sales team will easily be able to filter this list in Excel to quickly identify which customers meet their upsell criteria.
+> **[4:54](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=294)** The sales team will easily be able to filter this list in [[Microsoft Excel|Excel]] to quickly identify which customers meet their upsell criteria.
 >
 > **[5:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-creating-binary-columns-with-case?u=76281980&t=300)** Good work, and I'll see you in the next challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (5), next (4), business (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Quality Assurance]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (2), think of it as (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create aggregated columns with CASE
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980)
+#### [Solution: Create aggregated columns with CASE](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=0)** - [Instructor] Tracking front end events is a really cool project that can actually make a huge impact in product analytics and A/B testing.
 >
-> **[0:08](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=8)** Also, being able to pivot data using case is a true superpower in SQL.
+> **[0:08](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=8)** Also, being able to pivot data using case is a true superpower in [[SQL]].
 >
 > **[0:14](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=14)** This use case comes in handy for me all the time.
 >
@@ -1319,7 +1305,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=54)** We can use an inner join here, because we know that all of the events logged in the front end event log table are also in the front and event definitions table.
 >
-> **[1:04](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=64)** So we're going to join these tables on el.eventid equals def.eventid and we're going to want to filter this query for eventtype equals Customer Support.
+> **[1:04](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=64)** So we're going to join these tables on el.eventid equals def.eventid and we're going to want to filter this query for eventtype equals [[Customer Support]].
 >
 > **[1:25](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=85)** We're going to use the where clause.
 >
@@ -1347,7 +1333,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=168)** For example, look at user U837.
 >
-> **[2:52](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=172)** It's similar to making a pivot table in Excel, if you're familiar with that.
+> **[2:52](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=172)** It's similar to making a pivot table in [[Microsoft Excel|Excel]], if you're familiar with that.
 >
 > **[2:58](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pivoting-rows-into-aggregated-columns-with-case?u=76281980&t=178)** Back to our code.
 >
@@ -1453,7 +1439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[SQL]] (3), [[Customer Support]] (3), next (3), business (3)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Customer Support]] (3), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (7), means that (1)
 > **Env Vars:** sql (3), u837 (2), user_id (1)
 > **CLI Commands:** make (4)
@@ -1467,8 +1453,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Combining multiple email lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980)
+#### [Combining multiple email lists](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1500,7 +1485,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980&t=82)** The online form automatically takes the data, creates a new contact in the company's CRM, and tags it with a Website Lead label.
 >
-> **[1:31](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980&t=91)** And the third data source is an Excel file saved locally on one of the computers of somebody on the marketing team.
+> **[1:31](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980&t=91)** And the third data source is an [[Microsoft Excel|Excel]] file saved locally on one of the computers of somebody on the marketing team.
 >
 > **[1:42](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980&t=102)** This might sound kind of silly, but this actually happens quite a lot.
 >
@@ -1522,7 +1507,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980&t=171)** You easily import the Excel file into the database and name the table Prospects.
 >
-> **[2:58](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980&t=178)** Then you work with the data engineering team to set up a connection to the CRM, extract the context data, and load it into the database table named WebsiteLeads.
+> **[2:58](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980&t=178)** Then you work with the [[Data Engineering]] team to set up a connection to the CRM, extract the context data, and load it into the database table named WebsiteLeads.
 >
 > **[3:09](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980&t=189)** It feels like a huge win to get all the data in the same location in the same database.
 >
@@ -1536,7 +1521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (8), [[Microsoft Excel|Excel]] (7), [[Analytics]] (1), etl (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Data Engineering]] (1)
 > **Env Vars:** crm (4), etl (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
@@ -1545,8 +1530,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining multiple data sources with UNION
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980)
+#### [Combining multiple data sources with UNION](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1620,7 +1604,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=185)** On lines two and three, we can tell that that's Anna Cunningham's email, but her name is only logged for one of the entries, so UNION isn't going to remove one of the observations.
 >
-> **[3:17](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=197)** This is something that we would want to notice when doing quality assurance on the output.
+> **[3:17](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=197)** This is something that we would want to notice when doing [[Quality Assurance]] on the output.
 >
 > **[3:22](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-data-sources-with-union?u=76281980&t=202)** This is a prime example of how data analysts need to use business context in their queries.
 >
@@ -1640,7 +1624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), business (2), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1)
 > **Env Vars:** union (13), select (2), join (1), cte (1)
 > **SQL:** select (2), join (1)
 > **Code Identifiers:** poc_name (1), poc_email (1)
@@ -1649,8 +1633,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), kind of like (1)
 > **Definitions:** is a  (1)
 
-#### Introduction to UNION
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-union?u=76281980)
+#### [Introduction to UNION](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-union?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,7 +1679,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-union?u=76281980&t=149)** Now that we understand the use case for UNIONs and the three rules we have to follow, we can talk about the difference between UNION and UNION ALL.
 >
-> **[2:38](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-union?u=76281980&t=158)** This is actually one of the most common SQL interview questions I've heard, so make sure to write this down to prepare for your next technical interview.
+> **[2:38](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-union?u=76281980&t=158)** This is actually one of the most common [[SQL]] interview questions I've heard, so make sure to write this down to prepare for your next technical interview.
 >
 > **[2:48](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-union?u=76281980&t=168)** UNION and UNION ALL work the exact same way and follow the same rules.
 >
@@ -1712,7 +1695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** union (16), join (2), select (1), sql (1), distinct (1)
 > **SQL:** join (2), select (1)
 > **Analogies:** imagine (2)
@@ -1720,8 +1703,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Combine product tables with UNION
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-combining-multiple-product-tables-with-union?u=76281980)
+#### [Solution: Combine product tables with UNION](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-combining-multiple-product-tables-with-union?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,15 +1757,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (2), next (1)
 > **Code Identifiers:** all_subscriptions (1)
 > **Env Vars:** cte (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Unpivoting columns into rows using UNION
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-unpivoting-columns-into-rows-using-union?u=76281980)
+#### [Solution: Unpivoting columns into rows using UNION](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-unpivoting-columns-into-rows-using-union?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1853,11 +1833,11 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-unpivoting-columns-into-rows-using-union?u=76281980&t=217)** So, this is a significant insight.
 >
-> **[3:40](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-unpivoting-columns-into-rows-using-union?u=76281980&t=220)** Let's move along to the next chapter to exercise some other SQL skills.
+> **[3:40](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-unpivoting-columns-into-rows-using-union?u=76281980&t=220)** Let's move along to the next chapter to exercise some other [[SQL]] skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (1), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cte (1), sql (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1870,8 +1850,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dealing with hierarchical data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/dealing-with-hierarchical-data?u=76281980)
+#### [Dealing with hierarchical data](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/dealing-with-hierarchical-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1901,11 +1880,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [instructor] (1)
 
-#### Relating users and admins using a self join
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/relating-users-and-admins-using-a-self-join?u=76281980)
+#### [Relating users and admins using a self join](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/relating-users-and-admins-using-a-self-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2001,19 +1978,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), next (1)
 > **Env Vars:** u837 (2), u172 (2)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to self joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-self-joins?u=76281980)
+#### [Introduction to self joins](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-self-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-self-joins?u=76281980&t=0)** - [Instructor] One of the most difficult concepts to learn in SQL are self joins.
+> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-self-joins?u=76281980&t=0)** - [Instructor] One of the most difficult concepts to learn in [[SQL]] are self joins.
 >
 > **[0:05](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-self-joins?u=76281980&t=5)** The good news about self joins is that they work just like regular joins.
 >
@@ -2065,15 +2040,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), hr (1), business (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Employee-manager data with a self join
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-employee-manager-data-with-a-self-join?u=76281980)
+#### [Solution: Employee-manager data with a self join](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-pulling-employee-manager-data-with-a-self-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2193,14 +2167,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), business (3)
 > **Env Vars:** e429 (2), e738 (1)
 > **Cross-References:** next video (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Comparing rows within the same table
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-comparing-rows-within-the-same-table?u=76281980)
+#### [Solution: Comparing rows within the same table](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-comparing-rows-within-the-same-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2208,7 +2180,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-comparing-rows-within-the-same-table?u=76281980&t=12)** This is a more creative and advanced use case of self joins.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-comparing-rows-within-the-same-table?u=76281980&t=17)** It's not something I use all the time on the job but it's good to know how to do so you exercise your SQL skills and grow in your understanding of how self joins work.
+> **[0:17](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-comparing-rows-within-the-same-table?u=76281980&t=17)** It's not something I use all the time on the job but it's good to know how to do so you exercise your [[SQL]] skills and grow in your understanding of how self joins work.
 >
 > **[0:27](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-comparing-rows-within-the-same-table?u=76281980&t=27)** Since we're comparing monthly revenues for this problem, we first need to create a CTE that calculates the monthly revenues from the subscriptions table.
 >
@@ -2314,7 +2286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (2), next (2), business (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** cte (6), sql (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** monthly_revs (1)
@@ -2328,8 +2300,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pulling the most recent sales data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980)
+#### [Pulling the most recent sales data](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2359,11 +2330,11 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=101)** Sometimes in business, we need to perform calculations across a group of rows that is related in some way to the current row.
 >
-> **[1:49](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=109)** The rows are split in two segments, or windows, based on a certain parameter, and then the function is performed across that group of rows.
+> **[1:49](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=109)** The rows are split in two segments, or [[Windows]], based on a certain parameter, and then the function is performed across that group of rows.
 >
 > **[1:59](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=119)** You might already know that I'm heavily alluding to window functions.
 >
-> **[2:03](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=123)** Window functions are some of the most powerful but confusing SQL topics for people to learn.
+> **[2:03](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=123)** Window functions are some of the most powerful but confusing [[SQL]] topics for people to learn.
 >
 > **[2:09](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980&t=129)** Let's hop into the next video to see a quick preview of window functions where I'll solve the example we just talked about.
 >
@@ -2371,21 +2342,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), power (1), [[Windows]] (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[SQL]] (1)
 > **Env Vars:** cte (1), sql (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rank(), row_number(), and dense_rank()
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/rank-row-number-and-dense-rank?u=76281980)
+#### [Rank(), row_number(), and dense_rank()](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/rank-row-number-and-dense-rank?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/rank-row-number-and-dense-rank?u=76281980&t=0)** - [Instructor] In SQL, we can use window functions designed to rank values within a certain group or a window of rows.
+> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/rank-row-number-and-dense-rank?u=76281980&t=0)** - [Instructor] In [[SQL]], we can use window functions designed to rank values within a certain group or a window of rows.
 >
-> **[0:08](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/rank-row-number-and-dense-rank?u=76281980&t=8)** We can tell SQL how we want to split up the rows into windows by using partition by.
+> **[0:08](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/rank-row-number-and-dense-rank?u=76281980&t=8)** We can tell SQL how we want to split up the rows into [[Windows]] by using partition by.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/rank-row-number-and-dense-rank?u=76281980&t=13)** Then, if applicable, we can tell SQL how to order the rows within the window by using order by.
 >
@@ -2439,13 +2409,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), next (5), [[Windows]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Windows]] (1)
 > **Env Vars:** sql (8)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pulling the most recent sale with row_number()
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sale-with-row-number?u=76281980)
+#### [Pulling the most recent sale with row_number()](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sale-with-row-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2461,7 +2430,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sale-with-row-number?u=76281980&t=34)** For example, sales employee ID E738 has made six sales in lines one through six.
 >
-> **[0:42](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sale-with-row-number?u=76281980&t=42)** Now we're going to use row number to pull the most recent sale per rep backdoor SQL query.
+> **[0:42](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sale-with-row-number?u=76281980&t=42)** Now we're going to use row number to pull the most recent sale per rep backdoor [[SQL]] query.
 >
 > **[0:50](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sale-with-row-number?u=76281980&t=50)** In the select statement, we're going to add row number over partition by,
 >
@@ -2523,15 +2492,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[SQL]] (1), business (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** cte (4), e738 (1), sql (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-window-functions?u=76281980)
+#### [Introduction to window functions](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2545,7 +2513,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-window-functions?u=76281980&t=22)** They work similarly to regular aggregate functions, but instead of performing the aggregate across all rows, it's calculated multiple times, once for each partition of rows.
 >
-> **[0:33](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-window-functions?u=76281980&t=33)** This is super powerful because typically in SQL, calculations are performed on the row level or in the scope of all rows, but with window functions, SQL is able to access a bunch of related rows behind the scenes and perform a calculation for them.
+> **[0:33](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-window-functions?u=76281980&t=33)** This is super powerful because typically in [[SQL]], calculations are performed on the row level or in the scope of all rows, but with window functions, SQL is able to access a bunch of related rows behind the scenes and perform a calculation for them.
 >
 > **[0:49](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/introduction-to-window-functions?u=76281980&t=49)** It does this multiple times until it completes the calculation for all of the segments.
 >
@@ -2603,7 +2571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (2), next (2), application (1), business (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** sql (3)
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (1), just like (1)
@@ -2612,12 +2580,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Get running totals with window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980)
+#### [Solution: Get running totals with window functions](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=0)** - [Instructor] Calculating running totals in SQL is another really common interview question, so this is a really good concept to know.
+> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=0)** - [Instructor] Calculating running totals in [[SQL]] is another really common interview question, so this is a really good concept to know.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=8)** For this problem, we need to calculate the running total of the Sale Amount column over time for each sales rep.
 >
@@ -2731,7 +2698,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=308)** Let's try running it and see what happens.
 >
-> **[5:13](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=313)** I'm going to scroll over so we can see the rest of our output.
+> **[5:13](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=313)** I'm going to scroll over so we can see the [[Representational State Transfer (REST)|rest]] of our output.
 >
 > **[5:18](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=318)** It looks like the Percent Quota column is all zeros, but that doesn't seem quite right.
 >
@@ -2751,7 +2718,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=367)** Sometimes things don't turn out the way you expect in SQL.
 >
-> **[6:11](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=371)** My best advice is to Google it.
+> **[6:11](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=371)** My best advice is to [[Google]] it.
 >
 > **[6:13](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-tracking-running-totals-with-window-functions?u=76281980&t=373)** Great job solving this running total problem.
 >
@@ -2759,15 +2726,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Env Vars:** sql (3), e172 (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Timestamp differences with LEAD()
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-consecutive-timestamp-differences-with-lead?u=76281980)
+#### [Solution: Timestamp differences with LEAD()](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-consecutive-timestamp-differences-with-lead?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2777,7 +2743,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-consecutive-timestamp-differences-with-lead?u=76281980&t=7)** Let's start with pulling all of the columns in the payment status log table, and filter for subscription ID 38844.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-consecutive-timestamp-differences-with-lead?u=76281980&t=16)** Typically, you don't want to select star too often in SQL because it's better for optimization to only pull the specific columns you need.
+> **[0:16](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-consecutive-timestamp-differences-with-lead?u=76281980&t=16)** Typically, you don't want to select star too often in [[SQL]] because it's better for optimization to only pull the specific columns you need.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-consecutive-timestamp-differences-with-lead?u=76281980&t=23)** But since we're investigating statuses for a client, we're going to want to pull everything so we have more data to look into.
 >
@@ -2839,7 +2805,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-consecutive-timestamp-differences-with-lead?u=76281980&t=209)** And then we're going to increment by one because we want the next timestamp in order.
 >
-> **[3:35](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-consecutive-timestamp-differences-with-lead?u=76281980&t=215)** And I'm going to add the rest to a new line just so we can see everything.
+> **[3:35](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-consecutive-timestamp-differences-with-lead?u=76281980&t=215)** And I'm going to add the [[Representational State Transfer (REST)|rest]] to a new line just so we can see everything.
 >
 > **[3:40](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/solution-consecutive-timestamp-differences-with-lead?u=76281980&t=220)** We're going to follow with over and partition by.
 >
@@ -2899,7 +2865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (17), data (4), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** lead (6), sql (2), where (1), select (1)
 > **Ports:** :33 (3), :22 (2), :13 (1)
 > **SQL:** where (1), select (1)
@@ -2913,18 +2879,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980)
+#### [Continuing on with SQL](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=0)** - Congrats on getting one step further in your SQL journey.
+> **[0:00](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=0)** - Congrats on getting one step further in your [[SQL]] journey.
 >
 > **[0:04](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=4)** I'm so excited for you to take what you've learned here and use it to address more business problems in your own work.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=10)** If you don't have an analyst job yet, I'd encourage you to use these problems in your portfolio and talk about them in interviews.
 >
-> **[0:18](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=18)** You can also check out my other LinkedIn Learning Course, [[Preparing To Get A Job In Data Analytics]], as well as other courses in the library to add to your skills.
+> **[0:18](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=18)** You can also check out my other [[LinkedIn]] Learning Course, [[Preparing To Get A Job In Data Analytics]], as well as other courses in the library to add to your skills.
 >
 > **[0:28](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980&t=28)** Feel free to follow me on LinkedIn, Instagram and TikTok for more data analytics content.
 >
@@ -2932,7 +2897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), data (2), [[Analytics]] (2), [[SQL]] (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - congrats (1)
 

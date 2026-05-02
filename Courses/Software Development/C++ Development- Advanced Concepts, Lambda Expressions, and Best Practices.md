@@ -104,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/about-this-course-18745415?u=76281980)
+#### [About this course](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/about-this-course-18745415?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,12 +130,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [bill] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-the-exercise-files-18746379?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-the-exercise-files-18746379?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-the-exercise-files-18746379?u=76281980&t=24)** Each of the chapters contain C++ files for following along with the exercises in that chapter.
 >
-> **[0:31](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-the-exercise-files-18746379?u=76281980&t=31)** The exercise files are compatible with any modern C++ development environment, including Xcode, Microsoft Visual Studio, GCC, Clang, or any modern compiler or integrated development environment that supports the C++20 standard.
+> **[0:31](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-the-exercise-files-18746379?u=76281980&t=31)** The exercise files are compatible with any modern C++ development environment, including [[Xcode]], [[Microsoft]] Visual Studio, GCC, Clang, or any modern compiler or integrated development environment that supports the C++20 standard.
 >
 > **[0:50](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-the-exercise-files-18746379?u=76281980&t=50)** This is working.cpp from chapter one of the exercise files.
 >
@@ -190,8 +187,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Operator overloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/operator-overloads-18749200?u=76281980)
+#### [Operator overloads](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/operator-overloads-18749200?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,15 +357,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (1), data (1)
 > **Cross-References:** in the next (2), later in (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** algol (1), nan (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nonmember operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/nonmember-operators-18746375?u=76281980)
+#### [Nonmember operators](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/nonmember-operators-18746375?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,7 +525,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (3), is a  (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -540,8 +533,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conversion operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/conversion-operators-18745400?u=76281980)
+#### [Conversion operators](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/conversion-operators-18745400?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,8 +636,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Increment and decrement operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/increment-and-decrement-operators-18751136?u=76281980)
+#### [Increment and decrement operators](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/increment-and-decrement-operators-18751136?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -737,15 +728,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** getvalue (2), setvalue (1)
 > **File Paths:** incr-decr.cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Functors
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/functors-18747300?u=76281980)
+#### [Functors](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/functors-18747300?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,7 +806,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), product (1)
 > **Env Vars:** cpp (1), ide (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
@@ -828,8 +816,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is move semantics?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/what-is-move-semantics-18748264?u=76281980)
+#### [What is move semantics?](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/what-is-move-semantics-18748264?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,13 +864,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1), feature (1)
 > **Definitions:** is a  (2), is called (2), means that (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding lvalues and rvalues
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/understanding-lvalues-and-rvalues-18748266?u=76281980)
+#### [Understanding lvalues and rvalues](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/understanding-lvalues-and-rvalues-18748266?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -925,7 +910,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/understanding-lvalues-and-rvalues-18748266?u=76281980&t=94)** Any movable object may be cast to a prvalue with the standard move function.
 >
-> **[1:40](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/understanding-lvalues-and-rvalues-18748266?u=76281980&t=100)** In the rest of this chapter, we'll explore some examples of move semantics in action.
+> **[1:40](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/understanding-lvalues-and-rvalues-18748266?u=76281980&t=100)** In the [[Representational State Transfer (REST)|rest]] of this chapter, we'll explore some examples of move semantics in action.
 
 > [!info]- Semantic Content
 >
@@ -935,8 +920,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using std::move
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-std-move-18745409?u=76281980)
+#### [Using std::move](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-std-move-18745409?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,7 +1040,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-std-move-18745409?u=76281980&t=268)** The standard move and standard swap functions are fundamental tools for use with move semantics.
 >
-> **[4:34](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-std-move-18745409?u=76281980&t=274)** We'll be using them a lot as we work with move semantics in the rest of this course, and of course, in your own code.
+> **[4:34](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/using-std-move-18745409?u=76281980&t=274)** We'll be using them a lot as we work with move semantics in the [[Representational State Transfer (REST)|rest]] of this course, and of course, in your own code.
 
 > [!info]- Semantic Content
 >
@@ -1066,8 +1050,7 @@ created: 2026-05-02
 > **Env Vars:** stl (1)
 > **Speakers:** - [instructor] (1)
 
-#### The move constructor
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-move-constructor-18749196?u=76281980)
+#### [The move constructor](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-move-constructor-18749196?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1249,7 +1232,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (3), is an  (3), is called (2)
 > **CLI Commands:** make (5)
 > **Cross-References:** as we saw (1)
@@ -1258,8 +1240,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### The move assignment operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-move-assignment-operator-18746380?u=76281980)
+#### [The move assignment operator](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-move-assignment-operator-18746380?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1333,7 +1314,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is called (2), means that (1), is a  (1), is an  (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -1341,9 +1321,9 @@ created: 2026-05-02
 > **File Paths:** 02.cpp (1)
 > **Env Vars:** cpp (1)
 > **Cross-References:** in the last (1)
+> **Best Practices:** you should always (1)
 
-#### The copy-and-swap idiom
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-copy-and-swap-idiom-18751130?u=76281980)
+#### [The copy-and-swap idiom](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-copy-and-swap-idiom-18751130?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1405,8 +1385,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rule of three and five
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/rule-of-three-and-five-18745413?u=76281980)
+#### [Rule of three and five](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/rule-of-three-and-five-18745413?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,7 +1415,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Best Practices:** best practice (1)
 > **Prerequisites:** you'll need (1)
@@ -1447,8 +1425,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lambda syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/lambda-syntax-18745407?u=76281980)
+#### [Lambda syntax](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/lambda-syntax-18745407?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,11 +1511,11 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/lambda-syntax-18745407?u=76281980&t=293)** Lambda expressions are exceptionally powerful and flexible.
 >
-> **[4:56](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/lambda-syntax-18745407?u=76281980&t=296)** They're commonly used as predicates and parameters for stl algorithms and other simple functions.
+> **[4:56](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/lambda-syntax-18745407?u=76281980&t=296)** They're commonly used as predicates and parameters for stl [[Algorithms]] and other simple functions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** is an  (1), is called (1), stands for (1), means that (1)
 > **File Paths:** lambda-hello.cpp (1)
 > **Documentation:** specification (1)
@@ -1546,8 +1523,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Closures
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/closures-18747302?u=76281980)
+#### [Closures](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/closures-18747302?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1565,7 +1541,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/closures-18747302?u=76281980&t=58)** You can list multiple variables.
 >
-> **[1:00](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/closures-18747302?u=76281980&t=60)** We could create a second variable, and we'll call it folks and have it just be the word earthlings.
+> **[1:00](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/closures-18747302?u=76281980&t=60)** We could create a second variable, and we'll call it folks and have it just be the [[Microsoft Word|word]] earthlings.
 >
 > **[1:08](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/closures-18747302?u=76281980&t=68)** And this can be just the word hello.
 >
@@ -1606,8 +1582,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Algorithm predicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/algorithm-predicates-18747306?u=76281980)
+#### [Algorithm predicates](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/algorithm-predicates-18747306?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1617,7 +1592,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/algorithm-predicates-18747306?u=76281980&t=9)** This is lambda-predicate.cpp from Chapter three of the exercise files.
 >
-> **[0:14](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/algorithm-predicates-18747306?u=76281980&t=14)** Predicates and operators are often used with algorithms from the algorithm library.
+> **[0:14](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/algorithm-predicates-18747306?u=76281980&t=14)** Predicates and operators are often used with [[Algorithms]] from the algorithm library.
 >
 > **[0:19](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/algorithm-predicates-18747306?u=76281980&t=19)** So we're including the algorithm header here.
 >
@@ -1635,7 +1610,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/algorithm-predicates-18747306?u=76281980&t=66)** And we display the count.
 >
-> **[1:07](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/algorithm-predicates-18747306?u=76281980&t=67)** I'm going to go ahead and comment out the rest of this here down to the closing brace.
+> **[1:07](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/algorithm-predicates-18747306?u=76281980&t=67)** I'm going to go ahead and comment out the [[Representational State Transfer (REST)|rest]] of this here down to the closing brace.
 >
 > **[1:14](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/algorithm-predicates-18747306?u=76281980&t=74)** And we'll go ahead and run this part, build and run, and you see it says count is 5.
 >
@@ -1709,7 +1684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), [[Representational State Transfer (REST)|Rest]] (2), next (2)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** char_upper (4), count_if (2), back_inserter (2), title_case (2), copy_if (1)
 > **Definitions:** is a  (2), is an  (2)
 > **File Paths:** lambda-predicate.cpp (1)
@@ -1717,8 +1692,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: A Lambda jump table
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/challenge-a-lambda-jump-table-18749195?u=76281980)
+#### [Challenge: A Lambda jump table](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/challenge-a-lambda-jump-table-18749195?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1740,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), generic (1), functional (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **Definitions:** is a  (2)
 > **File Paths:** jump.cpp (1)
@@ -1780,8 +1753,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why constraints?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980)
+#### [Why constraints?](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1821,11 +1793,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980&t=112)** And what's interesting is if I put square brackets around this, of course the results on your machine will be different.
 >
-> **[1:58](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980&t=118)** The results on this machine will be different if I load different things before I load Xcode.
+> **[1:58](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980&t=118)** The results on this machine will be different if I load different things before I load [[Xcode]].
 >
 > **[2:04](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980&t=124)** And if I go ahead and run it now, you'll notice that it gives me empty square brackets 'cause it happens to point someplace with a null value.
 >
-> **[2:11](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980&t=131)** But if I take out a word from my string, it moves that pointer again, and it gives us another result.
+> **[2:11](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980&t=131)** But if I take out a [[Microsoft Word|word]] from my string, it moves that pointer again, and it gives us another result.
 >
 > **[2:18](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980&t=138)** So this is a recipe for disaster.
 >
@@ -1913,7 +1885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), [[Xcode]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (9), exercise files (1)
 > **Versions:** 7.9 (4), 49.9 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1921,8 +1893,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Constraint syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/constraint-syntax-18751132?u=76281980)
+#### [Constraint syntax](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/constraint-syntax-18751132?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1972,13 +1943,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** template (7), exercise files (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Defining concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/defining-concepts-20642849?u=76281980)
+#### [Defining concepts](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/defining-concepts-20642849?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2004,7 +1973,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/defining-concepts-20642849?u=76281980&t=106)** We can also define our own concepts that do not rely on the concept library.
 >
-> **[1:53](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/defining-concepts-20642849?u=76281980&t=113)** So instead of this, I can say numeric equals and use the requires keyword, and the rest of this is kind of like a function or a class.
+> **[1:53](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/defining-concepts-20642849?u=76281980&t=113)** So instead of this, I can say numeric equals and use the requires keyword, and the [[Representational State Transfer (REST)|rest]] of this is kind of like a function or a class.
 >
 > **[2:05](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/defining-concepts-20642849?u=76281980&t=125)** I do need a semicolon here, but now I can put in expressions that must be satisfied for the concept to be satisfied.
 >
@@ -2045,8 +2014,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The optional class
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-optional-class-18747308?u=76281980)
+#### [The optional class](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-optional-class-18747308?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2097,8 +2065,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The any class
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-any-class-18744504?u=76281980)
+#### [The any class](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-any-class-18744504?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2140,13 +2107,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (1), application (1)
 > **File Paths:** any.cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - the (1)
 
-#### The variant class
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-variant-class-18747305?u=76281980)
+#### [The variant class](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-variant-class-18747305?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2244,7 +2209,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** cat (8), make (1)
 > **Exercise Files:** template (4), exercise files (1)
 > **Definitions:** is a  (4), is called (1)
@@ -2256,8 +2220,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sleeping
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/sleeping-18750200?u=76281980)
+#### [Sleeping](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/sleeping-18750200?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2316,8 +2279,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Threads
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/threads-18751133?u=76281980)
+#### [Threads](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/threads-18751133?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2415,8 +2377,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### The async function
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980)
+#### [The async function](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2466,11 +2427,11 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=192)** This 1.6, 1.7 seconds result that I'm getting is quite unusual for a machine in this price class.
 >
-> **[3:22](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=202)** For example, this is a Linux box running in my lab, running Linux on a Quad Core Intel I7, and you notice that the results are quite a bit higher.
+> **[3:22](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=202)** For example, this is a [[Linux]] box running in my lab, running Linux on a Quad Core Intel I7, and you notice that the results are quite a bit higher.
 >
 > **[3:34](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=214)** Instead of 1.6, 1.7 seconds, I've got 18 and 19 seconds.
 >
-> **[3:40](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=220)** And in fact, on a Windows box here in my lab, it was as high as 20 seconds.
+> **[3:40](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=220)** And in fact, on a [[Windows]] box here in my lab, it was as high as 20 seconds.
 >
 > **[3:46](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=226)** So, your results will vary.
 >
@@ -2512,7 +2473,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=364)** And again, we move the promise object rather than copying it, and then we call detach on the thread.
 >
-> **[6:09](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=369)** And the rest of this is exactly the same, but all of this is what's wrapped up in a standard async call.
+> **[6:09](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=369)** And the [[Representational State Transfer (REST)|rest]] of this is exactly the same, but all of this is what's wrapped up in a standard async call.
 >
 > **[6:15](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-async-function-18746385?u=76281980&t=375)** So when I build and run this, you'll notice that we get exactly the same results and very similar times.
 >
@@ -2522,7 +2483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), parallel (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 1.6 (2), 1.7 (2)
 > **Exercise Files:** exercise files (2), template (2)
 > **Definitions:** is an  (2), is a  (2)
@@ -2531,8 +2492,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mutex and lock
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/mutex-and-lock-18744507?u=76281980)
+#### [Mutex and lock](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/mutex-and-lock-18744507?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2656,7 +2616,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Code Identifiers:** lock_guard (6), animal_mutex (1), delete_friend (1), is_friend (1), find_friend (1)
 > **Env Vars:** raii (3)
 > **Definitions:** is a  (1), refers to (1), is called (1)
@@ -2664,9 +2623,9 @@ created: 2026-05-02
 > **File Paths:** mutex.cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** initialization (1)
+> **Speakers:** - [instructor] (1)
 
-#### Atomic variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/atomic-variables-18751129?u=76281980)
+#### [Atomic variables](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/atomic-variables-18751129?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2730,7 +2689,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/atomic-variables-18751129?u=76281980&t=245)** Most modern architectures provide atomic CPU instructions for performing atomic operations.
 >
-> **[4:12](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/atomic-variables-18751129?u=76281980&t=252)** Standard atomic should use hardware support where available.
+> **[4:12](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/atomic-variables-18751129?u=76281980&t=252)** Standard atomic should use [[Hardware]] support where available.
 >
 > **[4:15](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/atomic-variables-18751129?u=76281980&t=255)** Some atomic types may not be supported on some hardware.
 >
@@ -2749,8 +2708,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 
-#### The producer-consumer idiom
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-producer-consumer-idiom-18749197?u=76281980)
+#### [The producer-consumer idiom](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-producer-consumer-idiom-18749197?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2808,7 +2766,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **Code Identifiers:** atomic_flag (2)
 > **Definitions:** is a  (2)
 > **File Paths:** producer-consumer.cpp (1)
@@ -2821,8 +2778,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Initialization
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/initialization-18748260?u=76281980)
+#### [Initialization](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/initialization-18748260?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3114,7 +3070,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5)
 > **Prerequisites:** initialization (13)
 > **Definitions:** is a  (7), is called (2), is an  (2), we call this (1)
 > **Env Vars:** cvp (2), stl (1)
@@ -3122,9 +3077,9 @@ created: 2026-05-02
 > **URLs:** [reference.com](https://reference.com) (1)
 > **Versions:** 5.1 (1)
 > **Cross-References:** as we saw (1)
+> **UI Navigation:** go to (1)
 
-#### Structured bindings
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/structured-bindings-18747301?u=76281980)
+#### [Structured bindings](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/structured-bindings-18747301?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3168,7 +3123,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/structured-bindings-18747301?u=76281980&t=236)** In fact, you can do the same thing with a C string.
 >
-> **[3:58](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/structured-bindings-18747301?u=76281980&t=238)** Here I have a C string with the word four, and there's four letters in the word four, but there's five elements in the array, right?
+> **[3:58](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/structured-bindings-18747301?u=76281980&t=238)** Here I have a C string with the [[Microsoft Word|word]] four, and there's four letters in the word four, but there's five elements in the array, right?
 >
 > **[4:06](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/structured-bindings-18747301?u=76281980&t=246)** Because the fifth element is the null pointer, and here I use my structured binding, and I get my values right there.
 >
@@ -3178,7 +3133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Versions:** 73.2 (1), 112.5 (1), 500.9 (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1), template (1)
@@ -3187,8 +3142,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Definitions:** is called (1)
 
-#### Random number engines
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/random-number-engines-18746378?u=76281980)
+#### [Random number engines](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/random-number-engines-18746378?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3230,7 +3184,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/random-number-engines-18746378?u=76281980&t=104)** And if I run this several times, you'll see that their properties are more or less very similar.
 >
-> **[1:52](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/random-number-engines-18746378?u=76281980&t=112)** And in fact, default_random_engine is probably the random_device, which is the hardware random device, at least on this machine.
+> **[1:52](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/random-number-engines-18746378?u=76281980&t=112)** And in fact, default_random_engine is probably the random_device, which is the [[Hardware]] random device, at least on this machine.
 >
 > **[2:00](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/random-number-engines-18746378?u=76281980&t=120)** You can manipulate the histogram by changing these constants.
 >
@@ -3254,7 +3208,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/random-number-engines-18746378?u=76281980&t=175)** I'm going to leave it at 1,000, which I just decided, perhaps arbitrarily, that this was a pretty good representation of the histograms.
 >
-> **[3:05](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/random-number-engines-18746378?u=76281980&t=185)** We can uncomment the rest of these, and you can just briefly see what they look like.
+> **[3:05](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/random-number-engines-18746378?u=76281980&t=185)** We can uncomment the [[Representational State Transfer (REST)|rest]] of these, and you can just briefly see what they look like.
 >
 > **[3:09](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/random-number-engines-18746378?u=76281980&t=189)** I suggest that you run this code on your own machine to see what all of these look like.
 >
@@ -3270,7 +3224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** default_random_engine (4), random_device (3)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (2)
@@ -3279,8 +3233,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The chrono library
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-chrono-library-18745414?u=76281980)
+#### [The chrono library](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-chrono-library-18745414?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3362,7 +3315,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-chrono-library-18745414?u=76281980&t=231)** As part of the standard, your format library should handle Unicode.
 >
-> **[3:55](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-chrono-library-18745414?u=76281980&t=235)** And yet, on some platforms, in particular, Microsoft Windows, you may need to set a code page or something to get that to work.
+> **[3:55](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-chrono-library-18745414?u=76281980&t=235)** And yet, on some platforms, in particular, [[Microsoft]] [[Windows]], you may need to set a code page or something to get that to work.
 >
 > **[4:03](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-chrono-library-18745414?u=76281980&t=243)** One more note here.
 >
@@ -3401,14 +3354,13 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Exercise Files:** exercise files (1)
 
-#### The filesystem library
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980)
+#### [The filesystem library](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=0)** - [Lecturer] The purpose of the file system library is to normalize file system operations across platforms.
 >
-> **[0:06](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=6)** Unlike the old C-style file system functions, the standard file system library seeks to bridge irregularities between POSIX, Unix, Windows, and other file systems.
+> **[0:06](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=6)** Unlike the old C-style file system functions, the standard file system library seeks to bridge irregularities between POSIX, Unix, [[Windows]], and other file systems.
 >
 > **[0:19](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=19)** This is file system dot CBP from Chapter seven of the exercise files.
 >
@@ -3432,7 +3384,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=100)** Down here in main, we create a path object based on this fp string, which is a path to a file that does not exist, and then we print that path using our format or specialization, and then we check to see if our home directory exists, which is this directory here, and we print it does not exist and exit if it doesn't.
 >
-> **[2:04](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=124)** And so, I'm going to go ahead, and I'm going to comment out the rest of this, and we'll go ahead and run this much of it, build and run.
+> **[2:04](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=124)** And so, I'm going to go ahead, and I'm going to comment out the [[Representational State Transfer (REST)|rest]] of this, and we'll go ahead and run this much of it, build and run.
 >
 > **[2:15](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=135)** And you see, there's our fp path, and we're calling the path object p, and we print it here, and we check to see if the home directory exists, and it does exist, so we don't get that error message.
 >
@@ -3452,7 +3404,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=206)** Yours will be different.
 >
-> **[3:27](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=207)** This is the path of the executable under the Xcode IDE that I'm working with here on this Mac.
+> **[3:27](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=207)** This is the path of the executable under the [[Xcode]] IDE that I'm working with here on this Mac.
 >
 > **[3:36](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-filesystem-library-18750197?u=76281980&t=216)** And on any system, this executable path is going to be different.
 >
@@ -3578,14 +3530,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The format library
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980)
+#### [The format library](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=0)** - [Instructor] C++ 20 introduces the new format library which returns a formatted representation of its arguments as a string.
 >
-> **[0:09](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=9)** The new formatter uses a Python style formatting string with concise syntax, type safety and excellent performance.
+> **[0:09](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=9)** The new formatter uses a [[Python (Programming Language)|Python]] style formatting string with concise syntax, type safety and excellent performance.
 >
 > **[0:18](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=18)** This is format .CPP from chapter eight.
 >
@@ -3653,7 +3604,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=209)** And this is far more lightweight than this.
 >
-> **[3:33](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=213)** And so for the rest of these we're just using the print function which works exactly the same.
+> **[3:33](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=213)** And so for the [[Representational State Transfer (REST)|rest]] of these we're just using the print function which works exactly the same.
 >
 > **[3:38](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=218)** It uses the same formatter, it uses the same format strings.
 >
@@ -3695,7 +3646,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=304)** Of course, this depends on the environment that we're running in.
 >
-> **[5:08](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=308)** We can't force your environment to be Unicode safe particularly on Windows.
+> **[5:08](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=308)** We can't force your environment to be Unicode safe particularly on [[Windows]].
 >
 > **[5:12](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980&t=312)** You have to select the correct code page in order for it to be Unicode safe.
 >
@@ -3765,7 +3716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **Env Vars:** int (5), cpp (1), stl (1)
 > **Exercise Files:** template (4), exercise files (1)
 > **Definitions:** is a  (4)
@@ -3774,8 +3725,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 
-#### The spaceship operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-spaceship-operator-18751135?u=76281980)
+#### [The spaceship operator](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-spaceship-operator-18751135?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3851,7 +3801,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), power (1)
 > **Code Identifiers:** static_assert (2), static_asserts (1)
 > **File Paths:** spaceship.cpp (1), spaceship-frac.cpp (1)
 > **Exercise Files:** exercise files (2)
@@ -3859,8 +3808,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integer comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/integer-comparisons-18750199?u=76281980)
+#### [Integer comparisons](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/integer-comparisons-18750199?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3916,8 +3864,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### The span class
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-span-class-18744506?u=76281980)
+#### [The span class](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-span-class-18744506?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3957,7 +3904,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Env Vars:** stl (2)
 > **File Paths:** span.cpp (1)
 > **Exercise Files:** exercise files (1)
@@ -3969,8 +3915,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final project: Numword
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/final-project-numword-18750196?u=76281980)
+#### [Final project: Numword](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/final-project-numword-18750196?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3986,7 +3931,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/final-project-numword-18750196?u=76281980&t=28)** Numwords is a class that spells out a number in words.
 >
-> **[0:32](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/final-project-numword-18750196?u=76281980&t=32)** It can be useful for banking and accounting applications and its output looks like this.
+> **[0:32](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/final-project-numword-18750196?u=76281980&t=32)** It can be useful for [[Banking]] and accounting applications and its output looks like this.
 >
 > **[0:39](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/final-project-numword-18750196?u=76281980&t=39)** It's usage should work like this.
 >
@@ -4000,15 +3945,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), [[Programming]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **File Paths:** chap09/numword/numword-test.cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### Thank you
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/thank-you-18745404?u=76281980)
+#### [Thank you](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/thank-you-18745404?u=76281980)
 
 > [!transcript]- Transcript
 >

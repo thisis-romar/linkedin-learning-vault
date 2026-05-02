@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The big C in CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-big-c-in-css?u=76281980)
+#### [The big C in CSS](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-big-c-in-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-big-c-in-css?u=76281980&t=0)** - [Jen] CSS, Cascading Style Sheets.
+> **[0:00](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-big-c-in-css?u=76281980&t=0)** - [Jen] CSS, [[Cascading Style Sheets (CSS)|Cascading Style Sheets]].
 >
 > **[0:05](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-big-c-in-css?u=76281980&t=5)** The cascade is so important to their functioning, it's right in the name.
 >
@@ -125,12 +124,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), next (1)
+> **Frameworks & Libraries:** [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** css (8)
 > **Speakers:** - [jen] (1)
 
-#### CSS terminology refresher
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/css-terminology-refresher?u=76281980)
+#### [CSS terminology refresher](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/css-terminology-refresher?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/css-terminology-refresher?u=76281980&t=35)** Specifically, this is a descendent selector.
 >
-> **[0:39](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/css-terminology-refresher?u=76281980&t=39)** This is the pattern in our HTML to which we'll apply the styles as specified.
+> **[0:39](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/css-terminology-refresher?u=76281980&t=39)** This is the pattern in our [[HTML]] to which we'll apply the styles as specified.
 >
 > **[0:45](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/css-terminology-refresher?u=76281980&t=45)** In this case, the pattern is for all paragraph elements descended from an element with a class of container.
 >
@@ -186,7 +184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (4), html (1)
 > **Definitions:** is a  (3), is called (1)
 > **Prerequisites:** before we start (1), required to (1)
@@ -198,8 +196,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is inheritance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980)
+#### [What is inheritance?](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -221,11 +218,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980&t=51)** You can scope your CSS to be global or local.
 >
-> **[0:54](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980&t=54)** Inherited properties placed at the top of the document object model or DOM tend to be inherited as they go through the document.
+> **[0:54](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980&t=54)** Inherited properties placed at the top of the [[Document Object Model (DOM)|document object model]] or DOM tend to be inherited as they go through the document.
 >
 > **[1:03](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980&t=63)** For example, here is a declaration for the body element and we've declared that we have a fond family of Arial a line height of 1.5 and a color of a nice dark gray.
 >
-> **[1:16](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980&t=76)** This particular set of styles will be inherited by all successive HTML elements which will all appear this exact same way but our scoping can also be local in nature.
+> **[1:16](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980&t=76)** This particular set of styles will be inherited by all successive [[HTML]] elements which will all appear this exact same way but our scoping can also be local in nature.
 >
 > **[1:29](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980&t=89)** For example, we may wish to override these settings for headings on our page.
 >
@@ -273,7 +270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), dom (2), [[Document Object Model (DOM)|Document object model]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Document Object Model (DOM)|Document object model]] (1), [[HTML]] (1)
 > **Env Vars:** css (4), dom (2), mdn (1), html (1)
 > **Analogies:** for example (3), imagine (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -282,18 +279,17 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examples of inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980)
+#### [Examples of inheritance](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=0)** - [Instructor] Now that you know what inheritance is, let's look at some simple examples.
 >
-> **[0:04](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=4)** So I am here inside of CodePen.
+> **[0:04](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=4)** So I am here inside of [[CodePen]].
 >
 > **[0:06](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=6)** And in your exercise files, you'll find a link to the starting Pen.
 >
-> **[0:11](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=11)** And you will find that I have a very simple markup going on here inside of my HTML.
+> **[0:11](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=11)** And you will find that I have a very simple markup going on here inside of my [[HTML]].
 >
 > **[0:17](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=17)** I have a div element that goes all the way around two paragraphs.
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=96)** And obviously, the color of our text is going to change.
 >
-> **[1:40](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=100)** These are all various types of fonts and typography properties that we're working with here, and they all inherit, which is why we see the styling that we do.
+> **[1:40](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=100)** These are all various types of fonts and [[Typography]] properties that we're working with here, and they all inherit, which is why we see the styling that we do.
 >
 > **[1:50](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=110)** So what would happen if I decide that I would like to change my styling a little bit.
 >
@@ -407,7 +403,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=315)** And that is because, once again, we're still working with inheritance here.
 >
-> **[5:19](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=319)** The affected text, which is the word skincare regimen inside of the em tag, those are going to take on those colors that are declared for them a little bit sooner in our inheritance properties series here.
+> **[5:19](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=319)** The affected text, which is the [[Microsoft Word|word]] skincare regimen inside of the em tag, those are going to take on those colors that are declared for them a little bit sooner in our inheritance properties series here.
 >
 > **[5:34](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/examples-of-inheritance?u=76281980&t=334)** And things from which they're inheriting, some of that comes through.
 >
@@ -441,7 +437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[CodePen]] (1), css (1), [[Typography]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[CodePen]] (1), [[Typography]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** html (2), css (1)
 > **Versions:** 1.5 (2)
@@ -450,8 +446,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Controlling inheritance with inherit
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/controlling-inheritance-with-inherit?u=76281980)
+#### [Controlling inheritance with inherit](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/controlling-inheritance-with-inherit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/controlling-inheritance-with-inherit?u=76281980&t=26)** And continuing here with our previous example, we put a border all the way around this div, that's right here on our div-id style.
 >
-> **[0:36](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/controlling-inheritance-with-inherit?u=76281980&t=36)** We know that this border doesn't inherit, otherwise we'd have borders around all of those HTML elements.
+> **[0:36](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/controlling-inheritance-with-inherit?u=76281980&t=36)** We know that this border doesn't inherit, otherwise we'd have borders around all of those [[HTML]] elements.
 >
 > **[0:43](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/controlling-inheritance-with-inherit?u=76281980&t=43)** But we can force that inheritance to happen.
 >
@@ -523,8 +518,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring initial, unset, revert, and all
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/exploring-initial-unset-revert-and-all?u=76281980)
+#### [Exploring initial, unset, revert, and all](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/exploring-initial-unset-revert-and-all?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,7 +722,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), css (1)
 > **Definitions:** is a  (3), in other words (2), is called (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** make (3)
@@ -736,15 +729,15 @@ created: 2026-05-02
 > **Versions:** 1.5 (1)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
+> **Prerequisites:** set up (1)
 
-#### Challenge: Working with inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-working-with-inheritance?u=76281980)
+#### [Challenge: Working with inheritance](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-working-with-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-working-with-inheritance?u=76281980&t=0)** - [Instructor] Now that you have learned a little bit about inheritance, let's put that learning into action and think about this in the form of a challenge.
 >
-> **[0:12](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-working-with-inheritance?u=76281980&t=12)** So we've got the same old HTML we've worked with through this entire chapter.
+> **[0:12](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-working-with-inheritance?u=76281980&t=12)** So we've got the same old [[HTML]] we've worked with through this entire chapter.
 >
 > **[0:17](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-working-with-inheritance?u=76281980&t=17)** And underneath of that, I have two declarations here.
 >
@@ -768,15 +761,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Working with inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-working-with-inheritance?u=76281980)
+#### [Solution: Working with inheritance](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-working-with-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +778,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-working-with-inheritance?u=76281980&t=13)** So the body element is using inheritance to affect the elements in this document.
 >
-> **[0:20](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-working-with-inheritance?u=76281980&t=20)** While the universal selector is going to assign each of these properties and values to each of the HTML elements at that level, not leveraging inheritance at all.
+> **[0:20](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-working-with-inheritance?u=76281980&t=20)** While the universal selector is going to assign each of these properties and values to each of the [[HTML]] elements at that level, not leveraging inheritance at all.
 >
 > **[0:34](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-working-with-inheritance?u=76281980&t=34)** Sometimes, these things may be additive.
 >
@@ -794,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-working-with-inheritance?u=76281980&t=44)** There's no point in doing that, you'd use one of these.
 >
-> **[0:47](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-working-with-inheritance?u=76281980&t=47)** But we do have an interesting phenomenon that's happening here because we have written this CodePen this way.
+> **[0:47](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-working-with-inheritance?u=76281980&t=47)** But we do have an interesting phenomenon that's happening here because we have written this [[CodePen]] this way.
 >
 > **[0:54](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-working-with-inheritance?u=76281980&t=54)** And that is, our font size seems rather large, don't you think?
 >
@@ -832,8 +824,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is specificity?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-specificity?u=76281980)
+#### [What is specificity?](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-specificity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,7 +864,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-specificity?u=76281980&t=90)** Pseudo classes are things like colon hover, colon active, colon visited, that type of thing.
 >
-> **[1:37](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-specificity?u=76281980&t=97)** And then attribute selectors are when you select HTML attributes.
+> **[1:37](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-specificity?u=76281980&t=97)** And then attribute selectors are when you select [[HTML]] attributes.
 >
 > **[1:41](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-specificity?u=76281980&t=101)** So you might see the square brackets with something inside of it, like href, for example.
 >
@@ -999,7 +990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (3)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (3), html (3), mdn (2)
 > **Definitions:** is a  (7), in other words (1)
 > **Documentation:** mdn (2), specification (2)
@@ -1008,14 +999,13 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### How selectors and ordering impact specificity
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980)
+#### [How selectors and ordering impact specificity](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980&t=0)** - [Instructor] Let's take a look at a more real example of how specificity might work back in our starting CodePen, which I've given you in your exercise files folder.
+> **[0:00](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980&t=0)** - [Instructor] Let's take a look at a more real example of how specificity might work back in our starting [[CodePen]], which I've given you in your exercise files folder.
 >
-> **[0:10](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980&t=10)** As always, you should start by taking a look at your HTML.
+> **[0:10](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980&t=10)** As always, you should start by taking a look at your [[HTML]].
 >
 > **[0:14](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980&t=14)** You'll find that this is pretty similar to what we just saw in the inheritance chapter, except I've now wrapped three divs and they're all nested inside of each other.
 >
@@ -1147,13 +1137,13 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980&t=374)** You can't make changes to the CSS.
 >
-> **[6:16](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980&t=376)** That's a situation that commonly happens when you're working with a content management system or some kind of no-code styling tool like Squarespace or Wix or something like that.
+> **[6:16](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980&t=376)** That's a situation that commonly happens when you're working with a [[Content Management]] system or some kind of no-code styling tool like Squarespace or Wix or something like that.
 >
 > **[6:27](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/how-selectors-and-ordering-impact-specificity?u=76281980&t=387)** These types of tricks are really, really helpful to override styling to inflict your will on that webpage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (3), [[CodePen]] (1), generic (1), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[CodePen]] (1), [[Content Management]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** html (3), css (3)
 > **Cross-References:** earlier in (2), later in (1)
@@ -1161,8 +1151,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selectors with no specificity
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/selectors-with-no-specificity?u=76281980)
+#### [Selectors with no specificity](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/selectors-with-no-specificity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1190,7 +1179,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/selectors-with-no-specificity?u=76281980&t=60)** We have one attribute selector.
 >
-> **[1:02](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/selectors-with-no-specificity?u=76281980&t=62)** We have the universal selector, which doesn't count and we don't have any IDs or HTML elements, so it's 0-1-0.
+> **[1:02](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/selectors-with-no-specificity?u=76281980&t=62)** We have the universal selector, which doesn't count and we don't have any IDs or [[HTML]] elements, so it's 0-1-0.
 >
 > **[1:09](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/selectors-with-no-specificity?u=76281980&t=69)** And in this last example down here on the bottom, we have two classes.
 >
@@ -1300,7 +1289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4)
 > **CLI Commands:** sudo (3)
 > **Cross-References:** in the last (1)
@@ -1308,14 +1297,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### The impact of inheritance on specificity
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980)
+#### [The impact of inheritance on specificity](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=0)** - [Instructor] We've touched on inheritance and specificity a little bit before this video, but I'd like to take this opportunity to really dig into what is inheritance and what is specificity and how are they interacting as we take a look at our example.
 >
-> **[0:14](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=14)** So this is our starting CodePen.
+> **[0:14](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=14)** So this is our starting [[CodePen]].
 >
 > **[0:16](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=16)** The link is inside of your exercise files.
 >
@@ -1343,7 +1331,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=77)** And it has a specificity of 001.
 >
-> **[1:19](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=79)** They're all HTML elements.
+> **[1:19](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=79)** They're all [[HTML]] elements.
 >
 > **[1:21](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=81)** They're all type selectors.
 >
@@ -1405,7 +1393,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=235)** So our last style here is a 001.
 >
-> **[3:59](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=239)** The first two styles are a 002, and they all apply to that word skincare regimen in the em tag.
+> **[3:59](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=239)** The first two styles are a 002, and they all apply to that [[Microsoft Word|word]] skincare regimen in the em tag.
 >
 > **[4:07](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-impact-of-inheritance-on-specificity?u=76281980&t=247)** Because paragraph em comes later, it is blue.
 >
@@ -1425,7 +1413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (2), [[CodePen]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[CodePen]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** later in (2), earlier in (2), go back to (1)
 > **Env Vars:** css (2), html (2)
@@ -1433,8 +1421,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Explaining specificity
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-explaining-specificity?u=76281980)
+#### [Challenge: Explaining specificity](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-explaining-specificity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1445,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-explaining-specificity?u=76281980&t=50)** So we have a number of things that are going on here in these five selectors that are here inside of our CSS.
 >
-> **[0:58](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-explaining-specificity?u=76281980&t=58)** And the HTML is relatively straightforward, if you take a look at it.
+> **[0:58](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-explaining-specificity?u=76281980&t=58)** And the [[HTML]] is relatively straightforward, if you take a look at it.
 >
 > **[1:02](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/challenge-explaining-specificity?u=76281980&t=62)** It's all pretty much the same for these sections.
 >
@@ -1496,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (1), html (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1504,8 +1491,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Explaining specificity
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-explaining-specificity?u=76281980)
+#### [Solution: Explaining specificity](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-explaining-specificity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1535,7 +1521,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-explaining-specificity?u=76281980&t=64)** First child is a pseudo class.
 >
-> **[1:07](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-explaining-specificity?u=76281980&t=67)** LI is an HTML element, so 011.
+> **[1:07](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-explaining-specificity?u=76281980&t=67)** LI is an [[HTML]] element, so 011.
 >
 > **[1:11](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/solution-explaining-specificity?u=76281980&t=71)** and we've specified that this bullet should be green.
 >
@@ -1619,7 +1605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (1), generic (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Definitions:** is a  (3), is an  (2), in other words (1)
 > **Env Vars:** html (2)
 > **Cross-References:** in the last (1), earlier in (1)
@@ -1632,8 +1618,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the cascade?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-the-cascade?u=76281980)
+#### [What is the cascade?](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-the-cascade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1667,7 +1652,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-the-cascade?u=76281980&t=66)** Your styles may also come from different places as a website author.
 >
-> **[1:10](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-the-cascade?u=76281980&t=70)** Separate documents, and HTML in the head of the page, or in-line in HTML tags.
+> **[1:10](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-the-cascade?u=76281980&t=70)** Separate documents, and [[HTML]] in the head of the page, or in-line in HTML tags.
 >
 > **[1:16](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-the-cascade?u=76281980&t=76)** Styles may also come from different origins from the browser, from the author, and from the user.
 >
@@ -1711,7 +1696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (3), mdn (2), html (2)
 > **Documentation:** mdn (2)
 > **Definitions:** is an  (1), in other words (1)
@@ -1719,8 +1704,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying origins of CSS declarations using browser tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980)
+#### [Identifying origins of CSS declarations using browser tools](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1728,7 +1712,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=8)** They may come from different style sheets or different locations within the same style sheet there's author, user, and browser style sheets.
 >
-> **[0:16](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=16)** You probably already use browser tools for variety of web development tasks.
+> **[0:16](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=16)** You probably already use browser tools for variety of [[Web Development]] tasks.
 >
 > **[0:21](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=21)** However, you may not realize that your browser tools will show you the origins of all styles for a given element on the page.
 >
@@ -1748,7 +1732,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=64)** They often have similar kinds of features and functionality but they may be arranged slightly differently than what you see here in Chrome.
 >
-> **[1:12](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=72)** So as you know, here from your developer tools at the top of this window, we have our HTML.
+> **[1:12](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=72)** So as you know, here from your developer tools at the top of this window, we have our [[HTML]].
 >
 > **[1:18](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=78)** You can roll your mouse over each of these HTML elements and you will identify the various parts of our webpage here and where I'm going to start here is on this main element.
 >
@@ -1778,7 +1762,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=181)** Some of this has been overridden already or it's ignored.
 >
-> **[3:06](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=186)** And in this particular case, you'll see here we have some prefixed various types of declarations that are here, one for Firefox, one for Edge and one for probably just Microsoft in general, or maybe both of those are for Microsoft browsers, IE and Edge.
+> **[3:06](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=186)** And in this particular case, you'll see here we have some prefixed various types of declarations that are here, one for Firefox, one for Edge and one for probably just [[Microsoft]] in general, or maybe both of those are for Microsoft browsers, IE and Edge.
 >
 > **[3:25](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/identifying-origins-of-css-declarations-using-browser-tools?u=76281980&t=205)** And those are ignored because of course I'm in Chrome.
 >
@@ -1918,7 +1902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), web (5), css (4), [[Microsoft]] (2), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Microsoft]] (2), [[Web Development]] (1)
 > **Env Vars:** html (7), css (4)
 > **Definitions:** is a  (4), in other words (1)
 > **CLI Commands:** find (2)
@@ -1927,8 +1911,7 @@ created: 2026-05-02
 > **URLs:** [twotreesoliveoil.com](https://twotreesoliveoil.com) (1)
 > **Analogies:** similar to (1)
 
-#### Sorting declarations by importance
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/sorting-declarations-by-importance?u=76281980)
+#### [Sorting declarations by importance](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/sorting-declarations-by-importance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1964,7 +1947,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/sorting-declarations-by-importance?u=76281980&t=137)** As we continue on here what this is, even though we're moving up here on our developer tools, notice that the line numbers are increasing, so we're actually, we're scrolling down through our style sheet, although we're scrolling up through the styles in our developer tools, maybe we should do something about our UX about that, but in any case, we have our h3 here, which is getting its font-size from a variable.
 >
-> **[2:42](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/sorting-declarations-by-importance?u=76281980&t=162)** We had an aside h3, because that particular bit of HTML this would apply.
+> **[2:42](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/sorting-declarations-by-importance?u=76281980&t=162)** We had an aside h3, because that particular bit of [[HTML]] this would apply.
 >
 > **[2:47](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/sorting-declarations-by-importance?u=76281980&t=167)** We've overridden that as we go into more specifically a class, that's a specificity issue there, right?
 >
@@ -1994,7 +1977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), web (1), css (1), ux (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** html (3), css (1)
 > **UI Navigation:** scroll up (1), select the (1)
 > **CLI Commands:** find (1)
@@ -2003,8 +1986,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
 
-#### !important: Its use and abuse
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/important-its-use-and-abuse?u=76281980)
+#### [!important: Its use and abuse](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/important-its-use-and-abuse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2024,7 +2006,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/important-its-use-and-abuse?u=76281980&t=41)** Remember that the order of these particular style sheets reverses, so although the author is the most important one in the normal context, it is the least important one when we start throwing around bang importants.
 >
-> **[0:55](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/important-its-use-and-abuse?u=76281980&t=55)** And that is because we want our users to be able to override our styles if it's better for their user experience to have a different style sheet.
+> **[0:55](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/important-its-use-and-abuse?u=76281980&t=55)** And that is because we want our users to be able to override our styles if it's better for their [[User Experience (UX)|user experience]] to have a different style sheet.
 >
 > **[1:03](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/important-its-use-and-abuse?u=76281980&t=63)** And then, of course, the browser can make us do crazy things, too, with its being important.
 >
@@ -2046,7 +2028,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/important-its-use-and-abuse?u=76281980&t=130)** That's the recent blogs item here and it does not have an inline style, and so the one with the inline style has a border of two pixels, solid red around it.
 >
-> **[2:20](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/important-its-use-and-abuse?u=76281980&t=140)** One of the things you may encounter in the course of doing web development is you have access to edit, maybe the HTML, but not the CSS, or the reverse is true.
+> **[2:20](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/important-its-use-and-abuse?u=76281980&t=140)** One of the things you may encounter in the course of doing [[Web Development]] is you have access to edit, maybe the [[HTML]], but not the CSS, or the reverse is true.
 >
 > **[2:29](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/important-its-use-and-abuse?u=76281980&t=149)** You can edit the CSS or add to the CSS via one of those put your custom CSS here boxes, but you don't have access to the HTML.
 >
@@ -2134,7 +2116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (2), [[User Experience (UX)|User experience]] (1), [[Web Development]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[User Experience (UX)|User experience]] (1), [[Web Development]] (1)
 > **Env Vars:** css (4), html (2)
 > **Cross-References:** earlier in (2), later in (1)
 > **CLI Commands:** make (2)
@@ -2142,12 +2124,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### @layer: Impacting specificity through components
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/layer-impacting-specificity-through-components?u=76281980)
+#### [@layer: Impacting specificity through components](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/layer-impacting-specificity-through-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/layer-impacting-specificity-through-components?u=76281980&t=0)** - [Instructor] As you probably know, today's front end developers would like nothing better than to package up a bunch of HTML, CSS and JavaScript, call it a component and distribute it as a component, hack these components together and then build anything on the front end.
+> **[0:00](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/layer-impacting-specificity-through-components?u=76281980&t=0)** - [Instructor] As you probably know, today's front end developers would like nothing better than to package up a bunch of [[HTML]], CSS and [[JavaScript]], call it a component and distribute it as a component, hack these components together and then build anything on the front end.
 >
 > **[0:16](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/layer-impacting-specificity-through-components?u=76281980&t=16)** Layers are an attempt to address this desire on the CSS side of things.
 >
@@ -2273,7 +2254,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/layer-impacting-specificity-through-components?u=76281980&t=339)** We need to have this font family actually inside of the figure element.
 >
-> **[5:45](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/layer-impacting-specificity-through-components?u=76281980&t=345)** And if we were to do that, take it out of body, put it in figure, then we can in fact have our Comic Sans here on our figure and Barlow in the rest of the document.
+> **[5:45](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/layer-impacting-specificity-through-components?u=76281980&t=345)** And if we were to do that, take it out of body, put it in figure, then we can in fact have our Comic Sans here on our figure and Barlow in the [[Representational State Transfer (REST)|rest]] of the document.
 >
 > **[5:57](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/layer-impacting-specificity-through-components?u=76281980&t=357)** So these are some of the big concepts around layers.
 >
@@ -2285,7 +2266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), [[HTML]] (4), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (7), html (4)
 > **Cross-References:** later in (4)
 > **Definitions:** is a  (2)
@@ -2299,8 +2280,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Moving forward with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/moving-forward-with-css?u=76281980)
+#### [Moving forward with CSS](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/moving-forward-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2334,7 +2314,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9)
 > **Env Vars:** css (9)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

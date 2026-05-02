@@ -54,8 +54,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Quantile and box-whisker plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantile-and-box-whisker-plots-in-the-wolfram-language/quantile-and-box-whisker-plots?u=76281980)
+#### [Quantile and box-whisker plots](https://www.linkedin.com/learning/quantile-and-box-whisker-plots-in-the-wolfram-language/quantile-and-box-whisker-plots?u=76281980)
 
 
 ## Instructor

@@ -93,12 +93,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scouting the target
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scouting-the-target?u=76281980)
+#### [Scouting the target](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scouting-the-target?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scouting-the-target?u=76281980&t=0)** - [Lisa] Kick-starting the ethical hacking process begins with a laser-focused footprinting and reconnaissance exercise that will uncover everything we need to know about the target.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scouting-the-target?u=76281980&t=0)** - [Lisa] Kick-starting the [[Ethical Hacking]] process begins with a laser-focused footprinting and reconnaissance exercise that will uncover everything we need to know about the target.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scouting-the-target?u=76281980&t=13)** In this course, I'll cover how we can use high and low-tech methods to discover details about a system, network, or organization.
 >
@@ -112,15 +111,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2)
 > **Speakers:** - [lisa] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is a basic to intermediate course intended for anyone with an interest in learning more about ethical hacking.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is a basic to intermediate course intended for anyone with an interest in learning more about [[Ethical Hacking]].
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/what-you-should-know?u=76281980&t=10)** This course is part of the Ethical Hacking Series.
 >
@@ -145,12 +143,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hacking ethically
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/hacking-ethically?u=76281980)
+#### [Hacking ethically](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/hacking-ethically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/hacking-ethically?u=76281980&t=0)** - [Instructor] The goal of the Ethical Hacking series is to help system administrators understand how to better protect the assets they manage.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/hacking-ethically?u=76281980&t=0)** - [Instructor] The goal of the [[Ethical Hacking]] series is to help system administrators understand how to better protect the assets they manage.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/hacking-ethically?u=76281980&t=10)** I'll focus on the concepts of ethical hacking in order to explain why it's essential in any organization's overall security framework.
 >
@@ -162,7 +159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3)
 > **Speakers:** - [instructor] (1)
 
 
@@ -170,12 +167,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Footprinting and reconnaissance
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980)
+#### [Footprinting and reconnaissance](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980&t=0)** - [Instructor] The first phase in ethical hacking is footprinting and reconnaissance, which involves obtaining as much information about the target as possible.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980&t=0)** - [Instructor] The first phase in [[Ethical Hacking]] is footprinting and reconnaissance, which involves obtaining as much information about the target as possible.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980&t=10)** In this segment, we'll learn what information we can gather along with what questions to ask before beginning the process.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980&t=147)** Well, the more information collected during a well conducted reconnaissance exercise will help determine just how we will launch an attack.
 >
-> **[2:37](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980&t=157)** During the information gathering phase, it's essential to record your findings using a template such as this one where you can document corporate information, infrastructure assets, and financial data.
+> **[2:37](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980&t=157)** During the information gathering phase, it's essential to record your findings using a template such as this one where you can document corporate information, infrastructure assets, and [[Financial Data]].
 >
 > **[2:52](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980&t=172)** This will help you create a complete picture of your target and develop the best method of attack.
 >
@@ -241,7 +237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), data (2), [[Security]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Financial Data]] (1)
 > **Analogies:** such as (2), picture (2), imagine (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** template (1)
@@ -250,8 +246,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using competitive intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980)
+#### [Using competitive intelligence](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,9 +256,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=14)** One example is using competitive intelligence, which can lend insight on many aspects of an organization.
 >
-> **[0:23](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=23)** In this segment, we'll describe how the ethical hacking team can use competitive intelligence to gather information about a company.
+> **[0:23](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=23)** In this segment, we'll describe how the [[Ethical Hacking]] team can use competitive intelligence to gather information about a company.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=34)** Competitive intelligence gathers competitor information on its products, services, and customers so a company can face business challenges with more direction.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=34)** Competitive intelligence gathers competitor information on its [[Microsoft Products|products]], services, and customers so a company can face business challenges with more direction.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=47)** Competitive intelligence uses standard search methods and is completely legal.
 >
@@ -275,7 +270,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=77)** While there are plenty of resources, one area we can check are job postings on a company.
 >
-> **[1:24](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=84)** The team can check job posting sites such as LinkedIn, Monster, and CareerBuilder to see if they're hiring.
+> **[1:24](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=84)** The team can check job posting sites such as [[LinkedIn]], Monster, and CareerBuilder to see if they're hiring.
 >
 > **[1:33](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=93)** One site that can help us get a better understanding of the technology used in a target organization is Dice.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=146)** Kronos is workforce management.
 >
-> **[2:30](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=150)** And PeopleSoft provides human resources and general business processes.
+> **[2:30](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=150)** And PeopleSoft provides [[Human Resources (HR)|human resources]] and general business processes.
 >
 > **[2:35](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-competitive-intelligence?u=76281980&t=155)** So let's drill down a little further.
 >
@@ -315,27 +310,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (2), business (2), [[Search]] (2), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** picture (1), such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** cve (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Investigating business sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980)
+#### [Investigating business sites](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=0)** - [Instructor] While Footprinting, the Ethical Hacking team can gather valuable company information from publicly available sites and repositories.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=0)** - [Instructor] While Footprinting, the [[Ethical Hacking]] team can gather valuable company information from publicly available sites and repositories.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=9)** In this segment, we'll discover how to use various sites such as GitHub, Dun and Bradstreet, along with Google Earth to learn more about the target.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=9)** In this segment, we'll discover how to use various sites such as [[GitHub]], Dun and Bradstreet, along with [[Google]] Earth to learn more about the target.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=21)** Let's start with code repositories.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=24)** Code repositories are where developers collaborate and share code when developing software.
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=30)** Some examples include GitHub, Bitbucket, and Apache Subversion.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=30)** Some examples include GitHub, [[Bitbucket]], and Apache Subversion.
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=36)** If the company does have a public facing repository, the team might be able to find something of value.
 >
@@ -361,7 +355,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=108)** Now, one document that you can find in EDGAR that might be of value is a Form 10-K or annual report, which every public company must provide.
 >
-> **[2:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=120)** This forum offers a thorough picture of a company's business, the location, who is top level management, the potential risks, and financial data.
+> **[2:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=120)** This forum offers a thorough picture of a company's business, the location, who is top level management, the potential risks, and [[Financial Data]].
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-business-sites?u=76281980&t=131)** In addition, you might find details about possible mergers and acquisitions that will be beneficial when starting to research domain names.
 >
@@ -399,7 +393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[Search]] (4), database (4), [[GitHub]] (3), [[Ethical Hacking]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[GitHub]] (3), [[Ethical Hacking]] (2), [[Bitbucket]] (1), [[Financial Data]] (1)
 > **CLI Commands:** find (6), apache (1)
 > **UI Navigation:** go to (4), scroll down (2)
 > **Env Vars:** edgar (4)
@@ -408,14 +402,13 @@ created: 2026-05-02
 > **Analogies:** such as (3), picture (1)
 > **Exercise Files:** source code (2)
 
-#### Searching and Google hacking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980)
+#### [Searching and Google hacking](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=0)** - [Instructor] Many of us use search engines to locate information.
 >
-> **[0:04](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=4)** In this segment, you'll discover how Google hacking can help uncover vulnerable applications, expose directories, and open servers and ports.
+> **[0:04](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=4)** In this segment, you'll discover how [[Google]] hacking can help uncover vulnerable applications, expose directories, and open servers and ports.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=16)** Formalized search engines began on the Internet as early as 1990 with a primitive tool called Archie.
 >
@@ -453,7 +446,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=143)** Now once here, you can use operators in the search form along with key terms to narrow your scope.
 >
-> **[2:32](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=152)** Now, using Google with advanced operators to locate hidden information is called Google hacking, and this should be part of an ethical hacking exercise, as it is a very powerful tool.
+> **[2:32](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=152)** Now, using Google with advanced operators to locate hidden information is called Google hacking, and this should be part of an [[Ethical Hacking]] exercise, as it is a very powerful tool.
 >
 > **[2:46](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/searching-and-google-hacking?u=76281980&t=166)** The Google hacking database can be found here at the Exploit Database website.
 >
@@ -485,7 +478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (12), [[Google]] (11), web (3), database (3), data (1)
+> **Frameworks & Libraries:** [[Google]] (11), [[Ethical Hacking]] (1)
 > **Env Vars:** scada (2), pdf (1), mp3 (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2), is called (1)
@@ -494,8 +487,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Warnings:** keep in mind (1)
 
-#### Employing social engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980)
+#### [Employing social engineering](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,17 +513,17 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=86)** Without someone's knowledge, they may give up sensitive information.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=92)** Phishing is an attempt to get a user to reveal personal or financial information using email or instant messaging to deliver the message.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=92)** [[Phishing]] is an attempt to get a user to reveal personal or financial information using email or instant messaging to deliver the message.
 >
 > **[1:43](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=103)** Spear phishing targets specific individuals and generally has better results as it targets individuals who are more likely to respond.
 >
-> **[1:54](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=114)** Pharming is like phishing, however, instead of luring a user to the website using bait in the form of a phony email or link, pharming redirects victims to a bogus site, which is commonly a bank or e-commerce site, where once in, the victim may divulge confidential information.
+> **[1:54](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=114)** Pharming is like phishing, however, instead of luring a user to the website using bait in the form of a phony email or link, pharming redirects victims to a bogus site, which is commonly a bank or [[E-Commerce]] site, where once in, the victim may divulge confidential information.
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=137)** Impersonation is pretending to be someone else.
 >
 > **[2:22](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=142)** In a building, the perpetrator may actually dress up like an authorized individual to fix a problem.
 >
-> **[2:29](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=149)** They may impersonate technical support or even a utility worker.
+> **[2:29](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=149)** They may impersonate [[Technical Support]] or even a utility worker.
 >
 > **[2:35](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/employing-social-engineering?u=76281980&t=155)** Today, social engineering is a major threat to the security of an organization, as the information they obtain can be used with other hacking techniques to gain access to network resources.
 >
@@ -543,15 +535,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), data (4), [[Phishing]] (3), [[Security]] (2), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (3), [[E-Commerce]] (1), [[Technical Support]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** atm (1), pin (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Gathering data on people
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980)
+#### [Gathering data on people](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,13 +578,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=142)** Now, if you want more information, you will have to pay for it.
 >
-> **[2:29](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=149)** Now, Yasni provides standard information such as telephone and addresses, along with a variety of other information that includes Facebook and LinkedIn profiles, where they may have worked, education, death notices, books published, and YouTube.
+> **[2:29](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=149)** Now, Yasni provides standard information such as telephone and addresses, along with a variety of other information that includes Facebook and [[LinkedIn]] profiles, where they may have worked, education, death notices, books published, and YouTube.
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=171)** And the last site that might help you when searching for a list of company employees is SignalHire.
 >
 > **[2:57](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=177)** This site has approximately 10 million companies and their employees.
 >
-> **[3:02](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=182)** Now keep in mind that this is a list that they maintain and curate and it might not be completely accurate, but it could be a starting point when you want to launch a social engineering or phishing attack.
+> **[3:02](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=182)** Now keep in mind that this is a list that they maintain and curate and it might not be completely accurate, but it could be a starting point when you want to launch a social engineering or [[Phishing]] attack.
 >
 > **[3:17](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/gathering-data-on-people?u=76281980&t=197)** Now, as we can see there's quite a bit of information available.
 >
@@ -609,21 +600,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), data (3), next (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Phishing]] (1)
 > **Analogies:** such as (6), picture (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1), caution (1)
 > **Speakers:** - [narrator] (1)
 
-#### Tracking online reputation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/tracking-online-reputation?u=76281980)
+#### [Tracking online reputation](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/tracking-online-reputation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/tracking-online-reputation?u=76281980&t=0)** - [Narrator] When footprinting either an individual organization or company, it's essential to track the online reputation of the target.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/tracking-online-reputation?u=76281980&t=10)** In this segment, we'll learn how to assess online reputation by using image and video search engines, social media, and Google alerts.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/tracking-online-reputation?u=76281980&t=10)** In this segment, we'll learn how to assess online reputation by using image and video search engines, social media, and [[Google]] alerts.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/tracking-online-reputation?u=76281980&t=21)** With so much of our lives online, it goes without saying that part of what we represent might be visible.
 >
@@ -701,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (13), [[Google]] (5), web (1)
+> **Frameworks & Libraries:** [[Google]] (5)
 > **Env Vars:** ftp (3), url (1)
 > **Analogies:** picture (1), for example (1), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -715,14 +705,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Harvesting email addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980)
+#### [Harvesting email addresses](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980&t=0)** - [Instructor] Email is one of our main forms of communication in the business world and is a coveted target for malicious actors.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980&t=0)** - [Instructor] Email is one of our main [[Forms]] of communication in the business world and is a coveted target for malicious actors.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980&t=9)** In this segment, we'll learn how to harvest or craft a list of email addresses, which then can be used in spear-phishing and spoofing attacks.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980&t=9)** In this segment, we'll learn how to harvest or craft a list of email addresses, which then can be used in spear-[[Phishing]] and spoofing attacks.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980&t=19)** In the wrong hands, having a list of valid email addresses can be very dangerous.
 >
@@ -732,7 +721,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980&t=39)** The attack used malicious files, often through embedded links and spear-phishing emails.
 >
-> **[0:45](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980&t=45)** As a result, part of an ethical hacking exercise might include locating and harvesting a valid email list.
+> **[0:45](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980&t=45)** As a result, part of an [[Ethical Hacking]] exercise might include locating and harvesting a valid email list.
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980&t=54)** Well, how can we get a list of email addresses?
 >
@@ -810,7 +799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Phishing]] (3), [[Forms]] (1), business (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Forms]] (1), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (6)
 > **Definitions:** is a  (4), is an  (1)
 > **URLs:** [landonhotel.com](https://landonhotel.com) (3)
@@ -818,8 +807,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examining websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-websites?u=76281980)
+#### [Examining websites](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,7 +815,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-websites?u=76281980&t=4)** In this segment, we'll learn some webpage and website basics so that you can navigate the source code and locate any exposed sensitive information.
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-websites?u=76281980&t=15)** HTML is hypertext markup language, a simple language developed in 1990 that is used to create webpages and link content.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-websites?u=76281980&t=15)** [[HTML]] is hypertext markup language, a simple language developed in 1990 that is used to create webpages and link content.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-websites?u=76281980&t=26)** If you are serious about becoming an ethical hacker, you really should know how a webpage is created and the structure and format of the underlying source code.
 >
@@ -893,7 +881,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-websites?u=76281980&t=220)** Once you know the layout of the site, you can plan your strategy to get in and study the pages, to find valuable insight on the target.
 >
-> **[3:50](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-websites?u=76281980&t=230)** So I've highlighted the following, office locations, company details, and knowledge base.
+> **[3:50](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-websites?u=76281980&t=230)** So I've highlighted the following, [[Microsoft Office|office]] locations, company details, and knowledge base.
 >
 > **[3:57](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-websites?u=76281980&t=237)** And there I might find additional information.
 >
@@ -903,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), next (3), web (2), data (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft Office|Office]] (1)
 > **Exercise Files:** source code (7)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** html (4)
@@ -912,8 +900,7 @@ created: 2026-05-02
 > **File Paths:** mashers.html (1)
 > **Cross-References:** in the next (1)
 
-#### Scraping websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980)
+#### [Scraping websites](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,17 +914,17 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=36)** We also might find comments and concealed information not published or seen on the webpage, such as passwords or links to protected content.
 >
-> **[0:45](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=45)** Additionally, by scraping websites, we can gather words to create a word list that we can use later in a brute force attack.
+> **[0:45](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=45)** Additionally, by scraping websites, we can gather words to create a [[Microsoft Word|word]] list that we can use later in a brute force attack.
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=54)** If you keyword search website extractor or website mirror, you will see a number of free and paid tools: HTTrack, Wget, Website Ripper Copier, or Web Data Extractor.
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=70)** I'm at HTTrack website copier.
 >
-> **[1:13](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=73)** Now, although this lists the date as 2017, rest assured that it is still able to copy a website from the internet to a local directory.
+> **[1:13](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=73)** Now, although this lists the date as 2017, [[Representational State Transfer (REST)|rest]] assured that it is still able to copy a website from the internet to a local directory.
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=84)** I've downloaded and installed the software.
 >
-> **[1:28](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=88)** We're going to mirror this site here, Fake Python, Fake Jobs for Your Web Scraping Journey.
+> **[1:28](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=88)** We're going to mirror this site here, Fake [[Python (Programming Language)|Python]], Fake Jobs for Your Web Scraping Journey.
 >
 > **[1:36](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scraping-websites?u=76281980&t=96)** Now, once you're in the software, you'll start a new project.
 >
@@ -1003,7 +990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Python (Programming Language)|Python]] (3), next (3), data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (3), find (2), wget (1)
 > **Exercise Files:** source code (3)
 > **Analogies:** such as (3)
@@ -1012,8 +999,7 @@ created: 2026-05-02
 > **Env Vars:** hal2001 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Mirroring a website
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/challenge-mirroring-a-website?u=76281980)
+#### [Challenge: Mirroring a website](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/challenge-mirroring-a-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,8 +1029,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Mirroring a website
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/solution-mirroring-a-website?u=76281980)
+#### [Solution: Mirroring a website](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/solution-mirroring-a-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,7 +1057,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/solution-mirroring-a-website?u=76281980&t=61)** So my question was, how can a malicious actor use this tool?
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/solution-mirroring-a-website?u=76281980&t=66)** Well, a malicious actor will mirror a website because they want to use it in a phishing attack.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/solution-mirroring-a-website?u=76281980&t=66)** Well, a malicious actor will mirror a website because they want to use it in a [[Phishing]] attack.
 >
 > **[1:12](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/solution-mirroring-a-website?u=76281980&t=72)** Many times it's used to trick users into giving away logins.
 >
@@ -1102,7 +1087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Phishing]] (3)
+> **Frameworks & Libraries:** [[Phishing]] (3)
 > **UI Navigation:** go to (2), right-click (2), click on (1)
 > **URLs:** [example.com](https://example.com) (2)
 > **Env Vars:** url (1)
@@ -1110,12 +1095,11 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Monitoring websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/monitoring-websites?u=76281980)
+#### [Monitoring websites](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/monitoring-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/monitoring-websites?u=76281980&t=0)** - [Instructor] Monitoring a website during an ethical hacking exercise can be crucial for various reasons.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/monitoring-websites?u=76281980&t=0)** - [Instructor] Monitoring a website during an [[Ethical Hacking]] exercise can be crucial for various reasons.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/monitoring-websites?u=76281980&t=7)** In this segment, we'll outline methods to monitor websites for traffic, changes, and vulnerabilities.
 >
@@ -1141,7 +1125,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/monitoring-websites?u=76281980&t=80)** In addition, Pingdom has a site where we can do a quick check of the speed to analyze it and find potential bottlenecks.
 >
-> **[1:28](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/monitoring-websites?u=76281980&t=88)** Now to make sense of your target's web traffic, you can use Google Analytics, which provides free tools to assess customer devices and platforms.
+> **[1:28](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/monitoring-websites?u=76281980&t=88)** Now to make sense of your target's web traffic, you can use [[Google]] Analytics, which provides free tools to assess customer devices and platforms.
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/monitoring-websites?u=76281980&t=98)** Any downtime or disruption to your website will affect sales, brand reputation, and lead to dissatisfied customers.
 >
@@ -1167,7 +1151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Analytics]] (2), [[Ethical Hacking]] (1), web (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Google]] (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [updown.io](https://updown.io) (1), [pentest-tools.com](https://pentest-tools.com) (1)
 > **Analogies:** such as (2)
@@ -1179,12 +1163,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Footprinting using DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980)
+#### [Footprinting using DNS](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=0)** - [Instructor] When conducting reconnaissance, using the Domain Name System will help map your target's network.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=0)** - [Instructor] When conducting reconnaissance, using the [[Domain Name System (DNS)|Domain Name System]] will help map your target's network.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=7)** In this segment, we'll review different techniques involved in DNS Footprinting.
 >
@@ -1202,7 +1185,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=45)** And below, we see the top level domains, such as .com and .edu.
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=51)** And then the second level domains that include [Google.com](https://Google.com) and [MIT.edu](https://MIT.edu).
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=51)** And then the second level domains that include [[[Google]].com](https://Google.com) and [MIT.edu](https://MIT.edu).
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=58)** And, you might also see some subdomains.
 >
@@ -1260,7 +1243,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=238)** Footprinting tools include SpiderFoot, DNSRecon, DNSEnum, or theHarvester.
 >
-> **[4:06](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=246)** These tools can help speed up the process and display detailed information, and many are built right into Kali Linux.
+> **[4:06](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=246)** These tools can help speed up the process and display detailed information, and many are built right into [[Kali Linux]].
 >
 > **[4:15](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980&t=255)** Now let's test your knowledge.
 >
@@ -1270,7 +1253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (20), [[Domain Name System (DNS)|Domain name system]] (2), database (2), application (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Domain Name System (DNS)|Domain name system]] (2), [[Google]] (1), [[Kali Linux]] (1)
 > **Env Vars:** dns (20), mit (1)
 > **Definitions:** is an  (3), is a  (1)
 > **URLs:** [google.com](https://google.com) (1), [mit.edu](https://mit.edu) (1)
@@ -1278,8 +1261,7 @@ created: 2026-05-02
 > **Code Identifiers:** theharvester (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examining a zone transfer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-a-zone-transfer?u=76281980)
+#### [Examining a zone transfer](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-a-zone-transfer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1311,13 +1293,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-a-zone-transfer?u=76281980&t=98)** This information can be invaluable to an attacker as it provides a roadmap for further attacks.
 >
-> **[1:46](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-a-zone-transfer?u=76281980&t=106)** I want to show you in Wireshark what an authoritative transfer looks like.
+> **[1:46](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-a-zone-transfer?u=76281980&t=106)** I want to show you in [[Wireshark]] what an authoritative transfer looks like.
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-a-zone-transfer?u=76281980&t=111)** But first, let me show you where I got the packet capture from.
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-a-zone-transfer?u=76281980&t=115)** Chris Sanders, who has written a very good book on Wireshark, has some packet captures that you can download and analyze yourself.
 >
-> **[2:04](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-a-zone-transfer?u=76281980&t=124)** Now, we'll go to his GitHub repository and scroll down, and there you can see the PCAP.
+> **[2:04](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-a-zone-transfer?u=76281980&t=124)** Now, we'll go to his [[GitHub]] repository and scroll down, and there you can see the PCAP.
 >
 > **[2:12](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-a-zone-transfer?u=76281980&t=132)** Now, once you go there, I've opened this in a new tab, and you'll select view raw and then you can download the file and open it in Wireshark so you can follow along.
 >
@@ -1349,7 +1331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (16), [[Wireshark]] (3), [[Security]] (2), database (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[GitHub]] (1)
 > **Env Vars:** dns (16), pcap (1), tcp (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -1358,12 +1340,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Best Practices:** good practice (1)
 
-#### Generating domain names
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980)
+#### [Generating domain names](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=0)** - [Instructor] When launching a phishing attack the attacker wants to make sure that the victim believes the site they're clicking on is real.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=0)** - [Instructor] When launching a [[Phishing]] attack the attacker wants to make sure that the victim believes the site they're clicking on is real.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=9)** In this segment we'll learn how to generate believable domain names to launch a phishing or spear-phishing attack.
 >
@@ -1395,7 +1376,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=105)** Now once open, you can see the interface and what it's going to do is generate a database of domain names.
 >
-> **[1:53](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=113)** Now we know when dealing with databases, we have to save space on your drive before we generated so it has a place to save the database.
+> **[1:53](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=113)** Now we know when dealing with [[Databases]], we have to save space on your drive before we generated so it has a place to save the database.
 >
 > **[2:02](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/generating-domain-names?u=76281980&t=122)** So to begin, you can select New, and I've already created the database called Landon, and once you do that, then you can begin.
 >
@@ -1435,7 +1416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (7), database (3), management (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (7), [[Databases]] (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [landonpay.com](https://landonpay.com) (1), [letsencrypt.org](https://letsencrypt.org) (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -1443,8 +1424,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determining the path
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980)
+#### [Determining the path](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,9 +1446,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=55)** Ping is a simple utility that is used to test for reachability.
 >
-> **[1:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=61)** In Windows, it will stop after pinging four times and in Linux, it will keep pinging until you issue the command control C.
+> **[1:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=61)** In [[Windows]], it will stop after pinging four times and in [[Linux]], it will keep pinging until you issue the command control C.
 >
-> **[1:11](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=71)** To demonstrate, I'll go into the command line interface and I'll type ping [Google.com](https://Google.com) and we'll let it run.
+> **[1:11](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=71)** To demonstrate, I'll go into the command line interface and I'll type ping [[[Google]].com](https://Google.com) and we'll let it run.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=81)** This is a Windows operating system, so it will ping four times and then stop.
 >
@@ -1498,7 +1478,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=164)** Another Windows utility that combines the features of ping and tracert is called path ping.
 >
-> **[2:52](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=172)** It sends packets to each router and then shows packet loss at any given router or link by doing some statistics.
+> **[2:52](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=172)** It sends packets to each router and then shows packet loss at any given router or link by doing some [[Statistics]].
 >
 > **[3:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path?u=76281980&t=181)** Linux doesn't have path ping, but you can use MTR, or My Trace Route, which basically does the same thing.
 >
@@ -1524,7 +1504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (3), [[Google]] (2), [[Statistics]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (3), [[Google]] (2), [[Statistics]] (2)
 > **Tools:** command line (4)
 > **Env Vars:** icmp (2), mtr (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1533,8 +1513,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Using nslookup and DIG
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980)
+#### [Using nslookup and DIG](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,11 +1529,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=35)** Let's see how this works.
 >
-> **[0:37](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=37)** I'm at the Windows command line prompt, and we'll begin by using the non-interactive mode.
+> **[0:37](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=37)** I'm at the [[Windows]] command line prompt, and we'll begin by using the non-interactive mode.
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=44)** To find out the IP address of a host, you will need to enter the fully qualified domain name of the host.
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=51)** I'll enter nslookup [google.com](https://google.com).
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=51)** I'll enter nslookup [[[Google]].com](https://google.com).
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=63)** I'll press Enter, and there you will see your results.
 >
@@ -1588,7 +1567,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=140)** Now, another tool is Domain Information Groper or dig, which can query specific DNS records and provide details on how DNS servers are responding to queries.
 >
-> **[2:34](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=154)** Dig is native to Linux.
+> **[2:34](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=154)** Dig is native to [[Linux]].
 >
 > **[2:36](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/determining-the-path-19293280?u=76281980&t=156)** Now, you can also use dig in Windows, however, you would have to install dig along with bind utilities.
 >
@@ -1614,7 +1593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (9), [[Google]] (7), [[Windows]] (3), prompt (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Google]] (7), [[Windows]] (3), [[Linux]] (2)
 > **Env Vars:** dns (9)
 > **URLs:** [google.com](https://google.com) (6)
 > **CLI Commands:** find (3)
@@ -1628,8 +1607,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using OSINT tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980)
+#### [Using OSINT tools](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1645,9 +1623,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=48)** Most all objects on the network have descriptive data about data and includes information such as the location, file size, type, author, and keywords.
 >
-> **[1:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=61)** This descriptive data is called metadata.
+> **[1:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=61)** This descriptive data is called [[Metadata]].
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=66)** To improve the effectiveness of data collection, analysis, and interpretation, most OSINT tools use metadata.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=66)** To improve the effectiveness of [[Data Collection]], analysis, and interpretation, most OSINT tools use metadata.
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=75)** So let's talk about some of the OSINT tools that you may come across while searching and some information on how they work.
 >
@@ -1657,9 +1635,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=90)** It will take metadata from the target and then will put it in the form of a webpage and then you can view it in a standard browser, as you see here.
 >
-> **[1:40](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=100)** Another tool is FOCA, which examines metadata so you can tell what software is being used such as a dot doc, dot pdf, or PowerPoint file.
+> **[1:40](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=100)** Another tool is FOCA, which examines metadata so you can tell what software is being used such as a dot doc, dot pdf, or [[Microsoft PowerPoint|PowerPoint]] file.
 >
-> **[1:52](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=112)** In addition, FOCA can scan using search engines like Google, Bing and DuckDuckGo to find downloadable files along with local files.
+> **[1:52](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=112)** In addition, FOCA can scan using search engines like [[Google]], Bing and DuckDuckGo to find downloadable files along with local files.
 >
 > **[2:02](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=122)** As shown in the screenshot, you can customize your search.
 >
@@ -1671,7 +1649,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=158)** It then creates a visual of the relationship among all objects.
 >
-> **[2:43](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=163)** Maltego has a free community version, which is built into Kali Linux along with a paid commercial version.
+> **[2:43](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=163)** Maltego has a free community version, which is built into [[Kali Linux]] along with a paid commercial version.
 >
 > **[2:52](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=172)** And the last tool we'll look at is Shodan.
 >
@@ -1683,7 +1661,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=198)** Billions of devices are on the internet and that includes all types of things such as SCADA, webcams, and other things such as power plants, smart TVs, and even refrigerators.
 >
-> **[3:31](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=211)** Shodan is the search engine for the internet of things and that's everything that's connected.
+> **[3:31](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=211)** Shodan is the search engine for the [[IoT|internet of things]] and that's everything that's connected.
 >
 > **[3:37](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980&t=217)** So explore Shodan and see everything that's connected.
 >
@@ -1699,7 +1677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Metadata]] (4), [[Search]] (4), open-source (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Data Collection]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Google]] (1), [[Kali Linux]] (1)
 > **Env Vars:** osint (4), foca (2), whois (1), scada (1)
 > **Analogies:** such as (6)
 > **Definitions:** is called (2), is a  (2)
@@ -1707,12 +1685,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Investigating email
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-email?u=76281980)
+#### [Investigating email](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-email?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-email?u=76281980&t=0)** - [Instructor] Email footprinting involves compiling information on a company or individual using details in the email and related metadata.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-email?u=76281980&t=0)** - [Instructor] Email footprinting involves compiling information on a company or individual using details in the email and related [[Metadata]].
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-email?u=76281980&t=10)** In this segment, we'll learn ways to extract information using an email header, and then do a lookup of a specific IP address.
 >
@@ -1722,7 +1699,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-email?u=76281980&t=41)** One reason is that, by examining the header, you can make sure an organization isn't exposing the IP address to an internal mail server.
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-email?u=76281980&t=52)** In addition, during remediation, you might need to educate the IT department on ways to prevent spam, phishing, and spoofing attacks, which can lead to a costly data breach.
+> **[0:52](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-email?u=76281980&t=52)** In addition, during remediation, you might need to educate the IT department on ways to prevent spam, [[Phishing]], and spoofing attacks, which can lead to a costly data breach.
 >
 > **[1:05](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/investigating-email?u=76281980&t=65)** Now let's talk about how email works.
 >
@@ -1810,7 +1787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (1), hit (1), [[Phishing]] (1), data (1), node (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Phishing]] (1)
 > **Env Vars:** smtp (1), helo (1), rcpt (1), cip (1)
 > **CLI Commands:** make (1), find (1), node (1)
 > **Definitions:** is a  (3)
@@ -1818,8 +1795,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Footprinting VoIP and VPNs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980)
+#### [Footprinting VoIP and VPNs](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1837,7 +1813,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=39)** Some of the threats include vishing.
 >
-> **[0:43](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=43)** Vishing is VoIP phishing and is using the phone to get the user into surrendering sensitive information.
+> **[0:43](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=43)** Vishing is VoIP [[Phishing]] and is using the phone to get the user into surrendering sensitive information.
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=51)** We can also see ID spoofing.
 >
@@ -1855,7 +1831,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=102)** First, we'll talk about VoIP servers.
 >
-> **[1:46](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=106)** VoIP servers have a web interface and can be vulnerable to attacks, such as SQL injection and denial of service attacks.
+> **[1:46](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=106)** VoIP servers have a web interface and can be vulnerable to attacks, such as [[SQL]] injection and denial of service attacks.
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=115)** If the organization hosts their own VoIP server, the team should conduct tests that include port scanning and banner grabbing to determine whether the server is responding and is vulnerable to an attack.
 >
@@ -1873,7 +1849,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=187)** Another consideration is making sure the VPN doesn't have any DNS data leaks.
 >
-> **[3:14](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=194)** DNS data leaks can expose your location and compromise privacy.
+> **[3:14](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=194)** DNS data leaks can expose your location and compromise [[Privacy]].
 >
 > **[3:20](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-voip-and-vpns?u=76281980&t=200)** As shown in this graphic, a DNS data leak can occur if the VoIP traffic goes through an ISP's DNS server instead of going through the VPN tunnel.
 >
@@ -1889,14 +1865,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (8), dns (6), data (4), [[Security]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[SQL]] (1), [[Privacy]] (1)
 > **Env Vars:** vpn (8), dns (6), sql (1), ssl (1), tls (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Going to the dark web
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/going-to-the-dark-web?u=76281980)
+#### [Going to the dark web](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/going-to-the-dark-web?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1948,7 +1923,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (14), [[Search]] (5), vpn (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1), caution (1)
@@ -1956,12 +1930,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring other footprinting tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/exploring-other-footprinting-tools?u=76281980)
+#### [Exploring other footprinting tools](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/exploring-other-footprinting-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/exploring-other-footprinting-tools?u=76281980&t=0)** - [Narrator] While conducting an ethical hacking exercise, the team will use a variety of tools to help locate resources from various sources on the internet.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/exploring-other-footprinting-tools?u=76281980&t=0)** - [Narrator] While conducting an [[Ethical Hacking]] exercise, the team will use a variety of tools to help locate resources from various sources on the internet.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/exploring-other-footprinting-tools?u=76281980&t=10)** In this segment, we'll discuss ReconDog and BillCipher, two open source reconnaissance tools that have advanced searching and scraping capabilities.
 >
@@ -1985,7 +1958,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/exploring-other-footprinting-tools?u=76281980&t=91)** It can gather publicly available email addresses, collect information about domains and their associated data, extract data from various social media platforms, and monitor for potential data breaches related to the target.
 >
-> **[1:48](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/exploring-other-footprinting-tools?u=76281980&t=108)** You can get both on GitHub and then run the software on Kali Linux.
+> **[1:48](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/exploring-other-footprinting-tools?u=76281980&t=108)** You can get both on [[GitHub]] and then run the software on [[Kali Linux]].
 >
 > **[1:53](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/exploring-other-footprinting-tools?u=76281980&t=113)** Here's a graphic of ReconDog in Kali and here's a graphic of BillCipher in Kali.
 >
@@ -1997,7 +1970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Ethical Hacking]] (1), dns (1), [[GitHub]] (1), [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[GitHub]] (1), [[Kali Linux]] (1)
 > **Analogies:** it's like (1), such as (1)
 > **Env Vars:** dns (1)
 > **Tools:** github (1)
@@ -2008,20 +1981,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conducting a forensic exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980)
+#### [Conducting a forensic exercise](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=0)** - [Instructor] Part of an ethical hacking exercise can involve remediation and security training.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=0)** - [Instructor] Part of an [[Ethical Hacking]] exercise can involve remediation and security training.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=7)** In this Capstone, you'll step through the process of investigating a suspicious email to identify clues and learn how to stop malicious email from reaching recipients.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=7)** In this [[Capstone]], you'll step through the process of investigating a suspicious email to identify clues and learn how to stop malicious email from reaching recipients.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=20)** Here's the scenario.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=21)** After completing the ethical hacking exercise, the team identified several areas where the client would benefit from remediation strategies and security training.
 >
-> **[0:33](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=33)** One area of concern was the potential for spam and phishing emails getting through to the clients.
+> **[0:33](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=33)** One area of concern was the potential for spam and [[Phishing]] emails getting through to the clients.
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=40)** Now, let's talk about Remediation and Training.
 >
@@ -2045,7 +2017,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=101)** Examine an email to determine sections that appear legitimate and where you see suspicious content.
 >
-> **[1:49](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=109)** Dive into the email header, which can lend insight into the email's routing, origin, and metrics used to determine whether or not the email is possible spam.
+> **[1:49](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=109)** Dive into the email header, which can lend insight into the email's [[Routing]], origin, and metrics used to determine whether or not the email is possible spam.
 >
 > **[2:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980&t=121)** And verify IP blocklists, which are used to identify IP addresses linked with suspicious or malicious activities.
 >
@@ -2057,14 +2029,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Capstone]] (3), [[Ethical Hacking]] (2), [[Phishing]] (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Capstone]] (3), [[Ethical Hacking]] (2), [[Phishing]] (2), [[Routing]] (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examining an email
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980)
+#### [Examining an email](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2086,9 +2057,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=51)** Okay, so we can see why someone might click on the link, but next, I wanted you to take a look at how this email looks suspicious.
 >
-> **[1:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=61)** Well, first it misspelled the word warning and it wanted me to click on a sketchy link, and I'll place my cursor on the link.
+> **[1:01](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=61)** Well, first it misspelled the [[Microsoft Word|word]] warning and it wanted me to click on a sketchy link, and I'll place my cursor on the link.
 >
-> **[1:11](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=71)** Here it shows us going to Firebase storage and then there's a firmer warning in the email with a greater sense of urgency in the message.
+> **[1:11](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=71)** Here it shows us going to [[Firebase]] storage and then there's a firmer warning in the email with a greater sense of urgency in the message.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=81)** If the emails aren't verified before 48 hours any services connected to it will stop working.
 >
@@ -2104,7 +2075,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=114)** The account is on hold due to billing and there's an invitation to click on a link to update payment information.
 >
-> **[2:02](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=122)** What are four ways to protect against phishing attacks?
+> **[2:02](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=122)** What are four ways to protect against [[Phishing]] attacks?
 >
 > **[2:06](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=126)** You should use security software, update phone software automatically, use multifactor authentication, and back up your data.
 >
@@ -2112,11 +2083,11 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=153)** And then answer the question, how would you use this information to protect your organization?
 >
-> **[2:40](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=160)** Well, you should use security awareness training and use caution when clicking a link, even if it seems to come from a legitimate company, like Google or Amazon Web Services.
+> **[2:40](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/examining-an-email?u=76281980&t=160)** Well, you should use [[Security Awareness]] training and use caution when clicking a link, even if it seems to come from a legitimate company, like [[Google]] or [[Amazon Web Services (AWS)|Amazon Web Services]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), next (2), [[Microsoft Word|Word]] (1), [[Firebase]] (1), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Firebase]] (1), [[Phishing]] (1), [[Security Awareness]] (1), [[Google]] (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **Definitions:** is a  (3)
 > **Warnings:** warning (2), caution (1)
@@ -2124,16 +2095,15 @@ created: 2026-05-02
 > **URLs:** [ftc.gov](https://ftc.gov) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diving into an email header
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/diving-into-an-email-header?u=76281980)
+#### [Diving into an email header](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/diving-into-an-email-header?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/diving-into-an-email-header?u=76281980&t=0)** - [Instructor] An email header tells a story about the journey the email took from sender to receiver.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/diving-into-an-email-header?u=76281980&t=7)** In this segment, we'll investigate an email header and learn ways to prevent phishing and forgery.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/diving-into-an-email-header?u=76281980&t=7)** In this segment, we'll investigate an email header and learn ways to prevent [[Phishing]] and forgery.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/diving-into-an-email-header?u=76281980&t=14)** So let's review the answers to this part of the capstone.
+> **[0:14](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/diving-into-an-email-header?u=76281980&t=14)** So let's review the answers to this part of the [[Capstone]].
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/diving-into-an-email-header?u=76281980&t=18)** You are to go to MX Toolbox and upload the email header, and I pasted it and then said analyze header, and I'll open it in a new tab.
 >
@@ -2189,15 +2159,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), dns (4), [[Capstone]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Capstone]] (1)
 > **Env Vars:** dmarc (5), dns (4), dkim (3)
 > **UI Navigation:** scroll down (2), go to (1), click on (1)
 > **Definitions:** is a  (2), is an  (1)
 > **URLs:** [cpanel.net](https://cpanel.net) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Verifying IP blocklists
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/verifying-ip-blocklists?u=76281980)
+#### [Verifying IP blocklists](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/verifying-ip-blocklists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2263,7 +2232,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), web (2), next (1), data (1), [[Security]] (1)
 > **UI Navigation:** go to (3), scroll down (2)
 > **CLI Commands:** find (1)
 > **URLs:** [spamhaus.org](https://spamhaus.org) (1)
@@ -2275,8 +2243,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Guarding social media
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980)
+#### [Guarding social media](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2298,11 +2265,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980&t=50)** Although in some cases an introduction can be made via a third party many times people simply accept the invitation.
 >
-> **[0:59](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980&t=59)** Another key area of concern is the risk to privacy.
+> **[0:59](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980&t=59)** Another key area of concern is the risk to [[Privacy]].
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980&t=63)** Innocent mistakes can lead to data exposure.
 >
-> **[1:08](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980&t=68)** Now, sharing personal or business information on social media may inadvertently provide cyber criminals with the necessary details to conduct targeted phishing attacks.
+> **[1:08](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980&t=68)** Now, sharing personal or business information on social media may inadvertently provide cyber criminals with the necessary details to conduct targeted [[Phishing]] attacks.
 >
 > **[1:19](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980&t=79)** In addition, posting about company activities and sharing proprietary information or trade secrets can lead to intellectual property theft or unauthorized use of your content.
 >
@@ -2356,13 +2323,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (3), [[Privacy]] (2), web (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Phishing]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing footprinting reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980)
+#### [Writing footprinting reports](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2382,7 +2348,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=57)** Results include competitive intelligence, how much information was found, and what did it reveal.
 >
-> **[1:05](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=65)** Did you do any Google hacking?
+> **[1:05](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=65)** Did you do any [[Google]] hacking?
 >
 > **[1:07](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=67)** Were you able to see hidden data or backdoor into a site?
 >
@@ -2424,7 +2390,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=199)** Now, most are free applications, so it's important that we take steps to protect the passwords, and also instruct employees to think before posting.
 >
-> **[3:30](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=210)** I'm at Facebook's information site where you can learn more about Facebook's privacy policy and ways to lock down your site.
+> **[3:30](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=210)** I'm at Facebook's information site where you can learn more about Facebook's [[Privacy]] policy and ways to lock down your site.
 >
 > **[3:38](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/writing-footprinting-reports?u=76281980&t=218)** Now, let's test your knowledge.
 >
@@ -2434,7 +2400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (4), [[Google]] (3), [[Search]] (2), business (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Privacy]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** dns (1)
 > **Documentation:** the documentation (1)
@@ -2442,8 +2408,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Countering footprinting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/countering-footprinting?u=76281980)
+#### [Countering footprinting](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/countering-footprinting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2511,7 +2476,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/countering-footprinting?u=76281980&t=214)** If an employee insists on posting images, disable the geotagging feature on the phone.
 >
-> **[3:41](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/countering-footprinting?u=76281980&t=221)** Some steps you can take to make your network less vulnerable include the following, maintain patch and configuration management on all systems, monitor for scanning activity and specific footprinting patterns, configure devices to reject any footprinting request, shut down all unnecessary services, all services and devices should only respond to authorized devices by using strong authentication methods, keep access control lists up to date and segment the network to prevent reconnaissance on the private network, and don't overlook physical security, make sure you properly dispose of all printed information.
+> **[3:41](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/countering-footprinting?u=76281980&t=221)** Some steps you can take to make your network less vulnerable include the following, maintain patch and [[Configuration Management]] on all systems, monitor for scanning activity and specific footprinting patterns, configure devices to reject any footprinting request, shut down all unnecessary services, all services and devices should only respond to authorized devices by using strong authentication methods, keep access control lists up to date and segment the network to prevent reconnaissance on the private network, and don't overlook physical security, make sure you properly dispose of all printed information.
 >
 > **[4:25](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/countering-footprinting?u=76281980&t=265)** Now, let's test your knowledge.
 >
@@ -2521,7 +2486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Search]] (2), generic (1), data (1), web (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (2), such as (1)
 > **URLs:** [disney.com](https://disney.com) (2)
@@ -2530,8 +2495,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2539,7 +2503,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980&t=2)** In this course, we learned how to use high and low tech methods to scout our target.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980&t=8)** We began by uncovering information using competitive intelligence, Google hacking, email, and website footprinting.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980&t=8)** We began by uncovering information using competitive intelligence, [[Google]] hacking, email, and website footprinting.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980&t=17)** We then unleashed the power of open-source intelligence tools and outlined how DNS along with utilities such as pinging, tracert, and dig can help us in our search.
 >
@@ -2547,9 +2511,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980&t=36)** If you're interested in learning more, please check out the library where new courses are added every day.
 >
-> **[0:44](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980&t=44)** If you'd like to learn more about packet analysis, please check out my Wireshark series, "Improve Your Wireshark Skills."
+> **[0:44](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980&t=44)** If you'd like to learn more about packet analysis, please check out my [[Wireshark]] series, "Improve Your Wireshark Skills."
 >
-> **[0:53](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980&t=53)** Any course in the Ethical Hacking series will be well worth your time and you might want to see what my colleague, Malcolm Shore, has for you on his homepage.
+> **[0:53](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980&t=53)** Any course in the [[Ethical Hacking]] series will be well worth your time and you might want to see what my colleague, Malcolm Shore, has for you on his homepage.
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/next-steps?u=76281980&t=64)** Keep learning.
 >
@@ -2557,7 +2521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (2), [[Google]] (1), power (1), open-source (1), dns (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Google]] (1), [[Ethical Hacking]] (1)
 > **Env Vars:** dns (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

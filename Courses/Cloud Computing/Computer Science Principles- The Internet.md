@@ -86,22 +86,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980&t=0)** - Humans have used various forms of communication throughout history.
+> **[0:00](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980&t=0)** - Humans have used various [[Forms]] of communication throughout history.
 >
 > **[0:05](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980&t=5)** Communication is the basis of how we record history, entertain each other, share our deepest thoughts, preserve memories, explore science, and explore our world.
 >
-> **[0:15](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980&t=15)** Communication extends from lingual communication through speech to written communication through the alphabet and the written word to digital communication using binary values to abstract object and concepts from the real world.
+> **[0:15](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980&t=15)** Communication extends from lingual communication through speech to written communication through the alphabet and the written [[Microsoft Word|word]] to digital communication using binary values to abstract object and concepts from the real world.
 >
 > **[0:29](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980&t=29)** Digital information breaks everything down into binary bits, tiny values of either on or off, or ones and zeros.
 >
 > **[0:39](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980&t=39)** Information can be broken down into these binary bits and shared everywhere.
 >
-> **[0:44](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980&t=44)** But in order for that to work, a system needs to be created that governs how all the computers, servers, hardware, and software work together.
+> **[0:44](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980&t=44)** But in order for that to work, a system needs to be created that governs how all the computers, servers, [[Hardware]], and software work together.
 >
 > **[0:54](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980&t=54)** For decades, computers have been able to communicate with each other over networks, but for a long time, and still today, some of those networks are proprietary, meaning that they can only communicate with others that are on the same network type.
 >
@@ -125,8 +124,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - humans (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/computer-science-principles-the-internet/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/computer-science-principles-the-internet/what-you-should-know?u=76281980&t=30)** These bits are the messages that are transmitted over the internet, using the technologies and protocols that we will explore.
 >
-> **[0:38](https://www.linkedin.com/learning/computer-science-principles-the-internet/what-you-should-know?u=76281980&t=38)** This course doesn't require any special hardware or software to complete.
+> **[0:38](https://www.linkedin.com/learning/computer-science-principles-the-internet/what-you-should-know?u=76281980&t=38)** This course doesn't require any special [[Hardware]] or software to complete.
 >
 > **[0:42](https://www.linkedin.com/learning/computer-science-principles-the-internet/what-you-should-know?u=76281980&t=42)** If you want to try out any of the concept in this course, all you need is a computer connected to the internet and a web browser.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Programming]] (1), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - this (1)
 
@@ -159,8 +157,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How the Internet was born
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980)
+#### [How the Internet was born](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980&t=82)** Using a NeXT computer, Berners-Lee created the first web browser that allowed a user to navigate through pages of information using links to connect phrases to additional pages.
 >
-> **[1:35](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980&t=95)** With this browser, Berners-Lee also created the Hypertext Transfer Protocol, or HTTP, and the Hypertext Markup Language, HTML.
+> **[1:35](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980&t=95)** With this browser, Berners-Lee also created the Hypertext Transfer Protocol, or HTTP, and the Hypertext Markup Language, [[HTML]].
 >
 > **[1:46](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980&t=106)** He also created the very first web server, called httpd.
 >
@@ -220,13 +217,13 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980&t=238)** Over the course of the last 20 years, Netscape technology evolved into the web browsers that we use every day, on our own computers, tablets, and phones.
 >
-> **[4:07](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980&t=247)** Today, companies like Google, Microsoft, Apple, Opera, Mozilla, and others, expand and redefine how browsers work and how applications function on the internet.
+> **[4:07](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980&t=247)** Today, companies like [[Google]], [[Microsoft]], Apple, Opera, Mozilla, and others, expand and redefine how browsers work and how applications function on the internet.
 >
 > **[4:21](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980&t=261)** But even with all the changes that have been made, fundamentally, the internet is based on the designs that were created almost 50 years ago and will continue to scale and evolve into the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (11), [[HTML]] (4), application (2), next (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** html (4), w3c (3), arpanet (2), tcp (2), cern (1)
 > **Documentation:** w3c (3)
 > **Definitions:** is a  (1), is called (1)
@@ -234,8 +231,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - the (1)
 
-#### Who manages the Internet?
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980)
+#### [Who manages the Internet?](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,7 +279,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=138)** International sites have their own designation.
 >
-> **[2:22](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=142)** For example, take the website for Google.
+> **[2:22](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=142)** For example, take the website for [[Google]].
 >
 > **[2:24](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=144)** In the US, it is [google.com](https://google.com), but in Canada it is google.ca.
 >
@@ -293,11 +289,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=160)** It just happens differently than what we think of in the government.
 >
-> **[2:45](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=165)** Take something like HTML.
+> **[2:45](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=165)** Take something like [[HTML]].
 >
 > **[2:47](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=167)** HTML is the language that web pages and web browsers use to communicate and structure information.
 >
-> **[2:54](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=174)** There are a few international agencies called standards bodies, like the W3C and WHATWG, that are groups of people that work to develop a universally adopted set of rules called standards that software and hardware companies can rely on to build products that will work with the technology.
+> **[2:54](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=174)** There are a few international agencies called standards bodies, like the W3C and WHATWG, that are groups of people that work to develop a universally adopted set of rules called standards that software and [[Hardware]] companies can rely on to build [[Microsoft Products|products]] that will work with the technology.
 >
 > **[3:14](https://www.linkedin.com/learning/computer-science-principles-the-internet/who-manages-the-internet?u=76281980&t=194)** Many of these standards bodies have individuals from private companies, and they work to add new features to languages and rules of the Internet.
 >
@@ -315,7 +311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), feature (3), [[HTML]] (2), web (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[HTML]] (2), [[Hardware]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** icann (2), html (2), ceo (1), tcpip (1), iata (1)
 > **Definitions:** known as (3), stands for (1)
 > **Documentation:** w3c (1), specification (1), spec (1)
@@ -329,8 +325,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sending and receiving information
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/sending-and-receiving-information?u=76281980)
+#### [Sending and receiving information](https://www.linkedin.com/learning/computer-science-principles-the-internet/sending-and-receiving-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -380,14 +375,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - everything (1)
 
-#### The Internet Protocol and IP address
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-internet-protocol-and-ip-address?u=76281980)
+#### [The Internet Protocol and IP address](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-internet-protocol-and-ip-address?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -448,8 +441,7 @@ created: 2026-05-02
 > **Env Vars:** iana (1)
 > **Speakers:** - when (1)
 
-#### Scaling up the Internet from IPv4 to IPv6
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/scaling-up-the-internet-from-ipv4-to-ipv6?u=76281980)
+#### [Scaling up the Internet from IPv4 to IPv6](https://www.linkedin.com/learning/computer-science-principles-the-internet/scaling-up-the-internet-from-ipv4-to-ipv6?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -485,7 +477,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/computer-science-principles-the-internet/scaling-up-the-internet-from-ipv4-to-ipv6?u=76281980&t=97)** If you took a smartphone and put that in your hand, and had it represent the number of IPV4 addresses, the size of IPV6 addresses would be the size of our solar system.
 >
-> **[1:49](https://www.linkedin.com/learning/computer-science-principles-the-internet/scaling-up-the-internet-from-ipv4-to-ipv6?u=76281980&t=109)** Now during the transition from IPV4 to IPV6, devices will migrate over time as the entire world of network hardware and computer software is updated.
+> **[1:49](https://www.linkedin.com/learning/computer-science-principles-the-internet/scaling-up-the-internet-from-ipv4-to-ipv6?u=76281980&t=109)** Now during the transition from IPV4 to IPV6, devices will migrate over time as the entire world of network [[Hardware]] and computer software is updated.
 >
 > **[2:00](https://www.linkedin.com/learning/computer-science-principles-the-internet/scaling-up-the-internet-from-ipv4-to-ipv6?u=76281980&t=120)** New operating systems support something called dual stack, where both IPV4 and IPV6 are supported at the same time.
 >
@@ -527,15 +519,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Env Vars:** ipv6 (9), ipv4 (6), ipv5 (1), ietf (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### The Domain Name Server and DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980)
+#### [The Domain Name Server and DNS](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=101)** You can completely skip this process if you want to.
 >
-> **[1:45](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=105)** For instance, if you wanted to reach [google.com](https://google.com) you could simply enter in the IP address directly, but remembering [google.com](https://google.com) is a whole lot easier than remembering the IP address.
+> **[1:45](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=105)** For instance, if you wanted to reach [[[Google]].com](https://google.com) you could simply enter in the IP address directly, but remembering [google.com](https://google.com) is a whole lot easier than remembering the IP address.
 >
 > **[1:58](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=118)** The domain name is broken down into a few parts, the last part of the domain name is called the top-level domain, these are managed by the IANA, or Internet Assigned Numbers Authority, so for my website, www.[dougwinnie.com](https://dougwinnie.com) the .com is the top-level domain.
 >
@@ -571,7 +562,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=154)** Next is the host name, or dougwinnie this is the name of the collection of servers under the dougwinnie name.
 >
-> **[2:43](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=163)** A domain can have multiple servers under it, for instance, it can have a web server, an e-mail server, file transfer server, or multiple other web servers.
+> **[2:43](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=163)** A domain can have multiple servers under it, for instance, it can have a web server, an e-mail server, file transfer server, or multiple other [[Web Servers]].
 >
 > **[2:54](https://www.linkedin.com/learning/computer-science-principles-the-internet/the-domain-name-server-and-dns?u=76281980&t=174)** To help organize these, a site has a subdomain, so again, in the website name, www.[dougwinnie.com](https://dougwinnie.com) the www is the subdomain representing the web server, which has a unique IP address associated with it.
 >
@@ -581,15 +572,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (7), web (3), [[Google]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Web Servers]] (1)
 > **URLs:** [dougwinnie.com](https://dougwinnie.com) (5), [google.com](https://google.com) (2), [bbc.co](https://bbc.co) (1)
 > **Env Vars:** dns (7), iana (1)
 > **Definitions:** is a  (3), is called (2)
 > **Analogies:** for instance (2), for example (1)
 > **Speakers:** - ip (1)
 
-#### Routers and directing requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/routers-and-directing-requests?u=76281980)
+#### [Routers and directing requests](https://www.linkedin.com/learning/computer-science-principles-the-internet/routers-and-directing-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,7 +613,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/computer-science-principles-the-internet/routers-and-directing-requests?u=76281980&t=106)** This is a set of commands that defines how the router works.
 >
-> **[1:50](https://www.linkedin.com/learning/computer-science-principles-the-internet/routers-and-directing-requests?u=76281980&t=110)** For instance, let's say that you're working in banking and you need to have a backup connection to the Internet if your main connection goes down.
+> **[1:50](https://www.linkedin.com/learning/computer-science-principles-the-internet/routers-and-directing-requests?u=76281980&t=110)** For instance, let's say that you're working in [[Banking]] and you need to have a backup connection to the Internet if your main connection goes down.
 >
 > **[1:57](https://www.linkedin.com/learning/computer-science-principles-the-internet/routers-and-directing-requests?u=76281980&t=117)** You might have a large connection that manages most of your traffic and then a smaller connection as a backup if the larger one goes down.
 >
@@ -633,7 +623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), game (1), [[Banking]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -641,8 +631,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - routers (1)
 
-#### Packets and fault tolerance
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980)
+#### [Packets and fault tolerance](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -672,11 +661,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=96)** Something you can do to see how this works is to ping the server.
 >
-> **[1:40](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=100)** This is a common command in Windows, Linux, and Mac OS that sends test packets to a server, and then requests the server to send the information back.
+> **[1:40](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=100)** This is a common command in [[Windows]], [[Linux]], and Mac OS that sends test packets to a server, and then requests the server to send the information back.
 >
 > **[1:51](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=111)** Using a ping, you can test to see how long it takes to reach, or ping, the server, and if any of the packets are lost along the way.
 >
-> **[2:00](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=120)** So, you could ping [Google.com](https://Google.com), and it will send a handful of packets to [Google.com](https://Google.com), resolving the domain to the IP address.
+> **[2:00](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=120)** So, you could ping [[[Google]].com](https://Google.com), and it will send a handful of packets to [Google.com](https://Google.com), resolving the domain to the IP address.
 >
 > **[2:09](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=129)** It then sends a series of packets, in this case four, each of which are 32 bytes in size.
 >
@@ -688,13 +677,13 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=157)** Because of how the network is configured, if there was a massive network disruption from a natural disaster, or some other event, the network is able to compensate for it and re-route packets in different ways to get the information to the destination.
 >
-> **[2:52](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=172)** Depending on the magnitude of the outage, however, that could mean that the rest of the network, or certain areas, might be overwhelmed due to the additional traffic it needs to manage.
+> **[2:52](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=172)** Depending on the magnitude of the outage, however, that could mean that the [[Representational State Transfer (REST)|rest]] of the network, or certain areas, might be overwhelmed due to the additional traffic it needs to manage.
 >
 > **[3:03](https://www.linkedin.com/learning/computer-science-principles-the-internet/packets-and-fault-tolerance?u=76281980&t=183)** As a system is able to recover, and come back online, the network can then resume normal operations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), node (3), data (2), [[Google]] (2), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Windows]] (1), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (3)
 > **URLs:** [google.com](https://google.com) (2)
 > **Definitions:** is a  (1), is called (1)
@@ -702,8 +691,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - messages (1)
 
-#### Reliability and TCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/reliability-and-tcp?u=76281980)
+#### [Reliability and TCP](https://www.linkedin.com/learning/computer-science-principles-the-internet/reliability-and-tcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,7 +731,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Env Vars:** tcp (10), udp (1)
 > **Speakers:** - when (1)
 
@@ -752,8 +739,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying a server with URLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/identifying-a-server-with-urls?u=76281980)
+#### [Identifying a server with URLs](https://www.linkedin.com/learning/computer-science-principles-the-internet/identifying-a-server-with-urls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,7 +751,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/computer-science-principles-the-internet/identifying-a-server-with-urls?u=76281980&t=18)** For a company, you will typically have a single domain name, like [dougwinnie.com](https://dougwinnie.com), but you may have multiple subdomains.
 >
-> **[0:26](https://www.linkedin.com/learning/computer-science-principles-the-internet/identifying-a-server-with-urls?u=76281980&t=26)** Subdomains can do a few things: One thing they can do is link to specific web servers.
+> **[0:26](https://www.linkedin.com/learning/computer-science-principles-the-internet/identifying-a-server-with-urls?u=76281980&t=26)** Subdomains can do a few things: One thing they can do is link to specific [[Web Servers]].
 >
 > **[0:31](https://www.linkedin.com/learning/computer-science-principles-the-internet/identifying-a-server-with-urls?u=76281980&t=31)** For instance, www.[dougwinnie.com](https://dougwinnie.com) is pointing to a specific web server.
 >
@@ -811,7 +797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (11), web (4)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **Env Vars:** dns (11), url (9), cname (4)
 > **URLs:** [example.com](https://example.com) (5), [dougwinnie.com](https://dougwinnie.com) (2)
 > **Versions:** 123.45.67 (2)
@@ -819,8 +805,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### HTTP and requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/http-and-requests?u=76281980)
+#### [HTTP and requests](https://www.linkedin.com/learning/computer-science-principles-the-internet/http-and-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -866,7 +851,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/computer-science-principles-the-internet/http-and-requests?u=76281980&t=121)** It just, well, runs.
 >
-> **[2:03](https://www.linkedin.com/learning/computer-science-principles-the-internet/http-and-requests?u=76281980&t=123)** The daemon for most web servers is called the HTTPD program, or HTTP daemon.
+> **[2:03](https://www.linkedin.com/learning/computer-science-principles-the-internet/http-and-requests?u=76281980&t=123)** The daemon for most [[Web Servers]] is called the HTTPD program, or HTTP daemon.
 >
 > **[2:11](https://www.linkedin.com/learning/computer-science-principles-the-internet/http-and-requests?u=76281980&t=131)** This program does one thing, listens for HTTP requests that are routed to the server.
 >
@@ -878,7 +863,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/computer-science-principles-the-internet/http-and-requests?u=76281980&t=159)** So when you send a get request you're asking the server for a webpage.
 >
-> **[2:43](https://www.linkedin.com/learning/computer-science-principles-the-internet/http-and-requests?u=76281980&t=163)** The server daemon hears your request for a specific page, like index.html on www.[dougwinnie.com](https://dougwinnie.com) host.
+> **[2:43](https://www.linkedin.com/learning/computer-science-principles-the-internet/http-and-requests?u=76281980&t=163)** The server daemon hears your request for a specific page, like index.[[HTML]] on www.[dougwinnie.com](https://dougwinnie.com) host.
 >
 > **[2:53](https://www.linkedin.com/learning/computer-science-principles-the-internet/http-and-requests?u=76281980&t=173)** When the server finds the resource it then sends information back using two sections.
 >
@@ -906,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), [[HTML]] (2), data (2), dns (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Web Servers]] (1)
 > **Env Vars:** http (11), post (3), url (2), tcp (1), dns (1)
 > **Definitions:** is called (3), is a  (2), means that (1)
 > **API Endpoints:** get  (2), post  (2)
@@ -915,8 +900,7 @@ created: 2026-05-02
 > **File Paths:** index.html (1)
 > **UI Navigation:** go to (1)
 
-#### Hypertext and HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980)
+#### [Hypertext and HTML](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +914,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=26)** But in the digital world these concepts are a little limited.
 >
-> **[0:30](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=30)** When you are reading about a topic you might be at word or phrase you want to know more about.
+> **[0:30](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=30)** When you are reading about a topic you might be at [[Microsoft Word|word]] or phrase you want to know more about.
 >
 > **[0:35](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=35)** It would be great if you could just avoid having to go to a table of contents, or an index, and just click it to jump right to that information.
 >
@@ -942,7 +926,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=63)** But instead of having that information on this specific page I can create unique pages for each of these fruit.
 >
-> **[1:12](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=72)** The first page is called the index page, and on the server it is called index.html.
+> **[1:12](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=72)** The first page is called the index page, and on the server it is called index.[[HTML]].
 >
 > **[1:19](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=79)** For other pages I'll give them all a unique name, like apple.html, pear.html, and banana.html.
 >
@@ -994,13 +978,13 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=258)** Over the years HTML has evolved by adding new capabilities, and we are currently at HTML version five, or HTML5.
 >
-> **[4:27](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=267)** More changes and additions are being made to HTML today to support mobile devices, databases, and to tie in with more features of your hardware.
+> **[4:27](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=267)** More changes and additions are being made to HTML today to support mobile devices, [[Databases]], and to tie in with more features of your [[Hardware]].
 >
 > **[4:36](https://www.linkedin.com/learning/computer-science-principles-the-internet/hypertext-and-html?u=76281980&t=276)** But at the most basic level HTML's the language that lets us all link information together to give us a network of data on a server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (14), [[Microsoft Word|Word]] (3), [[Databases]] (1), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (14), [[Microsoft Word|Word]] (3), [[Databases]] (1), [[Hardware]] (1)
 > **Env Vars:** html (8), href (2), html5 (1)
 > **File Paths:** apple.html (3), index.html (1), pear.html (1), banana.html (1)
 > **Definitions:** is called (2), is a  (2), is an  (1)
@@ -1009,8 +993,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - when (1)
 
-#### Remembering requests with cookies
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/remembering-requests-with-cookies?u=76281980)
+#### [Remembering requests with cookies](https://www.linkedin.com/learning/computer-science-principles-the-internet/remembering-requests-with-cookies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,7 +1047,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), next (1)
 > **UI Navigation:** go to (4), open the (1)
 > **Analogies:** for instance (3), just like (1)
 > **CLI Commands:** make (3)
@@ -1073,8 +1055,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - each (1)
 
-#### Securing requests with SSL and TLS
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/securing-requests-with-ssl-and-tls?u=76281980)
+#### [Securing requests with SSL and TLS](https://www.linkedin.com/learning/computer-science-principles-the-internet/securing-requests-with-ssl-and-tls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1122,7 +1103,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), data (3), web (1)
 > **Env Vars:** tls (5), ssl (2), tcp (1)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** just like (1)
@@ -1133,22 +1113,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Caesar's cypher and keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980)
+#### [Caesar's cypher and keys](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=0)** - Messages that are transmitted over the internet using protocols like TCPIP, are visible to the rest of the network.
+> **[0:00](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=0)** - Messages that are transmitted over the internet using protocols like TCPIP, are visible to the [[Representational State Transfer (REST)|rest]] of the network.
 >
 > **[0:07](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=7)** So any message could be intercepted and read as you request and send information.
 >
-> **[0:14](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=14)** Servers that handle sensitive information or products that want to offer greater encryption, such as messaging apps, online shopping services, and banking applications, need to offer a way to encrypt.
+> **[0:14](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=14)** Servers that handle sensitive information or [[Microsoft Products|products]] that want to offer greater encryption, such as messaging apps, online shopping services, and [[Banking]] applications, need to offer a way to encrypt.
 >
 > **[0:27](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=27)** But making messages secret isn't a new thing.
 >
 > **[0:30](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=30)** It has been required for millennia.
 >
-> **[0:33](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=33)** In fact, one of the earliest forms of encryption is called Caesar's Cipher.
+> **[0:33](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=33)** In fact, one of the earliest [[Forms]] of encryption is called Caesar's Cipher.
 >
 > **[0:37](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=37)** It was created by Julius Caesar during the time of the Roman Empire.
 >
@@ -1160,7 +1139,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=51)** If you take the alphabet and put it on a flip dial, you have a collection of 26 letters.
 >
-> **[0:58](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=58)** For each letter in a word, you'll add a dial.
+> **[0:58](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=58)** For each letter in a [[Microsoft Word|word]], you'll add a dial.
 >
 > **[1:00](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980&t=60)** Through flipping the dial, you can spell a message.
 >
@@ -1190,8 +1169,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - messages (1)
 
-#### Improving security with longer keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/improving-security-with-longer-keys?u=76281980)
+#### [Improving security with longer keys](https://www.linkedin.com/learning/computer-science-principles-the-internet/improving-security-with-longer-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1251,15 +1229,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), power (1), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** aes (2), tcp (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - a (1)
 
-#### Symmetric and asymmetric keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/symmetric-and-asymmetric-keys?u=76281980)
+#### [Symmetric and asymmetric keys](https://www.linkedin.com/learning/computer-science-principles-the-internet/symmetric-and-asymmetric-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,7 +1263,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/computer-science-principles-the-internet/symmetric-and-asymmetric-keys?u=76281980&t=71)** But the receiver with the second key can be used to decrypt all the messages.
 >
-> **[1:16](https://www.linkedin.com/learning/computer-science-principles-the-internet/symmetric-and-asymmetric-keys?u=76281980&t=76)** Cryptography and advanced mathematics make it possible to have a single master key that can be used to decrypt multiple messages, while having other multiple keys that can be used to encrypt content.
+> **[1:16](https://www.linkedin.com/learning/computer-science-principles-the-internet/symmetric-and-asymmetric-keys?u=76281980&t=76)** [[Cryptography]] and advanced mathematics make it possible to have a single master key that can be used to decrypt multiple messages, while having other multiple keys that can be used to encrypt content.
 >
 > **[1:28](https://www.linkedin.com/learning/computer-science-principles-the-internet/symmetric-and-asymmetric-keys?u=76281980&t=88)** These are called Public Keys, and Private Keys.
 >
@@ -1301,7 +1277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Cryptography]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (2), is a  (1)
 > **Best Practices:** the key is (2)
@@ -1313,8 +1289,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Goodbye
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/goodbye?u=76281980)
+#### [Goodbye](https://www.linkedin.com/learning/computer-science-principles-the-internet/goodbye?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1334,7 +1309,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/computer-science-principles-the-internet/goodbye?u=76281980&t=68)** The web server has a program, a DAEMON, that is constantly listening for HTTP requests, and provides information back to the sender.
 >
-> **[1:16](https://www.linkedin.com/learning/computer-science-principles-the-internet/goodbye?u=76281980&t=76)** Content on websites are stored on pages in the HTML language that uses tags to give constant structure and meaning that is read and laid out by a web browser for the user to view and click to connect to other pages of information.
+> **[1:16](https://www.linkedin.com/learning/computer-science-principles-the-internet/goodbye?u=76281980&t=76)** Content on websites are stored on pages in the [[HTML]] language that uses tags to give constant structure and meaning that is read and laid out by a web browser for the user to view and click to connect to other pages of information.
 >
 > **[1:31](https://www.linkedin.com/learning/computer-science-principles-the-internet/goodbye?u=76281980&t=91)** To secure private information that is transmitted over the internet, SSL and TLS are used to create secure connections to servers.
 >
@@ -1346,7 +1321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), dns (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** http (2), tcp (1), ipv6 (1), dns (1), daemon (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)

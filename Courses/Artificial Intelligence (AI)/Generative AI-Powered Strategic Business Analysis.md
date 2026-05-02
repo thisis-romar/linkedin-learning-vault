@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hands-on AI-powered tactics for business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/intro-video-to-be-renamed-24300527?u=76281980)
+#### [Hands-on AI-powered tactics for business analysis](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/intro-video-to-be-renamed-24300527?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/intro-video-to-be-renamed-24300527?u=76281980&t=9)** What if you could move beyond just reacting to change and start driving it?
 >
-> **[0:14](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/intro-video-to-be-renamed-24300527?u=76281980&t=14)** Imagine leveraging the power of generative AI to not only adapt, but to innovate and lead.
+> **[0:14](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/intro-video-to-be-renamed-24300527?u=76281980&t=14)** Imagine leveraging the power of [[Generative AI]] to not only adapt, but to innovate and lead.
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/intro-video-to-be-renamed-24300527?u=76281980&t=22)** That's the opportunity we have in front of us, redefining the role of business analysis in shaping strategic success.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Generative AI]] (2), power (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [vincent] (1)
 
@@ -109,12 +108,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is strategy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980)
+#### [What is strategy?](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980&t=0)** - [Instructor] You've probably heard the word "strategy" thrown around a lot, and maybe even used it yourself in different contexts.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980&t=0)** - [Instructor] You've probably heard the [[Microsoft Word|word]] "strategy" thrown around a lot, and maybe even used it yourself in different contexts.
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980&t=7)** I first learned about strategy playing the board game Risk, a game I'm no longer allowed to play with my friends and family, though that's a story for another time.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980&t=103)** So having a clear understanding of what strategy is and why it matters is key to being able to make recommendations that align with those big picture goals.
 >
-> **[1:54](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980&t=114)** For example, if the strategy is to become a market leader in sustainable products, then every choice, from sourcing materials to marketing, needs to support that direction.
+> **[1:54](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980&t=114)** For example, if the strategy is to become a market leader in sustainable [[Microsoft Products|products]], then every choice, from sourcing materials to marketing, needs to support that direction.
 >
 > **[2:05](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980&t=125)** You can explore this further in the course, "Leveraging Business Analysis in ESG."
 >
@@ -168,14 +166,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), game (3), [[Microsoft Word|Word]] (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (2), for example (1)
 > **Env Vars:** ceo (1), esg (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### The evolution of strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980)
+#### [The evolution of strategy](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=26)** In today's digital first-world, where customer preferences shift overnight and new competitors emerge seemingly out of nowhere, businesses can't afford to be locked into long-term plans that don't allow for flexibility.
 >
-> **[0:40](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=40)** Today's strategies are much more agile and adaptable.
+> **[0:40](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=40)** Today's strategies are much more [[Agile Development|agile]] and adaptable.
 >
 > **[0:43](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=43)** Instead of that rigid roadmap, think of strategy now as more of a GPS system where you're constantly recalculating the best route as you get new information or hit traffic.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=124)** It's not just about profit anymore, it's about making a positive impact.
 >
-> **[2:09](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=129)** Modern strategies are often centered on broader goals, like sustainability, diversity, or customer trust.
+> **[2:09](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=129)** Modern strategies are often centered on broader goals, like [[Sustainability]], diversity, or customer trust.
 >
 > **[2:17](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=137)** This shift is driven partly by customer expectations, but also by employees and stakeholders who want to align with companies that share their values.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=158)** You're not just providing data, you're bringing insights that help shape the direction of the organization.
 >
-> **[2:44](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=164)** And with tools like generative AI, you can deliver insights faster and support better, more adaptive decision-making.
+> **[2:44](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=164)** And with tools like [[Generative AI]], you can deliver insights faster and support better, more adaptive [[Decision-Making]].
 >
 > **[2:52](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/the-evolution-of-strategy-24507000?u=76281980&t=172)** As we go further, we'll explore how to use AI tools that let you respond to realtime data and develop insights that align with these modern strategies.
 >
@@ -233,15 +230,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (5), [[Agile Development|Agile]] (3), business (3), next (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Sustainability]] (1), [[Generative AI]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Analogies:** imagine (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modern approaches to strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980)
+#### [Modern approaches to strategy](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,9 +253,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=28)** This has led to a shift towards methodologies that focus on adaptability, agility, and flexibility.
 >
-> **[0:35](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=35)** Two of the most influential of these are Agile strategy and scenario planning.
+> **[0:35](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=35)** Two of the most influential of these are [[Agile Development|Agile]] strategy and scenario planning.
 >
-> **[0:40](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=40)** Agile strategy borrows its principles from [[Agile Software Development]].
+> **[0:40](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=40)** Agile strategy borrows its principles from [[[[Agile Software Development]]]].
 >
 > **[0:44](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=44)** It's all about working in shorter cycles, testing ideas, getting feedback, and making adjustments quickly.
 >
@@ -281,11 +277,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=97)** You're more prepared to pivot depending on what the future brings.
 >
-> **[1:42](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=102)** We talk about scenario planning in the courses "[[Learning ChatGPT for Business Analysis]]" and "Learning Google Gemini for Business Analysis."
+> **[1:42](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=102)** We talk about scenario planning in the courses "[[Learning [[ChatGPT]] for Business Analysis]]" and "Learning [[Google Gemini]] for Business Analysis."
 >
 > **[1:52](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=112)** Now, where does AI fit in?
 >
-> **[1:54](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=114)** AI is a powerful ally in both Agile strategy and scenario planning because it provides real-time insights and predictive analytics.
+> **[1:54](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=114)** AI is a powerful ally in both Agile strategy and scenario planning because it provides [[Real-Time]] insights and [[Predictive Analytics]].
 >
 > **[2:04](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=124)** Instead of basing decisions on historical data or gut feeling, AI lets business analysts spot trends and risks faster.
 >
@@ -305,19 +301,18 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=176)** For example, if a new competitor enters the market, you might use AI to analyze customer sentiment, assess market impacts, and suggest a pivot faster than would've been possible before.
 >
-> **[3:09](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=189)** By adopting these flexible methodologies and using tools like generative AI, business analysts are now key players in shaping a strategy that can keep up with change.
+> **[3:09](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=189)** By adopting these flexible methodologies and using tools like [[Generative AI]], business analysts are now key players in shaping a strategy that can keep up with change.
 >
 > **[3:20](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/modern-approaches-to-strategy-24504283?u=76281980&t=200)** In this course, we'll continue to dig into the practical steps to apply Agile and scenario planning, making you more adaptive, proactive, and effective in contributing to the strategy process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Agile Development|Agile]] (5), ai (5), data (3), teams (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Predictive Analytics]] (2), [[Agile Software Development]] (1), [[ChatGPT]] (1), [[Google Gemini]] (1)
 > **Analogies:** for example (2), think of it as (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How business analysis can support the "new strategy"
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980)
+#### [How business analysis can support the "new strategy"](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=20)** Let's start by looking at what this new strategy approach really means.
 >
-> **[0:25](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=25)** With companies adopting methods like Agile and scenario planning, strategies are no longer set in stone.
+> **[0:25](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=25)** With companies adopting methods like [[Agile Development|Agile]] and scenario planning, strategies are no longer set in stone.
 >
 > **[0:32](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=32)** Businesses need to be able to pivot and sometimes at a moment's notice.
 >
@@ -343,11 +338,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=55)** We are the ones who keep a finger on the pulse of what's actually happening within the company and within the market.
 >
-> **[1:02](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=62)** We provide real-time insights that help leaders make more informed decisions, and most importantly, stay aligned with the bigger picture.
+> **[1:02](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=62)** We provide [[Real-Time]] insights that help leaders make more informed decisions, and most importantly, stay aligned with the bigger picture.
 >
 > **[1:12](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=72)** Think of us as that bridge between high-level strategy and day-to-day operations.
 >
-> **[1:18](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=78)** And through analysis of data, finding patterns and forecasting trends, we help ensure that every decision and adjustment supports your organization's main goals.
+> **[1:18](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=78)** And through analysis of data, finding patterns and [[Forecasting]] trends, we help ensure that every decision and adjustment supports your organization's main goals.
 >
 > **[1:29](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=89)** One of the best examples of this is using business analysis to align projects with strategic objectives.
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=99)** As an analyst, you'd gather data on customer interactions, everything from feedback to support call trends, and identify areas where the company could improve.
 >
-> **[1:50](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=110)** Then you can translate these insights into specific recommendations that align with the broader strategy, like prioritizing a project that enhances customer support response time.
+> **[1:50](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=110)** Then you can translate these insights into specific recommendations that align with the broader strategy, like prioritizing a project that enhances [[Customer Support]] response time.
 >
 > **[2:02](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-business-analysis-can-support-the-new-strategy-24296992?u=76281980&t=122)** And now with AI tools, our ability to support strategy is amplified even more.
 >
@@ -377,14 +372,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (5), ai (4), [[Agile Development|Agile]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Real-Time]] (1), [[Forecasting]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for instance (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - [instructor] (1)
 
-#### How AI enhances strategic alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-ai-enhances-strategic-alignment-24501475?u=76281980)
+#### [How AI enhances strategic alignment](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-ai-enhances-strategic-alignment-24501475?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-ai-enhances-strategic-alignment-24501475?u=76281980&t=45)** Even when engaging stakeholders were dealing with the immediate state and prior.
 >
-> **[0:51](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-ai-enhances-strategic-alignment-24501475?u=76281980&t=51)** But AI takes this a step further with predictive analytics and machine learning.
+> **[0:51](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-ai-enhances-strategic-alignment-24501475?u=76281980&t=51)** But AI takes this a step further with [[Predictive Analytics]] and machine learning.
 >
 > **[0:56](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/how-ai-enhances-strategic-alignment-24501475?u=76281980&t=56)** With these capabilities, we can now go beyond observing past trends to actually predicting what might happen next.
 >
@@ -444,14 +438,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (6), business (3), game (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1)
 > **Analogies:** picture (1), imagine (1), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating AI in strategic planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980)
+#### [Evaluating AI in strategic planning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,7 +456,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=17)** Similarly, with AI, it's essential to evaluate how, why, and where it fits into your strategy.
 >
-> **[0:25](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=25)** First, let's talk about data quality.
+> **[0:25](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=25)** First, let's talk about [[Data Quality]].
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=28)** AI relies on data, lots and lots of data, and the quality of your data will directly impact the effectiveness of any AI tool you implement.
 >
@@ -481,9 +474,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=82)** AI isn't a one-size-fits-all solution, so clarity about your goals is essential.
 >
-> **[1:27](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=87)** Are you aiming to improve customer engagement, streamline your operations, or enhance your forecasting?
+> **[1:27](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=87)** Are you aiming to improve customer engagement, streamline your operations, or enhance your [[Forecasting]]?
 >
-> **[1:34](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=94)** Each goal requires a different type of AI tool, whether it's a recommendation engine, predictive analytics, or process automation.
+> **[1:34](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=94)** Each goal requires a different type of AI tool, whether it's a recommendation engine, [[Predictive Analytics]], or process automation.
 >
 > **[1:43](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=103)** Knowing the problem helps you choose the right tool and ensures that AI adds genuine value to the strategic goals.
 >
@@ -493,7 +486,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=121)** Do you have the right skills on your team to manage and interpret AI outputs or will you need to invest in training?
 >
-> **[2:09](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=129)** Additionally, AI solutions usually need ongoing maintenance to ensure they're up-to-date and functioning optimally.
+> **[2:09](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=129)** Additionally, [[AI Solutions]] usually need ongoing maintenance to ensure they're up-to-date and functioning optimally.
 >
 > **[2:18](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=138)** Be prepared to commit to this, or you may find that AI becomes more of a drain than an asset over time.
 >
@@ -505,9 +498,9 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=166)** Building an ethical AI practice means regularly auditing your AI models, understanding where biases might creep-in, and taking steps to mitigate them.
 >
-> **[2:56](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=176)** Being proactive about ethics can protect both your company's reputation and its long-term strategic goals.
+> **[2:56](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=176)** Being proactive about [[Ethics]] can protect both your company's reputation and its long-term strategic goals.
 >
-> **[3:03](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=183)** Lastly, think about how AI will impact your organizational culture.
+> **[3:03](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=183)** Lastly, think about how AI will impact your [[Organizational Culture]].
 >
 > **[3:09](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/evaluating-ai-in-strategic-planning-24300526?u=76281980&t=189)** Implementing AI can shift how teams operate, and it's important to set realistic expectations.
 >
@@ -523,7 +516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), data (10), next (1), [[Forecasting]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[Forecasting]] (1), [[Predictive Analytics]] (1), [[AI Solutions]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), for example (1)
@@ -534,8 +527,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establishing strategic objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980)
+#### [Establishing strategic objectives](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=36)** Let's say your company's mission is to deliver innovative technology solutions.
 >
-> **[0:41](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=41)** An aligned strategic objective might be to launch three new products in the next two years that address current customer pain points.
+> **[0:41](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=41)** An aligned strategic objective might be to launch three new [[Microsoft Products|products]] in the next two years that address current customer pain points.
 >
 > **[0:49](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=49)** By aligning your objectives with the company's big picture goal, you ensure that every initiative you take on drives the organization in the right direction.
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=93)** Next, it's important to make these objectives SMART, meaning specific, measurable, achievable, relevant, and time bound.
 >
-> **[1:43](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=103)** For example, instead of saying we want to improve customer satisfaction, a smart objective would be we want to increase customer satisfaction by 15% within one year by enhancing our product quality and customer support.
+> **[1:43](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=103)** For example, instead of saying we want to improve customer satisfaction, a smart objective would be we want to increase customer satisfaction by 15% within one year by enhancing our product quality and [[Customer Support]].
 >
 > **[1:59](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980&t=119)** This specificity is crucial because it provides a clear target and a way to measure success.
 >
@@ -599,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), teams (4), [[Microsoft Products|Products]] (4), ai (4), next (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Customer Support]] (1)
 > **Analogies:** for instance (2), picture (1), for example (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
@@ -607,8 +599,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Leveraging your existing strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/leveraging-your-existing-strategy-24505140?u=76281980)
+#### [Leveraging your existing strategy](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/leveraging-your-existing-strategy-24505140?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +639,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/leveraging-your-existing-strategy-24505140?u=76281980&t=130)** This transparency can prevent confusion and keep everyone aligned with the evolving goals.
 >
-> **[2:16](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/leveraging-your-existing-strategy-24505140?u=76281980&t=136)** If your strategy has shifted to prioritize digital sales, for example, make sure everyone from marketing to sales, to customer support, understands how their role will need to adapt to support that new priority.
+> **[2:16](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/leveraging-your-existing-strategy-24505140?u=76281980&t=136)** If your strategy has shifted to prioritize digital sales, for example, make sure everyone from marketing to sales, to [[Customer Support]], understands how their role will need to adapt to support that new priority.
 >
 > **[2:30](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/leveraging-your-existing-strategy-24505140?u=76281980&t=150)** Also, remember to assess how these changes align with the company's mission and vision.
 >
@@ -670,14 +661,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), product (1), strengths (1), [[Analytics]] (1), data (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing capabilities and needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/assessing-capabilities-and-needs-24504282?u=76281980)
+#### [Assessing capabilities and needs](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/assessing-capabilities-and-needs-24504282?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +689,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/assessing-capabilities-and-needs-24504282?u=76281980&t=56)** AI can support you in this evaluation.
 >
-> **[0:59](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/assessing-capabilities-and-needs-24504282?u=76281980&t=59)** You can use AI tools to conduct audits, offering insights into where strengths lie by analyzing performance metrics across departments.
+> **[0:59](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/assessing-capabilities-and-needs-24504282?u=76281980&t=59)** You can use AI tools to conduct audits, offering insights into where strengths lie by analyzing [[Performance Metrics]] across departments.
 >
 > **[1:08](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/assessing-capabilities-and-needs-24504282?u=76281980&t=68)** Say you're aiming to optimize operational efficiency.
 >
@@ -711,7 +701,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/assessing-capabilities-and-needs-24504282?u=76281980&t=86)** Just as valuable as knowing your strengths is being aware of your weaknesses.
 >
-> **[1:30](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/assessing-capabilities-and-needs-24504282?u=76281980&t=90)** Maybe your team lacks expertise in data management, or perhaps you need new technology to support a specific strategic goal.
+> **[1:30](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/assessing-capabilities-and-needs-24504282?u=76281980&t=90)** Maybe your team lacks expertise in [[Data Management]], or perhaps you need new technology to support a specific strategic goal.
 >
 > **[1:39](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/assessing-capabilities-and-needs-24504282?u=76281980&t=99)** Pinpointing these gaps early on allows you to make informed decisions about where to invest, whether it's in training, new recruitment and hiring, or software.
 >
@@ -745,14 +735,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), strengths (4), data (3), [[Performance Metrics]] (1), management (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Data Management]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Aligning use cases to strategic goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/aligning-use-cases-to-strategic-goals-24296993?u=76281980)
+#### [Aligning use cases to strategic goals](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/aligning-use-cases-to-strategic-goals-24296993?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +753,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/aligning-use-cases-to-strategic-goals-24296993?u=76281980&t=28)** In the context of AI, a use case is simply a specific application of AI that addresses a particular problem or need.
 >
-> **[0:36](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/aligning-use-cases-to-strategic-goals-24296993?u=76281980&t=36)** For example, if one of your objectives is to improve customer retention, a relevant use case might be predictive analytics that identifies customers at risk of churning.
+> **[0:36](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/aligning-use-cases-to-strategic-goals-24296993?u=76281980&t=36)** For example, if one of your objectives is to improve customer retention, a relevant use case might be [[Predictive Analytics]] that identifies customers at risk of churning.
 >
 > **[0:46](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/aligning-use-cases-to-strategic-goals-24296993?u=76281980&t=46)** By aligning this use case with your goal, you're ensuring that AI serves a purpose rather than just being implemented for its own sake.
 >
@@ -774,7 +763,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/aligning-use-cases-to-strategic-goals-24296993?u=76281980&t=65)** In this case, AI use cases like process automation or supply chain optimization would be directly relevant as they aim to streamline operations and reduce costs.
 >
-> **[1:16](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/aligning-use-cases-to-strategic-goals-24296993?u=76281980&t=76)** On the other hand, if your objective is to enhance customer experience, use cases like personalized recommendations or AI-powered customer support might be a better fit.
+> **[1:16](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/aligning-use-cases-to-strategic-goals-24296993?u=76281980&t=76)** On the other hand, if your objective is to enhance customer experience, use cases like personalized recommendations or AI-powered [[Customer Support]] might be a better fit.
 >
 > **[1:27](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/aligning-use-cases-to-strategic-goals-24296993?u=76281980&t=87)** Knowing your objectives allows you to zero in on the AI applications that will make the most impact.
 >
@@ -810,17 +799,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), application (3), business (2), [[Predictive Analytics]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enhancing decision-making with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980)
+#### [Enhancing decision-making with AI](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=0)** - [Instructor] One of the greatest advantages AI brings to the table is its ability to enhance our decision-making.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=0)** - [Instructor] One of the greatest advantages AI brings to the table is its ability to enhance our [[Decision-Making]].
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=6)** AI can process huge amounts of data and uncover patterns that aren't always obvious to humans, but using AI to make better decisions isn't just about throwing data at a machine and expecting magic.
 >
@@ -830,7 +818,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=31)** Imagine you're in charge of inventory management.
 >
-> **[0:34](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=34)** Traditionally, you might rely on historical sales data and seasonal trends to decide how much stock to order, but AI can analyze a wider range of factors in real-time, like customer demand patterns, weather forecasts, and even competitor promotions.
+> **[0:34](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=34)** Traditionally, you might rely on historical sales data and seasonal trends to decide how much stock to order, but AI can analyze a wider range of factors in [[Real-Time]], like customer demand patterns, weather forecasts, and even competitor promotions.
 >
 > **[0:51](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=51)** With AI-driven insights, you're no longer just making an educated guess.
 >
@@ -842,11 +830,11 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=75)** Instead of asking a vague question like, "How can we improve sales?"
 >
-> **[1:19](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=79)** You might ask, "What factors have the greatest impact on our top-selling products?"
+> **[1:19](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=79)** You might ask, "What factors have the greatest impact on our top-selling [[Microsoft Products|products]]?"
 >
 > **[1:25](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=85)** This helps you get actionable insights rather than just general information.
 >
-> **[1:31](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=91)** Another important aspect is data quality.
+> **[1:31](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=91)** Another important aspect is [[Data Quality]].
 >
 > **[1:34](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/enhancing-decision-making-with-ai-24501476?u=76281980&t=94)** AI can only make decisions as good as the data it's been given or trained on.
 >
@@ -876,14 +864,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (11), [[Decision-Making]] (3), management (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Real-Time]] (1), [[Microsoft Products|Products]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), for example (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing strategic contingency plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/developing-strategic-contingency-plans-24506046?u=76281980)
+#### [Developing strategic contingency plans](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/developing-strategic-contingency-plans-24506046?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -945,17 +932,16 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/developing-strategic-contingency-plans-24506046?u=76281980&t=170)** It's about preparing for uncertainty, so that if a challenge does arise, you can adapt without derailing your progress.
 >
-> **[2:58](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/developing-strategic-contingency-plans-24506046?u=76281980&t=178)** Identifying key risks, creating effective scenarios, and using AI tools to build contingency plans keeps you agile and prepared.
+> **[2:58](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/developing-strategic-contingency-plans-24506046?u=76281980&t=178)** Identifying key risks, creating effective scenarios, and using AI tools to build contingency plans keeps you [[Agile Development|agile]] and prepared.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (1), product (1), next (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Adapting strategy to changing conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980)
+#### [Adapting strategy to changing conditions](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -977,13 +963,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=51)** By keeping an eye on these indicators, you can catch early signs of changes and adjust proactively.
 >
-> **[0:58](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=58)** AI plays a huge role in making that real-time adaptation possible.
+> **[0:58](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=58)** AI plays a huge role in making that [[Real-Time]] adaptation possible.
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=62)** With AI-driven analytics, you can monitor trends continuously rather than relying on quarterly or annual reviews.
 >
 > **[1:10](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=70)** Say you're running an online retail business and you suddenly notice a drop in customer engagement.
 >
-> **[1:16](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=76)** AI can help you analyze customer behaviors in real time to see if preferences have shifted, enabling you to adjust your marketing or product strategy quickly.
+> **[1:16](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=76)** AI can help you analyze customer behaviors in real time to see if preferences have shifted, enabling you to adjust your marketing or [[Product Strategy]] quickly.
 >
 > **[1:26](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=86)** Another part of adapting your strategy is being ready to make small pivots.
 >
@@ -993,7 +979,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=98)** If you're finding that a certain product isn't performing well, you might choose to reposition it to a new audience rather than discontinuing it altogether.
 >
-> **[1:47](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=107)** These small pivots allow you to stay agile without constantly reworking your entire plan.
+> **[1:47](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=107)** These small pivots allow you to stay [[Agile Development|agile]] without constantly reworking your entire plan.
 >
 > **[1:53](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/adapting-strategy-to-changing-conditions-24504285?u=76281980&t=113)** Of course, adaptation can sometimes be tricky, especially when it requires letting go of strategies or initiatives you've invested a lot in.
 >
@@ -1019,21 +1005,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (3), business (2), product (2), hit (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Product Strategy]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gps (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Growing the culture of AI-driven strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/growing-the-culture-of-ai-driven-strategy-24502402?u=76281980)
+#### [Growing the culture of AI-driven strategy](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/growing-the-culture-of-ai-driven-strategy-24502402?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/growing-the-culture-of-ai-driven-strategy-24502402?u=76281980&t=1)** - [Instructor] Introducing AI into your strategy is one thing, but getting everyone on board with an AI-driven approach is where the real work begins.
 >
-> **[0:10](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/growing-the-culture-of-ai-driven-strategy-24502402?u=76281980&t=10)** For AI to have a meaningful impact, it's essential to build a culture that's comfortable with data-driven decision-making and open to the possibilities that AI brings.
+> **[0:10](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/growing-the-culture-of-ai-driven-strategy-24502402?u=76281980&t=10)** For AI to have a meaningful impact, it's essential to build a culture that's comfortable with data-driven [[Decision-Making]] and open to the possibilities that AI brings.
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/growing-the-culture-of-ai-driven-strategy-24502402?u=76281980&t=22)** Creating a culture of AI-driven strategy starts with education and transparency.
 >
@@ -1085,17 +1070,16 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/growing-the-culture-of-ai-driven-strategy-24502402?u=76281980&t=179)** Building a culture that embraces AI does not happen overnight, but it's a powerful foundation for long-term success.
 >
-> **[3:07](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/growing-the-culture-of-ai-driven-strategy-24502402?u=76281980&t=187)** Focus your efforts on creating an environment where AI-driven insights are valued, understood and utilized to support a more agile and informed approach to strategy.
+> **[3:07](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/growing-the-culture-of-ai-driven-strategy-24502402?u=76281980&t=187)** Focus your efforts on creating an environment where AI-driven insights are valued, understood and utilized to support a more [[Agile Development|agile]] and informed approach to strategy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (29), [[Decision-Making]] (3), teams (3), data (1), hr (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling and measuring AI-driven value
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980)
+#### [Scaling and measuring AI-driven value](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,21 +1119,21 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980&t=141)** An essential part of scaling AI is also having the right infrastructure.
 >
-> **[2:26](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980&t=146)** As more teams start to use AI tools, data storage, processing capabilities, and technical support need to grow, as well.
+> **[2:26](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980&t=146)** As more teams start to use AI tools, [[Data Storage]], processing capabilities, and [[Technical Support]] need to grow, as well.
 >
-> **[2:34](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980&t=154)** Ensuring that your organization's technology and data management systems can handle increased AI usage will prevent bottlenecks and keep things running smoothly.
+> **[2:34](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980&t=154)** Ensuring that your organization's technology and [[Data Management]] systems can handle increased AI usage will prevent bottlenecks and keep things running smoothly.
 >
 > **[2:45](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980&t=165)** Finally, remember that scaling isn't a one-time task, it's an ongoing process.
 >
 > **[2:52](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980&t=172)** As your organization grows and technology advances, your AI applications will need to evolve, as well.
 >
-> **[2:59](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980&t=179)** Regularly revisiting your AI strategy, refining your metrics, and ensuring that teams are aligned with the latest best practices will help sustain and expand the value that AI brings.
+> **[2:59](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980&t=179)** Regularly revisiting your [[AI Strategy]], refining your metrics, and ensuring that teams are aligned with the latest best practices will help sustain and expand the value that AI brings.
 >
 > **[3:13](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/scaling-and-measuring-ai-driven-value-24300528?u=76281980&t=193)** Measuring AI's impact, scaling successful initiatives, and building the infrastructure needed goes a long way towards making AI a core part of your organization's strategic DNA.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), teams (4), data (3), next (1), product (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Technical Support]] (1), [[Data Management]] (1), [[AI Strategy]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dna (1)
 > **Analogies:** for example (1)
@@ -1161,8 +1145,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for an AI-driven strategic future
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980)
+#### [Preparing for an AI-driven strategic future](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,7 +1163,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=43)** There are tons of online resources, courses, and even AI tools that are beginner-friendly and can give you a hands-on introduction.
 >
-> **[0:52](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=52)** Next, focus on building data literacy.
+> **[0:52](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=52)** Next, focus on building [[Data Literacy]].
 >
 > **[0:56](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=56)** Since AI relies heavily on data, knowing how to work with and interpret data will be key to your success.
 >
@@ -1188,9 +1171,9 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=77)** Your organization may offer internal training programs or workshops on data literacy, which can be a great place to start.
 >
-> **[1:25](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=85)** If not, you can also search the LinkedIn Learning Library for any number of AI and data literacy courses.
+> **[1:25](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=85)** If not, you can also search the [[LinkedIn]] Learning Library for any number of AI and data literacy courses.
 >
-> **[1:32](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=92)** There are several specific to business analysis, such as generative AI for business analysis or learning ChatGPT and learning Google Gemini for business analysis.
+> **[1:32](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=92)** There are several specific to business analysis, such as [[Generative AI]] for business analysis or learning [[ChatGPT]] and learning [[Google Gemini]] for business analysis.
 >
 > **[1:45](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=105)** All, again, aimed at the business analysis professional.
 >
@@ -1202,11 +1185,11 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=134)** It's also important to stay informed about AI's ethical considerations.
 >
-> **[2:19](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=139)** As AI becomes more prevalent, questions around data privacy, bias, and transparency are becoming more critical.
+> **[2:19](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=139)** As AI becomes more prevalent, questions around [[Data Privacy]], bias, and transparency are becoming more critical.
 >
-> **[2:26](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=146)** Understanding these issues will make you a more responsible AI user and help you ensure that your AI-driven strategies are both effective and ethically sound.
+> **[2:26](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=146)** Understanding these issues will make you a more [[Responsible AI]] user and help you ensure that your AI-driven strategies are both effective and ethically sound.
 >
-> **[2:38](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=158)** Following thought leaders in the field, attending webinars, and participating in discussions about AI ethics can keep you up to date on these very important topics.
+> **[2:38](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=158)** Following thought leaders in the field, attending webinars, and participating in discussions about AI [[Ethics]] can keep you up to date on these very important topics.
 >
 > **[2:48](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=168)** Finally, focus on fostering a growth mindset.
 >
@@ -1218,17 +1201,16 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=197)** Preparing for an AI-driven future isn't just about learning the latest technology.
 >
-> **[3:23](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=203)** It's about building a foundation that lets you stay agile, informed, and ready to leverage AI as a strategic tool, helping you develop the skills, the mindset, and the roadmap you need to thrive in an AI-powered world.
+> **[3:23](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980&t=203)** It's about building a foundation that lets you stay [[Agile Development|agile]], informed, and ready to leverage AI as a strategic tool, helping you develop the skills, the mindset, and the roadmap you need to thrive in an AI-powered world.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (10), business (5), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Literacy]] (3), [[LinkedIn]] (1), [[Generative AI]] (1), [[ChatGPT]] (1), [[Google Gemini]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Moving forward
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/moving-forward-24501474?u=76281980)
+#### [Moving forward](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/moving-forward-24501474?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,13 +1228,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/moving-forward-24501474?u=76281980&t=36)** You could also attend a webinar or join an AI-focused community.
 >
-> **[0:40](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/moving-forward-24501474?u=76281980&t=40)** There are plenty of resources, like newsletters, blogs, and LinkedIn groups, where professionals discuss new AI trends, tools, and leading practices.
+> **[0:40](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/moving-forward-24501474?u=76281980&t=40)** There are plenty of resources, like [[Newsletters]], blogs, and [[LinkedIn]] groups, where professionals discuss new AI trends, tools, and leading practices.
 >
 > **[0:51](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/moving-forward-24501474?u=76281980&t=51)** Another effective way to keep learning is through hands-on experience.
 >
 > **[0:56](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/moving-forward-24501474?u=76281980&t=56)** Consider using what you've learned in this course in small, low-stakes projects within your organization.
 >
-> **[1:03](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/moving-forward-24501474?u=76281980&t=63)** For example, you might start by implementing an AI tool in a specific department to streamline a process or experiment with predictive analytics for customer insights.
+> **[1:03](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/moving-forward-24501474?u=76281980&t=63)** For example, you might start by implementing an AI tool in a specific department to streamline a process or experiment with [[Predictive Analytics]] for customer insights.
 >
 > **[1:13](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/moving-forward-24501474?u=76281980&t=73)** By taking small steps, you'll build your confidence and gain insights into how AI works in real-world situations.
 >
@@ -1292,7 +1274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), next (1), [[Newsletters]] (1), [[LinkedIn]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1), [[LinkedIn]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)

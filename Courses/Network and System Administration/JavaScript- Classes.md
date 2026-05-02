@@ -73,14 +73,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JavaScript classes explored
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/javascript-classes-explored?u=76281980)
+#### [JavaScript classes explored](https://www.linkedin.com/learning/javascript-classes-19958382/javascript-classes-explored?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-classes-19958382/javascript-classes-explored?u=76281980&t=0)** - [Instructor] Have you heard about classes, constructors, mixins, and don't know how they work or what they mean?
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-classes-19958382/javascript-classes-explored?u=76281980&t=7)** Are you coming from another language and trying to understand how classes are used in JavaScript?
+> **[0:07](https://www.linkedin.com/learning/javascript-classes-19958382/javascript-classes-explored?u=76281980&t=7)** Are you coming from another language and trying to understand how classes are used in [[JavaScript]]?
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-classes-19958382/javascript-classes-explored?u=76281980&t=13)** If you've answered yes to any of these questions, you've come to the right place.
 >
@@ -110,14 +109,13 @@ created: 2026-05-02
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/course-prerequisites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/javascript-classes-19958382/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-classes-19958382/course-prerequisites?u=76281980&t=0)** - [Narrator] This course is considered an intermediate to advanced course.
 >
-> **[0:04](https://www.linkedin.com/learning/javascript-classes-19958382/course-prerequisites?u=76281980&t=4)** We won't go over any basics of the language or syntax use therefore prior JavaScript knowledge or at least a good understanding of functions, variables, types, object literals and most of the basic syntax use is important to be able to follow along.
+> **[0:04](https://www.linkedin.com/learning/javascript-classes-19958382/course-prerequisites?u=76281980&t=4)** We won't go over any basics of the language or syntax use therefore prior [[JavaScript]] knowledge or at least a good understanding of functions, variables, types, object literals and most of the basic syntax use is important to be able to follow along.
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-classes-19958382/course-prerequisites?u=76281980&t=21)** If you've never done any JavaScript or would like to learn more on the subject take a look at our library for the essentials course.
 
@@ -131,8 +129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-classes?u=76281980)
+#### [Introduction to classes](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,8 +178,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining a class
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/defining-a-class?u=76281980)
+#### [Defining a class](https://www.linkedin.com/learning/javascript-classes-19958382/defining-a-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -208,7 +204,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/javascript-classes-19958382/defining-a-class?u=76281980&t=64)** So we have our classes folder that we dropped inside of VS Code.
 >
-> **[1:08](https://www.linkedin.com/learning/javascript-classes-19958382/defining-a-class?u=76281980&t=68)** We're going to create the first file, which is an index.html.
+> **[1:08](https://www.linkedin.com/learning/javascript-classes-19958382/defining-a-class?u=76281980&t=68)** We're going to create the first file, which is an index.[[HTML]].
 >
 > **[1:13](https://www.linkedin.com/learning/javascript-classes-19958382/defining-a-class?u=76281980&t=73)** And in this one what we're going to do is use a shortcut inside of VS Code that is simply doing doc for Doc.
 >
@@ -216,7 +212,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/javascript-classes-19958382/defining-a-class?u=76281980&t=82)** And you're going to get most of the code that you need for your index html file.
 >
-> **[1:27](https://www.linkedin.com/learning/javascript-classes-19958382/defining-a-class?u=76281980&t=87)** So what we're going to change here is the title of the document to JavaScript Sandbox.
+> **[1:27](https://www.linkedin.com/learning/javascript-classes-19958382/defining-a-class?u=76281980&t=87)** So what we're going to change here is the title of the document to [[JavaScript]] Sandbox.
 >
 > **[1:38](https://www.linkedin.com/learning/javascript-classes-19958382/defining-a-class?u=76281980&t=98)** And then what we're going to do is literally have in our body a few things here.
 >
@@ -336,7 +332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (3), hit (1), application (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (3)
 > **Tools:** vs code (5), command line (1)
 > **File Paths:** app.js (3), index.html (1)
 > **Prerequisites:** install (2), set up (2)
@@ -345,8 +341,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Differences between functions and classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/differences-between-functions-and-classes?u=76281980)
+#### [Differences between functions and classes](https://www.linkedin.com/learning/javascript-classes-19958382/differences-between-functions-and-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -364,7 +359,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-classes-19958382/differences-between-functions-and-classes?u=76281980&t=48)** When you want to create a blueprint to be reused over and over and still need functions, create a class and add methods to it.
 >
-> **[0:57](https://www.linkedin.com/learning/javascript-classes-19958382/differences-between-functions-and-classes?u=76281980&t=57)** A good example are React class components where we use them to create and use these components with lifecycle methods available to us in our React applications.
+> **[0:57](https://www.linkedin.com/learning/javascript-classes-19958382/differences-between-functions-and-classes?u=76281980&t=57)** A good example are [[React.js|React]] class components where we use them to create and use these components with lifecycle methods available to us in our React applications.
 >
 > **[1:06](https://www.linkedin.com/learning/javascript-classes-19958382/differences-between-functions-and-classes?u=76281980&t=66)** We build a component by extending the class component.
 >
@@ -376,12 +371,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), functional (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hoisting explained with classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/hoisting-explained-with-classes?u=76281980)
+#### [Hoisting explained with classes](https://www.linkedin.com/learning/javascript-classes-19958382/hoisting-explained-with-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/javascript-classes-19958382/hoisting-explained-with-classes?u=76281980&t=87)** So if I save that and I go to the top here and I run this function here.
 >
-> **[1:35](https://www.linkedin.com/learning/javascript-classes-19958382/hoisting-explained-with-classes?u=76281980&t=95)** This will work. That means that a function once it hits the JavaScript engine It is going to be hoisted to the top.
+> **[1:35](https://www.linkedin.com/learning/javascript-classes-19958382/hoisting-explained-with-classes?u=76281980&t=95)** This will work. That means that a function once it hits the [[JavaScript]] engine It is going to be hoisted to the top.
 >
 > **[1:42](https://www.linkedin.com/learning/javascript-classes-19958382/hoisting-explained-with-classes?u=76281980&t=102)** And if we run this, it's going to be successful.
 >
@@ -442,8 +436,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strict mode with classes explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/strict-mode-with-classes-explained?u=76281980)
+#### [Strict mode with classes explained](https://www.linkedin.com/learning/javascript-classes-19958382/strict-mode-with-classes-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -457,7 +450,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-classes-19958382/strict-mode-with-classes-explained?u=76281980&t=20)** So go in a new browser window and search for Mozilla strict mode and then click on the documentation here and scroll down until you see this here.
 >
-> **[0:34](https://www.linkedin.com/learning/javascript-classes-19958382/strict-mode-with-classes-explained?u=76281980&t=34)** So strict mode was introduced in ES5, and it is a mode that improved the quality of JavaScript programming practices.
+> **[0:34](https://www.linkedin.com/learning/javascript-classes-19958382/strict-mode-with-classes-explained?u=76281980&t=34)** So strict mode was introduced in ES5, and it is a mode that improved the quality of [[JavaScript]] programming practices.
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-classes-19958382/strict-mode-with-classes-explained?u=76281980&t=41)** It adds a few items that makes us, as a developer, more aware of what we do with JavaScript.
 >
@@ -477,7 +470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), next (1), [[Search]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Documentation:** the documentation (2)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Analogies:** for example (2)
@@ -486,8 +479,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 
-#### What are static methods and usage?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/what-are-static-methods-and-usage?u=76281980)
+#### [What are static methods and usage?](https://www.linkedin.com/learning/javascript-classes-19958382/what-are-static-methods-and-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -577,8 +569,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prototype methods explained and usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/prototype-methods-explained-and-usage?u=76281980)
+#### [Prototype methods explained and usage](https://www.linkedin.com/learning/javascript-classes-19958382/prototype-methods-explained-and-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,7 +605,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/javascript-classes-19958382/prototype-methods-explained-and-usage?u=76281980&t=123)** So, these are all the methods that are coming with the classes, with the prototypes, and with the actual values that you're using.
 >
-> **[2:10](https://www.linkedin.com/learning/javascript-classes-19958382/prototype-methods-explained-and-usage?u=76281980&t=130)** So sometimes if you wonder what you can use outside of the methods or the functions you can create yourself with a class, take a look at what JavaScript offers here in the sandbox and explore and test and try new functions and you'll see what you can do.
+> **[2:10](https://www.linkedin.com/learning/javascript-classes-19958382/prototype-methods-explained-and-usage?u=76281980&t=130)** So sometimes if you wonder what you can use outside of the methods or the functions you can create yourself with a class, take a look at what [[JavaScript]] offers here in the sandbox and explore and test and try new functions and you'll see what you can do.
 
 > [!info]- Semantic Content
 >
@@ -630,8 +621,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to constructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-constructors?u=76281980)
+#### [Introduction to constructors](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,13 +657,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** suv (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Constructor and super usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/constructor-and-super-usage?u=76281980)
+#### [Constructor and super usage](https://www.linkedin.com/learning/javascript-classes-19958382/constructor-and-super-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,8 +770,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction and usage: Getters and setters
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-and-usage-getters-and-setters?u=76281980)
+#### [Introduction and usage: Getters and setters](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-and-usage-getters-and-setters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -799,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-and-usage-getters-and-setters?u=76281980&t=33)** If we wanted to protect that particular property, we need to change a few things.
 >
-> **[0:37](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-and-usage-getters-and-setters?u=76281980&t=37)** So I'm going to first remove it from directly setting it inside of our constructor, and instead of doing this.brand equals brand, what I'm going to do is _brand, and this actually tells JavaScript that we want to protect this particular property here, and I'm going to set it initially with something in here, No brand yet.
+> **[0:37](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-and-usage-getters-and-setters?u=76281980&t=37)** So I'm going to first remove it from directly setting it inside of our constructor, and instead of doing this.brand equals brand, what I'm going to do is _brand, and this actually tells [[JavaScript]] that we want to protect this particular property here, and I'm going to set it initially with something in here, No brand yet.
 >
 > **[1:06](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-and-usage-getters-and-setters?u=76281980&t=66)** And then what we need to do, we can use keywords that were introduced with ES6, get and set to actually define the functions or the methods that are going to allow us to set the brand and get it from the class.
 >
@@ -877,8 +864,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to extends and usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980)
+#### [Introduction to extends and usage](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,7 +876,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=8)** When you want to leverage another class or create your own, you extend it.
 >
-> **[0:12](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=12)** If you've ever worked with stateful components in React, you're familiar with extends.
+> **[0:12](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=12)** If you've ever worked with stateful components in [[React.js|React]], you're familiar with extends.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=17)** When you create a stateful component, you extend a React component class.
 >
@@ -906,7 +892,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=45)** So let me show an example in React.
 >
-> **[0:48](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=48)** So I'm going to create a new file here and I'm going to call this React.js.
+> **[0:48](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=48)** So I'm going to create a new file here and I'm going to call this [[React.js]].
 >
 > **[0:55](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=55)** And in this file I'm going to import React from React.
 >
@@ -924,7 +910,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=85)** So if I were to create a button, for example, so let's create a class called Button.
 >
-> **[1:31](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=91)** What I would do is in React, extend component because there's a lot of stuff that were coming with the component from React, and then I would use the render function, and then inside of that render function, I would return some HTML code.
+> **[1:31](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=91)** What I would do is in React, extend component because there's a lot of stuff that were coming with the component from React, and then I would use the render function, and then inside of that render function, I would return some [[HTML]] code.
 >
 > **[1:53](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980&t=113)** In this case, I'm going to add a button that says, "Hello."
 >
@@ -936,15 +922,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (10), [[React.js]] (1), [[HTML]] (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[React.js]] (1), [[HTML]] (1)
 > **File Paths:** app.js (1), react.js (1)
 > **Env Vars:** suv (1), html (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [tutor] (1)
 
-#### Introduction to mixins and usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980)
+#### [Introduction to mixins and usage](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,7 +943,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=15)** As for the Gang of Four, this is one pattern where we favor composition over inheritance.
 >
-> **[0:21](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=21)** With extends, we inherit from the parent class, with mixins, we compose into a new class.
+> **[0:21](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=21)** With extends, we inherit from the parent class, with mixins, we [[Jetpack Compose|compose]] into a new class.
 >
 > **[0:28](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=28)** Some use cases could be where you implement specific methods as part of a class and others into another.
 >
@@ -966,7 +951,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=42)** There are multiple ways to add mixins into your class, but let me demonstrate a simple way of doing so.
 >
-> **[0:48](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=48)** Also, be wary of using mixins in your everyday life as a developer, as they sometimes add complexity, and in some communities, like React, are frowned upon.
+> **[0:48](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=48)** Also, be wary of using mixins in your everyday life as a developer, as they sometimes add complexity, and in some communities, like [[React.js|React]], are frowned upon.
 >
 > **[0:58](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=58)** This is, in a way, academic.
 >
@@ -1004,7 +989,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=131)** And we're going to use it here, madeIn.
 >
-> **[2:16](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=136)** And then use the word super, like we've done before, madeIn.
+> **[2:16](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=136)** And then use the [[Microsoft Word|word]] super, like we've done before, madeIn.
 >
 > **[2:20](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-mix-ins-and-usage?u=76281980&t=140)** So we're still talking about classes.
 >
@@ -1066,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[React.js|React]] (1), [[Microsoft Word|Word]] (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[React.js|React]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** madein (4), carmixin (1)
 > **Warnings:** caution (2), be aware (1)
 > **Env Vars:** suv (1)
@@ -1077,24 +1062,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980&t=0)** - [Emmanuel] Hopefully you've gained a bit more knowledge on what are JavaScript classes and how to define, use them, with their options.
+> **[0:00](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980&t=0)** - [Emmanuel] Hopefully you've gained a bit more knowledge on what are [[JavaScript]] classes and how to define, use them, with their options.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980&t=8)** Considering this subject as being an advanced one, the next step could be any JavaScript knowledge that you may not have at this point.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980&t=15)** If you need more knowledge on any JavaScript subjects, look for those in our library.
 >
-> **[0:21](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980&t=21)** If you'd like to practice what you learned in this course, React is a great library to practice those concepts, as the library uses similar syntax to develop all their components and methods, and will be a great way for you to practice classes while playing with a library that uses functions and classes across the board.
+> **[0:21](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980&t=21)** If you'd like to practice what you learned in this course, [[React.js|React]] is a great library to practice those concepts, as the library uses similar syntax to develop all their components and methods, and will be a great way for you to practice classes while playing with a library that uses functions and classes across the board.
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980&t=41)** Thanks for taking my course, and I'll see you in a bit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), next (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[React.js|React]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [emmanuel] (1)
 

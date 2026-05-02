@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Python for data science: Code challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980)
+#### [Getting started with Python for data science: Code challenges](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980&t=4)** - [Seth] The data science world is an exciting place with state-of-the-art models coming out at an unprecedented pace.
+> **[0:04](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980&t=4)** - [Seth] The [[Data Science]] world is an exciting place with state-of-the-art models coming out at an unprecedented pace.
 >
 > **[0:10](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980&t=10)** We can't forget about what makes data science so valuable, the actual data.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980&t=34)** Forgetting this simple step can create problems once unsavory data hits your models.
 >
-> **[0:39](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980&t=39)** In this course you'll see challenges from the beginning phases of the data science workflow, through data acquisition, data preparation, and exploratory data analysis.
+> **[0:39](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980&t=39)** In this course you'll see challenges from the beginning phases of the data science workflow, through [[Data Acquisition]], [[Data Preparation]], and exploratory data analysis.
 >
 > **[0:50](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980&t=50)** You'll have challenges in grabbing data from websites.
 >
@@ -113,22 +112,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Data Acquisition]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Data Acquisition]] (1), [[Data Preparation]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [seth] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=0)** - This is Ray Villalobos, Senior Staff Instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=0)** - This is Ray Villalobos, Senior Staff Instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:08](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=8)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through our course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file, because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -238,7 +236,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run get fetch.
+> **[5:34](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run get [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-github-codespaces-with-this-course?u=76281980&t=337)** That way it'll automatically sync with your forked repo.
 >
@@ -254,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), [[Codespaces]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Codespaces]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -268,16 +266,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scraping tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980)
+#### [Scraping tables](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980&t=4)** - [Instructor] Welcome to scraping tables.
 >
-> **[0:06](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980&t=6)** You already know that copying and pasting data from the web into a spreadsheet is bad data science.
+> **[0:06](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980&t=6)** You already know that copying and pasting data from the web into a spreadsheet is bad [[Data Science]].
 >
-> **[0:11](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980&t=11)** And you also probably already know how easy pandas makes it to pull HTML tables directly in as a DataFrame.
+> **[0:11](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980&t=11)** And you also probably already know how easy [[Pandas (Software)|pandas]] makes it to pull [[HTML]] tables directly in as a DataFrame.
 >
 > **[0:18](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980&t=18)** So let's check out this page.
 >
@@ -319,7 +316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (3), web (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Data Science]] (1), [[HTML]] (1)
 > **Code Identifiers:** read_html (1), table_link (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** html (1)
@@ -328,16 +325,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### Finding CSS selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-css-selectors?u=76281980)
+#### [Finding CSS selectors](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-css-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-css-selectors?u=76281980&t=4)** - [Instructor] Welcome to finding CSS selectors.
 >
-> **[0:07](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-css-selectors?u=76281980&t=7)** Using pandas to pull tables is pretty easy.
+> **[0:07](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-css-selectors?u=76281980&t=7)** Using [[Pandas (Software)|pandas]] to pull tables is pretty easy.
 >
-> **[0:10](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-css-selectors?u=76281980&t=10)** It goes and finds the table HTML tag and brings 'em all in, just for you to sort through the clutter.
+> **[0:10](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-css-selectors?u=76281980&t=10)** It goes and finds the table [[HTML]] tag and brings 'em all in, just for you to sort through the clutter.
 >
 > **[0:15](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-css-selectors?u=76281980&t=15)** Sometimes though, we might want to use CSS selectors to select certain information.
 >
@@ -397,7 +393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[Pandas (Software)|Pandas]] (4), data (3), [[HTML]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[HTML]] (1)
 > **Env Vars:** css (6), html (1), bs4 (1)
 > **CLI Commands:** find (5), make (1)
 > **Code Identifiers:** base_link (1)
@@ -405,8 +401,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Scraping text
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980)
+#### [Scraping text](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,7 +441,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=98)** And, as always, I would love to see what you came up with.
 >
-> **[1:43](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=103)** We're going to start by importing a whole mess of things, BeautifulSoup, pandas and requests.
+> **[1:43](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=103)** We're going to start by importing a whole mess of things, BeautifulSoup, [[Pandas (Software)|pandas]] and requests.
 >
 > **[1:50](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=110)** We have our page_link and we can make a get request to the page link and read that in with BeautifulSoup.
 >
@@ -458,7 +453,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=135)** And this should leave us a very nicely-formatted "Louisiana, the Rainiest state."
 >
-> **[2:23](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=143)** Now what I want to do is I want to put this into a pandas dataframe, because I need to also read in my page_link again and get the table that matches the word capital.
+> **[2:23](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=143)** Now what I want to do is I want to put this into a pandas dataframe, because I need to also read in my page_link again and get the table that matches the [[Microsoft Word|word]] capital.
 >
 > **[2:37](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=157)** Although there's only one table, we're just going to make it easy and continue using good programming practices to pull explicitly what we want.
 >
@@ -476,13 +471,13 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=190)** So what we need to do is we need to fill those missing elements in and drop out all the unnecessary rows giving us just one row of information that is our complete information.
 >
-> **[3:25](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=205)** You can never count on beautifully formatted HTML or CSS.
+> **[3:25](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=205)** You can never count on beautifully formatted [[HTML]] or CSS.
 >
-> **[3:29](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=209)** When challenged with poor site design, always remember that you can use Python to parse the nonsense into something useful.
+> **[3:29](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-text?u=76281980&t=209)** When challenged with poor site design, always remember that you can use [[Python (Programming Language)|Python]] to parse the nonsense into something useful.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), data (4), [[Programming]] (2), [[Pandas (Software)|Pandas]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Microsoft Word|Word]] (1), [[HTML]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (5), find (1), python (1)
 > **Env Vars:** css (6), html (1)
 > **Code Identifiers:** page_link (2)
@@ -491,8 +486,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Using LLMs to scrape data
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980)
+#### [Using LLMs to scrape data](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,9 +494,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980&t=8)** Scraping data, while fun and useful, can be challenging when you're first starting out.
 >
-> **[0:13](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980&t=13)** Aside from the HTML, you're faced with decisions about which functions from beautiful soup are best to use.
+> **[0:13](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980&t=13)** Aside from the [[HTML]], you're faced with decisions about which functions from beautiful soup are best to use.
 >
-> **[0:20](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980&t=20)** Sometimes, a little bit of assistance can be helpful, and that is where Copilot and ChatGPT can help to reduce our time when fighting web pages.
+> **[0:20](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980&t=20)** Sometimes, a little bit of assistance can be helpful, and that is where [[Microsoft Copilot|Copilot]] and [[ChatGPT]] can help to reduce our time when fighting web pages.
 >
 > **[0:32](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980&t=32)** While I don't have a challenge for you in this video, I would like to show you how you can use Copilot and ChatGPT to overcome some initial challenges to scraping data.
 >
@@ -510,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980&t=51)** Let's first start by going to ChatGPT.
 >
-> **[0:55](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980&t=55)** If you recall, we had previously scraped this page, specifically getting this table into a pandas data frame.
+> **[0:55](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980&t=55)** If you recall, we had previously scraped this page, specifically getting this table into a [[Pandas (Software)|pandas]] data frame.
 >
 > **[1:05](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/using-llms-to-scrape-data?u=76281980&t=65)** Using this link, let's see how much assistance ChatGPT can offer us.
 >
@@ -586,14 +580,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), data (5), [[Microsoft Copilot|Copilot]] (4), [[Pandas (Software)|Pandas]] (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Microsoft Copilot|Copilot]] (4), [[Pandas (Software)|Pandas]] (3), [[HTML]] (2)
 > **Tools:** terminal (3), vs code (1)
 > **Env Vars:** html (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980)
+#### [Finding APIs](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,13 +600,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=28)** Let's take a look at this table.
 >
-> **[0:30](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=30)** You'll see that this is a JavaScript data table and with the JavaScript data table, you often see some kind of loading icon to indicate that it's polling the data.
+> **[0:30](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=30)** You'll see that this is a [[JavaScript]] data table and with the JavaScript data table, you often see some kind of loading icon to indicate that it's polling the data.
 >
-> **[0:41](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=41)** So many people think they need to turn to Selenium when dealing with this type of data structure.
+> **[0:41](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=41)** So many people think they need to turn to [[Selenium]] when dealing with this type of data structure.
 >
 > **[0:46](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=46)** Instead of going through that hassle let's just do some detective work.
 >
-> **[0:51](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=51)** In this challenge, you're going to need to look into the network structure, find the appropriate API call for the table, call the API, and finally get the resulting JSON object into a pandas data frame.
+> **[0:51](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=51)** In this challenge, you're going to need to look into the network structure, find the appropriate API call for the table, call the API, and finally get the resulting [[JSON]] object into a [[Pandas (Software)|pandas]] data frame.
 >
 > **[1:09](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=69)** So, take a minute and dive into the wonderful world of the network and come back when you're ready.
 >
@@ -641,27 +634,26 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=134)** We'll run that and we'll look at our final result and we have this wonderfully formatted and named table.
 >
-> **[2:23](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=143)** Being able to pull your own data is the ultimate data science power.
+> **[2:23](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=143)** Being able to pull your own data is the ultimate [[Data Science]] power.
 >
 > **[2:28](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-apis?u=76281980&t=148)** Now that you know how to find internal APIs you never know what interesting things you might find if you just start looking.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), api (5), [[JSON]] (4), [[Pandas (Software)|Pandas]] (3), power (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Pandas (Software)|Pandas]] (3), [[JavaScript]] (2), [[Selenium]] (1), [[Data Science]] (1)
 > **Env Vars:** api (5), json (4)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Getting JSON into pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-json-into-pandas?u=76281980)
+#### [Getting JSON into pandas](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-json-into-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-json-into-pandas?u=76281980&t=4)** - [Instructor] Welcome to iterating API calls websites love to pass along data through JSON.
+> **[0:04](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-json-into-pandas?u=76281980&t=4)** - [Instructor] Welcome to iterating API calls websites love to pass along data through [[JSON]].
 >
-> **[0:11](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-json-into-pandas?u=76281980&t=11)** The simple dictionary based JSON object is usually easy to read in the PANDAS.
+> **[0:11](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-json-into-pandas?u=76281980&t=11)** The simple dictionary based JSON object is usually easy to read in the [[Pandas (Software)|PANDAS]].
 >
 > **[0:16](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-json-into-pandas?u=76281980&t=16)** When we have just one API call to make.
 >
@@ -703,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[JSON]] (5), [[Pandas (Software)|Pandas]] (5), api (3)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Pandas (Software)|Pandas]] (5)
 > **Env Vars:** json (5), pandas (5), api (3)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
@@ -714,14 +706,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Constructing regular expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980)
+#### [Constructing regular expressions](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980&t=3)** - [Instructor] Welcome to constructing regular expressions.
 >
-> **[0:07](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980&t=7)** It's easy to argue that regular expressions are the king of all data cleaning methods.
+> **[0:07](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980&t=7)** It's easy to argue that regular expressions are the king of all [[Data Cleaning]] methods.
 >
 > **[0:11](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980&t=11)** And whether you call them RegEx or RegEx isn't important.
 >
@@ -729,7 +720,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980&t=23)** In this video, I'd like you to construct a series of regular expressions to convert these strings to numbers.
 >
-> **[0:32](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980&t=32)** You'll need to put them into a pandas DataFrame, use regular expressions to clean them, and finally, they need to end up as numbers.
+> **[0:32](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980&t=32)** You'll need to put them into a [[Pandas (Software)|pandas]] DataFrame, use regular expressions to clean them, and finally, they need to end up as numbers.
 >
 > **[0:43](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980&t=43)** As you take a few minutes to solve this problem, know that it is completely okay to do this with a few steps and that a look around is going to be very helpful.
 >
@@ -775,7 +766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (2), power (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Data Cleaning]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** str (1)
 > **UI Navigation:** navigate to (1)
@@ -783,8 +774,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Cleaning text
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980)
+#### [Cleaning text](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,7 +788,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=25)** We see superfluous spaces littered throughout text.
 >
-> **[0:29](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=29)** We also see HTML tags frequently coming into play.
+> **[0:29](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=29)** We also see [[HTML]] tags frequently coming into play.
 >
 > **[0:35](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=35)** Probably a more challenging endeavor is when we have spaces that disappear between words.
 >
@@ -808,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=48)** The third one, BeautifulSoup isn't a mistake but would present some challenges for splitting that into two parts.
 >
-> **[0:57](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=57)** Your challenge is to take these strings, you need to get them into a pandas dataframe, and then, finally, you want to split those first two strings into separate words.
+> **[0:57](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=57)** Your challenge is to take these strings, you need to get them into a [[Pandas (Software)|pandas]] dataframe, and then, finally, you want to split those first two strings into separate words.
 >
 > **[1:11](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=71)** And as you can see, the third string should remain unchanged.
 >
@@ -860,13 +850,13 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=191)** pandasForLife, becomes three words.
 >
-> **[3:13](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=193)** And Python is helpful is still three words.
+> **[3:13](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=193)** And [[Python (Programming Language)|Python]] is helpful is still three words.
 >
 > **[3:18](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/cleaning-text?u=76281980&t=198)** While programmers and data scientists alike will repeat, if you have a problem that requires a regular expression, you now have two problems, you can never underestimate how useful they are for real-world data situations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (3), [[HTML]] (1), web (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[HTML]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** usepython (1), pandasforlife (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** html (1)
@@ -874,8 +864,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Selecting variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/selecting-variables?u=76281980)
+#### [Selecting variables](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/selecting-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,7 +880,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/selecting-variables?u=76281980&t=33)** You need to select the following variables, age, prior job count, proportion, 401k, starting salary, and days to separate.
 >
-> **[0:45](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/selecting-variables?u=76281980&t=45)** The wrinkle to this challenge though, is that I want you to find those variables without using the explicit names within a Pandas DataFrame.
+> **[0:45](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/selecting-variables?u=76281980&t=45)** The wrinkle to this challenge though, is that I want you to find those variables without using the explicit names within a [[Pandas (Software)|Pandas]] DataFrame.
 >
 > **[0:59](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/selecting-variables?u=76281980&t=59)** Take a few minutes, think through a possible solution, and see what you can bring together.
 >
@@ -919,13 +908,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/selecting-variables?u=76281980&t=149)** We'll take a final look at our numeric_employees dtypes, and we'll see that we have all of the variables that we hope to select out of there.
 >
-> **[2:41](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/selecting-variables?u=76281980&t=161)** Whenever we get into the modeling phase, we might be tempted to just throw all of our variables in and let Python sort it out.
+> **[2:41](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/selecting-variables?u=76281980&t=161)** Whenever we get into the modeling phase, we might be tempted to just throw all of our variables in and let [[Python (Programming Language)|Python]] sort it out.
 >
 > **[2:49](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/selecting-variables?u=76281980&t=169)** For us to be ultimately effective as data scientists, we need to think reasonably about what variables are going into our models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Programming]] (1), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Code Identifiers:** data_types (1), numeric_employees (1)
 > **UI Navigation:** select the (1), navigate to (1)
@@ -934,8 +923,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### Encoding categorical variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/encoding-categorical-variables?u=76281980)
+#### [Encoding categorical variables](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/encoding-categorical-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,7 +985,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), power (1)
 > **Code Identifiers:** row_id (2), value_encoder (2), department_wide (1), job_level_wide (1)
 > **Speakers:** - [instructor] (2)
 > **CLI Commands:** find (1)
@@ -1005,14 +992,13 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Non-Speech:** (upbeat bass music) (1)
 
-#### Scaling variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scaling-variables?u=76281980)
+#### [Scaling variables](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scaling-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scaling-variables?u=76281980&t=4)** - [Instructor] Welcome to Scaling Variables.
 >
-> **[0:06](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scaling-variables?u=76281980&t=6)** Preparing your data for modeling is one of the most important steps of the data science workflow.
+> **[0:06](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scaling-variables?u=76281980&t=6)** Preparing your data for modeling is one of the most important steps of the [[Data Science]] workflow.
 >
 > **[0:11](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scaling-variables?u=76281980&t=11)** For many models, scaling your variables is a critical task.
 >
@@ -1050,15 +1036,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), feature (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** z_score_maker (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (intriguing electronic music) (1)
 
-#### Reducing dimensionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/reducing-dimensionality?u=76281980)
+#### [Reducing dimensionality](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/reducing-dimensionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1086,7 +1071,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/reducing-dimensionality?u=76281980&t=88)** I'd like to take a minute to show you what I did, and as always, I'm curious to see how you tackled this problem.
 >
-> **[1:37](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/reducing-dimensionality?u=76281980&t=97)** I'm going to start by importing a whole mess of packages; matplotlib, numpy, pandas seaborn, and sklearn.
+> **[1:37](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/reducing-dimensionality?u=76281980&t=97)** I'm going to start by importing a whole mess of packages; matplotlib, numpy, [[Pandas (Software)|pandas]] seaborn, and sklearn.
 >
 > **[1:45](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/reducing-dimensionality?u=76281980&t=105)** And specifically out of SK learn, I want to grab PCA, for principal components analysis.
 >
@@ -1136,7 +1121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), feature (3), next (2), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pca (2)
 > **Warnings:** be careful (1)
@@ -1148,14 +1133,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980)
+#### [Describing data](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=4)** - Welcome to "Describing Data".
 >
-> **[0:06](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=6)** Whenever you live in the data science world, you can count on getting data that nobody knows anything about.
+> **[0:06](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=6)** Whenever you live in the [[Data Science]] world, you can count on getting data that nobody knows anything about.
 >
 > **[0:14](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=14)** There might not be documentation and you can probably forget about anybody giving you a code book for the data.
 >
@@ -1163,7 +1147,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=27)** For this challenge, you need to do the following.
 >
-> **[0:30](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=30)** Produce descriptive statistics for every variable in the data.
+> **[0:30](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=30)** Produce descriptive [[Statistics]] for every variable in the data.
 >
 > **[0:35](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=35)** After you've done that, identify anything that might be a problem.
 >
@@ -1179,7 +1163,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=61)** If you found anything that I didn't, I'd love for you to share with everyone.
 >
-> **[1:07](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=67)** I'm going to start by importing pandas.
+> **[1:07](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=67)** I'm going to start by importing [[Pandas (Software)|pandas]].
 >
 > **[1:09](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980&t=69)** I'm also going to set my display option for the max_columns as none.
 >
@@ -1211,21 +1195,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Statistics]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Statistics]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** max_columns (1), prior_job_count (1), separated_ny (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (synth music) (1)
 
-#### Finding correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-correlations?u=76281980)
+#### [Finding correlations](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-correlations?u=76281980&t=4)** - Welcome to finding correlations.
 >
-> **[0:06](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-correlations?u=76281980&t=6)** One of the most important parts of data science is the exploratory phase of your analysis.
+> **[0:06](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-correlations?u=76281980&t=6)** One of the most important parts of [[Data Science]] is the exploratory phase of your analysis.
 >
 > **[0:13](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/finding-correlations?u=76281980&t=13)** Whether you're doing descriptives, visualizations or exploring initial relationships, you need to dig into the data to really know what's there.
 >
@@ -1275,13 +1258,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
 
-#### Visualizing correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/visualizing-correlations?u=76281980)
+#### [Visualizing correlations](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/visualizing-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1345,15 +1327,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** employee_correlations (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno music) (1)
 
-#### Multivariable visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/multivariable-visualizations?u=76281980)
+#### [Multivariable visualizations](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/multivariable-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1417,7 +1397,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Code Identifiers:** prior_job_count (1), days_to_separate (1), starting_salary (1), z_core (1), z_scores (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** eda (1)
@@ -1425,8 +1404,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### Building visualizations with Streamlit
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980)
+#### [Building visualizations with Streamlit](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1440,7 +1418,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=28)** In this video, we're going to build a quick Streamlit dashboard together.
 >
-> **[0:33](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=33)** We can use Streamlit to build and deploy dashboards for all kinds of tasks.
+> **[0:33](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=33)** We can use Streamlit to build and deploy [[Dashboards]] for all kinds of tasks.
 >
 > **[0:38](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=38)** For this collaborative challenge, we're going to build a dashboard that will allow people to pick any two variables and display a visualization for those variables.
 >
@@ -1450,11 +1428,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=65)** Let's go check out the code.
 >
-> **[1:08](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=68)** I already have this code ready for you in GitHub, so I suggest you start here.
+> **[1:08](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=68)** I already have this code ready for you in [[GitHub]], so I suggest you start here.
 >
 > **[1:14](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=74)** What we're going to do though, is we're going to import some standard things.
 >
-> **[1:17](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=77)** What we'll need is NumPy, Pandas, and Streamlit.
+> **[1:17](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=77)** What we'll need is NumPy, [[Pandas (Software)|Pandas]], and Streamlit.
 >
 > **[1:21](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/building-visualizations-with-streamlit?u=76281980&t=81)** You'll notice that we are reading in our data just the same as we've always done, and we are going to filter that to just be numeric data types.
 >
@@ -1514,7 +1492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1), [[Dashboards]] (1), [[GitHub]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[GitHub]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python3 (2), find (2)
 > **Code Identifiers:** viz_variables (1)
 > **Tools:** github (1)

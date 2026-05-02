@@ -33,7 +33,7 @@ Vendor behind Jira, Confluence, Bitbucket, and Trello.
 
 ## Courses
 
-1. [[Jira Service Management- Administration]] — 67 mentions
+1. [[Jira Service Management- Administration]] — 68 mentions
 2. [[Increasing Efficiency with Jira and Confluence Integrations]] — 48 mentions
 3. [[Planning and Releasing Software with Jira]] — 47 mentions
 4. [[Jira- Advanced Administration]] — 46 mentions
@@ -69,7 +69,7 @@ Vendor behind Jira, Confluence, Bitbucket, and Trello.
 
 ## Learning Paths
 
-1. [[Mastering Jira Administration]] — 258 total mentions
+1. [[Mastering Jira Administration]] — 259 total mentions
 2. [[Mastering Jira for Software Developers]] — 155 total mentions
 3. [[Develop Your Skills as a Software Project Manager]] — 83 total mentions
 4. [[Develop Your Skills in Agile Software Development]] — 50 total mentions

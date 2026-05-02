@@ -129,12 +129,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning advanced formulas and functions using Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/learning-advanced-formulas-and-functions-using-excel?u=76281980)
+#### [Learning advanced formulas and functions using Excel](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/learning-advanced-formulas-and-functions-using-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/learning-advanced-formulas-and-functions-using-excel?u=76281980&t=0)** - So you know how to use an IF statement, you know how to do a sum, (chill jazzy music) but there are over 500 functions in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/learning-advanced-formulas-and-functions-using-excel?u=76281980&t=0)** - So you know how to use an IF statement, you know how to do a sum, (chill jazzy music) but there are over 500 functions in [[Microsoft Excel|Excel]].
 >
 > **[0:08](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/learning-advanced-formulas-and-functions-using-excel?u=76281980&t=8)** What are some that you need to know?
 >
@@ -156,14 +155,13 @@ created: 2026-05-02
 > **Speakers:** - so (1)
 > **Non-Speech:** (chill jazzy music) (1)
 
-#### Developing your own style with formulas and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/developing-your-own-style-with-formulas-and-functions?u=76281980)
+#### [Developing your own style with formulas and functions](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/developing-your-own-style-with-formulas-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/developing-your-own-style-with-formulas-and-functions?u=76281980&t=0)** - Okay, now this is serious.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/developing-your-own-style-with-formulas-and-functions?u=76281980&t=3)** Before we get into the course, I want to tell you... No, I want to invite you and give you permission to find your style of how you want to work with Excel.
+> **[0:03](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/developing-your-own-style-with-formulas-and-functions?u=76281980&t=3)** Before we get into the course, I want to tell you... No, I want to invite you and give you permission to find your style of how you want to work with [[Microsoft Excel|Excel]].
 >
 > **[0:18](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/developing-your-own-style-with-formulas-and-functions?u=76281980&t=18)** There are people who write big formulas, people who write helper columns, people who put different things on different sheets and then bring 'em all back and summarize 'em on another sheet.
 >
@@ -209,8 +207,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - okay (1)
 
-#### Challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenges?u=76281980)
+#### [Challenges](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenges?u=76281980&t=49)** And I'm telling you that they're not easy.
 >
-> **[0:51](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenges?u=76281980&t=51)** They are going to challenge you because I want you to be good with Excel, alright?
+> **[0:51](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenges?u=76281980&t=51)** They are going to challenge you because I want you to be good with [[Microsoft Excel|Excel]], alright?
 >
 > **[0:57](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenges?u=76281980&t=57)** So we are not here to play around.
 >
@@ -252,12 +249,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980)
+#### [Tables](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980&t=0)** - [Instructor] Let's talk about tables and how they're different from ranges in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980&t=0)** - [Instructor] Let's talk about tables and how they're different from ranges in [[Microsoft Excel|Excel]].
 >
 > **[0:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables?u=76281980&t=6)** Here we've got identical sets of data.
 >
@@ -447,14 +443,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (2), [[Troubleshooting]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Versions:** 144.91 (1), 161.41 (1), 3.20 (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tables and absolute cell references
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables-and-absolute-cell-references?u=76281980)
+#### [Tables and absolute cell references](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tables-and-absolute-cell-references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,23 +597,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (1)
 > **UI Navigation:** open the (2), go to (1)
 > **Env Vars:** xlookup (2)
 > **Versions:** 105.7 (1), 5.7 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic arrays introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980)
+#### [Dynamic arrays introduction](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=0)** - Let's talk about the new calculation engine that's behind Excel and the new dynamic array functions.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=0)** - Let's talk about the new calculation engine that's behind [[Microsoft Excel|Excel]] and the new dynamic array functions.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=8)** We're not going to go into depth, in this course, with the dynamic arrays because they are worthy of entire courses.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=16)** And in fact, I have a course on dynamic arrays in the LinkedIn Learning Library, as do other authors.
+> **[0:16](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=16)** And in fact, I have a course on dynamic arrays in the [[LinkedIn]] Learning Library, as do other authors.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=23)** So check 'em out.
 >
@@ -682,7 +675,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=145)** There are even more.
 >
-> **[2:27](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=147)** Microsoft keeps releasing new functions just constantly.
+> **[2:27](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=147)** [[Microsoft]] keeps releasing new functions just constantly.
 >
 > **[2:33](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=153)** and it's exciting.
 >
@@ -712,7 +705,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=193)** Everything is in one column.
 >
-> **[3:18](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=198)** I didn't have to drag anything around, take it into power query, et cetera.
+> **[3:18](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=198)** I didn't have to drag anything around, take it into [[Microsoft Power Query|power query]], et cetera.
 >
 > **[3:22](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/dynamic-arrays-introduction?u=76281980&t=202)** So now what if I want to do this?
 >
@@ -758,7 +751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1), data (1), [[Microsoft]] (1), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1), [[Microsoft]] (1), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** tocol (1), choosecols (1), wraprows (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -770,8 +763,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IF function
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980)
+#### [IF function](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980&t=6)** And yes, let's review if.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980&t=10)** Okay, it'll help us ease into the rest of the course.
+> **[0:10](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980&t=10)** Okay, it'll help us ease into the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/if-function?u=76281980&t=14)** Here we have data, we've got our items.
 >
@@ -897,14 +889,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** w0026 (3), m2115 (2), w0252 (1), w0019b1212 (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### SUMIFS and COUNTIFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/sumifs-and-countifs?u=76281980)
+#### [SUMIFS and COUNTIFS](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/sumifs-and-countifs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1174,7 +1165,7 @@ created: 2026-05-02
 >
 > **[12:30](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/sumifs-and-countifs?u=76281980&t=750)** So these would be recurring payments, and these are non-recurring.
 >
-> **[12:34](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/sumifs-and-countifs?u=76281980&t=754)** One thing about pivot tables, if your data updates, you have to remember to refresh your pivot table.
+> **[12:34](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/sumifs-and-countifs?u=76281980&t=754)** One thing about [[Pivot Tables]], if your data updates, you have to remember to refresh your pivot table.
 >
 > **[12:41](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/sumifs-and-countifs?u=76281980&t=761)** A formula will automatically update.
 >
@@ -1194,7 +1185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), data (5), next (1), [[Pivot Tables]] (1), power (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1)
 > **Env Vars:** countifs (8), sumifs (8), maxifs (1), minifs (1)
 > **Cross-References:** go back to (7)
 > **UI Navigation:** go to (5), scroll down (1), select the (1)
@@ -1203,8 +1194,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### MAXIFS, MINIFS, and AVERAGEIFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/maxifs-minifs-and-averageifs?u=76281980)
+#### [MAXIFS, MINIFS, and AVERAGEIFS](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/maxifs-minifs-and-averageifs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1326,7 +1316,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (1)
 > **Env Vars:** int (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - here (1)
@@ -1336,14 +1325,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### VLOOKUP
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980)
+#### [VLOOKUP](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=0)** Let's talk about VLOOKUP.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=3)** This function is often the turning point for a lot of Excel users.
+> **[0:03](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=3)** This function is often the turning point for a lot of [[Microsoft Excel|Excel]] users.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=9)** I know it was for me, and I've talked with a lot of people.
 >
@@ -1409,7 +1397,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=219)** I want an exact match and I'm going to type zero and then close parentheses, enter, alright
 >
-> **[3:54](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=234)** CC-H2VUKI, It's saying electronics, let's check that.
+> **[3:54](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=234)** CC-H2VUKI, It's saying [[Electronics]], let's check that.
 >
 > **[4:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup?u=76281980&t=240)** Let's go back.
 >
@@ -1479,15 +1467,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Electronics]] (4), [[Microsoft Excel|Excel]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[Electronics]] (4), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** vlookup (15), xlookup (1), h2vuki (1)
 > **Cross-References:** go back to (3)
 > **Versions:** 736.66 (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 
-#### XLOOKUP
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup?u=76281980)
+#### [XLOOKUP](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1665,7 +1652,7 @@ created: 2026-05-02
 >
 > **[7:44](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup?u=76281980&t=464)** And we have the dates.
 >
-> **[7:46](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup?u=76281980&t=466)** Those are the numbers that Excel users to store dates in the background.
+> **[7:46](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup?u=76281980&t=466)** Those are the numbers that [[Microsoft Excel|Excel]] users to store dates in the background.
 >
 > **[7:51](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup?u=76281980&t=471)** And these are the start dates.
 >
@@ -1707,7 +1694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), data (3), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** xlookup (15), vlookup (7)
 > **UI Navigation:** double-click (4), go to (1)
 > **CLI Commands:** find (1)
@@ -1716,8 +1703,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### VLOOKUP and XLOOKUP comparison
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup-and-xlookup-comparison?u=76281980)
+#### [VLOOKUP and XLOOKUP comparison](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/vlookup-and-xlookup-comparison?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,14 +1763,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **Env Vars:** vlookup (14), xlookup (12)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### INDEX/MATCH
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/index-match?u=76281980)
+#### [INDEX/MATCH](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/index-match?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1918,7 +1902,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), hit (1)
 > **Env Vars:** index (8), match (8), vlookup (5), xlookup (3), ct3tk2 (1)
 > **SQL:** index (8)
 > **UI Navigation:** go to (2), dropdown (1)
@@ -1927,12 +1910,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The INDEX/MATCH vs. VLOOKUP controversy
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/the-index-match-vs-vlookup-controversy?u=76281980)
+#### [The INDEX/MATCH vs. VLOOKUP controversy](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/the-index-match-vs-vlookup-controversy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/the-index-match-vs-vlookup-controversy?u=76281980&t=1)** - As we go deeper into advanced Excel, there's something that I have to let you know about.
+> **[0:01](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/the-index-match-vs-vlookup-controversy?u=76281980&t=1)** - As we go deeper into advanced [[Microsoft Excel|Excel]], there's something that I have to let you know about.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/the-index-match-vs-vlookup-controversy?u=76281980&t=6)** In the Excel world, the number one controversy is over index match are V-lookup.
 >
@@ -1958,8 +1940,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - as (1)
 
-#### Two-way lookups
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/two-way-lookups?u=76281980)
+#### [Two-way lookups](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/two-way-lookups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2135,15 +2116,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (1), [[Search]] (1), next (1)
 > **Env Vars:** xlookup (8), i10 (1)
 > **Versions:** 0.8 (1), 0.7 (1), 10.80 (1), 0.65 (1), 439.08 (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Approximate and tiered matches
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/approximate-and-tiered-matches?u=76281980)
+#### [Approximate and tiered matches](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/approximate-and-tiered-matches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2389,14 +2368,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), product (2)
 > **Env Vars:** xlookup (5), vlookup (3), vlook (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### INDIRECT
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/indirect?u=76281980)
+#### [INDIRECT](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/indirect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2586,11 +2563,11 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/indirect?u=76281980&t=445)** Asterisk City, no spaces, and enter.
 >
-> **[7:31](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/indirect?u=76281980&t=451)** And those are some examples of how you can use indirect for truly dynamic integrated solutions in your Excel workbooks.
+> **[7:31](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/indirect?u=76281980&t=451)** And those are some examples of how you can use indirect for truly dynamic integrated solutions in your [[Microsoft Excel|Excel]] workbooks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hit (2), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (8)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** find (1), make (1)
@@ -2603,8 +2580,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Alt+Enter to make formulas more readable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/use-alt-plus-enter-to-make-formulas-more-readable?u=76281980)
+#### [Use Alt+Enter to make formulas more readable](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/use-alt-plus-enter-to-make-formulas-more-readable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2714,18 +2690,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (1), next (1)
 > **Versions:** 45.70 (2), 1.5 (2), 51.5 (1), 11.5 (1), 91.40 (1)
 > **UI Navigation:** open the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Formula vs. lookup table
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-lookup-table?u=76281980)
+#### [Formula vs. lookup table](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-lookup-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-lookup-table?u=76281980&t=0)** - [Instructor] When you're working with Excel and data, there are multiple ways to achieve a task and that means you have some decisions to make.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-lookup-table?u=76281980&t=0)** - [Instructor] When you're working with [[Microsoft Excel|Excel]] and data, there are multiple ways to achieve a task and that means you have some decisions to make.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-lookup-table?u=76281980&t=12)** In this video, we are going to look at writing a single formula versus using a LOOKUP array.
 >
@@ -2813,14 +2787,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** lookup (4), formulatext (1), xlookup (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Formula vs. helper columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-helper-columns?u=76281980)
+#### [Formula vs. helper columns](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/formula-vs-helper-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2960,7 +2933,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** convert (6), textafter (4), counta (3), textbefore (3)
 > **UI Navigation:** double-click (5), go to (3)
 > **Warnings:** troubleshoot (4), be careful (1)
@@ -2969,8 +2941,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build complex formulas in steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/build-complex-formulas-in-steps?u=76281980)
+#### [Build complex formulas in steps](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/build-complex-formulas-in-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3106,14 +3077,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1)
 > **Versions:** 37.28 (1), 337.28 (1), 327.96 (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [speaker] (1)
 
-#### Writing formulas for "future you"
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-formulas-for-future-you?u=76281980)
+#### [Writing formulas for "future you"](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-formulas-for-future-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3127,7 +3096,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-formulas-for-future-you?u=76281980&t=18)** The challenge is when you've got this big maze of functions and parentheses, in six months or two years will you know what you did?
 >
-> **[0:34](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-formulas-for-future-you?u=76281980&t=34)** That is something that's bitten a lot of developers and Excel users.
+> **[0:34](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-formulas-for-future-you?u=76281980&t=34)** That is something that's bitten a lot of developers and [[Microsoft Excel|Excel]] users.
 >
 > **[0:40](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-formulas-for-future-you?u=76281980&t=40)** You write this really exciting formula and then you think back, what did I do?
 >
@@ -3157,8 +3126,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), troubleshoot (1)
 > **Speakers:** - something (1)
 
-#### Compatibility functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/compatibility-functions?u=76281980)
+#### [Compatibility functions](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/compatibility-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3176,7 +3144,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/compatibility-functions?u=76281980&t=39)** Oh, now you see that little triangle by rank, and also by percent rank.
 >
-> **[0:46](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/compatibility-functions?u=76281980&t=46)** They are letting you know that these are compatibility functions, which means they exist in Excel today only for compatibility purposes with any old yesteryear functions that are still using rank, percent rank, et cetera.
+> **[0:46](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/compatibility-functions?u=76281980&t=46)** They are letting you know that these are compatibility functions, which means they exist in [[Microsoft Excel|Excel]] today only for compatibility purposes with any old yesteryear functions that are still using rank, percent rank, et cetera.
 >
 > **[1:07](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/compatibility-functions?u=76281980&t=67)** It's also strongly suggesting to you that you use something else.
 >
@@ -3344,15 +3312,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** double-click (3), go to (1)
 > **Versions:** 1.5 (1), 6.5 (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing 3D formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-3d-formulas?u=76281980)
+#### [Writing 3D formulas](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-3d-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3362,7 +3329,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-3d-formulas?u=76281980&t=17)** Let's look at 'em.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-3d-formulas?u=76281980&t=18)** Trip one, we've got gas, that word in B2 and then the amount that was spent on gas in C2, right?
+> **[0:18](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-3d-formulas?u=76281980&t=18)** Trip one, we've got gas, that [[Microsoft Word|word]] in B2 and then the amount that was spent on gas in C2, right?
 >
 > **[0:29](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/writing-3d-formulas?u=76281980&t=29)** Gas, lodging, destination, days.
 >
@@ -3458,8 +3425,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Volatile functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/volatile-functions?u=76281980)
+#### [Volatile functions](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/volatile-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3547,7 +3513,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), hit (2)
 > **Warnings:** be aware (4), watch out (1)
 > **CLI Commands:** make (1)
 > **Ports:** :23 (1)
@@ -3555,12 +3520,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### LET function overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/let-function-overview?u=76281980)
+#### [LET function overview](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/let-function-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/let-function-overview?u=76281980&t=0)** [Instructor] The let function in Excel is pretty new.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/let-function-overview?u=76281980&t=0)** [Instructor] The let function in [[Microsoft Excel|Excel]] is pretty new.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/let-function-overview?u=76281980&t=4)** And it forces us to think in a different way.
 >
@@ -3858,7 +3822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), hit (4), data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** mpg (3), h10 (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -3866,8 +3830,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Warnings:** be aware (1)
 
-#### Error handling: IFNA and IFERROR
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/error-handling-ifna-and-iferror?u=76281980)
+#### [Error handling: IFNA and IFERROR](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/error-handling-ifna-and-iferror?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3947,7 +3910,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** iferror (7), ifna (4), xlookup (2), xmatch (1), match (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Warnings:** be careful (2), warning (1)
@@ -3955,14 +3917,14 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Versions:** 2.22 (1)
 > **UI Navigation:** go to (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 5. Mid-Term Challenges
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge 1: Course completions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-1-subtitle-to-come-18460103?u=76281980)
+#### [Challenge 1: Course completions](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-1-subtitle-to-come-18460103?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4088,14 +4050,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** pip (2), make (1)
 > **Speakers:** - welcome (1), - okay (1)
 > **Cross-References:** go back to (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
-#### Challenge 2: Two-way lookup
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come-18454852?u=76281980)
+#### [Challenge 2: Two-way lookup](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come-18454852?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4153,14 +4113,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** xlookup (4)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (modern techy music) (1)
 
-#### Challenge 3: Guitars
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-3-subtitle-to-come?u=76281980)
+#### [Challenge 3: Guitars](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-3-subtitle-to-come?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4238,7 +4196,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Search]] (1)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (upbeat energetic music) (1), (upbeat energetic guitar music) (1)
 > **CLI Commands:** make (1)
@@ -4250,16 +4207,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time, rounding, and converting to decimals
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980)
+#### [Time, rounding, and converting to decimals](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980&t=0)** - [Instructor] Now let's look at some advanced ways of working with time.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980&t=6)** Now, time can be a deep, deep rabbit hole in Excel and a lot of it involves formatting.
+> **[0:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980&t=6)** Now, time can be a deep, deep rabbit hole in [[Microsoft Excel|Excel]] and a lot of it involves formatting.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980&t=13)** And in fact, I have a formatting course that you can check out that does go deeper into times as do a lot of other courses on the LinkedIn Learning Library.
+> **[0:13](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980&t=13)** And in fact, I have a formatting course that you can check out that does go deeper into times as do a lot of other courses on the [[LinkedIn]] Learning Library.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980&t=22)** So, we're going to do a few things in this video.
 >
@@ -4301,7 +4257,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980&t=125)** And then go to the end times 24, enter 4.25 hours, exactly.
 >
-> **[2:14](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980&t=134)** Now let's do the rest.
+> **[2:14](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980&t=134)** Now let's do the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:17](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/time-rounding-and-converting-to-decimals?u=76281980&t=137)** Double click to send it down.
 >
@@ -4355,15 +4311,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Ports:** :00 (5), :15 (2), :17 (1), :04 (1)
 > **UI Navigation:** go to (6)
 > **Versions:** 4.25 (2), 13.93 (1), 18.26 (1), 22.0 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### EOMONTH
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/eomonth?u=76281980)
+#### [EOMONTH](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/eomonth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4417,14 +4372,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** eomonth (5)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### YEARFRAC
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/yearfrac?u=76281980)
+#### [YEARFRAC](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/yearfrac?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4434,7 +4387,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/yearfrac?u=76281980&t=7)** Why?
 >
-> **[0:08](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/yearfrac?u=76281980&t=8)** So that when you need something, you might go into Excel and see if it's there, rather than do you have to write some complex formula.
+> **[0:08](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/yearfrac?u=76281980&t=8)** So that when you need something, you might go into [[Microsoft Excel|Excel]] and see if it's there, rather than do you have to write some complex formula.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/yearfrac?u=76281980&t=21)** If you poke around, if you ask some questions because wow, there are a lot of formulas here.
 >
@@ -4496,7 +4449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Engineering]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** yearfrac (3)
 > **Versions:** 14.086 (1), 0.18 (1)
 > **Code Identifiers:** end_date (1)
@@ -4509,8 +4462,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LEFT, RIGHT, and MID
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980)
+#### [LEFT, RIGHT, and MID](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4616,7 +4568,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=178)** Now everything is all split apart.
 >
-> **[3:02](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=182)** Now, let's look at products.
+> **[3:02](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=182)** Now, let's look at [[Microsoft Products|products]].
 >
 > **[3:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=186)** Now this gets a little sneaky.
 >
@@ -4756,7 +4708,7 @@ created: 2026-05-02
 >
 > **[6:55](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=415)** Now paste, because I want to be honest with you.
 >
-> **[6:59](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=419)** Watch this. We have Flash Fill in Excel.
+> **[6:59](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=419)** Watch this. We have Flash Fill in [[Microsoft Excel|Excel]].
 >
 > **[7:03](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=423)** So I'm going to go CC right here.
 >
@@ -4808,7 +4760,7 @@ created: 2026-05-02
 >
 > **[8:23](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=503)** Huh?
 >
-> **[8:25](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=505)** Zoom in.
+> **[8:25](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=505)** [[Zoom]] in.
 >
 > **[8:27](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=507)** We've got EELAS.
 >
@@ -4868,7 +4820,7 @@ created: 2026-05-02
 >
 > **[9:50](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=590)** Comma, if not found, this is what I want.
 >
-> **[9:55](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=595)** I'm going to hit the Windows key + period.
+> **[9:55](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=595)** I'm going to hit the [[Windows]] key + period.
 >
 > **[9:58](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/left-right-and-mid?u=76281980&t=598)** I want these eyeballs that say, look, 'cause something is wrong.
 >
@@ -4996,15 +4948,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), product (6), hit (4), next (3), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1), [[Zoom]] (1)
 > **Env Vars:** las (3), elas (2), a12014 (1), pql3 (1), eelas (1)
 > **UI Navigation:** go to (8), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [oz] (1)
 
-#### UPPER, LOWER, and PROPER
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/upper-lower-and-proper?u=76281980)
+#### [UPPER, LOWER, and PROPER](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/upper-lower-and-proper?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5070,7 +5021,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/upper-lower-and-proper?u=76281980&t=181)** Proper gave us an o.
 >
-> **[3:05](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/upper-lower-and-proper?u=76281980&t=185)** No, that should be capital because it stands for post office box.
+> **[3:05](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/upper-lower-and-proper?u=76281980&t=185)** No, that should be capital because it stands for post [[Microsoft Office|office]] box.
 >
 > **[3:11](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/upper-lower-and-proper?u=76281980&t=191)** Notice in cell E 13, PhD., properly it would be capital P, lowercase h, capital D.
 >
@@ -5082,15 +5033,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Warnings:** watch out (2)
 > **Env Vars:** keyes (1)
 > **UI Navigation:** double-click (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### TEXTJOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textjoin?u=76281980)
+#### [TEXTJOIN](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textjoin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5266,7 +5216,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textjoin?u=76281980&t=353)** I'm going to go up top.
 >
-> **[5:56](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textjoin?u=76281980&t=356)** I'm going to put and, and then double quote space, and then the word county, and double quote.
+> **[5:56](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textjoin?u=76281980&t=356)** I'm going to put and, and then double quote space, and then the [[Microsoft Word|word]] county, and double quote.
 >
 > **[6:05](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textjoin?u=76281980&t=365)** Enter.
 >
@@ -5290,15 +5240,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### FILTER
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/filter?u=76281980)
+#### [FILTER](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5440,17 +5389,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### UNIQUE
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/unique?u=76281980)
+#### [UNIQUE](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/unique?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/unique?u=76281980&t=0)** - [Instructor] The Excel developers continue to bring us new functions.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/unique?u=76281980&t=0)** - [Instructor] The [[Microsoft Excel|Excel]] developers continue to bring us new functions.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/unique?u=76281980&t=6)** One of them is the UNIQUE function.
 >
@@ -5598,15 +5545,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** unique (6), vlookup (2), sumproduct (2), fcn (2), counta (2)
 > **UI Navigation:** scroll down (3)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### TOCOL
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tocol?u=76281980)
+#### [TOCOL](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5614,7 +5560,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tocol?u=76281980&t=5)** This is exciting.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tocol?u=76281980&t=7)** For years, a lot of Excel users have wanted a way of taking an array like this and stack it all up into one column so that it's useful.
+> **[0:07](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tocol?u=76281980&t=7)** For years, a lot of [[Microsoft Excel|Excel]] users have wanted a way of taking an array like this and stack it all up into one column so that it's useful.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/tocol?u=76281980&t=19)** Maybe you've got people's names and then shifts, and you would like to be able to see just a tall column of how many people are in the list more than once.
 >
@@ -5676,15 +5622,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** unique (7), tocol (3)
 > **Cross-References:** previous video (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### TEXTBEFORE and TEXTAFTER
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textbefore-and-textafter?u=76281980)
+#### [TEXTBEFORE and TEXTAFTER](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textbefore-and-textafter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5692,7 +5637,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textbefore-and-textafter?u=76281980&t=4)** Hopefully you have this.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textbefore-and-textafter?u=76281980&t=7)** The dynamic arrays are relatively new in Excel, and the team keeps putting out more and more functions.
+> **[0:07](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textbefore-and-textafter?u=76281980&t=7)** The dynamic arrays are relatively new in [[Microsoft Excel|Excel]], and the team keeps putting out more and more functions.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/textbefore-and-textafter?u=76281980&t=17)** Here is one of the newer ones, and it's so cool.
 >
@@ -5836,21 +5781,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** ccj (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### RANDARRY
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/randarry?u=76281980)
+#### [RANDARRY](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/randarry?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/randarry?u=76281980&t=0)** - [Instructor] Being able to make fake data, random data, dummy data as sometimes was called, is really helpful.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/randarry?u=76281980&t=9)** Sometimes, you want to play with a new function or Excel feature.
+> **[0:09](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/randarry?u=76281980&t=9)** Sometimes, you want to play with a new function or [[Microsoft Excel|Excel]] feature.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/randarry?u=76281980&t=15)** Sometimes, you need data to show somebody how to use a feature.
 >
@@ -6008,7 +5952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Excel|Excel]] (2), feature (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** randarray (5), counta (2), randerray (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2)
@@ -6021,12 +5965,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LARGE and SMALL
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/large-and-small?u=76281980)
+#### [LARGE and SMALL](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/large-and-small?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/large-and-small?u=76281980&t=0)** - [Instructor] In Excel, there is max and min to give you the max number or the minimum number in an array.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/large-and-small?u=76281980&t=0)** - [Instructor] In [[Microsoft Excel|Excel]], there is max and min to give you the max number or the minimum number in an array.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/large-and-small?u=76281980&t=12)** But what happens if you don't want just the top one or the bottom one, but you'd like the second value, the fifth value, et cetera?
 >
@@ -6110,16 +6053,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### MEDIAN and MODE
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/median-and-mode?u=76281980)
+#### [MEDIAN and MODE](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/median-and-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/median-and-mode?u=76281980&t=0)** - [Instructor] Let's look at some ways that Excel can help us get better insight into our data.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/median-and-mode?u=76281980&t=0)** - [Instructor] Let's look at some ways that [[Microsoft Excel|Excel]] can help us get better insight into our data.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/median-and-mode?u=76281980&t=7)** Here we have a list of donations in column B.
 >
@@ -6241,19 +6183,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### FACT
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980)
+#### [FACT](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980&t=0)** - [Instructor] Let's do some statistics.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980&t=0)** - [Instructor] Let's do some [[Statistics]].
 >
-> **[0:02](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980&t=2)** We're not going to get deep into it, but I just want to show you more about what Excel can do for you on an advanced level.
+> **[0:02](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980&t=2)** We're not going to get deep into it, but I just want to show you more about what [[Microsoft Excel|Excel]] can do for you on an advanced level.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980&t=11)** Here, we have these musicians and instruments.
 >
@@ -6309,7 +6250,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980&t=142)** We need six rows.
 >
-> **[2:25](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980&t=145)** And the rest of the formula's arguments are optional.
+> **[2:25](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980&t=145)** And the [[Representational State Transfer (REST)|rest]] of the formula's arguments are optional.
 >
 > **[2:30](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/fact?u=76281980&t=150)** I don't need them.
 >
@@ -6355,18 +6296,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Statistics]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3)
 > **Speakers:** - [instructor] (1)
 
-#### COMBIN COMBINA
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/combin-combina?u=76281980)
+#### [COMBIN COMBINA](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/combin-combina?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/combin-combina?u=76281980&t=0)** - [Narrator] Here's something that's pretty sophisticated to understand and I'm not going to go too deep into it.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/combin-combina?u=76281980&t=7)** I'm just wanting to show you more of Excel.
+> **[0:07](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/combin-combina?u=76281980&t=7)** I'm just wanting to show you more of [[Microsoft Excel|Excel]].
 >
 > **[0:12](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/combin-combina?u=76281980&t=12)** What I'm going to show you is in a fairly robust section of functions.
 >
@@ -6478,12 +6418,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rounding
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/rounding?u=76281980)
+#### [Rounding](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/rounding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/rounding?u=76281980&t=0)** - Excel gives us a lot of options for rounding numbers.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/rounding?u=76281980&t=0)** - [[Microsoft Excel|Excel]] gives us a lot of options for rounding numbers.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/rounding?u=76281980&t=6)** In this table, we start with the values column and those are numbers that we're going to round in various ways and compare what they do.
 >
@@ -6606,8 +6545,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), stands for (1)
 > **Speakers:** - excel (1)
 
-#### MROUND, CEILING, and FLOOR
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mround-ceiling-and-floor?u=76281980)
+#### [MROUND, CEILING, and FLOOR](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mround-ceiling-and-floor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6647,7 +6585,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mround-ceiling-and-floor?u=76281980&t=110)** We could use the Ceiling function, but as I described in the compatibility functions video, we should stay away from those.
 >
-> **[1:59](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mround-ceiling-and-floor?u=76281980&t=119)** They are good for really old versions of Excel, and we should use Ceiling Math.
+> **[1:59](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mround-ceiling-and-floor?u=76281980&t=119)** They are good for really old versions of [[Microsoft Excel|Excel]], and we should use Ceiling Math.
 >
 > **[2:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mround-ceiling-and-floor?u=76281980&t=126)** And it says, "Rounds a number up to the nearest integer or to the nearest multiple of significance."
 >
@@ -6701,14 +6639,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.65 (2), 0.55 (2), 3.19 (1), 3.25 (1), 2.99 (1)
 > **UI Navigation:** select the (1), go to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### MOD
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mod?u=76281980)
+#### [MOD](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mod?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6830,7 +6767,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mod?u=76281980&t=320)** If, open parenthesis, the mod equals two,
 >
-> **[5:28](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mod?u=76281980&t=328)** then I'm going to hit the Windows key and the period and then I'm going to type microphone.
+> **[5:28](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mod?u=76281980&t=328)** then I'm going to hit the [[Windows]] key and the period and then I'm going to type microphone.
 >
 > **[5:37](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/mod?u=76281980&t=337)** All right, let's grab this microphone.
 >
@@ -6892,7 +6829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), data (1), hit (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.2 (1)
@@ -6904,12 +6841,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wildcards
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/wildcards?u=76281980)
+#### [Wildcards](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/wildcards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/wildcards?u=76281980&t=0)** - Let's take a look at using wildcards in your Excel formulas.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/wildcards?u=76281980&t=0)** - Let's take a look at using wildcards in your [[Microsoft Excel|Excel]] formulas.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/wildcards?u=76281980&t=5)** These are really handy when you need some information out of your data, but without wildcards, you would have to write some really complicated formulas, or you'd have to find a way to peel the data apart, get what you need, and then put the data back together.
 >
@@ -7051,14 +6987,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), data (5), [[Microsoft Excel|Excel]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - let (1)
 
-#### XLOOKUP with wildcards
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup-with-wildcards?u=76281980)
+#### [XLOOKUP with wildcards](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup-with-wildcards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7142,7 +7077,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup-with-wildcards?u=76281980&t=186)** Okay, starts with three and then asterisk.
 >
-> **[3:11](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup-with-wildcards?u=76281980&t=191)** And we have to use a tilde before I wild card so that Excel knows when I use this question mark that I'm not using it as a wild card.
+> **[3:11](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup-with-wildcards?u=76281980&t=191)** And we have to use a tilde before I wild card so that [[Microsoft Excel|Excel]] knows when I use this question mark that I'm not using it as a wild card.
 >
 > **[3:24](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/xlookup-with-wildcards?u=76281980&t=204)** So the tilde and question mark, enter.
 >
@@ -7182,7 +7117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** xlookup (5)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -7193,14 +7128,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ROMAN and ARABIC
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/roman-and-arabic?u=76281980)
+#### [ROMAN and ARABIC](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/roman-and-arabic?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/roman-and-arabic?u=76281980&t=0)** - [Narrator] Here, I'm going to show you a couple of functions in this video, that you may never use it.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/roman-and-arabic?u=76281980&t=6)** I'm just being honest with you... but I'm showing you these functions to get you to explore, to help you see that when you do have a need around data, Excel probably does have you covered.
+> **[0:06](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/roman-and-arabic?u=76281980&t=6)** I'm just being honest with you... but I'm showing you these functions to get you to explore, to help you see that when you do have a need around data, [[Microsoft Excel|Excel]] probably does have you covered.
 >
 > **[0:25](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/roman-and-arabic?u=76281980&t=25)** So, right now we are looking at some movies, then the copyright year.
 >
@@ -7302,21 +7236,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** mcmlix (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### IMAGE
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/image?u=76281980)
+#### [IMAGE](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/image?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/image?u=76281980&t=0)** - Now I'm going to show you something that is really cool.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/image?u=76281980&t=4)** A lot of Excel users have wanted a way to bring images into Excel and have them adjust with formulas.
+> **[0:04](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/image?u=76281980&t=4)** A lot of [[Microsoft Excel|Excel]] users have wanted a way to bring images into Excel and have them adjust with formulas.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/image?u=76281980&t=17)** And there is currently a way of doing that, but it is a very delicate, complex process.
 >
@@ -7488,7 +7421,7 @@ created: 2026-05-02
 >
 > **[8:23](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/image?u=76281980&t=503)** All right, so now click away from that, and I'm going to go back and then go to C1.
 >
-> **[8:31](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/image?u=76281980&t=511)** Data, data validation, data validation, list.
+> **[8:31](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/image?u=76281980&t=511)** Data, [[Data Validation]], data validation, list.
 >
 > **[8:39](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/image?u=76281980&t=519)** In cell, drop down.
 >
@@ -7510,7 +7443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Data Validation]] (2)
 > **Env Vars:** url (5)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -7518,8 +7451,7 @@ created: 2026-05-02
 > **Speakers:** - now (1)
 > **Non-Speech:** (pleased laughter) (1)
 
-#### CHAR and CODE
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980)
+#### [CHAR and CODE](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7603,7 +7535,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=225)** Now let's do one other thing.
 >
-> **[3:48](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=228)** We have these pizza toppings and instead of seeing them as a comma, space in a line with word wrap, we want 'em all stacked up without a comma or space in between.
+> **[3:48](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=228)** We have these pizza toppings and instead of seeing them as a comma, space in a line with [[Microsoft Word|word]] wrap, we want 'em all stacked up without a comma or space in between.
 >
 > **[4:05](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=245)** What we'd like to see extra cheese and then garlic underneath it for pizza one.
 >
@@ -7613,7 +7545,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=260)** CHAR 160 is a non breaking space.
 >
-> **[4:23](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=263)** They all look the same, you know, to our eye but Excel treats 'em all different.
+> **[4:23](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=263)** They all look the same, you know, to our eye but [[Microsoft Excel|Excel]] treats 'em all different.
 >
 > **[4:30](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/char-and-code?u=76281980&t=270)** So let's get these toppings stacked up in single cells and then we can get out of here.
 >
@@ -7664,8 +7596,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge 1: Towers
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-1-subtitle-to-come?u=76281980)
+#### [Challenge 1: Towers](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-1-subtitle-to-come?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7751,14 +7682,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Non-Speech:** (intro music) (1), (uplifting music) (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)
 
-#### Challenge 2: Donations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come?u=76281980)
+#### [Challenge 2: Donations](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7806,7 +7735,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come?u=76281980&t=111)** And one thing that we can do is highlight that whole range and then look down at the bottom.
 >
-> **[1:58](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come?u=76281980&t=118)** And Excel is helping us verify that our answer is correct.
+> **[1:58](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come?u=76281980&t=118)** And [[Microsoft Excel|Excel]] is helping us verify that our answer is correct.
 >
 > **[2:03](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come?u=76281980&t=123)** Our average is, okay, equals median.
 >
@@ -7864,7 +7793,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come?u=76281980&t=325)** And I'm going to tell you a secret.
 >
-> **[5:28](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come?u=76281980&t=328)** I got an F in high school algebra, but I did eventually make it to second semester calculus.
+> **[5:28](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come?u=76281980&t=328)** I got an F in high school algebra, but I did eventually make it to second semester [[Calculus]].
 >
 > **[5:35](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-2-subtitle-to-come?u=76281980&t=335)** It just takes some effort, that's all.
 >
@@ -7872,15 +7801,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[Calculus]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Calculus]] (1)
 > **Versions:** 581.36 (1), 654.42 (1)
 > **Non-Speech:** (upbeat music) (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge 3: Assignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-3-subtitle-to-come-18454853?u=76281980)
+#### [Challenge 3: Assignment](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-3-subtitle-to-come-18454853?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8012,13 +7940,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (1)
 > **Env Vars:** tocol (1), textbefore (1)
 > **Non-Speech:** (energetic music) (1), (lively music) (1)
 > **Speakers:** - [teacher] (1)
 
-#### Challenge 4: Course order
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-4-subtitle-to-come?u=76281980)
+#### [Challenge 4: Course order](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/challenge-4-subtitle-to-come?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8076,8 +8002,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take your Excel skills to the next level
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980)
+#### [Take your Excel skills to the next level](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8089,13 +8014,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980&t=12)** But this really is about you and this achievement.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980&t=16)** But now the real work starts because I've exposed you to a lot of formulas and functions in Excel, and now you have to implement and get exposed to a lot of situations where you can use what you just learned.
+> **[0:16](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980&t=16)** But now the real work starts because I've exposed you to a lot of formulas and functions in [[Microsoft Excel|Excel]], and now you have to implement and get exposed to a lot of situations where you can use what you just learned.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980&t=33)** Also, you can go deeper.
 >
 > **[0:37](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980&t=37)** I touched on times and formatting in this course, and I have courses on those.
 >
-> **[0:44](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980&t=44)** There are other courses on the LinkedIn library that you can dig into to go deeper on some of the things that I was only able to cover at a surface level.
+> **[0:44](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980&t=44)** There are other courses on the [[LinkedIn]] library that you can dig into to go deeper on some of the things that I was only able to cover at a surface level.
 >
 > **[0:55](https://www.linkedin.com/learning/excel-advanced-formulas-and-functions-2023/take-your-excel-skills-to-the-next-level?u=76281980&t=55)** You are well on your way, and again thank you and congratulations.
 

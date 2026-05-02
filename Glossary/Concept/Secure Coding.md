@@ -30,10 +30,10 @@ created: 2026-05-02
 ## Courses
 
 1. [[Programming Foundations- Secure Coding (2018)]] — 15 mentions
-2. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 3 mentions
-3. [[Artificial Intelligence and Application Security]] — 3 mentions
-4. [[AI Product Security- Foundations and Proactive Security for AI]] — 3 mentions
-5. [[Ethical Hacking- Cloud Computing]] — 2 mentions
+2. [[Ethical Hacking- Cloud Computing]] — 4 mentions
+3. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 3 mentions
+4. [[Artificial Intelligence and Application Security]] — 3 mentions
+5. [[AI Product Security- Foundations and Proactive Security for AI]] — 3 mentions
 6. [[Cybersecurity Careers- Become a Security Auditor]] — 2 mentions
 7. [[Understanding Zero Trust]] — 2 mentions
 8. [[Hands-On Introduction- Python]] — 2 mentions
@@ -60,11 +60,11 @@ created: 2026-05-02
 ## Learning Paths
 
 1. [[Become a Programmer- Foundations]] — 15 total mentions
-2. [[Explore Cybersecurity Careers]] — 4 total mentions
-3. [[Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning]] — 3 total mentions
-4. [[Develop Your AI Skills as a Cybersecurity Professional]] — 3 total mentions
-5. [[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]] — 3 total mentions
-6. [[Become an Ethical Hacker]] — 2 total mentions
+2. [[Become an Ethical Hacker]] — 4 total mentions
+3. [[Explore Cybersecurity Careers]] — 4 total mentions
+4. [[Building AI Products- Security Essentials Professional Certificate by LinkedIn Learning]] — 3 total mentions
+5. [[Develop Your AI Skills as a Cybersecurity Professional]] — 3 total mentions
+6. [[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]] — 3 total mentions
 7. [[Digital Transformation for Tech Leaders]] — 2 total mentions
 8. [[A Quick Start Guide to Programming in Python]] — 2 total mentions
 9. [[Python Hands-On Practice]] — 2 total mentions

@@ -214,8 +214,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS security overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/aws-security-overview?u=76281980)
+#### [AWS security overview](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/aws-security-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,19 +228,18 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/aws-security-overview?u=76281980&t=31)** This course is designed to give you a comprehensive understanding of the security and compliance tools available within AWS and how to use them.
 >
-> **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/aws-security-overview?u=76281980&t=41)** Hi, I'm Sharif Nijim, and I'd like to welcome you to our complete guide to security and compliance in Amazon Web Services.
+> **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/aws-security-overview?u=76281980&t=41)** Hi, I'm Sharif Nijim, and I'd like to welcome you to our complete guide to security and compliance in [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/aws-security-overview?u=76281980&t=49)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), cloud (3), data (2), aws (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [sharif] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,7 +257,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/what-you-should-know?u=76281980&t=51)** An understanding of server virtualization is useful, as is an understanding of access controls and identity management.
 >
-> **[1:01](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/what-you-should-know?u=76281980&t=61)** Think of this course as selecting appetizer-sized morsels from an overflowing AWS security and compliance buffet.
+> **[1:01](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/what-you-should-know?u=76281980&t=61)** Think of this course as selecting appetizer-sized morsels from an overflowing [[AWS Security]] and compliance buffet.
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/what-you-should-know?u=76281980&t=70)** You'll learn about security and compliance foundations, how AWS implements IAM, multi account considerations, how to detect and respond to security incidents, and the tools available to help protect your networks, systems, applications, and data.
 >
@@ -275,7 +273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Security]] (4), business (1), database (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[AWS Security]] (1)
 > **Env Vars:** aws (7), iam (1)
 > **CLI Commands:** aws (7)
 > **Definitions:** is a  (1), is an  (1)
@@ -286,12 +284,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding shared responsibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980)
+#### [Understanding shared responsibility](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=0)** - [Instructor] Let's examine foundational security concepts for operating in Amazon Web Services.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=0)** - [Instructor] Let's examine foundational security concepts for operating in [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=7)** Before we get hands-on in the AWS console, it's important to understand the AWS shared responsibility model.
 >
@@ -327,7 +324,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=146)** For example, there are a number of compute services provided by AWS.
 >
-> **[2:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=152)** These services include the Elastic Compute Cloud, or EC2.
+> **[2:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=152)** These services include the Elastic Compute Cloud, or [[Amazon EC2|EC2]].
 >
 > **[2:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=158)** That's where you make virtual servers.
 >
@@ -347,17 +344,17 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=205)** Elastic File System, or EFS, is a paper-use file system storage offering, while Glacier is a cost-effective service intended for archival storage.
 >
-> **[3:37](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=217)** AWS has many database offerings, including Relational Database Services, or RDS, which provides managed relational databases, including MySQL, SQL Server, and Oracle.
+> **[3:37](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=217)** AWS has many database offerings, including Relational Database Services, or RDS, which provides managed [[Relational Databases]], including [[MySQL]], [[Microsoft SQL Server|SQL Server]], and Oracle.
 >
-> **[3:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=230)** DynamoDB is a managed NoSQL database.
+> **[3:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=230)** DynamoDB is a managed [[NoSQL]] database.
 >
-> **[3:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=234)** ElastiCache is available for in-memory caching, Redshift for data warehousing, and Neptune for your graph database needs.
+> **[3:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=234)** ElastiCache is available for in-memory caching, Redshift for [[Data Warehousing]], and Neptune for your graph database needs.
 >
 > **[4:04](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=244)** Among the networking services, you'll find Virtual Private Cloud, which lets you create independent, isolated virtual networks.
 >
 > **[4:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=254)** Think of a VPC as your virtual data center in the cloud.
 >
-> **[4:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=258)** Route 53 provides domain name system services, and CloudFront provides a global content delivery network.
+> **[4:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=258)** Route 53 provides [[Domain Name System (DNS)|domain name system]] services, and CloudFront provides a global content delivery network.
 >
 > **[4:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=267)** AWS is responsible for the security of the cloud.
 >
@@ -371,7 +368,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=304)** Services you operate rely on appropriate network, firewall, and operating system configurations.
 >
-> **[5:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=311)** The data within these systems can be of varied data classification status, some of which require encryption.
+> **[5:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=311)** The data within these systems can be of varied [[Data Classification]] status, some of which require encryption.
 >
 > **[5:20](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=320)** And of course, all enterprises possess valuable data.
 >
@@ -401,11 +398,11 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=420)** This is true for administrative access for your CIS ops personnel, as well as application access for your end users.
 >
-> **[7:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=429)** Looking ahead, you can focus your attention on securing what you put into the cloud, while you can rest easy knowing that Amazon Web Services is maintaining the security of the components you use.
+> **[7:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980&t=429)** Looking ahead, you can focus your attention on securing what you put into the cloud, while you can [[Representational State Transfer (REST)|rest]] easy knowing that Amazon Web Services is maintaining the security of the components you use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (21), [[Security]] (8), database (7), data (6), cloud (6)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Relational Databases]] (1), [[MySQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** aws (21), ec2 (6), rds (3), ebs (1), efs (1)
 > **CLI Commands:** aws (21), az (1), make (1), mysql (1), find (1)
 > **Definitions:** is a  (6), known as (1), is an  (1)
@@ -414,8 +411,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the AWS security landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980)
+#### [Understanding the AWS security landscape](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,32 +427,31 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=34)** AWS offers a number of detective controls to help you understand what's going on in your ecosystem.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=42)** This includes everything from data classification and application security to threat detection and vulnerability scanning.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=42)** This includes everything from [[Data Classification]] and [[Application Security]] to threat detection and vulnerability scanning.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=50)** In terms of infrastructure protection, AWS has offerings that offer protection from distributed denial of service attacks, as well as more granular controls for filtering web traffic.
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=64)** In terms of data protection, AWS provides tools for the creation and management of encryption keys, as well as SSL/TLS certificate management.
 >
-> **[1:16](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=76)** AWS also provides a variety of network security controls.
+> **[1:16](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=76)** AWS also provides a variety of [[Network Security]] controls.
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=81)** When you create VPCs within AWS, you have the ability to apply network access control lists, or NACLs.
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=90)** Acting as a firewall, NACLs allow you to control inbound and outbound network traffic in a stateless manner.
 >
-> **[1:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=99)** Security groups are controls that apply to services like EC2 instances, application load balancers, and managed relational databases.
+> **[1:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=99)** Security groups are controls that apply to services like [[Amazon EC2|EC2]] instances, application load balancers, and managed [[Relational Databases]].
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-the-aws-security-landscape?u=76281980&t=109)** Security groups act as a stateful virtual firewall, which you can configure to allow network traffic on ports you specify.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), [[Security]] (6), management (3), traffic (3), application (2)
+> **Frameworks & Libraries:** [[Data Classification]] (1), [[Application Security]] (1), [[Network Security]] (1), [[Amazon EC2|Ec2]] (1), [[Relational Databases]] (1)
 > **Env Vars:** aws (9), iam (1), ssl (1), tls (1), ec2 (1)
 > **CLI Commands:** aws (9)
 > **Prerequisites:** configure (3)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding separation of duties
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-separation-of-duties?u=76281980)
+#### [Understanding separation of duties](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-separation-of-duties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +465,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-separation-of-duties?u=76281980&t=40)** Auditors love separation of duties, and for a good reason.
 >
-> **[0:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-separation-of-duties?u=76281980&t=45)** Implementing this best practice within your AWS account will definitely get you style points when it comes time for your annual IT audit.
+> **[0:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-separation-of-duties?u=76281980&t=45)** Implementing this best practice within your AWS account will definitely get you style points when it comes time for your annual [[IT Audit]].
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-separation-of-duties?u=76281980&t=54)** Let's explore how to protect your account by implementing separation of duties in concert with multifactor authentication.
 >
@@ -490,7 +485,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-separation-of-duties?u=76281980&t=114)** You probably already have MFA configured for systems you currently have access to.
 >
-> **[1:59](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-separation-of-duties?u=76281980&t=119)** On the personal side, it's a good idea to implement MFA for your LinkedIn account, Google account, Apple ID, and any financial organization.
+> **[1:59](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-separation-of-duties?u=76281980&t=119)** On the personal side, it's a good idea to implement MFA for your [[LinkedIn]] account, [[Google]] account, Apple ID, and any financial organization.
 >
 > **[2:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-separation-of-duties?u=76281980&t=131)** Let's outline how to dive in and get that root account protected.
 >
@@ -520,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), aws (5), [[Engineering]] (4), [[IT Audit]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[IT Audit]] (1), [[LinkedIn]] (1), [[Google]] (1)
 > **Env Vars:** mfa (9), aws (5)
 > **CLI Commands:** aws (5), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -528,8 +523,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing separation of duties
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/implementing-separation-of-duties?u=76281980)
+#### [Implementing separation of duties](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/implementing-separation-of-duties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -633,7 +627,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), [[Security]] (5), next (4), web (3), management (2)
 > **Env Vars:** mfa (15), aws (9), iam (5)
 > **CLI Commands:** aws (9)
 > **Tools:** aws console (3)
@@ -641,8 +634,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding CloudTrail
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980)
+#### [Understanding CloudTrail](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=57)** One type is management events, which record changes made along the AWS control plane.
 >
-> **[1:05](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=65)** Example management events include setting up MFA, creating IAM users and creating EC2 instances.
+> **[1:05](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=65)** Example management events include setting up MFA, creating IAM users and creating [[Amazon EC2|EC2]] instances.
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=74)** Data events record information along the AWS data plane.
 >
@@ -676,7 +668,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=86)** That said, there is an additional charge.
 >
-> **[1:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=89)** For example, a data event for S3 can capture metadata about every time an S3 object is accessed or a Lambda function fires.
+> **[1:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=89)** For example, a data event for S3 can capture [[Metadata]] about every time an S3 object is accessed or a Lambda function fires.
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=99)** As you can imagine, data events can accumulate very quickly.
 >
@@ -686,7 +678,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=121)** Let's walk through an example.
 >
-> **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=123)** AWS famously uses application programming interfaces or APIs as the foundation for internal communications.
+> **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=123)** AWS famously uses [[Application Programming Interfaces (API)|application programming interfaces]] or APIs as the foundation for internal communications.
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=132)** APIs provide a consistent way to interact with AWS services from a variety of different sources.
 >
@@ -694,7 +686,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=149)** EC2 instances are virtual servers running in AWS.
 >
-> **[2:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=153)** AWS provides software development kits or SDKs for a variety of popular programming languages, including Java, [microsoft.net](https://microsoft.net), Ruby, Python, and PHP to name a few.
+> **[2:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=153)** AWS provides [[Software Development]] kits or SDKs for a variety of popular programming languages, including [[Java]], [[[Microsoft]].net](https://microsoft.net), Ruby, [[Python (Programming Language)|Python]], and [[PHP]] to name a few.
 >
 > **[2:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudtrail?u=76281980&t=169)** Under the covers, all of these SDKs use the same backend API to interact with EC2.
 >
@@ -712,7 +704,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), [[Amazon EC2|Ec2]] (5), data (5), api (4), web (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Metadata]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Software Development]] (1), [[Java]] (1)
 > **Env Vars:** aws (13), ec2 (5), api (4), mfa (1), iam (1)
 > **CLI Commands:** aws (13), ruby (1), python (1), php (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -721,8 +713,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Prerequisites:** configure (1)
 
-#### Enabling CloudTrail
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-cloudtrail?u=76281980)
+#### [Enabling CloudTrail](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-cloudtrail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -826,7 +817,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-cloudtrail?u=76281980&t=317)** Here, once again, we can see the time, the region, the source IP address, and the fact that it was the root account.
 >
-> **[5:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-cloudtrail?u=76281980&t=327)** Scrolling down to the event record, we can see the JSON for the event itself.
+> **[5:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-cloudtrail?u=76281980&t=327)** Scrolling down to the event record, we can see the [[JSON]] for the event itself.
 >
 > **[5:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-cloudtrail?u=76281980&t=332)** Examining the details, we can see that the identity and access management user named Olivia was removed from this account.
 >
@@ -838,7 +829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), aws (4), next (4), api (4), management (3)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** aws (4), api (4), kms (3), iam (1), mfa (1)
 > **CLI Commands:** aws (4), make (1)
 > **Analogies:** imagine (2), for example (2)
@@ -847,8 +838,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** note that (2)
 
-#### Understanding CloudWatch
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980)
+#### [Understanding CloudWatch](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,7 +854,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=31)** Most AWS services integrate with CloudWatch by default.
 >
-> **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=36)** Since EC2 is one of the most widely used AWS services, let's look at it first.
+> **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=36)** Since [[Amazon EC2|EC2]] is one of the most widely used AWS services, let's look at it first.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=44)** Included in the cost of running an EC2 instance is basic CloudWatch monitoring.
 >
@@ -906,7 +896,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=192)** AWS recognizes that memory utilization is an important metric to have visibility into when looking at overall system health.
 >
-> **[3:23](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=203)** If you want to gather memory metrics, AWS provides a CloudWatch software agent, which you can install on either Linux or Windows operating systems.
+> **[3:23](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=203)** If you want to gather memory metrics, AWS provides a CloudWatch software agent, which you can install on either [[Linux]] or [[Windows]] operating systems.
 >
 > **[3:35](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=215)** You can also deploy the CloudWatch software agent to servers that you may have on-premises.
 >
@@ -930,7 +920,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=281)** While automated alerting and proactive responses are very useful features, sometimes you just want to get an overall look at the health of your system.
 >
-> **[4:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=291)** To that end, you can configure customized dashboards in CloudWatch.
+> **[4:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=291)** To that end, you can configure customized [[Dashboards]] in CloudWatch.
 >
 > **[4:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch?u=76281980&t=297)** With a dashboard, you can select the metrics you want to see.
 >
@@ -946,7 +936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), [[Amazon EC2|Ec2]] (6), [[Security]] (2), data (1), api (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Linux]] (1), [[Windows]] (1), [[Dashboards]] (1)
 > **Env Vars:** aws (8), ec2 (6), cpu (3), api (1)
 > **CLI Commands:** aws (8), make (1)
 > **Prerequisites:** configure (6), install (2)
@@ -955,8 +945,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Best Practices:** best practice (1)
 
-#### Understanding CloudWatch alarms
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch-alarms?u=76281980)
+#### [Understanding CloudWatch alarms](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch-alarms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,7 +957,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch-alarms?u=76281980&t=19)** The first state is OK.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch-alarms?u=76281980&t=22)** For instance, suppose you create an alarm that triggers when CPU utilization on an EC2 instance exceeds 75%.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch-alarms?u=76281980&t=22)** For instance, suppose you create an alarm that triggers when CPU utilization on an [[Amazon EC2|EC2]] instance exceeds 75%.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cloudwatch-alarms?u=76281980&t=31)** Anytime the CPU utilization is under 75%, the alarm would be in an OK state.
 >
@@ -1034,7 +1023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), feature (2), aws (1), next (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7)
 > **Env Vars:** cpu (7), ec2 (7), alarm (5), insufficient_data (4), sns (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2), for instance (1)
@@ -1043,8 +1032,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring Simple Notification Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-simple-notification-service?u=76281980)
+#### [Configuring Simple Notification Service](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-simple-notification-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,7 +1052,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-simple-notification-service?u=76281980&t=49)** If you want to receive that message, you can simply subscribe to that topic.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-simple-notification-service?u=76281980&t=54)** Topic subscriptions can take many forms including an HTTP endpoint and email address.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-simple-notification-service?u=76281980&t=54)** Topic subscriptions can take many [[Forms]] including an HTTP endpoint and email address.
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-simple-notification-service?u=76281980&t=61)** Push notifications to a mobile app and SMS messages. Within the AWS ecosystem.
 >
@@ -1108,7 +1096,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-simple-notification-service?u=76281980&t=182)** Since security alerts is relatively concise, I'm going to skip that for now.
 >
-> **[3:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-simple-notification-service?u=76281980&t=188)** Expanding the encryption section, I can see that it's possible to configure SNS messages to be encrypted at rest, even though they're encrypted in flight by default.
+> **[3:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-simple-notification-service?u=76281980&t=188)** Expanding the encryption section, I can see that it's possible to configure SNS messages to be encrypted at [[Representational State Transfer (REST)|rest]], even though they're encrypted in flight by default.
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-simple-notification-service?u=76281980&t=202)** Since that's a good idea for security alerts, I'm going to enable it now by clicking the encryption toggle.
 >
@@ -1182,7 +1170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Security]] (5), [[Forms]] (1), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sns (9), aws (5), http (1), sms (1), fifo (1)
 > **CLI Commands:** aws (5)
 > **Warnings:** note that (4), warning (1)
@@ -1191,14 +1179,13 @@ created: 2026-05-02
 > **Tools:** aws console (2)
 > **Definitions:** is a  (2)
 
-#### Using a CloudWatch alarm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-cloudwatch-alarm?u=76281980)
+#### [Using a CloudWatch alarm](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-cloudwatch-alarm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-cloudwatch-alarm?u=76281980&t=0)** - [Instructor] With an understanding that CloudWatch can raise an alert based off of an event, let's explore a practical use-case where CloudWatch comes into play.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-cloudwatch-alarm?u=76281980&t=11)** Suppose you have a website running on an EC2 server.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-cloudwatch-alarm?u=76281980&t=11)** Suppose you have a website running on an [[Amazon EC2|EC2]] server.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-cloudwatch-alarm?u=76281980&t=15)** You've sized the web server to accommodate your normal expected traffic.
 >
@@ -1322,7 +1309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), web (5), next (5), traffic (2), aws (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6)
 > **Env Vars:** cpu (17), ec2 (6), sns (3), aws (1), ssh (1)
 > **UI Navigation:** scroll down (2), navigate to (1), checkbox (1), scroll up (1)
 > **CLI Commands:** make (1), aws (1), find (1), ssh (1)
@@ -1331,8 +1318,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (3)
 > **Tools:** aws console (1)
 
-#### Installing the command line interface (CLI) for Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980)
+#### [Installing the command line interface (CLI) for Mac](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1342,7 +1328,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=14)** However, only through automation is the management of your AWS infrastructure scalable.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=21)** One of the many available automation tools is the AWS Command Line Interface or CLI.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=21)** One of the many available automation tools is the AWS Command Line Interface or [[CLI]].
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=28)** I'll be using it at times throughout this course, so let's take a moment to see how to install and configure it.
 >
@@ -1358,7 +1344,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=72)** The first link takes me to instructions on how to install or update the command line interface.
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=80)** Scrolling down, you can see that the CLI is available for Linux, Mac OS, or Windows.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=80)** Scrolling down, you can see that the CLI is available for [[Linux]], Mac OS, or [[Windows]].
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=88)** Expanding the Mac OS section, I could see that there is a GUI available to install the CLI for my current user.
 >
@@ -1410,7 +1396,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=248)** Let's look at what they contain.
 >
-> **[4:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=251)** The config file contains the name of my profile in this case, sbn, the region, and the output of JSON, the credentials are the access key and secret access key for this named profile, I'm going to go ahead and copy these two files into my .aws directory.
+> **[4:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=251)** The config file contains the name of my profile in this case, sbn, the region, and the output of [[JSON]], the credentials are the access key and secret access key for this named profile, I'm going to go ahead and copy these two files into my .aws directory.
 >
 > **[4:35](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/installing-the-command-line-interface-cli-for-mac?u=76281980&t=275)** Now, let's take a peek at the files in that AWS directory.
 >
@@ -1422,7 +1408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (18), aws (11), web (4), [[Automation]] (2), next (2)
+> **Frameworks & Libraries:** [[CLI]] (18), [[JSON]] (2), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** cli (18), aws (9), json (2), gui (1)
 > **CLI Commands:** aws (11), find (1), curl (1), sudo (1)
 > **Tools:** terminal (5), command line (3)
@@ -1431,14 +1417,13 @@ created: 2026-05-02
 > **Cross-References:** next chapter (1)
 > **UI Navigation:** scroll down (1)
 
-#### The command line interface (CLI) for Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980)
+#### [The command line interface (CLI) for Windows](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980&t=0)** - [Instructor] If you're a Windows user, let's go ahead and go through what it's like to install the command line interface.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980&t=0)** - [Instructor] If you're a [[Windows]] user, let's go ahead and go through what it's like to install the command line interface.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980&t=8)** If you already have the CLI installed and are comfortable working with it, please feel free to skip this video and proceed to the next chapter.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980&t=8)** If you already have the [[CLI]] installed and are comfortable working with it, please feel free to skip this video and proceed to the next chapter.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980&t=17)** Here, I've opened up a web browser.
 >
@@ -1502,7 +1487,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980&t=212)** As you can see, the name for this profile is sbn.
 >
-> **[3:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980&t=216)** The region is us-west-2, and the output format is json.
+> **[3:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980&t=216)** The region is us-west-2, and the output format is [[JSON]].
 >
 > **[3:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/the-command-line-interface-cli-for-windows?u=76281980&t=222)** I'm going to save that file and then close it.
 >
@@ -1530,7 +1515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (7), aws (7), [[Windows]] (4), next (4), prompt (2)
+> **Frameworks & Libraries:** [[CLI]] (7), [[Windows]] (4), [[JSON]] (1)
 > **Env Vars:** cli (7), aws (5), msi (1), iam (1), use_named_profile (1)
 > **CLI Commands:** aws (7), find (2)
 > **Prerequisites:** install (4), configure (3), set up (1)
@@ -1544,8 +1529,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Identity and Access Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980)
+#### [Understanding Identity and Access Management](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1589,13 +1573,13 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=140)** Chances are, they already fall into existing organizational groups.
 >
-> **[2:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=146)** These groups could include engineering, quality assurance, information security, or finance.
+> **[2:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=146)** These groups could include engineering, [[Quality Assurance]], information security, or finance.
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=154)** You'll want to consider existing group structure and how to project that into AWS IAM.
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=162)** Once you have your users mapped into groups, you can spend time considering the types of resources you'll be using in AWS and the permissions associated with these resources.
 >
-> **[2:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=173)** For example, for EC2, different permissions exist which grant the ability to stop, start, reboot, or terminate an instance.
+> **[2:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=173)** For example, for [[Amazon EC2|EC2]], different permissions exist which grant the ability to stop, start, reboot, or terminate an instance.
 >
 > **[3:04](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=184)** Once you've considered an aggregated permissions into logical collections, you can assign permissions to IAM policies.
 >
@@ -1609,7 +1593,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=218)** In AWS, policies allow you to manage access to resources in a very granular fashion.
 >
-> **[3:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=224)** For instance, you might give your DevOps the ability to create, stop, and terminate EC2 instances.
+> **[3:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=224)** For instance, you might give your [[DevOps]] the ability to create, stop, and terminate EC2 instances.
 >
 > **[3:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=230)** On the other hand, you likely want to prevent the finance department from taking any action in your account that is not billing-related.
 >
@@ -1655,19 +1639,18 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=367)** This is useful when you want someone to have access to resources on a time-limited basis.
 >
-> **[6:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=374)** AWS IAM also supports identity federation, so if you already manage users external to AWS using something like Active Directory, you can map active directory identities to IAM users.
+> **[6:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980&t=374)** AWS IAM also supports identity federation, so if you already manage users external to AWS using something like [[Active Directory]], you can map active directory identities to IAM users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (14), [[Amazon EC2|Ec2]] (3), management (2), [[Security]] (2), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Active Directory]] (2), [[Quality Assurance]] (1), [[DevOps]] (1)
 > **Env Vars:** iam (27), aws (14), ec2 (3)
 > **CLI Commands:** aws (14)
 > **Definitions:** is an  (3), is a  (2), means that (1)
 > **Analogies:** for example (4), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding IAM policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-policies?u=76281980)
+#### [Understanding IAM policies](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1677,7 +1660,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-policies?u=76281980&t=17)** This control can be as granular as your organizational need.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-policies?u=76281980&t=21)** For example, suppose a company wants to give its newly hired DevOps engineers access to start, run, and stop EC2 instances.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-policies?u=76281980&t=21)** For example, suppose a company wants to give its newly hired [[DevOps]] engineers access to start, run, and stop [[Amazon EC2|EC2]] instances.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-policies?u=76281980&t=31)** However, in order to prevent accidental loss of work, the company wants to inhibit the ability to take any other action, especially instance termination.
 >
@@ -1693,7 +1676,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-policies?u=76281980&t=72)** Since it's maintained by AWS, as new services are rolled out, you can be assured that read only access to those services will be added to the policy without any action on your part.
 >
-> **[1:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-policies?u=76281980&t=84)** Policy documents are written in JavaScript Object Notation or JSON, easy for humans to read and for machines to process.
+> **[1:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-policies?u=76281980&t=84)** Policy documents are written in [[JavaScript]] Object Notation or [[JSON]], easy for humans to read and for machines to process.
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-policies?u=76281980&t=92)** It is necessary to become familiar with JSON in order to understand AWS managed policies or to create policies on your own.
 >
@@ -1735,20 +1718,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Amazon EC2|Ec2]] (3), [[JSON]] (2), management (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[JSON]] (2), [[DevOps]] (1), [[JavaScript]] (1)
 > **Env Vars:** iam (7), aws (7), ec2 (3), json (2)
 > **CLI Commands:** aws (7), find (1)
 > **Analogies:** for example (3), similar to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Configure IAM policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980)
+#### [Configure IAM policies](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=0)** - [Instructor] With an understanding of the different types of IAM policies, let's get into the AWS console and create a custom identity based policy.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=11)** The policy we're about to create will satisfy the use case of allowing a senior engineer the ability to start, stop and reboot any existing EC2 instance in the account.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=11)** The policy we're about to create will satisfy the use case of allowing a senior engineer the ability to start, stop and reboot any existing [[Amazon EC2|EC2]] instance in the account.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=23)** As this is quite the powerful capability, it's not one to be assigned lightly.
 >
@@ -1774,7 +1756,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=100)** When it comes to specifying permissions, note that I have a couple of options.
 >
-> **[1:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=105)** I can either use the visual editor or edit directly in JSON.
+> **[1:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=105)** I can either use the visual editor or edit directly in [[JSON]].
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=111)** Clicking on the JSON tab would let me edit a policy directly using JSON.
 >
@@ -1878,7 +1860,7 @@ created: 2026-05-02
 >
 > **[8:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=495)** If I want to see the JSON that the visual policy generator created, I can do so by clicking the JSON link.
 >
-> **[8:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=504)** Scrolling down, I can see each policy section, the permissions allowed and the fact that multi-factor authentication is required.
+> **[8:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=504)** Scrolling down, I can see each policy section, the permissions allowed and the fact that [[Multi-factor Authentication]] is required.
 >
 > **[8:35](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-policies?u=76281980&t=515)** IAM policies are tools that allow a remarkable degree of specificity for managing access to AWS resources.
 >
@@ -1906,7 +1888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), [[Amazon EC2|Ec2]] (8), [[JSON]] (6), [[Search]] (2), next (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), [[JSON]] (6), [[Multi-factor Authentication]] (1)
 > **Env Vars:** aws (12), iam (9), ec2 (8), json (6), mfa (2)
 > **CLI Commands:** aws (12), make (4)
 > **UI Navigation:** dropdown (2), click on (1), scroll down (1)
@@ -1915,8 +1897,7 @@ created: 2026-05-02
 > **Tools:** aws console (2)
 > **Definitions:** is a  (2)
 
-#### Understanding IAM groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-groups?u=76281980)
+#### [Understanding IAM groups](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1924,7 +1905,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-groups?u=76281980&t=6)** Let's dive right in by taking an example organization chart and mapping it into IAM groups.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-groups?u=76281980&t=13)** Taking a look at this sample org chart, we see five distinct groups, management, engineering, quality assurance, information security, and finance.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-groups?u=76281980&t=13)** Taking a look at this sample org chart, we see five distinct groups, management, engineering, [[Quality Assurance]], information security, and finance.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-groups?u=76281980&t=25)** It is tempting to simply reflect the group structure as is into IAM.
 >
@@ -1956,18 +1937,17 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-groups?u=76281980&t=89)** For example, the engineering group might have 10 people in it, only two of whom require the ability to alter network configurations.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-groups?u=76281980&t=98)** Therefore, you may wind up with an engineering admin group that has IAM permissions to alter both EC2 and VPC resources, with the regular engineering group's IAM permissions limited to being able to alter EC2.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-groups?u=76281980&t=98)** Therefore, you may wind up with an engineering admin group that has IAM permissions to alter both [[Amazon EC2|EC2]] and VPC resources, with the regular engineering group's IAM permissions limited to being able to alter EC2.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (5), [[Amazon EC2|Ec2]] (2), aws (1), management (1), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Quality Assurance]] (1)
 > **Env Vars:** iam (6), ec2 (2), aws (1), vpc (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure IAM groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-groups?u=76281980)
+#### [Configure IAM groups](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1979,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-groups?u=76281980&t=74)** I can use the Filter by Type dropdown to show Customer managed, AWS managed by job function, and AWS managed policies.
 >
-> **[1:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-groups?u=76281980&t=86)** Since I want this group to be able to start, stop, run, and reboot existing EC2 instances, I'm going to filter by Customer managed policies.
+> **[1:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-groups?u=76281980&t=86)** Since I want this group to be able to start, stop, run, and reboot existing [[Amazon EC2|EC2]] instances, I'm going to filter by Customer managed policies.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-groups?u=76281980&t=97)** Here, I can see the policy that I created in a previous video, which allows the starting, stopping, rebooting, and running of EC2 instances.
 >
@@ -2043,7 +2023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), management (2), [[Amazon EC2|Ec2]] (2), [[Engineering]] (1), application (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** aws (10), iam (6), ec2 (2)
 > **CLI Commands:** aws (10), find (1)
 > **UI Navigation:** checkbox (2), click on (1), dropdown (1), select the (1)
@@ -2052,8 +2032,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring a password policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-password-policy?u=76281980)
+#### [Configuring a password policy](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-password-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2131,11 +2110,11 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-password-policy?u=76281980&t=232)** Instead of having an account number as part of the sign-in URL, it's been replaced by my account alias.
 >
-> **[4:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-password-policy?u=76281980&t=240)** That's something I can copy and distribute through email, Slack, or whatever communication channel I have at hand.
+> **[4:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-password-policy?u=76281980&t=240)** That's something I can copy and distribute through email, [[Slack]], or whatever communication channel I have at hand.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), management (2), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1)
 > **Env Vars:** iam (5), aws (3), url (2)
 > **CLI Commands:** aws (3), make (1)
 > **Tools:** aws console (1), slack (1)
@@ -2144,20 +2123,19 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Configure IAM users: Web console
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980)
+#### [Configure IAM users: Web console](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=0)** - [Instructor] In order for your organization to operate securely and effectively in AWS, it is important to configure each person as an independent IAM user.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=13)** While it is possible to federate AWS with an external identity provider like Active Directory, I am going to focus on a configuration where master user identity data is managed within AWS IAM.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=13)** While it is possible to federate AWS with an external identity provider like [[Active Directory]], I am going to focus on a configuration where master user identity data is managed within AWS IAM.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=29)** Most AWS services can be configured in a number of ways.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=33)** For creating users, it's possible to automate with a script using the command line interface, or CLI.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=33)** For creating users, it's possible to automate with a script using the command line interface, or [[CLI]].
 >
-> **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=41)** If you are a Windows system administrator and are more comfortable with PowerShell, AWS provides tools for Windows PowerShell.
+> **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=41)** If you are a [[Windows]] system administrator and are more comfortable with [[Powershell]], AWS provides tools for Windows PowerShell.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=50)** There is also an IAM web service that's possible to call over HTTP.
 >
@@ -2167,7 +2145,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=74)** A typical engineering group is composed of many people.
 >
-> **[1:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=78)** In this example, Luca and Olivia are Linux specialists and will need the ability to operate EC2 servers.
+> **[1:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=78)** In this example, Luca and Olivia are [[Linux]] specialists and will need the ability to operate [[Amazon EC2|EC2]] servers.
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-web-console?u=76281980&t=87)** Meanwhile, Madeline and Enzo, in addition to having Linux expertise, are also network administrators.
 >
@@ -2275,7 +2253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), [[Engineering]] (8), [[CLI]] (4), next (4), web (3)
+> **Frameworks & Libraries:** [[CLI]] (4), [[Windows]] (2), [[Powershell]] (2), [[Linux]] (2), [[Active Directory]] (1)
 > **Env Vars:** aws (12), iam (8), csv (5), cli (4), http (1)
 > **CLI Commands:** aws (12)
 > **Tools:** command line (3), powershell (2)
@@ -2284,8 +2262,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Definitions:** is a  (1)
 
-#### Configure IAM users: CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-cli?u=76281980)
+#### [Configure IAM users: CLI](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2305,7 +2282,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-cli?u=76281980&t=50)** Recall that you can use profiles to specify your access key and secret access key credentials.
 >
-> **[0:58](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-cli?u=76281980&t=58)** The first CLI command creates an IAM user for Olivia and assigns her to the team tag of engineering.
+> **[0:58](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-cli?u=76281980&t=58)** The first [[CLI]] command creates an IAM user for Olivia and assigns her to the team tag of engineering.
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configure-iam-users-cli?u=76281980&t=67)** The second command adds her to the engineering group while the third command creates a password for her, which she must change when she logs in.
 >
@@ -2343,7 +2320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), aws (3), web (2), [[Automation]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** aws (3), iam (3), cli (1), mfa (1)
 > **CLI Commands:** aws (3), make (1)
 > **Tools:** command line (2), terminal (1), aws console (1)
@@ -2351,8 +2328,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### IAM challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge?u=76281980)
+#### [IAM challenge](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2360,7 +2336,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge?u=76281980&t=14)** The first step in this challenge is to create a new engineering-admin group.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge?u=76281980&t=19)** The intention of this group is to enable management of EC2 as well as VPC resources.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge?u=76281980&t=19)** The intention of this group is to enable management of [[Amazon EC2|EC2]] as well as VPC resources.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge?u=76281980&t=26)** When creating this group, assign four AWS managed policies: EC2FullAccess, VPCFullAccess, ReadOnly, and IAMChangePassword.
 >
@@ -2372,15 +2348,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Engineering]] (1), [[Amazon EC2|Ec2]] (1), aws (1), web (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** iam (1), ec2 (1), vpc (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### IAM challenge solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge-solution?u=76281980)
+#### [IAM challenge solution](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2396,7 +2371,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge-solution?u=76281980&t=44)** I then proceed to use the iam attach-group-policy command to attach the EC2FullAccess policy.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge-solution?u=76281980&t=52)** This will permit full access over EC2 resources.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge-solution?u=76281980&t=52)** This will permit full access over [[Amazon EC2|EC2]] resources.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/iam-challenge-solution?u=76281980&t=57)** Since this is an Amazon managed policy, any underlying changes will persist when Amazon makes them.
 >
@@ -2440,7 +2415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (5), [[Amazon EC2|Ec2]] (1), web (1), management (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** ec2 (1), iam (1)
 > **Tools:** command line (1), terminal (1)
 > **UI Navigation:** open the (1), click on (1)
@@ -2449,12 +2424,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring IAM roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles?u=76281980)
+#### [Configuring IAM roles](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles?u=76281980&t=0)** - [Instructor] With a solid understanding of what IAM rules are, let's get into the web console and set up a new role to allow EC2 instances to interact with S3.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles?u=76281980&t=0)** - [Instructor] With a solid understanding of what IAM rules are, let's get into the web console and set up a new role to allow [[Amazon EC2|EC2]] instances to interact with S3.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles?u=76281980&t=11)** Here I am at the IAM Dashboard.
 >
@@ -2476,7 +2450,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles?u=76281980&t=63)** You also have the option of federating access using SAML, which stands for Security Assertion Markup Language.
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles?u=76281980&t=70)** Finally, you can author a custom policy if you know how to write the JSON directly.
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles?u=76281980&t=70)** Finally, you can author a custom policy if you know how to write the [[JSON]] directly.
 >
 > **[1:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles?u=76281980&t=77)** In this case, I want to trust an AWS service.
 >
@@ -2518,7 +2492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), aws (4), web (2), [[JSON]] (2), next (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[JSON]] (2)
 > **Env Vars:** ec2 (5), aws (4), iam (2), json (2), saml (1)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** click on (1), select the (1), scroll down (1)
@@ -2527,12 +2501,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 
-#### Configuring IAM roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles-21456981?u=76281980)
+#### [Configuring IAM roles](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles-21456981?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles-21456981?u=76281980&t=0)** - [Instructor] With a solid understanding of what IAM roles are, let's get into the web console and set up a new role to allow EC2 instances to interact with S3.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles-21456981?u=76281980&t=0)** - [Instructor] With a solid understanding of what IAM roles are, let's get into the web console and set up a new role to allow [[Amazon EC2|EC2]] instances to interact with S3.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles-21456981?u=76281980&t=13)** Starting from the Identity and Access Management dashboard, I click on the roles link in the left hand nav under access management.
 >
@@ -2546,7 +2519,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles-21456981?u=76281980&t=42)** I have the option of trusting an AWS Service, another AWS account, or even a separate web entity using Open ID, or AWS's Cognito service.
 >
-> **[0:56](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles-21456981?u=76281980&t=56)** I also have the option of federating with anything that supports SAML 2.0 or authoring a custom policy if I want to write the JSON directly.
+> **[0:56](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles-21456981?u=76281980&t=56)** I also have the option of federating with anything that supports SAML 2.0 or authoring a custom policy if I want to write the [[JSON]] directly.
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-iam-roles-21456981?u=76281980&t=67)** In this case, I want to trust an AWS service.
 >
@@ -2586,7 +2559,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), aws (7), web (2), management (2), next (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[JSON]] (1)
 > **Env Vars:** ec2 (7), aws (7), iam (1), saml (1), json (1)
 > **CLI Commands:** aws (7)
 > **UI Navigation:** click on (1), select the (1)
@@ -2594,12 +2567,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validating an IAM role
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980)
+#### [Validating an IAM role](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=0)** - [Instructor] Now that we've set up an IAM role to allow EC2 to access S3, let's test it out.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=0)** - [Instructor] Now that we've set up an IAM role to allow [[Amazon EC2|EC2]] to access S3, let's test it out.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=8)** Here I am at the role definition section of the IAM dashboard where I can verify S3 full access is the policy that's attached to the role that I created.
 >
@@ -2611,7 +2583,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=37)** This brings me to the EC2 dashboard where I can see that I have one running instance.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=44)** Clicking on the running instances link shows me that I have a Linux Tools instance that's currently operating.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=44)** Clicking on the running instances link shows me that I have a [[Linux]] Tools instance that's currently operating.
 >
 > **[0:52](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=52)** Selecting that instance shows the details for that instance on the bottom half of the screen.
 >
@@ -2629,7 +2601,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=101)** To test the ability to see the S3 buckets in this account, I'm going to use the AWSCLI to try and list all of the buckets.
 >
-> **[1:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=114)** As expected, I get a message from the CLI that it's unable to locate any credentials.
+> **[1:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=114)** As expected, I get a message from the [[CLI]] that it's unable to locate any credentials.
 >
 > **[2:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-an-iam-role?u=76281980&t=120)** If I wanted to embed credentials on this instance, I could do AWS configure and copy in configure information, similar to setting up the CLI on my own laptop.
 >
@@ -2663,7 +2635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), aws (3), [[CLI]] (2), [[Search]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), [[CLI]] (2), [[Linux]] (1)
 > **Env Vars:** iam (11), ec2 (8), aws (3), ssh (2), cli (2)
 > **CLI Commands:** aws (3), ssh (2)
 > **Prerequisites:** configure (2), set up (1)
@@ -2671,14 +2643,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extending CloudWatch
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980)
+#### [Extending CloudWatch](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=0)** - [Instructor] CloudWatch has the ability to collect metrics from a number of AWS services.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=6)** However, to get a comprehensive understanding of the operational state of your EC2 instances, the stock CloudWatch metrics may not be enough.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=6)** However, to get a comprehensive understanding of the operational state of your [[Amazon EC2|EC2]] instances, the stock CloudWatch metrics may not be enough.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=17)** Let's explore how you can take advantage of the CloudWatch agent to track any metric you want, so you can get the insights you need.
 >
@@ -2694,9 +2665,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=55)** That Hypervisor is responsible for allocating physical resources to virtual EC2 machines.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=63)** On top of the Hypervisor is where EC2 virtual machines or instances get installed.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=63)** On top of the Hypervisor is where EC2 [[Virtual Machines]] or instances get installed.
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=70)** It is the job of the Hypervisor to map processor, memory, disk, and network requests from EC2 to the actual hardware on which the instance is running.
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=70)** It is the job of the Hypervisor to map processor, memory, disk, and network requests from EC2 to the actual [[Hardware]] on which the instance is running.
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=82)** CloudWatch has access to metrics which are visible to the Hypervisor.
 >
@@ -2716,7 +2687,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=148)** Software agents can collect other application-specific metrics you might be interested in.
 >
-> **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=154)** For example, if your application uses Java, you may be interested in collecting Java heap usage or the number of active threads.
+> **[2:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=154)** For example, if your application uses [[Java]], you may be interested in collecting Java heap usage or the number of active threads.
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/extending-cloudwatch?u=76281980&t=163)** All you need to do is write an agent to collect that information, then push it to the appropriate CloudWatch API.
 >
@@ -2732,21 +2703,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), application (4), aws (3), [[Java]] (2), api (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), [[Java]] (2), [[Virtual Machines]] (1), [[Hardware]] (1)
 > **Env Vars:** ec2 (12), aws (3), api (2), iam (2)
 > **CLI Commands:** aws (3)
 > **Prerequisites:** install (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install CloudWatch agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980)
+#### [Install CloudWatch agent](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=0)** - [Instructor] To gather host centric data and send it to CloudWatch, let's get the CloudWatch agent set up on an EC2 instance.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=0)** - [Instructor] To gather host centric data and send it to CloudWatch, let's get the CloudWatch agent set up on an [[Amazon EC2|EC2]] instance.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=10)** I'm going to set up the CloudWatch agent on my Linux tools instance.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=10)** I'm going to set up the CloudWatch agent on my [[Linux]] tools instance.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=14)** So I select that instance and then click Connect.
 >
@@ -2784,7 +2754,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=137)** Instead of taking the time to enable another Linux user, I'm just going to run the CloudWatch agent as root for this demo.
 >
-> **[2:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=146)** I am interested in collecting statistics from the statsd daemon.
+> **[2:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=146)** I am interested in collecting [[Statistics]] from the statsd daemon.
 >
 > **[2:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=151)** Therefore, I'll accept the default.
 >
@@ -2806,7 +2776,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=211)** While this specific instance isn't a multi-core machine, I always specify that I do want to monitor CPU metrics by core.
 >
-> **[3:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=221)** Including EC2 dimensions with metrics makes sense for future data collection and aggregation, so I select yes.
+> **[3:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=221)** Including EC2 dimensions with metrics makes sense for future [[Data Collection]] and aggregation, so I select yes.
 >
 > **[3:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=231)** I also want to aggregate these metrics by instance ID.
 >
@@ -2820,7 +2790,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=254)** At this point, the wizard is done.
 >
-> **[4:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=257)** Scrolling up a little bit, you can see the JSON config file that the wizard generates.
+> **[4:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=257)** Scrolling up a little bit, you can see the [[JSON]] config file that the wizard generates.
 >
 > **[4:23](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/install-cloudwatch-agent?u=76281980&t=263)** Keeping in mind that I can make configuration changes at any point in the future, I accept the configuration as generated.
 >
@@ -2884,7 +2854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), data (3), [[Linux]] (3), feature (3), web (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Linux]] (3), [[Statistics]] (1), [[Data Collection]] (1), [[JSON]] (1)
 > **Env Vars:** ec2 (6), aws (2), cpu (1), json (1), iam (1)
 > **Prerequisites:** set up (2), install (1), configure (1)
 > **CLI Commands:** aws (2), make (1)
@@ -2893,18 +2863,17 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: IAM roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-iam-roles?u=76281980)
+#### [Challenge: IAM roles](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-iam-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-iam-roles?u=76281980&t=0)** - [Instructor] We now have a Linux server with the CloudWatch agent installed.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-iam-roles?u=76281980&t=0)** - [Instructor] We now have a [[Linux]] server with the CloudWatch agent installed.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-iam-roles?u=76281980&t=9)** However, the agent can't communicate with CloudWatch.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-iam-roles?u=76281980&t=14)** With your understanding of identity and access management roles, it's time for another IAM challenge.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-iam-roles?u=76281980&t=22)** The first step in this role challenge is to create a new role called Custom EC2 CloudWatch.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-iam-roles?u=76281980&t=22)** The first step in this role challenge is to create a new role called Custom [[Amazon EC2|EC2]] CloudWatch.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-iam-roles?u=76281980&t=30)** The intent of this role is to allow EC2 to send metrics to CloudWatch.
 >
@@ -2914,13 +2883,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Linux]] (1), management (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Linux]] (1)
 > **Env Vars:** ec2 (3), iam (1), ssm (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: IAM roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980)
+#### [Solution: IAM roles](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2940,7 +2908,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=47)** Then, I'll click the Create Role button.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=51)** In this case, I want EC2 to be able to perform actions in this account.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=51)** In this case, I want [[Amazon EC2|EC2]] to be able to perform actions in this account.
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=55)** So I select EC2 under Commonly Used Services.
 >
@@ -2962,7 +2930,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=117)** Wonderful, the only thing I need to do now is attach it to my server.
 >
-> **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=123)** Going back to my Instances tab, I select my Linux server.
+> **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=123)** Going back to my Instances tab, I select my [[Linux]] server.
 >
 > **[2:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=128)** Recall that it has an IAM role assigned to it already, S3 Full Access.
 >
@@ -2996,23 +2964,22 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=235)** Now let's validate that we've actually resolved our problem by looking at the log file.
 >
-> **[4:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=243)** Excellent, before, where we were unauthorized to validate EC2 metadata, we now can do so.
+> **[4:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-iam-roles?u=76281980&t=243)** Excellent, before, where we were unauthorized to validate EC2 [[Metadata]], we now can do so.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), [[Search]] (3), next (2), management (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), [[Linux]] (1), [[Metadata]] (1)
 > **Env Vars:** iam (9), ec2 (9), ssm (1)
 > **UI Navigation:** go to (2), click on (1), dropdown (1), scroll down (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Understanding Security Token Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980)
+#### [Understanding Security Token Service](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980&t=0)** - [Narrator] The AWS Security Token Service, or STS, is a powerful tool you can use for granting temporary permissions to resources in your AWS account.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980&t=0)** - [Narrator] The [[AWS Security]] Token Service, or STS, is a powerful tool you can use for granting temporary permissions to resources in your AWS account.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980&t=11)** Let's explore some of what can be accomplished using STS.
 >
@@ -3028,11 +2995,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980&t=53)** Madeline and Enzo represent our senior most engineers.
 >
-> **[0:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980&t=57)** Recall that they're both assigned to the engineering admin group, which gives them full VPC access as well as full EC2 access.
+> **[0:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980&t=57)** Recall that they're both assigned to the engineering admin group, which gives them full VPC access as well as full [[Amazon EC2|EC2]] access.
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980&t=69)** It also gives them comprehensive read only access to resources in this account like RDS.
 >
-> **[1:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980&t=78)** Now, let's suppose one of our development, MySQL RDS instances needs to be rebooted and our database administrators are currently unavailable.
+> **[1:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980&t=78)** Now, let's suppose one of our development, [[MySQL]] RDS instances needs to be rebooted and our database administrators are currently unavailable.
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-security-token-service?u=76281980&t=89)** In order to allow Madeline or Enzo to perform that reboot, we can create an IAM policy that allows STS access.
 >
@@ -3042,14 +3009,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[Security]] (2), [[Engineering]] (2), web (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[AWS Security]] (1), [[Amazon EC2|Ec2]] (1), [[MySQL]] (1)
 > **Env Vars:** iam (5), aws (4), sts (4), rds (3), vpc (1)
 > **CLI Commands:** aws (4), mysql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating a temporary access role
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-role?u=76281980)
+#### [Creating a temporary access role](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3069,7 +3035,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-role?u=76281980&t=47)** I'm going to attempt and reboot this troublesome instance.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-role?u=76281980&t=51)** I click "DB Instances," select the "mysql-dev" instance, and then go to "Actions," "Reboot."
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-role?u=76281980&t=51)** I click "DB Instances," select the "[[MySQL]]-dev" instance, and then go to "Actions," "Reboot."
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-role?u=76281980&t=61)** After confirming that this is what I want to do, I get an error message indicating that, as Madeline, I'm not authorized to reboot this instance.
 >
@@ -3121,7 +3087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), next (2), [[Security]] (1), [[Engineering]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (1)
 > **Env Vars:** rds (9), aws (5), iam (5), sts (1), dba (1)
 > **CLI Commands:** aws (5), make (1), mysql (1)
 > **UI Navigation:** select the (1), go to (1), switch to (1)
@@ -3129,8 +3095,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a temporary access policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-policy?u=76281980)
+#### [Creating a temporary access policy](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3164,7 +3129,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-policy?u=76281980&t=100)** To get there, I create the policies link in the left-hand nav, and then proceed to click the create policy button.
 >
-> **[1:48](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-policy?u=76281980&t=108)** In this case, instead of specifying EC2, the service I want to use is STS or Secure Token Service.
+> **[1:48](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-policy?u=76281980&t=108)** In this case, instead of specifying [[Amazon EC2|EC2]], the service I want to use is STS or Secure Token Service.
 >
 > **[1:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-temporary-access-policy?u=76281980&t=117)** After selecting it, what I want to enable is the ability to assume a role.
 >
@@ -3216,7 +3181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), [[Amazon EC2|Ec2]] (1), next (1), management (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** arn (7), iam (2), sts (2), dba (2), aws (1)
 > **CLI Commands:** make (2), aws (1)
 > **UI Navigation:** dropdown (1), checkbox (1), scroll down (1)
@@ -3225,8 +3190,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [presenter] (1)
 
-#### Validating temporary access
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-temporary-access?u=76281980)
+#### [Validating temporary access](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-temporary-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3272,9 +3236,9 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-temporary-access?u=76281980&t=137)** Clicking the RDS link takes me back to the RDS dashboard.
 >
-> **[2:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-temporary-access?u=76281980&t=141)** From here, I click into the Databases area.
+> **[2:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-temporary-access?u=76281980&t=141)** From here, I click into the [[Databases]] area.
 >
-> **[2:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-temporary-access?u=76281980&t=145)** At this point, I select the MySQL Development instance and then choose Reboot from the Actions menu.
+> **[2:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-temporary-access?u=76281980&t=145)** At this point, I select the [[MySQL]] Development instance and then choose Reboot from the Actions menu.
 >
 > **[2:35](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-temporary-access?u=76281980&t=155)** Just like the last time, we get a confirmation page.
 >
@@ -3296,7 +3260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), management (1), [[Databases]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[MySQL]] (1)
 > **Env Vars:** rds (6), dba (5), aws (2), iam (2), url (1)
 > **CLI Commands:** aws (2), make (1), mysql (1)
 > **UI Navigation:** select the (2), click on (1), go to (1)
@@ -3305,8 +3269,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Super admin
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-super-admin?u=76281980)
+#### [Challenge: Super admin](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-super-admin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3324,14 +3287,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), [[Engineering]] (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light, upbeat music) (1)
 
-#### Solution: Super admin
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-super-admin?u=76281980)
+#### [Solution: Super admin](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-super-admin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3361,7 +3322,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-super-admin?u=76281980&t=82)** From a policy standpoint, Administrator Access is the first one on the list.
 >
-> **[1:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-super-admin?u=76281980&t=88)** Selecting the Administrator Access policy, I then expand the policy so I can see the JSON underneath.
+> **[1:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-super-admin?u=76281980&t=88)** Selecting the Administrator Access policy, I then expand the policy so I can see the [[JSON]] underneath.
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-super-admin?u=76281980&t=96)** It's pretty simple.
 >
@@ -3423,7 +3384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), next (4), aws (3), management (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** arn (4), aws (3), iam (3), mfa (2), sts (1)
 > **CLI Commands:** aws (3), make (2)
 > **UI Navigation:** scroll down (1), select the (1)
@@ -3432,8 +3393,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Illustrating access restrictions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/illustrating-access-restrictions?u=76281980)
+#### [Illustrating access restrictions](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/illustrating-access-restrictions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3455,7 +3415,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/illustrating-access-restrictions?u=76281980&t=55)** As such, it's a good idea to inhibit the ability to delete CloudTrail artifacts.
 >
-> **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/illustrating-access-restrictions?u=76281980&t=62)** The Cloud Hardware Security Module is a means for storing cryptographic keys.
+> **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/illustrating-access-restrictions?u=76281980&t=62)** The Cloud [[Hardware]] Security Module is a means for storing cryptographic keys.
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/illustrating-access-restrictions?u=76281980&t=68)** If you decide to use the key management service instead of cloud HSM, you may want to inhibit the ability to use this service.
 >
@@ -3473,7 +3433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), aws (2), api (1), [[Hardware]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** iam (5), aws (2), hsm (2), api (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** for example (1), imagine (1)
@@ -3481,8 +3441,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring IAM policy simulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980)
+#### [Exploring IAM policy simulator](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3512,7 +3471,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=64)** The resulting screen shows me the policies associated with her user.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=69)** Here I can see the temp DBA, temp super admin, read only access, EC2 full access, the ability to change her password, and VPC full access.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=69)** Here I can see the temp DBA, temp super admin, read only access, [[Amazon EC2|EC2]] full access, the ability to change her password, and VPC full access.
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=82)** With this knowledge, let's see what she can do inside of CloudTrail.
 >
@@ -3522,7 +3481,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=98)** In this case, I just want to simulate all actions, so I click the select all button.
 >
-> **[1:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=105)** To see what Madeline can do, I go ahead and press the run simulation button.
+> **[1:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=105)** To see what Madeline can do, I go ahead and press the run [[Simulation]] button.
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=111)** Okay, the results look pretty good to me.
 >
@@ -3556,7 +3515,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=192)** The policy I'm looking for is my global deny policy.
 >
-> **[3:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=199)** Expanding it, we can see from the JSON, some of the things that it does.
+> **[3:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=199)** Expanding it, we can see from the [[JSON]], some of the things that it does.
 >
 > **[3:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-policy-simulator?u=76281980&t=204)** From an IAM standpoint, it inhibits the ability to detach MFA or delete anything.
 >
@@ -3620,7 +3579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (6), data (2), aws (2), management (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (6), [[Amazon EC2|Ec2]] (1), [[JSON]] (1)
 > **Env Vars:** iam (9), aws (2), dba (1), ec2 (1), vpc (1)
 > **CLI Commands:** make (3), aws (2)
 > **UI Navigation:** dropdown (3), select the (1), open the (1)
@@ -3628,8 +3587,7 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Cognito
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980)
+#### [Understanding Cognito](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3649,7 +3607,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=47)** Once they have an account, you need the ability to authenticate each individual.
 >
-> **[0:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=53)** If you're serious about security, you certainly want to incorporate multifactor authentication as part of your user management approach.
+> **[0:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=53)** If you're serious about security, you certainly want to incorporate multifactor authentication as part of your [[User Management]] approach.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=62)** You'll also want to authorize different people to have different levels of access within your application.
 >
@@ -3673,7 +3631,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=123)** However, if you'd like to use a social identity provider, you can create a federated user pool.
 >
-> **[2:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=132)** With a federated pool, you can use providers including Apple, Facebook, and Google as a source of identity.
+> **[2:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=132)** With a federated pool, you can use providers including Apple, Facebook, and [[Google]] as a source of identity.
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=140)** Basically, if you have an identity source that supports the security assertion markup language, or OpenID Connect, you can federate a user pool with that source.
 >
@@ -3687,7 +3645,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=186)** As is the hallmark of AWS offerings, Cognito is built with security as a centerpiece.
 >
-> **[3:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=193)** This includes multifactor authentication support, as well as encryption of data in transit and at rest.
+> **[3:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=193)** This includes multifactor authentication support, as well as encryption of data in transit and at [[Representational State Transfer (REST)|rest]].
 >
 > **[3:20](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-cognito?u=76281980&t=200)** Cognito is also highly scalable, capable of supporting millions of users.
 >
@@ -3701,15 +3659,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Security]] (3), aws (3), [[User Management]] (2), management (2)
+> **Frameworks & Libraries:** [[User Management]] (2), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** aws (3), iam (1), api (1)
 > **CLI Commands:** aws (3), make (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a Cognito user pool
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-cognito-user-pool?u=76281980)
+#### [Creating a Cognito user pool](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-cognito-user-pool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3829,7 +3786,7 @@ created: 2026-05-02
 >
 > **[7:47](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-cognito-user-pool?u=76281980&t=467)** The first thing I do is specify a name for the user pool I'm creating.
 >
-> **[7:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-cognito-user-pool?u=76281980&t=473)** For the authentication pages themselves, I can use a Cognito hosted user experience.
+> **[7:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-cognito-user-pool?u=76281980&t=473)** For the authentication pages themselves, I can use a Cognito hosted [[User Experience (UX)|user experience]].
 >
 > **[8:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-cognito-user-pool?u=76281980&t=480)** While this will make it obvious that I'm using Cognito, it also is something I don't have to build myself, so I'm going to go ahead and specify the Cognito hosted UI.
 >
@@ -3867,7 +3824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), application (3), [[Search]] (2), aws (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** sms (7), ses (4), iam (3), url (3), mfa (2)
 > **Warnings:** note that (11), warning (1)
 > **UI Navigation:** checkbox (2), navigate to (1), open the (1), dropdown (1), scroll down (1)
@@ -3876,8 +3833,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Tools:** aws console (1)
 
-#### Creating a Cognito identity pool
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-cognito-identity-pool?u=76281980)
+#### [Creating a Cognito identity pool](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-cognito-identity-pool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3973,7 +3929,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), application (3), aws (1)
 > **Env Vars:** iam (4), aws (1)
 > **Prerequisites:** configure (4)
 > **Warnings:** warning (1), note that (1)
@@ -3982,8 +3937,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Verified Permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-verified-permissions?u=76281980)
+#### [Understanding Verified Permissions](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-verified-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4019,7 +3973,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-verified-permissions?u=76281980&t=130)** The beauty of Verified Permissions is that Cedar policies are evaluated at runtime by a central policy engine.
 >
-> **[2:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-verified-permissions?u=76281980&t=138)** This separates policy definition from software development.
+> **[2:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-verified-permissions?u=76281980&t=138)** This separates policy definition from [[Software Development]].
 >
 > **[2:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-verified-permissions?u=76281980&t=144)** Returning to our help desk application scenario, we still have Ramandeep in the help desk and Anushka as a customer.
 >
@@ -4041,15 +3995,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), data (1), [[Software Development]] (1), api (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (2)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding federated access
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980)
+#### [Understanding federated access](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4065,11 +4018,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=41)** There are many external entities you may want to federate with.
 >
-> **[0:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=45)** For instance, you may have an on-premises authentication system, like a local Microsoft Active Directory.
+> **[0:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=45)** For instance, you may have an on-premises authentication system, like a local [[Microsoft]] [[Active Directory]].
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=54)** You may want to federate with other AWS accounts that you own or those belonging to partners you work with.
 >
-> **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=62)** Using a web identity provider, such as Amazon Cognito, Meta's Facebook, or Google, is a common use case for federation.
+> **[1:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=62)** Using a web identity provider, such as Amazon Cognito, Meta's Facebook, or [[Google]], is a common use case for federation.
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=72)** Basically, if an identity provider supports OpenID Connect or the Security Assertion Markup Language, commonly called SAML, you can federate it with AWS.
 >
@@ -4079,7 +4032,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=94)** Every day, Allison authenticates to her line of business systems using local Microsoft Active Directory credentials.
 >
-> **[1:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=104)** As part of its cloud strategy, her company has started using resources in AWS.
+> **[1:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=104)** As part of its [[Cloud Strategy]], her company has started using resources in AWS.
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-federated-access?u=76281980&t=110)** Congruent with her role, Allison needs to be able to access the finance-related information in the AWS console.
 >
@@ -4091,7 +4044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), [[Active Directory]] (5), [[Security]] (2), business (2), management (2)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Microsoft]] (2), [[Google]] (1), [[Cloud Strategy]] (1)
 > **Env Vars:** aws (11), iam (3), saml (1)
 > **CLI Commands:** aws (11)
 > **Definitions:** is an  (1), is a  (1)
@@ -4100,14 +4053,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enabling federated access
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-federated-access?u=76281980)
+#### [Enabling federated access](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-federated-access?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-federated-access?u=76281980&t=0)** - [Narrator] Now that we understand a bit about how AWS can federate with a variety of external services, let's dive into the console and see how this is done.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-federated-access?u=76281980&t=10)** I'm not actually running a local active directory server.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-federated-access?u=76281980&t=10)** I'm not actually running a local [[Active Directory]] server.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-federated-access?u=76281980&t=15)** Instead, I went ahead and created a simple active directory using the directory server service within AWS.
 >
@@ -4197,7 +4149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), [[Active Directory]] (5), management (5), next (4), application (2)
+> **Frameworks & Libraries:** [[Active Directory]] (5)
 > **Env Vars:** aws (11), iam (4)
 > **CLI Commands:** aws (11), find (2)
 > **UI Navigation:** scroll down (2), open the (1), click on (1), dropdown (1)
@@ -4206,8 +4158,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** note that (2)
 
-#### Validating federated access
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980)
+#### [Validating federated access](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4233,7 +4184,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=64)** Upon receiving that email, Allison could simply click the link for the web console.
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=70)** Clicking on that link, Allison would need to supply her active directory credentials to authenticate.
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=70)** Clicking on that link, Allison would need to supply her [[Active Directory]] credentials to authenticate.
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=78)** After supplying those credentials, she can go ahead and sign in.
 >
@@ -4241,11 +4192,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=96)** Now, let's validate that I appropriately mapped the IAM permissions.
 >
-> **[1:43](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=103)** I'm going to go ahead and click into the billing and cost management area.
+> **[1:43](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=103)** I'm going to go ahead and click into the billing and [[Cost Management]] area.
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=110)** Wonderful, Allison can view month to date costs, manage bills, issue payments, and review credits in the account.
 >
-> **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=123)** Now, let's validate that my permissions are limited by trying to access the EC2 console.
+> **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=123)** Now, let's validate that my permissions are limited by trying to access the [[Amazon EC2|EC2]] console.
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-federated-accewss?u=76281980&t=130)** Searching for EC2, I go ahead and navigate to that page.
 >
@@ -4269,15 +4220,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), web (3), [[Active Directory]] (3), application (2), management (2)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Amazon EC2|Ec2]] (2), [[Cost Management]] (1)
 > **Env Vars:** aws (6), iam (5), url (3), ec2 (2), api (1)
 > **CLI Commands:** aws (6)
 > **Tools:** aws console (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing financial access
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/securing-financial-access?u=76281980)
+#### [Securing financial access](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/securing-financial-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4289,7 +4239,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/securing-financial-access?u=76281980&t=21)** Let's explore how to configure IAM users to manage the financial aspects of your AWS account.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/securing-financial-access?u=76281980&t=28)** Contained within the Billing and Cost Management dashboard, AWS offers a rich set of tools to help you understand the financial health of your account.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/securing-financial-access?u=76281980&t=28)** Contained within the Billing and [[Cost Management]] dashboard, AWS offers a rich set of tools to help you understand the financial health of your account.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/securing-financial-access?u=76281980&t=39)** Some of the most important features of the Billing and Cost Management dashboard include the Billing and Payment section.
 >
@@ -4343,7 +4293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (15), [[Engineering]] (2), [[Cost Management]] (2), data (1), management (1)
+> **Frameworks & Libraries:** [[Cost Management]] (2)
 > **Env Vars:** aws (15), iam (3)
 > **CLI Commands:** aws (15), make (2)
 > **Definitions:** is an  (2), is a  (1)
@@ -4351,8 +4301,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enabling financial access
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-financial-access?u=76281980)
+#### [Enabling financial access](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-financial-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4368,7 +4317,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-financial-access?u=76281980&t=32)** I click on the account name in the upper-right corner, then choose account from the dropdown menu.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-financial-access?u=76281980&t=38)** This brings me to the billing and cost management account dashboard.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-financial-access?u=76281980&t=38)** This brings me to the billing and [[Cost Management]] account dashboard.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-financial-access?u=76281980&t=44)** Here, you can update a variety of account settings, including the root account password, contact information, and supplemental contact information.
 >
@@ -4424,7 +4373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Engineering]] (2), management (1), [[Cost Management]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cost Management]] (1)
 > **Env Vars:** iam (10), aws (7)
 > **CLI Commands:** aws (7), find (1)
 > **UI Navigation:** click on (1), dropdown (1), checkbox (1)
@@ -4438,8 +4387,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-organizations?u=76281980)
+#### [Understanding Organizations](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4481,14 +4429,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Security]] (4), api (1), application (1)
 > **Env Vars:** aws (7), scp (1), api (1)
 > **CLI Commands:** aws (7), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Control Tower
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-control-tower?u=76281980)
+#### [Understanding Control Tower](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-control-tower?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4534,7 +4480,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Security]] (3), management (1)
 > **CLI Commands:** aws (5), make (1)
 > **Env Vars:** aws (5), iam (1)
 > **Analogies:** for example (4)
@@ -4542,8 +4487,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding IAM Identity Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-identity-center?u=76281980)
+#### [Understanding IAM Identity Center](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-identity-center?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4555,7 +4499,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-identity-center?u=76281980&t=29)** However, with Identity Center, you can centrally define permissions and grant them to Identity Center users across multiple AWS accounts.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-identity-center?u=76281980&t=40)** If you work with an organization with an existing identity source, like Microsoft Active Directory, you can use that identity source to map your existing users to users within Identity Center.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-identity-center?u=76281980&t=40)** If you work with an organization with an existing identity source, like [[Microsoft]] [[Active Directory]], you can use that identity source to map your existing users to users within Identity Center.
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iam-identity-center?u=76281980&t=54)** Conceptually, this is similar to federating external access with IAM Users.
 >
@@ -4607,7 +4551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), web (2), management (1), [[Microsoft]] (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Active Directory]] (1)
 > **Env Vars:** aws (10), iam (9), saml (1)
 > **CLI Commands:** aws (10)
 > **Analogies:** similar to (3)
@@ -4615,8 +4559,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Exploring IAM Identity Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-identity-center?u=76281980)
+#### [Exploring IAM Identity Center](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-identity-center?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4650,7 +4593,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-identity-center?u=76281980&t=97)** This customized URL is much more user-friendly than a URL containing a generated unique ID.
 >
-> **[1:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-identity-center?u=76281980&t=106)** Scrolling down a bit, note that multi-factor authentication is not currently enabled.
+> **[1:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-identity-center?u=76281980&t=106)** Scrolling down a bit, note that [[Multi-factor Authentication]] is not currently enabled.
 >
 > **[1:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-identity-center?u=76281980&t=114)** While it is clearly something I would enable in a production situation, I've disabled it just for simplicity's sake of this demo.
 >
@@ -4768,7 +4711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), next (5), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (1)
 > **Env Vars:** aws (13), url (3), iam (1)
 > **CLI Commands:** aws (13), make (1)
 > **UI Navigation:** click on (3), checkbox (2), scroll down (2)
@@ -4777,8 +4720,7 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Prerequisites:** configure (1)
 
-#### Validating IAM Identity Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-iam-identity-center?u=76281980)
+#### [Validating IAM Identity Center](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-iam-identity-center?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4830,7 +4772,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), next (1), application (1)
 > **Env Vars:** iam (4), aws (3), url (3), mfa (2), saml (1)
 > **CLI Commands:** aws (3), make (1)
 > **Warnings:** note that (2)
@@ -4839,8 +4780,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding Resource Access Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-resource-access-manager?u=76281980)
+#### [Understanding Resource Access Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-resource-access-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4866,7 +4806,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-resource-access-manager?u=76281980&t=82)** On the other hand, S3 access grants can be shared with IAM users or roles, regardless of whether they are an account within your organization or not.
 >
-> **[1:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-resource-access-manager?u=76281980&t=93)** Like most AWS services, you can configure RAM through the web console command line interface, direct API calls, or a variety of software development kits.
+> **[1:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-resource-access-manager?u=76281980&t=93)** Like most AWS services, you can configure RAM through the web console command line interface, direct API calls, or a variety of [[Software Development]] kits.
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-resource-access-manager?u=76281980&t=105)** You also need to be familiar with a few terms to deepen your understanding of RAM.
 >
@@ -4884,7 +4824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), database (1), data (1), management (1), web (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Env Vars:** aws (9), ram (5), iam (3), vpc (1), api (1)
 > **CLI Commands:** aws (9), make (1)
 > **Analogies:** for example (2), similar to (1)
@@ -4893,8 +4833,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exploring Resource Access Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-resource-access-manager?u=76281980)
+#### [Exploring Resource Access Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-resource-access-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5012,7 +4951,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), next (4), [[Search]] (1), prompt (1)
 > **Env Vars:** aws (7), ram (6)
 > **CLI Commands:** aws (7), make (1)
 > **UI Navigation:** dropdown (3), checkbox (2), click on (1), navigate to (1)
@@ -5026,8 +4964,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding AWS Config
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980)
+#### [Understanding AWS Config](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5041,7 +4978,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980&t=27)** Attaching an internet gateway to a VPC is an example of a configuration change.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980&t=33)** So is attaching an EBS volume to an EC2 instance.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980&t=33)** So is attaching an EBS volume to an [[Amazon EC2|EC2]] instance.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980&t=37)** Since config tracks these kinds of changes, it allows for an understanding of the relationship between resources over time.
 >
@@ -5081,7 +5018,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980&t=170)** All config activity is logged in an S3 bucket for further analysis or more advanced queries.
 >
-> **[2:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980&t=177)** If you want to raise an, you can do that through Amazon's simple notification service, which supports delivery via email, text message, and a large number of third-party integrations, like Slack.
+> **[2:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980&t=177)** If you want to raise an, you can do that through Amazon's simple notification service, which supports delivery via email, text message, and a large number of third-party integrations, like [[Slack]].
 >
 > **[3:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980&t=191)** Ideally, you've already set up CloudWatch so you can get change attribution details.
 >
@@ -5113,7 +5050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), [[Amazon EC2|Ec2]] (4), web application (1), application (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Slack]] (1)
 > **Env Vars:** aws (8), ec2 (4), vpc (3), ebs (1), tcp (1)
 > **CLI Commands:** aws (8)
 > **Definitions:** is an  (3), is a  (1)
@@ -5122,8 +5059,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 
-#### Enabling AWS Config
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-aws-config?u=76281980)
+#### [Enabling AWS Config](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-aws-config?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5161,7 +5097,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-aws-config?u=76281980&t=103)** Understanding that it's a cost driver, I want to keep track of IAM changes, so I choose set to daily recording instead of exclude from recording.
 >
-> **[1:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-aws-config?u=76281980&t=114)** In the data governance section, I need to specify an IAM role for config.
+> **[1:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-aws-config?u=76281980&t=114)** In the [[Data Governance]] section, I need to specify an IAM role for config.
 >
 > **[2:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-aws-config?u=76281980&t=120)** Since I don't have an existing one set up, I'm going to let config use the existing service linked role within AWS.
 >
@@ -5179,7 +5115,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-aws-config?u=76281980&t=172)** Remember, rules and their execution are a cost-driver.
 >
-> **[2:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-aws-config?u=76281980&t=177)** For the purposes of demonstration, I'm going to use an existing AWS config rule that checks for EC2 instances with a public IP.
+> **[2:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-aws-config?u=76281980&t=177)** For the purposes of demonstration, I'm going to use an existing AWS config rule that checks for [[Amazon EC2|EC2]] instances with a public IP.
 >
 > **[3:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-aws-config?u=76281980&t=188)** To do so, I simply type public in the find rules search box.
 >
@@ -5203,7 +5139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Amazon EC2|Ec2]] (3), web (2), [[Search]] (2), next (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Data Governance]] (1)
 > **Env Vars:** aws (5), iam (3), ec2 (3), sns (1)
 > **CLI Commands:** aws (5), find (1)
 > **Warnings:** note that (2)
@@ -5211,12 +5147,11 @@ created: 2026-05-02
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - [presenter] (1)
 
-#### Exploring AWS Config results
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-config-results?u=76281980)
+#### [Exploring AWS Config results](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-config-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-config-results?u=76281980&t=0)** - [Instructor] Now that we've set up Config to look for EC2 instances with public IP addresses, let's jump back into the console and take a look at the dashboard.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-config-results?u=76281980&t=0)** - [Instructor] Now that we've set up Config to look for [[Amazon EC2|EC2]] instances with public IP addresses, let's jump back into the console and take a look at the dashboard.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-config-results?u=76281980&t=11)** Here I am at the Config dashboard.
 >
@@ -5256,7 +5191,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-config-results?u=76281980&t=128)** Going back in time, let's explore the configuration change itself.
 >
-> **[2:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-config-results?u=76281980&t=134)** Let's take a look at the difference in the JSON.
+> **[2:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-config-results?u=76281980&t=134)** Let's take a look at the difference in the [[JSON]].
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-config-results?u=76281980&t=138)** Conveniently, AWS provides what's new and what's been removed, so you can just compare the differences in the JSON itself.
 >
@@ -5336,7 +5271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[JSON]] (3), aws (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[JSON]] (3)
 > **Env Vars:** ec2 (4), json (3), aws (3), eip (2), iam (2)
 > **CLI Commands:** aws (3)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
@@ -5345,8 +5280,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring conformance packs
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-conformance-packs?u=76281980)
+#### [Exploring conformance packs](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-conformance-packs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5414,7 +5348,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), next (2), power (1), data (1), aws (1)
 > **Env Vars:** hipaa (1), aws (1), kms (1)
 > **Exercise Files:** template (2)
 > **Analogies:** for example (2)
@@ -5423,8 +5356,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding AWS GuardDuty
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-guardduty?u=76281980)
+#### [Understanding AWS GuardDuty](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-guardduty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5470,7 +5402,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-guardduty?u=76281980&t=127)** If a number of P2.16XL instances, which are over $14 per hour, crop up, that would trigger an alert.
 >
-> **[2:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-guardduty?u=76281980&t=135)** GuardDuty also looks for evidence that an individual EC2 instance has been compromised.
+> **[2:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-guardduty?u=76281980&t=135)** GuardDuty also looks for evidence that an individual [[Amazon EC2|EC2]] instance has been compromised.
 >
 > **[2:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-guardduty?u=76281980&t=142)** This can include using atypical network protocols or overall network traffic usage that is out of the ordinary.
 >
@@ -5512,7 +5444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Amazon EC2|Ec2]] (3), data (2), api (2), web (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** aws (5), ec2 (3), api (2), vpc (1), dns (1)
 > **CLI Commands:** aws (5), find (1), make (1)
 > **Analogies:** for instance (2), for example (2)
@@ -5521,8 +5453,7 @@ created: 2026-05-02
 > **Ports:** port 8833 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring AWS GuardDuty
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-guardduty?u=76281980)
+#### [Exploring AWS GuardDuty](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-guardduty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5554,7 +5485,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-guardduty?u=76281980&t=82)** Clicking on the finding type provides additional detail as to the nature of this finding.
 >
-> **[1:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-guardduty?u=76281980&t=88)** In this case, we have an EC2 instance, being probed by a known malicious host.
+> **[1:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-guardduty?u=76281980&t=88)** In this case, we have an [[Amazon EC2|EC2]] instance, being probed by a known malicious host.
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-guardduty?u=76281980&t=95)** Clicking on the info link reveals additional details about the nature of this finding.
 >
@@ -5588,7 +5519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), node (3), [[Amazon EC2|Ec2]] (2), api (2), vpn (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** aws (4), ec2 (2), api (2), vpn (2), iam (1)
 > **CLI Commands:** aws (4), node (3)
 > **UI Navigation:** click on (1)
@@ -5596,8 +5527,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understand IAM Access Analyzer
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-iam-access-analyzer?u=76281980)
+#### [Understand IAM Access Analyzer](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-iam-access-analyzer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5649,15 +5579,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), feature (1), aws (1), web (1)
 > **Env Vars:** iam (8), aws (1), kms (1), sqs (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** aws (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exploring IAM Access Analyzer results
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-access-analyzer-results?u=76281980)
+#### [Exploring IAM Access Analyzer results](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-access-analyzer-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5731,7 +5659,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-access-analyzer-results?u=76281980&t=235)** Clicking on the link for this finding highlights a number of unused permissions.
 >
-> **[4:01](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-access-analyzer-results?u=76281980&t=241)** In this case, this is the role that's intended for EC2 instances to communicate with CloudWatch.
+> **[4:01](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-access-analyzer-results?u=76281980&t=241)** In this case, this is the role that's intended for [[Amazon EC2|EC2]] instances to communicate with CloudWatch.
 >
 > **[4:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-iam-access-analyzer-results?u=76281980&t=249)** Over the past day, we see that this role has not been used to access CloudWatch logs or X-Ray.
 >
@@ -5743,7 +5671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), next (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** iam (4), aws (1), ec2 (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -5751,8 +5679,7 @@ created: 2026-05-02
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Amazon Detective
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-detective?u=76281980)
+#### [Understanding Amazon Detective](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-detective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5776,7 +5703,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-detective?u=76281980&t=78)** Using graph theory as a compliment to machine learning, Detective is able to help you understand relationships between events, helping you shorten the time required to root cause a specific event.
 >
-> **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-detective?u=76281980&t=92)** Detective also incorporates generative AI to help understand threats and their potential impacts.
+> **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-detective?u=76281980&t=92)** Detective also incorporates [[Generative AI]] to help understand threats and their potential impacts.
 >
 > **[1:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-detective?u=76281980&t=101)** As is common practice for many advanced services, there is a 30-day trial for Detective.
 >
@@ -5784,7 +5711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), aws (4), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Env Vars:** aws (4), vpc (1)
 > **CLI Commands:** aws (4)
 > **Definitions:** is a  (1)
@@ -5792,8 +5719,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exploring Amazon Detective
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-amazon-detective?u=76281980)
+#### [Exploring Amazon Detective](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-amazon-detective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5887,7 +5813,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), aws (3), [[Search]] (1)
 > **Env Vars:** api (4), aws (3), iam (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** aws (3)
@@ -5896,8 +5821,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Amazon Inspector
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980)
+#### [Understanding Amazon Inspector](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5911,7 +5835,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=30)** That said, Inspector does support organizations, so it has the ability to explore resources across multiple accounts.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=39)** In regions where it is available, Inspector continuously monitors your EC2 instances and container images within the Elastic Container Registry for software vulnerabilities and network exposure.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=39)** In regions where it is available, Inspector continuously monitors your [[Amazon EC2|EC2]] instances and container images within the Elastic Container Registry for software vulnerabilities and network exposure.
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=53)** Making use of the Systems Manager agent, Inspector's scope expands to include operating system, file system, and application processes.
 >
@@ -5935,11 +5859,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=135)** You can use Inspector to scan for common vulnerabilities and exposures, or CVEs, as cataloged by the MITRE Corporation.
 >
-> **[2:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=144)** Another rule set is based on the Center for Internet Security's operating system security configuration benchmarks for things like Windows domain controllers and member servers.
+> **[2:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=144)** Another rule set is based on the Center for Internet Security's operating system security configuration benchmarks for things like [[Windows]] domain controllers and member servers.
 >
 > **[2:35](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=155)** A third rule set checks for security best practices.
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=159)** For example, on a Linux system, this rule set will report a finding if any operating system user other than root has write permissions to system directories.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=159)** For example, on a [[Linux]] system, this rule set will report a finding if any operating system user other than root has write permissions to system directories.
 >
 > **[2:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-inspector?u=76281980&t=170)** Inspector collects data continuously.
 >
@@ -5949,7 +5873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Amazon EC2|Ec2]] (3), web (3), [[Security]] (3), data (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** ec2 (3), aws (1), dns (1), rds (1), mitre (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** aws (1)
@@ -5958,8 +5882,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring Amazon Inspector
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-amazon-inspector?u=76281980)
+#### [Exploring Amazon Inspector](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-amazon-inspector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5983,7 +5906,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-amazon-inspector?u=76281980&t=66)** In this dashboard, I can see the status of my environment coverage as well as the total number of critical findings.
 >
-> **[1:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-amazon-inspector?u=76281980&t=75)** Scrolling down a bit, you can see that some sections of this dashboard are dedicated to containers, while others are dedicated to EC2.
+> **[1:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-amazon-inspector?u=76281980&t=75)** Scrolling down a bit, you can see that some sections of this dashboard are dedicated to containers, while others are dedicated to [[Amazon EC2|EC2]].
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-amazon-inspector?u=76281980&t=84)** Scrolling back up, I'm delighted to see that I have zero critical findings.
 >
@@ -6031,7 +5954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Security]] (5), [[Amazon EC2|Ec2]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** ec2 (2), vpc (1), ami (1)
 > **Ports:** port 80 (1), port 443 (1)
 > **UI Navigation:** switch to (1), scroll down (1)
@@ -6040,8 +5963,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 
-#### Resolving an Inspector finding
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-an-inspector-finding?u=76281980)
+#### [Resolving an Inspector finding](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-an-inspector-finding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6129,15 +6051,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), web (2), hit (1)
 > **Env Vars:** http (2), https (2)
 > **UI Navigation:** dropdown (2), click on (1)
 > **Ports:** port 80 (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [facilitator] (1)
 
-#### Understanding Amazon Security Lake
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-security-lake?u=76281980)
+#### [Understanding Amazon Security Lake](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-security-lake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6147,13 +6067,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-security-lake?u=76281980&t=17)** As the name implies, Security Lake is a security-centric data lake that facilitates security analysis across the enterprise.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-security-lake?u=76281980&t=28)** As you would expect, Security Lake can collect logs from a number of AWS services, including CloudTrail, VPC, Route 53, S3, Lambda, the Elastic Kubernetes Service, or EKS, and Web Application Firewall.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-security-lake?u=76281980&t=28)** As you would expect, Security Lake can collect logs from a number of AWS services, including CloudTrail, VPC, Route 53, S3, Lambda, the Elastic [[Kubernetes]] Service, or EKS, and Web Application Firewall.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-security-lake?u=76281980&t=50)** Security Lake also integrates with Security Hub to aggregate security findings from Config, Firewall Manager, Guard Duty, IAM Access Analyzer, Inspector, Macie, and Systems Manager Patch Manager.
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-security-lake?u=76281980&t=69)** By centralizing your security-related logs, you can take a more holistic approach to security incidents.
 >
-> **[1:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-security-lake?u=76281980&t=77)** Security Lake leverages the Open Cybersecurity Schema Framework for security related data.
+> **[1:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-security-lake?u=76281980&t=77)** Security Lake leverages the Open [[Cybersecurity]] Schema Framework for security related data.
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-security-lake?u=76281980&t=85)** Since it is an open standard, you can create custom integrations to feed data from your own systems into Security Lake.
 >
@@ -6165,26 +6085,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), data (8), aws (2), [[Kubernetes]] (1), web application (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** aws (2), vpc (1), eks (1), iam (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding IoT Device Defender
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iot-device-defender?u=76281980)
+#### [Understanding IoT Device Defender](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iot-device-defender?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iot-device-defender?u=76281980&t=0)** - [Instructor] Garage doors, ovens, doorbells, lights, cameras, and security systems are just a few examples of things that connect to the internet.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iot-device-defender?u=76281980&t=12)** While configuring, managing, and securing a fleet of internet connected devices can be challenging, Internet of Things Device Defender can ease that burden.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iot-device-defender?u=76281980&t=12)** While configuring, managing, and securing a fleet of internet connected devices can be challenging, [[IoT|Internet of Things]] Device [[Microsoft Defender|Defender]] can ease that burden.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iot-device-defender?u=76281980&t=25)** Device Defender has the capabilities to help you ensure the security of your Internet of Things fleet.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iot-device-defender?u=76281980&t=31)** One Device Defender capability is Audit.
 >
-> **[0:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iot-device-defender?u=76281980&t=34)** Audit checks your device resources, including X509 certificates, IoT policies, and client IDs to ensure that they follow security best practices.
+> **[0:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iot-device-defender?u=76281980&t=34)** Audit checks your device resources, including X509 certificates, [[IoT]] policies, and client IDs to ensure that they follow security best practices.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-iot-device-defender?u=76281980&t=46)** If any of these standards are violated, Audit identifies them for remediation.
 >
@@ -6342,7 +6261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[IoT]] (11), [[Microsoft Defender|Defender]] (10), next (7), [[Internet of Things (IoT)|Internet of things]] (2)
+> **Frameworks & Libraries:** [[IoT]] (11), [[Microsoft Defender|Defender]] (10), [[IoT|Internet of things]] (2)
 > **Env Vars:** sns (4), x509 (2), tcp (1)
 > **UI Navigation:** dropdown (3), go to (2), navigate to (1)
 > **Prerequisites:** configure (4), setup (1)
@@ -6351,12 +6270,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** as we saw (1)
 
-#### Understanding AWS Elastic Disaster Recovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-elastic-disaster-recovery?u=76281980)
+#### [Understanding AWS Elastic Disaster Recovery](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-elastic-disaster-recovery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-elastic-disaster-recovery?u=76281980&t=0)** - [Instructor] Elastic Disaster Recovery is a service that lets you easily recover your servers, applications, and databases.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-elastic-disaster-recovery?u=76281980&t=0)** - [Instructor] Elastic Disaster Recovery is a service that lets you easily recover your servers, applications, and [[Databases]].
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-elastic-disaster-recovery?u=76281980&t=9)** Taking backups of your existing systems is easy.
 >
@@ -6374,7 +6292,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-elastic-disaster-recovery?u=76281980&t=45)** One day, a malicious actor manages to install ransomware on your server, jeopardizing the integrity of your data.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-elastic-disaster-recovery?u=76281980&t=55)** To bring your server back, you would have to have a process in place, similar to taking snapshots of your volumes, then creating an image from the most recent snapshot that wasn't infected with your ransomware, and finally, launching a replacement EC2 instance.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-elastic-disaster-recovery?u=76281980&t=55)** To bring your server back, you would have to have a process in place, similar to taking snapshots of your volumes, then creating an image from the most recent snapshot that wasn't infected with your ransomware, and finally, launching a replacement [[Amazon EC2|EC2]] instance.
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-elastic-disaster-recovery?u=76281980&t=75)** Of course, you'd have to take care of any networking configurations to ensure that your new server is accessible to your users.
 >
@@ -6406,7 +6324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), aws (3), cloud (2), [[Databases]] (1), application (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (3), edr (3), ec2 (1)
 > **Prerequisites:** configure (3), install (1)
 > **CLI Commands:** aws (3)
@@ -6415,8 +6333,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring Elastic Disaster Recovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980)
+#### [Configuring Elastic Disaster Recovery](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6468,7 +6385,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980&t=162)** On this page, I have the option of indicating how Elastic Disaster Recovery will launch new instances.
 >
-> **[2:52](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980&t=172)** We can either have AWS determine which instance size is appropriate, or we could specify an instance size in an EC2 launch template.
+> **[2:52](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980&t=172)** We can either have AWS determine which instance size is appropriate, or we could specify an instance size in an [[Amazon EC2|EC2]] launch template.
 >
 > **[3:05](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980&t=185)** I'm going to go with that for this demo. Then scroll down.
 >
@@ -6480,9 +6397,9 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980&t=208)** However, in a recovery situation, I think time is of the essence, so I'm going to leave it checked.
 >
-> **[3:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980&t=216)** The Licensing section concerns itself with Windows.
+> **[3:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980&t=216)** The Licensing section concerns itself with [[Windows]].
 >
-> **[3:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980&t=219)** Since I'm primarily using Linux for this demo, I'm going to leave Use AWS provided license, then click the Next button.
+> **[3:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980&t=219)** Since I'm primarily using [[Linux]] for this demo, I'm going to leave Use AWS provided license, then click the Next button.
 >
 > **[3:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-elastic-disaster-recovery?u=76281980&t=229)** On this page, I get to specify a default EC2 launch template.
 >
@@ -6508,7 +6425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), aws (3), data (3), [[Amazon EC2|Ec2]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** aws (3), ec2 (3), ebs (1), iam (1)
 > **Prerequisites:** configure (5), set up (1)
 > **CLI Commands:** aws (3), make (2)
@@ -6517,8 +6434,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Tools:** aws console (1)
 
-#### Configuring a source server
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-source-server?u=76281980)
+#### [Configuring a source server](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-source-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6534,7 +6450,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-source-server?u=76281980&t=43)** While this is something you could automate with systems manager, let's go ahead and click learn more to get started.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-source-server?u=76281980&t=51)** In this case, the machine I'm working on is a Linux machine.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-source-server?u=76281980&t=51)** In this case, the machine I'm working on is a [[Linux]] machine.
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-source-server?u=76281980&t=55)** So I'm going to go ahead and click Linux installation instructions.
 >
@@ -6544,7 +6460,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-source-server?u=76281980&t=80)** Closing this modal window, we can see that I'm in Oregon, or us-west-2.
 >
-> **[1:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-source-server?u=76281980&t=86)** To get started, I pop open the EC2 tab.
+> **[1:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-source-server?u=76281980&t=86)** To get started, I pop open the [[Amazon EC2|EC2]] tab.
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-source-server?u=76281980&t=90)** From there, I navigate to my running instances, select my application server, and connect.
 >
@@ -6614,7 +6530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), data (3), [[Linux]] (2), [[Amazon EC2|Ec2]] (2), hit (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** edr (2), ec2 (2), eta (1)
 > **Prerequisites:** install (3), configure (1), set up (1)
 > **UI Navigation:** open the (1), navigate to (1)
@@ -6623,8 +6539,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Exploring AWS Elastic Disaster Recovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-elastic-disaster-recovery?u=76281980)
+#### [Exploring AWS Elastic Disaster Recovery](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-elastic-disaster-recovery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6638,7 +6553,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-elastic-disaster-recovery?u=76281980&t=34)** For example, if I wanted to change the instance type or if I wanted to change the security group, I could do that here.
 >
-> **[0:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-elastic-disaster-recovery?u=76281980&t=45)** Similarly, all of those EC2-centric settings around IAM instance profile, termination protection, all of those things, I could update those specific to this server.
+> **[0:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-elastic-disaster-recovery?u=76281980&t=45)** Similarly, all of those [[Amazon EC2|EC2]]-centric settings around IAM instance profile, termination protection, all of those things, I could update those specific to this server.
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-elastic-disaster-recovery?u=76281980&t=59)** I'm going to cancel out of that for now.
 >
@@ -6750,7 +6665,7 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-elastic-disaster-recovery?u=76281980&t=425)** Once enabled, it's possible to check additional components of an EC2 instance once it comes up.
 >
-> **[7:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-elastic-disaster-recovery?u=76281980&t=435)** For example, you may want to install the Systems Manager Agent, verify Linux time settings, or validate available disk space.
+> **[7:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-elastic-disaster-recovery?u=76281980&t=435)** For example, you may want to install the Systems Manager Agent, verify [[Linux]] time settings, or validate available disk space.
 >
 > **[7:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-aws-elastic-disaster-recovery?u=76281980&t=447)** As you would expect, while it's possible to enable default post-launch actions, once you've enabled post-launch actions, you can configure them per server.
 >
@@ -6782,7 +6697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Linux]] (4), [[Security]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Linux]] (4)
 > **Env Vars:** ec2 (4), vpc (3), iam (1), utc (1), edr (1)
 > **Ports:** :30 (1), :35 (1), :22 (1), :15 (1)
 > **UI Navigation:** click on (1), go to (1), open the (1), select the (1)
@@ -6791,8 +6706,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Warnings:** note that (2)
 
-#### Removing a source server
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/removing-a-source-server?u=76281980)
+#### [Removing a source server](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/removing-a-source-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6822,7 +6736,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1)
 > **UI Navigation:** select the (1), go to (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -6834,8 +6747,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Web Application Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980)
+#### [Understand Web Application Firewall](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6849,7 +6761,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=27)** Commonly presenting as floods of HTTP traffic, DDoS attacks can generate sufficient workload to knock a website offline.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=38)** Web application attacks typically seek to compromise the code that you're running and can include techniques such as SQL injection and server side request forgery.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=38)** Web application attacks typically seek to compromise the code that you're running and can include techniques such as [[SQL]] injection and server side request forgery.
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=49)** WAF's bot control capability helps you identify bad robot networks that are seeking to abuse your systems.
 >
@@ -6861,7 +6773,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=81)** If you use the AWS API Gateway service to publish APIs to the world, you'll be happy to know that WAF integration can help protect your APIs.
 >
-> **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=92)** Similarly, if you use AppSync to expose a GraphQL endpoint, WAF can protect that as well.
+> **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=92)** Similarly, if you use AppSync to expose a [[GraphQL]] endpoint, WAF can protect that as well.
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=100)** In order to provide that protection, WAF uses web access control lists or ACLs.
 >
@@ -6871,7 +6783,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=124)** To alleviate many common concerns, AWS provides a set of actively managed rules that check for common issues.
 >
-> **[2:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=133)** For example, the Open Web Application Security Project, or OWASP, publishes a top 10 list to help develop more secure software.
+> **[2:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=133)** For example, the Open [[Web Application Security]] Project, or [[OWASP]], publishes a top 10 list to help develop more secure software.
 >
 > **[2:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980&t=144)** The OWASP Top 10 is among the managed rules that AWS makes available.
 >
@@ -6911,15 +6823,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), aws (5), web application (4), traffic (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[OWASP]] (2), [[GraphQL]] (1), [[Web Application Security]] (1)
 > **Env Vars:** waf (16), aws (5), acl (4), sql (2), owasp (2)
 > **CLI Commands:** aws (5)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (1), for example (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring Web Application Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-web-application-firewall?u=76281980)
+#### [Exploring Web Application Firewall](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-web-application-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6943,9 +6854,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-web-application-firewall?u=76281980&t=43)** Then I'll have my WAF rule reference that IP set, which will block all associated access from that address.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-web-application-firewall?u=76281980&t=51)** Meanwhile, all other internet traffic will flow through straight to the web servers.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-web-application-firewall?u=76281980&t=51)** Meanwhile, all other internet traffic will flow through straight to the [[Web Servers]].
 >
-> **[0:58](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-web-application-firewall?u=76281980&t=58)** Here I am in the EC2 console in the load balancing section.
+> **[0:58](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-web-application-firewall?u=76281980&t=58)** Here I am in the [[Amazon EC2|EC2]] console in the load balancing section.
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-web-application-firewall?u=76281980&t=63)** Popping open my load balancer, I'm simply going to copy the DNS name for the load balancer and open it up in a new browser tab.
 >
@@ -6997,7 +6908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), traffic (2), [[Amazon EC2|Ec2]] (2), application (1), dns (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Web Servers]] (1)
 > **Env Vars:** waf (5), ec2 (2), dns (1), aws (1)
 > **Warnings:** note that (2)
 > **Prerequisites:** configure (2)
@@ -7006,8 +6917,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring Web Application Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-web-application-firewall?u=76281980)
+#### [Configuring Web Application Firewall](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-web-application-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7061,7 +6971,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-web-application-firewall?u=76281980&t=159)** You still have to pay for the WAF resources.
 >
-> **[2:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-web-application-firewall?u=76281980&t=162)** However, suppose you're running a Windows server, you might want to add the Windows operating system set of rules to this ACL.
+> **[2:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-web-application-firewall?u=76281980&t=162)** However, suppose you're running a [[Windows Server]], you might want to add the [[Windows]] operating system set of rules to this ACL.
 >
 > **[2:52](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-web-application-firewall?u=76281980&t=172)** Since I don't want to add any of these canned rules, I'm going to cancel back and then go ahead, scroll up, click Add Rules, and say add my own rules and rule groups.
 >
@@ -7133,7 +7043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), next (5), aws (4), traffic (4), application (2)
+> **Frameworks & Libraries:** [[Windows Server]] (1), [[Windows]] (1)
 > **Env Vars:** acl (9), aws (4), waf (2), captcha (1)
 > **CLI Commands:** aws (4)
 > **Analogies:** for example (2), such as (1), imagine (1)
@@ -7142,8 +7052,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
 
-#### Validating Web Application Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-web-application-firewall?u=76281980)
+#### [Validating Web Application Firewall](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-web-application-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7157,7 +7066,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-web-application-firewall?u=76281980&t=34)** As expected, the load balancer continues to perform, serving me the webpage.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-web-application-firewall?u=76281980&t=40)** Now, let's go back to the EC2 instance.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-web-application-firewall?u=76281980&t=40)** Now, let's go back to the [[Amazon EC2|EC2]] instance.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-web-application-firewall?u=76281980&t=44)** Again, recall that the IP address for this instance is the IP that we've identified in the IP set for this web ACL.
 >
@@ -7211,15 +7120,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (12), web (7), [[Amazon EC2|Ec2]] (2), hit (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** waf (6), acl (4), ec2 (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand AWS Shield
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-shield?u=76281980)
+#### [Understand AWS Shield](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-shield?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7247,7 +7155,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-shield?u=76281980&t=83)** This allows you to create as sophisticated a protection scheme as warranted by your enterprise.
 >
-> **[1:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-shield?u=76281980&t=89)** If you have your own hardware behind a Route 53 or CloudFront distribution, Shield Advanced can help protect those resources as well.
+> **[1:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-shield?u=76281980&t=89)** If you have your own [[Hardware]] behind a Route 53 or CloudFront distribution, Shield Advanced can help protect those resources as well.
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-shield?u=76281980&t=99)** Apart from automated protection, if your organization pays for business or enterprise support, of the biggest advantages to Shield Advanced is access to the Shield Response Team.
 >
@@ -7307,7 +7215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), application (1), web application (1), [[Hardware]] (1), business (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** aws (7), waf (3), udp (1), tcp (1), syn (1)
 > **CLI Commands:** aws (7)
 > **Definitions:** is a  (4)
@@ -7316,8 +7224,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** click on (1)
 
-#### Understanding AWS Firewall Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-firewall-manager?u=76281980)
+#### [Understanding AWS Firewall Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-firewall-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7371,7 +7278,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), aws (4), management (3), dns (3), web (2)
 > **Env Vars:** aws (4), dns (3), waf (1)
 > **CLI Commands:** aws (4)
 > **Prerequisites:** set up (1), configure (1), getting started (1)
@@ -7379,8 +7285,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding AWS Network Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-network-firewall?u=76281980)
+#### [Understanding AWS Network Firewall](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-network-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7402,7 +7307,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-network-firewall?u=76281980&t=91)** Firewall policies let you create both stateless and stateful rules that define how traffic should be filtered.
 >
-> **[1:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-network-firewall?u=76281980&t=100)** This is where scalability comes into play as a single firewall policy can be assigned to more than one firewall.
+> **[1:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-network-firewall?u=76281980&t=100)** This is where [[Scalability]] comes into play as a single firewall policy can be assigned to more than one firewall.
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-network-firewall?u=76281980&t=108)** Firewall policies are examples of the defined ones use many principle.
 >
@@ -7434,13 +7339,13 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-network-firewall?u=76281980&t=229)** The intricacies of network firewall could easily consume an entire course.
 >
-> **[3:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-network-firewall?u=76281980&t=234)** To help you contextualize Network Firewalls and where they sit in the overall security arsenal, if you have straightforward routing needs and a relatively simple operational environment, you can use network access control lists within a VPC.
+> **[3:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-network-firewall?u=76281980&t=234)** To help you contextualize Network Firewalls and where they sit in the overall security arsenal, if you have straightforward [[Routing]] needs and a relatively simple operational environment, you can use network access control lists within a VPC.
 >
 > **[4:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-network-firewall?u=76281980&t=253)** However, if your use case includes a complex, multi-account situation, Network Firewall, along with its partners, resource access manager, and firewall manager, are likely just the components your organization needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), aws (4), [[Scalability]] (1), [[Security]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Routing]] (1)
 > **Env Vars:** vpc (6), aws (4), htp (1), iam (1)
 > **CLI Commands:** aws (4)
 > **Definitions:** is an  (2), is a  (1)
@@ -7449,8 +7354,7 @@ created: 2026-05-02
 > **Ports:** port 80 (1)
 > **Prerequisites:** set up (1)
 
-#### Understand AWS Verified Access
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-verified-access?u=76281980)
+#### [Understand AWS Verified Access](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-verified-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7470,7 +7374,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-verified-access?u=76281980&t=39)** To do his job, Peter accesses the corporate enterprise resource planning system.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-verified-access?u=76281980&t=46)** When Jackson and Peter are in the office, they can access the systems directly from their assigned corporate IP address.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-verified-access?u=76281980&t=46)** When Jackson and Peter are in the [[Microsoft Office|office]], they can access the systems directly from their assigned corporate IP address.
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-verified-access?u=76281980&t=55)** Typically, that works well.
 >
@@ -7528,21 +7432,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (4), [[Security]] (3), application (2), business (1), aws (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** vpn (4), crm (2), aws (1), vpc (1), erp (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding DNS Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-dns-firewall?u=76281980)
+#### [Understanding DNS Firewall](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-dns-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-dns-firewall?u=76281980&t=0)** - [Instructor] AWS Route 53 Resolver DNS Firewall is an AWS service with a really long name that's designed to block DNS queries, giving you the ability to control how DNS queries behave within your VPCs.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-dns-firewall?u=76281980&t=17)** Suppose you have a VPC with a pair of subnets running a bunch of EC2 instances.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-dns-firewall?u=76281980&t=17)** Suppose you have a VPC with a pair of subnets running a bunch of [[Amazon EC2|EC2]] instances.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-dns-firewall?u=76281980&t=23)** Unbeknownst to you, one of your EC2 instances gets infected with a piece of malware that uses the command and control DNS communication channels to control and exfiltrate data from the infected machine.
 >
@@ -7568,23 +7471,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (12), aws (3), [[Amazon EC2|Ec2]] (2), traffic (2), data (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** dns (12), aws (3), ec2 (2), vpc (1)
 > **CLI Commands:** aws (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring DNS Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980)
+#### [Configuring DNS Firewall](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980&t=0)** - [Instructor] Now that we know what Route 53 Resolver DNS Firewall can do, let's see how easy it is to get this service up and running.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980&t=9)** Here I am at my EC2 dashboard.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980&t=9)** Here I am at my [[Amazon EC2|EC2]] dashboard.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980&t=12)** Let's say I have a suspicion that my Windows Tools instance has been compromised.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980&t=12)** Let's say I have a suspicion that my [[Windows]] Tools instance has been compromised.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980&t=19)** Clicking on that machine's instance ID, I can get some additional information about the networking setup.
 >
@@ -7620,7 +7522,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980&t=105)** The first thing I need to do is specify a name for this rule.
 >
-> **[1:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980&t=110)** Just for demonstration purposes, let's go ahead and block DNS queries to Google.
+> **[1:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980&t=110)** Just for demonstration purposes, let's go ahead and block DNS queries to [[Google]].
 >
 > **[1:56](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-dns-firewall?u=76281980&t=116)** So I'll simply say block-google.
 >
@@ -7706,7 +7608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (8), [[Windows]] (4), [[Google]] (4), traffic (3), next (2)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Google]] (4), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (12), dns (8), aws (2), ec2 (1)
 > **UI Navigation:** dropdown (2), click on (1), scroll down (1), open the (1)
 > **Prerequisites:** set up (2), setup (1), configure (1)
@@ -7719,8 +7621,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Amazon Macie
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980)
+#### [Understanding Amazon Macie](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7736,7 +7637,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980&t=26)** Multimedia content including audio, video, and images are ignored.
 >
-> **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980&t=31)** Text files, compressed files, documents, including Microsoft Word and Excel, as well as PDF, and file formats associated with big data, like Parquet, are included in what Macie scans.
+> **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980&t=31)** Text files, compressed files, documents, including [[Microsoft Word]] and [[Microsoft Excel|Excel]], as well as PDF, and file formats associated with [[Big Data]], like Parquet, are included in what Macie scans.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980&t=46)** However, you want to be careful of blindly pointing Macie at all your S3 buckets, as the number of buckets and amount of data scanned in S3 are cost drivers.
 >
@@ -7754,7 +7655,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980&t=109)** For example, if you have to comply with the European Union's general data protection regulation, you'll be glad to know that Macie scans for personally identifiable information.
 >
-> **[2:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980&t=120)** If you're located in the US and deal with healthcare data, you should know that Macie scans for protected health information, and helps you maintain compliance with the Health Insurance Portability and Accountability Act, or HIPAA, in the US.
+> **[2:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980&t=120)** If you're located in the US and deal with healthcare data, you should know that Macie scans for protected health information, and helps you maintain compliance with the Health Insurance Portability and [[Accountability]] Act, or HIPAA, in the US.
 >
 > **[2:16](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980&t=136)** Beyond person-specific data, Macie also looks for credentials, such as API keys stored in configuration files.
 >
@@ -7778,7 +7679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Security]] (3), aws (2), [[Microsoft Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Microsoft Excel|Excel]] (1), [[Big Data]] (1), [[Accountability]] (1)
 > **Env Vars:** aws (2), pdf (1), hipaa (1), api (1), iam (1)
 > **CLI Commands:** find (3), aws (2)
 > **Definitions:** is a  (5)
@@ -7786,8 +7687,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configuring a Macie job
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-macie-job?u=76281980)
+#### [Configuring a Macie job](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-macie-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7799,7 +7699,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-macie-job?u=76281980&t=20)** Macie has discovered three buckets, none of which are publicly accessible.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-macie-job?u=76281980&t=27)** Scrolling down to the Data Security section, we see we have three not publicly accessible buckets.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-macie-job?u=76281980&t=27)** Scrolling down to the [[Data Security]] section, we see we have three not publicly accessible buckets.
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-a-macie-job?u=76281980&t=34)** There's more good news.
 >
@@ -7969,7 +7869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), data (5), aws (2), [[Security]] (1), job description (1)
+> **Frameworks & Libraries:** [[Data Security]] (1)
 > **Env Vars:** kms (5), aws (2)
 > **UI Navigation:** select the (2), open the (2), dropdown (1)
 > **CLI Commands:** aws (2), make (1), find (1)
@@ -7978,8 +7878,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Best Practices:** recommended (2)
 
-#### Exploring Macie results
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980)
+#### [Exploring Macie results](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8003,11 +7902,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=50)** Specifically, the Overview section identifies the object in S3 associated with this finding.
 >
-> **[0:59](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=59)** Scrolling down to the Details section, I could examine the raw results by downloading the zipped, compressed JSON file that Macie created.
+> **[0:59](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=59)** Scrolling down to the Details section, I could examine the raw results by downloading the zipped, compressed [[JSON]] file that Macie created.
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=72)** The link is available in the Detailed results location.
 >
-> **[1:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=77)** Clearly, checking in AWS security credentials is a terrible practice.
+> **[1:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=77)** Clearly, checking in [[AWS Security]] credentials is a terrible practice.
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=83)** That said, I can find a small degree of comfort in knowing that the bucket is not public.
 >
@@ -8021,7 +7920,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=123)** While the Delete objects screen makes me work for it by confirming with a Permanently delete message, this is exactly what I would need to do to resolve this finding.
 >
-> **[2:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=135)** After getting the confirmation that this object is successfully deleted, I could close that tab and work down the rest of the Finding list.
+> **[2:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=135)** After getting the confirmation that this object is successfully deleted, I could close that tab and work down the [[Representational State Transfer (REST)|rest]] of the Finding list.
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-macie-results?u=76281980&t=145)** Of course, after resolving all of these Findings, I could execute another scan to confirm that there are no high-severity findings.
 >
@@ -8031,7 +7930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), data (2), [[JSON]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[AWS Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** aws (2), find (2)
 > **Env Vars:** aws (2), json (1)
 > **UI Navigation:** click on (1)
@@ -8039,8 +7938,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Key Management Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980)
+#### [Understanding Key Management Service](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8048,7 +7946,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=9)** Let's explore some of the key, no pun intended, KMS concepts.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=15)** First off, KMS uses hardware security modules to keep your keys safe.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=15)** First off, KMS uses [[Hardware]] security modules to keep your keys safe.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=21)** From a hardware perspective, the underlying hardware security modules are multi-tenant.
 >
@@ -8066,13 +7964,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=74)** As you would expect, KMS integrates with many AWS services.
 >
-> **[1:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=79)** For example, you can use KMS to encrypt bulk data that you're loading into AWS using the Snow Family of products.
+> **[1:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=79)** For example, you can use KMS to encrypt bulk data that you're loading into AWS using the Snow Family of [[Microsoft Products|products]].
 >
-> **[1:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=89)** It can be used to encrypt data at rest in S3, as well as both the EBS and EFS block storage offerings.
+> **[1:29](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=89)** It can be used to encrypt data at [[Representational State Transfer (REST)|rest]] in S3, as well as both the EBS and EFS block storage offerings.
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=99)** If you use Aurora for your relational database needs, know that KMS integration comes with it.
 >
-> **[1:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=106)** If you use Certificate Manager to establish the veracity of your web servers, you can specify KMS for encryption.
+> **[1:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=106)** If you use Certificate Manager to establish the veracity of your [[Web Servers]], you can specify KMS for encryption.
 >
 > **[1:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-key-management-service?u=76281980&t=114)** Of course, this is just a sampling of the AWS native services that integrate with KMS.
 >
@@ -8102,7 +8000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), [[Hardware]] (3), [[Security]] (3), data (3), management (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Web Servers]] (1)
 > **Env Vars:** kms (18), aws (7), iam (2), fips (1), ebs (1)
 > **CLI Commands:** aws (8), make (1)
 > **Analogies:** for example (2)
@@ -8110,8 +8008,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a KMS key
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-kms-key?u=76281980)
+#### [Creating a KMS key](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-kms-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8211,7 +8108,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Engineering]] (4), aws (4), management (3), power (1)
 > **Env Vars:** kms (6), aws (4), ebs (1), iam (1)
 > **CLI Commands:** aws (4), make (4)
 > **Warnings:** note that (3), be careful (1)
@@ -8220,8 +8116,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a multi-region KMS key
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-multi-region-kms-key?u=76281980)
+#### [Creating a multi-region KMS key](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-multi-region-kms-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8303,20 +8198,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Engineering]] (2), data (1), api (1)
 > **Env Vars:** kms (4), api (1)
 > **Warnings:** note that (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a KMS in S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-kms-in-s3?u=76281980)
+#### [Using a KMS in S3](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-kms-in-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-kms-in-s3?u=76281980&t=0)** - [Facilitator] Now that we've created a KMS key, let's use it to encrypt objects in S3.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-kms-in-s3?u=76281980&t=7)** Here I am with a pair of windows logged into the AWS console.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-kms-in-s3?u=76281980&t=7)** Here I am with a pair of [[Windows]] logged into the AWS console.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-kms-in-s3?u=76281980&t=12)** In the window on the left, I'm logged in as Enzo, who is part of the engineering admin group.
 >
@@ -8416,7 +8309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), aws (2), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** kms (11), aws (2), arn (2)
 > **CLI Commands:** make (4), aws (2), find (2)
 > **UI Navigation:** scroll down (2), dropdown (1)
@@ -8425,8 +8318,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [facilitator] (1)
 
-#### Using KMS and an IAM role
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-kms-and-an-iam-role?u=76281980)
+#### [Using KMS and an IAM role](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-kms-and-an-iam-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8438,7 +8330,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-kms-and-an-iam-role?u=76281980&t=18)** Those objects were encrypted with the engineering admin KMS key in Ohio.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-kms-and-an-iam-role?u=76281980&t=25)** There's an EC2 instance in that region that needs to access those configuration files.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-kms-and-an-iam-role?u=76281980&t=25)** There's an [[Amazon EC2|EC2]] instance in that region that needs to access those configuration files.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-kms-and-an-iam-role?u=76281980&t=32)** In order to enable that without embedding permissions, I've created an IAM role and assigned it to the server.
 >
@@ -8546,7 +8438,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-kms-and-an-iam-role?u=76281980&t=366)** Doing a directory listing on the instance shows that the file is there, and we can do a quick cat on the file to ensure that the contents are present.
 >
-> **[6:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-kms-and-an-iam-role?u=76281980&t=379)** Wonderful, now that we've validated the contents of the file, we can rest assured that this role is appropriately configured to use this KMS key for encryption purposes.
+> **[6:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-kms-and-an-iam-role?u=76281980&t=379)** Wonderful, now that we've validated the contents of the file, we can [[Representational State Transfer (REST)|rest]] assured that this role is appropriately configured to use this KMS key for encryption purposes.
 >
 > **[6:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-kms-and-an-iam-role?u=76281980&t=391)** Keep in mind that this specific key is a multi-region key.
 >
@@ -8560,7 +8452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), [[Engineering]] (6), [[Security]] (3), web (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (11), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** kms (14), ec2 (11), iam (6), arn (3), ssh (1)
 > **UI Navigation:** scroll down (2), click on (1), select the (1), go to (1), open the (1)
 > **CLI Commands:** ssh (1), cat (1)
@@ -8569,8 +8461,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Automating KMS key rotation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/automating-kms-key-rotation?u=76281980)
+#### [Automating KMS key rotation](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/automating-kms-key-rotation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8654,7 +8545,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), aws (1), [[Engineering]] (1)
 > **Env Vars:** kms (3), aws (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** aws (1)
@@ -8662,9 +8552,9 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
+> **Speakers:** - [instructor] (1)
 
-#### Deleting a KMS key
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleting-a-kms-key?u=76281980)
+#### [Deleting a KMS key](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleting-a-kms-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8718,7 +8608,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleting-a-kms-key?u=76281980&t=152)** Okay, at this point, all copies of the key are scheduled for deletion.
 >
-> **[2:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleting-a-kms-key?u=76281980&t=161)** In this browser, I'm logged into an EC2 instance with an IAM role that enables me to use that KMS key to decrypt objects.
+> **[2:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleting-a-kms-key?u=76281980&t=161)** In this browser, I'm logged into an [[Amazon EC2|EC2]] instance with an IAM role that enables me to use that KMS key to decrypt objects.
 >
 > **[2:52](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleting-a-kms-key?u=76281980&t=172)** Now that that key is scheduled for deletion, let's see what happens if we try and use that key to decrypt a file.
 >
@@ -8734,7 +8624,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleting-a-kms-key?u=76281980&t=214)** On the right, I have a terminal on my laptop.
 >
-> **[3:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleting-a-kms-key?u=76281980&t=219)** On my laptop, I've put together a script that contains a couple of CLI commands that will reverse this pending deletion.
+> **[3:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleting-a-kms-key?u=76281980&t=219)** On my laptop, I've put together a script that contains a couple of [[CLI]] commands that will reverse this pending deletion.
 >
 > **[3:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleting-a-kms-key?u=76281980&t=229)** Let's take a quick look at it.
 >
@@ -8776,7 +8666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), data (2), web (2), [[Amazon EC2|Ec2]] (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[CLI]] (1)
 > **Env Vars:** kms (5), ec2 (2), iam (1), cli (1), aws (1)
 > **UI Navigation:** go to (2), scroll down (1), switch to (1)
 > **Best Practices:** the key is (3)
@@ -8785,8 +8675,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Cross-References:** go back to (1)
 
-#### Enabling EBS default encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-ebs-default-encryption?u=76281980)
+#### [Enabling EBS default encryption](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-ebs-default-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8812,7 +8701,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-ebs-default-encryption?u=76281980&t=108)** Let's take a quick peek in the AWS console and see how easy it is to do this.
 >
-> **[1:56](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-ebs-default-encryption?u=76281980&t=116)** Here I am at the EC2 dashboard in the web console.
+> **[1:56](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-ebs-default-encryption?u=76281980&t=116)** Here I am at the [[Amazon EC2|EC2]] dashboard in the web console.
 >
 > **[2:01](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-ebs-default-encryption?u=76281980&t=121)** Enabling default encryption is very straightforward.
 >
@@ -8894,7 +8783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), data (4), [[Amazon EC2|Ec2]] (2), [[Security]] (2), web (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** ebs (15), aws (5), kms (3), ec2 (2), ami (1)
 > **CLI Commands:** aws (5), make (1)
 > **Warnings:** note that (5)
@@ -8903,8 +8792,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Analogies:** for example (1)
 
-#### Understanding Secrets Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-secrets-manager?u=76281980)
+#### [Understanding Secrets Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-secrets-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8940,13 +8828,13 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-secrets-manager?u=76281980&t=105)** Since Secrets Manager is based on KMS, your destination region has to have the KMS key if you're using a customer managed key to manage your secret.
 >
-> **[1:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-secrets-manager?u=76281980&t=115)** Once you have secrets in place, you can retrieve the value of your secret using the AWS CLI or an AWS HGTPS endpoint.
+> **[1:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-secrets-manager?u=76281980&t=115)** Once you have secrets in place, you can retrieve the value of your secret using the AWS [[CLI]] or an AWS HGTPS endpoint.
 >
 > **[2:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-secrets-manager?u=76281980&t=126)** While Secrets Manager isn't free, the benefits greatly outweigh the nominal per secret cost.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), management (4), api (1), database (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** kms (8), aws (4), iam (2), api (1), rds (1)
 > **CLI Commands:** aws (4)
 > **Analogies:** similar to (3)
@@ -8955,8 +8843,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Secrets Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980)
+#### [Using Secrets Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8964,7 +8851,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=8)** Consider the following scenario.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=10)** In the North Virginia region, I have a development Postgres database running an RDS.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=10)** In the North Virginia region, I have a development [[PostgreSQL|Postgres]] database running an RDS.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=17)** I want to store the database password in Secrets Manager, where I will name the key postgres-dev-access.
 >
@@ -9004,7 +8891,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=148)** For this demo, I'll stick with the AWS managed option.
 >
-> **[2:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=153)** At the bottom of the screen, there's a listing of RDS databases in this region.
+> **[2:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=153)** At the bottom of the screen, there's a listing of RDS [[Databases]] in this region.
 >
 > **[2:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=159)** I select my Postgres dev instance.
 >
@@ -9046,7 +8933,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=264)** This code can simply be embedded into your app to retrieve the secret in question.
 >
-> **[4:30](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=270)** For example, in the Python 3 section, it defines a git_secret function.
+> **[4:30](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=270)** For example, in the [[Python (Programming Language)|Python]] 3 section, it defines a git_secret function.
 >
 > **[4:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-secrets-manager?u=76281980&t=279)** That function proceeds to retrieve the secret in question.
 >
@@ -9062,7 +8949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[PostgreSQL|Postgres]] (4), next (4), application (2), aws (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** rds (5), kms (2), aws (2), api (1)
 > **CLI Commands:** aws (2), find (1), python (1)
 > **Warnings:** note that (3), watch out (1)
@@ -9071,8 +8958,7 @@ created: 2026-05-02
 > **Versions:** python 3 (1)
 > **Exercise Files:** sample code (1)
 
-#### Enabling autorotation with Secrets Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980)
+#### [Enabling autorotation with Secrets Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9084,9 +8970,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=17)** The original password for an RDS database has been stored as a Secrets Manager Secret.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=24)** There is an EC2 instance running in that region, which needs access to that database, to facilitate the use of Secrets Manager, an IAM role has been assigned to this server.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=24)** There is an [[Amazon EC2|EC2]] instance running in that region, which needs access to that database, to facilitate the use of Secrets Manager, an IAM role has been assigned to this server.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=39)** In this case, the role contains an IAM policy with permissions to get the secret value for the dev-postgres access secret.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=39)** In this case, the role contains an IAM policy with permissions to get the secret value for the dev-[[PostgreSQL|postgres]] access secret.
 >
 > **[0:52](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=52)** This allows the EC2 instance to open a database connection and interact with the Postgres database.
 >
@@ -9110,7 +8996,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=124)** Now, let's go ahead and configure auto-rotation.
 >
-> **[2:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=129)** Here, I have a couple of terminal windows logged into an EC2 instance in Virginia.
+> **[2:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=129)** Here, I have a couple of terminal [[Windows]] logged into an EC2 instance in Virginia.
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=137)** Looking at the details on the bottom of each panel, you can see that it's the same EC2 instance.
 >
@@ -9206,7 +9092,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=432)** I'm going to go ahead and run that command.
 >
-> **[7:16](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=436)** You can see that in the output, the secret string comes back as a JSON object.
+> **[7:16](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=436)** You can see that in the output, the secret string comes back as a [[JSON]] object.
 >
 > **[7:23](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/enabling-autoration-with-secrets-manager?u=76281980&t=443)** This is why AWS provides starter code for parsing purposes.
 >
@@ -9220,7 +9106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[Amazon EC2|Ec2]] (4), aws (3), [[PostgreSQL|Postgres]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[PostgreSQL|Postgres]] (2), [[Windows]] (1), [[JSON]] (1)
 > **Env Vars:** ec2 (4), aws (3), iam (3), rds (2), json (1)
 > **Code Identifiers:** dbconnect (2), getsecret (2)
 > **CLI Commands:** aws (3)
@@ -9229,14 +9115,13 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Exercise Files:** starter code (1)
 
-#### Creating a multi-region secret
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-multi-region-secret?u=76281980)
+#### [Creating a multi-region secret](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-multi-region-secret?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-multi-region-secret?u=76281980&t=0)** - [Instructor] Now that we have a secret manager secret in place, let's go ahead and enable Multi-Region Synchronization.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-multi-region-secret?u=76281980&t=9)** Okay, here are the secret details associated with the Postgres development database located in Virginia.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-multi-region-secret?u=76281980&t=9)** Okay, here are the secret details associated with the [[PostgreSQL|Postgres]] development database located in Virginia.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-multi-region-secret?u=76281980&t=18)** Let's say we want to replicate this key to another region.
 >
@@ -9302,7 +9187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), aws (2), [[PostgreSQL|Postgres]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** arn (3), aws (2), kms (2)
 > **Warnings:** note that (4)
 > **CLI Commands:** aws (2)
@@ -9311,8 +9196,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Prerequisites:** set up (1)
 
-#### Deleting a Secrets Manager secret
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleteing-a-secrets-manager-secret?u=76281980)
+#### [Deleting a Secrets Manager secret](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleteing-a-secrets-manager-secret?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9322,7 +9206,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleteing-a-secrets-manager-secret?u=76281980&t=10)** Enzo decides to leave the organization.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleteing-a-secrets-manager-secret?u=76281980&t=13)** He also decides to delete the dev-postgres Secrets Manager secret in all regions on the way out, making it impossible to retrieve the current password for the development database.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleteing-a-secrets-manager-secret?u=76281980&t=13)** He also decides to delete the dev-[[PostgreSQL|postgres]] Secrets Manager secret in all regions on the way out, making it impossible to retrieve the current password for the development database.
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/deleteing-a-secrets-manager-secret?u=76281980&t=28)** Thankfully, there are safeguards in place and the secret is not immediately deleted.
 >
@@ -9436,7 +9320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2)
 > **UI Navigation:** go to (1), checkbox (1), click on (1)
 > **Warnings:** note that (2), keep in mind (1)
 > **CLI Commands:** find (1)
@@ -9445,12 +9329,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding AWS CloudHSM
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-cloudhsm?u=76281980)
+#### [Understanding AWS CloudHSM](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-cloudhsm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-cloudhsm?u=76281980&t=0)** - [Instructor] While KMS is a wonderful tool for managing encryption keys, the Cloud Hardware Security Module offers a greater level of customer control.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-cloudhsm?u=76281980&t=0)** - [Instructor] While KMS is a wonderful tool for managing encryption keys, the Cloud [[Hardware]] Security Module offers a greater level of customer control.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-cloudhsm?u=76281980&t=10)** If your organization requires more flexibility than what KMS offers, CloudHSM provides a viable alternative.
 >
@@ -9492,7 +9375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), cloud (3), [[Hardware]] (3), [[Security]] (3), management (3)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **Env Vars:** kms (10), aws (4), hsm (1), fips (1), vpc (1)
 > **CLI Commands:** aws (4), node (1)
 > **Definitions:** is a  (3)
@@ -9501,12 +9384,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Systems Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-systems-manager?u=76281980)
+#### [Understanding Systems Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-systems-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-systems-manager?u=76281980&t=0)** - [Instructor] Systems Manager is a centralized operational hub for managing hybrid cloud resources.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-systems-manager?u=76281980&t=0)** - [Instructor] Systems Manager is a centralized operational hub for managing [[Hybrid Cloud]] resources.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-systems-manager?u=76281980&t=6)** While it has many capabilities, I will focus on the security and compliance related considerations.
 >
@@ -9530,7 +9412,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-systems-manager?u=76281980&t=84)** You can use Systems Manager to help system operators know what steps to take when the unexpected does occur.
 >
-> **[1:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-systems-manager?u=76281980&t=93)** With the Incident Manager feature, you can develop incident response playbooks, specifying actions to take and the appropriate escalation procedures.
+> **[1:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-systems-manager?u=76281980&t=93)** With the Incident Manager feature, you can develop [[Incident Response]] playbooks, specifying actions to take and the appropriate escalation procedures.
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-systems-manager?u=76281980&t=103)** Now let's take a closer look at Parameter Store.
 >
@@ -9562,7 +9444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), application (2), [[Hybrid Cloud]] (1), [[Security]] (1), aws (1)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (1), [[Incident Response]] (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** aws (1), kms (1), iem (1)
 > **Analogies:** for example (2)
@@ -9570,8 +9452,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing Systems Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/implementing-systems-manager?u=76281980)
+#### [Implementing Systems Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/implementing-systems-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9597,7 +9478,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/implementing-systems-manager?u=76281980&t=71)** In this case, I just want the current region.
 >
-> **[1:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/implementing-systems-manager?u=76281980&t=74)** Then I can specify which EC2 instances to include.
+> **[1:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/implementing-systems-manager?u=76281980&t=74)** Then I can specify which [[Amazon EC2|EC2]] instances to include.
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/implementing-systems-manager?u=76281980&t=81)** In this case, I'd like centralized intelligence about every instance in this region.
 >
@@ -9639,15 +9520,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), web (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Prerequisites:** setup (8), configure (2), install (1)
 > **Env Vars:** ec2 (1), iam (1)
 > **UI Navigation:** navigate to (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Resolving compliance with Systems Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-compliance-with-systems-manager?u=76281980)
+#### [Resolving compliance with Systems Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-compliance-with-systems-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9679,7 +9559,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-compliance-with-systems-manager?u=76281980&t=106)** On the instance in question.
 >
-> **[1:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-compliance-with-systems-manager?u=76281980&t=110)** This capability is particularly useful when investigating things within your EC2 instance fleet.
+> **[1:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-compliance-with-systems-manager?u=76281980&t=110)** This capability is particularly useful when investigating things within your [[Amazon EC2|EC2]] instance fleet.
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-compliance-with-systems-manager?u=76281980&t=119)** For now, I will simply terminate this session by clicking the Terminate button.
 >
@@ -9701,7 +9581,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-compliance-with-systems-manager?u=76281980&t=180)** Clicking the name of the document opens a new browser tab where I can explore what this thing actually does.
 >
-> **[3:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-compliance-with-systems-manager?u=76281980&t=189)** From the description, we can see that this is associated with updating the CloudWatch agent on an EC2 instance and that it supports both Windows and Linux.
+> **[3:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-compliance-with-systems-manager?u=76281980&t=189)** From the description, we can see that this is associated with updating the CloudWatch agent on an EC2 instance and that it supports both [[Windows]] and [[Linux]].
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/resolving-compliance-with-systems-manager?u=76281980&t=202)** Clicking the content link would let us explore the definition of the document itself.
 >
@@ -9735,7 +9615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), management (3), [[Amazon EC2|Ec2]] (2), [[Search]] (2), web (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Windows]] (1), [[Linux]] (1)
 > **UI Navigation:** scroll down (4)
 > **CLI Commands:** node (3)
 > **Env Vars:** ec2 (2), ssm (1)
@@ -9744,8 +9624,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - now (1)
 
-#### Creating Resource Groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-resource-groups?u=76281980)
+#### [Creating Resource Groups](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-resource-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9781,7 +9660,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-resource-groups?u=76281980&t=100)** Clicking the preview group resources button shows me all of the resources in this region that have the associated tag.
 >
-> **[1:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-resource-groups?u=76281980&t=111)** In this case, they correspond to the three web servers behind a load balancer.
+> **[1:51](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-resource-groups?u=76281980&t=111)** In this case, they correspond to the three [[Web Servers]] behind a load balancer.
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-resource-groups?u=76281980&t=118)** Scrolling down to group details, I'll supply a name.
 >
@@ -9797,13 +9676,13 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-resource-groups?u=76281980&t=162)** And then from node actions, I can simply choose, connect, start terminal session.
 >
-> **[2:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-resource-groups?u=76281980&t=169)** Since this is a Linux machine, I can type uptime into the terminal and see how long it's been since this machine was last rebooted.
+> **[2:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-resource-groups?u=76281980&t=169)** Since this is a [[Linux]] machine, I can type uptime into the terminal and see how long it's been since this machine was last rebooted.
 >
 > **[2:59](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-resource-groups?u=76281980&t=179)** Since it's more than a day, I know that from a patching standpoint, the patches that were applied during this session didn't require a reboot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), node (2), web application (1), application (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Web Servers]] (2), [[Linux]] (1)
 > **CLI Commands:** node (2), aws (1)
 > **Tools:** terminal (2)
 > **Warnings:** note that (2)
@@ -9811,14 +9690,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Patching with Systems Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/patching-with-systems-manager?u=76281980)
+#### [Patching with Systems Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/patching-with-systems-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/patching-with-systems-manager?u=76281980&t=0)** - [Instructor] Now that we have Systems Manager running and have created a resource group, let's explore what it's like to patch using Patch Manager.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/patching-with-systems-manager?u=76281980&t=10)** In this case, an administrator in Ohio wants to update the baseline operating system for the web servers behind the load balancer that are members of a resource group.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/patching-with-systems-manager?u=76281980&t=10)** In this case, an administrator in Ohio wants to update the baseline operating system for the [[Web Servers]] behind the load balancer that are members of a resource group.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/patching-with-systems-manager?u=76281980&t=22)** Using Systems Manager, the administrator will invoke Patch Manager to apply patches to all of the instances within the resource group.
 >
@@ -9872,7 +9750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), node (1), management (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **Warnings:** note that (4)
 > **Prerequisites:** install (2), configure (1)
 > **UI Navigation:** scroll down (1), dropdown (1)
@@ -9881,8 +9759,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Incident Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-incident-manager?u=76281980)
+#### [Understanding Incident Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-incident-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9924,14 +9801,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Automation]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using Parameter Store
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-parameter-store?u=76281980)
+#### [Using Parameter Store](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-parameter-store?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9961,7 +9836,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-parameter-store?u=76281980&t=86)** Let's take a quick peek at the Data Type drop-down menu.
 >
-> **[1:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-parameter-store?u=76281980&t=91)** While I'm storing a text value, it's possible to specify an EC2 image.
+> **[1:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-parameter-store?u=76281980&t=91)** While I'm storing a text value, it's possible to specify an [[Amazon EC2|EC2]] image.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-parameter-store?u=76281980&t=97)** You can imagine how useful this could be when managing a fleet of EC2 instances at scale.
 >
@@ -10007,7 +9882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), aws (3), [[Amazon EC2|Ec2]] (2), [[Search]] (1), application (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** aws (3), kms (3), ec2 (2)
 > **CLI Commands:** aws (3)
 > **Analogies:** imagine (1), similar to (1), for example (1)
@@ -10016,8 +9891,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Understand Certificate Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-certificate-manager?u=76281980)
+#### [Understand Certificate Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-certificate-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10041,9 +9915,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-certificate-manager?u=76281980&t=69)** Emails are sent to the domain registrant, technical contact and administrative contact registered in who is.
 >
-> **[1:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-certificate-manager?u=76281980&t=79)** If you want to encrypt private traffic, such as communication with IoT devices or API Endpoints, you can use Certificate Manager to manage private certificates.
+> **[1:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-certificate-manager?u=76281980&t=79)** If you want to encrypt private traffic, such as communication with [[IoT]] devices or API Endpoints, you can use Certificate Manager to manage private certificates.
 >
-> **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-certificate-manager?u=76281980&t=92)** It's also possible to export private certificates for direct placement on an EC2 instance or a server you manage on-premises.
+> **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-certificate-manager?u=76281980&t=92)** It's also possible to export private certificates for direct placement on an [[Amazon EC2|EC2]] instance or a server you manage on-premises.
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-certificate-manager?u=76281980&t=102)** Unsurprisingly, Certificate Manager integrates with many AWS services, including CloudFront, application and network load balancers and API gateway.
 >
@@ -10075,15 +9949,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), dns (3), [[Security]] (2), api (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[IoT]] (1)
 > **Env Vars:** aws (3), dns (3), api (2), ec2 (2), ssl (1)
 > **CLI Commands:** aws (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a private certificate authority
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate-authority?u=76281980)
+#### [Creating a private certificate authority](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate-authority?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10121,7 +9994,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate-authority?u=76281980&t=129)** In the Key algorithm options section, I get to specify the algorithm used to create the certificate.
 >
-> **[2:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate-authority?u=76281980&t=138)** You can see that AWS supports multiple algorithms of increasing cryptographic complexity.
+> **[2:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate-authority?u=76281980&t=138)** You can see that AWS supports multiple [[Algorithms]] of increasing cryptographic complexity.
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate-authority?u=76281980&t=145)** For this demo, RSA 2048 is just fine.
 >
@@ -10167,7 +10040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), management (2), web (1), [[Search]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** aws (2), rsa (1), sha256 (1)
 > **Warnings:** note that (3)
 > **Prerequisites:** install (3)
@@ -10175,8 +10048,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), checkbox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a private certificate
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate?u=76281980)
+#### [Creating a private certificate](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10200,7 +10072,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate?u=76281980&t=75)** In this case, I'm just going to use the fictitious corporation I've been using throughout this course.
 >
-> **[1:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate?u=76281980&t=82)** In the key algorithm section, I get to select from the algorithms supported by AWS.
+> **[1:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate?u=76281980&t=82)** In the key algorithm section, I get to select from the [[Algorithms]] supported by AWS.
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-a-private-certificate?u=76281980&t=88)** For this demo, I'll proceed with RSA 2048.
 >
@@ -10224,14 +10096,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** aws (2), rsa (1), acm (1)
 > **CLI Commands:** aws (2)
 > **UI Navigation:** select the (1), scroll down (1)
 > **Speakers:** - [presenter] (1)
 
-#### Using a private certificate
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980)
+#### [Using a private certificate](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10241,7 +10112,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=15)** What I want to do now is install it on an application load balancer.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=21)** To do so, I need to open up the EC2 section of the web console.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=21)** To do so, I need to open up the [[Amazon EC2|EC2]] section of the web console.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=26)** Since I've been there recently, I click the Services button, then open EC2 in a new browser tab.
 >
@@ -10271,7 +10142,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=118)** In the actions section, I'm going to select forward to target groups since I'll be using the load balancer to offload TLS decryption activity.
 >
-> **[2:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=128)** In the target group area, I open up the dropdown and select my existing target group that corresponds to my web servers.
+> **[2:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=128)** In the target group area, I open up the dropdown and select my existing target group that corresponds to my [[Web Servers]].
 >
 > **[2:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=139)** Finally, in the secure listener settings section, I can specify the certificate that I want to use.
 >
@@ -10341,11 +10212,11 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=383)** Since I've saved the certificate, chain, and private key to my laptop, I could install that certificate on anything I choose.
 >
-> **[6:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=392)** This could be an IOT device, a local server, an EC2 instance, or anything else I want to use that private certificate to verify.
+> **[6:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-a-private-certificate?u=76281980&t=392)** This could be an [[IoT]] device, a local server, an EC2 instance, or anything else I want to use that private certificate to verify.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), web (4), application (3), dns (2), traffic (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Web Servers]] (1), [[IoT]] (1)
 > **Env Vars:** https (6), ec2 (4), dns (2), http (2), acm (2)
 > **UI Navigation:** scroll down (3), dropdown (2), navigate to (1), open the (1)
 > **Prerequisites:** install (4), set up (1)
@@ -10354,16 +10225,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** download the (1)
 
-#### Understanding Payment Cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980)
+#### [Understanding Payment Cryptography](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=0)** - [Narrator] If your organization natively processes payment card transactions, you are likely familiar with the payment card industry data security standard, or PCI DSS.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=0)** - [Narrator] If your organization natively processes payment card transactions, you are likely familiar with the payment card industry [[Data Security]] standard, or PCI DSS.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=14)** Designed to protect card holder data, building and operating an encrypted PCI DSS-compliant environment requires a significant amount of effort.
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=26)** Payment cryptography is an AWS service that reduces the operational burden of having a PCI DSS-compliant environment.
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=26)** Payment [[Cryptography]] is an AWS service that reduces the operational burden of having a PCI DSS-compliant environment.
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=38)** Four primary data elements related to cardholder data are in scope for PCI DSS compliance.
 >
@@ -10389,9 +10259,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=113)** The payment processor forwards the details to the acquiring bank, which uses the card network to contact the issuing bank for authorization.
 >
-> **[2:05](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=125)** PCI DSS requirements require point-to-point encryption of the cardholder data, meaning that it must be encrypted both in transit and at rest.
+> **[2:05](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=125)** PCI DSS requirements require point-to-point encryption of the cardholder data, meaning that it must be encrypted both in transit and at [[Representational State Transfer (REST)|rest]].
 >
-> **[2:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=139)** If your organization directly takes part in processing card payments, it's probable that you have on-premises equipment with a payment hardware security module to handle cryptographic operations.
+> **[2:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=139)** If your organization directly takes part in processing card payments, it's probable that you have on-premises equipment with a payment [[Hardware]] security module to handle cryptographic operations.
 >
 > **[2:35](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-payment-cryptography?u=76281980&t=155)** When you own your own equipment, you have all of the associated classic responsibilities like worrying about scaling and hardware maintenance.
 >
@@ -10421,14 +10291,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Cryptography]] (11), [[Security]] (4), aws (4), [[Hardware]] (4)
+> **Frameworks & Libraries:** [[Cryptography]] (11), [[Hardware]] (4), [[Data Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pci (8), dss (8), aws (4), cvv (1), fips (1)
 > **CLI Commands:** aws (4)
 > **Definitions:** is an  (1), known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: KMS
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-kms?u=76281980)
+#### [Challenge: KMS](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-kms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10462,7 +10331,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** kms (5), iam (3)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -10470,8 +10338,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: KMS
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-kms?u=76281980)
+#### [Solution: KMS](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-kms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10559,7 +10426,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-kms?u=76281980&t=254)** To finish off, I click Add ARNs.
 >
-> **[4:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-kms?u=76281980&t=258)** If we wanted to take a peek at what this looked like in JSON, I could simply click the JSON button.
+> **[4:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-kms?u=76281980&t=258)** If we wanted to take a peek at what this looked like in [[JSON]], I could simply click the JSON button.
 >
 > **[4:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-kms?u=76281980&t=266)** In this case, we see that we're allowing the ability to decrypt and encrypt these two ARNs for these two encryption keys.
 >
@@ -10581,7 +10448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[JSON]] (3), [[Search]] (2), management (1), prompt (1)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **Env Vars:** kms (5), iam (4), arn (3), json (3)
 > **UI Navigation:** navigate to (1), select the (1), checkbox (1), open the (1), scroll down (1)
 > **CLI Commands:** make (1), find (1)
@@ -10594,8 +10461,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring S3 management options
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980)
+#### [Exploring S3 management options](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10607,7 +10473,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=24)** You can interact with S3 directly via the web console or a variety of available third-party tools.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=33)** Machines interact with S3 programmatically using the CLI or using one of the many software development kits provided by AWS.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=33)** Machines interact with S3 programmatically using the [[CLI]] or using one of the many [[Software Development]] kits provided by AWS.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=45)** These SDKs are available for many popular programming languages.
 >
@@ -10627,7 +10493,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=87)** It's helpful to think of objects as files.
 >
-> **[1:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=91)** Objects can be binary files of different types such as pictures or word processing documents.
+> **[1:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=91)** Objects can be binary files of different types such as pictures or [[Microsoft Word|word]] processing documents.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=97)** They can also be simple text files.
 >
@@ -10651,7 +10517,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=164)** In the context of S3, IAM policies are useful since they can be applied to IAM users, groups, and roles.
 >
-> **[2:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=173)** Of course, roles can be assigned directly to various compute resources like EC2 instances.
+> **[2:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=173)** Of course, roles can be assigned directly to various compute resources like [[Amazon EC2|EC2]] instances.
 >
 > **[3:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=182)** S3 bucket policies are security controls placed at the individual bucket level.
 >
@@ -10669,7 +10535,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=238)** Within a single AWS account, it's a good idea to create separate buckets for publicly accessible data, like web content, and privately accessible data, like internal financial documents.
 >
-> **[4:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=252)** That way, if you have users coming from the internet, you can be confident that they'll have access to the data intended to be shared with the world, with your private assets in another bucket, you can rest assured that it is protected from the public eye.
+> **[4:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=252)** That way, if you have users coming from the internet, you can be confident that they'll have access to the data intended to be shared with the world, with your private assets in another bucket, you can [[Representational State Transfer (REST)|rest]] assured that it is protected from the public eye.
 >
 > **[4:30](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980&t=270)** Depending on how sophisticated your organizational requirements are, you may wish to create separate AWS accounts for public and private data.
 >
@@ -10679,15 +10545,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), data (4), [[Security]] (3), web (2), management (2)
+> **Frameworks & Libraries:** [[CLI]] (1), [[Software Development]] (1), [[Microsoft Word|Word]] (1), [[Amazon EC2|Ec2]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** aws (10), vpc (4), iam (3), cli (1), ec2 (1)
 > **CLI Commands:** aws (10), make (2)
 > **Analogies:** such as (1), analogous to (1), imagine (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing S3 privately
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/accessing-s3-privately?u=76281980)
+#### [Accessing S3 privately](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/accessing-s3-privately?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10695,13 +10560,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/accessing-s3-privately?u=76281980&t=8)** Communication between any server you operate locally and S3 is routed via the public internet.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/accessing-s3-privately?u=76281980&t=16)** The same is true for EC2 instances you operate within AWS.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/accessing-s3-privately?u=76281980&t=16)** The same is true for [[Amazon EC2|EC2]] instances you operate within AWS.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/accessing-s3-privately?u=76281980&t=21)** Let's look at how it's possible to access S3 privately.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/accessing-s3-privately?u=76281980&t=27)** Suppose you stored a software installation package in S3 and you want to install that software on a local server.
 >
-> **[0:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/accessing-s3-privately?u=76281980&t=34)** From your on-premises server, you could use the AWS Command Line Interface, or CLI, to issue a GetObject call.
+> **[0:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/accessing-s3-privately?u=76281980&t=34)** From your on-premises server, you could use the AWS Command Line Interface, or [[CLI]], to issue a GetObject call.
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/accessing-s3-privately?u=76281980&t=43)** As parameters to this call, you specify the names of both the S3 bucket and S3 object in your account.
 >
@@ -10741,7 +10606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), traffic (3), [[Amazon EC2|Ec2]] (2), [[CLI]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[CLI]] (1)
 > **Env Vars:** aws (9), vpc (6), https (2), ec2 (2), cli (1)
 > **CLI Commands:** aws (9)
 > **Prerequisites:** install (2), configure (2)
@@ -10749,8 +10614,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring private S3 access
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-private-s3-access?u=76281980)
+#### [Configuring private S3 access](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-private-s3-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10818,7 +10682,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-private-s3-access?u=76281980&t=213)** If I was making use of S3 Express One Zone, I would have the opportunity to create an S3 Express gateway.
 >
-> **[3:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-private-s3-access?u=76281980&t=222)** In this case, I'm just using plain old vanilla S3, so the S3 gateway is what I'm going to create, especially since I want to avoid additional cost.
+> **[3:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-private-s3-access?u=76281980&t=222)** In this case, I'm just using plain old [[Vanilla]] S3, so the S3 gateway is what I'm going to create, especially since I want to avoid additional cost.
 >
 > **[3:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-private-s3-access?u=76281980&t=235)** After specifying the type of endpoint I want to manifest, I then need to select a VPC in which to create it.
 >
@@ -10834,7 +10698,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-private-s3-access?u=76281980&t=286)** Selecting that route table, I go to the Routes section in the bottom half of the screen.
 >
-> **[4:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-private-s3-access?u=76281980&t=293)** Here we can see a single entry, routing all traffic locally.
+> **[4:53](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-private-s3-access?u=76281980&t=293)** Here we can see a single entry, [[Routing]] all traffic locally.
 >
 > **[4:59](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/configuring-private-s3-access?u=76281980&t=299)** Switching back to my Create Endpoint tab, I'm going to scroll down a bit.
 >
@@ -10860,7 +10724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), cloud (3), [[Search]] (3), traffic (2), express (2)
+> **Frameworks & Libraries:** [[Vanilla]] (1), [[Routing]] (1)
 > **Env Vars:** vpc (10), aws (5)
 > **UI Navigation:** navigate to (2), click on (2), go to (1), scroll down (1)
 > **CLI Commands:** aws (5)
@@ -10869,8 +10733,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing S3 with IAM
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/managing-s3-with-iam?u=76281980)
+#### [Managing S3 with IAM](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/managing-s3-with-iam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10896,7 +10759,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/managing-s3-with-iam?u=76281980&t=70)** This is a powerful concept.
 >
-> **[1:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/managing-s3-with-iam?u=76281980&t=72)** By assigning a policy to a role, that means an EC2 instance can be assigned that role and thus the permissions associated with it.
+> **[1:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/managing-s3-with-iam?u=76281980&t=72)** By assigning a policy to a role, that means an [[Amazon EC2|EC2]] instance can be assigned that role and thus the permissions associated with it.
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/managing-s3-with-iam?u=76281980&t=83)** Similarly, Lambda functions are assigned roles.
 >
@@ -10926,11 +10789,11 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/managing-s3-with-iam?u=76281980&t=162)** Neither Julia nor the client file generating EC2 instances should be allowed to access this bucket.
 >
-> **[2:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/managing-s3-with-iam?u=76281980&t=170)** In the next video, we'll get into the web console and use the CLI to explore how to satisfy all of these use cases with two IAM policies.
+> **[2:50](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/managing-s3-with-iam?u=76281980&t=170)** In the next video, we'll get into the web console and use the [[CLI]] to explore how to satisfy all of these use cases with two IAM policies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), aws (2), leadership (2), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[CLI]] (1)
 > **Env Vars:** iam (8), ec2 (4), ceo (3), aws (2), cli (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** aws (2)
@@ -10939,8 +10802,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restricting S3 access with IAM
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/restricting-s3-access-with-iam?u=76281980)
+#### [Restricting S3 access with IAM](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/restricting-s3-access-with-iam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11002,7 +10864,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/restricting-s3-access-with-iam?u=76281980&t=194)** To get started, I click the create policy button.
 >
-> **[3:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/restricting-s3-access-with-iam?u=76281980&t=198)** Note that I do have the option of writing the policy in native JSON.
+> **[3:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/restricting-s3-access-with-iam?u=76281980&t=198)** Note that I do have the option of writing the policy in native [[JSON]].
 >
 > **[3:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/restricting-s3-access-with-iam?u=76281980&t=204)** However, I would like to use the visual editor to help me write the policy as I don't have all of the JSON for this policy memorized.
 >
@@ -11144,7 +11006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), management (4), [[Search]] (3), next (3), web (2)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **UI Navigation:** click on (5), dropdown (3), scroll down (3), checkbox (3), open the (1)
 > **Env Vars:** arn (4), iam (2), json (2), mfa (2), vpn (1)
 > **Warnings:** note that (3)
@@ -11153,8 +11015,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validating custom IAM S3 policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-custom-iam-s3-policy?u=76281980)
+#### [Validating custom IAM S3 policy](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/validating-custom-iam-s3-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11232,7 +11093,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), data (2), business (1), aws (1)
 > **UI Navigation:** navigate to (3), click on (2), scroll down (1)
 > **Env Vars:** iam (2), url (2), aws (1)
 > **CLI Commands:** aws (1)
@@ -11240,14 +11100,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging S3 IAM policies in EC2
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/leveraging-s3-iam-policies-in-ec2?u=76281980)
+#### [Leveraging S3 IAM policies in EC2](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/leveraging-s3-iam-policies-in-ec2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/leveraging-s3-iam-policies-in-ec2?u=76281980&t=0)** - [Instructor] Let's take that custom IAM policy one step further.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/leveraging-s3-iam-policies-in-ec2?u=76281980&t=6)** In addition to assigning that policy to the business analysts group, I've also assigned it to a role which I've associated with an EC2 instance.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/leveraging-s3-iam-policies-in-ec2?u=76281980&t=6)** In addition to assigning that policy to the business analysts group, I've also assigned it to a role which I've associated with an [[Amazon EC2|EC2]] instance.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/leveraging-s3-iam-policies-in-ec2?u=76281980&t=18)** To test it out, let's navigate to the EC2 dashboard.
 >
@@ -11283,7 +11142,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/leveraging-s3-iam-policies-in-ec2?u=76281980&t=123)** I can see a couple of feedback PDFs.
 >
-> **[2:07](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/leveraging-s3-iam-policies-in-ec2?u=76281980&t=127)** To validate the git permissions, I'm going to go ahead and copy one of those files to this instance.
+> **[2:07](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/leveraging-s3-iam-policies-in-ec2?u=76281980&t=127)** To validate the [[Git]] permissions, I'm going to go ahead and copy one of those files to this instance.
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/leveraging-s3-iam-policies-in-ec2?u=76281980&t=138)** Excellent.
 >
@@ -11343,14 +11202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), business (3), aws (2), [[Git]] (1), management (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Git]] (1)
 > **Env Vars:** iam (9), ec2 (6), aws (2), iem (1)
 > **CLI Commands:** aws (2), git (1), cat (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an S3 bucket policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-an-s3-bucket-policy?u=76281980)
+#### [Creating an S3 bucket policy](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-an-s3-bucket-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11416,7 +11274,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-an-s3-bucket-policy?u=76281980&t=211)** This brings up the policy shell.
 >
-> **[3:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-an-s3-bucket-policy?u=76281980&t=214)** I'm going to use the Policy Generator to generate the statements for me, as I don't have the JSON memorized.
+> **[3:34](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-an-s3-bucket-policy?u=76281980&t=214)** I'm going to use the Policy Generator to generate the statements for me, as I don't have the [[JSON]] memorized.
 >
 > **[3:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-an-s3-bucket-policy?u=76281980&t=222)** Clicking on the Policy Generator link opens the Policy Generator in a new tab.
 >
@@ -11438,7 +11296,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-an-s3-bucket-policy?u=76281980&t=282)** I'm going to go ahead and copy his ARN.
 >
-> **[4:47](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-an-s3-bucket-policy?u=76281980&t=287)** Note that from an IAM perspective, he has full access to both EC2 and S3.
+> **[4:47](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-an-s3-bucket-policy?u=76281980&t=287)** Note that from an IAM perspective, he has full access to both [[Amazon EC2|EC2]] and S3.
 >
 > **[4:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/creating-an-s3-bucket-policy?u=76281980&t=295)** It's important to note that the scope is limited to the bounds of the R&D account.
 >
@@ -11492,7 +11350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Security]] (3), [[JSON]] (2), feature (1), management (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** arn (10), aws (5), iam (4), json (2), ec2 (1)
 > **CLI Commands:** aws (5), nginx (1), find (1)
 > **UI Navigation:** go to (1), scroll down (1), select the (1)
@@ -11501,8 +11359,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Illustrating S3 bucket policies with CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/illustrating-s3-bucket-policies-with-cli?u=76281980)
+#### [Illustrating S3 bucket policies with CLI](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/illustrating-s3-bucket-policies-with-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11585,8 +11442,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding S3 access control lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-control-lists?u=76281980)
+#### [Understanding S3 access control lists](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-control-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11686,7 +11542,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), web (2)
 > **Env Vars:** acl (4), aws (3), url (3), iam (1)
 > **CLI Commands:** aws (3), make (3)
 > **UI Navigation:** click on (2), checkbox (2), scroll up (1), open the (1)
@@ -11694,9 +11549,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
+> **Speakers:** - [instructor] (1)
 
-#### Understanding public access in S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-public-access-in-s3?u=76281980)
+#### [Understanding public access in S3](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-public-access-in-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11831,8 +11686,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### S3 public access best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-public-access-best-practices?u=76281980)
+#### [S3 public access best practices](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-public-access-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11910,7 +11764,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2)
 > **UI Navigation:** click on (3), scroll down (1), select the (1), open the (1)
 > **Env Vars:** aws (2), acl (2), url (1)
 > **CLI Commands:** aws (2), make (1)
@@ -11918,8 +11771,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring pre-signed URLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-pre-signed-urls?u=76281980)
+#### [Exploring pre-signed URLs](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-pre-signed-urls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11959,7 +11811,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-pre-signed-urls?u=76281980&t=132)** AWS supports the generation of presigned URLs in a variety of development languages.
 >
-> **[2:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-pre-signed-urls?u=76281980&t=139)** Conveniently, AWS makes a plugin for Microsoft Visual Studio that makes it possible to generate a presigned URL without having to explicitly write a lot of software.
+> **[2:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-pre-signed-urls?u=76281980&t=139)** Conveniently, AWS makes a plugin for [[Microsoft]] Visual Studio that makes it possible to generate a presigned URL without having to explicitly write a lot of software.
 >
 > **[2:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-pre-signed-urls?u=76281980&t=151)** Let's go into Visual Studio to see how this is done.
 >
@@ -12097,7 +11949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), next (3), [[Security]] (2), [[Microsoft]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** url (21), aws (13), iam (2), sso (1)
 > **CLI Commands:** aws (13)
 > **Tools:** visual studio (10)
@@ -12106,8 +11958,7 @@ created: 2026-05-02
 > **Warnings:** note that (3)
 > **Prerequisites:** install (1), getting started (1)
 
-#### Understanding S3 Access Grants
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-grants?u=76281980)
+#### [Understanding S3 Access Grants](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-grants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12141,7 +11992,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-grants?u=76281980&t=119)** For example, you can create a grant that allows employees in your corporate directory who validate expenses, read-only access to a location that contains expense receipt images.
 >
-> **[2:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-grants?u=76281980&t=137)** You can write a separate grant to enable the IAM principles of your system administrators read/write access to a location containing system configuration files.
+> **[2:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-grants?u=76281980&t=137)** You can write a separate grant to enable the IAM principles of your system administrators read/write access to a location containing [[System Configuration]] files.
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-grants?u=76281980&t=150)** Note that you can't view data using access grants in the web console.
 >
@@ -12175,7 +12026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (2), application (2), [[System Configuration]] (1), web (1)
+> **Frameworks & Libraries:** [[System Configuration]] (1)
 > **Env Vars:** iam (4), aws (1)
 > **CLI Commands:** find (1), aws (1)
 > **Analogies:** for example (2)
@@ -12184,8 +12035,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Warnings:** note that (1)
 
-#### Understanding S3 Access Points
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-points?u=76281980)
+#### [Understanding S3 Access Points](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12263,11 +12113,11 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-points?u=76281980&t=303)** Access grants don't inherently include network controls, while access points can be publicly available or locked to a VPC.
 >
-> **[5:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-points?u=76281980&t=314)** Access grants are ideal for building applications that fine tune access to individuals and groups, while access points excel in distributing permissions to individual endpoints for shared datasets.
+> **[5:14](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-s3-access-points?u=76281980&t=314)** Access grants are ideal for building applications that fine tune access to individuals and groups, while access points [[Microsoft Excel|excel]] in distributing permissions to individual endpoints for shared datasets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), traffic (2), application (2), [[Security]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** vpc (7)
 > **Prerequisites:** setup (2), configure (1)
 > **Definitions:** is a  (2)
@@ -12275,8 +12125,7 @@ created: 2026-05-02
 > **Warnings:** note that (1), keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring S3 Access Points
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-access-points?u=76281980)
+#### [Exploring S3 Access Points](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-access-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12428,7 +12277,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), aws (2), management (1), web (1), cloud (1)
 > **UI Navigation:** click on (6), go to (3), scroll down (1), switch to (1), open the (1)
 > **Env Vars:** aws (2), arn (2), vpc (2), iam (1)
 > **CLI Commands:** aws (2)
@@ -12436,9 +12284,9 @@ created: 2026-05-02
 > **Analogies:** similar to (1), for example (1)
 > **Warnings:** note that (2)
 > **Prerequisites:** set up (2)
+> **Speakers:** - [instructor] (1)
 
-#### Understanding data protection schemes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-data-protection-schemes?u=76281980)
+#### [Understanding data protection schemes](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-data-protection-schemes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12546,7 +12394,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (2), [[Security]] (1), feature (1), api (1)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (2)
@@ -12555,8 +12402,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### S3 security and compliance best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980)
+#### [S3 security and compliance best practices](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12576,7 +12422,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=46)** Use bucket policies to define bucket level permissions and IAM policies for users and roles.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=55)** S3 encrypts data at rest by default.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=55)** S3 encrypts data at [[Representational State Transfer (REST)|rest]] by default.
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=58)** You can use S3 managed keys, custom KMS keys, or customer-provided keys for encrypting your data.
 >
@@ -12618,7 +12464,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=224)** If you operate at massive scale, use access grants, access points, and multi-region access points to make managing access easier.
 >
-> **[3:56](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=236)** Use object Lambda functions and object Lambda access points to enforce data governance rules and perform data transformations like scrubbing or redacting sensitive data.
+> **[3:56](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=236)** Use object Lambda functions and object Lambda access points to enforce [[Data Governance]] rules and perform data transformations like scrubbing or redacting sensitive data.
 >
 > **[4:10](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=250)** Consider enabling Amazon Macie to discover, classify, and protect sensitive data stored in S3.
 >
@@ -12626,19 +12472,18 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=267)** You don't want a nasty surprise.
 >
-> **[4:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=271)** Set up CloudWatch alarms to monitor S3 metrics such as bucket size, number of objects, and request rates, and get real-time insights to potential security incidents.
+> **[4:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/s3-security-and-compliance-best-practices?u=76281980&t=271)** Set up CloudWatch alarms to monitor S3 metrics such as bucket size, number of objects, and request rates, and get [[Real-Time]] insights to potential security incidents.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Security]] (6), aws (3), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Data Governance]] (1), [[Real-Time]] (1)
 > **Env Vars:** aws (3), iam (2), kms (1), api (1), vpc (1)
 > **CLI Commands:** aws (3), make (1)
 > **Prerequisites:** set up (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: S3 replication challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-s3-replication-challenge?u=76281980)
+#### [Challenge: S3 replication challenge](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-s3-replication-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12678,8 +12523,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: S3 replication challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-s3-replication-challenge?u=76281980)
+#### [Solution: S3 replication challenge](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-s3-replication-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12871,7 +12715,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (2), next (1)
 > **Env Vars:** kms (15), arn (6), iam (2), url (1)
 > **UI Navigation:** navigate to (1), toggle (1), scroll down (1), switch to (1)
 > **Warnings:** note that (2)
@@ -12879,9 +12722,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
 
-#### Challenge: S3 lifecycle challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-s3-lifecycle-challenge?u=76281980)
+#### [Challenge: S3 lifecycle challenge](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/challenge-s3-lifecycle-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12902,8 +12745,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: S3 lifecycle challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-s3-lifecycle-challenge?u=76281980)
+#### [Solution: S3 lifecycle challenge](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/solution-s3-lifecycle-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12989,7 +12831,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (1)
 > **UI Navigation:** navigate to (1), checkbox (1), select the (1)
 > **Analogies:** just like (1), for example (1)
 > **Prerequisites:** setup (1), configure (1)
@@ -13003,8 +12844,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding AWS Security Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980)
+#### [Understanding AWS Security Hub](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13040,7 +12880,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980&t=122)** Some standards, like the Center for Internet Security AWS Foundations Benchmark, are available to any organization with an AWS account.
 >
-> **[2:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980&t=133)** Others, like the Payment Card Industry Data Security Standard, only make sense if you process electronic payments.
+> **[2:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980&t=133)** Others, like the Payment Card Industry [[Data Security]] Standard, only make sense if you process electronic payments.
 >
 > **[2:22](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980&t=142)** Security Hub has two primary constructs for reporting information.
 >
@@ -13060,15 +12900,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (21), aws (10), management (2), [[Orchestration]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1)
 > **CLI Commands:** aws (10), make (3)
 > **Env Vars:** aws (10), iam (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** you'll need (3), set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using AWS Security Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-aws-security-hub?u=76281980)
+#### [Using AWS Security Hub](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-aws-security-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13112,7 +12951,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-aws-security-hub?u=76281980&t=146)** So for example, we know that we have enabled a software MFA device for the root user of this account.
 >
-> **[2:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-aws-security-hub?u=76281980&t=156)** However, the Center for Internet Security indicates that a hardware MFA device is preferable.
+> **[2:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-aws-security-hub?u=76281980&t=156)** However, the Center for Internet Security indicates that a [[Hardware]] MFA device is preferable.
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-aws-security-hub?u=76281980&t=165)** Clicking on the Insights link in the left hand navigation, we can see a number of insights that we can explore.
 >
@@ -13136,7 +12975,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-aws-security-hub?u=76281980&t=249)** Clicking into the security group ID, we can see the associated inbound rules.
 >
-> **[4:16](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-aws-security-hub?u=76281980&t=256)** In this case, a security group with a description of Launch Wizard 1 indicates someone was probably rushing through an EC2 create process and didn't think carefully about which security groups to assign to an instance.
+> **[4:16](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-aws-security-hub?u=76281980&t=256)** In this case, a security group with a description of Launch Wizard 1 indicates someone was probably rushing through an [[Amazon EC2|EC2]] create process and didn't think carefully about which security groups to assign to an instance.
 >
 > **[4:35](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/using-aws-security-hub?u=76281980&t=275)** Even worse, looking at the Inbound Rules section, we can see that all IPv4 traffic is allowed into this instance.
 >
@@ -13156,7 +12995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (27), aws (5), web (1), [[Search]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (5), cis (3), mfa (2), arn (2), ec2 (1)
 > **CLI Commands:** aws (5)
 > **UI Navigation:** navigate to (1), go to (1), switch to (1), click on (1)
@@ -13165,8 +13004,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rotating access keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/rotating-access-keys?u=76281980)
+#### [Rotating access keys](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/rotating-access-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13228,7 +13066,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/rotating-access-keys?u=76281980&t=211)** to ensure that it works.
 >
-> **[3:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/rotating-access-keys?u=76281980&t=213)** I'm just going to use the AWS CLI to list the contents of an S3 bucket using my profile.
+> **[3:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/rotating-access-keys?u=76281980&t=213)** I'm just going to use the AWS [[CLI]] to list the contents of an S3 bucket using my profile.
 >
 > **[3:42](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/rotating-access-keys?u=76281980&t=222)** Wonderful, as expected, it works exactly as I intended.
 >
@@ -13312,7 +13150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), aws (3), [[Security]] (1), functional (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** iam (3), csv (3), aws (3), cli (1)
 > **CLI Commands:** aws (3), make (1)
 > **Warnings:** note that (3), warning (1)
@@ -13321,8 +13159,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 
-#### Understand AWS Artifact
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-artifact?u=76281980)
+#### [Understand AWS Artifact](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-artifact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13332,7 +13169,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-artifact?u=76281980&t=17)** Recall that in terms of responsibility, AWS is accountable for securing the cloud itself.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-artifact?u=76281980&t=25)** That includes all of the infrastructure that comprises Amazon Web Services.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-artifact?u=76281980&t=25)** That includes all of the infrastructure that comprises [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-aws-artifact?u=76281980&t=32)** Meanwhile, you have the responsibility for securing how you use the tools AWS makes available.
 >
@@ -13430,7 +13267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (16), data (5), business (5), [[Search]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** aws (16), nda (4), iam (1), soc (1)
 > **CLI Commands:** aws (16), make (1)
 > **UI Navigation:** checkbox (1), select the (1)
@@ -13439,8 +13276,7 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Definitions:** is a  (1)
 
-#### Understanding Trusted Advisor
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980)
+#### [Understanding Trusted Advisor](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13454,7 +13290,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=31)** Without a paid support plan, the checks are less complete.
 >
-> **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=36)** Currently, Trusted Advisor offers insights into six major categories, cost optimization, performance, security, fault tolerance, service limits, and operational excellence.
+> **[0:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=36)** Currently, Trusted Advisor offers insights into six major categories, cost optimization, performance, security, fault tolerance, service limits, and [[Operational Excellence]].
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=55)** Let's explore the cost optimization portion of Trusted Advisor.
 >
@@ -13476,13 +13312,13 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=127)** Similar to other Trusted Advisor categories, performance is examined across multiple AWS services.
 >
-> **[2:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=137)** Some recommendations, such as high CPU on EC2 instances, can cause you to consider alternate configurations.
+> **[2:17](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=137)** Some recommendations, such as high CPU on [[Amazon EC2|EC2]] instances, can cause you to consider alternate configurations.
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=147)** For example, suppose Trusted Advisor reported consistently high CPU on an EC2 instance.
 >
 > **[2:35](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=155)** If load on the machine were to spike, the CPU could become saturated and your customers would be disserviced.
 >
-> **[2:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=165)** To address this possibility, expending the effort to configure an auto-scaling group to dynamically react to high CPU load might be worth the effort.
+> **[2:45](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=165)** To address this possibility, expending the effort to configure an auto-scaling group to dynamically [[React.js|react]] to high CPU load might be worth the effort.
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=177)** Security is another category available within Trusted Advisor.
 >
@@ -13498,11 +13334,11 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=217)** It also checks to see if you have assets which are publicly accessible, including EBS and RDS snapshots, as well as S3 buckets.
 >
-> **[3:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=229)** An additional check in the free tier has to do with network security.
+> **[3:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=229)** An additional check in the free tier has to do with [[Network Security]].
 >
 > **[3:54](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=234)** Trusted Advisor will give you a report on any network security groups in your account that allow unrestricted access to common administrative ports.
 >
-> **[4:05](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=245)** For example, ports 1433 and 1434 are well known as the ports for administrative access to the Microsoft SQL Server database, and 22 is universally known as the port for SSH.
+> **[4:05](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=245)** For example, ports 1433 and 1434 are well known as the ports for administrative access to the [[Microsoft SQL Server]] database, and 22 is universally known as the port for SSH.
 >
 > **[4:24](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=264)** Trusted Advisor will let you know if your network is configured to allow unrestricted access to these ports.
 >
@@ -13514,7 +13350,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=298)** As with many other Trusted Advisor categories, the free tier includes no fault tolerance checks.
 >
-> **[5:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=308)** However, with a paid plan, the fault tolerance section looks at how AWS resources in your account are configured for resiliency.
+> **[5:08](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=308)** However, with a paid plan, the fault tolerance section looks at how AWS resources in your account are configured for [[Resiliency]].
 >
 > **[5:18](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-trusted-advisor?u=76281980&t=318)** An example of a fault tolerance check is how load balancers are configured in your account.
 >
@@ -13560,7 +13396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), [[Security]] (5), [[Amazon EC2|Ec2]] (4), [[Operational Excellence]] (3), database (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Operational Excellence]] (3), [[Network Security]] (2), [[React.js|React]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** aws (11), cpu (4), ec2 (4), iam (3), rds (3)
 > **CLI Commands:** aws (11), make (2), ssh (1)
 > **Analogies:** for example (8), such as (2), similar to (1)
@@ -13569,8 +13405,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring Trusted Advisor
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-trusted-advisor?u=76281980)
+#### [Exploring Trusted Advisor](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-trusted-advisor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13580,7 +13415,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-trusted-advisor?u=76281980&t=19)** This brings me to the Trusted Advisor Recommendations dashboard.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-trusted-advisor?u=76281980&t=25)** Note that in the left hand navigation, we could go directly to cost optimization, performance, security, fault tolerance, service limits, or operational excellence.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-trusted-advisor?u=76281980&t=25)** Note that in the left hand navigation, we could go directly to cost optimization, performance, security, fault tolerance, service limits, or [[Operational Excellence]].
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-trusted-advisor?u=76281980&t=39)** Since security is always of prime importance, let's take a peek at security first.
 >
@@ -13596,7 +13431,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-trusted-advisor?u=76281980&t=92)** I'm noticing a number of security groups named Launch Wizard.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-trusted-advisor?u=76281980&t=98)** Again, that's an indication to me that someone was rushing through the EC2 instance creation process and just accepting defaults.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-trusted-advisor?u=76281980&t=98)** Again, that's an indication to me that someone was rushing through the [[Amazon EC2|EC2]] instance creation process and just accepting defaults.
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-trusted-advisor?u=76281980&t=109)** Let's take a peek at this Launch Wizard Security Group in AP Northeast 2.
 >
@@ -13690,7 +13525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (18), web (3), [[Search]] (2), [[Amazon EC2|Ec2]] (2), aws (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Operational Excellence]] (1)
 > **Env Vars:** vpc (3), ec2 (2), aws (2), ssh (1)
 > **CLI Commands:** aws (2), make (2), ssh (1)
 > **UI Navigation:** navigate to (1), scroll up (1), click on (1)
@@ -13698,12 +13533,11 @@ created: 2026-05-02
 > **Ports:** port 22 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Audit Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980)
+#### [Understanding Audit Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=0)** - [Instructor] Audits are an inevitable part of business operations.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=0)** - [Instructor] Audits are an inevitable part of [[Business Operations]].
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=5)** AWS Audit Manager helps you position yourself for a successful audit by continuously watching over how you use AWS and how that fits with your compliance obligations.
 >
@@ -13727,7 +13561,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=96)** Audit Manager gathers this data by running resource assessments against your AWS configurations.
 >
-> **[1:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=106)** Resource assessments execute at the AWS service level, such as VPC, S3, EC2, et cetera.
+> **[1:46](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=106)** Resource assessments execute at the AWS service level, such as VPC, S3, [[Amazon EC2|EC2]], et cetera.
 >
 > **[1:55](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=115)** Resource assessments collect evidence that illustrates specifically how your AWS configuration complies with your chosen framework.
 >
@@ -13739,7 +13573,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=148)** Due to a misconfiguration, a security group on an EC2 instance has left an administrative port open to the internet.
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=159)** While this certainly poses a security risk, it also represents a potential compliance issue.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=159)** While this certainly poses a [[Security Risk]], it also represents a potential compliance issue.
 >
 > **[2:47](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-audit-manager?u=76281980&t=167)** With Audit Manager running, you could configure an assessment.
 >
@@ -13757,7 +13591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), data (5), [[Security]] (3), business (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Business Operations]] (1), [[Security Risk]] (1)
 > **Env Vars:** aws (9), ec2 (2), pci (1), dss (1), vpc (1)
 > **CLI Commands:** aws (9)
 > **Definitions:** known as (2), is a  (1)
@@ -13765,8 +13599,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring Audit Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980)
+#### [Exploring Audit Manager](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13794,7 +13627,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=64)** Clicking out to the Audit Manager Dashboard, I can see a variety of issues.
 >
-> **[1:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=71)** Collapsing, the network security domain, it appears that I also have issues in the context of incident management, as well as data protection.
+> **[1:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=71)** Collapsing, the [[Network Security]] domain, it appears that I also have issues in the context of incident management, as well as data protection.
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=85)** Expanding the left-hand navigation, clicking on Assessments, I can see the assessments that I've implemented.
 >
@@ -13840,11 +13673,11 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=251)** Let's examine one of the pieces of evidence that indicates a failed compliance check.
 >
-> **[4:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=259)** Clicking on the first failed piece of evidence, we can see that it's associated with restricting data that's inbound to an EC2 instance.
+> **[4:19](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=259)** Clicking on the first failed piece of evidence, we can see that it's associated with restricting data that's inbound to an [[Amazon EC2|EC2]] instance.
 >
 > **[4:30](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=270)** Specifically under Attribute Name, we can see that the value is associated with verifying access to administrative ports.
 >
-> **[4:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=281)** If we wanted to, we could dig in and see the JSON associated with the severity of this issue.
+> **[4:41](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=281)** If we wanted to, we could dig in and see the [[JSON]] associated with the severity of this issue.
 >
 > **[4:49](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=289)** Internally this is labeled as CRITICAL.
 >
@@ -13854,7 +13687,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=309)** Copying that URL, let's open it in a new browser tab.
 >
-> **[5:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=313)** Here we can see that this finding is related to EC2 controls that span a variety of standards put out by the National Institute of Standards and Technology or NIST.
+> **[5:13](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=313)** Here we can see that this finding is related to EC2 controls that span a variety of standards put out by the National Institute of Standards and Technology or [[NIST]].
 >
 > **[5:28](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-audit-manager?u=76281980&t=328)** Specifically it's associated with commonly-accessed administrative ports being open to the entire world.
 >
@@ -13918,7 +13751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[Amazon EC2|Ec2]] (6), aws (3), data (3), hit (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[JSON]] (2), [[Network Security]] (1), [[NIST]] (1)
 > **Env Vars:** ec2 (6), aws (3), json (2), pci (1), dss (1)
 > **Prerequisites:** set up (4), setup (1)
 > **CLI Commands:** aws (3)
@@ -13927,8 +13760,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Tools:** aws console (1)
 
-#### Prepare for a security audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980)
+#### [Prepare for a security audit](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13966,7 +13798,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=135)** You also need to verify your data protection and encryption approaches.
 >
-> **[2:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=141)** Specifically, your data in transit and at rest should be encrypted, either with native AWS encryption or with custom KMS keys.
+> **[2:21](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=141)** Specifically, your data in transit and at [[Representational State Transfer (REST)|rest]] should be encrypted, either with native AWS encryption or with custom KMS keys.
 >
 > **[2:33](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=153)** Review your S3 bucket policies, access grants, and access points to restrict access and ensure data protection.
 >
@@ -13994,7 +13826,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=265)** Recall that Security Hub greatly simplifies comparing your environment to this benchmark.
 >
-> **[4:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=272)** If you use an external authentication store like Active Directory, you must do all user verifications upstream of AWS.
+> **[4:32](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=272)** If you use an external authentication store like [[Active Directory]], you must do all user verifications upstream of AWS.
 >
 > **[4:43](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/prepare-for-a-security-audit?u=76281980&t=283)** Regardless, if you use tools like GuardDuty and Detective, recall that Cloud Trail provides a wonderful audit trail of activity within your AWS account.
 >
@@ -14002,7 +13834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (14), [[Security]] (8), data (6), cloud (5), management (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Active Directory]] (1)
 > **Env Vars:** aws (14), iam (2), pci (1), dss (1), gdpr (1)
 > **CLI Commands:** aws (14), make (2)
 > **Best Practices:** don't forget (2), make sure to (1)
@@ -14014,12 +13846,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/next-steps?u=76281980&t=0)** - [Instructor] Thank you for watching the complete guide to AWS security and compliance.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/next-steps?u=76281980&t=0)** - [Instructor] Thank you for watching the complete guide to [[AWS Security]] and compliance.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/next-steps?u=76281980&t=6)** It's been a real pleasure accompanying you on this exploration of security and compliance concepts and tools.
 >
@@ -14069,7 +13900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), [[Security]] (7), [[Debugging]] (1), data (1), management (1)
+> **Frameworks & Libraries:** [[AWS Security]] (2)
 > **Env Vars:** aws (10), iam (1)
 > **CLI Commands:** aws (10)
 > **Documentation:** stack overflow (1)

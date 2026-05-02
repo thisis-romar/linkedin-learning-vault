@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Azure Data Lake?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980)
+#### [What is Azure Data Lake?](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,35 +84,34 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=30)** But in order to utilize the power that is held in this data, we need to be able to store it, and this can be expensive.
 >
-> **[0:37](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=37)** Luckily, in recent years, Microsoft, along with other cloud providers, have brought new, more cost-effective storage options to the table.
+> **[0:37](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=37)** Luckily, in recent years, [[Microsoft]], along with other cloud providers, have brought new, more cost-effective storage options to the table.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=45)** Azure Data Lake is one of these.
+> **[0:45](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=45)** [[Microsoft Azure|Azure]] Data Lake is one of these.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=48)** Azure Data Lake provides you with enterprise-level scalability, reliability, and security, while still allowing smaller and fund-limited organizations to access these features.
+> **[0:48](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=48)** Azure Data Lake provides you with enterprise-level [[Scalability]], reliability, and security, while still allowing smaller and fund-limited organizations to access these features.
 >
 > **[0:58](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=58)** I'm Carmel Eve.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=59)** I've been working with Azure for the past five years, and have used Azure Data Lake extensively to support secure and scalable data analysis.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=67)** So if you're ready to learn about Azure Data Lake, tune in to the rest of my course on LinkedIn Learning.
+> **[1:07](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980&t=67)** So if you're ready to learn about Azure Data Lake, tune in to the [[Representational State Transfer (REST)|rest]] of my course on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Azure|Azure]] (5), power (1), [[Microsoft]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (1), [[Scalability]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [carmel] (1)
 
-#### Prior knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980)
+#### [Prior knowledge](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=0)** - [Instructor] There are no firm prerequisites for this course.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=3)** We'll be covering the basics of both Azure Data Lake and Azure Blob Storage.
+> **[0:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=3)** We'll be covering the basics of both [[Microsoft Azure|Azure]] Data Lake and Azure Blob Storage.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=8)** We'll be using a few different tools in this course.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=11)** The first is the Azure CLI, which is a command line tool that is used for management and access to Azure Services.
+> **[0:11](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=11)** The first is the Azure [[CLI]], which is a command line tool that is used for management and access to Azure Services.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=18)** We'll also be using the .NET SDK.
 >
@@ -121,11 +119,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=26)** We'll also be using Azure Synapse.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=28)** Specifically, we'll be using Azure Synapse Notebooks, which rely on Apache Spark.
+> **[0:28](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=28)** Specifically, we'll be using Azure Synapse Notebooks, which rely on [[Apache Spark]].
 >
-> **[0:33](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=33)** Spark is an analytics engine that is used for big data processing.
+> **[0:33](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=33)** Spark is an analytics engine that is used for [[Big Data]] processing.
 >
-> **[0:37](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=37)** We'll also be using SQL Serverless, which is a feature of Azure Synapse, which allows you to query Data Lake using SQL like syntax.
+> **[0:37](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=37)** We'll also be using [[SQL]] Serverless, which is a feature of Azure Synapse, which allows you to query Data Lake using SQL like syntax.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-data-lake-for-developers/prior-knowledge?u=76281980&t=45)** However, I will assume that learners have some knowledge of the Azure space in general.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), data (8), [[SQL]] (2), [[CLI]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[SQL]] (2), [[CLI]] (1), [[Apache Spark]] (1), [[Big Data]] (1)
 > **Env Vars:** sql (2), cli (1), net (1), sdk (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Tools:** command line (1), azure portal (1)
@@ -156,16 +154,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Storage overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980)
+#### [Azure Storage overview](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=0)** - [Instructor] The umbrella of Azure storage combines five Azure services.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=0)** - [Instructor] The umbrella of [[Microsoft Azure|Azure]] storage combines five Azure services.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=4)** The first is Azure Blobs storage.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=7)** This service provides massively scalable storage for unstructured data.
+> **[0:07](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=7)** This service provides massively scalable storage for [[Unstructured Data]].
 >
 > **[0:11](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=11)** Unstructured data is any data that isn't stored in the structured database format.
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=109)** And finally, once the data no longer needs to be accessed at all, it can be archived.
 >
-> **[1:54](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=114)** Using these tiers you are able to further reduce the cost of long-term data storage.
+> **[1:54](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=114)** Using these tiers you are able to further reduce the cost of long-term [[Data Storage]].
 >
 > **[2:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=120)** Blob storage is also massively scalable.
 >
@@ -217,11 +214,11 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=136)** A pebibyte, by the way, is about 1.13 petabytes or two to the 50 bytes.
 >
-> **[2:22](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=142)** Azure storage also integrates with Azure Active Directory, which is Microsoft's authentication and authorization provider.
+> **[2:22](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=142)** Azure storage also integrates with [[Microsoft Entra ID|Azure Active Directory]], which is [[Microsoft]]'s authentication and authorization provider.
 >
 > **[2:29](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=149)** Azure Active Directory, or AAD, allows us to use role-based access control.
 >
-> **[2:35](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=155)** Where users are assigned permissions based on the active directory roles.
+> **[2:35](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=155)** Where users are assigned permissions based on the [[Active Directory]] roles.
 >
 > **[2:39](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=159)** To control data and management, AAD provides you with a large degree of control and confidence in the security of your data.
 >
@@ -257,7 +254,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=254)** Using these options, you have a large degree of control and flexibility around how much do your ability and availability you need for your data.
 >
-> **[4:22](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=262)** Finally, Azure Defender allows you to monitor potential security threats within your storage accounts.
+> **[4:22](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=262)** Finally, Azure [[Microsoft Defender|Defender]] allows you to monitor potential security threats within your storage accounts.
 >
 > **[4:28](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980&t=268)** When configured, it monitors for abnormal data access.
 >
@@ -273,19 +270,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Microsoft Azure|Azure]] (18), [[Security]] (4), [[Unstructured Data]] (2), database (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Unstructured Data]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Data Storage]] (1), [[Microsoft]] (1)
 > **Versions:** 0.15 (1), 0.13 (1), 0.11 (1), 1.13 (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Env Vars:** aad (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### What does ADLS add?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980)
+#### [What does ADLS add?](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=0)** - [Instructor] Now let's talk about the additional functionality that Azure Data Lake unlocks.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=0)** - [Instructor] Now let's talk about the additional functionality that [[Microsoft Azure|Azure]] Data Lake unlocks.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=5)** The first, and in some ways, the feature that underpins all the others is the ability to support a hierarchical namespace.
 >
@@ -297,7 +293,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=35)** It gives us improved query performance via data partitioning.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=39)** It allows us more ease in file and data management.
+> **[0:39](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=39)** It allows us more ease in file and [[Data Management]].
 >
 > **[0:43](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=43)** And finally, it gives us the ability to silo data by security boundaries.
 >
@@ -309,11 +305,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=72)** Finally, Azure Data Lake gives you the ability to access your data using a new driver, the Azure Blob File System Driver.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=80)** This is part of Apache Hadoop.
+> **[1:20](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=80)** This is part of Apache [[Hadoop]].
 >
-> **[1:22](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=82)** This driver is optimized for big data analytics and can be accessed using REST APIs.
+> **[1:22](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=82)** This driver is optimized for [[Big Data Analytics]] and can be accessed using [[Representational State Transfer (REST)|REST]] APIs.
 >
-> **[1:29](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=89)** These additional features allow you to build up Enterprise Scale Data Lakes which can support high throughput queries and analysis.
+> **[1:29](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=89)** These additional features allow you to build up Enterprise Scale [[Data Lakes]] which can support high throughput queries and analysis.
 >
 > **[1:37](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=97)** It also means that you can have an extremely complex security model where we can limit permissions to the very minimum that groups and applications require.
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=112)** Alongside the REST API is the Blob System Driver.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=115)** Data can be accessed using the Azure Blob Storage Software Development Kit, or SDK.
+> **[1:55](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=115)** Data can be accessed using the Azure Blob Storage [[Software Development]] Kit, or SDK.
 >
 > **[2:01](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-does-adls-add?u=76281980&t=121)** This SDK provides support for buffered reading and writing and automatic retry for transient failures.
 >
@@ -345,19 +341,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Azure|Azure]] (11), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Representational State Transfer (REST)|Rest]] (2), [[Data Lakes]] (2), [[Data Management]] (1), [[Hadoop]] (1)
 > **Env Vars:** sdk (5), rest (2), posix (1), api (1), adls (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a data lake using the portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980)
+#### [Creating a data lake using the portal](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=0)** - [Instructor] Now let's run through a quick example of how to create a new Azure data lake using the Azure portal.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=0)** - [Instructor] Now let's run through a quick example of how to create a new [[Microsoft Azure|Azure]] data lake using the Azure portal.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=6)** Here I am on the home screen for the Azure portal.
 >
@@ -369,13 +364,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=21)** Now we can use this search bar to search for a specific resource, or we can drill down into different types of resources.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=29)** However, we can also see that there is a list of popular products and sure enough, Azure storage accounts make the cut.
+> **[0:29](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=29)** However, we can also see that there is a list of popular [[Microsoft Products|products]] and sure enough, Azure storage accounts make the cut.
 >
 > **[0:37](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=37)** You'll remember that Azure data lake is built on top of Azure storage.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=41)** So this is the resource type that we need for creating our new data lake account.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=45)** From here, we can create a new resource, but there are also helpful links to the documentation for the service and relevant Microsoft Learn modules.
+> **[0:45](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=45)** From here, we can create a new resource, but there are also helpful links to the documentation for the service and relevant [[Microsoft]] Learn modules.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=54)** But for now, if I click on the main resource name, we are presented with a load of options.
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=175)** We'll discuss this later.
 >
-> **[2:57](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=177)** We can choose whether to enable further Azure Active Directory authorization for input of requests, and pick the minimum TLS version.
+> **[2:57](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=177)** We can choose whether to enable further [[Microsoft Entra ID|Azure Active Directory]] authorization for input of requests, and pick the minimum TLS version.
 >
 > **[3:06](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-portal?u=76281980&t=186)** However, the setting that we are looking for in this case is this one, enable hierarchical namespace.
 >
@@ -429,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), data (7), [[Search]] (2), hit (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Microsoft Products|Products]] (1), [[Microsoft]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), tls (1)
 > **Tools:** azure portal (2)
@@ -438,24 +433,23 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 
-#### Creating a data lake using the CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980)
+#### [Creating a data lake using the CLI](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=0)** - [Instructor] We have now seen how to set up an Azure Data Lake account using the Azure Portal.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=0)** - [Instructor] We have now seen how to set up an [[Microsoft Azure|Azure]] Data Lake account using the Azure Portal.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=5)** But if you want to produce predictable and repeatable environments by hand, doing things via the portal isn't reliable, and even more than this, there is no way to automate deployments via the portal.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=18)** So in order to integrate with continuous deployment systems, we need another option.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=23)** This is where the Azure CLI comes in.
+> **[0:23](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=23)** This is where the Azure [[CLI]] comes in.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=25)** The Azure CLI is a cross-platform command line interface that allows you to manage Azure resources.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=32)** You have the option to install the CLI on Windows, Mac or Linux.
+> **[0:32](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=32)** You have the option to install the CLI on [[Windows]], Mac or [[Linux]].
 >
-> **[0:37](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=37)** This can be done via the Microsoft website.
+> **[0:37](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=37)** This can be done via the [[Microsoft]] website.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-data-lake-for-developers/creating-a-data-lake-using-the-cli?u=76281980&t=39)** Or you can run it using Azure Cloud Shell, which is an in-browser tool.
 >
@@ -515,7 +509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (6), [[CLI]] (5), [[Microsoft]] (2), cross-platform (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[CLI]] (5), [[Microsoft]] (2), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** az (5), docker (1)
 > **Env Vars:** cli (5), sku (1)
 > **Prerequisites:** set up (2), you'll need (2), install (1)
@@ -529,12 +523,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a hierarchical namespace?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980)
+#### [What is a hierarchical namespace?](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980&t=0)** - [Instructor] As we touched on earlier, one of the main differences between Azure Data Lake and standard blob storage is the ability to use a hierarchical namespace, but you may be thinking what exactly is a hierarchical namespace?
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980&t=0)** - [Instructor] As we touched on earlier, one of the main differences between [[Microsoft Azure|Azure]] Data Lake and standard blob storage is the ability to use a hierarchical namespace, but you may be thinking what exactly is a hierarchical namespace?
 >
 > **[0:14](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980&t=14)** These namespaces allow you to store your files in folders and sub folders, similar to this example.
 >
@@ -558,7 +551,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980&t=96)** This means that though it looks like it should be possible, you are unable to enumerate a specific directory within a blob storage account.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980&t=104)** When you retrieve a list of blobs using the Azure CLI or a software development kit, you cannot search for blobs within a specific folder.
+> **[1:44](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980&t=104)** When you retrieve a list of blobs using the Azure [[CLI]] or a [[Software Development]] kit, you cannot search for blobs within a specific folder.
 >
 > **[1:52](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980&t=112)** You can only search for blobs that have names that start with a specific prefix.
 >
@@ -568,7 +561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Azure|Azure]] (4), [[Search]] (2), [[CLI]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[CLI]] (1), [[Software Development]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** similar to (2), for example (1)
 > **Env Vars:** cli (1)
@@ -576,8 +569,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are the benefits of hierarchical namespaces?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980)
+#### [What are the benefits of hierarchical namespaces?](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,11 +579,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=29)** Directory-managed operations include things such as moving, renaming or deleting directories.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=35)** The crucial operation here when we talk about supporting large scale analytics engines, such as Apache Spark, is renaming.
+> **[0:35](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=35)** The crucial operation here when we talk about supporting large scale analytics engines, such as [[Apache Spark]], is renaming.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=42)** These large scale analytics frameworks are used in a lot of big data processing and are an important use case for Azure Data Lake.
+> **[0:42](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=42)** These large scale analytics frameworks are used in a lot of [[Big Data]] processing and are an important use case for [[Microsoft Azure|Azure]] Data Lake.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=50)** Because Azure Data Lakes supports real directory-like file management, it enables us to atomically rename files.
+> **[0:50](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=50)** Because Azure [[Data Lakes]] supports real directory-like file management, it enables us to atomically rename files.
 >
 > **[0:57](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=57)** In Azure Blob Storage, when you rename a blob, you have to copy the entire contents of that blob to a new location.
 >
@@ -617,7 +609,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=144)** In this way, Azure Data Lake allows us a lot more flexibility in our data organization, and therefore, allows us to support improved query efficiency.
 >
-> **[2:34](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=154)** As well as this, the ability to store and manage our data using a file system-like interface means that our data management is simpler because we can more easily organize our data within our Data Lake.
+> **[2:34](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=154)** As well as this, the ability to store and manage our data using a file system-like interface means that our [[Data Management]] is simpler because we can more easily organize our data within our Data Lake.
 >
 > **[2:47](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-benefits-of-hierarchical-namespaces?u=76281980&t=167)** This is also an interface which almost anyone has used a computer will be familiar with.
 >
@@ -635,19 +627,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Microsoft Azure|Azure]] (9), [[Analytics]] (5), [[Security]] (5), [[Apache Spark]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Apache Spark]] (2), [[Big Data]] (1), [[Data Lakes]] (1), [[Data Management]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** means that (3), is an  (1)
 > **CLI Commands:** apache (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hierarchical namespaces example
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980)
+#### [Hierarchical namespaces example](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=0)** - [Instructor] We are back in the portal, and I am currently viewing one of the Azure Data Lake accounts we created as part of chapter one.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=0)** - [Instructor] We are back in the portal, and I am currently viewing one of the [[Microsoft Azure|Azure]] Data Lake accounts we created as part of chapter one.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=7)** There are four different services which correspond to the different services which Azure Storage defines.
 >
@@ -675,9 +666,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=105)** The files, which contain the order data from the 1st of January, will then be uploaded to this folder.
 >
-> **[1:51](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=111)** This could be individual JSON files per order or it could be partitioned data that is written out in an optimized file format.
+> **[1:51](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=111)** This could be individual [[JSON]] files per order or it could be partitioned data that is written out in an optimized file format.
 >
-> **[1:58](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=118)** It could even be word documents containing the orders, as we've covered Azure Data Lake supports files in any format.
+> **[1:58](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=118)** It could even be [[Microsoft Word|word]] documents containing the orders, as we've covered Azure Data Lake supports files in any format.
 >
 > **[2:07](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=127)** Because we've set up this folder structure, we can now quickly narrow it down to the data that we are querying.
 >
@@ -687,7 +678,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=161)** In normal Blob storage, this would then need to iterate through each individual Blob that started with the prefix 2020, and copy the data to a new location.
 >
-> **[2:50](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=170)** However, in Azure Data Lake this rename is an atomic rename that just updates the metadata associated with each file or folder, therefore, this is an incredibly performing operation.
+> **[2:50](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=170)** However, in Azure Data Lake this rename is an atomic rename that just updates the [[Metadata]] associated with each file or folder, therefore, this is an incredibly performing operation.
 >
 > **[3:02](https://www.linkedin.com/learning/azure-data-lake-for-developers/hierarchical-namespaces-example?u=76281980&t=182)** We now have a hierarchical file system that can support optimized querying, large-scale analytics engines, and, as we'll see later, we have a huge amount of control and flexibility in the security model we want to implement.
 >
@@ -697,7 +688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Azure|Azure]] (13), [[JSON]] (1), [[Microsoft Word|Word]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[JSON]] (1), [[Microsoft Word|Word]] (1), [[Metadata]] (1)
 > **Analogies:** imagine (2), for instance (1)
 > **Cross-References:** go back to (1), next chapter (1)
 > **Definitions:** is an  (2)
@@ -711,8 +702,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the options for accessing data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980)
+#### [What are the options for accessing data?](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,11 +710,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=5)** We'll be running through three different options for data access.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=9)** The first is how to read and write data using the .NET Blob Storage Software Development Kit, or SDK.
+> **[0:09](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=9)** The first is how to read and write data using the .NET Blob Storage [[Software Development]] Kit, or SDK.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=15)** This is a NuGet package which contains packaged up code that can be referenced from inside a C# project.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=22)** The NuGet package that we'll be using is called Azure Storage Blobs and can be used to connect either Azure Blob Storage or Azure Data Lake.
+> **[0:22](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=22)** The NuGet package that we'll be using is called [[Microsoft Azure|Azure]] Storage Blobs and can be used to connect either Azure Blob Storage or Azure Data Lake.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=30)** We'll run through an example of using this package to write data to the Data Lake that we created earlier and then how to read that data back out.
 >
@@ -736,15 +726,15 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=51)** They allow us to chain together different operations.
 >
-> **[0:54](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=54)** These operations include copying data between different locations, calling out to data flows, which are a GUI-based tool for doing data manipulation.
+> **[0:54](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=54)** These operations include copying data between different locations, calling out to data flows, which are a GUI-based tool for doing [[Data Manipulation]].
 >
-> **[1:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=63)** We can also call out to Azure Synapse Notebooks, which we'll cover shortly, and create SQL databases and views over the data.
+> **[1:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=63)** We can also call out to Azure Synapse Notebooks, which we'll cover shortly, and create [[SQL]] [[Databases]] and views over the data.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=71)** In this course, we're going to focus on two aspects of Azure Synapse; Notebooks and SQL Serverless.
 >
 > **[1:17](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=77)** Synapse Notebooks allow us to use notebook technology to read, manipulate and write data.
 >
-> **[1:23](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=83)** Notebook technology allows us to create cells of code that we can run individually to slowly build up complex data processing.
+> **[1:23](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=83)** Notebook technology allows us to create cells of code that we can run individually to slowly build up complex [[Data Processing]].
 >
 > **[1:31](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=91)** One of the most prevalent uses of notebook technology is Databricks in Spark, which is the large scale analytics engine we mentioned earlier.
 >
@@ -758,29 +748,28 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=128)** As you can see, there are many different options for accessing data in Azure Data Lake.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=133)** This includes other SDKs in Python, Java and JavaScript.
+> **[2:13](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=133)** This includes other SDKs in [[Python (Programming Language)|Python]], [[Java]] and [[JavaScript]].
 >
 > **[2:17](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980&t=137)** But using the examples that we'll run through in this chapter, you will have a good understanding of the steps involved in data access, and going forward, you'll be able to expand on these principles in order to support your own use cases.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Microsoft Azure|Azure]] (13), [[SQL]] (8), [[Analytics]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[SQL]] (8), [[Data Processing]] (2), [[Software Development]] (1), [[Data Manipulation]] (1)
 > **Env Vars:** sql (8), net (1), sdk (1), gui (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Azure Blob Storage SDK
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980)
+#### [Using the Azure Blob Storage SDK](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=0)** - [Instructor] The first of our data access options that we're going to cover is using the Azure Blob Storage SDK to read and write data.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=0)** - [Instructor] The first of our data access options that we're going to cover is using the [[Microsoft Azure|Azure]] Blob Storage SDK to read and write data.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=7)** We're going to be using VS Code to write our code, which is free to download and install from code.[visualstudio.com](https://visualstudio.com).
 >
-> **[0:15](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=15)** We will also need to install .NET, which can be done from dotnet.[microsoft.com](https://microsoft.com), both the SDK and the runtime.
+> **[0:15](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=15)** We will also need to install .NET, which can be done from dotnet.[[[Microsoft]].com](https://microsoft.com), both the SDK and the runtime.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=24)** In order to run C# code in Visual Studio, you'll also need the C# extension, which can be searched for in the Extensions tab.
 >
@@ -802,7 +791,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=88)** Here, you should select Yes.
 >
-> **[1:33](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=93)** We can see that this has added a launch and a tasks JSON file.
+> **[1:33](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=93)** We can see that this has added a launch and a tasks [[JSON]] file.
 >
 > **[1:40](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-the-azure-blob-storage-sdk?u=76281980&t=100)** If we now click on the Run and Debug tab and click this play button, we can see that Hello World is printed out to the console, as is instructed in our main program.
 >
@@ -938,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Microsoft Azure|Azure]] (8), [[JSON]] (2), [[Microsoft]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[JSON]] (2), [[Microsoft]] (1)
 > **Tools:** visual studio (4), vs code (2), terminal (2)
 > **File Paths:** orders.csv (4), launch.json (1), orders/orders.csv (1), example.txt (1)
 > **Code Identifiers:** connectionstring (5), containerclient (1), blobclient (1)
@@ -947,12 +936,11 @@ created: 2026-05-02
 > **CLI Commands:** dotnet (3), make (1)
 > **Prerequisites:** install (4)
 
-#### Using Spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980)
+#### [Using Spark](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=0)** - [Tutor] We have now seen how to access data in Azure Data Lake using the Blob STK, but we also have the option to connect to our data lake from within other Azure services.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=0)** - [Tutor] We have now seen how to access data in [[Microsoft Azure|Azure]] Data Lake using the Blob STK, but we also have the option to connect to our data lake from within other Azure services.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=10)** One of the main examples of this is using Azure Synapse Analytics.
 >
@@ -966,7 +954,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=45)** We then choose an Azure data lake to back the synapse workspace.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=50)** Well create a new Azure Data Lake account as this will be used to store all the data related to the workspace, such as temporary data storage and logging.
+> **[0:50](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=50)** Well create a new Azure Data Lake account as this will be used to store all the data related to the workspace, such as temporary [[Data Storage]] and logging.
 >
 > **[1:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=63)** And we'll creates a file system within that lake.
 >
@@ -990,7 +978,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=126)** Now, we're going to use a managed identity to connect to Azure Data Lake.
 >
-> **[2:10](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=130)** Our new Azure Synapse Analytics workspace will have an identity assigned to it within our Azure Active Directory called a managed identity.
+> **[2:10](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=130)** Our new Azure Synapse Analytics workspace will have an identity assigned to it within our [[Microsoft Entra ID|Azure Active Directory]] called a managed identity.
 >
 > **[2:17](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=137)** We'll then be able to give that identity access to the data in our data lake.
 >
@@ -1032,7 +1020,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=275)** If we right-click on the CSV file, we can create a new notebook and load that data to a data frame.
 >
-> **[4:41](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=281)** This notebook is using PySpark, which is Python's interface into the Spark cluster.
+> **[4:41](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=281)** This notebook is using [[PySpark]], which is [[Python (Programming Language)|Python]]'s interface into the Spark cluster.
 >
 > **[4:47](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=287)** Here we are using Spark to read the data and load it into a data frame.
 >
@@ -1052,7 +1040,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=319)** But you'll notice that there are no Spark pools listed.
 >
-> **[5:23](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=323)** We need some manage pools and create a new Apache Spark Pool that we can use to run our notebook code.
+> **[5:23](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=323)** We need some manage pools and create a new [[Apache Spark]] Pool that we can use to run our notebook code.
 >
 > **[5:29](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=329)** We'll just call it pool1.
 >
@@ -1088,7 +1076,7 @@ created: 2026-05-02
 >
 > **[7:17](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=437)** We have read the data in a CSV format, but what if we instead wanted our data to be in Parquet?
 >
-> **[7:22](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=442)** Parquet is an optimized data format that is highly compressible and is used extensively in big data analytics.
+> **[7:22](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=442)** Parquet is an optimized data format that is highly compressible and is used extensively in [[Big Data Analytics]].
 >
 > **[7:29](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-spark?u=76281980&t=449)** To do this, let's grab all code from the start where we're writing the data.
 >
@@ -1150,7 +1138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (49), [[Microsoft Azure|Azure]] (14), [[Analytics]] (2), [[Search]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Data Storage]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[PySpark]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** go to (3), navigate to (3), select the (2), right-click (1)
 > **Env Vars:** csv (7), stk (1)
 > **Analogies:** imagine (3), such as (2), for example (1)
@@ -1159,12 +1147,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), go back to (1)
 > **Warnings:** warning (1)
 
-#### Using SQL serverless
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980)
+#### [Using SQL serverless](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980&t=0)** - [Instructor] The final method of data access that we're going to look at, is using Azure Synapse SQL serverless.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980&t=0)** - [Instructor] The final method of data access that we're going to look at, is using [[Microsoft Azure|Azure]] Synapse [[SQL]] serverless.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980&t=5)** Serverless compute is used to describe computation that is carried out without you needing to control your own servers.
 >
@@ -1200,17 +1187,17 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980&t=156)** We can now use normal SQLite syntax to manipulate the View, for example, we could drop columns that we're not interested in.
 >
-> **[2:48](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980&t=168)** Using these Views over our data, we can integrate with other services such as Power BI which expect a SQLite interface into data.
+> **[2:48](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980&t=168)** Using these Views over our data, we can integrate with other services such as [[Microsoft Power BI|Power BI]] which expect a SQLite interface into data.
 >
 > **[2:56](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980&t=176)** And there you have it, we have run through three different methods for accessing data stored within a data lake.
 >
 > **[3:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980&t=183)** Depending on your use case, you may use one or more of these methods.
 >
-> **[3:07](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980&t=187)** There are also other options for data access, this includes SDKs in Java, JavaScript and Python, which can be used if these languages are more appropriate for your scenario.
+> **[3:07](https://www.linkedin.com/learning/azure-data-lake-for-developers/using-sql-serverless?u=76281980&t=187)** There are also other options for data access, this includes SDKs in [[Java]], [[JavaScript]] and [[Python (Programming Language)|Python]], which can be used if these languages are more appropriate for your scenario.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[SQL]] (7), database (5), business (3), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Azure|Azure]] (2), [[Microsoft Power BI|Power bi]] (1), [[Java]] (1), [[JavaScript]] (1)
 > **Env Vars:** sql (7), create (1), view (1)
 > **UI Navigation:** navigate to (2), right-click (1), go to (1), select the (1)
 > **Analogies:** such as (2), imagine (1), for example (1)
@@ -1222,8 +1209,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SAS tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980)
+#### [SAS tokens](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,7 +1221,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980&t=18)** In this chapter, we'll run through some different options for granting users and applications access to the accounts.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980&t=24)** The first of these options is using SAS tokens, or Shared Access Signatures.
+> **[0:24](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980&t=24)** The first of these options is using SAS [[Tokens]], or Shared Access Signatures.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980&t=28)** Shared Access Signatures are created on the client side and allow you to have much more control over a user's access.
 >
@@ -1299,7 +1285,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980&t=234)** in the application settings.
 >
-> **[3:56](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980&t=236)** For this reason, this is the method that Microsoft recommends for generating SAS tokens.
+> **[3:56](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980&t=236)** For this reason, this is the method that [[Microsoft]] recommends for generating SAS tokens.
 >
 > **[4:01](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980&t=241)** Again, you can choose the scope at which to grant access, the time period for the access, and the specific permissions to enable.
 >
@@ -1313,7 +1299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Tokens]] (7), application (4), management (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (7), [[Microsoft]] (1)
 > **Env Vars:** sas (17)
 > **UI Navigation:** navigate to (2), right-click (1)
 > **Definitions:** means that (3)
@@ -1322,12 +1308,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 
-#### Role-based access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/role-based-access-control?u=76281980)
+#### [Role-based access control](https://www.linkedin.com/learning/azure-data-lake-for-developers/role-based-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/role-based-access-control?u=76281980&t=0)** - [Instructor] The next option for providing access to data in Azure Data Lake is role-based access control, or RBAC.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/role-based-access-control?u=76281980&t=0)** - [Instructor] The next option for providing access to data in [[Microsoft Azure|Azure]] Data Lake is role-based access control, or RBAC.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-data-lake-for-developers/role-based-access-control?u=76281980&t=6)** In role-based access, there are a set of roles defined.
 >
@@ -1365,7 +1350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (3), next (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** sas (4), rbac (1)
 > **Warnings:** warning (2)
 > **Cross-References:** previous chapter (1)
@@ -1373,14 +1358,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access control lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists?u=76281980)
+#### [Access control lists](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists?u=76281980&t=0)** - [Instructor] So far, we have covered data access using both SAS tokens and role-based access control.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists?u=76281980&t=0)** - [Instructor] So far, we have covered data access using both SAS [[Tokens]] and role-based access control.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists?u=76281980&t=5)** These types of access are common to both Azure Blob Storage and Azure Data Lake.
+> **[0:05](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists?u=76281980&t=5)** These types of access are common to both [[Microsoft Azure|Azure]] Blob Storage and Azure Data Lake.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists?u=76281980&t=10)** However, as I mentioned earlier, there is a type of access that is specifically added by Azure Data Lake.
 >
@@ -1420,7 +1404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (4), management (2), [[Security]] (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Tokens]] (1)
 > **Definitions:** means that (3), is a  (2)
 > **Prerequisites:** set up (4)
 > **Env Vars:** posix (2), sas (1)
@@ -1429,14 +1413,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access control lists example
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980)
+#### [Access control lists example](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=0)** - [Instructor] Here we can see that we are back in our Azure Data Lake account.
+> **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=0)** - [Instructor] Here we can see that we are back in our [[Microsoft Azure|Azure]] Data Lake account.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=3)** However, in this case, we are viewing our Data Lake from Azure Storage Explorer, which is a tool, which is available to download from azure.[microsoft.com](https://microsoft.com).
+> **[0:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=3)** However, in this case, we are viewing our Data Lake from Azure Storage Explorer, which is a tool, which is available to download from azure.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:14](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=14)** You remember that we have a few folders set up in our Data Lake.
 >
@@ -1478,7 +1461,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=145)** When we use the DefaultAzureCredential class, our code tries to connect to Azure Storage by retrieving credentials in a few different ways.
 >
-> **[2:33](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=153)** This includes looking at specially named environment variables using the shared token cache, using Visual Studio credentials and using the Azure CLI.
+> **[2:33](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=153)** This includes looking at specially named environment variables using the shared token cache, using Visual Studio credentials and using the Azure [[CLI]].
 >
 > **[2:42](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=162)** You'll remember that I earlier logged on to the Azure CLI on the Visual Studio terminal.
 >
@@ -1500,7 +1483,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=217)** I need to search using my object ID, which can be retrieved from the portal.
 >
-> **[3:41](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=221)** If you go to Azure Active Directory, go to Users, and find your user.
+> **[3:41](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=221)** If you go to [[Microsoft Entra ID|Azure Active Directory]], go to Users, and find your user.
 >
 > **[3:46](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=226)** It is the object ID that we need to use.
 >
@@ -1536,7 +1519,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=317)** The reason that I've been using Azure Storage Explorer in this example, rather than using the portal is that propagate access control lists is not available when working in the portal.
 >
-> **[5:26](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=326)** If you want to propagate access control lists to existing children within a folder, you'll need to manage the access control lists using Storage Explorer, Azure PowerShell, the CLI, or one of the SDKs.
+> **[5:26](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=326)** If you want to propagate access control lists to existing children within a folder, you'll need to manage the access control lists using Storage Explorer, Azure [[Powershell]], the CLI, or one of the SDKs.
 >
 > **[5:39](https://www.linkedin.com/learning/azure-data-lake-for-developers/access-control-lists-example?u=76281980&t=339)** Note, there is a separate SDK outside of the normal Blob Storage SDK that is used to manage the Azure Data Lake specific features.
 >
@@ -1554,7 +1537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft Azure|Azure]] (15), [[Search]] (3), [[CLI]] (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[CLI]] (3), [[Microsoft]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Powershell]] (1)
 > **Env Vars:** sdk (4), cli (3), uri (1)
 > **Tools:** terminal (2), visual studio (2), powershell (1)
 > **UI Navigation:** go to (3), click on (1), select the (1)
@@ -1568,26 +1551,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More Azure Data Lake resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980)
+#### [More Azure Data Lake resources](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=0)** - [Narrator] At this point, all is left is, where do we go next?
 >
-> **[0:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=3)** The information contained in this course has given a good overview of Azure Data Lake, and how it supports Enterprise-scale storage.
+> **[0:03](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=3)** The information contained in this course has given a good overview of [[Microsoft Azure|Azure]] Data Lake, and how it supports Enterprise-scale storage.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=10)** Depending on your use case, there may be parts of this course which were more or less relevant.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=15)** If data security is a major concern in your applications, which it probably should be in most, then it is probably worth delving further into general security best practices.
+> **[0:15](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=15)** If [[Data Security]] is a major concern in your applications, which it probably should be in most, then it is probably worth delving further into general security best practices.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=25)** There are many courses on LinkedIn Learning, and in the wider technology space, which cover this subject in more detail.
+> **[0:25](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=25)** There are many courses on [[LinkedIn]] Learning, and in the wider technology space, which cover this subject in more detail.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=32)** Something which I've also touched on as part of this course is Azure Synapse.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=36)** The examples I covered showed how to read and write data from Azure Data Lake, using Notebooks and SQL servers.
+> **[0:36](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=36)** The examples I covered showed how to read and write data from Azure Data Lake, using Notebooks and [[SQL]] servers.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=43)** However, there was also a wealth of functionality in Azure Synapse Analytics, which allows you to build up full data pipelines.
+> **[0:43](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=43)** However, there was also a wealth of functionality in Azure Synapse Analytics, which allows you to build up full [[Data Pipelines]].
 >
 > **[0:50](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=50)** These pipelines allow you to carry out repeatable and predictable steps of your data.
 >
@@ -1595,13 +1577,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=59)** So we can run in close to real time.
 >
-> **[1:01](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=61)** If this kind of pipeline-based data analysis and management is something that you think you might be interested in, there's a huge amount of documentation on the Microsoft website, which is a great place to start.
+> **[1:01](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=61)** If this kind of pipeline-based data analysis and management is something that you think you might be interested in, there's a huge amount of documentation on the [[Microsoft]] website, which is a great place to start.
 >
 > **[1:12](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=72)** It is this also definitely worth considering using Spark, which we touched on during this course as part of our Notebooks example.
 >
-> **[1:18](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=78)** If you were carrying out big data analytics, in our example, we used PySpark to connect to a Spark cluster, which is just one of the available interfaces.
+> **[1:18](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=78)** If you were carrying out [[Big Data Analytics]], in our example, we used [[PySpark]] to connect to a Spark cluster, which is just one of the available interfaces.
 >
-> **[1:27](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=87)** You also have the option of using Java, R, or Scala.
+> **[1:27](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=87)** You also have the option of using [[Java]], R, or [[Scala]].
 >
 > **[1:31](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980&t=91)** Spark is an incredibly powerful analytical engine, and there are many online resources, including a number on the LinkedIn learning platform, if you want to learn more.
 >
@@ -1615,7 +1597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Azure|Azure]] (5), [[LinkedIn]] (3), next (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[LinkedIn]] (3), [[Data Security]] (1), [[SQL]] (1), [[Data Pipelines]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [narrator] (1)

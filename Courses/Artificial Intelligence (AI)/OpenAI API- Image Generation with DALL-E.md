@@ -73,16 +73,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to image generation with DALL-E
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980)
+#### [Introduction to image generation with DALL-E](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980&t=0)** - [Kesha] What you create with DALL-E is only limited to your imagination.
+> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980&t=0)** - [Kesha] What you create with [[DALL-E]] is only limited to your imagination.
 >
-> **[0:05](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980&t=5)** Generate high quality images and images for your projects in website design, entertainment, visual storytelling, research, and so much more.
+> **[0:05](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980&t=5)** Generate high quality images and images for your projects in website design, entertainment, visual [[Storytelling]], research, and so much more.
 >
-> **[0:18](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980&t=18)** Now more than ever, the OpenAI API makes it easy to integrate DALL-E into your existing products and applications, and I'll show you how in this course.
+> **[0:18](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980&t=18)** Now more than ever, the [[OpenAI API]] makes it easy to integrate DALL-E into your existing [[Microsoft Products|products]] and applications, and I'll show you how in this course.
 >
 > **[0:30](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980&t=30)** You'll explore the OpenAI API and learn how to generate the images you want.
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (2), [[OpenAI API]] (2), [[Storytelling]] (1), [[Microsoft Products|Products]] (1), power (1)
+> **Frameworks & Libraries:** [[DALL-E]] (2), [[OpenAI API]] (2), [[Storytelling]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dall (2), api (2)
 > **Speakers:** - [kesha] (1)
 
@@ -99,16 +98,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore DALL-E features and capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980)
+#### [Explore DALL-E features and capabilities](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980&t=0)** - [Narrator] Blend the name of the famous surrealist artist Salvador Dali and Pixar's animated character WALL-E and you have DALL-E.
+> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980&t=0)** - [Narrator] Blend the name of the famous surrealist artist Salvador Dali and Pixar's animated character WALL-E and you have [[DALL-E]].
 >
 > **[0:10](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980&t=10)** DALL-E is an AI model developed by OpenAI that generates images from text descriptions.
 >
-> **[0:17](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980&t=17)** This advanced tool uses deep learning techniques to understand and interpret text prompts, creating detailed and creative images based on those prompts.
+> **[0:17](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980&t=17)** This advanced tool uses [[Deep Learning]] techniques to understand and interpret text prompts, creating detailed and creative images based on those prompts.
 >
 > **[0:29](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980&t=29)** It's known for its ability to generate highly realistic images to imaginative visuals, including fantastical, surreal compositions that combine unrelated elements in novel ways.
 >
@@ -132,19 +130,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (4), ai (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[Deep Learning]] (1)
 > **Env Vars:** dall (4), wall (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Gain access to DALL-E
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980)
+#### [Gain access to DALL-E](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980&t=0)** - [Narrator] You will not believe how easy it is to access DALL-E to generate images.
+> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980&t=0)** - [Narrator] You will not believe how easy it is to access [[DALL-E]] to generate images.
 >
-> **[0:07](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980&t=7)** You can access Dolly using ChatGPT Plus and Enterprise services via the OpenAI API, which is the method we'll use in this course and via the OpenAI Labs environment.
+> **[0:07](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980&t=7)** You can access Dolly using [[ChatGPT]] Plus and Enterprise services via the [[OpenAI API]], which is the method we'll use in this course and via the OpenAI Labs environment.
 >
 > **[0:21](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980&t=21)** Let's review each option together.
 >
@@ -164,13 +161,13 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980&t=92)** Each of these access methods caters to different user groups from developers requiring deep technical integration to casual users interested in exploring DALL-E's capabilities in a more interactive and straightforward manner.
 >
-> **[1:49](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980&t=109)** Our primary means to access DALL-E in this course will be the OpenAI API, using the Python SDK, or Postman.
+> **[1:49](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980&t=109)** Our primary means to access DALL-E in this course will be the OpenAI API, using the [[Python (Programming Language)|Python]] SDK, or Postman.
 >
 > **[1:59](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/gain-access-to-dall-e?u=76281980&t=119)** Now that you understand the different ways to access DALL-E, let's discuss crafting effective prompts so that you can truly harness its power.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (9), [[ChatGPT]] (3), [[OpenAI API]] (3), api (3), web (2)
+> **Frameworks & Libraries:** [[DALL-E]] (9), [[ChatGPT]] (3), [[OpenAI API]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dall (9), api (6), sdk (1)
 > **CLI Commands:** python (1)
 > **Tools:** postman (1)
@@ -182,12 +179,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Craft effective image prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980)
+#### [Craft effective image prompts](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980&t=0)** - [Instructor] Creating effective prompts for DALL-E is both an art and a science.
+> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980&t=0)** - [Instructor] Creating effective prompts for [[DALL-E]] is both an art and a science.
 >
 > **[0:06](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980&t=6)** Let's discuss how to construct prompts that effectively communicate your vision to DALL-E, helping it to produce the most accurate and creative results possible.
 >
@@ -199,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980&t=41)** In contrast, a large sunflower with bright yellow petals in a tall, blue ceramic vase, on a wooden table against a white background in the style of Salvador Dali provides a much clearer and more detailed description.
 >
-> **[1:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980&t=60)** I've just described the art of prompt engineering, refining a prompt to produce the best results.
+> **[1:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980&t=60)** I've just described the art of [[Prompt Engineering]], refining a prompt to produce the best results.
 >
 > **[1:07](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980&t=67)** There is a feature of DALL-E called prompt rewriting so that you don't have to become an expert prompt engineer to produce the best results.
 >
@@ -219,14 +215,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (12), [[DALL-E]] (6), feature (2), [[Prompt Engineering]] (1), ai (1)
+> **Frameworks & Libraries:** [[DALL-E]] (6), [[Prompt Engineering]] (1)
 > **Env Vars:** dall (6)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use image generation in the real world
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980)
+#### [Use image generation in the real world](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -234,15 +229,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=5)** Let's get started.
 >
-> **[0:07](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=7)** We'll explore real world examples and practical use cases showcasing images generated by DALL-E.
+> **[0:07](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=7)** We'll explore real world examples and practical use cases showcasing images generated by [[DALL-E]].
 >
-> **[0:15](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=15)** We'll look at graphic design and artwork creation, advertising and marketing, entertainment and media, web and UI design, and research and data visualization.
+> **[0:15](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=15)** We'll look at [[Graphic Design]] and artwork creation, advertising and marketing, entertainment and media, web and UI design, and research and data visualization.
 >
 > **[0:30](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=30)** Artists and graphic designers can use DALL-E to quickly generate initial concepts, drafts, or even complete pieces of artwork based on specific themes or ideas.
 >
 > **[0:45](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=45)** In this prompt, "Generate an image of a futuristic, eco-friendly cityscape at twilight, blending cyberpunk style with natural elements," produces this image.
 >
-> **[0:59](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=59)** Marketing teams can leverage DALL-E to create unique and eye-catching visuals for advertising campaigns, social media posts, and other marketing materials tailored to specific products or themes.
+> **[0:59](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=59)** Marketing teams can leverage DALL-E to create unique and eye-catching visuals for advertising campaigns, social media posts, and other marketing materials tailored to specific [[Microsoft Products|products]] or themes.
 >
 > **[1:15](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=75)** This prompt, "Create an image for a high-tech running shoe campaign, set in a city park at dawn," produces this image.
 >
@@ -256,7 +251,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=139)** Researchers can use DALL-E to generate visual representations of data, abstract concepts, or theoretical models.
 >
-> **[2:29](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=149)** This prompt, "Design an infographic on quantum computing, visually contrasting abstract theories with practical components," produces this image.
+> **[2:29](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=149)** This prompt, "Design an infographic on [[Quantum Computing]], visually contrasting abstract theories with practical components," produces this image.
 >
 > **[2:41](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/use-image-generation-in-the-real-world?u=76281980&t=161)** I told you earlier that what you create with DALL-E is only limited to your imagination.
 >
@@ -264,7 +259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (7), prompt (5), web (3), data (2), [[Graphic Design]] (1)
+> **Frameworks & Libraries:** [[DALL-E]] (7), [[Graphic Design]] (1), [[Microsoft Products|Products]] (1), [[Quantum Computing]] (1)
 > **Env Vars:** dall (7), api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -273,12 +268,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the Images API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980)
+#### [Explore the Images API](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980&t=0)** - [Instructor] Let's talk about the most popular way to access DALL-E, through the open AI API.
+> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980&t=0)** - [Instructor] Let's talk about the most popular way to access [[DALL-E]], through the open AI API.
 >
 > **[0:07](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980&t=7)** Developers and software engineers can integrate the images API into their applications, allowing them to programmatically use DALL-E's image generation capabilities.
 >
@@ -330,7 +324,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980&t=158)** The response format is the format in which the generated image or images are returned.
 >
-> **[2:45](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980&t=165)** The options are URL or base 64 JSON.
+> **[2:45](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980&t=165)** The options are URL or base 64 [[JSON]].
 >
 > **[2:50](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980&t=170)** The default is URL, which returns a URL to the image generated.
 >
@@ -362,7 +356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), [[DALL-E]] (8), api (7), next (3), ai (2)
+> **Frameworks & Libraries:** [[DALL-E]] (8), [[JSON]] (2)
 > **Env Vars:** dall (8), api (7), url (5), json (2)
 > **Definitions:** is a  (3)
 > **Prerequisites:** you'll need (2)
@@ -370,12 +364,11 @@ created: 2026-05-02
 > **Code Identifiers:** response_format (1)
 > **Speakers:** - [instructor] (1)
 
-#### Estimate image pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/estimate-image-pricing?u=76281980)
+#### [Estimate image pricing](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/estimate-image-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/estimate-image-pricing?u=76281980&t=0)** - [Instructor] You've seen the magic of DALL-E, but how much will it cost you?
+> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/estimate-image-pricing?u=76281980&t=0)** - [Instructor] You've seen the magic of [[DALL-E]], but how much will it cost you?
 >
 > **[0:06](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/estimate-image-pricing?u=76281980&t=6)** Understanding the cost of using the Images API is an essential aspect of accurately estimating the budget cost of your projects.
 >
@@ -397,21 +390,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[DALL-E]] (2)
+> **Frameworks & Libraries:** [[DALL-E]] (2)
 > **Env Vars:** api (3), dall (2)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### See image generation in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980)
+#### [See image generation in action](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=0)** - [Instructor] Are you ready to see the Images API in action?
 >
-> **[0:04](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=4)** Let's jump into our Python code example found in this Jupyter Notebook.
+> **[0:04](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=4)** Let's jump into our [[Python (Programming Language)|Python]] code example found in this Jupyter Notebook.
 >
 > **[0:10](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=10)** The first step is to generate an API key to authenticate to the API, and then configure your application code to use it.
 >
@@ -431,7 +423,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=60)** In this cell, we import the OS and the OpenAI modules or libraries.
 >
-> **[1:06](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=66)** The OpenAI module provides access to the OpenAI API, and the OS module provides access to operating system dependent functionality.
+> **[1:06](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=66)** The OpenAI module provides access to the [[OpenAI API]], and the OS module provides access to operating system dependent functionality.
 >
 > **[1:17](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=77)** We'll use it to access the API key stored as an environment variable and an external environment file.
 >
@@ -463,7 +455,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=175)** I cannot wait to see what this image is going to look like.
 >
-> **[2:59](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=179)** We are using the DALL-E 3 model.
+> **[2:59](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=179)** We are using the [[DALL-E]] 3 model.
 >
 > **[3:02](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=182)** We're passing in the style of natural.
 >
@@ -519,13 +511,13 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=367)** I'm not going to read the entire prompt, but this is the prompt here that was used to generate this image that we see.
 >
-> **[6:17](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=377)** DALL-E's prompt rewriting feature really just attempts to optimize the prompt for you so that you don't need to be a prompt engineering expert.
+> **[6:17](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=377)** DALL-E's prompt rewriting feature really just attempts to optimize the prompt for you so that you don't need to be a [[Prompt Engineering]] expert.
 >
 > **[6:29](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/see-image-generation-in-action?u=76281980&t=389)** Now that you've seen the Image API in action, let's recap what we've learned and review the next steps in your learning journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (16), api (10), [[DALL-E]] (6), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[DALL-E]] (6), [[Python (Programming Language)|Python]] (2), [[OpenAI API]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** api (11), dall (6), sdk (1), url (1)
 > **CLI Commands:** python (2), make (1)
 > **UI Navigation:** scroll down (3)
@@ -539,28 +531,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your DALL-E journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980)
+#### [Your DALL-E journey](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=0)** - [Instructor] Your DALL-E journey.
+> **[0:00](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=0)** - [Instructor] Your [[DALL-E]] journey.
 >
 > **[0:03](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=3)** Congratulations on reaching the end of the course.
 >
 > **[0:07](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=7)** You should feel proud of what you've accomplished.
 >
-> **[0:10](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=10)** Thank you for going on this journey with me to generate images using DALL-E and the OpenAI API.
+> **[0:10](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=10)** Thank you for going on this journey with me to generate images using DALL-E and the [[OpenAI API]].
 >
 > **[0:18](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=18)** During our time together, you've learned all about the power of DALL-E and the images API to generate highly realistic and imaginative images from a text prompt.
 >
 > **[0:32](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=32)** If you haven't pulled down the code example, I encourage you to deepen your understanding and retain your newfound knowledge through hands-on exploration.
 >
-> **[0:42](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=42)** You can also continue learning by watching my other courses, "[[Building a Project with the ChatGPT API]]", "[[Artificial Intelligence Foundations- Machine Learning]]", and other courses in the OpenAI API series.
+> **[0:42](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=42)** You can also continue learning by watching my other courses, "[[Building a Project with the [[ChatGPT]] API]]", "[[[[Artificial Intelligence Foundations]]- Machine Learning]]", and other courses in the OpenAI API series.
 >
 > **[0:59](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=59)** I've enjoyed our time together.
 >
-> **[1:01](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=61)** Please follow me on LinkedIn so that we can stay connected.
+> **[1:01](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=61)** Please follow me on [[LinkedIn]] so that we can stay connected.
 >
 > **[1:05](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980&t=65)** I enjoy speaking on the topic of AI and machine learning, so please consider me for your upcoming conference or event.
 >
@@ -570,7 +561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (3), api (3), [[OpenAI API]] (1), power (1), prompt (1)
+> **Frameworks & Libraries:** [[DALL-E]] (3), [[OpenAI API]] (1), [[ChatGPT]] (1), [[Artificial Intelligence Foundations]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (4), dall (3)
 > **Speakers:** - [instructor] (1)
 

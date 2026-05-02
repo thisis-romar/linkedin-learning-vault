@@ -19,7 +19,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
   - topic/cloud-computing
-course_count: 279
+course_count: 280
 created: 2026-05-02
 ---
 
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # User Experience (UX)
 
-> **Type:** Concept | **Courses:** 279 | **Topics:** [[Software Development]], [[Web Development]], [[Artificial Intelligence (AI)]], [[Data Science]], [[Cloud Computing]]
+> **Type:** Concept | **Courses:** 280 | **Topics:** [[Software Development]], [[Web Development]], [[Artificial Intelligence (AI)]], [[Data Science]], [[Cloud Computing]]
 
 ## Courses
 
@@ -42,7 +42,7 @@ created: 2026-05-02
 9. [[Developing for Web Performance]] — 8 mentions
 10. [[Putting ITIL® into Practice- Incident Management]] — 8 mentions
 
-> [!note]- See all 279 courses
+> [!note]- See all 280 courses
 > 11. [[Marketing Foundations- Ecommerce]] — 8 mentions
 > 12. [[Build a JavaScript AI App with React and the OpenAI API]] — 7 mentions
 > 13. [[DevOps Foundations- Monitoring and Observability]] — 7 mentions
@@ -247,71 +247,72 @@ created: 2026-05-02
 > 212. [[Succeeding in Web Development- Full Stack and Front End]] — 1 mentions
 > 213. [[Capstone- Building Production Features with Copilot]] — 1 mentions
 > 214. [[Nano Tips For Marketing Using AI Tools with Sam Dey]] — 1 mentions
-> 215. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 1 mentions
-> 216. [[Python Projects- Create an Interactive Quiz Application]] — 1 mentions
-> 217. [[Python Projects]] — 1 mentions
-> 218. [[Crafting Meaningful HTML]] — 1 mentions
-> 219. [[Learning Web Audio and Video]] — 1 mentions
-> 220. [[Database Foundations- Application Development]] — 1 mentions
-> 221. [[Learning The Javascript Language]] — 1 mentions
-> 222. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
-> 223. [[MPLS- Traffic Engineering]] — 1 mentions
-> 224. [[Azure AI for Developers- Using the Azure AI Model Catalog]] — 1 mentions
-> 225. [[Azure AI for Developers- Azure AI Speech]] — 1 mentions
-> 226. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 1 mentions
-> 227. [[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]] — 1 mentions
-> 228. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
-> 229. [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]] — 1 mentions
-> 230. [[Artificial Intelligence Foundations- Machine Learning]] — 1 mentions
-> 231. [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] — 1 mentions
-> 232. [[Learning Jira Cloud Edition]] — 1 mentions
-> 233. [[Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development]] — 1 mentions
-> 234. [[Increasing Efficiency with Jira and Confluence Integrations]] — 1 mentions
-> 235. [[GDPR Compliance- Essential Training]] — 1 mentions
-> 236. [[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]] — 1 mentions
-> 237. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 1 mentions
-> 238. [[Hands-On Natural Language Processing]] — 1 mentions
-> 239. [[Operational Excellence Foundations]] — 1 mentions
-> 240. [[Learning React Native]] — 1 mentions
-> 241. [[Node.js- Debugging and Performance Tuning]] — 1 mentions
-> 242. [[Django Essential Training]] — 1 mentions
-> 243. [[Kotlin Essential Training Functions Collections And I O]] — 1 mentions
-> 244. [[Kotlin Multiplatform Development]] — 1 mentions
-> 245. [[Data Analytics for Students (2022)]] — 1 mentions
-> 246. [[PHP with MySQL Essential Training- 1 The Basics]] — 1 mentions
-> 247. [[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals]] — 1 mentions
-> 248. [[Excel- Introduction to Formatting]] — 1 mentions
-> 249. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
-> 250. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 1 mentions
-> 251. [[Java Essential Training- Objects and APIs]] — 1 mentions
-> 252. [[UX Deep Dive- Remote Research]] — 1 mentions
-> 253. [[Building RESTful Web APIs with Django]] — 1 mentions
-> 254. [[Software Development Life Cycle (SDLC)]] — 1 mentions
-> 255. [[Jira- Basic Administration]] — 1 mentions
-> 256. [[Jira Service Management- Administration]] — 1 mentions
-> 257. [[Red Hat Certified Engineer (EX294) Cert Prep- 2 Using Ansible Playbooks]] — 1 mentions
-> 258. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 1 mentions
-> 259. [[Python- Design Patterns]] — 1 mentions
-> 260. [[WordPress Essential Training]] — 1 mentions
-> 261. [[WordPress- REST API]] — 1 mentions
-> 262. [[Wordpress Ecommerce]] — 1 mentions
-> 263. [[Advanced PHP- Debugging Techniques]] — 1 mentions
-> 264. [[Windows Server 2022- Installation and Configuration]] — 1 mentions
-> 265. [[React- Cloud-Powered Apps with Firebase]] — 1 mentions
-> 266. [[Advanced Laravel]] — 1 mentions
-> 267. [[Winter CMS with Laravel]] — 1 mentions
-> 268. [[Understanding Manual Testing]] — 1 mentions
-> 269. [[JavaScript- Test-Driven Development (ES6)]] — 1 mentions
-> 270. [[InfraWorks and ArcGIS- AEC Collaboration]] — 1 mentions
-> 271. [[Making Sense of the CSS Box Model]] — 1 mentions
-> 272. [[Troubleshoot and Repair Your WordPress Website]] — 1 mentions
-> 273. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
-> 274. [[CSS Essential Training (2023)]] — 1 mentions
-> 275. [[Introduction to MLSecOps]] — 1 mentions
-> 276. [[Node.js- Testing and Code Quality]] — 1 mentions
-> 277. [[Express Essentials- Build Powerful Web Apps with Node.js]] — 1 mentions
-> 278. [[Node- Authentication]] — 1 mentions
-> 279. [[Aws Essential Training For Administrators]] — 1 mentions
+> 215. [[Data Integration And Api Development For Ai Applications]] — 1 mentions
+> 216. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 1 mentions
+> 217. [[Python Projects- Create an Interactive Quiz Application]] — 1 mentions
+> 218. [[Python Projects]] — 1 mentions
+> 219. [[Crafting Meaningful HTML]] — 1 mentions
+> 220. [[Learning Web Audio and Video]] — 1 mentions
+> 221. [[Database Foundations- Application Development]] — 1 mentions
+> 222. [[Learning The Javascript Language]] — 1 mentions
+> 223. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
+> 224. [[MPLS- Traffic Engineering]] — 1 mentions
+> 225. [[Azure AI for Developers- Using the Azure AI Model Catalog]] — 1 mentions
+> 226. [[Azure AI for Developers- Azure AI Speech]] — 1 mentions
+> 227. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 1 mentions
+> 228. [[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]] — 1 mentions
+> 229. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
+> 230. [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]] — 1 mentions
+> 231. [[Artificial Intelligence Foundations- Machine Learning]] — 1 mentions
+> 232. [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] — 1 mentions
+> 233. [[Learning Jira Cloud Edition]] — 1 mentions
+> 234. [[Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development]] — 1 mentions
+> 235. [[Increasing Efficiency with Jira and Confluence Integrations]] — 1 mentions
+> 236. [[GDPR Compliance- Essential Training]] — 1 mentions
+> 237. [[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]] — 1 mentions
+> 238. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 1 mentions
+> 239. [[Hands-On Natural Language Processing]] — 1 mentions
+> 240. [[Operational Excellence Foundations]] — 1 mentions
+> 241. [[Learning React Native]] — 1 mentions
+> 242. [[Node.js- Debugging and Performance Tuning]] — 1 mentions
+> 243. [[Django Essential Training]] — 1 mentions
+> 244. [[Kotlin Essential Training Functions Collections And I O]] — 1 mentions
+> 245. [[Kotlin Multiplatform Development]] — 1 mentions
+> 246. [[Data Analytics for Students (2022)]] — 1 mentions
+> 247. [[PHP with MySQL Essential Training- 1 The Basics]] — 1 mentions
+> 248. [[Power BI Challenges- 15 Skills-Building Analytics Exercises for Data Professionals]] — 1 mentions
+> 249. [[Excel- Introduction to Formatting]] — 1 mentions
+> 250. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
+> 251. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 1 mentions
+> 252. [[Java Essential Training- Objects and APIs]] — 1 mentions
+> 253. [[UX Deep Dive- Remote Research]] — 1 mentions
+> 254. [[Building RESTful Web APIs with Django]] — 1 mentions
+> 255. [[Software Development Life Cycle (SDLC)]] — 1 mentions
+> 256. [[Jira- Basic Administration]] — 1 mentions
+> 257. [[Jira Service Management- Administration]] — 1 mentions
+> 258. [[Red Hat Certified Engineer (EX294) Cert Prep- 2 Using Ansible Playbooks]] — 1 mentions
+> 259. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 1 mentions
+> 260. [[Python- Design Patterns]] — 1 mentions
+> 261. [[WordPress Essential Training]] — 1 mentions
+> 262. [[WordPress- REST API]] — 1 mentions
+> 263. [[Wordpress Ecommerce]] — 1 mentions
+> 264. [[Advanced PHP- Debugging Techniques]] — 1 mentions
+> 265. [[Windows Server 2022- Installation and Configuration]] — 1 mentions
+> 266. [[React- Cloud-Powered Apps with Firebase]] — 1 mentions
+> 267. [[Advanced Laravel]] — 1 mentions
+> 268. [[Winter CMS with Laravel]] — 1 mentions
+> 269. [[Understanding Manual Testing]] — 1 mentions
+> 270. [[JavaScript- Test-Driven Development (ES6)]] — 1 mentions
+> 271. [[InfraWorks and ArcGIS- AEC Collaboration]] — 1 mentions
+> 272. [[Making Sense of the CSS Box Model]] — 1 mentions
+> 273. [[Troubleshoot and Repair Your WordPress Website]] — 1 mentions
+> 274. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
+> 275. [[CSS Essential Training (2023)]] — 1 mentions
+> 276. [[Introduction to MLSecOps]] — 1 mentions
+> 277. [[Node.js- Testing and Code Quality]] — 1 mentions
+> 278. [[Express Essentials- Build Powerful Web Apps with Node.js]] — 1 mentions
+> 279. [[Node- Authentication]] — 1 mentions
+> 280. [[Aws Essential Training For Administrators]] — 1 mentions
 
 ## Learning Paths
 

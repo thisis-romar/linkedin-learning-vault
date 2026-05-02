@@ -82,20 +82,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scaling data pipelines to meet modern demands
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980)
+#### [Scaling data pipelines to meet modern demands](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=11)** In the time that it takes me to complete the sentence, trillions of data points around the world will have been generated, captured, and analyzed.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=20)** This real-time data capture is all around us all the time.
+> **[0:20](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=20)** This [[Real-Time]] data capture is all around us all the time.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=24)** For example, in the financial services world, transaction data is used to instantly detect fraud.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=30)** This helps financial institutions quickly alert their customers of suspicious activity.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=36)** Telecommunications companies continuously monitor network and performance data to detect and mitigate outages or overloads in real time.
+> **[0:36](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=36)** [[Telecommunications]] companies continuously monitor network and performance data to detect and mitigate outages or overloads in real time.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=46)** And in the manufacturing industry, the practice of predictive maintenance is common, where streaming data from sensors on machine parts can help manufacturers schedule maintenance for those parts and ensuring that they don't fail during critical workloads.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=81)** This means that pipelines need to support practices like collaboration, source control, continuous deployment, and more.
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=89)** In short, they need to support the practice of DevOps end-to-end.
+> **[1:29](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=89)** In short, they need to support the practice of [[DevOps]] end-to-end.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=93)** But that's not all.
 >
@@ -117,11 +116,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=117)** Hi there. My name is Gilberto Hernandez.
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=119)** I'm a developer advocate at Snowflake, and I'm excited to welcome you to Advanced Data Engineering with Snowflake.
+> **[1:59](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=119)** I'm a developer advocate at [[Snowflake]], and I'm excited to welcome you to Advanced [[Data Engineering]] with Snowflake.
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=126)** If I look familiar, you might've seen me in the precursor to this course called [[Introduction to Modern Data Engineering with Snowflake]].
 >
-> **[2:14](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=134)** There we covered how to build continuous end-to-end data pipelines.
+> **[2:14](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=134)** There we covered how to build continuous end-to-end [[Data Pipelines]].
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980&t=139)** This course is the follow-up course and builds on the concepts that we covered in the previous course.
 >
@@ -151,14 +150,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Snowflake]] (6), [[Data Engineering]] (4), [[DevOps]] (3), teams (2)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[Data Engineering]] (4), [[Data Pipelines]] (4), [[DevOps]] (3), [[Real-Time]] (1)
 > **Cross-References:** we covered (2), in the next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### What this course will cover
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980)
+#### [What this course will cover](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980&t=34)** Instead, we'll start with a prebuilt pipeline and expand it by implementing the concepts covered in this course.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980&t=41)** We'll cover two topics, DevOps with Snowflake and Observability for data pipelines.
+> **[0:41](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980&t=41)** We'll cover two topics, [[DevOps]] with [[Snowflake]] and Observability for [[Data Pipelines]].
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980&t=46)** By the end of the course, you'll know how to take your pipelines to the next level by knowing how to use DevOps to streamline and automate the development of your pipelines, how to implement observability to keep an eye on your pipeline's health, and how to capture and ingest streaming data into Snowflake in near real time.
 >
@@ -194,9 +192,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980&t=103)** This is so that you can learn by doing and get some hands-on experience with the concepts that we'll cover.
 >
-> **[1:48](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980&t=108)** We'll actively use tools like the command line, GitHub, SQL, Python, and more.
+> **[1:48](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980&t=108)** We'll actively use tools like the command line, [[GitHub]], [[SQL]], [[Python (Programming Language)|Python]], and more.
 >
-> **[1:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980&t=115)** And as in the previous course, we won't be exhaustive of all advanced data engineering features, techniques, or pipeline architectures. That's intentional.
+> **[1:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980&t=115)** And as in the previous course, we won't be exhaustive of all advanced [[Data Engineering]] features, techniques, or pipeline architectures. That's intentional.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-this-course-will-cover?u=76281980&t=125)** But what you'll learn in this course will make you dangerously good at building more complex and efficient pipelines with Snowflake.
 >
@@ -206,7 +204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (4), data (3), [[DevOps]] (3), next (2), [[Data Engineering]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[DevOps]] (3), [[Data Engineering]] (2), [[Data Pipelines]] (1), [[GitHub]] (1)
 > **Env Vars:** itd (2), sql (1)
 > **CLI Commands:** python (1), make (1)
 > **Cross-References:** we covered (1), in the next (1)
@@ -219,16 +217,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DevOps in the world of data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980)
+#### [DevOps in the world of data engineering](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=0)** If you were to ask 10 different engineers, what is DevOps?
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=0)** If you were to ask 10 different engineers, what is [[DevOps]]?
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=4)** You'd likely get 10 different answers.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=7)** So before we dive into how Snowflake does DevOps, let's take a quick detour and first understand what we mean by the term DevOps.
+> **[0:07](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=7)** So before we dive into how [[Snowflake]] does DevOps, let's take a quick detour and first understand what we mean by the term DevOps.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=15)** To start, DevOps isn't a product.
 >
@@ -242,9 +239,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=40)** Let's break it down a bit more.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=43)** Data pipelines are living engineering systems that, like many engineering systems, have a set of critical requirements to satisfy.
+> **[0:43](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=43)** [[Data Pipelines]] are living engineering systems that, like many engineering systems, have a set of critical requirements to satisfy.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=51)** For example, a pipeline may need to be able to quickly react to changes in say, database objects, schemas, and more.
+> **[0:51](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=51)** For example, a pipeline may need to be able to quickly [[React.js|react]] to changes in say, database objects, schemas, and more.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=59)** They should also be reliable and minimize pipeline downtime as much as possible.
 >
@@ -254,11 +251,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=76)** There are countless more requirements we could think of.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=79)** To satisfy requirements like these, data engineering teams need to be able to quickly evolve data pipelines by deploying changes to them in a fast, but also safe and reliable way.
+> **[1:19](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=79)** To satisfy requirements like these, [[Data Engineering]] teams need to be able to quickly evolve data pipelines by deploying changes to them in a fast, but also safe and reliable way.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=90)** DevOps best practices help engineering teams do exactly this.
 >
-> **[1:34](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=94)** DevOps practices are common in the world of software development, and more and more they're finding their way into the field of data engineering.
+> **[1:34](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=94)** DevOps practices are common in the world of [[Software Development]], and more and more they're finding their way into the field of data engineering.
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=102)** Okay. Enough of the high level, exactly which DevOps practices am I referring to?
 >
@@ -282,7 +279,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=160)** The third is automation, specifically automation around testing and deployment.
 >
-> **[2:45](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=165)** This is frequently known as continuous integration and continuous deployment, also known as CI/CD.
+> **[2:45](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=165)** This is frequently known as [[Continuous Integration (CI)|continuous integration]] and continuous deployment, also known as CI/CD.
 >
 > **[2:52](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980&t=172)** We'll get into the details behind this concept in an upcoming video.
 >
@@ -308,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (10), teams (9), data (8), [[Engineering]] (4), [[Data Engineering]] (3)
+> **Frameworks & Libraries:** [[DevOps]] (10), [[Data Pipelines]] (6), [[Data Engineering]] (3), [[Snowflake]] (2), [[React.js|React]] (1)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** cd (1)
 > **Cross-References:** in the next (1)
@@ -316,24 +313,23 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Analogies:** for example (1)
 
-#### DevOps with Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980)
+#### [DevOps with Snowflake](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=0)** Continuously evolving data pipelines in a fast yet safe and reliable way is at the heart of what DevOps for data engineering can help do.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=0)** Continuously evolving [[Data Pipelines]] in a fast yet safe and reliable way is at the heart of what [[DevOps]] for [[Data Engineering]] can help do.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=9)** In this exercise, we'll cover how Snowflake supports the following DevOps practices, specifically around source control, collaboration, declarative management of code, automation, and tooling.
+> **[0:09](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=9)** In this exercise, we'll cover how [[Snowflake]] supports the following DevOps practices, specifically around source control, collaboration, declarative management of code, automation, and tooling.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=23)** Let's walk through the key features within Snowflake that support each of these best practices.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=28)** First, Snowflake's Git integration.
+> **[0:28](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=28)** First, Snowflake's [[Git]] integration.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=31)** This feature means you can use Git for source control along with the source control platform like GitHub, for example, and then connect your Snowflake account directly to the repository containing the code.
+> **[0:31](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=31)** This feature means you can use Git for source control along with the source control platform like [[GitHub]], for example, and then connect your Snowflake account directly to the repository containing the code.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=42)** This means your team can collaborate on your pipeline together, use source control for your code, and run files in Snowflake when needed.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=51)** The next feature is a new SQL command that goes hand in hand with source control, CREATE OR ALTER.
+> **[0:51](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=51)** The next feature is a new [[SQL]] command that goes hand in hand with source control, CREATE OR ALTER.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=58)** The CREATE OR ALTER command allows you to declaratively manage Snowflake objects like tables, for example.
 >
@@ -347,7 +343,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=94)** These next two things will go hand in hand and will round out what we'll cover in this course as it relates to DevOps with Snowflake for data engineering.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=102)** I'm referring specifically to Snowflake's command line interface, Snowflake CLI and GitHub Actions.
+> **[1:42](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=102)** I'm referring specifically to Snowflake's command line interface, Snowflake [[CLI]] and GitHub Actions.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-with-snowflake?u=76281980&t=109)** The Snowflake CLI is a powerful command line interface for doing all sorts of things with Snowflake, from creating applications that run on Snowflake, creating Snowpark projects, managing Snowpark container services, and much more.
 >
@@ -365,7 +361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (17), [[DevOps]] (6), [[GitHub]] (5), data (4), [[Git]] (4)
+> **Frameworks & Libraries:** [[Snowflake]] (17), [[DevOps]] (6), [[GitHub]] (5), [[Git]] (4), [[CLI]] (4)
 > **Env Vars:** cli (4), create (3), alter (3), sql (2)
 > **Tools:** github (5), command line (2)
 > **CLI Commands:** git (4)
@@ -373,12 +369,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 
-#### What we'll build
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980)
+#### [What we'll build](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=0)** Let's put these DevOps practices to use with a scenario.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=0)** Let's put these [[DevOps]] practices to use with a scenario.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=4)** The pipeline that we're going to build off of is the pipeline that we built in the first course.
 >
@@ -388,15 +383,15 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=18)** Recall that we built this pipeline because of strange weather-related anomalies that affected food truck sales in that city.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=25)** You can imagine that you're on a data engineering team and you've been tasked with updating the pipeline with new changes.
+> **[0:25](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=25)** You can imagine that you're on a [[Data Engineering]] team and you've been tasked with updating the pipeline with new changes.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=32)** The pipeline needs to now do the following: employ source control, support incremental changes to new database objects, and allow continuous deployment to staging and production environments.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=44)** To do this, we'll use Snowflake's Git integration and GitHub for source control.
+> **[0:44](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=44)** To do this, we'll use [[Snowflake]]'s [[Git]] integration and [[GitHub]] for source control.
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=50)** We'll use the CREATE OR ALTER command to declaratively add and modify database objects.
 >
-> **[0:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=55)** And finally, we'll use Snowflake CLI and GitHub Actions to test and deploy changes to the pipeline.
+> **[0:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=55)** And finally, we'll use Snowflake [[CLI]] and GitHub Actions to test and deploy changes to the pipeline.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/what-we-ll-build?u=76281980&t=62)** Don't worry if you're not an expert with Git or GitHub, I'll walk you through those steps to make sure you're successful.
 >
@@ -406,20 +401,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[DevOps]] (2), database (2), [[Snowflake]] (2), [[Git]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[DevOps]] (2), [[Snowflake]] (2), [[Git]] (2), [[Data Engineering]] (1)
 > **CLI Commands:** git (2), make (1)
 > **Env Vars:** create (1), alter (1), cli (1)
 > **Tools:** github (3)
 > **Analogies:** imagine (1)
 
-#### Source control in Snowflake with Git
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980)
+#### [Source control in Snowflake with Git](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=0)** By now, you know that a key tenant of DevOps practices is source control.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=0)** By now, you know that a key tenant of [[DevOps]] practices is source control.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=5)** In this exercise, we'll implement source control for our pipeline by connecting Snowflake to GitHub using Snowflake's Git integration.
+> **[0:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=5)** In this exercise, we'll implement source control for our pipeline by connecting [[Snowflake]] to [[GitHub]] using Snowflake's [[Git]] integration.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=13)** In the next video, we'll build the pipeline.
 >
@@ -429,7 +423,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=27)** This is a good time to pause the video if you need to log into your GitHub account.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=33)** Start by navigating to the advanced data engineering Snowflake repo on GitHub.
+> **[0:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=33)** Start by navigating to the advanced [[Data Engineering]] Snowflake repo on GitHub.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=38)** This is the repo that will connect to Snowflake.
 >
@@ -449,7 +443,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=71)** Before we proceed, I want you to know that forking the repo is the most important step in the module.
 >
-> **[1:16](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=76)** If you skip forking, you won't be able to follow along in the rest of the module.
+> **[1:16](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=76)** If you skip forking, you won't be able to follow along in the [[Representational State Transfer (REST)|rest]] of the module.
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=81)** Okay. With our fork ready, let's briefly cover how we'll connect our Snowflake account to the GitHub repo.
 >
@@ -475,7 +469,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=134)** Now is a good time to pause the video if you need to log into your Snowflake account.
 >
-> **[2:18](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=138)** Navigate to Snowflake and create a new SQL worksheet.
+> **[2:18](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=138)** Navigate to Snowflake and create a new [[SQL]] worksheet.
 >
 > **[2:25](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=145)** Next, navigate to the API integration SQL file inside of the module-1 folder.
 >
@@ -501,7 +495,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=197)** On the left, click on developer settings.
 >
-> **[3:21](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=201)** Click on personal access tokens, then click on fine-grained token.
+> **[3:21](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=201)** Click on personal access [[Tokens]], then click on fine-grained token.
 >
 > **[3:25](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/source-control-in-snowflake-with-git?u=76281980&t=205)** Click generate a new token. Let's add a name for our token.
 >
@@ -625,7 +619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (26), [[Snowflake]] (22), api (13), [[Git]] (7), next (7)
+> **Frameworks & Libraries:** [[GitHub]] (26), [[Snowflake]] (22), [[Git]] (7), [[SQL]] (4), [[DevOps]] (2)
 > **Tools:** github (26)
 > **Env Vars:** api (13), url (5), sql (4), pat (2)
 > **UI Navigation:** click on (15), navigate to (7), scroll down (1)
@@ -634,18 +628,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (2), configure (2), you'll need (1)
 > **Cross-References:** in the next (2)
 
-#### Set up the data pipeline using snowflake CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980)
+#### [Set up the data pipeline using snowflake CLI](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=0)** Now that we've connected Snowflake to the GitHub repo, let's set up our pipeline. To complete this exercise, be sure you completed the instructions and the reading that precedes this video.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=0)** Now that we've connected [[Snowflake]] to the [[GitHub]] repo, let's set up our pipeline. To complete this exercise, be sure you completed the instructions and the reading that precedes this video.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=11)** We'll need to do two things.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=13)** First, load the data for the pipeline, and second, build the pipeline objects using that data.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=20)** To do this, we're going to use Snowflake CLI.
+> **[0:20](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=20)** To do this, we're going to use Snowflake [[CLI]].
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=23)** What is Snowflake CLI?
 >
@@ -653,13 +646,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=28)** It is super powerful and can do many things with your Snowflake projects.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=32)** For example, you can use it to start Snowpark objects, execute Snowflake notebooks and SQL directly from the command line, bootstrap a Snowflake native app, and much more.
+> **[0:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=32)** For example, you can use it to start Snowpark objects, execute Snowflake notebooks and [[SQL]] directly from the command line, bootstrap a Snowflake native app, and much more.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=44)** We're specifically going to use the CLI's snow git execute command.
+> **[0:44](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=44)** We're specifically going to use the CLI's snow [[Git]] execute command.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=49)** This command will execute a file or a series of files in a repository path.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=54)** These files can be SQL files or Python files.
+> **[0:54](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=54)** These files can be SQL files or [[Python (Programming Language)|Python]] files.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=58)** Here's how we'll use it.
 >
@@ -667,7 +660,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=64)** We'll run this command against a directory that contains all of the data that needs to be loaded into our Snowflake account and all of the pipeline objects built using that data.
 >
-> **[1:14](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=74)** One really neat thing is that we're going to be able to pass in an argument to the command so that we can create staging and production data environments and corresponding data pipelines in each of those environments.
+> **[1:14](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=74)** One really neat thing is that we're going to be able to pass in an argument to the command so that we can create staging and production data environments and corresponding [[Data Pipelines]] in each of those environments.
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=87)** More details on that setup in an upcoming exercise.
 >
@@ -683,7 +676,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=116)** Let's start by first taking a look at the files we'll run.
 >
-> **[2:01](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=121)** Navigate to the module-1 folder of the advanced data engineering Snowflake repo.
+> **[2:01](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=121)** Navigate to the module-1 folder of the advanced [[Data Engineering]] Snowflake repo.
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=126)** Open the hamburg_weather folder.
 >
@@ -691,7 +684,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=135)** This file contains all of the code to create our data environments.
 >
-> **[2:19](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=139)** You can see this file is parameterized, which you can recognize by the templating used here with the word env.
+> **[2:19](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=139)** You can see this file is parameterized, which you can recognize by the templating used here with the [[Microsoft Word|word]] env.
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=146)** When we run our CLI command, we'll pass in an argument that this file will interpolate throughout the code.
 >
@@ -739,7 +732,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=252)** So now type /branches/main.
 >
-> **[4:19](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=259)** Let's finish this up by typing the rest of the path to the file.
+> **[4:19](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=259)** Let's finish this up by typing the [[Representational State Transfer (REST)|rest]] of the path to the file.
 >
 > **[4:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=262)** /module1/hamburg_weather/pipeline /data/load_tasty_bytes.sql.
 >
@@ -827,7 +820,7 @@ created: 2026-05-02
 >
 > **[8:50](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=530)** This pipeline represents the live pipeline being actively used for whatever end purpose, in this case, for building a Streamlit and Snowflake application.
 >
-> **[9:01](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=541)** This entire workflow is part of a DevOps best practice known as continuous deployment.
+> **[9:01](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=541)** This entire workflow is part of a [[DevOps]] best practice known as continuous deployment.
 >
 > **[9:08](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/set-up-the-data-pipeline-using-snowflake-cli?u=76281980&t=548)** This practice lets data engineers safely introduce new changes and roll them out to the end user after confirming that they work properly.
 >
@@ -871,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Snowflake]] (18), database (6), [[CLI]] (5), [[SQL]] (5)
+> **Frameworks & Libraries:** [[Snowflake]] (18), [[CLI]] (5), [[SQL]] (5), [[Git]] (4), [[Microsoft Word|Word]] (4)
 > **Env Vars:** cli (5), staging (3), sql (2), prod (1)
 > **UI Navigation:** navigate to (4), click on (3), select the (2), open the (1)
 > **CLI Commands:** git (4), make (2), python (1)
@@ -880,8 +873,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (5), setup (1)
 > **File Paths:** load_tasty_bytes.sql (2), app.py (2), data/load_tasty_bytes.sql (1)
 
-#### Database change management (DCM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980)
+#### [Database change management (DCM)](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=38)** My colleague, Jeremiah Hansen has what I feel is a clear and comprehensive definition of this practice.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=46)** He says, "Database Change Management, DCM, is the practice of defining all database objects in code, in a Git repository, and then deploying those objects, including changes to those objects, to a database with the help of a dedicated tool."
+> **[0:46](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=46)** He says, "Database Change Management, DCM, is the practice of defining all database objects in code, in a [[Git]] repository, and then deploying those objects, including changes to those objects, to a database with the help of a dedicated tool."
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=62)** This exercise will cover the first half of that definition, namely, defining objects in code and using Git to implement source control.
 >
@@ -925,7 +917,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=132)** With an imperative approach, it's the norm to have multiple scripts that gradually evolve the table to the desired end state.
 >
-> **[2:20](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=140)** For example, I might apply script 01.sql to more of the table in a certain way, followed by script 02.sql, and then finally script 03.sql.
+> **[2:20](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=140)** For example, I might apply script 01.[[SQL]] to more of the table in a certain way, followed by script 02.sql, and then finally script 03.sql.
 >
 > **[2:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=152)** And after applying script 03.sql, I might stand up and celebrate. This imperative approach is a common way of managing database state, but it also comes with its own challenges.
 >
@@ -943,7 +935,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=206)** This approach also forces that work onto a human versus say, software or a tool, which I'll get into more in a bit.
 >
-> **[3:34](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=214)** And last but not least, if you have multiple databases, you now need to maintain the version or state of each database, and frankly, that can mean a lot of state management.
+> **[3:34](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=214)** And last but not least, if you have multiple [[Databases]], you now need to maintain the version or state of each database, and frankly, that can mean a lot of state management.
 >
 > **[3:46](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=226)** So as you can imagine, all of this can quickly feel like a challenging undertaking.
 >
@@ -963,7 +955,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=284)** This approach means we can introduce changes, safely test them out in an environment of our choice, collaborate with teammates on those changes and keep track of it all.
 >
-> **[4:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=295)** This also means we can minimize risks to the pipeline and therefore the end user, all while maintaining DevOps best practices.
+> **[4:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=295)** This also means we can minimize risks to the pipeline and therefore the end user, all while maintaining [[DevOps]] best practices.
 >
 > **[5:04](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=304)** So which approach is better, imperative or declarative?
 >
@@ -975,7 +967,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=322)** If it works for you and your team, then great, you should stick with it.
 >
-> **[5:26](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=326)** In practice, we see that teams may use a combination of both approaches to meet their needs, and you most likely will need to use multiple tools to manage all Snowflake objects.
+> **[5:26](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=326)** In practice, we see that teams may use a combination of both approaches to meet their needs, and you most likely will need to use multiple tools to manage all [[Snowflake]] objects.
 >
 > **[5:37](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=337)** We also see that teams augment their approach with third-party tools like Schemachange or Liquibase to help them with DCM.
 >
@@ -983,13 +975,13 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=355)** Be sure to check it out to get a more holistic view of approaches to DCM with Snowflake.
 >
-> **[6:01](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=361)** In the context of DevOps, the declarative approach lends itself much better to DevOps practices for data pipelines, and this is the approach that we'll employ in our pipeline.
+> **[6:01](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=361)** In the context of DevOps, the declarative approach lends itself much better to DevOps practices for [[Data Pipelines]], and this is the approach that we'll employ in our pipeline.
 >
 > **[6:12](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/database-change-management-dcm?u=76281980&t=372)** Join me in the next video to get hands-on with our declarative approach with Snowflake.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), management (6), data (5), [[SQL]] (4), [[DevOps]] (3)
+> **Frameworks & Libraries:** [[SQL]] (4), [[DevOps]] (3), [[Snowflake]] (3), [[Git]] (2), [[Databases]] (1)
 > **Analogies:** for example (3), imagine (2)
 > **File Paths:** 03.sql (2), 01.sql (1), 02.sql (1)
 > **CLI Commands:** git (2), make (2)
@@ -997,12 +989,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** in the next (1)
 
-#### Declarative approach with CREATE OR ALTER
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980)
+#### [Declarative approach with CREATE OR ALTER](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=0)** Now that you know a bit about imperative and declarative approaches for DCM, let's dive into Snowflake's declarative approach functionality.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=0)** Now that you know a bit about imperative and declarative approaches for DCM, let's dive into [[Snowflake]]'s declarative approach functionality.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=8)** The CREATE OR ALTER command.
 >
@@ -1014,9 +1005,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=40)** This means we can easily use a declarative approach to manage objects in Snowflake.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=45)** And when we couple this with Snowflake's Git integration for source control, we have an approach that allows us to not only easily modify and evolve object definitions over time, but to also keep track of all changes.
+> **[0:45](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=45)** And when we couple this with Snowflake's [[Git]] integration for source control, we have an approach that allows us to not only easily modify and evolve object definitions over time, but to also keep track of all changes.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=59)** All of this is strongly in line with DevOps best practices.
+> **[0:59](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=59)** All of this is strongly in line with [[DevOps]] best practices.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=63)** Here's how you would typically use the command.
 >
@@ -1052,7 +1043,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=156)** Now is a good time to pause a video if you need to log into your Snowflake account.
 >
-> **[2:40](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=160)** Okay. Let's start by creating a couple of branches on GitHub.
+> **[2:40](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=160)** Okay. Let's start by creating a couple of branches on [[GitHub]].
 >
 > **[2:45](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=165)** Start by navigating to your forked repo on GitHub.
 >
@@ -1116,7 +1107,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=306)** Now let's pull in the branches that we created on GitHub.
 >
-> **[5:10](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=310)** Click on the fetch button to bring in the branches.
+> **[5:10](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=310)** Click on the [[Fetch]] button to bring in the branches.
 >
 > **[5:15](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=315)** Next, click on branch and set the branch to Fix Missing Data.
 >
@@ -1126,7 +1117,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=333)** Click on the IPYNB file. With it highlighted, click select file.
 >
-> **[5:39](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=339)** Next, complete the rest of the modal.
+> **[5:39](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=339)** Next, complete the [[Representational State Transfer (REST)|rest]] of the modal.
 >
 > **[5:42](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=342)** For notebook location, select Staging Tasty Bytes and select the public schema.
 >
@@ -1168,7 +1159,7 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=440)** So let's fix this.
 >
-> **[7:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=442)** Let's take a look at the Load_Tasty_Bytes.sql file in VS Code.
+> **[7:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=442)** Let's take a look at the Load_Tasty_Bytes.[[SQL]] file in VS Code.
 >
 > **[7:29](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=449)** It looks like the table is created just fine, but why doesn't it have data?
 >
@@ -1184,7 +1175,7 @@ created: 2026-05-02
 >
 > **[7:52](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=472)** I'll copy it, paste it in a new SQL cell and uncomment it.
 >
-> **[8:08](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=488)** I'll replace ENV with the word STAGING. You could do this programmatically, but for two lines, it's not worth the effort to me.
+> **[8:08](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=488)** I'll replace ENV with the [[Microsoft Word|word]] STAGING. You could do this programmatically, but for two lines, it's not worth the effort to me.
 >
 > **[8:18](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=498)** Let's run the cell.
 >
@@ -1234,7 +1225,7 @@ created: 2026-05-02
 >
 > **[10:01](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=601)** Make sure the ENV environment is set to STAGING.
 >
-> **[10:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=605)** You can see we templatize here as well with Python f-string.
+> **[10:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=605)** You can see we templatize here as well with [[Python (Programming Language)|Python]] f-string.
 >
 > **[10:09](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=609)** Run the code and there it is.
 >
@@ -1328,11 +1319,11 @@ created: 2026-05-02
 >
 > **[13:36](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=816)** Finally, we pushed up the changes as a pull request for consideration and now you're on your way to implementing DevOps best practices.
 >
-> **[13:44](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=824)** With that, join me in the next video to learn about continuous integration and continuous delivery for data pipelines.
+> **[13:44](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/declarative-approach-with-create-or-alter?u=76281980&t=824)** With that, join me in the next video to learn about [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] for [[Data Pipelines]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), next (13), [[Snowflake]] (11), [[Git]] (8), feature (8)
+> **Frameworks & Libraries:** [[Snowflake]] (11), [[Git]] (8), [[SQL]] (5), [[GitHub]] (4), [[DevOps]] (3)
 > **Env Vars:** create (9), alter (7), env (3), staging (3), replace (2)
 > **CLI Commands:** make (9), git (8), find (2), python (1)
 > **UI Navigation:** click on (8), select the (4), dropdown (3), open the (3), go to (1)
@@ -1341,14 +1332,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (3)
 > **Code Identifiers:** course_repo (1), hamburg_weather (1)
 
-#### Continuous integration and continuous delivery (CI/CD) for data pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980)
+#### [Continuous integration and continuous delivery (CI/CD) for data pipelines](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=0)** If DevOps practices help you collaborate with many teammates and increase your velocity in introducing changes, how do they help ensure that those changes are correct and reliable and don't negatively impact say a data pipeline, for example?
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=0)** If [[DevOps]] practices help you collaborate with many teammates and increase your velocity in introducing changes, how do they help ensure that those changes are correct and reliable and don't negatively impact say a data pipeline, for example?
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=16)** This is where the concepts of continuous integration and continuous delivery often shortened to CI/CD play an important role.
+> **[0:16](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=16)** This is where the concepts of [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] often shortened to CI/CD play an important role.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=25)** Continuous integration refers to the practice of introducing changes into a central code base and running automated tests and builds on those introduced changes.
 >
@@ -1388,13 +1378,13 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=154)** This is because implementations can vary immensely from data environment to data environment.
 >
-> **[2:40](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=160)** Rather, we're going to focus on the functionality and tools that Snowflake provides to help you implement efficient continuous delivery of data pipelines.
+> **[2:40](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=160)** Rather, we're going to focus on the functionality and tools that [[Snowflake]] provides to help you implement efficient continuous delivery of [[Data Pipelines]].
 >
-> **[2:49](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=169)** We'll focus on introducing changes using source control, deploying those changes to specific environments to test out the changes, and automating this entire workflow with the command line and GitHub Actions.
+> **[2:49](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=169)** We'll focus on introducing changes using source control, deploying those changes to specific environments to test out the changes, and automating this entire workflow with the command line and [[GitHub]] Actions.
 >
 > **[3:02](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=182)** Here's specifically what we'll do.
 >
-> **[3:04](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=184)** First, we're going to use Snowflake CLI.
+> **[3:04](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=184)** First, we're going to use Snowflake [[CLI]].
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=187)** Earlier, I mentioned using tools to move quickly as part of DevOps, and oftentimes teams use product-specific command line interfaces to achieve this.
 >
@@ -1404,13 +1394,13 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=213)** We'll dive into the details of different components of this in an upcoming exercise and I'll walk you through the process step by step.
 >
-> **[3:41](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=221)** We've now covered two of the three DevOps best practices for data engineering, source control, and declarative change management.
+> **[3:41](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=221)** We've now covered two of the three DevOps best practices for [[Data Engineering]], source control, and declarative change management.
 >
 > **[3:50](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/continuous-integration-and-continuous-delivery-ci-cd-for-data-pipelines?u=76281980&t=230)** Let's dive into the third, implementing continuous delivery for our data pipelines.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Continuous Delivery (CD)|Continuous delivery]] (4), teams (4), [[DevOps]] (3), [[Snowflake]] (3)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), [[DevOps]] (3), [[Snowflake]] (3), [[GitHub]] (3), [[Continuous Integration (CI)|Continuous integration]] (2)
 > **Tools:** github (3), command line (2)
 > **CLI Commands:** cd (2), find (1)
 > **Analogies:** for example (2), just like (1)
@@ -1418,18 +1408,17 @@ created: 2026-05-02
 > **Definitions:** refers to (2)
 > **Prerequisites:** set up (1)
 
-#### Implementing continuous delivery for our data pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980)
+#### [Implementing continuous delivery for our data pipeline](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=0)** Let's take our DevOps practices full circle for our pipeline and actually implement continuous delivery.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=0)** Let's take our [[DevOps]] practices full circle for our pipeline and actually implement [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=7)** For our pipeline, continuous delivery will mean introducing changes that are source-controlled.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=13)** We'll use Git and GitHub for this.
+> **[0:13](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=13)** We'll use [[Git]] and [[GitHub]] for this.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=15)** It'll also mean deploying and testing changes out in a development environment in Snowflake.
+> **[0:15](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=15)** It'll also mean deploying and testing changes out in a development environment in [[Snowflake]].
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=21)** This would happen before deploying those changes to our production environment, which is also in Snowflake.
 >
@@ -1439,7 +1428,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=42)** And finally, we'll use tools to help speed up continuous delivery.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=46)** In addition to GitHub Actions, we'll use Snowflake CLI to deploy changes to our Snowflake environments.
+> **[0:46](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=46)** In addition to GitHub Actions, we'll use Snowflake [[CLI]] to deploy changes to our Snowflake environments.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=53)** Before diving in, let's quickly reorient ourselves.
 >
@@ -1571,7 +1560,7 @@ created: 2026-05-02
 >
 > **[6:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=415)** Navigate to Snowflake and locate the Git repo object.
 >
-> **[7:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=425)** Click the fetch button. Great.
+> **[7:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=425)** Click the [[Fetch]] button. Great.
 >
 > **[7:09](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/implementing-continuous-delivery-for-our-data-pipeline?u=76281980&t=429)** Now we're synced to what we have on GitHub.
 >
@@ -1683,7 +1672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (24), [[Snowflake]] (23), [[Continuous Delivery (CD)|Continuous delivery]] (5), data (5), [[Git]] (4)
+> **Frameworks & Libraries:** [[GitHub]] (24), [[Snowflake]] (23), [[Continuous Delivery (CD)|Continuous delivery]] (5), [[Git]] (4), [[CLI]] (3)
 > **Tools:** github (24)
 > **UI Navigation:** click on (10), navigate to (8), select the (2), go to (1)
 > **Prerequisites:** set up (6), configure (4)
@@ -1692,12 +1681,11 @@ created: 2026-05-02
 > **CLI Commands:** git (4), cd (1), find (1)
 > **Code Identifiers:** github_ref_name (3), deploy_env (2), hamburg_weather (1)
 
-#### Recap and best practices for DevOps with Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980)
+#### [Recap and best practices for DevOps with Snowflake](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=0)** Let's recap everything that you learned about DevOps with Snowflake.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=0)** Let's recap everything that you learned about [[DevOps]] with [[Snowflake]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=5)** By this point, you understand that DevOps is a collection of best practices that enable teams to easily collaborate, track their work, and deploy changes quickly and safely.
 >
@@ -1705,25 +1693,25 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=21)** For our purposes, we focused on how these practices are commonly realized through the use of collaborative tools, automated workflows, source control, and command-line tooling.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=33)** We specifically centered on how these practices can be incorporated for data engineering and we implemented them directly into our pipeline.
+> **[0:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=33)** We specifically centered on how these practices can be incorporated for [[Data Engineering]] and we implemented them directly into our pipeline.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=42)** You also learned how Snowflake supports each of these aspects.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=46)** For source control, you know Snowflake's Git integration makes it easy to keep track of changes to your pipeline.
+> **[0:46](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=46)** For source control, you know Snowflake's [[Git]] integration makes it easy to keep track of changes to your pipeline.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=53)** You also saw how Snowflake's declarative functionality, CREATE OR ALTER, makes it easy to incrementally iterate on database objects.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=62)** Paired with source control, this is a powerful declarative approach.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=67)** For collaboration, we use Snowflake's Git integration with GitHub so that we can build pipelines collaboratively with teammates.
+> **[1:07](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=67)** For collaboration, we use Snowflake's Git integration with [[GitHub]] so that we can build pipelines collaboratively with teammates.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=75)** For automation, you saw how easy it is to integrate with a third-party tool like GitHub Actions to automate the deployment of changes into Snowflake.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=85)** And last, for tooling, you use Snowflake CLI to push changes up to GitHub which triggered deployments into Snowflake.
+> **[1:25](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=85)** And last, for tooling, you use Snowflake [[CLI]] to push changes up to GitHub which triggered deployments into Snowflake.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=92)** All of this is quite modern.
 >
-> **[1:34](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=94)** This is a workflow that is common in software engineering like application development, for example, and is increasingly becoming more common in data engineering.
+> **[1:34](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=94)** This is a workflow that is common in software engineering like [[Application Development]], for example, and is increasingly becoming more common in data engineering.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=104)** One thing you should keep in mind is that what you learned in this module is pretty cutting-edge stuff with Snowflake.
 >
@@ -1733,11 +1721,11 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=128)** Great job.
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=129)** Join me in the next module as we go one step further and learn about how to implement observability into your data pipelines.
+> **[2:09](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-devops-with-snowflake?u=76281980&t=129)** Join me in the next module as we go one step further and learn about how to implement observability into your [[Data Pipelines]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (9), [[DevOps]] (3), [[GitHub]] (3), teams (2), data (2)
+> **Frameworks & Libraries:** [[Snowflake]] (9), [[DevOps]] (3), [[GitHub]] (3), [[Git]] (2), [[CLI]] (1)
 > **Env Vars:** create (1), alter (1), cli (1)
 > **Tools:** github (3)
 > **Definitions:** is a  (3)
@@ -1751,8 +1739,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Observability for data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980)
+#### [Observability for data engineering](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1768,7 +1755,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=50)** Being able to keep track of dimensions like these was crucial to making sure the electrical grid maintained strict uptime requirements for customers.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=59)** There are many parallels in the data engineering world.
+> **[0:59](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=59)** There are many parallels in the [[Data Engineering]] world.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=62)** Data engineers must frequently keep track of important data pipeline metrics to understand pipeline performance and to take action when something is out of line.
 >
@@ -1796,7 +1783,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=140)** For example, it's common to keep an eye on things like failures.
 >
-> **[2:23](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=143)** This is a big focus and data engineers frequently track failures related to data quality, data loading, failed queries, connection failures, scheduling hiccups, and much more.
+> **[2:23](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=143)** This is a big focus and data engineers frequently track failures related to [[Data Quality]], data loading, failed queries, connection failures, scheduling hiccups, and much more.
 >
 > **[2:35](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=155)** Throughput: this refers to the rate at which data is being transferred through the pipeline.
 >
@@ -1806,7 +1793,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=166)** Latency: this is a bit related to throughput, focusing specifically on the speed of certain aspects.
 >
-> **[2:53](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=173)** This could be keeping an eye on the rate at which data makes it into Snowflake or the latency related to a query or maybe the end-to-end latency of the pipeline.
+> **[2:53](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=173)** This could be keeping an eye on the rate at which data makes it into [[Snowflake]] or the latency related to a query or maybe the end-to-end latency of the pipeline.
 >
 > **[3:02](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980&t=182)** Is it successfully delivering its outputs at the required speed?
 >
@@ -1826,14 +1813,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Programming]] (1), [[Data Engineering]] (1), [[Automation]] (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Snowflake]] (1)
 > **Definitions:** is a  (3), known as (1), means that (1), refers to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Foundational concepts of observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/foundational-concepts-of-observability?u=76281980)
+#### [Foundational concepts of observability](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/foundational-concepts-of-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1887,28 +1873,27 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/foundational-concepts-of-observability?u=76281980&t=148)** For effective observability, you want a detailed trail of what's occurred so that you can understand exactly what failed to execute, along with the conditions that were present in the system when that thing failed.
 >
-> **[2:42](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/foundational-concepts-of-observability?u=76281980&t=162)** Logs, traces, and metrics help you achieve this for data pipelines.
+> **[2:42](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/foundational-concepts-of-observability?u=76281980&t=162)** Logs, traces, and metrics help you achieve this for [[Data Pipelines]].
 >
-> **[2:47](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/foundational-concepts-of-observability?u=76281980&t=167)** And when used effectively, you'll be able to easily tell whether a failure is related to transformation logic, data quality, compute resources, or anything else you're keeping track of.
+> **[2:47](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/foundational-concepts-of-observability?u=76281980&t=167)** And when used effectively, you'll be able to easily tell whether a failure is related to transformation logic, [[Data Quality]], compute resources, or anything else you're keeping track of.
 >
 > **[2:59](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/foundational-concepts-of-observability?u=76281980&t=179)** And you'd be able to do this without diving into a line-by-line audit of your code.
 >
-> **[3:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/foundational-concepts-of-observability?u=76281980&t=185)** So join me in the next video to understand how Snowflake supports observability.
+> **[3:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/foundational-concepts-of-observability?u=76281980&t=185)** So join me in the next video to understand how [[Snowflake]] supports observability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Debugging]] (2), next (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (1), [[Data Quality]] (1), [[Snowflake]] (1)
 > **Env Vars:** cpu (1), gpu (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Warnings:** troubleshoot (1)
 
-#### Observability with Snowflake Trail
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-snowflake-trail?u=76281980)
+#### [Observability with Snowflake Trail](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-snowflake-trail?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-snowflake-trail?u=76281980&t=0)** We've covered the foundational concepts of observability, so how exactly does Snowflake implement them?
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-snowflake-trail?u=76281980&t=0)** We've covered the foundational concepts of observability, so how exactly does [[Snowflake]] implement them?
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-snowflake-trail?u=76281980&t=7)** Observability with Snowflake is made up of a few foundational objects and features: event tables, alerts, and notifications.
 >
@@ -1928,7 +1913,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-snowflake-trail?u=76281980&t=63)** This collective set of native features within Snowflake represents Snowflake's observability framework, formally known as Snowflake Trail.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-snowflake-trail?u=76281980&t=72)** This framework makes it easy to apply the foundational concepts that we just covered to your data pipelines. Apart from its ease of use, my favorite thing about Snowflake Trail is that it's built on the OpenTelemetry standard.
+> **[1:12](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-snowflake-trail?u=76281980&t=72)** This framework makes it easy to apply the foundational concepts that we just covered to your [[Data Pipelines]]. Apart from its ease of use, my favorite thing about Snowflake Trail is that it's built on the OpenTelemetry standard.
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-snowflake-trail?u=76281980&t=85)** If you're not familiar with it, the OpenTelemetry standard is a vendor-neutral, open-source standard that defines a consistent way to capture telemetry like logs, traces, and metrics.
 >
@@ -1938,18 +1923,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (12), data (3), open-source (1), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (12), [[Data Pipelines]] (1)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 
-#### Event Tables in Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980)
+#### [Event Tables in Snowflake](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=0)** Event tables are the core foundational object in Snowflake that you can use to store telemetry about your pipelines.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=0)** Event tables are the core foundational object in [[Snowflake]] that you can use to store telemetry about your pipelines.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=7)** They're mostly like your common table object in Snowflake, but they're a little special in the sense that they're specifically designed for capturing telemetry.
 >
@@ -1967,7 +1951,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=51)** Now is a good time to pause the video and log into your Snowflake account.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=56)** Start by opening a new SQL worksheet.
+> **[0:56](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=56)** Start by opening a new [[SQL]] worksheet.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=63)** Set your role to account admin.
 >
@@ -2017,7 +2001,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=221)** We're going to use the pipeline events event table to capture telemetry for our Hamburg weather pipeline.
 >
-> **[3:47](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=227)** We're not going to do this in a declarative fashion or introduce these changes using the DevOps practices that we covered in the previous module.
+> **[3:47](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=227)** We're not going to do this in a declarative fashion or introduce these changes using the [[DevOps]] practices that we covered in the previous module.
 >
 > **[3:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/event-tables-in-snowflake?u=76281980&t=235)** This is so that you can focus on the core concepts and mechanics of observability without getting distracted by how to introduce these new changes with DevOps, which by the way, you already learned how to do in the last module.
 >
@@ -2025,14 +2009,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (11), database (2), [[DevOps]] (2), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (11), [[DevOps]] (2), [[SQL]] (1)
 > **Cross-References:** we covered (1), in the last (1), in the next (1)
 > **Env Vars:** sql (1), utc (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Logging in Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980)
+#### [Logging in Snowflake](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2046,7 +2029,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=40)** This could help them measure its success and when necessary help them debug it.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=45)** Snowflake supports five standard log levels that align with common logging frameworks.
+> **[0:45](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=45)** [[Snowflake]] supports five standard log levels that align with common logging frameworks.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=51)** Those levels are debug, which contains detailed diagnostic information.
 >
@@ -2070,7 +2053,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=126)** For example, stored procedures are common places to generate logs from.
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=131)** I prefer writing my procedures in Python, so the Python logging library that I would use would be Logging.
+> **[2:11](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=131)** I prefer writing my procedures in [[Python (Programming Language)|Python]], so the Python logging library that I would use would be Logging.
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=139)** Yes, that's the actual name of the library.
 >
@@ -2090,7 +2073,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=182)** Now is a good time to pause the video if you need to log into your Snowflake account.
 >
-> **[3:08](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=188)** Navigate to the sproc.sql file in the module-2 folder.
+> **[3:08](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=188)** Navigate to the sproc.[[SQL]] file in the module-2 folder.
 >
 > **[3:13](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/logging-in-snowflake?u=76281980&t=193)** Copy its contents and paste them into a new SQL worksheet.
 >
@@ -2190,7 +2173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Snowflake]] (4), [[Python (Programming Language)|Python]] (4), [[SQL]] (2), next (2)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Python (Programming Language)|Python]] (4), [[SQL]] (2)
 > **Analogies:** for example (3), imagine (2)
 > **CLI Commands:** python (4)
 > **Code Identifiers:** log_level (2), process_order_headers_stream (1), infof (1)
@@ -2199,12 +2182,11 @@ created: 2026-05-02
 > **Env Vars:** sql (1), pii (1)
 > **File Paths:** sproc.sql (1)
 
-#### Traces in Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980)
+#### [Traces in Snowflake](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=0)** Capturing traces is a little different from capturing logs in Snowflake.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=0)** Capturing traces is a little different from capturing logs in [[Snowflake]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=5)** This is because traces can contain much more information about how events in a system occurred.
 >
@@ -2212,9 +2194,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=19)** The practical implementation is different, too.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=22)** You used a common Python logging library in the last exercise, but to capture traces, you'll need to use Snowflake-specific libraries that are designed for the handler code you're using.
+> **[0:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=22)** You used a common [[Python (Programming Language)|Python]] logging library in the last exercise, but to capture traces, you'll need to use Snowflake-specific libraries that are designed for the handler code you're using.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=33)** These libraries are available in Java, JavaScript, Python, Scala, and Snowflake scripting.
+> **[0:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=33)** These libraries are available in [[Java]], [[JavaScript]], Python, [[Scala]], and Snowflake scripting.
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=40)** We're going to use them shortly in a Python environment.
 >
@@ -2266,7 +2248,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=176)** Now is a good time to pause the video if you need to into your Snowflake account.
 >
-> **[3:02](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=182)** Let's open up our SQL worksheet from earlier where we added logging.
+> **[3:02](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=182)** Let's open up our [[SQL]] worksheet from earlier where we added logging.
 >
 > **[3:06](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=186)** If you don't have it handy, you can find the code in the solution folder of the module-2 folder.
 >
@@ -2334,7 +2316,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=432)** Let's rerun our entire worksheet and see how traces are captured in the event table.
 >
-> **[7:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=453)** You can see from this last line, we're filtering on record types that have the word span in them, and yes, there they are.
+> **[7:33](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=453)** You can see from this last line, we're filtering on record types that have the [[Microsoft Word|word]] span in them, and yes, there they are.
 >
 > **[7:41](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/traces-in-snowflake?u=76281980&t=461)** You can see span and span event records.
 >
@@ -2352,7 +2334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (7), [[Python (Programming Language)|Python]] (5), [[SQL]] (3), next (3), [[Java]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[Python (Programming Language)|Python]] (5), [[SQL]] (3), [[Java]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** add_event (2), query_begin (2), order_header_stream (2), solutions_sproc_logs (1), trace_level (1)
 > **Definitions:** is a  (6), known as (1), is called (1)
 > **CLI Commands:** python (5), make (1), find (1)
@@ -2361,8 +2343,7 @@ created: 2026-05-02
 > **Analogies:** think of it as (1), for example (1)
 > **File Paths:** solutions_sproc_logs.sql (1)
 
-#### Alerts in Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980)
+#### [Alerts in Snowflake](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2370,11 +2351,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=8)** Another equally important part is the ability to be alerted when key events occur in your data environment.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=15)** This is where Snowflake's alerts feature can help immensely.
+> **[0:15](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=15)** This is where [[Snowflake]]'s alerts feature can help immensely.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=19)** Alerts in Snowflake allow you to perform an action in your data environment when specific conditions are met.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=25)** These actions can include sending out e-mail notifications or even executing a SQL statement, for example.
+> **[0:25](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=25)** These actions can include sending out e-mail notifications or even executing a [[SQL]] statement, for example.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=32)** An alert is made up of three components.
 >
@@ -2386,7 +2367,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=55)** They frequently play a role across several different aspects of a pipeline.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=60)** For example, you can use alerts on compute resources for generating notifications on data processing failures, and even for taking action if your data fails to comply with a particular business rule.
+> **[1:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=60)** For example, you can use alerts on compute resources for generating notifications on [[Data Processing]] failures, and even for taking action if your data fails to comply with a particular business rule.
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=72)** These are just some examples.
 >
@@ -2398,7 +2379,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=88)** If these values are null, we'll create an entry in a table.
 >
-> **[1:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=92)** This will help us keep a record of a potential data quality event.
+> **[1:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=92)** This will help us keep a record of a potential [[Data Quality]] event.
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/alerts-in-snowflake?u=76281980&t=97)** You can imagine that we might want to be notified immediately if order amounts and totals somehow mysteriously begin disappearing.
 >
@@ -2526,7 +2507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Snowflake]] (7), next (6), [[SQL]] (4), feature (1)
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[SQL]] (4), [[Data Quality]] (4), [[Data Processing]] (1)
 > **Code Identifiers:** order_data_quality_alert (2), compute_wh (1), row_pos (1), notify_data_quality_team (1)
 > **Analogies:** for example (2), imagine (2)
 > **Env Vars:** sql (3)
@@ -2535,12 +2516,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **UI Navigation:** navigate to (1), scroll down (1)
 
-#### Notifications in Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980)
+#### [Notifications in Snowflake](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=0)** Notifications in Snowflake allow you to really level up what you're doing with alerts.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=0)** Notifications in [[Snowflake]] allow you to really level up what you're doing with alerts.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=5)** And what I love about the notifications feature is that there are so many different ways to use it.
 >
@@ -2554,9 +2534,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=32)** In fact, you're able to send notifications to e-mail addresses, webhooks.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=38)** Webhooks are useful for broader team channels like Slack or Microsoft Teams, for example.
+> **[0:38](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=38)** Webhooks are useful for broader team channels like [[Slack]] or [[Microsoft Teams]], for example.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=43)** And you can even send notifications to cloud provider queues like Amazon SNS, Google Cloud Pub/Sub, and Azure Event Grid.
+> **[0:43](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=43)** And you can even send notifications to cloud provider queues like Amazon SNS, [[Google Cloud Platform (GCP)|Google Cloud]] Pub/Sub, and [[Microsoft Azure|Azure]] Event Grid.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=52)** Notifications are frequently combined with alerts.
 >
@@ -2568,11 +2548,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=80)** So let's get hands-on and add a notification for our pipeline.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=83)** We'll want to send an e-mail to our data quality team if we observe null values in our order header table.
+> **[1:23](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=83)** We'll want to send an e-mail to our [[Data Quality]] team if we observe null values in our order header table.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=90)** Now is a good time to pause a video if you need to log into your Snowflake account.
 >
-> **[1:36](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=96)** Locate the notification.sql file in the module-2 folder.
+> **[1:36](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=96)** Locate the notification.[[SQL]] file in the module-2 folder.
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=103)** Copy its contents.
 >
@@ -2668,13 +2648,13 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=387)** The code that we implemented focuses on using alerts and notifications based on order data, but remember, you can use alerts and notifications for just about any other use case as well.
 >
-> **[6:39](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=399)** Alerts can be set up for just about anything like compute resources, services consumption, or even data validation logic.
+> **[6:39](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=399)** Alerts can be set up for just about anything like compute resources, services consumption, or even [[Data Validation]] logic.
 >
 > **[6:47](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=407)** You can then tie these alerts with a notification if you'd like.
 >
 > **[6:50](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=410)** This means you can use this pattern for many other aspects of your data pipeline.
 >
-> **[6:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=415)** Now, ideally, your notifications are as close to real-time as possible but, of course, you should weigh this against the type of alert you're triggering off of.
+> **[6:55](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=415)** Now, ideally, your notifications are as close to [[Real-Time]] as possible but, of course, you should weigh this against the type of alert you're triggering off of.
 >
 > **[7:05](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/notifications-in-snowflake?u=76281980&t=425)** For example, an alert that signals a breaking change in a critical pipeline likely warrants a real-time notification, but a warning about a slightly slower-than-expected ingestion speed might not.
 >
@@ -2692,7 +2672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (11), next (8), data (7), [[Slack]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (11), [[Slack]] (2), [[Data Quality]] (2), [[SQL]] (2), [[Real-Time]] (2)
 > **Code Identifiers:** notification_integration (1), mail_notification_int (1), notify_data_quality_team (1), send_email (1), email_notification_int (1)
 > **Analogies:** for example (4), imagine (1)
 > **Env Vars:** sns (1), sql (1)
@@ -2701,16 +2681,15 @@ created: 2026-05-02
 > **Warnings:** note that (1), warning (1)
 > **Prerequisites:** set up (2)
 
-#### Observability with third-party tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-third-party-tools?u=76281980)
+#### [Observability with third-party tools](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-third-party-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-third-party-tools?u=76281980&t=0)** Observability is natively present throughout Snowflake without needing to use event tables, logs, or traces to implement it.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-third-party-tools?u=76281980&t=0)** Observability is natively present throughout [[Snowflake]] without needing to use event tables, logs, or traces to implement it.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-third-party-tools?u=76281980&t=9)** For example, Snowflake natively offers observability for snow pipes, dynamic tables, data lineage, and more.
+> **[0:09](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-third-party-tools?u=76281980&t=9)** For example, Snowflake natively offers observability for snow pipes, dynamic tables, [[Data Lineage]], and more.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-third-party-tools?u=76281980&t=16)** All of this helps you build flexible, observability-based dashboards within Snowflake.
+> **[0:16](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-third-party-tools?u=76281980&t=16)** All of this helps you build flexible, observability-based [[Dashboards]] within Snowflake.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-with-third-party-tools?u=76281980&t=22)** But observability with Snowflake doesn't end with its native features.
 >
@@ -2724,16 +2703,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (7), data (1), [[Dashboards]] (1), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[Data Lineage]] (1), [[Dashboards]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Recap and best practices for observability with Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-observability-with-snowflake?u=76281980)
+#### [Recap and best practices for observability with Snowflake](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-observability-with-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-observability-with-snowflake?u=76281980&t=0)** Let's recap everything that you've learned about observability with Snowflake.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-observability-with-snowflake?u=76281980&t=0)** Let's recap everything that you've learned about observability with [[Snowflake]].
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-observability-with-snowflake?u=76281980&t=4)** We covered the core components that make up Snowflake's observability framework, also known as Snowflake Trail.
 >
@@ -2757,7 +2735,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-observability-with-snowflake?u=76281980&t=81)** There are likely always going to be more dimensions to track, more conditions to alert about, and new notifications to send out for those alerts.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-observability-with-snowflake?u=76281980&t=90)** And with this core knowledge of observability practices in Snowflake, you're now ready to take your data pipelines to the next level.
+> **[1:30](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-observability-with-snowflake?u=76281980&t=90)** And with this core knowledge of observability practices in Snowflake, you're now ready to take your [[Data Pipelines]] to the next level.
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/recap-and-best-practices-for-observability-with-snowflake?u=76281980&t=97)** You can use it to help not only yourself, but your teammates and keep an eye on any aspect of your data pipeline.
 >
@@ -2767,26 +2745,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (7), data (6), next (2)
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[Data Pipelines]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we covered (1), in the next (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=0)** I mentioned this in [[Introduction to Modern Data Engineering with Snowflake]] and it's too important not to mention again.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=0)** I mentioned this in [[Introduction to Modern [[Data Engineering]] with [[Snowflake]]]] and it's too important not to mention again.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=7)** Much of your experience is going to come from putting your hands on the keyboard and tinkering with pipelines using the documentation, videos, tutorials, and more.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=16)** This goes for both concepts covered in this course, DevOps and observability.
+> **[0:16](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=16)** This goes for both concepts covered in this course, [[DevOps]] and observability.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=22)** For DevOps, we covered cutting-edge features within Snowflake that allow teams to build declarative data pipelines that are able to respond quickly to constantly changing demands.
+> **[0:22](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=22)** For DevOps, we covered cutting-edge features within Snowflake that allow teams to build declarative [[Data Pipelines]] that are able to respond quickly to constantly changing demands.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=32)** You specifically learned how to use CREATE OR ALTER, Snowflake's Git integration, GitHub Actions, and Snowflake CLI to build a pipeline that can do this.
+> **[0:32](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=32)** You specifically learned how to use CREATE OR ALTER, Snowflake's [[Git]] integration, [[GitHub]] Actions, and Snowflake [[CLI]] to build a pipeline that can do this.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/conclusion?u=76281980&t=43)** For observability, we covered Snowflake Trail and you learned about the vast trove of information that you can capture and analyze about your data pipelines.
 >
@@ -2800,7 +2777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (6), data (3), [[DevOps]] (2), [[Data Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[Data Pipelines]] (3), [[DevOps]] (2), [[Data Engineering]] (1), [[Git]] (1)
 > **Env Vars:** create (1), alter (1), cli (1)
 > **Cross-References:** we covered (2)
 > **CLI Commands:** git (1)

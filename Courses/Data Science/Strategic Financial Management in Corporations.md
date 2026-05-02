@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Drive business success through strategic financial management
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/drive-business-success-through-strategic-financial-management?u=76281980)
+#### [Drive business success through strategic financial management](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/drive-business-success-through-strategic-financial-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/drive-business-success-through-strategic-financial-management?u=76281980&t=9)** They’re the strategic tools that can help shape your company’s success story.
 >
-> **[0:14](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/drive-business-success-through-strategic-financial-management?u=76281980&t=14)** Hi, I'm Michelle Pineda, a licensed CPA in the state of Texas, founding partner of J&M Advising, and a seasoned corporate finance professional spanning operations, financial planning and analysis, consulting, and innovation.
+> **[0:14](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/drive-business-success-through-strategic-financial-management?u=76281980&t=14)** Hi, I'm Michelle Pineda, a licensed CPA in the state of Texas, founding partner of J&M Advising, and a seasoned [[Corporate Finance]] professional spanning operations, [[Financial Planning]] and analysis, consulting, and innovation.
 >
 > **[0:30](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/drive-business-success-through-strategic-financial-management?u=76281980&t=30)** I've spent my career helping businesses solve challenges from transforming financial processes to optimizing finance management, ensuring that companies aren't just surviving, but thriving.
 >
@@ -116,11 +115,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Financial Planning]] (1), career (1), management (1)
+> **Frameworks & Libraries:** [[Financial Planning]] (1)
 > **Env Vars:** cpa (1), roi (1)
 
-#### Course advisory
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/course-advisory?u=76281980)
+#### [Course advisory](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/course-advisory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,7 +142,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Warnings:** keep in mind (1)
 
 
@@ -152,8 +149,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Differentiate between corporate financial structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980)
+#### [Differentiate between corporate financial structures](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +177,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980&t=80)** Centralized models can make it harder to quickly adapt to local market needs.
 >
-> **[1:26](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980&t=86)** In contrast, a decentralized structure delegates financial decision-making authority to individual business units or regional offices.
+> **[1:26](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980&t=86)** In contrast, a decentralized structure delegates financial [[Decision-Making]] authority to individual business units or regional offices.
 >
 > **[1:37](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980&t=97)** This model empowers local teams allowing for greater agility and market responsiveness.
 >
@@ -191,7 +187,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980&t=115)** This flexible structure allows McDonald's to adapt quickly to local tastes and market conditions, such as introducing region-specific menu items.
 >
-> **[2:07](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980&t=127)** However, decentralization also comes with challenges as it can lead to inconsistencies and complicate the consolidation of financial reports.
+> **[2:07](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980&t=127)** However, [[Decentralization]] also comes with challenges as it can lead to inconsistencies and complicate the consolidation of financial reports.
 >
 > **[2:18](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980&t=138)** So what's your approach?
 >
@@ -203,13 +199,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Decision-Making]] (1), teams (1), [[Decentralization]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Decentralization]] (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Align financial structure with business strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/align-financial-structure-with-business-strategy?u=76281980)
+#### [Align financial structure with business strategy](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/align-financial-structure-with-business-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,7 +256,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), teams (2)
 > **Analogies:** think of it like (1), imagine (1)
 > **CLI Commands:** make (1)
 
@@ -270,8 +264,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evaluate corporate investment opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/evaluate-corporate-investment-opportunities?u=76281980)
+#### [Evaluate corporate investment opportunities](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/evaluate-corporate-investment-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,14 +320,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** npv (2), irr (2)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** imagine (1)
 
-#### Maximize capital allocation for ROI in corporate finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/maximize-capital-allocation-for-roi-in-corporate-finance?u=76281980)
+#### [Maximize capital allocation for ROI in corporate finance](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/maximize-capital-allocation-for-roi-in-corporate-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,14 +363,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1)
 > **Env Vars:** npv (2), irr (1), roi (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 
-#### Apply scenario planning for long-term investments
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/apply-scenario-planning-for-long-term-investments?u=76281980)
+#### [Apply scenario planning for long-term investments](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/apply-scenario-planning-for-long-term-investments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,7 +396,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/apply-scenario-planning-for-long-term-investments?u=76281980&t=61)** These may include economic conditions, technological advancements, competitive dynamics, customer preferences, regulatory changes, or geopolitical risks.
 >
-> **[1:14](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/apply-scenario-planning-for-long-term-investments?u=76281980&t=74)** Next, gather historical data, market research, and expert insights to understand the trends and patterns related to the key drivers.
+> **[1:14](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/apply-scenario-planning-for-long-term-investments?u=76281980&t=74)** Next, gather historical data, [[Market Research]], and expert insights to understand the trends and patterns related to the key drivers.
 >
 > **[1:25](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/apply-scenario-planning-for-long-term-investments?u=76281980&t=85)** This provides the foundation for predicting potential outcomes.
 >
@@ -437,7 +426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Market Research]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** roi (1)
@@ -449,8 +438,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strengthen capital structure for corporate growth
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/strengthen-capital-structure-for-corporate-growth?u=76281980)
+#### [Strengthen capital structure for corporate growth](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/strengthen-capital-structure-for-corporate-growth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -520,14 +508,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** you'll need (1)
 
-#### Implement strategic debt financing
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/implement-strategic-debt-financing?u=76281980)
+#### [Implement strategic debt financing](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/implement-strategic-debt-financing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,7 +527,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/implement-strategic-debt-financing?u=76281980&t=20)** So what is debt financing and why does it matter?
 >
-> **[0:23](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/implement-strategic-debt-financing?u=76281980&t=23)** It's essentially borrowing money through loans, bonds, or credit lines to fund your business operations or investments.
+> **[0:23](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/implement-strategic-debt-financing?u=76281980&t=23)** It's essentially borrowing money through loans, bonds, or credit lines to fund your [[Business Operations]] or investments.
 >
 > **[0:33](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/implement-strategic-debt-financing?u=76281980&t=33)** The upside?
 >
@@ -603,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), management (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Best Practices:** you should always (1)
@@ -613,14 +599,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enhance cash flow management for corporate financial health
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980)
+#### [Enhance cash flow management for corporate financial health](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=0)** Let me ask you a question.
 >
-> **[0:02](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=2)** If you could only pick one of the three major financial statements, those being the income statement, balance sheet, and cash flow statement, which one would it be?
+> **[0:02](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=2)** If you could only pick one of the three major [[Financial Statements]], those being the income statement, balance sheet, and cash flow statement, which one would it be?
 >
 > **[0:12](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=12)** I love to ask this question in interviews -- -- and there is a right answer: cash flow statement.
 >
@@ -632,7 +617,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=30)** Let's explore how you can manage cash flow effectively to keep your company financially healthy and thriving.
 >
-> **[0:38](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=38)** Effective cash flow management ensures a company can meet its short-term obligations while investing in future growth.
+> **[0:38](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=38)** Effective [[Cash Flow Management]] ensures a company can meet its short-term obligations while investing in future growth.
 >
 > **[0:46](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=46)** In this lesson, you'll build techniques for implementing cash flow strategies that balance liquidity with profitability.
 >
@@ -646,7 +631,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=73)** To stay on top of it, you need to track and forecast your cash inflows and outflows.
 >
-> **[1:20](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=80)** Many companies use forecasting tools to anticipate cash needs weeks or even months in advance, identifying any potential shortfalls as early as possible.
+> **[1:20](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=80)** Many companies use [[Forecasting]] tools to anticipate cash needs weeks or even months in advance, identifying any potential shortfalls as early as possible.
 >
 > **[1:32](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980&t=92)** Next, a big part of improving cash flow lies in accelerating how quickly cash comes into the business.
 >
@@ -682,14 +667,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Financial Statements]] (1), [[Cash Flow Management]] (1), [[Forecasting]] (1), next (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1), [[Cash Flow Management]] (1), [[Forecasting]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Best Practices:** don't forget (1)
 
-#### Balance inventory, receivables, and payables
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/balance-inventory-receivables-and-payables?u=76281980)
+#### [Balance inventory, receivables, and payables](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/balance-inventory-receivables-and-payables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -713,7 +697,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/balance-inventory-receivables-and-payables?u=76281980&t=64)** The sweet spot lies in understanding demand patterns.
 >
-> **[1:07](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/balance-inventory-receivables-and-payables?u=76281980&t=67)** By analyzing sales and using forecasting tools, you can stock the right products in the right amount.
+> **[1:07](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/balance-inventory-receivables-and-payables?u=76281980&t=67)** By analyzing sales and using [[Forecasting]] tools, you can stock the right [[Microsoft Products|products]] in the right amount.
 >
 > **[1:15](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/balance-inventory-receivables-and-payables?u=76281980&t=75)** This is important, especially during seasonal peaks or industry shifts.
 >
@@ -757,15 +741,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), product (1), [[Forecasting]] (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Microsoft Products|Products]] (1)
 
 
 ### 5. Assess Valuation and Navigate Post-Merger Integration
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assess company valuation for mergers and acquisitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/assess-company-valuation-for-mergers-and-acquisitions?u=76281980)
+#### [Assess company valuation for mergers and acquisitions](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/assess-company-valuation-for-mergers-and-acquisitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,7 +764,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/assess-company-valuation-for-mergers-and-acquisitions?u=76281980&t=29)** The numbers tell a story, and your job is to understand it.
 >
-> **[0:34](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/assess-company-valuation-for-mergers-and-acquisitions?u=76281980&t=34)** This means diving into historical financial statements, cash flow projections, and debt obligations.
+> **[0:34](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/assess-company-valuation-for-mergers-and-acquisitions?u=76281980&t=34)** This means diving into historical [[Financial Statements]], cash flow projections, and debt obligations.
 >
 > **[0:42](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/assess-company-valuation-for-mergers-and-acquisitions?u=76281980&t=42)** It's not just about the financials, though.
 >
@@ -821,13 +804,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Financial Statements]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Analogies:** picture (3), imagine (1), for example (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 
-#### Develop a plan for post-merger integration success
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/develop-a-plan-for-post-merger-integration-success?u=76281980)
+#### [Develop a plan for post-merger integration success](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/develop-a-plan-for-post-merger-integration-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,7 +829,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/develop-a-plan-for-post-merger-integration-success?u=76281980&t=38)** The first step in post-merger integration success is operational due diligence.
 >
-> **[0:44](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/develop-a-plan-for-post-merger-integration-success?u=76281980&t=44)** This means going beyond the surface of the financial statements to understand the intricacies of the acquired company’s operations, culture, and processes.
+> **[0:44](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/develop-a-plan-for-post-merger-integration-success?u=76281980&t=44)** This means going beyond the surface of the [[Financial Statements]] to understand the intricacies of the acquired company’s operations, culture, and processes.
 >
 > **[0:56](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/develop-a-plan-for-post-merger-integration-success?u=76281980&t=56)** For example, reviewing financial structures helps you identify redundancies, areas for improvement, and potential risks.
 >
@@ -881,7 +863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
@@ -890,12 +872,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design a corporate risk management framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980)
+#### [Design a corporate risk management framework](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980&t=0)** Every company faces uncertainties, whether it's from market fluctuations, natural disasters, political unrest, to cybersecurity threats.
+> **[0:00](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980&t=0)** Every company faces uncertainties, whether it's from market fluctuations, natural disasters, political unrest, to [[Cybersecurity]] threats.
 >
 > **[0:10](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980&t=10)** The real question isn't whether about risks exist.
 >
@@ -903,7 +884,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980&t=15)** It's about how prepared your company is to tackle those issues head on.
 >
-> **[0:21](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980&t=21)** A structured risk management framework can mean the difference between navigating challenges successfully or being blindsided.
+> **[0:21](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980&t=21)** A structured [[Risk Management Framework (RMF)|risk management framework]] can mean the difference between navigating challenges successfully or being blindsided.
 >
 > **[0:30](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980&t=30)** Think of a risk management framework as your company's game plan for handling financial and operational uncertainties.
 >
@@ -957,18 +938,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), next (2), [[Cybersecurity]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), game (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise file (1), template (1)
 > **Analogies:** such as (2)
 > **Best Practices:** the key is (2)
 
-#### Ensure compliance and ethical financial practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/ensure-compliance-and-ethical-financial-practices?u=76281980)
+#### [Ensure compliance and ethical financial practices](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/ensure-compliance-and-ethical-financial-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/ensure-compliance-and-ethical-financial-practices?u=76281980&t=0)** Compliance and ethics aren't just boxes to check.
+> **[0:00](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/ensure-compliance-and-ethical-financial-practices?u=76281980&t=0)** Compliance and [[Ethics]] aren't just boxes to check.
 >
 > **[0:04](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/ensure-compliance-and-ethical-financial-practices?u=76281980&t=4)** They're the foundation of your company's reputation and long-term success.
 >
@@ -1008,7 +988,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/ensure-compliance-and-ethical-financial-practices?u=76281980&t=121)** Companies that own up to their mistakes, fix them fast, and make improvements come out stronger in the end.
 >
-> **[2:09](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/ensure-compliance-and-ethical-financial-practices?u=76281980&t=129)** Transparency and accountability are powerful tools for rebuilding trust.
+> **[2:09](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/ensure-compliance-and-ethical-financial-practices?u=76281980&t=129)** Transparency and [[Accountability]] are powerful tools for rebuilding trust.
 >
 > **[2:14](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/ensure-compliance-and-ethical-financial-practices?u=76281980&t=134)** Take a moment to assess your company's approach to compliance and ethics.
 >
@@ -1022,7 +1002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (5), business (1), next (1), leadership (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (5), [[Accountability]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
@@ -1032,8 +1012,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Achieve corporate finance success
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/achieve-corporate-finance-success?u=76281980)
+#### [Achieve corporate finance success](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/achieve-corporate-finance-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1038,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/achieve-corporate-finance-success?u=76281980&t=39)** And if you want to connect, I'd love to hear from you.
 >
-> **[0:41](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/achieve-corporate-finance-success?u=76281980&t=41)** Find me on LinkedIn or reach out through my website, [jandmadvising.com](https://jandmadvising.com).
+> **[0:41](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/achieve-corporate-finance-success?u=76281980&t=41)** Find me on [[LinkedIn]] or reach out through my website, [jandmadvising.com](https://jandmadvising.com).
 >
 > **[0:47](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/achieve-corporate-finance-success?u=76281980&t=47)** I'm here to help.
 >
@@ -1069,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), leadership (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [jandmadvising.com](https://jandmadvising.com) (1)
 

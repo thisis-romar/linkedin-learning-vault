@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn robust financial modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/learn-robust-financial-modeling?u=76281980)
+#### [Learn robust financial modeling](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/learn-robust-financial-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -81,7 +80,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/learn-robust-financial-modeling?u=76281980&t=4)** How will your organization choose the best course of action, especially when it comes to the all important numbers?
 >
-> **[0:12](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/learn-robust-financial-modeling?u=76281980&t=12)** The answer lies in financial modeling.
+> **[0:12](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/learn-robust-financial-modeling?u=76281980&t=12)** The answer lies in [[Financial Modeling]].
 >
 > **[0:15](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/learn-robust-financial-modeling?u=76281980&t=15)** At its core, financial modeling is about gathering and organizing reliable data to help predict future outcomes, or at the very least, make well-informed estimates.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Modeling]] (2), data (2)
+> **Frameworks & Libraries:** [[Financial Modeling]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [joshua] (1)
 
@@ -102,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are financial models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980)
+#### [What are financial models?](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=0)** - [Instructor] Financial modeling.
+> **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=0)** - [Instructor] [[Financial Modeling]].
 >
 > **[0:02](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=2)** To some folks, myself included, it's truly a joy to work in this space.
 >
@@ -123,7 +121,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=33)** Boom, the globe has blown.
 >
-> **[0:36](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=36)** Now, at this moment, you are probably more concerned about overcooking the veggies than replacing the globe, but at some stage, you are going to have to head to the hardware store for a replacement.
+> **[0:36](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=36)** Now, at this moment, you are probably more concerned about overcooking the veggies than replacing the globe, but at some stage, you are going to have to head to the [[Hardware]] store for a replacement.
 >
 > **[0:48](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=48)** Once you're there, you'll be overwhelmed by the magnitude of choices available.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=171)** And then finally, a small peak at the end to decommission the asset.
 >
-> **[2:56](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=176)** Contrast this with the same solution that's provided via software as a service.
+> **[2:56](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=176)** Contrast this with the same solution that's provided via [[SaaS|software as a service]].
 >
 > **[3:03](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980&t=183)** The monthly running costs are much higher, but there's no investment spike because my client didn't need to purchase anything such as software or infrastructure.
 >
@@ -171,25 +169,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Modeling]] (4), business (2), power (2), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (4), [[Hardware]] (1), [[SaaS|Software as a service]] (1)
 > **Analogies:** imagine (2), such as (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** led (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Guiding decision makers with a financial model
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980)
+#### [Guiding decision makers with a financial model](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=0)** - [Instructor] There's a perception that financial modeling is purely some kind of back-office accounting activity.
+> **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=0)** - [Instructor] There's a perception that [[Financial Modeling]] is purely some kind of back-[[Microsoft Office|office]] accounting activity.
 >
 > **[0:06](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=6)** And I'll admit at times, working on a large and complex financial model can kind of make you feel like a penguin lost in the Antarctic.
 >
 > **[0:15](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=15)** So how about we give some context to financial modeling?
 >
-> **[0:20](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=20)** In 2016, Microsoft acquired LinkedIn for a reported $26.2 billion.
+> **[0:20](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=20)** In 2016, [[Microsoft]] acquired [[LinkedIn]] for a reported $26.2 billion.
 >
 > **[0:28](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=28)** Kraft and Heinz merged in 2015 in a deal purported to be worth 100 billion dollars.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=136)** Then there's buying versus leasing.
 >
-> **[2:19](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=139)** Say your organization needs to make a new purchase to produce products or something, or perhaps a new IT system to deliver new services.
+> **[2:19](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=139)** Say your organization needs to make a new purchase to produce [[Microsoft Products|products]] or something, or perhaps a new IT system to deliver new services.
 >
 > **[2:30](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/guiding-decision-makers-with-a-financial-model?u=76281980&t=150)** A financial model can assist in deciding on whether or not to purchase or lease that asset.
 >
@@ -248,12 +245,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Value of interpersonal skills with financial modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980)
+#### [Value of interpersonal skills with financial modeling](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=0)** - [Instructor] You may have decided to watch this course because of your interest in the more technical aspects of financial modeling.
+> **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=0)** - [Instructor] You may have decided to watch this course because of your interest in the more technical aspects of [[Financial Modeling]].
 >
 > **[0:07](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=7)** Certainly as a model developer myself, I can understand that you need to have confidence in your product, but this is only part of what is truly needed to deliver successful outcomes.
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=66)** But this is exactly what you asked for.
 >
-> **[1:08](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=68)** Whew, now, the rest of the meeting is certainly a blur, but I do distinctly recall this feeling of being as exposed as a newborn child.
+> **[1:08](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=68)** Whew, now, the [[Representational State Transfer (REST)|rest]] of the meeting is certainly a blur, but I do distinctly recall this feeling of being as exposed as a newborn child.
 >
 > **[1:18](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=78)** Not only had I failed to deliver what my client needed, but my attitude stank.
 >
@@ -315,7 +311,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=207)** And lastly, verbal communication.
 >
-> **[3:30](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=210)** And note that I've said verbal communication here, because to me, and you may have a different opinion, electronic forms of communication tend to lead to ambiguity.
+> **[3:30](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=210)** And note that I've said verbal communication here, because to me, and you may have a different opinion, electronic [[Forms]] of communication tend to lead to ambiguity.
 >
 > **[3:42](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/value-of-interpersonal-skills-with-financial-modeling?u=76281980&t=222)** So even if you're confident in your work, I strongly encourage you to talk to your stakeholders face-to-face.
 >
@@ -329,7 +325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Modeling]] (4), product (1), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -339,8 +335,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for a successful financial model
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980)
+#### [Preparing for a successful financial model](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980&t=46)** Also, the stakeholders were questioning the integrity of the outputs.
 >
-> **[0:51](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980&t=51)** After spending some time working through the 50 odd Excel worksheets, I eventually figured out that this model was kind of like a mansion that started its life as a wee little cottage with each room progressively added on one at a time, as the owners decided that they needed more rooms.
+> **[0:51](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980&t=51)** After spending some time working through the 50 odd [[Microsoft Excel|Excel]] worksheets, I eventually figured out that this model was kind of like a mansion that started its life as a wee little cottage with each room progressively added on one at a time, as the owners decided that they needed more rooms.
 >
 > **[1:12](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980&t=72)** My client's model had started out simple enough, but over time, as each requirement was added, it grew into one hell of a beast that no one, not even the client, fully knew how to operate.
 >
@@ -396,7 +391,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980&t=181)** I then suggest that you include a section highlighting what information is needed and where it will come from.
 >
-> **[3:09](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980&t=189)** We are talking here about things like financial data, consumer transactions, and that kind of thing.
+> **[3:09](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980&t=189)** We are talking here about things like [[Financial Data]], consumer transactions, and that kind of thing.
 >
 > **[3:15](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980&t=195)** Next, you should include a timeline outlining the key milestones along the way, and always work backwards from when the model needs to be delivered.
 >
@@ -408,14 +403,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (2), [[Microsoft Excel|Excel]] (1), management (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Analogies:** picture (1), kind of like (1), for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Documenting the financial model design
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/documenting-the-financial-model-design?u=76281980)
+#### [Documenting the financial model design](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/documenting-the-financial-model-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,7 +449,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/documenting-the-financial-model-design?u=76281980&t=115)** You'll notice I've also outlined the cost drivers that will be needed to help achieve this step.
 >
-> **[2:02](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/documenting-the-financial-model-design?u=76281980&t=122)** And then Stage 3, these are the products and services that needed to be costed, including how we plan to map this from the activities captured in Stage 2.
+> **[2:02](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/documenting-the-financial-model-design?u=76281980&t=122)** And then Stage 3, these are the [[Microsoft Products|products]] and services that needed to be costed, including how we plan to map this from the activities captured in Stage 2.
 >
 > **[2:15](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/documenting-the-financial-model-design?u=76281980&t=135)** And then finally, at the very bottom of the schematic, we have Stage 4, this being the fully loaded product and service costs.
 >
@@ -471,15 +465,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding and analyzing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/understanding-and-analyzing-data?u=76281980)
+#### [Understanding and analyzing data](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/understanding-and-analyzing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,7 +528,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (1), next (1), business (1)
 > **Analogies:** imagine (2), for example (1), such as (1)
 > **Env Vars:** crm (3)
 > **Definitions:** is a  (1)
@@ -546,18 +538,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modeling tools and software
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980)
+#### [Modeling tools and software](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=0)** - [Instructor] When designing your financial model, in the back of your mind, or perhaps more consciously than that, you were probably wondering how to build your financial model.
 >
-> **[0:11](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=11)** When I last checked, there were literally hundreds of different software products available that can perform financial modeling, with many of them being fully integrated with finance systems, but let's not get too carried away.
+> **[0:11](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=11)** When I last checked, there were literally hundreds of different software [[Microsoft Products|products]] available that can perform [[Financial Modeling]], with many of them being fully integrated with finance systems, but let's not get too carried away.
 >
 > **[0:25](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=25)** Despite the wealth of options available.
 >
-> **[0:28](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=28)** I continue to see folks use spreadsheeting products such as Excel, and there's very good reason for this.
+> **[0:28](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=28)** I continue to see folks use spreadsheeting products such as [[Microsoft Excel|Excel]], and there's very good reason for this.
 >
 > **[0:37](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=37)** Financial models are usually quite unique.
 >
@@ -569,7 +560,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=56)** Excel is also quite cheap.
 >
-> **[0:59](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=59)** It's intuitive and widely available and very well supported by Microsoft and the learning community.
+> **[0:59](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=59)** It's intuitive and widely available and very well supported by [[Microsoft]] and the learning community.
 >
 > **[1:07](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980&t=67)** This means that if you get stuck, there's usually plenty of people around who can help solve a formula issue and the like.
 >
@@ -627,15 +618,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (13), hit (3), [[Microsoft Products|Products]] (2), [[Financial Modeling]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (13), [[Microsoft Products|Products]] (2), [[Financial Modeling]] (2), [[Microsoft]] (1)
 > **Env Vars:** c12 (2), c11 (2), d12 (2), j12 (1), d11 (1)
 > **Analogies:** such as (1), kind of like (1), similar to (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing modeling inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-modeling-inputs?u=76281980)
+#### [Preparing modeling inputs](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-modeling-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -649,7 +639,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-modeling-inputs?u=76281980&t=25)** Let's get straight into it.
 >
-> **[0:27](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-modeling-inputs?u=76281980&t=27)** Make sure that you have the Excel exercise file open for this movie.
+> **[0:27](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-modeling-inputs?u=76281980&t=27)** Make sure that you have the [[Microsoft Excel|Excel]] exercise file open for this movie.
 >
 > **[0:32](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-modeling-inputs?u=76281980&t=32)** What you're looking at is the start of a financial model.
 >
@@ -697,7 +687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (2), management (1), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** crm (4)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise file (2)
@@ -705,8 +695,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building model calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/building-model-calculations?u=76281980)
+#### [Building model calculations](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/building-model-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/building-model-calculations?u=76281980&t=19)** So, let's go ahead and complete this model.
 >
-> **[0:22](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/building-model-calculations?u=76281980&t=22)** Make sure that you have the Excel exercise file open for this video.
+> **[0:22](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/building-model-calculations?u=76281980&t=22)** Make sure that you have the [[Microsoft Excel|Excel]] exercise file open for this video.
 >
 > **[0:28](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/building-model-calculations?u=76281980&t=28)** Start by making sure that you're on the Business Rules worksheet.
 >
@@ -764,7 +753,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/building-model-calculations?u=76281980&t=202)** To do this in cell C17, type Equals.
 >
-> **[3:28](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/building-model-calculations?u=76281980&t=208)** Then select cell C15/ type in the word Power, open parentheses.
+> **[3:28](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/building-model-calculations?u=76281980&t=208)** Then select cell C15/ type in the [[Microsoft Word|word]] Power, open parentheses.
 >
 > **[3:38](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/building-model-calculations?u=76281980&t=218)** Then type one plus, and then select cell C6, which is the discount rate that we wish to use for this year.
 >
@@ -794,7 +783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), hit (3), management (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** c14 (2), d14 (2), c17 (2), c15 (2), crm (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (1), just like (1)
@@ -808,8 +797,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing the model's technical integrity
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980)
+#### [Testing the model's technical integrity](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -823,9 +811,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980&t=33)** So how about we talk about some safeguards that are sure to reduce these oh-no moments.
 >
-> **[0:39](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980&t=39)** Make sure that the Excel exercise file for this video is open.
+> **[0:39](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980&t=39)** Make sure that the [[Microsoft Excel|Excel]] exercise file for this video is open.
 >
-> **[0:45](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980&t=45)** Now, look, whilst we're working with Excel here, many of the concepts that I'm about to cover can be applied to other financial modeling products too.
+> **[0:45](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980&t=45)** Now, look, whilst we're working with Excel here, many of the concepts that I'm about to cover can be applied to other [[Financial Modeling]] [[Microsoft Products|products]] too.
 >
 > **[0:55](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980&t=55)** What you're looking at is a completed lifecycle costing model for a CRM.
 >
@@ -903,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (3), [[Financial Modeling]] (1), [[Microsoft Products|Products]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Financial Modeling]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** crm (1), g14 (1), f11 (1), c11 (1), c12 (1)
 > **UI Navigation:** click on (2), select the (1), right-click (1)
 > **CLI Commands:** make (3)
@@ -912,8 +900,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Testing the model's logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-logic?u=76281980)
+#### [Testing the model's logic](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,7 +916,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-logic?u=76281980&t=36)** Now, you might kind of feel that pride is at stake here, but let me assure you, it's much better for a trusted colleague to find an error in your work than for your manager to.
 >
-> **[0:46](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-logic?u=76281980&t=46)** Let's take a deeper dive, and if you'd like to follow along with me, then please open the Excel exercise file for this video.
+> **[0:46](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-logic?u=76281980&t=46)** Let's take a deeper dive, and if you'd like to follow along with me, then please open the [[Microsoft Excel|Excel]] exercise file for this video.
 >
 > **[0:55](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-logic?u=76281980&t=55)** What we have here is a completed lifecycle costing model for a CRM.
 >
@@ -959,7 +946,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-logic?u=76281980&t=152)** Now, that didn't take too long, did it?
 >
-> **[2:35](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-logic?u=76281980&t=155)** Performing sanity checks is a crucial step in financial modeling that goes beyond just verifying technical accuracy.
+> **[2:35](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-logic?u=76281980&t=155)** Performing sanity checks is a crucial step in [[Financial Modeling]] that goes beyond just verifying technical accuracy.
 >
 > **[2:43](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-logic?u=76281980&t=163)** By systematically reviewing the outputs of your model to ensure that they make logical sense, you can significantly enhance the reliability and credibility of your results.
 >
@@ -967,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), business (1), hit (1), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Financial Modeling]] (1)
 > **Env Vars:** npv (5), crm (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 6.57 (1), 5.98 (1)
@@ -981,8 +968,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Undertaking scenario analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/undertaking-scenario-analysis?u=76281980)
+#### [Undertaking scenario analysis](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/undertaking-scenario-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,7 +982,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/undertaking-scenario-analysis?u=76281980&t=32)** Let's take a look at how.
 >
-> **[0:34](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/undertaking-scenario-analysis?u=76281980&t=34)** Have the Excel exercise file open for this video, to follow along with me.
+> **[0:34](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/undertaking-scenario-analysis?u=76281980&t=34)** Have the [[Microsoft Excel|Excel]] exercise file open for this video, to follow along with me.
 >
 > **[0:41](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/undertaking-scenario-analysis?u=76281980&t=41)** what you're looking at is a completed lifecycle costing for A CRM.
 >
@@ -1032,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), feature (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** npv (4), crm (1), mpv (1)
 > **Versions:** 5.98 (1), 6.9 (1), 7.5 (1), 7.31 (1), 1.1 (1)
 > **Cross-References:** go back to (5)
@@ -1041,8 +1027,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 
-#### Presenting financial model results to stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/presenting-financial-model-results-to-stakeholders?u=76281980)
+#### [Presenting financial model results to stakeholders](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/presenting-financial-model-results-to-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,7 +1039,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/presenting-financial-model-results-to-stakeholders?u=76281980&t=18)** Let's say that you've completed a lifecycle costing model for a CRM.
 >
-> **[0:23](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/presenting-financial-model-results-to-stakeholders?u=76281980&t=23)** You've dedicated all this time to perform quality assurance, and even had some of your colleagues endorse your work.
+> **[0:23](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/presenting-financial-model-results-to-stakeholders?u=76281980&t=23)** You've dedicated all this time to perform [[Quality Assurance]], and even had some of your colleagues endorse your work.
 >
 > **[0:30](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/presenting-financial-model-results-to-stakeholders?u=76281980&t=30)** Now comes the moment of truth: presenting to your stakeholders.
 >
@@ -1102,18 +1087,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quality Assurance]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1)
 > **Env Vars:** crm (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importance of model documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/importance-of-model-documentation?u=76281980)
+#### [Importance of model documentation](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/importance-of-model-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/importance-of-model-documentation?u=76281980&t=0)** - [Tutor] So you're at the tail end of your financial modeling journey now.
+> **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/importance-of-model-documentation?u=76281980&t=0)** - [Tutor] So you're at the tail end of your [[Financial Modeling]] journey now.
 >
 > **[0:05](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/importance-of-model-documentation?u=76281980&t=5)** You've planned, designed, built and delivered your product to a standard that's worthy of a multi-billion dollar feat of engineering.
 >
@@ -1159,7 +1143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Modeling]] (4), business (2), product (1), [[Engineering]] (1), data (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
@@ -1169,12 +1153,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your financial modeling learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980)
+#### [Continuing your financial modeling learning journey](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=0)** - [Instructor] Thanks so much for taking the time to watch this introduction to Financial Modeling.
+> **[0:00](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=0)** - [Instructor] Thanks so much for taking the time to watch this introduction to [[Financial Modeling]].
 >
 > **[0:05](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=5)** I trust that you found your journey to be full of valuable insights.
 >
@@ -1184,13 +1167,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=18)** You've also gained the ability to integrate data from various sources, ensuring that your models are comprehensive and accurate.
 >
-> **[0:26](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=26)** By applying quality assurance techniques, you can now confidently question the integrity of your models.
+> **[0:26](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=26)** By applying [[Quality Assurance]] techniques, you can now confidently question the integrity of your models.
 >
 > **[0:33](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=33)** And lastly, you've explored how to use scenario analysis to understand the potential impacts of your models outputs.
 >
-> **[0:41](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=41)** And at the same time, you've learned how to ensure the longevity of your models through effective documentation and sustainability practices.
+> **[0:41](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=41)** And at the same time, you've learned how to ensure the longevity of your models through effective documentation and [[Sustainability]] practices.
 >
-> **[0:50](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=50)** If you're eager to take an even deeper dive into financial modeling, I highly recommend checking out some related LinkedIn learning courses.
+> **[0:50](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=50)** If you're eager to take an even deeper dive into financial modeling, I highly recommend checking out some related [[LinkedIn]] learning courses.
 >
 > **[0:59](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980&t=59)** These courses are designed to compliment your skills you've developed here and offer more advanced insights.
 >
@@ -1212,7 +1195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[LinkedIn]] (3), data (1), [[Quality Assurance]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[LinkedIn]] (3), [[Quality Assurance]] (1), [[Sustainability]] (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 

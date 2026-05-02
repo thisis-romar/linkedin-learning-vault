@@ -112,20 +112,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your own full-stack website using React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980)
+#### [Build your own full-stack website using React](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980&t=0)** - Imagine building and deploying your own full stack website using React.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980&t=0)** - Imagine building and deploying your own full stack website using [[React.js|React]].
 >
-> **[0:05](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980&t=5)** Imagine walking into a web development interview and instead of having to face a series of contrived technical interview questions, you come prepared with your very own full stack React application that you can show off to your interviewers.
+> **[0:05](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980&t=5)** Imagine walking into a [[Web Development]] interview and instead of having to face a series of contrived technical interview questions, you come prepared with your very own full stack React application that you can show off to your interviewers.
 >
 > **[0:18](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980&t=18)** Now, that is going to make a great impression, and could be the advantage you're looking for in landing the job of your dreams.
 >
 > **[0:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980&t=26)** So the question is are you up for the challenge?
 >
-> **[0:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980&t=29)** I'm Saun Wassell, and in this course, I'll be guiding you step by step through creating a full stack application with React, Node.js, Express and MongoDB, a setup commonly referred to as the MERN stack.
+> **[0:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980&t=29)** I'm Saun Wassell, and in this course, I'll be guiding you step by step through creating a full stack application with React, [[Node.js]], Express and [[MongoDB]], a setup commonly referred to as the MERN stack.
 >
 > **[0:42](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980&t=42)** By the end of the course, you'll have a fully functional hosted website, which is something that you can show off to your friends and yes, even potential employers.
 >
@@ -133,7 +132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), application (3), [[Web Development]] (1), [[Node.js]] (1), express (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Web Development]] (1), [[Node.js]] (1), [[MongoDB]] (1)
 > **CLI Commands:** make (1), node (1)
 > **Analogies:** imagine (2)
 > **File Paths:** node.js (1)
@@ -141,8 +140,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - imagine (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -150,9 +148,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/what-you-should-know?u=76281980&t=9)** So let's just go over what those are real quick.
 >
-> **[0:12](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/what-you-should-know?u=76281980&t=12)** The first thing is a basic knowledge of JavaScript syntax.
+> **[0:12](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/what-you-should-know?u=76281980&t=12)** The first thing is a basic knowledge of [[JavaScript]] syntax.
 >
-> **[0:16](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/what-you-should-know?u=76281980&t=16)** Obviously, since in order to use React you have to use a lot of JavaScript, it's going to be very helpful for you if you're already familiar with JavaScript's syntax.
+> **[0:16](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/what-you-should-know?u=76281980&t=16)** Obviously, since in order to use [[React.js|React]] you have to use a lot of JavaScript, it's going to be very helpful for you if you're already familiar with JavaScript's syntax.
 >
 > **[0:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/what-you-should-know?u=76281980&t=26)** And if you're not, you're more than welcome to try and follow along anyway, mostly just because JavaScript syntax is fairly straightforward.
 >
@@ -184,14 +182,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why React?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980)
+#### [Why React?](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980&t=0)** - [Instructor] All right, so to get started here, we're going to be building the front end of our blog site using React.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980&t=0)** - [Instructor] All right, so to get started here, we're going to be building the front end of our blog site using [[React.js|React]].
 >
-> **[0:07](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980&t=7)** Now, you may be wondering why we choose to use React instead of just creating our site using basic HTML, CSS, and JavaScript.
+> **[0:07](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980&t=7)** Now, you may be wondering why we choose to use React instead of just creating our site using basic [[HTML]], CSS, and [[JavaScript]].
 >
 > **[0:16](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980&t=16)** Well, React has a lot of advantages over hand coding a site.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980&t=30)** So as you'll see, it allows us to create modular, reusable components that can then be arranged into a fully functional website.
 >
-> **[0:39](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980&t=39)** Now, you may be wondering why you choose to use React over a platform like WordPress or Wix or Squarespace, which allow you to create a website in many cases without writing any code.
+> **[0:39](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980&t=39)** Now, you may be wondering why you choose to use React over a platform like [[WordPress]] or Wix or Squarespace, which allow you to create a website in many cases without writing any code.
 >
 > **[0:51](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980&t=51)** Well, first of all, since this course is aimed primarily at developers, if you want to create a blog and you're not already a fairly strong developer, I actually would recommend that you use one of these platforms instead of React.
 >
@@ -211,28 +208,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (10), [[HTML]] (1), css (1), [[JavaScript]] (1), functional (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[HTML]] (1), [[JavaScript]] (1), [[WordPress]] (1)
 > **Env Vars:** html (1), css (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a React project
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980)
+#### [Setting up a React project](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=0)** - [Instructor] All right, so now that we're a little bit more familiar with React and why it's going to be so helpful in creating a front end for our full-stack application, the next thing that we're going to do is see how to create a new React app.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=0)** - [Instructor] All right, so now that we're a little bit more familiar with [[React.js|React]] and why it's going to be so helpful in creating a front end for our full-stack application, the next thing that we're going to do is see how to create a new React app.
 >
 > **[0:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=13)** Now, the fastest way to set up a React app from scratch is by using a generator, and the one that we're going to use here is going to be called Vite, or Vite, as the site suggests you pronounce it.
 >
 > **[0:25](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=25)** It's apparently French for fast, so what we're going to do here, I'm going to start off with this directory here, and if you don't have the same files as I have here, don't worry too much about it.
 >
-> **[0:36](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=36)** These are just basic files from the GitHub repo that I'm going to be using.
+> **[0:36](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=36)** These are just basic files from the [[GitHub]] repo that I'm going to be using.
 >
-> **[0:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=40)** You can start with an empty directory if you want, and inside that empty directory, what you're going to want to do is open up a terminal, which you can do in Visual Studio Code or Codespaces by going to Terminal, New Terminal, and inside this terminal, you're going to run the following command.
+> **[0:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=40)** You can start with an empty directory if you want, and inside that empty directory, what you're going to want to do is open up a terminal, which you can do in Visual Studio Code or [[Codespaces]] by going to Terminal, New Terminal, and inside this terminal, you're going to run the following command.
 >
-> **[0:59](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=59)** You're going to say npm create, and then you're going to say vite@, and the recommended way of doing this for production purposes is to say @latest 'cause that will use the latest stable version to do this, but in order to make sure that you can actually use the exact same version, and in order to make sure all of the commands that I'm going to show you from here on out work for you, I'm going to suggest that you use the same version as I'm using here, which is 5.5.2, so you're going to run this command, npm create vite@5.5.2, and this is going to ask you some questions here.
+> **[0:59](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=59)** You're going to say [[npm]] create, and then you're going to say vite@, and the recommended way of doing this for production purposes is to say @latest 'cause that will use the latest stable version to do this, but in order to make sure that you can actually use the exact same version, and in order to make sure all of the commands that I'm going to show you from here on out work for you, I'm going to suggest that you use the same version as I'm using here, which is 5.5.2, so you're going to run this command, npm create vite@5.5.2, and this is going to ask you some questions here.
 >
 > **[1:39](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=99)** It's going to ask, first of all, is it okay to proceed?
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=122)** The next thing it's going to ask us is to select a framework, and I'm going to select React here.
 >
-> **[2:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=129)** You can actually create apps of plenty of other types, such as a Vue application, a Svelte application, just a vanilla JavaScript application if you want to, but obviously, since this is a course about full-stack React, we're going to choose React.
+> **[2:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=129)** You can actually create apps of plenty of other types, such as a [[Vue.js|Vue]] application, a Svelte application, just a [[Vanilla]] [[JavaScript]] application if you want to, but obviously, since this is a course about full-stack React, we're going to choose React.
 >
 > **[2:23](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-a-react-project?u=76281980&t=143)** Next thing it's going to ask us is if we want to use TypeScript or JavaScript.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (12), application (8), [[npm]] (5), next (4), front-end (4)
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[npm]] (5), [[Codespaces]] (3), [[JavaScript]] (3), [[GitHub]] (1)
 > **CLI Commands:** make (8), npm (5)
 > **Tools:** terminal (4), github (1), visual studio (1)
 > **Env Vars:** hmr (2), http (1), url (1), ports (1)
@@ -295,12 +291,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **Versions:** 5.5.2 (2)
 
-#### Creating the home page
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980)
+#### [Creating the home page](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=0)** - [Instructor] All right, so now that we've got a very basic React app up and running, let's start creating the pages for our blog site.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=0)** - [Instructor] All right, so now that we've got a very basic [[React.js|React]] app up and running, let's start creating the pages for our blog site.
 >
 > **[0:08](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=8)** Now, the first thing that we're going to do here, because it's going to make it easier for us, is we're going to create a new folder in our src directory for our front end, and we're going to call that folder pages.
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=174)** We can actually just leave those there if we wanted to.
 >
-> **[2:58](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=178)** I'm going to remove them just because we won't be needing those for the rest of the app.
+> **[2:58](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=178)** I'm going to remove them just because we won't be needing those for the [[Representational State Transfer (REST)|rest]] of the app.
 >
 > **[3:02](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=182)** We'll just remove all of those like so and import them again if we need them.
 >
@@ -368,13 +363,13 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=205)** So the next thing that we're going to need to do here is because we want our blog application to have multiple pages, right?
 >
-> **[3:33](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=213)** For example, we want to have a list of articles on the route/articles, and we want to be able to have maybe an about page on /about, we need to actually add routing to our app.
+> **[3:33](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=213)** For example, we want to have a list of articles on the route/articles, and we want to be able to have maybe an about page on /about, we need to actually add [[Routing]] to our app.
 >
 > **[3:47](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-the-home-page?u=76281980&t=227)** And that's what we're going to be taking a look at next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), application (3), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Routing]] (1)
 > **File Paths:** homepage.jsx (1), main.jsx (1), app.jsx (1)
 > **Definitions:** in other words (2), known as (1)
 > **CLI Commands:** make (2)
@@ -383,8 +378,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Exercise Files:** boilerplate (1)
 
-#### Adding React Router to an application
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980)
+#### [Adding React Router to an application](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -392,11 +386,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=14)** Alright, so in other words, we're going to need some sort of logic here that will look at the current path that's in the URL in our browser before deciding what to render.
 >
-> **[0:27](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=27)** Now there's actually a package that does this for us already and that is a package called React Router Dom.
+> **[0:27](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=27)** Now there's actually a package that does this for us already and that is a package called [[React.js|React]] Router Dom.
 >
 > **[0:36](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=36)** Now we do need to install this into our application.
 >
-> **[0:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=38)** So what you're going to want to do is open up your app, you can stop it too with Ctrl + C, and we're going to say, "npm install react-router-dom."
+> **[0:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=38)** So what you're going to want to do is open up your app, you can stop it too with Ctrl + C, and we're going to say, "[[npm]] install react-router-dom."
 >
 > **[0:50](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=50)** And in order to make sure that this is the same version as the one that I'm using, you're going to want to add a version on the end here.
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=129)** Cool, so now that we have those two things imported, here's what this is going to look like.
 >
-> **[2:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=133)** The first thing that we're going to need to do is define an array of JavaScript objects that will tell React Router Dom what page should be displayed for each path in our application, right?
+> **[2:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=133)** The first thing that we're going to need to do is define an array of [[JavaScript]] objects that will tell React Router Dom what page should be displayed for each path in our application, right?
 >
 > **[2:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=148)** So in other words, when we're at, let's say local host 5173/articles, what page component should we use there?
 >
@@ -518,7 +512,7 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=421)** Again, that was automatically imported for me.
 >
-> **[7:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=424)** That's what I'll be doing for the rest of these pages as well.
+> **[7:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=424)** That's what I'll be doing for the [[Representational State Transfer (REST)|rest]] of these pages as well.
 >
 > **[7:08](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=428)** Then for the articles list page, we're going to say, "path," that's going to be, "/articles."
 >
@@ -540,13 +534,13 @@ created: 2026-05-02
 >
 > **[7:58](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=478)** If we go to "/articles," we see, sure enough, this is the articles list page, and if we go to "/articles/individual," we see, that sure enough, that displays the individual article page.
 >
-> **[8:15](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=495)** Cool, so at this point, we have all of the routing set up for our pages.
+> **[8:15](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=495)** Cool, so at this point, we have all of the [[Routing]] set up for our pages.
 >
 > **[8:20](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-react-router-to-an-application?u=76281980&t=500)** So the next thing that we're going to do is actually start going through and implementing each of these pages in a little bit more of an exciting way than just showing what page it is using an h1 heading.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (8), dom (8), application (7), next (3), [[npm]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (8), [[npm]] (2), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Routing]] (1)
 > **Prerequisites:** install (4), set up (2), setup (1)
 > **CLI Commands:** npm (2), make (2)
 > **Env Vars:** url (3), jsx (1)
@@ -555,8 +549,7 @@ created: 2026-05-02
 > **File Paths:** app.jsx (1), aboutpage.jsx (1), articlepage.jsx (1)
 > **Definitions:** in other words (2), is a  (1)
 
-#### Using React Router links
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-react-router-links?u=76281980)
+#### [Using React Router links](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-react-router-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +583,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-react-router-links?u=76281980&t=89)** All right, and those are all just going to be list items inside of there, and that should be all we need to do, except now we want to link each of these things to the other pages.
 >
-> **[1:42](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-react-router-links?u=76281980&t=102)** So the way that we do this using react-router-dom, at least the V6, which is significantly different than versions 4 and 5, is we're going to say import and we're going to import a component called Link from react-router-dom.
+> **[1:42](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-react-router-links?u=76281980&t=102)** So the way that we do this using [[React.js|react]]-router-dom, at least the V6, which is significantly different than versions 4 and 5, is we're going to say import and we're going to import a component called Link from react-router-dom.
 >
 > **[1:59](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-react-router-links?u=76281980&t=119)** Now, there is an important reason why we have to use this link component instead of just using a regular anchor tag in a React application, but I'll explain that in more detail once we've added this link.
 >
@@ -702,7 +695,7 @@ created: 2026-05-02
 >
 > **[8:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-react-router-links?u=76281980&t=480)** Now, going back to the question of why we had to use this link thing in the first place instead of just an anchor tag.
 >
-> **[8:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-react-router-links?u=76281980&t=489)** Well, since React applications are generally going to be single page applications, meaning that even though it looks like our application has multiple pages, it's really just JavaScript logic behind the scenes swapping out the pages as the route changes.
+> **[8:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-react-router-links?u=76281980&t=489)** Well, since React applications are generally going to be single page applications, meaning that even though it looks like our application has multiple pages, it's really just [[JavaScript]] logic behind the scenes swapping out the pages as the route changes.
 >
 > **[8:25](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-react-router-links?u=76281980&t=505)** Now, because of this, there's no reason to reload the page fully as the anchor tag is designed to do, right?
 >
@@ -724,7 +717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (10), dom (3), application (3), next (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[JavaScript]] (1)
 > **CLI Commands:** make (4)
 > **File Paths:** navbar.jsx (1), layout.jsx (1), app.jsx (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -733,8 +726,7 @@ created: 2026-05-02
 > **Env Vars:** jsx (1)
 > **Speakers:** - [instructor] (1)
 
-#### URL parameters with React Router
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980)
+#### [URL parameters with React Router](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,7 +738,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=31)** Instead of saying /articles/individual, we're going to say /articles/, and then we're going to use a colon followed by name, all right?
 >
-> **[0:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=44)** Now, this is what's referred to as a URL parameter, or a route parameter, and basically, what this colon name thing allows us to do is catch all routes that start with articles and have something else after them, so, in our case, this could be /articles/123, or if it's the article's name, as you'll often see on blog sites, such as /articles/learn-node, for example, or /learn-react, then this page is going to be rendered on all of those routes.
+> **[0:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=44)** Now, this is what's referred to as a URL parameter, or a route parameter, and basically, what this colon name thing allows us to do is catch all routes that start with articles and have something else after them, so, in our case, this could be /articles/123, or if it's the article's name, as you'll often see on blog sites, such as /articles/learn-node, for example, or /learn-[[React.js|react]], then this page is going to be rendered on all of those routes.
 >
 > **[1:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=79)** Now, the beauty of this, right, the really useful part about these route parameters is that we can actually see the value of this part of the path, right?
 >
@@ -762,13 +754,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=114)** First of all, we're going to need a little bit of article content that we can display in our application.
 >
-> **[2:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=120)** And for this, what I'm going to recommend you do is just copy the code from the end state of the exercise files here, or from the GitHub repo.
+> **[2:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=120)** And for this, what I'm going to recommend you do is just copy the code from the end state of the exercise files here, or from the [[GitHub]] repo.
 >
 > **[2:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=130)** So I'm going to say New File, and I'm going to call this article-content.js.
 >
 > **[2:18](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=138)** Now, inside of here, what I'm going to do is just copy and paste from the GitHub repo, as I said.
 >
-> **[2:24](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=144)** It's just a big array of article content with mostly lorem ipsum and some creative titles, such as "The Fastest Way to Learn React," things like "How to Build a Node Server in 10 Minutes," "Learn MongoDB," you get the idea.
+> **[2:24](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=144)** It's just a big array of article content with mostly lorem ipsum and some creative titles, such as "The Fastest Way to Learn React," things like "How to Build a Node Server in 10 Minutes," "Learn [[MongoDB]]," you get the idea.
 >
 > **[2:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=160)** Cool, and notice that each one of these articles has a name property, which is basically just a shortened version, this is sometimes called a slug.
 >
@@ -782,7 +774,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=190)** And we're going to need to, first of all, take a look at the value of that name segment that we defined in our routes here.
 >
-> **[3:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=199)** So we're going to need to get that value, and then we're just going to need to use simple JavaScript logic to load the corresponding article for that name.
+> **[3:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=199)** So we're going to need to get that value, and then we're just going to need to use simple [[JavaScript]] logic to load the corresponding article for that name.
 >
 > **[3:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/url-parameters-with-react-router?u=76281980&t=209)** So here's what this is going to look like.
 >
@@ -876,7 +868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (12), [[MongoDB]] (6), [[JavaScript]] (4), application (3), node (3)
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[MongoDB]] (6), [[JavaScript]] (4), [[GitHub]] (2)
 > **CLI Commands:** find (5), node (3), make (2)
 > **Code Identifiers:** useparams (6)
 > **Analogies:** such as (3), for example (3)
@@ -885,8 +877,7 @@ created: 2026-05-02
 > **Exercise Files:** github repo (2), exercise files (1)
 > **Tools:** github (2)
 
-#### Creating and linking the articles list
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980)
+#### [Creating and linking the articles list](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,9 +889,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980&t=29)** So here's what this is going to look like.
 >
-> **[0:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980&t=30)** We're going to start off here by going to our articles list page, and let's start off here by replacing this H1 heading with just the word articles.
+> **[0:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980&t=30)** We're going to start off here by going to our articles list page, and let's start off here by replacing this H1 heading with just the [[Microsoft Word|word]] articles.
 >
-> **[0:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980&t=41)** And then underneath that, and we'll need to add a react fragment here in order to separate that, or in order to surround the two top level elements that we're going to be creating.
+> **[0:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980&t=41)** And then underneath that, and we'll need to add a [[React.js|react]] fragment here in order to separate that, or in order to surround the two top level elements that we're going to be creating.
 >
 > **[0:54](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980&t=54)** Underneath our H1 heading, we're going to simply load all of the articles from our article content file.
 >
@@ -954,7 +945,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980&t=208)** And up here you can see that that is /articles/learn-node.
 >
-> **[3:32](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980&t=212)** And let's test the learn MongoDB one.
+> **[3:32](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980&t=212)** And let's test the learn [[MongoDB]] one.
 >
 > **[3:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-and-linking-the-articles-list?u=76281980&t=214)** And yep, it takes us to the corresponding MongoDB article.
 >
@@ -1024,7 +1015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), dom (3), node (2), [[MongoDB]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[MongoDB]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), node (2)
 > **UI Navigation:** click on (3), select the (1), go to (1)
 > **Env Vars:** url (2), jsx (1)
@@ -1033,8 +1024,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a 404 page in React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-404-page-in-react?u=76281980)
+#### [Creating a 404 page in React](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-404-page-in-react?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,7 +1038,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-404-page-in-react?u=76281980&t=48)** So here's how you do that.
 >
-> **[0:50](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-404-page-in-react?u=76281980&t=50)** It's actually pretty straightforward using React Router.
+> **[0:50](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-404-page-in-react?u=76281980&t=50)** It's actually pretty straightforward using [[React.js|React]] Router.
 >
 > **[0:53](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-404-page-in-react?u=76281980&t=53)** So we're going to go back to app.jsx and all we really need to do here is in this routes object or this layout route, we're going to add another property called errorElement.
 >
@@ -1100,7 +1090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[React.js|React]] (2), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Code Identifiers:** errorelement (3)
 > **UI Navigation:** go to (3)
 > **File Paths:** app.jsx (1), notfoundpage.jsx (1)
@@ -1109,8 +1099,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), such as (1)
 > **Definitions:** is an  (1)
 
-#### Adding styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-styles?u=76281980)
+#### [Adding styles](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1120,9 +1109,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-styles?u=76281980&t=22)** They're very simple styles from the starting state of the exercise files for this video, or you can simply take a look at the index.css file and the App.css file, and you'll want to just replace whatever is currently in both of those with the code that I have here.
 >
-> **[0:42](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-styles?u=76281980&t=42)** Again, you can just get that from the GitHub repo or from the starting state of the exercise files for this video, so that's going to change these styles pretty significantly.
+> **[0:42](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-styles?u=76281980&t=42)** Again, you can just get that from the [[GitHub]] repo or from the starting state of the exercise files for this video, so that's going to change these styles pretty significantly.
 >
-> **[0:53](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-styles?u=76281980&t=53)** It's going to make it look maybe a little bit more appropriate to a blog site, but I also want to show you how these styles work in a React project set up with Vite.
+> **[0:53](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-styles?u=76281980&t=53)** It's going to make it look maybe a little bit more appropriate to a blog site, but I also want to show you how these styles work in a [[React.js|React]] project set up with Vite.
 >
 > **[1:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-styles?u=76281980&t=64)** Well, first of all, we have this index.css file, and this is where you're going to put all of your global styles, right?
 >
@@ -1134,7 +1123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), functional (1), [[GitHub]] (1), [[React.js|React]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[React.js|React]] (1)
 > **File Paths:** app.css (5), index.css (3), app.jsx (1)
 > **Exercise Files:** exercise files (2), github repo (1)
 > **CLI Commands:** make (2)
@@ -1148,20 +1137,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Node.js?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980)
+#### [Why Node.js?](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980&t=0)** - [Instructor] So now that we've got our client side working nicely, it's time to start building the backend of our blog site.
 >
-> **[0:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980&t=6)** And to do this, we're going to use Node.js.
+> **[0:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980&t=6)** And to do this, we're going to use [[Node.js]].
 >
-> **[0:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980&t=9)** Now, you've probably already heard about Node.js by now, and it's very important to us here because it allows us to write our backend in JavaScript instead of using PHP or Python or Java or some other language besides JavaScript.
+> **[0:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980&t=9)** Now, you've probably already heard about Node.js by now, and it's very important to us here because it allows us to write our backend in [[JavaScript]] instead of using [[PHP]] or [[Python (Programming Language)|Python]] or [[Java]] or some other language besides JavaScript.
 >
 > **[0:25](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980&t=25)** Right, it used to be that in order to be a full stack developer, you had to be fairly fluent in more than one programming language, but with Node.js, as you'll see, which has become an incredibly popular runtime since it was released, our entire web application can be written in JavaScript, which is great news for us JavaScript developers.
 >
-> **[0:45](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980&t=45)** Now, there are many different NPM libraries that can be used to write Node.js servers, and the one that we're going to use here in these videos is called Express.
+> **[0:45](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980&t=45)** Now, there are many different [[npm]] libraries that can be used to write Node.js servers, and the one that we're going to use here in these videos is called Express.
 >
 > **[0:55](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980&t=55)** Now, Express is a great choice for us here because it's unopinionated, as you can see on this website.
 >
@@ -1175,21 +1163,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), [[JavaScript]] (4), express (2), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[JavaScript]] (4), [[PHP]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **CLI Commands:** node (4), php (1), python (1), npm (1)
 > **File Paths:** node.js (4)
 > **Env Vars:** php (1), npm (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up an Express server
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980)
+#### [Setting up an Express server](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=0)** - [Instructor] All right!
 >
-> **[0:01](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=1)** So, to get started creating a back-end for our app with Node.js and express, let's start off here by creating a new directory outside our front-end directory, right?
+> **[0:01](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=1)** So, to get started creating a back-end for our app with [[Node.js]] and express, let's start off here by creating a new directory outside our front-end directory, right?
 >
 > **[0:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=13)** Since our front-end code is in a directory called front-end, we're just going to create a new folder here, and we'll call it back-end.
 >
@@ -1197,7 +1184,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=28)** In practice, you can always figure out ways to put these files together in the same directory, but that usually requires a little bit of setup, so we're not going to do that here.
 >
-> **[0:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=38)** So, inside our new directory, let's get started here by creating a new NPM package, right?
+> **[0:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=38)** So, inside our new directory, let's get started here by creating a new [[npm]] package, right?
 >
 > **[0:47](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=47)** Basically telling NPM that we want this to be its own thing, and we're going to do that by changing directories into our back-end directory.
 >
@@ -1211,7 +1198,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=81)** So, what we need to do now, as I said, in order to tell NPM that we want this to be its own sort of self-contained project, is we're going to say npm init-y.
 >
-> **[1:31](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=91)** And what that's going to do is create this package.json file for us, right?
+> **[1:31](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=91)** And what that's going to do is create this package.[[JSON]] file for us, right?
 >
 > **[1:37](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=97)** This thing has a variety of purposes as we'll see, but one of those purposes is to keep track of basic information about this project, including things like its name, its dependencies, and very shortly, we'll see how to use these scripts here in order to automate some of the tasks.
 >
@@ -1275,7 +1262,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=339)** If you're not, it will give you an error.
 >
-> **[5:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=341)** And by the way, this node command, what that does is it simply executes the code inside any Node.js JavaScript file in a similar way to how opening up a JavaScript file in a browser will execute that file.
+> **[5:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=341)** And by the way, this node command, what that does is it simply executes the code inside any Node.js [[JavaScript]] file in a similar way to how opening up a JavaScript file in a browser will execute that file.
 >
 > **[5:55](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=355)** So, let's hit Enter.
 >
@@ -1283,7 +1270,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=364)** Now, it used to be that you had to use another tool to actually convert this more modern version of JavaScript into an older version of JavaScript, but now, all we have to do is go into our package.json, and we have to add a property called type module, and that will allow that to work properly.
 >
-> **[6:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=386)** So, let's try running this again, and sure enough, we'll see that our server is listening on Port 8000, and not only that, we see that in Codespaces, it says that Port 8000 is available, so this is a little bit more complicated if you're running Codespaces.
+> **[6:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=386)** So, let's try running this again, and sure enough, we'll see that our server is listening on Port 8000, and not only that, we see that in [[Codespaces]], it says that Port 8000 is available, so this is a little bit more complicated if you're running Codespaces.
 >
 > **[6:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-an-express-server?u=76281980&t=401)** What you'll see here is in addition to our front-end, which is running here, we also have this Port 8000, which is running.
 >
@@ -1303,7 +1290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (12), front-end (5), [[npm]] (5), application (5), [[JavaScript]] (4)
+> **Frameworks & Libraries:** [[npm]] (5), [[JavaScript]] (4), [[Node.js]] (3), [[JSON]] (3), [[Codespaces]] (2)
 > **CLI Commands:** node (5), npm (5), make (3), cd (2)
 > **File Paths:** node.js (3), package.json (3), server.js (1), src/server.js (1)
 > **Prerequisites:** install (3), setup (2), set up (1)
@@ -1312,8 +1299,7 @@ created: 2026-05-02
 > **Analogies:** such as (3), think of it as (1)
 > **Tools:** terminal (2)
 
-#### Testing an Express server with Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980)
+#### [Testing an Express server with Postman](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1357,7 +1343,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=159)** So in order to test this out, what we're going to do is we're just going to send a POST request to /hello.
 >
-> **[2:47](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=167)** And what we'll see is that we actually get back this HTML error from our express server, saying that we don't have an endpoint defined for that combination of method, right, POST, GET, those are HTTP methods and path.
+> **[2:47](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=167)** And what we'll see is that we actually get back this [[HTML]] error from our express server, saying that we don't have an endpoint defined for that combination of method, right, POST, GET, those are HTTP methods and path.
 >
 > **[3:05](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=185)** So if we go back to our server, we can actually define another method by opening up server.js, and just like how we said app.get, which is defined a GET endpoint, right, an endpoint that will respond to GET requests, we can say app.post/hello.
 >
@@ -1393,11 +1379,11 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=289)** All right, now one last thing that we're going to do here before we start creating real endpoints for our application is we're going to need to allow our endpoints to have access to something called a request body.
 >
-> **[5:05](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=305)** Essentially whenever a front end, such as a React application, or in this case, just a simple application like Postman, whenever one of these clients sends a request to our server, it's allowed to include extra data in the form of a request body.
+> **[5:05](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=305)** Essentially whenever a front end, such as a [[React.js|React]] application, or in this case, just a simple application like Postman, whenever one of these clients sends a request to our server, it's allowed to include extra data in the form of a request body.
 >
 > **[5:23](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=323)** And we can specify this by clicking on body here.
 >
-> **[5:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=328)** And then we can actually type out a JSON request body, essentially just by selecting raw and then the JSON dropdown.
+> **[5:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=328)** And then we can actually type out a [[JSON]] request body, essentially just by selecting raw and then the JSON dropdown.
 >
 > **[5:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/testing-an-express-server-with-postman?u=76281980&t=338)** And here's what this is going to look like.
 >
@@ -1439,7 +1425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), data (4), [[JSON]] (4), express (3), next (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[HTML]] (1), [[React.js|React]] (1)
 > **API Endpoints:** get  (8), post  (7)
 > **Env Vars:** post (8), json (3), url (2), html (1), http (1)
 > **Tools:** postman (9)
@@ -1448,18 +1434,17 @@ created: 2026-05-02
 > **Analogies:** such as (2), just like (1), for example (1)
 > **File Paths:** server.js (1), express.json (1)
 
-#### Route parameters in Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/route-parameters-in-express?u=76281980)
+#### [Route parameters in Express](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/route-parameters-in-express?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/route-parameters-in-express?u=76281980&t=0)** - [Instructor] All right, at this point, we've seen how to use post requests to carry extra information in the form of a JSON object, along with the requests that we send to our server.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/route-parameters-in-express?u=76281980&t=0)** - [Instructor] All right, at this point, we've seen how to use post requests to carry extra information in the form of a [[JSON]] object, along with the requests that we send to our server.
 >
 > **[0:11](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/route-parameters-in-express?u=76281980&t=11)** Now, this is generally the best way to add more complex information to our requests, but there are actually several other ways to do so.
 >
 > **[0:20](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/route-parameters-in-express?u=76281980&t=20)** So, before we move on to implementing things like Upvoting or comments for our blog site, let's take a sort of backward look at a concept that we learned when implementing the article pages for our front end.
 >
-> **[0:33](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/route-parameters-in-express?u=76281980&t=33)** Right, you may recall that for each of our article pages, we simply used the same component and then by sending a request to /articles/ followed by the articles unique ID or name, right, such as learn-node or learn-react, we were able to populate that page component with different data.
+> **[0:33](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/route-parameters-in-express?u=76281980&t=33)** Right, you may recall that for each of our article pages, we simply used the same component and then by sending a request to /articles/ followed by the articles unique ID or name, right, such as learn-node or learn-[[React.js|react]], we were able to populate that page component with different data.
 >
 > **[0:56](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/route-parameters-in-express?u=76281980&t=56)** And we did this using something called route parameters or URL parameters.
 >
@@ -1535,7 +1520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (7), data (5), [[React.js|React]] (3), [[JSON]] (2), node (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JSON]] (2)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** node (2), make (2)
 > **Env Vars:** json (1), url (1)
@@ -1544,8 +1529,7 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upvoting articles
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/upvoting-articles?u=76281980)
+#### [Upvoting articles](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/upvoting-articles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1555,7 +1539,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/upvoting-articles?u=76281980&t=26)** Now, in order to do this, we're going to of course need to add some code to our backend, and the first thing that we're going to do for that is, we're going to create sort of a fake in-memory database for our server, which will keep track of the upvotes for our articles.
 >
-> **[0:43](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/upvoting-articles?u=76281980&t=43)** Now, later on, we're going to actually add a real database with MongoDB to our server, but for now, just to keep things simple, we're going to just use a JavaScript array to make this happen, and what that's going to look like is up here above where we create our Express server.
+> **[0:43](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/upvoting-articles?u=76281980&t=43)** Now, later on, we're going to actually add a real database with [[MongoDB]] to our server, but for now, just to keep things simple, we're going to just use a [[JavaScript]] array to make this happen, and what that's going to look like is up here above where we create our Express server.
 >
 > **[1:02](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/upvoting-articles?u=76281980&t=62)** We're going to say const articleInfo =.
 >
@@ -1565,7 +1549,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/upvoting-articles?u=76281980&t=92)** And in addition, we also need to keep track of which article each of these up vote counts belongs to.
 >
-> **[1:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/upvoting-articles?u=76281980&t=100)** So we're just going to say something like articleName, and then we'll put the article name, write that route parameter that we used in our React app as the value for that.
+> **[1:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/upvoting-articles?u=76281980&t=100)** So we're just going to say something like articleName, and then we'll put the article name, write that route parameter that we used in our [[React.js|React]] app as the value for that.
 >
 > **[1:51](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/upvoting-articles?u=76281980&t=111)** So articleName, learn-node, the next one's going to be articleName, and this is going to be learn-react.
 >
@@ -1651,7 +1635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), database (3), [[MongoDB]] (3), [[JavaScript]] (3), node (3)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[JavaScript]] (3), [[React.js|React]] (2)
 > **CLI Commands:** make (4), node (3), find (3)
 > **Code Identifiers:** articlename (5), articleinfo (2)
 > **Env Vars:** post (2), put (1), url (1), api (1)
@@ -1660,8 +1644,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Tools:** postman (1)
 
-#### Automatically updating with Nodemon
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/automatically-updating-with-nodemon?u=76281980)
+#### [Automatically updating with Nodemon](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/automatically-updating-with-nodemon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1669,7 +1652,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/automatically-updating-with-nodemon?u=76281980&t=17)** Wouldn't it be nice if our server could sense when our files changed and automatically restart itself?
 >
-> **[0:23](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/automatically-updating-with-nodemon?u=76281980&t=23)** Well, as a matter of fact, there is an NPM package that does this for us, and it's called no-daemon.
+> **[0:23](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/automatically-updating-with-nodemon?u=76281980&t=23)** Well, as a matter of fact, there is an [[npm]] package that does this for us, and it's called no-daemon.
 >
 > **[0:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/automatically-updating-with-nodemon?u=76281980&t=30)** Now, you might hear the name of this package pronounced a little bit differently depending on who's talking, but let's just install it, which we can do by stopping our server.
 >
@@ -1713,7 +1696,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/automatically-updating-with-nodemon?u=76281980&t=188)** And if we click send, it's going to change back to success.
 >
-> **[3:12](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/automatically-updating-with-nodemon?u=76281980&t=192)** So one last thing that's going to make our lives easier here is if we go into our package.json file, and in order to avoid having to remember that new command npx nodemon src/server.js, what we can actually do is define a custom script, which we can call something like dev.
+> **[3:12](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/automatically-updating-with-nodemon?u=76281980&t=192)** So one last thing that's going to make our lives easier here is if we go into our package.[[JSON]] file, and in order to avoid having to remember that new command npx nodemon src/server.js, what we can actually do is define a custom script, which we can call something like dev.
 >
 > **[3:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/automatically-updating-with-nodemon?u=76281980&t=214)** I'm going to call it dev here, that will run that for us.
 >
@@ -1733,7 +1716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (4), node (2), hit (2), api (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[npm]] (4), [[JSON]] (1)
 > **CLI Commands:** make (5), npm (4), npx (4), node (2)
 > **File Paths:** src/server.js (4), server.js (1), package.json (1)
 > **Prerequisites:** install (4)
@@ -1742,8 +1725,7 @@ created: 2026-05-02
 > **Tools:** command line (1), postman (1)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Adding comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-comments?u=76281980)
+#### [Adding comments](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1781,7 +1763,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-comments?u=76281980&t=111)** So we're going to first of all, change the URL here to slash comments instead of slash upvote.
 >
-> **[1:59](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-comments?u=76281980&t=119)** And then we're going to open the body tab and go to raw and select JSON from the dropdown.
+> **[1:59](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-comments?u=76281980&t=119)** And then we're going to open the body tab and go to raw and select [[JSON]] from the dropdown.
 >
 > **[2:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-comments?u=76281980&t=124)** And let's decide what we want this request body to look like.
 >
@@ -1853,7 +1835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), data (4), next (2), api (2), node (2)
+> **Frameworks & Libraries:** [[JSON]] (5)
 > **Env Vars:** json (5), api (2), url (1), ide (1)
 > **Analogies:** just like (4), such as (2)
 > **CLI Commands:** find (2), node (2)
@@ -1867,24 +1849,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why MongoDB?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980)
+#### [Why MongoDB?](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=0)** - [Instructor] All right, at this point, we have a pretty fully functional front-end and back-end for our blog site, so the next thing that we're going to need to do is persist our data.
 >
-> **[0:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=10)** And for our application, it makes sense to persist our data in a database that plays very nicely with JavaScript.
+> **[0:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=10)** And for our application, it makes sense to persist our data in a database that plays very nicely with [[JavaScript]].
 >
-> **[0:16](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=16)** And for that, we need look no further than MongoDB.
+> **[0:16](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=16)** And for that, we need look no further than [[MongoDB]].
 >
 > **[0:21](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=21)** Now, MongoDB is what we call a non-relational database, which means that we can basically just push data into it from our JavaScript code without worrying too much about how that data is formatted.
 >
-> **[0:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=34)** Now, in the case of MongoDB, we can basically just hand our database any kind of JSON object that we want it to store, and we can retrieve them later whenever we need them.
+> **[0:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=34)** Now, in the case of MongoDB, we can basically just hand our database any kind of [[JSON]] object that we want it to store, and we can retrieve them later whenever we need them.
 >
-> **[0:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=44)** Now, this is in contrast to traditional relational databases where the structure of the data in the fields it contains have to generally be defined in advance and adhere to whenever we add new data.
+> **[0:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=44)** Now, this is in contrast to traditional [[Relational Databases]] where the structure of the data in the fields it contains have to generally be defined in advance and adhere to whenever we add new data.
 >
-> **[0:58](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=58)** Now, working with relational databases also generally requires some knowledge of SQL.
+> **[0:58](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=58)** Now, working with relational databases also generally requires some knowledge of [[SQL]].
 >
 > **[1:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980&t=64)** And so by using MongoDB, which is non-relational, there's no need to learn any other programming languages, and this allows us to keep our full-stack application using only JavaScript.
 >
@@ -1896,17 +1877,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[MongoDB]] (6), application (3), database (3), [[JavaScript]] (3)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[JavaScript]] (3), [[Relational Databases]] (2), [[JSON]] (1), [[SQL]] (1)
 > **Env Vars:** json (1), sql (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Downloading and installing MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980)
+#### [Downloading and installing MongoDB](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=0)** - [Instructor] All right, so before we can get started adding MongoDB to our application, we're going to need to actually install it locally or in code spaces so that we can start it up and connect to an instance.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=0)** - [Instructor] All right, so before we can get started adding [[MongoDB]] to our application, we're going to need to actually install it locally or in code spaces so that we can start it up and connect to an instance.
 >
 > **[0:14](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=14)** Now, the instructions for this are going to vary pretty widely depending on which exact operating system you happen to be using.
 >
@@ -1914,7 +1894,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=31)** And you're just going to want to find your operating system over here on the left hand side.
 >
-> **[0:36](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=36)** So if you're installing on Linux or installing on Mac or installing on Windows, you're just going to need to follow all of the instructions that it specifies.
+> **[0:36](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=36)** So if you're installing on [[Linux]] or installing on Mac or installing on [[Windows]], you're just going to need to follow all of the instructions that it specifies.
 >
 > **[0:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=44)** Now, one last thing here to notice is that I'm using the 7.0 version.
 >
@@ -1926,9 +1906,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=87)** So what I'm going to recommend you do is leave that running in one terminal tab, and you can open up another one by clicking this plus button in Visual Studio Code.
 >
-> **[1:36](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=96)** And you can actually connect to that now by saying mongo and the mongo command is going to open up a Mongo shell for you, which you can actually use to interact with Mongo databases.
+> **[1:36](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=96)** And you can actually connect to that now by saying mongo and the mongo command is going to open up a Mongo shell for you, which you can actually use to interact with Mongo [[Databases]].
 >
-> **[1:52](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=112)** And the first command that you're going to want to run is use and we'll call this something like full-stack-react-db okay?
+> **[1:52](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=112)** And the first command that you're going to want to run is use and we'll call this something like full-stack-[[React.js|react]]-db okay?
 >
 > **[2:01](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=121)** You can choose what name you want to use here, but just make sure that if you do change the name, you actually change that string that we type in later on when we're connecting to this database on our server.
 >
@@ -1948,11 +1928,11 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=191)** And what you should see here is this thing that says acknowledged true, and inserted IDs with three IDs inside of it.
 >
-> **[3:20](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=200)** What this means is that we successfully inserted these JavaScript objects into MongoDB.
+> **[3:20](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=200)** What this means is that we successfully inserted these [[JavaScript]] objects into MongoDB.
 >
 > **[3:27](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=207)** So what you should be able to do now is say db.articles and by the way, this is a collection name.
 >
-> **[3:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=214)** Collections in MongoDB are sort of like what tables are in SQL based databases.
+> **[3:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=214)** Collections in MongoDB are sort of like what tables are in [[SQL]] based databases.
 >
 > **[3:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/downloading-and-installing-mongodb?u=76281980&t=221)** Just collections of related or similar items.
 >
@@ -1978,7 +1958,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[MongoDB]] (5), node (3), hit (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[Databases]] (2), [[React.js|React]] (2), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** mongo (9), find (8), node (3), make (2)
 > **Prerequisites:** install (2), setup (1), set up (1)
 > **Code Identifiers:** findone (2), insertmany (1)
@@ -1987,26 +1967,25 @@ created: 2026-05-02
 > **File Paths:** server.js (1)
 > **Env Vars:** sql (1)
 
-#### Adding MongoDB to Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980)
+#### [Adding MongoDB to Express](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=0)** - [Instructor] Well, now that we've got MongoDB up and running locally, or in Codespaces as I have here, let's see how we can incorporate it into our Express server.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=0)** - [Instructor] Well, now that we've got [[MongoDB]] up and running locally, or in [[Codespaces]] as I have here, let's see how we can incorporate it into our Express server.
 >
 > **[0:11](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=11)** Now, the first thing that we're going to do is we're going to install the MongoDB package into our project, right?
 >
-> **[0:18](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=18)** And this is the library or driver that will allow us to connect to MongoDB from inside a Node.js server, and we're going to do this by opening up our terminal, and just leave MongoDB running in the other terminal here.
+> **[0:18](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=18)** And this is the library or driver that will allow us to connect to MongoDB from inside a [[Node.js]] server, and we're going to do this by opening up our terminal, and just leave MongoDB running in the other terminal here.
 >
 > **[0:35](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=35)** So we're going to open up our terminal and make sure that you're inside the backend directory.
 >
 > **[0:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=40)** You might not be if you just opened up a new terminal.
 >
-> **[0:43](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=43)** We're going to say cd back-end/ and now we're going to say npm install mongodb, right?
+> **[0:43](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=43)** We're going to say cd back-end/ and now we're going to say [[npm]] install mongodb, right?
 >
 > **[0:50](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=50)** So this is again the MongoDB driver, and once that's installed, we can use this package to connect to and modify our local database from inside our Express server code.
 >
-> **[1:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=64)** So in a previous video, we added the data here in our articles info array to a database called full-stack React DB.
+> **[1:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=64)** So in a previous video, we added the data here in our articles info array to a database called full-stack [[React.js|React]] DB.
 >
 > **[1:16](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=76)** So now that our data is saved there, we no longer need to define it here, and instead of deleting it, I'm just going to leave that around so that I don't break these endpoints, but once we get these endpoints switched over to use MongoDB instead of this in-memory database, you'll actually see that the syntax highlighting will make the name of this thing grayed out, meaning we no longer have need of it, so we'll be able to delete it then.
 >
@@ -2058,7 +2037,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=368)** So let's just send this back to the client.
 >
-> **[6:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=370)** What we're going to do here is we're going to say res.json(article); and that should send it back.
+> **[6:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=370)** What we're going to do here is we're going to say res.[[JSON]](article); and that should send it back.
 >
 > **[6:17](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-mongodb-to-express?u=76281980&t=377)** So let's test this thing out now.
 >
@@ -2082,7 +2061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (15), database (7), next (5), data (4), [[React.js|React]] (3)
+> **Frameworks & Libraries:** [[MongoDB]] (15), [[React.js|React]] (3), [[Codespaces]] (2), [[Node.js]] (1), [[npm]] (1)
 > **CLI Commands:** make (6), node (4), mongo (2), find (2), cd (1)
 > **Tools:** terminal (7), postman (1)
 > **Code Identifiers:** findone (2), serverapi (1), deprecationerrors (1)
@@ -2091,12 +2070,11 @@ created: 2026-05-02
 > **File Paths:** node.js (1), res.json (1)
 > **API Endpoints:** /api/articles/ (1), /api/articles/learn-node (1)
 
-#### Rewriting the upvote endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980)
+#### [Rewriting the upvote endpoint](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=0)** - [Instructor] All right, so now that we've connected our server to MongoDB, the next thing that we're going to do is rewrite our other two endpoints so that they use MongoDB instead of the in-memory articleInfo database, or array that we were using.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=0)** - [Instructor] All right, so now that we've connected our server to [[MongoDB]], the next thing that we're going to do is rewrite our other two endpoints so that they use MongoDB instead of the in-memory articleInfo database, or array that we were using.
 >
 > **[0:15](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=15)** So we'll start off here with the upvote endpoint.
 >
@@ -2154,7 +2132,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=208)** And then instead of saying .findOne, there's actually a function called updateOne, which will allow us to modify a document in the database.
 >
-> **[3:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=221)** And since we're also going to want to return the updated document, right, by saying res.json article, there's actually a special query function for that case called findOneAndUpdate.
+> **[3:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=221)** And since we're also going to want to return the updated document, right, by saying res.[[JSON]] article, there's actually a special query function for that case called findOneAndUpdate.
 >
 > **[3:56](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=236)** All right?
 >
@@ -2206,7 +2184,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=364)** MongoDB is still running. So let's give this thing a try.
 >
-> **[6:07](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=367)** By going over to Postman, we're going to send a POST request to articles/learn-react/upvote.
+> **[6:07](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=367)** By going over to Postman, we're going to send a POST request to articles/learn-[[React.js|react]]/upvote.
 >
 > **[6:16](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-upvote-endpoint?u=76281980&t=376)** And if we click send here, we should see that sure enough, we get this article sent back with its upvotes incremented by one.
 >
@@ -2214,7 +2192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (8), database (7), [[JSON]] (2), next (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (8), [[JSON]] (2), [[React.js|React]] (1)
 > **Code Identifiers:** connecttodb (4), findoneandupdate (3), updatedarticle (2), articleinfo (1), findone (1)
 > **CLI Commands:** make (7), find (1), mongo (1)
 > **Definitions:** stands for (1), is a  (1), in other words (1)
@@ -2223,12 +2201,11 @@ created: 2026-05-02
 > **API Endpoints:** post  (1)
 > **Env Vars:** post (1)
 
-#### Rewriting the comments endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-comments-endpoint?u=76281980)
+#### [Rewriting the comments endpoint](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-comments-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-comments-endpoint?u=76281980&t=0)** - [Instructor] Alright, so now that we've rewritten our upvote endpoint to use MongoDB, let's do the same thing with our comments endpoint.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-comments-endpoint?u=76281980&t=0)** - [Instructor] Alright, so now that we've rewritten our upvote endpoint to use [[MongoDB]], let's do the same thing with our comments endpoint.
 >
 > **[0:08](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-comments-endpoint?u=76281980&t=8)** So again, with our comments endpoint, we'll pretty much start over.
 >
@@ -2262,7 +2239,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-comments-endpoint?u=76281980&t=107)** And let's also add the async keyword to our handler and say const updated article equals await db.collection, et cetera.
 >
-> **[1:59](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-comments-endpoint?u=76281980&t=119)** Cool, so let's just send that thing back to the client by saying response.json updatedArticle.
+> **[1:59](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-comments-endpoint?u=76281980&t=119)** Cool, so let's just send that thing back to the client by saying response.[[JSON]] updatedArticle.
 >
 > **[2:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/rewriting-our-comments-endpoint?u=76281980&t=126)** And now that we've done that, let's test this thing out.
 >
@@ -2284,7 +2261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (3), [[JSON]] (1), data (1), express (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[JSON]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Code Identifiers:** newcomment (2), postedby (1), updatedarticle (1)
 > **Analogies:** just like (4)
@@ -2298,12 +2275,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Axios library
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980)
+#### [The Axios library](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=0)** - [Instructor] Okay, so at this point we have a working front end and a working backend, which we just created with Express and MongoDB.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=0)** - [Instructor] Okay, so at this point we have a working front end and a working backend, which we just created with Express and [[MongoDB]].
 >
 > **[0:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=9)** So now what we need to do is bring the front end and backend together using network requests.
 >
@@ -2311,13 +2287,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=28)** The main difference is that the front end will be allowing the user to do this automatically by doing things like clicking buttons, adding comments, things like that.
 >
-> **[0:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=38)** Now, there are many libraries that we can use in order to load data from the backend in React, but the one that we're going to be using here is called Axios.
+> **[0:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=38)** Now, there are many libraries that we can use in order to load data from the backend in [[React.js|React]], but the one that we're going to be using here is called Axios.
 >
 > **[0:48](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=48)** So what you're going to want to do is open up a terminal and we're going to install Axios into the front end.
 >
 > **[0:55](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=55)** Make sure you're in the front end directory by changing directories into the front end.
 >
-> **[1:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=60)** And then we're going to say npm install axios.
+> **[1:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=60)** And then we're going to say [[npm]] install axios.
 >
 > **[1:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980&t=64)** So that will install that library for us, and that should be all that we need to do to get started.
 >
@@ -2325,7 +2301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1), [[MongoDB]] (1), data (1), [[React.js|React]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1), [[React.js|React]] (1), [[npm]] (1)
 > **CLI Commands:** make (3), npm (1)
 > **Prerequisites:** install (3)
 > **Tools:** postman (1), terminal (1)
@@ -2333,12 +2309,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading data For React Router routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/loading-data-for-react-router-routes?u=76281980)
+#### [Loading data For React Router routes](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/loading-data-for-react-router-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/loading-data-for-react-router-routes?u=76281980&t=0)** - [Instructor] All right, so now that we've installed Axios, let's see how we can actually load data for the different routes in our React application.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/loading-data-for-react-router-routes?u=76281980&t=0)** - [Instructor] All right, so now that we've installed Axios, let's see how we can actually load data for the different routes in our [[React.js|React]] application.
 >
 > **[0:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/loading-data-for-react-router-routes?u=76281980&t=9)** So, what I'm going to do is I'm going to open up the frontend application again.
 >
@@ -2392,7 +2367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[React.js|React]] (3), application (3), api (1), node (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **Env Vars:** url (5), cors (1)
 > **CLI Commands:** make (3), find (1), node (1)
 > **Code Identifiers:** articledata (2), useloaderdata (1)
@@ -2401,12 +2376,11 @@ created: 2026-05-02
 > **API Endpoints:** /api/articles (1)
 > **Analogies:** such as (1)
 
-#### Using the useLoaderData hook
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980)
+#### [Using the useLoaderData hook](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=0)** - [Instructor] Alright, so now that we've added this loader for our article page route, the next thing that we need to do is actually go into that page and use a React hook in order to access the data that we're returning, right, these upvotes and comments.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=0)** - [Instructor] Alright, so now that we've added this loader for our article page route, the next thing that we need to do is actually go into that page and use a [[React.js|React]] hook in order to access the data that we're returning, right, these upvotes and comments.
 >
 > **[0:15](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=15)** So here's what this is going to look like.
 >
@@ -2434,11 +2408,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=95)** So let's give this a try.
 >
-> **[1:37](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=97)** The first thing that we're going to have to do, of course, is run our front end, and make sure by the way that your MongoDB is still running as well as your backend.
+> **[1:37](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=97)** The first thing that we're going to have to do, of course, is run our front end, and make sure by the way that your [[MongoDB]] is still running as well as your backend.
 >
 > **[1:46](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=106)** Alright, so we're going to go into our front-end directory, and make sure that you're in front end over here on the right-hand side.
 >
-> **[1:53](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=113)** And we're going to run npm run dev, and that should start up our front end again.
+> **[1:53](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=113)** And we're going to run [[npm]] run dev, and that should start up our front end again.
 >
 > **[1:59](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=119)** So let's go over to Ports, and we're going to want to open that up in another tab.
 >
@@ -2450,7 +2424,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=145)** And you may need to hit Refresh in order to see this.
 >
-> **[2:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=148)** If you select Fetch/XHR, that'll show you the learn-node request that was made by our front-end application.
+> **[2:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=148)** If you select [[Fetch]]/XHR, that'll show you the learn-node request that was made by our front-end application.
 >
 > **[2:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-the-useloaderdata-hook?u=76281980&t=158)** Now, one thing to notice here is that it's not going to the right URL, this is the URL for our front end.
 >
@@ -2514,7 +2488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), [[React.js|React]] (3), data (3), front-end (3), next (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[MongoDB]] (1), [[npm]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (8), node (4), npm (1), find (1)
 > **Env Vars:** url (6), xhr (1), ide (1)
 > **UI Navigation:** go to (5), click on (1), right-click (1)
@@ -2523,8 +2497,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Ports:** port 8000 (1)
 
-#### Using route parameters in loaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-route-parameters-in-loaders?u=76281980)
+#### [Using route parameters in loaders](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-route-parameters-in-loaders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2534,7 +2507,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-route-parameters-in-loaders?u=76281980&t=26)** Well, as it happens, this is actually incredibly easy to do.
 >
-> **[0:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-route-parameters-in-loaders?u=76281980&t=30)** We can just add a single prop here called params to our function, right, our loader function that we're defining, and React will automatically pass these params, right, such as name, to our function.
+> **[0:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-route-parameters-in-loaders?u=76281980&t=30)** We can just add a single prop here called params to our function, right, our loader function that we're defining, and [[React.js|React]] will automatically pass these params, right, such as name, to our function.
 >
 > **[0:46](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-route-parameters-in-loaders?u=76281980&t=46)** So all we have to do now is take away this learn-node thing, and onto the end of this we're going to say + params.name, and that should be all we really need to do there.
 >
@@ -2546,7 +2519,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-route-parameters-in-loaders?u=76281980&t=77)** We're going to go back to our Articles page, and we'll go to our React article, and sure enough we see that it displays one up vote instead of zero.
 >
-> **[1:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-route-parameters-in-loaders?u=76281980&t=88)** So let's go back to our Node Server, that one should still be zero, and our MongoDB one should still be zero because we haven't touched those yet.
+> **[1:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-route-parameters-in-loaders?u=76281980&t=88)** So let's go back to our Node Server, that one should still be zero, and our [[MongoDB]] one should still be zero because we haven't touched those yet.
 >
 > **[1:37](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/using-route-parameters-in-loaders?u=76281980&t=97)** But we can also make sure by taking a look at our Inspector window, going to Network, and refreshing our page, and we should see now that, sure enough, it's loading it from the correct path and we're getting the correct article back.
 >
@@ -2576,7 +2549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), node (4), [[React.js|React]] (3), [[MongoDB]] (3), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[MongoDB]] (3)
 > **CLI Commands:** make (6), node (4)
 > **Cross-References:** go back to (4)
 > **Code Identifiers:** articleloader (2), mongodb (1)
@@ -2585,8 +2558,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 
-#### Displaying comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980)
+#### [Displaying comments](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2606,7 +2578,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=63)** Here's what this is going to look like.
 >
-> **[1:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=64)** We're just going to say, in a React fragment, h3, that's going to be our heading, Comments.
+> **[1:04](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=64)** We're just going to say, in a [[React.js|React]] fragment, h3, that's going to be our heading, Comments.
 >
 > **[1:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=73)** And now, underneath this, we're going to loop through our comments and display the same structure for each of them.
 >
@@ -2620,7 +2592,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=98)** And that does assume, of course, that the text is going to be unique.
 >
-> **[1:42](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=102)** So, if there are two comments that share the same text, that could cause problems, but you know, we could always add a unique ID to these comments in MongoDB if we wanted to.
+> **[1:42](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=102)** So, if there are two comments that share the same text, that could cause problems, but you know, we could always add a unique ID to these comments in [[MongoDB]] if we wanted to.
 >
 > **[1:52](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=112)** We'll just skip over that part for now.
 >
@@ -2632,7 +2604,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=131)** So, that should be all we really need to do here.
 >
-> **[2:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=133)** And once again, we're going to ignore the ESLint errors here saying that we need to do props validation.
+> **[2:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=133)** And once again, we're going to ignore the [[ESLint]] errors here saying that we need to do props validation.
 >
 > **[2:20](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/displaying-comments?u=76281980&t=140)** Just in the interest of time, we're going to leave this the way it is.
 >
@@ -2656,7 +2628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[MongoDB]] (2), next (1), front-end (1), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[MongoDB]] (2), [[ESLint]] (1)
 > **File Paths:** commentslist.jsx (1)
 > **Code Identifiers:** postedby (1)
 > **Cross-References:** go back to (1)
@@ -2664,8 +2636,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an upvote button
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-upvote-button?u=76281980)
+#### [Creating an upvote button](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-upvote-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2717,7 +2688,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-upvote-button?u=76281980&t=140)** And in order to update the upvote's count, we're going to need to do something a little bit interesting here.
 >
-> **[2:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-upvote-button?u=76281980&t=146)** We're actually going to need to import the useState hook from React, which is used to keep track of component state.
+> **[2:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-upvote-button?u=76281980&t=146)** We're actually going to need to import the useState hook from [[React.js|React]], which is used to keep track of component state.
 >
 > **[2:35](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-upvote-button?u=76281980&t=155)** And here's what we're going to have to do.
 >
@@ -2755,7 +2726,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-upvote-button?u=76281980&t=248)** And furthermore, if we refresh our page, we'll see that that is still there, right?
 >
-> **[4:14](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-upvote-button?u=76281980&t=254)** That data is now persisted in MongoDB.
+> **[4:14](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-upvote-button?u=76281980&t=254)** That data is now persisted in [[MongoDB]].
 >
 > **[4:17](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-upvote-button?u=76281980&t=257)** So that is how to implement a simple upvote button.
 >
@@ -2763,7 +2734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), api (1), [[React.js|React]] (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[MongoDB]] (1)
 > **Code Identifiers:** onupvoteclicked (3), updatedarticledata (2), usestate (2), initialupvotes (2), initialcomments (2)
 > **CLI Commands:** make (5)
 > **API Endpoints:** get  (1), /api/articles (1)
@@ -2772,8 +2743,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an add comment form
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-add-comment-form?u=76281980)
+#### [Creating an add comment form](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-add-comment-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2815,7 +2785,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-add-comment-form?u=76281980&t=128)** And, well, now in order to keep track of the values inside both of these text inputs, we're going to need to add some state to this component.
 >
-> **[2:18](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-add-comment-form?u=76281980&t=138)** So let's start off by importing the useState hook from React, just like we did in our article page to keep track of the up votes and comments.
+> **[2:18](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-add-comment-form?u=76281980&t=138)** So let's start off by importing the useState hook from [[React.js|React]], just like we did in our article page to keep track of the up votes and comments.
 >
 > **[2:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-add-comment-form?u=76281980&t=149)** And now for the state we're going to say const and we'll have the name text, we'll just say nameText and setNameText = useState.
 >
@@ -2857,7 +2827,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-add-comment-form?u=76281980&t=305)** First of all, we need to change this to /comments here.
 >
-> **[5:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-add-comment-form?u=76281980&t=310)** And then, in order to pass a request body, all we need to do is add a second argument to this, which is going to be a JavaScript object.
+> **[5:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-add-comment-form?u=76281980&t=310)** And then, in order to pass a request body, all we need to do is add a second argument to this, which is going to be a [[JavaScript]] object.
 >
 > **[5:18](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-an-add-comment-form?u=76281980&t=318)** And we're going to say that we want the postedBy, right, if we take a look at our server.js endpoint again, just to verify this, we see that sure enough we have postedBy and text, so we just need to change those properties a little bit in our requests that we're making.
 >
@@ -2913,7 +2883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[React.js|React]] (1), [[JavaScript]] (1), data (1), functional (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** nametext (5), commenttext (5), onaddcomment (4), usestate (4), setnametext (3)
 > **Cross-References:** go back to (4)
 > **Analogies:** just like (2), similar to (1)
@@ -2927,8 +2897,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Firebase Auth?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-firebase-auth?u=76281980)
+#### [Why Firebase Auth?](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-firebase-auth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2954,7 +2923,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-firebase-auth?u=76281980&t=72)** If you want to, you know, try and write your own logic for doing this, it's probably not going to be very secure unless you're an expert in this kind of thing.
 >
-> **[1:22](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-firebase-auth?u=76281980&t=82)** And that's why we're going to be using an off provider called Firebase off in order to do this for us.
+> **[1:22](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-firebase-auth?u=76281980&t=82)** And that's why we're going to be using an off provider called [[Firebase]] off in order to do this for us.
 >
 > **[1:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-firebase-auth?u=76281980&t=89)** So what you see here is just kind of the homepage for Firebase Authentication.
 >
@@ -2968,24 +2937,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Firebase]] (3)
+> **Frameworks & Libraries:** [[Firebase]] (3)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a Firebase project
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980)
+#### [Creating a Firebase project](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=0)** - [Instructor] Alright, so at this point you should have a Firebase Auth account created, and you should see a page that looks something like this, at least with a button that allows you to create a project like this one does here.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=0)** - [Instructor] Alright, so at this point you should have a [[Firebase]] Auth account created, and you should see a page that looks something like this, at least with a button that allows you to create a project like this one does here.
 >
 > **[0:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=13)** So what you're going to want to do here is click on Create a project, and that's going to take us through a little walkthrough where we'll get to specify things like the name of our project, as well as a few other things.
 >
 > **[0:25](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=25)** So first things first, the name of our project.
 >
-> **[0:27](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=27)** What we're going to do is we're going to call this Full Stack React, and I'm going to click Continue here.
+> **[0:27](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=27)** What we're going to do is we're going to call this Full Stack [[React.js|React]], and I'm going to click Continue here.
 >
 > **[0:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=34)** And notice underneath this that this is a unique identifier for your project.
 >
@@ -2995,7 +2963,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=50)** I'm just going to leave it with the pre-generated thing that they created for me.
 >
-> **[0:54](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=54)** And then I'm going to click Continue, and this will ask us if we want to enable Google Analytics for our Firebase project.
+> **[0:54](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=54)** And then I'm going to click Continue, and this will ask us if we want to enable [[Google]] Analytics for our Firebase project.
 >
 > **[1:01](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-firebase-project?u=76281980&t=61)** Now this is a very useful tool, but since it's not really relevant to this course, I'm going to disable it, and I recommend that you do the same.
 >
@@ -3013,19 +2981,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (3), [[React.js|React]] (2), [[Google]] (1), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Firebase]] (3), [[React.js|React]] (2), [[Google]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** node (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding Firebase Auth to React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980)
+#### [Adding Firebase Auth to React](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=0)** - [Instructor] Alright, well, now that we've created a Firebase project in the console, the next thing that we're going to have to do is actually connect this thing to our React application.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=0)** - [Instructor] Alright, well, now that we've created a [[Firebase]] project in the console, the next thing that we're going to have to do is actually connect this thing to our [[React.js|React]] application.
 >
 > **[0:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=10)** And as I said, we'll also need to add this into our backend.
 >
@@ -3037,7 +3004,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=26)** So a project can serve multiple apps.
 >
-> **[0:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=29)** Think about if you were to have an iPhone app, an Android app, and a web application, well, you could have a single fire base off project that would take care of authentication for all three of those.
+> **[0:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=29)** Think about if you were to have an iPhone app, an [[Android]] app, and a web application, well, you could have a single fire base off project that would take care of authentication for all three of those.
 >
 > **[0:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=41)** Alright, so what we're doing here is just kind of defining a platform that our Firebase project is going to be used on.
 >
@@ -3051,7 +3018,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=69)** And once we've done this, that might spin for a second or two, it's going to give us a lot of code that we're going to need to copy and paste into our project.
 >
-> **[1:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=79)** So the first thing it wants us to do is install the Firebase NPM package into our front end.
+> **[1:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=79)** So the first thing it wants us to do is install the Firebase [[npm]] package into our front end.
 >
 > **[1:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=86)** And for that, we're just going to click copy and copy that to our clipboard.
 >
@@ -3099,7 +3066,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=226)** And inside both of these, we're just going to get started by doing a super simple page, much like what we did with our homepage.
 >
-> **[3:53](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=233)** And we're just going to name this create account page, and we'll start off here by displaying an h1 heading that says create account, just so we can get the basic routing set up for these pages.
+> **[3:53](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=233)** And we're just going to name this create account page, and we'll start off here by displaying an h1 heading that says create account, just so we can get the basic [[Routing]] set up for these pages.
 >
 > **[4:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-react?u=76281980&t=246)** And then we'll do the same thing for our login page.
 >
@@ -3157,7 +3124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (11), [[React.js|React]] (5), next (3), [[npm]] (3), application (2)
+> **Frameworks & Libraries:** [[Firebase]] (11), [[React.js|React]] (5), [[npm]] (3), [[Android]] (1), [[Routing]] (1)
 > **CLI Commands:** npm (3), make (3)
 > **File Paths:** main.jsx (1), loginpage.jsx (1), createaccountpage.jsx (1), app.jsx (1)
 > **Env Vars:** npm (2), ide (1), url (1)
@@ -3166,12 +3133,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), checkbox (1)
 > **Code Identifiers:** iphone (1)
 
-#### Build a login form
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-login-form?u=76281980)
+#### [Build a login form](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-login-form?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-login-form?u=76281980&t=0)** - [Instructor] Alright, so now that we've added Firebase auth to our React project, as well as added the login page and create account page, let's actually implement these pages.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-login-form?u=76281980&t=0)** - [Instructor] Alright, so now that we've added [[Firebase]] auth to our [[React.js|React]] project, as well as added the login page and create account page, let's actually implement these pages.
 >
 > **[0:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-login-form?u=76281980&t=10)** And for that we'll start off with the login page.
 >
@@ -3261,7 +3227,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-login-form?u=76281980&t=316)** Alright, so now underneath the login heading and above the two text inputs, we're going to check and see if there's an error.
 >
-> **[5:25](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-login-form?u=76281980&t=325)** And if there is, we're going to display that inside a little paragraph tag. So the way that we do this is just by using short circuit evaluation in JavaScript, which we can do with the double ampersand symbol.
+> **[5:25](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-login-form?u=76281980&t=325)** And if there is, we're going to display that inside a little paragraph tag. So the way that we do this is just by using short circuit evaluation in [[JavaScript]], which we can do with the double ampersand symbol.
 >
 > **[5:37](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-login-form?u=76281980&t=337)** And we're just going to say p, and then we're going to insert the error into that so that it'll display what went wrong.
 >
@@ -3313,7 +3279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (7), [[React.js|React]] (5), next (4), dom (1), prompt (1)
+> **Frameworks & Libraries:** [[Firebase]] (7), [[React.js|React]] (5), [[JavaScript]] (1)
 > **Code Identifiers:** usestate (5), usenavigate (2), getauth (2), signinwithemailandpassword (2), setemail (2)
 > **Definitions:** is a  (2), in other words (1), we call this (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -3321,8 +3287,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a create account page
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980)
+#### [Build a create account page](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3342,11 +3307,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=44)** Instead, we're going to use something called CreateUserWithEmailAndPassword.
 >
-> **[0:50](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=50)** Firebase is well known for its very long and descriptive function names as you can see.
+> **[0:50](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=50)** [[Firebase]] is well known for its very long and descriptive function names as you can see.
 >
 > **[0:57](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=57)** But now that we've done that, let's just go down and make a few more changes.
 >
-> **[1:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=60)** Obviously we're going to need to change this login function a little bit, but for the most part, the rest of these things up here, the state variables and the navigate should be more or less the same.
+> **[1:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=60)** Obviously we're going to need to change this login function a little bit, but for the most part, the [[Representational State Transfer (REST)|rest]] of these things up here, the state variables and the navigate should be more or less the same.
 >
 > **[1:10](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=70)** So let's take a look at this return statement.
 >
@@ -3432,7 +3397,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=339)** Here we go. We have a full list of all of the different kinds of authentication that Firebase Auth allows.
 >
-> **[5:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=344)** So you can do things like Google OAuth, Facebook OAuth, et cetera, but we're just going to select Email/Password, and we're going to need to enable this.
+> **[5:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=344)** So you can do things like [[Google]] OAuth, Facebook OAuth, et cetera, but we're just going to select Email/Password, and we're going to need to enable this.
 >
 > **[5:52](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=352)** That's the cause of the error that we were seeing there.
 >
@@ -3462,7 +3427,7 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=412)** And we see that it also has the date when we last signed in.
 >
-> **[6:57](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=417)** So anyway, that is how to add a Create Account page, as well as how to actually create an account in Firebase programmatically from a React app.
+> **[6:57](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=417)** So anyway, that is how to add a Create Account page, as well as how to actually create an account in Firebase programmatically from a [[React.js|React]] app.
 >
 > **[7:08](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-a-create-account-page?u=76281980&t=428)** So the next thing that we're going to need to do is actually integrate this a little bit more deeply with our React application.
 >
@@ -3472,7 +3437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (7), application (2), [[React.js|React]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (7), [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Code Identifiers:** confirmpassword (2), createaccount (2), setconfirmpassword (1), seterror (1), signinwithemailandpassword (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2)
@@ -3481,8 +3446,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** setup (1)
 
-#### Making interface adjustments for authenticated users
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-interface-adjustments-for-authenticated-users?u=76281980)
+#### [Making interface adjustments for authenticated users](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-interface-adjustments-for-authenticated-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3502,7 +3466,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-interface-adjustments-for-authenticated-users?u=76281980&t=69)** Now, as I said, we're going to need to modify the text of this button depending on whether the user is logged in or not, and we'll also want to modify the behavior of this button as well.
 >
-> **[1:23](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-interface-adjustments-for-authenticated-users?u=76281980&t=83)** Now, we'll take a look in the next video at how we can create a custom react hook that will make it much easier to tell whether the user is logged in or not.
+> **[1:23](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-interface-adjustments-for-authenticated-users?u=76281980&t=83)** Now, we'll take a look in the next video at how we can create a custom [[React.js|react]] hook that will make it much easier to tell whether the user is logged in or not.
 >
 > **[1:33](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-interface-adjustments-for-authenticated-users?u=76281980&t=93)** But for now, what we're going to do is just create a simple, it's not even a state variable, we're just going to create a constant here that says const isLoggedIn, and we're going to set that to true, but we'll also be able to set that to false so that we can see the different functionality.
 >
@@ -3520,7 +3484,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-interface-adjustments-for-authenticated-users?u=76281980&t=143)** This will actually be able to implement pretty easily here.
 >
-> **[2:27](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-interface-adjustments-for-authenticated-users?u=76281980&t=147)** We're going to say, and I'm using a ternary operator here, so I'll put the sign in one in the next condition, we're going to say button, the onClick event for this button is going to call a function that will import from Firebase off.
+> **[2:27](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-interface-adjustments-for-authenticated-users?u=76281980&t=147)** We're going to say, and I'm using a ternary operator here, so I'll put the sign in one in the next condition, we're going to say button, the onClick event for this button is going to call a function that will import from [[Firebase]] off.
 >
 > **[2:42](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-interface-adjustments-for-authenticated-users?u=76281980&t=162)** So let's actually go up to the top and do that here.
 >
@@ -3588,7 +3552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[React.js|React]] (2), [[Firebase]] (2), dom (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Firebase]] (2)
 > **Code Identifiers:** usenavigate (4), isloggedin (3), signout (3), getauth (3), onclick (1)
 > **Cross-References:** in the next (3), go back to (2)
 > **CLI Commands:** make (2), find (1)
@@ -3597,12 +3561,11 @@ created: 2026-05-02
 > **File Paths:** navbar.jsx (1)
 > **Env Vars:** ide (1)
 
-#### Creating a custom auth hook
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980)
+#### [Creating a custom auth hook](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=0)** - [Instructor] Alright, so as I said, the next step here is going to be to create a custom React hook that we can use to very easily learn in any of our page components or other components such as a nav bar, whether the user is logged in or not, and if they are, what their email address is, as well as other information about the user.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=0)** - [Instructor] Alright, so as I said, the next step here is going to be to create a custom [[React.js|React]] hook that we can use to very easily learn in any of our page components or other components such as a nav bar, whether the user is logged in or not, and if they are, what their email address is, as well as other information about the user.
 >
 > **[0:22](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=22)** So here's how this is going to work.
 >
@@ -3610,9 +3573,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=27)** We're just going to create a new file inside our source directory called useUser.js.
 >
-> **[0:35](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=35)** This doesn't even need to be jsx because it's just going to be JavaScript code.
+> **[0:35](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=35)** This doesn't even need to be jsx because it's just going to be [[JavaScript]] code.
 >
-> **[0:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=41)** And the first thing we're going to do is import a few utilities that we're going to need from both React and Firebase Auth.
+> **[0:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=41)** And the first thing we're going to do is import a few utilities that we're going to need from both React and [[Firebase]] Auth.
 >
 > **[0:50](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=50)** So here's what that's going to look like.
 >
@@ -3624,7 +3587,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=115)** So in order to make that a reality, here's what that's going to look like.
 >
-> **[1:58](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=118)** We're going to start off by saying constant useUser, these custom hooks do have to start with the word use, that's just a very important convention that React uses in order to find these hooks.
+> **[1:58](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=118)** We're going to start off by saying constant useUser, these custom hooks do have to start with the [[Microsoft Word|word]] use, that's just a very important convention that React uses in order to find these hooks.
 >
 > **[2:11](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=131)** And then the first thing that we're going to do is create two state variables.
 >
@@ -3722,7 +3685,7 @@ created: 2026-05-02
 >
 > **[8:28](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=508)** We're going to say shaun@[gmail.com](https://gmail.com).
 >
-> **[8:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=510)** I'm going to use that password that I used, ABC123, and we're going to click the login button and we're going to ignore (chuckling) Google Chrome's complaint about that password, and sure enough, we see that we are now logged in again.
+> **[8:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=510)** I'm going to use that password that I used, ABC123, and we're going to click the login button and we're going to ignore (chuckling) [[Google]] Chrome's complaint about that password, and sure enough, we see that we are now logged in again.
 >
 > **[8:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/creating-a-custom-auth-hook?u=76281980&t=524)** So it looks like our nav bar is working quite well.
 >
@@ -3730,7 +3693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (10), [[React.js|React]] (6), next (3), data (2), application (2)
+> **Frameworks & Libraries:** [[Firebase]] (10), [[React.js|React]] (6), [[JavaScript]] (1), [[Microsoft Word|Word]] (1), [[Google]] (1)
 > **Code Identifiers:** useuser (7), useeffect (5), onauthstatechanged (5), isloading (4), usestate (3)
 > **CLI Commands:** make (6), find (2)
 > **Analogies:** such as (2), for example (1)
@@ -3739,14 +3702,13 @@ created: 2026-05-02
 > **Env Vars:** abc123 (1)
 > **Cross-References:** go back to (1)
 
-#### Adding Firebase Auth to Node.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980)
+#### [Adding Firebase Auth to Node.js](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=0)** - [Instructor] Alright, so as I mentioned, there's a few adjustments that we're going to have to make to our front end now that we have access to the user and whether or not they're logged in.
 >
-> **[0:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=9)** But before we do that, we're actually going to take a slight detour and go to the backend because we're going to need to add Firebase off there as well.
+> **[0:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=9)** But before we do that, we're actually going to take a slight detour and go to the backend because we're going to need to add [[Firebase]] off there as well.
 >
 > **[0:20](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=20)** Now, the reason we need to do this is because even if we put certain protective measures in place on the front end, the endpoints on our server aren't safe unless we actually put logic in the server that will verify that a logged-in user is making that request, right?
 >
@@ -3756,7 +3718,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=58)** And we're going to need to open up our server file here.
 >
-> **[1:01](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=61)** And in order to make this work, we're going to need to install an NPM package into our backend called Firebase Admin.
+> **[1:01](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=61)** And in order to make this work, we're going to need to install an [[npm]] package into our backend called Firebase Admin.
 >
 > **[1:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=69)** This is actually a slightly different package than what we used for our front end because it's a more powerful and if you're not careful, dangerous package to use, since in theory it has full access to your Firebase projects.
 >
@@ -3796,13 +3758,13 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=212)** You definitely don't want anyone to have access to it.
 >
-> **[3:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=214)** So you're going to want to avoid committing this key to GitHub.
+> **[3:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=214)** So you're going to want to avoid committing this key to [[GitHub]].
 >
 > **[3:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=218)** I'm going to click Generate key here.
 >
-> **[3:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=220)** And now that we've done that, that should download that as this JSON file.
+> **[3:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=220)** And now that we've done that, that should download that as this [[JSON]] file.
 >
-> **[3:45](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=225)** All right, so what we're going to need to do now is move this JSON file into our IDE, which, if you're using Codespaces, should be pretty straightforward.
+> **[3:45](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=225)** All right, so what we're going to need to do now is move this JSON file into our IDE, which, if you're using [[Codespaces]], should be pretty straightforward.
 >
 > **[3:54](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/adding-firebase-auth-to-node-js?u=76281980&t=234)** You should be able to just access those downloads, drop it into here.
 >
@@ -3856,7 +3818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (12), [[JSON]] (8), [[npm]] (3), node (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Firebase]] (12), [[JSON]] (8), [[npm]] (3), [[GitHub]] (2), [[Codespaces]] (1)
 > **CLI Commands:** make (6), npm (3), node (2)
 > **File Paths:** credentials.json (5)
 > **Env Vars:** json (3), npm (1), ide (1)
@@ -3865,12 +3827,11 @@ created: 2026-05-02
 > **Definitions:** in other words (1), is a  (1)
 > **Code Identifiers:** readfilesync (1)
 
-#### Protecting endpoints using auth tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/protecting-endpoints-using-auth-tokens?u=76281980)
+#### [Protecting endpoints using auth tokens](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/protecting-endpoints-using-auth-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/protecting-endpoints-using-auth-tokens?u=76281980&t=0)** - [Instructor] All right, so now that we've added firebase-admin to our express server, it's time to see how we can protect the upvote and comment endpoints so that only users who are logged in will be able to do those things.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/protecting-endpoints-using-auth-tokens?u=76281980&t=0)** - [Instructor] All right, so now that we've added [[Firebase]]-admin to our express server, it's time to see how we can protect the upvote and comment endpoints so that only users who are logged in will be able to do those things.
 >
 > **[0:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/protecting-endpoints-using-auth-tokens?u=76281980&t=13)** And additionally, we'll also see how to make sure that users are only allowed to add one upvote to an article.
 >
@@ -3932,15 +3893,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), [[Firebase]] (3), next (3), api (1), front-end (1)
+> **Frameworks & Libraries:** [[Firebase]] (3)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** sendstatus (1), verifyidtoken (1)
 > **Env Vars:** api (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting the upvote and comment endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/protecting-the-upvote-and-comment-endpoints?u=76281980)
+#### [Protecting the upvote and comment endpoints](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/protecting-the-upvote-and-comment-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4024,14 +3984,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), next (2)
 > **Code Identifiers:** upvoteids (6), canupvote (2), findone (1), findoneandupdate (1), sendstatus (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making requests with auth tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980)
+#### [Making requests with auth tokens](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4059,7 +4017,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=92)** So we'll say user and await user.getIdToken.
 >
-> **[1:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=100)** That's just a function that Firebase Auth provides for us that we can call in order to generate an ID token for the user.
+> **[1:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=100)** That's just a function that [[Firebase]] Auth provides for us that we can call in order to generate an ID token for the user.
 >
 > **[1:48](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=108)** And now that we have that, we're going to specify the headers by saying const headers equals, and then we'll check to make sure if there's actually a token.
 >
@@ -4071,7 +4029,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=135)** Cool, so now all we have to do is add those headers to this request that we're sending.
 >
-> **[2:21](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=141)** And the way that we do that with a get request is we have to pass null as the second argument to indicate that we don't want a request body here, and then we're going to pass our headers as part of a JavaScript object like so.
+> **[2:21](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=141)** And the way that we do that with a get request is we have to pass null as the second argument to indicate that we don't want a request body here, and then we're going to pass our headers as part of a [[JavaScript]] object like so.
 >
 > **[2:36](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=156)** Cool, so that should include the authtoken for the upvote endpoint, but we're going to want to also do this with the comment endpoint and what this is going to look like, we can actually just use pretty much the same two lines.
 >
@@ -4131,7 +4089,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=338)** And we'll log in.
 >
-> **[5:39](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=339)** And once again, ignore Google Chrome's warning.
+> **[5:39](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=339)** And once again, ignore [[Google]] Chrome's warning.
 >
 > **[5:42](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/making-requests-with-auth-tokens?u=76281980&t=342)** And now let's just take a look at one of these articles here.
 >
@@ -4161,7 +4119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[JavaScript]] (2), application (2), [[Firebase]] (1), database (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Firebase]] (1), [[Google]] (1)
 > **CLI Commands:** make (9)
 > **Code Identifiers:** useuser (3), isloading (2), onupvoteclicked (1), getidtoken (1), sendstatus (1)
 > **URLs:** [gmail.com](https://gmail.com) (1)
@@ -4175,14 +4133,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing an app for release
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980)
+#### [Preparing an app for release](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=0)** - [Instructor] So at this point we have a full stack application with user auth added.
 >
-> **[0:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=6)** So let's actually build this thing and release it to Google Cloud.
+> **[0:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=6)** So let's actually build this thing and release it to [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:11](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=11)** Now, there are a few things that we're going to need to do here in order to prepare our app for release.
 >
@@ -4198,9 +4155,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=45)** We're going to stop our backend application, and we are going to leave Mongo running in the background.
 >
-> **[0:51](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=51)** But now if we go into our front end, what you're going to want to do is run npm run build inside of there.
+> **[0:51](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=51)** But now if we go into our front end, what you're going to want to do is run [[npm]] run build inside of there.
 >
-> **[0:57](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=57)** And what that does is it takes our React application's files, which are relatively easy for developers to read, but not really optimized for production, and it builds them into a single bundle consisting of three files, which we can see here.
+> **[0:57](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=57)** And what that does is it takes our [[React.js|React]] application's files, which are relatively easy for developers to read, but not really optimized for production, and it builds them into a single bundle consisting of three files, which we can see here.
 >
 > **[1:14](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=74)** So let's go into our front end now, and what we're going to want to do is we're going to want to take this dist directory and add it to our backend.
 >
@@ -4208,7 +4165,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=91)** We're going to say Move, and we're also going to want to add that to gitignore.
 >
-> **[1:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=94)** There's really no reason to commit that to GitHub.
+> **[1:34](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=94)** There's really no reason to commit that to [[GitHub]].
 >
 > **[1:38](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=98)** So what I'm going to do is go into the gitignore file here and add back-end, there we go, slash dist.
 >
@@ -4242,7 +4199,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=195)** And here's where things get a little bit tricky.
 >
-> **[3:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=199)** Using path.join, or anything from that path module in Node.js, becomes a little bit more difficult when we're using the module type instead of CommonJS.
+> **[3:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=199)** Using path.join, or anything from that path module in [[Node.js]], becomes a little bit more difficult when we're using the module type instead of CommonJS.
 >
 > **[3:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=210)** So what we're going to need to do up at the top here, just bear with me, or you can copy this from the finished state of the code if you want.
 >
@@ -4262,7 +4219,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=259)** And we're going to say path.join.
 >
-> **[4:23](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=263)** And we're going to say double underscore dirname, and then we're going to say dot dot slash build/index.html.
+> **[4:23](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=263)** And we're going to say double underscore dirname, and then we're going to say dot dot slash build/index.[[HTML]].
 >
 > **[4:33](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=273)** And now that we've done that, we're also going to need to add a little bit of middleware here by saying app.use express.static path.join.
 >
@@ -4286,7 +4243,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=321)** So go into the backend terminal and we're going to say npm run dev.
 >
-> **[5:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=329)** And what we should be able to see now is if we go to local host 8000, and in Codespaces, we do need to actually open this up through the Ports tab.
+> **[5:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=329)** And what we should be able to see now is if we go to local host 8000, and in [[Codespaces]], we do need to actually open this up through the Ports tab.
 >
 > **[5:40](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=340)** So we're going to go to the 8000 port now and we're going to click on Open in Browser.
 >
@@ -4324,13 +4281,13 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=440)** So as far as our React app and Express app are concerned, this app is ready for release.
 >
-> **[7:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=446)** But one other thing we're going to need to make sure of is that our app can still connect to MongoDB even when it's hosted.
+> **[7:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=446)** But one other thing we're going to need to make sure of is that our app can still connect to [[MongoDB]] even when it's hosted.
 >
 > **[7:33](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980&t=453)** So we're going to need to consider a hosted solution for MongoDB, which is what we're going to take a look at next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), express (4), api (4), [[npm]] (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[npm]] (2), [[React.js|React]] (2), [[Codespaces]] (2), [[MongoDB]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (6), npm (2), mongo (1), node (1)
 > **Env Vars:** port (3), api (2), url (1)
 > **File Paths:** server.js (2), node.js (1), build/index.html (1), process.env (1)
@@ -4339,14 +4296,13 @@ created: 2026-05-02
 > **Ports:** port 8000 (2)
 > **Tools:** github (1), terminal (1)
 
-#### Setting up hosting for MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980)
+#### [Setting up hosting for MongoDB](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=0)** - [Instructor] All right, so now that we have our front-end and back-end served from the same server, the next thing that we're going to need to do is figure out another alternative for MongoDB, right?
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=0)** - [Instructor] All right, so now that we have our front-end and back-end served from the same server, the next thing that we're going to need to do is figure out another alternative for [[MongoDB]], right?
 >
-> **[0:11](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=11)** Currently we just have MongoDB running in our Codespaces or locally, and that's not going to work, obviously, when we release our application.
+> **[0:11](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=11)** Currently we just have MongoDB running in our [[Codespaces]] or locally, and that's not going to work, obviously, when we release our application.
 >
 > **[0:21](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=21)** So, what I'm going to recommend you do is use a hosted solution for MongoDB.
 >
@@ -4360,9 +4316,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=52)** Now, you probably haven't created any organizations yet, so what you're going to want to do is click Create New Organization, and you're just going to need to provide things like a name for the organization as well as make sure to select the free tier for the organization.
 >
-> **[1:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=69)** But over here, you see that I already have one for LinkedIn Learning so I'm going to click on that, and you'll see that I already have one project in here from another course.
+> **[1:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=69)** But over here, you see that I already have one for [[LinkedIn]] Learning so I'm going to click on that, and you'll see that I already have one project in here from another course.
 >
-> **[1:18](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=78)** But up here in the top right-hand corner, we're going to click on New Project and we're going to name this something like Full-stack React.
+> **[1:18](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=78)** But up here in the top right-hand corner, we're going to click on New Project and we're going to name this something like Full-stack [[React.js|React]].
 >
 > **[1:27](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=87)** And I'm going to leave this tags thing blank and click Next.
 >
@@ -4458,7 +4414,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=345)** You can always get back to it later on if you need to by clicking this Get connection string button down here.
 >
-> **[5:51](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=351)** But what we're going to do is we're going to go into Network Access and for now, we're just going to click ADD IP ADDRESS, and you can add the specific IP address of Codespaces if you want to or of your Google Cloud app.
+> **[5:51](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=351)** But what we're going to do is we're going to go into Network Access and for now, we're just going to click ADD IP ADDRESS, and you can add the specific IP address of Codespaces if you want to or of your [[Google Cloud Platform (GCP)|Google Cloud]] app.
 >
 > **[6:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/setting-up-hosting-for-mongodb?u=76281980&t=366)** But for now, just to make things much easier, I'm going to click ALLOW ACCESS FROM ANYWHERE.
 >
@@ -4518,7 +4474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (14), database (6), next (5), [[Codespaces]] (5), [[React.js|React]] (5)
+> **Frameworks & Libraries:** [[MongoDB]] (14), [[Codespaces]] (5), [[React.js|React]] (5), [[LinkedIn]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (10), node (2), mongo (2)
 > **Env Vars:** mongodb_username (1), mongodb_password (1), ide (1), add (1), address (1)
 > **Best Practices:** make sure to (4), recommended (1)
@@ -4527,12 +4483,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), make sure you have (1), set up (1)
 > **File Paths:** back-end/.env (1), server.js (1)
 
-#### Defining environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980)
+#### [Defining environment variables](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=0)** - [Instructor] All right, so at this point we've set up hosting for MongoDB, so we're almost ready to release.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=0)** - [Instructor] All right, so at this point we've set up hosting for [[MongoDB]], so we're almost ready to release.
 >
 > **[0:07](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=7)** The last thing we need to do here is we need to make sure that we specify the correct URL for connecting to MongoDB, depending on the environment.
 >
@@ -4556,7 +4511,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=78)** So, let's click on Drivers.
 >
-> **[1:20](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=80)** We're going to want Node.js, MongoDB, and here we go.
+> **[1:20](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=80)** We're going to want [[Node.js]], MongoDB, and here we go.
 >
 > **[1:24](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=84)** We have this nice URL that it gives us, including the username and password, which we're going to be replacing.
 >
@@ -4568,7 +4523,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=108)** So the first thing we're going to want is the username.
 >
-> **[1:51](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=111)** We're going to just replace this full-stack-react-server thing with ${process.env.MONGOBD_USERNAME} and then for the password, we're going to replace that with same thing, process.env, but we're going to say MONGODB_PASSWORD, okay?
+> **[1:51](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=111)** We're going to just replace this full-stack-[[React.js|react]]-server thing with ${process.env.MONGOBD_USERNAME} and then for the password, we're going to replace that with same thing, process.env, but we're going to say MONGODB_PASSWORD, okay?
 >
 > **[2:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=133)** And finally, you might want to move some of the other things into environment variables, as well, such as the database name here.
 >
@@ -4578,11 +4533,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=156)** So if we run this locally, in other words, we'll have the local connection string.
 >
-> **[2:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=161)** If we run it in production right on Google Cloud, we're going to use this URL here.
+> **[2:41](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=161)** If we run it in production right on [[Google Cloud Platform (GCP)|Google Cloud]], we're going to use this URL here.
 >
 > **[2:48](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=168)** Cool.
 >
-> **[2:49](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=169)** So now that we've done this, the next thing we're going to do is we need to go into our backend and specifically into package.json on the backend and add a start script.
+> **[2:49](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=169)** So now that we've done this, the next thing we're going to do is we need to go into our backend and specifically into package.[[JSON]] on the backend and add a start script.
 >
 > **[3:01](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=181)** This is just the default for most hosting platforms.
 >
@@ -4620,7 +4575,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=301)** And you're going to want to add this one, as well, to the .gitignore file, so let's just do that real quick.
 >
-> **[5:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=306)** We'll say back-end/prod-env.yaml just to make sure that you don't publish that sensitive information to GitHub.
+> **[5:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=306)** We'll say back-end/prod-env.yaml just to make sure that you don't publish that sensitive information to [[GitHub]].
 >
 > **[5:16](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/defining-environment-variables?u=76281980&t=316)** And now, if we close prod-env.yaml and package.json, the last thing we need to do is actually tell app.yaml to include those environment variables by saying includes and then we're going to say prod-env.yaml.
 >
@@ -4628,7 +4583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), [[Node.js]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), next (3), database (2)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Node.js]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[JSON]] (2), [[React.js|React]] (1)
 > **File Paths:** node.js (3), process.env (3), prod-env.yaml (3), package.json (2), src/server.js (2)
 > **CLI Commands:** make (5), node (5), mongo (2), find (1), npx (1)
 > **Env Vars:** url (4), mongodb_password (2), mongodb_username (2), uri (1), mongodb (1)
@@ -4637,14 +4592,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** such as (2)
 
-#### Deploying a full-stack application
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980)
+#### [Deploying a full-stack application](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=0)** - [Instructor] Okay, well, at last, we should be able to release our application.
 >
-> **[0:05](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=5)** But one last thing you're going to need to do in order to make this work, is you're going to need to install the gcloud CLI.
+> **[0:05](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=5)** But one last thing you're going to need to do in order to make this work, is you're going to need to install the gcloud [[CLI]].
 >
 > **[0:13](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=13)** So, you can find this usually just by searching for install the gcloud CLI.
 >
@@ -4654,9 +4608,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=25)** So, as you can see, you can select the operating system that you're working on right now.
 >
-> **[0:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=29)** If you're working in Codespaces, that's usually going to be some sort of distribution of Ubuntu, so, feel free to use that.
+> **[0:29](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=29)** If you're working in [[Codespaces]], that's usually going to be some sort of distribution of [[Ubuntu]], so, feel free to use that.
 >
-> **[0:37](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=37)** But if you're on a Mac or Windows, you're going to obviously select a different tab.
+> **[0:37](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=37)** But if you're on a Mac or [[Windows]], you're going to obviously select a different tab.
 >
 > **[0:42](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=42)** Now, once you've installed the gcloud CLI, what you should be able to do, just to verify that everything is working, is you should be able to run the command gcloud --version.
 >
@@ -4666,9 +4620,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=63)** In general, these commands should work in the same way.
 >
-> **[1:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=66)** All right, so, now that that's working, one last thing that I wanted to show you here, is that when we created a Firebase project, behind the scenes, we also actually created a project on Google Cloud.
+> **[1:06](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=66)** All right, so, now that that's working, one last thing that I wanted to show you here, is that when we created a [[Firebase]] project, behind the scenes, we also actually created a project on [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[1:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=79)** So, if you go to [console.cloud](https://console.cloud).[google.com](https://google.com), you should be able to find that project that we just created in Firebase in this drop-down here, right?
+> **[1:19](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=79)** So, if you go to [console.cloud](https://console.cloud).[[[Google]].com](https://google.com), you should be able to find that project that we just created in Firebase in this drop-down here, right?
 >
 > **[1:30](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=90)** If you select that, you should be able to search by project name and find this one here.
 >
@@ -4788,13 +4742,13 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=368)** And ignoring, once again, those warnings, we should be able now to upvote these articles like so, as well as add comments.
 >
-> **[6:17](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=377)** So, anyway, congratulations on building and deploying this full-stack React application with me.
+> **[6:17](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=377)** So, anyway, congratulations on building and deploying this full-stack [[React.js|React]] application with me.
 >
 > **[6:24](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/deploying-a-full-stack-application?u=76281980&t=384)** The last thing that we're going to do in the next video, is see how we can shut this down to avoid any extra costs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Firebase]] (4), hit (4), [[CLI]] (3)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Firebase]] (4), [[CLI]] (3), [[Codespaces]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** gcloud (10), find (4), make (2)
 > **Env Vars:** cli (3), url (3), ide (2)
 > **Cross-References:** go back to (3), in the next (1)
@@ -4803,12 +4757,11 @@ created: 2026-05-02
 > **URLs:** [console.cloud](https://console.cloud) (1), [google.com](https://google.com) (1)
 > **File Paths:** prod-end.yaml (1)
 
-#### Shutting down a Google Cloud project
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/shutting-down-a-google-cloud-project?u=76281980)
+#### [Shutting down a Google Cloud project](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/shutting-down-a-google-cloud-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/shutting-down-a-google-cloud-project?u=76281980&t=0)** - [Instructor] All right, so now that we've released a full stack React application on Google Cloud, the last thing that I wanted to show you here in order to avoid extra costs that you have to pay to Google Cloud for running your project is I'm going to show you how to shut down a project on Google Cloud.
+> **[0:00](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/shutting-down-a-google-cloud-project?u=76281980&t=0)** - [Instructor] All right, so now that we've released a full stack [[React.js|React]] application on [[Google Cloud Platform (GCP)|Google Cloud]], the last thing that I wanted to show you here in order to avoid extra costs that you have to pay to Google Cloud for running your project is I'm going to show you how to shut down a project on Google Cloud.
 >
 > **[0:17](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/shutting-down-a-google-cloud-project?u=76281980&t=17)** Really the most effective and straightforward way of doing this is to go to your project dashboard here, and then what you're going to do is go to Billing account management and select the billing account that you just created.
 >
@@ -4822,7 +4775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[React.js|React]] (1), application (1), management (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[React.js|React]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -4831,8 +4784,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in your React journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980)
+#### [Next steps in your React journey](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4842,7 +4794,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980&t=3)** We have covered a lot of ground in this course, and the first thing I want to do is thank you for joining me on this journey.
 >
-> **[0:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980&t=9)** By now, you've gained some incredibly valuable skills in full-stack React development, including building front ends with React, building backends with no js and Express, and of course, adding database functionality with MongoDB as well as hosting this whole thing on the cloud.
+> **[0:09](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980&t=9)** By now, you've gained some incredibly valuable skills in full-stack [[React.js|React]] development, including building front ends with React, building backends with no js and Express, and of course, adding database functionality with [[MongoDB]] as well as hosting this whole thing on the cloud.
 >
 > **[0:26](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980&t=26)** So, now, that the course is over, you're probably wondering where to go next.
 >
@@ -4852,9 +4804,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980&t=44)** And also, if you have any questions or want to share your progress, feel free to post in the course's Q&A section.
 >
-> **[0:50](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980&t=50)** And you can also connect with me on LinkedIn or follow me on X, formerly Twitter, where I regularly post software development related tips and tutorials.
+> **[0:50](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980&t=50)** And you can also connect with me on [[LinkedIn]] or follow me on X, formerly Twitter, where I regularly post [[Software Development]] related tips and tutorials.
 >
-> **[0:59](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980&t=59)** And finally, if you're looking for other courses, I'd highly recommend checking out some of my other courses in the LinkedIn Learning Library, including courses on working in the React ecosystem, software architecture, and design patterns with React and so much more.
+> **[0:59](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980&t=59)** And finally, if you're looking for other courses, I'd highly recommend checking out some of my other courses in the LinkedIn Learning Library, including courses on working in the React ecosystem, [[Software Architecture]], and [[Design Patterns]] with React and so much more.
 >
 > **[1:14](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980&t=74)** So, keep coding, keep learning, and I can't wait to see what you build with React.
 >
@@ -4862,7 +4814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), [[LinkedIn]] (2), full-stack (1), express (1), database (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[LinkedIn]] (2), [[MongoDB]] (1), [[Software Development]] (1), [[Software Architecture]] (1)
 > **Speakers:** - well (1)
 
 

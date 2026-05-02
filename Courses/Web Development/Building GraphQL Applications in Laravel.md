@@ -84,22 +84,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build GraphQL apps in Laravel
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980)
+#### [Build GraphQL apps in Laravel](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=0)** - [Mandeeya] Application programming interfaces bring different applications together and enable access to information on different servers.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=0)** - [Mandeeya] [[Application Programming Interfaces (API)|Application programming interfaces]] bring different applications together and enable access to information on different servers.
 >
-> **[0:09](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=9)** GraphQL is one way to enable application-to-application communication.
+> **[0:09](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=9)** [[GraphQL]] is one way to enable application-to-application communication.
 >
-> **[0:14](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=14)** With an increase in number of new APIs being built in GraphQL, it is imperative to know how to fetch, create, and alter data on the server.
+> **[0:14](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=14)** With an increase in number of new APIs being built in GraphQL, it is imperative to know how to [[Fetch]], create, and alter data on the server.
 >
 > **[0:24](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=24)** In this course, we will start with an introduction to GraphQL.
 >
 > **[0:28](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=28)** We'll learn about the different types, queries, and mutations, and then we will build a GraphQL API together from scratch based on users' data to perform CRUD functions.
 >
-> **[0:42](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=42)** At the end of this course, you will learn how to build a GraphQL API in PHP and how to create, alter, and retrieve data from a GraphQL API.
+> **[0:42](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=42)** At the end of this course, you will learn how to build a GraphQL API in [[PHP]] and how to create, alter, and retrieve data from a GraphQL API.
 >
 > **[0:54](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980&t=54)** My name is Mandeeya, and I've been programming and building web and API applications for the past 10 years, and I'm very excited about the future of APIs on the web.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (7), api (4), data (3), application (2), [[PHP]] (2)
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[PHP]] (2), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Fetch]] (1)
 > **Env Vars:** api (4), php (2), crud (1)
 > **CLI Commands:** php (2)
 > **Speakers:** - [mandeeya] (1)
@@ -117,12 +116,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is GraphQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/what-is-graphql?u=76281980)
+#### [What is GraphQL?](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/what-is-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/what-is-graphql?u=76281980&t=0)** - [Instructor] Let's start by defining what GraphQL is.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/what-is-graphql?u=76281980&t=0)** - [Instructor] Let's start by defining what [[GraphQL]] is.
 >
 > **[0:04](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/what-is-graphql?u=76281980&t=4)** GraphQL is a query language for APIs, and can be used to query data from a server.
 >
@@ -142,24 +140,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[GraphQL]] (7), api (3), database (2)
+> **Frameworks & Libraries:** [[GraphQL]] (7)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### GraphQL versus REST
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/graphql-versus-rest?u=76281980)
+#### [GraphQL versus REST](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/graphql-versus-rest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/graphql-versus-rest?u=76281980&t=0)** - [Instructor] The most common type of APIs available are REST APIs.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/graphql-versus-rest?u=76281980&t=0)** - [Instructor] The most common type of APIs available are [[Representational State Transfer (REST)|REST]] APIs.
 >
 > **[0:05](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/graphql-versus-rest?u=76281980&t=5)** REST has for long been the standard approach for building APIs.
 >
-> **[0:09](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/graphql-versus-rest?u=76281980&t=9)** REST stands for Representational State Transfer and represents the constraints of REST architectural style, which allows for interaction with RESTful web services.
+> **[0:09](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/graphql-versus-rest?u=76281980&t=9)** REST stands for [[Representational State Transfer (REST)|Representational State Transfer]] and represents the constraints of REST architectural style, which allows for interaction with RESTful web services.
 >
-> **[0:21](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/graphql-versus-rest?u=76281980&t=21)** Let's take a look at some of the differences between a REST and GraphQL API.
+> **[0:21](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/graphql-versus-rest?u=76281980&t=21)** Let's take a look at some of the differences between a REST and [[GraphQL]] API.
 >
 > **[0:27](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/graphql-versus-rest?u=76281980&t=27)** In a REST API, there are many HTTP methods that can be used to define endpoints, the most common being GET, POST, PUT and DELETE.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (14), api (12), [[GraphQL]] (8), data (2), [[Representational State Transfer (REST)|Representational state transfer]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (14), [[GraphQL]] (8), [[Representational State Transfer (REST)|Representational state transfer]] (1)
 > **Env Vars:** rest (14), api (12), post (4), put (3), delete (3)
 > **API Endpoints:** put  (3), get  (2), post  (2), delete  (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -217,18 +214,17 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why GraphQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980)
+#### [Why GraphQL?](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=0)** - So, why use GraphQL?
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=0)** - So, why use [[GraphQL]]?
 >
-> **[0:03](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=3)** Given the popularity of REST APIs, why would one use GraphQL over the internet standard for many years?
+> **[0:03](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=3)** Given the popularity of [[Representational State Transfer (REST)|REST]] APIs, why would one use GraphQL over the internet standard for many years?
 >
 > **[0:10](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=10)** There are many reasons why you should consider using GraphQL and we'll take a look at some of the reasons.
 >
-> **[0:16](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=16)** Due to the ability to only fetch and access the data you want in the shape you need, GraphQL APIs tend to use only the resources required to give you what you want.
+> **[0:16](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=16)** Due to the ability to only [[Fetch]] and access the data you want in the shape you need, GraphQL APIs tend to use only the resources required to give you what you want.
 >
 > **[0:27](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=27)** This means, GraphQL prevents over-fetching or under-fetching of data.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=67)** GraphQL APIs are organized in terms of fields and types, not endpoints, which enables clients to access the full capabilities of data from a single endpoint.
 >
-> **[1:19](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=79)** This makes GraphQL queries cleaner and easier to read and navigate, given that they're written in JSON, which is a format almost every developer's familiar with.
+> **[1:19](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=79)** This makes GraphQL queries cleaner and easier to read and navigate, given that they're written in [[JSON]], which is a format almost every developer's familiar with.
 >
 > **[1:29](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/why-graphql?u=76281980&t=89)** Every GraphQL API conforms to a schema, which defines the shape of the data model and the queries a client can make.
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (13), data (6), api (4), product (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (13), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1), [[JSON]] (1)
 > **Env Vars:** api (4), rest (1), json (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -267,12 +263,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The type system
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-type-system?u=76281980)
+#### [The type system](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-type-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-type-system?u=76281980&t=0)** - [Instructor] The GraphQL type system is used to describe the potential a GraphQL sever has.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-type-system?u=76281980&t=0)** - [Instructor] The [[GraphQL]] type system is used to describe the potential a GraphQL sever has.
 >
 > **[0:06](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-type-system?u=76281980&t=6)** This means we can say that a GraphQL schema is made out of types by way of describing what data can be queried.
 >
@@ -292,19 +287,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (7), data (3), api (2), next (2)
+> **Frameworks & Libraries:** [[GraphQL]] (7)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### The object types and fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-object-types-and-fields?u=76281980)
+#### [The object types and fields](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-object-types-and-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-object-types-and-fields?u=76281980&t=0)** - [Instructor] Let's take a look at what GraphQL object types and fields are.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-object-types-and-fields?u=76281980&t=0)** - [Instructor] Let's take a look at what [[GraphQL]] object types and fields are.
 >
 > **[0:05](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-object-types-and-fields?u=76281980&t=5)** Object types are the fundamental components of a GraphQL schema.
 >
@@ -322,7 +316,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-object-types-and-fields?u=76281980&t=33)** This means that name and address are the fields defined with the user object.
 >
-> **[0:38](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-object-types-and-fields?u=76281980&t=38)** When we want to fetch user information, these are the fields that would be available and only these fields based on how we're defining it in our GraphQL API.
+> **[0:38](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-object-types-and-fields?u=76281980&t=38)** When we want to [[Fetch]] user information, these are the fields that would be available and only these fields based on how we're defining it in our GraphQL API.
 >
 > **[0:49](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-object-types-and-fields?u=76281980&t=49)** The string definition is a built-in GraphQL scaler type.
 >
@@ -348,18 +342,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (7), data (1), [[Fetch]] (1), api (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[Fetch]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** api (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The query and mutation types
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980)
+#### [The query and mutation types](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980&t=0)** - [Instructor] With our understanding of object types and fields, we can dive into the other types in GraphQL.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980&t=0)** - [Instructor] With our understanding of object types and fields, we can dive into the other types in [[GraphQL]].
 >
 > **[0:07](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980&t=7)** Most of the time you will be working with object types.
 >
@@ -371,9 +364,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980&t=24)** A schema defines the capabilities of a GraphQL API, and the query type defines the queries a GraphQL offers.
 >
-> **[0:32](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980&t=32)** In other words, you can think of a query as rest endpoint, an entry point to querying a graph.
+> **[0:32](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980&t=32)** In other words, you can think of a query as [[Representational State Transfer (REST)|rest]] endpoint, an entry point to querying a graph.
 >
-> **[0:39](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980&t=39)** Queries fetch data, just like GET methods in a REST API.
+> **[0:39](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980&t=39)** Queries [[Fetch]] data, just like GET methods in a REST API.
 >
 > **[0:46](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-query-and-mutation-types?u=76281980&t=46)** Let's take a look at the GraphQL query on the left to fetch data.
 >
@@ -407,21 +400,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (8), api (3), [[Representational State Transfer (REST)|Rest]] (3), data (3), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[GraphQL]] (8), [[Representational State Transfer (REST)|Rest]] (3), [[Fetch]] (2)
 > **Env Vars:** api (3), rest (1)
 > **Analogies:** just like (1), similar to (1), for example (1)
 > **API Endpoints:** get  (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### The scalar type
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-scalar-type?u=76281980)
+#### [The scalar type](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-scalar-type?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-scalar-type?u=76281980&t=0)** - [Instructor] Let's take a look at scalar types.
 >
-> **[0:03](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-scalar-type?u=76281980&t=3)** Scalar types are often built-in GraphQL types, just like built-in types available in many other programming languages such as Int, String, Arrays, to name a few.
+> **[0:03](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-scalar-type?u=76281980&t=3)** Scalar types are often built-in [[GraphQL]] types, just like built-in types available in many other programming languages such as Int, String, Arrays, to name a few.
 >
 > **[0:14](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-scalar-type?u=76281980&t=14)** Scalars are primitive data types in the GraphQL type system and store all only a single value.
 >
@@ -443,19 +435,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (7), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[GraphQL]] (7)
 > **Analogies:** just like (2), such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The enum type
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-enum-type?u=76281980)
+#### [The enum type](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-enum-type?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-enum-type?u=76281980&t=0)** - [Instructor] Enums types with a restricted set of values.
 >
-> **[0:05](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-enum-type?u=76281980&t=5)** Enum types are similar to enums in other programming languages, such as in Java or C shell.
+> **[0:05](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-enum-type?u=76281980&t=5)** Enum types are similar to enums in other programming languages, such as in [[Java]] or C shell.
 >
 > **[0:12](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-enum-type?u=76281980&t=12)** An enum is defined as an object type, and the syntax for defining an enum is by specifying the enum name and then the enum values, and that's it.
 >
@@ -465,7 +456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Analogies:** similar to (1), such as (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
@@ -475,14 +466,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisite and development environment checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980)
+#### [Prerequisite and development environment checklist](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=0)** - [Instructor] This course is aimed at beginners with no GraphQL experience.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=0)** - [Instructor] This course is aimed at beginners with no [[GraphQL]] experience.
 >
-> **[0:04](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=4)** However, a good understanding of programming in PHP and Laravel is required in order to successfully follow along.
+> **[0:04](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=4)** However, a good understanding of programming in [[PHP]] and [[Laravel]] is required in order to successfully follow along.
 >
 > **[0:11](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=11)** Let's take a look at what you should know.
 >
@@ -494,11 +484,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=34)** We'll be using a database to store data and our examples.
 >
-> **[0:38](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=38)** A good understanding of databases with local setup will be required to follow along successfully in this course.
+> **[0:38](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=38)** A good understanding of [[Databases]] with local setup will be required to follow along successfully in this course.
 >
-> **[0:45](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=45)** You're free to use whichever database management system you want.
+> **[0:45](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=45)** You're free to use whichever [[Database Management]] system you want.
 >
-> **[0:48](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=48)** However, in this course, we'll be used in MySQL.
+> **[0:48](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=48)** However, in this course, we'll be used in [[MySQL]].
 >
 > **[0:52](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980&t=52)** You should also have an IDE installed on your computer, as well as a terminal for writing commands.
 >
@@ -512,19 +502,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[Laravel]] (3), [[GraphQL]] (2), database (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Laravel]] (3), [[GraphQL]] (2), [[Databases]] (1), [[Database Management]] (1)
 > **CLI Commands:** php (3), mysql (1)
 > **Env Vars:** php (3), ide (1)
 > **Tools:** terminal (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Laravel
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980)
+#### [Setting up Laravel](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=0)** - [Instructor] Now that we know the prerequisites for following along in this course let's begin our setup with a fresh installation of Laravel.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=0)** - [Instructor] Now that we know the prerequisites for following along in this course let's begin our setup with a fresh installation of [[Laravel]].
 >
 > **[0:08](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=8)** This will enable us to start from scratch and configure our development environment together to mitigate missing steps as we call along.
 >
@@ -534,7 +523,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=27)** I'll be developing on a macOS and I'll create the Laravel project via Composer.
 >
-> **[0:34](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=34)** Composer is a dependency manager for php.
+> **[0:34](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=34)** Composer is a dependency manager for [[PHP]].
 >
 > **[0:37](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=37)** You have the option to choose the best installation method for your os.
 >
@@ -542,7 +531,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=49)** So go ahead and install Composer.
 >
-> **[0:51](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=51)** With Composer installed, let's create a Laravel project with this command in a folder called Laravel GraphQL.
+> **[0:51](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=51)** With Composer installed, let's create a Laravel project with this command in a folder called Laravel [[GraphQL]].
 >
 > **[0:59](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-laravel?u=76281980&t=59)** So open up your terminal and type, Composer, create project.
 >
@@ -558,7 +547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (7), [[PHP]] (1), [[GraphQL]] (1), cd (1)
+> **Frameworks & Libraries:** [[Laravel]] (7), [[PHP]] (1), [[GraphQL]] (1)
 > **CLI Commands:** composer (6), php (1), cd (1)
 > **Prerequisites:** setup (2), install (2), configure (1)
 > **Non-Speech:** (typing sound) (2)
@@ -567,14 +556,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a database with users
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980)
+#### [Setting up a database with users](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980&t=0)** - [Instructor] We just finished installing Laravel and checked that our installation works.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980&t=0)** - [Instructor] We just finished installing [[Laravel]] and checked that our installation works.
 >
-> **[0:05](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980&t=5)** We will need a database to provide data in our GraphQL API.
+> **[0:05](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980&t=5)** We will need a database to provide data in our [[GraphQL]] API.
 >
 > **[0:10](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980&t=10)** We will use existing data infrastructure which comes with Laravel.
 >
@@ -582,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980&t=21)** First, let's check if we can connect to our database server.
 >
-> **[0:25](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980&t=25)** I'll be using MySQL.
+> **[0:25](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980&t=25)** I'll be using [[MySQL]].
 >
 > **[0:26](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-a-database-with-users?u=76281980&t=26)** However, you are free to use the database server of your choice.
 >
@@ -648,21 +636,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[Laravel]] (8), data (7), next (3), [[GraphQL]] (2)
+> **Frameworks & Libraries:** [[Laravel]] (8), [[GraphQL]] (2), [[MySQL]] (1)
 > **Env Vars:** api (2), db_database (1), username (1), password (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Tools:** vs code (1), terminal (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Lighthouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980)
+#### [Setting up Lighthouse](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980&t=0)** - [Instructor] There are a number of GraphQL libraries out there for PHP.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980&t=0)** - [Instructor] There are a number of [[GraphQL]] libraries out there for [[PHP]].
 >
-> **[0:03](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980&t=3)** However, Lighthouse leads the pack when it comes to building Graph QL APIs in Laravel.
+> **[0:03](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980&t=3)** However, Lighthouse leads the pack when it comes to building Graph QL APIs in [[Laravel]].
 >
 > **[0:10](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980&t=10)** Lighthouse is a framework for serving GraphQL.
 >
@@ -692,7 +679,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980&t=66)** GraphQL IDE for querying and interacting with a GraphQL API.
 >
-> **[1:12](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980&t=72)** So you can think of it as Postman for REST API.
+> **[1:12](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980&t=72)** So you can think of it as Postman for [[Representational State Transfer (REST)|REST]] API.
 >
 > **[1:16](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/setting-up-lighthouse?u=76281980&t=76)** And that's all the installation required to set up Lighthouse.
 >
@@ -700,7 +687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (8), [[Laravel]] (3), api (2), [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (8), [[Laravel]] (3), [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (2), php (1), ide (1), rest (1)
 > **Tools:** terminal (2), postman (1)
 > **Prerequisites:** install (2), set up (1)
@@ -709,8 +696,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), think of it as (1)
 > **Cross-References:** in the next (1)
 
-#### A Hello World GraphQL endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980)
+#### [A Hello World GraphQL endpoint](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +708,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=22)** Let's start by defining a simple query in a schema.
 >
-> **[0:27](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=27)** In our root folder, let's create a directory called graphql and a file called, schema.graphql.
+> **[0:27](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=27)** In our root folder, let's create a directory called [[GraphQL]] and a file called, schema.graphql.
 >
 > **[0:39](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=39)** We can then go ahead and define our query.
 >
@@ -736,7 +722,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=67)** We can use the built in artisan command lighthouse query to create a query class.
 >
-> **[1:13](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=73)** So let's open up our terminal and let's type PHP Artisan Lighthouse Query and the name of our query class, which in this case would be Greetings.
+> **[1:13](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=73)** So let's open up our terminal and let's type [[PHP]] Artisan Lighthouse Query and the name of our query class, which in this case would be Greetings.
 >
 > **[1:30](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=90)** If we open up graphql queries, we have our class Greetings.
 >
@@ -750,13 +736,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=122)** Once we hit play, we'll see that we have Hello World returned, and there you have it.
 >
-> **[2:09](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=129)** We have successfully set up Laravel, a database Lighthouse and confirmed it works with a Hello World API.
+> **[2:09](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=129)** We have successfully set up [[Laravel]], a database Lighthouse and confirmed it works with a Hello World API.
 >
 > **[2:17](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/a-hello-world-graphql-endpoint?u=76281980&t=137)** We will dive more into graphql basics and work our way through queries and mutations later on in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (6), api (2), [[Engineering]] (1), next (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[PHP]] (1), [[Laravel]] (1)
 > **Env Vars:** api (2), php (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** php (1)
@@ -769,12 +755,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diving into GraphQL queries with Lighthouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-queries-with-lighthouse?u=76281980)
+#### [Diving into GraphQL queries with Lighthouse](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-queries-with-lighthouse?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-queries-with-lighthouse?u=76281980&t=0)** - Now that we have an overview of the basic types and schema of GraphQL, we are ready to dive into practical examples of defining GraphQL schemas.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-queries-with-lighthouse?u=76281980&t=0)** - Now that we have an overview of the basic types and schema of [[GraphQL]], we are ready to dive into practical examples of defining GraphQL schemas.
 >
 > **[0:12](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-queries-with-lighthouse?u=76281980&t=12)** We will be creating a schema on the user's table.
 >
@@ -828,18 +813,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (5), data (2), database (2), next (2)
+> **Frameworks & Libraries:** [[GraphQL]] (5)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
-#### Querying fields in GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-fields-in-graphql?u=76281980)
+#### [Querying fields in GraphQL](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-fields-in-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-fields-in-graphql?u=76281980&t=0)** - [Instructor] We successfully created a query to fetch users' data which means we can now access this query via a GraphQL endpoint.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-fields-in-graphql?u=76281980&t=0)** - [Instructor] We successfully created a query to [[Fetch]] users' data which means we can now access this query via a [[GraphQL]] endpoint.
 >
 > **[0:10](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-fields-in-graphql?u=76281980&t=10)** Let's make sure we're defining our type correctly.
 >
@@ -867,22 +851,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Fetch]] (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[GraphQL]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying with arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-arguments?u=76281980)
+#### [Querying with arguments](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-arguments?u=76281980&t=0)** - [Instructor] Comparing what we have done so far to a REST API, our user query will be a get request to fetch all users' data.
+> **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-arguments?u=76281980&t=0)** - [Instructor] Comparing what we have done so far to a [[Representational State Transfer (REST)|REST]] API, our user query will be a get request to [[Fetch]] all users' data.
 >
 > **[0:10](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-arguments?u=76281980&t=10)** What if we want the clients of our service to filter the users or fetch the data for only one user?
 >
 > **[0:18](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-arguments?u=76281980&t=18)** In most REST APIs will define a separate endpoint such as, users ID and accept a parameter for the user ID.
 >
-> **[0:32](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-arguments?u=76281980&t=32)** In GraphQL, we do not need a separate endpoint.
+> **[0:32](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-arguments?u=76281980&t=32)** In [[GraphQL]], we do not need a separate endpoint.
 >
 > **[0:37](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-arguments?u=76281980&t=37)** We can achieve the same via arguments.
 >
@@ -914,14 +897,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (2), [[Fetch]] (2), [[GraphQL]] (2), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Fetch]] (2), [[GraphQL]] (2)
 > **Env Vars:** rest (2), api (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying with aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-aliases?u=76281980)
+#### [Querying with aliases](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/querying-with-aliases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -951,18 +933,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1)
 > **Code Identifiers:** userone (1), usertwo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Lighthouse paginate directive
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/using-the-lighthouse-paginate-directive?u=76281980)
+#### [Using the Lighthouse paginate directive](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/using-the-lighthouse-paginate-directive?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/using-the-lighthouse-paginate-directive?u=76281980&t=0)** - [Instructor] It is almost always a given to implement pagination when exposing large sets of data via an API.
 >
-> **[0:08](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/using-the-lighthouse-paginate-directive?u=76281980&t=8)** Lighthouse makes it easier to implement pagination in GraphQL.
+> **[0:08](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/using-the-lighthouse-paginate-directive?u=76281980&t=8)** Lighthouse makes it easier to implement pagination in [[GraphQL]].
 >
 > **[0:13](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/using-the-lighthouse-paginate-directive?u=76281980&t=13)** We can leverage the @paginate directive to implement pagination on a large set of models in chunks.
 >
@@ -980,7 +960,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/using-the-lighthouse-paginate-directive?u=76281980&t=53)** Now, we need to define our pagination.
 >
-> **[0:59](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/using-the-lighthouse-paginate-directive?u=76281980&t=59)** A "first" and "page" arguments are automatically added, and we can leverage that in constraining the data we fetch.
+> **[0:59](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/using-the-lighthouse-paginate-directive?u=76281980&t=59)** A "first" and "page" arguments are automatically added, and we can leverage that in constraining the data we [[Fetch]].
 >
 > **[1:09](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/using-the-lighthouse-paginate-directive?u=76281980&t=69)** So we want to pull the first five, and we want the page size to be one.
 >
@@ -1020,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[GraphQL]] (2), api (1), [[Fetch]] (1), hit (1)
+> **Frameworks & Libraries:** [[GraphQL]] (2), [[Fetch]] (1)
 > **Code Identifiers:** paginatorinfo (3), currentpage (1), lastpage (1), hasmorepages (1), lastitem (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
@@ -1033,8 +1013,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diving into GraphQL mutations with Lighthouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980)
+#### [Diving into GraphQL mutations with Lighthouse](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1046,9 +1025,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980&t=22)** We have mainly been building the read aspect of CRUD.
 >
-> **[0:26](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980&t=26)** In a REST API, there will typically be an endpoint to create, update, and delete an entity, commonly defined by the post, put, and delete methods.
+> **[0:26](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980&t=26)** In a [[Representational State Transfer (REST)|REST]] API, there will typically be an endpoint to create, update, and delete an entity, commonly defined by the post, put, and delete methods.
 >
-> **[0:37](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980&t=37)** In GraphQL, however, we use mutations to achieve the same.
+> **[0:37](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980&t=37)** In [[GraphQL]], however, we use mutations to achieve the same.
 >
 > **[0:42](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980&t=42)** Mutations enable us to alter data on a server.
 >
@@ -1066,13 +1045,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), api (2), [[Representational State Transfer (REST)|Rest]] (1), [[GraphQL]] (1), generic (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[GraphQL]] (1)
 > **Env Vars:** api (2), crud (1), rest (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating a user
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/creating-a-user?u=76281980)
+#### [Creating a user](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/creating-a-user?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,7 +1108,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1), database (1)
 > **Code Identifiers:** createuser (2)
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Env Vars:** crud (1)
@@ -1138,8 +1115,7 @@ created: 2026-05-02
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating a user
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/updating-a-user?u=76281980)
+#### [Updating a user](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/updating-a-user?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,7 +1141,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/updating-a-user?u=76281980&t=70)** Let's save this.
 >
-> **[1:12](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/updating-a-user?u=76281980&t=72)** Now if we head over to our GraphQL playground, we can delete this create user definition and we can define an update mutation.
+> **[1:12](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/updating-a-user?u=76281980&t=72)** Now if we head over to our [[GraphQL]] playground, we can delete this create user definition and we can define an update mutation.
 >
 > **[1:26](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/updating-a-user?u=76281980&t=86)** So we can call the updateUser, and we specify the name, which in this case we might want to change to Joe.
 >
@@ -1186,8 +1162,7 @@ created: 2026-05-02
 > **Analogies:** similar to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting a user
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/deleting-a-user?u=76281980)
+#### [Deleting a user](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/deleting-a-user?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1197,7 +1172,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/deleting-a-user?u=76281980&t=8)** We first define the delete mutation, which we will call delete user.
 >
-> **[0:14](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/deleting-a-user?u=76281980&t=14)** So let's open up our schema.graphql file.
+> **[0:14](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/deleting-a-user?u=76281980&t=14)** So let's open up our schema.[[GraphQL]] file.
 >
 > **[0:18](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/deleting-a-user?u=76281980&t=18)** We specified to delete the user by ID.
 >
@@ -1239,7 +1214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (2), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -1247,18 +1222,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring more Lighthouse and GraphQL functionalities
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980)
+#### [Exploring more Lighthouse and GraphQL functionalities](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980&t=0)** - [Instructor] Congratulations on completing this course.
 >
-> **[0:04](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980&t=4)** To recap, we had an introduction to GraphQL and we looked at the benefits of GraphQL over REST.
+> **[0:04](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980&t=4)** To recap, we had an introduction to [[GraphQL]] and we looked at the benefits of GraphQL over [[Representational State Transfer (REST)|REST]].
 >
-> **[0:13](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980&t=13)** We also built a GraphQL service to fetch, create, and alter data using the user model.
+> **[0:13](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980&t=13)** We also built a GraphQL service to [[Fetch]], create, and alter data using the user model.
 >
-> **[0:21](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980&t=21)** We have covered almost everything you need to build a simple GraphQL application in Laravel using Lighthouse, leveraging existing eloquent models.
+> **[0:21](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980&t=21)** We have covered almost everything you need to build a simple GraphQL application in [[Laravel]] using Lighthouse, leveraging existing eloquent models.
 >
 > **[0:33](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980&t=33)** However, there is still a lot more you can do with GraphQL, such as exploring more on directives and leveraging eloquent relationships with Lighthouse as well as subscriptions, securing your GraphQL service, the Apollo Federation among others.
 >
@@ -1268,7 +1242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (7), [[Laravel]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1), data (1)
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[Laravel]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1)
 > **Env Vars:** rest (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

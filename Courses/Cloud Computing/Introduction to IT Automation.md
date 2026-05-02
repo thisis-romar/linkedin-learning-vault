@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of IT automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980)
+#### [An overview of IT automation](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=0)** - [Liam] Hi, I'm Liam.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=2)** And I'd like to welcome you to an overview of IT Automation.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=2)** And I'd like to welcome you to an overview of [[IT Automation]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=6)** This course is going to take you on a journey to understand firstly, what IT Automation is.
 >
@@ -98,43 +97,42 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=20)** And then lastly, talk about how scripting can help in IT Automation.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=26)** We will walk through automation tools that are available out of the box within Windows, Linux, and Cloud Services.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=26)** We will walk through automation tools that are available out of the box within [[Windows]], [[Linux]], and [[Cloud Services]].
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=34)** Our focus will be simple tasks that can be automated using scripting capabilities found within Windows batch commands, PowerShell, VASH, and shell scripts, Python, as well as using Azure capabilities, such as the Azure Cloud Shell and CLI.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=34)** Our focus will be simple tasks that can be automated using scripting capabilities found within Windows batch commands, [[Powershell]], VASH, and shell scripts, [[Python (Programming Language)|Python]], as well as using [[Microsoft Azure|Azure]] capabilities, such as the Azure Cloud Shell and [[CLI]].
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=52)** So join me for the rest of this course for an overview of IT Automation.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980&t=52)** So join me for the [[Representational State Transfer (REST)|rest]] of this course for an overview of IT Automation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Automation]] (4), [[Scripting]] (2), [[Windows]] (2), cloud (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[IT Automation]] (4), [[Windows]] (2), [[Microsoft Azure|Azure]] (2), [[Linux]] (1), [[Cloud Services]] (1)
 > **Env Vars:** vash (1), cli (1)
 > **CLI Commands:** python (1)
 > **Tools:** powershell (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [liam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980&t=0)** - [Instructor] IT automation is an area that all organizations often struggle with.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980&t=0)** - [Instructor] [[IT Automation]] is an area that all organizations often struggle with.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980&t=5)** Knowing the types of automation available along with when and how to automate are critical.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980&t=11)** To be successful with IT automation, you simply need some basic knowledge and skills of Windows and Linux management if you are using either or both, and some experience using scripting tools, such as batch commands, PowerShell, Bash, and shell scripts and Python.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980&t=11)** To be successful with IT automation, you simply need some basic knowledge and skills of [[Windows]] and [[Linux]] management if you are using either or both, and some experience using scripting tools, such as batch commands, [[Powershell]], Bash, and shell scripts and [[Python (Programming Language)|Python]].
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980&t=31)** If you do not have any previous experience with scripting for IT automation, no need to worry.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980&t=38)** The course will give you examples of what to use and some real-world examples.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980&t=43)** If you already have previous PowerShell, Python, or Azure service experience, it will be an advantage for this course.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980&t=43)** If you already have previous PowerShell, Python, or [[Microsoft Azure|Azure]] service experience, it will be an advantage for this course.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-it-automation/what-you-should-know?u=76281980&t=51)** This course will start you at the beginning and step through the why, the when, and the hows of IT automation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Automation]] (4), [[Scripting]] (2), [[Powershell]] (2), [[Python (Programming Language)|Python]] (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[IT Automation]] (4), [[Powershell]] (2), [[Python (Programming Language)|Python]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** powershell (2), bash (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is an  (1)
@@ -146,12 +144,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is IT automation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980)
+#### [What is IT automation?](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980&t=0)** - [Instructor] What is IT automation?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980&t=0)** - [Instructor] What is [[IT Automation]]?
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980&t=3)** IT automation is the process of replacing manual tasks with automatic ones.
 >
@@ -179,11 +176,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980&t=86)** For example, an employee hiring or leaving process would fall into this category.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980&t=92)** Workload automation is really used extensively within cloud services.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980&t=92)** Workload automation is really used extensively within [[Cloud Services]].
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980&t=97)** For example, virtual machine management or deployment of cloud services would fit into this category.
 >
-> **[1:44](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980&t=104)** Business process automation really is the catch-all category for everything from workflow solutions that are built into document management platforms, to other ad hoc processes that either integrate or enhance an existing manual process.
+> **[1:44](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980&t=104)** [[Business Process Automation]] really is the catch-all category for everything from workflow solutions that are built into document management platforms, to other ad hoc processes that either integrate or enhance an existing manual process.
 >
 > **[2:00](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980&t=120)** In order for tasks to be automated, there are three core components.
 >
@@ -227,23 +224,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (10), management (5), business (4), cloud (4), [[IT Automation]] (3)
+> **Frameworks & Libraries:** [[IT Automation]] (3), [[Cloud Services]] (3), [[Business Process Automation]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why should you use IT automation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/why-should-you-use-it-automation?u=76281980)
+#### [Why should you use IT automation?](https://www.linkedin.com/learning/introduction-to-it-automation/why-should-you-use-it-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/why-should-you-use-it-automation?u=76281980&t=0)** - [Instructor] IT automation provides organizations multiple benefits such as an improved end user experience for processes, it also allows IT to optimize resources better, whether on premises or in the cloud.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/why-should-you-use-it-automation?u=76281980&t=0)** - [Instructor] [[IT Automation]] provides organizations multiple benefits such as an improved end [[User Experience (UX)|user experience]] for processes, it also allows IT to optimize resources better, whether on premises or in the cloud.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-it-automation/why-should-you-use-it-automation?u=76281980&t=15)** And of course IT teams can also capitalize on costs and save money, as well as enabling you as a business to scale as required.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-it-automation/why-should-you-use-it-automation?u=76281980&t=25)** One of the core principles of why you should use IT automation really comes down to cost effectiveness.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-it-automation/why-should-you-use-it-automation?u=76281980&t=32)** Once the initial implementation costs are covered, business process automation proves to be a worthy investment.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-it-automation/why-should-you-use-it-automation?u=76281980&t=32)** Once the initial implementation costs are covered, [[Business Process Automation]] proves to be a worthy investment.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-it-automation/why-should-you-use-it-automation?u=76281980&t=39)** Automating redundant activities reduces the need for extensive labor, minimizes paperwork expenses, overhauling, and often maintenance costs.
 >
@@ -287,17 +283,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), [[IT Automation]] (3), business (2), [[Business Process Automation]] (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[IT Automation]] (3), [[Business Process Automation]] (2), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### How does IT automation work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980)
+#### [How does IT automation work?](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=0)** - [Tutor] How does IT automation work?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=0)** - [Tutor] How does [[IT Automation]] work?
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=4)** IT automation software can perform a range of IT tasks and processes from very simple to complex.
 >
@@ -311,7 +306,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=47)** Next, any application specific actions are then executed, for example, integrating with other systems or services.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=56)** If cloud services are utilized, then perhaps a cloud action or a deployment may occur.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=56)** If [[Cloud Services]] are utilized, then perhaps a cloud action or a deployment may occur.
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=62)** Normally, this process then repeats and is modified with any improvers.
 >
@@ -321,7 +316,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=90)** Automation may also not be a set of defined steps, but something that is constantly changing and updating based on various factors, such as selected values or even outcomes.
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=103)** This type of automation often utilizes machine learning or even artificial intelligence, AI, to enhance as required.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=103)** This type of automation often utilizes machine learning or even [[Artificial Intelligence (AI)|artificial intelligence]], AI, to enhance as required.
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=112)** These processes often get better and more streamlined over time as they learn quicker, faster, and better ways of achieving various outcomes.
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=143)** New hires join possibly with different permission settings for each hire.
 >
-> **[2:28](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=148)** Business process automation software can automate these human resources process while keeping all relevant parties notified of each step.
+> **[2:28](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=148)** [[Business Process Automation]] software can automate these [[Human Resources (HR)|human resources]] process while keeping all relevant parties notified of each step.
 >
 > **[2:38](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=158)** You may be an organization that requires order entry fulfillment, so taking orders from end users or customers, and then fulfilling the order, includes items, for example, like stock control and management, as well as shipping.
 >
@@ -345,15 +340,15 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=192)** It could be code management.
 >
-> **[3:14](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=194)** So code storage and validation using things like DevOps tools to check the code for malicious elements or simply test the code prior to deployment.
+> **[3:14](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=194)** So code storage and validation using things like [[DevOps Tools]] to check the code for malicious elements or simply test the code prior to deployment.
 >
 > **[3:24](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=204)** It could be meeting management.
 >
 > **[3:26](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=206)** So controlling meeting rooms, meeting numbers and services, allowing end users to book meetings with associated resources.
 >
-> **[3:35](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=215)** Or maybe facility management to manage room allocation, resources, plus all the aspects of a physical office.
+> **[3:35](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=215)** Or maybe facility management to manage room allocation, resources, plus all the aspects of a physical [[Microsoft Office|office]].
 >
-> **[3:43](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=223)** Maybe your organization provides customer support via an online platform for self-service support.
+> **[3:43](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=223)** Maybe your organization provides [[Customer Support]] via an online platform for self-service support.
 >
 > **[3:50](https://www.linkedin.com/learning/introduction-to-it-automation/how-does-it-automation-work?u=76281980&t=230)** So offering that kind of question, chat type capability, integrated into your existing help desk.
 >
@@ -361,18 +356,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[IT Automation]] (4), [[Automation]] (4), management (4), application (2)
+> **Frameworks & Libraries:** [[IT Automation]] (4), [[Cloud Services]] (2), [[Business Process Automation]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Env Vars:** erp (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### Advantages of IT automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/advantages-of-it-automation?u=76281980)
+#### [Advantages of IT automation](https://www.linkedin.com/learning/introduction-to-it-automation/advantages-of-it-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/advantages-of-it-automation?u=76281980&t=0)** - [Instructor] What are some of the advantages of using IT automation?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/advantages-of-it-automation?u=76281980&t=0)** - [Instructor] What are some of the advantages of using [[IT Automation]]?
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-it-automation/advantages-of-it-automation?u=76281980&t=4)** Firstly, time savings.
 >
@@ -390,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-it-automation/advantages-of-it-automation?u=76281980&t=47)** Automated processes require fewer humans to view and safeguard, for example, sensitive information, which reduces the possibility of breaches.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-it-automation/advantages-of-it-automation?u=76281980&t=57)** Additionally, IT automation can be used to help IT and security teams keep up with an incident response process.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-it-automation/advantages-of-it-automation?u=76281980&t=57)** Additionally, IT automation can be used to help IT and security teams keep up with an [[Incident Response]] process.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-it-automation/advantages-of-it-automation?u=76281980&t=67)** And of course, cost savings.
 >
@@ -400,22 +394,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Automation]] (4), [[Automation]] (2), [[Security]] (2), data (1), cloud (1)
+> **Frameworks & Libraries:** [[IT Automation]] (4), [[Incident Response]] (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Disadvantages of IT automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/disadvantages-of-it-automation?u=76281980)
+#### [Disadvantages of IT automation](https://www.linkedin.com/learning/introduction-to-it-automation/disadvantages-of-it-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/disadvantages-of-it-automation?u=76281980&t=0)** - [Instructor] So what are some of the disadvantages of IT automation?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/disadvantages-of-it-automation?u=76281980&t=0)** - [Instructor] So what are some of the disadvantages of [[IT Automation]]?
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-it-automation/disadvantages-of-it-automation?u=76281980&t=5)** Well, firstly, it would be investment costs.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-it-automation/disadvantages-of-it-automation?u=76281980&t=8)** Although IT automation can save us money in the long run, it can also involve a substantial upfront investment.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-it-automation/disadvantages-of-it-automation?u=76281980&t=17)** For example, to purchase software, hardware, and to set up the actual automation.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-it-automation/disadvantages-of-it-automation?u=76281980&t=17)** For example, to purchase software, [[Hardware]], and to set up the actual automation.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-it-automation/disadvantages-of-it-automation?u=76281980&t=23)** A business must carefully consider its IT automation strategy to make sure that the processes it wants to automate will provide the significant return on investment versus the cost.
 >
@@ -457,18 +450,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (8), [[IT Automation]] (4), data (2), [[Hardware]] (1), business (1)
+> **Frameworks & Libraries:** [[IT Automation]] (4), [[Hardware]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Does IT automation reduce costs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/does-it-automation-reduce-costs?u=76281980)
+#### [Does IT automation reduce costs?](https://www.linkedin.com/learning/introduction-to-it-automation/does-it-automation-reduce-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/does-it-automation-reduce-costs?u=76281980&t=0)** - [Instructor] So the core question to ask is, does IT automation actually reduce costs?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/does-it-automation-reduce-costs?u=76281980&t=0)** - [Instructor] So the core question to ask is, does [[IT Automation]] actually reduce costs?
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-it-automation/does-it-automation-reduce-costs?u=76281980&t=7)** Well, IT automation enables organizations to reduce costs.
 >
@@ -490,7 +482,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-it-automation/does-it-automation-reduce-costs?u=76281980&t=94)** Automated processes are supposed to have predictable costs.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-it-automation/does-it-automation-reduce-costs?u=76281980&t=99)** However, there can often be the substantial upfront hardware, software and installation costs.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-it-automation/does-it-automation-reduce-costs?u=76281980&t=99)** However, there can often be the substantial upfront [[Hardware]], software and installation costs.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-it-automation/does-it-automation-reduce-costs?u=76281980&t=106)** These are then combined with training costs, as well as the wages of those who will use the platform and the services as well as any ongoing maintenance costs.
 >
@@ -514,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Automation]] (5), [[Automation]] (2), data (2), management (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[IT Automation]] (5), [[Hardware]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -524,16 +516,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When should you automate?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980)
+#### [When should you automate?](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980&t=0)** - [Instructor] When should you automate?
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980&t=2)** Automation is key to IT optimization and digital transformation.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980&t=2)** Automation is key to IT optimization and [[Digital Transformation]].
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980&t=7)** Modern, dynamic IT environments need to be able to scale faster than ever, and IT automation is vital to making that happen.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980&t=7)** Modern, dynamic IT environments need to be able to scale faster than ever, and [[IT Automation]] is vital to making that happen.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980&t=18)** When you're trying to decide which aspects of your work you should automate, a great first question to ask is, what tasks do you perform the most frequently?
 >
@@ -569,19 +560,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), data (3), [[Digital Transformation]] (1), [[IT Automation]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[IT Automation]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** csv (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automation approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980)
+#### [Automation approaches](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=0)** - [Instructor] There is a clear difference between business automation and IT automation.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=0)** - [Instructor] There is a clear difference between business automation and [[IT Automation]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=6)** It is important to understand that difference.
 >
@@ -595,15 +585,15 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=41)** Approval is often part of the initiation process instead of requiring multiple approvers.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=48)** It is also used extensively for management of on-premises and cloud services.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=48)** It is also used extensively for management of on-premises and [[Cloud Services]].
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=55)** When we think of automation approaches, our most common is provisioning.
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=61)** Provisioning is about heavy lifting, whether it's a bare metal or in a private hybrid or public cloud, most of what we do now is defined in software and the move to software increases the scale and capacity of what is available.
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=78)** Thanks to things like codifications achieved through infrastructure as code, you can then template the things that you need to do and deployments.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=78)** Thanks to things like codifications achieved through [[Infrastructure as code (IaC)|infrastructure as code]], you can then template the things that you need to do and deployments.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=89)** The next option is configuration management.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=89)** The next option is [[Configuration Management]].
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=92)** Now not all applications are created the same.
 >
@@ -619,7 +609,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=133)** It requires managing and servicing multiple apps across multiple data centers and often infrastructures.
 >
-> **[2:21](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=141)** There's also your public, private and hybrid cloud deployments too.
+> **[2:21](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=141)** There's also your public, private and [[Hybrid Cloud]] deployments too.
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-it-automation/automation-approaches?u=76281980&t=145)** The more complex an IT system, the more complex managing all the moving parts can become.
 >
@@ -653,14 +643,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (8), business (3), [[IT Automation]] (3), management (3), cloud (3)
+> **Frameworks & Libraries:** [[IT Automation]] (3), [[Cloud Services]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Configuration Management]] (1), [[Hybrid Cloud]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating all systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automating-all-systems?u=76281980)
+#### [Automating all systems](https://www.linkedin.com/learning/introduction-to-it-automation/automating-all-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +657,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-it-automation/automating-all-systems?u=76281980&t=7)** By automating everything together, organizations provide a single process across multiple platforms.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-it-automation/automating-all-systems?u=76281980&t=15)** IT administrators, as well as end users, can more easily provision and manage both on-premises, and cloud services and resources.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-it-automation/automating-all-systems?u=76281980&t=15)** IT administrators, as well as end users, can more easily provision and manage both on-premises, and [[Cloud Services]] and resources.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-it-automation/automating-all-systems?u=76281980&t=25)** More importantly, when integrating all systems, a central, single view pane for reporting, usage, and even management is created and made available.
 >
@@ -700,7 +689,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-it-automation/automating-all-systems?u=76281980&t=132)** Now, the main disadvantages are first, costly upfront deployment and set up.
 >
-> **[2:18](https://www.linkedin.com/learning/introduction-to-it-automation/automating-all-systems?u=76281980&t=138)** Acquiring the software, potential hardware, utilizing expert consulting and set up can be very expensive at the start of automating all systems.
+> **[2:18](https://www.linkedin.com/learning/introduction-to-it-automation/automating-all-systems?u=76281980&t=138)** Acquiring the software, potential [[Hardware]], utilizing expert consulting and set up can be very expensive at the start of automating all systems.
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-it-automation/automating-all-systems?u=76281980&t=149)** Over time, the return on investment can get better as the automated processes save money and time.
 >
@@ -722,15 +711,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), cloud (1), management (1), cross-platform (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** set up (2), setup (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating some systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automating-some-systems?u=76281980)
+#### [Automating some systems](https://www.linkedin.com/learning/introduction-to-it-automation/automating-some-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,7 +730,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-it-automation/automating-some-systems?u=76281980&t=23)** It ensures that the scope of what can be done is limited to only selected and supported platforms and services.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-it-automation/automating-some-systems?u=76281980&t=32)** This approach allows any organization to gently ease into IT automation.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-it-automation/automating-some-systems?u=76281980&t=32)** This approach allows any organization to gently ease into [[IT Automation]].
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-it-automation/automating-some-systems?u=76281980&t=40)** Finally, it also limits the management and control to only what is required or needed to create a process or automation.
 >
@@ -752,7 +740,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-it-automation/automating-some-systems?u=76281980&t=65)** There is a significant cost reduction by limiting the scope of integration and automation platforms.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-it-automation/automating-some-systems?u=76281980&t=73)** Secondly, there's less need for specialized software, hardware, and often services for the implementation.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-it-automation/automating-some-systems?u=76281980&t=73)** Secondly, there's less need for specialized software, [[Hardware]], and often services for the implementation.
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-it-automation/automating-some-systems?u=76281980&t=82)** There are many capabilities built into core services and even the operating systems and hardware that can provide cheaper alternatives to implementing a large scale automation platform.
 >
@@ -786,17 +774,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (9), [[IT Automation]] (3), business (3), [[Scripting]] (3), management (2)
+> **Frameworks & Libraries:** [[IT Automation]] (3), [[Hardware]] (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating software and system deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980)
+#### [Automating software and system deployment](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=0)** - [Lecturer] A common starting point for IT automation, is some kind of deployment or configuration changes that need to be pushed out either on premises or into the cloud.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=0)** - [Lecturer] A common starting point for [[IT Automation]], is some kind of deployment or configuration changes that need to be pushed out either on premises or into the cloud.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=12)** There're actually three core types that I would like to focus on.
 >
@@ -816,11 +803,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=66)** So, first the scripting, second, the cloud, and then the scheduled.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=69)** To do this, we're here on a Windows 10 client machine, and what we'll do first is actually look at a script that we can use for testing purposes and to kind of show the power of scripting, but we'll use just basic built in capabilities.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=69)** To do this, we're here on a [[Windows 10]] client machine, and what we'll do first is actually look at a script that we can use for testing purposes and to kind of show the power of scripting, but we'll use just basic built in capabilities.
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=87)** So, here's the script.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=88)** You'll see, it's using standard commands that you can execute one by one, within a console or a command-line interface that's built into Windows.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=88)** You'll see, it's using standard commands that you can execute one by one, within a console or a command-line interface that's built into [[Windows]].
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=100)** You can say, we're going to open some folders, we're going to start some applications, and then we're going to open a text file.
 >
@@ -856,7 +843,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=162)** I've got a folder full of documents, which I'm now going to close.
 >
-> **[2:45](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=165)** I've got the Google, which is now going to close in Chrome.
+> **[2:45](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=165)** I've got the [[Google]], which is now going to close in Chrome.
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=168)** And if I just maximize this, this is a document that talks about what to do at home during an earthquake.
 >
@@ -864,7 +851,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=186)** So, utilizing these type of scripts is really, really powerful, and is a single way in automating, not just clients, but servers and lots of other applications.
 >
-> **[3:19](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=199)** The second one, I'm going to flick to the browser, and I'm here inside my Azure tenant.
+> **[3:19](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=199)** The second one, I'm going to flick to the browser, and I'm here inside my [[Microsoft Azure|Azure]] tenant.
 >
 > **[3:24](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=204)** And the first thing I'm going to do, is actually go into this icon here, which is going to launch what's called the Cloud Shell.
 >
@@ -896,7 +883,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=283)** You can see that I'm at the Cloud Shell.
 >
-> **[4:45](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=285)** It will then say if I wish to do something, I can use Azure CLI.
+> **[4:45](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=285)** It will then say if I wish to do something, I can use Azure [[CLI]].
 >
 > **[4:50](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=290)** Now, what does the Azure CLI do?
 >
@@ -912,7 +899,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=325)** So this is one approach.
 >
-> **[5:27](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=327)** And of course, you'll notice here in the left, it says Bash, but I'm going to click PowerShell, I can Confirm and it will change, and then I'll be able to use the Azure PowerShell.
+> **[5:27](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=327)** And of course, you'll notice here in the left, it says Bash, but I'm going to click [[Powershell]], I can Confirm and it will change, and then I'll be able to use the Azure PowerShell.
 >
 > **[5:36](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=336)** Notice it changes color to represent that.
 >
@@ -934,7 +921,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=382)** I'm going to say aa, for automation account to wait for that to validate, and then choose Create.
 >
-> **[6:27](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=387)** This will then go and create me an automation account within Microsoft Azure, which will then allow me to create almost like we did locally, a specific script that can run across multiple services.
+> **[6:27](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=387)** This will then go and create me an automation account within [[Microsoft Azure]], which will then allow me to create almost like we did locally, a specific script that can run across multiple services.
 >
 > **[6:43](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=403)** So, for example, I could say, go and run this PowerShell script at a strategic time or specific times, and it will go ahead and create something.
 >
@@ -950,7 +937,7 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=445)** So, I can say I've let it create a runbook, and notice what I can create.
 >
-> **[7:30](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=450)** I can create something in PowerShell, Python or maybe some kind of Graphical, let me just close this down here, or maybe some other PowerShell workflow.
+> **[7:30](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=450)** I can create something in PowerShell, [[Python (Programming Language)|Python]] or maybe some kind of Graphical, let me just close this down here, or maybe some other PowerShell workflow.
 >
 > **[7:38](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=458)** If I choose PowerShell, and just call it Demo PowerShell, and click create, what we'll end up with is a new runbook that will be listed here, take me into it, let me close the confirmation demo.
 >
@@ -972,9 +959,9 @@ created: 2026-05-02
 >
 > **[8:36](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=516)** Now I'm going to come back to this one.
 >
-> **[8:38](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=518)** The other option that we have, is if I was to come into virtual machines, for example, and say, I'd like to create a virtual machine, remember, it's all about automation.
+> **[8:38](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=518)** The other option that we have, is if I was to come into [[Virtual Machines]], for example, and say, I'd like to create a virtual machine, remember, it's all about automation.
 >
-> **[8:48](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=528)** So, I'm going to come in and say, go to my resource group, me paste that into here, I'm going to call it vn, maybe we'll leave it as Ubuntu.
+> **[8:48](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=528)** So, I'm going to come in and say, go to my resource group, me paste that into here, I'm going to call it vn, maybe we'll leave it as [[Ubuntu]].
 >
 > **[8:57](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=537)** And all I want to do is just kind of flick through the configuration, like, so I'm not going to make any adjustments, next and tags, review and create.
 >
@@ -984,7 +971,7 @@ created: 2026-05-02
 >
 > **[9:21](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=561)** So, when we talk about automation, it's not just scripting specific tasks, it could be defining complete IT infrastructure on a specific static file.
 >
-> **[9:32](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=572)** So, just be aware, that when it comes to things like cloud services or even cross integration of other applications, we may need to utilize a kind of a scripting type language to describe what it is we're trying to achieve.
+> **[9:32](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=572)** So, just be aware, that when it comes to things like [[Cloud Services]] or even cross integration of other applications, we may need to utilize a kind of a scripting type language to describe what it is we're trying to achieve.
 >
 > **[9:46](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=586)** Okay, so I'm going to come out of that one.
 >
@@ -1022,13 +1009,13 @@ created: 2026-05-02
 >
 > **[11:24](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=684)** The same is true for the cloud.
 >
-> **[11:26](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=686)** We could, for example, run a PowerShell script locally here as a scheduled task that would connect to cloud services, or we could use a CLI interface for Amazon Web Services or Google Web Services or something else.
+> **[11:26](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=686)** We could, for example, run a PowerShell script locally here as a scheduled task that would connect to cloud services, or we could use a CLI interface for [[Amazon Web Services (AWS)|Amazon Web Services]] or Google Web Services or something else.
 >
 > **[11:41](https://www.linkedin.com/learning/introduction-to-it-automation/automating-software-and-system-deployment?u=76281980&t=701)** So, those three core pieces will be some kind of scripting locally, that you can execute either connectivity or locally, some kind of scripting or automated account within a cloud service, and then some kind of scheduled task process that will allow us to run things on a standard basis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), [[Automation]] (14), [[Scripting]] (12), [[Powershell]] (8), [[Microsoft Azure|Azure]] (6)
+> **Frameworks & Libraries:** [[Powershell]] (8), [[Microsoft Azure|Azure]] (6), [[CLI]] (4), [[Google]] (2), [[Cloud Services]] (2)
 > **Tools:** powershell (8), command prompt (4), terminal (1), bash (1)
 > **Definitions:** is a  (6), means that (1)
 > **UI Navigation:** go to (5), scroll down (1)
@@ -1042,12 +1029,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using automation tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980)
+#### [Using automation tools](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=0)** - [Narrator] There are many different automation tools out there to use for every scenario, such as deploying and management, infrastructure services, hardware, cloud components, code, or even just enhancing a standard IT process.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=0)** - [Narrator] There are many different automation tools out there to use for every scenario, such as deploying and management, infrastructure services, [[Hardware]], cloud components, code, or even just enhancing a standard IT process.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=17)** There are platform-specific and platform-agnostic or cross-platform tools also available.
 >
@@ -1059,13 +1045,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=45)** Most automation tools can fall into six various categories.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=50)** The most common are configuration management, continuous delivery, monitoring, version control, code test and build and orchestration.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=50)** The most common are [[Configuration Management]], [[Continuous Delivery (CD)|continuous delivery]], monitoring, [[Version Control]], code test and build and orchestration.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=63)** These six core tool categories can then be narrowed and fit into four general categories, which cover all IT automation platforms and tools.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=63)** These six core tool categories can then be narrowed and fit into four general categories, which cover all [[IT Automation]] platforms and tools.
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=75)** The first is Infrastructure as Code.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=75)** The first is [[Infrastructure as code (IaC)|Infrastructure as Code]].
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=78)** Second is continuous integration and deployment.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=78)** Second is [[Continuous Integration (CI)|continuous integration]] and deployment.
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=82)** Third, configuration and secret management.
 >
@@ -1073,17 +1059,17 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=89)** These four categories nearly all IT automation platforms will fit into or fit into multiple of them.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=98)** Now, DevOps is the combination of cultural philosophies, practices, as well as tools that can increase the organization's ability to deliver applications and services.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=98)** Now, [[DevOps]] is the combination of cultural philosophies, practices, as well as tools that can increase the organization's ability to deliver applications and services.
 >
-> **[1:52](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=112)** It often includes improving traditional software development, infrastructure management processes, along with core business processes.
+> **[1:52](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=112)** It often includes improving traditional [[Software Development]], infrastructure management processes, along with core business processes.
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=122)** Now, when we think of DevOps, DevOps is an area where we can utilize tools for automation of IT systems.
 >
-> **[2:11](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=131)** Some core tools that are available, first, Terraform.
+> **[2:11](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=131)** Some core tools that are available, first, [[Terraform]].
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=135)** This is a cloud-agnostic infrastructure provisioning tool.
 >
-> **[2:19](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=139)** Next, Ansible.
+> **[2:19](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=139)** Next, [[Ansible]].
 >
 > **[2:21](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=141)** This is an agentless configuration management tool, as well as an orchestration tool.
 >
@@ -1101,7 +1087,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=188)** And then of course we have SaltStack.
 >
-> **[3:10](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=190)** This is based on Python, another programming language.
+> **[3:10](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=190)** This is based on [[Python (Programming Language)|Python]], another programming language.
 >
 > **[3:13](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=193)** This opens a configuration management tool to deploy components and remotely execute commands.
 >
@@ -1113,9 +1099,9 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=223)** Sometimes now when we're utilizing what's referred to as DevOps, these two teams merge into a single unit where the engineers work across the entire application life cycle from development and test to deployment to operations and then they develop a range of skills that are not limited to single functions.
 >
-> **[4:05](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=245)** In some DevOps models, for example, quality assurance, or the test team, and the security teams become tightly integrated with development and operations throughout an application life cycle.
+> **[4:05](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=245)** In some DevOps models, for example, [[Quality Assurance]], or the test team, and the security teams become tightly integrated with development and operations throughout an application life cycle.
 >
-> **[4:19](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=259)** When security is the focus of everyone on a DevOps team, this is often referred to as DevSecOps, These new teams that get created as part of the DevOps process and as part of the automation use best practices to automate processes that historically have been manual and slow.
+> **[4:19](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=259)** When security is the focus of everyone on a DevOps team, this is often referred to as [[DevSecOps]], These new teams that get created as part of the DevOps process and as part of the automation use best practices to automate processes that historically have been manual and slow.
 >
 > **[4:41](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980&t=281)** These teams will use technology stacks and tooling, which will help them operate and evolve applications quickly and reliably.
 >
@@ -1129,21 +1115,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (8), teams (6), [[Automation]] (5), [[Configuration Management]] (5), application (4)
+> **Frameworks & Libraries:** [[DevOps]] (8), [[Configuration Management]] (5), [[IT Automation]] (3), [[Hardware]] (2), [[Ansible]] (2)
 > **CLI Commands:** ansible (2), ruby (2), terraform (1), python (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** such as (2), similar to (1), for example (1)
 > **Env Vars:** dsl (2), net (1)
 > **Speakers:** - [narrator] (1)
 
-#### Automation tools for Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980)
+#### [Automation tools for Windows](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=0)** - [Narrator] Now, the Windows operating system provides basic automation tools within the server and the client versions.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=0)** - [Narrator] Now, the [[Windows]] operating system provides basic automation tools within the server and the client versions.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=9)** Windows contains core scripting capabilities that are provided by either command-line scripts, so we talking batch or CMD type files, cscript and WMI scripting, as well as PowerShell scripts.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=9)** Windows contains core scripting capabilities that are provided by either command-line scripts, so we talking batch or CMD type files, cscript and WMI scripting, as well as [[Powershell]] scripts.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=25)** Windows also provides scheduling of tasks using the inbuilt task scheduler.
 >
@@ -1171,7 +1156,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=120)** Now we can view or manipulate any information that's made available through WMI using scripts.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=128)** Now the scripts can be written in any language that supports what was originally called Microsoft ActiveX Scripting or VBScript, PowerShell, and of course Perl.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=128)** Now the scripts can be written in any language that supports what was originally called [[Microsoft]] ActiveX Scripting or VBScript, PowerShell, and of course Perl.
 >
 > **[2:20](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=140)** The Windows script host and the active server pages and Internet Explorer can all host those WMI scripts.
 >
@@ -1201,9 +1186,9 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=253)** So you'll notice that when we start to automate on Windows in some of the basic tools that we can start to combine them together to create what would be very powerful, automated scripting processes.
 >
-> **[4:26](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=266)** Now PowerShell is a cross-platform task automation solution, which is made up of a command-line shell, a scripting language, and then a configuration management framework.
+> **[4:26](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=266)** Now PowerShell is a cross-platform task automation solution, which is made up of a command-line shell, a scripting language, and then a [[Configuration Management]] framework.
 >
-> **[4:38](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=278)** PowerShell runs on Windows, Linux, and macOS.
+> **[4:38](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=278)** PowerShell runs on Windows, [[Linux]], and macOS.
 >
 > **[4:43](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-windows?u=76281980&t=283)** PowerShell is a modern command shell that includes all of the best features from all of the other command-line shells and combines them into one.
 >
@@ -1241,7 +1226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (11), [[Windows]] (9), [[Scripting]] (8), [[Automation]] (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (11), [[Windows]] (9), [[Microsoft]] (2), [[Configuration Management]] (1), [[Linux]] (1)
 > **Env Vars:** wmi (15), cmd (5), net (3), cim (2), ini (1)
 > **Tools:** powershell (11)
 > **Analogies:** such as (4), for example (3), similar to (1)
@@ -1249,12 +1234,11 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **Speakers:** - [narrator] (1)
 
-#### Automating Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980)
+#### [Automating Windows](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=0)** - [Instructor] Okay. So for automating Windows, we're going to focus on just creating a simple command line script.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=0)** - [Instructor] Okay. So for automating [[Windows]], we're going to focus on just creating a simple command line script.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=7)** But this time, a little bit more useful.
 >
@@ -1290,7 +1274,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=67)** This is going to go and retrieve information about the current machine that I'm on.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=72)** So it will tell me the version of Windows, what kind of processor it is, who is the account, what kind of hardware et cetera.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=72)** So it will tell me the version of Windows, what kind of processor it is, who is the account, what kind of [[Hardware]] et cetera.
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=79)** So, lots of information that actually is quite useful.
 >
@@ -1362,7 +1346,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=274)** So I'm going to click edit again.
 >
-> **[4:36](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=276)** We'll just zoom this in.
+> **[4:36](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=276)** We'll just [[Zoom]] this in.
 >
 > **[4:37](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=277)** And what I can do now is I actually want to get some of the disk information that's available.
 >
@@ -1422,19 +1406,19 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=405)** Now that automation let's be honest, serve no purpose because it just displayed something to the screen and didn't save it anywhere, it just kind of ended.
 >
-> **[6:55](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=415)** So when we look at automating something, whether it's Windows, Linux, or the cloud, it really makes no difference.
+> **[6:55](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=415)** So when we look at automating something, whether it's Windows, [[Linux]], or the cloud, it really makes no difference.
 >
 > **[7:01](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=421)** We need to make sure there's some kind of output that gets generated as well.
 >
 > **[7:05](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=425)** So that's a simple example of how we can automate a set of tasks.
 >
-> **[7:10](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=430)** In this instance, it was just retrieving information, but we could make registry changes because we introduced WMI, we'll look at using things like PowerShell and other programming languages, we could have enhanced it significantly.
+> **[7:10](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=430)** In this instance, it was just retrieving information, but we could make registry changes because we introduced WMI, we'll look at using things like [[Powershell]] and other programming languages, we could have enhanced it significantly.
 >
 > **[7:24](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows?u=76281980&t=444)** But that's as simple as it is to use out of the box standard commands and join them together into a series of instructions to execute them whether locally or via a scheduled task, or even from a network share.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Automation]] (4), [[Hardware]] (2), prompt (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Hardware]] (2), [[Zoom]] (1), [[Linux]] (1), [[Powershell]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** wmi (3), bios (1), usb (1), ocz (1)
 > **Tools:** command line (2), windows terminal (1), powershell (1)
@@ -1443,14 +1427,13 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Automation tools for Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980)
+#### [Automation tools for Linux](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=0)** - [Instructor] The Linux operating system provides basic automation tools within the server and client versions of Linux.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=0)** - [Instructor] The [[Linux]] operating system provides basic automation tools within the server and client versions of Linux.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=8)** Linux contains the core scripting capabilities provided by Bash scripts, Shell scripting, and Python scripting.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=8)** Linux contains the core scripting capabilities provided by Bash scripts, Shell scripting, and [[Python (Programming Language)|Python]] scripting.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=16)** Linux also provides scheduling of tasks using inbuilt cron jobs.
 >
@@ -1474,7 +1457,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=73)** Bash is one implementation of sh.
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=78)** Bash is a Unix shell, which is a command line interface or CLI for interacting with an operating system.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=78)** Bash is a Unix shell, which is a command line interface or [[CLI]] for interacting with an operating system.
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=86)** Scripts are used to run a series of commands.
 >
@@ -1490,9 +1473,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=123)** This example simply retrieves details about the current system by using out of the box commands.
 >
-> **[2:09](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=129)** As you can see, it's retrieving system information, hardware information such as memory, and then IP address information.
+> **[2:09](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=129)** As you can see, it's retrieving system information, [[Hardware]] information such as memory, and then IP address information.
 >
-> **[2:17](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=137)** You will notice the starting line ends with the word bash.
+> **[2:17](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=137)** You will notice the starting line ends with the [[Microsoft Word|word]] bash.
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=142)** This will instruct the shell within Linux to execute this using the Bash interpreter.
 >
@@ -1544,19 +1527,19 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=299)** Python is a popular programming language.
 >
-> **[5:02](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=302)** It is used for web development, software development, mathematics and system scripting.
+> **[5:02](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=302)** It is used for [[Web Development]], [[Software Development]], mathematics and system scripting.
 >
 > **[5:09](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=309)** Python can be used on a server to create web applications.
 >
-> **[5:13](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=313)** Python can connect to database systems.
+> **[5:13](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=313)** Python can connect to [[Database Systems]].
 >
-> **[5:15](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=315)** It can also read and modify files as well as handle big data and perform complex mathematics.
+> **[5:15](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=315)** It can also read and modify files as well as handle [[Big Data]] and perform complex mathematics.
 >
-> **[5:23](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=323)** It is often used for rapid prototyping or for production-ready software development.
+> **[5:23](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=323)** It is often used for rapid [[Prototyping]] or for production-ready software development.
 >
 > **[5:29](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=329)** Python works on different platforms.
 >
-> **[5:31](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=331)** It's available on windows, Mac, Linux, Raspberry Pi, et cetera.
+> **[5:31](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=331)** It's available on [[Windows]], Mac, Linux, Raspberry Pi, et cetera.
 >
 > **[5:36](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=336)** It has a simple syntax similar to the English language.
 >
@@ -1576,7 +1559,7 @@ created: 2026-05-02
 >
 > **[6:26](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=386)** For example, you can set a cron job to delete temporary files every week to conserve your disc space.
 >
-> **[6:34](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=394)** Scripts executed as a cron job are typically used to modify files or even databases.
+> **[6:34](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=394)** Scripts executed as a cron job are typically used to modify files or even [[Databases]].
 >
 > **[6:41](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-linux?u=76281980&t=401)** However, they can perform other tasks that do not modify data on the server.
 >
@@ -1606,7 +1589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (11), [[Scripting]] (6), [[Python (Programming Language)|Python]] (6), [[Programming]] (4), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Linux]] (11), [[Python (Programming Language)|Python]] (6), [[Hardware]] (2), [[Software Development]] (2), [[Prototyping]] (2)
 > **Tools:** bash (18), command line (6), terminal (2)
 > **Definitions:** is a  (12), stands for (1), means that (1)
 > **Analogies:** for example (4), such as (4), similar to (1)
@@ -1615,12 +1598,11 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **Warnings:** keep in mind (1)
 
-#### Automating Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980)
+#### [Automating Linux](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=0)** - [Instructor] Linux also provides the ability of scripting, commands that you can execute directly within the console.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=0)** - [Instructor] [[Linux]] also provides the ability of scripting, commands that you can execute directly within the console.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=7)** So this is a sample sh file, which effectively is the list of commands that we would execute.
 >
@@ -1644,7 +1626,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=76)** Now, you'll also notice that in that top section here, line number one, we have the interpreter line effectively telling it where it should execute.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=85)** And for my Ubuntu machine here, it's going to be using the bash command.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=85)** And for my [[Ubuntu]] machine here, it's going to be using the bash command.
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=90)** So instead of using just regular sh and using the shell, it'll use the bash interpreter instead.
 >
@@ -1656,7 +1638,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=109)** And sure enough, it goes ahead and you can see it's got the memory, it gives me the version of the operating system, et cetera.
 >
-> **[1:55](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=115)** So it does exactly what we did in the windows environment, but obviously it's here in Linux.
+> **[1:55](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=115)** So it does exactly what we did in the [[Windows]] environment, but obviously it's here in Linux.
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-it-automation/automating-linux?u=76281980&t=121)** Now, Linux also provides the ability for us to take this list of information, save it as a file, which we did as sample sh, and then execute that single file.
 >
@@ -1748,7 +1730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (3), [[Scripting]] (1), [[Ubuntu]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (3), [[Ubuntu]] (1)
 > **Tools:** terminal (4), bash (2)
 > **Definitions:** is a  (3), is called (2), means that (1)
 > **File Paths:** sample.sh (3)
@@ -1757,14 +1739,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **Analogies:** for example (2), just like (1)
 
-#### Automation tools for the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980)
+#### [Automation tools for the cloud](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=0)** - [Instructor] All Cloud providers offer specific tools for automation and business process automation from an IT automation perspective.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=0)** - [Instructor] All Cloud providers offer specific tools for automation and [[Business Process Automation]] from an [[IT Automation]] perspective.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=8)** The most common Cloud automation platforms are AWS, so Amazon web services, CloudFormation, Google Cloud Deployment Manager, VMware vRealize Automation, Microsoft Azure Automation, and Red Hat Ansible Automation Platform.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=8)** The most common Cloud automation platforms are AWS, so [[Amazon Web Services (AWS)|Amazon web services]], CloudFormation, [[Google Cloud Platform (GCP)|Google Cloud]] Deployment Manager, VMware vRealize Automation, [[Microsoft Azure]] Automation, and Red Hat [[Ansible]] Automation Platform.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=26)** There are many other Cloud Automation tools that integrate to all of the Cloud platforms.
 >
@@ -1776,7 +1757,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=64)** The platform also supports many of the industry standards such as HIPAA and FedRAMP.
 >
-> **[1:11](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=71)** Google's Automation Service is called Google's Cloud Deployment Manager, which allows IT administrators to create and manage a set of Google Cloud resources as a single unit.
+> **[1:11](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=71)** [[Google]]'s Automation Service is called Google's Cloud Deployment Manager, which allows IT administrators to create and manage a set of Google Cloud resources as a single unit.
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=84)** Templates are defined using the YAML language.
 >
@@ -1784,7 +1765,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=92)** The platform also supports many of the industry standards such as HIPAA and FedRAMP.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=99)** VMware vRealize automation is part of VMware's vRealized suite and offers Cloud infrastructure automation for private and multi-Cloud setups.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=99)** VMware vRealize automation is part of VMware's vRealized suite and offers [[Cloud Infrastructure]] automation for private and multi-Cloud setups.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=111)** The offering includes several components, Cloud Assembly for provisioning.
 >
@@ -1792,13 +1773,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=121)** Code Stream for application and infrastructure automation.
 >
-> **[2:05](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=125)** And Orchestrator for workflow management, Microsoft Azure Automation provides an automation and configuration service that offers complete control over deployments and operations within Azure on premises.
+> **[2:05](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=125)** And Orchestrator for [[Workflow Management]], Microsoft Azure Automation provides an automation and configuration service that offers complete control over deployments and operations within [[Microsoft Azure|Azure]] on premises.
 >
 > **[2:21](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=141)** And with other Cloud providers, such as for example, AWS.
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=146)** Admins can write Runbooks to automate Azure tasks or use hybrid Runbook workers to manage tasks outside of Azure.
 >
-> **[2:36](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=156)** It also provides integration to Microsoft compliance manager to meet regulatory compliance.
+> **[2:36](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=156)** It also provides integration to [[Microsoft]] compliance manager to meet [[Regulatory Compliance]].
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-it-automation/automation-tools-for-the-cloud?u=76281980&t=164)** The Red Hat Ansible automation platform offers a set of tools for implementing enterprise wide automation.
 >
@@ -1806,7 +1787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (17), cloud (11), [[Ansible]] (6), aws (4), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Microsoft Azure|Azure]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Microsoft Azure]] (2)
 > **CLI Commands:** ansible (6), aws (4)
 > **Env Vars:** aws (4), hipaa (2), yaml (1)
 > **Analogies:** such as (3), for example (1)
@@ -1815,14 +1796,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980)
+#### [Automating the cloud](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=0)** - [Instructor] Now within the Microsoft Azure services, everything is automated.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=0)** - [Instructor] Now within the [[Microsoft Azure]] services, everything is automated.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=4)** So on the homepage here for the actual site, you can see that for example, I can create virtual machines, which is going to allow me to either import configuration or create them.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=4)** So on the homepage here for the actual site, you can see that for example, I can create [[Virtual Machines]], which is going to allow me to either import configuration or create them.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=15)** I could click home again.
 >
@@ -1832,7 +1812,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=21)** And then I have a whole host of different things that I can create.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=26)** Now the Azure and other cloud services are designed in such a way that everything can be automated.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=26)** Now the [[Microsoft Azure|Azure]] and other [[Cloud Services]] are designed in such a way that everything can be automated.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=33)** Now, one of the key things that we looked at previously was this idea of an automation account.
 >
@@ -1846,7 +1826,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=64)** This is always a good place to start where you can see, for example, people have created.
 >
-> **[1:08](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=68)** So the Azure automation product team created a graphical PowerShell Runbook, which kind of looks like this.
+> **[1:08](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=68)** So the Azure automation product team created a graphical [[Powershell]] Runbook, which kind of looks like this.
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=74)** You can kind of see it here.
 >
@@ -1948,11 +1928,11 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=327)** Maybe I want to connect as the run as account.
 >
-> **[5:30](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=330)** Maybe I want to, you know, create a new active directory account, or maybe I'm just going to copy and paste a value here.
+> **[5:30](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=330)** Maybe I want to, you know, create a new [[Active Directory]] account, or maybe I'm just going to copy and paste a value here.
 >
-> **[5:39](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=339)** Maybe I want to combine this with Azure automations or using Azure CLI.
+> **[5:39](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=339)** Maybe I want to combine this with Azure automations or using Azure [[CLI]].
 >
-> **[5:43](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=343)** And you can see that I can now say Azure active directory user go and create it.
+> **[5:43](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=343)** And you can see that I can now say [[Microsoft Entra ID|Azure active directory]] user go and create it.
 >
 > **[5:48](https://www.linkedin.com/learning/introduction-to-it-automation/automating-the-cloud?u=76281980&t=348)** And I've got some variables and the variables will be populated as part of this process.
 >
@@ -2090,7 +2070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (10), [[Microsoft Azure|Azure]] (8), [[Automation]] (8), cloud (7), [[CLI]] (7)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Microsoft Azure|Azure]] (8), [[CLI]] (7), [[Microsoft Entra ID|Azure active directory]] (4), [[Microsoft Azure]] (3)
 > **Tools:** powershell (10), command line (1)
 > **Cross-References:** go back to (9)
 > **Env Vars:** cli (6)
@@ -2099,8 +2079,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1), az (1)
 > **Analogies:** for example (3)
 
-#### Cloud automation tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980)
+#### [Cloud automation tools](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2108,33 +2087,33 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=4)** Cloud automation encompasses various tool categories, each addressing a specific aspect of resource management.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=11)** Infrastructure as code tools automate resource provisioning, while configuration management ensures consistent setups.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=11)** [[Infrastructure as code (IaC)|Infrastructure as code]] tools automate resource provisioning, while [[Configuration Management]] ensures consistent setups.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=18)** Deployment orchestration simplifies release cycles, and monitoring tools maintain performance by dynamically scaling resources.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=27)** Leading cloud providers offer native automation solutions that integrate deeply within their ecosystems.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=34)** Amazon Web Services, Google Cloud, as well as Microsoft Azure provides specialized tools for defining, deploying, and managing resources, while cloud-specific CLI tools offer precise control.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=34)** [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google Cloud Platform (GCP)|Google Cloud]], as well as [[Microsoft Azure]] provides specialized tools for defining, deploying, and managing resources, while cloud-specific [[CLI]] tools offer precise control.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=48)** These integrated solutions simplify automation and enhance consistency across cloud environments.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=55)** Infrastructure as code transforms resource management by treating infrastructure definitions like software code.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=63)** Tools such as Terraform, ARM templates, and CloudFormation enable version-controlled reproducible deployments.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=63)** Tools such as [[Terraform]], ARM templates, and CloudFormation enable version-controlled reproducible deployments.
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=71)** This approach minimizes errors and supports automated provisioning, making it easier to scale and manage resources in dynamic environments.
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=80)** Configuration management tools automate system setup and software deployments across multiple environments.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=87)** Utilizing solutions like Ansible, Chef, and Puppet, organizations can ensure consistent configuration changes and integrate these processes with the CICD pipelines.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=87)** Utilizing solutions like [[Ansible]], Chef, and Puppet, organizations can ensure consistent configuration changes and integrate these processes with the CICD pipelines.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=99)** This results in streamlined updates, enhanced stability, and improved operational efficiency.
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=106)** Automated deployment pipelines are central to modern cloud operations, enabling continuous integration and deployment.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=106)** Automated deployment pipelines are central to modern cloud operations, enabling [[Continuous Integration (CI)|continuous integration]] and deployment.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=114)** Tools like Jenkins, GitLab CI, and Azure DevOps automate testing, deployment, and rollback processes, ensuring that software changes are reliably pushed to production.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=114)** Tools like [[Jenkins]], GitLab CI, and [[Microsoft Azure|Azure]] [[DevOps]] automate testing, deployment, and rollback processes, ensuring that software changes are reliably pushed to production.
 >
-> **[2:06](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=126)** Their seamless integration with cloud services enhances the agility and minimizes downtime within cloud services.
+> **[2:06](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=126)** Their seamless integration with [[Cloud Services]] enhances the agility and minimizes downtime within cloud services.
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=135)** Effective cloud management relies on robust monitoring and scaling automation.
 >
@@ -2160,7 +2139,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=225)** CI and CD pipelines are optimal for organizations that require frequent and reliable software releases.
 >
-> **[3:52](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=232)** And serverless functions provide scalable, cost-effective responses to real-time events.
+> **[3:52](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=232)** And serverless functions provide scalable, cost-effective responses to [[Real-Time]] events.
 >
 > **[3:58](https://www.linkedin.com/learning/introduction-to-it-automation/cloud-automation-tools?u=76281980&t=238)** Choosing the right tool depends on the task at hand and the desired outcome.
 >
@@ -2172,7 +2151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Automation]] (7), management (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Configuration Management]] (3)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Configuration Management]] (3), [[Microsoft Azure|Azure]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Cloud Services]] (2)
 > **CLI Commands:** terraform (1), ansible (1), aws (1), cd (1)
 > **Env Vars:** cli (1), arm (1), cicd (1), aws (1)
 > **Analogies:** such as (3)
@@ -2185,12 +2164,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automation using scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980)
+#### [Automation using scripts](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=0)** - [Instructor] Most IT automation tools work well and offer great flexibility in what they might automate.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=0)** - [Instructor] Most [[IT Automation]] tools work well and offer great flexibility in what they might automate.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=7)** Though these applications work well and maybe easy to use, often times, scripting may be required.
 >
@@ -2208,11 +2186,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=68)** That's because the scripting languages are built into the operating system.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=73)** So for example, if we think of Windows operating system, it's going to have command line components, so batch files, CMD files, which are really easy to create.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=73)** So for example, if we think of [[Windows]] operating system, it's going to have command line components, so batch files, CMD files, which are really easy to create.
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=84)** VBScript, cscript, which are an enhancement of that.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=88)** And then of course, PowerShell, which is one of the most common languages to utilize.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=88)** And then of course, [[Powershell]], which is one of the most common languages to utilize.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=94)** So how can scripts help in automation?
 >
@@ -2240,7 +2218,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=192)** And we have looked at this in the past.
 >
-> **[3:13](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=193)** We looked at it on Windows and on Linux, as well as how the Cloud services come into play.
+> **[3:13](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=193)** We looked at it on Windows and on [[Linux]], as well as how the [[Cloud Services]] come into play.
 >
 > **[3:19](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980&t=199)** Second, is configuration or modifications.
 >
@@ -2294,7 +2272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (15), [[Automation]] (8), [[IT Automation]] (6), [[Windows]] (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[IT Automation]] (6), [[Windows]] (3), [[Powershell]] (2), [[Cloud Services]] (2), [[Linux]] (1)
 > **Analogies:** for example (4), such as (1)
 > **Tools:** powershell (2), command line (1)
 > **CLI Commands:** make (2)
@@ -2303,12 +2281,11 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using scripts to automate Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980)
+#### [Using scripts to automate Windows](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=0)** - [Instructor] So let's talk about using scripts to automate Windows.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=0)** - [Instructor] So let's talk about using scripts to automate [[Windows]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=5)** So first off, there were three options available to us within Windows and we've discussed these previously.
 >
@@ -2322,7 +2299,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=37)** Now, if you wish to try this out on Windows, we can simply type CMD or command prompt on the start menu and you'll find it there where you can execute commands.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=48)** The second option is PowerShell and script files.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=48)** The second option is [[Powershell]] and script files.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=51)** Now PowerShell is an automation and management framework, built for everybody from power users up to system admins.
 >
@@ -2390,7 +2367,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=277)** Start is a command that will allow us to pass the name of the application.
 >
-> **[4:43](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=283)** So start Word.exe would launch Microsoft Word.
+> **[4:43](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=283)** So start [[Microsoft Word|Word]].exe would launch [[Microsoft Word]].
 >
 > **[4:46](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-windows?u=76281980&t=286)** Start Firefox would obviously launch the browser.
 >
@@ -2470,7 +2447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (25), [[Windows]] (10), prompt (7), [[Automation]] (5), application (4)
+> **Frameworks & Libraries:** [[Powershell]] (25), [[Windows]] (10), [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1)
 > **Tools:** powershell (25), command prompt (4), firefox (2), command line (1)
 > **Definitions:** is a  (5), known as (1), is an  (1)
 > **Analogies:** for example (5)
@@ -2479,12 +2456,11 @@ created: 2026-05-02
 > **Code Identifiers:** wbadmin (1)
 > **UI Navigation:** click on (1)
 
-#### Using PowerShell scripts to automate Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980)
+#### [Using PowerShell scripts to automate Windows](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=0)** - So let's talk about how we automate some of those things within PowerShell.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=0)** - So let's talk about how we automate some of those things within [[Powershell]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=5)** So, first off, let's talk about how we launch multiple applications.
 >
@@ -2534,7 +2510,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=136)** I'm just going to close these down.
 >
-> **[2:18](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=138)** You'll see it loads them in different windows, but it loads them in the order that they were created.
+> **[2:18](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=138)** You'll see it loads them in different [[Windows]], but it loads them in the order that they were created.
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=145)** So if I remove this one and put it at the bottom and then re-select, you should get notepad, CMD, task manager, and then Firefox should be last.
 >
@@ -2600,7 +2576,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=331)** So what does this look like?
 >
-> **[5:33](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=333)** Well, if I open my file explorer here, you can see I've got my documents and files folder open, it's full of spreadsheets and Word documents.
+> **[5:33](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=333)** Well, if I open my file explorer here, you can see I've got my documents and files folder open, it's full of spreadsheets and [[Microsoft Word|Word]] documents.
 >
 > **[5:41](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=341)** If I now go back here and select this one and just say, run selection.
 >
@@ -2690,7 +2666,7 @@ created: 2026-05-02
 >
 > **[9:38](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=578)** PowerShell is fantastic for this.
 >
-> **[9:40](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=580)** We have the ability to install Windows updates, we're going to say Microsoft updates, accept them all and then I'm just going to have a log file that's going to write out the values.
+> **[9:40](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=580)** We have the ability to install Windows updates, we're going to say [[Microsoft]] updates, accept them all and then I'm just going to have a log file that's going to write out the values.
 >
 > **[9:50](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-windows?u=76281980&t=590)** The install Windows update PowerShell is exactly the same as if we went into, you know, the control panel and did you know, check for Windows updates.
 >
@@ -2740,7 +2716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (24), [[Windows]] (15), application (2), prompt (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (24), [[Windows]] (15), [[Microsoft]] (2), [[Microsoft Word|Word]] (1)
 > **Tools:** powershell (24), visual studio (3), firefox (2), command prompt (2), command line (1)
 > **Prerequisites:** install (10)
 > **CLI Commands:** make (4), find (2)
@@ -2749,12 +2725,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (4), click on (1)
 > **Analogies:** for example (4)
 
-#### Using scripts to automate Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-linux?u=76281980)
+#### [Using scripts to automate Linux](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-linux?u=76281980&t=0)** - [Instructor] Linux provides great scripting components from its basic command capabilities, all the way to its job capabilities.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-linux?u=76281980&t=0)** - [Instructor] [[Linux]] provides great scripting components from its basic command capabilities, all the way to its job capabilities.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-linux?u=76281980&t=9)** There were three options available to us within Linux.
 >
@@ -2764,7 +2739,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-linux?u=76281980&t=20)** A command script is simply a file, which contains a set of normal Linux commands that the command shell will perform automatically in the order that they were placed in the script.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-linux?u=76281980&t=31)** Second would be Python scripts.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-linux?u=76281980&t=31)** Second would be [[Python (Programming Language)|Python]] scripts.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-linux?u=76281980&t=33)** The Python programming language can be used as a replacement for any of the other scripting languages within Linux.
 >
@@ -2916,7 +2891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Linux]] (10), [[Scripting]] (4), [[Programming]] (2), application (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Linux]] (10)
 > **CLI Commands:** python (20), find (3), make (2), tar (2)
 > **Tools:** bash (18), command line (1), firefox (1), terminal (1)
 > **Definitions:** means that (2), is a  (2), is an  (1)
@@ -2925,14 +2900,13 @@ created: 2026-05-02
 > **Env Vars:** cis (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using PowerShell scripts to automate Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980)
+#### [Using PowerShell scripts to automate Linux](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=0)** - [Instructor] Now when we're working with Linux, automation can be done in various ways.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=0)** - [Instructor] Now when we're working with [[Linux]], automation can be done in various ways.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=5)** Now, we're going to have a look at using Shell scripts or Bash files, as well as using Python to achieve those kind of three specific things we talked about, which are really focused on the ability for launching applications, cleaning up the file storage, and then perhaps backing up files, et cetera.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=5)** Now, we're going to have a look at using Shell scripts or Bash files, as well as using [[Python (Programming Language)|Python]] to achieve those kind of three specific things we talked about, which are really focused on the ability for launching applications, cleaning up the file storage, and then perhaps backing up files, et cetera.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=22)** So I'm here within the file structure and you can see I've got my Python scripts and my Shell scripts as well as a structure of content.
 >
@@ -2942,7 +2916,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=39)** Okay, so first off, I'm just going to browse into my courses folder, and then we'll just list out.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=45)** So we have a series of Shell and PowerShell scripts.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=45)** So we have a series of Shell and [[Powershell]] scripts.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=49)** Now, the first thing I want to look at is obviously how we launch specific applications.
 >
@@ -2976,7 +2950,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=141)** And of course, because it's Linux, it gives me a whole host of other information in the background.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=146)** So fairly straightforward, very much like the Windows process for launching applications.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=146)** So fairly straightforward, very much like the [[Windows]] process for launching applications.
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=152)** Now, what about if you wanted to use Python kind of like what we did with Windows using PowerShell.
 >
@@ -3046,7 +3020,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=343)** Well, if I pick my file Explorer here and go to the backup directory, you'll see, I have a Tar file, which if I double click the Tar file, all the archive manager will load in a second.
 >
-> **[5:53](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=353)** And then you'll be able to see that there's a breakdown here, documents, files, and all of my Windows kind of Microsoft documents are there.
+> **[5:53](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=353)** And then you'll be able to see that there's a breakdown here, documents, files, and all of my Windows kind of [[Microsoft]] documents are there.
 >
 > **[6:01](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-linux?u=76281980&t=361)** So a simple process, one line to be able to do that, but what's great about this is this could be an automated task that we run on a regular basis.
 >
@@ -3178,7 +3152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Linux]] (4), [[Windows]] (4), cd (4), [[Powershell]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Linux]] (4), [[Windows]] (4), [[Powershell]] (2), [[Microsoft]] (1)
 > **CLI Commands:** python (10), make (4), tar (4), cd (4), python3 (3)
 > **Tools:** bash (6), firefox (4), terminal (3), powershell (2), command line (1)
 > **Definitions:** is a  (4), is an  (1), stands for (1)
@@ -3187,14 +3161,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), click on (1), navigate to (1)
 > **Cross-References:** we talked about (1), go back to (1)
 
-#### Using scripts to automate the Azure cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980)
+#### [Using scripts to automate the Azure cloud](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=0)** - [Instructor] Now, when we think of the Azure services within the Microsoft Cloud, there are four core automation capabilities.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=0)** - [Instructor] Now, when we think of the [[Microsoft Azure|Azure]] services within the [[Microsoft]] Cloud, there are four core automation capabilities.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=8)** The first one is Azure Cloud Shell for scripting, Azure CLI for scripting, Azure Automation for creating jobs and runbooks of tasks, and then templates for creating all of the services.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=8)** The first one is Azure Cloud Shell for scripting, Azure [[CLI]] for scripting, Azure Automation for creating jobs and runbooks of tasks, and then templates for creating all of the services.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=21)** The Azure Cloud Shell is an interactive, authenticated, browser-accessible shell for managing all of the Azure resources.
 >
@@ -3208,11 +3181,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=64)** Azure Automation delivers a cloud-based automation and configuration service that supports management across Azure and non-Azure environments.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=74)** It comprises process automation, configuration management, update management, shared capabilities between them, as well as heterogeneous features.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=74)** It comprises process automation, [[Configuration Management]], update management, shared capabilities between them, as well as heterogeneous features.
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=84)** Automation gives you complete control over deployment, operations, decommissioning of workloads and resources.
 >
-> **[1:33](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=93)** Then, of course, we have our templating, so all the components within Azure are deployable and re-deployable due to them being described within a JSON document.
+> **[1:33](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=93)** Then, of course, we have our templating, so all the components within Azure are deployable and re-deployable due to them being described within a [[JSON]] document.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=103)** For example, items such as a virtual machine are described within the JSON, including the size, the resources, the operating system, IP configuration, even down to the hard drive allocations, to name a few items.
 >
@@ -3224,7 +3197,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=139)** So for example, if you're in the Azure portal and you click the icon, it will load into the bottom section and just look like an embedded tool in the browser.
 >
-> **[2:28](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=148)** It supports using both Bash commands and PowerShell commands.
+> **[2:28](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=148)** It supports using both Bash commands and [[Powershell]] commands.
 >
 > **[2:33](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=153)** Now, be aware that can be a bit complicated as you're trying to understand what commands are supported, but you can use either/or and it would allow you to connect to all of the services within your Azure tenant.
 >
@@ -3250,7 +3223,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=242)** So process automation supports the integration of Azure services, as well as other public systems for deployment, configuration, and managing an end-to-end process.
 >
-> **[4:14](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=254)** The service allows you to create runbooks graphically, either using PowerShell or using Python.
+> **[4:14](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=254)** The service allows you to create runbooks graphically, either using PowerShell or using [[Python (Programming Language)|Python]].
 >
 > **[4:20](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=260)** You can also use what's called a hybrid runbook worker, which allows you to orchestrate things across your on-premises environment.
 >
@@ -3262,9 +3235,9 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=288)** And it can also raise alerts as needed.
 >
-> **[4:51](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=291)** Azure Automation includes the update management feature for things like Windows and Linux.
+> **[4:51](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=291)** Azure Automation includes the update management feature for things like [[Windows]] and [[Linux]].
 >
-> **[4:56](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=296)** Update management gives you visibility into things like compliance for those cloud services.
+> **[4:56](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=296)** Update management gives you visibility into things like compliance for those [[Cloud Services]].
 >
 > **[5:03](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=303)** It also provides granularity when it comes to security, so we're able to define the roles and configuration.
 >
@@ -3284,7 +3257,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=357)** We can author PowerShell, PowerShell workflow, graphical designed Python versions, as well as desired state configuration or DSE runbooks in lots of common language for all of the automated tasks that we can come up with.
 >
-> **[6:14](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=374)** Some of those tasks might be build and deploy resources, so deploying virtual machines across hybrid environments using runbooks, as well as using templates.
+> **[6:14](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=374)** Some of those tasks might be build and deploy resources, so deploying [[Virtual Machines]] across hybrid environments using runbooks, as well as using templates.
 >
 > **[6:24](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=384)** We can also configure virtual machines, so assess and configure whether Windows and Linux machines in the infrastructure are configured correctly and modify as needed.
 >
@@ -3338,7 +3311,7 @@ created: 2026-05-02
 >
 > **[8:46](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=526)** You can obviously create them as test ones and run them through.
 >
-> **[8:50](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=530)** For example, there's a test kit, which is a PowerShell script that you can use available on GitHub.
+> **[8:50](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=530)** For example, there's a test kit, which is a PowerShell script that you can use available on [[GitHub]].
 >
 > **[8:55](https://www.linkedin.com/learning/introduction-to-it-automation/using-scripts-to-automate-the-azure-cloud?u=76281980&t=535)** You can also preview the changes, validate the thing that's been built.
 >
@@ -3348,7 +3321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (39), [[Automation]] (13), [[Powershell]] (12), cloud (9), management (7)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (39), [[Powershell]] (12), [[CLI]] (6), [[JSON]] (5), [[Virtual Machines]] (4)
 > **Tools:** powershell (12), command line (3), bash (3), azure portal (2), github (1)
 > **Env Vars:** cli (6), json (5), arm (5), url (1), dse (1)
 > **Analogies:** for example (6), such as (1)
@@ -3357,18 +3330,17 @@ created: 2026-05-02
 > **CLI Commands:** python (3), make (1)
 > **Warnings:** be aware (1)
 
-#### Using PowerShell scripts to automate the Azure cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980)
+#### [Using PowerShell scripts to automate the Azure cloud](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=0)** - [Instructor] So let's take a look at how we can utilize PowerShell to create cloud resources.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=0)** - [Instructor] So let's take a look at how we can utilize [[Powershell]] to create cloud resources.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=6)** Now I've launched my Windows terminal as an administrator here.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=6)** Now I've launched my [[Windows]] terminal as an administrator here.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=11)** And in order for us to utilize PowerShell, we first need to install the specific modules that we wish to utilize.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=20)** So, we can utilize a command called Install-Module and the name for this will be Az, which is the name of the module that represents Azure.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=20)** So, we can utilize a command called Install-Module and the name for this will be Az, which is the name of the module that represents [[Microsoft Azure|Azure]].
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=29)** We'll also then do what's called AllowClobber, which is a property to basically say, if I already have it installed, then it's okay to merge anything new with the one that's there.
 >
@@ -3530,11 +3502,11 @@ created: 2026-05-02
 >
 > **[8:31](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=511)** Okay and so now because I didn't specify a size of the virtual machine, it's just going to use a default size.
 >
-> **[8:38](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=518)** So Microsoft recommends specific sizes.
+> **[8:38](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=518)** So [[Microsoft]] recommends specific sizes.
 >
 > **[8:41](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=521)** So it's going to go ahead and create my virtual machine and it shouldn't take too long.
 >
-> **[8:46](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=526)** Creating the virtual machines is actually fairly straightforward.
+> **[8:46](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=526)** Creating the [[Virtual Machines]] is actually fairly straightforward.
 >
 > **[8:50](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=530)** We'll give this a second to complete.
 >
@@ -3548,7 +3520,7 @@ created: 2026-05-02
 >
 > **[9:22](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=562)** And what you'll see is all of those components that I specified to create.
 >
-> **[9:27](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=567)** So the network security group, the public IP address, the virtual machine, the network interface, the virtual network.
+> **[9:27](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=567)** So the [[Network Security]] group, the public IP address, the virtual machine, the network interface, the virtual network.
 >
 > **[9:33](https://www.linkedin.com/learning/introduction-to-it-automation/using-powershell-scripts-to-automate-the-azure-cloud?u=76281980&t=573)** If we go on the virtual network, you'll then see we can click into subnet and you'll see mySubnet option is there too.
 >
@@ -3600,7 +3572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Powershell]] (5), cloud (2), web (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Powershell]] (5), [[Windows]] (1), [[Microsoft]] (1), [[Virtual Machines]] (1)
 > **Code Identifiers:** mysubnet (3), myvnet (2), myresourcegroup (2), mynsg (1), publicipaddressname (1)
 > **Tools:** powershell (5), windows terminal (1), command line (1)
 > **Definitions:** is a  (4), is called (1), defined as (1), is an  (1)
@@ -3609,16 +3581,15 @@ created: 2026-05-02
 > **CLI Commands:** az (3)
 > **Cross-References:** go back to (3)
 
-#### Using Azure CLI scripts to automate the Azure cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980)
+#### [Using Azure CLI scripts to automate the Azure cloud](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=0)** - [Instructor] Another option to automating Azure, is to use the Azure CLI.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=0)** - [Instructor] Another option to automating [[Microsoft Azure|Azure]], is to use the Azure [[CLI]].
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=5)** Now I've launched the windows terminal here as administrator again, and I've already installed the Azure CLI by just downloading and installing.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=5)** Now I've launched the [[Windows]] terminal here as administrator again, and I've already installed the Azure CLI by just downloading and installing.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=13)** Now, once we have it installed just as with the PowerShell approach, we first need to log in to the specific tenant that we wish to utilize.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=13)** Now, once we have it installed just as with the [[Powershell]] approach, we first need to log in to the specific tenant that we wish to utilize.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=21)** And it will do the same thing as the PowerShell where I'm able to launch that.
 >
@@ -3670,9 +3641,9 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=154)** This time around I'm going to specify what the image would be.
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=157)** And for this one, we're going to create a Linux one.
+> **[2:37](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=157)** And for this one, we're going to create a [[Linux]] one.
 >
-> **[2:40](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=160)** So I'm going to say Ubuntu long-term support version.
+> **[2:40](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=160)** So I'm going to say [[Ubuntu]] long-term support version.
 >
 > **[2:43](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=163)** I've then got admin user name that I can specify.
 >
@@ -3778,9 +3749,9 @@ created: 2026-05-02
 >
 > **[7:29](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=449)** So if I go to the browser, what we end up with here is a member.
 >
-> **[7:32](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=452)** It creates this network security group.
+> **[7:32](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=452)** It creates this [[Network Security]] group.
 >
-> **[7:35](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=455)** So I'm actually just going to go Home in the browser, click Virtual Machines, and you can see my CLI.
+> **[7:35](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=455)** So I'm actually just going to go Home in the browser, click [[Virtual Machines]], and you can see my CLI.
 >
 > **[7:42](https://www.linkedin.com/learning/introduction-to-it-automation/using-azure-cli-scripts-to-automate-the-azure-cloud?u=76281980&t=462)** So I'm going to click this one.
 >
@@ -3994,12 +3965,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue exploring IT automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980)
+#### [Continue exploring IT automation](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=0)** - [Instructor] I hope you've enjoyed this course, as much as I've enjoyed being able to put it together for you and take you through the journey of understanding IT automation.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=0)** - [Instructor] I hope you've enjoyed this course, as much as I've enjoyed being able to put it together for you and take you through the journey of understanding [[IT Automation]].
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=9)** I recommend that your next steps are, review your organizational need for IT automation, select core IT tasks that can and could be automated, create simple scripts for your operating system and platform of choice for automating those tasks.
 >
@@ -4007,19 +3977,19 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=32)** Regardless of where you go from here with IT automation, I encourage you to dig deeper and deeper into how and where scripting tasks can benefit you.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=43)** With Cloud services, such as Microsoft 365 and Azure, the next logical step is to begin automating Cloud deployments and management.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=43)** With [[Cloud Services]], such as [[Microsoft 365]] and [[Microsoft Azure|Azure]], the next logical step is to begin automating Cloud deployments and management.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=53)** Most of all enjoy the process of creating IT automation and the power that it gives you.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=59)** It is a core part of what I do each day and has played a big part in my overall IT career, especially when working with IT infrastructure, both on premises and within Cloud.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=72)** I also encourage you to take as many of the other courses on IT automation here at LinkedIn learning.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=72)** I also encourage you to take as many of the other courses on IT automation here at [[LinkedIn]] learning.
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980&t=79)** I wish you the best of luck as you become an IT automation Guru.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Automation]] (6), cloud (3), next (2), [[Scripting]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[IT Automation]] (6), [[Cloud Services]] (1), [[Microsoft 365]] (1), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

@@ -76,16 +76,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980)
+#### [Introducing agentic AI](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980&t=0)** - In the age of generative AI, you're familiar with how AI enhances our lives and creates business value.
+> **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980&t=0)** - In the age of [[Generative AI]], you're familiar with how AI enhances our lives and creates business value.
 >
 > **[0:06](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980&t=6)** So, what's next?
 >
-> **[0:08](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980&t=8)** One area to watch is agentic AI, where AI agents can perform tasks, make decisions, and take action autonomously without any human intervention.
+> **[0:08](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980&t=8)** One area to watch is agentic AI, where [[AI Agents]] can perform tasks, make decisions, and take action autonomously without any human intervention.
 >
 > **[0:19](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980&t=19)** This is a brave new world, one where we must trust AI and machines to do the right things on our behalf.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2), business (1), next (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[AI Agents]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -109,12 +108,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What makes AI agents unique
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980)
+#### [What makes AI agents unique](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=0)** - We've seen how generative AI can write content, create beautiful images or write code, but in most cases, someone needs to provide instructions or a prompt for the tool to execute the task.
+> **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=0)** - We've seen how [[Generative AI]] can write content, create beautiful images or write code, but in most cases, someone needs to provide instructions or a prompt for the tool to execute the task.
 >
 > **[0:13](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=13)** With agentic AI, software programs independently learn, adapt, and take action without predefined instructions.
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=28)** They are working on our behalf just as a human agent would.
 >
-> **[0:32](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=32)** We already have many AI agents in our world today ranging from home thermostats to self-driving cars.
+> **[0:32](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=32)** We already have many [[AI Agents]] in our world today ranging from home thermostats to self-driving cars.
 >
 > **[0:40](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=40)** These are reactive AI agents, sometimes working in highly complex environments like roads.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=100)** Lastly, they are goal oriented.
 >
-> **[1:44](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=104)** They are designed to achieve specific objectives or goals, which can range from providing customer support, optimizing a system, or executing a complex task.
+> **[1:44](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=104)** They are designed to achieve specific objectives or goals, which can range from providing [[Customer Support]], optimizing a system, or executing a complex task.
 >
 > **[1:54](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980&t=114)** AI agents also range from simple reactive to highly complex smart agents.
 >
@@ -172,18 +170,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Generative AI]] (2), prompt (1), data (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (8), [[Generative AI]] (2), [[Customer Support]] (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
-#### Understand how AI agents work
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/understand-how-ai-agents-work?u=76281980)
+#### [Understand how AI agents work](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/understand-how-ai-agents-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/understand-how-ai-agents-work?u=76281980&t=0)** - So let's explore how smart AI agents work using a hypothetical example of an AI travel agent.
+> **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/understand-how-ai-agents-work?u=76281980&t=0)** - So let's explore how smart [[AI Agents]] work using a hypothetical example of an AI travel agent.
 >
 > **[0:07](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/understand-how-ai-agents-work?u=76281980&t=7)** Similar to a human travel agent, in the future, you'll be able to ask your AI travel agent to plan a vacation and it will make all of the arrangements for you.
 >
@@ -225,7 +222,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/understand-how-ai-agents-work?u=76281980&t=154)** Finally, the AI travel agent learns and adapts.
 >
-> **[2:39](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/understand-how-ai-agents-work?u=76281980&t=159)** This is the hallmark of generative AI.
+> **[2:39](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/understand-how-ai-agents-work?u=76281980&t=159)** This is the hallmark of [[Generative AI]].
 >
 > **[2:42](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/understand-how-ai-agents-work?u=76281980&t=162)** It can learn from each interaction and use the information to improve.
 >
@@ -247,14 +244,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), next (2), database (1), [[Generative AI]] (1), power (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Generative AI]] (1)
 > **Analogies:** for example (5), similar to (1), such as (1), imagine (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - so (1)
 
-#### How AI agents create value for businesses
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/how-ai-agents-create-value-for-businesses?u=76281980)
+#### [How AI agents create value for businesses](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/how-ai-agents-create-value-for-businesses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -270,9 +266,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/how-ai-agents-create-value-for-businesses?u=76281980&t=36)** This is because you can't anticipate all of the questions or scenarios or required steps.
 >
-> **[0:42](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/how-ai-agents-create-value-for-businesses?u=76281980&t=42)** Customer service and customer engagement are top areas for AI agents, as it can reduce much of the work done by humans.
+> **[0:42](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/how-ai-agents-create-value-for-businesses?u=76281980&t=42)** Customer service and customer engagement are top areas for [[AI Agents]], as it can reduce much of the work done by humans.
 >
-> **[0:51](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/how-ai-agents-create-value-for-businesses?u=76281980&t=51)** Automation also reduces human errors and improves quality, while also enabling scalability by handling increased workloads without needing additional resources.
+> **[0:51](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/how-ai-agents-create-value-for-businesses?u=76281980&t=51)** Automation also reduces human errors and improves quality, while also enabling [[Scalability]] by handling increased workloads without needing additional resources.
 >
 > **[1:03](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/how-ai-agents-create-value-for-businesses?u=76281980&t=63)** The second way AI agents create business value is that they can learn and adapt to create personalized or customized results under changing circumstances that would normally require human intervention to reprogram the software, they exercise judgment and refine their decision making based on past interactions and data analysis.
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (5), business (4), [[Automation]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (7), [[Scalability]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -314,8 +310,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simple reflex agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/simple-reflex-agents?u=76281980)
+#### [Simple reflex agents](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/simple-reflex-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/simple-reflex-agents?u=76281980&t=15)** Some simple reflex agents include automated customer service chatbots, appointment scheduling, and internal HR, finance, or IT support questions.
 >
-> **[0:25](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/simple-reflex-agents?u=76281980&t=25)** For example, instead of someone in HR answering questions about how to log vacation days or IT having to reset passwords, these simple reflex agents use natural language processing to analyze and understand the request or question, and then provides immediate responses based on the information available.
+> **[0:25](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/simple-reflex-agents?u=76281980&t=25)** For example, instead of someone in HR answering questions about how to log vacation days or IT having to reset passwords, these simple reflex agents use [[Natural Language Processing (NLP)|natural language processing]] to analyze and understand the request or question, and then provides immediate responses based on the information available.
 >
 > **[0:47](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/simple-reflex-agents?u=76281980&t=47)** The response is typically instant, reducing wait times and increasing overall customer and employee satisfaction.
 >
@@ -367,13 +362,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (3), hr (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), next (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - let (1)
 
-#### Model-based agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980)
+#### [Model-based agents](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,19 +377,19 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=19)** An example would be a vacuum cleaner that has sensors to detect dirt and obstacles and uses a model of the room to plan its cleaning session.
 >
-> **[0:28](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=28)** Model-based agents typically do planning, forecasting, and optimization.
+> **[0:28](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=28)** Model-based agents typically do planning, [[Forecasting]], and optimization.
 >
 > **[0:33](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=33)** For example, they may analyze customer purchases and market signals to forecast demand or plan a marketing campaign.
 >
 > **[0:42](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=42)** In a healthcare setting, the agents may understand a patient's multiple health indicators and develop a healthcare treatment plan.
 >
-> **[0:50](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=50)** Other examples include credit scoring or loan approvals in financial services, as well as the many robo-advisors providing goal-based financial planning for individuals.
+> **[0:50](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=50)** Other examples include credit scoring or loan approvals in financial services, as well as the many robo-advisors providing goal-based [[Financial Planning]] for individuals.
 >
 > **[1:01](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=61)** They can also provide employee performance predictions within organizations.
 >
 > **[1:06](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=66)** So what's in common in all of these use cases?
 >
-> **[1:10](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=70)** It's the ability of the model-based agent to use an internal representation or simulation of the environment to predict the outcomes of different approaches and optimize for the desired outcome or goal.
+> **[1:10](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=70)** It's the ability of the model-based agent to use an internal representation or [[Simulation]] of the environment to predict the outcomes of different approaches and optimize for the desired outcome or goal.
 >
 > **[1:24](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/model-based-agents?u=76281980&t=84)** That internal model allows them to simulate different scenarios and then optimize a course of action to avoid undesirable outcomes.
 >
@@ -423,17 +417,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (1), [[Financial Planning]] (1), [[Simulation]] (1), data (1), power (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Financial Planning]] (1), [[Simulation]] (1)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** means that (1)
 > **Speakers:** - let (1)
 
-#### Goal-based agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/goal-based-agents?u=76281980)
+#### [Goal-based agents](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/goal-based-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/goal-based-agents?u=76281980&t=0)** - Let's take a look at goal-based AI agents, which improve on model-based agents because information about the goal is included.
+> **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/goal-based-agents?u=76281980&t=0)** - Let's take a look at goal-based [[AI Agents]], which improve on model-based agents because information about the goal is included.
 >
 > **[0:09](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/goal-based-agents?u=76281980&t=9)** These agents are also called planning or rule-based agents because they use their knowledge and a set of rules to plan and choose the best strategy to achieve a specific goal.
 >
@@ -445,7 +438,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/goal-based-agents?u=76281980&t=60)** For example, maintaining a customer satisfaction score requires identifying when a score decreases, analyzing the source of the problem, and then developing an action plan of changes to make.
 >
-> **[1:13](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/goal-based-agents?u=76281980&t=73)** Other areas ripe for exploration includes supply chain management, talent management, and product or service innovation.
+> **[1:13](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/goal-based-agents?u=76281980&t=73)** Other areas ripe for exploration includes [[Supply Chain Management]], [[Talent Management]], and product or service innovation.
 >
 > **[1:22](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/goal-based-agents?u=76281980&t=82)** The disadvantage of goal-based agents is that they have limited scope because they focus on goals defined by the environment.
 >
@@ -467,13 +460,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), game (1), management (1), business (1), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Supply Chain Management]] (1), [[Talent Management]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Utility-based agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/utility-based-agents?u=76281980)
+#### [Utility-based agents](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/utility-based-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -489,7 +481,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/utility-based-agents?u=76281980&t=47)** These utilities function also to evaluate how well different actions achieve the different goals.
 >
-> **[0:54](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/utility-based-agents?u=76281980&t=54)** Utility-based agents excel at prioritizing tasks and allocating resources or budgets leading to greater efficiency and better resource utilization.
+> **[0:54](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/utility-based-agents?u=76281980&t=54)** Utility-based agents [[Microsoft Excel|excel]] at prioritizing tasks and allocating resources or budgets leading to greater efficiency and better resource utilization.
 >
 > **[1:05](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/utility-based-agents?u=76281980&t=65)** Some examples of utility-based agents include managing an investment portfolio, allocating a marketing budget, project prioritization or inventory management.
 >
@@ -501,7 +493,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/utility-based-agents?u=76281980&t=107)** Given their flexibility, utility-based agents also excel in dynamic environments where they can adjust their decision depending on new information or changing circumstances.
 >
-> **[1:59](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/utility-based-agents?u=76281980&t=119)** Similarly, they can tailor the decision-making and strategies to reflect unique preferences or specific constraints, resulting in customization and personalization that maximizes value.
+> **[1:59](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/utility-based-agents?u=76281980&t=119)** Similarly, they can tailor the [[Decision-Making]] and strategies to reflect unique preferences or specific constraints, resulting in customization and personalization that maximizes value.
 >
 > **[2:11](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/utility-based-agents?u=76281980&t=131)** But if you routinely optimize and prioritize resources, schedules, or portfolios, be confident that you can define and measure value and have reliable data input sources leveraging utility-based agents.
 >
@@ -523,13 +515,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft Excel|Excel]] (2), [[Decision-Making]] (2), management (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Decision-Making]] (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
 
-#### Learning-based agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980)
+#### [Learning-based agents](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,11 +530,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=7)** They use machine learning to adapt and make better decisions in three ways.
 >
-> **[0:12](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=12)** First, they can use supervised learning where the AI agent is given labeled examples to understand and recognize patterns and make predictions.
+> **[0:12](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=12)** First, they can use [[Supervised Learning]] where the AI agent is given labeled examples to understand and recognize patterns and make predictions.
 >
 > **[0:22](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=22)** Second, they can use unsupervised learning before the AI agent explores data and identifies patterns without prior knowledge.
 >
-> **[0:31](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=31)** And lastly, reinforcement learning uses rewards or penalties so that the AI agent learns to optimize strategies with trial and error.
+> **[0:31](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=31)** And lastly, [[Reinforcement Learning]] uses rewards or penalties so that the AI agent learns to optimize strategies with trial and error.
 >
 > **[0:42](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=42)** A learning based agent excels at data-driven insights as it can analyze vast amounts of data much faster than a human can.
 >
@@ -557,11 +548,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=90)** But there are also limitations to these agents.
 >
-> **[1:33](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=93)** Similar to what we've discussed before, data quality matters, but so does data quantity.
+> **[1:33](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=93)** Similar to what we've discussed before, [[Data Quality]] matters, but so does data quantity.
 >
 > **[1:39](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=99)** Biased or insufficient data can result in inaccurate outcomes.
 >
-> **[1:44](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=104)** And because these AI agents use machine learning and deep neural networks, it's not always transparent how they make decisions.
+> **[1:44](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=104)** And because these [[AI Agents]] use machine learning and deep [[Neural Networks]], it's not always transparent how they make decisions.
 >
 > **[1:53](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=113)** This can be a significant problem for some situations, such as loan approvals, or hiring, where it's essential to detect if there's bias in the decision making.
 >
@@ -571,7 +562,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=142)** If that's the case, look for places where a learning-based agent can do some of the heavy lifting so that you can scale these tasks and grow without adding headcount.
 >
-> **[2:33](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=153)** Note that training learning-based agents can be intense computationally, while large databases require significant hardware or cloud-based computing resources.
+> **[2:33](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=153)** Note that training learning-based agents can be intense computationally, while large [[Databases]] require significant [[Hardware]] or cloud-based computing resources.
 >
 > **[2:44](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/learning-based-agents?u=76281980&t=164)** We've now reached our last agent type, hierarchical agents.
 >
@@ -579,15 +570,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (4), [[Supervised Learning]] (1), [[Reinforcement Learning]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (1), [[Reinforcement Learning]] (1), [[Data Quality]] (1), [[AI Agents]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), similar to (1), such as (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hierarchical agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980)
+#### [Hierarchical agents](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -599,7 +589,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=17)** The advantage of this approach is that instead of having one agent do everything, it creates resource efficiency by assigning tasks to the best agent and avoids duplicating effort.
 >
-> **[0:29](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=29)** The hierarchical agent facilitates information sharing, communicates between levels and provides feedback to the rest of the agents.
+> **[0:29](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=29)** The hierarchical agent facilitates information sharing, communicates between levels and provides feedback to the [[Representational State Transfer (REST)|rest]] of the agents.
 >
 > **[0:37](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=37)** The higher level agents also learn along the way which agents are better at what tasks, and thus continue to simplify the problem and support agent learning across the system.
 >
@@ -625,7 +615,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=106)** The predefined structure and modules may limit adaptability, which may hinder the agent's ability to adjust.
 >
-> **[1:53](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=113)** They also follow a top down control flow, which can create bottlenecks if there's a problem with lower level tasks.
+> **[1:53](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=113)** They also follow a top down [[Control Flow]], which can create bottlenecks if there's a problem with lower level tasks.
 >
 > **[2:01](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=121)** And hierarchical agents rely heavily on information flow between different levels, so gaps or delays can impact decision making.
 >
@@ -633,11 +623,11 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=138)** The process involves defining the hierarchy, creating modules and agents for each task, and ensuring seamless communication between levels.
 >
-> **[2:26](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=146)** To get started with hierarchical agents, look for management situations where it can take on the load of complex decision making processes from a human, such as customer engagement and service, supply chain management or talent management.
+> **[2:26](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=146)** To get started with hierarchical agents, look for management situations where it can take on the load of complex decision making processes from a human, such as customer engagement and service, [[Supply Chain Management]] or [[Talent Management]].
 >
 > **[2:42](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=162)** Look for bottlenecks in your processes that prevent you from scaling operations and investigate how hierarchical agents could take on the work and even do a better job than their human counterparts.
 >
-> **[2:55](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=175)** Phew, we've looked at six different AI agents, simple reflex, model-based, goal-based, utility-based, learning-based and hierarchical agents.
+> **[2:55](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=175)** Phew, we've looked at six different [[AI Agents]], simple reflex, model-based, goal-based, utility-based, learning-based and hierarchical agents.
 >
 > **[3:06](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/hierarchical-agents?u=76281980&t=186)** Each has their advantages and limitations, and all create business value in different ways.
 >
@@ -645,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Representational State Transfer (REST)|Rest]] (1), [[Control Flow]] (1), management (1), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Control Flow]] (1), [[Supply Chain Management]] (1), [[Talent Management]] (1), [[AI Agents]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -656,12 +646,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980)
+#### [Implementing agentic AI](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980&t=0)** - When it comes to implementing AI agents in organizations, the biggest mistake many make is to start with technology instead of strategy.
+> **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980&t=0)** - When it comes to implementing [[AI Agents]] in organizations, the biggest mistake many make is to start with technology instead of strategy.
 >
 > **[0:09](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980&t=9)** It's critical to evaluate how AI agents can support your broader business objectives by looking at the three biggest strategic imperatives for your organization.
 >
@@ -693,7 +682,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980&t=104)** Narrow your options by understanding the six types of AI agents we covered, and identify the type of agent you need to solve the problem at hand.
 >
-> **[1:54](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980&t=114)** When selecting an AI agent software, also consider compatibility with your current systems and also integration difficulties, scalability, and of course, support.
+> **[1:54](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980&t=114)** When selecting an AI agent software, also consider compatibility with your current systems and also integration difficulties, [[Scalability]], and of course, support.
 >
 > **[2:06](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980&t=126)** You also need to prepare to train and monitor your AI agents.
 >
@@ -707,15 +696,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (5), business (2), [[Scalability]] (1), next (1)
+> **Frameworks & Libraries:** [[AI Agents]] (9), [[Scalability]] (1)
 > **Cross-References:** as you saw (1), we covered (1), in the next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
-#### Addressing agentic AI challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980)
+#### [Addressing agentic AI challenges](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,13 +713,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=12)** Here's a graphic that describes those needs.
 >
-> **[0:15](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=15)** Satisfy each need in each layer, and you'll be building trust in AI agents step by step.
+> **[0:15](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=15)** Satisfy each need in each layer, and you'll be [[Building Trust]] in [[AI Agents]] step by step.
 >
 > **[0:22](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=22)** You have to address the needs at the bottom before you can tackle ones further up the pyramid.
 >
 > **[0:27](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=27)** It's all about creating a firm foundation and working upwards.
 >
-> **[0:32](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=32)** So let's start at the base and focus on the need for safety, security, and privacy.
+> **[0:32](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=32)** So let's start at the base and focus on the need for safety, security, and [[Privacy]].
 >
 > **[0:38](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=38)** Your organization has many existing policies that address safety, security, and privacy, especially when it comes to collecting, accessing, and using customer or employee data.
 >
@@ -759,7 +747,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=122)** This becomes especially important with learning base and hierarchical agents, as you must trust that they understand what these mean as they learn, adapt, and even manage the output of other agents.
 >
-> **[2:15](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=135)** The next level is accountability, where structures and guidelines ensure that the AI agent can be held accountable when something doesn't go as expected.
+> **[2:15](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=135)** The next level is [[Accountability]], where structures and guidelines ensure that the AI agent can be held accountable when something doesn't go as expected.
 >
 > **[2:24](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/addressing-agentic-ai-challenges?u=76281980&t=144)** For example, the AI agent should be able to explain how it makes decisions and what data it takes into consideration.
 >
@@ -799,7 +787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Security]] (2), [[Privacy]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[AI Agents]] (8), [[Privacy]] (2), [[Building Trust]] (1), [[Accountability]] (1)
 > **Analogies:** for example (3), think of it as (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -812,14 +800,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your future and agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/your-future-and-agentic-ai?u=76281980)
+#### [Your future and agentic AI](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/your-future-and-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/your-future-and-agentic-ai?u=76281980&t=0)** - You are on your way to start your Agentic AI journey, and you've come so far already in this course.
 >
-> **[0:07](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/your-future-and-agentic-ai?u=76281980&t=7)** You've learned what is Agentic AI, how it works, and the six major types of AI agents.
+> **[0:07](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/your-future-and-agentic-ai?u=76281980&t=7)** You've learned what is Agentic AI, how it works, and the six major types of [[AI Agents]].
 >
 > **[0:12](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/your-future-and-agentic-ai?u=76281980&t=12)** You've also gotten a crash course on the important questions to ask as you experiment and implement AI agents.
 >
@@ -843,7 +830,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), power (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5)
 > **Analogies:** imagine (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - you (1)

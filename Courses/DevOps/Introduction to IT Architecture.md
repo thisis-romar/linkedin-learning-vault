@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stand apart with IT architecture know-how
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/stand-apart-with-it-architecture-know-how?u=76281980)
+#### [Stand apart with IT architecture know-how](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/stand-apart-with-it-architecture-know-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,7 +115,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 > **Speakers:** - picture (1)
@@ -126,8 +124,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IT infrastructure: The product of IT architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980)
+#### [IT infrastructure: The product of IT architecture](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -149,7 +146,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=36)** IT architecture provides the blueprint guiding the development of IT infrastructure, including the physical and virtual resources that support the operation, management, and delivery of your organization's IT services and solutions.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=51)** IT infrastructure components include hardware, software, networking, data storage, cloud services, and security.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=51)** IT infrastructure components include [[Hardware]], software, networking, [[Data Storage]], [[Cloud Services]], and security.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=60)** Let's break this down further.
 >
@@ -159,13 +156,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=75)** Software includes operating systems, enterprise applications, and middleware powering business processes.
 >
-> **[1:22](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=82)** Together, they enable data processing, automation, and productivity.
+> **[1:22](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=82)** Together, they enable [[Data Processing]], automation, and productivity.
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=87)** Next is networking.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=89)** Routers, switches, firewalls, and communication lines that connect everything.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=94)** A robust network is essential, especially with the rise of remote work and cloud computing.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=94)** A robust network is essential, especially with the rise of remote work and [[Cloud Computing]].
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980&t=99)** It ensures that information flows securely and efficiently between people, departments, and even across borders.
 >
@@ -211,13 +208,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), cloud (4), [[Hardware]] (3), management (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Data Storage]] (2), [[Cloud Services]] (2), [[Data Processing]] (1), [[Cloud Computing]] (1)
 > **Analogies:** imagine (2), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuration, functionality, and qualities
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/configuration-functionality-and-qualities?u=76281980)
+#### [Configuration, functionality, and qualities](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/configuration-functionality-and-qualities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -255,11 +251,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/configuration-functionality-and-qualities?u=76281980&t=99)** Trustworthiness involves security, integrity, credibility, and compliance.
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/configuration-functionality-and-qualities?u=76281980&t=106)** Usability considers internationalization and accessibility.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/configuration-functionality-and-qualities?u=76281980&t=106)** Usability considers [[Internationalization]] and accessibility.
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/configuration-functionality-and-qualities?u=76281980&t=110)** Likeability touches on responsiveness, empathy, and attractiveness.
 >
-> **[1:55](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/configuration-functionality-and-qualities?u=76281980&t=115)** Adaptability covers interoperability, scalability, elasticity, portability, and extensibility.
+> **[1:55](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/configuration-functionality-and-qualities?u=76281980&t=115)** Adaptability covers interoperability, [[Scalability]], elasticity, portability, and extensibility.
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/configuration-functionality-and-qualities?u=76281980&t=124)** As you design IT infrastructure, consider these core elements, configuration, functionality, and qualities.
 >
@@ -279,13 +275,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), functional (1), [[Security]] (1), [[Internationalization]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Internationalization]] (1), [[Scalability]] (1)
 > **Definitions:** refers to (2)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
 
-#### What is IT architecture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980)
+#### [What is IT architecture?](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,27 +300,27 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=55)** The first job of a blueprint is to ensure alignment with business goals.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=60)** It's not just about hardware or software.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=60)** It's not just about [[Hardware]] or software.
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=62)** It's about supporting your organization's mission, mapping processes and workflows, and designing infrastructure to enable more efficient and effective operations.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=72)** Data architecture is vital to a blueprint as it defines how data is collected, stored, processed, and shared across systems.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=72)** [[Data Architecture]] is vital to a blueprint as it defines how data is collected, stored, processed, and shared across systems.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=81)** Proper data governance ensures data is accurate, secure, and compliant with regulations.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=81)** Proper [[Data Governance]] ensures data is accurate, secure, and compliant with regulations.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=87)** Data architecture also includes models of the information structure, whether stored in databases, data warehouses, or data lakes.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=87)** Data architecture also includes models of the information structure, whether stored in [[Databases]], data warehouses, or [[Data Lakes]].
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=95)** Next is application architecture, which lays out the various software and applications used within the organization.
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=102)** It shows how they interact and support business needs.
 >
-> **[1:45](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=105)** Integration is critical here, focusing on how applications communicate using APIs or microservices.
+> **[1:45](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=105)** Integration is critical here, focusing on how applications communicate using APIs or [[Microservices]].
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=112)** This architecture also sets development standards, ensuring all new software follows best practices, making future maintenance easier.
 >
-> **[2:02](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=122)** The technology and infrastructure architecture covers the physical components: servers, storage, networking devices, and cloud services.
+> **[2:02](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=122)** The technology and infrastructure architecture covers the physical components: servers, storage, networking devices, and [[Cloud Services]].
 >
-> **[2:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=130)** Whether leveraging virtualization or a hybrid cloud, this part ensures your infrastructure is scalable and flexible.
+> **[2:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=130)** Whether leveraging virtualization or a [[Hybrid Cloud]], this part ensures your infrastructure is scalable and flexible.
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/what-is-it-architecture?u=76281980&t=138)** Connectivity is also crucial, defining how networks support communications between systems.
 >
@@ -353,14 +348,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (4), [[Data Architecture]] (2), [[Hardware]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Data Architecture]] (2), [[Hardware]] (1), [[Data Governance]] (1), [[Databases]] (1), [[Data Lakes]] (1)
 > **Env Vars:** gdpr (1), hipaa (1)
 > **Analogies:** imagine (1), think of it as (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - imagine (1)
 
-#### Why IT architecture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980)
+#### [Why IT architecture?](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,7 +364,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=5)** It's about transforming your organization into a streamlined powerhouse of efficiency, agility, and innovation.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=13)** IT architecture is the blueprint that aligns your technology with your business strategy, unlocking scalability, reducing costs, improving security, and optimizing operations.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=13)** IT architecture is the blueprint that aligns your technology with your business strategy, unlocking [[Scalability]], reducing costs, improving security, and optimizing operations.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=23)** Without it, you end up with a tangled web of systems stifling productivity and innovation.
 >
@@ -410,7 +404,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=107)** Poorly architected systems struggle to keep pace, leading to inefficiencies and missed opportunities.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=114)** Regulatory compliance also becomes more manageable.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=114)** [[Regulatory Compliance]] also becomes more manageable.
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=117)** Rather than reactively addressing compliance after systems are in place, modern architectural practices integrate compliance frameworks by design, including the capability to adjust to meet evolving regulatory requirements.
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=154)** You're not just managing systems, but shaping the organization's future.
 >
-> **[2:39](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=159)** It enhances your problem solving and decision-making skills and builds your professional credibility, opening doors to leadership roles like chief architect or CIO.
+> **[2:39](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=159)** It enhances your problem solving and [[Decision-Making]] skills and builds your professional credibility, opening doors to leadership roles like chief architect or CIO.
 >
 > **[2:49](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/why-it-architecture?u=76281980&t=169)** You influence the direction of technology and drive change that impacts the entire business.
 >
@@ -452,28 +446,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Scalability]] (2), [[Security]] (1), web (1), data (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Regulatory Compliance]] (1), [[Decision-Making]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **Env Vars:** cio (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - why (1)
 
-#### Traditional vs. modern IT architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980)
+#### [Traditional vs. modern IT architecture](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=0)** - Traditional and modern IT architectures are quite different.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=0)** - Traditional and modern [[IT architectures]] are quite different.
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=4)** Let's compare them along critical dimensions.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=7)** Scalability is a significant differentiator.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=7)** [[Scalability]] is a significant differentiator.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=10)** Traditional IT relies on monolithic systems with physical servers and on-premise data centers.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=16)** To scale, you must invest in more hardware and navigate complex upgrades, making the process costly and slow.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=16)** To scale, you must invest in more [[Hardware]] and navigate complex upgrades, making the process costly and slow.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=23)** Modern IT leverages cloud computing and virtualization, enabling seamless and dynamic scalability.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=23)** Modern IT leverages [[Cloud Computing]] and virtualization, enabling seamless and dynamic scalability.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=30)** With automated scaling, organizations can adjust resources based on demand, aligning costs with usage.
 >
@@ -483,9 +476,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=50)** This results in slower time to market and increased downtime.
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=54)** Modern IT embraces DevOps practices and continuous integration and deployment pipelines, automating deployment for faster updates and reduced risk of human error.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=54)** Modern IT embraces [[DevOps]] practices and [[Continuous Integration (CI)|continuous integration]] and deployment pipelines, automating deployment for faster updates and reduced risk of human error.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=64)** Security management contrasts sharply between the two.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=64)** [[Security Management]] contrasts sharply between the two.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=68)** Traditional IT treats security reactively with a perimeter-based model that defends the network boundary, but trusts internal systems, creating vulnerabilities.
 >
@@ -493,21 +486,21 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=86)** This approach enhances security by minimizing the risk of unauthorized access and data breaches.
 >
-> **[1:33](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=93)** Traditional IT addresses regulatory compliance reactively, implementing measures after systems are in place, which can lead to manual, inconsistent practices.
+> **[1:33](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=93)** Traditional IT addresses [[Regulatory Compliance]] reactively, implementing measures after systems are in place, which can lead to manual, inconsistent practices.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=103)** Modern IT integrates compliance proactively, embedding automated compliance tools that enable ongoing compliance, quicker adaptation to new requirements, and streamlined management.
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=115)** Monitoring and management in traditional IT involve labor intensive, reactive, manual oversight, and routine maintenance.
 >
-> **[2:02](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=122)** Modern IT benefits from advanced monitoring tools and analytics, which provide real-time insight and enable proactive management.
+> **[2:02](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=122)** Modern IT benefits from advanced monitoring tools and analytics, which provide [[Real-Time]] insight and enable proactive management.
 >
-> **[2:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=130)** Predictive analytics and automated remediation maintain reliability and preempt issues.
+> **[2:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=130)** [[Predictive Analytics]] and automated remediation maintain reliability and preempt issues.
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=135)** Cost structure and cost efficiency are also distinct.
 >
 > **[2:20](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=140)** Traditional IT demands significant upfront investments in hardware and infrastructure, resulting in high capital expenditures.
 >
-> **[2:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=147)** Modern IT shifts to a cost efficiency model, with cloud services and subscription-based solutions transforming CapEx into operational expenditures.
+> **[2:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=147)** Modern IT shifts to a cost efficiency model, with [[Cloud Services]] and subscription-based solutions transforming CapEx into operational expenditures.
 >
 > **[2:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=157)** This model aligns costs with actual usage, offering greater financial flexibility and ease in scaling resources.
 >
@@ -521,13 +514,13 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=192)** Modern IT leverages cloud-based and distributed systems for higher performance and continuous operation.
 >
-> **[3:19](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=199)** Integration in traditional IT often requires complex custom-coded solutions, whereas modern IT uses standardized APIs and microservices, simplifying connections within and outside the organization.
+> **[3:19](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=199)** Integration in traditional IT often requires complex custom-coded solutions, whereas modern IT uses standardized APIs and [[Microservices]], simplifying connections within and outside the organization.
 >
-> **[3:33](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=213)** And user experience varies.
+> **[3:33](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=213)** And [[User Experience (UX)|user experience]] varies.
 >
 > **[3:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=215)** Traditional IT often focuses on technical requirements, while modern IT prioritizes intuitive design and regular updates, leveraging new experience management tools.
 >
-> **[3:46](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=226)** Lastly, data management evolves from siloed storage in traditional IT to a more integrated approach in modern IT, treating data as a central asset for efficient management and analysis.
+> **[3:46](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=226)** Lastly, [[Data Management]] evolves from siloed storage in traditional IT to a more integrated approach in modern IT, treating data as a central asset for efficient management and analysis.
 >
 > **[3:58](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/traditional-vs-modern-it-architecture?u=76281980&t=238)** I encourage you to reflect on your organization's infrastructure.
 >
@@ -539,12 +532,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), data (4), [[Hardware]] (3), cloud (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Scalability]] (2), [[IT architectures]] (1), [[Cloud Computing]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - traditional (1)
 
-#### IT architecture vs. enterprise IT architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980)
+#### [IT architecture vs. enterprise IT architecture](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,7 +544,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=8)** Here's the catch.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=10)** What works in small agile organizations can completely unravel in large complex ones.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=10)** What works in small [[Agile Development|agile]] organizations can completely unravel in large complex ones.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=16)** Let's explore what makes IT architecture work in different environments, and how these differences impact organizational success.
 >
@@ -580,7 +572,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=84)** Here, IT architecture becomes much more formalized and specialized.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=89)** Instead of one person or small team managing everything, large organizations divide the practice into different domains, such as enterprise architecture, security architecture, and application architecture.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=89)** Instead of one person or small team managing everything, large organizations divide the practice into different domains, such as [[Enterprise Architecture]], security architecture, and application architecture.
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=101)** Each domain has experts focused on specific aspects of the IT landscape.
 >
@@ -590,7 +582,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=118)** Decisions involve multiple stakeholders, and require extensive planning.
 >
-> **[2:03](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=123)** The focus shifts to scalability, compliance, and integration to support the company's global operations, and complex infrastructure.
+> **[2:03](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=123)** The focus shifts to [[Scalability]], compliance, and integration to support the company's global operations, and complex infrastructure.
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-vs-enterprise-it-architecture?u=76281980&t=132)** The practice focuses less on daily operations than in a smaller mid-size organization.
 >
@@ -620,7 +612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), business (2), application (2), [[Enterprise Architecture]] (2), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Enterprise Architecture]] (2), [[Scalability]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** togaf (1)
 > **Analogies:** such as (1)
@@ -631,8 +623,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IT architecture in context
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980)
+#### [IT architecture in context](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,7 +641,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980&t=41)** Within the IT function, the practice shapes how you build IT infrastructure, designing infrastructure components to be efficient, scalable, integrated, and secure.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980&t=51)** The practice sets the foundation for software development, infrastructure management, and cybersecurity.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980&t=51)** The practice sets the foundation for [[Software Development]], infrastructure management, and [[Cybersecurity]].
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980&t=57)** It determines how systems interact and adapt and guides integration and adaptation as organizational needs and what technology makes possible change.
 >
@@ -672,7 +663,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980&t=118)** Well-designed architecture streamlines processes and allows data to flow smoothly and digital tools to work effectively for everyone.
 >
-> **[2:06](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980&t=126)** The IT architecture practice plays a strategic role in your organization's overall cost management and risk reduction efforts.
+> **[2:06](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980&t=126)** The IT architecture practice plays a strategic role in your organization's overall [[Cost Management]] and risk reduction efforts.
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980&t=133)** By designing scalable and secure infrastructure, the practice avoids the risk of downtime, data breaches, and system failures.
 >
@@ -708,11 +699,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), data (2), power (1), [[Software Development]] (1), management (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Software Development]] (1), [[Cost Management]] (1)
 > **Speakers:** - have (1)
 
-#### The role of the IT architect
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980)
+#### [The role of the IT architect](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,11 +718,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=44)** Their dynamic and crucial role makes them central to the organization's success.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=50)** Larger organizations call this practice enterprise architecture.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=50)** Larger organizations call this practice [[Enterprise Architecture]].
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=53)** The scale and complexity of enterprise architecture necessitates a division of roles to ensure effective management of IT systems.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=61)** Each role focuses on specific aspects of the architecture, contributing to a cohesive IT strategy.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=61)** Each role focuses on specific aspects of the architecture, contributing to a cohesive [[IT Strategy]].
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=67)** Let's look into each role.
 >
@@ -746,7 +736,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=101)** The technical architect establishes technical standards and ensures that chosen technologies are compatible and perform as expected.
 >
-> **[1:49](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=109)** Their focus is on scalability and reliability and maintaining a robust and efficient IT environment.
+> **[1:49](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=109)** Their focus is on [[Scalability]] and reliability and maintaining a robust and efficient IT environment.
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-role-of-the-it-architect?u=76281980&t=116)** The data architect is critical in building structures for storing, managing, and securing data.
 >
@@ -784,12 +774,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), cloud (5), [[Security]] (2), [[Enterprise Architecture]] (2), management (1)
+> **Frameworks & Libraries:** [[Enterprise Architecture]] (2), [[IT Strategy]] (1), [[Scalability]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - have (1)
 
-#### Characteristics of successful IT architects
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/characteristics-of-successful-it-architects?u=76281980)
+#### [Characteristics of successful IT architects](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/characteristics-of-successful-it-architects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -797,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/characteristics-of-successful-it-architects?u=76281980&t=10)** As an IT architect, your success hinges on more than just technical expertise.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/characteristics-of-successful-it-architects?u=76281980&t=15)** Intrigued by what it takes to excel in this pivotal role?
+> **[0:15](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/characteristics-of-successful-it-architects?u=76281980&t=15)** Intrigued by what it takes to [[Microsoft Excel|excel]] in this pivotal role?
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/characteristics-of-successful-it-architects?u=76281980&t=17)** Well, let's explore the essential characteristics of a successful IT architect and discover how you can elevate your impact.
 >
@@ -835,7 +824,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/characteristics-of-successful-it-architects?u=76281980&t=148)** Adaptability is also crucial, as today's work environment and technology environment are volatile, uncertain, complex, and ambiguous.
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/characteristics-of-successful-it-architects?u=76281980&t=157)** What technology makes possible and what your organization needs are in constant flux.
+> **[2:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/characteristics-of-successful-it-architects?u=76281980&t=157)** What technology makes possible and what your organization needs are in constant [[Flux]].
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/characteristics-of-successful-it-architects?u=76281980&t=162)** Be ready to pivot and adjust your strategies as new information emerges and requirements change.
 >
@@ -855,13 +844,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), leadership (1), [[Flux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Flux]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
-#### The activities of the IT architecture practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-activities-of-the-it-architecture-practice?u=76281980)
+#### [The activities of the IT architecture practice](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-activities-of-the-it-architecture-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,7 +861,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-activities-of-the-it-architecture-practice?u=76281980&t=24)** We've just explored the successful characteristics of an IT architect, so let's now dive into what top-tier performance looks like.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-activities-of-the-it-architecture-practice?u=76281980&t=31)** Your journey begins with requirements gathering and analysis.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-activities-of-the-it-architecture-practice?u=76281980&t=31)** Your journey begins with [[Requirements Gathering]] and analysis.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-activities-of-the-it-architecture-practice?u=76281980&t=35)** You work closely with stakeholders to understand and document organizational needs, goals, and technical requirements here.
 >
@@ -899,7 +887,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-activities-of-the-it-architecture-practice?u=76281980&t=122)** Governance compliance requires you to ensure IT systems adhere to relevant governance directives.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-activities-of-the-it-architecture-practice?u=76281980&t=128)** You excel when your systems consistently meet these standards with transparent governed processes and clear accountability.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-activities-of-the-it-architecture-practice?u=76281980&t=128)** You [[Microsoft Excel|excel]] when your systems consistently meet these standards with transparent governed processes and clear [[Accountability]].
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/the-activities-of-the-it-architecture-practice?u=76281980&t=137)** Risk management involves identifying risks related to architecture and developing strategies to mitigate them.
 >
@@ -931,14 +919,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), business (2), data (2), [[Microsoft Excel|Excel]] (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Requirements Gathering]] (1), [[Accountability]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Documentation:** specification (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### IT architecture frameworks and methodologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980)
+#### [IT architecture frameworks and methodologies](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,15 +945,15 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=61)** These frameworks generally fall into three principal areas.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=65)** The first is IT governance.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=65)** The first is [[IT Governance]].
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=67)** For instance, COBIT offers guidelines for controlling and governing IT organizations, helping you to manage IT resources and processes effectively to achieve organizational goals.
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=79)** ISO/IEC 38500 is an international standard that aligns IT with organizational objectives, manages risks, and delivers value.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=89)** ITIL focuses on IT service management, offering a systematic approach to managing IT services throughout their lifecycle, ensuring alignment with business needs.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=89)** [[ITIL]] focuses on [[IT Service Management]], offering a systematic approach to managing IT services throughout their lifecycle, ensuring alignment with business needs.
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=100)** The second area is enterprise architecture frameworks.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=100)** The second area is [[Enterprise Architecture]] frameworks.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=103)** Let's get into some of these.
 >
@@ -976,11 +963,11 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=131)** The US government uses FEAF and DODAF to manage business processes and IT investments, focusing on aligning IT with strategic goals and handling large complex systems.
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=142)** Agile architecture within the Scaled Agile Framework integrates agile principles with architectural practices, emphasizing flexibility and collaboration.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=142)** [[Agile Development|Agile]] architecture within the Scaled Agile Framework integrates agile principles with architectural practices, emphasizing flexibility and collaboration.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=152)** ISO/IEC 42010 provides guidelines for describing systems and software architecture, offering a common language and process.
+> **[2:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=152)** ISO/IEC 42010 provides guidelines for describing systems and [[Software Architecture]], offering a common language and process.
 >
-> **[2:41](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=161)** The Gartner Enterprise Architecture Framework aligns IT strategy with organizational goals by considering various domains such as business and technology, focusing on adaptability and continuous improvement.
+> **[2:41](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=161)** The Gartner Enterprise Architecture Framework aligns [[IT Strategy]] with organizational goals by considering various domains such as business and technology, focusing on adaptability and continuous improvement.
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=174)** The third area is project management, which involves breaking projects into planned stages, identifying roles, and budgeting costs.
 >
@@ -994,11 +981,11 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=202)** Mastering any of them requires further study and practice.
 >
-> **[3:26](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=206)** Understanding and applying them will enable you to craft effective IT architectures that align with your organization's strategic goals.
+> **[3:26](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-frameworks-and-methodologies?u=76281980&t=206)** Understanding and applying them will enable you to craft effective [[IT architectures]] that align with your organization's strategic goals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Enterprise Architecture]] (3), [[Agile Development|Agile]] (3), power (1), [[IT Governance]] (1)
+> **Frameworks & Libraries:** [[Enterprise Architecture]] (3), [[Agile Development|Agile]] (3), [[IT Governance]] (1), [[ITIL]] (1), [[IT Service Management]] (1)
 > **Env Vars:** iso (2), iec (2), cobit (1), itil (1), togaf (1)
 > **Analogies:** such as (2), imagine (1), for instance (1)
 > **CLI Commands:** make (1)
@@ -1010,8 +997,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reducing unnecessary complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980)
+#### [Reducing unnecessary complexity](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,7 +1007,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980&t=21)** As an IT architect, your role is to cut through that unnecessary complexity and create an environment that empowers your organization to grow, adapt, and stay secure.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980&t=31)** But how do you reduce complexity without sacrificing the functionality and scalability that modern systems demand?
+> **[0:31](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980&t=31)** But how do you reduce complexity without sacrificing the functionality and [[Scalability]] that modern systems demand?
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980&t=37)** Let's dive into the strategies that make that possible.
 >
@@ -1053,7 +1039,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980&t=134)** Mitigate this by designing streamlined processes and automating routine tasks.
 >
-> **[2:18](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980&t=138)** Doing so will reduce the need for manual intervention, speed up workflows, and make your organization more agile and responsive to changing needs.
+> **[2:18](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980&t=138)** Doing so will reduce the need for manual intervention, speed up workflows, and make your organization more [[Agile Development|agile]] and responsive to changing needs.
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980&t=147)** Complexity also leads to errors.
 >
@@ -1085,14 +1071,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Scalability]] (3), web (1), data (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (3), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), picture (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
-#### Standardization
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980)
+#### [Standardization](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,11 +1091,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=33)** Integrating diverse technologies can foster innovation and adaptability, accommodating unique requirements or emerging trends.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=42)** Specialization enables using niche tools or systems that excel in particular tasks, improving performance in specialized areas.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=42)** Specialization enables using niche tools or systems that [[Microsoft Excel|excel]] in particular tasks, improving performance in specialized areas.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=51)** Decentralization can benefit larger or multi-regional organizations, offering localized control and responsiveness.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=51)** [[Decentralization]] can benefit larger or multi-regional organizations, offering localized control and responsiveness.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=59)** You must balance these approaches with the need for consistency through standardization to achieve a resilient, agile, and efficient IT infrastructure.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=59)** You must balance these approaches with the need for consistency through standardization to achieve a resilient, [[Agile Development|agile]], and efficient IT infrastructure.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=68)** Now let's examine the adverse effects of a lack of standardization, and how to mitigate them.
 >
@@ -1118,7 +1103,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=80)** Different systems and components require unique management approaches, making maintaining and troubleshooting your infrastructure harder.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=88)** You can adopt uniform hardware, software, and configurations, simplifying the learning curve and management.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=88)** You can adopt uniform [[Hardware]], software, and configurations, simplifying the learning curve and management.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=95)** Incompatibility issues arise when systems are not standardized.
 >
@@ -1144,7 +1129,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=168)** Enforce standardized security protocols and update management practices to ensure you similarly protect every part of your infrastructure.
 >
-> **[2:55](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=175)** Finally, scalability is challenging without standardization.
+> **[2:55](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=175)** Finally, [[Scalability]] is challenging without standardization.
 >
 > **[2:59](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/standardization?u=76281980&t=179)** Expanding or upgrading non-standardized infrastructure often requires customized, resource-intensive efforts.
 >
@@ -1154,12 +1139,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), management (4), [[Agile Development|Agile]] (2), [[Scalability]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Scalability]] (2), [[Microsoft Excel|Excel]] (1), [[Decentralization]] (1), [[Hardware]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - we (1)
 
-#### Consolidation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/consolidation?u=76281980)
+#### [Consolidation](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/consolidation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1201,9 +1185,9 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/consolidation?u=76281980&t=146)** Data silos are a common issue with a lack of consolidation.
 >
-> **[2:30](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/consolidation?u=76281980&t=150)** Different systems may hold overlapping or fragmented data, leading to inefficiencies and potential data integrity issues.
+> **[2:30](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/consolidation?u=76281980&t=150)** Different systems may hold overlapping or fragmented data, leading to inefficiencies and potential [[Data Integrity]] issues.
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/consolidation?u=76281980&t=157)** Work on centralizing data storage and implementing integrated data management solutions for better data consistency and accessibility.
+> **[2:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/consolidation?u=76281980&t=157)** Work on centralizing [[Data Storage]] and implementing integrated [[Data Management]] solutions for better data consistency and accessibility.
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/consolidation?u=76281980&t=166)** Another effect is inconsistent user experiences.
 >
@@ -1231,14 +1215,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Security]] (5), management (4), business (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (1), [[Data Storage]] (1), [[Data Management]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - as (1)
 
-#### Invest in existing IT infrastructure or start fresh?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/invest-in-existing-it-infrastructure-or-start-fresh?u=76281980)
+#### [Invest in existing IT infrastructure or start fresh?](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/invest-in-existing-it-infrastructure-or-start-fresh?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1272,7 +1255,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/invest-in-existing-it-infrastructure-or-start-fresh?u=76281980&t=76)** Assess the stability and performance of your systems and the risks of introducing new untested components.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/invest-in-existing-it-infrastructure-or-start-fresh?u=76281980&t=83)** If your current systems meet regulatory compliance standards, investing in upgrades rather than starting from scratch may be wiser since starting from scratch could introduce new compliance challenges.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/invest-in-existing-it-infrastructure-or-start-fresh?u=76281980&t=83)** If your current systems meet [[Regulatory Compliance]] standards, investing in upgrades rather than starting from scratch may be wiser since starting from scratch could introduce new compliance challenges.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/invest-in-existing-it-infrastructure-or-start-fresh?u=76281980&t=94)** Review how well your systems align with regulatory requirements and how incremental changes can support ongoing compliance.
 >
@@ -1284,7 +1267,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/invest-in-existing-it-infrastructure-or-start-fresh?u=76281980&t=119)** When performance issues arise and your systems fail to meet demands, a new infrastructure design can be more effective and address these limitations.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/invest-in-existing-it-infrastructure-or-start-fresh?u=76281980&t=128)** Look at performance metrics and scalability of your current systems to determine if they can support future growth.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/invest-in-existing-it-infrastructure-or-start-fresh?u=76281980&t=128)** Look at [[Performance Metrics]] and [[Scalability]] of your current systems to determine if they can support future growth.
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/invest-in-existing-it-infrastructure-or-start-fresh?u=76281980&t=135)** Starting fresh may also be necessary if your organization is undergoing a strategic realignment, such as adopting new business models or entering new markets.
 >
@@ -1312,7 +1295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Regulatory Compliance]] (1), [[Performance Metrics]] (1), [[Scalability]] (1), business (1)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (1), [[Performance Metrics]] (1), [[Scalability]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** setup (2)
@@ -1323,22 +1306,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IT risk management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980)
+#### [IT risk management](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=0)** - Picture an IT infrastructure that meets your organization's operational needs and proactively integrates risk management into every facet of its design.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=10)** As an IT architect, your role is not simply to react to risks, but to proactively shape your organization's IT infrastructure into a resilient foundation that anticipates and counteracts potential threats.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=10)** As an IT architect, your role is not simply to [[React.js|react]] to risks, but to proactively shape your organization's IT infrastructure into a resilient foundation that anticipates and counteracts potential threats.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=24)** Your designs are the key to transforming risk management from a reactive practice into a strategic advantage, ensuring your infrastructure is robust, secure, and adaptable to emerging challenges.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=36)** IT Risk Management involves identifying and assessing risks, minimizing or eliminating them through mitigations, and reducing their impact when they do occur through contingencies.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=36)** [[IT Risk Management]] involves identifying and assessing risks, minimizing or eliminating them through mitigations, and reducing their impact when they do occur through contingencies.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=48)** It's a subset of risk management focused on the risks to IT systems, infrastructure and data, including IT security, and compliance risks.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=57)** As an IT architect, you contribute to the IT security management practice through your design work and involvement in its key activities.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=57)** As an IT architect, you contribute to the IT [[Security Management]] practice through your design work and involvement in its key activities.
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=65)** Let's explore how.
 >
@@ -1348,9 +1330,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=86)** Design to minimize downtime, eliminating single points of failure by incorporating redundancy and failover capabilities.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=95)** Designed for scalability, to decrease the risk of capacity failures and performance degradation.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=95)** Designed for [[Scalability]], to decrease the risk of capacity failures and performance degradation.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=102)** Designed to lower the risk of non-compliance by integrating compliance, including monitoring and data collection that enables you to demonstrate compliance and see and handle instances of non-compliance.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=102)** Designed to lower the risk of non-compliance by integrating compliance, including monitoring and [[Data Collection]] that enables you to demonstrate compliance and see and handle instances of non-compliance.
 >
 > **[1:54](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=114)** Include backups, disaster recovery mechanisms, and data replication, integrity and rollback capabilities.
 >
@@ -1364,7 +1346,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=158)** You help in the activity of identifying and implementing risk controls by participating in the working sessions to develop controls, including mitigations to minimize or eliminate risks, and contingencies to reduce their impact when they do occur.
 >
-> **[2:53](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=173)** You add value to the activity of monitoring controls and adjusting them for effectiveness by analyzing dashboards and reports and recommending adjustments.
+> **[2:53](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=173)** You add value to the activity of monitoring controls and adjusting them for effectiveness by analyzing [[Dashboards]] and reports and recommending adjustments.
 >
 > **[3:02](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980&t=182)** You contribute to responding to incidents that stem from risks by participating in drills and responses to actual incidents that benefit from your expertise.
 >
@@ -1378,12 +1360,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), data (5), [[IT Risk Management]] (3), [[Security]] (3), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[IT Risk Management]] (3), [[React.js|React]] (1), [[Security Management]] (1), [[Scalability]] (1), [[Data Collection]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - picture (1)
 
-#### IT security management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980)
+#### [IT security management](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1391,9 +1372,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=12)** Let's look at how you can influence your organization's IT infrastructure to be the strong backbone of its IT security posture.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=20)** First, let's define IT security management.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=20)** First, let's define IT [[Security Management]].
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=23)** It's the subset of IT risk management that protects your organization's infrastructure, data, and operations from internal and external security threats.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=23)** It's the subset of [[IT Risk Management]] that protects your organization's infrastructure, data, and operations from internal and external security threats.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=33)** As an IT architect, you support IT security management through design and participation in the practice's activities.
 >
@@ -1407,7 +1388,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=73)** You leverage zero-trust design to ensure infrastructure continuously authenticates and verifies every user, device, and connection.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=81)** You embed automated threat detection, real-time remediation, and consistent patch management to prevent and respond effectively to security incidents.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=81)** You embed automated threat detection, [[Real-Time]] remediation, and consistent patch management to prevent and respond effectively to security incidents.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=92)** You integrate security information and event management systems to provide a holistic view of security threats and incidents.
 >
@@ -1421,15 +1402,15 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=130)** You participate in implementing and adjusting security controls outside of design by helping the practice choose the most effective controls and what adjustments to make to existing controls based on their performance and impact.
 >
-> **[2:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=143)** You actively participate in the practice's monitoring security incidents by regularly reviewing security dashboards and reports, identifying trends and suggesting improvements to threat detection, preemption, and remediation capabilities.
+> **[2:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=143)** You actively participate in the practice's monitoring security incidents by regularly reviewing security [[Dashboards]] and reports, identifying trends and suggesting improvements to threat detection, preemption, and remediation capabilities.
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=157)** You play a vital role in the practice's activity of responding to incidents by providing feedback on playbooks, participating in drills, and responding to actual security incidents, leveraging your knowledge of system architecture.
+> **[2:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=157)** You play a vital role in the practice's activity of responding to incidents by providing feedback on playbooks, participating in drills, and responding to actual security incidents, leveraging your knowledge of [[System Architecture]].
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=171)** You participate in activities related to staying in compliance and responding to audits by working with the legal and compliance teams to align security measures with regulatory requirements and address architecture-related issues.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=183)** You participate in activities that involve conducting security assessments and penetration tests and use the results to enhance your designs based on findings.
 >
-> **[3:12](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=192)** You participate in the activity of increasing security awareness by engaging in training sessions, sharing best practices with the broader IT team, and fostering a security culture across the organization, and your work as an architect.
+> **[3:12](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=192)** You participate in the activity of increasing [[Security Awareness]] by engaging in training sessions, sharing best practices with the broader IT team, and fostering a security culture across the organization, and your work as an architect.
 >
 > **[3:25](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-security-management?u=76281980&t=205)** This proactive approach integrates security into your IT infrastructure to keep your organization safe amid a constantly shifting threat landscape.
 >
@@ -1439,25 +1420,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (24), management (7), data (3), [[IT Risk Management]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Security Management]] (5), [[IT Risk Management]] (1), [[Real-Time]] (1), [[Dashboards]] (1), [[System Architecture]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### IT compliance management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980)
+#### [IT compliance management](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=0)** - Imagine an IT infrastructure that complies with existing regulations and standards, and seamlessly integrates emerging ones.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=9)** As an IT architect, your role in compliance management extends beyond merely meeting requirements.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=9)** As an IT architect, your role in [[Compliance Management]] extends beyond merely meeting requirements.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=14)** It's about embedding compliance into the infrastructure you design.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=18)** Your task is to design systems that simplify policy enforcement, clearly demonstrate compliance to auditors, and quickly adapt to new regulations and standards.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=18)** Your task is to [[Design Systems]] that simplify policy enforcement, clearly demonstrate compliance to auditors, and quickly adapt to new regulations and standards.
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=29)** IT compliance management is the practice that works to ensure your organization's IT infrastructure and practices adhere to governance directives aimed at satisfying relevant laws, regulations, and industry and corporate social responsibility standards.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=29)** [[IT Compliance]] management is the practice that works to ensure your organization's IT infrastructure and practices adhere to governance directives aimed at satisfying relevant laws, regulations, and industry and corporate social responsibility standards.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=44)** You contribute to it through your design work and by participating in the practices and activities.
 >
@@ -1477,11 +1457,11 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=114)** You collaborate in the practices activity of implementing and adjusting compliance controls, working to ensure controls are appropriate, practical to implement, and can integrate effectively into existing systems.
 >
-> **[2:06](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=126)** You participate in monitoring for compliance regularly reviewing dashboards, reports and metrics, and interpreting the data to help the practice address discrepancies between compliance requirements and system capabilities.
+> **[2:06](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=126)** You participate in monitoring for compliance regularly reviewing [[Dashboards]], reports and metrics, and interpreting the data to help the practice address discrepancies between compliance requirements and system capabilities.
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=139)** You actively engage in the activity of participating in compliance audits, adding value to audit preparation and execution by demonstrating how compliance is assured by design and addressing findings related to architecture.
 >
-> **[2:33](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=153)** You engage in the activity of managing instances of non-compliance related to IT infrastructure issues, leveraging your knowledge of system designed to respond with minimal disruption and swift corrective actions.
+> **[2:33](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=153)** You engage in the activity of managing instances of non-compliance related to IT infrastructure issues, leveraging your knowledge of system designed to respond with minimal disruption and [[Swift (Programming Language)|swift]] corrective actions.
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-compliance-management?u=76281980&t=164)** You add value to the activity of reviewing and updating compliance practices by evaluating changes in regulations and standards, adjusting compliance strategies, and reflecting the insight's gains into your design.
 >
@@ -1493,12 +1473,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[IT Compliance]] (3), [[Design Systems]] (2), data (2), [[Compliance Management]] (1)
+> **Frameworks & Libraries:** [[IT Compliance]] (3), [[Design Systems]] (2), [[Compliance Management]] (1), [[Dashboards]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### IT identity and access management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980)
+#### [IT identity and access management](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,7 +1491,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=45)** You support the practice through your design work and also by participating in the practice's activities.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=52)** In design, you support the aims of the Identity and Access Management practice by integrating robust authentication, like multi-factor authentication and single sign-on, for verified individuals, systems, and services.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=52)** In design, you support the aims of the Identity and Access Management practice by integrating robust authentication, like [[Multi-factor Authentication]] and single sign-on, for verified individuals, systems, and services.
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=66)** You include granular access controls to allocate permissions based on roles, avoiding over-allocation of privileges.
 >
@@ -1522,7 +1501,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=87)** You build an automated provisioning and deprovisioning to keep access rights current as roles change, and you build in access control policies that make it easier to track activities, enhancing security, auditability, and compliance.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=102)** You design for scalability and adaptability, allowing Identity and Access Management capabilities to adapt to changing needs and technologies.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=102)** You design for [[Scalability]] and adaptability, allowing Identity and Access Management capabilities to adapt to changing needs and technologies.
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=110)** Besides design, you also support the IT Identity and Access Management practice by participating in its activities.
 >
@@ -1532,7 +1511,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=144)** You support the practice's activity of integrating identity federation by providing insight on how to achieve seamless integration with external identity providers while maintaining security standards.
 >
-> **[2:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=155)** You add value to logging and monitoring by guiding real-time tracking and incident response system selection.
+> **[2:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=155)** You add value to logging and monitoring by guiding [[Real-Time]] tracking and [[Incident Response]] system selection.
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-identity-and-access-management?u=76281980&t=162)** You aid the practices activity of automated provisioning and deprovisioning by recommending dynamic mechanisms that efficiently manage access rights in line with organizational changes.
 >
@@ -1546,20 +1525,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[Security]] (2), [[Scalability]] (2), [[Multi-factor Authentication]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Multi-factor Authentication]] (1), [[Real-Time]] (1), [[Incident Response]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
-#### IT storage management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980)
+#### [IT storage management](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=0)** - Imagine a data ecosystem where storage seamlessly adapts to your organization's evolving needs, one that meets current demands and anticipates future data growth.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=11)** For IT architects, storage management isn't just about space.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=11)** For IT architects, [[Storage Management]] isn't just about space.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=15)** It's about systems that scale, integrate with new technologies and protect data in various infrastructures.
 >
@@ -1569,9 +1547,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=40)** You support this practice through your design work and by participating in its activities.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=46)** In design, you support IT storage management by including scalable storage solutions and the results of thorough capacity planning in your blueprints.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=46)** In design, you support IT storage management by including scalable storage solutions and the results of thorough [[Capacity Planning]] in your blueprints.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=55)** You also include data classification, tiering, and robust backup and recovery mechanisms to ensure data availability and protection.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=55)** You also include [[Data Classification]], tiering, and robust backup and recovery mechanisms to ensure data availability and protection.
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=63)** You integrate storage performance optimization features for fast data access and embed security measures to guard against data compromise.
 >
@@ -1581,11 +1559,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=86)** For example, you participate in the activities capacity planning activity, adding value by sharing insight on storage usage, and future growth needs, accurately predicting storage requirements and allocating resources efficiently.
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=100)** You engage in the storage performance monitoring activity, reviewing performance metrics and trends to identify potential bottlenecks and improvements for optimal storage system performance.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=100)** You engage in the storage performance monitoring activity, reviewing [[Performance Metrics]] and trends to identify potential bottlenecks and improvements for optimal storage system performance.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=111)** You get involved in the practices activity of backing up and recovering data by evaluating plans and mechanisms against infrastructure capabilities to ensure they're practical, aligned with organizational needs and minimize risks.
 >
-> **[2:04](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=124)** You support data archiving and retention by offering insights into compliance requirements and long-term data management needs.
+> **[2:04](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=124)** You support data archiving and retention by offering insights into compliance requirements and long-term [[Data Management]] needs.
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-storage-management?u=76281980&t=131)** So archiving practices meet regulatory standards and archive data is accessible.
 >
@@ -1601,12 +1579,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Storage Management]] (5), [[Security]] (4), [[Capacity Planning]] (2), [[Data Classification]] (1)
+> **Frameworks & Libraries:** [[Storage Management]] (5), [[Capacity Planning]] (2), [[Data Classification]] (1), [[Performance Metrics]] (1), [[Data Management]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
 
-#### IT update management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980)
+#### [IT update management](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1618,13 +1595,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=30)** Let's break these components down.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=32)** They include hardware, like servers and storage devices, networking equipment, like routers, switches, load balancers, and firewalls, and user devices like computers, laptops, and mobile devices.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=32)** They include [[Hardware]], like servers and storage devices, networking equipment, like routers, switches, load balancers, and firewalls, and user devices like computers, laptops, and mobile devices.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=49)** All software, operating systems, enterprise applications, virtualization software, APIs, middleware, and management tools.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=59)** Data storage including databases, storage area networks, cloud storage, and backup and disaster recovery solutions.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=59)** [[Data Storage]] including [[Databases]], storage area networks, [[Cloud Storage]], and backup and disaster recovery solutions.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=67)** Updates to cloud services, including infrastructure as a service, platform as a service, and software as a service.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=67)** Updates to [[Cloud Services]], including [[IaaS|infrastructure as a service]], [[PaaS|platform as a service]], and [[SaaS|software as a service]].
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=74)** And finally, facilities like power and cooling systems in data centers and server rooms.
 >
@@ -1632,7 +1609,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=86)** In design, you support IT update management by creating systems that enable seamless updates without disrupting operations.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=94)** You embed features like automated patching, version control, and rollback mechanisms to ensure smooth transitions and the ability to revert to known good states.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=94)** You embed features like automated patching, [[Version Control]], and rollback mechanisms to ensure smooth transitions and the ability to revert to known good states.
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=104)** You incorporate monitoring and reporting tools for real time visibility into patch compliance.
 >
@@ -1646,7 +1623,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=142)** You contribute to the practices activity of assessing update needs by leveraging your deep IT infrastructure knowledge to identify which components require updates to address performance issues and security vulnerabilities.
 >
-> **[2:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=155)** You also assist in the activity of planning and scheduling updates by applying your expertise in infrastructure dependencies and organizational workflows to help the practice choose deployment windows, coordinating update timing to minimize disruption.
+> **[2:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=155)** You also assist in the activity of planning and scheduling updates by applying your expertise in infrastructure dependencies and organizational workflows to help the practice choose deployment [[Windows]], coordinating update timing to minimize disruption.
 >
 > **[2:50](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-update-management?u=76281980&t=170)** You join in the activity of testing updates, helping to create test scenarios and environments that closely mirror production and confirm that updates won't introduce new issues.
 >
@@ -1662,12 +1639,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), data (2), cloud (2), [[Security]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Data Storage]] (1), [[Databases]] (1), [[Cloud Storage]] (1), [[Cloud Services]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### IT disaster recovery management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-disaster-recovery-management?u=76281980)
+#### [IT disaster recovery management](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-disaster-recovery-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1693,7 +1669,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-disaster-recovery-management?u=76281980&t=71)** You integrate automated failover and disaster recovery automation to minimize downtime.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-disaster-recovery-management?u=76281980&t=76)** You incorporate backup and real-time replication capabilities to ensure data is always accessible, stored safely, and easily recoverable.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-disaster-recovery-management?u=76281980&t=76)** You incorporate backup and [[Real-Time]] replication capabilities to ensure data is always accessible, stored safely, and easily recoverable.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-disaster-recovery-management?u=76281980&t=85)** You create systems that meet recovery time and point objectives, systems that can recover quickly without losing critical information.
 >
@@ -1701,7 +1677,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-disaster-recovery-management?u=76281980&t=101)** Outside of design, you contribute to the IT disaster recovery management practice by joining in its activities.
 >
-> **[1:48](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-disaster-recovery-management?u=76281980&t=108)** You collaborate in the practice's activity of assessing disaster risks, including identifying likely disaster scenarios, their probability, and potential impact.
+> **[1:48](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-disaster-recovery-management?u=76281980&t=108)** You collaborate in the practice's activity of assessing disaster risks, including identifying likely disaster scenarios, their [[Probability]], and potential impact.
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-disaster-recovery-management?u=76281980&t=118)** You add value by sharing insights on how well the infrastructure will respond in each scenario and how to increase its capability.
 >
@@ -1723,7 +1699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), management (4), business (1), [[Automation]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Probability]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
@@ -1732,8 +1708,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hybrid and multicloud IT architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980)
+#### [Hybrid and multicloud IT architectures](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1743,13 +1718,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980&t=22)** With them, you can achieve flexibility, resilience, and performance, and avoid vendor lock-in.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980&t=28)** Adopt hybrid and multi-cloud strategies to optimize the benefits between cloud services and on-premises infrastructure.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980&t=28)** Adopt hybrid and multi-cloud strategies to optimize the benefits between [[Cloud Services]] and on-premises infrastructure.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980&t=36)** Hybrid cloud architecture integrates on-premises infrastructure and private cloud with the public cloud services enabling you to share data and applications among them.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980&t=36)** [[Hybrid Cloud]] architecture integrates on-premises infrastructure and private cloud with the public cloud services enabling you to share data and applications among them.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980&t=44)** This approach offers the scalability and flexibility of public clouds while maintaining control over sensitive on-premise data.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980&t=44)** This approach offers the [[Scalability]] and flexibility of public clouds while maintaining control over sensitive on-premise data.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980&t=53)** Multi-cloud architectures use public cloud services from various providers such as AWS, Google Cloud, and Azure.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980&t=53)** Multi-cloud architectures use public cloud services from various providers such as AWS, [[Google Cloud Platform (GCP)|Google Cloud]], and [[Microsoft Azure|Azure]].
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980&t=60)** This approach helps avoid vendor lock-in, enhances resilience, and leverages each provider's strengths.
 >
@@ -1779,33 +1754,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), data (5), strengths (2), [[Scalability]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cloud Services]] (5), [[Scalability]] (2), [[Hybrid Cloud]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - imagine (1)
 
-#### Edge computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980)
+#### [Edge computing](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=0)** - Picture a network where data processing happens at the source, not miles away in a distant data center.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=0)** - Picture a network where [[Data Processing]] happens at the source, not miles away in a distant data center.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=7)** This vision is the essence of edge computing, a game changer that enhances performance, cuts latency, and streamlines data management.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=7)** This vision is the essence of edge computing, a game changer that enhances performance, cuts latency, and streamlines [[Data Management]].
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=15)** As demands for realtime analytics and instantaneous response grows, edge computing offers a new frontier in decentralized computing, placing resources closer to where they're needed most.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=27)** Let's explore how this cutting edge technology can reshape your architectural approach to meet modern IT challenges.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=34)** Edge computing is a distributed computing paradigm that positions computation and data storage near where the data is generated, typically at the network's edge.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=34)** Edge computing is a distributed computing paradigm that positions computation and [[Data Storage]] near where the data is generated, typically at the network's edge.
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=43)** Instead of funneling data to a centralized cloud or data center for processing, edge computing handles data locally at or near the device.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=51)** This shift in where data is processed reduces latency, improves performance, and enhances user experiences in realtime applications.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=60)** One common use for edge computing is IoT devices and smart cities.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=60)** One common use for edge computing is [[IoT]] devices and smart cities.
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=65)** These systems rely on realtime data processing to function efficiently.
 >
@@ -1815,7 +1789,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=87)** In addition to speed, bandwidth optimization is also a significant benefit.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=92)** By reducing the volume of data sent to centralized cloud services, edge computing cuts down on transmission costs and prevents bottlenecks in network traffic.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=92)** By reducing the volume of data sent to centralized [[Cloud Services]], edge computing cuts down on transmission costs and prevents bottlenecks in network traffic.
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=101)** Bandwidth is essential to remote monitoring and predictive maintenance systems, which use realtime data to identify potential failures before they happen, but do not have to return all data to the cloud for analysis.
 >
@@ -1823,19 +1797,19 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=118)** Manufacturing robots, for instance, can make quick adjustments on the factory floor by processing data locally, ensuring smooth operations without constraint reliance on centralized systems.
 >
-> **[2:09](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=129)** Edge computing also plays a crucial role in enhanced cybersecurity at the edge, keeping sensitive data closer to its origin and away from centralized servers that could be more vulnerable to attacks.
+> **[2:09](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=129)** Edge computing also plays a crucial role in enhanced [[Cybersecurity]] at the edge, keeping sensitive data closer to its origin and away from centralized servers that could be more vulnerable to attacks.
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=142)** Including edge computing in your designs can lead to cost savings, improved performance, and greater resilience.
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=149)** Applications that require low latency processing or need to operate independently from central systems during outages are prime candidates for edge computing.
 >
-> **[2:38](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=158)** It ensures scalability, allowing systems to efficiently manage thousands of edge devices and continue operating when central servers are offline.
+> **[2:38](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=158)** It ensures [[Scalability]], allowing systems to efficiently manage thousands of edge devices and continue operating when central servers are offline.
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=167)** Incorporating edge computing into your architectural palette enables realtime processing, resource optimization, and enhanced system resilience.
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=176)** You may already use edge computing for realtime data and analytics, AI at the edge, or industrial automation.
 >
-> **[3:02](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=182)** As an IT architect, you must understand its applicability and impact in creating modern, scalable IT architectures.
+> **[3:02](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=182)** As an IT architect, you must understand its applicability and impact in creating modern, scalable [[IT architectures]].
 >
 > **[3:09](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/edge-computing?u=76281980&t=189)** So consider your organization and industry.
 >
@@ -1853,22 +1827,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Analytics]] (3), cloud (3), [[Automation]] (3), traffic (2)
+> **Frameworks & Libraries:** [[Data Processing]] (3), [[Cybersecurity]] (2), [[Data Management]] (1), [[Data Storage]] (1), [[IoT]] (1)
 > **Analogies:** for example (2), picture (1), for instance (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - picture (1)
 
-#### Microservices and containerization
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980)
+#### [Microservices and containerization](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=0)** - Imagine orchestrating services where each component operates independently, yet in harmony with the others, scaling effortlessly and evolving quickly.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=10)** This level of orchestration is the promise of microservices and containerization, an architectural revolution, transforming how you design, deploy, and manage applications.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=10)** This level of orchestration is the promise of [[Microservices]] and containerization, an architectural revolution, transforming how you design, deploy, and manage applications.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=21)** By including microservices and containerization in your designs, you can break down monolithic structures into agile, scalable units that could be updated independently and deployed seamlessly.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=21)** By including microservices and containerization in your designs, you can break down monolithic structures into [[Agile Development|agile]], scalable units that could be updated independently and deployed seamlessly.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=32)** Let's look at how microservices and containerization can elevate your architectural approach to streamline operations, enhance flexibility, and drive innovation in your tech stack.
 >
@@ -1884,7 +1857,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=74)** Containers are lightweight and portable and can run consistently across different infrastructures such as development, testing, and production environments.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=83)** Tools like Docker and Kubernetes facilitate container deployment, management, and scaling.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=83)** Tools like Docker and [[Kubernetes]] facilitate container deployment, management, and scaling.
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=88)** Containerization provides an efficient and resource effective way to deploy and manage services across various environments, helping you to adjust resources without impacting the entire application.
 >
@@ -1900,7 +1873,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=138)** Containerization improves resilience by isolating services within their containers, reducing the risk of cross service failures, and ensuring that issues in one service do not disrupt others.
 >
-> **[2:30](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=150)** Combining microservices and containerization facilitates continuous delivery in deployment pipelines, enabling faster and more frequent application updates.
+> **[2:30](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=150)** Combining microservices and containerization facilitates [[Continuous Delivery (CD)|continuous delivery]] in deployment pipelines, enabling faster and more frequent application updates.
 >
 > **[2:39](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/microservices-and-containerization?u=76281980&t=159)** With them, you can release new features and improvements more quickly, keeping pace with changing business needs.
 >
@@ -1914,24 +1887,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Containerization]] (12), [[Microservices]] (11), application (6), [[Agile Development|Agile]] (2), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (11), [[Agile Development|Agile]] (2), [[Kubernetes]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** docker (1)
 > **Speakers:** - imagine (1)
 
-#### Serverless computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980)
+#### [Serverless computing](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=0)** - Welcome to the era of serverless computing, a revolutionary shift that eliminates the need for traditional server management and lets you concentrate on innovating and delivering value.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=0)** - Welcome to the era of [[Serverless Computing]], a revolutionary shift that eliminates the need for traditional server management and lets you concentrate on innovating and delivering value.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=11)** You can build, deploy, and scale applications with unparalleled agility and efficiency by including serverless computing in your designs.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=19)** Let's examine this game-changing approach.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=23)** Serverless computing is a cloud computing model in which the provider automatically handles the infrastructure, including server provisioning, scaling, and maintenance.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=23)** Serverless computing is a [[Cloud Computing]] model in which the provider automatically handles the infrastructure, including server provisioning, scaling, and maintenance.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=32)** Developers write and deploy code without worrying about the underlying servers.
 >
@@ -1951,7 +1923,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=95)** In contrast, serverless models charge only for actual usage, making the serverless approach attractive.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=102)** An additional benefit is automated scalability.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=102)** An additional benefit is automated [[Scalability]].
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=105)** It automatically handles varying loads, scaling up or down based on demand without manual intervention.
 >
@@ -1965,18 +1937,17 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=138)** This modularity speeds development, improves software maintainability, and enables faster updates and responsive development cycles.
 >
-> **[2:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=147)** As an IT architect, you must understand and consider serverless computing because it's integral to modern cloud native architectures and equips you to design more agile, scalable, cost-effective and efficient solutions.
+> **[2:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=147)** As an IT architect, you must understand and consider serverless computing because it's integral to modern cloud native architectures and equips you to design more [[Agile Development|agile]], scalable, cost-effective and efficient solutions.
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/serverless-computing?u=76281980&t=161)** Embracing serverless computing can simplify your infrastructure, reduce costs, and unlock new opportunities for innovation and growth.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Serverless Computing]] (8), management (3), cloud (3), teams (2), game (1)
+> **Frameworks & Libraries:** [[Serverless Computing]] (8), [[Cloud Computing]] (1), [[Scalability]] (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
 
-#### Zero trust security
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/zero-trust-security?u=76281980)
+#### [Zero trust security](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/zero-trust-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2000,7 +1971,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/zero-trust-security?u=76281980&t=91)** It employs microsegmentation of networks, dividing them into smaller zones, each with separate access controls, which limits damage in case of a breach.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/zero-trust-security?u=76281980&t=102)** Zero-trust also enhances data protection, protecting sensitive data and ensuring regulatory compliance by verifying every access request.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/zero-trust-security?u=76281980&t=102)** Zero-trust also enhances data protection, protecting sensitive data and ensuring [[Regulatory Compliance]] by verifying every access request.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/zero-trust-security?u=76281980&t=111)** It provides support for remote work, which is crucial as organizations increasingly adopt this model.
 >
@@ -2010,19 +1981,18 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/zero-trust-security?u=76281980&t=135)** This model also helps you future-proof your organization's security posture to adapt to emerging threats.
 >
-> **[2:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/zero-trust-security?u=76281980&t=143)** Zero-trust security is essential for modern IT architectures, as it provides robust protection in an era where threats are increasingly sophisticated and can come from anywhere.
+> **[2:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/zero-trust-security?u=76281980&t=143)** Zero-trust security is essential for modern [[IT architectures]], as it provides robust protection in an era where threats are increasingly sophisticated and can come from anywhere.
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/zero-trust-security?u=76281980&t=154)** Understanding and incorporating zero-trust into your designs will ensure that the resulting infrastructure is secure, resilient, and compliant.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), data (2), [[Regulatory Compliance]] (1), [[IT architectures]] (1)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (1), [[IT architectures]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
-#### Artificial intelligence and machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980)
+#### [Artificial intelligence and machine learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2030,7 +2000,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=11)** Picture automating tasks, optimizing processes, and uncovering insights that drive strategic decisions.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=19)** Artificial intelligence and machine learning are transformative tools that redefine IT infrastructure.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=19)** [[Artificial Intelligence (AI)|Artificial intelligence]] and machine learning are transformative tools that redefine IT infrastructure.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=26)** From enhancing security to personalizing user experiences at scale, AI and ML hold the power to revolutionize your organization's capabilities.
 >
@@ -2040,19 +2010,19 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=51)** Then let's have a look at AI and ML.
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=54)** Artificial intelligence represents the broader concept of machines performing tasks that mimic human-like intelligence, including natural language processing, computer vision, and robotics.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=54)** Artificial intelligence represents the broader concept of machines performing tasks that mimic human-like intelligence, including [[Natural Language Processing (NLP)|natural language processing]], [[Computer Vision]], and robotics.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=64)** Machine learning, a subset of AI, involves training algorithms on data to make predictions or decisions without explicit programming.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=64)** Machine learning, a subset of AI, involves training [[Algorithms]] on data to make predictions or decisions without explicit programming.
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=73)** ML enables computers to learn from data and improve their performance over time.
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=78)** As an IT architect, you can weave AI and ML into IT architectures to boost automation, enable predictive analytics, and support complex decision-making processes.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=78)** As an IT architect, you can weave AI and ML into [[IT architectures]] to boost automation, enable [[Predictive Analytics]], and support complex [[Decision-Making]] processes.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=90)** These technologies find applications across various domains, from cybersecurity to customer service and operations optimization.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=90)** These technologies find applications across various domains, from [[Cybersecurity]] to customer service and operations optimization.
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=98)** You can incorporate AI and ML to enhance decision-making within the systems you design.
 >
-> **[1:45](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=105)** AI and ML can swiftly process fast amounts of data, enabling real-time analytics, and more informed choices within IT systems.
+> **[1:45](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=105)** AI and ML can swiftly process fast amounts of data, enabling [[Real-Time]] analytics, and more informed choices within IT systems.
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/artificial-intelligence-and-machine-learning?u=76281980&t=113)** AI and ML also facilitate automation, handling routine tasks, optimizing operations, and boosting efficiency across IT systems, from network management to security monitoring.
 >
@@ -2070,25 +2040,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Security]] (2), [[IT architectures]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[IT architectures]] (2), [[Decision-Making]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** imagine (1), picture (1)
 > **Speakers:** - imagine (1)
 
-#### Data mesh
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980)
+#### [Data mesh](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=0)** - In today's IT infrastructure, where data is more abundant and decentralized than ever, traditional approaches to data management leave you struggling to keep up with the complexity.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=0)** - In today's IT infrastructure, where data is more abundant and decentralized than ever, traditional approaches to [[Data Management]] leave you struggling to keep up with the complexity.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=11)** Enter data mesh, a revolutionary paradigm shift from centralized control to domain-driven ownership that promises to unlock the full potential of your data by making it more accessible, scalable, and resilient.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=11)** Enter data [[Mesh]], a revolutionary paradigm shift from centralized control to domain-driven ownership that promises to unlock the full potential of your data by making it more accessible, scalable, and resilient.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=24)** Let's explore how data mesh can be the key to transforming your data strategy and future proofing your organization.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=32)** Data mesh is an approach that treats data as a product and decentralizes data ownership to domain-specific teams.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=39)** This approach promotes scalability, data democratization, and better alignment with organizational needs.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=39)** This approach promotes [[Scalability]], data democratization, and better alignment with organizational needs.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=46)** Data mesh is about managing and accessing data in large complex organization.
 >
@@ -2096,11 +2065,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=67)** The core principle of data mesh is domain oriented, decentralized data ownership where teams who know the data best, those closest to the domain, own and manage it to ensure it's accurate, relevant, and current.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=81)** Treating data as a product means making the owners and users of data explicit in continuously improving data quality, trustworthiness and accessibility.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=81)** Treating data as a product means making the owners and users of data explicit in continuously improving [[Data Quality]], trustworthiness and accessibility.
 >
-> **[1:31](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=91)** Self-service data infrastructure as a platform provides the tools and technologies needed for domain teams to manage data independently, avoiding bottlenecks caused by central data engineering teams.
+> **[1:31](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=91)** Self-service data infrastructure as a platform provides the tools and technologies needed for domain teams to manage data independently, avoiding bottlenecks caused by central [[Data Engineering]] teams.
 >
-> **[1:44](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=104)** Federated computational governance distributes data governance responsibility to ensure consistency, security and compliance, balancing autonomy and agility within domains with overall alignment through shared standards.
+> **[1:44](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=104)** Federated computational governance distributes [[Data Governance]] responsibility to ensure consistency, security and compliance, balancing autonomy and agility within domains with overall alignment through shared standards.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/data-mesh?u=76281980&t=119)** Data mesh plays a critical role in modern IT architecture, especially for organizations dealing with vast amounts of data across many domains.
 >
@@ -2124,12 +2093,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Mesh]] (9), teams (7), management (4), product (3)
+> **Frameworks & Libraries:** [[Mesh]] (9), [[Data Quality]] (4), [[Data Management]] (3), [[Scalability]] (3), [[Data Engineering]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
-#### Observability and monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980)
+#### [Observability and monitoring](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2151,11 +2119,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=68)** Monitoring is the subset of observability focused on collecting, analyzing, and using metrics, logs, and traces to gauge the health and performance of IT systems.
 >
-> **[1:19](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=79)** With monitoring, you set up tools and dashboards to track indicators like CPU usage, memory consumption, and error rates to identify when something goes wrong quickly.
+> **[1:19](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=79)** With monitoring, you set up tools and [[Dashboards]] to track indicators like CPU usage, memory consumption, and error rates to identify when something goes wrong quickly.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=89)** Monitoring enhances system health and performance, allowing you to detect issues early and prevent them from escalating.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=97)** Effective monitoring and observability enable proactive maintenance where IT architectures anticipate issues before they impact users, reducing downtime.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=97)** Effective monitoring and observability enable proactive maintenance where [[IT architectures]] anticipate issues before they impact users, reducing downtime.
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=107)** Monitoring also bolsters security and compliance by detecting breaches and ensuring regulatory adherence through tracking access logs, data flows, and system interactions.
 >
@@ -2167,7 +2135,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=140)** They contribute to efficient operations by enabling rapid identification and resolution of issues, minimizing disruptions to business services.
 >
-> **[2:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=149)** They perform scalability and complex management by providing insights to understand and optimize complex distributed and cloud native systems as they grow.
+> **[2:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=149)** They perform [[Scalability]] and complex management by providing insights to understand and optimize complex distributed and cloud native systems as they grow.
 >
 > **[2:39](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/observability-and-monitoring?u=76281980&t=159)** They enable informed decision making, allowing you to make data-driven decisions that enhance overall system design and functionality.
 >
@@ -2181,21 +2149,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), data (2), power (1), [[Troubleshooting]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[IT architectures]] (1), [[Scalability]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Quantum computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980)
+#### [Quantum computing](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=0)** - Imagine solving in seconds what would've taken today's most powerful supercomputers thousands of years, unlocking solutions to unsolvable problems, from optimizing global supply chains, to revolutionizing cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=0)** - Imagine solving in seconds what would've taken today's most powerful supercomputers thousands of years, unlocking solutions to unsolvable problems, from optimizing global supply chains, to revolutionizing [[Cybersecurity]].
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=15)** Quantum computing is the next frontier in IT architecture, redefining how we think about processing power, data, and the very fabric of digital infrastructure.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=15)** [[Quantum Computing]] is the next frontier in IT architecture, redefining how we think about processing power, data, and the very fabric of digital infrastructure.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=24)** Let's explore your role as an IT architect in unlocking this revolutionary technology to make the impossible possible.
 >
@@ -2207,13 +2174,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=56)** They can be entangled, allowing quantum computers to perform complex calculations at exponentially faster rates than classical computers for certain types of problems.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=67)** Quantum computers open up new possibilities to tackle complex problems intractable for classical computers, such as large-scale simulations, optimization challenges, drug discovery and cryptography.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=67)** Quantum computers open up new possibilities to tackle complex problems intractable for classical computers, such as large-scale simulations, optimization challenges, drug discovery and [[Cryptography]].
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=81)** For example, through Shor's algorithm, quantum computing can break traditional encryption methods and create more secure encryption techniques, such as quantum key distribution.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=92)** You must consider how this impacts security architecture.
 >
-> **[1:36](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=96)** Quantum algorithms significantly impact optimization and machine learning, enhancing tasks like large dataset processing, complex pattern recognition and decision-making.
+> **[1:36](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=96)** Quantum [[Algorithms]] significantly impact optimization and machine learning, enhancing tasks like large dataset processing, complex pattern recognition and [[Decision-Making]].
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=107)** Both quantum and traditional computers have advantages for specific tasks, so combine them into hybrid architectures to leverage their strengths.
 >
@@ -2221,7 +2188,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=125)** One of the most immediate opportunities and risks is in cryptography, as you must help your organization counteract threats to current encryption methods with quantum-resistant algorithms.
 >
-> **[2:16](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=136)** Incorporating quantum computing gives your organizations a strategic edge by enabling innovative solutions to complex problems, such as strategic planning, logistics, finance, healthcare, and artificial intelligence.
+> **[2:16](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=136)** Incorporating quantum computing gives your organizations a strategic edge by enabling innovative solutions to complex problems, such as strategic planning, logistics, finance, healthcare, and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/quantum-computing?u=76281980&t=149)** As quantum computing evolves, it will impact all areas of IT architecture, so staying on top of developments is crucial for making timely decisions on when and how to integrate it.
 >
@@ -2239,14 +2206,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (12), data (2), [[Cryptography]] (2), [[Security]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Quantum Computing]] (12), [[Cryptography]] (2), [[Algorithms]] (2), [[Cybersecurity]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (3), imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
-#### Sustainability and green IT
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980)
+#### [Sustainability and green IT](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2256,15 +2222,15 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=19)** The stakes are high, but the opportunities have never been more compelling.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=24)** Sustainability in IT is about reducing environmental impact by designing systems, processes, and infrastructure that minimize energy consumption, reduce carbon emissions, and promote efficient use of resources throughout their lifecycle.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=24)** [[Sustainability]] in IT is about reducing environmental impact by designing systems, processes, and infrastructure that minimize energy consumption, reduce carbon emissions, and promote efficient use of resources throughout their lifecycle.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=39)** Green IT is a subset of sustainability, focused on the environmentally responsible use of technology through practices that lower IT's carbon footprint, like using energy-efficient hardware and reducing electronic waste.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=39)** Green IT is a subset of sustainability, focused on the environmentally responsible use of technology through practices that lower IT's carbon footprint, like using energy-efficient [[Hardware]] and reducing electronic waste.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=53)** As an IT architect, you enable your organization's smooth operation, sustainability, and green IT goals.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=60)** You can design IT infrastructure to be energy-efficient, scalable, and optimized for minimal environmental impact, balancing that with meeting your organization's current and future operational needs.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=72)** Understanding sustainability and green IT enables you to architect systems that minimize environmental harm, combat climate change, reduce energy consumption and costs, and adapt to evolving environmental standards, and governance directives.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=72)** Understanding sustainability and green IT enables you to architect systems that minimize environmental harm, combat [[Climate Change]], reduce energy consumption and costs, and adapt to evolving environmental standards, and governance directives.
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=87)** You can design for energy efficiency in every aspect of your infrastructure, from data centers to networks.
 >
@@ -2272,17 +2238,17 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=104)** Through virtualization and workload consolidation, you can eliminate excess physical servers, energy use, and electronic waste.
 >
-> **[1:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=111)** Migrating to cloud services will also help you reduce your carbon footprint, as cloud providers invest heavily in green technologies and renewable energy resources.
+> **[1:51](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=111)** Migrating to [[Cloud Services]] will also help you reduce your carbon footprint, as cloud providers invest heavily in green technologies and renewable energy resources.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=121)** You can also incorporate sustainable software development practices to optimize software for energy efficiency using less power, memory, and storage.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=121)** You can also incorporate sustainable [[Software Development]] practices to optimize software for energy efficiency using less power, memory, and storage.
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=130)** Implement sustainable lifecycle management for environmental stewardship, from procurement to disposal, through the use of energy-efficient hardware and recycling.
 >
-> **[2:20](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=140)** Design smart infrastructure enabled by IoT and smart technologies to optimize energy usage in buildings.
+> **[2:20](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=140)** Design smart infrastructure enabled by [[IoT]] and smart technologies to optimize energy usage in buildings.
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=147)** Look into using sustainability data, and analytics and instrumentation, and monitoring tools to track energy consumption, resource usage, and environmental impact.
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=157)** Design IT infrastructure that uses renewable sources to support renewable energy and for remote work, and digital collaboration to reduce the need for physical office space and associated carbon emissions.
+> **[2:37](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=157)** Design IT infrastructure that uses renewable sources to support renewable energy and for remote work, and digital collaboration to reduce the need for physical [[Microsoft Office|office]] space and associated carbon emissions.
 >
 > **[2:49](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/sustainability-and-green-it?u=76281980&t=169)** And implement compliance with corporate social responsibility related governance directives into your designs, improving brand reputation and stakeholder trust.
 >
@@ -2294,7 +2260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), [[Hardware]] (3), data (3), cloud (2), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Hardware]] (3), [[Climate Change]] (1), [[Cloud Services]] (1), [[Software Development]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -2304,8 +2270,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further your journey into IT architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980)
+#### [Further your journey into IT architecture](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2321,7 +2286,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980&t=24)** and add asking for them to your list.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980&t=28)** As you take on your action items, assess your organization's current IT architecture to identify its strengths, weaknesses, and opportunities for improvement, such as enhancing scalability, performance, or security.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980&t=28)** As you take on your action items, assess your organization's current IT architecture to identify its strengths, weaknesses, and opportunities for improvement, such as enhancing [[Scalability]], performance, or security.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980&t=41)** Use this to brainstorm architectural enhancement projects.
 >
@@ -2335,7 +2300,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980&t=71)** Learn which new architectural concepts or technologies people are piloting in your organization, and reflect on your role in IT architecture, its scope, and the people and goals you must influence.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980&t=83)** Lastly, explore more advanced topics and practical applications on LinkedIn Learning.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980&t=83)** Lastly, explore more advanced topics and practical applications on [[LinkedIn]] Learning.
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980&t=88)** I've listed some recommended courses in your course handout, along with the resources we've discussed throughout the course.
 >
@@ -2349,7 +2314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), strengths (1), [[Scalability]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Scalability]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)

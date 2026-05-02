@@ -102,12 +102,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The agile approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980)
+#### [The agile approach](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980&t=0)** - Agile practices enable teams to produce high quality code and ship software products early and often.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980&t=0)** - [[Agile Development|Agile]] practices enable teams to produce high quality code and ship software [[Microsoft Products|products]] early and often.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980&t=8)** Agile uses bottom-up intelligence to fully leverage developers' creativity.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980&t=26)** In this course, we will discuss key principles of the agile approach from the perspective of developers.
 >
-> **[0:33](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980&t=33)** We will review some of the most popular agile approaches such as Scrum, Kanban, and extreme programming.
+> **[0:33](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980&t=33)** We will review some of the most popular agile approaches such as [[Scrum]], Kanban, and extreme programming.
 >
 > **[0:40](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980&t=40)** Hi, I'm Shashi Shekhar.
 >
@@ -129,18 +128,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (1), [[Microsoft Products|Products]] (1), [[Scrum]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Microsoft Products|Products]] (1), [[Scrum]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - agile (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980&t=0)** - This course is designed primarily for software developers that are interested in learning Agile concepts.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980&t=0)** - This course is designed primarily for software developers that are interested in learning [[Agile Development|Agile]] concepts.
 >
-> **[0:06](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980&t=6)** The term software developer is not confined to coders and includes anybody that contributes to software development, including members of the business or product teams.
+> **[0:06](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980&t=6)** The term software developer is not confined to coders and includes anybody that contributes to [[Software Development]], including members of the business or product teams.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980&t=17)** You don't need any specific experience with software development, but being a part of any software development team might be helpful.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980&t=29)** It briefly covers a lot of topics.
 >
-> **[0:32](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980&t=32)** Throughout the course, I'll provide practical examples from a fictional Agile team that is building software products for a fitness club.
+> **[0:32](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980&t=32)** Throughout the course, I'll provide practical examples from a fictional Agile team that is building software [[Microsoft Products|products]] for a fitness club.
 >
 > **[0:41](https://www.linkedin.com/learning/agile-software-development/what-you-should-know-23850465?u=76281980&t=41)** I'll also include a quick view of several software tools that facilitate the effective execution of Agile projects, and I'll mix theory with implementation examples throughout.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Software Development]] (3), business (1), product (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Software Development]] (3), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
@@ -167,16 +165,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The software crisis
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980)
+#### [The software crisis](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=0)** - The rise in popularity of agile methodologies can be attributed to what is commonly known as the software crisis, the challenge of creating efficient and useful computer programs in a specific-defined timeline.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=0)** - The rise in popularity of [[Agile Development|agile]] methodologies can be attributed to what is commonly known as the software crisis, the challenge of creating efficient and useful computer programs in a specific-defined timeline.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=17)** Compounding the crisis was the trend of managing software teams with the same methods used for manufacturing or construction projects.
 >
-> **[0:28](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=28)** Generally, manufactured products are identical.
+> **[0:28](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=28)** Generally, manufactured [[Microsoft Products|products]] are identical.
 >
 > **[0:32](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=32)** Think about cars of the same make and model coming down an assembly line, one after another.
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=70)** Change is generally frowned upon, and as time passes, making changes becomes more and more costly.
 >
-> **[1:18](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=78)** Early software development tried to mimic the construction and manufacturing approach by following what is known as the waterfall model.
+> **[1:18](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=78)** Early [[Software Development]] tried to mimic the construction and manufacturing approach by following what is known as the waterfall model.
 >
 > **[1:28](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=88)** Waterfall has five phases, requirements, analysis and design, development, test and deployment and maintenance.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=163)** Or you could realize that the product had a major architectural flaw that prevented it from being deployed.
 >
-> **[2:52](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=172)** In other words, your product development initiative could completely fail after a lot of money and time had been spent on it.
+> **[2:52](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=172)** In other words, your [[Product Development]] initiative could completely fail after a lot of money and time had been spent on it.
 >
 > **[3:01](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=181)** The second problem with the waterfall approach is that it uses top-down management.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=216)** According to a 1994 Standish group report, only around 16% of the projects surveyed were successfully finished within budget and on time with the features originally scoped.
 >
-> **[3:50](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=230)** 53% of software projects were either over budget, lacked features, did not finish on time, or a combination of these.
+> **[3:50](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=230)** 53% of [[Software Projects]] were either over budget, lacked features, did not finish on time, or a combination of these.
 >
 > **[4:01](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980&t=241)** And according to a 2000 book by Scott Ambler and Larry Constantine, 85% of software projects surveyed ended up as failures.
 >
@@ -238,13 +235,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Agile Development|Agile]] (2), [[Software Development]] (2), next (2), [[Software Projects]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Software Development]] (2), [[Software Projects]] (2), [[Microsoft Products|Products]] (1), [[Product Development]] (1)
 > **Definitions:** in other words (2), known as (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Agile to the rescue
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980)
+#### [Agile to the rescue](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=24)** In other words, change is the only certainty.
 >
-> **[0:27](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=27)** This makes software development risky, and creates a strong need for unplanned adjustments, customer feedback, and continuous improvement.
+> **[0:27](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=27)** This makes [[Software Development]] risky, and creates a strong need for unplanned adjustments, customer feedback, and continuous improvement.
 >
 > **[0:39](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=39)** To manage these challenges, the software developer must be creative and knowledgeable.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=99)** This enables software teams to address risks and uncertainties associated with software development at each stage of the process.
 >
-> **[1:49](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=109)** In the 90s, many Agile techniques evolved that attempted to solve key challenges facing the software industry.
+> **[1:49](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=109)** In the 90s, many [[Agile Development|Agile]] techniques evolved that attempted to solve key challenges facing the software industry.
 >
 > **[1:57](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=117)** The first attempt to officially define the Agile approach was in 2001, when a group of thought leaders defined what is known as the Agile Manifesto.
 >
@@ -308,25 +304,24 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=209)** It just places a higher priority on the four tenets it outlines.
 >
-> **[3:35](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=215)** The Agile Manifesto reflects the collective wisdom of many industry leaders to lay the foundation of a mindset that is best suited to build complex software products in unpredictable environments.
+> **[3:35](https://www.linkedin.com/learning/agile-software-development/agile-to-the-rescue-23851401?u=76281980&t=215)** The Agile Manifesto reflects the collective wisdom of many industry leaders to lay the foundation of a mindset that is best suited to build complex software [[Microsoft Products|products]] in unpredictable environments.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Software Development]] (4), teams (2), product (1), data (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Software Development]] (4), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1), known as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
 
-#### Agile principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980)
+#### [Agile principles](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980&t=0)** - As agile methodologies gained popularity, principles of the movement began to solidify.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980&t=0)** - As [[Agile Development|agile]] methodologies gained popularity, principles of the movement began to solidify.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980&t=8)** These are most commonly defined as the 12 principles documented on the Agile Manifesto website.
 >
-> **[0:16](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980&t=16)** The first principle of agile states, "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."
+> **[0:16](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980&t=16)** The first principle of agile states, "Our highest priority is to satisfy the customer through early and [[Continuous Delivery (CD)|continuous delivery]] of valuable software."
 >
 > **[0:28](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980&t=28)** There are two things to emphasize here.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980&t=51)** The development team works from the top of the backlog to the bottom.
 >
-> **[0:56](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980&t=56)** Also, unlike in the past, customers today have multiple options to buy products of different flavors from many different vendors.
+> **[0:56](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980&t=56)** Also, unlike in the past, customers today have multiple options to buy [[Microsoft Products|products]] of different flavors from many different vendors.
 >
 > **[1:06](https://www.linkedin.com/learning/agile-software-development/agile-principles-23853385?u=76281980&t=66)** As a result, there is stiff competition and being customer focused is the only way for an enterprise to succeed.
 >
@@ -388,17 +383,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (14), teams (8), business (6), [[Microsoft Products|Products]] (3), next (3)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (14), [[Microsoft Products|Products]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Definitions:** known as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - as (1)
 
-#### Agile principles continued
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980)
+#### [Agile principles continued](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=0)** - Let's take a look at the rest of the agile principles.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=0)** - Let's take a look at the [[Representational State Transfer (REST)|rest]] of the [[Agile Development|agile]] principles.
 >
 > **[0:04](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=4)** Next one on the list is: Working software is the primary measure of progress.
 >
@@ -406,7 +400,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=14)** The best way to show progress is to incrementally deliver functional software to the customer early and often.
 >
-> **[0:22](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=22)** Agile teams measure progress by delivering increments of products that provide some business value.
+> **[0:22](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=22)** Agile teams measure progress by delivering increments of [[Microsoft Products|products]] that provide some business value.
 >
 > **[0:29](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=29)** The next principle is perhaps the easiest to understand, but is also the most commonly violated.
 >
@@ -430,7 +424,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=97)** Agile teams follow good architecture and design principles.
 >
-> **[1:42](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=102)** They use many techniques, such as test-driven development, test automation, architectural standards, et cetera, to maintain technical excellence and good design.
+> **[1:42](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=102)** They use many techniques, such as [[Test-Driven Development]], [[Test Automation]], architectural standards, et cetera, to maintain technical excellence and good design.
 >
 > **[1:53](https://www.linkedin.com/learning/agile-software-development/agile-principles-continued-23851399?u=76281980&t=113)** An agile team defines practices and continues to evolve these techniques to enhance their agility.
 >
@@ -476,7 +470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (22), teams (10), next (4), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (22), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Test-Driven Development]] (1), [[Test Automation]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** chaos (1)
 > **Cross-References:** later in (1)
@@ -488,11 +482,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scrum introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-introduction-23852437?u=76281980)
+#### [Scrum introduction](https://www.linkedin.com/learning/agile-software-development/scrum-introduction-23852437?u=76281980)
 
-#### Empiricism
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/empiricism-23848517?u=76281980)
+#### [Empiricism](https://www.linkedin.com/learning/agile-software-development/empiricism-23848517?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,18 +538,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1)
 > **Ports:** :00 (2)
 > **Definitions:** is an  (2)
 > **Env Vars:** gps (1)
 > **Speakers:** - empiricism (1)
 
-#### The scrum pillars (TIA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980)
+#### [The scrum pillars (TIA)](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=0)** - Scrum teams plan their work around what they know based on evidence and their experience at that specific point in time, and they continue to adjust their plan as they learn new facts.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=0)** - [[Scrum]] teams plan their work around what they know based on evidence and their experience at that specific point in time, and they continue to adjust their plan as they learn new facts.
 >
 > **[0:13](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=13)** Scrum is based on three key styles of execution.
 >
@@ -569,7 +559,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=39)** You can only inspect something if it is transparent and you can only adapt something that you can inspect.
 >
-> **[0:46](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=46)** Transparency is achieved by making every aspect of the work, such as artifacts, processes, products, or issues, just to name a few, visible to those that could be impacted.
+> **[0:46](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=46)** Transparency is achieved by making every aspect of the work, such as artifacts, processes, [[Microsoft Products|products]], or issues, just to name a few, visible to those that could be impacted.
 >
 > **[1:00](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=60)** Scrum events are designed to inspect every aspect of the product and processes to build it.
 >
@@ -581,11 +571,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=87)** I once visited a company that had successfully adopted Scrum.
 >
-> **[1:32](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=92)** Their office had a large hallway with their walls covered with charts, documents, and a few TV monitors that displayed a summarized view of the state of their project.
+> **[1:32](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=92)** Their [[Microsoft Office|office]] had a large hallway with their walls covered with charts, documents, and a few TV monitors that displayed a summarized view of the state of their project.
 >
-> **[1:44](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=104)** They displayed information about work such as print status, build status, defect count, statistics by work, item count, and much more.
+> **[1:44](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=104)** They displayed information about work such as print status, build status, defect count, [[Statistics]] by work, item count, and much more.
 >
-> **[1:55](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=115)** These dashboards are called information radiators.
+> **[1:55](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=115)** These [[Dashboards]] are called information radiators.
 >
 > **[2:00](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=120)** You don't need a status meeting to know the state of your team's work.
 >
@@ -601,7 +591,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=159)** What is important is that all members of the team and all stakeholders have a clear definition of what done means before starting a sprint.
 >
-> **[2:50](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=170)** Agile organizations and Scrum teams continue to define done more stringently as a part of their commitment to continuous improvement.
+> **[2:50](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=170)** [[Agile Development|Agile]] organizations and Scrum teams continue to define done more stringently as a part of their commitment to continuous improvement.
 >
 > **[3:00](https://www.linkedin.com/learning/agile-software-development/the-scrum-pillars-tia-23852432?u=76281980&t=180)** This approach enhances transparency because all the stakeholders understand what to expect from the artifacts and know where the team stands.
 >
@@ -609,18 +599,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (14), teams (5), product (2), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (14), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1), [[Statistics]] (1), [[Dashboards]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** tia (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - scrum (1)
 
-#### Scrum values
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-values-23848515?u=76281980)
+#### [Scrum values](https://www.linkedin.com/learning/agile-software-development/scrum-values-23848515?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-values-23848515?u=76281980&t=0)** - Five core values were added to the Scrum guide in 2013.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-values-23848515?u=76281980&t=0)** - Five core values were added to the [[Scrum]] guide in 2013.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-software-development/scrum-values-23848515?u=76281980&t=5)** Focus, respect, openness, courage, and commitment.
 >
@@ -646,7 +635,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/agile-software-development/scrum-values-23848515?u=76281980&t=79)** The Scrum team not only does this as a part of various events throughout the plan, but they practice it daily.
 >
-> **[1:28](https://www.linkedin.com/learning/agile-software-development/scrum-values-23848515?u=76281980&t=88)** Commitment in Scrum is not a contractual commitment, but an allegiance to Scrum and agile principles such as quality, continuous improvement, self-organization, et cetera.
+> **[1:28](https://www.linkedin.com/learning/agile-software-development/scrum-values-23848515?u=76281980&t=88)** Commitment in Scrum is not a contractual commitment, but an allegiance to Scrum and [[Agile Development|agile]] principles such as quality, continuous improvement, self-organization, et cetera.
 >
 > **[1:41](https://www.linkedin.com/learning/agile-software-development/scrum-values-23848515?u=76281980&t=101)** Scrum values are intertwined with the Scrum pillars.
 >
@@ -654,17 +643,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (14), teams (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (14), [[Agile Development|Agile]] (1)
 > **Env Vars:** tia (1)
 > **Analogies:** such as (1)
 > **Speakers:** - five (1)
 
-#### Scrum roles: The product owner
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-product-owner-23852431?u=76281980)
+#### [Scrum roles: The product owner](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-product-owner-23852431?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-product-owner-23852431?u=76281980&t=0)** - Now, let's take a closer look at the different Scrum team roles.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-product-owner-23852431?u=76281980&t=0)** - Now, let's take a closer look at the different [[Scrum]] team roles.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-product-owner-23852431?u=76281980&t=5)** The first role is the product owner who represents the business stakeholders and defines what needs to be built and in what order.
 >
@@ -694,12 +682,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), [[Scrum]] (7), business (1), management (1)
+> **Frameworks & Libraries:** [[Scrum]] (7)
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
-#### Scrum roles: The development team member
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-development-team-member-23848514?u=76281980)
+#### [Scrum roles: The development team member](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-development-team-member-23848514?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +698,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-development-team-member-23848514?u=76281980&t=31)** The development teams recommended size is between three and nine people.
 >
-> **[0:36](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-development-team-member-23848514?u=76281980&t=36)** Sometimes the product owner and scrum master also perform the duties of a development team member, but if they don't, they are not included in this count.
+> **[0:36](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-development-team-member-23848514?u=76281980&t=36)** Sometimes the product owner and [[Scrum]] master also perform the duties of a development team member, but if they don't, they are not included in this count.
 >
 > **[0:46](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-development-team-member-23848514?u=76281980&t=46)** Scrum does not prescribe whether or not development team members should be a specialist, but development team members with multiple skills are generally preferred over specialized individuals.
 >
@@ -719,7 +706,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-development-team-member-23848514?u=76281980&t=63)** The team figures out how to do their work with minimal interference from the outside.
 >
-> **[1:09](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-development-team-member-23848514?u=76281980&t=69)** This fosters creativity and accountability.
+> **[1:09](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-development-team-member-23848514?u=76281980&t=69)** This fosters creativity and [[Accountability]].
 >
 > **[1:12](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-development-team-member-23848514?u=76281980&t=72)** In fact, all sprint backlog items are owned by the entire development team.
 >
@@ -735,19 +722,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Scrum]] (3), functional (1), teams (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Accountability]] (1)
 > **Analogies:** just like (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - just (1)
 
-#### Scrum roles: The scrum master
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-scrum-master-23846573?u=76281980)
+#### [Scrum roles: The scrum master](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-scrum-master-23846573?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-scrum-master-23846573?u=76281980&t=0)** - The Scrum master is the Scrum expert.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-scrum-master-23846573?u=76281980&t=0)** - The [[Scrum]] master is the Scrum expert.
 >
-> **[0:04](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-scrum-master-23846573?u=76281980&t=4)** They are the Scrum and agile coach for the product owner, the development team, and the enterprise at large.
+> **[0:04](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-scrum-master-23846573?u=76281980&t=4)** They are the Scrum and [[Agile Development|agile]] coach for the product owner, the development team, and the enterprise at large.
 >
 > **[0:11](https://www.linkedin.com/learning/agile-software-development/scrum-roles-the-scrum-master-23846573?u=76281980&t=11)** Their job is to coach all involved to understand and effectively apply Scrum.
 >
@@ -775,18 +761,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (20), product (5), management (3), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (20), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - the (1)
 
-#### Scrum events
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-events-23849474?u=76281980)
+#### [Scrum events](https://www.linkedin.com/learning/agile-software-development/scrum-events-23849474?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-events-23849474?u=76281980&t=0)** - Scrum has five events.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-events-23849474?u=76281980&t=0)** - [[Scrum]] has five events.
 >
 > **[0:02](https://www.linkedin.com/learning/agile-software-development/scrum-events-23849474?u=76281980&t=2)** The first event is the sprint.
 >
@@ -822,17 +807,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (7), product (2), business (1)
+> **Frameworks & Libraries:** [[Scrum]] (7)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - scrum (1)
 
-#### Scrum artifacts: The product backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-artifacts-the-product-backlog-23848518?u=76281980)
+#### [Scrum artifacts: The product backlog](https://www.linkedin.com/learning/agile-software-development/scrum-artifacts-the-product-backlog-23848518?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-artifacts-the-product-backlog-23848518?u=76281980&t=0)** - The three Scrum artifacts are the product backlog, the sprint backlog, and the increment, which is the product at the end of each sprint.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-artifacts-the-product-backlog-23848518?u=76281980&t=0)** - The three [[Scrum]] artifacts are the product backlog, the sprint backlog, and the increment, which is the product at the end of each sprint.
 >
 > **[0:10](https://www.linkedin.com/learning/agile-software-development/scrum-artifacts-the-product-backlog-23848518?u=76281980&t=10)** This is a working version of a software product.
 >
@@ -902,19 +886,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), [[Scrum]] (4), teams (3), data (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Scrum]] (4)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Scrum artifacts: The sprint backlog and increment
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-artifacts-the-sprint-backlog-and-increment-23847543?u=76281980)
+#### [Scrum artifacts: The sprint backlog and increment](https://www.linkedin.com/learning/agile-software-development/scrum-artifacts-the-sprint-backlog-and-increment-23847543?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-artifacts-the-sprint-backlog-and-increment-23847543?u=76281980&t=0)** - Now let's look at the other two Scrum artifacts.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/scrum-artifacts-the-sprint-backlog-and-increment-23847543?u=76281980&t=0)** - Now let's look at the other two [[Scrum]] artifacts.
 >
 > **[0:04](https://www.linkedin.com/learning/agile-software-development/scrum-artifacts-the-sprint-backlog-and-increment-23847543?u=76281980&t=4)** The sprint backlog and the increment.
 >
@@ -950,16 +933,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), product (4), feature (4), business (3), [[Scrum]] (2)
+> **Frameworks & Libraries:** [[Scrum]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **Speakers:** - now (1)
 
-#### Common myths
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/common-myths-23849471?u=76281980)
+#### [Common myths](https://www.linkedin.com/learning/agile-software-development/common-myths-23849471?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/common-myths-23849471?u=76281980&t=0)** - Let's wrap up this chapter by discussing a few common myths about Scrum.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/common-myths-23849471?u=76281980&t=0)** - Let's wrap up this chapter by discussing a few common myths about [[Scrum]].
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development/common-myths-23849471?u=76281980&t=6)** Let's start with a simple exercise.
 >
@@ -979,7 +961,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/agile-software-development/common-myths-23849471?u=76281980&t=42)** The Scrum Master and Product Owner are not even required to attend the Daily Scrum.
 >
-> **[0:48](https://www.linkedin.com/learning/agile-software-development/common-myths-23849471?u=76281980&t=48)** Many Scrum teams assume that using software tools makes them agile.
+> **[0:48](https://www.linkedin.com/learning/agile-software-development/common-myths-23849471?u=76281980&t=48)** Many Scrum teams assume that using software tools makes them [[Agile Development|agile]].
 >
 > **[0:53](https://www.linkedin.com/learning/agile-software-development/common-myths-23849471?u=76281980&t=53)** Tools assist in the process, but just using tools is not enough.
 >
@@ -1009,7 +991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (11), [[Agile Development|Agile]] (10), teams (9), product (3), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (11), [[Agile Development|Agile]] (10)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
@@ -1020,8 +1002,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extreme programming (XP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980)
+#### [Extreme programming (XP)](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1045,7 +1026,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980&t=61)** The quarterly cycle enables the team to do high-level planning and align their work with the long-term goals of the enterprise.
 >
-> **[1:11](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980&t=71)** Like Sprint Retrospectives in Scrum, the quarterly cycle is an opportunity for the XP team to reflect on themselves and improve the team's efficiency.
+> **[1:11](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980&t=71)** Like Sprint Retrospectives in [[Scrum]], the quarterly cycle is an opportunity for the XP team to reflect on themselves and improve the team's efficiency.
 >
 > **[1:23](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980&t=83)** The requirements in XP are expressed on index cards as stories.
 >
@@ -1069,20 +1050,19 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980&t=155)** It could mean physical charts or posters that convey information about work status, assigned tasks, team values, et cetera.
 >
-> **[2:45](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980&t=165)** This information could also be present in the form of electronic dashboards.
+> **[2:45](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980&t=165)** This information could also be present in the form of electronic [[Dashboards]].
 >
 > **[2:49](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980&t=169)** Any person walking into the workspace should receive this information in a matter of seconds.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), teams (2), [[Scrum]] (2), [[Engineering]] (1), functional (1)
+> **Frameworks & Libraries:** [[Scrum]] (2), [[Dashboards]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - extreme (1)
 
-#### XP execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980)
+#### [XP execution](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,30 +1094,29 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=76)** This means each workstation has two persons working together on code.
 >
-> **[1:22](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=82)** One person types the code while the other person provides instant code review.
+> **[1:22](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=82)** One person types the code while the other person provides instant [[Code Review]].
 >
-> **[1:27](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=87)** Continuous integration is the activity of two persons interacting to understand their individual pieces of code, integrating the code to resolve any conflicts, and running tests to make sure the code works as expected.
+> **[1:27](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=87)** [[Continuous Integration (CI)|Continuous integration]] is the activity of two persons interacting to understand their individual pieces of code, integrating the code to resolve any conflicts, and running tests to make sure the code works as expected.
 >
 > **[1:42](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=102)** XP recommends doing this type of integration with the same frequency as the 10-minute builds.
 >
-> **[1:50](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=110)** XP also recommends a practice called slack, which means exp teams should have a few low-priority tasks in their weekly and quarterly work queue.
+> **[1:50](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=110)** XP also recommends a practice called [[Slack]], which means exp teams should have a few low-priority tasks in their weekly and quarterly work queue.
 >
 > **[2:00](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=120)** These low-priority tasks can be dropped if the team realizes it will take longer than estimated to implement other higher priority work items.
 >
-> **[2:11](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=131)** While Agile frameworks like Scrum are non-prescriptive and abstract in nature, extreme programming is relatively more prescriptive and implementation-centric.
+> **[2:11](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=131)** While [[Agile Development|Agile]] frameworks like [[Scrum]] are non-prescriptive and abstract in nature, extreme programming is relatively more prescriptive and implementation-centric.
 >
-> **[2:22](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=142)** Many agile teams combine XP practices with Scrum to build high-quality products in an iterative way.
+> **[2:22](https://www.linkedin.com/learning/agile-software-development/xp-execution-23852435?u=76281980&t=142)** Many agile teams combine XP practices with Scrum to build high-quality [[Microsoft Products|products]] in an iterative way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Programming]] (2), [[Agile Development|Agile]] (2), [[Scrum]] (2), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Scrum]] (2), [[Code Review]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Slack]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - xp (1)
 
-#### Pair programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980)
+#### [Pair programming](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,7 +1148,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=78)** Pair programming does not necessarily mean the pairs are fixed.
 >
-> **[1:23](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=83)** Agile teams continually change pairs, and this greatly improves team communication.
+> **[1:23](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=83)** [[Agile Development|Agile]] teams continually change pairs, and this greatly improves team communication.
 >
 > **[1:29](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=89)** Individuals with different backgrounds and experience often communicate useful information to their partners that they would otherwise not be exposed to.
 >
@@ -1183,7 +1162,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=123)** They also have deep knowledge in a certain range of skills, but they also possess some knowledge in a wider area of skills.
 >
-> **[2:11](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=131)** An example of a T-shaped person is someone who is good at business analysis and also has useful knowledge of software design and test automation.
+> **[2:11](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=131)** An example of a T-shaped person is someone who is good at business analysis and also has useful knowledge of [[Software Design]] and [[Test Automation]].
 >
 > **[2:22](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=142)** Pairing people with different types of skills helps members become more T-shaped.
 >
@@ -1195,7 +1174,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=171)** Many people prefer to work alone.
 >
-> **[2:53](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=173)** However, you can address those concerns by citing the statistics that show pair programmers to be more productive and write better quality code.
+> **[2:53](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=173)** However, you can address those concerns by citing the [[Statistics]] that show pair programmers to be more productive and write better quality code.
 >
 > **[3:04](https://www.linkedin.com/learning/agile-software-development/pair-programming-23853386?u=76281980&t=184)** Hopefully this will make them feel more inclined to embrace pair programming.
 >
@@ -1209,19 +1188,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (14), teams (3), [[Agile Development|Agile]] (2), business (1), [[Software Design]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Software Design]] (1), [[Test Automation]] (1), [[Statistics]] (1)
 > **Tools:** terminal (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - pair (1)
 
-#### Test-driven development (TDD)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/test-driven-development-tdd-23849473?u=76281980)
+#### [Test-driven development (TDD)](https://www.linkedin.com/learning/agile-software-development/test-driven-development-tdd-23849473?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/test-driven-development-tdd-23849473?u=76281980&t=0)** - Another core practice of extreme programming is test-driven development.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/test-driven-development-tdd-23849473?u=76281980&t=0)** - Another core practice of extreme programming is [[Test-Driven Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/agile-software-development/test-driven-development-tdd-23849473?u=76281980&t=5)** Test-driven development means you never write any code until you have written and failed a test for it.
 >
@@ -1271,7 +1249,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/agile-software-development/test-driven-development-tdd-23849473?u=76281980&t=147)** Also for testing functions that have too many dependencies, you can bypass or mock these dependencies and just focus on what you're trying to test.
 >
-> **[2:38](https://www.linkedin.com/learning/agile-software-development/test-driven-development-tdd-23849473?u=76281980&t=158)** There are tools like Mockito, PowerMock, MOQ, et cetera that can be used to simplify unit testing on functions that have too many dependencies.
+> **[2:38](https://www.linkedin.com/learning/agile-software-development/test-driven-development-tdd-23849473?u=76281980&t=158)** There are tools like Mockito, PowerMock, MOQ, et cetera that can be used to simplify [[Unit Testing]] on functions that have too many dependencies.
 >
 > **[2:49](https://www.linkedin.com/learning/agile-software-development/test-driven-development-tdd-23849473?u=76281980&t=169)** Code coverage is expressed as the percentage of total code that is being executed by tests.
 >
@@ -1289,15 +1267,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (5), [[Unit Testing]] (2), [[Programming]] (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (5), [[Unit Testing]] (2)
 > **CLI Commands:** find (3), make (2)
 > **Tools:** visual studio (1), intellij (1)
 > **Env Vars:** moq (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - another (1)
 
-#### User stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/user-stories-23846576?u=76281980)
+#### [User stories](https://www.linkedin.com/learning/agile-software-development/user-stories-23846576?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1318,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/agile-software-development/user-stories-23846576?u=76281980&t=153)** These conditions define the criteria that must be met for the product owner to accept the story.
 >
-> **[2:40](https://www.linkedin.com/learning/agile-software-development/user-stories-23846576?u=76281980&t=160)** Additionally, agile teams do what is needed to meet the definition of done for each user story.
+> **[2:40](https://www.linkedin.com/learning/agile-software-development/user-stories-23846576?u=76281980&t=160)** Additionally, [[Agile Development|agile]] teams do what is needed to meet the definition of done for each user story.
 >
 > **[2:47](https://www.linkedin.com/learning/agile-software-development/user-stories-23846576?u=76281980&t=167)** If you have written detailed requirement specifications, you are probably concerned about the lack of details in user stories.
 >
@@ -1367,15 +1344,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), teams (3), business (2), [[Agile Development|Agile]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 > **Speakers:** - a (1)
 
-#### Epics and themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980)
+#### [Epics and themes](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,13 +1387,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=85)** Think of themes like tags.
 >
-> **[1:27](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=87)** You could include any item related to iOS or Android development into one theme, even if they're not part of the same epic.
+> **[1:27](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=87)** You could include any item related to iOS or [[Android]] development into one theme, even if they're not part of the same epic.
 >
 > **[1:37](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=97)** A theme is just a way of grouping user stories.
 >
 > **[1:40](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=100)** Look at a theme as an attribute of a user story.
 >
-> **[1:44](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=104)** You could group user stories by a theme, which could be technical or functional in nature, such as security, payment processing, dashboards, account management, mobile, web, et cetera.
+> **[1:44](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=104)** You could group user stories by a theme, which could be technical or functional in nature, such as security, payment processing, [[Dashboards]], account management, mobile, web, et cetera.
 >
 > **[1:58](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=118)** Many teams confuse themes with epics.
 >
@@ -1425,9 +1401,9 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=130)** User stories are a powerful, effective, and collaborative way of capturing and expressing requirements.
 >
-> **[2:18](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=138)** Therefore, user stories have become the defacto standard for requirement analysis for Agile teams.
+> **[2:18](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=138)** Therefore, user stories have become the defacto standard for requirement analysis for [[Agile Development|Agile]] teams.
 >
-> **[2:25](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=145)** I would like to point out that user stories are not mentioned in the Scrum guide specifically, but many Scrum teams find them effective and have incorporated them into their process.
+> **[2:25](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=145)** I would like to point out that user stories are not mentioned in the [[Scrum]] guide specifically, but many Scrum teams find them effective and have incorporated them into their process.
 >
 > **[2:37](https://www.linkedin.com/learning/agile-software-development/epics-and-themes-23846575?u=76281980&t=157)** The simple, concise and collaborative nature of user stories gels perfectly with Agile teams.
 >
@@ -1439,7 +1415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Android]] (2), web (2), [[Agile Development|Agile]] (2), [[Scrum]] (2)
+> **Frameworks & Libraries:** [[Android]] (2), [[Agile Development|Agile]] (2), [[Scrum]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Analogies:** picture (1), such as (1), for example (1)
@@ -1447,14 +1423,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - an (1)
 
-#### Agile estimation
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/agile-estimation-23852436?u=76281980)
+#### [Agile estimation](https://www.linkedin.com/learning/agile-software-development/agile-estimation-23852436?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/agile-estimation-23852436?u=76281980&t=0)** - Estimates are an essential starting point for any project, and agile teams rely on them as well.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/agile-estimation-23852436?u=76281980&t=0)** - Estimates are an essential starting point for any project, and [[Agile Development|agile]] teams rely on them as well.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-software-development/agile-estimation-23852436?u=76281980&t=7)** But agile estimates are not for coding and unit testing alone.
+> **[0:07](https://www.linkedin.com/learning/agile-software-development/agile-estimation-23852436?u=76281980&t=7)** But agile estimates are not for coding and [[Unit Testing]] alone.
 >
 > **[0:12](https://www.linkedin.com/learning/agile-software-development/agile-estimation-23852436?u=76281980&t=12)** Agile estimation is all about refining product backlog items into smaller implementable items, and then estimating what it takes to convert that backlog item into a done item.
 >
@@ -1514,13 +1489,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (5), product (3), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Unit Testing]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - estimates (1)
 
-#### Planning poker
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980)
+#### [Planning poker](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1538,7 +1512,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=39)** What's displayed on the temporary badge?
 >
-> **[0:42](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=42)** The product owner clarifies, the badge needs a scannable barcode with member ID, member name, and trial end date and the word trial in text.
+> **[0:42](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=42)** The product owner clarifies, the badge needs a scannable barcode with member ID, member name, and trial end date and the [[Microsoft Word|word]] trial in text.
 >
 > **[0:53](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=53)** The team continues with the first round of estimation.
 >
@@ -1552,7 +1526,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=70)** Implementing this user story would require interfacing with a barcode generator software, something the team has not done before.
 >
-> **[1:18](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=78)** The scrum master add.
+> **[1:18](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=78)** The [[Scrum]] master add.
 >
 > **[1:20](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=80)** Another team has done this integration.
 >
@@ -1584,7 +1558,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=146)** The user story estimate is eight.
 >
-> **[2:29](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=149)** Three takeaways from this session are, this type of agile estimation is based on consensus, not majority wins.
+> **[2:29](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=149)** Three takeaways from this session are, this type of [[Agile Development|agile]] estimation is based on consensus, not majority wins.
 >
 > **[2:37](https://www.linkedin.com/learning/agile-software-development/planning-poker-23852433?u=76281980&t=157)** Team members estimate work independently and do not influence each other in the estimation effort.
 >
@@ -1612,20 +1586,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), database (2), [[Agile Development|Agile]] (2), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Microsoft Word|Word]] (1), [[Scrum]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - a (1)
 
-#### DevOps: The problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980)
+#### [DevOps: The problem](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980&t=0)** - DevOps is not just a key industry buzzword.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980&t=0)** - [[DevOps]] is not just a key industry buzzword.
 >
-> **[0:05](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980&t=5)** It has helped organizations to improve their agility and significantly reduce time to market for their products.
+> **[0:05](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980&t=5)** It has helped organizations to improve their agility and significantly reduce time to market for their [[Microsoft Products|products]].
 >
 > **[0:13](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980&t=13)** Before we try to understand what DevOps is, let's try to understand the problem that DevOps helps to solve.
 >
@@ -1657,7 +1630,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980&t=121)** This is a typical deployment workflow.
 >
-> **[2:05](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980&t=125)** The introduction of agile implementations unified business, development, and QA roles into cross-functional teams.
+> **[2:05](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980&t=125)** The introduction of [[Agile Development|agile]] implementations unified business, development, and QA roles into cross-functional teams.
 >
 > **[2:15](https://www.linkedin.com/learning/agile-software-development/devops-the-problem-23848516?u=76281980&t=135)** In their quest for enhanced agility, agile teams produced integrated product increments more frequently.
 >
@@ -1673,16 +1646,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), product (5), [[DevOps]] (4), [[Agile Development|Agile]] (4), business (2)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Agile Development|Agile]] (4), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - devops (1)
 
-#### DevOps: The solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980)
+#### [DevOps: The solution](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=1)** - DevOps is the culture and practice of closer cooperation between developers and QA teams, or Dev, and IT operations or Ops, DevOps.
+> **[0:01](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=1)** - [[DevOps]] is the culture and practice of closer cooperation between developers and QA teams, or Dev, and IT operations or Ops, DevOps.
 >
 > **[0:15](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=15)** This type of cooperation is not created in a vacuum.
 >
@@ -1698,17 +1670,17 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=71)** There are three key aspects to DevOps.
 >
-> **[1:14](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=74)** Continuous integration or CI is the practice of frequently committing changes to the main trunk in source control to trigger an automated build that validates the code base for various things such as compilation errors, code quality metrics, automated tests, static code analysis, missing dependencies, et cetera.
+> **[1:14](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=74)** [[Continuous Integration (CI)|Continuous integration]] or CI is the practice of frequently committing changes to the main trunk in source control to trigger an automated build that validates the code base for various things such as compilation errors, code quality metrics, automated tests, static code analysis, missing dependencies, et cetera.
 >
 > **[1:40](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=100)** Developers get quick feedback on any issues and fix them on a prioritized basis.
 >
-> **[1:46](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=106)** Continuous delivery or CD is the capability to always keep a product in a stable state after every change so that the product is always potentially deployable.
+> **[1:46](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=106)** [[Continuous Delivery (CD)|Continuous delivery]] or CD is the capability to always keep a product in a stable state after every change so that the product is always potentially deployable.
 >
 > **[2:01](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=121)** Continuous deployment means automatically deploying the product increment to production or a production-like environment.
 >
 > **[2:10](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=130)** Continuous deployment may or may not follow continuous delivery.
 >
-> **[2:15](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=135)** Agile and DevOps complement each other.
+> **[2:15](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=135)** [[Agile Development|Agile]] and DevOps complement each other.
 >
 > **[2:18](https://www.linkedin.com/learning/agile-software-development/devops-the-solution-23849472?u=76281980&t=138)** They can be viewed as two sides of the same coin.
 >
@@ -1718,29 +1690,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), product (3), teams (2), [[Automation]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** cd (1)
 > **Analogies:** such as (1)
 > **Speakers:** - devops (1)
 
-#### Agile reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980)
+#### [Agile reporting](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=0)** - Agile teams use reports to track their progress and identify bottlenecks.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=0)** - [[Agile Development|Agile]] teams use reports to track their progress and identify bottlenecks.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=6)** Let's look at three popular reports used by Agile teams, burndown charts, burnup charts, and cumulative flow diagrams.
 >
 > **[0:15](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=15)** There are many popular tools used to produce these reports.
 >
-> **[0:19](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=19)** I have chosen specific tools to demonstrate our sample products progress, but there are other options.
+> **[0:19](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=19)** I have chosen specific tools to demonstrate our sample [[Microsoft Products|products]] progress, but there are other options.
 >
 > **[0:26](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=26)** Some Agile teams even prefer to create reports manually.
 >
-> **[0:30](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=30)** Visual Studio Team Services is a cloud-hosted application lifecycle management product by Microsoft.
+> **[0:30](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=30)** Visual Studio Team Services is a cloud-hosted application lifecycle management product by [[Microsoft]].
 >
-> **[0:37](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=37)** The burndown chart for Sprint 2 of our Agile Fitness center Mobile and Web Development team looks like this.
+> **[0:37](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=37)** The burndown chart for Sprint 2 of our Agile Fitness center Mobile and [[Web Development]] team looks like this.
 >
 > **[0:45](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=45)** The Y axis shows the total amount of remaining work and the X axis shows the timeline.
 >
@@ -1760,7 +1731,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=111)** Burnup charts show the time on X axis, but this graph shows the amount of completed work on the Y axis.
 >
-> **[1:59](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=119)** The Sprint 2 burnup chart of our Fitness Center team looks like this in JIRA, a project tracking tool by Atlassian.
+> **[1:59](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=119)** The Sprint 2 burnup chart of our Fitness Center team looks like this in [[Jira]], a [[Project Tracking]] tool by [[Atlassian]].
 >
 > **[2:08](https://www.linkedin.com/learning/agile-software-development/agile-reporting-23846572?u=76281980&t=128)** The green staircase-like line shows the amount of work done.
 >
@@ -1796,7 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), teams (5), management (2), [[Microsoft Products|Products]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Microsoft Products|Products]] (1), [[Microsoft]] (1), [[Web Development]] (1), [[Jira]] (1)
 > **Env Vars:** cfd (2), jira (1)
 > **Tools:** visual studio (1), jira (1)
 > **Definitions:** is a  (2)
@@ -1807,8 +1778,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lean history
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980)
+#### [Lean history](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1824,7 +1794,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980&t=36)** They maintained just enough inventory at a given point in time to execute a smooth flow of work through their assembly line.
 >
-> **[0:46](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980&t=46)** The approach included producing finished products as efficiently as possible and aligning their production rate with the consumption rate.
+> **[0:46](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980&t=46)** The approach included producing finished [[Microsoft Products|products]] as efficiently as possible and aligning their production rate with the consumption rate.
 >
 > **[0:55](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980&t=55)** The execution included identifying and reducing waste as much as possible.
 >
@@ -1852,7 +1822,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980&t=173)** If you don't find this calculation intuitive, please refer to Kanban Scenario 1 in the course handout.
 >
-> **[3:01](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980&t=181)** Little's law is applicable to any system that processes any type of work items, including software development processes.
+> **[3:01](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980&t=181)** Little's law is applicable to any system that processes any type of work items, including [[Software Development]] processes.
 >
 > **[3:10](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980&t=190)** We can express Little's law in software terms as the number of work items in progress, or WIP, equals cycle time, multiplied by the completion rate of the work items.
 >
@@ -1866,15 +1836,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (2), [[Software Development]] (2), express (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Software Development]] (2)
 > **Env Vars:** wip (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - kanban (1)
 
-#### Kanban board
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/kanban-board-23851398?u=76281980)
+#### [Kanban board](https://www.linkedin.com/learning/agile-software-development/kanban-board-23851398?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1882,7 +1851,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/agile-software-development/kanban-board-23851398?u=76281980&t=4)** It uses a Visual Board to track work, identify bottlenecks, and determine areas that need improvement.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-software-development/kanban-board-23851398?u=76281980&t=13)** In Japanese, the word Kan means Visual, and the word Ban means Card.
+> **[0:13](https://www.linkedin.com/learning/agile-software-development/kanban-board-23851398?u=76281980&t=13)** In Japanese, the [[Microsoft Word|word]] Kan means Visual, and the word Ban means Card.
 >
 > **[0:19](https://www.linkedin.com/learning/agile-software-development/kanban-board-23851398?u=76281980&t=19)** So Kanban means a Visual Card.
 >
@@ -1894,7 +1863,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/agile-software-development/kanban-board-23851398?u=76281980&t=42)** Let's take a look at how a Kanban Board works.
 >
-> **[0:46](https://www.linkedin.com/learning/agile-software-development/kanban-board-23851398?u=76281980&t=46)** Our imaginary Agile Fitness Center Team uses a digital tool called Leankit for their board.
+> **[0:46](https://www.linkedin.com/learning/agile-software-development/kanban-board-23851398?u=76281980&t=46)** Our imaginary [[Agile Development|Agile]] Fitness Center Team uses a digital tool called Leankit for their board.
 >
 > **[0:55](https://www.linkedin.com/learning/agile-software-development/kanban-board-23851398?u=76281980&t=55)** Work items are pulled from the Product Backlog and placed on the first lane or step called Planning Coordination.
 >
@@ -1926,12 +1895,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Word|Word]] (2), [[Agile Development|Agile]] (2), teams (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Agile Development|Agile]] (2)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - kanban (1)
 
-#### Limiting work in progress (WIP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/limiting-work-in-progress-wip-23847541?u=76281980)
+#### [Limiting work in progress (WIP)](https://www.linkedin.com/learning/agile-software-development/limiting-work-in-progress-wip-23847541?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1957,7 +1925,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/agile-software-development/limiting-work-in-progress-wip-23847541?u=76281980&t=59)** We know that we cannot eliminate work in progress, but we also know that WIP needs to be limited.
 >
-> **[1:06](https://www.linkedin.com/learning/agile-software-development/limiting-work-in-progress-wip-23847541?u=76281980&t=66)** We cannot set WIP to 0 because we cannot produce finished products by magic.
+> **[1:06](https://www.linkedin.com/learning/agile-software-development/limiting-work-in-progress-wip-23847541?u=76281980&t=66)** We cannot set WIP to 0 because we cannot produce finished [[Microsoft Products|products]] by magic.
 >
 > **[1:11](https://www.linkedin.com/learning/agile-software-development/limiting-work-in-progress-wip-23847541?u=76281980&t=71)** But why not set WIP to 1 for all steps?
 >
@@ -1991,13 +1959,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** wip (12)
 > **Warnings:** warning (2)
 > **Speakers:** - when (1)
 
-#### How to set WIP limits
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/how-to-set-wip-limits-23846577?u=76281980)
+#### [How to set WIP limits](https://www.linkedin.com/learning/agile-software-development/how-to-set-wip-limits-23846577?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2063,7 +2030,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/agile-software-development/how-to-set-wip-limits-23846577?u=76281980&t=198)** Please note that the work items can be updated on the Kanban board anytime and the team status is transparent to all.
 >
-> **[3:27](https://www.linkedin.com/learning/agile-software-development/how-to-set-wip-limits-23846577?u=76281980&t=207)** Let's look at our agile fitness club team's Kanban board again, and try to figure out where the bottlenecks are.
+> **[3:27](https://www.linkedin.com/learning/agile-software-development/how-to-set-wip-limits-23846577?u=76281980&t=207)** Let's look at our [[Agile Development|agile]] fitness club team's Kanban board again, and try to figure out where the bottlenecks are.
 >
 > **[3:34](https://www.linkedin.com/learning/agile-software-development/how-to-set-wip-limits-23846577?u=76281980&t=214)** One, the planning coordination step is overwhelmed and is over its WIP limit.
 >
@@ -2079,19 +2046,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Env Vars:** wip (15)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is an  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - so (1)
 
-#### Kanban vs. scrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/kanban-vs-scrum-23852430?u=76281980)
+#### [Kanban vs. scrum](https://www.linkedin.com/learning/agile-software-development/kanban-vs-scrum-23852430?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/kanban-vs-scrum-23852430?u=76281980&t=0)** - Both Kanban and Scrum support and facilitate agility.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/kanban-vs-scrum-23852430?u=76281980&t=0)** - Both Kanban and [[Scrum]] support and facilitate agility.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-software-development/kanban-vs-scrum-23852430?u=76281980&t=5)** Scrum is a framework, whereas Kanban is a visual process management tool.
 >
@@ -2111,7 +2077,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/agile-software-development/kanban-vs-scrum-23852430?u=76281980&t=49)** There are no artificial time boundaries, such as the sprint.
 >
-> **[0:53](https://www.linkedin.com/learning/agile-software-development/kanban-vs-scrum-23852430?u=76281980&t=53)** Work is pulled from the product backlog and work items transition through a continuously evolving workflow to become finished products with business value.
+> **[0:53](https://www.linkedin.com/learning/agile-software-development/kanban-vs-scrum-23852430?u=76281980&t=53)** Work is pulled from the product backlog and work items transition through a continuously evolving workflow to become finished [[Microsoft Products|products]] with business value.
 >
 > **[1:04](https://www.linkedin.com/learning/agile-software-development/kanban-vs-scrum-23852430?u=76281980&t=64)** Kanban has a daily standup, but the standup is focused just on bottlenecks and ways to improve the process.
 >
@@ -2147,7 +2113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (10), teams (5), management (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (10), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - both (1)
@@ -2157,12 +2123,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scaling agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980)
+#### [Scaling agile](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980&t=0)** - A few key questions you may be asking yourself are: Is agile scalable?
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980&t=0)** - A few key questions you may be asking yourself are: Is [[Agile Development|agile]] scalable?
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980&t=6)** And do you get the same benefits from larger scale agile implementations than you get from small, nimble teams?
 >
@@ -2176,7 +2141,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980&t=37)** But scaling agile generally means the rate at which features are developed and deployed to market is increased.
 >
-> **[0:46](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980&t=46)** The compelling reason for scaling agile teams is that complex products with large numbers of features that need to be released at a frequent pace cannot be sustained by a single agile team alone.
+> **[0:46](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980&t=46)** The compelling reason for scaling agile teams is that complex [[Microsoft Products|products]] with large numbers of features that need to be released at a frequent pace cannot be sustained by a single agile team alone.
 >
 > **[0:59](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980&t=59)** Those features may need to be released soon, otherwise you could lose out to competition or there could be regulations that require you to release that many features by a certain date.
 >
@@ -2208,23 +2173,22 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980&t=176)** Knowledge and experience of implementing agile principles at a smaller scale is a must for implementing agile at a larger scale.
 >
-> **[3:05](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980&t=185)** Almost all agile scaling frameworks require knowledge of Scrum, Kanban and lean principles.
+> **[3:05](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980&t=185)** Almost all agile scaling frameworks require knowledge of [[Scrum]], Kanban and lean principles.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), teams (10), [[Microsoft Products|Products]] (1), business (1), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), [[Microsoft Products|Products]] (1), [[Scrum]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Scaling frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-23851400?u=76281980)
+#### [Scaling frameworks](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-23851400?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-23851400?u=76281980&t=0)** - Let's take a quick look at a few popular frameworks used for Scaled Agile development.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-23851400?u=76281980&t=0)** - Let's take a quick look at a few popular frameworks used for Scaled [[Agile Development|Agile]] development.
 >
-> **[0:07](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-23851400?u=76281980&t=7)** Nexus was developed by Ken Schwarber, co-inventor of Scrum, and it is essentially Scrum at its core.
+> **[0:07](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-23851400?u=76281980&t=7)** Nexus was developed by Ken Schwarber, co-inventor of [[Scrum]], and it is essentially Scrum at its core.
 >
 > **[0:14](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-23851400?u=76281980&t=14)** Just like Scrum, it is not prescriptive.
 >
@@ -2268,19 +2232,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (32), teams (7), product (3), [[Agile Development|Agile]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Scrum]] (32), [[Agile Development|Agile]] (1)
 > **Env Vars:** sos (2), sds (1), sosos (1)
 > **Definitions:** is an  (2), is a  (1)
 > **URLs:** [scrum.org](https://scrum.org) (2)
 > **Analogies:** just like (2)
 > **Speakers:** - let (1)
 
-#### Scaling frameworks, continued
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-continued-23849469?u=76281980)
+#### [Scaling frameworks, continued](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-continued-23849469?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-continued-23849469?u=76281980&t=0)** - [Instructor] LeSS is another example of Scrum execution by multiple Scrum teams.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-continued-23849469?u=76281980&t=0)** - [Instructor] LeSS is another example of [[Scrum]] execution by multiple Scrum teams.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-continued-23849469?u=76281980&t=6)** It was developed by Craig Larman and Bas Vodde.
 >
@@ -2308,7 +2271,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-continued-23849469?u=76281980&t=129)** This site contains a LeSS map with navigable elements where you can click on an element and be redirected to another page with more details on that element.
 >
-> **[2:21](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-continued-23849469?u=76281980&t=141)** Another popular scaling framework is Scaled Agile Framework, or SAFe.
+> **[2:21](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-continued-23849469?u=76281980&t=141)** Another popular scaling framework is Scaled [[Agile Development|Agile]] Framework, or SAFe.
 >
 > **[2:27](https://www.linkedin.com/learning/agile-software-development/scaling-frameworks-continued-23849469?u=76281980&t=147)** It has gained a lot of popularity in the last few years.
 >
@@ -2348,7 +2311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (16), product (14), teams (9), [[Agile Development|Agile]] (7), functional (2)
+> **Frameworks & Libraries:** [[Scrum]] (16), [[Agile Development|Agile]] (7)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -2362,14 +2325,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980&t=0)** - So, now that you have a solid understanding of agile fundamentals, I encourage you to take a deeper dive to master the finer details.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980&t=0)** - So, now that you have a solid understanding of [[Agile Development|agile]] fundamentals, I encourage you to take a deeper dive to master the finer details.
 >
-> **[0:09](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980&t=9)** We have several courses on scrum in the library, including advanced and enterprise topics.
+> **[0:09](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980&t=9)** We have several courses on [[Scrum]] in the library, including advanced and enterprise topics.
 >
 > **[0:16](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980&t=16)** Additionally, you can find courses on lean practices as well as other topics we have covered.
 >
@@ -2397,7 +2359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (2), [[Programming]] (1), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (2)
 > **URLs:** [agilemanifesto.org](https://agilemanifesto.org) (1), [scrum.org](https://scrum.org) (1), [scrumalliance.org](https://scrumalliance.org) (1), [techfritters.com](https://techfritters.com) (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - so (1)

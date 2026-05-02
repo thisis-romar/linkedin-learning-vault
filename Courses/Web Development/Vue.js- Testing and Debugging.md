@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing Vue applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980)
+#### [Testing Vue applications](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980&t=4)** Contrary to general perception tests are quite fun to write and run.
 >
-> **[0:08](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980&t=8)** You will also learn how to automate your functional tests for repetitive regression tests and also add test to your continuous integration and deployment pipelines to stop bugs from getting into your production code.
+> **[0:08](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980&t=8)** You will also learn how to automate your functional tests for repetitive regression tests and also add test to your [[Continuous Integration (CI)|continuous integration]] and deployment pipelines to stop bugs from getting into your production code.
 >
 > **[0:19](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980&t=19)** Hi, I am Fikayo Adepoju and I have been building applications for over 10 years now.
 >
@@ -107,16 +106,15 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980&t=37)** So sit back, fire up your development machine and let's get started.
 >
-> **[0:41](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980&t=41)** Testing Vue.js applications.
+> **[0:41](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-vue-applications?u=76281980&t=41)** Testing [[Vue.js]] applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Vue.js]] (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1), [[Vue.js]] (1)
 > **File Paths:** vue.js (1)
 > **Speakers:** - [fikayo (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,9 +122,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=5)** You will also need to have a few things set up on your machine to follow along with the examples and exercises in this course.
 >
-> **[0:12](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=12)** The first thing you will need is Node.js installed on your system.
+> **[0:12](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=12)** The first thing you will need is [[Node.js]] installed on your system.
 >
-> **[0:15](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=15)** Node.js is a JavaScript runtime popularly used for building backend applications using JavaScript.
+> **[0:15](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=15)** Node.js is a [[JavaScript]] runtime popularly used for building backend applications using JavaScript.
 >
 > **[0:22](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=22)** Node.js can be downloaded for any operating system platform from the official Node.js website at [nodejs.org](https://nodejs.org).
 >
@@ -134,11 +132,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=34)** The minimum required version of Node.js to engage with this course is version 12.
 >
-> **[0:39](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=39)** The next item on the requirements list is the Vue.js CLI tool.
+> **[0:39](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=39)** The next item on the requirements list is the [[Vue.js]] [[CLI]] tool.
 >
 > **[0:44](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=44)** This tool is used for scaffolding and managing Vue.js projects.
 >
-> **[0:48](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=48)** As of the time of this recording, the tool can be installed by running the command NPM install -G @vue/cli.
+> **[0:48](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=48)** As of the time of this recording, the tool can be installed by running the command [[npm]] install -G @[[Vue.js|vue]]/cli.
 >
 > **[0:58](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=58)** This will invoke the NPM tool to install the CLI on your system globally and make it accessible from any location in your file system.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=78)** This will install the CLI globally, just like the NPM packet manager would.
 >
-> **[1:24](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=84)** The browser that will be used in this course is the Google Chrome browser.
+> **[1:24](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=84)** The browser that will be used in this course is the [[Google]] Chrome browser.
 >
 > **[1:27](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=87)** Google Chrome has a set of battle-tested developer tools that we will be making use of in our debugging and testing activities in this course.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=118)** VS Code has amazing support for writing Vue.js code with a community of plugins that make the development experience a blissful one.
 >
-> **[2:06](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=126)** Asides these tools, you also require a basic experience in web technologies, that is HTML, CSS and JavaScript.
+> **[2:06](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=126)** Asides these tools, you also require a basic experience in web technologies, that is [[HTML]], CSS and JavaScript.
 >
 > **[2:15](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-you-should-know?u=76281980&t=135)** You also need some experience building applications with Vue.js.
 >
@@ -181,14 +179,13 @@ created: 2026-05-02
 > **Versions:** version 12 (1), version 80 (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 
-#### Exercise files for testing and debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/exercise-files-for-testing-and-debugging?u=76281980)
+#### [Exercise files for testing and debugging](https://www.linkedin.com/learning/vue-js-testing-and-debugging/exercise-files-for-testing-and-debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/exercise-files-for-testing-and-debugging?u=76281980&t=0)** - [Instructor] The exercise files for this course are available on the LinkedIn Learning official GitHub repo.
+> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/exercise-files-for-testing-and-debugging?u=76281980&t=0)** - [Instructor] The exercise files for this course are available on the [[LinkedIn]] Learning official [[GitHub]] repo.
 >
-> **[0:06](https://www.linkedin.com/learning/vue-js-testing-and-debugging/exercise-files-for-testing-and-debugging?u=76281980&t=6)** The files are for the Vue JS project we'll be testing in this course.
+> **[0:06](https://www.linkedin.com/learning/vue-js-testing-and-debugging/exercise-files-for-testing-and-debugging?u=76281980&t=6)** The files are for the [[Vue.js|Vue]] JS project we'll be testing in this course.
 >
 > **[0:10](https://www.linkedin.com/learning/vue-js-testing-and-debugging/exercise-files-for-testing-and-debugging?u=76281980&t=10)** The starting point for each exercise has been organized into branches for you to conveniently follow along.
 >
@@ -205,8 +202,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why you need to test
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/why-you-need-to-test?u=76281980)
+#### [Why you need to test](https://www.linkedin.com/learning/vue-js-testing-and-debugging/why-you-need-to-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,7 +236,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), feature (1)
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
@@ -249,8 +244,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the sample project
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980)
+#### [Setting up the sample project](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -258,11 +252,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=5)** For this, you will need to have your command line terminal open.
 >
-> **[0:08](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=8)** I already have this open and we'll be going in to the command to pull the project from the remote GitHub repository.
+> **[0:08](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=8)** I already have this open and we'll be going in to the command to pull the project from the remote [[GitHub]] repository.
 >
 > **[0:14](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=14)** Whilst you have your terminal open, navigate to the location in your file system where you want to have the demo project.
 >
-> **[0:20](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=20)** At this location, type the command git clone and the location of the project, then hit enter.
+> **[0:20](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=20)** At this location, type the command [[Git]] clone and the location of the project, then hit enter.
 >
 > **[0:27](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=27)** This will pull the project from the remote repository into your current location on the terminal.
 >
@@ -274,7 +268,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=46)** This might take a while, so you might want to come back when the installation is done.
 >
-> **[0:51](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=51)** Once the dependencies have been installed, you can then run the project by running the command NPM run serve.
+> **[0:51](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=51)** Once the dependencies have been installed, you can then run the project by running the command [[npm]] run serve.
 >
 > **[0:59](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-the-sample-project?u=76281980&t=59)** This will kick off the process of booting up the local development server for the view application.
 >
@@ -308,7 +302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (2), [[GitHub]] (1), [[Git]] (1), hit (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Git]] (1), [[npm]] (1)
 > **Tools:** terminal (3), command line (1), github (1)
 > **CLI Commands:** git (1), cd (1), npm (1)
 > **Env Vars:** mpm (1), npm (1)
@@ -317,12 +311,11 @@ created: 2026-05-02
 > **URLs:** [test.com](https://test.com) (1)
 > **Cross-References:** in the next (1)
 
-#### What makes up a testing toolkit?
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-makes-up-a-testing-toolkit?u=76281980)
+#### [What makes up a testing toolkit?](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-makes-up-a-testing-toolkit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-makes-up-a-testing-toolkit?u=76281980&t=0)** - [Instructor] In order to test Vue.js applications there are a couple of tools required.
+> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-makes-up-a-testing-toolkit?u=76281980&t=0)** - [Instructor] In order to test [[Vue.js]] applications there are a couple of tools required.
 >
 > **[0:04](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-makes-up-a-testing-toolkit?u=76281980&t=4)** These tools will be set up as development dependencies in your application.
 >
@@ -330,7 +323,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-makes-up-a-testing-toolkit?u=76281980&t=11)** A testing library is used to scaffold and structure test cases.
 >
-> **[0:15](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-makes-up-a-testing-toolkit?u=76281980&t=15)** One of the most popular JavaScript testing libraries is Mocha.
+> **[0:15](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-makes-up-a-testing-toolkit?u=76281980&t=15)** One of the most popular [[JavaScript]] testing libraries is Mocha.
 >
 > **[0:19](https://www.linkedin.com/learning/vue-js-testing-and-debugging/what-makes-up-a-testing-toolkit?u=76281980&t=19)** The Jest testing framework also contains a testing library, built-in.
 >
@@ -380,19 +373,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js]] (2), application (2), next (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Vue.js]] (2), [[JavaScript]] (1)
 > **File Paths:** vue.js (2), chai.js (2), istanbul.js (2)
 > **Definitions:** is a  (4), is an  (1), known as (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting started with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980)
+#### [Getting started with Jest](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=0)** - Jest is a testing framework for JavaScript applications.
+> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=0)** - Jest is a testing framework for [[JavaScript]] applications.
 >
 > **[0:03](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=3)** One of the major advantages of Jest is that it has all the five testing tools described in the previous video built-in.
 >
@@ -400,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=17)** The Jest testing framework can be used to test any of the three most popular front end frameworks.
 >
-> **[0:24](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=24)** That is Angular, React, and, of course, Vue.js.
+> **[0:24](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=24)** That is [[Angular]], [[React.js|React]], and, of course, [[Vue.js]].
 >
 > **[0:28](https://www.linkedin.com/learning/vue-js-testing-and-debugging/getting-started-with-jest?u=76281980&t=28)** Jest can also be configured to work with any custom JavaScript project setup you have.
 >
@@ -416,7 +408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), api (2), [[Angular]] (1), [[React.js|React]] (1), [[Vue.js]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Angular]] (1), [[React.js|React]] (1), [[Vue.js]] (1)
 > **Env Vars:** api (2)
 > **File Paths:** vue.js (1)
 > **Cross-References:** previous video (1)
@@ -424,8 +416,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - jest (1)
 
-#### Syntax error checking with ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980)
+#### [Syntax error checking with ESLint](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=12)** To follow along with this exercise, make sure that you are on the 01_04b branch of the project.
 >
-> **[0:19](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=19)** The easiest way to add linting to your Vue.js project is by using the Vue CLI add function to install and configure the ESLint packet.
+> **[0:19](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=19)** The easiest way to add linting to your [[Vue.js]] project is by using the [[Vue.js|Vue]] [[CLI]] add function to install and configure the [[ESLint]] packet.
 >
 > **[0:26](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=26)** Make sure you're at the root of your project and run the command vue add @vue/cli dash plugin dash eslint.
 >
@@ -469,7 +460,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=101)** This is the configuration file for the ESLint package.
 >
-> **[1:44](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=104)** Another item added by the setup process can be found in the package.json file.
+> **[1:44](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=104)** Another item added by the setup process can be found in the package.[[JSON]] file.
 >
 > **[1:49](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=109)** A lint script has an added to the list of scripts.
 >
@@ -479,7 +470,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=117)** Let's head over to the terminal.
 >
-> **[1:59](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=119)** At the root of the project, run the lint script by typing NPM run lint.
+> **[1:59](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=119)** At the root of the project, run the lint script by typing [[npm]] run lint.
 >
 > **[2:05](https://www.linkedin.com/learning/vue-js-testing-and-debugging/syntax-error-checking-with-eslint?u=76281980&t=125)** At this point of the project, the linter reports that no errors were found as the project does not contain any syntax errors at the moment.
 >
@@ -497,7 +488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (7), [[Vue.js|Vue]] (4), [[Vue.js]] (2), [[CLI]] (2), prompt (2)
+> **Frameworks & Libraries:** [[ESLint]] (7), [[Vue.js|Vue]] (4), [[Vue.js]] (2), [[CLI]] (2), [[JSON]] (1)
 > **Prerequisites:** setup (4), install (2), configure (1)
 > **File Paths:** vue.js (2), eslint.rc.js (1), package.json (1)
 > **CLI Commands:** make (2), npm (1)
@@ -511,18 +502,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing and running Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980)
+#### [Installing and running Jest](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=0)** - Now that we understand Jest and what it does, let's get it installed and set up in our project.
 >
-> **[0:06](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=6)** To install Jest, have your command line open at the root of the Vue.js project.
+> **[0:06](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=6)** To install Jest, have your command line open at the root of the [[Vue.js]] project.
 >
 > **[0:11](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=11)** To follow along with this video, you need the 02_01b branch of the project.
 >
-> **[0:17](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=17)** So check the branch out of the remote repository using git, now run the command to install the jest package as a development dependency.
+> **[0:17](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=17)** So check the branch out of the remote repository using [[Git]], now run the command to install the jest package as a development dependency.
 >
 > **[0:30](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=30)** Now, this process is going to take a while, so you can take a short break, maybe check on your emails, then turn back when it's done.
 >
@@ -532,13 +522,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=49)** The output of running jest at this point indicates that there are no tests currently available in the project.
 >
-> **[0:55](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=55)** The way we just ran jest is not a standard way we will be running into command, we'll be creating an NPM script for that.
+> **[0:55](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=55)** The way we just ran jest is not a standard way we will be running into command, we'll be creating an [[npm]] script for that.
 >
-> **[1:02](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=62)** To add the NPM script, locate the package.json file in your text editor.
+> **[1:02](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=62)** To add the NPM script, locate the package.[[JSON]] file in your text editor.
 >
 > **[1:09](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=69)** Now add the test script in the script section and set it to call the jest command, this way each time we run the test script, the jest command we'll run.
 >
-> **[1:19](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=79)** Let's go ahead and test that out in the CLI.
+> **[1:19](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=79)** Let's go ahead and test that out in the [[CLI]].
 >
 > **[1:22](https://www.linkedin.com/learning/vue-js-testing-and-debugging/installing-and-running-jest?u=76281980&t=82)** I do it on the project once again, run the test script using NPM, as seen we get the same results as we did when we just ran the jest command, but this time we have some errors coming from NPM terminating the process.
 >
@@ -554,8 +544,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - now (1)
 
-#### Testing strings using matchers
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-strings-using-matchers?u=76281980)
+#### [Testing strings using matchers](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-strings-using-matchers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,15 +620,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), application (1), next (1)
 > **CLI Commands:** make (2)
 > **Tools:** command line (1), terminal (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** known as (1)
 > **Speakers:** - are (1)
 
-#### Testing numeric values
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-numeric-values?u=76281980)
+#### [Testing numeric values](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-numeric-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -681,7 +668,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-numeric-values?u=76281980&t=96)** One for the strings test, from a previous video and the one we just added for testing numeric values.
 >
-> **[1:42](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-numeric-values?u=76281980&t=102)** If we want npm, run test, Jest will run all the tests suites currently available within the project.
+> **[1:42](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-numeric-values?u=76281980&t=102)** If we want [[npm]], run test, Jest will run all the tests suites currently available within the project.
 >
 > **[1:47](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-numeric-values?u=76281980&t=107)** We can, however, run a specific test suite by adding a space and the name of the test suite file, after the test command.
 >
@@ -735,7 +722,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-numeric-values?u=76281980&t=238)** Turns out floating point numbers often have rounding up errors.
 >
-> **[4:02](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-numeric-values?u=76281980&t=242)** and this is common across different programming languages, JavaScript inclusive.
+> **[4:02](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-numeric-values?u=76281980&t=242)** and this is common across different programming languages, [[JavaScript]] inclusive.
 >
 > **[4:07](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-numeric-values?u=76281980&t=247)** As seen, the result didn't turn out to be exactly 0.3.
 >
@@ -755,7 +742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1), [[npm]] (1), application (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[JavaScript]] (1)
 > **Versions:** 0.3 (3), 0.4 (1), 0.5 (1), 0.9 (1), 0.1 (1)
 > **Code Identifiers:** addnumbers (4), toequal (2), tobecloseto (1)
 > **Non-Speech:** (keyboard typing) (7)
@@ -764,8 +751,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2), npm (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 
-#### Testing objects and arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-objects-and-arrays?u=76281980)
+#### [Testing objects and arrays](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-objects-and-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-objects-and-arrays?u=76281980&t=37)** For this exercise, two additional properties are now present in the utilities model.
 >
-> **[0:43](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-objects-and-arrays?u=76281980&t=43)** A countries collection array, which holds string names of five countries and a user object, John Doe, which contains bio-data properties of a fictitious user name, you guessed it, John Doe.
+> **[0:43](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-objects-and-arrays?u=76281980&t=43)** A countries collection array, which holds string names of five countries and a user object, [[John the Ripper|John]] Doe, which contains bio-data properties of a fictitious user name, you guessed it, John Doe.
 >
 > **[0:56](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-objects-and-arrays?u=76281980&t=56)** Just like the 'addNumbers' function, these new properties have been included in the models exports.
 >
@@ -837,7 +823,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-objects-and-arrays?u=76281980&t=227)** A change in any of the key value pairs can cause the test to fail if it is not contained in the John Doe object as specified.
 >
-> **[3:54](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-objects-and-arrays?u=76281980&t=234)** For example, let's head back to our test file and change occupation to programmer, save this file and return to the CLI to run the test once again.
+> **[3:54](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-objects-and-arrays?u=76281980&t=234)** For example, let's head back to our test file and change occupation to programmer, save this file and return to the [[CLI]] to run the test once again.
 >
 > **[4:05](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-objects-and-arrays?u=76281980&t=245)** You can see that the test now fail as the occupation key value pair is not as we have it in our John Doe object.
 >
@@ -847,7 +833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Search]] (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (9), [[CLI]] (1)
 > **Code Identifiers:** tocontain (3), objectcontaining (2), addnumbers (1), toequal (1)
 > **Tools:** command line (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -856,8 +842,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Env Vars:** cli (1)
 
-#### Organizing tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/organizing-tests?u=76281980)
+#### [Organizing tests](https://www.linkedin.com/learning/vue-js-testing-and-debugging/organizing-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,7 +888,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/vue-js-testing-and-debugging/organizing-tests?u=76281980&t=121)** Back in the editor, let's switch the position of the numeric test for that of the object test group.
 >
-> **[2:08](https://www.linkedin.com/learning/vue-js-testing-and-debugging/organizing-tests?u=76281980&t=128)** Now save the file and return to the CLI once again to run the test.
+> **[2:08](https://www.linkedin.com/learning/vue-js-testing-and-debugging/organizing-tests?u=76281980&t=128)** Now save the file and return to the [[CLI]] once again to run the test.
 >
 > **[2:13](https://www.linkedin.com/learning/vue-js-testing-and-debugging/organizing-tests?u=76281980&t=133)** As observed, this time the order changes, and we see the arrays and objects tests running before the numeric tests.
 >
@@ -915,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **File Paths:** organized.js (1)
 > **Env Vars:** cli (1)
 > **Tools:** command line (1)
@@ -923,8 +908,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing asynchronous code
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-asynchronous-code?u=76281980)
+#### [Testing asynchronous code](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-asynchronous-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,7 +972,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-asynchronous-code?u=76281980&t=182)** Just like the previous version of the test, we use the to be matcher to assert the expected string output of hello world.
 >
-> **[3:09](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-asynchronous-code?u=76281980&t=189)** Save this file and return to the CLI to run the test.
+> **[3:09](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-asynchronous-code?u=76281980&t=189)** Save this file and return to the [[CLI]] to run the test.
 >
 > **[3:15](https://www.linkedin.com/learning/vue-js-testing-and-debugging/testing-asynchronous-code?u=76281980&t=195)** As expected, we have passing tests once again.
 >
@@ -1000,7 +984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), api (2), data (1), [[CLI]] (1), functional (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** api (2), cli (1)
 > **CLI Commands:** make (2)
 > **File Paths:** async.js (1)
@@ -1008,8 +992,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing test coverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/analyzing-test-coverage?u=76281980)
+#### [Analyzing test coverage](https://www.linkedin.com/learning/vue-js-testing-and-debugging/analyzing-test-coverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,7 +1006,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/vue-js-testing-and-debugging/analyzing-test-coverage?u=76281980&t=25)** So make sure you are on the 02_07b branch.
 >
-> **[0:29](https://www.linkedin.com/learning/vue-js-testing-and-debugging/analyzing-test-coverage?u=76281980&t=29)** Adding test coverage in Jest is pretty straightforward, go into the package.json file and simply add the --coverage flag to the Jest command in the test clip content in the package.json file.
+> **[0:29](https://www.linkedin.com/learning/vue-js-testing-and-debugging/analyzing-test-coverage?u=76281980&t=29)** Adding test coverage in Jest is pretty straightforward, go into the package.[[JSON]] file and simply add the --coverage flag to the Jest command in the test clip content in the package.json file.
 >
 > **[0:42](https://www.linkedin.com/learning/vue-js-testing-and-debugging/analyzing-test-coverage?u=76281980&t=42)** With this added, a test coverage report will be generated anytime we run the test script.
 >
@@ -1043,7 +1026,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/vue-js-testing-and-debugging/analyzing-test-coverage?u=76281980&t=86)** This is indicated by the hundred percent score under the functions column.
 >
-> **[1:31](https://www.linkedin.com/learning/vue-js-testing-and-debugging/analyzing-test-coverage?u=76281980&t=91)** One side effect of running code coverage is that the tool also generates an HTML test report.
+> **[1:31](https://www.linkedin.com/learning/vue-js-testing-and-debugging/analyzing-test-coverage?u=76281980&t=91)** One side effect of running code coverage is that the tool also generates an [[HTML]] test report.
 >
 > **[1:36](https://www.linkedin.com/learning/vue-js-testing-and-debugging/analyzing-test-coverage?u=76281980&t=96)** This page gives us a more detailed and interactive report.
 >
@@ -1091,7 +1074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), [[HTML]] (2), application (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[HTML]] (2)
 > **File Paths:** package.json (2), index.html (1), testmodule.js (1), async.js (1)
 > **UI Navigation:** open the (3), click on (2)
 > **Definitions:** is an  (2), means that (1)
@@ -1105,12 +1088,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mounting components using render
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980)
+#### [Mounting components using render](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=0)** - [Instructor] Now that we have a good understanding of testing JavaScript data types, it's time to start testing Vue JS components.
+> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=0)** - [Instructor] Now that we have a good understanding of testing [[JavaScript]] data types, it's time to start testing [[Vue.js|Vue]] JS components.
 >
 > **[0:07](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=7)** Vue JS component needs to be mounted into a DOM environment for it to be used.
 >
@@ -1126,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=39)** The first set of packages we would install is the 'vue test utils' package and the 'vue jest' package.
 >
-> **[0:45](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=45)** The 'vue test utils' library is the official unit testing utility library for Vue JS.
+> **[0:45](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=45)** The 'vue test utils' library is the official [[Unit Testing]] utility library for Vue JS.
 >
 > **[0:50](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=50)** It provides all the low-level APIs for mounting and working with Vue JS components.
 >
@@ -1134,7 +1116,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=61)** Simply put, it allows us to work with Vue JS components in the Jest environment.
 >
-> **[1:06](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=66)** Install these two libraries at development dependencies using NPM.
+> **[1:06](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=66)** Install these two libraries at development dependencies using [[npm]].
 >
 > **[1:14](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=74)** Once this installation is done, we need to add some configurations to our project.
 >
@@ -1146,7 +1128,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=102)** First, we include the model file extensions property.
 >
-> **[1:47](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=107)** Then, we'll include 'js', 'json' and 'vue' to tell Jest to process '.vue' files.
+> **[1:47](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=107)** Then, we'll include 'js', '[[JSON]]' and 'vue' to tell Jest to process '.vue' files.
 >
 > **[1:55](https://www.linkedin.com/learning/vue-js-testing-and-debugging/mounting-components-using-render?u=76281980&t=115)** Next, we include the transform property and instruct it to transform our vue files using 'vue-jest'.
 >
@@ -1210,7 +1192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (30), next (4), dom (3), application (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (30), [[JavaScript]] (1), [[Unit Testing]] (1), [[npm]] (1), [[JSON]] (1)
 > **Env Vars:** dom (3), esx (2), npm (1)
 > **Prerequisites:** install (5), set up (1)
 > **File Paths:** mount.js (3), jest.config (1)
@@ -1219,8 +1201,7 @@ created: 2026-05-02
 > **Code Identifiers:** getbytext (1)
 > **Cross-References:** in the next (1)
 
-#### Accessing elements within a component
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/accessing-elements-within-a-component?u=76281980)
+#### [Accessing elements within a component](https://www.linkedin.com/learning/vue-js-testing-and-debugging/accessing-elements-within-a-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1268,7 +1249,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/vue-js-testing-and-debugging/accessing-elements-within-a-component?u=76281980&t=116)** Now let's take a look at the case where the text is incomplete.
 >
-> **[1:59](https://www.linkedin.com/learning/vue-js-testing-and-debugging/accessing-elements-within-a-component?u=76281980&t=119)** Back in the editor, let's remove the word account from the search string.
+> **[1:59](https://www.linkedin.com/learning/vue-js-testing-and-debugging/accessing-elements-within-a-component?u=76281980&t=119)** Back in the editor, let's remove the [[Microsoft Word|word]] account from the search string.
 >
 > **[2:04](https://www.linkedin.com/learning/vue-js-testing-and-debugging/accessing-elements-within-a-component?u=76281980&t=124)** Now save the file and run the test once again.
 >
@@ -1282,7 +1263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), application (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** getbytext (2)
 > **File Paths:** mount.js (1)
 > **CLI Commands:** make (1)
@@ -1290,8 +1271,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Firing events on components
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/firing-events-on-components?u=76281980)
+#### [Firing events on components](https://www.linkedin.com/learning/vue-js-testing-and-debugging/firing-events-on-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1353,7 +1333,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), application (2), next (1)
 > **CLI Commands:** make (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
@@ -1363,8 +1342,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debugging errors using Chrome DevTools
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980)
+#### [Debugging errors using Chrome DevTools](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=35)** So far in this course, we have been making use of the Chrome browser.
 >
-> **[0:39](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=39)** The Chrome browser currently accounts for over 60% of global browser usage according to current usage statistics.
+> **[0:39](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=39)** The Chrome browser currently accounts for over 60% of global browser usage according to current usage [[Statistics]].
 >
 > **[0:47](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=47)** Over time, Chrome has also received significant updates to its developer tool.
 >
@@ -1404,7 +1382,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=98)** Open the developer tools and first check the console to find out if there are any errors present.
 >
-> **[1:44](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=104)** And as suspected, we have an error, if we zoom closely into the error message, we see a statement that says "Cannot read property push of undefined."
+> **[1:44](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=104)** And as suspected, we have an error, if we [[Zoom]] closely into the error message, we see a statement that says "Cannot read property push of undefined."
 >
 > **[1:55](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=115)** The statement error in V-on handler indicates that this error is taking place on an event handler.
 >
@@ -1422,7 +1400,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=153)** One of the amazing features of the error reporting in Chrome's console is that you can simply click on the file and be taken directly to where in the code the error is coming from.
 >
-> **[2:42](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=162)** Let's click Home.vue in the console to look at the error location.
+> **[2:42](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=162)** Let's click Home.[[Vue.js|vue]] in the console to look at the error location.
 >
 > **[2:45](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-errors-using-chrome-devtools?u=76281980&t=165)** If you notice there is a yellow flash on the error line, it disappeared quickly, so you may not have noticed.
 >
@@ -1458,7 +1436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Debugging]] (2), [[Statistics]] (1), [[Zoom]] (1), generic (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Zoom]] (1), [[Vue.js|Vue]] (1)
 > **UI Navigation:** open the (2), scroll down (1), click on (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -1467,20 +1445,19 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Prerequisites:** set up (1)
 
-#### Setting up Vue Devtools
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980)
+#### [Setting up Vue Devtools](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980&t=0)** - [Instructor] Debugging Vue.js apps with browser Developer tools is great.
+> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980&t=0)** - [Instructor] Debugging [[Vue.js]] apps with browser Developer tools is great.
 >
-> **[0:03](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980&t=3)** But if you are looking for a solution custom-made for troubleshooting Vue.js applications, the Vue Developer tools is the way to go.
+> **[0:03](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980&t=3)** But if you are looking for a solution custom-made for troubleshooting Vue.js applications, the [[Vue.js|Vue]] Developer tools is the way to go.
 >
 > **[0:10](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980&t=10)** The Vue Developer tools was created by the Vue.js team to improve the developer experience building Vue.js applications.
 >
 > **[0:16](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980&t=16)** This tool exists as a browser plugin.
 >
-> **[0:18](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980&t=18)** And as at the time of this recording, only supports the Google Chrome and Firefox browsers.
+> **[0:18](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980&t=18)** And as at the time of this recording, only supports the [[Google]] Chrome and Firefox browsers.
 >
 > **[0:23](https://www.linkedin.com/learning/vue-js-testing-and-debugging/setting-up-vue-devtools?u=76281980&t=23)** To get the tool installed on your Chrome or Firefox, simply google Vue Developer tools.
 >
@@ -1514,7 +1491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (8), [[Vue.js]] (5), [[Google]] (2), [[Debugging]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (8), [[Vue.js]] (5), [[Google]] (2)
 > **File Paths:** vue.js (5)
 > **UI Navigation:** click on (1), go to (1), open the (1)
 > **Tools:** firefox (2)
@@ -1523,14 +1500,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Debugging with Vue Devtools
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980)
+#### [Debugging with Vue Devtools](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=0)** - [Instructor] To follow along with this video, make sure you're on the 04_03b branch of the project.
 >
-> **[0:07](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=7)** Now that we have the Vue developer tools installed, let's walk through the tool, to understand how we can use it for debugging our Vue.js applications.
+> **[0:07](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=7)** Now that we have the [[Vue.js|Vue]] developer tools installed, let's walk through the tool, to understand how we can use it for debugging our [[Vue.js]] applications.
 >
 > **[0:14](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=14)** In the Chrome developer tools, click on the Vue tools tab.
 >
@@ -1556,7 +1532,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=61)** These include the route path, route name, query parameters and many other useful properties.
 >
-> **[1:09](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=69)** You also have information about the component's data properties, and you can inspect them as they change in real-time.
+> **[1:09](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=69)** You also have information about the component's data properties, and you can inspect them as they change in [[Real-Time]].
 >
 > **[1:16](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=76)** For example, observe what happens to the show arrow variable.
 >
@@ -1576,7 +1552,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=111)** This opens the elements tab in Chrome developer tools, and immediately selects the container element for the component.
 >
-> **[1:57](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=117)** You can expand this to view and walk through the inner HTML.
+> **[1:57](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=117)** You can expand this to view and walk through the inner [[HTML]].
 >
 > **[2:02](https://www.linkedin.com/learning/vue-js-testing-and-debugging/debugging-with-vue-devtools?u=76281980&t=122)** This allows you to use the built-in browser DevTools to inspect the actual markup.
 >
@@ -1628,7 +1604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (7), data (4), [[Vue.js]] (3), [[Debugging]] (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (7), [[Vue.js]] (3), [[Real-Time]] (2), [[HTML]] (2)
 > **File Paths:** vue.js (3)
 > **Env Vars:** html (2), dom (1)
 > **UI Navigation:** click on (3)
@@ -1637,12 +1613,11 @@ created: 2026-05-02
 > **Warnings:** note that (1), be careful (1)
 > **CLI Commands:** make (1)
 
-#### Tracking and debugging state
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/tracking-and-debugging-state?u=76281980)
+#### [Tracking and debugging state](https://www.linkedin.com/learning/vue-js-testing-and-debugging/tracking-and-debugging-state?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/tracking-and-debugging-state?u=76281980&t=0)** - [Instructor] State management is a huge part of front end development in today's world of web development.
+> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/tracking-and-debugging-state?u=76281980&t=0)** - [Instructor] State management is a huge part of front end development in today's world of [[Web Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/vue-js-testing-and-debugging/tracking-and-debugging-state?u=76281980&t=5)** The most popular architectures for managing states make use of a central store.
 >
@@ -1662,7 +1637,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/vue-js-testing-and-debugging/tracking-and-debugging-state?u=76281980&t=46)** This piece of data referenced from the store is then used in the page templates to display the user's info.
 >
-> **[0:53](https://www.linkedin.com/learning/vue-js-testing-and-debugging/tracking-and-debugging-state?u=76281980&t=53)** At this moment, a state bug exists in the app, which we'll use the Vue.js developer tools to inspect.
+> **[0:53](https://www.linkedin.com/learning/vue-js-testing-and-debugging/tracking-and-debugging-state?u=76281980&t=53)** At this moment, a state bug exists in the app, which we'll use the [[Vue.js]] developer tools to inspect.
 >
 > **[1:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/tracking-and-debugging-state?u=76281980&t=60)** Let's log in to the application to find out what the bug is.
 >
@@ -1724,7 +1699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (4), [[Vue.js]] (3), management (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Vue.js]] (3), [[Web Development]] (1)
 > **CLI Commands:** make (3), find (1)
 > **File Paths:** vue.js (3)
 > **Definitions:** is a  (3)
@@ -1732,16 +1707,15 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running a performance audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980)
+#### [Running a performance audit](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=0)** - [Instructor] Performance is a big deal in front-end applications.
 >
-> **[0:03](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=3)** Written statistics have shown that a delay as low as 10 milliseconds can cost sites to lose traffic.
+> **[0:03](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=3)** Written [[Statistics]] have shown that a delay as low as 10 milliseconds can cost sites to lose traffic.
 >
-> **[0:09](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=9)** So, how do you measure performance of a vue.js application?
+> **[0:09](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=9)** So, how do you measure performance of a [[Vue.js]] application?
 >
 > **[0:12](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=12)** How do you track down performance bottlenecks in order to fix them?
 >
@@ -1773,7 +1747,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=79)** Here, you want to make sure that your page animations are running at 60 frames per second, and you have very little of these red bars.
 >
-> **[1:25](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=85)** The red bars indicate that the FPS dropped to a point that might harm user experience.
+> **[1:25](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=85)** The red bars indicate that the FPS dropped to a point that might harm [[User Experience (UX)|user experience]].
 >
 > **[1:30](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=90)** A full red bar running across white lens shows that you need to do some major optimization to avoid page junk.
 >
@@ -1805,9 +1779,9 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=160)** To further help up with this, Chrome dev tools provides the frames per second meter.
 >
-> **[2:45](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=165)** This meter helps you visualize the frames metrics in real-time.
+> **[2:45](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=165)** This meter helps you visualize the frames metrics in [[Real-Time]].
 >
-> **[2:50](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=170)** To pull up the meter, type Command + Shift + P on Mac, or Ctrl + Shift + B on Windows, to open the command menu, then type rendering in the search field and select show frames per second meter.
+> **[2:50](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=170)** To pull up the meter, type Command + Shift + P on Mac, or Ctrl + Shift + B on [[Windows]], to open the command menu, then type rendering in the search field and select show frames per second meter.
 >
 > **[3:05](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-performance-audit?u=76281980&t=185)** This will pull up the show frames per second meter which shows you the frames per second in real-time as you use the application.
 >
@@ -1823,7 +1797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Real-Time]] (2), front-end (1), [[Statistics]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Statistics]] (1), [[Vue.js]] (1), [[User Experience (UX)|User experience]] (1), [[Windows]] (1)
 > **Env Vars:** cpu (8), fps (4)
 > **UI Navigation:** open the (3), click on (2), switch to (1)
 > **CLI Commands:** make (4)
@@ -1836,14 +1810,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Cypress
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980)
+#### [Introduction to Cypress](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980&t=0)** - [Instructor] Being able to test an application just the way an end user would use it, is the best form of functional testing.
 >
-> **[0:06](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980&t=6)** This type of testing gives the most useful feedback in terms of user experience.
+> **[0:06](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980&t=6)** This type of testing gives the most useful feedback in terms of [[User Experience (UX)|user experience]].
 >
 > **[0:12](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980&t=12)** However, with these benefits come the laborious task of having to perform these tests manually.
 >
@@ -1857,7 +1830,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980&t=38)** Cypress is easy to set up, fast, and highly reliable.
 >
-> **[0:42](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980&t=42)** If you're like me and you've used Selenium in the past, and I've had to deal with different browser versions and timeout issues, you would find Cypress to be a breath of fresh air.
+> **[0:42](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980&t=42)** If you're like me and you've used [[Selenium]] in the past, and I've had to deal with different browser versions and timeout issues, you would find Cypress to be a breath of fresh air.
 >
 > **[0:51](https://www.linkedin.com/learning/vue-js-testing-and-debugging/introduction-to-cypress?u=76281980&t=51)** Cypress is free and open source, thus you can start using it right away.
 >
@@ -1873,7 +1846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), functional (2), [[Selenium]] (2), [[User Experience (UX)|User experience]] (1), feature (1)
+> **Frameworks & Libraries:** [[Selenium]] (2), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** vjs (1)
 > **Cross-References:** in the next (1)
@@ -1881,8 +1854,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running a simple end-to-end test with Cypress
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-simple-end-to-end-test-with-cypress?u=76281980)
+#### [Running a simple end-to-end test with Cypress](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-simple-end-to-end-test-with-cypress?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1892,7 +1864,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-simple-end-to-end-test-with-cypress?u=76281980&t=11)** To follow along with this video, make sure you're on the 05_02 branch of the project.
 >
-> **[0:17](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-simple-end-to-end-test-with-cypress?u=76281980&t=17)** Cypress is available as an NPM package.
+> **[0:17](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-simple-end-to-end-test-with-cypress?u=76281980&t=17)** Cypress is available as an [[npm]] package.
 >
 > **[0:19](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-simple-end-to-end-test-with-cypress?u=76281980&t=19)** Thus, we can install it using NPM.
 >
@@ -1970,7 +1942,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-simple-end-to-end-test-with-cypress?u=76281980&t=233)** To populate our form fields, we use the get method on the cy objects to target the form elements, using their CSS selectors.
 >
-> **[4:09](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-simple-end-to-end-test-with-cypress?u=76281980&t=249)** In the home.vue component, we see that the form fields now have unique classes to directly target them, and same for the button.
+> **[4:09](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-simple-end-to-end-test-with-cypress?u=76281980&t=249)** In the home.[[Vue.js|vue]] component, we see that the form fields now have unique classes to directly target them, and same for the button.
 >
 > **[4:20](https://www.linkedin.com/learning/vue-js-testing-and-debugging/running-a-simple-end-to-end-test-with-cypress?u=76281980&t=260)** Using the get method, let's target the email field.
 >
@@ -2006,7 +1978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), node (4), [[npm]] (3), next (3), css (2)
+> **Frameworks & Libraries:** [[npm]] (3), [[Vue.js|Vue]] (1)
 > **CLI Commands:** make (4), node (4), npm (3), npx (1)
 > **Env Vars:** npm (3), url (2), css (2), mpx (1), npx (1)
 > **UI Navigation:** click on (1), open the (1)
@@ -2015,8 +1987,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Best Practices:** good practice (1)
 
-#### Automated testing with CircleCI
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980)
+#### [Automated testing with CircleCI](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2030,25 +2001,25 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=17)** We need a way to automate this in such a way that tests guard unhealthy code from being pushed to production.
 >
-> **[0:24](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=24)** In today's DevOps world, the solution is continuous integration pipelines.
+> **[0:24](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=24)** In today's [[DevOps]] world, the solution is [[Continuous Integration (CI)|continuous integration]] pipelines.
 >
 > **[0:30](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=30)** Continuous integration pipelines, monitor code repositories, and ensure that tests run automatically whenever new code is pushed to a branch.
 >
 > **[0:38](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=38)** This prevents errors from being pushed into the main branch as a merge will not be possible until all tests are passing.
 >
-> **[0:45](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=45)** Continuous integration pipelines can be built from scratch with tools like Jenkins and hosted privately.
+> **[0:45](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=45)** Continuous integration pipelines can be built from scratch with tools like [[Jenkins]] and hosted privately.
 >
 > **[0:51](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=51)** However, except you have peculiar needs, using a hosted service is preferred.
 >
 > **[0:56](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=56)** One of the most popular continuous integration and deployment service today is CircleCI.
 >
-> **[1:02](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=62)** CircleCI is easy to set up and uses the infrastructure as code paradigm to provision a continuous integration pipeline for your code repositories.
+> **[1:02](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=62)** CircleCI is easy to set up and uses the [[Infrastructure as code (IaC)|infrastructure as code]] paradigm to provision a continuous integration pipeline for your code repositories.
 >
 > **[1:11](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=71)** We'll be setting up a continuous integration or CI pipeline to run the Jest tests contained in our application.
 >
 > **[1:18](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=78)** To begin building our CI pipeline, make sure that you're on the 05_03b branch of the project.
 >
-> **[1:25](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=85)** Also ensure that you have pushed your code to a GitHub repository.
+> **[1:25](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=85)** Also ensure that you have pushed your code to a [[GitHub]] repository.
 >
 > **[1:29](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=89)** I've already done that for this application.
 >
@@ -2080,9 +2051,9 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=162)** This environment is the environment in which our tests will run.
 >
-> **[2:46](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=166)** Next, we go through a series of steps where we check out the code, update NPM, install and cache dependencies.
+> **[2:46](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=166)** Next, we go through a series of steps where we check out the code, update [[npm]], install and cache dependencies.
 >
-> **[2:57](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=177)** Finally, we run the test in the 'package.json' file using NPM.
+> **[2:57](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=177)** Finally, we run the test in the 'package.[[JSON]]' file using NPM.
 >
 > **[3:02](https://www.linkedin.com/learning/vue-js-testing-and-debugging/automated-testing-with-circleci?u=76281980&t=182)** This should be enough for our test to run, when we push the code to the remote repository.
 >
@@ -2138,7 +2109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (7), [[GitHub]] (6), next (5), application (4), ci (3)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (7), [[GitHub]] (6), [[npm]] (2), [[DevOps]] (1), [[Jenkins]] (1)
 > **Tools:** github (6)
 > **CLI Commands:** npm (2), make (1), docker (1), node (1)
 > **UI Navigation:** click on (5)
@@ -2152,20 +2123,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980)
+#### [Next steps with testing](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980&t=0)** - [Fiyako] To further your understanding on how to test Vue.js applications, I advise that you check the Testing page on the official Vue.js website.
+> **[0:00](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980&t=0)** - [Fiyako] To further your understanding on how to test [[Vue.js]] applications, I advise that you check the Testing page on the official Vue.js website.
 >
 > **[0:07](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980&t=7)** You will find helpful links to recommended tools for testing Vue.js applications.
 >
-> **[0:13](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980&t=13)** I also advise that you check the Vue Testing Library documentation to get familiar with all the features it offers for making the testing process a lot easier.
+> **[0:13](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980&t=13)** I also advise that you check the [[Vue.js|Vue]] Testing Library documentation to get familiar with all the features it offers for making the testing process a lot easier.
 >
 > **[0:22](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980&t=22)** For more details on using Cypress for automated functional testing, check out the Cypress documentation for more features of their API.
 >
-> **[0:29](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980&t=29)** To learn more about Vue.js, you can check out the following courses in the LinkedIn Learning Library, Vue.js Essential Training by Ray Villalobos, Vue.js: Building an Interface, also by Ray, and Learning Vuex by Alexander Zanfer.
+> **[0:29](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980&t=29)** To learn more about Vue.js, you can check out the following courses in the [[LinkedIn]] Learning Library, Vue.js Essential Training by Ray Villalobos, Vue.js: Building an Interface, also by Ray, and Learning Vuex by Alexander Zanfer.
 >
 > **[0:44](https://www.linkedin.com/learning/vue-js-testing-and-debugging/next-steps-with-testing?u=76281980&t=44)** You can also connect with me on social media.
 >
@@ -2175,7 +2145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js]] (6), [[LinkedIn]] (2), [[Vue.js|Vue]] (1), functional (1), api (1)
+> **Frameworks & Libraries:** [[Vue.js]] (6), [[LinkedIn]] (2), [[Vue.js|Vue]] (1)
 > **File Paths:** vue.js (6)
 > **CLI Commands:** find (2)
 > **Env Vars:** api (1)

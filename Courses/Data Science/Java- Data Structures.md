@@ -78,12 +78,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data structures in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980)
+#### [Data structures in Java](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980&t=0)** - [Bethan] Data structures are everywhere in coding.
+> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980&t=0)** - [Bethan] [[Data Structures]] are everywhere in coding.
 >
 > **[0:03](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980&t=3)** Most applications, even from the smallest and simplest right up to the biggest and most complex, have some form of data structures in them.
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980&t=21)** So it can make your apps run faster.
 >
-> **[0:23](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980&t=23)** I'm going to show you what to look for when you're choosing a data structure, and I'll introduce you to some of the most common, and useful ones in Java.
+> **[0:23](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980&t=23)** I'm going to show you what to look for when you're choosing a data structure, and I'll introduce you to some of the most common, and useful ones in [[Java]].
 >
 > **[0:30](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980&t=30)** There's also some exercises along the way.
 >
@@ -101,22 +100,21 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980&t=37)** I'm a member of the Java Champions, and I've been working as a Java Developer for the last five years.
 >
-> **[0:42](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980&t=42)** So if you're ready to improve your Java coding skills, then join me in my LinkedIn Learning course on data structures in Java.
+> **[0:42](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980&t=42)** So if you're ready to improve your Java coding skills, then join me in my [[LinkedIn]] Learning course on data structures in Java.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Java]] (5), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Data Structures]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [bethan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/java-data-structures-14403471/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/what-you-should-know?u=76281980&t=0)** - [Narrator] Before you get started with this course, there are a few things you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/java-data-structures-14403471/what-you-should-know?u=76281980&t=4)** You should already be familiar with the basics of writing code and Java.
+> **[0:04](https://www.linkedin.com/learning/java-data-structures-14403471/what-you-should-know?u=76281980&t=4)** You should already be familiar with the basics of writing code and [[Java]].
 >
 > **[0:08](https://www.linkedin.com/learning/java-data-structures-14403471/what-you-should-know?u=76281980&t=8)** So if you're completely new to Java, I'd suggest watching the course Learning Java before starting this one.
 >
@@ -134,16 +132,15 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=0)** - [Instructor] The examples and exercise files for this course is stored on GitHub.
+> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=0)** - [Instructor] The examples and exercise files for this course is stored on [[GitHub]].
 >
-> **[0:04](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=4)** To download them, you'll need to have Git installed on your computer.
+> **[0:04](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=4)** To download them, you'll need to have [[Git]] installed on your computer.
 >
-> **[0:07](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=7)** So if you don't, you can go to [git-scm.com/downloads](https://git-scm.com/downloads), and there are options there to download Git for Mac or for windows.
+> **[0:07](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=7)** So if you don't, you can go to [git-scm.com/downloads](https://git-scm.com/downloads), and there are options there to download Git for Mac or for [[Windows]].
 >
 > **[0:16](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=16)** So there's a branch for every video where we work on code.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=89)** The commands are changed directory and the command prompt is CD.
 >
-> **[1:32](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=92)** So I'm going to type CD and I've got a folder called data structures in here.
+> **[1:32](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=92)** So I'm going to type CD and I've got a folder called [[Data Structures]] in here.
 >
 > **[1:38](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=98)** And a little tip, if you press tap in here, it will auto complete the name of your directory.
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=144)** So I saved it in a folder called data structures.
 >
-> **[2:27](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=147)** And in here, it will be called Java data structures, 300149.
+> **[2:27](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=147)** And in here, it will be called [[Java]] data structures, 300149.
 >
 > **[2:33](https://www.linkedin.com/learning/java-data-structures-14403471/using-the-exercise-files?u=76281980&t=153)** And I just click Open.
 >
@@ -267,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), data (6), [[GitHub]] (3), next (3), prompt (3)
+> **Frameworks & Libraries:** [[Git]] (7), [[Data Structures]] (6), [[GitHub]] (3), [[Java]] (3), [[Windows]] (2)
 > **Tools:** intellij (6), command line (5), github (3), command prompt (3), terminal (2)
 > **UI Navigation:** click on (9), go to (6), dropdown (2), open the (2)
 > **CLI Commands:** git (7), cd (3), find (1)
@@ -276,8 +273,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **URLs:** [git-scm.com](https://git-scm.com) (1)
 
-#### Tour of CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/tour-of-coderpad?u=76281980)
+#### [Tour of CoderPad](https://www.linkedin.com/learning/java-data-structures-14403471/tour-of-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/java-data-structures-14403471/tour-of-coderpad?u=76281980&t=14)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:20](https://www.linkedin.com/learning/java-data-structures-14403471/tour-of-coderpad?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:20](https://www.linkedin.com/learning/java-data-structures-14403471/tour-of-coderpad?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:28](https://www.linkedin.com/learning/java-data-structures-14403471/tour-of-coderpad?u=76281980&t=28)** The code challenge has four areas, instructions in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for outputs in the bottom left.
 >
@@ -341,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
@@ -352,8 +348,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a data structure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980)
+#### [What is a data structure?](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,7 +358,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980&t=8)** And most likely, you'll want to group that data together in some way.
 >
-> **[0:11](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980&t=11)** Data structures are basically where you store the data together.
+> **[0:11](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980&t=11)** [[Data Structures]] are basically where you store the data together.
 >
 > **[0:15](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980&t=15)** A simple list is a really common example of a data structure.
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980&t=80)** The type of data you put in a data structure could be pretty much anything.
 >
-> **[1:24](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980&t=84)** They could be numbers or strings or billions or bytes, or there could be instances of your own Java classes.
+> **[1:24](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980&t=84)** They could be numbers or strings or billions or bytes, or there could be instances of your own [[Java]] classes.
 >
 > **[1:30](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980&t=90)** Say you have a to-do item Java class, you could create a data structure, and put to-do item objects in there.
 >
@@ -405,17 +400,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), application (2), [[Java]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (5), [[Java]] (2)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to choose a data structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/how-to-choose-a-data-structure?u=76281980)
+#### [How to choose a data structure](https://www.linkedin.com/learning/java-data-structures-14403471/how-to-choose-a-data-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/how-to-choose-a-data-structure?u=76281980&t=0)** - [Instructor] Now, there are loads of different kinds of data structures.
+> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/how-to-choose-a-data-structure?u=76281980&t=0)** - [Instructor] Now, there are loads of different kinds of [[Data Structures]].
 >
 > **[0:03](https://www.linkedin.com/learning/java-data-structures-14403471/how-to-choose-a-data-structure?u=76281980&t=3)** In fact, there are probably more than you'll ever use in your whole career.
 >
@@ -461,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), career (1), next (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -470,12 +464,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/understanding-arrays?u=76281980)
+#### [Understanding arrays](https://www.linkedin.com/learning/java-data-structures-14403471/understanding-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/understanding-arrays?u=76281980&t=0)** - [Instructor] One of the simplest data structures in Java, and other languages too, is the array.
+> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/understanding-arrays?u=76281980&t=0)** - [Instructor] One of the simplest [[Data Structures]] in [[Java]], and other languages too, is the array.
 >
 > **[0:05](https://www.linkedin.com/learning/java-data-structures-14403471/understanding-arrays?u=76281980&t=5)** Arrays are objects that contain a fixed number of elements of the same type.
 >
@@ -511,24 +504,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Data Structures]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/using-arrays?u=76281980)
+#### [Using arrays](https://www.linkedin.com/learning/java-data-structures-14403471/using-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/using-arrays?u=76281980&t=0)** - [Instructor] So let's see how we'd go about creating and using arrays in Java.
+> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/using-arrays?u=76281980&t=0)** - [Instructor] So let's see how we'd go about creating and using arrays in [[Java]].
 >
 > **[0:05](https://www.linkedin.com/learning/java-data-structures-14403471/using-arrays?u=76281980&t=5)** So I've got a class here called ArrayExamples with a main method in it, and I'm just going to stick all my code in this main method.
 >
 > **[0:11](https://www.linkedin.com/learning/java-data-structures-14403471/using-arrays?u=76281980&t=11)** So to create an array, the first thing I need to do, is I need to put the type of elements that's going to be in it.
 >
-> **[0:16](https://www.linkedin.com/learning/java-data-structures-14403471/using-arrays?u=76281980&t=16)** So to create an array of strings, for example, I would put the word String, followed by a pair of square brackets, and then the name of my array.
+> **[0:16](https://www.linkedin.com/learning/java-data-structures-14403471/using-arrays?u=76281980&t=16)** So to create an array of strings, for example, I would put the [[Microsoft Word|word]] String, followed by a pair of square brackets, and then the name of my array.
 >
 > **[0:24](https://www.linkedin.com/learning/java-data-structures-14403471/using-arrays?u=76281980&t=24)** So I'm going to call this one weekdays.
 >
@@ -652,7 +644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** tostring (2), touppercase (1)
 > **Tools:** intellij (3)
@@ -665,12 +657,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Collection interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/the-collection-interface-23038543?u=76281980)
+#### [The Collection interface](https://www.linkedin.com/learning/java-data-structures-14403471/the-collection-interface-23038543?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/the-collection-interface-23038543?u=76281980&t=0)** - [Instructor] Most data structures in Java implements the collection interface.
+> **[0:00](https://www.linkedin.com/learning/java-data-structures-14403471/the-collection-interface-23038543?u=76281980&t=0)** - [Instructor] Most [[Data Structures]] in [[Java]] implements the collection interface.
 >
 > **[0:04](https://www.linkedin.com/learning/java-data-structures-14403471/the-collection-interface-23038543?u=76281980&t=4)** So if you've ever even created a simple list, then you've probably used the classes that implement collection.
 >
@@ -720,7 +711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), data (2), api (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Data Structures]] (2)
 > **Analogies:** for example (3)
 > **Definitions:** means that (2)
 > **Code Identifiers:** isempty (1)
@@ -728,8 +719,7 @@ created: 2026-05-02
 > **Versions:** java 21 (1)
 > **Speakers:** - [instructor] (1)
 
-#### LinkedLists
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/linkedlists?u=76281980)
+#### [LinkedLists](https://www.linkedin.com/learning/java-data-structures-14403471/linkedlists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,15 +839,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (1)
 > **Code Identifiers:** shoppinglist (10), removefirst (2), synchronizedshoppinglist (2), addfirst (1), addlast (1)
 > **Definitions:** means that (2), is a  (2), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/stacks?u=76281980)
+#### [Stacks](https://www.linkedin.com/learning/java-data-structures-14403471/stacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,7 +859,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/java-data-structures-14403471/stacks?u=76281980&t=15)** And the first one you put down stays at the bottom.
 >
-> **[0:18](https://www.linkedin.com/learning/java-data-structures-14403471/stacks?u=76281980&t=18)** There's actually a couple of different ways to create a stack in Java.
+> **[0:18](https://www.linkedin.com/learning/java-data-structures-14403471/stacks?u=76281980&t=18)** There's actually a couple of different ways to create a stack in [[Java]].
 >
 > **[0:21](https://www.linkedin.com/learning/java-data-structures-14403471/stacks?u=76281980&t=21)** And neither of them are perfect.
 >
@@ -967,7 +955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is called (3), is a  (1), is an  (1), means that (1)
 > **Analogies:** think of it like (1), for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -975,8 +963,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/queues?u=76281980)
+#### [Queues](https://www.linkedin.com/learning/java-data-structures-14403471/queues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,7 +975,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/java-data-structures-14403471/queues?u=76281980&t=10)** The first person that joins the queue is the first person that gets served.
 >
-> **[0:13](https://www.linkedin.com/learning/java-data-structures-14403471/queues?u=76281980&t=13)** So like with stacks, there's actually multiple ways to implement a queue in Java, in fact, there's lots of ways.
+> **[0:13](https://www.linkedin.com/learning/java-data-structures-14403471/queues?u=76281980&t=13)** So like with stacks, there's actually multiple ways to implement a queue in [[Java]], in fact, there's lots of ways.
 >
 > **[0:19](https://www.linkedin.com/learning/java-data-structures-14403471/queues?u=76281980&t=19)** But the good news is that when you know how to do it with one concrete class, it's very similar for all of them.
 >
@@ -1110,15 +1097,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** think of it like (1), similar to (1), for example (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is called (1)
 > **Speakers:** - now (1)
 
-#### TreeSets
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/treesets?u=76281980)
+#### [TreeSets](https://www.linkedin.com/learning/java-data-structures-14403471/treesets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,7 +1168,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/java-data-structures-14403471/treesets?u=76281980&t=135)** Now I'm going to try creating a tree set of strings and see what that looks like.
 >
-> **[2:19](https://www.linkedin.com/learning/java-data-structures-14403471/treesets?u=76281980&t=139)** So I'm going to do sets and in my diamond brackets, I'm going to put string and I'm going to call this one word set.
+> **[2:19](https://www.linkedin.com/learning/java-data-structures-14403471/treesets?u=76281980&t=139)** So I'm going to do sets and in my diamond brackets, I'm going to put string and I'm going to call this one [[Microsoft Word|word]] set.
 >
 > **[2:27](https://www.linkedin.com/learning/java-data-structures-14403471/treesets?u=76281980&t=147)** Then I'll do equals new tree set.
 >
@@ -1240,7 +1226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), next (1), data (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9)
 > **Definitions:** means that (1), is called (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1252,8 +1238,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1261,19 +1246,19 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980&t=2)** Well done on completing it and thanks for joining me.
 >
-> **[0:04](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980&t=4)** Hopefully you now feel more confident in choosing which data structures to use in your programs and how to use some of the most common and useful ones.
+> **[0:04](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980&t=4)** Hopefully you now feel more confident in choosing which [[Data Structures]] to use in your programs and how to use some of the most common and useful ones.
 >
 > **[0:12](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980&t=12)** The best way to keep learning is to keep practicing so feel free to add your own tests to the ones in the exercises.
 >
 > **[0:18](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980&t=18)** And if you're feeling adventurous, maybe even at some from more data structures that I haven't covered in this course.
 >
-> **[0:23](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980&t=23)** If you want to keep learning more about Java, check out the many other Java courses in the LinkedIn learning library.
+> **[0:23](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980&t=23)** If you want to keep learning more about [[Java]], check out the many other Java courses in the [[LinkedIn]] learning library.
 >
 > **[0:28](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980&t=28)** Good luck with your continued learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Java]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[Java]] (2), [[LinkedIn]] (1)
 > **Speakers:** - [narrator] (1)
 
 

@@ -92,20 +92,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning the Node.js basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980)
+#### [Learning the Node.js basics](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980&t=0)** - [Eve] If you've worked with JavaScript before, you might think of it just as a front-end technology, a way to add interactivity to web applications, to add features like button clicks and drop-downs.
+> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980&t=0)** - [Eve] If you've worked with [[JavaScript]] before, you might think of it just as a front-end technology, a way to add interactivity to web applications, to add features like button clicks and drop-downs.
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980&t=10)** But that's not all JavaScript can do.
 >
-> **[0:12](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980&t=12)** With Node.js, you can use your JavaScript skills for more.
+> **[0:12](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980&t=12)** With [[Node.js]], you can use your JavaScript skills for more.
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980&t=16)** Everything from building command line tools, to creating servers, to interacting with the file system.
 >
-> **[0:21](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980&t=21)** Since Node was released in 2009, companies like PayPal, Netflix, and Microsoft have used it as a way to build scalable event-driven applications.
+> **[0:21](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980&t=21)** Since Node was released in 2009, companies like PayPal, Netflix, and [[Microsoft]] have used it as a way to build scalable event-driven applications.
 >
 > **[0:30](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980&t=30)** In this course, we'll cover the basic features of Node core, including standard input and standard output, the module system, and the file system, with consumable yet real-world examples.
 >
@@ -121,26 +120,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), node (4), [[Node.js]] (2), front-end (1), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Node.js]] (2), [[Microsoft]] (1)
 > **CLI Commands:** node (6)
 > **File Paths:** node.js (2)
 > **Tools:** command line (1)
 > **Speakers:** - [eve] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980&t=0)** - [Instructor] Node.js Essential Training will provide you with an in-depth introduction to Node.js, but there are a couple things that you may want to be familiar with before you get started.
+> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980&t=0)** - [Instructor] [[Node.js]] Essential Training will provide you with an in-depth introduction to Node.js, but there are a couple things that you may want to be familiar with before you get started.
 >
-> **[0:09](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980&t=9)** First of all, Node.js is JavaScript, so you'll need to know a bit of JavaScript in order to work with Node.js successfully.
+> **[0:09](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980&t=9)** First of all, Node.js is [[JavaScript]], so you'll need to know a bit of JavaScript in order to work with Node.js successfully.
 >
 > **[0:17](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980&t=17)** If you'd like to learn more about JavaScript, check out the excellent [[JavaScript Essential Training]] with Morton Rand-Hendrikson.
 >
 > **[0:24](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980&t=24)** Also because we're dealing with the latest and greatest JavaScript syntax, a bit of ES6, ESNext, the latest JavaScript syntax would be great to know.
 >
-> **[0:34](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980&t=34)** You can check out my course Learning ECMAScript 6 or [[JavaScript Essential Training]] will use some of the syntax, as well.
+> **[0:34](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980&t=34)** You can check out my course Learning [[ECMAScript]] 6 or [[JavaScript Essential Training]] will use some of the syntax, as well.
 >
 > **[0:41](https://www.linkedin.com/learning/node-js-essential-training-14888164/what-you-should-know?u=76281980&t=41)** So if you feel comfortable with the JavaScript language, you are ready to become a full stack JavaScript developer with Node.js.
 
@@ -158,24 +156,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Node.js history
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980)
+#### [Node.js history](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=0)** - [Instructor] Node.js can feel like a brand new technology, but really, it's been around for about a decade and it's one of the most popular JavaScript tools available.
+> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=0)** - [Instructor] [[Node.js]] can feel like a brand new technology, but really, it's been around for about a decade and it's one of the most popular [[JavaScript]] tools available.
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=7)** Node.js was created by Ryan Doll in 2009 as a JavaScript runtime based on Chrome's VA engine.
 >
-> **[0:14](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=14)** In 2011, npm, the node package manager, released version 1.0, which allowed for the sharing of open source node libraries.
+> **[0:14](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=14)** In 2011, [[npm]], the node package manager, released version 1.0, which allowed for the sharing of open source node libraries.
 >
 > **[0:24](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=24)** This marked a huge shift in the way that code was shared and maintained and started to cement node as a huge player in the ecosystem.
 >
 > **[0:33](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=33)** After some infighting in the community about implementation and project management, the Node.js Foundation was formed in 2015.
 >
-> **[0:41](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=41)** The Foundation is made up of several large companies, including IBM, Microsoft, PayPal and many, many others.
+> **[0:41](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=41)** The Foundation is made up of several large companies, including IBM, [[Microsoft]], PayPal and many, many others.
 >
-> **[0:48](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=48)** And it's a collaborative project at the Linux Foundation.
+> **[0:48](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=48)** And it's a collaborative project at the [[Linux]] Foundation.
 >
 > **[0:52](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980&t=52)** What this means is that these companies can shepherd the growth and the evolution of the library for many, many years to come.
 >
@@ -183,18 +180,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), node (3), [[JavaScript]] (2), [[npm]] (1), management (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[JavaScript]] (2), [[npm]] (1), [[Microsoft]] (1), [[Linux]] (1)
 > **CLI Commands:** node (7), npm (1)
 > **File Paths:** node.js (4)
 > **Env Vars:** ibm (1)
 > **Versions:** version 1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Node.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/installing-node-js-21424556?u=76281980)
+#### [Installing Node.js](https://www.linkedin.com/learning/node-js-essential-training-14888164/installing-node-js-21424556?u=76281980)
 
-#### Using Visual Studio Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-visual-studio-code?u=76281980)
+#### [Using Visual Studio Code](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-visual-studio-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-visual-studio-code?u=76281980&t=15)** This will identify what type of machine you're using to access this.
 >
-> **[0:19](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-visual-studio-code?u=76281980&t=19)** And then you can just go ahead and download this kind of like we did with Node.js before.
+> **[0:19](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-visual-studio-code?u=76281980&t=19)** And then you can just go ahead and download this kind of like we did with [[Node.js]] before.
 >
 > **[0:26](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-visual-studio-code?u=76281980&t=26)** We are going to show this in our finder, and then this should download this to our computer.
 >
@@ -246,14 +241,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inspecting the global object
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980)
+#### [Inspecting the global object](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=0)** - [Eve] In the browser, the global object is called the window.
 >
-> **[0:03](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=3)** But in Node.js, the global object is called global.
+> **[0:03](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=3)** But in [[Node.js]], the global object is called global.
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=7)** Let's take a look at this global Node.js object.
 >
@@ -287,7 +281,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=77)** I'm going to remove the .js from this command.
 >
-> **[1:20](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=80)** And we'll see that this is going to infer that this is a JavaScript file that can be run, and it'll run it accordingly.
+> **[1:20](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=80)** And we'll see that this is going to infer that this is a [[JavaScript]] file that can be run, and it'll run it accordingly.
 >
 > **[1:27](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=87)** So Node.js will assume that that's a JavaScript file.
 >
@@ -345,11 +339,11 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=209)** So we want to think about the global object as containing all of the objects, values, and methods that we can use in a Node.js file without having to import anything.
 >
-> **[3:40](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=220)** For the rest of this chapter, we're going to explore what else is available to us globally in Node.js.
+> **[3:40](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980&t=220)** For the [[Representational State Transfer (REST)|rest]] of this chapter, we're going to explore what else is available to us globally in Node.js.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (9), [[JavaScript]] (4), hit (3), node (3), cd (1)
+> **Frameworks & Libraries:** [[Node.js]] (9), [[JavaScript]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (12), make (2), cd (1), find (1)
 > **File Paths:** node.js (9), global.js (2)
 > **Definitions:** is called (3), is a  (2), means that (1)
@@ -358,12 +352,11 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Analogies:** just like (1)
 
-#### Using the require function
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-the-require-function?u=76281980)
+#### [Using the require function](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-the-require-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-the-require-function?u=76281980&t=0)** - So what else do we have globally available to us in Node.js?
+> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-the-require-function?u=76281980&t=0)** - So what else do we have globally available to us in [[Node.js]]?
 >
 > **[0:03](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-the-require-function?u=76281980&t=3)** Well, we have some references to the current file and the current directory.
 >
@@ -437,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), hit (3), [[Node.js]] (2), cd (1), next (1)
+> **Frameworks & Libraries:** [[Node.js]] (2)
 > **CLI Commands:** node (5), make (3), cd (1)
 > **File Paths:** node.js (2), common.js (1), global.js (1)
 > **Exercise Files:** template (2)
@@ -446,8 +439,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - so (1)
 
-#### Handling argument variables with process.argv
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/handling-argument-variables-with-process-argv?u=76281980)
+#### [Handling argument variables with process.argv](https://www.linkedin.com/learning/node-js-essential-training-14888164/handling-argument-variables-with-process-argv?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -483,7 +475,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-essential-training-14888164/handling-argument-variables-with-process-argv?u=76281980&t=89)** Now if we hit Enter, we see a larger array.
 >
-> **[1:32](https://www.linkedin.com/learning/node-js-essential-training-14888164/handling-argument-variables-with-process-argv?u=76281980&t=92)** Now the process argv array starts with the same two things at the beginning, but each additional array value represents the rest of what we typed into the console after the global module.
+> **[1:32](https://www.linkedin.com/learning/node-js-essential-training-14888164/handling-argument-variables-with-process-argv?u=76281980&t=92)** Now the process argv array starts with the same two things at the beginning, but each additional array value represents the [[Representational State Transfer (REST)|rest]] of what we typed into the console after the global module.
 >
 > **[1:44](https://www.linkedin.com/learning/node-js-essential-training-14888164/handling-argument-variables-with-process-argv?u=76281980&t=104)** So we see our user flag and our name, and we see our greeting flag and the greeting.
 >
@@ -521,14 +513,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (5), make (1)
 > **Tools:** terminal (2), command line (1)
 > **Code Identifiers:** indexafterflag (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with standard input
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/working-with-standard-input?u=76281980)
+#### [Working with standard input](https://www.linkedin.com/learning/node-js-essential-training-14888164/working-with-standard-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +603,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), node (2), prompt (2), feature (1)
 > **CLI Commands:** make (2), node (2)
 > **Tools:** terminal (4)
 > **Exercise Files:** template (2)
@@ -620,8 +610,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using standard output
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-standard-output?u=76281980)
+#### [Using standard output](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-standard-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,7 +684,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-standard-output?u=76281980&t=164)** What's your preferred programming language.
 >
-> **[2:48](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-standard-output?u=76281980&t=168)** Go Skiing Eve you can finish writing JavaScript later.
+> **[2:48](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-standard-output?u=76281980&t=168)** Go Skiing Eve you can finish writing [[JavaScript]] later.
 >
 > **[2:51](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-standard-output?u=76281980&t=171)** So our program is extremely friendly.
 >
@@ -709,21 +698,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (3), node (2), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** node (2), make (1)
 > **Tools:** terminal (2)
 > **Exercise Files:** template (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a delay with setTimeout
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-delay-with-settimeout?u=76281980)
+#### [Creating a delay with setTimeout](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-delay-with-settimeout?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-delay-with-settimeout?u=76281980&t=0)** - [Instructor] In the last lesson, we used Node.js asynchronously by using event listeners.
+> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-delay-with-settimeout?u=76281980&t=0)** - [Instructor] In the last lesson, we used [[Node.js]] asynchronously by using event listeners.
 >
-> **[0:05](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-delay-with-settimeout?u=76281980&t=5)** So what we said here was instead of just running the functions when they are added to our JavaScript file, we said only call the function that's sent to this function when we have a data event, and only send this function when we have an exit event.
+> **[0:05](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-delay-with-settimeout?u=76281980&t=5)** So what we said here was instead of just running the functions when they are added to our [[JavaScript]] file, we said only call the function that's sent to this function when we have a data event, and only send this function when we have an exit event.
 >
 > **[0:22](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-delay-with-settimeout?u=76281980&t=22)** So call these functions at specific times.
 >
@@ -775,7 +763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), [[JavaScript]] (1), data (1), node (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** waittime (3), timerfinished (1)
 > **CLI Commands:** node (3)
 > **File Paths:** node.js (2)
@@ -783,8 +771,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incorporating setInterval
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/incorporating-setinterval?u=76281980)
+#### [Incorporating setInterval](https://www.linkedin.com/learning/node-js-essential-training-14888164/incorporating-setinterval?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,14 +831,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), hit (1)
 > **Code Identifiers:** waitinterval (2), settimeout (2), setinterval (2), currenttime (1), timerfinished (1)
 > **CLI Commands:** node (2), make (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reporting progress with setInterval
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980)
+#### [Reporting progress with setInterval](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,11 +870,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=87)** While we could communicate how far along with any asynchronous process using logic like this.
 >
-> **[1:34](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=94)** So lots of cool powerful tools built directly into Node.js inside of these standard input and standard output objects.
+> **[1:34](https://www.linkedin.com/learning/node-js-essential-training-14888164/reporting-progress-with-setinterval?u=76281980&t=94)** So lots of cool powerful tools built directly into [[Node.js]] inside of these standard input and standard output objects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (1)
 > **Code Identifiers:** currenttime (1), waittime (1), clearline (1), cursorto (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
@@ -900,8 +885,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding core modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/understanding-core-modules?u=76281980)
+#### [Understanding core modules](https://www.linkedin.com/learning/node-js-essential-training-14888164/understanding-core-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,7 +899,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/node-js-essential-training-14888164/understanding-core-modules?u=76281980&t=20)** And for this chapter and in the next few chapters, we'll focus on those modules that you don't have to install with anything.
 >
-> **[0:27](https://www.linkedin.com/learning/node-js-essential-training-14888164/understanding-core-modules?u=76281980&t=27)** They're already installed locally with your installation of Node.js.
+> **[0:27](https://www.linkedin.com/learning/node-js-essential-training-14888164/understanding-core-modules?u=76281980&t=27)** They're already installed locally with your installation of [[Node.js]].
 >
 > **[0:31](https://www.linkedin.com/learning/node-js-essential-training-14888164/understanding-core-modules?u=76281980&t=31)** So the path module's an example of one of those.
 >
@@ -989,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Node.js]] (2), node (2)
+> **Frameworks & Libraries:** [[Node.js]] (2)
 > **CLI Commands:** node (4), make (1)
 > **File Paths:** node.js (2), core.js (1)
 > **Code Identifiers:** diruploads (2), getheapstatistics (1)
@@ -997,8 +981,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collecting information with readline
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/collecting-information-with-readline?u=76281980)
+#### [Collecting information with readline](https://www.linkedin.com/learning/node-js-essential-training-14888164/collecting-information-with-readline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,7 +1031,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), prompt (1), next (1)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (2)
 > **File Paths:** ask.js (1)
@@ -1056,8 +1038,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using readline
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-readline?u=76281980)
+#### [Using readline](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-readline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1071,7 +1052,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-readline?u=76281980&t=16)** We will say, "where do you live?"
 >
-> **[0:20](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-readline?u=76281980&t=20)** And "what are you going to do with Node.js?"
+> **[0:20](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-readline?u=76281980&t=20)** And "what are you going to do with [[Node.js]]?"
 >
 > **[0:28](https://www.linkedin.com/learning/node-js-essential-training-14888164/using-readline?u=76281980&t=28)** Node.js, what are we going to do with you?
 >
@@ -1159,7 +1140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), next (2), node (1)
+> **Frameworks & Libraries:** [[Node.js]] (4)
 > **Code Identifiers:** collectanswers (6), questionanswered (4)
 > **CLI Commands:** node (5), make (3)
 > **File Paths:** node.js (4)
@@ -1168,12 +1149,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** kind of like (1)
 
-#### Exporting custom modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/exporting-custom-modules?u=76281980)
+#### [Exporting custom modules](https://www.linkedin.com/learning/node-js-essential-training-14888164/exporting-custom-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/exporting-custom-modules?u=76281980&t=0)** - [Instructor] Every JavaScript file is a module.
+> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/exporting-custom-modules?u=76281980&t=0)** - [Instructor] Every [[JavaScript]] file is a module.
 >
 > **[0:02](https://www.linkedin.com/learning/node-js-essential-training-14888164/exporting-custom-modules?u=76281980&t=2)** We've been loading modules with the require function, and the require function is part of that common JS module pattern, but it only represents half of the pattern.
 >
@@ -1235,11 +1215,11 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/node-js-essential-training-14888164/exporting-custom-modules?u=76281980&t=185)** Everything that we are going to export can be consumed by a different file.
 >
-> **[3:08](https://www.linkedin.com/learning/node-js-essential-training-14888164/exporting-custom-modules?u=76281980&t=188)** Modules make our code reusable and consumable because we can publish our modules to NPM and share them with the rest of the community.
+> **[3:08](https://www.linkedin.com/learning/node-js-essential-training-14888164/exporting-custom-modules?u=76281980&t=188)** Modules make our code reusable and consumable because we can publish our modules to [[npm]] and share them with the [[Representational State Transfer (REST)|rest]] of the community.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), node (1), [[npm]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[npm]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** mymodule (5), getcount (3)
 > **CLI Commands:** make (2), node (1), npm (1)
 > **File Paths:** mymodule.js (1)
@@ -1248,12 +1228,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a module
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-module?u=76281980)
+#### [Creating a module](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-module?u=76281980&t=0)** - [Instructor] A powerful tool that ships with Node.js is the event emitter.
+> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-module?u=76281980&t=0)** - [Instructor] A powerful tool that ships with [[Node.js]] is the event emitter.
 >
 > **[0:04](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-module?u=76281980&t=4)** The event emitter is Node,js' implementation of the pub-sub design pattern, and it allows us to create listeners for and emit custom events.
 >
@@ -1331,11 +1310,11 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-module?u=76281980&t=206)** Perfect, and now if I type exit, the process says goodbye, and we're jumped out.
 >
-> **[3:32](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-module?u=76281980&t=212)** The event emitter is a powerful tool that allows us to decouple logic and handle asynchronicity in JavaScript.
+> **[3:32](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-a-module?u=76281980&t=212)** The event emitter is a powerful tool that allows us to decouple logic and handle asynchronicity in [[JavaScript]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Node.js]] (2), node (2), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[JavaScript]] (1)
 > **CLI Commands:** node (4), make (1)
 > **Code Identifiers:** customevent (2), tostring (2)
 > **Tools:** terminal (4)
@@ -1343,8 +1322,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Custom events with the EventEmitter
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/custom-events-with-the-eventemitter?u=76281980)
+#### [Custom events with the EventEmitter](https://www.linkedin.com/learning/node-js-essential-training-14888164/custom-events-with-the-eventemitter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1404,12 +1382,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), node (1)
 > **CLI Commands:** make (2), node (1)
 > **Speakers:** - earlier (1)
 
-#### Consuming a module with EventEmitter
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/consuming-a-module-with-eventemitter?u=76281980)
+#### [Consuming a module with EventEmitter](https://www.linkedin.com/learning/node-js-essential-training-14888164/consuming-a-module-with-eventemitter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1457,7 +1433,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/node-js-essential-training-14888164/consuming-a-module-with-eventemitter?u=76281980&t=112)** Tahoe, the answer is Tahoe.
 >
-> **[1:55](https://www.linkedin.com/learning/node-js-essential-training-14888164/consuming-a-module-with-eventemitter?u=76281980&t=115)** What are you going to do with Node.js?
+> **[1:55](https://www.linkedin.com/learning/node-js-essential-training-14888164/consuming-a-module-with-eventemitter?u=76281980&t=115)** What are you going to do with [[Node.js]]?
 >
 > **[1:56](https://www.linkedin.com/learning/node-js-essential-training-14888164/consuming-a-module-with-eventemitter?u=76281980&t=116)** Save the world.
 >
@@ -1473,7 +1449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (1)
 > **CLI Commands:** make (2), node (2)
 > **Code Identifiers:** collectanswers (2), answerevents (2)
 > **File Paths:** node.js (1)
@@ -1485,12 +1461,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Listing directory files
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980)
+#### [Listing directory files](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980&t=0)** - [Instructor] Node.js also ships with a module that allows us to interact with the file system.
+> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980&t=0)** - [Instructor] [[Node.js]] also ships with a module that allows us to interact with the file system.
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980&t=5)** The Fs module can be used to list files and directories, create files and directories, stream files, change file permissions, and really just about anything you'd need to work with files and directories.
 >
@@ -1510,7 +1485,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980&t=59)** This means that I read the contents of this directory synchronously with a blocking request.
 >
-> **[1:04](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980&t=64)** Meaning that I'm blocking the rest of the process until the file is read.
+> **[1:04](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980&t=64)** Meaning that I'm blocking the [[Representational State Transfer (REST)|rest]] of the process until the file is read.
 >
 > **[1:09](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980&t=69)** Now, when we use any methods of the file system module, we are given the option to use them synchronously or asynchronously.
 >
@@ -1540,15 +1515,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[Representational State Transfer (REST)|Rest]] (2), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Node.js]] (1)
 > **CLI Commands:** node (4)
 > **File Paths:** node.js (1), list.js (1)
 > **Code Identifiers:** readdirsync (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading files
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/reading-files?u=76281980)
+#### [Reading files](https://www.linkedin.com/learning/node-js-essential-training-14888164/reading-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,7 +1586,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), node (1)
 > **File Paths:** readme.md (2)
 > **Env Vars:** utf (2)
 > **CLI Commands:** node (1)
@@ -1621,8 +1594,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing and appending files
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/writing-and-appending-files?u=76281980)
+#### [Writing and appending files](https://www.linkedin.com/learning/node-js-essential-training-14888164/writing-and-appending-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1658,7 +1630,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/node-js-essential-training-14888164/writing-and-appending-files?u=76281980&t=71)** It needs to take in the name of the new file.
 >
-> **[1:14](https://www.linkedin.com/learning/node-js-essential-training-14888164/writing-and-appending-files?u=76281980&t=74)** So we'll say javascript.md.
+> **[1:14](https://www.linkedin.com/learning/node-js-essential-training-14888164/writing-and-appending-files?u=76281980&t=74)** So we'll say [[JavaScript]].md.
 >
 > **[1:18](https://www.linkedin.com/learning/node-js-essential-training-14888164/writing-and-appending-files?u=76281980&t=78)** We will, for the second argument, say what do we want to write to this file?
 >
@@ -1700,7 +1672,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/node-js-essential-training-14888164/writing-and-appending-files?u=76281980&t=158)** And this time, we'll pass in a string that we want to append.
 >
-> **[2:40](https://www.linkedin.com/learning/node-js-essential-training-14888164/writing-and-appending-files?u=76281980&t=160)** We'll say n for new line, new line, and then we'll say Node.js Everyone!
+> **[2:40](https://www.linkedin.com/learning/node-js-essential-training-14888164/writing-and-appending-files?u=76281980&t=160)** We'll say n for new line, new line, and then we'll say [[Node.js]] Everyone!
 >
 > **[2:52](https://www.linkedin.com/learning/node-js-essential-training-14888164/writing-and-appending-files?u=76281980&t=172)** All right, cool.
 >
@@ -1720,7 +1692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), node (2), data (1), [[Node.js]] (1), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Node.js]] (1)
 > **Code Identifiers:** writefile (4), appendfilesync (2), appendfile (1)
 > **File Paths:** javascript.md (3), node.js (1)
 > **CLI Commands:** node (3)
@@ -1729,8 +1701,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Creating directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-directories?u=76281980)
+#### [Creating directories](https://www.linkedin.com/learning/node-js-essential-training-14888164/creating-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1786,15 +1757,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2)
 > **CLI Commands:** mkdir (4), make (3), node (2), ls (1)
 > **Code Identifiers:** existssync (2), mkdirsync (1)
 > **File Paths:** directory.js (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [eve] (1)
 
-#### Renaming and removing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/renaming-and-removing-files?u=76281980)
+#### [Renaming and removing files](https://www.linkedin.com/learning/node-js-essential-training-14888164/renaming-and-removing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1888,15 +1857,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), business (1)
 > **File Paths:** notes.md (3), config.js (2), rename.js (1), project-config.js (1), lib/notes.md (1)
 > **CLI Commands:** node (1), make (1)
 > **Code Identifiers:** renamesync (1), unlinksync (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Renaming and removing directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/renaming-and-removing-directories?u=76281980)
+#### [Renaming and removing directories](https://www.linkedin.com/learning/node-js-essential-training-14888164/renaming-and-removing-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1986,25 +1953,24 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/node-js-essential-training-14888164/renaming-and-removing-directories?u=76281980&t=223)** We should see that the files are removed, the folder is removed, and everything has been moved there accordingly.
 >
-> **[3:50](https://www.linkedin.com/learning/node-js-essential-training-14888164/renaming-and-removing-directories?u=76281980&t=230)** So our file CLI is getting pretty powerful.
+> **[3:50](https://www.linkedin.com/learning/node-js-essential-training-14888164/renaming-and-removing-directories?u=76281980&t=230)** So our file [[CLI]] is getting pretty powerful.
 >
 > **[3:53](https://www.linkedin.com/learning/node-js-essential-training-14888164/renaming-and-removing-directories?u=76281980&t=233)** Now we have the ability to remove files and directories.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Code Identifiers:** renamesync (3), foreach (2), readdiresync (1)
 > **Cross-References:** in the last (2), go back to (1)
 > **CLI Commands:** node (1)
 > **Env Vars:** cli (1)
 > **Speakers:** - [instructor] (1)
 
-#### Readable file streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/readable-file-streams?u=76281980)
+#### [Readable file streams](https://www.linkedin.com/learning/node-js-essential-training-14888164/readable-file-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/readable-file-streams?u=76281980&t=0)** - [Instructor] Streams in Node.js give us a way to asynchronously handle continuous data flows.
+> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/readable-file-streams?u=76281980&t=0)** - [Instructor] Streams in [[Node.js]] give us a way to asynchronously handle continuous data flows.
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-essential-training-14888164/readable-file-streams?u=76281980&t=5)** Understanding how streams work can dramatically improve the way your application handles large data.
 >
@@ -2106,11 +2072,11 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/node-js-essential-training-14888164/readable-file-streams?u=76281980&t=336)** That's because we're breaking down our video into chunks that are streamed.
 >
-> **[5:41](https://www.linkedin.com/learning/node-js-essential-training-14888164/readable-file-streams?u=76281980&t=341)** So we can watch the first part of a movie while the rest of the movie is still being delivered.
+> **[5:41](https://www.linkedin.com/learning/node-js-essential-training-14888164/readable-file-streams?u=76281980&t=341)** So we can watch the first part of a movie while the [[Representational State Transfer (REST)|rest]] of the movie is still being delivered.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), node (2), [[Node.js]] (1), application (1), cd (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (3), make (2), cd (1)
 > **File Paths:** node.js (1), ask.js (1), streams.js (1)
 > **Code Identifiers:** readfile (1), chatlog (1), createreadstream (1)
@@ -2119,12 +2085,11 @@ created: 2026-05-02
 > **Env Vars:** utf (1)
 > **Cross-References:** go back to (1)
 
-#### Writable file streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/writable-file-streams?u=76281980)
+#### [Writable file streams](https://www.linkedin.com/learning/node-js-essential-training-14888164/writable-file-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/writable-file-streams?u=76281980&t=0)** - [Instructor] In the last lesson, we introduced the Node.js stream interface and took a look at some readable streams.
+> **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/writable-file-streams?u=76281980&t=0)** - [Instructor] In the last lesson, we introduced the [[Node.js]] stream interface and took a look at some readable streams.
 >
 > **[0:06](https://www.linkedin.com/learning/node-js-essential-training-14888164/writable-file-streams?u=76281980&t=6)** The other side of the stream coin is writeable streams.
 >
@@ -2210,7 +2175,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/node-js-essential-training-14888164/writable-file-streams?u=76281980&t=253)** What's your preferred programming language?
 >
-> **[4:15](https://www.linkedin.com/learning/node-js-essential-training-14888164/writable-file-streams?u=76281980&t=255)** You know it's JavaScript.
+> **[4:15](https://www.linkedin.com/learning/node-js-essential-training-14888164/writable-file-streams?u=76281980&t=255)** You know it's [[JavaScript]].
 >
 > **[4:18](https://www.linkedin.com/learning/node-js-essential-training-14888164/writable-file-streams?u=76281980&t=258)** Go skiing, Eve, so you can finish writing JavaScript later.
 >
@@ -2222,7 +2187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[JavaScript]] (2), [[Node.js]] (1), node (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Node.js]] (1)
 > **Code Identifiers:** answerstream (5), tostring (2), existssync (1), filename (1), unlinksync (1)
 > **CLI Commands:** make (3), node (2), find (1)
 > **File Paths:** node.js (1), name.md (1)
@@ -2236,22 +2201,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More training
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980)
+#### [More training](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980&t=0)** - [Instructor] Well, we made it.
 >
-> **[0:01](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980&t=1)** We made it all the way through our Node.js Essential Training course.
+> **[0:01](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980&t=1)** We made it all the way through our [[Node.js]] Essential Training course.
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980&t=5)** You may be wondering, "What's next for me as I continue my learning journey with Node.js?"
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980&t=10)** Well, what I'd recommend to you is that first, you take a look at Node.js Essential Training Part 2.
 >
-> **[0:15](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980&t=15)** This will take you through how to work with web servers in Node.js, how to deploy your Node.js applications, and much, much more.
+> **[0:15](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980&t=15)** This will take you through how to work with [[Web Servers]] in Node.js, how to deploy your Node.js applications, and much, much more.
 >
-> **[0:23](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980&t=23)** I'd also encourage you to check out Express.js.
+> **[0:23](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980&t=23)** I'd also encourage you to check out [[Express.js]].
 >
 > **[0:26](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980&t=26)** Express is a wonderful framework, one of the most popular for building web applications using Node.
 >
@@ -2269,7 +2233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (7), web (2), node (2), next (1), [[Express.js]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (7), [[Web Servers]] (1), [[Express.js]] (1)
 > **CLI Commands:** node (9)
 > **File Paths:** node.js (7), express.js (1)
 > **Definitions:** is a  (2)

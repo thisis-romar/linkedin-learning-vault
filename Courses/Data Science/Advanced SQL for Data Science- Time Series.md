@@ -97,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn time series data analysis with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980)
+#### [Learn time series data analysis with SQL](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,28 +105,27 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980&t=9)** Now, one thing all of these have in common is that they can be modeled as a series of events that happen over time.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980&t=16)** Analyzing time series data like this can be challenging, but SQL has evolved to include features that support just the kind of analysis we need.
+> **[0:16](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980&t=16)** Analyzing time series data like this can be challenging, but [[SQL]] has evolved to include features that support just the kind of analysis we need.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980&t=24)** My name is Dan Sullivan and I'm a data architect working on large scale time series applications and observability and security.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980&t=30)** And in this course I'll show you how to use SQL to extract valuable information from time series data.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980&t=37)** By the end of the course, you'll be familiar with common analysis patterns like moving averages, comparisons across period, exponential smoothing and forecasting with linear regression.
+> **[0:37](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980&t=37)** By the end of the course, you'll be familiar with common analysis patterns like moving averages, comparisons across period, exponential smoothing and [[Forecasting]] with [[Linear Regression]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (2), web (1), [[Security]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Forecasting]] (1), [[Linear Regression]] (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/what-you-should-know?u=76281980&t=0)** - [Narrator] There are a few things you should know before taking this course.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/what-you-should-know?u=76281980&t=4)** You should be familiar with SQL, and in particular, comfortable with how to use SELECT statements.
+> **[0:04](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/what-you-should-know?u=76281980&t=4)** You should be familiar with [[SQL]], and in particular, comfortable with how to use SELECT statements.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/what-you-should-know?u=76281980&t=9)** You should also be familiar with SQL tables and views, how to create them, and how to load data into tables.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), data (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2), select (1)
 > **SQL:** select (1)
 > **Speakers:** - [narrator] (1)
@@ -147,8 +145,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Characteristics of time series data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980)
+#### [Characteristics of time series data](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=92)** If you're looking at, say, the number of units produced or the number of customers served in a restaurant, our unit of measure is a count.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=100)** Oftentimes, we have to deal with financial data as well.
+> **[1:40](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=100)** Oftentimes, we have to deal with [[Financial Data]] as well.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=104)** Now, in the case of working with financial data, like a company profit, we'll typically use some kind of monetary unit, like dollars or euros.
 >
@@ -222,11 +219,11 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=195)** We'll focus primarily on event time, but these are other types of timestamps convey important information about acquiring and processing time series data.
 >
-> **[3:24](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=204)** Now in this course, we're going to work with time series in relational databases.
+> **[3:24](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=204)** Now in this course, we're going to work with time series in [[Relational Databases]].
 >
-> **[3:28](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=208)** So we'll be querying the data with SQL or SQL.
+> **[3:28](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=208)** So we'll be querying the data with [[SQL]] or SQL.
 >
-> **[3:32](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=212)** While we will often use relational databases in this course, other types of data storage systems often using cloud-based object storage are becoming more widely used for large-scale time series data analysis.
+> **[3:32](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=212)** While we will often use relational databases in this course, other types of [[Data Storage]] systems often using cloud-based object storage are becoming more widely used for large-scale time series data analysis.
 >
 > **[3:46](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980&t=226)** These are particularly useful when ingesting terabytes of data on a daily basis.
 >
@@ -234,15 +231,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), application (3), [[Financial Data]] (2), [[Relational Databases]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Financial Data]] (2), [[Relational Databases]] (2), [[SQL]] (2), [[Data Storage]] (1)
 > **Definitions:** is a  (7), is called (1), refers to (1)
 > **Env Vars:** cpu (2), sql (2)
 > **Analogies:** for example (4)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examples of time series data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/examples-of-time-series-data?u=76281980)
+#### [Examples of time series data](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/examples-of-time-series-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -268,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/examples-of-time-series-data?u=76281980&t=60)** Sometimes we have a longer time horizon.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/examples-of-time-series-data?u=76281980&t=63)** For example, if we're dealing with population statistics, that's still time series data, even though the data intervals might span months or years.
+> **[1:03](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/examples-of-time-series-data?u=76281980&t=63)** For example, if we're dealing with population [[Statistics]], that's still time series data, even though the data intervals might span months or years.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/examples-of-time-series-data?u=76281980&t=71)** Business performance data is another type of time series data.
 >
@@ -276,18 +272,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (2), power (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (1)
 > **Env Vars:** eeg (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing time series data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/writing-time-series-data?u=76281980)
+#### [Writing time series data](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/writing-time-series-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/writing-time-series-data?u=76281980&t=0)** - [Instructor] Let's look at some data modeling issues that we should consider when working with time series data.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/writing-time-series-data?u=76281980&t=0)** - [Instructor] Let's look at some [[Data Modeling]] issues that we should consider when working with time series data.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/writing-time-series-data?u=76281980&t=5)** The first phase of working with time series data is acquiring the data, often called the data ingest phase.
 >
@@ -323,13 +318,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), database (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying time series data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/querying-time-series-data?u=76281980)
+#### [Querying time series data](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/querying-time-series-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +367,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12)
 > **Analogies:** for example (4)
 > **Env Vars:** cpu (3)
 > **Speakers:** - [instructor] (1)
@@ -383,14 +376,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing PostgreSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980)
+#### [Installing PostgreSQL](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=0)** - [Instructor] It's time to install our database.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=2)** We'll be using PostgreSQL, which is also called Postgres.
+> **[0:02](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=2)** We'll be using [[PostgreSQL]], which is also called [[PostgreSQL|Postgres]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=6)** Let's start at the Postgres download page.
 >
@@ -402,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=28)** There are several ways to install Postgres on a Mac, and I'm going to use the EnterpriseDB interactive installer.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=35)** It's easy to use and is available for Mac, Windows, and Linux operating systems.
+> **[0:35](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=35)** It's easy to use and is available for Mac, [[Windows]], and [[Linux]] operating systems.
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=40)** I'll just click on the Download the Installer and now I'll choose the version that I'm interested in.
 >
@@ -424,7 +416,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=86)** Okay, I'm going to select Next from the startup wizard.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=90)** And I'm going to select all of the default options so that'll install Postgres for me, and it will also install PG Admin, which is a tool we'll be using for executing queries and navigating our way around our various tables and other data structures.
+> **[1:30](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=90)** And I'm going to select all of the default options so that'll install Postgres for me, and it will also install PG Admin, which is a tool we'll be using for executing queries and navigating our way around our various tables and other [[Data Structures]].
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980&t=105)** Now, you'll notice I already have an existing installation of Postgres, so it's just going to upgrade for me.
 >
@@ -450,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (11), [[Windows]] (5), next (4), data (3), [[PostgreSQL]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (11), [[Windows]] (5), [[PostgreSQL]] (2), [[Linux]] (2), [[Data Structures]] (1)
 > **Prerequisites:** install (5), setup (1)
 > **UI Navigation:** click on (2), select the (1)
 > **URLs:** [https://www.postgresql.org/download](https://www.postgresql.org/download) (1)
@@ -459,14 +451,13 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Creating schema and tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980)
+#### [Creating schema and tables](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=0)** - [Instructor] Now that we have PostgreSQL installed let's start pgAdmin.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=0)** - [Instructor] Now that we have [[PostgreSQL]] installed let's start pgAdmin.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=4)** Now, in a Mac I'm just going to hit the CMD + space and type in pgAdmin, and I'll select that, on Windows it'll be slightly different, but in either case, pgAdmin application will start.
+> **[0:04](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=4)** Now, in a Mac I'm just going to hit the CMD + space and type in pgAdmin, and I'll select that, on [[Windows]] it'll be slightly different, but in either case, pgAdmin application will start.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=15)** You may see a notice about running a different version of pgAdmin, that's fine you can just ignore that.
 >
@@ -474,7 +465,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=25)** The most important part that we're going to concentrate on, is over in the left panel.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=29)** There's a tree which we can navigate down, which starts with Servers, and you should notice PostgreSQL 11, and you'll notice Databases, Login/Groups, and Tablespaces.
+> **[0:29](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=29)** There's a tree which we can navigate down, which starts with Servers, and you should notice PostgreSQL 11, and you'll notice [[Databases]], Login/Groups, and Tablespaces.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=39)** We're interested in Databases, so we'll open that, and there should be one PostgreSQL database, and then there are a number of kinds of entities that are stored within the PostgreSQL database.
 >
@@ -482,7 +473,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=54)** Now, the first thing we want to do, is we want to create a schema for our time series data.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=59)** So, the way I'll do that, is I will open the Tools, and I will select Query Tool, and this opens a SQL window, and I'm just going to rearrange the window size a little bit here.
+> **[0:59](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=59)** So, the way I'll do that, is I will open the Tools, and I will select Query Tool, and this opens a [[SQL]] window, and I'm just going to rearrange the window size a little bit here.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-schema-and-tables?u=76281980&t=70)** Now, I'm going to open up one of the exercise files, because that has the code for creating the tables that we're going to work with.
 >
@@ -514,7 +505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL]] (6), data (3), [[SQL]] (3), [[Databases]] (2), database (2)
+> **Frameworks & Libraries:** [[PostgreSQL]] (6), [[SQL]] (3), [[Databases]] (2), [[Windows]] (1)
 > **Code Identifiers:** pgadmin (5), time_series (3), location_temp (2), create_time_series (1)
 > **Env Vars:** sql (2), cmd (1), alter (1), cpu (1), ctrl (1)
 > **Exercise Files:** exercise files (3)
@@ -523,8 +514,7 @@ created: 2026-05-02
 > **File Paths:** create_time_series.sql (1)
 > **Cross-References:** in the next (1)
 
-#### Timing a query
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/timing-a-query?u=76281980)
+#### [Timing a query](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/timing-a-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/timing-a-query?u=76281980&t=48)** So, for example, in this case, the script took 236 milliseconds to execute.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/timing-a-query?u=76281980&t=54)** This is useful when you're tuning SQL queries.
+> **[0:54](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/timing-a-query?u=76281980&t=54)** This is useful when you're tuning [[SQL]] queries.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/timing-a-query?u=76281980&t=56)** So you have your history of the queries, and you also have a history of the time it took to execute each of those queries.
 >
@@ -556,7 +546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** pgadmin (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
@@ -564,8 +554,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating query performance with EXPLAIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/evaluating-query-performance-with-explain?u=76281980)
+#### [Evaluating query performance with EXPLAIN](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/evaluating-query-performance-with-explain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +590,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** pgadmin (1), time_series (1)
 > **UI Navigation:** open the (1), click on (1)
 > **Definitions:** is called (1)
@@ -612,8 +600,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time window queries and aggregates
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/time-window-queries-and-aggregates?u=76281980)
+#### [Time window queries and aggregates](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/time-window-queries-and-aggregates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,19 +644,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Definitions:** is a  (2), is called (2)
 > **Env Vars:** cpu (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sliding windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/sliding-windows?u=76281980)
+#### [Sliding windows](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/sliding-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/sliding-windows?u=76281980&t=0)** - [Instructor] Sliding windows is an important concept in working with time series data.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/sliding-windows?u=76281980&t=0)** - [Instructor] Sliding [[Windows]] is an important concept in working with time series data.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/sliding-windows?u=76281980&t=4)** Now, a window, as I mentioned before, is a set of contiguous rows.
 >
@@ -695,13 +680,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tumbling windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/tumbling-windows?u=76281980)
+#### [Tumbling windows](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/tumbling-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,7 +707,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/tumbling-windows?u=76281980&t=32)** So when we move again, we do it at an entire block or window at a time.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/tumbling-windows?u=76281980&t=37)** Now, we sometimes do tumbling windows when we're monitoring change over time, so this is similar to using sliding windows.
+> **[0:37](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/tumbling-windows?u=76281980&t=37)** Now, we sometimes do tumbling [[Windows]] when we're monitoring change over time, so this is similar to using sliding windows.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/tumbling-windows?u=76281980&t=43)** And we often see it when there's some kind of logical grouping of data by time.
 >
@@ -733,13 +717,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Windows]] (3), data (1)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Joining two time series
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/joining-two-time-series?u=76281980)
+#### [Joining two time series](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/joining-two-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,7 +758,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/joining-two-time-series?u=76281980&t=96)** Also, if you do truncate, consider the possibility that you may have multiple rows with the same time.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/joining-two-time-series?u=76281980&t=102)** Now, it's useful to aggregate over time windows, if that's the case you want to make sure you use a group by.
+> **[1:42](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/joining-two-time-series?u=76281980&t=102)** Now, it's useful to aggregate over time [[Windows]], if that's the case you want to make sure you use a group by.
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/joining-two-time-series?u=76281980&t=108)** Consider the degree of precision that you want to have in that particular aggregate, and which aggregate functions you want to use.
 >
@@ -799,14 +782,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Denormalizing time series data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/denormalizing-time-series-data?u=76281980)
+#### [Denormalizing time series data](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/denormalizing-time-series-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -816,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/denormalizing-time-series-data?u=76281980&t=8)** So the idea behind denormalizing is that we combine columns from multiple tables into a single table.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/denormalizing-time-series-data?u=76281980&t=14)** This is called pre-joining, and some databases, like Postgres and Oracle and others, can support this kind of denormalizing using materialized views.
+> **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/denormalizing-time-series-data?u=76281980&t=14)** This is called pre-joining, and some [[Databases]], like [[PostgreSQL|Postgres]] and Oracle and others, can support this kind of denormalizing using materialized views.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/denormalizing-time-series-data?u=76281980&t=24)** With denormalized data, we do a join once, and this is useful when the data is queried multiple times.
 >
@@ -844,13 +826,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/denormalizing-time-series-data?u=76281980&t=90)** So if the reference data changes, we still have copies of the way the data used to appear so that we can accurately represent what that reference data was at different points in time.
 >
-> **[1:41](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/denormalizing-time-series-data?u=76281980&t=101)** Now, the disadvantages are, of course, we're using more data storage because we're storing our time series data, we're storing our reference data, and we're storing the combination of the two.
+> **[1:41](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/denormalizing-time-series-data?u=76281980&t=101)** Now, the disadvantages are, of course, we're using more [[Data Storage]] because we're storing our time series data, we're storing our reference data, and we're storing the combination of the two.
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/denormalizing-time-series-data?u=76281980&t=111)** Another disadvantage is it makes our ingest process more complex.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Databases]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[PostgreSQL|Postgres]] (1), [[Data Storage]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - [instructor] (1)
@@ -860,8 +842,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Example data set 1: Temperature by time and location
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-1-temperature-by-time-and-location?u=76281980)
+#### [Example data set 1: Temperature by time and location](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-1-temperature-by-time-and-location?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,7 +872,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-1-temperature-by-time-and-location?u=76281980&t=75)** You may need to change permissions on the data files.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-1-temperature-by-time-and-location?u=76281980&t=78)** I've created an instruction file with instructions for how to do that in Windows, Mac, and Linux.
+> **[1:18](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-1-temperature-by-time-and-location?u=76281980&t=78)** I've created an instruction file with instructions for how to do that in [[Windows]], Mac, and [[Linux]].
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-1-temperature-by-time-and-location?u=76281980&t=84)** That file is located in the exercise file directory for this chapter.
 >
@@ -925,7 +906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **Exercise Files:** exercise files (2), exercise file (2)
 > **UI Navigation:** click on (1), select the (1), open the (1)
 > **Definitions:** is a  (3)
@@ -934,8 +915,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Indexing data set 1: Time index only
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-index-only?u=76281980)
+#### [Indexing data set 1: Time index only](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-index-only?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,7 +929,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-index-only?u=76281980&t=34)** We have an aggregate function up here using average, so we're going to need a group by, so we'll group by location_id.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-index-only?u=76281980&t=41)** Now, I don't really want the average right now, what I'm really interested in is understanding how PostgreSQL will execute that query.
+> **[0:41](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-index-only?u=76281980&t=41)** Now, I don't really want the average right now, what I'm really interested in is understanding how [[PostgreSQL]] will execute that query.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-index-only?u=76281980&t=49)** So, I'm going to put the explain command before the select statement and now when I execute, instead of getting the results of the query, I actually get the explain plan.
 >
@@ -1015,14 +995,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL]] (2), data (1), parallel (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (2)
 > **Code Identifiers:** location_temp (4), location_id (3), temp_celcius (2), time_series (2), idx_loc_temp_location (2)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Indexing data set 1: Time and location index
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-and-location-index?u=76281980)
+#### [Indexing data set 1: Time and location index](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-and-location-index?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1032,7 +1011,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-and-location-index?u=76281980&t=17)** Okay, so there are no indexes there.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-and-location-index?u=76281980&t=19)** So we're starting with an index-free schema here, or at least with respect to this table, and we're going to work with our basic SQL query that we've been working with, which is to select by location ID the average temperature.
+> **[0:19](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-and-location-index?u=76281980&t=19)** So we're starting with an index-free schema here, or at least with respect to this table, and we're going to work with our basic [[SQL]] query that we've been working with, which is to select by location ID the average temperature.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-and-location-index?u=76281980&t=33)** And that's from the time series schema table called location temp.
 >
@@ -1042,7 +1021,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-and-location-index?u=76281980&t=54)** And we'll go to the 6th.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-and-location-index?u=76281980&t=56)** One convenient thing about working with dates with Postgres is it if a string is in a standard date format, which is year, month, day, it will automatically cast that string into a date-time or a timestamp as appropriate.
+> **[0:56](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-and-location-index?u=76281980&t=56)** One convenient thing about working with dates with [[PostgreSQL|Postgres]] is it if a string is in a standard date format, which is year, month, day, it will automatically cast that string into a date-time or a timestamp as appropriate.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-1-time-and-location-index?u=76281980&t=70)** And I do want to do a group by, and I'm going to group by location ID.
 >
@@ -1116,15 +1095,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), [[PostgreSQL|Postgres]] (1), parallel (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1), idx (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a partitioned table
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-a-partitioned-table?u=76281980)
+#### [Creating a partitioned table](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-a-partitioned-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1110,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-a-partitioned-table?u=76281980&t=5)** Now, for this exercise I'm going to open one of the exercise files and I'm navigating to where I've stored my exercise files, and I've navigated to chapter four.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-a-partitioned-table?u=76281980&t=14)** And I'm going to open the file called 4.4 partition by time dot SQL.
+> **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-a-partitioned-table?u=76281980&t=14)** And I'm going to open the file called 4.4 partition by time dot [[SQL]].
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-a-partitioned-table?u=76281980&t=20)** Now, this exercise file has a number of different parts, so let's take a walk through it.
 >
@@ -1144,7 +1122,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-a-partitioned-table?u=76281980&t=45)** The other thing you'll notice that's different is there is an additional statement called partition by range and it references that event hour column we're creating.
 >
-> **[0:55](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-a-partitioned-table?u=76281980&t=55)** What this statement does is it creates a table but it indicates to Postgres that the table will also have partitions associated with it.
+> **[0:55](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-a-partitioned-table?u=76281980&t=55)** What this statement does is it creates a table but it indicates to [[PostgreSQL|Postgres]] that the table will also have partitions associated with it.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/creating-a-partitioned-table?u=76281980&t=63)** And the data will be distributed across those different partitions based on the event hour.
 >
@@ -1222,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[SQL]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **UI Navigation:** scroll down (2), open the (1)
 > **Exercise Files:** exercise files (2), exercise file (1)
 > **Definitions:** is called (2), is an  (1)
@@ -1231,14 +1209,13 @@ created: 2026-05-02
 > **Versions:** 4.4 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying a partitioned table
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/querying-a-partitioned-table?u=76281980)
+#### [Querying a partitioned table](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/querying-a-partitioned-table?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/querying-a-partitioned-table?u=76281980&t=0)** - [Instructor] Now that we've created a partition table, let's look at some EXPLAIN PLANS for querying that table.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/querying-a-partitioned-table?u=76281980&t=5)** I'm going to open an exercise file, so I've navigated to chapter four and I'm going to open the file named 4.5 Query Partition Table.sql.
+> **[0:05](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/querying-a-partitioned-table?u=76281980&t=5)** I'm going to open an exercise file, so I've navigated to chapter four and I'm going to open the file named 4.5 Query Partition Table.[[SQL]].
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/querying-a-partitioned-table?u=76281980&t=15)** And, this file contains three explained statements and I'm basically going to run them from here other than typing them all in again.
 >
@@ -1288,7 +1265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (1), parallel (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** explain (3), where (3), plan (2), plans (1)
 > **SQL:** where (3)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -1297,8 +1274,7 @@ created: 2026-05-02
 > **Versions:** 4.5 (1)
 > **Exercise Files:** exercise file (1)
 
-#### Example data set 2: CPU utilization and application type
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-2-cpu-utilization-and-application-type?u=76281980)
+#### [Example data set 2: CPU utilization and application type](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-2-cpu-utilization-and-application-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,7 +1282,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-2-cpu-utilization-and-application-type?u=76281980&t=4)** In this case, we'll work with some very simplified version of application performance monitoring data.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-2-cpu-utilization-and-application-type?u=76281980&t=11)** I'm going to navigate to the open file and I'm going to navigate to chapter four, and I'm going to locate the file called 4.6 Load_Utilization_Data.sql, and I'll just select that.
+> **[0:11](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-2-cpu-utilization-and-application-type?u=76281980&t=11)** I'm going to navigate to the open file and I'm going to navigate to chapter four, and I'm going to locate the file called 4.6 Load_Utilization_Data.[[SQL]], and I'll just select that.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-2-cpu-utilization-and-application-type?u=76281980&t=25)** And you'll notice there is a copy command, so this is like the other copy command.
 >
@@ -1338,7 +1314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **File Paths:** load_utilization_data.sql (1), utilization.txt (1)
 > **Env Vars:** cpu (2)
 > **UI Navigation:** navigate to (2)
@@ -1347,8 +1323,7 @@ created: 2026-05-02
 > **Versions:** 4.6 (1)
 > **Exercise Files:** exercise files (1)
 
-#### Indexing data set 2: Time and type Indexing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-2-time-and-type-indexing?u=76281980)
+#### [Indexing data set 2: Time and type Indexing](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/indexing-data-set-2-time-and-type-indexing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1420,7 +1395,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** event_time (5), time_series (3), server_id (3), idx_util_time_serv (1), idx_util_serv_time (1)
 > **Env Vars:** select (2), where (2), explain (2), cpu (1), between (1)
 > **SQL:** select (2), where (2), group by (1), index (1)
@@ -1432,11 +1406,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lead
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lead?u=76281980)
+#### [Lead](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lead?u=76281980)
 
-#### Lag
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lag?u=76281980)
+#### [Lag](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1444,7 +1416,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lag?u=76281980&t=3)** It's like Lead, but it refers to rows that occur before the current row.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lag?u=76281980&t=9)** So rather than type everything in again, I'm going to navigate up to my chapter five exercise folder, and I'm going to open up Lag.SQL, and let's just take a quick look at this.
+> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lag?u=76281980&t=9)** So rather than type everything in again, I'm going to navigate up to my chapter five exercise folder, and I'm going to open up Lag.[[SQL]], and let's just take a quick look at this.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lag?u=76281980&t=29)** So what we have here is similar to what we had before.
 >
@@ -1475,8 +1447,7 @@ created: 2026-05-02
 > **File Paths:** lag.sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rank
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/rank?u=76281980)
+#### [Rank](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/rank?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1513,8 +1484,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Percent rank
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/percent-rank?u=76281980)
+#### [Percent rank](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/percent-rank?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1538,8 +1508,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common Table Expressions and recursion
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980)
+#### [Common Table Expressions and recursion](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,7 +1516,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980&t=6)** Now this can lead to a series of subqueries and they can get complicated and hard to read.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980&t=11)** One of the options in newer versions of SQL is called Common Table Expressions.
+> **[0:11](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980&t=11)** One of the options in newer versions of [[SQL]] is called Common Table Expressions.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980&t=16)** And that's basically a way of creating a temporary table that's used just with a single select statement.
 >
@@ -1567,7 +1536,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980&t=52)** So I'm going to extract that by using the date trunc function.
 >
-> **[0:57](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980&t=57)** And I'm going to tell PostgreS that I want to truncate the timestamp to a day.
+> **[0:57](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980&t=57)** And I'm going to tell [[PostgreSQL|PostgreS]] that I want to truncate the timestamp to a day.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980&t=63)** And let's alias that as event date.
 >
@@ -1623,13 +1592,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Calculating aggregates over windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/calculating-aggregates-over-windows?u=76281980)
+#### [Calculating aggregates over windows](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/calculating-aggregates-over-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1653,13 +1621,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** cpu (5)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Previous day comparison
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/previous-day-comparison?u=76281980)
+#### [Previous day comparison](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/previous-day-comparison?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1732,14 +1698,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Moving averages
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/moving-averages?u=76281980)
+#### [Moving averages](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/moving-averages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/moving-averages?u=76281980&t=0)** - In addition to working with specific data points like the average CPU utilization at a point in time, we might want to know the average utilization over the past hour at any particular point in time.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/moving-averages?u=76281980&t=12)** That's where sliding windows come in.
+> **[0:12](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/moving-averages?u=76281980&t=12)** That's where sliding [[Windows]] come in.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/moving-averages?u=76281980&t=14)** So let's look at how to do that.
 >
@@ -1767,13 +1732,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** cpu (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Weighted moving averages
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/weighted-moving-averages?u=76281980)
+#### [Weighted moving averages](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/weighted-moving-averages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1893,7 +1857,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** event_date (3), daily_avg_temp (2), date_trunc (1)
 > **SQL:** select (2), where (1)
 > **Env Vars:** select (2), where (1)
@@ -1901,9 +1864,9 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is called (1)
+> **Speakers:** - [instructor] (1)
 
-#### Forecasting with linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980)
+#### [Forecasting with linear regression](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1913,7 +1876,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980&t=15)** Sometimes though, we want to predict what's going to happen in the future and we can do that using regression functions.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980&t=21)** And we're going to work with linear regression and basically the idea is we're going to make predictions based on what we've seen in the past.
+> **[0:21](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980&t=21)** And we're going to work with [[Linear Regression]] and basically the idea is we're going to make predictions based on what we've seen in the past.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980&t=28)** So to start, I just want to remind everybody from some high school math.
 >
@@ -1929,7 +1892,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980&t=56)** So what we need to do, is we need to calculate the slope and the intercept first.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980&t=60)** Fortunately, PostgreSQL gives us functions for that.
+> **[1:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980&t=60)** Fortunately, [[PostgreSQL]] gives us functions for that.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/forecasting-with-linear-regression?u=76281980&t=64)** So we'll write Select and the function is regr for regression, slope and regression slope takes two parameters.
 >
@@ -1973,15 +1936,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Linear Regression]] (2), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[PostgreSQL]] (1)
 > **Env Vars:** cpu (8)
 > **CLI Commands:** make (1)
 > **Versions:** 0.67 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exponential moving average
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/exponential-moving-average?u=76281980)
+#### [Exponential moving average](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/exponential-moving-average?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2011,11 +1973,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/exponential-moving-average?u=76281980&t=77)** They just don't perform very well.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/exponential-moving-average?u=76281980&t=79)** Instead, it's recommended that you use a user defined function, or possibly use another tool, such as R or another statistical analysis package.
+> **[1:19](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/exponential-moving-average?u=76281980&t=79)** Instead, it's recommended that you use a user defined function, or possibly use another tool, such as R or another [[Statistical Analysis]] package.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (1)
 > **Definitions:** is called (2), is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** recommended (2)
@@ -2027,24 +1989,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980&t=0)** - [Narrator] Now that you're familiar with time series data, and using SQL to analyze time series, there are a few other topics you might want to look into.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980&t=0)** - [Narrator] Now that you're familiar with time series data, and using [[SQL]] to analyze time series, there are a few other topics you might want to look into.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980&t=8)** I suggest looking for my Advanced SQL for Data Science course, which can show you additional ways of using windowing functions, and related techniques in SQL.
+> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980&t=8)** I suggest looking for my Advanced SQL for [[Data Science]] course, which can show you additional ways of using windowing functions, and related techniques in SQL.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980&t=18)** I'd also suggest looking for my Advanced Tuning course, on SQL queries, and performance optimization.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980&t=24)** Also, as useful as SQL is, it does have its limits when working with time series data.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980&t=29)** So I often suggest that people look at the R statistics package, which is a popular open-source statistics package, and it includes many advanced modules for time series analysis modeling, and other related tasks.
+> **[0:29](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980&t=29)** So I often suggest that people look at the R [[Statistics]] package, which is a popular open-source statistics package, and it includes many advanced modules for [[Time Series Analysis]] modeling, and other related tasks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (3), [[Statistics]] (2), open-source (1), [[Time Series Analysis]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Statistics]] (2), [[Data Science]] (1), [[Time Series Analysis]] (1)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)

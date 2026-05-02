@@ -65,8 +65,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining the audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/defining-the-audience?u=76281980)
+#### [Defining the audience](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/defining-the-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,14 +95,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), leadership (3), next (1), product (1), application (1)
 > **Env Vars:** ceo (1), cfo (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [lee] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/what-you-should-know?u=76281980&t=6)** So if you haven't watched that course yet, do that first.
 >
-> **[0:09](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/what-you-should-know?u=76281980&t=9)** That course discusses who each member of the C-suite is, what they care about, and how to talk to your senior leadership about concepts around cloud computing and operating in the cloud.
+> **[0:09](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/what-you-should-know?u=76281980&t=9)** That course discusses who each member of the C-suite is, what they care about, and how to talk to your senior leadership about concepts around [[Cloud Computing]] and operating in the cloud.
 >
 > **[0:21](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/what-you-should-know?u=76281980&t=21)** In this course, we take the concepts discussed in the first course, concepts like dynamic infrastructures, cloud financing, security, and extend them to talk about how to convince the senior leadership and C-suite of your company to implement a cloud migration for an existing project or to use the cloud as the infrastructure basis of a new project.
 >
@@ -123,7 +120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), leadership (2), [[Security]] (1), management (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -132,8 +129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reintroducing Explore California
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/reintroducing-explore-california?u=76281980)
+#### [Reintroducing Explore California](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/reintroducing-explore-california?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,20 +179,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), leadership (3), [[Security]] (2)
 > **Env Vars:** ceo (1), cfo (1), cto (1), cso (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Application scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/application-scaling?u=76281980)
+#### [Application scaling](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/application-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/application-scaling?u=76281980&t=0)** - [Narrator] Well, it seems this year, everybody wants to visit California.
 >
-> **[0:04](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/application-scaling?u=76281980&t=4)** Explore California is seeing an unprecedented growth and needs to scale up and this means more servers, more load balancers, APIs, databases, caching.
+> **[0:04](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/application-scaling?u=76281980&t=4)** Explore California is seeing an unprecedented growth and needs to scale up and this means more servers, more load balancers, APIs, [[Databases]], caching.
 >
 > **[0:16](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/application-scaling?u=76281980&t=16)** There has been somewhat predictable steady growth, but there's also been events which make scaling up not just a needs to happen, but a really, really needs to happen now.
 >
@@ -268,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), cloud (9), traffic (3), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** cpu (1)
@@ -276,8 +270,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Availability benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/availability-benefits?u=76281980)
+#### [Availability benefits](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/availability-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/availability-benefits?u=76281980&t=24)** Certainly, Tracy, their CTO, understands the importance of availability of the Explore California website and backend infrastructure.
 >
-> **[0:33](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/availability-benefits?u=76281980&t=33)** If something fails in the website, customers won't be able to purchase the products that Explore California is selling.
+> **[0:33](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/availability-benefits?u=76281980&t=33)** If something fails in the website, customers won't be able to purchase the [[Microsoft Products|products]] that Explore California is selling.
 >
 > **[0:40](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/availability-benefits?u=76281980&t=40)** While some will come back later when the application is working again, others will find competitive offerings and purchase products on their sites.
 >
@@ -333,13 +326,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), traffic (4), [[Microsoft Products|Products]] (2), cloud (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** cto (1)
 > **Speakers:** - [lee] (1)
 
-#### Cost management benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cost-management-benefits?u=76281980)
+#### [Cost management benefits](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cost-management-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -381,9 +373,9 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cost-management-benefits?u=76281980&t=124)** Any extra resource you need is created on demand just in time.
 >
-> **[2:09](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cost-management-benefits?u=76281980&t=129)** Just-in-time infrastructure is a hugely valuable aspect of cloud computing, and it is a big contributor to reducing the cost of a highly scalable, high availability web application in the cloud.
+> **[2:09](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cost-management-benefits?u=76281980&t=129)** Just-in-time infrastructure is a hugely valuable aspect of [[Cloud Computing]], and it is a big contributor to reducing the cost of a highly scalable, high availability web application in the cloud.
 >
-> **[2:21](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cost-management-benefits?u=76281980&t=141)** Just-in-time infrastructure is available for resources that perform front-end, authentication, API, and backend databases.
+> **[2:21](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cost-management-benefits?u=76281980&t=141)** Just-in-time infrastructure is available for resources that perform front-end, authentication, API, and backend [[Databases]].
 >
 > **[2:29](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cost-management-benefits?u=76281980&t=149)** All of it is ready in a matter of seconds from the cloud provider.
 >
@@ -397,15 +389,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), cloud (4), leadership (1), web application (1), front-end (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Databases]] (1)
 > **Prerequisites:** set up (5), install (1)
 > **Env Vars:** jit (2), cfo (1), api (1)
 > **Definitions:** is a  (4)
 > **Cross-References:** in the last (1), go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Impact on operations management and planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-operations-management-and-planning?u=76281980)
+#### [Impact on operations management and planning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-operations-management-and-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -427,7 +418,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-operations-management-and-planning?u=76281980&t=50)** The cloud provider maintains it, operates it, and resolves any issues that come up.
 >
-> **[0:56](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-operations-management-and-planning?u=76281980&t=56)** They take care of all hardware maintenance and replace failing hardware routinely.
+> **[0:56](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-operations-management-and-planning?u=76281980&t=56)** They take care of all [[Hardware]] maintenance and replace failing hardware routinely.
 >
 > **[1:01](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-operations-management-and-planning?u=76281980&t=61)** They do everything.
 >
@@ -457,11 +448,11 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-operations-management-and-planning?u=76281980&t=157)** There's an added benefit to having data stored in multiple places around the globe.
 >
-> **[2:41](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-operations-management-and-planning?u=76281980&t=161)** Your international customers will find that the website loads faster and provides quicker confirmation of their purchases, leading to a better lower latency user experience.
+> **[2:41](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-operations-management-and-planning?u=76281980&t=161)** Your international customers will find that the website loads faster and provides quicker confirmation of their purchases, leading to a better lower latency [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (8), [[Hardware]] (3), power (1), api (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** cto (1), api (1)
 > **Documentation:** specification (1)
@@ -469,8 +460,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Impact on security
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980)
+#### [Impact on security](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980&t=44)** Here's why.
 >
-> **[0:46](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980&t=46)** The wide range of out-of-the-box security management, analytics and threat detection that's available by cloud providers is staggeringly impressive.
+> **[0:46](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980&t=46)** The wide range of out-of-the-box [[Security Management]], analytics and threat detection that's available by cloud providers is staggeringly impressive.
 >
 > **[0:56](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980&t=56)** See, it's in the cloud providers' best interests to make sure their cloud offerings are safe and secure, and that the applications you build on top of them are also safe and secure.
 >
@@ -508,9 +498,9 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980&t=129)** Now let's talk about the conversation itself.
 >
-> **[2:12](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980&t=132)** This could actually be the easiest conversation you have with senior company leadership because Sven and his team will likely already know about the benefits of cloud security.
+> **[2:12](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980&t=132)** This could actually be the easiest conversation you have with senior company leadership because Sven and his team will likely already know about the benefits of [[Cloud Security]].
 >
-> **[2:23](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980&t=143)** Sven could actually be one of your biggest allies in convincing the rest of the C suite the value of using the cloud.
+> **[2:23](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980&t=143)** Sven could actually be one of your biggest allies in convincing the [[Representational State Transfer (REST)|rest]] of the C suite the value of using the cloud.
 >
 > **[2:29](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/impact-on-security?u=76281980&t=149)** But it does work two ways.
 >
@@ -522,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[Security]] (9), data (4), [[Representational State Transfer (REST)|Rest]] (3), management (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Security Management]] (1), [[Cloud Security]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** cso (1), aws (1)
@@ -533,8 +523,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structuring the conversation for success
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980)
+#### [Structuring the conversation for success](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,7 +531,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980&t=10)** How you talk to Tracey, the CTO, is different than how you talk to Dustin, the CEO, or Jerome, the CFO.
 >
-> **[0:17](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980&t=17)** You can't expect to walk into Dustin's office and talk about the benefits of operation management and planning.
+> **[0:17](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980&t=17)** You can't expect to walk into Dustin's [[Microsoft Office|office]] and talk about the benefits of operation management and planning.
 >
 > **[0:24](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980&t=24)** Yet, you'll need to build a single comprehensive proposal for your project, covering all of the important aspects in order for it to get the consideration that it really requires.
 >
@@ -552,39 +541,38 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980&t=46)** Depending on the project and your specific audience, one or more of these structures will be necessary for your conversation.
 >
-> **[0:53](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980&t=53)** The three structures are: in terms of customer benefit, which is mostly for the CEO; in terms of financial benefit, which is mostly for the CFO; and in terms of operational excellence, which is for the benefit of the CTO.
+> **[0:53](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980&t=53)** The three structures are: in terms of customer benefit, which is mostly for the CEO; in terms of financial benefit, which is mostly for the CFO; and in terms of [[Operational Excellence]], which is for the benefit of the CTO.
 >
 > **[1:08](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980&t=68)** We're going to talk about each of these in turn.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), leadership (1), [[Microsoft Office|Office]] (1), management (1), [[Operational Excellence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Operational Excellence]] (1)
 > **Env Vars:** cto (2), ceo (2), cfo (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud migration in customer terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980)
+#### [Cloud migration in customer terms](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=0)** - [Instructor] Showing a direct benefit to your customer is a compelling way to show project benefit to Dustin, the CEO of Explore California.
 >
-> **[0:08](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=8)** High availability and scalability are important, and they certainly affect the customer's experience, but nowadays, customers expect those features to operate invisibly.
+> **[0:08](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=8)** High availability and [[Scalability]] are important, and they certainly affect the customer's experience, but nowadays, customers expect those features to operate invisibly.
 >
 > **[0:18](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=18)** So what is it that customers can really sense about their experience on your website?
 >
-> **[0:24](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=24)** Well, they can notice pictures loading faster, forms respond to being submitted faster.
+> **[0:24](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=24)** Well, they can notice pictures loading faster, [[Forms]] respond to being submitted faster.
 >
 > **[0:30](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=30)** What about the feeling of security that is provided by having fast functioning multifactor authentication?
 >
 > **[0:37](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=37)** What about fewer 404 errors?
 >
-> **[0:40](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=40)** For Explore California, having a fast effective website means customers will walk away happy, tell their friends and keep coming back for more products and more services.
+> **[0:40](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=40)** For Explore California, having a fast effective website means customers will walk away happy, tell their friends and keep coming back for more [[Microsoft Products|products]] and more services.
 >
 > **[0:52](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=52)** So how does this work?
 >
-> **[0:54](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=54)** Well, as an example, you could argue that by using the cloud, you have a greater quality of cloud data storage available for a lower cost.
+> **[0:54](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=54)** Well, as an example, you could argue that by using the cloud, you have a greater quality of cloud [[Data Storage]] available for a lower cost.
 >
 > **[1:02](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-customer-terms?u=76281980&t=62)** This means that you can increase data limits to your customer and potentially increase data retention time For key customer data.
 >
@@ -596,13 +584,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), data (5), [[Scalability]] (1), [[Forms]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Forms]] (1), [[Microsoft Products|Products]] (1), [[Data Storage]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud migration in financial terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-financial-terms?u=76281980)
+#### [Cloud migration in financial terms](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-financial-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,11 +625,11 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-financial-terms?u=76281980&t=137)** Then let the cloud construct the data center for you, all ready to go in a very short period of time.
 >
-> **[2:23](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-financial-terms?u=76281980&t=143)** Emergency management and emergency planning are major components of effective financial planning.
+> **[2:23](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-financial-terms?u=76281980&t=143)** Emergency management and emergency planning are major components of effective [[Financial Planning]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), data (5), application (2), web application (1), management (1)
+> **Frameworks & Libraries:** [[Financial Planning]] (1)
 > **Env Vars:** cogs (3), cfo (1), jit (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
@@ -650,18 +637,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud migration in operational excellence terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980)
+#### [Cloud migration in operational excellence terms](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=0)** - [Instructor] How does using the cloud improve your ability to provide a solid operational environment that is reliable, repeatable, and stable.
 >
-> **[0:09](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=9)** This operational excellence conversation will be highly valuable when you're having the conversation with your CTO, VP of engineering, VP of operations, or other senior engineering and operations leadership as these are the sorts of concerns they deal with on a regular basis.
+> **[0:09](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=9)** This [[Operational Excellence]] conversation will be highly valuable when you're having the conversation with your CTO, VP of engineering, VP of operations, or other senior engineering and operations leadership as these are the sorts of concerns they deal with on a regular basis.
 >
 > **[0:27](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=27)** One of the key attributes of the cloud that can help significantly with your operational excellence argument is the idea of templated infrastructure.
 >
-> **[0:37](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=37)** The basis of templated infrastructure or infrastructure as code or IoC, is not a cloud specific topic per se, but the cloud is specifically tailored for using templated infrastructure processes and techniques.
+> **[0:37](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=37)** The basis of templated infrastructure or [[Infrastructure as code (IaC)|infrastructure as code]] or IoC, is not a cloud specific topic per se, but the cloud is specifically tailored for using templated infrastructure processes and techniques.
 >
 > **[0:54](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=54)** Basically the idea is to create a blueprint of what you want your infrastructure architecture to look like.
 >
@@ -683,15 +669,15 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=90)** What about auto-scaling?
 >
-> **[1:32](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=92)** How many databases and what type do you need?
+> **[1:32](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=92)** How many [[Databases]] and what type do you need?
 >
 > **[1:35](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=95)** How and where will non-structured data be stored?
 >
-> **[1:39](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=99)** What other cloud services such as Queues, FIFOs and caches do you need and how are they connected to everything else?
+> **[1:39](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=99)** What other [[Cloud Services]] such as Queues, FIFOs and caches do you need and how are they connected to everything else?
 >
 > **[1:47](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=107)** All of this can be described in your infrastructure architecture.
 >
-> **[1:51](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=111)** This blueprint can be fed directly to the cloud and the necessary cloud infrastructure components can be directly built from that blueprint.
+> **[1:51](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=111)** This blueprint can be fed directly to the cloud and the necessary [[Cloud Infrastructure]] components can be directly built from that blueprint.
 >
 > **[2:00](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/cloud-migration-in-operational-excellence-terms?u=76281980&t=120)** Specialized cloud services, such as AWS cloud formation, do the job of creating the infrastructure from these documented infrastructure architectures.
 >
@@ -717,7 +703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), application (4), [[Operational Excellence]] (3), data (3), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[Operational Excellence]] (3), [[Cloud Services]] (3), [[Cloud Infrastructure]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Databases]] (1)
 > **Analogies:** such as (3), for example (2), just like (1)
 > **Env Vars:** cto (1), aws (1)
 > **CLI Commands:** aws (1)
@@ -729,8 +715,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Outlining a cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/outlining-a-cloud-migration?u=76281980)
+#### [Outlining a cloud migration](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/outlining-a-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -762,7 +747,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/outlining-a-cloud-migration?u=76281980&t=93)** The details of this plan are highly personal to your company, and it needs to be tailored specifically to your specific needs, but there are a few issues you should have potential solutions for at the ready.
 >
-> **[1:46](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/outlining-a-cloud-migration?u=76281980&t=106)** These questions are, do we want to break certain monolithic features of the on-prem application into microservices during the migration to the cloud?
+> **[1:46](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/outlining-a-cloud-migration?u=76281980&t=106)** These questions are, do we want to break certain monolithic features of the on-prem application into [[Microservices]] during the migration to the cloud?
 >
 > **[1:56](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/outlining-a-cloud-migration?u=76281980&t=116)** How long should the cloud migration actually take?
 >
@@ -774,11 +759,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), leadership (3), next (3), application (2), management (1)
+> **Frameworks & Libraries:** [[Microservices]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Costs and benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/costs-and-benefits?u=76281980)
+#### [Costs and benefits](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/costs-and-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,7 +788,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/costs-and-benefits?u=76281980&t=65)** This concern often flows back downstream and ends up impacting legitimate cloud uses and limiting the value of the cloud to companies because the executives are concerned about runaway costs.
 >
-> **[1:17](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/costs-and-benefits?u=76281980&t=77)** And unmonitored and out of control cloud spend ends up reducing the effectiveness of your cloud strategy and reduces your ability to utilize the cloud in the places it can really help because it is hard to justify costs when the costs can't be managed.
+> **[1:17](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/costs-and-benefits?u=76281980&t=77)** And unmonitored and out of control cloud spend ends up reducing the effectiveness of your [[Cloud Strategy]] and reduces your ability to utilize the cloud in the places it can really help because it is hard to justify costs when the costs can't be managed.
 >
 > **[1:37](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/costs-and-benefits?u=76281980&t=97)** Having a strategy for managing costs is essential for obtaining value from the cloud.
 >
@@ -836,7 +820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), leadership (1)
+> **Frameworks & Libraries:** [[Cloud Strategy]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cfo (1)
 > **Analogies:** such as (1)
@@ -847,8 +831,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further conversations with the C-suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980)
+#### [Further conversations with the C-suite](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,7 +847,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980&t=32)** It's now your responsibility to keep your leadership informed about the progress of your migration regularly so that they can be ready to go when important decisions are needed to be made during the migration.
 >
-> **[0:46](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980&t=46)** You need to make sure your project is set up for success and that your [[Executive Leadership]] is set up for success.
+> **[0:46](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980&t=46)** You need to make sure your project is set up for success and that your [[[[Executive Leadership]]]] is set up for success.
 >
 > **[0:53](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980&t=53)** Explore California is all set to become the premiere hub for exploring and purchasing uniquely California vacation experiences.
 >
@@ -876,7 +859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), leadership (2), [[Executive Leadership]] (1), business (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (3)
 > **Speakers:** - [lee] (1)

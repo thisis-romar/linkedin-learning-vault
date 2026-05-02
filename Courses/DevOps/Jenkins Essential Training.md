@@ -95,22 +95,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From code to production with Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980)
+#### [From code to production with Jenkins](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=0)** - The Jenkins continuous integration platform is one of the most capable and widely used automation frameworks in the world.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=0)** - The [[Jenkins]] [[Continuous Integration (CI)|continuous integration]] platform is one of the most capable and widely used automation frameworks in the world.
 >
 > **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=7)** Hi, I'm Michael Jenkins, a computer engineer with a background in process automation.
 >
-> **[0:14](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=14)** I'm a DevOps practitioner and a site reliability engineer.
+> **[0:14](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=14)** I'm a [[DevOps]] practitioner and a site reliability engineer.
 >
 > **[0:19](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=19)** In this course we'll look at advanced ways to use Jenkins, an application that's been in my toolbox for years.
 >
-> **[0:27](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=27)** We'll start by discussing why Jenkins is an excellent tool for enabling a DevOps approach to software development.
+> **[0:27](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=27)** We'll start by discussing why Jenkins is an excellent tool for enabling a DevOps approach to [[Software Development]].
 >
-> **[0:35](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=35)** Then we'll see how Jenkins allows engineers and developers to create pipelines using configuration as code stored in GitHub repositories.
+> **[0:35](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=35)** Then we'll see how Jenkins allows engineers and developers to create pipelines using configuration as code stored in [[GitHub]] repositories.
 >
 > **[0:45](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980&t=45)** We'll go even further as we explore distributed builds, managing artifacts, and the steps needed to keep Jenkins secure.
 >
@@ -118,13 +117,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (7), [[Automation]] (2), [[DevOps]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), application (1)
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[DevOps]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Software Development]] (1), [[GitHub]] (1)
 > **Tools:** github (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=5)** This is an intermediate level course.
 >
-> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=7)** So I will expect that you already have some experience using Jenkins.
+> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=7)** So I will expect that you already have some experience using [[Jenkins]].
 >
 > **[0:13](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=13)** You should know how to install plugins and configure global tools.
 >
@@ -144,13 +142,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=34)** It covers everything you need to know to get up and running with Jenkins and will position you nicely to get the most out of this course.
 >
-> **[0:43](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=43)** You should also be comfortable working with the Git version control system and a Git service like GitHub, GitLab, or Bitbucket.
+> **[0:43](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=43)** You should also be comfortable working with the [[Git]] [[Version Control]] system and a Git service like [[GitHub]], GitLab, or [[Bitbucket]].
 >
 > **[0:53](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=53)** We'll be using GitHub, so if you're already up to speed on that platform, you'll be all set.
 >
-> **[1:02](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=62)** If you need resources for Git or GitHub there are courses here in the LinkedIn Learning Library that you can refer to.
+> **[1:02](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=62)** If you need resources for Git or GitHub there are courses here in the [[LinkedIn]] Learning Library that you can refer to.
 >
-> **[1:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=70)** And lastly, it will help if you have experience working with the Linux operating system and Command-line interfaces.
+> **[1:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=70)** And lastly, it will help if you have experience working with the [[Linux]] operating system and Command-line interfaces.
 >
 > **[1:19](https://www.linkedin.com/learning/jenkins-essential-training-17420152/what-you-should-know?u=76281980&t=79)** You don't need to be a complete system administrator but having some experience with Linux and Command-line interfaces will help with commands on the server where Jenkins is running.
 >
@@ -175,14 +173,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Jenkins and the DevOps lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980)
+#### [Jenkins and the DevOps lifecycle](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=0)** - [Instructor] The DevOps Life Cycle consists of eight stages in the planning, development, and operation of a system, or software application.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=0)** - [Instructor] The [[DevOps]] Life Cycle consists of eight stages in the planning, development, and operation of a system, or software application.
 >
-> **[0:08](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=8)** Let's take a look at how Jenkins fits into the DevOps Life Cycle and how using Jenkins ties into continuous integration and continuous deployment.
+> **[0:08](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=8)** Let's take a look at how [[Jenkins]] fits into the DevOps Life Cycle and how using Jenkins ties into [[Continuous Integration (CI)|continuous integration]] and continuous deployment.
 >
 > **[0:21](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=21)** The DevOps Life Cycle is presented as an infinity symbol because the cycle is continuous.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=70)** When tools like Jenkins are used to automate the build and test stages, the process is known as continuous integration.
 >
-> **[1:18](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=78)** Using automation in the release and deploy stages is called continuous delivery.
+> **[1:18](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=78)** Using automation in the release and deploy stages is called [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[1:24](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=84)** And if the process is completely automated, it can be referred to as continuous deployment.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=110)** Jenkins automates building and testing by running commands that create the software artifact and run it through a series of tests.
 >
-> **[1:58](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=118)** This artifact could be a container image, Java archive, a windows executable, or any other sort of software package.
+> **[1:58](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=118)** This artifact could be a container image, [[Java]] archive, a [[Windows]] executable, or any other sort of software package.
 >
 > **[2:08](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980&t=128)** Once the tests have passed, the artifact can be moved on to the next stage in the process.
 >
@@ -238,14 +235,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (10), [[DevOps]] (6), [[Continuous Integration (CI)|Continuous integration]] (4), application (3), cd (3)
+> **Frameworks & Libraries:** [[Jenkins]] (10), [[DevOps]] (6), [[Continuous Integration (CI)|Continuous integration]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Java]] (1)
 > **CLI Commands:** cd (3), make (2), find (1)
 > **Definitions:** known as (1), is called (1), means that (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Deploy a Jenkins server
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980)
+#### [Challenge: Deploy a Jenkins server](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -253,11 +249,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=5)** - [Instructor] It's time for a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=7)** In this challenge, you'll be deploying a Jenkins server to use for this course.
+> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=7)** In this challenge, you'll be deploying a [[Jenkins]] server to use for this course.
 >
 > **[0:14](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=14)** There are three basic requirements for this challenge.
 >
-> **[0:18](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=18)** Use the latest version of Ubuntu Server.
+> **[0:18](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=18)** Use the latest version of [[Ubuntu]] Server.
 >
 > **[0:21](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=21)** Install NGINX as a proxy to Jenkins.
 >
@@ -265,19 +261,19 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=29)** If at all possible, I highly recommend you use a public cloud service for this challenge.
 >
-> **[0:36](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=36)** You can use Amazon web services, Google cloud platform, Microsoft Azure, or any other public cloud service that you have access to.
+> **[0:36](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=36)** You can use [[Amazon Web Services (AWS)|Amazon web services]], [[Google Cloud Platform (GCP)|Google cloud platform]], [[Microsoft Azure]], or any other public cloud service that you have access to.
 >
 > **[0:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=49)** The main reason I am suggesting you use a cloud service is so your Jenkins is accessible from a public URL.
 >
-> **[0:58](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=58)** In later lessons, we'll be implementing continuous integration from a code repo, and your Jenkins server needs to be publicly accessible to allow a web hook to trigger jobs.
+> **[0:58](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=58)** In later lessons, we'll be implementing [[Continuous Integration (CI)|continuous integration]] from a code repo, and your Jenkins server needs to be publicly accessible to allow a web hook to trigger jobs.
 >
 > **[1:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=70)** If you aren't able to deploy Jenkins on a public cloud platform, please use the local system that you have available to you.
 >
-> **[1:19](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=79)** Jenkins runs on Windows macOS and Linux.
+> **[1:19](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=79)** Jenkins runs on [[Windows]] macOS and [[Linux]].
 >
 > **[1:23](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=83)** So you can install Jenkins just about anywhere.
 >
-> **[1:28](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=88)** As I mentioned, we'll be using Jenkins for continuous integration with a code repo, namely GitHub.
+> **[1:28](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=88)** As I mentioned, we'll be using Jenkins for continuous integration with a code repo, namely [[GitHub]].
 >
 > **[1:34](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=94)** And local installations will not be able to receive web hooks to trigger jobs.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=107)** I'll be using Amazon Web Services.
 >
-> **[1:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=109)** So in my solution to this challenge, I'll also be creating a key pair for SSH connections, creating an EC2 instance using a Ubuntu AMI, and creating an elastic IP for persistent DNS assignment.
+> **[1:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=109)** So in my solution to this challenge, I'll also be creating a key pair for SSH connections, creating an [[Amazon EC2|EC2]] instance using a Ubuntu AMI, and creating an elastic IP for persistent DNS assignment.
 >
 > **[2:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-deploy-a-jenkins-server?u=76281980&t=127)** I'll also be using a user data script to install NGINX and Jenkins.
 >
@@ -309,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (14), cloud (5), [[Ubuntu]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (2), web (2)
+> **Frameworks & Libraries:** [[Jenkins]] (14), [[Ubuntu]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Windows]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Env Vars:** nginx (3), url (1), ssh (1), ec2 (1), ami (1)
 > **Prerequisites:** install (6), configure (1)
 > **CLI Commands:** nginx (3), ssh (1)
@@ -318,12 +314,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 
-#### Solution: Deploy a Jenkins server
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980)
+#### [Solution: Deploy a Jenkins server](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=5)** - In this challenge, we need to deploy a Jenkins server.
+> **[0:05](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=5)** - In this challenge, we need to deploy a [[Jenkins]] server.
 >
 > **[0:09](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=9)** I'm using AWS.
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=20)** I'll jump right into the server creation process by clicking launch instances.
 >
-> **[0:25](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=25)** First, I need to pick the operating system that I want to use for this server, and I'm going to pick Ubuntu so I'll search for that.
+> **[0:25](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=25)** First, I need to pick the operating system that I want to use for this server, and I'm going to pick [[Ubuntu]] so I'll search for that.
 >
 > **[0:33](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=33)** And I'll select this first one that pops up, Ubuntu server 20.04 LTS.
 >
@@ -353,7 +348,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=98)** And I'm going to add a role that allows HTTP traffic or web traffic on port 80 from any IP.
 >
-> **[1:47](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=107)** That will open up our security group to allow GitHub and ourselves to connect to the server via the web interface.
+> **[1:47](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=107)** That will open up our security group to allow [[GitHub]] and ourselves to connect to the server via the web interface.
 >
 > **[1:56](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=116)** Now I'll click review and launch.
 >
@@ -525,13 +520,13 @@ created: 2026-05-02
 >
 > **[9:15](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=555)** The installation script really took care of everything as far as installing Nginx, setting up that as a proxy to Jenkins, installing Jenkins, and then even giving me the administrator password so I can log in.
 >
-> **[9:28](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=568)** Outside of the challenge, I created an account that I can use for the rest of the course with a password that's a little bit easier to remember.
+> **[9:28](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=568)** Outside of the challenge, I created an account that I can use for the [[Representational State Transfer (REST)|rest]] of the course with a password that's a little bit easier to remember.
 >
 > **[9:34](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-deploy-a-jenkins-server?u=76281980&t=574)** But with that, I believe this challenge has been solved.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (20), next (4), dns (4), [[Ubuntu]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Jenkins]] (20), [[Ubuntu]] (3), [[GitHub]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (5), ssh (5), dns (4), aws (1), lts (1)
 > **CLI Commands:** ssh (5), nginx (3), make (2), aws (1), docker (1)
 > **Prerequisites:** install (9), configure (2)
@@ -545,12 +540,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a pipeline project
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-pipeline-project?u=76281980)
+#### [Create a pipeline project](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-pipeline-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-pipeline-project?u=76281980&t=0)** - [Instructor] I'm logged into my Jenkins server, and I trust that you have a server that you can use to follow along.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-pipeline-project?u=76281980&t=0)** - [Instructor] I'm logged into my [[Jenkins]] server, and I trust that you have a server that you can use to follow along.
 >
 > **[0:06](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-pipeline-project?u=76281980&t=6)** Let's create our first pipeline job.
 >
@@ -588,28 +582,27 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a declarative pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980)
+#### [Create a declarative pipeline](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=0)** - [Instructor] Now that you've seen a Jenkins pipeline, let's go over the pipeline syntax and the parts of a pipeline, specifically stages and steps.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=0)** - [Instructor] Now that you've seen a [[Jenkins]] pipeline, let's go over the pipeline syntax and the parts of a pipeline, specifically stages and steps.
 >
 > **[0:09](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=9)** Jenkins supports two pipeline formats, scripted and declarative.
 >
-> **[0:14](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=14)** Scripted pipelines start with the word node.
+> **[0:14](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=14)** Scripted pipelines start with the [[Microsoft Word|word]] node.
 >
 > **[0:18](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=18)** Declarative pipelines start with the word pipeline.
 >
 > **[0:21](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=21)** Both are followed by curly braces that contain instructions for Jenkins to run.
 >
-> **[0:27](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=27)** Scripted pipelines use a domain-specific language or DSL based on Groovy, which is a scripting language for the Java virtual machine.
+> **[0:27](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=27)** Scripted pipelines use a domain-specific language or DSL based on Groovy, which is a scripting language for the [[Java]] virtual machine.
 >
 > **[0:37](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=37)** Declarative pipelines are an evolution of DSL pipelines.
 >
 > **[0:41](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=41)** The declarative syntax was developed to more easily capture the complete configuration of a project as code.
 >
-> **[0:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=49)** For the rest of this course, we'll be using the declarative format.
+> **[0:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=49)** For the [[Representational State Transfer (REST)|rest]] of this course, we'll be using the declarative format.
 >
 > **[0:53](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-declarative-pipeline?u=76281980&t=53)** A declarative pipeline configuration has three required sections, an agent section, a stages section.
 >
@@ -687,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (8), [[Microsoft Word|Word]] (2), node (1), [[Scripting]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (8), [[Microsoft Word|Word]] (2), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (3), node (1)
 > **Env Vars:** dsl (2), cicd (1), readme (1)
 > **Exercise Files:** exercise files (2)
@@ -696,18 +689,17 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **UI Navigation:** go to (1)
 
-#### Use the pipeline Snippet Generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-the-pipeline-snippet-generator?u=76281980)
+#### [Use the pipeline Snippet Generator](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-the-pipeline-snippet-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-the-pipeline-snippet-generator?u=76281980&t=0)** - [Instructor] Jenkins provides basic pipeline steps that we can use without having to do any additional setup.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-the-pipeline-snippet-generator?u=76281980&t=0)** - [Instructor] [[Jenkins]] provides basic pipeline steps that we can use without having to do any additional setup.
 >
 > **[0:06](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-the-pipeline-snippet-generator?u=76281980&t=6)** Here are a few of the most common steps that you'll see as you're working with pipelines.
 >
 > **[0:12](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-the-pipeline-snippet-generator?u=76281980&t=12)** We've already seen the echo step, which just prints a message.
 >
-> **[0:17](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-the-pipeline-snippet-generator?u=76281980&t=17)** We can use the git step to check out code from a git repo.
+> **[0:17](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-the-pipeline-snippet-generator?u=76281980&t=17)** We can use the [[Git]] step to check out code from a git repo.
 >
 > **[0:21](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-the-pipeline-snippet-generator?u=76281980&t=21)** The sh or shell step, lets us run scripts or commands on the local system and the archiveArtifact step lets us store any artifacts created by a job.
 >
@@ -779,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (5), [[Git]] (2), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (5), [[Git]] (2)
 > **CLI Commands:** git (2), find (2), make (1)
 > **Env Vars:** txt (4)
 > **File Paths:** report.txt (2), star.txt (1)
@@ -788,14 +780,13 @@ created: 2026-05-02
 > **Code Identifiers:** archiveartifact (1)
 > **Exercise Files:** exercise files (1)
 
-#### Use variables in a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-variables-in-a-pipeline?u=76281980)
+#### [Use variables in a pipeline](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-variables-in-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-variables-in-a-pipeline?u=76281980&t=0)** - [Instructor] Variables let us use dynamic values in our pipelines.
 >
-> **[0:04](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-variables-in-a-pipeline?u=76281980&t=4)** Jenkins exposes three different types of variables that we can use: environment variables, current build variables, and parameters.
+> **[0:04](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-variables-in-a-pipeline?u=76281980&t=4)** [[Jenkins]] exposes three different types of variables that we can use: environment variables, current build variables, and parameters.
 >
 > **[0:14](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-variables-in-a-pipeline?u=76281980&t=14)** This lesson will focus on environment variables, and current build variables.
 >
@@ -831,7 +822,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-variables-in-a-pipeline?u=76281980&t=130)** To access the currentBuild properties the values are proceeded by currentBuild, a dot and then the name of the property.
 >
-> **[2:19](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-variables-in-a-pipeline?u=76281980&t=139)** The properties are also case sensitive and follow the CamelCase format with a lower case letter to start, and capital letters for each additional word in the variable name.
+> **[2:19](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-variables-in-a-pipeline?u=76281980&t=139)** The properties are also case sensitive and follow the CamelCase format with a lower case letter to start, and capital letters for each additional [[Microsoft Word|word]] in the variable name.
 >
 > **[2:30](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-variables-in-a-pipeline?u=76281980&t=150)** A few examples of currentBuild variables are the start time, the duration of the build and the current status of the build.
 >
@@ -888,12 +879,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Warnings:** note that (1)
 
-#### Parameterize a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/parameterize-a-pipeline?u=76281980)
+#### [Parameterize a pipeline](https://www.linkedin.com/learning/jenkins-essential-training-17420152/parameterize-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/parameterize-a-pipeline?u=76281980&t=0)** - [Instructor] We've seen how Jenkins lets us use variables in a pipeline.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/parameterize-a-pipeline?u=76281980&t=0)** - [Instructor] We've seen how [[Jenkins]] lets us use variables in a pipeline.
 >
 > **[0:04](https://www.linkedin.com/learning/jenkins-essential-training-17420152/parameterize-a-pipeline?u=76281980&t=4)** Parameters are another type of variable that get their values at the time the job is triggered.
 >
@@ -913,7 +903,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/jenkins-essential-training-17420152/parameterize-a-pipeline?u=76281980&t=63)** String and text parameters are represented by a text field in the Jenkins interface, where a user can enter freeform text.
 >
-> **[1:12](https://www.linkedin.com/learning/jenkins-essential-training-17420152/parameterize-a-pipeline?u=76281980&t=72)** String parameters are best used for single word values.
+> **[1:12](https://www.linkedin.com/learning/jenkins-essential-training-17420152/parameterize-a-pipeline?u=76281980&t=72)** String parameters are best used for single [[Microsoft Word|word]] values.
 >
 > **[1:17](https://www.linkedin.com/learning/jenkins-essential-training-17420152/parameterize-a-pipeline?u=76281980&t=77)** Text parameters are useful if you need to pass in a long block of text that contains multiple lines.
 >
@@ -985,7 +975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (8), [[Microsoft Word|Word]] (1), api (1)
+> **Frameworks & Libraries:** [[Jenkins]] (8), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Cross-References:** we discussed (1)
@@ -994,8 +984,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use conditional expressions and manual approvals
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-conditional-expressions-and-manual-approvals?u=76281980)
+#### [Use conditional expressions and manual approvals](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-conditional-expressions-and-manual-approvals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1003,7 +992,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-conditional-expressions-and-manual-approvals?u=76281980&t=7)** We might also need to add some sort of manual interaction to an automated process.
 >
-> **[0:14](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-conditional-expressions-and-manual-approvals?u=76281980&t=14)** Let's discuss how Jenkins exposes these two capabilities in a pipeline configuration.
+> **[0:14](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-conditional-expressions-and-manual-approvals?u=76281980&t=14)** Let's discuss how [[Jenkins]] exposes these two capabilities in a pipeline configuration.
 >
 > **[0:20](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-conditional-expressions-and-manual-approvals?u=76281980&t=20)** To set up a pipeline condition, we use the when keyword inside a stage block.
 >
@@ -1013,7 +1002,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-conditional-expressions-and-manual-approvals?u=76281980&t=40)** If the specified condition evaluates to true, then the stage will be allowed to run, otherwise the stage will be skipped.
 >
-> **[0:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-conditional-expressions-and-manual-approvals?u=76281980&t=49)** Branch conditions are useful when the pipeline is interacting with a version control system like GitHub.
+> **[0:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-conditional-expressions-and-manual-approvals?u=76281980&t=49)** Branch conditions are useful when the pipeline is interacting with a [[Version Control]] system like [[GitHub]].
 >
 > **[0:56](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-conditional-expressions-and-manual-approvals?u=76281980&t=56)** This allows us to only run stages for specific branches in a repo.
 >
@@ -1087,7 +1076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (1), [[Version Control]] (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1), [[Version Control]] (1), [[GitHub]] (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** go back to (1)
@@ -1096,14 +1085,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Develop a parameterized pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-develop-a-parameterized-pipeline?u=76281980)
+#### [Challenge: Develop a parameterized pipeline](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-develop-a-parameterized-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-develop-a-parameterized-pipeline?u=76281980&t=0)** - [Instructor] It's time for a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-develop-a-parameterized-pipeline?u=76281980&t=7)** You're on a development team using Jenkins to test and deploy a new application.
+> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-develop-a-parameterized-pipeline?u=76281980&t=7)** You're on a development team using [[Jenkins]] to test and deploy a new application.
 >
 > **[0:13](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-develop-a-parameterized-pipeline?u=76281980&t=13)** Your team has already developed the outline for a pipeline.
 >
@@ -1151,7 +1139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (2), api (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2)
 > **Env Vars:** api (2)
 > **Exercise Files:** template (1), exercise files (1)
 > **CLI Commands:** make (1)
@@ -1160,8 +1148,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Develop a parameterized pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-develop-a-parameterized-pipeline?u=76281980)
+#### [Solution: Develop a parameterized pipeline](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-develop-a-parameterized-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1171,7 +1158,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-develop-a-parameterized-pipeline?u=76281980&t=18)** So I'll click this icon here to copy the contents of the pipeline script to my clipboard.
 >
-> **[0:24](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-develop-a-parameterized-pipeline?u=76281980&t=24)** And then I'll go to my Jenkins server which I have opened in another tab here.
+> **[0:24](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-develop-a-parameterized-pipeline?u=76281980&t=24)** And then I'll go to my [[Jenkins]] server which I have opened in another tab here.
 >
 > **[0:29](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-develop-a-parameterized-pipeline?u=76281980&t=29)** I'll start by clicking New Item and I'll call this one parameterized-pipeline and then select Pipeline type.
 >
@@ -1411,7 +1398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Jenkins]] (1), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1)
 > **Env Vars:** production (13), development (8), environment (5), api (4), changelog (4)
 > **Cross-References:** go back to (5)
 > **CLI Commands:** make (4)
@@ -1425,12 +1412,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pipeline as code with Jenkinsfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980)
+#### [Pipeline as code with Jenkinsfile](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=0)** - [Instructor] In the previous chapters of this course, we used declarative pipelines to create projects in Jenkins.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=0)** - [Instructor] In the previous chapters of this course, we used declarative pipelines to create projects in [[Jenkins]].
 >
 > **[0:06](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=6)** However, we still used a manual approach to create the jobs.
 >
@@ -1462,13 +1448,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=111)** Storing the Jenkins file in a repo also allows development teams to use a GitOps approach.
 >
-> **[1:58](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=118)** This means the repository becomes the single source of truth for everything associated with the project, from the application code to configuration for tools that support the application, including continuous integration tools like Jenkins.
+> **[1:58](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=118)** This means the repository becomes the single source of truth for everything associated with the project, from the application code to configuration for tools that support the application, including [[Continuous Integration (CI)|continuous integration]] tools like Jenkins.
 >
 > **[2:15](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=135)** With GitOps, any changes made to the pipeline can be reviewed and discussed with the team before being merged and applied using an automated process.
 >
 > **[2:27](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=147)** Now that we know how we can use and benefit from a Jenkins file, let's use a pipeline stored in a source control management system with a job we were looking at earlier.
 >
-> **[2:37](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=157)** Jenkins can interact with many different types of version control systems, like (indistinct) or Subversion, but the Git system is probably the most popular.
+> **[2:37](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=157)** Jenkins can interact with many different types of [[Version Control]] systems, like (indistinct) or Subversion, but the [[Git]] system is probably the most popular.
 >
 > **[2:48](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=168)** In this case, the system I'm using has the Git plugin installed so I'll select that option under SCM.
 >
@@ -1488,7 +1474,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=209)** So now I will paste in the URL for my clone of the exercise files repository.
 >
-> **[3:37](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=217)** And let me scroll down just a little bit here so we can see the rest of this dialogue.
+> **[3:37](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=217)** And let me scroll down just a little bit here so we can see the [[Representational State Transfer (REST)|rest]] of this dialogue.
 >
 > **[3:42](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980&t=222)** Under branches to build, I need to change the branch specifier from master to main.
 >
@@ -1520,7 +1506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (22), management (3), application (3), [[Git]] (3), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Jenkins]] (22), [[Git]] (3), [[Continuous Integration (CI)|Continuous integration]] (1), [[Version Control]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** git (3), find (3), make (1)
 > **Exercise Files:** exercise files (5)
 > **Env Vars:** scm (2), url (2)
@@ -1529,12 +1515,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 
-#### Connect Jenkins to GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980)
+#### [Connect Jenkins to GitHub](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=0)** - [Instructor] Now that we've seen the benefit of using a Jenkins file from a source control system, let's go over the steps needed to connect Jenkins to a GitHub repository, and then we'll use a change in the repo to trigger a build in Jenkins.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=0)** - [Instructor] Now that we've seen the benefit of using a [[Jenkins]] file from a source control system, let's go over the steps needed to connect Jenkins to a [[GitHub]] repository, and then we'll use a change in the repo to trigger a build in Jenkins.
 >
 > **[0:14](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=14)** If you're following along with this demonstration, you'll need to have a Jenkins server that is publicly accessible and a GitHub account.
 >
@@ -1578,7 +1563,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=156)** Next, I'll go to the Pipeline section and I'll select Pipeline script from SCM.
 >
-> **[2:43](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=163)** Under SCM, I'll select Git.
+> **[2:43](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=163)** Under SCM, I'll select [[Git]].
 >
 > **[2:46](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=166)** And then for the repository URL, I'll paste in the URL.
 >
@@ -1620,7 +1605,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=270)** It has to have github-webhook and then a trailing slash.
 >
-> **[4:35](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=275)** Under Content Type, I'll select Application JSON.
+> **[4:35](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=275)** Under Content Type, I'll select Application [[JSON]].
 >
 > **[4:40](https://www.linkedin.com/learning/jenkins-essential-training-17420152/connect-jenkins-to-github?u=76281980&t=280)** And then I'll scroll down and I just want the push event, so this is fine and I'll select Add webhook.
 >
@@ -1654,7 +1639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (27), [[GitHub]] (18), next (3), [[Git]] (1), application (1)
+> **Frameworks & Libraries:** [[Jenkins]] (27), [[GitHub]] (18), [[Git]] (1), [[JSON]] (1)
 > **Tools:** github (18)
 > **Env Vars:** url (9), scm (2), readme (2), https (1), json (1)
 > **UI Navigation:** go to (5), scroll down (3)
@@ -1663,12 +1648,11 @@ created: 2026-05-02
 > **CLI Commands:** git (1), make (1)
 > **Documentation:** the readme (2)
 
-#### Run scripts from the pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980)
+#### [Run scripts from the pipeline](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=0)** - [Instructor] In the previous lesson we saw how we can benefit by storing pipeline definitions as code in a version control system like GitHub.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=0)** - [Instructor] In the previous lesson we saw how we can benefit by storing pipeline definitions as code in a [[Version Control]] system like [[GitHub]].
 >
 > **[0:08](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=8)** We can also store any supporting files in scripts needed to build a project.
 >
@@ -1676,13 +1660,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=24)** Combining multiple steps into a single script also keeps the pipeline definition clear and easy to debug.
 >
-> **[0:32](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=32)** There are two build steps that Jenkins uses to run external commands.
+> **[0:32](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=32)** There are two build steps that [[Jenkins]] uses to run external commands.
 >
 > **[0:38](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=38)** We've already seen the sh build step, which runs commands on the build agent using the default shell.
 >
-> **[0:45](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=45)** This step is useful on agents running Linux, Unix or macOS.
+> **[0:45](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=45)** This step is useful on agents running [[Linux]], Unix or macOS.
 >
-> **[0:51](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=51)** The bat build step has a similar function on Windows systems.
+> **[0:51](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=51)** The bat build step has a similar function on [[Windows]] systems.
 >
 > **[0:57](https://www.linkedin.com/learning/jenkins-essential-training-17420152/run-scripts-from-the-pipeline?u=76281980&t=57)** In either case the sh or bat step would contain the command to run, or the path to a script, or a program.
 >
@@ -1771,16 +1755,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 
-#### Add a status badge to Markdown files
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-a-status-badge-to-markdown-files?u=76281980)
+#### [Add a status badge to Markdown files](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-a-status-badge-to-markdown-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-a-status-badge-to-markdown-files?u=76281980&t=0)** - [Instructor] Displaying a status badge is another way to connect Jenkins with a version control system.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-a-status-badge-to-markdown-files?u=76281980&t=0)** - [Instructor] Displaying a status badge is another way to connect [[Jenkins]] with a [[Version Control]] system.
 >
 > **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-a-status-badge-to-markdown-files?u=76281980&t=7)** Status badges are dynamically generated images that communicate whether a build is passing or failing.
 >
-> **[0:15](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-a-status-badge-to-markdown-files?u=76281980&t=15)** Typically, status badges are a place in the README file for a GitHub repository.
+> **[0:15](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-a-status-badge-to-markdown-files?u=76281980&t=15)** Typically, status badges are a place in the README file for a [[GitHub]] repository.
 >
 > **[0:22](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-a-status-badge-to-markdown-files?u=76281980&t=22)** However, they can also be embedded in webpages or other online documents.
 >
@@ -1837,8 +1820,7 @@ created: 2026-05-02
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (1)
 
-#### Challenge: Connect Jenkins to GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-connect-jenkins-to-github?u=76281980)
+#### [Challenge: Connect Jenkins to GitHub](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-connect-jenkins-to-github?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1846,7 +1828,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-connect-jenkins-to-github?u=76281980&t=7)** You're on a team developing an algorithm that calculates the value of pie.
 >
-> **[0:12](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-connect-jenkins-to-github?u=76281980&t=12)** The code for the project is being stored in a GitHub repository.
+> **[0:12](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-connect-jenkins-to-github?u=76281980&t=12)** The code for the project is being stored in a [[GitHub]] repository.
 >
 > **[0:17](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-connect-jenkins-to-github?u=76281980&t=17)** The team wants to test the latest changes to the algorithm with every push to the repo.
 >
@@ -1854,7 +1836,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-connect-jenkins-to-github?u=76281980&t=30)** To solve this challenge, create a new GitHub repo and add the exercise files for this lesson.
 >
-> **[0:37](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-connect-jenkins-to-github?u=76281980&t=37)** Then, create a new pipeline project that pulls the code from the repo and uses the Jenkins file.
+> **[0:37](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-connect-jenkins-to-github?u=76281980&t=37)** Then, create a new pipeline project that pulls the code from the repo and uses the [[Jenkins]] file.
 >
 > **[0:46](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-connect-jenkins-to-github?u=76281980&t=46)** Finally, install the Embeddable Status plugin and update the GitHub repo to show the status of the project.
 >
@@ -1864,7 +1846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Jenkins]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Jenkins]] (1)
 > **Tools:** github (3)
 > **Exercise Files:** github repo (2), exercise files (1)
 > **Cross-References:** in the next (1)
@@ -1872,16 +1854,15 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Connect Jenkins to GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980)
+#### [Solution: Connect Jenkins to GitHub](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=0)** - [Instructor] We've got quite a few tasks to take care of in this challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=9)** And I'm starting here in GitHub where I've created a new repo and added the exercise files.
+> **[0:09](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=9)** And I'm starting here in [[GitHub]] where I've created a new repo and added the exercise files.
 >
-> **[0:16](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=16)** I have a Jenkins file and the script which runs the algorithm to compute the value of Pi.
+> **[0:16](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=16)** I have a [[Jenkins]] file and the script which runs the algorithm to compute the value of Pi.
 >
 > **[0:23](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=23)** I'm going to start here by getting the URL for this repo so when I create a job in Jenkins I can connect it back to this repo.
 >
@@ -1907,7 +1888,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=82)** Then under pipeline, I'm going to select pipeline script from SCM.
 >
-> **[1:27](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=87)** This is a GitHub repo so I need to select Git.
+> **[1:27](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=87)** This is a GitHub repo so I need to select [[Git]].
 >
 > **[1:30](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=90)** I'll get to that in a second but for the repository URL, I copied it.
 >
@@ -1947,7 +1928,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=206)** So I really want to make sure that this is squared away.
 >
-> **[3:29](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=209)** And then under content type, I need to select application/json.
+> **[3:29](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=209)** And then under content type, I need to select application/[[JSON]].
 >
 > **[3:34](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-connect-jenkins-to-github?u=76281980&t=214)** Scroll down here and I just want the push event.
 >
@@ -2041,7 +2022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (22), [[Jenkins]] (18), next (2), [[Git]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (22), [[Jenkins]] (18), [[Git]] (1), [[JSON]] (1)
 > **Tools:** github (22)
 > **Env Vars:** url (6), https (1), scm (1)
 > **UI Navigation:** go to (5), scroll down (3)
@@ -2055,12 +2036,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Distribute builds with agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980)
+#### [Distribute builds with agents](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980&t=0)** - [Instructor] The Jenkins server, which is also referred to as the Jenkins controller provides a web interface that we can use to manage the overall configuration of our Jenkins server.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980&t=0)** - [Instructor] The [[Jenkins]] server, which is also referred to as the Jenkins controller provides a web interface that we can use to manage the overall configuration of our Jenkins server.
 >
 > **[0:11](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980&t=11)** Up to this point in the course, we've been running jobs directly on the controller.
 >
@@ -2086,7 +2066,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980&t=97)** This secure method is particularly useful if the node is not on the same network as the Jenkins controller.
 >
-> **[1:45](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980&t=105)** A server running any operating system can be configured as an SSH node as long as it accepts SSH connections has a user and a key that Jenkins can use, and also has a recent version of Java installed.
+> **[1:45](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980&t=105)** A server running any operating system can be configured as an SSH node as long as it accepts SSH connections has a user and a key that Jenkins can use, and also has a recent version of [[Java]] installed.
 >
 > **[2:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980&t=120)** Having Java installed on the node is essential because the agent process is a Java-based application.
 >
@@ -2140,7 +2120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (24), node (9), [[Java]] (3), web (1), management (1)
+> **Frameworks & Libraries:** [[Jenkins]] (24), [[Java]] (3)
 > **CLI Commands:** node (9), ssh (4), docker (4)
 > **Prerequisites:** set up (3), install (2), configure (1)
 > **Env Vars:** ssh (4), cpu (1)
@@ -2149,16 +2129,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** best practice (1)
 
-#### Add an SSH agent to Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980)
+#### [Add an SSH agent to Jenkins](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=0)** - [Instructor] In this lesson, I'll be demonstrating how to connect to a node using SSH.
 >
-> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=7)** If you're following along, you'll need to have a server that can be reached from your Jenkins server via SSH, along with a user and SSH key for opening the SSH connection.
+> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=7)** If you're following along, you'll need to have a server that can be reached from your [[Jenkins]] server via SSH, along with a user and SSH key for opening the SSH connection.
 >
-> **[0:20](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=20)** I'll be using an EC2 instance running in AWS.
+> **[0:20](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=20)** I'll be using an [[Amazon EC2|EC2]] instance running in AWS.
 >
 > **[0:25](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=25)** For complete details on setting up a build server in AWS, please review my course, Running Jenkins on AWS.
 >
@@ -2168,7 +2147,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=43)** And on this screen, I'll select New Node.
 >
-> **[0:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=49)** I'll name the node Linux to match the key name and then select a Permanent Agent, which is really the only option at the moment.
+> **[0:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=49)** I'll name the node [[Linux]] to match the key name and then select a Permanent Agent, which is really the only option at the moment.
 >
 > **[1:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=60)** Selecting Create opens a dialogue where I can enter all the details that Jenkins needs to connect to this node.
 >
@@ -2228,9 +2207,9 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=251)** At the top of the pipeline configuration, I've added the label keyword to identify the agent I want this job to run on.
 >
-> **[4:19](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=259)** In the source stage, I'm using a git step to check out the code for a Java application.
+> **[4:19](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=259)** In the source stage, I'm using a [[Git]] step to check out the code for a [[Java]] application.
 >
-> **[4:25](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=265)** I fork the exercise files into my own GitHub account and I'm using credentials to access the repo.
+> **[4:25](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=265)** I fork the exercise files into my own [[GitHub]] account and I'm using credentials to access the repo.
 >
 > **[4:32](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-an-ssh-agent-to-jenkins?u=76281980&t=272)** At the time that I'm recording this, the exercise files aren't publicly available.
 >
@@ -2252,7 +2231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (13), node (7), [[Linux]] (6), [[Amazon EC2|Ec2]] (3), aws (3)
+> **Frameworks & Libraries:** [[Jenkins]] (13), [[Linux]] (6), [[Amazon EC2|Ec2]] (3), [[Git]] (1), [[Java]] (1)
 > **CLI Commands:** ssh (8), node (7), aws (3), git (1)
 > **Env Vars:** ssh (8), aws (3), ec2 (1), dns (1)
 > **UI Navigation:** select the (2), go to (1)
@@ -2261,14 +2240,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** github (1)
 
-#### Add Docker agents to Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-docker-agents-to-jenkins?u=76281980)
+#### [Add Docker agents to Jenkins](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-docker-agents-to-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-docker-agents-to-jenkins?u=76281980&t=0)** - [Instructor] In this lesson, I'll be demonstrating how to run a Pipeline project using a Docker agent.
 >
-> **[0:06](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-docker-agents-to-jenkins?u=76281980&t=6)** If you're following along, you'll need to have a few things set up on your Jenkins server.
+> **[0:06](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-docker-agents-to-jenkins?u=76281980&t=6)** If you're following along, you'll need to have a few things set up on your [[Jenkins]] server.
 >
 > **[0:12](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-docker-agents-to-jenkins?u=76281980&t=12)** First, your server may need additional storage and memory resources.
 >
@@ -2294,7 +2272,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-docker-agents-to-jenkins?u=76281980&t=70)** To check that, I'll run docker --version and docker ps.
 >
-> **[1:20](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-docker-agents-to-jenkins?u=76281980&t=80)** This shows me the Docker CLI is on my path and also that the Docker service is running and ready to process commands.
+> **[1:20](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-docker-agents-to-jenkins?u=76281980&t=80)** This shows me the Docker [[CLI]] is on my path and also that the Docker service is running and ready to process commands.
 >
 > **[1:28](https://www.linkedin.com/learning/jenkins-essential-training-17420152/add-docker-agents-to-jenkins?u=76281980&t=88)** Now let's go to the Jenkins console.
 >
@@ -2352,7 +2330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (16), application (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (16), [[CLI]] (1)
 > **CLI Commands:** docker (18), ssh (1)
 > **Exercise Files:** exercise files (4)
 > **Env Vars:** ram (1), ssh (1), cli (1)
@@ -2360,8 +2338,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), set up (1), install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Improve a Docker agent pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-improve-a-docker-agent-pipeline?u=76281980)
+#### [Challenge: Improve a Docker agent pipeline](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-improve-a-docker-agent-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2371,7 +2348,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-improve-a-docker-agent-pipeline?u=76281980&t=11)** A static site generator developed in Golang.
 >
-> **[0:15](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-improve-a-docker-agent-pipeline?u=76281980&t=15)** You're using a Jenkins pipeline with a Docker agent to validate your changes.
+> **[0:15](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-improve-a-docker-agent-pipeline?u=76281980&t=15)** You're using a [[Jenkins]] pipeline with a Docker agent to validate your changes.
 >
 > **[0:20](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-improve-a-docker-agent-pipeline?u=76281980&t=20)** However, you're finding that your pipeline is taking a long time in the build stage.
 >
@@ -2399,7 +2376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (3), application (1), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (3)
 > **CLI Commands:** docker (4), find (2)
 > **Prerequisites:** set up (1), you'll need (1), install (1)
 > **Cross-References:** in the next (1)
@@ -2407,14 +2384,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Improve a Docker agent pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-improve-a-docker-agent-pipeline?u=76281980)
+#### [Solution: Improve a Docker agent pipeline](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-improve-a-docker-agent-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-improve-a-docker-agent-pipeline?u=76281980&t=5)** - [Instructor] In this challenge, we're trying to speed up a pipeline that uses a Docker agent.
 >
-> **[0:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-improve-a-docker-agent-pipeline?u=76281980&t=10)** I'm starting out by connecting to my Jenkins server via SSH to confirm that Docker is installed.
+> **[0:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-improve-a-docker-agent-pipeline?u=76281980&t=10)** I'm starting out by connecting to my [[Jenkins]] server via SSH to confirm that Docker is installed.
 >
 > **[0:17](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-improve-a-docker-agent-pipeline?u=76281980&t=17)** I'll check that by running Docker -- version and then Docker PS.
 >
@@ -2510,7 +2486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (5), application (4), next (3), web (1), management (1)
+> **Frameworks & Libraries:** [[Jenkins]] (5)
 > **CLI Commands:** docker (11), make (2), ssh (1)
 > **Env Vars:** ssh (1), cpu (1), ram (1)
 > **UI Navigation:** go to (2)
@@ -2523,12 +2499,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Artifacts and fingerprinting
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/artifacts-and-fingerprinting?u=76281980)
+#### [Artifacts and fingerprinting](https://www.linkedin.com/learning/jenkins-essential-training-17420152/artifacts-and-fingerprinting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/artifacts-and-fingerprinting?u=76281980&t=0)** - [Narrator] When a Jenkins job creates an object that needs to be saved, we refer to that object as an artifact.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/artifacts-and-fingerprinting?u=76281980&t=0)** - [Narrator] When a [[Jenkins]] job creates an object that needs to be saved, we refer to that object as an artifact.
 >
 > **[0:08](https://www.linkedin.com/learning/jenkins-essential-training-17420152/artifacts-and-fingerprinting?u=76281980&t=8)** Artifacts can be compiled binaries like Docker images or ZIP files.
 >
@@ -2622,7 +2597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (6), [[Security]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6)
 > **File Paths:** report.txt (3)
 > **Env Vars:** md5 (2), zip (1)
 > **Exercise Files:** exercise files (2), download the (1)
@@ -2630,24 +2605,23 @@ created: 2026-05-02
 > **CLI Commands:** docker (1)
 > **Speakers:** - [narrator] (1)
 
-#### Publish test results and code coverage reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980)
+#### [Publish test results and code coverage reports](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=0)** - [Instructor] Testing is one of the most important parts of the continuous integration pipeline.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=0)** - [Instructor] Testing is one of the most important parts of the [[Continuous Integration (CI)|continuous integration]] pipeline.
 >
 > **[0:05](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=5)** During the test phase, development teams can find bugs in their code and fix them well before they reach a production environment.
 >
 > **[0:14](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=14)** There are hundreds of tools that developers can use to test their code, but fortunately, many of these tools share common formats for generating reports.
 >
-> **[0:24](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=24)** JUnit reports are XML documents that describe the results of a test.
+> **[0:24](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=24)** [[JUnit]] reports are XML documents that describe the results of a test.
 >
-> **[0:30](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=30)** The JUnit format was originally developed for Java programs but many other languages have adopted this reporting format.
+> **[0:30](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=30)** The JUnit format was originally developed for [[Java]] programs but many other languages have adopted this reporting format.
 >
 > **[0:39](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=39)** This makes JUnit the standard for creating test reports.
 >
-> **[0:45](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=45)** The JUnit plugin gives Jenkins capabilities to collect test reports, publish reports as graphs and track trends in test results.
+> **[0:45](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=45)** The JUnit plugin gives [[Jenkins]] capabilities to collect test reports, publish reports as graphs and track trends in test results.
 >
 > **[0:57](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=57)** To determine the effectiveness of a test, developers often use a technique called code coverage.
 >
@@ -2663,7 +2637,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=100)** Jenkins uses the code coverage API plugin to collect and publish multiple code coverage report formats including JaCoCo and Cobertura.
 >
-> **[1:52](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=112)** Let's use Jenkins to publish test results and code coverage reports for a Python project.
+> **[1:52](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=112)** Let's use Jenkins to publish test results and code coverage reports for a [[Python (Programming Language)|Python]] project.
 >
 > **[1:59](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=119)** The project uses a pipeline with five stages.
 >
@@ -2677,15 +2651,15 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=147)** If you're following along with the exercise files for this lesson, there are a few things that you'll need to know in advance.
 >
-> **[2:35](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=155)** I'll be demonstrating this project with Jenkins on a Ubuntu server.
+> **[2:35](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=155)** I'll be demonstrating this project with Jenkins on a [[Ubuntu]] server.
 >
 > **[2:40](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=160)** If you're using a Ubuntu server, it will need to have Python3 installed, as well as the virtual environment library for Python3.
 >
-> **[2:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=169)** The project will work with Jenkins on a Windows server, but you'll need to make sure you have Python installed and update the Jenkins file to use Paths to Python and PIP so they work with your installation.
+> **[2:49](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=169)** The project will work with Jenkins on a [[Windows Server]], but you'll need to make sure you have Python installed and update the Jenkins file to use Paths to Python and PIP so they work with your installation.
 >
-> **[3:03](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=183)** On either operating system, you also need to have Git installed for accessing the code from GitHub.
+> **[3:03](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=183)** On either operating system, you also need to have [[Git]] installed for accessing the code from [[GitHub]].
 >
-> **[3:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=190)** Ubuntu systems should already have Git installed but for Windows, you'll need to install it manually.
+> **[3:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=190)** Ubuntu systems should already have Git installed but for [[Windows]], you'll need to install it manually.
 >
 > **[3:17](https://www.linkedin.com/learning/jenkins-essential-training-17420152/publish-test-results-and-code-coverage-reports?u=76281980&t=197)** Your Jenkins server will also need to have the JUnit and code coverage plugins installed.
 >
@@ -2774,12 +2748,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **Tools:** github (1)
 
-#### Use test results to stop a build
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-test-results-to-stop-a-build?u=76281980)
+#### [Use test results to stop a build](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-test-results-to-stop-a-build?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-test-results-to-stop-a-build?u=76281980&t=0)** - [Instructor] In the previous lesson, we saw how Jenkins can publish test reports.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-test-results-to-stop-a-build?u=76281980&t=0)** - [Instructor] In the previous lesson, we saw how [[Jenkins]] can publish test reports.
 >
 > **[0:05](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-test-results-to-stop-a-build?u=76281980&t=5)** I also wanted to give a demonstration on how a test failure affects the pipeline stages that follow it.
 >
@@ -2832,16 +2805,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create artifacts and reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-create-artifacts-and-reports?u=76281980)
+#### [Challenge: Create artifacts and reports](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-create-artifacts-and-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-create-artifacts-and-reports?u=76281980&t=0)** - [Instructor] It's time for a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-create-artifacts-and-reports?u=76281980&t=7)** You're on a development team, working on a new Java application.
+> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-create-artifacts-and-reports?u=76281980&t=7)** You're on a development team, working on a new [[Java]] application.
 >
-> **[0:12](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-create-artifacts-and-reports?u=76281980&t=12)** You've been assigned to develop a Jenkins pipeline that tests the application code and creates a report using the JUnit format.
+> **[0:12](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-create-artifacts-and-reports?u=76281980&t=12)** You've been assigned to develop a [[Jenkins]] pipeline that tests the application code and creates a report using the [[JUnit]] format.
 >
 > **[0:21](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-create-artifacts-and-reports?u=76281980&t=21)** If the tests pass, the pipeline should compile the code into a Java archive and store the jar file as an artifact.
 >
@@ -2869,7 +2841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Java]] (2), [[Jenkins]] (2), [[JUnit]] (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Jenkins]] (2), [[JUnit]] (2)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2877,16 +2849,15 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create artifacts and reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980)
+#### [Solution: Create artifacts and reports](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=5)** - We've got a lot to cover in this challenge, so I'm just going to jump right in.
 >
-> **[0:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=10)** I'm starting here on the Manage Jenkins homepage because there are two things that we need to have in place before we get started.
+> **[0:10](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=10)** I'm starting here on the Manage [[Jenkins]] homepage because there are two things that we need to have in place before we get started.
 >
-> **[0:17](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=17)** First, I need a global tool configuration for Maven, and second, I need to make sure the JUnit plugin is installed.
+> **[0:17](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=17)** First, I need a global tool configuration for Maven, and second, I need to make sure the [[JUnit]] plugin is installed.
 >
 > **[0:25](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=25)** Starting with Maven, I'll click global tool configuration and then scroll down to the bottom of this page and click manage installations.
 >
@@ -2904,11 +2875,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=66)** Okay, let's look at this pipeline.
 >
-> **[1:09](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=69)** I'm going to teleport there by typing in Java pipeline in the search bar and going straight to the job that I already have in place.
+> **[1:09](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=69)** I'm going to teleport there by typing in [[Java]] pipeline in the search bar and going straight to the job that I already have in place.
 >
 > **[1:17](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=77)** And here on the homepage, I'll click configure and then go straight to the pipeline section.
 >
-> **[1:24](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=84)** I forked the exercise files into my own GitHub account and I'm referencing that URL here.
+> **[1:24](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=84)** I forked the exercise files into my own [[GitHub]] account and I'm referencing that URL here.
 >
 > **[1:30](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-create-artifacts-and-reports?u=76281980&t=90)** I also need to add credentials because at the time that I'm recording this, the exercise files are private.
 >
@@ -3066,7 +3037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (6), [[Jenkins]] (2), [[Java]] (1), [[Search]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (6), [[Jenkins]] (2), [[Java]] (1), [[GitHub]] (1)
 > **Exercise Files:** exercise files (5), template (2)
 > **UI Navigation:** go to (5), scroll down (1)
 > **Env Vars:** xml (2), url (1), test (1), snapshot (1)
@@ -3080,12 +3051,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure Jenkins with user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980)
+#### [Secure Jenkins with user accounts](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980&t=0)** - [Instructor] Jenkins does a pretty good job of providing security out of the box.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980&t=0)** - [Instructor] [[Jenkins]] does a pretty good job of providing security out of the box.
 >
 > **[0:05](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980&t=5)** When a Jenkins server is first launched, it's locked by default, and you need to have the initial admin password to log in.
 >
@@ -3145,7 +3115,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980&t=211)** Fortunately, there are instructions for disabling access control if you find yourself locked out.
 >
-> **[3:39](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980&t=219)** I just wanted to offer this word of caution to be sure to have your permissions in place when implementing matrix-based security.
+> **[3:39](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980&t=219)** I just wanted to offer this [[Microsoft Word|word]] of caution to be sure to have your permissions in place when implementing matrix-based security.
 >
 > **[3:48](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980&t=228)** With that public service announcement, let's go through an example.
 >
@@ -3211,7 +3181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (25), [[Security]] (10), database (1), teams (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (25), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), known as (1), in other words (1), means that (1), is an  (1)
 > **Prerequisites:** configure (3), you need to have (1), set up (1)
 > **CLI Commands:** make (1), find (1)
@@ -3220,8 +3190,7 @@ created: 2026-05-02
 > **Env Vars:** ldap (1)
 > **Cross-References:** go back to (1)
 
-#### Configure project-based permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/configure-project-based-permissions?u=76281980)
+#### [Configure project-based permissions](https://www.linkedin.com/learning/jenkins-essential-training-17420152/configure-project-based-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3239,7 +3208,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/jenkins-essential-training-17420152/configure-project-based-permissions?u=76281980&t=44)** Let's see how this works in an example.
 >
-> **[0:47](https://www.linkedin.com/learning/jenkins-essential-training-17420152/configure-project-based-permissions?u=76281980&t=47)** I'm logged into my Jenkins server and I've already opened the Configure Global Security menu.
+> **[0:47](https://www.linkedin.com/learning/jenkins-essential-training-17420152/configure-project-based-permissions?u=76281980&t=47)** I'm logged into my [[Jenkins]] server and I've already opened the Configure Global Security menu.
 >
 > **[0:54](https://www.linkedin.com/learning/jenkins-essential-training-17420152/configure-project-based-permissions?u=76281980&t=54)** I want to switch from matrix-based security to project-based security.
 >
@@ -3283,19 +3252,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Jenkins]] (1), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1)
 > **Prerequisites:** configure (3), set up (1)
 > **Cross-References:** we discussed (1), go back to (1)
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use secrets and credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-secrets-and-credentials?u=76281980)
+#### [Use secrets and credentials](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-secrets-and-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-secrets-and-credentials?u=76281980&t=0)** - [Instructor] Sensitive information can be stored and managed directly in the Jenkins application.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-secrets-and-credentials?u=76281980&t=0)** - [Instructor] Sensitive information can be stored and managed directly in the [[Jenkins]] application.
 >
 > **[0:06](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-secrets-and-credentials?u=76281980&t=6)** Jenkins uses the term credential to refer to sensitive information.
 >
@@ -3305,7 +3273,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-secrets-and-credentials?u=76281980&t=24)** Jenkins supports several types of credentials, including usernames and passwords, SSH keys, files, and text strings.
 >
-> **[0:35](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-secrets-and-credentials?u=76281980&t=35)** Text strings are particularly useful for values like API keys or security tokens.
+> **[0:35](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-secrets-and-credentials?u=76281980&t=35)** Text strings are particularly useful for values like API keys or security [[Tokens]].
 >
 > **[0:43](https://www.linkedin.com/learning/jenkins-essential-training-17420152/use-secrets-and-credentials?u=76281980&t=43)** Once we have credentials stored in Jenkins, we can use them in job configurations, including pipeline projects.
 >
@@ -3339,15 +3307,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (6), application (1), data (1), api (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6), [[Tokens]] (1)
 > **Code Identifiers:** withcredentials (2), withcredential (2)
 > **Env Vars:** ssh (1), api (1), usr (1), psw (1)
 > **CLI Commands:** ssh (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Configure users and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-configure-users-and-permissions?u=76281980)
+#### [Challenge: Configure users and permissions](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-configure-users-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3355,7 +3322,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-configure-users-and-permissions?u=76281980&t=5)** - [Instructor] It's time for a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-configure-users-and-permissions?u=76281980&t=7)** You manage a Jenkins server that's being used by two development teams.
+> **[0:07](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-configure-users-and-permissions?u=76281980&t=7)** You manage a [[Jenkins]] server that's being used by two development teams.
 >
 > **[0:12](https://www.linkedin.com/learning/jenkins-essential-training-17420152/challenge-configure-users-and-permissions?u=76281980&t=12)** One team develops engineering applications, and the other team develops finance applications.
 >
@@ -3383,19 +3350,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), [[Jenkins]] (3), next (2), teams (1), application (1)
+> **Frameworks & Libraries:** [[Jenkins]] (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat instrumental music) (1)
 
-#### Solution: Configure users and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-configure-users-and-permissions?u=76281980)
+#### [Solution: Configure users and permissions](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-configure-users-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-configure-users-and-permissions?u=76281980&t=0)** - In this challenge, we're being asked to create users and set up some boundaries by configuring security.
 >
-> **[0:13](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-configure-users-and-permissions?u=76281980&t=13)** I'm logged into a brand new Jenkins installation as the admin user.
+> **[0:13](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-configure-users-and-permissions?u=76281980&t=13)** I'm logged into a brand new [[Jenkins]] installation as the admin user.
 >
 > **[0:17](https://www.linkedin.com/learning/jenkins-essential-training-17420152/solution-configure-users-and-permissions?u=76281980&t=17)** And I'm going to jump right in to solve this challenge by creating these users first.
 >
@@ -3551,7 +3517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (22), [[Jenkins]] (8), [[Security]] (4), next (2), application (1)
+> **Frameworks & Libraries:** [[Jenkins]] (8)
 > **Prerequisites:** set up (2), configure (2)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Definitions:** means that (1)
@@ -3565,16 +3531,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980&t=0)** - [Michael] I'm so glad you joined me for Jenkins Essential Training.
+> **[0:00](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980&t=0)** - [Michael] I'm so glad you joined me for [[Jenkins]] Essential Training.
 >
 > **[0:04](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980&t=4)** As you continue exploring Jenkins, you're not alone.
 >
-> **[0:08](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980&t=8)** Use the Q&A feature here on LinkedIn Learning to connect with me or other developers taking this course.
+> **[0:08](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980&t=8)** Use the Q&A feature here on [[LinkedIn]] Learning to connect with me or other developers taking this course.
 >
 > **[0:15](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980&t=15)** As you continue learning how Jenkins fits into your workflows, I suggest you take my course, Running Jenkins on AWS.
 >
@@ -3586,7 +3551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (5), aws (2), feature (1), [[LinkedIn]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Jenkins]] (5), [[LinkedIn]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Speakers:** - [michael] (1)

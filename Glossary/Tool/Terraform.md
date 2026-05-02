@@ -42,15 +42,15 @@ created: 2026-05-02
 
 > [!note]- See all 31 courses
 > 11. [[Aws Essential Training For Developers]] — 7 mentions
-> 12. [[DevOps Tips]] — 5 mentions
+> 12. [[DevOps Tips]] — 6 mentions
 > 13. [[Cloud Computing Careers and Certifications]] — 2 mentions
 > 14. [[Hybrid Multicloud Networking- Practical Concepts]] — 2 mentions
-> 15. [[Application Security in DevSecOps]] — 2 mentions
-> 16. [[Building Serverless Apps with AI Services on AWS]] — 2 mentions
-> 17. [[Cloud Computing- Understanding Private Cloud Options]] — 1 mentions
-> 18. [[Structured Vibe Coding with AI Coding Agents]] — 1 mentions
-> 19. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
-> 20. [[Introduction to IT Automation]] — 1 mentions
+> 15. [[Introduction to IT Automation]] — 2 mentions
+> 16. [[Application Security in DevSecOps]] — 2 mentions
+> 17. [[Building Serverless Apps with AI Services on AWS]] — 2 mentions
+> 18. [[Cloud Computing- Understanding Private Cloud Options]] — 1 mentions
+> 19. [[Structured Vibe Coding with AI Coding Agents]] — 1 mentions
+> 20. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
 > 21. [[Cloud Architecture- Advanced Concepts]] — 1 mentions
 > 22. [[AI Orchestration- Designing the Prototype Architecture and Data Strategy]] — 1 mentions
 > 23. [[MLOps Essentials- Model Deployment and Monitoring]] — 1 mentions

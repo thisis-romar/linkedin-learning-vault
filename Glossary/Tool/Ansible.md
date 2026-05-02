@@ -17,7 +17,7 @@ tags:
   - topic/database-management
   - topic/software-development
   - topic/cloud-computing
-course_count: 25
+course_count: 26
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Ansible
 
-> **Type:** Tool | **Courses:** 25 | **Topics:** [[Network and System Administration]], [[DevOps]], [[Database Management]], [[Software Development]], [[Cloud Computing]]
+> **Type:** Tool | **Courses:** 26 | **Topics:** [[Network and System Administration]], [[DevOps]], [[Database Management]], [[Software Development]], [[Cloud Computing]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Nail Your DevOps Interview]] — 9 mentions
 10. [[Devops Foundations]] — 6 mentions
 
-> [!note]- See all 25 courses
+> [!note]- See all 26 courses
 > 11. [[Kubernetes- Essential Tools]] — 6 mentions
 > 12. [[GitHub Copilot for System-Level Development]] — 4 mentions
 > 13. [[Docker Essential Training]] — 4 mentions
@@ -55,7 +55,8 @@ created: 2026-05-02
 > 22. [[Devops Foundations Devsecops]] — 1 mentions
 > 23. [[DevSecOps- Tips for Success]] — 1 mentions
 > 24. [[Ubuntu Linux- Operating System Basics]] — 1 mentions
-> 25. [[Deploying Django Apps- Make Your Site Go Live]] — 1 mentions
+> 25. [[DevOps Tips]] — 1 mentions
+> 26. [[Deploying Django Apps- Make Your Site Go Live]] — 1 mentions
 
 ## Learning Paths
 
@@ -65,8 +66,8 @@ created: 2026-05-02
 4. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 36 total mentions
 5. [[Infrastructure as Code with Terraform]] — 19 total mentions
 6. [[Getting Started with Continuous Integration - Continuous Delivery (CI-CD)]] — 11 total mentions
-7. [[Digital Transformation for Tech Leaders]] — 9 total mentions
-8. [[Starting Your Career in Tech- DevOps]] — 9 total mentions
+7. [[Starting Your Career in Tech- DevOps]] — 10 total mentions
+8. [[Digital Transformation for Tech Leaders]] — 9 total mentions
 9. [[Getting Started with Kubernetes]] — 9 total mentions
 10. [[Develop Your Skills in Agile Software Development]] — 6 total mentions
 

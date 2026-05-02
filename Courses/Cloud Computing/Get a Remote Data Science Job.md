@@ -82,18 +82,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Master the remote job search
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980)
+#### [Master the remote job search](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=0)** - The world is changing.
 >
-> **[0:01](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=1)** Today teams are spread out all over the globe, which means the traditional concept of being tied to an office is becoming less and less important.
+> **[0:01](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=1)** Today teams are spread out all over the globe, which means the traditional concept of being tied to an [[Microsoft Office|office]] is becoming less and less important.
 >
 > **[0:09](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=9)** How awesome is that?
 >
-> **[0:11](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=11)** Data science, machine learning, and artificial intelligence are revolutionizing industries left and right.
+> **[0:11](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=11)** [[Data Science]], machine learning, and [[Artificial Intelligence (AI)|artificial intelligence]] are revolutionizing industries left and right.
 >
 > **[0:16](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=16)** As a result, remote data science jobs are on the rise.
 >
@@ -107,13 +106,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=35)** I'll show you how to present your experience, enhance your online presence, and network effectively.
 >
-> **[0:40](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=40)** I'll help you stand out against other applicants and excel in data science interviews by showing potential employers how you'll add value while working remotely.
+> **[0:40](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=40)** I'll help you stand out against other applicants and [[Microsoft Excel|excel]] in data science interviews by showing potential employers how you'll add value while working remotely.
 >
 > **[0:48](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/master-the-remote-job-search?u=76281980&t=48)** So if you're ready to land a great data science job, then let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), teams (1), [[Microsoft Office|Office]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Microsoft Office|Office]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - the (1)
 
@@ -122,14 +121,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify data science job types
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980)
+#### [Identify data science job types](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=0)** - The first thing you must realize in your job search is that companies offering data science jobs, have very different ideas of what data science means.
+> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=0)** - The first thing you must realize in your job search is that companies offering [[Data Science]] jobs, have very different ideas of what data science means.
 >
-> **[0:07](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=7)** To some, it's statistics, to others, it is data mining, machine learning, or deep learning, or even artificial intelligence.
+> **[0:07](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=7)** To some, it's [[Statistics]], to others, it is [[Data Mining]], machine learning, or [[Deep Learning]], or even [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:15](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=15)** Understanding what kind of data scientist companies want is the first step to getting hired.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=23)** The first type of remote position is a data analyst.
 >
-> **[0:26](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=26)** These jobs can revolve around creating dashboards and filling reporting needs.
+> **[0:26](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=26)** These jobs can revolve around creating [[Dashboards]] and filling reporting needs.
 >
 > **[0:29](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=29)** Check these roles carefully.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=46)** The next type is machine learning engineering positions.
 >
-> **[0:49](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=49)** These roles revolve around best coding practices, developing machine learning models, and putting them into production.
+> **[0:49](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=49)** These roles revolve around best [[Coding Practices]], developing machine learning models, and putting them into production.
 >
 > **[0:54](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=54)** If you're from a software engineering background, this role might be the path of least resistance to a data science job.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=77)** Finally, they're the research and applied science roles.
 >
-> **[1:21](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=81)** These jobs revolve around cutting edge machine learning, generative AI, or tool development.
+> **[1:21](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=81)** These jobs revolve around cutting edge machine learning, [[Generative AI]], or tool development.
 >
 > **[1:25](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-data-science-job-types?u=76281980&t=85)** If you have a PhD in a quantitative field, you have an advantage in securing one of these jobs.
 >
@@ -181,14 +179,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Search]] (2), next (2), [[Engineering]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Statistics]] (1), [[Data Mining]] (1), [[Deep Learning]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - the (1)
 
-#### Find online job listings
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980)
+#### [Find online job listings](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,9 +195,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=5)** Also a major problem is lot of companies don't give their data scientists, data scientist titles, so this makes it harder to look for jobs.
 >
-> **[0:12](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=12)** In this lesson, we review various ways you can find the data science position you are looking for.
+> **[0:12](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=12)** In this lesson, we review various ways you can find the [[Data Science]] position you are looking for.
 >
-> **[0:18](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=18)** The first step, is to check common job listing sites for remote jobs like: LinkedIn, Indeed, Glassdoor, Hired, and Google for Jobs.
+> **[0:18](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=18)** The first step, is to check common job listing sites for remote jobs like: [[LinkedIn]], Indeed, Glassdoor, Hired, and [[Google]] for Jobs.
 >
 > **[0:28](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=28)** Some less common, but still useful places you can look for remote data science positions, are Stackoverflow, ZipRecruiter, Built In, and KDNuggets.
 >
@@ -240,9 +237,9 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=119)** So think about the position you're applying for, and cultivate a set of personal search terms.
 >
-> **[2:04](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=124)** You can also search based on languages like Python or R.
+> **[2:04](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=124)** You can also search based on languages like [[Python (Programming Language)|Python]] or R.
 >
-> **[2:07](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=127)** You even search based on libraries like Pandas or GgPlot.
+> **[2:07](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=127)** You even search based on libraries like [[Pandas (Software)|Pandas]] or GgPlot.
 >
 > **[2:10](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/find-online-job-listings?u=76281980&t=130)** With all is considered, you've got this.
 >
@@ -250,18 +247,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Search]] (4), [[LinkedIn]] (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[LinkedIn]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** find (3), python (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - searching (1)
 
-#### Fill your skill gaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/fill-your-skill-gaps?u=76281980)
+#### [Fill your skill gaps](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/fill-your-skill-gaps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/fill-your-skill-gaps?u=76281980&t=0)** - How do you know if you have the required skills and qualifications for a data science position?
+> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/fill-your-skill-gaps?u=76281980&t=0)** - How do you know if you have the required skills and qualifications for a [[Data Science]] position?
 >
 > **[0:05](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/fill-your-skill-gaps?u=76281980&t=5)** One approach you can take is to use job listings as a general guideline to determine what you know and to determine your skill and qualification gaps.
 >
@@ -315,7 +311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
+> **Frameworks & Libraries:** [[Data Science]] (5)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
@@ -326,12 +322,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of a portfolio
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980)
+#### [Importance of a portfolio](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=0)** - While a traditional resume may hint at your skills, a data science portfolio presents an immersive view of your work.
+> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=0)** - While a traditional resume may hint at your skills, a [[Data Science]] portfolio presents an immersive view of your work.
 >
 > **[0:06](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=6)** A data science portfolio is a way to show employers you have the skills that they're looking for.
 >
@@ -349,9 +344,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=54)** Are you interested in the machine learning role?
 >
-> **[0:56](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=56)** If so, you can participate in Kaggle competitions or work on a generative AI project to showcase your machine learning skills.
+> **[0:56](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=56)** If so, you can participate in Kaggle competitions or work on a [[Generative AI]] project to showcase your machine learning skills.
 >
-> **[1:03](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=63)** If you're interested in a more of a decision scientist role, you write a blog about some statistical analysis that you did.
+> **[1:03](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=63)** If you're interested in a more of a decision scientist role, you write a blog about some [[Statistical Analysis]] that you did.
 >
 > **[1:08](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=68)** The point is your portfolio should be customized to land your dream job.
 >
@@ -359,13 +354,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=75)** Networking is one of the best ways to do this.
 >
-> **[1:17](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=77)** Connect with recruiters and hiring managers on LinkedIn.
+> **[1:17](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=77)** Connect with recruiters and hiring managers on [[LinkedIn]].
 >
 > **[1:20](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=80)** Join industry-specific groups and attend conferences and job fairs.
 >
 > **[1:23](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=83)** You can also post your portfolio on job boards and make yourself available to potential employers.
 >
-> **[1:28](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=88)** Also, you can include links to your GitHub repositories, blogs, and more in your resume.
+> **[1:28](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=88)** Also, you can include links to your [[GitHub]] repositories, blogs, and more in your resume.
 >
 > **[1:32](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=92)** Keep in mind that if you have GitHub repositories, blogs, or even a social media presence, people are more likely to find your resume and know it's your skills than if you just have a resume alone.
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=107)** If you contribute to open-source, you can become a better programmer and improve your teamwork.
 >
-> **[1:52](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=112)** By doing anything on GitHub, you can learn something about version control.
+> **[1:52](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=112)** By doing anything on GitHub, you can learn something about [[Version Control]].
 >
 > **[1:55](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/importance-of-a-portfolio?u=76281980&t=115)** If you blog about data science, you can improve your communication skills.
 >
@@ -385,21 +380,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[GitHub]] (3), open-source (2), career (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (9), [[GitHub]] (3), [[Generative AI]] (1), [[Statistical Analysis]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Tools:** github (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - while (1)
 
-#### Showcase your projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/showcase-your-projects?u=76281980)
+#### [Showcase your projects](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/showcase-your-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/showcase-your-projects?u=76281980&t=0)** - How do you create a project that will help you stand out from other applicants?
 >
-> **[0:03](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/showcase-your-projects?u=76281980&t=3)** The real magic happens when you combine data science skills with fascinating data.
+> **[0:03](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/showcase-your-projects?u=76281980&t=3)** The real magic happens when you combine [[Data Science]] skills with fascinating data.
 >
 > **[0:08](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/showcase-your-projects?u=76281980&t=8)** In this lesson, you'll review expert tips for boosting interest in your data science projects.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/showcase-your-projects?u=76281980&t=23)** You shouldn't use any dataset like Titanic, MNIST, or mtcars.
 >
-> **[0:28](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/showcase-your-projects?u=76281980&t=28)** You want to use other people's datasets You can find some less common Kaggle datasets or use an API to fetch data.
+> **[0:28](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/showcase-your-projects?u=76281980&t=28)** You want to use other people's datasets You can find some less common Kaggle datasets or use an API to [[Fetch]] data.
 >
 > **[0:34](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/showcase-your-projects?u=76281980&t=34)** The second step is to find data relevant to the industries that you're interested in working in.
 >
@@ -441,19 +435,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), api (1), [[Fetch]] (1), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Fetch]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** mnist (1), api (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - how (1)
 
-#### Optimize your resume
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-resume?u=76281980)
+#### [Optimize your resume](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-resume?u=76281980&t=0)** - How do you create a data science resume that'll get you an interview?
+> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-resume?u=76281980&t=0)** - How do you create a [[Data Science]] resume that'll get you an interview?
 >
 > **[0:03](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-resume?u=76281980&t=3)** Most recruiters and hiring managers only skim your resume, so it's important to have all sections be relevant for each role.
 >
@@ -475,7 +468,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-resume?u=76281980&t=47)** As these systems search resumes for keywords, you should include a skill section on your resume.
 >
-> **[0:51](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-resume?u=76281980&t=51)** You can put in keywords like Python, SQL, R, et cetera.
+> **[0:51](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-resume?u=76281980&t=51)** You can put in keywords like [[Python (Programming Language)|Python]], [[SQL]], R, et cetera.
 >
 > **[0:55](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-resume?u=76281980&t=55)** Tip number three, an essential part of your resume is your experience.
 >
@@ -507,17 +500,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Search]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - how (1)
 
-#### Write a cover letter
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-cover-letter?u=76281980)
+#### [Write a cover letter](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-cover-letter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-cover-letter?u=76281980&t=0)** - Is it worth your time to write a cover letter for a remote data science role?
+> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-cover-letter?u=76281980&t=0)** - Is it worth your time to write a cover letter for a remote [[Data Science]] role?
 >
 > **[0:03](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-cover-letter?u=76281980&t=3)** The truth is not always clear, but there are some telltale signs of when you should and shouldn't write a cover letter.
 >
@@ -557,7 +549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), job description (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - is (1)
 
@@ -566,12 +558,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimize your LinkedIn profile
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980)
+#### [Optimize your LinkedIn profile](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=0)** - LinkedIn is an essential part of your online presence.
+> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=0)** - [[LinkedIn]] is an essential part of your online presence.
 >
 > **[0:03](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=3)** LinkedIn gives you the opportunity to create a personal brand that can help with networking.
 >
@@ -587,7 +578,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=29)** Second, to make yourself even more searchable, you include keywords in the multiple different sections of your LinkedIn profile, like your summary, skills and experience sections.
 >
-> **[0:39](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=39)** For example, if you use Python or R, or even individual libraries like Pandas or ggplot, you can include those in your profile.
+> **[0:39](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=39)** For example, if you use [[Python (Programming Language)|Python]] or R, or even individual libraries like [[Pandas (Software)|Pandas]] or ggplot, you can include those in your profile.
 >
 > **[0:46](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/optimize-your-linkedin-profile?u=76281980&t=46)** Also, be sure to include a professional photo of yourself and add a reasonable headline.
 >
@@ -609,20 +600,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Search]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (3), find (2), python (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - linkedin (1)
 
-#### Build your GitHub portfolio
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980)
+#### [Build your GitHub portfolio](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=0)** - Want to impress potential employers with your data science skills?
+> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=0)** - Want to impress potential employers with your [[Data Science]] skills?
 >
-> **[0:03](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=3)** A GitHub portfolio of your work is a great way to do it.
+> **[0:03](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=3)** A [[GitHub]] portfolio of your work is a great way to do it.
 >
 > **[0:06](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=6)** Not only does it show off your technical skills, but it also gives you the chance to practice your data science take-home assignments and case study skills.
 >
@@ -640,11 +630,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=43)** Next, whatever project you put on your GitHub, just make sure to include a readme Markdown file with a brief description of your project, how to run your code, and some analysis of the results.
 >
-> **[0:53](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=53)** This is also an opportunity to clean up your code to make sure it follows best coding practices.
+> **[0:53](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=53)** This is also an opportunity to clean up your code to make sure it follows best [[Coding Practices]].
 >
 > **[0:58](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=58)** Another thing to consider is what you can learn by creating and enhancing projects.
 >
-> **[1:02](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=62)** While you could learn more about version control, the process of making a project is similar in a lot of ways to data science take-home challenges which are often part of the interview process.
+> **[1:02](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=62)** While you could learn more about [[Version Control]], the process of making a project is similar in a lot of ways to data science take-home challenges which are often part of the interview process.
 >
 > **[1:11](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/build-your-github-portfolio?u=76281980&t=71)** By following these tips, you can use GitHub to showcase your skills, network, and stay up to date on the latest technologies.
 >
@@ -652,15 +642,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), data (3), next (1), [[Coding Practices]] (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Data Science]] (3), [[Coding Practices]] (1), [[Version Control]] (1)
 > **Tools:** github (7)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - want (1)
 
-#### Write a data science blog
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-data-science-blog?u=76281980)
+#### [Write a data science blog](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-data-science-blog?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +657,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-data-science-blog?u=76281980&t=3)** If you're applying for remote work, there's only so much you can communicate based on a resume alone.
 >
-> **[0:07](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-data-science-blog?u=76281980&t=7)** One way around this issue is to create a data science blog.
+> **[0:07](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-data-science-blog?u=76281980&t=7)** One way around this issue is to create a [[Data Science]] blog.
 >
 > **[0:10](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-data-science-blog?u=76281980&t=10)** A blog allows you to showcase a glimpse of your personality, and perhaps more importantly, allows you to showcase your communication skills.
 >
@@ -680,7 +669,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-data-science-blog?u=76281980&t=35)** You write about a particular algorithm, exploratory analysis, Cisco technique, or visualization.
 >
-> **[0:41](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-data-science-blog?u=76281980&t=41)** You turn a kernel on Kaggle or a project on GitHub into an accompanying blog post, even write a blog about something you're learning and trying to understand better.
+> **[0:41](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-data-science-blog?u=76281980&t=41)** You turn a kernel on Kaggle or a project on [[GitHub]] into an accompanying blog post, even write a blog about something you're learning and trying to understand better.
 >
 > **[0:49](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/write-a-data-science-blog?u=76281980&t=49)** Even if you're new to data science, keep in mind that there's so many people entering the field that you can offer a unique perspective to learners that are behind where you are in your journey.
 >
@@ -718,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[GitHub]] (2), next (1), traffic (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[GitHub]] (2)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
 > **Definitions:** is a  (1)
@@ -731,8 +720,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify valuable connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980)
+#### [Identify valuable connections](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,7 +736,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980&t=21)** It's important to define what networking is and isn't.
 >
-> **[0:24](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980&t=24)** Isn't randomly messaging strangers on LinkedIn asking for a referral.
+> **[0:24](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980&t=24)** Isn't randomly messaging strangers on [[LinkedIn]] asking for a referral.
 >
 > **[0:27](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980&t=27)** You should try to get to know someone first.
 >
@@ -776,9 +764,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980&t=73)** LinkedIn is one of the most common ways to network remotely.
 >
-> **[1:16](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980&t=76)** There are a lot of less commonly known methods like going to online Python meetups and conferences.
+> **[1:16](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980&t=76)** There are a lot of less commonly known methods like going to online [[Python (Programming Language)|Python]] meetups and conferences.
 >
-> **[1:21](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980&t=81)** One way is by being active on social media, which is a great way to identify and interact with people in data science.
+> **[1:21](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980&t=81)** One way is by being active on social media, which is a great way to identify and interact with people in [[Data Science]].
 >
 > **[1:27](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/identify-valuable-connections?u=76281980&t=87)** In my experience, blogging has definitely been a great way to network.
 >
@@ -792,14 +780,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), data (2), [[Python (Programming Language)|Python]] (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Data Science]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Definitions:** means that (1), is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - how (1)
 
-#### Request a referral
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/request-a-referral?u=76281980)
+#### [Request a referral](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/request-a-referral?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -809,7 +796,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/request-a-referral?u=76281980&t=9)** A referral is an employee recommending you for a job.
 >
-> **[0:12](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/request-a-referral?u=76281980&t=12)** For remote data science roles, there are a lot of competitive applicants.
+> **[0:12](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/request-a-referral?u=76281980&t=12)** For remote [[Data Science]] roles, there are a lot of competitive applicants.
 >
 > **[0:16](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/request-a-referral?u=76281980&t=16)** A referral can give you the edge you need to get the position.
 >
@@ -821,7 +808,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/request-a-referral?u=76281980&t=30)** This will allow you to search for people you know at a company of interest.
 >
-> **[0:33](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/request-a-referral?u=76281980&t=33)** Start by searching for people you know well on LinkedIn, and then broaden your search.
+> **[0:33](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/request-a-referral?u=76281980&t=33)** Start by searching for people you know well on [[LinkedIn]], and then broaden your search.
 >
 > **[0:37](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/request-a-referral?u=76281980&t=37)** Consider former classmates or people who may have attended the same bootcamp as you.
 >
@@ -841,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (3), [[LinkedIn]] (3), business (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Data Science]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
@@ -852,12 +839,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare for assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/prepare-for-assessments?u=76281980)
+#### [Prepare for assessments](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/prepare-for-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/prepare-for-assessments?u=76281980&t=0)** - How do you prepare for a data science case study?
+> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/prepare-for-assessments?u=76281980&t=0)** - How do you prepare for a [[Data Science]] case study?
 >
 > **[0:02](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/prepare-for-assessments?u=76281980&t=2)** All you usually get is a data set and some instructions, which may be vague.
 >
@@ -903,18 +889,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (3), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - how (1)
 
-#### Stand out remotely
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980)
+#### [Stand out remotely](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=0)** - How do you study for a data science interview when they can ask anything from statistics, machine learning to deep learning and more?
+> **[0:00](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=0)** - How do you study for a [[Data Science]] interview when they can ask anything from [[Statistics]], machine learning to [[Deep Learning]] and more?
 >
 > **[0:07](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=7)** You can't know everything, but you can make an effort to find out what to study and refresh your memory.
 >
@@ -922,7 +907,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=19)** The first step is to research what the company does.
 >
-> **[0:21](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=21)** Learn about the products or services they provide.
+> **[0:21](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=21)** Learn about the [[Microsoft Products|products]] or services they provide.
 >
 > **[0:24](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=24)** Find out what business problems they are solving to give you a great edge as a lot of data science is about domain knowledge.
 >
@@ -932,9 +917,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=39)** If they don't, you can ask what general subjects will be covered.
 >
-> **[0:42](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=42)** You can search an interview preparation site based on the job title to learn if there's anything else you should prepare for.
+> **[0:42](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=42)** You can search an [[Interview Preparation]] site based on the job title to learn if there's anything else you should prepare for.
 >
-> **[0:48](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=48)** Next, when you're interviewing remotely, it's important for you to hear your best to make sure you're in a quiet place with a good internet connection.
+> **[0:48](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=48)** Next, when you're [[Interviewing]] remotely, it's important for you to hear your best to make sure you're in a quiet place with a good internet connection.
 >
 > **[0:55](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/stand-out-remotely?u=76281980&t=55)** Familiarize yourself the remote interview platforms.
 >
@@ -950,15 +935,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Interviewing]] (2), [[Statistics]] (1), [[Deep Learning]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Interviewing]] (2), [[Statistics]] (1), [[Deep Learning]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - how (1)
 
-#### Craft your follow-up strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/craft-your-follow-up-strategy?u=76281980)
+#### [Craft your follow-up strategy](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/craft-your-follow-up-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -970,7 +954,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=9)** In this lesson, I'll share what you can do after an interview and make sure you stay top of mind with the hiring team.
 >
-> **[0:15](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=15)** After an interview, send a follow-up email or LinkedIn message.
+> **[0:15](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=15)** After an interview, send a follow-up email or [[LinkedIn]] message.
 >
 > **[0:19](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/craft-your-follow-up-strategy?u=76281980&t=19)** There are several different types.
 >
@@ -998,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[LinkedIn]] (1), application (1), express (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - what (1)
@@ -1008,8 +992,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your path forward
-> [LinkedIn Learning](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980)
+#### [Your path forward](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1019,7 +1002,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980&t=5)** You know, there's always more you can do to boost the chances of getting hired.
 >
-> **[0:09](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980&t=9)** If you're interested in diving deeper into data science portfolios, I've got you covered.
+> **[0:09](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980&t=9)** If you're interested in diving deeper into [[Data Science]] portfolios, I've got you covered.
 >
 > **[0:13](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980&t=13)** Check out my blog called How to Build a Data Science Portfolio for more insights.
 >
@@ -1027,7 +1010,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980&t=21)** And of course, let's keep in touch.
 >
-> **[0:22](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980&t=22)** Connect with me on LinkedIn.
+> **[0:22](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980&t=22)** Connect with me on [[LinkedIn]].
 >
 > **[0:24](https://www.linkedin.com/learning/get-a-remote-data-science-job-2023/your-path-forward?u=76281980&t=24)** I'd love to hear from you.
 >
@@ -1041,7 +1024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), data (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[LinkedIn]] (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Speakers:** - congratulations (1)
 

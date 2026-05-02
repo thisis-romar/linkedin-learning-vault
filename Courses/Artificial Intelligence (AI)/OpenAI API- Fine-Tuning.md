@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fine-tuning custom models with the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-custom-models-with-the-openai-api?u=76281980)
+#### [Fine-tuning custom models with the OpenAI API](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-custom-models-with-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,22 +95,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), data (1), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - you (1)
 
-#### Exercise files and where to find them
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980)
+#### [Exercise files and where to find them](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=0)** - [Instructor] To make it easier for you to follow along, and to give you the tools you need to do your own fine-tuning jobs after you've finished watching this course, I've created exercise files for this course, and you can find them on GitHUb.
+> **[0:00](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=0)** - [Instructor] To make it easier for you to follow along, and to give you the tools you need to do your own fine-tuning jobs after you've finished watching this course, I've created exercise files for this course, and you can find them on [[GitHub]].
 >
 > **[0:11](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=11)** In the exercise files, I provide two Jupyter notebooks, one helping you to create training data and one helping you to interact directly with the open AI API.
 >
-> **[0:20](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=20)** And both of these Jupyter notebooks need to run in a Jupyter environment supported by Python.
+> **[0:20](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=20)** And both of these Jupyter notebooks need to run in a Jupyter environment supported by [[Python (Programming Language)|Python]].
 >
-> **[0:25](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=25)** So to make this easier, I've set everything up so you can run it all in GitHub Codespaces, including having a pre-configured Python environment.
+> **[0:25](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=25)** So to make this easier, I've set everything up so you can run it all in GitHub [[Codespaces]], including having a pre-configured Python environment.
 >
 > **[0:33](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=33)** To do so, go to the repository page, click on code, select the codespaces tab, and either create a new codespace by clicking create codespace on main, or if you already have one that's running, select the one that's running to start it up again.
 >
@@ -137,7 +134,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=90)** What you'll notice is this file name will be grayed out.
 >
-> **[1:33](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=93)** That's because Git is not monitoring this particular file, and it will not be committed back into your system because this is your API key.
+> **[1:33](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=93)** That's because [[Git]] is not monitoring this particular file, and it will not be committed back into your system because this is your API key.
 >
 > **[1:41](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/exercise-files-and-where-to-find-them?u=76281980&t=101)** What you want in this file is to set up your own API key to call open AI.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), data (5), [[GitHub]] (2), ai (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Python (Programming Language)|Python]] (2), [[Codespaces]] (2), [[Git]] (1)
 > **CLI Commands:** find (3), make (2), python (2), git (1)
 > **Env Vars:** api (8)
 > **UI Navigation:** go to (3), select the (2), click on (1), scroll down (1)
@@ -193,8 +190,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to create a fine-tuned model
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980)
+#### [When to create a fine-tuned model](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980&t=151)** And then, comes a special thing, "Rate the sentiment as follows: 1 is Culinary Catastrophe, 2 is Bitter Bites, 3 is Meh Meal, 4 is Delightful Dining, and 5 is Gastronomic Genius.
 >
-> **[2:44](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980&t=164)** And then, output the resulting value of the sentiment as JSON."
+> **[2:44](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980&t=164)** And then, output the resulting value of the sentiment as [[JSON]]."
 >
 > **[2:48](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980&t=168)** Let's see what happens when I run this request against a standard GPT 3.5 Turbo model.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980&t=182)** Now, comes an important question.
 >
-> **[3:03](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980&t=183)** If I'm going to build a tool around this, I don't want to pass that giant system message every time because I'm spending a lot of tokens just passing in that system message.
+> **[3:03](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980&t=183)** If I'm going to build a tool around this, I don't want to pass that giant system message every time because I'm spending a lot of [[Tokens]] just passing in that system message.
 >
 > **[3:12](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980&t=192)** So, can I somehow reduce that system message and get the same kind of output?
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), ai (1), next (1), data (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Tokens]] (1)
 > **Env Vars:** json (2), gpt (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **CLI Commands:** make (1), find (1)
@@ -283,8 +279,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Creating and formatting training data
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980)
+#### [Creating and formatting training data](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -292,11 +287,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=7)** You have to provide it as a JSONL file.
 >
-> **[0:10](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=10)** A JSONL file is a file where you have lines of complete JSON objects that are not comma separated.
+> **[0:10](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=10)** A JSONL file is a file where you have lines of complete [[JSON]] objects that are not comma separated.
 >
 > **[0:17](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=17)** So it's literally like a list of full JSON objects, one after the other.
 >
-> **[0:23](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=23)** Each of these JSON objects is a full exchange with the OpenAI API.
+> **[0:23](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=23)** Each of these JSON objects is a full exchange with the [[OpenAI API]].
 >
 > **[0:28](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=28)** So it has a system message, a user message, then an assistant response message, and we provide all the information to show the AI, here's what the system message is, here's what a user message is, and here's the type of output I want from you in this case.
 >
@@ -330,7 +325,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=103)** I have provided links to them inside the notebooks we're going to be looking at.
 >
-> **[1:46](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=106)** My recommendation to you is to open these exercise files in GitHub Codespaces, because that way, you get a fully-configured environment that has Python pre-installed and has all the extensions and features you need to run the notebook, even if you've never used a Jupyter Notebook before.
+> **[1:46](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=106)** My recommendation to you is to open these exercise files in [[GitHub]] [[Codespaces]], because that way, you get a fully-configured environment that has [[Python (Programming Language)|Python]] pre-installed and has all the extensions and features you need to run the notebook, even if you've never used a Jupyter Notebook before.
 >
 > **[2:02](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-and-formatting-training-data?u=76281980&t=122)** Let me show you how all this works.
 >
@@ -460,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[JSON]] (12), [[Python (Programming Language)|Python]] (7), next (6), hit (3)
+> **Frameworks & Libraries:** [[JSON]] (12), [[Python (Programming Language)|Python]] (7), [[OpenAI API]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** json (12), jsonl (3), csv (3), api (2)
 > **CLI Commands:** python (7), make (3), find (2)
 > **Definitions:** is a  (6), is an  (1)
@@ -469,8 +464,7 @@ created: 2026-05-02
 > **Tools:** jupyter (3), github (1)
 > **Exercise Files:** exercise files (3)
 
-#### Testing the training data
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980)
+#### [Testing the training data](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,15 +472,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980&t=4)** We want to first make sure it's consistent and the training data is complete, because if there are any errors and we try to do fine-tuning on it, the fine-tuning will stall in the middle of the process and will waste time and money.
 >
-> **[0:17](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980&t=17)** We also want to test to make sure that each of our JSON objects sticks within the token limit so that they're not too long.
+> **[0:17](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980&t=17)** We also want to test to make sure that each of our [[JSON]] objects sticks within the token limit so that they're not too long.
 >
-> **[0:24](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980&t=24)** Because in some cases when you do fine tuning, you may feed in very long system messages, very long user messages, or very long responses.
+> **[0:24](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980&t=24)** Because in some cases when you do [[Fine Tuning]], you may feed in very long system messages, very long user messages, or very long responses.
 >
 > **[0:32](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980&t=32)** And if they are too long, the fine-tuning will simply fail.
 >
 > **[0:35](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980&t=35)** And number three, we want to make sure we know how much time and money we're going to spend on this.
 >
-> **[0:40](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980&t=40)** And we do that by counting the tokens across all the epochs or cycles that the training will be done on.
+> **[0:40](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980&t=40)** And we do that by counting the [[Tokens]] across all the epochs or cycles that the training will be done on.
 >
 > **[0:46](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-the-training-data?u=76281980&t=46)** The good news is I've compiled all the code we need to do these tests in the same Jupyter Notebook we've worked with previously.
 >
@@ -582,7 +576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Tokens]] (5), api (3), [[JSON]] (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[JSON]] (1), [[Fine Tuning]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** api (3), json (1)
 > **UI Navigation:** go to (2), scroll down (2)
@@ -591,8 +585,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Tools:** jupyter (1)
 
-#### Creating a fine-tuning job in the playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980)
+#### [Creating a fine-tuning job in the playground](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +595,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=9)** So I'll highlight them and go to download here.
 >
-> **[0:13](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=13)** And once the files are on my computer, I'll go to platform.[openai.com](https://openai.com) and go to fine tuning.
+> **[0:13](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=13)** And once the files are on my computer, I'll go to platform.[openai.com](https://openai.com) and go to [[Fine Tuning]].
 >
 > **[0:19](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=19)** Here you get a list of all your fine tuning models, including ones that didn't work.
 >
@@ -620,7 +613,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=55)** So you can see here we have babbage and davinci and gpt-3.5-turbo in different versions.
 >
-> **[1:00](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=60)** And there's also an option for gpt-4.
+> **[1:00](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=60)** And there's also an option for [[GPT-4]].
 >
 > **[1:03](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=63)** But as of this recording, if I click gpt-4 and scroll to the bottom, it says request access.
 >
@@ -712,7 +705,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=309)** And if you look at the interface, you can scroll down here and you'll see a running log of what's happening.
 >
-> **[5:15](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=315)** So it says the Java started and the files are validated and so on.
+> **[5:15](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=315)** So it says the [[Java]] started and the files are validated and so on.
 >
 > **[5:19](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=319)** And as things progress, you'll get more and more information.
 >
@@ -738,7 +731,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=379)** So here we have the job id, we have the suffix, we have the base model, the output model, and when it was created.
 >
-> **[6:25](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=385)** Scrolling further down, it tells us how many tokens went into this training.
+> **[6:25](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=385)** Scrolling further down, it tells us how many [[Tokens]] went into this training.
 >
 > **[6:29](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-in-the-playground?u=76281980&t=389)** It's 34,000.
 >
@@ -778,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Fine Tuning]] (8), [[GPT-4]] (4), next (3), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (8), [[GPT-4]] (4), [[Tokens]] (2), [[Java]] (1)
 > **UI Navigation:** go to (5), click on (2), scroll down (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 3.5 (3)
@@ -787,8 +780,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 
-#### Using a fine-tuned model in the playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-a-fine-tuned-model-in-the-playground?u=76281980)
+#### [Using a fine-tuned model in the playground](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-a-fine-tuned-model-in-the-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,7 +820,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-a-fine-tuned-model-in-the-playground?u=76281980&t=86)** You can see that even though we're using this generic system message, I'm getting a very specialized output.
 >
-> **[1:32](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-a-fine-tuned-model-in-the-playground?u=76281980&t=92)** And you also see that even though the output is JSON, it's formatted differently from what the assistant output when we were using GPT-3.5-Turbo.
+> **[1:32](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-a-fine-tuned-model-in-the-playground?u=76281980&t=92)** And you also see that even though the output is [[JSON]], it's formatted differently from what the assistant output when we were using GPT-3.5-Turbo.
 >
 > **[1:42](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-a-fine-tuned-model-in-the-playground?u=76281980&t=102)** That's because in my training data, this layout here on a single line is the format I trained it on.
 >
@@ -844,7 +836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), generic (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** gpt (2), json (1)
 > **Versions:** 3.5 (2)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -852,8 +844,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing epoch-based checkpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-epoch-based-checkpoints?u=76281980)
+#### [Testing epoch-based checkpoints](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-epoch-based-checkpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,7 +864,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-epoch-based-checkpoints?u=76281980&t=37)** An epoch is one cycle of the entire material.
 >
-> **[0:41](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-epoch-based-checkpoints?u=76281980&t=41)** So in this fine tuning process, we had three epochs, and there I have three checkpoints, one after 100, one after 200, and one after 300.
+> **[0:41](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-epoch-based-checkpoints?u=76281980&t=41)** So in this [[Fine Tuning]] process, we had three epochs, and there I have three checkpoints, one after 100, one after 200, and one after 300.
 >
 > **[0:51](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-epoch-based-checkpoints?u=76281980&t=51)** We can use these checkpoints to see what happened during the fine-tuning process.
 >
@@ -893,11 +884,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-epoch-based-checkpoints?u=76281980&t=82)** What you see here is because the training data is fairly basic, I don't need to go through all three epochs to be able to get the results I want.
 >
-> **[1:32](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-epoch-based-checkpoints?u=76281980&t=92)** And that's important because if I'm testing this out to see if I can get the system to do something, and I now know I don't need to run through three epochs, the next time I do this type of training, I'll choose just one epoch and save a lot of time and a lot of tokens in the process.
+> **[1:32](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/testing-epoch-based-checkpoints?u=76281980&t=92)** And that's important because if I'm testing this out to see if I can get the system to do something, and I now know I don't need to run through three epochs, the next time I do this type of training, I'll choose just one epoch and save a lot of time and a lot of [[Tokens]] in the process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Fine Tuning]] (1), next (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[Tokens]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** previous video (1), go back to (1)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -908,12 +899,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fine-tuning through the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-through-the-api?u=76281980)
+#### [Fine-tuning through the API](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-through-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-through-the-api?u=76281980&t=0)** - [Instructor] The fine tuning page on platform.[openai.com](https://openai.com) is actually a user interface to the OpenAI API.
+> **[0:00](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-through-the-api?u=76281980&t=0)** - [Instructor] The [[Fine Tuning]] page on platform.[openai.com](https://openai.com) is actually a user interface to the [[OpenAI API]].
 >
 > **[0:06](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-through-the-api?u=76281980&t=6)** And in this chapter, we'll perform the same operations using that API directly.
 >
@@ -939,7 +929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (4), api (3), [[OpenAI API]] (2), data (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (4), [[OpenAI API]] (2)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [openai.com](https://openai.com) (1)
@@ -948,18 +938,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
 
-#### Uploading training data to the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980)
+#### [Uploading training data to the API](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=0)** - [Instructor] The first step in the fine-tuning process is to generate the training and validation files.
 >
-> **[0:04](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=4)** I already covered this in the previous chapter, and I have the files sitting here in Codespaces under the data folder.
+> **[0:04](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=4)** I already covered this in the previous chapter, and I have the files sitting here in [[Codespaces]] under the data folder.
 >
 > **[0:09](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=9)** If you don't have these files, or you started on this chapter, and didn't watch the previous one, go back to the previous chapter and watch video number two, where I break down how to create these training files.
 >
-> **[0:19](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=19)** Now we're going to upload these files using the OpenAI API, and to do that, you need the OpenAI API key.
+> **[0:19](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=19)** Now we're going to upload these files using the [[OpenAI API]], and to do that, you need the OpenAI API key.
 >
 > **[0:25](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=25)** In the exercise files video at the very top of the course, I explained how to set up this key.
 >
@@ -973,7 +962,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=54)** So I'll go down to this first code block, and I can either hit shift return, or I can click on this play button here to play out the code.
 >
-> **[1:02](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=62)** The first time you do this, you always have to select an environment for the code to run in, so I'm going to select Python.
+> **[1:02](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=62)** The first time you do this, you always have to select an environment for the code to run in, so I'm going to select [[Python (Programming Language)|Python]].
 >
 > **[1:08](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=68)** Then the code runs, and it'll take a little bit of time on this first code block because the Python environment has to be configured and set up.
 >
@@ -989,11 +978,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=93)** Here, I'm using the client files create method to upload the files into the API.
 >
-> **[1:38](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=98)** The same methods are also provided in the OpenAI node library if you prefer JavaScript.
+> **[1:38](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=98)** The same methods are also provided in the OpenAI node library if you prefer [[JavaScript]].
 >
 > **[1:45](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=105)** In this code, I'm opening each of the files, so training and validation, and then using the client files create method to pass the files in.
 >
-> **[1:53](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=113)** And I append this attribute, purpose fine tune, to tell the system I'm going to use these for fine tuning.
+> **[1:53](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=113)** And I append this attribute, purpose fine tune, to tell the system I'm going to use these for [[Fine Tuning]].
 >
 > **[2:01](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/uploading-training-data-to-the-api?u=76281980&t=121)** I'll run this code block, scroll up so you can see the response.
 >
@@ -1007,7 +996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[OpenAI API]] (2), api (2), hit (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[OpenAI API]] (2), [[Python (Programming Language)|Python]] (2), [[Codespaces]] (1), [[JavaScript]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** python (2), node (1)
 > **Cross-References:** previous chapter (2), go back to (1)
@@ -1016,12 +1005,11 @@ created: 2026-05-02
 > **File Paths:** the.env (1)
 > **Tools:** jupyter (1)
 
-#### Creating a fine-tuning job through the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-through-the-api?u=76281980)
+#### [Creating a fine-tuning job through the API](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-through-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-through-the-api?u=76281980&t=0)** - [Instructor] Now we can start the fine tuning job and that's done using the client.find_tuning.jobs.create () This method has two mandatory properties, model and training file and a set of optional properties, validation file, suffix, seed, batch size, learning rate, multiplier, and an epochs and you'll notice these are the same properties you saw in the UI interface that we used inside platform lot [openai.com](https://openai.com).
+> **[0:00](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-through-the-api?u=76281980&t=0)** - [Instructor] Now we can start the [[Fine Tuning]] job and that's done using the client.find_tuning.jobs.create () This method has two mandatory properties, model and training file and a set of optional properties, validation file, suffix, seed, batch size, learning rate, multiplier, and an epochs and you'll notice these are the same properties you saw in the UI interface that we used inside platform lot [openai.com](https://openai.com).
 >
 > **[0:28](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/creating-a-fine-tuning-job-through-the-api?u=76281980&t=28)** Scrolling down, here's a code log with an example of how we can do this.
 >
@@ -1057,7 +1045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (4), api (4), data (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (4)
 > **Env Vars:** api (4)
 > **Code Identifiers:** find_tuning (1), fine_tuning (1)
 > **URLs:** [openai.com](https://openai.com) (2)
@@ -1066,8 +1054,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieving a fine-tuning job and checking the status
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980)
+#### [Retrieving a fine-tuning job and checking the status](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,9 +1064,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980&t=21)** And crucially, you won't know how long it'll take until the process is done.
 >
-> **[0:27](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980&t=27)** So if you are building software over the API that runs a fine tune process and then immediately act on that fine tuned model, you need to go check on the status of your fine tuning job to make sure that the fine tuning job is actually done before you try to go to the next steps.
+> **[0:27](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980&t=27)** So if you are building software over the API that runs a fine tune process and then immediately act on that fine tuned model, you need to go check on the status of your [[Fine Tuning]] job to make sure that the fine tuning job is actually done before you try to go to the next steps.
 >
-> **[0:44](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980&t=44)** And you can do that through the OpenAI API.
+> **[0:44](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980&t=44)** And you can do that through the [[OpenAI API]].
 >
 > **[0:47](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980&t=47)** Checking on the status is done using the client fine-tuning jobs retrieve method.
 >
@@ -1091,7 +1078,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980&t=65)** I'm calling in client, fine tuning jobs retrieve job id, and that job ID is what we got in return when we started the fine tuning process.
 >
-> **[1:16](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980&t=76)** Running this code block, I get a huge object in return with lots of information and I pulled out three crucial pieces here, the job id, the status, and the trained tokens.
+> **[1:16](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980&t=76)** Running this code block, I get a huge object in return with lots of information and I pulled out three crucial pieces here, the job id, the status, and the trained [[Tokens]].
 >
 > **[1:26](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/retrieving-a-fine-tuning-job-and-checking-the-status?u=76281980&t=86)** Now, because the job isn't done yet, all I'm getting now is the status is running and trained tokens none because we haven't finished the process.
 >
@@ -1135,7 +1122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (8), data (5), api (2), [[Tokens]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (8), [[Tokens]] (2), [[OpenAI API]] (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1143,8 +1130,7 @@ created: 2026-05-02
 > **Versions:** 0.21 (1)
 > **Speakers:** - creating (1)
 
-#### Getting the model name once the job is completed
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/getting-the-model-name-once-the-job-is-completed?u=76281980)
+#### [Getting the model name once the job is completed](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/getting-the-model-name-once-the-job-is-completed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1140,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/getting-the-model-name-once-the-job-is-completed?u=76281980&t=7)** Let's see what happens.
 >
-> **[0:08](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/getting-the-model-name-once-the-job-is-completed?u=76281980&t=8)** Now I get the same job ID and then status succeeded and train tokens 34,179.
+> **[0:08](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/getting-the-model-name-once-the-job-is-completed?u=76281980&t=8)** Now I get the same job ID and then status succeeded and train [[Tokens]] 34,179.
 >
 > **[0:14](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/getting-the-model-name-once-the-job-is-completed?u=76281980&t=14)** So this tells me the job is now completed.
 >
@@ -1176,7 +1162,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/getting-the-model-name-once-the-job-is-completed?u=76281980&t=52)** It's this long name here, and I can now use this name either to run requests against the model, to use it as a regular model, or to fine tune a new model on top of the existing new fine tuned model.
 >
-> **[1:05](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/getting-the-model-name-once-the-job-is-completed?u=76281980&t=65)** So I basically refine tune it or improve the fine tuning.
+> **[1:05](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/getting-the-model-name-once-the-job-is-completed?u=76281980&t=65)** So I basically refine tune it or improve the [[Fine Tuning]].
 
 > [!info]- Semantic Content
 >
@@ -1184,18 +1170,17 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the fine-tuned model through the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980)
+#### [Using the fine-tuned model through the API](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=0)** - [Instructor] With the new model name in hand, it's time to test the model.
 >
-> **[0:04](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=4)** And if you've ever used the OpenAI API before, we're now firmly back in familiar territory.
+> **[0:04](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=4)** And if you've ever used the [[OpenAI API]] before, we're now firmly back in familiar territory.
 >
 > **[0:09](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=9)** Here we're going to use the client.chat.completions.create() method, which is the standard create method you use anytime you want to create a chat with OpenAI.
 >
-> **[0:18](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=18)** And the only difference between this request and request you've done before is in place of putting in the regular model name, so ChatGPT-3.5 Turbo, you put in this giant new fine tuned model name.
+> **[0:18](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=18)** And the only difference between this request and request you've done before is in place of putting in the regular model name, so [[ChatGPT]]-3.5 Turbo, you put in this giant new fine tuned model name.
 >
 > **[0:32](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=32)** Everything else stays the same as evidenced down here.
 >
@@ -1211,7 +1196,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=54)** And then, we're passing in a restaurant review.
 >
-> **[0:58](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=58)** I send all this information to client.chat.completions.create, passing in the model name for the fine tuned model, the messages, setting the temperature to zero, and setting the max tokens to 500.
+> **[0:58](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=58)** I send all this information to client.chat.completions.create, passing in the model name for the fine tuned model, the messages, setting the temperature to zero, and setting the max [[Tokens]] to 500.
 >
 > **[1:10](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=70)** I specifically set the temperature to zero because I don't want a lot of variance here because I want consistent output.
 >
@@ -1221,7 +1206,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=86)** Anyway, let's pass this request onto the API and see what happens.
 >
-> **[1:32](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=92)** The request completes and out I get the JSON object I train the data to return to me.
+> **[1:32](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=92)** The request completes and out I get the [[JSON]] object I train the data to return to me.
 >
 > **[1:37](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/using-the-fine-tuned-model-through-the-api?u=76281980&t=97)** Rating 3, Sentiment, Meh Meal.
 >
@@ -1229,14 +1214,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), api (2), [[OpenAI API]] (1), [[ChatGPT]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1), [[ChatGPT]] (1), [[Tokens]] (1), [[JSON]] (1)
 > **Env Vars:** api (3), json (1)
 > **CLI Commands:** make (1)
 > **Versions:** 3.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cancelling a fine-tuning job
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/cancelling-a-fine-tuning-job?u=76281980)
+#### [Cancelling a fine-tuning job](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/cancelling-a-fine-tuning-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1258,7 +1242,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), feature (1)
 > **Env Vars:** api (3)
 > **UI Navigation:** go to (2), select the (1)
 > **Code Identifiers:** fine_tuning (1)
@@ -1270,8 +1253,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional notes on fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980)
+#### [Additional notes on fine-tuning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1285,7 +1267,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980&t=23)** You can also create new fine-tuning jobs, and if you have any fine-tuning jobs that are currently running, you can cancel them.
 >
-> **[0:29](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980&t=29)** Related to that, because you're uploading training data into the OpenAI API, you may need to access that data.
+> **[0:29](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980&t=29)** Related to that, because you're uploading training data into the [[OpenAI API]], you may need to access that data.
 >
 > **[0:35](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980&t=35)** For example, if you're going to use the same validation file for multiple different projects, then you can access that data by going to the Storage tab and selecting whatever file you're working on.
 >
@@ -1303,7 +1285,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980&t=95)** Also, the OpenAI API Reference gives you a more detailed breakdown of everything that's happening at every step, and also gives you additional features that I have not covered.
 >
-> **[1:45](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980&t=105)** And if you're working with JavaScript and Node, it also gives you code example for that, and you even get curl examples for most of the API calls.
+> **[1:45](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980&t=105)** And if you're working with [[JavaScript]] and Node, it also gives you code example for that, and you even get curl examples for most of the API calls.
 >
 > **[1:54](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980&t=114)** On that note, in the exercise files are provided two Jupyter Notebooks to give you not only the tools you need to create the fine-tuning training data, but also how to actually fine-tune a model.
 >
@@ -1323,7 +1305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[OpenAI API]] (3), api (3), [[JavaScript]] (1), node (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (3), [[JavaScript]] (1)
 > **CLI Commands:** find (2), make (1), node (1), curl (1), go build (1)
 > **Env Vars:** api (6)
 > **Documentation:** api reference (2), the documentation (1)

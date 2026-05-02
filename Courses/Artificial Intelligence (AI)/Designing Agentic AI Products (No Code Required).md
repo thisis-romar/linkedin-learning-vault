@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing autonomous agentic products
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980)
+#### [Designing autonomous agentic products](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980&t=16)** Enter agent AI.
 >
-> **[0:18](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980&t=18)** Agent AI automates AI workflows using the reasoning power of large language models.
+> **[0:18](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980&t=18)** Agent AI automates AI workflows using the reasoning power of [[Large Language Models (LLM)|large language models]].
 >
 > **[0:24](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980&t=24)** They can reason, reflect, and do your bidding, but can you build an agent AI product with no code?
 >
@@ -113,11 +112,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980&t=34)** I'm a technology futurist, educator, and author of seven books.
 >
-> **[0:38](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980&t=38)** I love mentoring business leaders to innovate using no-code AI, and I can't wait to bring you into this fabulous world of building autonomous agent AI products.
+> **[0:38](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980&t=38)** I love mentoring business leaders to innovate using no-code AI, and I can't wait to bring you into this fabulous world of building autonomous agent AI [[Microsoft Products|products]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), business (2), power (1), [[Large Language Models (LLM)|Large language models]] (1), product (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - wouldn (1)
 
@@ -126,12 +125,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an autonomous Agent AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980)
+#### [What is an autonomous Agent AI?](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=0)** - [Instructor] Agent AI automates AI using the reasoning power of large language models to run complex tasks by breaking them into simple tasks.
+> **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=0)** - [Instructor] Agent AI automates AI using the reasoning power of [[Large Language Models (LLM)|large language models]] to run complex tasks by breaking them into simple tasks.
 >
 > **[0:12](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=12)** Agent AI has some special characteristics that makes it different from intelligent chatbots.
 >
@@ -141,13 +139,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=34)** We will talk more about this throughout the course.
 >
-> **[0:37](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=37)** This will be helpful for us to design and build agent AI products and systems in this course.
+> **[0:37](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=37)** This will be helpful for us to design and build agent AI [[Microsoft Products|products]] and systems in this course.
 >
 > **[0:44](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=44)** Second, agent AI has memory.
 >
 > **[0:48](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=48)** Why does a chatbot need memory?
 >
-> **[0:51](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=51)** Well, intelligent chatbots, like Gemini or ChatGPT, can remember the context of a chat and continue conversations.
+> **[0:51](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=51)** Well, intelligent chatbots, like [[Gemini]] or [[ChatGPT]], can remember the context of a chat and continue conversations.
 >
 > **[1:01](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980&t=61)** But it is not an agent AI, and it does not have memory.
 >
@@ -181,13 +179,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), power (2), chatbot (2), [[Large Language Models (LLM)|Large language models]] (1), llm (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Products|Products]] (1), [[Gemini]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** llm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why do we need Agent AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/why-do-we-need-agent-ai?u=76281980)
+#### [Why do we need Agent AI?](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/why-do-we-need-agent-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,14 +230,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), chatbot (3), [[Search]] (3), [[Automation]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How does Agent AI work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/how-does-agent-ai-work?u=76281980)
+#### [How does Agent AI work?](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/how-does-agent-ai-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -274,7 +269,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/how-does-agent-ai-work?u=76281980&t=100)** It does not have the ability to execute a computer program, so the agent needs to use tools to do runs to get results for the LLM/ For example, one step in the marketing launch plan for your product could be to come up with a name for the product.
 >
-> **[1:59](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/how-does-agent-ai-work?u=76281980&t=119)** The agent can use a simple web search as the tool to find out if there are similar products out there in the industry and come up with a unique name for your product.
+> **[1:59](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/how-does-agent-ai-work?u=76281980&t=119)** The agent can use a simple web search as the tool to find out if there are similar [[Microsoft Products|products]] out there in the industry and come up with a unique name for your product.
 >
 > **[2:11](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/how-does-agent-ai-work?u=76281980&t=131)** The agent uses processes to iterate and improve its finding.
 >
@@ -302,18 +297,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), product (6), llm (5), prompt (3), power (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** llm (5), gpt (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of Agent AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/types-of-agent-ai?u=76281980)
+#### [Types of Agent AI](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/types-of-agent-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/types-of-agent-ai?u=76281980&t=0)** - [Instructor] As we get ready to build agent AI-based products and solutions, first, let us get an understanding of the many different types of agents that we can build and design.
+> **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/types-of-agent-ai?u=76281980&t=0)** - [Instructor] As we get ready to build agent AI-based [[Microsoft Products|products]] and solutions, first, let us get an understanding of the many different types of agents that we can build and design.
 >
 > **[0:12](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/types-of-agent-ai?u=76281980&t=12)** Can you imagine why we need different kinds of agent AI?
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Microsoft Products|Products]] (1), chatbot (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -388,12 +382,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agent AI ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980)
+#### [Agent AI ecosystem](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=0)** - [Instructor] Now I'm going to show you the Agent AI ecosystem and how to group the various products available in the market.
+> **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=0)** - [Instructor] Now I'm going to show you the Agent AI ecosystem and how to group the various [[Microsoft Products|products]] available in the market.
 >
 > **[0:08](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=8)** This is an important lesson for you to learn to make build-versus-buy decisions, and in designing the tech stack needed for building Agent AI products and solutions.
 >
@@ -405,7 +398,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=34)** Within this, there are open source and closed source LLM.
 >
-> **[0:39](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=39)** You can refer to my course, No-Code Generative AI For Business Professionals on LinkedIn Learning to learn how to pick the right LLM.
+> **[0:39](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=39)** You can refer to my course, No-Code [[Generative AI]] For Business Professionals on [[LinkedIn]] Learning to learn how to pick the right LLM.
 >
 > **[0:48](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=48)** An LLM can chat or generate images or code or video on a prompt.
 >
@@ -425,7 +418,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=109)** What do UX designers do?
 >
-> **[1:51](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=111)** They design web and mobile front ends and the user experience flow.
+> **[1:51](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=111)** They design web and mobile front ends and the [[User Experience (UX)|user experience]] flow.
 >
 > **[1:56](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=116)** They do A/B testing to arrive at the best option to proceed with the right design for a product.
 >
@@ -433,15 +426,15 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=129)** It automates this UX design, A/B testing, user research and tests using agents.
 >
-> **[2:18](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=138)** There are products that make it easy for enterprise to build agents by offering a drag-and-drop interface to a set of predetermined prompts that integrates with the LLM, like Google Vertex or OpenAI or ChatGPT.
+> **[2:18](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=138)** There are products that make it easy for enterprise to build agents by offering a drag-and-drop interface to a set of predetermined prompts that integrates with the LLM, like [[Google]] [[Vertex]] or OpenAI or [[ChatGPT]].
 >
-> **[2:32](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=152)** This is a growing area and one where you can contribute by bringing your business acumen to shape these tools to work for your business use case.
+> **[2:32](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=152)** This is a growing area and one where you can contribute by bringing your [[Business Acumen]] to shape these tools to work for your business use case.
 >
 > **[2:42](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=162)** Data stores is an important component of the Agent AI ecosystem.
 >
 > **[2:47](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=167)** LLMs need access to corporate data.
 >
-> **[2:50](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=170)** The data store can be used to store embeddings in vector databases.
+> **[2:50](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=170)** The data store can be used to store embeddings in [[Vector Databases]].
 >
 > **[2:54](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980&t=174)** This is needed for the LLM to do mission translation or the data store may be a multimodal data store with the ability to handle multiple modalities of data.
 >
@@ -469,14 +462,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Microsoft Products|Products]] (11), llm (10), data (7), business (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), [[Generative AI]] (1), [[LinkedIn]] (1), [[User Experience (UX)|User experience]] (1), [[Google]] (1)
 > **Env Vars:** llm (10), api (1)
 > **Definitions:** is an  (3), is a  (3)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Lead generation marketing applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/leadgen-marketing-applications?u=76281980)
+#### [Lead generation marketing applications](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/leadgen-marketing-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -534,13 +526,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (4), next (2), power (1), management (1)
 > **Cross-References:** later in (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Campaign management marketing applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/campaign-management-marketing-applications?u=76281980)
+#### [Campaign management marketing applications](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/campaign-management-marketing-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -550,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/campaign-management-marketing-applications?u=76281980&t=13)** In any campaign, traditionally, the campaign is set up with a set of outreach to customers using some creatives and copy.
 >
-> **[0:21](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/campaign-management-marketing-applications?u=76281980&t=21)** The customer segment to target for the campaign is selected using traditional AI to build out customer segments, and the next best click is predicted and a channel is selected to send out the campaign.
+> **[0:21](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/campaign-management-marketing-applications?u=76281980&t=21)** The customer segment to target for the campaign is selected using [[Traditional AI]] to build out customer segments, and the next best click is predicted and a channel is selected to send out the campaign.
 >
 > **[0:32](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/campaign-management-marketing-applications?u=76281980&t=32)** The campaign response data is studied to decide on the next step of engagement or a new segment of customers.
 >
@@ -566,7 +556,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/campaign-management-marketing-applications?u=76281980&t=76)** Post a video and write your ideas in the notepad.
 >
-> **[1:19](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/campaign-management-marketing-applications?u=76281980&t=79)** Personalization is about collecting and analyzing user data and using the insights to drive the choice of what selection of products or experiences a user is presented on a website.
+> **[1:19](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/campaign-management-marketing-applications?u=76281980&t=79)** Personalization is about collecting and analyzing user data and using the insights to drive the choice of what selection of [[Microsoft Products|products]] or experiences a user is presented on a website.
 >
 > **[1:31](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/campaign-management-marketing-applications?u=76281980&t=91)** So an agent AI can be tasked to achieve this.
 >
@@ -588,15 +578,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (6), [[Traditional AI]] (2), next (2), power (2)
+> **Frameworks & Libraries:** [[Traditional AI]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** b2b (1), llm (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - campaign (1)
 
-#### Enterprise growth applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-growth-applications?u=76281980)
+#### [Enterprise growth applications](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-growth-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,7 +611,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-growth-applications?u=76281980&t=52)** They analyze customer data to develop insights to see where they can generate incremental revenues, where they can reduce cost, example customer churn, and where they can innovate.
 >
-> **[1:04](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-growth-applications?u=76281980&t=64)** This innovation can be upsell of new products to the same customers or new innovative products targeting new customer segments.
+> **[1:04](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-growth-applications?u=76281980&t=64)** This innovation can be upsell of new [[Microsoft Products|products]] to the same customers or new innovative products targeting new customer segments.
 >
 > **[1:13](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-growth-applications?u=76281980&t=73)** Now, can you imagine how you can build agent AI to help drive growth?
 >
@@ -648,14 +637,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (4), llm (3), power (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** llm (3)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enterprise customer experience applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-customer-experience-applications?u=76281980)
+#### [Enterprise customer experience applications](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/enterprise-customer-experience-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -683,7 +671,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), chatbot (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - agent (1)
 
@@ -692,20 +679,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is reasoning in LLM?
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980)
+#### [What is reasoning in LLM?](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980&t=0)** - [Narrator] Remember the definition of agent AI?
 >
-> **[0:03](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980&t=3)** It is automation of AI using the reasoning power of large language models.
+> **[0:03](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980&t=3)** It is automation of AI using the reasoning power of [[Large Language Models (LLM)|large language models]].
 >
 > **[0:08](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980&t=8)** What does reasoning in LLMs mean? Let's find out.
 >
 > **[0:14](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980&t=14)** LLMs are summarizing texts and writing marketing copy for us.
 >
-> **[0:18](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980&t=18)** They chat with us for customer support or legion.
+> **[0:18](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980&t=18)** They chat with us for [[Customer Support]] or legion.
 >
 > **[0:22](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980&t=22)** Are these LLMs reasoning?
 >
@@ -741,18 +727,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (8), ai (4), llm (4), [[Automation]] (1), power (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Customer Support]] (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Agent AI reasoning approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-reasoning-approaches?u=76281980)
+#### [Agent AI reasoning approaches](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-reasoning-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-reasoning-approaches?u=76281980&t=0)** - [Instructor] We have learned that the reasoning power of large language models is the superpower of agent AI.
+> **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-reasoning-approaches?u=76281980&t=0)** - [Instructor] We have learned that the reasoning power of [[Large Language Models (LLM)|large language models]] is the superpower of agent AI.
 >
 > **[0:07](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-reasoning-approaches?u=76281980&t=7)** This is an evolving field.
 >
@@ -770,7 +755,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-reasoning-approaches?u=76281980&t=45)** Another prompt-based approach is to do a chain-of-thought prompting at every step of the step-by-step action plan by the agent AI.
 >
-> **[0:55](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-reasoning-approaches?u=76281980&t=55)** Another approach is called ReAct.
+> **[0:55](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-reasoning-approaches?u=76281980&t=55)** Another approach is called [[React.js|ReAct]].
 >
 > **[0:57](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-reasoning-approaches?u=76281980&t=57)** ReAct approach means that the agent AI reasons and updates its context, and then makes a plan, and then takes action to solve the problem step by step.
 >
@@ -782,13 +767,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (4), llm (2), [[React.js|React]] (2), power (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is an  (1), is a  (1), is called (1), means that (1)
 > **Env Vars:** llm (2)
 > **Speakers:** - [instructor] (1)
 
-#### Building an Agent AI with AgentGPT for user research
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/building-an-agent-ai-with-agentgpt-for-user-research?u=76281980)
+#### [Building an Agent AI with AgentGPT for user research](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/building-an-agent-ai-with-agentgpt-for-user-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -812,7 +796,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/building-an-agent-ai-with-agentgpt-for-user-research?u=76281980&t=45)** See it comes with the name.
 >
-> **[0:48](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/building-an-agent-ai-with-agentgpt-for-user-research?u=76281980&t=48)** I am going to change this to Agent AI for LinkedIn Course.
+> **[0:48](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/building-an-agent-ai-with-agentgpt-for-user-research?u=76281980&t=48)** I am going to change this to Agent AI for [[LinkedIn]] Course.
 >
 > **[0:58](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/building-an-agent-ai-with-agentgpt-for-user-research?u=76281980&t=58)** You can call it whatever you want.
 >
@@ -850,7 +834,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/building-an-agent-ai-with-agentgpt-for-user-research?u=76281980&t=124)** Because it talks to an LLM on the backend, it is going to cause us token cost.
 >
-> **[2:11](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/building-an-agent-ai-with-agentgpt-for-user-research?u=76281980&t=131)** So if you want to learn about token cost and LLMs, you can refer to my other LinkedIn Learning course called "No-Code Generative AI for the Business Professional."
+> **[2:11](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/building-an-agent-ai-with-agentgpt-for-user-research?u=76281980&t=131)** So if you want to learn about token cost and LLMs, you can refer to my other LinkedIn Learning course called "No-Code [[Generative AI]] for the Business Professional."
 >
 > **[2:21](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/building-an-agent-ai-with-agentgpt-for-user-research?u=76281980&t=141)** So remember to stop the agent from running because it's going to cost you money.
 >
@@ -860,7 +844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (2), llm (2), next (1), web (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Generative AI]] (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** we discussed (1), in the last (1)
 > **URLs:** [reworkd.ai](https://reworkd.ai) (1)
@@ -869,8 +853,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Build an Agent AI for user research
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/challenge-build-an-agent-ai-for-user-research?u=76281980)
+#### [Challenge: Build an Agent AI for user research](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/challenge-build-an-agent-ai-for-user-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,7 +875,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/challenge-build-an-agent-ai-for-user-research?u=76281980&t=60)** So create a comprehensive report of the, and you give the name of a company and you say company, and you run this and you run your own AgentGPT.
 >
-> **[1:14](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/challenge-build-an-agent-ai-for-user-research?u=76281980&t=74)** It'll use tools, it'll break the task into multiple sub-tasks, and you can watch it run and then remember to stop it because it will cost tokens if you keep running it continuously.
+> **[1:14](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/challenge-build-an-agent-ai-for-user-research?u=76281980&t=74)** It'll use tools, it'll break the task into multiple sub-tasks, and you can watch it run and then remember to stop it because it will cost [[Tokens]] if you keep running it continuously.
 >
 > **[1:28](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/challenge-build-an-agent-ai-for-user-research?u=76281980&t=88)** Add a comment on whether you found something surprising about the company you're researching.
 >
@@ -904,7 +887,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), ai (1), llm (1), [[Tokens]] (1), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -912,8 +895,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Build an Agent AI for user research
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-build-an-agent-ai-for-user-research?u=76281980)
+#### [Solution: Build an Agent AI for user research](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-build-an-agent-ai-for-user-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-build-an-agent-ai-for-user-research?u=76281980&t=19)** It has a big prompt to do something else and I am not interested in that.
 >
-> **[0:27](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-build-an-agent-ai-for-user-research?u=76281980&t=27)** I am going to say create a comprehensive report of the, and I've chosen LinkedIn as the company and you mention company, and I do a simple run.
+> **[0:27](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-build-an-agent-ai-for-user-research?u=76281980&t=27)** I am going to say create a comprehensive report of the, and I've chosen [[LinkedIn]] as the company and you mention company, and I do a simple run.
 >
 > **[0:38](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-build-an-agent-ai-for-user-research?u=76281980&t=38)** So we've selected ResearchGPT.
 >
@@ -937,7 +919,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-build-an-agent-ai-for-user-research?u=76281980&t=68)** Beautiful.
 >
-> **[1:10](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-build-an-agent-ai-for-user-research?u=76281980&t=70)** And remember this is talking to an LLM in the backend, so it is going to cost us tokens.
+> **[1:10](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-build-an-agent-ai-for-user-research?u=76281980&t=70)** And remember this is talking to an LLM in the backend, so it is going to cost us [[Tokens]].
 >
 > **[1:16](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-build-an-agent-ai-for-user-research?u=76281980&t=76)** So I don't want to keep this running repeatedly.
 >
@@ -949,7 +931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[LinkedIn]] (1), llm (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Tokens]] (1)
 > **Env Vars:** llm (1), gpt (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -960,8 +942,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Job roles in designing agentic products
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980)
+#### [Job roles in designing agentic products](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,7 +956,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=28)** Developers design and train the Agent AI system.
 >
-> **[0:32](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=32)** Product managers build Agent AI products.
+> **[0:32](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=32)** Product managers build Agent AI [[Microsoft Products|products]].
 >
 > **[0:36](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=36)** Customer success teams deploy agent to production, and provide the customer with access to agents.
 >
@@ -985,7 +966,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=56)** Data engineers get the tools ready, especially they get the external data sources ready for the agent to access.
 >
-> **[1:03](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=63)** UX designers design the human computer interface for products, and uses Agent AI to automate these interfaces by applying prompt engineering and UX skills to agent.
+> **[1:03](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=63)** UX designers design the human computer interface for products, and uses Agent AI to automate these interfaces by applying [[Prompt Engineering]] and UX skills to agent.
 >
 > **[1:16](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=76)** We will learn more about building agents where you can see the connection between existing UX field and automating human decisions with Agent AI systems.
 >
@@ -993,17 +974,16 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=92)** If you do not see a direct job title, don't worry about it.
 >
-> **[1:35](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=95)** As we go through the rest of the lessons and build Agent AI exercises, you will be able to see how your skills and experience translates to building Agent AI systems.
+> **[1:35](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980&t=95)** As we go through the [[Representational State Transfer (REST)|rest]] of the lessons and build Agent AI exercises, you will be able to see how your skills and experience translates to building Agent AI systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (5), ux (3), product (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Prompt Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Agentic design frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agentic-design-frameworks?u=76281980)
+#### [Agentic design frameworks](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agentic-design-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1037,13 +1017,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), llm (3), web (1), [[Search]] (1), data (1)
 > **Env Vars:** llm (3)
 > **Definitions:** is called (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Design an Agent AI to create a marketing plan with Promptly
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/design-an-agentai-to-create-a-marketing-plan-with-promptly?u=76281980)
+#### [Design an Agent AI to create a marketing plan with Promptly](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/design-an-agentai-to-create-a-marketing-plan-with-promptly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,7 +1053,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/design-an-agentai-to-create-a-marketing-plan-with-promptly?u=76281980&t=86)** Okay, so I'm going to say draw a marketing funnel.
 >
-> **[1:34](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/design-an-agentai-to-create-a-marketing-plan-with-promptly?u=76281980&t=94)** It is going to use DALL-E 2 as its model.
+> **[1:34](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/design-an-agentai-to-create-a-marketing-plan-with-promptly?u=76281980&t=94)** It is going to use [[DALL-E]] 2 as its model.
 >
 > **[1:38](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/design-an-agentai-to-create-a-marketing-plan-with-promptly?u=76281980&t=98)** I don't want such a huge image, so I'm just going to use a small one.
 >
@@ -1145,7 +1123,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/design-an-agentai-to-create-a-marketing-plan-with-promptly?u=76281980&t=272)** But there's an easier option because I want to show you a no-code option, that is what we are going to see a demo here because Promptly has provided a lot of templates that we can use readily to build this using no code.
 >
-> **[4:46](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/design-an-agentai-to-create-a-marketing-plan-with-promptly?u=76281980&t=286)** So, I'm going to choose Marketing, and let's create a hypothetical company, a dentist office, a new dentist office, and they want to build a marketing funnel.
+> **[4:46](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/design-an-agentai-to-create-a-marketing-plan-with-promptly?u=76281980&t=286)** So, I'm going to choose Marketing, and let's create a hypothetical company, a dentist [[Microsoft Office|office]], a new dentist office, and they want to build a marketing funnel.
 >
 > **[4:58](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/design-an-agentai-to-create-a-marketing-plan-with-promptly?u=76281980&t=298)** So, I'm going to ask this agent saying craft, not craft, build me a marketing funnel for a new dentist office.
 >
@@ -1187,7 +1165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (9), data (9), [[Microsoft Office|Office]] (6), ai (4), prompt (4)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[DALL-E]] (1)
 > **Env Vars:** llm (9), api (3), dall (1), pdf (1), url (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
 > **CLI Commands:** make (4), find (1)
@@ -1196,8 +1174,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), drag and drop (1)
 > **Cross-References:** coming up (1)
 
-#### Challenge: Building an Agent AI with Promptly
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/challenge-building-an-agentai-with-promptly?u=76281980)
+#### [Challenge: Building an Agent AI with Promptly](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/challenge-building-an-agentai-with-promptly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1231,7 +1208,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), ai (3), product (1), next (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **URLs:** [trypromptly.com](https://trypromptly.com) (1)
@@ -1240,8 +1216,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Building an Agent AI with Promptly
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-building-an-agentai-with-promptly?u=76281980)
+#### [Solution: Building an Agent AI with Promptly](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-building-an-agentai-with-promptly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1315,7 +1290,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-building-an-agentai-with-promptly?u=76281980&t=138)** I'm going to say, can you make this downloadable,
 >
-> **[2:28](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-building-an-agentai-with-promptly?u=76281980&t=148)** downloadable as a Word document for me?
+> **[2:28](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-building-an-agentai-with-promptly?u=76281980&t=148)** downloadable as a [[Microsoft Word|Word]] document for me?
 >
 > **[2:36](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/solution-building-an-agentai-with-promptly?u=76281980&t=156)** That is our ultimate goal, right?
 >
@@ -1337,7 +1312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), ai (2), data (2), product (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (10)
 > **CLI Commands:** make (1)
 > **URLs:** [trypromptly.com](https://trypromptly.com) (1)
@@ -1350,8 +1325,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The cost of agentic AI applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980)
+#### [The cost of agentic AI applications](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,25 +1343,24 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=47)** Many are hosted solutions that charge monthly fees.
 >
-> **[0:52](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=52)** The core of [Agent.ai](https://Agent.ai) is LLM, and LLM costs, token costs, for compute, fine tuning, and for running inference in production.
+> **[0:52](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=52)** The core of [Agent.ai](https://Agent.ai) is LLM, and LLM costs, token costs, for compute, [[Fine Tuning]], and for running inference in production.
 >
-> **[1:03](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=63)** Refer to my No Code Gen AI for Business Professionals course on LinkedIn Learning to understand token costs of running LLMs.
+> **[1:03](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=63)** Refer to my No Code Gen [[AI for Business]] Professionals course on [[LinkedIn]] Learning to understand token costs of running LLMs.
 >
 > **[1:13](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=73)** The final piece is to understand the many API costs for the tools needed.
 >
 > **[1:18](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=78)** Even if one API fails, the agent will get confused or offer incorrect decisions, which can be very expensive.
 >
-> **[1:28](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=88)** So now we have a clear idea of the cost of consultants, LLM tokens, and hosting cost of the various products, we can choose our products and resources smartly and get to the ROI for our [Agent.ai](https://Agent.ai) products and systems.
+> **[1:28](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980&t=88)** So now we have a clear idea of the cost of consultants, LLM [[Tokens]], and hosting cost of the various [[Microsoft Products|products]], we can choose our products and resources smartly and get to the ROI for our [Agent.ai](https://Agent.ai) products and systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), llm (3), [[Microsoft Products|Products]] (3), business (2), api (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Fine Tuning]] (1), [[AI for Business]] (1), [[LinkedIn]] (1), [[Tokens]] (1)
 > **Env Vars:** llm (3), roi (2), api (2)
 > **URLs:** [agent.ai](https://agent.ai) (4)
 > **Speakers:** - [instructor] (1)
 
-#### AI hallucinations and agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-hallucinations-and-agents?u=76281980)
+#### [AI hallucinations and agents](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-hallucinations-and-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,14 +1384,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), ai (3), business (2), chatbot (1)
 > **Env Vars:** llm (5)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI ethics: Ecological consideration
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-ecological-consideration?u=76281980)
+#### [AI ethics: Ecological consideration](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-ecological-consideration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1450,7 +1421,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-ecological-consideration?u=76281980&t=87)** A business that might disregard fines that can accumulate if they ignore town rules and ordinances?
 >
-> **[1:33](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-ecological-consideration?u=76281980&t=93)** How can we still use the same automated agent, but consider the ethics around it?
+> **[1:33](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-ecological-consideration?u=76281980&t=93)** How can we still use the same automated agent, but consider the [[Ethics]] around it?
 >
 > **[1:39](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-ecological-consideration?u=76281980&t=99)** Well, another way you as a business owner can utilize the same agent AI is by adding a weather data tool to the sprinkler agent and it can check for droughts.
 >
@@ -1462,14 +1433,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), ai (4), [[Automation]] (1), parallel (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI ethics: Business risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-business-risks?u=76281980)
+#### [AI ethics: Business risks](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-business-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1479,7 +1449,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-business-risks?u=76281980&t=13)** Now, that doesn't have to be a doom or gloom situation.
 >
-> **[0:17](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-business-risks?u=76281980&t=17)** What matters is as someone building products using agent AI, you're dotting your I's and crossing your T's so preventable mistakes don't happen, mistakes that cost money.
+> **[0:17](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-business-risks?u=76281980&t=17)** What matters is as someone building [[Microsoft Products|products]] using agent AI, you're dotting your I's and crossing your T's so preventable mistakes don't happen, mistakes that cost money.
 >
 > **[0:28](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-business-risks?u=76281980&t=28)** Earlier, we spoke about goal-based agents.
 >
@@ -1513,18 +1483,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), chatbot (3), [[Automation]] (2), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - mitigating (1)
 
-#### AI ethics: Bringing human ethics to AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980)
+#### [AI ethics: Bringing human ethics to AI](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=0)** - [Instructor] Artificial intelligence has changed the world through automating tasks.
+> **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] has changed the world through automating tasks.
 >
 > **[0:05](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=5)** From healthcare to day-to-day connection, we have all benefited from many of the agents we've spoken about so far.
 >
@@ -1532,7 +1501,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=19)** What do we mean when we say ethical considerations?
 >
-> **[0:22](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=22)** "Well, what does ethics have to do with AI?" you may ask.
+> **[0:22](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=22)** "Well, what does [[Ethics]] have to do with AI?" you may ask.
 >
 > **[0:26](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=26)** First, let's talk about ethics.
 >
@@ -1542,13 +1511,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=38)** AI ethics is a set of moral principles that we bake into AI to do the right thing that is aligned with human ethics.
 >
-> **[0:48](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=48)** When it comes to generative AI and LLMs, it can be easy to blame it on AI when things go wrong.
+> **[0:48](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=48)** When it comes to [[Generative AI]] and LLMs, it can be easy to blame it on AI when things go wrong.
 >
 > **[0:55](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=55)** But we cannot rely on artificial intelligence, with all its capabilities, to decide what is right and what is wrong for human use.
 >
-> **[1:05](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=65)** That is still up to us as a society to make sure this tool is working to suit our needs to better the world with it, whether it is separating our plastic and paper from the rest of our trash, or stopping at a stop sign, even when pedestrians are not around, for the safety of society.
+> **[1:05](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=65)** That is still up to us as a society to make sure this tool is working to suit our needs to better the world with it, whether it is separating our plastic and paper from the [[Representational State Transfer (REST)|rest]] of our trash, or stopping at a stop sign, even when pedestrians are not around, for the safety of society.
 >
-> **[1:26](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=86)** Can you think of ethical decisions you make daily that you can incorporate into building products using AI?
+> **[1:26](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=86)** Can you think of ethical decisions you make daily that you can incorporate into building [[Microsoft Products|products]] using AI?
 >
 > **[1:33](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-bringing-human-ethics-to-ai?u=76281980&t=93)** Stop this video and write your thoughts in a notepad.
 >
@@ -1568,21 +1537,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Ethics]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Products|Products]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Microsoft Products|Products]] (2), [[Generative AI]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI ethics: Data privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980)
+#### [AI ethics: Data privacy](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980&t=0)** - We've spoken a lot about different ways ethical considerations come into play in the world of Agent AI.
 >
-> **[0:06](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980&t=6)** As we continue to train LLMs with dataset, the more susceptible we become to data privacy issues.
+> **[0:06](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980&t=6)** As we continue to train LLMs with dataset, the more susceptible we become to [[Data Privacy]] issues.
 >
-> **[0:12](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980&t=12)** Data privacy and regulations are in the realm of ethics, that not only have huge impacts on the way we automate, but if ignored, can become a major issue for those of us building Agent AI.
+> **[0:12](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980&t=12)** Data privacy and regulations are in the realm of [[Ethics]], that not only have huge impacts on the way we automate, but if ignored, can become a major issue for those of us building Agent AI.
 >
 > **[0:24](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980&t=24)** We never want to lose sight of what's important on the path to making lives easier and efficient.
 >
@@ -1594,7 +1562,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980&t=45)** How can data be ethical?
 >
-> **[0:47](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980&t=47)** Simply by respecting the privacy of our patients.
+> **[0:47](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980&t=47)** Simply by respecting the [[Privacy]] of our patients.
 >
 > **[0:50](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/ai-ethics-data-privacy?u=76281980&t=50)** When training our LLMs with something as sensitive as patient data, this is an ethical dilemma waiting to happen.
 >
@@ -1612,7 +1580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (6), [[Privacy]] (2), [[Privacy Issues]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (2), [[Ethics]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
@@ -1622,20 +1590,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=0)** - [Instructor] Congratulations.
 >
-> **[0:02](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=2)** Now that you've finished this course, you can build agent AI products with generative AI with no code.
+> **[0:02](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=2)** Now that you've finished this course, you can build agent AI [[Microsoft Products|products]] with [[Generative AI]] with no code.
 >
 > **[0:09](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=9)** You have learned what is agent AI, a framework to design agent AI products, and even deployed an autonomous agent AI for industry research, all with no code.
 >
 > **[0:19](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=19)** I'm happy to help you continue your learning journey.
 >
-> **[0:23](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=23)** Follow me on LinkedIn at my student community, Business School of AI, where I share lots of learning resources and invite you to my monthly live stream where I will answer your questions to make Gen AI work for you in your job and career.
+> **[0:23](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=23)** Follow me on [[LinkedIn]] at my student community, Business School of AI, where I share lots of learning resources and invite you to my monthly live stream where I will answer your questions to make Gen AI work for you in your job and career.
 >
 > **[0:41](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=41)** Join #weeklywed, a global speaker series for my student panels every Wednesday at bit.lee/weeklywebregistration.
 >
@@ -1647,7 +1614,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=74)** You can find my book on generative AI, a primer for product and business managers.
 >
-> **[1:20](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=80)** As you continue your AI journey, remember, the best part is that you have the superpower of your business acumen to make AI and gen AI work for you and your customers.
+> **[1:20](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=80)** As you continue your AI journey, remember, the best part is that you have the superpower of your [[Business Acumen]] to make AI and gen AI work for you and your customers.
 >
 > **[1:33](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980&t=93)** I'm honored to be part of your AI journey.
 >
@@ -1655,7 +1622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), business (3), [[Microsoft Products|Products]] (2), [[Generative AI]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Generative AI]] (2), [[LinkedIn]] (2), [[Business Acumen]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 

@@ -125,12 +125,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Break into system administration with the Red Hat EX200 certification
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/break-into-system-administration-with-the-red-hat-ex200-certification?u=76281980)
+#### [Break into system administration with the Red Hat EX200 certification](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/break-into-system-administration-with-the-red-hat-ex200-certification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/break-into-system-administration-with-the-red-hat-ex200-certification?u=76281980&t=0)** - [Grant] Red Hat Certifications carry a lot of weight in the industry and add to your competitive advantage as a Linux system administrator.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/break-into-system-administration-with-the-red-hat-ex200-certification?u=76281980&t=0)** - [Grant] Red Hat Certifications carry a lot of weight in the industry and add to your competitive advantage as a [[Linux]] system administrator.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/break-into-system-administration-with-the-red-hat-ex200-certification?u=76281980&t=7)** You can advance beyond other administrators in the field by leveling up your career with industry-recognized, respected certifications such as Red Hat's updated RHCSA Version 9 Certification.
 >
@@ -144,15 +143,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), career (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** rhcsa (3), rhce (1)
 > **Versions:** version 9 (2)
 > **Analogies:** such as (2)
 > **Prerequisites:** you'll need (1), prerequisite (1)
 > **Speakers:** - [grant] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-you-should-know?u=76281980&t=7)** Specifically, this course covers the RHCSA EX200v9 exam.
 >
-> **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-you-should-know?u=76281980&t=13)** This course is designed for someone who already possesses a Linux certification, such as CompTIA's Linux+, LPIC Level 1, or Linux Foundation Certified SysAdmin.
+> **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-you-should-know?u=76281980&t=13)** This course is designed for someone who already possesses a [[Linux]] certification, such as CompTIA's Linux+, LPIC Level 1, or Linux Foundation Certified SysAdmin.
 >
 > **[0:23](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-you-should-know?u=76281980&t=23)** This course will also be useful for Linux administrators with one year of experience or more looking to become certified.
 >
@@ -194,7 +192,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-you-should-know?u=76281980&t=119)** In this course, you'll be installing Enterprise Linux on a physical machine at least to start with.
 >
-> **[2:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-you-should-know?u=76281980&t=123)** Then we'll install a Cavium hypervisor and create multiple guest virtual machines, also running Enterprise Linux.
+> **[2:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-you-should-know?u=76281980&t=123)** Then we'll install a Cavium hypervisor and create multiple guest [[Virtual Machines]], also running Enterprise Linux.
 >
 > **[2:10](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-you-should-know?u=76281980&t=130)** For chapter one, it's ideal to have Enterprise Linux installed in a physical machine.
 >
@@ -228,7 +226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (28), [[Virtualization]] (3), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Linux]] (28), [[Virtual Machines]] (1)
 > **Env Vars:** rhcsa (5), amd (3), gui (2), lpic (1), cpu (1)
 > **Prerequisites:** install (4), you'll need (2)
 > **Definitions:** known as (1), means that (1), is an  (1)
@@ -236,16 +234,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### About Red Hat certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980)
+#### [About Red Hat certifications](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980&t=0)** - [Narrator] To learn a bit about Red Hat certifications, lets browse to their certification site and take a look at the list.
 >
-> **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980&t=7)** Red Hat has a large offering of Linux certifications, including the famous Red Hat certified engineer as well as specialized hire in certifications covering many topics, such as cloud computing and performance tuning.
+> **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980&t=7)** Red Hat has a large offering of [[Linux]] certifications, including the famous Red Hat certified engineer as well as specialized hire in certifications covering many topics, such as [[Cloud Computing]] and [[Performance Tuning]].
 >
-> **[0:19](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980&t=19)** The base certification, however, is the RHCSA, which tests a user's knowledge of Red Hat system administration.
+> **[0:19](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980&t=19)** The base certification, however, is the RHCSA, which tests a user's knowledge of Red Hat [[System Administration]].
 >
 > **[0:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980&t=26)** This course is the first half of a two-part series that is a fast track to the RHCSA certification.
 >
@@ -259,7 +256,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980&t=69)** We will operate running systems, including interrupting the boot process in order to gain access to a system which can be useful for troubleshooting.
 >
-> **[1:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980&t=76)** We'll manage processes, read log files and journals, access a virtual machine's console, and start and stop virtual machines.
+> **[1:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980&t=76)** We'll manage processes, read log files and journals, access a virtual machine's console, and start and stop [[Virtual Machines]].
 >
 > **[1:24](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-red-hat-certifications?u=76281980&t=84)** The updated RHCSA version nine includes shell scripting knowledge as well, so we'll create simple shell scripts, conditionally execute code, use looping constructs to process, file, and command input, process script inputs, and process the output of shell commands within a script.
 >
@@ -267,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), cloud (1), [[Performance Tuning]] (1), [[System Administration]] (1), management (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Cloud Computing]] (1), [[Performance Tuning]] (1), [[System Administration]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** rhcsa (4)
 > **Prerequisites:** configure (2), install (2)
 > **CLI Commands:** grep (1)
@@ -276,12 +273,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### The State of Enterprise Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980)
+#### [The State of Enterprise Linux](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=0)** - [Presenter] There are various operating systems that fit into the classification of Enterprise Linux.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=0)** - [Presenter] There are various operating systems that fit into the classification of Enterprise [[Linux]].
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=4)** It may be advantageous to understand how Enterprise Linux is created to bring clarity to recent changes in the available choices.
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=21)** A fedora is a low soft felt hat with a curl, which may make sense as the Fedora project was created by the Red Hat Corporation.
 >
-> **[0:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=29)** In 2003, Red Hat chose to split Red Hat Linux into Red Hat Linux Advanced Server for the commercial market, and Fedora core for individuals.
+> **[0:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=29)** In 2003, Red Hat chose to split [[Red Hat Linux]] into Red Hat Linux Advanced Server for the commercial market, and Fedora core for individuals.
 >
 > **[0:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=38)** Later releases were renamed Red Hat Enterprise Linux and Fedora.
 >
@@ -319,7 +315,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=109)** CentOS makes an excellent foundation for learning Enterprise Linux because it is nearly identical to Red Hat Enterprise Linux, it is free but it's provided without support.
 >
-> **[1:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=119)** I've used CentOS as a basis for nearly all of my courses in the LinkedIn Learning Library.
+> **[1:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=119)** I've used CentOS as a basis for nearly all of my courses in the [[LinkedIn]] Learning Library.
 >
 > **[2:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/the-state-of-enterprise-linux?u=76281980&t=124)** It is common to have Red Hat Enterprise Linux servers on the frontline backed by paid Red Hat Tech Support, and many CentOS servers in the background managed by in-house personnel.
 >
@@ -381,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (31), [[Red Hat Linux]] (2), next (2), product (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Linux]] (31), [[Red Hat Linux]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), curl (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for instance (1), similar to (1)
@@ -394,14 +390,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a bootable Enterprise Linux 9 live USB drive on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980)
+#### [Create a bootable Enterprise Linux 9 live USB drive on Windows](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980&t=0)** - [Instructor] To install Enterprise Linux from the installation DVD ISO image, you'll need to create a bootable USB drive.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980&t=0)** - [Instructor] To install Enterprise [[Linux]] from the installation DVD ISO image, you'll need to create a bootable USB drive.
 >
-> **[0:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980&t=6)** I'll be using Windows for this exercise, but just know that you can create a bootable USB drive on both macOS and Linux as well.
+> **[0:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980&t=6)** I'll be using [[Windows]] for this exercise, but just know that you can create a bootable USB drive on both macOS and Linux as well.
 >
 > **[0:12](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980&t=12)** First, download an Enterprise Linux ISO image.
 >
@@ -449,7 +444,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980&t=131)** At this point, check to see if the Enterprise Linux DVD ISO image has finished downloading.
 >
-> **[2:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980&t=135)** I will use movie magic to zip past the rest of the downloading process.
+> **[2:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980&t=135)** I will use movie magic to zip past the [[Representational State Transfer (REST)|rest]] of the downloading process.
 >
 > **[2:19](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980&t=139)** If your ISO image download has not completed, feel free to pause the video until it has.
 >
@@ -473,7 +468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (7), [[Windows]] (4), next (2), web (1), application (1)
+> **Frameworks & Libraries:** [[Linux]] (7), [[Windows]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** iso (10), dvd (6), usb (6), cpu (1)
 > **UI Navigation:** click on (10), scroll down (2), go to (1), double-click (1)
 > **Prerequisites:** install (6), you'll need (1)
@@ -482,12 +477,11 @@ created: 2026-05-02
 > **URLs:** [rockylinux.org](https://rockylinux.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install Enterprise Linux on a physical machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-enterprise-linux-on-a-physical-machine?u=76281980)
+#### [Install Enterprise Linux on a physical machine](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-enterprise-linux-on-a-physical-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-enterprise-linux-on-a-physical-machine?u=76281980&t=0)** - To install Enterprise Linux on a physical machine from a USB thumb drive, plug it into the machine you want to install on and boot from it.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-enterprise-linux-on-a-physical-machine?u=76281980&t=0)** - To install Enterprise [[Linux]] on a physical machine from a USB thumb drive, plug it into the machine you want to install on and boot from it.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-enterprise-linux-on-a-physical-machine?u=76281980&t=7)** You may have to go into the bios to choose to boot off the USB drive.
 >
@@ -559,7 +553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), next (3), hit (1)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **Env Vars:** usb (4), gui (2), sdu (1), gnome (1)
 > **UI Navigation:** click on (6)
 > **Prerequisites:** install (5), setup (1)
@@ -568,8 +562,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Warnings:** note that (1)
 
-#### Virtualization on Enterprise Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980)
+#### [Virtualization on Enterprise Linux](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +580,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=38)** Usually though computers do not use all of their disk space.
 >
-> **[0:41](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=41)** Let's say that two of our VMs are using 10 gigabytes of disk space each and the rest are using two gigabytes each.
+> **[0:41](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=41)** Let's say that two of our VMs are using 10 gigabytes of disk space each and the [[Representational State Transfer (REST)|rest]] are using two gigabytes each.
 >
 > **[0:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=46)** Even though the VMs have 100 gigabytes of space available, you would only need to allocate 36 gigabytes of disk space on the disk server.
 >
@@ -609,7 +602,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=91)** The KVM hypervisor is managed with a Libvirt API and tools built for it, such as virt manager, a graphical tool, and virtsh, a command line tool.
 >
-> **[1:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=100)** Libvirt in turn communicates with the KVM hypervisor, which runs on the Linux host OS.
+> **[1:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=100)** Libvirt in turn communicates with the KVM hypervisor, which runs on the [[Linux]] host OS.
 >
 > **[1:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=106)** Libvirt is used to manage the hypervisor and its resources such as virtual CPUs, VM memory, virtual storage, and virtual networking.
 >
@@ -617,7 +610,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=118)** And KVMs are multiple different types of devices, full virtualized, paravirtualized, emulated, and shared.
 >
-> **[2:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=126)** With hypervisors, the CPU is full virtualized with hardware, meaning the instructions inside the guest are passed through to the physical CPU with very little alteration.
+> **[2:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=126)** With hypervisors, the CPU is full virtualized with [[Hardware]], meaning the instructions inside the guest are passed through to the physical CPU with very little alteration.
 >
 > **[2:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/virtualization-on-enterprise-linux?u=76281980&t=135)** This means a CPU that the guest VM sees will be the same type as a CPU in the physical machine.
 >
@@ -705,7 +698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (8), [[Virtualization]] (7), express (3), [[Linux]] (2), management (2)
+> **Frameworks & Libraries:** [[Hardware]] (8), [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** kvm (13), usb (8), cpu (7), pci (7), qemu (4)
 > **Analogies:** for instance (4), such as (4), for example (1)
 > **Tools:** command line (3)
@@ -713,12 +706,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare the host for virtualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/prepare-the-host-for-virtualization?u=76281980)
+#### [Prepare the host for virtualization](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/prepare-the-host-for-virtualization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/prepare-the-host-for-virtualization?u=76281980&t=0)** - [Instructor] In order to prepare your enterprise Linux operating system for virtualization, you need to install some additional software.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/prepare-the-host-for-virtualization?u=76281980&t=0)** - [Instructor] In order to prepare your enterprise [[Linux]] operating system for virtualization, you need to install some additional software.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/prepare-the-host-for-virtualization?u=76281980&t=6)** In a terminal, type in sudo dnf install qemu-kvm libvirt virt-install virt-viewer virt-manager,
 >
@@ -754,7 +746,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/prepare-the-host-for-virtualization?u=76281980&t=107)** Now let's talk about the packages we installed.
 >
-> **[1:50](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/prepare-the-host-for-virtualization?u=76281980&t=110)** Qemu-kvm provides the user level KVM emulator and facilitates communication between guests and host virtual machines.
+> **[1:50](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/prepare-the-host-for-virtualization?u=76281980&t=110)** Qemu-kvm provides the user level KVM emulator and facilitates communication between guests and host [[Virtual Machines]].
 >
 > **[1:58](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/prepare-the-host-for-virtualization?u=76281980&t=118)** Libvirt is the server and host side libraries that interact with hypervisors and host systems.
 >
@@ -774,7 +766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Linux]] (3), [[Virtualization]] (3), hit (3), web (3)
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Linux]] (3)
 > **Prerequisites:** install (5)
 > **CLI Commands:** sudo (2), dnf (1), systemctl (1)
 > **Env Vars:** qemu (1), lxc (1), kvm (1)
@@ -782,12 +774,11 @@ created: 2026-05-02
 > **Tools:** terminal (1), command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install Linux interactively in a guest VM
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-interactively-in-a-guest-vm?u=76281980)
+#### [Install Linux interactively in a guest VM](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-interactively-in-a-guest-vm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-interactively-in-a-guest-vm?u=76281980&t=0)** - [Instructor] To install Enterprise Linux in a guest VM, you'll need to download a version of Enterprise Linux onto your host.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-interactively-in-a-guest-vm?u=76281980&t=0)** - [Instructor] To install Enterprise [[Linux]] in a guest VM, you'll need to download a version of Enterprise Linux onto your host.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-interactively-in-a-guest-vm?u=76281980&t=6)** For this course, I'll be using Rocky Linux.
 >
@@ -825,7 +816,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-interactively-in-a-guest-vm?u=76281980&t=94)** Click on the Enterprise Linux ISO Image you downloaded, and click on Open.
 >
-> **[1:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-interactively-in-a-guest-vm?u=76281980&t=100)** If it doesn't automatically detect the operating system that you're installing, you can deselect the automatic checkbox and enter Red Hat Linux.
+> **[1:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-interactively-in-a-guest-vm?u=76281980&t=100)** If it doesn't automatically detect the operating system that you're installing, you can deselect the automatic checkbox and enter [[Red Hat Linux]].
 >
 > **[1:51](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-interactively-in-a-guest-vm?u=76281980&t=111)** Now click Forward, and you should see settings for memory and CPU cores.
 >
@@ -927,7 +918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (7), hit (5), next (3), web (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Linux]] (7), [[Red Hat Linux]] (1)
 > **UI Navigation:** click on (12), checkbox (2), go to (1), dropdown (1), switch to (1)
 > **Env Vars:** cpu (7), gui (4), iso (2), nat (2), dvd (1)
 > **Prerequisites:** install (6), you'll need (2), configure (1)
@@ -936,18 +927,17 @@ created: 2026-05-02
 > **URLs:** [rockylinux.org](https://rockylinux.org) (1), [net.com](https://net.com) (1)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Use Kickstart files to automate installs
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980)
+#### [Use Kickstart files to automate installs](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=0)** - [Presenter] You can automate installs with Enterprise Linux using a Kickstart file.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=0)** - [Presenter] You can automate installs with Enterprise [[Linux]] using a Kickstart file.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=4)** A Kickstart file is an instruction file telling the installer how to automatically install the operating system.
 >
 > **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=9)** Kickstart was created by Red Hat and most Red Hat-based distributions support it.
 >
-> **[0:14](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=14)** Other non-Red Hat based operating systems support Kickstart as well, such as Debian and Ubuntu Linux, even though they have their own automated installation systems.
+> **[0:14](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=14)** Other non-Red Hat based operating systems support Kickstart as well, such as Debian and [[Ubuntu]] Linux, even though they have their own automated installation systems.
 >
 > **[0:23](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=23)** Not all features of Kickstart are supported or applicable on Debian-based distributions.
 >
@@ -1037,7 +1027,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=296)** The second thing you'll need is a VM disk image.
 >
-> **[4:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=299)** KVM supports many different VM disk formats, including those are VirtualBox, VMware, and Microsoft's Hyper-V, as well as the default of qcow2.
+> **[4:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=299)** KVM supports many different VM disk formats, including those are VirtualBox, VMware, and [[Microsoft]]'s Hyper-V, as well as the default of qcow2.
 >
 > **[5:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-kickstart-files-to-automate-installs?u=76281980&t=309)** You'll also need a Kickstart file, which you can get from an installed system such as rhhost1, or you can use the one included in the exercise file zip archive.
 >
@@ -1061,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), hit (5), web (5), [[Ubuntu]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Ubuntu]] (1), [[Microsoft]] (1)
 > **Env Vars:** ftp (4), iso (3), ram (3), sha (2), url (2)
 > **Prerequisites:** install (10), configure (3), you'll need (3)
 > **CLI Commands:** sudo (2), cp (1), chown (1), cd (1)
@@ -1070,14 +1060,13 @@ created: 2026-05-02
 > **File Paths:** anaconda-ks.cfg (2), root/anaconda-ks.cfg (1), downloads/anaconda-ks.cfg (1)
 > **Analogies:** such as (2), just like (2)
 
-#### Install Linux unattended in a guest VM
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980)
+#### [Install Linux unattended in a guest VM](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=0)** - [Instructor] For this exercise, you'll be installing Enterprise Linux non-interactively in a guest virtual machine using a kickstart file and a downloaded ISO image, you'll use the same Enterprise Linux ISO image that you downloaded earlier in the course, as well as the kickstart file from the exercise files archive, or from your rhhost1 VM.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=0)** - [Instructor] For this exercise, you'll be installing Enterprise [[Linux]] non-interactively in a guest virtual machine using a kickstart file and a downloaded ISO image, you'll use the same Enterprise Linux ISO image that you downloaded earlier in the course, as well as the kickstart file from the exercise files archive, or from your rhhost1 VM.
 >
-> **[0:18](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=18)** Keep in mind that when creating new virtual machines, you have two environments.
+> **[0:18](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=18)** Keep in mind that when creating new [[Virtual Machines]], you have two environments.
 >
 > **[0:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=22)** The first is the installation environment, which includes the kickstart file, the installation media, and a hard disk image.
 >
@@ -1177,7 +1166,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=351)** Now let's run it by hitting Enter and type in your password.
 >
-> **[5:56](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=356)** The install should complete in 10 to 20 minutes or less depending on your hardware.
+> **[5:56](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=356)** The install should complete in 10 to 20 minutes or less depending on your [[Hardware]].
 >
 > **[6:01](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-linux-unattended-in-a-guest-vm?u=76281980&t=361)** Once the install is done, hit Enter to reboot it.
 >
@@ -1189,7 +1178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), [[Virtual Machines]] (3), hit (2), cd (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Virtual Machines]] (3), [[Hardware]] (1)
 > **Prerequisites:** install (14), configure (1)
 > **Env Vars:** iso (3), gui (2), home (2), uefi (2), ram (1)
 > **Tools:** command line (3), anaconda (2), terminal (1)
@@ -1198,8 +1187,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
 
-#### Manage virtual machines
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980)
+#### [Manage virtual machines](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1217,13 +1205,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=28)** You can also take a screenshot.
 >
-> **[0:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=30)** Note that this is a photo of the screen and is not a snapshot, which freezes the current state of the virtual machines.
+> **[0:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=30)** Note that this is a photo of the screen and is not a snapshot, which freezes the current state of the [[Virtual Machines]].
 >
 > **[0:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=36)** To manage snapshots, you need to click on the manage VM snapshots button on the toolbar.
 >
 > **[0:43](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=43)** You can also go to the view menu and click on details to see all of the VM details.
 >
-> **[0:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=48)** Here, you can add or configure the guest VM's virtual hardware.
+> **[0:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=48)** Here, you can add or configure the guest VM's virtual [[Hardware]].
 >
 > **[0:52](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=52)** The Virtual Machine Manager GUI is a very easy interface to KVM, but if you want more power, you'll need to use the virsh command line tool.
 >
@@ -1285,7 +1273,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=187)** Snapshots are a very powerful feature of virtualization, and the snapshot command has commands to create, list, and delete VM snapshots.
 >
-> **[3:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=195)** As someone learning about Linux and virtualization, I encourage you to snapshot often.
+> **[3:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=195)** As someone learning about [[Linux]] and virtualization, I encourage you to snapshot often.
 >
 > **[3:20](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-virtual-machines?u=76281980&t=200)** This lets you practice an exercise and then revert back to the previous snapshot if you want to try it again.
 >
@@ -1361,7 +1349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), next (5), dom (4), prompt (3), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Hardware]] (1), [[Linux]] (1)
 > **Env Vars:** dom (4), gui (3), cpu (3), kvm (3)
 > **CLI Commands:** sudo (7), node (1), make (1)
 > **UI Navigation:** click on (2), double-click (1), go to (1), open the (1)
@@ -1375,12 +1363,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Linux Boot Process
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980)
+#### [Understand the Linux Boot Process](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980&t=0)** - [Instructor] A Linux system goes through several stages when booting: the firmware stage, the boot loader stage, the kernel stage and lastly, the initialization stage.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980&t=0)** - [Instructor] A [[Linux]] system goes through several stages when booting: the firmware stage, the boot loader stage, the kernel stage and lastly, the initialization stage.
 >
 > **[0:10](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980&t=10)** During the firmware stage, the computer runs code in either the BIOS or UEFI during power on self-test or post.
 >
@@ -1420,7 +1407,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980&t=100)** Systemd has the concept of targets that are similar to the old init run levels.
 >
-> **[1:45](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980&t=105)** You can think of a target as a system configuration.
+> **[1:45](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980&t=105)** You can think of a target as a [[System Configuration]].
 >
 > **[1:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980&t=108)** For instance, by default, enterprise Linux boots up into the graphical target.
 >
@@ -1430,21 +1417,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), power (1), [[System Configuration]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[System Configuration]] (1)
 > **Env Vars:** bios (4), uefi (4), grub (2), grub2 (1), efi (1)
 > **Prerequisites:** initialization (3)
 > **Analogies:** for instance (1), such as (1)
 > **File Paths:** boot/grub2/grub.cfg (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rescue a system
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980)
+#### [Rescue a system](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=0)** - [Instructor] Sometimes when you install a new kernel, the system may kernel panic.
 >
-> **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=4)** This is especially true if you have custom drivers for video or hardware installed in the old kernel but not in the new one.
+> **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=4)** This is especially true if you have custom drivers for video or [[Hardware]] installed in the old kernel but not in the new one.
 >
 > **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=9)** It can also happen if a driver is incompatible with the hardware.
 >
@@ -1478,7 +1464,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=88)** Once it's highlighted, press the E key to edit.
 >
-> **[1:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=90)** Now find the line that includes the word VM linuz.
+> **[1:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=90)** Now find the line that includes the [[Microsoft Word|word]] VM linuz.
 >
 > **[1:34](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=94)** This is the kernel line, and the items after it are kernel parameters.
 >
@@ -1530,7 +1516,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=223)** Now press Control + X to boot up.
 >
-> **[3:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=228)** Once the VM has booted, Linux mounts the root file system read only, and you should be able to log in without a password.
+> **[3:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=228)** Once the VM has booted, [[Linux]] mounts the root file system read only, and you should be able to log in without a password.
 >
 > **[3:54](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rescue-a-system?u=76281980&t=234)** If you try to reset the root password now, you will get an authentication token manipulation error.
 >
@@ -1580,7 +1566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Hardware]] (3), [[Linux]] (3), prompt (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Linux]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (2), sudo (2), journalctl (1)
 > **Env Vars:** ctl (3), gui (1), dmid (1)
 > **UI Navigation:** go to (2), select the (1)
@@ -1589,16 +1575,15 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to systemd services
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980)
+#### [Introduction to systemd services](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=0)** - [Instructor] System services are processes that are started by the operating system and sit in the background waiting to handle requests.
 >
-> **[0:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=6)** These services might include web servers, file servers, mail servers, and others.
+> **[0:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=6)** These services might include [[Web Servers]], file servers, mail servers, and others.
 >
-> **[0:12](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=12)** In Linux, a system service is called a daemon, spelled D-A-E-M-O-N.
+> **[0:12](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=12)** In [[Linux]], a system service is called a daemon, spelled D-A-E-M-O-N.
 >
 > **[0:17](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=17)** The term daemon was first used by programmers at MIT.
 >
@@ -1608,7 +1593,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=33)** In this sense, Linux daemons are good spirits working in the background, doing good deeds.
 >
-> **[0:37](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=37)** The correct pronunciation of the Latin word demon is demon.
+> **[0:37](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=37)** The correct pronunciation of the Latin [[Microsoft Word|word]] demon is demon.
 >
 > **[0:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=40)** However, it's common to pronounce Linux services demon or daemon and both are acceptable.
 >
@@ -1660,7 +1645,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=160)** There have been several attempts to replace SysVinit including launchd, Upstart, and systemd.
 >
-> **[2:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=166)** Upstart was designed by a former Ubuntu employee to solve some of SysVinit's problems.
+> **[2:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=166)** Upstart was designed by a former [[Ubuntu]] employee to solve some of SysVinit's problems.
 >
 > **[2:52](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-systemd-services?u=76281980&t=172)** Upstart starts processes asynchronously, monitors running processes, is backwards compatible with SysVinit, and can be extended so it can interact with other event systems.
 >
@@ -1686,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (11), management (3), [[Ubuntu]] (2), web (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (11), [[Ubuntu]] (2), [[Web Servers]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** mit (1), usb (1), suse (1)
 > **Definitions:** is called (1), is a  (1)
@@ -1694,12 +1679,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get systemd service status
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-systemd-service-status?u=76281980)
+#### [Get systemd service status](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-systemd-service-status?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-systemd-service-status?u=76281980&t=0)** - [Instructor] System services in Enterprise Linux are now managed by systemd.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-systemd-service-status?u=76281980&t=0)** - [Instructor] System services in Enterprise [[Linux]] are now managed by systemd.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-systemd-service-status?u=76281980&t=4)** Keep in mind that systemd manages a lot of other types of objects like devices, mounted volumes, network sockets, system timers, which are similar CRON jobs, and targets, the systemd equivalent to runlevels.
 >
@@ -1841,7 +1825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** systemctl (8), make (1), cat (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** cron (1)
@@ -1849,8 +1833,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage systemd services
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-systemd-services?u=76281980)
+#### [Manage systemd services](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-systemd-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1916,18 +1899,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11)
 > **CLI Commands:** systemctl (18), sudo (7)
 > **Tools:** terminal (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make systemd services persistent
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/make-systemd-services-persistent?u=76281980)
+#### [Make systemd services persistent](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/make-systemd-services-persistent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/make-systemd-services-persistent?u=76281980&t=0)** - [Instructor] When a Linux system boots up, certain services are run automatically by Systemd.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/make-systemd-services-persistent?u=76281980&t=0)** - [Instructor] When a [[Linux]] system boots up, certain services are run automatically by Systemd.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/make-systemd-services-persistent?u=76281980&t=5)** We can enable services so they start automatically or disable them so they don't.
 >
@@ -1961,17 +1942,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** systemctl (7), sudo (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980)
+#### [Configure networking](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=0)** - [Instructor] To fully utilize networking on your Linux system, you'll need to set your VM's hostname, IP address, subnet Mask, default Gateway, and a DNS name server.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=0)** - [Instructor] To fully utilize networking on your [[Linux]] system, you'll need to set your VM's hostname, IP address, subnet Mask, default Gateway, and a DNS name server.
 >
 > **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=9)** These basic settings will provide functional networking for your system.
 >
@@ -1999,7 +1979,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=72)** To do so, add entries to the etc/resolv.comf file.
 >
-> **[1:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=76)** This file is a simple file with multiple lines containing the word nameserver, a whitespace, and lastly, an IP address.
+> **[1:16](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=76)** This file is a simple file with multiple lines containing the [[Microsoft Word|word]] nameserver, a whitespace, and lastly, an IP address.
 >
 > **[1:23](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=83)** Note that the resolv.conf file is a global file, so DNS server entries in it will be used for all network cards.
 >
@@ -2029,7 +2009,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=158)** The number is the order in which the computer scans interface cards on boot up.
 >
-> **[2:42](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=162)** Although simple, it means that the network device name can change depending on the order your machine sees the hardware, which isn't always reliable.
+> **[2:42](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=162)** Although simple, it means that the network device name can change depending on the order your machine sees the [[Hardware]], which isn't always reliable.
 >
 > **[2:49](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=169)** Now the naming is more complex, but more predictable and reliable.
 >
@@ -2051,7 +2031,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=223)** NMCLI is the network manager command line tool.
 >
-> **[3:47](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=227)** NMTUI is a somewhat visual network manager text user interface tool and nm-connection-editor, a Graphical Tool Spawn from the CLI.
+> **[3:47](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=227)** NMTUI is a somewhat visual network manager text user interface tool and nm-connection-editor, a Graphical Tool Spawn from the [[CLI]].
 >
 > **[3:56](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-networking?u=76281980&t=236)** These last three are part of Network Manager, a service that provides a high level interface for the configuration of network settings.
 >
@@ -2091,7 +2071,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (9), [[Linux]] (5), hit (3), functional (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Microsoft Word|Word]] (1), [[Hardware]] (1), [[CLI]] (1)
 > **Env Vars:** dns (9), gui (3), pci (3), nmtui (3), nmcli (2)
 > **Prerequisites:** configure (6), you'll need (4)
 > **Definitions:** is a  (3), means that (1)
@@ -2100,8 +2080,7 @@ created: 2026-05-02
 > **Warnings:** note that (2), keep in mind (1)
 > **CLI Commands:** sudo (2)
 
-#### Configure a system to use network time protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980)
+#### [Configure a system to use network time protocol](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2119,7 +2098,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=30)** Our computers get their time information from various sources.
 >
-> **[0:33](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=33)** Every computer has a real-time clock or RTC that keeps time when the computer is off.
+> **[0:33](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=33)** Every computer has a [[Real-Time]] clock or RTC that keeps time when the computer is off.
 >
 > **[0:37](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=37)** When the computer is turned on, the OS reads the real-time clock and then keeps time from that point on.
 >
@@ -2127,13 +2106,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=51)** This method is the most accurate but requires a network connection.
 >
-> **[0:55](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=55)** To change the date and time from the CLI, we'll want to open a terminal.
+> **[0:55](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=55)** To change the date and time from the [[CLI]], we'll want to open a terminal.
 >
 > **[1:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=63)** In CentOS, we use a command called timedatectl to manage our time and date.
 >
 > **[1:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=69)** In a terminal, type in timedatectl and hit Enter.
 >
-> **[1:14](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=74)** This will show us local time for our time zone, Universal Time, which is the time of Greenwich UK, our RTC, the time of our PC's hardware clock, our current time zone, whether automatic time synchronization is on or not, and whether we're in Daylight Savings Time.
+> **[1:14](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=74)** This will show us local time for our time zone, Universal Time, which is the time of Greenwich UK, our RTC, the time of our PC's [[Hardware]] clock, our current time zone, whether automatic time synchronization is on or not, and whether we're in Daylight Savings Time.
 >
 > **[1:31](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/configure-a-system-to-use-network-time-protocol?u=76281980&t=91)** Before we set our time zone, we'll want to get a list of all time zones.
 >
@@ -2187,7 +2166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Real-Time]] (2), [[CLI]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[CLI]] (1), [[Hardware]] (1)
 > **Env Vars:** gui (2), rtc (2), ntp (2), cli (1)
 > **Ports:** :26 (2), :00 (2)
 > **CLI Commands:** grep (1), find (1)
@@ -2196,8 +2175,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage one-time jobs with at
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-one-time-jobs-with-at?u=76281980)
+#### [Manage one-time jobs with at](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-one-time-jobs-with-at?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2233,7 +2211,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-one-time-jobs-with-at?u=76281980&t=88)** To create an at job that will run in five minutes, go to your terminal and type in at space now space plus five min and hit enter.
 >
-> **[1:37](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-one-time-jobs-with-at?u=76281980&t=97)** This will give you a prompt where you can type in Linux commands to run.
+> **[1:37](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-one-time-jobs-with-at?u=76281980&t=97)** This will give you a prompt where you can type in [[Linux]] commands to run.
 >
 > **[1:40](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-one-time-jobs-with-at?u=76281980&t=100)** For example, let's type rsync space - A space TILDA slash documents with a capital D slash space TILDA slash documents with capital D . back and hit enter.
 >
@@ -2297,7 +2275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), prompt (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** atq (4), tilda (2), atrm (2), cpu (1)
 > **Ports:** :00 (4), :25 (2), :30 (1)
 > **CLI Commands:** ls (2), make (1), cat (1)
@@ -2306,8 +2284,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), you'll need (1)
 > **File Paths:** file.txt (1)
 
-#### Manage reoccurring user jobs with cron
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-reoccurring-user-jobs-with-cron?u=76281980)
+#### [Manage reoccurring user jobs with cron](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-reoccurring-user-jobs-with-cron?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2406,8 +2383,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 
-#### Manage reoccurring system jobs with cron
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-reoccurring-system-jobs-with-cron?u=76281980)
+#### [Manage reoccurring system jobs with cron](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-reoccurring-system-jobs-with-cron?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2453,13 +2429,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3)
 > **Documentation:** man page (3)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limit access to at and cron
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/limit-access-to-at-and-cron?u=76281980)
+#### [Limit access to at and cron](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/limit-access-to-at-and-cron?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2515,7 +2489,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** sudo (2), make (2), ls (1)
 > **Documentation:** man page (4), specification (1)
 > **Prerequisites:** you'll need (2)
@@ -2528,8 +2501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About file globs
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980)
+#### [About file globs](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2537,7 +2509,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980&t=6)** File Globbing uses patterns containing wild cards to match files based on their names.
 >
-> **[0:11](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980&t=11)** For instance, if you wanted to list all file names, starting with the word file followed by an extension, you could use ls space file asterisk.
+> **[0:11](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980&t=11)** For instance, if you wanted to list all file names, starting with the [[Microsoft Word|word]] file followed by an extension, you could use ls space file asterisk.
 >
 > **[0:19](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980&t=19)** This glob can be used with any command as the globing is handled by the shell itself.
 >
@@ -2613,7 +2585,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980&t=195)** In the past, you could combine the lowercase and uppercase ranges into one range, but I caution you not to do this.
 >
-> **[3:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980&t=201)** Depending on the language and locale settings of your Linux installation, this may not get what you want.
+> **[3:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980&t=201)** Depending on the language and locale settings of your [[Linux]] installation, this may not get what you want.
 >
 > **[3:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980&t=206)** In many cases, lower and uppercase letters are not in the order you expect in the character map.
 >
@@ -2656,12 +2628,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Use character classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-character-classes?u=76281980)
+#### [Use character classes](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-character-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-character-classes?u=76281980&t=0)** - [Instructor] Linux provides a mechanism for matching certain character classes.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-character-classes?u=76281980&t=0)** - [Instructor] [[Linux]] provides a mechanism for matching certain character classes.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-character-classes?u=76281980&t=4)** A character class is a grouping of like characters.
 >
@@ -2729,7 +2700,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-character-classes?u=76281980&t=151)** Note, using the exclamation point inside the outer square brackets negates everything in them.
 >
-> **[2:37](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-character-classes?u=76281980&t=157)** For example, negating both digit and space classes will match a file name starting with the word file followed by one character, which cannot be a number or whitespace.
+> **[2:37](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-character-classes?u=76281980&t=157)** For example, negating both digit and space classes will match a file name starting with the [[Microsoft Word|word]] file followed by one character, which cannot be a number or whitespace.
 >
 > **[2:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-character-classes?u=76281980&t=166)** As such, file a.txt and file b.txt matched because A and B are not numbers or spaces.
 >
@@ -2737,7 +2708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for instance (2), for example (2), such as (1), just like (1)
 > **File Paths:** a.txt (1), b.txt (1)
 > **Tools:** bash (1)
@@ -2745,8 +2716,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use globs to match files
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-globs-to-match-files?u=76281980)
+#### [Use globs to match files](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-globs-to-match-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2756,7 +2726,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-globs-to-match-files?u=76281980&t=9)** Go into that directory and get a list by typing in LS.
 >
-> **[0:14](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-globs-to-match-files?u=76281980&t=14)** In this directory, there are files that start with the word photo, followed by a four-digit sequence number.
+> **[0:14](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-globs-to-match-files?u=76281980&t=14)** In this directory, there are files that start with the [[Microsoft Word|word]] photo, followed by a four-digit sequence number.
 >
 > **[0:19](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-globs-to-match-files?u=76281980&t=19)** Then the date that includes the month, day, and year, and followed by an extension of either dot PNG or dot JPG.
 >
@@ -2874,7 +2844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Microsoft Word|Word]] (6)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **Env Vars:** jpg (7), png (3), mpg (3), punct (2), jpeg (1)
 > **CLI Commands:** ls (9), find (2), make (1)
 > **Analogies:** for example (2), such as (1)
@@ -2883,12 +2853,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Use input-output redirection (>, >>, |, 2>, and more)
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980)
+#### [Use input-output redirection (>, >>, |, 2>, and more)](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980&t=0)** - [Instructor] In Unix and Linux everything is treated as a file and as a result, file redirects are very powerful.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980&t=0)** - [Instructor] In Unix and [[Linux]] everything is treated as a file and as a result, file redirects are very powerful.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980&t=6)** Let's start by talking about redirecting the output of a command to a file.
 >
@@ -2942,11 +2911,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980&t=125)** In this case REM is the command and file.txt is an argument to the command.
 >
-> **[2:10](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980&t=130)** However, sometimes a command is not designed to operate directly on files such as the MySQL database command.
+> **[2:10](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980&t=130)** However, sometimes a command is not designed to operate directly on files such as the [[MySQL]] database command.
 >
 > **[2:17](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980&t=137)** Its job is to allow you to administer a database.
 >
-> **[2:20](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980&t=140)** The MySQL command takes options and arguments, but if you want to import an SQL database file you'll need to redirect the file to the commands standard in.
+> **[2:20](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980&t=140)** The MySQL command takes options and arguments, but if you want to import an [[SQL]] database file you'll need to redirect the file to the commands standard in.
 >
 > **[2:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/4523570?u=76281980&t=149)** To do so you would use a less than symbol.
 >
@@ -3020,7 +2989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (3), database (3), [[SQL]] (3), [[Linux]] (2), data (1)
+> **Frameworks & Libraries:** [[MySQL]] (3), [[SQL]] (3), [[Linux]] (2)
 > **CLI Commands:** find (5), grep (5), mysql (3), make (1)
 > **File Paths:** file.txt (1), db.sql (1), out.txt (1), outerror.txt (1), example.txt (1)
 > **Analogies:** just like (3), such as (1)
@@ -3029,8 +2998,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (3)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Use grep and regular expressions to analyze text
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-grep-and-regular-expressions-to-analyze-text?u=76281980)
+#### [Use grep and regular expressions to analyze text](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-grep-and-regular-expressions-to-analyze-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3052,7 +3020,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-grep-and-regular-expressions-to-analyze-text?u=76281980&t=60)** It's possible to make your search criteria more concise by anchoring to the beginning of a line with a carrot or the end of a line using a dollar sign.
 >
-> **[1:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-grep-and-regular-expressions-to-analyze-text?u=76281980&t=69)** This example will only show lines that start with the word "root" and will ignore lines with the word "root" in the middle.
+> **[1:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-grep-and-regular-expressions-to-analyze-text?u=76281980&t=69)** This example will only show lines that start with the [[Microsoft Word|word]] "root" and will ignore lines with the word "root" in the middle.
 >
 > **[1:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-grep-and-regular-expressions-to-analyze-text?u=76281980&t=75)** Normally this would match a line that starts and ends with nothing in the middle.
 >
@@ -3182,7 +3150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[Microsoft Word|Word]] (2), data (1), power (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** grep (9), make (2), journalctl (1)
 > **File Paths:** file.txt (6), file-.txt (1), journal.txt (1)
 > **Analogies:** for instance (3), for example (1), similar to (1), such as (1)
@@ -3191,8 +3159,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - r (1)
 > **Env Vars:** ascii (1)
 
-#### Create files and directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-files-and-directories?u=76281980)
+#### [Create files and directories](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-files-and-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3298,7 +3265,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), cd (1)
 > **CLI Commands:** mkdir (8), cat (5), ls (3), cd (1), make (1)
 > **File Paths:** textfile.txt (4), emptyfile.txt (2)
 > **Tools:** terminal (1), bash (1), command line (1)
@@ -3307,8 +3273,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy files and directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/copy-files-and-directories?u=76281980)
+#### [Copy files and directories](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/copy-files-and-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3394,7 +3359,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/copy-files-and-directories?u=76281980&t=193)** Use your up arrow key to get your previous line back and hit Enter.
 >
-> **[3:17](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/copy-files-and-directories?u=76281980&t=197)** If you want Linux to warn you, then add the dash i option.
+> **[3:17](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/copy-files-and-directories?u=76281980&t=197)** If you want [[Linux]] to warn you, then add the dash i option.
 >
 > **[3:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/copy-files-and-directories?u=76281980&t=201)** Use your up arrow key and bring back your previous line and add the dash i option and hit Enter.
 >
@@ -3418,7 +3383,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/copy-files-and-directories?u=76281980&t=244)** Type in cp space dash capital R space archive space backup and hit Enter and verify once again using tree.
 >
-> **[4:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/copy-files-and-directories?u=76281980&t=253)** I'm not going to cover every option of the cp command, but a couple of options that I use often are dash a for archive, which preserves all metadata, including permissions and file ownership; dash u to only copy files if they're newer than the destination, and dash capital R, which copies recursive.
+> **[4:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/copy-files-and-directories?u=76281980&t=253)** I'm not going to cover every option of the cp command, but a couple of options that I use often are dash a for archive, which preserves all [[Metadata]], including permissions and file ownership; dash u to only copy files if they're newer than the destination, and dash capital R, which copies recursive.
 >
 > **[4:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/copy-files-and-directories?u=76281980&t=270)** This is necessary for directories.
 >
@@ -3426,7 +3391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), management (1), cd (1), [[Linux]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Metadata]] (1)
 > **CLI Commands:** cp (11), mkdir (4), make (3), cd (1), ls (1)
 > **File Paths:** file.txt (7), document.txt (1), doc-copy.txt (1), file-copy.txt (1), archive/file-copy.txt (1)
 > **Env Vars:** gui (1), usb (1)
@@ -3435,8 +3400,7 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **Warnings:** warning (1)
 
-#### Move files and directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/move-files-and-directories?u=76281980)
+#### [Move files and directories](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/move-files-and-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3466,7 +3430,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/move-files-and-directories?u=76281980&t=50)** So far, this has been nearly identical to the copy command, but there are some important differences that we need to discuss.
 >
-> **[0:57](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/move-files-and-directories?u=76281980&t=57)** When Linux copies a file to a new drive, it copies the file data blocks to the new location on the disc.
+> **[0:57](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/move-files-and-directories?u=76281980&t=57)** When [[Linux]] copies a file to a new drive, it copies the file data blocks to the new location on the disc.
 >
 > **[1:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/move-files-and-directories?u=76281980&t=63)** When the operation completes, there will be two identical files.
 >
@@ -3476,7 +3440,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/move-files-and-directories?u=76281980&t=84)** If you want to move a file from slash home slash user one to slash home slash user two, the operation would happen instantaneously.
 >
-> **[1:32](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/move-files-and-directories?u=76281980&t=92)** Since both of these locations are in the same hard drive, Linux just changes the path through the file in the file system metadata.
+> **[1:32](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/move-files-and-directories?u=76281980&t=92)** Since both of these locations are in the same hard drive, Linux just changes the path through the file in the file system [[Metadata]].
 >
 > **[1:39](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/move-files-and-directories?u=76281980&t=99)** The file takes up exactly the same data blocks and has the same index number.
 >
@@ -3540,7 +3504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Linux]] (6), data (5), [[Security]] (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Metadata]] (1)
 > **Env Vars:** txt (7), usb (3), mkdir (2), dir (2), mov (1)
 > **CLI Commands:** mv (4), mkdir (2), make (1), cd (1)
 > **Analogies:** just like (2), for instance (1), such as (1), similar to (1)
@@ -3548,12 +3512,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove files and directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/remove-files-and-directories?u=76281980)
+#### [Remove files and directories](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/remove-files-and-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/remove-files-and-directories?u=76281980&t=0)** - [Instructor] There are a couple of commands dedicated to removing files and directories in Linux, namely rm and rmdir.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/remove-files-and-directories?u=76281980&t=0)** - [Instructor] There are a couple of commands dedicated to removing files and directories in [[Linux]], namely rm and rmdir.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/remove-files-and-directories?u=76281980&t=7)** You may want to note that on the command line, Linux does not have a recycle bin, so if you delete a file, it is for all practical purposes deleted.
 >
@@ -3653,7 +3616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (16), [[Linux]] (3), cd (3), prompt (1)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **CLI Commands:** rm (11), cd (3), mkdir (2), sudo (1)
 > **File Paths:** fileb.txt (3), filea.txt (2), dir1/file1.txt (1), filed.txt (1), file1.txt (1)
 > **Tools:** command line (2), terminal (1)
@@ -3662,8 +3625,7 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create hard and soft links
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-hard-and-soft-links?u=76281980)
+#### [Create hard and soft links](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-hard-and-soft-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3831,7 +3793,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (19), data (4), cd (1), node (1)
 > **File Paths:** file.txt (10), filelink.txt (6), filesymlink.txt (2)
 > **CLI Commands:** ls (5), rm (3), mkdir (2), cd (1), node (1)
 > **Definitions:** is a  (2), means that (1)
@@ -3839,12 +3800,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Vim
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-vim?u=76281980)
+#### [Introduction to Vim](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-vim?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-vim?u=76281980&t=0)** - [Instructor] An editor that's installed by default on just about all versions of Linux is vi, or in most cases, it's actually vim, or vi improved.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-vim?u=76281980&t=0)** - [Instructor] An editor that's installed by default on just about all versions of [[Linux]] is vi, or in most cases, it's actually vim, or vi improved.
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/introduction-to-vim?u=76281980&t=8)** A lot of people shy away from using vim because it has virtually no user interface and looks difficult.
 >
@@ -3996,7 +3956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Linux]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Tools:** vim (19), terminal (1), command line (1), command prompt (1)
 > **File Paths:** vimfile.txt (2), newfile.txt (1)
 > **Cross-References:** go back to (2)
@@ -4005,8 +3965,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit text with Vim
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980)
+#### [Edit text with Vim](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4024,7 +3983,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=22)** Go to normal mode by pressing the esc key.
 >
-> **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=25)** To copy a letter, type yl, a word, type yw, and to copy a line, type yy.
+> **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=25)** To copy a letter, type yl, a [[Microsoft Word|word]], type yw, and to copy a line, type yy.
 >
 > **[0:33](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=33)** Now put your cursor over the word One and press yw.
 >
@@ -4098,7 +4057,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=186)** Press esc :q! to exit without saving.
 >
-> **[3:10](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=190)** On modern Linux desktop interfaces, it's very tempting to have multiple Vim windows open side by side.
+> **[3:10](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=190)** On modern [[Linux]] desktop interfaces, it's very tempting to have multiple Vim [[Windows]] open side by side.
 >
 > **[3:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/edit-text-with-vim?u=76281980&t=195)** However, this requires you to move your hand to your mouse to switch windows or use keyboard shortcuts such as alt tab.
 >
@@ -4138,7 +4097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), hit (7), [[Microsoft Word|Word]] (3), [[Windows]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Windows]] (3), [[Linux]] (1)
 > **Tools:** vim (17), command line (2), firefox (1)
 > **Analogies:** similar to (2), for instance (2), just like (1), such as (1)
 > **File Paths:** file1.txt (2), editfile.txt (1), file2.txt (1), file3.txt (1)
@@ -4147,12 +4106,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 
-#### Locate, read, and use system documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/locate-read-and-use-system-documentation?u=76281980)
+#### [Locate, read, and use system documentation](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/locate-read-and-use-system-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/locate-read-and-use-system-documentation?u=76281980&t=0)** - [Instructor] The command line is a powerful interface to your Linux operating system.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/locate-read-and-use-system-documentation?u=76281980&t=0)** - [Instructor] The command line is a powerful interface to your [[Linux]] operating system.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/locate-read-and-use-system-documentation?u=76281980&t=4)** Often there are no graphical tools to do a job.
 >
@@ -4280,7 +4238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Linux]] (7), [[Search]] (3), cd (2), database (2)
+> **Frameworks & Libraries:** [[Linux]] (7)
 > **CLI Commands:** grep (6), cd (2), find (2), sudo (1)
 > **Documentation:** man page (11)
 > **Tools:** command line (4), terminal (2)
@@ -4289,16 +4247,15 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Archive files using tar and cpio
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980)
+#### [Archive files using tar and cpio](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980&t=0)** - [Instructor] Administrators often have to archive files and directories for backup purposes.
 >
-> **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980&t=4)** With other operating systems such as Windows, you might use the zip compression tool for this.
+> **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980&t=4)** With other operating systems such as [[Windows]], you might use the zip compression tool for this.
 >
-> **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980&t=9)** In Linux, we use an archiver to preserve metadata such as permissions, ownership, access control list, as well as the file data itself.
+> **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980&t=9)** In [[Linux]], we use an archiver to preserve [[Metadata]] such as permissions, ownership, access control list, as well as the file data itself.
 >
 > **[0:17](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980&t=17)** Linux employs two command line tools to archive files, CPIO, which is short for copy in/ copy out and tar, which stands for tape archiver.
 >
@@ -4424,7 +4381,7 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980&t=383)** We could pipe this to less to see the whole output, or we could even pipe it to grab to search for something specific.
 >
-> **[6:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980&t=389)** For instance, the word firewall, bring your line back, add pipe grep firewall, and hit enter.
+> **[6:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980&t=389)** For instance, the [[Microsoft Word|word]] firewall, bring your line back, add pipe grep firewall, and hit enter.
 >
 > **[6:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/archive-files-using-tar-and-cpio?u=76281980&t=398)** To extract the archive into the current directory, we'll use -x, type in sudo space tar space --xattrs -x for extract, vpf space etc.tar, and hit enter.
 >
@@ -4486,7 +4443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Linux]] (6), [[Metadata]] (2), data (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Metadata]] (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** tar (23), sudo (4), find (3), ls (3), make (2)
 > **Env Vars:** cpio (8)
 > **Versions:** 5.2 (1), 4.3 (1), 3.3 (1)
@@ -4495,8 +4452,7 @@ created: 2026-05-02
 > **Tools:** command line (1), terminal (1)
 > **Warnings:** be careful (2)
 
-#### Compress files and archives
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980)
+#### [Compress files and archives](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4504,7 +4460,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980&t=5)** However, these compressors can be used individually as well.
 >
-> **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980&t=9)** You might want to use a compressor without tar if you just want to make a file smaller and you are not concerned about metadata like file ownership, permissions, or timestamps.
+> **[0:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980&t=9)** You might want to use a compressor without tar if you just want to make a file smaller and you are not concerned about [[Metadata]] like file ownership, permissions, or timestamps.
 >
 > **[0:18](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980&t=18)** Know that some compressors don't work well with recursive directories, so tar would be the best tool in that situation.
 >
@@ -4558,9 +4514,9 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980&t=120)** And decompress the file with unxz.
 >
-> **[2:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980&t=128)** In Linux, if you want to archive a directory full of files and directories, use tar and one of the compressors as tar will preserve metadata as well.
+> **[2:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980&t=128)** In [[Linux]], if you want to archive a directory full of files and directories, use tar and one of the compressors as tar will preserve metadata as well.
 >
-> **[2:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980&t=135)** On Windows, the zip archiver is popular, which does a fairly good job of recursively archiving and compressing directories of files.
+> **[2:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980&t=135)** On [[Windows]], the zip archiver is popular, which does a fairly good job of recursively archiving and compressing directories of files.
 >
 > **[2:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/compress-files-and-archives?u=76281980&t=142)** You can also use zip on Linux as well.
 >
@@ -4582,13 +4538,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Linux]] (5), [[Windows]] (3), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Windows]] (3), [[Metadata]] (2)
 > **CLI Commands:** tar (9), ls (4), make (2), cp (1), unzip (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Read system logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/read-system-logs?u=76281980)
+#### [Read system logs](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/read-system-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4598,7 +4553,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/read-system-logs?u=76281980&t=7)** There are different logs for different processes and services and are a great source of information about the running system.
 >
-> **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/read-system-logs?u=76281980&t=13)** Enterprise Linux has two logging systems, rsyslogd and journald.
+> **[0:13](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/read-system-logs?u=76281980&t=13)** Enterprise [[Linux]] has two logging systems, rsyslogd and journald.
 >
 > **[0:18](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/read-system-logs?u=76281980&t=18)** rsyslog is compatible with the legacy sysklogd, and handles persistent logs.
 >
@@ -4630,7 +4585,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/read-system-logs?u=76281980&t=91)** The facility can be one of auth, authpriv, cron, daemon, kern, lpr, mail, news, syslog, user, uucp, and local zero through local7.
 >
-> **[1:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/read-system-logs?u=76281980&t=106)** The priority can be one of the following in ascending order of severity, debug, info, notice, warning, which used to be written as warn, error, which used to be written as the word error, crit, alert, and emerge, which used to be written as panic.
+> **[1:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/read-system-logs?u=76281980&t=106)** The priority can be one of the following in ascending order of severity, debug, info, notice, warning, which used to be written as warn, error, which used to be written as the [[Microsoft Word|word]] error, crit, alert, and emerge, which used to be written as panic.
 >
 > **[2:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/read-system-logs?u=76281980&t=123)** I recommend using the new names for priorities that you see on these slides, even though the old names still work.
 >
@@ -4728,7 +4683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Search]] (3), [[Linux]] (2), [[Microsoft Word|Word]] (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** journalctl (6), sudo (4), grep (4), find (1), make (1)
 > **Analogies:** for instance (3), for example (1), just like (1)
 > **URLs:** [rsyslog.com](https://rsyslog.com) (3)
@@ -4742,12 +4697,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linux repository management systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980)
+#### [Linux repository management systems](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=0)** - [Narrator] The Linux software packaging system used to seem fairly foreign to users of self-contained commercial operating systems where software packages came in boxes or had to be individually downloaded from websites.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=0)** - [Narrator] The [[Linux]] software packaging system used to seem fairly foreign to users of self-contained commercial operating systems where software packages came in boxes or had to be individually downloaded from websites.
 >
 > **[0:12](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=12)** However, the advent of the app store and mobile devices where software is installed from remote servers via a software management application has made the Linux style software repository more familiar.
 >
@@ -4769,7 +4723,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=69)** Even if two distributions use the same package format, it's no guarantee that they'll use the same tool to install those packages.
 >
-> **[1:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=75)** Debian uses the advanced package management tool.
+> **[1:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=75)** Debian uses the advanced [[Package Management]] tool.
 >
 > **[1:18](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=78)** Red Hat uses DNF, a replacement for Yum as its repository based package manager, and SUSE uses Zypper.
 >
@@ -4811,7 +4765,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=208)** Since sandboxed applications are not distribution specific, many hope that all software package formats on Linux would be unified, but in true Linux fashion, there are now different software container formats, namely snapd, Flatpak, and AppImage.
 >
-> **[3:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=226)** Snapd is a project created by the developers of Ubuntu with the goal of unifying the Linux software installation systems.
+> **[3:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=226)** Snapd is a project created by the developers of [[Ubuntu]] with the goal of unifying the Linux software installation systems.
 >
 > **[3:53](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=233)** Snaps are installed from the Snap store.
 >
@@ -4841,7 +4795,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=298)** To try out AppImage, all you need to do is download the package, make it executable, and run it as your regular user.
 >
-> **[5:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=305)** It's similar to how dot EXE files work in Windows.
+> **[5:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=305)** It's similar to how dot EXE files work in [[Windows]].
 >
 > **[5:09](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980&t=309)** AppImage Hub is the central repository for AppImage packages and contains most popular applications.
 >
@@ -4859,7 +4813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (14), application (6), [[Package Management]] (3), management (2), [[Ubuntu]] (2)
+> **Frameworks & Libraries:** [[Linux]] (14), [[Package Management]] (3), [[Ubuntu]] (2), [[Windows]] (1)
 > **Env Vars:** rpm (4), suse (3), deb (1), dnf (1), apt (1)
 > **CLI Commands:** snap (2), dnf (1), yum (1), apt (1), make (1)
 > **Exercise Files:** source code (5), download the (1)
@@ -4868,12 +4822,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Best Practices:** recommended (1)
 
-#### Install from a software repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980)
+#### [Install from a software repository](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=0)** - [Instructor] The standard way of installing software in Linux is from a software repository.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=0)** - [Instructor] The standard way of installing software in [[Linux]] is from a software repository.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=5)** A software repository is a collection of software stored in a remote server access via a network.
 >
@@ -4883,7 +4836,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=20)** This index can be cryptographically signed, restricting new items from being added to it without authorized permission.
 >
-> **[0:27](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=27)** The repository will also contain metadata about the packages.
+> **[0:27](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=27)** The repository will also contain [[Metadata]] about the packages.
 >
 > **[0:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=30)** This metadata can include a description of the packages, who packages the software, the contents of the packages, and so on.
 >
@@ -4911,7 +4864,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=123)** The software repository is hosted on either an FTP server or a web server.
 >
-> **[2:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=128)** Technically, the repository could be hosted on Windows, macOS, or Linux, but it's easier to host a software repository on an OS similar to the one the packages are built for.
+> **[2:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=128)** Technically, the repository could be hosted on [[Windows]], macOS, or Linux, but it's easier to host a software repository on an OS similar to the one the packages are built for.
 >
 > **[2:18](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-from-a-software-repository?u=76281980&t=138)** For instance, if you wanted to provide packages for Enterprise Linux, it would be easiest to host that repository on Enterprise Linux due to the tools that are necessary to build a software repository may not be available for alternative operating systems.
 >
@@ -4959,7 +4912,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), [[Metadata]] (3), web (3), [[Search]] (2), dns (2)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Metadata]] (3), [[Windows]] (1)
 > **Prerequisites:** install (6)
 > **CLI Commands:** dnf (2), snap (2), find (1)
 > **Env Vars:** dns (2), dnf (2), ftp (1)
@@ -4968,12 +4921,11 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **Warnings:** note that (1)
 
-#### RPM package format
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-package-format?u=76281980)
+#### [RPM package format](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-package-format?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-package-format?u=76281980&t=0)** - [Instructor] Most Linux distributions use either Debian, Arch, or RPM packages.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-package-format?u=76281980&t=0)** - [Instructor] Most [[Linux]] distributions use either Debian, Arch, or RPM packages.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-package-format?u=76281980&t=5)** For this video, we'll be discussing the RPM format.
 >
@@ -4983,7 +4935,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-package-format?u=76281980&t=17)** Red Hat Package Manager uses the .rpm file extension.
 >
-> **[0:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-package-format?u=76281980&t=22)** RPMs are very similar to Debian and Arch packages as they are archives that contain binary programs, data files, which may include documentation, configuration data, and even graphic data, such as icons, metadata about the package and its contents, and lastly, they include instructions for installation and removal of the package.
+> **[0:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-package-format?u=76281980&t=22)** RPMs are very similar to Debian and Arch packages as they are archives that contain binary programs, data files, which may include documentation, configuration data, and even graphic data, such as icons, [[Metadata]] about the package and its contents, and lastly, they include instructions for installation and removal of the package.
 >
 > **[0:41](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-package-format?u=76281980&t=41)** The metadata is data about the package and its contents.
 >
@@ -5025,7 +4977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Metadata]] (4), [[Linux]] (3), database (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Linux]] (3)
 > **Env Vars:** rpm (14), cpu (1), gpg (1), md5 (1), srpm (1)
 > **Analogies:** similar to (1), such as (1)
 > **Prerequisites:** required to (1), install (1)
@@ -5034,8 +4986,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Select DNF packages by name
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/select-dnf-packages-by-name?u=76281980)
+#### [Select DNF packages by name](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/select-dnf-packages-by-name?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5121,7 +5072,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Search]] (2), application (1)
 > **CLI Commands:** dnf (12), find (1)
 > **Env Vars:** dnf (10), cpu (2), xfs (1)
 > **Prerequisites:** install (4), you'll need (1)
@@ -5129,9 +5079,9 @@ created: 2026-05-02
 > **Analogies:** for instance (1), just like (1), such as (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** select the (1)
+> **Warnings:** keep in mind (1)
 
-#### Get info on packages with DNF
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-info-on-packages-with-dnf?u=76281980)
+#### [Get info on packages with DNF](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-info-on-packages-with-dnf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5223,7 +5173,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), database (1)
 > **CLI Commands:** dnf (27)
 > **Env Vars:** dnf (6), rpm (2), cpu (1)
 > **Analogies:** such as (1), for example (1)
@@ -5232,8 +5181,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get info on package groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-info-on-package-groups?u=76281980)
+#### [Get info on package groups](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-info-on-package-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5247,7 +5195,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-info-on-package-groups?u=76281980&t=19)** To get a list of all DNF groups, type in DNF space group space list and hit enter.
 >
-> **[0:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-info-on-package-groups?u=76281980&t=26)** In older versions of CentOS, there was a sub command called "Grouplist" spelled as one word.
+> **[0:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-info-on-package-groups?u=76281980&t=26)** In older versions of CentOS, there was a sub command called "Grouplist" spelled as one [[Microsoft Word|word]].
 >
 > **[0:31](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-info-on-package-groups?u=76281980&t=31)** If you see tutorials using group list as one word, just know that it does the same thing as group space list.
 >
@@ -5309,7 +5257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Word|Word]] (2), [[Virtualization]] (2), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Env Vars:** dnf (13), gui (1), dvd (1), rpm (1)
 > **CLI Commands:** dnf (13), dotnet (1), find (1)
 > **Prerequisites:** install (4)
@@ -5318,8 +5266,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Best Practices:** recommended (1)
 
-#### Search for packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/search-for-packages?u=76281980)
+#### [Search for packages](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/search-for-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5335,9 +5282,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/search-for-packages?u=76281980&t=26)** Notice that DNF is doing a case-insensitive search, both lowercase vim and uppercase VIM show up.
 >
-> **[0:32](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/search-for-packages?u=76281980&t=32)** Also notice that the word vim is on every line, either in the name or the summary.
+> **[0:32](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/search-for-packages?u=76281980&t=32)** Also notice that the [[Microsoft Word|word]] vim is on every line, either in the name or the summary.
 >
-> **[0:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/search-for-packages?u=76281980&t=38)** To search all metadata, including the description, type in clear, then type in dnf search --all vim, and hit Enter.
+> **[0:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/search-for-packages?u=76281980&t=38)** To search all [[Metadata]], including the description, type in clear, then type in dnf search --all vim, and hit Enter.
 >
 > **[0:49](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/search-for-packages?u=76281980&t=49)** Notice that the last couple of lines don't have anything in bold.
 >
@@ -5359,7 +5306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), hit (4), [[Microsoft Word|Word]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Metadata]] (1)
 > **CLI Commands:** dnf (11), find (1)
 > **Tools:** vim (8)
 > **Env Vars:** dnf (5), vim (1)
@@ -5367,8 +5314,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install and remove packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-and-remove-packages?u=76281980)
+#### [Install and remove packages](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-and-remove-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5386,7 +5332,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-and-remove-packages?u=76281980&t=24)** Let's install something with dependencies.
 >
-> **[0:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-and-remove-packages?u=76281980&t=26)** First, let's add a third party repository called extra packages for Enterprise Linux.
+> **[0:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-and-remove-packages?u=76281980&t=26)** First, let's add a third party repository called extra packages for Enterprise [[Linux]].
 >
 > **[0:31](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-and-remove-packages?u=76281980&t=31)** Type in sudo space dnf space install space dash y space epel dash release and hit Enter.
 >
@@ -5464,7 +5410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Linux]] (1), prompt (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** dnf (12), sudo (7), yum (1), find (1)
 > **Prerequisites:** install (13)
 > **Env Vars:** dnf (3), kde (2), gnome (2), rpm (1)
@@ -5473,8 +5419,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Install and remove package groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-and-remove-package-groups?u=76281980)
+#### [Install and remove package groups](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/install-and-remove-package-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5532,7 +5477,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), hit (3)
 > **CLI Commands:** dnf (11), sudo (3)
 > **Env Vars:** dnf (11), ids (2)
 > **Prerequisites:** install (4)
@@ -5540,13 +5484,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** remember to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Managing DNF package modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/managing-dnf-package-modules?u=76281980)
+#### [Managing DNF package modules](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/managing-dnf-package-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/managing-dnf-package-modules?u=76281980&t=0)** - [Narrator] DNF package groups have been around a long time, but starting with Enterprise Linux 8, there's a second way of grouping packages using modules.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/managing-dnf-package-modules?u=76281980&t=0)** - [Narrator] DNF package groups have been around a long time, but starting with Enterprise [[Linux]] 8, there's a second way of grouping packages using modules.
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/managing-dnf-package-modules?u=76281980&t=8)** According to Red Hat documentation, "A module is a set of RPM packages that represent a component and are usually installed together."
 >
@@ -5576,7 +5520,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/managing-dnf-package-modules?u=76281980&t=81)** Since module streams organize software by version, you can think of module streams as virtual or sub repositories containing only specific versions of software.
 >
-> **[1:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/managing-dnf-package-modules?u=76281980&t=90)** For instance, let's say you have a module stream for PHP 7.
+> **[1:30](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/managing-dnf-package-modules?u=76281980&t=90)** For instance, let's say you have a module stream for [[PHP]] 7.
 >
 > **[1:35](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/managing-dnf-package-modules?u=76281980&t=95)** This module stream will act as if it's a separate repository only holding different sub versions of PHP 7.
 >
@@ -5632,7 +5576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), hit (4), [[Linux]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Linux]] (1)
 > **CLI Commands:** dnf (8), php (8), sudo (1)
 > **Env Vars:** php (6), dnf (5), rpm (1)
 > **Analogies:** for instance (3), such as (2), similar to (1)
@@ -5641,8 +5585,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Tools:** terminal (1)
 
-#### Manage DNF repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-dnf-repositories?u=76281980)
+#### [Manage DNF repositories](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-dnf-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5660,7 +5603,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-dnf-repositories?u=76281980&t=25)** Let's view a repository file.
 >
-> **[0:27](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-dnf-repositories?u=76281980&t=27)** I'm using Rocky Linux.
+> **[0:27](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-dnf-repositories?u=76281980&t=27)** I'm using Rocky [[Linux]].
 >
 > **[0:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-dnf-repositories?u=76281980&t=29)** If you're using a different enterprise Linux distribution, your repositories may be named differently.
 >
@@ -5690,7 +5633,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-dnf-repositories?u=76281980&t=77)** The seventh line is to help repository maintainers differentiate between short-lived installations and real servers in order to better gauge traffic.
 >
-> **[1:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-dnf-repositories?u=76281980&t=86)** The eighth line sets the metadata expiration time.
+> **[1:26](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-dnf-repositories?u=76281980&t=86)** The eighth line sets the [[Metadata]] expiration time.
 >
 > **[1:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-dnf-repositories?u=76281980&t=89)** DNF caches metadata about repository packages and needs to be refreshed every so often.
 >
@@ -5782,19 +5725,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Linux]] (3), cd (2), [[Metadata]] (2), next (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Metadata]] (2)
 > **CLI Commands:** dnf (12), yum (3), sudo (3), cd (2), ls (1)
 > **Env Vars:** dnf (5), url (3), gpg (1)
 > **Prerequisites:** install (5), you'll need (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get package information with RPM
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-package-information-with-rpm?u=76281980)
+#### [Get package information with RPM](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-package-information-with-rpm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-package-information-with-rpm?u=76281980&t=0)** - [Speaker] RPM is used to install local software packages on Enterprise Linux.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-package-information-with-rpm?u=76281980&t=0)** - [Speaker] RPM is used to install local software packages on Enterprise [[Linux]].
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/get-package-information-with-rpm?u=76281980&t=5)** Once a package is installed, the RPM package database is updated with the package information.
 >
@@ -5964,7 +5906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (20), database (13), [[Linux]] (2), power (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** rpm (29), httpd (6), dnf (4), rpn (1), qdf (1)
 > **Tools:** bash (12), terminal (1)
 > **CLI Commands:** dnf (4), find (2), ls (1), mkdir (1), apache (1)
@@ -5973,8 +5915,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** for instance (1)
 
-#### RPM query formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-query-formatting?u=76281980)
+#### [RPM query formatting](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-query-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5986,7 +5927,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-query-formatting?u=76281980&t=17)** To get a list of all tags, type into a terminal, rpm, space, dash dash, querytags, and hit enter.
 >
-> **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-query-formatting?u=76281980&t=25)** My Enterprise Linux installation lists nearly 250 different tags.
+> **[0:25](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-query-formatting?u=76281980&t=25)** My Enterprise [[Linux]] installation lists nearly 250 different tags.
 >
 > **[0:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/rpm-query-formatting?u=76281980&t=29)** You get to decide what you want printed on the screen just by choosing the tags.
 >
@@ -6102,7 +6043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), database (1), [[Linux]] (1), [[Search]] (1), power (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** rpm (8), installtime (4), name (3), filenames (3), filesizes (2)
 > **Tools:** bash (9), terminal (1)
 > **Analogies:** for instance (3), just like (1)
@@ -6111,8 +6052,7 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **Prerequisites:** install (1)
 
-#### Manage OS updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-os-updates?u=76281980)
+#### [Manage OS updates](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-os-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6232,15 +6172,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), [[Security]] (4), [[Search]] (1)
 > **CLI Commands:** dnf (17), sudo (8), python3 (1), make (1), find (1)
 > **Prerequisites:** install (3)
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update the kernel
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/update-the-kernel?u=76281980)
+#### [Update the kernel](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/update-the-kernel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6262,7 +6200,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/update-the-kernel?u=76281980&t=39)** This means the major version is 4, the major revision is 18, the kernel patch is 0, and the Red Hat release is 193.
 >
-> **[0:49](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/update-the-kernel?u=76281980&t=49)** It's built for Enterprise Linux 8, and it's compiled for 64-bit CPUs.
+> **[0:49](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/update-the-kernel?u=76281980&t=49)** It's built for Enterprise [[Linux]] 8, and it's compiled for 64-bit CPUs.
 >
 > **[0:55](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/update-the-kernel?u=76281980&t=55)** The installed kernels reside in /boot.
 >
@@ -6354,7 +6292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** dnf (14), sudo (6), ls (2), cat (2), yum (1)
 > **Env Vars:** bios (2), ram (1), grub (1), uefi (1), efi (1)
 > **Prerequisites:** install (4), you'll need (2)
@@ -6363,12 +6301,11 @@ created: 2026-05-02
 > **Warnings:** note that (1), be aware (1)
 > **URLs:** [dnf.com](https://dnf.com) (1)
 
-#### Manage kernel modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-kernel-modules?u=76281980)
+#### [Manage kernel modules](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-kernel-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-kernel-modules?u=76281980&t=0)** - [Instructor] In addition to the kernel itself, Linux has modules that have to match the kernel version.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-kernel-modules?u=76281980&t=0)** - [Instructor] In addition to the kernel itself, [[Linux]] has modules that have to match the kernel version.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-kernel-modules?u=76281980&t=5)** These modules add functionality to the kernel, which could include file systems and device drivers.
 >
@@ -6414,7 +6351,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-kernel-modules?u=76281980&t=135)** If you want to change the module parameters, you'll need to unload the module and then reload it with the custom parameters.
 >
-> **[2:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-kernel-modules?u=76281980&t=142)** Linux does a great job of loading hardware device drivers automatically, but on occasion, we need to force the issue.
+> **[2:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-kernel-modules?u=76281980&t=142)** Linux does a great job of loading [[Hardware]] device drivers automatically, but on occasion, we need to force the issue.
 >
 > **[2:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/manage-kernel-modules?u=76281980&t=148)** One instance may be that a device is added across the network and the local operating system has no way of knowing it's there.
 >
@@ -6468,7 +6405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Linux]] (4), [[Hardware]] (3), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Hardware]] (3)
 > **Code Identifiers:** dm_mirror (11), dm_log (1), dm_region_hash (1)
 > **CLI Commands:** sudo (6), make (3), ls (1), rm (1)
 > **Analogies:** for instance (2), just like (1)
@@ -6482,8 +6419,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What makes a shell script a shell script?
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-makes-a-shell-script-a-shell-script?u=76281980)
+#### [What makes a shell script a shell script?](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-makes-a-shell-script-a-shell-script?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6529,7 +6465,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-makes-a-shell-script-a-shell-script?u=76281980&t=101)** The last thing we would do to make it seamless is to put our command in the system path.
 >
-> **[1:45](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-makes-a-shell-script-a-shell-script?u=76281980&t=105)** In Enterprise Linux 7, we have a directory set aside for this.
+> **[1:45](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-makes-a-shell-script-a-shell-script?u=76281980&t=105)** In Enterprise [[Linux]] 7, we have a directory set aside for this.
 >
 > **[1:48](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-makes-a-shell-script-a-shell-script?u=76281980&t=108)** It just hasn't been created yet.
 >
@@ -6565,7 +6501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Scripting]] (1), [[Debugging]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** make (5), chmod (1), mkdir (1), mv (1)
 > **Tools:** bash (7), terminal (1)
 > **File Paths:** script.sh (5), bin/script2.sh (2)
@@ -6574,8 +6510,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bash variable scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/bash-variable-scope?u=76281980)
+#### [Bash variable scope](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/bash-variable-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6625,8 +6560,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - one (1)
 
-#### Positional arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/positional-arguments?u=76281980)
+#### [Positional arguments](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/positional-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6700,7 +6634,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/positional-arguments?u=76281980&t=190)** Now run it by typing in posargs.sh and hit Enter again.
 >
-> **[3:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/positional-arguments?u=76281980&t=195)** Normally, you'd have to prefix the script name with ./, but the personal bin directory is included in the path variable in Enterprise Linux.
+> **[3:15](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/positional-arguments?u=76281980&t=195)** Normally, you'd have to prefix the script name with ./, but the personal bin directory is included in the path variable in Enterprise [[Linux]].
 >
 > **[3:22](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/positional-arguments?u=76281980&t=202)** The output may be confusing because we didn't pass any positional arguments.
 >
@@ -6732,7 +6666,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/positional-arguments?u=76281980&t=263)** In this case, $* contains one thing, all arguments as one entity.
 >
-> **[4:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/positional-arguments?u=76281980&t=268)** If we were to loop through all items in $*, it would iterate one time as it appears as one item, whereas $@ contains word split items, each one essentially quoted.
+> **[4:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/positional-arguments?u=76281980&t=268)** If we were to loop through all items in $*, it would iterate one time as it appears as one item, whereas $@ contains [[Microsoft Word|word]] split items, each one essentially quoted.
 >
 > **[4:39](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/positional-arguments?u=76281980&t=279)** If we were to loop through $@, it would iterate three times as each item is a separate thing.
 >
@@ -6740,7 +6674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), cd (3), next (2), data (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** ls (9), make (5), cat (4), cd (3), mkdir (1)
 > **File Paths:** posargs.sh (4), home/user1/bin/posargs.sh (1)
 > **Tools:** terminal (2), bash (1)
@@ -6749,8 +6683,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pipe data into a script
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/pipe-data-into-a-script?u=76281980)
+#### [Pipe data into a script](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/pipe-data-into-a-script?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6826,7 +6759,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (3)
 > **CLI Commands:** make (5), cat (2), grep (1), chmod (1)
 > **Env Vars:** stdin (2), line (2), ifs (1), etc (1), passwd (1)
 > **Tools:** terminal (2), bash (1)
@@ -6834,13 +6766,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** such as (1)
+> **Speakers:** - [instructor] (1)
 
-#### Output to STDOUT and STDERR
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/output-to-stdout-and-stderr?u=76281980)
+#### [Output to STDOUT and STDERR](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/output-to-stdout-and-stderr?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/output-to-stdout-and-stderr?u=76281980&t=0)** - [Instructor] To make our scripts act more like Linux commands, we will send text to standard out and standard error depending on what it is.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/output-to-stdout-and-stderr?u=76281980&t=0)** - [Instructor] To make our scripts act more like [[Linux]] commands, we will send text to standard out and standard error depending on what it is.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/output-to-stdout-and-stderr?u=76281980&t=7)** Sending text to standard out is as simple as using echo or printf.
 >
@@ -6888,7 +6820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Linux]] (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **File Paths:** scriptoutput.sh (3), stdout.txt (2), stderr.txt (2)
 > **CLI Commands:** make (3), cat (2), chmod (1)
 > **Tools:** bash (1), terminal (1)
@@ -6896,8 +6828,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional flow with if, then if
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/conditional-flow-with-if-then-if?u=76281980)
+#### [Conditional flow with if, then if](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/conditional-flow-with-if-then-if?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6921,7 +6852,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/conditional-flow-with-if-then-if?u=76281980&t=36)** One thing that separates Bash from other languages is that it's very tightly integrated with the operating system, so it's extremely easy to execute commands and check the success or failure and run code appropriately.
 >
-> **[0:49](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/conditional-flow-with-if-then-if?u=76281980&t=49)** In this example, grep searches the /etc/passwd file for the word root.
+> **[0:49](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/conditional-flow-with-if-then-if?u=76281980&t=49)** In this example, grep searches the /etc/passwd file for the [[Microsoft Word|word]] root.
 >
 > **[0:53](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/conditional-flow-with-if-then-if?u=76281980&t=53)** If it's found, then grep will return a zero to if, signaling success, and run the first code block.
 >
@@ -7001,7 +6932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Tools:** bash (6), zsh (1)
 > **Analogies:** just like (3), such as (2), for example (1), for instance (1)
 > **CLI Commands:** grep (3), find (1)
@@ -7010,8 +6941,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** required to (1)
 
-#### Conditional flow with case
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/conditional-flow-with-case?u=76281980)
+#### [Conditional flow with case](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/conditional-flow-with-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7067,14 +6997,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Analogies:** similar to (2), for example (2)
 > **Tools:** bash (2), command line (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Numeric conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/numeric-conditions?u=76281980)
+#### [Numeric conditions](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/numeric-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7098,7 +7026,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/numeric-conditions?u=76281980&t=61)** The last uses the dollar sign and square bracket syntax and its functionality is built into the shell.
 >
-> **[1:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/numeric-conditions?u=76281980&t=67)** These have been replaced by two new forms.
+> **[1:07](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/numeric-conditions?u=76281980&t=67)** These have been replaced by two new [[Forms]].
 >
 > **[1:10](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/numeric-conditions?u=76281980&t=70)** The first is double parentheses, which evaluates the mathematical expression between the parentheses and returns a code depending on the result.
 >
@@ -7198,7 +7126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Forms]] (1), power (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Tools:** terminal (4), bash (3)
 > **CLI Commands:** make (4)
 > **Analogies:** just like (1), for instance (1), such as (1)
@@ -7207,8 +7135,7 @@ created: 2026-05-02
 > **Env Vars:** posix (1)
 > **Cross-References:** go back to (1)
 
-#### String conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/string-conditions?u=76281980)
+#### [String conditions](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/string-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7252,8 +7179,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### File conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/file-conditions?u=76281980)
+#### [File conditions](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/file-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7261,7 +7187,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/file-conditions?u=76281980&t=4)** Let's get right into it.
 >
-> **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/file-conditions?u=76281980&t=5)** - e checks if a file exists, remember that everything in Linux is a file, including devices.
+> **[0:05](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/file-conditions?u=76281980&t=5)** - e checks if a file exists, remember that everything in [[Linux]] is a file, including devices.
 >
 > **[0:11](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/file-conditions?u=76281980&t=11)** - f checks if a file exists and is a file.
 >
@@ -7309,8 +7235,7 @@ created: 2026-05-02
 > **Env Vars:** sgid (1), suid (1)
 > **CLI Commands:** ls (1)
 
-#### Use looping constructs: The for loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-for-loop?u=76281980)
+#### [Use looping constructs: The for loop](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-for-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7342,7 +7267,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-for-loop?u=76281980&t=46)** For instance, in this case, the fine command is creating a list of files in the slash Etsy directory and passing it to the loop.
 >
-> **[0:53](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-for-loop?u=76281980&t=53)** However, be very careful because the for loop uses the IFS or Internal Field Separator to word split.
+> **[0:53](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-for-loop?u=76281980&t=53)** However, be very careful because the for loop uses the IFS or Internal Field Separator to [[Microsoft Word|word]] split.
 >
 > **[0:59](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-for-loop?u=76281980&t=59)** The IFS by default splits on blank spaces, so if a file name has a space in it, then your for loop will break.
 >
@@ -7378,7 +7303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** ifs (4)
 > **Tools:** bash (3)
 > **Analogies:** such as (1), for instance (1)
@@ -7387,8 +7312,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use looping constructs: The while loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-while-loop?u=76281980)
+#### [Use looping constructs: The while loop](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-while-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7406,7 +7330,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-while-loop?u=76281980&t=28)** The condition inside the single square brackets follows the same rules as an if conditional inside the single square brackets, which means you can match on wildcards but not regular expressions.
 >
-> **[0:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-while-loop?u=76281980&t=38)** The simplest while loop you can make is the infinite loop by replacing the condition with the word true.
+> **[0:38](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-while-loop?u=76281980&t=38)** The simplest while loop you can make is the infinite loop by replacing the condition with the [[Microsoft Word|word]] true.
 >
 > **[0:43](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/use-looping-constructs-the-while-loop?u=76281980&t=43)** This loop will keep iterating forever unless the user kills the script or the condition inside the if conditional double-square brackets is true and the brake command runs.
 >
@@ -7440,8 +7364,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7457,7 +7380,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/next-steps?u=76281980&t=29)** The exam lasts 2.5 hours, and internet access is not provided during the test, nor are outside materials permitted.
 >
-> **[0:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/next-steps?u=76281980&t=36)** Documentation that ships with Red Hat Enterprise Linux is available though.
+> **[0:36](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/next-steps?u=76281980&t=36)** Documentation that ships with Red Hat Enterprise [[Linux]] is available though.
 >
 > **[0:41](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/next-steps?u=76281980&t=41)** Also study the cheat sheets available in each chapter.
 >
@@ -7477,7 +7400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), product (1)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **Env Vars:** rhcsa (5), ex200 (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)

@@ -83,22 +83,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why synthetic data is changing AI, data, and privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980)
+#### [Why synthetic data is changing AI, data, and privacy](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980&t=0)** - AI generated synthetic data (soft, bright music) not only enables better data privacy, but it can also empower every department in your organization to work more effectively with data.
+> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980&t=0)** - AI generated synthetic data (soft, bright music) not only enables better [[Data Privacy]], but it can also empower every department in your organization to work more effectively with data.
 >
-> **[0:10](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980&t=10)** It's an anonymization technology that retains near perfect data utility while keeping the privacy of your customers securely protected.
+> **[0:10](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980&t=10)** It's an anonymization technology that retains near perfect data utility while keeping the [[Privacy]] of your customers securely protected.
 >
-> **[0:18](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980&t=18)** I'm Alexandra Ebert, a responsible AI privacy and synthetic data expert and the host of the "Data Democratization" podcast and [Mostly.ai](https://Mostly.ai)'s Chief Trust Officer.
+> **[0:18](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980&t=18)** I'm Alexandra Ebert, a [[Responsible AI]] privacy and synthetic data expert and the host of the "Data Democratization" podcast and [Mostly.ai](https://Mostly.ai)'s Chief Trust Officer.
 >
-> **[0:28](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980&t=28)** And in this LinkedIn learning course, we will talk about the fundamentals of AI generated synthetic data for both data scientists as well as data executives and how synthetic data contributes to building responsible, fair, and explainable AI that benefits everyone.
+> **[0:28](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980&t=28)** And in this [[LinkedIn]] learning course, we will talk about the fundamentals of AI generated synthetic data for both data scientists as well as data executives and how synthetic data contributes to building responsible, fair, and explainable AI that benefits everyone.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (4), [[Privacy]] (3), [[Responsible AI]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Data Privacy]] (1), [[Responsible AI]] (1), [[LinkedIn]] (1)
 > **URLs:** [mostly.ai](https://mostly.ai) (1)
 > **Speakers:** - ai (1)
 > **Non-Speech:** (soft, bright music) (1)
@@ -108,8 +107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The business problem of data vs. privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980)
+#### [The business problem of data vs. privacy](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,13 +123,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=39)** AI and data-driven innovation needs synthetic data, but why?
 >
-> **[0:46](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=46)** Because synthetic data solves the business problem of data versus privacy.
+> **[0:46](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=46)** Because synthetic data solves the business problem of data versus [[Privacy]].
 >
-> **[0:51](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=51)** And that's a huge challenge for nearly every larger business to consumer organization, regardless at which industry you look at, banks, insurances, healthcare organizations, retailers, telco providers, they all are pressured to innovate with the data assets to digitally transform themselves and to offer increasingly personalized products and services to stay competitive and to meet the ever-growing expectations of today's customers.
+> **[0:51](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=51)** And that's a huge challenge for nearly every larger business to consumer organization, regardless at which industry you look at, banks, insurances, healthcare organizations, retailers, telco providers, they all are pressured to innovate with the data assets to digitally transform themselves and to offer increasingly personalized [[Microsoft Products|products]] and services to stay competitive and to meet the ever-growing expectations of today's customers.
 >
 > **[1:19](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=79)** But in these spaces, innovating with data assets oftentimes means touching personal data of your customers or your employees, which isn't particularly easy if you plan to do business in any of the 120 plus countries that are governed by data protection laws like the GDPR, Europe's General Data Protection Regulation, or California's Consumer Privacy Act for example.
 >
-> **[1:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=103)** Don't get me wrong, I'm a big supporter of modern privacy laws and think they do a phenomenal job in safeguarding people's privacy and creating this necessary awareness that privacy protection is important.
+> **[1:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=103)** Don't get me wrong, I'm a big supporter of modern privacy laws and think they do a phenomenal job in safeguarding people's privacy and creating this necessary awareness that [[Privacy Protection]] is important.
 >
 > **[1:55](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=115)** But what I do see in practice is that they also severely restrict or prohibit how businesses can use personal data.
 >
@@ -163,24 +161,23 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=223)** They're governed under strict privacy laws and they're not easy to access for innovation yet to stay competitive and relevant.
 >
-> **[3:51](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=231)** You must find a way to reconcile behavioral data utilization with privacy compliance and this is where synthetic data comes in.
+> **[3:51](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=231)** You must find a way to reconcile behavioral data utilization with [[Privacy Compliance]] and this is where synthetic data comes in.
 >
 > **[4:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980&t=240)** But before we take a closer look into what synthetic data is and why it helps you here let's first look into legacy anonymization and why it is not a solution to overcome this business problem of data versus privacy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Privacy]] (8), ai (5), business (5), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Microsoft Products|Products]] (1), [[Privacy Protection]] (1), [[Privacy Compliance]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gdpr (1)
 > **Analogies:** for example (1)
 > **Speakers:** - synthetic (1)
 
-#### The pitfalls of legacy anonymization
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980)
+#### [The pitfalls of legacy anonymization](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=1)** - If you want to use data while protecting your customer's privacy, why not just anonymize it?
+> **[0:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=1)** - If you want to use data while protecting your customer's [[Privacy]], why not just anonymize it?
 >
 > **[0:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=6)** And in theory, that's a great idea as anonymous data is explicitly exempt from modern data protection regulations like GDPR.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=60)** And this diminishes your dataset's utility especially if you want to use it for sophisticated analysis or machine learning.
 >
-> **[1:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=68)** Second, and probably even worse for a privacy protection technique, legacy anonymization fails to protect privacy in the era of big data.
+> **[1:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=68)** Second, and probably even worse for a [[Privacy Protection]] technique, legacy anonymization fails to protect privacy in the era of [[Big Data]].
 >
 > **[1:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=77)** And there are dozens and dozens of peer reviewed papers showing that legacy anonymization is not capable to safely anonymize data anymore.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=235)** And continuing to rely on them introduces severe legal, financial, and also reputational risks to your organization.
 >
-> **[4:02](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=242)** And these pitfalls of legacy anonymization paired with the ever-growing need of organizations to access data in a privacy safe manner, this is the exact reason why synthetic data is seen as the key enabler for artificial intelligence, for data democratization, and for data innovation that respects people's privacy.
+> **[4:02](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=242)** And these pitfalls of legacy anonymization paired with the ever-growing need of organizations to access data in a privacy safe manner, this is the exact reason why synthetic data is seen as the key enabler for [[Artificial Intelligence (AI)|artificial intelligence]], for data democratization, and for data innovation that respects people's privacy.
 >
 > **[4:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-pitfalls-of-legacy-anonymization?u=76281980&t=263)** Because it's this game-changing technology that allows to do something that no legacy anonymization technology prior to it was capable of, fully and irreversibly anonymizing big data sets while retaining near perfect data utility.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Privacy]] (8), [[Big Data]] (3), [[Security]] (1), [[Privacy Protection]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Big Data]] (3), [[Privacy Protection]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - if (1)
@@ -260,8 +257,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is synthetic data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980)
+#### [What is synthetic data?](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -271,9 +267,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=8)** So, here is how I define it.
 >
-> **[0:11](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=11)** Privacy-preserving AI-generated synthetic data is an anonymization technology that preserves data utility.
+> **[0:11](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=11)** [[Privacy]]-preserving AI-generated synthetic data is an anonymization technology that preserves data utility.
 >
-> **[0:18](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=18)** It is artificial data that is created by a deep learning model, which is trained on real-world privacy sensitive data, and it can accurately and granularly retain the statistical properties of the real data it was trained upon.
+> **[0:18](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=18)** It is artificial data that is created by a [[Deep Learning]] model, which is trained on real-world privacy sensitive data, and it can accurately and granularly retain the statistical properties of the real data it was trained upon.
 >
 > **[0:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=33)** Yet, it is generated with a holistic set of privacy mechanisms, which ensure that the end result, the synthetic data, is fully anonymous.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=49)** And to explain this, I always like to use images.
 >
-> **[0:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=52)** Even though this course will not focus on images and other types of unstructured data, but unstructured tabular data, like financial transactions, healthcare data, and the like.
+> **[0:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=52)** Even though this course will not focus on images and other types of [[Unstructured Data]], but unstructured tabular data, like financial transactions, healthcare data, and the like.
 >
 > **[1:02](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=62)** So, let's take a look at these photos for a moment.
 >
@@ -297,7 +293,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=92)** It learned things like humans have two eyes, which are roughly positioned in the middle of the face.
 >
-> **[1:37](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=97)** Noses, which come in these shapes, sizes and forms.
+> **[1:37](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=97)** Noses, which come in these shapes, sizes and [[Forms]].
 >
 > **[1:40](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=100)** And hairstyles and skin tones that range from this to that spectrum.
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=146)** And a few years back, having AI-generated photos that looked that realistic was revolutionary.
 >
-> **[2:32](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=152)** But now we have Chat GPT, DALL-E 2, and the power of generative AI has landed in everyone's pocket.
+> **[2:32](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=152)** But now we have Chat GPT, [[DALL-E]] 2, and the power of [[Generative AI]] has landed in everyone's pocket.
 >
 > **[2:39](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=159)** In everyone's smartphone.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=166)** But people are growing and getting accustomed to it.
 >
-> **[2:49](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=169)** But what revolutionized the space of privacy protection was when you combine this power of deep learning together with privacy mechanisms, which made it possible to unleash the power of generative AI on your own data assets that you have within your organization.
+> **[2:49](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=169)** But what revolutionized the space of [[Privacy Protection]] was when you combine this power of deep learning together with privacy mechanisms, which made it possible to unleash the power of generative AI on your own data assets that you have within your organization.
 >
 > **[3:05](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980&t=185)** And why is that relevant?
 >
@@ -339,15 +335,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Privacy]] (7), ai (6), [[Deep Learning]] (4), power (4)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Deep Learning]] (4), [[Generative AI]] (4), [[Unstructured Data]] (1), [[Forms]] (1)
 > **Env Vars:** gpt (1), dall (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### How is synthetic data generated?
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-is-synthetic-data-generated?u=76281980)
+#### [How is synthetic data generated?](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-is-synthetic-data-generated?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -357,13 +352,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-is-synthetic-data-generated?u=76281980&t=8)** Let's walk you through a practical example.
 >
-> **[0:11](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-is-synthetic-data-generated?u=76281980&t=11)** Imagine we have a bank with its customers and their privacy sensitive financial transactions.
+> **[0:11](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-is-synthetic-data-generated?u=76281980&t=11)** Imagine we have a bank with its customers and their [[Privacy]] sensitive financial transactions.
 >
 > **[0:16](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-is-synthetic-data-generated?u=76281980&t=16)** If this bank wants to create a synthetic, fully anonymous version of their customer base, how would they do it?
 >
 > **[0:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-is-synthetic-data-generated?u=76281980&t=23)** First, they would use a synthetic data generator to train on the original privacy sensitive customer data.
 >
-> **[0:29](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-is-synthetic-data-generated?u=76281980&t=29)** And this generator, due to the deep learning algorithm that's part of this generator, is capable to automatically learn all the patterns, the correlations, the time dependencies, anything that is there to learn about the customers.
+> **[0:29](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-is-synthetic-data-generated?u=76281980&t=29)** And this generator, due to the [[Deep Learning]] algorithm that's part of this generator, is capable to automatically learn all the patterns, the correlations, the time dependencies, anything that is there to learn about the customers.
 >
 > **[0:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-is-synthetic-data-generated?u=76281980&t=43)** To simplify, the algorithm can basically understand how the customers of the bank act and behave.
 >
@@ -415,7 +410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Privacy]] (15), [[Deep Learning]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (15), [[Deep Learning]] (2)
 > **CLI Commands:** find (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -424,16 +419,15 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - creating (1)
 
-#### What are the benefits of synthetic data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980)
+#### [What are the benefits of synthetic data?](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=0)** - Using synthetic data instead of real data or data that was anonymized with legacy anonymization comes with a handful of benefits.
 >
-> **[0:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=8)** First, it's obviously privacy protection.
+> **[0:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=8)** First, it's obviously [[Privacy Protection]].
 >
-> **[0:11](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=11)** Your customer's privacy is kept safe and secure.
+> **[0:11](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=11)** Your customer's [[Privacy]] is kept safe and secure.
 >
 > **[0:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=14)** With synthetic data, you have fully anonymous data, which cannot be reverse-engineered, and this is why it's exempted from privacy regulations and free to use and share.
 >
@@ -473,7 +467,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=155)** Obviously, also synthetic data doesn't tell you about the unique unicorn in your customer set, but you get much closer to the edges.
 >
-> **[2:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=163)** You get much better insights, not only about the average Jane and John Doe, but this full spectrum of human diversity.
+> **[2:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=163)** You get much better insights, not only about the average Jane and [[John the Ripper|John]] Doe, but this full spectrum of human diversity.
 >
 > **[2:50](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=170)** And this is something that can translate both in better personalization for different customer segments, but also in the context of fairness in more inclusive services because you see how diverse your customer base actually is.
 >
@@ -501,7 +495,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=260)** It should be a resource that's democratized within your organization, or potentially even beyond the borders of your company.
 >
-> **[4:27](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=267)** Only then can all the creative minds within the different departments see and understand who your customers actually are and come up with new and innovative ideas on how to better serve them or create more innovative products.
+> **[4:27](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=267)** Only then can all the creative minds within the different departments see and understand who your customers actually are and come up with new and innovative ideas on how to better serve them or create more innovative [[Microsoft Products|products]].
 >
 > **[4:40](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-benefits-of-synthetic-data?u=76281980&t=280)** So obviously, synthetic data is an enabling technology.
 >
@@ -515,16 +509,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Privacy]] (4), ai (2), next (2), business (2)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Privacy Protection]] (1), [[John the Ripper|John]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** means that (1), is an  (1)
 > **Speakers:** - using (1)
 
-#### What are the limitations of synthetic data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980)
+#### [What are the limitations of synthetic data?](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=0)** - As we talked about, synthetic data is a tremendous tool to protect privacy and it has many different benefits.
+> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=0)** - As we talked about, synthetic data is a tremendous tool to protect [[Privacy]] and it has many different benefits.
 >
 > **[0:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=6)** But as with everything, synthetic data also comes with limitations.
 >
@@ -542,17 +535,17 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=62)** In some of the cases you might want to consider only sharing a sample of your synthetic data or applying other sampling strategies to not reveal sensitive information about your business.
 >
-> **[1:13](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=73)** Secondly, synthetic data is a big data anonymization technology.
+> **[1:13](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=73)** Secondly, synthetic data is a [[Big Data]] anonymization technology.
 >
 > **[1:18](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=78)** If you think of medical research studies where we sometimes have 20 or 70 people in a sample, you can't synthesize this data set and at the same time preserve its utility.
 >
-> **[1:30](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=90)** In fact, you can't apply any anonymization technology to a sample that small and achieve meaningful privacy protection.
+> **[1:30](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=90)** In fact, you can't apply any anonymization technology to a sample that small and achieve meaningful [[Privacy Protection]].
 >
 > **[1:36](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=96)** Therefore, I would recommend to start thinking about using synthetic data if you have a data set with at least 5,000 or 10,000 customers or employees or whoever your privacy sensitive entity is that you want to protect.
 >
 > **[1:50](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=110)** In practice, most organizations anyways uses on much larger data sets with hundreds of thousands or millions of customers in it.
 >
-> **[1:58](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=118)** As you always get more insights and better synthetic data quality if you have more training data available for the deep learning algorithm to learn from.
+> **[1:58](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=118)** As you always get more insights and better synthetic [[Data Quality]] if you have more training data available for the [[Deep Learning]] algorithm to learn from.
 >
 > **[2:07](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=127)** But just remember that it's not a technology that's appropriate for small data use cases.
 >
@@ -564,7 +557,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=154)** This doesn't mean though, that you can't use synthetic data for personalization.
 >
-> **[2:38](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=158)** You obviously can use it to uncover all the insights in your data, to figure out which patterns actually are important, and build your algorithms to use these patterns to predict customer churn, next best actions, or which products to recommend.
+> **[2:38](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=158)** You obviously can use it to uncover all the insights in your data, to figure out which patterns actually are important, and build your [[Algorithms]] to use these patterns to predict customer churn, next best actions, or which [[Microsoft Products|products]] to recommend.
 >
 > **[2:53](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-limitations-of-synthetic-data?u=76281980&t=173)** But once you apply it to the real customers you obviously need the real data of those customers to make a functioning prediction.
 >
@@ -578,7 +571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Privacy]] (7), business (3), [[Big Data]] (1), [[Privacy Protection]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Big Data]] (1), [[Privacy Protection]] (1), [[Data Quality]] (1), [[Deep Learning]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
@@ -586,14 +579,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### The different categories of synthetic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980)
+#### [The different categories of synthetic data](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=0)** - To round out this chapter on the fundamentals of synthetic data, let's briefly talk about its different categories.
 >
-> **[0:07](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=7)** While this course focuses on AI-generated synthetic data for privacy protection, that's not the only context in which synthetic data is used.
+> **[0:07](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=7)** While this course focuses on AI-generated synthetic data for [[Privacy Protection]], that's not the only context in which synthetic data is used.
 >
 > **[0:16](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=16)** So I think it's helpful for you that synthetic data is not a clearly defined term and can be understood by different people in a different way.
 >
@@ -607,7 +599,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=38)** It has been around for over a decade.
 >
-> **[0:40](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=40)** But back in the days, we had overly simplistic, rule-based mock data which was used for very simplistic software testing processes.
+> **[0:40](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=40)** But back in the days, we had overly simplistic, rule-based mock data which was used for very simplistic [[Software Testing]] processes.
 >
 > **[0:49](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=49)** Today, we have sophisticated AI-generated synthetic data.
 >
@@ -621,7 +613,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=67)** And that's it.
 >
-> **[1:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=68)** With AI-generated synthetic data, on the other hand, the benefit is that the deep learning algorithms allow you to extract and learn and discover all the patterns that are in your original dataset to then have them in a synthetic dataset, ready to be discovered in a privacy safe manner.
+> **[1:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=68)** With AI-generated synthetic data, on the other hand, the benefit is that the [[Deep Learning]] [[Algorithms]] allow you to extract and learn and discover all the patterns that are in your original dataset to then have them in a synthetic dataset, ready to be discovered in a [[Privacy]] safe manner.
 >
 > **[1:25](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=85)** So this is why AI-generated synthetic data is deserving of this hype and allows you to use it for machine learning and many, many other use cases.
 >
@@ -645,7 +637,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=158)** And to train the car, you need to have training data.
 >
-> **[2:41](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=161)** Imagine if you were to hire a video production company to please film hundred thousands of hours of rabbits running on the street at night, at days, during blizzards and so on.
+> **[2:41](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=161)** Imagine if you were to hire a [[Video Production]] company to please film hundred thousands of hours of rabbits running on the street at night, at days, during blizzards and so on.
 >
 > **[2:50](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=170)** Doing that would be terribly expensive and potentially even impossible to gather all the data that you need.
 >
@@ -657,7 +649,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=232)** Synthetic data for privacy protection is what we are going to focus on for the remainder of this course, while synthetic data to create more data where there's a lack of it is an exciting field but will not be covered further down in this course.
 >
-> **[4:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=246)** And lastly, another helpful way to differentiate between synthetic data is whether the data that synthesize is structured data or unstructured data.
+> **[4:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=246)** And lastly, another helpful way to differentiate between synthetic data is whether the data that synthesize is structured data or [[Unstructured Data]].
 >
 > **[4:16](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-different-categories-of-synthetic-data?u=76281980&t=256)** We are focusing on structured data, financial transaction data, healthcare data, insurance claims, demographic data, everything that lives in a table, versus unstructured data would be videos, images, voice, or even unstructured text.
 >
@@ -669,7 +661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), ai (11), [[Privacy Protection]] (5), [[Privacy]] (4), [[Software Testing]] (2)
+> **Frameworks & Libraries:** [[Privacy Protection]] (5), [[Privacy]] (4), [[Software Testing]] (2), [[Unstructured Data]] (2), [[Deep Learning]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is an  (1)
@@ -682,8 +674,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the top synthetic data use cases?
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980)
+#### [What are the top synthetic data use cases?](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,17 +682,17 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=12)** Synthetic data is an enabling technology, and because of this, it should be part of every modern data stack, as this foundational layer that unlocks your data assets for a whole host of different downstream use cases.
 >
-> **[0:26](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=26)** It can help you with a sheer infinite number of business cases where you need high quality, granular, and representative data, that doesn't come with any privacy strings or risks for your customers attached.
+> **[0:26](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=26)** It can help you with a sheer infinite number of business cases where you need high quality, granular, and representative data, that doesn't come with any [[Privacy]] strings or risks for your customers attached.
 >
 > **[0:39](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=39)** With that said, there's one top use case that stands out, synthetic data for machine learning.
 >
 > **[0:45](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=45)** This is by far the most common where we see the most advanced adoption in production setups.
 >
-> **[0:50](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=50)** And the reason why synthetic data is widely used for AI training is simply the sophistication of AI, and that no other application has this high bar of data quality requirements, that as an anonymization technology, only synthetic data can satisfy.
+> **[0:50](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=50)** And the reason why synthetic data is widely used for AI training is simply the sophistication of AI, and that no other application has this high bar of [[Data Quality]] requirements, that as an anonymization technology, only synthetic data can satisfy.
 >
-> **[1:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=68)** Other top use cases for synthetic data are external data sharing to facilitate collaboration with partners, startups, or even researchers.
+> **[1:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=68)** Other top use cases for synthetic data are external [[Data Sharing]] to facilitate collaboration with partners, startups, or even researchers.
 >
-> **[1:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=77)** Digital product development, to give your product teams highly realistic data that represents the full spectrum of your customer diversity, and also allows them to bring products to life, already during the development phase and before they are deployed in production.
+> **[1:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=77)** Digital [[Product Development]], to give your product teams highly realistic data that represents the full spectrum of your customer diversity, and also allows them to bring [[Microsoft Products|products]] to life, already during the development phase and before they are deployed in production.
 >
 > **[1:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=93)** Then, data analytics, which is closely related to the use of synthetic data for AI development, as it comes with the similar data requirements.
 >
@@ -709,7 +700,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=126)** But as I said, it's an enabling technology.
 >
-> **[2:10](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=130)** So there are also use cases in software testing, cloud migration, data retention, cross-border reporting within global organizations, and more recently even in the area of responsible AI, where synthetic data can be used for AI fairness, explainability, or AI governance, as well as for data augmentation, simulation, and data diversification.
+> **[2:10](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=130)** So there are also use cases in [[Software Testing]], cloud migration, data retention, cross-border reporting within global organizations, and more recently even in the area of [[Responsible AI]], where synthetic data can be used for AI fairness, explainability, or [[AI Governance]], as well as for data augmentation, [[Simulation]], and data diversification.
 >
 > **[2:31](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980&t=151)** If you're curious to learn more, we'll delve deeper into the top use cases for synthetic data in the following videos of this chapter.
 >
@@ -717,26 +708,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), ai (7), business (2), [[Privacy]] (1), application (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (2), [[Privacy]] (1), [[Data Quality]] (1), [[Product Development]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
-#### Which industries benefit the most from synthetic data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980)
+#### [Which industries benefit the most from synthetic data?](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=0)** - To complete this high level overview of how and where synthetic data is used in practice, let's talk a bit about the industries that have adopted synthetic data so far.
 >
-> **[0:10](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=10)** Generally speaking, the strongest adoption of synthetic data for privacy protection can be seen within larger business to consume organizations and enterprises.
+> **[0:10](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=10)** Generally speaking, the strongest adoption of synthetic data for [[Privacy Protection]] can be seen within larger business to consume organizations and enterprises.
 >
-> **[0:19](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=19)** But the pioneers that have been using AI generated synthetic data the longest can be found in heavily regulated industries, the banking sector, insurance organizations, and healthcare providers.
+> **[0:19](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=19)** But the pioneers that have been using AI generated synthetic data the longest can be found in heavily regulated industries, the [[Banking]] sector, insurance organizations, and healthcare providers.
 >
 > **[0:32](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=32)** What all of them have in common is the long history of having to comply with complex and strict sector regulations paired with the overall objective to never ever lose customer trust.
 >
-> **[0:44](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=44)** And these two things translate to those organizations taking regulatory compliance, including privacy seriously.
+> **[0:44](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=44)** And these two things translate to those organizations taking [[Regulatory Compliance]], including [[Privacy]] seriously.
 >
-> **[0:53](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=53)** As a consequence and in contrast to less heavily regulated industries, the data and AI teams within those organizations are the most burdened by internal policies and all the privacy compliance procedures that come along with that.
+> **[0:53](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=53)** As a consequence and in contrast to less heavily regulated industries, the data and AI teams within those organizations are the most burdened by internal policies and all the [[Privacy Compliance]] procedures that come along with that.
 >
 > **[1:07](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=67)** And very often they're also frustrated because accessing data is something that just takes ages and this is why some of our customers from banking, insurance, and healthcare also start to appreciate one of the secondary benefits of synthetic data, talent attraction and retention.
 >
@@ -748,7 +738,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=116)** If we can eliminate that, we are better able to attract talent."
 >
-> **[2:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=121)** That said, synthetic data is also being used in retail, telecommunications, and public sector, and I can't really see any industry or organization that deals with privacy sensitive customer or employee data that would not benefit from synthetic data.
+> **[2:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=121)** That said, synthetic data is also being used in retail, [[Telecommunications]], and public sector, and I can't really see any industry or organization that deals with privacy sensitive customer or employee data that would not benefit from synthetic data.
 >
 > **[2:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=137)** The only two things that are important as a kind of prerequisite, first, you need to have data, and you already notice, privacy preserving synthetic data is used to anonymize existing data and it's not created out of thin air.
 >
@@ -760,7 +750,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=174)** And secondly, you need to have a certain data maturity level.
 >
-> **[2:58](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=178)** If you don't yet have proper data management in place your data is stuck in all the different silos across your organization and you don't even have an overview of what your data assets are, or a general idea of business cases that you could realize with your data once you've overcome the privacy hurdle, then these are all signs that it might be too early for you to use synthetic data and get meaningful results out of it.
+> **[2:58](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=178)** If you don't yet have proper [[Data Management]] in place your data is stuck in all the different silos across your organization and you don't even have an overview of what your data assets are, or a general idea of business cases that you could realize with your data once you've overcome the privacy hurdle, then these are all signs that it might be too early for you to use synthetic data and get meaningful results out of it.
 >
 > **[3:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/which-industries-benefit-the-most-from-synthetic-data?u=76281980&t=203)** To summarize, synthetic data is relevant for many different industries that deal with privacy sensitive data, but the strongest adoption is within financial services, insurance industry, and healthcare.
 >
@@ -768,12 +758,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Privacy]] (5), business (3), ai (2), [[Banking]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Banking]] (2), [[Privacy Protection]] (1), [[Regulatory Compliance]] (1), [[Privacy Compliance]] (1)
 > **Prerequisites:** you need to have (2), prerequisite (1)
 > **Speakers:** - to (1)
 
-#### Synthetic data for privacy: Preserving AI training
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980)
+#### [Synthetic data for privacy: Preserving AI training](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,11 +774,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=16)** What was the problem they encountered over and over again?
 >
-> **[0:20](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=20)** Data access and data quality challenges.
+> **[0:20](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=20)** Data access and [[Data Quality]] challenges.
 >
 > **[0:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=23)** It's a challenge to share with so many AI and data analytics teams I talk with.
 >
-> **[0:29](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=29)** Production data is off limits due to privacy constraints.
+> **[0:29](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=29)** Production data is off limits due to [[Privacy]] constraints.
 >
 > **[0:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=33)** But finding ways around it with legacy anonymization neither gives them the data quality and granularity that the need for AI development, nor is it fast enough having to wait months on data before they can even start with the actual work, or any kind of data exploration doesn't set them up to be successful in the chops or the organization to reap any meaningful benefits from AI adoption.
 >
@@ -813,7 +802,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=132)** And since I mentioned sharing synthetic data earlier, another common challenge that many AI teams face is that internal policies don't permit them to use personal customer data or production data in the public cloud.
 >
-> **[2:28](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=148)** But to be efficient and to not have to build everything from scratch, they want to get access not only to the powerful infrastructure that the cloud provides, but especially to the cloud-native AI and ML tools that one can find on leading cloud platforms, like Azure and AWS.
+> **[2:28](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=148)** But to be efficient and to not have to build everything from scratch, they want to get access not only to the powerful infrastructure that the cloud provides, but especially to the cloud-native AI and ML tools that one can find on leading cloud platforms, like [[Microsoft Azure|Azure]] and AWS.
 >
 > **[2:45](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=165)** But because synthetic data is anonymous and privacy-safe, it can be used in the cloud and grant your team's access to all the AI and ML resources that are available there.
 >
@@ -833,7 +822,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=228)** Instead, you get a complete structurally identical synthetic version of your dataset, where all the 150 or 750 columns are populated with representative synthetic data, and therefore you have much more potential to uncover relevant insights and profitable patterns.
 >
-> **[4:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=246)** We are using artificial intelligence.
+> **[4:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=246)** We are using [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[4:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=248)** Or obviously, also as a human who is analyzing the data.
 >
@@ -847,7 +836,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=283)** Why do I even bother to point it out, you might wonder?
 >
-> **[4:46](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=286)** Because in the context of responsible AI, one fundamental principle is that AI should be human-centered and that the human needs to stay in the loop.
+> **[4:46](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=286)** Because in the context of [[Responsible AI]], one fundamental principle is that AI should be human-centered and that the human needs to stay in the loop.
 >
 > **[4:56](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-privacy-preserving-ai-training?u=76281980&t=296)** But while there are other privacy-enhancing technologies in short paths like homomorphic encryption, federated learning, or secure multi-party computation, what they all have in common is that they're only comprehendible and usable by machines.
 >
@@ -859,21 +848,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (37), ai (12), cloud (6), [[Privacy]] (3), teams (2)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[Privacy]] (3), [[Microsoft Azure|Azure]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1), find (1), aws (1)
 > **Cross-References:** we covered (1), later in (1)
 > **Env Vars:** aws (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
 
-#### Synthetic data for external data sharing
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-external-data-sharing?u=76281980)
+#### [Synthetic data for external data sharing](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-external-data-sharing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-external-data-sharing?u=76281980&t=0)** - Internally sharing data across departments is tough and it takes lots of time.
 >
-> **[0:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-external-data-sharing?u=76281980&t=6)** But wanting to get data out of the organization to share it with external collaboration partners, this is usually what makes the (inaudible) of privacy and legal teams ring.
+> **[0:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-external-data-sharing?u=76281980&t=6)** But wanting to get data out of the organization to share it with external collaboration partners, this is usually what makes the (inaudible) of [[Privacy]] and legal teams ring.
 >
 > **[0:15](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-external-data-sharing?u=76281980&t=15)** So while there's a strong need for businesses to externally share data, to collaborate with innovation partners or validate startups, most teams task with these type of data collaboration projects are everything but satisfied.
 >
@@ -883,7 +871,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-external-data-sharing?u=76281980&t=43)** Now, if you put yourself into the shoes of large organizations that sometimes have to collaborate with or validate 10 thousands of vendors and startups per year, this problem multiplies and the amount of manual work that's involved costs millions and millions of dollars.
 >
-> **[0:59](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-external-data-sharing?u=76281980&t=59)** And this again, brings us to why synthetic data is such an important technology to streamline these external data sharing use cases, and facilitate your teams and also your external partners to collaborate on granular, meaningful data.
+> **[0:59](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-external-data-sharing?u=76281980&t=59)** And this again, brings us to why synthetic data is such an important technology to streamline these external [[Data Sharing]] use cases, and facilitate your teams and also your external partners to collaborate on granular, meaningful data.
 >
 > **[1:13](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-external-data-sharing?u=76281980&t=73)** Because as you know, it's anonymous, it's privacy safe, and therefore it's free to share in compliance with privacy laws.
 >
@@ -901,26 +889,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Privacy]] (4), teams (3), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Sharing]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - internally (1)
 
-#### Synthetic data for digital product development
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980)
+#### [Synthetic data for digital product development](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980&t=0)** - A product development lead at a bank we were working with once told me, "I never would have thought that customers with a financial behavior that strange actually existed."
+> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980&t=0)** - A [[Product Development]] lead at a bank we were working with once told me, "I never would have thought that customers with a financial behavior that strange actually existed."
 >
 > **[0:09](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980&t=9)** He realized this after discovering a micro-segment of synthetic customers, which had a particularly odd income and spending behavior.
 >
-> **[0:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980&t=17)** Prior to that, he and his team only had access to unrealistic dummy data to develop their products.
+> **[0:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980&t=17)** Prior to that, he and his team only had access to unrealistic dummy data to develop their [[Microsoft Products|products]].
 >
 > **[0:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980&t=23)** But the problem with dummy data is it's not realistic, and therefore it's of very limited use for product development teams that want to develop outstanding products with outstanding customer experiences.
 >
 > **[0:34](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980&t=34)** Once they had access to synthetic data, what it allowed them to do was bring their product to life before it was deployed.
 >
-> **[0:41](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980&t=41)** They could finally see how it would look like for all the different micro-segments of customers, how the digital banking app they were building looked for the college students, the retirees, or even the top managers, single moms, with a yearly income of over $100k.
+> **[0:41](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980&t=41)** They could finally see how it would look like for all the different micro-segments of customers, how the digital [[Banking]] app they were building looked for the college students, the retirees, or even the top managers, single moms, with a yearly income of over $100k.
 >
 > **[0:56](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-digital-product-development?u=76281980&t=56)** So it was a big game changer for them in tweaking the product and improving the customer experience for all the different customer segments.
 >
@@ -952,14 +939,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Products|Products]] (4), product (4), [[Product Development]] (2), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Product Development]] (2), [[Banking]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Synthetic data for open data and data democratization
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980)
+#### [Synthetic data for open data and data democratization](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,13 +953,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=6)** There are a few big tech companies that have the majority of the world's data assets, many large organizations that have enough data to work with, and plenty of smaller organizations, researchers, NGOs that don't have meaningful data to use.
 >
-> **[0:21](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=21)** And that's a problem given data's foundational role in accelerating AI adoption and digital transformation.
+> **[0:21](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=21)** And that's a problem given data's foundational role in accelerating AI adoption and [[Digital Transformation]].
 >
 > **[0:29](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=29)** This is why around the globe, governments, policymakers and even institutions like the United Nations are looking into open data and data as a commons, which means data is a common good that can be used by anyone, to ensure that the results of AI and data-driven innovation benefit not only a few big companies but also SMEs, startups, researchers, and society at large.
 >
 > **[0:53](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=53)** So why synthetic data relevant here?
 >
-> **[0:56](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=56)** Well, the first thing, privacy.
+> **[0:56](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=56)** Well, the first thing, [[Privacy]].
 >
 > **[0:58](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=58)** Privacy is a big reason because we want to reap the benefits of data but not at the cost of our privacy.
 >
@@ -989,7 +975,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=103)** And here, synthetic data helps to develop AI that works for everyone equally, not only for the majority class.
 >
-> **[1:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=112)** While I do believe that also the private sector can benefit from open synthetic data sharing and some companies have already openly shared it to facilitate collaboration with external partners, to date, this use case is most relevant for public sector.
+> **[1:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=112)** While I do believe that also the private sector can benefit from open synthetic [[Data Sharing]] and some companies have already openly shared it to facilitate collaboration with external partners, to date, this use case is most relevant for public sector.
 >
 > **[2:07](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-open-data-and-data-democratization?u=76281980&t=127)** But related to open synthetic data is data democratization where you internally release data to many, if not all departments within your organization.
 >
@@ -1013,29 +999,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), [[Privacy]] (5), ai (4), power (2), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Sharing]] (2), [[Digital Transformation]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - data (1)
 
-#### Additional uses: Data augmentation, simulation, and RAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980)
+#### [Additional uses: Data augmentation, simulation, and RAI](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=0)** - All use cases that we covered up until here had one main objective, protecting privacy and unlocking existing data in a privacy safe manner so that it was free to use for various downstream use cases.
+> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=0)** - All use cases that we covered up until here had one main objective, protecting [[Privacy]] and unlocking existing data in a privacy safe manner so that it was free to use for various downstream use cases.
 >
 > **[0:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=14)** But synthetic data cannot only give you privacy safes statistically representative data that's replicating your customer data.
 >
-> **[0:22](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=22)** Thanks to the power of generative AI, you can do much more with it and improve your data quality.
+> **[0:22](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=22)** Thanks to the power of [[Generative AI]], you can do much more with it and improve your [[Data Quality]].
 >
 > **[0:28](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=28)** We all know that real data is not perfect particularly if you're a data scientist, then you know how much time you spend on pre-processing your data.
 >
 > **[0:36](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=36)** We have missing values.
 >
-> **[0:37](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=37)** We have important segments that are underrepresented like fraud cases, which is a problem for machine learning algorithms then to even detect them or minority groups which are not present in your data which can lead to issues in the space of AI fairness.
+> **[0:37](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=37)** We have important segments that are underrepresented like fraud cases, which is a problem for machine learning [[Algorithms]] then to even detect them or minority groups which are not present in your data which can lead to issues in the space of AI fairness.
 >
 > **[0:51](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=51)** And to counteract this, there's this fascinating quickly evolving area around synthetic data beyond privacy where you can augment the data that you have and for example, smartly impute or handle missing values which saves loads of time in data pre-processing or you can rebalance it which can help you with fraud detection.
 >
@@ -1045,11 +1030,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=88)** And generally speaking, this whole area of synthetic data beyond privacy allows you to inject your human expertise and your domain knowledge to make synthetic data even more valuable and even more useful than the real data that was initially collected.
 >
-> **[1:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=103)** And all of this is not only interesting for analytical use cases but it's also an important puzzle piece particularly if you're interested in responsible AI because it can help you with AI fairness, explainability of AI, and even external AI audits and AI assurance.
+> **[1:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=103)** And all of this is not only interesting for analytical use cases but it's also an important puzzle piece particularly if you're interested in [[Responsible AI]] because it can help you with AI fairness, explainability of AI, and even external AI audits and AI assurance.
 >
 > **[2:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=120)** And we are actually going to look into this intersection of synthetic data and how it helps with the different domains of responsible AI later in this course.
 >
-> **[2:09](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=129)** And if you're a data scientist or a data analyst whenever it is that you're taking this course, I do encourage you to check out the state-of-the-art synthetic data capabilities that don't neglect privacy but go one step beyond and give you privacy protection in combination with added data quality benefits.
+> **[2:09](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=129)** And if you're a data scientist or a data analyst whenever it is that you're taking this course, I do encourage you to check out the state-of-the-art synthetic data capabilities that don't neglect privacy but go one step beyond and give you [[Privacy Protection]] in combination with added data quality benefits.
 >
 > **[2:27](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/additional-uses-data-augmentation-simulation-and-rai?u=76281980&t=147)** Because there's so much happening right now and I'm sure there will be more features and possibilities than those that are shared in this overview.
 >
@@ -1059,7 +1044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Privacy]] (6), ai (6), [[Responsible AI]] (2), power (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Quality]] (2), [[Responsible AI]] (2), [[Generative AI]] (1), [[Algorithms]] (1)
 > **Cross-References:** we covered (1), later in (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1071,18 +1056,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What executives should know about synthetic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980)
+#### [What executives should know about synthetic data](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=0)** - In order to transform data from a liability to an asset, using synthetic data instead of your real data is one of the three key actions that AI and data leaders should take, according to Gartner.
 >
-> **[0:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=14)** AI-generated synthetic data is widely seen as the key enabler for privacy-preserving AI and data-driven innovation.
+> **[0:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=14)** AI-generated synthetic data is widely seen as the key enabler for [[Privacy]]-preserving AI and data-driven innovation.
 >
 > **[0:22](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=22)** What is it, you might wonder?
 >
-> **[0:24](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=24)** It's a deep learning-based anonymization technology that allows you to anonymize big data while retaining near-perfect data utility.
+> **[0:24](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=24)** It's a [[Deep Learning]]-based anonymization technology that allows you to anonymize [[Big Data]] while retaining near-perfect data utility.
 >
 > **[0:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=33)** Synthetic data is also the only anonymization technology out there that can unlock your most valuable data assets in a safe manner.
 >
@@ -1094,11 +1078,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=73)** Important to note with synthetic data, it's neither a new nor clearly defined term.
 >
-> **[1:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=77)** This course focuses on AI-generated structured synthetic data that's created for the purpose of privacy protection of data anonymization.
+> **[1:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=77)** This course focuses on AI-generated structured synthetic data that's created for the purpose of [[Privacy Protection]] of data anonymization.
 >
 > **[1:26](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=86)** Therefore, when you further research synthetic data or talk about it with your teams, make sure that you're all on the same page which type of synthetic data actually talking about.
 >
-> **[1:36](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=96)** While all the types of synthetic data, like overly simplistic, rule-based, or mock synthetic data, were of very limited use and only used for some simple software testing, today, everybody's talking about AI-generated synthetic data, and the main benefits of AI-generated privacy preserving synthetic data are those four things.
+> **[1:36](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=96)** While all the types of synthetic data, like overly simplistic, rule-based, or mock synthetic data, were of very limited use and only used for some simple [[Software Testing]], today, everybody's talking about AI-generated synthetic data, and the main benefits of AI-generated privacy preserving synthetic data are those four things.
 >
 > **[1:57](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=117)** First, you have extremely strong privacy protection, which helps with compliance.
 >
@@ -1110,13 +1094,13 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=145)** Instead of waiting weeks or months before you get data, with synthetic data, you can have data available within a few hours or a business day.
 >
-> **[2:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=153)** And this is something that not only increases the time to value of your projects, but that also helps to attract and retain top data science talent, which craves data and gets frustrated if accessing it takes too long.
+> **[2:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=153)** And this is something that not only increases the time to value of your projects, but that also helps to attract and retain top [[Data Science]] talent, which craves data and gets frustrated if accessing it takes too long.
 >
 > **[2:47](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=167)** Third, cost savings.
 >
 > **[2:48](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=168)** Because you can automate so much with synthetic data generation and you don't have these manual cumbersome processes, which were previously involved in legacy data anonymization, this translates in benefits to your costs and your bottom line.
 >
-> **[3:02](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=182)** And lastly, data quality and utility, because in contrast to legacy anonymization, you can retain near perfect data utility.
+> **[3:02](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=182)** And lastly, [[Data Quality]] and utility, because in contrast to legacy anonymization, you can retain near perfect data utility.
 >
 > **[3:11](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=191)** You don't get 100% compared to your production data, but you get as close as possible without infringing any privacy-sensitive parts of your data.
 >
@@ -1126,13 +1110,13 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=220)** In terms of industries, the industries that benefit the most from synthetic data are those who are heavily regulated, and thus naturally have a much harder time with accessing data and data-driven innovation.
 >
-> **[3:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=232)** I'm talking about banking, insurance, healthcare, but also the retail industry, the telecommunication industry or public sector can benefit from synthetic data.
+> **[3:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=232)** I'm talking about [[Banking]], insurance, healthcare, but also the retail industry, the telecommunication industry or public sector can benefit from synthetic data.
 >
 > **[4:03](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=243)** Basically, every industry that is dealing with privacy-sensitive customer or employee data.
 >
 > **[4:09](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=249)** The use case that's most relevant for synthetic data is AI training.
 >
-> **[4:13](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=253)** That's by far the most common use case, but it's also used for external data sharing, digital product development, cloud migration, responsible AI governance, AI fairness, explainable AI, data democratization, and many, many other things.
+> **[4:13](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=253)** That's by far the most common use case, but it's also used for external [[Data Sharing]], digital [[Product Development]], cloud migration, [[Responsible AI]] governance, AI fairness, explainable AI, data democratization, and many, many other things.
 >
 > **[4:28](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980&t=268)** If you're curious to learn more about the synthetic data use cases in detail, I highly recommend you check out the use case chapter of this course.
 >
@@ -1142,14 +1126,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (51), ai (11), [[Privacy]] (7), teams (3), [[Privacy Protection]] (3)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Privacy Protection]] (3), [[Deep Learning]] (1), [[Big Data]] (1), [[Software Testing]] (1)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
-#### How to tie synthetic data to your strategic objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-tie-synthetic-data-to-your-strategic-objectives?u=76281980)
+#### [How to tie synthetic data to your strategic objectives](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-tie-synthetic-data-to-your-strategic-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,7 +1148,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-tie-synthetic-data-to-your-strategic-objectives?u=76281980&t=30)** It unlocks data that previously wasn't accessible.
 >
-> **[0:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-tie-synthetic-data-to-your-strategic-objectives?u=76281980&t=33)** It also significantly improves data quality in contrast to what your teams previously had to work with when still using legacy anonymization, which increases the predictive performance of your models and again, opens up new opportunities to innovate with data and foster customer centricity by giving a much broader range of employees access to granular, representative, yet privacy-safe customer data.
+> **[0:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-tie-synthetic-data-to-your-strategic-objectives?u=76281980&t=33)** It also significantly improves [[Data Quality]] in contrast to what your teams previously had to work with when still using legacy anonymization, which increases the predictive performance of your models and again, opens up new opportunities to innovate with data and foster customer centricity by giving a much broader range of employees access to granular, representative, yet [[Privacy]]-safe customer data.
 >
 > **[0:58](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-tie-synthetic-data-to-your-strategic-objectives?u=76281980&t=58)** It's also a game changer in terms of speed and data access.
 >
@@ -1205,7 +1188,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-tie-synthetic-data-to-your-strategic-objectives?u=76281980&t=243)** What if instead of your teams only getting access to data once they have a promising proposal of what they want to do with it, what if every employer within your organization had access to realistic, representative, yet privacy-safe synthetic customer data?
 >
-> **[4:20](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-tie-synthetic-data-to-your-strategic-objectives?u=76281980&t=260)** How much innovation could be unleashed if all the creative minds within your company could take a look at your customer base, truly understand who your customers are, what the value, how to behave, and what new services or products they would appreciate?
+> **[4:20](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-tie-synthetic-data-to-your-strategic-objectives?u=76281980&t=260)** How much innovation could be unleashed if all the creative minds within your company could take a look at your customer base, truly understand who your customers are, what the value, how to behave, and what new services or [[Microsoft Products|products]] they would appreciate?
 >
 > **[4:34](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-tie-synthetic-data-to-your-strategic-objectives?u=76281980&t=274)** What if democratizing access to data would empower more people with their respective professional hats on with their unique perspectives and brilliantly creative minds to chime in on innovation and make suggestions, how and where your company could be improved to more efficient, more innovative, or more customer centric?
 >
@@ -1229,13 +1212,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (47), ai (6), teams (6), [[Analytics]] (3), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Data Quality]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - there (1)
 
-#### Best practices for introducing synthetic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980)
+#### [Best practices for introducing synthetic data](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1249,7 +1231,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=54)** Prior to validating synthetic data and comparing different tools and solution, my biggest advice is to build a strong synthetic data case.
 >
-> **[1:04](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=64)** When you take a step back and assess your current data management process, systems in use, bottlenecks, where would you have to put synthetic data generation capabilities to have the strongest impact on your organization's data and analytic capabilities?
+> **[1:04](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=64)** When you take a step back and assess your current [[Data Management]] process, systems in use, bottlenecks, where would you have to put synthetic data generation capabilities to have the strongest impact on your organization's data and analytic capabilities?
 >
 > **[1:20](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=80)** Secondly, most often it makes sense to task a cross-functional team with further evaluating synthetic data where you have both synthetic data champions on the generation side as well as synthetic data champions on the consumption side.
 >
@@ -1259,7 +1241,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=111)** And if they are not on board and not incentivized, then your synthetic data journey can be off to a rough start and be at risk of getting stuck.
 >
-> **[2:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=120)** Aside from that, it makes sense to early on include legal and privacy teams and invite them to education sessions about the what and why of synthetic data, particularly in the context of compliance with privacy laws.
+> **[2:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=120)** Aside from that, it makes sense to early on include legal and [[Privacy]] teams and invite them to education sessions about the what and why of synthetic data, particularly in the context of compliance with privacy laws.
 >
 > **[2:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=134)** And lastly, executive sponsorship is one of the decisive factors why some organizations have success with synthetic data and others do not.
 >
@@ -1293,7 +1275,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=262)** So it's also a usability issue.
 >
-> **[4:25](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=265)** A very important factor in making this decision is also your data quality requirements and whether you want to use synthetic time series or behavioral data.
+> **[4:25](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=265)** A very important factor in making this decision is also your [[Data Quality]] requirements and whether you want to use synthetic time series or behavioral data.
 >
 > **[4:34](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=274)** This is usually the point when most organization who first try to build synthetic data generators themself go towards commercial providers.
 >
@@ -1301,7 +1283,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=289)** That's not something that comes automatically with every solution.
 >
-> **[4:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=292)** So yes, you can build synthetic data yourself but make sure that the teams not only have the deep learning expertise but also the deep privacy expertise that's necessary to build synthetic data that's actually fully anonymous.
+> **[4:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=292)** So yes, you can build synthetic data yourself but make sure that the teams not only have the [[Deep Learning]] expertise but also the deep privacy expertise that's necessary to build synthetic data that's actually fully anonymous.
 >
 > **[5:07](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/best-practices-for-introducing-synthetic-data?u=76281980&t=307)** And the fifth point is, enable your organization through effective deployment.
 >
@@ -1317,15 +1299,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (59), business (6), teams (4), [[Privacy]] (4), management (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Management]] (1), [[Data Quality]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Best Practices:** best practice (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - further (1)
 
-#### Measuring the business impact of synthetic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980)
+#### [Measuring the business impact of synthetic data](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1337,11 +1318,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980&t=44)** And there are many areas where it makes sense to calculate whether and how much you are actually benefiting when using synthetic data.
 >
-> **[0:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980&t=52)** But at the same time, it's important to not lose sight of all the strategically, highly-relevant areas where synthetic data can have a tremendous impact, but one that's much harder to calculate or express in numbers, like the mitigation of privacy risks and potential data breaches, and the reputational costs that would come attached with that.
+> **[0:52](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980&t=52)** But at the same time, it's important to not lose sight of all the strategically, highly-relevant areas where synthetic data can have a tremendous impact, but one that's much harder to calculate or express in numbers, like the mitigation of [[Privacy]] risks and potential data breaches, and the reputational costs that would come attached with that.
 >
 > **[1:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980&t=74)** Or overall operational efficiency across your data units where it might be tricky to pinpoint where and how much this means in terms of dollars saved.
 >
-> **[1:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980&t=83)** Like one of our customers once said, "In a strictly regulated environment like ours," he was talking about the banking industry.
+> **[1:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980&t=83)** Like one of our customers once said, "In a strictly regulated environment like ours," he was talking about the [[Banking]] industry.
 >
 > **[1:31](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980&t=91)** "When you want to do a project with data, a large amount of time is dedicated not to work on the data, but to get permission to use the data, make sure that all the safety and privacy measures are properly in place."
 >
@@ -1357,21 +1338,20 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980&t=157)** How do you compare and calculate the amount of innovation that you lost out on?
 >
-> **[2:42](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980&t=162)** So consider this as a reminder that putting numbers to synthetic data does make sense, but don't let numbers stand in the way of also thinking about how to adopt synthetic data within your organization to future-proof it and bring it to the next level of digital transformation.
+> **[2:42](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/measuring-the-business-impact-of-synthetic-data?u=76281980&t=162)** So consider this as a reminder that putting numbers to synthetic data does make sense, but don't let numbers stand in the way of also thinking about how to adopt synthetic data within your organization to future-proof it and bring it to the next level of [[Digital Transformation]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Privacy]] (2), express (1), [[Banking]] (1), power (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Banking]] (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Building trust in synthetic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980)
+#### [Building trust in synthetic data](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=0)** - A banking executive we've been working with for years once said about synthetic data that the trust in it is an internal challenge, and the question is, do we trust synthetic data as an accurate data source?
+> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=0)** - A [[Banking]] executive we've been working with for years once said about synthetic data that the trust in it is an internal challenge, and the question is, do we trust synthetic data as an accurate data source?
 >
 > **[0:13](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=13)** He then continued to explain that he was very skeptical about this new technology himself in the beginning, because the patterns and the signals he could see in the synthetic data records told him something about his customer base that was counter to what he believed.
 >
@@ -1381,7 +1361,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=50)** And I can totally agree with that, because this is an evolution I observe at nearly every organization that's starting to work with synthetic data.
 >
-> **[0:58](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=58)** First, there are skeptics, and that's understandable, as synthetic data is a paradigm shift in how we work with data, away from real data to a nearly as good yet completely privacy safe alternative.
+> **[0:58](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=58)** First, there are skeptics, and that's understandable, as synthetic data is a paradigm shift in how we work with data, away from real data to a nearly as good yet completely [[Privacy]] safe alternative.
 >
 > **[1:12](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=72)** And after watching many companies go through this process, my recommendation to you are two things.
 >
@@ -1391,11 +1371,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=93)** Get it in the hands of every data scientist, engineer, and employee that should be a synthetic data consumer, because only when people start to use it, when they can put it to the test and see over and over again that synthetic data gives them the same results as the real data, they will rely on it just as they do on their production data.
 >
-> **[1:54](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=114)** What also aids in building up trust in synthetic data but is aimed more towards data governance and privacy professionals are education and in-depth sessions about synthetic data privacy, where you explain the what, why, and how of privacy preserving AI-generated synthetic data and present the privacy mechanisms of the specific synthetic data generator you want to deploy.
+> **[1:54](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=114)** What also aids in building up trust in synthetic data but is aimed more towards [[Data Governance]] and privacy professionals are education and in-depth sessions about synthetic [[Data Privacy]], where you explain the what, why, and how of privacy preserving AI-generated synthetic data and present the privacy mechanisms of the specific synthetic data generator you want to deploy.
 >
 > **[2:19](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=139)** Plus also give an in-depth explanation of why these privacy mechanisms work in producing anonymous outcomes.
 >
-> **[2:26](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=146)** You can even show them how synthetic data can help with internal responsible AI governance, which might be a topic they're currently dealing with and very interested to learn more about.
+> **[2:26](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=146)** You can even show them how synthetic data can help with internal [[Responsible AI]] governance, which might be a topic they're currently dealing with and very interested to learn more about.
 >
 > **[2:37](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/building-trust-in-synthetic-data?u=76281980&t=157)** These types of sessions, particularly with senior data governance and privacy executives or committees that have lots of leverage within your organization, usually make sense after the technical validation of synthetic data is completed.
 >
@@ -1407,7 +1387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Privacy]] (8), [[Banking]] (1), ai (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Data Governance]] (2), [[Banking]] (1), [[Data Privacy]] (1), [[Responsible AI]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (2)
 > **Warnings:** be aware (1)
@@ -1418,8 +1398,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to get started with synthetic data as a data scientist
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980)
+#### [How to get started with synthetic data as a data scientist](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1431,19 +1410,19 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=17)** First, I mentioned it throughout the course, but let me reemphasize it because it's so important.
 >
-> **[0:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=23)** Not all synthetic data is automatically privacy safe.
+> **[0:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=23)** Not all synthetic data is automatically [[Privacy]] safe.
 >
 > **[0:26](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=26)** So whether you build synthetic data yourself, use an open-source generator or a commercial one.
 >
 > **[0:32](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=32)** Make sure that the necessary privacy mechanisms are in place.
 >
-> **[0:35](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=35)** And we actually have a deep dive on synthetic data privacy later in this course.
+> **[0:35](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=35)** And we actually have a deep dive on synthetic [[Data Privacy]] later in this course.
 >
 > **[0:40](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=40)** Second, talking about building or buying, while you can absolutely build synthetic data generators yourself from scratch or use one of the many open-source libraries, the Joint Research Center of the European Commission published a report on synthetic data in 2022.
 >
 > **[0:55](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=55)** And they also made an in-depth comparison of different open-source versus closed-source solutions.
 >
-> **[1:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=61)** And what they found was that commercial systems beat the open-source systems by a huge margin, not only in terms of accuracy and data quality that was achieved, but also in elements like the use of friendliness, the ease of use, and the amount of pre-processing that was required, which ranged from a few clicks to having to pre-process data from any person months.
+> **[1:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=61)** And what they found was that commercial systems beat the open-source systems by a huge margin, not only in terms of accuracy and [[Data Quality]] that was achieved, but also in elements like the use of friendliness, the ease of use, and the amount of pre-processing that was required, which ranged from a few clicks to having to pre-process data from any person months.
 >
 > **[1:22](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980&t=82)** So particularly when you want to synthesize more complex data, time series data, or behavioral data, this is usually the point where most enterprise organizations turn to a specialized synthetic data vendor to get this synthesized.
 >
@@ -1463,18 +1442,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), open-source (6), [[Privacy]] (4), next (1), teams (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Privacy]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Analogies:** picture (2)
 > **Speakers:** - as (1)
 
-#### Hands-on: Generating privacy-preserving synthetic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980)
+#### [Hands-on: Generating privacy-preserving synthetic data](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=0)** - [Instructor] To show you how easy and straightforward it is to synthesize privacy preserving synthetic data, let's go to the Mostly AI platform.
+> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=0)** - [Instructor] To show you how easy and straightforward it is to synthesize [[Privacy]] preserving synthetic data, let's go to the Mostly AI platform.
 >
 > **[0:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=8)** Just type in synthetic.[mostly.ai](https://mostly.ai).
 >
@@ -1490,7 +1468,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=49)** To start the synthesization process, just grab the file Paris dash training dot CSV and drag it into the box on the left.
 >
-> **[1:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=61)** If you later on want to repeat this exercise with your own data sources, you can also directly connect to different databases like Snowflake, Oracle, or to cloud storage instead of directly uploading your file.
+> **[1:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=61)** If you later on want to repeat this exercise with your own data sources, you can also directly connect to different [[Databases]] like [[Snowflake]], Oracle, or to [[Cloud Storage]] instead of directly uploading your file.
 >
 > **[1:13](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=73)** Now that our file is uploaded, everything that is left to do is find the launch job button and press it.
 >
@@ -1540,7 +1518,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=249)** For our machine learning task later on, we want to have the exact same number of real versus synthetic records for fair comparison.
 >
-> **[4:16](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=256)** But if you, for example, use conditional generation and trend platform on your entire database of let's say 1 million customers, 2 million, 20 million customers, but then only want to have synthetic college students or synthetic top earners amongst your customers who have bought at least three or five products.
+> **[4:16](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=256)** But if you, for example, use conditional generation and trend platform on your entire database of let's say 1 million customers, 2 million, 20 million customers, but then only want to have synthetic college students or synthetic top earners amongst your customers who have bought at least three or five [[Microsoft Products|products]].
 >
 > **[4:36](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=276)** Whatever you specify, you can conditionally generate an arbitrary number of synthetic customers that fulfill your selected requirements.
 >
@@ -1562,7 +1540,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=358)** And as you can see here, the synthetic data.
 >
-> **[6:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=361)** Let's maybe zoom in a little bit on price, for example.
+> **[6:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=361)** Let's maybe [[Zoom]] in a little bit on price, for example.
 >
 > **[6:05](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=365)** The synthetic data, represented in green, matches the real data so closely and so nicely that you can hardly see any bits and pieces of gray sticking out here.
 >
@@ -1590,7 +1568,7 @@ created: 2026-05-02
 >
 > **[7:27](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=447)** Now, as a data scientist or data professional who is in this lucky position of having seen customer data in your company before, these matching univariate and bivariate distributions might not get you wild with excitement, but I vividly remember business units of customers or marketing teams that never ever got access to their customer data, who were pumped even only to get access to the detailed QA report of their 200, 300, 400 column customer databases.
 >
-> **[7:55](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=475)** But as I mentioned, the visual inspection is really only the very first step of assessing your synthetic data quality.
+> **[7:55](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=475)** But as I mentioned, the visual inspection is really only the very first step of assessing your synthetic [[Data Quality]].
 >
 > **[8:02](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-generating-privacy-preserving-synthetic-data?u=76281980&t=482)** So, let's scroll up and download our synthetic dataset.
 >
@@ -1604,7 +1582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), ai (4), [[Privacy]] (3), [[Databases]] (2), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Quality]] (3), [[Databases]] (2), [[Snowflake]] (1), [[Cloud Storage]] (1)
 > **UI Navigation:** scroll down (3), go to (2), scroll up (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** find (4)
@@ -1613,14 +1591,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **URLs:** [mostly.ai](https://mostly.ai) (1)
 
-#### Evaluating synthetic data quality and accuracy
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980)
+#### [Evaluating synthetic data quality and accuracy](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=0)** - There are different ways how you can assess the quality, the accuracy, and the utility of your data.
 >
-> **[0:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=6)** Some depend on your specific use case, and others, we see over and over across different companies, that want to assess synthetic data quality.
+> **[0:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=6)** Some depend on your specific use case, and others, we see over and over across different companies, that want to assess synthetic [[Data Quality]].
 >
 > **[0:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=14)** The first method to assess the quality is actually to visually compare the synthetic data to the original data, just as we did in the previous video where we generated synthetic data.
 >
@@ -1632,7 +1609,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=37)** This is something that can be performed by both humans as well as machines.
 >
-> **[0:41](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=41)** And it's helpful to assess for realism, particularly if you're interested in product development where you want to have realistic individual samples.
+> **[0:41](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=41)** And it's helpful to assess for realism, particularly if you're interested in [[Product Development]] where you want to have realistic individual samples.
 >
 > **[0:49](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=49)** Things that can be checked here are, for example, the rule adherence of one specific synthetic record.
 >
@@ -1654,7 +1631,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=135)** How close should the synthetic data be to be representative?
 >
-> **[2:19](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=139)** But what is too close and when could a privacy risk become a problem?
+> **[2:19](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=139)** But what is too close and when could a [[Privacy]] risk become a problem?
 >
 > **[2:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/evaluating-synthetic-data-quality-and-accuracy?u=76281980&t=143)** And this is why the holdout data set is quite helpful to figure out how close you want to get with the synthetic to the real data.
 >
@@ -1676,25 +1653,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Product Development]] (1), [[Privacy]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[Product Development]] (1), [[Privacy]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** previous video (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - there (1)
 
-#### Hands-on: Synthetic data for machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980)
+#### [Hands-on: Synthetic data for machine learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=0)** - [Instructor] Using machine learning to assess synthetic data accuracy and compare it to the original training data, the one that was used during the synthesization process, is a common way how companies validate the quality and utility of their synthetic dataset.
 >
-> **[0:15](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=15)** In contrast to only looking at higher level statistics, this type of machine learning evaluation can serve as a robust measure of synthetic data quality because the model relies heavily on accurate representation of deeper underlying patterns.
+> **[0:15](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=15)** In contrast to only looking at higher level [[Statistics]], this type of machine learning evaluation can serve as a robust measure of synthetic [[Data Quality]] because the model relies heavily on accurate representation of deeper underlying patterns.
 >
 > **[0:30](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=30)** And only if the synthetic data manages to preserve all the correlations and fine-grain patterns in the real data, then the model will be able to accurately predict and effectively perform on previously unseen holdout data.
 >
-> **[0:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=43)** So here in this notebook, I will walk you through a quick tutorial in Python.
+> **[0:43](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=43)** So here in this notebook, I will walk you through a quick tutorial in [[Python (Programming Language)|Python]].
 >
 > **[0:48](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=48)** You can find this notebook in your exercise files and open it in CoLab.
 >
@@ -1784,7 +1760,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=353)** And yes, that's a toy data set, but it's the same picture that you will get if you use it with your real world much more complex business data.
 >
-> **[6:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=361)** But the benefit is the synthetic dataset is fully anonymous and privacy safe.
+> **[6:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=361)** But the benefit is the synthetic dataset is fully anonymous and [[Privacy]] safe.
 >
 > **[6:07](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-machine-learning?u=76281980&t=367)** And getting on par results or slight deviations in predictive performance in comparison to your highly privacy sensitive frisky and hard to access production data is the exact reason why so many organizations use synthetic data as a drop in replacement that gives them the results they need, while eliminating the privacy hurdles and lengthy data access procedures.
 >
@@ -1794,7 +1770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Privacy]] (3), [[Statistics]] (1), [[Python (Programming Language)|Python]] (1), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Statistics]] (1), [[Data Quality]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (4), python (1), make (1)
 > **Versions:** 81.6 (2), 89.6 (2), 81.9 (1), 90.1 (1)
 > **Env Vars:** tstr (2), csv (1)
@@ -1803,14 +1779,13 @@ created: 2026-05-02
 > **Ports:** :20 (1)
 > **Tools:** colab (1)
 
-#### Understanding why synthetic data is privacy-safe
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980)
+#### [Understanding why synthetic data is privacy-safe](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=0)** - It's arguably the most important characteristic of an anonymization technology to actually protect your customers' privacy.
+> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=0)** - It's arguably the most important characteristic of an anonymization technology to actually protect your customers' [[Privacy]].
 >
-> **[0:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=8)** So why is synthetic data privacy safe?
+> **[0:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=8)** So why is synthetic [[Data Privacy]] safe?
 >
 > **[0:11](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=11)** The important bit to take away here is that not all synthetic data is anonymous by default.
 >
@@ -1834,7 +1809,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=123)** Why?
 >
-> **[2:04](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=124)** Well, if you train a model, what you get is a probabilistic model, which then, when you generate synthetic data, randomly draws from the probability distribution, and this introduces a certain level of noise.
+> **[2:04](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=124)** Well, if you train a model, what you get is a probabilistic model, which then, when you generate synthetic data, randomly draws from the [[Probability]] distribution, and this introduces a certain level of noise.
 >
 > **[2:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=137)** A third element that's highly recommended to not only protect the distribution but also the value range of your data are things like rare category protection or extreme value protection.
 >
@@ -1868,11 +1843,11 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=272)** And there are different ways to do this, but it's more of an advanced topic.
 >
-> **[4:36](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=276)** So if you're curious to learn more here, there are more resources provided in the Data Science handout which comes along with this course.
+> **[4:36](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/understanding-why-synthetic-data-is-privacy-safe?u=76281980&t=276)** So if you're curious to learn more here, there are more resources provided in the [[Data Science]] handout which comes along with this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Privacy]] (12), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (11), [[Data Privacy]] (1), [[Probability]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** we discussed (1)
@@ -1885,22 +1860,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Quick recap: What is Responsible AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980)
+#### [Quick recap: What is Responsible AI?](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=0)** - Before we look into how synthetic data helps with responsible AI, let's quickly summarize what responsible AI is and why it is important.
+> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=0)** - Before we look into how synthetic data helps with [[Responsible AI]], let's quickly summarize what responsible AI is and why it is important.
 >
 > **[0:09](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=9)** Responsible AI is the practice of developing and deploying AI that puts humans first.
 >
 > **[0:15](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=15)** We say it's human centered and that people and also societies can trust.
 >
-> **[0:21](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=21)** So what responsible AI tries to do is anchoring AI innovation to human rights, ethics, and societal values.
+> **[0:21](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=21)** So what responsible AI tries to do is anchoring AI innovation to human rights, [[Ethics]], and societal values.
 >
 > **[0:29](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=29)** It's this idea that AI should promote human flourishing and therefore demands that actions are taken to proactively mitigate potential harms to either people or the planet.
 >
-> **[0:41](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=41)** Today, responsible AI is a board-level topic and the priority for many regulators who consider responsible AI to be key in building public trust in artificial intelligence, which they do see as the foundational prerequisite to have more widespread adoption of this technology.
+> **[0:41](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=41)** Today, responsible AI is a board-level topic and the priority for many regulators who consider responsible AI to be key in building public trust in [[Artificial Intelligence (AI)|artificial intelligence]], which they do see as the foundational prerequisite to have more widespread adoption of this technology.
 >
 > **[1:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=60)** Yet responsible AI is an open research area, and academics, organizations, and policymakers are still trying to figure out how to successfully put it into practice.
 >
@@ -1916,7 +1890,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=107)** Second, technical robustness, security, and safety, where potential risks are continually assessed and also managed.
 >
-> **[1:55](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=115)** Third, and we've been talking about this a lot, privacy and data governance.
+> **[1:55](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=115)** Third, and we've been talking about this a lot, [[Privacy]] and [[Data Governance]].
 >
 > **[2:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=120)** Fourth, transparency.
 >
@@ -1928,11 +1902,11 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=133)** The fifth component is fairness, diversity, and non-discrimination, which is another major area of responsible AI.
 >
-> **[2:20](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=140)** Sixth is accountability.
+> **[2:20](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=140)** Sixth is [[Accountability]].
 >
-> **[2:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=143)** The expectation that developers and deployers of AI take responsibility for it and deploy their algorithms in a lawful manner.
+> **[2:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=143)** The expectation that developers and deployers of AI take responsibility for it and deploy their [[Algorithms]] in a lawful manner.
 >
-> **[2:32](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=152)** And lastly, we have societal and environmental well-being, which is a quite interesting point given that AI can both help fight the climate change as well as promote it by consuming tremendous amounts of energy.
+> **[2:32](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=152)** And lastly, we have societal and environmental well-being, which is a quite interesting point given that AI can both help fight the [[Climate Change]] as well as promote it by consuming tremendous amounts of energy.
 >
 > **[2:44](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980&t=164)** So if you haven't looked into responsible AI thus far, I hope this overview gives you a little bit of a feel what responsibly AI is about.
 >
@@ -1948,28 +1922,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (14), ai (10), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Ethics]] (1), [[Privacy]] (1), [[Data Governance]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** oecd (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - before (1)
 
-#### Why is synthetic data essential for Responsible AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980)
+#### [Why is synthetic data essential for Responsible AI?](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=0)** - Now, you might be asking, how does synthetic data fit into responsible AI?
+> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=0)** - Now, you might be asking, how does synthetic data fit into [[Responsible AI]]?
 >
-> **[0:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=6)** And there are four big points where synthetic data is essential for the ethical and responsible development of artificial intelligence.
+> **[0:06](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=6)** And there are four big points where synthetic data is essential for the ethical and responsible development of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=14)** The first point is obviously privacy, ensuring that the training data that you use for AI is privacy preserving.
+> **[0:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=14)** The first point is obviously [[Privacy]], ensuring that the training data that you use for AI is privacy preserving.
 >
-> **[0:22](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=22)** The second one is data sharing.
+> **[0:22](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=22)** The second one is [[Data Sharing]].
 >
 > **[0:24](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=24)** Responsible AI is complex and difficult to achieve in practice.
 >
-> **[0:28](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=28)** Therefore, it can't rest on the shoulders of data scientists alone to decide what is responsible, what is ethical, or when an algorithm is fair.
+> **[0:28](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=28)** Therefore, it can't [[Representational State Transfer (REST)|rest]] on the shoulders of data scientists alone to decide what is responsible, what is ethical, or when an algorithm is fair.
 >
 > **[0:37](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-is-synthetic-data-essential-for-responsible-ai?u=76281980&t=37)** Oftentimes, data scientists don't even have the necessary ethical training to solve these tasks.
 >
@@ -2017,15 +1990,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Responsible AI]] (12), ai (4), [[Privacy]] (3), teams (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (12), [[Privacy]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Sharing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### AI fairness and algorithmic bias mitigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980)
+#### [AI fairness and algorithmic bias mitigation](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2035,7 +2007,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980&t=13)** But it's not that the AI is inherently biased or even evil.
 >
-> **[0:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980&t=17)** It's many, many different reasons why bias finds its way into the AI algorithms that we use today.
+> **[0:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980&t=17)** It's many, many different reasons why bias finds its way into the AI [[Algorithms]] that we use today.
 >
 > **[0:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980&t=23)** And data is oftentimes seen as the biggest problem of it.
 >
@@ -2059,9 +2031,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980&t=82)** In fact, research has shown that you have to have these attributes in your data to make state-of-the-art fairness work in machine learning.
 >
-> **[1:30](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980&t=90)** Interestingly, also, privacy is something that is sometimes intention with fairness.
+> **[1:30](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980&t=90)** Interestingly, also, [[Privacy]] is something that is sometimes intention with fairness.
 >
-> **[1:35](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980&t=95)** A 2021 Microsoft survey once found amongst leading fairness practitioners that the biggest challenge they face in practice is that they don't even know whether the model biased or not.
+> **[1:35](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980&t=95)** A 2021 [[Microsoft]] survey once found amongst leading fairness practitioners that the biggest challenge they face in practice is that they don't even know whether the model biased or not.
 >
 > **[1:47](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/ai-fairness-and-algorithmic-bias-mitigation?u=76281980&t=107)** How could it be?
 >
@@ -2095,15 +2067,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), ai (13), [[Privacy]] (3), [[Algorithms]] (1), management (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Algorithms]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - ai (1)
 
-#### XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/xai?u=76281980)
+#### [XAI](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/xai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2111,7 +2082,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/xai?u=76281980&t=14)** Now, if an AI algorithm is used to decide whether you're credit worthy, should get hired, or undergo a medical procedure, and I'm not saying that AI should be used for all of this, but just as a hypothetical example, affected individuals will expect, or even demand, an explanation, and rightfully so.
 >
-> **[0:32](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/xai?u=76281980&t=32)** Particularly when AI is applied in higher-risk areas, explainability is a component of responsible AI that has to be in place.
+> **[0:32](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/xai?u=76281980&t=32)** Particularly when AI is applied in higher-risk areas, explainability is a component of [[Responsible AI]] that has to be in place.
 >
 > **[0:41](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/xai?u=76281980&t=41)** And more and more it's also required by law.
 >
@@ -2129,13 +2100,13 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/xai?u=76281980&t=108)** Observing and evaluating how a model acts and behaves by looking at a broad variety of actual records and examples, and not only actual records, but, and this again means channeling our human expertise, variations and modifications of existing examples, what-if scenarios, that might not be present in your training data, but that could be encountered in the real world, like a 90-year-old college student, for example.
 >
-> **[2:16](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/xai?u=76281980&t=136)** And this again is an area that can be catered to with synthetic data, where you can not only put granular privacy-safe data with plenty of diverse examples into the hands of your internal AI assurance teams, but also external auditors, certification bodies, and authorities.
+> **[2:16](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/xai?u=76281980&t=136)** And this again is an area that can be catered to with synthetic data, where you can not only put granular [[Privacy]]-safe data with plenty of diverse examples into the hands of your internal AI assurance teams, but also external auditors, certification bodies, and authorities.
 >
 > **[2:34](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/xai?u=76281980&t=154)** Let's see how this looks in the last hands-on video of our course: "Explainable AI With Synthetic Data."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (5), [[Responsible AI]] (1), node (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the last (1)
@@ -2143,8 +2114,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - it (1)
 
-#### Hands-on: Synthetic data for explainable AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980)
+#### [Hands-on: Synthetic data for explainable AI](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2152,7 +2122,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=9)** But those toolkits typically fall short in explaining how a given model came up with a prediction or decision.
 >
-> **[0:15](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=15)** And this is where SHAP values and things like the SHAP Python package can come in handy as it allows us to interpret models.
+> **[0:15](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=15)** And this is where SHAP values and things like the SHAP [[Python (Programming Language)|Python]] package can come in handy as it allows us to interpret models.
 >
 > **[0:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=23)** But for SHAP to work, you need to have the model as well as the data or put differently, no data, no explanation.
 >
@@ -2168,11 +2138,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=67)** Then we are again training the same model we trained earlier to predict whether a given Airbnb listing costs more than $100 per night.
 >
-> **[1:18](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=78)** Now imagine the model that was just trained should be evaluated and assessed from a responsible AI perspective by your internal model assurance team or even by an external auditor.
+> **[1:18](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=78)** Now imagine the model that was just trained should be evaluated and assessed from a [[Responsible AI]] perspective by your internal model assurance team or even by an external auditor.
 >
 > **[1:29](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=89)** To make use of SHAP you need both data and the model.
 >
-> **[1:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=93)** But sharing data across or even beyond your organization quickly can become a privacy issue.
+> **[1:33](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=93)** But sharing data across or even beyond your organization quickly can become a [[Privacy]] issue.
 >
 > **[1:39](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/hands-on-synthetic-data-for-explainable-ai?u=76281980&t=99)** So here we are going to demonstrate that synthetic data can serve as a drop in replacement and facilitate explainable AI in a privacy safe manner.
 >
@@ -2240,7 +2210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Privacy]] (5), feature (5), ai (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Python (Programming Language)|Python]] (1), [[Responsible AI]] (1)
 > **Env Vars:** shap (11)
 > **CLI Commands:** make (3), python (1), find (1)
 > **Analogies:** for example (4), imagine (1)
@@ -2249,14 +2219,13 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **UI Navigation:** scroll down (1)
 
-#### Synthetic data for RAI assurance and governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980)
+#### [Synthetic data for RAI assurance and governance](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=0)** - To understand why responsible AI assurance and AI governance are so important it's helpful to take a step back and look at the intersection of economy, society, and technology from a high level perspective.
+> **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=0)** - To understand why [[Responsible AI]] assurance and [[AI Governance]] are so important it's helpful to take a step back and look at the intersection of economy, society, and technology from a high level perspective.
 >
-> **[0:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=14)** The objective of many nations and political and economical unions at the moment is to become a global leader in artificial intelligence in the coming years.
+> **[0:14](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=14)** The objective of many nations and political and economical unions at the moment is to become a global leader in [[Artificial Intelligence (AI)|artificial intelligence]] in the coming years.
 >
 > **[0:23](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=23)** But if we look at the status quo, currently we only have a few large organizations really using and developing artificial intelligence.
 >
@@ -2270,13 +2239,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=77)** They should help scale the efforts of developing and using AI that adheres to regulation and societal values.
 >
-> **[1:24](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=84)** It's really about having an ecosystem full of responsible AI tools, services, consultancy firms and even things like audits, like an audit for AI bias or certifications of algorithms that are applied for high risk use cases.
+> **[1:24](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=84)** It's really about having an ecosystem full of responsible AI tools, services, consultancy firms and even things like audits, like an audit for AI bias or certifications of [[Algorithms]] that are applied for high risk use cases.
 >
 > **[1:39](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=99)** But many of those services rely on exchanging granular data with external partners or auditors.
 >
 > **[1:47](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=107)** And this is where synthetic data comes in as it allows to share granular data with external partners across this responsible AI assurance ecosystem.
 >
-> **[1:57](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=117)** And this whole topic is actually something that not only regulators and societies are interested in but also organizations and for-profit businesses because for many executives, it's particularly these hard to assess more mushy risks of AI ethics and responsible AI that's currently holding them back to adopt AI more freely throughout the organization.
+> **[1:57](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=117)** And this whole topic is actually something that not only regulators and societies are interested in but also organizations and for-profit businesses because for many executives, it's particularly these hard to assess more mushy risks of AI [[Ethics]] and responsible AI that's currently holding them back to adopt AI more freely throughout the organization.
 >
 > **[2:18](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/synthetic-data-for-rai-assurance-and-governance?u=76281980&t=138)** Responsible AI is a highly important topic that more and more C-suites and boards are looking into particularly with all the regulation coming down the pipe like the European Union's AI Act.
 >
@@ -2288,7 +2257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (11), ai (11), data (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[AI Governance]] (1), [[Algorithms]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -2298,16 +2267,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to continue your synthetic data journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-continue-your-synthetic-data-journey?u=76281980)
+#### [How to continue your synthetic data journey](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-continue-your-synthetic-data-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-continue-your-synthetic-data-journey?u=76281980&t=0)** - You made it!
 >
-> **[0:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-continue-your-synthetic-data-journey?u=76281980&t=1)** Congrats on completing this introduction to privacy preserving AI generated synthetic data.
+> **[0:01](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-continue-your-synthetic-data-journey?u=76281980&t=1)** Congrats on completing this introduction to [[Privacy]] preserving AI generated synthetic data.
 >
-> **[0:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-continue-your-synthetic-data-journey?u=76281980&t=8)** I'm always keen to hear your feedback, so comment below or write me a few lines on LinkedIn about what you gained from this course.
+> **[0:08](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-continue-your-synthetic-data-journey?u=76281980&t=8)** I'm always keen to hear your feedback, so comment below or write me a few lines on [[LinkedIn]] about what you gained from this course.
 >
 > **[0:15](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-continue-your-synthetic-data-journey?u=76281980&t=15)** And to continue your synthetic data learning journey, check out the handouts for executives and data scientists that you can find in the exercise files.
 >
@@ -2321,7 +2289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (3), [[LinkedIn]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Privacy]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - you (1)

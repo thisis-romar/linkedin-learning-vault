@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve your global project results
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/improve-your-global-project-results?u=76281980)
+#### [Improve your global project results](https://www.linkedin.com/learning/project-management-international-projects/improve-your-global-project-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,7 +104,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **Speakers:** - things (1)
 
 
@@ -113,8 +111,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assessing collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/assessing-collaboration?u=76281980)
+#### [Assessing collaboration](https://www.linkedin.com/learning/project-management-international-projects/assessing-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/project-management-international-projects/assessing-collaboration?u=76281980&t=147)** Determine if your project has state of the art technology and collaboration systems to make sure people can communicate effectively.
 >
-> **[2:35](https://www.linkedin.com/learning/project-management-international-projects/assessing-collaboration?u=76281980&t=155)** Does every team in every location use the same standards for data collection, measurement, and design?
+> **[2:35](https://www.linkedin.com/learning/project-management-international-projects/assessing-collaboration?u=76281980&t=155)** Does every team in every location use the same standards for [[Data Collection]], measurement, and design?
 >
 > **[2:42](https://www.linkedin.com/learning/project-management-international-projects/assessing-collaboration?u=76281980&t=162)** You'll want to make sure these systems are easy to access.
 >
@@ -178,13 +175,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), leadership (3), data (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### We do as the leader does
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/we-do-as-the-leader-does?u=76281980)
+#### [We do as the leader does](https://www.linkedin.com/learning/project-management-international-projects/we-do-as-the-leader-does?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/project-management-international-projects/we-do-as-the-leader-does?u=76281980&t=51)** True listening requires one to be fully available, to stop multitasking, and show curiosity by asking questions for clarification.
 >
-> **[1:01](https://www.linkedin.com/learning/project-management-international-projects/we-do-as-the-leader-does?u=76281980&t=61)** By doing this, you're showing respect for others, which is a key element in building trust and maintaining a relationship.
+> **[1:01](https://www.linkedin.com/learning/project-management-international-projects/we-do-as-the-leader-does?u=76281980&t=61)** By doing this, you're showing respect for others, which is a key element in [[Building Trust]] and maintaining a relationship.
 >
 > **[1:09](https://www.linkedin.com/learning/project-management-international-projects/we-do-as-the-leader-does?u=76281980&t=69)** By establishing great relationships, there's implicit trust being built which also enhance collaboration.
 >
@@ -230,14 +226,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Building Trust]] (1), next (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
-#### Building skills for collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/building-skills-for-collaboration?u=76281980)
+#### [Building skills for collaboration](https://www.linkedin.com/learning/project-management-international-projects/building-skills-for-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,7 +278,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/project-management-international-projects/building-skills-for-collaboration?u=76281980&t=136)** Lastly, train on problem-solving skills.
 >
-> **[2:19](https://www.linkedin.com/learning/project-management-international-projects/building-skills-for-collaboration?u=76281980&t=139)** Any systematic problem-solving approach inspired by Total Quality Management, or Lean, and Six Sigma practices are widely used, and are designed to work in a cross-functional way where different viewpoints are considered.
+> **[2:19](https://www.linkedin.com/learning/project-management-international-projects/building-skills-for-collaboration?u=76281980&t=139)** Any systematic problem-solving approach inspired by Total Quality Management, or Lean, and [[Six Sigma]] practices are widely used, and are designed to work in a cross-functional way where different viewpoints are considered.
 >
 > **[2:32](https://www.linkedin.com/learning/project-management-international-projects/building-skills-for-collaboration?u=76281980&t=152)** These tools have the advantage that they take away the use of opinions, or jumping to conclusions, and in its place encourage data-driven fact gathering.
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (1), management (1), [[Six Sigma]] (1), functional (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** oem (1)
 > **UI Navigation:** open the (1)
@@ -306,8 +301,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoiding the illusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/avoiding-the-illusion?u=76281980)
+#### [Avoiding the illusion](https://www.linkedin.com/learning/project-management-international-projects/avoiding-the-illusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -333,7 +327,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/project-management-international-projects/avoiding-the-illusion?u=76281980&t=64)** So it is communication, and how can we avoid problems caused by this illusion.
 >
-> **[1:10](https://www.linkedin.com/learning/project-management-international-projects/avoiding-the-illusion?u=76281980&t=70)** First, communication comes from the same source as the word common, which implies two people will have the same understanding for something.
+> **[1:10](https://www.linkedin.com/learning/project-management-international-projects/avoiding-the-illusion?u=76281980&t=70)** First, communication comes from the same source as the [[Microsoft Word|word]] common, which implies two people will have the same understanding for something.
 >
 > **[1:17](https://www.linkedin.com/learning/project-management-international-projects/avoiding-the-illusion?u=76281980&t=77)** They'll share a common meaning.
 >
@@ -369,13 +363,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Effective supplier communication steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/effective-supplier-communication-steps?u=76281980)
+#### [Effective supplier communication steps](https://www.linkedin.com/learning/project-management-international-projects/effective-supplier-communication-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -443,15 +436,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - it (1)
 
-#### Effective customer communication steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/effective-customer-communication-steps?u=76281980)
+#### [Effective customer communication steps](https://www.linkedin.com/learning/project-management-international-projects/effective-customer-communication-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,8 +496,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - applying (1)
 
-#### New obstacles to clarity
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/new-obstacles-to-clarity?u=76281980)
+#### [New obstacles to clarity](https://www.linkedin.com/learning/project-management-international-projects/new-obstacles-to-clarity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,7 +548,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), next (1), business (1), management (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -570,8 +559,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Addressing physical separation
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980)
+#### [Addressing physical separation](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +591,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980&t=118)** Also, distance often affects projects because cause and effect don't happen close in time.
 >
-> **[2:04](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980&t=124)** And a problem in one part of the world, might not be known to the rest of the team until it's too late.
+> **[2:04](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980&t=124)** And a problem in one part of the world, might not be known to the [[Representational State Transfer (REST)|rest]] of the team until it's too late.
 >
 > **[2:10](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980&t=130)** When your team is forming and you're defining values and norms for how you'll work together, include transparency as a core value in your team charter.
 >
@@ -613,7 +601,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980&t=160)** Video conferencing for example is better than just audio conferencing as it will help people feel closer than they really are.
 >
-> **[2:48](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980&t=168)** Having a single common data sharing platform that every participant has access to, helps build a one team identity.
+> **[2:48](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980&t=168)** Having a single common [[Data Sharing]] platform that every participant has access to, helps build a one team identity.
 >
 > **[2:55](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980&t=175)** In technical projects where design and development has to be done jointly a shared design platform should be agreed to be used by everyone as a common way to communicate technically.
 >
@@ -621,15 +609,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Data Sharing]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - one (1)
 
-#### Improving affiliation
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/improving-affiliation?u=76281980)
+#### [Improving affiliation](https://www.linkedin.com/learning/project-management-international-projects/improving-affiliation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,13 +684,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), web (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), it's like (1)
 > **Speakers:** - who (1)
 
-#### Considering time zones
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/considering-time-zones?u=76281980)
+#### [Considering time zones](https://www.linkedin.com/learning/project-management-international-projects/considering-time-zones?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +696,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/project-management-international-projects/considering-time-zones?u=76281980&t=4)** That's because some countries use uneven coordinated universal time, or UTC offsets, that differ only by 30 or 45 minutes and not the full hour.
 >
-> **[0:17](https://www.linkedin.com/learning/project-management-international-projects/considering-time-zones?u=76281980&t=17)** It's quite possible then, that there will be someone on your team that is ready to go to sleep when you're just getting into the office.
+> **[0:17](https://www.linkedin.com/learning/project-management-international-projects/considering-time-zones?u=76281980&t=17)** It's quite possible then, that there will be someone on your team that is ready to go to sleep when you're just getting into the [[Microsoft Office|office]].
 >
 > **[0:26](https://www.linkedin.com/learning/project-management-international-projects/considering-time-zones?u=76281980&t=26)** Each subgroup will live and behave based on their own local time which can hinder coordination and synchronization of tasks in your project.
 >
@@ -759,7 +744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** utc (4), cst (1), est (1)
 > **CLI Commands:** make (3)
 > **Ports:** :00 (2)
@@ -773,8 +758,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Social programming and values
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/social-programming-and-values?u=76281980)
+#### [Social programming and values](https://www.linkedin.com/learning/project-management-international-projects/social-programming-and-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,7 +788,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/project-management-international-projects/social-programming-and-values?u=76281980&t=90)** You may be interacting with someone from China for example that has been educated in Germany, so they can't be put into a generalized box for how Chinese people behave.
 >
-> **[1:41](https://www.linkedin.com/learning/project-management-international-projects/social-programming-and-values?u=76281980&t=101)** By the way, there's a word to keep in mind that will help you avoid generalizing.
+> **[1:41](https://www.linkedin.com/learning/project-management-international-projects/social-programming-and-values?u=76281980&t=101)** By the way, there's a [[Microsoft Word|word]] to keep in mind that will help you avoid generalizing.
 >
 > **[1:46](https://www.linkedin.com/learning/project-management-international-projects/social-programming-and-values?u=76281980&t=106)** The word is some.
 >
@@ -836,7 +820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), teams (1), next (1), express (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -844,8 +828,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
-#### High vs. low context
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/high-vs-low-context?u=76281980)
+#### [High vs. low context](https://www.linkedin.com/learning/project-management-international-projects/high-vs-low-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -901,14 +884,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - edward (1)
 
-#### Power distance
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/power-distance?u=76281980)
+#### [Power distance](https://www.linkedin.com/learning/project-management-international-projects/power-distance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -956,19 +937,18 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/project-management-international-projects/power-distance?u=76281980&t=150)** They feel it can sound disrespectful, so they minimize their observations and say things like, I think if the situation continues to show this type of effect, we might have a small problem in our project, which can mean trouble, so instruct all team members that urgent and critical matters need to be voiced loudly and directly.
 >
-> **[2:50](https://www.linkedin.com/learning/project-management-international-projects/power-distance?u=76281980&t=170)** Point out that it would be disrespectful to the rest of the team to minimize a critical situation.
+> **[2:50](https://www.linkedin.com/learning/project-management-international-projects/power-distance?u=76281980&t=170)** Point out that it would be disrespectful to the [[Representational State Transfer (REST)|rest]] of the team to minimize a critical situation.
 >
 > **[2:58](https://www.linkedin.com/learning/project-management-international-projects/power-distance?u=76281980&t=178)** Remember the impact power distance can have and make sure all team members agree to collaborate as colleagues to address urgent matters directly without minimizing, and that the end customer is everyone's real boss.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - power (1)
 
-#### Monochronic vs. polychronic
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/monochronic-vs-polychronic?u=76281980)
+#### [Monochronic vs. polychronic](https://www.linkedin.com/learning/project-management-international-projects/monochronic-vs-polychronic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -976,7 +956,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/project-management-international-projects/monochronic-vs-polychronic?u=76281980&t=4)** And it has a lot to do with their cultural programming.
 >
-> **[0:07](https://www.linkedin.com/learning/project-management-international-projects/monochronic-vs-polychronic?u=76281980&t=7)** Polychronic cultures for example, from the word poly, which means many, are used to doing many things at once, not necessarily in any specific order.
+> **[0:07](https://www.linkedin.com/learning/project-management-international-projects/monochronic-vs-polychronic?u=76281980&t=7)** Polychronic cultures for example, from the [[Microsoft Word|word]] poly, which means many, are used to doing many things at once, not necessarily in any specific order.
 >
 > **[0:18](https://www.linkedin.com/learning/project-management-international-projects/monochronic-vs-polychronic?u=76281980&t=18)** In a polychronic society, people live and work based on event time, where the clock is not as important.
 >
@@ -1028,7 +1008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Microsoft Word|Word]] (1), teams (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - different (1)
 
@@ -1037,8 +1017,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common language
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980)
+#### [Common language](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1046,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980&t=8)** The problem was that not everyone was using the same design software.
 >
-> **[0:13](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980&t=13)** Some were using Inventor, others SOLIDWORKS, and still others CATIA.
+> **[0:13](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980&t=13)** Some were using Inventor, others [[SOLIDWORKS]], and still others CATIA.
 >
 > **[0:18](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980&t=18)** All three are high-level, computer-aided design CAD software, but there was constant confusion because these platforms did not communicate well with each other.
 >
@@ -1090,7 +1069,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980&t=169)** Express to the project team that you need to clarify something with your subteam in your own language and that you'll share with everyone what you discussed.
 >
-> **[2:58](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980&t=178)** This is a way to use your own language for clarity while showing respect to the rest of the team.
+> **[2:58](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980&t=178)** This is a way to use your own language for clarity while showing respect to the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[3:05](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980&t=185)** Face it, humans are still on the front lines of every project, so agree on a common language that will help you share information and collaborate effectively.
 >
@@ -1098,15 +1077,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[SOLIDWORKS]] (1), next (1), express (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** solidworks (1), catia (1), cad (1), oem (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - on (1)
 
-#### Emails and texts
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/emails-and-texts?u=76281980)
+#### [Emails and texts](https://www.linkedin.com/learning/project-management-international-projects/emails-and-texts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1166,7 +1144,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1)
 > **Env Vars:** lol (1), idk (1), cob (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), just like (1)
@@ -1175,8 +1152,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - i (1)
 
-#### Translations
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/translations?u=76281980)
+#### [Translations](https://www.linkedin.com/learning/project-management-international-projects/translations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1242,13 +1218,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), next (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
-#### Drawings and specifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/drawings-and-specifications?u=76281980)
+#### [Drawings and specifications](https://www.linkedin.com/learning/project-management-international-projects/drawings-and-specifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,7 +1280,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Engineering]] (1), functional (1)
 > **CLI Commands:** make (2)
 > **Documentation:** specification (2)
 > **Speakers:** - i (1)
@@ -1316,8 +1289,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/project-management-international-projects/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1357,7 +1329,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Search]] (1), next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - what (1)

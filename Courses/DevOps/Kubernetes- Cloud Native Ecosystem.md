@@ -73,14 +73,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kubernetes: Cloud native ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/kubernetes-cloud-native-ecosystem?u=76281980)
+#### [Kubernetes: Cloud native ecosystem](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/kubernetes-cloud-native-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/kubernetes-cloud-native-ecosystem?u=76281980&t=0)** - [Karthik] Are you confused with all the different tools and platforms provided by the cloud native computing foundation?
 >
-> **[0:06](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/kubernetes-cloud-native-ecosystem?u=76281980&t=6)** Not sure what they do or how they help you build your Kubernetes applications?
+> **[0:06](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/kubernetes-cloud-native-ecosystem?u=76281980&t=6)** Not sure what they do or how they help you build your [[Kubernetes]] applications?
 >
 > **[0:11](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/kubernetes-cloud-native-ecosystem?u=76281980&t=11)** Then you're in the right place.
 >
@@ -98,19 +97,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), cloud (1), management (1), [[Orchestration]] (1), application (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2)
 > **Env Vars:** cncf (2)
 > **URLs:** [agileadmin.com](https://agileadmin.com) (1)
 > **Speakers:** - [karthik] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-you-need-to-know?u=76281980&t=0)** - [Instructor] The only prerequisites for this course is having a general understanding of IT concepts and an interest in building cloud native applications using Kubernetes.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-you-need-to-know?u=76281980&t=0)** - [Instructor] The only prerequisites for this course is having a general understanding of IT concepts and an interest in building cloud native applications using [[Kubernetes]].
 >
-> **[0:10](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-you-need-to-know?u=76281980&t=10)** We have a number of courses in the library on IT and DevOps to help you get started if you're new to the industry.
+> **[0:10](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-you-need-to-know?u=76281980&t=10)** We have a number of courses in the library on IT and [[DevOps]] to help you get started if you're new to the industry.
 >
 > **[0:15](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-you-need-to-know?u=76281980&t=15)** If you're already familiar with Kubernetes, you're ahead of the curve.
 >
@@ -118,7 +116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), cloud (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[DevOps]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -126,14 +124,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the CNCF?
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980)
+#### [What is the CNCF?](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980&t=1)** - [Instructor] The Cloud Native Computing Foundation, or the CNCF, is the vendor neutral home for fast-growing projects in the Cloud Native landscape, like Kubernetes, Prometheus, GRPC, and a whole lot of others.
+> **[0:01](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980&t=1)** - [Instructor] The Cloud Native Computing Foundation, or the CNCF, is the vendor neutral home for fast-growing projects in the Cloud Native landscape, like [[Kubernetes]], Prometheus, GRPC, and a whole lot of others.
 >
-> **[0:12](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980&t=12)** It's a part of the Linux foundation and was founded in late 2015.
+> **[0:12](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980&t=12)** It's a part of the [[Linux]] foundation and was founded in late 2015.
 >
 > **[0:17](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980&t=17)** The CNCF acts as a steward for Cloud Native projects, so that they're available to the community and free of partisan issues from the company that might have released the project.
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980&t=64)** Finally, the CNCF makes sure that the technology is accessible and reliable.
 >
-> **[1:10](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980&t=70)** No one likes to use a project from GitHub that isn't supported anymore, or doesn't work with newer versions of software.
+> **[1:10](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980&t=70)** No one likes to use a project from [[GitHub]] that isn't supported anymore, or doesn't work with newer versions of software.
 >
 > **[1:16](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980&t=76)** From my perspective, having an organization that helps the development of Kubernetes, related projects, and the ecosystem, is great.
 >
@@ -161,14 +158,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), cloud (4), [[Linux]] (1), ux (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Linux]] (1), [[GitHub]] (1)
 > **Env Vars:** cncf (5), grpc (1)
 > **Tools:** github (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### First look at the CNCF landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980)
+#### [First look at the CNCF landscape](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,9 +188,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=52)** The most common way to containerize applications is by using Docker.
 >
-> **[0:57](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=57)** Most applications can be containerized and the recommendation is to split your applications using a microservices methodology.
+> **[0:57](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=57)** Most applications can be containerized and the recommendation is to split your applications using a [[Microservices]] methodology.
 >
-> **[1:04](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=64)** The next step is continuous integration and delivery.
+> **[1:04](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=64)** The next step is [[Continuous Integration (CI)|continuous integration]] and delivery.
 >
 > **[1:08](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=68)** This allows changes to your source code to automatically build a new container image, test your container and then deploy your containers to a staging environment.
 >
@@ -206,7 +202,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=98)** Having a solution for logging, metrics and observability are critical for running and debugging container-based applications.
 >
-> **[1:45](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=105)** Fine tuning your observability is crucial to get your container infrastructure to work well, especially when you're running your applications at scale in a distributed fashion.
+> **[1:45](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=105)** [[Fine Tuning]] your observability is crucial to get your container infrastructure to work well, especially when you're running your applications at scale in a distributed fashion.
 >
 > **[1:55](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=115)** I categorize the next few sections for intermediate and advanced cloud native users.
 >
@@ -214,7 +210,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=126)** When you're running containers at scale in a microservices fashion, it is important to have proxies and service discovery features to allow for constant container communication.
 >
-> **[2:15](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=135)** Advanced cloud native users might also want to use a service mesh layer for better connectivity and to get the benefits of observability, traffic control and fault injection.
+> **[2:15](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=135)** Advanced cloud native users might also want to use a service [[Mesh]] layer for better connectivity and to get the benefits of observability, traffic control and fault injection.
 >
 > **[2:26](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=146)** From a networking standpoint, consider using a project that is compliant with a container network interface, also known as the CNI.
 >
@@ -224,11 +220,11 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=169)** Generally, you'll want to define policies for your applications as well as invest in tooling for anomaly detection.
 >
-> **[2:56](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=176)** It has become a common practice to store data in Kubernetes clusters and the next step in the trail map addresses the methodologies, solutions and tooling to store your data, alongside your cluster in Kubernetes.
+> **[2:56](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=176)** It has become a common practice to store data in [[Kubernetes]] clusters and the next step in the trail map addresses the methodologies, solutions and tooling to store your data, alongside your cluster in Kubernetes.
 >
 > **[3:08](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=188)** The eighth stop on the trail map has to do with additional ways to transfer data to and from your services.
 >
-> **[3:14](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=194)** While REST-style services are very popular, you might require your applications to stream data or require a messaging system or perhaps an eventing framework as well.
+> **[3:14](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=194)** While [[Representational State Transfer (REST)|REST]]-style services are very popular, you might require your applications to stream data or require a messaging system or perhaps an eventing framework as well.
 >
 > **[3:24](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/first-look-at-the-cncf-landscape?u=76281980&t=204)** The streaming and messaging sections prescribe frameworks to allow for better performance to stream data, and the standards-based approach for events and messages.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (5), next (4), [[Microservices]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Kubernetes]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Fine Tuning]] (1), [[Mesh]] (1)
 > **Env Vars:** cncf (1), cni (1), rest (1)
 > **CLI Commands:** docker (1), cd (1)
 > **Definitions:** is a  (1), known as (1)
@@ -258,8 +254,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application development and deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980)
+#### [Application development and deployment](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,13 +272,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=28)** Projects like containerd and Podman are gaining traction.
 >
-> **[0:32](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=32)** Take a look at these as well, especially if you're using Kubernetes to run your containers at scale.
+> **[0:32](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=32)** Take a look at these as well, especially if you're using [[Kubernetes]] to run your containers at scale.
 >
-> **[0:39](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=39)** After containerizing your applications, it's a great time to add some process to the workflow and add some continuous integration and delivery.
+> **[0:39](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=39)** After containerizing your applications, it's a great time to add some process to the workflow and add some [[Continuous Integration (CI)|continuous integration]] and delivery.
 >
 > **[0:47](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=47)** It is common practice to use your CI system to build your container images and then deploy them to your image repository once you check in your code to source control.
 >
-> **[0:57](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=57)** In addition, you could also deploy your application to a Kubernetes staging or production environment if your test pass to add that continuous delivery step.
+> **[0:57](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=57)** In addition, you could also deploy your application to a Kubernetes staging or production environment if your test pass to add that [[Continuous Delivery (CD)|continuous delivery]] step.
 >
 > **[1:06](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=66)** From a trail map perspective, take a look at the Argo project for your CI/CD needs if you don't currently have a solution.
 >
@@ -291,7 +286,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=78)** You can use it to build your container images when there are changes to your code in source control.
 >
-> **[1:23](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=83)** Argo CD allows you to follow a declarative pattern to deploy applications and their updates to Kubernetes via GitHub's model.
+> **[1:23](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=83)** [[Argo CD]] allows you to follow a declarative pattern to deploy applications and their updates to Kubernetes via [[GitHub]]'s model.
 >
 > **[1:32](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=92)** When it comes to running your containers, Kubernetes is that de facto way to do so.
 >
@@ -301,21 +296,21 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=113)** It beat out many other container orchestration platforms early on and has become the standard way for deploying containerized applications.
 >
-> **[2:02](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=122)** Once you start dealing with more complicated applications in Kubernetes or dealing with a microservices pattern, you might realize that you need a package manager that just using Kubernetes manifest to deploy your applications.
+> **[2:02](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=122)** Once you start dealing with more complicated applications in Kubernetes or dealing with a [[Microservices]] pattern, you might realize that you need a package manager that just using Kubernetes manifest to deploy your applications.
 >
-> **[2:15](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=135)** One such package manager that's getting a lot of traction is called Helm.
+> **[2:15](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=135)** One such package manager that's getting a lot of traction is called [[Helm]].
 >
 > **[2:19](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=139)** Helm allows you to define, install and upgrade Kubernetes applications via Helm Charts.
 >
 > **[2:25](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=145)** You can create, version, share and publish Helm Charts.
 >
-> **[2:29](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=149)** I like to think of Helm for Kubernetes the same way we have app for Linux or perhaps NPM for node or JavaScript applications.
+> **[2:29](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=149)** I like to think of Helm for Kubernetes the same way we have app for [[Linux]] or perhaps [[npm]] for node or [[JavaScript]] applications.
 >
-> **[2:38](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=158)** Finally, from an application development perspective, there are often reasons you might want to stream your data or have a messaging interface for your microservices.
+> **[2:38](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=158)** Finally, from an [[Application Development]] perspective, there are often reasons you might want to stream your data or have a messaging interface for your microservices.
 >
 > **[2:47](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=167)** There are a few CNCF projects that can help in these scenarios.
 >
-> **[2:50](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=170)** If you're dealing with APIs, and you find that your REST or SOAP APIs aren't performant, consider investigating gRPC remote procedure calls, also known as gRPC.
+> **[2:50](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=170)** If you're dealing with APIs, and you find that your [[Representational State Transfer (REST)|REST]] or SOAP APIs aren't performant, consider investigating gRPC remote procedure calls, also known as gRPC.
 >
 > **[3:01](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980&t=181)** If your need is for messaging or queuing, you might want to take a look at NATS.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (11), cloud (5), [[Helm]] (5), ci (3), application (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (11), [[Helm]] (5), [[Microservices]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** cd (3), docker (1), npm (1), node (1), find (1)
 > **Env Vars:** npm (1), cncf (1), rest (1), soap (1), nats (1)
 > **Code Identifiers:** grpc (2)
@@ -338,8 +333,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Prerequisites:** install (1)
 
-#### Service discovery and registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/service-discovery-and-registry?u=76281980)
+#### [Service discovery and registry](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/service-discovery-and-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -355,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/service-discovery-and-registry?u=76281980&t=36)** Consul and etcd are the classic examples of service discovery tooling but really so is DNS.
 >
-> **[0:42](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/service-discovery-and-registry?u=76281980&t=42)** A typical Kubernetes install will have an etcd cluster to store its data, and also have a DNS provider like CoreDNS for the DNS layer.
+> **[0:42](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/service-discovery-and-registry?u=76281980&t=42)** A typical [[Kubernetes]] install will have an etcd cluster to store its data, and also have a DNS provider like CoreDNS for the DNS layer.
 >
 > **[0:52](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/service-discovery-and-registry?u=76281980&t=52)** And speaking of CoreDNS, it's a project that's supported by the CNCF as a graduated project for the ecosystem.
 >
@@ -369,7 +363,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/service-discovery-and-registry?u=76281980&t=78)** A container registry is the repository where you store, retrieve and distribute your container images.
 >
-> **[1:24](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/service-discovery-and-registry?u=76281980&t=84)** Think of it like Git or GitHub but for container images.
+> **[1:24](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/service-discovery-and-registry?u=76281980&t=84)** Think of it like [[Git]] or [[GitHub]] but for container images.
 >
 > **[1:28](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/service-discovery-and-registry?u=76281980&t=88)** Each container image has a unique ID that can be referenced by a name and a label.
 >
@@ -401,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), dns (4), [[Kubernetes]] (2), data (2), [[Git]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Git]] (1), [[GitHub]] (1)
 > **Env Vars:** dns (4), cncf (3)
 > **CLI Commands:** docker (3), git (1)
 > **Tools:** github (1), gitlab (1)
@@ -410,8 +404,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** install (1)
 
-#### Managing cloud native services
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980)
+#### [Managing cloud native services](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -419,7 +412,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=7)** For a long time, the goal was to have an operations tool that could deploy and manage your applications.
 >
-> **[0:14](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=14)** This is where Kubernetes fits in, and solves the problem in an elegant fashion.
+> **[0:14](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=14)** This is where [[Kubernetes]] fits in, and solves the problem in an elegant fashion.
 >
 > **[0:18](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=18)** As the Kubernetes platform grew, the people in the cloud native space realized that there were many asks for Kubernetes.
 >
@@ -429,7 +422,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=40)** We covered gRPC earlier but now let's explore service meshes.
 >
-> **[0:45](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=45)** From a high level, a service mesh is the layer that handles all of the different communication and networking intricacies between microservices.
+> **[0:45](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=45)** From a high level, a service [[Mesh]] is the layer that handles all of the different communication and networking intricacies between [[Microservices]].
 >
 > **[0:53](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=53)** Two projects that implement service meshes that are popular in the ecosystem today are Linkerd and Envoy.
 >
@@ -441,7 +434,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=75)** Companies around the world use Linkerd to simplify communications within their software infrastructure.
 >
-> **[1:20](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=80)** It takes care of the error-prone parts of cross-service communications and has features including latency-aware load balancing, connection pooling, TLS, instrumentation, and request-level routing.
+> **[1:20](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=80)** It takes care of the error-prone parts of cross-service communications and has features including latency-aware load balancing, connection pooling, TLS, instrumentation, and request-level [[Routing]].
 >
 > **[1:34](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=94)** All of these features make your application code more scalable, performance and resilient.
 >
@@ -459,7 +452,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=127)** Things like rate limiting, circuit breaking patterns, automatic retries, et cetera.
 >
-> **[2:12](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=132)** I find that Envoy is highly configurable by design, and provides APIs for configuration management.
+> **[2:12](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=132)** I find that Envoy is highly configurable by design, and provides APIs for [[Configuration Management]].
 >
 > **[2:19](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=139)** Finally, Envoy lets you do things like distributed request tracing and wire-level observability.
 >
@@ -469,7 +462,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=165)** It does support the Thrift protocol in addition to http2 and gRPC, where at the time of recording this course, Envoy did not.
 >
-> **[2:54](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=174)** So if you're looking for a simple solution for your REST-style service, either should work.
+> **[2:54](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=174)** So if you're looking for a simple solution for your [[Representational State Transfer (REST)|REST]]-style service, either should work.
 >
 > **[3:01](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/managing-cloud-native-services?u=76281980&t=181)** If you're looking to do something more well, elaborate, then perhaps read the docs.
 >
@@ -477,7 +470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), management (2), [[Mesh]] (2), application (2), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Mesh]] (2), [[Microservices]] (1), [[Routing]] (1), [[Configuration Management]] (1)
 > **Code Identifiers:** grpc (3)
 > **Env Vars:** tls (1), cpu (1), rest (1)
 > **CLI Commands:** make (1), find (1)
@@ -491,14 +484,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Container networking 101
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980)
+#### [Container networking 101](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=1)** - [Instructor] Let's look at the runtime compartment of the CNCF landscape and start with container native networks.
 >
-> **[0:07](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=7)** Container networking was one of the hottest and most confusing topics in 2016, especially when enterprises started to use Kubernetes.
+> **[0:07](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=7)** Container networking was one of the hottest and most confusing topics in 2016, especially when enterprises started to use [[Kubernetes]].
 >
 > **[0:16](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=16)** Actually, it's still confusing, but at least today we have a lot more documentation.
 >
@@ -510,7 +502,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=46)** The goal for CNI is to generate a generic plugin-based networking solution for containers.
 >
-> **[0:53](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=53)** This means that the networking plugin vendors should adhere to the CNI spec, which is available on GitHub.
+> **[0:53](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=53)** This means that the networking plugin vendors should adhere to the CNI spec, which is available on [[GitHub]].
 >
 > **[1:00](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=60)** The CNI states that the container runtime must create a new network namespace for the container before invoking any plugins.
 >
@@ -518,7 +510,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=77)** Finally, it adds the container to each network by executing the corresponding plugins for each network sequentially.
 >
-> **[1:25](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=85)** Another interesting aspect is that the networking config is a JSON file, which makes it easy to understand.
+> **[1:25](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=85)** Another interesting aspect is that the networking config is a [[JSON]] file, which makes it easy to understand.
 >
 > **[1:32](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980&t=92)** One question I frequently get asked is what underlying networking provider should I pick?
 >
@@ -534,15 +526,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), generic (1), [[GitHub]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[GitHub]] (1), [[JSON]] (1)
 > **Env Vars:** cni (4), cncf (1), json (1)
 > **Definitions:** means that (1), is a  (1)
 > **Documentation:** spec (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Container storage and runtime projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980)
+#### [Container storage and runtime projects](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,15 +543,15 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=12)** This isn't a surprise because storage, like networking, is the way vendors can sell commercial software in this space.
 >
-> **[0:20](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=20)** Most of the projects in the storage and database landscapes are related to being able to run databases in Kubernetes environment, both SQL and NoSQL.
+> **[0:20](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=20)** Most of the projects in the storage and database landscapes are related to being able to run [[Databases]] in [[Kubernetes]] environment, both [[SQL]] and [[NoSQL]].
 >
-> **[0:29](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=29)** Over time, organizations have wanted to store their data closer to their microservices, which has resulted in ways to run databases on Kubernetes and deal with stateful data in a more operational-friendly fashion.
+> **[0:29](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=29)** Over time, organizations have wanted to store their data closer to their [[Microservices]], which has resulted in ways to run databases on Kubernetes and deal with stateful data in a more operational-friendly fashion.
 >
 > **[0:42](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=42)** The dominant projects in this space, from a CNCF perspective are Vitess, Rook, etcd and TiKV.
 >
 > **[0:50](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=50)** Here's a quick summary of what they do and how they fit together.
 >
-> **[0:55](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=55)** If you're wanting to run MySQL in your Kubernetes cluster, Vitness is a good option to help you horizontally scale your MySQL via sharding.
+> **[0:55](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=55)** If you're wanting to run [[MySQL]] in your Kubernetes cluster, Vitness is a good option to help you horizontally scale your MySQL via sharding.
 >
 > **[1:03](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=63)** Etcd serves as the brain of Kubernetes.
 >
@@ -572,7 +563,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=77)** If you do want to use etcd, feel free to spin up another etcd cluster on your Kubernetes cluster.
 >
-> **[1:23](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=83)** TiKV is a high-performant distributed transactional, easy-to-use key-value store written in Rust.
+> **[1:23](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=83)** TiKV is a high-performant distributed transactional, easy-to-use key-value store written in [[Rust (Programming Language)|Rust]].
 >
 > **[1:29](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=89)** Finally, Rook focuses on orchestrating Ceph on top of Kubernetes.
 >
@@ -590,7 +581,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=125)** Containerd is the standard container runtime and is the default for a few Kubernetes-managed distributions.
 >
-> **[2:11](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=131)** It's designed to be simple, robust and portable, and is available as a daemon for Linux and Windows.
+> **[2:11](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=131)** It's designed to be simple, robust and portable, and is available as a daemon for [[Linux]] and [[Windows]].
 >
 > **[2:17](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-storage-and-runtime-projects?u=76281980&t=137)** Containerd manages the complete container lifecycle of the host system: image transfer and storage, container execution and supervision, low-level storage, and network attachment.
 >
@@ -604,7 +595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), data (3), [[Databases]] (2), [[MySQL]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Databases]] (2), [[MySQL]] (2), [[SQL]] (1), [[NoSQL]] (1)
 > **Env Vars:** cri (4), sql (1), cncf (1), ibm (1), suse (1)
 > **CLI Commands:** mysql (2), docker (1)
 > **Definitions:** is a  (3)
@@ -615,14 +606,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud native monitoring with Prometheus
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980)
+#### [Cloud native monitoring with Prometheus](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980&t=1)** - [Instructor] Application monitoring is a vendor-heavy segment in IT, and this remains true for the CNCF segment, as well.
 >
-> **[0:08](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980&t=8)** All of the existing monitoring vendors extend the solutions well for Kubernetes and cloud native applications.
+> **[0:08](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980&t=8)** All of the existing monitoring vendors extend the solutions well for [[Kubernetes]] and cloud native applications.
 >
 > **[0:16](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980&t=16)** Prometheus is the open source project that was added as a CNCF project.
 >
@@ -630,7 +620,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980&t=27)** First, Prometheus integrates with fetching and reporting Kubernetes cluster metrics.
 >
-> **[0:32](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980&t=32)** It simplifies monitoring your Kubernetes clusters and has the ability to scrape the Kubernetes REST API, giving you insights into the cluster.
+> **[0:32](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980&t=32)** It simplifies monitoring your Kubernetes clusters and has the ability to scrape the Kubernetes [[Representational State Transfer (REST)|REST]] API, giving you insights into the cluster.
 >
 > **[0:41](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980&t=41)** Second, you can instrument Prometheus to scrape your application metrics that are running in Kubernetes.
 >
@@ -656,23 +646,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (10), application (4), cloud (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (10), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cncf (2), rest (1), api (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Application logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980)
+#### [Application logging](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980&t=0)** - [Instructor] Similar to monitoring, log management in IT also has a lot of vendors, and open source projects.
 >
-> **[0:07](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980&t=7)** The growth at DevOps has helped system and application logging become more visible.
+> **[0:07](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980&t=7)** The growth at [[DevOps]] has helped system and application logging become more visible.
 >
-> **[0:11](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980&t=11)** This continues to be true in the Cloud Native space as well, where most of the logging vendors and open source projects are also compatible with Kubernetes and Cloud Native software.
+> **[0:11](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980&t=11)** This continues to be true in the Cloud Native space as well, where most of the logging vendors and open source projects are also compatible with [[Kubernetes]] and Cloud Native software.
 >
 > **[0:21](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980&t=21)** Logging tools collect, store, and analyze application and infrastructure messages to track errors, warnings, or any related data.
 >
@@ -688,7 +677,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980&t=75)** It provides the log aggregation layer that allows you to filter, buffer, and route your logs from various applications and platforms to a backend of your choosing.
 >
-> **[1:24](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980&t=84)** If you're familiar with the Elasticsearch, Logstash, Kibana, or ELK Stack, you can replace Logstash or Beats with Fluentd.
+> **[1:24](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980&t=84)** If you're familiar with the [[Elasticsearch]], Logstash, Kibana, or ELK Stack, you can replace Logstash or Beats with Fluentd.
 >
 > **[1:33](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-logging?u=76281980&t=93)** When FluentD first joined the CNCF, it was positioned well to ingest logs from despaired applications, the Docker Daemon logs, the Kubernetes API server logs, which made it a great fit for the foundation.
 >
@@ -706,21 +695,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), cloud (5), application (2), management (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[DevOps]] (1), [[Elasticsearch]] (1)
 > **Env Vars:** cncf (4), elk (1), api (1)
 > **CLI Commands:** node (1), kubectl (1), docker (1)
 > **Analogies:** similar to (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Application tracing
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-tracing?u=76281980)
+#### [Application tracing](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-tracing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-tracing?u=76281980&t=0)** - [Instructor] I often progress through these stages of debugging when I'm trying to figure out why an app isn't functioning.
 >
-> **[0:06](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-tracing?u=76281980&t=6)** I don't always find myself at step six, but with microservices, debugging issues does get a lot more complicated.
+> **[0:06](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-tracing?u=76281980&t=6)** I don't always find myself at step six, but with [[Microservices]], debugging issues does get a lot more complicated.
 >
 > **[0:14](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-tracing?u=76281980&t=14)** Before the tooling evolved in to cloud native ecosystem, I was pretty much equipped with detailed log statements and multiple screens to see log data flowing in.
 >
@@ -740,7 +728,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-tracing?u=76281980&t=65)** Think of a trace as the progress of an entire request coming into the system.
 >
-> **[1:09](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-tracing?u=76281980&t=69)** For example, if someone clicks on a purchase button on an e-commerce site, the trace would encompass all of the actions behind the scenes from the start of the button click to the end of the request.
+> **[1:09](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-tracing?u=76281980&t=69)** For example, if someone clicks on a purchase button on an [[E-Commerce]] site, the trace would encompass all of the actions behind the scenes from the start of the button click to the end of the request.
 >
 > **[1:19](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-tracing?u=76281980&t=79)** Spans represent the work actually being done by a specific service or component involved in the request as it flows through the system.
 >
@@ -776,7 +764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Debugging]] (3), [[Microservices]] (3), application (3), cloud (2)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[E-Commerce]] (2)
 > **CLI Commands:** find (2)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** cncf (1)
@@ -784,12 +772,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security, policy, and distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980)
+#### [Security, policy, and distribution](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=0)** - [Instructor] As a proponent of DevSecOps, I'm happy to see that the thought leaders in the cloud native space pay attention to policy and security.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=0)** - [Instructor] As a proponent of [[DevSecOps]], I'm happy to see that the thought leaders in the cloud native space pay attention to policy and security.
 >
 > **[0:08](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=8)** They've been thinking about how to treat both of these concerns proactively, rather than in a reactive manner, as is so common in the software industry.
 >
@@ -815,7 +802,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=79)** So if you're working in a scenario where you have to deal with a lot of software updates, et cetera, make sure to take a look at these projects.
 >
-> **[1:28](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=88)** From a runtime perspective, one of the issues with Kubernetes is that the default for access to a Kubernetes cluster can be very broad.
+> **[1:28](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=88)** From a runtime perspective, one of the issues with [[Kubernetes]] is that the default for access to a Kubernetes cluster can be very broad.
 >
 > **[1:36](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=96)** This makes it a misconfiguration haven and an attractive target for attackers.
 >
@@ -831,7 +818,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=135)** Falco was initially a Sysdig project that was donated to the CNCF.
 >
-> **[2:20](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=140)** It continuously parses the Linux system calls from the kernel.
+> **[2:20](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=140)** It continuously parses the [[Linux]] system calls from the kernel.
 >
 > **[2:23](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/security-policy-and-distribution?u=76281980&t=143)** It allows you to configure policies to strengthen your container security by matching rules to what's going on in your running system.
 >
@@ -845,7 +832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), cloud (2), [[Kubernetes]] (2), [[DevSecOps]] (1), management (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[DevSecOps]] (1), [[Linux]] (1)
 > **Env Vars:** tuf (4), cncf (3), opa (2), cni (1), api (1)
 > **CLI Commands:** docker (3), make (1)
 > **Definitions:** is a  (3), known as (1)
@@ -859,8 +846,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The CNCF today and tomorrow
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980)
+#### [The CNCF today and tomorrow](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,7 +864,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=38)** In my opinion, while it does that well, it's still hard to know how the landscape will play out in the end.
 >
-> **[0:44](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=44)** If you're just getting started with Kubernetes, and the CNCF, begins slowly with a few projects that solve your use case before expanding out.
+> **[0:44](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=44)** If you're just getting started with [[Kubernetes]], and the CNCF, begins slowly with a few projects that solve your use case before expanding out.
 >
 > **[0:53](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=53)** Another way to know whether a project has gotten traction with the CNCF is to look at the project maturation criteria.
 >
@@ -886,17 +872,17 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=66)** Projects accepted into the CNCF have three levels, sandbox, incubating and graduated.
 >
-> **[1:12](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=72)** Projects increase their maturity by demonstrating the sustainability to the CNCF Technical Oversight Committee that they can have adoption, a healthy rate of change, and committers for multiple organizations for example.
+> **[1:12](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=72)** Projects increase their maturity by demonstrating the [[Sustainability]] to the CNCF Technical Oversight Committee that they can have adoption, a healthy rate of change, and committers for multiple organizations for example.
 >
 > **[1:24](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=84)** Projects increase their maturity by demonstrating the sustainability to the CNCF Technical Oversight Committee, things like, that they have adoption, there's a healthy rate of change, and that there are committers from multiple organizations.
 >
 > **[1:38](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=98)** Let's say you're a developer looking for practical training, check out the other Kubernetes, and cloud native courses in the library, or consider getting certified as a certified Kubernetes administrator or a certified Kubernetes application developer or another certification by the CNCF.
 >
-> **[1:53](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=113)** Also, I'll try to keep up with the new container technology on the Agile Admin blog.
+> **[1:53](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=113)** Also, I'll try to keep up with the new container technology on the [[Agile Development|Agile]] Admin blog.
 >
 > **[1:57](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=117)** So keep tabs on that as well.
 >
-> **[1:59](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=119)** And if you're really stuck, feel free to reach out to me on LinkedIn or Twitter.
+> **[1:59](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=119)** And if you're really stuck, feel free to reach out to me on [[LinkedIn]] or Twitter.
 >
 > **[2:04](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980&t=124)** Good luck on your journey with Cloud Native applications.
 >
@@ -904,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Sustainability]] (2), cloud (2), ci (1), application (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Sustainability]] (2), [[Agile Development|Agile]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cncf (9)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)

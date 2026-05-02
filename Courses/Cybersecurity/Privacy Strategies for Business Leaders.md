@@ -99,12 +99,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Privacy in today's enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-in-today-s-enterprise?u=76281980)
+#### [Privacy in today's enterprise](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-in-today-s-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-in-today-s-enterprise?u=76281980&t=0)** - [Nishant] My name is Nishant Bhajaria, and I'm excited to present my latest privacy course on LinkedIn: "Privacy for Executives and Aspiring Executives."
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-in-today-s-enterprise?u=76281980&t=0)** - [Nishant] My name is Nishant Bhajaria, and I'm excited to present my latest [[Privacy]] course on [[LinkedIn]]: "Privacy for Executives and Aspiring Executives."
 >
 > **[0:09](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-in-today-s-enterprise?u=76281980&t=9)** Today's leaders have to meet specific goals to succeed: growth, engagement, revenue.
 >
@@ -126,16 +125,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), business (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [nishant] (1)
 
-#### Why executives need to understand privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/why-executives-need-to-understand-privacy?u=76281980)
+#### [Why executives need to understand privacy](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/why-executives-need-to-understand-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/why-executives-need-to-understand-privacy?u=76281980&t=0)** - [Instructor] For those executives who are skeptical that they need to understand privacy, let me use a contemporary metaphor.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/why-executives-need-to-understand-privacy?u=76281980&t=0)** - [Instructor] For those executives who are skeptical that they need to understand [[Privacy]], let me use a contemporary metaphor.
 >
 > **[0:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/why-executives-need-to-understand-privacy?u=76281980&t=7)** If you had told anyone at the beginning of 2020 that the virus would affect our lives so deeply, and affect our economy so significantly, they might have been a bit skeptical.
 >
@@ -165,14 +163,13 @@ created: 2026-05-02
 > **Env Vars:** covid (1)
 > **Speakers:** - [instructor] (1)
 
-#### How this course will help executives
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/how-this-course-will-help-executives?u=76281980)
+#### [How this course will help executives](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/how-this-course-will-help-executives?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/how-this-course-will-help-executives?u=76281980&t=0)** - [Instructor] Besides building a baseline of conceptual knowledge, this course will help executives by answering four key questions.
 >
-> **[0:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/how-this-course-will-help-executives?u=76281980&t=7)** First, how do you go from privacy first principles that nobody disagrees with to a specific, actionable game plan?
+> **[0:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/how-this-course-will-help-executives?u=76281980&t=7)** First, how do you go from [[Privacy]] first principles that nobody disagrees with to a specific, actionable game plan?
 >
 > **[0:15](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/how-this-course-will-help-executives?u=76281980&t=15)** Second, what are the key streams of work that constitute a privacy program?
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), game (1), leadership (1)
+> **Frameworks & Libraries:** [[Privacy]] (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -199,8 +196,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The big picture: Privacy, your business, and the economy
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-your-business-and-the-economy?u=76281980)
+#### [The big picture: Privacy, your business, and the economy](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-your-business-and-the-economy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,25 +234,24 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-your-business-and-the-economy?u=76281980&t=86)** Fifth, average order value, et cetera, et cetera.
 >
-> **[1:29](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-your-business-and-the-economy?u=76281980&t=89)** You pretty much understand how all of these are components in an overall growth in sales strategy.
+> **[1:29](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-your-business-and-the-economy?u=76281980&t=89)** You pretty much understand how all of these are components in an overall growth in [[Sales Strategy]].
 >
 > **[1:36](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-your-business-and-the-economy?u=76281980&t=96)** Now how safe your customers feel and how much they trust you with data online is a key driver for most if not all of those metrics.
 >
-> **[1:44](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-your-business-and-the-economy?u=76281980&t=104)** Our online economy and your online business, both of which make for a growing share of overall customer spending, depend upon trust, and therefore on privacy.
+> **[1:44](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-your-business-and-the-economy?u=76281980&t=104)** Our online economy and your online business, both of which make for a growing share of overall customer spending, depend upon trust, and therefore on [[Privacy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), traffic (6), product (1), [[Automation]] (1), [[Sales Strategy]] (1)
+> **Frameworks & Libraries:** [[Sales Strategy]] (1), [[Privacy]] (1)
 > **Definitions:** refers to (3), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### The big picture: Privacy, governments, auditors, and investors
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-governments-auditors-and-investors?u=76281980)
+#### [The big picture: Privacy, governments, auditors, and investors](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-governments-auditors-and-investors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-governments-auditors-and-investors?u=76281980&t=0)** - [Narrator] For those listening to this course, I would also recommend taking my first LinkedIn learning privacy course titled Implementing a Privacy, Risk, and Assurance Program.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-governments-auditors-and-investors?u=76281980&t=0)** - [Narrator] For those listening to this course, I would also recommend taking my first [[LinkedIn]] learning [[Privacy]] course titled Implementing a Privacy, Risk, and Assurance Program.
 >
 > **[0:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-governments-auditors-and-investors?u=76281980&t=10)** In that course, I've explained in detail how privacy has come a long way since Judge Robert Bork contended in the late 1980s that Americans were not explicitly guaranteed a right to privacy by the US constitution.
 >
@@ -277,12 +272,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### The big picture: Privacy and your users
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-and-your-users?u=76281980)
+#### [The big picture: Privacy and your users](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-and-your-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-and-your-users?u=76281980&t=0)** - [Instructor] While the privacy laws we talked about empower regulators, the ultimate spending power rests with the customers, and the willingness of these customers to trust you and your privacy practices is key.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-and-your-users?u=76281980&t=0)** - [Instructor] While the [[Privacy]] laws we talked about empower regulators, the ultimate spending power rests with the customers, and the willingness of these customers to trust you and your privacy practices is key.
 >
 > **[0:12](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-and-your-users?u=76281980&t=12)** In this context, the numbers are somewhat sobering.
 >
@@ -294,22 +288,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (3), power (1), data (1)
+> **Frameworks & Libraries:** [[Privacy]] (3)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-principles?u=76281980)
+#### [Privacy principles](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-principles?u=76281980&t=0)** - [Instructor] All of this information about privacy can seem a little overwhelming, even confusing.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-principles?u=76281980&t=0)** - [Instructor] All of this information about [[Privacy]] can seem a little overwhelming, even confusing.
 >
 > **[0:05](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-principles?u=76281980&t=5)** So let's create some practical first principles around privacy.
 >
 > **[0:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-principles?u=76281980&t=10)** First, privacy is here to stay.
 >
-> **[0:12](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-principles?u=76281980&t=12)** You need to protect your business and your users by building privacy into your products.
+> **[0:12](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-principles?u=76281980&t=12)** You need to protect your business and your users by building privacy into your [[Microsoft Products|products]].
 >
 > **[0:17](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-principles?u=76281980&t=17)** Otherwise, somebody who does not understand your business and does not understand your users will force your hand.
 >
@@ -327,7 +320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (9), business (3), [[Microsoft Products|Products]] (2), teams (2)
+> **Frameworks & Libraries:** [[Privacy]] (9), [[Microsoft Products|Products]] (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -335,12 +328,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protecting your users: Trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-users-trust?u=76281980)
+#### [Protecting your users: Trust](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-users-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-users-trust?u=76281980&t=0)** - [Instructor] Having understood what privacy means to your business, let's now understand what your responsibilities are as an executive.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-users-trust?u=76281980&t=0)** - [Instructor] Having understood what [[Privacy]] means to your business, let's now understand what your responsibilities are as an executive.
 >
 > **[0:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-users-trust?u=76281980&t=7)** It is especially key to understand how building a privacy reputation and trust with your customers can help you achieve key business objectives like customer loyalty, business growth, and brand differentiation.
 >
@@ -376,22 +368,21 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-users-trust?u=76281980&t=109)** As with other social changes like marriage equality, pay equity, et cetera, this is an example of the laws catching up with social expectation.
 >
-> **[1:56](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-users-trust?u=76281980&t=116)** This is why I have placed customer trust as your first privacy-related responsibility ahead of legal compliance.
+> **[1:56](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-users-trust?u=76281980&t=116)** This is why I have placed customer trust as your first privacy-related responsibility ahead of [[Legal Compliance]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (7), business (4), data (2), [[Legal Compliance]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Legal Compliance]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting your company: Audits and regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980)
+#### [Protecting your company: Audits and regulations](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=0)** - [Instructor] Besides protecting your users, executive leaders and their chain of command, also have a responsibility to keep their company in compliance with laws.
 >
-> **[0:09](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=9)** Optimal privacy is not just about protecting your customers and your users, it is also about protecting your business.
+> **[0:09](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=9)** Optimal [[Privacy]] is not just about protecting your customers and your users, it is also about protecting your business.
 >
 > **[0:16](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=16)** As we saw before, the reach of privacy laws is expanding globally.
 >
@@ -411,33 +402,32 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=63)** I was at a privacy conference in Brussels in January, 2020, and a European regulator said that they regarded existing laws as a floor, rather than a ceiling when it came to privacy.
 >
-> **[1:14](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=74)** For example he said, they would evaluate a company based on whether the company was being transparent around data collection and news, and whether it was only collecting data when required.
+> **[1:14](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=74)** For example he said, they would evaluate a company based on whether the company was being transparent around [[Data Collection]] and news, and whether it was only collecting data when required.
 >
 > **[1:24](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=84)** As mentioned before, privacy laws and their execution is increasingly a lagging indicator of public sentiment.
 >
 > **[1:30](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=90)** So you will want to build a privacy culture, that can protect your company.
 >
-> **[1:35](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=95)** To that end, you will need to build privacy into how you design your work products and processes so people make the right decisions even when a privacy specialist is not in the room.
+> **[1:35](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-company-audits-and-regulations?u=76281980&t=95)** To that end, you will need to build privacy into how you design your work [[Microsoft Products|products]] and processes so people make the right decisions even when a privacy specialist is not in the room.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (9), business (2), data (2), teams (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (9), [[Data Collection]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), iso (1), grc (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** as we saw (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building privacy by design into your culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980)
+#### [Building privacy by design into your culture](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980&t=0)** - [Instructor] So what does privacy by design mean?
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980&t=0)** - [Instructor] So what does [[Privacy]] by design mean?
 >
 > **[0:03](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980&t=3)** Like all management speak, this phrase has a rather simple and intuitive meaning.
 >
-> **[0:08](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980&t=8)** You will want privacy to be a key feature of your product, not a checkbox after all the features are built, but a key filter through which all products must pass.
+> **[0:08](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980&t=8)** You will want privacy to be a key feature of your product, not a checkbox after all the features are built, but a key filter through which all [[Microsoft Products|products]] must pass.
 >
 > **[0:20](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980&t=20)** Visually speaking, think of your technical stack as a horizontal funnel, with data growing in size and spread as it travels from left to right.
 >
@@ -445,7 +435,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980&t=46)** It makes sense to have these controls on the left hand side.
 >
-> **[0:51](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980&t=51)** Privacy by design is about how you conduct privacy reviews, manage privacy in data collection, and provide your users more control over their data.
+> **[0:51](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980&t=51)** Privacy by design is about how you conduct privacy reviews, manage privacy in [[Data Collection]], and provide your users more control over their data.
 >
 > **[1:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/building-privacy-by-design-into-your-culture?u=76281980&t=60)** This is just a subset of the overall work involved.
 >
@@ -455,7 +445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (7), data (5), management (1), feature (1), product (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Microsoft Products|Products]] (1), [[Data Collection]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - [instructor] (1)
@@ -465,12 +455,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Attributes of your privacy program
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/attributes-of-your-privacy-program?u=76281980)
+#### [Attributes of your privacy program](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/attributes-of-your-privacy-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/attributes-of-your-privacy-program?u=76281980&t=0)** - [Instructor] A privacy program needs core attributes that will help guide decision making and staffing.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/attributes-of-your-privacy-program?u=76281980&t=0)** - [Instructor] A [[Privacy]] program needs core attributes that will help guide decision making and staffing.
 >
 > **[0:05](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/attributes-of-your-privacy-program?u=76281980&t=5)** These will be different from the attributes for a dedicated product team, for example, which is vertical and siloed.
 >
@@ -484,7 +473,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/attributes-of-your-privacy-program?u=76281980&t=42)** Execution will matter.
 >
-> **[0:44](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/attributes-of-your-privacy-program?u=76281980&t=44)** Accountability, you will need accountability from privacy specialists, as well as stakeholders across the company to ensure that you meet privacy requirements.
+> **[0:44](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/attributes-of-your-privacy-program?u=76281980&t=44)** [[Accountability]], you will need accountability from privacy specialists, as well as stakeholders across the company to ensure that you meet privacy requirements.
 >
 > **[0:54](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/attributes-of-your-privacy-program?u=76281980&t=54)** Metrics, if you cannot measure it, it did not happen.
 >
@@ -496,22 +485,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (6), [[Accountability]] (2), product (1), functional (1), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Accountability]] (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy roles and responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980)
+#### [Privacy roles and responsibilities](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=0)** - [Instructor] Now that we know what makes a privacy program effective, let's assign roles and responsibilities.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=0)** - [Instructor] Now that we know what makes a [[Privacy]] program effective, let's assign roles and responsibilities.
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=6)** One of the reasons that startups often incubate fresh ideas and create growth is that there are minimal turf wars, and the scale is manageable.
 >
 > **[0:14](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=14)** It's a place for ideas and execution.
 >
-> **[0:17](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=17)** Privacy programs, on the other hand, are often created once the company has grown, so it is vital to define ownership and ensure that there is accountability.
+> **[0:17](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=17)** Privacy programs, on the other hand, are often created once the company has grown, so it is vital to define ownership and ensure that there is [[Accountability]].
 >
 > **[0:26](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=26)** So in the next few slides, we will identify key stakeholders in your program and assign them responsibilities based on domain expertise.
 >
@@ -527,7 +515,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=65)** Your legal team has to educate internally and represent externally for your company on all matters privacy.
 >
-> **[1:11](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=71)** You will want this team to partner with engineering and product in ensuring that privacy is built into products and your platform.
+> **[1:11](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=71)** You will want this team to partner with engineering and product in ensuring that privacy is built into [[Microsoft Products|products]] and your platform.
 >
 > **[1:20](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=80)** You will want to make sure that your attorneys understand the engineering implications, even though attorneys don't write code.
 >
@@ -543,7 +531,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=117)** So you will want your security team to be a key stakeholder from your privacy perspective.
 >
-> **[2:04](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=124)** Finally, your office of program management, or your PMO.
+> **[2:04](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=124)** Finally, your [[Microsoft Office|office]] of program management, or your PMO.
 >
 > **[2:08](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-roles-and-responsibilities?u=76281980&t=128)** PMOs can be very effective because they drive cross-functional projects.
 >
@@ -557,19 +545,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (13), [[Security]] (6), product (3), [[Engineering]] (3), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (13), [[Accountability]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cto (1), pmo (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - [instructor] (1)
 
-#### The need for metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980)
+#### [The need for metrics](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=0)** - [Instructor] Privacy and security leaders are often deemed to be alarmists when they warn about gaps looking forward, but they're also accused of being careless if they fail to cover all the gaps when people look back.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=0)** - [Instructor] [[Privacy]] and security leaders are often deemed to be alarmists when they warn about gaps looking forward, but they're also accused of being careless if they fail to cover all the gaps when people look back.
 >
 > **[0:12](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=12)** Competence, unfortunately, is taken for granted, since it is hard to prove a counterfactual, as in, things that would have gone wrong if not for the privacy program.
 >
@@ -579,11 +566,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=33)** Some of those are, in my experience: At what point do you have so much data that protecting it becomes prohibitively expensive?
 >
-> **[0:41](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=41)** What do you do when your ability to delete data at scale is dwarfed by your data collection, for example?
+> **[0:41](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=41)** What do you do when your ability to delete data at scale is dwarfed by your [[Data Collection]], for example?
 >
 > **[0:49](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=49)** When is the inflection point where you stop discovering data that ingenious engineers have tucked away?
 >
-> **[0:55](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=55)** What does privacy do to help data quality; is there a common cause to be made with data science teams?
+> **[0:55](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=55)** What does privacy do to help [[Data Quality]]; is there a common cause to be made with [[Data Science]] teams?
 >
 > **[1:01](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=61)** These qualitative metrics will help you assess direction.
 >
@@ -597,11 +584,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=91)** Some of them are: percentage of data discovered, classified and measure for risk, percentage of data covered by access management or percentage of data protected by security.
 >
-> **[1:42](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=102)** The rest of these are fairly intuitive but you will want to make sure that you are looking at data through the vernier of hard and soft metrics in order to assess the impact of your privacy program.
+> **[1:42](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-need-for-metrics?u=76281980&t=102)** The [[Representational State Transfer (REST)|rest]] of these are fairly intuitive but you will want to make sure that you are looking at data through the vernier of hard and soft metrics in order to assess the impact of your privacy program.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Privacy]] (6), [[Security]] (2), teams (1), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Collection]] (1), [[Data Quality]] (1), [[Data Science]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -612,24 +599,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A two-tiered program
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980)
+#### [A two-tiered program](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=0)** - [Instructor] In order to help your privacy program deliver for your users and your businesses, you need a strategic arm as well as another arm that is more tactical and operational.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=0)** - [Instructor] In order to help your [[Privacy]] program deliver for your users and your businesses, you need a strategic arm as well as another arm that is more tactical and operational.
 >
 > **[0:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=10)** Let me explain why that is.
 >
 > **[0:12](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=12)** Modern businesses are successful, as we have mentioned before, due to three D's.
 >
-> **[0:17](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=17)** First data, second decentralization, and third democratization.
+> **[0:17](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=17)** First data, second [[Decentralization]], and third democratization.
 >
 > **[0:23](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=23)** Data is the engine that drives innovation.
 >
 > **[0:26](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=26)** Platforms that track user mouse movements over time could be the first to notice symptoms of Parkinson's disease.
 >
-> **[0:32](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=32)** Data-powered artificial intelligence helps improve shopping and social networks, provide clean energy and better manage food supply and transportation systems.
+> **[0:32](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=32)** Data-powered [[Artificial Intelligence (AI)|artificial intelligence]] helps improve shopping and social networks, provide clean energy and better manage food supply and transportation systems.
 >
 > **[0:41](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=41)** Data can help companies manage revenue with the goals of increasing economic prosperity and reducing layoffs created by uncertainty.
 >
@@ -639,7 +625,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=60)** As a result, engineers like collecting data, lots of it.
 >
-> **[1:05](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=65)** Thanks to expanding internet access and easy cloud storage, they can now collect this data and store lots of it.
+> **[1:05](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=65)** Thanks to expanding internet access and easy [[Cloud Storage]], they can now collect this data and store lots of it.
 >
 > **[1:13](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980&t=73)** Which brings us to our second D, decentralization.
 >
@@ -673,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Privacy]] (6), teams (4), [[Decentralization]] (3), product (2)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Decentralization]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** go to (1)
@@ -681,16 +667,15 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### The privacy working group
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980)
+#### [The privacy working group](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980&t=0)** - [Instructor] The first tier of your program would be a strategic one.
 >
-> **[0:03](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980&t=3)** We will call it the privacy working group, on the PWG.
+> **[0:03](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980&t=3)** We will call it the [[Privacy]] working group, on the PWG.
 >
-> **[0:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980&t=7)** This group will help ensure alignment so as to mitigate the potential suboptimal outcomes of democratization and decentralization.
+> **[0:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980&t=7)** This group will help ensure alignment so as to mitigate the potential suboptimal outcomes of democratization and [[Decentralization]].
 >
 > **[0:15](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980&t=15)** We will soon see what the PWG's core responsibilities are, and you will see why the PWG will require very senior leaders from across the company at the table.
 >
@@ -712,7 +697,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980&t=63)** Being in the PWG means you will have a responsibility to prioritize and fund privacy initiatives, either from your own budget or via other channels.
 >
-> **[1:13](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980&t=73)** And finally, accountability.
+> **[1:13](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980&t=73)** And finally, [[Accountability]].
 >
 > **[1:15](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-working-group?u=76281980&t=75)** Collectively, the PWG will bear responsibility for privacy-related decisions and outcomes.
 >
@@ -730,18 +715,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (7), [[Decentralization]] (1), leadership (1), [[Accountability]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Decentralization]] (1), [[Accountability]] (1)
 > **Env Vars:** pwg (9), svp (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The privacy execution team
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980)
+#### [The privacy execution team](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=0)** - [Instructor] The second tier of your privacy program will drive implementation and produce work that is visible within your company.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=0)** - [Instructor] The second tier of your [[Privacy]] program will drive implementation and produce work that is visible within your company.
 >
 > **[0:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=7)** This team will be funded by the PWG stakeholders.
 >
@@ -753,15 +737,15 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=42)** This could become a privacy risk and a maintenance nightmare.
 >
-> **[0:47](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=47)** You will want to invest in a team whose core mission is to build privacy features, artifacts and tools that will drive efficiencies for the rest of your business.
+> **[0:47](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=47)** You will want to invest in a team whose core mission is to build privacy features, artifacts and tools that will drive efficiencies for the [[Representational State Transfer (REST)|rest]] of your business.
 >
-> **[0:56](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=56)** While individual engineering teams will build products and generate revenue for your business, the privacy execution team, which is the second arm of your privacy program, will build privacy capabilities for those individual teams, enabling those teams to focus on their growth targets without having to implement privacy tools as well.
+> **[0:56](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=56)** While individual engineering teams will build [[Microsoft Products|products]] and generate revenue for your business, the privacy execution team, which is the second arm of your privacy program, will build privacy capabilities for those individual teams, enabling those teams to focus on their growth targets without having to implement privacy tools as well.
 >
-> **[1:16](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=76)** Your privacy execution team will have responsibilities like trainings, reviews, governance, partner engagement, incident response, audits, et cetera.
+> **[1:16](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=76)** Your privacy execution team will have responsibilities like trainings, reviews, governance, partner engagement, [[Incident Response]], audits, et cetera.
 >
 > **[1:25](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=85)** This list is not exhaustive and will evolve as your business grows and privacy laws change.
 >
-> **[1:31](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=91)** I will add a word of caution though.
+> **[1:31](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=91)** I will add a [[Microsoft Word|word]] of caution though.
 >
 > **[1:34](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-privacy-execution-team?u=76281980&t=94)** Building centralized privacy tools is meant to be a force multiplier for your product and engineering teams, but that does not mean that privacy should recede into the background for your engineering and product teams.
 >
@@ -771,7 +755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (20), teams (10), [[Engineering]] (5), business (3), product (3)
+> **Frameworks & Libraries:** [[Privacy]] (20), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), [[Incident Response]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pwg (1)
 > **Warnings:** caution (1)
@@ -782,12 +766,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Privacy disclosures
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-disclosures?u=76281980)
+#### [Privacy disclosures](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-disclosures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-disclosures?u=76281980&t=0)** - [Instructor] You may think that hardly anybody reads the terms of use and privacy policies, when customers come to your website.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-disclosures?u=76281980&t=0)** - [Instructor] You may think that hardly anybody reads the terms of use and [[Privacy]] policies, when customers come to your website.
 >
 > **[0:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-disclosures?u=76281980&t=7)** But this is where you get to disclose what data you collect from the users, how you use that data, and your rights and responsibilities.
 >
@@ -803,40 +786,39 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-disclosures?u=76281980&t=47)** So even as they may seem like legalese, these disclosures form a key pillar of your privacy by design strategy.
 >
-> **[0:55](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-disclosures?u=76281980&t=55)** In order for these disclosures to affect your operating reality, you will need a data governance strategy on which we have a whole chapter coming up shortly.
+> **[0:55](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-disclosures?u=76281980&t=55)** In order for these disclosures to affect your operating reality, you will need a [[Data Governance]] strategy on which we have a whole chapter coming up shortly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (4), data (3), business (2), teams (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Governance]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy reviews: Legal and technical
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980)
+#### [Privacy reviews: Legal and technical](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=0)** - [Instructor] Privacy by design requires that you evaluate your products and features through a privacy lens.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=0)** - [Instructor] [[Privacy]] by design requires that you evaluate your [[Microsoft Products|products]] and features through a privacy lens.
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=6)** Business leaders conceive an engineer's execute products for growth and revenue, so you will want privacy experts both legal and technical to help evaluate these products.
 >
 > **[0:16](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=16)** Think of privacy reviews not as a wall, but a filter.
 >
-> **[0:20](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=20)** Their purpose is to block out the harmful portion of the flow without effecting the rest.
+> **[0:20](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=20)** Their purpose is to block out the harmful portion of the flow without effecting the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:25](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=25)** In order to provide a review process that is comprehensive and flexible, you will want both your legal and privacy technical teams to participate.
 >
-> **[0:34](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=34)** The review conducted by your legal team is often called the Data Privacy Impact Assessment or a DPIA.
+> **[0:34](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=34)** The review conducted by your legal team is often called the [[Data Privacy]] Impact Assessment or a DPIA.
 >
-> **[0:40](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=40)** The DPIA looks at several aspects for example, it describes the nature, scope and context and the purposes of the data processing.
+> **[0:40](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=40)** The DPIA looks at several aspects for example, it describes the nature, scope and context and the purposes of the [[Data Processing]].
 >
 > **[0:48](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=48)** It assesses the necessity, the proportionality and the compliance measures, and whole bunch of other things that I've listed on the slide.
 >
 > **[0:54](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=54)** But really what you are talking about is DPIA has to identify and minimize the risks posed by engineering and product decisions before something gets shipped to the customer.
 >
-> **[1:06](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=66)** Remember what we said a while ago about data democratization and decentralization.
+> **[1:06](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=66)** Remember what we said a while ago about data democratization and [[Decentralization]].
 >
 > **[1:11](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-reviews-legal-and-technical?u=76281980&t=71)** That dynamic creates new challenges for the privacy team.
 >
@@ -866,18 +848,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (18), [[Microsoft Products|Products]] (5), teams (4), data (4), business (3)
+> **Frameworks & Libraries:** [[Privacy]] (17), [[Microsoft Products|Products]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Data Privacy]] (1), [[Data Processing]] (1)
 > **Env Vars:** dpia (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy training
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-training?u=76281980)
+#### [Privacy training](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-training?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-training?u=76281980&t=0)** - [Instructor] Companies routinely train their employees on policies like privacy and security, antibribery, intellectual property, sexual harassment, to name a few.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-training?u=76281980&t=0)** - [Instructor] Companies routinely train their employees on policies like [[Privacy]] and security, antibribery, intellectual property, sexual harassment, to name a few.
 >
 > **[0:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-training?u=76281980&t=10)** However, given how complex privacy can get and how mistakes take a while to become consequences, you will need to be creative when it comes to training.
 >
@@ -889,7 +870,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-training?u=76281980&t=36)** I've often had my team send trial emails that contain privacy violations, followed by educational outreach on how to do better.
 >
-> **[0:44](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-training?u=76281980&t=44)** This technique has worked well for security training on phishing attempts to protect high-value employees, and executives from being targeted by scammers.
+> **[0:44](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-training?u=76281980&t=44)** This technique has worked well for security training on [[Phishing]] attempts to protect high-value employees, and executives from being targeted by scammers.
 >
 > **[0:52](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-training?u=76281980&t=52)** We can repurpose that for privacy as well.
 >
@@ -921,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (11), [[Security]] (2), data (2), [[Phishing]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (11), [[Phishing]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** svp (1)
 > **Speakers:** - [instructor] (1)
@@ -931,8 +912,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A data-driven privacy program
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980)
+#### [A data-driven privacy program](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -940,15 +920,15 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=7)** These help identify health issues.
 >
-> **[0:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=10)** In order to meet your data privacy goals, you will need a similar view of your body of work.
+> **[0:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=10)** In order to meet your [[Data Privacy]] goals, you will need a similar view of your body of work.
 >
 > **[0:16](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=16)** Remember, your body of work with data is much more complex than the human body.
 >
-> **[0:20](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=20)** You have massive data stores, including cloud databases, various different formats of data, accessible by different engineers, possibly stored all over the world.
+> **[0:20](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=20)** You have massive data stores, including cloud [[Databases]], various different formats of data, accessible by different engineers, possibly stored all over the world.
 >
-> **[0:30](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=30)** A few slides ago, I had mentioned that in order for your data privacy disclosures to reflect the reality of your business, you will need a data governance program.
+> **[0:30](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=30)** A few slides ago, I had mentioned that in order for your data privacy disclosures to reflect the reality of your business, you will need a [[Data Governance]] program.
 >
-> **[0:38](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=38)** This program will serve as an ongoing health check for your privacy infrastructure and posture.
+> **[0:38](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=38)** This program will serve as an ongoing health check for your [[Privacy]] infrastructure and posture.
 >
 > **[0:44](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980&t=44)** You can only protect your data by correctly understanding where your data comes from, how it's being used, how it impacts the business and your customers and how it impacts privacy laws, as well as other users in the system.
 >
@@ -976,22 +956,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Privacy]] (7), business (3), cloud (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Governance]] (3), [[Data Privacy]] (2), [[Databases]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980)
+#### [Data governance](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=0)** - [Instructor] There is no known formal definition for data governance, so let's use one that is descriptive and intuitive.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=0)** - [Instructor] There is no known formal definition for [[Data Governance]], so let's use one that is descriptive and intuitive.
 >
 > **[0:08](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=8)** Data governance refers to creating a centralized and commonly agreed upon structure to identify data, measure risk, and therefore devise strategies to protect this data from misuse.
 >
 > **[0:19](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=19)** There are four key components for data governance.
 >
-> **[0:22](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=22)** First, data classification, where your legal and engineering teams and other teams across the company will rank your data based on risk and usage so you can protect this data appropriately.
+> **[0:22](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=22)** First, [[Data Classification]], where your legal and engineering teams and other teams across the company will rank your data based on risk and usage so you can protect this data appropriately.
 >
 > **[0:34](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=34)** Data classification is like creating a business glossary that is shared, used regularly and continually updated so that your teams can build upon the same foundation.
 >
@@ -1011,9 +990,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=84)** Just so you understand how my proposed team architecture meshes with scaling your program, here's a visual example.
 >
-> **[1:30](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=90)** Your privacy execution team will lead this effort.
+> **[1:30](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=90)** Your [[Privacy]] execution team will lead this effort.
 >
-> **[1:33](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=93)** The legal and technical privacy specialists will partner with your engineering teams, your data science teams, and others to classify your data.
+> **[1:33](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=93)** The legal and technical privacy specialists will partner with your engineering teams, your [[Data Science]] teams, and others to classify your data.
 >
 > **[1:41](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-governance?u=76281980&t=101)** Based on your classification, the legal team will lead the effort to set retention and deletion policies.
 >
@@ -1029,16 +1008,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), teams (6), [[Engineering]] (3), [[Privacy]] (3), [[Data Classification]] (2)
+> **Frameworks & Libraries:** [[Data Governance]] (3), [[Privacy]] (3), [[Data Classification]] (2), [[Data Science]] (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data inventory and cataloging
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980)
+#### [Data inventory and cataloging](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=0)** - [Instructor] Remember the irritative diagram we saw just a few seconds ago about how the PET, or the privacy execution team, will drive the classification process?
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=0)** - [Instructor] Remember the irritative diagram we saw just a few seconds ago about how the PET, or the [[Privacy]] execution team, will drive the classification process?
 >
 > **[0:09](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=9)** There is yet another step we have to add in for the governance program to be complete, and this step is data inventory as you can see in this diagram, which is the second block on the left-hand side, right after classification.
 >
@@ -1052,9 +1030,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=44)** To inventory your data is to discover it, label it, index it for enterprise-wide discovery.
 >
-> **[0:52](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=52)** That is, you are essentially building a Google-like search capability for your data.
+> **[0:52](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=52)** That is, you are essentially building a [[Google]]-like search capability for your data.
 >
-> **[0:57](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=57)** A data catalog will enable you to process your data in line with your data privacy obligations.
+> **[0:57](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=57)** A data catalog will enable you to process your data in line with your [[Data Privacy]] obligations.
 >
 > **[1:02](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=62)** Once you have your data catalog, you will be able to automate deletion, provide your customers copies of their data in line with your legal obligations, for example, and inform your customers should any of their data get compromised.
 >
@@ -1072,7 +1050,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=116)** It will help your business across the board.
 >
-> **[1:58](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=118)** It will help improve data quality.
+> **[1:58](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=118)** It will help improve [[Data Quality]].
 >
 > **[2:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=120)** It will help you productize data with an improved data repository rather than applying your AI techniques to a much larger and possibly less useful data set.
 >
@@ -1084,13 +1062,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=147)** Data inventory will help surmount the downsides of a siloed organization.
 >
-> **[2:32](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=152)** Having indexed your data, you will now be able to establish end to end data lineage, profiling statistics, and relationship use.
+> **[2:32](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=152)** Having indexed your data, you will now be able to establish end to end [[Data Lineage]], profiling [[Statistics]], and relationship use.
 >
 > **[2:39](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-inventory-and-cataloging?u=76281980&t=159)** Put together, this will help you assess business health more holistically.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Privacy]] (3), business (3), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Google]] (1), [[Data Privacy]] (1), [[Data Quality]] (1), [[Data Lineage]] (1)
 > **Env Vars:** pet (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1100,12 +1078,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data rightsizing, deletion, and access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980)
+#### [Data rightsizing, deletion, and access control](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=0)** - [Instructor] Besides regulatory compliance, a key reason behind data governance is to help manage customer data.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=0)** - [Instructor] Besides [[Regulatory Compliance]], a key reason behind [[Data Governance]] is to help manage customer data.
 >
 > **[0:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=7)** Once you have your data classified and inventoried, you can create tooling to help manage your data.
 >
@@ -1113,9 +1090,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=15)** Data rightsizing, for far too long companies have empowered engineers and data scientists to collect data without limits, with the expectation that today's unneeded data could become tomorrow's unforeseen insight.
 >
-> **[0:28](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=28)** That lack of discipline could lead to internal data misuse, security breaches and inappropriate data sharing.
+> **[0:28](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=28)** That lack of discipline could lead to internal data misuse, security breaches and inappropriate [[Data Sharing]].
 >
-> **[0:36](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=36)** All of these could harm your consumer's privacy and your reputation.
+> **[0:36](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=36)** All of these could harm your consumer's [[Privacy]] and your reputation.
 >
 > **[0:39](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=39)** Stories over the last few years demonstrate that this is not an abstract possibility anymore.
 >
@@ -1139,7 +1116,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=117)** It is harder than it looks, it gets even harder once you start and often ends in tears.
 >
-> **[2:02](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=122)** Data deletion is hard because data collection has grown as we have talked about before.
+> **[2:02](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=122)** Data deletion is hard because [[Data Collection]] has grown as we have talked about before.
 >
 > **[2:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=127)** Data is often stored in disconnected systems that are harder to access and that makes it even harder to assess the risk of a combined record.
 >
@@ -1151,7 +1128,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=156)** And as you will see next, you also want to create access management tooling so that you can prevent improper use of data collected.
 >
-> **[2:43](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=163)** A theme that is developing here is that when it comes to data classification, inventory, access management, deletion, these are all parts of a strategy rather than individual pieces that you can just finish and ignore.
+> **[2:43](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=163)** A theme that is developing here is that when it comes to [[Data Classification]], inventory, access management, deletion, these are all parts of a strategy rather than individual pieces that you can just finish and ignore.
 >
 > **[2:57](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=177)** But back to our slides.
 >
@@ -1173,7 +1150,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=215)** The same tools that protect you from external hackers could be used to protect your data from privacy related misuse.
 >
-> **[3:42](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=222)** These could be tools like encryption, tokenized databases, data obfuscation, anonymization, et cetera.
+> **[3:42](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=222)** These could be tools like encryption, tokenized [[Databases]], data obfuscation, anonymization, et cetera.
 >
 > **[3:49](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980&t=229)** These tools will ensure that you can manage access to your data as laws change, risk around the data grows, the profile of your workforce evolves, partnership and data sharing agreements take shape.
 >
@@ -1189,20 +1166,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Privacy]] (6), management (4), [[Security]] (3), teams (2)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Governance]] (4), [[Data Sharing]] (2), [[Data Collection]] (2), [[Regulatory Compliance]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### User control and choice
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980)
+#### [User control and choice](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=0)** - [Instructor] The privacy community, which includes auditors, media, activists, even your customers, will not simply take you at your word.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=0)** - [Instructor] The [[Privacy]] community, which includes auditors, media, activists, even your customers, will not simply take you at your [[Microsoft Word|word]].
 >
 > **[0:08](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=8)** They will, in a way, use a slogan from the state of Missouri, which is "Show me."
 >
-> **[0:14](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=14)** A key to winning customer trust and demonstrating regulatory compliance is proof that customers have control over their data and how you use that data.
+> **[0:14](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=14)** A key to winning customer trust and demonstrating [[Regulatory Compliance]] is proof that customers have control over their data and how you use that data.
 >
 > **[0:23](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=23)** Sandwiched between the skepticism is confusion.
 >
@@ -1212,7 +1188,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=36)** There are two approaches to help solve this problem.
 >
-> **[0:39](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=39)** First, dashboards.
+> **[0:39](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=39)** First, [[Dashboards]].
 >
 > **[0:40](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=40)** I call this the thermometer approach.
 >
@@ -1224,19 +1200,19 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=52)** Dashboards.
 >
-> **[0:53](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=53)** Just as a thermometer tells you the temperature, dashboards allow you to be transparent around your data collection.
+> **[0:53](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=53)** Just as a thermometer tells you the temperature, dashboards allow you to be transparent around your [[Data Collection]].
 >
 > **[1:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=60)** Dashboards serve several purposes.
 >
 > **[1:02](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=62)** First, they enable you to be transparent about your data collection.
 >
-> **[1:06](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=66)** Second, they help you map your data to products and features that your customers use.
+> **[1:06](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=66)** Second, they help you map your data to [[Microsoft Products|products]] and features that your customers use.
 >
 > **[1:12](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=72)** Third, they empower your customers to the trade-offs that involve the features they get versus the data they part with.
 >
 > **[1:19](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=79)** Four, they contextualize the data you collect for business activity versus security.
 >
-> **[1:25](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=85)** These dashboards are like a we have nothing to hide sign and are the outcome of the data governance work you will have completed in your privacy program.
+> **[1:25](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=85)** These dashboards are like a we have nothing to hide sign and are the outcome of the [[Data Governance]] work you will have completed in your privacy program.
 >
 > **[1:34](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/user-control-and-choice?u=76281980&t=94)** These dashboards are critical since they can allow you to support subject access requests, or SARs, which a consumer or a customer can use to ask companies for records of his or her data.
 >
@@ -1262,22 +1238,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Dashboards]] (6), [[Privacy]] (5), [[Microsoft Products|Products]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Dashboards]] (6), [[Privacy]] (5), [[Data Collection]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** jfk (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vendor risk assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/vendor-risk-assessment?u=76281980)
+#### [Vendor risk assessment](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/vendor-risk-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/vendor-risk-assessment?u=76281980&t=0)** - [Instructor] When you eat chips from a shared bag at a picnic, you are possibly sharing the germs of everyone else who put their hands inside that bag.
 >
-> **[0:08](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/vendor-risk-assessment?u=76281980&t=8)** Likewise, when you share data with partners or third parties, you may end up sharing in risks stemming from the data management program of those entities.
+> **[0:08](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/vendor-risk-assessment?u=76281980&t=8)** Likewise, when you share data with partners or third parties, you may end up sharing in risks stemming from the [[Data Management]] program of those entities.
 >
-> **[0:18](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/vendor-risk-assessment?u=76281980&t=18)** You will want to empower an internal team to assess vendors and check for risks like the record for that vendor on privacy issues, any partners those other vendors work with who may therefore receive any data you share.
+> **[0:18](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/vendor-risk-assessment?u=76281980&t=18)** You will want to empower an internal team to assess vendors and check for risks like the record for that vendor on [[Privacy Issues]], any partners those other vendors work with who may therefore receive any data you share.
 >
 > **[0:31](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/vendor-risk-assessment?u=76281980&t=31)** Given the complexity of data and analysis processes, partnerships could often lead to unforeseen outcomes that significantly lag behind decisions.
 >
@@ -1285,29 +1260,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), management (1), [[Privacy Issues]] (1)
+> **Frameworks & Libraries:** [[Data Management]] (1), [[Privacy Issues]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incident response
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980)
+#### [Incident response](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=0)** - [Instructor] No matter how comprehensive your data governance and how cross-functional your program, there will almost certainly be privacy incidents that you will need to manage and mitigate.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=0)** - [Instructor] No matter how comprehensive your [[Data Governance]] and how cross-functional your program, there will almost certainly be [[Privacy]] incidents that you will need to manage and mitigate.
 >
-> **[0:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=10)** These could range from improper data collection, data leaks by internal actors or external partners.
+> **[0:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=10)** These could range from improper [[Data Collection]], data leaks by internal actors or external partners.
 >
 > **[0:16](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=16)** These could be accidentally or willful.
 >
 > **[0:18](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=18)** You could also have errors like data becoming inaccessible for customers who need it, or you might end up retaining data past agreed-upon timelines.
 >
-> **[0:28](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=28)** Incident response is a critical portion of your privacy strategy for three key reasons.
+> **[0:28](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=28)** [[Incident Response]] is a critical portion of your privacy strategy for three key reasons.
 >
 > **[0:33](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=33)** First, it is the most publicly visible aspect of your privacy program.
 >
 > **[0:38](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=38)** Second, privacy incidents often lead to notifications and compliance requirements, so they require detailed reporting.
 >
-> **[0:46](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=46)** And third, privacy vulnerabilities often span products, services, and geographies, so a privacy incident could be the fragrance before the flavor.
+> **[0:46](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=46)** And third, privacy vulnerabilities often span [[Microsoft Products|products]], services, and geographies, so a privacy incident could be the fragrance before the flavor.
 >
 > **[0:56](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/incident-response?u=76281980&t=56)** You will want a team with privacy analysis that can perform four key functions.
 >
@@ -1325,16 +1299,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (8), data (6), functional (2), teams (2), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Data Governance]] (2), [[Data Collection]] (1), [[Incident Response]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audits
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/audits?u=76281980)
+#### [Audits](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/audits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/audits?u=76281980&t=0)** - [Instructor] Privacy audits are a formal process to prove that you are keeping your privacy commitments.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/audits?u=76281980&t=0)** - [Instructor] [[Privacy]] audits are a formal process to prove that you are keeping your privacy commitments.
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/audits?u=76281980&t=6)** Without going into too much detail, audit preparation entails the sort of capabilities we have discussed so far that your teams have been building.
 >
@@ -1344,7 +1317,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/audits?u=76281980&t=32)** Privacy audits are a bit like being able to point to federal law, to justify itemizing deductions on your taxes, but also just as you cannot respond to privacy incidents on a dime, audits can be extremely expensive.
 >
-> **[0:45](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/audits?u=76281980&t=45)** Investing in data governance and automation, as well as a governance risk management and compliance management team is critical.
+> **[0:45](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/audits?u=76281980&t=45)** Investing in [[Data Governance]] and automation, as well as a governance risk management and [[Compliance Management]] team is critical.
 >
 > **[0:52](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/audits?u=76281980&t=52)** By the way, a governance risk management and compliance team is often also known as a GRC team.
 >
@@ -1354,7 +1327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (6), management (2), teams (1), data (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Governance]] (1), [[Compliance Management]] (1)
 > **Env Vars:** gdpr (1), grc (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1364,12 +1337,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Privacy and staffing
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980)
+#### [Privacy and staffing](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980&t=0)** - [Instructor] The privacy capabilities we have discussed this far we cost money.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980&t=0)** - [Instructor] The [[Privacy]] capabilities we have discussed this far we cost money.
 >
 > **[0:04](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980&t=4)** Money that you might otherwise prefer to invest in building features and growing your revenue.
 >
@@ -1383,32 +1355,31 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980&t=41)** But program managers from either the privacy team or from the individual product teams would own the actual adoption of those tools.
 >
-> **[0:49](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980&t=49)** Reporting, which would support incident response, audits, et cetera, would be jointly owned by the privacy execution team, the GRC team and various execution teams since the discovery and remediation would take a cross-functional effort.
+> **[0:49](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980&t=49)** Reporting, which would support [[Incident Response]], audits, et cetera, would be jointly owned by the privacy execution team, the GRC team and various execution teams since the discovery and remediation would take a cross-functional effort.
 >
 > **[1:03](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980&t=63)** This model will offer you the flexibility in budgeting and allocation as needs and risks evolve.
 >
-> **[1:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980&t=70)** I would strongly recommend that your privacy execution being on the workstreams, so as to maintain focus and accountability.
+> **[1:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980&t=70)** I would strongly recommend that your privacy execution being on the workstreams, so as to maintain focus and [[Accountability]].
 >
 > **[1:17](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980&t=77)** Now we will look at three executive level roles that are critical for your privacy program.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (10), teams (2), [[Automation]] (1), data (1), product (1)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Incident Response]] (1), [[Accountability]] (1)
 > **Env Vars:** grc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chief information security officer (CISO)
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-information-security-officer-ciso?u=76281980)
+#### [Chief information security officer (CISO)](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-information-security-officer-ciso?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-information-security-officer-ciso?u=76281980&t=0)** - [Instructor] The Chief Information Security Officer, or the CISO, is not strictly a privacy hire.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-information-security-officer-ciso?u=76281980&t=0)** - [Instructor] The Chief Information Security Officer, or the CISO, is not strictly a [[Privacy]] hire.
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-information-security-officer-ciso?u=76281980&t=6)** Many companies probably already have a CISO on staff for their security program, but I wanted to offer you insights on how a CISO can boost your privacy program.
 >
 > **[0:16](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-information-security-officer-ciso?u=76281980&t=16)** A CISO will have created several aspects of what could become part of the privacy program.
 >
-> **[0:22](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-information-security-officer-ciso?u=76281980&t=22)** For example first, access control, tools and processes to protect the company from external attackers, an incident response program to remedy incidents and notify impacted users.
+> **[0:22](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-information-security-officer-ciso?u=76281980&t=22)** For example first, access control, tools and processes to protect the company from external attackers, an [[Incident Response]] program to remedy incidents and notify impacted users.
 >
 > **[0:32](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-information-security-officer-ciso?u=76281980&t=32)** Automation and tooling to apply data protection techniques across the organization.
 >
@@ -1432,18 +1403,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (12), [[Security]] (6), [[Incident Response]] (1), [[Automation]] (1), data (1)
+> **Frameworks & Libraries:** [[Privacy]] (12), [[Incident Response]] (1)
 > **Env Vars:** ciso (6)
 > **Analogies:** for example (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chief privacy officer (CPO)
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-privacy-officer-cpo?u=76281980)
+#### [Chief privacy officer (CPO)](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-privacy-officer-cpo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-privacy-officer-cpo?u=76281980&t=0)** - [Instructor] The Chief Privacy Officer or the CPO has been a critical addition to the executive ranks of many companies, as their privacy practices become critical for trust and growth.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-privacy-officer-cpo?u=76281980&t=0)** - [Instructor] The Chief [[Privacy]] Officer or the CPO has been a critical addition to the executive ranks of many companies, as their privacy practices become critical for trust and growth.
 >
 > **[0:10](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/chief-privacy-officer-cpo?u=76281980&t=10)** The CPO has five key responsibilities.
 >
@@ -1471,12 +1441,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (8), [[Security]] (1), leadership (1), teams (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (8)
 > **Env Vars:** cpo (5)
 > **Speakers:** - [instructor] (1)
 
-#### Data protection officer (DPO)
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980)
+#### [Data protection officer (DPO)](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1502,7 +1471,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=47)** As part of their responsibilities, the DPOs will receive comments and questions from your users relating to the processing of their personal data.
 >
-> **[0:55](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=55)** Second, informing organizations and its employees about their obligations under the appropriate privacy laws.
+> **[0:55](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=55)** Second, informing organizations and its employees about their obligations under the appropriate [[Privacy]] laws.
 >
 > **[1:02](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=62)** Third, train staff perform audits.
 >
@@ -1518,7 +1487,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=96)** Third, the DPO is bound by confidentiality in the performance of their tasks, and will only report directly to the highest level of management and the organization.
 >
-> **[1:45](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=105)** The DPO is designed to be the unbiased link between your users and [[Executive Leadership]] on privacy.
+> **[1:45](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=105)** The DPO is designed to be the unbiased link between your users and [[[[Executive Leadership]]]] on privacy.
 >
 > **[1:52](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-protection-officer-dpo?u=76281980&t=112)** Fourth, a DPO must have the technical expertise and a legal understanding of appropriate privacy laws.
 >
@@ -1528,25 +1497,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Privacy]] (5), business (1), management (1), [[Executive Leadership]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Executive Leadership]] (1)
 > **Env Vars:** dpo (10), gdpr (1), cpo (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Privacy, data science, and data platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980)
+#### [Privacy, data science, and data platform](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=0)** - [Instructor] There are two teams that bring meaning to the word cross-functional where it comes to privacy.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=0)** - [Instructor] There are two teams that bring meaning to the [[Microsoft Word|word]] cross-functional where it comes to [[Privacy]].
 >
-> **[0:05](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=5)** The data platform team and the data science team.
+> **[0:05](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=5)** The data platform team and the [[Data Science]] team.
 >
 > **[0:09](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=9)** Since different companies call these teams by different names, let's create some definitions.
 >
 > **[0:14](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=14)** The data platform team typically manages the infrastructure that enables the collection and the flow of data into your company.
 >
-> **[0:21](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=21)** The data science team analyzes the data provided by the platform team and this analysis guides product development, innovation, investment.
+> **[0:21](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=21)** The data science team analyzes the data provided by the platform team and this analysis guides [[Product Development]], innovation, investment.
 >
 > **[0:31](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=31)** In an ideal scenario, these teams operate strategically and enable each other.
 >
@@ -1556,9 +1524,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=54)** Understanding how these pieces fit together is critical for your privacy program to scale and operate smoothly.
 >
-> **[1:01](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=61)** These two teams also support critical engineering and marketing efforts that require high degrees of data quality and integrity concerns these teams share with the privacy team.
+> **[1:01](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=61)** These two teams also support critical engineering and marketing efforts that require high degrees of [[Data Quality]] and integrity concerns these teams share with the privacy team.
 >
-> **[1:12](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=72)** They may not directly make the company any money, but without these teams, the company cannot build products that are successful and enduring.
+> **[1:12](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=72)** They may not directly make the company any money, but without these teams, the company cannot build [[Microsoft Products|products]] that are successful and enduring.
 >
 > **[1:21](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-data-science-and-data-platform?u=76281980&t=81)** Now so far, we have discussed the resources and capabilities that are core to driving operational efficiency when it comes to privacy.
 >
@@ -1566,21 +1534,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), data (7), [[Privacy]] (6), [[Microsoft Word|Word]] (1), functional (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Science]] (2), [[Microsoft Word|Word]] (1), [[Product Development]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy and your policy/communications teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-your-policy-communications-teams?u=76281980)
+#### [Privacy and your policy/communications teams](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-your-policy-communications-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-your-policy-communications-teams?u=76281980&t=0)** - [Instructor] One of the biggest mistakes engineering teams make is not realizing the public impact of their products and technical decisions beyond metrics.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-your-policy-communications-teams?u=76281980&t=0)** - [Instructor] One of the biggest mistakes engineering teams make is not realizing the public impact of their [[Microsoft Products|products]] and technical decisions beyond metrics.
 >
 > **[0:09](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-your-policy-communications-teams?u=76281980&t=9)** There are outcomes to engineering decisions that cannot be measured in terms of growth and revenue.
 >
-> **[0:15](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-your-policy-communications-teams?u=76281980&t=15)** It is vital that your PR and communications teams, or a corresponding external facing team stays engaged in the privacy discourse.
+> **[0:15](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-your-policy-communications-teams?u=76281980&t=15)** It is vital that your PR and communications teams, or a corresponding external facing team stays engaged in the [[Privacy]] discourse.
 >
 > **[0:23](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-your-policy-communications-teams?u=76281980&t=23)** It may not always be foreseeable, but it is plausible that the following could have privacy and reputational impacts.
 >
@@ -1616,18 +1583,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Engineering]] (5), [[Privacy]] (5), teams (4), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** venn (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adapting your privacy program
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980)
+#### [Adapting your privacy program](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=0)** - [Instructor] Over my career, I've had to make adjustments to privacy programs under three circumstances.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=0)** - [Instructor] Over my career, I've had to make adjustments to [[Privacy]] programs under three circumstances.
 >
 > **[0:05](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=5)** First, the program was deemed to be extremely successful and in the absence of bad news was deemed a luxury.
 >
@@ -1653,7 +1619,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=60)** You will want to ensure that your features build trust and compliance, and constantly validating that is critical.
 >
-> **[1:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=67)** As I said before, having data governance in place the cross-functional muscle that I keep discussing over and over, the tooling and the relationships, all of that will help immensely.
+> **[1:07](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=67)** As I said before, having [[Data Governance]] in place the cross-functional muscle that I keep discussing over and over, the tooling and the relationships, all of that will help immensely.
 >
 > **[1:17](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=77)** This is a marathon, not a sprint.
 >
@@ -1675,7 +1641,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=126)** Building a cross-functional program, data governance, and automation will allow you to mitigate privacy harm and measure impact.
 >
-> **[2:13](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=133)** The decision-making muscle necessary to act quickly and strategically with an eye for the business but respect for the user is a strategic investment that cannot be deprioritized.
+> **[2:13](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=133)** The [[Decision-Making]] muscle necessary to act quickly and strategically with an eye for the business but respect for the user is a strategic investment that cannot be deprioritized.
 >
 > **[2:24](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/adapting-your-privacy-program?u=76281980&t=144)** But having built that muscle, you will then be able to adjust by doing three things.
 >
@@ -1683,7 +1649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (10), business (4), data (2), functional (2), career (1)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Data Governance]] (2), [[Decision-Making]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1693,12 +1659,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/next-steps?u=76281980&t=0)** - [Nishant] As an executive or an executive-to-be, your role is to help build a privacy culture that could help grow your business while reigning in the excesses of an engagement-powered business model.
+> **[0:00](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/next-steps?u=76281980&t=0)** - [Nishant] As an executive or an executive-to-be, your role is to help build a [[Privacy]] culture that could help grow your business while reigning in the excesses of an engagement-powered business model.
 >
 > **[0:12](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/next-steps?u=76281980&t=12)** Today's digital innovators, which includes engineers, data scientists, have become acclimated to look for ease of business, that is, what helps ship features expeditiously.
 >
@@ -1720,7 +1685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Privacy]] (3), data (3)
+> **Frameworks & Libraries:** [[Privacy]] (3)
 > **Speakers:** - [nishant] (1)
 
 

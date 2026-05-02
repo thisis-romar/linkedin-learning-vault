@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Python and k-means clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980)
+#### [Getting started with Python and k-means clustering](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980&t=0)** - [Fred] k-Means Clustering is one of the most popular and easy-to-use unsupervised machine learning approaches.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980&t=0)** - [Fred] [[k-means clustering]] is one of the most popular and easy-to-use unsupervised machine learning approaches.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980&t=7)** Clustering is often used for market segmentation, social network analysis, search results grouping, medical imaging and anomaly detection.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980&t=19)** I'm a data scientist, teacher and author with a passion for AI and machine learning.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980&t=25)** Welcome to Machine Learning with Python: k-Means Clustering.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980&t=25)** Welcome to Machine Learning with [[Python (Programming Language)|Python]]: k-Means Clustering.
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980&t=29)** In this course, I introduce what k-Means Clustering is, how to choose the right number of clusters and the strengths and weaknesses of k-Means Clustering.
 >
@@ -104,12 +103,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[k-means clustering]] (4), [[Python (Programming Language)|Python]] (2), [[Search]] (1), data (1), ai (1)
+> **Frameworks & Libraries:** [[k-means clustering]] (4), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Speakers:** - [fred] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -117,13 +115,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=8)** First, I assume that you have a fundamental understanding of what machine learning is, specifically unsupervised machine learning.
 >
-> **[0:16](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=16)** If you don't, I recommend that you review my introductory LinkedIn learning course "[[Machine Learning with Python- Foundations]]."
+> **[0:16](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=16)** If you don't, I recommend that you review my introductory [[LinkedIn]] learning course "[[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]]."
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=24)** Second, it will be helpful if you have some entry level knowledge coding in Python.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=30)** I will assume that you know how to import a Python package, refer to the attributes of an object, and call the methods of an object.
 >
-> **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=38)** Next, it will also be helpful if you have some familiarity with the pandas and scikit-learn packages.
+> **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=38)** Next, it will also be helpful if you have some familiarity with the [[Pandas (Software)|pandas]] and scikit-learn packages.
 >
 > **[0:45](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-you-should-know?u=76281980&t=45)** If you don't, no worries, I will explain exactly what I'm doing when we do use these packages in the course.
 >
@@ -133,19 +131,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), next (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[LinkedIn]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### The tools you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/the-tools-you-need?u=76281980)
+#### [The tools you need](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/the-tools-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/the-tools-you-need?u=76281980&t=0)** - [Instructor] Before working through the exercises in this course, I want to make sure that you have the tools you need to be successful.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/the-tools-you-need?u=76281980&t=6)** The first thing you want to make sure to do is install or verify that you have the latest version of Python Three.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/the-tools-you-need?u=76281980&t=6)** The first thing you want to make sure to do is install or verify that you have the latest version of [[Python (Programming Language)|Python]] Three.
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/the-tools-you-need?u=76281980&t=13)** I will be working in Python 3.8.
 >
@@ -176,8 +173,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/using-the-exercise-files?u=76281980&t=9)** I recommend that you do so.
 >
-> **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/using-the-exercise-files?u=76281980&t=11)** The best way to become proficient in segmenting data with K-Means clustering in Python is to practice doing it yourself.
+> **[0:11](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/using-the-exercise-files?u=76281980&t=11)** The best way to become proficient in segmenting data with [[k-means clustering]] in [[Python (Programming Language)|Python]] is to practice doing it yourself.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/using-the-exercise-files?u=76281980&t=18)** The exercise files are organized into folders that correspond with the chapters of the course.
 >
@@ -225,7 +221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[k-means clustering]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[k-means clustering]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** anaconda (2), jupyter (2)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** exercise files (3)
@@ -238,8 +234,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is clustering?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-clustering?u=76281980)
+#### [What is clustering?](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,7 +258,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-clustering?u=76281980&t=45)** Clustering is a widely used machine learning approach.
 >
-> **[0:49](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-clustering?u=76281980&t=49)** It is sometimes used in the domain of network security as a way to detect anomalous behavior in computer networks.
+> **[0:49](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-clustering?u=76281980&t=49)** It is sometimes used in the domain of [[Network Security]] as a way to detect anomalous behavior in computer networks.
 >
 > **[0:56](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-clustering?u=76281980&t=56)** Clustering is also sometimes used to automatically group or categorize documents based on similarity.
 >
@@ -343,18 +338,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Network Security]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **Definitions:** known as (4), means that (4), is an  (2), is a  (2), in other words (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is k-means clustering?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-k-means-clustering?u=76281980)
+#### [What is k-means clustering?](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-k-means-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-k-means-clustering?u=76281980&t=0)** - [Instructor] One of the most commonly used clustering techniques is known as K-Means clustering.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-k-means-clustering?u=76281980&t=0)** - [Instructor] One of the most commonly used clustering techniques is known as [[k-means clustering]].
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-k-means-clustering?u=76281980&t=6)** K-Means clustering is a partitional clustering approach.
 >
@@ -368,7 +362,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-k-means-clustering?u=76281980&t=38)** To illustrate how K-Means clustering works, let's imagine that we have a data set as represented here with 12 instances and two features, A and B.
 >
-> **[0:50](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-k-means-clustering?u=76281980&t=50)** If our goal is to partition this data into three separate clusters, we set the value of K to three and let the K-Means clustering algorithm do the rest.
+> **[0:50](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-k-means-clustering?u=76281980&t=50)** If our goal is to partition this data into three separate clusters, we set the value of K to three and let the K-Means clustering algorithm do the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-k-means-clustering?u=76281980&t=60)** The first thing that the algorithm does is choose K random points in the feature space that serve as initial centers for the clusters.
 >
@@ -412,19 +406,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[k-means clustering]] (5), [[Representational State Transfer (REST)|Rest]] (1), feature (1)
+> **Frameworks & Libraries:** [[k-means clustering]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (2), imagine (1)
 > **Versions:** 1.414 (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing the right number of clusters
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/choosing-the-right-number-of-clusters?u=76281980)
+#### [Choosing the right number of clusters](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/choosing-the-right-number-of-clusters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/choosing-the-right-number-of-clusters?u=76281980&t=0)** - [Instructor] K-means clustering is a simple and straightforward clustering technique.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/choosing-the-right-number-of-clusters?u=76281980&t=0)** - [Instructor] [[k-means clustering]] is a simple and straightforward clustering technique.
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/choosing-the-right-number-of-clusters?u=76281980&t=5)** However, as an unsupervised machine learning approach we cannot simply evaluate the accuracy of our clusters using an existing set of labels.
 >
@@ -538,11 +531,11 @@ created: 2026-05-02
 >
 > **[8:25](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/choosing-the-right-number-of-clusters?u=76281980&t=505)** There is no external supervisor to rely on to provide you with a definitive and independent assessment of the performance of your model.
 >
-> **[8:35](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/choosing-the-right-number-of-clusters?u=76281980&t=515)** You have the final word.
+> **[8:35](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/choosing-the-right-number-of-clusters?u=76281980&t=515)** You have the final [[Microsoft Word|word]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[k-means clustering]] (2), next (2), business (1), ai (1)
+> **Frameworks & Libraries:** [[k-means clustering]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** wcss (12), bcss (2)
 > **Definitions:** is a  (4), means that (3), known as (3), is an  (1)
 > **Analogies:** for example (3), imagine (1), such as (1)
@@ -551,12 +544,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why and when to use k-means clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/why-and-when-to-use-k-means-clustering?u=76281980)
+#### [Why and when to use k-means clustering](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/why-and-when-to-use-k-means-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/why-and-when-to-use-k-means-clustering?u=76281980&t=0)** - [Instructor] In order to know when to use K-means clustering, we need to understand its strengths, and weaknesses.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/why-and-when-to-use-k-means-clustering?u=76281980&t=0)** - [Instructor] In order to know when to use [[k-means clustering]], we need to understand its strengths, and weaknesses.
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/why-and-when-to-use-k-means-clustering?u=76281980&t=6)** In terms of strengths, K-means clustering is based on simple statistical principles.
 >
@@ -604,7 +596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[k-means clustering]] (10), data (7), strengths (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[k-means clustering]] (10)
 > **Definitions:** means that (4), is a  (1)
 > **Env Vars:** wcss (1), dbscan (1), optics (1)
 > **CLI Commands:** make (2)
@@ -616,16 +608,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to segment data with k-means clustering in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980)
+#### [How to segment data with k-means clustering in Python](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=0)** - [Instructor] In this exercise, we will use k-means clustering to segment retail card customers based on their income and an assigned spending score.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=0)** - [Instructor] In this exercise, we will use [[k-means clustering]] to segment retail card customers based on their income and an assigned spending score.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=10)** Before we get started, note that this video is the first in a four-video sequence that explains how to segment data using k-means clustering, evaluates, and visualize clusters, choose the right number of clusters, and interpret the results of k-means clustering.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=27)** We start by importing the pandas package.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=27)** We start by importing the [[Pandas (Software)|pandas]] package.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=30)** Then we import the data into a data frame called customers.
 >
@@ -641,7 +632,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=79)** Looking at the Dtype column of the summary, we see that the gender column holds text values, while the other columns hold integer values.
 >
-> **[1:28](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=88)** Next, we get summary statistics for the data by calling the described method of the data frame.
+> **[1:28](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=88)** Next, we get summary [[Statistics]] for the data by calling the described method of the data frame.
 >
 > **[1:34](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=94)** By default, the describe method returns summary statistics for only numeric columns.
 >
@@ -679,7 +670,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=236)** The relationship appears to turn slightly negative for those older than 50.
 >
-> **[4:01](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=241)** Note my use of the word slight here.
+> **[4:01](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=241)** Note my use of the [[Microsoft Word|word]] slight here.
 >
 > **[4:04](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=244)** That may actually be a bit generous.
 >
@@ -725,7 +716,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=401)** The approach we use here is called Z-score normalization.
 >
-> **[6:46](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=406)** If you need a refresher on normalization and standardization, check out the normalizing your data video, which is part of the course, machine learning with Python foundations.
+> **[6:46](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=406)** If you need a refresher on normalization and standardization, check out the normalizing your data video, which is part of the course, machine learning with [[Python (Programming Language)|Python]] foundations.
 >
 > **[6:58](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980&t=418)** With our data standardized, we are now ready to cluster it.
 >
@@ -769,7 +760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), next (7), [[Statistics]] (6), [[k-means clustering]] (4), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[k-means clustering]] (4), [[Pandas (Software)|Pandas]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (6), is called (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** fit_transform (2)
@@ -778,12 +769,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 
-#### How to evaluate and visualize clusters in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-evaluate-and-visualize-clusters-in-python?u=76281980)
+#### [How to evaluate and visualize clusters in Python](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-evaluate-and-visualize-clusters-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-evaluate-and-visualize-clusters-in-python?u=76281980&t=0)** - [Instructor] Before we get started, note that this video is the second in a four-video sequence that explains how to segment data using k-means clustering, evaluate and visualize clusters, choose the right number of clusters, and interpret the rights of k-means clustering.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-evaluate-and-visualize-clusters-in-python?u=76281980&t=0)** - [Instructor] Before we get started, note that this video is the second in a four-video sequence that explains how to segment data using [[k-means clustering]], evaluate and visualize clusters, choose the right number of clusters, and interpret the rights of k-means clustering.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-evaluate-and-visualize-clusters-in-python?u=76281980&t=17)** So if you have not done so, watch the previous video for a detailed explanation of the prior code.
 >
@@ -795,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-evaluate-and-visualize-clusters-in-python?u=76281980&t=43)** The label's attribute of the cluster object, km, returns a NumPy array of cluster assignments.
 >
-> **[0:49](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-evaluate-and-visualize-clusters-in-python?u=76281980&t=49)** To get the number of items in each cluster, we create a pandas series from the NumPy array and call the value_count method of the series.
+> **[0:49](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-evaluate-and-visualize-clusters-in-python?u=76281980&t=49)** To get the number of items in each cluster, we create a [[Pandas (Software)|pandas]] series from the NumPy array and call the value_count method of the series.
 >
 > **[1:06](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-evaluate-and-visualize-clusters-in-python?u=76281980&t=66)** We see that the first cluster has 123 customers.
 >
@@ -841,7 +831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[k-means clustering]] (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[k-means clustering]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** cluster_centers (3), value_count (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.8 (1)
@@ -850,12 +840,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to find the right number of clusters in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-find-the-right-number-of-clusters-in-python?u=76281980)
+#### [How to find the right number of clusters in Python](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-find-the-right-number-of-clusters-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-find-the-right-number-of-clusters-in-python?u=76281980&t=0)** - [Instructor] Before we get started, note that this video is the third in the four-video sequence that explains how to segment data using k-means clustering, evaluate and visualize clusters, choose the right number of clusters and interpret the results of k-means clustering.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-find-the-right-number-of-clusters-in-python?u=76281980&t=0)** - [Instructor] Before we get started, note that this video is the third in the four-video sequence that explains how to segment data using [[k-means clustering]], evaluate and visualize clusters, choose the right number of clusters and interpret the results of k-means clustering.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-find-the-right-number-of-clusters-in-python?u=76281980&t=17)** So if you have not done so, watch the previous two videos for a detailed explanation of the prior code.
 >
@@ -881,7 +870,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-find-the-right-number-of-clusters-in-python?u=76281980&t=69)** Then we append the wcss value, which is provided as the inertia attribute of the cluster object km to the wcss list.
 >
-> **[1:18](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-find-the-right-number-of-clusters-in-python?u=76281980&t=78)** By the time we're done with all nine k values, we have the wcss for each k in the list and we can convert the list to a pandas series called wcss_series.
+> **[1:18](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-find-the-right-number-of-clusters-in-python?u=76281980&t=78)** By the time we're done with all nine k values, we have the wcss for each k in the list and we can convert the list to a [[Pandas (Software)|pandas]] series called wcss_series.
 >
 > **[1:30](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-find-the-right-number-of-clusters-in-python?u=76281980&t=90)** Next, we plot the within cluster sum of squares values on the y-axis for each of the k values on the x-axis.
 >
@@ -949,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (5), [[Pandas (Software)|Pandas]] (3), [[k-means clustering]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[k-means clustering]] (2)
 > **Code Identifiers:** silhouette_score (2), calinski_harabasz_score (2), wcss_series (1), silhouette_series (1), calinski_series (1)
 > **Definitions:** known as (1), is a  (1)
 > **Warnings:** note that (2)
@@ -957,12 +946,11 @@ created: 2026-05-02
 > **Env Vars:** wcss (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to interpret the results of k-means clustering in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980)
+#### [How to interpret the results of k-means clustering in Python](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=0)** - [Instructor] Before we get started, note that this video is the fourth in a full video sequence that explains how to segment data using k-means clustering, evaluate and visualize clusters, choose the right number of clusters, and interpret the results of k-means clustering.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=0)** - [Instructor] Before we get started, note that this video is the fourth in a full video sequence that explains how to segment data using [[k-means clustering]], evaluate and visualize clusters, choose the right number of clusters, and interpret the results of k-means clustering.
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=19)** So if you have not done so, watch the previous three videos for a detailed explanation of the prior code.
 >
@@ -994,7 +982,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=166)** For example, customer one which has a Gender_Female value of zero and a Gender_Male value of one is male, while customer three which has a Gender_Female value of one and a Gender_Male value of zero is female.
 >
-> **[3:01](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=181)** We can now get descriptive statistics for the two gender features.
+> **[3:01](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=181)** We can now get descriptive [[Statistics]] for the two gender features.
 >
 > **[3:06](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=186)** The Age feature, the Income feature, and in SpendingScore feature.
 >
@@ -1026,7 +1014,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=302)** However, they tend to be older than the average, earn a little less than the average, but have an average spending score.
 >
-> **[5:11](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=311)** In terms of a customer relations strategy, it would make sense to invest in increasing the spending of the high earning low spending customers in cluster one.
+> **[5:11](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=311)** In terms of a [[Customer Relations]] strategy, it would make sense to invest in increasing the spending of the high earning low spending customers in cluster one.
 >
 > **[5:23](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-interpret-the-results-of-k-means-clustering-in-python?u=76281980&t=323)** Secondly, it would make sense to keep the high earning, high spending customers in cluster two happy.
 >
@@ -1036,7 +1024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), feature (6), [[Statistics]] (4), [[k-means clustering]] (2), next (2)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[k-means clustering]] (2), [[Customer Relations]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), similar to (1)
 > **Warnings:** note that (1)
@@ -1047,16 +1035,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=0)** - [Frederick] Congrats.
 >
-> **[0:01](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=1)** You now know what k-means clustering is, how it works, and when to use it.
+> **[0:01](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=1)** You now know what [[k-means clustering]] is, how it works, and when to use it.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=7)** You've learned how to create, visualize, evaluate, and interpret clusters in Python.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=7)** You've learned how to create, visualize, evaluate, and interpret clusters in [[Python (Programming Language)|Python]].
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=13)** The foundational knowledge and skills you've acquired in this course should serve as a stepping stone to continue learning about machine learning.
 >
@@ -1066,13 +1053,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=33)** K-means clustering is one of many unsupervised machine learning approaches we can use in Python.
 >
-> **[0:39](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=39)** I encourage you to continue to explore other LinkedIn Learning courses that introduce the use of other types of machine learning approaches.
+> **[0:39](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=39)** I encourage you to continue to explore other [[LinkedIn]] Learning courses that introduce the use of other types of machine learning approaches.
 >
-> **[0:47](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=47)** One such course is "Machine Learning with Python, Decision Trees."
+> **[0:47](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=47)** One such course is "Machine Learning with Python, [[Decision Trees]]."
 >
-> **[0:52](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=52)** Besides courses that explore other approaches, I also encourage you to explore courses that highlight the importance of ethics in data collection and use.
+> **[0:52](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=52)** Besides courses that explore other approaches, I also encourage you to explore courses that highlight the importance of [[Ethics]] in [[Data Collection]] and use.
 >
-> **[1:02](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=62)** An example of such a course is "Data Ethics, Watching out for Data Misuse."
+> **[1:02](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=62)** An example of such a course is "[[Data Ethics]], Watching out for Data Misuse."
 >
 > **[1:08](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980&t=68)** If you're interested in broadening your skillset into other languages such as R, then also check out my book, "Practical Machine Learning in R."
 >
@@ -1090,7 +1077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[k-means clustering]] (3), next (2), [[Ethics]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[k-means clustering]] (3), [[LinkedIn]] (1), [[Decision Trees]] (1), [[Ethics]] (1)
 > **CLI Commands:** python (4), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

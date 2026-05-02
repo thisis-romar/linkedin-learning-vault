@@ -103,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/the-importance-of-data-quality?u=76281980)
+#### [The importance of data quality](https://www.linkedin.com/learning/data-quality-core-concepts/the-importance-of-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-quality-core-concepts/the-importance-of-data-quality?u=76281980&t=7)** Come a little bit closer.
 >
-> **[0:09](https://www.linkedin.com/learning/data-quality-core-concepts/the-importance-of-data-quality?u=76281980&t=9)** We know that none of that will work without data quality.
+> **[0:09](https://www.linkedin.com/learning/data-quality-core-concepts/the-importance-of-data-quality?u=76281980&t=9)** We know that none of that will work without [[Data Quality]].
 >
 > **[0:12](https://www.linkedin.com/learning/data-quality-core-concepts/the-importance-of-data-quality?u=76281980&t=12)** I'm Mark Freeman, I'm a data scientist turned data engineer, and I'm obsessed with data quality.
 >
@@ -130,7 +129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (2), business (2)
+> **Frameworks & Libraries:** [[Data Quality]] (4)
 > **Speakers:** - we (1)
 
 
@@ -138,24 +137,22 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data quality introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-introdution?u=76281980)
+#### [Data quality introduction](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-introdution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-introdution?u=76281980&t=0)** - In this chapter, we'll define data quality, go over the nine dimensions of data quality, and finally, go through a thought exercise, where we take a business strategy objective and tie it to a data quality initiative.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-introdution?u=76281980&t=0)** - In this chapter, we'll define [[Data Quality]], go over the nine dimensions of data quality, and finally, go through a thought exercise, where we take a business strategy objective and tie it to a data quality initiative.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3)
 > **Speakers:** - in (1)
 
-#### Impact of poor data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/impact-of-poor-data-quality?u=76281980)
+#### [Impact of poor data quality](https://www.linkedin.com/learning/data-quality-core-concepts/impact-of-poor-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/impact-of-poor-data-quality?u=76281980&t=0)** - [Instructor] For this video, we're going to be talking about the impact of poor data quality and make it real for you as to why it's important to account for this.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/impact-of-poor-data-quality?u=76281980&t=0)** - [Instructor] For this video, we're going to be talking about the impact of poor [[Data Quality]] and make it real for you as to why it's important to account for this.
 >
 > **[0:09](https://www.linkedin.com/learning/data-quality-core-concepts/impact-of-poor-data-quality?u=76281980&t=9)** I'm going to go over three specific use cases to really highlight, at best-case scenario, maybe get a few numbers wrong, people have the wrong idea about the business, worst-case scenario, which we're going to be highlighting here, the data is wrong where it has a regulatory impact, or it impacts peoples' lives in a negative way.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/data-quality-core-concepts/impact-of-poor-data-quality?u=76281980&t=184)** And they actually had to go back and say, "For the past two years, we have been reporting our revenue wrong."
 >
-> **[3:11](https://www.linkedin.com/learning/data-quality-core-concepts/impact-of-poor-data-quality?u=76281980&t=191)** And they actually had to go to the SEC again to say, "All of our financial data that we reported for the past two years cannot be trusted."
+> **[3:11](https://www.linkedin.com/learning/data-quality-core-concepts/impact-of-poor-data-quality?u=76281980&t=191)** And they actually had to go to the SEC again to say, "All of our [[Financial Data]] that we reported for the past two years cannot be trusted."
 >
 > **[3:19](https://www.linkedin.com/learning/data-quality-core-concepts/impact-of-poor-data-quality?u=76281980&t=199)** What ended up happening from a data quality perspective, they had wallets that were preloaded.
 >
@@ -223,19 +220,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (3), hit (1), management (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Financial Data]] (1)
 > **Env Vars:** jama (2), sec (2), ehr (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/defining-data-quality?u=76281980)
+#### [Defining data quality](https://www.linkedin.com/learning/data-quality-core-concepts/defining-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/defining-data-quality?u=76281980&t=0)** - [Mark] In the previous video, we talked about the impact of data quality.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/defining-data-quality?u=76281980&t=0)** - [Mark] In the previous video, we talked about the impact of [[Data Quality]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-quality-core-concepts/defining-data-quality?u=76281980&t=4)** And now that we know why it's so important to account for, what exactly is data quality?
 >
@@ -331,19 +327,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (47), business (6), career (1)
+> **Frameworks & Libraries:** [[Data Quality]] (25)
 > **Env Vars:** dama (5), dmbok (1)
 > **Definitions:** is a  (4), defined as (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Speakers:** - [mark] (1)
 
-#### Data quality dimensions: Intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-dimensions-intro?u=76281980)
+#### [Data quality dimensions: Intro](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-dimensions-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-dimensions-intro?u=76281980&t=0)** - [Instructor] In previous videos, I hinted at there's these data quality dimensions that DAMA talk about.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-dimensions-intro?u=76281980&t=0)** - [Instructor] In previous videos, I hinted at there's these [[Data Quality]] dimensions that DAMA talk about.
 >
 > **[0:04](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-dimensions-intro?u=76281980&t=4)** We're now going to be going over them in the next few videos at a time where I'll provide kind of a high level example of each one, as well as examples from my experience in my career, seeing these data quality issues pop up.
 >
@@ -355,23 +350,22 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-dimensions-intro?u=76281980&t=39)** I like the DAMA ones 'cause it starts as a good foundation to start off with before you start exploring more.
 >
-> **[0:44](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-dimensions-intro?u=76281980&t=44)** And this book is what people many times reference for when they're thinking about data governance strategy or data quality strategy.
+> **[0:44](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-dimensions-intro?u=76281980&t=44)** And this book is what people many times reference for when they're thinking about [[Data Governance]] strategy or data quality strategy.
 >
 > **[0:50](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-dimensions-intro?u=76281980&t=50)** In the next set of videos, we'll go over three at a time, where you can get a slight taste of what each one looks like and what to expect when thinking about data quality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), career (1)
+> **Frameworks & Libraries:** [[Data Quality]] (6), [[Data Governance]] (1)
 > **Env Vars:** dama (3)
 > **Cross-References:** in the next (2)
 > **Speakers:** - [instructor] (1)
 
-#### DQ dimensions: Validity, completeness, consistency
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-validity-completeness-consistency?u=76281980)
+#### [DQ dimensions: Validity, completeness, consistency](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-validity-completeness-consistency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-validity-completeness-consistency?u=76281980&t=0)** - [Instructor] The first data quality dimension we have is validity.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-validity-completeness-consistency?u=76281980&t=0)** - [Instructor] The first [[Data Quality]] dimension we have is validity.
 >
 > **[0:03](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-validity-completeness-consistency?u=76281980&t=3)** And this is essentially, how well does your data align with the expected business logic.
 >
@@ -395,7 +389,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-validity-completeness-consistency?u=76281980&t=64)** But one key difference is that for the validity one, it's tied to the business logic, while the completeness is actually you need the full thing.
 >
-> **[1:12](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-validity-completeness-consistency?u=76281980&t=72)** So, I have the address here for the LinkedIn headquarters, we have the street address, the city, the state, and the area code for that.
+> **[1:12](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-validity-completeness-consistency?u=76281980&t=72)** So, I have the address here for the [[LinkedIn]] headquarters, we have the street address, the city, the state, and the area code for that.
 >
 > **[1:22](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-validity-completeness-consistency?u=76281980&t=82)** For the bad one, we just have the street address, and that could be almost anywhere in the US.
 >
@@ -431,13 +425,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), data (5), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[LinkedIn]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### DQ dimensions: Integrity, timeliness, currency
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-integrity-timeliness-currency?u=76281980)
+#### [DQ dimensions: Integrity, timeliness, currency](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-integrity-timeliness-currency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -501,15 +494,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (3), next (2), career (1)
 > **Analogies:** for instance (3), for example (2)
 > **Env Vars:** sla (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### DQ dimensions: Reasonableness, uniqueness, accuracy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-reasonableness-uniqueness-accuracy?u=76281980)
+#### [DQ dimensions: Reasonableness, uniqueness, accuracy](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-reasonableness-uniqueness-accuracy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,7 +510,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-reasonableness-uniqueness-accuracy?u=76281980&t=10)** Is it reasonable for a value to exist?
 >
-> **[0:12](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-reasonableness-uniqueness-accuracy?u=76281980&t=12)** For the good example, have count distinct thinking about SQL of months.
+> **[0:12](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-reasonableness-uniqueness-accuracy?u=76281980&t=12)** For the good example, have count distinct thinking about [[SQL]] of months.
 >
 > **[0:17](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-reasonableness-uniqueness-accuracy?u=76281980&t=17)** There's only 12 months in a year, so I would expect only distinct 12 month names.
 >
@@ -539,7 +530,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-reasonableness-uniqueness-accuracy?u=76281980&t=50)** A bad example is if I did that same exercise, but maybe there was less distinct values than the total rows, which informs me that there are some duplicates.
 >
-> **[1:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-reasonableness-uniqueness-accuracy?u=76281980&t=60)** This is probably one of the most important data quality dimensions to me personally, because unique IDs are the cornerstone of merging various tables throughout different systems.
+> **[1:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-reasonableness-uniqueness-accuracy?u=76281980&t=60)** This is probably one of the most important [[Data Quality]] dimensions to me personally, because unique IDs are the cornerstone of merging various tables throughout different systems.
 >
 > **[1:11](https://www.linkedin.com/learning/data-quality-core-concepts/dq-dimensions-reasonableness-uniqueness-accuracy?u=76281980&t=71)** And so making sure they're distinct is critical for data quality.
 >
@@ -573,19 +564,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (3), hr (2), [[Analytics]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[SQL]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common data quality assessment frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/common-data-quality-assessment-frameworks?u=76281980)
+#### [Common data quality assessment frameworks](https://www.linkedin.com/learning/data-quality-core-concepts/common-data-quality-assessment-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/common-data-quality-assessment-frameworks?u=76281980&t=0)** - [Instructor] In this video, we're going to be going over the common data quality assessment frameworks that you can choose from to implement within your organization.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/common-data-quality-assessment-frameworks?u=76281980&t=0)** - [Instructor] In this video, we're going to be going over the common [[Data Quality]] assessment frameworks that you can choose from to implement within your organization.
 >
 > **[0:08](https://www.linkedin.com/learning/data-quality-core-concepts/common-data-quality-assessment-frameworks?u=76281980&t=8)** And forewarned, there are a lot.
 >
@@ -641,19 +631,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5)
 > **CLI Commands:** find (2)
 > **Env Vars:** dama (2)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting data quality to business outcomes: Intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/connecting-data-quality-to-business-outcomes-intro?u=76281980)
+#### [Connecting data quality to business outcomes: Intro](https://www.linkedin.com/learning/data-quality-core-concepts/connecting-data-quality-to-business-outcomes-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/connecting-data-quality-to-business-outcomes-intro?u=76281980&t=0)** - [Instructor] In the next set of videos, we're going to be discussing how to connect data quality to your business outcomes.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/connecting-data-quality-to-business-outcomes-intro?u=76281980&t=0)** - [Instructor] In the next set of videos, we're going to be discussing how to connect [[Data Quality]] to your business outcomes.
 >
 > **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/connecting-data-quality-to-business-outcomes-intro?u=76281980&t=6)** Now, this is a section that I'm really excited to talk about because the past two years, I've been really focused on bringing a new data quality solution to market, and that's required me to have countless meetings with data leaders to understand their data stack, their data strategy, how data quality fits into it and the problems they have, and then creating solutions for them to help get buy-in of their executive team to put budget towards data quality.
 >
@@ -675,18 +664,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (3), business (3), leadership (1)
+> **Frameworks & Libraries:** [[Data Quality]] (6)
 > **Cross-References:** in the next (2)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thought exercise: Ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-e-commerce?u=76281980)
+#### [Thought exercise: Ecommerce](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-e-commerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-e-commerce?u=76281980&t=0)** - [Instructor] To help you make sense of how to connect data quality to business outcomes, I've created this thought exercise of a fictional ecommerce company where you are the data leader at Sell Things Inc., where it was just announced in a recent company-wide meeting that a strategic objective is to increase vendor retention by 10%.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-e-commerce?u=76281980&t=0)** - [Instructor] To help you make sense of how to connect [[Data Quality]] to business outcomes, I've created this thought exercise of a fictional ecommerce company where you are the data leader at Sell Things Inc., where it was just announced in a recent company-wide meeting that a strategic objective is to increase vendor retention by 10%.
 >
 > **[0:18](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-e-commerce?u=76281980&t=18)** You believe that improving data quality would be a major driver in hitting this company objective.
 >
@@ -696,19 +684,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2)
+> **Frameworks & Libraries:** [[Data Quality]] (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thought exercise: Understand the business model
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-understand-the-business-model?u=76281980)
+#### [Thought exercise: Understand the business model](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-understand-the-business-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-understand-the-business-model?u=76281980&t=0)** - [Instructor] The first step is to understand your business model.
 >
-> **[0:04](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-understand-the-business-model?u=76281980&t=4)** For the stock exercise, Sell Things Inc.'s business model aligns with a typical e-commerce organization, where they provide a marketplace for third-party vendors to sell items and consumers to purchase those items.
+> **[0:04](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-understand-the-business-model?u=76281980&t=4)** For the stock exercise, Sell Things Inc.'s business model aligns with a typical [[E-Commerce]] organization, where they provide a marketplace for third-party vendors to sell items and consumers to purchase those items.
 >
 > **[0:16](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-understand-the-business-model?u=76281980&t=16)** Its revenue comes from two specific areas.
 >
@@ -718,16 +705,15 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-understand-the-business-model?u=76281980&t=31)** In summary, the more vendors and items from the vendors, the stronger the marketplace.
 >
-> **[0:37](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-understand-the-business-model?u=76281980&t=37)** Now, take a second and think how data quality can tie to this before moving on to the next video.
+> **[0:37](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-understand-the-business-model?u=76281980&t=37)** Now, take a second and think how [[Data Quality]] can tie to this before moving on to the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[E-Commerce]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Data Quality]] (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thought exercise: Map your data lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-map-your-data-lifecycle?u=76281980)
+#### [Thought exercise: Map your data lifecycle](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-map-your-data-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +725,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-map-your-data-lifecycle?u=76281980&t=13)** So for Sell Things Inc, their goal is to have a marketplace that they can sell items on and that vendors can be on.
 >
-> **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-map-your-data-lifecycle?u=76281980&t=20)** In this architecture diagram, you have your website, which is the e-commerce platform, and then you have various microservices.
+> **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-map-your-data-lifecycle?u=76281980&t=20)** In this architecture diagram, you have your website, which is the [[E-Commerce]] platform, and then you have various [[Microservices]].
 >
 > **[0:26](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-map-your-data-lifecycle?u=76281980&t=26)** So you have the shopping cart, you have search, you have the homepage.
 >
@@ -757,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (3), [[Search]] (2), [[E-Commerce]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Microservices]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -765,18 +751,17 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thought exercise: Identify your stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-identify-your-stakeholders?u=76281980)
+#### [Thought exercise: Identify your stakeholders](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-identify-your-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-identify-your-stakeholders?u=76281980&t=0)** - [Instructor] The third step is to identify your key stakeholders within the data lifecycle.
 >
-> **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-identify-your-stakeholders?u=76281980&t=5)** For our thought exercise, the four key teams that we have are the software engineers on the carts team, data science and ML engineers on the recommendations team, UX on the shopping workflows team, and then customer success for the vendor relations team.
+> **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-identify-your-stakeholders?u=76281980&t=5)** For our thought exercise, the four key teams that we have are the software engineers on the carts team, [[Data Science]] and ML engineers on the recommendations team, UX on the shopping workflows team, and then customer success for the vendor relations team.
 >
 > **[0:19](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-identify-your-stakeholders?u=76281980&t=19)** Now, this may not make too much sense just quite yet, but in the next slide, I've taken back that diagram we had in the previous video and imposed these teams on there to give you an idea of where they fit on the data lifecycle.
 >
-> **[0:31](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-identify-your-stakeholders?u=76281980&t=31)** So for the UX team who manage workflows, they're on the website, they're a part of the search and homepage microservices, and on the other side they have analytics where they have product analytics to make decisions such as AB testing.
+> **[0:31](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-identify-your-stakeholders?u=76281980&t=31)** So for the UX team who manage workflows, they're on the website, they're a part of the search and homepage [[Microservices]], and on the other side they have analytics where they have product analytics to make decisions such as AB testing.
 >
 > **[0:44](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-identify-your-stakeholders?u=76281980&t=44)** For the carts team, the software engineers are in the shopping cart microservice.
 >
@@ -788,20 +773,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), teams (3), ux (2), next (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Microservices]] (1)
 > **Cross-References:** in the next (2), previous video (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thought exercise: Evaluate how stakeholders drive revenue
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-evaluate-how-stakeholders-drives-revenue?u=76281980)
+#### [Thought exercise: Evaluate how stakeholders drive revenue](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-evaluate-how-stakeholders-drives-revenue?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-evaluate-how-stakeholders-drives-revenue?u=76281980&t=0)** - [Instructor] In the fourth step, we're going to evaluate how our stakeholders drive revenue or mitigate risks.
 >
-> **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-evaluate-how-stakeholders-drives-revenue?u=76281980&t=5)** These are the main levers of getting buy-in from leadership to put money towards data quality.
+> **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-evaluate-how-stakeholders-drives-revenue?u=76281980&t=5)** These are the main levers of getting buy-in from leadership to put money towards [[Data Quality]].
 >
 > **[0:12](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-evaluate-how-stakeholders-drives-revenue?u=76281980&t=12)** And so the carts team, they manage the code related to carts and the checkout.
 >
@@ -815,21 +799,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), leadership (1), next (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thought exercise: Assess how DQ impacts revenue and risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-assess-how-dq-impacts-revenue-and-risk?u=76281980)
+#### [Thought exercise: Assess how DQ impacts revenue and risk](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-assess-how-dq-impacts-revenue-and-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-assess-how-dq-impacts-revenue-and-risk?u=76281980&t=0)** - [Instructor] In the fifth step, we assess how data quality impacts revenue and risk for these teams.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-assess-how-dq-impacts-revenue-and-risk?u=76281980&t=0)** - [Instructor] In the fifth step, we assess how [[Data Quality]] impacts revenue and risk for these teams.
 >
 > **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-assess-how-dq-impacts-revenue-and-risk?u=76281980&t=5)** So for the carts team, they focus on logging within the carts and it's essential for machine learning and product analytics.
 >
-> **[0:13](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-assess-how-dq-impacts-revenue-and-risk?u=76281980&t=13)** The recommendations team takes this data where increase ML accuracy increases sales 'cause they're recommending better products For the shopping workflows team, reduce UX friction also increases sales, and they depend heavily on the logging from the carts team.
+> **[0:13](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-assess-how-dq-impacts-revenue-and-risk?u=76281980&t=13)** The recommendations team takes this data where increase ML accuracy increases sales 'cause they're recommending better [[Microsoft Products|products]] For the shopping workflows team, reduce UX friction also increases sales, and they depend heavily on the logging from the carts team.
 >
 > **[0:28](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-assess-how-dq-impacts-revenue-and-risk?u=76281980&t=28)** And then finally, for the vendor relations team, increase sales results, increase vendor use.
 >
@@ -839,12 +822,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (2), teams (1), product (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[Microsoft Products|Products]] (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thought exercise: Synthesize research and communicate ROI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980)
+#### [Thought exercise: Synthesize research and communicate ROI](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,7 +838,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=27)** One key caveat though is that both of these are powered by the logging data from the carts team, which was establish well before the recommendations and workflows teams.
 >
-> **[0:39](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=39)** In other words, the data did not account for this business use case and now is impacting the data quality.
+> **[0:39](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=39)** In other words, the data did not account for this business use case and now is impacting the [[Data Quality]].
 >
 > **[0:45](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=45)** Thus, as a leader, you propose investment into the carts team to initiate a refactor to improve their logging reliability, which is another way of saying, improving their data quality.
 >
@@ -874,7 +856,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=84)** So for example, say for instance, we have 10,000 vendors with a average yearly sales of 100k per vendor.
 >
-> **[1:31](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=91)** That means that on the platform they're selling about a billion dollars worth of products.
+> **[1:31](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=91)** That means that on the platform they're selling about a billion dollars worth of [[Microsoft Products|products]].
 >
 > **[1:36](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=96)** Remember that for the business model, they get a sales fee for everything sold on the platform.
 >
@@ -896,7 +878,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=136)** So I set it to 400%, and so a 400% ROI on 3 million is 600k.
 >
-> **[2:23](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=143)** So therefore, can you improve the logging of a specific team that impacts the rest of the data quality for 600k?
+> **[2:23](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=143)** So therefore, can you improve the logging of a specific team that impacts the [[Representational State Transfer (REST)|rest]] of the data quality for 600k?
 >
 > **[2:32](https://www.linkedin.com/learning/data-quality-core-concepts/thought-exercise-synthesize-research-and-communicate-roi?u=76281980&t=152)** And if you are successful, could it improve vendor churn by 10%?
 >
@@ -912,7 +894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (4), product (4), [[Analytics]] (2), teams (2)
+> **Frameworks & Libraries:** [[Data Quality]] (9), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** roi (3)
 > **Analogies:** for example (1), for instance (1), it's like (1)
 > **CLI Commands:** make (1), find (1)
@@ -926,24 +908,22 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data lifecycle introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-introduction?u=76281980)
+#### [Data lifecycle introduction](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-introduction?u=76281980&t=0)** - In this chapter, we're going to learn about the data life cycle and the various stakeholders you'll encounter across it.
 >
-> **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-introduction?u=76281980&t=6)** Within this life cycle, we'll cover how business strategy is turned into data acquisition, how data acquisition is stored within databases, how it's used for analytics and R&D, and how it's finally served to the rest of the business.
+> **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-introduction?u=76281980&t=6)** Within this life cycle, we'll cover how business strategy is turned into [[Data Acquisition]], how data acquisition is stored within [[Databases]], how it's used for analytics and R&D, and how it's finally served to the [[Representational State Transfer (REST)|rest]] of the business.
 >
 > **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-introduction?u=76281980&t=20)** The data life cycle covering this chapter will serve as the foundation for the rest of the course, and it'll be something we'll be referencing throughout the various videos.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), [[Data Acquisition]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Data Acquisition]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Databases]] (1)
 > **Speakers:** - in (1)
 
-#### Data lifecycle overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-overview?u=76281980)
+#### [Data lifecycle overview](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,7 +951,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-overview?u=76281980&t=52)** From there, it goes into a transactional database.
 >
-> **[0:55](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-overview?u=76281980&t=55)** These databases are intended to move really quick to pull information and reference.
+> **[0:55](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-overview?u=76281980&t=55)** These [[Databases]] are intended to move really quick to pull information and reference.
 >
 > **[1:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-overview?u=76281980&t=60)** So say, for instance, you're on a website.
 >
@@ -989,7 +969,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-overview?u=76281980&t=106)** They do analytics and R&D, such as like machine learning models.
 >
-> **[1:50](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-overview?u=76281980&t=110)** From there, once they have a good idea of what to do, what they want to build, they actually make full-on data products.
+> **[1:50](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-overview?u=76281980&t=110)** From there, once they have a good idea of what to do, what they want to build, they actually make full-on data [[Microsoft Products|products]].
 >
 > **[1:56](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-overview?u=76281980&t=116)** So this would be ML models that make it into the product.
 >
@@ -1001,15 +981,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (6), next (3), product (3), business (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (1), similar to (1), such as (1)
 > **Env Vars:** etl (1), elt (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data lifecycle stakeholders: Business
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-business?u=76281980)
+#### [Data lifecycle stakeholders: Business](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1017,7 +996,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-business?u=76281980&t=6)** They're going to be typically at the end, after the data's all processed, after the data's formatted in a nice way in a dashboard, and they're often very removed from the various steps in the lifecycle to make the data accessible to them.
 >
-> **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-business?u=76281980&t=20)** They're going to be focused heavily on operationalizing the data, making insights off of it in decisions, and they're often the first people to bring up data quality issues if you don't have checks in place, which is not the best feeling as a data person.
+> **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-business?u=76281980&t=20)** They're going to be focused heavily on operationalizing the data, making insights off of it in decisions, and they're often the first people to bring up [[Data Quality]] issues if you don't have checks in place, which is not the best feeling as a data person.
 >
 > **[0:35](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-business?u=76281980&t=35)** In addition, there's a specific type of business stakeholder that's important, which are the executives.
 >
@@ -1027,36 +1006,35 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-business?u=76281980&t=64)** So this may be a business user who's reviewing the data, maybe in your product or they're receiving a report, or there may not even be a business person, but an actual user of the product, such as a business to consumer product.
 >
-> **[1:19](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-business?u=76281980&t=79)** So say for instance, you're on LinkedIn, you get analytics on your posts or other various things within the platform, that is an example of you being a consumer of data.
+> **[1:19](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-business?u=76281980&t=79)** So say for instance, you're on [[LinkedIn]], you get analytics on your posts or other various things within the platform, that is an example of you being a consumer of data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (8), product (3), [[LinkedIn]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[LinkedIn]] (1)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data lifecycle stakeholders: Engineers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980)
+#### [Data lifecycle stakeholders: Engineers](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=0)** - [Instructor] The next set of stakeholders we have within the data lifecycle are the various types of engineers.
 >
-> **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=5)** Now, the first set of engineers I want to talk about are typically front end, back end, DevOps, or maybe they're full stack.
+> **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=5)** Now, the first set of engineers I want to talk about are typically front end, back end, [[DevOps]], or maybe they're full stack.
 >
 > **[0:12](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=12)** And these are the people that are often creating the systems that generate the data or store the data in the transactional database.
 >
 > **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=20)** (inhales) And further down, they often are involved in the data processes except when it's turned into a data product and then it's pulled back into the product and referenced in the transactional database.
 >
-> **[0:31](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=31)** These individuals are key to data quality, because they're the ones creating the data, but they're also really hard to bring into data quality because their constraints aren't related to data, it's related to software.
+> **[0:31](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=31)** These individuals are key to [[Data Quality]], because they're the ones creating the data, but they're also really hard to bring into data quality because their constraints aren't related to data, it's related to software.
 >
 > **[0:45](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=45)** Engineers that do focus on data though are data engineers and analytics engineers.
 >
 > **[0:50](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=50)** And they're unique, they're growing across the entire data life cycle, because they're focused on the movement and structuring of data throughout the data life cycle.
 >
-> **[1:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=60)** Now, they do touch everything across this, but they're not going to be going as deep as, say, for instance, a software engineer for certain databases or a ML engineer for various ML models.
+> **[1:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=60)** Now, they do touch everything across this, but they're not going to be going as deep as, say, for instance, a software engineer for certain [[Databases]] or a ML engineer for various ML models.
 >
 > **[1:12](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=72)** But if data's moving from point A to point B, or is being transformed for a specific process, a data engineer or analytics engineer is most likely involved in the business.
 >
@@ -1066,47 +1044,45 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=98)** These are the people who are taking the R&D models from machine learning and putting it into production and creating the operations to make it available to people outside the business, within the product.
 >
-> **[1:50](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=110)** These are a very hot role, right now, with generative AI, and there's so much work that goes beyond just creating the AI model, such as making sure it stays up, making sure there's quality issues resolved, making sure that it stays safe.
+> **[1:50](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=110)** These are a very hot role, right now, with [[Generative AI]], and there's so much work that goes beyond just creating the AI model, such as making sure it stays up, making sure there's quality issues resolved, making sure that it stays safe.
 >
 > **[2:03](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-engineers?u=76281980&t=123)** These are what these ML engineers and AI engineers are focused on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), product (3), ai (3), database (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[DevOps]] (1), [[Databases]] (1), [[Generative AI]] (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data lifecycle stakeholders: Data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980)
+#### [Data lifecycle stakeholders: Data](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980&t=0)** - [Instructor] Finally, we have the data stakeholders.
 >
-> **[0:03](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980&t=3)** One of the first hires for any data org is often a data analyst and where they sit is they take the curated data, often found in an analytical database, and turn it into insights, such as analytics or dashboards.
+> **[0:03](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980&t=3)** One of the first hires for any data org is often a data analyst and where they sit is they take the curated data, often found in an analytical database, and turn it into insights, such as analytics or [[Dashboards]].
 >
-> **[0:17](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980&t=17)** Then we have data scientists who have a very similar role, but with a focus on developing data products.
+> **[0:17](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980&t=17)** Then we have data scientists who have a very similar role, but with a focus on developing data [[Microsoft Products|products]].
 >
 > **[0:24](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980&t=24)** Again, they use the curated data from marts or warehouses where it may be, they do analytics and R&D, such as building machine learning models, and then they help with other engineers to put it into production.
 >
 > **[0:36](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980&t=36)** One key difference between analysts and data scientists is analysts are often looking back at what happened to the business, while scientists are often looking forward to what they can do with the data.
 >
-> **[0:48](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980&t=48)** In the next set of slides, we'll move away from stakeholders and start going to the tooling used to support data quality.
+> **[0:48](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-stakeholders-data?u=76281980&t=48)** In the next set of slides, we'll move away from stakeholders and start going to the tooling used to support [[Data Quality]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Analytics]] (2), database (1), [[Dashboards]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Microsoft Products|Products]] (1), [[Data Quality]] (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### DQ across the lifecycle: Business strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-business-strategy?u=76281980)
+#### [DQ across the lifecycle: Business strategy](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-business-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-business-strategy?u=76281980&t=0)** - [Instructor] Now that we've talked about the data lifecycle and the stakeholders within it, we can start diving into the data quality across the lifecycle.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-business-strategy?u=76281980&t=0)** - [Instructor] Now that we've talked about the data lifecycle and the stakeholders within it, we can start diving into the [[Data Quality]] across the lifecycle.
 >
 > **[0:08](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-business-strategy?u=76281980&t=8)** Again, we're going to take this lifecycle and go through it one by one.
 >
@@ -1148,13 +1124,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (3)
+> **Frameworks & Libraries:** [[Data Quality]] (8)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### DQ across the lifecycle: Data creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980)
+#### [DQ across the lifecycle: Data creation](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,7 +1137,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=5)** For this video, we're going to focus only on the data creation side, and there's four key aspects: survey design, capture workflows with people, capture workflows of product, and then finally self-generated data.
 >
-> **[0:18](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=18)** First, we have survey design, which is one of the original data collection methods that we've had and that I feel most non-technical people are familiar with.
+> **[0:18](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=18)** First, we have survey design, which is one of the original [[Data Collection]] methods that we've had and that I feel most non-technical people are familiar with.
 >
 > **[0:30](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=30)** "The questions you ask and the way in which you structure the survey greatly impact the data you collect" and what you're able to do afterwards.
 >
@@ -1172,7 +1147,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=57)** Maybe you did something wrong in your server design to push someone to do that.
 >
-> **[1:03](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=63)** Examples of server design include intake forms, customer feedback, various things where you're getting information and the individual is putting the data in themselves.
+> **[1:03](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=63)** Examples of server design include intake [[Forms]], customer feedback, various things where you're getting information and the individual is putting the data in themselves.
 >
 > **[1:14](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=74)** Another aspect of data capture is workflows with people.
 >
@@ -1196,18 +1171,17 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=148)** So machine telemetry, logging on a website, or even the documents generated by the business.
 >
-> **[2:34](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=154)** And for data quality, the "business has the most control over this data and therefore its data quality."
+> **[2:34](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-creation?u=76281980&t=154)** And for [[Data Quality]], the "business has the most control over this data and therefore its data quality."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), product (4), business (2), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Data Quality]] (2), [[Forms]] (1)
 > **Analogies:** similar to (2), such as (1), for example (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### DQ across the lifecycle: Data acquisition
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980)
+#### [DQ across the lifecycle: Data acquisition](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,11 +1189,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980&t=6)** From this, you have third-party data, APIs, and also Secure File Transfer Protocols.
 >
-> **[0:13](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980&t=13)** For third-party data, it's any data that is not generated from an organization's respective products, processes or workflows.
+> **[0:13](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980&t=13)** For third-party data, it's any data that is not generated from an organization's respective [[Microsoft Products|products]], processes or workflows.
 >
 > **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980&t=20)** Examples of this could be data brokers, data files from a client or accessing data from an API.
 >
-> **[0:27](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980&t=27)** The challenge with this for data quality is that most organizations lack control of these data sources except when they may have a contractual agreement such as the SLAs or a requirement for a data quality level.
+> **[0:27](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980&t=27)** The challenge with this for [[Data Quality]] is that most organizations lack control of these data sources except when they may have a contractual agreement such as the SLAs or a requirement for a data quality level.
 >
 > **[0:40](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980&t=40)** One of the best examples of this are APIs.
 >
@@ -1243,25 +1217,24 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980&t=124)** Another way is (inhales) if you are sending sensitive information regarding contracts from one business to another.
 >
-> **[2:13](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980&t=133)** Since it's files, many times Excel files (inhales), people and process are likely the only ways you can really enforce data quality for this, and that's much harder to do and that gets into the cultural aspect.
+> **[2:13](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-acquisition?u=76281980&t=133)** Since it's files, many times [[Microsoft Excel|Excel]] files (inhales), people and process are likely the only ways you can really enforce data quality for this, and that's much harder to do and that gets into the cultural aspect.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), api (5), business (3), [[Microsoft Products|Products]] (1), hr (1)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** api (5), sftp (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### DQ across the lifecycle: Transactional databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980)
+#### [DQ across the lifecycle: Transactional databases](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=0)** - [Instructor] Next in the data lifecycle are transactional databases.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=0)** - [Instructor] Next in the data lifecycle are transactional [[Databases]].
 >
-> **[0:03](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=3)** And the four key areas we want to cover is logging, asset compliance, relational databases, and NoSQL databases.
+> **[0:03](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=3)** And the four key areas we want to cover is logging, asset compliance, [[Relational Databases]], and [[NoSQL]] databases.
 >
 > **[0:11](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=11)** I argue that the foundation of any transactional database is the logs themselves, which are append-only sequence of records that are ordered by time, and they're used to publish and subscribe data to other replicas, so other databases, and the logs enable for consistency across these various replicas, so that way you can have consistent data across different databases.
 >
@@ -1269,13 +1242,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=37)** Back when I was a data scientist, I would do product analytics, tracing the logs of people going through specific workflows of a product and seeing where they drop off.
 >
-> **[0:46](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=46)** On the right, you have an example of JSON, where you can see the timestamp, the event, and the various attributes for that log.
+> **[0:46](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=46)** On the right, you have an example of [[JSON]], where you can see the timestamp, the event, and the various attributes for that log.
 >
 > **[0:54](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=54)** Now to summarize, logs at a basic level are an event plus time.
 >
-> **[0:59](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=59)** They're essential for organizing data within a database and keeping them in sync, and often the foundation for self-generated data, especially for software-related products.
+> **[0:59](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=59)** They're essential for organizing data within a database and keeping them in sync, and often the foundation for self-generated data, especially for software-related [[Microsoft Products|products]].
 >
-> **[1:08](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=68)** And from a data quality standpoint, these logs are the individual data points that you're going to be looking to understand the quality of your data, and for backfills to rebuild historical data.
+> **[1:08](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=68)** And from a [[Data Quality]] standpoint, these logs are the individual data points that you're going to be looking to understand the quality of your data, and for backfills to rebuild historical data.
 >
 > **[1:20](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=80)** Another key component, speaking of logs, is ACID compliance, which it stands for atomicity, consistency, isolation, and durability.
 >
@@ -1287,7 +1260,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=115)** And to give you an example, I have a entity relationship diagram, which is essentially a diagram that shows how a relational database is connected with each other for the various tables.
 >
-> **[2:07](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=127)** For this example is the e-commerce website.
+> **[2:07](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=127)** For this example is the [[E-Commerce]] website.
 >
 > **[2:09](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=129)** One thing I want to highlight here is that the role of having a relational database is to ensure that each row is unique, and it can be connected via primary keys and foreign keys, also known as referential integrity.
 >
@@ -1301,7 +1274,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=168)** Well, it's perfect for transactional databases because as a document store, it groups entities together to make it easy to pull information out of it and present it to the user.
 >
-> **[2:59](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=179)** So in this example, we have John Doe, and we have their order information, what supplier they came from, and all the other orders they have in the payments.
+> **[2:59](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=179)** So in this example, we have [[John the Ripper|John]] Doe, and we have their order information, what supplier they came from, and all the other orders they have in the payments.
 >
 > **[3:08](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-transactional-databases?u=76281980&t=188)** If you're in a relational database, going back here, you can see that you would have to do all these various joins to get that same information, compared to the NoSQL database, it's already in this one group of data that you pull and bring forward into the product.
 >
@@ -1309,15 +1282,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Databases]] (8), database (6), [[NoSQL]] (3), product (3)
+> **Frameworks & Libraries:** [[Databases]] (8), [[Data Quality]] (5), [[NoSQL]] (3), [[Relational Databases]] (2), [[JSON]] (2)
 > **Env Vars:** json (2), acid (2)
 > **Definitions:** is a  (1), stands for (1), known as (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### DQ across the lifecycle: ETL/ELT pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-etl-elt-pipelines?u=76281980)
+#### [DQ across the lifecycle: ETL/ELT pipelines](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-etl-elt-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1333,7 +1305,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-etl-elt-pipelines?u=76281980&t=28)** It's the most common, easiest to do.
 >
-> **[0:31](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-etl-elt-pipelines?u=76281980&t=31)** And one thing to highlight from a data quality perspective is that it's impacted heavily by the data quality dimension of timeliness.
+> **[0:31](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-etl-elt-pipelines?u=76281980&t=31)** And one thing to highlight from a [[Data Quality]] perspective is that it's impacted heavily by the data quality dimension of timeliness.
 >
 > **[0:39](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-etl-elt-pipelines?u=76281980&t=39)** When is the expected time that the data will refresh for your dashboard or for your database?
 >
@@ -1349,7 +1321,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-etl-elt-pipelines?u=76281980&t=75)** The other type of data pipeline is the streaming data pipeline, and this is often used for transactions where there's a high volume and velocity of data.
 >
-> **[1:24](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-etl-elt-pipelines?u=76281980&t=84)** A great example of this are IoT sensors, where doing a batch would just be way too hard and way too expensive to do.
+> **[1:24](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-etl-elt-pipelines?u=76281980&t=84)** A great example of this are [[IoT]] sensors, where doing a batch would just be way too hard and way too expensive to do.
 >
 > **[1:32](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-etl-elt-pipelines?u=76281980&t=92)** Another use case is for analytics, we need a low-latency use case, and the data needs to be consistent across multiple domains.
 >
@@ -1363,31 +1335,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), database (3), next (1), etl (1), business (1)
+> **Frameworks & Libraries:** [[Data Quality]] (6), [[IoT]] (1)
 > **Env Vars:** elt (2), etl (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### DQ across the lifecycle: Analytical databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980)
+#### [DQ across the lifecycle: Analytical databases](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=0)** - [Instructor] The next stage in a data lifecycle are analytical databases, and I'm going to group data marts because they're often just a subset of the analytical database.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=0)** - [Instructor] The next stage in a data lifecycle are analytical [[Databases]], and I'm going to group data marts because they're often just a subset of the analytical database.
 >
-> **[0:09](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=9)** Three key analytical databases I want to highlight are data warehouses, data lakes, and data lakehouses.
+> **[0:09](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=9)** Three key analytical databases I want to highlight are data warehouses, [[Data Lakes]], and data lakehouses.
 >
 > **[0:17](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=17)** A data warehouse is rooted in a time where databases had to be on-prem and were long and expensive initiatives.
 >
-> **[0:23](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=23)** Heavy, heavy emphasis on data modeling with Inmon and Kimball being the two main approaches.
+> **[0:23](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=23)** Heavy, heavy emphasis on [[Data Modeling]] with Inmon and Kimball being the two main approaches.
 >
 > **[0:30](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=30)** And if you remember I said data marts in a data lifecycle.
 >
 > **[0:33](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=33)** That's calling out to how Inmon approaches data warehouses.
 >
-> **[0:37](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=37)** They're a little less common today, unfortunately, but following their methods greatly reduce data quality issues because so much time upfront is spent on modeling and understanding the data and the business use case for it.
+> **[0:37](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=37)** They're a little less common today, unfortunately, but following their methods greatly reduce [[Data Quality]] issues because so much time upfront is spent on modeling and understanding the data and the business use case for it.
 >
-> **[0:50](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=50)** The reason why they're not as popular is that cloud data warehouses came about, and cloud computing made it very easy to spin up these analytical databases.
+> **[0:50](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=50)** The reason why they're not as popular is that cloud data warehouses came about, and [[Cloud Computing]] made it very easy to spin up these analytical databases.
 >
 > **[0:59](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-analytical-databases?u=76281980&t=59)** And one of the popular ones was data lakes.
 >
@@ -1421,21 +1392,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), [[Databases]] (5), database (2), cloud (2), next (1)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Data Lakes]] (5), [[Data Quality]] (3), [[Data Modeling]] (2), [[Cloud Computing]] (1)
 > **Analogies:** it's like (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### DQ across the lifecycle: Data analytics and data products
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980)
+#### [DQ across the lifecycle: Data analytics and data products](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=0)** - [Instructor] After you have your data curated analytical database, you're able to build analytics and data products off of them.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=0)** - [Instructor] After you have your data curated analytical database, you're able to build analytics and data [[Microsoft Products|products]] off of them.
 >
-> **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=6)** Three key areas are inference and statistics, embedded analytics, and machine learning.
+> **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=6)** Three key areas are inference and [[Statistics]], embedded analytics, and machine learning.
 >
-> **[0:12](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=12)** For inference to statistics, ideally, data quality doesn't impact the results of statistics, because you spend so much time doing proper data cleaning.
+> **[0:12](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=12)** For inference to statistics, ideally, [[Data Quality]] doesn't impact the results of statistics, because you spend so much time doing proper [[Data Cleaning]].
 >
 > **[0:21](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=21)** Where data quality does impact is the feasibility of conducting statistics or time it takes to clean the data.
 >
@@ -1443,7 +1413,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=36)** That's the example.
 >
-> **[0:37](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=37)** And to give you a real world example from my career, when I was a data scientist in healthcare, we used to do all these huge big data analytics for pharmaceutical companies.
+> **[0:37](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=37)** And to give you a real world example from my career, when I was a data scientist in healthcare, we used to do all these huge [[Big Data Analytics]] for pharmaceutical companies.
 >
 > **[0:47](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=47)** And one day our data broker gave us a report saying that, hey, the data we gave you the past three months was wrong.
 >
@@ -1463,7 +1433,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=100)** I was updating the algorithm one day and one weird thing happened.
 >
-> **[1:45](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=105)** I deployed the change to the product, but it turns out that it required deployment in two separate databases and only deployed it to one.
+> **[1:45](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=105)** I deployed the change to the product, but it turns out that it required deployment in two separate [[Databases]] and only deployed it to one.
 >
 > **[1:53](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=113)** What ultimately happened was a huge freak out because all the numbers came really wrong, and every customer came emailing us saying, what's wrong?
 >
@@ -1479,7 +1449,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=150)** And one thing that really brought me towards focusing on data quality was Andrew Ing talking about model-centric versus data-centric AI.
 >
-> **[2:37](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=157)** Where you can spend so much time fine tuning a model for AI, and you can get actually better results much quicker if instead of focusing on the model, you clean the data.
+> **[2:37](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=157)** Where you can spend so much time [[Fine Tuning]] a model for AI, and you can get actually better results much quicker if instead of focusing on the model, you clean the data.
 >
 > **[2:48](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-analytics-and-data-products?u=76281980&t=168)** One key thing for data quality here is that it's heavily influenced by data drift, which we'll cover in later videos.
 >
@@ -1497,22 +1467,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Statistics]] (7), product (7), [[Analytics]] (6), database (4)
+> **Frameworks & Libraries:** [[Data Quality]] (9), [[Statistics]] (7), [[Microsoft Products|Products]] (1), [[Data Cleaning]] (1), [[Big Data Analytics]] (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### DQ across the lifecycle: Data/insights consumption
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-insights-consumption?u=76281980)
+#### [DQ across the lifecycle: Data/insights consumption](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-insights-consumption?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-insights-consumption?u=76281980&t=0)** - [Instructor] Finally, in the data lifecycle, we have consumption of the data itself and insights.
 >
-> **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-insights-consumption?u=76281980&t=5)** Three key areas I want to highlight is reporting, dashboards, and data brokers.
+> **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-insights-consumption?u=76281980&t=5)** Three key areas I want to highlight is reporting, [[Dashboards]], and data brokers.
 >
-> **[0:11](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-insights-consumption?u=76281980&t=11)** Reporting, I see three areas when it comes to data quality.
+> **[0:11](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-insights-consumption?u=76281980&t=11)** Reporting, I see three areas when it comes to [[Data Quality]].
 >
 > **[0:14](https://www.linkedin.com/learning/data-quality-core-concepts/dq-across-the-lifecycle-data-insights-consumption?u=76281980&t=14)** You have low stakes where it's internal reporting within the business.
 >
@@ -1562,7 +1531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), business (4), [[Dashboards]] (3), next (2)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Dashboards]] (3)
 > **CLI Commands:** make (2), go run (1)
 > **Env Vars:** sla (1)
 > **Speakers:** - [instructor] (1)
@@ -1572,26 +1541,24 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to issues and measurements
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-issues-and-measurements?u=76281980)
+#### [Introduction to issues and measurements](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-issues-and-measurements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-issues-and-measurements?u=76281980&t=0)** - In this chapter, we'll provide an overview of what root cause analysis looks like for data quality and the various symptoms you'll see when exploring these problems.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-issues-and-measurements?u=76281980&t=0)** - In this chapter, we'll provide an overview of what root cause analysis looks like for [[Data Quality]] and the various symptoms you'll see when exploring these problems.
 >
 > **[0:09](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-issues-and-measurements?u=76281980&t=9)** Finally, we'll learn how to measure these data quality issues and tie it back to the business.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2)
 > **Speakers:** - in (1)
 
-#### Root cause analysis: RCA
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980)
+#### [Root cause analysis: RCA](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980&t=0)** - [Instructor] Now that we know the various stages of the data life cycle and the stakeholders within them, we can start exploring how we can find data quality issues within it.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980&t=0)** - [Instructor] Now that we know the various stages of the data life cycle and the stakeholders within them, we can start exploring how we can find [[Data Quality]] issues within it.
 >
 > **[0:08](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980&t=8)** Another way of describing this is called root cause analysis, or RCA.
 >
@@ -1601,7 +1568,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980&t=19)** From there, you triage the issue, you do the scoping and the requirements to solve it, you try replicating the data quality problem, you then go and find the problem data set, and you profile the data.
 >
-> **[0:32](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980&t=32)** You investigate the data pipelines that are downstream the analytical databases.
+> **[0:32](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980&t=32)** You investigate the [[Data Pipelines]] that are downstream the analytical [[Databases]].
 >
 > **[0:36](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980&t=36)** If warranted, then you go upstream into the transactional database to understand what's going wrong.
 >
@@ -1615,22 +1582,21 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980&t=64)** From there, these are the five top signals of data quality issues I've seen when doing root cause analysis.
 >
-> **[1:10](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980&t=70)** The first one being null rates, the second being data freshness and timeliness issues, the third being schema changes, the fourth being data transformation bugs, and then finally, data drift.
+> **[1:10](https://www.linkedin.com/learning/data-quality-core-concepts/root-cause-analysis-rca?u=76281980&t=70)** The first one being null rates, the second being data freshness and timeliness issues, the third being schema changes, the fourth being [[Data Transformation]] bugs, and then finally, data drift.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Databases]] (1), database (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[Data Pipelines]] (1), [[Databases]] (1), [[Data Transformation]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** rca (2)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Null rates
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980)
+#### [Null rates](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=0)** - [Instructor] I argue that one of the most important data quality signals to look for are null rates.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=0)** - [Instructor] I argue that one of the most important [[Data Quality]] signals to look for are null rates.
 >
 > **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=6)** Now, nulls are extremely important because they represent missingness due to data loss or non-inner joins where there's no matching values.
 >
@@ -1638,7 +1604,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=21)** Nulls are often the first attribute I check when doing root cause analysis for data quality issues.
 >
-> **[0:26](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=26)** And so I'll pull up SQL, I'll go to a database and I'll check for null values and group by the dates.
+> **[0:26](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=26)** And so I'll pull up [[SQL]], I'll go to a database and I'll check for null values and group by the dates.
 >
 > **[0:33](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=33)** Now, there's various type of nulls.
 >
@@ -1654,7 +1620,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=61)** I would merge the information on the various event points and see where the nulls were, and that'll be useful information itself.
 >
-> **[1:09](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=69)** Another form of nulls is nulls from data collection issues.
+> **[1:09](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=69)** Another form of nulls is nulls from [[Data Collection]] issues.
 >
 > **[1:13](https://www.linkedin.com/learning/data-quality-core-concepts/null-rates?u=76281980&t=73)** So your survey may be designed poorly or not administered well, leading to drop off or missing responses, or maybe logging in the software may time out or a system may crash, resulting in permanent loss of data, another huge signal for data quality issues.
 >
@@ -1678,7 +1644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (4), product (2), [[SQL]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[SQL]] (1), [[Data Collection]] (1)
 > **Env Vars:** sql (1), etl (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1687,12 +1653,11 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data freshness and timeliness
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-freshness-and-timeliness?u=76281980)
+#### [Data freshness and timeliness](https://www.linkedin.com/learning/data-quality-core-concepts/data-freshness-and-timeliness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-freshness-and-timeliness?u=76281980&t=0)** - The second major signal I look for for data quality issues is data freshness and timeliness.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-freshness-and-timeliness?u=76281980&t=0)** - The second major signal I look for for [[Data Quality]] issues is data freshness and timeliness.
 >
 > **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/data-freshness-and-timeliness?u=76281980&t=6)** Timestamps are extremely important for data quality, because in addition to nulls, they provide major clues for data quality issues, specifically trends and when I do that, I often go aggregate timestamps by a year, month, or some other window of time, which narrows down which set of logs to review for for root cause analysis.
 >
@@ -1708,22 +1673,21 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-quality-core-concepts/data-freshness-and-timeliness?u=76281980&t=78)** Created is when an event has occurred, written is when the event record has been stored on the database, and updated is when our record has been altered.
 >
-> **[1:28](https://www.linkedin.com/learning/data-quality-core-concepts/data-freshness-and-timeliness?u=76281980&t=88)** Some of the most painful data quality issues I have faced is when those values get mixed up between databases, which makes it hard to understand what was the true path of events within a database.
+> **[1:28](https://www.linkedin.com/learning/data-quality-core-concepts/data-freshness-and-timeliness?u=76281980&t=88)** Some of the most painful data quality issues I have faced is when those values get mixed up between [[Databases]], which makes it hard to understand what was the true path of events within a database.
 >
 > **[1:43](https://www.linkedin.com/learning/data-quality-core-concepts/data-freshness-and-timeliness?u=76281980&t=103)** This is especially true for streaming, where if that gets mixed up, you start having conflicts within your databases.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[Databases]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Schema changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980)
+#### [Schema changes](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980&t=0)** - [Instructor] The next signal of potential data quality issues are schema changes.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980&t=0)** - [Instructor] The next signal of potential [[Data Quality]] issues are schema changes.
 >
 > **[0:04](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980&t=4)** Now, we've mentioned this before, but let's go a little bit more into it.
 >
@@ -1753,11 +1717,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980&t=57)** Please be prepared and account for it in your downstream transformations and analytical database."
 >
-> **[1:02](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980&t=62)** I have found that schema evolution is easy to deal with "when data teams are involved in the requirements and scoping phases for changes to products and processes" that impact the databases.
+> **[1:02](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980&t=62)** I have found that schema evolution is easy to deal with "when data teams are involved in the requirements and scoping phases for changes to [[Microsoft Products|products]] and processes" that impact the [[Databases]].
 >
 > **[1:15](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980&t=75)** One of the earliest wins I witnessed at a earlier company was when our head of data said, "Engineering team, I want one of my data team members part of your meetings when you're planning new product features.
 >
-> **[1:27](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980&t=87)** Because the schema keeps on changing on us and our customers are mad about the dashboards."
+> **[1:27](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980&t=87)** Because the schema keeps on changing on us and our customers are mad about the [[Dashboards]]."
 >
 > **[1:33](https://www.linkedin.com/learning/data-quality-core-concepts/schema-changes?u=76281980&t=93)** Immediately after that change, our data quality issues dropped because now software engineers were aware of what was the impact to us.
 >
@@ -1789,23 +1753,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (6), database (3), teams (2), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[Microsoft Products|Products]] (1), [[Databases]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data transformation bugs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-transformation-bugs?u=76281980)
+#### [Data transformation bugs](https://www.linkedin.com/learning/data-quality-core-concepts/data-transformation-bugs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-transformation-bugs?u=76281980&t=0)** - [Instructor] While I wish I could say that data quality issues were never caused by my own changes and it was only from the upstream engineers, the reality is I also caused data quality issues through data transformation bugs.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-transformation-bugs?u=76281980&t=0)** - [Instructor] While I wish I could say that [[Data Quality]] issues were never caused by my own changes and it was only from the upstream engineers, the reality is I also caused data quality issues through [[Data Transformation]] bugs.
 >
 > **[0:12](https://www.linkedin.com/learning/data-quality-core-concepts/data-transformation-bugs?u=76281980&t=12)** One key thing to highlight is remember when we did that ETL pipeline, we're extracting from the transactional database and replicating it to an analytical database.
 >
 > **[0:21](https://www.linkedin.com/learning/data-quality-core-concepts/data-transformation-bugs?u=76281980&t=21)** Well, to go into more why we do that is because the transactional database and analytical database have the same data, but it needed to be formatted for different use cases.
 >
-> **[0:32](https://www.linkedin.com/learning/data-quality-core-concepts/data-transformation-bugs?u=76281980&t=32)** Transactional databases focus on speed for read and write, while analytical databases are optimized for large scans and aggregates of the data for analytics.
+> **[0:32](https://www.linkedin.com/learning/data-quality-core-concepts/data-transformation-bugs?u=76281980&t=32)** Transactional [[Databases]] focus on speed for read and write, while analytical databases are optimized for large scans and aggregates of the data for analytics.
 >
 > **[0:42](https://www.linkedin.com/learning/data-quality-core-concepts/data-transformation-bugs?u=76281980&t=42)** One of the key things to highlight here is that when you're doing that replication and ultimate transformations, you're trying to align your assumptions to the business logic happening beyond the transactional database and to the actual business.
 >
@@ -1833,25 +1796,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (7), business (3), [[Databases]] (2), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Databases]] (2), [[Data Transformation]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** etl (1)
 > **Analogies:** such as (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-drift?u=76281980)
+#### [Data drift](https://www.linkedin.com/learning/data-quality-core-concepts/data-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-drift?u=76281980&t=0)** - [Instructor] Another signal of potential data quality issues is data drift.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-drift?u=76281980&t=0)** - [Instructor] Another signal of potential [[Data Quality]] issues is data drift.
 >
 > **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/data-drift?u=76281980&t=5)** Now, in addition to schema evolving, it's also possible for the data itself to evolve and no longer align with your business logic.
 >
 > **[0:13](https://www.linkedin.com/learning/data-quality-core-concepts/data-drift?u=76281980&t=13)** One key nuance I want to highlight here is that it's not the data itself that's having the issue, it's your inability to capture it properly.
 >
-> **[0:22](https://www.linkedin.com/learning/data-quality-core-concepts/data-drift?u=76281980&t=22)** Now, where this becomes really impactful, specifically for data drift, is shifts in the distribution of the data, and it has major impacts for analytics, such as statistics, and especially in machine learning.
+> **[0:22](https://www.linkedin.com/learning/data-quality-core-concepts/data-drift?u=76281980&t=22)** Now, where this becomes really impactful, specifically for data drift, is shifts in the distribution of the data, and it has major impacts for analytics, such as [[Statistics]], and especially in machine learning.
 >
 > **[0:35](https://www.linkedin.com/learning/data-quality-core-concepts/data-drift?u=76281980&t=35)** There's a whole field around data drift and ML ops.
 >
@@ -1883,16 +1845,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (1), [[Analytics]] (1), [[Statistics]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Statistics]] (1)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measuring data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/measuring-data-quality?u=76281980)
+#### [Measuring data quality](https://www.linkedin.com/learning/data-quality-core-concepts/measuring-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/measuring-data-quality?u=76281980&t=0)** - [Instructor] So we're aware of the data lifecycle, we're aware of the stakeholders, we're aware of how data quality pops up into them, and what the signals of data quality issues look like.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/measuring-data-quality?u=76281980&t=0)** - [Instructor] So we're aware of the data lifecycle, we're aware of the stakeholders, we're aware of how [[Data Quality]] pops up into them, and what the signals of data quality issues look like.
 >
 > **[0:09](https://www.linkedin.com/learning/data-quality-core-concepts/measuring-data-quality?u=76281980&t=9)** Now, how do you measure them?
 >
@@ -1910,7 +1871,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/data-quality-core-concepts/measuring-data-quality?u=76281980&t=49)** And then you create pass/fail logic based on acceptable values of the metric.
 >
-> **[0:54](https://www.linkedin.com/learning/data-quality-core-concepts/measuring-data-quality?u=76281980&t=54)** And so as a mock example, remember our e-commerce exercise, well, that data leader got funding and now they did a data quality initiative.
+> **[0:54](https://www.linkedin.com/learning/data-quality-core-concepts/measuring-data-quality?u=76281980&t=54)** And so as a mock example, remember our [[E-Commerce]] exercise, well, that data leader got funding and now they did a data quality initiative.
 >
 > **[1:03](https://www.linkedin.com/learning/data-quality-core-concepts/measuring-data-quality?u=76281980&t=63)** And specifically, they looked at the tables and identified that customerId, totalAmount, and paymentDate were the most important data values they wanted to focus on for data quality.
 >
@@ -1934,7 +1895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[E-Commerce]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Quality]] (11), [[E-Commerce]] (1)
 > **Code Identifiers:** customerid (2), totalamount (2), paymentdate (2)
 > **Analogies:** for instance (2)
 > **Env Vars:** dama (1)
@@ -1948,21 +1909,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to tooling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-tooling?u=76281980)
+#### [Introduction to tooling](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-tooling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-tooling?u=76281980&t=0)** - In this chapter, we'll cover the various tools you can use to support your data quality initiative, where they fit within the data lifecycle, and provide case studies and real-life examples to make it clear on how it'll fit within your business.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-tooling?u=76281980&t=0)** - In this chapter, we'll cover the various tools you can use to support your [[Data Quality]] initiative, where they fit within the data lifecycle, and provide case studies and real-life examples to make it clear on how it'll fit within your business.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Data dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-dictionaries?u=76281980)
+#### [Data dictionaries](https://www.linkedin.com/learning/data-quality-core-concepts/data-dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1970,7 +1929,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-quality-core-concepts/data-dictionaries?u=76281980&t=7)** And data dictionaries are essentially "a centralized repository of information about data, such as its meanings, relationships, origin, various formats."
 >
-> **[0:17](https://www.linkedin.com/learning/data-quality-core-concepts/data-dictionaries?u=76281980&t=17)** And where it sits in the data lifecycle is often within the analytical databases and the data marts.
+> **[0:17](https://www.linkedin.com/learning/data-quality-core-concepts/data-dictionaries?u=76281980&t=17)** And where it sits in the data lifecycle is often within the analytical [[Databases]] and the data marts.
 >
 > **[0:24](https://www.linkedin.com/learning/data-quality-core-concepts/data-dictionaries?u=76281980&t=24)** And it could potentially be in the transactional databases.
 >
@@ -1978,7 +1937,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-quality-core-concepts/data-dictionaries?u=76281980&t=35)** The role of a data dictionary is to serve as a "centralized source of truth that describes the values within a database."
 >
-> **[0:43](https://www.linkedin.com/learning/data-quality-core-concepts/data-dictionaries?u=76281980&t=43)** And it "can range from an explicit tool" to being maybe a Google sheet, if it's very scrappy, or it can be within the database itself, such as cloud data warehouses that will have the descriptions of the data next to the columns.
+> **[0:43](https://www.linkedin.com/learning/data-quality-core-concepts/data-dictionaries?u=76281980&t=43)** And it "can range from an explicit tool" to being maybe a [[Google]] sheet, if it's very scrappy, or it can be within the database itself, such as cloud data warehouses that will have the descriptions of the data next to the columns.
 >
 > **[0:59](https://www.linkedin.com/learning/data-quality-core-concepts/data-dictionaries?u=76281980&t=59)** And here's an example of a data dictionary.
 >
@@ -1992,20 +1951,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Databases]] (2), database (2), [[Google]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Google]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data catalogs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980)
+#### [Data catalogs](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=0)** - [Instructor] Another tool to help you understand the data within your data lifecycle are data catalogs.
 >
-> **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=6)** They're essentially an organized inventory of the data, but specifically a database of the metadata of the various databases within your system and their data sources.
+> **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=6)** They're essentially an organized inventory of the data, but specifically a database of the [[Metadata]] of the various [[Databases]] within your system and their data sources.
 >
 > **[0:15](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=15)** In addition, it has a search engine inside of it to help you search for it.
 >
@@ -2023,7 +1981,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=62)** Catalogs answer where is the data, while dictionaries answer what is the data.
 >
-> **[1:07](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=67)** Catalogs have multiple forms of metadata, while dictionaries only have definitions of metadata.
+> **[1:07](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=67)** Catalogs have multiple [[Forms]] of metadata, while dictionaries only have definitions of metadata.
 >
 > **[1:13](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=73)** And then finally, catalogs are programmatically updated, but dictionaries, while it is possible, can be programmatic.
 >
@@ -2041,24 +1999,23 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=124)** To solve this, they utilize the data catalog to consolidate metadata from the various databases and visualize the lineage of the data to track how it flow through the organization, which we'll cover in our future slides.
 >
-> **[2:16](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=136)** Finally, this allowed awareness of the data locations, and because people are aware where it was located, it resulted in a further data ownership and accountability for the data quality.
+> **[2:16](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=136)** Finally, this allowed awareness of the data locations, and because people are aware where it was located, it resulted in a further data ownership and [[Accountability]] for the [[Data Quality]].
 >
 > **[2:27](https://www.linkedin.com/learning/data-quality-core-concepts/data-catalogs?u=76281980&t=147)** I highly recommend checking out their blog, which I included in the resources.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Metadata]] (6), [[Search]] (3), database (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (6), [[Databases]] (2), [[Forms]] (1), [[Accountability]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** similar to (2), for instance (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Data lineage
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980)
+#### [Data lineage](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=0)** - [Instructor] The next critical tool for managing data quality is data lineage.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=0)** - [Instructor] The next critical tool for managing [[Data Quality]] is [[Data Lineage]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=4)** "Data lineage essentially communicates a data's origin, what has happened to it," and how it moves from source to source to provide visibility of your data system.
 >
@@ -2072,7 +2029,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=35)** Now, data lineage fits within the data lifecycle wherever data is being moved.
 >
-> **[0:42](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=42)** And typically, you'll have it within data pipelines that show, "Hey, we're replicating from A to B," or within the analytical databases to identify the transformations.
+> **[0:42](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=42)** And typically, you'll have it within [[Data Pipelines]] that show, "Hey, we're replicating from A to B," or within the analytical [[Databases]] to identify the transformations.
 >
 > **[0:53](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=53)** Now, data lineage could be in the data creation and the transactional phase, but many times the software engineers aren't too focused on the data aspect of it.
 >
@@ -2086,7 +2043,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=83)** And many times after I do my first profiling of data quality issue, my next step is to understand where is it coming from?
 >
-> **[1:31](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=91)** I would trace the call functions in SQL or in Python functions to understand how data flowed through a system.
+> **[1:31](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=91)** I would trace the call functions in [[SQL]] or in [[Python (Programming Language)|Python]] functions to understand how data flowed through a system.
 >
 > **[1:40](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=100)** And if there was lineage available, I went to that first 'cause that made it much easier to understand what happened, what were the steps, and where something could possibly go wrong.
 >
@@ -2094,7 +2051,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=113)** I've included a article for this case study.
 >
-> **[1:55](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=115)** But to quickly summarize, "Netflix is one of the first companies to heavily invest in microservices at scale."
+> **[1:55](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=115)** But to quickly summarize, "Netflix is one of the first companies to heavily invest in [[Microservices]] at scale."
 >
 > **[2:01](https://www.linkedin.com/learning/data-quality-core-concepts/data-lineage?u=76281980&t=121)** So instead of having all the information within one database and one system, you have all these little mini systems everywhere.
 >
@@ -2112,27 +2069,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Databases]] (3), next (2), [[Microservices]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Lineage]] (7), [[Data Quality]] (3), [[Databases]] (3), [[Microservices]] (2), [[Data Pipelines]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data monitoring and observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980)
+#### [Data monitoring and observability](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980&t=0)** - [Instructor] The next set of tools for data quality is data monitoring and observability.
+> **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980&t=0)** - [Instructor] The next set of tools for [[Data Quality]] is data monitoring and observability.
 >
 > **[0:05](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980&t=5)** And data observability is defined as the organization's ability to have broad visibility of data landscape and multi-layered data dependencies, such as the pipelines, the infrastructure, how it's served, at all times with a goal to identify, control, and escalate data quality issues.
 >
-> **[0:26](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980&t=26)** Where it typically fits within a data lifecycle is that analytical databases, but it can also be in the transactional database.
+> **[0:26](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980&t=26)** Where it typically fits within a data lifecycle is that analytical [[Databases]], but it can also be in the transactional database.
 >
 > **[0:34](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980&t=34)** Again, you want a holistic view of your data stack.
 >
-> **[0:38](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980&t=38)** It highlights data quality trends by profiling the data and running various statistics, specifically looking for anomaly detection.
+> **[0:38](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980&t=38)** It highlights data quality trends by profiling the data and running various [[Statistics]], specifically looking for anomaly detection.
 >
 > **[0:46](https://www.linkedin.com/learning/data-quality-core-concepts/data-monitoring-and-observability?u=76281980&t=46)** It provides broad visibility of organization's data stack and alerting happens after changes to data.
 >
@@ -2156,30 +2112,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Debugging]] (2), next (1), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[Databases]] (1), [[Statistics]] (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data contracts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980)
+#### [Data contracts](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=0)** - [Instructor] Finally we have data contracts, which is a emerging category in the data space right now.
 >
-> **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=6)** I define data contracts as a data architecture pattern that extends software-driven collaboration to data teams, and enhances data quality through human-in-the-loop reviews.
+> **[0:06](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=6)** I define data contracts as a [[Data Architecture]] pattern that extends software-driven collaboration to data teams, and enhances [[Data Quality]] through human-in-the-loop reviews.
 >
 > **[0:16](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=16)** And it's similar to how these systems have improved code quality for product teams.
 >
-> **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=20)** A similar tool being GitHub.
+> **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=20)** A similar tool being [[GitHub]].
 >
 > **[0:22](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=22)** Data contracts are upstream and mainly focused on the transactional database and the replication into the analytical database.
 >
 > **[0:31](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=31)** The way it does this, it codifies expectations of data such as schema, semantics, profiling of the data as code via contract spec typically a YAML file.
 >
-> **[0:40](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=40)** It extracts metadata from databases, data catalogs, and lineage.
+> **[0:40](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=40)** It extracts [[Metadata]] from [[Databases]], data catalogs, and lineage.
 >
 > **[0:45](https://www.linkedin.com/learning/data-quality-core-concepts/data-contracts?u=76281980&t=45)** It detects proposed changes to code and databases, and then compares the contract spec to the expectations of the collected metadata.
 >
@@ -2211,7 +2166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), database (4), teams (2), [[Metadata]] (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[Metadata]] (2), [[Databases]] (2), [[Data Architecture]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (2), such as (1)
 > **Env Vars:** yaml (1), cicd (1)
@@ -2225,26 +2180,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980&t=0)** - Thank you so much for taking this course.
 >
-> **[0:02](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980&t=2)** In this course on core concepts of data quality, you learn how to define data quality, what data quality looks like along the data lifecycle, the various tools in it, and the various stakeholders.
+> **[0:02](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980&t=2)** In this course on core concepts of [[Data Quality]], you learn how to define data quality, what data quality looks like along the data lifecycle, the various tools in it, and the various stakeholders.
 >
 > **[0:13](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980&t=13)** This course was a huge overview and many times a starting point for you to launch off of to learn further.
 >
-> **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980&t=20)** And my next set of courses coming soon, we'll be taking a code perspective of what data quality looks like, and diving into code bases and databases.
+> **[0:20](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980&t=20)** And my next set of courses coming soon, we'll be taking a code perspective of what data quality looks like, and diving into code bases and [[Databases]].
 >
 > **[0:28](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980&t=28)** If you're non-technical, then this is the stopping point for you.
 >
-> **[0:32](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980&t=32)** Again, thank you to the LinkedIn team, my team, for helping me set up the course and for you for taking the time to learn about data quality.
+> **[0:32](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980&t=32)** Again, thank you to the [[LinkedIn]] team, my team, for helping me set up the course and for you for taking the time to learn about data quality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), [[Databases]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Databases]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - thank (1)
 

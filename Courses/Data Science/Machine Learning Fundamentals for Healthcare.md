@@ -84,14 +84,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding machine learning in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/understanding-machine-learning-in-healthcare?u=76281980)
+#### [Understanding machine learning in healthcare](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/understanding-machine-learning-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/understanding-machine-learning-in-healthcare?u=76281980&t=0)** - Machine learning and healthcare, how do they work together?
 >
-> **[0:04](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/understanding-machine-learning-in-healthcare?u=76281980&t=4)** And what about data science and artificial intelligence?
+> **[0:04](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/understanding-machine-learning-in-healthcare?u=76281980&t=4)** And what about [[Data Science]] and [[Artificial Intelligence (AI)|artificial intelligence]]?
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/understanding-machine-learning-in-healthcare?u=76281980&t=8)** How do those relate to it?
 >
@@ -111,11 +110,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - machine (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,13 +127,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=21)** In the subsequent videos, however, we walk through, step by step, some common use cases for machine learning in healthcare.
 >
-> **[0:31](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=31)** Therefore, to be able to code along where required, it is important to understand Python programming.
+> **[0:31](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=31)** Therefore, to be able to code along where required, it is important to understand [[Python (Programming Language)|Python]] programming.
 >
-> **[0:39](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=39)** If you're new to programming, a good place to get started is my [[Python for Health Sciences and Healthcare]] course on LinkedIn Learning.
+> **[0:39](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/what-you-should-know?u=76281980&t=39)** If you're new to programming, a good place to get started is my [[Python for Health Sciences and Healthcare]] course on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -145,12 +143,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Machine learning, artificial intelligence, and data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980)
+#### [Machine learning, artificial intelligence, and data science](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=0)** - Machine learning, also referred to as ML, is often mentioned in the context of data science and artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=0)** - Machine learning, also referred to as ML, is often mentioned in the context of [[Data Science]] and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=9)** Let's explore this connection.
 >
@@ -158,13 +155,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=20)** This includes devices like computers and robots that use machine learning.
 >
-> **[0:26](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=26)** And algorithms are sets of instructions that computers follow to solve problems.
+> **[0:26](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=26)** And [[Algorithms]] are sets of instructions that computers follow to solve problems.
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=33)** Machine learning is focused on designing and using algorithms that learn from data without being explicitly programmed.
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=41)** It is a subfield of artificial intelligence.
 >
-> **[0:45](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=45)** The focus of data science is to derive insights for data-driven decision making.
+> **[0:45](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=45)** The focus of data science is to derive insights for [[Data-driven Decision Making]].
 >
 > **[0:50](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980&t=50)** It is an interdisciplinary field.
 >
@@ -178,13 +175,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (2), [[Data-driven Decision Making]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Algorithms]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Data-driven Decision Making]] (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - machine (1)
 
-#### Applications of machine learning in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980)
+#### [Applications of machine learning in healthcare](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,9 +192,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980&t=30)** For example, it can analyze a tumor's genetic makeup data to identify potential target therapies and predict the patient's response to specific chemotherapy regimen based on their electronic health records.
 >
-> **[0:45](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980&t=45)** Machine learning is also supporting clinical decision support systems in cases like sepsis risk prediction alert system, based on real-time, patient vital signs and laboratory reports, and the identification of potential large vessel occlusion in chest X-rays.
+> **[0:45](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980&t=45)** Machine learning is also supporting clinical decision support systems in cases like sepsis risk prediction alert system, based on [[Real-Time]], patient vital signs and laboratory reports, and the identification of potential large vessel occlusion in chest X-rays.
 >
-> **[1:04](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980&t=64)** Finally, in clinical applications, machine learning is also used in predictive analytics, such as the early detection of patient deterioration using EHR data and the identification of patient at risk for hospital readmission.
+> **[1:04](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980&t=64)** Finally, in clinical applications, machine learning is also used in [[Predictive Analytics]], such as the early detection of patient deterioration using EHR data and the identification of patient at risk for hospital readmission.
 >
 > **[1:22](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980&t=82)** Machine learning has been applied in healthcare related research.
 >
@@ -216,7 +212,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980&t=155)** In administrative tasks, like appointment scheduling, it can automate processes, reducing wait time, and improving efficiency.
 >
-> **[2:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980&t=164)** Even in human resource management, machine learning can analyze employee data to recommend personalized wellness programs, promoting employee health and wellbeing.
+> **[2:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980&t=164)** Even in human resource management, machine learning can analyze employee data to recommend personalized [[Wellness]] programs, promoting employee health and wellbeing.
 >
 > **[2:56](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/applications-of-machine-learning-in-healthcare?u=76281980&t=176)** It can automate medical coding in billing and identify fraudulent insurance claims, saving a lot in healthcare costs.
 >
@@ -232,15 +228,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Real-Time]] (1), [[Predictive Analytics]] (1), power (1), management (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Predictive Analytics]] (1), [[Wellness]] (1)
 > **Env Vars:** ehr (1), dna (1), rna (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - machine (1)
 
-#### How to think about machine learning in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980)
+#### [How to think about machine learning in healthcare](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -272,7 +267,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=91)** While this dynamic nature is beneficial, it also means they can drift and degrade in performance as data pattern changes.
 >
-> **[1:42](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=102)** Healthcare data is highly regulated due to the sensitive nature of personal information, and concerns about privacy are valid.
+> **[1:42](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=102)** Healthcare data is highly regulated due to the sensitive nature of personal information, and concerns about [[Privacy]] are valid.
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=112)** In practice, several methods mitigate these concerns.
 >
@@ -280,7 +275,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=133)** To minimize potential biases, ethical considerations are paramount when working with healthcare data.
 >
-> **[2:21](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=141)** Therefore, it's highly encouraged that machine learning projects undergo the standard clinical research and implementation review by ethics committee or the equivalent bodies.
+> **[2:21](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=141)** Therefore, it's highly encouraged that machine learning projects undergo the standard clinical research and implementation review by [[Ethics]] committee or the equivalent bodies.
 >
 > **[2:34](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=154)** Explainability is vital in healthcare machine learning, given that many systems currently operate as black boxes, making their decisions opaque.
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=170)** It is essential to prioritize explainable AI methods when choosing implementation techniques.
 >
-> **[2:57](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=177)** While simple algorithms often provide greater explainability, even complex models can be made interpretable using the right techniques.
+> **[2:57](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=177)** While simple [[Algorithms]] often provide greater explainability, even complex models can be made interpretable using the right techniques.
 >
 > **[3:07](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-think-about-machine-learning-in-healthcare?u=76281980&t=187)** Striking this balance ensures that healthcare professionals can understand and trust the models reasoning, leading to improved patient care.
 >
@@ -298,15 +293,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (3), [[Privacy]] (2), [[Ethics]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Ethics]] (1), [[Algorithms]] (1)
 > **Speakers:** - at (1)
 
-#### Machine learning vs. rule-based programming in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-vs-rule-based-programming-in-healthcare?u=76281980)
+#### [Machine learning vs. rule-based programming in healthcare](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-vs-rule-based-programming-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-vs-rule-based-programming-in-healthcare?u=76281980&t=0)** - Our problem solved before machine learning techniques became widespread, rule-based algorithms were used.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-vs-rule-based-programming-in-healthcare?u=76281980&t=0)** - Our problem solved before machine learning techniques became widespread, rule-based [[Algorithms]] were used.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-vs-rule-based-programming-in-healthcare?u=76281980&t=8)** In many systems they are complementary.
 >
@@ -354,13 +348,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Algorithms]] (8), [[Programming]] (5)
+> **Frameworks & Libraries:** [[Algorithms]] (8)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - our (1)
 
-#### Types of machine learning in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/types-of-machine-learning-in-healthcare?u=76281980)
+#### [Types of machine learning in healthcare](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/types-of-machine-learning-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,11 +361,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/types-of-machine-learning-in-healthcare?u=76281980&t=11)** Let's review how they fit in.
 >
-> **[0:13](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/types-of-machine-learning-in-healthcare?u=76281980&t=13)** Supervised learning, where specific outcomes are predicted based on labeled data.
+> **[0:13](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/types-of-machine-learning-in-healthcare?u=76281980&t=13)** [[Supervised Learning]], where specific outcomes are predicted based on labeled data.
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/types-of-machine-learning-in-healthcare?u=76281980&t=20)** Unsupervised learning, where patterns are found in data without labeling the data.
 >
-> **[0:26](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/types-of-machine-learning-in-healthcare?u=76281980&t=26)** And reinforcement learning, where the algorithms learn by trial and error to optimize outcomes.
+> **[0:26](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/types-of-machine-learning-in-healthcare?u=76281980&t=26)** And [[Reinforcement Learning]], where the [[Algorithms]] learn by trial and error to optimize outcomes.
 >
 > **[0:34](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/types-of-machine-learning-in-healthcare?u=76281980&t=34)** In supervised learning, classification and regression algorithms are primarily used.
 >
@@ -404,19 +397,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Reinforcement Learning]] (3), [[Algorithms]] (3), application (2), [[Supervised Learning]] (2)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (3), [[Algorithms]] (3), [[Supervised Learning]] (2)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - there (1)
 
-#### Healthcare data types for machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980)
+#### [Healthcare data types for machine learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=0)** - There are different types of data in healthcare to which machine learning can be applied.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=6)** If you've done any work in data science, you know how important it is to match the right analysis in the right tool with the right dataset and question.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=6)** If you've done any work in [[Data Science]], you know how important it is to match the right analysis in the right tool with the right dataset and question.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=18)** Let's go through the healthcare data types that are ideal candidates for machine learning.
 >
@@ -432,7 +424,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=104)** This is to prevent research outcomes from being influenced by plausible effects or researcher bias.
 >
-> **[1:52](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=112)** Another application could be research data derived from sources like scientific text mining, the extraction of useful information and insight from scientific literature, data integration and fusion, the combination of data from multiple sources to provide a more comprehensive understanding and literature mining and meta-analysis, systematic review and analysis of existing literature on a particular topic.
+> **[1:52](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=112)** Another application could be research data derived from sources like scientific [[Text Mining]], the extraction of useful information and insight from scientific literature, [[Data Integration]] and fusion, the combination of data from multiple sources to provide a more comprehensive understanding and literature mining and meta-analysis, systematic review and analysis of existing literature on a particular topic.
 >
 > **[2:23](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=143)** Operational data related to administrative records like appointment, billing, insurance, and staff record.
 >
@@ -440,15 +432,15 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=160)** We also have various public healthcare data types.
 >
-> **[2:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=164)** This includes disease surveillance data for targeted public health intervention, health behavior data to assess the effectiveness of public health intervention, environmental health data such as air or water quality, healthcare utilization data and policy evaluation used in assessing the impact of health policies, Wearable and internet of things devices data are also sources of real-time healthcare data.
+> **[2:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=164)** This includes disease surveillance data for targeted [[Public Health]] intervention, health behavior data to assess the effectiveness of public health intervention, environmental health data such as air or water quality, healthcare utilization data and policy evaluation used in assessing the impact of health policies, Wearable and [[IoT|internet of things]] devices data are also sources of [[Real-Time]] healthcare data.
 >
 > **[3:17](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=197)** This is an interesting and very dynamic space as these devices and the data they carry are changing all the time, as and the patient relationship to them.
 >
 > **[3:28](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=208)** Some of the most common data captures are for physical activities such as steps taken and calories burned, biometric data, which includes sleep pattern, heart rate, and even location data used for tracking, mobility, and environmental exposure.
 >
-> **[3:49](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=229)** Don't forget to consider the entirety of the healthcare industry.
+> **[3:49](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=229)** Don't forget to consider the entirety of the [[Healthcare Industry]].
 >
-> **[3:54](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=234)** Manufacturing data is also a source of healthcare data that machine learning can be applied to, from production logs to machine health metrics, quality control data, supply chain and inventory data, and audit trail for regulatory compliance and process optimization.
+> **[3:54](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=234)** Manufacturing data is also a source of healthcare data that machine learning can be applied to, from production logs to machine health metrics, quality control data, supply chain and inventory data, and audit trail for [[Regulatory Compliance]] and process optimization.
 >
 > **[4:15](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/healthcare-data-types-for-machine-learning?u=76281980&t=255)** Another interesting source of health data is social media and online data, from disease-focused discussion boards, patient-reported outcomes and patient experience surveys, which helps to understand the quality of care from the patient and carers perspective.
 >
@@ -460,15 +452,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Public Health]] (2), product (1), application (1), [[Text Mining]] (1)
+> **Frameworks & Libraries:** [[Public Health]] (2), [[Data Science]] (1), [[Text Mining]] (1), [[Data Integration]] (1), [[IoT|Internet of things]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** dna (1), rna (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - there (1)
 
-#### Features and labels in machine learning for healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980)
+#### [Features and labels in machine learning for healthcare](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,7 +471,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=14)** In machine learning, they are usually classified as either features or labels.
 >
-> **[0:20](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=20)** Features are the impute variables used by machine learning algorithms to make predictions often represented by the capital letter X.
+> **[0:20](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=20)** Features are the impute variables used by machine learning [[Algorithms]] to make predictions often represented by the capital letter X.
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=28)** Labels, labels are also known as outcomes or target.
 >
@@ -508,13 +499,13 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=95)** Imagine building the model to predict diabetes without any indicator for blood sugar level label inaccuracy.
 >
-> **[1:43](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=103)** Accurate labels are essential for supervised learning models as inaccuracies can lead to incorrect predictions.
+> **[1:43](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=103)** Accurate labels are essential for [[Supervised Learning]] models as inaccuracies can lead to incorrect predictions.
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=112)** Machine learning is not magic.
 >
 > **[1:55](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=115)** Bad data in, wrong predictions out.
 >
-> **[1:58](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=118)** It is also common and useful to engineer features to be in the forms that are useful to optimize model performance.
+> **[1:58](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=118)** It is also common and useful to engineer features to be in the [[Forms]] that are useful to optimize model performance.
 >
 > **[2:07](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/features-and-labels-in-machine-learning-for-healtcare?u=76281980&t=127)** This is an example of a dummy data set about diabetes.
 >
@@ -536,20 +527,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (2), feature (1), [[Supervised Learning]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Supervised Learning]] (1), [[Forms]] (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Machine learning models and algorithms in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980)
+#### [Machine learning models and algorithms in healthcare](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=0)** - A typical machine learning model, including those used in healthcare, is a combination of two things, algorithm, and data.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=10)** Algorithms are mathematical foundations, or simply recipes, of our models learned from data.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=10)** [[Algorithms]] are mathematical foundations, or simply recipes, of our models learned from data.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=17)** The choice of algorithm is dependent on the type of task.
 >
@@ -575,7 +565,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=84)** And nearest neighbors, like k-nearest neighbors, KNN.
 >
-> **[1:29](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=89)** Examples of regression algorithms are linear regression, like simple linear regression, and regularized ones, like ridge regression and lasso regression.
+> **[1:29](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=89)** Examples of regression algorithms are [[Linear Regression]], like simple linear regression, and regularized ones, like ridge regression and lasso regression.
 >
 > **[1:41](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=101)** Bayesian regression.
 >
@@ -583,7 +573,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=110)** In unsupervised machine learning, we have clustering algorithms that group similar data points.
 >
-> **[1:56](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=116)** Partitioning clustering algorithms, like k-means clustering.
+> **[1:56](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=116)** Partitioning clustering algorithms, like [[k-means clustering]].
 >
 > **[2:01](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=121)** Hierarchical clustering algorithms, like agglomerative clustering.
 >
@@ -597,7 +587,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=151)** And then factor analysis, like exploratory factor analysis.
 >
-> **[2:36](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=156)** Reinforcement learning is the third major class of machine learning, where algorithms learn through trial and error.
+> **[2:36](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=156)** [[Reinforcement Learning]] is the third major class of machine learning, where algorithms learn through trial and error.
 >
 > **[2:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-models-and-algorithms-in-healthcare?u=76281980&t=164)** There are value-based ones, like Q-learning.
 >
@@ -611,20 +601,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (10), data (5), [[Linear Regression]] (2), [[k-means clustering]] (1), feature (1)
+> **Frameworks & Libraries:** [[Algorithms]] (10), [[Linear Regression]] (2), [[k-means clustering]] (1), [[Reinforcement Learning]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** knn (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
-#### Deep learning models and architecture in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980)
+#### [Deep learning models and architecture in healthcare](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=0)** - Deep learning is a subset of machine learning, meaning they can be considered just like all other machine learning algorithms for healthcare related tasks.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=0)** - [[Deep Learning]] is a subset of machine learning, meaning they can be considered just like all other machine learning [[Algorithms]] for healthcare related tasks.
 >
-> **[0:11](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=11)** It involves the use of artificial neural networks, ANN, to model and understand complex patterns in data.
+> **[0:11](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=11)** It involves the use of [[Artificial Neural Networks]], ANN, to model and understand complex patterns in data.
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=21)** It is inspired by the interconnectedness in biology neural network, and the term deep in deep learning refers to the multiple layers through which the data is transformed.
 >
@@ -636,7 +625,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=48)** Think of images from radiographs, videos, and sequences like clinical free text and speech.
 >
-> **[0:56](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=56)** It requires leads to no feature engineering.
+> **[0:56](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=56)** It requires leads to no [[Feature Engineering]].
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=59)** So challenges like model performance due to feature scaling are mitigated.
 >
@@ -654,7 +643,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=104)** So a typical deep learning model.
 >
-> **[1:47](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=107)** We have deep neural networks consisting of interconnected layers of artificial neurons for progressive feature extraction.
+> **[1:47](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=107)** We have deep [[Neural Networks]] consisting of interconnected layers of artificial neurons for progressive feature extraction.
 >
 > **[1:57](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=117)** Activation functions, which are algorithms to introduce non-linearity for learning complex relationships.
 >
@@ -674,11 +663,11 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=186)** They are useful for image analysis, excelling in tasks like medical image classification and segmentation.
 >
-> **[3:15](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=195)** Recurrent neural networks, RNNs, designed for sequential data processing suitable for analyzing sequences like time series, text and speech data.
+> **[3:15](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=195)** Recurrent neural networks, RNNs, designed for sequential [[Data Processing]] suitable for analyzing sequences like time series, text and speech data.
 >
 > **[3:29](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=209)** Long short-term memory networks, LSTM, a type of RNN, effective in task involving sequential data and long-term dependencies.
 >
-> **[3:42](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=222)** Generative adversarial networks, GANs.
+> **[3:42](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=222)** [[Generative Adversarial Networks (GANs)|Generative adversarial networks]], GANs.
 >
 > **[3:46](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/deep-learning-models-and-architecture-in-healthcare?u=76281980&t=226)** Useful for generating new realistic data examples, applicable in task like synthetic medical data generation.
 >
@@ -694,18 +683,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Deep Learning]] (9), [[Algorithms]] (3), feature (2), [[Neural Networks]] (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (9), [[Algorithms]] (3), [[Neural Networks]] (2), [[Artificial Neural Networks]] (1), [[Feature Engineering]] (1)
 > **Env Vars:** ann (1), cnn (1), lstm (1), rnn (1)
 > **Analogies:** just like (2), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - deep (1)
 
-#### Transfer learning and pretrained models in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980)
+#### [Transfer learning and pretrained models in healthcare](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=0)** - It is possible to pretrain deep learning models, and there are a few reasons to do this.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=0)** - It is possible to pretrain [[Deep Learning]] models, and there are a few reasons to do this.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=7)** You can save time and resources.
 >
@@ -739,7 +727,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=100)** Because of transfer learning, we can do more with smaller datasets.
 >
-> **[1:45](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=105)** Reduced cost of data collection and labeling.
+> **[1:45](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=105)** Reduced cost of [[Data Collection]] and labeling.
 >
 > **[1:49](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=109)** Prevention of model over fitting on training data.
 >
@@ -759,20 +747,19 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=157)** Inception v3, there is CheXNet, which is its adaptation in healthcare.
 >
-> **[2:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=164)** DenseNet, Densely Connected Convolutional Neural Networks.
+> **[2:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=164)** DenseNet, Densely Connected [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]].
 >
 > **[2:49](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/transfer-learning-and-pretrained-models-in-healthcare?u=76281980&t=169)** There is CheXNet, DenseASPP, and DeNTNet in healthcare.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (4), data (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Data Collection]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Env Vars:** bert (2), vgg16 (1), gpt (1)
 > **Definitions:** is called (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - it (1)
 
-#### Assessment metrics for machine learning models
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/assessment-metrics-for-machine-learning-models?u=76281980)
+#### [Assessment metrics for machine learning models](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/assessment-metrics-for-machine-learning-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -854,13 +841,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Env Vars:** mse (3), auroc (2), rmse (1), mae (1)
 > **Versions:** 0.5 (1)
 > **Speakers:** - by (1)
 
-#### Tools and libraries for machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980)
+#### [Tools and libraries for machine learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,25 +853,25 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=10)** They are not always interchangeable, so you need to have an understanding of which option is best for your needs.
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=18)** The three most popular languages use in machine learning are Python, R and Julia.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=18)** The three most popular languages use in machine learning are [[Python (Programming Language)|Python]], R and Julia.
 >
 > **[0:27](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=27)** Python has the most extensive ecosystem support for machine learning task.
 >
-> **[0:31](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=31)** R for statistical analysis, and Julia is gaining traction for speed and efficiency.
+> **[0:31](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=31)** R for [[Statistical Analysis]], and Julia is gaining traction for speed and efficiency.
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=39)** Machine learning code is written in integrated development environments, IDEs like Jupyter Notebooks, PyCharm, and R Studio, and text editors like VS Code and Sublime Text.
 >
-> **[0:56](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=56)** Machine learning models are part of software and they are deployed on Cloud platforms like Google Cloud, Amazon SageMaker, Microsoft Azure, on-premise servers, especially for privacy consideration as in healthcare.
+> **[0:56](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=56)** Machine learning models are part of software and they are deployed on Cloud platforms like [[Google Cloud Platform (GCP)|Google Cloud]], Amazon SageMaker, [[Microsoft Azure]], on-premise servers, especially for [[Privacy]] consideration as in healthcare.
 >
 > **[1:15](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=75)** And using containerization as with docker containers, which can package and isolate applications, simplifying deployment across different environments.
 >
 > **[1:29](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=89)** In this course, we will be using Python-based Libraries for data preprocessing, manipulation, and visualization.
 >
-> **[1:38](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=98)** We will use libraries like NumPy, Pandas, Matplotlib.
+> **[1:38](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=98)** We will use libraries like NumPy, [[Pandas (Software)|Pandas]], Matplotlib.
 >
-> **[1:43](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=103)** For machine learning algorithms, we have Scikit-learn, TensorFlow, PyTorch, and Transformers.
+> **[1:43](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=103)** For machine learning [[Algorithms]], we have Scikit-learn, [[TensorFlow]], [[PyTorch]], and Transformers.
 >
-> **[1:52](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=112)** For Natural Language Processing, NLP, there are libraries like NLTK, spaCy, and Gensim.
+> **[1:52](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=112)** For [[Natural Language Processing (NLP)|Natural Language Processing]], NLP, there are libraries like NLTK, [[spaCy]], and Gensim.
 >
 > **[2:02](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=122)** Expertise requires that you develop skills in identifying useful datasets.
 >
@@ -900,11 +885,11 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=171)** You can also filter them by healthcare or clinical to find relevant models faster.
 >
-> **[2:57](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=177)** Some of the popular ones are, but not limited to, Hugging Face Hub, PyTorch Hub, TensorFlow Hub, Kaggle Models and Cloud platforms and Custom Repositories.
+> **[2:57](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/tools-and-libraries-for-machine-learning?u=76281980&t=177)** Some of the popular ones are, but not limited to, [[Hugging Face]] Hub, PyTorch Hub, TensorFlow Hub, Kaggle Models and Cloud platforms and Custom Repositories.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), cloud (2), data (2), [[TensorFlow]] (2), [[PyTorch]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[TensorFlow]] (2), [[PyTorch]] (2), [[Statistical Analysis]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** python (3), find (2), docker (1)
 > **Env Vars:** nlp (1), nltk (1), uci (1), cdc (1), wonder (1)
 > **Tools:** jupyter (1), pycharm (1), vs code (1), sublime (1)
@@ -912,22 +897,21 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - when (1)
 
-#### Data privacy and ethics in healthcare machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980)
+#### [Data privacy and ethics in healthcare machine learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=0)** - It's important to be aware of how machine learning is used in healthcare.
 >
-> **[0:05](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=5)** To succeed in practice, understanding and implementing data privacy and ethical principles are important.
+> **[0:05](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=5)** To succeed in practice, understanding and implementing [[Data Privacy]] and ethical principles are important.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=15)** Healthcare data is sensitive and protected on the regulations like EPA in the US and GDPR in Europe.
 >
-> **[0:24](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=24)** To mitigate this, when you are handling healthcare data, you can use a couple of techniques like anonymization, pseudo-anonymization, and differentiate privacy.
+> **[0:24](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=24)** To mitigate this, when you are handling healthcare data, you can use a couple of techniques like anonymization, pseudo-anonymization, and differentiate [[Privacy]].
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=36)** It is also logical to follow data minimization principles in collecting and using only the minimum data necessary.
 >
-> **[0:46](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=46)** Data storage security measures such as encryption for data at rest and in transit and strict access control are also important to prevent unauthorized and malicious actors.
+> **[0:46](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=46)** [[Data Storage]] security measures such as encryption for data at [[Representational State Transfer (REST)|rest]] and in transit and strict access control are also important to prevent unauthorized and malicious actors.
 >
 > **[1:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=60)** Audit trails and clear data ownership and sharing agreements should also be established in every healthcare system for machine learning.
 >
@@ -939,7 +923,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=106)** Other approaches are the use of decentralized training, as in federated learning, where machine learning models are trained on decentralized devices or servers without sharing raw patient data.
 >
-> **[2:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=120)** This mitigates privacy risk associated with data sharing and synthetic data documentation, which involves generating artificial data points to augment the training dataset.
+> **[2:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=120)** This mitigates privacy risk associated with [[Data Sharing]] and synthetic data documentation, which involves generating artificial data points to augment the training dataset.
 >
 > **[2:14](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=134)** This allows the creation of diverse data without directly using sensitive patients information, thus contributing to privacy preservation.
 >
@@ -949,18 +933,17 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=167)** Transparency, explainable AI models and processes should be prioritized above every other technique.
 >
-> **[2:57](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=177)** Accountability, developers and stakeholders are accountable for the models impact on patients and the community and patient privacy remains paramount, it must be continuously protected throughout the machine learning lifecycle.
+> **[2:57](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/data-privacy-and-ethics-in-healthcare-machine-learning?u=76281980&t=177)** [[Accountability]], developers and stakeholders are accountable for the models impact on patients and the community and patient privacy remains paramount, it must be continuously protected throughout the machine learning lifecycle.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Privacy]] (6), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1), ai (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Privacy]] (1), [[Data Storage]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Sharing]] (1)
 > **Env Vars:** epa (1), gdpr (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - it (1)
 
-#### Career opportunities in machine learning for healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980)
+#### [Career opportunities in machine learning for healthcare](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,13 +957,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=26)** Machine learning engineers design and implement scalable machine learning systems for healthcare applications.
 >
-> **[0:34](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=34)** Healthcare data scientists use statistical and machine learning algorithms to analyze and develop models for healthcare data and derive actionable insights.
+> **[0:34](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=34)** Healthcare data scientists use statistical and machine learning [[Algorithms]] to analyze and develop models for healthcare data and derive actionable insights.
 >
 > **[0:46](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=46)** Clinical informaticians integrate machine learning solutions into clinical workflows and electronic healthcare record systems.
 >
 > **[0:54](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=54)** AI research scientists.
 >
-> **[0:56](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=56)** In healthcare, AI research scientists conduct cutting-edge research in artificial intelligence, machine learning, and healthcare informatics.
+> **[0:56](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=56)** In healthcare, AI research scientists conduct cutting-edge research in [[Artificial Intelligence (AI)|artificial intelligence]], machine learning, and healthcare informatics.
 >
 > **[1:06](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=66)** They explore new algorithms and methodologies to address challenges in medical imaging, genomics, drug discovery, and personalized medicine.
 >
@@ -988,31 +971,31 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=89)** AI product manager.
 >
-> **[1:31](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=91)** AI product managers lead the development and commercialization of AI-powered healthcare products and services.
+> **[1:31](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=91)** AI product managers lead the development and commercialization of AI-powered healthcare [[Microsoft Products|products]] and services.
 >
 > **[1:39](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=99)** They define product vision, strategy, and roadmap based on market strengths, customer needs, and regulatory requirements.
 >
 > **[1:48](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=108)** Data engineer.
 >
-> **[1:49](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=109)** Healthcare data engineers build and maintain data pipelines and infrastructure to support machine learning in analytics initiative in healthcare.
+> **[1:49](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=109)** Healthcare data engineers build and maintain [[Data Pipelines]] and infrastructure to support machine learning in analytics initiative in healthcare.
 >
 > **[1:59](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=119)** They collect, clean, and pre-process healthcare data from various sources, such as electronic health records, medical devices, and wearables.
 >
-> **[2:10](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=130)** AI ethics and compliance specialists develop and enforce ethical guidelines and best practices for the responsible use of AI in healthcare.
+> **[2:10](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=130)** AI [[Ethics]] and compliance specialists develop and enforce ethical guidelines and best practices for the responsible use of AI in healthcare.
 >
-> **[2:20](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=140)** They assess potential risk and biases associated with AI algorithms and models used in clinical decision-making.
+> **[2:20](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=140)** They assess potential risk and biases associated with AI algorithms and models used in clinical [[Decision-Making]].
 >
 > **[2:28](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=148)** They also collaborate with legal experts, policy makers, and regulatory agencies to address the ethical and regulatory challenges related to AI in healthcare.
 >
-> **[2:41](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=161)** Natural language processing engineer.
+> **[2:41](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=161)** [[Natural Language Processing (NLP)|Natural language processing]] engineer.
 >
 > **[2:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=164)** NLP engineers focus on working with sequences, like free text and audio.
 >
 > **[2:50](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=170)** For example, they extract structured data from structured clinical notes in electronic health records.
 >
-> **[2:58](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=178)** Computer vision engineers develop algorithms to analyze medical images, such as X-rays, MRIs, and CT scans, for diagnosis and treatment planning.
+> **[2:58](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=178)** [[Computer Vision]] engineers develop algorithms to analyze medical images, such as X-rays, MRIs, and CT scans, for diagnosis and treatment planning.
 >
-> **[3:09](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=189)** They also implement computer vision systems for real-time image-guided tasks.
+> **[3:09](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=189)** They also implement computer vision systems for [[Real-Time]] image-guided tasks.
 >
 > **[3:14](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/career-opportunities-in-machine-learning-for-healthcare?u=76281980&t=194)** These roles represent just a fraction of the possibility within machine learning in healthcare.
 >
@@ -1022,7 +1005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (8), [[Algorithms]] (4), product (3), strengths (2)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Computer Vision]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1), [[Data Pipelines]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nlp (1)
@@ -1033,12 +1016,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to use a Google Colab Notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-use-google-colaboratory-notebook?u=76281980)
+#### [How to use a Google Colab Notebook](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-use-google-colaboratory-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-use-google-colaboratory-notebook?u=76281980&t=0)** - [Instructor] In the next set of videos we will be coding along, and for that we are going to use the Google Colaboratory Notebook.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-use-google-colaboratory-notebook?u=76281980&t=0)** - [Instructor] In the next set of videos we will be coding along, and for that we are going to use the [[Google]] Colaboratory Notebook.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-use-google-colaboratory-notebook?u=76281980&t=8)** To get this interface go to colab.research.[google.com](https://google.com).
 >
@@ -1086,7 +1068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Google]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **UI Navigation:** click on (5), select the (2), go to (1)
 > **CLI Commands:** unzip (2)
 > **Cross-References:** in the next (2)
@@ -1095,8 +1077,7 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Definitions:** is a  (1)
 
-#### Explore the heart failure clinical record dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980)
+#### [Explore the heart failure clinical record dataset](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1108,9 +1089,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980&t=19)** Now that we have the dataset in our workspace, let's copy the file parts, and unzip the dataset using the unzip command.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980&t=32)** We can now go ahead and import pandas as pd.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980&t=32)** We can now go ahead and import [[Pandas (Software)|pandas]] as pd.
 >
-> **[0:38](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980&t=38)** This is the Python library that we will be using to process this data.
+> **[0:38](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980&t=38)** This is the [[Python (Programming Language)|Python]] library that we will be using to process this data.
 >
 > **[0:46](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980&t=46)** The next step is to load the data into a pandas DataFrame called df by any name you prefer.
 >
@@ -1122,7 +1103,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980&t=72)** From the information, we can see the dataset has column names, like age, anemia, creatinine phosphokinase, diabetes status, ejection fraction, high blood pressure, platelets, serum creatinine, serum sodium, smoking, time, and death event.
 >
-> **[1:35](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980&t=95)** It's not applicable to all values, but you can apply df.describe on the DataFrame to see the summary statistics of each value.
+> **[1:35](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980&t=95)** It's not applicable to all values, but you can apply df.describe on the DataFrame to see the summary [[Statistics]] of each value.
 >
 > **[1:46](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/explore-the-heart-failure-clinical-record-dataset?u=76281980&t=106)** So you can see the count, the mean, the standard deviation, the 25th percentile, and the maximum value.
 >
@@ -1140,15 +1121,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** unzip (2), wget (1), python (1), find (1)
 > **Code Identifiers:** read_csv (1)
 > **Env Vars:** uci (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classification task: Heart failure outcomes prediction with no feature scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-no-feature-scaling?u=76281980)
+#### [Classification task: Heart failure outcomes prediction with no feature scaling](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-no-feature-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1156,7 +1136,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-no-feature-scaling?u=76281980&t=12)** To get started, remember to run all the code in this section, first.
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-no-feature-scaling?u=76281980&t=19)** Input the necessary algorithms, like logistic regression, decision tree, random forest classifier and matrix like accuracy score and classification, all from SKLN.
+> **[0:19](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-no-feature-scaling?u=76281980&t=19)** Input the necessary [[Algorithms]], like [[Logistic Regression]], decision tree, random forest classifier and matrix like accuracy score and classification, all from SKLN.
 >
 > **[0:34](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-no-feature-scaling?u=76281980&t=34)** Let me show you the head of the dataset again.
 >
@@ -1252,7 +1232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Logistic Regression]] (4), [[Algorithms]] (3), next (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (4), [[Algorithms]] (3)
 > **Versions:** 0.8 (2), 0.7 (1), 0.6 (1), 0.53 (1), 0.77 (1)
 > **Env Vars:** skln (2)
 > **Definitions:** is a  (2)
@@ -1261,12 +1241,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Classification task: Heart failure outcomes prediction with feature scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-feature-scaling?u=76281980)
+#### [Classification task: Heart failure outcomes prediction with feature scaling](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-feature-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-feature-scaling?u=76281980&t=0)** - [Instructor] In the previous video, we tested out different classification algorithms on the Heart Failure Outcomes dataset.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-feature-scaling?u=76281980&t=0)** - [Instructor] In the previous video, we tested out different classification [[Algorithms]] on the Heart Failure Outcomes dataset.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-feature-scaling?u=76281980&t=7)** One of the ways to improve model performance is feature scaling.
 >
@@ -1344,7 +1323,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-feature-scaling?u=76281980&t=265)** So now we have other outcomes this time different from the first time.
 >
-> **[4:31](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-feature-scaling?u=76281980&t=271)** If you remember from the first video, the accuracy for Logistic Regression was about 0.8, but this time around is 0.77, but there's been an improvement in the performance of all other values.
+> **[4:31](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-feature-scaling?u=76281980&t=271)** If you remember from the first video, the accuracy for [[Logistic Regression]] was about 0.8, but this time around is 0.77, but there's been an improvement in the performance of all other values.
 >
 > **[4:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/classification-task-heart-failure-outcomes-prediction-feature-scaling?u=76281980&t=284)** For example, Random Forest here has a 0.70, which was way lower the last time.
 >
@@ -1362,7 +1341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (2), feature (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Logistic Regression]] (1)
 > **Code Identifiers:** y_train (3), y_test (3), y_pred (3), fit_transform (2), train_test_split (1)
 > **Versions:** 0.77 (2), 0.1 (1), 0.8 (1), 0.70 (1), 0.67 (1)
 > **Env Vars:** death_event (3)
@@ -1371,8 +1350,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regression task: Predict the heart rejection fraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980)
+#### [Regression task: Predict the heart rejection fraction](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1390,9 +1368,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980&t=33)** So let's unzip the dataset into our workspace using unzip.
 >
-> **[0:39](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980&t=39)** Now, let's import the necessary libraries, like pandas, sklearn, matplotlib, and seaborn.
+> **[0:39](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980&t=39)** Now, let's import the necessary libraries, like [[Pandas (Software)|pandas]], sklearn, matplotlib, and seaborn.
 >
-> **[0:47](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980&t=47)** The algorithms that we're going to use in this chapter are LinearRegression, DecisionTreeRegressor, RandomForestRegressor, and we have matrix like mean_squared_error and r2_score.
+> **[0:47](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980&t=47)** The [[Algorithms]] that we're going to use in this chapter are LinearRegression, DecisionTreeRegressor, RandomForestRegressor, and we have matrix like mean_squared_error and r2_score.
 >
 > **[1:01](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980&t=61)** For visualization, we use matplotlib and seaborn.
 >
@@ -1446,7 +1424,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980&t=236)** Let's see what the outcomes look like.
 >
-> **[4:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980&t=240)** We now have the mean_squared_error and the r2_score for linear regression.
+> **[4:00](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980&t=240)** We now have the mean_squared_error and the r2_score for [[Linear Regression]].
 >
 > **[4:05](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/regression-task-predict-heart-ejection-fraction?u=76281980&t=245)** In this instance, it's 104.50, and the r2 is 0.08.
 >
@@ -1500,7 +1478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (3), [[Linear Regression]] (3), [[Pandas (Software)|Pandas]] (2), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Linear Regression]] (3), [[Pandas (Software)|Pandas]] (2)
 > **Code Identifiers:** mean_squared_error (3), y_pred (3), ejection_fraction (2), y_test (2), random_states (2)
 > **CLI Commands:** unzip (2), wget (1), make (1)
 > **Versions:** 0.1 (1), 104.50 (1), 0.08 (1)
@@ -1509,8 +1487,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Best Practices:** good practice (1)
 
-#### Feature importance in regression tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/feature-importance-in-regression-task?u=76281980)
+#### [Feature importance in regression tasks](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/feature-importance-in-regression-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1536,9 +1513,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/feature-importance-in-regression-task?u=76281980&t=92)** So this is how the decision tree made its own decision.
 >
-> **[1:36](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/feature-importance-in-regression-task?u=76281980&t=96)** Let's look at all the algorithms and how they made theirs.
+> **[1:36](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/feature-importance-in-regression-task?u=76281980&t=96)** Let's look at all the [[Algorithms]] and how they made theirs.
 >
-> **[1:39](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/feature-importance-in-regression-task?u=76281980&t=99)** For linear regression, you can assess the coefficients.
+> **[1:39](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/feature-importance-in-regression-task?u=76281980&t=99)** For [[Linear Regression]], you can assess the coefficients.
 >
 > **[1:44](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/feature-importance-in-regression-task?u=76281980&t=104)** Let's do a quick training and extract the coefficients.
 >
@@ -1636,7 +1613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (12), data (12), [[Linear Regression]] (6), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (6), [[Algorithms]] (1)
 > **Env Vars:** plt (3), sms (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), previous video (1)
@@ -1650,8 +1627,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Clustering task: Localization data for person activity
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980)
+#### [Clustering task: Localization data for person activity](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,7 +1639,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980&t=23)** And then unzip the dataset.
 >
-> **[0:29](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980&t=29)** We can then go ahead and input the necessary modules and libraries, like Pandas, NumPy, StandardScaler, K-Means, Seaborn, and Matplotlib.
+> **[0:29](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980&t=29)** We can then go ahead and input the necessary modules and libraries, like [[Pandas (Software)|Pandas]], NumPy, StandardScaler, K-Means, Seaborn, and Matplotlib.
 >
 > **[1:03](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980&t=63)** Now, let's do the dataset into a data frame called "df = pd.read_csv" The file part.
 >
@@ -1727,7 +1703,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980&t=328)** This is just to let you be aware that you can always change that value and a good title for upload to be
 >
-> **[5:39](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980&t=339)** k-means clustering for activity dataset.
+> **[5:39](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980&t=339)** [[k-means clustering]] for activity dataset.
 >
 > **[5:47](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980&t=347)** This is going to take a bit because it's a pretty large dataset.
 >
@@ -1743,7 +1719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (1), [[k-means clustering]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[k-means clustering]] (1)
 > **CLI Commands:** find (2), wget (1), unzip (1)
 > **Code Identifiers:** read_csv (1), fit_predict (1)
 > **Env Vars:** plt (2)
@@ -1752,8 +1728,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 
-#### Dimensionality reduction: Localization data for person activity
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/dimensionality-reduction-localization-data-for-person-activity?u=76281980)
+#### [Dimensionality reduction: Localization data for person activity](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/dimensionality-reduction-localization-data-for-person-activity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,7 +1736,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/dimensionality-reduction-localization-data-for-person-activity?u=76281980&t=6)** For example, the localization data has three dimensions for the location data.
 >
-> **[0:13](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/dimensionality-reduction-localization-data-for-person-activity?u=76281980&t=13)** We can reduce the dimension to two using algorithms like principal component analysis and visualize them.
+> **[0:13](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/dimensionality-reduction-localization-data-for-person-activity?u=76281980&t=13)** We can reduce the dimension to two using [[Algorithms]] like principal component analysis and visualize them.
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/dimensionality-reduction-localization-data-for-person-activity?u=76281980&t=21)** To get started, remember to run the code in the preceding section.
 >
@@ -1839,7 +1814,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/dimensionality-reduction-localization-data-for-person-activity?u=76281980&t=323)** We want the title, which is the activity.
 >
-> **[5:28](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/dimensionality-reduction-localization-data-for-person-activity?u=76281980&t=328)** This is quite a big data set, so we want smaller font sizes, so we are going to specify that, make this small.
+> **[5:28](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/dimensionality-reduction-localization-data-for-person-activity?u=76281980&t=328)** This is quite a [[Big Data]] set, so we want smaller font sizes, so we are going to specify that, make this small.
 >
 > **[5:41](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/dimensionality-reduction-localization-data-for-person-activity?u=76281980&t=341)** And then we want it to be anchored to a particular spot.
 >
@@ -1869,7 +1844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Big Data]] (1)
 > **Code Identifiers:** x_pca (3), x_scaled_dim_reduction (2), fit_transform (2), x_dim_reduction (1), n_components (1)
 > **Env Vars:** pca (5)
 > **CLI Commands:** make (2)
@@ -1883,8 +1858,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1900,11 +1874,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=27)** Create this list through your daily work and research.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=32)** To deepen your understanding and work with more advanced concepts, just stay right here on LinkedIn Learning.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=32)** To deepen your understanding and work with more advanced concepts, just stay right here on [[LinkedIn]] Learning.
 >
-> **[0:40](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=40)** You can watch my Hands-on Data Science and AI course and [[Advanced AI- NLP Techniques for Clinical Datasets]].
+> **[0:40](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=40)** You can watch my Hands-on [[Data Science]] and AI course and [[Advanced AI- NLP Techniques for Clinical Datasets]].
 >
-> **[0:49](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=49)** And as at the time of this recording, I'm working on another course on generative AI.
+> **[0:49](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=49)** And as at the time of this recording, I'm working on another course on [[Generative AI]].
 >
 > **[0:55](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980&t=55)** It's great to add AI to your skillset.
 >
@@ -1916,7 +1890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[LinkedIn]] (2), next (1), data (1), nlp (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Data Science]] (1), [[Generative AI]] (1)
 > **Env Vars:** nlp (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)

@@ -97,14 +97,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### .NET: The everywhere framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-the-everywhere-framework?u=76281980)
+#### [.NET: The everywhere framework](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-the-everywhere-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-the-everywhere-framework?u=76281980&t=0)** - [Joe] The .NET platform has come a long way over the past 20 years since it was first introduced.
 >
-> **[0:05](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-the-everywhere-framework?u=76281980&t=5)** What started out as a runtime for desktop apps on Windows has become a cross-platform multiple form factor framework that gives developers the ability to create apps that run almost anywhere while sharing the same core sets of capabilities and features.
+> **[0:05](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-the-everywhere-framework?u=76281980&t=5)** What started out as a runtime for desktop apps on [[Windows]] has become a cross-platform multiple form factor framework that gives developers the ability to create apps that run almost anywhere while sharing the same core sets of capabilities and features.
 >
 > **[0:20](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-the-everywhere-framework?u=76281980&t=20)** Hi, I'm Joe Marini, and I've been developing software for some of the biggest companies in Silicon Valley for more than 30 years.
 >
@@ -118,29 +117,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Windows]] (1), cross-platform (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** net (4)
 > **Definitions:** means that (1)
 > **Speakers:** - [joe] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we begin the course, there are some concepts that you should already be familiar with.
 >
-> **[0:05](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=5)** In this course, I'm going to be introducing the .NET platform and some of the features it provides for building cross-platform applications, and I'll be using the C Sharp programming language along with the Visual Studio Code developer tool from Microsoft.
+> **[0:05](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=5)** In this course, I'm going to be introducing the .NET platform and some of the features it provides for building cross-platform applications, and I'll be using the C Sharp programming language along with the Visual Studio Code developer tool from [[Microsoft]].
 >
-> **[0:19](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=19)** You can use regular Visual Studio as well if you're on Windows, but as of the recording of this course, Visual Studio 2022 on the Mac doesn't yet fully support .NET 6.
+> **[0:19](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=19)** You can use regular Visual Studio as well if you're on [[Windows]], but as of the recording of this course, Visual Studio 2022 on the Mac doesn't yet fully support .NET 6.
 >
-> **[0:30](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=30)** So to make things easy, I'll just use VS Code along with the command line for this course, so you could follow along easily whether you're on Mac, Windows, or Linux.
+> **[0:30](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=30)** So to make things easy, I'll just use VS Code along with the command line for this course, so you could follow along easily whether you're on Mac, Windows, or [[Linux]].
 >
 > **[0:39](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=39)** You don't need to have any prior experience with .NET, but this is not the place to start if you don't have any programming experience.
 >
 > **[0:46](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=46)** To take this course, you should at least have some knowledge of the basics of programming, such as what variables are, and how to use functions and so on.
 >
-> **[0:55](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=55)** If you need to brush up on your basic programming knowledge, then consider taking Programming Foundations: Fundamentals, or [[Programming Foundations- Object-Oriented Design]] first.
+> **[0:55](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=55)** If you need to brush up on your basic programming knowledge, then consider taking [[Programming Foundations]]: Fundamentals, or [[Programming Foundations- Object-Oriented Design]] first.
 >
 > **[1:06](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-you-should-know?u=76281980&t=66)** I'm also going to assume that you at least have some basic experience with C Sharp.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Windows]] (2), [[Programming Foundations]] (2), cross-platform (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Programming Foundations]] (2), [[Microsoft]] (1), [[Linux]] (1)
 > **Tools:** visual studio (6), vs code (1), command line (1)
 > **Env Vars:** net (4)
 > **Analogies:** such as (2)
@@ -162,14 +160,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing .NET
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980)
+#### [Installing .NET](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980&t=0)** - If you're installing .NET on Windows or Mac then you have a couple of options open to you.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980&t=0)** - If you're installing .NET on [[Windows]] or Mac then you have a couple of options open to you.
 >
-> **[0:06](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980&t=6)** This page in the Microsoft documentation provides all the instructions needed to get .NET installed on your computer.
+> **[0:06](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980&t=6)** This page in the [[Microsoft]] documentation provides all the instructions needed to get .NET installed on your computer.
 >
 > **[0:13](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980&t=13)** For Mac and Windows.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980&t=27)** So let's begin by checking to see if your system already has .NET installed.
 >
-> **[0:31](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980&t=31)** On your computer, whether it's Mac, Windows, or Linux, open a terminal window and then enter the command dotnet--version.
+> **[0:31](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980&t=31)** On your computer, whether it's Mac, Windows, or [[Linux]], open a terminal window and then enter the command dotnet--version.
 >
 > **[0:41](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/installing-dot-net?u=76281980&t=41)** And you can see that when I run this command I have .NET six on my computer as the current version of .NET.
 >
@@ -226,12 +223,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **Exercise Files:** download the (2)
 
-#### Exercise Files
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/exercise-files?u=76281980)
+#### [Exercise Files](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/exercise-files?u=76281980&t=0)** - [Instructor] I've provided exercise files for this course, which you can find in the GitHub Repository located at this link.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/exercise-files?u=76281980&t=0)** - [Instructor] I've provided exercise files for this course, which you can find in the [[GitHub]] Repository located at this link.
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/exercise-files?u=76281980&t=7)** So go ahead and navigate to this link in your browser and then either clone this repository or download it to your computer, and then place the exercise files somewhere on your computer where they are easy to access.
 >
@@ -254,8 +250,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tour of CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/tour-of-coderpad?u=76281980)
+#### [Tour of CoderPad](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/tour-of-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,7 +260,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/tour-of-coderpad?u=76281980&t=16)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:23](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/tour-of-coderpad?u=76281980&t=23)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:23](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/tour-of-coderpad?u=76281980&t=23)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:32](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/tour-of-coderpad?u=76281980&t=32)** The code challenge has four areas.
 >
@@ -335,7 +330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** next video (1)
@@ -348,8 +343,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is .NET?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980)
+#### [What is .NET?](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -357,9 +351,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980&t=2)** .NET is a free, open source developer platform that runs on multiple different operating systems.
 >
-> **[0:08](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980&t=8)** It was first launched in 2001, and originally, it ran only on Windows, but has since been expanded to Mac, Linux, iOS, Android, gaming systems like Xbox, and even the cloud.
+> **[0:08](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980&t=8)** It was first launched in 2001, and originally, it ran only on [[Windows]], but has since been expanded to Mac, [[Linux]], iOS, [[Android]], gaming systems like Xbox, and even the cloud.
 >
-> **[0:20](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980&t=20)** The .NET platform can be programmed with a variety of languages, including C#, Visual Basic, F#, and of course the most popular open source ones, like Python, PHP, and C++.
+> **[0:20](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980&t=20)** The .NET platform can be programmed with a variety of languages, including C#, Visual Basic, F#, and of course the most popular open source ones, like [[Python (Programming Language)|Python]], [[PHP]], and C++.
 >
 > **[0:32](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980&t=32)** .NET presents a modern programming architecture that handles many of the more mundane programming tasks automatically for the developer, such as managing program memory.
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Programming]] (2), [[Windows]] (1), [[Linux]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Android]] (1), [[Python (Programming Language)|Python]] (1), [[PHP]] (1)
 > **Env Vars:** net (9), php (1), clr (1)
 > **CLI Commands:** python (1), php (1)
 > **Definitions:** is a  (2)
@@ -386,8 +380,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a console application
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980)
+#### [Building a console application](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -397,7 +390,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980&t=14)** A console app is one of the simplest program types that you can build with .NET.
 >
-> **[0:19](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980&t=19)** These apps run in the system's terminal program and they work across Mac, Windows and Linux.
+> **[0:19](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980&t=19)** These apps run in the system's terminal program and they work across Mac, [[Windows]] and [[Linux]].
 >
 > **[0:24](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980&t=24)** So let's try first creating a console application.
 >
@@ -497,15 +490,15 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980&t=329)** And there's the result along with the platform information.
 >
-> **[5:32](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980&t=332)** So I'm running on Win 32 NT, and this is of course, Microsoft Windows NT, version 10, blah, blah, blah, blah, blah.
+> **[5:32](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980&t=332)** So I'm running on Win 32 NT, and this is of course, [[Microsoft]] Windows NT, version 10, blah, blah, blah, blah, blah.
 >
 > **[5:37](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980&t=337)** Okay?
 >
-> **[5:38](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980&t=338)** So console applications provide a nice way of trying out different ideas in .NET without having to create a complex user interface, which is why I'll be using this approach in the rest of the course to show the features, but again, all the features I'll be covering can be used in almost any type of .NET app that you build.
+> **[5:38](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/building-a-console-application?u=76281980&t=338)** So console applications provide a nice way of trying out different ideas in .NET without having to create a complex user interface, which is why I'll be using this approach in the [[Representational State Transfer (REST)|rest]] of the course to show the features, but again, all the features I'll be covering can be used in almost any type of .NET app that you build.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Windows]] (2), [[Linux]] (1), feature (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** net (17)
 > **Tools:** terminal (9), vs code (2)
 > **CLI Commands:** make (2), dotnet (2)
@@ -514,8 +507,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), scroll down (1), click on (1)
 > **Versions:** 6.0 (1), version 10 (1)
 
-#### Basic .NET data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/basic-dot-net-data-types?u=76281980)
+#### [Basic .NET data types](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/basic-dot-net-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -655,7 +647,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/basic-dot-net-data-types?u=76281980&t=331)** Let's go ahead and close this.
 >
-> **[5:33](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/basic-dot-net-data-types?u=76281980&t=333)** So if I scroll down a little bit, you can see two data structures, right?
+> **[5:33](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/basic-dot-net-data-types?u=76281980&t=333)** So if I scroll down a little bit, you can see two [[Data Structures]], right?
 >
 > **[5:38](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/basic-dot-net-data-types?u=76281980&t=338)** One is a struct definition, and one is a class definition, which is a reference type.
 >
@@ -751,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Definitions:** is a  (6), is called (2), is an  (1)
 > **Env Vars:** net (5), sdk (1)
 > **Tools:** terminal (4), vs code (1)
@@ -760,12 +752,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), open the (1), scroll down (1)
 > **Warnings:** keep in mind (1)
 
-#### .NET garbage collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-garbage-collection?u=76281980)
+#### [.NET garbage collection](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-garbage-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-garbage-collection?u=76281980&t=0)** - [Instructor] The .NET platform uses what's called a Managed Memory Model similar to other platforms like Java.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-garbage-collection?u=76281980&t=0)** - [Instructor] The .NET platform uses what's called a Managed Memory Model similar to other platforms like [[Java]].
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-garbage-collection?u=76281980&t=7)** In other words, the platform takes care of managing the blocks of memory that your program creates and reclaiming them when they are no longer in use.
 >
@@ -799,7 +790,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-garbage-collection?u=76281980&t=136)** So the GC object right here is part of the system namespace, and since this is .NET 6, I don't need to explicitly include that name space in order to use it.
 >
-> **[2:28](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-garbage-collection?u=76281980&t=148)** The rest of my code is going to write out the amount of memory being used when it starts, and then I'm going to call this function, right, called do some big operation and we'll see how much memory gets used up and then after that function completes, I'm going to explicitly call the garbage collector to force a garbage collection, so I'm going to write GC.collect.
+> **[2:28](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-garbage-collection?u=76281980&t=148)** The [[Representational State Transfer (REST)|rest]] of my code is going to write out the amount of memory being used when it starts, and then I'm going to call this function, right, called do some big operation and we'll see how much memory gets used up and then after that function completes, I'm going to explicitly call the garbage collector to force a garbage collection, so I'm going to write GC.collect.
 >
 > **[2:51](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-garbage-collection?u=76281980&t=171)** Now, to be perfectly clear, your application will probably never need to do this.
 >
@@ -823,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), dotnet (1)
 > **Env Vars:** net (3)
 > **Definitions:** in other words (1), is an  (1), refers to (1)
@@ -837,8 +828,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### String interpolation
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-interpolation?u=76281980)
+#### [String interpolation](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-interpolation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -920,13 +910,13 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-interpolation?u=76281980&t=271)** And then we embedded this complex DateTime object inside of a string, and you can see the output there.
 >
-> **[4:37](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-interpolation?u=76281980&t=277)** So I'll be using this feature throughout the rest of the course.
+> **[4:37](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-interpolation?u=76281980&t=277)** So I'll be using this feature throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[4:39](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-interpolation?u=76281980&t=279)** So I suggest taking a few minutes here at the end of the video to play around with the feature and try out some of your own ideas to see how it works.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), feature (3), [[Debugging]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** net (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -935,8 +925,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Exercise Files:** sample code (1)
 
-#### String formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-formatting?u=76281980)
+#### [String formatting](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,15 +1005,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **Cross-References:** previous video (1), later in (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### String manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-manipulation?u=76281980)
+#### [String manipulation](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1222,7 +1209,7 @@ created: 2026-05-02
 >
 > **[7:23](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-manipulation?u=76281980&t=443)** I'm going to call the Replace function.
 >
-> **[7:26](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-manipulation?u=76281980&t=446)** So the content that's going to be replaced is, we're going to look for the word fox, and we'll replace it with the word cat.
+> **[7:26](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-manipulation?u=76281980&t=446)** So the content that's going to be replaced is, we're going to look for the [[Microsoft Word|word]] fox, and we'll replace it with the word cat.
 >
 > **[7:34](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-manipulation?u=76281980&t=454)** So let's scroll back up again.
 >
@@ -1246,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **Definitions:** is a  (4), is called (1), means that (1), in other words (1)
 > **Analogies:** for example (4), such as (1), just like (1)
 > **CLI Commands:** cat (3), make (1), dotnet (1)
@@ -1254,8 +1241,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### String searching
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-searching?u=76281980)
+#### [String searching](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-searching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,7 +1257,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-searching?u=76281980&t=24)** Let's console that WriteLine.
 >
-> **[0:26](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-searching?u=76281980&t=26)** And what I'm going to write out is teststr and I'm going to call the Contains function on it to see if it contains the word "fox."
+> **[0:26](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-searching?u=76281980&t=26)** And what I'm going to write out is teststr and I'm going to call the Contains function on it to see if it contains the [[Microsoft Word|word]] "fox."
 >
 > **[0:38](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-searching?u=76281980&t=38)** All right now, by default, the Contains function takes the casing of the letters into account.
 >
@@ -1399,7 +1385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Search]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **Env Vars:** net (2)
 > **Analogies:** for example (1), just like (1)
 > **Code Identifiers:** stringcomparison (1)
@@ -1408,8 +1394,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/solution-strings?u=76281980)
+#### [Solution: Strings](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/solution-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,8 +1438,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Parsing numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-numbers?u=76281980)
+#### [Parsing numbers](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1566,7 +1550,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Programming]] (1)
 > **Code Identifiers:** testfloat (4)
 > **Env Vars:** net (4)
 > **Versions:** 1.45 (2), 1.5 (1)
@@ -1575,8 +1558,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Formatting numerical data
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/formatting-numerical-data?u=76281980)
+#### [Formatting numerical data](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/formatting-numerical-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1752,7 +1734,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **Tools:** terminal (4)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** earlier in (1), go back to (1)
@@ -1760,9 +1741,9 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** such as (1)
+> **Prerequisites:** set up (1)
 
-#### Using the DateTime class
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/using-the-datetime-class?u=76281980)
+#### [Using the DateTime class](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/using-the-datetime-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1880,7 +1861,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** dotnet (3), make (2)
 > **Analogies:** for example (3)
 > **Env Vars:** net (2)
@@ -1888,9 +1868,9 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** sample code (1)
+> **Speakers:** - now (1)
 
-#### Formatting dates and times
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/formatting-dates-and-times?u=76281980)
+#### [Formatting dates and times](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/formatting-dates-and-times?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2060,7 +2040,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** net (3)
 > **Documentation:** the docs (3)
 > **Tools:** terminal (2), vs code (1)
@@ -2068,9 +2047,9 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1), go back to (1)
 > **UI Navigation:** scroll down (1)
 > **Warnings:** common mistake (1)
+> **Speakers:** - [instructor] (1)
 
-#### Parsing dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-dates?u=76281980)
+#### [Parsing dates](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-dates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2082,7 +2061,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-dates?u=76281980&t=23)** So let's open our code in the parse dates folder.
 >
-> **[0:29](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-dates?u=76281980&t=29)** Here in my code, similar to the numbers example we saw earlier I have an array of strings that represent various different forms of dates and times, and in some cases, both a date and a time.
+> **[0:29](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-dates?u=76281980&t=29)** Here in my code, similar to the numbers example we saw earlier I have an array of strings that represent various different [[Forms]] of dates and times, and in some cases, both a date and a time.
 >
 > **[0:41](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-dates?u=76281980&t=41)** So once again, let use a loop to try and parse each of these strings into a date-time object.
 >
@@ -2146,14 +2125,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Analogies:** just like (2), similar to (1)
 > **Cross-References:** earlier in (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad Solution: How many days?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/coderpad-solution-how-many-days?u=76281980)
+#### [CoderPad Solution: How many days?](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/coderpad-solution-how-many-days?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2203,12 +2181,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating files
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/creating-files?u=76281980)
+#### [Creating files](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/creating-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/creating-files?u=76281980&t=0)** - Even in our current modern era of programming with all kinds of web services and REST APIs, many applications still need to work with files.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/creating-files?u=76281980&t=0)** - Even in our current modern era of programming with all kinds of web services and [[Representational State Transfer (REST)|REST]] APIs, many applications still need to work with files.
 >
 > **[0:10](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/creating-files?u=76281980&t=10)** In this chapter we're going to learn about some of the basic dot net features for working with files.
 >
@@ -2322,7 +2299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Programming]] (1), web (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (1), terminal (1)
 > **Env Vars:** rest (1)
@@ -2330,8 +2307,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - even (1)
 
-#### Reading and writing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/reading-and-writing-files?u=76281980)
+#### [Reading and writing files](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/reading-and-writing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2421,7 +2397,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (1), click on (1)
 > **Tools:** terminal (1)
@@ -2430,8 +2405,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - in (1)
 
-#### Inspecting file information
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/inspecting-file-information?u=76281980)
+#### [Inspecting file information](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/inspecting-file-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2539,15 +2513,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (3)
 > **Tools:** terminal (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/working-with-directories?u=76281980)
+#### [Working with directories](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/working-with-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2693,7 +2665,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (5)
 > **Analogies:** just like (2), similar to (1), for example (1)
 > **Tools:** terminal (1), vs code (1)
@@ -2702,8 +2673,7 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Files and directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980)
+#### [Challenge: Files and directories](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2717,9 +2687,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980&t=15)** So let's take a look at the folder and here in the start folder under files I'll open up the challenge folder and there's a folder in here called file collection.
 >
-> **[0:26](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980&t=26)** And you can see that in here is a collection of different kinds of Microsoft Office files.
+> **[0:26](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980&t=26)** And you can see that in here is a collection of different kinds of [[Microsoft Office]] files.
 >
-> **[0:32](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980&t=32)** We've got Excel files and Word and PowerPoint files.
+> **[0:32](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980&t=32)** We've got [[Microsoft Excel|Excel]] files and [[Microsoft Word|Word]] and [[Microsoft PowerPoint|PowerPoint]] files.
 >
 > **[0:36](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980&t=36)** And the program that you're going to create for this challenge will scan this folder and produce a summarized report of the folder contents.
 >
@@ -2743,7 +2713,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980&t=76)** And let me go ahead and close this down.
 >
-> **[1:20](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980&t=80)** So when I open this file up, you can see that the contents of this file counts all of the files in the folder that are Office files as well as the count of each file type.
+> **[1:20](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980&t=80)** So when I open this file up, you can see that the contents of this file counts all of the files in the folder that are [[Microsoft Office|Office]] files as well as the count of each file type.
 >
 > **[1:35](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/challenge-files-and-directories?u=76281980&t=95)** So there's 12 total, four Excel, five Word and three PowerPoints.
 >
@@ -2763,7 +2733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2), [[Programming]] (1), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2), [[Microsoft Office]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **File Paths:** results.txt (2), test.txt (1)
 > **Cross-References:** go back to (2)
 > **Tools:** terminal (2)
@@ -2772,8 +2742,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Solution: Files and directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/solution-files-and-directories?u=76281980)
+#### [Solution: Files and directories](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/solution-files-and-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2783,7 +2752,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/solution-files-and-directories?u=76281980&t=23)** These are followed by the variables I'm going to use to build the information that we need to summarize things like the number of each file type, the total file count, total number of bytes, and so on.
 >
-> **[0:37](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/solution-files-and-directories?u=76281980&t=37)** This function is office file, determines if a given name is an office file.
+> **[0:37](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/solution-files-and-directories?u=76281980&t=37)** This function is [[Microsoft Office|office]] file, determines if a given name is an office file.
 >
 > **[0:45](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/solution-files-and-directories?u=76281980&t=45)** Now it's a very simplistic test that just looks at the suffix of the file name to see if it ends in a known file extension for office files.
 >
@@ -2815,7 +2784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -2827,8 +2796,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RegEx and .NET
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/regex-and-dot-net?u=76281980)
+#### [RegEx and .NET](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/regex-and-dot-net?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2850,13 +2818,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Env Vars:** net (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding and matching content
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/finding-and-matching-content?u=76281980)
+#### [Finding and matching content](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/finding-and-matching-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2886,7 +2852,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/finding-and-matching-content?u=76281980&t=68)** So if you ever see something like a back slash inside the string, I'm not escaping something that's a real backslash in there, and that's how you should treat it.
 >
-> **[1:15](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/finding-and-matching-content?u=76281980&t=75)** So I'm going to look for a regular expression where any characters in the range of A to Z are followed by a non-white space word character, one or more of those.
+> **[1:15](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/finding-and-matching-content?u=76281980&t=75)** So I'm going to look for a regular expression where any characters in the range of A to Z are followed by a non-white space [[Microsoft Word|word]] character, one or more of those.
 >
 > **[1:29](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/finding-and-matching-content?u=76281980&t=89)** And again, I'm not going to get deep into how regular expressions are built.
 >
@@ -3016,7 +2982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** open the (1), scroll up (1)
@@ -3025,8 +2991,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replacing content
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/replacing-content?u=76281980)
+#### [Replacing content](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/replacing-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3098,7 +3063,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/replacing-content?u=76281980&t=239)** Okay, so let's go ahead and run this.
 >
-> **[4:03](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/replacing-content?u=76281980&t=243)** And you can see here is the original string, and you can see that only of the capital words after the start have been converted to all uppercase and the word the at the start of the sentence is left untouched.
+> **[4:03](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/replacing-content?u=76281980&t=243)** And you can see here is the original string, and you can see that only of the capital words after the start have been converted to all uppercase and the [[Microsoft Word|word]] the at the start of the sentence is left untouched.
 >
 > **[4:19](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/replacing-content?u=76281980&t=259)** So you can see that using dotnet Regexes can make replacing content really simple and very customized.
 
@@ -3112,8 +3077,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using RegEx timeouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/using-regex-timeouts?u=76281980)
+#### [Using RegEx timeouts](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/using-regex-timeouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3195,7 +3159,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (1), imagine (1)
 > **Versions:** 0.01 (1)
@@ -3203,8 +3166,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Regular expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/solution-regular-expressions-24349885?u=76281980)
+#### [Solution: Regular expressions](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/solution-regular-expressions-24349885?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3298,7 +3260,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** sourcedate (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3310,8 +3271,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3327,7 +3287,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1)
 > **Env Vars:** net (4)
 > **Speakers:** - [joe] (1)
 

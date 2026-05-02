@@ -76,39 +76,37 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with .NET
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980)
+#### [Getting started with .NET](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980&t=1)** - Hi, my name is Jesse Freeman, and in this course you'll build a cross platform, note taking console app called HelloNote, using .NET7 and Visual Studio.
 >
-> **[0:11](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980&t=11)** You'll be introduced to essential .NET development practices such as the command pattern, create, read, update, and delete operations, data modeling with EF Core, and setting up an SQLite database.
+> **[0:11](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980&t=11)** You'll be introduced to essential .NET development practices such as the command pattern, create, read, update, and delete operations, [[Data Modeling]] with EF Core, and setting up an SQLite database.
 >
 > **[0:23](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980&t=23)** In addition, we'll also explore more advanced features like establishing relationships between data models, and implementing a search functionality.
 >
-> **[0:31](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980&t=31)** By the end of this course, you'll have a solid understanding of .NET application development.
+> **[0:31](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980&t=31)** By the end of this course, you'll have a solid understanding of .NET [[Application Development]].
 >
 > **[0:36](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980&t=36)** Now let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1), [[Search]] (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (1), [[Application Development]] (1)
 > **Env Vars:** net (2), net7 (1)
 > **Tools:** visual studio (1)
 > **Analogies:** such as (1)
 > **Speakers:** - hi (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-cross-platform-development/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/what-you-should-know?u=76281980&t=0)** - [Instructor] Before taking this course, it'd be beneficial to have a basic understanding of C# programming and its syntax, including knowledge of variables, loops, conditions, and functions.
 >
-> **[0:09](https://www.linkedin.com/learning/c-sharp-cross-platform-development/what-you-should-know?u=76281980&t=9)** You should also be familiar with object-oriented programming concepts such as classes and inheritance.
+> **[0:09](https://www.linkedin.com/learning/c-sharp-cross-platform-development/what-you-should-know?u=76281980&t=9)** You should also be familiar with [[Object-Oriented Programming (OOP)|object-oriented programming]] concepts such as classes and inheritance.
 >
-> **[0:15](https://www.linkedin.com/learning/c-sharp-cross-platform-development/what-you-should-know?u=76281980&t=15)** It's also recommended to have a basic understanding of databases, particularly relational databases, and knowledge of link for querying data in C#.
+> **[0:15](https://www.linkedin.com/learning/c-sharp-cross-platform-development/what-you-should-know?u=76281980&t=15)** It's also recommended to have a basic understanding of [[Databases]], particularly [[Relational Databases]], and knowledge of link for querying data in C#.
 >
 > **[0:24](https://www.linkedin.com/learning/c-sharp-cross-platform-development/what-you-should-know?u=76281980&t=24)** Finally, experience with console applications and command line would prove helpful context for understanding how the interactions are handled in this course.
 >
@@ -116,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Databases]] (1), [[Relational Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Databases]] (1), [[Relational Databases]] (1)
 > **Tools:** command line (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
@@ -127,12 +125,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing .NET 7 SDK
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980)
+#### [Installing .NET 7 SDK](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980&t=0)** - [Instructor] If you haven't already downloaded Visual Studio for the Mac, go to Microsoft's website for Visual Studio, click the download button and wait for the installer file to download.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980&t=0)** - [Instructor] If you haven't already downloaded Visual Studio for the Mac, go to [[Microsoft]]'s website for Visual Studio, click the download button and wait for the installer file to download.
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980&t=11)** Once downloaded, locate the installer and double click on it to launch it.
 >
@@ -146,7 +143,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980&t=57)** For this course we're going to use 7.0.
 >
-> **[1:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980&t=60)** If you're familiar with the command line or you want to use Visual Studio Code, installing the .NET CLI is probably your best option.
+> **[1:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980&t=60)** If you're familiar with the command line or you want to use Visual Studio Code, installing the .NET [[CLI]] is probably your best option.
 >
 > **[1:09](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980&t=69)** At this point, you should have everything ready for us to create our first project.
 
@@ -161,8 +158,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
 
-#### Creating a .NET Core application
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980)
+#### [Creating a .NET Core application](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -174,7 +170,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=13)** And here, we're going to name the project Hello Note App.
 >
-> **[0:17](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=17)** Now for the solution name, let's remove the word app.
+> **[0:17](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=17)** Now for the solution name, let's remove the [[Microsoft Word|word]] app.
 >
 > **[0:21](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=21)** And as you can see here, we now have a master folder for the Hello Note solution.
 >
@@ -194,7 +190,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=70)** Here, we'll need to filter it out.
 >
-> **[1:11](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=71)** So let's type in Microsoft.EntityFrameworkCore, SQLite.
+> **[1:11](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=71)** So let's type in [[Microsoft]].EntityFrameworkCore, SQLite.
 >
 > **[1:22](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-dot-net-core-application?u=76281980&t=82)** Once you've found the package, check it and then let's add one other package.
 >
@@ -212,7 +208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Microsoft]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (1), click on (1), go to (1)
 > **Env Vars:** net (2)
 > **CLI Commands:** make (1)
@@ -226,8 +222,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating the note model
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980)
+#### [Creating the note model](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980&t=94)** We'll also need to import the entity framework core.
 >
-> **[1:38](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980&t=98)** So let's do that by selecting use Microsoft Entity Framework Core and Visual Studio will add it to the top of our class.
+> **[1:38](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980&t=98)** So let's do that by selecting use [[Microsoft]] Entity Framework Core and Visual Studio will add it to the top of our class.
 >
 > **[1:46](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980&t=106)** Next, we need to create a property that'll store the note table in our database.
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (5), application (4), next (3), hit (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Tools:** visual studio (2)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -335,12 +330,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establishing the SQLite database connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980)
+#### [Establishing the SQLite database connection](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980&t=0)** - [Instructor] Now it's time for us to establish the SQL database connection and set up the migrations.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980&t=0)** - [Instructor] Now it's time for us to establish the [[SQL]] database connection and set up the migrations.
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980&t=7)** The Entity Framework Core tools is a powerful package that includes command line tools for database operations, such as migrations and updates.
 >
@@ -348,7 +342,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980&t=20)** In Visual Studio, go to View and select Terminal.
 >
-> **[0:26](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980&t=26)** We can also pin this here for the time being while we add in the rest of the commands we need to configure our tools.
+> **[0:26](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980&t=26)** We can also pin this here for the time being while we add in the [[Representational State Transfer (REST)|rest]] of the commands we need to configure our tools.
 >
 > **[0:34](https://www.linkedin.com/learning/c-sharp-cross-platform-development/establishing-the-sqlite-database-connection?u=76281980&t=34)** We'll start by typing dotnet tool install --global dotnet-ef.
 >
@@ -378,7 +372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** command line (3), visual studio (2), terminal (2)
 > **CLI Commands:** dotnet (4)
 > **Prerequisites:** install (2), set up (1), configure (1)
@@ -387,8 +381,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Building with the command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/building-with-the-command-pattern?u=76281980)
+#### [Building with the command pattern](https://www.linkedin.com/learning/c-sharp-cross-platform-development/building-with-the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,7 +405,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/c-sharp-cross-platform-development/building-with-the-command-pattern?u=76281980&t=61)** Now let's go ahead and create the method that all of our commands will share.
 >
-> **[1:07](https://www.linkedin.com/learning/c-sharp-cross-platform-development/building-with-the-command-pattern?u=76281980&t=67)** Interfaces are a common tool in object-oriented programming to ensure that certain classes contain particular methods and properties.
+> **[1:07](https://www.linkedin.com/learning/c-sharp-cross-platform-development/building-with-the-command-pattern?u=76281980&t=67)** Interfaces are a common tool in [[Object-Oriented Programming (OOP)|object-oriented programming]] to ensure that certain classes contain particular methods and properties.
 >
 > **[1:14](https://www.linkedin.com/learning/c-sharp-cross-platform-development/building-with-the-command-pattern?u=76281980&t=74)** Interfaces are used extensively in the command pattern to provide a common contract for similar classes.
 >
@@ -552,7 +545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), database (4), next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Code Identifiers:** dbcontext (5), appdbcontext (1), commandname (1)
 > **Cross-References:** go back to (3)
 > **Tools:** command line (1), terminal (1), visual studio (1)
@@ -566,8 +559,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a note command
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-note-command?u=76281980)
+#### [Creating a note command](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-note-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,7 +661,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), next (3), hit (2), application (1)
 > **Code Identifiers:** dbcontext (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -678,8 +669,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading a note command
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/reading-a-note-command?u=76281980)
+#### [Reading a note command](https://www.linkedin.com/learning/c-sharp-cross-platform-development/reading-a-note-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,7 +769,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), application (3), next (2), hit (2), business (1)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** dbcontext (3), appdbcontext (1)
 > **Analogies:** just like (3), similar to (1)
@@ -788,8 +777,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating a note command
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/updating-a-note-command?u=76281980)
+#### [Updating a note command](https://www.linkedin.com/learning/c-sharp-cross-platform-development/updating-a-note-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +873,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (3), hit (3)
 > **Code Identifiers:** newcontent (2), dbcontext (1)
 > **Analogies:** just like (2), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -893,8 +880,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting a note command
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/deleting-a-note-command?u=76281980)
+#### [Deleting a note command](https://www.linkedin.com/learning/c-sharp-cross-platform-development/deleting-a-note-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,7 +954,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), application (3), hit (3), next (1), [[Search]] (1)
 > **Warnings:** note that (3)
 > **Code Identifiers:** dbcontext (2)
 > **Analogies:** just like (1)
@@ -979,8 +964,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing note search
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/implementing-note-search?u=76281980)
+#### [Implementing note search](https://www.linkedin.com/learning/c-sharp-cross-platform-development/implementing-note-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,7 +1026,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), application (3), next (3), prompt (1), hit (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -1051,18 +1034,17 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - now (1)
 
-#### Executing search and displaying results
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980)
+#### [Executing search and displaying results](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=0)** - [Instructor] In this video, we're going to execute the LINQ query that we prepared in the previous video and present the results to the user.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=0)** - [Instructor] In this video, we're going to execute the [[Language Integrated Query (LINQ)|LINQ]] query that we prepared in the previous video and present the results to the user.
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=8)** If no matching notes are found, we'll also display a message to tell the user that we couldn't find the note based on the keyword they supplied.
 >
 > **[0:17](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=17)** In the previous video, we used a breakpoint to test that the query was working.
 >
-> **[0:22](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=22)** Let's go ahead and remove that breakpoint, if you still have it, and finish our command with the rest of the code we need to display the notes that have been found.
+> **[0:22](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=22)** Let's go ahead and remove that breakpoint, if you still have it, and finish our command with the [[Representational State Transfer (REST)|rest]] of the code we need to display the notes that have been found.
 >
 > **[0:32](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=32)** We'll start by creating a new variable called notes, and we're going to set it equal to notesQuery.ToList.
 >
@@ -1096,7 +1078,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=162)** We'll hit Return, and we can see that the note that's in the database that says Hello World has now been displayed.
 >
-> **[2:50](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=170)** Let's go ahead and clear this and create a few different notes that have a mix between using the word world in the title and the content to see if they'll show up.
+> **[2:50](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=170)** Let's go ahead and clear this and create a few different notes that have a mix between using the [[Microsoft Word|word]] world in the title and the content to see if they'll show up.
 >
 > **[3:01](https://www.linkedin.com/learning/c-sharp-cross-platform-development/executing-search-and-displaying-results?u=76281980&t=181)** Let's create a note, the title, World War 2, and let's set the content to something like this.
 >
@@ -1128,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), hit (4), [[Microsoft Word|Word]] (4), [[Language Integrated Query (LINQ)|Linq]] (2), database (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Language Integrated Query (LINQ)|Linq]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** linq (2)
 > **Cross-References:** previous video (2)
@@ -1142,8 +1124,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveling up with .NET
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980)
+#### [Leveling up with .NET](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1151,7 +1132,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980&t=2)** You now have a solid foundation in building a console-based, note-taking app in C#.
 >
-> **[0:08](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980&t=8)** For your next steps, consider enhancing the application with note-tagging functionality, explore .Net's CLI options to deploy your app on various platforms, and you may also want to add a graphical user interface using Microsoft's .Net multi-platform app UI.
+> **[0:08](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980&t=8)** For your next steps, consider enhancing the application with note-tagging functionality, explore .Net's [[CLI]] options to deploy your app on various platforms, and you may also want to add a graphical user interface using [[Microsoft]]'s .Net multi-platform app UI.
 >
 > **[0:25](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980&t=25)** This will take your app to the next level and will give you practice with building multi-platform applications using C#.
 >
@@ -1161,7 +1142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1), [[CLI]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[Microsoft]] (1)
 > **Env Vars:** cli (1)
 > **Speakers:** - well (1)
 

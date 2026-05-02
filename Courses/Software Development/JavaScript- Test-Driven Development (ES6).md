@@ -106,8 +106,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro video
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980)
+#### [Intro video](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980&t=9)** And that's not an exaggeration.
 >
-> **[0:11](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980&t=11)** Test Driven Development continues to be one of the most hotly debated subjects in the software development world, with about as many different opinions and techniques as there are practitioners.
+> **[0:11](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980&t=11)** Test Driven Development continues to be one of the most hotly debated subjects in the [[Software Development]] world, with about as many different opinions and techniques as there are practitioners.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980&t=20)** But what is TDD anyway and what about it inspires such strong feelings in developers?
 >
@@ -127,29 +126,28 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980&t=46)** So who am I and why would I want to make a course on Test Driven Development?
 >
-> **[0:50](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980&t=50)** My name is Shaun Wassell, and I'm a Senior JavaScript and React Developer, as well as a regular practitioner of TDD in my own work.
+> **[0:50](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980&t=50)** My name is Shaun Wassell, and I'm a Senior [[JavaScript]] and [[React.js|React]] Developer, as well as a regular practitioner of TDD in my own work.
 >
 > **[0:58](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980&t=58)** Join me in my course to learn Test Driven Development with JavaScript ES6 and see what it can do for you and your code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Software Development]] (1), strengths (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Software Development]] (1), [[React.js|React]] (1)
 > **Env Vars:** tdd (4), es6 (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [shaun] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-you-should-know?u=76281980&t=0)** - [Instructor] In order for you to get the most out of this course, there are a few things that it would be helpful for you to know.
 >
-> **[0:06](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-you-should-know?u=76281980&t=6)** First of all, you should have a solid foundation in JavaScript syntax, in particular the modern ES6 syntax.
+> **[0:06](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-you-should-know?u=76281980&t=6)** First of all, you should have a solid foundation in [[JavaScript]] syntax, in particular the modern ES6 syntax.
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-you-should-know?u=76281980&t=12)** If this isn't the case, don't let that keep you from watching this course, but also keep in mind that you might have to stop it every now and then to look up something that I'm doing.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-you-should-know?u=76281980&t=20)** It would also be helpful for you to have worked with a backend JavaScript framework, such as Express, as I'll be using Express to give you examples of how to do test-driven development to develop real-world applications.
+> **[0:20](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-you-should-know?u=76281980&t=20)** It would also be helpful for you to have worked with a backend JavaScript framework, such as Express, as I'll be using Express to give you examples of how to do [[Test-Driven Development]] to develop real-world applications.
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-you-should-know?u=76281980&t=32)** And the same goes for this.
 >
@@ -159,24 +157,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), [[JavaScript]] (2), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Test-Driven Development]] (1)
 > **Env Vars:** es6 (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### What this course covers
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-this-course-covers?u=76281980)
+#### [What this course covers](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-this-course-covers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-this-course-covers?u=76281980&t=0)** - [Instructor] The world of test-driven development is so incredibly vast that it's really hard to imagine trying to fit it all into a few hours.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-this-course-covers?u=76281980&t=0)** - [Instructor] The world of [[Test-Driven Development]] is so incredibly vast that it's really hard to imagine trying to fit it all into a few hours.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-this-course-covers?u=76281980&t=7)** And for this reason, that's not what I aim to do in this course.
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-this-course-covers?u=76281980&t=10)** My hope with this course is to give you a solid introduction to the theory and practice of test-driven development.
 >
-> **[0:16](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-this-course-covers?u=76281980&t=16)** The rest, the real mastery of test-driven development, will only come as the result of applying the basic concepts I cover in this course in your daily programming over and over again, slowly but surely deepening your understanding of what works for you and what doesn't.
+> **[0:16](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-this-course-covers?u=76281980&t=16)** The [[Representational State Transfer (REST)|rest]], the real mastery of test-driven development, will only come as the result of applying the basic concepts I cover in this course in your daily programming over and over again, slowly but surely deepening your understanding of what works for you and what doesn't.
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-this-course-covers?u=76281980&t=32)** So in other words, TDD is like so many other things in life.
 >
@@ -196,29 +193,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), test-driven (1), node (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** tdd (7)
 > **CLI Commands:** make (2), node (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Software installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980)
+#### [Software installation](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980&t=0)** - [Instructor] So let's install the tools necessary for this course.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980&t=3)** Node.js will be really important to us in this course, as well as MongoDB.
+> **[0:03](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980&t=3)** [[Node.js]] will be really important to us in this course, as well as [[MongoDB]].
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980&t=8)** So if you don't already have Node.js installed, you can download the installer from Node.js's website, www.[nodejs.org](https://nodejs.org).
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980&t=15)** And once you've downloaded this, just double click it and it should take you through the steps required for installation.
 >
-> **[0:21](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980&t=21)** If you're using Windows or a Unix distribution, the steps might be a little different, but Node.js's website has instructions for all of these.
+> **[0:21](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980&t=21)** If you're using [[Windows]] or a Unix distribution, the steps might be a little different, but Node.js's website has instructions for all of these.
 >
-> **[0:29](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980&t=29)** The next step is to make sure you have the right versions of Node and NPM installed, and you can find these by opening up a terminal and typing node -v and npm -v.
+> **[0:29](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980&t=29)** The next step is to make sure you have the right versions of Node and [[npm]] installed, and you can find these by opening up a terminal and typing node -v and npm -v.
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/software-installation?u=76281980&t=40)** So these are the versions I'm using.
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), node (3), [[npm]] (3), [[MongoDB]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[npm]] (3), [[MongoDB]] (2), [[Windows]] (1)
 > **CLI Commands:** node (7), npm (3), make (1), find (1)
 > **File Paths:** node.js (4)
 > **Prerequisites:** install (2), make sure you have (1)
@@ -250,14 +246,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is TDD?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-is-tdd?u=76281980)
+#### [What is TDD?](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-is-tdd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-is-tdd?u=76281980&t=0)** - [Instructor] So the first thing that you're probably wondering about test-driven development is, "What exactly is it?"
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-is-tdd?u=76281980&t=0)** - [Instructor] So the first thing that you're probably wondering about [[Test-Driven Development]] is, "What exactly is it?"
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-is-tdd?u=76281980&t=5)** The answer to this question is so simple that it might be hard to imagine that test-driven development is one of the most controversial concepts in the software development field.
+> **[0:05](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-is-tdd?u=76281980&t=5)** The answer to this question is so simple that it might be hard to imagine that test-driven development is one of the most controversial concepts in the [[Software Development]] field.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-is-tdd?u=76281980&t=13)** Test-driven development means that you write tests for your production code before you've actually written the production code.
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (10), [[Software Development]] (4), management (1), career (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (10), [[Software Development]] (4)
 > **Warnings:** keep in mind (6)
 > **Env Vars:** tdd (3)
 > **Analogies:** for example (2), imagine (1)
@@ -327,8 +322,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advantages of TDD
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/advantages-of-tdd?u=76281980)
+#### [Advantages of TDD](https://www.linkedin.com/learning/javascript-test-driven-development-es6/advantages-of-tdd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -336,7 +330,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-test-driven-development-es6/advantages-of-tdd?u=76281980&t=9)** We'll start with the advantages.
 >
-> **[0:11](https://www.linkedin.com/learning/javascript-test-driven-development-es6/advantages-of-tdd?u=76281980&t=11)** Besides ensuring code quality which, as we discussed in a previous video, is the ultimate goal of test-driven development, there are several other big advantages of writing your tests first.
+> **[0:11](https://www.linkedin.com/learning/javascript-test-driven-development-es6/advantages-of-tdd?u=76281980&t=11)** Besides ensuring code quality which, as we discussed in a previous video, is the ultimate goal of [[Test-Driven Development]], there are several other big advantages of writing your tests first.
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-test-driven-development-es6/advantages-of-tdd?u=76281980&t=21)** First of all, a big benefit of TDD is that it forces us to clarify our thinking before writing production code.
 >
@@ -344,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/advantages-of-tdd?u=76281980&t=40)** With test-driven development, we're forced to clarify our understanding of the problem at hand before we start coding.
 >
-> **[0:47](https://www.linkedin.com/learning/javascript-test-driven-development-es6/advantages-of-tdd?u=76281980&t=47)** On a similar token, TDD provides a way for members of a software development team to communicate their intentions with each other.
+> **[0:47](https://www.linkedin.com/learning/javascript-test-driven-development-es6/advantages-of-tdd?u=76281980&t=47)** On a similar token, TDD provides a way for members of a [[Software Development]] team to communicate their intentions with each other.
 >
 > **[0:54](https://www.linkedin.com/learning/javascript-test-driven-development-es6/advantages-of-tdd?u=76281980&t=54)** It happens very often that a programmer might come across a piece of code written by someone else.
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (3), [[Software Development]] (1), express (1), web (1), application (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (3), [[Software Development]] (1)
 > **Env Vars:** tdd (5)
 > **Definitions:** in other words (2), means that (2)
 > **CLI Commands:** make (2), find (1)
@@ -397,8 +391,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Prerequisites:** before we start (1)
 
-#### Disadvantages of TDD
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/disadvantages-of-tdd?u=76281980)
+#### [Disadvantages of TDD](https://www.linkedin.com/learning/javascript-test-driven-development-es6/disadvantages-of-tdd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,14 +429,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Security]] (1)
 > **Env Vars:** tdd (8)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The basic TDD cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-basic-tdd-cycle?u=76281980)
+#### [The basic TDD cycle](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-basic-tdd-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -483,7 +474,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-basic-tdd-cycle?u=76281980&t=113)** Now that we've got production code and the passing test to back it up, we can think about how to implement our code a little more efficiently or cleanly.
 >
-> **[2:02](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-basic-tdd-cycle?u=76281980&t=122)** If we were writing a sort function for example, this would be the time where we do a little research on efficient sorting algorithms and modify our code to use those, while making sure our test still passes like before.
+> **[2:02](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-basic-tdd-cycle?u=76281980&t=122)** If we were writing a sort function for example, this would be the time where we do a little research on efficient sorting [[Algorithms]] and modify our code to use those, while making sure our test still passes like before.
 >
 > **[2:14](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-basic-tdd-cycle?u=76281980&t=134)** This is also a very good time to clean up our code a little bit, reorganizing it to make it more readable or more modular.
 >
@@ -493,11 +484,11 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-basic-tdd-cycle?u=76281980&t=151)** There's a name for this system we just described, and it's called red, green, refactor; red being the failing test, green being when we write code to make the test pass, and refactor being when we optimize the code we just wrote.
 >
-> **[2:45](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-basic-tdd-cycle?u=76281980&t=165)** And red, green, refactor forms the heart of test-driven development, and we'll see plenty of examples of it throughout the rest of the course.
+> **[2:45](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-basic-tdd-cycle?u=76281980&t=165)** And red, green, refactor [[Forms]] the heart of [[Test-Driven Development]], and we'll see plenty of examples of it throughout the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Algorithms]] (1), [[Forms]] (1), [[Test-Driven Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Forms]] (1), [[Test-Driven Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** tdd (2)
 > **Analogies:** for example (2)
@@ -506,8 +497,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing effective tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/writing-effective-tests?u=76281980)
+#### [Writing effective tests](https://www.linkedin.com/learning/javascript-test-driven-development-es6/writing-effective-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,7 +583,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (1), generic (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** tdd (4), rite (1)
 > **Definitions:** means that (3), is an  (1), is a  (1)
@@ -601,9 +590,9 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Cross-References:** previous video (2)
 > **Warnings:** keep in mind (2)
+> **Best Practices:** remember to (1)
 
-#### The three different types of tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980)
+#### [The three different types of tests](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,9 +612,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=41)** The next level up, we have what are called integration tests.
 >
-> **[0:44](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=44)** While unit testing covers the small, individual pieces of functionality in our code base, integration testing makes sure that these individual pieces work together correctly and this might be something like testing that your app communicates correctly with a database or an API.
+> **[0:44](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=44)** While [[Unit Testing]] covers the small, individual pieces of functionality in our code base, [[Integration Testing]] makes sure that these individual pieces work together correctly and this might be something like testing that your app communicates correctly with a database or an API.
 >
-> **[1:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=60)** And the third type of test is called an end-to-end test and the goal of end-to-end testing is to make sure that the entire application is working as expected from the viewpoint of a user.
+> **[1:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=60)** And the third type of test is called an end-to-end test and the goal of [[End-to-end Testing]] is to make sure that the entire application is working as expected from the viewpoint of a user.
 >
 > **[1:11](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=71)** You see, the user isn't directly concerned with the smaller pieces of functionality which are covered by unit and integration tests.
 >
@@ -635,7 +624,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=95)** All that matters to you is that when you click the Buy button, it takes you to the Checkout page.
 >
-> **[1:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=100)** In order to test this kind of functionality for end-to-end testing, we use tools that allow us to simulate an actual web browser and these are tools like Selenium or [Cypress.io](https://Cypress.io), which help us to test the actual user experience instead of the underlying code.
+> **[1:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=100)** In order to test this kind of functionality for end-to-end testing, we use tools that allow us to simulate an actual web browser and these are tools like [[Selenium]] or [[[Cypress.io]]](https://Cypress.io), which help us to test the actual [[User Experience (UX)|user experience]] instead of the underlying code.
 >
 > **[1:55](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-three-different-types-of-tests?u=76281980&t=115)** So now that we know the three basic types of tests, the actual amount of tests that you'll write depends on the category and generally the vast majority of tests that you'll write as a developer will be unit tests.
 >
@@ -647,7 +636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[End-to-end Testing]] (3), application (2), next (1), [[Unit Testing]] (1), [[Integration Testing]] (1)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (3), [[Unit Testing]] (1), [[Integration Testing]] (1), [[Selenium]] (1), [[Cypress.io]] (1)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
 > **URLs:** [cypress.io](https://cypress.io) (1)
@@ -660,12 +649,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The purpose of unit testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-purpose-of-unit-testing?u=76281980)
+#### [The purpose of unit testing](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-purpose-of-unit-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-purpose-of-unit-testing?u=76281980&t=0)** - [Instructor] So, now that we've covered the three main types of tests in TDD, we're going to look in a lot more detail at the most granular level of testing, unit testing.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-purpose-of-unit-testing?u=76281980&t=0)** - [Instructor] So, now that we've covered the three main types of tests in TDD, we're going to look in a lot more detail at the most granular level of testing, [[Unit Testing]].
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-purpose-of-unit-testing?u=76281980&t=8)** As I mentioned before, the purpose of unit tests is to test the smallest possible chunks of functionality in our production code.
 >
@@ -721,7 +709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (2), application (1), express (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (2)
 > **CLI Commands:** make (9)
 > **Analogies:** imagine (3), for example (2)
 > **Env Vars:** tdd (4)
@@ -729,16 +717,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### JavaScript frameworks for unit testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-frameworks-for-unit-testing?u=76281980)
+#### [JavaScript frameworks for unit testing](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-frameworks-for-unit-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-frameworks-for-unit-testing?u=76281980&t=0)** - [Instructor] Until now, we've focused mainly on the theoretical foundations of TDD.
 >
-> **[0:04](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-frameworks-for-unit-testing?u=76281980&t=4)** But now it's time to start looking at how to actually do TDD in JavaScript.
+> **[0:04](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-frameworks-for-unit-testing?u=76281980&t=4)** But now it's time to start looking at how to actually do TDD in [[JavaScript]].
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-frameworks-for-unit-testing?u=76281980&t=9)** The first thing we're going to loot at is some of the libraries we can use for unit testing in JavaScript.
+> **[0:09](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-frameworks-for-unit-testing?u=76281980&t=9)** The first thing we're going to loot at is some of the libraries we can use for [[Unit Testing]] in JavaScript.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-frameworks-for-unit-testing?u=76281980&t=14)** There are many good open source libraries to use for unit testing, and a lot of argument over which is the best.
 >
@@ -791,8 +778,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### Writing and running basic tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/writing-and-running-basic-tests?u=76281980)
+#### [Writing and running basic tests](https://www.linkedin.com/learning/javascript-test-driven-development-es6/writing-and-running-basic-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +788,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/javascript-test-driven-development-es6/writing-and-running-basic-tests?u=76281980&t=11)** So go into whatever parent directory you'd like and create a new folder and call it, tdd-es6, or whatever else you want.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-test-driven-development-es6/writing-and-running-basic-tests?u=76281980&t=20)** And once we're in this directory, we're going to initialize a new npm project and to do that, open up a terminal and make sure you're inside this tdd-es6 folder that we just created, and run npm init -y and hit enter.
+> **[0:20](https://www.linkedin.com/learning/javascript-test-driven-development-es6/writing-and-running-basic-tests?u=76281980&t=20)** And once we're in this directory, we're going to initialize a new [[npm]] project and to do that, open up a terminal and make sure you're inside this tdd-es6 folder that we just created, and run npm init -y and hit enter.
 >
 > **[0:36](https://www.linkedin.com/learning/javascript-test-driven-development-es6/writing-and-running-basic-tests?u=76281980&t=36)** And once that run successfully, it's time to install the Mocha and Chai libraries we'll be using for testing.
 >
@@ -832,15 +818,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (4), hit (3)
+> **Frameworks & Libraries:** [[npm]] (4)
 > **CLI Commands:** npm (4), make (1)
 > **Prerequisites:** install (4), set up (1)
 > **File Paths:** count.js (1), count.test.js (1)
 > **Tools:** terminal (1)
 > **Speakers:** - so (1)
 
-#### Testing basic functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-basic-functions?u=76281980)
+#### [Testing basic functions](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-basic-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -894,7 +879,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-basic-functions?u=76281980&t=174)** In our case, let's start with the most basic case that we want our getLetterCount function to cover, an empty string.
 >
-> **[3:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-basic-functions?u=76281980&t=180)** Now, since we want our function to return an object containing all the letters in a word and their counts, it stands to reason that when we pass our function an empty string it should return an object with no properties, an empty object.
+> **[3:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-basic-functions?u=76281980&t=180)** Now, since we want our function to return an object containing all the letters in a [[Microsoft Word|word]] and their counts, it stands to reason that when we pass our function an empty string it should return an object with no properties, an empty object.
 >
 > **[3:14](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-basic-functions?u=76281980&t=194)** So for the string we pass to 'it', let's say that 'it' returns an empty object when passed an empty string.
 >
@@ -920,7 +905,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-basic-functions?u=76281980&t=303)** If we were to just remove it and say to equal expected, it would return false unless the constants actual and expected pointed to the same object in memory, which is obviously not what we want.
 >
-> **[5:16](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-basic-functions?u=76281980&t=316)** And this is a small quirk that most JavaScript developers are used to dealing with.
+> **[5:16](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-basic-functions?u=76281980&t=316)** And this is a small quirk that most [[JavaScript]] developers are used to dealing with.
 >
 > **[5:19](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-basic-functions?u=76281980&t=319)** And we have to remember that it still applies when we're writing tests.
 
@@ -935,8 +920,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing asynchronous functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-asynchronous-functions?u=76281980)
+#### [Testing asynchronous functions](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-asynchronous-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -962,9 +946,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-asynchronous-functions?u=76281980&t=67)** But before we go on, in order to avoid typing out this big long command here again, I'm going to show you a better way to run our tests.
 >
-> **[1:14](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-asynchronous-functions?u=76281980&t=74)** What we're going to do is open up our package.json file here.
+> **[1:14](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-asynchronous-functions?u=76281980&t=74)** What we're going to do is open up our package.[[JSON]] file here.
 >
-> **[1:18](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-asynchronous-functions?u=76281980&t=78)** And if we look under "scripts" we'll see that by default NPM already gives us a test script, although right now it just prints an error saying there's no tests.
+> **[1:18](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-asynchronous-functions?u=76281980&t=78)** And if we look under "scripts" we'll see that by default [[npm]] already gives us a test script, although right now it just prints an error saying there's no tests.
 >
 > **[1:26](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-asynchronous-functions?u=76281980&t=86)** And this isn't very useful, so let's delete this default script here, and put the command that we ran before in its place.
 >
@@ -1004,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (3), [[JSON]] (2), hit (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[JSON]] (2)
 > **Env Vars:** tdd (3), es6 (2), enter (1), npm (1)
 > **CLI Commands:** npm (3), npx (1), make (1)
 > **File Paths:** package.json (2), test.js (1)
@@ -1013,8 +997,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying existing functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/modifying-existing-functionality?u=76281980)
+#### [Modifying existing functionality](https://www.linkedin.com/learning/javascript-test-driven-development-es6/modifying-existing-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1022,7 +1005,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-test-driven-development-es6/modifying-existing-functionality?u=76281980&t=6)** So far we don't have anything to refactor yet, so lets go back to red and write another failing test.
 >
-> **[0:11](https://www.linkedin.com/learning/javascript-test-driven-development-es6/modifying-existing-functionality?u=76281980&t=11)** This time lets see if our function returns the correct object for a simple word like cat.
+> **[0:11](https://www.linkedin.com/learning/javascript-test-driven-development-es6/modifying-existing-functionality?u=76281980&t=11)** This time lets see if our function returns the correct object for a simple [[Microsoft Word|word]] like cat.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-test-driven-development-es6/modifying-existing-functionality?u=76281980&t=17)** So lets define another it lock here and we're going to say that our get letter count function should return the correct letter count for a word with only one of each letter.
 >
@@ -1030,7 +1013,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/javascript-test-driven-development-es6/modifying-existing-functionality?u=76281980&t=61)** When we call it with the string cat and finally we're going to make the same kind of assertion that we made in our previous test.
 >
-> **[1:08](https://www.linkedin.com/learning/javascript-test-driven-development-es6/modifying-existing-functionality?u=76281980&t=68)** So expect actual to deep equal expected now lets run our test to make sure this new one fails npm run test and we that it does in fact fail.
+> **[1:08](https://www.linkedin.com/learning/javascript-test-driven-development-es6/modifying-existing-functionality?u=76281980&t=68)** So expect actual to deep equal expected now lets run our test to make sure this new one fails [[npm]] run test and we that it does in fact fail.
 >
 > **[1:23](https://www.linkedin.com/learning/javascript-test-driven-development-es6/modifying-existing-functionality?u=76281980&t=83)** So now that we have a failing test, we can go back to our production code and modify our function to make it pass.
 >
@@ -1052,13 +1035,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[npm]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[npm]] (2)
 > **CLI Commands:** make (3), cat (2), npm (2)
 > **Cross-References:** go back to (2)
 > **Speakers:** - we (1)
 
-#### To mock or not to mock?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980)
+#### [To mock or not to mock?](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1068,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=13)** And we're going to say that our function should return the correct letter count for words with more than one of certain letters.
 >
-> **[0:29](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=29)** Now the string we're going to use to test this is the word Mississippi.
+> **[0:29](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=29)** Now the string we're going to use to test this is the [[Microsoft Word|word]] Mississippi.
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=33)** M-I-S-S-I-S-S-I-P-P-I, which is the name of a river in the United States for those of you who don't know.
 >
@@ -1080,11 +1062,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=67)** And just like in our other tests, we're going to say that we expect the actual value to deep equal the expected value.
 >
-> **[1:17](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=77)** So if we save this and then run our tests again, npm run test, we see that two of our tests pass, and our last test fails.
+> **[1:17](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=77)** So if we save this and then run our tests again, [[npm]] run test, we see that two of our tests pass, and our last test fails.
 >
 > **[1:26](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=86)** And our test will actually show us what the difference was between our expected and actual values.
 >
-> **[1:31](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=91)** And we see that as it is right now, our function returns all the right letters in the letter count object, since order doesn't matter when comparing objects in JavaScript.
+> **[1:31](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=91)** And we see that as it is right now, our function returns all the right letters in the letter count object, since order doesn't matter when comparing objects in [[JavaScript]].
 >
 > **[1:41](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=101)** But none of the letters has a count higher than one.
 >
@@ -1108,7 +1090,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=151)** But if you want to play around with it a little, there are actually many other ways to create this functionality than what we've done here.
 >
-> **[2:38](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=158)** Personally, I prefer a more functional programming style approach, using a built-in array function such as reduce to calculate the letter count.
+> **[2:38](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=158)** Personally, I prefer a more [[Functional Programming]] style approach, using a built-in array function such as reduce to calculate the letter count.
 >
 > **[2:46](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=166)** And if you're interested in learning more about functional programming and JavaScript, I suggest you take a look at my course about functional programming after you're done with this one.
 >
@@ -1126,7 +1108,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=222)** But with a suite of tests backing the function up, as we have here, they can feel confident that their changes won't cause any widespread damage to the code base.
 >
-> **[3:52](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=232)** And as we saw in a previous video, that's one of the big benefits of test-driven development.
+> **[3:52](https://www.linkedin.com/learning/javascript-test-driven-development-es6/to-mock-or-not-to-mock?u=76281980&t=232)** And as we saw in a previous video, that's one of the big benefits of [[Test-Driven Development]].
 
 > [!info]- Semantic Content
 >
@@ -1138,8 +1120,7 @@ created: 2026-05-02
 > **Env Vars:** tdd (1)
 > **Speakers:** - now (1)
 
-#### Challenge: Given criteria, write unit tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-given-criteria-write-unit-tests?u=76281980)
+#### [Challenge: Given criteria, write unit tests](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-given-criteria-write-unit-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,7 +1146,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-given-criteria-write-unit-tests?u=76281980&t=63)** Here are a few additional clarifications to keep in mind.
 >
-> **[1:07](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-given-criteria-write-unit-tests?u=76281980&t=67)** Two strings are not anagrams if either of the words has any letters that are not in the other word.
+> **[1:07](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-given-criteria-write-unit-tests?u=76281980&t=67)** Two strings are not anagrams if either of the words has any letters that are not in the other [[Microsoft Word|word]].
 >
 > **[1:13](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-given-criteria-write-unit-tests?u=76281980&t=73)** So, for example, while elbow and below are anagrams, elbows and below are not anagrams because elbows contains an S and below doesn't.
 >
@@ -1195,7 +1176,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-given-criteria-write-unit-tests?u=76281980&t=169)** Using the getLetterCount function that we coded in previous videos will help you a lot in implementing this anagram function.
 >
-> **[2:56](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-given-criteria-write-unit-tests?u=76281980&t=176)** You can also feel free to pull in any NPM libraries that you think might help.
+> **[2:56](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-given-criteria-write-unit-tests?u=76281980&t=176)** You can also feel free to pull in any [[npm]] libraries that you think might help.
 >
 > **[3:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-given-criteria-write-unit-tests?u=76281980&t=180)** Obviously, as long as you don't cheat and use a library that already implements our functionality.
 >
@@ -1214,8 +1195,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Given criteria, write unit tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-given-criteria-write-unit-tests?u=76281980)
+#### [Solution: Given criteria, write unit tests](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-given-criteria-write-unit-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,7 +1327,7 @@ created: 2026-05-02
 >
 > **[8:03](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-given-criteria-write-unit-tests?u=76281980&t=483)** So what I'm going to do here is I'm going to install lodash which has a function for this.
 >
-> **[8:08](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-given-criteria-write-unit-tests?u=76281980&t=488)** So I'm going to say npm install lodash.
+> **[8:08](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-given-criteria-write-unit-tests?u=76281980&t=488)** So I'm going to say [[npm]] install lodash.
 >
 > **[8:14](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-given-criteria-write-unit-tests?u=76281980&t=494)** And once that installs we're going to import a function from lodash.
 >
@@ -1383,7 +1363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[npm]] (2)
 > **Code Identifiers:** isanagram (11), string1letters (3), string2letters (3), getlettercount (3), string1lettercount (3)
 > **CLI Commands:** make (4), npm (2)
 > **Definitions:** in other words (2)
@@ -1397,12 +1377,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to integration testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980)
+#### [Introduction to integration testing](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=0)** - [Instructor] Now that we've seen how to conduct TDD with basic unit testing, it's time to move on to integration testing.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=0)** - [Instructor] Now that we've seen how to conduct TDD with basic [[Unit Testing]], it's time to move on to [[Integration Testing]].
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=6)** Integration testing, as we discussed in a previous video, is the next step up scale-wise from unit testing.
 >
@@ -1412,7 +1391,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=32)** A good visual for integration testing is to picture a pipeline.
 >
-> **[0:36](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=36)** And this pipeline consists of many different pipes, each of which has been rigorously unit tested to make sure it doesn't leak, doesn't rust, withstands pressure, et cetera.
+> **[0:36](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=36)** And this pipeline consists of many different pipes, each of which has been rigorously unit tested to make sure it doesn't leak, doesn't [[Rust (Programming Language)|rust]], withstands pressure, et cetera.
 >
 > **[0:45](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=45)** And that's great, but the only problem is that when we go to put all of our pipes together, we find that a lot of them don't fit and our pipeline is full of leaks, even though each of the individual segments was perfect on its own.
 >
@@ -1428,11 +1407,11 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=103)** Another purpose for integration tests is to cover certain areas where it would be really difficult or redundant to add unit tests.
 >
-> **[1:50](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=110)** As an example for those of you who are familiar with Express.js, a framework for writing servers in Node.js, how is it that we're supposed to write unit tests for the application's entry point, server.js file, where we usually specify many of the endpoints for the server?
+> **[1:50](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=110)** As an example for those of you who are familiar with [[Express.js]], a framework for writing servers in [[Node.js]], how is it that we're supposed to write unit tests for the application's entry point, server.js file, where we usually specify many of the endpoints for the server?
 >
 > **[2:06](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=126)** In most cases, this would involve creating a complex fake express object just to test our application, which would be a massive undertaking and provide very little real benefit.
 >
-> **[2:16](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=136)** And yet, all that we really need to do to test that each of these endpoints is hooked up correctly to the rest of the server logic is to start up our server and make a request to it.
+> **[2:16](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=136)** And yet, all that we really need to do to test that each of these endpoints is hooked up correctly to the [[Representational State Transfer (REST)|rest]] of the server logic is to start up our server and make a request to it.
 >
 > **[2:25](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980&t=145)** And that would be an integration test.
 >
@@ -1448,7 +1427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Integration Testing]] (6), application (6), [[Unit Testing]] (5), database (4), next (1)
+> **Frameworks & Libraries:** [[Integration Testing]] (6), [[Unit Testing]] (5), [[Rust (Programming Language)|Rust]] (1), [[Express.js]] (1), [[Node.js]] (1)
 > **CLI Commands:** make (4), find (2), node (1)
 > **Cross-References:** previous video (2), we discussed (1), we mentioned (1)
 > **File Paths:** express.js (1), node.js (1), server.js (1)
@@ -1457,12 +1436,11 @@ created: 2026-05-02
 > **Env Vars:** tdd (1)
 > **UI Navigation:** go to (1)
 
-#### How do integration tests fit into TDD?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980)
+#### [How do integration tests fit into TDD?](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=0)** - [Narrator] So many people are naturally a little confused when they learn about integration testing in the context of TDD.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=0)** - [Narrator] So many people are naturally a little confused when they learn about [[Integration Testing]] in the context of TDD.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=7)** After all, we already have unit tests to guide us along in the development of our software.
 >
@@ -1474,7 +1452,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=27)** However, while unit tests are extremely important to the development team that creates and maintains these atomic pieces, and in the end have a strong, positive effect on the robustness of the overall software, they're not the whole story.
 >
-> **[0:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=40)** To show you what I mean, let's say you're working as a back-end developer and your job is to create a rest API.
+> **[0:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=40)** To show you what I mean, let's say you're working as a back-end developer and your job is to create a [[Representational State Transfer (REST)|rest]] API.
 >
 > **[0:45](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=45)** It's very unlikely that your boss or project manager is going to give you a list of all the individual functions that you're going to need to create and how each of them is supposed to behave.
 >
@@ -1490,13 +1468,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=106)** Now, the test-driven cycle with integration tests is very similar to the test-driven cycle with unit tests.
 >
-> **[1:52](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=112)** Just as with unit testing, we start off by writing a failing test and then write production code to make the test pass, and then refactor that code.
+> **[1:52](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=112)** Just as with [[Unit Testing]], we start off by writing a failing test and then write production code to make the test pass, and then refactor that code.
 >
 > **[2:01](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=121)** In other words, with integration tests, we also use the red-green refactor cycle.
 >
 > **[2:06](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=126)** Now, a key thing to understand here is how the cycles of integration testing and unit testing fit together.
 >
-> **[2:12](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=132)** Integration testing forms a sort of outer ring around the unit testing cycle.
+> **[2:12](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=132)** Integration testing [[Forms]] a sort of outer ring around the unit testing cycle.
 >
 > **[2:17](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=137)** And this means that, when writing a program that consists of more than one piece, in other words, most systems, you'll start by writing an integration test.
 >
@@ -1510,31 +1488,30 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=184)** It will also focus on higher-level functionality; functionality that's a little bit closer to the user's point of view.
 >
-> **[3:10](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=190)** But not quite at their level, since that's the job of end-to-end testing.
+> **[3:10](https://www.linkedin.com/learning/javascript-test-driven-development-es6/how-do-integration-tests-fit-into-tdd?u=76281980&t=190)** But not quite at their level, since that's the job of [[End-to-end Testing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Integration Testing]] (4), [[Unit Testing]] (4), [[Representational State Transfer (REST)|Rest]] (2), api (2), test-driven (2)
+> **Frameworks & Libraries:** [[Integration Testing]] (4), [[Unit Testing]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Forms]] (1), [[End-to-end Testing]] (1)
 > **Env Vars:** tdd (3), api (2)
 > **Definitions:** in other words (2), means that (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Test doubles
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980)
+#### [Test doubles](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980&t=0)** - [Instructor] Before we go any further in talking about integration testing, we need to talk about a very important topic in test-driven development in general, and this is something called test doubles.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980&t=0)** - [Instructor] Before we go any further in talking about [[Integration Testing]], we need to talk about a very important topic in [[Test-Driven Development]] in general, and this is something called test doubles.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980&t=10)** So let's say again that we're writing a rest API that uses MongoDB or some other database to store application data.
+> **[0:10](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980&t=10)** So let's say again that we're writing a [[Representational State Transfer (REST)|rest]] API that uses [[MongoDB]] or some other database to store application data.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980&t=17)** When we try to write tests for the parts of our codebase that interact with our database, we run into a small dilemma.
 >
 > **[0:23](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980&t=23)** Our tests require our code to be interacting with an actual database.
 >
-> **[0:28](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980&t=28)** And speed is the main concern in cases like this, since running tests that require communication with external services such as databases, especially if we're communicating over a network, drastically increases the time it takes for our test to run.
+> **[0:28](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980&t=28)** And speed is the main concern in cases like this, since running tests that require communication with external services such as [[Databases]], especially if we're communicating over a network, drastically increases the time it takes for our test to run.
 >
 > **[0:42](https://www.linkedin.com/learning/javascript-test-driven-development-es6/test-doubles?u=76281980&t=42)** And when we're doing test-driven development, it's absolutely critical that our tests run as quickly as possible, since otherwise we'll spend a lot of our valuable development time just sitting waiting for our tests to complete.
 >
@@ -1562,14 +1539,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[MongoDB]] (3), data (3), [[Integration Testing]] (2), [[Test-Driven Development]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[Integration Testing]] (2), [[Test-Driven Development]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### When shouldn't I use test doubles?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/when-shouldn-t-i-use-test-doubles?u=76281980)
+#### [When shouldn't I use test doubles?](https://www.linkedin.com/learning/javascript-test-driven-development-es6/when-shouldn-t-i-use-test-doubles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1593,7 +1569,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/javascript-test-driven-development-es6/when-shouldn-t-i-use-test-doubles?u=76281980&t=84)** Instead of using test doubles in this case, we should really be asking ourselves why it is that the underlying production code requires so much setup just to get it to the right state and find a way to refactor it so that we don't need to do this.
 >
-> **[1:37](https://www.linkedin.com/learning/javascript-test-driven-development-es6/when-shouldn-t-i-use-test-doubles?u=76281980&t=97)** Remember the simple pure functions we wrote in the unit testing section?
+> **[1:37](https://www.linkedin.com/learning/javascript-test-driven-development-es6/when-shouldn-t-i-use-test-doubles?u=76281980&t=97)** Remember the simple pure functions we wrote in the [[Unit Testing]] section?
 >
 > **[1:41](https://www.linkedin.com/learning/javascript-test-driven-development-es6/when-shouldn-t-i-use-test-doubles?u=76281980&t=101)** Testing those was dead simple.
 >
@@ -1611,7 +1587,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/javascript-test-driven-development-es6/when-shouldn-t-i-use-test-doubles?u=76281980&t=141)** Third-party APIs change, and so it doesn't make much sense to mock them out as they are at one point in time because if your tests don't ever interact with the actual API, that API could change, and your application could break even though all your tests still pass.
 >
-> **[2:37](https://www.linkedin.com/learning/javascript-test-driven-development-es6/when-shouldn-t-i-use-test-doubles?u=76281980&t=157)** But hold on, didn't I say earlier that it's okay to create a test double for MongoDB to improve test performance?
+> **[2:37](https://www.linkedin.com/learning/javascript-test-driven-development-es6/when-shouldn-t-i-use-test-doubles?u=76281980&t=157)** But hold on, didn't I say earlier that it's okay to create a test double for [[MongoDB]] to improve test performance?
 >
 > **[2:44](https://www.linkedin.com/learning/javascript-test-driven-development-es6/when-shouldn-t-i-use-test-doubles?u=76281980&t=164)** We don't own MongoDB, do we?
 >
@@ -1625,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (3), data (2), api (2), [[Unit Testing]] (1), application (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[Unit Testing]] (1)
 > **Prerequisites:** setup (5), required to (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** tdd (2), api (2)
@@ -1633,8 +1609,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The two categories of integration tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-two-categories-of-integration-tests?u=76281980)
+#### [The two categories of integration tests](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-two-categories-of-integration-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1656,7 +1631,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-two-categories-of-integration-tests?u=76281980&t=57)** So for example, if we had a full stack app with a front-end page, a server, and a database we'd want to test each part in isolation to make sure it functions correctly, ignoring its interactions with the other parts.
 >
-> **[1:09](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-two-categories-of-integration-tests?u=76281980&t=69)** So to do single-service integration tests on a server, we'd want to create a test double for the database and use an integration testing framework to make queries to our backend instead of having the front end actually query our server.
+> **[1:09](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-two-categories-of-integration-tests?u=76281980&t=69)** So to do single-service integration tests on a server, we'd want to create a test double for the database and use an [[Integration Testing]] framework to make queries to our backend instead of having the front end actually query our server.
 >
 > **[1:23](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-two-categories-of-integration-tests?u=76281980&t=83)** And what this does is tests the internal logic of our server and make sure that it works as expected without wasting precious execution time on I/O operations for each and every specific case our app might encounter.
 >
@@ -1690,7 +1665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), application (3), front-end (3), [[Integration Testing]] (2), api (1)
+> **Frameworks & Libraries:** [[Integration Testing]] (2)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (4)
 > **Warnings:** keep in mind (1), note that (1)
@@ -1698,18 +1673,17 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### JavaScript libraries For integration testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980)
+#### [JavaScript libraries For integration testing](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=0)** - [Instructor] Now we're going to look at a few JavaScript libraries that can help us with integration testing.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=0)** - [Instructor] Now we're going to look at a few [[JavaScript]] libraries that can help us with [[Integration Testing]].
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=5)** It's worth noting that the same libraries we used in the unit testing section, Mocha to run our tests and Chai to make testable assertions about the behavior of our code, are still valid when running integration tests.
+> **[0:05](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=5)** It's worth noting that the same libraries we used in the [[Unit Testing]] section, Mocha to run our tests and Chai to make testable assertions about the behavior of our code, are still valid when running integration tests.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=17)** In other words, we don't need any special test environments or anything to run our integration tests.
 >
-> **[0:22](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=22)** Now just as a side note here, the exception to this would be if you wanted to actually render your front end in a headless browser, in which case you would need to use something like PhantomJS or [Cypress.io](https://Cypress.io), but that's beyond the scope of this course.
+> **[0:22](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=22)** Now just as a side note here, the exception to this would be if you wanted to actually render your front end in a headless browser, in which case you would need to use something like PhantomJS or [[[Cypress.io]]](https://Cypress.io), but that's beyond the scope of this course.
 >
 > **[0:35](https://www.linkedin.com/learning/javascript-test-driven-development-es6/javascript-libraries-for-integration-testing?u=76281980&t=35)** So besides Mocha and Chai, there are two main other libraries that we're going to be using in this section.
 >
@@ -1731,7 +1705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[Unit Testing]] (2), [[JavaScript]] (1), [[Integration Testing]] (1), [[Cypress.io]] (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (2), [[JavaScript]] (1), [[Integration Testing]] (1), [[Cypress.io]] (1)
 > **CLI Commands:** node (3), make (1), find (1)
 > **Definitions:** in other words (2), is called (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -1743,20 +1717,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integration testing in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980)
+#### [Integration testing in practice](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980&t=0)** - [Instructor] So now that we've covered the basics for integration testing, which could definitely seem like a lot of theory and dos and don'ts if we're not careful, we're going to cover a series of practical examples to show what integration tests might look like in the real world and see how they fit into the overall test-driven development flow.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980&t=0)** - [Instructor] So now that we've covered the basics for [[Integration Testing]], which could definitely seem like a lot of theory and dos and don'ts if we're not careful, we're going to cover a series of practical examples to show what integration tests might look like in the real world and see how they fit into the overall [[Test-Driven Development]] flow.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980&t=17)** In the videos that follow, we're going to take a look at a few different coding situations and see how it's possible to cover them with integration tests, and this is going to include things like checking the endpoints of a Node server and interacting with the database.
 >
-> **[0:30](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980&t=30)** We unfortunately won't be covering UI testing since that could really be an entire course in itself with all the different frameworks and libraries available for front-end development.
+> **[0:30](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980&t=30)** We unfortunately won't be covering UI testing since that could really be an entire course in itself with all the different frameworks and libraries available for [[Front-End Development]].
 >
 > **[0:39](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980&t=39)** The examples we'll be going through are all very important things that you'll likely run into as a developer, and so knowing how to properly test in these situations to ensure that your software behaves as expected will be a big help to you as you begin to incorporate TDD into your workflow.
 >
-> **[0:54](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980&t=54)** Over time, you'll become so used to testing these things that you'll wonder why you used to waste so much time on manual testing before you started using integration tests.
+> **[0:54](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980&t=54)** Over time, you'll become so used to testing these things that you'll wonder why you used to waste so much time on [[Manual Testing]] before you started using integration tests.
 >
 > **[1:03](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980&t=63)** Keep in mind as we go through these examples that in integration testing, there are often quite a few little tweaks and gotchas that we have to deal with.
 >
@@ -1776,18 +1749,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Integration Testing]] (3), [[Test-Driven Development]] (1), node (1), database (1), [[Front-End Development]] (1)
+> **Frameworks & Libraries:** [[Integration Testing]] (3), [[Test-Driven Development]] (1), [[Front-End Development]] (1), [[Manual Testing]] (1)
 > **CLI Commands:** node (1), find (1)
 > **Env Vars:** tdd (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing Node servers with SuperTest
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980)
+#### [Testing Node servers with SuperTest](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=0)** - [Instructor] The first integration testing example we're going to look at here is testing routes on a Node server.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=0)** - [Instructor] The first [[Integration Testing]] example we're going to look at here is testing routes on a Node server.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=6)** We're going to use TDD to develop a simple Node server, and to do this, we're going to use a library called SuperTest.
 >
@@ -1813,13 +1785,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=46)** And make sure we're in the directory that we just created.
 >
-> **[0:49](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=49)** And now we've got to do the same setup that we did for our unit test demonstration in the previous section, and the easiest way to do that is going to be just to copy and paste the package.json and babelrc files from that directory into this one.
+> **[0:49](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=49)** And now we've got to do the same setup that we did for our unit test demonstration in the previous section, and the easiest way to do that is going to be just to copy and paste the package.[[JSON]] and babelrc files from that directory into this one.
 >
 > **[1:05](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=65)** So we'll copy and then paste.
 >
 > **[1:09](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=69)** And you can also just download the source code if you want.
 >
-> **[1:12](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=72)** After that, we're going to have to run npm install to install all the packages in our package.json file.
+> **[1:12](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=72)** After that, we're going to have to run [[npm]] install to install all the packages in our package.json file.
 >
 > **[1:20](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=80)** And then we're going to add the packages that are specific to this project by running npm install --save express, and then we're going to do npm install --save-dev supertest.
 >
@@ -1827,7 +1799,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=102)** After all, we can't write a test if we're not sure about the requirements.
 >
-> **[1:46](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=106)** So let's say that we're building a rest API and we want to create a GET endpoint that the front end can use to get info about a certain user.
+> **[1:46](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=106)** So let's say that we're building a [[Representational State Transfer (REST)|rest]] API and we want to create a GET endpoint that the front end can use to get info about a certain user.
 >
 > **[1:55](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-node-servers-with-supertest?u=76281980&t=115)** So in other words, the front end can make a request to /users/abc, where abc is the user's username that we want info about, and as a response, it will get a JSON object containing this user's data, which should include the ID, username, and email address of the user.
 >
@@ -1837,7 +1809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), node (3), [[npm]] (3), [[Integration Testing]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[npm]] (3), [[Integration Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (3), npm (3), make (2)
 > **Prerequisites:** install (4), setup (1), set up (1)
 > **Env Vars:** json (2), tdd (1), api (1)
@@ -1846,8 +1818,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1), source code (1)
 > **API Endpoints:** get  (1)
 
-#### Testing an endpoint: The basic approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980)
+#### [Testing an endpoint: The basic approach](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1875,7 +1846,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=62)** So in many cases we'll want to use test doubles to prevent our tests from taking a significant amount of time to run due to I/O operations.
 >
-> **[1:10](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=70)** And since our back-end here is going to be using MongoDB to store data we'll need to figure out a way to write many of our tests without actually making MongoDB queries.
+> **[1:10](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=70)** And since our back-end here is going to be using [[MongoDB]] to store data we'll need to figure out a way to write many of our tests without actually making MongoDB queries.
 >
 > **[1:18](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=78)** Since if we had several hundred tests, making actual queries, it would significantly slow down our tests.
 >
@@ -1897,7 +1868,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=134)** And these perform some kind of database operations behind the scenes.
 >
-> **[2:18](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=138)** Now, the key here is that the rest of the production code rewrite.
+> **[2:18](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=138)** Now, the key here is that the [[Representational State Transfer (REST)|rest]] of the production code rewrite.
 >
 > **[2:21](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=141)** The rest of our server code is only allowed to talk to the database through this wrapper.
 >
@@ -1905,7 +1876,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=160)** In this case, it would be something like getUser.
 >
-> **[2:43](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=163)** Now the second part of this integration testing method is that for the integration tests for the rest of our server, for everything besides communicating with the database, or other external services, we create a test double for this database wrapper, which returns a fake value and checks Make sure that the right method was called with the right arguments when an endpoint is triggered.
+> **[2:43](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=163)** Now the second part of this [[Integration Testing]] method is that for the integration tests for the rest of our server, for everything besides communicating with the database, or other external services, we create a test double for this database wrapper, which returns a fake value and checks Make sure that the right method was called with the right arguments when an endpoint is triggered.
 >
 > **[3:04](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-an-endpoint-the-basic-approach?u=76281980&t=184)** In this way, we cover the whole flow of our server with integration tests without actually interacting with a database and every test.
 >
@@ -1919,7 +1890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), [[Representational State Transfer (REST)|Rest]] (4), [[MongoDB]] (3), data (1), [[Integration Testing]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[MongoDB]] (3), [[Integration Testing]] (1)
 > **File Paths:** server.js (1), server.test.js (1), db.js (1), db.test.js (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** getuser (2), db (1), createuser (1)
@@ -1928,8 +1899,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a Mocha setup file
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-a-mocha-setup-file?u=76281980)
+#### [Creating a Mocha setup file](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-a-mocha-setup-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1943,7 +1913,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-a-mocha-setup-file?u=76281980&t=27)** In order to avoid this, we just have to install a package.
 >
-> **[0:31](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-a-mocha-setup-file?u=76281980&t=31)** So, open a terminal, and make sure you're inside your project directory, and then run NPM install--save-dev regenerator-runtime.
+> **[0:31](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-a-mocha-setup-file?u=76281980&t=31)** So, open a terminal, and make sure you're inside your project directory, and then run [[npm]] install--save-dev regenerator-runtime.
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-a-mocha-setup-file?u=76281980&t=41)** And hit enter.
 >
@@ -1971,7 +1941,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-a-mocha-setup-file?u=76281980&t=96)** And to do that, we need to edit the command that we used to run Mocha.
 >
-> **[1:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-a-mocha-setup-file?u=76281980&t=100)** And that'll be in our package.JSON file.
+> **[1:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-a-mocha-setup-file?u=76281980&t=100)** And that'll be in our package.[[JSON]] file.
 >
 > **[1:43](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-a-mocha-setup-file?u=76281980&t=103)** And we need to find the test script here, which is right here.
 >
@@ -1985,7 +1955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[npm]] (1), hit (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[JSON]] (1)
 > **CLI Commands:** make (2), npm (1), find (1)
 > **Prerequisites:** install (2), setup (2)
 > **File Paths:** mocha-setup.js (1), package.json (1), source/mocha-setup.js (1)
@@ -1998,14 +1968,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing database communication: Basic setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980)
+#### [Testing database communication: Basic setup](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=0)** - [Instructor] So now that we've got our project set up correctly, let's start writing some tests.
 >
-> **[0:04](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=4)** We're going to start off by testing and coding our database wrapper, since writing this first will allow us to create test doubles of it in the tests for the rest of our server.
+> **[0:04](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=4)** We're going to start off by testing and coding our database wrapper, since writing this first will allow us to create test doubles of it in the tests for the [[Representational State Transfer (REST)|rest]] of our server.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=13)** And you could really just create empty functions for these, create test doubles of those, and develop the rest of the server first, but I generally prefer to do it this way.
 >
@@ -2033,7 +2002,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=117)** So we're going to start off by setting up our database here.
 >
-> **[2:01](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=121)** And even though due to our design choices we're not going to be allowed to refer to MongoDB directly in the rest of our production code, we're allowed to do so in our tests to do set up and tear down in order to make sure our production code works correctly.
+> **[2:01](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=121)** And even though due to our design choices we're not going to be allowed to refer to [[MongoDB]] directly in the rest of our production code, we're allowed to do so in our tests to do set up and tear down in order to make sure our production code works correctly.
 >
 > **[2:14](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=134)** So let's write that set up and tear down code now.
 >
@@ -2041,7 +2010,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=141)** It's pretty self-explanatory.
 >
-> **[2:23](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=143)** So first we need to install the MongoDB driver, using npm install MongoDB.
+> **[2:23](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=143)** So first we need to install the MongoDB driver, using [[npm]] install MongoDB.
 >
 > **[2:29](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980&t=149)** And once that's run, up at the top of our test here, we're going to do import Mongo Client from MongoDB.
 >
@@ -2065,7 +2034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[MongoDB]] (7), [[Representational State Transfer (REST)|Rest]] (3), data (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Representational State Transfer (REST)|Rest]] (3), [[npm]] (1)
 > **CLI Commands:** make (3), mongo (2), npm (1)
 > **Prerequisites:** set up (3), install (2)
 > **Env Vars:** url (2), test_db (1)
@@ -2074,8 +2043,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Database setup and teardown in tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/database-setup-and-teardown-in-tests?u=76281980)
+#### [Database setup and teardown in tests](https://www.linkedin.com/learning/javascript-test-driven-development-es6/database-setup-and-teardown-in-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2131,18 +2099,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (8), next (1)
 > **CLI Commands:** make (6), mongo (4), find (3)
 > **Prerequisites:** setup (3)
 > **Best Practices:** remember to (1)
 > **Speakers:** - so (1)
 
-#### Ignoring object properties in Mocha
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/ignoring-object-properties-in-mocha?u=76281980)
+#### [Ignoring object properties in Mocha](https://www.linkedin.com/learning/javascript-test-driven-development-es6/ignoring-object-properties-in-mocha?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/ignoring-object-properties-in-mocha?u=76281980&t=0)** - [Instructor] So the reason that our actual result contains this _id property is because we're fetching it from MongoDB, which automatically adds a unique ID to a record when it's inserted into the database.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/ignoring-object-properties-in-mocha?u=76281980&t=0)** - [Instructor] So the reason that our actual result contains this _id property is because we're fetching it from [[MongoDB]], which automatically adds a unique ID to a record when it's inserted into the database.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-test-driven-development-es6/ignoring-object-properties-in-mocha?u=76281980&t=13)** And this isn't necessarily a bad thing.
 >
@@ -2168,7 +2134,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/javascript-test-driven-development-es6/ignoring-object-properties-in-mocha?u=76281980&t=98)** So let's see how to add and use this extension.
 >
-> **[1:41](https://www.linkedin.com/learning/javascript-test-driven-development-es6/ignoring-object-properties-in-mocha?u=76281980&t=101)** So, first, in your terminal, let's install the chai-exclude package by typing npm install --save-dev chai-exclude.
+> **[1:41](https://www.linkedin.com/learning/javascript-test-driven-development-es6/ignoring-object-properties-in-mocha?u=76281980&t=101)** So, first, in your terminal, let's install the chai-exclude package by typing [[npm]] install --save-dev chai-exclude.
 >
 > **[1:53](https://www.linkedin.com/learning/javascript-test-driven-development-es6/ignoring-object-properties-in-mocha?u=76281980&t=113)** And next, let's open up our mocha-setup file that we created in the previous video, and what we're going to do is, at the bottom of this file, we're going to add a few lines.
 >
@@ -2186,7 +2152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (4), database (1), [[npm]] (1), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[npm]] (1)
 > **Code Identifiers:** chaiexclude (2), excludingevery (2), insertmany (1), finaldbstate (1)
 > **Prerequisites:** install (3), setup (1), set up (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -2195,8 +2161,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using environment variables in testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/using-environment-variables-in-testing?u=76281980)
+#### [Using environment variables in testing](https://www.linkedin.com/learning/javascript-test-driven-development-es6/using-environment-variables-in-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2212,11 +2177,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-test-driven-development-es6/using-environment-variables-in-testing?u=76281980&t=29)** Some of you may be familiar with environment variables from working with dev and production environments, they allow you to pass in different values to your code depending on the environment your code is running in.
 >
-> **[0:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/using-environment-variables-in-testing?u=76281980&t=40)** So for example they allow you to do stuff like have different databases depending on whether your code is running in a production, development, or test environment.
+> **[0:40](https://www.linkedin.com/learning/javascript-test-driven-development-es6/using-environment-variables-in-testing?u=76281980&t=40)** So for example they allow you to do stuff like have different [[Databases]] depending on whether your code is running in a production, development, or test environment.
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-test-driven-development-es6/using-environment-variables-in-testing?u=76281980&t=48)** And that's exactly what we need here, so let's see how we can do that.
 >
-> **[0:51](https://www.linkedin.com/learning/javascript-test-driven-development-es6/using-environment-variables-in-testing?u=76281980&t=51)** So what we're going to do is open up our package.json file and in this test script here, we're going to add an environment variable that allows our test to tell what environment it's actually running in.
+> **[0:51](https://www.linkedin.com/learning/javascript-test-driven-development-es6/using-environment-variables-in-testing?u=76281980&t=51)** So what we're going to do is open up our package.[[JSON]] file and in this test script here, we're going to add an environment variable that allows our test to tell what environment it's actually running in.
 >
 > **[1:03](https://www.linkedin.com/learning/javascript-test-driven-development-es6/using-environment-variables-in-testing?u=76281980&t=63)** So we're going to add at the very front of this, we're going to say NODE_env equals test.
 >
@@ -2240,19 +2205,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), node (3), [[Databases]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[JSON]] (1)
 > **Env Vars:** node (3), url (1), db_name (1)
 > **File Paths:** package.json (1), dv.js (1), process.env (1)
 > **CLI Commands:** node (3)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Creating test helpers
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-helpers?u=76281980)
+#### [Creating test helpers](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-helpers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-helpers?u=76281980&t=0)** - [Instructor] So now that we've mostly gone through the first TDD cycle with integration testing, which by the way didn't involve any unit testing iterations since in this case those wouldn't really have added any value above and beyond our integration tests, you might notice that this code that we've written for our tests is kind of a mess.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-helpers?u=76281980&t=0)** - [Instructor] So now that we've mostly gone through the first TDD cycle with [[Integration Testing]], which by the way didn't involve any [[Unit Testing]] iterations since in this case those wouldn't really have added any value above and beyond our integration tests, you might notice that this code that we've written for our tests is kind of a mess.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-helpers?u=76281980&t=17)** Well it's not necessarily a mess but it's certainly got a lot more code than we'd like to have inside our tests.
 >
@@ -2334,7 +2298,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-helpers?u=76281980&t=284)** And deleting that line reminds me that we never imported the mongo client into our test helpers file, so let's do that.
 >
-> **[4:53](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-helpers?u=76281980&t=293)** Import mongo client from mongodb.
+> **[4:53](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-helpers?u=76281980&t=293)** Import mongo client from [[MongoDB]].
 >
 > **[4:56](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-helpers?u=76281980&t=296)** And if we run our tests again, we see that they still pass.
 >
@@ -2342,7 +2306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (17), [[Integration Testing]] (1), [[Unit Testing]] (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Integration Testing]] (1), [[Unit Testing]] (1), [[MongoDB]] (1)
 > **CLI Commands:** mongo (4), make (2), find (1)
 > **Prerequisites:** setup (3), set up (2)
 > **File Paths:** testhelpers.js (1)
@@ -2351,8 +2315,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Definitions:** means that (1)
 
-#### Resetting the database between tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/resetting-the-database-between-tests?u=76281980)
+#### [Resetting the database between tests](https://www.linkedin.com/learning/javascript-test-driven-development-es6/resetting-the-database-between-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2386,7 +2349,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (1), next (1)
 > **Code Identifiers:** resetdatabase (4), aftereach (3)
 > **CLI Commands:** make (3), mongo (1)
 > **Cross-References:** previous video (1)
@@ -2400,12 +2362,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating test-doubles with Sinon
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980)
+#### [Creating test-doubles with Sinon](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980&t=0)** - [Instructor] Over the past few videos, we've used TDD with integration testing to start building a database communication layer that'll be used throughout the rest of the app.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980&t=0)** - [Instructor] Over the past few videos, we've used TDD with [[Integration Testing]] to start building a database communication layer that'll be used throughout the [[Representational State Transfer (REST)|rest]] of the app.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980&t=9)** While our database communication layer currently contains only one function, the development of any other similar functions, such as creating a new user or fetching some other resource, such as an article info if this were a blog, would be developed using very similar methods to those that were covered in the previous section.
 >
@@ -2413,7 +2374,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980&t=32)** So to start, let's install a library called sinon which will help us create test doubles in our integration tests.
 >
-> **[0:38](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980&t=38)** And we do that by running npm install --save-dev sinon, S-I-N-O-N.
+> **[0:38](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980&t=38)** And we do that by running [[npm]] install --save-dev sinon, S-I-N-O-N.
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980&t=48)** And once we've done that, let's open up our server.test.js file and start writing some tests.
 >
@@ -2489,7 +2450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (3), [[Integration Testing]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[Integration Testing]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[npm]] (1)
 > **CLI Commands:** mongo (2), npm (1)
 > **Cross-References:** previous video (1), we discussed (1), go back to (1)
 > **Prerequisites:** install (2), set up (1)
@@ -2498,8 +2459,7 @@ created: 2026-05-02
 > **Code Identifiers:** fakedata (1)
 > **API Endpoints:** get  (1)
 
-#### Testing a Node endpoint with SuperTest
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-node-endpoint-with-supertest?u=76281980)
+#### [Testing a Node endpoint with SuperTest](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-node-endpoint-with-supertest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2537,7 +2497,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-node-endpoint-with-supertest?u=76281980&t=88)** So to check the status code, which should be 200 if everything was successful, which is what this test is simulating, we say .expect 200.
 >
-> **[1:38](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-node-endpoint-with-supertest?u=76281980&t=98)** And then to check the content type header, which in this case, should be some sort of json content since we're expecting to get back the user object, we say .expect, content-type/json/.
+> **[1:38](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-node-endpoint-with-supertest?u=76281980&t=98)** And then to check the content type header, which in this case, should be some sort of [[JSON]] content since we're expecting to get back the user object, we say .expect, content-type/json/.
 >
 > **[1:54](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-node-endpoint-with-supertest?u=76281980&t=114)** And we're using a regex here because there are a lot of different possible content types that include json, all of which should be valid for our app.
 >
@@ -2575,7 +2535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), database (2), data (2)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **CLI Commands:** make (4)
 > **Env Vars:** abc (4)
 > **Definitions:** is called (1), means that (1)
@@ -2584,8 +2544,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Best Practices:** remember to (1)
 
-#### Implementing a server endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/implementing-a-server-endpoint?u=76281980)
+#### [Implementing a server endpoint](https://www.linkedin.com/learning/javascript-test-driven-development-es6/implementing-a-server-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2609,7 +2568,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/javascript-test-driven-development-es6/implementing-a-server-endpoint?u=76281980&t=77)** So, for example, if we we're to make a get request to /users/shawn, or /users/someoneelse, then the value of this URL parameter here would be the value that's in this portion of the URL.
 >
-> **[1:34](https://www.linkedin.com/learning/javascript-test-driven-development-es6/implementing-a-server-endpoint?u=76281980&t=94)** So moving on, to define what happens when our server gets a get request on this endpoint, we pass a callback to app.get, and this is going to be async, since we'll be using a weight to get the data that we want to respond with, and these callbacks in express take two arguments, a request object, and a response object, and to start off, inside this callback we're just going to say res.json, with an empty object inside it, and this means that our server will currently send back an empty object when it receives a get request on this endpoint.
+> **[1:34](https://www.linkedin.com/learning/javascript-test-driven-development-es6/implementing-a-server-endpoint?u=76281980&t=94)** So moving on, to define what happens when our server gets a get request on this endpoint, we pass a callback to app.get, and this is going to be async, since we'll be using a weight to get the data that we want to respond with, and these callbacks in express take two arguments, a request object, and a response object, and to start off, inside this callback we're just going to say res.[[JSON]], with an empty object inside it, and this means that our server will currently send back an empty object when it receives a get request on this endpoint.
 >
 > **[2:08](https://www.linkedin.com/learning/javascript-test-driven-development-es6/implementing-a-server-endpoint?u=76281980&t=128)** If we save, and then run our tests again, we see that this is the error we get.
 >
@@ -2621,7 +2580,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/javascript-test-driven-development-es6/implementing-a-server-endpoint?u=76281980&t=171)** So basically we're just pulling the username property out of req.params.username, and I'm not going to go into too much more detail about URL parameters here.
 >
-> **[3:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/implementing-a-server-endpoint?u=76281980&t=180)** If you want to learn more about URL parameters, and other server related techniques, feel free to check out my course on creating a full-stack website with no js and react, after you're done with this one.
+> **[3:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/implementing-a-server-endpoint?u=76281980&t=180)** If you want to learn more about URL parameters, and other server related techniques, feel free to check out my course on creating a full-stack website with no js and [[React.js|react]], after you're done with this one.
 >
 > **[3:11](https://www.linkedin.com/learning/javascript-test-driven-development-es6/implementing-a-server-endpoint?u=76281980&t=191)** So now that we have our username, all we have to do to get our user, is say const user = await db.getUserByUsername, with the username as an argument.
 >
@@ -2647,7 +2606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (7), database (4), data (2), [[JSON]] (1), full-stack (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[React.js|React]] (1)
 > **Env Vars:** url (9)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** getuserbyusername (4)
@@ -2656,8 +2615,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 
-#### Testing a server's error path
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-server-s-error-path?u=76281980)
+#### [Testing a server's error path](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-server-s-error-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2705,7 +2663,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-server-s-error-path?u=76281980&t=110)** We're going to say request(app).get and the same endpoint as before, users/abc, and this time instead of expecting a 200 status code, we're going to say .expect(500).
 >
-> **[2:08](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-server-s-error-path?u=76281980&t=128)** And we're going to expect the content type to be json, just like in the other test, .expect('Content-Type', /json/).
+> **[2:08](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-server-s-error-path?u=76281980&t=128)** And we're going to expect the content type to be [[JSON]], just like in the other test, .expect('Content-Type', /json/).
 >
 > **[2:18](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-a-server-s-error-path?u=76281980&t=138)** And finally, we're going to expect the response body to contain the error object that we threw from our stub like this.
 >
@@ -2735,7 +2693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **Analogies:** imagine (1), for example (1), similar to (1), just like (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** fakeerror (1)
@@ -2744,8 +2702,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Testing "Not Found"
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-testing-not-found?u=76281980)
+#### [Challenge: Testing "Not Found"](https://www.linkedin.com/learning/javascript-test-driven-development-es6/challenge-testing-not-found?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2777,7 +2734,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), next (1)
 > **CLI Commands:** make (4)
 > **Warnings:** keep in mind (2)
 > **Cross-References:** next video (1)
@@ -2786,8 +2742,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Testing "Not Found"
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-testing-not-found?u=76281980)
+#### [Solution: Testing "Not Found"](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-testing-not-found?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2829,7 +2784,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-testing-not-found?u=76281980&t=156)** And last, but not least, we have to restore the stub, stub.restore.
 >
-> **[2:42](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-testing-not-found?u=76281980&t=162)** So if we run our test now, we see that it fails saying that it expected to get, "404 Not Found," but it instead got, "200 Okay," and this is because in our server code the value of user here is null, and this function doesn't throw an error in these circumstances, so we end up simply sending a response with the status code of 200, which is automatic with res.json, and the body that it sends is null.
+> **[2:42](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-testing-not-found?u=76281980&t=162)** So if we run our test now, we see that it fails saying that it expected to get, "404 Not Found," but it instead got, "200 Okay," and this is because in our server code the value of user here is null, and this function doesn't throw an error in these circumstances, so we end up simply sending a response with the status code of 200, which is automatic with res.[[JSON]], and the body that it sends is null.
 >
 > **[3:07](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-testing-not-found?u=76281980&t=187)** So this is what we need to change here.
 >
@@ -2837,13 +2792,13 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-testing-not-found?u=76281980&t=215)** And that should give us the response that we want in that situation.
 >
-> **[3:39](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-testing-not-found?u=76281980&t=219)** So if we run our test again, npm run test, we see that all our tests pass, which means that our server endpoint is behaving as expected.
+> **[3:39](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-testing-not-found?u=76281980&t=219)** So if we run our test again, [[npm]] run test, we see that all our tests pass, which means that our server endpoint is behaving as expected.
 >
 > **[3:48](https://www.linkedin.com/learning/javascript-test-driven-development-es6/solution-testing-not-found?u=76281980&t=228)** So that's my solution, again, don't worry if yours is a little different, as long as it has the same basic ideas as mine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (1), [[JSON]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[npm]] (1)
 > **CLI Commands:** make (5), npm (1)
 > **Code Identifiers:** getuserbyusername (2), setdatabasedata (1)
 > **Definitions:** means that (2), is a  (1)
@@ -2857,8 +2812,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Run tests automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980)
+#### [Run tests automatically](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2868,7 +2822,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980&t=20)** Well, fortunately for us, it's actually incredibly easy to get our tests running automatically.
 >
-> **[0:25](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980&t=25)** All we have to do is open up our package.json file, and find our tests script.
+> **[0:25](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980&t=25)** All we have to do is open up our package.[[JSON]] file, and find our tests script.
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980&t=31)** And at the end of this script, we're just going to add a flag that's --watch.
 >
@@ -2884,7 +2838,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980&t=73)** Now, what I usually do here is copy this test script, add a comma here, and paste it, and rename this one, test:watch, and then remove the watch flag from our regular test script.
 >
-> **[1:29](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980&t=89)** So, now we can either run tests just once, npm run test, or we can run it in watch mode with npm run test:watch.
+> **[1:29](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980&t=89)** So, now we can either run tests just once, [[npm]] run test, or we can run it in watch mode with npm run test:watch.
 >
 > **[1:42](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980&t=102)** Let's make sure we change back this code as well.
 
@@ -2897,12 +2851,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking test coverage with NYC
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980)
+#### [Checking test coverage with NYC](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=0)** A big concern of many software development teams who use TDD, is getting an accurate idea of how well their code base is covered by tests and where untested code might be hiding.
+> **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=0)** A big concern of many [[Software Development]] teams who use TDD, is getting an accurate idea of how well their code base is covered by tests and where untested code might be hiding.
 >
 > **[0:11](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=11)** And let's not fool ourselves it does happen quite often that untested code makes its way into the code base.
 >
@@ -2910,7 +2863,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=21)** So when this happens how do we figure out what parts of our code are going untested and fix it?
 >
-> **[0:27](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=27)** Well, my recommendation is this there's a very handy tool called nyc which is an npm package you can install into your project.
+> **[0:27](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=27)** Well, my recommendation is this there's a very handy tool called nyc which is an [[npm]] package you can install into your project.
 >
 > **[0:34](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=34)** Let's do that now.
 >
@@ -2918,7 +2871,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=52)** And then it generates a report for you of your test coverage.
 >
-> **[0:56](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=56)** So they way we actually use nyc is by doing this, let's open up our package.json file and in our script section we're going to add another script called coverage and inside here we're going to say NODE_ENV=test and then we're going to run nyc npm run test.
+> **[0:56](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=56)** So they way we actually use nyc is by doing this, let's open up our package.[[JSON]] file and in our script section we're going to add another script called coverage and inside here we're going to say NODE_ENV=test and then we're going to run nyc npm run test.
 >
 > **[1:16](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=76)** And finally, we're going to add two flags here to nyc.
 >
@@ -2932,7 +2885,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=111)** You'll notice that nyc generates this folder up here called coverage and it contains a few different files.
 >
-> **[1:57](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=117)** The ones we're interested in here are the files with the same names as the files we've created, but with an html after them and I'll show you what those are.
+> **[1:57](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=117)** The ones we're interested in here are the files with the same names as the files we've created, but with an [[HTML]] after them and I'll show you what those are.
 >
 > **[2:06](https://www.linkedin.com/learning/javascript-test-driven-development-es6/checking-test-coverage-with-nyc?u=76281980&t=126)** If you right-click on this index.html file and click copy path and then open up a web browser and paste the path in there and hit enter, it'll open up a page that shows us the test coverage for each of our files, and if we click on one of these file names here it shows us our code.
 >
@@ -2950,7 +2903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (5), [[HTML]] (2), hit (2), [[Software Development]] (1), teams (1)
+> **Frameworks & Libraries:** [[npm]] (5), [[HTML]] (2), [[Software Development]] (1), [[JSON]] (1)
 > **CLI Commands:** npm (5), find (1)
 > **File Paths:** package.json (1), index.html (1), server.test.js (1), server.js (1)
 > **Env Vars:** tdd (1), node_env (1)
@@ -2964,14 +2917,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=0)** - [Shaun] So we've covered quite a bit in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=2)** We've learned the basics of test-driven development as well as seen it in action.
+> **[0:02](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=2)** We've learned the basics of [[Test-Driven Development]] as well as seen it in action.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=7)** Hopefully you've taken to heart many of the suggestions and techniques we've gone over and continue to experiment and apply TDD in your own development.
 >
@@ -2979,15 +2931,15 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=23)** If you're interested in continuing your study of test-driven development, besides working with it every day to get a better idea of the intricacies of it, I'd recommend reading about it as much as you can.
 >
-> **[0:33](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=33)** Some good books on the topic include "Test-Driven Development: By Example" by Kent Beck and "The Art of Unit Testing" by Roy Osherove.
+> **[0:33](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=33)** Some good books on the topic include "Test-Driven Development: By Example" by Kent Beck and "The Art of [[Unit Testing]]" by Roy Osherove.
 >
-> **[0:41](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=41)** Although both of these deal with languages other than JavaScript they're great for getting a very in-depth understanding of testing.
+> **[0:41](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=41)** Although both of these deal with languages other than [[JavaScript]] they're great for getting a very in-depth understanding of testing.
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=48)** And of course there's a ton of material on the internet about TDD, blogs, videos, tutorials, et cetera that are only a search away.
 >
 > **[0:56](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=56)** I'd recommend that you learn as much as you possibly can about the topic and that you don't stop learning.
 >
-> **[1:01](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=61)** I'd also recommend other courses in the LinkedIn Learning Library such as Emmanuel Henri's course on Testing and Debugging React which includes some topics that we didn't cover in this course.
+> **[1:01](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=61)** I'd also recommend other courses in the [[LinkedIn]] Learning Library such as Emmanuel Henri's course on Testing and Debugging [[React.js|React]] which includes some topics that we didn't cover in this course.
 >
 > **[1:10](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980&t=70)** Well, thank you so much for watching.
 >
@@ -3003,7 +2955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (3), [[LinkedIn]] (3), [[Unit Testing]] (1), [[JavaScript]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (3), [[LinkedIn]] (3), [[Unit Testing]] (1), [[JavaScript]] (1), [[React.js|React]] (1)
 > **Env Vars:** tdd (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [shaun] (1)

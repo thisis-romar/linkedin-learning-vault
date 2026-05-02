@@ -80,26 +80,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Jigsaw
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980)
+#### [Introduction to Jigsaw](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=0)** - [Lecturer] Jigsaw is a framework, used to rapidly build static sites.
+> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=0)** - [Lecturer] [[Jigsaw]] is a framework, used to rapidly build static sites.
 >
-> **[0:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=4)** It is one of the best PHP-based static site generators.
+> **[0:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=4)** It is one of the best [[PHP]]-based static site generators.
 >
-> **[0:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=8)** Static site generators, also known as SSGs, generate full, static, HTML websites, based on provided data and available templates.
+> **[0:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=8)** Static site generators, also known as SSGs, generate full, static, [[HTML]] websites, based on provided data and available templates.
 >
 > **[0:17](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=17)** They are well-known for their fast loading speed, easy deployment, and they're a great alternative to dynamic websites.
 >
-> **[0:24](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=24)** Jigsaw's a fantastic solution for PHP and Laravel developers, as it uses the Blade's templating engine, which is the same engine used in Laravel.
+> **[0:24](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=24)** Jigsaw's a fantastic solution for PHP and [[Laravel]] developers, as it uses the Blade's templating engine, which is the same engine used in Laravel.
 >
 > **[0:34](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=34)** I am Zuzana Kunckova, a Laravel developer and the founder of Larabelles, the community for women, non-binary, and trans Laravel developers.
 >
 > **[0:42](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=42)** I've built multiple websites using Jigsaw, and I'm excited to share my knowledge with you.
 >
-> **[0:47](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=47)** By joining me in this LinkedIn Learning course, you will discover the essentials of Jigsaw, how to install it, and how to choose and install an official template.
+> **[0:47](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=47)** By joining me in this [[LinkedIn]] Learning course, you will discover the essentials of Jigsaw, how to install it, and how to choose and install an official template.
 >
 > **[0:56](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980&t=56)** We will walk through the entire codebase together, and I will show you how to create and edit content, and deploy your website for free on Netlify.
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jigsaw]] (4), [[Laravel]] (4), [[PHP]] (2), [[HTML]] (1), data (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (4), [[Laravel]] (4), [[PHP]] (2), [[HTML]] (1), [[LinkedIn]] (1)
 > **Env Vars:** php (2), html (1)
 > **CLI Commands:** php (2)
 > **Definitions:** is a  (1), known as (1)
@@ -122,18 +121,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Jigsaw?
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980)
+#### [What is Jigsaw?](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=0)** - [Instructor] Jigsaw is a framework used to rapidly build static sites using Laravel Blade templating engine.
+> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=0)** - [Instructor] [[Jigsaw]] is a framework used to rapidly build static sites using [[Laravel]] Blade templating engine.
 >
 > **[0:07](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=7)** It is developed and maintained by Tighten, a consultancy firm operating out of Chicago US.
 >
-> **[0:13](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=13)** Jigsaw is an open source framework, with around 195,000 downloads to the date and nearly 2,000 GitHub stars.
+> **[0:13](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=13)** Jigsaw is an open source framework, with around 195,000 downloads to the date and nearly 2,000 [[GitHub]] stars.
 >
-> **[0:22](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=22)** Jigsaw is one of the best PHP based static site generators.
+> **[0:22](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=22)** Jigsaw is one of the best [[PHP]] based static site generators.
 >
 > **[0:25](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=25)** And because it's built using PHP and Laravel Blade, Laravel developers will find it quite easy to get started.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=72)** A great way to learn from other developers.
 >
-> **[1:16](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=76)** Jigsaw is also a great alternative too, for example, WordPress, or Statamic, which are both PHP based frameworks used to build websites.
+> **[1:16](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=76)** Jigsaw is also a great alternative too, for example, [[WordPress]], or Statamic, which are both PHP based frameworks used to build websites.
 >
 > **[1:26](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980&t=86)** However, Jigsaw is free to use and free to deploy as we will learn later on in the course, and it is a great framework to have in your toolbox.
 
@@ -168,14 +166,13 @@ created: 2026-05-02
 > **URLs:** [buildwithjigsaw.com](https://buildwithjigsaw.com) (1)
 > **Analogies:** for example (1)
 
-#### What is a static site generator (SSG)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980)
+#### [What is a static site generator (SSG)?](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=0)** - Now that we know that Jigsaw, is a PHP based static site generator, you may be wondering what a static site generator is, in the first place.
+> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=0)** - Now that we know that [[Jigsaw]], is a [[PHP]] based static site generator, you may be wondering what a static site generator is, in the first place.
 >
-> **[0:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=8)** Static site generator, also known by the abbreviation SSG, is a tool that generates a full static HTML website, from some raw data and a set of templates.
+> **[0:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=8)** Static site generator, also known by the abbreviation SSG, is a tool that generates a full static [[HTML]] website, from some raw data and a set of templates.
 >
 > **[0:18](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=18)** You might remember that some years ago, we used to hard-code simple HTML pages, with no dynamic content.
 >
@@ -193,11 +190,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=57)** And so on.
 >
-> **[0:58](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=58)** one example would be WordPress, a content management system that relies heavily on the use of templates and partials.
+> **[0:58](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=58)** one example would be [[WordPress]], a [[Content Management]] system that relies heavily on the use of templates and partials.
 >
 > **[1:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=64)** And it's using PHP under the hood to render the content in the browser.
 >
-> **[1:09](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=69)** But let's say we don't need dynamic content on our website, but we still don't want to go back to hard coding every single web-page, and not be able to use the benefits of modern web development.
+> **[1:09](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=69)** But let's say we don't need dynamic content on our website, but we still don't want to go back to hard coding every single web-page, and not be able to use the benefits of modern [[Web Development]].
 >
 > **[1:19](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=79)** Such as, the use of templates, partials, or variables throughout our code.
 >
@@ -211,13 +208,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=111)** However, one downside is that they don't tend to come with an admin panel.
 >
-> **[1:55](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=115)** So to use it, ADA needs to look for a third party solution, or just add content via the CLI.
+> **[1:55](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=115)** So to use it, ADA needs to look for a third party solution, or just add content via the [[CLI]].
 >
 > **[2:01](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=121)** There are many different static site generators available.
 >
 > **[2:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=124)** And they each serve a slightly different audience.
 >
-> **[2:06](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=126)** You may choose to generate two based on the language it is using: PHP, JavaScript, Ruby, or many others.
+> **[2:06](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=126)** You may choose to generate two based on the language it is using: PHP, [[JavaScript]], Ruby, or many others.
 >
 > **[2:14](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=134)** You may also choose a generator based on what you are building.
 >
@@ -231,17 +228,17 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=149)** And finally, what templating language Are you already familiar with?
 >
-> **[2:32](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=152)** Are you used to work with Blade, Markdown, Mustache, Pug, or would you prefer to use to react or Vue.js to handle your front end?
+> **[2:32](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=152)** Are you used to work with Blade, Markdown, Mustache, Pug, or would you prefer to use to [[React.js|react]] or [[Vue.js]] to handle your front end?
 >
 > **[2:40](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=160)** All, these are good questions to ask, when looking for a static site generator.
 >
-> **[2:45](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=165)** As I mentioned in the previous video in this course, we will be learning about Jigsaw, a popular study site generator for Laravel developers, that uses PHP and Laravel blades.
+> **[2:45](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=165)** As I mentioned in the previous video in this course, we will be learning about Jigsaw, a popular study site generator for [[Laravel]] developers, that uses PHP and Laravel blades.
 >
 > **[2:55](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-a-static-site-generator-ssg?u=76281980&t=175)** So let's get started learning Jigsaw.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (4), [[Jigsaw]] (3), data (2), [[Laravel]] (2)
+> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (4), [[Jigsaw]] (3), [[Laravel]] (2), [[WordPress]] (1)
 > **Env Vars:** php (4), html (2), ssg (1), cms (1), ada (1)
 > **CLI Commands:** php (4), ruby (1)
 > **Definitions:** is a  (2)
@@ -250,14 +247,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - now (1)
 
-#### Installing Jigsaw
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/installing-jigsaw?u=76281980)
+#### [Installing Jigsaw](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/installing-jigsaw?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/installing-jigsaw?u=76281980&t=0)** - [Instructor] To install Jigsaw, you need to have PHP 7.3 or above and composer installed on your machine.
+> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/installing-jigsaw?u=76281980&t=0)** - [Instructor] To install [[Jigsaw]], you need to have [[PHP]] 7.3 or above and composer installed on your machine.
 >
-> **[0:07](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/installing-jigsaw?u=76281980&t=7)** You will also need to have Node.js and npm installed because jigsaw uses Laravel Mix to compose CSS and JavaScript.
+> **[0:07](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/installing-jigsaw?u=76281980&t=7)** You will also need to have [[Node.js]] and [[npm]] installed because jigsaw uses [[Laravel]] Mix to [[Jetpack Compose|compose]] CSS and [[JavaScript]].
 >
 > **[0:15](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/installing-jigsaw?u=76281980&t=15)** Laravel Mix is an API that it finds webpack build steps by using a simple method chaining that makes module bundling and asset compilation quite easy.
 >
@@ -339,7 +335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jigsaw]] (14), [[npm]] (5), [[Laravel]] (3), next (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (14), [[npm]] (5), [[Laravel]] (3), [[PHP]] (1), [[Node.js]] (1)
 > **CLI Commands:** npm (5), composer (3), make (3), php (1), node (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** npm (4), php (1), css (1), api (1)
@@ -348,14 +344,13 @@ created: 2026-05-02
 > **Documentation:** the docs (2)
 > **Tools:** terminal (2)
 
-#### Challenge: Creating a new Jigsaw website
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-creating-a-new-jigsaw-website?u=76281980)
+#### [Challenge: Creating a new Jigsaw website](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-creating-a-new-jigsaw-website?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-creating-a-new-jigsaw-website?u=76281980&t=0)** - [Instructor] Welcome to the first challenge!
 >
-> **[0:07](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-creating-a-new-jigsaw-website?u=76281980&t=7)** In this challenge, I'm going to ask you to create a new Jigsaw website and call it anything you like: for example, hello-jigsaw.
+> **[0:07](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-creating-a-new-jigsaw-website?u=76281980&t=7)** In this challenge, I'm going to ask you to create a new [[Jigsaw]] website and call it anything you like: for example, hello-jigsaw.
 >
 > **[0:15](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-creating-a-new-jigsaw-website?u=76281980&t=15)** Make sure you first create a directory, then install Jigsaw and then initialize it.
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jigsaw]] (4), next (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (4)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 > **URLs:** [packagist.org](https://packagist.org) (1)
@@ -382,8 +377,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Solution: Creating a new Jigsaw website
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-creating-a-new-jigsaw-website?u=76281980)
+#### [Solution: Creating a new Jigsaw website](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-creating-a-new-jigsaw-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -393,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-creating-a-new-jigsaw-website?u=76281980&t=6)** How did it go?
 >
-> **[0:07](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-creating-a-new-jigsaw-website?u=76281980&t=7)** Were you able to create a new jigsaw website?
+> **[0:07](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-creating-a-new-jigsaw-website?u=76281980&t=7)** Were you able to create a new [[Jigsaw]] website?
 >
 > **[0:10](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-creating-a-new-jigsaw-website?u=76281980&t=10)** Let me show you how I did it.
 >
@@ -433,7 +427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jigsaw]] (5), cd (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (5)
 > **Exercise Files:** template (4)
 > **CLI Commands:** mkdir (1), cd (1), composer (1)
 > **URLs:** [localhost:8000](https://localhost:8000) (1)
@@ -447,16 +441,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980)
+#### [File structure](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=0)** - Let's run NPM run watch to serve our websites.
+> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=0)** - Let's run [[npm]] run watch to serve our websites.
 >
 > **[0:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=4)** Now that it's up and running, we are almost ready to learn how to add new content.
 >
-> **[0:14](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=14)** But before we do so let's have a quick look at the file structure in jigsaw.
+> **[0:14](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=14)** But before we do so let's have a quick look at the file structure in [[Jigsaw]].
 >
 > **[0:18](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=18)** Let's start from the top.
 >
@@ -488,7 +481,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=121)** Okay, let's continue.
 >
-> **[2:03](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=123)** This listener's directory has any PHP code that needs to run during a specific time of the built, for example, to generate the index or the site map of the websites.
+> **[2:03](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=123)** This listener's directory has any [[PHP]] code that needs to run during a specific time of the built, for example, to generate the index or the site map of the websites.
 >
 > **[2:19](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=139)** You could also write the custom PHP code to for example, have a class to generate the estimated reading time and save it in this directory.
 >
@@ -516,7 +509,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=219)** You might want to use different site variables depending on whether you are serving the production or the staging site.
 >
-> **[3:44](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=224)** Or you might choose not to include Google analytics in your staging environment, because it will skew your results.
+> **[3:44](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=224)** Or you might choose not to include [[Google]] analytics in your staging environment, because it will skew your results.
 >
 > **[3:50](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980&t=230)** For these reasons, jigsaw allow us to set up different configurations for different environments.
 >
@@ -580,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jigsaw]] (14), [[npm]] (10), [[PHP]] (7), next (2), node (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (14), [[npm]] (10), [[PHP]] (7), [[Google]] (1)
 > **CLI Commands:** npm (10), php (7), make (1), node (1), composer (1)
 > **Env Vars:** npm (10), php (3), css (1)
 > **File Paths:** config.staging.php (2), master.blade.php (1), config.production.php (1), config.php (1), tailwind.config.js (1)
@@ -589,12 +582,11 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1), configure (1), set up (1)
 > **Tools:** terminal (2)
 
-#### Source directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980)
+#### [Source directory](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=0)** - [Instructor] Let's have a closer look at the "source" directory, since this is where we will be spending most of our time when building a Jigsaw website.
+> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=0)** - [Instructor] Let's have a closer look at the "source" directory, since this is where we will be spending most of our time when building a [[Jigsaw]] website.
 >
 > **[0:07](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=7)** As mentioned in the previous video, all content will be stored in the "source" directory.
 >
@@ -606,13 +598,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=25)** Jigsaw allows us to add content in various formats.
 >
-> **[0:28](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=28)** We can use Laravel's Blade templating language.
+> **[0:28](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=28)** We can use [[Laravel]]'s Blade templating language.
 >
 > **[0:31](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=31)** We can use Markdown, or some Blade-Markdown hybrid.
 >
-> **[0:35](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=35)** We can also use other, non-HTML files, and pass them through Blade to be processed.
+> **[0:35](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=35)** We can also use other, non-[[HTML]] files, and pass them through Blade to be processed.
 >
-> **[0:40](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=40)** For example, a JavaScript file with an extension ".blade.js", or a JSON file with the extension ".blade.json".
+> **[0:40](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=40)** For example, a [[JavaScript]] file with an extension ".blade.js", or a [[JSON]] file with the extension ".blade.json".
 >
 > **[0:48](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=48)** Once a file is processed by Blade, the final output file will keep its file type extension, so it would be ".js" or ".json".
 >
@@ -656,9 +648,9 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=184)** And it is this directory which will be copied to "build_local" or "build_production" directories when the website is built.
 >
-> **[3:11](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=191)** So the rule is: Put any assets inside the "_assets" directory, and Mix will take care of the rest.
+> **[3:11](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=191)** So the rule is: Put any assets inside the "_assets" directory, and Mix will take care of the [[Representational State Transfer (REST)|rest]].
 >
-> **[3:17](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=197)** By the way, to compile our assets, we will need to run "npm run dev", but since we are running "npm run watch", our assets are being compiled on-the-fly.
+> **[3:17](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=197)** By the way, to compile our assets, we will need to run "[[npm]] run dev", but since we are running "npm run watch", our assets are being compiled on-the-fly.
 >
 > **[3:27](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=207)** And if you ever need to change the location of the assets, remember to update the webpack file too.
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=232)** The "_components" directory contains the various components the "blog" template comes with: the "newsletter-signup" form, the "post-as-rss-item", and the "post-preview-inline" components.
 >
-> **[4:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=244)** The "newsletter-signup" form is being used in the "index.blade.php" file, down here on line 32.
+> **[4:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=244)** The "newsletter-signup" form is being used in the "index.blade.[[PHP]]" file, down here on line 32.
 >
 > **[4:12](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/source-directory?u=76281980&t=252)** "_layout" is the next directory.
 >
@@ -702,7 +694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jigsaw]] (7), css (6), [[Laravel]] (3), [[JSON]] (3), [[PHP]] (3)
+> **Frameworks & Libraries:** [[Jigsaw]] (7), [[Laravel]] (3), [[JSON]] (3), [[PHP]] (3), [[JavaScript]] (2)
 > **File Paths:** blade.js (1), blade.json (1), getting-started.md (1), main.css (1), build/css/main.css (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** css (3), html (1), json (1), rss (1)
@@ -711,8 +703,7 @@ created: 2026-05-02
 > **Analogies:** for example (4)
 > **Cross-References:** previous video (1)
 
-#### Adding content to a Jigsaw website
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980)
+#### [Adding content to a Jigsaw website](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,7 +739,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=90)** In here, I can see that by default, the old texts will be the same as the title of the page with the words, cover image appended.
 >
-> **[1:39](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=99)** To have jigsaw render the actual out value we added to the front matter, we need to change this line and use the dollar sign page variable with the out key instead, and delete the cover image words.
+> **[1:39](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=99)** To have [[Jigsaw]] render the actual out value we added to the front matter, we need to change this line and use the dollar sign page variable with the out key instead, and delete the cover image words.
 >
 > **[1:52](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=112)** Let's go back to the hello world post and add some short content. Just tell the world, how are you?
 >
@@ -768,15 +759,15 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=150)** You will see that the old text has been updated too.
 >
-> **[2:36](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=156)** One word of caution.
+> **[2:36](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=156)** One [[Microsoft Word|word]] of caution.
 >
 > **[2:38](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=158)** Sometimes you might actually need to restart your watch process for mix to pick up the newly created file.
 >
-> **[2:43](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=163)** Jigsaw is using the Laravel mixed jigsaw plugin, which watches the sides files and triggers a new build when it detects changes.
+> **[2:43](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=163)** Jigsaw is using the [[Laravel]] mixed jigsaw plugin, which watches the sides files and triggers a new build when it detects changes.
 >
-> **[2:51](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=171)** However, this plugin cannot detect the creation of new files that are immediately inside the source directory. For example, if you created another file on the same level as is this 404.blade.php file.
+> **[2:51](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=171)** However, this plugin cannot detect the creation of new files that are immediately inside the source directory. For example, if you created another file on the same level as is this 404.blade.[[PHP]] file.
 >
-> **[3:05](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=185)** In this case, you will need to restart mix by running NPM run watch again.
+> **[3:05](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=185)** In this case, you will need to restart mix by running [[npm]] run watch again.
 >
 > **[3:10](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/adding-content-to-a-jigsaw-website?u=76281980&t=190)** Okay, now that you know how to create a new page and how to change an existing layout, you can do pretty much anything.
 >
@@ -793,14 +784,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
 
-#### Collections in Jigsaw
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980)
+#### [Collections in Jigsaw](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=0)** - Collections allow us to do with groups of similar content, content that shares common features, Common templates, things that can be sorted and filtered.
 >
-> **[0:09](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=9)** collections are defined inside a configured PHP file, inside an array named collections.
+> **[0:09](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=9)** collections are defined inside a configured [[PHP]] file, inside an array named collections.
 >
 > **[0:14](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=14)** If we have a look inside the file, we can see that the block template comes with two collections. Posts and categories.
 >
@@ -810,7 +800,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=26)** And it can have an array of settings.
 >
-> **[0:28](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=28)** The way you code the collection is important because jigsaw over look for a directory of the same name, preceded by an underscore.
+> **[0:28](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=28)** The way you code the collection is important because [[Jigsaw]] over look for a directory of the same name, preceded by an underscore.
 >
 > **[0:34](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=34)** So in our case, underscore posts or underscore categories inside the source directory.
 >
@@ -880,7 +870,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=188)** I'll add a new key filter and return a function which accepts an item and only the returns items that are published.
 >
-> **[3:16](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=196)** Now I'll go to a couple of our posts, they getting started and the hello word post.
+> **[3:16](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=196)** Now I'll go to a couple of our posts, they getting started and the hello [[Microsoft Word|word]] post.
 >
 > **[3:20](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=200)** and add the published variable to their front matter.
 >
@@ -894,15 +884,15 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=219)** for example, map over them, or use remote collections.
 >
-> **[3:42](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=222)** That will allow us to fetch consent from a remote source.
+> **[3:42](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=222)** That will allow us to [[Fetch]] consent from a remote source.
 >
-> **[3:45](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=225)** Such as an external API, or some API based content management system.
+> **[3:45](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=225)** Such as an external API, or some API based [[Content Management]] system.
 >
 > **[3:50](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/collections-in-jigsaw?u=76281980&t=230)** Check out the official jigsaw documentation for more details.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jigsaw]] (3), [[PHP]] (2), api (2), [[Microsoft Word|Word]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (3), [[PHP]] (2), [[Microsoft Word|Word]] (1), [[Fetch]] (1), [[Content Management]] (1)
 > **Env Vars:** php (2), api (2)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** for example (2), such as (1)
@@ -911,16 +901,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** getting started (1)
 
-#### Event listeners in Jigsaw
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980)
+#### [Event listeners in Jigsaw](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980&t=0)** - Another exciting feature that you saw first is the different way we can hook into various points of the build by using Event Listeners.
 >
-> **[0:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980&t=8)** Event Listeners is a PHP callable, which expects to be passed into an event.
+> **[0:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980&t=8)** Event Listeners is a [[PHP]] callable, which expects to be passed into an event.
 >
-> **[0:13](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980&t=13)** Jigsaw provides three events we can hook into with our custom code.
+> **[0:13](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980&t=13)** [[Jigsaw]] provides three events we can hook into with our custom code.
 >
 > **[0:17](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980&t=17)** The beforeBuild event is fired before any source file have been processed.
 >
@@ -938,7 +927,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980&t=66)** However, there are many other listeners we can create.
 >
-> **[1:09](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980&t=69)** A popular use case is to create an event listener that would use the afterCollection hook to generate the estimated reading time, or a listener to process images, minify html, or basically any action we may want to do at various points of the build process.
+> **[1:09](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980&t=69)** A popular use case is to create an event listener that would use the afterCollection hook to generate the estimated reading time, or a listener to process images, minify [[HTML]], or basically any action we may want to do at various points of the build process.
 >
 > **[1:25](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/event-listeners-in-jigsaw?u=76281980&t=85)** If you want to learn more about Event Listeners, check out the Jigsaw Documentation.
 >
@@ -946,7 +935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Jigsaw]] (2), feature (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Jigsaw]] (2), [[HTML]] (1)
 > **Code Identifiers:** afterbuild (3), aftercollection (2), beforebuild (1)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2)
@@ -955,8 +944,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - another (1)
 
-#### Challenge: Adding content and customizing Jigsaw
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-adding-content-and-customizing-jigsaw?u=76281980)
+#### [Challenge: Adding content and customizing Jigsaw](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-adding-content-and-customizing-jigsaw?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,7 +952,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-adding-content-and-customizing-jigsaw?u=76281980&t=5)** - [Instructor] Welcome to our next challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-adding-content-and-customizing-jigsaw?u=76281980&t=7)** In this challenge, I'm going to ask you to create a new page in your Hello Jigsaw project that you created last time.
+> **[0:07](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-adding-content-and-customizing-jigsaw?u=76281980&t=7)** In this challenge, I'm going to ask you to create a new page in your Hello [[Jigsaw]] project that you created last time.
 >
 > **[0:14](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-adding-content-and-customizing-jigsaw?u=76281980&t=14)** Create an about page with some content about yourself or the website you are creating.
 >
@@ -988,7 +976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jigsaw]] (2), css (2)
+> **Frameworks & Libraries:** [[Jigsaw]] (2)
 > **Env Vars:** css (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -997,8 +985,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat instrumental music) (1)
 
-#### Solution: Adding content and customizing Jigsaw
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980)
+#### [Solution: Adding content and customizing Jigsaw](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1008,7 +995,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=13)** This is how I did it.
 >
-> **[0:14](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=14)** Here is my Jigsaw project open in the text editor.
+> **[0:14](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=14)** Here is my [[Jigsaw]] project open in the text editor.
 >
 > **[0:18](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=18)** Because the "about page" will be a top-level page, I'll create a Markdown file in the source directory.
 >
@@ -1036,7 +1023,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=100)** I'm going to save the file and see if I can display it in the browser.
 >
-> **[1:44](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=104)** Since the lot of our Mix-Jigsaw plugin doesn't register newly created files inside the source directory, I'm going to have to restart the npm brandwatch process.
+> **[1:44](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=104)** Since the lot of our Mix-Jigsaw plugin doesn't register newly created files inside the source directory, I'm going to have to restart the [[npm]] brandwatch process.
 >
 > **[1:56](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=116)** I haven't added it to the navigation yet, but the page should be accessible at the /about URL.
 >
@@ -1058,7 +1045,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=162)** It's really clever how the default concept of the Docs Template is the Docs Documentation.
 >
-> **[2:47](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=167)** It says that the menu is defined in certain array in the navigation.php file.
+> **[2:47](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=167)** It says that the menu is defined in certain array in the navigation.[[PHP]] file.
 >
 > **[2:58](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-adding-content-and-customizing-jigsaw?u=76281980&t=178)** So I'm going to open this file and add my "about" page there.
 >
@@ -1130,14 +1117,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Netlify introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980)
+#### [Netlify introduction](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=0)** - Deploying a static degenerated site could not be easier.
 >
-> **[0:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=4)** There are many free services that allow us to deploy a Jigsaw project for free such as Vercel, GitHub Pages or Netlify.
+> **[0:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=4)** There are many free services that allow us to deploy a [[Jigsaw]] project for free such as Vercel, [[GitHub]] Pages or Netlify.
 >
 > **[0:13](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=13)** In this course, we will deploy a Jigsaw site using Netlify.
 >
@@ -1145,13 +1131,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=21)** It's a really useful service and a great one to have your technical knowledge toolbox.
 >
-> **[0:27](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=27)** Netlify is a cloud computing company that offers hosting and serverless backend services.
+> **[0:27](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=27)** Netlify is a [[Cloud Computing]] company that offers hosting and serverless backend services.
 >
 > **[0:32](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=32)** It offers a very streamlined way to host and deploy your projects, and once it's up, you can pretty much forget about it.
 >
 > **[0:40](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=40)** To explore Netlify, let's create a new account first.
 >
-> **[0:44](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=44)** You can sign up at any of the following options, GitHub, GitLab, BitBucket or email.
+> **[0:44](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=44)** You can sign up at any of the following options, GitHub, GitLab, [[Bitbucket]] or email.
 >
 > **[0:50](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980&t=50)** For the purposes of this course, we will sign up using it GitHub.
 >
@@ -1185,7 +1171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), [[Jigsaw]] (2), cloud (1), [[Bitbucket]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Jigsaw]] (2), [[Cloud Computing]] (1), [[Bitbucket]] (1)
 > **Tools:** github (7), gitlab (1), bitbucket (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
@@ -1194,14 +1180,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - deploying (1)
 
-#### Uploading Jigsaw website to GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980)
+#### [Uploading Jigsaw website to GitHub](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980&t=0)** - [Tutor] Now that we have a Netlify account set up, we are ready to upload our project to GitHub.
+> **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980&t=0)** - [Tutor] Now that we have a Netlify account set up, we are ready to upload our project to [[GitHub]].
 >
-> **[0:05](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980&t=5)** There are many fantastic Git tutorials in the LinkedIn learning library, so I won't spend too much time explaining what it is and how to use it.
+> **[0:05](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980&t=5)** There are many fantastic [[Git]] tutorials in the [[LinkedIn]] learning library, so I won't spend too much time explaining what it is and how to use it.
 >
 > **[0:12](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980&t=12)** Feel free to visit any of these tutorials, if you need to learn more or just to refresh your knowledge.
 >
@@ -1231,7 +1216,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980&t=73)** Let's go to [github.com](https://github.com), login and go to create a new repository.
 >
-> **[1:18](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980&t=78)** Let's give it a name, jigsaw blog.
+> **[1:18](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980&t=78)** Let's give it a name, [[Jigsaw]] blog.
 >
 > **[1:21](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/uploading-jigsaw-website-to-github?u=76281980&t=81)** We can make it public or private, it doesn't matter in this case.
 >
@@ -1265,7 +1250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (16), [[GitHub]] (3), next (2), [[LinkedIn]] (1), [[Jigsaw]] (1)
+> **Frameworks & Libraries:** [[Git]] (16), [[GitHub]] (3), [[LinkedIn]] (1), [[Jigsaw]] (1)
 > **CLI Commands:** git (16), make (2)
 > **Tools:** terminal (4), github (3)
 > **Env Vars:** readme (1), readmea (1)
@@ -1274,26 +1259,25 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [tutor] (1)
 
-#### Deploying Jigsaw website to Netlify
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980)
+#### [Deploying Jigsaw website to Netlify](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=0)** - [Instructor] We have done all this work to prepare our project to be deployed to Netlify.
 >
-> **[0:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=4)** The files are in GitHub, our Netlify account is ready, so let's do it.
+> **[0:04](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=4)** The files are in [[GitHub]], our Netlify account is ready, so let's do it.
 >
-> **[0:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=8)** From our Netlify dashboard, click on new site from Git.
+> **[0:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=8)** From our Netlify dashboard, click on new site from [[Git]].
 >
 > **[0:12](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=12)** Next we need to choose our Git provider which is GitHub, and then select the correct repository.
 >
 > **[0:19](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=19)** The branch is main.
 >
-> **[0:21](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=21)** The build command will be npm run prod and the publish directory will be build_production.
+> **[0:21](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=21)** The build command will be [[npm]] run prod and the publish directory will be build_production.
 >
 > **[0:28](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=28)** You might wonder why is this build command npm run prod?
 >
-> **[0:33](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=33)** If you remember early in the course, I said it before we can view our website, we need to build it by running ./vendor/bin/jigsaw build staging or build production.
+> **[0:33](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=33)** If you remember early in the course, I said it before we can view our website, we need to build it by running ./vendor/bin/[[Jigsaw]] build staging or build production.
 >
 > **[0:46](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=46)** This command will create the build_staging or the build_production directory, which will then be deployed.
 >
@@ -1301,7 +1285,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=61)** Very convenient.
 >
-> **[1:03](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=63)** Now we need to click on show advanced and add a key PHP version with the value 7.4.
+> **[1:03](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=63)** Now we need to click on show advanced and add a key [[PHP]] version with the value 7.4.
 >
 > **[1:10](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/deploying-jigsaw-website-to-netlify?u=76281980&t=70)** And, we are finally ready to click deploy site.
 >
@@ -1359,7 +1343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (2), next (2), [[npm]] (2), [[PHP]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (2), [[npm]] (2), [[PHP]] (2), [[Jigsaw]] (1)
 > **CLI Commands:** make (3), git (2), npm (2), php (2), find (1)
 > **UI Navigation:** click on (7), select the (1), go to (1)
 > **Env Vars:** php (2), url (1), dns (1)
@@ -1368,16 +1352,15 @@ created: 2026-05-02
 > **File Paths:** netlify.toml (3)
 > **Code Identifiers:** build_production (2), build_staging (1)
 
-#### Challenge: Deploying a Jigsaw project to Netlify
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-deploying-a-jigsaw-project-to-netlify?u=76281980)
+#### [Challenge: Deploying a Jigsaw project to Netlify](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-deploying-a-jigsaw-project-to-netlify?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-deploying-a-jigsaw-project-to-netlify?u=76281980&t=0)** - [Instructor] Welcome to the last challenge of this course.
 >
-> **[0:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-deploying-a-jigsaw-project-to-netlify?u=76281980&t=8)** In this challenge, you're going to get to test your knowledge of how to deploy Jigsaw site to Netlify.
+> **[0:08](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-deploying-a-jigsaw-project-to-netlify?u=76281980&t=8)** In this challenge, you're going to get to test your knowledge of how to deploy [[Jigsaw]] site to Netlify.
 >
-> **[0:13](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-deploying-a-jigsaw-project-to-netlify?u=76281980&t=13)** Take the project from the last challenge, initialize it with git, upload the project files to a brand new repository on GitHub and deploy it to Netlify.
+> **[0:13](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-deploying-a-jigsaw-project-to-netlify?u=76281980&t=13)** Take the project from the last challenge, initialize it with [[Git]], upload the project files to a brand new repository on [[GitHub]] and deploy it to Netlify.
 >
 > **[0:22](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/challenge-deploying-a-jigsaw-project-to-netlify?u=76281980&t=22)** It's up to you if you choose to add the build's details via Netlify's UI over the netlify.toml file.
 >
@@ -1399,7 +1382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Jigsaw]] (2), [[Git]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Jigsaw]] (2), [[Git]] (1)
 > **Tools:** github (3)
 > **Cross-References:** go back to (1), in the next (1)
 > **File Paths:** netlify.toml (1)
@@ -1408,8 +1391,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Deploying a Jigsaw project to Netlify
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980)
+#### [Solution: Deploying a Jigsaw project to Netlify](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1429,13 +1411,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980&t=27)** These comments never change, so copy and paste them, and it's quite safe.
 >
-> **[0:32](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980&t=32)** Now I'm going to run "git init" to initialize Git.
+> **[0:32](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980&t=32)** Now I'm going to run "[[Git]] init" to initialize Git.
 >
 > **[0:35](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980&t=35)** Then, I'll run "git add ." to add all the files and "git commit -m 'ready to deploy'" to commit everything.
 >
-> **[0:43](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980&t=43)** Next, I'm going to go to my GitHub account and create a new repository.
+> **[0:43](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980&t=43)** Next, I'm going to go to my [[GitHub]] account and create a new repository.
 >
-> **[0:47](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980&t=47)** I'll call it "hello-jigsaw" and set it to private.
+> **[0:47](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980&t=47)** I'll call it "hello-[[Jigsaw]]" and set it to private.
 >
 > **[0:52](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/solution-deploying-a-jigsaw-project-to-netlify?u=76281980&t=52)** I'm going to return back to the terminal and finish setting up the Git credentials.
 >
@@ -1475,7 +1457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (8), [[GitHub]] (2), next (1), [[Jigsaw]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Git]] (8), [[GitHub]] (2), [[Jigsaw]] (1)
 > **CLI Commands:** git (8), make (3)
 > **Tools:** terminal (4), github (2)
 > **UI Navigation:** go to (2), open the (1), click on (1)
@@ -1488,14 +1470,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=0)** - [Zuzana] This brings us to the end of this course.
 >
-> **[0:02](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=2)** By completing this course, you now have a foundation understanding of what Jigsaw is, how to use it, and how to deploy it to Netlify.
+> **[0:02](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=2)** By completing this course, you now have a foundation understanding of what [[Jigsaw]] is, how to use it, and how to deploy it to Netlify.
 >
 > **[0:10](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=10)** This is a great starting point, but there is so much more you can do with Jigsaw.
 >
@@ -1507,13 +1488,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=31)** And that's all from me.
 >
-> **[0:33](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=33)** You can connect with me on Twitter, or you can fall Larabelles, the community for women, non-binary and trans Laravel developers, either on Twitter or on LinkedIn.
+> **[0:33](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=33)** You can connect with me on Twitter, or you can fall Larabelles, the community for women, non-binary and trans [[Laravel]] developers, either on Twitter or on [[LinkedIn]].
 >
 > **[0:42](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=42)** Thank you for watching and have fun building websites which Jigsaw.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jigsaw]] (5), cms (1), [[Laravel]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (5), [[Laravel]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cms (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)

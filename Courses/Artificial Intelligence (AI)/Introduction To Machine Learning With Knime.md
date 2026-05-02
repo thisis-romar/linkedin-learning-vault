@@ -97,18 +97,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Open-source machine learning with KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980)
+#### [Open-source machine learning with KNIME](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980&t=0)** - Almost every day, I'm doing some kind of work in predictive analytics, whether it's consulting with my clients, leading seminars at analytics conferences, or software training.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980&t=0)** - Almost every day, I'm doing some kind of work in [[Predictive Analytics]], whether it's consulting with my clients, leading seminars at analytics conferences, or software training.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980&t=10)** In my work, I encounter dozens of different software options, so many, that it's hard to keep track.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980&t=16)** KNIME is a popular open source option that is very easy to learn.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980&t=16)** [[Knime]] is a popular open source option that is very easy to learn.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980&t=20)** It offers just about all the functions you could ever need natively, but for that rare function that isn't available, you can always use R and Python right in KNIME.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980&t=20)** It offers just about all the functions you could ever need natively, but for that rare function that isn't available, you can always use R and [[Python (Programming Language)|Python]] right in KNIME.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980&t=30)** I'm Keith McCormick, and I've been doing predictive analytics for more than 20 years now.
 >
@@ -120,32 +119,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive Analytics]] (3), [[Knime]] (3), [[Analytics]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (3), [[Knime]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** knime (3)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - almost (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=0)** - So, who should consider learning KNIME?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=0)** - So, who should consider learning [[Knime]]?
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=3)** If you're a student of data science and predictive analytics, you'll need a tool that's easy enough to use that you can focus on practicing data exploration and predictive modeling without getting stuck.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=3)** If you're a student of [[Data Science]] and [[Predictive Analytics]], you'll need a tool that's easy enough to use that you can focus on practicing data exploration and [[Predictive Modeling]] without getting stuck.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=14)** So if you're trying to teach yourself regression, decision trees, clustering ensembles, or almost anything else, you can start in KNIME.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=14)** So if you're trying to teach yourself regression, [[Decision Trees]], clustering ensembles, or almost anything else, you can start in KNIME.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=22)** Another group are practitioners that need an easy to use, open-source option because their workplaces are still sorting out what tools to use.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=31)** My advice is, you don't need to wait for some official decision.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=35)** Start practicing and start prototyping.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=35)** Start practicing and start [[Prototyping]].
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=38)** Also, team leaders that have a diverse team.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=41)** It can actually be a powerful way of combining the contributions of multiple team members, even if some use R, some use Python, and others are rookies and haven't really mastered a tool yet.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=41)** It can actually be a powerful way of combining the contributions of multiple team members, even if some use R, some use [[Python (Programming Language)|Python]], and others are rookies and haven't really mastered a tool yet.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=53)** Finally, you might be someone like me.
 >
@@ -163,9 +161,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=82)** To appreciate KNIME, you'll have to have a big picture sense of what predictive modeling is all about.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=88)** So, if you're brand new to the field, you might want to check out my course, Essential Elements of Data Mining and Predictive Analytics.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=88)** So, if you're brand new to the field, you might want to check out my course, Essential Elements of [[Data Mining]] and Predictive Analytics.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=95)** This would be especially helpful if you're never heard of CRISP-DM, the cross-industry standard process of data mining, because I'm going to mention it from time to time in the course.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=95)** This would be especially helpful if you're never heard of [[CRISP-DM]], the cross-industry standard process of data mining, because I'm going to mention it from time to time in the course.
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=104)** Also, if you're truly starting from scratch and you've never built a predictive model before, you'll probably want to check out at least a little bit of theory.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=138)** Just go to [knime.com](https://knime.com) and you'll be able to find good support for multiple platforms, including video support.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=146)** Okay, now, there's going to be one lesson where we're going to be using R, so I'm going to encourage you to install RStudio and that will allow you to do that lesson.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=146)** Okay, now, there's going to be one lesson where we're going to be using R, so I'm going to encourage you to install [[RStudio]] and that will allow you to do that lesson.
 >
 > **[2:38](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/who-is-this-course-for?u=76281980&t=158)** What we're going to be discovering is that you can use R code right within KNIME.
 >
@@ -193,7 +191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (9), data (5), [[Predictive Analytics]] (2), [[Predictive Modeling]] (2), [[Decision Trees]] (2)
+> **Frameworks & Libraries:** [[Knime]] (9), [[Data Science]] (2), [[Predictive Analytics]] (2), [[Predictive Modeling]] (2), [[Decision Trees]] (2)
 > **Env Vars:** knime (8), crisp (1)
 > **Prerequisites:** install (3), you'll need (1), set up (1), before you begin (1)
 > **CLI Commands:** python (1), find (1)
@@ -207,14 +205,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use an Analytics Workbench?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980)
+#### [Why use an Analytics Workbench?](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=1)** - So why use an Analytics Workbench?
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=5)** Most analysts and their managers divide advanced analytics choices into just two buckets, tools with graphical user interfaces and coding, notably of course R and Python.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=5)** Most analysts and their managers divide advanced analytics choices into just two buckets, tools with graphical user interfaces and coding, notably of course R and [[Python (Programming Language)|Python]].
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=18)** And survey show that most analysts do indeed learn some R or Python along the way.
 >
@@ -232,9 +229,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=70)** So what's the solution?
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=72)** Well, there is good reason that some are worried about fancy graphical user interfaces, they're often associated with analytics tools that are largely automated and that can be used by business users that haven't learned about data science and predictive analytics.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=72)** Well, there is good reason that some are worried about fancy graphical user interfaces, they're often associated with analytics tools that are largely automated and that can be used by business users that haven't learned about [[Data Science]] and [[Predictive Analytics]].
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=88)** The marketplace is still sorting out the role of these tools and vendors are still working to make automated machine learning a reality.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=88)** The marketplace is still sorting out the role of these tools and vendors are still working to make [[Automated Machine Learning (AutoML)|automated machine learning]] a reality.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=96)** We'll leave that debate for another time.
 >
@@ -248,11 +245,11 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=138)** In fact, routine data prep was the inspiration for the first workbench-style interface, which was developed almost 30 years ago.
 >
-> **[2:27](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=147)** Colin Shearer, who designed the very first workbench, described it this way, "We were finding that data mining projects involved a lot of hard work, and that most of that work was boring.
+> **[2:27](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=147)** Colin Shearer, who designed the very first workbench, described it this way, "We were finding that [[Data Mining]] projects involved a lot of hard work, and that most of that work was boring.
 >
-> **[2:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=159)** Unearthing significant patterns and delivering accurate predictions, that part was fun, but most of our effort went on mundane tasks, such as manipulating data into the formats required by the various modules and algorithms we applied".
+> **[2:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=159)** Unearthing significant patterns and delivering accurate predictions, that part was fun, but most of our effort went on mundane tasks, such as manipulating data into the formats required by the various modules and [[Algorithms]] we applied".
 >
-> **[2:54](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=174)** So that's why an option like KNIME makes so much sense.
+> **[2:54](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=174)** So that's why an option like [[Knime]] makes so much sense.
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980&t=178)** It eliminates or at least speeds up the boring tasks, yet it's essentially self-documenting and because the flowchart is easy for anyone to read when it comes time to deploy you've got a well-documented production-ready process.
 >
@@ -260,19 +257,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), [[Python (Programming Language)|Python]] (4), data (4), [[Knime]] (2), business (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Knime]] (2), [[Data Science]] (1), [[Predictive Analytics]] (1), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Env Vars:** knime (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - so (1)
 
-#### Using CRISP-DM to evaluate tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980)
+#### [Using CRISP-DM to evaluate tools](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=0)** - [Instructor] Okay, we're going to keep organized by using CRISP-DM, the Cross-industry standard process for data mining to be a structure by which we can move to the various nodes within KNIME, and I think it's actually a fabulous way to evaluate software like KNIME.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=0)** - [Instructor] Okay, we're going to keep organized by using [[CRISP-DM]], the Cross-industry standard process for [[Data Mining]] to be a structure by which we can move to the various nodes within [[Knime]], and I think it's actually a fabulous way to evaluate software like KNIME.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=20)** How good a job we might ask does it do at all the different tasks?
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=52)** Now we're going to stay focused on those tasks that are software oriented.
 >
-> **[0:58](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=58)** Data understanding, data preparation, and modeling.
+> **[0:58](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=58)** Data understanding, [[Data Preparation]], and modeling.
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=62)** Now clearly we're also very focused on deployment, but as you can see, some of the deployment tasks are not really software related, like producing the final report and so on.
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=96)** So the first task in the data understanding phase is collect initial data, which includes data loading, so we're going to see the final reader node.
 >
-> **[1:47](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=107)** But additional tasks in the data understanding phase include describe data and verify data quality, and the data explorer node is going to help us with that.
+> **[1:47](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=107)** But additional tasks in the data understanding phase include describe data and verify [[Data Quality]], and the data explorer node is going to help us with that.
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=117)** But we're also going to do some data visualizations, specifically the scatter plot node and the box plot node.
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=143)** This is of course an important task, so we're going to be doing merging with a joiner node and aggregation with the groupby node.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=152)** Additional data preparation tasks include construction, and lately folks have been talking about this kind of thing as feature engineering.
+> **[2:32](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=152)** Additional data preparation tasks include construction, and lately folks have been talking about this kind of thing as [[Feature Engineering]].
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=160)** We're going to do just a simple example with the math formula node, but data construction is what is often called these days feature engineering.
 >
@@ -314,7 +310,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=176)** You know, a lot of folks just try to use all the data, and you actually have to be more thoughtful about that.
 >
-> **[3:03](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=183)** Nodes that will help us control what data is presented to the modeling algorithms are going to include nodes like the column filter node and the row sampling node.
+> **[3:03](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=183)** Nodes that will help us control what data is presented to the modeling [[Algorithms]] are going to include nodes like the column filter node and the row sampling node.
 >
 > **[3:14](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=194)** In fact, we'll take a quick peak at balancing.
 >
@@ -322,7 +318,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=206)** Finally, we'll correct some formatting issues with the cell splitter node.
 >
-> **[3:31](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=211)** Moving on to the modeling phase, we're going to see how to do train test partitioning with the partitioning node, and we'll do a linear regression example.
+> **[3:31](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=211)** Moving on to the modeling phase, we're going to see how to do train test partitioning with the partitioning node, and we'll do a [[Linear Regression]] example.
 >
 > **[3:40](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/using-crisp-dm-to-evaluate-tools?u=76281980&t=220)** Then we'll do a decision tree example, also with partitioning, but showing the ROC curve node as well as the scorer node.
 >
@@ -334,19 +330,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), node (15), [[CRISP-DM]] (6), [[Knime]] (6), [[Feature Engineering]] (2)
+> **Frameworks & Libraries:** [[CRISP-DM]] (6), [[Knime]] (6), [[Data Preparation]] (3), [[Feature Engineering]] (2), [[Data Mining]] (1)
 > **CLI Commands:** node (15), find (4)
 > **Env Vars:** crisp (6), knime (6), roc (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why choose KNIME?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980)
+#### [Why choose KNIME?](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=0)** - [Instructor] So with the dozens, if not hundreds, of options, why choose KNIME?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=0)** - [Instructor] So with the dozens, if not hundreds, of options, why choose [[Knime]]?
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=5)** Let's first talk a little bit about my general advice on picking an analytics tool.
 >
@@ -382,7 +377,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=103)** I want to tell you a bit about what I look for personally in analytics tools.
 >
-> **[1:48](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=108)** Certainly one of the things that you know that I would emphasize is good support for all the phases and tasks of CRISP-DM.
+> **[1:48](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=108)** Certainly one of the things that you know that I would emphasize is good support for all the phases and tasks of [[CRISP-DM]].
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=115)** Since I know that good projects are going to hit all those phases, and tasks, I want to make sure that I have software support for each.
 >
@@ -394,11 +389,11 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=147)** It should be quick to prototype and try things.
 >
-> **[2:30](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=150)** One of the things that I love about KNIME is that as someone that consults most of the year, but also leads seminars, I need a way that I can demonstrate something like a decision tree, and only spend 10 or 15 minutes getting everybody comfortable with the software, and then spend our time on decision trees, not on pointing and clicking, or on code, you see, so it can be very helpful to me.
+> **[2:30](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=150)** One of the things that I love about KNIME is that as someone that consults most of the year, but also leads seminars, I need a way that I can demonstrate something like a decision tree, and only spend 10 or 15 minutes getting everybody comfortable with the software, and then spend our time on [[Decision Trees]], not on pointing and clicking, or on code, you see, so it can be very helpful to me.
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=171)** Also, I'm looking for things that are both customizable, yet also play well with others.
 >
-> **[2:57](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=177)** So compatibility with things like R and Python is terribly important.
+> **[2:57](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=177)** So compatibility with things like R and [[Python (Programming Language)|Python]] is terribly important.
 >
 > **[3:02](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-choose-knime?u=76281980&t=182)** Want to comment just a little bit on what Gartner has to say about KNIME, they rate it quite highly.
 >
@@ -432,7 +427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (13), [[Analytics]] (3), next (1), [[CRISP-DM]] (1), hit (1)
+> **Frameworks & Libraries:** [[Knime]] (13), [[CRISP-DM]] (1), [[Decision Trees]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** knime (13), crisp (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [instructor] (1)
@@ -442,18 +437,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The KNIME interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980)
+#### [The KNIME interface](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=0)** - [Instructor] Okay, let's launch KNIME.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=0)** - [Instructor] Okay, let's launch [[Knime]].
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=2)** This is just a default location.
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=4)** I haven't changed a thing since I installed it.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=9)** Okay, when you first look at KNIME so many windows pop up that it might be slightly overwhelming at first.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=9)** Okay, when you first look at KNIME so many [[Windows]] pop up that it might be slightly overwhelming at first.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=15)** But let's take a quick look.
 >
@@ -469,7 +463,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=39)** So for instance, under iO we have ways to read and write, including numerous ways to read in data.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=46)** We also see that under analytics we have statistical functions, we have data mining functions, and if you go into one, let's say, like Naive Bayes Learner, then help will pop up in the upper-right-hand side.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=46)** We also see that under analytics we have statistical functions, we have [[Data Mining]] functions, and if you go into one, let's say, like Naive Bayes Learner, then help will pop up in the upper-right-hand side.
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980&t=63)** But what I'm going to show you is probably the easiest way of all to start.
 >
@@ -487,7 +481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (3), data (2), [[Windows]] (1), node (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Knime]] (3), [[Windows]] (1), [[Data Mining]] (1)
 > **Env Vars:** knime (3)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** node (1)
@@ -495,8 +489,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find case studies on the Examples Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/find-case-studies-on-the-examples-server?u=76281980)
+#### [Find case studies on the Examples Server](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/find-case-studies-on-the-examples-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/find-case-studies-on-the-examples-server?u=76281980&t=33)** Double click on that, and then let's maximize it.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/find-case-studies-on-the-examples-server?u=76281980&t=37)** Okay, so now I want to zero in on a little bit on how to read this traffic light feature that Knime has.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/find-case-studies-on-the-examples-server?u=76281980&t=37)** Okay, so now I want to zero in on a little bit on how to read this traffic light feature that [[Knime]] has.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/find-case-studies-on-the-examples-server?u=76281980&t=45)** You'll notice over here on the file reader there's a yellow dot below.
 >
@@ -536,7 +529,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/find-case-studies-on-the-examples-server?u=76281980&t=88)** This, as you may recognize, is the famous Iris data set that has been used for decades as a practice data set.
 >
-> **[1:36](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/find-case-studies-on-the-examples-server?u=76281980&t=96)** I'll close that, and let's take a closer look at the rest of the example.
+> **[1:36](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/find-case-studies-on-the-examples-server?u=76281980&t=96)** I'll close that, and let's take a closer look at the [[Representational State Transfer (REST)|rest]] of the example.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/find-case-studies-on-the-examples-server?u=76281980&t=99)** We see the same yellow symbol in many circumstances.
 >
@@ -552,21 +545,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Knime]] (2), [[Analytics]] (1), traffic (1), feature (1)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### The KNIME Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-hub?u=76281980)
+#### [The KNIME Hub](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-hub?u=76281980&t=1)** - [Instructor] Okay, so the example server is a great way to access lots of worked-out examples, but there's another way as well, and it's powerful.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-hub?u=76281980&t=10)** It's the KNIME Community Hub, so I'm on my browser right now looking at the webpage for the KNIME Community Hub, and you can see that as of today there's over 15,000 workflows that you can practice with and to get examples from.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-hub?u=76281980&t=10)** It's the [[Knime]] Community Hub, so I'm on my browser right now looking at the webpage for the KNIME Community Hub, and you can see that as of today there's over 15,000 workflows that you can practice with and to get examples from.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-hub?u=76281980&t=27)** I'm going to go ahead and search for myself, which I've done recently, so it's in Recent searches, and you can see that I've got, as of this moment, a couple dozen workflows, but I'm going to click on the icon for me 'cause I want you to see it from this standpoint.
 >
@@ -590,7 +582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (9), feature (2), [[Search]] (1), web (1)
+> **Frameworks & Libraries:** [[Knime]] (9)
 > **Env Vars:** knime (9)
 > **UI Navigation:** click on (3), drag and drop (1), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -599,8 +591,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Add thousands of nodes with Extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/add-thousands-of-nodes-with-extensions?u=76281980)
+#### [Add thousands of nodes with Extensions](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/add-thousands-of-nodes-with-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,7 +601,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/add-thousands-of-nodes-with-extensions?u=76281980&t=10)** Might seem like an obvious thing, but there are hundreds and hundreds of nodes that get installed if you install extensions, that otherwise you wouldn't have access to.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/add-thousands-of-nodes-with-extensions?u=76281980&t=20)** So, I've worked with a number of folks in KNIME, and sometimes they'll see a fantastic example on the web, they'll go to do it, perhaps even searching for the node, for instance, there's a lot of things that use java script and then they sometimes won't find a particular node, so, this is actually a really important trick.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/add-thousands-of-nodes-with-extensions?u=76281980&t=20)** So, I've worked with a number of folks in [[Knime]], and sometimes they'll see a fantastic example on the web, they'll go to do it, perhaps even searching for the node, for instance, there's a lot of things that use [[Java]] script and then they sometimes won't find a particular node, so, this is actually a really important trick.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/add-thousands-of-nodes-with-extensions?u=76281980&t=39)** So what you want to do is go to File, Install KNIME extensions, notice you can also update KNIME.
 >
@@ -644,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (5), node (2), next (2), web (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Knime]] (5), [[Java]] (1)
 > **UI Navigation:** go to (4), click on (3), scroll down (1)
 > **Env Vars:** knime (5), url (1)
 > **CLI Commands:** node (2), find (1), make (1)
@@ -653,8 +644,7 @@ created: 2026-05-02
 > **URLs:** [downloadnotepit.com](https://downloadnotepit.com) (1)
 > **Versions:** 3.7 (1)
 
-#### Search and Help
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/search-and-help?u=76281980)
+#### [Search and Help](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/search-and-help?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -664,7 +654,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/search-and-help?u=76281980&t=9)** How am I going to find things?
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/search-and-help?u=76281980&t=12)** Well, two folders in particular that I want to draw your attention to are the Community Nodes and the KNIME Labs.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/search-and-help?u=76281980&t=12)** Well, two folders in particular that I want to draw your attention to are the Community Nodes and the [[Knime]] Labs.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/search-and-help?u=76281980&t=21)** So, remember that since we selected that we wanted to include these as part of our updates, KNIME will always be searching for new community nodes and KNIME labs as long as we've given it permission to install those kinds of extensions.
 >
@@ -672,7 +662,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/search-and-help?u=76281980&t=44)** All kinds of things, even ESRI mapping, Shapefiles, and so on.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/search-and-help?u=76281980&t=50)** And then, under the KNIME Labs, again a huge variety, including things like JavaScript Views, and Deep Learning.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/search-and-help?u=76281980&t=50)** And then, under the KNIME Labs, again a huge variety, including things like [[JavaScript]] Views, and [[Deep Learning]].
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/search-and-help?u=76281980&t=60)** But how are you going to find what you need because there really are a lot of them, in fact more than 2,500 at current count.
 >
@@ -690,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (6), prompt (1), [[JavaScript]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Knime]] (6), [[JavaScript]] (1), [[Deep Learning]] (1)
 > **Env Vars:** knime (6), esri (1), crisp (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for instance (2)
@@ -703,8 +693,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980)
+#### [Accessing data](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,7 +701,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980&t=4)** So naturally one place that we might look is to go to the IO folder here and specifically to read and we see that we have a number of choices.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980&t=15)** The things is though, if you're new to KNIME, should you be using let's say a file reader or a table reader?
+> **[0:15](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980&t=15)** The things is though, if you're new to [[Knime]], should you be using let's say a file reader or a table reader?
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980&t=23)** So let's take a quick look at the two descriptions and we see that the file reader node, I'm going to get the console out of the way so we can see this more clearly.
 >
@@ -724,7 +713,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980&t=78)** Let's say for instance you have somewhat more exotic needs.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980&t=81)** Let's say for instance you're doing some text mining.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980&t=81)** Let's say for instance you're doing some [[Text Mining]].
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980&t=83)** Well if I start to type text, I actually find there's all kinds of cool things.
 >
@@ -748,15 +737,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Knime]] (4), node (3), [[Text Mining]] (1), next (1)
+> **Frameworks & Libraries:** [[Knime]] (4), [[Text Mining]] (1)
 > **UI Navigation:** go to (6), click on (2)
 > **Env Vars:** knime (4), pdf (1)
 > **CLI Commands:** node (3), find (1)
 > **Analogies:** for instance (4)
 > **Speakers:** - [instructor] (1)
 
-#### File reader node
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980)
+#### [File reader node](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -796,9 +784,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980&t=87)** They're actually extremely important.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980&t=89)** As hopefully you know, level of measurement, whether or not a variable is nominal, ordinal or scale, is terribly important in data science and predictive analytics.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980&t=89)** As hopefully you know, level of measurement, whether or not a variable is nominal, ordinal or scale, is terribly important in [[Data Science]] and [[Predictive Analytics]].
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980&t=101)** The way that it works though in KNIME is that you have to know the following trick.
+> **[1:41](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980&t=101)** The way that it works though in [[Knime]] is that you have to know the following trick.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980&t=106)** If you want to declare a number as a nominal variable, you have to declare it as a string here in the File Reader.
 >
@@ -820,7 +808,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980&t=161)** So, I want to declare that as a string as well.
 >
-> **[2:44](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980&t=164)** This absolutely will affect your modeling algorithms and other things in KNIME.
+> **[2:44](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980&t=164)** This absolutely will affect your modeling [[Algorithms]] and other things in KNIME.
 >
 > **[2:50](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/file-reader-node?u=76281980&t=170)** So, it's terrible important that you do this.
 >
@@ -850,7 +838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Knime]] (5), node (3), [[Predictive Analytics]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Knime]] (5), [[Data Science]] (1), [[Predictive Analytics]] (1), [[Algorithms]] (1)
 > **Env Vars:** knime (5)
 > **CLI Commands:** node (3)
 > **UI Navigation:** click on (3)
@@ -859,14 +847,13 @@ created: 2026-05-02
 > **File Paths:** train.csv (1)
 > **Exercise Files:** exercise files (1)
 
-#### Database access with KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980)
+#### [Database access with KNIME](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=1)** - [Instructor] Okay, we're going to talk about the numerous database nodes that are supported in Knime.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=1)** - [Instructor] Okay, we're going to talk about the numerous database nodes that are supported in [[Knime]].
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=11)** Now we're going to demonstrate just one of them, and it's going to be a very simple example, but it's important, for you to know that numerous database nodes exist, within Knime that should be able to support the databases that you would need.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=11)** Now we're going to demonstrate just one of them, and it's going to be a very simple example, but it's important, for you to know that numerous database nodes exist, within Knime that should be able to support the [[Databases]] that you would need.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=28)** But again, we'll start with a very simple example.
 >
@@ -896,7 +883,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=102)** No problem.
 >
-> **[1:44](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=104)** And now what I want to do is I really want to emphasize, that you can use SQL if you like, or you can just use the menus.
+> **[1:44](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=104)** And now what I want to do is I really want to emphasize, that you can use [[SQL]] if you like, or you can just use the menus.
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=112)** It's up to you.
 >
@@ -912,7 +899,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=147)** And we can hook this up, and I'm going to configure this as well.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=152)** Now notice that we have to know the name of the table, or you know, search the the metadata to find it.
+> **[2:32](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=152)** Now notice that we have to know the name of the table, or you know, search the the [[Metadata]] to find it.
 >
 > **[2:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/database-access-with-knime?u=76281980&t=159)** But I happen to know that the name of the table, is simply called data.
 >
@@ -980,7 +967,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (10), database (9), data (7), [[SQL]] (4), feature (2)
+> **Frameworks & Libraries:** [[Knime]] (10), [[SQL]] (4), [[Databases]] (1), [[Metadata]] (1)
 > **UI Navigation:** click on (6), drag and drop (2), go to (1)
 > **Env Vars:** sql (4), iris (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -993,14 +980,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe data and verify data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980)
+#### [Describe data and verify data quality](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980&t=0)** - Okay, we're going to continue with data understanding tasks.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980&t=5)** In particular, describe data and verify data quality using the data explorer node.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980&t=5)** In particular, describe data and verify [[Data Quality]] using the data explorer node.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980&t=12)** It's going to allow us to tackle both of these tasks, at least in part.
 >
@@ -1012,9 +998,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980&t=40)** So starting with the titanic data, lets go ahead and get the data explorer.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980&t=45)** So I'm just going to start to type in word explorer here, and we can see it.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980&t=45)** So I'm just going to start to type in [[Microsoft Word|word]] explorer here, and we can see it.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980&t=50)** We can see the data explorer, and notice it's under JavaScript View Labs.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980&t=50)** We can see the data explorer, and notice it's under [[JavaScript]] View Labs.
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980&t=57)** So again, you really want to make sure that you're using the extensions and that you're not just searching in the default areas because that's where some of the best nodes are to be found.
 >
@@ -1086,7 +1072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), node (2), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **CLI Commands:** node (2), make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -1094,8 +1080,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - okay (1)
 
-#### Explore data: Scatterplot
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-scatterplot?u=76281980)
+#### [Explore data: Scatterplot](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-scatterplot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1092,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-scatterplot?u=76281980&t=20)** Well, you're going to see that you've got choices.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-scatterplot?u=76281980&t=22)** So, whenever it comes to data visualization and NIME, you're going to want to favor the JavaScript options.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-scatterplot?u=76281980&t=22)** So, whenever it comes to data visualization and NIME, you're going to want to favor the [[JavaScript]] options.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-scatterplot?u=76281980&t=30)** That's really the direction they're going in for the most contemporary look in NIME at the moment.
 >
@@ -1157,7 +1142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (1), [[Search]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** nime (4)
 > **Warnings:** keep in mind (2), warning (1), be careful (1)
 > **CLI Commands:** node (1), find (1)
@@ -1166,8 +1151,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - okay (1)
 
-#### Explore data: Boxplot
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-boxplot?u=76281980)
+#### [Explore data: Boxplot](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-boxplot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1191,7 +1175,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-boxplot?u=76281980&t=52)** Stephen Few is an author who has really specialized in this.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-boxplot?u=76281980&t=56)** And although he doesn't write about KNIME, his graph selection matrix, which you can find on the internet, is extremely helpful for this purpose.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-boxplot?u=76281980&t=56)** And although he doesn't write about [[Knime]], his graph selection matrix, which you can find on the internet, is extremely helpful for this purpose.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-boxplot?u=76281980&t=67)** So since we're focused on KNIME and we're not doing a full data visualization course, we're just going to stick to scatter plot and box plot.
 >
@@ -1199,7 +1183,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-boxplot?u=76281980&t=81)** So here we are in KNIME and I've typed in box, and I find that there's a bunch of choices.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-boxplot?u=76281980&t=87)** I have a regular box plot, and a conditional box plot, both under JavaScript, and then I have some other choices as well, okay.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-boxplot?u=76281980&t=87)** I have a regular box plot, and a conditional box plot, both under [[JavaScript]], and then I have some other choices as well, okay.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/explore-data-boxplot?u=76281980&t=96)** And you're going to want to favor the JavaScript options when you can.
 >
@@ -1243,7 +1227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Knime]] (5), [[JavaScript]] (3)
+> **Frameworks & Libraries:** [[Knime]] (5), [[JavaScript]] (3)
 > **Env Vars:** knime (5)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (1)
@@ -1256,14 +1240,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Merging with the Joiner node
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/merging-with-the-joiner-node?u=76281980)
+#### [Merging with the Joiner node](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/merging-with-the-joiner-node?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/merging-with-the-joiner-node?u=76281980&t=0)** - Okay, we're going to move on to a crisp DM task that is very labor intensive in a real world project.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/merging-with-the-joiner-node?u=76281980&t=8)** We're going to move on to integrate data, which is part of the data preparation phase.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/merging-with-the-joiner-node?u=76281980&t=8)** We're going to move on to integrate data, which is part of the [[Data Preparation]] phase.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/merging-with-the-joiner-node?u=76281980&t=14)** There are numerous functions within Nine to support this, but we're going to start with the joiner node.
 >
@@ -1321,18 +1304,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), node (6), data (2)
+> **Frameworks & Libraries:** [[Data Preparation]] (1)
 > **CLI Commands:** node (6), find (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 
-#### Aggregating with the GroupBy node
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/aggregating-with-the-groupby-node?u=76281980)
+#### [Aggregating with the GroupBy node](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/aggregating-with-the-groupby-node?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/aggregating-with-the-groupby-node?u=76281980&t=0)** - [Instructor] We're going to continue with the same example, demonstrating the Group By node, which is how you do aggregations in KNIME.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/aggregating-with-the-groupby-node?u=76281980&t=0)** - [Instructor] We're going to continue with the same example, demonstrating the Group By node, which is how you do aggregations in [[Knime]].
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/aggregating-with-the-groupby-node?u=76281980&t=9)** Okay, so we need to do Group By.
 >
@@ -1376,23 +1358,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), [[Knime]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Knime]] (1)
 > **CLI Commands:** node (1), find (1)
 > **Env Vars:** knime (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating new variables with Construct
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/creating-new-variables-with-construct?u=76281980)
+#### [Creating new variables with Construct](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/creating-new-variables-with-construct?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/creating-new-variables-with-construct?u=76281980&t=0)** - [Instructor] Moving on to the math formula node.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/creating-new-variables-with-construct?u=76281980&t=2)** So this node is going to be just one example of many, many that we could do of the data construction task of the data preparation phase.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/creating-new-variables-with-construct?u=76281980&t=2)** So this node is going to be just one example of many, many that we could do of the data construction task of the [[Data Preparation]] phase.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/creating-new-variables-with-construct?u=76281980&t=13)** We're going to proceed by adding a formula to our workflow.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/creating-new-variables-with-construct?u=76281980&t=17)** I've been on real world projects where I have hundreds of formulas like this, so if you've heard a lot of talk about so called feature engineering, you know, its basically the whole idea of creating new variables from the variables that you're starting with, although this is a very basic example, it essentially is an example of feature engineering, so let's give it a go.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/creating-new-variables-with-construct?u=76281980&t=17)** I've been on real world projects where I have hundreds of formulas like this, so if you've heard a lot of talk about so called [[Feature Engineering]], you know, its basically the whole idea of creating new variables from the variables that you're starting with, although this is a very basic example, it essentially is an example of feature engineering, so let's give it a go.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/creating-new-variables-with-construct?u=76281980&t=42)** We want the math formula node.
 >
@@ -1438,7 +1419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), data (3), [[Feature Engineering]] (2), next (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (2), [[Data Preparation]] (1)
 > **CLI Commands:** node (8)
 > **Definitions:** is a  (2), essentially is (1)
 > **Analogies:** for instance (2)
@@ -1446,12 +1427,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Select data with Column Filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/select-data-with-column-filter?u=76281980)
+#### [Select data with Column Filter](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/select-data-with-column-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/select-data-with-column-filter?u=76281980&t=0)** - [Narrator] We're going to proceed to the select task of the data preparation phase.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/select-data-with-column-filter?u=76281980&t=0)** - [Narrator] We're going to proceed to the select task of the [[Data Preparation]] phase.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/select-data-with-column-filter?u=76281980&t=5)** Starting with column filter, a bit of house keeping.
 >
@@ -1499,17 +1479,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Balancing data with Row Sampling node
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980)
+#### [Balancing data with Row Sampling node](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=0)** - [Instructor] We're going to continue with the select task of the data preparation phase with the row sampling node, but we're also going to talk a bit about balancing.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=0)** - [Instructor] We're going to continue with the select task of the [[Data Preparation]] phase with the row sampling node, but we're also going to talk a bit about balancing.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=11)** Let's take a look.
 >
@@ -1519,7 +1498,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=23)** We have the row sampling node which is the one that we want, but also if we scroll down, there are numerous things.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=31)** We have a database version of sampling in the KNIME Labs.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=31)** We have a database version of sampling in the [[Knime]] Labs.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=34)** We have a Spark version of row sampling.
 >
@@ -1535,7 +1514,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=78)** So very briefly, why would you sample at all?
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=81)** You would sample if you have a large amount of data and maybe you want to try 30, 40 different modeling algorithms.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=81)** You would sample if you have a large amount of data and maybe you want to try 30, 40 different modeling [[Algorithms]].
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/balancing-data-with-row-sampling-node?u=76281980&t=90)** Why not run those models on 10% of your data, get a sense of which models are doing best, and then once you've narrowed down the pool of algorithms you want to consider, then go ahead and run all the data?
 >
@@ -1571,19 +1550,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), data (5), [[Algorithms]] (3), [[Knime]] (2), database (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Knime]] (2), [[Data Preparation]] (1)
 > **CLI Commands:** node (6)
 > **Env Vars:** knime (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clean data with the Missing Value node
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/clean-data-with-the-missing-value-node?u=76281980)
+#### [Clean data with the Missing Value node](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/clean-data-with-the-missing-value-node?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/clean-data-with-the-missing-value-node?u=76281980&t=0)** - [Instructor] Moving on to a new task, the clean data task of the data preparation phase, starting with row filter, but then also talking about the Missing Values node.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/clean-data-with-the-missing-value-node?u=76281980&t=0)** - [Instructor] Moving on to a new task, the clean data task of the [[Data Preparation]] phase, starting with row filter, but then also talking about the Missing Values node.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/clean-data-with-the-missing-value-node?u=76281980&t=12)** So we're on the missing data theme.
 >
@@ -1599,7 +1577,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/clean-data-with-the-missing-value-node?u=76281980&t=38)** We're just going to go with a standard one.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/clean-data-with-the-missing-value-node?u=76281980&t=42)** And one of the things that we can do with row filter, very easily, that keeps us on the data cleaning theme, is I can say that only missing values match, specifically on the age variable.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/clean-data-with-the-missing-value-node?u=76281980&t=42)** And one of the things that we can do with row filter, very easily, that keeps us on the [[Data Cleaning]] theme, is I can say that only missing values match, specifically on the age variable.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/clean-data-with-the-missing-value-node?u=76281980&t=55)** I know that the age variable has more than 100 missing cases, and I can either include only missing.
 >
@@ -1649,16 +1627,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), node (4)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** node (4), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format with Cell Splitter
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/format-with-cell-splitter?u=76281980)
+#### [Format with Cell Splitter](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/format-with-cell-splitter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/format-with-cell-splitter?u=76281980&t=0)** - [Instructor] Okay, next is the format task of data preparation and we're going to do a quick example with the cell splitter node.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/format-with-cell-splitter?u=76281980&t=0)** - [Instructor] Okay, next is the format task of [[Data Preparation]] and we're going to do a quick example with the cell splitter node.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/format-with-cell-splitter?u=76281980&t=11)** Okay, so we're going to continue along the path after the missing values node.
 >
@@ -1710,7 +1687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), data (3), next (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1)
 > **CLI Commands:** node (5), make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1721,16 +1698,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### KNIME modeling options
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980)
+#### [KNIME modeling options](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=0)** - I'd like to overview the wealth of modeling options in KNIME.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=0)** - I'd like to overview the wealth of modeling options in [[Knime]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=5)** To help us get acclimated on this topic, let's call up one of the KNIME examples for building a simple classifier.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=14)** In this course, we're going to be doing examples of our own, specifically in regression and decision trees, but I want to just get us oriented.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=14)** In this course, we're going to be doing examples of our own, specifically in regression and [[Decision Trees]], but I want to just get us oriented.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=24)** So one of the things that you should be looking for, in addition to things you've already seen like the file reader and so on, is the partition node.
 >
@@ -1740,7 +1716,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=48)** So both the training set and the test set get scored, but only the training set is sent to the algorithm.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=57)** So you'll notice that this pale green learner and dark green predictor is something that you're going to see again and again when you search for algorithms.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=57)** So you'll notice that this pale green learner and dark green predictor is something that you're going to see again and again when you search for [[Algorithms]].
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=69)** Let's start from the very top.
 >
@@ -1760,7 +1736,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=106)** In fact, even k-medoids, which you don't always see.
 >
-> **[1:50](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=110)** We also have item sets and association rules, normally falls under the unsupervised umbrella in most textbooks and discussions of data mining.
+> **[1:50](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=110)** We also have item sets and association rules, normally falls under the unsupervised umbrella in most textbooks and discussions of [[Data Mining]].
 >
 > **[2:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=120)** So we have pretty good coverage there.
 >
@@ -1790,13 +1766,13 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=178)** As we look, there's no obvious place that discriminant analysis might be, but let's start to type it in.
 >
-> **[3:06](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=186)** And we actually find that it is here, but it falls under statistics in the KNIME labs.
+> **[3:06](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=186)** And we actually find that it is here, but it falls under [[Statistics]] in the KNIME labs.
 >
 > **[3:13](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=193)** So we've even got linear discriminant analysis, which has been around since the '30s.
 >
 > **[3:18](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=198)** More statistical in nature, less associated with machine learning, but it's great that we have it.
 >
-> **[3:23](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=203)** So how about logistic regression?
+> **[3:23](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=203)** So how about [[Logistic Regression]]?
 >
 > **[3:26](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=206)** Well, going back to our folder there, we can see that absolutely, we've got good coverage for logistic regression.
 >
@@ -1840,7 +1816,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=290)** And we do have support for support-vector machines.
 >
-> **[4:54](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=294)** What about neural networks?
+> **[4:54](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=294)** What about [[Neural Networks]]?
 >
 > **[4:56](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=296)** We do indeed.
 >
@@ -1884,9 +1860,9 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=381)** You may find XGBoost supported in different ways.
 >
-> **[6:25](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=385)** For instance, a big data version that might run using Spark.
+> **[6:25](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=385)** For instance, a [[Big Data]] version that might run using Spark.
 >
-> **[6:30](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=390)** Also keep in mind, if you read about or you go to a conference and you hear about something and you can't find it in KNIME, you can always run it through R or Python.
+> **[6:30](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=390)** Also keep in mind, if you read about or you go to a conference and you hear about something and you can't find it in KNIME, you can always run it through R or [[Python (Programming Language)|Python]].
 >
 > **[6:42](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980&t=402)** Let's take a closer look specifically at that.
 >
@@ -1900,7 +1876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (11), data (4), [[Algorithms]] (4), [[Search]] (3), node (2)
+> **Frameworks & Libraries:** [[Knime]] (11), [[Algorithms]] (4), [[Logistic Regression]] (2), [[Python (Programming Language)|Python]] (2), [[Decision Trees]] (1)
 > **CLI Commands:** find (9), node (2), python (2)
 > **Env Vars:** knime (11), cart (1), pnn (1)
 > **UI Navigation:** go to (2)
@@ -1908,12 +1884,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - i (1)
 
-#### Regression example
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980)
+#### [Regression example](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=0)** - Okay, so our first modeling example is going to be linear regression.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=0)** - Okay, so our first modeling example is going to be [[Linear Regression]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=4)** We're going to be using the linear regression learner, and the partitioning node.
 >
@@ -1933,7 +1908,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=60)** We'll go inside and we want not just the first hundred rows, we want a relative 80%.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=67)** 80% is not a very big data set, frankly.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=67)** 80% is not a very [[Big Data]] set, frankly.
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=72)** And that's it.
 >
@@ -1969,7 +1944,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=161)** There's going to be too many categories for a data set this size, and it's just not a variable that we want to use without transforming.
 >
-> **[2:48](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=168)** The rest of these look okay, except for cylinder is a bit of a strange one, because in this data set there are no seven cylinder cars, and we probably wouldn't anticipate a per cylinder effect.
+> **[2:48](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=168)** The [[Representational State Transfer (REST)|rest]] of these look okay, except for cylinder is a bit of a strange one, because in this data set there are no seven cylinder cars, and we probably wouldn't anticipate a per cylinder effect.
 >
 > **[3:02](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=182)** I'm not a mechanical engineer, but I think there's probably more of a qualitative difference in the design, at least we'd want to explore it that way.
 >
@@ -1981,7 +1956,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=202)** And actually, I'm glad we saw this error, because the default on regression, is to fail on observing missing values.
 >
-> **[3:32](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=212)** Now remember that Knime supports replacing with the median, and a variety of different things, but for now we can simply say ignore rows with missing values, but don't forget that that missing value support is also there.
+> **[3:32](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=212)** Now remember that [[Knime]] supports replacing with the median, and a variety of different things, but for now we can simply say ignore rows with missing values, but don't forget that that missing value support is also there.
 >
 > **[3:45](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/regression-example?u=76281980&t=225)** Okay.
 >
@@ -2077,7 +2052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (7), [[Knime]] (4), [[Linear Regression]] (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Knime]] (4), [[Linear Regression]] (2), [[Big Data]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (7), find (3), make (1)
 > **Definitions:** is an  (2), is a  (2), means that (1)
 > **UI Navigation:** go to (3)
@@ -2086,8 +2061,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - okay (1)
 
-#### Decision tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980)
+#### [Decision tree](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2115,7 +2089,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=112)** If you're not familiar with Cart, it's one of the topics I talk about in my decision tree course but it's a famous algorithm.
 >
-> **[1:59](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=119)** Nonetheless, the settings don't matter that much, we just want to get a feel for how KNIME handles decision trees.
+> **[1:59](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=119)** Nonetheless, the settings don't matter that much, we just want to get a feel for how [[Knime]] handles [[Decision Trees]].
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=126)** K, so let's try execute and open views.
 >
@@ -2173,13 +2147,13 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=273)** And there's some additional details here like getting into the false positive and the false negative.
 >
-> **[4:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=279)** In fact, in the scorer node, you can go down and request accuracy statistics and you get a more detailed print out but we won't worry about that at the moment because I want to show you the ROC curve node.
+> **[4:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=279)** In fact, in the scorer node, you can go down and request accuracy [[Statistics]] and you get a more detailed print out but we won't worry about that at the moment because I want to show you the ROC curve node.
 >
 > **[4:52](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=292)** So, we can just spell that out.
 >
 > **[4:56](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=296)** And here we go.
 >
-> **[4:58](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=298)** Generally when there's a JavaScript option, you're going to want the JavaScript option.
+> **[4:58](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=298)** Generally when there's a [[JavaScript]] option, you're going to want the JavaScript option.
 >
 > **[5:02](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree?u=76281980&t=302)** So, we'll go up here and we're not done yet because we have to give it some information, okay?
 >
@@ -2209,7 +2183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (13), [[JavaScript]] (3), [[Knime]] (2), [[Decision Trees]] (2), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Knime]] (2), [[Decision Trees]] (2), [[Statistics]] (1)
 > **CLI Commands:** node (13), make (1), find (1)
 > **Env Vars:** roc (4), knime (2)
 > **UI Navigation:** click on (2), in the menu (1)
@@ -2217,8 +2191,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decision tree: Scoring new data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree-scoring-new-data?u=76281980)
+#### [Decision tree: Scoring new data](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree-scoring-new-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2262,22 +2235,21 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree-scoring-new-data?u=76281980&t=99)** And I've got the propensity scores, or rather the accuracy scores.
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree-scoring-new-data?u=76281980&t=103)** So there we go, it's really that simple to score new records in KNIME.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/decision-tree-scoring-new-data?u=76281980&t=103)** So there we go, it's really that simple to score new records in [[Knime]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Knime]] (1)
+> **Frameworks & Libraries:** [[Knime]] (1)
 > **CLI Commands:** find (3), make (2)
 > **File Paths:** test.csv (1)
 > **Env Vars:** knime (1)
 > **Speakers:** - [instructor] (1)
 
-#### Components in KNIME: AutoML and XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980)
+#### [Components in KNIME: AutoML and XAI](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=1)** - [Speaker] Okay, I want to talk about what are called components in Knime.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=1)** - [Speaker] Okay, I want to talk about what are called components in [[Knime]].
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=7)** And I'm actually going to show you two components that would be particularly helpful during modeling.
 >
@@ -2335,9 +2307,9 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=207)** It is well beyond the scope of what we can do in a single video to talk about all these modeling methods.
 >
-> **[3:32](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=212)** But I want you to see that we've got naive bays that I can turn on and off, logistic regression, a whole bunch of them.
+> **[3:32](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=212)** But I want you to see that we've got naive bays that I can turn on and off, [[Logistic Regression]], a whole bunch of them.
 >
-> **[3:41](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=221)** So of course we've just seen decision trees but there are many more, and you can guess what the inside of the component looks like.
+> **[3:41](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=221)** So of course we've just seen [[Decision Trees]] but there are many more, and you can guess what the inside of the component looks like.
 >
 > **[3:49](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=229)** It's tons of nodes to implement all of these which each would get their own Knime nodes.
 >
@@ -2375,7 +2347,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=312)** And if we go down to the workflow, we don't necessarily have to drag it into Knime.
 >
-> **[5:18](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=318)** What we can do instead is just zoom in and you can see that that dashboard is being implemented by what they call the local explanation view.
+> **[5:18](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=318)** What we can do instead is just [[Zoom]] in and you can see that that dashboard is being implemented by what they call the local explanation view.
 >
 > **[5:30](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/components-in-knime-automl-and-xai?u=76281980&t=330)** That's the name that they've given this component.
 >
@@ -2387,7 +2359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (11), node (4), [[Search]] (1), data (1), ai (1)
+> **Frameworks & Libraries:** [[Knime]] (11), [[Logistic Regression]] (1), [[Decision Trees]] (1), [[Zoom]] (1)
 > **UI Navigation:** drag and drop (2), go to (2), click on (2), scroll down (1)
 > **CLI Commands:** node (4), make (1)
 > **Env Vars:** xai (3)
@@ -2401,12 +2373,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PMML
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980)
+#### [PMML](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=0)** - [Instructor] Something that the KNIME folks have certainly put a lot of time and thought into is making KNIME compatible with what's called PMML.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=0)** - [Instructor] Something that the [[Knime]] folks have certainly put a lot of time and thought into is making KNIME compatible with what's called PMML.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=9)** Let's type it in here.
 >
@@ -2448,7 +2419,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=101)** Or we can build the model SPSS, but then deploy it in KNIME.
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=106)** Or we can build it in KNIME, and then scored on the cloud with Amazon Web Services.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=106)** Or we can build it in KNIME, and then scored on the cloud with [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=111)** You see, that's the whole idea.
 >
@@ -2466,7 +2437,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=145)** Including nodes in the manipulation folder.
 >
-> **[2:29](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=149)** Meaning that it's PMML representing data preparation steps.
+> **[2:29](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=149)** Meaning that it's PMML representing [[Data Preparation]] steps.
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=154)** And if I go a bit further down.
 >
@@ -2486,7 +2457,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=194)** Because there's no point in exporting PMML if other applications cannot import it.
 >
-> **[3:20](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=200)** If you visit the website for the data mining group, which is the nonprofit consortium that maintains PMML, through participation of variety of vendors.
+> **[3:20](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=200)** If you visit the website for the [[Data Mining]] group, which is the nonprofit consortium that maintains PMML, through participation of variety of vendors.
 >
 > **[3:31](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980&t=211)** You can see there's numerous vendors here that participate in the PMML community.
 >
@@ -2494,7 +2465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (9), data (3), node (2), cloud (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Knime]] (9), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Data Preparation]] (1), [[Data Mining]] (1)
 > **Env Vars:** pmml (13), knime (9), spss (2), ibm (1)
 > **CLI Commands:** node (2), make (1)
 > **Tools:** notion (3)
@@ -2503,12 +2474,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** configure (1)
 
-#### R and GGPLOT2
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/r-and-ggplot2?u=76281980)
+#### [R and GGPLOT2](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/r-and-ggplot2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/r-and-ggplot2?u=76281980&t=0)** - [Presenter] OK, I'm in RStudio, because what we want to do in this video is attempt something in RStudio and then bring that R code into KNIME, which should be both interesting and fun.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/r-and-ggplot2?u=76281980&t=0)** - [Presenter] OK, I'm in [[RStudio]], because what we want to do in this video is attempt something in RStudio and then bring that R code into [[Knime]], which should be both interesting and fun.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/r-and-ggplot2?u=76281980&t=13)** But, what I'd like to do is GGPLOT2, it's just one of my favorite R packages, so I figured that's the one we could use, and since this is right after install, it's not installed yet, so I start to type it, you can see it visible there.
 >
@@ -2610,7 +2580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (7), [[RStudio]] (5), node (4), data (1)
+> **Frameworks & Libraries:** [[Knime]] (7), [[RStudio]] (5)
 > **Env Vars:** knime (7), ggplot2 (3), ggplot (1)
 > **CLI Commands:** node (4), make (2)
 > **UI Navigation:** click on (2), go to (1)
@@ -2618,14 +2588,13 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [presenter] (1)
 
-#### Python options in KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980)
+#### [Python options in KNIME](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=0)** - [Instructor] Let's talk about an exciting or be it advanced feature of KNIME.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=0)** - [Instructor] Let's talk about an exciting or be it advanced feature of [[Knime]].
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=8)** You can use Python code right in KNIME and I want to show you how.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=8)** You can use [[Python (Programming Language)|Python]] code right in KNIME and I want to show you how.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=13)** Now, since this is an introductory course we're not going to get deep in this demo but I want to make you aware of the functionality and I'm going to tell you where to go for more.
 >
@@ -2637,7 +2606,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=39)** There's also a page on the hub you can search for me or Advanced Trees with KNIME , and you'll find it for the Advanced Trees with KNIME course, which is right here in the library and as part of the KNIME learning path.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=56)** So if I go in there, there's a bunch of different things and we're not here to talk about decision trees but I'm going to go down to... There's two of them in particular I want to draw your attention to.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=56)** So if I go in there, there's a bunch of different things and we're not here to talk about [[Decision Trees]] but I'm going to go down to... There's two of them in particular I want to draw your attention to.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=70)** There is the Python script node up at the top and then there's the Conda node.
 >
@@ -2649,13 +2618,13 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=101)** We're going to talk about that next.
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=103)** And then the third level of sophistication, I'm only going to mention I'm not going to show you, and that is that if you are a Python coder, and more than that you really have some software development type skills you can actually develop your own KNIME nodes by making your own KNIME extension just like the extensions that we learned how to download to expand our functionality in KNIME.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=103)** And then the third level of sophistication, I'm only going to mention I'm not going to show you, and that is that if you are a Python coder, and more than that you really have some [[Software Development]] type skills you can actually develop your own KNIME nodes by making your own KNIME extension just like the extensions that we learned how to download to expand our functionality in KNIME.
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=131)** So it's all very exciting.
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=132)** Now, I am demonstrating this in KNIME 4.7 and that's important because the way that Python works now is different than in recent years.
 >
-> **[2:23](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=143)** It used to be that you had to know some Java so that Python could talk to the workflow because the workflow nodes and diagram and so on are done in Java, but they've eliminated that extra step.
+> **[2:23](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=143)** It used to be that you had to know some [[Java]] so that Python could talk to the workflow because the workflow nodes and diagram and so on are done in Java, but they've eliminated that extra step.
 >
 > **[2:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/python-options-in-knime?u=76281980&t=159)** So it's easier than ever before.
 >
@@ -2705,7 +2674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Knime]] (14), node (9), [[Decision Trees]] (2), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Knime]] (14), [[Decision Trees]] (2), [[Java]] (2), [[Software Development]] (1)
 > **CLI Commands:** python (18), node (9), make (1), find (1)
 > **Env Vars:** knime (14)
 > **UI Navigation:** click on (2)
@@ -2714,14 +2683,13 @@ created: 2026-05-02
 > **Versions:** 4.7 (1)
 > **Cross-References:** we talked about (1)
 
-#### Certification in KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980)
+#### [Certification in KNIME](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=0)** - [Instructor] I've got exciting news.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=2)** KNIME has a certification program and you have learned enough material in this course to attempt the Level One exam.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=2)** [[Knime]] has a certification program and you have learned enough material in this course to attempt the Level One exam.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=13)** Let me tell you a little bit more about it.
 >
@@ -2735,7 +2703,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=39)** However, the KNIME folks have looked over the material in this course, and they assure me that you have a good shot at passing the L1 exam based upon what you've learned in this course, even though their official course is longer than this one is.
 >
-> **[0:58](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=58)** So I encourage you to give it a go if you want to establish your KNIME skills, perhaps post them in LinkedIn, and so on.
+> **[0:58](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=58)** So I encourage you to give it a go if you want to establish your KNIME skills, perhaps post them in [[LinkedIn]], and so on.
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=66)** Now, if you try it, and for any reason you don't quite get the necessary 70%, you can make note of where you struggled, review a bit, including the material that they provide, and you can take it again.
 >
@@ -2751,7 +2719,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=118)** I also want to warn you that when you get to the highest level of certification, what they've done is they've divided it up by role.
 >
-> **[2:07](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=127)** So if you're in a data engineering role, you might take a different exam at the highest level than you would if you're in a different role.
+> **[2:07](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=127)** So if you're in a [[Data Engineering]] role, you might take a different exam at the highest level than you would if you're in a different role.
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/certification-in-knime?u=76281980&t=135)** We won't get into that now.
 >
@@ -2761,7 +2729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (7), [[LinkedIn]] (1), data (1), [[Data Engineering]] (1), career (1)
+> **Frameworks & Libraries:** [[Knime]] (7), [[LinkedIn]] (1), [[Data Engineering]] (1)
 > **Env Vars:** knime (7)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -2774,8 +2742,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2783,13 +2750,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=4)** I want to offer some suggestions for possible next steps.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=8)** To start, go to the KNIME hub and search for topics of interest.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=8)** To start, go to the [[Knime]] hub and search for topics of interest.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=12)** They make it very easy.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=14)** Then download a workflow and give it a try.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=18)** Now as far as courses go when you want to learn more about KNIME right here in the LinkedIn library, it couldn't be simpler.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=18)** Now as far as courses go when you want to learn more about KNIME right here in the [[LinkedIn]] library, it couldn't be simpler.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=27)** There's an entire learning path that has been thoughtfully assembled in terms of the sequence and you've already completed the first course in the learning path.
 >
@@ -2805,7 +2772,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=66)** I'll be cheering you on.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=67)** Whichever of those you choose, I hope that you'll stay in touch by following me on LinkedIn and signing up to watch my monthly office hours.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=67)** Whichever of those you choose, I hope that you'll stay in touch by following me on LinkedIn and signing up to watch my monthly [[Microsoft Office|office]] hours.
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980&t=76)** In fact, if you search prior Office Hours events you'll find one where I'm joined by the KNIME team and we discuss certification.
 >
@@ -2815,7 +2782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (4), next (2), [[Search]] (2), [[LinkedIn]] (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Knime]] (4), [[LinkedIn]] (2), [[Microsoft Office|Office]] (2)
 > **Env Vars:** knime (4)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)

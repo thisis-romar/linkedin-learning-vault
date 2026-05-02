@@ -75,14 +75,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a quiz app in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python?u=76281980)
+#### [Building a quiz app in Python](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python?u=76281980&t=0)** - [Joe] One of the best ways to improve your programming skills is to work on a real project.
 >
-> **[0:05](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python?u=76281980&t=5)** In this course, we're going to use Python to build a quiz-taking program, and we're going to use quite a few Python features along the way.
+> **[0:05](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python?u=76281980&t=5)** In this course, we're going to use [[Python (Programming Language)|Python]] to build a quiz-taking program, and we're going to use quite a few Python features along the way.
 >
 > **[0:12](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python?u=76281980&t=12)** The program will run in the terminal and present the user with a menu to control the app.
 >
@@ -106,33 +105,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), feature (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
 > **Env Vars:** xml (1)
 > **Tools:** terminal (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [joe] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=0)** - [Instructor] There are some concepts that you should be comfortable with before taking this course.
 >
-> **[0:04](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=4)** First, since we're going to be building a Python application, you're obviously going to need to be familiar with the basics of programming along with knowledge of the Python language.
+> **[0:04](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=4)** First, since we're going to be building a [[Python (Programming Language)|Python]] application, you're obviously going to need to be familiar with the basics of programming along with knowledge of the Python language.
 >
-> **[0:13](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=13)** If you need to brush up on these subjects, then check out Programming Foundations: Fundamentals and Learning Python.
+> **[0:13](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=13)** If you need to brush up on these subjects, then check out [[Programming Foundations]]: Fundamentals and Learning Python.
 >
 > **[0:20](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=20)** We're also going to be using XML to define our quiz content.
 >
 > **[0:24](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=24)** So familiarity with structured markup like XML will be useful.
 >
-> **[0:28](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=28)** You should be able to follow along pretty easily if you have any experience with other markup languages like HTML.
+> **[0:28](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=28)** You should be able to follow along pretty easily if you have any experience with other markup languages like [[HTML]].
 >
 > **[0:33](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=33)** But you can also refer to XML Essential Training if you want to go deeper on the subject.
 >
-> **[0:38](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=38)** I also have a course specifically focused on using XML in Python if you want to refer to that one, called Python: XML, JSON, and the Web.
+> **[0:38](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=38)** I also have a course specifically focused on using XML in Python if you want to refer to that one, called Python: XML, [[JSON]], and the Web.
 >
 > **[0:47](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/what-you-should-know?u=76281980&t=47)** And finally, you should, of course, be familiar with using a text editor or other IDE to write code.
 >
@@ -146,36 +144,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), application (1), [[Programming]] (1), [[Programming Foundations]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming Foundations]] (1), [[HTML]] (1), [[JSON]] (1)
 > **Env Vars:** xml (5), html (1), json (1), ide (1)
 > **CLI Commands:** python (7)
 > **Tools:** visual studio (2), vs code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980)
+#### [Setting up the project](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=0)** - [Instructor] Let's make sure that your environment is properly set up to complete this course.
 >
-> **[0:04](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=4)** First, you'll need to have Python installed.
+> **[0:04](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=4)** First, you'll need to have [[Python (Programming Language)|Python]] installed.
 >
 > **[0:07](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=7)** So on your computer, open the terminal program and then enter the command Python -- and then version and then hit return.
 >
-> **[0:16](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=16)** Now, if you're using a Mac or a Linux machine, you'll probably have to run the Python three command instead, because Mac's and some Linux machines have the older version of Python, Python two installed and we don't want to use that branch.
+> **[0:16](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=16)** Now, if you're using a Mac or a [[Linux]] machine, you'll probably have to run the Python three command instead, because Mac's and some Linux machines have the older version of Python, Python two installed and we don't want to use that branch.
 >
 > **[0:29](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=29)** We want to use Python three.
 >
 > **[0:31](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=31)** So if you're using a Mac or Linux machine, use the Python three command instead.
 >
-> **[0:36](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=36)** And if you're on windows, like I am here you can also just try typing PY --version.
+> **[0:36](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=36)** And if you're on [[Windows]], like I am here you can also just try typing PY --version.
 >
 > **[0:42](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=42)** This should also work and you can see.
 >
 > **[0:44](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=44)** Sure enough, it works.
 >
-> **[0:45](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=45)** So if you get an error when you run this command, instead of seeing a message like this one with the word Python followed by a version number, then you need to install Python on your computer.
+> **[0:45](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=45)** So if you get an error when you run this command, instead of seeing a message like this one with the [[Microsoft Word|word]] Python followed by a version number, then you need to install Python on your computer.
 >
 > **[0:57](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=57)** If you already have Python installed, then make sure you have at least version three point 10 installed.
 >
@@ -199,13 +196,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=114)** If you're going to use vs code, I highly recommend getting the Python extension to go with it.
 >
-> **[1:59](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=119)** This is the one you want, the one from Microsoft with all these tens of millions of downloads.
+> **[1:59](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=119)** This is the one you want, the one from [[Microsoft]] with all these tens of millions of downloads.
 >
 > **[2:04](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=124)** There's plenty of other Python extensions inside the visual studio marketplace but this is the one that you should be using.
 >
 > **[2:10](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=130)** So if you're going to use visual studio code, use this extension, because it adds some really great Python features to the editor.
 >
-> **[2:17](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=137)** To get the exercise files for the course, I have created a GitHub repository where you can find the code.
+> **[2:17](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=137)** To get the exercise files for the course, I have created a [[GitHub]] repository where you can find the code.
 >
 > **[2:23](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/setting-up-the-project?u=76281980&t=143)** You can either clone the repository locally or download the files as zip archive and then extract it to your machine.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Linux]] (3), hit (1), [[Windows]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Linux]] (3), [[Windows]] (1), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **CLI Commands:** python (17), make (3), find (1)
 > **Tools:** visual studio (3), terminal (2), vs code (2), github (1)
 > **Prerequisites:** install (3), you'll need (2), set up (1), make sure you have (1), setup (1)
@@ -229,8 +226,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining the app requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-app-requirements?u=76281980)
+#### [Defining the app requirements](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-app-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,7 +234,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-app-requirements?u=76281980&t=6)** And to better understand what we're going to build in this course, let's first take a look at the finished app.
 >
-> **[0:11](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-app-requirements?u=76281980&t=11)** So here in my code, I'm going to open up the Finished folder and inside the Basics folder, I'm going to go down to chapter seven and I'm going to right-click on pyquiz.py and choose Run Python File in Terminal.
+> **[0:11](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-app-requirements?u=76281980&t=11)** So here in my code, I'm going to open up the Finished folder and inside the Basics folder, I'm going to go down to chapter seven and I'm going to right-click on pyquiz.py and choose Run [[Python (Programming Language)|Python]] File in Terminal.
 >
 > **[0:25](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-app-requirements?u=76281980&t=25)** And obviously if you're using a code editor, that's other than Visual Studio Code you'll need to do this in your terminal program, but since I have this built into VS Code I'm going to go ahead and do that.
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (2), visual studio (1), vs code (1)
 > **File Paths:** pyquiz.py (1)
 > **CLI Commands:** python (1)
@@ -315,8 +311,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 
-#### Architecting the application
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/architecting-the-application?u=76281980)
+#### [Architecting the application](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/architecting-the-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -326,7 +321,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/architecting-the-application?u=76281980&t=15)** Each part of our application will have a specific set of responsibilities to perform.
 >
-> **[0:20](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/architecting-the-application?u=76281980&t=20)** The main Quiz App class will be responsible for presenting and controlling the user experience of the app.
+> **[0:20](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/architecting-the-application?u=76281980&t=20)** The main Quiz App class will be responsible for presenting and controlling the [[User Experience (UX)|user experience]] of the app.
 >
 > **[0:27](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/architecting-the-application?u=76281980&t=27)** It will handle the menu selections from the user and create and maintain the Quiz Manager class.
 >
@@ -350,14 +345,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** xml (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining the quiz markup format
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-quiz-markup-format?u=76281980)
+#### [Defining the quiz markup format](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-quiz-markup-format?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -475,8 +469,7 @@ created: 2026-05-02
 > **File Paths:** myquiz.xml (1)
 > **Speakers:** - each (1)
 
-#### Building the app starting point
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-the-app-starting-point?u=76281980)
+#### [Building the app starting point](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-the-app-starting-point?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -670,11 +663,11 @@ created: 2026-05-02
 >
 > **[7:10](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-the-app-starting-point?u=76281980&t=430)** Okay. So now we have our program at the starting point.
 >
-> **[7:14](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-the-app-starting-point?u=76281980&t=434)** And we can start building the rest of the program logic.
+> **[7:14](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-the-app-starting-point?u=76281980&t=434)** And we can start building the [[Representational State Transfer (REST)|rest]] of the program logic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** scroll down (2), scroll up (2), right-click (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (3)
@@ -688,8 +681,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating the Question and Answer classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-question-and-answer-classes?u=76281980)
+#### [Creating the Question and Answer classes](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-question-and-answer-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,7 +819,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), application (1), next (1)
 > **Code Identifiers:** is_correct (3), correct_answer (2)
 > **CLI Commands:** make (4)
 > **File Paths:** quiz.py (1)
@@ -836,8 +827,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the Quiz class
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-quiz-class?u=76281980)
+#### [Creating the Quiz class](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-quiz-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,7 +927,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-quiz-class?u=76281980&t=354)** So this is just some code to bootstrap a quiz and try it out.
 >
-> **[5:59](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-quiz-class?u=76281980&t=359)** So what I'm going to do now is right click and choose Run Python File in the Terminal.
+> **[5:59](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-quiz-class?u=76281980&t=359)** So what I'm going to do now is right click and choose Run [[Python (Programming Language)|Python]] File in the Terminal.
 >
 > **[6:06](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-quiz-class?u=76281980&t=366)** All right, and sure enough, when this runs, we see the header, so here's the sample quiz and here's the description.
 >
@@ -961,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** take_quiz (3), correct_count (3), total_points (2), quiz_py (1)
 > **Env Vars:** xml (2)
 > **Cross-References:** earlier in (1), later in (1)
@@ -970,8 +960,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is called (1)
 
-#### Reading and parsing the quiz
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/reading-and-parsing-the-quiz?u=76281980)
+#### [Reading and parsing the quiz](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/reading-and-parsing-the-quiz?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,7 +970,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/reading-and-parsing-the-quiz?u=76281980&t=19)** So in this example, we'll see how to build a quiz object by reading and parsing an XML file.
 >
-> **[0:24](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/reading-and-parsing-the-quiz?u=76281980&t=24)** So here in chapter three of the start, I'm going to open up the QuizParser file and I'm going to be using the SAX parser that comes with Python to process the XML file.
+> **[0:24](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/reading-and-parsing-the-quiz?u=76281980&t=24)** So here in chapter three of the start, I'm going to open up the QuizParser file and I'm going to be using the SAX parser that comes with [[Python (Programming Language)|Python]] to process the XML file.
 >
 > **[0:37](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/reading-and-parsing-the-quiz?u=76281980&t=37)** So I need to import the xml.sax module.
 >
@@ -1069,7 +1058,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/reading-and-parsing-the-quiz?u=76281980&t=310)** When endElement gets called, and we're ending the QuizML element, we set the parser_state back to being idle and that's because we've finished processing the file.
 >
-> **[5:21](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/reading-and-parsing-the-quiz?u=76281980&t=321)** So now let's fill out the rest of the code.
+> **[5:21](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/reading-and-parsing-the-quiz?u=76281980&t=321)** So now let's fill out the [[Representational State Transfer (REST)|rest]] of the code.
 >
 > **[5:24](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/reading-and-parsing-the-quiz?u=76281980&t=324)** So remember that the next tag inside of QuizML is going to be the description.
 >
@@ -1199,7 +1188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (1), application (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** parse_state (11), current_question (7), startelement (6), current_answer (5), endelement (4)
 > **Env Vars:** xml (15), sax (4), parse_quiz (3), parse_question (2), idle (1)
 > **Definitions:** is called (6), is a  (1), means that (1)
@@ -1208,8 +1197,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 
-#### Creating the QuizManager class
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-quizmanager-class?u=76281980)
+#### [Creating the QuizManager class](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-quizmanager-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,8 +1342,7 @@ created: 2026-05-02
 > **File Paths:** quizmanager.py (1)
 > **Tools:** terminal (1)
 
-#### Presenting the quiz
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-the-quiz?u=76281980)
+#### [Presenting the quiz](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-the-quiz?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1471,7 +1458,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (1)
 > **Code Identifiers:** take_quiz (2), the_quiz (2), list_quizzes (1), print_results (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** earlier in (1), go back to (1), in the next (1)
@@ -1480,8 +1466,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating the results
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/calculating-the-results?u=76281980)
+#### [Calculating the results](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/calculating-the-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,14 +1560,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Code Identifiers:** the_quiz (1), take_quiz (1), print_header (1), correct_count (1), print_results (1)
 > **File Paths:** pyquiz.py (1), quiz.py (1)
 > **UI Navigation:** in the menu (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving the results
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/saving-the-results?u=76281980)
+#### [Saving the results](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/saving-the-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1676,7 +1659,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/saving-the-results?u=76281980&t=348)** Otherwise, it will just go to the terminal as usual.
 >
-> **[5:51](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/saving-the-results?u=76281980&t=351)** So let's update the rest of the code to do this.
+> **[5:51](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/saving-the-results?u=76281980&t=351)** So let's update the [[Representational State Transfer (REST)|rest]] of the code to do this.
 >
 > **[5:54](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/saving-the-results?u=76281980&t=354)** So I'm going to copy those lines right there, and I'm going to add them to each one of my print statements, and that's all we need to do.
 >
@@ -1694,7 +1677,7 @@ created: 2026-05-02
 >
 > **[6:35](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/saving-the-results?u=76281980&t=395)** All right, so let's go back to the main program.
 >
-> **[6:39](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/saving-the-results?u=76281980&t=399)** Let's right click, and we'll run the Python file in the terminal.
+> **[6:39](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/saving-the-results?u=76281980&t=399)** Let's right click, and we'll run the [[Python (Programming Language)|Python]] file in the terminal.
 >
 > **[6:44](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/saving-the-results?u=76281980&t=404)** Let's try this out as my name, going to list the quizzes, I'm going to take quiz 2, and let's see, earth is, and it's 5 billion years, broccoli is, I just don't believe it, I don't think it's good for you, so false, the world is flat, well, that's not true, and George Washington's White Horse is White.
 >
@@ -1712,7 +1695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** print_results (8), save_results (2), the_quiz (1)
 > **CLI Commands:** make (4), python (1)
 > **Cross-References:** go back to (4), in the next (1)
@@ -1726,8 +1709,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Presenting questions in random order
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-questions-in-random-order?u=76281980)
+#### [Presenting questions in random order](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-questions-in-random-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1747,7 +1729,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-questions-in-random-order?u=76281980&t=45)** What we need is a way of reordering this list so that all the questions are in a random sequence.
 >
-> **[0:51](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-questions-in-random-order?u=76281980&t=51)** And it turns out there's a function in the Python standard library that we can use to perform this function really easily.
+> **[0:51](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-questions-in-random-order?u=76281980&t=51)** And it turns out there's a function in the [[Python (Programming Language)|Python]] standard library that we can use to perform this function really easily.
 >
 > **[0:58](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-questions-in-random-order?u=76281980&t=58)** So let's quickly jump over to the documentation for the Python standard library.
 >
@@ -1837,7 +1819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (1)
 > **UI Navigation:** scroll down (2), click on (1), scroll up (1), go to (1)
 > **Cross-References:** coming up (3), go back to (1)
@@ -1846,8 +1828,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Code Identifiers:** take_quiz (1)
 
-#### Timing the quiz
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/timing-the-quiz?u=76281980)
+#### [Timing the quiz](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/timing-the-quiz?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1975,7 +1956,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** scroll down (2), scroll up (1)
@@ -1983,8 +1963,7 @@ created: 2026-05-02
 > **File Paths:** quiz.py (1)
 > **Speakers:** - [instructor] (1)
 
-#### Redoing wrong questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/redoing-wrong-questions?u=76281980)
+#### [Redoing wrong questions](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/redoing-wrong-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2024,7 +2003,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/redoing-wrong-questions?u=76281980&t=106)** Now, if the user wants to try and retake some of the questions then we need to build a list of the questions that have incorrect answers.
 >
-> **[1:57](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/redoing-wrong-questions?u=76281980&t=117)** So, we're going to do this in one line with a Python list comprehension.
+> **[1:57](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/redoing-wrong-questions?u=76281980&t=117)** So, we're going to do this in one line with a [[Python (Programming Language)|Python]] list comprehension.
 >
 > **[2:02](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/redoing-wrong-questions?u=76281980&t=122)** So, if the response, if they enter anything starting with a y, okay, then we'll make a new variable here called wrong_qs.
 >
@@ -2110,7 +2089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (2), python (2)
 > **Code Identifiers:** correct_count (1), wrong_qs (1), is_correct (1)
 > **File Paths:** quiz.py (1)
@@ -2122,14 +2101,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980&t=0)** - [Instructor] All right, well, we've reached the end of the course.
 >
-> **[0:02](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980&t=2)** I hope you enjoyed following along with me as we built a working quiz application in Python.
+> **[0:02](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980&t=2)** I hope you enjoyed following along with me as we built a working quiz application in [[Python (Programming Language)|Python]].
 >
 > **[0:08](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980&t=8)** Now, as I said at the beginning of the course, sometimes the best way to learn is to build something real and exercise all the theoretical skills you've built up over time.
 >
@@ -2141,7 +2119,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980&t=36)** If you want to learn more about using some of the pre-built Python code available in the standard library, then take a look at Python Standard Library Essential Training and Learning the Python Standard Library.
 >
-> **[0:48](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980&t=48)** To learn more about using object-oriented programming techniques with Python, you can refer to Python: Object-Oriented Programming.
+> **[0:48](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980&t=48)** To learn more about using [[Object-Oriented Programming (OOP)|object-oriented programming]] techniques with Python, you can refer to Python: Object-Oriented Programming.
 >
 > **[0:55](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980&t=55)** And finally, if you want to see how to incorporate some of the great third-party libraries available in your Python programs, consider watching Python Essential Libraries.
 >
@@ -2155,7 +2133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), next (2), application (1), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (12), make (1)
 > **Speakers:** - [instructor] (1)
 

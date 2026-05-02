@@ -114,12 +114,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cybersecurity careers and certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980)
+#### [Cybersecurity careers and certifications](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980&t=0)** - If you're considering a career in cybersecurity, or you've already started your career and you'd like to learn how to make the most of it, then this is the course for you.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980&t=0)** - If you're considering a career in [[Cybersecurity]], or you've already started your career and you'd like to learn how to make the most of it, then this is the course for you.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980&t=8)** In this course, I'll survey the cybersecurity career field and explain why there's such a huge demand for cybersecurity professionals.
 >
@@ -131,23 +130,22 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980&t=44)** I'm a cybersecurity director, and I've been in the cybersecurity field for more than 20 years.
 >
-> **[0:50](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980&t=50)** Cybersecurity is a huge field that includes data security, information security, and IT security.
+> **[0:50](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980&t=50)** Cybersecurity is a huge field that includes [[Data Security]], information security, and IT security.
 >
 > **[0:56](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980&t=56)** Whether you're about to start your cybersecurity career or you've been doing it for years, there's always something new to learn about this exciting field, so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (9), career (6), [[Security]] (4), data (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Data Security]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/who-this-course-is-for?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/who-this-course-is-for?u=76281980&t=0)** - [Instructor] This course is about what it takes to be a successful cybersecurity professional.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/who-this-course-is-for?u=76281980&t=0)** - [Instructor] This course is about what it takes to be a successful [[Cybersecurity]] professional.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/who-this-course-is-for?u=76281980&t=5)** I'll explain why cybersecurity professionals are in such high demand and dissect marketplaces where they are especially needed.
 >
@@ -175,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), career (5), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -184,12 +182,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of cybersecurity key concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980)
+#### [An overview of cybersecurity key concepts](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980&t=0)** - [Instructor] There are four key concepts you're likely to encounter in a cybersecurity career.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980&t=0)** - [Instructor] There are four key concepts you're likely to encounter in a [[Cybersecurity]] career.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980&t=5)** I'll introduce CIA, best practices, defense in depth, and policy, standards, procedures, and guidelines in this video.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980&t=109)** Everyone seems to have their own opinion about what best practices are.
 >
-> **[1:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980&t=114)** My advice to anyone wanting to understand security best practices is to start by studying cybersecurity frameworks, such as ISO/IEC 27001; NIST Special Publication 800-53; NIST Cybersecurity Framework, or CSF; the CIS, Critical Security Controls; and the PCI Data Security Standard.
+> **[1:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980&t=114)** My advice to anyone wanting to understand security best practices is to start by studying cybersecurity frameworks, such as ISO/IEC 27001; [[NIST]] Special Publication 800-53; NIST Cybersecurity Framework, or CSF; the CIS, Critical Security Controls; and the PCI [[Data Security]] Standard.
 >
 > **[2:17](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980&t=137)** These frameworks are internationally recognized security standards that will cover what most people consider to be security best practices.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), [[Cybersecurity]] (10), career (4), web (2), [[NIST]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), [[NIST]] (2), [[Data Security]] (1)
 > **Env Vars:** cia (8), nist (2), iso (1), iec (1), csf (1)
 > **CLI Commands:** find (3)
 > **Definitions:** stands for (1), is an  (1), refers to (1)
@@ -261,14 +258,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enabling technologies for cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980)
+#### [Enabling technologies for cybersecurity](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=0)** - [Instructor] You won't get far in the field of cybersecurity without a strong understanding of certain technologies.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=0)** - [Instructor] You won't get far in the field of [[Cybersecurity]] without a strong understanding of certain technologies.
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=6)** IP networking, firewalls, and cryptography are three fundamental technologies you must understand as a cybersecurity professional.
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=6)** IP networking, firewalls, and [[Cryptography]] are three fundamental technologies you must understand as a cybersecurity professional.
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=15)** These technologies are foundational, and you'll use them throughout your cybersecurity career.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=50)** All cybersecurity professionals should know about IP addresses and subnets.
 >
-> **[0:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=54)** Understanding how IP routing works to transport data packets across network boundaries using routers and how it relates to the seven layers of the OSI model is also helpful.
+> **[0:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=54)** Understanding how IP [[Routing]] works to transport data packets across network boundaries using routers and how it relates to the seven layers of the OSI model is also helpful.
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=66)** There are also many common protocols in the Internet Protocol suite, which you'll need to be familiar with.
 >
@@ -312,13 +308,13 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=170)** You need to have a strong understanding of how encryption works.
 >
-> **[2:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=174)** You should know common cryptographic algorithms, such as AES, Diffie-Hellman, RSA, ECC, and others; the difference between secret key and public key cryptography, and common cryptographic concepts, such as digital certificates, certificate authorities, hash functions, salt, key length, symmetric and asymmetric cryptography, steganography and more.
+> **[2:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=174)** You should know common cryptographic [[Algorithms]], such as AES, Diffie-Hellman, RSA, ECC, and others; the difference between secret key and public key cryptography, and common cryptographic concepts, such as digital certificates, certificate authorities, hash functions, salt, key length, symmetric and asymmetric cryptography, steganography and more.
 >
 > **[3:21](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=201)** Like any security technology, though, cryptography is subject to attacks.
 >
 > **[3:25](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=205)** Some common cryptographic attacks include brute force, rainbow tables, birthday attacks, cryptographic weakness attacks, and side channel attacks.
 >
-> **[3:36](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=216)** If you're unfamiliar with any of these technologies, there are many great LinkedIn Learning courses that will help bring you up to speed.
+> **[3:36](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=216)** If you're unfamiliar with any of these technologies, there are many great [[LinkedIn]] Learning courses that will help bring you up to speed.
 >
 > **[3:43](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/enabling-technologies-for-cybersecurity?u=76281980&t=223)** I've included my recommendations in the handout for this video.
 >
@@ -326,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Cryptography]] (6), career (3), [[Security]] (3), data (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Cryptography]] (6), [[Routing]] (1), [[Algorithms]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** you'll need (6), you need to have (1)
 > **Env Vars:** osi (1), aes (1), rsa (1), ecc (1)
 > **Analogies:** such as (2)
@@ -337,12 +333,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Government (FISMA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980)
+#### [Government (FISMA)](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980&t=0)** - [Narrator] When learning about cybersecurity careers, it's useful to understand the cybersecurity marketplace.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980&t=0)** - [Narrator] When learning about [[Cybersecurity Careers]], it's useful to understand the [[Cybersecurity]] marketplace.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980&t=6)** Where are cybersecurity careers most in demand and what are the specific cybersecurity needs in different parts of the marketplace?
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980&t=36)** First, federal agencies are required by law to be secure.
 >
-> **[0:40](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980&t=40)** That law is the Federal Information Security Management Act or FISMA.
+> **[0:40](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980&t=40)** That law is the Federal [[Information Security Management]] Act or FISMA.
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980&t=44)** FISMA requires federal agencies to implement a comprehensive program to protect government information, operations, and assets against natural or manmade threats.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (15), [[Security]] (3), [[Cybersecurity Careers]] (2), career (1), [[Information Security Management]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (15), [[Cybersecurity Careers]] (2), [[Information Security Management]] (1)
 > **Env Vars:** fisma (3)
 > **CLI Commands:** make (1)
 > **URLs:** [cybercareers.gov](https://cybercareers.gov) (1)
@@ -392,12 +387,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Financial institutions (GLBA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/financial-institutions-glba?u=76281980)
+#### [Financial institutions (GLBA)](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/financial-institutions-glba?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/financial-institutions-glba?u=76281980&t=0)** - [Instructor] Financial institutions are a great marketplace for cybersecurity professionals for three reasons.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/financial-institutions-glba?u=76281980&t=0)** - [Instructor] Financial institutions are a great marketplace for [[Cybersecurity]] professionals for three reasons.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/financial-institutions-glba?u=76281980&t=6)** They're required by law to be secure.
 >
@@ -443,22 +437,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (10), [[Security]] (5), next (1), data (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (10)
 > **Env Vars:** glba (3)
 > **URLs:** [cyberseek.org](https://cyberseek.org) (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Healthcare (HIPAA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980)
+#### [Healthcare (HIPAA)](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980&t=0)** - [Instructor] Healthcare organizations are another great marketplace for cybersecurity professionals.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980&t=0)** - [Instructor] Healthcare organizations are another great marketplace for [[Cybersecurity]] professionals.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980&t=6)** The first reason why is because healthcare organizations are required by law to be secure.
 >
-> **[0:11](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980&t=11)** All US healthcare organizations must comply with the Health Insurance Portability and Accountability Act, or HIPAA, which requires them to implement appropriate administrative, physical, and technical safeguards to ensure the security of patients' electronic protected health information, or ePHI.
+> **[0:11](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980&t=11)** All US healthcare organizations must comply with the Health Insurance Portability and [[Accountability]] Act, or HIPAA, which requires them to implement appropriate administrative, physical, and technical safeguards to ensure the security of patients' electronic protected health information, or ePHI.
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980&t=29)** In 2003, the HIPAA Security Rule was published, which established national standards to protect ePHI that is created, received, used, or maintained by a healthcare organization.
 >
@@ -474,7 +467,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980&t=97)** They're prime cyber attack targets.
 >
-> **[1:40](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980&t=100)** According to the HIPAA Journal in 2021, the healthcare industry reported more data breaches than any other industry sector.
+> **[1:40](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980&t=100)** According to the HIPAA Journal in 2021, the [[Healthcare Industry]] reported more data breaches than any other industry sector.
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/healthcare-hipaa?u=76281980&t=109)** Prior to that, healthcare was either at the top or near the top most breached industry since at least 2017.
 >
@@ -492,24 +485,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (7), [[Accountability]] (1), next (1), [[Healthcare Industry]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Accountability]] (1), [[Healthcare Industry]] (1)
 > **Env Vars:** hipaa (5)
 > **Code Identifiers:** ephi (2)
 > **URLs:** [cyberseek.org](https://cyberseek.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Corporate (SOX)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980)
+#### [Corporate (SOX)](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=0)** - [Instructor] Corporations in the US are excellent marketplaces for cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=0)** - [Instructor] Corporations in the US are excellent marketplaces for [[Cybersecurity]].
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=5)** First, all publicly traded US corporations are required by law to be secure.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=10)** That law is the Sarbanes-Oxley Act or SOX.
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=14)** While SOX doesn't require specific security controls, it does require strong internal controls on corporate financial data.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=14)** While SOX doesn't require specific security controls, it does require strong internal controls on corporate [[Financial Data]].
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=23)** These controls must be assessed each year by both internal personnel and external auditors.
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=91)** But it doesn't matter how large or small a corporation is, they're all potential cyber attack targets.
 >
-> **[1:37](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=97)** Just like banking, healthcare and government, corporations are a strong marketplace for cybersecurity professionals as demand continues to grow.
+> **[1:37](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=97)** Just like [[Banking]], healthcare and government, corporations are a strong marketplace for cybersecurity professionals as demand continues to grow.
 >
 > **[1:45](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/corporate-sox?u=76281980&t=105)** According to a 2021 survey of corporations, 90% said they are looking to hire cybersecurity professionals and 40% said the need was urgent.
 >
@@ -543,22 +535,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (5), data (3), [[Financial Data]] (2), business (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Financial Data]] (2), [[Banking]] (1)
 > **Env Vars:** sox (4)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retail (PCI DSS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980)
+#### [Retail (PCI DSS)](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=0)** - There are good reasons why all large retail businesses are a strong marketplace for cybersecurity professionals seeking employment.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=0)** - There are good reasons why all large retail businesses are a strong marketplace for [[Cybersecurity]] professionals seeking employment.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=9)** First, most retail businesses process credit cards, which means they must comply with a credit card industry regulation to be secure.
 >
-> **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=18)** This regulation is the Payment Card Industry Data Security Standard, or PCIDSS.
+> **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=18)** This regulation is the Payment Card Industry [[Data Security]] Standard, or PCIDSS.
 >
 > **[0:24](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=24)** PCIDSS has strict security control requirements that retailers need to follow or they'll lose their ability to process credit cards.
 >
@@ -566,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=46)** Because PCIDSS is an industry regulation, it applies to any business in the world that processes Visa, MasterCard, and many other credit card brands.
 >
-> **[0:56](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=56)** In addition to traditional brick and mortar retailers, PCIDSS applies to online retailers, and businesses using credit cards to conduct e-commerce.
+> **[0:56](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=56)** In addition to traditional brick and mortar retailers, PCIDSS applies to online retailers, and businesses using credit cards to conduct [[E-Commerce]].
 >
 > **[1:07](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/retail-pci-dss?u=76281980&t=67)** But retailers face special challenges that make them subject to cyber attacks even with PCIDSS.
 >
@@ -598,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), data (4), [[Security]] (4), business (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Data Security]] (1), [[E-Commerce]] (1)
 > **Env Vars:** pcidss (5)
 > **CLI Commands:** make (2)
 > **URLs:** [cyberseek.org](https://cyberseek.org) (1)
@@ -610,12 +601,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analytical and technology savvy
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980)
+#### [Analytical and technology savvy](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=0)** - [Instructor] If you aspire to be a cybersecurity professional, there are two traits which will contribute to your likelihood to be successful in this field: being analytical and technology savvy.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=0)** - [Instructor] If you aspire to be a [[Cybersecurity]] professional, there are two traits which will contribute to your likelihood to be successful in this field: being analytical and technology savvy.
 >
 > **[0:11](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=11)** If you read through cybersecurity job postings, you'll frequently see these words and phrases describing actions performed on the job.
 >
@@ -629,13 +619,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=57)** Or if you're a manager or director, you may need to crunch other types of data like asset inventories or annual budgets.
 >
-> **[1:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=65)** You might be analytical if you like mathematics, crunching numbers in spreadsheets, writing scripts with Python, Windows PowerShell, or other scripting languages.
+> **[1:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=65)** You might be analytical if you like mathematics, crunching numbers in spreadsheets, writing scripts with [[Python (Programming Language)|Python]], [[Windows]] [[Powershell]], or other scripting languages.
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=75)** Digging into the details of practically anything, and solving problems.
 >
 > **[1:20](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=80)** You may be analytical and not even realize it.
 >
-> **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=82)** For instance, you may need to take courses in the analytical tool sets like Excel or scripting languages to help you enhance these skills for your job.
+> **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=82)** For instance, you may need to take courses in the analytical tool sets like [[Microsoft Excel|Excel]] or scripting languages to help you enhance these skills for your job.
 >
 > **[1:31](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=91)** If you find that you enjoy them, you may be analytical after all.
 >
@@ -643,7 +633,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=104)** This is not a career field for anyone intimidated by technology.
 >
-> **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=109)** You'll need to know your way around computer hardware, operating systems, and networks.
+> **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=109)** You'll need to know your way around computer [[Hardware]], operating systems, and networks.
 >
 > **[1:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980&t=114)** This is one reason why introductory certifications like CompTIA's A Plus, Network Plus, and Security Plus are so popular among employers.
 >
@@ -657,7 +647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (6), career (3), [[Hardware]] (3), data (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Hardware]] (3), [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[Powershell]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Definitions:** is a  (2)
 > **Tools:** powershell (1)
@@ -665,12 +655,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Self-directed and knowledge hungry
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980)
+#### [Self-directed and knowledge hungry](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=0)** - [Instructor] There are two traits that will help you throughout your cybersecurity career: being self-directed and having a desire to learn.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=0)** - [Instructor] There are two traits that will help you throughout your [[Cybersecurity]] career: being self-directed and having a desire to learn.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=7)** First, let's look at what it means to be self-directed and why it's important to your success as a cybersecurity professional.
 >
@@ -694,13 +683,13 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=82)** In the cybersecurity field, one thing is certain: change.
 >
-> **[1:26](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=86)** Technology is in a constant state of flux.
+> **[1:26](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=86)** Technology is in a constant state of [[Flux]].
 >
 > **[1:30](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=90)** This, in turn, leads to changes in security controls and standards.
 >
 > **[1:34](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=94)** That's why there will always be more to learn as a cybersecurity professional.
 >
-> **[1:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=99)** For instance, you'll need to learn new versions of hardware and software and how to keep them secure, or you might need to learn about the security implications of newer technologies like artificial intelligence and the internet of things.
+> **[1:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=99)** For instance, you'll need to learn new versions of [[Hardware]] and software and how to keep them secure, or you might need to learn about the security implications of newer technologies like [[Artificial Intelligence (AI)|artificial intelligence]] and the [[IoT|internet of things]].
 >
 > **[1:53](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=113)** If you don't have that desire to keep learning, you'll quickly fall behind the times.
 >
@@ -714,25 +703,24 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=134)** Your employer may expect you to give a quick assessment when technologies change and how these changes will impact security.
 >
-> **[2:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=142)** If you've already learned about these pending changes you'll have formed an opinion and you won't be caught off guard, and this means you'll be in a better position to help your organization react swiftly to emerging threats.
+> **[2:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=142)** If you've already learned about these pending changes you'll have formed an opinion and you won't be caught off guard, and this means you'll be in a better position to help your organization [[React.js|react]] swiftly to emerging threats.
 >
 > **[2:34](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/self-directed-and-knowledge-hungry?u=76281980&t=154)** Your desire to learn and being self-directed will be valuable traits that will help you succeed in your cybersecurity career.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (4), career (3), next (1), [[Flux]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Flux]] (1), [[Hardware]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT|Internet of things]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaborative and works well with others
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/collaborative-and-works-well-with-others?u=76281980)
+#### [Collaborative and works well with others](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/collaborative-and-works-well-with-others?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/collaborative-and-works-well-with-others?u=76281980&t=0)** - [Instructor] It's not unusual to see job listings for cybersecurity professionals, which include the phrase works well with others.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/collaborative-and-works-well-with-others?u=76281980&t=0)** - [Instructor] It's not unusual to see job listings for [[Cybersecurity]] professionals, which include the phrase works well with others.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/collaborative-and-works-well-with-others?u=76281980&t=7)** You may recall that same phrase from grade school days.
 >
@@ -768,7 +756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security]] (3), career (1), teams (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
@@ -779,12 +767,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cybersecurity careers overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980)
+#### [Cybersecurity careers overview](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=0)** - There are many career options in the field of cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=0)** - There are many career options in the field of [[Cybersecurity]].
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=4)** In this chapter, I'll introduce nine main job categories that exist in the cybersecurity field.
 >
@@ -804,7 +791,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=56)** So an analyst, for instance, can be a junior, a mid-level, or a senior security analyst.
 >
-> **[1:02](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=62)** There are also a wide variety of possible specializations within each job, so sticking with these security analyst roles, you might find forensic analyst, risk analyst, and application security analyst among other analyst roles.
+> **[1:02](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=62)** There are also a wide variety of possible specializations within each job, so sticking with these security analyst roles, you might find forensic analyst, risk analyst, and [[Application Security]] analyst among other analyst roles.
 >
 > **[1:17](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=77)** While job types are arranged roughly in order of experience, that doesn't mean your career has to follow the same path to be successful.
 >
@@ -812,7 +799,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=94)** For instance, my career in cybersecurity started as a junior security consultant after many years in IT support and administration.
 >
-> **[1:42](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=102)** From consultant, I move to senior security risk analyst and then to security manager and security director.
+> **[1:42](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=102)** From consultant, I move to senior [[Security Risk]] analyst and then to security manager and security director.
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=109)** Finally, I'll point out that there may be cases where different cybersecurity jobs and titles may blend together.
 >
@@ -822,36 +809,35 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=132)** You can use this chapter in handouts as tools to help you plan your career based on your personality, skillsets, and desires.
 >
-> **[2:20](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=140)** If you have any questions related to this course or cybersecurity careers, I invite you to submit your question in the Q&A section of the course page.
+> **[2:20](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=140)** If you have any questions related to this course or [[Cybersecurity Careers]], I invite you to submit your question in the Q&A section of the course page.
 >
-> **[2:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=149)** Feel free to also connect with me on LinkedIn.
+> **[2:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980&t=149)** Feel free to also connect with me on [[LinkedIn]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), career (5), [[Cybersecurity]] (4), application (1), [[Cybersecurity Careers]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Application Security]] (1), [[Security Risk]] (1), [[Cybersecurity Careers]] (1), [[LinkedIn]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - there (1)
 
-#### Cybersecurity career: Specialist or technician
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980)
+#### [Cybersecurity career: Specialist or technician](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=0)** - [Instructor] Cybersecurity specialists or technicians perform a wide variety of entry-level to intermediate-level security jobs.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=0)** - [Instructor] [[Cybersecurity]] specialists or technicians perform a wide variety of entry-level to intermediate-level security jobs.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=8)** As a cybersecurity specialist or technician, you're there when the organization needs you to get the security job done.
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=15)** Your role will be to support the organization's security program and respond immediately in the event of a security incident.
 >
-> **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=23)** Common job titles for this role include cybersecurity specialist, IT specialist, information security specialist, computer security technician, and network security specialist.
+> **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=23)** Common job titles for this role include cybersecurity specialist, IT specialist, information security specialist, computer security technician, and [[Network Security]] specialist.
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=35)** There are quite a few skills included in almost every cybersecurity specialist or technician job listing.
 >
-> **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=41)** The most common is a strong understanding of computer networking concepts, such as TCP/IP, routing and switching, and firewalls.
+> **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=41)** The most common is a strong understanding of [[Computer Networking]] concepts, such as TCP/IP, [[Routing]] and switching, and firewalls.
 >
-> **[0:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=49)** Along with that, knowledge of Windows, Unix, and Linux operating systems is often required.
+> **[0:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=49)** Along with that, knowledge of [[Windows]], Unix, and [[Linux]] operating systems is often required.
 >
 > **[0:55](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=55)** You'll use these skills to support the organization's implementation of cybersecurity at the network and operating system levels.
 >
@@ -859,7 +845,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=78)** As the job title implies, it's not unusual for a cybersecurity specialist to specialize in implementing and supporting one or more of these technologies or processes.
 >
-> **[1:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=89)** Another skill frequently expected from cybersecurity specialists or technicians is a solid understanding of ISO 27001, the NIST Cybersecurity Framework, and the CIS Critical Security Controls frameworks.
+> **[1:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=89)** Another skill frequently expected from cybersecurity specialists or technicians is a solid understanding of ISO 27001, the [[NIST]] Cybersecurity Framework, and the CIS Critical Security Controls frameworks.
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=103)** Since cybersecurity specialists and technicians often support an organization's implementation of these frameworks, having a firm understanding of them is important.
 >
@@ -871,31 +857,30 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=147)** For senior level cybersecurity specialist or technician jobs, you'll need to have at least five years of on-the-job experience.
 >
-> **[2:34](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=154)** Frequently desired certifications for cybersecurity specialists or technicians include CompTIA A+, Network+, and Security+, CCNA, SANS GIAC certifications, like GSEC, GCIH, GCIA, CEH, and CISSP.
+> **[2:34](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=154)** Frequently desired certifications for cybersecurity specialists or technicians include CompTIA A+, Network+, and Security+, CCNA, SANS GIAC certifications, like GSEC, GCIH, GCIA, [[CEH]], and CISSP.
 >
 > **[2:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-specialist-or-technician?u=76281980&t=172)** A cybersecurity specialist or technician job is a great way to get your cybersecurity career started and to build the hands-on technical skills that are in demand by employers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (18), [[Security]] (10), career (2), [[Network Security]] (1), [[Computer Networking]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (18), [[Network Security]] (1), [[Computer Networking]] (1), [[Routing]] (1), [[Windows]] (1)
 > **Env Vars:** tcp (1), ids (1), ips (1), dlp (1), iso (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity career: Analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980)
+#### [Cybersecurity career: Analyst](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=0)** - [Instructor] Cybersecurity analysts are highly desired because they have a solid depth of experience they can apply to many critical security functions.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=0)** - [Instructor] [[Cybersecurity]] analysts are highly desired because they have a solid depth of experience they can apply to many critical security functions.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=9)** The cybersecurity analyst role is very versatile, covering nearly every aspect of cybersecurity.
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=16)** And as the title implies, this job is perfect for someone who loves digging into the details, whether they're technical or compliance-related.
 >
-> **[0:24](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=24)** Common job titles for this role include cybersecurity analyst, vulnerability analyst, compliance analyst, incident response analyst, security risk analyst, intrusion detection analyst and audit analyst.
+> **[0:24](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=24)** Common job titles for this role include cybersecurity analyst, vulnerability analyst, compliance analyst, [[Incident Response]] analyst, [[Security Risk]] analyst, [[Intrusion Detection]] analyst and audit analyst.
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=38)** Penetration testers, experts at finding and exploiting security vulnerabilities, are also a type of cybersecurity analyst.
 >
@@ -921,7 +906,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=123)** Processing large amounts of data, whether that's system log data or network traffic, often goes hand in hand with cybersecurity analysis.
 >
-> **[2:11](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=131)** That's why it's not unusual for cybersecurity analyst job listings to request that the candidate have experience in scripting languages such as Python or Windows PowerShell.
+> **[2:11](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=131)** That's why it's not unusual for cybersecurity analyst job listings to request that the candidate have experience in scripting languages such as [[Python (Programming Language)|Python]] or [[Windows]] [[Powershell]].
 >
 > **[2:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=142)** Cybersecurity analyst positions aren't typically entry-level positions.
 >
@@ -937,17 +922,17 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=172)** You'll need to rely on your experience to solve the problems you'll encounter on the job.
 >
-> **[2:57](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=177)** You'll need knowledge of technical topics, such as TCP/IP networking, the OSI model, and routing and switching.
+> **[2:57](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=177)** You'll need knowledge of technical topics, such as TCP/IP networking, the OSI model, and [[Routing]] and switching.
 >
-> **[3:04](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=184)** Finally, you'll likely need hands-on experience performing network traffic analysis, analysis of log files from a variety of sources, such as individual host logs, network traffic logs, firewall logs, or intrusion prevention logs and intrusion analysis and detection.
+> **[3:04](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=184)** Finally, you'll likely need hands-on experience performing [[Network Traffic Analysis]], analysis of log files from a variety of sources, such as individual host logs, network traffic logs, firewall logs, or intrusion prevention logs and intrusion analysis and detection.
 >
-> **[3:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=203)** Frequently desired certifications for cybersecurity analysts include CompTIA A+, Network+ and Security+, CCNA, SANS GIAC certifications, like GCFA, GCIH, GCFE; CEH, and CISSP.
+> **[3:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=203)** Frequently desired certifications for cybersecurity analysts include CompTIA A+, Network+ and Security+, CCNA, SANS GIAC certifications, like GCFA, GCIH, GCFE; [[CEH]], and CISSP.
 >
 > **[3:41](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-analyst?u=76281980&t=221)** A cybersecurity analyst job is a great opportunity for anyone who wants to apply their security experience to help organizations tackle their toughest security challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (17), [[Security]] (6), data (2), traffic (2), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (17), [[Incident Response]] (1), [[Security Risk]] (1), [[Intrusion Detection]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** tcp (1), osi (1), ccna (1), sans (1), giac (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** you'll need (2)
@@ -956,12 +941,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity career: Auditor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980)
+#### [Cybersecurity career: Auditor](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=0)** - [Narrator] Cybersecurity auditors play an important role in the world of cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=0)** - [Narrator] [[Cybersecurity]] auditors play an important role in the world of cybersecurity.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=5)** They make sure the organization is securing what it needs to secure.
 >
@@ -979,9 +963,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=73)** A cybersecurity auditor job isn't a good fit for someone who prefers to work alone.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=78)** Of course, cybersecurity auditors must also have strong IT skills such as a deep understanding of Windows, Unix, and Linux operating systems, as well as security technologies like firewalls and intrusion detection and prevention protocols.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=78)** Of course, cybersecurity auditors must also have strong IT skills such as a deep understanding of [[Windows]], Unix, and [[Linux]] operating systems, as well as security technologies like firewalls and [[Intrusion Detection]] and prevention protocols.
 >
-> **[1:32](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=92)** In addition, because they must deliver detailed technical reports on a timely basis, cybersecurity auditors need to be proficient in PowerPoint, Word, and Excel, and have experience with Visio and MS Project.
+> **[1:32](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=92)** In addition, because they must deliver detailed technical reports on a timely basis, cybersecurity auditors need to be proficient in [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Word|Word]], and [[Microsoft Excel|Excel]], and have experience with Visio and MS Project.
 >
 > **[1:46](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=106)** A cybersecurity auditor is not an entry-level position.
 >
@@ -989,9 +973,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=117)** That's why job descriptions for cybersecurity auditors will frequently require at least five to seven years of IT experience, and three to five years of security audit experience.
 >
-> **[2:08](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=128)** You'll need to have a good working knowledge of regulatory and industry data security standards, such as FFIEC, HIPAA, PCI, NERC, SOX, NIST, EU/Safe Harbor, and GLBA.
+> **[2:08](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=128)** You'll need to have a good working knowledge of regulatory and industry [[Data Security]] standards, such as FFIEC, HIPAA, PCI, NERC, SOX, [[NIST]], EU/Safe Harbor, and GLBA.
 >
-> **[2:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=143)** And you'll need to experience implementing or auditing ISO 27001, ITIL, or COBIT frameworks.
+> **[2:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=143)** And you'll need to experience implementing or auditing ISO 27001, [[ITIL]], or COBIT frameworks.
 >
 > **[2:30](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-auditor?u=76281980&t=150)** Almost every auditor role will require a bachelor's degree in a related field.
 >
@@ -1005,15 +989,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (17), [[Security]] (11), [[Windows]] (1), [[Linux]] (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (17), [[Windows]] (1), [[Linux]] (1), [[Intrusion Detection]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** iso (2), ffiec (1), hipaa (1), pci (1), nerc (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cybersecurity career: Consultant
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980)
+#### [Cybersecurity career: Consultant](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,11 +1004,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=9)** They can also be responsible for designing, testing and implementing a wide variety of security solutions.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=16)** Common job titles for this role include cyber security consultant, information security consultant, computer security consultant, database security consultant and network security consultant.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=16)** Common job titles for this role include cyber security consultant, information security consultant, computer security consultant, database security consultant and [[Network Security]] consultant.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=29)** When it comes to skills, cybersecurity consultants need strong skills in security technologies, such as firewalls, intrusion prevention systems, encryption technologies and more.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=29)** When it comes to skills, [[Cybersecurity]] consultants need strong skills in security technologies, such as firewalls, intrusion prevention systems, encryption technologies and more.
 >
-> **[0:40](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=40)** System and network administration skills on UNIX and Windows platforms is a must.
+> **[0:40](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=40)** System and [[Network Administration]] skills on UNIX and [[Windows]] platforms is a must.
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=46)** Cybersecurity consultants will apply their technical skills to determine the most effective way to protect computers, networks, software, data and information systems against any possible attacks.
 >
@@ -1033,7 +1016,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=70)** But cybersecurity consultants need skills beyond the obvious technical ones.
 >
-> **[1:14](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=74)** A large part of a cybersecurity consultant's job is interviewing staff and heads of departments to determine specific security issues.
+> **[1:14](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=74)** A large part of a cybersecurity consultant's job is [[Interviewing]] staff and heads of departments to determine specific security issues.
 >
 > **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=82)** Therefore, strong, interpersonal, oral and written skills are required.
 >
@@ -1051,32 +1034,31 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=128)** In some cases, cybersecurity consultants will lead a team of cybersecurity specialists or technicians, so prior supervisory experience may be required.
 >
-> **[2:17](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=137)** And cybersecurity consultants will often need experience following ISO 27001, ITIL, and COBIT frameworks and conducting PCI, HIPAA, NIST, GLBA, or SOX compliance assessments.
+> **[2:17](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=137)** And cybersecurity consultants will often need experience following ISO 27001, [[ITIL]], and COBIT frameworks and conducting PCI, HIPAA, [[NIST]], GLBA, or SOX compliance assessments.
 >
-> **[2:30](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=150)** Frequently desired certifications for cybersecurity consultants include SANS GIAC certifications, CCNA, OSCP, CISSP and other certifications relevant to the consulting role.
+> **[2:30](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=150)** Frequently desired certifications for cybersecurity consultants include SANS GIAC certifications, CCNA, [[OSCP]], CISSP and other certifications relevant to the consulting role.
 >
 > **[2:45](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-consultant?u=76281980&t=165)** The cybersecurity consultant job is ideal for security professionals with solid technical experience and strong people skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (13), [[Security]] (11), database (1), [[Network Security]] (1), [[Network Administration]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (13), [[Network Security]] (1), [[Network Administration]] (1), [[Windows]] (1), [[Interviewing]] (1)
 > **Env Vars:** unix (1), iso (1), itil (1), cobit (1), pci (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cybersecurity career: Engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980)
+#### [Cybersecurity career: Engineer](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=0)** - [Instructor] Cybersecurity engineers are technical experts who build security systems and tackle complex security problems.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=0)** - [Instructor] [[Cybersecurity]] engineers are technical experts who build security systems and tackle complex security problems.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=7)** They're the ones who install, configure and troubleshoot firewalls, intrusion prevention systems and other security infrastructure.
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=16)** Cybersecurity engineers also develop new technical solutions and security tools to solve existing production security issues.
 >
-> **[0:24](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=24)** Common job titles for this role include cybersecurity engineer, IT security engineer, network security engineer, information assurance engineer, and information systems security engineer.
+> **[0:24](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=24)** Common job titles for this role include cybersecurity engineer, IT security engineer, [[Network Security]] engineer, information assurance engineer, and information systems security engineer.
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=37)** Cybersecurity engineers are expected to have very strong technical skills.
 >
@@ -1084,17 +1066,17 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=53)** Security engineers will need to know a wide range of technologies and processes.
 >
-> **[0:58](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=58)** Depending on the role, you may be expected to know how to utilize IDS/IPS, firewalls, ethical hacking, antimalware, DNS, encryption technologies and standards, VoIP, application security and network routing methods.
+> **[0:58](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=58)** Depending on the role, you may be expected to know how to utilize IDS/IPS, firewalls, [[Ethical Hacking]], antimalware, DNS, encryption technologies and standards, VoIP, [[Application Security]] and network [[Routing]] methods.
 >
-> **[1:15](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=75)** Windows, Unix or Linux operating system administration skills are also frequently desired by employers.
+> **[1:15](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=75)** [[Windows]], Unix or [[Linux]] operating [[System Administration]] skills are also frequently desired by employers.
 >
-> **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=82)** Depending on the nature of the job, cybersecurity engineers may also need to know secure coding practices.
+> **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=82)** Depending on the nature of the job, cybersecurity engineers may also need to know [[Secure Coding]] practices.
 >
 > **[1:28](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=88)** A firm understanding of identity and access management principles and virtualization technologies are also skills that often appear in cybersecurity engineered job listings.
 >
-> **[1:38](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=98)** Because cybersecurity engineers often develop scripts to handle and track incidents and automate repeatable tasks, scripting skills and experience with scripting languages such as Python, Perl and Windows PowerShell may be required.
+> **[1:38](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=98)** Because cybersecurity engineers often develop scripts to handle and track incidents and automate repeatable tasks, scripting skills and experience with scripting languages such as [[Python (Programming Language)|Python]], Perl and Windows [[Powershell]] may be required.
 >
-> **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=112)** Cybersecurity engineers will also investigate intrusion incidents and conduct forensic investigations and lead incident responses, so prior experience with incident response would be beneficial.
+> **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=112)** Cybersecurity engineers will also investigate intrusion incidents and conduct forensic investigations and lead incident responses, so prior experience with [[Incident Response]] would be beneficial.
 >
 > **[2:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=125)** Cybersecurity engineer jobs won't be entry level positions.
 >
@@ -1108,13 +1090,13 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=152)** You'll also need to demonstrate extensive hands-on experience with security and networking technologies, as well as at least one major network operating system, either Windows, Unix, or Linux.
 >
-> **[2:44](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=164)** Frequently desired certifications for cybersecurity engineers include CEH, GIAC certifications like GSEC, GCIH and GCIA, CCNP Security, Certificate of Cloud Security Knowledge, Certified Cloud Security Professional, CISM and CISSP.
+> **[2:44](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=164)** Frequently desired certifications for cybersecurity engineers include [[CEH]], GIAC certifications like GSEC, GCIH and GCIA, CCNP Security, Certificate of [[Cloud Security]] Knowledge, Certified Cloud Security Professional, CISM and CISSP.
 >
 > **[3:04](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-engineer?u=76281980&t=184)** If you have a passion for IT and security technologies and love to learn new systems inside and out, cybersecurity engineer may be a great fit for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), [[Cybersecurity]] (13), [[Windows]] (3), [[Linux]] (2), [[Scripting]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (13), [[Windows]] (3), [[Linux]] (2), [[Cloud Security]] (2), [[Network Security]] (1)
 > **Env Vars:** ids (1), ips (1), dns (1), ceh (1), giac (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (1), configure (1)
@@ -1123,20 +1105,19 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity career: Administrator
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980)
+#### [Cybersecurity career: Administrator](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=0)** - Cybersecurity administrators configure and support security systems such as firewalls, anti-malware software, and patch management systems.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=0)** - [[Cybersecurity]] administrators configure and support security systems such as firewalls, anti-malware software, and patch management systems.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=10)** They also manually administer user rights to systems to ensure only authorized people can access them.
 >
-> **[0:17](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=17)** Common job titles for this role include cybersecurity administrator, system security administrator, network security administrator, and information security administrator.
+> **[0:17](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=17)** Common job titles for this role include cybersecurity administrator, system security administrator, [[Network Security]] administrator, and information security administrator.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=29)** As their title says, cybersecurity administrators need solid Windows, Unix, or Linux operating systems administration skills.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=29)** As their title says, cybersecurity administrators need solid [[Windows]], Unix, or [[Linux]] operating systems administration skills.
 >
-> **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=38)** And because they must analyze and implement network, application, and data security, cybersecurity administrators must understand common protocols such as TCP/IP, SSL/TLS, HTTP, DNS, SMTP, and IPsec.
+> **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=38)** And because they must analyze and implement network, application, and [[Data Security]], cybersecurity administrators must understand common protocols such as TCP/IP, SSL/TLS, HTTP, DNS, SMTP, and IPsec.
 >
 > **[0:56](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=56)** Cybersecurity administrators are also expected to monitor network traffic for unusual activity.
 >
@@ -1154,7 +1135,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=106)** Other technical degrees may also be accepted.
 >
-> **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=109)** You'll also be expected to have technical, hands-on experience with security and networking technologies, such as identity and access management, firewalls, IDS/IPS, TCP/IP, computer networking, routing and switching, and more.
+> **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=109)** You'll also be expected to have technical, hands-on experience with security and networking technologies, such as identity and access management, firewalls, IDS/IPS, TCP/IP, [[Computer Networking]], [[Routing]] and switching, and more.
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-administrator?u=76281980&t=126)** Frequently desired certifications for cybersecurity administrators include Security+, GIAC certifications like GSEC, GCIH, GCIA, and GCFA, CISSP, and CISM.
 >
@@ -1162,19 +1143,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Security]] (9), management (3), [[Network Security]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Network Security]] (1), [[Windows]] (1), [[Linux]] (1), [[Data Security]] (1)
 > **Env Vars:** tcp (2), ssl (1), tls (1), http (1), dns (1)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - cybersecurity (1)
 
-#### Cybersecurity career: Architect
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980)
+#### [Cybersecurity career: Architect](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=0)** - [Instructor] Cybersecurity architects plan, research, and design security architectures and ensure that they are deployed properly.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=0)** - [Instructor] [[Cybersecurity]] architects plan, research, and design security architectures and ensure that they are deployed properly.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=8)** Since the cybersecurity architect is often a senior-level role with much responsibility, it's not unusual for architects to provide technical supervision for and guidance to a security team.
 >
@@ -1192,17 +1172,17 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=72)** Architects are part engineer, because they must develop complex security solutions, part analyst, because they must thoroughly understand the security environment they're working in, and part consultant because they must work with many teams to successfully deploy their architectures.
 >
-> **[1:28](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=88)** They need strong system administration skills in Windows, Unix, or Linux operating systems.
+> **[1:28](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=88)** They need strong [[System Administration]] skills in [[Windows]], Unix, or [[Linux]] operating systems.
 >
-> **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=95)** And they must have skills with many security technologies and processes, such as multi-factor authentication, IDS/IPS, firewalls, penetration and vulnerability testing, anti-malware, VPNs, and application security.
+> **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=95)** And they must have skills with many security technologies and processes, such as [[Multi-factor Authentication]], IDS/IPS, firewalls, penetration and vulnerability testing, anti-malware, VPNs, and [[Application Security]].
 >
-> **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=112)** Cybersecurity architects must have a thorough understanding of security attack methodologies and network security architectures.
+> **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=112)** Cybersecurity architects must have a thorough understanding of security attack methodologies and [[Network Security]] architectures.
 >
 > **[1:59](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=119)** They also need solid people skills because they must interact with personnel at all levels and across all business units.
 >
 > **[2:08](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=128)** Cybersecurity architect jobs aren't entry level positions.
 >
-> **[2:11](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=131)** Most job postings will require a minimum of seven years of hands-on experience in cybersecurity or IT management and at least five years of experience architecting solutions with a concentrated focus on security, performance, scalability, and reliability.
+> **[2:11](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=131)** Most job postings will require a minimum of seven years of hands-on experience in cybersecurity or IT management and at least five years of experience architecting solutions with a concentrated focus on security, performance, [[Scalability]], and reliability.
 >
 > **[2:28](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=148)** Almost every architect role will require a bachelor's degree in a related field.
 >
@@ -1210,29 +1190,28 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=159)** Other technical degrees may also be accepted.
 >
-> **[2:43](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=163)** Frequently-desired certifications for cybersecurity architects include Security+, CISSP, CISSP-ISSAP, CISM, CEH, and GIAC certifications, like GDSA, GSEC, GCIH, and GCIA.
+> **[2:43](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=163)** Frequently-desired certifications for cybersecurity architects include Security+, CISSP, CISSP-ISSAP, CISM, [[CEH]], and GIAC certifications, like GDSA, GSEC, GCIH, and GCIA.
 >
 > **[3:03](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-architect?u=76281980&t=183)** Cybersecurity architect jobs are perfect for highly-experienced security professionals who want to put their knowledge to work designing and implementing architectures that will help protect information systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), [[Cybersecurity]] (11), teams (1), [[System Administration]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (11), [[System Administration]] (1), [[Windows]] (1), [[Linux]] (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** cissp (2), ids (1), ips (1), issap (1), cism (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity career: Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980)
+#### [Cybersecurity career: Manager](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=0)** - [Speaker] Cybersecurity managers manage people and projects to help organizations implement successful security programs.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=0)** - [Speaker] [[Cybersecurity]] managers manage people and projects to help organizations implement successful security programs.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=8)** As a cybersecurity manager, your job will be to create and execute strategies to improve security.
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=16)** This means you'll need to have a deep understanding of security programs based on many years of experience.
 >
-> **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=23)** A cybersecurity manager's job often includes writing and implementing security policies and procedures, leading security audits, forensic investigations and mitigation procedures, and overseeing security awareness and training programs.
+> **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=23)** A cybersecurity manager's job often includes writing and implementing security policies and procedures, leading security audits, forensic investigations and mitigation procedures, and overseeing [[Security Awareness]] and training programs.
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=38)** Common job titles for this role include cyber security manager, information security manager, information system security manager, and IT security manager.
 >
@@ -1244,17 +1223,17 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=69)** Experience leading diverse teams and driving organizational change are often requirements on cybersecurity manager job listings.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=78)** Because they will be implementing a reliable security program, cybersecurity managers need to be familiar with ISO 27001, ITIL and COVID frameworks as well as understand PCI, HIPAA, NIST, GLBA, or SOX compliance assessments.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=78)** Because they will be implementing a reliable security program, cybersecurity managers need to be familiar with ISO 27001, [[ITIL]] and COVID frameworks as well as understand PCI, HIPAA, [[NIST]], GLBA, or SOX compliance assessments.
 >
-> **[1:36](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=96)** Cybersecurity managers need to see the big picture so their skills should include the practices and methods of IT strategy, enterprise architecture and security architecture.
+> **[1:36](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=96)** Cybersecurity managers need to see the big picture so their skills should include the practices and methods of [[IT Strategy]], [[Enterprise Architecture]] and security architecture.
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=107)** They will be expected to have experience implementing information security best practices and standards.
 >
-> **[1:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=114)** And they should know security risk assessment methodologies to measure and manage the risk in their security programs.
+> **[1:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=114)** And they should know [[Security Risk]] assessment methodologies to measure and manage the risk in their security programs.
 >
 > **[2:01](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=121)** Cybersecurity manager jobs aren't entry level positions.
 >
-> **[2:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=125)** Most job postings will require a minimum of six years of hands-on experience in cybersecurity or a combination of cybersecurity and IT audit or related discipline.
+> **[2:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=125)** Most job postings will require a minimum of six years of hands-on experience in cybersecurity or a combination of cybersecurity and [[IT Audit]] or related discipline.
 >
 > **[2:17](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-manager?u=76281980&t=137)** And almost every manager role will require a bachelor's degree in a related field.
 >
@@ -1268,18 +1247,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), [[Cybersecurity]] (13), leadership (2), management (1), teams (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (13), [[Security Awareness]] (1), [[ITIL]] (1), [[NIST]] (1), [[IT Strategy]] (1)
 > **Env Vars:** cissp (2), iso (1), itil (1), covid (1), pci (1)
 > **Analogies:** picture (1), such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [speaker] (1)
 
-#### Cybersecurity career: Director
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980)
+#### [Cybersecurity career: Director](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=0)** - [Instructor] Cybersecurity directors provide the organization's security vision, and work with their teams and senior leadership to ensure their vision gets implemented.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=0)** - [Instructor] [[Cybersecurity]] directors provide the organization's security vision, and work with their teams and senior leadership to ensure their vision gets implemented.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=10)** As a cybersecurity director, you will leverage your extensive security and management experience to lead security programs and the deployment of security technologies.
 >
@@ -1291,11 +1269,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=59)** Cybersecurity directors must have strong technical, management, and people skills.
 >
-> **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=64)** Key technical skills they need are a thorough understanding of TCP/IP, computer networking, routing, and switching DNS, authentication, VPN, Proxy services and DDoS mitigation technologies.
+> **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=64)** Key technical skills they need are a thorough understanding of TCP/IP, [[Computer Networking]], [[Routing]], and switching DNS, authentication, VPN, Proxy services and DDoS mitigation technologies.
 >
-> **[1:21](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=81)** Because they are responsible for managing the security of entire organizations, directors must have a deep knowledge of ISO 27001, ITIL, and COBIT frameworks, as well as PCI, HIPPA, NIST, GLBA, and SOX compliance assessments.
+> **[1:21](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=81)** Because they are responsible for managing the security of entire organizations, directors must have a deep knowledge of ISO 27001, [[ITIL]], and COBIT frameworks, as well as PCI, HIPPA, [[NIST]], GLBA, and SOX compliance assessments.
 >
-> **[1:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=99)** Cybersecurity directors need to see the big picture, so IT strategy, enterprise architecture and security architecture skills are essential.
+> **[1:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=99)** Cybersecurity directors need to see the big picture, so [[IT Strategy]], [[Enterprise Architecture]] and security architecture skills are essential.
 >
 > **[1:48](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-career-director?u=76281980&t=108)** And due to the nature of their position, they need to have strong leadership, interpersonal, written communication, oral communication, and analytical skills.
 >
@@ -1321,7 +1299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (14), [[Security]] (14), management (4), teams (2), leadership (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (14), [[Computer Networking]] (1), [[Routing]] (1), [[ITIL]] (1), [[NIST]] (1)
 > **Env Vars:** ciso (2), cissp (2), tcp (1), dns (1), vpn (1)
 > **Analogies:** picture (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1331,12 +1309,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cybersecurity certifications overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certifications-overview?u=76281980)
+#### [Cybersecurity certifications overview](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certifications-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certifications-overview?u=76281980&t=0)** - Certifications are an important part of your cybersecurity career.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certifications-overview?u=76281980&t=0)** - Certifications are an important part of your [[Cybersecurity]] career.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certifications-overview?u=76281980&t=4)** There are three reasons why certifications are so important.
 >
@@ -1382,13 +1359,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (13), career (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (13)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - certifications (1)
 
-#### Cybersecurity certification: GSEC
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980)
+#### [Cybersecurity certification: GSEC](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1398,13 +1374,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980&t=21)** There are no prerequisites to take the GSEC exam, but you'll want to have a solid understanding of many technical security topics.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980&t=29)** Here are some of the areas that will be covered on the exam: security concepts and technologies such as defense in depth, access control, and password management; cryptography concepts, algorithms, deployment, and application; cloud security, including both AWS and Microsoft Cloud Fundamentals; network defense, including defensible network architectures, networking and protocols, and network security; technical security concepts such as data loss prevention, mobile device security, vulnerability scanning, and penetration testing, critical controls, and exploit mitigation; Linux Fundamentals, plus hardening and securing Linux; web communication, endpoint and wireless network security; and Windows access controls, automation, auditing, forensics, security infrastructure, and services.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980&t=29)** Here are some of the areas that will be covered on the exam: security concepts and technologies such as defense in depth, access control, and password management; [[Cryptography]] concepts, [[Algorithms]], deployment, and application; [[Cloud Security]], including both AWS and [[Microsoft]] Cloud Fundamentals; network defense, including defensible network architectures, networking and protocols, and [[Network Security]]; technical security concepts such as data loss prevention, mobile device security, vulnerability scanning, and [[Penetration Testing]], critical controls, and exploit mitigation; [[Linux]] Fundamentals, plus hardening and securing Linux; web communication, endpoint and wireless network security; and [[Windows]] access controls, automation, auditing, forensics, security infrastructure, and services.
 >
 > **[1:21](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980&t=81)** If you're interested in taking this exam, I recommend you check out the GSEC page on the GIAC website for more details about the exam topics and objectives.
 >
-> **[1:30](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980&t=90)** Cybersecurity job listings that often require the GSEC certification include cybersecurity specialists or technicians, analysts, consultants, and administrators.
+> **[1:30](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980&t=90)** [[Cybersecurity]] job listings that often require the GSEC certification include cybersecurity specialists or technicians, analysts, consultants, and administrators.
 >
-> **[1:41](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980&t=101)** Helpful resources to prepare for the exam include: SANS Security Essentials: Network, Endpoint, and Cloud, the official training course for the GSEC exam; and LinkedIn Learning's exam prep GIAC Security Essentials GSEC training course.
+> **[1:41](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980&t=101)** Helpful resources to prepare for the exam include: SANS Security Essentials: Network, Endpoint, and Cloud, the official training course for the GSEC exam; and [[LinkedIn]] Learning's exam prep GIAC Security Essentials GSEC training course.
 >
 > **[1:57](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-gsec?u=76281980&t=117)** For links to these resources and other related information, please see the handout for this video.
 >
@@ -1418,15 +1394,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), cloud (3), [[Network Security]] (2), [[Linux]] (2), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Linux]] (2), [[Cybersecurity]] (2), [[Cryptography]] (1), [[Algorithms]] (1)
 > **Env Vars:** gsec (8), giac (5), aws (1), sans (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cybersecurity certification: SSCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?u=76281980)
+#### [Cybersecurity certification: SSCP](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1438,11 +1413,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?u=76281980&t=39)** If you don't have the required experience, you can still take the exam and become an associate of ISC squared until you have the required experience.
 >
-> **[0:48](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?u=76281980&t=48)** The seven domains of the SSCP common body of knowledge and topics you'll be tested on in the exam include security operations and administration, access controls, risk identification, monitoring and analysis, incident response and recovery, cryptography, networks and communication security, and systems and application security.
+> **[0:48](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?u=76281980&t=48)** The seven domains of the SSCP common body of knowledge and topics you'll be tested on in the exam include [[Security Operations]] and administration, access controls, risk identification, monitoring and analysis, [[Incident Response]] and recovery, [[Cryptography]], networks and communication security, and systems and [[Application Security]].
 >
-> **[1:10](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?u=76281980&t=70)** Cybersecurity job listings that often require the SSCP certification include cybersecurity specialists or technicians, analysts, consultants, administrators, and architects.
+> **[1:10](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?u=76281980&t=70)** [[Cybersecurity]] job listings that often require the SSCP certification include cybersecurity specialists or technicians, analysts, consultants, administrators, and architects.
 >
-> **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?u=76281980&t=82)** Helpful resources to prepare for the exam include LinkedIn Learnings Learning Path, prepare for the ISC squared Systems Security Certified Practitioner SSCP exam, the official ISC squared SSCP common body of knowledge reference, a comprehensive dive into the seven domains covered on the exam, and the ISC squared SSCP Systems Security Certified Practitioner Official Study Guide includes two practice exams, and more than 120 electronic flashcards.
+> **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?u=76281980&t=82)** Helpful resources to prepare for the exam include [[LinkedIn]] Learnings Learning Path, prepare for the ISC squared Systems Security Certified Practitioner SSCP exam, the official ISC squared SSCP common body of knowledge reference, a comprehensive dive into the seven domains covered on the exam, and the ISC squared SSCP Systems Security Certified Practitioner Official Study Guide includes two practice exams, and more than 120 electronic flashcards.
 >
 > **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?u=76281980&t=112)** For links to these resources and other related information, please see the handout for this video.
 >
@@ -1456,23 +1431,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (2), [[Incident Response]] (1), [[Cryptography]] (1), application (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security Operations]] (1), [[Incident Response]] (1), [[Cryptography]] (1), [[Application Security]] (1)
 > **Env Vars:** sscp (12), isc (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity certification: CEH
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-ceh?u=76281980)
+#### [Cybersecurity certification: CEH](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-ceh?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-ceh?u=76281980&t=0)** - [Instructor] The Certified Ethical Hacker, or CEH certification offered by the EC-Council validates your understanding of the techniques, tools, and technologies used by hackers to attack and compromise networks.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-ceh?u=76281980&t=0)** - [Instructor] The Certified Ethical Hacker, or [[CEH]] certification offered by the EC-Council validates your understanding of the techniques, tools, and technologies used by hackers to attack and compromise networks.
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-ceh?u=76281980&t=14)** There are prerequisites to take the CEH exam.
 >
-> **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-ceh?u=76281980&t=18)** You'll either need to attend any official EC-Council CEH training, or have two years of cybersecurity experience and fill out an eligibility application form, which may or may not be approved.
+> **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-ceh?u=76281980&t=18)** You'll either need to attend any official EC-Council CEH training, or have two years of [[Cybersecurity]] experience and fill out an eligibility application form, which may or may not be approved.
 >
-> **[0:31](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-ceh?u=76281980&t=31)** Topics you can expect to see on the exam include footprinting and recon, scanning networks, system enumeration, system hacking, malware threats, network traffic sniffing, social engineering attacks, session hijacking, hacking web servers, hacking web applications, SQL injection, and more.
+> **[0:31](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-ceh?u=76281980&t=31)** Topics you can expect to see on the exam include footprinting and recon, scanning networks, system enumeration, system hacking, malware threats, network traffic sniffing, social engineering attacks, session hijacking, hacking [[Web Servers]], hacking web applications, [[SQL]] injection, and more.
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-ceh?u=76281980&t=53)** Cybersecurity job listings that often require the CEH certification include cybersecurity technicians, analysts, auditors, consultants, administrators, and architects.
 >
@@ -1496,17 +1470,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), web (2), application (1), traffic (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[CEH]] (7), [[Cybersecurity]] (3), [[Web Servers]] (1), [[SQL]] (1)
 > **Env Vars:** ceh (7), sql (1), ece (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity certification: OSCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980)
+#### [Cybersecurity certification: OSCP](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=0)** - [Narrator] The Offensive Security Certified Professional or OSCP is a highly regarded technical certification designed to demonstrate that the holder is qualified to conduct penetration tests.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=0)** - [Narrator] The Offensive Security Certified Professional or [[OSCP]] is a highly regarded technical certification designed to demonstrate that the holder is qualified to conduct penetration tests.
 >
 > **[0:11](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=11)** The exam for the OSCP certification isn't a traditional multiple choice exam.
 >
@@ -1514,21 +1487,21 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=23)** If they can't compromise the machines in that time, then they fail the exam.
 >
-> **[0:28](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=28)** While there is no experience requirement to take the OSCP exam, completion of the Offensive Security Penetration Testing with Kali Linux training course, also known as PWK or PEN-200, is required.
+> **[0:28](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=28)** While there is no experience requirement to take the OSCP exam, completion of the Offensive Security [[Penetration Testing]] with [[Kali Linux]] training course, also known as PWK or PEN-200, is required.
 >
-> **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=41)** A solid understanding of TCP/IP networking, Active Directory, and Linux skills are also highly recommended.
+> **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=41)** A solid understanding of TCP/IP networking, [[Active Directory]], and [[Linux]] skills are also highly recommended.
 >
 > **[0:48](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=48)** Skills that are taught in the PEN-200 course will be essential for you to pass the OSCP exam.
 >
-> **[0:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=54)** These skills include: knowledge of information gathering techniques to find targets on a network, script and tool-writing ability to facilitate penetration testing, ability to modify exploit code to successfully compromise a host, successful execution of attacks both remote and client-side, ability to identify and exploit web application vulnerabilities such as cross-site scripting, SQL injection, and file inclusion vulnerabilities, ability to bypass firewalls with tunneling techniques, and creative problem-solving and lateral thinking skills.
+> **[0:54](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=54)** These skills include: knowledge of information gathering techniques to find targets on a network, script and tool-writing ability to facilitate penetration testing, ability to modify exploit code to successfully compromise a host, successful execution of attacks both remote and client-side, ability to identify and exploit web application vulnerabilities such as cross-site scripting, [[SQL]] injection, and file inclusion vulnerabilities, ability to bypass firewalls with tunneling techniques, and creative problem-solving and lateral [[Thinking Skills]].
 >
-> **[1:30](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=90)** Cybersecurity job listings that often require the OSCP certification include cybersecurity specialists or technicians, analysts, consultants, and penetration testers.
+> **[1:30](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=90)** [[Cybersecurity]] job listings that often require the OSCP certification include cybersecurity specialists or technicians, analysts, consultants, and penetration testers.
 >
 > **[1:42](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=102)** The best resource to help you pass this exam is Offensive Security's PEN-200 course which you need to take anyway.
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=109)** In addition, these resources might help you prepare.
 >
-> **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=112)** LinkedIn Learning's [[[[Penetration Testing Essential Training]] (2021)]] course will give you an overview of the world of penetration testing.
+> **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=112)** [[LinkedIn]] Learning's [[[[Penetration Testing Essential Training]] (2021)]] course will give you an overview of the world of penetration testing.
 >
 > **[1:59](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-oscp?u=76281980&t=119)** The Red Team Field Manual, RTFM, is a quick reference guide with hundreds of commands and techniques used by penetration testers.
 >
@@ -1548,7 +1521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (9), [[Penetration Testing]] (6), [[Security]] (3), [[Cybersecurity]] (3), [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[OSCP]] (9), [[Penetration Testing]] (6), [[Cybersecurity]] (3), [[Kali Linux]] (1), [[Active Directory]] (1)
 > **Env Vars:** oscp (9), pen (3), pwk (1), tcp (1), sql (1)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** find (1)
@@ -1557,12 +1530,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cybersecurity certification: CISA
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cisa?u=76281980)
+#### [Cybersecurity certification: CISA](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cisa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cisa?u=76281980&t=0)** - [Instructor] The Certified Information Systems Auditor, or CISA, certification offered by ISACA validates your knowledge of cybersecurity audit controls.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cisa?u=76281980&t=0)** - [Instructor] The Certified Information Systems Auditor, or CISA, certification offered by ISACA validates your knowledge of [[Cybersecurity]] audit controls.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cisa?u=76281980&t=9)** You will be tested in your ability to assess vulnerabilities, report on compliance, and implement controls within an organization.
 >
@@ -1578,7 +1550,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cisa?u=76281980&t=68)** Cybersecurity job listings that often require the CISA certification include IT security auditors, consultants, architects, and managers.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cisa?u=76281980&t=78)** Helpful resources to prepare for the exam include LinkedIn Learning's learning path "Prepare for the Certified Information Systems Auditor (CISA) Exam," "CISA Review Manual" is the official ISACA reference manual for the exam, and "CISA Review Questions, Answers, and Explanations Manual" has 1000 multiple-choice study questions from previous CISA exams.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cisa?u=76281980&t=78)** Helpful resources to prepare for the exam include [[LinkedIn]] Learning's learning path "Prepare for the Certified Information Systems Auditor (CISA) Exam," "CISA Review Manual" is the official ISACA reference manual for the exam, and "CISA Review Questions, Answers, and Explanations Manual" has 1000 multiple-choice study questions from previous CISA exams.
 >
 > **[1:41](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cisa?u=76281980&t=101)** For links to these resources and other related information, please see the handout for this video.
 >
@@ -1592,14 +1564,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (3), management (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[LinkedIn]] (1)
 > **Env Vars:** cisa (10), isaca (3)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity certification: CISSP
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cissp?u=76281980)
+#### [Cybersecurity certification: CISSP](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cissp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1611,11 +1582,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cissp?u=76281980&t=34)** One year of security experience can be waived if you have a college degree or you've received one of the approved security certifications.
 >
-> **[0:42](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cissp?u=76281980&t=42)** Topics you can expect to see on the exam include security and risk management, asset security, security engineering, communication and network security, identity and access management, security assessment and testing, security operations and software development security.
+> **[0:42](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cissp?u=76281980&t=42)** Topics you can expect to see on the exam include security and risk management, asset security, [[Security Engineering]], communication and [[Network Security]], identity and access management, security assessment and testing, [[Security Operations]] and [[Software Development Security]].
 >
-> **[1:01](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cissp?u=76281980&t=61)** Cybersecurity job listings that often require the CISSP certification include cybersecurity analysts, consultants, managers and directors.
+> **[1:01](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cissp?u=76281980&t=61)** [[Cybersecurity]] job listings that often require the CISSP certification include cybersecurity analysts, consultants, managers and directors.
 >
-> **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cissp?u=76281980&t=72)** Helpful resources to prepare for the exam include LinkedIn Learnings Learning Path: "Prepare for the ISC squared Certified Information Systems Security Professional CISSP Exam."
+> **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cissp?u=76281980&t=72)** Helpful resources to prepare for the exam include [[LinkedIn]] Learnings Learning Path: "Prepare for the ISC squared Certified Information Systems Security Professional CISSP Exam."
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cissp?u=76281980&t=83)** The CISSP all in One exam guide includes exam tips, practice questions and in-depth explanations.
 >
@@ -1635,23 +1606,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[Cybersecurity]] (4), management (2), [[LinkedIn]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[LinkedIn]] (2), [[Security Engineering]] (1), [[Network Security]] (1), [[Security Operations]] (1)
 > **Env Vars:** cissp (8), isc (4), sscp (1), ccsp (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity certification: CISM
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980)
+#### [Cybersecurity certification: CISM](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=0)** - [Narrator] The certified Information Systems manager, or CISM certification offered by ISACA, validates your knowledge of cybersecurity management principles.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=0)** - [Narrator] The certified Information Systems manager, or CISM certification offered by ISACA, validates your knowledge of [[Cybersecurity]] management principles.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=10)** You'll be tested on your understanding of information security governance, program development and management, incident management, and risk management.
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=20)** The CISM is an advanced certification for experienced cybersecurity professionals.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=26)** In order to take the exam, you need to have five years of work experience in information security management.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=26)** In order to take the exam, you need to have five years of work experience in [[Information Security Management]].
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=33)** Your work experience must be gained within 10 years prior to applying for this CISM certification or within five years of passing the exam.
 >
@@ -1661,7 +1631,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=62)** Cybersecurity job listings that often require the CISM certification include, cybersecurity managers, directors, consultants, auditors, architects, and engineers.
 >
-> **[1:14](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=74)** Helpful resources to prepare for the exam include, LinkedIn Learning's Certified Information Security Manager CISM Cert Prep courses.
+> **[1:14](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=74)** Helpful resources to prepare for the exam include, [[LinkedIn]] Learning's Certified Information Security Manager CISM Cert Prep courses.
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cism?u=76281980&t=84)** CISM Review Manual is the official ISACA reference manual for the exam, and CISM Review Questions, Answers and Explanations is a collection of a thousand study questions.
 >
@@ -1677,22 +1647,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Security]] (7), [[Cybersecurity]] (5), [[Information Security Management]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Information Security Management]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cism (9), isaca (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cybersecurity certification: CPP
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980)
+#### [Cybersecurity certification: CPP](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980&t=0)** - The Certified Protection Professional, or CPP Certification offered by ASIS, validates your knowledge of security management principles.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980&t=0)** - The Certified Protection Professional, or CPP Certification offered by ASIS, validates your knowledge of [[Security Management]] principles.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980&t=9)** The exam covers seven security management domains and is similar to the CISM certification in some ways.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980&t=16)** The CPP is an advanced certification for experienced cybersecurity professionals.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980&t=16)** The CPP is an advanced certification for experienced [[Cybersecurity]] professionals.
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980&t=23)** In order to take the exam, you need seven years of security work experience with at least three of those years being in charge of a security function, or a bachelor's degree and six years of security work experience, with at least three of those years being in charge of a security function.
 >
@@ -1702,7 +1671,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980&t=59)** Cybersecurity job listings that often require the CPP certification include cybersecurity managers, directors, consultants, auditors, architects, and engineers.
 >
-> **[1:11](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980&t=71)** The CPP exam is a little different than all the rest because it's based on standards and guidelines defined by ASIS.
+> **[1:11](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980&t=71)** The CPP exam is a little different than all the [[Representational State Transfer (REST)|rest]] because it's based on standards and guidelines defined by ASIS.
 >
 > **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-cpp?u=76281980&t=78)** These will be the best resources for you to use to study for the exam.
 >
@@ -1722,7 +1691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), [[Cybersecurity]] (4), management (3), business (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security Management]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cpp (7), asis (3), cism (1), poa (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** similar to (1)
@@ -1733,12 +1702,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/prerequisites?u=76281980&t=0)** - There are certain qualities and criteria that can help you land cybersecurity jobs.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/prerequisites?u=76281980&t=0)** - There are certain qualities and criteria that can help you land [[Cybersecurity]] jobs.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/prerequisites?u=76281980&t=5)** I call them prerequisites, even though they may not be strictly required for all jobs in this field.
 >
@@ -1778,17 +1746,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (5)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8)
 > **CLI Commands:** find (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - there (1)
 
-#### Getting started: Get certified
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/getting-started-get-certified?u=76281980)
+#### [Getting started: Get certified](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/getting-started-get-certified?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/getting-started-get-certified?u=76281980&t=0)** - Achieving a cybersecurity certification is no easy task.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/getting-started-get-certified?u=76281980&t=0)** - Achieving a [[Cybersecurity]] certification is no easy task.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/getting-started-get-certified?u=76281980&t=4)** To begin, it's important to understand why you're getting a certification because there are many misconceptions about the purposes of getting certified.
 >
@@ -1824,7 +1791,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/getting-started-get-certified?u=76281980&t=93)** Consistent studying will help you maintain the habit, as well as absorb and retain the knowledge better, especially since you'll have the time to repeatedly study key concepts.
 >
-> **[1:44](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/getting-started-get-certified?u=76281980&t=104)** Third, try to incorporate many forms of studying into your routine.
+> **[1:44](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/getting-started-get-certified?u=76281980&t=104)** Third, try to incorporate many [[Forms]] of studying into your routine.
 >
 > **[1:48](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/getting-started-get-certified?u=76281980&t=108)** Some people think reading one study guide is sufficient, but most guides aren't comprehensive enough.
 >
@@ -1862,7 +1829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security]] (2), [[Forms]] (2), application (1), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Forms]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** cissp (2), cisa (1), cism (1)
 > **Definitions:** in other words (1)
@@ -1870,8 +1837,7 @@ created: 2026-05-02
 > **Warnings:** don't make the mistake (1)
 > **Speakers:** - achieving (1)
 
-#### Example career path: Penetration tester
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980)
+#### [Example career path: Penetration tester](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1883,7 +1849,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=16)** She had a computer as a kid and instead of using it to play games, she would tinker with it to find out how it worked.
 >
-> **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=23)** She taught herself how to use the Windows command prompt and experimented with various commands.
+> **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=23)** She taught herself how to use the [[Windows]] command prompt and experimented with various commands.
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=29)** She would dismantle her computer and ask her dad what all the parts inside were.
 >
@@ -1891,11 +1857,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=39)** Soon she had a small home network with a server and workstation which she would configure to be as secure as possible.
 >
-> **[0:46](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=46)** After high school, Eve landed a job as an entry level IT help desk technician.
+> **[0:46](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=46)** After high school, Eve landed a job as an entry level [[IT Help Desk]] technician.
 >
-> **[0:51](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=51)** During the day, she solved problems for end users and at night, she would study computer networking.
+> **[0:51](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=51)** During the day, she solved problems for end users and at night, she would study [[Computer Networking]].
 >
-> **[0:57](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=57)** Her favorite part of the job was learning how to use tools like Nmap and Wireshark from the network engineers.
+> **[0:57](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=57)** Her favorite part of the job was learning how to use tools like [[Nmap]] and [[Wireshark]] from the network engineers.
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=64)** Sometimes she would help the networking team troubleshoot issues.
 >
@@ -1903,13 +1869,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=72)** It would be a way she could have fun with her computer networking and security skills and get paid for it.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=78)** Eve researched penetration testing jobs and found that many required the OSCP certification.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=78)** Eve researched [[Penetration Testing]] jobs and found that many required the [[OSCP]] certification.
 >
-> **[1:24](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=84)** She saved her money and took the online penetration testing with Kali Linux training course, which is required before taking the OSCP exam.
+> **[1:24](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=84)** She saved her money and took the online penetration testing with [[Kali Linux]] training course, which is required before taking the OSCP exam.
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=93)** The course was 90 days of working in an online lab hacking different types of machines.
 >
-> **[1:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=99)** Eve learned how to use privilege escalation, cross-site scripting, SQL injection and other tactics to compromise machines.
+> **[1:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=99)** Eve learned how to use privilege escalation, cross-site scripting, [[SQL]] injection and other tactics to compromise machines.
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-penetration-tester?u=76281980&t=107)** She found the course challenging and educational.
 >
@@ -1927,7 +1893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[OSCP]] (4), [[Computer Networking]] (3), career (2), [[Penetration Testing]] (2)
+> **Frameworks & Libraries:** [[OSCP]] (4), [[Computer Networking]] (3), [[Penetration Testing]] (2), [[Windows]] (1), [[IT Help Desk]] (1)
 > **Env Vars:** oscp (4), sql (1)
 > **CLI Commands:** find (2)
 > **Tools:** command prompt (1)
@@ -1936,8 +1902,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example career path: Security architect
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980)
+#### [Example career path: Security architect](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1945,7 +1910,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=4)** Let's take a look at one example career path to security architect for a man I'll call Bob.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=10)** Bob always had a strong interest in computers and security and knew from a young age that he wanted to work in the cybersecurity field.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=10)** Bob always had a strong interest in computers and security and knew from a young age that he wanted to work in the [[Cybersecurity]] field.
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=19)** In high school, he excelled in math and computer classes.
 >
@@ -1953,7 +1918,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=29)** He especially enjoyed learning how to securely design computer networks.
 >
-> **[0:33](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=33)** With his degree, Bob got hired as a cybersecurity analyst for a telecommunications company.
+> **[0:33](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=33)** With his degree, Bob got hired as a cybersecurity analyst for a [[Telecommunications]] company.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=39)** His job was to run vulnerability scans on the corporate network, analyze the results, and work with IT technicians to remediate the most critical vulnerabilities.
 >
@@ -1965,7 +1930,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=67)** Bob enjoyed his job, but after several years of running vulnerability scans, he was getting bored.
 >
-> **[1:13](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=73)** Since he liked network security, he decided he'd like to be a cybersecurity architect.
+> **[1:13](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=73)** Since he liked [[Network Security]], he decided he'd like to be a cybersecurity architect.
 >
 > **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=78)** He knew he'd need many years of experience working on network security before he got hired as a cybersecurity architect and was willing to put in the time.
 >
@@ -1991,11 +1956,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=156)** Bob got the junior cybersecurity architect job and worked with senior architects to design security solutions for the corporate network.
 >
-> **[2:44](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=164)** From there, he can decide if he wants to stay as an architect for the rest of his career or work toward other senior cybersecurity roles such as manager or director.
+> **[2:44](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/example-career-path-security-architect?u=76281980&t=164)** From there, he can decide if he wants to stay as an architect for the [[Representational State Transfer (REST)|rest]] of his career or work toward other senior cybersecurity roles such as manager or director.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Security]] (7), career (3), [[Network Security]] (2), [[Telecommunications]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Network Security]] (2), [[Telecommunications]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cissp (2), giac (1), gsec (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -2005,14 +1970,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Begin with the end in mind
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980)
+#### [Begin with the end in mind](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=0)** - In Stephen Covey's "The 7 Habits of Highly Effective People," habit number two is begin with the end in mind.
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=7)** If you want to apply this habit to your cybersecurity career, then as early in your career as possible you should decide where you want to be at the end of your career.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=7)** If you want to apply this habit to your [[Cybersecurity]] career, then as early in your career as possible you should decide where you want to be at the end of your career.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=17)** Let's say you're starting your career as a cybersecurity specialist and you've already decided that you'd like to be a chief information security officer someday.
 >
@@ -2020,7 +1984,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=31)** In this case, you would want to become very familiar with what it takes to be a CISO.
 >
-> **[0:36](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=36)** Research the required skills and qualifications by reading CISO job listings on sites like LinkedIn and Indeed.
+> **[0:36](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=36)** Research the required skills and qualifications by reading CISO job listings on sites like [[LinkedIn]] and Indeed.
 >
 > **[0:43](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=43)** Make a list of any job requirements you're missing and start working to fill in those gaps.
 >
@@ -2038,23 +2002,22 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=77)** The clearer you define the end you have in mind and the more you make strategic career decisions to achieve that goal, the more likely you are to achieve it.
 >
-> **[1:28](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=88)** If you have a question related to cybersecurity careers, I invite you to submit it in the Q&A section of the course page.
+> **[1:28](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980&t=88)** If you have a question related to [[Cybersecurity Careers]], I invite you to submit it in the Q&A section of the course page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (8), [[Cybersecurity]] (3), [[Security]] (1), [[LinkedIn]] (1), [[Cybersecurity Careers]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[LinkedIn]] (1), [[Cybersecurity Careers]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ciso (3)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
-#### Network with cybersecurity colleagues
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/network-with-cybersecurity-colleagues?u=76281980)
+#### [Network with cybersecurity colleagues](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/network-with-cybersecurity-colleagues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/network-with-cybersecurity-colleagues?u=76281980&t=0)** - [Narrator] The cybersecurity field is relatively small compared to many other career fields.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/network-with-cybersecurity-colleagues?u=76281980&t=0)** - [Narrator] The [[Cybersecurity]] field is relatively small compared to many other career fields.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/network-with-cybersecurity-colleagues?u=76281980&t=6)** And the more you participate in security organizations and events, you'll notice that you're running across the same people again and again.
 >
@@ -2102,24 +2065,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), [[Cybersecurity]] (2), career (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **CLI Commands:** make (5)
 > **Speakers:** - [narrator] (1)
 
-#### Participate in cybersecurity events
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980)
+#### [Participate in cybersecurity events](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980&t=0)** - [Instructor] One of the benefits of being a cybersecurity professional is the great variety of events which you can participate in.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980&t=0)** - [Instructor] One of the benefits of being a [[Cybersecurity]] professional is the great variety of events which you can participate in.
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980&t=7)** Just some of the options include chapter meetings for professional organizations like ISACA, ISSA, Cloud Security Alliance, and others, security conferences and conventions, vendor presentations, and meetups and other informal gatherings of security professionals.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980&t=7)** Just some of the options include chapter meetings for professional organizations like ISACA, ISSA, [[Cloud Security]] Alliance, and others, security conferences and conventions, vendor presentations, and meetups and other informal gatherings of security professionals.
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980&t=25)** There are many reasons why these events are beneficial, including staying current with security trends, earning CPEs, networking with colleagues, and leadership and speaking opportunities.
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980&t=36)** Events are excellent for staying current with trends in the industry.
 >
-> **[0:40](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980&t=40)** You'll learn about the latest security products technologies, and threats, often from fellow security colleagues sharing their personal experiences.
+> **[0:40](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980&t=40)** You'll learn about the latest security [[Microsoft Products|products]] technologies, and threats, often from fellow security colleagues sharing their personal experiences.
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/participate-in-cybersecurity-events?u=76281980&t=49)** Attending any of these events count as continuing professional education or CPE credits toward maintaining certifications like the CISSP.
 >
@@ -2149,17 +2111,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), leadership (5), [[Cybersecurity]] (1), cloud (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Cloud Security]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** isaca (2), issa (2), cpe (2), cissp (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Market yourself
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/market-yourself?u=76281980)
+#### [Market yourself](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/market-yourself?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/market-yourself?u=76281980&t=0)** - Even though the cybersecurity field is small and demand for qualified security professionals is high, getting hired by your employer of choice can still be competitive.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/market-yourself?u=76281980&t=0)** - Even though the [[Cybersecurity]] field is small and demand for qualified security professionals is high, getting hired by your employer of choice can still be competitive.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/market-yourself?u=76281980&t=10)** And many cybersecurity positions can be fully remote, increasing the competition even further.
 >
@@ -2177,7 +2138,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/market-yourself?u=76281980&t=47)** If you're not happy with your resume, there are many resources to help you improve it.
 >
-> **[0:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/market-yourself?u=76281980&t=52)** You can find plenty of great books on resume writing, and you can even take resume writing courses on LinkedIn Learning.
+> **[0:52](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/market-yourself?u=76281980&t=52)** You can find plenty of great books on [[Resume Writing]], and you can even take resume writing courses on [[LinkedIn]] Learning.
 >
 > **[0:58](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/market-yourself?u=76281980&t=58)** Another approach you can take is to ask fellow security colleagues for copies of their resumes.
 >
@@ -2205,17 +2166,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (7), career (4), [[Cybersecurity]] (3), [[Security]] (3), [[Resume Writing]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Cybersecurity]] (3), [[Resume Writing]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - even (1)
 
-#### Build depth of knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980)
+#### [Build depth of knowledge](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=0)** - [Instructor] You might find cybersecurity job postings which include the phrase, must have a depth of knowledge.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=0)** - [Instructor] You might find [[Cybersecurity]] job postings which include the phrase, must have a depth of knowledge.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=6)** This means that most employers don't want candidates who have just a superficial understanding of security.
 >
@@ -2225,11 +2185,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=22)** The good news is you can build your own depth of knowledge in security if you don't have it already.
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=27)** When you find a security topic you enjoy, say digital forensics, take it seriously and learn it inside out.
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=27)** When you find a security topic you enjoy, say [[Digital Forensics]], take it seriously and learn it inside out.
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=34)** This is especially important if you'd like to get a job doing that all the time.
 >
-> **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=39)** Study this topic in your free time, attend sessions on it at security conferences, go to trainings about it, or take a LinkedIn Learning course on it.
+> **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=39)** Study this topic in your free time, attend sessions on it at security conferences, go to trainings about it, or take a [[LinkedIn]] Learning course on it.
 >
 > **[0:47](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=47)** The point is to take that deep dive on it and learn it thoroughly versus just casually understanding it.
 >
@@ -2255,7 +2215,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=119)** There are many ways you can train other people in your security topic.
 >
-> **[2:03](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=123)** You can teach your coworkers during brown bag lunches, at company meetings, and through newsletters.
+> **[2:03](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=123)** You can teach your coworkers during brown bag lunches, at company meetings, and through [[Newsletters]].
 >
 > **[2:08](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/build-depth-of-knowledge?u=76281980&t=128)** You can also speak at conferences, in chapter meetings for security professional organizations like ISACA, Meetups, and other events.
 >
@@ -2269,7 +2229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Digital Forensics]] (2), [[LinkedIn]] (2), [[Cybersecurity]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (2), [[LinkedIn]] (2), [[Cybersecurity]] (1), [[Newsletters]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** isaca (1)
 > **UI Navigation:** go to (1)
@@ -2282,18 +2242,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your career and continuing education journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980)
+#### [Continue your career and continuing education journey](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980&t=0)** - In this course, we discussed many cybersecurity career paths and certifications.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980&t=0)** - In this course, we discussed many [[Cybersecurity]] career paths and certifications.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980&t=5)** You should now have a better understanding of why there's such a huge demand for cybersecurity professionals and have enough information to start or advance your career.
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980&t=15)** Hopefully, you can use the knowledge gained in this course to build your ideal career path.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980&t=21)** If you're ready to start, I encourage you to check out other cybersecurity courses on LinkedIn Learning.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980&t=21)** If you're ready to start, I encourage you to check out other cybersecurity courses on [[LinkedIn]] Learning.
 >
 > **[0:26](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980&t=26)** You'll find courses on most of the certifications I covered and many more cybersecurity topics.
 >
@@ -2303,7 +2262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), career (3), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[LinkedIn]] (2)
 > **CLI Commands:** find (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - in (1)

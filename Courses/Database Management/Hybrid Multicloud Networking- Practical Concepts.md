@@ -74,14 +74,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bringing hybrid multicloud networking to the real world
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980)
+#### [Bringing hybrid multicloud networking to the real world](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980&t=0)** - The Flexera State of the Cloud Report highlights that 93% of enterprises have a multicloud strategy today.
 >
-> **[0:10](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980&t=10)** This number tells a story and more importantly, it creates an opportunity for cloud professionals and leaders to modernize their skillset and lead change.
+> **[0:10](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980&t=10)** This number tells a story and more importantly, it creates an opportunity for cloud professionals and leaders to modernize their skillset and [[Lead Change]].
 >
 > **[0:20](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980&t=20)** Well-designed networks create a reliable foundation for cloud adoption.
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980&t=33)** You will also gain insight into how technology intersects with the business and how you as an individual have the power to influence the culture beyond yourself and your team.
 >
-> **[0:45](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980&t=45)** My name is William Collins and I've guided many large organizations through cloud adoption and digital transformation.
+> **[0:45](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980&t=45)** My name is William Collins and I've guided many large organizations through cloud adoption and [[Digital Transformation]].
 >
 > **[0:53](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980&t=53)** Today I work as a principle cloud architect for a network startup called Alkira.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), business (2), [[Lead Change]] (1), power (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Lead Change]] (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - the (1)
@@ -111,14 +110,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring cloud migration strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980)
+#### [Exploring cloud migration strategies](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=0)** - [Instructor] Building a strategy for migrating applications to the public cloud is a lot like building a house.
 >
-> **[0:07](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=7)** Applications and homes are often built using design patterns.
+> **[0:07](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=7)** Applications and homes are often built using [[Design Patterns]].
 >
 > **[0:13](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=13)** When we're exploring cloud migration strategies, the first thing we want to think through is design patterns.
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=26)** With home construction, a builder can produce hundreds of homes all from a single floor plan.
 >
-> **[0:33](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=33)** These plans are scaled but simple drawings showing room placement, doors, windows, and major fixtures.
+> **[0:33](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=33)** These plans are scaled but simple drawings showing room placement, doors, [[Windows]], and major fixtures.
 >
 > **[0:42](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=42)** In the software world, developers build software from patterns also, but instead of floor plans, they use high level designs.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=63)** Finding patterns leads to repeatability, and that is a huge part of successful automation.
 >
-> **[1:11](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=71)** When building infrastructure as code especially, having a golden standard for the infrastructure that supports your applications speeds up development cycles and even leads to more effective disaster recovery.
+> **[1:11](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=71)** When building [[Infrastructure as code (IaC)|infrastructure as code]] especially, having a golden standard for the infrastructure that supports your applications speeds up development cycles and even leads to more effective disaster recovery.
 >
 > **[1:25](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=85)** Enterprise environments can have a variety of applications and designs.
 >
@@ -156,13 +154,13 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=155)** You may have heard this referred to also as lift and shift.
 >
-> **[2:39](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=159)** Although this strategy may be faster, you don't reap many of the benefits inherent with cloud-native architecture.
+> **[2:39](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=159)** Although this strategy may be faster, you don't reap many of the benefits inherent with [[Cloud-Native Architecture]].
 >
 > **[2:48](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=168)** Next on the list is replatforming.
 >
 > **[2:52](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=172)** Like rehost, this strategy doesn't make major changes to the application, but does seek to optimize by taking advantage of certain cloud-native features.
 >
-> **[3:03](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=183)** A common example of this in the real world is transitioning your database to a platform as a service offering like Amazon's RDS, Azure SQL or Google Cloud SQL.
+> **[3:03](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=183)** A common example of this in the real world is transitioning your database to a [[PaaS|platform as a service]] offering like Amazon's RDS, [[Microsoft Azure|Azure]] [[SQL]] or [[Google Cloud Platform (GCP)|Google Cloud]] SQL.
 >
 > **[3:17](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980&t=197)** This can significantly reduce management overhead and open up the door for easier cross-region replication.
 >
@@ -180,14 +178,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), application (7), [[Design Patterns]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), data (2)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[SQL]] (2), [[Windows]] (1), [[Cloud-Native Architecture]] (1)
 > **Env Vars:** sql (2), rds (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Starting small and failing fast
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980)
+#### [Starting small and failing fast](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=8)** Enterprises usually have an intake process where they define, prioritize, and complete tasks.
 >
-> **[0:17](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=17)** The intake process for new products and applications didn't change much in the years that I worked in large enterprise, specifically after cloud disrupted the industry.
+> **[0:17](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=17)** The intake process for new [[Microsoft Products|products]] and applications didn't change much in the years that I worked in large enterprise, specifically after cloud disrupted the industry.
 >
 > **[0:29](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=29)** It generally worked something like this.
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=122)** They will also be tasked with network design facilitating critical elements like disaster recovery.
 >
-> **[2:09](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=129)** Security teams will complete a risk profile, and then they're going to validate least privilege access as being provided and may want to understand how encryption is being handled for data in transit and at rest.
+> **[2:09](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=129)** Security teams will complete a risk profile, and then they're going to validate least privilege access as being provided and may want to understand how encryption is being handled for data in transit and at [[Representational State Transfer (REST)|rest]].
 >
 > **[2:24](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=144)** Compute teams will need to work out the virtual machine image build process and then how to provision it and also routine maintenance like patching.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=180)** This can cause further delays to the overall timeline.
 >
-> **[3:05](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=185)** Have you ever put together a giant jigsaw puzzle?
+> **[3:05](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=185)** Have you ever put together a giant [[Jigsaw]] puzzle?
 >
 > **[3:08](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/starting-small-and-failing-fast?u=76281980&t=188)** I recently took on this task with my six year old, and you have to admire his optimism here.
 >
@@ -283,14 +280,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (11), cloud (4), product (3), business (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Jigsaw]] (1)
 > **Analogies:** picture (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud networking is a team sport
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/cloud-networking-is-a-team-sport?u=76281980)
+#### [Cloud networking is a team sport](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/cloud-networking-is-a-team-sport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +312,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/cloud-networking-is-a-team-sport?u=76281980&t=70)** Data encryption, ingress and egress network flows, secrets management, and how the application is patterned are just a few examples.
 >
-> **[1:21](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/cloud-networking-is-a-team-sport?u=76281980&t=81)** FinOps, a cross between DevOps and finance is evolving to take control and bring accountability to cloud spend.
+> **[1:21](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/cloud-networking-is-a-team-sport?u=76281980&t=81)** FinOps, a cross between [[DevOps]] and finance is evolving to take control and bring [[Accountability]] to cloud spend.
 >
 > **[1:31](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/cloud-networking-is-a-team-sport?u=76281980&t=91)** As we can see, all these technologies and teams cross the network.
 >
@@ -356,7 +352,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/cloud-networking-is-a-team-sport?u=76281980&t=200)** Network involvement at this stage is far too late.
 >
-> **[3:26](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/cloud-networking-is-a-team-sport?u=76281980&t=206)** Given the current supply chain crisis, hardware scarcity, and circuit lead times just in general, network practitioners should be brought in as early on as possible.
+> **[3:26](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/cloud-networking-is-a-team-sport?u=76281980&t=206)** Given the current supply chain crisis, [[Hardware]] scarcity, and circuit lead times just in general, network practitioners should be brought in as early on as possible.
 >
 > **[3:38](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/cloud-networking-is-a-team-sport?u=76281980&t=218)** Shifting left and bringing the right network experience for planning and testing will enable an organization to fail fast and get in front of setbacks that could otherwise cost months in delays.
 >
@@ -386,7 +382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (15), application (4), cloud (4), data (2), database (2)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Accountability]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** bgp (1)
@@ -394,8 +390,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building for the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/building-for-the-future?u=76281980)
+#### [Building for the future](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/building-for-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,11 +406,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/building-for-the-future?u=76281980&t=31)** Think about how that evolution will happen ahead of time.
 >
-> **[0:35](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/building-for-the-future?u=76281980&t=35)** An example could be route summarization or IP addressing schemes used for cloud networking and workloads.
+> **[0:35](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/building-for-the-future?u=76281980&t=35)** An example could be route summarization or [[IP Addressing]] schemes used for cloud networking and workloads.
 >
-> **[0:43](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/building-for-the-future?u=76281980&t=43)** Think through the design's ability to be integrated with other products and services.
+> **[0:43](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/building-for-the-future?u=76281980&t=43)** Think through the design's ability to be integrated with other [[Microsoft Products|products]] and services.
 >
-> **[0:49](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/building-for-the-future?u=76281980&t=49)** Net DevOps culture has ushered in a new delivery method for networking using CICD pipelines and provisioning tools like Terraform.
+> **[0:49](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/building-for-the-future?u=76281980&t=49)** Net [[DevOps]] culture has ushered in a new delivery method for networking using CICD pipelines and provisioning tools like [[Terraform]].
 >
 > **[0:59](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/building-for-the-future?u=76281980&t=59)** No matter the tool though, extensibility in the network is valuable.
 >
@@ -485,7 +480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Automation]] (3), [[IP Addressing]] (2), next (2), teams (2)
+> **Frameworks & Libraries:** [[IP Addressing]] (2), [[Microsoft Products|Products]] (1), [[DevOps]] (1), [[Terraform]] (1)
 > **Env Vars:** vpc (3), cicd (1), aws (1)
 > **CLI Commands:** terraform (1), aws (1), find (1)
 > **Definitions:** is a  (2)
@@ -499,8 +494,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of hybrid multicloud networking options
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980)
+#### [Overview of hybrid multicloud networking options](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +534,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=127)** This solution leverages dispersed points of presence that enterprises can use to build private, reliable networking to and between sites, data centers, and clouds.
 >
-> **[2:22](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=142)** You can think of SDCI as a specialized platform that integrates direct connections to infrastructure as a service providers with SD-WAN, VPN services and many other partner integrations.
+> **[2:22](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=142)** You can think of SDCI as a specialized platform that integrates direct connections to [[IaaS|infrastructure as a service]] providers with SD-WAN, VPN services and many other partner integrations.
 >
 > **[2:38](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=158)** Since SDCI providers are deploying global, high capacity networks in proximity to cloud regions, this allows for easier scale as you grow with the cloud.
 >
@@ -550,7 +544,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=189)** While our first three options provide some of the same functionality of getting you to the cloud, cloud network software aims to fill gaps by addressing networking inside the cloud.
 >
-> **[3:22](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=202)** These products bring the ability to engineer, deploy, and operate a consistent network inside and across multiple cloud providers.
+> **[3:22](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=202)** These [[Microsoft Products|products]] bring the ability to engineer, deploy, and operate a consistent network inside and across multiple cloud providers.
 >
 > **[3:31](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=211)** This includes building consistent policy, security and governance, while making day to operations more streamlined as multi-cloud deployments become more common.
 >
@@ -572,7 +566,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=267)** Procurement should be a consideration throughout the process.
 >
-> **[4:31](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=271)** Things like procuring network hardware or even deploying new circuits can add months to the process.
+> **[4:31](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=271)** Things like procuring network [[Hardware]] or even deploying new circuits can add months to the process.
 >
 > **[4:38](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=278)** With the current supply chain crisis, the time it takes to procure physical hardware keeps changing and is often growing.
 >
@@ -600,7 +594,7 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=346)** When the network is not performing good, it gets noticed and has a gigantic impact on customers and internal employees trying to do their work.
 >
-> **[5:55](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=355)** User experience has taken center stage in the cloud era.
+> **[5:55](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=355)** [[User Experience (UX)|User experience]] has taken center stage in the cloud era.
 >
 > **[5:59](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980&t=359)** Having a quality product that has the capacity to scale as demand increases can make or break that experience, meaning that a customer could possibly leave for a competing product.
 >
@@ -624,13 +618,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (21), business (5), teams (3), [[Security]] (2), vpn (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[IaaS|Infrastructure as a service]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** sdci (3), vpn (2), opex (2), capex (2), wan (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Virtual private networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/virtual-private-networks?u=76281980)
+#### [Virtual private networks](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/virtual-private-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,7 +631,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/virtual-private-networks?u=76281980&t=6)** The on-premises network you want to connect will have a gateway.
 >
-> **[0:10](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/virtual-private-networks?u=76281980&t=10)** This is usually a physical device or software appliance that handles the customer side of the VPN tunnel and controls routing advertisements coming in and going out of the customer network.
+> **[0:10](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/virtual-private-networks?u=76281980&t=10)** This is usually a physical device or software appliance that handles the customer side of the VPN tunnel and controls [[Routing]] advertisements coming in and going out of the customer network.
 >
 > **[0:23](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/virtual-private-networks?u=76281980&t=23)** The target gateway is the other side of the connection.
 >
@@ -706,7 +699,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/virtual-private-networks?u=76281980&t=227)** On the pros side, VPNs are at least in the beginning the quickest way to get connected to cloud.
 >
-> **[3:56](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/virtual-private-networks?u=76281980&t=236)** Upfront cost is minimal, especially if no additional hardware or internet circuits need to be set up.
+> **[3:56](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/virtual-private-networks?u=76281980&t=236)** Upfront cost is minimal, especially if no additional [[Hardware]] or internet circuits need to be set up.
 >
 > **[4:04](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/virtual-private-networks?u=76281980&t=244)** And chances are the enterprise you work for already has a process in place to request a VPN.
 >
@@ -726,7 +719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), vpn (9), traffic (4), [[Routing]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Hardware]] (2)
 > **Env Vars:** vpn (9), bgp (2), vpc (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (3)
@@ -734,8 +727,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Private connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980)
+#### [Private connections](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -759,19 +751,19 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=78)** Up until this point, I've used pretty generic lingo, but I want to highlight that each cloud provider tends to have their own set of definitions for things that may provide a similar function.
 >
-> **[1:32](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=92)** For example, Amazon Web Services calls their network a virtual private cloud or VPC.
+> **[1:32](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=92)** For example, [[Amazon Web Services (AWS)|Amazon Web Services]] calls their network a virtual private cloud or VPC.
 >
 > **[1:41](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=101)** Their private connection service is called Direct Connect and they use a combination of three different gateway types to allow traffic to privately route in and out of a VPC while handling the necessary attachments.
 >
-> **[1:57](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=117)** Microsoft Azure calls their network a virtual network, or VNet for short.
+> **[1:57](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=117)** [[Microsoft Azure]] calls their network a virtual network, or VNet for short.
 >
-> **[2:04](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=124)** Their private connection surface is called ExpressRoute, and a VNet Gateway is their logical routing function for forwarding traffic on a private connection.
+> **[2:04](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=124)** Their private connection surface is called ExpressRoute, and a VNet Gateway is their logical [[Routing]] function for forwarding traffic on a private connection.
 >
-> **[2:15](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=135)** Google Cloud Platform, like AWS, uses virtual private cloud as their network name.
+> **[2:15](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=135)** [[Google Cloud Platform (GCP)|Google Cloud Platform]], like AWS, uses virtual private cloud as their network name.
 >
 > **[2:22](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=142)** Their connection service is called Interconnect and they use their cloud routers to handle routing between the VPC and customer edge device.
 >
-> **[2:32](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=152)** Last on the list is Oracle Cloud Infrastructure, or OCI for short.
+> **[2:32](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=152)** Last on the list is Oracle [[Cloud Infrastructure]], or OCI for short.
 >
 > **[2:37](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=157)** OCI uses the name virtual cloud network or VCN.
 >
@@ -781,7 +773,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=180)** The behavior will be pretty close, but not identical.
 >
-> **[3:04](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=184)** Let's zoom in on dedicated connections.
+> **[3:04](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=184)** Let's [[Zoom]] in on dedicated connections.
 >
 > **[3:08](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=188)** Dedicated connections to the public cloud are usually set up in a co-location or carrier-neutral data center.
 >
@@ -819,7 +811,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=316)** Let's examine a somewhat common scenario to understand hosted connections better.
 >
-> **[5:23](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=323)** Let's say your business connects offices together with a service provider's MPLS network.
+> **[5:23](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=323)** Let's say your business connects offices together with a service provider's [[Multiprotocol Label Switching (MPLS)|MPLS]] network.
 >
 > **[5:30](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=330)** A new requirement comes down the pipeline and a connection to a public cloud provider is needed.
 >
@@ -845,13 +837,13 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=421)** And hosted connections will be in operational expenditure while dedicated connections will have some capital expenditure involved.
 >
-> **[7:10](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=430)** This could include the cost of the cross connect and any network gear, optics, or other hardware required to terminate the connection.
+> **[7:10](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=430)** This could include the cost of the cross connect and any network gear, optics, or other [[Hardware]] required to terminate the connection.
 >
 > **[7:20](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/private-connections?u=76281980&t=440)** And hosted connection speeds will range anywhere from 512 megabits per second to 10 gigabits per second, while dedicated connections will get you one gigabit, 10 gigabit, or 100 gigabits per second.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), traffic (3), [[Routing]] (3), data (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Env Vars:** vpc (3), oci (2), vcn (2), loa (2), bgp (2)
 > **Prerequisites:** set up (6), required to (2), configure (1)
 > **Definitions:** is called (5), means that (1)
@@ -859,8 +851,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Software-defined cloud interconnect (SDCI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980)
+#### [Software-defined cloud interconnect (SDCI)](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,9 +893,9 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980&t=120)** The first use case is connecting to the cloud.
 >
-> **[2:04](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980&t=124)** The SDCI platform is going to be driven through a portal or APIs, and can spin up connections to a multitude of infrastructure providers, including public cloud and various Software as a Service platforms.
+> **[2:04](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980&t=124)** The SDCI platform is going to be driven through a portal or APIs, and can spin up connections to a multitude of infrastructure providers, including public cloud and various [[SaaS|Software as a Service]] platforms.
 >
-> **[2:19](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980&t=139)** This happens fast, and it can be automated through modern infrastructure as code tools like Terraform.
+> **[2:19](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980&t=139)** This happens fast, and it can be automated through modern [[Infrastructure as code (IaC)|infrastructure as code]] tools like [[Terraform]].
 >
 > **[2:26](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980&t=146)** The second use case is really optimizing how our existing data centers and sites communicate with each other.
 >
@@ -920,7 +911,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980&t=193)** Next, we need to ensure reliability and performance when connecting to our critical services.
 >
-> **[3:21](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980&t=201)** This could be anything from internet, DNS, active directory, or any other shared services used internally.
+> **[3:21](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980&t=201)** This could be anything from internet, DNS, [[Active Directory]], or any other shared services used internally.
 >
 > **[3:29](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/software-defined-cloud-interconnect-sdci?u=76281980&t=209)** Now, zooming out quite a bit and looking at this diagram right here, we can see this SDCI platform is interconnecting all our critical network infrastructure.
 >
@@ -928,7 +919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (6), business (2), dns (2), traffic (1)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Terraform]] (1), [[Active Directory]] (1)
 > **Env Vars:** sdci (7), dns (2)
 > **CLI Commands:** make (1), terraform (1)
 > **Analogies:** picture (1), just like (1)
@@ -936,16 +927,14 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multicloud networking software
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/multicloud-networking-software?u=76281980)
+#### [Multicloud networking software](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/multicloud-networking-software?u=76281980)
 
 
 ### 3. Planning a Hybrid Multicloud Network
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The shifting acquisition landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980)
+#### [The shifting acquisition landscape](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,13 +962,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=69)** This has altered the acquisition game from top to bottom.
 >
-> **[1:13](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=73)** Let's zoom in a little further.
+> **[1:13](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=73)** Let's [[Zoom]] in a little further.
 >
 > **[1:16](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=76)** Many startups today aren't building data centers.
 >
-> **[1:20](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=80)** Instead, they are building products and services using the public cloud.
+> **[1:20](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=80)** Instead, they are building [[Microsoft Products|products]] and services using the public cloud.
 >
-> **[1:26](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=86)** Workforces are operating completely remote unless they absolutely must come into the office.
+> **[1:26](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=86)** Workforces are operating completely remote unless they absolutely must come into the [[Microsoft Office|office]].
 >
 > **[1:33](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=93)** This offers tremendous cost savings because physical infrastructure doesn't need to be purchased and maintained.
 >
@@ -987,7 +976,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=105)** Since many new startups are being built on public cloud, instead of acquiring a data center and real estate, you will instead be acquiring a product built in the cloud, along with a distributed workforce.
 >
-> **[2:01](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=121)** And to keep things frosty, there is a high probability that the product was built in a different cloud provider than the one your business is using today.
+> **[2:01](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=121)** And to keep things frosty, there is a high [[Probability]] that the product was built in a different cloud provider than the one your business is using today.
 >
 > **[2:10](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980&t=130)** This flips the table over on how the integration process works.
 >
@@ -1039,14 +1028,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), business (9), data (6), product (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), [[Zoom]] (1), [[Probability]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it like (1)
 > **Speakers:** - [instructor] (1)
 
-#### High availability in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/high-availability-in-the-cloud?u=76281980)
+#### [High availability in the cloud](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/high-availability-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,7 +1044,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/high-availability-in-the-cloud?u=76281980&t=13)** To add color here, let's look at what would happen without redundancy in the case of something really important, like internet access.
 >
-> **[0:22](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/high-availability-in-the-cloud?u=76281980&t=22)** Pre-cloud, most workforces were in the office.
+> **[0:22](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/high-availability-in-the-cloud?u=76281980&t=22)** Pre-cloud, most workforces were in the [[Microsoft Office|office]].
 >
 > **[0:26](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/high-availability-in-the-cloud?u=76281980&t=26)** And that office accessed the internet through the corporate data center.
 >
@@ -1074,7 +1062,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/high-availability-in-the-cloud?u=76281980&t=72)** By doing so, if any one device goes down, there is another device running that can carry the load.
 >
-> **[1:21](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/high-availability-in-the-cloud?u=76281980&t=81)** Instead of thinking, in terms of deploying hardware redundancy, the public cloud takes things up a notch with environmental redundancy as well.
+> **[1:21](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/high-availability-in-the-cloud?u=76281980&t=81)** Instead of thinking, in terms of deploying [[Hardware]] redundancy, the public cloud takes things up a notch with environmental redundancy as well.
 >
 > **[1:31](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/high-availability-in-the-cloud?u=76281980&t=91)** In the public cloud, redundant data centers called availability zones are used when designing for high availability.
 >
@@ -1126,15 +1114,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), cloud (7), [[Microsoft Office|Office]] (2), [[Hardware]] (2), application (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Hardware]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (2)
 > **Env Vars:** sla (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disaster recovery in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980)
+#### [Disaster recovery in the cloud](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1156,7 +1143,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=65)** Recovery point objective, or RPO, is the timeframe in the past to which you will recover.
 >
-> **[1:14](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=74)** RPO for critical databases could be as little as 30 minutes to an hour, while non-essential databases could be as long as 24 hours.
+> **[1:14](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=74)** RPO for critical [[Databases]] could be as little as 30 minutes to an hour, while non-essential databases could be as long as 24 hours.
 >
 > **[1:25](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=85)** To summarize, these metrics outline the length of time that your business can afford to be offline and how much data loss is acceptable.
 >
@@ -1182,7 +1169,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=173)** If, for some reason, a regional failure occurs, requests will shift to the closest alternate region.
 >
-> **[3:01](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=181)** To make this as seamless as possible for end user experience, data replicating across regions must be quick and reliable and local state must be reduced or eliminated.
+> **[3:01](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=181)** To make this as seamless as possible for end [[User Experience (UX)|user experience]], data replicating across regions must be quick and reliable and local state must be reduced or eliminated.
 >
 > **[3:13](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=193)** If you are part of a big family, being able to get kids to school, work, sports means lots of time in the car.
 >
@@ -1212,7 +1199,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=277)** In a warm standby scenario, the system will already be running in an alternate region, but not at scale.
 >
-> **[4:44](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=284)** One of the great things about cloud computing is the elasticity of scaling resources on demand.
+> **[4:44](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=284)** One of the great things about [[Cloud Computing]] is the elasticity of scaling resources on demand.
 >
 > **[4:51](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/disaster-recovery-in-the-cloud?u=76281980&t=291)** Once a failure happens in the active region, resources can be scaled to meet the demand of incoming requests in the passive region.
 >
@@ -1266,7 +1253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (4), traffic (3), application (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[User Experience (UX)|User experience]] (2), [[Cloud Computing]] (1)
 > **Env Vars:** rpo (3), rto (2)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1)
@@ -1274,14 +1261,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capacity planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980)
+#### [Capacity planning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=0)** - [Instructor] What is capacity planning?
+> **[0:00](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=0)** - [Instructor] What is [[Capacity Planning]]?
 >
-> **[0:03](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=3)** I like to break this down into three distinct categories, profiling, forecasting and adapting.
+> **[0:03](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=3)** I like to break this down into three distinct categories, profiling, [[Forecasting]] and adapting.
 >
 > **[0:12](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=12)** Profiling identifies where the network is today by using tools and data, to understand things like bandwidth utilization, throughput, latency and packet loss.
 >
@@ -1295,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=49)** And lastly, you must adapt to demand by adding capacity.
 >
-> **[0:54](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=54)** In the cloud, there are methods of doing this elastically but where physical hardware is involved, it can be tricky.
+> **[0:54](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=54)** In the cloud, there are methods of doing this elastically but where physical [[Hardware]] is involved, it can be tricky.
 >
 > **[1:02](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=62)** Having a repeatable process hammered out that automates as much as possible is recommended.
 >
@@ -1315,7 +1301,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=121)** Chances are that your internet has inbound traffic today for various things like application hosting, remote workers and business to business connections.
 >
-> **[2:12](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=132)** Even more traffic is likely generated from outbound internet access and software as a service.
+> **[2:12](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=132)** Even more traffic is likely generated from outbound internet access and [[SaaS|software as a service]].
 >
 > **[2:20](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=140)** Now, let's look at a few potential bottlenecks here that could cause gigantic disruption to operations.
 >
@@ -1365,7 +1351,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=303)** A good first alternative is adding additional internet capacity.
 >
-> **[5:07](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=307)** Dedicated access isn't shared with other customers like general consumer internet, and will come in significantly cheaper than MPLS alternatives.
+> **[5:07](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=307)** Dedicated access isn't shared with other customers like general consumer internet, and will come in significantly cheaper than [[Multiprotocol Label Switching (MPLS)|MPLS]] alternatives.
 >
 > **[5:19](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/capacity-planning?u=76281980&t=319)** If you're already using SD-WAN, this option has a lot of benefits.
 >
@@ -1391,7 +1377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), cloud (7), traffic (6), [[Hardware]] (4), business (3)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Capacity Planning]] (2), [[Forecasting]] (1), [[SaaS|Software as a service]] (1), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
 > **Env Vars:** wan (2), ssl (1), vpn (1), mpls (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
@@ -1400,8 +1386,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network segmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/network-segmentation?u=76281980)
+#### [Network segmentation](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/network-segmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1451,7 +1436,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/network-segmentation?u=76281980&t=210)** And with compartmentalize services possibly requiring access to protected data, how do you ensure the right security policies are in place for this data across all business units, teams and applications?
 >
-> **[3:46](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/network-segmentation?u=76281980&t=226)** Instead of thinking of segmentation hierarchically what about thinking of it by data classification?
+> **[3:46](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/network-segmentation?u=76281980&t=226)** Instead of thinking of segmentation hierarchically what about thinking of it by [[Data Classification]]?
 >
 > **[3:54](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/network-segmentation?u=76281980&t=234)** A macro segment for all applications that interact with protected data would reduce the number of segments you manage and give you the ability to enforce safeguards from the top down.
 >
@@ -1485,7 +1470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (14), data (10), [[Security]] (5), teams (5), traffic (2)
+> **Frameworks & Libraries:** [[Data Classification]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (2)
 > **Definitions:** is a  (1)
@@ -1496,8 +1481,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Moving forward with your hybrid multicloud networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/moving-forward-with-your-hybrid-multicloud-networking?u=76281980)
+#### [Moving forward with your hybrid multicloud networking](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/moving-forward-with-your-hybrid-multicloud-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1517,7 +1501,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/moving-forward-with-your-hybrid-multicloud-networking?u=76281980&t=66)** For deeper dives into the technology itself, each major cloud provider has a certification focused on the way they do networking.
 >
-> **[1:17](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/moving-forward-with-your-hybrid-multicloud-networking?u=76281980&t=77)** These include AWS Certified Advanced Networking Specialty, Designing and Implementing Microsoft Azure Network Solutions and Google's Professional Cloud Network Engineer.
+> **[1:17](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/moving-forward-with-your-hybrid-multicloud-networking?u=76281980&t=77)** These include AWS Certified Advanced Networking Specialty, Designing and Implementing [[Microsoft Azure]] Network Solutions and [[Google]]'s Professional Cloud Network Engineer.
 >
 > **[1:33](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/moving-forward-with-your-hybrid-multicloud-networking?u=76281980&t=93)** While getting the certification is the goal, just going through the material for the purpose of gaining additional knowledge has its benefits as well.
 >
@@ -1531,7 +1515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), business (3), next (1), aws (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (1), [[Google]] (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** we covered (1)

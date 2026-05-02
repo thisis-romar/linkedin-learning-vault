@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transform your service management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980)
+#### [Transform your service management](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=12)** Think of it this way.
 >
-> **[0:14](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=14)** Digital transformation is using technology to transform the business to drive value to make processes work better.
+> **[0:14](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=14)** [[Digital Transformation]] is using technology to transform the business to drive value to make processes work better.
 >
 > **[0:22](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=22)** We've now got hyperfocused technology AI tools like chat bots and virtual assistance, data analytics tools, agent assist tools, and knowledge-powered AI workflows.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=57)** Hi, my name is Fancy Mills, and I'm the Director of Training and Content at HDI.
 >
-> **[1:03](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=63)** This course is designed to help you navigate the latest in IT service management.
+> **[1:03](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=63)** This course is designed to help you navigate the latest in [[IT Service Management]].
 >
 > **[1:08](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=68)** Many of the examples I'll share with you are ideas that have been gathered over 20 years of working in service management and from our best practices at HDI.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=101)** As we talk about the latest in service management methodologies, you'll determine how to restructure your environment.
 >
-> **[1:47](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=107)** The terms and key practices and processes, such as service-level management, incident management, knowledge management, problem management, and change management, are essential to your team's success.
+> **[1:47](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=107)** The terms and key practices and processes, such as service-level management, incident management, knowledge management, [[Problem Management]], and change management, are essential to your team's success.
 >
 > **[2:00](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980&t=120)** And lastly, we'll focus on key service management concepts, like value, value creation, and value chains.
 >
@@ -127,15 +126,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (11), business (4), ai (2), [[Digital Transformation]] (1), data (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[IT Service Management]] (1), [[Problem Management]] (1)
 > **Env Vars:** hdi (3)
 > **Best Practices:** the key is (1), best practice (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/it-service-desk-service-management/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -169,7 +167,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4)
 > **CLI Commands:** find (1)
 > **Env Vars:** hdi (1)
 > **Exercise Files:** exercise files (1)
@@ -181,12 +178,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Service management defined
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-defined?u=76281980)
+#### [Service management defined](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-defined?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-defined?u=76281980&t=1)** - So what does digital transformation have to do with service management?
+> **[0:01](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-defined?u=76281980&t=1)** - So what does [[Digital Transformation]] have to do with service management?
 >
 > **[0:04](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-defined?u=76281980&t=4)** Well, everything!
 >
@@ -234,13 +230,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (11), [[Digital Transformation]] (2), business (2)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - so (1)
 
-#### What is a service?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/what-is-a-service?u=76281980)
+#### [What is a service?](https://www.linkedin.com/learning/it-service-desk-service-management/what-is-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/it-service-desk-service-management/what-is-a-service?u=76281980&t=49)** What exactly is a service?
 >
-> **[0:51](https://www.linkedin.com/learning/it-service-desk-service-management/what-is-a-service?u=76281980&t=51)** ITIL 4 defines a service as a means of enabling value co-creation by facilitating the outcomes that customers want to achieve, without the customer having to manage the costs and risks of the service provisioning.
+> **[0:51](https://www.linkedin.com/learning/it-service-desk-service-management/what-is-a-service?u=76281980&t=51)** [[ITIL]] 4 defines a service as a means of enabling value co-creation by facilitating the outcomes that customers want to achieve, without the customer having to manage the costs and risks of the service provisioning.
 >
 > **[1:05](https://www.linkedin.com/learning/it-service-desk-service-management/what-is-a-service?u=76281980&t=65)** In more direct terms, an IT service offering is one or more services designed to meet the needs of a particular customer segment.
 >
@@ -296,14 +291,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[ITIL]] (1), data (1)
+> **Frameworks & Libraries:** [[ITIL]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** itil (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Service management frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980)
+#### [Service management frameworks](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,9 +315,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=39)** In one organization I've worked with, they use COBIT to ensure regulatory requirements are met.
 >
-> **[0:44](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=44)** It also has ITIL as its overall service management framework.
+> **[0:44](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=44)** It also has [[ITIL]] as its overall service management framework.
 >
-> **[0:48](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=48)** It has Agile and DevOps for development to operations.
+> **[0:48](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=48)** It has [[Agile Development|Agile]] and [[DevOps]] for development to operations.
 >
 > **[0:52](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=52)** They use IT4IT to establish their overall IT business model, use ISO 27000 for security, as well as ISO 20000 for defining their overall management system.
 >
@@ -355,9 +349,9 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=137)** Agile is an iterative, incremental, fixed timeframe methodology where requirements and priorities evolve based on customer needs.
 >
-> **[2:26](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=146)** In Agile development, products and services are built incrementally by self-organizing cross-functional teams.
+> **[2:26](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=146)** In Agile development, [[Microsoft Products|products]] and services are built incrementally by self-organizing cross-functional teams.
 >
-> **[2:33](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=153)** [[Agile Software Development]] lifecycle refers to a process based on iterative development and adaptive planning, gathering requirements like user stories, analysis, design, coding, testing, release, and deployment with customer feedback at each iteration.
+> **[2:33](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=153)** [[[[Agile Software Development]]]] lifecycle refers to a process based on iterative development and adaptive planning, gathering requirements like user stories, analysis, design, coding, testing, release, and deployment with customer feedback at each iteration.
 >
 > **[2:52](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=172)** Agile methodology values people more than processes and emphasizes the need for flexibility in producing products and services that provide value to the service consumer.
 >
@@ -369,7 +363,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=209)** Kaizen teams are often formed in a Lean environment to transform improvement initiatives into quick wins.
 >
-> **[3:36](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=216)** Six Sigma is a methodology that improves the capability of business processes.
+> **[3:36](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=216)** [[Six Sigma]] is a methodology that improves the capability of business processes.
 >
 > **[3:40](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=220)** You control the inputs so that you can control the outputs while improving performance and decreasing variations, which results in a reduction of defects in improvements and employee engagement, quality, and value of the products and services produced.
 >
@@ -417,7 +411,7 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=361)** VeriSM was released in 2017 and is an approach on how to use existing best practices, ITIL, DevOps, Agile, Lean, IT4IT, COBIT, Kanban, and Kaizen to achieve the outcomes desired by the organization.
 >
-> **[6:20](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=380)** Core to VeriSM the concept of a management mesh, which has four stages, define the customer requirements and produce a service blueprint, produce by build, test, and implement, provide the activities needed to maintain and improve the service, and respond, collect, manage, and take action on customer feedback.
+> **[6:20](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=380)** Core to VeriSM the concept of a management [[Mesh]], which has four stages, define the customer requirements and produce a service blueprint, produce by build, test, and implement, provide the activities needed to maintain and improve the service, and respond, collect, manage, and take action on customer feedback.
 >
 > **[6:43](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-frameworks?u=76281980&t=403)** IT4IT is a vendor-neutral IT reference architecture standard for managing IT as a business, which contains an IT operating mode based on IT value chain principles.
 >
@@ -439,15 +433,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (11), [[Six Sigma]] (8), [[DevOps]] (7), [[ITIL]] (6), [[Agile Development|Agile]] (6)
+> **Frameworks & Libraries:** [[Six Sigma]] (8), [[DevOps]] (7), [[ITIL]] (6), [[Agile Development|Agile]] (6), [[Microsoft Products|Products]] (5)
 > **Env Vars:** itil (6), cobit (5), it4it (3), iso (2), dmaic (1)
 > **Definitions:** is a  (9), is an  (3), refers to (1)
 > **Versions:** 3.4 (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - there (1)
 
-#### Key service desk practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/key-service-desk-practices?u=76281980)
+#### [Key service desk practices](https://www.linkedin.com/learning/it-service-desk-service-management/key-service-desk-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,7 +466,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/it-service-desk-service-management/key-service-desk-practices?u=76281980&t=102)** Service desk teams may be local, centralized, or virtual.
 >
-> **[1:46](https://www.linkedin.com/learning/it-service-desk-service-management/key-service-desk-practices?u=76281980&t=106)** As more organizations are maturing their problem management practices and adopt Agile, DevOps, the characteristics of incoming work to the service desk is rapidly changing.
+> **[1:46](https://www.linkedin.com/learning/it-service-desk-service-management/key-service-desk-practices?u=76281980&t=106)** As more organizations are maturing their [[Problem Management]] practices and adopt [[Agile Development|Agile]], [[DevOps]], the characteristics of incoming work to the service desk is rapidly changing.
 >
 > **[1:57](https://www.linkedin.com/learning/it-service-desk-service-management/key-service-desk-practices?u=76281980&t=117)** Some organizations will retain their tiered support model, while others will adopt a swarming model, where non-service desk staff will be involved in the initial investigation and diagnosis of incidents.
 >
@@ -523,7 +516,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/it-service-desk-service-management/key-service-desk-practices?u=76281980&t=363)** The service desk practice relies on an effective knowledge management practice to ensure efficient incident and request management handling.
 >
-> **[6:11](https://www.linkedin.com/learning/it-service-desk-service-management/key-service-desk-practices?u=76281980&t=371)** Knowledge management is also required for effective self-service in any artificial intelligence applications, like chatbots or virtual assistants.
+> **[6:11](https://www.linkedin.com/learning/it-service-desk-service-management/key-service-desk-practices?u=76281980&t=371)** Knowledge management is also required for effective self-service in any [[Artificial Intelligence (AI)|artificial intelligence]] applications, like chatbots or virtual assistants.
 >
 > **[6:21](https://www.linkedin.com/learning/it-service-desk-service-management/key-service-desk-practices?u=76281980&t=381)** The service desk practice also handles most user-initiated standard changes that are not automated.
 >
@@ -535,14 +528,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (12), teams (2), [[Problem Management]] (2), [[Security]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2), [[Agile Development|Agile]] (1), [[DevOps]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** spoc (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### Value creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/value-creation?u=76281980)
+#### [Value creation](https://www.linkedin.com/learning/it-service-desk-service-management/value-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,13 +564,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/it-service-desk-service-management/value-creation?u=76281980&t=75)** But how can you define and measure value to establish goals and decide how to apply principles?
 >
-> **[1:22](https://www.linkedin.com/learning/it-service-desk-service-management/value-creation?u=76281980&t=82)** A key component to the ITIL 4 framework is the ITIL Service Value System.
+> **[1:22](https://www.linkedin.com/learning/it-service-desk-service-management/value-creation?u=76281980&t=82)** A key component to the [[ITIL]] 4 framework is the ITIL Service Value System.
 >
 > **[1:28](https://www.linkedin.com/learning/it-service-desk-service-management/value-creation?u=76281980&t=88)** The ITIL Service Value System has five core components: guiding principles, governance, ITIL practices, continual improvement, and at its core, the service value chain.
 >
 > **[1:43](https://www.linkedin.com/learning/it-service-desk-service-management/value-creation?u=76281980&t=103)** The Service Value System shows how the activities and the components of the organization come together as a system to enable value co-creation.
 >
-> **[1:53](https://www.linkedin.com/learning/it-service-desk-service-management/value-creation?u=76281980&t=113)** There are key elements of co-creation, inputs: opportunities that add value, demand: need for products and services, and output value which is perceived benefits or usefulness.
+> **[1:53](https://www.linkedin.com/learning/it-service-desk-service-management/value-creation?u=76281980&t=113)** There are key elements of co-creation, inputs: opportunities that add value, demand: need for [[Microsoft Products|products]] and services, and output value which is perceived benefits or usefulness.
 >
 > **[2:07](https://www.linkedin.com/learning/it-service-desk-service-management/value-creation?u=76281980&t=127)** Service value chain is the core of the Service Value System and includes six activities: Plan, Improve, Engage, Design and Transition, Obtain and Build, and Deliver and Support.
 >
@@ -650,7 +642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (4), [[Microsoft Products|Products]] (4), product (3), application (2), management (1)
+> **Frameworks & Libraries:** [[ITIL]] (4), [[Microsoft Products|Products]] (4)
 > **Analogies:** for example (5), such as (1)
 > **Env Vars:** itil (4), ces (1)
 > **Definitions:** is a  (3)
@@ -661,8 +653,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Service level management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management?u=76281980)
+#### [Service level management](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -756,14 +747,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), business (3), generic (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** slm (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - service (1)
 
-#### Service level management processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-processes?u=76281980)
+#### [Service level management processes](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -773,7 +762,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-processes?u=76281980&t=14)** Service level management is part of relationship management, which is vital to the business.
 >
-> **[0:20](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-processes?u=76281980&t=20)** Relationship management offers many benefits to the overall business, including building trust, improving customer satisfaction, better alignment of and integration of services and improved overall communication with customers.
+> **[0:20](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-processes?u=76281980&t=20)** Relationship management offers many benefits to the overall business, including [[Building Trust]], improving customer satisfaction, better alignment of and integration of services and improved overall communication with customers.
 >
 > **[0:36](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-processes?u=76281980&t=36)** The key elements of service level management include, identifying customer demand and documented requirements that are gathered in the form of service level requirements.
 >
@@ -783,7 +772,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-processes?u=76281980&t=65)** There may be an additional negotiation after a pilot period and before formalizing a contract to agree on the final requirements of the service level agreement.
 >
-> **[1:16](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-processes?u=76281980&t=76)** From there the process evolves into continuous monitoring, reporting, and review.
+> **[1:16](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-processes?u=76281980&t=76)** From there the process evolves into [[Continuous Monitoring]], reporting, and review.
 >
 > **[1:22](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-processes?u=76281980&t=82)** So let's talk a little bit more about service level requirements that are the foundation of this whole process.
 >
@@ -811,13 +800,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), business (2), [[Building Trust]] (1), [[Continuous Monitoring]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1), [[Continuous Monitoring]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** slr (1)
 > **Speakers:** - service (1)
 
-#### Service level management components
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-components?u=76281980)
+#### [Service level management components](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,7 +833,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-components?u=76281980&t=123)** These partnerships are based on all these components, and also, trust.
 >
-> **[2:08](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-components?u=76281980&t=128)** Building trust with your customers requires you to measure and report on what matters to your customer.
+> **[2:08](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-components?u=76281980&t=128)** [[Building Trust]] with your customers requires you to measure and report on what matters to your customer.
 >
 > **[2:14](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-components?u=76281980&t=134)** Negotiate for a win-win, and be open to saying yes, with expectations and a price attached.
 >
@@ -861,7 +849,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-components?u=76281980&t=169)** Operational-level agreements have many of the same elements as a service-level agreement; they are focused internally, though, and are not customer facing.
 >
-> **[2:59](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-components?u=76281980&t=179)** The contents of an OLA include the description of the service, hours, days on site, on-call procedures, maintenance windows, availability, escalation procedures, incident, problem, change, and service request procedures, and performance reporting.
+> **[2:59](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-components?u=76281980&t=179)** The contents of an OLA include the description of the service, hours, days on site, on-call procedures, maintenance [[Windows]], availability, escalation procedures, incident, problem, change, and service request procedures, and performance reporting.
 >
 > **[3:18](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management-components?u=76281980&t=198)** Often at HGI, we are asked, should you create service-level agreements or operating-level agreements first?
 >
@@ -889,15 +877,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), business (3), database (1), [[Building Trust]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1), [[Windows]] (1)
 > **Env Vars:** ola (3), hgi (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - service (1)
 
-#### Service catalog strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-catalog-strategies?u=76281980)
+#### [Service catalog strategies](https://www.linkedin.com/learning/it-service-desk-service-management/service-catalog-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,7 +928,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), management (2), [[Search]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** hdi (1)
 > **Exercise Files:** template (1)
@@ -952,8 +938,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Incident management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/incident-management?u=76281980)
+#### [Incident management](https://www.linkedin.com/learning/it-service-desk-service-management/incident-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,7 +954,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/it-service-desk-service-management/incident-management?u=76281980&t=31)** Incident management processes ensure that standardized methods exist for handling incidents.
 >
-> **[0:37](https://www.linkedin.com/learning/it-service-desk-service-management/incident-management?u=76281980&t=37)** This minimizes the impact of any given incident on business operations, and streamlines incident response to create consistent customer service.
+> **[0:37](https://www.linkedin.com/learning/it-service-desk-service-management/incident-management?u=76281980&t=37)** This minimizes the impact of any given incident on [[Business Operations]], and streamlines [[Incident Response]] to create consistent customer service.
 >
 > **[0:47](https://www.linkedin.com/learning/it-service-desk-service-management/incident-management?u=76281980&t=47)** Additional objectives include increasing awareness in communication of incidents, as well as ensuring that all activities align with business needs.
 >
@@ -1009,13 +994,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), business (3), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[Incident Response]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - incident (1)
 
-#### Process components
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/process-components?u=76281980)
+#### [Process components](https://www.linkedin.com/learning/it-service-desk-service-management/process-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1073,14 +1057,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), business (2), teams (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (2)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Establish a process
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/establish-a-process?u=76281980)
+#### [Establish a process](https://www.linkedin.com/learning/it-service-desk-service-management/establish-a-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1102,7 +1084,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/it-service-desk-service-management/establish-a-process?u=76281980&t=61)** For example, if you have VIPs, you must have a procedure in place so there are not questions on who is a VIP and how they are handled.
 >
-> **[1:11](https://www.linkedin.com/learning/it-service-desk-service-management/establish-a-process?u=76281980&t=71)** Lastly, a best practice is to use the same prioritization scheme for both incident and problem management.
+> **[1:11](https://www.linkedin.com/learning/it-service-desk-service-management/establish-a-process?u=76281980&t=71)** Lastly, a best practice is to use the same prioritization scheme for both incident and [[Problem Management]].
 >
 > **[1:18](https://www.linkedin.com/learning/it-service-desk-service-management/establish-a-process?u=76281980&t=78)** The investigation step includes just that, investigation of the incident, gathering diagnostic data and applying a solution.
 >
@@ -1116,7 +1098,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/it-service-desk-service-management/establish-a-process?u=76281980&t=128)** This requires a mature incident process where all steps are documented and there's a common vocabulary.
 >
-> **[2:15](https://www.linkedin.com/learning/it-service-desk-service-management/establish-a-process?u=76281980&t=135)** We want to ask, "Has this incident "already been reported to others "or a system monitoring tool?
+> **[2:15](https://www.linkedin.com/learning/it-service-desk-service-management/establish-a-process?u=76281980&t=135)** We want to ask, "Has this incident "already been reported to others "or a [[System Monitoring]] tool?
 >
 > **[2:21](https://www.linkedin.com/learning/it-service-desk-service-management/establish-a-process?u=76281980&t=141)** "Has problem management provided a solution "or a workaround?"
 >
@@ -1154,7 +1136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (3), business (2), management (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Problem Management]] (3), [[System Monitoring]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** vip (1)
@@ -1163,8 +1145,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - prioritization (1)
 
-#### Knowledge management
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980)
+#### [Knowledge management](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,9 +1153,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980&t=7)** It's that important.
 >
-> **[0:10](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980&t=10)** The purpose of knowledge management is to reuse the available knowledge within the organization to enable better decision-making and reduce risk.
+> **[0:10](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980&t=10)** The purpose of knowledge management is to reuse the available knowledge within the organization to enable better [[Decision-Making]] and reduce risk.
 >
-> **[0:18](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980&t=18)** Within the scope of incident management and request management, knowledge is used to resolve issues faster, more consistently, and build reports that can improve products and services.
+> **[0:18](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980&t=18)** Within the scope of incident management and request management, knowledge is used to resolve issues faster, more consistently, and build reports that can improve [[Microsoft Products|products]] and services.
 >
 > **[0:30](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980&t=30)** Often, 50% or more of the resources allocated to support are used to create knowledge known by someone, but not shared.
 >
@@ -1186,7 +1167,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980&t=68)** Known errors and workarounds are a type of knowledge article.
 >
-> **[1:11](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980&t=71)** Problem management is accountable and responsible for the accuracy of known errors and workarounds, whereas the service desk staff, software development, infrastructure, testing, operations, and other related departments are responsible for identifying errors and ensuring the knowledge system articles are accurate.
+> **[1:11](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980&t=71)** [[Problem Management]] is accountable and responsible for the accuracy of known errors and workarounds, whereas the service desk staff, [[Software Development]], infrastructure, testing, operations, and other related departments are responsible for identifying errors and ensuring the knowledge system articles are accurate.
 >
 > **[1:31](https://www.linkedin.com/learning/it-service-desk-service-management/knowledge-management?u=76281980&t=91)** Some of these articles will also be available in the user self-service portal for self-help, or used by chatbots and virtual agents.
 >
@@ -1206,7 +1187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), [[Microsoft Products|Products]] (2), [[Decision-Making]] (1), [[Problem Management]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Decision-Making]] (1), [[Problem Management]] (1), [[Software Development]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** hgi (1)
 > **Speakers:** - knowledge (1)
@@ -1216,12 +1197,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage stakeholder expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980)
+#### [Manage stakeholder expectations](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980&t=1)** - Problem management is a quality assurance practice.
+> **[0:01](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980&t=1)** - [[Problem Management]] is a [[Quality Assurance]] practice.
 >
 > **[0:03](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980&t=3)** It reduces unplanned interruptions and increases the availability of the services by isolating and eliminating problems.
 >
@@ -1241,7 +1221,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980&t=45)** Problem management reduces the impact to the organization.
 >
-> **[0:48](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980&t=48)** When you identify the causes of incidents, the probability of incidents decline.
+> **[0:48](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980&t=48)** When you identify the causes of incidents, the [[Probability]] of incidents decline.
 >
 > **[0:54](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980&t=54)** Problem management is responsible for the management of workarounds and known errors, which are used by incident management to restore service faster.
 >
@@ -1287,16 +1267,15 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980&t=152)** And number and impact of incidents not associated to a known error.
 >
-> **[2:36](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980&t=156)** Problem management needs to address the four dimensions of service management to ensure that the value of the products and services continue to increase and meet the current and future needs of the stakeholders.
+> **[2:36](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980&t=156)** Problem management needs to address the four dimensions of service management to ensure that the value of the [[Microsoft Products|products]] and services continue to increase and meet the current and future needs of the stakeholders.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (12), management (4), [[Quality Assurance]] (1), [[Probability]] (1), teams (1)
+> **Frameworks & Libraries:** [[Problem Management]] (12), [[Quality Assurance]] (1), [[Probability]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - problem (1)
 
-#### Manage process flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/manage-process-flow?u=76281980)
+#### [Manage process flow](https://www.linkedin.com/learning/it-service-desk-service-management/manage-process-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1304,7 +1283,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/it-service-desk-service-management/manage-process-flow?u=76281980&t=4)** Here is an example of the key activities which must be completed.
 >
-> **[0:08](https://www.linkedin.com/learning/it-service-desk-service-management/manage-process-flow?u=76281980&t=8)** The flow of activities for problem management are similar to incident management, detect, log, categorize, prioritize, and investigate and diagnose, resolve and close.
+> **[0:08](https://www.linkedin.com/learning/it-service-desk-service-management/manage-process-flow?u=76281980&t=8)** The flow of activities for [[Problem Management]] are similar to incident management, detect, log, categorize, prioritize, and investigate and diagnose, resolve and close.
 >
 > **[0:20](https://www.linkedin.com/learning/it-service-desk-service-management/manage-process-flow?u=76281980&t=20)** Problem detection is both reactive and proactive.
 >
@@ -1326,7 +1305,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/it-service-desk-service-management/manage-process-flow?u=76281980&t=69)** By using the same scheme it will simplify associating new incidents to existing problem records.
 >
-> **[1:17](https://www.linkedin.com/learning/it-service-desk-service-management/manage-process-flow?u=76281980&t=77)** Now prioritization is based on the impact and urgency as well as the probability of the incident reoccurring.
+> **[1:17](https://www.linkedin.com/learning/it-service-desk-service-management/manage-process-flow?u=76281980&t=77)** Now prioritization is based on the impact and urgency as well as the [[Probability]] of the incident reoccurring.
 >
 > **[1:24](https://www.linkedin.com/learning/it-service-desk-service-management/manage-process-flow?u=76281980&t=84)** Investigations are conducted to diagnose the cause of problems, and the appropriate level of resource and expertise needs to be allocated based on the impact, the urgency, and the probability of the incident reoccurrence.
 >
@@ -1344,13 +1323,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (4), [[Probability]] (2), management (1)
+> **Frameworks & Libraries:** [[Problem Management]] (4), [[Probability]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - each (1)
 
-#### Problem management methodologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-methodologies?u=76281980)
+#### [Problem management methodologies](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-methodologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1372,7 +1350,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-methodologies?u=76281980&t=60)** Brainstorming is a technique used to identify possible causes.
 >
-> **[1:03](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-methodologies?u=76281980&t=63)** The first step is to list the possible causes without regard to the probability of it causing the error.
+> **[1:03](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-methodologies?u=76281980&t=63)** The first step is to list the possible causes without regard to the [[Probability]] of it causing the error.
 >
 > **[1:09](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-methodologies?u=76281980&t=69)** After identifying the causes, they can then be ranked.
 >
@@ -1398,7 +1376,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-methodologies?u=76281980&t=141)** The last 20% of the activities take 80% of the time.
 >
-> **[2:25](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-methodologies?u=76281980&t=145)** In problem management, we often use this to identify the 20% of issues that result in the 80% of errors.
+> **[2:25](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-methodologies?u=76281980&t=145)** In [[Problem Management]], we often use this to identify the 20% of issues that result in the 80% of errors.
 >
 > **[2:35](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-methodologies?u=76281980&t=155)** Let's look at Kepner-Tregoe, which is a structured methodology for problem solving, root cause analysis, operational and process improvement, along with decision analysis.
 >
@@ -1420,23 +1398,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), product (2), data (1), management (1), power (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Problem Management]] (1)
 > **Definitions:** is a  (4), known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - each (1)
 
-#### Problem management relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980)
+#### [Problem management relationships](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=1)** - There are multiple inputs in problem management.
+> **[0:01](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=1)** - There are multiple inputs in [[Problem Management]].
 >
 > **[0:03](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=3)** Incidents, known errors, and knowledge articles are used to identify problems.
 >
 > **[0:07](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=7)** Service Level Management reports, relationship management techniques, and risk analysis are used to isolate and diagnosis problems.
 >
-> **[0:15](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=15)** This information comes from the CMS, or Configuration Management System, and other areas are used to analyze problems.
+> **[0:15](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=15)** This information comes from the CMS, or [[Configuration Management]] System, and other areas are used to analyze problems.
 >
 > **[0:23](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=23)** The outputs from problem management are known errors, workarounds, fixes, and reports.
 >
@@ -1444,7 +1421,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=32)** Let's look at some of the outputs to problem management.
 >
-> **[0:36](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=36)** Service Level Management provides inputs as to how well the products and services are meeting the agreed requirements, and identifies future needs, which are considered in the analysis.
+> **[0:36](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=36)** Service Level Management provides inputs as to how well the [[Microsoft Products|products]] and services are meeting the agreed requirements, and identifies future needs, which are considered in the analysis.
 >
 > **[0:46](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=46)** Service Level Management also has outputs from problem management.
 >
@@ -1474,7 +1451,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=138)** For example, the strategy, portfolio, supplier, capacity, performance, availability, monitoring event, infrastructure and platform management, and finally the service desk.
 >
-> **[2:31](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=151)** They also work with software development and continuous improvement.
+> **[2:31](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=151)** They also work with [[Software Development]] and continuous improvement.
 >
 > **[2:35](https://www.linkedin.com/learning/it-service-desk-service-management/problem-management-relationships?u=76281980&t=155)** Problem management is about continuing to improve the products and services to cost-effectively meet the organizational and stakeholder needs and requirements.
 >
@@ -1482,7 +1459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (13), management (10), cms (2), [[Microsoft Products|Products]] (2), [[Configuration Management]] (1)
+> **Frameworks & Libraries:** [[Problem Management]] (13), [[Microsoft Products|Products]] (2), [[Configuration Management]] (1), [[Software Development]] (1)
 > **Env Vars:** cms (2)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
@@ -1492,8 +1469,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change management practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980)
+#### [Change management practices](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1507,11 +1483,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=21)** And by managing the change schedule.
 >
-> **[0:23](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=23)** Change control is different from organizational change management.
+> **[0:23](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=23)** Change control is different from [[Organizational Change Management]].
 >
-> **[0:27](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=27)** Change control is focused on changes to products and services.
+> **[0:27](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=27)** Change control is focused on changes to [[Microsoft Products|products]] and services.
 >
-> **[0:30](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=30)** This part of digital transformation, organizational change management, is a general management practice focused on organizational initiatives and people aspects.
+> **[0:30](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=30)** This part of [[Digital Transformation]], organizational change management, is a general management practice focused on organizational initiatives and people aspects.
 >
 > **[0:41](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=41)** Change control is a part of a value stream that ensures changes are effectively released and deployed, and to meet stakeholder expectations.
 >
@@ -1533,7 +1509,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=108)** Change control needs to balance the value enabled by changes and the risk of the adverse impact.
 >
-> **[1:54](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=114)** Let's take a look at these statistics.
+> **[1:54](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=114)** Let's take a look at these [[Statistics]].
 >
 > **[1:56](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980&t=116)** 80% of IT outages are caused by changes.
 >
@@ -1573,13 +1549,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[Organizational Change Management]] (2), [[Microsoft Products|Products]] (2), product (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Organizational Change Management]] (2), [[Microsoft Products|Products]] (2), [[Digital Transformation]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Env Vars:** mtrs (1)
 > **Speakers:** - we (1)
 
-#### Change management roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-roles?u=76281980)
+#### [Change management roles](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1623,13 +1598,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2)
 > **Env Vars:** cab (8)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - change (1)
 
-#### Change models
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/change-models?u=76281980)
+#### [Change models](https://www.linkedin.com/learning/it-service-desk-service-management/change-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1649,7 +1622,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/it-service-desk-service-management/change-models?u=76281980&t=51)** This introduces the possibility of using the change management process even at the board of directors level.
 >
-> **[0:57](https://www.linkedin.com/learning/it-service-desk-service-management/change-models?u=76281980&t=57)** ITIL 4 defines three types of changes, standard, normal, and emergency.
+> **[0:57](https://www.linkedin.com/learning/it-service-desk-service-management/change-models?u=76281980&t=57)** [[ITIL]] 4 defines three types of changes, standard, normal, and emergency.
 >
 > **[1:04](https://www.linkedin.com/learning/it-service-desk-service-management/change-models?u=76281980&t=64)** Most organizations will have a few other types of normal changes, like cost and risk, which may require more reviews and input for the change authority.
 >
@@ -1683,19 +1656,18 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/it-service-desk-service-management/change-models?u=76281980&t=192)** Change review and acceptance ensure the appropriate level for impact, cost, and risk management.
 >
-> **[3:18](https://www.linkedin.com/learning/it-service-desk-service-management/change-models?u=76281980&t=198)** The review is not only about the specific change, but how this change might impact other planned changes due to resource constraints, like limited bandwidth, change windows, or risk of too many changes happening in a specific time period.
+> **[3:18](https://www.linkedin.com/learning/it-service-desk-service-management/change-models?u=76281980&t=198)** The review is not only about the specific change, but how this change might impact other planned changes due to resource constraints, like limited bandwidth, change [[Windows]], or risk of too many changes happening in a specific time period.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), business (3), [[ITIL]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[ITIL]] (1), [[Windows]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Env Vars:** itil (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - there (1)
 
-#### Change relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/change-relationships?u=76281980)
+#### [Change relationships](https://www.linkedin.com/learning/it-service-desk-service-management/change-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1755,14 +1727,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), management (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cab (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - now (1)
 
-#### Change inputs and outputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/change-inputs-and-outputs?u=76281980)
+#### [Change inputs and outputs](https://www.linkedin.com/learning/it-service-desk-service-management/change-inputs-and-outputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1788,7 +1758,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/it-service-desk-service-management/change-inputs-and-outputs?u=76281980&t=69)** The last activity after deploy is to review the release, confirming that it deployed successfully without breaking anything and that the changes work as expected.
 >
-> **[1:20](https://www.linkedin.com/learning/it-service-desk-service-management/change-inputs-and-outputs?u=76281980&t=80)** Service asset configuration management track and report the service assets of the organization.
+> **[1:20](https://www.linkedin.com/learning/it-service-desk-service-management/change-inputs-and-outputs?u=76281980&t=80)** Service asset [[Configuration Management]] track and report the service assets of the organization.
 >
 > **[1:25](https://www.linkedin.com/learning/it-service-desk-service-management/change-inputs-and-outputs?u=76281980&t=85)** Configuration management provides the data to understand the impact of changes on the services provided.
 >
@@ -1796,7 +1766,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/it-service-desk-service-management/change-inputs-and-outputs?u=76281980&t=98)** The configuration system can identify how many seemingly disparate changes can impact one another, thus imperative in assessing change risk and impact.
 >
-> **[1:49](https://www.linkedin.com/learning/it-service-desk-service-management/change-inputs-and-outputs?u=76281980&t=109)** Problem management is an output to change.
+> **[1:49](https://www.linkedin.com/learning/it-service-desk-service-management/change-inputs-and-outputs?u=76281980&t=109)** [[Problem Management]] is an output to change.
 >
 > **[1:51](https://www.linkedin.com/learning/it-service-desk-service-management/change-inputs-and-outputs?u=76281980&t=111)** As problems, we'll submit change requests to remove incident causes.
 >
@@ -1816,7 +1786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), business (4), [[Configuration Management]] (2), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (2), [[Problem Management]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -1826,8 +1796,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/it-service-desk-service-management/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1847,13 +1816,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/it-service-desk-service-management/next-steps?u=76281980&t=33)** You can also access specific resources related to the topics covered in the course there as well.
 >
-> **[0:39](https://www.linkedin.com/learning/it-service-desk-service-management/next-steps?u=76281980&t=39)** Feel free to connect with me on LinkedIn and check out my other courses in the LinkedIn Learning Library.
+> **[0:39](https://www.linkedin.com/learning/it-service-desk-service-management/next-steps?u=76281980&t=39)** Feel free to connect with me on [[LinkedIn]] and check out my other courses in the LinkedIn Learning Library.
 >
 > **[0:44](https://www.linkedin.com/learning/it-service-desk-service-management/next-steps?u=76281980&t=44)** I hope the resources help you transform your service management strategy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[LinkedIn]] (2), next (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Env Vars:** hdi (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)

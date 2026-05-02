@@ -90,12 +90,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get up and running with PowerShell 7
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980)
+#### [Get up and running with PowerShell 7](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980&t=0)** - [Liam] Hi, I'm Liam and I'd like to welcome you to Powershell 7 essential training.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980&t=0)** - [Liam] Hi, I'm Liam and I'd like to welcome you to [[Powershell]] 7 essential training.
 >
 > **[0:06](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980&t=6)** This course is going to get you started automating, inspecting, and managing your IT environment better and faster.
 >
@@ -109,27 +108,26 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980&t=41)** While writing the PowerShell, we will also step through some of the new updated commands and properties that are available in PowerShell 7.
 >
-> **[0:49](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980&t=49)** So join me for the rest of this course of PowerShell 7 essential training.
+> **[0:49](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980&t=49)** So join me for the [[Representational State Transfer (REST)|rest]] of this course of PowerShell 7 essential training.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (6), career (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** powershell (6)
 > **Prerequisites:** configure (1), set up (1)
 > **Speakers:** - [liam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/powershell-7-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] PowerShell has been around for a long time.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] [[Powershell]] has been around for a long time.
 >
 > **[0:03](https://www.linkedin.com/learning/powershell-7-essential-training/what-you-should-know?u=76281980&t=3)** It is now available on most operating systems and provides a great way to automate and manage your systems.
 >
 > **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/what-you-should-know?u=76281980&t=10)** It may sound like a daunting task to create scripts and execute them, however, trust me, it's not as hard as it seems.
 >
-> **[0:17](https://www.linkedin.com/learning/powershell-7-essential-training/what-you-should-know?u=76281980&t=17)** To be successful with PowerShell, you simply need some basic knowledge of networking skills and Windows management.
+> **[0:17](https://www.linkedin.com/learning/powershell-7-essential-training/what-you-should-know?u=76281980&t=17)** To be successful with PowerShell, you simply need some basic knowledge of networking skills and [[Windows]] management.
 >
 > **[0:25](https://www.linkedin.com/learning/powershell-7-essential-training/what-you-should-know?u=76281980&t=25)** What you don't need for this course is any PowerShell experience or command-line experience, as we will walk through this together.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (5), [[Windows]] (1), management (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Windows]] (1)
 > **Tools:** powershell (5)
 > **Speakers:** - [instructor] (1)
 
@@ -148,16 +146,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use PowerShell?
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980)
+#### [Why use PowerShell?](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=0)** - [Instructor] So why use PowerShell?
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=0)** - [Instructor] So why use [[Powershell]]?
 >
 > **[0:03](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=3)** Well, firstly, PowerShell is accessible, which means the barrier of entry to learning PowerShell is relatively low because of its near-ubiquity.
 >
-> **[0:13](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=13)** If your computer is running Windows 10, then you can simply type PowerShell in the search box to get instant access to the Windows PowerShell app.
+> **[0:13](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=13)** If your computer is running [[Windows 10]], then you can simply type PowerShell in the search box to get instant access to the [[Windows]] PowerShell app.
 >
 > **[0:22](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=22)** PowerShell also provides the ability of creating simple and complex automation.
 >
@@ -175,17 +172,17 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=69)** Well, the first thing to remember is that PowerShell's not going away.
 >
-> **[1:13](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=73)** Most of the Microsoft products now utilize PowerShell, including the cloud platforms.
+> **[1:13](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=73)** Most of the [[Microsoft Products]] now utilize PowerShell, including the cloud platforms.
 >
 > **[1:18](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=78)** Of course, you cannot do all of the administration within the user interface now, because many of the user interfaces, or GUIs, are PowerShell front ends, so now you can do so many user interface and new features or new administration tasks sometimes appear as PowerShell commandlets first.
 >
 > **[1:37](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=97)** PowerShell allows you to automate multiple tasks, so you definitely need to know how to do that.
 >
-> **[1:42](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=102)** And then, of course, it allows interaction between products and platforms.
+> **[1:42](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=102)** And then, of course, it allows interaction between [[Microsoft Products|products]] and platforms.
 >
 > **[1:47](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=107)** You can also now use PowerShell to manage, for example, the entire network.
 >
-> **[1:52](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=112)** And then, of course, most of the Microsoft certification exams now contain specific PowerShell questions.
+> **[1:52](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=112)** And then, of course, most of the [[Microsoft]] certification exams now contain specific PowerShell questions.
 >
 > **[2:00](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980&t=120)** So why use PowerShell 7, or why PowerShell 7 in general?
 >
@@ -203,25 +200,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (26), [[Windows]] (3), [[Microsoft]] (2), cross-platform (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (26), [[Windows]] (3), [[Microsoft]] (2), [[Windows 10]] (1), [[Microsoft Products]] (1)
 > **Tools:** powershell (26)
 > **Env Vars:** net (2)
 > **Versions:** version 7 (1), version 6 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Launch PowerShell as an administrator
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/launch-powershell-as-an-administrator?u=76281980)
+#### [Launch PowerShell as an administrator](https://www.linkedin.com/learning/powershell-7-essential-training/launch-powershell-as-an-administrator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/launch-powershell-as-an-administrator?u=76281980&t=0)** - [Instructor] So we're on a Windows 10 machine now.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/launch-powershell-as-an-administrator?u=76281980&t=0)** - [Instructor] So we're on a [[Windows 10]] machine now.
 >
-> **[0:02](https://www.linkedin.com/learning/powershell-7-essential-training/launch-powershell-as-an-administrator?u=76281980&t=2)** And what we want to look at here is execution of PowerShell commands.
+> **[0:02](https://www.linkedin.com/learning/powershell-7-essential-training/launch-powershell-as-an-administrator?u=76281980&t=2)** And what we want to look at here is execution of [[Powershell]] commands.
 >
 > **[0:07](https://www.linkedin.com/learning/powershell-7-essential-training/launch-powershell-as-an-administrator?u=76281980&t=7)** But first we have to be able to launch the PowerShell console.
 >
-> **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/launch-powershell-as-an-administrator?u=76281980&t=10)** Now, I'm going to click the Start button here and you'll see I have Windows Terminal.
+> **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/launch-powershell-as-an-administrator?u=76281980&t=10)** Now, I'm going to click the Start button here and you'll see I have [[Windows]] Terminal.
 >
 > **[0:14](https://www.linkedin.com/learning/powershell-7-essential-training/launch-powershell-as-an-administrator?u=76281980&t=14)** This is the preferred console that I'm going to be utilizing.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (9), [[Windows]] (6), [[Windows 10]] (2), [[Search]] (1), cross-platform (1)
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Windows]] (6), [[Windows 10]] (2)
 > **Tools:** powershell (9), windows terminal (5), terminal (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -294,16 +290,15 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure the PowerShell console
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980)
+#### [Configure the PowerShell console](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=0)** - [Illustrator] One of the things that we're able to do within PowerShell is to modify the environment that we're actually utilizing.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=0)** - [Illustrator] One of the things that we're able to do within [[Powershell]] is to modify the environment that we're actually utilizing.
 >
 > **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=8)** So, first off, if I click the start menu here and I'm going to type in PowerShell.
 >
-> **[0:14](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=14)** I'm going to use the standard Windows PowerShell one first.
+> **[0:14](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=14)** I'm going to use the standard [[Windows]] PowerShell one first.
 >
 > **[0:17](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=17)** We'll say, run as administrator, click yes and then we'll kind of load this into full screen mode.
 >
@@ -417,7 +412,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=267)** Now my machine, this will launch into Visual Studio Code but on your machine, it might launch into Notepad.
 >
-> **[4:33](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=273)** Now, what you'll see is we have a JSON structure which represents the way that the interface has been designed, or at least styled.
+> **[4:33](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=273)** Now, what you'll see is we have a [[JSON]] structure which represents the way that the interface has been designed, or at least styled.
 >
 > **[4:44](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=284)** The main section here will be this, this will be right here, our default section.
 >
@@ -447,7 +442,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=359)** Under the schemes option it's empty.
 >
-> **[6:02](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=362)** And it does give you a link to the Microsoft site to actually brand that if we needed to.
+> **[6:02](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=362)** And it does give you a link to the [[Microsoft]] site to actually brand that if we needed to.
 >
 > **[6:06](https://www.linkedin.com/learning/powershell-7-essential-training/configure-the-powershell-console?u=76281980&t=366)** So I'm going to close that down.
 >
@@ -489,7 +484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (13), [[Windows]] (4), [[JSON]] (4), next (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (13), [[Windows]] (4), [[JSON]] (4), [[Microsoft]] (1)
 > **Tools:** powershell (13), terminal (3), windows terminal (1), visual studio (1), command prompt (1)
 > **Cross-References:** go back to (11)
 > **UI Navigation:** go to (6), click on (1), dropdown (1)
@@ -498,12 +493,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 
-#### PowerShell development envionments
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980)
+#### [PowerShell development envionments](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=0)** - [Educator] Now so far, we've talked about the Windows PowerShell Console and we've seen the Windows Terminal.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=0)** - [Educator] Now so far, we've talked about the [[Windows]] [[Powershell]] Console and we've seen the Windows Terminal.
 >
 > **[0:06](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=6)** Now in fact, there's a couple of different options for development environments.
 >
@@ -521,7 +515,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=47)** Now, this one is one that is been very, very useful over the past few years, and something that I highly recommended individuals utilizing.
 >
-> **[0:55](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=55)** I'm just going to zoom in here.
+> **[0:55](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=55)** I'm just going to [[Zoom]] in here.
 >
 > **[0:56](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=56)** Now what we can do is we've got this kind of script section.
 >
@@ -547,7 +541,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=124)** The commands option lists meet all of the PowerShell modules that have been loaded and installed into this machine.
 >
-> **[2:12](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=132)** So for example, if I scroll down, you can see I've got Microsoft PowerShell core.
+> **[2:12](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=132)** So for example, if I scroll down, you can see I've got [[Microsoft]] PowerShell core.
 >
 > **[2:16](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=136)** I go down, I've got PowerShell Get-Pnp device provisioning as a whole host of different PowerShell modules.
 >
@@ -595,7 +589,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=257)** The Windows Terminal, I like this one because it gives me three different canvases to work with.
 >
-> **[4:22](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=262)** You'll see that I have the Windows PowerShell, the Command Prompt, and the Azure Cloud Shell if I'm connected to the cloud.
+> **[4:22](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=262)** You'll see that I have the Windows PowerShell, the Command Prompt, and the [[Microsoft Azure|Azure]] Cloud Shell if I'm connected to the cloud.
 >
 > **[4:29](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=269)** But more importantly, it gives me the ability to create multiple tabs in the same session.
 >
@@ -641,7 +635,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=360)** Now this is a fully integrated development studio.
 >
-> **[6:04](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=364)** Being able to utilize that for more or less any kind of development, whether it's C-sharp code or PowerShell or JavaScript, et cetera.
+> **[6:04](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=364)** Being able to utilize that for more or less any kind of development, whether it's C-sharp code or PowerShell or [[JavaScript]], et cetera.
 >
 > **[6:14](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-development-envionments?u=76281980&t=374)** So I'm going to click next, just to install.
 >
@@ -675,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (20), [[Windows]] (11), dns (4), [[Microsoft]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Powershell]] (20), [[Windows]] (11), [[Microsoft]] (2), [[Zoom]] (1), [[Microsoft Azure|Azure]] (1)
 > **Tools:** powershell (20), visual studio (6), windows terminal (4), command prompt (1)
 > **Env Vars:** ise (6), dns (4)
 > **UI Navigation:** scroll down (1), click on (1), toggle (1), navigate to (1)
@@ -684,12 +678,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
 
-#### Configure development environments for PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980)
+#### [Configure development environments for PowerShell](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=0)** - [Tutor] Now that we know what the Powershell Development Environments are, let's focus on Visual Studio Code.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=0)** - [Tutor] Now that we know what the [[Powershell]] Development Environments are, let's focus on Visual Studio Code.
 >
 > **[0:06](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=6)** So I'm going to right click here, choose more and run as administrator.
 >
@@ -771,7 +764,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=175)** So helping set up the environment.
 >
-> **[2:57](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=177)** So if we go to the left and click on extensions, you'll see that I've already installed the PowerShell from Microsoft One.
+> **[2:57](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=177)** So if we go to the left and click on extensions, you'll see that I've already installed the PowerShell from [[Microsoft]] One.
 >
 > **[3:06](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=186)** If I type PowerShell as an option, you can say I'm just going to scroll this out here, that there's actually a whole host of PowerShell ad-ons that can be utilized.
 >
@@ -779,7 +772,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=204)** Or you can go with the preview version which obviously will give you updates and newer versions that are available.
 >
-> **[3:30](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=210)** Now, for example if I wanted to utilize PowerShell for Azure I can simply click install and you'll see what happens here.
+> **[3:30](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=210)** Now, for example if I wanted to utilize PowerShell for [[Microsoft Azure|Azure]] I can simply click install and you'll see what happens here.
 >
 > **[3:37](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=217)** It goes through the installation process.
 >
@@ -787,11 +780,11 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=220)** It'll just install the various components that are needed and that extension becomes valid and available to us.
 >
-> **[3:48](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=228)** If I type the word Microsoft at the end of it this will then reduce that back down to only ones that are Microsoft specific.
+> **[3:48](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=228)** If I type the [[Microsoft Word|word]] Microsoft at the end of it this will then reduce that back down to only ones that are Microsoft specific.
 >
 > **[3:57](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=237)** If I wanted to, I could just say Microsoft and just look for Microsoft specific type one.
 >
-> **[4:03](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=243)** So edge tools for visual studio or I'm working with Microsoft teams or the graph.
+> **[4:03](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=243)** So edge tools for visual studio or I'm working with [[Microsoft Teams]] or the graph.
 >
 > **[4:09](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=249)** But if we're utilizing PowerShell then simply come into PowerShell here and you'll be able to see.
 >
@@ -805,7 +798,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=274)** So there's a grid view control that we can view the data.
 >
-> **[4:38](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=278)** You can also see that we have a forms designer built in so we can build a form inside here.
+> **[4:38](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=278)** You can also see that we have a [[Forms]] designer built in so we can build a form inside here.
 >
 > **[4:44](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=284)** So the ability to enhance the actual IDA is very very powerful inside Visual Studio Code.
 >
@@ -813,7 +806,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=302)** We can also hook this up to a source control.
 >
-> **[5:04](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=304)** So GitHub to be able to push these out which is quite common.
+> **[5:04](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=304)** So [[GitHub]] to be able to push these out which is quite common.
 >
 > **[5:08](https://www.linkedin.com/learning/powershell-7-essential-training/configure-development-environments-for-powershell?u=76281980&t=308)** And then of course we have the run option to execute certain things.
 >
@@ -857,7 +850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (24), [[Microsoft]] (5), [[Microsoft Word|Word]] (2), [[Search]] (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (24), [[Microsoft]] (5), [[Microsoft Word|Word]] (2), [[GitHub]] (2), [[Microsoft Azure|Azure]] (1)
 > **Tools:** powershell (24), visual studio (4), github (2), terminal (1)
 > **Env Vars:** ps1 (4), isa (1), ida (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -871,12 +864,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PowerShell 7
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980)
+#### [PowerShell 7](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=0)** - [Instructor] So what's new in PowerShell 7?
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=0)** - [Instructor] So what's new in [[Powershell]] 7?
 >
 > **[0:03](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=3)** Well, the first thing is that there are directory changes that have been made to where PowerShell 7 is actually installed.
 >
@@ -906,7 +898,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=69)** Then of course, the Get-Error cmdlet would allow you to get detailed view of the error that was raised in the console.
 >
-> **[1:17](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=77)** Microsoft also provide automatic new version notifications.
+> **[1:17](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=77)** [[Microsoft]] also provide automatic new version notifications.
 >
 > **[1:21](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=81)** So starting with PowerShell 7, the system will check for updates once a day and will notify you about a new version if that's available.
 >
@@ -920,9 +912,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=113)** Within PowerShell 6, there were directory changes from installing PowerShell 7.
 >
-> **[1:59](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=119)** So PowerShell 6 would have gone into a certain location, but on Windows, it's been moved to %programfiles%\PowerShell\7.
+> **[1:59](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=119)** So PowerShell 6 would have gone into a certain location, but on [[Windows]], it's been moved to %programfiles%\PowerShell\7.
 >
-> **[2:07](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=127)** On Linux, it's moved to /opt/microsoft/powershell/7.
+> **[2:07](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=127)** On [[Linux]], it's moved to /opt/microsoft/powershell/7.
 >
 > **[2:10](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980&t=130)** And then on macOS, it's moved to the user directory.
 >
@@ -970,7 +962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (18), parallel (5), [[Microsoft]] (3), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (18), [[Microsoft]] (3), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** powershell (18)
 > **Env Vars:** net (1), lts (1), powershell_updatecheck (1)
 > **Definitions:** is a  (3)
@@ -979,16 +971,15 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **Versions:** 5.1 (1)
 
-#### Install PowerShell 7
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980)
+#### [Install PowerShell 7](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980&t=0)** - [Tutor] Now we know what to forest to install PowerShell 7.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980&t=0)** - [Tutor] Now we know what to forest to install [[Powershell]] 7.
 >
 > **[0:03](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980&t=3)** We need to obviously download the installer.
 >
-> **[0:05](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980&t=5)** So I'm going to go to my browser and I'm going to navigate to github/PowerShell, and then I can do PowerShell/releases.
+> **[0:05](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980&t=5)** So I'm going to go to my browser and I'm going to navigate to [[GitHub]]/PowerShell, and then I can do PowerShell/releases.
 >
 > **[0:15](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980&t=15)** Now, from here you'll see the current releases that are available, you can also go and access the code itself, but if we browse through here you can see we've got the pre-release version right now which is 7.1.0, and then if we scroll a bit further down you'll see other versions of PowerShell.
 >
@@ -1002,7 +993,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980&t=62)** So I'm going to download the 7.0.3-win-X64.MSI, this will download it locally to the machine.
 >
-> **[1:09](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980&t=69)** It's about 80 MEG or so, and whether you're installing on windows, Linux, or a Mac it really makes no difference, the process is fundamentally the same, for the windows option I'm going to choose open file once it's downloaded, this will then bring up the wizard for me I'm going to choose next, it's going to drop it into C program files and PowerShell, that's where we'd like to leave it.
+> **[1:09](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980&t=69)** It's about 80 MEG or so, and whether you're installing on [[Windows]], [[Linux]], or a Mac it really makes no difference, the process is fundamentally the same, for the windows option I'm going to choose open file once it's downloaded, this will then bring up the wizard for me I'm going to choose next, it's going to drop it into C program files and PowerShell, that's where we'd like to leave it.
 >
 > **[1:31](https://www.linkedin.com/learning/powershell-7-essential-training/install-powershell-7?u=76281980&t=91)** You can change it if you need to, but the default is there.
 >
@@ -1040,7 +1031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (19), [[Windows]] (9), [[Linux]] (2), next (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (19), [[Windows]] (9), [[Linux]] (2), [[GitHub]] (1)
 > **Tools:** powershell (19), windows terminal (2), github (1)
 > **Versions:** version 7 (2), 0.3 (2), 7.0.3 (2), 7.1.0 (1), 5.1 (1)
 > **Env Vars:** rpm (2), x64 (1), msi (1), meg (1), uac (1)
@@ -1049,12 +1040,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1), tar (1)
 > **Exercise Files:** download the (2)
 
-#### Work with PowerShell modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980)
+#### [Work with PowerShell modules](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=0)** - [Instructor] One of the ways that we can improve or enhance the PowerShell experience is to actually import modules.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=0)** - [Instructor] One of the ways that we can improve or enhance the [[Powershell]] experience is to actually import modules.
 >
 > **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=8)** Now, this is done by utilizing a command called import module.
 >
@@ -1080,7 +1070,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=65)** So you can see from here, if I go down to the one I just utilized which was PS diagnostics, this is the one that I just imported here.
 >
-> **[1:14](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=74)** Now if I need to know the names of them, I can come into PowerShell ISE, and then know that the name for VPN client is VPN client, or if it's an Azure one, I can use Azure.
+> **[1:14](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=74)** Now if I need to know the names of them, I can come into PowerShell ISE, and then know that the name for VPN client is VPN client, or if it's an [[Microsoft Azure|Azure]] one, I can use Azure.
 >
 > **[1:26](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=86)** Now, what about if we don't want to launch that?
 >
@@ -1096,7 +1086,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=113)** Now I've already imported that one, but there'll be a diagnostics one available.
 >
-> **[1:57](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=117)** We've got Windows Defender, we've got BitLocker, we've got regular PowerShell diagnostics that are available.
+> **[1:57](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=117)** We've got [[Windows]] [[Microsoft Defender|Defender]], we've got BitLocker, we've got regular PowerShell diagnostics that are available.
 >
 > **[2:03](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=123)** So we have the name of the ones that we wish to import in.
 >
@@ -1152,7 +1142,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=255)** Now of course, you see running really, really quickly, and that's by design because some of these modules are loaded by default.
 >
-> **[4:21](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=261)** But for example if I was importing a third party module or maybe downloading the Microsoft Azure or the Office 365 ones, or Microsoft Teams for example.
+> **[4:21](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=261)** But for example if I was importing a third party module or maybe downloading the [[Microsoft Azure]] or the [[Microsoft Office|Office]] 365 ones, or [[Microsoft Teams]] for example.
 >
 > **[4:31](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=271)** When we import those modules, sometimes it can take quite a while for it to import and they often present information back to the screen to say, hey, these are the things that have been imported.
 >
@@ -1254,7 +1244,7 @@ created: 2026-05-02
 >
 > **[9:09](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=549)** And what I can do is remember we had an option called prefix, and the prefix one meant that my functions or commands that come in get a prefix.
 >
-> **[9:19](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=559)** So I'm going to just type the word demo.
+> **[9:19](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=559)** So I'm going to just type the [[Microsoft Word|word]] demo.
 >
 > **[9:23](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-powershell-modules?u=76281980&t=563)** And then I'm going to use a property called pass thru.
 >
@@ -1274,7 +1264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (10), vpn (2), [[Microsoft Azure|Azure]] (2), [[Windows]] (1), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Microsoft Azure|Azure]] (2), [[Windows]] (1), [[Microsoft Defender|Defender]] (1), [[Microsoft Azure]] (1)
 > **Tools:** powershell (10)
 > **Env Vars:** ise (3), vpn (2), dsim (1)
 > **Analogies:** for example (4)
@@ -1288,12 +1278,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discover commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980)
+#### [Discover commands](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980&t=0)** - [Instructor] So PowerShell itself uses a verb-hyphen-noun naming system.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980&t=0)** - [Instructor] So [[Powershell]] itself uses a verb-hyphen-noun naming system.
 >
 > **[0:06](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980&t=6)** The PowerShell cmdlet name consists of a standard verb hyphenated with a specific noun.
 >
@@ -1315,7 +1304,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980&t=75)** We could also then view all noun commands by utilizing the dash noun property.
 >
-> **[1:21](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980&t=81)** And then for example, here, we're going to find all of the noun commands that have the word computer in that second noun part.
+> **[1:21](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980&t=81)** And then for example, here, we're going to find all of the noun commands that have the [[Microsoft Word|word]] computer in that second noun part.
 >
 > **[1:28](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980&t=88)** So this would be Get-Computer, New-Computer, Stock-Computer, et cetera.
 >
@@ -1341,19 +1330,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (5), [[Search]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (6), such as (2)
 > **CLI Commands:** find (6)
 > **Tools:** powershell (5)
 > **Prerequisites:** install (4)
 > **Speakers:** - [instructor] (1)
 
-#### Explore help
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980)
+#### [Explore help](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=0)** - [Instructor] When working with PowerShell, one of the things that you need to understand is how the functions and commands actually work.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=0)** - [Instructor] When working with [[Powershell]], one of the things that you need to understand is how the functions and commands actually work.
 >
 > **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=8)** And the nice thing is that in Powershell, we actually have a function called Get-Help.
 >
@@ -1411,7 +1399,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=130)** Now of course when we're really delving into getting information, often what we want to do is get a quick view of how to use something.
 >
-> **[2:19](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=139)** We can also utilize the word help.
+> **[2:19](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=139)** We can also utilize the [[Microsoft Word|word]] help.
 >
 > **[2:22](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=142)** Help again retrieves the details about that specific command.
 >
@@ -1425,7 +1413,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=163)** That comes from online.
 >
-> **[2:44](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=164)** It's the same information that you'll often find presented in the Microsoft documentation.
+> **[2:44](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=164)** It's the same information that you'll often find presented in the [[Microsoft]] documentation.
 >
 > **[2:50](https://www.linkedin.com/learning/powershell-7-essential-training/explore-help?u=76281980&t=170)** Now we also can utilize what's called man Format-Table.
 >
@@ -1683,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Powershell]] (5), [[Search]] (2), [[Microsoft]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Powershell]] (5), [[Microsoft]] (1)
 > **Tools:** powershell (5)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** find (2), make (1)
@@ -1692,12 +1680,11 @@ created: 2026-05-02
 > **Env Vars:** xml (1)
 > **Cross-References:** go back to (1)
 
-#### Understand cmdlet syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/understand-cmdlet-syntax?u=76281980)
+#### [Understand cmdlet syntax](https://www.linkedin.com/learning/powershell-7-essential-training/understand-cmdlet-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/understand-cmdlet-syntax?u=76281980&t=0)** - [Instructor] A critical piece of utilizing PowerShell is understanding the syntax.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/understand-cmdlet-syntax?u=76281980&t=0)** - [Instructor] A critical piece of utilizing [[Powershell]] is understanding the syntax.
 >
 > **[0:05](https://www.linkedin.com/learning/powershell-7-essential-training/understand-cmdlet-syntax?u=76281980&t=5)** PowerShell is designed around the idea of getting, setting, starting, stopping, outputting or even creating new objects of some description.
 >
@@ -1787,7 +1774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (14), next (1)
+> **Frameworks & Libraries:** [[Powershell]] (14)
 > **Tools:** powershell (14), command line (1)
 > **Analogies:** for example (3), such as (2)
 > **SQL:** where (1), select (1)
@@ -1796,12 +1783,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand terse commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/understand-terse-commands?u=76281980)
+#### [Understand terse commands](https://www.linkedin.com/learning/powershell-7-essential-training/understand-terse-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/understand-terse-commands?u=76281980&t=0)** - [Instructor] Now as you start to utilize PowerShell, you'll find that the commands can often be complicated to remember or we're not quite sure what the syntax would be.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/understand-terse-commands?u=76281980&t=0)** - [Instructor] Now as you start to utilize [[Powershell]], you'll find that the commands can often be complicated to remember or we're not quite sure what the syntax would be.
 >
 > **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/understand-terse-commands?u=76281980&t=10)** So one of the nice things about PowerShell, which we already looked at, but let's just remember this is if I was to use a command called Get-Command and I wanted to put this as a table format I would type Get-Command Format-Table.
 >
@@ -1937,7 +1923,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/powershell-7-essential-training/understand-terse-commands?u=76281980&t=393)** Bit of a strange alias, I know, that it would be gps, but it provides us the ability to condense the code that we write.
 >
-> **[6:41](https://www.linkedin.com/learning/powershell-7-essential-training/understand-terse-commands?u=76281980&t=401)** Because when you're utilizing other languages, such as programming languages like C# or JavaScript, it's riddled with using aliases or terse commands.
+> **[6:41](https://www.linkedin.com/learning/powershell-7-essential-training/understand-terse-commands?u=76281980&t=401)** Because when you're utilizing other languages, such as programming languages like C# or [[JavaScript]], it's riddled with using aliases or terse commands.
 >
 > **[6:51](https://www.linkedin.com/learning/powershell-7-essential-training/understand-terse-commands?u=76281980&t=411)** So when you're building a PowerShell script it will become quite useful for you to understand some of these commands which will then reduce the amount you have to write.
 >
@@ -1945,7 +1931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (7), [[Programming]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (7), [[JavaScript]] (1)
 > **Tools:** powershell (7)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **CLI Commands:** find (2), make (2)
@@ -1953,12 +1939,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilize variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/utilize-variables?u=76281980)
+#### [Utilize variables](https://www.linkedin.com/learning/powershell-7-essential-training/utilize-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/utilize-variables?u=76281980&t=0)** - [Instructor] In order for us to be able to build PowerShell functions and commands, we first need to understand kind of syntax.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/utilize-variables?u=76281980&t=0)** - [Instructor] In order for us to be able to build [[Powershell]] functions and commands, we first need to understand kind of syntax.
 >
 > **[0:06](https://www.linkedin.com/learning/powershell-7-essential-training/utilize-variables?u=76281980&t=6)** Now we've done some examples so far of how things go together.
 >
@@ -2104,7 +2089,7 @@ created: 2026-05-02
 >
 > **[8:53](https://www.linkedin.com/learning/powershell-7-essential-training/utilize-variables?u=76281980&t=533)** So for example, let me just clear this a bit better and we'll do $env.
 >
-> **[9:00](https://www.linkedin.com/learning/powershell-7-essential-training/utilize-variables?u=76281980&t=540)** Env is a short function that would allow us to reference any of those mechanisms, those properties, I can say env system route, and you'll notice it returns back, C windows.
+> **[9:00](https://www.linkedin.com/learning/powershell-7-essential-training/utilize-variables?u=76281980&t=540)** Env is a short function that would allow us to reference any of those mechanisms, those properties, I can say env system route, and you'll notice it returns back, C [[Windows]].
 >
 > **[9:13](https://www.linkedin.com/learning/powershell-7-essential-training/utilize-variables?u=76281980&t=553)** I could also go a little bit further and call it demo, My Text value and do that and that will actually create a new environment variable.
 >
@@ -2174,7 +2159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), data (4), next (2), [[Search]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows]] (1)
 > **Analogies:** for example (8)
 > **Definitions:** means that (4), is a  (2)
 > **Code Identifiers:** vartest (4), computerinfo (1)
@@ -2183,14 +2168,13 @@ created: 2026-05-02
 > **Versions:** 1.2 (1), 1.1 (1)
 > **File Paths:** file.txt (1)
 
-#### Understand PowerShell objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980)
+#### [Understand PowerShell objects](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=0)** - [Instructor] Now one of the things in PowerShell which is nice is that everything that we return from a command is ultimately an object of some description.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=0)** - [Instructor] Now one of the things in [[Powershell]] which is nice is that everything that we return from a command is ultimately an object of some description.
 >
-> **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=10)** So for example, if I type get dash service it's going to give me all the list of the services that are currently running on my windows machine.
+> **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=10)** So for example, if I type get dash service it's going to give me all the list of the services that are currently running on my [[Windows]] machine.
 >
 > **[0:18](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=18)** Now, what we can do with this is I can say, get service again and then notice we have properties that are available which is nothing new 'cause we've already looked at this before.
 >
@@ -2344,13 +2328,13 @@ created: 2026-05-02
 >
 > **[7:17](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=437)** Now luckily for retrieving services that's really the most that you get.
 >
-> **[7:21](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=441)** But if you're retrieving things like Azure active directory, or even local active directory you can end up with lots and lots of information.
+> **[7:21](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=441)** But if you're retrieving things like [[Microsoft Entra ID|Azure active directory]], or even local [[Active Directory]] you can end up with lots and lots of information.
 >
 > **[7:30](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=450)** Now we also have the ability to take that value that object that we've got, and then re-sort that.
 >
 > **[7:37](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=457)** So remember how PowerShell uses the verb and the noun.
 >
-> **[7:40](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=460)** What if we type the word sort, you can see we have a sort object command.
+> **[7:40](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=460)** What if we type the [[Microsoft Word|word]] sort, you can see we have a sort object command.
 >
 > **[7:45](https://www.linkedin.com/learning/powershell-7-essential-training/understand-powershell-objects?u=76281980&t=465)** We also have the ability to filter the information too.
 >
@@ -2384,7 +2368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (10), [[Powershell]] (6), [[Windows]] (2), cloud (1), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Windows]] (2), [[Microsoft Entra ID|Azure active directory]] (1), [[Active Directory]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (10), svc (2)
 > **Analogies:** for example (7)
 > **Tools:** powershell (6)
@@ -2397,14 +2381,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PowerShell security
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980)
+#### [PowerShell security](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=0)** - [Instructor] When using PowerShell, it's important to understand some of the PowerShell Security capabilities and features that are available.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=0)** - [Instructor] When using [[Powershell]], it's important to understand some of the PowerShell Security capabilities and features that are available.
 >
-> **[0:07](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=7)** For example, we already discussed the actual control on the windows machine, for example, using user access control and running as administrator.
+> **[0:07](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=7)** For example, we already discussed the actual control on the [[Windows]] machine, for example, using user access control and running as administrator.
 >
 > **[0:16](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=16)** Now PowerShell's Execution Policy is a safety feature that controls the conditions under which PowerShell loads configuration files and run scripts.
 >
@@ -2452,7 +2435,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=168)** The next is Restricted.
 >
-> **[2:50](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=170)** This is the default execution policy for windows client computers like windows 10.
+> **[2:50](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=170)** This is the default execution policy for windows client computers like [[Windows 10]].
 >
 > **[2:55](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=175)** This permits individual commands but does not allow scripts.
 >
@@ -2462,7 +2445,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=196)** There is no execution policy set in the current scope.
 >
-> **[3:20](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=200)** If the execution policy in all scopes is Undefined, the effective execution policy is restricted for windows clients and then remote sign for windows server.
+> **[3:20](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=200)** If the execution policy in all scopes is Undefined, the effective execution policy is restricted for windows clients and then remote sign for [[Windows Server]].
 >
 > **[3:31](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980&t=211)** Our last one is Unrestricted.
 >
@@ -2506,21 +2489,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (15), [[Windows]] (5), next (5), [[Security]] (3), feature (2)
+> **Frameworks & Libraries:** [[Powershell]] (15), [[Windows]] (5), [[Windows 10]] (1), [[Windows Server]] (1)
 > **Tools:** powershell (15), command line (1)
 > **Definitions:** is a  (2), means that (2)
 > **Analogies:** for example (3)
 > **Env Vars:** xml (1), psm1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create your first script
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/create-your-first-script?u=76281980)
+#### [Create your first script](https://www.linkedin.com/learning/powershell-7-essential-training/create-your-first-script?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/create-your-first-script?u=76281980&t=0)** - [Instructor] So now that we've looked at various components, commands and how to use variables, et cetera.
 >
-> **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/create-your-first-script?u=76281980&t=8)** One of the things you want to do now is actually create a first PowerShell script.
+> **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/create-your-first-script?u=76281980&t=8)** One of the things you want to do now is actually create a first [[Powershell]] script.
 >
 > **[0:12](https://www.linkedin.com/learning/powershell-7-essential-training/create-your-first-script?u=76281980&t=12)** Now, to do this, we're going to launch Visual Studio Code, which for me is the preferred editor at this point.
 >
@@ -2644,7 +2626,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/powershell-7-essential-training/create-your-first-script?u=76281980&t=321)** This will give me the path that I'm looking for.
 >
-> **[5:25](https://www.linkedin.com/learning/powershell-7-essential-training/create-your-first-script?u=76281980&t=325)** Now, what we want to be able to do is run this in the Windows Terminal.
+> **[5:25](https://www.linkedin.com/learning/powershell-7-essential-training/create-your-first-script?u=76281980&t=325)** Now, what we want to be able to do is run this in the [[Windows]] Terminal.
 >
 > **[5:28](https://www.linkedin.com/learning/powershell-7-essential-training/create-your-first-script?u=76281980&t=328)** So I'm going to flip back to the Windows Terminal, which we have open.
 >
@@ -2710,7 +2692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (14), dns (9), [[Windows]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Powershell]] (14), [[Windows]] (2)
 > **Tools:** powershell (14), visual studio (3), windows terminal (2), terminal (1)
 > **Env Vars:** dns (9), ps1 (3)
 > **CLI Commands:** make (3)
@@ -2719,12 +2701,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### Parameter attributes for scripts and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/parameter-attributes-for-scripts-and-functions?u=76281980)
+#### [Parameter attributes for scripts and functions](https://www.linkedin.com/learning/powershell-7-essential-training/parameter-attributes-for-scripts-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/parameter-attributes-for-scripts-and-functions?u=76281980&t=0)** - [Instructor] Now, when working with PowerShell, there are various parameters and attributes that we can utilize when writing our own scripts and functions.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/parameter-attributes-for-scripts-and-functions?u=76281980&t=0)** - [Instructor] Now, when working with [[Powershell]], there are various parameters and attributes that we can utilize when writing our own scripts and functions.
 >
 > **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/parameter-attributes-for-scripts-and-functions?u=76281980&t=10)** PowerShell functions allow easy reuse and save time.
 >
@@ -3054,7 +3035,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (9), data (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[Powershell]] (9)
 > **Tools:** powershell (9), visual studio (2)
 > **Definitions:** means that (2), is called (1), is an  (1), is a  (1)
 > **Analogies:** for example (3), kind of like (1), similar to (1)
@@ -3063,12 +3044,11 @@ created: 2026-05-02
 > **Env Vars:** bmw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Select information
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980)
+#### [Select information](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=0)** - [Instructor] And one of the most common things that you'll do within PowerShell is actually selecting of information or filtering or sorting, et cetera.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=0)** - [Instructor] And one of the most common things that you'll do within [[Powershell]] is actually selecting of information or filtering or sorting, et cetera.
 >
 > **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=8)** Now, for example, if we run a Get-Process command, remember this will list all of the processes that run currently on the machine.
 >
@@ -3094,7 +3074,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=82)** So it gives us the ability to filter out.
 >
-> **[1:26](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=86)** I suppose, it's not really filtering, but you're running like a SQL select statement, I suppose, against the information that you wish to view.
+> **[1:26](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=86)** I suppose, it's not really filtering, but you're running like a [[SQL]] select statement, I suppose, against the information that you wish to view.
 >
 > **[1:33](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=93)** Now, when this happens, there were some times where different processes have further information built inside of them.
 >
@@ -3218,7 +3198,7 @@ created: 2026-05-02
 >
 > **[6:47](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=407)** These are effectively be an array set of values, and I needed to be able to get the unique values for it.
 >
-> **[6:55](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=415)** Now, as we looped through the properties, you saw that unique word come up.
+> **[6:55](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=415)** Now, as we looped through the properties, you saw that unique [[Microsoft Word|word]] come up.
 >
 > **[6:59](https://www.linkedin.com/learning/powershell-7-essential-training/select-information?u=76281980&t=419)** If I press that, it instantly takes those values, combines them all together and figures out which the unique values are.
 >
@@ -3290,7 +3270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft Word|Word]] (3), [[SQL]] (1), cloud (1), data (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft Word|Word]] (3), [[SQL]] (1)
 > **Tools:** powershell (4), visual studio (1)
 > **Analogies:** for example (3), such as (1)
 > **Cross-References:** go back to (2), we talked about (1)
@@ -3299,8 +3279,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 
-#### Filter specific data
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980)
+#### [Filter specific data](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3312,7 +3291,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=26)** But the get command is quite a large result set.
 >
-> **[0:30](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=30)** So what we can do is we can use what's referred to as ware object or the word where member visual studio code is going to complain.
+> **[0:30](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=30)** So what we can do is we can use what's referred to as ware object or the [[Microsoft Word|word]] where member visual studio code is going to complain.
 >
 > **[0:38](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=38)** And then what we do is we wrap things in these squirly brackets.
 >
@@ -3484,7 +3463,7 @@ created: 2026-05-02
 >
 > **[9:00](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=540)** And I'm going to say the path that I'm looking for is going to be the same path I'm using right now, so trainer, and then what we have is an actual filter word, where I can then filter on something.
 >
-> **[9:14](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=554)** So let's say, I want to filter on PowerShell files.
+> **[9:14](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=554)** So let's say, I want to filter on [[Powershell]] files.
 >
 > **[9:17](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=557)** Now the get child item is going to go to this path and we'll iterate through the entire path, look at the PowerShell files.
 >
@@ -3502,7 +3481,7 @@ created: 2026-05-02
 >
 > **[10:04](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=604)** It will actually fail if you do that.
 >
-> **[10:06](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=606)** Now the good news is, if we're utilizing some of the cloud options, so for example, as your active directory or something in Microsoft 365, or even some of the on-premises active directory, then the filter parameter is available for most of the commands because it makes it easy to retrieve sets of users or data that's been returned.
+> **[10:06](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=606)** Now the good news is, if we're utilizing some of the cloud options, so for example, as your [[Active Directory]] or something in [[Microsoft 365]], or even some of the on-premises active directory, then the filter parameter is available for most of the commands because it makes it easy to retrieve sets of users or data that's been returned.
 >
 > **[10:26](https://www.linkedin.com/learning/powershell-7-essential-training/filter-specific-data?u=76281980&t=626)** So the most important thing to remember here is that the web object is your key to filtering values.
 >
@@ -3510,7 +3489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Powershell]] (3), data (2), [[Active Directory]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Powershell]] (3), [[Active Directory]] (2), [[Microsoft 365]] (1)
 > **Tools:** powershell (3), visual studio (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (3)
@@ -3519,12 +3498,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Control the flow of PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/control-the-flow-of-powershell?u=76281980)
+#### [Control the flow of PowerShell](https://www.linkedin.com/learning/powershell-7-essential-training/control-the-flow-of-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/control-the-flow-of-powershell?u=76281980&t=0)** - [Illustrator] When building PowerShell scripts, it's important to be able to control the flow, of which functions and commands you wish to execute, and the order that they should happen.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/control-the-flow-of-powershell?u=76281980&t=0)** - [Illustrator] When building [[Powershell]] scripts, it's important to be able to control the flow, of which functions and commands you wish to execute, and the order that they should happen.
 >
 > **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/control-the-flow-of-powershell?u=76281980&t=10)** So let's consider something.
 >
@@ -3550,7 +3528,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/powershell-7-essential-training/control-the-flow-of-powershell?u=76281980&t=68)** But this time we can use parameters.
 >
-> **[1:11](https://www.linkedin.com/learning/powershell-7-essential-training/control-the-flow-of-powershell?u=76281980&t=71)** So if I do use LT, that'll be less than, and if I type the word better nine, so it's going to say if the value is less than nine, then instead of me pressing enter, I can actually add this to the same line.
+> **[1:11](https://www.linkedin.com/learning/powershell-7-essential-training/control-the-flow-of-powershell?u=76281980&t=71)** So if I do use LT, that'll be less than, and if I type the [[Microsoft Word|word]] better nine, so it's going to say if the value is less than nine, then instead of me pressing enter, I can actually add this to the same line.
 >
 > **[1:24](https://www.linkedin.com/learning/powershell-7-essential-training/control-the-flow-of-powershell?u=76281980&t=84)** So I can say write-host and say value is less than nine.
 >
@@ -3711,14 +3689,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Ternary operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/ternary-operators?u=76281980)
+#### [Ternary operators](https://www.linkedin.com/learning/powershell-7-essential-training/ternary-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/ternary-operators?u=76281980&t=0)** - [Instructor] So, when we're building the flow, we often want to build objects to use with all the values that we have from later on.
 >
-> **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/ternary-operators?u=76281980&t=8)** So how does that work if we're using PowerShell 7?
+> **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/ternary-operators?u=76281980&t=8)** So how does that work if we're using [[Powershell]] 7?
 >
 > **[0:11](https://www.linkedin.com/learning/powershell-7-essential-training/ternary-operators?u=76281980&t=11)** Now of course, everything I've showed you so far will work in PowerShell 7 and every other version of PowerShell.
 >
@@ -3770,7 +3747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (3), next (1)
+> **Frameworks & Libraries:** [[Powershell]] (3)
 > **Code Identifiers:** messagethree (3), messageone (2), messagetwo (2)
 > **Tools:** powershell (3)
 > **Definitions:** is a  (1), means that (1)
@@ -3779,8 +3756,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Switch statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/switch-statements?u=76281980)
+#### [Switch statements](https://www.linkedin.com/learning/powershell-7-essential-training/switch-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3884,12 +3860,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (3)
 > **Speakers:** - [instructor] (1)
 
-#### Define custom help
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/define-custom-help?u=76281980)
+#### [Define custom help](https://www.linkedin.com/learning/powershell-7-essential-training/define-custom-help?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/define-custom-help?u=76281980&t=0)** - [Instructor] When building PowerShell, one of the core reasons for doing this is so that you could reuse the scripts and share them between either other organizations or other individuals in the team.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/define-custom-help?u=76281980&t=0)** - [Instructor] When building [[Powershell]], one of the core reasons for doing this is so that you could reuse the scripts and share them between either other organizations or other individuals in the team.
 >
 > **[0:12](https://www.linkedin.com/learning/powershell-7-essential-training/define-custom-help?u=76281980&t=12)** Now one of the things that would make sense here like normal code is to comment the PowerShell or at least provide some kind of help.
 >
@@ -4119,14 +4094,13 @@ created: 2026-05-02
 > **Env Vars:** isc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Distributing custom PowerShell scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980)
+#### [Distributing custom PowerShell scripts](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=0)** - [Instructor] Distributing custom PowerShell scripts effectively requires careful planning to ensure security, reliability, and ease of use.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=0)** - [Instructor] Distributing custom [[Powershell]] scripts effectively requires careful planning to ensure security, reliability, and ease of use.
 >
-> **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=8)** Whether you're sharing scripts within an organization or making them available to a broader audience, proper packaging, version control, and deployment strategies play a crucial role.
+> **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=8)** Whether you're sharing scripts within an organization or making them available to a broader audience, proper packaging, [[Version Control]], and deployment strategies play a crucial role.
 >
 > **[0:18](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=18)** Before distributing a script, two critical steps must be completed to ensure security and reliability.
 >
@@ -4162,7 +4136,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=144)** Breaking scripts into reusable functions improves modularity and simplifies maintenance.
 >
-> **[2:30](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=150)** Incorporating manifest files helps define module metadata, ensuring proper versioning and compatibility.
+> **[2:30](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=150)** Incorporating manifest files helps define module [[Metadata]], ensuring proper versioning and compatibility.
 >
 > **[2:38](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=158)** Maintaining a consistent folder structure enhances organization and readability, while using version control systems allows for tracking changes and collaborating effectively.
 >
@@ -4170,11 +4144,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=176)** PowerShell scripts can be distributed through various channels, each offering unique advantages.
 >
-> **[3:02](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=182)** Open source platforms like GitHub provide a collaborative space for sharing and improving scripts, while the official PowerShell Gallery serves as a centralized repository for easy access and installation.
+> **[3:02](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=182)** Open source platforms like [[GitHub]] provide a collaborative space for sharing and improving scripts, while the official PowerShell Gallery serves as a centralized repository for easy access and installation.
 >
 > **[3:15](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=195)** Private repositories offer control distribution for internal use, ensuring security and compliance.
 >
-> **[3:22](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=202)** Package managers like NuGet streamline dependency management and deployment.
+> **[3:22](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=202)** Package managers like NuGet streamline [[Dependency Management]] and deployment.
 >
 > **[3:27](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=207)** Automating deployments further enhances efficiency by ensuring updates are consistently applied across environments, reducing manual effort and potential errors.
 >
@@ -4190,7 +4164,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=259)** Automation accelerates script distribution while minimizing the risk of human error.
 >
-> **[4:25](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=265)** Integrating continuous integration and continuous deployment pipelines with build tools streamlines the development process, ensuring scripts are tested and deployed efficiently.
+> **[4:25](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=265)** Integrating [[Continuous Integration (CI)|continuous integration]] and continuous deployment pipelines with build tools streamlines the development process, ensuring scripts are tested and deployed efficiently.
 >
 > **[4:37](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=277)** Automated testing helps identify issues early, reducing the likelihood of deployment failures.
 >
@@ -4198,7 +4172,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=302)** Effective troubleshooting is essential for maintaining and improving distributed PowerShell scripts.
 >
-> **[5:08](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=308)** Monitoring performance helps detect issues in real time, allowing for swift intervention.
+> **[5:08](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=308)** Monitoring performance helps detect issues in real time, allowing for [[Swift (Programming Language)|swift]] intervention.
 >
 > **[5:14](https://www.linkedin.com/learning/powershell-7-essential-training/distributing-custom-powershell-scripts?u=76281980&t=314)** Detailed login provides valuable data for diagnosing and resolving problems efficiently.
 >
@@ -4208,7 +4182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (9), [[Security]] (6), data (3), [[Version Control]] (2), [[Dependency Management]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Version Control]] (2), [[Dependency Management]] (2), [[Metadata]] (1), [[GitHub]] (1)
 > **Tools:** powershell (9), github (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
@@ -4219,16 +4193,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigate the file system
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980)
+#### [Navigate the file system](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=0)** - [Instructor] A core feature of PowerShell is the ability to navigate through the file system.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=0)** - [Instructor] A core feature of [[Powershell]] is the ability to navigate through the file system.
 >
 > **[0:05](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=5)** Now, of course, when we talk about this, especially with PowerShell 7, we obviously need to understand the difference between PowerShell and Bash and where this kind of flows together.
 >
-> **[0:16](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=16)** Now, first off, if you're executing the Bash ls command in Linux inside the PowerShell window, then this would return only file names.
+> **[0:16](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=16)** Now, first off, if you're executing the Bash ls command in [[Linux]] inside the PowerShell window, then this would return only file names.
 >
 > **[0:25](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=25)** If you run Get-ChildItem command, which is a PowerShell cmdlet, this will display more information such as last modified location and file size.
 >
@@ -4252,7 +4225,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=102)** And then a Get-Content will open up the contents of a specific file so we can view them.
 >
-> **[1:48](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=108)** So for example, a Word document, or a text file or a webpage, we can view the HTML.
+> **[1:48](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=108)** So for example, a [[Microsoft Word|Word]] document, or a text file or a webpage, we can view the [[HTML]].
 >
 > **[1:55](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=115)** Now, if we utilize the Get-ChildItem, which is the most common one here, we can return all items within a specific folder.
 >
@@ -4262,7 +4235,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=130)** The first way is to just pass the drive name, or the second option is to utilize -Path parameter, and then also pass that location.
 >
-> **[2:19](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=139)** Now we can also retrieve hidden or system items, 'cause you know, if we're using Windows, by default, some of the system and hidden items are not available and PowerShell will respect that.
+> **[2:19](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=139)** Now we can also retrieve hidden or system items, 'cause you know, if we're using [[Windows]], by default, some of the system and hidden items are not available and PowerShell will respect that.
 >
 > **[2:31](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=151)** However, we can change that by saying, Get-ChildItem, and we use a Force parameter, which will force the hidden and the system items to be displayed.
 >
@@ -4296,11 +4269,11 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=297)** And then we can also use left bracket character and a right bracket character with a character surrounded by that, which will look for characters surrounded by a set of matched characters.
 >
-> **[5:09](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=309)** So, very similar to utilizing other CLIs or even just standard coding practices.
+> **[5:09](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980&t=309)** So, very similar to utilizing other CLIs or even just standard [[Coding Practices]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (18), [[Windows]] (3), feature (1), [[Linux]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (18), [[Windows]] (3), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Tools:** powershell (18), bash (3)
 > **Analogies:** for example (2), such as (1), similar to (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -4309,12 +4282,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage files and directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980)
+#### [Manage files and directories](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=0)** - [Instructor] A common task in PowerShell is managing the file system..
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=0)** - [Instructor] A common task in [[Powershell]] is managing the file system..
 >
 > **[0:04](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=4)** I've forgotten how many times I've had to run PowerShell to move files around, create new folder structures, et cetera.
 >
@@ -4326,7 +4298,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=32)** We can also say new item, move item, remove item.
 >
-> **[0:36](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=36)** These are all underneath the Microsoft PowerShell management module and allow us to manage the files and disk locations on our machines.
+> **[0:36](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=36)** These are all underneath the [[Microsoft]] PowerShell management module and allow us to manage the files and disk locations on our machines.
 >
 > **[0:45](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=45)** Now first off, what I want to be able to do is just set the location.
 >
@@ -4372,7 +4344,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=143)** You don't actually have to, but you can specify this if you want to make it more structured, I'm going to use recursive and then I'm going to use what's called include parameter.
 >
-> **[2:33](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=153)** And then what I want to look for is simply Excel files.
+> **[2:33](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=153)** And then what I want to look for is simply [[Microsoft Excel|Excel]] files.
 >
 > **[2:38](https://www.linkedin.com/learning/powershell-7-essential-training/manage-files-and-directories?u=76281980&t=158)** So if I say include, it now goes through my entire structure and identifies those files.
 >
@@ -4618,7 +4590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (9), data (5), [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1), management (1)
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1)
 > **Tools:** powershell (9)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1), is called (1)
@@ -4627,12 +4599,11 @@ created: 2026-05-02
 > **File Paths:** psdocument.txt (1)
 > **Best Practices:** best practice (1)
 
-#### Retrieve data
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/retrieve-data?u=76281980)
+#### [Retrieve data](https://www.linkedin.com/learning/powershell-7-essential-training/retrieve-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/retrieve-data?u=76281980&t=0)** - [Instructor] Now that we've looked at using files and folders, one of the things that's really critical in PowerShell is accessing of data, whether that's from a text file, whether it's from a Json file or a database or something else.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/retrieve-data?u=76281980&t=0)** - [Instructor] Now that we've looked at using files and folders, one of the things that's really critical in [[Powershell]] is accessing of data, whether that's from a text file, whether it's from a [[JSON]] file or a database or something else.
 >
 > **[0:13](https://www.linkedin.com/learning/powershell-7-essential-training/retrieve-data?u=76281980&t=13)** So firstly, I'm going to set my location variable back to a new folder because if I go into my folder structure here, go into my data, I have some objects that I wish to utilize.
 >
@@ -4876,7 +4847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Powershell]] (2), database (2), [[JSON]] (1), node (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[JSON]] (1)
 > **Env Vars:** csv (17), xml (5), txt (1)
 > **Cross-References:** go back to (5)
 > **UI Navigation:** go to (3), open the (1)
@@ -4885,14 +4856,13 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **File Paths:** psnumbers.txt (1)
 
-#### Work with JSON objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980)
+#### [Work with JSON objects](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=0)** - [Instructor] So now that we've looked at utilizing CSV files, XML files, et cetera, and more common format to use is actually JSON.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=0)** - [Instructor] So now that we've looked at utilizing CSV files, XML files, et cetera, and more common format to use is actually [[JSON]].
 >
-> **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=10)** So that's the JavaScript Notation type stuff.
+> **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=10)** So that's the [[JavaScript]] Notation type stuff.
 >
 > **[0:13](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=13)** If I paste this in here, I'm just going to generate a JSON file.
 >
@@ -4940,7 +4910,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=149)** I can add criteria to it.
 >
-> **[2:31](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=151)** So don't underestimate the power of bringing something out of the PowerShell world, by using the out grid.
+> **[2:31](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=151)** So don't underestimate the power of bringing something out of the [[Powershell]] world, by using the out grid.
 >
 > **[2:37](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=157)** So let me just close that.
 >
@@ -4978,7 +4948,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=248)** I could also go through here and just tab.
 >
-> **[4:11](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=251)** And we could go all the way through, looking for something like windows directory.
+> **[4:11](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=251)** And we could go all the way through, looking for something like [[Windows]] directory.
 >
 > **[4:15](https://www.linkedin.com/learning/powershell-7-essential-training/work-with-json-objects?u=76281980&t=255)** Which will give me the path on my machine to the windows directory, where windows is installed.
 >
@@ -5062,7 +5032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (33), data (7), [[Windows]] (4), node (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JSON]] (33), [[Windows]] (4), [[JavaScript]] (1), [[Powershell]] (1)
 > **Env Vars:** json (33), csv (2), xml (2)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** node (2)
@@ -5074,12 +5044,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to PowerShell remoting
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980)
+#### [Introduction to PowerShell remoting](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980&t=0)** - [Instructor] So what is PowerShell Remoting?
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980&t=0)** - [Instructor] So what is [[Powershell]] Remoting?
 >
 > **[0:03](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980&t=3)** Well, firstly, it's a feature that lets administrators run commands on other systems or remote systems.
 >
@@ -5089,9 +5058,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980&t=28)** The remote system will then send the results back to the local systems.
 >
-> **[0:32](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980&t=32)** So if I'm on a Windows 10 device, I send the commands out, they will come back to me.
+> **[0:32](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980&t=32)** So if I'm on a [[Windows 10]] device, I send the commands out, they will come back to me.
 >
-> **[0:38](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980&t=38)** Now, PowerShell Remoting utilizes a Windows Remote Management, or WinRM framework, to provide that remoting feature.
+> **[0:38](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980&t=38)** Now, PowerShell Remoting utilizes a [[Windows]] Remote Management, or WinRM framework, to provide that remoting feature.
 >
 > **[0:46](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980&t=46)** You can then utilize PowerShell Desired State Configuration, or DSC, and Windows Management Instrumentation, WMI, as part of that Windows Remote Management.
 >
@@ -5133,7 +5102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (15), [[Windows]] (3), management (3), feature (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (15), [[Windows]] (3), [[Windows 10]] (1)
 > **Tools:** powershell (15), terminal (2)
 > **Env Vars:** dsc (1), wmi (1), tcp (1), http (1), https (1)
 > **CLI Commands:** ssh (1)
@@ -5141,12 +5110,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enable PowerShell remoting
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/enable-powershell-remoting?u=76281980)
+#### [Enable PowerShell remoting](https://www.linkedin.com/learning/powershell-7-essential-training/enable-powershell-remoting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/enable-powershell-remoting?u=76281980&t=0)** - [Instructor] Now as part of using PowerShell and managing applications and servers and desktops, et cetera, one of the core things is that we need to be able to do what's called PowerShell remoting.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/enable-powershell-remoting?u=76281980&t=0)** - [Instructor] Now as part of using [[Powershell]] and managing applications and servers and desktops, et cetera, one of the core things is that we need to be able to do what's called PowerShell remoting.
 >
 > **[0:10](https://www.linkedin.com/learning/powershell-7-essential-training/enable-powershell-remoting?u=76281980&t=10)** So this is the idea that we can communicate and make changes or adjustments or retrieve information from another device.
 >
@@ -5158,7 +5126,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/powershell-7-essential-training/enable-powershell-remoting?u=76281980&t=35)** And it will come back and return you any error messages where perhaps it's failed.
 >
-> **[0:40](https://www.linkedin.com/learning/powershell-7-essential-training/enable-powershell-remoting?u=76281980&t=40)** It comes back and says the windows RM service, which is the remote management service is already set up to receive.
+> **[0:40](https://www.linkedin.com/learning/powershell-7-essential-training/enable-powershell-remoting?u=76281980&t=40)** It comes back and says the [[Windows]] RM service, which is the remote management service is already set up to receive.
 >
 > **[0:48](https://www.linkedin.com/learning/powershell-7-essential-training/enable-powershell-remoting?u=76281980&t=48)** And so you can actually perform remote PowerShell to this machine.
 >
@@ -5300,7 +5268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (17), [[Windows]] (1), management (1)
+> **Frameworks & Libraries:** [[Powershell]] (17), [[Windows]] (1)
 > **Tools:** powershell (17)
 > **CLI Commands:** make (2), rm (1)
 > **Analogies:** for example (2)
@@ -5309,12 +5277,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combine commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/combine-commands?u=76281980)
+#### [Combine commands](https://www.linkedin.com/learning/powershell-7-essential-training/combine-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/combine-commands?u=76281980&t=0)** - [Illustrator] One of the goals of using PowerShell is to create PowerShell scripts that we can reuse again and again and again.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/combine-commands?u=76281980&t=0)** - [Illustrator] One of the goals of using [[Powershell]] is to create PowerShell scripts that we can reuse again and again and again.
 >
 > **[0:07](https://www.linkedin.com/learning/powershell-7-essential-training/combine-commands?u=76281980&t=7)** But more importantly, that we can actually hand off to other individuals, other organizations that wish to use them too.
 >
@@ -5496,7 +5463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (8), next (2)
+> **Frameworks & Libraries:** [[Powershell]] (8)
 > **Tools:** powershell (8)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
@@ -5504,12 +5471,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Practical PowerShell remoting
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/practical-powershell-remoting?u=76281980)
+#### [Practical PowerShell remoting](https://www.linkedin.com/learning/powershell-7-essential-training/practical-powershell-remoting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/practical-powershell-remoting?u=76281980&t=0)** - [Instructor] Now, the great thing about PowerShell is that it allows us to combine all of the different types of commandlets and scripts and operators together to create a PowerShell script.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/practical-powershell-remoting?u=76281980&t=0)** - [Instructor] Now, the great thing about [[Powershell]] is that it allows us to combine all of the different types of commandlets and scripts and operators together to create a PowerShell script.
 >
 > **[0:13](https://www.linkedin.com/learning/powershell-7-essential-training/practical-powershell-remoting?u=76281980&t=13)** Now, what we're going to do is look at how we would put all these things together to create something that might be quite useful.
 >
@@ -5693,24 +5659,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=0)** - [Liam] I hope you've enjoyed this course as much as I've enjoyed being able to put it together for you and take you through getting up and running with PowerShell Version 7.
+> **[0:00](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=0)** - [Liam] I hope you've enjoyed this course as much as I've enjoyed being able to put it together for you and take you through getting up and running with [[Powershell]] Version 7.
 >
-> **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=8)** I recommend that your next steps are first, to practice using PowerShell using the example files that are provided within the course, then read and study the Microsoft documentation for PowerShell 7.
+> **[0:08](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=8)** I recommend that your next steps are first, to practice using PowerShell using the example files that are provided within the course, then read and study the [[Microsoft]] documentation for PowerShell 7.
 >
 > **[0:21](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=21)** You can also visit [Powershell.org](https://Powershell.org) to find great articles, podcasts, and information about furthering your PowerShell skills.
 >
 > **[0:29](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=29)** You can also visit the PowerShell blog and the Scripting Guys blog that are provided by Microsoft.
 >
-> **[0:35](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=35)** And then of course, lastly, take all of the many other courses for PowerShell here at LinkedIn Learning.
+> **[0:35](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=35)** And then of course, lastly, take all of the many other courses for PowerShell here at [[LinkedIn]] Learning.
 >
 > **[0:40](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=40)** Regardless of where you go from here with PowerShell, I encourage you to dig deeper and deeper into how and where PowerShell can benefit you.
 >
-> **[0:48](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=48)** With the cloud services such as Microsoft 365 and Azure, the next logical step is to begin importing those modules and scripting against the cloud.
+> **[0:48](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=48)** With the [[Cloud Services]] such as [[Microsoft 365]] and [[Microsoft Azure|Azure]], the next logical step is to begin importing those modules and scripting against the cloud.
 >
 > **[0:58](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980&t=58)** Most of all, enjoy the scripts that you create and the power that it gives you.
 >
@@ -5720,7 +5685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (10), cloud (3), next (2), [[Microsoft]] (2), [[Scripting]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Microsoft]] (2), [[LinkedIn]] (1), [[Cloud Services]] (1), [[Microsoft 365]] (1)
 > **Tools:** powershell (10)
 > **CLI Commands:** find (1)
 > **URLs:** [powershell.org](https://powershell.org) (1)

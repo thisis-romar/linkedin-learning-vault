@@ -96,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of security
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/the-importance-of-security?u=76281980)
+#### [The importance of security](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/the-importance-of-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/the-importance-of-security?u=76281980&t=29)** I'm Kevin Skoglund.
 >
-> **[0:30](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/the-importance-of-security?u=76281980&t=30)** I've been a web developer writing code, and PHP, Ruby and Ruby on Rails for over 20 years.
+> **[0:30](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/the-importance-of-security?u=76281980&t=30)** I've been a web developer writing code, and [[PHP]], Ruby and Ruby on Rails for over 20 years.
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/the-importance-of-security?u=76281980&t=36)** I know firsthand why security is an essential skill.
 >
@@ -129,7 +128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), web (4), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** ruby (2), make (1), php (1), rails (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** php (1)
@@ -140,8 +139,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is security?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-security?u=76281980)
+#### [What is security?](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-security?u=76281980&t=24)** This serves as a good general definition of security.
 >
-> **[0:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-security?u=76281980&t=26)** In this course, we'll be focused on security of a specific industry, web development.
+> **[0:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-security?u=76281980&t=26)** In this course, we'll be focused on security of a specific industry, [[Web Development]].
 >
 > **[0:31](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-security?u=76281980&t=31)** What makes a website secure?
 >
@@ -203,14 +201,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), web (4), [[Web Development]] (1), data (1)
+> **Frameworks & Libraries:** [[Web Development]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - let (1)
 
-#### Why security matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980)
+#### [Why security matters](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=2)** It's easy to set up a basic website.
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=5)** You write a bit of HTML, add a bit of CSS, sign up for a hosting plan, and voila, you've got a website.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=5)** You write a bit of [[HTML]], add a bit of CSS, sign up for a hosting plan, and voila, you've got a website.
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=11)** There aren't many security problems with a simple website.
 >
@@ -226,13 +223,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=19)** Now, this could give you the impression that new features and technologies can be added to simple HTML pages just as easily.
 >
-> **[0:27](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=27)** Over time, perhaps you decide to add some JavaScript, use PHP to create dynamic pages, store data in cookies, or connect to a backend database.
+> **[0:27](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=27)** Over time, perhaps you decide to add some [[JavaScript]], use [[PHP]] to create dynamic pages, store data in cookies, or connect to a backend database.
 >
 > **[0:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=35)** However, it's important to recognize that as the site gains features like these, it increases in complexity and it gains new security issues.
 >
 > **[0:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=44)** New features may introduce the ability to perform actions that you don't expect.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=48)** In fact, hackers scan the internet looking for web servers that are set up by beginners, or that use technologies or configurations that they can exploit.
+> **[0:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=48)** In fact, hackers scan the internet looking for [[Web Servers]] that are set up by beginners, or that use technologies or configurations that they can exploit.
 >
 > **[0:57](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/why-security-matters?u=76281980&t=57)** They don't need to be at their keyboard or decide to target you specifically.
 >
@@ -268,15 +265,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (5), web (3), [[HTML]] (2), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1), [[PHP]] (1), [[Web Servers]] (1)
 > **Env Vars:** html (2), css (1), url (1), php (1)
 > **CLI Commands:** php (1), make (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - let (1)
 
-#### What is a hacker?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980)
+#### [What is a hacker?](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=10)** In fact, hacker can have a positive meaning.
 >
-> **[0:13](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=13)** It can mean someone who tinkers with computers and electronics to come up with innovative ideas.
+> **[0:13](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=13)** It can mean someone who tinkers with computers and [[Electronics]] to come up with innovative ideas.
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=18)** Many of today's most reputable technology companies began as a couple of hackers experimenting in a garage.
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=186)** These are the most skilled attackers with enormous resources at their disposal.
 >
-> **[3:10](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=190)** Most governments keep databases of technical flaws that they can exploit and build libraries of code to exploit them.
+> **[3:10](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=190)** Most governments keep [[Databases]] of technical flaws that they can exploit and build libraries of code to exploit them.
 >
 > **[3:16](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=196)** Luckily, they're not generally interested in hacking most websites.
 >
@@ -376,11 +372,11 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=222)** When the seemingly harmless thought of the day flash widget appeared, a visitor's browser would automatically download malware, which compromised their computer.
 >
-> **[3:51](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=231)** Knowing about hackers and their motivations is an important aspect of security awareness that can help you to build better protections.
+> **[3:51](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-a-hacker?u=76281980&t=231)** Knowing about hackers and their motivations is an important aspect of [[Security Awareness]] that can help you to build better protections.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), next (2), [[Electronics]] (1), data (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Databases]] (1), [[Security Awareness]] (1)
 > **Analogies:** imagine (2), such as (1), for example (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** yarn (1)
@@ -388,12 +384,11 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - when (1)
 
-#### Threat models
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980)
+#### [Threat models](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=0)** - As a web developer, the most important part of security awareness is to assess potential threats to your website.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=0)** - As a web developer, the most important part of [[Security Awareness]] is to assess potential threats to your website.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=6)** The process of assessing potential security threats is called developing a threat model.
 >
@@ -445,7 +440,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=114)** If you run a website about a controversial topic, then hacktivists may be in your threat model.
 >
-> **[1:59](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=119)** If you run an e-commerce site, then criminals are probably a large part of your threat model.
+> **[1:59](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=119)** If you run an [[E-Commerce]] site, then criminals are probably a large part of your threat model.
 >
 > **[2:04](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=124)** If you're a defense contractor, then governments and advanced persistent threats may be in your threat model.
 >
@@ -463,7 +458,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=161)** In each threat model, attackers will have different abilities, attack styles, and objectives.
 >
-> **[2:47](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=167)** Each defender will have different high value assets and vulnerabilities.
+> **[2:47](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=167)** Each [[Microsoft Defender|defender]] will have different high value assets and vulnerabilities.
 >
 > **[2:50](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/threat-models?u=76281980&t=170)** There is no one-size-fits-all security.
 >
@@ -471,14 +466,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), web (2), [[E-Commerce]] (1), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (1), [[E-Commerce]] (1), [[Microsoft Defender|Defender]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is called (1)
 > **Speakers:** - as (1)
 
-#### Total security is unachievable
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/total-security-is-unachievable?u=76281980)
+#### [Total security is unachievable](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/total-security-is-unachievable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +534,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), data (1), business (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** cia (1)
 > **Speakers:** - i (1)
@@ -550,8 +543,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Least privilege
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980)
+#### [Least privilege](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -575,7 +567,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=32)** You control and limit the access to your personal property.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=35)** Many office buildings have security guards that regulate access.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=35)** Many [[Microsoft Office|office]] buildings have security guards that regulate access.
 >
 > **[0:38](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=38)** If you work in such a building, you may have only access to some floors or some departments and even within those areas, there may be spaces that are off limits to you, such as a server room, a supply closet or even certain filing cabinets.
 >
@@ -597,11 +589,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=93)** If a user's job is only to edit website text, then they should not be able to browse a list of paying customers.
 >
-> **[1:39](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=99)** Users in human resources should not be able to see accounting information and users in accounting should not be able to see human resource information, and any user with limited privileges should never have enough system access to edit their own privileges.
+> **[1:39](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=99)** Users in [[Human Resources (HR)|human resources]] should not be able to see accounting information and users in accounting should not be able to see human resource information, and any user with limited privileges should never have enough system access to edit their own privileges.
 >
 > **[1:52](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=112)** The principle of least privilege applies to every program and every user.
 >
-> **[1:56](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=116)** As such, it can be applied to APIs, system resources, database access, software version control, and even public facing webpages that grant access to different types of customers or to staff members.
+> **[1:56](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=116)** As such, it can be applied to APIs, system resources, database access, software [[Version Control]], and even public facing webpages that grant access to different types of customers or to staff members.
 >
 > **[2:09](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=129)** Now, let's consider code access.
 >
@@ -609,7 +601,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=133)** Code should apply the principle of least privilege and limit what's available to other code.
 >
-> **[2:18](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=138)** Let's use some PHP code as an example.
+> **[2:18](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=138)** Let's use some [[PHP]] code as an example.
 >
 > **[2:21](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980&t=141)** Notice that all of the variables and functions in this class are marked as being public.
 >
@@ -637,14 +629,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), next (1), [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1), [[Version Control]] (1), [[PHP]] (1)
 > **CLI Commands:** make (1), php (1)
 > **Env Vars:** php (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Simple is more secure
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980)
+#### [Simple is more secure](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,7 +643,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=5)** Let me start by asking a question.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=6)** Which would be easier to secure, a house that had only one door or a house that has five doors and five windows?
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=6)** Which would be easier to secure, a house that had only one door or a house that has five doors and five [[Windows]]?
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=13)** The answer is obviously the house with one door.
 >
@@ -700,7 +691,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=101)** If a web server won't be sending emails, then disable its email-sending features.
 >
-> **[1:46](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=106)** If you're not using PHP, then there's no reason to leave yourself open to any PHP vulnerabilities.
+> **[1:46](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=106)** If you're not using [[PHP]], then there's no reason to leave yourself open to any PHP vulnerabilities.
 >
 > **[1:51](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=111)** Breaking up long sections of code into smaller functions can greatly reduce complexity.
 >
@@ -716,7 +707,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=133)** Perhaps most importantly, don't repeat yourself.
 >
-> **[2:16](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=136)** Object-oriented programming strongly encourages this practice, but functional programming can use it, too.
+> **[2:16](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=136)** [[Object-Oriented Programming (OOP)|Object-oriented programming]] strongly encourages this practice, but [[Functional Programming]] can use it, too.
 >
 > **[2:21](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/simple-is-more-secure?u=76281980&t=141)** If we duplicate code and then later find a bug, the bug may get fixed in one version but not in the other.
 >
@@ -728,14 +719,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Programming]] (2), feature (2), [[PHP]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Windows]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Functional Programming]] (1)
 > **CLI Commands:** php (2), make (1), find (1)
 > **Env Vars:** php (2)
 > **Definitions:** we call this (1)
 > **Speakers:** - our (1)
 
-#### Never trust users
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/never-trust-users?u=76281980)
+#### [Never trust users](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/never-trust-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +801,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/never-trust-users?u=76281980&t=141)** A typo can break a configuration.
 >
-> **[2:23](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/never-trust-users?u=76281980&t=143)** If a web application has a form for users to submit information, then users may try to include HTML or JavaScript, or they may cut and paste text from a word processor which includes formatting or special characters.
+> **[2:23](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/never-trust-users?u=76281980&t=143)** If a web application has a form for users to submit information, then users may try to include [[HTML]] or [[JavaScript]], or they may cut and paste text from a [[Microsoft Word|word]] processor which includes formatting or special characters.
 >
 > **[2:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/never-trust-users?u=76281980&t=155)** Now, these users don't intend to be malicious, but you have to be on your guard against basic human mistakes too.
 >
@@ -827,7 +817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), web application (1), [[HTML]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
@@ -835,8 +825,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Speakers:** - trust (1)
 
-#### Expect the unexpected
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/expect-the-unexpected?u=76281980)
+#### [Expect the unexpected](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/expect-the-unexpected?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -884,7 +873,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/expect-the-unexpected?u=76281980&t=72)** Imagine a global search box at the top of website that will search the entire site for a string of text.
 >
-> **[1:17](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/expect-the-unexpected?u=76281980&t=77)** The expected path, sometimes called the happy path, is for the user to enter a word or two from the dictionary into the global search box.
+> **[1:17](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/expect-the-unexpected?u=76281980&t=77)** The expected path, sometimes called the happy path, is for the user to enter a [[Microsoft Word|word]] or two from the dictionary into the global search box.
 >
 > **[1:25](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/expect-the-unexpected?u=76281980&t=85)** The happy path is what happens when everything goes according to plan.
 >
@@ -900,7 +889,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/expect-the-unexpected?u=76281980&t=104)** What if they enter emojis or other high ASCII characters or multi-byte characters from other languages, like Chinese or Arabic?
 >
-> **[1:50](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/expect-the-unexpected?u=76281980&t=110)** Can the query be written such that when the search is complete, the HTML or the JavaScript on the results page would be modified?
+> **[1:50](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/expect-the-unexpected?u=76281980&t=110)** Can the query be written such that when the search is complete, the [[HTML]] or the [[JavaScript]] on the results page would be modified?
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/expect-the-unexpected?u=76281980&t=117)** What if the user duplicates the original form on a different server and then submits data from that edited version?
 >
@@ -908,14 +897,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Security]] (3), next (1), [[Microsoft Word|Word]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** ascii (1), html (1)
 > **Analogies:** think of it as (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - our (1)
 
-#### Defense in depth
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980)
+#### [Defense in depth](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -943,7 +931,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=60)** When planning defense in depth for a website, there are three main categories to consider: physical, technical, and administrative.
 >
-> **[1:07](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=67)** Physical controls protect the servers and other computer hardware from physical access or harm.
+> **[1:07](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=67)** Physical controls protect the servers and other computer [[Hardware]] from physical access or harm.
 >
 > **[1:12](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=72)** If you're self-hosting your servers, then it includes building access, security guards, access control doors, video cameras, and locks.
 >
@@ -955,7 +943,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=89)** Technical controls are comprised of hardware, software, and network protections.
 >
-> **[1:34](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=94)** System administrators use firewalls, intrusion detection systems, antivirus software, event logging, and data backups to keep systems and networks secure.
+> **[1:34](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=94)** System administrators use firewalls, [[Intrusion Detection]] systems, antivirus software, event logging, and data backups to keep systems and networks secure.
 >
 > **[1:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=104)** Web developers can defend web applications with multifactor authentication by encrypting stored data and transmitted data and by applying the principle of least privilege to access controls and code design.
 >
@@ -967,7 +955,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=128)** Once an attacker gains access, they have access to everything.
 >
-> **[2:11](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=131)** They have root access to the server, they have access to all of the databases and to the user passwords that are stored in plain text.
+> **[2:11](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=131)** They have root access to the server, they have access to all of the [[Databases]] and to the user passwords that are stored in plain text.
 >
 > **[2:18](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=138)** Now, let's imagine a second scenario where we use least privilege and encryption to provide defense in depth.
 >
@@ -983,7 +971,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=165)** Administrative controls are the policies and procedures designed to keep systems safe.
 >
-> **[2:50](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=170)** This includes training, writing a security policy, risk assessments, periodic security reviews, data handling procedures, monitoring and penetration testing.
+> **[2:50](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=170)** This includes training, writing a security policy, risk assessments, periodic security reviews, data handling procedures, monitoring and [[Penetration Testing]].
 >
 > **[3:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/defense-in-depth?u=76281980&t=180)** A large organization may develop strong administrative controls.
 >
@@ -993,13 +981,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (4), [[Hardware]] (2), web (2), web application (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Intrusion Detection]] (1), [[Databases]] (1), [[Penetration Testing]] (1)
 > **Analogies:** imagine (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - defense (1)
 
-#### Resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980)
+#### [Resilience](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,7 +1030,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=91)** Identification of issues requires a plan, from monitoring systems to know when they deviate from the expected norms, and it requires a plan for notifying the people or other systems with an ability to respond.
 >
-> **[1:43](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=103)** There are many examples of system monitoring software on the market.
+> **[1:43](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=103)** There are many examples of [[System Monitoring]] software on the market.
 >
 > **[1:47](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=107)** Some of them have free versions.
 >
@@ -1065,7 +1052,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=140)** Notifications to other stakeholders or call trees might be triggered.
 >
-> **[2:23](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=143)** If so, consider who has responsibility and who has decision-making authority.
+> **[2:23](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=143)** If so, consider who has responsibility and who has [[Decision-Making]] authority.
 >
 > **[2:28](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=148)** A response will be delayed if it requires lengthy discussions or approval by someone who isn't available.
 >
@@ -1073,7 +1060,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=156)** Our parachute example illustrates how redundancy can be an effective response.
 >
-> **[2:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=160)** It's common for web servers and databases to be designed with redundant versions that can take over if the primary version fails.
+> **[2:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=160)** It's common for [[Web Servers]] and [[Databases]] to be designed with redundant versions that can take over if the primary version fails.
 >
 > **[2:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/resilience?u=76281980&t=168)** Other systems are designed to adapt and to allocate new resources when needed.
 >
@@ -1115,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (1), [[System Monitoring]] (1), [[Decision-Making]] (1), web (1)
+> **Frameworks & Libraries:** [[System Monitoring]] (1), [[Decision-Making]] (1), [[Web Servers]] (1), [[Databases]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
@@ -1123,8 +1110,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - skydivers (1)
 
-#### Security through obscurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980)
+#### [Security through obscurity](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,7 +1122,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=13)** Learning new information benefits an attacker.
 >
-> **[0:16](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=16)** It never benefits a defender.
+> **[0:16](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=16)** It never benefits a [[Microsoft Defender|defender]].
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=17)** Therefore, the less information you give out, the better.
 >
@@ -1178,7 +1164,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=96)** As a web developer, you want to be mindful of what information you're broadcasting.
 >
-> **[1:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=100)** For example, do URLs include file extensions such as .php?
+> **[1:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=100)** For example, do URLs include file extensions such as .[[PHP]]?
 >
 > **[1:46](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=106)** An attacker can tell what server side language is being used.
 >
@@ -1208,7 +1194,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=164)** Social media can reveal a lot of information about individuals.
 >
-> **[2:47](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=167)** Knowing someone's former university or the names of their pets may help to guess passwords or to craft an effective phishing email.
+> **[2:47](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=167)** Knowing someone's former university or the names of their pets may help to guess passwords or to craft an effective [[Phishing]] email.
 >
 > **[2:55](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/security-through-obscurity?u=76281980&t=175)** Knowing when employees are on vacation can help an attacker choose favorable timing.
 >
@@ -1238,7 +1224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), web (2), database (2), next (1), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (1), [[PHP]] (1), [[Phishing]] (1)
 > **CLI Commands:** make (3), php (1), find (1)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Env Vars:** http (1), whois (1), url (1)
@@ -1246,8 +1232,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - security (1)
 
-#### Deny-listing and allow-listing
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/deny-listing-and-allow-listing?u=76281980)
+#### [Deny-listing and allow-listing](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/deny-listing-and-allow-listing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1297,9 +1282,9 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/deny-listing-and-allow-listing?u=76281980&t=124)** Let's look at a concrete example.
 >
-> **[2:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/deny-listing-and-allow-listing?u=76281980&t=126)** A common development scenario is a web form, which allows users to submit text and which allows some HTML tags to be used but restricts others.
+> **[2:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/deny-listing-and-allow-listing?u=76281980&t=126)** A common development scenario is a web form, which allows users to submit text and which allows some [[HTML]] tags to be used but restricts others.
 >
-> **[2:15](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/deny-listing-and-allow-listing?u=76281980&t=135)** Users should be able to make text bold or italic, but should not be able to add JavaScript or to affect the page layout.
+> **[2:15](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/deny-listing-and-allow-listing?u=76281980&t=135)** Users should be able to make text bold or italic, but should not be able to add [[JavaScript]] or to affect the page layout.
 >
 > **[2:21](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/deny-listing-and-allow-listing?u=76281980&t=141)** The deny-list approach requires listing every HTML tag that cannot be used.
 >
@@ -1321,7 +1306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Programming]] (2), [[Security]] (2), data (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (1)
 > **Env Vars:** html (4)
 > **Definitions:** known as (2), is a  (2)
 > **Best Practices:** remember to (3)
@@ -1329,8 +1314,7 @@ created: 2026-05-02
 > **Analogies:** imagine (2)
 > **Speakers:** - let (1)
 
-#### Map exposure points and data passageways
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980)
+#### [Map exposure points and data passageways](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1356,7 +1340,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=43)** You can think of your map as a security checklist.
 >
-> **[0:46](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=46)** You may decide to create a list in a word processor or to draw diagrams on paper showing the paths that data takes.
+> **[0:46](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=46)** You may decide to create a list in a [[Microsoft Word|word]] processor or to draw diagrams on paper showing the paths that data takes.
 >
 > **[0:53](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=53)** You should take inventory of where data enters your systems, how it moves between system parts, where it's stored, and how it's returned to the user or to other outlets.
 >
@@ -1364,17 +1348,17 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=67)** For mapping data input.
 >
-> **[1:09](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=69)** There are the URLs that get typed into a browser, forms, cookies, and sessions also contain incoming data.
+> **[1:09](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=69)** There are the URLs that get typed into a browser, [[Forms]], cookies, and sessions also contain incoming data.
 >
 > **[1:15](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=75)** Data enters a web application anytime you retrieve information from a database.
 >
-> **[1:20](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=80)** Public APIs or application programming interfaces are designated pathways for receiving data into an application.
+> **[1:20](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=80)** Public APIs or [[Application Programming Interfaces (API)|application programming interfaces]] are designated pathways for receiving data into an application.
 >
 > **[1:28](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=88)** You want to be suspicious of all incoming data.
 >
 > **[1:31](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=91)** Data in transition is data that's sent from one point to another.
 >
-> **[1:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=95)** It can be vulnerable if it passes through insecure hardware, vulnerable software, or if the data is translated or transformed in any way.
+> **[1:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=95)** It can be vulnerable if it passes through insecure [[Hardware]], vulnerable software, or if the data is translated or transformed in any way.
 >
 > **[1:43](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=103)** In many cases, data will arrive to a web server, which will process the request, and send back a response entirely on its own.
 >
@@ -1384,7 +1368,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=120)** And these pathways should be mapped.
 >
-> **[2:02](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=122)** Cloud services like Microsoft Azure and Amazon S3 are common examples.
+> **[2:02](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=122)** [[Cloud Services]] like [[Microsoft Azure]] and Amazon S3 are common examples.
 >
 > **[2:07](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=127)** Data can be stored in many places.
 >
@@ -1396,11 +1380,11 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=141)** Output can contain bad data that's used to exploit or create vulnerabilities.
 >
-> **[2:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=146)** A common and potent example is JavaScript designed to do harm when it's received by a user's browser.
+> **[2:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=146)** A common and potent example is [[JavaScript]] designed to do harm when it's received by a user's browser.
 >
 > **[2:32](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=152)** Focusing on where data enters and leaves your server, where the data travels, where it's stored will help you to understand the topography of your system.
 >
-> **[2:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=160)** After all, web security is an exercise in data security.
+> **[2:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=160)** After all, web security is an exercise in [[Data Security]].
 >
 > **[2:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=164)** Data security has three goals: confidentiality, integrity, and availability.
 >
@@ -1410,7 +1394,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=181)** Credit cards and passwords are the most high-profile items to keep confidential.
 >
-> **[3:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=186)** Data integrity naturally receives the most focus.
+> **[3:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=186)** [[Data Integrity]] naturally receives the most focus.
 >
 > **[3:09](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/map-exposure-points-and-data-passageways?u=76281980&t=189)** We don't want hackers making malicious changes.
 >
@@ -1424,7 +1408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Security]] (7), web (4), database (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Data Security]] (2), [[Microsoft Word|Word]] (1), [[Forms]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
 > **Env Vars:** cia (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - our (1)
@@ -1434,8 +1418,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Regulate requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980)
+#### [Regulate requests](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1501,7 +1484,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980&t=145)** Accept is used to specify the format of the response that the browser making the request would like to get back.
 >
-> **[2:31](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980&t=151)** The most common formats for both are HTML, JSON, XML, or text.
+> **[2:31](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980&t=151)** The most common formats for both are [[HTML]], [[JSON]], XML, or text.
 >
 > **[2:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980&t=156)** But the format can be any MIME type including RSS, PDF, images, audio, or video.
 >
@@ -1517,7 +1500,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980&t=194)** Requests which are too large, or which contain file uploads that are too large could be rejected.
 >
-> **[3:19](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980&t=199)** Filtering requests by examining these types of criteria can be done either in the web server configuration or inside your web application.
+> **[3:19](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980&t=199)** Filtering requests by examining these types of criteria can be done either in the web [[Server Configuration]] or inside your web application.
 >
 > **[3:27](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980&t=207)** Or you can use firewalls and proxies, which are powerful, specialized tools for regulating requests.
 >
@@ -1525,7 +1508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), web (5), [[Security]] (4), application (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JSON]] (1), [[Server Configuration]] (1)
 > **Env Vars:** post (4), url (2), http (1), connect (1), delete (1)
 > **API Endpoints:** get  (4), post  (3)
 > **Analogies:** such as (2), it's like (1)
@@ -1533,8 +1516,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### Validate input
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/validate-input?u=76281980)
+#### [Validate input](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/validate-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,7 +1532,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/validate-input?u=76281980&t=31)** More often, they use the standard data inputs, but then send in malicious data.
 >
-> **[0:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/validate-input?u=76281980&t=36)** Data validation determines if the data being received as input is acceptable.
+> **[0:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/validate-input?u=76281980&t=36)** [[Data Validation]] determines if the data being received as input is acceptable.
 >
 > **[0:42](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/validate-input?u=76281980&t=42)** This means you need to establish criteria to separate good data from bad data.
 >
@@ -1612,7 +1594,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/validate-input?u=76281980&t=166)** Testing for exact equality and testing whether value is blank, empty or not defined is often tricky.
 >
-> **[2:53](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/validate-input?u=76281980&t=173)** For example, in PHP, a validation might test for the presence of a value.
+> **[2:53](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/validate-input?u=76281980&t=173)** For example, in [[PHP]], a validation might test for the presence of a value.
 >
 > **[2:58](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/validate-input?u=76281980&t=178)** If the value was null or an empty string, you would expect it to return False and to fail the validation.
 >
@@ -1636,7 +1618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), web application (4), database (4), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (1), [[PHP]] (1)
 > **CLI Commands:** make (3), find (1), php (1)
 > **Env Vars:** jpeg (1), pdf (1), url (1), php (1)
 > **Analogies:** for example (3), imagine (1)
@@ -1645,8 +1627,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - validating (1)
 
-#### Sanitize data
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980)
+#### [Sanitize data](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1708,11 +1689,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=139)** A map of data pathways will help.
 >
-> **[2:21](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=141)** If data will be sent in an SQL string to the database, then it needs SQL sanitization.
+> **[2:21](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=141)** If data will be sent in an [[SQL]] string to the database, then it needs SQL sanitization.
 >
-> **[2:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=146)** If data will be sent to the browser in JavaScript, then it needs JavaScript sanitization.
+> **[2:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=146)** If data will be sent to the browser in [[JavaScript]], then it needs JavaScript sanitization.
 >
-> **[2:32](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=152)** The same applies to HTML, JSON, XML, or any other language or format.
+> **[2:32](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=152)** The same applies to [[HTML]], [[JSON]], XML, or any other language or format.
 >
 > **[2:38](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=158)** The rules about what could be harmful depend on the format.
 >
@@ -1722,7 +1703,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=174)** For example, in HTML, the less than symbol indicates the start of a tag, and the greater than symbol indicates the end of a tag.
 >
-> **[3:02](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=182)** Here's an HTML tag where a class attribute is being provided by a PHP variable.
+> **[3:02](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=182)** Here's an HTML tag where a class attribute is being provided by a [[PHP]] variable.
 >
 > **[3:07](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sanitize-data?u=76281980&t=187)** If that variable contained a double quote with a greater than sign, those characters would close the HTML tag.
 >
@@ -1786,7 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[HTML]] (8), [[JavaScript]] (6), [[SQL]] (5), database (4)
+> **Frameworks & Libraries:** [[HTML]] (8), [[JavaScript]] (6), [[SQL]] (5), [[JSON]] (2), [[PHP]] (1)
 > **Env Vars:** html (8), sql (5), json (2), xml (2), php (1)
 > **Definitions:** means that (3), is a  (3), known as (1)
 > **Analogies:** for example (4), imagine (1)
@@ -1795,8 +1776,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - when (1)
 
-#### Label variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/label-variables?u=76281980)
+#### [Label variables](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/label-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1808,7 +1788,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/label-variables?u=76281980&t=15)** After sanitization, we can use names such as clean, sanitized, or safe.
 >
-> **[0:20](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/label-variables?u=76281980&t=20)** Let me show you an example using PHP.
+> **[0:20](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/label-variables?u=76281980&t=20)** Let me show you an example using [[PHP]].
 >
 > **[0:22](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/label-variables?u=76281980&t=22)** An email address is received from a web forum and assigned to the variable, raw_email.
 >
@@ -1830,7 +1810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[PHP]] (1), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Code Identifiers:** raw_email (2), safe_email (1), dirty_params (1), clean_params (1)
 > **CLI Commands:** php (1), ruby (1), rails (1)
 > **Definitions:** short for (1), is called (1), is a  (1)
@@ -1838,8 +1818,7 @@ created: 2026-05-02
 > **Env Vars:** php (1)
 > **Speakers:** - it (1)
 
-#### Keep code private
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980)
+#### [Keep code private](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1877,15 +1856,15 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980&t=71)** Once code is split into public and private directories, the web server needs to be configured to serve files from the public directory.
 >
-> **[1:18](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980&t=78)** You can do that by setting the public directory as the document route in the web server configuration file.
+> **[1:18](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980&t=78)** You can do that by setting the public directory as the document route in the web [[Server Configuration]] file.
 >
 > **[1:23](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980&t=83)** This tells the web server where to find files that should be accessible to the public and prohibits it from serving files which are not inside that directory.
 >
 > **[1:31](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980&t=91)** Pages in the public directory can still contain private code.
 >
-> **[1:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980&t=95)** For example, a public page can contain PHP code which users should not see.
+> **[1:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980&t=95)** For example, a public page can contain [[PHP]] code which users should not see.
 >
-> **[1:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980&t=100)** The user won't see it because the web server will process the PHP and output HTML.
+> **[1:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980&t=100)** The user won't see it because the web server will process the PHP and output [[HTML]].
 >
 > **[1:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-code-private?u=76281980&t=104)** While these pages can contain code, it's still smart to keep that code to a minimum, make it boring.
 >
@@ -1899,18 +1878,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), [[Security]] (2), [[PHP]] (2), [[Server Configuration]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Server Configuration]] (1), [[HTML]] (1)
 > **CLI Commands:** php (2), find (1), make (1)
 > **Env Vars:** php (2), html (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Keep credentials private
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980)
+#### [Keep credentials private](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=0)** - When we think of credentials, we usually think of usernames and passwords, and website code often uses credentials to connect to databases, to connect to a payment processor, to access third party APIs, or connect to source code repositories.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=0)** - When we think of credentials, we usually think of usernames and passwords, and website code often uses credentials to connect to [[Databases]], to connect to a payment processor, to access third party APIs, or connect to source code repositories.
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=14)** These credentials are valuable access keys that need to be handled securely.
 >
@@ -1926,7 +1904,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=36)** These values are still in the project, but it's easier to give special treatment to a separate credentials file.
 >
-> **[0:42](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=42)** Version control systems such as Git, SVN, and Mercurial present unique challenges for credentials.
+> **[0:42](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=42)** [[Version Control]] systems such as [[Git]], SVN, and Mercurial present unique challenges for credentials.
 >
 > **[0:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=48)** These code management tools are often used to distribute code via shared repositories or third party services.
 >
@@ -1992,11 +1970,11 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=209)** When connecting to remote servers using SSH or SFTP you may be able to use SSH keys, which are a more convenient and secure option than a username and password.
 >
-> **[3:39](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=219)** SSH keys use public key cryptography to create two files which are mathematically linked.
+> **[3:39](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=219)** SSH keys use public key [[Cryptography]] to create two files which are mathematically linked.
 >
 > **[3:45](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=225)** They're known as a key pair with one public key which can be shared and one private key which is kept secret.
 >
-> **[3:51](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=231)** You can put the public key on remote servers and on code repositories like GitHub.
+> **[3:51](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=231)** You can put the public key on remote servers and on code repositories like [[GitHub]].
 >
 > **[3:55](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-credentials-private?u=76281980&t=235)** When you access those servers, the public key and your private key interact to authenticate you and to grant access.
 >
@@ -2018,7 +1996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (8), database (3), [[Security]] (3), [[Databases]] (2), data (2)
+> **Frameworks & Libraries:** [[Version Control]] (8), [[Databases]] (2), [[Git]] (1), [[Cryptography]] (1), [[GitHub]] (1)
 > **CLI Commands:** ssh (5), make (2), git (1)
 > **Env Vars:** ssh (5), svn (1), sftp (1)
 > **Best Practices:** best practice (1), you should never (1)
@@ -2027,8 +2005,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 
-#### Keep error messages vague
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-error-messages-vague?u=76281980)
+#### [Keep error messages vague](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-error-messages-vague?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2078,7 +2055,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-error-messages-vague?u=76281980&t=104)** Errors can happen with the web server or with the web application.
 >
-> **[1:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-error-messages-vague?u=76281980&t=108)** Web servers have their own generic pages to use by default but they're not very attractive.
+> **[1:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-error-messages-vague?u=76281980&t=108)** [[Web Servers]] have their own generic pages to use by default but they're not very attractive.
 >
 > **[1:53](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/keep-error-messages-vague?u=76281980&t=113)** You can configure both the web server and your web application to use the same standard error pages.
 >
@@ -2088,14 +2065,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), web application (3), generic (2)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - hackers (1)
 
-#### Smart logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980)
+#### [Smart logging](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2123,7 +2099,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=50)** This might be page requests sent in too quickly or request looking for common vulnerabilities.
 >
-> **[0:56](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=56)** For example, I don't run a WordPress website, but I frequently see requests to my servers searching for a WordPress admin page.
+> **[0:56](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=56)** For example, I don't run a [[WordPress]] website, but I frequently see requests to my servers searching for a WordPress admin page.
 >
 > **[1:03](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=63)** That's an indication that someone is probing my site, looking for a way inside, probably using an automated script.
 >
@@ -2159,9 +2135,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=142)** You need to take care not to accidentally log sensitive data.
 >
-> **[2:25](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=145)** For example, you shouldn't log all post parameters sent in by web forms because you may end up recording user passwords in plain text in the log file.
+> **[2:25](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=145)** For example, you shouldn't log all post parameters sent in by web [[Forms]] because you may end up recording user passwords in plain text in the log file.
 >
-> **[2:33](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=153)** Database queries or interactions with a payment processor can also include sensitive data.
+> **[2:33](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=153)** [[Database Queries]] or interactions with a payment processor can also include sensitive data.
 >
 > **[2:38](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=158)** I also like to rotate log files so they don't get too long and difficult to work with.
 >
@@ -2169,13 +2145,13 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=169)** The next day, all of the numbers are incremented by one and the rotation keeps going and it keeps the logs for as many days as you specify.
 >
-> **[2:56](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=176)** Linux has a program called Log Rotate, which does this for you, and there's similar software available for Windows.
+> **[2:56](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=176)** [[Linux]] has a program called Log Rotate, which does this for you, and there's similar software available for [[Windows]].
 >
 > **[3:02](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/smart-logging?u=76281980&t=182)** Smart logging is a key part of protecting your application, detecting threats, and providing helpful information to use after an incident has happened.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (3), [[Security]] (2), application (2), [[WordPress]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Forms]] (1), [[Database Queries]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -2188,8 +2164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of credential attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980)
+#### [Types of credential attacks](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2235,7 +2210,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980&t=82)** It's become common for an entire database of user credentials to be exposed.
 >
-> **[1:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980&t=86)** These databases are valuable to hackers.
+> **[1:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980&t=86)** These [[Databases]] are valuable to hackers.
 >
 > **[1:29](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980&t=89)** They're shared and sold before they eventually become publicly available.
 >
@@ -2267,7 +2242,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980&t=175)** Botnets and distributed computing allow for millions of guesses per second.
 >
-> **[2:59](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980&t=179)** Specialized hardware rigs can try billions of guesses per second.
+> **[2:59](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980&t=179)** Specialized [[Hardware]] rigs can try billions of guesses per second.
 >
 > **[3:03](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980&t=183)** The other variables have to increase in order to keep a password difficult to guess using brute force.
 >
@@ -2309,7 +2284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), [[Databases]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Hardware]] (1)
 > **Env Vars:** ceo (1), ncc (1), uss (1)
 > **Analogies:** it's like (1), for example (1)
 > **Prerequisites:** configure (1), required to (1)
@@ -2318,8 +2293,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - in (1)
 
-#### Strong passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980)
+#### [Strong passwords](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2367,7 +2341,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=93)** A password manager is software which will store passwords in an encrypted file.
 >
-> **[1:38](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=98)** You only need to remember one master password which unlocks the rest of them.
+> **[1:38](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=98)** You only need to remember one master password which unlocks the [[Representational State Transfer (REST)|rest]] of them.
 >
 > **[1:42](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=102)** Most include nice features like strong password generators, form autofill, and a place to securely store other notes.
 >
@@ -2381,9 +2355,9 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=127)** You can log into your servers with SSH keys.
 >
-> **[2:10](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=130)** You can connect to GitHub using SSH keys.
+> **[2:10](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=130)** You can connect to [[GitHub]] using SSH keys.
 >
-> **[2:13](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=133)** One of the best ways to make credentials more secure is to use multi-factor authentication whenever possible.
+> **[2:13](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=133)** One of the best ways to make credentials more secure is to use [[Multi-factor Authentication]] whenever possible.
 >
 > **[2:18](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=138)** It's also sometimes called two-factor authentication.
 >
@@ -2391,7 +2365,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=146)** Usually the second factor is an object in your possession.
 >
-> **[2:29](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=149)** A hardware authentication device, such as a YubiKey, or software that generates authentication codes, such as popular ones made by Google and Microsoft are excellent choices.
+> **[2:29](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=149)** A [[Hardware]] authentication device, such as a YubiKey, or software that generates authentication codes, such as popular ones made by [[Google]] and [[Microsoft]] are excellent choices.
 >
 > **[2:39](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=159)** Many websites implement two-factor authentication by sending an SMS text message.
 >
@@ -2411,7 +2385,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=209)** Because we know that length is a great way to make passwords more secure, you should never limit the length of user passwords.
 >
-> **[3:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=215)** Hashing algorithms do not care if a password is long.
+> **[3:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=215)** Hashing [[Algorithms]] do not care if a password is long.
 >
 > **[3:38](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/strong-passwords?u=76281980&t=218)** Use login throttling to slow down the rate of attempts to your login page.
 >
@@ -2432,8 +2406,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Warnings:** common mistake (1)
 
-#### URL manipulation and Insecure Direct Object Reference (IDOR)
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/url-manipulation-and-insecure-direct-object-reference-idor?u=76281980)
+#### [URL manipulation and Insecure Direct Object Reference (IDOR)](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/url-manipulation-and-insecure-direct-object-reference-idor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2461,7 +2434,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/url-manipulation-and-insecure-direct-object-reference-idor?u=76281980&t=61)** Software on a web server sometimes includes built-in webpages with special information for administration.
 >
-> **[1:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/url-manipulation-and-insecure-direct-object-reference-idor?u=76281980&t=66)** For example, "/wp-admin" is a standard login page for WordPress websites, and its presence indicates that WordPress is being used.
+> **[1:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/url-manipulation-and-insecure-direct-object-reference-idor?u=76281980&t=66)** For example, "/wp-admin" is a standard login page for [[WordPress]] websites, and its presence indicates that WordPress is being used.
 >
 > **[1:13](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/url-manipulation-and-insecure-direct-object-reference-idor?u=76281980&t=73)** One of the most dangerous consequences of URL manipulation is for an attacker to be able to access privileged resources that they shouldn't be able to see or to use.
 >
@@ -2533,7 +2506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), web (2), [[WordPress]] (2), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **Env Vars:** url (13), idor (1)
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **Definitions:** is a  (2)
@@ -2541,12 +2514,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - a (1)
 
-#### SQL injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980)
+#### [SQL injection](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980&t=0)** - SQL Injection is an attack that occurs when untrusted data is used to construct an SQL query.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980&t=0)** - [[SQL]] Injection is an attack that occurs when untrusted data is used to construct an SQL query.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980&t=7)** The data is inserted or injected into the SQL query string.
 >
@@ -2554,11 +2526,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980&t=16)** SQL Injection sometimes called SQLI for short is not the only form of code injection, but it is the most common.
 >
-> **[0:24](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980&t=24)** Most modern web applications rely heavily on databases and by some estimates, 75% of databases use SQL.
+> **[0:24](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980&t=24)** Most modern web applications rely heavily on [[Databases]] and by some estimates, 75% of databases use SQL.
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980&t=32)** The same general principles that we discuss for SQLI can be applied anytime untrusted data is used to construct a query or a value that's used for code.
 >
-> **[0:41](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980&t=41)** OWASP, the Open Web Application Security Project, has ranked code injection as one of the top security threats to web applications for the last 10 years.
+> **[0:41](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980&t=41)** [[OWASP]], the Open [[Web Application Security]] Project, has ranked code injection as one of the top security threats to web applications for the last 10 years.
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/sql-injection?u=76281980&t=50)** The subject is definitely worth our attention.
 >
@@ -2696,7 +2668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (30), data (15), database (8), web (4), application (4)
+> **Frameworks & Libraries:** [[SQL]] (30), [[Databases]] (2), [[OWASP]] (1), [[Web Application Security]] (1)
 > **Env Vars:** sql (30), sqli (6), owasp (1), char (1)
 > **Analogies:** imagine (2), it's like (1), such as (1)
 > **Definitions:** is an  (1), is called (1), means that (1)
@@ -2705,18 +2677,17 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - sql (1)
 
-#### Cross-Site Scripting (XSS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980)
+#### [Cross-Site Scripting (XSS)](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=0)** - A cross-site scripting attack occurs when an attacker injects code, primarily HTML and JavaScript, into your webpages so that other users' browsers will execute it.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=0)** - A cross-site scripting attack occurs when an attacker injects code, primarily [[HTML]] and [[JavaScript]], into your webpages so that other users' browsers will execute it.
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=11)** It gets its name because an attacker sends scripts across your website to someone else's browser.
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=17)** Cross-site scripting becomes possible when webpages use user supplied data in the HTML response without sanitizing the data first.
 >
-> **[0:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=26)** Cross-site scripting, often abbreviated as XSS, is ranked as one of the top 10 security threats and is the most common web application security flaw.
+> **[0:26](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=26)** Cross-site scripting, often abbreviated as XSS, is ranked as one of the top 10 security threats and is the most common [[Web Application Security]] flaw.
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=36)** There are three types of cross-site scripting: reflected, stored, and DOM-based.
 >
@@ -2732,13 +2703,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=64)** Let's look at an example.
 >
-> **[1:05](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=65)** Suppose that a user clicks a link which sends a request for the register.php page and includes a URL parameter for email.
+> **[1:05](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=65)** Suppose that a user clicks a link which sends a request for the register.[[PHP]] page and includes a URL parameter for email.
 >
 > **[1:13](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=73)** The web application gets the value of email from the parameters, drops it into a page template, and then returns the resulting HTML.
 >
 > **[1:21](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=81)** Now, let's imagine that an attacker posts a link somewhere.
 >
-> **[1:25](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=85)** The link could be on a webpage perhaps as a blog comment or on social media, but often it'll be a link sent in a phishing email.
+> **[1:25](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=85)** The link could be on a webpage perhaps as a blog comment or on social media, but often it'll be a link sent in a [[Phishing]] email.
 >
 > **[1:33](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=93)** The link still sends a request to the register.php page, but instead of sending an email address, the attacker adds HTML and JavaScript.
 >
@@ -2774,7 +2745,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=169)** The difference is that they're not immediate and do not originate from links.
 >
-> **[2:53](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=173)** Stored cross-site scripting attacks occur when malicious JavaScript is planted in storage such as in databases, files, cookies, or sessions.
+> **[2:53](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=173)** Stored cross-site scripting attacks occur when malicious JavaScript is planted in storage such as in [[Databases]], files, cookies, or sessions.
 >
 > **[3:02](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=182)** It's like planting a landmine in the application data.
 >
@@ -2786,7 +2757,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=197)** A DOM-based cross-site scripting attack embeds a script into the existing page.
 >
-> **[3:22](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=202)** In HTML, the current page is known as the DOM which is short for document object model.
+> **[3:22](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=202)** In HTML, the current page is known as the DOM which is short for [[Document Object Model (DOM)|document object model]].
 >
 > **[3:27](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=207)** DOM-based attacks are a result of the trend towards having webpages that handle a lot of user interaction on the client side using JavaScript.
 >
@@ -2850,13 +2821,13 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=350)** You can learn more about content security policies at [content-security-policy.com](https://content-security-policy.com).
 >
-> **[5:57](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=357)** Google has a tool which examines the CSP of websites and makes recommendations for improvements.
+> **[5:57](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=357)** [[Google]] has a tool which examines the CSP of websites and makes recommendations for improvements.
 >
 > **[6:02](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-scripting-xss?u=76281980&t=362)** The combined defenses of validating input, sanitizing output, using HTTPOnly cookies, and setting a content security policy will be good protection against cross-site scripting attacks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (19), data (13), [[HTML]] (12), [[Scripting]] (9), [[Security]] (6)
+> **Frameworks & Libraries:** [[JavaScript]] (19), [[HTML]] (12), [[PHP]] (2), [[Web Application Security]] (1), [[Phishing]] (1)
 > **Env Vars:** html (12), dom (6), url (4), xss (3), csp (3)
 > **Analogies:** imagine (2), such as (2), it's like (1), similar to (1), picture (1)
 > **CLI Commands:** php (2), make (1)
@@ -2865,8 +2836,7 @@ created: 2026-05-02
 > **URLs:** [analytics.com](https://analytics.com) (1), [content-security-policy.com](https://content-security-policy.com) (1)
 > **Exercise Files:** template (2)
 
-#### Cross-Site Request Forgery (CSRF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-forgery-csrf?u=76281980)
+#### [Cross-Site Request Forgery (CSRF)](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-forgery-csrf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2884,7 +2854,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-forgery-csrf?u=76281980&t=36)** A CSRF does not depend on the user clicking a link.
 >
-> **[0:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-forgery-csrf?u=76281980&t=40)** Instead, the attacker places the URL into the HTML of a page, most often is the source attribute of an image tag.
+> **[0:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-forgery-csrf?u=76281980&t=40)** Instead, the attacker places the URL into the [[HTML]] of a page, most often is the source attribute of an image tag.
 >
 > **[0:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-forgery-csrf?u=76281980&t=48)** When the page loads, the browser automatically sends a request for each of the images that are in the HTML.
 >
@@ -2938,7 +2908,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-forgery-csrf?u=76281980&t=177)** In fact, there's no submit button on this form.
 >
-> **[2:59](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-forgery-csrf?u=76281980&t=179)** The form uses CSS to hide, and then JavaScript in the body tag submits the form when the page loads.
+> **[2:59](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-forgery-csrf?u=76281980&t=179)** The form uses CSS to hide, and then [[JavaScript]] in the body tag submits the form when the page loads.
 >
 > **[3:06](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-forgery-csrf?u=76281980&t=186)** Unlike the image examples, submitting a form would normally be visible to the user.
 >
@@ -2966,7 +2936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), web (1), data (1), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (1)
 > **Env Vars:** url (6), csrf (5), html (3), css (1)
 > **Analogies:** imagine (3), picture (1), for example (1)
 > **CLI Commands:** make (2)
@@ -2974,8 +2944,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
-#### Cross-Site Request protections
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980)
+#### [Cross-Site Request protections](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2989,13 +2958,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=21)** An image source tag will always send a GET request.
 >
-> **[0:25](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=25)** The HTML is expecting to read an image, not to make a change.
+> **[0:25](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=25)** The [[HTML]] is expecting to read an image, not to make a change.
 >
 > **[0:28](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=28)** If the bank required transfers to use POST requests, then this URL would be rejected for being the wrong request type.
 >
 > **[0:35](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=35)** Now, this does not prevent all CSRF attacks, but it prevents those that are easiest to craft.
 >
-> **[0:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=40)** The strongest defense against CSRF attacks is to use CSRF tokens.
+> **[0:40](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=40)** The strongest defense against CSRF attacks is to use CSRF [[Tokens]].
 >
 > **[0:46](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=46)** Here's how it works.
 >
@@ -3031,7 +3000,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=111)** If a website is vulnerable to the cross site scripting attacks, then an attacker has a path around our defense.
 >
-> **[1:58](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=118)** An attacker might be able to access value stored in the session or to read the token, or an attacker might use Ajax to submit a request that returns a token and then immediately paste that token into their forged request.
+> **[1:58](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=118)** An attacker might be able to access value stored in the session or to read the token, or an attacker might use [[AJAX]] to submit a request that returns a token and then immediately paste that token into their forged request.
 >
 > **[2:10](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=130)** Your CSRF defenses rely on having good XSS defenses in place.
 >
@@ -3043,7 +3012,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=153)** But if the referrer is missing or is wrong, then it indicates a forgery.
 >
-> **[2:37](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=157)** For forms that use Ajax, you can set a custom header in the XMLHttpRequest and then validate that the header's present.
+> **[2:37](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=157)** For [[Forms]] that use Ajax, you can set a custom header in the XMLHttpRequest and then validate that the header's present.
 >
 > **[2:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cross-site-request-protections?u=76281980&t=164)** Browser support is still growing.
 >
@@ -3069,7 +3038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Tokens]] (3), [[HTML]] (2), [[AJAX]] (2), [[Forms]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[HTML]] (2), [[AJAX]] (2), [[Forms]] (2)
 > **Env Vars:** csrf (11), post (4), html (2), url (1), xss (1)
 > **API Endpoints:** get  (4), post  (4)
 > **CLI Commands:** make (4)
@@ -3077,8 +3046,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Cookie visibility and theft
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980)
+#### [Cookie visibility and theft](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3100,11 +3068,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=41)** Cross-site scripting attacks can also be used to get cookie data.
 >
-> **[0:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=44)** Here's an example in PHP.
+> **[0:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=44)** Here's an example in [[PHP]].
 >
 > **[0:46](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=46)** I've split the URL up to make it easier to read.
 >
-> **[0:49](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=49)** It uses JavaScript to get the cookie data, and then it pings a URL that the hacker owns with the cookie data in the query.
+> **[0:49](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=49)** It uses [[JavaScript]] to get the cookie data, and then it pings a URL that the hacker owns with the cookie data in the query.
 >
 > **[0:56](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=56)** Once an attacker can view a cookie, they can steal it.
 >
@@ -3144,7 +3112,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=156)** This will encrypt all the communication between your web server and a user's browser, and it prevents anyone from observing cookie data while it's in transit.
 >
-> **[2:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=164)** I have another course here on LinkedIn learning called SSL Certificates for Web Developers, which walks you through it.
+> **[2:44](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=164)** I have another course here on [[LinkedIn]] learning called SSL Certificates for Web Developers, which walks you through it.
 >
 > **[2:50](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/cookie-visibility-and-theft?u=76281980&t=170)** Once you're using SSL, then you should also use secure cookies.
 >
@@ -3188,7 +3156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), web (4), [[Scripting]] (2), [[JavaScript]] (2), traffic (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[PHP]] (1), [[LinkedIn]] (1)
 > **Env Vars:** url (3), ssl (3), https (3), http (2), php (1)
 > **CLI Commands:** php (1), make (1)
 > **Analogies:** such as (1), for example (1)
@@ -3197,8 +3165,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - browser (1)
 
-#### Session hijacking
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-hijacking?u=76281980)
+#### [Session hijacking](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-hijacking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3248,7 +3215,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-hijacking?u=76281980&t=99)** They can change the account email or password to lock out the real user.
 >
-> **[1:43](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-hijacking?u=76281980&t=103)** They can send messages to friends or coworkers using their assumed identity, which could be part of a phishing attack.
+> **[1:43](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-hijacking?u=76281980&t=103)** They can send messages to friends or coworkers using their assumed identity, which could be part of a [[Phishing]] attack.
 >
 > **[1:49](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-hijacking?u=76281980&t=109)** To get the session ID, an attacker can either read it from the browser's cookie file, for example, using a cross-site scripting attack, or they can view the data in transit.
 >
@@ -3318,7 +3285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), web application (3), [[Scripting]] (2), database (1), web (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** https (5), ssl (1)
 > **Best Practices:** don't forget (1), best practice (1), recommended (1)
@@ -3327,8 +3294,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Prerequisites:** set up (1)
 
-#### Session fixation
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980)
+#### [Session fixation](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3358,7 +3324,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980&t=61)** Fortunately, it's become uncommon to maintain session IDs in URL strings, in large part because of the threat of session fixation.
 >
-> **[1:08](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980&t=68)** For example, in 2002, PHP changed the default configuration to turn off this ability.
+> **[1:08](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980&t=68)** For example, in 2002, [[PHP]] changed the default configuration to turn off this ability.
 >
 > **[1:14](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/session-fixation?u=76281980&t=74)** However, session fixation remains a threat.
 >
@@ -3412,7 +3378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[PHP]] (2), [[Scripting]] (2), web (2), application (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **Env Vars:** url (2), php (2), post (1), https (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **CLI Commands:** php (2)
@@ -3420,8 +3386,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - session (1)
 
-#### Remote system execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/remote-system-execution?u=76281980)
+#### [Remote system execution](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/remote-system-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3479,7 +3444,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (3), web (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rce (1)
 > **Documentation:** the documentation (1)
@@ -3488,8 +3452,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - there (1)
 
-#### File upload abuse
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/file-upload-abuse?u=76281980)
+#### [File upload abuse](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/file-upload-abuse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3551,7 +3514,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/file-upload-abuse?u=76281980&t=134)** The file size can also be validated to ensure that it's less than a maximum size.
 >
-> **[2:19](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/file-upload-abuse?u=76281980&t=139)** Many web servers and languages have configurations for the maximum file size that's allowed.
+> **[2:19](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/file-upload-abuse?u=76281980&t=139)** Many [[Web Servers]] and languages have configurations for the maximum file size that's allowed.
 >
 > **[2:24](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/file-upload-abuse?u=76281980&t=144)** Using large hard drives or cloud servers for storage can help to ensure that there's always adequate drive space available, or email or text warnings could notify administrators whenever disk space is running low.
 >
@@ -3563,15 +3526,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), web application (2), application (1), cloud (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - file (1)
 
-#### Denial of service
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980)
+#### [Denial of service](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3581,7 +3543,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=14)** The underlying service may remain unaffected, but it's no longer available.
 >
-> **[0:19](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=19)** Remember, data security has three goals, confidentiality, integrity, and availability.
+> **[0:19](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=19)** Remember, [[Data Security]] has three goals, confidentiality, integrity, and availability.
 >
 > **[0:25](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=25)** Denial of service is an attack on data availability.
 >
@@ -3593,7 +3555,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=39)** It could be using up a limited number of connections to a database, or it could be sending so many data packets to a router that legitimate traffic slows to a crawl.
 >
-> **[0:47](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=47)** Crashing is when software or hardware crashes and just stops operating.
+> **[0:47](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=47)** Crashing is when software or [[Hardware]] crashes and just stops operating.
 >
 > **[0:52](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=52)** For example, an attacker could use a vulnerability to crash the web server's software or to crash the operating system of the server that it runs on.
 >
@@ -3641,7 +3603,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=176)** They have the hardware and the expertise to handle millions of requests per second.
 >
-> **[3:01](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=181)** Cloudflare, Microsoft Azure, AWS Shield, and Akamai are some of the largest providers.
+> **[3:01](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=181)** Cloudflare, [[Microsoft Azure]], AWS Shield, and Akamai are some of the largest providers.
 >
 > **[3:07](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/denial-of-service?u=76281980&t=187)** Project Shield offers free DDOS mitigation to websites that have media, elections, political, and human rights content.
 >
@@ -3685,7 +3647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (13), data (5), [[Hardware]] (4), web (3), hit (2)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Data Security]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** ddos (7), isp (2), aws (1), ram (1)
 > **Definitions:** is a  (3), is an  (2), known as (1)
 > **Analogies:** such as (2), for example (1)
@@ -3697,8 +3659,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3720,7 +3681,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=43)** Make automatic backups, as well as backups to an offline hard drive.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=48)** Remember, one of the goals of data security is to maintain data availability, hard drive failure, hosting companies being unavailable, and ransomware, where files are encrypted and unavailable until a ransom is paid, are real threats.
+> **[0:48](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=48)** Remember, one of the goals of [[Data Security]] is to maintain data availability, hard drive failure, hosting companies being unavailable, and ransomware, where files are encrypted and unavailable until a ransom is paid, are real threats.
 >
 > **[1:02](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=62)** Backups make systems resilient to data loss.
 >
@@ -3728,9 +3689,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=68)** Domains can be stolen or hijacked.
 >
-> **[1:10](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=70)** Use multi-factor authentication for your domain registrar, and wherever your DNS configuration is hosted.
+> **[1:10](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=70)** Use [[Multi-factor Authentication]] for your domain registrar, and wherever your DNS configuration is hosted.
 >
-> **[1:16](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=76)** Use DNSSEC, short for domain name system security extensions, whenever possible.
+> **[1:16](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=76)** Use DNSSEC, short for [[Domain Name System (DNS)|domain name system]] security extensions, whenever possible.
 >
 > **[1:22](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=82)** DNSSEC is designed to protect applications from fake or manipulated DNS data.
 >
@@ -3740,7 +3701,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=96)** The general security principles still apply.
 >
-> **[1:38](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=98)** We should also consider whether you need antivirus software, a firewall, and intrusion detection and prevention systems.
+> **[1:38](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=98)** We should also consider whether you need antivirus software, a firewall, and [[Intrusion Detection]] and prevention systems.
 >
 > **[1:45](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980&t=105)** Small personal websites may not need these for their threat model, but a large corporate website likely will.
 >
@@ -3758,7 +3719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), data (6), dns (2), web (1), database (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Multi-factor Authentication]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** dns (2), dnssec (2)
 > **CLI Commands:** make (2)
 > **Definitions:** short for (1), is a  (1)

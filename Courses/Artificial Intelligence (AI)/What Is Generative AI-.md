@@ -108,12 +108,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI is a tool in service of humanity
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980)
+#### [Generative AI is a tool in service of humanity](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980&t=0)** - Generative AI is changing how we create.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980&t=0)** - [[Generative AI]] is changing how we create.
 >
 > **[0:03](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980&t=3)** (light music) For the first time, humans are supervising and machines are generating.
 >
@@ -123,18 +122,17 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980&t=34)** I am Pinar Seyhan Demirdag and I'm the co-founder and the AI director of Seyhan Lee.
 >
-> **[0:40](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980&t=40)** During this LinkedIn Learning course, we will talk about how to use that tool to drive the creation of your intention.
+> **[0:40](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980&t=40)** During this [[LinkedIn]] Learning course, we will talk about how to use that tool to drive the creation of your intention.
 >
 > **[0:50](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980&t=50)** Join me as we dive deep into this new creative revolution that I'm so excited about and let's discover together how each of us can have a place in this age of advanced technologies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), ai (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[LinkedIn]] (1)
 > **Speakers:** - generative (1)
 > **Non-Speech:** (light music) (1)
 
-#### What's new?
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980)
+#### [What's new?](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,9 +140,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980&t=2)** Great to see you all.
 >
-> **[0:03](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980&t=3)** I am back because we're updating our course to bring you the latest and the greatest of generative AI.
+> **[0:03](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980&t=3)** I am back because we're updating our course to bring you the latest and the greatest of [[Generative AI]].
 >
-> **[0:11](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980&t=11)** My first LinkedIn course, this one, What is Generative AI was published back in March, 2023.
+> **[0:11](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980&t=11)** My first [[LinkedIn]] course, this one, What is Generative AI was published back in March, 2023.
 >
 > **[0:19](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980&t=19)** It was watched by millions and translated to six different languages.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980&t=62)** First one, generative AI left the initial hype and demo tool status and started entering professional workflows for meaningful adoption.
 >
-> **[1:12](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980&t=72)** The second, thanks to the rise in computation and cloud integration solutions, generative AI tools became universally adopted.
+> **[1:12](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980&t=72)** The second, thanks to the rise in computation and cloud integration solutions, [[Generative AI Tools]] became universally adopted.
 >
 > **[1:22](https://www.linkedin.com/learning/what-is-generative-ai/what-s-new?u=76281980&t=82)** And as third, as humans the more we understood that generative AI is simply a tool in the service of us humans, the more we left the initial fear and skepticism reaction and started exercising conscious contemplations.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), [[LinkedIn]] (1), ai (1), cloud (1), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[LinkedIn]] (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - hello (1)
@@ -182,12 +180,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980)
+#### [The importance of generative AI](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=0)** - The advent of generative AI can be likened to the invention of photography and celluloid film, a true creative revolution.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=0)** - The advent of [[Generative AI]] can be likened to the invention of photography and celluloid film, a true creative revolution.
 >
 > **[0:09](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=9)** With photography, we no longer needed to rely on the interpretation of an artist to capture reality, and with generative AI, we no longer need artistic talent to draw or to sing.
 >
@@ -195,9 +192,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=27)** We can also automatically generate text such as news articles or product descriptions.
 >
-> **[0:32](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=32)** We can even design custom products like shoes or furniture.
+> **[0:32](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=32)** We can even design custom [[Microsoft Products|products]] like shoes or furniture.
 >
-> **[0:36](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=36)** We can produce music, speech, visual effects, 3D assets and sound effects using algorithms trained on already existing data.
+> **[0:36](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=36)** We can produce music, speech, visual effects, 3D assets and sound effects using [[Algorithms]] trained on already existing data.
 >
 > **[0:46](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=46)** I know you're like, it all sounds magic, doesn't it?
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=72)** By training on large data sets, we can reduce the burden of repetitive tasks and complex computations, enabling us to focus on more creative and more strategic activities which is the very essence of what work is really about.
 >
-> **[1:30](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=90)** The development of generative AI has a very rich and very fascinating history marked by significant breakthroughs, even though it gained widespread attention in 2022, its evolution was built on decades of mathematical research, starting with auto encoder neural networks in 2006 and continuing on through the mass adoption of generative AI models like DALL E, ChatGPT by Open ai, Kubrick, Journey and others today.
+> **[1:30](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=90)** The development of generative AI has a very rich and very fascinating history marked by significant breakthroughs, even though it gained widespread attention in 2022, its evolution was built on decades of mathematical research, starting with auto encoder [[Neural Networks]] in 2006 and continuing on through the mass adoption of generative AI models like DALL E, [[ChatGPT]] by Open ai, Kubrick, Journey and others today.
 >
 > **[2:03](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=123)** Not only have the providers and services expanded but the quality of what is being produced has improved drastically as well.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=143)** While the pictures in 2014 are black and white and extremely pixelated.
 >
-> **[2:30](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=150)** In 2022, we would simply type any word on the screen and generate coherent outcomes.
+> **[2:30](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=150)** In 2022, we would simply type any [[Microsoft Word|word]] on the screen and generate coherent outcomes.
 >
 > **[2:36](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980&t=156)** Generative AI is not only changing almost every single profession, but it is also changing our understanding of what work is.
 >
@@ -229,23 +226,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), data (3), [[Algorithms]] (2), ai (2), product (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Algorithms]] (2), [[Microsoft Products|Products]] (1), [[Neural Networks]] (1), [[ChatGPT]] (1)
 > **Env Vars:** dall (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### How generative AI is different than other types of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980)
+#### [How generative AI is different than other types of AI](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=0)** - Generative AI is a type of AI that, as this name suggests, generates new content.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=0)** - [[Generative AI]] is a type of AI that, as this name suggests, generates new content.
 >
 > **[0:07](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=7)** This is in contrast to other types of AI, like discriminative AI, which focuses on classifying or identifying content that is based on preexisting data.
 >
 > **[0:19](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=19)** Generative AI is often used in applications such as image generation, video synthesis, language generation, and music composition, but to really understand this new tool, we need to know first where it fits in the broader AI landscape.
 >
-> **[0:37](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=37)** The term AI, which is artificial intelligence, is an umbrella term that encompasses several different subcategories, including generative AI.
+> **[0:37](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=37)** The term AI, which is [[Artificial Intelligence (AI)|artificial intelligence]], is an umbrella term that encompasses several different subcategories, including generative AI.
 >
 > **[0:49](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=49)** These subcategories are used to perform different tasks.
 >
@@ -255,11 +251,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=62)** Theory of mind powers virtual customer assistance.
 >
-> **[1:07](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=67)** Narrow AI generates customized product suggestions for E-commerce sites.
+> **[1:07](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=67)** Narrow AI generates customized product suggestions for [[E-Commerce]] sites.
 >
-> **[1:13](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=73)** Supervised learning identifies objects from things like images and video.
+> **[1:13](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=73)** [[Supervised Learning]] identifies objects from things like images and video.
 >
-> **[1:19](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=79)** Unsupervised learning can detect fraudulent bank transactions, and reinforcement learning can teach a machine how to play a game.
+> **[1:19](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=79)** Unsupervised learning can detect fraudulent bank transactions, and [[Reinforcement Learning]] can teach a machine how to play a game.
 >
 > **[1:29](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-is-different-than-other-types-of-ai?u=76281980&t=89)** These are only a few of the subcategories, and generative AI models fall into a lot of these categories, and honestly, it's only growing.
 >
@@ -273,21 +269,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Generative AI]] (7), product (2), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[E-Commerce]] (1), [[Supervised Learning]] (1), [[Reinforcement Learning]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - generative (1)
 
-#### How generative AI works
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980)
+#### [How generative AI works](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=0)** - To understand how generative AI works, we first have to understand how it comes to life.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=0)** - To understand how [[Generative AI]] works, we first have to understand how it comes to life.
 >
 > **[0:06](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=6)** I know how you're feeling.
 >
-> **[0:07](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=7)** You're looking at the news, and ChatGPT, and Midjourney, all this generative, what is generative, what is AI?
+> **[0:07](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=7)** You're looking at the news, and [[ChatGPT]], and [[Midjourney]], all this generative, what is generative, what is AI?
 >
 > **[0:13](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=13)** It's so complicated.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=24)** Imagine you and me were having dinner and you asked me to pass you the salt.
 >
-> **[0:30](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=30)** I look at the table and I can make a discernment between a salt shaker and the rest of the objects on the table.
+> **[0:30](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=30)** I look at the table and I can make a discernment between a salt shaker and the [[Representational State Transfer (REST)|rest]] of the objects on the table.
 >
 > **[0:38](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=38)** Why?
 >
@@ -313,11 +308,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=67)** Just like a Porsche has a different engine than a Mazda, under the umbrella term of generative AI, there are a variety of different generative AI models.
 >
-> **[1:18](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=78)** These AI models, or car engines, are written and manufactured by groups of highly advanced computer vision specialists, machine learning experts, and mathematicians.
+> **[1:18](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=78)** These AI models, or car engines, are written and manufactured by groups of highly advanced [[Computer Vision]] specialists, machine learning experts, and mathematicians.
 >
 > **[1:30](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=90)** They're built on years of open source machine learning research and generally funded by companies and universities.
 >
-> **[1:37](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=97)** Some of the big players in writing these generative AI models, engines, are Open AI, NVIDIA, Google, Meta, and universities like UC Berkeley and LMU Munich.
+> **[1:37](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=97)** Some of the big players in writing these generative AI models, engines, are Open AI, NVIDIA, [[Google]], Meta, and universities like UC Berkeley and LMU Munich.
 >
 > **[1:50](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=110)** They can either keep these models private, or they can make them public, what we call this, open source, for those to benefit from their research.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=186)** I mean, they can be if they want.
 >
-> **[3:08](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=188)** This person goes to a car engine showroom, where they pick a pre-made car engine or a generative AI model from a repository like GitHub and Hugging Face.
+> **[3:08](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=188)** This person goes to a car engine showroom, where they pick a pre-made car engine or a generative AI model from a repository like [[GitHub]] and [[Hugging Face]].
 >
 > **[3:22](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=202)** After that, they go to a chassis manufacturer to pick their empty shell for their new engine, their precious new engine.
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=244)** She will have way less control over the outcome of her car, but she will be able to drive, just like the business leader and the creative technologist.
 >
-> **[4:14](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=254)** People with no technical knowledge can simply subscribe to an online service like OpenAI's ChatGPT or DALL-E, or download Discord and play with Midjourney, or download Lensa AI and Avatar Maker in their smartphone to play with the magic of generative AI.
+> **[4:14](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=254)** People with no technical knowledge can simply subscribe to an online service like OpenAI's ChatGPT or [[DALL-E]], or download Discord and play with Midjourney, or download Lensa AI and Avatar Maker in their smartphone to play with the magic of generative AI.
 >
 > **[4:32](https://www.linkedin.com/learning/what-is-generative-ai/how-generative-ai-works?u=76281980&t=272)** Well, this all depends what you want to do and what you want to build, and how much technical expertise you already have.
 >
@@ -369,7 +364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (13), ai (9), business (3), [[ChatGPT]] (2), [[Midjourney]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (13), [[ChatGPT]] (2), [[Midjourney]] (2), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** just like (2), imagine (1), picture (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** nvidia (1), lmu (1), dall (1)
@@ -378,14 +373,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - to (1)
 
-#### Creating your own content
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980)
+#### [Creating your own content](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=0)** - So now that we have our generative AI model and our chassis, we are ready to create our own content.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=0)** - So now that we have our [[Generative AI]] model and our chassis, we are ready to create our own content.
 >
-> **[0:08](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=8)** If we're a beginner, we can use a paid service like Midjourney or Lensa.
+> **[0:08](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=8)** If we're a beginner, we can use a paid service like [[Midjourney]] or Lensa.
 >
 > **[0:13](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=13)** If we are more experienced, we can use a notebook and pick from available models.
 >
@@ -393,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=28)** It's super fun.
 >
-> **[0:30](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=30)** If you are a more experienced generative AI user, a creative technologist, you can go to GitHub, choose your favorite generative AI model, and see if it is available in the form of a notebook.
+> **[0:30](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=30)** If you are a more experienced generative AI user, a creative technologist, you can go to [[GitHub]], choose your favorite generative AI model, and see if it is available in the form of a notebook.
 >
 > **[0:42](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=42)** If it's not available, you can still inquire about it inside the generative AI community.
 >
@@ -401,7 +395,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=48)** And if you are a programmer, you can also create your own notebook by taking the model code from GitHub.
 >
-> **[0:54](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=54)** For a demonstration, we will be running a Google Colab notebook named Deforum, that is based on stable diffusion, to generate a fantasy landscape.
+> **[0:54](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=54)** For a demonstration, we will be running a [[Google]] Colab notebook named Deforum, that is based on [[Stable Diffusion]], to generate a fantasy landscape.
 >
 > **[1:04](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=64)** As you can see here, the notebook runs through the code, and depending on your settings, produces a personalized outcome.
 >
@@ -413,7 +407,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=87)** You can always choose the default generation, but the beauty of working with a notebook is that you can tweak and personalize the outcomes.
 >
-> **[1:36](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=96)** In summary, a model is a set of algorithms that have been trained on a specific dataset.
+> **[1:36](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=96)** In summary, a model is a set of [[Algorithms]] that have been trained on a specific dataset.
 >
 > **[1:44](https://www.linkedin.com/learning/what-is-generative-ai/creating-your-own-content?u=76281980&t=104)** A notebook is a tool for writing and running the code.
 >
@@ -432,12 +426,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The most famous tools for generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/the-most-famous-tools-for-generative-ai?u=76281980)
+#### [The most famous tools for generative AI](https://www.linkedin.com/learning/what-is-generative-ai/the-most-famous-tools-for-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/the-most-famous-tools-for-generative-ai?u=76281980&t=0)** - During this part of the course, we will be getting more familiar with some of the most well-known types of generative AI models, and some of the applications they cover.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/the-most-famous-tools-for-generative-ai?u=76281980&t=0)** - During this part of the course, we will be getting more familiar with some of the most well-known types of [[Generative AI]] models, and some of the applications they cover.
 >
 > **[0:11](https://www.linkedin.com/learning/what-is-generative-ai/the-most-famous-tools-for-generative-ai?u=76281980&t=11)** Think of generative AI models, let's use the metaphor, food.
 >
@@ -461,12 +454,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - during (1)
 
-#### Natural language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980)
+#### [Natural language models](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=0)** - Natural language generation is perhaps the most well-known application of generative AI so far with ChatGPT in the headlines.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=0)** - Natural language generation is perhaps the most well-known application of [[Generative AI]] so far with [[ChatGPT]] in the headlines.
 >
 > **[0:09](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=9)** Most of the hype around text-based generative AI is using a model called GPT.
 >
@@ -478,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=35)** This concept has been around for decades and has been used in several other models before GPT.
 >
-> **[0:41](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=41)** However, GPT has become notable for its large scale use of transformer architecture and its ability to generate human-like texts, which had led to its widespread use and popularity in the field of natural language processing.
+> **[0:41](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=41)** However, GPT has become notable for its large scale use of transformer architecture and its ability to generate human-like texts, which had led to its widespread use and popularity in the field of [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:59](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=59)** Imagine you have a writing assistant that can help you write emails, articles, even a novel.
 >
@@ -488,15 +480,15 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=79)** Here are a few industry applications.
 >
-> **[1:22](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=82)** Let's start with GitHub.
+> **[1:22](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=82)** Let's start with [[GitHub]].
 >
-> **[1:23](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=83)** GitHub Copilot is a generative AI service provided by GitHub to its users.
+> **[1:23](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=83)** [[GitHub Copilot]] is a generative AI service provided by GitHub to its users.
 >
 > **[1:29](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=89)** The service uses the OpenAI codex to suggest the code and entire functions in real time, right from the code editor.
 >
 > **[1:38](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=98)** It allows the users to search less for outside solutions and it also helps them type less with smarter code completion.
 >
-> **[1:47](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=107)** Another example would be Microsoft's Bing, which implemented ChatGPT into its search functionality, enabling it to reach concise information in a shorter amount of time.
+> **[1:47](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=107)** Another example would be [[Microsoft]]'s Bing, which implemented ChatGPT into its search functionality, enabling it to reach concise information in a shorter amount of time.
 >
 > **[2:00](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=120)** Since OpenAI made ChatGPT available to the public on November 30th in 2022, it reached 1 million user in less than a week, I said in less than a week.
 >
@@ -516,7 +508,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=177)** Also, bias data sets and the danger of normalization of mediocrity when we come up with creative writing.
 >
-> **[3:05](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=185)** Natural language models synthetically mimic human capabilities, but, clearly, conscious contemplations are required before developing generative AI tools.
+> **[3:05](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=185)** Natural language models synthetically mimic human capabilities, but, clearly, conscious contemplations are required before developing [[Generative AI Tools]].
 >
 > **[3:17](https://www.linkedin.com/learning/what-is-generative-ai/natural-language-models?u=76281980&t=197)** ChatGPT is a wonderful tool for factual and computable information.
 >
@@ -524,7 +516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Generative AI]] (4), prompt (2), [[GitHub]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Generative AI]] (4), [[GitHub]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[GitHub Copilot]] (1)
 > **Env Vars:** gpt (6)
 > **Tools:** github (3)
 > **Definitions:** is a  (2), stands for (1)
@@ -532,8 +524,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - natural (1)
 
-#### Text to image applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980)
+#### [Text to image applications](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,19 +532,19 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=6)** The technology behind these services is broadly referred as text to image.
 >
-> **[0:12](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=12)** You simply type words on a screen and watch the algorithms create an image based on your queue, even if you description is not very specific.
+> **[0:12](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=12)** You simply type words on a screen and watch the [[Algorithms]] create an image based on your queue, even if you description is not very specific.
 >
 > **[0:23](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=23)** There are three main text to image generation services.
 >
-> **[0:27](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=27)** Midjourney, DALL-E, and Stable Diffusion.
+> **[0:27](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=27)** [[Midjourney]], [[DALL-E]], and [[Stable Diffusion]].
 >
 > **[0:31](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=31)** If we were to compare these three text to image tools to operating systems, Midjourney would be macOS because they have a closed API and a very design and art-centric approach to the image generation process.
 >
-> **[0:47](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=47)** DALL-E would be Windows but with an open API because the model is released by a corporation and it initially had the most superior machine-learning algorithm.
+> **[0:47](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=47)** DALL-E would be [[Windows]] but with an open API because the model is released by a corporation and it initially had the most superior machine-learning algorithm.
 >
 > **[0:58](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=58)** Open AI values technical superiority over design and art sensitivities.
 >
-> **[1:04](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=64)** And the third, the Stable Diffusion would be Linux because it is open source and is improving each day with the contribution of the generative AI community.
+> **[1:04](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=64)** And the third, the Stable Diffusion would be [[Linux]] because it is open source and is improving each day with the contribution of the [[Generative AI]] community.
 >
 > **[1:14](https://www.linkedin.com/learning/what-is-generative-ai/text-to-image-applications?u=76281980&t=74)** The quality of the generated images from text to image models can depend both on the quality of the algorithm and the datasets they use to train it.
 >
@@ -591,19 +582,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (4), [[Generative AI]] (4), [[Midjourney]] (3), [[Stable Diffusion]] (3), api (2)
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[Generative AI]] (4), [[Midjourney]] (3), [[Stable Diffusion]] (3), [[Algorithms]] (1)
 > **Env Vars:** dall (4), api (2)
 > **Analogies:** picture (1), just like (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** macos (1)
 > **Speakers:** - in (1)
 
-#### Generative Adversarial Networks (GANs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980)
+#### [Generative Adversarial Networks (GANs)](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=0)** - Another renowned generative AI model is generative adversarial networks, also referred as simply GANs.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=0)** - Another renowned [[Generative AI]] model is [[Generative Adversarial Networks (GANs)|generative adversarial networks]], also referred as simply GANs.
 >
 > **[0:09](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=9)** To illustrate how GANs work, let's give a game of forgery as a metaphor.
 >
@@ -623,7 +613,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=74)** In this way, they improve the generator's ability to create realistic data, and over time, the generator becomes better and better at creating realistic data.
 >
-> **[1:25](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=85)** And the results start yielding in the creation of products, assets, faces, people, that didn't exist before, just like we have seen with text-to-image that we have seen in the former session.
+> **[1:25](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=85)** And the results start yielding in the creation of [[Microsoft Products|products]], assets, faces, people, that didn't exist before, just like we have seen with text-to-image that we have seen in the former session.
 >
 > **[1:37](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=97)** The difference though is that with GANs, you input one type of data, like pictures or bank transitions, and then you output the same type of data.
 >
@@ -639,7 +629,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=137)** AI was simply a tool that the wheel designers used to inspire themselves for the final designs that they would make.
 >
-> **[2:26](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=146)** Next, Beko, that is a European-based appliance brand, they use custom trained GANs in their sustainability stand film, which also happens to be the world's first brand-funded AI film created and produced by Seyhan Lee.
+> **[2:26](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=146)** Next, Beko, that is a European-based appliance brand, they use custom trained GANs in their [[Sustainability]] stand film, which also happens to be the world's first brand-funded AI film created and produced by Seyhan Lee.
 >
 > **[2:41](https://www.linkedin.com/learning/what-is-generative-ai/generative-adversarial-networks-gans?u=76281980&t=161)** We use GANs to generate lightning, leaves, roots, eyes, flowers, and created seamless transitions to flow between humans and nature.
 >
@@ -655,19 +645,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (4), [[Generative AI]] (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), game (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), [[Microsoft Products|Products]] (1), [[Sustainability]] (1)
 > **Env Vars:** gan (3)
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - another (1)
 
-#### VAE and Anomaly Detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980)
+#### [VAE and Anomaly Detection](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980&t=0)** - Let's now move to talking about an application of generative AI that may not be as obvious as it's used in generating images, like we have seen earlier, audio or text.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980&t=0)** - Let's now move to talking about an application of [[Generative AI]] that may not be as obvious as it's used in generating images, like we have seen earlier, audio or text.
 >
 > **[0:11](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980&t=11)** But it's still very important application nonetheless, and it is going to be the anomaly detection.
 >
@@ -679,9 +668,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980&t=53)** For example, Uber has used VAE for anomaly detection in their financial transactions to detect fraud.
 >
-> **[1:00](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980&t=60)** Another example would be Google has also used VAE to detect network intrusions using anomaly detection and another one of a real world application of VAE would be anomaly detection in industrial quality control.
+> **[1:00](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980&t=60)** Another example would be [[Google]] has also used VAE to detect network intrusions using anomaly detection and another one of a real world application of VAE would be anomaly detection in industrial quality control.
 >
-> **[1:15](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980&t=75)** In this scenario, a VAE can be trained on a dataset of images of normal products and then used to identify images of products that deviate from the normal data.
+> **[1:15](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980&t=75)** In this scenario, a VAE can be trained on a dataset of images of normal [[Microsoft Products|products]] and then used to identify images of products that deviate from the normal data.
 >
 > **[1:27](https://www.linkedin.com/learning/what-is-generative-ai/vae-and-anomaly-detection?u=76281980&t=87)** In this way, it can be used to detect defects in products such as scratches, dents, or misalignments.
 >
@@ -693,7 +682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (3), [[Generative AI]] (3), [[Microsoft Products|Products]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Microsoft Products|Products]] (3), [[Google]] (1)
 > **Env Vars:** vae (6), mri (1)
 > **Analogies:** such as (3), for example (1)
 > **Speakers:** - let (1)
@@ -703,14 +692,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Future predictions
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980)
+#### [Future predictions](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=0)** - The best way to predict the future, as they say, is to invent it so let's talk about the future.
 >
-> **[0:07](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=7)** In two to three years in the gaming, film and marketing sectors generative AI will continue to be used in computer graphics, and animation to create more realistic, and believable characters, and environments.
+> **[0:07](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=7)** In two to three years in the gaming, film and marketing sectors [[Generative AI]] will continue to be used in computer graphics, and animation to create more realistic, and believable characters, and environments.
 >
 > **[0:21](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=21)** This is going to be particularly important in 3D modeling.
 >
@@ -724,11 +712,11 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=75)** My predictions for the next 10 to 15 years would be generative AI will be used to create more and realistic, and accurate simulations in fields such as architecture, urban planning, and engineering.
 >
-> **[1:28](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=88)** The second would be to be used to create new materials and products in fields, such as manufacturing and textile design.
+> **[1:28](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=88)** The second would be to be used to create new materials and [[Microsoft Products|products]] in fields, such as manufacturing and textile design.
 >
-> **[1:36](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=96)** The third will be natural language generation will be improved in the fields of content creation such as news articles, books, and even movie scripts.
+> **[1:36](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=96)** The third will be natural language generation will be improved in the fields of [[Content Creation]] such as news articles, books, and even movie scripts.
 >
-> **[1:45](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=105)** It will also improve self-driving cars by generating realistic virtual scenarios for testing and training, and also it will excel in audio to asset generation where you can speak, and then have the AI generate an asset.
+> **[1:45](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=105)** It will also improve self-driving cars by generating realistic virtual scenarios for testing and training, and also it will [[Microsoft Excel|excel]] in audio to asset generation where you can speak, and then have the AI generate an asset.
 >
 > **[2:02](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980&t=122)** In short, my prediction for the upcoming 10 to 15 years would be generative AI will be used in the creation and production of mass media quality books, films, and games.
 >
@@ -736,16 +724,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), traffic (1), next (1), [[Engineering]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Microsoft Products|Products]] (1), [[Content Creation]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** such as (5)
 > **Speakers:** - the (1)
 
-#### The future of jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980)
+#### [The future of jobs](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=0)** - When starting to work with generative AI, it's imperative that we hold conscious contemplations for the future of jobs.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=0)** - When starting to work with [[Generative AI]], it's imperative that we hold conscious contemplations for the future of jobs.
 >
 > **[0:09](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=9)** As you know, there's a lot of hype at the moment filled with a lot of Hollywood-powered fear that machines are now taking over.
 >
@@ -763,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=44)** Before alarm clocks, there were knocker uppers.
 >
-> **[0:48](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=48)** These were kids who were hired to knock on the windows to wake people up.
+> **[0:48](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=48)** These were kids who were hired to knock on the [[Windows]] to wake people up.
 >
 > **[0:54](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=54)** The job obviously disappeared when new job opportunities for alarm clock manufacturers emerged.
 >
@@ -779,23 +766,23 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=121)** As the co-founder of a generative AI-powered creative company, let me assure you that all our operations are run by humans.
 >
-> **[2:11](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=131)** Our company employs developers, cloud architects, generative AI artists, customer relations, project managers, writers, creative directors, and human producers.
+> **[2:11](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=131)** Our company employs developers, cloud architects, generative AI artists, [[Customer Relations]], project managers, writers, creative directors, and human producers.
 >
 > **[2:23](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=143)** If the Industrial Revolution created jobs that were robotic for humans, the Generative AI Revolution will be our liberation and freedom from them.
 >
 > **[2:34](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=154)** Each person will turn into their own creative studio and the barriers between your vision and its manifestation will disappear.
 >
-> **[2:44](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=164)** Complex films, music, writing, and all forms of creative production tools will be simplified and given to your fingertips.
+> **[2:44](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=164)** Complex films, music, writing, and all [[Forms]] of creative production tools will be simplified and given to your fingertips.
 >
 > **[2:55](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=175)** Humanity will transcend from a society of consumers to creators.
 >
-> **[3:01](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=181)** The ones that excel in the future of job markets will be those that strengthen their unique personal emotional skills that no computer can ever mimic.
+> **[3:01](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=181)** The ones that [[Microsoft Excel|excel]] in the future of job markets will be those that strengthen their unique personal emotional skills that no computer can ever mimic.
 >
 > **[3:13](https://www.linkedin.com/learning/what-is-generative-ai/the-future-of-jobs?u=76281980&t=193)** My advice would be to start investing in expanding your consciousness, start getting to know what makes you unique, and sharpen your interpersonal, emotional, and creative skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), [[Windows]] (1), leadership (1), cloud (1), [[Customer Relations]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Windows]] (1), [[Customer Relations]] (1), [[Forms]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
@@ -804,22 +791,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Moral and executive skill set required to work with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980)
+#### [Moral and executive skill set required to work with GenAI](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=0)** - Any executive or business leader should approach generative AI tools with caution.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=0)** - Any executive or business leader should approach [[Generative AI Tools]] with caution.
 >
 > **[0:07](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=7)** We should at all times self-monitor and self-question if the generated results fits our quality and satisfaction parameters.
 >
-> **[0:17](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=17)** Just because ChatGPT generates headlines, it doesn't mean that what it makes is great.
+> **[0:17](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=17)** Just because [[ChatGPT]] generates headlines, it doesn't mean that what it makes is great.
 >
-> **[0:23](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=23)** Or just because we can generate a landscape with Stable Diffusion, it doesn't mean it's ready for the final pixel of a movie.
+> **[0:23](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=23)** Or just because we can generate a landscape with [[Stable Diffusion]], it doesn't mean it's ready for the final pixel of a movie.
 >
-> **[0:30](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=30)** During this grace period where we learn to co-create with algorithms, it's crucial that we deepen our executive skills.
+> **[0:30](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=30)** During this grace period where we learn to co-create with [[Algorithms]], it's crucial that we deepen our executive skills.
 >
-> **[0:41](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=41)** If we are a founder or an executive in a generative AI company, we shall, at all times, always ask ourselves who is benefiting from our tools?
+> **[0:41](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=41)** If we are a founder or an executive in a [[Generative AI]] company, we shall, at all times, always ask ourselves who is benefiting from our tools?
 >
 > **[0:54](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980&t=54)** Our moral compass should always direct towards transparency, fairness, empathy, and responsibility.
 >
@@ -843,13 +829,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), ai (3), business (1), [[Generative AI Tools]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Generative AI Tools]] (1), [[ChatGPT]] (1), [[Stable Diffusion]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** caution (1)
 > **Speakers:** - any (1)
 
-#### Caution when working with Gen AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980)
+#### [Caution when working with Gen AI](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,17 +846,17 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=17)** If we see machines as superior to humans, we place them on a pedestal, and if we see humans as incapable fragile beings, we again place AI on a pedestal, but this time with the power of an authority.
 >
-> **[0:34](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=34)** We should always emphasize the crucial and essential role of human creativity and decision-making in the process.
+> **[0:34](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=34)** We should always emphasize the crucial and essential role of human creativity and [[Decision-Making]] in the process.
 >
-> **[0:44](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=44)** Nowadays, popular headlines suggest that AI is designing, AI is coding, but let's remember, it's humans who wrote the algorithms for AI, and it's humans who conceptualize, curate, and oversee the algorithms to produce the desired outcomes.
+> **[0:44](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=44)** Nowadays, popular headlines suggest that AI is designing, AI is coding, but let's remember, it's humans who wrote the [[Algorithms]] for AI, and it's humans who conceptualize, curate, and oversee the algorithms to produce the desired outcomes.
 >
-> **[1:01](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=61)** If we place AI and technology at the center of our workflow in storytelling, we risk dehumanizing ourselves and contributing to a future where human jobs may really be eliminated.
+> **[1:01](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=61)** If we place AI and technology at the center of our workflow in [[Storytelling]], we risk dehumanizing ourselves and contributing to a future where human jobs may really be eliminated.
 >
 > **[1:13](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=73)** Instead, we should focus on highlighting the central role that humans play in the creation and the use of AI.
 >
 > **[1:22](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=82)** I know even though sentences such as like, "AI made this art, and, "AI is advancing quickly, AI is so cool," are common in the collective, we should strive to correct ourselves in centering our actions and self-expression around humans.
 >
-> **[1:36](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=96)** It is humans that are making art by using generative AI-powered tools, and it is, again, humans that are working in tandem with each other to advance several different human-benefiting technologies, including generative AI.
+> **[1:36](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=96)** It is humans that are making art by using [[Generative AI]]-powered tools, and it is, again, humans that are working in tandem with each other to advance several different human-benefiting technologies, including generative AI.
 >
 > **[1:52](https://www.linkedin.com/learning/what-is-generative-ai/caution-when-working-with-gen-ai?u=76281980&t=112)** By modeling our tools after ourselves, we are inevitably transferring our own judgments, our own insecurities, and our own limitations onto this technology.
 >
@@ -881,7 +866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Algorithms]] (2), [[Generative AI]] (2), power (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Generative AI]] (2), [[Decision-Making]] (1), [[Storytelling]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
 
@@ -890,16 +875,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Productivity enhancements in large language models (LLMs) through APIs and real-time interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980)
+#### [Productivity enhancements in large language models (LLMs) through APIs and real-time interactions](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=0)** - The usage of Large Language Models, also referred to as LLMs has evolved significantly since it first became mainstream.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=0)** - The usage of [[Large Language Models (LLM)|Large Language Models]], also referred to as LLMs has evolved significantly since it first became mainstream.
 >
-> **[0:10](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=10)** We went from standalone LLMs like ChatGPT, to the dynamic world of LLM APIs and the latest GPT-4o, which enables real-time conversations and solutions through voice and picture commands.
+> **[0:10](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=10)** We went from standalone LLMs like [[ChatGPT]], to the dynamic world of LLM APIs and the latest GPT-4o, which enables [[Real-Time]] conversations and solutions through voice and picture commands.
 >
-> **[0:26](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=26)** OpenAI made the new model of GPT-4 available.
+> **[0:26](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=26)** OpenAI made the new model of [[GPT-4]] available.
 >
 > **[0:30](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=30)** A more versatile model that is also multimodel and is better, much better in handling complex queries.
 >
@@ -907,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=52)** All the other technology companies, of course, jumped right into the gold rush, and started coming out with their own models.
 >
-> **[0:59](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=59)** Google's Deep Mind launched Gemini, X formerly known as Twitter launched Grok, Meta launched Llama, and Nvidia launched Megatron Turing.
+> **[0:59](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=59)** [[Google]]'s Deep Mind launched [[Gemini]], X formerly known as Twitter launched Grok, Meta launched [[LLaMA]], and Nvidia launched Megatron Turing.
 >
 > **[1:11](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=71)** What a great name.
 >
@@ -935,9 +919,9 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=133)** This way, different software applications can communicate and interact with each other without needing to know the complex details of what happens behind the curtains.
 >
-> **[2:24](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=144)** Since GPT made API access available to their main engine, they allow developers to integrate the power of GPT models into their own applications, their own products, their own services, of course, after custom fine tuning GPT to the unique needs of their products.
+> **[2:24](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=144)** Since GPT made API access available to their main engine, they allow developers to integrate the power of GPT models into their own applications, their own [[Microsoft Products|products]], their own services, of course, after custom [[Fine Tuning]] GPT to the unique needs of their products.
 >
-> **[2:41](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=161)** For example, Stripe customer support uses GPT APIs that are fine tuned with the in-depth information about Stripe.
+> **[2:41](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=161)** For example, Stripe [[Customer Support]] uses GPT APIs that are fine tuned with the in-depth information about Stripe.
 >
 > **[2:50](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=170)** Other renowned companies that use GPT, API are Zapier, Jasper, Duolingo, and Shopify.
 >
@@ -963,7 +947,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=275)** That's why this year and in the next years when working with LLMs, we will learn to develop a healthy excitement coupled with caution.
 >
-> **[4:47](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=287)** Actually, my second LinkedIn Learning Course, "Build AI Aptitude in your Organization as a Leader," is exactly about that.
+> **[4:47](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=287)** Actually, my second [[LinkedIn]] Learning Course, "Build AI Aptitude in your Organization as a Leader," is exactly about that.
 >
 > **[4:56](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980&t=296)** It's about developing the skill sets to consciously integrate advanced technologies in our workforce.
 >
@@ -973,7 +957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), ai (6), llm (5), application (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Real-Time]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (10), api (7), llm (5)
 > **Analogies:** picture (1), imagine (1), for example (1), just like (1)
 > **Definitions:** known as (1), is an  (1), short for (1)
@@ -982,8 +966,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
 
-#### From technical demos to professional productions
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980)
+#### [From technical demos to professional productions](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=31)** This transformation highlights how persistence and innovation can turn a revolutionary idea into a mainstream tool.
 >
-> **[0:41](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=41)** Well, it's exactly what's happening with generative AI.
+> **[0:41](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=41)** Well, it's exactly what's happening with [[Generative AI]].
 >
 > **[0:45](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=45)** When generative AI first entered the mainstream, its early versions required technical know-how and were slightly annoying to use, just like in the early days of digital cameras.
 >
@@ -1009,13 +992,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=97)** Over the past year, many companies have integrated generative AI into their workflows, making these technologies accessible and practical, while new professional tools emerged.
 >
-> **[1:50](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=110)** For example, Adobe Photoshop introduced the Generative Fill feature that automatically fills in an empty spaces of pictures.
+> **[1:50](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=110)** For example, [[Adobe Photoshop]] introduced the Generative Fill feature that automatically fills in an empty spaces of pictures.
 >
 > **[2:00](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=120)** While Adobe Premier added AI driven motion effects to videos.
 >
 > **[2:05](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=125)** And when it comes to new professional tools, Wonder Dynamics will be a great example, it's an AI platform that accelerates 3D animation and visual effects.
 >
-> **[2:17](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=137)** Their most famous product integrates with popular 3D tools like Autodesk's Maya, allowing artists to animate, light, and compose CG characters efficiently.
+> **[2:17](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=137)** Their most famous product integrates with popular 3D tools like Autodesk's Maya, allowing artists to animate, light, and [[Jetpack Compose|compose]] CG characters efficiently.
 >
 > **[2:30](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=150)** Another notable example is Cuberic, a background production acceleration tool.
 >
@@ -1037,7 +1020,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=265)** Well, I'd love to hear your thoughts and experiences.
 >
-> **[4:29](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=269)** Please write me on LinkedIn.
+> **[4:29](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=269)** Please write me on [[LinkedIn]].
 >
 > **[4:31](https://www.linkedin.com/learning/what-is-generative-ai/from-technical-demos-to-professional-productions?u=76281980&t=271)** Have you tried using generative AI creativity tools in your free time yet, or as part of your workflow?
 >
@@ -1045,23 +1028,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), ai (5), [[Adobe Photoshop]] (1), feature (1), product (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Adobe Photoshop]] (1), [[Jetpack Compose|Compose]] (1), [[LinkedIn]] (1)
 > **Definitions:** known as (1), means that (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** vfx (1)
 > **Speakers:** - consider (1)
 
-#### Wider adoption of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980)
+#### [Wider adoption of generative AI](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=0)** - Another significant advancement of AI has been the ability to run complex generative AI models on mobile devices.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=0)** - Another significant advancement of AI has been the ability to run complex [[Generative AI]] models on mobile devices.
 >
 > **[0:09](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=9)** This breakthrough has made advanced AI tools more accessible to the general public.
 >
-> **[0:15](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=15)** For example, Stable Diffusion, a powerful text-to-image generation model that we covered earlier in the course, can now be accessed on smartphones, enabling users to create high quality visuals with quite modest, and actually no hardware.
+> **[0:15](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=15)** For example, [[Stable Diffusion]], a powerful text-to-image generation model that we covered earlier in the course, can now be accessed on smartphones, enabling users to create high quality visuals with quite modest, and actually no [[Hardware]].
 >
 > **[0:31](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=31)** This accessibility has revolutionized creative industries by democratizing powerful AI tools.
 >
@@ -1071,11 +1053,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=60)** Aside from phone availability of generative AI, cloud-based solutions have been pivotal in the widespread adoption of generative AI as well.
 >
-> **[1:10](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=70)** Major technology companies like Google, Microsoft, Nvidia, Amazon have integrated AI capabilities into their cloud platforms, making it much easier for businesses to leverage AI without significant upfront investments in infrastructure.
+> **[1:10](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=70)** Major technology companies like [[Google]], [[Microsoft]], Nvidia, Amazon have integrated AI capabilities into their cloud platforms, making it much easier for businesses to leverage AI without significant upfront investments in infrastructure.
 >
-> **[1:28](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=88)** For instance, Google Cloud's AI platform, Microsoft Azure AI, Nvidia's Picasso and Edify, provide comprehensive environments for developing, training, and deploying AI models.
+> **[1:28](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=88)** For instance, [[Google Cloud Platform (GCP)|Google Cloud]]'s AI platform, [[Microsoft Azure]] AI, Nvidia's Picasso and Edify, provide comprehensive environments for developing, training, and deploying AI models.
 >
-> **[1:43](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=103)** These platforms offer pre-trained models and tools for fine tuning, enabling developers to integrate AI functionalities into their applications much more easily compared to last year.
+> **[1:43](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=103)** These platforms offer pre-trained models and tools for [[Fine Tuning]], enabling developers to integrate AI functionalities into their applications much more easily compared to last year.
 >
 > **[1:57](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=117)** This integration has facilitated a wide range of applications, from customer service automation to sophisticated data analytics.
 >
@@ -1083,7 +1065,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=138)** Initially, there was considerable apprehension about the potential negative impacts of AI, such as job displacement, ethical concerns leading up to people feeling like they may be irrelevant in the future.
 >
-> **[2:32](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=152)** However, thankfully, in the past year, with the widespread adoption of AI, we have started demystifying generative AI, and started evaluating its tangible benefits in productivity, which shifted the public sentiment towards a more positive outlook.
+> **[2:32](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=152)** However, thankfully, in the past year, with the widespread adoption of AI, we have started demystifying generative AI, and started evaluating its tangible benefits in productivity, which shifted the public sentiment towards a more positive [[Microsoft Outlook|outlook]].
 >
 > **[2:51](https://www.linkedin.com/learning/what-is-generative-ai/wider-adoption-of-gen-ai?u=76281980&t=171)** Beyond advancements in technical infrastructure, the rise in computation power, and the heightened focus on generative AI in research cycles have significantly improved the quality and accuracy of creative AI productions as well.
 >
@@ -1107,22 +1089,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Generative AI]] (10), cloud (2), [[Stable Diffusion]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Stable Diffusion]] (1), [[Hardware]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Analogies:** for instance (2), for example (1), such as (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **Env Vars:** vfx (1)
 > **Speakers:** - another (1)
 
-#### Legal frameworks and intellectual property in the age of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980)
+#### [Legal frameworks and intellectual property in the age of AI](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=0)** - Generative AI and its legal landscape have become increasingly prominent in professional circles over the past year.
+> **[0:00](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=0)** - [[Generative AI]] and its legal landscape have become increasingly prominent in professional circles over the past year.
 >
-> **[0:08](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=8)** With the widespread integration of generative AI in various workflows, questions about copyrights of the data sets used to train these AI algorithms also started emerging.
+> **[0:08](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=8)** With the widespread integration of generative AI in various workflows, questions about copyrights of the data sets used to train these AI [[Algorithms]] also started emerging.
 >
-> **[0:21](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=21)** Generative AI models like stable diffusion are achieving impressive results due to a unique combination of factors like open source nature and its advanced diffusion model architecture which is particularly adept at learning complex patterns.
+> **[0:21](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=21)** Generative AI models like [[Stable Diffusion]] are achieving impressive results due to a unique combination of factors like open source nature and its advanced diffusion model architecture which is particularly adept at learning complex patterns.
 >
 > **[0:37](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=37)** However, arguably, the most crucial factor is likely the sheer diversity of its training data.
 >
@@ -1136,13 +1117,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=89)** This stands in contrast to the emerging trend of ethical datasets where companies meticulously curate and acquire rights to their training data.
 >
-> **[1:41](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=101)** While ethically sourced data sets are critical for responsible AI development, they often lack the sheer volume, variety and diversity found in non-ethical collections.
+> **[1:41](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=101)** While ethically sourced data sets are critical for [[Responsible AI]] development, they often lack the sheer volume, variety and diversity found in non-ethical collections.
 >
 > **[1:54](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=114)** This issue highlights the complex trade-off between data diversity and ethical considerations in the development of powerful generative AI models.
 >
 > **[2:05](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=125)** The legal landscape often lags behind technological advancements creating a gap where AI developments outpace regulatory frameworks.
 >
-> **[2:16](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=136)** We have witnessed similar legal framework gaps with the rise of Web3 blockchain and the internet.
+> **[2:16](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=136)** We have witnessed similar legal framework gaps with the rise of Web3 [[Blockchain]] and the internet.
 >
 > **[2:23](https://www.linkedin.com/learning/what-is-generative-ai/legal-frameworks-and-intellectual-property-in-the-age-of-ai?u=76281980&t=143)** The slow pace of legal changes means that current regulations may not adequately cover the nuances of emerging technologies.
 >
@@ -1172,7 +1153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (10), [[Generative AI]] (6), [[Stable Diffusion]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Stable Diffusion]] (2), [[Algorithms]] (1), [[Responsible AI]] (1), [[Blockchain]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** laion (1)
 > **Definitions:** means that (1)
@@ -1184,8 +1165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1219,7 +1199,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980&t=72)** Second, to start making things today now.
 >
-> **[1:16](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980&t=76)** As we have seen during the course, you don't need to have a technical understanding of generative AI to start working with it.
+> **[1:16](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980&t=76)** As we have seen during the course, you don't need to have a technical understanding of [[Generative AI]] to start working with it.
 >
 > **[1:23](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980&t=83)** Like I'm the co-founder of a company that uses generative AI, and still to this day I haven't written a single line of code.
 >
@@ -1235,7 +1215,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980&t=127)** This is a very fast moving field.
 >
-> **[2:09](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980&t=129)** Like my AI Director friend, John Finger, says, "We live in the time of cutting edge obsolescence."
+> **[2:09](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980&t=129)** Like my AI Director friend, [[John the Ripper|John]] Finger, says, "We live in the time of cutting edge obsolescence."
 >
 > **[2:17](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980&t=137)** Even though generative AI may be one of the most advanced technologies out there, it's exponential development means that just because you know how things work one week you can simply completely be obsolete the next.
 >
@@ -1249,7 +1229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Generative AI]] (5), next (3), power (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[John the Ripper|John]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)

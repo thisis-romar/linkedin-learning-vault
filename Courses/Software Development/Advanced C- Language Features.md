@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### C# language features
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/c-sharp-language-features?u=76281980)
+#### [C# language features](https://www.linkedin.com/learning/advanced-c-sharp-language-features/c-sharp-language-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -98,18 +97,17 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-c-sharp-language-features/c-sharp-language-features?u=76281980&t=49)** We'll wrap up by working with some of the newer object-oriented features that make building custom class types easier to create, compare, and manipulate.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-c-sharp-language-features/c-sharp-language-features?u=76281980&t=58)** C# has come a long way and improved immeasurably from its humble beginnings as a Windows-only programming language into the world class cross-platform language that it is today.
+> **[0:58](https://www.linkedin.com/learning/advanced-c-sharp-language-features/c-sharp-language-features?u=76281980&t=58)** C# has come a long way and improved immeasurably from its humble beginnings as a [[Windows]]-only programming language into the world class cross-platform language that it is today.
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-c-sharp-language-features/c-sharp-language-features?u=76281980&t=68)** Let's get started learning about some of these advanced topics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), career (1), feature (1), [[Windows]] (1), cross-platform (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [joe] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-c-sharp-language-features/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,7 +137,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Tools:** visual studio (4)
 > **Env Vars:** net (2)
 > **CLI Commands:** make (1)
@@ -148,8 +145,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980)
+#### [Setting up the environment](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -167,13 +163,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=39)** Now if running this command gives you an error or you have a version earlier than six, you need to install the .NET SDK.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=47)** So let's go ahead and switch over to the browser and you can download .NET Six from this link on the Microsoft website.
+> **[0:47](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=47)** So let's go ahead and switch over to the browser and you can download .NET Six from this link on the [[Microsoft]] website.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=55)** The page should automatically select the right version for your operating system, but you can manually change it if you need to.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=62)** So if you're downloading for the Mac, you click on Mac.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=65)** Windows is over here and the other operating systems are here.
+> **[1:05](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=65)** [[Windows]] is over here and the other operating systems are here.
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=68)** So when you install this, make sure that you install the SDK version of .NET.
 >
@@ -199,7 +195,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=128)** It's got lots of great features for working with .NET code, so that's what I recommend people to use.
 >
-> **[2:12](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=132)** So once you have .NET Six and Visual Studio Code on your computer or whatever editor you're using, make sure that you install the example files for this course, which you can find in the dedicated GitHub repository at this link, just in that popup right there.
+> **[2:12](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=132)** So once you have .NET Six and Visual Studio Code on your computer or whatever editor you're using, make sure that you install the example files for this course, which you can find in the dedicated [[GitHub]] repository at this link, just in that popup right there.
 >
 > **[2:26](https://www.linkedin.com/learning/advanced-c-sharp-language-features/setting-up-the-environment?u=76281980&t=146)** Go to that link and download or clone that repository on your computer to wherever you want and you are ready to get started.
 
@@ -219,8 +215,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Indexes and ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/indexes-and-ranges?u=76281980)
+#### [Indexes and ranges](https://www.linkedin.com/learning/advanced-c-sharp-language-features/indexes-and-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,7 +255,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-c-sharp-language-features/indexes-and-ranges?u=76281980&t=94)** And when it runs, we can see right there in the output, that the output is quick.
 >
-> **[1:41](https://www.linkedin.com/learning/advanced-c-sharp-language-features/indexes-and-ranges?u=76281980&t=101)** And sure enough, the word at index one, and remember this is a zero-based index.
+> **[1:41](https://www.linkedin.com/learning/advanced-c-sharp-language-features/indexes-and-ranges?u=76281980&t=101)** And sure enough, the [[Microsoft Word|word]] at index one, and remember this is a zero-based index.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-c-sharp-language-features/indexes-and-ranges?u=76281980&t=106)** So the is index zero.
 >
@@ -400,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), data (2), [[Programming]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10)
 > **Tools:** terminal (5), vs code (2)
 > **CLI Commands:** make (3), dotnet (1)
 > **Definitions:** is a  (1), basically means (1)
@@ -408,8 +403,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Literal number improvements
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/literal-number-improvements?u=76281980)
+#### [Literal number improvements](https://www.linkedin.com/learning/advanced-c-sharp-language-features/literal-number-improvements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,7 +463,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), cd (1), [[Programming]] (1)
 > **CLI Commands:** make (3), dotnet (1), cd (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** open the (1), right-click (1)
@@ -477,9 +470,9 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - [instructor] (1)
 
-#### The null-coalescing operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/the-null-coalescing-operator?u=76281980)
+#### [The null-coalescing operator](https://www.linkedin.com/learning/advanced-c-sharp-language-features/the-null-coalescing-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -621,7 +614,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **CLI Commands:** make (3), dotnet (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** such as (1), imagine (1)
@@ -630,12 +622,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deconstruction with tuples
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/deconstruction-with-tuples?u=76281980)
+#### [Deconstruction with tuples](https://www.linkedin.com/learning/advanced-c-sharp-language-features/deconstruction-with-tuples?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-language-features/deconstruction-with-tuples?u=76281980&t=0)** - [Instructor] The tuple structure was introduced back in C# 7.0, and it introduced to C# a feature that had long been available in other languages like Python.
+> **[0:00](https://www.linkedin.com/learning/advanced-c-sharp-language-features/deconstruction-with-tuples?u=76281980&t=0)** - [Instructor] The tuple structure was introduced back in C# 7.0, and it introduced to C# a feature that had long been available in other languages like [[Python (Programming Language)|Python]].
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-c-sharp-language-features/deconstruction-with-tuples?u=76281980&t=11)** Essentially, a tuple is a very lightweight way of grouping multiple values into a single object.
 >
@@ -721,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** wxyz (3), abcd (2)
 > **CLI Commands:** python (1)
 > **Versions:** 7.0 (1)
@@ -730,8 +721,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deconstruction with classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/deconstruction-with-classes?u=76281980)
+#### [Deconstruction with classes](https://www.linkedin.com/learning/advanced-c-sharp-language-features/deconstruction-with-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,7 +825,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Cross-References:** go back to (4), previous video (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -848,8 +837,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of pattern matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/overview-of-pattern-matching?u=76281980)
+#### [Overview of pattern matching](https://www.linkedin.com/learning/advanced-c-sharp-language-features/overview-of-pattern-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,11 +863,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/basic-patterns?u=76281980)
+#### [Basic patterns](https://www.linkedin.com/learning/advanced-c-sharp-language-features/basic-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,7 +993,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Tools:** terminal (3)
 > **Analogies:** for example (2), imagine (1)
@@ -1016,8 +1001,7 @@ created: 2026-05-02
 > **Code Identifiers:** dashedline (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhanced switch statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/enhanced-switch-statements?u=76281980)
+#### [Enhanced switch statements](https://www.linkedin.com/learning/advanced-c-sharp-language-features/enhanced-switch-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1115,7 +1099,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/advanced-c-sharp-language-features/enhanced-switch-statements?u=76281980&t=288)** And once again, it will take an object.
 >
-> **[4:51](https://www.linkedin.com/learning/advanced-c-sharp-language-features/enhanced-switch-statements?u=76281980&t=291)** And in this case, I'm going to write a Lambda expression so I'll write shape and then I'm going to use the word switch.
+> **[4:51](https://www.linkedin.com/learning/advanced-c-sharp-language-features/enhanced-switch-statements?u=76281980&t=291)** And in this case, I'm going to write a Lambda expression so I'll write shape and then I'm going to use the [[Microsoft Word|word]] switch.
 >
 > **[4:57](https://www.linkedin.com/learning/advanced-c-sharp-language-features/enhanced-switch-statements?u=76281980&t=297)** So what this expression does is, it tells the switch statement that we're going to switch on this particular value right here.
 >
@@ -1229,7 +1213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Microsoft Word|Word]] (2), [[Programming]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2)
 > **Tools:** terminal (2)
 > **Cross-References:** go back to (1)
@@ -1238,8 +1222,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Position patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/position-patterns?u=76281980)
+#### [Position patterns](https://www.linkedin.com/learning/advanced-c-sharp-language-features/position-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1250,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-c-sharp-language-features/position-patterns?u=76281980&t=74)** So if the day of the week is either a Saturday or a Sunday, then there's no discount given regardless of the group size.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-c-sharp-language-features/position-patterns?u=76281980&t=82)** So when I hear the word regardless, that means that I've used the discard operator, 'cause I don't care about the group size.
+> **[1:22](https://www.linkedin.com/learning/advanced-c-sharp-language-features/position-patterns?u=76281980&t=82)** So when I hear the [[Microsoft Word|word]] regardless, that means that I've used the discard operator, 'cause I don't care about the group size.
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-c-sharp-language-features/position-patterns?u=76281980&t=87)** And I'm going to test for DayOfWeek dot Saturday or DayOfWeek dot Sunday, in which case, there's no discount at all.
 >
@@ -1435,7 +1418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Cross-References:** earlier in (3), in the next (1)
 > **Code Identifiers:** groupsize (3)
 > **Definitions:** is a  (2), means that (1)
@@ -1444,8 +1427,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Analogies:** imagine (1)
 
-#### Relational patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/relational-patterns?u=76281980)
+#### [Relational patterns](https://www.linkedin.com/learning/advanced-c-sharp-language-features/relational-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,15 +1509,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Non-Speech:** (computer keyboard clicking) (16), (computer mouse clicking) (4)
 > **CLI Commands:** make (2)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Pattern challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/pattern-challenge?u=76281980)
+#### [Pattern challenge](https://www.linkedin.com/learning/advanced-c-sharp-language-features/pattern-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1639,7 +1619,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), data (2), [[Programming]] (1), next (1)
 > **Definitions:** is a  (4)
 > **Versions:** 0.1 (1), 0.05 (1)
 > **CLI Commands:** dotnet (1)
@@ -1647,9 +1626,9 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (playful music) (1)
 
-#### Pattern solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/pattern-solution?u=76281980)
+#### [Pattern solution](https://www.linkedin.com/learning/advanced-c-sharp-language-features/pattern-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1715,7 +1694,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1729,8 +1707,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with indexers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/working-with-indexers?u=76281980)
+#### [Working with indexers](https://www.linkedin.com/learning/advanced-c-sharp-language-features/working-with-indexers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,7 +1879,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (4), [[Programming]] (1), next (1)
 > **CLI Commands:** make (6), dotnet (1)
 > **Analogies:** for example (2), imagine (1), similar to (1), just like (1)
 > **Cross-References:** go back to (3)
@@ -1910,9 +1886,9 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
+> **Speakers:** - [instructor] (1)
 
-#### Overriding ToString()
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/overriding-tostring?u=76281980)
+#### [Overriding ToString()](https://www.linkedin.com/learning/advanced-c-sharp-language-features/overriding-tostring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2002,7 +1978,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (2), [[Troubleshooting]] (1)
 > **Env Vars:** net (4)
 > **CLI Commands:** make (2), dotnet (1)
 > **Tools:** terminal (2), vs code (1)
@@ -2010,9 +1985,9 @@ created: 2026-05-02
 > **Versions:** 42.0 (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
+> **Definitions:** is an  (1)
 
-#### Equality testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/equality-testing?u=76281980)
+#### [Equality testing](https://www.linkedin.com/learning/advanced-c-sharp-language-features/equality-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2188,7 +2163,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** net (3)
 > **UI Navigation:** open the (1), scroll down (1)
@@ -2196,8 +2170,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using records
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/using-records?u=76281980)
+#### [Using records](https://www.linkedin.com/learning/advanced-c-sharp-language-features/using-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2239,7 +2212,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-c-sharp-language-features/using-records?u=76281980&t=96)** I'm going to declare it as if it was a class.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-c-sharp-language-features/using-records?u=76281980&t=98)** But instead of the word class, I'm going to use the word record.
+> **[1:38](https://www.linkedin.com/learning/advanced-c-sharp-language-features/using-records?u=76281980&t=98)** But instead of the [[Microsoft Word|word]] class, I'm going to use the word record.
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-c-sharp-language-features/using-records?u=76281980&t=101)** So I'll declare a public record named DayTemperature.
 >
@@ -2413,7 +2386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (9)
 > **Versions:** 29.6 (1), 24.1 (1), 30.1 (1)
 > **Definitions:** in other words (2)
@@ -2427,8 +2400,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/advanced-c-sharp-language-features/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2444,7 +2416,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-c-sharp-language-features/conclusion?u=76281980&t=37)** And if you're interested in using C# to work with data, then have a look at C#: Collections.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-c-sharp-language-features/conclusion?u=76281980&t=43)** The C# language continues to improve and evolve, so it's a good idea to stay up-to-date with the language by visiting the C# documentation at the Microsoft website.
+> **[0:43](https://www.linkedin.com/learning/advanced-c-sharp-language-features/conclusion?u=76281980&t=43)** The C# language continues to improve and evolve, so it's a good idea to stay up-to-date with the language by visiting the C# documentation at the [[Microsoft]] website.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-c-sharp-language-features/conclusion?u=76281980&t=52)** You can find that website right here at this link and this website contains all you could ever want to know about the C# language from the documentation to samples and all kinds of educational materials.
 >
@@ -2454,7 +2426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1), data (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** net (3)
 > **CLI Commands:** find (1)
 > **Documentation:** the documentation (1)

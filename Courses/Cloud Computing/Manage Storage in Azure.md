@@ -110,41 +110,39 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding storage in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/understanding-storage-in-azure?u=76281980)
+#### [Understanding storage in Azure](https://www.linkedin.com/learning/manage-storage-in-azure/understanding-storage-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/understanding-storage-in-azure?u=76281980&t=0)** - By 2025, it is estimated that between 150 to 200 zettabytes of data will be created, with large enterprises tripling their unstructured data storage capacity of files and blobs when compared to today.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/understanding-storage-in-azure?u=76281980&t=0)** - By 2025, it is estimated that between 150 to 200 zettabytes of data will be created, with large enterprises tripling their [[Unstructured Data]] storage capacity of files and blobs when compared to today.
 >
 > **[0:16](https://www.linkedin.com/learning/manage-storage-in-azure/understanding-storage-in-azure?u=76281980&t=16)** With over 50% of organizations experiencing data breach in the last two years and cloud spend waste estimated at 28%, it is no surprise that the latest State of the Cloud report places managing spend, security, and lack of expertise as the top challenges facing organizations in the cloud.
 >
-> **[0:37](https://www.linkedin.com/learning/manage-storage-in-azure/understanding-storage-in-azure?u=76281980&t=37)** My name is Nicole Stevens and I've been architecting data storage solutions for over 20 years.
+> **[0:37](https://www.linkedin.com/learning/manage-storage-in-azure/understanding-storage-in-azure?u=76281980&t=37)** My name is Nicole Stevens and I've been architecting [[Data Storage]] solutions for over 20 years.
 >
-> **[0:42](https://www.linkedin.com/learning/manage-storage-in-azure/understanding-storage-in-azure?u=76281980&t=42)** Join me as we explore managing Azure Storage to help you start building the expertise to overcome these challenges.
+> **[0:42](https://www.linkedin.com/learning/manage-storage-in-azure/understanding-storage-in-azure?u=76281980&t=42)** Join me as we explore managing [[Microsoft Azure|Azure]] Storage to help you start building the expertise to overcome these challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), cloud (3), [[Unstructured Data]] (1), [[Security]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (1), [[Data Storage]] (1), [[Microsoft Azure|Azure]] (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - by (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=0)** - [Instructor] This course starts with beginner level concepts and a walkthrough in the Azure portal to create a storage account.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=0)** - [Instructor] This course starts with beginner level concepts and a walkthrough in the [[Microsoft Azure|Azure]] portal to create a storage account.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=7)** But quickly moves into an intermediate level, therefore, a good understanding of how to navigate around the portal is essential.
 >
-> **[0:15](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=15)** LinkedIn Learning has some excellent short courses on working with the Azure portal, such as this one, "Navigating the Azure portal."
+> **[0:15](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=15)** [[LinkedIn]] Learning has some excellent short courses on working with the Azure portal, such as this one, "Navigating the Azure portal."
 >
 > **[0:24](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=24)** There are also sections of this course that require connecting through the remote desktop to a virtual machine.
 >
-> **[0:30](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=30)** If this is not something you have attempted before or you need to brush up on this, there are further short courses on LinkedIn Learning, including this one on connecting to virtual machines in Azure.
+> **[0:30](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=30)** If this is not something you have attempted before or you need to brush up on this, there are further short courses on LinkedIn Learning, including this one on connecting to [[Virtual Machines]] in Azure.
 >
-> **[0:44](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=44)** The companion GitHub repository to this course contains Infrastructure as Code files to create each environment for you, so that you can follow along live if you wish.
+> **[0:44](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=44)** The companion [[GitHub]] repository to this course contains [[Infrastructure as code (IaC)|Infrastructure as Code]] files to create each environment for you, so that you can follow along live if you wish.
 >
 > **[0:54](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=54)** Each top level folder within the GitHub repository matches with a chapter, and within each chapter, there is a folder for each environment with a readme file, explaining the commands required to create the environment at the folder level.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=88)** Just drag that up.
 >
-> **[1:30](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=90)** You'll need to be working from within the Bash shell, and then clone the GitHub repository, which you can do by returning to the root of the repository, clicking on the Code button, copying the SSH command, back into the portal, and using git clone.
+> **[1:30](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=90)** You'll need to be working from within the Bash shell, and then clone the GitHub repository, which you can do by returning to the root of the repository, clicking on the Code button, copying the SSH command, back into the portal, and using [[Git]] clone.
 >
 > **[1:54](https://www.linkedin.com/learning/manage-storage-in-azure/what-you-should-know?u=76281980&t=114)** Once the repository is command, you can use the command from the readmes to create each environment.
 >
@@ -196,20 +194,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Storage and the storage services
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980)
+#### [Azure Storage and the storage services](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=0)** - [Instructor] When thinking about transitioning an application to the cloud or building from scratch in the cloud, it is highly likely the application will need to persist some data.
 >
-> **[0:10](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=10)** Azure Storage is the solution in Azure for supporting modern data storage requirements in the cloud.
+> **[0:10](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=10)** [[Microsoft Azure|Azure]] Storage is the solution in Azure for supporting modern [[Data Storage]] requirements in the cloud.
 >
 > **[0:18](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=18)** There are many benefits to a developer or administrator when working with Azure Storage.
 >
 > **[0:24](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=24)** Azure Storage is accessible from anywhere over HTTP or HTTPS.
 >
-> **[0:30](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=30)** Developers can access data through SDKs in many languages or through the Storage REST APIs.
+> **[0:30](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=30)** Developers can access data through SDKs in many languages or through the Storage [[Representational State Transfer (REST)|REST]] APIs.
 >
 > **[0:37](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=37)** The Azure Portal and Azure Storage Explorer enable users to visualize and work with data through a UI.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=61)** It's scalable with deployment configuration options to match an application or project's data size and performance requirements.
 >
-> **[1:10](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=70)** Azure Storage is managed by Microsoft.
+> **[1:10](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=70)** Azure Storage is managed by [[Microsoft]].
 >
 > **[1:12](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=72)** Therefore, maintenance, updates, and fixing of critical issues are taken care of for you.
 >
@@ -231,13 +228,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=97)** It provides a namespace that can be used to deploy different storage services.
 >
-> **[1:42](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=102)** Each of these services has been designed to cater for the various forms that modern data can take, from simple text files to documents and stream videos.
+> **[1:42](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=102)** Each of these services has been designed to cater for the various [[Forms]] that modern data can take, from simple text files to documents and stream videos.
 >
 > **[1:53](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=113)** Determining which storage service or combination of storage services you need for an application or project requires knowledge of each service's suitability to hold specific types of data.
 >
 > **[2:06](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=126)** Let's break this down further by looking at each storage service listed on this slide.
 >
-> **[2:12](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=132)** Blob storage is designed to hold huge amounts of unstructured data.
+> **[2:12](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=132)** Blob storage is designed to hold huge amounts of [[Unstructured Data]].
 >
 > **[2:17](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=137)** To facilitate this, blob storage has three types of blobs: block blobs, append blobs, and page blobs.
 >
@@ -251,9 +248,9 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=177)** Page blobs are optimized for random read/write operations of 512-byte pages.
 >
-> **[3:04](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=184)** This enables virtual disk storage for infrastructure as a service, also known as IaaS, VMs on Azure.
+> **[3:04](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=184)** This enables virtual disk storage for [[IaaS|infrastructure as a service]], also known as [[IaaS]], VMs on Azure.
 >
-> **[3:12](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=192)** However, VHD's page blobs in a storage account are not Microsoft's recommended method for supporting disk storage for virtual machines in Azure.
+> **[3:12](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=192)** However, VHD's page blobs in a storage account are not Microsoft's recommended method for supporting disk storage for [[Virtual Machines]] in Azure.
 >
 > **[3:24](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=204)** Azure Managed Disks are the recommended method of disk storage.
 >
@@ -275,11 +272,11 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=254)** Azure Files is a fully managed file share service in Azure.
 >
-> **[4:18](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=258)** The shares can be accessed by the network file system and server message block protocols and therefore can be mounted to Linux and Windows servers or macOS clients.
+> **[4:18](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=258)** The shares can be accessed by the network file system and server message block protocols and therefore can be mounted to [[Linux]] and [[Windows]] servers or macOS clients.
 >
 > **[4:30](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=270)** REST API access can be direct or through SDKs which are available in multiple languages.
 >
-> **[4:37](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=277)** Azure Files can also be used to persist state for resources running containers in Azure such as Azure Container Instances, Azure Container Apps, and Azure Kubernetes service.
+> **[4:37](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=277)** Azure Files can also be used to persist state for resources running containers in Azure such as Azure Container Instances, Azure Container Apps, and Azure [[Kubernetes]] service.
 >
 > **[4:51](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=291)** A further service to be aware of is Azure NetApp Files which is an enterprise class file storage service in Azure.
 >
@@ -295,7 +292,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=338)** Azure Queue Storage is often used to offload work to separate application components, decoupling the components, and therefore building in resilience to component failure.
 >
-> **[5:50](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=350)** Azure Table Storage enables the storage of NoSQL entities.
+> **[5:50](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=350)** Azure Table Storage enables the storage of [[NoSQL]] entities.
 >
 > **[5:55](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-and-the-storage-services?u=76281980&t=355)** These entities can be up to one meg size and are stored as one or more key value pairs.
 >
@@ -309,7 +306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (36), data (14), application (5), cloud (3), [[Representational State Transfer (REST)|Rest]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (36), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft]] (2), [[NoSQL]] (2), [[Data Storage]] (1)
 > **Env Vars:** rest (2), vhd (2), http (1), https (1), api (1)
 > **Definitions:** is a  (3), known as (1), is an  (1)
 > **Analogies:** such as (2)
@@ -318,16 +315,15 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Warnings:** be aware (1)
 
-#### Azure Storage types and performance tiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980)
+#### [Azure Storage types and performance tiers](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=0)** - [Instructor] There are four types of Azure Storage account available with features to support the different requirements of a workload's persisted data.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=0)** - [Instructor] There are four types of [[Microsoft Azure|Azure]] Storage account available with features to support the different requirements of a workload's persisted data.
 >
 > **[0:09](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=9)** The first we'll look at is the general purpose storage account.
 >
-> **[0:13](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=13)** It is recommended by Microsoft for most Azure storage scenarios.
+> **[0:13](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=13)** It is recommended by [[Microsoft]] for most Azure storage scenarios.
 >
 > **[0:18](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=18)** It has built-in support for all the Azure storage services and all the storage redundancy options and we'll explore all these options in a later video.
 >
@@ -335,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=39)** There are no limits to the number of blobs, files, shares, queues, entities, or messages that can be used to fill up this capacity.
 >
-> **[0:48](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=48)** Each storage account can handle up to 20,000 requests per second and standard storage accounts are backed by hard disk or HDD based hardware, which for some workloads, will not deliver a high enough level of performance.
+> **[0:48](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=48)** Each storage account can handle up to 20,000 requests per second and standard storage accounts are backed by hard disk or HDD based [[Hardware]], which for some workloads, will not deliver a high enough level of performance.
 >
 > **[1:05](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=65)** Because of this, Azure offers three premium storage account types.
 >
@@ -383,7 +379,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=260)** With premium file shares, the IOPS grows to a hundred thousand with the provision capacity of the file share, along with throughput, which makes premium file shares perfect for smaller data objects.
 >
-> **[4:33](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=273)** For detailed information on these figures, for planning and Azure files deployment, see this Microsoft Learn article for Azure file scalability and performance targets.
+> **[4:33](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=273)** For detailed information on these figures, for planning and Azure files deployment, see this Microsoft Learn article for Azure file [[Scalability]] and performance targets.
 >
 > **[4:45](https://www.linkedin.com/learning/manage-storage-in-azure/azure-storage-types-and-performance-tiers?u=76281980&t=285)** There are still two legacy account types, standard V1, which supports blobs, queues, files, and tables and standard Blob Storage for block and append blobs.
 >
@@ -395,21 +391,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (4), [[Microsoft]] (4), [[Hardware]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft]] (4), [[Hardware]] (1), [[Scalability]] (1)
 > **Env Vars:** iops (6), hdd (1)
 > **Best Practices:** recommended (1), don't forget (1)
 > **Tools:** azure portal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a storage account in the Azure portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980)
+#### [Creating a storage account in the Azure portal](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=0)** - [Instructor] The storage account types and services that we have discussed so far are part of the minimum requirements to create a storage account in the Portal.
 >
-> **[0:08](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=8)** So, we can switch to the Azure Portal and run through how to create a storage account with just these essential options.
+> **[0:08](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=8)** So, we can switch to the [[Microsoft Azure|Azure]] Portal and run through how to create a storage account with just these essential options.
 >
 > **[0:17](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=17)** To create a storage account, you can search for the storage account resources at the top of the Portal by clicking into the search bar and typing storage accounts.
 >
@@ -435,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=105)** At the end of the demo, the lifecycle of the resource group's resources is complete so I will delete the resource group, which in turn deletes all of its resources.
 >
-> **[1:55](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=115)** We scroll down, we can see the rest of the basic options.
+> **[1:55](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=115)** We scroll down, we can see the [[Representational State Transfer (REST)|rest]] of the basic options.
 >
 > **[1:59](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=119)** A storage account name must be globally unique for the whole of the Azure Cloud that you are using.
 >
@@ -469,7 +464,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=239)** At the top of the overview blade is a display of all of the options chosen in the Basics tab, subscription, resource group, region, performance, and account kind.
 >
-> **[4:10](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=250)** And on the Storage Account menu bar under the Data Storage heading are the menu items for Containers, File shares, Queues, and Tables.
+> **[4:10](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=250)** And on the Storage Account menu bar under the [[Data Storage]] heading are the menu items for Containers, File shares, Queues, and Tables.
 >
 > **[4:18](https://www.linkedin.com/learning/manage-storage-in-azure/creating-a-storage-account-in-the-azure-portal?u=76281980&t=258)** This is due to the selection of a standard storage v2 account, which supports all of the services.
 >
@@ -477,7 +472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), data (4), [[Search]] (2), cloud (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Data Storage]] (1)
 > **UI Navigation:** click on (3), switch to (1), dropdown (1), scroll down (1), go to (1)
 > **Cross-References:** previous video (2), in the next (1)
 > **Definitions:** is a  (2)
@@ -485,12 +480,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with Azure Storage data in the portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-the-portal?u=76281980)
+#### [Working with Azure Storage data in the portal](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-the-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-the-portal?u=76281980&t=0)** - [Instructor] You've created your Azure storage account and are ready to start working with your data within the account, but how should you create a structure for your data to be stored?
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-the-portal?u=76281980&t=0)** - [Instructor] You've created your [[Microsoft Azure|Azure]] storage account and are ready to start working with your data within the account, but how should you create a structure for your data to be stored?
 >
 > **[0:09](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-the-portal?u=76281980&t=9)** Each Azure storage service has a set of resources which are used together to create a structure for data to be stored.
 >
@@ -528,7 +522,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-the-portal?u=76281980&t=128)** Well, we'll cover this later in the course, so I'll set this container to publicly accessible and click Create, and the container is created.
 >
-> **[2:18](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-the-portal?u=76281980&t=138)** Clicking on the newly created container, a blob can be uploaded by clicking the Upload button, then we can either drag a blob in to this square here to Drag and drop files, or I can browse for files on my local machine, choosing the LinkedIn logo and clicking Open and Upload.
+> **[2:18](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-the-portal?u=76281980&t=138)** Clicking on the newly created container, a blob can be uploaded by clicking the Upload button, then we can either drag a blob in to this square here to Drag and drop files, or I can browse for files on my local machine, choosing the [[LinkedIn]] logo and clicking Open and Upload.
 >
 > **[2:41](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-the-portal?u=76281980&t=161)** If I close down the upload pane, the blob has been created and this has created the blob at the container level.
 >
@@ -600,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Azure|Azure]] (5), [[LinkedIn]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[LinkedIn]] (3)
 > **Env Vars:** url (7)
 > **UI Navigation:** drag and drop (1), go to (1), scroll down (1)
 > **Definitions:** is a  (3)
@@ -609,12 +603,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 
-#### An overview of Azure Table storage and Azure Storage Queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980)
+#### [An overview of Azure Table storage and Azure Storage Queues](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=0)** - [Instructor] The Azure Portal is a great place to start when creating storage components and working with data in Azure, but there are many other options including Azure Storage Explorer with its desktop client for Windows, Linux, and macOS.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=0)** - [Instructor] The [[Microsoft Azure|Azure]] Portal is a great place to start when creating storage components and working with data in Azure, but there are many other options including Azure Storage Explorer with its desktop client for [[Windows]], [[Linux]], and macOS.
 >
 > **[0:15](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=15)** Before we jump into the Data Explorer, there are two final storage services we need to cover, starting with Azure Tables.
 >
@@ -630,7 +623,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=63)** Only partition and row keys are indexed.
 >
-> **[1:05](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=65)** So if you are performing a point read, which is a read which uses just a partition key and row key to fetch one row, it will be efficient, but any other type of read will be slow as the table grows.
+> **[1:05](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=65)** So if you are performing a point read, which is a read which uses just a partition key and row key to [[Fetch]] one row, it will be efficient, but any other type of read will be slow as the table grows.
 >
 > **[1:18](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=78)** This is one of the disadvantages of Azure Table Storage.
 >
@@ -652,11 +645,11 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=130)** But if this is not an issue for your application, Azure queues are a really cost-effective asynchronous messaging service.
 >
-> **[2:17](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=137)** For information on naming queues and metadata, please follow the link on this page.
+> **[2:17](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=137)** For information on naming queues and [[Metadata]], please follow the link on this page.
 >
 > **[2:24](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=144)** Now we'll take a look at working with the data we have discussed in the Azure Storage Explorer.
 >
-> **[2:30](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=150)** This is the Storage Explorer, and once it loads, you need to connect to the resources to be able to view them either through an Azure AD account, which enables access to single resources or an entire subscription, or by using further authentication methods which we'll discuss later in this course.
+> **[2:30](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=150)** This is the Storage Explorer, and once it loads, you need to connect to the resources to be able to view them either through an [[Microsoft Entra ID|Azure AD]] account, which enables access to single resources or an entire subscription, or by using further authentication methods which we'll discuss later in this course.
 >
 > **[2:49](https://www.linkedin.com/learning/manage-storage-in-azure/an-overview-of-azure-table-storage-and-azure-storage-queues?u=76281980&t=169)** I'm going to sign in with my instructors Azure AD account to get access to my subscription.
 >
@@ -682,7 +675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), data (4), [[Microsoft Entra ID|Azure ad]] (2), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Microsoft Entra ID|Azure ad]] (2), [[Windows]] (1), [[Linux]] (1), [[Fetch]] (1)
 > **Definitions:** is a  (4)
 > **Tools:** azure portal (3)
 > **Code Identifiers:** macos (1)
@@ -691,8 +684,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with Azure Storage data in Azure Storage Explorer: Adding Tables, entities, queues, and messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980)
+#### [Working with Azure Storage data in Azure Storage Explorer: Adding Tables, entities, queues, and messages](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,7 +696,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=15)** I don't want to use these tables, I want to create my own.
 >
-> **[0:18](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=18)** So I will right click on the table service and choose create table and I'll give it a name of products.
+> **[0:18](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=18)** So I will right click on the table service and choose create table and I'll give it a name of [[Microsoft Products|products]].
 >
 > **[0:27](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=27)** The screen on the right has now switched to a view of the entities in the table which we haven't got any at the moment.
 >
@@ -726,7 +718,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=90)** If I choose to add another entity, I am shown the structure of the last entity that was added.
 >
-> **[1:37](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=97)** But because this is a no SQL type of data it doesn't have to have the same properties.
+> **[1:37](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=97)** But because this is a no [[SQL]] type of data it doesn't have to have the same properties.
 >
 > **[1:44](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=104)** So I can get rid of the Cost and the Size, add in another PartitionKey and another RowKey of a product number.
 >
@@ -758,7 +750,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=189)** Clicking OK, the message is added to the queue.
 >
-> **[3:13](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=193)** Having a setup like this with two queues is a simple example of how processing can be decoupled using Azure Storage Queues.
+> **[3:13](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=193)** Having a setup like this with two queues is a simple example of how processing can be decoupled using [[Microsoft Azure|Azure]] Storage Queues.
 >
 > **[3:20](https://www.linkedin.com/learning/manage-storage-in-azure/working-with-azure-storage-data-in-azure-storage-explorer-adding-tables-entities-queues-and-messages?u=76281980&t=200)** A compute resort can get the messages from the ready queue, process them, and then place the message on the finish queue to notify that the processing has ended.
 >
@@ -770,7 +762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (2), [[Microsoft Products|Products]] (1), [[SQL]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[SQL]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (1), csv (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -778,12 +770,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Migrating and transferring data into Azure Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980)
+#### [Migrating and transferring data into Azure Storage](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=0)** - [Instructor] When migrating or transferring data to Azure Storage, there are three key factors that will influence your choice of migration tool or service.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=0)** - [Instructor] When migrating or transferring data to [[Microsoft Azure|Azure]] Storage, there are three key factors that will influence your choice of migration tool or service.
 >
 > **[0:09](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=9)** Firstly, how much data do you need to transfer?
 >
@@ -801,7 +792,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=47)** This is the Data Box family of Data Box Disk, Data Box, and Data Box Heavy.
 >
-> **[0:55](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=55)** These are all Microsoft managed services primarily aimed at large data offline migrations.
+> **[0:55](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=55)** These are all [[Microsoft]] managed services primarily aimed at large data offline migrations.
 >
 > **[1:03](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=63)** With this service, you order a device suitable for your requirements through the portal and Microsoft deliver you one or more SSDs or a ruggedize device.
 >
@@ -827,15 +818,15 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=158)** Along with its offline capability, the Azure Data Box family has Azure Stack Edge and Data Box Gateway for transferring large datasets with high bandwidth to Azure blobs and files.
 >
-> **[2:51](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=171)** These can include data from on-premises servers transferred as migration, or scheduled and continuous transfer often used for IoT devices.
+> **[2:51](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=171)** These can include data from on-premises servers transferred as migration, or scheduled and continuous transfer often used for [[IoT]] devices.
 >
 > **[3:01](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=181)** The Azure Stack Edge device also comes with compute at the edge, enabling pre-processing of data which can mean less data is transferred to Azure.
 >
-> **[3:12](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=192)** For transferring large datasets where high bandwidth is available, Azure Data Factory and the command line tools AzCopy, Azure CLI, and Azure PowerShell can be used to transfer data online.
+> **[3:12](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=192)** For transferring large datasets where high bandwidth is available, Azure Data Factory and the command line tools AzCopy, Azure [[CLI]], and Azure [[Powershell]] can be used to transfer data online.
 >
 > **[3:26](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=206)** Azure Data Factory has connectors to multiple resources, including Azure storage.
 >
-> **[3:32](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=212)** Its code-free UI runs from the portal where data pipelines are designed.
+> **[3:32](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=212)** Its code-free UI runs from the portal where [[Data Pipelines]] are designed.
 >
 > **[3:38](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=218)** These can be triggered and scheduled.
 >
@@ -845,7 +836,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=232)** The command line tools support blobs, files, and table storage.
 >
-> **[3:56](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=236)** As command line tools, the commands can be scripted where they can be scheduled through Windows Task Manager or Linux cron jobs.
+> **[3:56](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=236)** As command line tools, the commands can be scripted where they can be scheduled through [[Windows]] Task Manager or [[Linux]] cron jobs.
 >
 > **[4:05](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage?u=76281980&t=245)** With fees limited to egress, if your transfer scenario is a one-off or can be scheduled, then tools such as AzCopy are likely to be the most cost effective.
 >
@@ -857,7 +848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Microsoft Azure|Azure]] (18), [[Microsoft]] (4), [[CLI]] (2), [[Powershell]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Microsoft]] (4), [[CLI]] (2), [[Powershell]] (2), [[IoT]] (1)
 > **Tools:** command line (4), azure portal (2), powershell (2)
 > **Env Vars:** cli (2), usb (1), qfps (1), etl (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -866,14 +857,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Migrating and transferring data into Azure Storage using AzCopy
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980)
+#### [Migrating and transferring data into Azure Storage using AzCopy](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=1)** - [Instructor] Being a command line tool, we're going to need a terminal to run AzCopy.
 >
-> **[0:05](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=5)** So I'm currently in Windows PowerShell, but I could be using Bash in Linux for example as AzCopy runs on Linux, Mac OS, and Windows.
+> **[0:05](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=5)** So I'm currently in [[Windows]] [[Powershell]], but I could be using Bash in [[Linux]] for example as AzCopy runs on Linux, Mac OS, and Windows.
 >
 > **[0:15](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=15)** So to use AzCopy, firstly you need to authenticate.
 >
@@ -891,13 +881,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=35)** Now I have options, to log in interactively, so I would be putting in my identity credentials and scroll down.
 >
-> **[0:43](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=43)** I could be using a managed identity so this would be good if I was using Azure back compute.
+> **[0:43](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=43)** I could be using a managed identity so this would be good if I was using [[Microsoft Azure|Azure]] back compute.
 >
 > **[0:48](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=48)** And here we have options for using a service principle.
 >
 > **[0:53](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=53)** Now using a service principle is the recommended way to authenticate when scheduling an AzCopy script.
 >
-> **[0:59](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=59)** Now I will log in using device code authorization flow which uses my Azure AD identity to authenticate and returns the identities authorizations.
+> **[0:59](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=59)** Now I will log in using device code authorization flow which uses my [[Microsoft Entra ID|Azure AD]] identity to authenticate and returns the identities authorizations.
 >
 > **[1:10](https://www.linkedin.com/learning/manage-storage-in-azure/migrating-and-transferring-data-into-azure-storage-using-azcopy?u=76281980&t=70)** And to do this, I can use azcopy login.
 >
@@ -976,8 +966,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Hierarchical namespace and SFTP for blobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980)
+#### [Hierarchical namespace and SFTP for blobs](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -985,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=5)** A flat structure object storage such as blob storage could scale linearly, therefore having no impact on data capacity or read/write performance, whereas performance for objects in a hierarchical structure was impaired as the number of objects grew.
 >
-> **[0:23](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=23)** You have already seen how the blob storage structure in Azure consists of the account and the container, followed by the blob name, and it is within the blob name that the virtual structure is created by embedding slashes to create a virtual path.
+> **[0:23](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=23)** You have already seen how the blob storage structure in [[Microsoft Azure|Azure]] consists of the account and the container, followed by the blob name, and it is within the blob name that the virtual structure is created by embedding slashes to create a virtual path.
 >
 > **[0:42](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=42)** The problem with the structure comes when you need to perform directory maintenance such as renaming, moving, or deleting directories.
 >
@@ -997,11 +986,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=72)** By enabling the hierarchical namespace for blobs feature on a storage account, the container at the top level stays the same, but underneath the container, directories can be added to build out a file system that is no longer virtual.
 >
-> **[1:29](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=89)** Because it is built on the Azure Blob Storage, this hierarchical structure for objects retains its scalability and delivers better throughput and IOPS and faster operations at individual notes.
+> **[1:29](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=89)** Because it is built on the Azure Blob Storage, this hierarchical structure for objects retains its [[Scalability]] and delivers better throughput and IOPS and faster operations at individual notes.
 >
 > **[1:42](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=102)** For example, in the structure, if I were to rename app two to HR app, this is one transaction and does not require alteration to all of the underlying blobs.
 >
-> **[1:55](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=115)** With a hierarchical namespace, security can now be applied at the container, directory, and blob level with Azure Active Directory.
+> **[1:55](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=115)** With a hierarchical namespace, security can now be applied at the container, directory, and blob level with [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[2:04](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=124)** Transaction costs are slightly higher for a hierarchical namespace, and a key consideration is you cannot revert back to a flat namespace once this is enabled.
 >
@@ -1013,38 +1002,37 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=151)** You may not need to rename virtual directories on mass scale for your applications and you don't require fine-grain security for the blob level.
 >
-> **[2:40](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=160)** The answer is big data analytics.
+> **[2:40](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=160)** The answer is [[Big Data Analytics]].
 >
 > **[2:45](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=165)** By selecting hierarchical namespace for Azure Blob Storage, the service can also be known as Azure Data Lake Storage Gen2 or ADLS Gen2 for short where a data lake is a centralized storage of structured and unstructured files, which is transferred in using one or more tools.
 >
-> **[3:05](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=185)** The hierarchical namespace also enables Hadoop compatible access through the Hadoop Distributed File System where Hadoop is a distributed computing system capable of processing massive amounts of data.
+> **[3:05](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=185)** The hierarchical namespace also enables [[Hadoop]] compatible access through the Hadoop Distributed File System where Hadoop is a distributed computing system capable of processing massive amounts of data.
 >
-> **[3:18](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=198)** In Azure, HDInsight is a Hadoop cluster which is capable of batch processing massive amounts of data using a tool such as Hive in Hadoop cluster and Azure Databricks also uses the Hadoop Distributed File System to connect to Azure Data Lake storage.
+> **[3:18](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=198)** In Azure, HDInsight is a Hadoop cluster which is capable of [[Batch Processing]] massive amounts of data using a tool such as Hive in Hadoop cluster and [[Azure Databricks]] also uses the Hadoop Distributed File System to connect to Azure Data Lake storage.
 >
 > **[3:36](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=216)** It is tools like Hive and Spark which run inside HDInsight and Azure Databricks that require the hierarchical namespace as they often write output to temporary locations and then rename the location at the conclusion of a job.
 >
-> **[3:52](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=232)** Visualization tools such as Power BI can also use the interactive querying features of engines such as Hive to query over massive amounts of data.
+> **[3:52](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs?u=76281980&t=232)** Visualization tools such as [[Microsoft Power BI|Power BI]] can also use the interactive querying features of engines such as Hive to query over massive amounts of data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Azure|Azure]] (6), [[Hadoop]] (6), feature (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Hadoop]] (6), [[Azure Databricks]] (2), [[Scalability]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** iops (1), adls (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hierarchical namespace and SFTP for blobs in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980)
+#### [Hierarchical namespace and SFTP for blobs in practice](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=0)** - [Instructor] Switching into the Azure Portal, when creating a storage account in the portal, the hierarchical namespace checkbox is on the Advanced tab if I scroll down a little bit.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=0)** - [Instructor] Switching into the [[Microsoft Azure|Azure]] Portal, when creating a storage account in the portal, the hierarchical namespace checkbox is on the Advanced tab if I scroll down a little bit.
 >
 > **[0:11](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=11)** Clicking the checkbox enables two more features which depend on the hierarchical namespace, the network file system, or NFS, and SFTP.
 >
-> **[0:22](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=22)** NFS v3 provides Linux file system compatibility, enabling Linux clients to mount the container into a VM.
+> **[0:22](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=22)** NFS v3 provides [[Linux]] file system compatibility, enabling Linux clients to mount the container into a VM.
 >
-> **[0:30](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=30)** This feature allows access for legacy applications that cannot access storage through REST APIs, and is highly suited to high throughput, high scale, and read heavy workloads.
+> **[0:30](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=30)** This feature allows access for legacy applications that cannot access storage through [[Representational State Transfer (REST)|REST]] APIs, and is highly suited to high throughput, high scale, and read heavy workloads.
 >
 > **[0:42](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=42)** Ticking Enable SFTP enables the SSH File Transfer Protocol for this account.
 >
@@ -1066,7 +1054,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=103)** Now that the structure is ready, I need to go back to my storage account and set up SFTP.
 >
-> **[1:54](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=114)** We need to create local users in the SFTP settings blade as SFTP does not support Azure AD authentication or authorization.
+> **[1:54](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=114)** We need to create local users in the SFTP settings blade as SFTP does not support [[Microsoft Entra ID|Azure AD]] authentication or authorization.
 >
 > **[2:05](https://www.linkedin.com/learning/manage-storage-in-azure/hierarchical-namespace-and-sftp-for-blobs-in-practice?u=76281980&t=125)** A local user requires a username and then a password.
 >
@@ -1122,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Linux]] (2), next (2), data (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **Env Vars:** sftp (7), ssh (4), nfs (2), rest (1)
 > **UI Navigation:** checkbox (2), scroll down (1), go to (1), click on (1)
 > **CLI Commands:** ssh (4)
@@ -1136,14 +1124,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### High availability and durability for Azure Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980)
+#### [High availability and durability for Azure Storage](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=0)** - [Instructor] When building systems that require persistence of data, it is critical that the data is in an immediately accessible state.
 >
-> **[0:08](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=8)** Unfortunately, hardware can fail, software can glitch, and data can become corrupted.
+> **[0:08](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=8)** Unfortunately, [[Hardware]] can fail, software can glitch, and data can become corrupted.
 >
 > **[0:14](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=14)** Each of these issues will affect data accessibility.
 >
@@ -1151,7 +1138,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=28)** Where durability is the protection of data against loss, degradation, and data decay, and availability is whether the storage is accessible.
 >
-> **[0:40](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=40)** These objectives are both measured as a percentage, but are calculated differently with durability being a combination of the probability of data loss per year and the time taken to recover from that loss of data per year, and availability as the percentage of uptime over local time in a year.
+> **[0:40](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=40)** These objectives are both measured as a percentage, but are calculated differently with durability being a combination of the [[Probability]] of data loss per year and the time taken to recover from that loss of data per year, and availability as the percentage of uptime over local time in a year.
 >
 > **[1:01](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=61)** Both are expressed as nines, where five nines would be 99.999%.
 >
@@ -1161,7 +1148,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=87)** Storage redundancy is used to ensure that availability and durability objectives are met by keeping multiple copies of data.
 >
-> **[1:35](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=95)** In Azure Storage, at least three copies of data are always kept within a region.
+> **[1:35](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=95)** In [[Microsoft Azure|Azure]] Storage, at least three copies of data are always kept within a region.
 >
 > **[1:41](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=101)** Azure has multiple regions each geographically separate, such as West US, East US, or Southeast Asia.
 >
@@ -1203,7 +1190,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=257)** To access the read endpoint on the secondary, a suffix of -secondary is required.
 >
-> **[4:22](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=262)** So, must be taken into consideration if building for application resiliency using the read endpoint.
+> **[4:22](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=262)** So, must be taken into consideration if building for application [[Resiliency]] using the read endpoint.
 >
 > **[4:29](https://www.linkedin.com/learning/manage-storage-in-azure/high-availability-and-durability-for-azure-storage?u=76281980&t=269)** Another consideration is the use of last sync time for objects replicated to the secondary.
 >
@@ -1239,7 +1226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Microsoft Azure|Azure]] (3), application (2), [[Hardware]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Hardware]] (1), [[Probability]] (1), [[Resiliency]] (1)
 > **Env Vars:** lrs (3), zrs (3), grs (3), gzrs (1), sla (1)
 > **Definitions:** is a  (3), known as (1)
 > **Versions:** 99.999 (1), 42.6 (1), 99.99 (1)
@@ -1248,12 +1235,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Backing up Azure file shares and operational backup for blobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-operational-backup-for-blobs?u=76281980)
+#### [Backing up Azure file shares and operational backup for blobs](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-operational-backup-for-blobs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-operational-backup-for-blobs?u=76281980&t=0)** - [Instructor] Azure Storage redundancy provides resiliency against hardware, software, data center, and regional outages, but it doesn't protect the individual files and objects in an account from accidental deletion or corruption.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-operational-backup-for-blobs?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Storage redundancy provides [[Resiliency]] against [[Hardware]], software, data center, and regional outages, but it doesn't protect the individual files and objects in an account from accidental deletion or corruption.
 >
 > **[0:14](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-operational-backup-for-blobs?u=76281980&t=14)** For this, a point-in-time restore mechanism is required so that data can be recovered from a point in time where a previous version existed before the deletion or corruption took place.
 >
@@ -1287,18 +1273,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (3), management (2), [[Resiliency]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Resiliency]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Backing up Azure file shares and blobs demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980)
+#### [Backing up Azure file shares and blobs demo](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=0)** - [Instructor] I've switched to the portal to show how to set up Azure file share backup.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=0)** - [Instructor] I've switched to the portal to show how to set up [[Microsoft Azure|Azure]] file share backup.
 >
 > **[0:04](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=4)** This storage account has a file share called files backup and within it two directories, one with a picture and one with a work document.
 >
@@ -1406,13 +1391,13 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=398)** Validation is now successful so I can click next and choose to configure the backup.
 >
-> **[6:45](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=405)** The backup job is now configured and I can see all the backup jobs by entering backup jobs on the left hand side and I need to change the data source type because I don't have any Azure virtual machines being backed up.
+> **[6:45](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=405)** The backup job is now configured and I can see all the backup jobs by entering backup jobs on the left hand side and I need to change the data source type because I don't have any Azure [[Virtual Machines]] being backed up.
 >
 > **[6:59](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=419)** So I can look at files and I can see the files backup that I set up earlier.
 >
 > **[7:06](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=426)** There are of course limitations to both of these backups such as operational blob backup can only be enabled on general purpose V2 storage accounts.
 >
-> **[7:16](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=436)** To review these limitations, follow the two Microsoft Learn document links that are displayed now.
+> **[7:16](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=436)** To review these limitations, follow the two [[Microsoft]] Learn document links that are displayed now.
 >
 > **[7:31](https://www.linkedin.com/learning/manage-storage-in-azure/backing-up-azure-file-shares-and-blobs-demo?u=76281980&t=451)** I've now left the two backup configurations overnight and I'm back in the backup center and the overview page.
 >
@@ -1434,7 +1419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), next (5), data (4), [[Search]] (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Virtual Machines]] (1), [[Microsoft]] (1)
 > **UI Navigation:** dropdown (2), go to (2), select the (1)
 > **Prerequisites:** set up (3), configure (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1443,20 +1428,19 @@ created: 2026-05-02
 > **Analogies:** picture (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disaster recovery and failover
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980)
+#### [Disaster recovery and failover](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=0)** - [Instructor] If disaster strikes and a major unplanned outage occurs, your use case may require building in resiliency to withstand the outage.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=0)** - [Instructor] If disaster strikes and a major unplanned outage occurs, your use case may require building in [[Resiliency]] to withstand the outage.
 >
-> **[0:10](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=10)** To enable such resiliency in Azure Storage, Geo-Redundant Storage accounts support failover to the secondary region.
+> **[0:10](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=10)** To enable such resiliency in [[Microsoft Azure|Azure]] Storage, Geo-Redundant Storage accounts support failover to the secondary region.
 >
 > **[0:18](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=18)** If you recall from the first video in this chapter, Geo-Redundant Storage is asynchronously replicated from the primary to the secondary region, which can also have a read-only endpoint.
 >
 > **[0:32](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=32)** During operation of a Geo-Redundant account, should the primary endpoint become unavailable, the primary region is also possibly unavailable, and asynchronous replication will cease.
 >
-> **[0:47](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=47)** If a region is lost due to a major disaster or has been unavailable for a long period of time, then Microsoft may initiate failover, but customers can also initiate failover in the event of primary endpoint outage.
+> **[0:47](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=47)** If a region is lost due to a major disaster or has been unavailable for a long period of time, then [[Microsoft]] may initiate failover, but customers can also initiate failover in the event of primary endpoint outage.
 >
 > **[1:02](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=62)** Until failover is complete, no write access is available, but read access is available if the account was RA-GRS or RA-GZRS.
 >
@@ -1482,7 +1466,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=147)** This will give me an estimate for data loss after failover.
 >
-> **[2:31](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=151)** This value can be obtained using PowerShell or the Azure CLI.
+> **[2:31](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=151)** This value can be obtained using [[Powershell]] or the Azure [[CLI]].
 >
 > **[2:35](https://www.linkedin.com/learning/manage-storage-in-azure/disaster-recovery-and-failover?u=76281980&t=155)** So I'll open the Cloud Shell, and I'll copy in a command to do this.
 >
@@ -1510,7 +1494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Resiliency]] (2), data (2), [[CLI]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Resiliency]] (2), [[CLI]] (2), [[Microsoft]] (1), [[Powershell]] (1)
 > **Env Vars:** grs (3), cli (2), gzrs (1), dns (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Cross-References:** in the next (1)
@@ -1519,16 +1503,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Object replication for blob data
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980)
+#### [Object replication for blob data](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=0)** - [Instructor] Geo redundancy for a storage account enables resiliency of data for a regional pair.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=0)** - [Instructor] Geo redundancy for a storage account enables [[Resiliency]] of data for a regional pair.
 >
 > **[0:06](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=6)** But what if you have a use case that requires replication of data beyond regional pairing or for purposes outside of failover?
 >
-> **[0:15](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=15)** Azure storage has object replication which is available for block blobs only.
+> **[0:15](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=15)** [[Microsoft Azure|Azure]] storage has object replication which is available for block blobs only.
 >
 > **[0:20](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=20)** Object replication allows block blobs from one container to be asynchronously replicated to another region.
 >
@@ -1562,7 +1545,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=140)** Let's have a look at the source data.
 >
-> **[2:24](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=144)** Entering the containers for the source storage account we can see there are two JSON and text.
+> **[2:24](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=144)** Entering the containers for the source storage account we can see there are two [[JSON]] and text.
 >
 > **[2:32](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=152)** I'm going to replicate JSON to the same region and text to East Asia.
 >
@@ -1570,7 +1553,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=165)** I'm going to use these virtual directories to filter the blobs to be replicated.
 >
-> **[2:51](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=171)** To set up replication, we go back to the storage account and into object replication, which is under data management.
+> **[2:51](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=171)** To set up replication, we go back to the storage account and into object replication, which is under [[Data Management]].
 >
 > **[2:59](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=179)** Firstly, I'd like to look at advanced settings.
 >
@@ -1628,7 +1611,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=382)** At the source account that I just created the object replication policy ID is shown as complete so the blob should now be there.
 >
-> **[6:31](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=391)** So if I return to the target container and into our cross region virtual directory the LinkedIn logo blob file is present.
+> **[6:31](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=391)** So if I return to the target container and into our cross region virtual directory the [[LinkedIn]] logo blob file is present.
 >
 > **[6:46](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=406)** The replication status of a blob is a key property when working with object replication for blobs as there is currently no SLA on how long it would take to replicate to the destination account.
 >
@@ -1636,11 +1619,11 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=424)** We've now explored redundancy, backup, and disaster recovery in this chapter.
 >
-> **[7:09](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=429)** Come and join me in the next chapter on how to manage networking for storage, and also for how to create storage using infrastructure as code.
+> **[7:09](https://www.linkedin.com/learning/manage-storage-in-azure/object-replication-for-blob-data?u=76281980&t=429)** Come and join me in the next chapter on how to manage networking for storage, and also for how to create storage using [[Infrastructure as code (IaC)|infrastructure as code]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[JSON]] (5), [[Microsoft Azure|Azure]] (2), [[Resiliency]] (1), management (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Microsoft Azure|Azure]] (2), [[Resiliency]] (1), [[Data Management]] (1), [[LinkedIn]] (1)
 > **Env Vars:** json (5), sla (1)
 > **Cross-References:** later in (1), go back to (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -1652,12 +1635,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storage account firewalls and virtual network access
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980)
+#### [Storage account firewalls and virtual network access](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=0)** - [Instructor] Azure Storage has multiple network configurations at the storage account level, ranging from public to private, the choice of which will depend on your application or system's scenarios.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Storage has multiple network configurations at the storage account level, ranging from public to private, the choice of which will depend on your application or system's scenarios.
 >
 > **[0:12](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=12)** For example, until this point in the course, all of the storage accounts that I have used in the demos have been set to be enabled from all networks.
 >
@@ -1669,7 +1651,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=59)** You can then start adding firewall rules, such as only allow IP address 217.26.25.32, which in the case of this diagram would block access from the virtual machine in Azure, along with the internet client, leaving just machines from the on-premises static IP able to hit the endpoint.
 >
-> **[1:21](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=81)** However, what if your virtual machines are in Azure and have no public internet access, or you don't want your traffic travelling over the internet?
+> **[1:21](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=81)** However, what if your [[Virtual Machines]] are in Azure and have no public internet access, or you don't want your traffic travelling over the internet?
 >
 > **[1:31](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=91)** In this scenario, you can enable traffic from a specific virtual network and subnet through a service endpoint.
 >
@@ -1717,7 +1699,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=286)** So, I'll click on the networking pane within the storage account, and I have to choose to add an existing virtual network, and I will choose the VNet which was Vnet-0301, and the subnet, which is Snet-0301, which is the subnet the virtual machine is attached to.
 >
-> **[5:12](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=312)** Clicking Enable, note that the portal has detected that the Microsoft. Storage Service endpoint needs to be enabled for this subnet.
+> **[5:12](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=312)** Clicking Enable, note that the portal has detected that the [[Microsoft]]. Storage Service endpoint needs to be enabled for this subnet.
 >
 > **[5:22](https://www.linkedin.com/learning/manage-storage-in-azure/storage-account-firewalls-and-virtual-network-access?u=76281980&t=322)** So, when I click to enable, the endpoint status switches to enabling, and this will make the subnet known to the service so that its traffic can be allowed through once added.
 >
@@ -1759,7 +1741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), traffic (4), hit (2), [[Microsoft]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Microsoft]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** url (3), rg0301 (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** such as (3), for example (1)
@@ -1768,14 +1750,13 @@ created: 2026-05-02
 > **Warnings:** note that (1), be careful (1)
 > **Prerequisites:** setup (1), configure (1)
 
-#### Private endpoints for Azure Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980)
+#### [Private endpoints for Azure Storage](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=0)** - [Instructor] When deploying a storage account through the portal or through infrastructure as code, the storage account will default to enabling a public endpoint.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=0)** - [Instructor] When deploying a storage account through the portal or through [[Infrastructure as code (IaC)|infrastructure as code]], the storage account will default to enabling a public endpoint.
 >
-> **[0:09](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=9)** As we saw in the previous video, access to data can be secured over the Azure backbone by enabling a service endpoint and disabling access to IP addresses external to Azure.
+> **[0:09](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=9)** As we saw in the previous video, access to data can be secured over the [[Microsoft Azure|Azure]] backbone by enabling a service endpoint and disabling access to IP addresses external to Azure.
 >
 > **[0:21](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=21)** However, the storage account endpoint is still exposed to the internet.
 >
@@ -1785,7 +1766,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=35)** Here is a diagram of the same resources shown previously.
 >
-> **[0:39](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=39)** By adding a private link to the virtual network, Azure PaaS services such as Azure Storage can be accessed through a private endpoint.
+> **[0:39](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=39)** By adding a private link to the virtual network, Azure [[PaaS]] services such as Azure Storage can be accessed through a private endpoint.
 >
 > **[0:49](https://www.linkedin.com/learning/manage-storage-in-azure/private-endpoints-for-azure-storage?u=76281980&t=49)** Therefore, traffic between resources in the VNet and the storage account travel via the private link o n the Azure backbone, removing any exposure to the internet.
 >
@@ -1839,7 +1820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (9), [[Microsoft Azure|Azure]] (5), data (3), next (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[PaaS]] (1)
 > **Env Vars:** dns (9), nic (2), url (1), vpn (1), cname (1)
 > **Cross-References:** as we saw (1), previous video (1), in the next (1)
 > **UI Navigation:** dropdown (1), go to (1)
@@ -1847,12 +1828,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and manage a storage account with Azure PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980)
+#### [Create and manage a storage account with Azure PowerShell](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=0)** - [Presenter] Working with resources in Azure through the portal is intuitive and a great way to start when learning.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=0)** - [Presenter] Working with resources in [[Microsoft Azure|Azure]] through the portal is intuitive and a great way to start when learning.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=7)** But when starting to work hands-on with Azure every day, it can quickly become apparent that using the portal is not the most efficient method of managing resources.
 >
@@ -1866,9 +1846,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=45)** The key factor here is automation reduces human error and therefore saves time and money.
 >
-> **[0:52](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=52)** PowerShell is Microsoft's task automation solution and Azure PowerShell is a set of commandlets that are used for managing Azure resources.
+> **[0:52](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=52)** [[Powershell]] is [[Microsoft]]'s task automation solution and Azure PowerShell is a set of commandlets that are used for managing Azure resources.
 >
-> **[1:03](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=63)** Azure PowerShell works on Windows, macOS and Linux and can be authenticated using multiple methods such as interactive browser based login, service principles and managed identity when executed from compute based in Azure.
+> **[1:03](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=63)** Azure PowerShell works on [[Windows]], macOS and [[Linux]] and can be authenticated using multiple methods such as interactive browser based login, service principles and managed identity when executed from compute based in Azure.
 >
 > **[1:21](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=81)** The command that's in Azure PowerShell call the Azure API with each Azure service usually having its own module.
 >
@@ -1886,7 +1866,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=131)** The cloud shell comes with multiple tools already installed.
 >
-> **[2:15](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=135)** For example, Git for version control or Ansible
+> **[2:15](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=135)** For example, [[Git]] for [[Version Control]] or [[Ansible]]
 >
 > **[2:26](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=146)** which is a configuration tool.
 >
@@ -1932,7 +1912,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=313)** And now I can use these variables as part of my new AZ resource group command to create my resource group.
 >
-> **[5:22](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=322)** Now the output that is returned is a formatted version of the JS packet returned by the Azure rest API.
+> **[5:22](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=322)** Now the output that is returned is a formatted version of the JS packet returned by the Azure [[Representational State Transfer (REST)|rest]] API.
 >
 > **[5:28](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-azure-powershell?u=76281980&t=328)** The provisioning state, which is listed here, is succeeded.
 >
@@ -2002,7 +1982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), [[Powershell]] (9), cloud (8), api (3), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), [[Powershell]] (9), [[Windows]] (2), [[Linux]] (2), [[Microsoft]] (1)
 > **Tools:** powershell (9), azure portal (2), terminal (2), command line (1), bash (1)
 > **CLI Commands:** az (9), docker (2), git (1), ansible (1), make (1)
 > **Definitions:** is a  (8)
@@ -2011,17 +1991,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (2), you'll need (1)
 > **Cross-References:** in the next (2)
 
-#### Executing Azure PowerShell in scripts with the Cloud Shell code editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/executing-azure-powershell-in-scripts-with-the-cloud-shell-code-editor?u=76281980)
+#### [Executing Azure PowerShell in scripts with the Cloud Shell code editor](https://www.linkedin.com/learning/manage-storage-in-azure/executing-azure-powershell-in-scripts-with-the-cloud-shell-code-editor?u=76281980)
 
-#### Create and manage a storage account with the Azure CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980)
+#### [Create and manage a storage account with the Azure CLI](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=0)** - [Instructor] A second command line language is available to manage resources in Azure, the Azure Command Line Interface or Azure CLI.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=0)** - [Instructor] A second command line language is available to manage resources in [[Microsoft Azure|Azure]], the Azure Command Line Interface or Azure [[CLI]].
 >
-> **[0:09](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=9)** The structure of a command in Azure CLI differs from that of PowerShell, which has a very specific verb-noun structure.
+> **[0:09](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=9)** The structure of a command in Azure CLI differs from that of [[Powershell]], which has a very specific verb-noun structure.
 >
 > **[0:18](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=18)** The CLI commands are split into five parts.
 >
@@ -2041,13 +2019,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=59)** I've switched back to the portal and I've already entered the cloud shell, so that I can start working with Azure CLI.
 >
-> **[1:06](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=66)** But this time I'm going to switch to the bash shell, which is a Linux or Unix shell.
+> **[1:06](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=66)** But this time I'm going to switch to the bash shell, which is a [[Linux]] or Unix shell.
 >
 > **[1:11](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=71)** And I can do this by choosing bash here on the left.
 >
 > **[1:15](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=75)** The cloud shell reloads and mounts my cloud file share drive, the same drive that was mounted to PowerShell in the last video.
 >
-> **[1:25](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=85)** Which is why, if I list the directories, my repro from my GitHub repository is still present.
+> **[1:25](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=85)** Which is why, if I list the directories, my repro from my [[GitHub]] repository is still present.
 >
 > **[1:35](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=95)** Help with the Azure CLI commands is using the --help command.
 >
@@ -2069,9 +2047,9 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=149)** So, there's the resource group name and the location.
 >
-> **[2:34](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=154)** And hitting return the group is created, and a JSON response is returned showing the resources properties along with the provision state of succeeded.
+> **[2:34](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=154)** And hitting return the group is created, and a [[JSON]] response is returned showing the resources properties along with the provision state of succeeded.
 >
-> **[2:45](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=165)** If you are searching for a command, the Azure CLI contains an AI knowledge base of commands which use the word find.
+> **[2:45](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=165)** If you are searching for a command, the Azure CLI contains an AI knowledge base of commands which use the [[Microsoft Word|word]] find.
 >
 > **[2:54](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=174)** For example, I can try and find AZ storage.
 >
@@ -2127,9 +2105,9 @@ created: 2026-05-02
 >
 > **[6:40](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=400)** So, when should you use the Azure CLI and when should you use PowerShell?
 >
-> **[6:45](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=405)** Although both run on Windows, Mac and Linux, there are some differences, such as shell support as shown in this table, that may sway your choice.
+> **[6:45](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=405)** Although both run on [[Windows]], Mac and Linux, there are some differences, such as shell support as shown in this table, that may sway your choice.
 >
-> **[6:55](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=415)** But Microsoft's recommendation says, it's up to you.
+> **[6:55](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=415)** But [[Microsoft]]'s recommendation says, it's up to you.
 >
 > **[6:59](https://www.linkedin.com/learning/manage-storage-in-azure/create-and-manage-a-storage-account-with-the-azure-cli?u=76281980&t=419)** You should take your experience into account.
 >
@@ -2137,7 +2115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[CLI]] (14), [[Powershell]] (8), cloud (3), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[CLI]] (14), [[Powershell]] (8), [[Linux]] (2), [[GitHub]] (2)
 > **Env Vars:** cli (14), json (2), sa0304azcli (1), rg0304 (1), sku (1)
 > **Tools:** powershell (8), bash (4), command line (3), github (2)
 > **CLI Commands:** az (8), find (2), make (1), cat (1)
@@ -2146,18 +2124,17 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), scroll up (1)
 > **Definitions:** is a  (1), is an  (1)
 
-#### Deploy infrastructure for Azure Storage using Azure Bicep
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep?u=76281980)
+#### [Deploy infrastructure for Azure Storage using Azure Bicep](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep?u=76281980&t=0)** - [Instructor] One of the key features of cloud deployments is the ability to deploy a complete infrastructure using code.
 >
-> **[0:07](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep?u=76281980&t=7)** This is also known as infrastructure as code or IAC for short.
+> **[0:07](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep?u=76281980&t=7)** This is also known as [[Infrastructure as code (IaC)|infrastructure as code]] or IAC for short.
 >
-> **[0:14](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep?u=76281980&t=14)** In Azure, this is possible due to the Azure Resource Manager which enables requests to be passed to Azure Services through a single API, regardless of the type of requester as shown in this image from the Microsoft documentation.
+> **[0:14](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep?u=76281980&t=14)** In [[Microsoft Azure|Azure]], this is possible due to the Azure Resource Manager which enables requests to be passed to Azure Services through a single API, regardless of the type of requester as shown in this image from the [[Microsoft]] documentation.
 >
-> **[0:30](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep?u=76281980&t=30)** The Azure Resource Manager can also take ARM templates to create a resource or multiple resources where an ARM template describes the desired outcome of the resources in a JSON format.
+> **[0:30](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep?u=76281980&t=30)** The Azure Resource Manager can also take ARM templates to create a resource or multiple resources where an ARM template describes the desired outcome of the resources in a [[JSON]] format.
 >
 > **[0:43](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep?u=76281980&t=43)** For example, if I access this storage account and scroll down on the left hand side and under automation choose to export a template.
 >
@@ -2195,7 +2172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Infrastructure as code (IaC)|Infrastructure as code]] (5), [[JSON]] (2), cloud (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Infrastructure as code (IaC)|Infrastructure as code]] (5), [[JSON]] (2), [[Microsoft]] (1)
 > **Env Vars:** arm (5), json (2), iac (1), api (1), sku (1)
 > **Exercise Files:** template (9)
 > **Definitions:** known as (3), is an  (1)
@@ -2204,8 +2181,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### Deploy infrastructure for Azure Storage using Azure Bicep demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980)
+#### [Deploy infrastructure for Azure Storage using Azure Bicep demo](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2217,7 +2193,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=11)** The icon of four squares on the left opens the list of available extensions.
 >
-> **[0:17](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=17)** I will search for bicep, and install the extension, which is supplied from Microsoft, closing the extension description, and going to the file view.
+> **[0:17](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=17)** I will search for bicep, and install the extension, which is supplied from [[Microsoft]], closing the extension description, and going to the file view.
 >
 > **[0:30](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=30)** Now, if I create a file, which this file, I'll call demolive.bicep.
 >
@@ -2237,7 +2213,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=90)** Next, is the API version I'd like to use.
 >
-> **[1:32](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=92)** I'm going to take the latest, but others are provided to try and ensure breaking changes to the APIs don't stop the infrastructure as code from working.
+> **[1:32](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=92)** I'm going to take the latest, but others are provided to try and ensure breaking changes to the APIs don't stop the [[Infrastructure as code (IaC)|infrastructure as code]] from working.
 >
 > **[1:44](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=104)** Typing the space bar once more, I have the choice of setting a definition for a resource or selecting an existing resource.
 >
@@ -2267,7 +2243,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=203)** This is now ready to deploy at the default scope of resource group.
 >
-> **[3:27](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=207)** So saving the file, and switching into the Terminal, I'm going to use an Azure CLI command to deploy this bicep file, and I've got a copy of the command in my notes and I'll paste it in.
+> **[3:27](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=207)** So saving the file, and switching into the Terminal, I'm going to use an [[Microsoft Azure|Azure]] [[CLI]] command to deploy this bicep file, and I've got a copy of the command in my notes and I'll paste it in.
 >
 > **[3:43](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=223)** I'll just change that to a little a.
 >
@@ -2283,7 +2259,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=263)** This is compiled successfully and the deployment is now running.
 >
-> **[4:29](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=269)** The storageAccount has deployed, and scrolling up, we can see the JSON representation of the storageAccount deployment.
+> **[4:29](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=269)** The storageAccount has deployed, and scrolling up, we can see the [[JSON]] representation of the storageAccount deployment.
 >
 > **[4:41](https://www.linkedin.com/learning/manage-storage-in-azure/deploy-infrastructure-for-azure-storage-using-azure-bicep-demo?u=76281980&t=281)** Now, this is a nice example to start with, but the real power of bicep is deploying more complex deployments with multiple interlinked resources.
 >
@@ -2327,7 +2303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), next (2), [[Search]] (1), [[Microsoft]] (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[CLI]] (1), [[JSON]] (1)
 > **Code Identifiers:** storageaccount (9), storageaccounts (1), resourcegroup (1), subnetid (1)
 > **Tools:** command line (2), visual studio (1), vs code (1), terminal (1)
 > **UI Navigation:** click on (1), open the (1), switch to (1), go to (1)
@@ -2341,12 +2317,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The control plane and the data plane
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980)
+#### [The control plane and the data plane](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980&t=0)** - [Instructor] When starting to work with Azure Storage for the very first time it can be really confusing why some operations are authorized and some are not.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980&t=0)** - [Instructor] When starting to work with [[Microsoft Azure|Azure]] Storage for the very first time it can be really confusing why some operations are authorized and some are not.
 >
 > **[0:10](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980&t=10)** For example, in the storage account, I have a container, and within this container is a single blob, which I can list and then using the three ellipses at the right hand side I can also view the blob.
 >
@@ -2368,7 +2343,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980&t=104)** It authenticates a request and then hands the request to the appropriate resource provider.
 >
-> **[1:50](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980&t=110)** In this case, Microsoft.Storage which carries out the request.
+> **[1:50](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980&t=110)** In this case, [[Microsoft]].Storage which carries out the request.
 >
 > **[1:56](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980&t=116)** If I want to interact with the data within a storage account the request must go to the appropriate endpoint for the resource.
 >
@@ -2410,11 +2385,11 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980&t=288)** All other services need authorization to access the operations at their instant specific endpoint.
 >
-> **[4:55](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980&t=295)** The rest of the videos in this chapter will look at the available ways to authorize data operations on those endpoints.
+> **[4:55](https://www.linkedin.com/learning/manage-storage-in-azure/the-control-plane-and-the-data-plane?u=76281980&t=295)** The [[Representational State Transfer (REST)|rest]] of the videos in this chapter will look at the available ways to authorize data operations on those endpoints.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), data (7), cloud (6), management (4), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** scroll up (1), go to (1), select the (1), switch to (1)
 > **CLI Commands:** az (3)
 > **Definitions:** is a  (2)
@@ -2423,8 +2398,7 @@ created: 2026-05-02
 > **Tools:** bash (1)
 > **Warnings:** note that (1)
 
-#### Authorize with shared keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980)
+#### [Authorize with shared keys](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2436,7 +2410,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=39)** This is something the portal did automatically and then use the key's permissions to access the data.
 >
-> **[0:47](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=47)** Access keys can be retrieved in the portal through the Access Keys menu or I can go into the Cloud Shell and use Azure CLI, or in this case, PowerShell.
+> **[0:47](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=47)** Access keys can be retrieved in the portal through the Access Keys menu or I can go into the Cloud Shell and use [[Microsoft Azure|Azure]] [[CLI]], or in this case, [[Powershell]].
 >
 > **[1:02](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=62)** I'll paste in a PowerShell command, and this command gets the storage account key for this storage account.
 >
@@ -2464,11 +2438,11 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=165)** The blob is now listed as deleted.
 >
-> **[2:48](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=168)** So if I go back to the portal and into the same container, there is no blob3.json file.
+> **[2:48](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=168)** So if I go back to the portal and into the same container, there is no blob3.[[JSON]] file.
 >
 > **[2:57](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=177)** We can also use keys within applications.
 >
-> **[3:00](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=180)** So if I enter the Cloud Shell once more and go into my repository (keyboard clacking) and open a code view, I'll just drag this up so it's a little bigger, I have the Python file within the folder for this video.
+> **[3:00](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=180)** So if I enter the Cloud Shell once more and go into my repository (keyboard clacking) and open a code view, I'll just drag this up so it's a little bigger, I have the [[Python (Programming Language)|Python]] file within the folder for this video.
 >
 > **[3:21](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-with-shared-keys?u=76281980&t=201)** Let's drag it up a little bit more.
 >
@@ -2576,7 +2550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Powershell]] (8), data (7), next (4), [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Powershell]] (8), [[Python (Programming Language)|Python]] (4), [[CLI]] (2), [[JSON]] (1)
 > **Tools:** powershell (8), command line (1)
 > **CLI Commands:** python (4), make (2)
 > **Cross-References:** previous video (1), go back to (1), earlier in (1), in the next (1)
@@ -2585,8 +2559,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), known as (1)
 > **Best Practices:** the key is (1), recommended (1)
 
-#### Authorize operations with Entra ID and Azure RBAC
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980)
+#### [Authorize operations with Entra ID and Azure RBAC](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2596,7 +2569,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=23)** The principle of least privilege is a best practice security recommendation to ensure that if an identity is compromised, then the blast radius and therefore impact of that breach is minimized.
 >
-> **[0:36](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=36)** In Azure, the principle of least privilege can be adhered to by utilizing Azure RBAC, or role-based access control which enables fine-grained access management to resources and data.
+> **[0:36](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=36)** In [[Microsoft Azure|Azure]], the principle of least privilege can be adhered to by utilizing Azure RBAC, or role-based access control which enables fine-grained access management to resources and data.
 >
 > **[0:49](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=49)** Azure RBAC is built on the Azure resource manager and uses role assignments to grant permissions.
 >
@@ -2612,7 +2585,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=108)** If you are not familiar with management groups they provide a method of managing access policies and compliance above the subscription level.
 >
-> **[1:57](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=117)** In fact, there is a root management group defined for all Azure AD tenants, which all management groups sit under.
+> **[1:57](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=117)** In fact, there is a root management group defined for all [[Microsoft Entra ID|Azure AD]] tenants, which all management groups sit under.
 >
 > **[2:06](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=126)** How you define the hierarchy you need using management groups is up to you.
 >
@@ -2646,7 +2619,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=250)** Here you can see owner grants no data actions which is why we cannot view the blobs within the containers or the blobs themselves.
 >
-> **[4:19](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=259)** Returning back to actions, if we search for access key and scroll down into the Microsoft.Storage provider the list storage account keys is one of the permissions granted to owner, which is why when access keys were enabled, we were able to use the portal to retrieve the key and view the blob data.
+> **[4:19](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=259)** Returning back to actions, if we search for access key and scroll down into the [[Microsoft]].Storage provider the list storage account keys is one of the permissions granted to owner, which is why when access keys were enabled, we were able to use the portal to retrieve the key and view the blob data.
 >
 > **[4:44](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=284)** Coming out of the my access view, we need to add a role to my identity so that we can view the blob data.
 >
@@ -2668,7 +2641,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=347)** At the control plane level this role allows retrieval of containers and at the data plane level, it allows blob read.
 >
-> **[5:56](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=356)** You can also view the JSON definition for a role definition by clicking JSON at the top as I just did.
+> **[5:56](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=356)** You can also view the [[JSON]] definition for a role definition by clicking JSON at the top as I just did.
 >
 > **[6:03](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=363)** Notice the actions and data actions have a definition of provider, resource type, and action.
 >
@@ -2700,11 +2673,11 @@ created: 2026-05-02
 >
 > **[7:44](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=464)** And if I try and edit the blob and click to save, well the portal actually hangs which may be a bug, but we cannot save changes as re permissions were granted and nothing more.
 >
-> **[7:59](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=479)** This is great for users and groups but what about that Python script we used in the previous video that was mimicking an application getting access to a storage account.
+> **[7:59](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=479)** This is great for users and groups but what about that [[Python (Programming Language)|Python]] script we used in the previous video that was mimicking an application getting access to a storage account.
 >
 > **[8:09](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=489)** If you recall with a slide on role assignments we can assign a role to an app registration.
 >
-> **[8:16](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=496)** I've already created an app registration in Azure AD, which was recently renamed to Microsoft Entra ID.
+> **[8:16](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=496)** I've already created an app registration in Azure AD, which was recently renamed to [[Microsoft Entra ID]].
 >
 > **[8:24](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-entra-id-and-azure-rbac?u=76281980&t=504)** We can see the app registration listed here and I've noted its client secret value along with the tenant ID and the application ID of this app registration.
 >
@@ -2744,7 +2717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Azure|Azure]] (11), management (7), [[Search]] (4), [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Python (Programming Language)|Python]] (4), [[JSON]] (3), [[Microsoft Entra ID|Azure ad]] (2), [[Microsoft]] (1)
 > **Env Vars:** rbac (4), json (3), iam (1)
 > **CLI Commands:** python (4)
 > **Cross-References:** previous video (1), in the next (1)
@@ -2753,12 +2726,11 @@ created: 2026-05-02
 > **Tools:** bash (1)
 > **Best Practices:** best practice (1)
 
-#### Authorize operations with Azure AD and Azure ABAC storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980)
+#### [Authorize operations with Azure AD and Azure ABAC storage](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=0)** - [Instructor] In the previous video, we explored how Azure role-based access control, or RBAC, enables fine-grained access to a storage account and its data, but there are scenarios where the granularity of access that is possible through RBAC doesn't quite go far enough.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=0)** - [Instructor] In the previous video, we explored how [[Microsoft Azure|Azure]] role-based access control, or RBAC, enables fine-grained access to a storage account and its data, but there are scenarios where the granularity of access that is possible through RBAC doesn't quite go far enough.
 >
 > **[0:18](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=18)** For example, in this scenario, the storage account, itopslogging, stores logs for the IT operations team.
 >
@@ -2776,7 +2748,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=88)** ABAC extends the RABC functionality with conditions on specific actions, enabling fine-grained access to resources and reducing the number of role assignments, as the principal itself can become part of the check.
 >
-> **[1:44](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=104)** The controls can be expressed in terms of projects, organizational units, or data classification levels through attributes such as tags, enabling access rules that will match the meaning for a business.
+> **[1:44](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=104)** The controls can be expressed in terms of projects, organizational units, or [[Data Classification]] levels through attributes such as tags, enabling access rules that will match the meaning for a business.
 >
 > **[1:58](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=118)** Azure ABAC is evolving.
 >
@@ -2788,7 +2760,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=162)** So read is the action, the resource is the blob path of workstation, and level two support is the service principal.
 >
-> **[2:51](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=171)** Note, to use Service Pincipals, you need Microsoft Entra ID Premium.
+> **[2:51](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=171)** Note, to use Service Pincipals, you need [[Microsoft Entra ID]] Premium.
 >
 > **[2:59](https://www.linkedin.com/learning/manage-storage-in-azure/authorize-operations-with-azure-ad-and-azure-abac-storage?u=76281980&t=179)** Now let's have a look how we can set up Azure ABAC in the portal.
 >
@@ -2844,7 +2816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), data (5), next (3), [[Microsoft Entra ID]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Entra ID]] (2), [[Data Classification]] (1)
 > **Env Vars:** abac (7), rbac (4), rabc (1)
 > **Prerequisites:** set up (3), setup (1)
 > **Cross-References:** previous video (1), in the next (1)
@@ -2852,18 +2824,17 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing storage account data from other Azure services
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980)
+#### [Accessing storage account data from other Azure services](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=0)** - [Presenter] There are many paths and IAS services in Azure that could be required to access data in your storage accounts.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=0)** - [Presenter] There are many paths and IAS services in [[Microsoft Azure|Azure]] that could be required to access data in your storage accounts.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=7)** But how can you ensure that these services get the access they require whilst minimizing your administrative overhead?
 >
 > **[0:16](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=16)** So far, we've mainly been accessing the data endpoints with a logged in user who has authenticated into the portal or the Azure Storage Explorer.
 >
-> **[0:25](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=25)** But what if your solution requires access from web apps or function apps, virtual machines, container-based services or even ingestion into a data pipeline?
+> **[0:25](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=25)** But what if your solution requires access from web apps or function apps, [[Virtual Machines]], container-based services or even ingestion into a data pipeline?
 >
 > **[0:37](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=37)** It is possible that none of these services will use a logged in user's credentials to access data.
 >
@@ -2871,7 +2842,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=46)** We've already seen the first piece of the puzzle when looking at Azure RBAC.
 >
-> **[0:51](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=51)** A Python script was executed in Cloud Shell with a credential from an app registration with a client secret.
+> **[0:51](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=51)** A [[Python (Programming Language)|Python]] script was executed in Cloud Shell with a credential from an app registration with a client secret.
 >
 > **[0:58](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=58)** We don't have to worry about securing a password in this case, but the values that make up the service principle with a secret should be protected.
 >
@@ -2881,7 +2852,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=76)** This management of secrets and credentials is a common problem for administrators and developers.
 >
-> **[1:23](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=83)** This issue can be addressed by using managed identities where the credentials are automatically managed for you in Microsoft Entra ID, you don't even have access to them.
+> **[1:23](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=83)** This issue can be addressed by using managed identities where the credentials are automatically managed for you in [[Microsoft Entra ID]], you don't even have access to them.
 >
 > **[1:35](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=95)** In Azure, there are two types of managed identities, system assigned and user assigned.
 >
@@ -2897,7 +2868,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=132)** RBAC roles can be assigned to managed identities, enabling the underlying resource to be granted access to work with the storage accounts and any other supported service.
 >
-> **[2:26](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=146)** This is a page from the Microsoft documentation and it lists the services that support managed identities for Azure Resources.
+> **[2:26](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=146)** This is a page from the [[Microsoft]] documentation and it lists the services that support managed identities for Azure Resources.
 >
 > **[2:33](https://www.linkedin.com/learning/manage-storage-in-azure/accessing-storage-account-data-from-other-azure-services?u=76281980&t=153)** You can view the docs page at the address shown on the screen.
 >
@@ -2965,7 +2936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Azure|Azure]] (6), [[Python (Programming Language)|Python]] (4), web (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Python (Programming Language)|Python]] (4), [[Virtual Machines]] (1), [[Microsoft Entra ID]] (1), [[Microsoft]] (1)
 > **Env Vars:** rbac (2), url (2), ias (1), sao405 (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -2974,12 +2945,11 @@ created: 2026-05-02
 > **File Paths:** editblobsidentity.py (1)
 > **Documentation:** the docs (1)
 
-#### Enable passwordless Entra ID–based access to Azure Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980)
+#### [Enable passwordless Entra ID–based access to Azure Storage](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980&t=0)** - [Instructor] In this chapter so far, we have looked at how each of the following can be granted access to data: Azure Resources, which can have a managed identity; Azure Resources or Non-Azure Resources which cannot have a managed identity; and users through a browser, IDE, or command line.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980&t=0)** - [Instructor] In this chapter so far, we have looked at how each of the following can be granted access to data: [[Microsoft Azure|Azure]] Resources, which can have a managed identity; Azure Resources or Non-Azure Resources which cannot have a managed identity; and users through a browser, IDE, or command line.
 >
 > **[0:19](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980&t=19)** In each of these scenarios where application code may need to be run, it has been seen that a different SDK credential type may be needed for each scenario, and this means three versions of application code for the same job.
 >
@@ -2999,7 +2969,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980&t=99)** I'm back in our demo environment and back logged into the virtual machine so that we can see this in action in our demo setup.
 >
-> **[1:48](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980&t=108)** I have the second Python script from the 04_05 folder.
+> **[1:48](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980&t=108)** I have the second [[Python (Programming Language)|Python]] script from the 04_05 folder.
 >
 > **[1:53](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980&t=113)** And this time, we're using the credential type of default Azure Credential.
 >
@@ -3027,11 +2997,11 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980&t=243)** So that's all for managed identities and passwordless connections in this video.
 >
-> **[4:08](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980&t=248)** Join me in the next one where we're going to take a look at SaaS tokens.
+> **[4:08](https://www.linkedin.com/learning/manage-storage-in-azure/enable-passwordless-entra-id-based-access-to-azure-storage?u=76281980&t=248)** Join me in the next one where we're going to take a look at [[SaaS]] [[Tokens]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), application (4), [[Python (Programming Language)|Python]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Python (Programming Language)|Python]] (2), [[SaaS]] (1), [[Tokens]] (1)
 > **CLI Commands:** python (2), az (2), find (1)
 > **Tools:** command line (2), visual studio (2), terminal (1)
 > **Env Vars:** ide (2), sdk (1)
@@ -3040,12 +3010,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** picture (1)
 
-#### Shared access signatures and access delegation
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980)
+#### [Shared access signatures and access delegation](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=0)** - [Instructor] So far in this chapter, we have explored account key and Microsoft Entra ID based access to storage.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=0)** - [Instructor] So far in this chapter, we have explored account key and [[Microsoft Entra ID]] based access to storage.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=7)** There may be scenarios where account key based access poses too much of a risk, but access via Microsoft Entra ID permissions is not possible.
 >
@@ -3065,7 +3034,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=89)** This is a powerful feature enabling time bound access to resources, ensuring a client only receives access when specifically requested.
 >
-> **[1:39](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=99)** There are two forms of SAS: ad hoc where permissions and expiry are set at the point of SAS creation and stored access policies where permissions and expiry are chosen upfront and stored against a resource container with a resource container being a blob container, file share, table or queue.
+> **[1:39](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=99)** There are two [[Forms]] of SAS: ad hoc where permissions and expiry are set at the point of SAS creation and stored access policies where permissions and expiry are chosen upfront and stored against a resource container with a resource container being a blob container, file share, table or queue.
 >
 > **[2:00](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=120)** When a SAS is created using a stored access policy, it inherits the permissions and expiry of the policy.
 >
@@ -3077,7 +3046,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=158)** We'll use this scenario to see how a SAS works.
 >
-> **[2:43](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=163)** The client requests a SAS token from the provider which is likely to be compute in Azure running the client libraries.
+> **[2:43](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=163)** The client requests a SAS token from the provider which is likely to be compute in [[Microsoft Azure|Azure]] running the client libraries.
 >
 > **[2:51](https://www.linkedin.com/learning/manage-storage-in-azure/shared-access-signatures-and-access-delegation?u=76281980&t=171)** The SAS provider requests a user delegation key for a user delegated SAS token or the storage account key for an account or service SAS.
 >
@@ -3171,7 +3140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (7), [[Microsoft Azure|Azure]] (7), next (4), feature (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (7), [[Microsoft Azure|Azure]] (7), [[Forms]] (1)
 > **Env Vars:** sas (51), url (2), sku (2), rbac (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** recommended (1), the key is (1), best practice (1)
@@ -3185,22 +3154,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Azure File Sync
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980)
+#### [Setting up Azure File Sync](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=0)** - [Instructor] Azure Files enables file system storage within the cloud in Azure.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Files enables file system storage within the cloud in Azure.
 >
 > **[0:06](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=6)** But there are circumstances, particularly around business continuity, migration, and file centralization, where having a set of files on premises and in the cloud is beneficial.
 >
 > **[0:18](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=18)** This is where Azure File Sync comes in.
 >
-> **[0:21](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=21)** When installed on an on-premises Windows server, Azure File Sync creates a cache of local files with those in the cloud, therefore extending Azure File Storage functionality and creating a hybrid file service where clients can access the files which are stored both on premises and in the cloud.
+> **[0:21](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=21)** When installed on an on-premises [[Windows Server]], Azure File Sync creates a cache of local files with those in the cloud, therefore extending Azure File Storage functionality and creating a hybrid file service where clients can access the files which are stored both on premises and in the cloud.
 >
-> **[0:42](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=42)** This functionality is enabled by the Azure File Sync agent which is installed on the Windows file servers.
+> **[0:42](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=42)** This functionality is enabled by the Azure File Sync agent which is installed on the [[Windows]] file servers.
 >
-> **[0:49](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=49)** If this were to be managed in an enterprise architecture, it may look like this, with the Azure file share network traffic secured to a VNet.
+> **[0:49](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=49)** If this were to be managed in an [[Enterprise Architecture]], it may look like this, with the Azure file share network traffic secured to a VNet.
 >
 > **[1:00](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=60)** The on-premises file server would make a DNS query to the on-premises DNS server.
 >
@@ -3224,7 +3192,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=142)** Now, I've deployed all of the resources we're going to need for this demo, and this is the resource visualizer of the resource group that I've deployed them into.
 >
-> **[2:30](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=150)** Let's zoom in a little so we can see these a little better.
+> **[2:30](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=150)** Let's [[Zoom]] in a little so we can see these a little better.
 >
 > **[2:34](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=154)** Now, the deployment includes the virtual machine and the private DNS zone that we showed from the demo architecture, and these are at the top of the visualization, and we can see that the virtual machine is attached to vnet-vm-0501.
 >
@@ -3254,7 +3222,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=296)** I scroll to find shared access signature and I want a file service and I want to see containers and objects.
 >
-> **[5:05](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=305)** The rest I'll leave alone.
+> **[5:05](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=305)** The [[Representational State Transfer (REST)|rest]] I'll leave alone.
 >
 > **[5:07](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=307)** I'll grab my SAS token and I can paste it on the end of my URL, which is still in my virtual machine.
 >
@@ -3400,11 +3368,11 @@ created: 2026-05-02
 >
 > **[13:11](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=791)** So that's how to set up Azure File Sync and with the storage account and file sync service secured with (indistinct) endpoints.
 >
-> **[13:19](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=799)** In the next video, we're going to set up a file share mount to a Linux VM, so I'll see you there.
+> **[13:19](https://www.linkedin.com/learning/manage-storage-in-azure/setting-up-azure-file-sync?u=76281980&t=799)** In the next video, we're going to set up a file share mount to a [[Linux]] VM, so I'll see you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (23), dns (10), cloud (8), hit (4), [[Windows]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (23), [[Windows]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[Windows Server]] (2), [[Enterprise Architecture]] (1)
 > **Env Vars:** dns (10), url (4), sas (3), vpn (2)
 > **Prerequisites:** set up (11), setup (3), configure (1)
 > **UI Navigation:** open the (1), select the (1), click on (1)
@@ -3413,26 +3381,25 @@ created: 2026-05-02
 > **Best Practices:** recommended (2)
 > **Code Identifiers:** rgo501 (1)
 
-#### Mounting a file share to Windows Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980)
+#### [Mounting a file share to Windows Server](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=0)** - [Instructor] Using the Mount capabilities of an Azure file share opens up further ways to access your data from compute.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=0)** - [Instructor] Using the Mount capabilities of an [[Microsoft Azure|Azure]] file share opens up further ways to access your data from compute.
 >
-> **[0:08](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=8)** File shares can be mounted to many types of compute in Azure, including VMs, Azure App Service, and AKS or Azure Kubernetes Service Clusters.
+> **[0:08](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=8)** File shares can be mounted to many types of compute in Azure, including VMs, Azure App Service, and AKS or Azure [[Kubernetes]] Service Clusters.
 >
 > **[0:18](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=18)** A file share can be simultaneously mounted to multiple types of the same compute, and to ensure files are not overwritten at the same time Azure files provides the leases and locks functionality.
 >
 > **[0:31](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=31)** both the SMB and NFS protocols can be mounted and SMB requires port 445 to be open.
 >
-> **[0:40](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=40)** For the demo, the following resources have already been created and you can of course create these using the bicep files for this chapter from the GitHub repo.
+> **[0:40](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=40)** For the demo, the following resources have already been created and you can of course create these using the bicep files for this chapter from the [[GitHub]] repo.
 >
 > **[0:50](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=50)** in the demo, first of all, we're going to look at the file share that has been created and then switch to the window server to mount the share using a script.
 >
 > **[1:00](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=60)** Switching to the portal.
 >
-> **[1:02](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=62)** A note here, I am accessing the portal through the Windows VM, which is in the same VNAT as the private link to the storage account.
+> **[1:02](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=62)** A note here, I am accessing the portal through the [[Windows]] VM, which is in the same VNAT as the private link to the storage account.
 >
 > **[1:11](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=71)** And this is so I can access the file share in the portal otherwise I'll be blocked by the networking configuration.
 >
@@ -3446,9 +3413,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=105)** So this means that an SMB client of at least 3.0 is required on the server.
 >
-> **[1:51](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=111)** Now we can go to the Microsoft Docs to see the supported clients for each server version, and you can access this document by following the URL being shown on the screen now.
+> **[1:51](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=111)** Now we can go to the [[Microsoft]] Docs to see the supported clients for each server version, and you can access this document by following the URL being shown on the screen now.
 >
-> **[2:04](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=124)** Here we can see that Windows Server 2022 has SMB version 3.1.1 therefore it meets the requirement of SMB 3.0.
+> **[2:04](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=124)** Here we can see that [[Windows Server]] 2022 has SMB version 3.1.1 therefore it meets the requirement of SMB 3.0.
 >
 > **[2:16](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=136)** Go back to the portal.
 >
@@ -3458,13 +3425,13 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=148)** I can now choose how to authenticate.
 >
-> **[2:30](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=150)** The file share does not have identity-based authentication enabled through Active Directory Entera ID domain services previously known as Azure ADDS, or Entra ID Kerberos.
+> **[2:30](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=150)** The file share does not have identity-based authentication enabled through [[Active Directory]] Entera ID domain services previously known as Azure ADDS, or [[Microsoft Entra ID|Entra ID]] Kerberos.
 >
 > **[2:43](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=163)** Therefore, I'll stick with the storage account key.
 >
 > **[2:45](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=165)** But please note identity based authentication is the recommended method.
 >
-> **[2:50](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=170)** Clicking show script and scrolling down a little bit has displayed a PowerShell script that can be used to mount the drive.
+> **[2:50](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=170)** Clicking show script and scrolling down a little bit has displayed a [[Powershell]] script that can be used to mount the drive.
 >
 > **[3:00](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=180)** So we'll copy the script using the copy to clipboard, and open PowerShell and paste the script in.
 >
@@ -3496,11 +3463,11 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=318)** So that's how to mount an Azure file share to Windows server.
 >
-> **[5:21](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=321)** Join me in the next video where we'll look at the same routine, but for a Linux based machine.
+> **[5:21](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-windows-server?u=76281980&t=321)** Join me in the next video where we'll look at the same routine, but for a [[Linux]] based machine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Windows]] (5), [[Powershell]] (3), [[Windows Server]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Windows]] (5), [[Powershell]] (3), [[Windows Server]] (2), [[Kubernetes]] (1)
 > **Env Vars:** smb (5), aks (1), nfs (1), vnat (1), url (1)
 > **Versions:** 3.0 (2), version 3 (1), 1.1 (1)
 > **Tools:** powershell (3), github (1)
@@ -3509,14 +3476,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Exercise Files:** github repo (1), template (1)
 
-#### Mounting a file share to Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980)
+#### [Mounting a file share to Linux](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=0)** - [Instructor] There are two protocols that can be used to mount an Azure file share to a Linux system, SMB and NFS.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=0)** - [Instructor] There are two protocols that can be used to mount an [[Microsoft Azure|Azure]] file share to a [[Linux]] system, SMB and NFS.
 >
-> **[0:08](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=8)** You may have heard or read the phrase SMB for Windows, NFS for Linux, but why is that?
+> **[0:08](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=8)** You may have heard or read the phrase SMB for [[Windows]], NFS for Linux, but why is that?
 >
 > **[0:15](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=15)** Well, the first one is quite self-explanatory.
 >
@@ -3538,11 +3504,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=66)** But notice, the file share is now a premium file share, which is a requirement for an NFS mount.
 >
-> **[1:14](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=74)** This file share will be mounted to the Ubuntu server with the Windows server being used to access the portal and to SSH into the Ubuntu server as the security group on the subnet only allows for RDP.
+> **[1:14](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=74)** This file share will be mounted to the [[Ubuntu]] server with the [[Windows Server]] being used to access the portal and to SSH into the Ubuntu server as the security group on the subnet only allows for RDP.
 >
 > **[1:28](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=88)** I'm now RDP-ed into the Windows server shown in the demo architecture, and all of the architecture has already been deployed.
 >
-> **[1:36](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=96)** And you can also deploy this infrastructure using the Bicep files for folder 05_03 in the GitHub repository supplied with this course.
+> **[1:36](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=96)** And you can also deploy this infrastructure using the Bicep files for folder 05_03 in the [[GitHub]] repository supplied with this course.
 >
 > **[1:46](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=106)** The portal is open at the resource group the resources were deployed to.
 >
@@ -3556,7 +3522,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=136)** So, I'm going to need to know the private IP address of the Linux server, which is 10.0.0.4.
 >
-> **[2:24](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=144)** So, opening a PowerShell window, I'll SSH to the Linux box, which is at this IP address.
+> **[2:24](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=144)** So, opening a [[Powershell]] window, I'll SSH to the Linux box, which is at this IP address.
 >
 > **[2:35](https://www.linkedin.com/learning/manage-storage-in-azure/mounting-a-file-share-to-linux?u=76281980&t=155)** And admin0503 is the username.
 >
@@ -3666,7 +3632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (13), cd (5), [[Ubuntu]] (4), [[Security]] (3), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Linux]] (13), [[Ubuntu]] (4), [[Microsoft Azure|Azure]] (2), [[Windows Server]] (2), [[Windows]] (1)
 > **Env Vars:** nfs (13), ssh (4), smb (3), rdp (2)
 > **CLI Commands:** cd (5), ssh (4), make (1), sudo (1)
 > **Tools:** github (1), bash (1), powershell (1)
@@ -3680,20 +3646,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Encryption at rest and in transit
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980)
+#### [Encryption at rest and in transit](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980&t=0)** - [Instructor] Securing data with encryption protects the data from being viewed or altered by those who should not have access to the data.
 >
-> **[0:09](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980&t=9)** For Azure Storage, we are primarily concerned with encryption at rest, which is part of the defense to stop an attacker that may obtain a hard drive but not the keys to decrypt the data on it and therefore must break the defense of the encryption to read it.
+> **[0:09](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980&t=9)** For [[Microsoft Azure|Azure]] Storage, we are primarily concerned with encryption at [[Representational State Transfer (REST)|rest]], which is part of the defense to stop an attacker that may obtain a hard drive but not the keys to decrypt the data on it and therefore must break the defense of the encryption to read it.
 >
 > **[0:24](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980&t=24)** And also encryption in transit where data is intercepted when moving between devices and networks that has already been encrypted before transmission.
 >
 > **[0:35](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980&t=35)** For encryption at rest, there are a couple of options.
 >
-> **[0:39](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980&t=39)** For a client, which is writing to a storage account, by default, all data written to any endpoint in Azure Storage is encrypted with Storage Service Encryption, or SSE for short where a Microsoft-managed key is used to encrypt the data.
+> **[0:39](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980&t=39)** For a client, which is writing to a storage account, by default, all data written to any endpoint in Azure Storage is encrypted with Storage Service Encryption, or [[Server-Sent Events|SSE]] for short where a [[Microsoft]]-managed key is used to encrypt the data.
 >
 > **[0:55](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-and-in-transit?u=76281980&t=55)** This all happens without cost and without code changes.
 >
@@ -3733,18 +3698,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Server-Sent Events|Sse]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Server-Sent Events|Sse]] (1)
 > **Env Vars:** sse (1), https (1), tls (1)
 > **Definitions:** known as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encryption at rest, encryption scopes, and encryption in transit in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980)
+#### [Encryption at rest, encryption scopes, and encryption in transit in practice](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=0)** - [Instructor] We are now in the portal at the Resource Group for this walkthrough on encryption in Azure Storage.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=0)** - [Instructor] We are now in the portal at the Resource Group for this walkthrough on encryption in [[Microsoft Azure|Azure]] Storage.
 >
 > **[0:06](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=6)** In this key vault are some keys, one of which we would like to use for customer-managed encryption.
 >
@@ -3782,7 +3746,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=136)** Clicking Save, and Azure will apply the key.
 >
-> **[2:19](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=139)** It doesn't replace the Microsoft-managed key.
+> **[2:19](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=139)** It doesn't replace the [[Microsoft]]-managed key.
 >
 > **[2:22](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=142)** It uses the new key to encrypt the Microsoft-managed key.
 >
@@ -3812,7 +3776,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=232)** And clicking Create or the data created in the customer1 container will be encrypted with the key from the encryption scope.
 >
-> **[4:00](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=240)** And the rest of the data is going to be encrypted using the customer-managed key that we set up first.
+> **[4:00](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=240)** And the [[Representational State Transfer (REST)|rest]] of the data is going to be encrypted using the customer-managed key that we set up first.
 >
 > **[4:07](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=247)** This makes Encryption scopes a really powerful tool for securing data for multiple customers in one storage account.
 >
@@ -3824,7 +3788,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=269)** This controls where the HTTPS is required when accessing the storage account.
 >
-> **[4:35](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=275)** Note, although HTTPS is recommended, there are configurations for access from Linux-based clients and Azure files that require just HTTP access.
+> **[4:35](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=275)** Note, although HTTPS is recommended, there are configurations for access from [[Linux]]-based clients and Azure files that require just HTTP access.
 >
 > **[4:48](https://www.linkedin.com/learning/manage-storage-in-azure/encryption-at-rest-encryption-scopes-and-encryption-in-transit-in-practice?u=76281980&t=288)** Scrolling further down, you can choose the minimum TLS version for requests.
 >
@@ -3836,7 +3800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Azure|Azure]] (5), [[Microsoft]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Linux]] (1)
 > **Env Vars:** https (2), http (1), tls (1)
 > **Prerequisites:** set up (4)
 > **UI Navigation:** select the (2)
@@ -3845,8 +3809,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Soft delete and versioning for blobs, containers, and file shares
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980)
+#### [Soft delete and versioning for blobs, containers, and file shares](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3854,7 +3817,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=8)** And therefore, it's important to understand how to protect data from deletion.
 >
-> **[0:13](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=13)** This is where the features soft delete for blobs and files and versioning for blobs should be employed as recommended by Microsoft as part of a strategy to protect data from deletion.
+> **[0:13](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=13)** This is where the features soft delete for blobs and files and versioning for blobs should be employed as recommended by [[Microsoft]] as part of a strategy to protect data from deletion.
 >
 > **[0:25](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=25)** For example, here we are back in the portal and I've just realized that the storage account from my walkthrough has been deleted.
 >
@@ -3878,9 +3841,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=100)** And now this lock has been added.
 >
-> **[1:42](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=102)** A storage account cannot be deleted, whether that's through the portal, the command line, through an SDK or using infrastructure as code.
+> **[1:42](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=102)** A storage account cannot be deleted, whether that's through the portal, the command line, through an SDK or using [[Infrastructure as code (IaC)|infrastructure as code]].
 >
-> **[1:51](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=111)** Now scrolling up into the data management menu and into data protection, this storage account has no protection enabled.
+> **[1:51](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=111)** Now scrolling up into the [[Data Management]] menu and into data protection, this storage account has no protection enabled.
 >
 > **[2:01](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=121)** So if I go into a container and delete a blob, the blob is now gone.
 >
@@ -3904,7 +3867,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=200)** There's no deleted blob being shown.
 >
-> **[3:23](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=203)** But if I go into the properties and snapshots, Azure has created a soft deleted snapshot of the blob and it did that in the background at the point in time before the edit was saved.
+> **[3:23](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=203)** But if I go into the properties and snapshots, [[Microsoft Azure|Azure]] has created a soft deleted snapshot of the blob and it did that in the background at the point in time before the edit was saved.
 >
 > **[3:40](https://www.linkedin.com/learning/manage-storage-in-azure/soft-delete-and-versioning-for-blobs-containers-and-file-shares?u=76281980&t=220)** Now, soft delete for blobs only covers the blobs themselves.
 >
@@ -3970,7 +3933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft]] (3), [[Microsoft Azure|Azure]] (2), next (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Azure|Azure]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Data Management]] (1)
 > **Cross-References:** go back to (3), in the next (2), in the last (1)
 > **Env Vars:** sa0602 (1), sdk (1)
 > **Definitions:** is a  (1), is called (1)
@@ -3979,8 +3942,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
 
-#### Change feed for blob data
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980)
+#### [Change feed for blob data](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4012,7 +3974,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=110)** I've saved both of those.
 >
-> **[1:52](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=112)** And I'm also going to add a metadata change to blob1.json because blob property changes are also tracked.
+> **[1:52](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=112)** And I'm also going to add a [[Metadata]] change to blob1.[[JSON]] because blob property changes are also tracked.
 >
 > **[2:01](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=121)** So here's the metadata and we're going to add a key-value pair, feedCheck, and just a value of 1234.
 >
@@ -4024,7 +3986,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=149)** Now, it can take a couple of minutes for the change feed to be updated.
 >
-> **[2:33](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=153)** So if you need a feature to trigger off changes in real time, then you should look at Azure Storage events.
+> **[2:33](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=153)** So if you need a feature to trigger off changes in real time, then you should look at [[Microsoft Azure|Azure]] Storage events.
 >
 > **[2:40](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=160)** The thing with Azure Storage events is they're not guaranteed to be ordered.
 >
@@ -4046,13 +4008,13 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=194)** Now, I can't read the file in this format as it is, but I can right-click on the file and choose to preview the data on the side, which is going to load up the Avro extension.
 >
-> **[3:25](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=205)** Closing the two other windows, we can now look at the format for the file.
+> **[3:25](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=205)** Closing the two other [[Windows]], we can now look at the format for the file.
 >
 > **[3:29](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=209)** Scrolling across to the right a little, we can see the first two entries where the two blobs were created.
 >
 > **[3:39](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=219)** Then the two edits, which are listed as utilizing the Put Blob API, which is the request on the blob service for create or modification of a block blob, whereas the blob properties utilize a different API, which generates a blob property's updated event.
 >
-> **[3:58](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=238)** The Apache Avro format is compact and fast, which is important as a blob change feed is likely to produce a high volume of change events, which is why Apache Avro is designed to be consumed by big data processing tools such as Apache Spark.
+> **[3:58](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=238)** The Apache Avro format is compact and fast, which is important as a blob change feed is likely to produce a high volume of change events, which is why Apache Avro is designed to be consumed by [[Big Data]] processing tools such as [[Apache Spark]].
 >
 > **[4:14](https://www.linkedin.com/learning/manage-storage-in-azure/change-feed-for-blob-data?u=76281980&t=254)** This is also why the virtual directory is split into buckets, to enable asynchronous processing by such tools, and multiple processing applications can read the changes in parallel.
 >
@@ -4062,7 +4024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Metadata]] (2), [[Microsoft Azure|Azure]] (2), api (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Microsoft Azure|Azure]] (2), [[JSON]] (1), [[Windows]] (1), [[Big Data]] (1)
 > **CLI Commands:** apache (5)
 > **File Paths:** blob1.txt (1), blob1.json (1)
 > **Env Vars:** api (2)
@@ -4071,12 +4033,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** right-click (1)
 
-#### Point-in-time restore for blob data
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/point-in-time-restore-for-blob-data?u=76281980)
+#### [Point-in-time restore for blob data](https://www.linkedin.com/learning/manage-storage-in-azure/point-in-time-restore-for-blob-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/point-in-time-restore-for-blob-data?u=76281980&t=0)** - [Instructor] Change feed also enables another data protection feature for block blobs in Azure.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/point-in-time-restore-for-blob-data?u=76281980&t=0)** - [Instructor] Change feed also enables another data protection feature for block blobs in [[Microsoft Azure|Azure]].
 >
 > **[0:06](https://www.linkedin.com/learning/manage-storage-in-azure/point-in-time-restore-for-blob-data?u=76281980&t=6)** This is point in time restore for containers.
 >
@@ -4096,7 +4057,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/manage-storage-in-azure/point-in-time-restore-for-blob-data?u=76281980&t=60)** In container edit one, I have edited both of these blobs.
 >
-> **[1:06](https://www.linkedin.com/learning/manage-storage-in-azure/point-in-time-restore-for-blob-data?u=76281980&t=66)** And in container restore I have deleted a blob and edited blob1.json.
+> **[1:06](https://www.linkedin.com/learning/manage-storage-in-azure/point-in-time-restore-for-blob-data?u=76281980&t=66)** And in container restore I have deleted a blob and edited blob1.[[JSON]].
 >
 > **[1:12](https://www.linkedin.com/learning/manage-storage-in-azure/point-in-time-restore-for-blob-data?u=76281980&t=72)** Going back to the container listing, we'll choose to restore container edit one and container restore by selecting both of the containers and going up to the dropdown for restore containers.
 >
@@ -4134,7 +4095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), feature (1), [[Microsoft Azure|Azure]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[JSON]] (1)
 > **UI Navigation:** scroll up (1), in the menu (1), go to (1), dropdown (1)
 > **File Paths:** blob2.txt (1), blob1.json (1)
 > **CLI Commands:** make (1)
@@ -4143,8 +4104,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Immutable storage for business-critical blob data
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/immutable-storage-for-business-critical-blob-data?u=76281980)
+#### [Immutable storage for business-critical blob data](https://www.linkedin.com/learning/manage-storage-in-azure/immutable-storage-for-business-critical-blob-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4158,7 +4118,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/manage-storage-in-azure/immutable-storage-for-business-critical-blob-data?u=76281980&t=55)** This data is written to once and can be read many times, but not altered.
 >
-> **[1:00](https://www.linkedin.com/learning/manage-storage-in-azure/immutable-storage-for-business-critical-blob-data?u=76281980&t=60)** This is also called WORM state, Blob storage in Azure can utilize the immutable storage for blobs feature to place blob data into a WORM state.
+> **[1:00](https://www.linkedin.com/learning/manage-storage-in-azure/immutable-storage-for-business-critical-blob-data?u=76281980&t=60)** This is also called WORM state, Blob storage in [[Microsoft Azure|Azure]] can utilize the immutable storage for blobs feature to place blob data into a WORM state.
 >
 > **[1:11](https://www.linkedin.com/learning/manage-storage-in-azure/immutable-storage-for-business-critical-blob-data?u=76281980&t=71)** There are two types of immutable storage policies, timed-based retention and legal hold.
 >
@@ -4170,7 +4130,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/manage-storage-in-azure/immutable-storage-for-business-critical-blob-data?u=76281980&t=93)** This interval is either unlocked for testing or locked where it cannot be decreased or removed.
 >
-> **[1:40](https://www.linkedin.com/learning/manage-storage-in-azure/immutable-storage-for-business-critical-blob-data?u=76281980&t=100)** This lock enables regulatory compliance, For more information on which regulations, see this link to the Azure documentation.
+> **[1:40](https://www.linkedin.com/learning/manage-storage-in-azure/immutable-storage-for-business-critical-blob-data?u=76281980&t=100)** This lock enables [[Regulatory Compliance]], For more information on which regulations, see this link to the Azure documentation.
 >
 > **[1:49](https://www.linkedin.com/learning/manage-storage-in-azure/immutable-storage-for-business-critical-blob-data?u=76281980&t=109)** Once the time interval is finished, the data can be deleted but not overwritten.
 >
@@ -4258,7 +4218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), business (3), [[Microsoft Azure|Azure]] (3), next (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Regulatory Compliance]] (1)
 > **Env Vars:** worm (5)
 > **UI Navigation:** go to (2), checkbox (1), scroll down (1)
 > **Prerequisites:** set up (3)
@@ -4272,8 +4232,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Billing, reserved capacity, and network routing preference for Azure Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980)
+#### [Billing, reserved capacity, and network routing preference for Azure Storage](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4289,7 +4248,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=51)** These three factors together often make up the core of the cost on a storage account.
 >
-> **[0:57](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=57)** There are also actions on a storage account that can incur extra cost, and we can see lists of these given in the Azure Storage documentation for avoid billing surprises, which you can access by following this link.
+> **[0:57](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=57)** There are also actions on a storage account that can incur extra cost, and we can see lists of these given in the [[Microsoft Azure|Azure]] Storage documentation for avoid billing surprises, which you can access by following this link.
 >
 > **[1:12](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=72)** For example, enabling soft delete for blob storage and versioning will create extra data that needs to be considered as part of the storage account cost.
 >
@@ -4301,11 +4260,11 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=116)** For example, this is the pricing for Azure Files, which can be viewed at this link.
 >
-> **[2:02](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=122)** Scrolling down we can see that premium data storage on SSDs is always the highest, but the costs increase as redundancy increases from ZRS through to GRS, and scrolling down further to the list of transaction prices the cost of transactions is per 10,000 with prices increasing once more depending on the level of redundancy chosen.
+> **[2:02](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=122)** Scrolling down we can see that premium [[Data Storage]] on SSDs is always the highest, but the costs increase as redundancy increases from ZRS through to GRS, and scrolling down further to the list of transaction prices the cost of transactions is per 10,000 with prices increasing once more depending on the level of redundancy chosen.
 >
 > **[2:30](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=150)** Moving down slightly to the end of this table there is a small note on outbound data charges.
 >
-> **[2:37](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=157)** Clicking through on this we can see that data transfer is charged when moving between availability zones, for inter-regional transfer and for internet egress, whether out of the Microsoft backbone or through an ISP, with the ISP routing being slightly cheaper.
+> **[2:37](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=157)** Clicking through on this we can see that data transfer is charged when moving between availability zones, for inter-regional transfer and for internet egress, whether out of the [[Microsoft]] backbone or through an ISP, with the ISP [[Routing]] being slightly cheaper.
 >
 > **[2:58](https://www.linkedin.com/learning/manage-storage-in-azure/billing-reserved-capacity-and-network-routing-preference-for-azure-storage?u=76281980&t=178)** We can plan for upfront storage account costs, taking all billing factors into consideration by using the pricing calculator, which you can access through this link.
 >
@@ -4385,7 +4344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Azure|Azure]] (14), [[Microsoft]] (5), [[Routing]] (4), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microsoft]] (5), [[Routing]] (4), [[Data Storage]] (1)
 > **Definitions:** is a  (7), is an  (1)
 > **Env Vars:** isp (3), grs (2), zrs (1)
 > **Cross-References:** in the next (2), we covered (1)
@@ -4394,20 +4353,19 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** prerequisite (1)
 
-#### Storage tiers and blob rehydration
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980)
+#### [Storage tiers and blob rehydration](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=0)** - [Instructor] The two main components of cost for storing data in a storage account are the cost for storing the data itself and the cost for accessing the data.
 >
-> **[0:11](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=11)** When we think about data and its frequency of access, data with high transaction rates will be written and read live in applications, whether that's a Web app or perhaps an IOT or media data stream.
+> **[0:11](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=11)** When we think about data and its frequency of access, data with high transaction rates will be written and read live in applications, whether that's a Web app or perhaps an [[IoT]] or media data stream.
 >
 > **[0:25](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=25)** There are also types of data that are written to and read from infrequently but are always required to be available for immediate access, such as historical medical records or short-term backups, and then there is data that might be written once and not accessed for a long time, if at all.
 >
 > **[0:43](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=43)** This data is often kept for regulatory and compliance reasons and for long-term backups.
 >
-> **[0:50](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=50)** Azure storage for blobs and files sets its cost around how often data is accessed, along with the cost of storing the data itself.
+> **[0:50](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=50)** [[Microsoft Azure|Azure]] storage for blobs and files sets its cost around how often data is accessed, along with the cost of storing the data itself.
 >
 > **[0:59](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=59)** For blobs, this is managed through choosing a blob access tier.
 >
@@ -4453,7 +4411,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=210)** All storage tiers are online, and data is immediately accessible.
 >
-> **[3:35](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=215)** Premium storage is for scenarios that require single-millisecond latency, such as databases and FSLogix profiles for Azure Virtual Desktop.
+> **[3:35](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=215)** Premium storage is for scenarios that require single-millisecond latency, such as [[Databases]] and FSLogix profiles for Azure Virtual Desktop.
 >
 > **[3:46](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=226)** Transaction optimized is for scenarios where there are still a very high number of transactions but not the latency requirements of a premium share.
 >
@@ -4467,7 +4425,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=282)** So if we go into the container that's been set up for this walkthrough and choose to upload a blob from my laptop, I choose the blob and click Upload.
 >
-> **[4:55](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=295)** If I close the upload blob window, we can see that its access tier has been set to hot, and in brackets is the word inferred, which means it inherited this tier from the blob service default that we saw on the Overview page.
+> **[4:55](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=295)** If I close the upload blob window, we can see that its access tier has been set to hot, and in brackets is the [[Microsoft Word|word]] inferred, which means it inherited this tier from the blob service default that we saw on the Overview page.
 >
 > **[5:11](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=311)** If I upload a second blob from the same folder but this time go into the advanced upload settings, we can choose the tier that we'd like to upload it at, and this will set it specifically for this blob.
 >
@@ -4495,7 +4453,7 @@ created: 2026-05-02
 >
 > **[6:58](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=418)** The other was to take the inferred tier from the storage account.
 >
-> **[7:03](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=423)** We've now decided that blob2.json can be archived, and in the portal, this is achieved through the ellipses on the blob and then choosing to change the tier.
+> **[7:03](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=423)** We've now decided that blob2.[[JSON]] can be archived, and in the portal, this is achieved through the ellipses on the blob and then choosing to change the tier.
 >
 > **[7:14](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=434)** If I choose archive, note a warning is shown stating that rehydration can take several hours.
 >
@@ -4503,7 +4461,7 @@ created: 2026-05-02
 >
 > **[7:30](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=450)** Clicking Save and the new access tier is set.
 >
-> **[7:34](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=454)** This can of course be achieved through the blob REST API, programmatically with the storage client libraries, or on the command line with Azure CLI and Azure PowerShell.
+> **[7:34](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=454)** This can of course be achieved through the blob [[Representational State Transfer (REST)|REST]] API, programmatically with the storage client libraries, or on the command line with Azure [[CLI]] and Azure [[Powershell]].
 >
 > **[7:45](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=465)** To rehydrate the blob, we go back to the same menu and choose an online tier.
 >
@@ -4523,7 +4481,7 @@ created: 2026-05-02
 >
 > **[8:36](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=516)** These tiers were set on creation of the file share by selecting a tier here, but it is also possible to move a share between the storage tiers, and we can do this in the portal by entering the file share and choosing Change tier.
 >
-> **[8:58](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=538)** Note, Microsoft recommend that you start with transaction optimized if you are migrating data from an on-premises file server due to the high number of transactions this produces.
+> **[8:58](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=538)** Note, [[Microsoft]] recommend that you start with transaction optimized if you are migrating data from an on-premises file server due to the high number of transactions this produces.
 >
 > **[9:09](https://www.linkedin.com/learning/manage-storage-in-azure/storage-tiers-and-blob-rehydration?u=76281980&t=549)** You can then switch to hot after migration if required.
 >
@@ -4535,7 +4493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Microsoft Azure|Azure]] (8), application (2), web (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[IoT]] (1), [[Databases]] (1), [[Microsoft Word|Word]] (1), [[JSON]] (1)
 > **Env Vars:** iot (1), rest (1), api (1), cli (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** such as (2), for example (1)
@@ -4544,8 +4502,7 @@ created: 2026-05-02
 > **Tools:** command line (1), powershell (1)
 > **UI Navigation:** scroll down (1), switch to (1)
 
-#### Manage storage tiers for blobs and files
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980)
+#### [Manage storage tiers for blobs and files](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4555,7 +4512,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=16)** I choose the blob and click upload.
 >
-> **[0:19](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=19)** If I close the upload blob window, we can see that its access tier has been set to hot and in bracket is the word inferred, which means it inherited this tier from the blob service default that we saw on the overview page.
+> **[0:19](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=19)** If I close the upload blob window, we can see that its access tier has been set to hot and in bracket is the [[Microsoft Word|word]] inferred, which means it inherited this tier from the blob service default that we saw on the overview page.
 >
 > **[0:35](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=35)** If I upload a second blob from the same folder, but this time go into the advanced upload settings, we can choose the tier that we'd like to upload it at and this will set it specifically for this blob.
 >
@@ -4579,7 +4536,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=138)** One was to take hot at the blob level itself specifically, the other was to take the inferred tier from the storage account.
 >
-> **[2:28](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=148)** We've now decided that blob2.json can be archived and in the portal this is achieved through the ellipses on the blob and then choosing to change the tier.
+> **[2:28](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=148)** We've now decided that blob2.[[JSON]] can be archived and in the portal this is achieved through the ellipses on the blob and then choosing to change the tier.
 >
 > **[2:39](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=159)** If I choose archive, note a warning is shown stating that re-hydration can take several hours.
 >
@@ -4587,7 +4544,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=174)** Clicking save and the new access tier is set.
 >
-> **[2:58](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=178)** This can can of course be achieved through the blob rest API, programmatically with the storage client libraries or on the command line with Azure CLI and Azure PowerShell.
+> **[2:58](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=178)** This can can of course be achieved through the blob [[Representational State Transfer (REST)|rest]] API, programmatically with the storage client libraries or on the command line with [[Microsoft Azure|Azure]] [[CLI]] and Azure [[Powershell]].
 >
 > **[3:09](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=189)** To rehydrate the blob, we go back to the same menu and choose an online tier.
 >
@@ -4607,7 +4564,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=248)** But it is also possible to move a share between the storage tiers and we can do this in the portal by entering the file share and choosing change tier.
 >
-> **[4:22](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=262)** Note, Microsoft recommend that you start with transaction optimized if you are migrating data from an on-premises file server due to the high number of transactions this produces.
+> **[4:22](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=262)** Note, [[Microsoft]] recommend that you start with transaction optimized if you are migrating data from an on-premises file server due to the high number of transactions this produces.
 >
 > **[4:33](https://www.linkedin.com/learning/manage-storage-in-azure/manage-storage-tiers-for-blobs-and-files?u=76281980&t=273)** You can then switch to hot after migration if required.
 >
@@ -4623,7 +4580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), data (2), [[Microsoft Word|Word]] (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Word|Word]] (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[CLI]] (1)
 > **File Paths:** blob1.txt (1), blob2.json (1)
 > **Env Vars:** api (1), cli (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -4632,8 +4589,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** warning (1)
 
-#### Lifecycle management policies and rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/lifecycle-management-policies-and-rules?u=76281980)
+#### [Lifecycle management policies and rules](https://www.linkedin.com/learning/manage-storage-in-azure/lifecycle-management-policies-and-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4655,7 +4611,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/manage-storage-in-azure/lifecycle-management-policies-and-rules?u=76281980&t=77)** The age and frequency of access component of a lifecycle management policy is the run condition, which can take into account the number of days after modification, creation, last access, and tier change of a blob where the last access time must be specifically enabled, or for a blob version, the days after version creation time.
 >
-> **[1:41](https://www.linkedin.com/learning/manage-storage-in-azure/lifecycle-management-policies-and-rules?u=76281980&t=101)** I've switched into the Azure portal to walk through how to set up a lifecycle management policy.
+> **[1:41](https://www.linkedin.com/learning/manage-storage-in-azure/lifecycle-management-policies-and-rules?u=76281980&t=101)** I've switched into the [[Microsoft Azure|Azure]] portal to walk through how to set up a lifecycle management policy.
 >
 > **[1:46](https://www.linkedin.com/learning/manage-storage-in-azure/lifecycle-management-policies-and-rules?u=76281980&t=106)** This is a standard general-purpose v2 storage account and has two containers.
 >
@@ -4719,7 +4675,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/manage-storage-in-azure/lifecycle-management-policies-and-rules?u=76281980&t=313)** The lifecycle management policy has been added and is listed.
 >
-> **[5:18](https://www.linkedin.com/learning/manage-storage-in-azure/lifecycle-management-policies-and-rules?u=76281980&t=318)** If we click through to the Code View, we can see how the lifecycle management policy is defined in JSON.
+> **[5:18](https://www.linkedin.com/learning/manage-storage-in-azure/lifecycle-management-policies-and-rules?u=76281980&t=318)** If we click through to the Code View, we can see how the lifecycle management policy is defined in [[JSON]].
 >
 > **[5:25](https://www.linkedin.com/learning/manage-storage-in-azure/lifecycle-management-policies-and-rules?u=76281980&t=325)** Each has a type of lifecycle and is followed by a definition block, which will contain actions for every blob type chosen.
 >
@@ -4735,7 +4691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (11), next (3), data (2), [[Microsoft Azure|Azure]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[JSON]] (1)
 > **Prerequisites:** set up (3)
 > **Cross-References:** previous video (1), in the next (1)
 > **Env Vars:** json (1)
@@ -4744,14 +4700,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Monitoring Azure Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage?u=76281980)
+#### [Monitoring Azure Storage](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage?u=76281980&t=0)** - [Presenter] When you are looking after data, you need to have mechanisms to monitor how the data is being used, whether the data is always available, and if access to the data is performing as it should.
 >
-> **[0:12](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage?u=76281980&t=12)** Here's the resource group with the resources for this walkthrough on monitoring Azure Storage.
+> **[0:12](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage?u=76281980&t=12)** Here's the resource group with the resources for this walkthrough on monitoring [[Microsoft Azure|Azure]] Storage.
 >
 > **[0:17](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage?u=76281980&t=17)** Now, so that we can have a look at these monitoring options, I've created a function app, which contains two functions.
 >
@@ -4855,7 +4810,7 @@ created: 2026-05-02
 >
 > **[6:58](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage?u=76281980&t=418)** Metrics being logged by a storage account.
 >
-> **[7:00](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage?u=76281980&t=420)** I logged into the Azure Metrics Table, and they have a resource provider of Microsoft storage.
+> **[7:00](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage?u=76281980&t=420)** I logged into the Azure Metrics Table, and they have a resource provider of [[Microsoft]] storage.
 >
 > **[7:07](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage?u=76281980&t=427)** So by using this query and hitting run, I can see the metrics logged in the last 24 hours because this has been set as the time range.
 >
@@ -4885,7 +4840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Azure|Azure]] (11), [[Analytics]] (6), database (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Microsoft]] (1)
 > **Analogies:** for example (4), such as (2)
 > **Env Vars:** kql (3), api (1), siem (1)
 > **Prerequisites:** set up (3), you need to have (1), configure (1)
@@ -4894,14 +4849,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Monitoring Azure Storage with storage insights and workbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage-with-storage-insights-and-workbooks?u=76281980)
+#### [Monitoring Azure Storage with storage insights and workbooks](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage-with-storage-insights-and-workbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage-with-storage-insights-and-workbooks?u=76281980&t=0)** - [Instructor] Returning to the storage account, there are a couple of other menu items that I would like to have a look at, and scrolling down and into Monitoring, the first is Insights.
 >
-> **[0:11](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage-with-storage-insights-and-workbooks?u=76281980&t=11)** Insights are created by the maintainers of Azure Resources.
+> **[0:11](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage-with-storage-insights-and-workbooks?u=76281980&t=11)** Insights are created by the maintainers of [[Microsoft Azure|Azure]] Resources.
 >
 > **[0:15](https://www.linkedin.com/learning/manage-storage-in-azure/monitoring-azure-storage-with-storage-insights-and-workbooks?u=76281980&t=15)** The maintainers build in their expertise on the type of resource, which in this case, is Azure Storage.
 >
@@ -4937,7 +4891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Troubleshooting]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -4948,22 +4902,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about Azure management
-> [LinkedIn Learning](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980)
+#### [Learning more about Azure management](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=0)** - [Instructor] Congratulations, you've reached the end of this course on managing Azure Storage.
+> **[0:00](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=0)** - [Instructor] Congratulations, you've reached the end of this course on managing [[Microsoft Azure|Azure]] Storage.
 >
 > **[0:05](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=5)** We've covered a lot of ground in this course.
 >
 > **[0:07](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=7)** If you want to know more, where should you go and what should you do?
 >
-> **[0:11](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=11)** For me, the key to really understanding any resource in Azure is to practice with hands-on environments, which is why the GitHub repository for this course has Bicep files for creating resources and environments, which enable you to follow along with the walkthroughs in this course and then to explore further.
+> **[0:11](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=11)** For me, the key to really understanding any resource in Azure is to practice with hands-on environments, which is why the [[GitHub]] repository for this course has Bicep files for creating resources and environments, which enable you to follow along with the walkthroughs in this course and then to explore further.
 >
 > **[0:32](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=32)** Whilst exploring, you can cross-reference with the readme in the further-reading folder of the repository.
 >
-> **[0:38](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=38)** and this has links to Microsoft documentation that was referenced in the making of this course.
+> **[0:38](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=38)** and this has links to [[Microsoft]] documentation that was referenced in the making of this course.
 >
 > **[0:44](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=44)** It also has links to the community Q&A and Azure Storage Technical blog, which often has releases on deep dives into Azure Storage features.
 >
@@ -4975,7 +4928,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=89)** Each of these scenarios has been written by Microsoft Solution Architects using knowledge gain designing solutions for customers.
 >
-> **[1:38](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=98)** LinkedIn Learning is of course, an excellent starting point for diving deeper.
+> **[1:38](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=98)** [[LinkedIn]] Learning is of course, an excellent starting point for diving deeper.
 >
 > **[1:42](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=102)** For example, I'd like to look at Azure Data Lake, so I search for it within the LinkedIn Learning portal.
 >
@@ -4983,7 +4936,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=117)** You may also want to dive deeper into the power of creating repeatable storage configurations using Azure Bicep, which we covered during the infrastructure's code version of this course.
 >
-> **[2:11](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=131)** And if you're thinking about applying the knowledge gained in this course to gaining a certification, perhaps check out my Azure Solutions Architect AZ-305 Prep Course on designing data storage solutions.
+> **[2:11](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=131)** And if you're thinking about applying the knowledge gained in this course to gaining a certification, perhaps check out my Azure Solutions Architect AZ-305 Prep Course on designing [[Data Storage]] solutions.
 >
 > **[2:24](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=144)** Microsoft Learn has an excellent collection of learning paths and modules for Azure Storage.
 >
@@ -4993,7 +4946,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=169)** Azure has a vibrant community full of people who want to help.
 >
-> **[2:53](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=173)** Reach out through social media, Slack channels, or on LinkedIn, or perhaps find your local user group.
+> **[2:53](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=173)** Reach out through social media, [[Slack]] channels, or on LinkedIn, or perhaps find your local user group.
 >
 > **[3:01](https://www.linkedin.com/learning/manage-storage-in-azure/learning-more-about-azure-management?u=76281980&t=181)** I have a lot of choice here in the UK.
 >
@@ -5007,7 +4960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), data (5), [[Microsoft]] (4), [[LinkedIn]] (4), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Microsoft]] (4), [[LinkedIn]] (4), [[GitHub]] (1), [[Data Storage]] (1)
 > **Tools:** github (1), azure portal (1), slack (1)
 > **CLI Commands:** az (1), find (1)
 > **Documentation:** the readme (1), the documentation (1)

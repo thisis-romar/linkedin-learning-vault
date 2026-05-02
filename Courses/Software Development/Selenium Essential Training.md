@@ -96,14 +96,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=0)** - [Meaghan] Selenium is a powerful framework for testing web applications in the UI.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=0)** - [Meaghan] [[Selenium]] is a powerful framework for testing web applications in the UI.
 >
-> **[0:05](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=5)** If you are someone who wants to learn about test automation with Selenium and see how it can be applied to real-world examples, then this course is for you.
+> **[0:05](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=5)** If you are someone who wants to learn about [[Test Automation]] with Selenium and see how it can be applied to real-world examples, then this course is for you.
 >
 > **[0:13](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=13)** I'll show you the essentials of Selenium so that you are set up for success using it both personally and professionally.
 >
@@ -113,28 +112,27 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=35)** Hi, I'm Meaghan Lewis.
 >
-> **[0:37](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=37)** I'm a quality engineer at GitHub and I'm an avid Selenium enthusiast and have been an active user for years.
+> **[0:37](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=37)** I'm a quality engineer at [[GitHub]] and I'm an avid Selenium enthusiast and have been an active user for years.
 >
-> **[0:44](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=44)** I really enjoy speaking at conferences and blogging about software testing.
+> **[0:44](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=44)** I really enjoy speaking at conferences and blogging about [[Software Testing]].
 >
 > **[0:48](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980&t=48)** So if you're ready, let's dive into the essentials of using Selenium.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (6), web (2), [[Test Automation]] (2), application (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (6), [[Test Automation]] (2), [[GitHub]] (1), [[Software Testing]] (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [meaghan] (1)
 
-#### Get set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980)
+#### [Get set up](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=0)** - [Narrator] I'll be using the four following tools that you will need to download and set up, if you want to follow along with the exercises throughout this course.
 >
-> **[0:09](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=9)** First up, there is the Java SE Development Kit, or the JDK.
+> **[0:09](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=9)** First up, there is the [[Java]] SE Development Kit, or the JDK.
 >
 > **[0:14](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=14)** The JDK provides the environment to build and run Java programs.
 >
@@ -146,11 +144,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=38)** All tests will be run in Chrome, with the use of ChromeDriver.
 >
-> **[0:41](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=41)** ChromeDriver is the browser driver that runs Selenium WebDriver tests in Chrome.
+> **[0:41](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=41)** ChromeDriver is the browser driver that runs [[Selenium]] WebDriver tests in Chrome.
 >
 > **[0:47](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=47)** There are a few other tools I'll be using that I included with the exercise files already.
 >
-> **[0:52](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=52)** Those are Maven, which is the dependency management tool for Java, the Selenium WebDriver, language bindings for Java, and Junit, as the assertion library.
+> **[0:52](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=52)** Those are Maven, which is the [[Dependency Management]] tool for Java, the Selenium WebDriver, language bindings for Java, and [[JUnit]], as the assertion library.
 >
 > **[1:03](https://www.linkedin.com/learning/selenium-essential-training/get-set-up?u=76281980&t=63)** Since they are already included, you won't need to worry about doing anything in order to use these tools.
 >
@@ -174,14 +172,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Selenium project
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980)
+#### [The Selenium project](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980&t=0)** - [Narrator] Selenium is a powerful framework for testing web applications and remains to be one of the best options for UI automation.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980&t=0)** - [Narrator] [[Selenium]] is a powerful framework for testing web applications and remains to be one of the best options for UI automation.
 >
-> **[0:08](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980&t=8)** It saves time from constant manual testing so you can focus on other types of testing.
+> **[0:08](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980&t=8)** It saves time from constant [[Manual Testing]] so you can focus on other types of testing.
 >
 > **[0:14](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980&t=14)** I'll share a little bit about the history of the Selenium Project.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (16), api (5), web (3), [[Automation]] (3), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (16), [[Manual Testing]] (1)
 > **Env Vars:** api (5), ide (5), w3c (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 3.0 (2), 1.0 (1), 2.0 (1)
@@ -246,12 +243,11 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Analogies:** such as (1)
 
-#### Using WebDriver
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980)
+#### [Using WebDriver](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=0)** - [Narrator] This video is all about understanding how and when to use Selenium WebDriver.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=0)** - [Narrator] This video is all about understanding how and when to use [[Selenium]] WebDriver.
 >
 > **[0:06](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=6)** I will also cover how it works under the hood.
 >
@@ -277,7 +273,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=68)** When a Selenium test is executed, a new session of the browser is created and the browser window is launched.
 >
-> **[1:14](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=74)** For each command in the test script a request is sent to the WebDriver API, which is a rest-based service.
+> **[1:14](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=74)** For each command in the test script a request is sent to the WebDriver API, which is a [[Representational State Transfer (REST)|rest]]-based service.
 >
 > **[1:22](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=82)** The WebDriver API interprets the request and the step is then executed in the browser.
 >
@@ -289,15 +285,15 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=102)** So now let's talk about what's supported with Selenium WebDriver.
 >
-> **[1:47](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=107)** It supports all major programming languages such as: C, Java, Ruby, Python, and JavaScript.
+> **[1:47](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=107)** It supports all major programming languages such as: C, [[Java]], Ruby, [[Python (Programming Language)|Python]], and [[JavaScript]].
 >
-> **[1:54](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=114)** Major platforms like macOS, Windows, and Linux.
+> **[1:54](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=114)** Major platforms like macOS, [[Windows]], and [[Linux]].
 >
 > **[1:58](https://www.linkedin.com/learning/selenium-essential-training/using-webdriver?u=76281980&t=118)** And also the browsers: Chrome, Firefox, and either Explorer or Edge, and Safari.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Selenium]] (4), web (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1), ruby (1), python (1)
 > **Tools:** firefox (1), safari (1)
@@ -306,14 +302,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Browser drivers
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980)
+#### [Browser drivers](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=0)** - [Instructor] I want to take a minute to talk more in detail about the browser drivers used to run test in WebDriver.
 >
-> **[0:07](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=7)** Each of the major browsers has their own driver, which are maintained by the browser vendor and not Selenium.
+> **[0:07](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=7)** Each of the major browsers has their own driver, which are maintained by the browser vendor and not [[Selenium]].
 >
 > **[0:14](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=14)** All the drivers are written in the same language as the browser, and a thin wrapper is implemented around the browser driver, which makes it easy to use the bindings without knowing how the code is working under the hood.
 >
@@ -333,21 +328,21 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=86)** So I'll briefly discuss the four major drivers, starting with ChromeDriver.
 >
-> **[1:32](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=92)** ChromeDriver is maintained by Google, and it implements WebDriver's wire protocol for Chromium, which is an open source browser project that aims to build a safer, faster, and more stable way for users to experience the Web.
+> **[1:32](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=92)** ChromeDriver is maintained by [[Google]], and it implements WebDriver's wire protocol for Chromium, which is an open source browser project that aims to build a safer, faster, and more stable way for users to experience the Web.
 >
-> **[1:46](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=106)** The ChromeDriver supports both Web and mobile and is available for Chrome on Android and Chrome on Desktop.
+> **[1:46](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=106)** The ChromeDriver supports both Web and mobile and is available for Chrome on [[Android]] and Chrome on Desktop.
 >
 > **[1:53](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=113)** For this course, I will be using ChromeDriver solely.
 >
 > **[1:58](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=118)** Geckodriver implements the WebDriver protocol to communicate to Gecko browsers like Firefox.
 >
-> **[2:03](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=123)** The geckodriver is maintained by Mozilla and written in Rust, which is Mozilla's open source system's programming language.
+> **[2:03](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=123)** The geckodriver is maintained by Mozilla and written in [[Rust (Programming Language)|Rust]], which is Mozilla's open source system's programming language.
 >
 > **[2:11](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=131)** Starting with Selenium 3, geckodriver became the default WebDriver implementation for Firefox, and support is best in Firefox 55 or later.
 >
 > **[2:22](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=142)** Next up is the EdgeDriver.
 >
-> **[2:24](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=144)** The EdgeDriver is maintained and owned by Microsoft and written in C#.
+> **[2:24](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=144)** The EdgeDriver is maintained and owned by [[Microsoft]] and written in C#.
 >
 > **[2:29](https://www.linkedin.com/learning/selenium-essential-training/browser-drivers?u=76281980&t=149)** It has traditionally been a bit slower to execute test steps than some of the other browser drivers.
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Selenium]] (2), application (2), api (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (2), [[Google]] (1), [[Android]] (1), [[Rust (Programming Language)|Rust]] (1), [[Microsoft]] (1)
 > **Tools:** firefox (3), safari (1)
 > **Env Vars:** api (1), w3c (1)
 > **Documentation:** w3c (1), spec (1)
@@ -374,16 +369,15 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** setup (1)
 
-#### WebDriver tips and tricks
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980)
+#### [WebDriver tips and tricks](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=0)** - [Instructor] In this video I'll explain more about how WebDriver works through the use of a simple test written in Java.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=0)** - [Instructor] In this video I'll explain more about how WebDriver works through the use of a simple test written in [[Java]].
 >
 > **[0:07](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=7)** The test is shown here in the IDE IntelliJ.
 >
-> **[0:11](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=11)** At the top of this test class on lines one through four, I start by importing the various packages to use Selenium functionality.
+> **[0:11](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=11)** At the top of this test class on lines one through four, I start by importing the various packages to use [[Selenium]] functionality.
 >
 > **[0:19](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=19)** I'll explain how the packages are used in just a minute.
 >
@@ -393,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=35)** In the body of the test class there is a short test that sets up a new WebDriver instance of ChromeDriver on line 13.
 >
-> **[0:43](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=43)** On line 16 it navigates to Google.
+> **[0:43](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=43)** On line 16 it navigates to [[Google]].
 >
 > **[0:46](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=46)** On line 19 it finds an element with the name of q.
 >
@@ -439,7 +433,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=190)** Finally the driver calls the quit method.
 >
-> **[3:13](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=193)** This quits the driver and closes associated windows.
+> **[3:13](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=193)** This quits the driver and closes associated [[Windows]].
 >
 > **[3:17](https://www.linkedin.com/learning/selenium-essential-training/webdriver-tips-and-tricks?u=76281980&t=197)** So this is a sample test that contains some commonly used components.
 >
@@ -449,7 +443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (5), [[Google]] (3), api (2), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Selenium]] (5), [[Google]] (3), [[Java]] (1), [[Windows]] (1)
 > **Env Vars:** api (2), ide (1), url (1)
 > **Code Identifiers:** draganddrop (1), keydown (1), movetoelement (1)
 > **CLI Commands:** find (2)
@@ -458,8 +452,7 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Analogies:** such as (1)
 
-#### Inspecting Elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980)
+#### [Inspecting Elements](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=24)** For this example, I will be using the simple WebDriver test from the last video to demonstrate how to inspect a web element.
 >
-> **[0:33](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=33)** And following the simple test, what I'm first going to do is to navigate to [google.com](https://google.com) in Chrome.
+> **[0:33](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=33)** And following the simple test, what I'm first going to do is to navigate to [[[Google]].com](https://google.com) in Chrome.
 >
 > **[0:40](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=40)** Once there, I will hover over the search bar, right-click, that will open a menu.
 >
@@ -479,7 +472,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=50)** This opens up the Inspector.
 >
-> **[0:52](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=52)** And the first view that we see here is of all the HTML elements that compose the page.
+> **[0:52](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=52)** And the first view that we see here is of all the [[HTML]] elements that [[Jetpack Compose|compose]] the page.
 >
 > **[0:59](https://www.linkedin.com/learning/selenium-essential-training/inspecting-elements?u=76281980&t=59)** The line that is highlighted here is the search bar that we selected to inspect.
 >
@@ -501,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Search]] (3), [[HTML]] (2), [[Google]] (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Google]] (1), [[Jetpack Compose|Compose]] (1)
 > **UI Navigation:** navigate to (1), right-click (1), select the (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** html (2)
@@ -514,29 +507,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Look at the test application
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980)
+#### [Look at the test application](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980&t=0)** - [Instructor] In this chapter, I'm going to demonstrate examples of common elements to automate that will be used in test automation, in order to help you become more familiar and succeed with WebDriver.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980&t=0)** - [Instructor] In this chapter, I'm going to demonstrate examples of common elements to automate that will be used in [[Test Automation]], in order to help you become more familiar and succeed with WebDriver.
 >
 > **[0:12](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980&t=12)** For these examples, I will be using a website called Formy at formy-project.[herokuapp.com](https://herokuapp.com).
 >
 > **[0:20](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980&t=20)** This test application has a collection of form elements and other components.
 >
-> **[0:25](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980&t=25)** Over this chapter and throughout the rest of this course, I will iterate through all these different examples and show how to automate them with WebDriver.
+> **[0:25](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980&t=25)** Over this chapter and throughout the [[Representational State Transfer (REST)|rest]] of this course, I will iterate through all these different examples and show how to automate them with WebDriver.
 >
 > **[0:33](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980&t=33)** In the future, feel free to refer back to these videos and this test application to help you with your future automation projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Test Automation]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **URLs:** [herokuapp.com](https://herokuapp.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keyboard and mouse input
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/keyboard-and-mouse-input?u=76281980)
+#### [Keyboard and mouse input](https://www.linkedin.com/learning/selenium-essential-training/keyboard-and-mouse-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -624,7 +615,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), web (4), next (1)
 > **UI Navigation:** select the (2), right-click (2), scroll down (1), navigate to (1), click on (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** jdk (2), idea (1)
@@ -632,13 +622,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (3)
 > **Code Identifiers:** findelement (1), sendkeys (1)
 > **Prerequisites:** configure (1), you'll need (1)
+> **Cross-References:** go back to (1)
 
-#### Using autocomplete
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/using-autocomplete?u=76281980)
+#### [Using autocomplete](https://www.linkedin.com/learning/selenium-essential-training/using-autocomplete?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/using-autocomplete?u=76281980&t=0)** - [Instructor] In this video I'll demonstrate an example of automating an autocomplete field using the Google Places API.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/using-autocomplete?u=76281980&t=0)** - [Instructor] In this video I'll demonstrate an example of automating an autocomplete field using the [[Google]] Places API.
 >
 > **[0:07](https://www.linkedin.com/learning/selenium-essential-training/using-autocomplete?u=76281980&t=7)** Fields using autocomplete are useful to know how to automate because they are commonly used in websites today, especially when filling out addresses.
 >
@@ -712,7 +702,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/selenium-essential-training/using-autocomplete?u=76281980&t=279)** Then what I can do is to say autocomplete result.click in order to click on that result in the drop down menu.
 >
-> **[4:48](https://www.linkedin.com/learning/selenium-essential-training/using-autocomplete?u=76281980&t=288)** So now this test is looking good what should happen is that from the main address field we'll send the keys of 1555 Park Blvd and then once a result pops up we will click on that result to populate the rest of the address fields.
+> **[4:48](https://www.linkedin.com/learning/selenium-essential-training/using-autocomplete?u=76281980&t=288)** So now this test is looking good what should happen is that from the main address field we'll send the keys of 1555 Park Blvd and then once a result pops up we will click on that result to populate the [[Representational State Transfer (REST)|rest]] of the address fields.
 >
 > **[5:02](https://www.linkedin.com/learning/selenium-essential-training/using-autocomplete?u=76281980&t=302)** So let's go ahead and right click to run this test and Chrome will pop up in the background and start filling out the address.
 >
@@ -750,7 +740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), [[Google]] (1), api (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (6), open the (2), scroll down (1), go to (1)
 > **CLI Commands:** find (4), make (2)
 > **Tools:** intellij (3)
@@ -759,8 +749,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (2)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Scroll to element
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/scroll-to-element?u=76281980)
+#### [Scroll to element](https://www.linkedin.com/learning/selenium-essential-training/scroll-to-element?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -816,7 +805,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), web (1)
 > **Code Identifiers:** sendkeys (2), movetoelement (1)
 > **Tools:** intellij (3)
 > **CLI Commands:** find (2)
@@ -824,15 +812,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
+> **Analogies:** just like (1)
 
-#### Switch to active window
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/switch-to-active-window?u=76281980)
+#### [Switch to active window](https://www.linkedin.com/learning/selenium-essential-training/switch-to-active-window?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/switch-to-active-window?u=76281980&t=0)** - [Narrator] Some applications have multiple windows, frames, and alerts that open on a page.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/switch-to-active-window?u=76281980&t=0)** - [Narrator] Some applications have multiple [[Windows]], frames, and alerts that open on a page.
 >
-> **[0:06](https://www.linkedin.com/learning/selenium-essential-training/switch-to-active-window?u=76281980&t=6)** Selenium WebDriver assigns each window a unique ID, so that Selenium can differentiate when it is switching controls from one window to another.
+> **[0:06](https://www.linkedin.com/learning/selenium-essential-training/switch-to-active-window?u=76281980&t=6)** [[Selenium]] WebDriver assigns each window a unique ID, so that Selenium can differentiate when it is switching controls from one window to another.
 >
 > **[0:16](https://www.linkedin.com/learning/selenium-essential-training/switch-to-active-window?u=76281980&t=16)** The switchTo method is provided by the WebDriver interface and allows the driver to switch between windows, frames, and alerts.
 >
@@ -884,7 +872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Windows]] (2), [[Selenium]] (2), next (2), web (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Selenium]] (2)
 > **Code Identifiers:** switchto (3), getwindowhandle (3), originalhandle (2), newtabbutton (1), getwindowhandles (1)
 > **UI Navigation:** switch to (5), click on (1), open the (1), right-click (1)
 > **CLI Commands:** find (1)
@@ -893,8 +881,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 
-#### Switch to alert
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/switch-to-alert?u=76281980)
+#### [Switch to alert](https://www.linkedin.com/learning/selenium-essential-training/switch-to-alert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,14 +928,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Executing JavaScript commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/executing-javascript-commands?u=76281980)
+#### [Executing JavaScript commands](https://www.linkedin.com/learning/selenium-essential-training/executing-javascript-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/executing-javascript-commands?u=76281980&t=0)** - [Instructor] JavaScript commands can sometimes be necessary in WebDriver tests.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/executing-javascript-commands?u=76281980&t=0)** - [Instructor] [[JavaScript]] commands can sometimes be necessary in WebDriver tests.
 >
-> **[0:05](https://www.linkedin.com/learning/selenium-essential-training/executing-javascript-commands?u=76281980&t=5)** Luckily, Selenium supports the JavascriptExecutor.
+> **[0:05](https://www.linkedin.com/learning/selenium-essential-training/executing-javascript-commands?u=76281980&t=5)** Luckily, [[Selenium]] supports the JavascriptExecutor.
 >
 > **[0:10](https://www.linkedin.com/learning/selenium-essential-training/executing-javascript-commands?u=76281980&t=10)** The JavascriptExecutor provides two methods to run JavaScript on the selected window or current page.
 >
@@ -1018,7 +1004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), [[Selenium]] (2), application (2), web (2), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Selenium]] (2)
 > **Code Identifiers:** executeasyncscript (3), executescript (2)
 > **UI Navigation:** click on (3), open the (1), go to (1)
 > **CLI Commands:** find (3)
@@ -1027,8 +1013,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drag and drop
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/drag-and-drop-2?u=76281980)
+#### [Drag and drop](https://www.linkedin.com/learning/selenium-essential-training/drag-and-drop-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/selenium-essential-training/drag-and-drop-2?u=76281980&t=59)** At the drag/drop page, I see a prompt to drag the image into the box.
 >
-> **[1:03](https://www.linkedin.com/learning/selenium-essential-training/drag-and-drop-2?u=76281980&t=63)** In selecting the Selenium image, I am able to drop it into the box which says drop here, and once I drag the image into the box, I see that the box changes to say dropped to indicate that this image was successfully dragged and dropped into the box.
+> **[1:03](https://www.linkedin.com/learning/selenium-essential-training/drag-and-drop-2?u=76281980&t=63)** In selecting the [[Selenium]] image, I am able to drop it into the box which says drop here, and once I drag the image into the box, I see that the box changes to say dropped to indicate that this image was successfully dragged and dropped into the box.
 >
 > **[1:16](https://www.linkedin.com/learning/selenium-essential-training/drag-and-drop-2?u=76281980&t=76)** So let me refresh the page to refresh the functionality, and then what I want to start doing is inspecting the image and the box to get those element.
 >
@@ -1074,7 +1059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (2), web (2), prompt (1), [[Selenium]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (1)
 > **UI Navigation:** drag and drop (5), right-click (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** terminal (1)
@@ -1088,12 +1073,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determine which locator to use
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980)
+#### [Determine which locator to use](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980&t=0)** - [Instructor] There are various ways to locate elements to find an HTML using the attributes class name, CSS selector, ID, link text, name, tag name, and XPath.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980&t=0)** - [Instructor] There are various ways to locate elements to find an [[HTML]] using the attributes class name, CSS selector, ID, link text, name, tag name, and XPath.
 >
 > **[0:15](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980&t=15)** With all these locators, there are usually numerous ways to find an element.
 >
@@ -1133,11 +1117,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980&t=164)** The CSS selector can also be used for even more advanced things like finding based on substring or string, using wildcards, and child and sibling nodes.
 >
-> **[2:54](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980&t=174)** In the rest of this chapter, I'll show examples for how to use advanced CSS selectors and automation.
+> **[2:54](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980&t=174)** In the [[Representational State Transfer (REST)|rest]] of this chapter, I'll show examples for how to use advanced CSS selectors and automation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (8), html (4)
 > **CLI Commands:** find (9)
 > **Code Identifiers:** findelement (3), cssselector (3)
@@ -1145,8 +1129,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combine multiple CSS attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/combine-multiple-css-attributes?u=76281980)
+#### [Combine multiple CSS attributes](https://www.linkedin.com/learning/selenium-essential-training/combine-multiple-css-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1160,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/selenium-essential-training/combine-multiple-css-attributes?u=76281980&t=32)** Let's talk about using tag and class together.
 >
-> **[0:35](https://www.linkedin.com/learning/selenium-essential-training/combine-multiple-css-attributes?u=76281980&t=35)** Say I have a simple text field where the html is defined as input class is equal to q, type is equal to text.
+> **[0:35](https://www.linkedin.com/learning/selenium-essential-training/combine-multiple-css-attributes?u=76281980&t=35)** Say I have a simple text field where the [[HTML]] is defined as input class is equal to q, type is equal to text.
 >
 > **[0:43](https://www.linkedin.com/learning/selenium-essential-training/combine-multiple-css-attributes?u=76281980&t=43)** As shown in the last video, I could simply use class name, but say the class name is used somewhere else and I want be a little bit more specific and use the tag name as well to define this CSS selector.
 >
@@ -1206,15 +1189,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (14), [[HTML]] (4), web (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** css (14)
 > **CLI Commands:** find (7)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Text matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/text-matching?u=76281980)
+#### [Text matching](https://www.linkedin.com/learning/selenium-essential-training/text-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1242,7 +1224,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/selenium-essential-training/text-matching?u=76281980&t=89)** I can do an exact match by specifying driver dot find element by CSS selector, and then using the tag name div saying id is equal to the value text field.
 >
-> **[1:43](https://www.linkedin.com/learning/selenium-essential-training/text-matching?u=76281980&t=103)** For the second example I can do a match based on the prefix based on the sample HTML here where I have a div, id is equal to text field underscore random id.
+> **[1:43](https://www.linkedin.com/learning/selenium-essential-training/text-matching?u=76281980&t=103)** For the second example I can do a match based on the prefix based on the sample [[HTML]] here where I have a div, id is equal to text field underscore random id.
 >
 > **[1:55](https://www.linkedin.com/learning/selenium-essential-training/text-matching?u=76281980&t=115)** And the more that you dig into automation the more that you might find that some applications do have id's and classes and names where there are random id's part of those values.
 >
@@ -1266,7 +1248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[HTML]] (3), [[Automation]] (2), application (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (9), html (3)
 > **CLI Commands:** find (9)
 > **Cross-References:** in the last (1)
@@ -1274,8 +1256,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using wildcards
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/using-wildcards?u=76281980)
+#### [Using wildcards](https://www.linkedin.com/learning/selenium-essential-training/using-wildcards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,7 +1268,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/selenium-essential-training/using-wildcards?u=76281980&t=24)** I'll first talk about an example of finding a child node.
 >
-> **[0:27](https://www.linkedin.com/learning/selenium-essential-training/using-wildcards?u=76281980&t=27)** Take for example the following HTML where there is a div tag and directly under that, an a tag.
+> **[0:27](https://www.linkedin.com/learning/selenium-essential-training/using-wildcards?u=76281980&t=27)** Take for example the following [[HTML]] where there is a div tag and directly under that, an a tag.
 >
 > **[0:36](https://www.linkedin.com/learning/selenium-essential-training/using-wildcards?u=76281980&t=36)** To find the child element the selector would be driver.findElement(By.cssSelector, and inside of quotes, taking the top-level tag name, div, hashtag, parent space a to specify the child node there.
 >
@@ -1307,7 +1288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[HTML]] (2), next (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** find (7), node (7)
 > **Code Identifiers:** cssselector (2), findelement (1)
 > **Env Vars:** html (2), css (1)
@@ -1320,8 +1301,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common components
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/common-components?u=76281980)
+#### [Common components](https://www.linkedin.com/learning/selenium-essential-training/common-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,21 +1321,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **Speakers:** - sometimes (1)
 
-#### Radio buttons and checkboxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980)
+#### [Radio buttons and checkboxes](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=0)** - [Instructor] Let's take a minute to talk about radio buttons.
 >
-> **[0:03](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=3)** They are used commonly in forms for selecting options.
+> **[0:03](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=3)** They are used commonly in [[Forms]] for selecting options.
 >
 > **[0:07](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=7)** Since radio buttons are used widely in websites and forums, you inevitably need to automate them as well.
 >
-> **[0:13](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=13)** Radio buttons can be located using a variety of strategies, depending on what HTML is defined for that component.
+> **[0:13](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=13)** Radio buttons can be located using a variety of strategies, depending on what [[HTML]] is defined for that component.
 >
 > **[0:19](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=19)** On this page, there are three radio buttons available.
 >
@@ -1367,7 +1345,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=43)** I'll go over to IntelliJ and from the welcome menu, I will open the exercise file for this video.
 >
-> **[0:54](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=54)** I'll start by building the project and once that is successful, I want to focus on the test class, radiobuttons.java.
+> **[0:54](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=54)** I'll start by building the project and once that is successful, I want to focus on the test class, radiobuttons.[[Java]].
 >
 > **[1:03](https://www.linkedin.com/learning/selenium-essential-training/radio-buttons-and-checkboxes?u=76281980&t=63)** So far, this test class creates a new instance of the ChromeDriver on line 11, navigates to the radio button page on line 13 and then quits the driver.
 >
@@ -1427,7 +1405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[HTML]] (2), web (2), [[Forms]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Forms]] (1), [[Java]] (1)
 > **UI Navigation:** click on (3), right-click (2), go to (2), checkbox (2), open the (1)
 > **Code Identifiers:** radiobutton1 (2), radiobutton2 (2), cssselector (2), radiobutton3 (2), findelement (1)
 > **CLI Commands:** find (4)
@@ -1436,8 +1414,7 @@ created: 2026-05-02
 > **Tools:** intellij (2)
 > **File Paths:** radiobuttons.java (1)
 
-#### Date pickers
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/date-pickers?u=76281980)
+#### [Date pickers](https://www.linkedin.com/learning/selenium-essential-training/date-pickers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1513,7 +1490,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), hit (1), web (1)
 > **UI Navigation:** go to (1), navigate to (1), click on (1), right-click (1)
 > **Code Identifiers:** findelement (1), datefield (1), sendkeys (1)
 > **CLI Commands:** make (1)
@@ -1521,13 +1497,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Dropdown menus
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/dropdown-menus?u=76281980)
+#### [Dropdown menus](https://www.linkedin.com/learning/selenium-essential-training/dropdown-menus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/dropdown-menus?u=76281980&t=0)** - In this video, I'll demonstrate how to automate a typical dropdown menu, using Selenium Web Driver.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/dropdown-menus?u=76281980&t=0)** - In this video, I'll demonstrate how to automate a typical dropdown menu, using [[Selenium]] Web Driver.
 >
 > **[0:07](https://www.linkedin.com/learning/selenium-essential-training/dropdown-menus?u=76281980&t=7)** On this dropdown page, in the test application, there is a single button on the page called Dropdown button.
 >
@@ -1581,15 +1557,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), web (3), [[Selenium]] (1), next (1)
+> **Frameworks & Libraries:** [[Selenium]] (1)
 > **UI Navigation:** dropdown (20), click on (2), navigate to (1), select the (1)
 > **CLI Commands:** find (3)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### File upload
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/file-upload?u=76281980)
+#### [File upload](https://www.linkedin.com/learning/selenium-essential-training/file-upload?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1601,7 +1576,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/selenium-essential-training/file-upload?u=76281980&t=19)** Once I choose a file, the placeholder text is replaced with the selected filename and pressing reset clears that text field and leaves you with a clean slate.
 >
-> **[0:29](https://www.linkedin.com/learning/selenium-essential-training/file-upload?u=76281980&t=29)** The nice thing about uploading files in Selenium is that we can simply send keys to the upload field instead of going through and choosing a file manually.
+> **[0:29](https://www.linkedin.com/learning/selenium-essential-training/file-upload?u=76281980&t=29)** The nice thing about uploading files in [[Selenium]] is that we can simply send keys to the upload field instead of going through and choosing a file manually.
 >
 > **[0:39](https://www.linkedin.com/learning/selenium-essential-training/file-upload?u=76281980&t=39)** So while I'm still on the test application, I will inspect the file upload field so I can use it in my test in just a minute.
 >
@@ -1625,7 +1600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Selenium]] (2), web (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (2)
 > **Code Identifiers:** fileuploadfield (2), sendkeys (1)
 > **CLI Commands:** find (1)
 > **Tools:** intellij (1)
@@ -1639,8 +1614,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why synchronization is an issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/why-synchronization-is-an-issue?u=76281980)
+#### [Why synchronization is an issue](https://www.linkedin.com/learning/selenium-essential-training/why-synchronization-is-an-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1664,7 +1638,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/selenium-essential-training/why-synchronization-is-an-issue?u=76281980&t=57)** So, you can see there are several different reasons that synchronization issues can creep into tests.
 >
-> **[1:01](https://www.linkedin.com/learning/selenium-essential-training/why-synchronization-is-an-issue?u=76281980&t=61)** What's inevitable is that synchronization will become an issue at some point with Selenium WebDriver, and it is critical to learn how to manage it in your test.
+> **[1:01](https://www.linkedin.com/learning/selenium-essential-training/why-synchronization-is-an-issue?u=76281980&t=61)** What's inevitable is that synchronization will become an issue at some point with [[Selenium]] WebDriver, and it is critical to learn how to manage it in your test.
 >
 > **[1:12](https://www.linkedin.com/learning/selenium-essential-training/why-synchronization-is-an-issue?u=76281980&t=72)** You can usually identify a synchronization issue when running a test and it has a step that gets stuck somewhere.
 >
@@ -1690,13 +1664,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implicit waits
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/implicit-waits?u=76281980)
+#### [Implicit waits](https://www.linkedin.com/learning/selenium-essential-training/implicit-waits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1722,7 +1695,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/selenium-essential-training/implicit-waits?u=76281980&t=62)** And now I'll focus on the test class.
 >
-> **[1:05](https://www.linkedin.com/learning/selenium-essential-training/implicit-waits?u=76281980&t=65)** So this is the auto complete that Java test class that you might remember from earlier on in the course, that we automated to complete an auto complete address form.
+> **[1:05](https://www.linkedin.com/learning/selenium-essential-training/implicit-waits?u=76281980&t=65)** So this is the auto complete that [[Java]] test class that you might remember from earlier on in the course, that we automated to complete an auto complete address form.
 >
 > **[1:16](https://www.linkedin.com/learning/selenium-essential-training/implicit-waits?u=76281980&t=76)** So what I wanna do for this test class, is instead of using a sleep down on line 17, I wanna replace it using an implicit wait.
 >
@@ -1756,8 +1729,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Explicit waits
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980)
+#### [Explicit waits](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1787,7 +1759,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=82)** And once that's opened I'll go ahead and build the project.
 >
-> **[1:26](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=86)** Now I'll focus on the test class where I'll be using the autocomplete dot java test class again, and I'll replace the sleep on line 19 with an explicit wait.
+> **[1:26](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=86)** Now I'll focus on the test class where I'll be using the autocomplete dot [[Java]] test class again, and I'll replace the sleep on line 19 with an explicit wait.
 >
 > **[1:37](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=97)** So I'll start by just removing this sleep, as well as the exception on the main method signature.
 >
@@ -1811,13 +1783,13 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=191)** So besides waiting for an element to be visible, there are many other expected conditions that can be used with an explicit wait, such as element to be clickable, element to be selected, presence of element located, text to be present in element, and more.
 >
-> **[3:27](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=207)** I recommend checking out the API documentation shown here at [selenium.dev](https://selenium.dev) in order to learn more about all the expected conditions available that can help when writing tests and using explicit waits.
+> **[3:27](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=207)** I recommend checking out the API documentation shown here at [[[Selenium]].dev](https://selenium.dev) in order to learn more about all the expected conditions available that can help when writing tests and using explicit waits.
 >
 > **[3:40](https://www.linkedin.com/learning/selenium-essential-training/explicit-waits-2?u=76281980&t=220)** The pros of explicit waits are that they allow flexibility to wait for an element to be in a specific condition, and that they pull for the condition to be true every 500 milliseconds, and will likely not take up any unnecessary time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), [[Java]] (1), api (1), [[Selenium]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Selenium]] (1)
 > **UI Navigation:** open the (1), right-click (1)
 > **URLs:** [selenium.dev](https://selenium.dev) (1)
 > **Env Vars:** api (1)
@@ -1831,8 +1803,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automate a workflow using WebDriver
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/automate-a-workflow-using-webdriver?u=76281980)
+#### [Automate a workflow using WebDriver](https://www.linkedin.com/learning/selenium-essential-training/automate-a-workflow-using-webdriver?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1860,7 +1831,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/selenium-essential-training/automate-a-workflow-using-webdriver?u=76281980&t=86)** I'll go ahead and just do it all on one line.
 >
-> **[1:28](https://www.linkedin.com/learning/selenium-essential-training/automate-a-workflow-using-webdriver?u=76281980&t=88)** And I can just say driver.findElement, by ID, first-name, and I can send the keys, John.
+> **[1:28](https://www.linkedin.com/learning/selenium-essential-training/automate-a-workflow-using-webdriver?u=76281980&t=88)** And I can just say driver.findElement, by ID, first-name, and I can send the keys, [[John the Ripper|John]].
 >
 > **[1:40](https://www.linkedin.com/learning/selenium-essential-training/automate-a-workflow-using-webdriver?u=76281980&t=100)** Then let's go back to the test application and inspect the last name which has an ID of last-name.
 >
@@ -1958,7 +1929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), css (5), next (3), web (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **Code Identifiers:** findelement (8), fingelement (1)
 > **UI Navigation:** click on (5), checkbox (2), go to (1)
 > **Env Vars:** css (5)
@@ -1967,8 +1938,7 @@ created: 2026-05-02
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
 
-#### Confirm the behavior of the test
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/confirm-the-behavior-of-the-test?u=76281980)
+#### [Confirm the behavior of the test](https://www.linkedin.com/learning/selenium-essential-training/confirm-the-behavior-of-the-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2010,7 +1980,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/selenium-essential-training/confirm-the-behavior-of-the-test?u=76281980&t=146)** Assertions are used in test to confirm values and behaviors.
 >
-> **[2:31](https://www.linkedin.com/learning/selenium-essential-training/confirm-the-behavior-of-the-test?u=76281980&t=151)** For this video, I will be using the assertion framework called JUnit, which is a popular framework for Java projects.
+> **[2:31](https://www.linkedin.com/learning/selenium-essential-training/confirm-the-behavior-of-the-test?u=76281980&t=151)** For this video, I will be using the assertion framework called [[JUnit]], which is a popular framework for [[Java]] projects.
 >
 > **[2:38](https://www.linkedin.com/learning/selenium-essential-training/confirm-the-behavior-of-the-test?u=76281980&t=158)** So I wanna start thinking about the actual assertion that I wanna write.
 >
@@ -2034,7 +2004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), application (2), next (2), [[JUnit]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (1), [[Java]] (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -2042,8 +2012,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clean up the test
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/clean-up-the-test?u=76281980)
+#### [Clean up the test](https://www.linkedin.com/learning/selenium-essential-training/clean-up-the-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2109,20 +2078,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), next (1)
 > **Code Identifiers:** waitforalertbanner (4), submitform (3), getalertbannertext (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use page objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/use-page-objects?u=76281980)
+#### [Use page objects](https://www.linkedin.com/learning/selenium-essential-training/use-page-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/selenium-essential-training/use-page-objects?u=76281980&t=0)** - [Instructor] I'd like to introduce the concept of page objects.
 >
-> **[0:03](https://www.linkedin.com/learning/selenium-essential-training/use-page-objects?u=76281980&t=3)** Page objects are very useful in Selenium tests as they allow functionality to be separated into different classes based on pages or area of functionality in the application.
+> **[0:03](https://www.linkedin.com/learning/selenium-essential-training/use-page-objects?u=76281980&t=3)** Page objects are very useful in [[Selenium]] tests as they allow functionality to be separated into different classes based on pages or area of functionality in the application.
 >
 > **[0:15](https://www.linkedin.com/learning/selenium-essential-training/use-page-objects?u=76281980&t=15)** The benefits to this are that it can be easy to organize test code and helps to keep the test class, itself, even more clean and readable.
 >
@@ -2134,7 +2101,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/selenium-essential-training/use-page-objects?u=76281980&t=49)** And I will call this new directory pages.
 >
-> **[0:53](https://www.linkedin.com/learning/selenium-essential-training/use-page-objects?u=76281980&t=53)** Then, I'll right-click on this directory and create a new Java Class called FormPage.
+> **[0:53](https://www.linkedin.com/learning/selenium-essential-training/use-page-objects?u=76281980&t=53)** Then, I'll right-click on this directory and create a new [[Java]] Class called FormPage.
 >
 > **[1:01](https://www.linkedin.com/learning/selenium-essential-training/use-page-objects?u=76281980&t=61)** In this page object class, I'll want to have the method to submit a form.
 >
@@ -2172,7 +2139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Selenium]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Selenium]] (1)
 > **Code Identifiers:** formpage (2), confirmationpage (2), getalertbannertext (2), submitform (1), waitforalertbanner (1)
 > **UI Navigation:** right-click (4)
 > **CLI Commands:** make (1)
@@ -2184,8 +2151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connect to GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980)
+#### [Connect to GitHub](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2195,9 +2161,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980&t=10)** It is good for collaboration, by allowing the project to be shared and worked on with others.
 >
-> **[0:15](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980&t=15)** It also helps to allow further integrations with the WebDriver project, such as connecting it to a continuous integration server to run test every time code changes in the repository.
+> **[0:15](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980&t=15)** It also helps to allow further integrations with the WebDriver project, such as connecting it to a [[Continuous Integration (CI)|continuous integration]] server to run test every time code changes in the repository.
 >
-> **[0:26](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980&t=26)** I'll demonstrate setting up the exercise files directory, with Git and GitHub.
+> **[0:26](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980&t=26)** I'll demonstrate setting up the exercise files directory, with [[Git]] and [[GitHub]].
 >
 > **[0:32](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980&t=32)** In order to do this, it's necessary to have Git.
 >
@@ -2249,7 +2215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (14), [[GitHub]] (9), web (1), [[Continuous Integration (CI)|Continuous integration]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (14), [[GitHub]] (9), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** git (14), make (1)
 > **Tools:** github (9), terminal (2), command line (1)
 > **UI Navigation:** navigate to (1), go to (1), select the (1)
@@ -2258,16 +2224,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Env Vars:** url (1)
 
-#### Setup CI
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980)
+#### [Setup CI](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980&t=0)** - [Instructor] Selenium Grid is a proxy server that routes commands to remote browser instances.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980&t=0)** - [Instructor] [[Selenium]] Grid is a proxy server that routes commands to remote browser instances.
 >
 > **[0:05](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980&t=5)** It spreads the load of testing across several machines, and those machines can run different browsers and browser versions, and different platforms as well.
 >
-> **[0:15](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980&t=15)** With Selenium Grid, one server acts as the hub, and routes JSON formatted test commands to one or more registered grid nodes to access browser instances.
+> **[0:15](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980&t=15)** With Selenium Grid, one server acts as the hub, and routes [[JSON]] formatted test commands to one or more registered grid nodes to access browser instances.
 >
 > **[0:25](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980&t=25)** A hub is a central point from where tests are executed.
 >
@@ -2289,7 +2254,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980&t=86)** So I can cd to the downloads directory, and then once there, I'm going to execute the Selenium server stand alone jar to start a hub.
 >
-> **[1:34](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980&t=94)** So to do that, I can type java space dash jar selenium server stand alone dash 3.141.59, which is the version that I just downloaded, but note this might be different for you, depending on what version that you have downloaded.
+> **[1:34](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980&t=94)** So to do that, I can type [[Java]] space dash jar selenium server stand alone dash 3.141.59, which is the version that I just downloaded, but note this might be different for you, depending on what version that you have downloaded.
 >
 > **[1:49](https://www.linkedin.com/learning/selenium-essential-training/setup-ci?u=76281980&t=109)** And then I need to specify the role of the hub to specify that I want to start up a hub, so I see some terminal output.
 >
@@ -2333,7 +2298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (16), node (7), next (2), cd (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[Selenium]] (16), [[Java]] (2), [[JSON]] (1)
 > **CLI Commands:** node (7), make (2), cd (2)
 > **Tools:** terminal (4), firefox (1), safari (1)
 > **Prerequisites:** install (2), set up (2), configure (1)
@@ -2342,30 +2307,29 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), click on (1)
 > **URLs:** [selenium.dev](https://selenium.dev) (1)
 
-#### Run in CI (continuous integration) servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980)
+#### [Run in CI (continuous integration) servers](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=0)** - [Instructor] Continuous integration is your friend.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=0)** - [Instructor] [[Continuous Integration (CI)|Continuous integration]] is your friend.
 >
 > **[0:03](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=3)** It provides continuous feedback that tests are working and validates that the functionality of the application is working as expected.
 >
-> **[0:10](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=10)** Luckily, there are many continuous integration servers that integrate well with Selenium WebDriver and can be run automatically on a regular basis.
+> **[0:10](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=10)** Luckily, there are many continuous integration servers that integrate well with [[Selenium]] WebDriver and can be run automatically on a regular basis.
 >
 > **[0:21](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=21)** I want to share a few continuous integration servers that I recommend.
 >
 > **[0:26](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=26)** First up, there's CircleCI.
 >
-> **[0:29](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=29)** CircleCI is a cloud service that supports GitHub projects and all major programming languages.
+> **[0:29](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=29)** CircleCI is a cloud service that supports [[GitHub]] projects and all major programming languages.
 >
 > **[0:35](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=35)** CircleCI is a flexible tool that offers support to run jobs concurrently up to 16 parallel builds, each isolated in their own container.
 >
 > **[0:44](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=44)** The basic plan is free to get started with.
 >
-> **[0:47](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=47)** Next up is Jenkins.
+> **[0:47](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=47)** Next up is [[Jenkins]].
 >
-> **[0:49](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=49)** Jenkins is a great open-source CI tool written in Java that can be hosted locally or remotely.
+> **[0:49](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=49)** Jenkins is a great open-source CI tool written in [[Java]] that can be hosted locally or remotely.
 >
 > **[0:56](https://www.linkedin.com/learning/selenium-essential-training/run-in-ci-continuous-integration-servers?u=76281980&t=56)** It is a cross-platform tool that offers configuration both through a GUI interface as well as console commands.
 >
@@ -2391,7 +2355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (6), [[Continuous Integration (CI)|Continuous integration]] (3), [[Jenkins]] (3), [[GitHub]] (2), open-source (2)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Jenkins]] (3), [[GitHub]] (2), [[Selenium]] (1), [[Java]] (1)
 > **Definitions:** is a  (5)
 > **Tools:** github (2), intellij (1)
 > **Env Vars:** gui (1)
@@ -2399,16 +2363,15 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use cloud-based testing tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/use-cloud-based-testing-tools?u=76281980)
+#### [Use cloud-based testing tools](https://www.linkedin.com/learning/selenium-essential-training/use-cloud-based-testing-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/selenium-essential-training/use-cloud-based-testing-tools?u=76281980&t=0)** - [Instructor] Cloud-based test tools allow for hundreds of thousands of combinations of cross-browser, cross-device, and cross-platform testing.
 >
-> **[0:08](https://www.linkedin.com/learning/selenium-essential-training/use-cloud-based-testing-tools?u=76281980&t=8)** It's an alternative for building out your own Selenium Grid infrastructure where you don't have to worry about maintaining that infrastructure yourself.
+> **[0:08](https://www.linkedin.com/learning/selenium-essential-training/use-cloud-based-testing-tools?u=76281980&t=8)** It's an alternative for building out your own [[Selenium]] Grid infrastructure where you don't have to worry about maintaining that infrastructure yourself.
 >
-> **[0:16](https://www.linkedin.com/learning/selenium-essential-training/use-cloud-based-testing-tools?u=76281980&t=16)** With cloud-based test tools, virtual machines can be spun up on demand with a certain set of specifications, run test, and then shut down.
+> **[0:16](https://www.linkedin.com/learning/selenium-essential-training/use-cloud-based-testing-tools?u=76281980&t=16)** With cloud-based test tools, [[Virtual Machines]] can be spun up on demand with a certain set of specifications, run test, and then shut down.
 >
 > **[0:27](https://www.linkedin.com/learning/selenium-essential-training/use-cloud-based-testing-tools?u=76281980&t=27)** The cloud-based test tool that I recommend using is Sauce Labs, which you can learn more about on their website, shown here at [saucelabs.com](https://saucelabs.com).
 >
@@ -2438,7 +2401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Selenium]] (2), cross-platform (1), [[Virtual Machines]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** url (3)
 > **Prerequisites:** set up (3)
 > **URLs:** [saucelabs.com](https://saucelabs.com) (1)
@@ -2451,12 +2414,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=0)** - [Instructor] Thank you so much for watching my course on the essentials of Selenium.
+> **[0:00](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=0)** - [Instructor] Thank you so much for watching my course on the essentials of [[Selenium]].
 >
 > **[0:04](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=4)** I have shared the fundamentals of the Selenium project, and how to get more acclimated with the web driver API and functionality.
 >
@@ -2474,7 +2436,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=59)** If you'd like to continue learning about all that Selenium has to offer, I recommend that you refer to their documentation at www.[selenium.dev](https://selenium.dev).
 >
-> **[1:10](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=70)** I also recommend that you refer to their documentation on the SeleniumHQ website hosted on GitHub.
+> **[1:10](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=70)** I also recommend that you refer to their documentation on the SeleniumHQ website hosted on [[GitHub]].
 >
 > **[1:16](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=76)** There, at the wiki you can see lots of helpful information.
 >
@@ -2482,13 +2444,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=86)** If you'd like to contact me, I'd enjoy hearing from you or answering any questions you might have.
 >
-> **[1:30](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=90)** You can reach me on LinkedIn, on [Twitter.com](https://Twitter.com), or on my website at [meaghanlewis.com](https://meaghanlewis.com).
+> **[1:30](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=90)** You can reach me on [[LinkedIn]], on [Twitter.com](https://Twitter.com), or on my website at [meaghanlewis.com](https://meaghanlewis.com).
 >
 > **[1:39](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980&t=99)** Cheers, see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (10), web (2), [[GitHub]] (2), api (1), application (1)
+> **Frameworks & Libraries:** [[Selenium]] (10), [[GitHub]] (2), [[LinkedIn]] (1)
 > **URLs:** [selenium.dev](https://selenium.dev) (1), [github.com](https://github.com) (1), [twitter.com](https://twitter.com) (1), [meaghanlewis.com](https://meaghanlewis.com) (1)
 > **Tools:** github (2)
 > **Env Vars:** api (1)

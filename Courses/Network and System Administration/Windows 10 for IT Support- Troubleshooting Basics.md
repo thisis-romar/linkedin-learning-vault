@@ -92,12 +92,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn the basics of troubleshooting in Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980)
+#### [Learn the basics of troubleshooting in Windows 10](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980&t=0)** - [Brian] Windows 10 is easily one of the most stable and reliable versions of Windows ever created.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980&t=0)** - [Brian] [[Windows 10]] is easily one of the most stable and reliable versions of [[Windows]] ever created.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980&t=5)** Even so, things can and sometimes do go wrong.
 >
@@ -105,9 +104,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980&t=11)** And that's what this course is all about.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980&t=13)** In this LinkedIn Learning course, I'll show you some various troubleshooting tools that are built into Windows and I'll explain some basic techniques for troubleshooting Windows 10 problems.
+> **[0:13](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980&t=13)** In this [[LinkedIn]] Learning course, I'll show you some various troubleshooting tools that are built into Windows and I'll explain some basic techniques for troubleshooting Windows 10 problems.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980&t=21)** I'm Brian Posey, a 21 time Microsoft MVP, author and commercial astronaut candidate.
+> **[0:21](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980&t=21)** I'm Brian Posey, a 21 time [[Microsoft]] MVP, author and commercial astronaut candidate.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980&t=27)** And I'll be your instructor for this course.
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[LinkedIn]] (2), [[Troubleshooting]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[LinkedIn]] (2), [[Microsoft]] (1)
 > **Warnings:** troubleshoot (2)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [brian] (1)
@@ -125,12 +124,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Windows 10 troubleshooting best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980)
+#### [Windows 10 troubleshooting best practices](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980&t=0)** - [Instructor] Before I get into a discussion of Windows 10 specific tools and techniques for troubleshooting, I want to go over five quick best practices for troubleshooting any computer problem that you might run into.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980&t=0)** - [Instructor] Before I get into a discussion of [[Windows 10]] specific tools and techniques for troubleshooting, I want to go over five quick best practices for troubleshooting any computer problem that you might run into.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980&t=10)** And these best practices are things that I've come up with over the years as I've resolved numerous problems on various systems.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980&t=131)** Now, what do I mean by this?
 >
-> **[2:12](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980&t=132)** Well, for any problem that you might encounter, you can go out to Google or Bing or your favorite search engine and search on that problem.
+> **[2:12](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980&t=132)** Well, for any problem that you might encounter, you can go out to [[Google]] or Bing or your favorite search engine and search on that problem.
 >
 > **[2:19](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980&t=139)** And you'll find numerous solutions to that problem.
 >
@@ -204,11 +202,11 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980&t=219)** So, don't be afraid to explore that idea.
 >
-> **[3:42](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980&t=222)** At any rate, these are just a few best practices that I wanted to put out there before I really get into the Windows specific troubleshooting tools and techniques.
+> **[3:42](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980&t=222)** At any rate, these are just a few best practices that I wanted to put out there before I really get into the [[Windows]] specific troubleshooting tools and techniques.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (7), [[Search]] (3), power (2), [[Windows 10]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Google]] (1), [[Windows]] (1)
 > **CLI Commands:** make (7), find (3)
 > **Best Practices:** best practice (3)
 > **Warnings:** be careful (2)
@@ -219,14 +217,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Booting into Safe Mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980)
+#### [Booting into Safe Mode](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=0)** - [Instructor] One of the most useful tools for fixing problems with Windows 10 is something called safe mode.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=0)** - [Instructor] One of the most useful tools for fixing problems with [[Windows 10]] is something called safe mode.
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=5)** When you boot Windows into safe mode, what you're doing is you're booting Windows with a minimal set of drivers so that way, if you've got a driver problem that's causing Windows to not boot correctly, you'll have the opportunity to go in and fix that because not only does Windows boot with a minimal set of drivers, it also boots using the default built-in drivers for Windows.
+> **[0:05](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=5)** When you boot [[Windows]] into safe mode, what you're doing is you're booting Windows with a minimal set of drivers so that way, if you've got a driver problem that's causing Windows to not boot correctly, you'll have the opportunity to go in and fix that because not only does Windows boot with a minimal set of drivers, it also boots using the default built-in drivers for Windows.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=23)** So that way, if you're having an issue with a third-party driver, that driver isn't loaded when you're in safe mode, so you'll have the opportunity to be able to fix that.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=37)** If, for example, you accidentally set Windows to an incorrect display resolution, safe mode gives you a way of fixing that.
 >
-> **[0:44](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=44)** When you boot into safe mode, Windows will typically load at a reduced resolution because it's using the built-in Microsoft display driver.
+> **[0:44](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=44)** When you boot into safe mode, Windows will typically load at a reduced resolution because it's using the built-in [[Microsoft]] display driver.
 >
 > **[0:52](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=52)** So I'll show you what that looks like.
 >
@@ -358,7 +355,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=327)** And then from there what you would do is you would type BCD edit it and then slash delete value.
 >
-> **[5:38](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=338)** And that's all one word, no space in between delete and value.
+> **[5:38](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=338)** And that's all one [[Microsoft Word|word]], no space in between delete and value.
 >
 > **[5:42](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980&t=342)** And then in brackets, current and then safe boot.
 >
@@ -370,7 +367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (28), prompt (6), power (5), [[Windows 10]] (2), next (2)
+> **Frameworks & Libraries:** [[Windows]] (28), [[Windows 10]] (2), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (9), go to (6), open the (2)
 > **Tools:** command prompt (5)
 > **Env Vars:** bcd (3), cmd (1)
@@ -379,12 +376,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resetting Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/resetting-windows?u=76281980)
+#### [Resetting Windows](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/resetting-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/resetting-windows?u=76281980&t=0)** - [Instructor] If you're having trouble with Windows 10, one of the simplest ways of fixing that problem is to reset your PC, which is effectively the same thing as reinstalling Windows.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/resetting-windows?u=76281980&t=0)** - [Instructor] If you're having trouble with [[Windows 10]], one of the simplest ways of fixing that problem is to reset your PC, which is effectively the same thing as reinstalling [[Windows]].
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/resetting-windows?u=76281980&t=10)** So let's take a look at how to reset a Windows 10 PC.
 >
@@ -468,7 +464,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/resetting-windows?u=76281980&t=229)** And if I were to click the Start button, you can see that the Start menu also looks quite a bit different.
 >
-> **[3:55](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/resetting-windows?u=76281980&t=235)** All of those default Microsoft apps have been restored simply because of the reset process, and any apps that had been installed on this PC after the initial installation of Windows are now gone simply because I reset the PC.
+> **[3:55](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/resetting-windows?u=76281980&t=235)** All of those default [[Microsoft]] apps have been restored simply because of the reset process, and any apps that had been installed on this PC after the initial installation of Windows are now gone simply because I reset the PC.
 >
 > **[4:08](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/resetting-windows?u=76281980&t=248)** So essentially, what we're doing by resetting Windows is returning everything to a clean state, as if Windows had been freshly installed.
 >
@@ -480,7 +476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (21), [[Windows 10]] (4), next (4), cloud (3), data (3)
+> **Frameworks & Libraries:** [[Windows]] (21), [[Windows 10]] (4), [[Microsoft]] (1)
 > **UI Navigation:** click on (7)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -488,12 +484,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restoring Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/restoring-windows?u=76281980)
+#### [Restoring Windows](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/restoring-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/restoring-windows?u=76281980&t=0)** - [Instructor] If you're experiencing problems with Windows 10, then one way that you might be able to return Windows to a functional status is by performing a restoration.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/restoring-windows?u=76281980&t=0)** - [Instructor] If you're experiencing problems with [[Windows 10]], then one way that you might be able to return [[Windows]] to a functional status is by performing a restoration.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/restoring-windows?u=76281980&t=9)** Now, when I say performing a restoration, I'm not talking about restoring a backup.
 >
@@ -589,21 +584,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), next (3), [[Windows 10]] (2), data (2), functional (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (2)
 > **UI Navigation:** click on (4), go to (1), open the (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** before you begin (1), configure (1)
 > **Versions:** 1.26 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running Windows Update
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980)
+#### [Running Windows Update](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980&t=0)** - [Instructor] When Windows 10 experiences problems, one of the most effective things that you can do is to check for any available updates.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980&t=0)** - [Instructor] When [[Windows 10]] experiences problems, one of the most effective things that you can do is to check for any available updates.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980&t=7)** Even though a lot of the updates that Microsoft provides are security related, sometimes updates contain bug fixes, so you may be able to resolve your problems simply by installing the available updates.
+> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980&t=7)** Even though a lot of the updates that [[Microsoft]] provides are security related, sometimes updates contain bug fixes, so you may be able to resolve your problems simply by installing the available updates.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980&t=17)** So let's go ahead and take a look at how that works.
 >
@@ -611,23 +605,22 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980&t=32)** Now, I'll click on check for updates and you can see that there is an update available and that update is automatically downloading and installing.
 >
-> **[0:42](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980&t=42)** Now, sometimes depending on the type of update that's available, you may have to reboot your system after the update has finished being installed, but in this case, the update is simply a security intelligence update for Microsoft Defender, so there's no need to reboot for those types of updates.
+> **[0:42](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980&t=42)** Now, sometimes depending on the type of update that's available, you may have to reboot your system after the update has finished being installed, but in this case, the update is simply a security intelligence update for [[Microsoft Defender]], so there's no need to reboot for those types of updates.
 >
 > **[0:58](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/running-windows-update?u=76281980&t=58)** So that's how you update Windows 10.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Windows 10]] (2), [[Microsoft]] (1), [[Microsoft Defender]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Microsoft]] (1), [[Microsoft Defender]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Removing a buggy update
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/removing-a-buggy-update?u=76281980)
+#### [Removing a buggy update](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/removing-a-buggy-update?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/removing-a-buggy-update?u=76281980&t=0)** - [Instructor] Every great once in a while, you might find that when you install an update in Windows 10, that the update ends up causing problems.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/removing-a-buggy-update?u=76281980&t=0)** - [Instructor] Every great once in a while, you might find that when you install an update in [[Windows 10]], that the update ends up causing problems.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/removing-a-buggy-update?u=76281980&t=7)** Fortunately, there is a way that you can remove a buggy update.
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/removing-a-buggy-update?u=76281980&t=15)** And for the purposes of this video, we're going to pretend that a buggy update has been applied to this virtual machine and that we need to remove it.
 >
-> **[0:22](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/removing-a-buggy-update?u=76281980&t=22)** So what has to happen is that we have to boot off of the Windows installation media.
+> **[0:22](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/removing-a-buggy-update?u=76281980&t=22)** So what has to happen is that we have to boot off of the [[Windows]] installation media.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/removing-a-buggy-update?u=76281980&t=27)** So I've already inserted the Windows installation media.
 >
@@ -689,7 +682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), [[Windows 10]] (3), prompt (2), cd (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (9), [[Windows 10]] (3)
 > **CLI Commands:** find (1), cd (1), make (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2)
@@ -703,12 +696,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with the Reliability Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980)
+#### [Working with the Reliability Monitor](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980&t=0)** - [Instructor] Sometimes when you're asked to troubleshoot a Windows 10 computer, you may be in a situation where you don't really know anything about that computer's history.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980&t=0)** - [Instructor] Sometimes when you're asked to troubleshoot a [[Windows 10]] computer, you may be in a situation where you don't really know anything about that computer's history.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980&t=8)** You don't know if that machine has been generally reliable or if it's been having problems for a long time, and you don't know what types of incidents may have occurred in the past.
 >
@@ -750,7 +742,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980&t=111)** In this case, there are no errors, but if there were errors you would see error icons shown on this graph and those icons appear in various rows.
 >
-> **[2:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980&t=120)** So the top row corresponds to application failures and then just below that we have Windows failures and then miscellaneous failures.
+> **[2:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980&t=120)** So the top row corresponds to application failures and then just below that we have [[Windows]] failures and then miscellaneous failures.
 >
 > **[2:07](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980&t=127)** And then we have warnings and information.
 >
@@ -792,7 +784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Security]] (3), [[Windows]] (2), application (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2)
 > **UI Navigation:** click on (8), go to (1), open the (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Warnings:** troubleshoot (1), warning (1)
@@ -800,18 +792,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Steps Recorder
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-steps-recorder?u=76281980)
+#### [Using the Steps Recorder](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-steps-recorder?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-steps-recorder?u=76281980&t=0)** - [Instructor] Occasionally, you may find that you have users who call you on the phone and ask for your help with a Windows 10 problem.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-steps-recorder?u=76281980&t=0)** - [Instructor] Occasionally, you may find that you have users who call you on the phone and ask for your help with a [[Windows 10]] problem.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-steps-recorder?u=76281980&t=6)** Now, some users will do a good job of describing the problem and you'll probably be able to help them with that problem.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-steps-recorder?u=76281980&t=11)** But other times a user might not adequately describe the problem, or they might be a little bit confused about what it is that they're actually doing making it tough for you to decipher the steps that they took that produced the problem.
 >
-> **[0:23](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-steps-recorder?u=76281980&t=23)** Well, there's a tool that's built into Windows called the Steps Recorder that can help with this.
+> **[0:23](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-steps-recorder?u=76281980&t=23)** Well, there's a tool that's built into [[Windows]] called the Steps Recorder that can help with this.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-steps-recorder?u=76281980&t=27)** So, in a situation where a user is having a problem, and they're trying to describe that problem over the phone, what you can do is you can ask the user to run the Steps Recorder and then do whatever it was that caused the error.
 >
@@ -879,19 +870,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), next (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2)
 > **UI Navigation:** scroll down (2), go to (1), open the (1), click on (1)
 > **Env Vars:** zip (3)
 > **Exercise Files:** zip file (3)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Security and Maintenance Console
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-security-and-maintenance-console?u=76281980)
+#### [Using the Security and Maintenance Console](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-security-and-maintenance-console?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-security-and-maintenance-console?u=76281980&t=0)** - [Instructor] Occasionally, you may find that when Windows 10 experiences problems, it's because the operating system needs to have maintenance performed.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-security-and-maintenance-console?u=76281980&t=0)** - [Instructor] Occasionally, you may find that when [[Windows 10]] experiences problems, it's because the operating system needs to have maintenance performed.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-the-security-and-maintenance-console?u=76281980&t=7)** One way that you can find out about any required maintenance is by using the security and maintenance console.
 >
@@ -957,21 +947,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Windows 10]] (4), next (4), feature (1)
+> **Frameworks & Libraries:** [[Windows 10]] (4)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Ports:** :59 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with troubleshooters
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980)
+#### [Working with troubleshooters](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=0)** - [Instructor] If you're having problems with Windows 10, then one of the easiest things that you can do to potentially resolve that problem is to use an automated troubleshooter.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=0)** - [Instructor] If you're having problems with [[Windows 10]], then one of the easiest things that you can do to potentially resolve that problem is to use an automated troubleshooter.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=8)** Microsoft has created automated troubleshooters that can correct a number of common Windows 10 problems.
+> **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=8)** [[Microsoft]] has created automated troubleshooters that can correct a number of common Windows 10 problems.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=14)** So let's take a look at how this works.
 >
@@ -987,7 +976,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=44)** And there are a huge number of troubleshooters that exist within Windows 10.
 >
-> **[0:48](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=48)** For example, we have troubleshooters for things like internet connections, playing audio, printers, Windows update, Bluetooth, connections to a workplace using direct access, incoming connections, keyboard, and the list goes on and on.
+> **[0:48](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=48)** For example, we have troubleshooters for things like internet connections, playing audio, printers, [[Windows]] update, Bluetooth, connections to a workplace using direct access, incoming connections, keyboard, and the list goes on and on.
 >
 > **[1:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=60)** So we have all of these things that Windows provides automatic troubleshooters for.
 >
@@ -1007,7 +996,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=106)** And so Windows sets out to look for the problem.
 >
-> **[1:50](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=110)** So you can see that it's checking the spooler service errors and now it begins scanning for hardware changes because it's trying to detect any printer that is currently attached to the system, but is unrecognized and of course it didn't find one because I don't have a printer connected to this machine.
+> **[1:50](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=110)** So you can see that it's checking the spooler service errors and now it begins scanning for [[Hardware]] changes because it's trying to detect any printer that is currently attached to the system, but is unrecognized and of course it didn't find one because I don't have a printer connected to this machine.
 >
 > **[2:05](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-troubleshooters?u=76281980&t=125)** But because it didn't find a printer, it provides me with a button that I can click to open the add printer wizard.
 >
@@ -1021,7 +1010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (3), next (2), [[Microsoft]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (3), [[Microsoft]] (1), [[Hardware]] (1)
 > **UI Navigation:** click on (5), go to (1), open the (1)
 > **Warnings:** troubleshoot (4)
 > **CLI Commands:** find (2)
@@ -1030,14 +1019,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cleaning up the hard disk
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/cleaning-up-the-hard-disk?u=76281980)
+#### [Cleaning up the hard disk](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/cleaning-up-the-hard-disk?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/cleaning-up-the-hard-disk?u=76281980&t=0)** - [Narrator] There are any number of different problems that can occur as a result of running low on disc space on the operating system volume.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/cleaning-up-the-hard-disk?u=76281980&t=7)** That is the disc that contains the Windows operating system.
+> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/cleaning-up-the-hard-disk?u=76281980&t=7)** That is the disc that contains the [[Windows]] operating system.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/cleaning-up-the-hard-disk?u=76281980&t=10)** Fortunately, when this happens, there are a number of different things that you can do to get some space back so that Windows can have the space that it needs in order to operate properly.
 >
@@ -1095,7 +1083,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/cleaning-up-the-hard-disk?u=76281980&t=176)** Now, the other thing that you'll notice about this screen is that we have a series of check boxes up here and each one of these check boxes corresponds to a file type.
 >
-> **[3:04](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/cleaning-up-the-hard-disk?u=76281980&t=184)** So we have things like Microsoft Defender Antivirus, Windows upgrade log files, downloaded program files, temporary internet files, and the list goes on and on, and we even have a checkbox for Recycle Bin.
+> **[3:04](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/cleaning-up-the-hard-disk?u=76281980&t=184)** So we have things like [[Microsoft Defender]] Antivirus, Windows upgrade log files, downloaded program files, temporary internet files, and the list goes on and on, and we even have a checkbox for Recycle Bin.
 >
 > **[3:17](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/cleaning-up-the-hard-disk?u=76281980&t=197)** And for each one of these things, we can see how much disc space could potentially be reclaimed by clearing that out.
 >
@@ -1113,19 +1101,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), next (1), [[Microsoft Defender]] (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Microsoft Defender]] (1)
 > **UI Navigation:** click on (4), checkbox (3), open the (1), select the (1)
 > **Versions:** 17.3 (1), 92.1 (1)
 > **Env Vars:** dvd (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### An introduction to the Event Viewer
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980)
+#### [An introduction to the Event Viewer](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=0)** - [Instructor] The Event Viewer is another really helpful tool for troubleshooting problems with Windows 10 because Windows 10 maintains a collection of event logs.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=0)** - [Instructor] The Event Viewer is another really helpful tool for troubleshooting problems with [[Windows 10]] because Windows 10 maintains a collection of event logs.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=9)** And these logs are essentially just records of all the various activities that have happened within the operating system, and the Event Viewer is the tool that gives you access to those logs.
 >
@@ -1135,7 +1122,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=35)** And this opens up the Event Viewer.
 >
-> **[0:38](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=38)** Now, if you want to take a look at the main logs that are used by Windows, you would go to Windows Logs and then expand this container, and you can see that we have a few different types of logs.
+> **[0:38](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=38)** Now, if you want to take a look at the main logs that are used by [[Windows]], you would go to Windows Logs and then expand this container, and you can see that we have a few different types of logs.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=48)** Forwarded events, we're not really going to worry about for this video because those are events that were recorded on another machine and then sent to this machine.
 >
@@ -1155,7 +1142,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=94)** And the setup log has to do with events related to the setup process.
 >
-> **[1:38](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=98)** And in this case, that had to do with Windows Defender, which you can see right here.
+> **[1:38](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=98)** And in this case, that had to do with Windows [[Microsoft Defender|Defender]], which you can see right here.
 >
 > **[1:43](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-the-event-viewer?u=76281980&t=103)** Then we have system, and the system log is the main place that you'll go for troubleshooting problems with Windows because the system log contains all of the events that are related to the internal workings of the Windows operating system.
 >
@@ -1225,7 +1212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Security]] (3), [[Troubleshooting]] (2), [[Windows 10]] (2), application (2)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Microsoft Defender|Defender]] (1)
 > **UI Navigation:** go to (2), right-click (1), scroll down (1), click on (1), select the (1)
 > **Prerequisites:** setup (3)
 > **Definitions:** is an  (2)
@@ -1234,12 +1221,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### An introduction to performance monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-performance-monitoring?u=76281980)
+#### [An introduction to performance monitoring](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-performance-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-performance-monitoring?u=76281980&t=0)** - [Instructor] If you're experiencing performance problems in Windows 10, then one of the best tools that can help you to figure out what's going on is the performance monitor.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-performance-monitoring?u=76281980&t=0)** - [Instructor] If you're experiencing performance problems in [[Windows 10]], then one of the best tools that can help you to figure out what's going on is the performance monitor.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-performance-monitoring?u=76281980&t=8)** Now the performance monitor is kind of an advanced tool and this is a basic troubleshooting course, so I don't want to get too far into the performance monitor.
 >
@@ -1291,7 +1277,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-performance-monitoring?u=76281980&t=121)** I'll go ahead and click on the icon.
 >
-> **[2:04](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-performance-monitoring?u=76281980&t=124)** And when I do, Windows displays a list of the available counters.
+> **[2:04](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-performance-monitoring?u=76281980&t=124)** And when I do, [[Windows]] displays a list of the available counters.
 >
 > **[2:08](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/an-introduction-to-performance-monitoring?u=76281980&t=128)** So what we have is a series of categories.
 >
@@ -1325,7 +1311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), [[Troubleshooting]] (1), data (1), [[Windows]] (1), web (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (1)
 > **Env Vars:** cpu (8)
 > **UI Navigation:** click on (4)
 > **Definitions:** is a  (3), is called (1)
@@ -1333,12 +1319,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is slowing down the system?
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/what-is-slowing-down-the-system?u=76281980)
+#### [What is slowing down the system?](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/what-is-slowing-down-the-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/what-is-slowing-down-the-system?u=76281980&t=0)** - [Instructor] If you're experiencing performance problems in Windows 10, and you need to diagnose those performance problems, but you don't want to use anything as advanced as the performance monitor, there is an alternative.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/what-is-slowing-down-the-system?u=76281980&t=0)** - [Instructor] If you're experiencing performance problems in [[Windows 10]], and you need to diagnose those performance problems, but you don't want to use anything as advanced as the performance monitor, there is an alternative.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/what-is-slowing-down-the-system?u=76281980&t=10)** The easiest way to diagnose performance problems in Windows 10 is to use the task manager.
 >
@@ -1414,16 +1399,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fixing boot problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980)
+#### [Fixing boot problems](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980&t=0)** - [Instructor] Every once in a while you may encounter a Windows 10 machine that isn't booting properly.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980&t=0)** - [Instructor] Every once in a while you may encounter a [[Windows 10]] machine that isn't booting properly.
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980&t=4)** Now, when that happens, there are a couple of different ways that you can fix the problem.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980&t=8)** One option is to simply reinstall Windows or you could restore a backup, that would also work.
+> **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980&t=8)** One option is to simply reinstall [[Windows]] or you could restore a backup, that would also work.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980&t=13)** Another option is to use the boot media to fix the startup problem.
 >
@@ -1477,7 +1461,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980&t=116)** I'm going to click on Windows 10 and the diagnostic process begins.
 >
-> **[2:01](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980&t=121)** Now the amount of time that this takes really depends on the speed of your hardware and what's wrong with the boot process.
+> **[2:01](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980&t=121)** Now the amount of time that this takes really depends on the speed of your [[Hardware]] and what's wrong with the boot process.
 >
 > **[2:07](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980&t=127)** Now, in this case, we're receiving a message that startup repair couldn't repair the PC.
 >
@@ -1499,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (7), prompt (4), [[Windows]] (3), cd (1), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (7), [[Windows]] (3), [[Hardware]] (1)
 > **Env Vars:** dvd (2), usb (1), uefi (1)
 > **UI Navigation:** click on (4)
 > **Warnings:** troubleshoot (3)
@@ -1508,12 +1492,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Windows startup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980)
+#### [Windows startup](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=0)** - [Instructor] Some types of Windows problems can be attributed to items that are loading at Windows startup.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=0)** - [Instructor] Some types of [[Windows]] problems can be attributed to items that are loading at Windows startup.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=5)** This is particularly true if the system has suffered a malware infection.
 >
@@ -1521,13 +1504,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=14)** What I'm going to do is right click on the start button and I'll go to run and I'll type msconfig and click okay.
 >
-> **[0:24](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=24)** So this is going to bring up the system configuration utility and you'll notice that there's a startup tab.
+> **[0:24](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=24)** So this is going to bring up the [[System Configuration]] utility and you'll notice that there's a startup tab.
 >
 > **[0:29](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=29)** Now in the past, this was the method that you would use to analyze the system startup.
 >
-> **[0:34](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=34)** But as you can see in Windows 10, this is no longer the case.
+> **[0:34](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=34)** But as you can see in [[Windows 10]], this is no longer the case.
 >
-> **[0:37](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=37)** Microsoft has removed the startup functionality from this tab for whatever reason.
+> **[0:37](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=37)** [[Microsoft]] has removed the startup functionality from this tab for whatever reason.
 >
 > **[0:42](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-startup?u=76281980&t=42)** So what you have to do instead is open the Task Manager.
 >
@@ -1593,7 +1576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Microsoft]] (5), [[Search]] (5), [[Windows 10]] (2), web (2)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Microsoft]] (5), [[Windows 10]] (2), [[System Configuration]] (1)
 > **UI Navigation:** open the (2), click on (2), go to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1605,16 +1588,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Remote Assistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980)
+#### [Using Remote Assistance](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980&t=0)** - [Instructor] Windows 10 provides a way for a user who needs help to request remote assistance from a helper.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980&t=0)** - [Instructor] [[Windows 10]] provides a way for a user who needs help to request remote assistance from a helper.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980&t=6)** So let's take a look at how this process works.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980&t=8)** As you look at the screen, you'll notice that the Windows desktop is green as opposed to the blue background that I have been using throughout this course.
+> **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980&t=8)** As you look at the screen, you'll notice that the [[Windows]] desktop is green as opposed to the blue background that I have been using throughout this course.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980&t=15)** And the reason for that is the green is going to represent the user who is asking for help.
 >
@@ -1714,22 +1696,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2)
 > **UI Navigation:** go to (1), checkbox (1), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring the RDP client
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/configuring-the-rdp-client?u=76281980)
+#### [Configuring the RDP client](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/configuring-the-rdp-client?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/configuring-the-rdp-client?u=76281980&t=0)** - [Instructor] The remote desktop protocol client, or RDP client for short, is a tool that you can use to remotely connect to and manage a Windows machine.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/configuring-the-rdp-client?u=76281980&t=0)** - [Instructor] The remote desktop protocol client, or RDP client for short, is a tool that you can use to remotely connect to and manage a [[Windows]] machine.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/configuring-the-rdp-client?u=76281980&t=10)** So let's take a look at how this client works.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/configuring-the-rdp-client?u=76281980&t=12)** Here I am, signed into Windows 10 on my own local desktop.
+> **[0:12](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/configuring-the-rdp-client?u=76281980&t=12)** Here I am, signed into [[Windows 10]] on my own local desktop.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/configuring-the-rdp-client?u=76281980&t=16)** I'm going to go ahead and open the Taskbar, and I'll click on the Start button.
 >
@@ -1821,7 +1802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), next (2), [[Windows 10]] (1), dns (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Windows 10]] (1)
 > **Env Vars:** rdp (7), dns (1)
 > **UI Navigation:** click on (5), go to (2), open the (1)
 > **Prerequisites:** configure (3), set up (1)
@@ -1829,14 +1810,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establishing a Remote Desktop session
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/establishing-a-remote-desktop-session?u=76281980)
+#### [Establishing a Remote Desktop session](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/establishing-a-remote-desktop-session?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/establishing-a-remote-desktop-session?u=76281980&t=0)** - [Instructor] Before you can use the RDP client to establish connectivity to a remote machine, you have to set up some permissions that will allow you to log in to that remote machine.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/establishing-a-remote-desktop-session?u=76281980&t=9)** Now as you look at the screen, you'll notice that the Windows desktop is green as opposed to the blue color that I've been using throughout most of this course.
+> **[0:09](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/establishing-a-remote-desktop-session?u=76281980&t=9)** Now as you look at the screen, you'll notice that the [[Windows]] desktop is green as opposed to the blue color that I've been using throughout most of this course.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/establishing-a-remote-desktop-session?u=76281980&t=16)** And the reason for that is that I wanted to be able to differentiate between a local machine and a remote machine.
 >
@@ -1924,11 +1904,11 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/establishing-a-remote-desktop-session?u=76281980&t=235)** And that ends the remote session, and you're brought back to the main Windows desktop.
 >
-> **[3:59](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/establishing-a-remote-desktop-session?u=76281980&t=239)** So that's how you establish an RDP session in Windows 10.
+> **[3:59](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/establishing-a-remote-desktop-session?u=76281980&t=239)** So that's how you establish an RDP session in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), next (2), [[Security]] (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (1)
 > **UI Navigation:** click on (9), go to (6), checkbox (2), open the (2), select the (1)
 > **Env Vars:** rdp (3)
 > **Best Practices:** recommended (2)
@@ -1942,8 +1922,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reinstalling a Windows Store application
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-windows-store-application?u=76281980)
+#### [Reinstalling a Windows Store application](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-windows-store-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,11 +1978,11 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-windows-store-application?u=76281980&t=108)** And then you can go back out to the Window Store and download it again.
 >
-> **[1:51](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-windows-store-application?u=76281980&t=111)** So, that's how you reinstall a Window Store application in Windows 10.
+> **[1:51](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-windows-store-application?u=76281980&t=111)** So, that's how you reinstall a Window Store application in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (16), data (2), express (1), next (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Exercise Files:** download the (1)
@@ -2011,8 +1990,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reinstalling a Win32 application
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-win32-application?u=76281980)
+#### [Reinstalling a Win32 application](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-win32-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2022,7 +2000,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-win32-application?u=76281980&t=12)** What I'm going to do is right click on the start button and go to run and type control and click okay.
 >
-> **[0:18](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-win32-application?u=76281980&t=18)** And this is going to open the legacy Windows Control Panel.
+> **[0:18](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-win32-application?u=76281980&t=18)** And this is going to open the legacy [[Windows]] Control Panel.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-win32-application?u=76281980&t=23)** From there, I'm going to click on programs and then I'm going to click on programs and features.
 >
@@ -2078,29 +2056,28 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-win32-application?u=76281980&t=130)** And so now all I have to do is click on the finish button.
 >
-> **[2:13](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-win32-application?u=76281980&t=133)** So if that's an example of how you would reinstall an application in Windows 10.
+> **[2:13](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-win32-application?u=76281980&t=133)** So if that's an example of how you would reinstall an application in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), [[Windows]] (3), data (2), next (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (1)
 > **UI Navigation:** click on (5), go to (2), open the (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Repairing a Win32 application
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980)
+#### [Repairing a Win32 application](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=0)** - [Instructor] When you're having problems with a Win32 application, you don't necessarily have to reinstall the application to fix it.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=6)** Sometimes, you can simply tell Windows that you want to repair the application.
+> **[0:06](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=6)** Sometimes, you can simply tell [[Windows]] that you want to repair the application.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=10)** Now, unfortunately, not every application has repair capabilities, but a lot of the newer ones do.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=16)** So let's take a look at a couple of examples of how you might repair a Win32 application in Windows 10.
+> **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=16)** So let's take a look at a couple of examples of how you might repair a Win32 application in [[Windows 10]].
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=22)** So to get started, I'm going to go ahead and right-click on the Start button, and I'll go to Run, and then type control and click OK.
 >
@@ -2130,7 +2107,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=95)** So with that said, I'm going to go ahead and cancel out of this and let's take a look at another example.
 >
-> **[1:42](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=102)** The next example that I want to look at is Microsoft 365 Apps for enterprise.
+> **[1:42](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=102)** The next example that I want to look at is [[Microsoft 365]] Apps for enterprise.
 >
 > **[1:46](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=106)** So I'm going to select that application.
 >
@@ -2140,7 +2117,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=115)** So I'll click Yes.
 >
-> **[1:58](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=118)** And now, Microsoft Office displays a prompt, asking me how I would like to repair my Office programs.
+> **[1:58](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=118)** And now, [[Microsoft Office]] displays a prompt, asking me how I would like to repair my [[Microsoft Office|Office]] programs.
 >
 > **[2:03](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/repairing-a-win32-application?u=76281980&t=123)** And I have two options.
 >
@@ -2162,21 +2139,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), next (4), [[Windows]] (2), [[Windows 10]] (2), [[Microsoft Office]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (2), [[Microsoft Office]] (2), [[Microsoft 365]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (3), click on (3), right-click (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fixing an application compatibility problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980)
+#### [Fixing an application compatibility problem](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980&t=0)** - [Instructor] Win32 applications have been around for decades and even though Windows 10 should be able to run most or possibly even all Win32 applications there's a chance that some of the older ones may not work properly in Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980&t=0)** - [Instructor] Win32 applications have been around for decades and even though [[Windows 10]] should be able to run most or possibly even all Win32 applications there's a chance that some of the older ones may not work properly in Windows 10.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980&t=13)** Fortunately, Microsoft provides a way of changing the applications compatibility settings so that you can force that application to work with Windows 10.
+> **[0:13](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980&t=13)** Fortunately, [[Microsoft]] provides a way of changing the applications compatibility settings so that you can force that application to work with Windows 10.
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980&t=22)** This process is sometimes referred to as shimming the application.
 >
@@ -2202,7 +2178,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980&t=81)** And this is going to launch the program compatibility troubleshooter.
 >
-> **[1:24](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980&t=84)** So, Windows will take a second and analyze the application and then it will give me two choices.
+> **[1:24](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980&t=84)** So, [[Windows]] will take a second and analyze the application and then it will give me two choices.
 >
 > **[1:30](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-an-application-compatibility-problem?u=76281980&t=90)** Try recommended settings or troubleshoot program.
 >
@@ -2262,7 +2238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), [[Windows 10]] (6), [[Windows]] (6), next (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (6), [[Windows]] (6), [[Microsoft]] (1)
 > **UI Navigation:** click on (4), go to (3), select the (1)
 > **Warnings:** troubleshoot (4)
 > **Best Practices:** recommended (2)
@@ -2275,24 +2251,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980&t=0)** - [Brien] Thank you for watching my course.
 >
-> **[0:02](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980&t=2)** I truly hope that you enjoyed learning about Windows troubleshooting as much as I enjoyed creating this course for you.
+> **[0:02](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980&t=2)** I truly hope that you enjoyed learning about [[Windows]] troubleshooting as much as I enjoyed creating this course for you.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980&t=7)** If you'd like to learn more about Windows then I would encourage you to check out my other LinkedIn learning courses.
+> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980&t=7)** If you'd like to learn more about Windows then I would encourage you to check out my other [[LinkedIn]] learning courses.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980&t=12)** I've created several other Windows courses and I've also developed courses on key topics such as cloud computing in Azure and AWS and Microsoft 365.
+> **[0:12](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980&t=12)** I've created several other Windows courses and I've also developed courses on key topics such as [[Cloud Computing]] in [[Microsoft Azure|Azure]] and AWS and [[Microsoft 365]].
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980&t=21)** I'm Brien Posey, thanks again for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Troubleshooting]] (1), [[LinkedIn]] (1), cloud (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[LinkedIn]] (1), [[Cloud Computing]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

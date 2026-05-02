@@ -73,32 +73,30 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your Excel foundation in Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980)
+#### [Build your Excel foundation in Microsoft 365](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980&t=0)** - [David] If you want to build a spreadsheet that is accurate and easy to use and does what you need it to do, you'll have to understand the basics of using Microsoft Excel.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980&t=0)** - [David] If you want to build a spreadsheet that is accurate and easy to use and does what you need it to do, you'll have to understand the basics of using [[Microsoft Excel]].
 >
-> **[0:09](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980&t=9)** With the proper foundation of Excel knowledge, you'll know how to build your spreadsheets right the first time, know how to share them quickly, and even collaborate with others.
+> **[0:09](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980&t=9)** With the proper foundation of [[Microsoft Excel|Excel]] knowledge, you'll know how to build your spreadsheets right the first time, know how to share them quickly, and even collaborate with others.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980&t=18)** I'm David Rivers and I've been teaching people how to get the most out of Microsoft Excel since it came into existence.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980&t=24)** Join me as we explore how Excel in Microsoft 365 can help you work faster and easier as you create, edit, share, and collaborate on time-saving and attractive-looking spreadsheets.
+> **[0:24](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980&t=24)** Join me as we explore how Excel in [[Microsoft 365]] can help you work faster and easier as you create, edit, share, and collaborate on time-saving and attractive-looking spreadsheets.
 
 > [!info]- Semantic Content
 >
 > **Frameworks & Libraries:** [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (1)
 > **Speakers:** - [david] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-you-need-to-know?u=76281980&t=0)** - [Instructor] Well, here's what you need to know to follow along with me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-you-need-to-know?u=76281980&t=3)** Firstly, I'm working with Excel using a Microsoft 365 business account.
+> **[0:03](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-you-need-to-know?u=76281980&t=3)** Firstly, I'm working with [[Microsoft Excel|Excel]] using a [[Microsoft 365]] business account.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-you-need-to-know?u=76281980&t=9)** Because Excel is always being updated and improved, and because not all Microsoft 365 subscriptions are updated at the very same time, what you see on your screen may not always match exactly what appears on my screen.
 >
@@ -110,13 +108,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-you-need-to-know?u=76281980&t=42)** We'll take a closer look once we get started shortly.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-you-need-to-know?u=76281980&t=45)** And lastly, this course is tailored to those who have never used any version of Microsoft Excel or are new to this latest rendition of Excel in Microsoft 365.
+> **[0:45](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-you-need-to-know?u=76281980&t=45)** And lastly, this course is tailored to those who have never used any version of [[Microsoft Excel]] or are new to this latest rendition of Excel in Microsoft 365.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-you-need-to-know?u=76281980&t=56)** So you won't need any experience with Excel to follow along with ease as we move through the chapters and movies in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft 365]] (3), business (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft 365]] (3), [[Microsoft Excel]] (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -126,12 +124,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Excel?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980)
+#### [What is Excel?](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=0)** - [Instructor] Just before we start using the Microsoft 365 version of Excel to create great looking spreadsheets, you need to know what Excel is and why you would use it.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=0)** - [Instructor] Just before we start using the [[Microsoft 365]] version of [[Microsoft Excel|Excel]] to create great looking spreadsheets, you need to know what Excel is and why you would use it.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=9)** Well, by definition, Excel is an electronic spreadsheet program, in other words, Excel is a software application that is used for the storing, organization, and the manipulation of data.
 >
@@ -141,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=42)** So who uses Excel and what for?
 >
-> **[0:45](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=45)** Well, quite often Excel is used by those who work with financial data.
+> **[0:45](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=45)** Well, quite often Excel is used by those who work with [[Financial Data]].
 >
 > **[0:50](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=50)** Excel will be used to perform basic mathematical operations like totaling up columns or rows of data, it'll be used to find values such as profits or losses, or even the maximum or minimum values in a specified range of data.
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=84)** And many continue to use Excel like a database program, because it includes functionality that makes it easy to sort and even filter data to find specific information.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=94)** Excel also comes with many analytical tools to make analyzing data easy, such as pivot tables that allow you to view data from different perspectives.
+> **[1:34](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=94)** Excel also comes with many analytical tools to make analyzing data easy, such as [[Pivot Tables]] that allow you to view data from different perspectives.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980&t=104)** And that's what Excel and Microsoft 365 is in a nutshell and what it can be used for.
 >
@@ -161,25 +158,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (13), data (10), [[Microsoft 365]] (2), application (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (13), [[Microsoft 365]] (2), [[Financial Data]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a new workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980)
+#### [Create a new workbook](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=0)** - [Instructor] It's time now to launch Microsoft Excel in Microsoft 365 and start building our very first workbook.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=0)** - [Instructor] It's time now to launch [[Microsoft Excel]] in [[Microsoft 365]] and start building our very first workbook.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=8)** To do that, you'll need to access the app, either from a shortcut you might see on your desktop, or from the Windows task bar, which could be across the bottom of your screen or down the left-hand side.
+> **[0:08](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=8)** To do that, you'll need to access the app, either from a shortcut you might see on your desktop, or from the [[Windows]] task bar, which could be across the bottom of your screen or down the left-hand side.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=19)** It might be hidden or collapsed like mine, which appears over here on the left-hand side.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=24)** I have a shortcut to Excel.
+> **[0:24](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=24)** I have a shortcut to [[Microsoft Excel|Excel]].
 >
 > **[0:26](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=26)** I can click right here to launch the app.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=134)** This will just give you access to more locations.
 >
-> **[2:17](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=137)** For example, you might be working with OneDrive in your organization, OneDrive for Business, or have SharePoint sites.
+> **[2:17](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=137)** For example, you might be working with [[Microsoft OneDrive|OneDrive]] in your organization, OneDrive for Business, or have [[SharePoint]] sites.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=144)** Your own personal OneDrive might appear on this list.
 >
@@ -283,7 +279,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=270)** I can see up to column S and down to row 21.
 >
-> **[4:33](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=273)** Depending on your zoom level, you might see a different set of columns and rows.
+> **[4:33](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=273)** Depending on your [[Zoom]] level, you might see a different set of columns and rows.
 >
 > **[4:38](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/create-a-new-workbook?u=76281980&t=278)** But just so you know, the amount of space you have to work with is phenomenal.
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Search]] (4), business (4), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft 365]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft 365]] (2), [[Microsoft Excel]] (1), [[Windows]] (1)
 > **Analogies:** for example (3), picture (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **CLI Commands:** find (1)
@@ -326,16 +322,15 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Prerequisites:** you'll need (1)
 
-#### Add text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980)
+#### [Add text data](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=0)** - [Instructor] So we've started our blank workbook here in Excel and now it's time to start adding content.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=0)** - [Instructor] So we've started our blank workbook here in [[Microsoft Excel|Excel]] and now it's time to start adding content.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=5)** We know that that can be one of three things: text or numbers or calculations, which will be formulas and functions.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=13)** In this movie, we'll focus on adding text, which we might need for things like titles and labels, but because we work with a spreadsheet that has columns and rows, the text we add is going to behave differently than we might be used to, say, using a word processor.
+> **[0:13](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=13)** In this movie, we'll focus on adding text, which we might need for things like titles and labels, but because we work with a spreadsheet that has columns and rows, the text we add is going to behave differently than we might be used to, say, using a [[Microsoft Word|word]] processor.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=29)** Because we have columns, in this case with a new blank workbook, all of equal width, we need to understand how text behaves in those cells.
 >
@@ -433,7 +428,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=279)** You'll see the save button, kind of looks like a floppy disc.
 >
-> **[4:43](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=283)** Ctrl + S is the keyboard shortcut on a Windows PC.
+> **[4:43](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=283)** Ctrl + S is the keyboard shortcut on a [[Windows]] PC.
 >
 > **[4:46](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-text-data?u=76281980&t=286)** It's Command + S if you're on a Mac, but we can click this to save what we've done so far.
 >
@@ -461,15 +456,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (3), [[Microsoft Word|Word]] (1), hit (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (3), dropdown (1)
 > **Env Vars:** usd (1), usa (1)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-numbers?u=76281980)
+#### [Add numbers](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +505,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-numbers?u=76281980&t=105)** And here we can continue to type in additional numbers.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-numbers?u=76281980&t=108)** Let's get the rest of them in.
+> **[1:48](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-numbers?u=76281980&t=108)** Let's get the [[Representational State Transfer (REST)|rest]] of them in.
 >
 > **[1:52](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-numbers?u=76281980&t=112)** After entering that last number for Canada under March, pressing enter or return, wraps us around to the next row, which is blank under January.
 >
@@ -525,19 +519,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** usa (2), usd (2), pr0104 (1)
 > **Versions:** 4.031 (1), 2.99 (1), 3.02 (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add formulas and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-formulas-and-functions?u=76281980)
+#### [Add formulas and functions](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-formulas-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-formulas-and-functions?u=76281980&t=0)** - [Instructor] Well, we've been building our brand-new workbook here in Excel and so far we've added two different types of data, text, as in our title and the labels we see.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-formulas-and-functions?u=76281980&t=0)** - [Instructor] Well, we've been building our brand-new workbook here in [[Microsoft Excel|Excel]] and so far we've added two different types of data, text, as in our title and the labels we see.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/add-formulas-and-functions?u=76281980&t=10)** We've also now added numbers and it's time to run calculations on those numbers.
 >
@@ -729,7 +722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Microsoft Excel|Excel]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Versions:** 2.62 (3), 3.62 (3), 4.031 (1), 3.115 (1), 1.908 (1)
 > **Env Vars:** sum (6)
 > **UI Navigation:** dropdown (2), go to (1), select the (1)
@@ -738,8 +731,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
 
-#### Copy and paste with relative cell referencing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/copy-and-paste-with-relative-cell-referencing?u=76281980)
+#### [Copy and paste with relative cell referencing](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/copy-and-paste-with-relative-cell-referencing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,7 +749,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/copy-and-paste-with-relative-cell-referencing?u=76281980&t=41)** Click the Home tab on your ribbon and go here to Copy.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/copy-and-paste-with-relative-cell-referencing?u=76281980&t=45)** You could also use the keyboard shortcut, CTRL + C on a Windows PC or command + C on a Mac computer.
+> **[0:45](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/copy-and-paste-with-relative-cell-referencing?u=76281980&t=45)** You could also use the keyboard shortcut, CTRL + C on a [[Windows]] PC or command + C on a Mac computer.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/copy-and-paste-with-relative-cell-referencing?u=76281980&t=52)** But clicking this is going to highlight with the marching ants marquee that we see around the cell to remind us that that has been copied.
 >
@@ -789,19 +781,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), next (2), data (2)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **UI Navigation:** go to (4)
 > **Env Vars:** ctrl (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use autofill
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980)
+#### [Use autofill](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=0)** - [Instructor] When it comes to populating your workbooks here in Excel for Microsoft 365, there are a number of shortcuts to help save you some time and effort.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=0)** - [Instructor] When it comes to populating your workbooks here in [[Microsoft Excel|Excel]] for [[Microsoft 365]], there are a number of shortcuts to help save you some time and effort.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=9)** One of the most popular ones is called AutoFill.
 >
@@ -827,7 +818,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=63)** Excel also sees that pattern.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=64)** So if we want to automatically fill in the rest, we can click and drag over Monday and Tuesday, that's H12 to 13.
+> **[1:04](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=64)** So if we want to automatically fill in the [[Representational State Transfer (REST)|rest]], we can click and drag over Monday and Tuesday, that's H12 to 13.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=72)** And notice a little handle that appears in the bottom right corner of the selected cells.
 >
@@ -851,7 +842,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=104)** This time, tab over type in Tue.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=108)** There's another pattern, but with short forms.
+> **[1:48](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=108)** There's another pattern, but with short [[Forms]].
 >
 > **[1:50](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/use-autofill?u=76281980&t=110)** And we can click and drag to the right if we wanted to, select those two cells, this time it's H12 and I12, you'll see that same handle in the bottom right corner.
 >
@@ -905,7 +896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft 365]] (1), [[Forms]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft 365]] (1), [[Forms]] (1)
 > **Env Vars:** h12 (4), i12 (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
@@ -914,8 +905,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevent relative addressing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/prevent-relative-addressing?u=76281980)
+#### [Prevent relative addressing](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/prevent-relative-addressing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,7 +939,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/prevent-relative-addressing?u=76281980&t=88)** Here's where we want to calculate this tax rate times the total.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/prevent-relative-addressing?u=76281980&t=93)** So in cell C10, we start with, you got it, the equal sign, that tells Excel we're starting a formula.
+> **[1:33](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/prevent-relative-addressing?u=76281980&t=93)** So in cell C10, we start with, you got it, the equal sign, that tells [[Microsoft Excel|Excel]] we're starting a formula.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/prevent-relative-addressing?u=76281980&t=101)** We can click the cell that we want to use in the calculation.
 >
@@ -1019,7 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), hit (1), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** c10 (5), d10 (3), a10 (1)
 > **UI Navigation:** go to (5)
 > **Cross-References:** in the next (2), go back to (1)
@@ -1033,12 +1023,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Format text
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980)
+#### [Format text](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=0)** - [Narrator] Once you've added all your data to a sheet in an Excel workbook like we have, it's time to make it more pleasing to the eye, maybe easier to understand by applying some formatting.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=0)** - [Narrator] Once you've added all your data to a sheet in an [[Microsoft Excel|Excel]] workbook like we have, it's time to make it more pleasing to the eye, maybe easier to understand by applying some formatting.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=11)** We can format the text that we see here in our sheet, and of course, we can also format the numbers and the results from those formulas.
 >
@@ -1050,7 +1039,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=41)** But if we look at the formula bar, we remember everything is actually in that one cell.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=47)** We only see the rest of it overlapping the empty cells in columns B through F, so all we need to do is format that one cell.
+> **[0:47](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=47)** We only see the [[Representational State Transfer (REST)|rest]] of it overlapping the empty cells in columns B through F, so all we need to do is format that one cell.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=57)** We don't need to format all these other cells because there's nothing in them.
 >
@@ -1106,7 +1095,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=167)** From here, we have different theme colors across the top.
 >
-> **[2:50](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=170)** You can hover over those to see a real-time preview, and then we have shades of those theme colors below.
+> **[2:50](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=170)** You can hover over those to see a [[Real-Time]] preview, and then we have shades of those theme colors below.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=177)** We also have the standard colors, and if you still don't see what you want, there's more colors where we can choose from different things like color wheels and so on, thousands of colors to choose from, but I'm thinking a nice dark blue might be good.
 >
@@ -1130,7 +1119,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=221)** You can use the keyboard shortcut too.
 >
-> **[3:43](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=223)** Ctrl B on a windows PC, command B on your Mac computer, and I'm thinking now location and all of the short forms for each of the months should also be formatted.
+> **[3:43](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=223)** Ctrl B on a [[Windows]] PC, command B on your Mac computer, and I'm thinking now location and all of the short [[Forms]] for each of the months should also be formatted.
 >
 > **[3:54](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980&t=234)** Let's go to the marker for row three and click there.
 >
@@ -1176,7 +1165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (2), [[Windows]] (2), data (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Windows]] (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1)
 > **UI Navigation:** go to (4), dropdown (3), scroll down (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** a10 (1), usa (1)
@@ -1185,12 +1174,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Format numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-numbers?u=76281980)
+#### [Format numbers](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-numbers?u=76281980&t=0)** - [Instructor] Just as we can format text on a worksheet here in an Excel workbook using Microsoft 365, we can also apply formatting to the numerical data, not only to make it more pleasing to the eye, but also perhaps make it easier to read and understand.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-numbers?u=76281980&t=0)** - [Instructor] Just as we can format text on a worksheet here in an [[Microsoft Excel|Excel]] workbook using [[Microsoft 365]], we can also apply formatting to the numerical data, not only to make it more pleasing to the eye, but also perhaps make it easier to read and understand.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-numbers?u=76281980&t=17)** That's what we're going to explore in this movie.
 >
@@ -1328,7 +1316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **Versions:** 0.15 (2), 4.031 (1), 4.03 (1), 3.051 (1), 3.1 (1)
 > **UI Navigation:** dropdown (3), go to (3)
 > **Analogies:** kind of like (2), just like (1), similar to (1)
@@ -1337,12 +1325,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Manage columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980)
+#### [Manage columns](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=0)** - [Instructor] When building your workbooks here in Excel, it's important that they look their best and are easy to read, especially if you plan on sharing them with others, which is something we will be doing later on in this course.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=0)** - [Instructor] When building your workbooks here in [[Microsoft Excel|Excel]], it's important that they look their best and are easy to read, especially if you plan on sharing them with others, which is something we will be doing later on in this course.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=13)** One thing we can do to make sure that everything is readable, well-organized, and pleasing to the eye is to manipulate columns and rows.
 >
@@ -1384,7 +1371,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=115)** We're going to leave everything as is and notice that things are cramped on the left hand side now and our title, just click in cell A1 is getting cut off.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=126)** Because we have one less column, The contents of I1, our tax rate label is kind of overlapping the rest of our title, so it's getting cut off.
+> **[2:06](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=126)** Because we have one less column, The contents of I1, our tax rate label is kind of overlapping the [[Representational State Transfer (REST)|rest]] of our title, so it's getting cut off.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=137)** We also want to create that extra space here, and to do that, we'll widen column A.
 >
@@ -1438,7 +1425,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=260)** So we'll go up here to the undo button.
 >
-> **[4:22](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=262)** You could also use the keyboard shortcut, CTRL+Z on a Windows PC, Command-Z on a Mac, and spread it back out to what we started with with our blank workbook.
+> **[4:22](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=262)** You could also use the keyboard shortcut, CTRL+Z on a [[Windows]] PC, Command-Z on a Mac, and spread it back out to what we started with with our blank workbook.
 >
 > **[4:33](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-columns?u=76281980&t=273)** Now let's go up to format.
 >
@@ -1470,7 +1457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **UI Navigation:** dropdown (4), right-click (1), go to (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
@@ -1479,8 +1466,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-rows?u=76281980)
+#### [Manage rows](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/manage-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,7 +1586,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1)
 > **UI Navigation:** go to (4), right-click (3), select the (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -1608,12 +1593,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Freeze panes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/freeze-panes?u=76281980)
+#### [Freeze panes](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/freeze-panes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/freeze-panes?u=76281980&t=0)** - [Instructor] As you continue to work with Excel here in Microsoft 365 building your own workbooks, there may come a time when you have so much data that it may not fit on all of the rows you can see on one screen or all of the columns, and you'll need to start scrolling up and down or left and right to see data that's out of view.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/freeze-panes?u=76281980&t=0)** - [Instructor] As you continue to work with [[Microsoft Excel|Excel]] here in [[Microsoft 365]] building your own workbooks, there may come a time when you have so much data that it may not fit on all of the rows you can see on one screen or all of the columns, and you'll need to start scrolling up and down or left and right to see data that's out of view.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/freeze-panes?u=76281980&t=20)** In that case, you'll always want to be able to see the labels.
 >
@@ -1631,7 +1615,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/freeze-panes?u=76281980&t=49)** Globe Bank PR2025, if you're catching up.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/freeze-panes?u=76281980&t=53)** Now, we don't have enough data to go past the right-hand side of our screen or down past the bottom, but we can simulate that using a zoom level.
+> **[0:53](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/freeze-panes?u=76281980&t=53)** Now, we don't have enough data to go past the right-hand side of our screen or down past the bottom, but we can simulate that using a [[Zoom]] level.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/freeze-panes?u=76281980&t=64)** Down below in the bottom right corner, you'll see the zoom slider set currently to the default 100%.
 >
@@ -1713,15 +1697,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Zoom]] (5), [[Microsoft Excel|Excel]] (3), feature (3), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Microsoft Excel|Excel]] (3), [[Microsoft 365]] (1)
 > **UI Navigation:** scroll down (2), go to (2), scroll up (1), dropdown (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Env Vars:** pr2025 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insert recommended charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/insert-recommended-charts?u=76281980)
+#### [Insert recommended charts](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/insert-recommended-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1729,7 +1712,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/insert-recommended-charts?u=76281980&t=13)** In that case, we want a visual representation of our data.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/insert-recommended-charts?u=76281980&t=16)** It's called a chart, and there's a feature here in Excel in Microsoft 365 that will show you recommended charts for the data you've selected, taking some of the guesswork out of which chart you should be using.
+> **[0:16](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/insert-recommended-charts?u=76281980&t=16)** It's called a chart, and there's a feature here in [[Microsoft Excel|Excel]] in [[Microsoft 365]] that will show you recommended charts for the data you've selected, taking some of the guesswork out of which chart you should be using.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/insert-recommended-charts?u=76281980&t=30)** That's what we're going to explore with our Globe Bank, Inc.
 >
@@ -1813,7 +1796,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/insert-recommended-charts?u=76281980&t=230)** Double click again to select contents or click and drag.
 >
-> **[3:54](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/insert-recommended-charts?u=76281980&t=234)** In this case, we have more than one word, so click and drag right over all of the text so we can type over it.
+> **[3:54](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/insert-recommended-charts?u=76281980&t=234)** In this case, we have more than one [[Microsoft Word|word]], so click and drag right over all of the text so we can type over it.
 >
 > **[4:01](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/insert-recommended-charts?u=76281980&t=241)** Projected revenues, we'll leave a dash and type in Q1 like so.
 >
@@ -1843,7 +1826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), feature (1), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), select the (1), dropdown (1), scroll down (1)
 > **Best Practices:** recommended (5)
 > **Env Vars:** usa (4)
@@ -1852,14 +1835,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980)
+#### [Using Copilot](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=0)** - [Narrator] Artificial intelligence or AI is taking the world by storm and ai and Microsoft 365 is no exception.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=0)** - [Narrator] [[Artificial Intelligence (AI)|Artificial intelligence]] or AI is taking the world by storm and ai and [[Microsoft 365]] is no exception.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=8)** It's called Copilot here, and it's like having your own personal advisor as you work with the various Microsoft 365 apps, including of course, Excel.
+> **[0:08](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=8)** It's called [[Microsoft Copilot|Copilot]] here, and it's like having your own personal advisor as you work with the various Microsoft 365 apps, including of course, [[Microsoft Excel|Excel]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=17)** And that's what we're going to explore in this movie.
 >
@@ -1919,7 +1901,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=176)** That's because there's one other prerequisite.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=178)** It needs To be stored in the cloud on your OneDrive, for example.
+> **[2:58](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=178)** It needs To be stored in the cloud on your [[Microsoft OneDrive|OneDrive]], for example.
 >
 > **[3:02](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=182)** So to do that, it's really quite easy.
 >
@@ -2035,7 +2017,7 @@ created: 2026-05-02
 >
 > **[7:47](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=467)** So let's choose add all insights to grid.
 >
-> **[7:50](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=470)** Sure enough, sheet two is created for us and you can see some insights in their own little windows, different correlations.
+> **[7:50](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=470)** Sure enough, sheet two is created for us and you can see some insights in their own little [[Windows]], different correlations.
 >
 > **[7:59](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=479)** There's a graph.
 >
@@ -2043,7 +2025,7 @@ created: 2026-05-02
 >
 > **[8:07](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=487)** Totals always seems to be the largest value.
 >
-> **[8:10](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=490)** Of course, that makes sense down below, some pivot tables as well.
+> **[8:10](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=490)** Of course, that makes sense down below, some [[Pivot Tables]] as well.
 >
 > **[8:14](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=494)** And if we want to keep those, we just leave them where they are on sheet two.
 >
@@ -2061,7 +2043,7 @@ created: 2026-05-02
 >
 > **[8:47](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=527)** So let's close up the Copilot pane up here in the top right hand corner.
 >
-> **[8:51](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=531)** And just to let you know, LinkedIn Learning has a number of courses and videos on Copilot with more coming all the time.
+> **[8:51](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=531)** And just to let you know, [[LinkedIn]] Learning has a number of courses and videos on Copilot with more coming all the time.
 >
 > **[8:57](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/using-copilot?u=76281980&t=537)** Just feel free to browse the library for Copilot to learn more.
 >
@@ -2071,7 +2053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21), data (11), cloud (6), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft 365]] (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft 365]] (3), [[Microsoft Excel|Excel]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** scroll up (3), go to (2), dropdown (2), select the (1)
 > **Analogies:** for example (3), it's like (1), just like (1)
 > **Cross-References:** go back to (1), coming up (1), in the next (1)
@@ -2085,12 +2067,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Print workbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980)
+#### [Print workbooks](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980&t=0)** - [Instructor] At some point, you may decide it's time to share your Excel workbook with others, or perhaps part of that workbook.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980&t=0)** - [Instructor] At some point, you may decide it's time to share your [[Microsoft Excel|Excel]] workbook with others, or perhaps part of that workbook.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980&t=8)** That's what we're going to explore in this movie, beginning with a method that is still popular, although maybe not as popular as it used to be, and that's printing out hard copies.
 >
@@ -2112,7 +2093,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980&t=52)** Click the dropdown, and you'll see a list of printers to choose from.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980&t=56)** Your list will definitely look different than mine, but you will see some options to print to OneNote, for example, or print to a PDF.
+> **[0:56](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980&t=56)** Your list will definitely look different than mine, but you will see some options to print to [[OneNote]], for example, or print to a PDF.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980&t=64)** These are just different ways to save it.
 >
@@ -2176,7 +2157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Excel|Excel]] (1), [[OneNote]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[OneNote]] (1)
 > **UI Navigation:** go to (3), dropdown (2)
 > **Analogies:** for example (3)
 > **Prerequisites:** you'll need (1), required to (1)
@@ -2185,14 +2166,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Send workbooks as email attachments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980)
+#### [Send workbooks as email attachments](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=0)** - [Instructor] When it comes to sharing files with others, the most popular option to date remains sending that file as an attachment in an email message.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=9)** And of course, that's something we can do with Excel here in Microsoft 365.
+> **[0:09](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=9)** And of course, that's something we can do with [[Microsoft Excel|Excel]] here in [[Microsoft 365]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=13)** But because we are using Microsoft 365, it's simplified.
 >
@@ -2214,7 +2194,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=72)** It gets converted to PDF.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=74)** It's going to be attached to a brand new email message that's created, in my case, using Outlook, my default mail application.
+> **[1:14](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=74)** It's going to be attached to a brand new email message that's created, in my case, using [[Microsoft Outlook|Outlook]], my default mail application.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=82)** You can see it's already converted and attached.
 >
@@ -2250,7 +2230,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=148)** There's the FYI.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=149)** And she can do things with this, like click the dropdown arrow to preview it, save it to her OneDrive in the cloud, download it to her computer, and, of course, just clicking it will open it up in a preview where she can view the contents.
+> **[2:29](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=149)** And she can do things with this, like click the dropdown arrow to preview it, save it to her [[Microsoft OneDrive|OneDrive]] in the cloud, download it to her computer, and, of course, just clicking it will open it up in a preview where she can view the contents.
 >
 > **[2:43](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/send-workbooks-as-email-attachments?u=76281980&t=163)** All nice and easy because we're using Microsoft 365, not having to leave Excel to do all of those things, like launch a mail application, start a new message, type in who we're sending it to, a subject, and then try to locate the file after we've converted it and attach it.
 >
@@ -2258,19 +2238,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft 365]] (4), cloud (2), application (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft 365]] (4), [[Microsoft Outlook|Outlook]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Env Vars:** pdf (4), fyi (2)
 > **UI Navigation:** dropdown (2), go to (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share workbooks using online options
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980)
+#### [Share workbooks using online options](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=0)** - [Instructor] So far in this chapter, we've learned how to share a copy of our Excel workbook with others, but there may be times when you actually want to collaborate on the same workbook with others.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=0)** - [Instructor] So far in this chapter, we've learned how to share a copy of our [[Microsoft Excel|Excel]] workbook with others, but there may be times when you actually want to collaborate on the same workbook with others.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=11)** In that case, you need to save to the cloud and provide access to the file you're actually working on, even have people working on that file simultaneously, and that's what we're going to explore in this movie as we continue with our Globe Bank Inc.
 >
@@ -2286,11 +2265,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=50)** Your list will likely look different than mine.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=53)** Remember, this is Judson Phillips working for Globe Bank Inc., and he has OneDrive for Business.
+> **[0:53](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=53)** Remember, this is Judson Phillips working for Globe Bank Inc., and he has [[Microsoft OneDrive|OneDrive]] for Business.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=59)** That's thanks to Globe Bank, but you'll also see options for things like your own personal OneDrive.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=65)** You might see SharePoint options here and network access.
+> **[1:05](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=65)** You might see [[SharePoint]] options here and network access.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=69)** Judson is going to save his or move his workbook to the OneDrive for Business location at Globe Bank.
 >
@@ -2336,7 +2315,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=170)** If we want to give access to someone outside the organization, we would type in their email address, for example, Karen R. Leslie.
 >
-> **[3:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=180)** She just has an Outlook account, so [outlook.com](https://outlook.com), and then clicking that name adds her to the list.
+> **[3:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=180)** She just has an [[Microsoft Outlook|Outlook]] account, so [outlook.com](https://outlook.com), and then clicking that name adds her to the list.
 >
 > **[3:08](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=188)** Look what happens when we add people outside the organization.
 >
@@ -2426,11 +2405,11 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=448)** Once saved to the cloud, you'll be able to share a link with people to give them full access to make changes or to simply view.
 >
-> **[7:35](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=455)** You can even prevent them from downloading the file to their own computers, all thanks to cloud computing here in Microsoft 365.
+> **[7:35](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/share-workbooks-using-online-options?u=76281980&t=455)** You can even prevent them from downloading the file to their own computers, all thanks to [[Cloud Computing]] here in [[Microsoft 365]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Microsoft Outlook|Outlook]] (5), [[Microsoft Excel|Excel]] (4), [[Microsoft OneDrive|Onedrive]] (3), business (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[Microsoft Excel|Excel]] (4), [[Microsoft OneDrive|Onedrive]] (3), [[SharePoint]] (1), [[Cloud Computing]] (1)
 > **UI Navigation:** dropdown (4), scroll down (1), go to (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (2), is an  (1), is a  (1)
@@ -2444,26 +2423,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Expand your Excel knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980)
+#### [Expand your Excel knowledge](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980&t=0)** - [Presenter] Well, congratulations, you've reached the end of this course on Learning Excel in Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980&t=0)** - [Presenter] Well, congratulations, you've reached the end of this course on Learning [[Microsoft Excel|Excel]] in [[Microsoft 365]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980&t=6)** You now have the foundation of Excel knowledge you need to feel comfortable creating your own spreadsheets and performing some basic calculations and formatting with this powerful spreadsheet program.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980&t=17)** But if you feel like you're ready to take things to the next level with Excel, LinkedIn Learning has you covered.
+> **[0:17](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980&t=17)** But if you feel like you're ready to take things to the next level with Excel, [[LinkedIn]] Learning has you covered.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980&t=23)** For example, you can check out Microsoft 365 Excel essential training courses that will take you way past the basics we've covered here in Excel, diving deeply into many more of the powerful features and functions.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980&t=36)** And stay tuned to LinkedIn Learning for more advanced Microsoft 365 Excel courses to get you up to speed with advanced formulas and functions, charts and graphs, pivot tables, and a whole lot more.
+> **[0:36](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980&t=36)** And stay tuned to LinkedIn Learning for more advanced Microsoft 365 Excel courses to get you up to speed with advanced formulas and functions, charts and graphs, [[Pivot Tables]], and a whole lot more.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980&t=49)** Thank you so much for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft 365]] (3), [[LinkedIn]] (2), next (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft 365]] (3), [[LinkedIn]] (2), [[Pivot Tables]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 

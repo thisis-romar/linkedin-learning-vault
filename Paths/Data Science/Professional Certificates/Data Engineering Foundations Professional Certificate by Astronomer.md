@@ -8,7 +8,7 @@ linkedin_topics:
   - Data Science
   - Database Management
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - professional-certificate
   - topic/data-science

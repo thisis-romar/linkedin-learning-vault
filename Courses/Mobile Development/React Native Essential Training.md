@@ -104,16 +104,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with React Native
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980)
+#### [Working with React Native](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=0)** - [Samer] Hello, welcome to the React Native Essential Training course.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=0)** - [Samer] Hello, welcome to the [[React Native]] Essential Training course.
 >
 > **[0:03](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=3)** My name is Samer Buna.
 >
-> **[0:05](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=5)** I work at Agile Labs where we're creating educational content for web and mobile developers with a focus on an interactive and adaptive approach.
+> **[0:05](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=5)** I work at [[Agile Development|Agile]] Labs where we're creating educational content for web and mobile developers with a focus on an interactive and adaptive approach.
 >
 > **[0:13](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=13)** You can check some of the work I do over at [jscomplete.com](https://jscomplete.com).
 >
@@ -121,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=25)** The first application will be a simple math game and the other application will be a more featured application that works with an API and we'll make use of more advanced features of the React Native framework.
 >
-> **[0:36](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=36)** React Native enables software developers to build rich native mobile applications on both iOS and Android using just JavaScript.
+> **[0:36](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=36)** React Native enables software developers to build rich native mobile applications on both iOS and [[Android]] using just [[JavaScript]].
 >
 > **[0:45](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=45)** It's a very popular framework and the list of who uses it out there is impressive and has big names like Facebook, Instagram, Uber, and jsComplete.
 >
@@ -141,7 +140,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=103)** I'll also show you how to use the Expo tools to build and test your React Native apps.
 >
-> **[1:48](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=108)** If you're on a Windows machine, you're going to love this Expo framework as it will enable you to build tests and even publish iOS apps without needing Xcode.
+> **[1:48](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=108)** If you're on a [[Windows]] machine, you're going to love this Expo framework as it will enable you to build tests and even publish iOS apps without needing [[Xcode]].
 >
 > **[1:58](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=118)** It's also the fastest way to get started with React Native anyway and that's why we'll start with it.
 >
@@ -155,7 +154,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=143)** In fact, you should try to build slightly different apps so that you run into other problems and learn from those.
 >
-> **[2:29](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=149)** I'll be happy answer any questions that you might have on the jsComplete Help Slack channel, which you can invite yourself to at [jscomplete.com/help](https://jscomplete.com/help).
+> **[2:29](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=149)** I'll be happy answer any questions that you might have on the jsComplete Help [[Slack]] channel, which you can invite yourself to at [jscomplete.com/help](https://jscomplete.com/help).
 >
 > **[2:39](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=159)** I'm also active on Twitter so if you have a tweet-sized question, you can certainly mention me on it.
 >
@@ -169,11 +168,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=179)** To focus on the important concepts of the course, in a few videos I do the styling needed off-camera.
 >
-> **[3:06](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=186)** I encourage you to do your own styling but if you want it to sync with the styles that I do off-camera, the course has a GitHub repository with Git tags for every video which you can use to sync your progress with mine.
+> **[3:06](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980&t=186)** I encourage you to do your own styling but if you want it to sync with the styles that I do off-camera, the course has a [[GitHub]] repository with [[Git]] tags for every video which you can use to sync your progress with mine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (7), application (5), game (2), [[Android]] (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[React Native]] (7), [[Android]] (2), [[Agile Development|Agile]] (1), [[JavaScript]] (1), [[Windows]] (1)
 > **Code Identifiers:** ios (4), jscomplete (2)
 > **CLI Commands:** make (1), git (1)
 > **URLs:** [jscomplete.com](https://jscomplete.com) (2)
@@ -182,18 +181,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [samer] (1)
 
-#### Is this course for you?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980)
+#### [Is this course for you?](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=0)** - [Teacher] Before we begin, let's talk a little bit about the level of this course and what it covers.
 >
-> **[0:05](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=5)** This course will have a pure focus on the React Native framework.
+> **[0:05](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=5)** This course will have a pure focus on the [[React Native]] framework.
 >
-> **[0:10](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=10)** It will not teach you React itself.
+> **[0:10](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=10)** It will not teach you [[React.js|React]] itself.
 >
-> **[0:12](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=12)** You need a good knowledge of React and JavaScript first.
+> **[0:12](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=12)** You need a good knowledge of React and [[JavaScript]] first.
 >
 > **[0:15](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=15)** If you have not learned React yet, you should probably do that first.
 >
@@ -201,7 +199,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=26)** When it comes to learning JavaScript and React, you have a lot of options.
 >
-> **[0:30](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=30)** There are many courses on LinkedIn Learning that you can start with.
+> **[0:30](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=30)** There are many courses on [[LinkedIn]] Learning that you can start with.
 >
 > **[0:33](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=33)** You can also check out the many books and video courses I have over at [jscomplete.com](https://jscomplete.com).
 >
@@ -213,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=56)** Let me give you a specific example here.
 >
-> **[0:58](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=58)** In this course, I use React hooks like useState and useEffect and many other methods in the React API.
+> **[0:58](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=58)** In this course, I use [[React Hooks]] like useState and useEffect and many other methods in the React API.
 >
 > **[1:05](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=65)** I will not be explaining these concepts before using them.
 >
@@ -223,7 +221,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=75)** And I do not explain these either.
 >
-> **[1:18](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=78)** If you're not familiar with things like import/export, rest/spread syntax, timers, promises, and async/await, I recommend that you go through this article first where I explain all these concepts and much more.
+> **[1:18](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=78)** If you're not familiar with things like import/export, [[Representational State Transfer (REST)|rest]]/spread syntax, timers, promises, and async/await, I recommend that you go through this article first where I explain all these concepts and much more.
 >
 > **[1:31](https://www.linkedin.com/learning/react-native-essential-training/is-this-course-for-you?u=76281980&t=91)** However, prior knowledge in React Native itself is not required.
 >
@@ -233,7 +231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (8), [[React Native]] (4), [[JavaScript]] (3), api (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (8), [[React Native]] (4), [[JavaScript]] (3), [[LinkedIn]] (1), [[React Hooks]] (1)
 > **Code Identifiers:** usestate (1), useeffect (1)
 > **Env Vars:** api (2)
 > **URLs:** [jscomplete.com](https://jscomplete.com) (1)
@@ -241,14 +239,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [teacher] (1)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=0)** - [Instructor] The first part of this course will be an introduction to React Native.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=0)** - [Instructor] The first part of this course will be an introduction to [[React Native]].
 >
-> **[0:03](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=3)** We'll start with the advantages and disadvantages of the framework and then I'll show you what you need to do to set up a React Native development environment for both iOS and Android.
+> **[0:03](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=3)** We'll start with the advantages and disadvantages of the framework and then I'll show you what you need to do to set up a React Native development environment for both iOS and [[Android]].
 >
 > **[0:13](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=13)** The second part is going to be the Hello World example of React Native.
 >
@@ -274,7 +271,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=74)** We'll start the whole thing with raw data coming from the API and design our app around it.
 >
-> **[1:19](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=79)** We'll learn how to use the Fetch API and more React Native UI elements like FlatList, image, text inputs, how to navigate between views, and how to fetch more data on demand.
+> **[1:19](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=79)** We'll learn how to use the [[Fetch]] API and more React Native UI elements like FlatList, image, text inputs, how to navigate between views, and how to fetch more data on demand.
 >
 > **[1:30](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=90)** We'll also see how to do some animation and gestures.
 >
@@ -286,11 +283,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=112)** In the final part, we'll test our data-driven application on Android and I'll show you how to deploy it on TestFlight.
 >
-> **[1:58](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=118)** I'll show you how to change the app logo and splash screens and I'll walk you through the process of generating a signed API for the Google Play Store.
+> **[1:58](https://www.linkedin.com/learning/react-native-essential-training/course-overview?u=76281980&t=118)** I'll show you how to change the app logo and splash screens and I'll walk you through the process of generating a signed API for the [[Google]] Play Store.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (8), data (5), api (4), [[Android]] (3), game (2)
+> **Frameworks & Libraries:** [[React Native]] (8), [[Android]] (3), [[Fetch]] (2), [[Google]] (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (2)
@@ -302,14 +299,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why React Native?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980)
+#### [Why React Native?](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=0)** - [Instructor] React Native is a JavaScript framework that allows us to develop native mobile applications for both iOS and Android without having to write code in either Swift or Java.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=0)** - [Instructor] [[React Native]] is a [[JavaScript]] framework that allows us to develop native mobile applications for both iOS and [[Android]] without having to write code in either [[Swift (Programming Language)|Swift]] or [[Java]].
 >
-> **[0:11](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=11)** React Native is powered by React, so in React Native applications, we write code using JavaScript with JSX and React Native will bridge our code into native land for both iOS and Android.
+> **[0:11](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=11)** React Native is powered by [[React.js|React]], so in React Native applications, we write code using JavaScript with JSX and React Native will bridge our code into native land for both iOS and Android.
 >
 > **[0:24](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=24)** We can use the same APIs, we use for regular React applications in a React Native application.
 >
@@ -321,13 +317,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=59)** If you're already sold on the advantages of React Native feel free to skip this video.
 >
-> **[1:04](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=64)** Rendering mobile applications using cross-platform frameworks like Cordova or Ionic, which uses a combination of JavaScript, HTML and CSS, typically render using webviews.
+> **[1:04](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=64)** Rendering mobile applications using cross-platform frameworks like Cordova or Ionic, which uses a combination of JavaScript, [[HTML]] and CSS, typically render using webviews.
 >
 > **[1:15](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=75)** The performance of these webview based applications is usually not very good when compared with native applications.
 >
 > **[1:21](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=81)** Additionally, not all the platforms features and APIs can be accessed using webview based application.
 >
-> **[1:29](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=89)** The user experience overall on a webview based mobile application feels a little off.
+> **[1:29](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=89)** The [[User Experience (UX)|user experience]] overall on a webview based mobile application feels a little off.
 >
 > **[1:34](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980&t=94)** Facebook actually started their mobile apps using webviews up until 2012 or so.
 >
@@ -367,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (24), [[JavaScript]] (8), application (6), [[Android]] (5), [[React.js|React]] (5)
+> **Frameworks & Libraries:** [[React Native]] (24), [[JavaScript]] (8), [[Android]] (5), [[React.js|React]] (5), [[Swift (Programming Language)|Swift]] (2)
 > **Code Identifiers:** ios (5)
 > **Env Vars:** jsx (1), html (1), css (1)
 > **Definitions:** is a  (3)
@@ -376,22 +372,21 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
 
-#### Requirements and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980)
+#### [Requirements and setup](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=1)** - [Instructor] The fastest way to get started with React Native is with Expo.
+> **[0:01](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=1)** - [Instructor] The fastest way to get started with [[React Native]] is with Expo.
 >
 > **[0:04](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=4)** Expo is a framework and platform with many tools and services built around React Native.
 >
-> **[0:10](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=10)** We'll go over an example of how to use Expo in the next video, but you don't really need any tools besides the Expo CLI to use it.
+> **[0:10](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=10)** We'll go over an example of how to use Expo in the next video, but you don't really need any tools besides the Expo [[CLI]] to use it.
 >
-> **[0:18](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=18)** However, in this video, I'm going to go over the instructions to fully set up a Mac machine for React Native development with Xcode and Android Studio.
+> **[0:18](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=18)** However, in this video, I'm going to go over the instructions to fully set up a Mac machine for React Native development with [[Xcode]] and [[Android]] Studio.
 >
 > **[0:27](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=27)** If you're not on a Mac, you can skip all these instructions and just use Expo to follow this course.
 >
-> **[0:33](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=33)** You can develop Android applications natively on Windows or Linux, but I strongly recommend using Expo as that'll enable you to develop and test your React Native applications for both Android and iOS.
+> **[0:33](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=33)** You can develop Android applications natively on [[Windows]] or [[Linux]], but I strongly recommend using Expo as that'll enable you to develop and test your React Native applications for both Android and iOS.
 >
 > **[0:45](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=45)** In any case, the instructions to set up a React Native environment change frequently.
 >
@@ -435,7 +430,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=176)** So make sure your version of node is recent as well.
 >
-> **[2:59](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=179)** And also NPM, let me check NPM.
+> **[2:59](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=179)** And also [[npm]], let me check NPM.
 >
 > **[3:03](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=183)** So NPM is at 6.14.6, I usually like to NPM install dash GNPM to get the latest NPM version, which is now 6.14.8, as you can see, so this did upgrade MPM.
 >
@@ -461,7 +456,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=263)** Let's now go over setting up a development environment for Mac OS, but for the Android target.
 >
-> **[4:29](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=269)** So same thing you need node and Watchman, we have those and we need the Java Development Kit, which we can install using the brew cask install command in here, paste that in the terminal, brew cask install the open JDK.
+> **[4:29](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=269)** So same thing you need node and Watchman, we have those and we need the [[Java]] Development Kit, which we can install using the brew cask install command in here, paste that in the terminal, brew cask install the open JDK.
 >
 > **[4:47](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=287)** And there we go successfully installed.
 >
@@ -505,7 +500,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=370)** It should mention here somewhere what Android version is required, as of the React Native version that you're using.
 >
-> **[6:17](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=377)** So we need Android 10 Q and we need the SDK platform 29, and we need Intel x86 and Google API's.
+> **[6:17](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=377)** So we need Android 10 Q and we need the SDK platform 29, and we need Intel x86 and [[Google]] API's.
 >
 > **[6:26](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=386)** So you can do show package details.
 >
@@ -567,7 +562,7 @@ created: 2026-05-02
 >
 > **[9:13](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=553)** And after that you can use the React Native CLI command to create Android applications.
 >
-> **[9:18](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=558)** You also need an iOS developer account and you need to enroll in the apple developer program if you want to push your apps to the App Store.
+> **[9:18](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=558)** You also need an iOS developer account and you need to enroll in the [[Apple Developer]] program if you want to push your apps to the App Store.
 >
 > **[9:28](https://www.linkedin.com/learning/react-native-essential-training/requirements-and-setup?u=76281980&t=568)** You can enroll as an individual or as an organization, and membership is currently priced at 99 US dollars.
 >
@@ -581,7 +576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (29), [[React Native]] (14), [[Xcode]] (9), node (8), next (7)
+> **Frameworks & Libraries:** [[Android]] (29), [[React Native]] (14), [[Xcode]] (9), [[npm]] (7), [[Google]] (4)
 > **CLI Commands:** node (8), npm (7), make (6), brew (3), ruby (3)
 > **Prerequisites:** install (16), setup (4), set up (2), configure (2), you'll need (1)
 > **Env Vars:** npm (7), api (5), sdk (3), cli (2), gnpm (1)
@@ -595,18 +590,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hello React Native with Expo
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980)
+#### [Hello React Native with Expo](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=0)** - [Instructor] We are ready to create our first React Native app.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=0)** - [Instructor] We are ready to create our first [[React Native]] app.
 >
-> **[0:03](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=3)** And I'll show you how to do that using the ExpoPlatform, which will allow you to follow this course on any operating system including Windows, if that's what you're using.
+> **[0:03](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=3)** And I'll show you how to do that using the ExpoPlatform, which will allow you to follow this course on any operating system including [[Windows]], if that's what you're using.
 >
 > **[0:12](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=12)** You can actually build simple React Native apps right in your browser using the Expo Snack tool, which gives you an in-browser editor, complete with a file tree and syntax highlighting.
 >
-> **[0:23](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=23)** And the tool is integrated with other Expo tools like the iOS and Android preview.
+> **[0:23](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=23)** And the tool is integrated with other Expo tools like the iOS and [[Android]] preview.
 >
 > **[0:29](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=29)** So, here is how this example is going to look on iOS.
 >
@@ -622,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=48)** You change something, the preview will auto-refresh.
 >
-> **[0:51](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=51)** And you can even install JavaScript modules from NPM and use them here as well.
+> **[0:51](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=51)** And you can even install [[JavaScript]] modules from [[npm]] and use them here as well.
 >
 > **[0:56](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=56)** Also, you can develop your React Native applications here and test them on your own devices.
 >
@@ -634,7 +628,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=77)** If you're on a Windows machine, this is probably the easiest option for you to follow this course.
 >
-> **[1:23](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=83)** If you want to take things one level up, you can run an Expo project locally using the Expo CLI node package.
+> **[1:23](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=83)** If you want to take things one level up, you can run an Expo project locally using the Expo [[CLI]] node package.
 >
 > **[1:31](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980&t=91)** And this is something you can npm install, -g for global, expo-cli.
 >
@@ -696,7 +690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (4), [[Windows]] (3), [[npm]] (3), application (3), [[Android]] (2)
+> **Frameworks & Libraries:** [[React Native]] (4), [[Windows]] (3), [[npm]] (3), [[Android]] (2), [[CLI]] (2)
 > **CLI Commands:** npm (3), node (2), cd (1)
 > **Code Identifiers:** ios (5), iphone (1)
 > **Tools:** vs code (3), terminal (1)
@@ -705,20 +699,19 @@ created: 2026-05-02
 > **File Paths:** app.js (1)
 > **Cross-References:** go back to (1)
 
-#### Hello React Native on iOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980)
+#### [Hello React Native on iOS](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=1)** - [Instructor] To use React Native for iOS without expo, you can use this command.
+> **[0:01](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=1)** - [Instructor] To use [[React Native]] for iOS without expo, you can use this command.
 >
-> **[0:05](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=5)** npx React-native init, and then the name of your applications.
+> **[0:05](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=5)** npx [[React.js|React]]-native init, and then the name of your applications.
 >
 > **[0:11](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=11)** And I'm not running this command yet.
 >
-> **[0:13](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=13)** This command will download the temporary copy of the React Native CLI and then use it to initialize a React Native project.
+> **[0:13](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=13)** This command will download the temporary copy of the React Native [[CLI]] and then use it to initialize a React Native project.
 >
-> **[0:20](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=20)** However, since we're going to be using the React Native command many times, let's just install it permanently with npm installed-global React-native.
+> **[0:20](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=20)** However, since we're going to be using the React Native command many times, let's just install it permanently with [[npm]] installed-global React-native.
 >
 > **[0:31](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=31)** The only downside to this method is that when React Native releases a new version, you need to update this local of the CLI if you want to use the new version.
 >
@@ -738,7 +731,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=65)** Just like expo, it'll create a directory on this level with the same name that we pass through it, and it will then install the packages required for React Native to work.
 >
-> **[1:13](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=73)** When the command is done, it will give you some instructions on how to run the application for both iOS and Android.
+> **[1:13](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=73)** When the command is done, it will give you some instructions on how to run the application for both iOS and [[Android]].
 >
 > **[1:20](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=80)** We'll test it for iOS first and then we'll do Android.
 >
@@ -758,7 +751,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=126)** So in here, let's open up a code editor on this directory and the entry point again, is App.js.
 >
-> **[2:15](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=135)** And as you can see, the default application comes fully configured with things like ESLint, Prettier, Babbel, Metro bundler, and Flow as well, which is a static type checker, just like TypeScript.
+> **[2:15](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=135)** And as you can see, the default application comes fully configured with things like [[ESLint]], Prettier, Babbel, Metro bundler, and Flow as well, which is a static type checker, just like TypeScript.
 >
 > **[2:30](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=150)** This part here is the type of the app function.
 >
@@ -828,7 +821,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=293)** Let's explore the direct restructure here a little bit further.
 >
-> **[4:56](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=296)** Starting with package.json.
+> **[4:56](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=296)** Starting with package.[[JSON]].
 >
 > **[4:58](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=298)** And you can see right here what dependencies this project needs.
 >
@@ -854,7 +847,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=370)** So right out of the box, we get so much value.
 >
-> **[6:13](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=373)** We're simply writing JavaScript and React, and we're seeing our application in a simulator on an iPhone.
+> **[6:13](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=373)** We're simply writing [[JavaScript]] and React, and we're seeing our application in a simulator on an iPhone.
 >
 > **[6:20](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-ios?u=76281980&t=380)** And most importantly, we didn't need to do a build step for the application between changes.
 >
@@ -870,7 +863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (24), application (13), [[React.js|React]] (7), [[Android]] (3), dom (3)
+> **Frameworks & Libraries:** [[React Native]] (24), [[React.js|React]] (7), [[Android]] (3), [[CLI]] (2), [[JSON]] (2)
 > **Analogies:** for example (6), just like (4)
 > **Code Identifiers:** ios (6), iphone (3)
 > **File Paths:** app.js (2), package.json (1), index.js (1), app.json (1)
@@ -879,12 +872,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2), you'll need (1)
 > **UI Navigation:** go to (1), click on (1)
 
-#### Hello React Native on Android
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-android?u=76281980)
+#### [Hello React Native on Android](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-android?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-android?u=76281980&t=1)** - [Instructor] To run the project for Android, the command is react-native run-android.
+> **[0:01](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-android?u=76281980&t=1)** - [Instructor] To run the project for [[Android]], the command is [[React.js|react]]-native run-android.
 >
 > **[0:08](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-android?u=76281980&t=8)** And this will launch up the Android emulator and run the Metro Bundler again for Android.
 >
@@ -928,7 +920,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-android?u=76281980&t=140)** Another platform customization that we can do is using the filename itself.
 >
-> **[2:25](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-android?u=76281980&t=145)** So if we rename App.js to App.ios.js, and if we duplicate this file and make another copy, App.android.js, then what React Native is going to do is that it will use App.android.js for the Android platform and use the App.ios.js for the iOS platform.
+> **[2:25](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-android?u=76281980&t=145)** So if we rename App.js to App.ios.js, and if we duplicate this file and make another copy, App.android.js, then what [[React Native]] is going to do is that it will use App.android.js for the Android platform and use the App.ios.js for the iOS platform.
 >
 > **[2:48](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-on-android?u=76281980&t=168)** So, for example, let's remove the header here in App.android.js and save, and you'll notice that the header is gone in here.
 >
@@ -958,7 +950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (18), [[React.js|React]] (5), application (4), [[React Native]] (2), next (1)
+> **Frameworks & Libraries:** [[Android]] (18), [[React.js|React]] (5), [[React Native]] (2)
 > **File Paths:** app.ios.js (3), app.android.js (3), app.js (1)
 > **Code Identifiers:** ios (6), node_modules (1)
 > **CLI Commands:** find (2), make (1)
@@ -967,14 +959,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling React Native components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980)
+#### [Styling React Native components](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=0)** - [Instructor] Let's talk briefly about using CSS with React Native, which is a bit different than what we're used to on the web.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=0)** - [Instructor] Let's talk briefly about using CSS with [[React Native]], which is a bit different than what we're used to on the web.
 >
-> **[0:07](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=7)** While React itself does not have any restrictions on how to use CSS, React Native enforces a standardized approach for styling.
+> **[0:07](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=7)** While [[React.js|React]] itself does not have any restrictions on how to use CSS, React Native enforces a standardized approach for styling.
 >
 > **[0:15](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=15)** You can't use all CSS properties in React Native projects.
 >
@@ -984,9 +975,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=36)** This is not an issue with React Native CSS subset, although sometimes, you'll need to conditionally use or not use a CSS property based on the platform or give that property different values based on the platform.
 >
-> **[0:48](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=48)** Since React Native is just a JavaScript framework without a browser that can parse CSS, React Natives way to use CSS properties is using the JavaScript API.
+> **[0:48](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=48)** Since React Native is just a [[JavaScript]] framework without a browser that can parse CSS, React Natives way to use CSS properties is using the JavaScript API.
 >
-> **[0:58](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=58)** This means using JavaScript objects instead of CSS strings and just like using JavaScript to represent HTML, using JavaScript to represent CSS allows for a much richer experience and greater control.
+> **[0:58](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=58)** This means using JavaScript objects instead of CSS strings and just like using JavaScript to represent [[HTML]], using JavaScript to represent CSS allows for a much richer experience and greater control.
 >
 > **[1:12](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=72)** This CSS in JavaScript thing is supported in React itself but React Native requires it and enhances it.
 >
@@ -1006,7 +997,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=115)** And then you would configure your editor to auto format when you save.
 >
-> **[2:00](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=120)** And you can also see how ESLint is working and given us warnings that we now have unused variables.
+> **[2:00](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=120)** And you can also see how [[ESLint]] is working and given us warnings that we now have unused variables.
 >
 > **[2:07](https://www.linkedin.com/learning/react-native-essential-training/styling-react-native-components?u=76281980&t=127)** So we can clean these variables as well and auto format.
 >
@@ -1176,7 +1167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (15), [[React Native]] (9), [[JavaScript]] (6), [[React.js|React]] (4), web (3)
+> **Frameworks & Libraries:** [[React Native]] (9), [[JavaScript]] (6), [[React.js|React]] (4), [[ESLint]] (2), [[HTML]] (1)
 > **Env Vars:** css (15), api (1), html (1)
 > **Definitions:** is a  (5), is an  (2)
 > **Analogies:** for example (5), just like (2)
@@ -1185,12 +1176,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Warnings:** warning (2)
 
-#### Exploring components and APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980)
+#### [Exploring components and APIs](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=0)** - [Instructor] The React Native repository on GitHub under the Facebook organization here has a few really good reference examples and packages that you should explore.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=0)** - [Instructor] The [[React Native]] repository on [[GitHub]] under the Facebook organization here has a few really good reference examples and packages that you should explore.
 >
 > **[0:09](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=9)** But let me point your attention to one particular package that is very helpful.
 >
@@ -1206,7 +1196,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=34)** So we just paste the same command to clone the React Native repo.
 >
-> **[0:38](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=38)** Then we go into the new created directory and run npm install in here, and then we need to run npm start here.
+> **[0:38](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=38)** Then we go into the new created directory and run [[npm]] install in here, and then we need to run npm start here.
 >
 > **[0:50](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=50)** And keep this running in a terminal.
 >
@@ -1222,7 +1212,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=87)** When the pod installation is complete, take a look at what's in this directory, and there is an xcworkspace file.
 >
-> **[1:36](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=96)** This is the file that we need to open in Xcode.
+> **[1:36](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=96)** This is the file that we need to open in [[Xcode]].
 >
 > **[1:39](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=99)** So we can just do open and that file and to run the RN Tester project, we can just click the run button here.
 >
@@ -1234,7 +1224,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=122)** It has many examples of a lot of things that you can do with React Native.
 >
-> **[2:06](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=126)** You can explore how these examples look in iPhone, and you can also run the same project in Android and see how things are different in Android.
+> **[2:06](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=126)** You can explore how these examples look in iPhone, and you can also run the same project in [[Android]] and see how things are different in Android.
 >
 > **[2:14](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=134)** You can also explore the source code of all these components and APIs.
 >
@@ -1276,7 +1266,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=229)** So this screen here gives you a lot of examples on how to use the view element.
 >
-> **[3:54](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=234)** This view element is often compared to the div element in HTML.
+> **[3:54](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=234)** This view element is often compared to the div element in [[HTML]].
 >
 > **[3:58](https://www.linkedin.com/learning/react-native-essential-training/exploring-components-and-apis?u=76281980&t=238)** Let's take a look at its source code.
 >
@@ -1314,7 +1304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (13), [[Android]] (4), api (4), [[npm]] (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[React Native]] (13), [[Android]] (4), [[npm]] (3), [[HTML]] (2), [[GitHub]] (1)
 > **Prerequisites:** install (7)
 > **CLI Commands:** npm (3), find (1), sudo (1), make (1)
 > **Env Vars:** api (4), html (2)
@@ -1328,8 +1318,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction and preview
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/introduction-and-preview-2?u=76281980)
+#### [Introduction and preview](https://www.linkedin.com/learning/react-native-essential-training/introduction-and-preview-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1357,17 +1346,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4)
 > **Speakers:** - [presenter] (1)
 
-#### Initializing the TargetSum app
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980)
+#### [Initializing the TargetSum app](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=0)** - [Instructor] Let's create a brand new React Native project for our target sum game.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=0)** - [Instructor] Let's create a brand new [[React Native]] project for our target sum game.
 >
-> **[0:05](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=5)** We'll start with React init TargetSum.
+> **[0:05](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=5)** We'll start with [[React.js|React]] init TargetSum.
 >
 > **[0:11](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=11)** CD TargetSum.
 >
@@ -1429,7 +1416,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=113)** Import AppRegistry from react-native.
 >
-> **[1:57](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=117)** And I'll do the exact same thing in index.android.js.
+> **[1:57](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=117)** And I'll do the exact same thing in index.[[Android]].js.
 >
 > **[2:01](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=121)** 'Cause this is the entry level for Android applications as well.
 >
@@ -1489,7 +1476,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=218)** Now we have a gray background color for an empty container in this simple React application.
 >
-> **[3:44](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=224)** Now the advantage to using StyleSheet.create versus doing this directly with JavaScript object.
+> **[3:44](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=224)** Now the advantage to using StyleSheet.create versus doing this directly with [[JavaScript]] object.
 >
 > **[3:50](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-targetsum-app?u=76281980&t=230)** Is that if you come here and you do a wrong CSS property.
 >
@@ -1515,7 +1502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (11), [[React.js|React]] (5), application (4), [[Android]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[React Native]] (11), [[React.js|React]] (5), [[Android]] (2), [[JavaScript]] (2)
 > **Env Vars:** flx (2), css (1)
 > **File Paths:** index.ios.js (1), index.android.js (1)
 > **CLI Commands:** cd (1), make (1)
@@ -1524,12 +1511,11 @@ created: 2026-05-02
 > **Code Identifiers:** backgroundcolor (1)
 > **Tools:** atom (1)
 
-#### Configuring ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980)
+#### [Configuring ESLint](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=0)** - [Instructor] The first order of business is to bring in some ESLint configuration.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=0)** - [Instructor] The first order of business is to bring in some [[ESLint]] configuration.
 >
 > **[0:05](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=5)** If I forget a comma here or actually leave something that is not used, I'd like ESLint to be configured to tell me about these problems when I save this file.
 >
@@ -1541,13 +1527,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=27)** So it's .eslintrc.js in here.
 >
-> **[0:30](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=30)** And this configuration uses the Babel ESLint and the main recommended ESLint rules, plus the recommended react plugin rules and a few customizations.
+> **[0:30](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=30)** And this configuration uses the Babel ESLint and the main recommended ESLint rules, plus the recommended [[React.js|react]] plugin rules and a few customizations.
 >
 > **[0:40](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=40)** So we'll add this file under TargetSum as .eslintrc.js.
 >
 > **[0:47](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=47)** And to get this file to work, we need to install a few dependencies.
 >
-> **[0:51](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=51)** So NPM install, these are development dependencies, so dash D.
+> **[0:51](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=51)** So [[npm]] install, these are development dependencies, so dash D.
 >
 > **[0:56](https://www.linkedin.com/learning/react-native-essential-training/configuring-eslint?u=76281980&t=56)** We need ESLint itself.
 >
@@ -1567,7 +1553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (14), [[React.js|React]] (2), business (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (14), [[React.js|React]] (2), [[npm]] (1)
 > **Prerequisites:** install (4)
 > **File Paths:** eslintrc.js (2), app.js (1)
 > **Best Practices:** recommended (3)
@@ -1576,8 +1562,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The game component with a random target
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/the-game-component-with-a-random-target?u=76281980)
+#### [The game component with a random target](https://www.linkedin.com/learning/react-native-essential-training/the-game-component-with-a-random-target?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1595,7 +1580,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/react-native-essential-training/the-game-component-with-a-random-target?u=76281980&t=44)** It's been a longer need the view or actually the style sheet.
 >
-> **[0:47](https://www.linkedin.com/learning/react-native-essential-training/the-game-component-with-a-random-target?u=76281980&t=47)** I don't need anything from react native.
+> **[0:47](https://www.linkedin.com/learning/react-native-essential-training/the-game-component-with-a-random-target?u=76281980&t=47)** I don't need anything from [[React Native]].
 >
 > **[0:50](https://www.linkedin.com/learning/react-native-essential-training/the-game-component-with-a-random-target?u=76281980&t=50)** So, this is just rendering the game component.
 >
@@ -1623,7 +1608,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/react-native-essential-training/the-game-component-with-a-random-target?u=76281980&t=114)** We'll do style equal styles.target.
 >
-> **[1:58](https://www.linkedin.com/learning/react-native-essential-training/the-game-component-with-a-random-target?u=76281980&t=118)** This is a word target dev.
+> **[1:58](https://www.linkedin.com/learning/react-native-essential-training/the-game-component-with-a-random-target?u=76281980&t=118)** This is a [[Microsoft Word|word]] target dev.
 >
 > **[2:01](https://www.linkedin.com/learning/react-native-essential-training/the-game-component-with-a-random-target?u=76281980&t=121)** I am not a CSS expert, but I'll do some minimal styling in this app just to get things to look decent for now.
 >
@@ -1663,7 +1648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (22), [[React Native]] (3), [[Microsoft Word|Word]] (1), css (1), next (1)
+> **Frameworks & Libraries:** [[React Native]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** game.js (1)
@@ -1672,8 +1657,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Generating the random play numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980)
+#### [Generating the random play numbers](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1719,7 +1703,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=135)** However, since I introduced a new prop for this game component, I should define the type of this prop using prop types.
 >
-> **[2:22](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=142)** In fact, the recommended ESLint configuration should warn you if you're using a prop.
+> **[2:22](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=142)** In fact, the recommended [[ESLint]] configuration should warn you if you're using a prop.
 >
 > **[2:26](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=146)** without defining its type, but I actually turn off this recommended setting.
 >
@@ -1737,7 +1721,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=170)** We import it from prop-types.
 >
-> **[2:52](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=172)** This used to be part of react, but now it's on separate package.
+> **[2:52](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=172)** This used to be part of [[React.js|react]], but now it's on separate package.
 >
 > **[2:56](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=176)** And the prop type definition is a property on the game component, propTypes.
 >
@@ -1759,7 +1743,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=226)** So this array is somehow driven by the random numbers count property.
 >
-> **[3:51](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=231)** To create an array from a number, there is a JavaScript trick we can use, array.from and you give this from an object and inside the object, we define the length of the array that you want.
+> **[3:51](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=231)** To create an array from a number, there is a [[JavaScript]] trick we can use, array.from and you give this from an object and inside the object, we define the length of the array that you want.
 >
 > **[4:04](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=244)** So I want the length to be the this.props.randomNumberCount, just like that.
 >
@@ -1781,7 +1765,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=291)** We need random numbers with the possibility of summing up to target, which is another random number here.
 >
-> **[4:58](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=298)** So to do that, you might be tempted to start thinking about factoring this target number and somehow figure out some factors that will sum up to that target number and then fill the rest of the random numbers count array with random numbers.
+> **[4:58](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=298)** So to do that, you might be tempted to start thinking about factoring this target number and somehow figure out some factors that will sum up to that target number and then fill the [[Representational State Transfer (REST)|rest]] of the random numbers count array with random numbers.
 >
 > **[5:12](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=312)** But that's actually a lot harder than it needs to be.
 >
@@ -1895,13 +1879,13 @@ created: 2026-05-02
 >
 > **[9:28](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=568)** I'll do my styling off-camera.
 >
-> **[9:30](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=570)** If you want to be creative, do your own styling and test your knowledge in the subset of the React Native styles that you can use.
+> **[9:30](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=570)** If you want to be creative, do your own styling and test your knowledge in the subset of the [[React Native]] styles that you can use.
 >
 > **[9:37](https://www.linkedin.com/learning/react-native-essential-training/generating-the-random-play-numbers?u=76281980&t=577)** I'll show you the styles that I'm going to come up with in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (21), [[React.js|React]] (3), [[ESLint]] (2), data (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[ESLint]] (2), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[React Native]] (1)
 > **Analogies:** for example (3), just like (2)
 > **Code Identifiers:** randomnumbercount (3), proptypes (1)
 > **Definitions:** is a  (3)
@@ -1910,12 +1894,11 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **Env Vars:** mvb (1)
 
-#### Styling the random play numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/styling-the-random-play-numbers?u=76281980)
+#### [Styling the random play numbers](https://www.linkedin.com/learning/react-native-essential-training/styling-the-random-play-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/styling-the-random-play-numbers?u=76281980&t=0)** - [Instructor] Here are the styles that I ended up with, you can check them out from Git tag 3.6.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/styling-the-random-play-numbers?u=76281980&t=0)** - [Instructor] Here are the styles that I ended up with, you can check them out from [[Git]] tag 3.6.
 >
 > **[0:07](https://www.linkedin.com/learning/react-native-essential-training/styling-the-random-play-numbers?u=76281980&t=7)** It's not very good, I know, but it will do for now.
 >
@@ -1971,7 +1954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Git]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (1)
 > **Code Identifiers:** randomcontainer (2), flexdirection (2), textalign (1), flexwrap (1)
 > **CLI Commands:** git (1), make (1)
 > **Analogies:** for example (1), just like (1)
@@ -1980,8 +1963,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using TouchableOpacity for press events
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980)
+#### [Using TouchableOpacity for press events](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2017,7 +1999,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=98)** So I'll just simply do that and then I'll take this markup and go create this new random number component.
 >
-> **[1:45](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=105)** Let's place this random number component here, so import random number from the same level random number and we'll create random number under the components folder and call this randomnumber.js and this random number can be a simple react class component, call it random number and it returns the exact same markup that we had before except that we don't need the key.
+> **[1:45](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=105)** Let's place this random number component here, so import random number from the same level random number and we'll create random number under the components folder and call this randomnumber.js and this random number can be a simple [[React.js|react]] class component, call it random number and it returns the exact same markup that we had before except that we don't need the key.
 >
 > **[2:18](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=138)** And instead of random number here it is this.props.number.
 >
@@ -2029,7 +2011,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=157)** And I'll paste this line as well to create the style sheet and get things to work here.
 >
-> **[2:44](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=164)** So I got the style and I also need to import text from react native and also need the prop types because I just defined the prop on this random number component.
+> **[2:44](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=164)** So I got the style and I also need to import text from [[React Native]] and also need the prop types because I just defined the prop on this random number component.
 >
 > **[2:54](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=174)** I don't need the view so far, I just need prop types and my prop types let's define that, prop types are, we have number which is prototypes.number.isrequired.
 >
@@ -2079,7 +2061,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=332)** So make sure that you are debugging JS remotely.
 >
-> **[5:36](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=336)** And if you do, the remote native debugger, Windows could be open and running like that.
+> **[5:36](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=336)** And if you do, the remote native debugger, [[Windows]] could be open and running like that.
 >
 > **[5:40](https://www.linkedin.com/learning/react-native-essential-training/using-touchableopacity-for-press-events?u=76281980&t=340)** And now when we press on any number, we should see its value here.
 >
@@ -2097,15 +2079,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (4), [[React.js|React]] (2), game (2), next (1), web (1)
+> **Frameworks & Libraries:** [[React Native]] (4), [[React.js|React]] (2), [[Windows]] (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** make (4)
 > **Best Practices:** the key is (2), recommended (1)
 > **File Paths:** randomnumber.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing UI based on selected numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-selected-numbers?u=76281980)
+#### [Changing UI based on selected numbers](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-selected-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2123,7 +2104,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-selected-numbers?u=76281980&t=35)** Once I press it once, the UI should change to the state of that number, and I can't press it again.
 >
-> **[0:42](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-selected-numbers?u=76281980&t=42)** Since the UI has to change, that means every time I press the number something has to change on the state somewhere because I need React to re-render the view.
+> **[0:42](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-selected-numbers?u=76281980&t=42)** Since the UI has to change, that means every time I press the number something has to change on the state somewhere because I need [[React.js|React]] to re-render the view.
 >
 > **[0:52](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-selected-numbers?u=76281980&t=52)** So your next question becomes, what should we place on the state?
 >
@@ -2261,7 +2242,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-selected-numbers?u=76281980&t=416)** So only include styles dot selected if the isSelected Boolean property is true.
 >
-> **[7:03](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-selected-numbers?u=76281980&t=423)** If it's false, React Native is going to just ignore that false.
+> **[7:03](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-selected-numbers?u=76281980&t=423)** If it's false, [[React Native]] is going to just ignore that false.
 >
 > **[7:06](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-selected-numbers?u=76281980&t=426)** All right, let's try it, and there you go.
 >
@@ -2275,7 +2256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), game (6), next (2), [[React.js|React]] (1), feature (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[React Native]] (1)
 > **Code Identifiers:** selectednumbers (8), isselected (5), isnumberselected (3), numberindex (2), selectnumbers (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2), just like (1)
@@ -2284,8 +2265,7 @@ created: 2026-05-02
 > **Versions:** 0.3 (1)
 > **Cross-References:** in the next (1)
 
-#### Adding shared behavior to numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/adding-shared-behavior-to-numbers?u=76281980)
+#### [Adding shared behavior to numbers](https://www.linkedin.com/learning/react-native-essential-training/adding-shared-behavior-to-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2405,7 +2385,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (6), generic (2), data (1)
 > **Code Identifiers:** onpress (7), isrequired (1)
 > **Analogies:** just like (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2413,8 +2392,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using React DevTools with React Native
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/using-react-devtools-with-react-native?u=76281980)
+#### [Using React DevTools with React Native](https://www.linkedin.com/learning/react-native-essential-training/using-react-devtools-with-react-native?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2426,11 +2404,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/react-native-essential-training/using-react-devtools-with-react-native?u=76281980&t=19)** But we don't have any visibility into these problems.
 >
-> **[0:23](https://www.linkedin.com/learning/react-native-essential-training/using-react-devtools-with-react-native?u=76281980&t=23)** One tool that really helps in adding some visibility to the problems that you have in code is react-devtools.
+> **[0:23](https://www.linkedin.com/learning/react-native-essential-training/using-react-devtools-with-react-native?u=76281980&t=23)** One tool that really helps in adding some visibility to the problems that you have in code is [[React.js|react]]-devtools.
 >
-> **[0:30](https://www.linkedin.com/learning/react-native-essential-training/using-react-devtools-with-react-native?u=76281980&t=30)** This react-devtools that is hosted on this, github reveal, give us this visual screen that we can use to interact with the application and see what is going on when we do.
+> **[0:30](https://www.linkedin.com/learning/react-native-essential-training/using-react-devtools-with-react-native?u=76281980&t=30)** This react-devtools that is hosted on this, [[GitHub]] reveal, give us this visual screen that we can use to interact with the application and see what is going on when we do.
 >
-> **[0:40](https://www.linkedin.com/learning/react-native-essential-training/using-react-devtools-with-react-native?u=76281980&t=40)** In a web based react project, we can just install a browser extension and get this react-devtool to work, but with react native, we need to use the stand alone version of react-devtools.
+> **[0:40](https://www.linkedin.com/learning/react-native-essential-training/using-react-devtools-with-react-native?u=76281980&t=40)** In a web based react project, we can just install a browser extension and get this react-devtool to work, but with [[React Native]], we need to use the stand alone version of react-devtools.
 >
 > **[0:52](https://www.linkedin.com/learning/react-native-essential-training/using-react-devtools-with-react-native?u=76281980&t=52)** We can do that by simply installing, globally react-devtools, and as you can tell, react-devtools is actually an electron app.
 >
@@ -2502,7 +2480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (11), application (4), game (3), [[GitHub]] (1), web (1)
+> **Frameworks & Libraries:** [[React.js|React]] (11), [[GitHub]] (1), [[React Native]] (1)
 > **UI Navigation:** click on (2), select the (2)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
@@ -2511,8 +2489,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [tutor] (1)
 
-#### Computing dynamic values where needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/computing-dynamic-values-where-needed?u=76281980)
+#### [Computing dynamic values where needed](https://www.linkedin.com/learning/react-native-essential-training/computing-dynamic-values-where-needed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2638,15 +2615,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (21), hit (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing UI based on game status
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-game-status?u=76281980)
+#### [Changing UI based on game status](https://www.linkedin.com/learning/react-native-essential-training/changing-ui-based-on-game-status?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2748,7 +2723,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (7), feature (1), next (1)
 > **Code Identifiers:** gamestatus (14), targetpanelstyle (4), backgroundcolor (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** status_ (1), status (1), playing (1), mvp (1)
@@ -2757,8 +2731,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with timers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/working-with-timers?u=76281980)
+#### [Working with timers](https://www.linkedin.com/learning/react-native-essential-training/working-with-timers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2894,7 +2867,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (10), next (1)
 > **Code Identifiers:** remainingseconds (11), gamestatus (8), setstate (6), initialseconds (5), componentdidmount (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
@@ -2903,8 +2875,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Caching to optimize computable values
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/caching-to-optimize-computable-values?u=76281980)
+#### [Caching to optimize computable values](https://www.linkedin.com/learning/react-native-essential-training/caching-to-optimize-computable-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3114,7 +3085,7 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/react-native-essential-training/caching-to-optimize-computable-values?u=76281980&t=455)** This is what you get when you have an error like that.
 >
-> **[7:37](https://www.linkedin.com/learning/react-native-essential-training/caching-to-optimize-computable-values?u=76281980&t=457)** I need to npm install shuffle.
+> **[7:37](https://www.linkedin.com/learning/react-native-essential-training/caching-to-optimize-computable-values?u=76281980&t=457)** I need to [[npm]] install shuffle.
 >
 > **[7:39](https://www.linkedin.com/learning/react-native-essential-training/caching-to-optimize-computable-values?u=76281980&t=459)** So npm install, lodash.shuffle.
 >
@@ -3130,7 +3101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (13), next (7), hit (3), [[npm]] (2)
+> **Frameworks & Libraries:** [[npm]] (2)
 > **Code Identifiers:** gamestatus (24), calcgamestatus (4), randomnumbers (4), componentwillupdate (3), nextstate (2)
 > **CLI Commands:** make (2), npm (2)
 > **Definitions:** is a  (4)
@@ -3139,8 +3110,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Cross-References:** previous video (1)
 
-#### Remounting a component to reset it
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980)
+#### [Remounting a component to reset it](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3152,7 +3122,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=11)** Let's place it in this area under the numbers.
 >
-> **[0:15](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=15)** We can use the Button component from React Native.
+> **[0:15](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=15)** We can use the Button component from [[React Native]].
 >
 > **[0:20](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=20)** Here is the documentation for the Button component.
 >
@@ -3180,7 +3150,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=75)** So a simple reset for the state is not going to do.
 >
-> **[1:19](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=79)** We could think about moving all the initialization of the game into its own function and then calling this function once we want to rest the game.
+> **[1:19](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=79)** We could think about moving all the initialization of the game into its own function and then calling this function once we want to [[Representational State Transfer (REST)|rest]] the game.
 >
 > **[1:28](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=88)** But that's not going to be enough because we have to clear any interval timers that we have.
 >
@@ -3206,7 +3176,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=142)** We'll make the App component unmount this Game component and remount it.
 >
-> **[2:28](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=148)** And there is a simple trick to do that in React.
+> **[2:28](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=148)** And there is a simple trick to do that in [[React.js|React]].
 >
 > **[2:32](https://www.linkedin.com/learning/react-native-essential-training/remounting-a-component-to-reset-it?u=76281980&t=152)** If we pass this Game component a key property, any key property, React is going to identify that particular game with that key property.
 >
@@ -3328,7 +3298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (41), feature (5), [[React.js|React]] (5), next (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[React Native]] (1)
 > **Code Identifiers:** gameid (11), onpress (5), resetgame (4), onplayagain (4), previosustate (1)
 > **Definitions:** is a  (6), means that (1), is an  (1), we call this (1)
 > **CLI Commands:** make (3)
@@ -3342,8 +3312,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction and preview
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/introduction-and-preview?u=76281980)
+#### [Introduction and preview](https://www.linkedin.com/learning/react-native-essential-training/introduction-and-preview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3377,25 +3346,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), next (1), api (1)
 > **UI Navigation:** click on (2), go to (1)
 > **URLs:** [bakesaleforgood.com](https://bakesaleforgood.com) (2)
 > **Speakers:** - [narrator] (1)
 
-#### Initializing the Bakesale app
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980)
+#### [Initializing the Bakesale app](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=0)** - [Instructor] Let's start the Bakesale app.
 >
-> **[0:03](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=3)** We'll initialize a new project for that, so we'll start with React Native init Bakesale.
+> **[0:03](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=3)** We'll initialize a new project for that, so we'll start with [[React Native]] init Bakesale.
 >
 > **[0:11](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=11)** And then we'll CD into Bakesale and run React Native run iOS.
 >
 > **[0:20](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=20)** Excellent, we have a brand new React Native project, let's open up the editor on this directory.
 >
-> **[0:27](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=27)** Let's also run the React dev tools.
+> **[0:27](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=27)** Let's also run the [[React.js|React]] dev tools.
 >
 > **[0:32](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=32)** Perfect.
 >
@@ -3413,7 +3380,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=102)** Let's make sure this worked and we have big failing here from the App component, excellent.
 >
-> **[1:49](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=109)** We'll do the exact same thing for index.android.js so that later we can test our application for Android as well.
+> **[1:49](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=109)** We'll do the exact same thing for index.[[Android]].js so that later we can test our application for Android as well.
 >
 > **[1:59](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=119)** Let's center Bakesale on the screen.
 >
@@ -3433,11 +3400,11 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=183)** I'm going to start this app with the remote data itself.
 >
-> **[3:06](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=186)** In the next video, we'll fetch the data from the Bakesale API and start thinking about what to do with it.
+> **[3:06](https://www.linkedin.com/learning/react-native-essential-training/initializing-the-bakesale-app?u=76281980&t=186)** In the next video, we'll [[Fetch]] the data from the Bakesale API and start thinking about what to do with it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (7), [[React.js|React]] (2), [[Android]] (2), data (2), cd (1)
+> **Frameworks & Libraries:** [[React Native]] (7), [[React.js|React]] (2), [[Android]] (2), [[Fetch]] (1)
 > **File Paths:** app.js (2), index.ios.js (1), index.android.js (1)
 > **CLI Commands:** make (2), cd (1)
 > **Code Identifiers:** ios (1), alignitems (1)
@@ -3446,14 +3413,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Using the Fetch API
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980)
+#### [Using the Fetch API](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=0)** - [Instructor] We're ready to fetch the data and see what we're working with.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=0)** - [Instructor] We're ready to [[Fetch]] the data and see what we're working with.
 >
-> **[0:04](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=4)** I'll create a new file under source and call this file Ajax.JS.
+> **[0:04](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=4)** I'll create a new file under source and call this file [[AJAX]].JS.
 >
 > **[0:11](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=11)** And this is the file where we're going to do all the Ajax requests that are to be used by the app.
 >
@@ -3473,13 +3439,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=45)** We can use the fetch library to do that.
 >
-> **[0:48](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=48)** The fetch library comes built in react native so we don't need to import anything.
+> **[0:48](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=48)** The fetch library comes built in [[React Native]] so we don't need to import anything.
 >
 > **[0:54](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=54)** And you can see the documentation for the fetch API under the react native website.
 >
 > **[0:59](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=59)** So you do fetch, the default method is get but you can change it if you need to.
 >
-> **[1:04](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=64)** Once you have the initial response you can convert the initial response to JSON, and then you can use that JSON object returned from the server.
+> **[1:04](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=64)** Once you have the initial response you can convert the initial response to [[JSON]], and then you can use that JSON object returned from the server.
 >
 > **[1:12](https://www.linkedin.com/learning/react-native-essential-training/using-the-fetch-api?u=76281980&t=72)** So I'm going to copy this example and use it in here exactly as is except our API is going to be different and I'll just return the response JSON itself in here.
 >
@@ -3585,7 +3551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (10), api (9), [[AJAX]] (6), data (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Fetch]] (10), [[AJAX]] (6), [[JSON]] (3), [[React Native]] (2)
 > **Env Vars:** api (9), json (3), https (1), apta (1)
 > **Analogies:** just like (4)
 > **File Paths:** ajax.js (1), deallist.js (1), app.js (1)
@@ -3594,12 +3560,11 @@ created: 2026-05-02
 > **URLs:** [bakesaleforgood.com](https://bakesaleforgood.com) (1)
 > **Cross-References:** in the next (1)
 
-#### Using FlatList with API data
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980)
+#### [Using FlatList with API data](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=0)** - [Instructor] When we started this project, I forgot to add ESLint.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=0)** - [Instructor] When we started this project, I forgot to add [[ESLint]].
 >
 > **[0:03](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=3)** So I just did that off-camera and I'm going to go ahead and fix the ESLint problems that we have.
 >
@@ -3649,7 +3614,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=108)** So we'll import that from prop types and that's a dependency.
 >
-> **[1:53](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=113)** So npm install prop-types.
+> **[1:53](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=113)** So [[npm]] install prop-types.
 >
 > **[1:58](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=118)** You can work with this deals array right away.
 >
@@ -3663,7 +3628,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=139)** So in here we'll do deal.title just like that.
 >
-> **[2:24](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=144)** And we'll give every text a key just to make React happy.
+> **[2:24](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=144)** And we'll give every text a key just to make [[React.js|React]] happy.
 >
 > **[2:27](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=147)** So deal.key.
 >
@@ -3675,7 +3640,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=159)** So we only have nine deals, but you can imagine that this list of deals is going to be in the hundreds which means that we need to start scrolling this list.
 >
-> **[2:49](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=169)** So we need to introduce a new React Native component to handle that.
+> **[2:49](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=169)** So we need to introduce a new [[React Native]] component to handle that.
 >
 > **[2:54](https://www.linkedin.com/learning/react-native-essential-training/using-flatlist-with-api-data?u=76281980&t=174)** This component used to be list view but React Native deprecated that in favor of FlaList or SectionList.
 >
@@ -3709,7 +3674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (3), [[ESLint]] (2), data (2), [[npm]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React Native]] (3), [[ESLint]] (2), [[npm]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (6), npm (1)
 > **Code Identifiers:** proptypes (2), iphone (1)
 > **Analogies:** just like (2), imagine (1)
@@ -3718,8 +3683,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with images
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/working-with-images?u=76281980)
+#### [Working with images](https://www.linkedin.com/learning/react-native-essential-training/working-with-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3737,9 +3701,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/react-native-essential-training/working-with-images?u=76281980&t=27)** So dealitem.js.
 >
-> **[0:30](https://www.linkedin.com/learning/react-native-essential-training/working-with-images?u=76281980&t=30)** React class component which we named DealItem.
+> **[0:30](https://www.linkedin.com/learning/react-native-essential-training/working-with-images?u=76281980&t=30)** [[React.js|React]] class component which we named DealItem.
 >
-> **[0:36](https://www.linkedin.com/learning/react-native-essential-training/working-with-images?u=76281980&t=36)** So we need to work with the same prop types and React Native components.
+> **[0:36](https://www.linkedin.com/learning/react-native-essential-training/working-with-images?u=76281980&t=36)** So we need to work with the same prop types and [[React Native]] components.
 >
 > **[0:42](https://www.linkedin.com/learning/react-native-essential-training/working-with-images?u=76281980&t=42)** So I'll bring those in.
 >
@@ -3901,7 +3865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (2), api (2), next (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React Native]] (2), [[React.js|React]] (1)
 > **Env Vars:** uri (3), api (2)
 > **CLI Commands:** make (3)
 > **File Paths:** dealitem.js (1), util.js (1)
@@ -3910,8 +3874,7 @@ created: 2026-05-02
 > **Code Identifiers:** priceincents (1)
 > **Analogies:** just like (1)
 
-#### Navigating to different views with state
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980)
+#### [Navigating to different views with state](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3921,7 +3884,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=5)** So I've just added some margins around every deal and make it into a box, made the title of every deal a little bit bigger and bolder and align the cost and the price under the title in one row.
 >
-> **[0:18](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=18)** You can check the GitHub repository for this movie to see the list of styles that I've used to do all that.
+> **[0:18](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=18)** You can check the [[GitHub]] repository for this movie to see the list of styles that I've used to do all that.
 >
 > **[0:26](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=26)** Let's do the important part now and the challenging part.
 >
@@ -3945,7 +3908,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=79)** Inside the DealItem component, which is what's displaying this box in here, I want to make this whole thing a touchable component.
 >
-> **[1:28](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=88)** So instead of View here, I'll use TouchableOpacity and I'll include TouchableOpacity from React Native, just like that and now, I can define an onPress event on this TouchableOpacity.
+> **[1:28](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=88)** So instead of View here, I'll use TouchableOpacity and I'll include TouchableOpacity from [[React Native]], just like that and now, I can define an onPress event on this TouchableOpacity.
 >
 > **[1:43](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=103)** So what's going to happen when I press on this deal box?
 >
@@ -3969,7 +3932,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=143)** Now we have another condition.
 >
-> **[2:25](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=145)** We're going to have to put something on the state to make React rerender itself and display a different view.
+> **[2:25](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=145)** We're going to have to put something on the state to make [[React.js|React]] rerender itself and display a different view.
 >
 > **[2:32](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=152)** So I'll call this currentDealId.
 >
@@ -4081,7 +4044,7 @@ created: 2026-05-02
 >
 > **[7:26](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=446)** So now, we need to make this DealDetail component render more information about this deal.
 >
-> **[7:35](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=455)** And we'll need an Ajax request to go fetch more information about that deal because the initial list of deals that we fetch doesn't have that information per deal.
+> **[7:35](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=455)** And we'll need an [[AJAX]] request to go [[Fetch]] more information about that deal because the initial list of deals that we fetch doesn't have that information per deal.
 >
 > **[7:45](https://www.linkedin.com/learning/react-native-essential-training/navigating-to-different-views-with-state?u=76281980&t=465)** When we ask the API for information about a single deal, it will give us back the images and the title and the cost and the price, so all this information is going to come back from the API.
 >
@@ -4107,7 +4070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), api (4), [[Fetch]] (4), [[React Native]] (2), [[AJAX]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Fetch]] (4), [[React Native]] (2), [[AJAX]] (2), [[GitHub]] (1)
 > **Code Identifiers:** currentdealid (7), onpress (4), handlepress (4), dealid (4), currentdeal (4)
 > **CLI Commands:** make (11), find (2)
 > **Env Vars:** api (4)
@@ -4116,16 +4079,15 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
 
-#### Fetching more API data for a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980)
+#### [Fetching more API data for a view](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=0)** - [Narrator] We wired the on press event for every deal, and now we can go to a deal detail view.
 >
-> **[0:07](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=7)** It's now time to fetch the extra details from the server.
+> **[0:07](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=7)** It's now time to [[Fetch]] the extra details from the server.
 >
-> **[0:12](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=12)** We're going to need another Ajax function.
+> **[0:12](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=12)** We're going to need another [[AJAX]] function.
 >
 > **[0:15](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=15)** In Ajax.js, just like the fetch initial deals function, we now need another function.
 >
@@ -4143,7 +4105,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=58)** Whenever you can use const, you should.
 >
-> **[1:00](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=60)** There's actually an Eslint rule for that.
+> **[1:00](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=60)** There's actually an [[ESLint]] rule for that.
 >
 > **[1:03](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=63)** So if I undo this to let and go to my Eslint file, the rule is to prefer const and we'll do that as an error.
 >
@@ -4173,7 +4135,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=166)** Remember that the shared information between the initial deal data and the full deal data is going to stay the same with this set state call.
 >
-> **[2:55](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=175)** So react is only going to render the new information in here.
+> **[2:55](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=175)** So [[React.js|react]] is only going to render the new information in here.
 >
 > **[2:59](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=179)** So let's go ahead and test all that.
 >
@@ -4251,7 +4213,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=376)** I'll do that off-camera.
 >
-> **[6:20](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=380)** Here are the styles that I came up with, you can find them in the GitHub repository.
+> **[6:20](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=380)** Here are the styles that I came up with, you can find them in the [[GitHub]] repository.
 >
 > **[6:26](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=386)** By the way, if you want to inspect the styles, you can do so using the inspector here.
 >
@@ -4275,7 +4237,7 @@ created: 2026-05-02
 >
 > **[7:39](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=459)** So let's say you're in this view and you want to do some changes to the style.
 >
-> **[7:45](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=465)** So if you only have the live reload, that means when you change something here, react native is going to reload the app.
+> **[7:45](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=465)** So if you only have the live reload, that means when you change something here, [[React Native]] is going to reload the app.
 >
 > **[7:54](https://www.linkedin.com/learning/react-native-essential-training/fetching-more-api-data-for-a-view?u=76281980&t=474)** So for example, if I want to make the margin horizontal 15 instead of 12, and I save, react native is going to reload the app, but I lost my state, I am back to the main page, not the page where I was on.
 >
@@ -4291,7 +4253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AJAX]] (8), [[Fetch]] (7), data (4), [[React.js|React]] (4), [[React Native]] (3)
+> **Frameworks & Libraries:** [[AJAX]] (8), [[Fetch]] (7), [[React.js|React]] (4), [[React Native]] (3), [[ESLint]] (2)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Analogies:** for example (4), just like (1)
@@ -4300,8 +4262,7 @@ created: 2026-05-02
 > **File Paths:** ajax.js (1)
 > **Cross-References:** coming up (1)
 
-#### Implementing a back link
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/implementing-a-back-link?u=76281980)
+#### [Implementing a back link](https://www.linkedin.com/learning/react-native-essential-training/implementing-a-back-link?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4335,7 +4296,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/react-native-essential-training/implementing-a-back-link?u=76281980&t=69)** Instead of using a button, I'll just use a TouchableOpacity component, and inside the TouchableOpacity component, I'll use a text, this text would be just "Back".
 >
-> **[1:19](https://www.linkedin.com/learning/react-native-essential-training/implementing-a-back-link?u=76281980&t=79)** So we need this TouchableOpacity component from react-native, and this TouchableOpacity component needs an on-Press property.
+> **[1:19](https://www.linkedin.com/learning/react-native-essential-training/implementing-a-back-link?u=76281980&t=79)** So we need this TouchableOpacity component from [[React.js|react]]-native, and this TouchableOpacity component needs an on-Press property.
 >
 > **[1:29](https://www.linkedin.com/learning/react-native-essential-training/implementing-a-back-link?u=76281980&t=89)** So what is going to happen when we press this TouchableOpacity component?
 >
@@ -4395,7 +4356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), application (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** onback (4), currentdealid (3), unsetcurrentdeal (3), setcurrentdeal (2), dealid (2)
 > **UI Navigation:** click on (3), go to (2)
 > **Definitions:** is a  (3)
@@ -4403,8 +4364,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using TextInput to implement search
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980)
+#### [Using TextInput to implement search](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4434,7 +4394,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=59)** So we'll add search bar under components here.
 >
-> **[1:02](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=62)** This is a search bar dot JS, and this is a React class component search bar.
+> **[1:02](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=62)** This is a search bar dot JS, and this is a [[React.js|React]] class component search bar.
 >
 > **[1:10](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=70)** And in here we'll do the text input.
 >
@@ -4442,7 +4402,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=77)** So import search bar from dot slash search bar, perfect.
 >
-> **[1:24](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=84)** So in this search bar, we can have the text input from React Native.
+> **[1:24](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=84)** So in this search bar, we can have the text input from [[React Native]].
 >
 > **[1:30](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=90)** So I'll go with that.
 >
@@ -4532,7 +4492,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=310)** So let's now think about the actual search operation.
 >
-> **[5:14](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=314)** We're going to need an AJAX call.
+> **[5:14](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=314)** We're going to need an [[AJAX]] call.
 >
 > **[5:15](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=315)** So let's get that out of the way.
 >
@@ -4546,7 +4506,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=345)** So we'll go to slash API slash deals, give it a search term, and it will give us back some listings from the database that match that search term, very good.
 >
-> **[5:55](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=355)** So we can now fire this fetch search results anywhere we want, so let's think about that.
+> **[5:55](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=355)** So we can now fire this [[Fetch]] search results anywhere we want, so let's think about that.
 >
 > **[6:00](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=360)** The app component will have a list of the initial deals, and if we have initial deals, it will display those deals.
 >
@@ -4636,7 +4596,7 @@ created: 2026-05-02
 >
 > **[10:43](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=643)** So I think we can test all that.
 >
-> **[10:46](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=646)** However, we need NPM install lodash dot debounce.
+> **[10:46](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=646)** However, we need [[npm]] install lodash dot debounce.
 >
 > **[10:54](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=654)** And I'll test with the React Dev Tools open.
 >
@@ -4680,7 +4640,7 @@ created: 2026-05-02
 >
 > **[12:39](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=759)** One thing that we should also test is the debounce feature.
 >
-> **[12:44](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=764)** So the expectation is that when I type a word, only one network call should be made through the API.
+> **[12:44](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=764)** So the expectation is that when I type a [[Microsoft Word|word]], only one network call should be made through the API.
 >
 > **[12:50](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=770)** And we can validate that using the inspector here, this inspector has a network tab.
 >
@@ -4690,7 +4650,7 @@ created: 2026-05-02
 >
 > **[13:04](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=784)** But once it's working, you'll start seeing the network calls.
 >
-> **[13:08](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=788)** These are WebSocket calls, don't worry about those.
+> **[13:08](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=788)** These are [[WebSocket]] calls, don't worry about those.
 >
 > **[13:10](https://www.linkedin.com/learning/react-native-essential-training/using-textinput-to-implement-search?u=76281980&t=790)** However, when we type something here in the search, you should see a single hit through the API right here.
 >
@@ -4704,7 +4664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (87), [[React.js|React]] (5), api (5), feature (4), [[React Native]] (4)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[React Native]] (4), [[Fetch]] (4), [[AJAX]] (3), [[npm]] (1)
 > **Env Vars:** api (5), ajax (3), npm (1), mvp (1)
 > **Definitions:** is a  (7), is an  (3)
 > **Code Identifiers:** fetchdealssearchresults (2), searchdeals (2), stylesheet (1), handlechange (1), proptypes (1)
@@ -4718,8 +4678,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for swiping
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/preparing-for-swiping?u=76281980)
+#### [Preparing for swiping](https://www.linkedin.com/learning/react-native-essential-training/preparing-for-swiping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4733,7 +4692,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/react-native-essential-training/preparing-for-swiping?u=76281980&t=24)** So let's give users the ability to swipe left and right while they are on the deal detail view to see the different images attached to a deal.
 >
-> **[0:34](https://www.linkedin.com/learning/react-native-essential-training/preparing-for-swiping?u=76281980&t=34)** We can use React Native built-in gestures and animations to do that.
+> **[0:34](https://www.linkedin.com/learning/react-native-essential-training/preparing-for-swiping?u=76281980&t=34)** We can use [[React Native]] built-in gestures and animations to do that.
 >
 > **[0:40](https://www.linkedin.com/learning/react-native-essential-training/preparing-for-swiping?u=76281980&t=40)** To prepare for this swiping animation, I'm going to make the deal detail view full screen here, get rid of these borders.
 >
@@ -4751,15 +4710,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), api (2), feature (1), [[React Native]] (1)
+> **Frameworks & Libraries:** [[React Native]] (1)
 > **Code Identifiers:** marginhorizontal (1), backlink (1), marginleft (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [tutor] (1)
 
-#### The Animated and Easing APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980)
+#### [The Animated and Easing APIs](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4779,9 +4737,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=30)** That's one thing we can do here.
 >
-> **[0:32](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=32)** But I'll go with the simpler example and animate the initial Bakesale header word that we displayed while waiting on the initial deals to arrive from the server.
+> **[0:32](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=32)** But I'll go with the simpler example and animate the initial Bakesale header [[Microsoft Word|word]] that we displayed while waiting on the initial deals to arrive from the server.
 >
-> **[0:41](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=41)** Let me actually comment out the Ajax call right here, refresh, so this is the initial view, so maybe the server gets loaded and that Ajax call to fetch the initial fields takes a few seconds.
+> **[0:41](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=41)** Let me actually comment out the [[AJAX]] call right here, refresh, so this is the initial view, so maybe the server gets loaded and that Ajax call to [[Fetch]] the initial fields takes a few seconds.
 >
 > **[0:53](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=53)** It would be cool to show some kind of animation on the screen here.
 >
@@ -4789,15 +4747,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=62)** I think that would look cool.
 >
-> **[1:04](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=64)** The Animated library that comes with React Native has an excellent API to declaratively define powerful on-screen animations.
+> **[1:04](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=64)** The Animated library that comes with [[React Native]] has an excellent API to declaratively define powerful on-screen animations.
 >
 > **[1:12](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=72)** The word declaratively in the previous sentence is important. And it means basically that we don't have to worry about how the animation is carried out under the hood.
 >
-> **[1:21](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=81)** Which is not an easy thing, especially in React Native because the animation has to happen natively and not not through any state within the JavaScript thread.
+> **[1:21](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=81)** Which is not an easy thing, especially in React Native because the animation has to happen natively and not not through any state within the [[JavaScript]] thread.
 >
 > **[1:30](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=90)** Thankfully, the Animated API will take care of the how, and all we need to specify is the What.
 >
-> **[1:37](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=97)** What to animate and What motion effects and durations to use The important thing to remember here is that when we animate something with the Animated library, we will not be causing React Render method to be called repeatedly to perform that animation.
+> **[1:37](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=97)** What to animate and What motion effects and durations to use The important thing to remember here is that when we animate something with the Animated library, we will not be causing [[React.js|React]] Render method to be called repeatedly to perform that animation.
 >
 > **[1:53](https://www.linkedin.com/learning/react-native-essential-training/the-animated-and-easing-apis?u=76281980&t=113)** The animation will happen on the UI thread behind the React Native bridge.
 >
@@ -4847,7 +4805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (6), api (6), [[Microsoft Word|Word]] (5), [[AJAX]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[React Native]] (6), [[Microsoft Word|Word]] (5), [[AJAX]] (2), [[JavaScript]] (2), [[Fetch]] (1)
 > **Env Vars:** api (6)
 > **Analogies:** for example (5)
 > **Definitions:** known as (1), is an  (1), is a  (1)
@@ -4856,12 +4814,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - let (1)
 
-#### Creating an animation loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/creating-an-animation-loop?u=76281980)
+#### [Creating an animation loop](https://www.linkedin.com/learning/react-native-essential-training/creating-an-animation-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/react-native-essential-training/creating-an-animation-loop?u=76281980&t=1)** - [Instructor] To accomplish the bouncing animation effect that we're planning, we need to control the exposition of this bakesale word.
+> **[0:01](https://www.linkedin.com/learning/react-native-essential-training/creating-an-animation-loop?u=76281980&t=1)** - [Instructor] To accomplish the bouncing animation effect that we're planning, we need to control the exposition of this bakesale [[Microsoft Word|word]].
 >
 > **[0:09](https://www.linkedin.com/learning/react-native-essential-training/creating-an-animation-loop?u=76281980&t=9)** So right now we are rendering this word with a simple text inside of you.
 >
@@ -4871,7 +4828,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/react-native-essential-training/creating-an-animation-loop?u=76281980&t=20)** So to animate this view, we need to change the regular component into animated.view, just like that.
 >
-> **[0:28](https://www.linkedin.com/learning/react-native-essential-training/creating-an-animation-loop?u=76281980&t=28)** And of course, I need to import animated from react native.
+> **[0:28](https://www.linkedin.com/learning/react-native-essential-training/creating-an-animation-loop?u=76281980&t=28)** And of course, I need to import animated from [[React Native]].
 >
 > **[0:31](https://www.linkedin.com/learning/react-native-essential-training/creating-an-animation-loop?u=76281980&t=31)** So this is the very first step, animated from react native.
 >
@@ -5007,7 +4964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[React Native]] (2), next (2), api (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[React Native]] (2)
 > **Analogies:** just like (5), for example (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (1)
@@ -5016,8 +4973,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considering the device dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980)
+#### [Considering the device dimensions](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5025,7 +4981,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=7)** But I like it to be faster than that.
 >
-> **[0:09](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=9)** If you notice the spring animation takes some time to be done and the word sits on the edge for a while.
+> **[0:09](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=9)** If you notice the spring animation takes some time to be done and the [[Microsoft Word|word]] sits on the edge for a while.
 >
 > **[0:15](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=15)** So if we need more control over that, we can use a different type of animation.
 >
@@ -5053,7 +5009,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=53)** You see that?
 >
-> **[0:54](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=54)** Now between zero and 100 React Native would use some kind of easing function to define how to transition from zero to 100.
+> **[0:54](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=54)** Now between zero and 100 [[React Native]] would use some kind of easing function to define how to transition from zero to 100.
 >
 > **[1:03](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=63)** For example, there is a linear transition.
 >
@@ -5097,7 +5053,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=151)** We can actually see this problem if we rotate the device.
 >
-> **[2:34](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=154)** We can go to hardware here and change the orientation to landscape right.
+> **[2:34](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=154)** We can go to [[Hardware]] here and change the orientation to landscape right.
 >
 > **[2:41](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=161)** And now you can see the problem.
 >
@@ -5155,7 +5111,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=275)** So this could, will now work on any screen size.
 >
-> **[4:39](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=279)** So now we can put back the AJAX fetching and that would make this animation only happening while we're loading the initial deets.
+> **[4:39](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=279)** So now we can put back the [[AJAX]] fetching and that would make this animation only happening while we're loading the initial deets.
 >
 > **[4:51](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=291)** We have a small problem in this code that we need to solve before moving on.
 >
@@ -5173,7 +5129,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=325)** The animated view was actually unmounted but our code does not account for that because it is animating just a value.
 >
-> **[5:33](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=333)** However, this stark callback here receives an object and this object has a property named finished.
+> **[5:33](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=333)** However, this [[Stark (Accessibility Software)|stark]] callback here receives an object and this object has a property named finished.
 >
 > **[5:40](https://www.linkedin.com/learning/react-native-essential-training/considering-the-device-dimensions?u=76281980&t=340)** So I'm going to destructure this finished property from this object.
 >
@@ -5207,7 +5163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (4), [[Microsoft Word|Word]] (3), next (2), [[Hardware]] (1), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[React Native]] (4), [[Microsoft Word|Word]] (3), [[Hardware]] (1), [[AJAX]] (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **Analogies:** for example (4), just like (2), kind of like (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is an  (2)
@@ -5216,12 +5172,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### The PanResponder API
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/the-panresponder-api?u=76281980)
+#### [The PanResponder API](https://www.linkedin.com/learning/react-native-essential-training/the-panresponder-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/the-panresponder-api?u=76281980&t=0)** - [Instructor] React Native has a built in gesture recognizing system called the PanResponder.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/the-panresponder-api?u=76281980&t=0)** - [Instructor] [[React Native]] has a built in gesture recognizing system called the PanResponder.
 >
 > **[0:07](https://www.linkedin.com/learning/react-native-essential-training/the-panresponder-api?u=76281980&t=7)** We can use it to detect when the screen is being touched and released, and we can read the accumulated distance between the first touch and the release.
 >
@@ -5229,7 +5184,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/react-native-essential-training/the-panresponder-api?u=76281980&t=23)** So we can easily implement features like drag and drop or swipe left and right with this API.
 >
-> **[0:29](https://www.linkedin.com/learning/react-native-essential-training/the-panresponder-api?u=76281980&t=29)** We can also recognize multitouch features like pinch, zoom, or shrink.
+> **[0:29](https://www.linkedin.com/learning/react-native-essential-training/the-panresponder-api?u=76281980&t=29)** We can also recognize multitouch features like pinch, [[Zoom]], or shrink.
 >
 > **[0:34](https://www.linkedin.com/learning/react-native-essential-training/the-panresponder-api?u=76281980&t=34)** Our example will be a simple one.
 >
@@ -5305,7 +5260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), next (2), [[React Native]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[React Native]] (1), [[Zoom]] (1)
 > **Code Identifiers:** onrespondermove (1), onresponderrelease (1), onpanrespondergrant (1), onstartshouldsetpanresponder (1), onpanrespondermove (1)
 > **Env Vars:** api (4), dxy (1)
 > **Analogies:** for example (2)
@@ -5314,8 +5269,7 @@ created: 2026-05-02
 > **UI Navigation:** drag and drop (1)
 > **Definitions:** is called (1)
 
-#### Preparing the PanHandlers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/preparing-the-panhandlers?u=76281980)
+#### [Preparing the PanHandlers](https://www.linkedin.com/learning/react-native-essential-training/preparing-the-panhandlers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5337,7 +5291,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/react-native-essential-training/preparing-the-panhandlers?u=76281980&t=53)** The next thing we can do is to define the PanResponder.
 >
-> **[0:56](https://www.linkedin.com/learning/react-native-essential-training/preparing-the-panhandlers?u=76281980&t=56)** So from React Native we'll import PanResponder.
+> **[0:56](https://www.linkedin.com/learning/react-native-essential-training/preparing-the-panhandlers?u=76281980&t=56)** So from [[React Native]] we'll import PanResponder.
 >
 > **[1:01](https://www.linkedin.com/learning/react-native-essential-training/preparing-the-panhandlers?u=76281980&t=61)** We'll also import Animated 'cause we know we need to use Animated as well.
 >
@@ -5411,7 +5365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (1), [[React Native]] (1)
+> **Frameworks & Libraries:** [[React Native]] (1)
 > **Code Identifiers:** onpanrespondermove (3), onstartshouldsetpanresponder (1), onpanresponderrelease (1), imagepanresponder (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -5419,8 +5373,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Swiping left and right
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/swiping-left-and-right?u=76281980)
+#### [Swiping left and right](https://www.linkedin.com/learning/react-native-essential-training/swiping-left-and-right?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5490,7 +5443,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/react-native-essential-training/swiping-left-and-right?u=76281980&t=226)** Let's give this a duration of say 250 milliseconds.
 >
-> **[3:50](https://www.linkedin.com/learning/react-native-essential-training/swiping-left-and-right?u=76281980&t=230)** We need to import dimensions from react native.
+> **[3:50](https://www.linkedin.com/learning/react-native-essential-training/swiping-left-and-right?u=76281980&t=230)** We need to import dimensions from [[React Native]].
 >
 > **[3:55](https://www.linkedin.com/learning/react-native-essential-training/swiping-left-and-right?u=76281980&t=235)** And I think we can test that.
 >
@@ -5544,15 +5497,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[React Native]] (1)
+> **Frameworks & Libraries:** [[React Native]] (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** make (2)
 > **Versions:** 0.4 (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling swipe gestures
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/handling-swipe-gestures?u=76281980)
+#### [Handling swipe gestures](https://www.linkedin.com/learning/react-native-essential-training/handling-swipe-gestures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5724,7 +5676,7 @@ created: 2026-05-02
 >
 > **[7:15](https://www.linkedin.com/learning/react-native-essential-training/handling-swipe-gestures?u=76281980&t=435)** Now, how about I challenge you with another swipe?
 >
-> **[7:19](https://www.linkedin.com/learning/react-native-essential-training/handling-swipe-gestures?u=76281980&t=439)** How about implement swipe for the rest of this detailed view?
+> **[7:19](https://www.linkedin.com/learning/react-native-essential-training/handling-swipe-gestures?u=76281980&t=439)** How about implement swipe for the [[Representational State Transfer (REST)|rest]] of this detailed view?
 >
 > **[7:23](https://www.linkedin.com/learning/react-native-essential-training/handling-swipe-gestures?u=76281980&t=443)** So not the image.
 >
@@ -5736,7 +5688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** indexdirection (5), handleswipe (4), setstate (4), imageindex (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
@@ -5744,8 +5696,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Opening URLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/opening-urls?u=76281980)
+#### [Opening URLs](https://www.linkedin.com/learning/react-native-essential-training/opening-urls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5765,7 +5716,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/react-native-essential-training/opening-urls?u=76281980&t=36)** So all we need to do is just include a button that takes the user to this URL.
 >
-> **[0:42](https://www.linkedin.com/learning/react-native-essential-training/opening-urls?u=76281980&t=42)** We can use the linking library that comes with React Native to do so.
+> **[0:42](https://www.linkedin.com/learning/react-native-essential-training/opening-urls?u=76281980&t=42)** We can use the linking library that comes with [[React Native]] to do so.
 >
 > **[0:47](https://www.linkedin.com/learning/react-native-essential-training/opening-urls?u=76281980&t=47)** This library can actually be used for both incoming and outgoing app links.
 >
@@ -5811,7 +5762,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/react-native-essential-training/opening-urls?u=76281980&t=153)** So in the next chapter, we are going to do exactly that.
 >
-> **[2:37](https://www.linkedin.com/learning/react-native-essential-training/opening-urls?u=76281980&t=157)** But before we do that, we should double-check on our Android application.
+> **[2:37](https://www.linkedin.com/learning/react-native-essential-training/opening-urls?u=76281980&t=157)** But before we do that, we should double-check on our [[Android]] application.
 >
 > **[2:41](https://www.linkedin.com/learning/react-native-essential-training/opening-urls?u=76281980&t=161)** And see if any styles need any modification, and see if all the features are working for Android as well.
 >
@@ -5819,7 +5770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (3), [[Android]] (3), application (3), feature (2), web (2)
+> **Frameworks & Libraries:** [[React Native]] (3), [[Android]] (3)
 > **Env Vars:** url (9), api (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
@@ -5832,8 +5783,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test first
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980)
+#### [Test first](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5847,7 +5797,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980&t=20)** Some problems will only appear on actual devices.
 >
-> **[0:23](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980&t=23)** The react native site has documentation on how to test with an actual device.
+> **[0:23](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980&t=23)** The [[React Native]] site has documentation on how to test with an actual device.
 >
 > **[0:28](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980&t=28)** I'd recommend that you follow this now and test your app on your iPhone if you have one.
 >
@@ -5861,7 +5811,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980&t=52)** This is a great tool.
 >
-> **[0:54](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980&t=54)** I'll show you how it works, but first we need to test the app on Android and the same deal goes there.
+> **[0:54](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980&t=54)** I'll show you how it works, but first we need to test the app on [[Android]] and the same deal goes there.
 >
 > **[1:00](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980&t=60)** If you have an Android device, connect it and do your tests there.
 >
@@ -5871,7 +5821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (4), [[React Native]] (1), next (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[React Native]] (1)
 > **Code Identifiers:** iphone (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -5879,12 +5829,11 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing on Android
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980)
+#### [Testing on Android](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=0)** - [Instructor] To test on Android, we need to have an emulator up and running.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=0)** - [Instructor] To test on [[Android]], we need to have an emulator up and running.
 >
 > **[0:04](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=4)** So let's do that.
 >
@@ -5892,7 +5841,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=10)** So let's start that.
 >
-> **[0:16](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=16)** And once the emulator is up and running, we can go ahead and do, react-native, run-android.
+> **[0:16](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=16)** And once the emulator is up and running, we can go ahead and do, [[React.js|react]]-native, run-android.
 >
 > **[0:26](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=26)** The application is loading.
 >
@@ -6068,7 +6017,7 @@ created: 2026-05-02
 >
 > **[8:00](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=480)** And it's much more likely that they are going to find some problems.
 >
-> **[8:05](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=485)** This is why in the next video, we're going to prepare a production release of our app, push it through an Apple developer account, and use test flight to give it to others, to test it.
+> **[8:05](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=485)** This is why in the next video, we're going to prepare a production release of our app, push it through an [[Apple Developer]] account, and use test flight to give it to others, to test it.
 >
 > **[8:18](https://www.linkedin.com/learning/react-native-essential-training/testing-on-android?u=76281980&t=498)** So while testing things out, after changing the main view in the deal detailed view, into a scroll view, I got into this state.
 >
@@ -6110,7 +6059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (43), [[Android]] (3), feature (3), [[React.js|React]] (2), application (1)
+> **Frameworks & Libraries:** [[Android]] (3), [[React.js|React]] (2), [[Apple Developer]] (1)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** make (2), find (2)
 > **Code Identifiers:** ios (1), proptypes (1)
@@ -6119,14 +6068,13 @@ created: 2026-05-02
 > **URLs:** [http://bakesaleforgood.com](http://bakesaleforgood.com) (1)
 > **Cross-References:** in the next (1)
 
-#### Changing app logo and splash screen
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980)
+#### [Changing app logo and splash screen](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=0)** - [Instructor] Before publishing an app there are two things that you'll probably want to do.
 >
-> **[0:05](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=5)** Give the app a good icon instead of this default one and do something about the splash screen which currently just shows the name of the app and a Powered by React Native message.
+> **[0:05](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=5)** Give the app a good icon instead of this default one and do something about the splash screen which currently just shows the name of the app and a Powered by [[React Native]] message.
 >
 > **[0:18](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=18)** You can close the app to reload it with the splash screen.
 >
@@ -6166,7 +6114,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=99)** Luckily you don't have to.
 >
-> **[1:41](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=101)** You can use online services to generate all the images needed and just add them to your Xcode project.
+> **[1:41](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=101)** You can use online services to generate all the images needed and just add them to your [[Xcode]] project.
 >
 > **[1:47](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=107)** For example, you can use the MakeAppIcon service to do that.
 >
@@ -6180,7 +6128,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=137)** So go ahead and follow the instructions there.
 >
-> **[2:20](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=140)** You'll need Node and you'll need to npm install yo and generator-rn-toolbox.
+> **[2:20](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=140)** You'll need Node and you'll need to [[npm]] install yo and generator-rn-toolbox.
 >
 > **[2:27](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=147)** So that's our first step.
 >
@@ -6206,11 +6154,11 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=204)** So this command is going to ask you a few questions.
 >
-> **[3:28](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=208)** The name of the project is Bakesale and you might get this conflict for contents.json, just hit yes there to overwrite it.
+> **[3:28](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=208)** The name of the project is Bakesale and you might get this conflict for contents.[[JSON]], just hit yes there to overwrite it.
 >
 > **[3:38](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=218)** And you can see how this application generated all the needed sizes for all the different devices.
 >
-> **[3:46](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=226)** So this is probably the easiest way to create the app icon set that is needed for Xcode and Android.
+> **[3:46](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=226)** So this is probably the easiest way to create the app icon set that is needed for Xcode and [[Android]].
 >
 > **[3:53](https://www.linkedin.com/learning/react-native-essential-training/changing-app-logo-and-splash-screen?u=76281980&t=233)** So now we just react native run ios to test the new icon.
 >
@@ -6284,7 +6232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (9), [[React Native]] (7), node (2), [[npm]] (2), hit (2)
+> **Frameworks & Libraries:** [[Xcode]] (9), [[React Native]] (7), [[npm]] (2), [[JSON]] (1), [[Android]] (1)
 > **Prerequisites:** install (4), you'll need (3)
 > **CLI Commands:** node (2), npm (2), make (1), brew (1)
 > **UI Navigation:** click on (4), go to (2)
@@ -6293,12 +6241,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** contents.json (1)
 
-#### Using TestFlight with internal testers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/using-testflight-with-internal-testers?u=76281980)
+#### [Using TestFlight with internal testers](https://www.linkedin.com/learning/react-native-essential-training/using-testflight-with-internal-testers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/using-testflight-with-internal-testers?u=76281980&t=0)** - [Narrator] So to put up an app on the test flight, you need an Apple Developer account.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/using-testflight-with-internal-testers?u=76281980&t=0)** - [Narrator] So to put up an app on the test flight, you need an [[Apple Developer]] account.
 >
 > **[0:05](https://www.linkedin.com/learning/react-native-essential-training/using-testflight-with-internal-testers?u=76281980&t=5)** And this does cost money.
 >
@@ -6306,7 +6253,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/react-native-essential-training/using-testflight-with-internal-testers?u=76281980&t=17)** To put an app on testflight, we need to register a bundle identifier.
 >
-> **[0:23](https://www.linkedin.com/learning/react-native-essential-training/using-testflight-with-internal-testers?u=76281980&t=23)** Now we can do this either through the web developer console here, or through Xcode.
+> **[0:23](https://www.linkedin.com/learning/react-native-essential-training/using-testflight-with-internal-testers?u=76281980&t=23)** Now we can do this either through the web developer console here, or through [[Xcode]].
 >
 > **[0:28](https://www.linkedin.com/learning/react-native-essential-training/using-testflight-with-internal-testers?u=76281980&t=28)** So I'm going to do it through Xcode.
 >
@@ -6440,7 +6387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (6), next (5), [[Apple Developer]] (1), web (1), feature (1)
+> **Frameworks & Libraries:** [[Xcode]] (6), [[Apple Developer]] (1)
 > **UI Navigation:** go to (10), click on (5), select the (3)
 > **Code Identifiers:** itunes (5), ios (4), iphones (1)
 > **CLI Commands:** make (2)
@@ -6448,20 +6395,19 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Generating signed APK for Android
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980)
+#### [Generating signed APK for Android](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=0)** - [Instructor] To build and release for Android, we need to generate a signing key, and we can use key tool to do that.
+> **[0:00](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=0)** - [Instructor] To build and release for [[Android]], we need to generate a signing key, and we can use key tool to do that.
 >
-> **[0:08](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=8)** The React Native site has a guide article about that.
+> **[0:08](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=8)** The [[React Native]] site has a guide article about that.
 >
 > **[0:12](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=12)** Before we go through this article, let me explain some of the terms you're going to see here.
 >
 > **[0:16](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=16)** So an APK is basically the Android binary format.
 >
-> **[0:20](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=20)** This is comparable to IOS's IPA or Windows' exe files.
+> **[0:20](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=20)** This is comparable to IOS's IPA or [[Windows]]' exe files.
 >
 > **[0:25](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=25)** We're going to use the key tool to generate a key store file.
 >
@@ -6475,7 +6421,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=46)** So make sure that you keep this file secure and backed up.
 >
-> **[0:50](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=50)** We're going to have to work with some Gradle variables here, and Gradle is basically the build tool that Android uses.
+> **[0:50](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=50)** We're going to have to work with some [[Gradle]] variables here, and Gradle is basically the build tool that Android uses.
 >
 > **[0:58](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=58)** So you'll have to edit some files to basically add the certificate to the build.
 >
@@ -6533,7 +6479,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=212)** So you should see a build successful message.
 >
-> **[3:36](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=216)** And now we have under Android app build outputs/apk, if you list the file under that folder, you'll see the app-release.apk which is the file that you need to use to submit this app to the Google play store, to submit that apk to the Google play store.
+> **[3:36](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=216)** And now we have under Android app build outputs/apk, if you list the file under that folder, you'll see the app-release.apk which is the file that you need to use to submit this app to the [[Google]] play store, to submit that apk to the Google play store.
 >
 > **[3:56](https://www.linkedin.com/learning/react-native-essential-training/generating-signed-apk-for-android?u=76281980&t=236)** You want to go to Google Play Console, log in with your developer account, click on create application, and we'll give it a title, Bake Sale.
 >
@@ -6545,7 +6491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (7), [[Gradle]] (4), [[Google]] (3), next (2), [[React Native]] (1)
+> **Frameworks & Libraries:** [[Android]] (7), [[Gradle]] (4), [[Google]] (3), [[React Native]] (1), [[Windows]] (1)
 > **CLI Commands:** make (3), find (1), cd (1)
 > **Env Vars:** apk (1), ios (1), ipa (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -6559,8 +6505,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6568,7 +6513,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=4)** I know it might have been a little bit challenging in parts, but trust me, it gets easier.
 >
-> **[0:09](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=9)** You've made a great investment [[Learning React Native]], because its popularity is unmatched and there is a big demand for React Native developers.
+> **[0:09](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=9)** You've made a great investment [[Learning [[React Native]]]], because its popularity is unmatched and there is a big demand for React Native developers.
 >
 > **[0:18](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=18)** So what's next?
 >
@@ -6582,17 +6527,17 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=36)** Get comfortable reading the documentation and using the examples.
 >
-> **[0:40](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=40)** And finally, working with React Native is no doubt a lot more pleasant than having to deal with Swift and Java, but do not dismiss the idea of learning Swift and Java.
+> **[0:40](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=40)** And finally, working with React Native is no doubt a lot more pleasant than having to deal with [[Swift (Programming Language)|Swift]] and [[Java]], but do not dismiss the idea of learning Swift and Java.
 >
 > **[0:49](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=49)** To become a better React Native developer, you need to be comfortable going native when needed.
 >
-> **[0:54](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=54)** I encourage you to learn the basics of native iOS and Android development next.
+> **[0:54](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=54)** I encourage you to learn the basics of native iOS and [[Android]] development next.
 >
 > **[0:59](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980&t=59)** That's what I'm doing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (5), next (2), [[Swift (Programming Language)|Swift]] (2), [[Java]] (2), [[Android]] (1)
+> **Frameworks & Libraries:** [[React Native]] (5), [[Swift (Programming Language)|Swift]] (2), [[Java]] (2), [[Android]] (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** ios (1)
 > **Documentation:** the documentation (1)

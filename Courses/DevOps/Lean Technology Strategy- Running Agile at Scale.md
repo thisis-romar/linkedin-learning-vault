@@ -51,8 +51,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The problems with agile at scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980)
+#### [The problems with agile at scale](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -60,9 +59,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=21)** Once development is complete on a release, we take that work and we go through integration, centralized testing, and then once that is finished, we then go into production, throw the whole thing over the wall into IT operations.
 >
-> **[0:36](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=36)** Taking that paradigm and moving it to Agile is difficult and complex, and often many organizations don't go the whole way in transforming the way they manage programs.
+> **[0:36](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=36)** Taking that paradigm and moving it to [[Agile Development|Agile]] is difficult and complex, and often many organizations don't go the whole way in transforming the way they manage programs.
 >
-> **[0:47](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=47)** Instead, what we often see is a paradigm that we like to call water scrum fall.
+> **[0:47](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=47)** Instead, what we often see is a paradigm that we like to call water [[Scrum]] fall.
 >
 > **[0:54](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=54)** In this paradigm, we transform the central part which is the development process and we start working in iterations, with small teams, building stuff, and testing, and analyzing in process, but we're still book-ended by these two big phases.
 >
@@ -82,11 +81,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=139)** What we found is that in 47% of those organizations, committees decide from the potential options.
 >
-> **[2:25](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=145)** In 24% of those organizations, there is some form of economic modeling that happens.
+> **[2:25](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=145)** In 24% of those organizations, there is some form of [[Economic Modeling]] that happens.
 >
 > **[2:30](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=150)** In 13% of organizations, people said that the opinion of the person with the highest salary wins out.
 >
-> **[2:37](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=157)** This is called the HIPPO method and actually we put that answer in for a joke, but 13% of the executives said that was how they made investment decisions in products.
+> **[2:37](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=157)** This is called the HIPPO method and actually we put that answer in for a joke, but 13% of the executives said that was how they made investment decisions in [[Microsoft Products|products]].
 >
 > **[2:46](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980&t=166)** The dirty secret is that decision by committee is basically the same thing.
 >
@@ -220,17 +219,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), [[Agile Development|Agile]] (2), [[Economic Modeling]] (2), [[Microsoft Products|Products]] (2), product (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Economic Modeling]] (2), [[Microsoft Products|Products]] (2), [[Scrum]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** hippo (1), cio (1)
 > **Speakers:** - many (1)
 
-#### Principles of high-performance program management
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/principles-of-high-performance-program-management?u=76281980)
+#### [Principles of high-performance program management](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/principles-of-high-performance-program-management?u=76281980)
 
-#### Case study: HP FutureSmart firmware
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980)
+#### [Case study: HP FutureSmart firmware](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,7 +253,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=115)** About half way through the year, they would then have to do a re-plan because they couldn't even do those two features and re-planning would take an enormous amount of budget as well.
 >
-> **[2:03](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=123)** They were spending 25% of their budget porting code between branches in version control, let me explain this a bit, every time they released a new product onto the market, they would have to take a copy of the code base and put it into what's called a branch, another copy of the code base, and then they would have to develop on that branch, the relevant features for that product.
+> **[2:03](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=123)** They were spending 25% of their budget porting code between branches in [[Version Control]], let me explain this a bit, every time they released a new product onto the market, they would have to take a copy of the code base and put it into what's called a branch, another copy of the code base, and then they would have to develop on that branch, the relevant features for that product.
 >
 > **[2:26](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=146)** Every line of devices would have its own copy of the code base, and what this meant is, if you had a bug fix or a feature that you wanted to build, and you built it against one line of devices and it was needed on another line, you would have to copy that bug fix or feature across the branches that were required to push that bug fix or feature out on those other devices.
 >
@@ -266,7 +263,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=173)** This is a nice proxy for quality, if you're spending 25% of your budget on support, your product is probably not very good quality and so this is a great proxy variable for quality.
 >
-> **[3:04](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=184)** They were spending 15% of their budget on manual testing, and then if you subtract all that away from 100%, what you find is your only spending 5% of your budget on actually building features.
+> **[3:04](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=184)** They were spending 15% of their budget on [[Manual Testing]], and then if you subtract all that away from 100%, what you find is your only spending 5% of your budget on actually building features.
 >
 > **[3:15](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=195)** Now I'm sure many of you have had conversations with your managers where you've said, we would really like to spend some money on improving our software, on improving the code base, on refactoring, other kinds of activities to improve the quality of your software, and you've been told, we can't do that, we don't have time.
 >
@@ -280,13 +277,13 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=254)** What they decided to do was risky but kind of revolutionary, they decided to rebuild the entire firmware platform from scratch, this was a huge program of work, it took 400 developers split across three different countries, Brazil and the USA and India, to rebuild this entire system from scratch.
 >
-> **[4:35](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=275)** And they followed some important architectural principles to be able to do that, they wanted to have a single build of the software that would run on any device, that meant reducing hardware complexity, reducing the number of CPUs they used, so they has to negotiate with the hardware people to achieve that, because they could have a single build, they could develop that on trunk, so no more copies of the code base, instead they had a single build that could run on any set of devices.
+> **[4:35](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=275)** And they followed some important architectural principles to be able to do that, they wanted to have a single build of the software that would run on any device, that meant reducing [[Hardware]] complexity, reducing the number of CPUs they used, so they has to negotiate with the hardware people to achieve that, because they could have a single build, they could develop that on trunk, so no more copies of the code base, instead they had a single build that could run on any set of devices.
 >
-> **[5:00](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=300)** That allowed them to practice continuous integration, perhaps the most important lean engineering practice.
+> **[5:00](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=300)** That allowed them to practice [[Continuous Integration (CI)|continuous integration]], perhaps the most important lean engineering practice.
 >
 > **[5:06](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=306)** This is the practice of checking code into trunk, regularly and every time you do that, you run tests and get feedback and fix the problem straight away, remember earlier we were talking about working in small batches and getting feedback, continuous integration is a powerful way to do that.
 >
-> **[5:22](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=322)** They invested a great deal into test automation, so they could get feedback to the developers quickly, rather than at the end of the release during this six week regression process.
+> **[5:22](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=322)** They invested a great deal into [[Test Automation]], so they could get feedback to the developers quickly, rather than at the end of the release during this six week regression process.
 >
 > **[5:31](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=331)** By following these practices when they rebuilt the software, they were able to create what's called a deployment pipeline, a system for giving developers very fast feedback when they created any defects in the system.
 >
@@ -336,11 +333,11 @@ created: 2026-05-02
 >
 > **[9:34](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=574)** In terms of allocating their capacity, they used a very simple, but powerful approach for this as well, they dedicated 50% of capacity to their long-range business commitments, this was things like building new lines of printers.
 >
-> **[9:48](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=588)** Then they dedicated another 30% of their capacity to their other products initiatives, these were the initiatives that I showed you on the previous slide, where they were doing their estimation, and then they always left 20% of their capacity uncommitted, this was for development teams to do improvement work, to invest in things like test automation, or refactoring or implementing other ideas that they had for making things better.
+> **[9:48](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=588)** Then they dedicated another 30% of their capacity to their other [[Microsoft Products|products]] initiatives, these were the initiatives that I showed you on the previous slide, where they were doing their estimation, and then they always left 20% of their capacity uncommitted, this was for development teams to do improvement work, to invest in things like test automation, or refactoring or implementing other ideas that they had for making things better.
 >
-> **[10:14](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=614)** Many organizations put aside 100% of their capacity for development work, and that's a huge mistake because it doesn't leave you any slack time to be able to adjust and invest in improvement work.
+> **[10:14](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=614)** Many organizations put aside 100% of their capacity for development work, and that's a huge mistake because it doesn't leave you any [[Slack]] time to be able to adjust and invest in improvement work.
 >
-> **[10:27](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=627)** Make sure when you're doing capacity planning you only assign 50% to your long-range commitments, another 20 to 30% to things that you're gonna be doing over the next month or two and then always leave at least 20% of your capacity free for development teams to do their own work.
+> **[10:27](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=627)** Make sure when you're doing [[Capacity Planning]] you only assign 50% to your long-range commitments, another 20 to 30% to things that you're gonna be doing over the next month or two and then always leave at least 20% of your capacity free for development teams to do their own work.
 >
 > **[10:47](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/case-study-hp-futuresmart-firmware?u=76281980&t=647)** Here are some exercises to think about.
 >
@@ -364,7 +361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Engineering]] (8), next (4), feature (4), [[Continuous Integration (CI)|Continuous integration]] (4)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (4), [[Test Automation]] (4), [[Manual Testing]] (2), [[Hardware]] (2), [[Version Control]] (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** usa (1)
@@ -373,12 +370,11 @@ created: 2026-05-02
 > **Tools:** slack (1)
 > **Analogies:** picture (1)
 
-#### Continuous improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980)
+#### [Continuous improvement](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=5)** - One of the things that I love about the HP LaserJet Firmware case study, is the fact that they independently invented continuous delivery.
+> **[0:05](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=5)** - One of the things that I love about the HP LaserJet Firmware case study, is the fact that they independently invented [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[0:13](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=13)** They didn't read the continuous delivery book, because it wasn't out yet.
 >
@@ -426,7 +422,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=130)** Their current condition is expressed in their activity accounting map, that's how you could see both in terms of the budget spent on those activities, and in terms of the cycle time drivers, that was their current condition.
 >
-> **[2:21](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=141)** The next step is to establish the target condition, and the target condition is typically something between two to six weeks out, you can have it about one month out, you can have it the same as your iteration boundaries, if you're using Scrum with sprints of one month, it can be the same boundary.
+> **[2:21](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=141)** The next step is to establish the target condition, and the target condition is typically something between two to six weeks out, you can have it about one month out, you can have it the same as your iteration boundaries, if you're using [[Scrum]] with sprints of one month, it can be the same boundary.
 >
 > **[2:39](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=159)** And then you don't tell people how to achieve that target condition.
 >
@@ -478,7 +474,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=375)** You can see here in this program plan, that they've mixed quality outcomes, internal process outcomes, with product outcomes, the outcomes they want to achieve at the program level for the product and for their organization.
 >
-> **[6:29](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=389)** It's the unique capabilities of software that allow us to do this, to use the Improvement Kata method both for improvement work or process improvement, and for product development, by in both cases expressing the outcomes that we want in measurable terms.
+> **[6:29](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=389)** It's the unique capabilities of software that allow us to do this, to use the Improvement Kata method both for improvement work or process improvement, and for [[Product Development]], by in both cases expressing the outcomes that we want in measurable terms.
 >
 > **[6:43](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/continuous-improvement?u=76281980&t=403)** It's a very powerful technique.
 >
@@ -502,19 +498,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), teams (5), product (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), management (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Scrum]] (1), [[Product Development]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Versions:** 0.3 (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - one (1)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/conclusion?u=76281980&t=5)** - In this module, we've talked about the problems with the agile program paradigm and the waterfall program paradigm.
+> **[0:05](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/conclusion?u=76281980&t=5)** - In this module, we've talked about the problems with the [[Agile Development|agile]] program paradigm and the waterfall program paradigm.
 >
 > **[0:14](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/conclusion?u=76281980&t=14)** We've talked about the principles of actually moving to a high-performance method for running programs that work at scale.
 >
@@ -530,7 +525,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/conclusion?u=76281980&t=66)** It should be up to teams to work to design and test those hypotheses and then build the necessary features based on what they discover.
 >
-> **[1:14](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/conclusion?u=76281980&t=74)** Number three, we wanna change our software delivery life cycle to enable us to create fast feedback loops by using techniques like continuous integration, test automation, continuous delivery, so that we can give developers fast feedback on whether what they're building is built right.
+> **[1:14](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/conclusion?u=76281980&t=74)** Number three, we wanna change our software delivery life cycle to enable us to create fast feedback loops by using techniques like [[Continuous Integration (CI)|continuous integration]], [[Test Automation]], [[Continuous Delivery (CD)|continuous delivery]], so that we can give developers fast feedback on whether what they're building is built right.
 >
 > **[1:31](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/conclusion?u=76281980&t=91)** Is it high quality?
 >
@@ -544,7 +539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Agile Development|Agile]] (1), management (1), feature (1), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Test Automation]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Speakers:** - in (1)
 
 

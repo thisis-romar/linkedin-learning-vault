@@ -93,30 +93,28 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Custom workflows in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980)
+#### [Custom workflows in Jira](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980&t=0)** As a Jira administrator and consultant, I've seen plenty of horrendous workflows. When workflows are too complex, too customized, and don't accurately reflect a team's real-life process, people hate using Jira.
+> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980&t=0)** As a [[Jira]] administrator and consultant, I've seen plenty of horrendous workflows. When workflows are too complex, too customized, and don't accurately reflect a team's real-life process, people hate using Jira.
 >
 > **[0:14](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980&t=14)** In this course, you'll learn how to design smart processes and translate them into Jira workflows, build custom workflows that support an organization's specific needs, understand key workflow settings and what Jira is doing in the background, save time and effort using triggers, conditions, validators, and post functions, keep work flowing with transitions screens, approvals, and properties, extend capabilities with automation and apps, and more.
 >
 > **[0:45](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980&t=45)** Hi, I'm Rachel Wright, certified Jira administrator and author of the Jira Strategy Admin Workbook.
 >
-> **[0:51](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980&t=51)** Join my LinkedIn Learning course to learn how to build smart workflows that your business development and support teams love to use.
+> **[0:51](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980&t=51)** Join my [[LinkedIn]] Learning course to learn how to build smart workflows that your [[Business Development]] and support teams love to use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), [[Automation]] (1), [[LinkedIn]] (1), [[Business Development]] (1), teams (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[LinkedIn]] (1), [[Business Development]] (1)
 > **Tools:** jira (6)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/jira-managing-custom-workflows/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/who-is-this-course-for?u=76281980&t=0)** This course helps new and experienced Jira administrators design, build, and maintain custom processes and workflows.
+> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/who-is-this-course-for?u=76281980&t=0)** This course helps new and experienced [[Jira]] administrators design, build, and maintain custom processes and workflows.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/who-is-this-course-for?u=76281980&t=9)** It's also useful for anyone who's interested in improving team efficiency, fostering cross-team communication, managing business pipelines, passing audits, smoothing handoffs between users and teams, or improving time to market.
 >
@@ -152,18 +150,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (12), application (4), management (4), business (2), feature (2)
+> **Frameworks & Libraries:** [[Jira]] (12)
 > **Tools:** jira (12)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** configure (1)
 
-#### What do you need for this course?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980)
+#### [What do you need for this course?](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=0)** Ideally, you've been managing Jira for a while and have experience creating projects, configuring existing schemes, and creating new custom schemes when necessary.
+> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=0)** Ideally, you've been managing [[Jira]] for a while and have experience creating projects, configuring existing schemes, and creating new custom schemes when necessary.
 >
 > **[0:11](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=11)** All you need for this course is admin access to a Jira application.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=36)** New features are added, moved, or changed all the time.
 >
-> **[0:40](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=40)** Existing features or even entire products are renamed, and links that worked yesterday are broken today.
+> **[0:40](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=40)** Existing features or even entire [[Microsoft Products|products]] are renamed, and links that worked yesterday are broken today.
 >
 > **[0:48](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=48)** That's why I've set up a special place on my website where you can get the latest course information. When something impactful to the course changes, I'll post that information at the URL shown.
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=67)** For some of you, I speak too slowly, and for others I speak too fast.
 >
-> **[1:12](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=72)** Luckily, the LinkedIn video player has some useful features to help you move at your own pace.
+> **[1:12](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=72)** Luckily, the [[LinkedIn]] video player has some useful features to help you move at your own pace.
 >
 > **[1:18](https://www.linkedin.com/learning/jira-managing-custom-workflows/what-do-you-need-for-this-course?u=76281980&t=78)** On the bottom left, use the skip-back icon to rewind 10 seconds and hear information again.
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), application (3), cloud (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
@@ -214,20 +211,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Important terms and definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980)
+#### [Important terms and definitions](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=0)** Before we get started, I wanted to refresh your memory of some terms from previous courses and introduce some new terms for this course.
 >
-> **[0:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=9)** An issue is an individual item in Jira.
+> **[0:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=9)** An issue is an individual item in [[Jira]].
 >
 > **[0:12](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=12)** Each time you create an item, you're creating a new issue with a unique key to identify it.
 >
 > **[0:18](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=18)** A project is a collection of issues.
 >
-> **[0:21](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=21)** Now the word project in Jira is different than an initiative your team is working on outside of Jira.
+> **[0:21](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=21)** Now the [[Microsoft Word|word]] project in Jira is different than an initiative your team is working on outside of Jira.
 >
 > **[0:28](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=28)** Think of a Jira project as a container for all your team's initiatives, tasks, and To-Do items.
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=138)** And finally, workflow transitions have what I call behaviors.
 >
-> **[2:22](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=142)** Atlassian sometimes calls these rules or workflow extensions.
+> **[2:22](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=142)** [[Atlassian]] sometimes calls these rules or workflow extensions.
 >
 > **[2:27](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=147)** These specify what happens in the background when issues transition from one status to another.
 >
@@ -279,11 +275,11 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=158)** I've made a glossary to help you with it for this course and when navigating the Atlassian ecosystem.
 >
-> **[2:44](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=164)** Download my handout from the exercise files area in LinkedIn Learning.
+> **[2:44](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980&t=164)** Download my handout from the exercise files area in [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (11), data (2), cloud (2), [[Atlassian]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Jira]] (11), [[Atlassian]] (2), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (11)
 > **Definitions:** is a  (5), is an  (1), in other words (1)
 > **Env Vars:** jsm (1)
@@ -291,8 +287,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Warnings:** note that (1)
 
-#### Important workflow concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-workflow-concepts?u=76281980)
+#### [Important workflow concepts](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-workflow-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-workflow-concepts?u=76281980&t=12)** Feel free to jump back to Section 6 of that course for a refresher.
 >
-> **[0:18](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-workflow-concepts?u=76281980&t=18)** Jira cloud has two project administration types; company-managed and team-managed.
+> **[0:18](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-workflow-concepts?u=76281980&t=18)** [[Jira]] cloud has two project administration types; company-managed and team-managed.
 >
 > **[0:26](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-workflow-concepts?u=76281980&t=26)** Company-managed projects use schemes that are managed by Jira administrators.
 >
@@ -390,19 +385,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), data (3), cloud (2), application (2), functional (1)
+> **Frameworks & Libraries:** [[Jira]] (6)
 > **Tools:** jira (6)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 
-#### Types of workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980)
+#### [Types of workflows](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=0)** All application types come with templates to help quickly build new Jira projects.
+> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=0)** All application types come with templates to help quickly build new [[Jira]] projects.
 >
 > **[0:05](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=5)** Here are some examples in cloud.
 >
@@ -462,7 +456,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=172)** Next, let's look at some service management workflows.
 >
-> **[2:56](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=176)** Here's an IT service management customer portal.
+> **[2:56](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=176)** Here's an [[IT Service Management]] customer portal.
 >
 > **[3:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=180)** I'll select the "Get IT help" option, which is a simple catch-all type of request form.
 >
@@ -506,7 +500,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=293)** Additionally, I'm wondering if there are other onboarding tasks that don't fall into the categories of documents or provisioning.
 >
-> **[5:01](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=301)** So, for example, what if a new office chair or a company credit card or security badge for the on-site gym is needed for this new hire?
+> **[5:01](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=301)** So, for example, what if a new [[Microsoft Office|office]] chair or a company credit card or security badge for the on-site gym is needed for this new hire?
 >
 > **[5:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/types-of-workflows?u=76281980&t=309)** Where's the status to represent those actions?
 >
@@ -618,7 +612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (16), next (4), application (3), data (3), management (2)
+> **Frameworks & Libraries:** [[Jira]] (16), [[IT Service Management]] (1), [[Microsoft Office|Office]] (1)
 > **Tools:** jira (16)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (3), find (1)
@@ -627,12 +621,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 
-#### Workflow relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-relationships?u=76281980)
+#### [Workflow relationships](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-relationships?u=76281980&t=0)** In company-managed projects in Jira Cloud and all projects in server and data center, the workflow to issue type relationship is managed by a workflow scheme.
+> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-relationships?u=76281980&t=0)** In company-managed projects in [[Jira]] Cloud and all projects in server and data center, the workflow to issue type relationship is managed by a workflow scheme.
 >
 > **[0:11](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-relationships?u=76281980&t=11)** A scheme is simply a collection of settings.
 >
@@ -722,11 +715,11 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-relationships?u=76281980&t=267)** In the overlay, I'll remove task so only the employee issue type uses this changed workflow.
 >
-> **[4:34](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-relationships?u=76281980&t=274)** See the Atlassian documentation to learn more about managing workflows in team-managed projects.
+> **[4:34](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-relationships?u=76281980&t=274)** See the [[Atlassian]] documentation to learn more about managing workflows in team-managed projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), cloud (2), business (2), data (1), hr (1)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Atlassian]] (1)
 > **Tools:** jira (9)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -734,8 +727,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 
-#### Challenge: Configure a workflow relationship
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-configure-a-workflow-relationship?u=76281980)
+#### [Challenge: Configure a workflow relationship](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-configure-a-workflow-relationship?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,16 +735,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-configure-a-workflow-relationship?u=76281980&t=16)** Go try this out in your test environment, then compare your implementation to my solution in the next section.
 
-> [!info]- Semantic Content
->
-> **Frameworks & Libraries:** next (1)
-
-#### Solution: Configure a workflow relationship
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-configure-a-workflow-relationship?u=76281980)
+#### [Solution: Configure a workflow relationship](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-configure-a-workflow-relationship?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-configure-a-workflow-relationship?u=76281980&t=5)** Were you able to configure the workflow scheme and apply it to a Jira project?
+> **[0:05](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-configure-a-workflow-relationship?u=76281980&t=5)** Were you able to configure the workflow scheme and apply it to a [[Jira]] project?
 >
 > **[0:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-configure-a-workflow-relationship?u=76281980&t=9)** Here's how to do it.
 >
@@ -772,7 +759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **UI Navigation:** go to (3)
 > **Tools:** jira (2)
 > **Prerequisites:** configure (1)
@@ -782,12 +769,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using a phased approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-a-phased-approach?u=76281980)
+#### [Using a phased approach](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-a-phased-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-a-phased-approach?u=76281980&t=0)** Let's talk about the planning you should do before you create a custom workflow in the Jira application.
+> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-a-phased-approach?u=76281980&t=0)** Let's talk about the planning you should do before you create a custom workflow in the [[Jira]] application.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-a-phased-approach?u=76281980&t=6)** That's right, log out of Jira, because building a custom workflow should always start on paper.
 >
@@ -881,14 +867,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), application (3), generic (1), database (1)
+> **Frameworks & Libraries:** [[Jira]] (10)
 > **Tools:** jira (10)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
-#### Conducting a workflow interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/conducting-a-workflow-interview?u=76281980)
+#### [Conducting a workflow interview](https://www.linkedin.com/learning/jira-managing-custom-workflows/conducting-a-workflow-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -940,7 +925,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/jira-managing-custom-workflows/conducting-a-workflow-interview?u=76281980&t=101)** What's the hardest part of the process?
 >
-> **[1:43](https://www.linkedin.com/learning/jira-managing-custom-workflows/conducting-a-workflow-interview?u=76281980&t=103)** After the plants have grown, it's time to harvest them to propagate or make other products out of.
+> **[1:43](https://www.linkedin.com/learning/jira-managing-custom-workflows/conducting-a-workflow-interview?u=76281980&t=103)** After the plants have grown, it's time to harvest them to propagate or make other [[Microsoft Products|products]] out of.
 >
 > **[1:49](https://www.linkedin.com/learning/jira-managing-custom-workflows/conducting-a-workflow-interview?u=76281980&t=109)** So right now I just grow them for myself, but I might want to expand in the future.
 >
@@ -970,7 +955,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/jira-managing-custom-workflows/conducting-a-workflow-interview?u=76281980&t=175)** That sounds like a lot of work.
 >
-> **[2:58](https://www.linkedin.com/learning/jira-managing-custom-workflows/conducting-a-workflow-interview?u=76281980&t=178)** I'm really looking forward to helping you better manage this in Jira.
+> **[2:58](https://www.linkedin.com/learning/jira-managing-custom-workflows/conducting-a-workflow-interview?u=76281980&t=178)** I'm really looking forward to helping you better manage this in [[Jira]].
 >
 > **[3:03](https://www.linkedin.com/learning/jira-managing-custom-workflows/conducting-a-workflow-interview?u=76281980&t=183)** Me too.
 >
@@ -978,12 +963,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Jira]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** jira (1)
 
-#### Determining statuses
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/determining-statuses?u=76281980)
+#### [Determining statuses](https://www.linkedin.com/learning/jira-managing-custom-workflows/determining-statuses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1051,9 +1035,9 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/jira-managing-custom-workflows/determining-statuses?u=76281980&t=197)** The easiest way to handle this conditional step in the process is to allow the user to skip the status when it doesn't apply.
 >
-> **[3:25](https://www.linkedin.com/learning/jira-managing-custom-workflows/determining-statuses?u=76281980&t=205)** Every configuration decision you make in Jira should consider today's needs and future needs for both users and the application.
+> **[3:25](https://www.linkedin.com/learning/jira-managing-custom-workflows/determining-statuses?u=76281980&t=205)** Every configuration decision you make in [[Jira]] should consider today's needs and future needs for both users and the application.
 >
-> **[3:35](https://www.linkedin.com/learning/jira-managing-custom-workflows/determining-statuses?u=76281980&t=215)** Whether it's gardening, software development or customer support, most processes have some kind of validation or testing phase.
+> **[3:35](https://www.linkedin.com/learning/jira-managing-custom-workflows/determining-statuses?u=76281980&t=215)** Whether it's gardening, [[Software Development]] or [[Customer Support]], most processes have some kind of validation or testing phase.
 >
 > **[3:44](https://www.linkedin.com/learning/jira-managing-custom-workflows/determining-statuses?u=76281980&t=224)** Look through your application's existing statuses to see what similarly named options already exist.
 >
@@ -1085,20 +1069,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (3), [[Jira]] (2), application (2), database (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Software Development]] (1), [[Customer Support]] (1)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** make (3)
 > **Tools:** jira (2)
 > **Definitions:** is a  (2)
 
-#### Adding transitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/adding-transitions?u=76281980)
+#### [Adding transitions](https://www.linkedin.com/learning/jira-managing-custom-workflows/adding-transitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/adding-transitions?u=76281980&t=0)** As a reminder, transitions are used to move issues between workflow statuses.
 >
-> **[0:06](https://www.linkedin.com/learning/jira-managing-custom-workflows/adding-transitions?u=76281980&t=6)** In Jira, transitions are represented by arrows to, from, or between statuses.
+> **[0:06](https://www.linkedin.com/learning/jira-managing-custom-workflows/adding-transitions?u=76281980&t=6)** In [[Jira]], transitions are represented by arrows to, from, or between statuses.
 >
 > **[0:13](https://www.linkedin.com/learning/jira-managing-custom-workflows/adding-transitions?u=76281980&t=13)** Transitions to a status are called incoming, and transitions from a status are called outgoing.
 >
@@ -1138,20 +1121,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jira]] (2), data (1)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **Tools:** jira (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 
-#### Designing a custom workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980)
+#### [Designing a custom workflow](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=0)** Now that we've collected process information, written a process narrative, and identified high-level phases, let's design a custom workflow on paper.
 >
-> **[0:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=9)** It's infinitely easier to make changes and address potential problems outside of Jira, so I always start there.
+> **[0:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=9)** It's infinitely easier to make changes and address potential problems outside of [[Jira]], so I always start there.
 >
 > **[0:16](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=16)** Don't think of this as a waste of time, think of it as getting a jump on writing your Jira documentation.
 >
@@ -1161,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=29)** For this example, I'll draw one forward transition for each status.
 >
-> **[0:35](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=35)** I'll name all the forward transitions with an action word or phrase that describes what happens next in the workflow.
+> **[0:35](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=35)** I'll name all the forward transitions with an action [[Microsoft Word|word]] or phrase that describes what happens next in the workflow.
 >
 > **[0:43](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=43)** Next, I'll draw a backwards transition for every status.
 >
@@ -1183,24 +1165,23 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=92)** I've created a template to make it easy for you to determine, design, and document custom workflows.
 >
-> **[1:39](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=99)** Download this handout from the Exercise Files area in LinkedIn Learning.
+> **[1:39](https://www.linkedin.com/learning/jira-managing-custom-workflows/designing-a-custom-workflow?u=76281980&t=99)** Download this handout from the Exercise Files area in [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), next (2), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** jira (2)
 > **Exercise Files:** template (1), exercise files (1)
 > **Analogies:** think of it as (1)
 
-#### Challenge: Workflow interview and design
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-interview-and-design?u=76281980)
+#### [Challenge: Workflow interview and design](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-interview-and-design?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-interview-and-design?u=76281980&t=5)** In this challenge, you'll conduct a workflow interview with one of your colleagues.
 >
-> **[0:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-interview-and-design?u=76281980&t=9)** Ask someone in your organization to describe their real-world process so you can determine the needed Jira statuses, transitions, rules, and behaviors.
+> **[0:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-interview-and-design?u=76281980&t=9)** Ask someone in your organization to describe their real-world process so you can determine the needed [[Jira]] statuses, transitions, rules, and behaviors.
 >
 > **[0:20](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-interview-and-design?u=76281980&t=20)** Don't have a willing participant to interview?
 >
@@ -1211,8 +1192,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Jira]] (1)
 > **Tools:** jira (1)
 
-#### Solution: Workflow interview and design
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-interview-and-design?u=76281980)
+#### [Solution: Workflow interview and design](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-interview-and-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1232,21 +1212,16 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-interview-and-design?u=76281980&t=43)** With global transitions, there's no need for alternate transitions unless you're trying to perform an action like updating data in the background.
 
-> [!info]- Semantic Content
->
-> **Frameworks & Libraries:** next (1), data (1)
-
 
 ### 3. Building Custom Workflows
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Translating requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980)
+#### [Translating requirements](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980&t=0)** Now it's time to translate all the requirements info we've collected into settings that Jira understands.
+> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980&t=0)** Now it's time to translate all the requirements info we've collected into settings that [[Jira]] understands.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980&t=6)** Let's map the flowcharts we've drawn into Jira Speak.
 >
@@ -1284,23 +1259,22 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980&t=105)** Download it so you have all the details when we build the workflow in the next section.
 >
-> **[1:50](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980&t=110)** The handout is available in the Exercise Files area in LinkedIn Learning.
+> **[1:50](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980&t=110)** The handout is available in the Exercise Files area in [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), next (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[LinkedIn]] (1)
 > **Tools:** jira (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
 
-#### Creating new workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/creating-new-workflows?u=76281980)
+#### [Creating new workflows](https://www.linkedin.com/learning/jira-managing-custom-workflows/creating-new-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/creating-new-workflows?u=76281980&t=0)** Now we're ready to build the workflow in Jira.
+> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/creating-new-workflows?u=76281980&t=0)** Now we're ready to build the workflow in [[Jira]].
 >
 > **[0:03](https://www.linkedin.com/learning/jira-managing-custom-workflows/creating-new-workflows?u=76281980&t=3)** In this section, we'll build the statuses and transitions for an initial workflow.
 >
@@ -1332,13 +1306,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), next (1)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **Cross-References:** in the next (1), later in (1)
 > **Tools:** jira (2)
 > **Definitions:** is a  (1)
 
-#### Importing, exporting, and backing up
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980)
+#### [Importing, exporting, and backing up](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1346,13 +1319,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=4)** Now there's no such thing as too many backups.
 >
-> **[0:07](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=7)** I'm constantly backing up and exporting Jira settings so I can have a copy for safekeeping, or to import into another Jira application.
+> **[0:07](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=7)** I'm constantly backing up and exporting [[Jira]] settings so I can have a copy for safekeeping, or to import into another Jira application.
 >
 > **[0:17](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=17)** In Jira server or data center, there's a specific function to import single workflows.
 >
 > **[0:22](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=22)** Access it from the workflows page in the application admin area.
 >
-> **[0:27](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=27)** You can import workflows in Atlassian proprietary JWB format or in XML format.
+> **[0:27](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=27)** You can import workflows in [[Atlassian]] proprietary JWB format or in XML format.
 >
 > **[0:35](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=35)** There is no similar import function for Jira Cloud, but you can import public workflows from the Atlassian marketplace.
 >
@@ -1438,7 +1411,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=277)** One final option is using apps from the Atlassian marketplace.
 >
-> **[4:42](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=282)** Visit marketplace.[atlassian.com](https://atlassian.com) and search for the word configuration.
+> **[4:42](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=282)** Visit marketplace.[atlassian.com](https://atlassian.com) and search for the [[Microsoft Word|word]] configuration.
 >
 > **[4:47](https://www.linkedin.com/learning/jira-managing-custom-workflows/importing-exporting-and-backing-up?u=76281980&t=287)** There are apps that help you analyze, compare, and manage change to the Jira configuration.
 >
@@ -1446,7 +1419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), application (4), [[Atlassian]] (4), cloud (4), data (3)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Atlassian]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** xml (8), jwb (2)
 > **Tools:** jira (9)
 > **Definitions:** is a  (3)
@@ -1455,8 +1428,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
 
-#### Challenge: Reconstruct this workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-reconstruct-this-workflow?u=76281980)
+#### [Challenge: Reconstruct this workflow](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-reconstruct-this-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1438,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-reconstruct-this-workflow?u=76281980&t=12)** Pretend you need to reconstruct a workflow, and the only backup you have is the screenshot.
 >
-> **[0:18](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-reconstruct-this-workflow?u=76281980&t=18)** As a Jira administrator, I've had to do this when workflows stop working or when configuration settings were accidentally removed.
+> **[0:18](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-reconstruct-this-workflow?u=76281980&t=18)** As a [[Jira]] administrator, I've had to do this when workflows stop working or when configuration settings were accidentally removed.
 >
 > **[0:25](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-reconstruct-this-workflow?u=76281980&t=25)** Breakage is often caused by user error, uninstalling an app, or simple application bugs.
 >
@@ -1478,12 +1450,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Tools:** jira (1)
 
-#### Solution: Reconstruct this workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-reconstruct-this-workflow?u=76281980)
+#### [Solution: Reconstruct this workflow](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-reconstruct-this-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1493,7 +1464,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-reconstruct-this-workflow?u=76281980&t=10)** First is the easy part.
 >
-> **[0:12](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-reconstruct-this-workflow?u=76281980&t=12)** Write down the statuses and see if there are any that need to be created in your Jira application.
+> **[0:12](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-reconstruct-this-workflow?u=76281980&t=12)** Write down the statuses and see if there are any that need to be created in your [[Jira]] application.
 >
 > **[0:18](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-reconstruct-this-workflow?u=76281980&t=18)** Next, we need to analyze each step to see what we can learn.
 >
@@ -1529,7 +1500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jira]] (2), application (1), cloud (1), data (1)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **Tools:** jira (2)
 > **CLI Commands:** find (1)
 
@@ -1538,16 +1509,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using triggers, conditions, validators, and post functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980)
+#### [Using triggers, conditions, validators, and post functions](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=0)** Jira comes with built-in triggers, conditions, validators, and post functions so you can stretch workflow capabilities.
+> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=0)** [[Jira]] comes with built-in triggers, conditions, validators, and post functions so you can stretch workflow capabilities.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=9)** I call these abilities behaviors for lack of a better term.
 >
-> **[0:12](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=12)** Sometimes Atlassian calls them rules or workflow extensions.
+> **[0:12](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=12)** Sometimes [[Atlassian]] calls them rules or workflow extensions.
 >
 > **[0:16](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=16)** Let's review some examples of each.
 >
@@ -1565,13 +1535,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=58)** We'll discuss triggers first.
 >
-> **[1:01](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=61)** Triggers listen for events in other development tools like Bitbucket, FishEye, Crucible, and GitHub.
+> **[1:01](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=61)** Triggers listen for events in other development tools like [[Bitbucket]], FishEye, Crucible, and [[GitHub]].
 >
 > **[1:08](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=68)** They can automatically transition Jira issues and execute built-in rules.
 >
 > **[1:13](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=73)** This reduces manual work and keeps Jira issue status in sync with reality.
 >
-> **[1:20](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=80)** For example, if a code review is rejected in Crucible, automatically transition the issue back to the to-do status and notify the developer that there's a problem.
+> **[1:20](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=80)** For example, if a [[Code Review]] is rejected in Crucible, automatically transition the issue back to the to-do status and notify the developer that there's a problem.
 >
 > **[1:31](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980&t=91)** Or if a code branch is created in Bitbucket, automatically transition the issue from the to-do status to the in-progress status.
 >
@@ -1701,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), data (3), [[Atlassian]] (2), [[Bitbucket]] (2), application (2)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Atlassian]] (2), [[Bitbucket]] (2), [[GitHub]] (1), [[Code Review]] (1)
 > **Tools:** jira (9), bitbucket (2), github (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
@@ -1709,14 +1679,13 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Best Practices:** make sure to (1)
 
-#### Requiring approval
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980)
+#### [Requiring approval](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=0)** There are multiple ways to create approval functionality in workflows.
 >
-> **[0:04](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=4)** We can use an approval status, a special transition, or built-in functionality in Jira Service Management.
+> **[0:04](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=4)** We can use an approval status, a special transition, or built-in functionality in [[Jira]] Service Management.
 >
 > **[0:11](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=11)** Let's start with an easy example and move towards a more complex example scenario.
 >
@@ -1800,7 +1769,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=255)** You can create a hidden field and set a default list of approvers.
 >
-> **[4:20](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=260)** Next, if using the IT Service Management Project template and Bitbucket, you can define approvers based on the service impacted.
+> **[4:20](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=260)** Next, if using the [[IT Service Management]] Project template and [[Bitbucket]], you can define approvers based on the service impacted.
 >
 > **[4:29](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=269)** JSM will pull any change approvers from the affected services field.
 >
@@ -1866,13 +1835,13 @@ created: 2026-05-02
 >
 > **[7:17](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=437)** Check out the specific documentation for team-managed projects for additional details.
 >
-> **[7:24](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=444)** You can also manage approvals using apps from the Atlassian marketplace.
+> **[7:24](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=444)** You can also manage approvals using apps from the [[Atlassian]] marketplace.
 >
 > **[7:29](https://www.linkedin.com/learning/jira-managing-custom-workflows/requiring-approval?u=76281980&t=449)** I have an implementation example in the verify approval and a Jira workflow article on my website.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (11), next (7), management (4), feature (2), [[IT Service Management]] (1)
+> **Frameworks & Libraries:** [[Jira]] (11), [[IT Service Management]] (1), [[Bitbucket]] (1), [[Atlassian]] (1)
 > **Tools:** jira (11), bitbucket (1)
 > **Env Vars:** cab (4), jsm (3)
 > **UI Navigation:** checkbox (2), select the (2), click on (1)
@@ -1881,20 +1850,19 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Exercise Files:** template (1)
 
-#### Leveraging automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980)
+#### [Leveraging automation](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=0)** Automation is so awesome.
 >
-> **[0:02](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=2)** It's definitely the most fun Jira feature.
+> **[0:02](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=2)** It's definitely the most fun [[Jira]] feature.
 >
-> **[0:04](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=4)** There are built-in capabilities, and of course, you can extend abilities with apps from the Atlassian marketplace.
+> **[0:04](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=4)** There are built-in capabilities, and of course, you can extend abilities with apps from the [[Atlassian]] marketplace.
 >
 > **[0:11](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=11)** In this section, we'll explore ways to automate repeated and manual tasks in Jira.
 >
-> **[0:16](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=16)** Automation in workflows helps users reduce manual work, improve data quality, and reduce human error.
+> **[0:16](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=16)** Automation in workflows helps users reduce manual work, improve [[Data Quality]], and reduce human error.
 >
 > **[0:24](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=24)** For example, when all stories are complete, automatically close the associated epic.
 >
@@ -1940,22 +1908,21 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=155)** And here's the email notification.
 >
-> **[2:38](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=158)** Using automation, I could also send a message to my team's chatroom, add a comment, send a request to a URL, create a software branch, create a confluence page, and more.
+> **[2:38](https://www.linkedin.com/learning/jira-managing-custom-workflows/leveraging-automation?u=76281980&t=158)** Using automation, I could also send a message to my team's chatroom, add a comment, send a request to a URL, create a software branch, create a [[Confluence]] page, and more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (10), [[Jira]] (10), management (3), feature (2), [[Atlassian]] (2)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Atlassian]] (2), [[Data Quality]] (1), [[Confluence]] (1)
 > **Tools:** jira (10), confluence (1)
 > **Env Vars:** jql (1), url (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Expanding with apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/expanding-with-apps?u=76281980)
+#### [Expanding with apps](https://www.linkedin.com/learning/jira-managing-custom-workflows/expanding-with-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/expanding-with-apps?u=76281980&t=0)** If you can't find a way to do something in Jira, there's probably a marketplace app to provide that functionality.
+> **[0:00](https://www.linkedin.com/learning/jira-managing-custom-workflows/expanding-with-apps?u=76281980&t=0)** If you can't find a way to do something in [[Jira]], there's probably a marketplace app to provide that functionality.
 >
 > **[0:07](https://www.linkedin.com/learning/jira-managing-custom-workflows/expanding-with-apps?u=76281980&t=7)** In this section, we'll explore one of the popular apps for extending workflow capabilities.
 >
@@ -1993,18 +1960,17 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/jira-managing-custom-workflows/expanding-with-apps?u=76281980&t=101)** This is a very simple example and this app is capable of so much more.
 >
-> **[1:46](https://www.linkedin.com/learning/jira-managing-custom-workflows/expanding-with-apps?u=76281980&t=106)** But hopefully, I've inspired you to try out some additional functionality from the Atlassian marketplace, in your test application, of course.
+> **[1:46](https://www.linkedin.com/learning/jira-managing-custom-workflows/expanding-with-apps?u=76281980&t=106)** But hopefully, I've inspired you to try out some additional functionality from the [[Atlassian]] marketplace, in your test application, of course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), cloud (1), [[Atlassian]] (1), application (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Atlassian]] (1)
 > **Tools:** jira (4)
 > **Env Vars:** jmwe (2), jql (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 
-#### Using properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-properties?u=76281980)
+#### [Using properties](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2020,7 +1986,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-properties?u=76281980&t=21)** Let's explore the three that I use the most.
 >
-> **[0:24](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-properties?u=76281980&t=24)** The first is jira.issue.editable.
+> **[0:24](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-properties?u=76281980&t=24)** The first is [[Jira]].issue.editable.
 >
 > **[0:28](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-properties?u=76281980&t=28)** In the screenshot, I've applied jira.issue.editable to the final workflow status and set the value to false.
 >
@@ -2068,7 +2034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), data (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (6)
 > **Tools:** jira (6)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (1)
@@ -2076,8 +2042,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Prerequisites:** you'll need (1)
 
-#### Challenge: Enhance this workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-enhance-this-workflow?u=76281980)
+#### [Challenge: Enhance this workflow](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-enhance-this-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2085,7 +2050,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-enhance-this-workflow?u=76281980&t=7)** In this challenge, you'll enhance it with your choice of behaviors.
 >
-> **[0:11](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-enhance-this-workflow?u=76281980&t=11)** Open the workflow in Jira and add a condition, validator, and a post function that makes sense for the use case.
+> **[0:11](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-enhance-this-workflow?u=76281980&t=11)** Open the workflow in [[Jira]] and add a condition, validator, and a post function that makes sense for the use case.
 >
 > **[0:19](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-enhance-this-workflow?u=76281980&t=19)** I'll show you the behaviors I added in the next section.
 >
@@ -2093,13 +2058,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Cross-References:** in the next (1)
 > **Tools:** jira (1)
 > **UI Navigation:** open the (1)
 
-#### Solution: Enhance this workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-enhance-this-workflow?u=76281980)
+#### [Solution: Enhance this workflow](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-enhance-this-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2113,7 +2077,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-enhance-this-workflow?u=76281980&t=31)** The post function automatically creates a subtask reminding me to update the count in my seed inventory database.
 >
-> **[0:38](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-enhance-this-workflow?u=76281980&t=38)** You can also automatically create issues with other apps and the built-in automation feature in Jira Cloud.
+> **[0:38](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-enhance-this-workflow?u=76281980&t=38)** You can also automatically create issues with other apps and the built-in automation feature in [[Jira]] Cloud.
 >
 > **[0:46](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-enhance-this-workflow?u=76281980&t=46)** Finally, in the done and Skip to Done transitions, I added a condition to make sure any subtasks are in their final status before this parent reaches its final status.
 >
@@ -2151,7 +2115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), database (2), [[Automation]] (1), feature (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Tools:** jira (1)
@@ -2161,8 +2125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Workflow recommendations
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980)
+#### [Workflow recommendations](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2174,7 +2137,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=15)** Let's start with some good things to do.
 >
-> **[0:17](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=17)** Naming is very important in Jira.
+> **[0:17](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=17)** Naming is very important in [[Jira]].
 >
 > **[0:21](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=21)** Smart naming of workflows, statuses, and transitions ensure concepts are clear for your users and things are easy to find for your fellow administrators.
 >
@@ -2190,7 +2153,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=64)** Status name should be short and reflect a current state and time.
 >
-> **[1:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=69)** Long multi-word names are harder to query and may be truncated on certain screens.
+> **[1:09](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=69)** Long multi-[[Microsoft Word|word]] names are harder to query and may be truncated on certain screens.
 >
 > **[1:15](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=75)** Good status names immediately tell a user what's occurring and where they are in the process.
 >
@@ -2290,7 +2253,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=317)** I'm sure you and I do, but what about your users?
 >
-> **[5:21](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=321)** Don't create ultra-specific status names or use the wrong word tense. For example, don't use "Pending Review by Marketing" or "Pending Review by John".
+> **[5:21](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=321)** Don't create ultra-specific status names or use the wrong word tense. For example, don't use "Pending Review by Marketing" or "Pending Review by [[John the Ripper|John]]".
 >
 > **[5:32](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=332)** These are too specific and make workflows hard to maintain and share between Jira projects.
 >
@@ -2326,13 +2289,13 @@ created: 2026-05-02
 >
 > **[7:06](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=426)** Even after a decade of workflow building, I always seem to forget something on my list.
 >
-> **[7:11](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=431)** Download this handout from the Exercise Files area in LinkedIn Learning.
+> **[7:11](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=431)** Download this handout from the Exercise Files area in [[LinkedIn]] Learning.
 >
 > **[7:16](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980&t=436)** For more workflow tips, see the best practices for creating a custom workflow article on my website.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), [[Microsoft Word|Word]] (4), next (3), hr (1), application (1)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Microsoft Word|Word]] (4), [[John the Ripper|John]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (7)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (3)
@@ -2341,8 +2304,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** don't forget (1)
 
-#### Challenge: Workflow scavenger hunt
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-scavenger-hunt?u=76281980)
+#### [Challenge: Workflow scavenger hunt](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-scavenger-hunt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2352,11 +2314,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-scavenger-hunt?u=76281980&t=13)** Problems may be omissions, inconsistencies, bad practices, philosophy issues, technical errors, things to improve, and more.
 >
-> **[0:22](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-scavenger-hunt?u=76281980&t=22)** The example uses only built-in Jira features.
+> **[0:22](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-scavenger-hunt?u=76281980&t=22)** The example uses only built-in [[Jira]] features.
 >
 > **[0:26](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-scavenger-hunt?u=76281980&t=26)** No third-party apps or special capabilities are required for this challenge.
 >
-> **[0:31](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-scavenger-hunt?u=76281980&t=31)** Start by downloading the worksheet, answer key, and example workflow materials from the Exercise Files area in LinkedIn Learning.
+> **[0:31](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-scavenger-hunt?u=76281980&t=31)** Start by downloading the worksheet, answer key, and example workflow materials from the Exercise Files area in [[LinkedIn]] Learning.
 >
 > **[0:41](https://www.linkedin.com/learning/jira-managing-custom-workflows/challenge-workflow-scavenger-hunt?u=76281980&t=41)** If you have server or data center, you can import the example workflow using the import function in the workflow's admin area.
 >
@@ -2366,12 +2328,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), cloud (2), [[LinkedIn]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[LinkedIn]] (1)
 > **Tools:** jira (2)
 > **Exercise Files:** exercise files (1)
 
-#### Solution: Workflow scavenger hunt
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-scavenger-hunt?u=76281980)
+#### [Solution: Workflow scavenger hunt](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-scavenger-hunt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2383,7 +2344,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-scavenger-hunt?u=76281980&t=14)** First, I'll import the example workflow in a test server application.
 >
-> **[0:19](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-scavenger-hunt?u=76281980&t=19)** I'll use the provided JWB file, which is Atlassian proprietary workflow format.
+> **[0:19](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-scavenger-hunt?u=76281980&t=19)** I'll use the provided JWB file, which is [[Atlassian]] proprietary workflow format.
 >
 > **[0:25](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-scavenger-hunt?u=76281980&t=25)** Here are the issues I detected.
 >
@@ -2425,7 +2386,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-scavenger-hunt?u=76281980&t=126)** My recommendation is to change the closed transition name to close.
 >
-> **[2:11](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-scavenger-hunt?u=76281980&t=131)** By default, Jira names global transitions with the same name as the incoming status name, but you can improve them.
+> **[2:11](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-scavenger-hunt?u=76281980&t=131)** By default, [[Jira]] names global transitions with the same name as the incoming status name, but you can improve them.
 >
 > **[2:19](https://www.linkedin.com/learning/jira-managing-custom-workflows/solution-workflow-scavenger-hunt?u=76281980&t=139)** Number seven, no resolution is collected or set.
 >
@@ -2515,7 +2476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3), [[Jira]] (2), application (1), [[Atlassian]] (1), data (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Atlassian]] (1)
 > **CLI Commands:** make (2), ls (1)
 > **Env Vars:** jwb (1), xml (1), jql (1)
 > **Tools:** jira (2)
@@ -2528,8 +2489,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources for Jira learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980)
+#### [Additional resources for Jira learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2539,15 +2499,15 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=8)** You should now be able to conduct a workflow interview and collect requirements, translate requirements into well-built custom workflows, utilize special features like transition screens, approvals, and properties, extend capabilities with automation and apps, and more.
 >
-> **[0:27](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=27)** Even if you're a workflow's expert, there's always more to learn, and Atlassian adds new features all the time.
+> **[0:27](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=27)** Even if you're a workflow's expert, there's always more to learn, and [[Atlassian]] adds new features all the time.
 >
-> **[0:34](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=34)** Check out the list of admin learning resources in the "9 Ways to Learn Jira Administration" article on my website.
+> **[0:34](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=34)** Check out the list of admin learning resources in the "9 Ways to Learn [[Jira]] Administration" article on my website.
 >
-> **[0:42](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=42)** Oh, and don't forget to download the course handouts from the Exercise Files area in LinkedIn Learning.
+> **[0:42](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=42)** Oh, and don't forget to download the course handouts from the Exercise Files area in [[LinkedIn]] Learning.
 >
 > **[0:48](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=48)** As a reminder, here's the special area of my website where I'll post corrections, updates, and new information related to this course.
 >
-> **[0:57](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=57)** And don't miss my other Jira and Confluence courses for users and admins right here on LinkedIn.
+> **[0:57](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=57)** And don't miss my other Jira and [[Confluence]] courses for users and admins right here on LinkedIn.
 >
 > **[1:05](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980&t=65)** I hope you've enjoyed this Jira Workflows course as much as I enjoyed creating it.
 >
@@ -2563,7 +2523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), [[LinkedIn]] (2), [[Automation]] (1), [[Atlassian]] (1), [[Confluence]] (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[LinkedIn]] (2), [[Atlassian]] (1), [[Confluence]] (1)
 > **Tools:** jira (5), confluence (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Best Practices:** don't forget (1)

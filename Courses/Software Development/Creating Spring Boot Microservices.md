@@ -121,18 +121,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a RESTful Spring Boot microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980)
+#### [Build a RESTful Spring Boot microservice](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=0)** - Would you like to venture into the world of Spring Boot microservices, but don't know where to start?
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=0)** - Would you like to venture into the world of [[Spring Boot]] [[Microservices]], but don't know where to start?
 >
 > **[0:05](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=5)** Boiling down the vast number of spring projects can be truly daunting, but it's easier than you think.
 >
-> **[0:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=12)** Together we will build Spring Boot Microservices by leveraging spring data and spring web modules.
+> **[0:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=12)** Together we will build Spring Boot Microservices by leveraging [[Spring Data]] and spring web modules.
 >
-> **[0:19](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=19)** Then we'll create a Spring Cloud API gateway with Spring Security.
+> **[0:19](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=19)** Then we'll create a Spring Cloud API gateway with [[Spring Security]].
 >
 > **[0:24](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=24)** And finally, we'll deploy them as Dockerized containers.
 >
@@ -144,25 +143,24 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=43)** Hi, I'm Mary Ellen Bowman.
 >
-> **[0:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=45)** I'm a senior Java developer, and I will take you through this learning journey.
+> **[0:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=45)** I'm a senior [[Java]] developer, and I will take you through this learning journey.
 >
 > **[0:49](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980&t=49)** We've got plenty to do, so let's get to work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Microservices]] (2), [[Spring Data]] (1), web (1), cloud (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Microservices]] (2), [[Spring Data]] (1), [[Spring Security]] (1), [[Java]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - would (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=0)** - Our work on this course is going to model a real-world project.
 >
-> **[0:04](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=4)** I am the architect and you will shadow me as a Java developer.
+> **[0:04](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=4)** I am the architect and you will shadow me as a [[Java]] developer.
 >
 > **[0:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=9)** Our company has been tasked to reengineer a website for our customer, Explore California.
 >
@@ -172,11 +170,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=22)** I've already met with the business analyst.
 >
-> **[0:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=25)** We are going to create several Spring Boot microservices.
+> **[0:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=25)** We are going to create several [[Spring Boot]] [[Microservices]].
 >
 > **[0:29](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=29)** It's okay if you have not had any Spring experience.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=33)** We'll walk through the basics of Spring Dependency Injection, then start creating Spring Boot microservices with Spring Data, MVC, Spring Cloud Gateway, and Spring Security.
+> **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=33)** We'll walk through the basics of Spring [[Dependency Injection]], then start creating Spring Boot microservices with [[Spring Data]], MVC, Spring Cloud Gateway, and [[Spring Security]].
 >
 > **[0:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/what-you-should-know?u=76281980&t=45)** Don't worry, we are not going to get hung up on the details of every module.
 >
@@ -188,16 +186,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Microservices]] (2), [[Java]] (1), business (1), [[Dependency Injection]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Microservices]] (2), [[Java]] (1), [[Dependency Injection]] (1), [[Spring Data]] (1)
 > **Env Vars:** mvc (1)
 > **Speakers:** - our (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] Let's take a moment to show you how to use the source code files, and how to run the project in GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] Let's take a moment to show you how to use the source code files, and how to run the project in [[GitHub]] [[Codespaces]].
 >
 > **[0:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=8)** We'll be using a GitHub repository for the project that'll go along with each video.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=158)** So I have already set up this Codespaces with a few things for you.
 >
-> **[2:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=165)** I have Java 21, there is Maven set up, there is Git set up, and then I have extensions, the Docker extension, and this is the extension for source control.
+> **[2:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=165)** I have [[Java]] 21, there is Maven set up, there is [[Git]] set up, and then I have extensions, the Docker extension, and this is the extension for source control.
 >
 > **[3:01](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=181)** And then running in the IDE and then seeing other extensions can be added if you wanted to.
 >
@@ -267,13 +264,13 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=259)** So if you look down and see Java Ready is not there, it just says Lightweight, then click that to make sure it's Java Ready, so you are equipped to build everything you want.
 >
-> **[4:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=268)** And then this is the Spring Boot Dashboard, which I use from time to time.
+> **[4:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=268)** And then this is the [[Spring Boot]] Dashboard, which I use from time to time.
 >
 > **[4:35](https://www.linkedin.com/learning/creating-spring-boot-microservices/how-to-use-the-exercise-files?u=76281980&t=275)** Sometimes you have to close the browser for the codespace and restart the codespace to get that to to show up.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (10), [[GitHub]] (7), [[Java]] (7), next (1), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (10), [[GitHub]] (7), [[Java]] (7), [[Git]] (1), [[Spring Boot]] (1)
 > **Tools:** github (7), terminal (2), visual studio (1)
 > **CLI Commands:** make (4), git (1), docker (1), find (1)
 > **Prerequisites:** set up (4), getting started (1)
@@ -287,14 +284,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inversion of control pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980)
+#### [Inversion of control pattern](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=0)** - [Instructor] Before we get into creating Spring Boot microservices, let me give you a brief introduction to the basic core Spring framework.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=0)** - [Instructor] Before we get into creating [[Spring Boot]] [[Microservices]], let me give you a brief introduction to the basic core [[Spring Framework]].
 >
-> **[0:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=9)** Spring Core is an open-source framework providing dependency injection of Spring beans.
+> **[0:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=9)** Spring Core is an open-source framework providing [[Dependency Injection]] of Spring beans.
 >
 > **[0:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=16)** This is via the Spring application context.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=28)** DI separates usage of objects from dependence.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=33)** Dependency creation is managed outside the class which results in flexibility, maintainability, and ease of unit testing.
+> **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=33)** Dependency creation is managed outside the class which results in flexibility, maintainability, and ease of [[Unit Testing]].
 >
 > **[0:43](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=43)** An inversion-of-control framework or IOC maintains the lifecycle of an object and requires dependency injection.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=58)** The Spring application context or Spring container is the IOC framework of Spring.
 >
-> **[1:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=67)** A Spring bean is a Java object managed by the Spring container.
+> **[1:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=67)** A Spring bean is a [[Java]] object managed by the Spring container.
 >
 > **[1:13](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=73)** Default scope is singleton, but there are other scopes which we will not be using, some of which are prototype, request, and session.
 >
@@ -320,11 +316,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=86)** Originally, it was with XML, which you could still do today, but it's difficult to keep in sync with the Java code.
 >
-> **[1:34](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=94)** The better way is to put our metadata right into the Java code, either by annotating methods or annotating classes.
+> **[1:34](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=94)** The better way is to put our [[Metadata]] right into the Java code, either by annotating methods or annotating classes.
 >
 > **[1:43](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=103)** If you go to the [spring.io/projects](https://spring.io/projects) website, you will be presented with many, many modules.
 >
-> **[1:50](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=110)** For our needs, the modules we will use for our microservices will be the Spring Framework, Spring Boot, Spring Data, Spring MVC, and Spring Cloud.
+> **[1:50](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=110)** For our needs, the modules we will use for our microservices will be the Spring Framework, Spring Boot, [[Spring Data]], Spring MVC, and Spring Cloud.
 >
 > **[2:01](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980&t=121)** So I have a demonstration of a project without Spring dependency injection, and then the various ways we can leverage it to improve the code.
 >
@@ -378,7 +374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Java]] (6), [[Dependency Injection]] (5), management (3), [[Spring Boot]] (2)
+> **Frameworks & Libraries:** [[Java]] (6), [[Dependency Injection]] (5), [[Spring Boot]] (2), [[Microservices]] (2), [[Spring Framework]] (2)
 > **Env Vars:** ioc (2), xml (1), mvc (1), pom (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is an  (2), is a  (1)
@@ -387,18 +383,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** configure (1)
 
-#### Spring ApplicationContext and Spring Beans
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980)
+#### [Spring ApplicationContext and Spring Beans](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=0)** - [Instructor] So let's see what we can do by adding Spring Framework, Spring context to our POM XML file.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=0)** - [Instructor] So let's see what we can do by adding [[Spring Framework]], Spring context to our POM XML file.
 >
 > **[0:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=8)** So here we've added the dependency of Spring Framework, and now in our application, we're actually going to have this new line here that instantiates a application context.
 >
 > **[0:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=21)** And here, we're passing a class SpringBeans.class.
 >
-> **[0:27](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=27)** And this is where we're going to have our configuration of our dependency injection.
+> **[0:27](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=27)** And this is where we're going to have our configuration of our [[Dependency Injection]].
 >
 > **[0:30](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=30)** So here's our SpringBeans class and we have an @ annotation of configuration of this class.
 >
@@ -416,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=77)** And then from that context, I say get bean and I want the TravelAgentService class.
 >
-> **[1:23](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=83)** It'll have within the Spring Boot container that object.
+> **[1:23](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=83)** It'll have within the [[Spring Boot]] container that object.
 >
 > **[1:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-application-context-and-spring-beans?u=76281980&t=88)** It'll look it up and pass that TravelAgentService.
 >
@@ -448,18 +443,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Spring Framework]] (2), next (2), [[Dependency Injection]] (1), [[Spring Boot]] (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (2), [[Dependency Injection]] (1), [[Spring Boot]] (1)
 > **Code Identifiers:** tourrepository (6), tourmanagementservice (2), iskidfriendly (1)
 > **Env Vars:** pom (1), xml (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spring autowiring annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-autowiring-annotations?u=76281980)
+#### [Spring autowiring annotations](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-autowiring-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-autowiring-annotations?u=76281980&t=0)** - [Instructor] Another way that we can use dependency injection and configure it is with autowiring.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-autowiring-annotations?u=76281980&t=0)** - [Instructor] Another way that we can use [[Dependency Injection]] and configure it is with autowiring.
 >
 > **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-autowiring-annotations?u=76281980&t=7)** And this is what we're going to do now is I'm going to edit the TourRepository, and this is on the 01_03b branch.
 >
@@ -509,14 +503,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Dependency Injection]] (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (1)
 > **Code Identifiers:** getpackagename (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge?u=76281980&t=7)** Let's see if you can do this, and I'm sure you can.
 >
-> **[0:10](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge?u=76281980&t=10)** So I want you to invoke the TourManagementService.createTour within the application Java class.
+> **[0:10](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge?u=76281980&t=10)** So I want you to invoke the TourManagementService.createTour within the application [[Java]] class.
 >
 > **[0:19](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge?u=76281980&t=19)** So pull the tour management service object out of the container, create a new tour, and have the tour called Zoo Tour with the price 100 and the kid friendly is true.
 >
@@ -536,12 +529,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** createtour (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution?u=76281980&t=52)** So if you look at the target folder, we've bundled the tour-service, as well as any dependencies, into one jar so we can just do it on one command line.
 >
-> **[1:03](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution?u=76281980&t=63)** So java -jar target, tour-service,
+> **[1:03](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution?u=76281980&t=63)** So [[Java]] -jar target, tour-service,
 >
 > **[1:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution?u=76281980&t=69)** - jar-with-dependencies.jar.
 >
@@ -588,20 +580,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Spring Initializr
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980)
+#### [Introduction to Spring Initializr](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=0)** - [Instructor] In this chapter, we will see how to create a Spring Boot microservice with Spring Initializr.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=0)** - [Instructor] In this chapter, we will see how to create a [[Spring Boot]] microservice with Spring Initializr.
 >
-> **[0:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=6)** To build a Java application, the first step is to create a Java project.
+> **[0:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=6)** To build a [[Java]] application, the first step is to create a Java project.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=11)** Most Java projects rely on third-party dependencies, and these dependencies usually have dependencies of their own.
 >
 > **[0:18](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=18)** On top of that, each version of the dependency rely on other versions.
 >
-> **[0:23](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=23)** To avoid JAR hell, we use dependency management systems like Maven or Gradle, but even Maven and Gradle have versioning issues between individual JARs that can be a nuisance.
+> **[0:23](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=23)** To avoid JAR hell, we use [[Dependency Management]] systems like Maven or [[Gradle]], but even Maven and Gradle have versioning issues between individual JARs that can be a nuisance.
 >
 > **[0:38](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=38)** Spring Boot recognizes this and creates the notion of a Spring Boot starter which bundles several dependencies into a grouping that's easier to manage.
 >
@@ -617,7 +608,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=89)** For our first Spring Boot microservice, we will employ five Spring Boot starters.
 >
-> **[1:35](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=95)** Web, which includes Tomcat and Spring MVC, REST Repositories to expose Spring Data repositories over REST, Spring Data JPA to form our object to relational mapping, Lombok, which is a handy library to generate our getters and setters and loggers, and H2, an in-memory database driver.
+> **[1:35](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=95)** Web, which includes Tomcat and Spring MVC, [[Representational State Transfer (REST)|REST]] Repositories to expose [[Spring Data]] repositories over REST, Spring Data JPA to form our object to relational mapping, Lombok, which is a handy library to generate our getters and setters and loggers, and H2, an in-memory database driver.
 >
 > **[1:59](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980&t=119)** We will start coding our first Spring Boot application with H2 and then later move on to a real persistent relational database.
 >
@@ -625,7 +616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (8), [[Java]] (5), [[Gradle]] (4), application (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (8), [[Java]] (5), [[Gradle]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Spring Data]] (2)
 > **Env Vars:** rest (2), jar (1), mvc (1), jpa (1)
 > **File Paths:** pom.xml (1), build.gradle (1)
 > **Definitions:** is a  (2)
@@ -633,8 +624,7 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980)
+#### [Project setup](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,9 +638,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=22)** And here's the Spring Initializr UI.
 >
-> **[0:26](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=26)** The language we'll select is Java.
+> **[0:26](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=26)** The language we'll select is [[Java]].
 >
-> **[0:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=28)** Spring Boot version is 3.2.5.
+> **[0:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=28)** [[Spring Boot]] version is 3.2.5.
 >
 > **[0:31](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=31)** And we're going to use Maven.
 >
@@ -670,9 +660,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=69)** If we click this, we can see some of the, lots of dependencies here, but I already know what I want.
 >
-> **[1:13](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=73)** So I'm just going to start typing web, Spring Web, also Rest Repositories,
+> **[1:13](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=73)** So I'm just going to start typing web, Spring Web, also [[Representational State Transfer (REST)|Rest]] Repositories,
 >
-> **[1:29](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=89)** Spring Data JPA, Lombok, and our database driver we'll need is H2.
+> **[1:29](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=89)** [[Spring Data]] JPA, Lombok, and our database driver we'll need is H2.
 >
 > **[1:47](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=107)** And we've got, we want to package into a Jar, and the version of Java we're using is 21.
 >
@@ -702,7 +692,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=200)** So if we close that and if we do GENERATE, it will generate a Zip file.
 >
-> **[3:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=205)** And what I have in back in our Codespaces, if I change to branch O2_O2e, there is the code generated from Spring Initializr.
+> **[3:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=205)** And what I have in back in our [[Codespaces]], if I change to branch O2_O2e, there is the code generated from Spring Initializr.
 >
 > **[3:39](https://www.linkedin.com/learning/creating-spring-boot-microservices/project-setup?u=76281980&t=219)** One thing I did want to add that I changed here as well is that the version of this, I changed it from the default, which was a snapshot version, it's going to be 3.0.0.
 >
@@ -710,7 +700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), web (5), application (4), [[Spring Boot]] (3), database (2)
+> **Frameworks & Libraries:** [[Java]] (6), [[Spring Boot]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Spring Data]] (1), [[Codespaces]] (1)
 > **Env Vars:** pom (3), jpa (1), explore (1), generate (1)
 > **Versions:** 3.2.5 (1), 3.0.0 (1)
 > **Definitions:** is a  (2)
@@ -719,8 +709,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Exercise Files:** zip file (1)
 
-#### Build, deploy, and launch the microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980)
+#### [Build, deploy, and launch the microservice](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +753,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980&t=84)** And what we see here is that our application is now accepting requests.
 >
-> **[1:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980&t=93)** And what it prints for this get command of this localhost 8080 is a JSON message.
+> **[1:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980&t=93)** And what it prints for this get command of this localhost 8080 is a [[JSON]] message.
 >
 > **[1:41](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980&t=101)** And don't worry about the meaning of this message.
 >
@@ -778,13 +767,13 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980&t=120)** And then this is the beauty of a microservice.
 >
-> **[2:02](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980&t=122)** It's completely self-contained with a runnable single command, and this makes it a favorite of the DevOps and cloud computing crowds.
+> **[2:02](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980&t=122)** It's completely self-contained with a runnable single command, and this makes it a favorite of the [[DevOps]] and [[Cloud Computing]] crowds.
 >
-> **[2:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980&t=131)** Without implementing any explore cali solutions, we could see that the Spring Boot project is already equipped with the basic plumbing required by most web applications.
+> **[2:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-deploy-and-launch-the-microservice?u=76281980&t=131)** Without implementing any explore cali solutions, we could see that the [[Spring Boot]] project is already equipped with the basic plumbing required by most web applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (3), [[JSON]] (1), hit (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[DevOps]] (1), [[Cloud Computing]] (1), [[Spring Boot]] (1)
 > **Env Vars:** ide (1), jpa (1), jvm (1), json (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1), curl (1)
@@ -793,8 +782,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add the Actuator dependency
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-add-actuator-dependency?u=76281980)
+#### [Challenge: Add the Actuator dependency](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-add-actuator-dependency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,7 +792,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-add-actuator-dependency?u=76281980&t=15)** So how you would start to do this is go into Spring Initializr and within, now let me get back here, so within the "add dependencies," I will spell it out for you and actually is written right there, Actuator, as a suggestion.
 >
-> **[0:31](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-add-actuator-dependency?u=76281980&t=31)** Spring Boot Actuator.
+> **[0:31](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-add-actuator-dependency?u=76281980&t=31)** [[Spring Boot]] Actuator.
 >
 > **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-add-actuator-dependency?u=76281980&t=33)** So, I want you to select that.
 >
@@ -814,15 +802,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (1), application (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (1)
 > **File Paths:** pom.xml (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add the Actuator dependency
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-add-actuator-dependency?u=76281980)
+#### [Solution: Add the Actuator dependency](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-add-actuator-dependency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -830,7 +817,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-add-actuator-dependency?u=76281980&t=6)** I'll show you what we had to do.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-add-actuator-dependency?u=76281980&t=8)** So select Spring Boot Actuator, and then go to EXPLORE, into the pom.xml, and let's find it, here's the dependency actuator, you just copy that and paste it.
+> **[0:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-add-actuator-dependency?u=76281980&t=8)** So select [[Spring Boot]] Actuator, and then go to EXPLORE, into the pom.xml, and let's find it, here's the dependency actuator, you just copy that and paste it.
 >
 > **[0:23](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-add-actuator-dependency?u=76281980&t=23)** And here in the 02_05 branch, we see the dependency added spring-boot-starter-actuator.
 >
@@ -868,8 +855,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The domain model
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-domain-model?u=76281980)
+#### [The domain model](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-domain-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,20 +891,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2)
 > **URLs:** [explorecalifornia.org](https://explorecalifornia.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### The persistence entities
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-perstence-entities?u=76281980)
+#### [The persistence entities](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-perstence-entities?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-perstence-entities?u=76281980&t=0)** - [Instructor] Now that we've established the business classes for the domain model, let's see the persistence entities.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-perstence-entities?u=76281980&t=7)** We will use Jakarta Persistence Layer, formally Java Persistence API for the object to relational mapping.
+> **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-perstence-entities?u=76281980&t=7)** We will use Jakarta Persistence Layer, formally [[Java]] Persistence API for the object to relational mapping.
 >
 > **[0:15](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-perstence-entities?u=76281980&t=15)** Now I'm on branch 303_02, and I've created this folder called model.
 >
@@ -928,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-perstence-entities?u=76281980&t=36)** So this is a class called Tour.
 >
-> **[0:37](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-perstence-entities?u=76281980&t=37)** If the Jakarta Persistence API is new to you, or you do not recognize the @Entity or @ID annotations, I suggest you hop over to the Java Persistence with JPA course in the LinkedIn Learning Library.
+> **[0:37](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-perstence-entities?u=76281980&t=37)** If the Jakarta Persistence API is new to you, or you do not recognize the @Entity or @ID annotations, I suggest you hop over to the Java Persistence with JPA course in the [[LinkedIn]] Learning Library.
 >
 > **[0:53](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-perstence-entities?u=76281980&t=53)** It's pretty good.
 >
@@ -956,25 +940,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), api (2), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[LinkedIn]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** api (2), jpa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Declare JPA repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/declare-jpa-repositories?u=76281980)
+#### [Declare JPA repositories](https://www.linkedin.com/learning/creating-spring-boot-microservices/declare-jpa-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/declare-jpa-repositories?u=76281980&t=0)** - [Instructor] Using just JPA, the next step would be creating services which invoke the entity manager to create read, update, and delete entity objects.
 >
-> **[0:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/declare-jpa-repositories?u=76281980&t=11)** Instead, we are going to use Spring Data JPA framework and we'll see how Spring Data JPA gives us better functionality while writing less code.
+> **[0:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/declare-jpa-repositories?u=76281980&t=11)** Instead, we are going to use [[Spring Data]] JPA framework and we'll see how Spring Data JPA gives us better functionality while writing less code.
 >
 > **[0:23](https://www.linkedin.com/learning/creating-spring-boot-microservices/declare-jpa-repositories?u=76281980&t=23)** In the last chapter, we chose to include the Spring Data repository dependency, Spring Data abstracts away from any particular data source by following a repository pattern.
 >
 > **[0:35](https://www.linkedin.com/learning/creating-spring-boot-microservices/declare-jpa-repositories?u=76281980&t=35)** Now we're actually going to see the implementation of that pattern.
 >
-> **[0:39](https://www.linkedin.com/learning/creating-spring-boot-microservices/declare-jpa-repositories?u=76281980&t=39)** Spring Data starts with a Java repository interface with two bounded type parameters.
+> **[0:39](https://www.linkedin.com/learning/creating-spring-boot-microservices/declare-jpa-repositories?u=76281980&t=39)** Spring Data starts with a [[Java]] repository interface with two bounded type parameters.
 >
 > **[0:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/declare-jpa-repositories?u=76281980&t=45)** The first type, T, is the entity class name, and the second parameter ID is the type of the unique ID of the entity.
 >
@@ -1036,7 +1019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (6), data (3), [[Java]] (2), next (1), database (1)
+> **Frameworks & Libraries:** [[Spring Data]] (6), [[Java]] (2)
 > **Env Vars:** jpa (6), ide (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** repository.java (1)
@@ -1044,8 +1027,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spring Data JPA repository dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-jpa-repository-dependency-injection?u=76281980)
+#### [Spring Data JPA repository dependency injection](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-jpa-repository-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1055,7 +1037,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-jpa-repository-dependency-injection?u=76281980&t=16)** So TourPackageService, I've annotated this as a Spring bean with the @ annotation and remember auto wiring, it will auto wire the tour package repository 'cause it will recognize that the tour package repository automatically is a Spring bean.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-jpa-repository-dependency-injection?u=76281980&t=33)** You don't need to annotate it with repository, it's known by Spring Data JPA.
+> **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-jpa-repository-dependency-injection?u=76281980&t=33)** You don't need to annotate it with repository, it's known by [[Spring Data]] JPA.
 >
 > **[0:38](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-jpa-repository-dependency-injection?u=76281980&t=38)** It's going to put it into the constructor, and now let's populate this createTourPackage method to actually invoke our tour package repository.
 >
@@ -1101,7 +1083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (3), business (2), database (1), next (1)
+> **Frameworks & Libraries:** [[Spring Data]] (3)
 > **Code Identifiers:** tourpackagerepository (5), findbyid (3), orelse (2), tourpackagename (2), createtourpackage (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1109,8 +1091,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Invoking the repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980)
+#### [Invoking the repositories](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1118,7 +1099,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=5)** So we are in the application main class and we need to load the database with the collection of predefined tours and tour packages.
 >
-> **[0:14](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=14)** The Explore California Travel Agency provided us with a .JSON file that represents all the possible tours and it's in the main explorer of ExploreCalifornia.
+> **[0:14](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=14)** The Explore California Travel Agency provided us with a .[[JSON]] file that represents all the possible tours and it's in the main explorer of ExploreCalifornia.
 >
 > **[0:26](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=26)** There it is right there.
 >
@@ -1128,7 +1109,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=48)** Our Explorecali web application uses an in-memory database called H2.
 >
-> **[0:54](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=54)** Spring Boot connects to H2 with the default when the dependency is provided.
+> **[0:54](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=54)** [[Spring Boot]] connects to H2 with the default when the dependency is provided.
 >
 > **[1:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=60)** We need to load the data each time the application starts.
 >
@@ -1180,7 +1161,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=228)** So I'm going to run this in debug and I have a break point in the main method and in the run method.
 >
-> **[3:56](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=236)** And I find it easier to use the Spring Boot extension in Codespaces to run in debug.
+> **[3:56](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=236)** And I find it easier to use the Spring Boot extension in [[Codespaces]] to run in debug.
 >
 > **[4:05](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=245)** So I go up here and here Codespaces has explorecali.
 >
@@ -1274,15 +1255,15 @@ created: 2026-05-02
 >
 > **[7:14](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=434)** Spring implements the method for us under the covers to follow the rules for declarating the methods.
 >
-> **[7:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=440)** Because we didn't add any SQL at all.
+> **[7:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=440)** Because we didn't add any [[SQL]] at all.
 >
 > **[7:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=441)** We just declared a method on an interface.
 >
-> **[7:26](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=446)** Let's find out what the rules that we have to follow to create a Spring Data query method.
+> **[7:26](https://www.linkedin.com/learning/creating-spring-boot-microservices/invoking-the-repositories?u=76281980&t=446)** Let's find out what the rules that we have to follow to create a [[Spring Data]] query method.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Spring Boot]] (6), [[JSON]] (4), web (4), database (3)
+> **Frameworks & Libraries:** [[Spring Boot]] (6), [[JSON]] (4), [[Codespaces]] (2), [[SQL]] (1), [[Spring Data]] (1)
 > **Code Identifiers:** createtour (3), createtourallpackages (2), findbyname (2), createtoursfromfiles (1), tourservice (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** json (4), sql (1)
@@ -1290,16 +1271,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Spring Data query methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980)
+#### [Introduction to Spring Data query methods](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980&t=0)** - [Instructor] For general purpose database lookups, the built-in find all and find one repository methods are sufficient.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980&t=7)** But what do we do if we want to look up all easy tours or all tours less than $800 or both, do we have to create ugly SQL scripts?
+> **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980&t=7)** But what do we do if we want to look up all easy tours or all tours less than $800 or both, do we have to create ugly [[SQL]] scripts?
 >
-> **[0:19](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980&t=19)** No, spring data property expressions to the rescue.
+> **[0:19](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980&t=19)** No, [[Spring Data]] property expressions to the rescue.
 >
 > **[0:24](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980&t=24)** We just de declare methods for our JPA repository interface, then via bean utils reflections and generics, spring data implements the method under the covers for us.
 >
@@ -1349,11 +1329,11 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980&t=165)** And on this page, you can see all the different possible query methods and operators and expressions that you can add.
 >
-> **[2:53](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980&t=173)** And in the LinkedIn Learning library, there is a full class on spring data with two whole chapters devoted to spring data query methods.
+> **[2:53](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-data-query-methods?u=76281980&t=173)** And in the [[LinkedIn]] Learning library, there is a full class on spring data with two whole chapters devoted to spring data query methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (8), database (1), [[SQL]] (1), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Spring Data]] (8), [[SQL]] (1), [[LinkedIn]] (1)
 > **Code Identifiers:** findby (1), findbyregion (1), findbytitle (1), countby (1), findbyregionanddifficulty (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (2), such as (1)
@@ -1361,8 +1341,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a JPQL query method
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-create-a-jpql-query-method?u=76281980)
+#### [Challenge: Create a JPQL query method](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-create-a-jpql-query-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1381,8 +1360,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a JPQL query method
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-a-jpql-query-method?u=76281980)
+#### [Solution: Create a JPQL query method](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-a-jpql-query-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1392,7 +1370,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-a-jpql-query-method?u=76281980&t=16)** So I'm going to add a new method called List Tour findByDifficulty.
 >
-> **[0:27](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-a-jpql-query-method?u=76281980&t=27)** And this is kind of nice because I've installed the Spring Boot extension, it auto-populates with IntelliSense the attribute that is allowed.
+> **[0:27](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-a-jpql-query-method?u=76281980&t=27)** And this is kind of nice because I've installed the [[Spring Boot]] extension, it auto-populates with IntelliSense the attribute that is allowed.
 >
 > **[0:39](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-a-jpql-query-method?u=76281980&t=39)** But if you don't have that, that's okay.
 >
@@ -1428,7 +1406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (2), web (2), next (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2)
 > **Code Identifiers:** findbydifficulty (4), findbytourpackage (1), tourrepository (1), findbytourpackagecode (1)
 > **CLI Commands:** find (1)
 > **Ports:** port 8080 (1)
@@ -1440,12 +1418,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create APIs with Spring Data REST
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980)
+#### [Create APIs with Spring Data REST](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980&t=0)** - [Narrator] In this chapter, we will learn about Spring Data REST, which is a service for creating hypermedia-driven RESTful APIs.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980&t=0)** - [Narrator] In this chapter, we will learn about [[Spring Data]] [[Representational State Transfer (REST)|REST]], which is a service for creating hypermedia-driven RESTful APIs.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980&t=11)** What is a hypermedia-driven RESTful API?
 >
@@ -1467,7 +1444,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980&t=62)** Remember a while back when we tested to see if a microservice was running properly?
 >
-> **[1:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980&t=68)** We invoked the localhost:8080/profile endpoint, and it generated this JSON response.
+> **[1:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980&t=68)** We invoked the localhost:8080/profile endpoint, and it generated this [[JSON]] response.
 >
 > **[1:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980&t=76)** This is an example of that out of the box support.
 >
@@ -1477,7 +1454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[Representational State Transfer (REST)|Rest]] (5), [[Spring Data]] (4), application (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[Spring Data]] (4), [[JSON]] (1)
 > **Env Vars:** api (6), rest (5), hateoas (1), http (1), json (1)
 > **Definitions:** is a  (2), is an  (2)
 > **URLs:** [localhost:8080](https://localhost:8080) (2)
@@ -1485,12 +1462,11 @@ created: 2026-05-02
 > **Documentation:** specification (1), the documentation (1)
 > **Speakers:** - [narrator] (1)
 
-#### Mapping API endpoints to repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980)
+#### [Mapping API endpoints to repositories](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=0)** - [Instructor] So what does Spring Data REST actually do for us?
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=0)** - [Instructor] So what does [[Spring Data]] [[Representational State Transfer (REST)|REST]] actually do for us?
 >
 > **[0:03](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=3)** Similar to Spring Data JPA, which extrapolates the underlying backend data store services from a CRUD repository, Spring Data REST exposes the same repositories as web services with no extra coding or configuration.
 >
@@ -1514,7 +1490,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=86)** HTTP POST creates entities.
 >
-> **[1:29](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=89)** The JSON request body maps to the save method.
+> **[1:29](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=89)** The [[JSON]] request body maps to the save method.
 >
 > **[1:35](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=95)** HTTP PUT and PATCH modifies an existing entity.
 >
@@ -1528,7 +1504,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=124)** The response body returns hypermedia-enabled JSON content.
 >
-> **[2:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=128)** The relationships, even if the JPA entity is a fetch-type EAGER, contains the endpoint of the relationship.
+> **[2:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=128)** The relationships, even if the JPA entity is a [[Fetch]]-type EAGER, contains the endpoint of the relationship.
 >
 > **[2:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/mapping-api-endpoints-to-repositories?u=76281980&t=136)** So the tourPackage attribute is actually a link to fetch the tourPackage details.
 >
@@ -1542,7 +1518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (8), [[Representational State Transfer (REST)|Rest]] (6), application (2), [[JSON]] (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Spring Data]] (8), [[Representational State Transfer (REST)|Rest]] (6), [[JSON]] (2), [[Fetch]] (2)
 > **Env Vars:** http (7), rest (6), jpa (3), put (3), patch (3)
 > **API Endpoints:** delete  (2), get  (2), put  (2), patch  (2), post  (1)
 > **Code Identifiers:** tourpackage (2), findbyid (1), tourrepository (1), findall (1)
@@ -1550,12 +1526,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Override default behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/override-default-behavior?u=76281980)
+#### [Override default behavior](https://www.linkedin.com/learning/creating-spring-boot-microservices/override-default-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/override-default-behavior?u=76281980&t=0)** - [Instructor] Now let's look at ways to override the default Spring Data REST behavior.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/override-default-behavior?u=76281980&t=0)** - [Instructor] Now let's look at ways to override the default [[Spring Data]] [[Representational State Transfer (REST)|REST]] behavior.
 >
 > **[0:05](https://www.linkedin.com/learning/creating-spring-boot-microservices/override-default-behavior?u=76281980&t=5)** How about the endpoint name?
 >
@@ -1581,8 +1556,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Swagger UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980)
+#### [Swagger UI](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1608,7 +1582,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=52)** Swagger is a tool that implements the openapi specification.
 >
-> **[0:57](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=57)** springdoc-openapi is a library that includes Swagger to dynamically generate Spring Boot API documentation.
+> **[0:57](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=57)** springdoc-openapi is a library that includes Swagger to dynamically generate [[Spring Boot]] API documentation.
 >
 > **[1:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=67)** Since the beginning of this chapter, I've already added to the library in the pom.xml, the dependency for openapi, and it is this springdoc-openapi-starter-webmvc-ui.
 >
@@ -1620,9 +1594,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=92)** First, make sure that it's built.
 >
-> **[1:37](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=97)** So now it's built with this new dependency, and I'm going to invoke it at the command line with just the regular Java command.
+> **[1:37](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=97)** So now it's built with this new dependency, and I'm going to invoke it at the command line with just the regular [[Java]] command.
 >
-> **[1:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=105)** So it's going to start up, and whenever it's ready to accept requests within Codespaces, I'm going to get this little popup that says if I want to open this in a browser, if you're just using the GitHub repositories and running locally, the endpoint on the browser you would use is just a local host, calling 8080.
+> **[1:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=105)** So it's going to start up, and whenever it's ready to accept requests within [[Codespaces]], I'm going to get this little popup that says if I want to open this in a browser, if you're just using the [[GitHub]] repositories and running locally, the endpoint on the browser you would use is just a local host, calling 8080.
 >
 > **[2:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=127)** But in Codespaces, it automatically generates for this virtual machine an endpoint that's exposed publicly.
 >
@@ -1632,7 +1606,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=159)** So now let's go to Swagger.
 >
-> **[2:41](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=161)** So I'm going to add to the endpoint swagger-ui/index.html.
+> **[2:41](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=161)** So I'm going to add to the endpoint swagger-ui/index.[[HTML]].
 >
 > **[2:48](https://www.linkedin.com/learning/creating-spring-boot-microservices/swagger-ui?u=76281980&t=168)** And here is a new webpage that this is invoked on our microservice, and it is showing all of the public endpoints that you can invoke on our microservice.
 >
@@ -1686,7 +1660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Spring Boot]] (2), [[Codespaces]] (2), api (1), application (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Codespaces]] (2), [[Java]] (1), [[GitHub]] (1), [[HTML]] (1)
 > **Tools:** command line (2), postman (1), intellij (1), visual studio (1), github (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** http (2), api (1), mvc (1)
@@ -1695,14 +1669,13 @@ created: 2026-05-02
 > **File Paths:** pom.xml (1), swagger-ui/index.html (1)
 > **CLI Commands:** curl (1), make (1)
 
-#### Challenge: Modify the URL repository keyword
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-modify-url-repository-keyword?u=76281980)
+#### [Challenge: Modify the URL repository keyword](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-modify-url-repository-keyword?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-modify-url-repository-keyword?u=76281980&t=0)** - [Instructor] So, I have another challenge for you.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-modify-url-repository-keyword?u=76281980&t=8)** As we can see, the tourPackages endpoint, I would like to rename it from tour and then uppercase P packages to just the word packages.
+> **[0:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-modify-url-repository-keyword?u=76281980&t=8)** As we can see, the tourPackages endpoint, I would like to rename it from tour and then uppercase P packages to just the [[Microsoft Word|word]] packages.
 >
 > **[0:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-modify-url-repository-keyword?u=76281980&t=21)** So I'd like to challenge you to see if you could do that, and here's a previous slide from another video and words of example of how we change the endpoint of StaffRepo from "staffs" to "staff."
 >
@@ -1710,14 +1683,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** tourpackages (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Modify the URL repository keyword
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-modify-url-repository-keyword?u=76281980)
+#### [Solution: Modify the URL repository keyword](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-modify-url-repository-keyword?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1725,7 +1697,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-modify-url-repository-keyword?u=76281980&t=21)** Let's build it and run it.
 >
-> **[0:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-modify-url-repository-keyword?u=76281980&t=28)** Open our endpoint in the browser, /swagger-ui/index.html,
+> **[0:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-modify-url-repository-keyword?u=76281980&t=28)** Open our endpoint in the browser, /swagger-ui/index.[[HTML]],
 >
 > **[0:37](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-modify-url-repository-keyword?u=76281980&t=37)** and there's our new endpoints.
 >
@@ -1747,8 +1719,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing the right framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980)
+#### [Choosing the right framework](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1737,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980&t=39)** It is responsible for directing requests to the appropriate services and then sending the response back to the client.
 >
-> **[0:47](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980&t=47)** In Spring Data REST, the framework itself mediates between web requests and the persistent domain model.
+> **[0:47](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980&t=47)** In [[Spring Data]] [[Representational State Transfer (REST)|REST]], the framework itself mediates between web requests and the persistent domain model.
 >
 > **[0:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980&t=55)** So what are the reasons you would choose to use and expose an API via the RestController?
 >
@@ -1792,9 +1763,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980&t=122)** To create new examples, annotate a method with @PostMapping.
 >
-> **[2:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980&t=128)** The @ request body annotation on the parameter is the result of the Spring MVC Data Binding and HTTP REST body to a Java object.
+> **[2:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980&t=128)** The @ request body annotation on the parameter is the result of the Spring MVC Data Binding and HTTP REST body to a [[Java]] object.
 >
-> **[2:18](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980&t=138)** By default, the request body is expected to be in JSON format.
+> **[2:18](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980&t=138)** By default, the request body is expected to be in [[JSON]] format.
 >
 > **[2:23](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980&t=143)** Normally HTTP status 200 is returned upon successful completion of the method.
 >
@@ -1822,13 +1793,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), data (4), [[Representational State Transfer (REST)|Rest]] (3), application (2), [[Spring Data]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Spring Data]] (2), [[Java]] (1), [[JSON]] (1)
 > **Env Vars:** http (5), mvc (4), rest (3), api (2), url (2)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Declaring a new RestController
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/declaring-a-new-restcontroller?u=76281980)
+#### [Declaring a new RestController](https://www.linkedin.com/learning/creating-spring-boot-microservices/declaring-a-new-restcontroller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1878,7 +1848,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/declaring-a-new-restcontroller?u=76281980&t=148)** Next, I have a tour rating repository in the repo folder.
 >
-> **[2:34](https://www.linkedin.com/learning/creating-spring-boot-microservices/declaring-a-new-restcontroller?u=76281980&t=154)** I do not want this repository to be exposed to spring data rest, so I set exported equals false in the repository rest resource annotation.
+> **[2:34](https://www.linkedin.com/learning/creating-spring-boot-microservices/declaring-a-new-restcontroller?u=76281980&t=154)** I do not want this repository to be exposed to [[Spring Data]] [[Representational State Transfer (REST)|rest]], so I set exported equals false in the repository rest resource annotation.
 >
 > **[2:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/declaring-a-new-restcontroller?u=76281980&t=165)** And then I have two methods for the tour rating repository.
 >
@@ -1948,15 +1918,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), business (3), database (3), [[Representational State Transfer (REST)|Rest]] (3), api (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Spring Data]] (1)
 > **CLI Commands:** find (6)
 > **Env Vars:** api (2), uri (1)
 > **Code Identifiers:** tour_rating (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### Create the RestController HTTP POST endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980)
+#### [Create the RestController HTTP POST endpoint](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1988,7 +1957,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=65)** And so, here we have the rating DTO and the attributes are score, a comment, and a customer ID and we don't have a tour ID here because that's going to be part of the parameter on the URL.
 >
-> **[1:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=80)** So we can apply Java validations here.
+> **[1:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=80)** So we can apply [[Java]] validations here.
 >
 > **[1:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=85)** The minimum score is zero, the maximum score is five.
 >
@@ -1996,7 +1965,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=96)** And those are the annotations that we've added for that validation.
 >
-> **[1:40](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=100)** So whenever this rating DTO is passed to the create method in the rest controller, we want Spring Boot validation to do the validation for us.
+> **[1:40](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=100)** So whenever this rating DTO is passed to the create method in the [[Representational State Transfer (REST)|rest]] controller, we want [[Spring Boot]] validation to do the validation for us.
 >
 > **[1:51](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=111)** So that is a new dependency that we're going to add in the pom.
 >
@@ -2024,7 +1993,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=183)** So let's import the request body.
 >
-> **[3:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=187)** Part of Java Spring framework and Jakarta validation and then the annotations to say this is H to DP post.
+> **[3:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=187)** Part of Java [[Spring Framework]] and Jakarta validation and then the annotations to say this is H to DP post.
 >
 > **[3:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-post-endpoint?u=76281980&t=200)** And then one last thing is once this is successfully created, we want to return HTP status created.
 >
@@ -2112,7 +2081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), data (2), web (2), [[Java]] (2), [[Spring Boot]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Java]] (2), [[Spring Boot]] (2), [[Spring Framework]] (1)
 > **Env Vars:** dto (6), htp (3), api (1), url (1)
 > **Code Identifiers:** ratingdto (2), groupid (1), getscore (1), getcomment (1)
 > **CLI Commands:** make (2)
@@ -2121,8 +2090,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll down (1)
 
-#### Create the RestController HTTP GET endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-get-endpoint?u=76281980)
+#### [Create the RestController HTTP GET endpoint](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-get-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2152,7 +2120,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-get-endpoint?u=76281980&t=48)** And now we want to calculate the average by setting the URL with a slash average at the end.
 >
-> **[0:56](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-get-endpoint?u=76281980&t=56)** And we will return with a packet of key value pairs of the word average, and then the actual average score.
+> **[0:56](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-get-endpoint?u=76281980&t=56)** And we will return with a packet of key value pairs of the [[Microsoft Word|word]] average, and then the actual average score.
 >
 > **[1:05](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-get-endpoint?u=76281980&t=65)** So now we're going to have the slash average at the end of the URL.
 >
@@ -2212,15 +2180,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), api (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Env Vars:** url (2), api (1), dto (1)
 > **Versions:** 2.3333 (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create the RestController HTTP PUT, PATCH, and DELETE endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-put-patch-and-delete-endpoints?u=76281980)
+#### [Create the RestController HTTP PUT, PATCH, and DELETE endpoints](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-restcontroller-http-put-patch-and-delete-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2292,14 +2259,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** updatewithput (1), tourratingservice (1), tourid (1), customerid (1)
 > **Env Vars:** http (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add a PATCH endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-add-a-patch-endpoint?u=76281980)
+#### [Challenge: Add a PATCH endpoint](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-add-a-patch-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2326,8 +2291,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add a PATCH endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-add-a-patch-endpoint?u=76281980)
+#### [Solution: Add a PATCH endpoint](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-add-a-patch-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2375,8 +2339,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Global exception handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/global-exception-handling?u=76281980)
+#### [Global exception handling](https://www.linkedin.com/learning/creating-spring-boot-microservices/global-exception-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2432,7 +2395,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/creating-spring-boot-microservices/global-exception-handling?u=76281980&t=137)** And then I build from the exception the status that's going to be returned, which is HTP not found and a message and return it by invoking this create response entity, which is a protected method within the response entity exception handler.
 >
-> **[2:32](https://www.linkedin.com/learning/creating-spring-boot-microservices/global-exception-handling?u=76281980&t=152)** Something else I did is I catch resource not found exception, which is thrown by the spring data rest framework.
+> **[2:32](https://www.linkedin.com/learning/creating-spring-boot-microservices/global-exception-handling?u=76281980&t=152)** Something else I did is I catch resource not found exception, which is thrown by the [[Spring Data]] [[Representational State Transfer (REST)|rest]] framework.
 >
 > **[2:44](https://www.linkedin.com/learning/creating-spring-boot-microservices/global-exception-handling?u=76281980&t=164)** So if you try to look up a endpoint that's minded by spring data rest our packages or our tours endpoint, you try to give an invalid there, it's going to throw the resource not found exception.
 >
@@ -2474,14 +2437,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (2), [[Representational State Transfer (REST)|Rest]] (2), application (1), web application (1), web (1)
+> **Frameworks & Libraries:** [[Spring Data]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** htp (1), hgp (1), yyyy (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transaction rollback
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/transaction-rollback?u=76281980)
+#### [Transaction rollback](https://www.linkedin.com/learning/creating-spring-boot-microservices/transaction-rollback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2557,15 +2519,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), business (1)
 > **Definitions:** is a  (1), is an  (1)
 > **API Endpoints:** get  (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a runtime logger
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980)
+#### [Add a runtime logger](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2573,7 +2533,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=8)** Logging is a valuable tool for monitoring, accessing, and debugging an application at runtime.
 >
-> **[0:15](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=15)** In Java, the important artifacts for logging are the logger, which is responsible for capturing events, appender, records the events, and layouts, which are responsible for the appearance of the data in the log entry.
+> **[0:15](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=15)** In [[Java]], the important artifacts for logging are the logger, which is responsible for capturing events, appender, records the events, and layouts, which are responsible for the appearance of the data in the log entry.
 >
 > **[0:29](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=29)** There are several logging frameworks available, like java.util.logging, Log4j, and Logback.
 >
@@ -2601,7 +2561,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=145)** Depending on the severity, you can do info, error, debug, trace.
 >
-> **[2:31](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=151)** So through the rest of this class, at the beginning, I put an info information.
+> **[2:31](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=151)** So through the [[Representational State Transfer (REST)|rest]] of this class, at the beginning, I put an info information.
 >
 > **[2:37](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=157)** So we just see overall activity that's going on in the system.
 >
@@ -2627,9 +2587,9 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=226)** And for appenders sent to a file, there could be extra parameters, such as where to store the file, and creating new files as the log grows.
 >
-> **[3:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=235)** Spring Boot provides a shortcut to this by applying the most commonly used configuration into an external resources file.
+> **[3:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=235)** [[Spring Boot]] provides a shortcut to this by applying the most commonly used configuration into an external resources file.
 >
-> **[4:03](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=243)** And that's this resource's full path here, to base.xml, actually maps out to, I'll bring up the GitHub reference, down in spring-boot, spring-boot-project, spring-boot, framework, logback, and it's basically includes this XML file to just set up default logging for you.
+> **[4:03](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=243)** And that's this resource's full path here, to base.xml, actually maps out to, I'll bring up the [[GitHub]] reference, down in spring-boot, spring-boot-project, spring-boot, framework, logback, and it's basically includes this XML file to just set up default logging for you.
 >
 > **[4:27](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-a-runtime-logger?u=76281980&t=267)** But you can look into more detailed ways to log.
 >
@@ -2671,7 +2631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Java]] (2), [[Debugging]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Spring Boot]] (1), [[GitHub]] (1)
 > **Code Identifiers:** tourid (2), logexception (2), verifytour (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** setup (1), set up (1), configure (1)
@@ -2680,14 +2640,13 @@ created: 2026-05-02
 > **Tools:** github (1), terminal (1)
 > **Analogies:** such as (2)
 
-#### JUnit, Mockito, and SpringBootTest
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980)
+#### [JUnit, Mockito, and SpringBootTest](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=0)** - [Instructor] So now we have some other comments from other developers on our team, and one is on TourRatingService.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=7)** "This class needs some JUnit test coverage.
+> **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=7)** "This class needs some [[JUnit]] test coverage.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=11)** Mock these calls to the repository method."
 >
@@ -2747,7 +2706,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=196)** So this is the call that's being mocked. Okay?
 >
-> **[3:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=201)** So we repeat that pattern on the rest of our methods.
+> **[3:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=201)** So we repeat that pattern on the [[Representational State Transfer (REST)|rest]] of our methods.
 >
 > **[3:24](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=204)** For look up all, we want to mock how the rating repository is going to say, okay, find all and look up all and assert that the response is the same, is a list of those.
 >
@@ -2783,7 +2742,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=321)** And then creating new, this is a captor.
 >
-> **[5:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=325)** This is a way to say fetch the actual values that were passed into a mock method.
+> **[5:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=325)** This is a way to say [[Fetch]] the actual values that were passed into a mock method.
 >
 > **[5:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=333)** So here, we set up a captor.
 >
@@ -2813,7 +2772,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=431)** We want to test the controller.
 >
-> **[7:13](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=433)** So the same type of principles are applied here, but what's different here is we have this annotation at spring boot test, with a web environment of random port.
+> **[7:13](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=433)** So the same type of principles are applied here, but what's different here is we have this annotation at [[Spring Boot]] test, with a web environment of random port.
 >
 > **[7:26](https://www.linkedin.com/learning/creating-spring-boot-microservices/junit-mockito-and-springboottest?u=76281980&t=446)** What the heck is going on here?
 >
@@ -2903,7 +2862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (4), [[Representational State Transfer (REST)|Rest]] (4), [[Spring Boot]] (4), hit (4), next (2)
+> **Frameworks & Libraries:** [[JUnit]] (4), [[Representational State Transfer (REST)|Rest]] (4), [[Spring Boot]] (4), [[Fetch]] (1)
 > **Definitions:** is a  (7), is called (2)
 > **Prerequisites:** set up (5), setup (3), install (1)
 > **Env Vars:** api (2), http (2), dto (2), jvm (1), url (1)
@@ -2912,8 +2871,7 @@ created: 2026-05-02
 > **File Paths:** palm.xml (1)
 > **Tools:** terminal (1)
 
-#### API documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/api-documentation?u=76281980)
+#### [API documentation](https://www.linkedin.com/learning/creating-spring-boot-microservices/api-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2941,7 +2899,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/creating-spring-boot-microservices/api-documentation?u=76281980&t=94)** So I just put a comment on each one of the public methods, get the average score for a tour, modify all tour rating attributes, modify some tour rating attributes, and delete, and give tours the same score.
 >
-> **[1:49](https://www.linkedin.com/learning/creating-spring-boot-microservices/api-documentation?u=76281980&t=109)** So that's great for our TourRatingController, but remember, in Spring Data REST we have those endpoints too, so I can document those as well.
+> **[1:49](https://www.linkedin.com/learning/creating-spring-boot-microservices/api-documentation?u=76281980&t=109)** So that's great for our TourRatingController, but remember, in [[Spring Data]] [[Representational State Transfer (REST)|REST]] we have those endpoints too, so I can document those as well.
 >
 > **[2:01](https://www.linkedin.com/learning/creating-spring-boot-microservices/api-documentation?u=76281980&t=121)** So for Tour Package Repository, I added the tag, this is a Tour Package.
 >
@@ -2975,7 +2933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), application (2), [[Spring Data]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Spring Data]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (4), dto (2), rest (1)
 > **CLI Commands:** find (1)
 > **Versions:** 3.0.0 (1)
@@ -2987,8 +2945,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Docker?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980)
+#### [Why Docker?](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2996,25 +2953,25 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=4)** Let's use a true data store that persists data after the application ends.
 >
-> **[0:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=9)** Our Explore Cali JPA Spring Boot Microservice uses an H2 database as our data store, and it's good for demos or setting up a test bench, but that's not how applications are in the real world.
+> **[0:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=9)** Our Explore Cali JPA [[Spring Boot]] Microservice uses an H2 database as our data store, and it's good for demos or setting up a test bench, but that's not how applications are in the real world.
 >
 > **[0:22](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=22)** You may be thinking, "Ugh, great.
 >
-> **[0:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=25)** To follow along on my local machine, I need to download, install, and configure my SQL, which will clutter my PC."
+> **[0:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=25)** To follow along on my local machine, I need to download, install, and configure my [[SQL]], which will clutter my PC."
 >
-> **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=33)** I could have taken this approach, but I thought I would instead incorporate a product that's a standard in software development for continuous integration and delivery, and that's Docker.
+> **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=33)** I could have taken this approach, but I thought I would instead incorporate a product that's a standard in [[Software Development]] for [[Continuous Integration (CI)|continuous integration]] and delivery, and that's Docker.
 >
 > **[0:43](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=43)** Docker is used to build, deploy, and run containers for software applications, and it's simply an application delivery technology.
 >
 > **[0:53](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=53)** In order to follow along with this course, you do need to install Docker locally.
 >
-> **[0:57](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=57)** if you are not running Codespaces.
+> **[0:57](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=57)** if you are not running [[Codespaces]].
 >
 > **[1:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=60)** A simple web search of install Docker will provide all the help you need.
 >
 > **[1:04](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=64)** However, our Codespace instance already has Docker installed.
 >
-> **[1:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=69)** I assume that you are a Java developer.
+> **[1:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=69)** I assume that you are a [[Java]] developer.
 >
 > **[1:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=72)** The goal of Java is to write once, run anywhere.
 >
@@ -3028,7 +2985,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=96)** But applications aren't normally standalone.
 >
-> **[1:39](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=99)** Infrastructure, such as databases, messaging technology, platform-specific configurations, standalone UI deployments that include node must all play together nicely before an application is truly usable.
+> **[1:39](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=99)** Infrastructure, such as [[Databases]], messaging technology, platform-specific configurations, standalone UI deployments that include node must all play together nicely before an application is truly usable.
 >
 > **[1:53](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980&t=113)** Docker is used to manage all the interdependencies of the infrastructure and gather them into one or more images, similar to a Java JAR file.
 >
@@ -3046,7 +3003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), application (4), data (3), database (2), [[Spring Boot]] (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Spring Boot]] (1), [[SQL]] (1), [[Software Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** docker (7), node (1), make (1)
 > **Env Vars:** jar (2), jpa (1), sql (1), war (1), ear (1)
 > **Prerequisites:** install (3), configure (1)
@@ -3055,8 +3012,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dockerizing a microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980)
+#### [Dockerizing a microservice](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3068,9 +3024,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=20)** In the configuration, I set a base image infrastructure, eclipse-temurin:21-jre-ubi9-minimal.
 >
-> **[0:30](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=30)** This is a lightweight version of a Linux operating system, plus the Java 21 runtime environment.
+> **[0:30](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=30)** This is a lightweight version of a [[Linux]] operating system, plus the [[Java]] 21 runtime environment.
 >
-> **[0:38](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=38)** I also needed to create a folder in the source main that has a jib folder and have our ExploreCalifornia.json file in that folder.
+> **[0:38](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=38)** I also needed to create a folder in the source main that has a jib folder and have our ExploreCalifornia.[[JSON]] file in that folder.
 >
 > **[0:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=55)** So that is when the containerized application runs, it will find the json file as part of the image when it builds it.
 >
@@ -3164,17 +3120,17 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=368)** And if I wanted to remove the image, I would just say docker rmi, remove image, and it removes that image.
 >
-> **[6:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=380)** This has been a very brief overview of Docker and our microservices.
+> **[6:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=380)** This has been a very brief overview of Docker and our [[Microservices]].
 >
 > **[6:24](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=384)** This is not a course on Docker, but I wanted to give you enough information that you can comfortably continue with the course, and I'll guide you through the things you need to learn.
 >
-> **[6:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=393)** There are plenty of courses in the LinkedIn library which will dig much deeper into the platform, including the course by Mary Ellen Bowman.
+> **[6:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=393)** There are plenty of courses in the [[LinkedIn]] library which will dig much deeper into the platform, including the course by Mary Ellen Bowman.
 >
 > **[6:42](https://www.linkedin.com/learning/creating-spring-boot-microservices/dockerizing-a-microservice?u=76281980&t=402)** It's a good course that I recommend, "[[Introduction to Docker for Java Developers]]."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[JSON]] (3), [[Java]] (2), [[Linux]] (1), hit (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Java]] (2), [[Linux]] (1), [[Microservices]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** docker (16), find (2)
 > **Tools:** terminal (3), command line (1)
 > **File Paths:** explorecalifornia.json (2), pom.xml (1)
@@ -3183,8 +3139,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), dropdown (1)
 > **Ports:** :21 (1), port 8080 (1)
 
-#### Spring Boot Docker Compose
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980)
+#### [Spring Boot Docker Compose](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3192,15 +3147,15 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=11)** You can even create your own Docker Hub account to store your own images.
 >
-> **[0:15](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=15)** I'm going to search for MySQL.
+> **[0:15](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=15)** I'm going to search for [[MySQL]].
 >
 > **[0:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=21)** In this video, we will switch from the H2 to the MySQL database by downloading the MySQL docker image from Docker Hub.
 >
 > **[0:31](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=31)** But first we need to orchestrate the interaction between the Explore Cali JP application and MySQL.
 >
-> **[0:39](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=39)** Running related containers is called orchestration and this can be done manually with the Docker command line interface or through automated tools such as Docker Compose, Docker Swarm and Kubernetes.
+> **[0:39](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=39)** Running related containers is called orchestration and this can be done manually with the Docker command line interface or through automated tools such as Docker [[Jetpack Compose|Compose]], Docker Swarm and [[Kubernetes]].
 >
-> **[0:53](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=53)** For local development, Docker Compose is a good choice over manual CLI.
+> **[0:53](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=53)** For local development, Docker Compose is a good choice over manual [[CLI]].
 >
 > **[0:58](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=58)** Docker Compose requires a Y-A-M-L, or YAML file that defines the desired deployment relationships.
 >
@@ -3212,7 +3167,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=78)** Hitting Control + C does the same thing when it's not running in the background.
 >
-> **[1:22](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=82)** And isn't it just like Spring Boot to have a tool to make this easier?
+> **[1:22](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=82)** And isn't it just like [[Spring Boot]] to have a tool to make this easier?
 >
 > **[1:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=88)** The tool is Spring Boot Docker Compose.
 >
@@ -3280,7 +3235,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=311)** And let's see our tour packages.
 >
-> **[5:19](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=319)** And there's our tour packages loaded from the dot JSON file, but now it's actually from a database.
+> **[5:19](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=319)** And there's our tour packages loaded from the dot [[JSON]] file, but now it's actually from a database.
 >
 > **[5:26](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-boot-docker-compose?u=76281980&t=326)** And let's just get a list of our tours.
 >
@@ -3312,7 +3267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (16), [[MySQL]] (13), [[Spring Boot]] (10), database (8), application (8)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (16), [[MySQL]] (13), [[Spring Boot]] (10), [[JSON]] (2), [[Kubernetes]] (1)
 > **CLI Commands:** docker (24), mysql (13), make (3)
 > **Env Vars:** json (2), cli (1), yaml (1), api (1)
 > **File Paths:** pom.xml (2), compose.yml (2)
@@ -3321,12 +3276,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1), such as (1), just like (1)
 > **Exercise Files:** download the (2)
 
-#### Database versioning with Flyway migrate
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980)
+#### [Database versioning with Flyway migrate](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=0)** - [Instructor] Now that we have switched to a real persistent database, MySQL, we need to adjust how our database is being initialized.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=0)** - [Instructor] Now that we have switched to a real persistent database, [[MySQL]], we need to adjust how our database is being initialized.
 >
 > **[0:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=8)** Flyway is a database migration tool that controls triggering of version database migration scripts.
 >
@@ -3336,7 +3290,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=31)** It's flywaydb, flyway-core, and flyway-mysql.
 >
-> **[0:37](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=37)** And then I've added some SQL scripts in the resources db migration folder, and they've been broken up and versioned by file name.
+> **[0:37](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=37)** And then I've added some [[SQL]] scripts in the resources db migration folder, and they've been broken up and versioned by file name.
 >
 > **[0:52](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=52)** And the order is defined by the version number prefix of the file.
 >
@@ -3400,7 +3354,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=228)** And there's this persisted 30 tours.
 >
-> **[3:50](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=230)** And now I'm going to hit Control + C, and that'll do Docker compose down.
+> **[3:50](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=230)** And now I'm going to hit Control + C, and that'll do Docker [[Jetpack Compose|compose]] down.
 >
 > **[3:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/database-versioning-with-flyway-migrate?u=76281980&t=235)** And I'm going to run this again.
 >
@@ -3410,7 +3364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), application (5), [[MySQL]] (2), [[SQL]] (2), hit (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[SQL]] (2), [[Jetpack Compose|Compose]] (1)
 > **Versions:** 1.4 (3), v1.2 (1), v1.3 (1), 1.5 (1), 1.1 (1)
 > **CLI Commands:** docker (5), mysql (2)
 > **Code Identifiers:** tour_package (2), tour_rating (1)
@@ -3424,8 +3378,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use cases for an image microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-a-image-microservice?u=76281980)
+#### [Use cases for an image microservice](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-a-image-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3439,7 +3392,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-a-image-microservice?u=76281980&t=17)** I would like to get a list of images by file name and the unique identifier.
 >
-> **[0:22](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-a-image-microservice?u=76281980&t=22)** And the third use case is to fetch an image by ID.
+> **[0:22](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-a-image-microservice?u=76281980&t=22)** And the third use case is to [[Fetch]] an image by ID.
 >
 > **[0:26](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-a-image-microservice?u=76281980&t=26)** As a front end developer, I would like our website to download photos by referencing the unique ID.
 >
@@ -3450,8 +3403,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Fetch]] (1)
 > **Speakers:** - so (1)
 
-#### Challenge: Create the Spring Boot MongoDB project
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-create-the-spring-boot-mongodb-project?u=76281980)
+#### [Challenge: Create the Spring Boot MongoDB project](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-create-the-spring-boot-mongodb-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3459,9 +3411,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-create-the-spring-boot-mongodb-project?u=76281980&t=12)** I'd like you to navigate to start.[spring.io](https://spring.io) in Spring Initializr, and the following settings, which should be used.
 >
-> **[0:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-create-the-spring-boot-mongodb-project?u=76281980&t=20)** Make sure it's a Maven project using Java 21, the name of the project should be explorecali-images, the Spring Boot version should be the latest non-M3 version or snapshot, the package name should be com.example.explorecaliimages, without any hyphens.
+> **[0:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-create-the-spring-boot-mongodb-project?u=76281980&t=20)** Make sure it's a Maven project using [[Java]] 21, the name of the project should be explorecali-images, the [[Spring Boot]] version should be the latest non-M3 version or snapshot, the package name should be com.example.explorecaliimages, without any hyphens.
 >
-> **[0:43](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-create-the-spring-boot-mongodb-project?u=76281980&t=43)** So the required dependencies you should add are Spring Web, Spring Data MongoDB, the nonreactive one, Spring Boot Actuator, Lombok, and Docker Compose Support, and then change the default version in the POM, once it's downloaded, to 3.0.0.
+> **[0:43](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-create-the-spring-boot-mongodb-project?u=76281980&t=43)** So the required dependencies you should add are Spring Web, [[Spring Data]] [[MongoDB]], the nonreactive one, Spring Boot Actuator, Lombok, and Docker [[Jetpack Compose|Compose]] Support, and then change the default version in the POM, once it's downloaded, to 3.0.0.
 >
 > **[1:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/challenge-create-the-spring-boot-mongodb-project?u=76281980&t=66)** And then, I would like you to grab the OpenAPI dependency for the Swagger UI from our explorecali-jpa pom.xml.
 >
@@ -3475,7 +3427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Java]] (1), web (1), [[Spring Data]] (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Java]] (1), [[Spring Data]] (1), [[MongoDB]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (2), docker (1)
 > **UI Navigation:** drag and drop (2), navigate to (1)
 > **Versions:** java 21 (1), 3.0.0 (1)
@@ -3484,8 +3436,7 @@ created: 2026-05-02
 > **Env Vars:** pom (1)
 > **Exercise Files:** download the (1)
 
-#### Solution: Create the Spring Boot MongoDB project
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980)
+#### [Solution: Create the Spring Boot MongoDB project](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3497,7 +3448,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=22)** And here's the POM.xml with the name and the version>21.
 >
-> **[0:29](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=29)** There's actuator, mongodb, web, docker-compose, lombok, our openapi, and then starter-test always comes along.
+> **[0:29](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=29)** There's actuator, [[MongoDB]], web, docker-[[Jetpack Compose|compose]], lombok, our openapi, and then starter-test always comes along.
 >
 > **[0:41](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=41)** There's the maven-plugin and then it also generated the ExplorecaliImagesApplication class.
 >
@@ -3511,7 +3462,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=81)** We'll start off the Docker Compose and launch the application.
 >
-> **[1:27](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=87)** See the Docker CLI is starting and Tomcat has started up.
+> **[1:27](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=87)** See the Docker [[CLI]] is starting and Tomcat has started up.
 >
 > **[1:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=93)** We see the popup for seeing Open in Browser.
 >
@@ -3523,7 +3474,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=114)** It's up to you.
 >
-> **[1:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=115)** But I also created in my code spaces in the launch.json, I created the ability to have the Spring Boot application launch from the Spring Boot dashboard extension.
+> **[1:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=115)** But I also created in my code spaces in the launch.[[JSON]], I created the ability to have the [[Spring Boot]] application launch from the Spring Boot dashboard extension.
 >
 > **[2:10](https://www.linkedin.com/learning/creating-spring-boot-microservices/solution-create-the-spring-boot-mongodb-project?u=76281980&t=130)** So if I wanted to debug, I could, or run directly, I could do it from here.
 >
@@ -3533,7 +3484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), [[MongoDB]] (3), application (3), [[Spring Boot]] (2), web (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), [[MongoDB]] (3), [[Spring Boot]] (2), [[CLI]] (1), [[JSON]] (1)
 > **CLI Commands:** docker (5)
 > **File Paths:** pom.xml (1), compose.yaml (1), launch.json (1)
 > **Env Vars:** pom (1), cli (1), url (1)
@@ -3542,12 +3493,11 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Image file upload microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980)
+#### [Image file upload microservice](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=0)** - [Instructor] So let's look at my design that I've already put forward here, and I've populated some classes already for the project that you built for me, so the main domain model is a class called image in the model folder, and this is declared as @Document, and that is a MongoDB artifact.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=0)** - [Instructor] So let's look at my design that I've already put forward here, and I've populated some classes already for the project that you built for me, so the main domain model is a class called image in the model folder, and this is declared as @Document, and that is a [[MongoDB]] artifact.
 >
 > **[0:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=21)** In JPA, they have entities; in MongoDB, they have documents, and a document is a collection, and I'm calling that images, so what is this image class?
 >
@@ -3565,19 +3515,19 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=74)** We're going to look at that in the next chapter, why that's unique, and the folder ImageController, we have a PostMapping, and this is to create an image and upload an image, so the path would be /api/images/upload, and it will be uploading a MediaType multi form data value, and the response will be created if everything was successful, a little comment on the Swagger of what it's going to do, and then it's declared to handle a file upload, and the parameter is a MultipartFile, and inside this method, we instantiate the image object, and then we set, from this file attribute the original file name, the file bytes, which is the array of bytes,
 >
-> **[2:03](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=123)** that's the data, and then invoke our business service to save the image and passing in that image object, and then, the result would be that ID would be generated by Mongo, and when we would return that in the response, so that is the create, and we can also download an image by the unique identifier, so here we fetch the file by the Mongo identifier, and so in our service, we say getImage, passing in this path variable id, and in the response, which will return a response entity, we map it to say, "Okay, if we received it, "then return a okay," which is a 200 status,
+> **[2:03](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=123)** that's the data, and then invoke our business service to save the image and passing in that image object, and then, the result would be that ID would be generated by Mongo, and when we would return that in the response, so that is the create, and we can also download an image by the unique identifier, so here we [[Fetch]] the file by the Mongo identifier, and so in our service, we say getImage, passing in this path variable id, and in the response, which will return a response entity, we map it to say, "Okay, if we received it, "then return a okay," which is a 200 status,
 >
 > **[2:52](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=172)** and on the header, say, "Content disposition attachment file name equals," and then provide the file name, and then provide the body so that it can be downloaded.
 >
 > **[3:03](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=183)** If it was not able to fetch it, a response entity returned not found, which would be a 404, and then we have this other endpoint which says, "Get a list of all Mongo identifiers "and their file names," and then, so we have a service that returns find all IdNames, so let's look what is an IdName?
 >
-> **[3:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=208)** An IdName is a purely an interface that is a Spring Data projection where off of the image entity or image document, it will pull the identifier and the file name off of it, and we will get into that later when we create our Mongo repositories, and then, our image service is just stubbed out messages.
+> **[3:28](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=208)** An IdName is a purely an interface that is a [[Spring Data]] projection where off of the image entity or image document, it will pull the identifier and the file name off of it, and we will get into that later when we create our Mongo repositories, and then, our image service is just stubbed out messages.
 >
 > **[4:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/image-file-upload-microservice?u=76281980&t=240)** We haven't implemented them yet, and we'll get to that next, but here's the structure of how I've designed it, and next, we'll populate these methods with a Spring Data Mongo repository methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (3), data (3), next (3), api (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[Fetch]] (2), [[Spring Data]] (2)
 > **Definitions:** is a  (9), is an  (2)
 > **CLI Commands:** mongo (5), find (1)
 > **API Endpoints:** /api/images (1), /api/images/upload (1)
@@ -3586,18 +3536,17 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 
-#### Spring Data MongoDB documents and repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980)
+#### [Spring Data MongoDB documents and repositories](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=0)** - [Instructor] Now we're going to create our MongoDB repositories.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=0)** - [Instructor] Now we're going to create our [[MongoDB]] repositories.
 >
-> **[0:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=6)** So I'm going to create a new folder called repo and a new file called image repository dot Java.
+> **[0:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=6)** So I'm going to create a new folder called repo and a new file called image repository dot [[Java]].
 >
 > **[0:22](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=22)** And this will be an interface.
 >
-> **[0:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=25)** So here's where we apply the spring data MongoDB.
+> **[0:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=25)** So here's where we apply the [[Spring Data]] MongoDB.
 >
 > **[0:31](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=31)** This will extend from Mongo repository.
 >
@@ -3647,7 +3596,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=205)** So remember, this ID name is purely a interface that's a projection where it's saying, referencing the ID and the file name attribute in the image class.
 >
-> **[3:40](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=220)** And then in the repository, having nothing after the by word, says everything.
+> **[3:40](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=220)** And then in the repository, having nothing after the by [[Microsoft Word|word]], says everything.
 >
 > **[3:46](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=226)** Okay, so then let's populate our service with these methods.
 >
@@ -3661,9 +3610,9 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=251)** I think we're ready to run this, so make sure that we're in the correct folder.
 >
-> **[4:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=256)** So Maven Clean install, and then to launch it, spring boot, run go.
+> **[4:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=256)** So Maven Clean install, and then to launch it, [[Spring Boot]], run go.
 >
-> **[4:30](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=270)** Okay, so it's built the jar and now it's running the Docker Compose container.
+> **[4:30](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=270)** Okay, so it's built the jar and now it's running the Docker [[Jetpack Compose|Compose]] container.
 >
 > **[4:38](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=278)** And I'm going to show on Docker, what's running here.
 >
@@ -3699,7 +3648,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=367)** And here's our image ID, and the file name is logo.png.
 >
-> **[6:13](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=373)** And now let's actually fulfill the last requirement to fetch that image by the ID.
+> **[6:13](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=373)** And now let's actually fulfill the last requirement to [[Fetch]] that image by the ID.
 >
 > **[6:24](https://www.linkedin.com/learning/creating-spring-boot-microservices/spring-data-mongodb-documents-and-repositories?u=76281980&t=384)** There's that ID that I copied, execute, and Swagger gives me a nice little download file link.
 >
@@ -3717,7 +3666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (4), [[Spring Data]] (2), [[Java]] (1), next (1), database (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Spring Data]] (2), [[Java]] (1), [[Microsoft Word|Word]] (1), [[Spring Boot]] (1)
 > **CLI Commands:** find (11), mongo (2), make (2), docker (2)
 > **Env Vars:** url (1), api (1)
 > **Ports:** port 8080 (1)
@@ -3729,8 +3678,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use cases for an API gateway microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980)
+#### [Use cases for an API gateway microservice](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3740,11 +3688,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=27)** Use case one is to protect our tour data.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=33)** As a tour publisher, I should have the ability to create, update, or delete tours, tour packages, or ratings in the MySQL database.
+> **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=33)** As a tour publisher, I should have the ability to create, update, or delete tours, tour packages, or ratings in the [[MySQL]] database.
 >
 > **[0:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=45)** Use case two, protect images.
 >
-> **[0:47](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=47)** As a tour publisher, I only should have the ability to upload images to the MongoDB database.
+> **[0:47](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=47)** As a tour publisher, I only should have the ability to upload images to the [[MongoDB]] database.
 >
 > **[0:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=55)** Use case three, permit fetching tour data.
 >
@@ -3760,15 +3708,15 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=93)** For endpoints that require authentication, we will simply use basic auth, which is a special token on the HTTP header request.
 >
-> **[1:43](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=103)** Open endpoints will not require the special token and the authentication will employ Spring Security.
+> **[1:43](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=103)** Open endpoints will not require the special token and the authentication will employ [[Spring Security]].
 >
 > **[1:52](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=112)** So we have a couple options.
 >
-> **[1:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=115)** The first is to add Spring Security to both of our microservices and expose them to the internet.
+> **[1:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=115)** The first is to add Spring Security to both of our [[Microservices]] and expose them to the internet.
 >
 > **[2:02](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=122)** The second is to create a secure API gateway.
 >
-> **[2:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=126)** There are several API gateway products out there.
+> **[2:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=126)** There are several API gateway [[Microsoft Products|products]] out there.
 >
 > **[2:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=129)** Ours will leverage the Spring Cloud API gateway module.
 >
@@ -3784,7 +3732,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=175)** So in Spring Initializer, I have created a project, which is called ExploreCali-Gateway.
 >
-> **[3:04](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=184)** We're using Java and Maven, Spring Boot 325, and for dependencies, I've chosen the reactive gateway out of Spring Cloud routing, and we're using packaging as a jar, and it's Java 21.
+> **[3:04](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=184)** We're using [[Java]] and Maven, [[Spring Boot]] 325, and for dependencies, I've chosen the reactive gateway out of Spring Cloud [[Routing]], and we're using packaging as a jar, and it's Java 21.
 >
 > **[3:20](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980&t=200)** And I've put it already in the project in the branch of 0901.
 >
@@ -3796,7 +3744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), database (4), api (4), [[Security]] (2), data (2)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Spring Security]] (2), [[Microservices]] (2), [[Java]] (2), [[Spring Boot]] (2)
 > **Env Vars:** api (4), http (2), url (1)
 > **CLI Commands:** mysql (2), mongo (1)
 > **Definitions:** is a  (1), is called (1)
@@ -3804,12 +3752,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Routing to the JPA microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980)
+#### [Routing to the JPA microservice](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=0)** - [Instructor] I'm going to take a cookbook approach to setting up routes to our microservices using Spring Cloud Gateway, but I did want to show you how to access more detailed documentation.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=0)** - [Instructor] I'm going to take a cookbook approach to setting up routes to our [[Microservices]] using Spring Cloud Gateway, but I did want to show you how to access more detailed documentation.
 >
 > **[0:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=12)** So in the [spring.io](https://spring.io) website URL, we want to drill down into Cloud.
 >
@@ -3819,7 +3766,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=29)** And then, the tab Learn, the reference doc for the latest general availability is where we want to go, and this is going to show you all the detailed ways of configuring a Spring Cloud Gateway.
 >
-> **[0:44](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=44)** There are two ways to configure a gateway, an external properties file, or via Gateway Java libraries.
+> **[0:44](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=44)** There are two ways to configure a gateway, an external properties file, or via Gateway [[Java]] libraries.
 >
 > **[0:52](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=52)** We're going to use a properties file, similar to what's shown here, a application.yml in our Resources folder.
 >
@@ -3837,7 +3784,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=124)** I can't let the default port be 8080 because I want the gateway to be 8080.
 >
-> **[2:10](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=130)** So I have on this command line here, set up SERVER_PORT environment variable =8082, and then kickstart MAVEN to run the spring boot application.
+> **[2:10](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=130)** So I have on this command line here, set up SERVER_PORT environment variable =8082, and then kickstart MAVEN to run the [[Spring Boot]] application.
 >
 > **[2:24](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=144)** This is also possible within an applications property where in lowercase server.port=8082, but this is just a nice way to do it all in one command line.
 >
@@ -3891,7 +3838,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=359)** So, since we are creating a package, we want to say on the header that there is a content type.
 >
-> **[6:10](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=370)** And then we have some data, and this is our JSON data.
+> **[6:10](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=370)** And then we have some data, and this is our [[JSON]] data.
 >
 > **[6:17](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-jpa-microservice?u=76281980&t=377)** I'm going to create a beekeeper tour package.
 >
@@ -3905,7 +3852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), application (5), [[Microservices]] (2), data (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Java]] (1), [[Spring Boot]] (1), [[JSON]] (1)
 > **Env Vars:** url (3), server_port (1), maven (1), gad (1), json (1)
 > **Prerequisites:** set up (5), configure (1)
 > **CLI Commands:** curl (3), make (1)
@@ -3914,8 +3861,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **File Paths:** application.yml (2)
 
-#### Routing to the MongoDB microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980)
+#### [Routing to the MongoDB microservice](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3923,7 +3869,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=6)** So let's actually start that up.
 >
-> **[0:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=12)** So I have, just a reminder, in the last video, we have the explorecali-jpa Microsoft already running on port 8082.
+> **[0:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=12)** So I have, just a reminder, in the last video, we have the explorecali-jpa [[Microsoft]] already running on port 8082.
 >
 > **[0:24](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=24)** Now in another terminal, I'm going to run on port 8081 our Explore Cali gateway application.
 >
@@ -3931,7 +3877,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=40)** And let's go to where we had our, we're running our curl commands in this window.
 >
-> **[0:47](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=47)** Let's do a curl and list any images that are in our MongoDB database.
+> **[0:47](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=47)** Let's do a curl and list any images that are in our [[MongoDB]] database.
 >
 > **[0:52](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=52)** So it would be localhost:8081/api,
 >
@@ -3939,7 +3885,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=68)** And there is our logo.png image.
 >
-> **[1:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=72)** So now let's set up the routing for this within our gateway application YAML.
+> **[1:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=72)** So now let's set up the [[Routing]] for this within our gateway application YAML.
 >
 > **[1:17](https://www.linkedin.com/learning/creating-spring-boot-microservices/routing-to-the-mongodb-microservice?u=76281980&t=77)** So I am in branch 09_03b.
 >
@@ -3973,7 +3919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), application (2), [[Routing]] (2), [[Microsoft]] (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Microsoft]] (1), [[MongoDB]] (1)
 > **CLI Commands:** curl (3), make (2)
 > **Ports:** :8081 (2), port 8082 (1), port 8081 (1)
 > **Env Vars:** api (1), yaml (1), uri (1), url (1)
@@ -3982,16 +3928,15 @@ created: 2026-05-02
 > **API Endpoints:** get  (1), /api/images (1)
 > **Prerequisites:** set up (2)
 
-#### Add Spring Security to the gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980)
+#### [Add Spring Security to the gateway](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=0)** - [Instructor] So now we are going to add spring security to our API gateway.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=0)** - [Instructor] So now we are going to add [[Spring Security]] to our API gateway.
 >
 > **[0:05](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=5)** The first step is to add the spring security dependency to our palm.
 >
-> **[0:13](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=13)** So here is the dependency, it's spring boot starter security, and I just want to show you the behavior of just adding this dependency to our gateway.
+> **[0:13](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=13)** So here is the dependency, it's [[Spring Boot]] starter security, and I just want to show you the behavior of just adding this dependency to our gateway.
 >
 > **[0:27](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=27)** So I'm building the Explore Cali Gateway, and while that's building, we need to start our Explore Cali JPA microservice and then start our Explore Cali Images microservice that is running on 8081.
 >
@@ -4015,11 +3960,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=105)** So what we are going to do is stop that and we need to configure our gateway.
 >
-> **[1:56](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=116)** So I'm going to add a security configuration in a config folder, security config Java.
+> **[1:56](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=116)** So I'm going to add a security configuration in a config folder, security config [[Java]].
 >
 > **[2:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=127)** And I'm working in the branch 0904B.
 >
-> **[2:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=132)** Over on GitHub, here it is on branch 0904E, the class, security, config.
+> **[2:12](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=132)** Over on [[GitHub]], here it is on branch 0904E, the class, security, config.
 >
 > **[2:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=141)** I'm just going to copy and paste that in.
 >
@@ -4027,7 +3972,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=150)** So this class is annotated with ant configuration and then we're going to create a beam.
 >
-> **[2:36](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=156)** And we are also annotating this with enable web flux security.
+> **[2:36](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=156)** And we are also annotating this with enable web [[Flux]] security.
 >
 > **[2:41](https://www.linkedin.com/learning/creating-spring-boot-microservices/add-spring-security-to-the-gateway?u=76281980&t=161)** And we're going to create a spring security, filter chain object.
 >
@@ -4113,7 +4058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Spring Security]] (6), api (1), [[Spring Boot]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Spring Security]] (6), [[Spring Boot]] (1), [[Java]] (1), [[GitHub]] (1), [[Flux]] (1)
 > **Env Vars:** http (5), jpa (2), api (1), csrf (1), tor (1)
 > **CLI Commands:** curl (6)
 > **Cross-References:** go back to (2)
@@ -4122,14 +4067,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** configure (1)
 
-#### Orchestrate with Docker Compose
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980)
+#### [Orchestrate with Docker Compose](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=0)** - [Instructor] There are many ways to deploy these three microservices into a production environment which will hide the domain microservices behind an API gateway.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=0)** - [Instructor] There are many ways to deploy these three [[Microservices]] into a production environment which will hide the domain microservices behind an API gateway.
 >
-> **[0:10](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=10)** We are going to simulate a production deployment locally with the Docker Compose engine.
+> **[0:10](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=10)** We are going to simulate a production deployment locally with the Docker [[Jetpack Compose|Compose]] engine.
 >
 > **[0:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=16)** So it's not important for you to know how to create your own deployment with Docker Compose.
 >
@@ -4139,7 +4083,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=33)** So what do we want to do?
 >
-> **[0:34](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=34)** You want to compile all your microservices, create Docker images for all three of your microservices with Jib, download the MongoDB image, launch and configure it, download the MySQL image, launch and configure it, launch and configure the explorecali-images, hiding port 8081, launch and configure the explorecali-jpa image and hiding port 8082, and launch and configure the gateway, exposing port 8080.
+> **[0:34](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=34)** You want to compile all your microservices, create Docker images for all three of your microservices with Jib, download the [[MongoDB]] image, launch and configure it, download the [[MySQL]] image, launch and configure it, launch and configure the explorecali-images, hiding port 8081, launch and configure the explorecali-jpa image and hiding port 8082, and launch and configure the gateway, exposing port 8080.
 >
 > **[1:10](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=70)** And believe it or not, we can do it all on that one line with mvn clean compile jib:dockerBuild and then the command docker-compose up.
 >
@@ -4183,7 +4127,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=230)** So here's our docker-compose.xml and our five services, and I wanted to call out in our mongo-app which is the container for the images this environment variable.
 >
-> **[4:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=246)** This is the spring.application.json.
+> **[4:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=246)** This is the spring.application.[[JSON]].
 >
 > **[4:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=249)** This is things that you would typically see within the applications.properties.
 >
@@ -4233,7 +4177,7 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=457)** There is a file here, an image within the container.
 >
-> **[7:41](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=461)** So we are running this locally within the Codespaces virtual machine.
+> **[7:41](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=461)** So we are running this locally within the [[Codespaces]] virtual machine.
 >
 > **[7:50](https://www.linkedin.com/learning/creating-spring-boot-microservices/orchestrate-with-docker-compose?u=76281980&t=470)** And it worked and we got the ID back.
 >
@@ -4241,7 +4185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (11), [[MySQL]] (6), [[Microservices]] (5), application (3), [[MongoDB]] (2)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (11), [[MySQL]] (6), [[Microservices]] (5), [[MongoDB]] (2), [[JSON]] (1)
 > **CLI Commands:** docker (15), mongo (7), mysql (6), make (2), curl (2)
 > **Env Vars:** jpa_app_uri (2), mongo_app_uri (2), api (1), url (1), http (1)
 > **File Paths:** docker-compose.xml (3), pom.xml (1), application.yaml (1), spring.application.json (1)
@@ -4250,14 +4194,13 @@ created: 2026-05-02
 > **URLs:** [localhost:8082](https://localhost:8082) (1), [localhost:8081](https://localhost:8081) (1)
 > **Exercise Files:** download the (2)
 
-#### Cleaning up the workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/cleaning-up-our-workspace?u=76281980)
+#### [Cleaning up the workspace](https://www.linkedin.com/learning/creating-spring-boot-microservices/cleaning-up-our-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/cleaning-up-our-workspace?u=76281980&t=0)** - [Instructor] I wanted to add one final note of how to tear down everything that we have built up.
 >
-> **[0:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/cleaning-up-our-workspace?u=76281980&t=6)** So right now we have Docker Compose running.
+> **[0:06](https://www.linkedin.com/learning/creating-spring-boot-microservices/cleaning-up-our-workspace?u=76281980&t=6)** So right now we have Docker [[Jetpack Compose|Compose]] running.
 >
 > **[0:09](https://www.linkedin.com/learning/creating-spring-boot-microservices/cleaning-up-our-workspace?u=76281980&t=9)** We want to tear everything down and clean up our code spaces.
 >
@@ -4287,7 +4230,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/creating-spring-boot-microservices/cleaning-up-our-workspace?u=76281980&t=71)** And one last thing is that a folder is called data.
 >
-> **[1:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/cleaning-up-our-workspace?u=76281980&t=76)** And this is where the persistent information would be stored for our Mongo and MySQL databases between runs.
+> **[1:16](https://www.linkedin.com/learning/creating-spring-boot-microservices/cleaning-up-our-workspace?u=76281980&t=76)** And this is where the persistent information would be stored for our Mongo and [[MySQL]] [[Databases]] between runs.
 >
 > **[1:24](https://www.linkedin.com/learning/creating-spring-boot-microservices/cleaning-up-our-workspace?u=76281980&t=84)** However, if I would try to remove that folder,
 >
@@ -4305,7 +4248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Jetpack Compose|Compose]] (1), [[MySQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[MySQL]] (1), [[Databases]] (1)
 > **CLI Commands:** docker (4), mongo (1), mysql (1), rm (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
@@ -4315,24 +4258,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=0)** - Thanks for joining me on this journey of creating Spring Boot microservices.
+> **[0:00](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=0)** - Thanks for joining me on this journey of creating [[Spring Boot]] [[Microservices]].
 >
 > **[0:05](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=5)** So what's next?
 >
-> **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=7)** We barely scratched the surface of Spring Data's capabilities, so for more details, check out my course, Spring Data.
+> **[0:07](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=7)** We barely scratched the surface of [[Spring Data]]'s capabilities, so for more details, check out my course, Spring Data.
 >
-> **[0:14](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=14)** And if you want to learn more about Docker, I have an [[Introduction to Docker for Java Developers]] course.
+> **[0:14](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=14)** And if you want to learn more about Docker, I have an [[Introduction to Docker for [[Java]] Developers]] course.
 >
-> **[0:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=21)** I hope you enjoyed shadowing me, and I hope this helps you in your spring application development.
+> **[0:21](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980&t=21)** I hope you enjoyed shadowing me, and I hope this helps you in your spring [[Application Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (2), [[Spring Boot]] (1), [[Microservices]] (1), next (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Spring Data]] (2), [[Spring Boot]] (1), [[Microservices]] (1), [[Java]] (1), [[Application Development]] (1)
 > **CLI Commands:** docker (2)
 > **Speakers:** - thanks (1)
 

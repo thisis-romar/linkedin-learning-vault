@@ -37,11 +37,11 @@ created: 2026-05-02
 6. [[Blockchain and Smart Contracts Security]] — 26 mentions
 7. [[Interacting with Blockchains in the Wolfram Language]] — 24 mentions
 8. [[Blockchain- Learning Solidity]] — 19 mentions
-9. [[Cryptocurrency Foundations 17185357]] — 18 mentions
-10. [[Foundations of Decentralized Finance (DeFi)]] — 18 mentions
+9. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 18 mentions
+10. [[Cryptocurrency Foundations 17185357]] — 18 mentions
 
 > [!note]- See all 25 courses
-> 11. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 17 mentions
+> 11. [[Foundations of Decentralized Finance (DeFi)]] — 18 mentions
 > 12. [[Building an Ethereum Blockchain App- 8 Supply Chain Smart Contract dApp]] — 16 mentions
 > 13. [[Building an Ethereum Blockchain App- 10 Deployment and Maintenance]] — 16 mentions
 > 14. [[Building an Ethereum Blockchain App- 7 Smart Contracts]] — 15 mentions
@@ -59,7 +59,7 @@ created: 2026-05-02
 
 ## Learning Paths
 
-1. [[Become a Blockchain Developer]] — 289 total mentions
+1. [[Become a Blockchain Developer]] — 290 total mentions
 2. [[Build an Ethereum Blockchain App]] — 251 total mentions
 3. [[Getting Started in Blockchain]] — 106 total mentions
 4. [[Digital Transformation for Tech Leaders]] — 45 total mentions

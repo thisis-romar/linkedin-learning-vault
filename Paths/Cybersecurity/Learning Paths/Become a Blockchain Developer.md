@@ -12,12 +12,12 @@ tags:
   - learning-path
   - topic/security
   - topic/data-science
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-02T20:51:37.214Z
+activity_total: 2
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
   - course: '[[Building An Ethereum Blockchain App 1 Introduction To Blockchain]]'
     last_opened: null

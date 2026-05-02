@@ -83,12 +83,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Much more than full-text searches
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980)
+#### [Much more than full-text searches](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980&t=0)** - [Narrator] Elasticsearch is one of the most popular search engines, but many may not know that Elastic can do more than full tech search.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980&t=0)** - [Narrator] [[Elasticsearch]] is one of the most popular search engines, but many may not know that Elastic can do more than full tech search.
 >
 > **[0:08](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980&t=8)** Elasticsearch is a document database that offers the ability to store documents while indexing specific fields inside the documents.
 >
@@ -96,15 +95,15 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980&t=22)** My name is Edward Capriolo.
 >
-> **[0:24](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980&t=24)** I'm a technologist who has been lucky enough to take on a number of big data challenges.
+> **[0:24](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980&t=24)** I'm a technologist who has been lucky enough to take on a number of [[Big Data]] challenges.
 >
-> **[0:29](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980&t=29)** I have designed and implement systems that store and analyze terabytes of data using a variety of so-called NoSQL systems.
+> **[0:29](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980&t=29)** I have designed and implement systems that store and analyze terabytes of data using a variety of so-called [[NoSQL]] systems.
 >
-> **[0:37](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980&t=37)** If you're ready to pull up your sleeves and learn how to utilize advance in-depth features of Elasticsearch, join me in my LinkedIn learning course.
+> **[0:37](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980&t=37)** If you're ready to pull up your sleeves and learn how to utilize advance in-depth features of Elasticsearch, join me in my [[LinkedIn]] learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Elasticsearch]] (3), [[Search]] (2), database (1), [[Big Data]] (1), data (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (3), [[Big Data]] (1), [[NoSQL]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -113,22 +112,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Elasticsearch stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980)
+#### [The Elasticsearch stack](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=0)** - [Instructor] In this section, we will give a brief introduction to the Elastic stack, and the best place to start is the heart of the stack, Elasticsearch.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=0)** - [Instructor] In this section, we will give a brief introduction to the Elastic stack, and the best place to start is the heart of the stack, [[Elasticsearch]].
 >
 > **[0:08](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=8)** Elasticsearch is designed as a fully distributed data store, meaning that multiple computers, or sometimes as we call them nodes can work in concert to divide and replicate data, but for smaller cases, it can scale down to a single node for lighter workloads.
 >
-> **[0:22](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=22)** Elasticsearch is a document data store and it uses JSON as a native document type and API.
+> **[0:22](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=22)** Elasticsearch is a document data store and it uses [[JSON]] as a native document type and API.
 >
 > **[0:30](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=30)** Internally, Elastic heavily leverages Apache Lucene as a storage format.
 >
 > **[0:35](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=35)** Lucene is a specialized database engine with the ability to search structured data, as well as blocks of text, like emails.
 >
-> **[0:42](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=42)** Document databases are not as standardized as SQL databases, so we'll run through the basics to help provide some groundwork for the rest of the course.
+> **[0:42](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=42)** Document [[Databases]] are not as standardized as [[SQL]] databases, so we'll run through the basics to help provide some groundwork for the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[0:50](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=50)** On the right, we have a document.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=75)** Notice the outer container is called an index.
 >
-> **[1:18](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=78)** This can be a bit confusing for those from a relational database background where the primary data structures are called tables, and the specialized structures to optimize searches inside those tables are called indexes.
+> **[1:18](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=78)** This can be a bit confusing for those from a relational database background where the primary [[Data Structures]] are called tables, and the specialized structures to optimize searches inside those tables are called indexes.
 >
 > **[1:29](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=89)** In Elasticsearch, index is the primary data container, not a table.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=151)** Take note that some features in Elastic are affected by how many shards an index has.
 >
-> **[2:35](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=155)** For example, some features in Elasticsearch use term frequency, inverse document frequency to figure out scores, effectively how often a word is used, and based the on number of shards, the corpus on each node may be different, but this is a finer point we could get into later.
+> **[2:35](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=155)** For example, some features in Elasticsearch use term frequency, inverse document frequency to figure out scores, effectively how often a [[Microsoft Word|word]] is used, and based the on number of shards, the corpus on each node may be different, but this is a finer point we could get into later.
 >
 > **[2:51](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980&t=171)** Finally, we can discuss the Elasticsearch stack.
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Elasticsearch]] (10), node (5), database (4), web (3)
+> **Frameworks & Libraries:** [[Elasticsearch]] (10), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[JSON]] (1), [[SQL]] (1)
 > **Definitions:** is a  (9), is an  (1), is called (1)
 > **CLI Commands:** node (5), apache (1)
 > **Env Vars:** json (1), api (1), sql (1), hdp (1)
@@ -206,12 +204,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Elasticsearch and Kibana locally
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980)
+#### [Installing Elasticsearch and Kibana locally](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=0)** - [Instructor] This section will focus on installing Elasticsearch in Kibana.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=0)** - [Instructor] This section will focus on installing [[Elasticsearch]] in Kibana.
 >
 > **[0:03](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=3)** This will help you do the remainder of the materials in this course.
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=18)** As I mentioned, there's other ways to run Elastic, potentially as a web service, but in this case, we're going to just download the binaries and run them locally.
 >
-> **[0:26](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=26)** My laptop is Windows, so I've chosen it as a platform.
+> **[0:26](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=26)** My laptop is [[Windows]], so I've chosen it as a platform.
 >
 > **[0:28](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=28)** Other options are available here.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=48)** I unzipped them and I want to take this opportunity to walk through the directories of them just so we understand their layout.
 >
-> **[0:54](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=54)** Elasticsearch is written in Java, so the majority of this application runs on a variety of platforms, including Windows, Linux, and Mac.
+> **[0:54](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=54)** Elasticsearch is written in [[Java]], so the majority of this application runs on a variety of platforms, including Windows, [[Linux]], and Mac.
 >
 > **[1:03](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=63)** In these type of applications, it's common to have a bin folder where executable scripts are, a config where your configuration exists, data where your data is stored, and logs.
 >
@@ -247,7 +244,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=86)** Kibana has a similar setup in actuality.
 >
-> **[1:29](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=89)** However, one thing to note that Kibana is written in Python whereas Elasticsearch, as we mentioned, is written in Java.
+> **[1:29](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=89)** However, one thing to note that Kibana is written in [[Python (Programming Language)|Python]] whereas Elasticsearch, as we mentioned, is written in Java.
 >
 > **[1:34](https://www.linkedin.com/learning/elasticsearch-in-depth/installing-elasticsearch-and-kibana-locally?u=76281980&t=94)** The way I like to run Elastic is through the command prompt.
 >
@@ -295,7 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Elasticsearch]] (8), application (3), [[Windows]] (2), [[Java]] (2), data (2)
+> **Frameworks & Libraries:** [[Elasticsearch]] (8), [[Windows]] (2), [[Java]] (2), [[Linux]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** cd (2), python (1), curl (1), find (1)
 > **UI Navigation:** navigate to (3)
 > **Warnings:** note that (2), warning (1)
@@ -304,30 +301,29 @@ created: 2026-05-02
 > **Ports:** :920 (1), :5601 (1)
 > **Env Vars:** zip (1), http (1)
 
-#### Executing basic CRUD-like data operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980)
+#### [Executing basic CRUD-like data operations](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=0)** - [Instructor] In this section, we are going to demonstrate how to do basic create, read, update and delete or CRUD operations.
 >
-> **[0:07](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=7)** Let's take note of some important aspects in the design of Elasticsearch.
+> **[0:07](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=7)** Let's take note of some important aspects in the design of [[Elasticsearch]].
 >
 > **[0:12](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=12)** First, the protocol is HTTP based.
 >
-> **[0:15](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=15)** This makes it easy to use when compared to other databases that may only have a binary interface.
+> **[0:15](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=15)** This makes it easy to use when compared to other [[Databases]] that may only have a binary interface.
 >
-> **[0:21](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=21)** Even a user with a browser, JavaScript, cURL or Postman has full ability to execute every operation the database supports.
+> **[0:21](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=21)** Even a user with a browser, [[JavaScript]], cURL or Postman has full ability to execute every operation the database supports.
 >
 > **[0:30](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=30)** Throughout the course, we use Cabana dev tools which is a simple tool to execute commands.
 >
-> **[0:35](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=35)** But it could as easily be done with tools, like we mentioned above, or a high level API written in a programming language like Java.
+> **[0:35](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=35)** But it could as easily be done with tools, like we mentioned above, or a high level API written in a programming language like [[Java]].
 >
 > **[0:43](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=43)** Next, the Elastic API leverages concept from restful web services, like using HTTP verbs.
 >
 > **[0:50](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=50)** A user wishing to add a document uses an http PUT verb or retrieving a document uses a GET verb.
 >
-> **[0:59](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=59)** In the cases where the requests are complex, Elastic uses structured JSON in the body of requests.
+> **[0:59](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=59)** In the cases where the requests are complex, Elastic uses structured [[JSON]] in the body of requests.
 >
 > **[1:06](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=66)** This is called the Querydsl.
 >
@@ -395,7 +391,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=209)** And inside it, all the fields inside the doc become part of the original document.
 >
-> **[3:33](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=213)** We could fetch the document back to see if it's been added.
+> **[3:33](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=213)** We could [[Fetch]] the document back to see if it's been added.
 >
 > **[3:40](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=220)** Now the fun part.
 >
@@ -435,7 +431,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=288)** We will specify the field average and includes beginning and end values.
 >
-> **[5:03](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=303)** While we've mentioned that Elastic uses REST whenever possible, larger, more complex queries become hard to express even in a URL, even using query parameters.
+> **[5:03](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=303)** While we've mentioned that Elastic uses [[Representational State Transfer (REST)|REST]] whenever possible, larger, more complex queries become hard to express even in a URL, even using query parameters.
 >
 > **[5:13](https://www.linkedin.com/learning/elasticsearch-in-depth/executing-basic-crud-like-data-operations?u=76281980&t=313)** We'll do a few examples that use a query body.
 >
@@ -465,7 +461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Search]] (5), [[Elasticsearch]] (3), [[JSON]] (3), api (2)
+> **Frameworks & Libraries:** [[Elasticsearch]] (3), [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Databases]] (1), [[JavaScript]] (1)
 > **Env Vars:** url (6), crud (3), json (3), http (2), api (2)
 > **API Endpoints:** put  (2), get  (2), delete  (1), post  (1)
 > **CLI Commands:** find (2), curl (1)
@@ -474,16 +470,15 @@ created: 2026-05-02
 > **Code Identifiers:** curl (1)
 > **Tools:** postman (1)
 
-#### Using Elastic SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980)
+#### [Using Elastic SQL](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=0)** - [Instructor] In this section, we are going to use Elastic SQL to query data.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=0)** - [Instructor] In this section, we are going to use Elastic [[SQL]] to query data.
 >
-> **[0:04](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=4)** Elastic is a document database that stores JSON documents, and it has a Query DSL that actually uses JSON as the primary language of interacting with the database.
+> **[0:04](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=4)** Elastic is a document database that stores [[JSON]] documents, and it has a Query DSL that actually uses JSON as the primary language of interacting with the database.
 >
-> **[0:13](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=13)** That being said, SQL is a widely popular declarative language to query databases.
+> **[0:13](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=13)** That being said, SQL is a widely popular declarative language to query [[Databases]].
 >
 > **[0:18](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elastic-sql?u=76281980&t=18)** Users with SQL experience could leverage Elastic SQL to do many types of queries.
 >
@@ -545,14 +540,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (10), data (3), [[JSON]] (3), database (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[SQL]] (10), [[JSON]] (3), [[Databases]] (1)
 > **Env Vars:** sql (10), dsl (6), json (3)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Basic Elastic schema and data design
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/basic-elastic-schema-and-data-design?u=76281980)
+#### [Basic Elastic schema and data design](https://www.linkedin.com/learning/elasticsearch-in-depth/basic-elastic-schema-and-data-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/elasticsearch-in-depth/basic-elastic-schema-and-data-design?u=76281980&t=14)** Other times Elastic is used to supplement the primary database.
 >
-> **[0:18](https://www.linkedin.com/learning/elasticsearch-in-depth/basic-elastic-schema-and-data-design?u=76281980&t=18)** This is common because many relational databases are well suited for dealing with discreet rows and tables or columns of fixed width while Elasticsearch can store documents with megabytes of text and provide sophisticated searching inside these documents such as fuzzy matching or boosting.
+> **[0:18](https://www.linkedin.com/learning/elasticsearch-in-depth/basic-elastic-schema-and-data-design?u=76281980&t=18)** This is common because many [[Relational Databases]] are well suited for dealing with discreet rows and tables or columns of fixed width while [[Elasticsearch]] can store documents with megabytes of text and provide sophisticated searching inside these documents such as fuzzy matching or boosting.
 >
 > **[0:35](https://www.linkedin.com/learning/elasticsearch-in-depth/basic-elastic-schema-and-data-design?u=76281980&t=35)** When using Elasticsearch as a supplemental database, it is possible not to store the initial source document.
 >
@@ -682,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Search]] (7), database (4), [[Elasticsearch]] (2), api (2)
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[Relational Databases]] (1)
 > **Definitions:** is an  (3), is a  (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2)
@@ -690,14 +684,13 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Speakers:** - [instructor] (1)
 
-#### Document database schema topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/document-database-schema-topics?u=76281980)
+#### [Document database schema topics](https://www.linkedin.com/learning/elasticsearch-in-depth/document-database-schema-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/document-database-schema-topics?u=76281980&t=0)** - [Instructor] In this section we're going to cover document database schema topics including types, mapping, and dynamic schemas.
 >
-> **[0:07](https://www.linkedin.com/learning/elasticsearch-in-depth/document-database-schema-topics?u=76281980&t=7)** Before we get started, however, I'd like to take a minute to compare document databases to relational databases.
+> **[0:07](https://www.linkedin.com/learning/elasticsearch-in-depth/document-database-schema-topics?u=76281980&t=7)** Before we get started, however, I'd like to take a minute to compare document [[Databases]] to [[Relational Databases]].
 >
 > **[0:13](https://www.linkedin.com/learning/elasticsearch-in-depth/document-database-schema-topics?u=76281980&t=13)** Relational databases are very common and thus there's lots of information about how to design them.
 >
@@ -707,7 +700,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/elasticsearch-in-depth/document-database-schema-topics?u=76281980&t=34)** There's not as much theory on them.
 >
-> **[0:36](https://www.linkedin.com/learning/elasticsearch-in-depth/document-database-schema-topics?u=76281980&t=36)** Many of them fall into the category of noSQL or newSQL stores and people have to come up with new patterns.
+> **[0:36](https://www.linkedin.com/learning/elasticsearch-in-depth/document-database-schema-topics?u=76281980&t=36)** Many of them fall into the category of [[NoSQL]] or newSQL stores and people have to come up with new patterns.
 >
 > **[0:43](https://www.linkedin.com/learning/elasticsearch-in-depth/document-database-schema-topics?u=76281980&t=43)** Typically in a document database, you do normalizing because joins and other relationships aren't as easy to model.
 >
@@ -801,7 +794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Search]] (5), database (4), [[Databases]] (4), [[Relational Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Relational Databases]] (2), [[NoSQL]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Code Identifiers:** nosql (1), newsql (1)
 > **Best Practices:** rule of thumb (2)
@@ -814,8 +807,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding objects with GeoShape
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/finding-objects-with-geoshape?u=76281980)
+#### [Finding objects with GeoShape](https://www.linkedin.com/learning/elasticsearch-in-depth/finding-objects-with-geoshape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,7 +895,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/elasticsearch-in-depth/finding-objects-with-geoshape?u=76281980&t=224)** Here, we navigate to the Maps interface and we add a layer.
 >
-> **[3:50](https://www.linkedin.com/learning/elasticsearch-in-depth/finding-objects-with-geoshape?u=76281980&t=230)** We could take documents from Elasticsearch.
+> **[3:50](https://www.linkedin.com/learning/elasticsearch-in-depth/finding-objects-with-geoshape?u=76281980&t=230)** We could take documents from [[Elasticsearch]].
 >
 > **[3:54](https://www.linkedin.com/learning/elasticsearch-in-depth/finding-objects-with-geoshape?u=76281980&t=234)** We specify our index using an index pattern, which is location*, and then we add a layer.
 >
@@ -913,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), database (2), career (1), [[Elasticsearch]] (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (1)
 > **Code Identifiers:** geo_point (1), attraction_type (1), match_all (1), geo_distance (1), distance_feature (1)
 > **Definitions:** is a  (4), is an  (1)
 > **UI Navigation:** navigate to (1)
@@ -922,12 +914,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storing data and searching complex nested data
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-and-searching-complex-nested-data?u=76281980)
+#### [Storing data and searching complex nested data](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-and-searching-complex-nested-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-and-searching-complex-nested-data?u=76281980&t=0)** - [Instructor] This section is going to describe how to store, index and search complicated nested elements inside JSON documents.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-and-searching-complex-nested-data?u=76281980&t=0)** - [Instructor] This section is going to describe how to store, index and search complicated nested elements inside [[JSON]] documents.
 >
 > **[0:08](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-and-searching-complex-nested-data?u=76281980&t=8)** Here on line three we've created a document that describes the scores of two teams bowling against each other.
 >
@@ -947,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-and-searching-complex-nested-data?u=76281980&t=42)** There's implication that comes with the object storage and we'll explain them right now.
 >
-> **[0:46](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-and-searching-complex-nested-data?u=76281980&t=46)** Let's do a search for a bowler named John on the Strike Force team.
+> **[0:46](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-and-searching-complex-nested-data?u=76281980&t=46)** Let's do a search for a bowler named [[John the Ripper|John]] on the Strike Force team.
 >
 > **[0:52](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-and-searching-complex-nested-data?u=76281980&t=52)** Notice we found a match but what this means is that there is a document with a bowler named John and a team named Strike Force.
 >
@@ -999,14 +990,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), [[JSON]] (1), teams (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (7), [[JSON]] (1)
 > **Env Vars:** json (1)
 > **UI Navigation:** scroll up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating parent/child relationships between documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/creating-parent-child-relationships-between-documents?u=76281980)
+#### [Creating parent/child relationships between documents](https://www.linkedin.com/learning/elasticsearch-in-depth/creating-parent-child-relationships-between-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1014,7 +1004,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/elasticsearch-in-depth/creating-parent-child-relationships-between-documents?u=76281980&t=6)** So before we get into using this feature, we're going to start off with a few caveats.
 >
-> **[0:11](https://www.linkedin.com/learning/elasticsearch-in-depth/creating-parent-child-relationships-between-documents?u=76281980&t=11)** Elasticsearch is not a relational database.
+> **[0:11](https://www.linkedin.com/learning/elasticsearch-in-depth/creating-parent-child-relationships-between-documents?u=76281980&t=11)** [[Elasticsearch]] is not a relational database.
 >
 > **[0:13](https://www.linkedin.com/learning/elasticsearch-in-depth/creating-parent-child-relationships-between-documents?u=76281980&t=13)** It is a document oriented database.
 >
@@ -1062,7 +1052,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/elasticsearch-in-depth/creating-parent-child-relationships-between-documents?u=76281980&t=113)** We're creating a document in the same index.
 >
-> **[1:56](https://www.linkedin.com/learning/elasticsearch-in-depth/creating-parent-child-relationships-between-documents?u=76281980&t=116)** Its ID is three, but the routing is one.
+> **[1:56](https://www.linkedin.com/learning/elasticsearch-in-depth/creating-parent-child-relationships-between-documents?u=76281980&t=116)** Its ID is three, but the [[Routing]] is one.
 >
 > **[2:00](https://www.linkedin.com/learning/elasticsearch-in-depth/creating-parent-child-relationships-between-documents?u=76281980&t=120)** This is very important.
 >
@@ -1108,15 +1098,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), data (3), database (2), [[Routing]] (2), [[Elasticsearch]] (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Elasticsearch]] (1)
 > **Code Identifiers:** join_field (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - in (1)
 
-#### Combining multiple fields to simplify searching
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/combining-multiple-fields-to-simplify-searching?u=76281980)
+#### [Combining multiple fields to simplify searching](https://www.linkedin.com/learning/elasticsearch-in-depth/combining-multiple-fields-to-simplify-searching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1123,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/elasticsearch-in-depth/combining-multiple-fields-to-simplify-searching?u=76281980&t=31)** On line three are we are using the put verb.
 >
-> **[0:34](https://www.linkedin.com/learning/elasticsearch-in-depth/combining-multiple-fields-to-simplify-searching?u=76281980&t=34)** The target URL is the Bowled Over endpoint and the JSON body has mappings for two fields a first name and a last name.
+> **[0:34](https://www.linkedin.com/learning/elasticsearch-in-depth/combining-multiple-fields-to-simplify-searching?u=76281980&t=34)** The target URL is the Bowled Over endpoint and the [[JSON]] body has mappings for two fields a first name and a last name.
 >
 > **[0:42](https://www.linkedin.com/learning/elasticsearch-in-depth/combining-multiple-fields-to-simplify-searching?u=76281980&t=42)** Notice we used keyword for the fields instead of text.
 >
@@ -1194,7 +1183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), feature (4), [[Search]] (3), next (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** url (3), json (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
@@ -1203,14 +1192,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Elasticsearch pipelines to enhance data
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980)
+#### [Using Elasticsearch pipelines to enhance data](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980&t=0)** - [Instructor] In this section, we're going to learn about a data processing feature in Elastic known as ingest pipelines.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980&t=0)** - [Instructor] In this section, we're going to learn about a [[Data Processing]] feature in Elastic known as ingest pipelines.
 >
-> **[0:06](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980&t=6)** Pipelines provide the ability to do data processing inside the Elasticsearch database.
+> **[0:06](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980&t=6)** Pipelines provide the ability to do data processing inside the [[Elasticsearch]] database.
 >
 > **[0:10](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980&t=10)** This allows us to alter data, add or remove fields, or even prevent a record from being added if it doesn't meet requirements.
 >
@@ -1268,7 +1256,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980&t=126)** It is very common to use IP addresses for logging web traffic.
 >
-> **[2:10](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980&t=130)** Elasticsearch will download GeoIP databases, and it provides a processor, that given a source IP will automatically attach GeoIP information to a document as it's inserted.
+> **[2:10](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980&t=130)** Elasticsearch will download GeoIP [[Databases]], and it provides a processor, that given a source IP will automatically attach GeoIP information to a document as it's inserted.
 >
 > **[2:22](https://www.linkedin.com/learning/elasticsearch-in-depth/using-elasticsearch-pipelines-to-enhance-data?u=76281980&t=142)** On line 50, you can see we're defining another ingest pipeline known as geoip.
 >
@@ -1310,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Elasticsearch]] (2), feature (1), database (1), web (1)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[Elasticsearch]] (2), [[Databases]] (1)
 > **Code Identifiers:** bowled_over (5), add_index_time (2), conditional_pipeline (1)
 > **Definitions:** known as (3), is a  (1)
 > **API Endpoints:** put  (2)
@@ -1318,8 +1306,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storing data with varying structures using flatten
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-with-varying-structures-using-flatten?u=76281980)
+#### [Storing data with varying structures using flatten](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-with-varying-structures-using-flatten?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,11 +1400,11 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-with-varying-structures-using-flatten?u=76281980&t=205)** So if your data is a mix of numbers and strings and dates, it will only sort in a lexigraphical way.
 >
-> **[3:32](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-with-varying-structures-using-flatten?u=76281980&t=212)** Still, it's better than trying to maintain the metadata for every single field inserted in a very dynamic index like this.
+> **[3:32](https://www.linkedin.com/learning/elasticsearch-in-depth/storing-data-with-varying-structures-using-flatten?u=76281980&t=212)** Still, it's better than trying to maintain the [[Metadata]] for every single field inserted in a very dynamic index like this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Search]] (2), feature (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Definitions:** is a  (3), defined as (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (2)
@@ -1428,8 +1415,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filtering, matching, and scoring explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/filtering-matching-and-scoring-explained?u=76281980)
+#### [Filtering, matching, and scoring explained](https://www.linkedin.com/learning/elasticsearch-in-depth/filtering-matching-and-scoring-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1505,7 +1491,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/elasticsearch-in-depth/filtering-matching-and-scoring-explained?u=76281980&t=164)** In this context, a should is like an or, if either of the clauses below it match will return the result.
 >
-> **[2:51](https://www.linkedin.com/learning/elasticsearch-in-depth/filtering-matching-and-scoring-explained?u=76281980&t=171)** So here what we've done is we've done one match, and we're looking for the word "I", a very common word inside a passage, we'll find many passages with "I" and then we're matching another passage looking for the word bowl.
+> **[2:51](https://www.linkedin.com/learning/elasticsearch-in-depth/filtering-matching-and-scoring-explained?u=76281980&t=171)** So here what we've done is we've done one match, and we're looking for the [[Microsoft Word|word]] "I", a very common word inside a passage, we'll find many passages with "I" and then we're matching another passage looking for the word bowl.
 >
 > **[3:03](https://www.linkedin.com/learning/elasticsearch-in-depth/filtering-matching-and-scoring-explained?u=76281980&t=183)** Notice in this case, we've applied a boost on line 87.
 >
@@ -1551,15 +1537,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), data (5), [[Search]] (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8)
 > **Definitions:** is a  (7), known as (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** bowled_over_artist_guild (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieving large result sets using the Scroll API
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/retrieving-large-result-sets-using-the-scroll-api?u=76281980)
+#### [Retrieving large result sets using the Scroll API](https://www.linkedin.com/learning/elasticsearch-in-depth/retrieving-large-result-sets-using-the-scroll-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1635,14 +1620,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Search]] (4), feature (2), next (1)
 > **Env Vars:** pit (12)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - [instructor] (1)
 
-#### Performing aggregations
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/performing-aggregations?u=76281980)
+#### [Performing aggregations](https://www.linkedin.com/learning/elasticsearch-in-depth/performing-aggregations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1692,7 +1675,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/elasticsearch-in-depth/performing-aggregations?u=76281980&t=100)** Getting used to writing these aggregations can be a little bit tricky, so I have a simple tip.
 >
-> **[1:44](https://www.linkedin.com/learning/elasticsearch-in-depth/performing-aggregations?u=76281980&t=104)** I use the SQL interface and I prototype some of my queries there.
+> **[1:44](https://www.linkedin.com/learning/elasticsearch-in-depth/performing-aggregations?u=76281980&t=104)** I use the [[SQL]] interface and I prototype some of my queries there.
 >
 > **[1:48](https://www.linkedin.com/learning/elasticsearch-in-depth/performing-aggregations?u=76281980&t=108)** So here I'm doing an SQL group in count, where I'm selecting a league name and account, and grouping by the league name.
 >
@@ -1712,18 +1695,17 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/elasticsearch-in-depth/performing-aggregations?u=76281980&t=161)** On the right, we could see the intervals are broken by groups of 20 and we could see how many people have bowled a 120, how many games have bowled a 160, how many people bowled a 240.
 >
-> **[2:52](https://www.linkedin.com/learning/elasticsearch-in-depth/performing-aggregations?u=76281980&t=172)** There are a lot of aggregation queries and options in Elasticsearch, and we can't cover them all, but this gives you a good jumpstart to give you some ideas of what you can do.
+> **[2:52](https://www.linkedin.com/learning/elasticsearch-in-depth/performing-aggregations?u=76281980&t=172)** There are a lot of aggregation queries and options in [[Elasticsearch]], and we can't cover them all, but this gives you a good jumpstart to give you some ideas of what you can do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), game (2), teams (2), [[Search]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Elasticsearch]] (1)
 > **Env Vars:** sql (2), dsl (1)
 > **Code Identifiers:** bowled_over_team_scores (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Indexing templates to define index properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/indexing-templates-to-define-index-properties?u=76281980)
+#### [Indexing templates to define index properties](https://www.linkedin.com/learning/elasticsearch-in-depth/indexing-templates-to-define-index-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1797,14 +1779,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (1), [[Search]] (1), application (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** template (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing expiring data with lifecycle management
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/implementing-expiring-data-with-lifecycle-management?u=76281980)
+#### [Implementing expiring data with lifecycle management](https://www.linkedin.com/learning/elasticsearch-in-depth/implementing-expiring-data-with-lifecycle-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1814,9 +1794,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/elasticsearch-in-depth/implementing-expiring-data-with-lifecycle-management?u=76281980&t=18)** A common use case for ILM is when implementing a hot, warm, cold architecture.
 >
-> **[0:23](https://www.linkedin.com/learning/elasticsearch-in-depth/implementing-expiring-data-with-lifecycle-management?u=76281980&t=23)** Data moves between hardware classes as it's searched less often.
+> **[0:23](https://www.linkedin.com/learning/elasticsearch-in-depth/implementing-expiring-data-with-lifecycle-management?u=76281980&t=23)** Data moves between [[Hardware]] classes as it's searched less often.
 >
-> **[0:28](https://www.linkedin.com/learning/elasticsearch-in-depth/implementing-expiring-data-with-lifecycle-management?u=76281980&t=28)** These type of operations can be done manually by scripting or Chron or some kind of scheduling tool, but Elasticsearch has its own inbuilt ILM.
+> **[0:28](https://www.linkedin.com/learning/elasticsearch-in-depth/implementing-expiring-data-with-lifecycle-management?u=76281980&t=28)** These type of operations can be done manually by scripting or Chron or some kind of scheduling tool, but [[Elasticsearch]] has its own inbuilt ILM.
 >
 > **[0:36](https://www.linkedin.com/learning/elasticsearch-in-depth/implementing-expiring-data-with-lifecycle-management?u=76281980&t=36)** Let's take a look at how ILM works.
 >
@@ -1888,7 +1868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), management (3), next (2), feature (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Elasticsearch]] (1)
 > **Env Vars:** ilm (8), ttl (4)
 > **Definitions:** is a  (3)
 > **Exercise Files:** template (2)
@@ -1897,12 +1877,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with index aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/working-with-index-aliases?u=76281980)
+#### [Working with index aliases](https://www.linkedin.com/learning/elasticsearch-in-depth/working-with-index-aliases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/working-with-index-aliases?u=76281980&t=0)** - [Instructor] This section is going to show how to use index aliases to simplify data management.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/working-with-index-aliases?u=76281980&t=0)** - [Instructor] This section is going to show how to use index aliases to simplify [[Data Management]].
 >
 > **[0:05](https://www.linkedin.com/learning/elasticsearch-in-depth/working-with-index-aliases?u=76281980&t=5)** To understand this, let's think of a few examples.
 >
@@ -1914,7 +1893,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/elasticsearch-in-depth/working-with-index-aliases?u=76281980&t=37)** Let me explain.
 >
-> **[0:38](https://www.linkedin.com/learning/elasticsearch-in-depth/working-with-index-aliases?u=76281980&t=38)** In Elasticsearch, we could use wild cards or list multiple indexes to do a query.
+> **[0:38](https://www.linkedin.com/learning/elasticsearch-in-depth/working-with-index-aliases?u=76281980&t=38)** In [[Elasticsearch]], we could use wild cards or list multiple indexes to do a query.
 >
 > **[0:44](https://www.linkedin.com/learning/elasticsearch-in-depth/working-with-index-aliases?u=76281980&t=44)** Here we're doing a match query that searches over two indexes.
 >
@@ -1974,7 +1953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Elasticsearch]] (2), api (2), [[Search]] (2), management (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[Data Management]] (1)
 > **CLI Commands:** find (1), go run (1), make (1)
 > **Env Vars:** api (2)
 > **Exercise Files:** template (1)
@@ -1986,8 +1965,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Updating documents using scripting
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-documents-using-scripting?u=76281980)
+#### [Updating documents using scripting](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-documents-using-scripting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2087,7 +2065,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-documents-using-scripting?u=76281980&t=223)** Well, now we have a problem because the bar tab is set three times and we only ordered a single soda.
 >
-> **[3:49](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-documents-using-scripting?u=76281980&t=229)** To deal with this type of problem Elasticsearch offers optimistic concurrency controls meaning it's a conditional update.
+> **[3:49](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-documents-using-scripting?u=76281980&t=229)** To deal with this type of problem [[Elasticsearch]] offers optimistic concurrency controls meaning it's a conditional update.
 >
 > **[3:57](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-documents-using-scripting?u=76281980&t=237)** So what we'll do here is we will append this field which says only execute this script if the document is at sequence number 6.
 >
@@ -2109,15 +2087,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (2), game (2), [[Search]] (1), data (1), [[Elasticsearch]] (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving scripts for reuse
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/saving-scripts-for-reuse?u=76281980)
+#### [Saving scripts for reuse](https://www.linkedin.com/learning/elasticsearch-in-depth/saving-scripts-for-reuse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2173,16 +2150,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Scripting]] (2), application (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating by query
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-by-query?u=76281980)
+#### [Updating by query](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-by-query?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-by-query?u=76281980&t=0)** - Update by Query is a feature in Elasticsearch that allows us to select one or more documents using a filtered DSL or a Lucene query syntax and modify them using a variety of methods.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-by-query?u=76281980&t=0)** - Update by Query is a feature in [[Elasticsearch]] that allows us to select one or more documents using a filtered DSL or a Lucene query syntax and modify them using a variety of methods.
 >
 > **[0:11](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-by-query?u=76281980&t=11)** This is of course useful when you know the IDs of a document but there's many of them.
 >
@@ -2254,7 +2229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Elasticsearch]] (1), game (1), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (1)
 > **Code Identifiers:** bowled_over_games (1)
 > **Env Vars:** dsl (1)
 > **Versions:** 9.25 (1)
@@ -2262,8 +2237,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - update (1)
 
-#### Using document versioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/using-document-versioning?u=76281980)
+#### [Using document versioning](https://www.linkedin.com/learning/elasticsearch-in-depth/using-document-versioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2271,9 +2245,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/elasticsearch-in-depth/using-document-versioning?u=76281980&t=7)** Before we show how to do it, let's take a moment to come up with a case where we might need this feature.
 >
-> **[0:12](https://www.linkedin.com/learning/elasticsearch-in-depth/using-document-versioning?u=76281980&t=12)** Transactions and data stores take many forms.
+> **[0:12](https://www.linkedin.com/learning/elasticsearch-in-depth/using-document-versioning?u=76281980&t=12)** Transactions and data stores take many [[Forms]].
 >
-> **[0:15](https://www.linkedin.com/learning/elasticsearch-in-depth/using-document-versioning?u=76281980&t=15)** Many databases are categorized as online transaction processing, or OLTP, and have strict transaction locking and serialization features, often grouped into a category of things called ACID transactions.
+> **[0:15](https://www.linkedin.com/learning/elasticsearch-in-depth/using-document-versioning?u=76281980&t=15)** Many [[Databases]] are categorized as online transaction processing, or OLTP, and have strict transaction locking and serialization features, often grouped into a category of things called ACID transactions.
 >
 > **[0:29](https://www.linkedin.com/learning/elasticsearch-in-depth/using-document-versioning?u=76281980&t=29)** Taking this to another level, sometimes transactions are needed between two systems or distributed transactions.
 >
@@ -2365,15 +2339,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), feature (1), [[Forms]] (1), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Databases]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** oltp (1), acid (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing long-running operations using Task API
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/managing-long-running-operations-using-task-api?u=76281980)
+#### [Managing long-running operations using Task API](https://www.linkedin.com/learning/elasticsearch-in-depth/managing-long-running-operations-using-task-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2409,7 +2382,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/elasticsearch-in-depth/managing-long-running-operations-using-task-api?u=76281980&t=79)** Well firstly, we could list all the tasks.
 >
-> **[1:22](https://www.linkedin.com/learning/elasticsearch-in-depth/managing-long-running-operations-using-task-api?u=76281980&t=82)** On the right, you'll see here there's some tasks that are actually being made by Elasticsearch itself so they're not all relevant to things that users are doing.
+> **[1:22](https://www.linkedin.com/learning/elasticsearch-in-depth/managing-long-running-operations-using-task-api?u=76281980&t=82)** On the right, you'll see here there's some tasks that are actually being made by [[Elasticsearch]] itself so they're not all relevant to things that users are doing.
 >
 > **[1:30](https://www.linkedin.com/learning/elasticsearch-in-depth/managing-long-running-operations-using-task-api?u=76281980&t=90)** We could seek out a specific task.
 >
@@ -2439,7 +2412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1), [[Search]] (1), database (1), [[Elasticsearch]] (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (1)
 > **Analogies:** imagine (2), for example (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -2449,8 +2422,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/elasticsearch-in-depth/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >

@@ -89,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of SQL in financial reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/the-power-of-sql-in-financial-reports?u=76281980)
+#### [The power of SQL in financial reports](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/the-power-of-sql-in-financial-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/the-power-of-sql-in-financial-reports?u=76281980&t=16)** In this course, we will discover which reports and formats are required by the US general accepted accounting principles.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/the-power-of-sql-in-financial-reports?u=76281980&t=24)** We will create a balance sheet and an income statement and sharpen our knowledge of SQL's incredible capabilities.
+> **[0:24](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/the-power-of-sql-in-financial-reports?u=76281980&t=24)** We will create a balance sheet and an income statement and sharpen our knowledge of [[SQL]]'s incredible capabilities.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/the-power-of-sql-in-financial-reports?u=76281980&t=31)** Let's start this journey of learning how to create some of the most important financial reports that all companies needs.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), business (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 
@@ -117,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Financial reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/financial-reports?u=76281980)
+#### [Financial reports](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/financial-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/financial-reports?u=76281980&t=28)** This difference will be essential when we define which records we will use.
 >
-> **[0:34](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/financial-reports?u=76281980&t=34)** So let's go through the main required financial statements.
+> **[0:34](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/financial-reports?u=76281980&t=34)** So let's go through the main required [[Financial Statements]].
 >
 > **[0:38](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/financial-reports?u=76281980&t=38)** The first one, balance sheet.
 >
@@ -210,7 +208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Env Vars:** gaap (2)
 > **Definitions:** stands for (1), means that (1)
 > **Analogies:** for instance (2)
@@ -218,8 +216,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the project's data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-project-s-data?u=76281980)
+#### [Understanding the project's data](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-project-s-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-project-s-data?u=76281980&t=4)** This is a practical project because I believe that learning needs to come together with practice.
 >
-> **[0:11](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-project-s-data?u=76281980&t=11)** And to compose our business scenario, I created a department store, and in our database, we'll see products such as t-shirts, blouses and sweaters.
+> **[0:11](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-project-s-data?u=76281980&t=11)** And to [[Jetpack Compose|compose]] our business scenario, I created a department store, and in our database, we'll see [[Microsoft Products|products]] such as t-shirts, blouses and sweaters.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-project-s-data?u=76281980&t=21)** To illustrate the inputs and outputs of items, we have two tables.
 >
@@ -279,15 +276,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), database (2), [[Jetpack Compose|Compose]] (1), business (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** we covered (1), previous video (1), later in (1), in the next (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the user case
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/exploring-the-user-case?u=76281980)
+#### [Exploring the user case](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/exploring-the-user-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,12 +310,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cash Account, part 1: Using CTE
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980)
+#### [Cash Account, part 1: Using CTE](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=0)** - [Instructor] The time has come to learn about one of the most powerful statements in SQL, the CTE.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=0)** - [Instructor] The time has come to learn about one of the most powerful statements in [[SQL]], the CTE.
 >
 > **[0:05](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=5)** I personally love this statement because it helps me to solve the most complex problems.
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=60)** Remember that basically all the transactions affect the cash account.
 >
-> **[1:04](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=64)** In our scenario, we have five events: loan in, purchase of inventory, purchase of equipment, sale of products, and payments of expenses such as rent, loans, interest of loans, and so on and so forth.
+> **[1:04](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=64)** In our scenario, we have five events: loan in, purchase of inventory, purchase of equipment, sale of [[Microsoft Products|products]], and payments of expenses such as rent, loans, interest of loans, and so on and so forth.
 >
 > **[1:20](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-1-using-cte?u=76281980&t=80)** Another fundamental point is to define the time range that our reports will cover.
 >
@@ -447,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Products|Products]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** cte (13), sql (2)
 > **Code Identifiers:** payment_at (3), purchase_dates (2), total_amount (2), payment_method (1), actual_payment_at (1)
 > **Definitions:** stands for (1), in other words (1), is a  (1), is an  (1)
@@ -456,8 +451,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 
-#### Cash Account, part 2: Using CTE
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-2-using-cte?u=76281980)
+#### [Cash Account, part 2: Using CTE](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-2-using-cte?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,7 +621,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), data (1)
 > **Code Identifiers:** total_amount (7), date_part (4), loan_in (4), actual_payment_at (3), period_year (3)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), select the (2)
@@ -635,9 +628,9 @@ created: 2026-05-02
 > **Env Vars:** cte (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** remember to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Cash Account, part 3: Union
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-3-union?u=76281980)
+#### [Cash Account, part 3: Union](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-3-union?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-3-union?u=76281980&t=9)** Now we have the table purchase, revenue, loan, and expenses.
 >
-> **[0:14](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-3-union?u=76281980&t=14)** And we'll use SQL's UNION statements to unify all those tables to create the cash account.
+> **[0:14](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-3-union?u=76281980&t=14)** And we'll use [[SQL]]'s UNION statements to unify all those tables to create the cash account.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-3-union?u=76281980&t=21)** The UNION statement joins the rows of one table and stacks the rows of the second table at the end.
 >
@@ -751,7 +744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** union (21), select (8), join (5), cross (2), sql (1)
 > **SQL:** select (8), join (5)
 > **Code Identifiers:** period_year (4), cash_union (3), total_amount (2), cash_amount (1)
@@ -759,8 +752,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cash Account, part 4: Window function and materialized view
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-4-window-function-and-materialized-view?u=76281980)
+#### [Cash Account, part 4: Window function and materialized view](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-4-window-function-and-materialized-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,7 +812,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-4-window-function-and-materialized-view?u=76281980&t=201)** So now can you see that the value from the year 2021 has been added to the year 2022 in the total_amount field?
 >
-> **[3:30](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-4-window-function-and-materialized-view?u=76281980&t=210)** Now that we can compare the results, I hope that it became easier to understand what SQL is doing here.
+> **[3:30](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-4-window-function-and-materialized-view?u=76281980&t=210)** Now that we can compare the results, I hope that it became easier to understand what [[SQL]] is doing here.
 >
 > **[3:37](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/cash-account-part-4-window-function-and-materialized-view?u=76281980&t=217)** In 2021, the original value is 320,000.
 >
@@ -874,7 +866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (2), hit (2), next (2), power (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Code Identifiers:** account_cash (4), period_year (2), total_amount (2), cash_amount (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Env Vars:** sql (2)
@@ -883,12 +875,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** vs code (1)
 
-#### Creating the Accounts Receivable Account
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980)
+#### [Creating the Accounts Receivable Account](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=0)** - [Instructor] We will now create our second asset account, which we'll refer to the sales we made, but we have not yet received the money for the products delivered, which is the account receivable.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=0)** - [Instructor] We will now create our second asset account, which we'll refer to the sales we made, but we have not yet received the money for the [[Microsoft Products|products]] delivered, which is the account receivable.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=13)** In our scenario, we only have this type of case in December when we make sales via credit card.
 >
@@ -898,7 +889,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=27)** So, let's go to the code.
 >
-> **[0:30](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=30)** Let's create a new file here in PL/SQL.
+> **[0:30](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=30)** Let's create a new file here in PL/[[SQL]].
 >
 > **[0:34](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/creating-the-accounts-receivable-account?u=76281980&t=34)** Yeah, now we have a new file, and let's start selecting the date_part of payment_at, and let's call that period_year.
 >
@@ -966,7 +957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Products|Products]] (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[SQL]] (1)
 > **Code Identifiers:** date_part (4), payment_at (3), account_accounts_receivable (3), period_year (1), total_amount (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cte (1), sql (1)
@@ -975,8 +966,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Property Land and Equipment Account
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980)
+#### [Understanding Property Land and Equipment Account](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1028,7 +1018,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=119)** The calendar table is a table that has the first date of each month and it has 50 years of dates.
 >
-> **[2:07](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=127)** So let's start by creating a new SQL file.
+> **[2:07](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=127)** So let's start by creating a new [[SQL]] file.
 >
 > **[2:11](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-property-land-and-equipment-account?u=76281980&t=131)** Let's click here.
 >
@@ -1128,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Definitions:** is a  (2), refers to (1), means that (1)
 > **Env Vars:** sql (1), cte (1)
 > **Cross-References:** in the next (1)
@@ -1136,8 +1126,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Window function and depreciation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/window-function-and-depreciation?u=76281980)
+#### [Window function and depreciation](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/window-function-and-depreciation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1261,15 +1250,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** means that (2), in other words (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Completing the depreciation transaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/completing-the-depreciation-transaction?u=76281980)
+#### [Completing the depreciation transaction](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/completing-the-depreciation-transaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,7 +1396,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **Code Identifiers:** period_year (6), ple_purchase (6), ple_union (4), total_amount (4), ple_sum (3)
 > **UI Navigation:** go to (2), select the (2), open the (1), scroll down (1)
 > **CLI Commands:** find (1)
@@ -1417,8 +1403,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Inventory Account
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-inventory-account?u=76281980)
+#### [Challenge: Inventory Account](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-inventory-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1428,7 +1413,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-inventory-account?u=76281980&t=16)** To begin with, we need to consider the dates where the money actually enter or left our company.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-inventory-account?u=76281980&t=22)** Also, we need to deduct from the purchase inventory the products that were sold.
+> **[0:22](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-inventory-account?u=76281980&t=22)** Also, we need to deduct from the purchase inventory the [[Microsoft Products|products]] that were sold.
 >
 > **[0:27](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-inventory-account?u=76281980&t=27)** But the issue here is that the amount to be deducted from the sale cannot have a profit.
 >
@@ -1448,14 +1433,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Inventory Account
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-inventory-account?u=76281980)
+#### [Solution: Inventory Account](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-inventory-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1467,7 +1451,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-inventory-account?u=76281980&t=9)** Let's now move on to the solution together.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-inventory-account?u=76281980&t=12)** Let's start creating a SQL file.
+> **[0:12](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-inventory-account?u=76281980&t=12)** Let's start creating a [[SQL]] file.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-inventory-account?u=76281980&t=15)** Okay, now let's start with the width.
 >
@@ -1597,7 +1581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[SQL]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** period_year (5), total_amount (5), product_price (3), product_name (3), inventory_union (3)
 > **UI Navigation:** select the (3), go to (1), open the (1), scroll up (1)
 > **Env Vars:** sql (1), ecr (1)
@@ -1610,8 +1594,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building the Loan Account
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-loan-account?u=76281980)
+#### [Building the Loan Account](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-loan-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1655,7 +1638,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-loan-account?u=76281980&t=106)** Now we can close this code.
 >
-> **[1:49](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-loan-account?u=76281980&t=109)** Let's open our table and let's create a new SQL file.
+> **[1:49](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-loan-account?u=76281980&t=109)** Let's open our table and let's create a new [[SQL]] file.
 >
 > **[1:53](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-loan-account?u=76281980&t=113)** Great.
 >
@@ -1783,7 +1766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), next (3), product (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **UI Navigation:** select the (3), open the (1), navigate to (1)
 > **Cross-References:** in the next (2), in the last (1), go back to (1)
 > **Analogies:** for example (1), for instance (1)
@@ -1791,8 +1774,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retained Earnings Account, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-1?u=76281980)
+#### [Retained Earnings Account, part 1](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1804,7 +1786,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-1?u=76281980&t=21)** However, our company has started with loans, and not with equity, so we will not have a capital stock account, only a retained earnings account.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-1?u=76281980&t=32)** In this account, we have money coming in through the sales of the company products and services, while the expenses necessary for the company's operation is a type of expenses.
+> **[0:32](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-1?u=76281980&t=32)** In this account, we have money coming in through the sales of the company [[Microsoft Products|products]] and services, while the expenses necessary for the company's operation is a type of expenses.
 >
 > **[0:43](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-1?u=76281980&t=43)** This table will be a little different from the others we have built so far, this is because we need to break down each transaction that was recorded, and at the same time, we need to add up the sales from the previous year to the next year's transactions.
 >
@@ -1818,7 +1800,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-1?u=76281980&t=83)** So, let's go to our code.
 >
-> **[1:27](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-1?u=76281980&t=87)** Let's create a file here, so let's create a new SQL file, and let's start with the with.
+> **[1:27](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-1?u=76281980&t=87)** Let's create a file here, so let's create a new [[SQL]] file, and let's start with the with.
 >
 > **[1:34](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-1?u=76281980&t=94)** Okay, here, what we need to do is the sales of the products we've made.
 >
@@ -1898,7 +1880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (4), next (2), database (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[SQL]] (1)
 > **Code Identifiers:** order_process (3), date_part (2), transaction_type (2), payment_at (1), period_year (1)
 > **UI Navigation:** go to (1), navigate to (1), click on (1), scroll down (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -1906,12 +1888,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retained Earnings Account, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-2?u=76281980)
+#### [Retained Earnings Account, part 2](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-2?u=76281980&t=0)** - [Instructor] At this point, we already have the sales value and the cost of products sold.
+> **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-2?u=76281980&t=0)** - [Instructor] At this point, we already have the sales value and the cost of [[Microsoft Products|products]] sold.
 >
 > **[0:06](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/retained-earnings-account-part-2?u=76281980&t=6)** To continue building the retained earnings account, we'll need to consider equipment depreciation and expenses by type.
 >
@@ -2047,7 +2028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** transaction_type (3), payment_type (3), depreciation_dates (2), depreciation_sum (2), order_process (2)
 > **UI Navigation:** go to (1), navigate to (1), open the (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
@@ -2056,8 +2037,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 
-#### Challenge: Retained Earnings Account
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-retained-earnings-account?u=76281980)
+#### [Challenge: Retained Earnings Account](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-retained-earnings-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2079,13 +2059,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Retained Earnings Account
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-retained-earnings-account?u=76281980)
+#### [Solution: Retained Earnings Account](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-retained-earnings-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2127,7 +2105,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-retained-earnings-account?u=76281980&t=124)** And also, let's create another manual field with 0, and call this field order_process.
 >
-> **[2:13](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-retained-earnings-account?u=76281980&t=133)** And to unite the select with the rest, we need to have exact the same fields, so I'm going to create a field 0 and call it total_amount.
+> **[2:13](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-retained-earnings-account?u=76281980&t=133)** And to unite the select with the [[Representational State Transfer (REST)|rest]], we need to have exact the same fields, so I'm going to create a field 0 and call it total_amount.
 >
 > **[2:25](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-retained-earnings-account?u=76281980&t=145)** These fields are from the table, calendar.
 >
@@ -2253,7 +2231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** order_process (6), period_year (4), total_amount (4), new_total_amount (4), re_union (3)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** select the (2), scroll up (1)
@@ -2267,8 +2245,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building the Assets section
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980)
+#### [Building the Assets section](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2280,7 +2257,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980&t=26)** Now, let's get to the code.
 >
-> **[0:29](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980&t=29)** Let's start by creating a SQL document.
+> **[0:29](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980&t=29)** Let's start by creating a [[SQL]] document.
 >
 > **[0:32](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980&t=32)** Okay, and we'll use a CTE to build the assets account.
 >
@@ -2428,7 +2405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** order_process (6), assets_union (3), period_year (3), new_total_amount (3), date_part (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1), cte (1)
@@ -2437,14 +2414,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building the Liabilities section
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-liabilities-section?u=76281980)
+#### [Building the Liabilities section](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-liabilities-section?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-liabilities-section?u=76281980&t=0)** - [Instructor] The handling of liabilities will be very similar to asset section we just completed.
 >
-> **[0:05](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-liabilities-section?u=76281980&t=5)** So, let's start by creating a SQL file.
+> **[0:05](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-liabilities-section?u=76281980&t=5)** So, let's start by creating a [[SQL]] file.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-liabilities-section?u=76281980&t=9)** And we'll use CTE.
 >
@@ -2544,7 +2520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** order_process (5), period_year (3), total_amount (3), liabilities_union (2), account_loan (2)
 > **UI Navigation:** select the (2), go to (1)
 > **Env Vars:** sql (1), cte (1)
@@ -2553,8 +2529,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building the Owner's Equity section
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-owner-s-equity-section?u=76281980)
+#### [Building the Owner's Equity section](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-owner-s-equity-section?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2562,7 +2537,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-owner-s-equity-section?u=76281980&t=6)** As the structure of the retained earnings is different from the orders, the query in this section will be as well.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-owner-s-equity-section?u=76281980&t=12)** Let's start by creating a SQL document.
+> **[0:12](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-owner-s-equity-section?u=76281980&t=12)** Let's start by creating a [[SQL]] document.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-owner-s-equity-section?u=76281980&t=16)** Okay, and we'll use a CTE, so with, and let's start by creating the oe_union temp table.
 >
@@ -2664,7 +2639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** oe_union (3), section_bs (1)
 > **UI Navigation:** select the (3)
 > **Env Vars:** sql (1), cte (1)
@@ -2672,8 +2647,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Balance sheet year 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-balance-sheet-year-1?u=76281980)
+#### [Challenge: Balance sheet year 1](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-balance-sheet-year-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2699,8 +2673,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Balance sheet year 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-balance-sheet-year-1?u=76281980)
+#### [Solution: Balance sheet year 1](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-balance-sheet-year-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2718,7 +2691,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-balance-sheet-year-1?u=76281980&t=21)** Now we just need to put all the sections together.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-balance-sheet-year-1?u=76281980&t=25)** Let's start by creating a SQL file and we'll use CTE.
+> **[0:25](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-balance-sheet-year-1?u=76281980&t=25)** Let's start by creating a [[SQL]] file and we'll use CTE.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-balance-sheet-year-1?u=76281980&t=30)** So since then, let's start with the with.
 >
@@ -2772,7 +2745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** balance_sheet (4), section_assets (2), section_owners_equity (2), section_liabilities (1), period_year (1)
 > **Env Vars:** sql (1), cte (1)
 > **Cross-References:** next chapter (1)
@@ -2785,8 +2758,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-income-statement?u=76281980)
+#### [Understanding the income statement](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-income-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2808,7 +2780,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-income-statement?u=76281980&t=77)** Unlike the balance sheet, which analyzes any and all financial movement, the income statement analyzes the company's revenue and expenses.
 >
-> **[1:29](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-income-statement?u=76281980&t=89)** As we have already seen during the construction of the balance sheet, revenue and expenses are in the retained earnings account, where the sales of products and services are revenue and cash outflow are expenses.
+> **[1:29](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-income-statement?u=76281980&t=89)** As we have already seen during the construction of the balance sheet, revenue and expenses are in the retained earnings account, where the sales of [[Microsoft Products|products]] and services are revenue and cash outflow are expenses.
 >
 > **[1:45](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-income-statement?u=76281980&t=105)** Also, it is essential that all expenses are detailed in the report income statement.
 >
@@ -2827,8 +2799,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-income-statement?u=76281980)
+#### [Challenge: Income statement](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/challenge-income-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2846,13 +2817,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-income-statement?u=76281980)
+#### [Solution: Income statement](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-income-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2878,7 +2847,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-income-statement?u=76281980&t=53)** It's so simple that we don't even need the CT since the logic is very straightforward.
 >
-> **[1:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-income-statement?u=76281980&t=60)** So let's go to our code and let's create a SQL file.
+> **[1:00](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-income-statement?u=76281980&t=60)** So let's go to our code and let's create a [[SQL]] file.
 >
 > **[1:05](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/solution-income-statement?u=76281980&t=65)** Now let's select the period_year.
 >
@@ -2948,7 +2917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** period_year (2), transaction_type (2), income_statement (2), retained_earnings_detail (1), retained_earnings (1)
 > **UI Navigation:** go to (2), select the (2)
 > **Env Vars:** gaap (1), sql (1), materialized (1)
@@ -2961,8 +2930,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Balance sheet and income statement considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980)
+#### [Balance sheet and income statement considerations](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2988,7 +2956,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980&t=75)** Although the income statement has a lower risk, since it's using accounts instead of sections, there is still a risk since the account retained earnings details table, that is the source for this report, is a materialized view.
 >
-> **[1:31](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980&t=91)** Usually this process should be automated by a team, like data engineering, that would orchestrate the order of the updates and set up alerts when the process fails for whatever reason.
+> **[1:31](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980&t=91)** Usually this process should be automated by a team, like [[Data Engineering]], that would orchestrate the order of the updates and set up alerts when the process fails for whatever reason.
 >
 > **[1:44](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980&t=104)** But, for those things that do not have data engineers, for example, it's even more important to have this process mapped and documented so that when you deliver reports to the business areas, you do so with the certainty that the data has been updated correctly.
 >
@@ -3042,7 +3010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), database (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1)
 > **Analogies:** for instance (2), for example (1), such as (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
@@ -3051,8 +3019,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [tutor] (1)
 
-#### Your SQL journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/your-sql-journey?u=76281980)
+#### [Your SQL journey](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/your-sql-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3068,13 +3035,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/your-sql-journey?u=76281980&t=29)** Or maybe you work on a finance team.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/your-sql-journey?u=76281980&t=32)** You now have tools to manipulate data using SQL and create materialized views.
+> **[0:32](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/your-sql-journey?u=76281980&t=32)** You now have tools to manipulate data using [[SQL]] and create materialized views.
 >
 > **[0:38](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/your-sql-journey?u=76281980&t=38)** No matter your role or profession, I hope the journey has been as uplifting for you as it has been for me.
 >
 > **[0:44](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/your-sql-journey?u=76281980&t=44)** And above all, I hope you can apply this knowledge to help you and your company became increasingly data-driven.
 >
-> **[0:51](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/your-sql-journey?u=76281980&t=51)** If you have any questions or want to better understand the world of SQL, contact me on LinkedIn.
+> **[0:51](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/your-sql-journey?u=76281980&t=51)** If you have any questions or want to better understand the world of SQL, contact me on [[LinkedIn]].
 >
 > **[0:57](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/your-sql-journey?u=76281980&t=57)** Now, the ball is in your court.
 >
@@ -3082,7 +3049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

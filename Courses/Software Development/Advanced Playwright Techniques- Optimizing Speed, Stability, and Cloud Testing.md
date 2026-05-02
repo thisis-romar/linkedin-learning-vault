@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced Playwright techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/advanced-playwright-techniques?u=76281980)
+#### [Advanced Playwright techniques](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/advanced-playwright-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,23 +111,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (1), cloud (1), [[Engineering]] (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - let (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-you-should-know?u=76281980&t=0)** - [Qambar] You should know that I have got your back.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-you-should-know?u=76281980&t=2)** If you're looking for a more intermediate-level course on Playwright, I've got a course on Design Patterns that you can watch.
+> **[0:02](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-you-should-know?u=76281980&t=2)** If you're looking for a more intermediate-level course on Playwright, I've got a course on [[Design Patterns]] that you can watch.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-you-should-know?u=76281980&t=10)** If you have got any questions, I'm here for you, just click on this Question & Answer tab, and ask your question.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-you-should-know?u=76281980&t=18)** And don't forget, the Exercise Files, including challenges and solutions are present on GitHub.
+> **[0:18](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-you-should-know?u=76281980&t=18)** And don't forget, the Exercise Files, including challenges and solutions are present on [[GitHub]].
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-you-should-know?u=76281980&t=23)** Just click on Get files.
 
@@ -146,8 +143,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Green testing: Speed, efficiency and sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980)
+#### [Green testing: Speed, efficiency and sustainability](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,7 +159,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980&t=15)** It's about reducing waste, lowering costs, and creating sustainable, high-performance test suites.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980&t=21)** We often talk about green energy and sustainable living, but what about green software development?
+> **[0:21](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980&t=21)** We often talk about green energy and sustainable living, but what about green [[Software Development]]?
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980&t=27)** Computing resources aren't unlimited.
 >
@@ -197,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980&t=116)** If a test isn't bringing value, it shouldn't be there.
 >
-> **[2:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980&t=120)** This is what I call the joy principle of test automation.
+> **[2:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980&t=120)** This is what I call the joy principle of [[Test Automation]].
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980&t=125)** If a test isn't providing clear value, it needs to be removed or refactored.
 >
@@ -237,7 +233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Software Development]] (2), [[Automation]] (2), teams (1), ci (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Test Automation]] (1)
 > **CLI Commands:** make (2), cd (1)
 > **Code Identifiers:** storagestate (1)
 > **Env Vars:** cpu (1)
@@ -246,8 +242,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diagnosing performance bottlenecks with VS Code metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/diagnosing-performance-bottlenecks-with-vs-code-metrics?u=76281980)
+#### [Diagnosing performance bottlenecks with VS Code metrics](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/diagnosing-performance-bottlenecks-with-vs-code-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +312,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), data (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** waituntil (1)
@@ -325,9 +319,9 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
+> **Best Practices:** don't forget (1)
 
-#### Using storageState to avoid repeated logins
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/using-storagestate-to-avoid-repeated-logins?u=76281980)
+#### [Using storageState to avoid repeated logins](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/using-storagestate-to-avoid-repeated-logins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -359,7 +353,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/using-storagestate-to-avoid-repeated-logins?u=76281980&t=111)** First of all, I will type test.use, and I will specify I want to use a storage state.
 >
-> **[2:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/using-storagestate-to-avoid-repeated-logins?u=76281980&t=120)** And this will be stored in the auth.json file.
+> **[2:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/using-storagestate-to-avoid-repeated-logins?u=76281980&t=120)** And this will be stored in the auth.[[JSON]] file.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/using-storagestate-to-avoid-repeated-logins?u=76281980&t=125)** Now, question is where does this file come from?
 >
@@ -437,7 +431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), web (1), feature (1)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **Prerequisites:** setup (9)
 > **Definitions:** is called (4), is a  (2)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (3), [directtest.com](https://directtest.com) (1)
@@ -446,8 +440,7 @@ created: 2026-05-02
 > **Env Vars:** json (1), url (1), https (1)
 > **Code Identifiers:** getbyrole (2)
 
-#### Configuring project dependencies for cookie setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980)
+#### [Configuring project dependencies for cookie setup](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +452,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=21)** You don't need to worry about what's inside this example.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=25)** Basically it's just a server which is inside the package JSON.
+> **[0:25](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=25)** Basically it's just a server which is inside the package [[JSON]].
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=29)** You run node cookie example server and it'll show you that page that you just saw.
 >
@@ -569,7 +562,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=375)** Expect. We will use the actual link and we will compare that with the link that we want to verify with.
 >
-> **[6:25](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=385)** So the link that we are following is the [linkedin.com/i/gambar](https://linkedin.com/i/gambar).
+> **[6:25](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=385)** So the link that we are following is the [[[LinkedIn]].com/i/gambar](https://linkedin.com/i/gambar).
 >
 > **[6:33](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/configuring-project-dependencies-for-cookie-setup?u=76281980&t=393)** And that's the link.
 >
@@ -607,7 +600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), node (1), web (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[LinkedIn]] (1)
 > **Env Vars:** json (5), url (3), npx (2), utf (1), href (1)
 > **CLI Commands:** make (3), npx (2), find (1), node (1)
 > **UI Navigation:** go to (4), click on (2)
@@ -616,8 +609,7 @@ created: 2026-05-02
 > **Documentation:** spec (2)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 
-#### Parallelisation: When to use It and when to avoid It
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/parallelisation-when-to-use-it-and-when-to-avoid-it?u=76281980)
+#### [Parallelisation: When to use It and when to avoid It](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/parallelisation-when-to-use-it-and-when-to-avoid-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,15 +651,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (4), game (1), cd (1), parallel (1), cloud (1)
 > **Env Vars:** cpu (3)
 > **CLI Commands:** cd (1), find (1)
 > **Prerequisites:** configure (1), setup (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Optimise a slow test in VS Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-optimise-a-slow-test-in-vs-code?u=76281980)
+#### [Challenge: Optimise a slow test in VS Code](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-optimise-a-slow-test-in-vs-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -681,7 +671,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-optimise-a-slow-test-in-vs-code?u=76281980&t=27)** Everything needed is already in place.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-optimise-a-slow-test-in-vs-code?u=76281980&t=30)** The test files are available in the GitHub exercise files for this chapter.
+> **[0:30](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-optimise-a-slow-test-in-vs-code?u=76281980&t=30)** The test files are available in the [[GitHub]] exercise files for this chapter.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-optimise-a-slow-test-in-vs-code?u=76281980&t=35)** Can you apply what you have learned so far, like avoiding unnecessary rates, improving selectors, and skipping redundant steps to make it lean, fast and efficient.
 >
@@ -696,8 +686,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music plays) (1)
 
-#### Solution: Optimise a slow test in VS Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-optimise-a-slow-test-in-vs-code?u=76281980)
+#### [Solution: Optimise a slow test in VS Code](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-optimise-a-slow-test-in-vs-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -749,12 +738,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mastering flaky tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/mastering-flaky-tests?u=76281980)
+#### [Mastering flaky tests](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/mastering-flaky-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/mastering-flaky-tests?u=76281980&t=0)** - [Instructor] Flaky tests are one of the most frustrating challenges in test automation.
+> **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/mastering-flaky-tests?u=76281980&t=0)** - [Instructor] Flaky tests are one of the most frustrating challenges in [[Test Automation]].
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/mastering-flaky-tests?u=76281980&t=4)** They waste time, reduce confidence, and disrupt CI and CD pipelines.
 >
@@ -808,20 +796,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), application (2), [[Test Automation]] (1), ci (1), cd (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1)
 > **CLI Commands:** make (3), cd (1)
 > **Analogies:** just like (1), such as (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling Nuxt page hydration issue in tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-nuxt-page-hydration-issue-in-tests?u=76281980)
+#### [Handling Nuxt page hydration issue in tests](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-nuxt-page-hydration-issue-in-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-nuxt-page-hydration-issue-in-tests?u=76281980&t=0)** - [Instructor] One of the reasons your tests are flaky is a race condition between the application's readiness and when your test starts running.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-nuxt-page-hydration-issue-in-tests?u=76281980&t=10)** Hydration is when framework like Nuxt sends a pre-rendered HTML page to the browser, but it's not alive yet.
+> **[0:10](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-nuxt-page-hydration-issue-in-tests?u=76281980&t=10)** Hydration is when framework like Nuxt sends a pre-rendered [[HTML]] page to the browser, but it's not alive yet.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-nuxt-page-hydration-issue-in-tests?u=76281980&t=18)** The static page looks complete, but it isn't interactive.
 >
@@ -841,14 +828,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[HTML]] (1), product (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Code Identifiers:** usenuxtapp (1), ishydrating (1)
 > **Env Vars:** html (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing stable locators
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/implementing-stable-locators?u=76281980)
+#### [Implementing stable locators](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/implementing-stable-locators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,15 +894,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (1), dom (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1)
 > **UI Navigation:** click on (3), right-click (2), go to (2), in the menu (1)
 > **Env Vars:** url (3), dom (1)
 > **Definitions:** is a  (3)
 > **URLs:** [testing.com](https://testing.com) (2)
 > **Speakers:** - [instructor] (1)
 
-#### Handling external dependencies to minimise flakiness
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980)
+#### [Handling external dependencies to minimise flakiness](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +909,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=4)** External APIs, no matter how reliable they are, they're a big source of test flakiness.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=10)** So if you look at my screen, we have got a tool shop website where we can see multiple products.
+> **[0:10](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=10)** So if you look at my screen, we have got a tool shop website where we can see multiple [[Microsoft Products|products]].
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=15)** So we will write a test to check if this product name combination pliers appears on the page.
 >
@@ -988,7 +973,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=223)** So I'm going to just simplify this so that we can manage this easily
 >
-> **[3:56](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=236)** and the rest looks okay to me.
+> **[3:56](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=236)** and the [[Representational State Transfer (REST)|rest]] looks okay to me.
 >
 > **[4:03](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=243)** So we will write another test.
 >
@@ -1020,7 +1005,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=339)** And what would be the route data?
 >
-> **[5:43](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=343)** So like we basically want to make sure that the status is 200, content type is application/json.
+> **[5:43](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=343)** So like we basically want to make sure that the status is 200, content type is application/[[JSON]].
 >
 > **[5:56](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/handling-external-dependencies-to-minimise-flakiness?u=76281980&t=356)** So whatever head is of the API was and the body would be JSON.stringify and the data that we got from the API.
 >
@@ -1066,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), api (12), product (8), [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[JSON]] (2)
 > **Env Vars:** api (12), url (3), json (1)
 > **Code Identifiers:** productlink (3), tobevisible (1), contenttype (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1075,8 +1060,7 @@ created: 2026-05-02
 > **Definitions:** basically means (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running tests multiple times to detect flakiness
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/running-tests-multiple-times-to-detect-flakiness?u=76281980)
+#### [Running tests multiple times to detect flakiness](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/running-tests-multiple-times-to-detect-flakiness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,13 +1098,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), npx (1), grep (1)
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Fix this flaky test
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-fix-this-flaky-test?u=76281980)
+#### [Challenge: Fix this flaky test](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-fix-this-flaky-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,19 +1118,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - alright (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### Solution: Fix this flaky test
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-fix-this-flaky-test?u=76281980)
+#### [Solution: Fix this flaky test](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-fix-this-flaky-test?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-fix-this-flaky-test?u=76281980&t=0)** - [Instructor] This challenge is very similar to chapter number two, video number four, where we mock the API.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-fix-this-flaky-test?u=76281980&t=10)** So I literally copied the GitHub exercise files from that chapter, and this is what it looks like.
+> **[0:10](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-fix-this-flaky-test?u=76281980&t=10)** So I literally copied the [[GitHub]] exercise files from that chapter, and this is what it looks like.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-fix-this-flaky-test?u=76281980&t=17)** I'm going to run the test, first test, to see what the data is on the website, so you can see it is showing the real data and we can see Long Nose Pliers here.
 >
@@ -1160,7 +1140,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-fix-this-flaky-test?u=76281980&t=58)** Oh, I copied the wrong one, so let's go back and run this again.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-fix-this-flaky-test?u=76281980&t=68)** Products, Body.
+> **[1:08](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-fix-this-flaky-test?u=76281980&t=68)** [[Microsoft Products|Products]], Body.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-fix-this-flaky-test?u=76281980&t=73)** Long Nose Pliers.
 >
@@ -1180,7 +1160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), api (2), product (2), [[Microsoft Products|Products]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[GitHub]] (1)
 > **UI Navigation:** scroll down (2), click on (2), go to (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** find (1)
@@ -1194,8 +1174,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visual testing with screenshots and snapshots
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/visual-testing-with-screenshots-and-snapshots?u=76281980)
+#### [Visual testing with screenshots and snapshots](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/visual-testing-with-screenshots-and-snapshots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1247,13 +1226,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2), css (1), dom (1), next (1)
 > **Env Vars:** css (1), dom (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### How do you capture a screenshot?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-screenshot?u=76281980)
+#### [How do you capture a screenshot?](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-screenshot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1309,12 +1286,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How do you capture a snapshot?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980)
+#### [How do you capture a snapshot?](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=0)** - [Instructor] If you want to check if your page is rendered correctly and check HTML attributes are doing the right thing, you use snapshot testing.
+> **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=0)** - [Instructor] If you want to check if your page is rendered correctly and check [[HTML]] attributes are doing the right thing, you use snapshot testing.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=9)** And because you're checking HTML, not the visual pixels, you pick a certain part of the page.
 >
@@ -1360,11 +1336,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=120)** One is that it's not formatted, so I can't read it correctly.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=123)** If you're committing this to Git, it will be harder for someone to review.
+> **[2:03](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=123)** If you're committing this to [[Git]], it will be harder for someone to review.
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=128)** Second, it has got IDs which are generated.
 >
-> **[2:12](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=132)** So NG content, which is I think angular related.
+> **[2:12](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=132)** So NG content, which is I think [[Angular]] related.
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=136)** And this is a dynamic ID, which would change maybe on each deployment.
 >
@@ -1380,7 +1356,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=160)** So I will use the plugin import prettier from prettier and make sure that this is installed.
 >
-> **[2:48](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=168)** So I will do NPM install prettier, and this will install it in my package JSON, which you can see over here.
+> **[2:48](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=168)** So I will do [[npm]] install prettier, and this will install it in my package [[JSON]], which you can see over here.
 >
 > **[3:02](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/how-do-you-capture-a-snapshot?u=76281980&t=182)** Now what I will do is I will clean this HTML.
 >
@@ -1467,8 +1443,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Implement a test to screenshot a page
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-implement-a-test-to-screenshot-a-page?u=76281980)
+#### [Challenge: Implement a test to screenshot a page](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-implement-a-test-to-screenshot-a-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1486,8 +1461,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Implement a test to screenshot a page
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-implement-a-test-to-screenshot-a-page?u=76281980)
+#### [Solution: Implement a test to screenshot a page](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-implement-a-test-to-screenshot-a-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1507,7 +1481,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -1516,8 +1489,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Microsoft Playwright Testing (MPT) service?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980)
+#### [What is Microsoft Playwright Testing (MPT) service?](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1525,7 +1497,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=4)** Managing infrastructure, configuring parallel execution and debugging failures can quickly become overwhelming.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=9)** That's where the Microsoft Playwright Testing Service comes in, a cloud-based platform designed to scale your test effortlessly while ensuring consistent execution.
+> **[0:09](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=9)** That's where the [[Microsoft]] Playwright Testing Service comes in, a cloud-based platform designed to scale your test effortlessly while ensuring consistent execution.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=19)** Let's explore how this service can revolutionize your testing strategy.
 >
@@ -1537,7 +1509,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=41)** Instead of setting up complex infrastructure yourself, Microsoft Playwright Testing Service handles it for you, offering parallel execution, automatic scaling, and debugging tools.
 >
-> **[0:52](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=52)** This makes it ideal for continuous integration and continuous deployment environments where reliable test execution is crucial.
+> **[0:52](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=52)** This makes it ideal for [[Continuous Integration (CI)|continuous integration]] and continuous deployment environments where reliable test execution is crucial.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=59)** There are some key differences between the Microsoft Playwright Framework locally and the Microsoft Playwright Testing Service.
 >
@@ -1555,7 +1527,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=98)** Microsoft Playwright Testing Service takes care of the heavy lifting by providing infrastructure management, parallel execution, and cross-browser testing.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=106)** It also integrates seamlessly with GitHub actions and Azure DevOps, allowing you to automate tests at scale without worrying about resource management.
+> **[1:46](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=106)** It also integrates seamlessly with [[GitHub]] actions and [[Microsoft Azure|Azure]] [[DevOps]], allowing you to automate tests at scale without worrying about resource management.
 >
 > **[1:55](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980&t=115)** Plus, with built-in debugging tools and trace viewer, tracking down issues become a breeze.
 >
@@ -1567,18 +1539,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (10), parallel (5), [[Debugging]] (4), cloud (2), ci (2)
+> **Frameworks & Libraries:** [[Microsoft]] (10), [[Continuous Integration (CI)|Continuous integration]] (1), [[GitHub]] (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
 > **CLI Commands:** cd (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a resource on Microsoft Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/creating-a-resource-on-microsoft-azure-31258274?u=76281980)
+#### [Creating a resource on Microsoft Azure](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/creating-a-resource-on-microsoft-azure-31258274?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/creating-a-resource-on-microsoft-azure-31258274?u=76281980&t=0)** Before we can start leveraging playwright workspaces in Azure, to run our playwright tests in the cloud, we first need to create a resource on Microsoft Azure.
+> **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/creating-a-resource-on-microsoft-azure-31258274?u=76281980&t=0)** Before we can start leveraging playwright workspaces in [[Microsoft Azure|Azure]], to run our playwright tests in the cloud, we first need to create a resource on [[Microsoft Azure]].
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/creating-a-resource-on-microsoft-azure-31258274?u=76281980&t=9)** For that, head over to portal.[azure.com](https://azure.com) and sign in with your Azure account.
 >
@@ -1586,7 +1557,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/creating-a-resource-on-microsoft-azure-31258274?u=76281980&t=22)** Once inside the Azure portal, go to the top search and type playwright.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/creating-a-resource-on-microsoft-azure-31258274?u=76281980&t=28)** Here you will see multiple playwright services the one that you are after is the playwright workspaces do not select the playwright testing classic because that is going away so i'm gonna click on playwright workspaces here i've got an option to click create this is how i'm going to create a playwright workspace for our project so for the resource group i'm just going to type linkedin learning with dashes in workspace themes cannot contain any special characters it may update later but i'm just going to type linkedin playwright as one word for the region i'm just going to select east us and click on review and create what this will do is it will validate my
+> **[0:28](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/creating-a-resource-on-microsoft-azure-31258274?u=76281980&t=28)** Here you will see multiple playwright services the one that you are after is the playwright workspaces do not select the playwright testing classic because that is going away so i'm gonna click on playwright workspaces here i've got an option to click create this is how i'm going to create a playwright workspace for our project so for the resource group i'm just going to type [[LinkedIn]] learning with dashes in workspace themes cannot contain any special characters it may update later but i'm just going to type linkedin playwright as one [[Microsoft Word|word]] for the region i'm just going to select east us and click on review and create what this will do is it will validate my
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/creating-a-resource-on-microsoft-azure-31258274?u=76281980&t=81)** setup and then it it will give me an option to create.
 >
@@ -1602,7 +1573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[LinkedIn]] (2), cloud (1), [[Microsoft Azure]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[LinkedIn]] (2), [[Microsoft Azure]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (3), go to (2), select the (1)
 > **Env Vars:** api (1), url (1)
 > **Prerequisites:** set up (1), setup (1)
@@ -1610,14 +1581,13 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Analogies:** such as (1)
 
-#### Setting up your framework to run tests on the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980)
+#### [Setting up your framework to run tests on the cloud](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980&t=0)** - [Instructor] So now that you have got the Azure resource ready for the Playwright Testing Service, it's time to setup your repository to use it.
+> **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980&t=0)** - [Instructor] So now that you have got the [[Microsoft Azure|Azure]] resource ready for the Playwright Testing Service, it's time to setup your repository to use it.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980&t=8)** So this is just a basic Playwright setup that you get with the npm installed Playwright.
+> **[0:08](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980&t=8)** So this is just a basic Playwright setup that you get with the [[npm]] installed Playwright.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980&t=14)** Now what we will do is we will go to the Azure resource.
 >
@@ -1631,7 +1601,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980&t=41)** So we will follow all these steps.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980&t=46)** To start, I want you to notice files on my left it doesn't contain the Playwright Service config and that is what we need to run the test on the Microsoft Playwright Testing Service.
+> **[0:46](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980&t=46)** To start, I want you to notice files on my left it doesn't contain the Playwright Service config and that is what we need to run the test on the [[Microsoft]] Playwright Testing Service.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/setting-up-framework-to-run-tests-on-cloud?u=76281980&t=57)** So I'm going to open my terminal.
 >
@@ -1676,12 +1646,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running tests via CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/running-tests-via-cli?u=76281980)
+#### [Running tests via CLI](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/running-tests-via-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/running-tests-via-cli?u=76281980&t=0)** - [Instructor] Finally, when you want to run the test again, refer back to the documentation that is provided by Microsoft to test them before.
+> **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/running-tests-via-cli?u=76281980&t=0)** - [Instructor] Finally, when you want to run the test again, refer back to the documentation that is provided by [[Microsoft]] to test them before.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/running-tests-via-cli?u=76281980&t=8)** And place playwright test that's how you normally run the tests on local, but if you want to run it on the Microsoft playwright testing service, this --config and you provide the option playwright service config.ts is necessary.
 >
@@ -1716,14 +1685,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Run tests against your local server on MPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-run-tests-against-your-local-server-on-mpt?u=76281980)
+#### [Challenge: Run tests against your local server on MPT](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-run-tests-against-your-local-server-on-mpt?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-run-tests-against-your-local-server-on-mpt?u=76281980&t=5)** - [Narrator] Here's your last challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-run-tests-against-your-local-server-on-mpt?u=76281980&t=7)** I want you to run your test against your local server on Microsoft Playwright Testing service.
+> **[0:07](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-run-tests-against-your-local-server-on-mpt?u=76281980&t=7)** I want you to run your test against your local server on [[Microsoft]] Playwright Testing service.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/challenge-run-tests-against-your-local-server-on-mpt?u=76281980&t=15)** So remember, this needs some sort of configuration related to network because your test exists on your machine, they are not connected to the internet, and your Microsoft Playwright Testing service is in the cloud.
 >
@@ -1733,17 +1701,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Run tests against your local server on MPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-run-tests-against-your-local-server-on-mpt?u=76281980)
+#### [Solution: Run tests against your local server on MPT](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-run-tests-against-your-local-server-on-mpt?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-run-tests-against-your-local-server-on-mpt?u=76281980&t=0)** - [Instructor] The solution is exposeNetwork loopback.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-run-tests-against-your-local-server-on-mpt?u=76281980&t=8)** As you can see on my screen, in the Microsoft documentation, it says, "This setting allows you to connect to local resources from your Playwright test code without having to configure another firewall setting."
+> **[0:08](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-run-tests-against-your-local-server-on-mpt?u=76281980&t=8)** As you can see on my screen, in the [[Microsoft]] documentation, it says, "This setting allows you to connect to local resources from your Playwright test code without having to configure another firewall setting."
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/solution-run-tests-against-your-local-server-on-mpt?u=76281980&t=20)** So how do you use it?
 >
@@ -1783,8 +1750,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final thoughts and best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/final-thoughts-and-best-practices?u=76281980)
+#### [Final thoughts and best practices](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/final-thoughts-and-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1794,7 +1760,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/final-thoughts-and-best-practices?u=76281980&t=17)** You have mastered how to optimize storageState when testing in parallel on your local or in the cloud, how to eliminate flaky tests with retries, how to debug the test, and how to structure a test, which won't be flaky anymore.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/final-thoughts-and-best-practices?u=76281980&t=34)** You have also learned what is Microsoft Playwright Testing service, how you can scale your test, how should you choose between visual testing, between snapshot and screenshot, and you learned how to integrate Playwright into CI/CD pipelines for automation and scale.
+> **[0:34](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/final-thoughts-and-best-practices?u=76281980&t=34)** You have also learned what is [[Microsoft]] Playwright Testing service, how you can scale your test, how should you choose between visual testing, between snapshot and screenshot, and you learned how to integrate Playwright into CI/CD pipelines for automation and scale.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/final-thoughts-and-best-practices?u=76281980&t=52)** Here are some essential strategies to maintain a robust test suite.
 >
@@ -1820,13 +1786,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), parallel (2), [[Automation]] (2), [[Microsoft]] (2), ci (2)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **CLI Commands:** cd (2), make (1)
 > **Code Identifiers:** storagestate (2)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1834,11 +1799,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/next-steps?u=76281980&t=2)** Now you have got full bragging rights and a certificate to show it to your friends that you have completed advanced Playwright techniques.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/next-steps?u=76281980&t=9)** Make sure you follow me on LinkedIn.
+> **[0:09](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/next-steps?u=76281980&t=9)** Make sure you follow me on [[LinkedIn]].
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/next-steps?u=76281980&t=11)** And if you have got any questions, click the Q&A tab and ask your question there.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/next-steps?u=76281980&t=17)** Also, look at the GitHub files and keep learning.
+> **[0:17](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/next-steps?u=76281980&t=17)** Also, look at the [[GitHub]] files and keep learning.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/next-steps?u=76281980&t=20)** Playwright documentation is awesome, so make sure you look at that, as well.
 >
@@ -1846,7 +1811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)

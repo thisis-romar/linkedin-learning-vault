@@ -75,26 +75,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing Excel with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980)
+#### [Managing Excel with Python](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=0)** Despite the rise of so many business intelligence and data science tools, much of the business world's reporting still lives in Excel.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=0)** Despite the rise of so many [[Business Intelligence (BI)|business intelligence]] and [[Data Science]] tools, much of the business world's reporting still lives in [[Microsoft Excel|Excel]].
 >
 > **[0:07](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=7)** That won't be changing any time soon.
 >
 > **[0:10](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=10)** So if you can't beat them, join them.
 >
-> **[0:12](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=12)** Use Python to create even the most complex workbooks without even opening Excel.
+> **[0:12](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=12)** Use [[Python (Programming Language)|Python]] to create even the most complex workbooks without even opening Excel.
 >
 > **[0:17](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=17)** Hi, my name is George Mount.
 >
 > **[0:19](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=19)** I'm the founder of Stringfest Analytics where I specialize in teaching Python, Excel, and more to professionals like you.
 >
-> **[0:26](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=26)** I'm a Microsoft Excel MVP and the author of Advancing Into Analytics from Excel to Python and R.
+> **[0:26](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=26)** I'm a [[Microsoft Excel]] MVP and the author of Advancing Into Analytics from Excel to Python and R.
 >
-> **[0:33](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=33)** In this course, I'll go over tools for integrating Excel with Python, in particular Pandas, a data manipulation powerhouse, and openpyxl, which lets you both read and write Excel files and Python with flair.
+> **[0:33](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=33)** In this course, I'll go over tools for integrating Excel with Python, in particular [[Pandas (Software)|Pandas]], a [[Data Manipulation]] powerhouse, and openpyxl, which lets you both read and write Excel files and Python with flair.
 >
 > **[0:46](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980&t=46)** I'm excited to get you moving on your Python and Excel journey.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Python (Programming Language)|Python]] (7), [[Analytics]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Python (Programming Language)|Python]] (7), [[Business Intelligence (BI)|Business intelligence]] (1), [[Data Science]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** python (7)
 > **Env Vars:** mvp (1)
 
@@ -113,14 +112,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Jupyter Notebooks basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980)
+#### [Jupyter Notebooks basics](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=0)** If you don't think code can be beautiful, you'll have to check out Jupyter Notebooks.
 >
-> **[0:05](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=5)** After watching this video, you'll be able to navigate the interface used for working with Python in this course.
+> **[0:05](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=5)** After watching this video, you'll be able to navigate the interface used for working with [[Python (Programming Language)|Python]] in this course.
 >
 > **[0:10](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=10)** The first step is to download the exercise files and open the demo file for this lesson.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=35)** It's time to launch the Jupyter Notebook for the first time and navigate to the course files.
 >
-> **[0:40](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=40)** If you're on PC, you can do this by hitting the |"Windows" key, search for Jupyter Notebook and you should see this icon pop up, hit "Enter" and a browser window will open.
+> **[0:40](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=40)** If you're on PC, you can do this by hitting the |"[[Windows]]" key, search for Jupyter Notebook and you should see this icon pop up, hit "Enter" and a browser window will open.
 >
 > **[0:50](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=50)** You can do the same on Mac by going to your launchpad.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=102)** This is where you will actually code in Python.
 >
-> **[1:44](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=104)** One thing you are going to see a lot in this course is the code to import the pandas and open pyexcel packages.
+> **[1:44](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=104)** One thing you are going to see a lot in this course is the code to import the [[Pandas (Software)|pandas]] and open pyexcel packages.
 >
 > **[1:51](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980&t=111)** So give it a try for the first time here.
 >
@@ -180,19 +178,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Search]] (2), hit (2), [[Pandas (Software)|Pandas]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Pandas (Software)|Pandas]] (2), [[Windows]] (1)
 > **Tools:** jupyter (9), terminal (1)
 > **CLI Commands:** python (5), make (1)
 > **UI Navigation:** navigate to (2), click on (2), open the (1), go to (1)
 > **Definitions:** short for (1), known as (1), is a  (1)
 > **Exercise Files:** download the (1), exercise files (1)
 
-#### Introducing the Python pandas library
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/introducing-the-python-pandas-library?u=76281980)
+#### [Introducing the Python pandas library](https://www.linkedin.com/learning/using-python-with-excel-22676328/introducing-the-python-pandas-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/introducing-the-python-pandas-library?u=76281980&t=0)** Pandas is a Python library that provides powerful data analysis features from reshaping tables to analyzing missing values to descriptive statistics and more.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/introducing-the-python-pandas-library?u=76281980&t=0)** [[Pandas (Software)|Pandas]] is a [[Python (Programming Language)|Python]] library that provides powerful data analysis features from reshaping tables to analyzing missing values to descriptive [[Statistics]] and more.
 >
 > **[0:10](https://www.linkedin.com/learning/using-python-with-excel-22676328/introducing-the-python-pandas-library?u=76281980&t=10)** After watching this video, you'll be able to import pandas and describe its key features.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/using-python-with-excel-22676328/introducing-the-python-pandas-library?u=76281980&t=86)** Don't worry too much about how it was made, but instead what the output looks like.
 >
-> **[1:31](https://www.linkedin.com/learning/using-python-with-excel-22676328/introducing-the-python-pandas-library?u=76281980&t=91)** It wouldn't be out of place in something you'd have in Excel, right?
+> **[1:31](https://www.linkedin.com/learning/using-python-with-excel-22676328/introducing-the-python-pandas-library?u=76281980&t=91)** It wouldn't be out of place in something you'd have in [[Microsoft Excel|Excel]], right?
 >
 > **[1:33](https://www.linkedin.com/learning/using-python-with-excel-22676328/introducing-the-python-pandas-library?u=76281980&t=93)** You've got a table of data with rows and columns, variable headers, and so forth.
 >
@@ -244,21 +241,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (9), data (8), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (9), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
 > **CLI Commands:** python (4), make (1)
 > **UI Navigation:** open the (1), go to (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 
-#### Loading and saving data with pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?u=76281980)
+#### [Loading and saving data with pandas](https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?u=76281980&t=0)** Pandas can read data and from a variety of sources, including Excel workbooks.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?u=76281980&t=0)** [[Pandas (Software)|Pandas]] can read data and from a variety of sources, including [[Microsoft Excel|Excel]] workbooks.
 >
-> **[0:05](https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?u=76281980&t=5)** In this video, you'll learn how to import and export Excel data to Python using pandas.
+> **[0:05](https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?u=76281980&t=5)** In this video, you'll learn how to import and export Excel data to [[Python (Programming Language)|Python]] using pandas.
 >
 > **[0:11](https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?u=76281980&t=11)** Open the demo file for this lesson, 01_03_demo.
 >
@@ -324,18 +320,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (9), [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** read_excel (4), sheet_name (1), to_excel (1)
 > **CLI Commands:** python (2), find (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
 
-#### Viewing and inspecting data with pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980)
+#### [Viewing and inspecting data with pandas](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=0)** When analyzing data in pandas, you might be working with thousands of rows or more.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=0)** When analyzing data in [[Pandas (Software)|pandas]], you might be working with thousands of rows or more.
 >
 > **[0:04](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=4)** It's just too much to scroll through and make sense of it manually.
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=92)** This tells you there are 344 rows and seven columns.
 >
-> **[1:36](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=96)** Next, you can derive summary or descriptive statistics with the describe method. Type and run penguins.describe() As a result, you'll see measures like the mean, standard deviation, and quartiles of each column.
+> **[1:36](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=96)** Next, you can derive summary or descriptive [[Statistics]] with the describe method. Type and run penguins.describe() As a result, you'll see measures like the mean, standard deviation, and quartiles of each column.
 >
 > **[1:53](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=113)** Perhaps you notice that not every column of penguins is represented here.
 >
@@ -375,33 +370,32 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=138)** You'll notice a lot of the results are missing or NaNs because, again, they are just not relevant measurements.
 >
-> **[2:24](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=144)** If you're coming from Excel, it can take some getting used to exploring your data via methods and functions rather than simply through scrolling it.
+> **[2:24](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=144)** If you're coming from [[Microsoft Excel|Excel]], it can take some getting used to exploring your data via methods and functions rather than simply through scrolling it.
 >
 > **[2:31](https://www.linkedin.com/learning/using-python-with-excel-22676328/viewing-and-inspecting-data-with-pandas?u=76281980&t=151)** But the advantage of exploring your data this way is that it scales to data sets that could get too large and complex for Excel.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (2), next (2), [[Statistics]] (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Microsoft Excel|Excel]] (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Tools:** anaconda (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** you'll need (1)
 
-#### Manipulating data with pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/manipulating-data-with-pandas?u=76281980)
+#### [Manipulating data with pandas](https://www.linkedin.com/learning/using-python-with-excel-22676328/manipulating-data-with-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/manipulating-data-with-pandas?u=76281980&t=0)** As you manage DataFrames of growing complexity, you'll need additional methods to organize, compare, and sort your data.
 >
-> **[0:07](https://www.linkedin.com/learning/using-python-with-excel-22676328/manipulating-data-with-pandas?u=76281980&t=7)** In this lesson, you will learn some basic row and column operations using pandas.
+> **[0:07](https://www.linkedin.com/learning/using-python-with-excel-22676328/manipulating-data-with-pandas?u=76281980&t=7)** In this lesson, you will learn some basic row and column operations using [[Pandas (Software)|pandas]].
 >
 > **[0:12](https://www.linkedin.com/learning/using-python-with-excel-22676328/manipulating-data-with-pandas?u=76281980&t=12)** Open the demo file for this lesson, 01_05_demo.
 >
 > **[0:16](https://www.linkedin.com/learning/using-python-with-excel-22676328/manipulating-data-with-pandas?u=76281980&t=16)** This demo will be using the tips sample data set from Seaborn.
 >
-> **[0:21](https://www.linkedin.com/learning/using-python-with-excel-22676328/manipulating-data-with-pandas?u=76281980&t=21)** Now think of all the tasks you perform to analyze data in Excel.
+> **[0:21](https://www.linkedin.com/learning/using-python-with-excel-22676328/manipulating-data-with-pandas?u=76281980&t=21)** Now think of all the tasks you perform to analyze data in [[Microsoft Excel|Excel]].
 >
 > **[0:25](https://www.linkedin.com/learning/using-python-with-excel-22676328/manipulating-data-with-pandas?u=76281980&t=25)** You might add or remove columns or maybe sort and filter the results, or probably both and then some more.
 >
@@ -457,19 +451,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), data (5), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Microsoft Excel|Excel]] (3)
 > **Code Identifiers:** tip_pct (5), total_bill (2), dinner_sorted (1), sort_values (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
 > **Prerequisites:** you'll need (1)
 
-#### Working with dates and times in pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980)
+#### [Working with dates and times in pandas](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980&t=0)** The name pandas isn't just for cute animals.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980&t=0)** The name [[Pandas (Software)|pandas]] isn't just for cute animals.
 >
 > **[0:04](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980&t=4)** This library is named after working with panel data or a type of time series data.
 >
@@ -483,7 +476,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980&t=34)** You'll see that this data consists of daily weather measurements, making it time series data.
 >
-> **[0:40](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980&t=40)** If you've ever worked with dates in Excel, you've probably gotten pretty frustrated.
+> **[0:40](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980&t=40)** If you've ever worked with dates in [[Microsoft Excel|Excel]], you've probably gotten pretty frustrated.
 >
 > **[0:44](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980&t=44)** I'm happy to tell you that pandas is much better with dates and times.
 >
@@ -541,11 +534,11 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980&t=262)** W of course stands for week and you can check the documentation
 >
-> **[4:36](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980&t=276)** for all the different time periods to resample by. Excel isn't the best at working with dates, so when you're considering what to automate with Python, keep the datetime features of pandas in mind.
+> **[4:36](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-dates-and-times-in-pandas?u=76281980&t=276)** for all the different time periods to resample by. Excel isn't the best at working with dates, so when you're considering what to automate with [[Python (Programming Language)|Python]], keep the datetime features of pandas in mind.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Pandas (Software)|Pandas]] (6), [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** month_name (2), to_datetime (1), to_period (1), set_index (1)
 > **Definitions:** is a  (2), known as (1), stands for (1)
 > **CLI Commands:** find (1), python (1)
@@ -559,12 +552,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using openpyxl with Workbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/using-openpyxl-with-workbooks?u=76281980)
+#### [Using openpyxl with Workbooks](https://www.linkedin.com/learning/using-python-with-excel-22676328/using-openpyxl-with-workbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/using-openpyxl-with-workbooks?u=76281980&t=0)** Several packages exist for working with Python and Excel together, but openpyxl is a great all-around choice because of its rich features for both reading from and writing to workbooks.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/using-openpyxl-with-workbooks?u=76281980&t=0)** Several packages exist for working with [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]] together, but openpyxl is a great all-around choice because of its rich features for both reading from and writing to workbooks.
 >
 > **[0:11](https://www.linkedin.com/learning/using-python-with-excel-22676328/using-openpyxl-with-workbooks?u=76281980&t=11)** Ready to see for yourself?
 >
@@ -622,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), data (6), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** load_workbook (2), create_sheet (1), active_sheet (1)
 > **CLI Commands:** python (2)
 > **Tools:** jupyter (1)
@@ -631,12 +623,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Selecting cells, rows, and columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/selecting-cells-rows-and-columns?u=76281980)
+#### [Selecting cells, rows, and columns](https://www.linkedin.com/learning/using-python-with-excel-22676328/selecting-cells-rows-and-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/selecting-cells-rows-and-columns?u=76281980&t=0)** Just like in biology, cells are the building blocks of life in your Excel workbook.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/selecting-cells-rows-and-columns?u=76281980&t=0)** Just like in biology, cells are the building blocks of life in your [[Microsoft Excel|Excel]] workbook.
 >
 > **[0:05](https://www.linkedin.com/learning/using-python-with-excel-22676328/selecting-cells-rows-and-columns?u=76281980&t=5)** After watching this video, you'll be able to work with individual cells, then whole rows and columns from openpyxl.
 >
@@ -698,13 +689,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Code Identifiers:** load_workbook (2), my_cell (2), cell_range (2), get_column_letter (1), col_range (1)
 > **Analogies:** for example (3), just like (1), such as (1)
 > **UI Navigation:** open the (1), go to (1)
 
-#### Adding workbook formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/adding-workbook-formatting?u=76281980)
+#### [Adding workbook formatting](https://www.linkedin.com/learning/using-python-with-excel-22676328/adding-workbook-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -756,7 +746,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/using-python-with-excel-22676328/adding-workbook-formatting?u=76281980&t=143)** Okay.
 >
-> **[2:24](https://www.linkedin.com/learning/using-python-with-excel-22676328/adding-workbook-formatting?u=76281980&t=144)** I've said it before and I'll say it again, there are a ton of ways to format in Excel, so be sure to dig around the openpyxl documentation and the Internet, because if you're asking, can I do X formatting technique with openpyxl, the answer is probably yes.
+> **[2:24](https://www.linkedin.com/learning/using-python-with-excel-22676328/adding-workbook-formatting?u=76281980&t=144)** I've said it before and I'll say it again, there are a ton of ways to format in [[Microsoft Excel|Excel]], so be sure to dig around the openpyxl documentation and the Internet, because if you're asking, can I do X formatting technique with openpyxl, the answer is probably yes.
 >
 > **[2:40](https://www.linkedin.com/learning/using-python-with-excel-22676328/adding-workbook-formatting?u=76281980&t=160)** One more task here, and that is resizing rows and columns in the worksheet.
 >
@@ -784,19 +774,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Microsoft Excel|Excel]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Code Identifiers:** number_format (1), column_dimensions (1)
 > **Env Vars:** cf3338 (1), format_percentage (1)
 > **Versions:** 0.5 (2)
 > **UI Navigation:** open the (1)
 > **Analogies:** such as (1)
 
-#### Creating names, ranges, and tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-names-ranges-and-tables?u=76281980)
+#### [Creating names, ranges, and tables](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-names-ranges-and-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-names-ranges-and-tables?u=76281980&t=0)** Python code is so much easier to work with when objects are given clean, sensible names. And Excel is no different.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-names-ranges-and-tables?u=76281980&t=0)** [[Python (Programming Language)|Python]] code is so much easier to work with when objects are given clean, sensible names. And [[Microsoft Excel|Excel]] is no different.
 >
 > **[0:07](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-names-ranges-and-tables?u=76281980&t=7)** After watching this video, you'll be able to create named ranges and tables in Excel using openpyxl.
 >
@@ -858,11 +847,11 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-names-ranges-and-tables?u=76281980&t=251)** If you're not using ranges and tables in Excel already, I hope being able to create them quickly from openpyxl gives you some incentive.
 >
-> **[4:20](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-names-ranges-and-tables?u=76281980&t=260)** This sets the foundation for even more ways to combine pandas with openpyxl to create rich analyses and reports.
+> **[4:20](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-names-ranges-and-tables?u=76281980&t=260)** This sets the foundation for even more ways to combine [[Pandas (Software)|pandas]] with openpyxl to create rich analyses and reports.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), data (6), [[Python (Programming Language)|Python]] (2), next (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** defined_names (1), new_range (1), dataframe_to_rows (1), showrowstripes (1), add_table (1)
 > **CLI Commands:** python (2)
 > **UI Navigation:** open the (2)
@@ -874,16 +863,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing multiple sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980)
+#### [Managing multiple sheets](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980&t=0)** Pandas makes it quite easy to create new columns in your DataFrame, but this can be done in openpyxl as well.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980&t=0)** [[Pandas (Software)|Pandas]] makes it quite easy to create new columns in your DataFrame, but this can be done in openpyxl as well.
 >
 > **[0:06](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980&t=6)** You just need to access the data differently.
 >
-> **[0:09](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980&t=9)** In this video, you'll learn how to load multiple Excel worksheets into a DataFrame as well as how to export and calculate on this data using openpyxl alone.
+> **[0:09](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980&t=9)** In this video, you'll learn how to load multiple [[Microsoft Excel|Excel]] worksheets into a DataFrame as well as how to export and calculate on this data using openpyxl alone.
 >
 > **[0:19](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980&t=19)** Open the demo file for this lesson, 03_01_demo.
 >
@@ -955,16 +943,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Pandas (Software)|Pandas]] (3)
 > **Code Identifiers:** df_all (3), all_shifts (1), results_cell (1), e_value (1), f_value (1)
 > **UI Navigation:** open the (1)
 
-#### Working with large worksheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980)
+#### [Working with large worksheets](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=0)** Openpyxl is slow in working with large workbooks because it carries so many more features compared to the relatively fewer in pandas.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=0)** Openpyxl is slow in working with large workbooks because it carries so many more features compared to the relatively fewer in [[Pandas (Software)|pandas]].
 >
 > **[0:07](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=7)** After watching this video, you'll be able to tame a large data set with pandas, then write the results to a template using openpyxl.
 >
@@ -978,7 +965,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=38)** Aren't you importing crime csv?
 >
-> **[0:41](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=41)** This is a relatively big data set with about 280,000 rows.
+> **[0:41](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=41)** This is a relatively [[Big Data]] set with about 280,000 rows.
 >
 > **[0:45](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=45)** My goal is to use pandas to parse and trim this data so it fits into the report template.
 >
@@ -1008,7 +995,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=133)** Back in the template, there were slots to place these total and percentage figures, so I'm going to fill those now into cells 08, P8, and Q8 respectively.
 >
-> **[2:33](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=153)** The rest of the report has to do with the number of counterfeiting crimes per district for each year.
+> **[2:33](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=153)** The [[Representational State Transfer (REST)|rest]] of the report has to do with the number of counterfeiting crimes per district for each year.
 >
 > **[2:40](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=160)** I'm going to derive this table in pandas.
 >
@@ -1024,7 +1011,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=211)** Now that the data is in the right shape,
 >
-> **[3:40](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=220)** it's time to send it out to Excel using the dataframe_to_rows function.
+> **[3:40](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=220)** it's time to send it out to [[Microsoft Excel|Excel]] using the dataframe_to_rows function.
 >
 > **[3:45](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=225)** This data should start at row 8 in the template, so I'm going to adjust for that in the for loop.
 >
@@ -1034,7 +1021,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=251)** And there it is, the start of a nicely formatted Excel report.
 >
-> **[4:16](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=256)** One question I get a lot from Excel users is how big of a data set can I work with in Python?
+> **[4:16](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=256)** One question I get a lot from Excel users is how big of a data set can I work with in [[Python (Programming Language)|Python]]?
 >
 > **[4:22](https://www.linkedin.com/learning/using-python-with-excel-22676328/working-with-large-worksheets?u=76281980&t=262)** There's really no one answer here.
 >
@@ -1044,7 +1031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (8), [[Microsoft Excel|Excel]] (4), next (3), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Microsoft Excel|Excel]] (4), [[Big Data]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Code Identifiers:** read_csv (1), perc_crimes (1), dataframe_to_rows (1)
@@ -1053,8 +1040,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Analogies:** such as (1)
 
-#### Conditional formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/conditional-formatting?u=76281980)
+#### [Conditional formatting](https://www.linkedin.com/learning/using-python-with-excel-22676328/conditional-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,7 +1048,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/using-python-with-excel-22676328/conditional-formatting?u=76281980&t=4)** Adding conditional formatting to your workbook really aids in comprehension.
 >
-> **[0:09](https://www.linkedin.com/learning/using-python-with-excel-22676328/conditional-formatting?u=76281980&t=9)** And the best part is, you can build conditional workbooks in Excel right from Python.
+> **[0:09](https://www.linkedin.com/learning/using-python-with-excel-22676328/conditional-formatting?u=76281980&t=9)** And the best part is, you can build conditional workbooks in [[Microsoft Excel|Excel]] right from [[Python (Programming Language)|Python]].
 >
 > **[0:14](https://www.linkedin.com/learning/using-python-with-excel-22676328/conditional-formatting?u=76281980&t=14)** Open the demo file for this lesson, 03_03_demo.
 >
@@ -1130,21 +1116,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** highlight_cells (2), highlight_rows (2), style_tips (2), to_excel (1)
 > **CLI Commands:** python (2), make (2)
 > **UI Navigation:** open the (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### Creating Excel plots in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-excel-plots-in-python?u=76281980)
+#### [Creating Excel plots in Python](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-excel-plots-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-excel-plots-in-python?u=76281980&t=0)** Data visualization is a crucial way to make your reports and analyses more interpretable.
 >
-> **[0:06](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-excel-plots-in-python?u=76281980&t=6)** After watching this video, you'll be able to create dynamic Excel charts using openpyxl.
+> **[0:06](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-excel-plots-in-python?u=76281980&t=6)** After watching this video, you'll be able to create dynamic [[Microsoft Excel|Excel]] charts using openpyxl.
 >
 > **[0:12](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-excel-plots-in-python?u=76281980&t=12)** Open the demo file for this lesson, 03_04_demo.
 >
@@ -1164,7 +1149,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-excel-plots-in-python?u=76281980&t=86)** I'm going to locate the column number of the pop column with pop_col = nyc.columns.get_loc('pop') + 1.
 >
-> **[1:45](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-excel-plots-in-python?u=76281980&t=105)** I'm adding 1 here because Python uses zero-based indexing and Excel does not.
+> **[1:45](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-excel-plots-in-python?u=76281980&t=105)** I'm adding 1 here because [[Python (Programming Language)|Python]] uses zero-based indexing and Excel does not.
 >
 > **[1:49](https://www.linkedin.com/learning/using-python-with-excel-22676328/creating-excel-plots-in-python?u=76281980&t=109)** Same thing with the location of the borough column in my data, borough_col = nyc.columns.get_loc('borough') + 1.
 >
@@ -1204,21 +1189,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** max_row (5), pop_col (2), get_loc (2), borough_col (2), min_col (2)
 > **CLI Commands:** make (2), python (2), find (1)
 > **Env Vars:** nyc (1), a10 (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** open the (1)
 
-#### Exporting Python plots to Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/exporting-python-plots-to-excel?u=76281980)
+#### [Exporting Python plots to Excel](https://www.linkedin.com/learning/using-python-with-excel-22676328/exporting-python-plots-to-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/exporting-python-plots-to-excel?u=76281980&t=0)** Some data visualizations are difficult or perhaps impossible to create in Excel.
+> **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/exporting-python-plots-to-excel?u=76281980&t=0)** Some data visualizations are difficult or perhaps impossible to create in [[Microsoft Excel|Excel]].
 >
-> **[0:06](https://www.linkedin.com/learning/using-python-with-excel-22676328/exporting-python-plots-to-excel?u=76281980&t=6)** In these cases, Python plots offer an alternative.
+> **[0:06](https://www.linkedin.com/learning/using-python-with-excel-22676328/exporting-python-plots-to-excel?u=76281980&t=6)** In these cases, [[Python (Programming Language)|Python]] plots offer an alternative.
 >
 > **[0:09](https://www.linkedin.com/learning/using-python-with-excel-22676328/exporting-python-plots-to-excel?u=76281980&t=9)** After watching this video, you'll be able to export Python plots directly to Excel.
 >
@@ -1282,7 +1266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), data (5), [[Python (Programming Language)|Python]] (5), next (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (2)
 > **Analogies:** for example (2), it's like (1)
 > **UI Navigation:** open the (1), click on (1)
@@ -1295,14 +1279,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980&t=0)** Congratulations on reaching the end.
 >
-> **[0:03](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980&t=3)** Now that you've completed this course on using Python with Excel, I hope you feel ready to build your next workbook with ease.
+> **[0:03](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980&t=3)** Now that you've completed this course on using [[Python (Programming Language)|Python]] with [[Microsoft Excel|Excel]], I hope you feel ready to build your next workbook with ease.
 >
 > **[0:10](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980&t=10)** You'll be operating on data faster, building more impressive visualizations and automating tedious reports in no time, all thanks to Python.
 >
@@ -1316,7 +1299,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980&t=49)** While you're at my website, be sure to subscribe and I'll share lots of other resources, events, and even memes on data analytics.
 >
-> **[0:57](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980&t=57)** And feel free to connect with me on LinkedIn too.
+> **[0:57](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980&t=57)** And feel free to connect with me on [[LinkedIn]] too.
 >
 > **[1:00](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980&t=60)** If you apply the lessons from this course to your own Excel reports and analyses, be sure to let me know how it goes.
 >
@@ -1326,7 +1309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Excel|Excel]] (6), [[Analytics]] (3), data (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Excel|Excel]] (6), [[LinkedIn]] (1)
 > **CLI Commands:** python (6)
 
 

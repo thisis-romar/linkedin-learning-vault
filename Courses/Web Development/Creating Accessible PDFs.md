@@ -156,14 +156,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The ultimate guide to accessible PDFs
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-ultimate-guide-to-accessible-pdfs-25575414?u=76281980)
+#### [The ultimate guide to accessible PDFs](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-ultimate-guide-to-accessible-pdfs-25575414?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-ultimate-guide-to-accessible-pdfs-25575414?u=76281980&t=0)** - Some people think that document accessibility is hard, but really it's not.
 >
-> **[0:05](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-ultimate-guide-to-accessible-pdfs-25575414?u=76281980&t=5)** Now in this course, I take you down several different paths depending on your situation and show you how to make an existing PDF file accessible, how to make Office applications accessible, and my personal favorite, how to make accessible PDFs from Adobe InDesign.
+> **[0:05](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-ultimate-guide-to-accessible-pdfs-25575414?u=76281980&t=5)** Now in this course, I take you down several different paths depending on your situation and show you how to make an existing PDF file accessible, how to make [[Microsoft Office|Office]] applications accessible, and my personal favorite, how to make accessible PDFs from Adobe InDesign.
 >
 > **[0:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-ultimate-guide-to-accessible-pdfs-25575414?u=76281980&t=20)** Hi there, my name is Chad Chelius, and for the last 15 years, I've been working in the field of document accessibility.
 >
@@ -180,8 +179,7 @@ created: 2026-05-02
 > **Env Vars:** pdf (2)
 > **Speakers:** - some (1)
 
-#### Introduction to creating accessible PDFs
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980)
+#### [Introduction to creating accessible PDFs](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -203,13 +201,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=66)** This product functions very similar to Adobe Acrobat Pro DC, except the product is never updated with new features like Adobe Acrobat Pro DC is.
 >
-> **[1:17](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=77)** For this reason, it's possible to experience some slight differences between the products as you follow along.
+> **[1:17](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=77)** For this reason, it's possible to experience some slight differences between the [[Microsoft Products|products]] as you follow along.
 >
-> **[1:24](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=84)** From there, we'll move on to learning how to create accessible PDF files from the Microsoft Office applications, namely Microsoft Word and Microsoft PowerPoint.
+> **[1:24](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=84)** From there, we'll move on to learning how to create accessible PDF files from the [[Microsoft Office]] applications, namely [[Microsoft Word]] and [[Microsoft PowerPoint]].
 >
-> **[1:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=97)** The version of the Office applications that I'm using in this course are the versions that ship with the Office 365 subscription.
+> **[1:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=97)** The version of the [[Microsoft Office|Office]] applications that I'm using in this course are the versions that ship with the Office 365 subscription.
 >
-> **[1:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=105)** Word and PowerPoint 2016 work as well, as does Word and PowerPoint 2010.
+> **[1:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=105)** [[Microsoft Word|Word]] and [[Microsoft PowerPoint|PowerPoint]] 2016 work as well, as does Word and PowerPoint 2010.
 >
 > **[1:52](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=112)** However, the 2010 version of the products had some limitations that you will certainly experience and notice if you're trying to follow along in this course.
 >
@@ -241,13 +239,13 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=219)** If you're not running the latest versions of the applications that I've just described, which can happen for a variety of different reasons, you're not out of luck.
 >
-> **[3:47](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=227)** I have several other PDF accessibility courses on LinkedIn Learning that cover older versions of products for creating accessible PDF files.
+> **[3:47](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=227)** I have several other PDF accessibility courses on [[LinkedIn]] Learning that cover older versions of products for creating accessible PDF files.
 >
 > **[3:56](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=236)** If you're in this situation, simply head on over to [linkedin.com/learning/instructors/chad](https://linkedin.com/learning/instructors/chad)- chelius.
 >
 > **[4:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=246)** There, you can peruse the other PDF accessibility courses as well as others that will help you on your way to learning PDF accessibility.
 >
-> **[4:15](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=255)** Most of the videos that I've created for this course are done using the Windows operating system.
+> **[4:15](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=255)** Most of the videos that I've created for this course are done using the [[Windows]] operating system.
 >
 > **[4:21](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/introduction-to-creating-accessible-pdfs?u=76281980&t=261)** I've done this for several reasons.
 >
@@ -263,7 +261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (4), [[Windows]] (4), [[Microsoft Office|Office]] (3), [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Windows]] (4), [[Microsoft Office|Office]] (3), [[Microsoft Word|Word]] (3), [[Microsoft PowerPoint|Powerpoint]] (3)
 > **Env Vars:** pdf (11)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** select the (1), checkbox (1)
@@ -277,8 +275,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is accessibility?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/what-is-accessibility?u=76281980)
+#### [What is accessibility?](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/what-is-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,8 +342,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessibility standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessibility-standards?u=76281980)
+#### [Accessibility standards](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessibility-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessibility-standards?u=76281980&t=28)** We'll be focused on the current standards that apply to the accessible PDF format.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessibility-standards?u=76281980&t=33)** The first standard, which is WCAG is the Web Content Accessibility Guidelines produced by the World Wide Web consortium and is widely recognized standard for PDF as well as web accessibility.
+> **[0:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessibility-standards?u=76281980&t=33)** The first standard, which is WCAG is the Web Content Accessibility Guidelines produced by the World Wide Web consortium and is widely recognized standard for PDF as well as [[Web Accessibility]].
 >
 > **[0:46](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessibility-standards?u=76281980&t=46)** It contains almost 100 different success criteria required for accessibility.
 >
@@ -382,15 +378,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Web Accessibility]] (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (1)
 > **Env Vars:** pdf (5), wcag (3), iso (1), aoda (1), dda (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check PDF accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/check-pdf-accessibility-25577333?u=76281980)
+#### [Check PDF accessibility](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/check-pdf-accessibility-25577333?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,7 +459,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/check-pdf-accessibility-25577333?u=76281980&t=211)** And you can see that Acrobat is evaluating my content in seven different categories.
 >
-> **[3:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/check-pdf-accessibility-25577333?u=76281980&t=217)** You can see that it's evaluating my document, the page content, forms, alternate text, tables, lists, and headings.
+> **[3:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/check-pdf-accessibility-25577333?u=76281980&t=217)** You can see that it's evaluating my document, the page content, [[Forms]], alternate text, tables, lists, and headings.
 >
 > **[3:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/check-pdf-accessibility-25577333?u=76281980&t=225)** Now, you're only going to see an issue if one exists.
 >
@@ -560,7 +555,7 @@ created: 2026-05-02
 >
 > **[8:34](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/check-pdf-accessibility-25577333?u=76281980&t=514)** And if you click on the Artifacts tab, you could see every item on each page that is currently being artifacted, which is pretty cool.
 >
-> **[8:43](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/check-pdf-accessibility-25577333?u=76281980&t=523)** Now in addition, this button will give you your document statistics.
+> **[8:43](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/check-pdf-accessibility-25577333?u=76281980&t=523)** Now in addition, this button will give you your document [[Statistics]].
 >
 > **[8:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/check-pdf-accessibility-25577333?u=76281980&t=528)** It tells you how many caption tags you have, how many figure tags, how many list tags, which is really pretty amazing.
 >
@@ -584,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Forms]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Statistics]] (1)
 > **Env Vars:** pac (8), pdf (7), wcag (4), toc (1)
 > **UI Navigation:** click on (8), go to (2), drag and drop (1)
 > **CLI Commands:** make (3), find (1)
@@ -593,8 +588,7 @@ created: 2026-05-02
 > **Warnings:** warning (1), keep in mind (1)
 > **Versions:** 2.1 (1)
 
-#### The NVDA PDF reader experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-nvda-pdf-reader-experience?u=76281980)
+#### [The NVDA PDF reader experience](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-nvda-pdf-reader-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -684,7 +678,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-nvda-pdf-reader-experience?u=76281980&t=216)** - [Instructor] Now that was an empty cell.
 >
-> **[3:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-nvda-pdf-reader-experience?u=76281980&t=217)** - [NVDA] Row three, Office Visit Copay, row four, Out-of-pocket Maximum.
+> **[3:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-nvda-pdf-reader-experience?u=76281980&t=217)** - [NVDA] Row three, [[Microsoft Office|Office]] Visit Copay, row four, Out-of-pocket Maximum.
 >
 > **[3:43](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-nvda-pdf-reader-experience?u=76281980&t=223)** - [Instructor] Now watch when I go over.
 >
@@ -706,15 +700,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), business (1), data (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (15), - [nvda] (14)
 > **Env Vars:** nvda (21), jaws (2), ppo (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.1 (1), 3.1 (1)
 > **UI Navigation:** navigate to (1)
 
-#### The JAWS PDF reader experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980)
+#### [The JAWS PDF reader experience](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -724,7 +717,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=9)** In my previous video, I showed you testing a document using NVDA, and in this video I'd like to show you JAWS.
 >
-> **[0:16](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=16)** Now both programs are great for reading and testing documents and ensuring a good user experience.
+> **[0:16](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=16)** Now both programs are great for reading and testing documents and ensuring a good [[User Experience (UX)|user experience]].
 >
 > **[0:22](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=22)** And NVDA and JAWS are definitely the two primary screen readers in use today.
 >
@@ -766,7 +759,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=116)** - [Instructor] So in this case, the heading is also a link.
 >
-> **[2:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=120)** So that's why you heard the word link at the very end because if I wanted to follow that link, I certainly could do that.
+> **[2:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=120)** So that's why you heard the [[Microsoft Word|word]] link at the very end because if I wanted to follow that link, I certainly could do that.
 >
 > **[2:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=126)** Now in addition to the H key, the H key is just going to read all headings, like it's going to consider every different heading level to be ambiguous.
 >
@@ -830,7 +823,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=250)** And I do that by holding down the Ctrl + Opt keys on my keyboard and using the arrow keys.
 >
-> **[4:17](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=257)** - [Voiceover] Blank row two, Office Visit Copay, row three.
+> **[4:17](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=257)** - [Voiceover] Blank row two, [[Microsoft Office|Office]] Visit Copay, row three.
 >
 > **[4:21](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-jaws-pdf-reader-experience?u=76281980&t=261)** - [Instructor] Now I can move to the right.
 >
@@ -878,7 +871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[User Experience (UX)|User experience]] (1), [[Microsoft Word|Word]] (1), hit (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (17), - [voiceover] (16)
 > **Env Vars:** jaws (11), nvda (3), ppo (3), pdf (2), hmo (1)
 > **Versions:** 1.1 (1), 15.00 (1), 10.00 (1)
@@ -891,8 +884,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Acrobat Pro DC setup and workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/acrobat-pro-dc-setup-and-workspace-25576403?u=76281980)
+#### [Acrobat Pro DC setup and workspace](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/acrobat-pro-dc-setup-and-workspace-25576403?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,8 +979,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### PDF accessibility requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/pdf-accessibility-requirements?u=76281980)
+#### [PDF accessibility requirements](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/pdf-accessibility-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1052,7 +1043,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** pdf (3), pac (1)
 > **Definitions:** is a  (2)
@@ -1060,8 +1050,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The PDF remediation workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-pdf-remediation-workflow?u=76281980)
+#### [The PDF remediation workflow](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-pdf-remediation-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,7 +1064,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-pdf-remediation-workflow?u=76281980&t=37)** And so, what I'm doing is I'm dividing the workflow into whether we're starting with the source document or we're not.
 >
-> **[0:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-pdf-remediation-workflow?u=76281980&t=45)** So if we have the source document, the idea is, in this workflow, we add properties to the source file and that source file could be Microsoft Word, Microsoft PowerPoint, Adobe InDesign, whatever the source file is, some applications, such as the ones I listed, give us the ability to add attributes to that file to facilitate the export to an accessible PDF.
+> **[0:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-pdf-remediation-workflow?u=76281980&t=45)** So if we have the source document, the idea is, in this workflow, we add properties to the source file and that source file could be [[Microsoft Word]], [[Microsoft PowerPoint]], Adobe InDesign, whatever the source file is, some applications, such as the ones I listed, give us the ability to add attributes to that file to facilitate the export to an accessible PDF.
 >
 > **[1:11](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-pdf-remediation-workflow?u=76281980&t=71)** So once you do that, you export to the PDF file, and now you have an accessible PDF.
 >
@@ -1105,7 +1094,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Microsoft PowerPoint]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Microsoft PowerPoint]] (1)
 > **Env Vars:** pdf (21)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -1113,8 +1102,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### PDF remediation
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/pdf-remediation?u=76281980)
+#### [PDF remediation](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/pdf-remediation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1143,8 +1131,7 @@ created: 2026-05-02
 > **Env Vars:** pdf (4)
 > **Speakers:** - [instructor] (1)
 
-#### The Acrobat interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-acrobat-interfaces?u=76281980)
+#### [The Acrobat interfaces](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-acrobat-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,7 +1199,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** pdf (1)
 > **Cross-References:** in the next (1)
@@ -1224,14 +1210,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980)
+#### [Add metadata](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980&t=0)** - [Instructor] There is certain metadata required in a PDF file in order to make a document accessible, specifically, a document title is required, and that title is required to be displayed when a PDF file is open.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980&t=0)** - [Instructor] There is certain [[Metadata]] required in a PDF file in order to make a document accessible, specifically, a document title is required, and that title is required to be displayed when a PDF file is open.
 >
-> **[0:13](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980&t=13)** Although the document title is the only required metadata element in a PDF file, due to the fact that most PDF files will be posted online, it can be helpful to add other metadata to the file to assist in search engine optimization.
+> **[0:13](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980&t=13)** Although the document title is the only required metadata element in a PDF file, due to the fact that most PDF files will be posted online, it can be helpful to add other metadata to the file to assist in [[Search Engine Optimization (SEO)|search engine optimization]].
 >
 > **[0:28](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980&t=28)** The title requirement for a PDF file can be found in the WCAG specifications under WCAG success criteria, 2.4.2 and it can be found in the PDF techniques for WCAG in item number 18.
 >
@@ -1255,7 +1240,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980&t=111)** And then you can add some keywords if you wish.
 >
-> **[1:54](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980&t=114)** I might want to to put in here, say human resources.
+> **[1:54](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980&t=114)** I might want to to put in here, say [[Human Resources (HR)|human resources]].
 >
 > **[1:58](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980&t=118)** Two Trees.
 >
@@ -1281,8 +1266,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tag content with the Reading Order tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool?u=76281980)
+#### [Tag content with the Reading Order tool](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1356,7 +1340,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool?u=76281980&t=299)** Now we get down here and this gets a little tricky.
 >
-> **[5:02](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool?u=76281980&t=302)** So what I'm going to do is I'm going to marquee this part of the text here and then what you can do is hold down the shift key on your keyboard and you can marquee the rest of the text to add that to your selection.
+> **[5:02](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool?u=76281980&t=302)** So what I'm going to do is I'm going to marquee this part of the text here and then what you can do is hold down the shift key on your keyboard and you can marquee the [[Representational State Transfer (REST)|rest]] of the text to add that to your selection.
 >
 > **[5:16](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool?u=76281980&t=316)** So I'm going to tag that as text, then I'll grab this next paragraph, tag that as text and then 1.1 changes in policy, I'm going to tag that as a heading too.
 >
@@ -1374,7 +1358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), next (3)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4)
 > **Env Vars:** pdf (3), wcag (2)
 > **UI Navigation:** click on (3), scroll down (1), select the (1)
 > **Versions:** 1.3.1 (1), 2.4.1 (1), 2.4.6 (1), 1.1 (1)
@@ -1383,8 +1367,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Dealing with content that spans more than one page
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page?u=76281980)
+#### [Dealing with content that spans more than one page](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1412,7 +1395,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page?u=76281980&t=76)** And if you click on the tag that follows it, you can see that that's the second part of that paragraph.
 >
-> **[1:24](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page?u=76281980&t=84)** Now, the fix for this is really quite simple, but I want to point out that the experience for the end user is going to be that it's going to read this text and it's going to stop abruptly after the word, employment.
+> **[1:24](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page?u=76281980&t=84)** Now, the fix for this is really quite simple, but I want to point out that the experience for the end user is going to be that it's going to read this text and it's going to stop abruptly after the [[Microsoft Word|word]], employment.
 >
 > **[1:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page?u=76281980&t=97)** So it's going to be a little bit of a strange experience because it just abruptly ends and then the user can read the next paragraph but then, of course, it's going to begin abruptly as well.
 >
@@ -1430,7 +1413,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page?u=76281980&t=168)** And you could see that this content is now all inside of the same tag.
 >
-> **[2:53](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page?u=76281980&t=173)** And so from a user experience, it's not going to stop abruptly and it will now read as one continuous paragraph.
+> **[2:53](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page?u=76281980&t=173)** And so from a [[User Experience (UX)|user experience]], it's not going to stop abruptly and it will now read as one continuous paragraph.
 >
 > **[3:02](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page?u=76281980&t=182)** Now, there's a couple more instances of this in this document and I'm going to have you go ahead and fix that.
 >
@@ -1444,14 +1427,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[User Experience (UX)|User experience]] (2), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tagging lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980)
+#### [Tagging lists](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1473,7 +1455,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=48)** And so I'm going to start by zooming in on this area.
 >
-> **[0:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=51)** So I'm just going to use my zoom button to kind of zoom in to get a better look at this.
+> **[0:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=51)** So I'm just going to use my [[Zoom]] button to kind of zoom in to get a better look at this.
 >
 > **[0:57](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=57)** And then I'm going to open my reading order panel.
 >
@@ -1581,13 +1563,13 @@ created: 2026-05-02
 >
 > **[6:43](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=403)** Now there's a couple more bulleted and numbered lists in this document.
 >
-> **[6:47](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=407)** So your homework if you will, is to continue going through this document, I'm going to do the same thing and go ahead and tag the rest of the lists in this document so that they are all tagged appropriately.
+> **[6:47](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=407)** So your homework if you will, is to continue going through this document, I'm going to do the same thing and go ahead and tag the [[Representational State Transfer (REST)|rest]] of the lists in this document so that they are all tagged appropriately.
 >
 > **[7:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists?u=76281980&t=420)** Tagging those lists appropriately will ensure that they are read correctly using assistive technology and that the reading experience is appropriate for the end user.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (5), select the (4), dropdown (3)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** wcag (2), pdf (2)
@@ -1596,8 +1578,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tagging table of contents
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents?u=76281980)
+#### [Tagging table of contents](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1613,7 +1594,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents?u=76281980&t=34)** And we did not previously tag the table of contents because I wanted to focus on this specifically.
 >
-> **[0:40](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents?u=76281980&t=40)** So I'm going to zoom in a little bit on this, and I'm going to come over here to my accessibility tool, and I'm going to open the reading order panel.
+> **[0:40](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents?u=76281980&t=40)** So I'm going to [[Zoom]] in a little bit on this, and I'm going to come over here to my accessibility tool, and I'm going to open the reading order panel.
 >
 > **[0:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents?u=76281980&t=48)** And I'm going to begin by selecting the elements of the TOC and tagging them as text because as you might notice, there is no TOC or TOCI tag as buttons in the reading order panel.
 >
@@ -1665,7 +1646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** toc (10), toci (6), pdf (2), wcag (1)
 > **UI Navigation:** select the (2), click on (2), open the (1)
 > **CLI Commands:** find (1)
@@ -1674,8 +1655,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Creating table of contents links
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links?u=76281980)
+#### [Creating table of contents links](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,11 +1741,11 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links?u=76281980&t=257)** You can see my cursor changes to a pointer, and when I click on that, it takes me to the page that that entry is linked to.
 >
-> **[4:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links?u=76281980&t=265)** It could be a bit of work, but creating links for your table of contents entry creates a better user experience and provides an easy means for users of assistive technology to efficiently navigate and read content in a document.
+> **[4:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links?u=76281980&t=265)** It could be a bit of work, but creating links for your table of contents entry creates a better [[User Experience (UX)|user experience]] and provides an easy means for users of assistive technology to efficiently navigate and read content in a document.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** click on (6), navigate to (3), go to (3)
 > **Env Vars:** pdf (2), toc (1), objr (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -1774,8 +1754,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
-#### Tagging tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-14418210?u=76281980)
+#### [Tagging tables](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-14418210?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1787,7 +1766,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-14418210?u=76281980&t=25)** I'm going to navigate to page 19 where I have a table up here at the top of the page.
 >
-> **[0:32](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-14418210?u=76281980&t=32)** Let me go ahead and zoom in a little bit to make it easier to see here.
+> **[0:32](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-14418210?u=76281980&t=32)** Let me go ahead and [[Zoom]] in a little bit to make it easier to see here.
 >
 > **[0:36](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-14418210?u=76281980&t=36)** Now I'm going to open up my Reading Order Panel found under my Accessibility tool, and you can see the currently this table is not tagged.
 >
@@ -1875,7 +1854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Zoom]] (1), data (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (3), navigate to (1), go to (1), select the (1), scroll down (1)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** in the next (1)
@@ -1884,8 +1863,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Table Editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor?u=76281980)
+#### [The Table Editor](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1977,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor?u=76281980&t=328)** Now to fix this, what I need to do is I need to tell this top cell that it occupies the space of three cells.
 >
-> **[5:38](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor?u=76281980&t=338)** Notice that in the rest of the table, there are three cells in every row.
+> **[5:38](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor?u=76281980&t=338)** Notice that in the [[Representational State Transfer (REST)|rest]] of the table, there are three cells in every row.
 >
 > **[5:42](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor?u=76281980&t=342)** So to properly define this, health insurance needs to be told that it occupies the space of three.
 >
@@ -2039,7 +2017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (4)
 > **UI Navigation:** click on (7), navigate to (1), go to (1), select the (1)
 > **Env Vars:** wcag (2), pdf (2), ppo (2), hmo (2)
@@ -2048,8 +2026,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Tools:** notion (1)
 
-#### Artifacting elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-elements?u=76281980)
+#### [Artifacting elements](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2155,7 +2132,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-elements?u=76281980&t=338)** So I'm going to right-click, choose Create Artifact, make that a pagination artifact attached to the bottom, and click OK.
 >
-> **[5:47](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-elements?u=76281980&t=347)** I'm not going to have you watch me do the rest of the pages.
+> **[5:47](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-elements?u=76281980&t=347)** I'm not going to have you watch me do the [[Representational State Transfer (REST)|rest]] of the pages.
 >
 > **[5:50](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-elements?u=76281980&t=350)** I'm going to let you go ahead and go through the rest of the document, artifact any of the unneeded objects, I'm going to do the same thing in the rest of the document, and if you want to start with the 03_11 document, it will automatically be artifacted.
 >
@@ -2190,8 +2167,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with the Content pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-the-content-pane?u=76281980)
+#### [Work with the Content pane](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-the-content-pane?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2309,7 +2285,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (3), click on (2), navigate to (1), right-click (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** pdf (2), nvda (1)
@@ -2318,8 +2293,7 @@ created: 2026-05-02
 > **Versions:** 1.3.2 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add alternative text
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-14413940?u=76281980)
+#### [Add alternative text](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-14413940?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2411,7 +2385,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** pdf (3), wcag (2)
 > **CLI Commands:** find (2), make (1)
@@ -2419,8 +2392,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add bookmarks
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-bookmarks?u=76281980)
+#### [Add bookmarks](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-bookmarks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2477,8 +2449,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [tutor] (1)
 
-#### Tagging footnotes
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes?u=76281980)
+#### [Tagging footnotes](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2490,7 +2461,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes?u=76281980&t=22)** I'm going to go ahead and navigate to the last page of the document, where at the bottom of the page, you're going to see a footnote that has been used on this page.
 >
-> **[0:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes?u=76281980&t=31)** Now, I'm going to go ahead and zoom in a little bit more just to make it easier for us to see what we're doing here.
+> **[0:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes?u=76281980&t=31)** Now, I'm going to go ahead and [[Zoom]] in a little bit more just to make it easier for us to see what we're doing here.
 >
 > **[0:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes?u=76281980&t=37)** And you'll also notice that right here is a footnote reference.
 >
@@ -2540,8 +2511,7 @@ created: 2026-05-02
 > **Versions:** 1.3.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walking the tags tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/walking-the-tags-tree?u=76281980)
+#### [Walking the tags tree](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/walking-the-tags-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2633,14 +2603,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **UI Navigation:** click on (4), scroll up (1), go to (1)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
-#### Validate the PDF file and cleanup
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/validate-the-pdf-file-and-cleanup?u=76281980)
+#### [Validate the PDF file and cleanup](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/validate-the-pdf-file-and-cleanup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2762,7 +2730,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **Env Vars:** pdf (10), pac (4), wcag (1)
 > **UI Navigation:** click on (4), right-click (3), dropdown (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
@@ -2771,8 +2738,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finishing touches
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/finishing-touches?u=76281980)
+#### [Finishing touches](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/finishing-touches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2879,8 +2845,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking color contrast
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-color-contrast?u=76281980)
+#### [Checking color contrast](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-color-contrast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2916,15 +2881,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **Env Vars:** pac (4), pdf (3), wcag (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Versions:** 4.5 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Testing with a screen reader
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader?u=76281980)
+#### [Testing with a screen reader](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2980,7 +2943,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader?u=76281980&t=121)** - [Automated Voice] Row two Health insurance column one.
 >
-> **[2:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader?u=76281980&t=124)** Row three Office visit copay health insurance PPO column two $15.
+> **[2:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader?u=76281980&t=124)** Row three [[Microsoft Office|Office]] visit copay health insurance PPO column two $15.
 >
 > **[2:10](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader?u=76281980&t=130)** - [Instructor] So, you can see how it reads the headings after, or I should say before it reads the data for the cell.
 >
@@ -3020,14 +2983,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Microsoft Office|Office]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (11), - [automated (10)
 > **Env Vars:** nbda (3), ira (2), jaws (1), ppo (1), hmo (1)
 > **Versions:** 1.1 (1), 6.2 (1), 6.4 (1), 6.5 (1), 6.6 (1)
 > **CLI Commands:** make (1)
 
-#### Third-party tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/third-party-tools?u=76281980)
+#### [Third-party tools](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/third-party-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3049,7 +3011,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/third-party-tools?u=76281980&t=68)** So you'll notice that this document is not tagged and the tab order has not been defined.
 >
-> **[1:16](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/third-party-tools?u=76281980&t=76)** So there's a couple of things we could do here and you might even notice too under metadata, the PDF/UA identifier is missing.
+> **[1:16](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/third-party-tools?u=76281980&t=76)** So there's a couple of things we could do here and you might even notice too under [[Metadata]], the PDF/UA identifier is missing.
 >
 > **[1:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/third-party-tools?u=76281980&t=85)** So I'm going to come up here to the extras menu and I'm going to click on this button here, which is add PDF/UA identifier.
 >
@@ -3113,7 +3075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), game (1), application (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Env Vars:** pdf (8), pac (2)
 > **UI Navigation:** click on (7), go to (3)
 > **CLI Commands:** make (4)
@@ -3126,16 +3088,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980)
+#### [Add metadata](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980&t=0)** - [Instructor] There are certain metadata required in a PDF file in order to make it accessible.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980&t=0)** - [Instructor] There are certain [[Metadata]] required in a PDF file in order to make it accessible.
 >
 > **[0:05](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980&t=5)** Specifically, a document title is required and that title is required to be displayed when a PDF file is open.
 >
-> **[0:13](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980&t=13)** Although the document title is the only required metadata element in a PDF file, due to the fact that most PDF files will be posted online, it can be really helpful to add other metadata to the file to assist in search engine optimization.
+> **[0:13](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980&t=13)** Although the document title is the only required metadata element in a PDF file, due to the fact that most PDF files will be posted online, it can be really helpful to add other metadata to the file to assist in [[Search Engine Optimization (SEO)|search engine optimization]].
 >
 > **[0:27](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980&t=27)** Or basically helping people find the document when they're searching for it online.
 >
@@ -3163,7 +3124,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980&t=121)** And if we wanted to, we could add some keywords again to help when people are searching for this content online.
 >
-> **[2:08](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980&t=128)** So maybe we'll type in here, employee manual, human resources, employment, whatever makes sense here.
+> **[2:08](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980&t=128)** So maybe we'll type in here, employee manual, [[Human Resources (HR)|human resources]], employment, whatever makes sense here.
 >
 > **[2:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980&t=140)** And once we've added this, all of this metadata is going to live with this document and it's going to become part of this document.
 >
@@ -3199,8 +3160,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tag content with the Reading Order tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool-25580385?u=76281980)
+#### [Tag content with the Reading Order tool](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool-25580385?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3272,7 +3232,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool-25580385?u=76281980&t=218)** And now I can get down here to the text objects.
 >
-> **[3:41](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool-25580385?u=76281980&t=221)** Now, I'm going to zoom in a little bit to make this a little bit easier for us to see.
+> **[3:41](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool-25580385?u=76281980&t=221)** Now, I'm going to [[Zoom]] in a little bit to make this a little bit easier for us to see.
 >
 > **[3:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-with-the-reading-order-tool-25580385?u=76281980&t=225)** I'm just using my zoom tool down there.
 >
@@ -3377,8 +3337,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tag content using the Contents pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-using-the-contents-pane?u=76281980)
+#### [Tag content using the Contents pane](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-using-the-contents-pane?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3466,7 +3425,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-using-the-contents-pane?u=76281980&t=273)** But if I click on three dots and choose Create Tag from Selection, now you can see that content has been moved into the H1 tag.
 >
-> **[4:44](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-using-the-contents-pane?u=76281980&t=284)** Now I'll go to the next P tag, and now we can grab the rest of the text for that second line, Create Tag from Selection.
+> **[4:44](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-using-the-contents-pane?u=76281980&t=284)** Now I'll go to the next P tag, and now we can grab the [[Representational State Transfer (REST)|rest]] of the text for that second line, Create Tag from Selection.
 >
 > **[4:57](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tag-content-using-the-contents-pane?u=76281980&t=297)** And again, now you can see that that text has been added.
 >
@@ -3536,7 +3495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (12), go to (4), select the (1)
 > **Speakers:** - [sharky] (5), - so (2), - [instructor] (1), - but (1), - and (1)
 > **Env Vars:** jaws (5), pdf (1), ops64 (1), ops (1)
@@ -3545,8 +3504,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 
-#### Dealing with content that spans more than one page
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page-25577340?u=76281980)
+#### [Dealing with content that spans more than one page](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page-25577340?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3554,7 +3512,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page-25577340?u=76281980&t=6)** However, when tagging content using Adobe Acrobat, it's not possible to select content on more than one page at a time.
 >
-> **[0:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page-25577340?u=76281980&t=14)** Furthermore, some applications are better at dealing with these situations than other applications, and may often split content across a page creating a less-than-desirable user experience.
+> **[0:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page-25577340?u=76281980&t=14)** Furthermore, some applications are better at dealing with these situations than other applications, and may often split content across a page creating a less-than-desirable [[User Experience (UX)|user experience]].
 >
 > **[0:26](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page-25577340?u=76281980&t=26)** Let's take a look at how to deal with this situation.
 >
@@ -3596,7 +3554,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page-25577340?u=76281980&t=178)** I will tell you that Adobe InDesign is particularly good about handling this.
 >
-> **[3:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page-25577340?u=76281980&t=184)** You really will not see this situation when exporting out of InDesign, but other applications such as Microsoft Word, and I think maybe PowerPoint, tends to break the content mid-sentence when it goes from one page to another.
+> **[3:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page-25577340?u=76281980&t=184)** You really will not see this situation when exporting out of InDesign, but other applications such as [[Microsoft Word]], and I think maybe [[Microsoft PowerPoint|PowerPoint]], tends to break the content mid-sentence when it goes from one page to another.
 >
 > **[3:19](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/dealing-with-content-that-spans-more-than-one-page-25577340?u=76281980&t=199)** So the way that we can fix this is I'm simply going to open the P tag to see the content within it, and then I'm going to open the P tag of the following paragraph, and I'm simply going to grab these content objects and I'm going to move them up into the first P tag.
 >
@@ -3654,15 +3612,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), next (2), [[Microsoft Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Microsoft Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** open the (3), click on (1), go to (1), right-click (1), select the (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Tagging lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists-25578357?u=76281980)
+#### [Tagging lists](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists-25578357?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3702,7 +3659,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists-25578357?u=76281980&t=122)** And that's located right here.
 >
-> **[2:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists-25578357?u=76281980&t=124)** So I'm going to zoom in a little bit to make this process a little bit easier to see and to kind of see what I'm doing here.
+> **[2:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists-25578357?u=76281980&t=124)** So I'm going to [[Zoom]] in a little bit to make this process a little bit easier to see and to kind of see what I'm doing here.
 >
 > **[2:13](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-lists-25578357?u=76281980&t=133)** And I'm going to come up here to where it says all tools.
 >
@@ -3814,7 +3771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** pdf (5), wcag (3)
 > **UI Navigation:** click on (7), dropdown (1)
 > **CLI Commands:** find (3), make (1)
@@ -3822,8 +3779,7 @@ created: 2026-05-02
 > **Versions:** 1.3.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tagging your table of contents
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980)
+#### [Tagging your table of contents](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3891,7 +3847,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=236)** Okay, and then we can come down here.
 >
-> **[3:58](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=238)** Now, I'm going to purposefully grab too much, 'cause what I want to show you is that in addition to holding the SHIFT key to add to the selection, you can hold down the CONTROL key on Windows to subtract from the selection.
+> **[3:58](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=238)** Now, I'm going to purposefully grab too much, 'cause what I want to show you is that in addition to holding the SHIFT key to add to the selection, you can hold down the CONTROL key on [[Windows]] to subtract from the selection.
 >
 > **[4:13](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=253)** So I could come in here and say, "I don't want that, don't tag it."
 >
@@ -3903,7 +3859,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=273)** Again, remove that and we'll tag that.
 >
-> **[4:35](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=275)** So I'm going to zoom in a little bit to hopefully make this a little bit easier for everybody to see.
+> **[4:35](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=275)** So I'm going to [[Zoom]] in a little bit to hopefully make this a little bit easier for everybody to see.
 >
 > **[4:42](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=282)** There we go.
 >
@@ -3913,7 +3869,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=295)** So this process is a little bit painstaking.
 >
-> **[5:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=300)** You want to be a little bit careful, but it's going to create a good user experience, and that's really the point of this, is we want to make sure that when somebody's reading this, that they're going to have a good experience.
+> **[5:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=300)** You want to be a little bit careful, but it's going to create a good [[User Experience (UX)|user experience]], and that's really the point of this, is we want to make sure that when somebody's reading this, that they're going to have a good experience.
 >
 > **[5:19](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-table-of-contents-25576412?u=76281980&t=319)** So obviously I'm not going to do this entire table of contents.
 >
@@ -3965,7 +3921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Windows]] (1), hit (1), [[Zoom]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Zoom]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** toc (7), shift (5), toci (3), pdf (2), control (2)
 > **CLI Commands:** make (7), find (1)
 > **UI Navigation:** click on (4), dropdown (2), go to (1), select the (1)
@@ -3974,8 +3930,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Creating table of contents links
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980)
+#### [Creating table of contents links](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3985,7 +3940,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=13)** When starting the PDF remediation process from a source document, this can happen automatically.
 >
-> **[0:18](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=18)** For example, Adobe InDesign and Microsoft Word can automatically give you a linked table of contents, but tagging A PDF from scratch requires us to do the work ourselves.
+> **[0:18](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=18)** For example, Adobe InDesign and [[Microsoft Word]] can automatically give you a linked table of contents, but tagging A PDF from scratch requires us to do the work ourselves.
 >
 > **[0:30](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=30)** To get started, I'm going to create a destination to where I want the entry in my table of contents to go, and then I'm going to link to that destination.
 >
@@ -4145,11 +4100,11 @@ created: 2026-05-02
 >
 > **[8:27](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=507)** Quit JAWS-
 >
-> **[8:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=509)** - [Lecturer] And so it can be a lot of work, but creating links for your table of contents entries creates a better user experience and provides an easy means for users of assistive technology to efficiently navigate and read content in the document.
+> **[8:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-table-of-contents-links-25576414?u=76281980&t=509)** - [Lecturer] And so it can be a lot of work, but creating links for your table of contents entries creates a better [[User Experience (UX)|user experience]] and provides an easy means for users of assistive technology to efficiently navigate and read content in the document.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (1), next (1), hit (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** click on (8), go to (7), navigate to (3)
 > **Env Vars:** jaws (6), pdf (3), objr (3), toci (1)
 > **Speakers:** - [lecturer] (6), - [jaws (3)
@@ -4158,8 +4113,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
-#### Tagging tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-25576413?u=76281980)
+#### [Tagging tables](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-25576413?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4229,7 +4183,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-25576413?u=76281980&t=209)** And instead of tagging this as a table using a single button, what we can do is tag the individual parts of it as a cell.
 >
-> **[3:39](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-25576413?u=76281980&t=219)** So I'm going to zoom in a little bit here, to make this a little bit easier for everybody to see.
+> **[3:39](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-25576413?u=76281980&t=219)** So I'm going to [[Zoom]] in a little bit here, to make this a little bit easier for everybody to see.
 >
 > **[3:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables-25576413?u=76281980&t=225)** And I'm going to highlight the text that says health insurance, and I'm going to tag that as a cell.
 >
@@ -4311,7 +4265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (4), go to (3), navigate to (1), scroll down (1)
 > **CLI Commands:** find (4), make (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -4320,8 +4274,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Table Editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor-25576415?u=76281980)
+#### [The Table Editor](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor-25576415?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4361,7 +4314,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor-25576415?u=76281980&t=127)** And that takes us into what we call Table Editor mode.
 >
-> **[2:11](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor-25576415?u=76281980&t=131)** In Table Editor mode, I'm going to zoom in so we can see this a little bit better here, but Table Editor mode is a mode in which we can define the different parts of the table.
+> **[2:11](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor-25576415?u=76281980&t=131)** In Table Editor mode, I'm going to [[Zoom]] in so we can see this a little bit better here, but Table Editor mode is a mode in which we can define the different parts of the table.
 >
 > **[2:21](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-table-editor-25576415?u=76281980&t=141)** Now before I go too far, what we can also do is if you right click on this selected area, we can choose Table Editor Options.
 >
@@ -4481,7 +4434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), data (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (11), scroll down (2), go to (2)
 > **Definitions:** defined as (4), is a  (1)
 > **Env Vars:** wcag (2), ppo (1), hmo (1)
@@ -4490,8 +4443,7 @@ created: 2026-05-02
 > **Warnings:** common error (1)
 > **Speakers:** - [instructor] (1)
 
-#### Artifacting elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-elements-25577341?u=76281980)
+#### [Artifacting elements](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-elements-25577341?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4636,8 +4588,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with the Content pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-the-content-pane-25579381?u=76281980)
+#### [Work with the Content pane](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-the-content-pane-25579381?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4767,7 +4718,7 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-the-content-pane-25579381?u=76281980&t=408)** But at the end of the day, the results are really, really good.
 >
-> **[6:53](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-the-content-pane-25579381?u=76281980&t=413)** so I think throughout the rest of this document, I think the order is pretty good.
+> **[6:53](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-the-content-pane-25579381?u=76281980&t=413)** so I think throughout the [[Representational State Transfer (REST)|rest]] of this document, I think the order is pretty good.
 >
 > **[7:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-the-content-pane-25579381?u=76281980&t=420)** Maybe when we get to... Here's another good example where our figure and caption is read too late on the page.
 >
@@ -4787,7 +4738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Representational State Transfer (REST)|Rest]] (1), power (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (5), click on (2), navigate to (1), select the (1)
 > **Env Vars:** pdf (1), changes (1), policy (1), absence (1), without (1)
 > **CLI Commands:** find (3), make (2)
@@ -4796,8 +4747,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add alternative text
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-25578362?u=76281980)
+#### [Add alternative text](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-25578362?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4843,7 +4793,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-25578362?u=76281980&t=164)** So I'm going to type in here Two Trees Olive Oil logo.
 >
-> **[2:50](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-25578362?u=76281980&t=170)** I personally like to add the word logo when it is in fact a logo for a document.
+> **[2:50](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-25578362?u=76281980&t=170)** I personally like to add the [[Microsoft Word|word]] logo when it is in fact a logo for a document.
 >
 > **[2:58](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-25578362?u=76281980&t=178)** I feel like that gives context to the object.
 >
@@ -4865,7 +4815,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-25578362?u=76281980&t=215)** And this one's on page four.
 >
-> **[3:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-25578362?u=76281980&t=217)** And I'll go ahead and zoom it a little bit so we can see that a little bit better here.
+> **[3:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-25578362?u=76281980&t=217)** And I'll go ahead and [[Zoom]] it a little bit so we can see that a little bit better here.
 >
 > **[3:42](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-25578362?u=76281980&t=222)** There we go.
 >
@@ -4955,15 +4905,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1), [[Zoom]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (7), go to (1), checkbox (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add bookmarks
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-bookmarks-25581230?u=76281980)
+#### [Add bookmarks](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-bookmarks-25581230?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5049,7 +4998,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-bookmarks-25581230?u=76281980&t=294)** And this allows you to really nicely organize your bookmarks in a way that is a lot easier for users to navigate through them.
 >
-> **[5:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-bookmarks-25581230?u=76281980&t=306)** So I'm just going to nest the rest of these here, this goes under Section 6, and then finally Section 7, will go right there.
+> **[5:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-bookmarks-25581230?u=76281980&t=306)** So I'm just going to nest the [[Representational State Transfer (REST)|rest]] of these here, this goes under Section 6, and then finally Section 7, will go right there.
 >
 > **[5:17](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-bookmarks-25581230?u=76281980&t=317)** And now you have all of these sections within your document that you can navigate, and you have a hierarchy established.
 >
@@ -5072,8 +5021,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Best Practices:** recommended (1)
 
-#### Tagging footnotes
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes-25578360?u=76281980)
+#### [Tagging footnotes](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes-25578360?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5115,9 +5063,9 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes-25578360?u=76281980&t=146)** But this is how we typically structure footnotes because the reference is tagged within the paragraph.
 >
-> **[2:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes-25578360?u=76281980&t=153)** So it's going to say under normal working conditions one, and then that's tagged as a reference, and then immediately below it is the word note.
+> **[2:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes-25578360?u=76281980&t=153)** So it's going to say under normal working conditions one, and then that's tagged as a reference, and then immediately below it is the [[Microsoft Word|word]] note.
 >
-> **[2:42](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes-25578360?u=76281980&t=162)** Now, one of the techniques that my partner, Dax Castro and I have established when it comes to working with footnote references, is we like to put the reference in brackets.
+> **[2:42](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes-25578360?u=76281980&t=162)** Now, one of the techniques that my partner, [[DAX]] Castro and I have established when it comes to working with footnote references, is we like to put the reference in brackets.
 >
 > **[2:57](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-footnotes-25578360?u=76281980&t=177)** So I'll try to show you what this would look like.
 >
@@ -5167,8 +5115,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [chad (1)
 
-#### Walking the tags tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/walking-the-tags-tree-25578359?u=76281980)
+#### [Walking the tags tree](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/walking-the-tags-tree-25578359?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5220,15 +5167,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (3), scroll up (1)
 > **Env Vars:** jaws (1), nvda (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tagging unmarked annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-unmarked-annotations?u=76281980)
+#### [Tagging unmarked annotations](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-unmarked-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5316,15 +5261,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Search]] (1)
 > **CLI Commands:** find (8), make (1)
 > **Env Vars:** toc (3), pdf (2), toci (2)
 > **UI Navigation:** click on (3), go to (2), dropdown (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Validate the PDF file and cleanup
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/validate-the-pdf-file-and-cleanup-25581231?u=76281980)
+#### [Validate the PDF file and cleanup](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/validate-the-pdf-file-and-cleanup-25581231?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5416,7 +5359,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** pdf (3), pac (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Definitions:** is a  (2), is an  (1)
@@ -5424,8 +5366,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking compliance using the PAC checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-compliance-using-the-pac-checker?u=76281980)
+#### [Checking compliance using the PAC checker](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-compliance-using-the-pac-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5577,7 +5518,7 @@ created: 2026-05-02
 >
 > **[9:39](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-compliance-using-the-pac-checker?u=76281980&t=579)** So I'm going to save this, and now if I go back to my PAC checker and I refresh this, now we can see under the structure tree we've addressed all those issues.
 >
-> **[9:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-compliance-using-the-pac-checker?u=76281980&t=591)** So the two remaining things we have is the alt text on the annotations, and you can see there's quite a few, and the metadata, the PDF/UA identifier.
+> **[9:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-compliance-using-the-pac-checker?u=76281980&t=591)** So the two remaining things we have is the alt text on the annotations, and you can see there's quite a few, and the [[Metadata]], the PDF/UA identifier.
 >
 > **[10:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-compliance-using-the-pac-checker?u=76281980&t=604)** So, the alternate text for the annotations, that can be fixed pretty easily.
 >
@@ -5625,7 +5566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), hit (1)
+> **Frameworks & Libraries:** [[Metadata]] (2)
 > **UI Navigation:** click on (14), go to (13), navigate to (2), dropdown (2)
 > **Env Vars:** pdf (14), pac (9), wcag (2)
 > **Cross-References:** go back to (7)
@@ -5634,8 +5575,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking color contrast
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-color-contrast-25578361?u=76281980)
+#### [Checking color contrast](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-color-contrast-25578361?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5647,7 +5587,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-color-contrast-25578361?u=76281980&t=29)** You can get this on the TPGI website.
 >
-> **[0:34](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-color-contrast-25578361?u=76281980&t=34)** The Color Contrast Analyzer is a free tool and it's available for both Mac and Windows and it's a really useful tool for being able to evaluate the elements in your document.
+> **[0:34](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-color-contrast-25578361?u=76281980&t=34)** The Color Contrast Analyzer is a free tool and it's available for both Mac and [[Windows]] and it's a really useful tool for being able to evaluate the elements in your document.
 >
 > **[0:47](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/checking-color-contrast-25578361?u=76281980&t=47)** The way the color contrast analyzer works, you'll notice that there's a foreground color and a background color here.
 >
@@ -5695,7 +5635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** wcag (2), pdf (1), tpgi (1), pac (1)
 > **Versions:** 4.5 (2), 1.4 (1)
 > **Definitions:** is a  (3)
@@ -5703,8 +5643,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing with a screen reader
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader-25577342?u=76281980)
+#### [Testing with a screen reader](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader-25577342?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5774,7 +5713,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader-25577342?u=76281980&t=147)** - [Instructor] So then I'll check to see if I can navigate through that table.
 >
-> **[2:30](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader-25577342?u=76281980&t=150)** - [JAWS] Blank row two, office visit copy, row three, health insurance PPO, $15.00, column two, health insurance, HMO, $10.00, column three.
+> **[2:30](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader-25577342?u=76281980&t=150)** - [JAWS] Blank row two, [[Microsoft Office|office]] visit copy, row three, health insurance PPO, $15.00, column two, health insurance, HMO, $10.00, column three.
 >
 > **[2:43](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/testing-with-a-screen-reader-25577342?u=76281980&t=163)** - [Instructor] And that tells me that my table is structured correctly because if you notice, it says health insurance, HMO, $10, and that basically means that both of those cells are defined as header cells for this data cell, so that's really perfect.
 >
@@ -5794,7 +5733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Office|Office]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Speakers:** - [jaws] (11), - [instructor] (10), - [narrator] (1)
 > **Env Vars:** jaws (14), ppo (2), hmo (2), pdf (1)
 > **CLI Commands:** make (4)
@@ -5807,14 +5746,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessible PDF on Windows vs. Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980)
+#### [Accessible PDF on Windows vs. Mac](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980&t=0)** - [Instructor] Although the Mac and Windows version of Microsoft Word are made by the same company, they unfortunately don't behave in the exact same way, nor do they contain the exact same features.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980&t=0)** - [Instructor] Although the Mac and [[Windows]] version of [[Microsoft Word]] are made by the same company, they unfortunately don't behave in the exact same way, nor do they contain the exact same features.
 >
-> **[0:12](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980&t=12)** In this video, I'll show you methods to create accessible PDF files from Word on both the Mac and Windows platforms, but for the remainder of the videos in this chapter, I'll be using Windows due to the fact that the features are a bit more robust.
+> **[0:12](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980&t=12)** In this video, I'll show you methods to create accessible PDF files from [[Microsoft Word|Word]] on both the Mac and Windows platforms, but for the remainder of the videos in this chapter, I'll be using Windows due to the fact that the features are a bit more robust.
 >
 > **[0:26](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980&t=26)** There's two main ways that we can create accessible PDF files out of Word, depending on what software you have installed.
 >
@@ -5886,7 +5824,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980&t=262)** And down here, I'm going to choose best for electronic distribution and accessibility.
 >
-> **[4:28](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980&t=268)** So you can see that uses Microsoft's Online service.
+> **[4:28](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980&t=268)** So you can see that uses [[Microsoft]]'s Online service.
 >
 > **[4:32](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980&t=272)** The second method, you'll notice that even in Word on the Mac side, we have an Acrobat tab up here.
 >
@@ -5916,7 +5854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Microsoft Word|Word]] (5), [[Microsoft Word]] (3), cloud (2), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Microsoft Word|Word]] (5), [[Microsoft Word]] (3), [[Microsoft]] (1)
 > **Env Vars:** pdf (15)
 > **UI Navigation:** click on (7), dropdown (2), open the (1), go to (1)
 > **CLI Commands:** make (7)
@@ -5924,14 +5862,13 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Layout considerations and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/layout-considerations-and-setup?u=76281980)
+#### [Layout considerations and setup](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/layout-considerations-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/layout-considerations-and-setup?u=76281980&t=0)** - [Instructor] One of the things you'll hear me say over and over in this course, is that you need to use the features built into the source application that you're using in order to achieve success when creating accessible PDF files from those documents.
 >
-> **[0:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/layout-considerations-and-setup?u=76281980&t=14)** In the case of Word, you want to honor the natural top to bottom flow of content that Word uses.
+> **[0:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/layout-considerations-and-setup?u=76281980&t=14)** In the case of [[Microsoft Word|Word]], you want to honor the natural top to bottom flow of content that Word uses.
 >
 > **[0:21](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/layout-considerations-and-setup?u=76281980&t=21)** This will ensure that your content is tagged in the correct order when you export to the PDF.
 >
@@ -5965,23 +5902,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), application (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Env Vars:** pdf (5)
 > **UI Navigation:** click on (1), checkbox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980)
+#### [Add metadata](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=0)** - [Instructor] If you've been watching this course from the beginning, you're already familiar with the need to add metadata, namely the title, to a document for accessibility compliance.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=0)** - [Instructor] If you've been watching this course from the beginning, you're already familiar with the need to add [[Metadata]], namely the title, to a document for accessibility compliance.
 >
-> **[0:10](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=10)** The main benefit of starting the PDF remediation process from a source file, in our case, Word, is that the properties that you add to a document are repeatable.
+> **[0:10](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=10)** The main benefit of starting the PDF remediation process from a source file, in our case, [[Microsoft Word|Word]], is that the properties that you add to a document are repeatable.
 >
 > **[0:19](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=19)** So if you ever need to make an edit and recreate the PDF, a lot of the work is already done for you, and you don't have to start over from scratch.
 >
-> **[0:27](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=27)** Let's take a look at how to add the title to a document in Microsoft Word.
+> **[0:27](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=27)** Let's take a look at how to add the title to a document in [[Microsoft Word]].
 >
 > **[0:32](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=32)** So I'm starting here with the 04_02 document open on my computer, and I'm going to come up here to the File menu.
 >
@@ -5999,11 +5935,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=80)** But keeping in mind that the reason why we're doing what we're doing is because we're going to be posting this online, making it available to a larger audience.
 >
-> **[1:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=91)** And so it can also be beneficial to add other fields to assist in search engine optimization.
+> **[1:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=91)** And so it can also be beneficial to add other fields to assist in [[Search Engine Optimization (SEO)|search engine optimization]].
 >
 > **[1:40](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=100)** So for example, the tags field here is going to map to the keywords field in the PDF.
 >
-> **[1:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=105)** So I can type in here, say, "human resources, manual, employee."
+> **[1:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=105)** So I can type in here, say, "[[Human Resources (HR)|human resources]], manual, employee."
 >
 > **[1:53](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=113)** That should be good.
 >
@@ -6011,7 +5947,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=117)** I'm going to type "the 2021 Edition of the two trees employee manual."
 >
-> **[2:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=126)** And then one of the things that you want to be careful about with the Office applications is that whoever the user is who created the document becomes the author of the document.
+> **[2:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=126)** And then one of the things that you want to be careful about with the [[Microsoft Office|Office]] applications is that whoever the user is who created the document becomes the author of the document.
 >
 > **[2:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-14415828?u=76281980&t=140)** And that name is going to travel along with the PDF file.
 >
@@ -6061,12 +5997,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styles and outline levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/styles-and-outline-levels?u=76281980)
+#### [Styles and outline levels](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/styles-and-outline-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/styles-and-outline-levels?u=76281980&t=0)** - Styles in Word are the magic glue that connects content in Word to the tag that will be applied to that content in the exported PDF file.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/styles-and-outline-levels?u=76281980&t=0)** - Styles in [[Microsoft Word|Word]] are the magic glue that connects content in Word to the tag that will be applied to that content in the exported PDF file.
 >
 > **[0:10](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/styles-and-outline-levels?u=76281980&t=10)** Let's take a look at how to use, apply, and modify styles in Word for success when exporting to an accessible PDF file.
 >
@@ -6156,7 +6091,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8)
 > **Env Vars:** pdf (7)
 > **UI Navigation:** click on (5), scroll down (1)
 > **CLI Commands:** make (4)
@@ -6165,8 +6100,7 @@ created: 2026-05-02
 > **Definitions:** defined as (1)
 > **Speakers:** - styles (1)
 
-#### Adding bookmarks
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-bookmarks?u=76281980)
+#### [Adding bookmarks](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-bookmarks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6184,7 +6118,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-bookmarks?u=76281980&t=36)** And right here is where we can utilize any headings used in our document to create bookmarks.
 >
-> **[0:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-bookmarks?u=76281980&t=45)** Now, if you choose, you can also manually create Word bookmarks.
+> **[0:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-bookmarks?u=76281980&t=45)** Now, if you choose, you can also manually create [[Microsoft Word|Word]] bookmarks.
 >
 > **[0:50](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-bookmarks?u=76281980&t=50)** You'll notice that's an option, but it's currently grayed out because I have not created any of those inside of Word.
 >
@@ -6222,7 +6156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), feature (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7)
 > **Env Vars:** pdf (12)
 > **UI Navigation:** click on (3), go to (1)
 > **Cross-References:** previous chapter (1)
@@ -6230,16 +6164,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tagging tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables?u=76281980)
+#### [Tagging tables](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables?u=76281980&t=0)** - [Instructor] Tables created in Microsoft Word naturally export well to the PDF format because they're automatically tagged appropriately in the PDF.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables?u=76281980&t=0)** - [Instructor] Tables created in [[Microsoft Word]] naturally export well to the PDF format because they're automatically tagged appropriately in the PDF.
 >
 > **[0:09](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables?u=76281980&t=9)** As you've learned earlier in this course, one requirement of tables in an accessible PDF document, is that every table must contain a header row.
 >
-> **[0:18](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables?u=76281980&t=18)** So, let's take a closer look at how to define those header rows in Word for proper export to the PDF format.
+> **[0:18](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables?u=76281980&t=18)** So, let's take a closer look at how to define those header rows in [[Microsoft Word|Word]] for proper export to the PDF format.
 >
 > **[0:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/tagging-tables?u=76281980&t=25)** I'm going to go ahead and make a PDF of this file simply to show you what we currently have and what the problem is.
 >
@@ -6293,15 +6226,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2), [[Microsoft Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Word]] (1)
 > **Env Vars:** pdf (8)
 > **UI Navigation:** go to (3), checkbox (2), navigate to (1), click on (1), scroll down (1)
 > **CLI Commands:** make (6), find (1)
 > **Cross-References:** earlier in (1), go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add hyperlinks
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-hyperlinks?u=76281980)
+#### [Add hyperlinks](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-hyperlinks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6309,7 +6241,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-hyperlinks?u=76281980&t=6)** You need to actually define that text as a hyperlink in order for the link to be accessible in the exported in PDF.
 >
-> **[0:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-hyperlinks?u=76281980&t=14)** Let's take a closer look at how to properly add a hyperlink in Word, that will be included in the accessible PDF file.
+> **[0:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-hyperlinks?u=76281980&t=14)** Let's take a closer look at how to properly add a hyperlink in [[Microsoft Word|Word]], that will be included in the accessible PDF file.
 >
 > **[0:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-hyperlinks?u=76281980&t=20)** I'm just going to go ahead and scroll down to page two, where in the last paragraph on that page, there is a hyperlink that goes to an email address.
 >
@@ -6395,7 +6327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **Env Vars:** pdf (8), objr (1)
 > **UI Navigation:** click on (4), scroll down (1), go to (1)
 > **CLI Commands:** make (4)
@@ -6404,8 +6336,7 @@ created: 2026-05-02
 > **URLs:** [twotreesoliveoil.com](https://twotreesoliveoil.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a table of contents
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-table-of-contents?u=76281980)
+#### [Create a table of contents](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-table-of-contents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6413,7 +6344,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-table-of-contents?u=76281980&t=6)** It's even more helpful if the entries in the table of contents contain hyperlinks to those locations.
 >
-> **[0:12](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-table-of-contents?u=76281980&t=12)** The table of contents feature in Word does both of those things.
+> **[0:12](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-table-of-contents?u=76281980&t=12)** The table of contents feature in [[Microsoft Word|Word]] does both of those things.
 >
 > **[0:15](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-table-of-contents?u=76281980&t=15)** Let's take a closer look at how the table of contents feature works in Word.
 >
@@ -6471,21 +6402,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), feature (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **Env Vars:** pdf (4), toci (2), toc (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** scroll down (1), click on (1), scroll up (1), go to (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add alternative text
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text?u=76281980)
+#### [Add alternative text](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text?u=76281980&t=0)** - [Narrator] Every figure in a document needs alternative text added to describe that figure and its context.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text?u=76281980&t=7)** Microsoft Word gives us the ability to add alternative text to figures.
+> **[0:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text?u=76281980&t=7)** [[Microsoft Word]] gives us the ability to add alternative text to figures.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text?u=76281980&t=11)** So let's take a closer look.
 >
@@ -6493,7 +6423,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text?u=76281980&t=18)** Now to add alternative text to this figure, I'm simply going to click on it to select it, and then I'm going to right click and I'm going to choose Edit Alt Text.
 >
-> **[0:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text?u=76281980&t=29)** Now in older versions of Word, you may need to right click and choose Format Picture.
+> **[0:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text?u=76281980&t=29)** Now in older versions of [[Microsoft Word|Word]], you may need to right click and choose Format Picture.
 >
 > **[0:35](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text?u=76281980&t=35)** And then you should see an Alt Text tab at the top of that dialog box.
 >
@@ -6544,8 +6474,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Best Practices:** remember to (1)
 
-#### Artifacting objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-objects?u=76281980)
+#### [Artifacting objects](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6557,7 +6486,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-objects?u=76281980&t=20)** Both of these situations require the content to be artifacted.
 >
-> **[0:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-objects?u=76281980&t=25)** Let's take a closer look at how to do that in Word.
+> **[0:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-objects?u=76281980&t=25)** Let's take a closer look at how to do that in [[Microsoft Word|Word]].
 >
 > **[0:28](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-objects?u=76281980&t=28)** I don't actually have any figures to mark as decorative here, but to show you, if I click on a figure here in Word you'll notice in the Alt Text task pane, there is a mark as decorative checkbox at the bottom.
 >
@@ -6615,20 +6544,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), feature (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **UI Navigation:** go to (3), checkbox (2), click on (1), double-click (1)
 > **Env Vars:** pdf (4)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Footnotes and endnotes
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/footnotes-and-endnotes?u=76281980)
+#### [Footnotes and endnotes](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/footnotes-and-endnotes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/footnotes-and-endnotes?u=76281980&t=0)** - When footnotes are used in an accessible PDF, we need to make sure that the user can read those elements appropriately.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/footnotes-and-endnotes?u=76281980&t=7)** By using the footnote and note feature In word, you ensure that these footnotes are properly tagged in the PDF file.
+> **[0:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/footnotes-and-endnotes?u=76281980&t=7)** By using the footnote and note feature In [[Microsoft Word|word]], you ensure that these footnotes are properly tagged in the PDF file.
 >
 > **[0:15](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/footnotes-and-endnotes?u=76281980&t=15)** What we going to do, is we going to scroll down to page five where we're going to add our first footnote.
 >
@@ -6694,7 +6622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Microsoft Word|Word]] (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Env Vars:** pdf (5)
 > **UI Navigation:** scroll down (2), navigate to (1), click on (1)
 > **CLI Commands:** make (1), find (1)
@@ -6703,16 +6631,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
-#### Things to watch out for in Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/things-to-watch-out-for-in-word?u=76281980)
+#### [Things to watch out for in Word](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/things-to-watch-out-for-in-word?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/things-to-watch-out-for-in-word?u=76281980&t=0)** - [Presenter] Microsoft word does a pretty good job when saving to the PDF format and making the file accessible.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/things-to-watch-out-for-in-word?u=76281980&t=0)** - [Presenter] [[Microsoft Word]] does a pretty good job when saving to the PDF format and making the file accessible.
 >
 > **[0:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/things-to-watch-out-for-in-word?u=76281980&t=6)** However, it's not perfect.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/things-to-watch-out-for-in-word?u=76281980&t=8)** And I want to point out a few issues you can encounter when creating accessible PDF files from Word.
+> **[0:08](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/things-to-watch-out-for-in-word?u=76281980&t=8)** And I want to point out a few issues you can encounter when creating accessible PDF files from [[Microsoft Word|Word]].
 >
 > **[0:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/things-to-watch-out-for-in-word?u=76281980&t=14)** Now, I'm actually starting this video with Acrobat open and I've already opened the 0412 document because this document contains an issue that I wanted to show you.
 >
@@ -6806,12 +6733,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), watch out (1)
 > **Speakers:** - [presenter] (1)
 
-#### Touch-ups after conversion from Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-word?u=76281980)
+#### [Touch-ups after conversion from Word](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-word?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-word?u=76281980&t=0)** - [Presenter] So we've done everything we can in word to facilitate the creation of an accessible PDF document.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-word?u=76281980&t=0)** - [Presenter] So we've done everything we can in [[Microsoft Word|word]] to facilitate the creation of an accessible PDF document.
 >
 > **[0:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-word?u=76281980&t=6)** Although the Acrobat checker is going to tell us we're good to go.
 >
@@ -6851,7 +6777,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-word?u=76281980&t=103)** Inappropriate use of a P structure element that's in the notes, we talked about that before.
 >
-> **[1:47](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-word?u=76281980&t=107)** My notes also need to have the placement block attribute added, alternative descriptions, and then the metadata, my PDF UA identifier.
+> **[1:47](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-word?u=76281980&t=107)** My notes also need to have the placement block attribute added, alternative descriptions, and then the [[Metadata]], my PDF UA identifier.
 >
 > **[1:58](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-word?u=76281980&t=118)** So, let's go ahead and address some of these.
 >
@@ -6933,7 +6859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Metadata]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Metadata]] (2)
 > **Env Vars:** pdf (9), pac (3), mtp (1)
 > **UI Navigation:** click on (4), go to (2), scroll down (1)
 > **Cross-References:** we talked about (2), previous video (1), go back to (1), in the next (1)
@@ -6941,8 +6867,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Funky fix-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/funky-fix-up?u=76281980)
+#### [Funky fix-up](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/funky-fix-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6954,7 +6879,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/funky-fix-up?u=76281980&t=21)** This is actually a PDF file.
 >
-> **[0:23](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/funky-fix-up?u=76281980&t=23)** So we've already made the PDF from word in the previous video and we're addressing the remaining issues that we have to deal with.
+> **[0:23](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/funky-fix-up?u=76281980&t=23)** So we've already made the PDF from [[Microsoft Word|word]] in the previous video and we're addressing the remaining issues that we have to deal with.
 >
 > **[0:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/funky-fix-up?u=76281980&t=31)** Now what I'm going to do, is I'm going to switch over to my PAC checker, and I'm going to run the file that I have open through the PAC checker.
 >
@@ -7054,7 +6979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **UI Navigation:** click on (6), right-click (4), go to (3)
 > **Env Vars:** pdf (7), pac (3), wcag (1)
 > **CLI Commands:** find (3)
@@ -7067,12 +6992,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### General considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980)
+#### [General considerations](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980&t=0)** - [Instructor] As with Microsoft Word, successful, accessible PDF creation from PowerPoint relies on you and I using the features of PowerPoint correctly.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980&t=0)** - [Instructor] As with [[Microsoft Word]], successful, accessible PDF creation from [[Microsoft PowerPoint|PowerPoint]] relies on you and I using the features of PowerPoint correctly.
 >
 > **[0:10](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980&t=10)** Not doing so equates to a lot of extra work after export.
 >
@@ -7134,7 +7058,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980&t=188)** And although visually, that creates a presentation that looks okay from an accessible PDF standpoint, we get no structure using that technique.
 >
-> **[3:19](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980&t=199)** So throughout the rest of this chapter, you'll learn what you'll need to add and include in PowerPoint to facilitate the proper creation of an accessible PDF file in PowerPoint.
+> **[3:19](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980&t=199)** So throughout the [[Representational State Transfer (REST)|rest]] of this chapter, you'll learn what you'll need to add and include in PowerPoint to facilitate the proper creation of an accessible PDF file in PowerPoint.
 
 > [!info]- Semantic Content
 >
@@ -7147,20 +7071,19 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a document title in PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980)
+#### [Adding a document title in PowerPoint](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=0)** - [Instructor] As you know at this point, every accessible PDF document needs a document title.
 >
-> **[0:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=6)** In addition to the title, however, you can add other metadata to help with search engine optimization when the file is posted online.
+> **[0:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=6)** In addition to the title, however, you can add other [[Metadata]] to help with [[Search Engine Optimization (SEO)|search engine optimization]] when the file is posted online.
 >
 > **[0:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=14)** Let's walk through the process of adding a title and metadata to a file.
 >
 > **[0:18](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=18)** To add our document title, I'm going to go ahead and come over here to the File menu and I'm going to choose Info.
 >
-> **[0:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=25)** And very similar to Microsoft Word, the Properties column over here on the right is where you can add your metadata.
+> **[0:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=25)** And very similar to [[Microsoft Word]], the Properties column over here on the right is where you can add your metadata.
 >
 > **[0:34](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=34)** Now, once again, I'm going to click on the Show All Properties link at the bottom of that column.
 >
@@ -7178,7 +7101,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=83)** So we can say that this was the October 2021 Yearly Sales Presentation.
 >
-> **[1:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=93)** And then finally, if you recall from the word chapter, the author is typically pulled from your user account.
+> **[1:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=93)** And then finally, if you recall from the [[Microsoft Word|word]] chapter, the author is typically pulled from your user account.
 >
 > **[1:42](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-a-document-title-in-powerpoint?u=76281980&t=102)** So you can simply right-click on the current author and choose Remove Person, and then you can type whatever you want in the Author Field.
 >
@@ -7213,8 +7136,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The importance of master slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-importance-of-master-slides?u=76281980)
+#### [The importance of master slides](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-importance-of-master-slides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7306,7 +7228,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **UI Navigation:** go to (6), click on (3), checkbox (2)
 > **Env Vars:** pdf (4), wcag (1)
 > **Versions:** 1.3.1 (1), 2.4.6 (1)
@@ -7315,14 +7236,13 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining PowerPoint tag order
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/defining-powerpoint-tag-order?u=76281980)
+#### [Defining PowerPoint tag order](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/defining-powerpoint-tag-order?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/defining-powerpoint-tag-order?u=76281980&t=0)** - [Instructor] Once you have the headings established in your document, you now need to make sure that you order of those tags is correct in the exported PDF file.
 >
-> **[0:09](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/defining-powerpoint-tag-order?u=76281980&t=9)** PowerPoint gives us control of that.
+> **[0:09](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/defining-powerpoint-tag-order?u=76281980&t=9)** [[Microsoft PowerPoint|PowerPoint]] gives us control of that.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/defining-powerpoint-tag-order?u=76281980&t=11)** So let's review how to control the tag order from within PowerPoint.
 >
@@ -7390,7 +7310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4)
 > **Env Vars:** pdf (6)
 > **UI Navigation:** go to (3), click on (2)
 > **Analogies:** picture (2), similar to (1)
@@ -7399,18 +7319,17 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (computer keyboard clicking) (1)
 
-#### Add alternative text in PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980)
+#### [Add alternative text in PowerPoint](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980&t=0)** - [Instructor] Every figure in an accessible PDF file needs to have alternative text added to describe that figure appropriately.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980&t=8)** PowerPoint gives us the ability to add alternative text to figures, so let's take a look at how we do that here.
+> **[0:08](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980&t=8)** [[Microsoft PowerPoint|PowerPoint]] gives us the ability to add alternative text to figures, so let's take a look at how we do that here.
 >
 > **[0:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980&t=14)** I'm starting here on slide one, and I'm going to go ahead and start by clicking on this Two Trees Olive Oil logo.
 >
-> **[0:21](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980&t=21)** Now, very similar to Microsoft Word, to add alternative text to a figure in PowerPoint, we can right click and choose Edit Alt Text.
+> **[0:21](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980&t=21)** Now, very similar to [[Microsoft Word]], to add alternative text to a figure in PowerPoint, we can right click and choose Edit Alt Text.
 >
 > **[0:32](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980&t=32)** And that's going to open up our alt text task pane over here where we can type in the appropriate alternative text that we want to add here.
 >
@@ -7520,23 +7439,22 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980&t=399)** So a couple of different options that you have there.
 >
-> **[6:42](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980&t=402)** So fundamentally, be sure to add alternative text to figures in PowerPoint to ensure compliance in those accessible PDFs but based on how the document is created, you may want to make some modifications to create a better user experience for the end user.
+> **[6:42](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-alternative-text-in-powerpoint?u=76281980&t=402)** So fundamentally, be sure to add alternative text to figures in PowerPoint to ensure compliance in those accessible PDFs but based on how the document is created, you may want to make some modifications to create a better [[User Experience (UX)|user experience]] for the end user.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), next (2), product (2), [[Microsoft Word]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (3)
 > **Analogies:** similar to (1), kind of like (1), for example (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with PowerPoint tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-powerpoint-tables?u=76281980)
+#### [Work with PowerPoint tables](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-powerpoint-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-powerpoint-tables?u=76281980&t=0)** - [Instructor] PowerPoint has the ability to insert tables onto slides in a presentation, but you now know the requirement of tables is that they contain header cells.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-powerpoint-tables?u=76281980&t=0)** - [Instructor] [[Microsoft PowerPoint|PowerPoint]] has the ability to insert tables onto slides in a presentation, but you now know the requirement of tables is that they contain header cells.
 >
 > **[0:10](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-powerpoint-tables?u=76281980&t=10)** Let's take a look at how to define header cells in a table in PowerPoint.
 >
@@ -7544,7 +7462,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-powerpoint-tables?u=76281980&t=19)** Now, I think we saw in a previous video, we had an issue with this table because even though visually it looks good, it didn't have any header rows.
 >
-> **[0:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-powerpoint-tables?u=76281980&t=29)** So to add header rows to this table, what I'm going to do is I'm going to click inside of this table, and up here, I'm going to click on the Table Design menu, and very similar to Microsoft Word, you'll notice that over here on the left, we have the header row and first column checkboxes, right, so the header row is going to define this top row as a header row, and first column would define this first column as a header row.
+> **[0:29](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-powerpoint-tables?u=76281980&t=29)** So to add header rows to this table, what I'm going to do is I'm going to click inside of this table, and up here, I'm going to click on the Table Design menu, and very similar to [[Microsoft Word]], you'll notice that over here on the left, we have the header row and first column checkboxes, right, so the header row is going to define this top row as a header row, and first column would define this first column as a header row.
 >
 > **[1:01](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-powerpoint-tables?u=76281980&t=61)** And in this particular table, I'm going to go ahead and do both.
 >
@@ -7572,7 +7490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word]] (1)
 > **UI Navigation:** click on (2), go to (2), right-click (2)
 > **Env Vars:** pdf (2), wcag (1)
 > **Definitions:** defined as (2)
@@ -7581,14 +7499,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Touch-ups after conversion from PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980)
+#### [Touch-ups after conversion from PowerPoint](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980&t=0)** - [Instructor] As you've seen in this chapter, PowerPoint does a pretty good job of generating an accessible PDF file for us.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980&t=0)** - [Instructor] As you've seen in this chapter, [[Microsoft PowerPoint|PowerPoint]] does a pretty good job of generating an accessible PDF file for us.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980&t=7)** But just like with Microsoft Word, although the Acrobat checker is giving us the thumbs up, the PAC checker isn't going to be quite as happy.
+> **[0:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980&t=7)** But just like with [[Microsoft Word]], although the Acrobat checker is giving us the thumbs up, the PAC checker isn't going to be quite as happy.
 >
 > **[0:15](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980&t=15)** So let's take this PDF file to the finish line now.
 >
@@ -7668,7 +7585,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980&t=282)** So I only showed you Access PDF to kind of show you that having a third-party tool can really save you a lot of time.
 >
-> **[4:50](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980&t=290)** Again, if you go back and watch the touch up video in the word chapter, you can kind of see how it's a little bit of a time consuming process.
+> **[4:50](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980&t=290)** Again, if you go back and watch the touch up video in the [[Microsoft Word|word]] chapter, you can kind of see how it's a little bit of a time consuming process.
 >
 > **[4:59](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/touch-ups-after-conversion-from-powerpoint?u=76281980&t=299)** And I just wanted to show you that having a third-party tool can really help speed up the process.
 >
@@ -7678,7 +7595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Word]] (2), product (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Word]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pdf (11), pac (4)
 > **Cross-References:** go back to (2), we talked about (2), previous video (1), previous chapter (1)
 > **UI Navigation:** open the (1), navigate to (1), click on (1), go to (1)
@@ -7690,8 +7607,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Best way to generate the PDF file
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/best-way-to-generate-the-pdf-file?u=76281980)
+#### [Best way to generate the PDF file](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/best-way-to-generate-the-pdf-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7727,7 +7643,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/best-way-to-generate-the-pdf-file?u=76281980&t=109)** But the important part is down here at the bottom, where it says options.
 >
-> **[1:53](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/best-way-to-generate-the-pdf-file?u=76281980&t=113)** So for forms and media, you want include all chosen.
+> **[1:53](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/best-way-to-generate-the-pdf-file?u=76281980&t=113)** So for [[Forms]] and media, you want include all chosen.
 >
 > **[1:58](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/best-way-to-generate-the-pdf-file?u=76281980&t=118)** And this one is super important, create tagged PDF, and also use structure for tab order is going to match your tab order, to your tag order, your tag structure.
 >
@@ -7777,7 +7693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** pdf (16)
 > **UI Navigation:** go to (2), dropdown (1)
 > **CLI Commands:** find (1), make (1)
@@ -7785,12 +7701,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [narrator] (1)
 
-#### InDesign layout considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-layout-considerations?u=76281980)
+#### [InDesign layout considerations](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-layout-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-layout-considerations?u=76281980&t=0)** - [Tutor] Unlike programs like Microsoft Word, which has a natural top to bottom flow, InDesign as a page layout application, doesn't restrict you in any way when it comes to how you lay out content on a page.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-layout-considerations?u=76281980&t=0)** - [Tutor] Unlike programs like [[Microsoft Word]], which has a natural top to bottom flow, InDesign as a page layout application, doesn't restrict you in any way when it comes to how you lay out content on a page.
 >
 > **[0:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-layout-considerations?u=76281980&t=14)** Any layout can be made accessible, but certain layouts might require a bit more assistance in controlling how content is read.
 >
@@ -7842,15 +7757,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (1), application (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** pdf (2)
 > **Warnings:** keep in mind (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### Add required metadata in InDesign
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980)
+#### [Add required metadata in InDesign](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7858,7 +7772,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=9)** And that title is required to be displayed when an accessible PDF file is viewed by the user.
 >
-> **[0:15](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=15)** Now InDesign gives us the ability to add the document title as well as other metadata in a file that will appear when the accessible PDF file is generated.
+> **[0:15](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=15)** Now InDesign gives us the ability to add the document title as well as other [[Metadata]] in a file that will appear when the accessible PDF file is generated.
 >
 > **[0:24](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=24)** So let's take a look at how to do that now.
 >
@@ -7874,13 +7788,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=66)** I'm going to type Two Trees Olive Oil Employee Handbook, and that'll become the title for our document.
 >
-> **[1:16](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=76)** And then of course the author, although not required, is certainly is beneficial again from a search engine optimization standpoint.
+> **[1:16](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=76)** And then of course the author, although not required, is certainly is beneficial again from a [[Search Engine Optimization (SEO)|search engine optimization]] standpoint.
 >
 > **[1:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=85)** So in the author field, I'm just going to type, Two Trees Olive Oil.
 >
 > **[1:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=91)** You can add a description if you want, maybe in here I'll type the 2021 edition of the Two Trees Olive Oil Employee Handbook.
 >
-> **[1:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=105)** And we can add some keywords if we want, human resources, HR, employee handbook.
+> **[1:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=105)** And we can add some keywords if we want, [[Human Resources (HR)|human resources]], HR, employee handbook.
 >
 > **[1:56](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-required-metadata-in-indesign?u=76281980&t=116)** Feel free to add anything else that you wish but these fields will definitely carry over to the PDF file.
 >
@@ -7916,7 +7830,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (3), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Human Resources (HR)|Human resources]] (1), hr (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** pdf (10)
 > **UI Navigation:** go to (2), in the tab (1)
 > **CLI Commands:** make (2)
@@ -7925,8 +7839,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### InDesign styles and tag structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980)
+#### [InDesign styles and tag structure](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7942,7 +7855,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=37)** Now, in the paragraph styles panel, the styles that I want to use in this document are already created.
 >
-> **[0:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=45)** So, if you need help in learning how to create styles, go ahead and check out some of the courses on LinkedIn learning to go through that process.
+> **[0:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=45)** So, if you need help in learning how to create styles, go ahead and check out some of the courses on [[LinkedIn]] learning to go through that process.
 >
 > **[0:54](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=54)** But in this example, the styles have already been created, they just haven't been associated to the proper tags.
 >
@@ -7952,7 +7865,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=74)** And you can see here that the title style gets highlighted, because that is the style that's applied to that text.
 >
-> **[1:22](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=82)** I'm going to go ahead and zoom in on that to make it a little bit easier for us to see.
+> **[1:22](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=82)** I'm going to go ahead and [[Zoom]] in on that to make it a little bit easier for us to see.
 >
 > **[1:28](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=88)** And you could test this out.
 >
@@ -7968,7 +7881,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=122)** Now, within this section, you're going to notice two main categories.
 >
-> **[2:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=127)** Up here is the export tagging for EPUB and HTML, which we're not concerned with right now, but way down here is the tag for our PDF.
+> **[2:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=127)** Up here is the export tagging for EPUB and [[HTML]], which we're not concerned with right now, but way down here is the tag for our PDF.
 >
 > **[2:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-styles-and-tag-structure?u=76281980&t=140)** So, in the tag dropdown menu, because this is an important heading, I'm going to map that to a heading level one, or an H1 tag.
 >
@@ -8016,7 +7929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), [[LinkedIn]] (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[LinkedIn]] (1), [[HTML]] (1)
 > **Env Vars:** pdf (6), toc (2), epub (1), html (1), wcag (1)
 > **UI Navigation:** click on (4), dropdown (1)
 > **CLI Commands:** make (3), find (1)
@@ -8024,8 +7937,7 @@ created: 2026-05-02
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controlling tag order with InDesign
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/controlling-tag-order-with-indesign?u=76281980)
+#### [Controlling tag order with InDesign](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/controlling-tag-order-with-indesign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8147,7 +8059,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/controlling-tag-order-with-indesign?u=76281980&t=367)** And now you'll see that if I go to my tag structure, the first tag that's going to appear is the logo on the front cover.
 >
-> **[6:15](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/controlling-tag-order-with-indesign?u=76281980&t=375)** Then the next image, and then our products.
+> **[6:15](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/controlling-tag-order-with-indesign?u=76281980&t=375)** Then the next image, and then our [[Microsoft Products|products]].
 >
 > **[6:18](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/controlling-tag-order-with-indesign?u=76281980&t=378)** And then it's going to jump to the other spread and it's going to read the content in the appropriate order.
 >
@@ -8161,7 +8073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** pdf (5), cmyk (1), rgb (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2)
@@ -8170,8 +8082,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Control InDesign reading order
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/control-indesign-reading-order?u=76281980)
+#### [Control InDesign reading order](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/control-indesign-reading-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8219,7 +8130,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/control-indesign-reading-order?u=76281980&t=170)** Now, truth be told, what amenities, I'm going to click on this figure and I'm just going to crop the image right to the top of this blue box to make things a little bit easier.
 >
-> **[3:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/control-indesign-reading-order?u=76281980&t=180)** So what I'm going to do instead is I'm going to have our products read first, then I'm going to have it read the figure and the way this document is structured, because the figure of the image is on its own layer below the text layer.
+> **[3:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/control-indesign-reading-order?u=76281980&t=180)** So what I'm going to do instead is I'm going to have our [[Microsoft Products|products]] read first, then I'm going to have it read the figure and the way this document is structured, because the figure of the image is on its own layer below the text layer.
 >
 > **[3:17](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/control-indesign-reading-order?u=76281980&t=197)** I'm not going to be able to make it work unless I pull it out of that layer.
 >
@@ -8293,7 +8204,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/control-indesign-reading-order?u=76281980&t=363)** I'm just going to go to page two for a second.
 >
-> **[6:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/control-indesign-reading-order?u=76281980&t=364)** I want to show you another way you can kind of see how the order is defined is if you come up here and go to your view menu under Zoom and choose reflow.
+> **[6:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/control-indesign-reading-order?u=76281980&t=364)** I want to show you another way you can kind of see how the order is defined is if you come up here and go to your view menu under [[Zoom]] and choose reflow.
 >
 > **[6:16](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/control-indesign-reading-order?u=76281980&t=376)** What this does is it takes the content out of the layout and just stacks it from top to bottom.
 >
@@ -8305,7 +8216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2), [[Zoom]] (2), product (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Zoom]] (2)
 > **UI Navigation:** go to (5), click on (4)
 > **Env Vars:** pdf (3), jaws (1), nvda (1), wcag (1)
 > **CLI Commands:** make (5)
@@ -8313,8 +8224,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create InDesign captions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-indesign-captions?u=76281980)
+#### [Create InDesign captions](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-indesign-captions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8326,7 +8236,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-indesign-captions?u=76281980&t=18)** I'm going to scroll down in my document to page four, where I have an image of a woman working at one of the Two Trees plants.
 >
-> **[0:28](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-indesign-captions?u=76281980&t=28)** I'm just going to go in and zoom in so we can see this a little bit better.
+> **[0:28](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-indesign-captions?u=76281980&t=28)** I'm just going to go in and [[Zoom]] in so we can see this a little bit better.
 >
 > **[0:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-indesign-captions?u=76281980&t=31)** Now, if you look at the text here, and you open your, Paragraph Styles, I do have a style here called, Captions.
 >
@@ -8346,7 +8256,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-indesign-captions?u=76281980&t=83)** I can choose to have text before or after the caption, and I can choose what style to apply.
 >
-> **[1:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-indesign-captions?u=76281980&t=91)** Now, what I'm going to do here in the metadata, I'm going to find the headline, metadata field, which is right here.
+> **[1:31](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-indesign-captions?u=76281980&t=91)** Now, what I'm going to do here in the [[Metadata]], I'm going to find the headline, metadata field, which is right here.
 >
 > **[1:39](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-indesign-captions?u=76281980&t=99)** I want the caption to go below the image, okay?
 >
@@ -8426,7 +8336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (7), [[Metadata]] (2), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Zoom]] (1)
 > **UI Navigation:** go to (7), click on (2), scroll down (1)
 > **Env Vars:** pdf (4)
 > **CLI Commands:** find (2), make (1)
@@ -8435,8 +8345,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1)
 > **Warnings:** watch out (1)
 
-#### Anchoring objects in text frames
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/anchoring-objects-in-text-frames?u=76281980)
+#### [Anchoring objects in text frames](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/anchoring-objects-in-text-frames?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8468,7 +8377,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/anchoring-objects-in-text-frames?u=76281980&t=97)** So the solution to this problem is that we need to anchor the images to the text where we want it to appear.
 >
-> **[1:46](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/anchoring-objects-in-text-frames?u=76281980&t=106)** Now I'm going to zoom in a little bit here so we can see this a bit better.
+> **[1:46](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/anchoring-objects-in-text-frames?u=76281980&t=106)** Now I'm going to [[Zoom]] in a little bit here so we can see this a bit better.
 >
 > **[1:49](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/anchoring-objects-in-text-frames?u=76281980&t=109)** And the way you anchor an object is you basically click on it, and this blue square in the upper right-hand corner is your anchor icon.
 >
@@ -8556,14 +8465,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **Env Vars:** pdf (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with tables in InDesign
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-tables-in-indesign?u=76281980)
+#### [Work with tables in InDesign](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/work-with-tables-in-indesign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8671,15 +8579,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), data (1), application (1)
 > **Env Vars:** pdf (4), pac (2), ppo (1), hmo (1)
 > **UI Navigation:** go to (3), click on (2), navigate to (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interactive hyperlinks in InDesign
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/interactive-hyperlinks-in-indesign?u=76281980)
+#### [Interactive hyperlinks in InDesign](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/interactive-hyperlinks-in-indesign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8733,7 +8639,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/interactive-hyperlinks-in-indesign?u=76281980&t=198)** And the reason I'm getting a red dot here is because it's fictitious and it can't get there.
 >
-> **[3:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/interactive-hyperlinks-in-indesign?u=76281980&t=205)** If I were to come in here and change this to say, [LinkedIn.com](https://LinkedIn.com).
+> **[3:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/interactive-hyperlinks-in-indesign?u=76281980&t=205)** If I were to come in here and change this to say, [[[LinkedIn]].com](https://LinkedIn.com).
 >
 > **[3:33](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/interactive-hyperlinks-in-indesign?u=76281980&t=213)** Now you'll notice I have a green button because it can actually get to that link.
 >
@@ -8776,8 +8682,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a list with InDesign
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-list-with-indesign?u=76281980)
+#### [Create a list with InDesign](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-list-with-indesign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8791,7 +8696,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-list-with-indesign?u=76281980&t=25)** And at the bottom of this page, I have purposefully removed the bullets on these items so that I can walk you through the process of doing it on your own.
 >
-> **[0:36](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-list-with-indesign?u=76281980&t=36)** Now, what I'm going to do here is I'm going to zoom in on one of these bullets down here at the bottom.
+> **[0:36](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-list-with-indesign?u=76281980&t=36)** Now, what I'm going to do here is I'm going to [[Zoom]] in on one of these bullets down here at the bottom.
 >
 > **[0:41](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/create-a-list-with-indesign?u=76281980&t=41)** And the first thing I'm going to show you is the method not to use.
 >
@@ -8886,8 +8791,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add cross-references in InDesign
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980)
+#### [Add cross-references in InDesign](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8917,7 +8821,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=80)** So let's go ahead and go back to page 12.
 >
-> **[1:23](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=83)** And we'll zoom in here again.
+> **[1:23](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=83)** And we'll [[Zoom]] in here again.
 >
 > **[1:24](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=84)** And so what I'm going to do is I'm actually going to delete this text.
 >
@@ -8951,7 +8855,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=170)** And what I'm going to do is I'm going to click the plus sign right down here to create a new Cross-Reference format.
 >
-> **[2:57](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=177)** And I'm going to call this one LinkedIn accessible PDF, right?
+> **[2:57](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=177)** And I'm going to call this one [[LinkedIn]] accessible PDF, right?
 >
 > **[3:04](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=184)** Can be whatever name you wish.
 >
@@ -8969,7 +8873,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=219)** And I'm going to come down here and I'm going to edit the Cross-Reference format.
 >
-> **[3:43](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=223)** And in front of the opening bracket here, I'm going to type the word See followed by a space.
+> **[3:43](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=223)** And in front of the opening bracket here, I'm going to type the [[Microsoft Word|word]] See followed by a space.
 >
 > **[3:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-cross-references-in-indesign?u=76281980&t=231)** And if I hit the Save button, you can see that now it says, See 3.8 corrective action, right?
 >
@@ -9001,7 +8905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1)
 > **Versions:** 3.8 (10)
 > **UI Navigation:** click on (4), scroll down (2), go to (1), navigate to (1)
 > **Env Vars:** pdf (3)
@@ -9010,8 +8914,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an InDesign table of contents
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-an-indesign-table-of-contents?u=76281980)
+#### [Creating an InDesign table of contents](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/creating-an-indesign-table-of-contents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9145,7 +9048,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3)
 > **Env Vars:** toc (9), pdf (6), objr (1)
 > **UI Navigation:** click on (5), navigate to (1), go to (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
@@ -9153,8 +9055,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alternative text for images and graphics in InDesign
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-and-graphics-in-indesign?u=76281980)
+#### [Alternative text for images and graphics in InDesign](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-and-graphics-in-indesign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9196,7 +9097,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-and-graphics-in-indesign?u=76281980&t=165)** Now I'm going to scroll down to page four because I want to also make you aware of an alternative approach that could really be implemented in your workflow and actually save you a lot of time and streamline adding alt text to your images.
 >
-> **[3:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-and-graphics-in-indesign?u=76281980&t=187)** I'm going to select this photo and I'm going to go ahead and open up my Object Export Options and in the Alt Text Source, in addition to Custom that we've been using, you'll notice that we can also reference metadata fields in that photo.
+> **[3:07](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-and-graphics-in-indesign?u=76281980&t=187)** I'm going to select this photo and I'm going to go ahead and open up my Object Export Options and in the Alt Text Source, in addition to Custom that we've been using, you'll notice that we can also reference [[Metadata]] fields in that photo.
 >
 > **[3:26](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-and-graphics-in-indesign?u=76281980&t=206)** So this is really interesting because within that photo, there are metadata fields.
 >
@@ -9240,7 +9141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (5), feature (2), product (2), data (1)
+> **Frameworks & Libraries:** [[Metadata]] (5)
 > **CLI Commands:** find (4), make (4)
 > **Env Vars:** pdf (4), xmp (1)
 > **UI Navigation:** go to (3), dropdown (1), scroll down (1)
@@ -9248,12 +9149,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alternative text for images using metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-using-metadata?u=76281980)
+#### [Alternative text for images using metadata](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-using-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-using-metadata?u=76281980&t=0)** - [Instructor] In the previous video, I show you how you can leverage alt text for images using metadata fields from the placed image.
+> **[0:00](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-using-metadata?u=76281980&t=0)** - [Instructor] In the previous video, I show you how you can leverage alt text for images using [[Metadata]] fields from the placed image.
 >
 > **[0:08](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/alternative-text-for-images-using-metadata?u=76281980&t=8)** Well, recently Adobe added a new metadata field literally for alt text and I'd like to show you that here.
 >
@@ -9287,7 +9187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (5), feature (1), application (1)
+> **Frameworks & Libraries:** [[Metadata]] (5)
 > **UI Navigation:** click on (3), go to (1), dropdown (1), scroll down (1)
 > **Cross-References:** previous video (1), coming up (1)
 > **CLI Commands:** make (1)
@@ -9295,8 +9195,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding actual text
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-actual-text?u=76281980)
+#### [Adding actual text](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-actual-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9312,7 +9211,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-actual-text?u=76281980&t=46)** Now we're used to being here in the alt text category where we were adding alt text to our images, but if you click on the tagged PDF button, you'll notice that right here is a actual text source drop down.
 >
-> **[1:01](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-actual-text?u=76281980&t=61)** Now you can grab your actual text from metadata fields as well if you wish, but you can also simply choose custom.
+> **[1:01](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-actual-text?u=76281980&t=61)** Now you can grab your actual text from [[Metadata]] fields as well if you wish, but you can also simply choose custom.
 >
 > **[1:11](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-actual-text?u=76281980&t=71)** And in this particular example, I might just want to type here, Two Trees Olive Oil, and that is going to apply actual text to that graphic instead of alternate text.
 >
@@ -9320,7 +9219,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-actual-text?u=76281980&t=95)** So when you click done, now we know that this graphic has actual text applied to it, and that's how that graphic is going to be voiced when read by assistive technology.
 >
-> **[1:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-actual-text?u=76281980&t=108)** So when appropriate, be sure to use actual text instead of alternate text for a better user experience.
+> **[1:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/adding-actual-text?u=76281980&t=108)** So when appropriate, be sure to use actual text instead of alternate text for a better [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
@@ -9331,8 +9230,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Artifacting InDesign objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-indesign-objects?u=76281980)
+#### [Artifacting InDesign objects](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/artifacting-indesign-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9431,8 +9329,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### PDF bookmarks in InDesign
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/pdf-bookmarks-in-indesign?u=76281980)
+#### [PDF bookmarks in InDesign](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/pdf-bookmarks-in-indesign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9494,15 +9391,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (1)
 > **Env Vars:** pdf (5), wcag (1)
 > **UI Navigation:** go to (4), click on (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### InDesign footnotes and endnotes
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980)
+#### [InDesign footnotes and endnotes](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9536,9 +9431,9 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980&t=106)** So I'm going to go in and click OK.
 >
-> **[1:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980&t=108)** And now I'm going to zoom in a little bit so we can see this a little bit better.
+> **[1:48](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980&t=108)** And now I'm going to [[Zoom]] in a little bit so we can see this a little bit better.
 >
-> **[1:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980&t=111)** And I'm going to put my cursor after the word conditions.
+> **[1:51](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980&t=111)** And I'm going to put my cursor after the [[Microsoft Word|word]] conditions.
 >
 > **[1:55](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/indesign-footnotes-and-endnotes?u=76281980&t=115)** And now to insert the footnote, I'm going to go to the type menu and I'm going to choose insert footnote.
 >
@@ -9645,8 +9540,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Including an index with InDesign
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/including-an-index-with-indesign?u=76281980)
+#### [Including an index with InDesign](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/including-an-index-with-indesign?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9760,7 +9654,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), hit (1), next (1)
 > **UI Navigation:** open the (1), scroll down (1), go to (1), click on (1)
 > **Env Vars:** pdf (3)
 > **Definitions:** is a  (2)
@@ -9768,8 +9661,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finishing touches and validating
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/finishing-touches-and-validating?u=76281980)
+#### [Finishing touches and validating](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/finishing-touches-and-validating?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9881,7 +9773,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **Env Vars:** pdf (6), pac (3), wcag (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **Cross-References:** go back to (3)
@@ -9894,8 +9785,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9931,11 +9821,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=126)** Be sure to check out the AbleDocs website.
 >
-> **[2:09](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=129)** AbleDocs offers PDF remediation services, and also makes some really great PDF accessibility products that I have showcased throughout this course.
+> **[2:09](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=129)** AbleDocs offers PDF remediation services, and also makes some really great PDF accessibility [[Microsoft Products|products]] that I have showcased throughout this course.
 >
 > **[2:20](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=140)** And finally, and this is an important one guys, make sure you check out the "Chax Chat Podcast."
 >
-> **[2:27](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=147)** "Chax Chat" is a weekly accessibility podcast hosted by my colleague, Dax Castro and myself, and we essentially wax philosophical about all things, document accessibility.
+> **[2:27](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=147)** "Chax Chat" is a weekly accessibility podcast hosted by my colleague, [[DAX]] Castro and myself, and we essentially wax philosophical about all things, document accessibility.
 >
 > **[2:41](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980&t=161)** We answer questions.
 >
@@ -9943,7 +9833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (1), game (1), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[DAX]] (1)
 > **Env Vars:** pdf (13), wcag (1), pdfa (1), pac (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (2), find (1)

@@ -33,8 +33,8 @@ created: 2026-05-02
 
 1. [[Hands-On Introduction- Data Engineering]] — 2 mentions
 2. [[Hands-On Introduction- Scala]] — 2 mentions
-3. [[Data Management Essential Training]] — 1 mentions
-4. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
+3. [[Scalable Data Storage and Processing for AI Workloads]] — 2 mentions
+4. [[Data Management Essential Training]] — 1 mentions
 5. [[Data Integration And Api Development For Ai Applications]] — 1 mentions
 6. [[AI Pricing and ROI- A Technical Breakdown]] — 1 mentions
 7. [[Databricks Certified Data Engineer Associate Cert Prep]] — 1 mentions
@@ -46,8 +46,8 @@ created: 2026-05-02
 3. [[Data Engineering Foundations Professional Certificate by Astronomer]] — 2 total mentions
 4. [[Data Engineering Hands-On Practice]] — 2 total mentions
 5. [[Explore a Career in Data Engineering]] — 2 total mentions
-6. [[Introduction to Fundamental Skills for Data Work- Data Management]] — 1 total mentions
-7. [[Working with Data- Collecting, Processing, and Storing Data for AI]] — 1 total mentions
+6. [[Working with Data- Collecting, Processing, and Storing Data for AI]] — 2 total mentions
+7. [[Introduction to Fundamental Skills for Data Work- Data Management]] — 1 total mentions
 8. [[Working with Data- Engineering, Integration, and MLOps for AI]] — 1 total mentions
 9. [[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]] — 1 total mentions
 10. [[Prepare for the Databricks Certified Data Engineer Associate Certification]] — 1 total mentions

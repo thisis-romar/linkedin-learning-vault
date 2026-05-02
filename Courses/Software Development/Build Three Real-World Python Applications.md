@@ -104,16 +104,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Real-world Python applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980)
+#### [Real-world Python applications](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980&t=0)** - Python skills are in demand and employers are seeking professionals who can utilize Python to improve their businesses.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980&t=0)** - [[Python (Programming Language)|Python]] skills are in demand and employers are seeking professionals who can utilize Python to improve their businesses.
 >
-> **[0:08](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980&t=8)** Hi, I'm Megan Silvey, a data science consultant who loves finding ways to use data to solve problems.
+> **[0:08](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980&t=8)** Hi, I'm Megan Silvey, a [[Data Science]] consultant who loves finding ways to use data to solve problems.
 >
-> **[0:17](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980&t=17)** I invite you to join me in my LinkedIn Learning course where you will build three real world applications using Python.
+> **[0:17](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980&t=17)** I invite you to join me in my [[LinkedIn]] Learning course where you will build three real world applications using Python.
 >
 > **[0:25](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980&t=25)** I'll cover popular topics such as web scraping, web APIs, and text analysis.
 >
@@ -123,25 +122,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (2), web (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Science]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (4)
 > **Analogies:** such as (1)
 > **Speakers:** - python (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you begin this course, here are a few things you should know ahead of time.
 >
-> **[0:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980&t=4)** First, it'd be important to have a basic knowledge of Python since in this course we will not review basic concepts such as creating a variable or using for loops.
+> **[0:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980&t=4)** First, it'd be important to have a basic knowledge of [[Python (Programming Language)|Python]] since in this course we will not review basic concepts such as creating a variable or using for loops.
 >
-> **[0:15](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980&t=15)** Another thing to be familiar with will be Python data packages such as Pandas.
+> **[0:15](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980&t=15)** Another thing to be familiar with will be Python data packages such as [[Pandas (Software)|Pandas]].
 >
 > **[0:20](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980&t=20)** It'll also be good to know how to use Jupyter Notebooks or another application to run your Python code.
 >
-> **[0:26](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980&t=26)** Finally, it would be good to have a GitHub account so you can use Codespaces.
+> **[0:26](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980&t=26)** Finally, it would be good to have a [[GitHub]] account so you can use [[Codespaces]].
 >
 > **[0:30](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-you-should-know?u=76281980&t=30)** This is because this course has Codespaces and this is how we share the code with our learners.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Codespaces]] (3), data (1), [[Pandas (Software)|Pandas]] (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Codespaces]] (3), [[Pandas (Software)|Pandas]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (3)
 > **Tools:** jupyter (1), github (1)
 > **Analogies:** such as (2)
@@ -157,12 +155,11 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/github-codespaces?u=76281980)
+#### [GitHub Codespaces](https://www.linkedin.com/learning/build-three-real-world-python-applications/github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/github-codespaces?u=76281980&t=0)** - [Instructor] We'll be using GitHub Codespaces throughout this course.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/github-codespaces?u=76281980&t=0)** - [Instructor] We'll be using [[GitHub]] [[Codespaces]] throughout this course.
 >
 > **[0:03](https://www.linkedin.com/learning/build-three-real-world-python-applications/github-codespaces?u=76281980&t=3)** GitHub Codespaces is a development environment that's hosted in the cloud.
 >
@@ -224,7 +221,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/build-three-real-world-python-applications/github-codespaces?u=76281980&t=193)** And then up here, you will want to select your Environment.
 >
-> **[3:17](https://www.linkedin.com/learning/build-three-real-world-python-applications/github-codespaces?u=76281980&t=197)** So first, make sure you select Python Environments and then you select Python 3.10.4.
+> **[3:17](https://www.linkedin.com/learning/build-three-real-world-python-applications/github-codespaces?u=76281980&t=197)** So first, make sure you select [[Python (Programming Language)|Python]] Environments and then you select Python 3.10.4.
 >
 > **[3:24](https://www.linkedin.com/learning/build-three-real-world-python-applications/github-codespaces?u=76281980&t=204)** Once you do this, it will be connecting to the kernel and it will run and execute your code, which you could see by this little check mark down here and to see how long it took to run.
 >
@@ -266,7 +263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (14), [[GitHub]] (11), [[Python (Programming Language)|Python]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (14), [[GitHub]] (11), [[Python (Programming Language)|Python]] (2)
 > **Tools:** github (11), jupyter (6)
 > **UI Navigation:** go to (5), click on (5), navigate to (3), switch to (1), double-click (1)
 > **CLI Commands:** make (4), python (2)
@@ -280,8 +277,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is web scraping?
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980)
+#### [What is web scraping?](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980&t=14)** Web scraping is a process used to extract data from a webpage.
 >
-> **[0:19](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980&t=19)** In this case, the data we gather is the HTML code on the webpage, sometimes we want together text data from this HTML code and other times we may want to gather numerical values.
+> **[0:19](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980&t=19)** In this case, the data we gather is the [[HTML]] code on the webpage, sometimes we want together text data from this HTML code and other times we may want to gather numerical values.
 >
 > **[0:31](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980&t=31)** Web scraping may also be referred to by different names, such as web data extraction, screen scraping, or web harvesting.
 >
@@ -305,9 +301,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980&t=57)** So why would we want to scrape HTML code in the first place?
 >
-> **[1:01](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980&t=61)** Web scraping has a variety of uses, such as scraping product reviews, monitoring the weather, gathering real-time stock data, and populating newsfeeds.
+> **[1:01](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980&t=61)** Web scraping has a variety of uses, such as scraping product reviews, monitoring the weather, gathering [[Real-Time]] stock data, and populating newsfeeds.
 >
-> **[1:11](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980&t=71)** There are also many programming languages that can perform web scraping, such as Python, C++, Java, and Ruby.
+> **[1:11](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980&t=71)** There are also many programming languages that can perform web scraping, such as [[Python (Programming Language)|Python]], C++, [[Java]], and Ruby.
 >
 > **[1:18](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980&t=78)** Python is a top choice for many programmers due to its simple syntax and versatile applications when it comes to handling scrape data among performing other tasks.
 >
@@ -339,7 +335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (15), [[HTML]] (9), data (7), [[Python (Programming Language)|Python]] (2), product (1)
+> **Frameworks & Libraries:** [[HTML]] (9), [[Python (Programming Language)|Python]] (2), [[Real-Time]] (1), [[Java]] (1)
 > **Env Vars:** html (9), http (2), api (1)
 > **CLI Commands:** python (2), make (2), ruby (1), find (1)
 > **Analogies:** such as (3), for example (1)
@@ -348,8 +344,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - have (1)
 
-#### Introducing the Wisdom Pet Medicine website
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-the-wisdom-pet-medicine-website?u=76281980)
+#### [Introducing the Wisdom Pet Medicine website](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-the-wisdom-pet-medicine-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,7 +394,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), web (1), [[Search]] (1)
 > **UI Navigation:** navigate to (4), click on (2)
 > **Analogies:** such as (2), imagine (1), for example (1)
 > **CLI Commands:** find (1)
@@ -408,12 +402,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### How to explore a webpage
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-explore-a-webpage?u=76281980)
+#### [How to explore a webpage](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-explore-a-webpage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-explore-a-webpage?u=76281980&t=0)** - Do you know that you have the ability to view the HTML and JavaScript code behind every website you visit on your web browser?
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-explore-a-webpage?u=76281980&t=0)** - Do you know that you have the ability to view the [[HTML]] and [[JavaScript]] code behind every website you visit on your web browser?
 >
 > **[0:07](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-explore-a-webpage?u=76281980&t=7)** It's a very handy skill to know.
 >
@@ -423,7 +416,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-explore-a-webpage?u=76281980&t=19)** In order to see the code behind a webpage you need to navigate to the developer tools.
 >
-> **[0:24](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-explore-a-webpage?u=76281980&t=24)** If you are on Google Chrome or Microsoft Edge, you can navigate to the top right of your screen where the three little dots are.
+> **[0:24](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-explore-a-webpage?u=76281980&t=24)** If you are on [[Google]] Chrome or [[Microsoft]] Edge, you can navigate to the top right of your screen where the three little dots are.
 >
 > **[0:31](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-explore-a-webpage?u=76281980&t=31)** Once you click on these three little dots it'll open the webpage menu.
 >
@@ -467,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), web (3), [[Google]] (3), [[Microsoft]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Google]] (3), [[Microsoft]] (2), [[JavaScript]] (1)
 > **UI Navigation:** navigate to (6), click on (4), open the (2), go to (1), in the menu (1)
 > **Env Vars:** html (5)
 > **Tools:** safari (3)
@@ -476,14 +469,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Understanding HTML code
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980)
+#### [Understanding HTML code](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=0)** - [Narrator] Let's take a moment to understand the general structure of HTML code.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=0)** - [Narrator] Let's take a moment to understand the general structure of [[HTML]] code.
 >
-> **[0:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=4)** You'll notice that HTML code has a lot of similarities in its structure compared to Python.
+> **[0:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=4)** You'll notice that HTML code has a lot of similarities in its structure compared to [[Python (Programming Language)|Python]].
 >
 > **[0:09](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=9)** For example, there are indents for code to function within other code, functions we can create, and different variables and classes we can use.
 >
@@ -497,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=48)** We can see this if we close the body tag.
 >
-> **[0:51](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=51)** Every webpage has these HTML tags at the very top and very bottom of the HTML code to help containerize the rest of the HTML code within it.
+> **[0:51](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=51)** Every webpage has these HTML tags at the very top and very bottom of the HTML code to help containerize the [[Representational State Transfer (REST)|rest]] of the HTML code within it.
 >
 > **[1:01](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=61)** All right, let's open our body tag.
 >
@@ -513,25 +505,24 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=94)** You do not need to be an expert in coding in HTML, but a general idea of how HTML code works and its structure will be helpful for better understanding the following videos.
 >
-> **[1:45](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=105)** You can go to the [[HTML Essential Training]] LinkedIn course listed here, or you can explore some other webpages on your own to familiarize yourself with the HTML code behind them.
+> **[1:45](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-html-code?u=76281980&t=105)** You can go to the [[HTML Essential Training]] [[LinkedIn]] course listed here, or you can explore some other webpages on your own to familiarize yourself with the HTML code behind them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (15), web (3), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (15), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Env Vars:** html (15)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding the requests package
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980)
+#### [Understanding the requests package](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=0)** - [Instructor] Now, we will begin our journey with scraping HTML code.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=0)** - [Instructor] Now, we will begin our journey with scraping [[HTML]] code.
 >
-> **[0:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=4)** The request package is the standard Python package to make HTTP request.
+> **[0:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=4)** The request package is the standard [[Python (Programming Language)|Python]] package to make HTTP request.
 >
 > **[0:10](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=10)** An HTTP request is a message sent by a client to a particular host in order to perform an action on a server.
 >
@@ -547,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=57)** This procedure can be used for installing and importing other packages in this course.
 >
-> **[1:03](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=63)** In order to use the request package, we must first install it in our Codespaces.
+> **[1:03](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=63)** In order to use the request package, we must first install it in our [[Codespaces]].
 >
 > **[1:08](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=68)** If you are using an application such as Jupyter Notebooks with Codespaces or Anaconda, then it is likely this package is already installed because Codespaces and Anaconda automatically install many popular Python packages.
 >
@@ -571,7 +562,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=134)** After that, you can then use it as many times as you want.
 >
-> **[2:18](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=138)** If you are using a coding environment like Google Colab, then you may need to install the package every time you bring your coding file in to run it.
+> **[2:18](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=138)** If you are using a coding environment like [[Google]] Colab, then you may need to install the package every time you bring your coding file in to run it.
 >
 > **[2:27](https://www.linkedin.com/learning/build-three-real-world-python-applications/understanding-the-requests-package?u=76281980&t=147)** Next, we will import our request package into our workbook.
 >
@@ -587,7 +578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (6), [[Python (Programming Language)|Python]] (4), next (2), [[HTML]] (1), data (1)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[Python (Programming Language)|Python]] (4), [[HTML]] (1), [[Google]] (1)
 > **Prerequisites:** install (8)
 > **Tools:** jupyter (3), anaconda (3), colab (1)
 > **CLI Commands:** python (4), make (1), pip (1)
@@ -596,8 +587,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 
-#### How to use the get() method
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-the-get-method?u=76281980)
+#### [How to use the get() method](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-the-get-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,7 +641,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** url (4), http (2)
 > **API Endpoints:** get  (3)
 > **CLI Commands:** make (1)
@@ -660,12 +649,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to retrieve webpage information
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980)
+#### [How to retrieve webpage information](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=0)** - [Instructor] Now that we have gathered the HTML code and saved it to our variable response, we can gather some basic information about the webpage.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=0)** - [Instructor] Now that we have gathered the [[HTML]] code and saved it to our variable response, we can gather some basic information about the webpage.
 >
 > **[0:08](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=8)** First, we can gather the webpage URL as a sanity check to make sure we pulled the correct webpage.
 >
@@ -723,7 +711,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=183)** All of this can sound overwhelming and daunting, especially if you receive a 400s or 500s code.
 >
-> **[3:10](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=190)** Thankfully, you can easily Google the status code you received to determine what exactly it is and potential remedies or explanations on how to fix your request.
+> **[3:10](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=190)** Thankfully, you can easily [[Google]] the status code you received to determine what exactly it is and potential remedies or explanations on how to fix your request.
 >
 > **[3:19](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=199)** You can also check out this resource for a more thorough explanation of each HTTP status code.
 >
@@ -731,7 +719,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=212)** In this coding cell, go ahead and type response.headers.
 >
-> **[3:39](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=219)** Retrieving the headers gives us a lot of useful technical information about the webpage we pulled in the form of a Python dictionary.
+> **[3:39](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=219)** Retrieving the headers gives us a lot of useful technical information about the webpage we pulled in the form of a [[Python (Programming Language)|Python]] dictionary.
 >
 > **[3:46](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-information?u=76281980&t=226)** For example, we can see the server name, the date we accessed the webpage, the content type, and the connection.
 >
@@ -739,7 +727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), next (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** url (4), http (2), html (1)
 > **Definitions:** is a  (3), means that (1), stands for (1)
 > **Analogies:** for example (3), such as (2)
@@ -748,12 +736,11 @@ created: 2026-05-02
 > **Code Identifiers:** status_code (1)
 > **URLs:** [wisdompetmed.com](https://wisdompetmed.com) (1)
 
-#### How to retrieve HTML code
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-html-code?u=76281980)
+#### [How to retrieve HTML code](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-html-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-html-code?u=76281980&t=0)** - [Instructor] Now we get to see how we can pull all the HTML code we saw on the developer tools into our Python code.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-html-code?u=76281980&t=0)** - [Instructor] Now we get to see how we can pull all the [[HTML]] code we saw on the developer tools into our [[Python (Programming Language)|Python]] code.
 >
 > **[0:07](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-html-code?u=76281980&t=7)** The first way you could do this is by using the method .content.
 >
@@ -788,12 +775,11 @@ created: 2026-05-02
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use BeautifulSoup
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-beautifulsoup?u=76281980)
+#### [How to use BeautifulSoup](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-beautifulsoup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-beautifulsoup?u=76281980&t=0)** - [Instructor] In the previous video, we saw how we were able to successfully pull the HTML code from the website into our Python code.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-beautifulsoup?u=76281980&t=0)** - [Instructor] In the previous video, we saw how we were able to successfully pull the [[HTML]] code from the website into our [[Python (Programming Language)|Python]] code.
 >
 > **[0:08](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-beautifulsoup?u=76281980&t=8)** You may have noticed the way Python automatically pulls in the HTML code tends to be very messy, difficult to read and nearly impossible to see the structure of the code.
 >
@@ -831,7 +817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), [[Python (Programming Language)|Python]] (3), application (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** html (7), bs4 (1)
 > **CLI Commands:** python (3), pip (1), make (1)
 > **Prerequisites:** install (3)
@@ -839,12 +825,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use find() and find_all() methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980)
+#### [How to use find() and find_all() methods](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=0)** - [Instructor] Now that we have our soup variable, we can begin pulling specific pieces of the HTML code versus pulling all of it at once.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=0)** - [Instructor] Now that we have our soup variable, we can begin pulling specific pieces of the [[HTML]] code versus pulling all of it at once.
 >
 > **[0:08](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=8)** We will use the find and find_all methods to accomplish this.
 >
@@ -858,7 +843,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=46)** This includes the name of the company, the list of services, their phone number, featured testimonials, staff members and web links on the page.
 >
-> **[0:59](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=59)** To gather the information of which tags to pull into our Python code, use the developer tools like we showed earlier in the chapter.
+> **[0:59](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=59)** To gather the information of which tags to pull into our [[Python (Programming Language)|Python]] code, use the developer tools like we showed earlier in the chapter.
 >
 > **[1:07](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=67)** You can click on the different pieces of the webpage to find where they occur in the code.
 >
@@ -904,13 +889,13 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=210)** Finally, we add .text on the end of our statement.
 >
-> **[3:33](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=213)** This allows us to pull the text between the tags and ignore the rest of the HTML code, such as the tags.
+> **[3:33](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=213)** This allows us to pull the text between the tags and ignore the [[Representational State Transfer (REST)|rest]] of the HTML code, such as the tags.
 >
 > **[3:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-find-and-find-all-methods?u=76281980&t=220)** The structure is important for us to remember for the following examples when we went to just gather the text from our testimonials, staff members and web links.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), web (2), [[Python (Programming Language)|Python]] (2), business (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (14), python (2)
 > **Env Vars:** html (7)
 > **Code Identifiers:** find_all (6)
@@ -919,8 +904,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** click on (1)
 
-#### How to loop find_all() methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980)
+#### [How to loop find_all() methods](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,7 +922,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=51)** Next, we're going to begin our for loops.
 >
-> **[0:53](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=53)** So we're going to start off with the word for to tell Python we want to do a for loop.
+> **[0:53](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=53)** So we're going to start off with the [[Microsoft Word|word]] for to tell [[Python (Programming Language)|Python]] we want to do a for loop.
 >
 > **[0:57](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=57)** Then we have our iterator.
 >
@@ -950,7 +934,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=78)** Now we'll go to the next line.
 >
-> **[1:19](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=79)** Make sure you have indented your code at least once if Codespaces has not done that already for you.
+> **[1:19](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=79)** Make sure you have indented your code at least once if [[Codespaces]] has not done that already for you.
 >
 > **[1:25](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=85)** Now we are going to add our print statement.
 >
@@ -960,7 +944,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=96)** Then we add .text to get the text to this variable.
 >
-> **[1:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=100)** So, if we click up here and run, now we can see the four testimonials from people who used Wisdom Pet Medicine, You'll notice the text stops short on the first line since the first line is in a separate span tag than the rest of the text of the review.
+> **[1:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=100)** So, if we click up here and run, now we can see the four testimonials from people who used Wisdom Pet Medicine, You'll notice the text stops short on the first line since the first line is in a separate span tag than the [[Representational State Transfer (REST)|rest]] of the text of the review.
 >
 > **[1:54](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-loop-find-all-methods?u=76281980&t=114)** This mimics how, on the website, you can see the first part of the testimonial, but then you need to hover over it to see the rest of it.
 >
@@ -1000,7 +984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Codespaces]] (1)
 > **CLI Commands:** find (3), make (3), python (1)
 > **Code Identifiers:** find_all (4), featured_testimonial (3)
 > **UI Navigation:** go to (2)
@@ -1009,8 +993,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** make sure you have (1)
 
-#### How to retrieve webpage links
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-links?u=76281980)
+#### [How to retrieve webpage links](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-retrieve-webpage-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,7 +1047,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** url (7)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** find (3), make (1)
@@ -1072,13 +1054,13 @@ created: 2026-05-02
 > **Code Identifiers:** find_all (1)
 > **Tools:** jupyter (1)
 > **UI Navigation:** go to (1)
+> **Definitions:** is an  (1)
 
-#### How to write HTML code to a text file
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-write-html-code-to-a-text-file?u=76281980)
+#### [How to write HTML code to a text file](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-write-html-code-to-a-text-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-write-html-code-to-a-text-file?u=76281980&t=0)** - [Instructor] To wrap up this chapter we will export our scraped HTML code into a text file.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-write-html-code-to-a-text-file?u=76281980&t=0)** - [Instructor] To wrap up this chapter we will export our scraped [[HTML]] code into a text file.
 >
 > **[0:06](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-write-html-code-to-a-text-file?u=76281980&t=6)** There are multiple ways to do this but we will show the following way of how to send information to a text file.
 >
@@ -1120,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), next (1), web (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
@@ -1134,8 +1116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are APIs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980)
+#### [What are APIs?](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,13 +1148,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980&t=74)** A web API is an API that communicates between a web server and a web browser.
 >
-> **[1:20](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980&t=80)** For example, there's a Twitter API that can read and write data between a coding language like Python and the Twitter social media platform.
+> **[1:20](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980&t=80)** For example, there's a Twitter API that can read and write data between a coding language like [[Python (Programming Language)|Python]] and the Twitter social media platform.
 >
-> **[1:28](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980&t=88)** Many of the web APIs are called REST APIs.
+> **[1:28](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980&t=88)** Many of the web APIs are called [[Representational State Transfer (REST)|REST]] APIs.
 >
-> **[1:30](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980&t=90)** Rest APIs follow the REST software architecture style.
+> **[1:30](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980&t=90)** Rest APIs follow the REST [[Software Architecture]] style.
 >
-> **[1:34](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980&t=94)** REST stands for representational state transfer and this style describes a uniform software interface between physically separate components, such as a web API communicating between a web server and a web browser.
+> **[1:34](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980&t=94)** REST stands for [[Representational State Transfer (REST)|representational state transfer]] and this style describes a uniform software interface between physically separate components, such as a web API communicating between a web server and a web browser.
 >
 > **[1:47](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980&t=107)** The API we will be working with in this course is called Alpha Vantage and it is also a REST API.
 >
@@ -1187,15 +1168,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (14), web (8), [[Representational State Transfer (REST)|Rest]] (5), data (4), database (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[Python (Programming Language)|Python]] (1), [[Software Architecture]] (1), [[Representational State Transfer (REST)|Representational state transfer]] (1)
 > **Env Vars:** api (14), rest (4)
 > **Definitions:** is a  (1), is an  (1), stands for (1), is called (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1), python (1)
 > **Speakers:** - i (1)
 
-#### Introducing Alpha Vantage API
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980)
+#### [Introducing Alpha Vantage API](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,7 +1189,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=27)** For example, if a company has 100 shares of its stock, and you bought one share, then you would have 1% ownership in the company.
 >
-> **[0:36](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=36)** Companies issue stock for investors to buy to help them gather money to pay off debt, launch new products, or expand their facilities.
+> **[0:36](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=36)** Companies issue stock for investors to buy to help them gather money to pay off debt, launch new [[Microsoft Products|products]], or expand their facilities.
 >
 > **[0:44](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=44)** Investors buy stock since they have the potential to grow in value.
 >
@@ -1231,9 +1211,9 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=107)** The Alpha Vantage API is a stock market API that can be used across over 20 programming languages.
 >
-> **[1:54](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=114)** It can provide stock data in JSON, Excel, and Google Sheets formats.
+> **[1:54](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=114)** It can provide stock data in [[JSON]], [[Microsoft Excel|Excel]], and [[Google]] Sheets formats.
 >
-> **[1:58](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=118)** It can also gather other financial data such as Forex, commodity and cryptocurrency data feeds, along with analyzing indicators and sentiments.
+> **[1:58](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=118)** It can also gather other [[Financial Data]] such as Forex, commodity and [[Cryptocurrency]] data feeds, along with analyzing indicators and sentiments.
 >
 > **[2:07](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=127)** If we click on the GET YOUR FREE API KEY TODAY Button, it will take us to gather our API key to use for accessing the Alpha Vantage API.
 >
@@ -1249,7 +1229,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=152)** Next, we will type in the organization.
 >
-> **[2:35](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=155)** Here, you can type in LinkedIn Learning, and then finally, you can type out your email address here.
+> **[2:35](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=155)** Here, you can type in [[LinkedIn]] Learning, and then finally, you can type out your email address here.
 >
 > **[2:43](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=163)** Once you enter in all this information, you can click the GET FREE API KEY button and that will help you gather your API key to use for Alpha Vantage.
 >
@@ -1269,7 +1249,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=219)** The Alpha Vantage functions we will use needs stock symbols instead of the full company names.
 >
-> **[3:44](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=224)** You can Google a company's stock symbol by typing in a company's name and the word stock symbol.
+> **[3:44](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=224)** You can Google a company's stock symbol by typing in a company's name and the [[Microsoft Word|word]] stock symbol.
 >
 > **[3:49](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-alpha-vantage-api?u=76281980&t=229)** For example, we can type in Apple stock symbol.
 >
@@ -1277,7 +1257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (15), data (4), [[Microsoft Products|Products]] (2), [[Google]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (2), [[JSON]] (1), [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1)
 > **Env Vars:** api (15), free (2), key (2), url (1), json (1)
 > **UI Navigation:** navigate to (3), click on (2)
 > **Analogies:** for example (3), such as (2)
@@ -1286,12 +1266,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** note that (2)
 
-#### How to access Alpha Vantage data
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980)
+#### [How to access Alpha Vantage data](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=0)** - [Instructor] There are two main ways to use the Alpha Vantage API with Python that we will focus on in this course.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=0)** - [Instructor] There are two main ways to use the Alpha Vantage API with [[Python (Programming Language)|Python]] that we will focus on in this course.
 >
 > **[0:05](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=5)** You can use either the request package with the Alpha Vantage API-specific URLs, or the Alpha Vantage Python Package created by the Python community.
 >
@@ -1303,7 +1282,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=33)** If we scroll down to the first function, we will see it is called TIME_SERIES_INTRADAY.
 >
-> **[0:38](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=38)** Each function will have the name of the function, a description of the function, any parameters, and if you scroll a little bit further, we will see a few examples and the code we would need to use for the different programming languages, such as Python, NodeJS, PHP, and C#.
+> **[0:38](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=38)** Each function will have the name of the function, a description of the function, any parameters, and if you scroll a little bit further, we will see a few examples and the code we would need to use for the different programming languages, such as Python, NodeJS, [[PHP]], and C#.
 >
 > **[0:55](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=55)** We'll focus on just the Python implementation for this course.
 >
@@ -1311,7 +1290,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=64)** It then has the specific URL needed to perform that function, along with some example parameters and a place to enter in your API key.
 >
-> **[1:11](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=71)** The rest of the code is how you complete the request to gather the data.
+> **[1:11](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=71)** The [[Representational State Transfer (REST)|rest]] of the code is how you complete the request to gather the data.
 >
 > **[1:16](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=76)** If we look off to the left at our table of contents, you'll notice some of the functions have an extra label to the side of them.
 >
@@ -1333,7 +1312,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=124)** The other way we will show how to access Alpha Vantage API Data is with the Alpha Vantage Python Package created by the Python community.
 >
-> **[2:12](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=132)** You can navigate to the Alpha Vantage Python Package GitHub documentation by going to the URL [github.com/RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage).
+> **[2:12](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=132)** You can navigate to the Alpha Vantage Python Package [[GitHub]] documentation by going to the URL [github.com/RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage).
 >
 > **[2:23](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-access-alpha-vantage-data?u=76281980&t=143)** You're welcome to explore the source code for this Python package, but you'll gather most of the information you need to use this package by looking at the README file.
 >
@@ -1347,7 +1326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), api (9), data (4), next (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[GitHub]] (2), [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (12), find (3), php (1)
 > **Env Vars:** api (9), url (2), time_series_intraday (1), php (1), readme (1)
 > **UI Navigation:** navigate to (3), scroll down (2), click on (1)
@@ -1356,8 +1335,7 @@ created: 2026-05-02
 > **Tools:** github (2)
 > **Definitions:** is called (1), is a  (1)
 
-#### How to use an API key
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980)
+#### [How to use an API key](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,7 +1349,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=45)** API key should be treated like passwords because they should be kept safe and private.
 >
-> **[0:50](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=50)** If you share your API key with others on a platform such as GitHub or LinkedIn you could potentially have your API access taken away due to too many people accessing the API using your API key.
+> **[0:50](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=50)** If you share your API key with others on a platform such as [[GitHub]] or [[LinkedIn]] you could potentially have your API access taken away due to too many people accessing the API using your API key.
 >
 > **[1:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=64)** One way you can keep your API key safe but still be able to share your code publicly is by using a text file to store your API key.
 >
@@ -1387,7 +1365,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=103)** Please note that this API key is not an actual API key, so make sure you obtain your own personal API key to use the Alpha Vantage API.
 >
-> **[1:51](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=111)** Once your API key is saved into a text file we can bring it into Python.
+> **[1:51](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=111)** Once your API key is saved into a text file we can bring it into [[Python (Programming Language)|Python]].
 >
 > **[1:57](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=117)** I recommend putting your API key text file in the same folder as your Jupyter Notebook file in your code space or on your computer, depending on how you are accessing the code.
 >
@@ -1441,7 +1419,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=265)** I always recommend adding this .strip method whenever bringing in your API key just to make sure it is ready to use.
 >
-> **[4:33](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=273)** Since I showed you an example API key I will need to bring in my personal API key for the rest of our demonstration.
+> **[4:33](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=273)** Since I showed you an example API key I will need to bring in my personal API key for the [[Representational State Transfer (REST)|rest]] of our demonstration.
 >
 > **[4:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-an-api-key?u=76281980&t=280)** You should do the same with your personal API key in the text file you made so you can access the Alpha Vantage API.
 >
@@ -1459,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (48), data (1), [[GitHub]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (48)
 > **CLI Commands:** make (7), python (1)
 > **File Paths:** api_key_example.txt (3)
@@ -1468,12 +1446,11 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Warnings:** note that (1)
 
-#### How to pull stock data with the alpha_vantage package: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980)
+#### [How to pull stock data with the alpha_vantage package: Part 1](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=0)** - [Instructor] We will begin by pulling stock data with the Alpha Vantage Python package.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=0)** - [Instructor] We will begin by pulling stock data with the Alpha Vantage [[Python (Programming Language)|Python]] package.
 >
 > **[0:05](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=5)** First, we need to install the Alpha Vantage Python package by using the code, percent sign, pip install alpha_vantage.
 >
@@ -1497,7 +1474,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=76)** So that will help us format the requests that we get later on.
 >
-> **[1:21](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=81)** Next, we are going to import our Pandas package to create some dataframes later on.
+> **[1:21](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=81)** Next, we are going to import our [[Pandas (Software)|Pandas]] package to create some dataframes later on.
 >
 > **[1:27](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=87)** Finally, we are going to import the IO package to help us format some of the data later on as well.
 >
@@ -1525,7 +1502,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=156)** In this case, our data will be aggregated for each month.
 >
-> **[2:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=160)** I highly recommend paying attention and taking notes as we discuss the structure of this output, since other outputs will be similar to this throughout the rest of this chapter.
+> **[2:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=160)** I highly recommend paying attention and taking notes as we discuss the structure of this output, since other outputs will be similar to this throughout the [[Representational State Transfer (REST)|rest]] of this chapter.
 >
 > **[2:49](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-1?u=76281980&t=169)** Since we are looking at the monthly data, our first date will show the most recent date the stock exchange was open.
 >
@@ -1561,7 +1538,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (4), next (3), [[Pandas (Software)|Pandas]] (1), api (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4), pip (1), make (1)
 > **Env Vars:** ts1 (2), api (1), aapl (1)
 > **Code Identifiers:** alpha_vantage (2), get_monthly (1)
@@ -1570,8 +1547,7 @@ created: 2026-05-02
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (1)
 
-#### How to pull stock data with the alpha_vantage package: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-2?u=76281980)
+#### [How to pull stock data with the alpha_vantage package: Part 2](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1607,11 +1583,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-2?u=76281980&t=98)** One quick note is if you try to make more than five API calls per minute, you'll get an error message saying you made too many API calls.
 >
-> **[1:45](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-2?u=76281980&t=105)** If this happens, you just need to wait a minute to start making API calls again, I highly recommend you reference the GitHub documentation for the Alpha Vantage package to further your exploration of stock data with this package.
+> **[1:45](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-alpha-vantage-package-part-2?u=76281980&t=105)** If this happens, you just need to wait a minute to start making API calls again, I highly recommend you reference the [[GitHub]] documentation for the Alpha Vantage package to further your exploration of stock data with this package.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), api (3), next (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Env Vars:** api (3), ts1 (2), aapl (2)
 > **CLI Commands:** make (2)
 > **Ports:** :25 (2)
@@ -1619,8 +1595,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to pull stock data with the requests package
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980)
+#### [How to pull stock data with the requests package](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1636,7 +1611,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=33)** So, you'll see we need to add in the function symbol and API key, but the data type is optional.
 >
-> **[0:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=40)** If we scroll down to look at the Python code provided, we will see it gives us the specific URL to use with our time series monthly function, the stock symbol, IBM, and the variable demo for our API key.
+> **[0:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=40)** If we scroll down to look at the [[Python (Programming Language)|Python]] code provided, we will see it gives us the specific URL to use with our time series monthly function, the stock symbol, IBM, and the variable demo for our API key.
 >
 > **[0:54](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=54)** I highly suggest to copy and paste these URLs from the Alpha Vantage documentation or our ending coding files because they are very lengthy, making them easy to mistype.
 >
@@ -1662,13 +1637,13 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=124)** This will help us gather the information from that specific URL we just made.
 >
-> **[2:10](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=130)** Next, we will create a data variable and equal it to our r variable, and use the JSON method to get the data in a JSON format.
+> **[2:10](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=130)** Next, we will create a data variable and equal it to our r variable, and use the [[JSON]] method to get the data in a JSON format.
 >
 > **[2:18](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=138)** Finally, we will print out our data variable.
 >
 > **[2:22](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=142)** When we run this, we can see the monthly data output of our Apple stock data.
 >
-> **[2:28](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=148)** You'll notice the output has a very similar format to the Alpha Vantage Python package method, but now, it begins with this metadata portion where it shows some basic information about the stock and data we are pulling.
+> **[2:28](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=148)** You'll notice the output has a very similar format to the Alpha Vantage Python package method, but now, it begins with this [[Metadata]] portion where it shows some basic information about the stock and data we are pulling.
 >
 > **[2:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-stock-data-with-the-requests-package?u=76281980&t=160)** If you look at the monthly time series portion of this, you will see that we have similar values to before.
 >
@@ -1722,7 +1697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), api (6), next (6), [[Python (Programming Language)|Python]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JSON]] (2), [[Metadata]] (2)
 > **Env Vars:** url (13), api (6), ibm (3), json (2), aapl (1)
 > **CLI Commands:** make (4), python (2)
 > **Analogies:** similar to (2), such as (1)
@@ -1731,12 +1706,11 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to put stock data into a DataFrame
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-put-stock-data-into-a-dataframe?u=76281980)
+#### [How to put stock data into a DataFrame](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-put-stock-data-into-a-dataframe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-put-stock-data-into-a-dataframe?u=76281980&t=0)** - It is nice to have our data pulled into Python with tuples and BeautifulSoup but many programmers like being able to store their data in a data frame to use the full potential of the pandas package.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-put-stock-data-into-a-dataframe?u=76281980&t=0)** - It is nice to have our data pulled into [[Python (Programming Language)|Python]] with tuples and BeautifulSoup but many programmers like being able to store their data in a data frame to use the full potential of the [[Pandas (Software)|pandas]] package.
 >
 > **[0:13](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-put-stock-data-into-a-dataframe?u=76281980&t=13)** I will show how to do this for both methods.
 >
@@ -1804,7 +1778,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-put-stock-data-into-a-dataframe?u=76281980&t=277)** Now we can see the data is in a data frame format instead of being in a dictionary format.
 >
-> **[4:45](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-put-stock-data-into-a-dataframe?u=76281980&t=285)** Unfortunately this data frame is still contained within a tuple because we have that metadata portion.
+> **[4:45](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-put-stock-data-into-a-dataframe?u=76281980&t=285)** Unfortunately this data frame is still contained within a tuple because we have that [[Metadata]] portion.
 >
 > **[4:50](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-put-stock-data-into-a-dataframe?u=76281980&t=290)** We will need to do a similar process as before to separate out this data frame.
 >
@@ -1824,7 +1798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (2), api (2), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (2), [[Metadata]] (1)
 > **Code Identifiers:** meta_data (6), get_intraday (2), read_csv (1), reset_index (1)
 > **CLI Commands:** make (6), python (2)
 > **Env Vars:** url (3), aapl (3), api (2)
@@ -1833,8 +1807,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - it (1)
 
-#### How to use Alpha Vantage functions: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-1?u=76281980)
+#### [How to use Alpha Vantage functions: Part 1](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1842,7 +1815,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-1?u=76281980&t=5)** We will focus on the request method for this portion of the chapter.
 >
-> **[0:09](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-1?u=76281980&t=9)** You'll find the code for these three videos in Codespaces.
+> **[0:09](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-1?u=76281980&t=9)** You'll find the code for these three videos in [[Codespaces]].
 >
 > **[0:12](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-1?u=76281980&t=12)** This way you don't need to obtain and edit it from the Alpha Vantage documentation like you usually would.
 >
@@ -1856,7 +1829,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-1?u=76281980&t=54)** In this video, we will review fundamental data and Forex functions.
 >
-> **[0:59](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-1?u=76281980&t=59)** The fundamental data functions focus on how a company is doing overall in key financial metrics, such as their earnings, and financial statements, like their balance sheet.
+> **[0:59](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-1?u=76281980&t=59)** The fundamental data functions focus on how a company is doing overall in key financial metrics, such as their earnings, and [[Financial Statements]], like their balance sheet.
 >
 > **[1:08](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-1?u=76281980&t=68)** You can refer to the Alpha Vantage documentation, like so, for the future categories and functions.
 >
@@ -1906,7 +1879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Codespaces]] (2), next (2), api (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[Financial Statements]] (1)
 > **Analogies:** such as (6), similar to (1)
 > **Env Vars:** eps (2), api (1), earnings (1), fx_daily (1)
 > **CLI Commands:** find (2), make (1)
@@ -1915,12 +1888,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Warnings:** note that (1)
 
-#### How to use Alpha Vantage functions: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-2?u=76281980)
+#### [How to use Alpha Vantage functions: Part 2](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-2?u=76281980&t=0)** - [Instructor] We will continue exploring the Alpha Vantage functions by reviewing a few of the economic indicator and cryptocurrency functions.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-2?u=76281980&t=0)** - [Instructor] We will continue exploring the Alpha Vantage functions by reviewing a few of the economic indicator and [[Cryptocurrency]] functions.
 >
 > **[0:08](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-2?u=76281980&t=8)** Cryptocurrency functions provide a wide range of data dealing with digital and cryptocurrencies, such as Bitcoin.
 >
@@ -1974,7 +1946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Cryptocurrency]] (2), product (2), next (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2)
 > **Env Vars:** gdp (3), usd (2), cpi (2), btc (1)
 > **Definitions:** means that (2), stands for (1), known as (1)
 > **Analogies:** such as (2), similar to (1), for example (1)
@@ -1983,8 +1955,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use Alpha Vantage functions: Part 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-3?u=76281980)
+#### [How to use Alpha Vantage functions: Part 3](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-use-alpha-vantage-functions-part-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2086,7 +2057,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2)
 > **Env Vars:** rocr (2), aapl (2), news_sentiment (1), url (1), sma (1)
 > **Versions:** 157.029 (1), 160.1863 (1), 0.9931 (1), 37.1661 (1), 39.7227 (1)
 > **Analogies:** for example (3), such as (2), similar to (1)
@@ -2095,14 +2065,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Analyze Microsoft stock
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-microsoft-stock?u=76281980)
+#### [Challenge: Analyze Microsoft stock](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-microsoft-stock?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-microsoft-stock?u=76281980&t=0)** - It's now time for a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-microsoft-stock?u=76281980&t=7)** Your friend Todd once helped to evaluate if Microsoft is a good company to invest in to help him grow his money for retirement.
+> **[0:07](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-microsoft-stock?u=76281980&t=7)** Your friend Todd once helped to evaluate if [[Microsoft]] is a good company to invest in to help him grow his money for retirement.
 >
 > **[0:15](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-microsoft-stock?u=76281980&t=15)** He wants to make sure it is a good stock to invest in to hopefully provide him good long-term returns.
 >
@@ -2124,7 +2093,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-microsoft-stock?u=76281980&t=64)** So here you can do that, and for your reference, MSFT is the Microsoft stock symbol.
 >
-> **[1:11](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-microsoft-stock?u=76281980&t=71)** Remember, you can also Google that on your own, if you forget that.
+> **[1:11](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-microsoft-stock?u=76281980&t=71)** Remember, you can also [[Google]] that on your own, if you forget that.
 >
 > **[1:15](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-microsoft-stock?u=76281980&t=75)** Next, we are going to gather the weekly stock data at Microsoft.
 >
@@ -2162,7 +2131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (9), next (4), api (2), data (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (9), [[Google]] (1)
 > **Env Vars:** api (2), url (2), msft (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -2171,14 +2140,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Warnings:** note that (1)
 
-#### Solution: Analyze Microsoft stock
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-microsoft-stock?u=76281980)
+#### [Solution: Analyze Microsoft stock](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-microsoft-stock?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-microsoft-stock?u=76281980&t=5)** - [Instructor] Welcome back.
 >
-> **[0:06](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-microsoft-stock?u=76281980&t=6)** Nice job analyzing the Microsoft stock to help Todd make a wise decision for his investment.
+> **[0:06](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-microsoft-stock?u=76281980&t=6)** Nice job analyzing the [[Microsoft]] stock to help Todd make a wise decision for his investment.
 >
 > **[0:12](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-microsoft-stock?u=76281980&t=12)** If you felt overwhelmed with this challenge, do not worry.
 >
@@ -2228,7 +2196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (13), data (7), next (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (13)
 > **Env Vars:** msft (4), ts1 (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
@@ -2239,8 +2207,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is text analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980)
+#### [What is text analysis?](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2250,9 +2217,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=16)** Text analysis is where we use computers to analyze text data to better understand what is being said and the meaning behind it.
 >
-> **[0:24](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=24)** This is part of what we call natural language processing.
+> **[0:24](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=24)** This is part of what we call [[Natural Language Processing (NLP)|natural language processing]].
 >
-> **[0:28](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=28)** Natural language processing, also known as NLP, is a subfield of artificial intelligence where computers process and understand human language.
+> **[0:28](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=28)** Natural language processing, also known as NLP, is a subfield of [[Artificial Intelligence (AI)|artificial intelligence]] where computers process and understand human language.
 >
 > **[0:36](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=36)** The input may be written or spoken words for the computer to process.
 >
@@ -2264,7 +2231,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=55)** We can also discover what some common topics are in our text.
 >
-> **[0:59](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=59)** Our analysis in Python will heavily use the NLTK Python package.
+> **[0:59](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=59)** Our analysis in [[Python (Programming Language)|Python]] will heavily use the NLTK Python package.
 >
 > **[1:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=64)** The NLTK package stands for Natural Language Toolkit, and it is an industry standard to perform natural language processing.
 >
@@ -2274,7 +2241,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=88)** Text data is widely used throughout the internet and our daily lives.
 >
-> **[1:31](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=91)** The more we can leverage these analyses, the more we can better understand human behavior, provide language-based solutions, and learn more about text products such as novels and blogs.
+> **[1:31](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=91)** The more we can leverage these analyses, the more we can better understand human behavior, provide language-based solutions, and learn more about text [[Microsoft Products|products]] such as novels and blogs.
 >
 > **[1:43](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980&t=103)** Some applications of natural language processing are translators between two languages, a spell checker on a text application, a virtual assistant device on your computer, and a filter for filtering out spam emails.
 >
@@ -2284,7 +2251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Python (Programming Language)|Python]] (2), nlp (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Python (Programming Language)|Python]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** known as (1), is a  (1), stands for (1), is an  (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** nltk (2), nlp (1)
@@ -2292,8 +2259,7 @@ created: 2026-05-02
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - in (1)
 
-#### Introducing Project Gutenberg and "Great Expectations"
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-project-gutenberg-and-great-expectations?u=76281980)
+#### [Introducing Project Gutenberg and "Great Expectations"](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-project-gutenberg-and-great-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2331,7 +2297,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-project-gutenberg-and-great-expectations?u=76281980&t=98)** If we click on the book, it will take us to the page where we can download the full book.
 >
-> **[1:43](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-project-gutenberg-and-great-expectations?u=76281980&t=103)** This text file will be made available to you on the Codespaces GitHub platform.
+> **[1:43](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-project-gutenberg-and-great-expectations?u=76281980&t=103)** This text file will be made available to you on the [[Codespaces]] [[GitHub]] platform.
 >
 > **[1:47](https://www.linkedin.com/learning/build-three-real-world-python-applications/introducing-project-gutenberg-and-great-expectations?u=76281980&t=107)** If you wish to access this file outside of the platform then I suggest you select the Plain Text UTF-8 option to download the text.
 >
@@ -2339,7 +2305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Codespaces]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (3), pip (1)
 > **UI Navigation:** navigate to (1), go to (1), click on (1), select the (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2348,14 +2314,13 @@ created: 2026-05-02
 > **Exercise Files:** download the (2)
 > **URLs:** [guttenberg.org](https://guttenberg.org) (1)
 
-#### How to pull text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980)
+#### [How to pull text data](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=0)** - [Instructor] Let's head over to Jupyter Notebooks to begin our process of bringing our great_expectations.txt file into our code.
 >
-> **[0:07](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=7)** This text file will be provided to you in Codespaces, but if you are using a different application or program, I highly suggest having this text file in the same folder as your Jupyter Notebook, since otherwise, you will need to specify the path.
+> **[0:07](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=7)** This text file will be provided to you in [[Codespaces]], but if you are using a different application or program, I highly suggest having this text file in the same folder as your Jupyter Notebook, since otherwise, you will need to specify the path.
 >
 > **[0:20](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=20)** We are going to begin bringing in our text file by creating a variable called textfile and we're going to equal it to open, to open up our file, and then our file is called great_expectations.txt.
 >
@@ -2369,7 +2334,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=75)** Finally, to make sure we bring in the text file correctly, we will print out our variable, great_expect.
 >
-> **[1:23](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=83)** If we run this, we can see the text successfully was pulled into Python with a short introduction about Project Gutenberg.
+> **[1:23](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=83)** If we run this, we can see the text successfully was pulled into [[Python (Programming Language)|Python]] with a short introduction about Project Gutenberg.
 >
 > **[1:32](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=92)** We will now review some of the packages we will pull in for this text analysis since there are 15 of them.
 >
@@ -2379,7 +2344,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=108)** Now we will import the nltk package and some of its sub-packages such as word_tokenize, stopwords, SentimentIntensityAnalyzer, and WordNetLemmatizer.
 >
-> **[2:02](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=122)** The nltk package and its sub-packages are heavily used for natural language processing to analyze text data.
+> **[2:02](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=122)** The nltk package and its sub-packages are heavily used for [[Natural Language Processing (NLP)|natural language processing]] to analyze text data.
 >
 > **[2:11](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=131)** Next, we will import some sub-packages from gensim such as Dictionary, ldamodel, and CoherenceModel.
 >
@@ -2387,7 +2352,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=147)** We will also pull in the wordcloud sub-package from the wordcloud package in order to create a WordCloud out of our text data.
 >
-> **[2:35](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=155)** There are a few other packages we will import such as pandas, Image from PIL, numpy, random, re, and matplotlib.pyplot to further assist us with our analysis.
+> **[2:35](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=155)** There are a few other packages we will import such as [[Pandas (Software)|pandas]], Image from PIL, numpy, random, re, and matplotlib.pyplot to further assist us with our analysis.
 >
 > **[2:49](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-pull-text-data?u=76281980&t=169)** These are some of the common packages to do things such as create data frames, create random numbers, and provide visualizations.
 >
@@ -2401,7 +2366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (3), [[Codespaces]] (2), application (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[Python (Programming Language)|Python]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** great_expectations (2), great_expect (2), word_tokenize (1), vader_lexicon (1)
 > **CLI Commands:** pip (2), make (1), python (1)
 > **Env Vars:** utf (2), lda (1), pil (1)
@@ -2410,8 +2375,7 @@ created: 2026-05-02
 > **File Paths:** great_expectations.txt (2)
 > **Definitions:** is called (1), short for (1)
 
-#### How to clean text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980)
+#### [How to clean text data](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2423,7 +2387,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=22)** Remember that you will need to execute the code at the top of each file from here onwards in order to properly execute the code for each video.
 >
-> **[0:31](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=31)** For our word cloud we will do a simple cleaning of our text to visualize our popular words.
+> **[0:31](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=31)** For our [[Microsoft Word|word]] cloud we will do a simple cleaning of our text to visualize our popular words.
 >
 > **[0:37](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=37)** We will create a variable called word_cloud_text and equal it to that great_expect variable we had earlier and use the .lower method on it.
 >
@@ -2433,7 +2397,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=78)** So we will run this and next, We will tokenize our text data to analyze the frequency of the different words.
 >
-> **[1:26](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=86)** We will create a new variable for this called tokens and we will equal it to the word_tokenize function.
+> **[1:26](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=86)** We will create a new variable for this called [[Tokens]] and we will equal it to the word_tokenize function.
 >
 > **[1:36](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=96)** And inside this, we will call it word_cloud_text\ to call our previous variable.
 >
@@ -2459,9 +2423,9 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=197)** Essentially what this set of code does is it takes alphabets, prefixes, suffixes, starters, acronyms, websites, and digits, to essentially determine what makes the end of a sentence.
 >
-> **[3:30](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=210)** So here you could see we are defining what those different pieces are and then essentially this giant part here is going through each piece and figuring out where it needs to replace these different items to make it very clear to Python exactly where the sentence is going to end.
+> **[3:30](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=210)** So here you could see we are defining what those different pieces are and then essentially this giant part here is going through each piece and figuring out where it needs to replace these different items to make it very clear to [[Python (Programming Language)|Python]] exactly where the sentence is going to end.
 >
-> **[3:48](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=228)** And so then down here you'll see once that is all done, then it is able to save that result into a Pandas data frame.
+> **[3:48](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=228)** And so then down here you'll see once that is all done, then it is able to save that result into a [[Pandas (Software)|Pandas]] data frame.
 >
 > **[3:55](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-clean-text-data?u=76281980&t=235)** I highly suggest you take some time on your own to review the set of code on your own in more detail.
 >
@@ -2499,19 +2463,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Word|Word]] (8), [[Tokens]] (6), cloud (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Tokens]] (6), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (5), python (1)
 > **Code Identifiers:** word_cloud_text (3), great_expect (1), word_tokenize (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - many (1)
 
-#### How to create a word cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980)
+#### [How to create a word cloud](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=0)** - [Narrator] We will begin our text analysis by creating a word cloud.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=0)** - [Narrator] We will begin our text analysis by creating a [[Microsoft Word|word]] cloud.
 >
 > **[0:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=4)** Word clouds are one way to get a visual representation to see what words are popular in a set of text data.
 >
@@ -2531,7 +2494,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=47)** That way it's for a word cloud and we'll equal it to the set of stop words, and again, looking at the words and make sure we have the English version of this.
 >
-> **[0:57](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=57)** So this is very similar to what we did before in our cleaning section with the tokens variable.
+> **[0:57](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=57)** So this is very similar to what we did before in our cleaning section with the [[Tokens]] variable.
 >
 > **[1:03](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=63)** Next, we will create our main word cloud variable to create our word cloud.
 >
@@ -2551,7 +2514,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=118)** That way we can actually generate the word cloud on our word_cloud_text variable.
 >
-> **[2:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=124)** Again, this is the variable that we created earlier in our data cleaning section.
+> **[2:04](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=124)** Again, this is the variable that we created earlier in our [[Data Cleaning]] section.
 >
 > **[2:09](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-create-a-word-cloud?u=76281980&t=129)** This way, the word cloud will know which set of text data we want to use to generate our word cloud.
 >
@@ -2585,19 +2548,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (31), cloud (25), data (4), next (4), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (31), [[Tokens]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **Code Identifiers:** words_wc (1), word_cloud_text (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to improve a word cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-improve-a-word-cloud?u=76281980)
+#### [How to improve a word cloud](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-improve-a-word-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-improve-a-word-cloud?u=76281980&t=0)** - [Instructor] The word cloud we made in the previous video does the trick but we could customize it a bit to make it more visually appealing.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-improve-a-word-cloud?u=76281980&t=0)** - [Instructor] The [[Microsoft Word|word]] cloud we made in the previous video does the trick but we could customize it a bit to make it more visually appealing.
 >
 > **[0:07](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-improve-a-word-cloud?u=76281980&t=7)** In this video, we will adjust the shape and color of the word cloud to improve how it looks.
 >
@@ -2663,7 +2625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (14), cloud (13), next (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (14)
 > **Code Identifiers:** man_in_top_hat (2), gray_color_func (2), font_size (1), random_state (1), background_color (1)
 > **CLI Commands:** make (4), pip (1)
 > **Prerequisites:** make sure you have (1), getting started (1)
@@ -2671,12 +2633,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to analyze word frequency
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980)
+#### [How to analyze word frequency](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980&t=0)** - [Instructor] Word clouds are a fun way to visually see what words are popular in a set of text data.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980&t=0)** - [Instructor] [[Microsoft Word|Word]] clouds are a fun way to visually see what words are popular in a set of text data.
 >
 > **[0:05](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980&t=5)** But it could be difficult to see what words there are and exactly how frequently they occur in our novel.
 >
@@ -2686,9 +2647,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980&t=25)** We will begin doing this by creating our fdist variable for our frequency distribution, and equal it to the nltk package and use the FreqDist function.
 >
-> **[0:37](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980&t=37)** And we want to look at our tokens variable.
+> **[0:37](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980&t=37)** And we want to look at our [[Tokens]] variable.
 >
-> **[0:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980&t=40)** Remember, this tokens variable is what we made earlier in our data cleaning section, where we split the text step by word, got rid of the stop words, and kept only the words that were three letters or longer.
+> **[0:40](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980&t=40)** Remember, this tokens variable is what we made earlier in our [[Data Cleaning]] section, where we split the text step by word, got rid of the stop words, and kept only the words that were three letters or longer.
 >
 > **[0:53](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-analyze-word-frequency?u=76281980&t=53)** If we go down the line and type in our fdist variable, we can then print it out and see what our output is.
 >
@@ -2758,7 +2719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), data (3), [[Tokens]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[Tokens]] (2), [[Data Cleaning]] (1)
 > **UI Navigation:** scroll down (2)
 > **Code Identifiers:** most_common (1)
 > **Definitions:** is a  (1)
@@ -2766,8 +2727,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to perform Vader sentiment analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-vader-sentiment-analysis?u=76281980)
+#### [How to perform Vader sentiment analysis](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-vader-sentiment-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2795,7 +2755,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-vader-sentiment-analysis?u=76281980&t=89)** Now, we will create three more columns with sentiment specific scores ranging from 0 to 1 using very similar code.
 >
-> **[1:37](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-vader-sentiment-analysis?u=76281980&t=97)** So I highly suggest copying and pasting this code three times and we will edit it to get the rest of our data.
+> **[1:37](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-vader-sentiment-analysis?u=76281980&t=97)** So I highly suggest copying and pasting this code three times and we will edit it to get the [[Representational State Transfer (REST)|rest]] of our data.
 >
 > **[1:48](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-vader-sentiment-analysis?u=76281980&t=108)** So for the first column, we will change the compound score to neg to stand for negative values.
 >
@@ -2845,7 +2805,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-vader-sentiment-analysis?u=76281980&t=273)** With this one, we want the compound score to be exactly equal to 0.
 >
-> **[4:37](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-vader-sentiment-analysis?u=76281980&t=277)** Again, remember in Python you need to use two equal signs to check if something is equivalent versus one equal sign where you are assigning something to a variable.
+> **[4:37](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-vader-sentiment-analysis?u=76281980&t=277)** Again, remember in [[Python (Programming Language)|Python]] you need to use two equal signs to check if something is equivalent versus one equal sign where you are assigning something to a variable.
 >
 > **[4:47](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-vader-sentiment-analysis?u=76281980&t=287)** Once we get these values, we can print out the shape of our sentences data frame to see how many sentences we had overall, along with printing out the lengths of our positive sentence, negative sentence, and neutral sentence variables that we just created.
 >
@@ -2889,7 +2849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (9), python (1)
 > **Versions:** 0.2 (2), 0.25 (2), 0.75 (2)
 > **Code Identifiers:** polarity_scores (1), positive_sentence (1)
@@ -2898,8 +2858,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to build a corpus and dictionary for topic modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980)
+#### [How to build a corpus and dictionary for topic modeling](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2917,7 +2876,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=43)** Next, we will create a text_processing function where we ensure any numbers or alpha numeric words we don't want are removed.
 >
-> **[0:51](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=51)** So you'll see that we define our function as text_processing texts and you'll notice that we have all the code ready to go for you in codespaces.
+> **[0:51](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=51)** So you'll see that we define our function as text_processing texts and you'll notice that we have all the code ready to go for you in [[Codespaces]].
 >
 > **[0:59](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=59)** Please note that in other scenarios you may need to type all of this out on your own, or again, find another set of code to copy and paste from someone else online.
 >
@@ -2925,7 +2884,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=81)** Next, we are tokenizing like we did before.
 >
-> **[1:24](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=84)** So again, we are lower casing and splitting each word up and again, putting it in that list format where each word is individual.
+> **[1:24](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=84)** So again, we are lower casing and splitting each [[Microsoft Word|word]] up and again, putting it in that list format where each word is individual.
 >
 > **[1:33](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=93)** Next, we are going to use the WordNetLemmatizer.
 >
@@ -2945,7 +2904,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=147)** Finally, we are removing any short words that are less than three letters in lengths.
 >
-> **[2:32](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=152)** So again, similar to before in the data cleaning to make sure that they are removed and ready to go.
+> **[2:32](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=152)** So again, similar to before in the [[Data Cleaning]] to make sure that they are removed and ready to go.
 >
 > **[2:38](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-build-a-corpus-and-dictionary-for-topic-modeling?u=76281980&t=158)** Once you're done with all that, we can just simply return our text variable that we've been working with throughout this function.
 >
@@ -2981,7 +2940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (11), next (6), [[Codespaces]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[Codespaces]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** make (7), find (2)
 > **Code Identifiers:** text_processing (4)
 > **Analogies:** similar to (2), for example (1)
@@ -2989,8 +2948,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to perform topic modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-topic-modeling?u=76281980)
+#### [How to perform topic modeling](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-topic-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3098,7 +3056,7 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-topic-modeling?u=76281980&t=355)** And again, each of these values are what the topics are that it found.
 >
-> **[6:01](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-topic-modeling?u=76281980&t=361)** So inside these values you will see that you have a numerical value, such as 0.023, and then you'll see you have a word.
+> **[6:01](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-topic-modeling?u=76281980&t=361)** So inside these values you will see that you have a numerical value, such as 0.023, and then you'll see you have a [[Microsoft Word|word]].
 >
 > **[6:10](https://www.linkedin.com/learning/build-three-real-world-python-applications/how-to-perform-topic-modeling?u=76281980&t=370)** In this case, we have miss.
 >
@@ -3112,7 +3070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** lda (11)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** such as (3)
@@ -3121,8 +3079,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), is a  (1)
 > **UI Navigation:** scroll down (1)
 
-#### Challenge: Analyze "Sense and Sensibility"
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-sense-and-sensibility?u=76281980)
+#### [Challenge: Analyze "Sense and Sensibility"](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-sense-and-sensibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3140,7 +3097,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-sense-and-sensibility?u=76281980&t=36)** You can use the text analysis skills you learned in this chapter to analyze the "Sense and Sensibility" novel.
 >
-> **[0:44](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-sense-and-sensibility?u=76281980&t=44)** You'll be given a starter coding file in Codespaces that has a lot of code already added in to speed up the process, along with comments to tell you what code still needs to be added.
+> **[0:44](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-sense-and-sensibility?u=76281980&t=44)** You'll be given a starter coding file in [[Codespaces]] that has a lot of code already added in to speed up the process, along with comments to tell you what code still needs to be added.
 >
 > **[0:54](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-sense-and-sensibility?u=76281980&t=54)** The portions of code that need to be filled in are marked with these four percent signs.
 >
@@ -3154,7 +3111,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-sense-and-sensibility?u=76281980&t=77)** Once you do that, you can begin adding in your code.
 >
-> **[1:21](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-sense-and-sensibility?u=76281980&t=81)** So you'll create a word frequency distribution up here by filling in these percent signs.
+> **[1:21](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-sense-and-sensibility?u=76281980&t=81)** So you'll create a [[Microsoft Word|word]] frequency distribution up here by filling in these percent signs.
 >
 > **[1:27](https://www.linkedin.com/learning/build-three-real-world-python-applications/challenge-analyze-sense-and-sensibility?u=76281980&t=87)** Once you do that, then you will view the 40 most common words in the text by filling in these percent signs.
 >
@@ -3182,7 +3139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Codespaces]] (2), [[Search]] (1), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (1), make sure you have (1)
@@ -3191,8 +3148,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Analyze "Sense and Sensibility"
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-sense-and-sensibility?u=76281980)
+#### [Solution: Analyze "Sense and Sensibility"](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-sense-and-sensibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3206,9 +3162,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-sense-and-sensibility?u=76281980&t=15)** I will explain step by step what should have been filled in and what each line of code is doing.
 >
-> **[0:22](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-sense-and-sensibility?u=76281980&t=22)** We begin with our word frequency distribution.
+> **[0:22](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-sense-and-sensibility?u=76281980&t=22)** We begin with our [[Microsoft Word|word]] frequency distribution.
 >
-> **[0:24](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-sense-and-sensibility?u=76281980&t=24)** So with these percent signs here, you would want to fill in nltk.frequency distribution, so FreqDist, and we want to use that tokens variable that we created above.
+> **[0:24](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-sense-and-sensibility?u=76281980&t=24)** So with these percent signs here, you would want to fill in nltk.frequency distribution, so FreqDist, and we want to use that [[Tokens]] variable that we created above.
 >
 > **[0:36](https://www.linkedin.com/learning/build-three-real-world-python-applications/solution-analyze-sense-and-sensibility?u=76281980&t=36)** And then again, I always recommend printing out the distribution once you're done.
 >
@@ -3312,7 +3268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2), data (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Tokens]] (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** most_common (1)
@@ -3326,18 +3282,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980&t=0)** - That brings us to the end of the course, but we've only scratched the surface of what Python has to offer.
+> **[0:00](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980&t=0)** - That brings us to the end of the course, but we've only scratched the surface of what [[Python (Programming Language)|Python]] has to offer.
 >
 > **[0:07](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980&t=7)** This isn't the end, and I encourage you to learn more.
 >
 > **[0:11](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980&t=11)** You can continue to responsibly scrape websites, explore the thousands of APIs available, and dive deeper into text analysis.
 >
-> **[0:21](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980&t=21)** You can use the three projects we've reviewed to post on your GitHub or LinkedIn to showcase your Python skills to potential employers.
+> **[0:21](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980&t=21)** You can use the three projects we've reviewed to post on your [[GitHub]] or [[LinkedIn]] to showcase your Python skills to potential employers.
 >
 > **[0:29](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980&t=29)** I would love to connect with you on LinkedIn and learn more about your experience with this course.
 >
@@ -3345,7 +3300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (2), [[GitHub]] (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (2), [[GitHub]] (1)
 > **CLI Commands:** python (3)
 > **Tools:** github (1)
 > **Speakers:** - that (1)

@@ -76,16 +76,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Memory organization for PLCs
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980)
+#### [Memory organization for PLCs](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=0)** - [Zahraa] At some point, we might have heard that organizing and knowing where you placed an item helps in finding it when needed, or not.
 >
-> **[0:10](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=10)** But when it comes to PLC programming, understanding the memory structure will help in knowing where to find, refer, and assign data to use them in the ladder logic program.
+> **[0:10](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=10)** But when it comes to [[PLC Programming]], understanding the memory structure will help in knowing where to find, refer, and assign data to use them in the ladder logic program.
 >
-> **[0:23](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=23)** In this LinkedIn Learner course, I'll explain to you memory structures that Allen Bradley controllers use, rack-based systems, and tag-based systems.
+> **[0:23](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=23)** In this [[LinkedIn]] Learner course, I'll explain to you memory structures that Allen Bradley controllers use, rack-based systems, and tag-based systems.
 >
 > **[0:36](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=36)** I'll explore each system separately by explaining the structure of each memory type and its associated components.
 >
@@ -93,18 +92,17 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=47)** I am an engineering instructor, and I love teaching students just like you.
 >
-> **[0:53](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=53)** Join me in my LinkedIn Learner course and explore the world of PLC ladder logic programming.
+> **[0:53](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980&t=53)** Join me in my LinkedIn Learner course and explore the world of [[PLC Ladder Logic]] programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (2), [[Programming]] (2), [[LinkedIn]] (2), data (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[PLC Programming]] (1), [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (2)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [zahraa] (1)
 
-#### What you should know before watching
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980)
+#### [What you should know before watching](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,23 +118,22 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980&t=39)** If you need a refresher on the basics of programming ladder logic, I recommend that you check this course.
 >
-> **[0:46](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980&t=46)** "Learning PLC Ladder Logic."
+> **[0:46](https://www.linkedin.com/learning/plc-memory-organization/what-you-should-know-before-watching?u=76281980&t=46)** "Learning [[PLC Ladder Logic]]."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), plc (3), data (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### LogixPro PLC software simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980)
+#### [LogixPro PLC software simulation](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980&t=0)** - [Instructor] For this course, I'll be using LogixPro PLC simulator from LearningPit.
 >
-> **[0:07](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980&t=7)** This simulation software mimics Allen Bradley RSLogix 500.
+> **[0:07](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980&t=7)** This [[Simulation Software]] mimics Allen Bradley RSLogix 500.
 >
 > **[0:13](https://www.linkedin.com/learning/plc-memory-organization/logixpro-plc-software-simulation?u=76281980&t=13)** Please refer to this video, "LogixPro PLC Simulation Software," where I go through the software and how to download it.
 >
@@ -146,7 +143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (3), [[Simulation Software]] (3)
+> **Frameworks & Libraries:** [[Simulation Software]] (3)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
@@ -155,8 +152,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Allen-Bradley PLCs types
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980)
+#### [Allen-Bradley PLCs types](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -164,7 +160,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980&t=6)** Here are a couple of examples of the ones by Allen Bradley from Rockwell Automation.
 >
-> **[0:16](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980&t=16)** In general while the fundamental concepts of PLC programming are common to all manufacturers there are differences between them.
+> **[0:16](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980&t=16)** In general while the fundamental concepts of [[PLC Programming]] are common to all manufacturers there are differences between them.
 >
 > **[0:25](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980&t=25)** For example, the controller size, memory organization, I/O addressing, instruction set and the applications that are used for which means that PLC programs are never perfectly interchangeable among the various models of PLCs.
 >
@@ -200,14 +196,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (3), [[Automation]] (1), [[Programming]] (1), product (1), application (1)
+> **Frameworks & Libraries:** [[PLC Programming]] (1)
 > **Env Vars:** plc (3), slc (2)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Allen-Bradley PLCs memory structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-memory-structures?u=76281980)
+#### [Allen-Bradley PLCs memory structures](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-memory-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -225,7 +220,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (2)
 > **Env Vars:** slc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -234,8 +228,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rack-based systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/rack-based-systems?u=76281980)
+#### [Rack-based systems](https://www.linkedin.com/learning/plc-memory-organization/rack-based-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,14 +270,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Env Vars:** slc (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Program files
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/program-files?u=76281980)
+#### [Program files](https://www.linkedin.com/learning/plc-memory-organization/program-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,13 +307,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data files: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-1?u=76281980)
+#### [Data files: Part 1](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,7 +343,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-1?u=76281980&t=120)** You see here the internal bits in the binary table inside file three and you can select any bit to use it in your program.
 >
-> **[2:10](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-1?u=76281980&t=130)** An example is word four, bit nine, and it's used as an output internal bit.
+> **[2:10](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-1?u=76281980&t=130)** An example is [[Microsoft Word|word]] four, bit nine, and it's used as an output internal bit.
 >
 > **[2:19](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-1?u=76281980&t=139)** Internal means the bit is not connected to any physical device.
 >
@@ -364,12 +353,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Troubleshooting]] (1), [[Microsoft Word|Word]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data files: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-2?u=76281980)
+#### [Data files: Part 2](https://www.linkedin.com/learning/plc-memory-organization/data-files-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,19 +401,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), plc (1)
 > **Env Vars:** plc (1), slc500 (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### LogixPro demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/logixpro-demo?u=76281980)
+#### [LogixPro demo](https://www.linkedin.com/learning/plc-memory-organization/logixpro-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/logixpro-demo?u=76281980&t=0)** - [Instructor] I regularly use LogixPro Simulation.
+> **[0:00](https://www.linkedin.com/learning/plc-memory-organization/logixpro-demo?u=76281980&t=0)** - [Instructor] I regularly use LogixPro [[Simulation]].
 >
-> **[0:04](https://www.linkedin.com/learning/plc-memory-organization/logixpro-demo?u=76281980&t=4)** This simulation software mimics Allen Bradley RSLogix500.
+> **[0:04](https://www.linkedin.com/learning/plc-memory-organization/logixpro-demo?u=76281980&t=4)** This [[Simulation Software]] mimics Allen Bradley RSLogix500.
 >
 > **[0:10](https://www.linkedin.com/learning/plc-memory-organization/logixpro-demo?u=76281980&t=10)** This software uses a rack-based system and you can see the different files represented here.
 >
@@ -437,11 +423,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (2), [[Simulation Software]] (1), data (1)
+> **Frameworks & Libraries:** [[Simulation]] (2), [[Simulation Software]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### I/O address format for rack-based PLC
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980)
+#### [I/O address format for rack-based PLC](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,7 +482,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=173)** For this module type you see here, it has 16 terminals, meaning 16 devices can be connected to any of the terminals within the module.
 >
-> **[3:05](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=185)** Here's an example of switches connected to an input module as you will see in this simulation software.
+> **[3:05](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=185)** Here's an example of switches connected to an input module as you will see in this [[Simulation Software]].
 >
 > **[3:13](https://www.linkedin.com/learning/plc-memory-organization/i-o-address-format-for-rack-based-plc?u=76281980&t=193)** If we need to use the switch connected to terminal two, the address of this specific switch is input 1/2.
 >
@@ -507,15 +492,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (4), data (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (1)
 > **Env Vars:** plc (4)
 > **Tools:** terminal (3)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data storage 16-bit words
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980)
+#### [Data storage 16-bit words](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,7 +511,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=19)** In a PLC, the memory locations are referred to as words.
 >
-> **[0:24](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=24)** Each word stores data in the form of binary digits or bits.
+> **[0:24](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=24)** Each [[Microsoft Word|word]] stores data in the form of binary digits or bits.
 >
 > **[0:31](https://www.linkedin.com/learning/plc-memory-organization/data-storage-16-bit-words?u=76281980&t=31)** The number of bits that a word can store depends on the type of the PLC system being used.
 >
@@ -565,7 +549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), plc (4), data (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **Env Vars:** plc (4), slc (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
@@ -575,8 +559,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tag-based system
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/tag-based-system?u=76281980)
+#### [Tag-based system](https://www.linkedin.com/learning/plc-memory-organization/tag-based-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,13 +581,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project file components overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/project-file-components-overview?u=76281980)
+#### [Project file components overview](https://www.linkedin.com/learning/plc-memory-organization/project-file-components-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -654,14 +635,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** lata (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tags in PLC
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/tags-in-plc?u=76281980)
+#### [Tags in PLC](https://www.linkedin.com/learning/plc-memory-organization/tags-in-plc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,14 +682,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), application (1), generic (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Tags types for ControlLogix controllers
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/tags-types-for-controllogix-controllers?u=76281980)
+#### [Tags types for ControlLogix controllers](https://www.linkedin.com/learning/plc-memory-organization/tags-types-for-controllogix-controllers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,14 +751,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16)
 > **Definitions:** is a  (6), is called (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - controllogix (1)
 
-#### Global and local tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/global-and-local-tags?u=76281980)
+#### [Global and local tags](https://www.linkedin.com/learning/plc-memory-organization/global-and-local-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,14 +802,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** is an  (1), refers to (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Addressing format for tag-based systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/addressing-format-for-tag-based-systems?u=76281980)
+#### [Addressing format for tag-based systems](https://www.linkedin.com/learning/plc-memory-organization/addressing-format-for-tag-based-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +831,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/plc-memory-organization/addressing-format-for-tag-based-systems?u=76281980&t=78)** Members specifying the type of data that the module can store.
 >
-> **[1:23](https://www.linkedin.com/learning/plc-memory-organization/addressing-format-for-tag-based-systems?u=76281980&t=83)** Usually here we just write the word data.
+> **[1:23](https://www.linkedin.com/learning/plc-memory-organization/addressing-format-for-tag-based-systems?u=76281980&t=83)** Usually here we just write the [[Microsoft Word|word]] data.
 >
 > **[1:27](https://www.linkedin.com/learning/plc-memory-organization/addressing-format-for-tag-based-systems?u=76281980&t=87)** This is optional.
 >
@@ -882,12 +855,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Speakers:** - [tutor] (1)
 
-#### Base and Alias tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/base-and-alias-tags?u=76281980)
+#### [Base and Alias tags](https://www.linkedin.com/learning/plc-memory-organization/base-and-alias-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -961,7 +933,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Programming]] (2), application (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -971,8 +942,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,7 +950,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980&t=4)** This course covers the theory part for Allen Bradley PLC member structure.
 >
-> **[0:11](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980&t=11)** If you'd like to learn more about PLC Ladder Logic Programming, I recommend checking out the learning path; Become a PLC Developer.
+> **[0:11](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980&t=11)** If you'd like to learn more about [[PLC Ladder Logic]] Programming, I recommend checking out the learning path; Become a PLC Developer.
 >
 > **[0:22](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980&t=22)** The learning path covers Ladder Logic Programming starting with the basics to some advanced instructions.
 >
@@ -992,7 +962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (5), [[Programming]] (3), [[Automation]] (3)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (2)
 > **Env Vars:** plc (5)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)

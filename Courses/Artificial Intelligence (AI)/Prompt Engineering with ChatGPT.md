@@ -78,20 +78,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ChatGPT: The AI game changer
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980)
+#### [ChatGPT: The AI game changer](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980&t=0)** - Get more out of ChatGPT quickly.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980&t=0)** - Get more out of [[ChatGPT]] quickly.
 >
-> **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980&t=3)** That's what effective prompt engineering is about, and that's just what we'll learn in this course.
+> **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980&t=3)** That's what effective [[Prompt Engineering]] is about, and that's just what we'll learn in this course.
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980&t=9)** We'll look at methods such as Socratic Prompting and personas in real business scenarios.
 >
 > **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980&t=15)** We'll even have a little fun by using multimodality in order to cook a meal.
 >
-> **[0:21](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980&t=21)** Finally, we'll look at security and privacy considerations that are essential to using this tool effectively in a professional environment.
+> **[0:21](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980&t=21)** Finally, we'll look at security and [[Privacy]] considerations that are essential to using this tool effectively in a professional environment.
 >
 > **[0:30](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980&t=30)** I'm Ronnie Sheer.
 >
@@ -103,22 +102,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Prompt Engineering]] (1), business (1), [[Security]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Prompt Engineering]] (1), [[Privacy]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - get (1)
 
-#### How ChatGPT works
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980)
+#### [How ChatGPT works](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=0)** - [Instructor] ChatGPT is powered by a large language model.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=0)** - [Instructor] [[ChatGPT]] is powered by a large language model.
 >
 > **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=5)** And at their core, text-to-text models are good at predicting the next token.
 >
-> **[0:12](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=12)** You can think of a token as a small unit of language, such as a word.
+> **[0:12](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=12)** You can think of a token as a small unit of language, such as a [[Microsoft Word|word]].
 >
-> **[0:17](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=17)** Or a word could be made up of a few tokens.
+> **[0:17](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=17)** Or a word could be made up of a few [[Tokens]].
 >
 > **[0:21](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=21)** Now, let's take this example where we give a language model a prompt, such as, "I try to learn something new."
 >
@@ -136,13 +134,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=61)** Now, notice that "every day" was not the most likely to come up, but 17% is still a good chance of the next word being "every day."
 >
-> **[1:12](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=72)** Now ChatGPT is particularly impressive when it comes to responding to instructions and conversational abilities, and this is due to a fine-tuning process called reinforcement learning from humans.
+> **[1:12](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=72)** Now ChatGPT is particularly impressive when it comes to responding to instructions and conversational abilities, and this is due to a fine-tuning process called [[Reinforcement Learning]] from humans.
 >
 > **[1:28](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/how-chatgpt-works?u=76281980&t=88)** This fine-tuning technique involves human feedback and helps get more desirable results when it comes to giving instructions with few or no examples and when it comes to conversational chatbots.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (4), [[ChatGPT]] (2), prompt (2), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[ChatGPT]] (2), [[Tokens]] (1), [[Reinforcement Learning]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
@@ -151,12 +149,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Providing context and using delimiters
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980)
+#### [Providing context and using delimiters](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=0)** - Providing context is one of the best ways to get more out of ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=0)** - Providing context is one of the best ways to get more out of [[ChatGPT]].
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=6)** Doing so will likely improve ChatGPT's accuracy.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=54)** It says, "Our company Red30 Tech Imports GPUs.
 >
-> **[1:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=60)** Our products are used for on-premise AI applications.
+> **[1:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=60)** Our [[Microsoft Products|products]] are used for on-premise AI applications.
 >
 > **[1:04](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=64)** A shipment of three GPUs is two weeks late due to supply-chain issues.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=260)** We would then use these triple quotes as our delimiter in the beginning of the text and to denote the end of the text.
 >
-> **[4:29](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=269)** For code, we could use HTML, we can also use a markdown-like language, for example, these three ticks and then write the name of the language, which is Python here.
+> **[4:29](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=269)** For code, we could use [[HTML]], we can also use a markdown-like language, for example, these three ticks and then write the name of the language, which is [[Python (Programming Language)|Python]] here.
 >
 > **[4:42](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980&t=282)** And then at the end after the code example, we can close things off with three additional ticks.
 >
@@ -256,7 +253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (15), prompt (10), [[Microsoft Products|Products]] (1), ai (1), product (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (15), [[Microsoft Products|Products]] (1), [[HTML]] (1), [[Python (Programming Language)|Python]] (1)
 > **Exercise Files:** template (3)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** python (1)
@@ -264,12 +261,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - providing (1)
 
-#### Use detailed instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/use-detailed-instructions?u=76281980)
+#### [Use detailed instructions](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/use-detailed-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/use-detailed-instructions?u=76281980&t=0)** - [Instructor] To get the most out of ChatGPT, our prompts have to include detailed instructions.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/use-detailed-instructions?u=76281980&t=0)** - [Instructor] To get the most out of [[ChatGPT]], our prompts have to include detailed instructions.
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/use-detailed-instructions?u=76281980&t=6)** In particular, we want to tell ChatGPT what it is we want, and in what format we want the output to be.
 >
@@ -307,7 +303,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/use-detailed-instructions?u=76281980&t=133)** Now you can play around with theming and ask for a different theme.
 >
-> **[2:17](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/use-detailed-instructions?u=76281980&t=137)** You can also upload a PowerPoint presentation and ask ChatGPT to try and use the existing theme of that presentation.
+> **[2:17](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/use-detailed-instructions?u=76281980&t=137)** You can also upload a [[Microsoft PowerPoint|PowerPoint]] presentation and ask ChatGPT to try and use the existing theme of that presentation.
 >
 > **[2:26](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/use-detailed-instructions?u=76281980&t=146)** But as you can see, asking for a particular type of output really goes a long way.
 >
@@ -317,15 +313,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), generic (1), prompt (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** csv (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Prompt refactor
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980)
+#### [Challenge: Prompt refactor](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -333,26 +328,25 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=6)** - [Ronnie] It is time for a challenge where we take a simple prompt and refactor it with some of the practices that we've learned in this chapter.
 >
-> **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=15)** So take about 10 to 15 minutes to take this prompt, which is "write a post about learning prompt engineering" and enhancing it using some of these techniques.
+> **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=15)** So take about 10 to 15 minutes to take this prompt, which is "write a post about learning [[Prompt Engineering]]" and enhancing it using some of these techniques.
 >
 > **[0:28](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=28)** Now, try different variations and see what produces the results that you're happy with.
 >
-> **[0:34](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=34)** Once you're done, if you're happy with the results and feel like it, you can go ahead and share them on LinkedIn using these hashtags.
+> **[0:34](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=34)** Once you're done, if you're happy with the results and feel like it, you can go ahead and share them on [[LinkedIn]] using these hashtags.
 >
-> **[0:43](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=43)** #learntechwithlinkedin, #ai, #chatgpt.
+> **[0:43](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=43)** #learntechwithlinkedin, #ai, #[[ChatGPT]].
 >
-> **[0:47](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=47)** And you can also tag me in the post, and I'll try my best to go ahead and react to some of these outputs.
+> **[0:47](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=47)** And you can also tag me in the post, and I'll try my best to go ahead and [[React.js|react]] to some of these outputs.
 >
 > **[0:53](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-prompt-refactor?u=76281980&t=53)** I'm always glad to see what learners are doing in these courses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[Prompt Engineering]] (1), [[LinkedIn]] (1), ai (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[LinkedIn]] (1), [[ChatGPT]] (1), [[React.js|React]] (1)
 > **Speakers:** - [ronnie] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Prompt refactor
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980)
+#### [Solution: Prompt refactor](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,15 +354,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980&t=5)** - [Instructor] The goal of this challenge was to refactor this prompt.
 >
-> **[0:10](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980&t=10)** Write a post about learning prompt engineering.
+> **[0:10](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980&t=10)** Write a post about learning [[Prompt Engineering]].
 >
 > **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980&t=14)** My approach was to say, you are a software engineer and instructor specializing in AI.
 >
-> **[0:21](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980&t=21)** Write a professional post for LinkedIn about the importance of learning prompt engineering.
+> **[0:21](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980&t=21)** Write a professional post for [[LinkedIn]] about the importance of learning prompt engineering.
 >
 > **[0:27](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980&t=27)** Use plenty of emojis.
 >
-> **[0:29](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980&t=29)** Now, even specifying which platform this post is for is going to make a difference in the output ChatGPT produces.
+> **[0:29](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980&t=29)** Now, even specifying which platform this post is for is going to make a difference in the output [[ChatGPT]] produces.
 >
 > **[0:39](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-prompt-refactor?u=76281980&t=39)** Also, notice that I told ChatGPT who the persona is that they're writing this post on behalf of.
 >
@@ -390,7 +384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), prompt (2), [[Prompt Engineering]] (2), ai (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Prompt Engineering]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -400,14 +394,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Personas
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980)
+#### [Personas](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980&t=0)** - In this one, we're going to look at personas.
 >
-> **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980&t=3)** Asking ChatGPT to adopt a persona means telling ChatGPT who we want it to be before asking it to perform a task.
+> **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980&t=3)** Asking [[ChatGPT]] to adopt a persona means telling ChatGPT who we want it to be before asking it to perform a task.
 >
 > **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980&t=13)** Let's have a look at a task.
 >
@@ -421,7 +414,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980&t=44)** Write an email to a CTO of a small startup explaining the benefits of using Grafana."
 >
-> **[0:51](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980&t=51)** Just like in other prompt engineering techniques, giving lots of context and being very detailed in your instructions is helpful.
+> **[0:51](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980&t=51)** Just like in other [[Prompt Engineering]] techniques, giving lots of context and being very detailed in your instructions is helpful.
 >
 > **[1:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980&t=60)** So let's go ahead and use this first prompt.
 >
@@ -459,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), cloud (2), prompt (2), [[Analytics]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Prompt Engineering]] (1)
 > **Env Vars:** cto (2), b2b (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
@@ -467,8 +460,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
-#### Splitting up complex tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980)
+#### [Splitting up complex tasks](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=14)** Now, here are some ways we can split things up.
 >
-> **[0:17](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=17)** We can get ChatGPT to plan, for example.
+> **[0:17](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=17)** We can get [[ChatGPT]] to plan, for example.
 >
 > **[0:21](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=21)** We can ask it, how would you do this?
 >
@@ -486,7 +478,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=30)** Then we can also start a new conversation when necessary and only bring whatever it is we need into a new conversation.
 >
-> **[0:39](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=39)** This way, we have less tokens and we're less likely to hit the token limit.
+> **[0:39](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=39)** This way, we have less [[Tokens]] and we're less likely to hit the token limit.
 >
 > **[0:45](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=45)** We can also ask ChatGPT to summarize something in one chat, and then bring that summary over to a new chat to be processed.
 >
@@ -494,7 +486,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=59)** Let me show you what I mean.
 >
-> **[1:01](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=61)** Here I have an article about generative AI.
+> **[1:01](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=61)** Here I have an article about [[Generative AI]].
 >
 > **[1:05](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=65)** It's from Wikipedia, and it's not so short.
 >
@@ -548,7 +540,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=242)** I'll start a new conversation, clear it up, and the first thing I'm going to do is I'm going to upload this template.
 >
-> **[4:10](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=250)** It's an empty PowerPoint presentation.
+> **[4:10](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=250)** It's an empty [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[4:13](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=253)** And I'll ask it, "What are the names of the layouts in this PPTX theme?
 >
@@ -580,7 +572,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=391)** Now, believe it or not, while this takes some time, dumping both these articles with the template into a prompt would take much longer and wouldn't give me much to work with.
 >
-> **[6:48](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=408)** And this is the Python code it's going to run in order to create this presentation.
+> **[6:48](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=408)** And this is the [[Python (Programming Language)|Python]] code it's going to run in order to create this presentation.
 >
 > **[7:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/splitting-up-complex-tasks?u=76281980&t=420)** I'll download the file.
 >
@@ -588,21 +580,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), prompt (3), [[Tokens]] (2), hit (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Tokens]] (2), [[Generative AI]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** gpt (3), pdf (2), pptx (1)
 > **Exercise Files:** template (4), download the (1)
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/custom-instructions?u=76281980)
+#### [Custom instructions](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/custom-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/custom-instructions?u=76281980&t=0)** - [Instructor] In this one, we're going to talk about custom instructions.
 >
-> **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/custom-instructions?u=76281980&t=3)** Custom instructions allow us to save time and repetitive work by giving us presets that we can give to ChatGPT.
+> **[0:03](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/custom-instructions?u=76281980&t=3)** Custom instructions allow us to save time and repetitive work by giving us presets that we can give to [[ChatGPT]].
 >
 > **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/custom-instructions?u=76281980&t=13)** Now, let me show you what I mean.
 >
@@ -618,7 +609,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/custom-instructions?u=76281980&t=53)** And what I've said is: Our company Red30 Tech imports GPUs.
 >
-> **[1:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/custom-instructions?u=76281980&t=60)** Our products are used for on-premise AI applications.
+> **[1:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/custom-instructions?u=76281980&t=60)** Our [[Microsoft Products|products]] are used for on-premise AI applications.
 >
 > **[1:04](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/custom-instructions?u=76281980&t=64)** You also have these nice hints for what it is you can say.
 >
@@ -640,13 +631,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), prompt (2), [[Microsoft Products|Products]] (1), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ceo (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging multi-modality
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/leveraging-multi-modality?u=76281980)
+#### [Leveraging multi-modality](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/leveraging-multi-modality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -662,7 +652,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/leveraging-multi-modality?u=76281980&t=37)** There's also text to image, video, or audio generation where you would give a model a text prompt along with perhaps an image, and the model would generate a new image.
 >
-> **[0:53](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/leveraging-multi-modality?u=76281980&t=53)** Now, the paid version of ChatGPT supports multimodality, and here's a neat way that I like to use it in order to cook.
+> **[0:53](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/leveraging-multi-modality?u=76281980&t=53)** Now, the paid version of [[ChatGPT]] supports multimodality, and here's a neat way that I like to use it in order to cook.
 >
 > **[1:03](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/leveraging-multi-modality?u=76281980&t=63)** And you can try this out.
 >
@@ -678,16 +668,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), prompt (2), ai (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Socratic prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980)
+#### [Socratic prompting](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=0)** - [Instructor] Socratic prompting involves asking ChatGPT various questions in order to improve the output quality through reasoning.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=0)** - [Instructor] Socratic prompting involves asking [[ChatGPT]] various questions in order to improve the output quality through reasoning.
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=9)** Now, there's an interesting paper about this by Edward Y. Chang that I encourage you to check out.
 >
@@ -727,7 +716,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=169)** I'll say, "Fast supply and extensive support."
 >
-> **[3:02](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=182)** I'll say, "Extensive customer support, so fast supply and extensive customer support."
+> **[3:02](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=182)** I'll say, "Extensive [[Customer Support]], so fast supply and extensive customer support."
 >
 > **[3:17](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=197)** Now it's asking me whether I prefer the brand name to be very descriptive or very abstract.
 >
@@ -737,7 +726,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=225)** So here it's given me a few names and it's giving me different reasons why these names may work.
 >
-> **[3:53](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=233)** I'm going to say that I like Swift Chip Solutions, so I'll say, "I like Swift Chip Solutions.
+> **[3:53](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=233)** I'm going to say that I like [[Swift (Programming Language)|Swift]] Chip Solutions, so I'll say, "I like Swift Chip Solutions.
 >
 > **[4:05](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/socratic-prompting?u=76281980&t=245)** Can you create a logo for it?"
 >
@@ -749,19 +738,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Customer Support]] (2), [[Swift (Programming Language)|Swift]] (2), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Customer Support]] (2), [[Swift (Programming Language)|Swift]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Writing copy
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-writing-copy?u=76281980)
+#### [Challenge: Writing copy](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-writing-copy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-writing-copy?u=76281980&t=0)** - [Instructor] It's time to put the things we've learned to complete a challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-writing-copy?u=76281980&t=9)** And the goal of this challenge is to help come up with a slogan for this fictional E-commerce brand.
+> **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-writing-copy?u=76281980&t=9)** And the goal of this challenge is to help come up with a slogan for this fictional [[E-Commerce]] brand.
 >
 > **[0:16](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-writing-copy?u=76281980&t=16)** It's called Binaryville, and you can find this fictional site at [binaryville.com/shop](https://binaryville.com/shop).
 >
@@ -771,15 +759,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1), next (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [binaryville.com](https://binaryville.com) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Writing copy
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980)
+#### [Solution: Writing copy](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -791,13 +778,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980&t=29)** I'll go ahead and add this screenshot to my chat.
 >
-> **[0:36](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980&t=36)** And my first prompt will say: "Describe this e-commerce shop.
+> **[0:36](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980&t=36)** And my first prompt will say: "Describe this [[E-Commerce]] shop.
 >
-> **[0:46](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980&t=46)** Explain what makes its products valuable to customers."
+> **[0:46](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980&t=46)** Explain what makes its [[Microsoft Products|products]] valuable to customers."
 >
 > **[1:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980&t=60)** So this is a way of dividing things up a little bit.
 >
-> **[1:11](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980&t=71)** So now it's time to give ChatGPT a persona, and I'll say: "You are an e-commerce expert.
+> **[1:11](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980&t=71)** So now it's time to give [[ChatGPT]] a persona, and I'll say: "You are an e-commerce expert.
 >
 > **[1:25](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-writing-copy?u=76281980&t=85)** Come up with five slogan ideas for the Binaryville Shop."
 >
@@ -811,7 +798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (4), [[ChatGPT]] (3), prompt (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (4), [[ChatGPT]] (3), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -821,14 +808,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is DALL-E?
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980)
+#### [What is DALL-E?](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980&t=0)** - DALL-E is OpenAI's text to image model.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980&t=0)** - [[DALL-E]] is OpenAI's text to image model.
 >
-> **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980&t=4)** It used to be its own product, but is now part of ChatGPT's paid offerings.
+> **[0:04](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980&t=4)** It used to be its own product, but is now part of [[ChatGPT]]'s paid offerings.
 >
 > **[0:10](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980&t=10)** Now, what we know about DALL-E is a bit limited, but we do know it's a diffusion type model.
 >
@@ -836,22 +822,21 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980&t=29)** Now, DALL-E was trained with a very, very large data set of pairs of images and captions.
 >
-> **[0:37](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980&t=37)** Keeping this in mind can help us make better choices when prompt engineering to get better results from DALL-E.
+> **[0:37](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980&t=37)** Keeping this in mind can help us make better choices when [[Prompt Engineering]] to get better results from DALL-E.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (4), product (1), [[ChatGPT]] (1), prompt (1), data (1)
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[ChatGPT]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** dall (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - dall (1)
 
-#### DALL-E 3 best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/dall-e-3-best-practices?u=76281980)
+#### [DALL-E 3 best practices](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/dall-e-3-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/dall-e-3-best-practices?u=76281980&t=0)** - [Instructor] When we prompt DALL-E, we want to use as much detail as possible, and it can be difficult to describe an image with precise style and what goes into this image, but having DALL-E as part of the ChatGPT ecosystem can really help us with that.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/dall-e-3-best-practices?u=76281980&t=0)** - [Instructor] When we prompt [[DALL-E]], we want to use as much detail as possible, and it can be difficult to describe an image with precise style and what goes into this image, but having DALL-E as part of the [[ChatGPT]] ecosystem can really help us with that.
 >
 > **[0:19](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/dall-e-3-best-practices?u=76281980&t=19)** Let me show you what I mean.
 >
@@ -861,7 +846,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/dall-e-3-best-practices?u=76281980&t=52)** Now I can ask ChatGPT to describe an image of a tech conference booth for a chip supply come.
 >
-> **[1:18](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/dall-e-3-best-practices?u=76281980&t=78)** The theme is AI hardware.
+> **[1:18](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/dall-e-3-best-practices?u=76281980&t=78)** The theme is AI [[Hardware]].
 >
 > **[1:26](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/dall-e-3-best-practices?u=76281980&t=86)** Use the details listed above.
 >
@@ -885,15 +870,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[DALL-E]] (4), prompt (2), ai (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[DALL-E]] (4), [[Hardware]] (1)
 > **Env Vars:** dall (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Enrich a DALL-E prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-enrich-a-dall-e-prompt?u=76281980)
+#### [Challenge: Enrich a DALL-E prompt](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-enrich-a-dall-e-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,7 +887,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-enrich-a-dall-e-prompt?u=76281980&t=15)** This team is the learners in this course, and once you're done, I would really want to see what you've created.
 >
-> **[0:22](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-enrich-a-dall-e-prompt?u=76281980&t=22)** So go ahead and share it on LinkedIn with the hashtags #AI and #LearnTechwithLinkedIn and @Ronnie Sheer.
+> **[0:22](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-enrich-a-dall-e-prompt?u=76281980&t=22)** So go ahead and share it on [[LinkedIn]] with the hashtags #AI and #LearnTechwithLinkedIn and @Ronnie Sheer.
 >
 > **[0:32](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-enrich-a-dall-e-prompt?u=76281980&t=32)** I've seen many creations from students in previous courses and it really brings me lots of joy to see people putting these techniques to work.
 >
@@ -911,21 +895,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[LinkedIn]] (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [ronnie] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Enrich a DALL-E prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-enrich-a-dall-e-prompt?u=76281980)
+#### [Solution: Enrich a DALL-E prompt](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-enrich-a-dall-e-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-enrich-a-dall-e-prompt?u=76281980&t=0)** - [Ronnie] The goal of this challenge was to use ChatGPT and DALL-E to generate a sticker for a team of prompt engineers.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-enrich-a-dall-e-prompt?u=76281980&t=0)** - [Ronnie] The goal of this challenge was to use [[ChatGPT]] and [[DALL-E]] to generate a sticker for a team of prompt engineers.
 >
-> **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-enrich-a-dall-e-prompt?u=76281980&t=15)** Then share your creations on LinkedIn so that hopefully we can learn from each other's work.
+> **[0:15](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-enrich-a-dall-e-prompt?u=76281980&t=15)** Then share your creations on [[LinkedIn]] so that hopefully we can learn from each other's work.
 >
-> **[0:22](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-enrich-a-dall-e-prompt?u=76281980&t=22)** And let's go ahead and head over to ChatGPT, and I'll start by saying, "List the details that make up an appealing sticker design for a team of professional prompt engineering superheroes."
+> **[0:22](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-enrich-a-dall-e-prompt?u=76281980&t=22)** And let's go ahead and head over to ChatGPT, and I'll start by saying, "List the details that make up an appealing sticker design for a team of professional [[Prompt Engineering]] superheroes."
 >
 > **[0:39](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-enrich-a-dall-e-prompt?u=76281980&t=39)** So I'll go ahead and submit this.
 >
@@ -955,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), prompt (5), [[LinkedIn]] (4), [[DALL-E]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[LinkedIn]] (4), [[DALL-E]] (1), [[Prompt Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dall (1)
 > **Speakers:** - [ronnie] (1)
@@ -966,18 +949,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ChatGPT security considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980)
+#### [ChatGPT security considerations](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980&t=0)** - Before we start using ChatGPT in a professional environment, here are a few security considerations to keep in mind.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980&t=0)** - Before we start using [[ChatGPT]] in a professional environment, here are a few security considerations to keep in mind.
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980&t=9)** It's always a good idea to seek stakeholder's approval when introducing new cutting edge tools to our workflow.
 >
 > **[0:19](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980&t=19)** Such stakeholders could include management, the person in charge of information security, and of course, our users and clients.
 >
-> **[0:29](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980&t=29)** It's also important to check ChatGPT's terms of use to see that they're aligned with your organization's security and privacy policy.
+> **[0:29](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980&t=29)** It's also important to check ChatGPT's terms of use to see that they're aligned with your organization's security and [[Privacy]] policy.
 >
 > **[0:39](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980&t=39)** It's also important to configure your environment for optimal security and privacy.
 >
@@ -985,17 +967,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[ChatGPT]] (3), [[Privacy]] (2), management (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Privacy]] (2)
 > **Prerequisites:** before we start (1), configure (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - before (1)
 
-#### Plans and data controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/plans-and-data-controls?u=76281980)
+#### [Plans and data controls](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/plans-and-data-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/plans-and-data-controls?u=76281980&t=0)** - [Instructor] Data controls give you a few options when it comes to information security and privacy while using ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/plans-and-data-controls?u=76281980&t=0)** - [Instructor] Data controls give you a few options when it comes to information security and [[Privacy]] while using [[ChatGPT]].
 >
 > **[0:09](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/plans-and-data-controls?u=76281980&t=9)** Before we take a look at how we can configure data controls, let's take a look at what different plans of ChatGPT mean for businesses.
 >
@@ -1005,7 +986,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/plans-and-data-controls?u=76281980&t=40)** Now, both the Teams and Enterprise plans do offer enhanced security and privacy.
 >
-> **[0:48](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/plans-and-data-controls?u=76281980&t=48)** They allow resource sharing within an organization or a team, and they offer larger context windows; allowing you to have longer conversations and use more tokens.
+> **[0:48](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/plans-and-data-controls?u=76281980&t=48)** They allow resource sharing within an organization or a team, and they offer larger context [[Windows]]; allowing you to have longer conversations and use more [[Tokens]].
 >
 > **[1:01](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/plans-and-data-controls?u=76281980&t=61)** Most importantly, both teams and enterprise plans are built for work and are more appropriate for business use.
 >
@@ -1041,7 +1022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), data (7), teams (4), [[Privacy]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Privacy]] (3), [[Windows]] (1), [[Tokens]] (1)
 > **UI Navigation:** toggle (3), go to (2)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
@@ -1050,12 +1031,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hallucinations
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/hallucinations?u=76281980)
+#### [Hallucinations](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/hallucinations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/hallucinations?u=76281980&t=0)** - [Instructor] Large language models such as ChatGPT are very impressive.
+> **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/hallucinations?u=76281980&t=0)** - [Instructor] [[Large Language Models (LLM)|Large language models]] such as [[ChatGPT]] are very impressive.
 >
 > **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/hallucinations?u=76281980&t=6)** They can, however, be inaccurate and sometimes even make up things.
 >
@@ -1086,14 +1066,13 @@ created: 2026-05-02
 > **Best Practices:** always make sure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Use data controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-use-data-controls?u=76281980)
+#### [Challenge: Use data controls](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-use-data-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-use-data-controls?u=76281980&t=0)** (bright music)
 >
-> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-use-data-controls?u=76281980&t=6)** - [Instructor] Being familiar with data controls is an important part of working with ChatGPT professionally.
+> **[0:06](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-use-data-controls?u=76281980&t=6)** - [Instructor] Being familiar with data controls is an important part of working with [[ChatGPT]] professionally.
 >
 > **[0:13](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/challenge-use-data-controls?u=76281980&t=13)** So in this one, your challenge is to head over to data controls in the setting section and making sure that chat history and training is off.
 >
@@ -1103,22 +1082,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[ChatGPT]] (2), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Use data controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980)
+#### [Solution: Use data controls](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=5)** - [Instructor] The goal of this challenge was to head over to data controls, turn off chat history and training, and start a conversation, then to keep ChatGPT's output somehow.
+> **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=5)** - [Instructor] The goal of this challenge was to head over to data controls, turn off chat history and training, and start a conversation, then to keep [[ChatGPT]]'s output somehow.
 >
-> **[0:19](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=19)** Now, let me show you my solution and I'll also demonstrate a way you can get data from ChatGPT to spreadsheet software like Excel if you don't have access to creating files with ChatGPT.
+> **[0:19](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=19)** Now, let me show you my solution and I'll also demonstrate a way you can get data from ChatGPT to spreadsheet software like [[Microsoft Excel|Excel]] if you don't have access to creating files with ChatGPT.
 >
 > **[0:34](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=34)** So here I am in my personal account of ChatGPT, and I'll open up the menu and navigate to Settings.
 >
@@ -1126,7 +1104,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=53)** Now, I'll type in this prompt, create a table with names, column, and ages column.
 >
-> **[1:11](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=71)** Add Jill, age 44, Jim, age 43, John, age 33, and Jack, age 28 to the table.
+> **[1:11](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=71)** Add Jill, age 44, Jim, age 43, [[John the Ripper|John]], age 33, and Jack, age 28 to the table.
 >
 > **[1:40](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=100)** Output should be CSV.
 >
@@ -1136,7 +1114,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=131)** I'll open it with a text edit, which is a plain text editor.
 >
-> **[2:19](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=139)** If you're using Windows, you can use a Notepad application, and I'll go ahead and paste this, save it, and close.
+> **[2:19](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=139)** If you're using [[Windows]], you can use a Notepad application, and I'll go ahead and paste this, save it, and close.
 >
 > **[2:29](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/solution-use-data-controls?u=76281980&t=149)** And I'll open it with the default spreadsheet application.
 >
@@ -1146,7 +1124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), data (4), [[Microsoft Excel|Excel]] (2), application (2), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Microsoft Excel|Excel]] (2), [[John the Ripper|John]] (1), [[Windows]] (1)
 > **Env Vars:** csv (2)
 > **UI Navigation:** navigate to (1), toggle (1)
 > **Definitions:** is a  (1)
@@ -1158,8 +1136,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,21 +1146,21 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=5)** Now, if you're interested in AI and all things technology, go ahead and subscribe to my YouTube channel; there I talk about the latest trends in AI and share tips that may help you leverage cutting-edge technologies.
 >
-> **[0:20](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=20)** You might also want to follow me on LinkedIn where I share my thoughts on these trends.
+> **[0:20](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=20)** You might also want to follow me on [[LinkedIn]] where I share my thoughts on these trends.
 >
 > **[0:27](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=27)** Now, as far as courses go, here are a few neat ones I can recommend checking out from the library.
 >
-> **[0:33](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=33)** If you wish to get a sense of the broad generative AI landscape and how prompt engineering applies to it, there's my course [[Introduction To Prompt Engineering For Generative Ai]].
+> **[0:33](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=33)** If you wish to get a sense of the broad [[Generative AI]] landscape and how [[Prompt Engineering]] applies to it, there's my course [[Introduction To Prompt Engineering For Generative Ai]].
 >
-> **[0:46](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=46)** If you wish to customize ChatGPT's behavior, there's the course Build Your Own GPTs with Alina Zhang.
+> **[0:46](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=46)** If you wish to customize [[ChatGPT]]'s behavior, there's the course Build Your Own GPTs with Alina Zhang.
 >
-> **[0:54](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=54)** Finally, if you're involved in software engineering and wish to get cutting-edge AI into your software, there's a great learning path called Develop Your Skills with the OpenAI API.
+> **[0:54](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=54)** Finally, if you're involved in software engineering and wish to get cutting-edge AI into your software, there's a great learning path called Develop Your Skills with the [[OpenAI API]].
 >
 > **[1:07](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980&t=67)** Once again, thank you so much and till the next one, always be learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), [[Prompt Engineering]] (2), [[LinkedIn]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Prompt Engineering]] (2), [[LinkedIn]] (1), [[ChatGPT]] (1), [[OpenAI API]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [ronnie] (1)
 

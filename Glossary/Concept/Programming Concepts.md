@@ -5,19 +5,19 @@ cssclasses:
 glossary_type: concept
 linkedin_topics:
   - Software Development
-  - Mobile Development
   - Data Science
+  - Mobile Development
+  - Artificial Intelligence (AI)
   - Web Development
-  - Hardware
 tags:
   - glossary
   - type/concept
   - topic/software-development
-  - topic/mobile-development
   - topic/data-science
+  - topic/mobile-development
+  - topic/artificial-intelligence
   - topic/web-development
-  - topic/hardware
-course_count: 23
+course_count: 24
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Programming Concepts
 
-> **Type:** Concept | **Courses:** 23 | **Topics:** [[Software Development]], [[Mobile Development]], [[Data Science]], [[Web Development]], [[Hardware]]
+> **Type:** Concept | **Courses:** 24 | **Topics:** [[Software Development]], [[Data Science]], [[Mobile Development]], [[Artificial Intelligence (AI)]], [[Web Development]]
 
 ## Courses
 
@@ -36,24 +36,25 @@ created: 2026-05-02
 5. [[C- Delegates, Events, and Lambdas]] — 1 mentions
 6. [[C- Interfaces and Generics]] — 1 mentions
 7. [[C- Essential Training 2- Generics, Collections, and LINQ]] — 1 mentions
-8. [[Programming Concepts for Python]] — 1 mentions
-9. [[Rust Essential Training]] — 1 mentions
-10. [[Quantum Computing Fundamentals]] — 1 mentions
+8. [[Generative AI- Introduction to Large Language Models]] — 1 mentions
+9. [[Programming Concepts for Python]] — 1 mentions
+10. [[Rust Essential Training]] — 1 mentions
 
-> [!note]- See all 23 courses
-> 11. [[Getting Started with Python for Finance]] — 1 mentions
-> 12. [[Building the Classic Snake Game with Python]] — 1 mentions
-> 13. [[Advanced Python in Excel for Finance- A Hands-On Approach]] — 1 mentions
-> 14. [[Hands-On Advanced Python- Data Engineering Basics]] — 1 mentions
-> 15. [[Complete Guide To C Plus Plus Programming Foundations]] — 1 mentions
-> 16. [[Kotlin Essential Training Functions Collections And I O]] — 1 mentions
-> 17. [[Kotlin Essential Training- Object-Oriented and Async Code]] — 1 mentions
-> 18. [[Getting Started With Technology Think Like An Engineer]] — 1 mentions
-> 19. [[Developer Career Paths and Certifications]] — 1 mentions
-> 20. [[Learning C-]] — 1 mentions
-> 21. [[Learning Arduino- Interfacing with Analog Devices]] — 1 mentions
-> 22. [[QGIS and Python for AEC]] — 1 mentions
-> 23. [[Hands-On Introduction- Java]] — 1 mentions
+> [!note]- See all 24 courses
+> 11. [[Quantum Computing Fundamentals]] — 1 mentions
+> 12. [[Getting Started with Python for Finance]] — 1 mentions
+> 13. [[Building the Classic Snake Game with Python]] — 1 mentions
+> 14. [[Advanced Python in Excel for Finance- A Hands-On Approach]] — 1 mentions
+> 15. [[Hands-On Advanced Python- Data Engineering Basics]] — 1 mentions
+> 16. [[Complete Guide To C Plus Plus Programming Foundations]] — 1 mentions
+> 17. [[Kotlin Essential Training Functions Collections And I O]] — 1 mentions
+> 18. [[Kotlin Essential Training- Object-Oriented and Async Code]] — 1 mentions
+> 19. [[Getting Started With Technology Think Like An Engineer]] — 1 mentions
+> 20. [[Developer Career Paths and Certifications]] — 1 mentions
+> 21. [[Learning C-]] — 1 mentions
+> 22. [[Learning Arduino- Interfacing with Analog Devices]] — 1 mentions
+> 23. [[QGIS and Python for AEC]] — 1 mentions
+> 24. [[Hands-On Introduction- Java]] — 1 mentions
 
 ## Learning Paths
 

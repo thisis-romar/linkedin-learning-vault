@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/artificial-intelligence
   - topic/cloud-computing
-course_count: 26
+course_count: 27
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # DevSecOps
 
-> **Type:** Concept | **Courses:** 26 | **Topics:** [[DevOps]], [[Cybersecurity]], [[Software Development]], [[Artificial Intelligence (AI)]], [[Cloud Computing]]
+> **Type:** Concept | **Courses:** 27 | **Topics:** [[DevOps]], [[Cybersecurity]], [[Software Development]], [[Artificial Intelligence (AI)]], [[Cloud Computing]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Planning and Implementing a Rapid Cloud Migration (RCM)]] — 4 mentions
 10. [[Azure Networking and Security for Beginners- Tools and Services]] — 4 mentions
 
-> [!note]- See all 26 courses
+> [!note]- See all 27 courses
 > 11. [[Transitioning to a Career in Cybersecurity]] — 3 mentions
 > 12. [[Cybersecurity Foundations Application Security]] — 3 mentions
 > 13. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 2 mentions
@@ -52,11 +52,12 @@ created: 2026-05-02
 > 19. [[Static Application Security Testing]] — 1 mentions
 > 20. [[Practical Cybersecurity for IT Professionals]] — 1 mentions
 > 21. [[Programming Foundations- Secure Coding (2018)]] — 1 mentions
-> 22. [[Cloud Security Architecture for the Enterprise]] — 1 mentions
-> 23. [[Kubernetes- Microservices]] — 1 mentions
-> 24. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
-> 25. [[Securing Containers and Kubernetes Ecosystem]] — 1 mentions
-> 26. [[DevOps Foundations- Your First Project]] — 1 mentions
+> 22. [[Introduction to IT Automation]] — 1 mentions
+> 23. [[Cloud Security Architecture for the Enterprise]] — 1 mentions
+> 24. [[Kubernetes- Microservices]] — 1 mentions
+> 25. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
+> 26. [[Securing Containers and Kubernetes Ecosystem]] — 1 mentions
+> 27. [[DevOps Foundations- Your First Project]] — 1 mentions
 
 ## Learning Paths
 

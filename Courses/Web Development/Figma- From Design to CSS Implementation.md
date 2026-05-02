@@ -60,38 +60,36 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing CSS from your Figma designs
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980)
+#### [Implementing CSS from your Figma designs](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980&t=0)** - Tools like Figma are great for designing and prototyping user experiences, but when it comes to translating these designs into workable code and content for the web, or other platforms, things get a bit more tricky.
+> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980&t=0)** - Tools like [[Figma (Software)|Figma]] are great for designing and [[Prototyping]] user experiences, but when it comes to translating these designs into workable code and content for the web, or other platforms, things get a bit more tricky.
 >
 > **[0:13](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980&t=13)** We'll use Figma's Inspect workspace to gather the CSS properties for visual documentation purposes before creating a CSS file to establish rules based upon the gathered properties.
 >
-> **[0:25](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980&t=25)** Finally, we'll establish an HTML file linked to the translated CSS and previously exported images, which contains markup representing our Figma design elements.
+> **[0:25](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980&t=25)** Finally, we'll establish an [[HTML]] file linked to the translated CSS and previously exported images, which contains markup representing our Figma design elements.
 >
 > **[0:37](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980&t=37)** With some additional refinements, we will produce a fully functional, responsive website landing page.
 >
 > **[0:43](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980&t=43)** I'm Joseph Labrecque.
 >
-> **[0:45](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980&t=45)** I invite you to join me in this LinkedIn Learning course.
+> **[0:45](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980&t=45)** I invite you to join me in this [[LinkedIn]] Learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), css (3), [[Prototyping]] (1), web (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Prototyping]] (1), [[HTML]] (1), [[LinkedIn]] (1)
 > **Env Vars:** css (3), html (1)
 > **Tools:** figma (3)
 > **Speakers:** - tools (1)
 
-#### Getting set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/getting-set-up?u=76281980)
+#### [Getting set up](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/getting-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/getting-set-up?u=76281980&t=0)** - [Instructor] Before we get started, here are a few things to know about preparing for this course.
 >
-> **[0:05](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/getting-set-up?u=76281980&t=5)** The exercise files are available through GitHub.
+> **[0:05](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/getting-set-up?u=76281980&t=5)** The exercise files are available through [[GitHub]].
 >
 > **[0:10](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/getting-set-up?u=76281980&t=10)** You can see them right here, and if you click on Code, you can download a ZIP of them if you don't know how to grab a repository.
 >
@@ -101,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/getting-set-up?u=76281980&t=47)** All the files will be within exercise files.
 >
-> **[0:51](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/getting-set-up?u=76281980&t=51)** And they'll include things like assets, Figma files, and sometimes even support files, which contain code that can be copied and used in your project as well.
+> **[0:51](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/getting-set-up?u=76281980&t=51)** And they'll include things like assets, [[Figma (Software)|Figma]] files, and sometimes even support files, which contain code that can be copied and used in your project as well.
 >
 > **[1:02](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/getting-set-up?u=76281980&t=62)** These support files will be called out in each movie when available.
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[GitHub]] (1), web (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[GitHub]] (1)
 > **Tools:** figma (3), github (1), visual studio (1)
 > **Exercise Files:** exercise files (2)
 > **Env Vars:** zip (1)
@@ -133,12 +131,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of the design project
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/an-overview-of-the-design-project?u=76281980)
+#### [An overview of the design project](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/an-overview-of-the-design-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/an-overview-of-the-design-project?u=76281980&t=0)** - [Instructor] Before we start exporting any content from our Figma design file for use in other environments, we'll first take a few moments to get familiar with the design we'll be working on in this course.
+> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/an-overview-of-the-design-project?u=76281980&t=0)** - [Instructor] Before we start exporting any content from our [[Figma (Software)|Figma]] design file for use in other environments, we'll first take a few moments to get familiar with the design we'll be working on in this course.
 >
 > **[0:13](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/an-overview-of-the-design-project?u=76281980&t=13)** Here I have Big Star Collectibles Gift Claim as a project open in inside of Figma.
 >
@@ -164,19 +161,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), css (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3)
 > **Tools:** figma (3)
 > **Env Vars:** css (2)
 > **Analogies:** similar to (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining image export properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-image-export-properties?u=76281980)
+#### [Defining image export properties](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-image-export-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-image-export-properties?u=76281980&t=0)** - [Instructor] Figma provides the ability to identify certain objects for exports and to define how these assets should be exported via export settings.
+> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-image-export-properties?u=76281980&t=0)** - [Instructor] [[Figma (Software)|Figma]] provides the ability to identify certain objects for exports and to define how these assets should be exported via export settings.
 >
 > **[0:10](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-image-export-properties?u=76281980&t=10)** This includes decisions around file format, size, naming, and more.
 >
@@ -238,7 +234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), css (1), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3)
 > **Env Vars:** svg (4), png (3), css (1), pdf (1)
 > **Tools:** figma (3)
 > **Prerequisites:** set up (2)
@@ -246,8 +242,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exporting and organizing images
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/exporting-and-organizing-images?u=76281980)
+#### [Exporting and organizing images](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/exporting-and-organizing-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,7 +272,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/exporting-and-organizing-images?u=76281980&t=101)** Let's go ahead and hit save.
 >
-> **[1:44](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/exporting-and-organizing-images?u=76281980&t=104)** All right, we don't get any indicator from Figma that the export has happened, but of course we can check our local file system.
+> **[1:44](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/exporting-and-organizing-images?u=76281980&t=104)** All right, we don't get any indicator from [[Figma (Software)|Figma]] that the export has happened, but of course we can check our local file system.
 >
 > **[1:54](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/exporting-and-organizing-images?u=76281980&t=114)** So here is our exported Figma file, but we also have our SVG file, logo mark, big star white, and also our PNG file for the offer.
 >
@@ -295,7 +290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), css (2), hit (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4)
 > **Env Vars:** svg (3), css (2), png (2)
 > **Tools:** figma (4)
 > **CLI Commands:** make (1)
@@ -309,8 +304,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Inspect workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980)
+#### [Using the Inspect workspace](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -324,7 +318,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980&t=52)** If we choose copy as CSS, it's going to copy the CSS into our clipboard which we can then paste in another document.
 >
-> **[1:04](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980&t=64)** Figma also has an inspect workspace.
+> **[1:04](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980&t=64)** [[Figma (Software)|Figma]] also has an inspect workspace.
 >
 > **[1:08](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980&t=68)** So we've been working in design.
 >
@@ -358,7 +352,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980&t=172)** So a lot of these properties up top here are replicated as CSS rules.
 >
-> **[2:58](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980&t=178)** Note that if you are doing development for alternative platforms like Apple's iOS, or Google's Android, you can actually get the boilerplate code for those platforms as well.
+> **[2:58](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980&t=178)** Note that if you are doing development for alternative platforms like Apple's iOS, or [[Google]]'s [[Android]], you can actually get the boilerplate code for those platforms as well.
 >
 > **[3:16](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980&t=196)** But in this course we're going to examine CSS, so I'm going to keep it at CSS.
 >
@@ -366,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (13), [[Figma (Software)|Figma]] (1), [[Google]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Google]] (1), [[Android]] (1)
 > **Env Vars:** css (13), svg (1), png (1), rgb (1), rgba (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** similar to (2)
@@ -375,18 +369,17 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Exercise Files:** boilerplate (1)
 
-#### Documenting the project CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980)
+#### [Documenting the project CSS](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=0)** - [Instructor] Before creating the actual CSS and HTML files for the translation from Figma, it's good practice to document the necessary project elements, establishing identifiers in consideration of the visual elements upon which they're derived.
+> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=0)** - [Instructor] Before creating the actual CSS and [[HTML]] files for the translation from [[Figma (Software)|Figma]], it's good practice to document the necessary project elements, establishing identifiers in consideration of the visual elements upon which they're derived.
 >
 > **[0:17](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=17)** We'll do this with our Figma design file, creating a visual design document for all steps moving forward.
 >
 > **[0:24](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=24)** The first thing we need to do is create a new frame to hold all of this.
 >
-> **[0:29](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=29)** So I'm going to zoom out and use our frame tool to drag out a new frame right here.
+> **[0:29](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=29)** So I'm going to [[Zoom]] out and use our frame tool to drag out a new frame right here.
 >
 > **[0:40](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=40)** With that frame selected, let's go ahead and rename it to Design Document.
 >
@@ -406,7 +399,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=116)** Once again, inside of the design workspace, we'll change our text properties.
 >
-> **[2:03](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=123)** Ubuntu is fine for this text.
+> **[2:03](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=123)** [[Ubuntu]] is fine for this text.
 >
 > **[2:06](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/documenting-the-project-css?u=76281980&t=126)** Bold is good.
 >
@@ -434,7 +427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), next (2), css (1), [[HTML]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[HTML]] (1), [[Zoom]] (1), [[Ubuntu]] (1)
 > **Env Vars:** css (1), html (1)
 > **Tools:** figma (2)
 > **CLI Commands:** make (1)
@@ -443,8 +436,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Prerequisites:** setup (1)
 
-#### Populating the design document
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/populating-the-design-document?u=76281980)
+#### [Populating the design document](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/populating-the-design-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,7 +456,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/populating-the-design-document?u=76281980&t=55)** Just paste in Topnav.
 >
-> **[0:58](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/populating-the-design-document?u=76281980&t=58)** Since we're dealing with CSS, we're going to want to create a matching CSS rule, identifying a div inside of our HTML that will give an idea of Topnav.
+> **[0:58](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/populating-the-design-document?u=76281980&t=58)** Since we're dealing with CSS, we're going to want to create a matching CSS rule, identifying a div inside of our [[HTML]] that will give an idea of Topnav.
 >
 > **[1:11](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/populating-the-design-document?u=76281980&t=71)** There's our first rule set up.
 >
@@ -480,7 +472,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/populating-the-design-document?u=76281980&t=103)** We'll name this nav-logomark.
 >
-> **[1:49](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/populating-the-design-document?u=76281980&t=109)** I've included a text file named IDs.txt that you can copy and paste the rest of these identifiers from if you don't want to go through this process too long.
+> **[1:49](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/populating-the-design-document?u=76281980&t=109)** I've included a text file named IDs.txt that you can copy and paste the [[Representational State Transfer (REST)|rest]] of these identifiers from if you don't want to go through this process too long.
 >
 > **[2:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/populating-the-design-document?u=76281980&t=120)** I'm going to paste in the rest from that document.
 >
@@ -548,7 +540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), next (4), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
 > **Env Vars:** css (9), png (2), html (1)
 > **CLI Commands:** make (2)
 > **File Paths:** ids.txt (1)
@@ -557,8 +549,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining a CSS document
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-a-css-document?u=76281980)
+#### [Defining a CSS document](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-a-css-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-a-css-document?u=76281980&t=11)** I'll be using Visual Studio Code as my editor, but you can use any web code editor you like.
 >
-> **[0:18](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-a-css-document?u=76281980&t=18)** So let's shift from Figma over to Visual Studio Code.
+> **[0:18](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-a-css-document?u=76281980&t=18)** So let's shift from [[Figma (Software)|Figma]] over to Visual Studio Code.
 >
 > **[0:25](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-a-css-document?u=76281980&t=25)** There we are.
 >
@@ -626,11 +617,11 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-a-css-document?u=76281980&t=268)** There we have it.
 >
-> **[4:30](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-a-css-document?u=76281980&t=270)** Now that we have our actual CSS rules established in a real CSS file, these can be applied to an HTML document.
+> **[4:30](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/defining-a-css-document?u=76281980&t=270)** Now that we have our actual CSS rules established in a real CSS file, these can be applied to an [[HTML]] document.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (15), [[Figma (Software)|Figma]] (4), web (1), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[HTML]] (1)
 > **Env Vars:** css (12), html (1)
 > **Tools:** figma (4), visual studio (2)
 > **File Paths:** star.css (3), ids.txt (1)
@@ -644,16 +635,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an HTML document
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980)
+#### [Creating an HTML document](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=0)** - [Instructor] We now have everything we need from the Figma design document translated into an immediately usable form.
+> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=0)** - [Instructor] We now have everything we need from the [[Figma (Software)|Figma]] design document translated into an immediately usable form.
 >
 > **[0:07](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=7)** We have a set of organized image assets and a CSS file, which includes the raw rules derived from Figma.
 >
-> **[0:16](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=16)** We'll now establish a simple HTML file and link our CSS document to it.
+> **[0:16](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=16)** We'll now establish a simple [[HTML]] file and link our CSS document to it.
 >
 > **[0:22](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=22)** So inside of Visual Studio Code, let's go ahead and create a new file.
 >
@@ -673,15 +663,15 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=79)** So inside of our head we have the character set assigned to UTF8.
 >
-> **[1:25](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=85)** We have a title for Big Star Collectibles, some viewport settings, and description metadata content.
+> **[1:25](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=85)** We have a title for Big Star Collectibles, some viewport settings, and description [[Metadata]] content.
 >
 > **[1:35](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=95)** Next, we'll need to link our CSS file to this HTML file, and also include references to the fonts we want to use.
 >
-> **[1:45](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=105)** If you recall from Figma, we are using Ubuntu.
+> **[1:45](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=105)** If you recall from Figma, we are using [[Ubuntu]].
 >
 > **[1:50](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=110)** So let's go back to our text file here.
 >
-> **[1:53](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=113)** And if you scroll down, you can see that we have font inclusion from Google.
+> **[1:53](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=113)** And if you scroll down, you can see that we have font inclusion from [[Google]].
 >
 > **[1:57](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980&t=117)** So I've already prepared this from Google Fonts.
 >
@@ -701,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (10), css (7), [[Figma (Software)|Figma]] (4), [[Google]] (3), [[Ubuntu]] (2)
+> **Frameworks & Libraries:** [[HTML]] (10), [[Figma (Software)|Figma]] (4), [[Google]] (3), [[Ubuntu]] (2), [[Metadata]] (1)
 > **Env Vars:** html (7), css (5), utf8 (1), api (1)
 > **File Paths:** index.html (3), star.css (2), 0301_code.txt (1)
 > **Tools:** figma (4), visual studio (1)
@@ -710,12 +700,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replacing Figma elements for CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/replacing-figma-elements-for-css?u=76281980)
+#### [Replacing Figma elements for CSS](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/replacing-figma-elements-for-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/replacing-figma-elements-for-css?u=76281980&t=0)** - [Instructor] With our CSS and HTML files linked together, we must now ensure that the CSS rules we have created have matching elements within the HTML document so they can be applied in order to fulfill our design.
+> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/replacing-figma-elements-for-css?u=76281980&t=0)** - [Instructor] With our CSS and [[HTML]] files linked together, we must now ensure that the CSS rules we have created have matching elements within the HTML document so they can be applied in order to fulfill our design.
 >
 > **[0:16](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/replacing-figma-elements-for-css?u=76281980&t=16)** We're going to be working in inside of the body of our CSS file.
 >
@@ -793,7 +782,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/replacing-figma-elements-for-css?u=76281980&t=292)** The text itself is a little more lengthy.
 >
-> **[4:54](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/replacing-figma-elements-for-css?u=76281980&t=294)** We can always grab it from here inside of the text file I've provided to make it a little easier to work with, but we can grab this from our Figma file as well.
+> **[4:54](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/replacing-figma-elements-for-css?u=76281980&t=294)** We can always grab it from here inside of the text file I've provided to make it a little easier to work with, but we can grab this from our [[Figma (Software)|Figma]] file as well.
 >
 > **[5:10](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/replacing-figma-elements-for-css?u=76281980&t=310)** Notice we have a little line break right there little BR element.
 >
@@ -823,7 +812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (6), [[Figma (Software)|Figma]] (4), web (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Figma (Software)|Figma]] (4)
 > **Env Vars:** css (8), html (5), img (1)
 > **Tools:** figma (4)
 > **File Paths:** 0302_code.txt (1), index.html (1)
@@ -832,12 +821,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 
-#### Refining the design from Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/refining-the-design-from-figma?u=76281980)
+#### [Refining the design from Figma](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/refining-the-design-from-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/refining-the-design-from-figma?u=76281980&t=0)** - [Instructor] We will now complete the implementation from Figma to CSS by modifying the CSS rules in such a way that the final design remains true to what was visualized within Figma while also providing a responsive experience to the user.
+> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/refining-the-design-from-figma?u=76281980&t=0)** - [Instructor] We will now complete the implementation from [[Figma (Software)|Figma]] to CSS by modifying the CSS rules in such a way that the final design remains true to what was visualized within Figma while also providing a responsive experience to the user.
 >
 > **[0:18](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/refining-the-design-from-figma?u=76281980&t=18)** As we can see, as things currently are with just the raw direct content from Figma, things are not very responsive, and also the spacing's a little weird here and there, nothing resizes, and the star still needs to be implemented.
 >
@@ -997,7 +985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), [[Figma (Software)|Figma]] (5), next (1), data (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5)
 > **Env Vars:** css (7), svg (1)
 > **Tools:** figma (5), visual studio (1)
 > **Analogies:** similar to (1), such as (1)
@@ -1010,12 +998,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/what-s-next?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/what-s-next?u=76281980&t=0)** - [Joseph] With the course now concluded, you have a good idea of the workflow involved when translating a design file in Figma to the web via CSS and HTML.
+> **[0:00](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/what-s-next?u=76281980&t=0)** - [Joseph] With the course now concluded, you have a good idea of the workflow involved when translating a design file in [[Figma (Software)|Figma]] to the web via CSS and [[HTML]].
 >
 > **[0:11](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/what-s-next?u=76281980&t=11)** We first exported any image assets that we would need from our design documents into files.
 >
@@ -1033,7 +1020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[Figma (Software)|Figma]] (4), [[HTML]] (2), web (1), functional (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[HTML]] (2)
 > **Env Vars:** css (6), html (2)
 > **Tools:** figma (4)
 > **Speakers:** - [joseph] (1)

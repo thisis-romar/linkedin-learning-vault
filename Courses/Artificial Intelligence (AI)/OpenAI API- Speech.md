@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Voice models and the AI revolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/voice-models-and-the-ai-revolution?u=76281980)
+#### [Voice models and the AI revolution](https://www.linkedin.com/learning/openai-api-speech/voice-models-and-the-ai-revolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,18 +93,17 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/openai-api-speech/voice-models-and-the-ai-revolution?u=76281980&t=12)** I'm Ronnie Sheer.
 >
-> **[0:14](https://www.linkedin.com/learning/openai-api-speech/voice-models-and-the-ai-revolution?u=76281980&t=14)** I'm a software engineer with over a decade of experience working for companies that lean heavily on artificial intelligence.
+> **[0:14](https://www.linkedin.com/learning/openai-api-speech/voice-models-and-the-ai-revolution?u=76281980&t=14)** I'm a software engineer with over a decade of experience working for companies that lean heavily on [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:21](https://www.linkedin.com/learning/openai-api-speech/voice-models-and-the-ai-revolution?u=76281980&t=21)** If you want to leverage some of the most advanced text-to-speech and speech-to-text out there in your applications, this is the course for you, so let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), api (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - [ai (1), - and (1)
 > **Env Vars:** api (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/openai-api-speech/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/openai-api-speech/what-you-should-know?u=76281980&t=15)** Now, if you're not quite there yet, as far as these prerequisites go, there are some courses in the library that can help out.
 >
-> **[0:23](https://www.linkedin.com/learning/openai-api-speech/what-you-should-know?u=76281980&t=23)** For a quick start or a refresher, there's my course, Nano Tips to Jump Start Your Coding in Python.
+> **[0:23](https://www.linkedin.com/learning/openai-api-speech/what-you-should-know?u=76281980&t=23)** For a quick start or a refresher, there's my course, Nano Tips to Jump Start Your Coding in [[Python (Programming Language)|Python]].
 >
 > **[0:30](https://www.linkedin.com/learning/openai-api-speech/what-you-should-know?u=76281980&t=30)** For a more in-depth course, there is [[Python Essential Training]] with Ryan Mitchell.
 >
@@ -123,17 +121,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Tools:** command line (1)
 > **Speakers:** - [ronnie] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/openai-api-speech/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-speech/using-the-exercise-files?u=76281980&t=0)** - [Instructor] Our course exercise files are available for you to download on this GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/openai-api-speech/using-the-exercise-files?u=76281980&t=0)** - [Instructor] Our course exercise files are available for you to download on this [[GitHub]] repository.
 >
 > **[0:07](https://www.linkedin.com/learning/openai-api-speech/using-the-exercise-files?u=76281980&t=7)** Once you have downloaded the files, you'll use the main branch for the course's work.
 >
@@ -146,8 +143,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Responsible usage of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/responsible-usage-of-ai?u=76281980)
+#### [Responsible usage of AI](https://www.linkedin.com/learning/openai-api-speech/responsible-usage-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,7 +159,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), power (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
@@ -172,8 +167,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Text-to-speech overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/text-to-speech-overview?u=76281980)
+#### [Text-to-speech overview](https://www.linkedin.com/learning/openai-api-speech/text-to-speech-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/openai-api-speech/text-to-speech-overview?u=76281980&t=31)** Well, accessibility software will often rely on speech synthesis to read out loud things to blind people or people that have a hard time reading.
 >
-> **[0:44](https://www.linkedin.com/learning/openai-api-speech/text-to-speech-overview?u=76281980&t=44)** Then there are virtual assistants such as Alexa, Siri, or Google Assistant that you speak to, and once a command is processed, you get feedback.
+> **[0:44](https://www.linkedin.com/learning/openai-api-speech/text-to-speech-overview?u=76281980&t=44)** Then there are virtual assistants such as Alexa, Siri, or [[Google]] Assistant that you speak to, and once a command is processed, you get feedback.
 >
 > **[0:57](https://www.linkedin.com/learning/openai-api-speech/text-to-speech-overview?u=76281980&t=57)** That feedback uses speech synthesis.
 >
@@ -206,8 +200,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up OpenAI library
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/setting-up-openai-library?u=76281980)
+#### [Setting up OpenAI library](https://www.linkedin.com/learning/openai-api-speech/setting-up-openai-library?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +244,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/openai-api-speech/setting-up-openai-library?u=76281980&t=145)** Clear.
 >
-> **[2:27](https://www.linkedin.com/learning/openai-api-speech/setting-up-openai-library?u=76281980&t=147)** Now, the next thing we're going to do is install some Python packages.
+> **[2:27](https://www.linkedin.com/learning/openai-api-speech/setting-up-openai-library?u=76281980&t=147)** Now, the next thing we're going to do is install some [[Python (Programming Language)|Python]] packages.
 >
 > **[2:31](https://www.linkedin.com/learning/openai-api-speech/setting-up-openai-library?u=76281980&t=151)** So you can do this in a container or in a virtual environment.
 >
@@ -269,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), product (3), [[Python (Programming Language)|Python]] (3), hit (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), python3 (2), pip (2), find (1), make (1)
 > **Env Vars:** api (5), openai_api_key (2)
 > **Tools:** terminal (3)
@@ -278,8 +271,7 @@ created: 2026-05-02
 > **URLs:** [openai.com](https://openai.com) (1), [python.org](https://python.org) (1)
 > **Warnings:** keep in mind (2)
 
-#### Test ride with the text-to-speech API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/test-ride-with-the-text-to-speech-api?u=76281980)
+#### [Test ride with the text-to-speech API](https://www.linkedin.com/learning/openai-api-speech/test-ride-with-the-text-to-speech-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,7 +291,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/openai-api-speech/test-ride-with-the-text-to-speech-api?u=76281980&t=50)** And I'll go ahead and copy them and bring them over to my code editor I'm using VS Code.
 >
-> **[0:58](https://www.linkedin.com/learning/openai-api-speech/test-ride-with-the-text-to-speech-api?u=76281980&t=58)** Now in our exercise files under 01_03_begin, I've created a Python file called test_tts, text to speech, .py, and it's empty right now and I'll just paste that code snippet into it.
+> **[0:58](https://www.linkedin.com/learning/openai-api-speech/test-ride-with-the-text-to-speech-api?u=76281980&t=58)** Now in our exercise files under 01_03_begin, I've created a [[Python (Programming Language)|Python]] file called test_tts, text to speech, .py, and it's empty right now and I'll just paste that code snippet into it.
 >
 > **[1:17](https://www.linkedin.com/learning/openai-api-speech/test-ride-with-the-text-to-speech-api?u=76281980&t=77)** Now, before we run this code, let's have a look at what it does.
 >
@@ -353,7 +345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), api (2), [[Python (Programming Language)|Python]] (1), cd (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (7), vs code (1), visual studio (1)
 > **Env Vars:** api (2), ide (2), mp3 (2)
 > **Speakers:** - [instructor] (3), - [narrator] (2)
@@ -362,8 +354,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), navigate to (1)
 > **Definitions:** is a  (2)
 
-#### What we will build
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/what-we-will-build-20254027?u=76281980)
+#### [What we will build](https://www.linkedin.com/learning/openai-api-speech/what-we-will-build-20254027?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,12 +368,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), api (1)
 > **Speakers:** - [instructor] (2), - [web (1)
 > **Env Vars:** api (1)
 
-#### Project structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/project-structure?u=76281980)
+#### [Project structure](https://www.linkedin.com/learning/openai-api-speech/project-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,9 +379,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/openai-api-speech/project-structure?u=76281980&t=6)** I'm going to go ahead and navigate to 01_05_Begin in my exercise files and here there is an app.py file as well as a templates directory.
 >
-> **[0:18](https://www.linkedin.com/learning/openai-api-speech/project-structure?u=76281980&t=18)** In this templates directory, there's an index, that HTML file, and it really contains the entire front end of this application.
+> **[0:18](https://www.linkedin.com/learning/openai-api-speech/project-structure?u=76281980&t=18)** In this templates directory, there's an index, that [[HTML]] file, and it really contains the entire front end of this application.
 >
-> **[0:28](https://www.linkedin.com/learning/openai-api-speech/project-structure?u=76281980&t=28)** Now, I purposely chose to use plain JavaScript without any framework and chose to keep all of this in one file.
+> **[0:28](https://www.linkedin.com/learning/openai-api-speech/project-structure?u=76281980&t=28)** Now, I purposely chose to use plain [[JavaScript]] without any framework and chose to keep all of this in one file.
 >
 > **[0:37](https://www.linkedin.com/learning/openai-api-speech/project-structure?u=76281980&t=37)** And I'm doing this to narrow the scope of what we're doing in the course and to focus on the API itself.
 >
@@ -412,7 +401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), application (2), [[JavaScript]] (1), api (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **File Paths:** app.py (3), index.html (1)
 > **Env Vars:** html (1), api (1)
 > **UI Navigation:** navigate to (1), go to (1)
@@ -421,8 +410,7 @@ created: 2026-05-02
 > **Code Identifiers:** render_template (1)
 > **Tools:** terminal (1)
 
-#### Creating a TTS endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/creating-a-tts-endpoint?u=76281980)
+#### [Creating a TTS endpoint](https://www.linkedin.com/learning/openai-api-speech/creating-a-tts-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,7 +434,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/openai-api-speech/creating-a-tts-endpoint?u=76281980&t=77)** And if it's empty, we'll just give it an empty string.
 >
-> **[1:22](https://www.linkedin.com/learning/openai-api-speech/creating-a-tts-endpoint?u=76281980&t=82)** Now we'll tap into the OpenAI API.
+> **[1:22](https://www.linkedin.com/learning/openai-api-speech/creating-a-tts-endpoint?u=76281980&t=82)** Now we'll tap into the [[OpenAI API]].
 >
 > **[1:26](https://www.linkedin.com/learning/openai-api-speech/creating-a-tts-endpoint?u=76281980&t=86)** So we'll say that our response is client.audio.speech.create
 >
@@ -484,7 +472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), data (2), next (1), [[OpenAI API]] (1), feature (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1)
 > **Speakers:** - [instructor] (2), - [text (1)
 > **File Paths:** app.py (2)
 > **Code Identifiers:** get_json (1), send_file (1)
@@ -493,8 +481,7 @@ created: 2026-05-02
 > **CLI Commands:** python3 (1)
 > **Exercise Files:** exercise files (1)
 
-#### Challenge: Voice selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/challenge-voice-selection?u=76281980)
+#### [Challenge: Voice selection](https://www.linkedin.com/learning/openai-api-speech/challenge-voice-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -502,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/openai-api-speech/challenge-voice-selection?u=76281980&t=7)** Well, the goal of this one is to add voice selection to the text-to-speech endpoint.
 >
-> **[0:14](https://www.linkedin.com/learning/openai-api-speech/challenge-voice-selection?u=76281980&t=14)** Now let's head over to our exercise files to 01_07, and let's have a look at templates, index.html.
+> **[0:14](https://www.linkedin.com/learning/openai-api-speech/challenge-voice-selection?u=76281980&t=14)** Now let's head over to our exercise files to 01_07, and let's have a look at templates, index.[[HTML]].
 >
 > **[0:25](https://www.linkedin.com/learning/openai-api-speech/challenge-voice-selection?u=76281980&t=25)** And you'll see that I've added a select input to our form.
 >
@@ -540,7 +527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Speakers:** - [instructor] (4), - [alloy] (2), - [onyx] (1)
 > **File Paths:** app.py (3), index.html (2)
 > **CLI Commands:** python3 (1), make (1)
@@ -549,18 +536,17 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 
-#### Solution: Voice selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/solution-voice-selection?u=76281980)
+#### [Solution: Voice selection](https://www.linkedin.com/learning/openai-api-speech/solution-voice-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-speech/solution-voice-selection?u=76281980&t=0)** - [Instructor] The goal of this challenge was to add voice selection to our text-to-speech endpoint.
 >
-> **[0:13](https://www.linkedin.com/learning/openai-api-speech/solution-voice-selection?u=76281980&t=13)** Now let's head over to our exercise files and check out index.html in the templates folder.
+> **[0:13](https://www.linkedin.com/learning/openai-api-speech/solution-voice-selection?u=76281980&t=13)** Now let's head over to our exercise files and check out index.[[HTML]] in the templates folder.
 >
-> **[0:21](https://www.linkedin.com/learning/openai-api-speech/solution-voice-selection?u=76281980&t=21)** Now you'll see that here I grab the voice selection from the HTML element and I place it in the JSON that I'll be sending to my server.
+> **[0:21](https://www.linkedin.com/learning/openai-api-speech/solution-voice-selection?u=76281980&t=21)** Now you'll see that here I grab the voice selection from the HTML element and I place it in the [[JSON]] that I'll be sending to my server.
 >
-> **[0:33](https://www.linkedin.com/learning/openai-api-speech/solution-voice-selection?u=76281980&t=33)** So in order to give this to the OpenAI API, I'm going to change voice here from alloy to data.get.
+> **[0:33](https://www.linkedin.com/learning/openai-api-speech/solution-voice-selection?u=76281980&t=33)** So in order to give this to the [[OpenAI API]], I'm going to change voice here from alloy to data.get.
 >
 > **[0:45](https://www.linkedin.com/learning/openai-api-speech/solution-voice-selection?u=76281980&t=45)** And I'll say either voice, but if there is no selection or nothing was passed, I'll say alloy.
 >
@@ -582,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[OpenAI API]] (2), [[JSON]] (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[OpenAI API]] (2), [[JSON]] (1)
 > **Speakers:** - [instructor] (4), - [alloy] (1), - [onyx] (1), - [echo] (1)
 > **Env Vars:** api (2), html (1), json (1)
 > **Definitions:** is a  (4)
@@ -596,8 +582,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Speech-to-text overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/speech-to-text-overview?u=76281980)
+#### [Speech-to-text overview](https://www.linkedin.com/learning/openai-api-speech/speech-to-text-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,8 +604,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Testing the speech-to-text API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/testing-the-speech-to-text-api?u=76281980)
+#### [Testing the speech-to-text API](https://www.linkedin.com/learning/openai-api-speech/testing-the-speech-to-text-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,7 +622,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/openai-api-speech/testing-the-speech-to-text-api?u=76281980&t=61)** Next, there is this opening of a file.
 >
-> **[1:05](https://www.linkedin.com/learning/openai-api-speech/testing-the-speech-to-text-api?u=76281980&t=65)** Now, the way I prefer to open files in Python is using with.
+> **[1:05](https://www.linkedin.com/learning/openai-api-speech/testing-the-speech-to-text-api?u=76281980&t=65)** Now, the way I prefer to open files in [[Python (Programming Language)|Python]] is using with.
 >
 > **[1:11](https://www.linkedin.com/learning/openai-api-speech/testing-the-speech-to-text-api?u=76281980&t=71)** That's going to create a context manager.
 >
@@ -672,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), application (2), next (1), [[Python (Programming Language)|Python]] (1), cd (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1), cd (1), python3 (1)
 > **Code Identifiers:** test_stt (2), audio_file (1)
 > **Env Vars:** api (2), ide (1)
@@ -681,8 +665,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (2), - [audio (1)
 > **File Paths:** test_stt.py (2)
 
-#### What we will build
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/what-we-will-build?u=76281980)
+#### [What we will build](https://www.linkedin.com/learning/openai-api-speech/what-we-will-build?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,22 +679,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), api (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/project-structure-20248911?u=76281980)
+#### [Project structure](https://www.linkedin.com/learning/openai-api-speech/project-structure-20248911?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-speech/project-structure-20248911?u=76281980&t=0)** - [Instructor] This application structure is going to be very similar to the text-to-speech application that we've built.
 >
-> **[0:07](https://www.linkedin.com/learning/openai-api-speech/project-structure-20248911?u=76281980&t=7)** So if you navigate to 02_04 in your exercise files and check out the templates directory, there's also an index.html.
+> **[0:07](https://www.linkedin.com/learning/openai-api-speech/project-structure-20248911?u=76281980&t=7)** So if you navigate to 02_04 in your exercise files and check out the templates directory, there's also an index.[[HTML]].
 >
 > **[0:17](https://www.linkedin.com/learning/openai-api-speech/project-structure-20248911?u=76281980&t=17)** This one is slightly different.
 >
-> **[0:19](https://www.linkedin.com/learning/openai-api-speech/project-structure-20248911?u=76281980&t=19)** It is pure JavaScript, but there's some logic around recording and sending audio.
+> **[0:19](https://www.linkedin.com/learning/openai-api-speech/project-structure-20248911?u=76281980&t=19)** It is pure [[JavaScript]], but there's some logic around recording and sending audio.
 >
 > **[0:26](https://www.linkedin.com/learning/openai-api-speech/project-structure-20248911?u=76281980&t=26)** Next, if we head over to app.py, there is a base route right here, the index route, that is almost identical if not identical.
 >
@@ -727,7 +708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[HTML]] (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1)
 > **File Paths:** index.html (1), app.py (1)
 > **Env Vars:** tts (1)
 > **UI Navigation:** navigate to (1)
@@ -735,8 +716,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the API in an app
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/using-the-api-in-an-app?u=76281980)
+#### [Using the API in an app](https://www.linkedin.com/learning/openai-api-speech/using-the-api-in-an-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -776,7 +756,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), next (1), web application (1)
 > **Code Identifiers:** file_like (5)
 > **Env Vars:** api (3)
 > **File Paths:** app.py (2)
@@ -790,8 +769,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -801,13 +779,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=5)** Now, moving forward, here are a few courses I can recommend to keep the learning going.
 >
-> **[0:10](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=10)** If you want to further explore the OpenAI API, there's my course, OpenAI API Vision, where we look at the neat computer vision capabilities of this API.
+> **[0:10](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=10)** If you want to further explore the [[OpenAI API]], there's my course, OpenAI API Vision, where we look at the neat [[Computer Vision]] capabilities of this API.
 >
-> **[0:22](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=22)** Then there's my course, [[Introduction To Prompt Engineering For Generative Ai]], where we look at the broad landscape of Gen AI tools, and unique prompt engineering techniques.
+> **[0:22](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=22)** Then there's my course, [[Introduction To [[Prompt Engineering]] For [[Generative AI]]]], where we look at the broad landscape of Gen AI tools, and unique prompt engineering techniques.
 >
-> **[0:35](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=35)** Finally, there's Training a Neural Network in Python with Eduardo Corpeno.
+> **[0:35](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=35)** Finally, there's Training a Neural Network in [[Python (Programming Language)|Python]] with Eduardo Corpeno.
 >
-> **[0:41](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=41)** This is a great course to deepen your understanding of machine learning and deep learning in particular.
+> **[0:41](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=41)** This is a great course to deepen your understanding of machine learning and [[Deep Learning]] in particular.
 >
 > **[0:47](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980&t=47)** Thanks again.
 >
@@ -815,7 +793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OpenAI API]] (2), [[Prompt Engineering]] (2), [[Computer Vision]] (1), api (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (2), [[Prompt Engineering]] (2), [[Computer Vision]] (1), [[Generative AI]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the next (1)

@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of market research
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/the-power-of-market-research?u=76281980)
+#### [The power of market research](https://www.linkedin.com/learning/market-research-foundations/the-power-of-market-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,22 +96,21 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/market-research-foundations/the-power-of-market-research?u=76281980&t=42)** I'm Sarah Weise, market researcher and author of "InstaBrain."
 >
-> **[0:46](https://www.linkedin.com/learning/market-research-foundations/the-power-of-market-research?u=76281980&t=46)** join me on LinkedIn Learning to unlock deep insights about your customers and start making clear, strategic decisions about the future of your product or brand.
+> **[0:46](https://www.linkedin.com/learning/market-research-foundations/the-power-of-market-research?u=76281980&t=46)** join me on [[LinkedIn]] Learning to unlock deep insights about your customers and start making clear, strategic decisions about the future of your product or brand.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), product (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - what (1)
 
-#### Primary and secondary research
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/primary-and-secondary-research?u=76281980)
+#### [Primary and secondary research](https://www.linkedin.com/learning/market-research-foundations/primary-and-secondary-research?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/market-research-foundations/primary-and-secondary-research?u=76281980&t=1)** - Market research is one of the most crucial aspects of running a successful business.
+> **[0:01](https://www.linkedin.com/learning/market-research-foundations/primary-and-secondary-research?u=76281980&t=1)** - [[Market Research]] is one of the most crucial aspects of running a successful business.
 >
 > **[0:05](https://www.linkedin.com/learning/market-research-foundations/primary-and-secondary-research?u=76281980&t=5)** You know that or you wouldn't be watching this right now.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/market-research-foundations/primary-and-secondary-research?u=76281980&t=75)** That way when you do your primary research and talk directly to your customers, you can focus on asking targeted questions.
 >
-> **[1:23](https://www.linkedin.com/learning/market-research-foundations/primary-and-secondary-research?u=76281980&t=83)** Secondary research is often available for free from government organizations, like the Bureau of Labor Statistics, or you can buy reports from large research organizations.
+> **[1:23](https://www.linkedin.com/learning/market-research-foundations/primary-and-secondary-research?u=76281980&t=83)** Secondary research is often available for free from government organizations, like the Bureau of Labor [[Statistics]], or you can buy reports from large research organizations.
 >
 > **[1:32](https://www.linkedin.com/learning/market-research-foundations/primary-and-secondary-research?u=76281980&t=92)** Both of these tools can help you learn about your industry, market and your customers.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (3), business (2), product (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Market Research]] (3), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** getting started (1)
@@ -157,12 +155,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Focus groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980)
+#### [Focus groups](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980&t=1)** - Last week, someone came up to me at a party and said, "Oh, you're in market research.
+> **[0:01](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980&t=1)** - Last week, someone came up to me at a party and said, "Oh, you're in [[Market Research]].
 >
 > **[0:05](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980&t=5)** "One time I got paid to try a bunch of candy flavors "and tell a company what I thought."
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980&t=90)** A round of behavioral research next can help you hone your personas even more.
 >
-> **[1:35](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980&t=95)** The third reason to consider a focus group is if you want to know how the public will react to a new product or situation.
+> **[1:35](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980&t=95)** The third reason to consider a focus group is if you want to know how the public will [[React.js|react]] to a new product or situation.
 >
 > **[1:43](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980&t=103)** Hearing people discuss their reactions and bounce ideas off each other helps to gauge what emotions a new product or situation might bring up.
 >
@@ -210,13 +207,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (3), next (2), product (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Market Research]] (3), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - last (1)
 
-#### User interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/user-interviews?u=76281980)
+#### [User interviews](https://www.linkedin.com/learning/market-research-foundations/user-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/market-research-foundations/user-interviews?u=76281980&t=141)** Your participant will naturally want to fill that awkward silence and hopefully it will be something beautifully insightful.
 >
-> **[2:29](https://www.linkedin.com/learning/market-research-foundations/user-interviews?u=76281980&t=149)** Next, avoid the use of the word why in your questions.
+> **[2:29](https://www.linkedin.com/learning/market-research-foundations/user-interviews?u=76281980&t=149)** Next, avoid the use of the [[Microsoft Word|word]] why in your questions.
 >
 > **[2:33](https://www.linkedin.com/learning/market-research-foundations/user-interviews?u=76281980&t=153)** It tends to come across as attacking and participants get defensive.
 >
@@ -308,14 +304,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (1), product (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - the (1)
 
-#### Image-based interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/image-based-interviews?u=76281980)
+#### [Image-based interviews](https://www.linkedin.com/learning/market-research-foundations/image-based-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -381,17 +376,16 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/market-research-foundations/image-based-interviews?u=76281980&t=191)** It went from being just another cellphone case to a product in the personal protection industry aligned with sunblock or seat belts.
 >
-> **[3:19](https://www.linkedin.com/learning/market-research-foundations/image-based-interviews?u=76281980&t=199)** With this simple research technique, you'll be able to design, price, and position products that tap into emotions that matter, bring value to your customers, and boost your bottom line.
+> **[3:19](https://www.linkedin.com/learning/market-research-foundations/image-based-interviews?u=76281980&t=199)** With this simple research technique, you'll be able to design, price, and position [[Microsoft Products|products]] that tap into emotions that matter, bring value to your customers, and boost your bottom line.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), just like (1), picture (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - as (1)
 
-#### Ethnography
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/ethnography?u=76281980)
+#### [Ethnography](https://www.linkedin.com/learning/market-research-foundations/ethnography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -461,7 +455,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** irs (2)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** d.c (1)
@@ -470,12 +463,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - imagine (1)
 
-#### Diary studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/diary-studies?u=76281980)
+#### [Diary studies](https://www.linkedin.com/learning/market-research-foundations/diary-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/market-research-foundations/diary-studies?u=76281980&t=1)** - What if I told you there's a way to get real-time insights in the moment whenever somebody uses your product?
+> **[0:01](https://www.linkedin.com/learning/market-research-foundations/diary-studies?u=76281980&t=1)** - What if I told you there's a way to get [[Real-Time]] insights in the moment whenever somebody uses your product?
 >
 > **[0:06](https://www.linkedin.com/learning/market-research-foundations/diary-studies?u=76281980&t=6)** That'd be amazing, right?
 >
@@ -521,7 +513,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/market-research-foundations/diary-studies?u=76281980&t=85)** It was something we would have never known to ask about.
 >
-> **[1:28](https://www.linkedin.com/learning/market-research-foundations/diary-studies?u=76281980&t=88)** In another project for Google News, we asked participants to record their screens every time they checked the news over a four day period and explain what they were looking at.
+> **[1:28](https://www.linkedin.com/learning/market-research-foundations/diary-studies?u=76281980&t=88)** In another project for [[Google]] News, we asked participants to record their screens every time they checked the news over a four day period and explain what they were looking at.
 >
 > **[1:38](https://www.linkedin.com/learning/market-research-foundations/diary-studies?u=76281980&t=98)** These timestamped diary entries helped us identify the reasons that certain audiences were switching between news apps.
 >
@@ -547,18 +539,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (2), product (2), data (2), [[Google]] (1), management (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Google]] (1)
 > **CLI Commands:** make (3), snap (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - what (1)
 
-#### Usability testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980)
+#### [Usability testing](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=1)** - In their first year, [Amazon.com](https://Amazon.com) invested 100 times more in usability testing than they did in marketing, and according to Jeff Bezos, this was the strategy that led to Amazon's success.
+> **[0:01](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=1)** - In their first year, [Amazon.com](https://Amazon.com) invested 100 times more in [[Usability Testing]] than they did in marketing, and according to Jeff Bezos, this was the strategy that led to Amazon's success.
 >
 > **[0:13](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=13)** Usability testing is a type of research that's done when we already have a website, app, or prototype, and we want to see how our audiences might use it.
 >
@@ -582,7 +573,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=81)** In these cases, use scenarios.
 >
-> **[1:24](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=84)** For example, a scenario when testing an e-commerce app might be, show me how you would add this to your cart, or, walk me through how you would start a return.
+> **[1:24](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=84)** For example, a scenario when testing an [[E-Commerce]] app might be, show me how you would add this to your cart, or, walk me through how you would start a return.
 >
 > **[1:34](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=94)** The second decision you'll have to make is if you want a moderator, someone to be there live to lead the session.
 >
@@ -596,7 +587,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=123)** There are a number of third-party tools that can help you set up an unmoderated test, where participants record their screens and speak out loud as they respond to written scenarios.
 >
-> **[2:14](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=134)** While you won't be able to ask question in real-time, you might actually get more realistic feedback because the participant is acting on their own rather than trying to please a facilitator.
+> **[2:14](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=134)** While you won't be able to ask question in [[Real-Time]], you might actually get more realistic feedback because the participant is acting on their own rather than trying to please a facilitator.
 >
 > **[2:26](https://www.linkedin.com/learning/market-research-foundations/usability-testing?u=76281980&t=146)** Finally, you'll need to decide whether to conduct your session in-person or remotely.
 >
@@ -614,7 +605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Usability Testing]] (6), [[E-Commerce]] (1), [[Real-Time]] (1), product (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (6), [[E-Commerce]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -627,8 +618,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Surveys
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/surveys-2?u=76281980)
+#### [Surveys](https://www.linkedin.com/learning/market-research-foundations/surveys-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,7 +708,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), web (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -726,8 +715,7 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - who (1)
 
-#### Data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/data-analytics-2?u=76281980)
+#### [Data analytics](https://www.linkedin.com/learning/market-research-foundations/data-analytics-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,7 +735,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/market-research-foundations/data-analytics-2?u=76281980&t=41)** Let's dig into three types of analytics that the modern day researcher uses to learn more about their customers.
 >
-> **[0:48](https://www.linkedin.com/learning/market-research-foundations/data-analytics-2?u=76281980&t=48)** The first is web analytics.
+> **[0:48](https://www.linkedin.com/learning/market-research-foundations/data-analytics-2?u=76281980&t=48)** The first is [[Web Analytics]].
 >
 > **[0:50](https://www.linkedin.com/learning/market-research-foundations/data-analytics-2?u=76281980&t=50)** Web analytics help you understand how your website visitors flow through your site and interact with specific pages.
 >
@@ -773,7 +761,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/market-research-foundations/data-analytics-2?u=76281980&t=123)** This is where we mine social media for information about your customers.
 >
-> **[2:08](https://www.linkedin.com/learning/market-research-foundations/data-analytics-2?u=76281980&t=128)** This is thrilling for researchers, because you can get real-time feedback on what your customers truly care about.
+> **[2:08](https://www.linkedin.com/learning/market-research-foundations/data-analytics-2?u=76281980&t=128)** This is thrilling for researchers, because you can get [[Real-Time]] feedback on what your customers truly care about.
 >
 > **[2:15](https://www.linkedin.com/learning/market-research-foundations/data-analytics-2?u=76281980&t=135)** There are millions of conversations going on right now.
 >
@@ -793,19 +781,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (8), data (4), web (2), [[Search]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Web Analytics]] (2), [[Real-Time]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** faq (1)
 > **Speakers:** - a (1)
 
-#### Eye tracking and biometrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980)
+#### [Eye tracking and biometrics](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=1)** - Imagine for a moment that you're designing a monitor display in an air traffic control center, a dashboard for your car or the placement of food items on a grocery store shelf.
 >
-> **[0:10](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=10)** In these scenarios and many like them, it's crucial to know where people are going to look, and in high stress environments, you may also want to know how they'll react.
+> **[0:10](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=10)** In these scenarios and many like them, it's crucial to know where people are going to look, and in high stress environments, you may also want to know how they'll [[React.js|react]].
 >
 > **[0:21](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=21)** Today, eye tracking and biometric research tools can detect eye motion, sweat beads, heart rate and microexpressions on the face.
 >
@@ -821,7 +808,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=76)** Second, galvanic skin response or GSR measures even the smallest changes in sweat gland activity, which can tell us about how intensely our emotions kick in as we use a product or react to a brand.
 >
-> **[1:29](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=89)** Let's say you're testing a voice tool like Google Assistant to see how well it understands different regional accents across the U.S.
+> **[1:29](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=89)** Let's say you're testing a voice tool like [[Google]] Assistant to see how well it understands different regional accents across the U.S.
 >
 > **[1:37](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=97)** The moment it doesn't understand a participants voice, a twinge of annoyance might register through a teeny, tiny sweat droplet, GSR can detect that change.
 >
@@ -837,13 +824,13 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=127)** There are apps today that can literally use your phone's camera to detect what a participants facial expressions are saying.
 >
-> **[2:15](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=135)** Eye tracking and biometric research tools are being applied across a wide variety of industries to make us safer, ensure that a particular ad pops, and to help us create better products.
+> **[2:15](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=135)** Eye tracking and biometric research tools are being applied across a wide variety of industries to make us safer, ensure that a particular ad pops, and to help us create better [[Microsoft Products|products]].
 >
 > **[2:27](https://www.linkedin.com/learning/market-research-foundations/eye-tracking-and-biometrics-2?u=76281980&t=147)** All this technology is available to help you better understand your customer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), traffic (1), product (1), [[Google]] (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gsr (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -855,8 +842,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Articulating your research goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980)
+#### [Articulating your research goals](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,7 +860,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980&t=41)** Is your primary goal for this research study to improve product or strategy?
 >
-> **[0:47](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980&t=47)** If you're focus is product, tactical research techniques like usability testing might be in the cards for you.
+> **[0:47](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980&t=47)** If you're focus is product, tactical research techniques like [[Usability Testing]] might be in the cards for you.
 >
 > **[0:54](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980&t=54)** With these techniques it's all about function, whether someone can complete a task, understands a product, or can find the features.
 >
@@ -882,7 +868,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980&t=69)** Second question.
 >
-> **[1:10](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980&t=70)** If you had to choose what's more important, discovering who your consumers are, what they do, or how they will react.
+> **[1:10](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980&t=70)** If you had to choose what's more important, discovering who your consumers are, what they do, or how they will [[React.js|react]].
 >
 > **[1:20](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980&t=80)** This question tells us if our goal is to segment an audience, to understand behavior, or to uncover gut reactions.
 >
@@ -926,13 +912,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (3), [[Usability Testing]] (3), [[React.js|React]] (1), game (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (3), [[React.js|React]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Speakers:** - last (1)
 
-#### Qualitative vs. quantitative: When to use each research method
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/qualitative-vs-quantitative-when-to-use-each-research-method?u=76281980)
+#### [Qualitative vs. quantitative: When to use each research method](https://www.linkedin.com/learning/market-research-foundations/qualitative-vs-quantitative-when-to-use-each-research-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -978,13 +963,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), data (1), next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - when (1)
 
-#### Selling your company on research
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/selling-your-company-on-research?u=76281980)
+#### [Selling your company on research](https://www.linkedin.com/learning/market-research-foundations/selling-your-company-on-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1046,14 +1029,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Recruiting: How to find the right participants
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/recruiting-how-to-find-the-right-participants?u=76281980)
+#### [Recruiting: How to find the right participants](https://www.linkedin.com/learning/market-research-foundations/recruiting-how-to-find-the-right-participants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,7 +1058,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/market-research-foundations/recruiting-how-to-find-the-right-participants?u=76281980&t=54)** Of course, the easiest way to recruit is to let someone else do it, to hire a professional.
 >
-> **[1:00](https://www.linkedin.com/learning/market-research-foundations/recruiting-how-to-find-the-right-participants?u=76281980&t=60)** Recruiting companies have massive databases called panels, and they can find niche participants for your study quicker than you ever thought possible.
+> **[1:00](https://www.linkedin.com/learning/market-research-foundations/recruiting-how-to-find-the-right-participants?u=76281980&t=60)** Recruiting companies have massive [[Databases]] called panels, and they can find niche participants for your study quicker than you ever thought possible.
 >
 > **[1:09](https://www.linkedin.com/learning/market-research-foundations/recruiting-how-to-find-the-right-participants?u=76281980&t=69)** In just a week, you could be conducting interviews with your niche consumer for $150 to $300 a participant.
 >
@@ -1131,7 +1112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), database (1), data (1), product (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** find (7), make (3)
 > **Code Identifiers:** dscout (1)
 > **Env Vars:** diy (1)
@@ -1145,8 +1126,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Presenting your research: A crash course in persuasive techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980)
+#### [Presenting your research: A crash course in persuasive techniques](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1158,13 +1138,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=13)** Either the data doesn't address the questions you set out to answer or your report isn't memorable so decision makers gloss right over it.
 >
-> **[0:22](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=22)** Anyone can toss numbers into a PowerPoint, but you need more.
+> **[0:22](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=22)** Anyone can toss numbers into a [[Microsoft PowerPoint|PowerPoint]], but you need more.
 >
 > **[0:27](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=27)** So I'm going to give you some pro tips that will help your message sing.
 >
 > **[0:32](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=32)** First and above all else, I can't emphasize this enough, tell a good story.
 >
-> **[0:38](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=38)** Storytelling is the secret weapon that brings your research to life.
+> **[0:38](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=38)** [[Storytelling]] is the secret weapon that brings your research to life.
 >
 > **[0:43](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=43)** Chart after chart won't impress anyone.
 >
@@ -1196,7 +1176,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=148)** If you're sharing results with a sales team, focus on what you learned about customer buying behavior.
 >
-> **[2:34](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=154)** If you're speaking to product owners, show them data that mentions their products.
+> **[2:34](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=154)** If you're speaking to product owners, show them data that mentions their [[Microsoft Products|products]].
 >
 > **[2:40](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980&t=160)** Third, make sure your customers are seen.
 >
@@ -1220,14 +1200,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), teams (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Storytelling]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Storytelling]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** cat (1), make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - the (1)
 
-#### Personas
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/personas?u=76281980)
+#### [Personas](https://www.linkedin.com/learning/market-research-foundations/personas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1249,7 +1228,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/market-research-foundations/personas?u=76281980&t=29)** He only sees them on the weekends, but they have a tradition, they cook together.
 >
-> **[0:33](https://www.linkedin.com/learning/market-research-foundations/personas?u=76281980&t=33)** Bill believes that if he can teach his girls to be prepared in cooking, this will translate to the rest of their lives.
+> **[0:33](https://www.linkedin.com/learning/market-research-foundations/personas?u=76281980&t=33)** Bill believes that if he can teach his girls to be prepared in cooking, this will translate to the [[Representational State Transfer (REST)|rest]] of their lives.
 >
 > **[0:39](https://www.linkedin.com/learning/market-research-foundations/personas?u=76281980&t=39)** And Bill was extremely instrumental in creating [Firstresponders.gov](https://Firstresponders.gov).
 >
@@ -1295,7 +1274,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/market-research-foundations/personas?u=76281980&t=164)** Now that you know the basics of personas, try them as a way to articulate your target audience segments.
 >
-> **[2:51](https://www.linkedin.com/learning/market-research-foundations/personas?u=76281980&t=171)** you'll quickly find that they can help your team stay on track when you're building and marketing niche products.
+> **[2:51](https://www.linkedin.com/learning/market-research-foundations/personas?u=76281980&t=171)** you'll quickly find that they can help your team stay on track when you're building and marketing niche [[Microsoft Products|products]].
 >
 > **[2:57](https://www.linkedin.com/learning/market-research-foundations/personas?u=76281980&t=177)** A picture and a few bulleted lists is all it takes.
 >
@@ -1303,7 +1282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), product (1), feature (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** ipad (1)
 > **URLs:** [firstresponders.gov](https://firstresponders.gov) (1)
@@ -1312,14 +1291,13 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1)
 > **Speakers:** - i (1)
 
-#### Journey mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980)
+#### [Journey mapping](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=1)** - Think for a moment of the last truly great product you bought.
 >
-> **[0:05](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=5)** All great products have one thing in common, they meet the real needs of real people.
+> **[0:05](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=5)** All great [[Microsoft Products|products]] have one thing in common, they meet the real needs of real people.
 >
 > **[0:11](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=11)** Even if you have mounds of customer research, if it doesn't translate into a better experience for your customers, it's almost like that research didn't happen at all.
 >
@@ -1331,7 +1309,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=41)** Instead, the purpose is to visually communicate how your customer interacts with you form their point of view.
 >
-> **[0:48](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=48)** Here are three proven techniques to document your market research in a journey map.
+> **[0:48](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=48)** Here are three proven techniques to document your [[Market Research]] in a journey map.
 >
 > **[0:54](https://www.linkedin.com/learning/market-research-foundations/journey-mapping?u=76281980&t=54)** First, include every touchpoint, even if it doesn't seem significant.
 >
@@ -1383,7 +1361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1), business (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Market Research]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -1395,8 +1373,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/market-research-foundations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1422,13 +1399,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/market-research-foundations/next-steps?u=76281980&t=65)** Thanks so much for watching.
 >
-> **[1:07](https://www.linkedin.com/learning/market-research-foundations/next-steps?u=76281980&t=67)** You are on your way to clear, customer-driven decisions about your business and products.
+> **[1:07](https://www.linkedin.com/learning/market-research-foundations/next-steps?u=76281980&t=67)** You are on your way to clear, customer-driven decisions about your business and [[Microsoft Products|products]].
 >
 > **[1:13](https://www.linkedin.com/learning/market-research-foundations/next-steps?u=76281980&t=73)** Way to go!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1), product (1), teams (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - now (1)

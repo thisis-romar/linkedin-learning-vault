@@ -108,8 +108,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stand apart as a incident management practitioner
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/stand-apart-as-a-incident-management-practitioner?u=76281980)
+#### [Stand apart as a incident management practitioner](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/stand-apart-as-a-incident-management-practitioner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/stand-apart-as-a-incident-management-practitioner?u=76281980&t=16)** This course gives you seven proven techniques to reduce incidents, route them faster, cut resolution times, and end the endless back and forth.
 >
-> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/stand-apart-as-a-incident-management-practitioner?u=76281980&t=25)** ITIL mentions these techniques but doesn't show you how to do them.
+> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/stand-apart-as-a-incident-management-practitioner?u=76281980&t=25)** [[ITIL]] mentions these techniques but doesn't show you how to do them.
 >
 > **[0:28](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/stand-apart-as-a-incident-management-practitioner?u=76281980&t=28)** That's why I built this course to fill that gap.
 >
@@ -139,12 +138,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (1), career (1)
+> **Frameworks & Libraries:** [[ITIL]] (1)
 > **Env Vars:** itil (1)
 > **Speakers:** - think (1)
 
-#### What is incident management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-management?u=76281980)
+#### [What is incident management?](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-management?u=76281980&t=3)** At its core, it's anything that stops a user from working productively without assistance, like a service outage or slow performance, a security threat like malware, an access or client device issue, or even just a question a user needs answered to move forward.
 >
-> **[0:19](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-management?u=76281980&t=19)** ITIL defines four dimensions where you can find causes and solutions for incidents.
+> **[0:19](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-management?u=76281980&t=19)** [[ITIL]] defines four dimensions where you can find causes and solutions for incidents.
 >
 > **[0:23](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-management?u=76281980&t=23)** Organizations and people, information and technology, partners and suppliers, and value streams and processes.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-management?u=76281980&t=77)** That move users to better experiences through self-service.
 >
-> **[1:20](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-management?u=76281980&t=80)** That shift interactions left to better channels, and in applying learning from incident handling, to react better and resolve quicker when incidents reoccur.
+> **[1:20](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-management?u=76281980&t=80)** That shift interactions left to better channels, and in applying learning from incident handling, to [[React.js|react]] better and resolve quicker when incidents reoccur.
 >
 > **[1:30](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-management?u=76281980&t=90)** Incident management is about driving towards a better reality by preventing incidents in the first place and ensuring users have good experiences when incidents do occur.
 >
@@ -208,13 +206,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[Security]] (2), [[ITIL]] (2), [[React.js|React]] (1), hit (1)
+> **Frameworks & Libraries:** [[ITIL]] (2), [[React.js|React]] (1)
 > **Env Vars:** itil (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [david] (1)
 
-#### What you'll learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980)
+#### [What you'll learn](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,19 +245,19 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=89)** Optimizing incident monitoring is where you sharpen your visibility into incidents and your ability and your user's ability to act on them.
 >
-> **[1:37](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=97)** So you don't just react, you stay ahead.
+> **[1:37](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=97)** So you don't just [[React.js|react]], you stay ahead.
 >
 > **[1:40](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=100)** The better you monitor, the stronger your response.
 >
 > **[1:44](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=104)** Incident cycle time reduction is where you analyze every phase of incident handling, detection, acknowledgement, diagnosis, resolution, and confirmation, to spot delays and eliminate bottlenecks.
 >
-> **[1:55](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=115)** The goal: faster resolution, less disruption, and a better user experience.
+> **[1:55](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=115)** The goal: faster resolution, less disruption, and a better [[User Experience (UX)|user experience]].
 >
 > **[2:01](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=121)** Incident reassignment reduction means minimizing handoffs in incident resolution.
 >
 > **[2:07](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=127)** Every reassignment causes delays, confusions, and lost context, frustrating users.
 >
-> **[2:12](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=132)** The goal: get incidents to the right team the first time through clear categorization, smart routing, and better collaboration, reducing transfers, speeding resolution, and improving user experience.
+> **[2:12](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=132)** The goal: get incidents to the right team the first time through clear categorization, smart [[Routing]], and better collaboration, reducing transfers, speeding resolution, and improving user experience.
 >
 > **[2:26](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-you-ll-learn?u=76281980&t=146)** First-contact closure rate optimization is where you resolve more incidents during the first interaction, minimizing escalations.
 >
@@ -274,11 +271,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[User Experience (UX)|User experience]] (2), [[React.js|React]] (1), [[Routing]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[React.js|React]] (1), [[Routing]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### How you'll learn it
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/how-you-ll-learn-it?u=76281980)
+#### [How you'll learn it](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/how-you-ll-learn-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -342,7 +338,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), application (1), power (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -352,8 +347,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is incident reduction, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-incident-reduction-and-why-use-it?u=76281980)
+#### [What is incident reduction, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-incident-reduction-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,7 +355,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-incident-reduction-and-why-use-it?u=76281980&t=5)** It's where you analyze root causes, improve system resilience, and eliminate failure points before they become disruptions.
 >
-> **[0:12](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-incident-reduction-and-why-use-it?u=76281980&t=12)** Don't just react, prevent.
+> **[0:12](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-incident-reduction-and-why-use-it?u=76281980&t=12)** Don't just [[React.js|react]], prevent.
 >
 > **[0:15](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-incident-reduction-and-why-use-it?u=76281980&t=15)** The fewer incidents you have, the better the experience will be for everyone.
 >
@@ -381,11 +375,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Speakers:** - incident (1)
 
-#### Where and when to use incident reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-reduction?u=76281980)
+#### [Where and when to use incident reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -427,12 +420,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incident reduction steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-steps?u=76281980)
+#### [Incident reduction steps](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,13 +505,13 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-steps?u=76281980&t=144)** Think about who needs to know and how to tell them.
 >
-> **[2:26](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-steps?u=76281980&t=146)** IT teams, leadership, customer support, each group needs a tailored message.
+> **[2:26](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-steps?u=76281980&t=146)** IT teams, leadership, [[Customer Support]], each group needs a tailored message.
 >
 > **[2:32](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-steps?u=76281980&t=152)** Will you send an email, update a dashboard, or hold a meeting?
 >
 > **[2:36](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-steps?u=76281980&t=156)** Plan ahead to avoid surprises.
 >
-> **[2:40](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-steps?u=76281980&t=160)** Now get the word out.
+> **[2:40](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-steps?u=76281980&t=160)** Now get the [[Microsoft Word|word]] out.
 >
 > **[2:41](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-steps?u=76281980&t=161)** Share what you found, why it matters, and what's changing.
 >
@@ -558,15 +549,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), teams (2), business (1), [[Analytics]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** don't forget (2)
 > **Env Vars:** sla (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incident reduction example
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-example?u=76281980)
+#### [Incident reduction example](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,7 +574,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-example?u=76281980&t=43)** Samantha, the application owner, ensures solutions align with business needs.
 >
-> **[0:48](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-example?u=76281980&t=48)** They track incidents together with their ITSM tool, analyze data with Power BI, and document findings in a shared workspace.
+> **[0:48](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-example?u=76281980&t=48)** They track incidents together with their ITSM tool, analyze data with [[Microsoft Power BI|Power BI]], and document findings in a shared workspace.
 >
 > **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/incident-reduction-example?u=76281980&t=56)** Prya pulls the last six months of incident reports, filtering by category, frequency, and resolution time.
 >
@@ -694,14 +684,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), business (3), application (2), data (2), leadership (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** itsm (3)
 > **CLI Commands:** make (1)
 > **Tools:** colab (1)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Incident reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reduction?u=76281980)
+#### [You try it: Incident reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,7 +712,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reduction?u=76281980&t=24)** With the steps in front of you, it's time to put them into action.
 >
-> **[0:28](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reduction?u=76281980&t=28)** Your success will come from preparation, structure, and accountability.
+> **[0:28](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reduction?u=76281980&t=28)** Your success will come from preparation, structure, and [[Accountability]].
 >
 > **[0:32](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reduction?u=76281980&t=32)** Keep discussions focused on root causes, not just symptoms.
 >
@@ -735,13 +724,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [narrator] (1)
 
-#### Review it: Incident reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-reduction?u=76281980)
+#### [Review it: Incident reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,7 +801,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), leadership (1), game (1)
 > **CLI Commands:** find (4)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
@@ -823,8 +810,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is incident shift-left, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-shift-left-and-why-use-it?u=76281980)
+#### [What is incident shift-left, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-shift-left-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,9 +824,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-shift-left-and-why-use-it?u=76281980&t=27)** On the right you see assisted service conducted on costly resource intensive channels like email, voice, and in-person support.
 >
-> **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-shift-left-and-why-use-it?u=76281980&t=36)** Your goal, move these interactions left to a better user experience at a lower cost through cell-surface options like portals, communities, interactive voice response units and bots.
+> **[0:36](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-shift-left-and-why-use-it?u=76281980&t=36)** Your goal, move these interactions left to a better [[User Experience (UX)|user experience]] at a lower cost through cell-surface options like portals, communities, [[Interactive Voice Response (IVR)|interactive voice response]] units and bots.
 >
-> **[0:49](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-shift-left-and-why-use-it?u=76281980&t=49)** Take it even further left and preempt issues before they become incidents through predictive analytics, proactive remediation, and experience management solutions.
+> **[0:49](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-shift-left-and-why-use-it?u=76281980&t=49)** Take it even further left and preempt issues before they become incidents through [[Predictive Analytics]], proactive remediation, and experience management solutions.
 >
 > **[0:59](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-shift-left-and-why-use-it?u=76281980&t=59)** What if you could cut costs, reduce risk, and improve user experience all at the same time?
 >
@@ -856,11 +842,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Interactive Voice Response (IVR)|Interactive voice response]] (1), [[Predictive Analytics]] (1), management (1), power (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Interactive Voice Response (IVR)|Interactive voice response]] (1), [[Predictive Analytics]] (1)
 > **Speakers:** - shift (1)
 
-#### Where and when to use incident shift-left
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-shift-left?u=76281980)
+#### [Where and when to use incident shift-left](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-shift-left?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -912,13 +897,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (2), [[Automation]] (1), management (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### Steps to creating an incident shift-left response
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-to-creating-a-incident-shift-left?u=76281980)
+#### [Steps to creating an incident shift-left response](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-to-creating-a-incident-shift-left?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -956,7 +939,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-to-creating-a-incident-shift-left?u=76281980&t=91)** Which channels are users using more frequently and which are unused or waning in use and should be retired?
 >
-> **[1:38](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-to-creating-a-incident-shift-left?u=76281980&t=98)** Prioritize shifts that improve speed, efficiency, and user experience.
+> **[1:38](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-to-creating-a-incident-shift-left?u=76281980&t=98)** Prioritize shifts that improve speed, efficiency, and [[User Experience (UX)|user experience]].
 >
 > **[1:45](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-to-creating-a-incident-shift-left?u=76281980&t=105)** Use the four dimensions to get a more holistic view in people and organizations.
 >
@@ -1048,13 +1031,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), teams (3), management (2), [[Analytics]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** don't forget (2)
 > **Speakers:** - [instructor] (1)
 
-#### Example of creating an incident shift-left response
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-creating-a-incident-shift-left?u=76281980)
+#### [Example of creating an incident shift-left response](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-creating-a-incident-shift-left?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1088,7 +1070,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-creating-a-incident-shift-left?u=76281980&t=68)** Samantha finds a bigger gap.
 >
-> **[1:10](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-creating-a-incident-shift-left?u=76281980&t=70)** Users are asking for help in Microsoft Team and Slack, but the service desk isn't responding there.
+> **[1:10](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-creating-a-incident-shift-left?u=76281980&t=70)** Users are asking for help in [[Microsoft]] Team and [[Slack]], but the service desk isn't responding there.
 >
 > **[1:15](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-creating-a-incident-shift-left?u=76281980&t=75)** Alex sees a disconnect.
 >
@@ -1136,7 +1118,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-creating-a-incident-shift-left?u=76281980&t=177)** Alex makes it clear: this isn't about cost cutting, although it's a plus.
 >
-> **[3:02](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-creating-a-incident-shift-left?u=76281980&t=182)** It's really about providing a better user experience through self-help.
+> **[3:02](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-creating-a-incident-shift-left?u=76281980&t=182)** It's really about providing a better [[User Experience (UX)|user experience]] through self-help.
 >
 > **[3:07](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-creating-a-incident-shift-left?u=76281980&t=187)** The team shares the plan and gains buy-in from key stakeholders.
 >
@@ -1182,14 +1164,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (9), [[Slack]] (4), teams (4), leadership (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Slack]] (4), [[Microsoft]] (1), [[User Experience (UX)|User experience]] (1)
 > **Tools:** slack (4)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** itsm (1)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Creating an incident shift-left response
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-creating-a-incident-shift-left?u=76281980)
+#### [You try it: Creating an incident shift-left response](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-creating-a-incident-shift-left?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1221,11 +1202,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), teams (1), [[Automation]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Creating an incident shift-left response
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-creating-a-incident-shift-left?u=76281980)
+#### [Review it: Creating an incident shift-left response](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-creating-a-incident-shift-left?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1233,7 +1212,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-creating-a-incident-shift-left?u=76281980&t=4)** So, what stood out?
 >
-> **[0:06](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-creating-a-incident-shift-left?u=76281980&t=6)** Many teams realized that they could resolve more issues earlier in the pipeline or even prevent them altogether through predictive analytics.
+> **[0:06](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-creating-a-incident-shift-left?u=76281980&t=6)** Many teams realized that they could resolve more issues earlier in the pipeline or even prevent them altogether through [[Predictive Analytics]].
 >
 > **[0:13](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-creating-a-incident-shift-left?u=76281980&t=13)** Did you uncover gaps in training, knowledge, or automation?
 >
@@ -1291,7 +1270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), next (4), [[Predictive Analytics]] (1), [[Automation]] (1), hit (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Best Practices:** make sure to (1)
@@ -1302,8 +1281,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the incident monitoring optimization response, and why do it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-monitoring-optimization-and-why-do-it?u=76281980)
+#### [What is the incident monitoring optimization response, and why do it?](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-monitoring-optimization-and-why-do-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,11 +1305,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **Speakers:** - incident (1)
 
-#### Where and when to use the incident monitoring optimization response
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-monitoring-optimization?u=76281980)
+#### [Where and when to use the incident monitoring optimization response](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-monitoring-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1339,7 +1315,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-monitoring-optimization?u=76281980&t=4)** You also can't reprioritize what you can't see.
 >
-> **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-monitoring-optimization?u=76281980&t=8)** Optimizing monitoring gives you real-time insights, helping you spot trends, and to take proactive action before those issues escalate.
+> **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-monitoring-optimization?u=76281980&t=8)** Optimizing monitoring gives you [[Real-Time]] insights, helping you spot trends, and to take proactive action before those issues escalate.
 >
 > **[0:17](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-monitoring-optimization?u=76281980&t=17)** If high-impact issues slip through unnoticed, your monitoring isn't working.
 >
@@ -1371,11 +1347,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Real-Time]] (1), ai (1), game (1), data (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **CLI Commands:** find (1)
 
-#### Steps in incident monitoring optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980)
+#### [Steps in incident monitoring optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1387,7 +1362,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=44)** And don't forget the tools.
 >
-> **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=46)** You'll need the right dashboards, a learning systems, and log analyzers.
+> **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=46)** You'll need the right [[Dashboards]], a learning systems, and log analyzers.
 >
 > **[0:50](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=50)** Without the right people and tools, optimization won't happen.
 >
@@ -1441,7 +1416,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=142)** In information and technology, can you deploy intelligent alerts and use AI to detect anomalies before failures?
 >
-> **[2:29](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=149)** In partners and suppliers, can you align SLAs and ensure vendors share real-time status updates.
+> **[2:29](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=149)** In partners and suppliers, can you align SLAs and ensure vendors share [[Real-Time]] status updates.
 >
 > **[2:35](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=155)** And in value streams and processes, can you refine thresholds, automate responses, or cut false alarms?
 >
@@ -1461,7 +1436,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=190)** Engineers, security teams, IT leadership.
 >
-> **[3:14](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=194)** Plan messages that explain what's changing, why and how it improves incident response.
+> **[3:14](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=194)** Plan messages that explain what's changing, why and how it improves [[Incident Response]].
 >
 > **[3:20](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-monitoring-optimization?u=76281980&t=200)** Identify and state what's in it for them, the benefits to your stakeholders.
 >
@@ -1515,14 +1490,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), teams (4), [[Dashboards]] (2), ai (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Real-Time]] (1), [[Incident Response]] (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of incident monitoring optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980)
+#### [Example of incident monitoring optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1544,7 +1518,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=41)** Alex, the IT service manager calls the team together.
 >
-> **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=46)** Priya, the senior collaboration engineer joins them to analyze Microsoft teams and SharePoint issues.
+> **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=46)** Priya, the senior collaboration engineer joins them to analyze [[Microsoft Teams]] and [[SharePoint]] issues.
 >
 > **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=52)** Jordan, the service desk lead brings frontline insights.
 >
@@ -1630,7 +1604,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=213)** Jordan refines ticket tagging.
 >
-> **[3:35](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=215)** Samantha sets up dashboards tracking user sentiment.
+> **[3:35](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=215)** Samantha sets up [[Dashboards]] tracking user sentiment.
 >
 > **[3:39](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=219)** Alex checks in weekly to see if they're detecting problems earlier.
 >
@@ -1640,7 +1614,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=227)** Teams call failure alerts trigger 30% sooner.
 >
-> **[3:51](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=231)** Incident response times drop 25%, but sync issues still slip through.
+> **[3:51](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=231)** [[Incident Response]] times drop 25%, but sync issues still slip through.
 >
 > **[3:57](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-monitoring-optimization?u=76281980&t=237)** Priya fine tunes alert thresholds.
 >
@@ -1666,14 +1640,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), data (2), leadership (2), hit (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[SharePoint]] (1), [[Dashboards]] (1), [[Incident Response]] (1)
 > **Env Vars:** itsm (2)
 > **Warnings:** warning (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Incident monitoring optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-monitoring-optimization?u=76281980)
+#### [You try it: Incident monitoring optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-monitoring-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1709,8 +1682,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Incident monitoring optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-monitoring-optimization?u=76281980)
+#### [Review it: Incident monitoring optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-monitoring-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1736,7 +1708,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-monitoring-optimization?u=76281980&t=35)** Did you find that you lacked the visibility to preempt issues before they become failures?
 >
-> **[0:39](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-monitoring-optimization?u=76281980&t=39)** Then work on predictive analytics.
+> **[0:39](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-monitoring-optimization?u=76281980&t=39)** Then work on [[Predictive Analytics]].
 >
 > **[0:44](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-monitoring-optimization?u=76281980&t=44)** What worked well for you?
 >
@@ -1774,7 +1746,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-monitoring-optimization?u=76281980&t=106)** Now that you've tried incident monitoring optimization, here's the big question: will you integrate it into your regular incident reviews?
 >
-> **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-monitoring-optimization?u=76281980&t=114)** Many teams use it in a regular cycle of agile improvement sprints to fine-tune alerts, improve dashboards, and get ahead of issues before they escalate.
+> **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-monitoring-optimization?u=76281980&t=114)** Many teams use it in a regular cycle of [[Agile Development|agile]] improvement sprints to fine-tune alerts, improve [[Dashboards]], and get ahead of issues before they escalate.
 >
 > **[2:03](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-monitoring-optimization?u=76281980&t=123)** What's your next move?
 >
@@ -1790,7 +1762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), next (4), data (1), [[Predictive Analytics]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Agile Development|Agile]] (1), [[Dashboards]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1800,8 +1772,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is incident cycle time reduction, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-cycle-time-reduction-and-why-use-it?u=76281980)
+#### [What is incident cycle time reduction, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-cycle-time-reduction-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1825,8 +1796,7 @@ created: 2026-05-02
 >
 > **Speakers:** - incident (1)
 
-#### Where and when to use incident cycle time reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-cycle-time-reduction?u=76281980)
+#### [Where and when to use incident cycle time reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-cycle-time-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1860,7 +1830,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-cycle-time-reduction?u=76281980&t=70)** For such high-stake incidents, seek to reduce cycle time in all four dimensions.
 >
-> **[1:15](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-cycle-time-reduction?u=76281980&t=75)** Replace chaos, confusion, and delays with timely, well orchestrated, and effective action through clear roles, sharp focus, and data-driven decision-making.
+> **[1:15](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-cycle-time-reduction?u=76281980&t=75)** Replace chaos, confusion, and delays with timely, well orchestrated, and effective action through clear roles, sharp focus, and data-driven [[Decision-Making]].
 >
 > **[1:26](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-cycle-time-reduction?u=76281980&t=86)** No silos or guesswork, just solving major incidents quickly.
 >
@@ -1896,12 +1866,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Security]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in incident cycle time reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-cycle-time-reduction?u=76281980)
+#### [Steps in incident cycle time reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-cycle-time-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1915,7 +1884,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-cycle-time-reduction?u=76281980&t=46)** And don't forget the tools.
 >
-> **[0:47](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-cycle-time-reduction?u=76281980&t=47)** Bring logs, dashboards, automation, and collaboration platforms to bear.
+> **[0:47](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-cycle-time-reduction?u=76281980&t=47)** Bring logs, [[Dashboards]], automation, and collaboration platforms to bear.
 >
 > **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-cycle-time-reduction?u=76281980&t=52)** Get organized to optimize how you optimize.
 >
@@ -2037,19 +2006,18 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-cycle-time-reduction?u=76281980&t=280)** Then share insights within your team and with key stakeholders in whatever way works best, be it meetings, reports, or training sessions.
 >
-> **[4:48](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-cycle-time-reduction?u=76281980&t=288)** The more teams learn, the faster and stronger incident response becomes, and the more stakeholders know what you've done and how it benefits them, the more trust you build.
+> **[4:48](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-cycle-time-reduction?u=76281980&t=288)** The more teams learn, the faster and stronger [[Incident Response]] becomes, and the more stakeholders know what you've done and how it benefits them, the more trust you build.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), data (3), [[Dashboards]] (2), [[Automation]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Incident Response]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of incident cycle time reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980)
+#### [Example of incident cycle time reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2071,7 +2039,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=47)** Samantha from the monitoring team, she can pinpoint the system-wide signals.
 >
-> **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=52)** Together, they gather tools and data, ticket logs, dashboards, and user feedback to pinpoint the slowdowns.
+> **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=52)** Together, they gather tools and data, ticket logs, [[Dashboards]], and user feedback to pinpoint the slowdowns.
 >
 > **[0:59](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=59)** Now, the team focuses on locating the bottlenecks.
 >
@@ -2107,7 +2075,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=106)** Alex sums it up.
 >
-> **[1:47](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=107)** Poor routing, weak triage, and blind spots are why unnecessary delays are happening.
+> **[1:47](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=107)** Poor [[Routing]], weak triage, and blind spots are why unnecessary delays are happening.
 >
 > **[1:53](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=113)** Alex asks, "What can we fix?"
 >
@@ -2151,7 +2119,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=193)** Alex leads the update meeting.
 >
-> **[3:15](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=195)** Jordan walks business leadership through the bottlenecks.
+> **[3:15](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=195)** Jordan walks [[Business Leadership]] through the bottlenecks.
 >
 > **[3:18](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-cycle-time-reduction?u=76281980&t=198)** Priya explains how new triage rules will ease the workload.
 >
@@ -2207,12 +2175,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (6), data (4), business (4), [[Automation]] (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Routing]] (6), [[Dashboards]] (1), [[Business Leadership]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Incident cycle time reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-cycle-time-reduction?u=76281980)
+#### [You try it: Incident cycle time reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-cycle-time-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2242,11 +2209,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Automation]] (2), data (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Incident cycle time reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-cycle-time-reduction?u=76281980)
+#### [Review it: Incident cycle time reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-cycle-time-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2304,7 +2269,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), next (2), [[Troubleshooting]] (1), [[Automation]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2314,8 +2278,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is incident reassignment reduction, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-reassignment-reduction-and-why-do-it?u=76281980)
+#### [What is incident reassignment reduction, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-incident-reassignment-reduction-and-why-do-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2341,11 +2304,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), teams (1)
 > **Speakers:** - every (1)
 
-#### Where and when to use incident reassignment reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-reassignment-reduction?u=76281980)
+#### [Where and when to use incident reassignment reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-reassignment-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2357,7 +2318,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-reassignment-reduction?u=76281980&t=24)** Invest in training, knowledge bases, and guided workflows to ensure first contact resolution wherever possible.
 >
-> **[0:33](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-reassignment-reduction?u=76281980&t=33)** If your ticket routing is based on outdated or vague rules, incidents will keep bouncing between teams.
+> **[0:33](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-reassignment-reduction?u=76281980&t=33)** If your ticket [[Routing]] is based on outdated or vague rules, incidents will keep bouncing between teams.
 >
 > **[0:39](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-incident-reassignment-reduction?u=76281980&t=39)** You must regularly refine routing logic using historical data and machine learning to ensure direct assignments.
 >
@@ -2387,17 +2348,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Routing]] (3), data (2), [[Automation]] (1), ai (1)
+> **Frameworks & Libraries:** [[Routing]] (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in incident reassignment reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-reassignment-reduction?u=76281980)
+#### [Steps in incident reassignment reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-reassignment-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-reassignment-reduction?u=76281980&t=0)** - [Instructor] The steps in incident reassignment reduction are pick a facilitator, team, and tools, analyze reassignment patterns, identify the root cause of misrouting, identify potential routing and ownership optimizations, choose actions and set a review date, plan stakeholder communications, communicate findings to stakeholders, take action and track progress, review progress and adjust as needed, and share updates and lessons learned.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-reassignment-reduction?u=76281980&t=0)** - [Instructor] The steps in incident reassignment reduction are pick a facilitator, team, and tools, analyze reassignment patterns, identify the root cause of misrouting, identify potential [[Routing]] and ownership optimizations, choose actions and set a review date, plan stakeholder communications, communicate findings to stakeholders, take action and track progress, review progress and adjust as needed, and share updates and lessons learned.
 >
 > **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-reassignment-reduction?u=76281980&t=29)** Reducing incident reassignment starts with choosing a facilitator who is a subject matter expert on ticket handling and who can drive discussions and ensure decisions get made.
 >
@@ -2465,7 +2425,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-reassignment-reduction?u=76281980&t=176)** Without tracking changes fade.
 >
-> **[2:59](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-reassignment-reduction?u=76281980&t=179)** Choose actions that have the highest probability of leading to fewer reassignments that take the least amount of costs and effort to make.
+> **[2:59](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-reassignment-reduction?u=76281980&t=179)** Choose actions that have the highest [[Probability]] of leading to fewer reassignments that take the least amount of costs and effort to make.
 >
 > **[3:06](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-incident-reassignment-reduction?u=76281980&t=186)** Set the review date out far enough to make a substantive amount of progress, but not so far out that you can't keep momentum going.
 >
@@ -2527,15 +2487,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), teams (6), [[Routing]] (4), [[Automation]] (2), ai (1)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Probability]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of incident reassignment reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980)
+#### [Example of incident reassignment reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2561,7 +2520,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=52)** Samantha from monitoring can see patterns and reassignments.
 >
-> **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=56)** The team gathers their tools and data, ticket logs, escalation reports, and dashboards, ready to uncover and fix the mess.
+> **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=56)** The team gathers their tools and data, ticket logs, escalation reports, and [[Dashboards]], ready to uncover and fix the mess.
 >
 > **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=65)** Samantha scans ticket logs.
 >
@@ -2579,7 +2538,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=89)** There are far too many hops, no clear ownership, and massive productivity drains for both IT and users.
 >
-> **[1:36](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=96)** Jordan finds a flaw in ticket routing.
+> **[1:36](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=96)** Jordan finds a flaw in ticket [[Routing]].
 >
 > **[1:39](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=99)** Tickets auto-route based on outdated keywords, not actual issues.
 >
@@ -2645,7 +2604,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=217)** Samantha shares how smarter alerts will increase categorization mapping and reduce handoffs.
 >
-> **[3:43](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=223)** Stakeholders buy-in to fewer delays, faster fixes, and a better user experience.
+> **[3:43](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=223)** Stakeholders buy-in to fewer delays, faster fixes, and a better [[User Experience (UX)|user experience]].
 >
 > **[3:50](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-incident-reassignment-reduction?u=76281980&t=230)** Now it's time to take action.
 >
@@ -2693,13 +2652,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (7), teams (5), [[Automation]] (3), next (1), data (1)
+> **Frameworks & Libraries:** [[Routing]] (7), [[Dashboards]] (1), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** picture (2)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Incident reassignment reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reassignment-reduction?u=76281980)
+#### [You try it: Incident reassignment reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reassignment-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2723,7 +2681,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reassignment-reduction?u=76281980&t=29)** Identify reassignment root causes.
 >
-> **[0:31](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reassignment-reduction?u=76281980&t=31)** Are routing rules unclear?
+> **[0:31](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reassignment-reduction?u=76281980&t=31)** Are [[Routing]] rules unclear?
 >
 > **[0:34](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-incident-reassignment-reduction?u=76281980&t=34)** Do teams lack the right access or expertise?
 >
@@ -2737,11 +2695,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), data (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Incident reassignment reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-reassignment-reduction?u=76281980)
+#### [Review it: Incident reassignment reduction](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-incident-reassignment-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2815,7 +2772,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), next (3)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -2825,8 +2781,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is first-contact closure rate optimization, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-first-contact-closure-rate-optimization-and-why-use-it?u=76281980)
+#### [What is first-contact closure rate optimization, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-first-contact-closure-rate-optimization-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2860,11 +2815,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3)
 > **Definitions:** is a  (1)
 
-#### Where and when to use first-contact closure rate optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-first-contact-closure-rate-optimization?u=76281980)
+#### [Where and when to use first-contact closure rate optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-first-contact-closure-rate-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2900,12 +2853,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in first-contact closure rate optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-first-contact-closure-rate-optimization?u=76281980)
+#### [Steps in first-contact closure rate optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-first-contact-closure-rate-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2975,7 +2926,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-first-contact-closure-rate-optimization?u=76281980&t=157)** Now, which fix will move the needle most?
 >
-> **[2:39](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-first-contact-closure-rate-optimization?u=76281980&t=159)** Choose a subset of actions with the highest probability of impact at the lowest cost and effort.
+> **[2:39](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-first-contact-closure-rate-optimization?u=76281980&t=159)** Choose a subset of actions with the highest [[Probability]] of impact at the lowest cost and effort.
 >
 > **[2:44](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-first-contact-closure-rate-optimization?u=76281980&t=164)** Assign who, what, and when and what success looks like for each.
 >
@@ -3027,14 +2978,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), [[Automation]] (2), leadership (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of first-contact closure rate optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-first-contact-closure-rate-optimization?u=76281980)
+#### [Example of first-contact closure rate optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-first-contact-closure-rate-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3144,7 +3094,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-first-contact-closure-rate-optimization?u=76281980&t=199)** Now it's time to brief stakeholders.
 >
-> **[3:21](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-first-contact-closure-rate-optimization?u=76281980&t=201)** Jordan explains upcoming routing changes, for more level-one resolution and less escalation.
+> **[3:21](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-first-contact-closure-rate-optimization?u=76281980&t=201)** Jordan explains upcoming [[Routing]] changes, for more level-one resolution and less escalation.
 >
 > **[3:27](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-first-contact-closure-rate-optimization?u=76281980&t=207)** Priya walks agents and users through the new guided workflow steps.
 >
@@ -3208,14 +3158,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Troubleshooting]] (2), next (1), business (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Warnings:** troubleshoot (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### You try it: First-contact closure rate optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-first-contact-closure-rate-optimization?u=76281980)
+#### [You try it: First-contact closure rate optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-first-contact-closure-rate-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3247,11 +3196,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), teams (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: First-contact closure rate optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-first-contact-closure-rate-optimization?u=76281980)
+#### [Review it: First-contact closure rate optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-first-contact-closure-rate-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3315,7 +3262,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), next (3)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
@@ -3325,8 +3271,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is knowledge base optimization, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-knowledgebase-optimization-and-why-use-it?u=76281980)
+#### [What is knowledge base optimization, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/what-is-a-knowledgebase-optimization-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3352,12 +3297,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), power (1), [[Search]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - with (1)
 
-#### Where and when to use knowledge base optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-a-knowledgebase-optimization?u=76281980)
+#### [Where and when to use knowledge base optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-a-knowledgebase-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3369,7 +3312,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-a-knowledgebase-optimization?u=76281980&t=26)** If agents waste time searching for solutions, optimize the knowledge base by improving search functionality, categorization, and content relevance.
 >
-> **[0:35](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-a-knowledgebase-optimization?u=76281980&t=35)** Faster access to answers means quicker resolutions and a better user experience.
+> **[0:35](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-a-knowledgebase-optimization?u=76281980&t=35)** Faster access to answers means quicker resolutions and a better [[User Experience (UX)|user experience]].
 >
 > **[0:40](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/where-and-when-to-use-a-knowledgebase-optimization?u=76281980&t=40)** If users contact support for issues that could be self-solved, your client-facing knowledge base isn't doing its job.
 >
@@ -3389,11 +3332,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1), [[Search]] (1), [[User Experience (UX)|User experience]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in knowledge base optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-a-knowledgebase-optimization?u=76281980)
+#### [Steps in knowledge base optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-a-knowledgebase-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3491,7 +3433,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-a-knowledgebase-optimization?u=76281980&t=164)** Then set a review date, 30, 60, or 90 days out, to track improvements.
 >
-> **[2:48](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-a-knowledgebase-optimization?u=76281980&t=168)** No deadline means no accountability.
+> **[2:48](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-a-knowledgebase-optimization?u=76281980&t=168)** No deadline means no [[Accountability]].
 >
 > **[2:52](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/steps-in-a-knowledgebase-optimization?u=76281980&t=172)** Fixes only work if people know about them.
 >
@@ -3551,13 +3493,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), teams (5), data (4), [[Analytics]] (1), ai (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of knowledge base optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980)
+#### [Example of knowledge base optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3619,7 +3560,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=126)** Flag bad articles for quick fixes, rewrite critical ones, consolidate redundant ones and retired unused ones.
 >
-> **[2:14](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=134)** Jordan suggests using version control.
+> **[2:14](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=134)** Jordan suggests using [[Version Control]].
 >
 > **[2:16](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=136)** Samantha continues to refine metrics tracking, making log views, feedback, and search success rates more visible.
 >
@@ -3635,7 +3576,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=159)** One team will own each article.
 >
-> **[2:42](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=162)** Samantha will configure new tracking dashboards, measuring article use and effectiveness.
+> **[2:42](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=162)** Samantha will configure new tracking [[Dashboards]], measuring article use and effectiveness.
 >
 > **[2:47](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=167)** Alex locks in a 30 day review date.
 >
@@ -3675,7 +3616,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=243)** Samantha monitors engagement metrics.
 >
-> **[4:05](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=245)** Articles now have feedback forms.
+> **[4:05](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=245)** Articles now have feedback [[Forms]].
 >
 > **[4:08](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/example-of-a-knowledgebase-optimization?u=76281980&t=248)** Alex runs a test.
 >
@@ -3713,13 +3654,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), data (3), [[Analytics]] (2), teams (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (1), [[Dashboards]] (1), [[Forms]] (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### You try it: Knowledge base optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-knowledgebase-optimization?u=76281980)
+#### [You try it: Knowledge base optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/you-try-it-knowledgebase-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3751,12 +3691,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Knowledge base optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-knowledgebase-optimization?u=76281980)
+#### [Review it: Knowledge base optimization](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/review-it-knowledgebase-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3818,7 +3756,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), next (3), [[Search]] (2), management (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -3828,14 +3765,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further your journey into incident management
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980)
+#### [Further your journey into incident management](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=0)** - [Instructor] Want to take your incident reduction skills to the next level?
 >
-> **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=3)** Check out HDI's Revolutionizing Incident Management, Google's approach to incident prevention, and [DevOps.com](https://DevOps.com)'s incident reduction strategies.
+> **[0:03](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=3)** Check out HDI's Revolutionizing Incident Management, [[Google]]'s approach to incident prevention, and [[[DevOps]].com](https://DevOps.com)'s incident reduction strategies.
 >
 > **[0:12](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=12)** Looking to deepen your approach to shifting incidents left?
 >
@@ -3857,7 +3793,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=57)** Dive deeper into fewer reassignments and faster resolutions.
 >
-> **[1:01](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=61)** Strengthen initial triage, clarify team responsibilities, and refine intelligent routing.
+> **[1:01](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=61)** Strengthen initial triage, clarify team responsibilities, and refine intelligent [[Routing]].
 >
 > **[1:06](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=66)** Every step you take improves efficiency and user satisfaction, so continue your journey with these best practices.
 >
@@ -3889,7 +3825,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=140)** Consider your role, the people you influence and the outcomes you drive for.
 >
-> **[2:24](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=144)** For deeper learning, check out these LinkedIn Learning courses.
+> **[2:24](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=144)** For deeper learning, check out these [[LinkedIn]] Learning courses.
 >
 > **[2:28](https://www.linkedin.com/learning/putting-itil-into-practice-incident-management/further-your-journey-into-incident-management?u=76281980&t=148)** And if you'd like to continue the conversation, connect with me on LinkedIn.
 >
@@ -3897,7 +3833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), management (3), [[Automation]] (2), ai (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Google]] (1), [[DevOps]] (1), [[Routing]] (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [devops.com](https://devops.com) (1)
 > **Env Vars:** hdi (1)

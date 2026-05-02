@@ -101,14 +101,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Need to install and secure your Microsoft Teams sessions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/need-to-install-and-secure-your-microsoft-teams-sessions?u=76281980)
+#### [Need to install and secure your Microsoft Teams sessions?](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/need-to-install-and-secure-your-microsoft-teams-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/need-to-install-and-secure-your-microsoft-teams-sessions?u=76281980&t=0)** - [Robert] If you are an IT administrator or an aspiring one, you've probably been following the problems that many video conferencing programs have been having with security and functionality.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/need-to-install-and-secure-your-microsoft-teams-sessions?u=76281980&t=11)** Microsoft Teams is a fully featured collaboration program that relies on proven technology from Microsoft to securely connect video, audio, share files, and work with groups of staff and guests in one application.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/need-to-install-and-secure-your-microsoft-teams-sessions?u=76281980&t=11)** [[Microsoft Teams]] is a fully featured collaboration program that relies on proven technology from [[Microsoft]] to securely connect video, audio, share files, and work with groups of staff and guests in one application.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/need-to-install-and-secure-your-microsoft-teams-sessions?u=76281980&t=24)** In this Team's course, I use hands-on demonstrations on how to install and secure your Microsoft Teams sessions.
 >
@@ -124,7 +123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[Microsoft]] (2), teams (2), [[Security]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[Microsoft]] (2)
 > **Prerequisites:** install (1), configure (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [robert] (1)
@@ -134,18 +133,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Teams admin center
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980)
+#### [Introduction to Teams admin center](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=0)** - [Instructor] Microsoft has an admin center for various different services that it offers.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=0)** - [Instructor] [[Microsoft]] has an admin center for various different services that it offers.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=5)** If we log into admin.[microsoft.com](https://microsoft.com), as you see here, and we're going to be logged into the Microsoft 365 admin center, and in the lower left, you can click on all admin centers, or if you see the one you want to open, you can open it from there.
+> **[0:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=5)** If we log into admin.[microsoft.com](https://microsoft.com), as you see here, and we're going to be logged into the [[Microsoft 365]] admin center, and in the lower left, you can click on all admin centers, or if you see the one you want to open, you can open it from there.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=19)** I'm going to click on Teams after opening the all admin centers.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=24)** And here we have the Microsoft Teams admin center.
+> **[0:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=24)** And here we have the [[Microsoft Teams]] admin center.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=27)** Let's take a look around.
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=93)** There's lots of other things that we can set up, such as team policies, templates, click on devices and here we can add mobile devices, such as phones, team rooms, displays, even locations, as well as users.
 >
-> **[1:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=110)** Now, the users that you see here, are linked back to Azure active directory.
+> **[1:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=110)** Now, the users that you see here, are linked back to [[Microsoft Entra ID|Azure active directory]].
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980&t=115)** So if you have Azure active directory already set up and you've added users there, they will be synchronized here.
 >
@@ -187,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Microsoft Teams]] (5), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (5), [[Microsoft]] (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1), find (1)
@@ -196,12 +194,11 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** pbx (1)
 
-#### Configure coexistence mode for the organization and user
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-coexistence-mode-for-the-organization-and-user?u=76281980)
+#### [Configure coexistence mode for the organization and user](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-coexistence-mode-for-the-organization-and-user?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-coexistence-mode-for-the-organization-and-user?u=76281980&t=0)** - [Instructor] I'm in the Microsoft Teams admin center, logged in as the global administrator.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-coexistence-mode-for-the-organization-and-user?u=76281980&t=0)** - [Instructor] I'm in the [[Microsoft Teams]] admin center, logged in as the global administrator.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-coexistence-mode-for-the-organization-and-user?u=76281980&t=4)** And if I scroll down from my dashboard down to where it says org wide settings, so you can expand that.
 >
@@ -241,11 +238,11 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-coexistence-mode-for-the-organization-and-user?u=76281980&t=116)** If you choose the Skype for Business, it's going to have limited features.
 >
-> **[2:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-coexistence-mode-for-the-organization-and-user?u=76281980&t=120)** And it all depends on your coexistence mode, coexistence and app preferences for Skype users is just temporary as Microsoft moves quickly to replace Skype for Business applications and move completely to Microsoft Teams.
+> **[2:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-coexistence-mode-for-the-organization-and-user?u=76281980&t=120)** And it all depends on your coexistence mode, coexistence and app preferences for Skype users is just temporary as [[Microsoft]] moves quickly to replace Skype for Business applications and move completely to Microsoft Teams.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (14), teams (12), [[Microsoft Teams]] (3), next (3), application (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Microsoft]] (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -255,16 +252,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Plan for successful network deployment: Network Planner
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980)
+#### [Plan for successful network deployment: Network Planner](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980&t=0)** - [Instructor] The Network Planner Tool is a tool and the Teams admin center, which is designed to assist the admin to determine and organize network requirements for connecting to Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980&t=0)** - [Instructor] The Network Planner Tool is a tool and the Teams admin center, which is designed to assist the admin to determine and organize network requirements for connecting to [[Microsoft Teams]].
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980&t=11)** When you use the Network Planner, you can do several things such as you can create representations called personas of your organization using sites and Microsoft recommended personas.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980&t=11)** When you use the Network Planner, you can do several things such as you can create representations called personas of your organization using sites and [[Microsoft]] recommended personas.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980&t=23)** A persona could be an office worker, a remote worker, a Teams room system device, or many other things.
+> **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980&t=23)** A persona could be an [[Microsoft Office|office]] worker, a remote worker, a Teams room system device, or many other things.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980&t=30)** You can even create custom ones.
 >
@@ -310,7 +306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), [[Microsoft Teams]] (4), [[Microsoft Office|Office]] (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[Microsoft Office|Office]] (3), [[Microsoft]] (1)
 > **Analogies:** such as (4), for instance (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Definitions:** is a  (2)
@@ -319,12 +315,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bandwidth capacity: Voice, video, meetings, live events
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980)
+#### [Bandwidth capacity: Voice, video, meetings, live events](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=0)** - [Instructor] I'm in the Microsoft Teams admin center.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=0)** - [Instructor] I'm in the [[Microsoft Teams]] admin center.
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=2)** Let's take a deeper look at the network planner.
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=14)** We see here there's a default plan under network plans.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=17)** I'm going to click on default plan, and we can see there's a Local Office.
+> **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=17)** I'm going to click on default plan, and we can see there's a Local [[Microsoft Office|Office]].
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=21)** If I click on Local Office, I can see that this office, which I went ahead and pre-added has 100 users, it has a specific subnet and it has various different capacities.
 >
@@ -382,7 +377,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=134)** I'll say we have 500 megabits.
 >
-> **[2:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=136)** For the PSTN, this is for the Public Switch Telephone Network egress, which means out to the rest of the world.
+> **[2:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=136)** For the PSTN, this is for the Public Switch Telephone Network egress, which means out to the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[2:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=143)** We can choose either the VoIP or local.
 >
@@ -400,7 +395,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=180)** And there's some other changes as well.
 >
-> **[3:02](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=182)** Now, Microsoft did include some personas already.
+> **[3:02](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=182)** Now, [[Microsoft]] did include some personas already.
 >
 > **[3:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/bandwidth-capacity-voice-video-meetings-live-events?u=76281980&t=185)** The Teams rooms, remote worker and office worker.
 >
@@ -452,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (12), teams (3), [[Microsoft Teams]] (2), [[Microsoft]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (12), [[Microsoft Teams]] (2), [[Microsoft]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (13)
 > **Env Vars:** wan (4), pstn (1)
 > **Cross-References:** go back to (3)
@@ -461,14 +456,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 
-#### Assess and troubleshoot network readiness
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980)
+#### [Assess and troubleshoot network readiness](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=0)** - [Instructor] The Microsoft Teams Network Testing Companion is a tool that Teams administrators can use to simulate user sessions and traffic, when they test the available network quality settings for Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=0)** - [Instructor] The [[Microsoft Teams]] Network Testing Companion is a tool that Teams administrators can use to simulate user sessions and traffic, when they test the available network quality settings for Microsoft Teams.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=12)** These tests include several areas, such as the overall connectivity to Microsoft 365 on the required ports.
+> **[0:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=12)** These tests include several areas, such as the overall connectivity to [[Microsoft 365]] on the required ports.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=20)** And its certifies devices are connected to the client and they meet the network quality minimum standards for voice communication.
 >
@@ -482,7 +476,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=60)** And after that, we need to create shortcuts on our desktop, So we can type in the Invoke-ToolCreateShortcuts commandlet.
 >
-> **[1:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=67)** Next, they need to open up PowerShell, as an admin.
+> **[1:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=67)** Next, they need to open up [[Powershell]], as an admin.
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=70)** So, right click on the start button and open up PowerShell as an admin, click yes.
 >
@@ -514,7 +508,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=132)** I'll click to allow access.
 >
-> **[2:15](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=135)** While we're waiting, we can see it's showing, my Windows Operating System, showing that's a 64 bit and the Windows version, as well as the internet connection has been verified.
+> **[2:15](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=135)** While we're waiting, we can see it's showing, my [[Windows]] Operating System, showing that's a 64 bit and the Windows version, as well as the internet connection has been verified.
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assess-and-troubleshoot-network-readiness?u=76281980&t=147)** And we can see green check mark saying that everything is looking good.
 >
@@ -530,7 +524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (4), teams (2), next (2), [[Powershell]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[Powershell]] (2), [[Windows]] (2), [[Microsoft 365]] (1)
 > **Prerequisites:** install (4)
 > **Tools:** powershell (2)
 > **UI Navigation:** click on (2)
@@ -538,18 +532,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure network ports and protocols used by Teams client
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980)
+#### [Configure network ports and protocols used by Teams client](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=0)** - [Instructor] All clients that use Microsoft 365 cloud-based services need to connect to the Microsoft 365 endpoints.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=0)** - [Instructor] All clients that use [[Microsoft 365]] cloud-based services need to connect to the Microsoft 365 endpoints.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=7)** The endpoints represent sets of destination IP addresses, DNS domain names, as well as URLs for Microsoft traffic on the internet.
+> **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=7)** The endpoints represent sets of destination IP addresses, DNS domain names, as well as URLs for [[Microsoft]] traffic on the internet.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=17)** Let's take a look at the different ports that you need to use.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=20)** In these two scenarios, we have the general connection to the Microsoft Teams site, and then we have the traffic that gets passed back and forth.
+> **[0:20](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=20)** In these two scenarios, we have the general connection to the [[Microsoft Teams]] site, and then we have the traffic that gets passed back and forth.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=29)** So the first one is going to be connection using the client IP address as the source IP and the destination DNS and port is going to be TCP port 80, as well as 443.
 >
@@ -567,11 +560,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=84)** So where do you go?
 >
-> **[1:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=85)** Well, you need to check those at endpoints.[office.com/version](https://office.com/version).
+> **[1:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=85)** Well, you need to check those at endpoints.[[[Microsoft Office|office]].com/version](https://office.com/version).
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=90)** Because those ports may change, you may need to go in and make changes to the firewalls on your clients, as well as your outbound firewall at the gateway.
 >
-> **[1:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=100)** To check outbound ports on your computer, just right-click on your start button, go to search and type in Defender Firewall and open that up.
+> **[1:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=100)** To check outbound ports on your computer, just right-click on your start button, go to search and type in [[Microsoft Defender|Defender]] Firewall and open that up.
 >
 > **[1:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-network-ports-and-protocols-used-by-teams-client?u=76281980&t=112)** Now there's inbound as well as outbound ports.
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), [[Microsoft Teams]] (6), dns (3), [[Microsoft 365]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (6), [[Microsoft 365]] (2), [[Microsoft]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** dns (3), udp (2), tcp (1)
 > **UI Navigation:** click on (3), right-click (1), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -620,8 +613,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 
-#### Configure media optimizations by using QoS
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-media-optimizations-by-using-qos?u=76281980)
+#### [Configure media optimizations by using QoS](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-media-optimizations-by-using-qos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,7 +661,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-media-optimizations-by-using-qos?u=76281980&t=125)** Port-based tagging is the most reliable method because it's going to work universally throughout all platforms.
 >
-> **[2:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-media-optimizations-by-using-qos?u=76281980&t=131)** So it doesn't matter which brand of quality product that you have, such as Cisco or Dell, HP, and others, they'll all work along with your Windows and Mac environments, and it's also the easiest to implement.
+> **[2:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-media-optimizations-by-using-qos?u=76281980&t=131)** So it doesn't matter which brand of quality product that you have, such as Cisco or Dell, HP, and others, they'll all work along with your [[Windows]] and Mac environments, and it's also the easiest to implement.
 >
 > **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-media-optimizations-by-using-qos?u=76281980&t=146)** The other option is going to be group policy object, and this happens when you implement QoS by using a group policy object in Windows to direct client devices to insert a differentiated services code point, or DSCP marker, in the IP packet headers.
 >
@@ -691,18 +683,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), teams (4), [[Windows]] (2), data (1), management (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **Env Vars:** dscp (3), acl (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** required to (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure and manage locations
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980)
+#### [Configure and manage locations](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=0)** - [Instructor] I'm logged into the Microsoft Teams admin center.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=0)** - [Instructor] I'm logged into the [[Microsoft Teams]] admin center.
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=2)** And as you can see in the left-hand side, I've clicked on emergency addresses underneath locations.
 >
@@ -720,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=57)** I'm going to click on emergency addresses and I'm going to select the one address that I've already added in just so you can see what it looks like.
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=63)** Here we have the address that you see at the top with the Portland office, the location ID, and here's where we see places, phone numbers, subnets, all these different things for devices.
+> **[1:03](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=63)** Here we have the address that you see at the top with the Portland [[Microsoft Office|office]], the location ID, and here's where we see places, phone numbers, subnets, all these different things for devices.
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=76)** And when we fill in these, it'll also fill in under network topology and network locations by default.
 >
@@ -758,7 +749,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=175)** So if I go over to where it says network topology, you can see I haven't created any network sites yet, so I'm going to go ahead click a network site to add, I can choose global for my calling policy, but I can also go in and create additional calling and policies, and then I'll see other options in the dropdown.
 >
-> **[3:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=194)** And same thing with the emergency call routing policy.
+> **[3:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=194)** And same thing with the emergency call [[Routing]] policy.
 >
 > **[3:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=196)** I've gone ahead and given the name of this particular network topology Portland, and then I'll click to add subnets, and I'll put in a network range and click apply.
 >
@@ -780,11 +771,11 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=261)** Although this shows the directions how to make a location with all of its devices, it doesn't really give the big picture on why and how this all works together to create emergency locations for call routing.
 >
-> **[4:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=273)** And that is beyond the scope of this course, but you can find out more by going to [microsoft.com/teams](https://microsoft.com/teams).
+> **[4:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-locations?u=76281980&t=273)** And that is beyond the scope of this course, but you can find out more by going to [[[Microsoft]].com/teams](https://microsoft.com/teams).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (3), teams (2), [[Microsoft Office|Office]] (2), [[Search]] (2), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (3), [[Microsoft Office|Office]] (2), [[Routing]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (6), go to (2), select the (1), dropdown (1)
 > **Analogies:** such as (3), picture (1)
 > **CLI Commands:** make (2), find (1)
@@ -798,16 +789,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Required licensing for compliance features
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/required-licensing-for-compliance-features?u=76281980)
+#### [Required licensing for compliance features](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/required-licensing-for-compliance-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/required-licensing-for-compliance-features?u=76281980&t=0)** - [Instructor] There's lots of different types of licensing for various different Microsoft and Office 365 products.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/required-licensing-for-compliance-features?u=76281980&t=0)** - [Instructor] There's lots of different types of licensing for various different [[Microsoft]] and [[Microsoft Office|Office]] 365 [[Microsoft Products|products]].
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/required-licensing-for-compliance-features?u=76281980&t=6)** Let's take a look at advanced auditing.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/required-licensing-for-compliance-features?u=76281980&t=8)** Advanced auditing in Microsoft 365 can provide retention of audit logs for user and admin activities, and it provides the ability to create a custom audit log retention policy.
+> **[0:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/required-licensing-for-compliance-features?u=76281980&t=8)** Advanced auditing in [[Microsoft 365]] can provide retention of audit logs for user and admin activities, and it provides the ability to create a custom audit log retention policy.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/required-licensing-for-compliance-features?u=76281980&t=19)** And we can use that to manage audit log retention for other Microsoft 365 services.
 >
@@ -865,22 +855,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Microsoft Office|Office]] (8), data (7), [[Microsoft]] (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Microsoft 365]] (9), [[Microsoft Office|Office]] (8), [[Microsoft]] (3), [[Microsoft Products|Products]] (3)
 > **Prerequisites:** you'll need (2)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Appropriate licensing for guest access
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980)
+#### [Appropriate licensing for guest access](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980&t=0)** - [Instructor] Guest access can be used with all Microsoft 365 Business Standard, Enterprise and Education Subscriptions.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980&t=0)** - [Instructor] Guest access can be used with all [[Microsoft 365]] Business Standard, Enterprise and Education Subscriptions.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980&t=7)** No additional 365 license is necessary.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980&t=10)** There's a billing model for Azure Active Directory external identities, which applies only to guests in Microsoft 365.
+> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980&t=10)** There's a billing model for [[Microsoft Entra ID|Azure Active Directory]] external identities, which applies only to guests in Microsoft 365.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980&t=17)** That means that only people from outside your organization can be invited as guests.
 >
@@ -902,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980&t=48)** It's just a group that's in the resource group section.
 >
-> **[0:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980&t=52)** And the idea is going to be for me to link my Azure subscription to this new group.
+> **[0:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980&t=52)** And the idea is going to be for me to link my [[Microsoft Azure|Azure]] subscription to this new group.
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-guest-access?u=76281980&t=58)** I'm going to go back to home and I'm going to go to Azure Active Directory.
 >
@@ -922,19 +911,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (4), [[Microsoft 365]] (2), business (1), [[Search]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (4), [[Microsoft 365]] (2), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Appropriate licensing: Calls, phone system, resource account
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980)
+#### [Appropriate licensing: Calls, phone system, resource account](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980&t=0)** - [Instructor] If you have a small- or medium-size business with less than 300 users, you have multiple ways to get voice features, such as you can buy a Microsoft 365 Business plan and a 365 Business Voice.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980&t=0)** - [Instructor] If you have a small- or medium-size business with less than 300 users, you have multiple ways to get voice features, such as you can buy a [[Microsoft 365]] Business plan and a 365 Business Voice.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980&t=14)** You can buy an Enterprise E1 or E3 and the Business Voice.
 >
@@ -942,9 +930,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980&t=27)** Beyond the licenses, there's two different types of voice features.
 >
-> **[0:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980&t=32)** The first one is the Microsoft 365 Business Voice with a Calling Plan, and you should get this if you want all phone number management and billing to be handled by Microsoft.
+> **[0:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980&t=32)** The first one is the Microsoft 365 Business Voice with a Calling Plan, and you should get this if you want all phone number management and billing to be handled by [[Microsoft]].
 >
-> **[0:42](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980&t=42)** The second one would be the Direct Routing Plan, and that's where you purchase it without a Calling Plan.
+> **[0:42](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980&t=42)** The second one would be the Direct [[Routing]] Plan, and that's where you purchase it without a Calling Plan.
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-calls-phone-system-resource-account?u=76281980&t=48)** So you want to get this if you want all your phone number management and billing to be handled by your third-party telephone provider.
 >
@@ -966,20 +954,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (6), business (5), management (2), [[Routing]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Routing]] (2), [[Microsoft]] (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), you need to have (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Appropriate licensing for Teams Rooms, common area phones
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980)
+#### [Appropriate licensing for Teams Rooms, common area phones](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980&t=0)** - [Instructor] Microsoft has two dedicated skews for licensing meetings and calling on a per device basis for meeting room devices.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980&t=0)** - [Instructor] [[Microsoft]] has two dedicated skews for licensing meetings and calling on a per device basis for meeting room devices.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980&t=9)** Meeting room devices, such as Microsoft Teams rooms, Microsoft Surface Hub, and Collaboration Bars for Microsoft teams.
+> **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980&t=9)** Meeting room devices, such as [[Microsoft Teams]] rooms, Microsoft Surface Hub, and Collaboration Bars for Microsoft teams.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980&t=16)** So you can see here for the shared communication devices, you've got the Teams Rooms Standard and the Teams Rooms Premium.
 >
@@ -991,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980&t=47)** And with the online options, you see a lot more options as far as the type of licenses that you can get in order to satisfy the abilities that you see on the left-hand side.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980&t=57)** Next, we see the without direct routing domestic or international calling plan with Microsoft 365 Voice.
+> **[0:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980&t=57)** Next, we see the without direct [[Routing]] domestic or international calling plan with [[Microsoft 365]] Voice.
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-teams-rooms-common-area-phones?u=76281980&t=64)** And on the right-hand side, we see Skype for Business Server Plus client access license.
 >
@@ -1005,18 +992,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Microsoft]] (3), [[Microsoft Teams]] (3), [[Microsoft 365]] (3), teams (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Teams]] (3), [[Microsoft 365]] (3), [[Routing]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Appropriate licensing for apps in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980)
+#### [Appropriate licensing for apps in Teams](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=0)** - [Instructor] There are lots of different types of licenses for Microsoft Teams, phones and other types of messaging, but we don't purchase those licenses in the team's admin center.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=0)** - [Instructor] There are lots of different types of licenses for [[Microsoft Teams]], phones and other types of messaging, but we don't purchase those licenses in the team's admin center.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=10)** We need to go to the Microsoft 365 admin center at admin.[microsoft.com](https://microsoft.com).
+> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=10)** We need to go to the [[Microsoft 365]] admin center at admin.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=16)** And here's how we can purchase those licenses.
 >
@@ -1032,7 +1018,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=56)** For instance, here's Microsoft 365 E5 without audio conferencing.
 >
-> **[1:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=61)** We also see E discovery and audit, E5 month to month in case you don't want to buy it by the year and if you scroll down, you'll see office 365 licenses, many are duplicated to the Microsoft 365, and I scroll down, we see the business app option and collaboration and communication.
+> **[1:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=61)** We also see E discovery and audit, E5 month to month in case you don't want to buy it by the year and if you scroll down, you'll see [[Microsoft Office|office]] 365 licenses, many are duplicated to the Microsoft 365, and I scroll down, we see the business app option and collaboration and communication.
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=79)** So something say teams such as teams room premium, but others are just going to be licenses that just give you teams capabilities.
 >
@@ -1040,7 +1026,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=90)** So I click on details, here's the option for purchasing either month to month or getting the annual license at $180 per license per year.
 >
-> **[1:41](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=101)** And when I scroll down, it gives you a great list of the things that it includes and then it does a comparison to the right, with other products and you can see how those match up.
+> **[1:41](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=101)** And when I scroll down, it gives you a great list of the things that it includes and then it does a comparison to the right, with other [[Microsoft Products|products]] and you can see how those match up.
 >
 > **[1:54](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/appropriate-licensing-for-apps-in-teams?u=76281980&t=114)** Now, if I decide to, I can click on the teams room premium, for instance, and click on details and now I get the same kind of thing where I can look at the monthly costs, the annual cost and the comparison with other products.
 >
@@ -1084,7 +1070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), [[Microsoft 365]] (6), product (3), [[Microsoft Office|Office]] (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (3), [[Microsoft Products|Products]] (3), [[Microsoft Teams]] (2), [[Microsoft]] (2)
 > **UI Navigation:** click on (13), scroll down (4), go to (2)
 > **Analogies:** for instance (4), such as (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -1096,8 +1082,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Plan policy assignment for users and groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-policy-assignment-for-users-and-groups?u=76281980)
+#### [Plan policy assignment for users and groups](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-policy-assignment-for-users-and-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,17 +1150,16 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-policy-assignment-for-users-and-groups?u=76281980&t=165)** And this separate Teams from other programs that lets everyone connect to anyone they want, and share any data they like.
 >
-> **[2:51](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-policy-assignment-for-users-and-groups?u=76281980&t=171)** That can cause a tremendous security risk to an organization.
+> **[2:51](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-policy-assignment-for-users-and-groups?u=76281980&t=171)** That can cause a tremendous [[Security Risk]] to an organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Search]] (1), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Security Risk]] (1)
 > **UI Navigation:** click on (4), go to (3)
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create team templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980)
+#### [Create team templates](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1187,7 +1171,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=19)** There's a couple different ways that we can create teams from a template.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=22)** You can either use an existing Teams template or copy the settings over, and you can create a new team from a base template, which is only available in PowerShell.
+> **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=22)** You can either use an existing Teams template or copy the settings over, and you can create a new team from a base template, which is only available in [[Powershell]].
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=32)** If you want to create your own template, you should create a team without members and then configure everything the way you want it when you finalize your team.
 >
@@ -1197,7 +1181,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=53)** Be sure to let the team know what the template is being used for.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=57)** I'm in the Microsoft Teams client, on a Windows 10 computer, and we can see that there's one team currently in our list, which is Christmas Party.
+> **[0:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=57)** I'm in the [[Microsoft Teams]] client, on a [[Windows 10]] computer, and we can see that there's one team currently in our list, which is Christmas Party.
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=66)** Now what I want to do is I want to join or create a team, but I want to create a team from a template.
 >
@@ -1209,7 +1193,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=91)** So I'm going to go and choose to Manage a Project, which will be a pretty common one that many organizations will use, and you can see that along with the team comes apps.
 >
-> **[1:42](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=102)** So, in this case, we see Approvals, Lists, OneNote, and others.
+> **[1:42](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=102)** So, in this case, we see Approvals, Lists, [[OneNote]], and others.
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-team-templates?u=76281980&t=107)** If I go back and I choose a different option, let's say Organize a Store, we can see different apps come along with it, along with the different channels.
 >
@@ -1235,7 +1219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), business (1), [[Powershell]] (1), [[Microsoft Teams]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (1), [[Microsoft Teams]] (1), [[Windows 10]] (1), [[OneNote]] (1)
 > **Exercise Files:** template (12)
 > **UI Navigation:** click on (2)
 > **Cross-References:** go back to (1)
@@ -1243,20 +1227,19 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up policies for Office 365 Groups creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980)
+#### [Set up policies for Office 365 Groups creation](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=0)** - [Instructor] As the Teams administrator, you have the ability to give users rights to be able to create their own distribution groups, as well as other types of rights and roles.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=10)** But we need to be logged into the Microsoft 365 Admin Center, which can then take us to the Exchange Admin Center so we can set this up.
+> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=10)** But we need to be logged into the [[Microsoft 365]] Admin Center, which can then take us to the Exchange Admin Center so we can set this up.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=17)** I'm going to click on Exchange.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=20)** And what I'd like to do is go to Roles and choose User Roles, but User Roles hasn't been added yet into the new Exchange Admin Center.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=27)** So we have to go to the classic Exchange Admin Center until Microsoft adds that in.
+> **[0:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=27)** So we have to go to the classic Exchange Admin Center until [[Microsoft]] adds that in.
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=31)** Now go over to where it says Permissions.
 >
@@ -1286,7 +1269,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=92)** I'm also going to go down to where it says Teams, and choose the MyTeamMailboxes option as well and click save.
 >
-> **[1:41](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=101)** Now, the only way to apply this to the users is to go into PowerShell as the admin.
+> **[1:41](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=101)** Now, the only way to apply this to the users is to go into [[Powershell]] as the admin.
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/set-up-policies-for-office-365-groups-creation?u=76281980&t=105)** So I'll need to connect to Exchange Online in order to apply this particular policy.
 >
@@ -1334,19 +1317,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (2), [[Powershell]] (2), prompt (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Microsoft 365]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (3), click on (1), double-click (1)
 > **Tools:** powershell (2), command prompt (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Office 365 Groups: Classifications, expiration policy, naming policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980)
+#### [Configure Office 365 Groups: Classifications, expiration policy, naming policy](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=0)** - [Instructor] When creating Microsoft 365 Groups, you should add information about the group's purpose.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=0)** - [Instructor] When creating [[Microsoft 365]] Groups, you should add information about the group's purpose.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=6)** For example, you might want to inform users about how the group is going to be used.
 >
@@ -1358,7 +1340,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=32)** Group classifications do not exist by default.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=35)** Administrators can only create them using PowerShell.
+> **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=35)** Administrators can only create them using [[Powershell]].
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=39)** Here are the commands for defining the classifications.
 >
@@ -1366,7 +1348,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=51)** And then, we go on to the, if command.
 >
-> **[0:54](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=54)** The template command gets the Azure AD Directory Setting template.
+> **[0:54](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=54)** The template command gets the [[Microsoft Entra ID|Azure AD]] Directory Setting template.
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=58)** And then the if command is going to get the Azure AD Directory Setting that you're looking for, and it's going to equal the template ID that you see here.
 >
@@ -1388,13 +1370,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=113)** A naming policy can help users by creating a prefix or suffix naming policy.
 >
-> **[2:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=120)** And that will automatically add, either to the beginning or to the end of the group, a specific word or words.
+> **[2:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=120)** And that will automatically add, either to the beginning or to the end of the group, a specific [[Microsoft Word|word]] or words.
 >
 > **[2:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=128)** You also have the option to specify a variety of words that will be blocked in groups created by users, such as GM, Billing, Payments, HR, Social Security, Finance, those kinds of things.
 >
 > **[2:21](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=141)** The Microsoft 365 naming policies are not actually set in the Teams admin center.
 >
-> **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=146)** We need to go to portal.[azure.com](https://azure.com), and then click on Azure Active Directory.
+> **[2:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=146)** We need to go to portal.[[[Microsoft Azure|azure]].com](https://azure.com), and then click on [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[2:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=152)** After that, we can go to Groups.
 >
@@ -1440,11 +1422,11 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=249)** The attributes are not editable, but if you choose the string, then you can just type in whatever it is that you'd like.
 >
-> **[4:15](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=255)** Classifications, naming policies are all ways we can manage and cleanup groups used by Microsoft Teams.
+> **[4:15](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-office-365-groups-classifications-expiration-policy-naming-policy?u=76281980&t=255)** Classifications, naming policies are all ways we can manage and cleanup groups used by [[Microsoft Teams]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Entra ID|Azure ad]] (2), data (2), [[Microsoft Word|Word]] (2), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Entra ID|Azure ad]] (2), [[Microsoft Word|Word]] (2), [[Powershell]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** go to (3), click on (3)
 > **Analogies:** for example (2), such as (2), for instance (1)
 > **Exercise Files:** template (4)
@@ -1453,12 +1435,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **URLs:** [azure.com](https://azure.com) (1)
 
-#### Archive, unarchive, restore, and delete a team
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/archive-unarchive-restore-and-delete-a-team?u=76281980)
+#### [Archive, unarchive, restore, and delete a team](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/archive-unarchive-restore-and-delete-a-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/archive-unarchive-restore-and-delete-a-team?u=76281980&t=0)** - [Instructor] At some point when you're managing Microsoft Teams, it's going to become necessary to either retain or delete or archive a team that's no longer being used.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/archive-unarchive-restore-and-delete-a-team?u=76281980&t=0)** - [Instructor] At some point when you're managing [[Microsoft Teams]], it's going to become necessary to either retain or delete or archive a team that's no longer being used.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/archive-unarchive-restore-and-delete-a-team?u=76281980&t=9)** Both options stop users from modifying team content and using that team for further collaboration.
 >
@@ -1474,7 +1455,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/archive-unarchive-restore-and-delete-a-team?u=76281980&t=40)** You can see this is going to freeze all the team activity, but you can still add or remove members to be able to read it.
 >
-> **[0:46](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/archive-unarchive-restore-and-delete-a-team?u=76281980&t=46)** If you have a SharePoint site associated with it, then you can check that box to make the SharePoint site read-only as well.
+> **[0:46](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/archive-unarchive-restore-and-delete-a-team?u=76281980&t=46)** If you have a [[SharePoint]] site associated with it, then you can check that box to make the SharePoint site read-only as well.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/archive-unarchive-restore-and-delete-a-team?u=76281980&t=53)** And I'll click archive.
 >
@@ -1506,14 +1487,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (4), teams (2), [[SharePoint]] (2), hit (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[SharePoint]] (2)
 > **UI Navigation:** go to (2), click on (2), dropdown (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure and manage app policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-app-policies?u=76281980)
+#### [Configure and manage app policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-app-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1559,7 +1539,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-app-policies?u=76281980&t=105)** But if I know a letter, all I got to do is type the first letter.
 >
-> **[1:47](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-app-policies?u=76281980&t=107)** So I'll type the letter A for instance, and it's going to how me every single app that has partnered with Microsoft to be added into Teams.
+> **[1:47](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-app-policies?u=76281980&t=107)** So I'll type the letter A for instance, and it's going to how me every single app that has partnered with [[Microsoft]] to be added into Teams.
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-and-manage-app-policies?u=76281980&t=116)** So these are all vetted applications that can be added into Teams.
 >
@@ -1609,21 +1589,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), application (4), [[Search]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Prerequisites:** set up (3), install (1), setup (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform bulk user operations with PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980)
+#### [Perform bulk user operations with PowerShell](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=0)** - [Instructor] If you have a lot of users that you'd like to add into a Microsoft Team, then you can do that with PowerShell for bulk user operations.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=0)** - [Instructor] If you have a lot of users that you'd like to add into a [[Microsoft]] Team, then you can do that with [[Powershell]] for bulk user operations.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=8)** First thing I need to do is open up PowerShell in admin mode, and I need to install the modules for Microsoft Teams if it hasn't been done already.
+> **[0:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=8)** First thing I need to do is open up PowerShell in admin mode, and I need to install the modules for [[Microsoft Teams]] if it hasn't been done already.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=15)** And here's the command, Install-Module -Name MicrosoftTeams.
 >
@@ -1649,9 +1628,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=54)** And now, I'm connected.
 >
-> **[0:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=56)** And we can see that it shows my account, followed by the environment, which is the Azure Cloud, my tenant and tenant ID information, which are the same thing in this particular case.
+> **[0:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=56)** And we can see that it shows my account, followed by the environment, which is the [[Microsoft Azure|Azure]] Cloud, my tenant and tenant ID information, which are the same thing in this particular case.
 >
-> **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=66)** Now I'm back in my admin center, which is the Microsoft 365 Admin Center.
+> **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=66)** Now I'm back in my admin center, which is the [[Microsoft 365]] Admin Center.
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=71)** And we see some users that have the licenses.
 >
@@ -1661,11 +1640,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=78)** So I want to take the email addresses of each of these licensed users, and then put them into a text file, which I'll save as a CSV.
 >
-> **[1:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=87)** And all I need to type is the word email, to start with, followed by the email addresses.
+> **[1:27](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=87)** And all I need to type is the [[Microsoft Word|word]] email, to start with, followed by the email addresses.
 >
 > **[1:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=93)** I've got all three of my users added in, and you could add in hundreds or thousands of names at this point, if you'd like.
 >
-> **[1:38](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=98)** And you could also do this through Excel, and just save it as a CSV file as well.
+> **[1:38](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=98)** And you could also do this through [[Microsoft Excel|Excel]], and just save it as a CSV file as well.
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/perform-bulk-user-operations-with-powershell?u=76281980&t=103)** So I'll do save as, and I'll save it as importfile.csv.
 >
@@ -1725,7 +1704,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (5), [[Microsoft Teams]] (2), [[Microsoft]] (1), prompt (1), next (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Microsoft Teams]] (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
 > **Tools:** powershell (5), command prompt (1)
 > **Env Vars:** csv (3)
 > **UI Navigation:** click on (2), switch to (1)
@@ -1734,12 +1713,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to add a Team from scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/how-to-add-a-team-from-scratch?u=76281980)
+#### [How to add a Team from scratch](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/how-to-add-a-team-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/how-to-add-a-team-from-scratch?u=76281980&t=0)** - [Instructor] In Microsoft Teams, we can create a brand new team, right from the application and when a team is created, you'll also get a corresponding Microsoft 365 group, which is going to include a group inbox and calendar in Outlook, a SharePoint site, as well as One Note.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/how-to-add-a-team-from-scratch?u=76281980&t=0)** - [Instructor] In [[Microsoft Teams]], we can create a brand new team, right from the application and when a team is created, you'll also get a corresponding [[Microsoft 365]] group, which is going to include a group inbox and calendar in [[Microsoft Outlook|Outlook]], a [[SharePoint]] site, as well as One Note.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/how-to-add-a-team-from-scratch?u=76281980&t=16)** So let's build a team from scratch.
 >
@@ -1787,7 +1765,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/how-to-add-a-team-from-scratch?u=76281980&t=116)** I'm going to click on, add a channel and I'll call it Priv-Channel just for descriptive purposes.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/how-to-add-a-team-from-scratch?u=76281980&t=124)** If I hit the dropdown on privacy, we see we have standard or private.
+> **[2:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/how-to-add-a-team-from-scratch?u=76281980&t=124)** If I hit the dropdown on [[Privacy]], we see we have standard or private.
 >
 > **[2:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/how-to-add-a-team-from-scratch?u=76281980&t=128)** So if it's standard, it's accessible to everyone on the team.
 >
@@ -1825,7 +1803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Microsoft Teams]] (1), application (1), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1), [[SharePoint]] (1), [[Privacy]] (1)
 > **UI Navigation:** click on (6), dropdown (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1836,12 +1814,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure guest users, prevent users from adding guests
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980)
+#### [Configure guest users, prevent users from adding guests](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=0)** - [Instructor] I'm in the Microsoft Azure portal and what I'd like to do is I'd like to give a guest access to be able to do some administrative type of roles inside my tenant.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=0)** - [Instructor] I'm in the [[Microsoft Azure]] portal and what I'd like to do is I'd like to give a guest access to be able to do some administrative type of roles inside my tenant.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=9)** And this is a really good idea if you're going to be needing to give control to someone such as a contractor or a developer who needs access, and you don't really want to add them to your internal organization, so it's a little bit easier to remove them when it's time.
 >
@@ -1851,7 +1828,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=41)** So when I click on invite a users instead, and I'm going to put in the name, the email address and other information.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=48)** I've added in the information, and I'm using an account that's a free [outlook.com](https://outlook.com) account, which is outside of my tenant.
+> **[0:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=48)** I've added in the information, and I'm using an account that's a free [[[Microsoft Outlook|outlook]].com](https://outlook.com) account, which is outside of my tenant.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=55)** And this could be an account from anywhere, it could be from Gmail or anywhere else.
 >
@@ -1881,13 +1858,13 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=160)** At this point, the user will be able to see and perform any types of roles that you've added that user to.
 >
-> **[2:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=168)** Now, some roles you cannot add them to, others you can, you'll just need to look up at the [microsoft.com](https://microsoft.com), which roles are going to be appropriate for which type of guest.
+> **[2:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=168)** Now, some roles you cannot add them to, others you can, you'll just need to look up at the [[[Microsoft]].com](https://microsoft.com), which roles are going to be appropriate for which type of guest.
 >
-> **[2:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=177)** Using the Azure portal through the business to business platform, you can configure guest access to secure your guests and other users.
+> **[2:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980&t=177)** Using the [[Microsoft Azure|Azure]] portal through the business to business platform, you can configure guest access to secure your guests and other users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), business (2), [[Microsoft Azure]] (1), [[Microsoft Outlook|Outlook]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (6), go to (2), scroll down (1)
 > **Definitions:** is a  (3)
 > **URLs:** [outlook.com](https://outlook.com) (1), [microsoft.com](https://microsoft.com) (1)
@@ -1896,12 +1873,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### Configure permissions for Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980)
+#### [Configure permissions for Teams](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=0)** - [Instructor] There are a couple of different ways to collaborate with people outside of your organization when using Microsoft Teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=0)** - [Instructor] There are a couple of different ways to collaborate with people outside of your organization when using [[Microsoft Teams]].
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=6)** You can add them either as a guest user, or you can enable external access.
 >
@@ -1915,15 +1891,15 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=28)** Teams doesn't restrict the number of guests you can add.
 >
-> **[0:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=31)** However, the total number of guests that can be added to your tenant is based on what your Azure AD licensing is going to allow.
+> **[0:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=31)** However, the total number of guests that can be added to your tenant is based on what your [[Microsoft Entra ID|Azure AD]] licensing is going to allow.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=37)** External access allows you to communicate with users from other domains that are already licensed using Teams.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=44)** You can manage Microsoft Teams guest access features and capabilities through four different levels.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=50)** All of these authorization levels apply to your Microsoft 365 tenant, and each authorization level controls their experience.
+> **[0:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=50)** All of these authorization levels apply to your [[Microsoft 365]] tenant, and each authorization level controls their experience.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=58)** The first one is Azure Active Directory.
+> **[0:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=58)** The first one is [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=61)** Guest access in Microsoft Teams is going to rely on the Azure AD business-to-business platform.
 >
@@ -1931,21 +1907,20 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=71)** It will control the guest experience in Microsoft 365 Groups and Teams.
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=76)** Within Teams, you can control the guest experience in Microsoft Teams only, and with SharePoint Online and OneDrive for Business, you can control the guest experience in SharePoint Online as well as OneDrive for Business, Microsoft 365 Groups, and Microsoft Teams.
+> **[1:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=76)** Within Teams, you can control the guest experience in Microsoft Teams only, and with [[SharePoint]] Online and [[Microsoft OneDrive|OneDrive]] for Business, you can control the guest experience in SharePoint Online as well as OneDrive for Business, Microsoft 365 Groups, and Microsoft Teams.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-permissions-for-teams?u=76281980&t=91)** Guest and external access sounds confusing, but all it means is guests have no license and external users already have theirs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (5), teams (4), [[Microsoft 365]] (4), business (4), [[Microsoft Entra ID|Azure ad]] (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (5), [[Microsoft 365]] (4), [[Microsoft Entra ID|Azure ad]] (2), [[SharePoint]] (2), [[Microsoft OneDrive|Onedrive]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Configure guest and external access for Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-and-external-access-for-teams?u=76281980)
+#### [Configure guest and external access for Teams](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-and-external-access-for-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-and-external-access-for-teams?u=76281980&t=0)** - [Instructor] I'm going to configure guest access in Microsoft Teams as well as external access.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-and-external-access-for-teams?u=76281980&t=0)** - [Instructor] I'm going to configure guest access in [[Microsoft Teams]] as well as external access.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-and-external-access-for-teams?u=76281980&t=6)** If we go under Users in the Teams admin center, we see the option for Guest access as well as External.
 >
@@ -1995,7 +1970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), hit (2), [[Security]] (2), [[Microsoft Teams]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1)
 > **UI Navigation:** click on (2), dropdown (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2003,12 +1978,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove guests from a team organization or Entra ID (formerly Azure AD)
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980)
+#### [Remove guests from a team organization or Entra ID (formerly Azure AD)](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=0)** - [Instructor] A lot of IT administrators may not realize this, but all regular standard users can log in to portal.[azure.com](https://azure.com) as themselves, and they may be able to see more information than you'd like them to see, so you can certainly block that.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=0)** - [Instructor] A lot of IT administrators may not realize this, but all regular standard users can log in to portal.[[[Microsoft Azure|azure]].com](https://azure.com) as themselves, and they may be able to see more information than you'd like them to see, so you can certainly block that.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=13)** However, if you choose to not block that ability, and the user logs in, they're going to see this when they log in to the portal settings for Azure.
 >
@@ -2018,7 +1992,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=38)** Now if the user is a member of more than one organization, then they can select that organization and they'll have the option to delete it.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=44)** However, they cannot delete their home organization, which is the first one that they're added to when the administrator adds them into Azure Active Directory.
+> **[0:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=44)** However, they cannot delete their home organization, which is the first one that they're added to when the administrator adds them into [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/remove-guests-from-a-team-organization-or-azure-ad?u=76281980&t=53)** Now we can also do this from Azure Active Directory as the IT administrator.
 >
@@ -2040,7 +2014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (4), [[Microsoft Azure|Azure]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (4), [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** click on (2)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Definitions:** is a  (1)
@@ -2052,14 +2026,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assign Microsoft Teams admin roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980)
+#### [Assign Microsoft Teams admin roles](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=0)** - [Instructor] Microsoft provides several different ways that we can add teams roles for various different users.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=0)** - [Instructor] [[Microsoft]] provides several different ways that we can add teams roles for various different users.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=7)** The first way is in the Microsoft 365 admin center, I'm going to go to where it says users and then active users.
+> **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=7)** The first way is in the [[Microsoft 365]] admin center, I'm going to go to where it says users and then active users.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=15)** Next I'll just select a user from the list and this is a standard user at this point.
 >
@@ -2075,7 +2048,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=53)** Now we don't have to choose all of these, we can select whichever ones we want and then click save changes.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=59)** Rather than saving changes, I'm going to go on to the next way that we can do this and that is in Azure active directory.
+> **[0:59](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=59)** Rather than saving changes, I'm going to go on to the next way that we can do this and that is in [[Microsoft Entra ID|Azure active directory]].
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=69)** I'm going to go over to where it says users and select users and once again, I'll select one of the users, in this case, I'll select Al.
 >
@@ -2085,7 +2058,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=95)** There's administrator communications, et cetera.
 >
-> **[1:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=100)** I'm going to exit out of that as well and I'll take a look at the last option, which is in Microsoft teams admin center.
+> **[1:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=100)** I'm going to exit out of that as well and I'll take a look at the last option, which is in [[Microsoft Teams]] admin center.
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=110)** Things work a little bit differently here, instead of seeing the roles options, we're going to go to where it says, manage teams, where we can manage teams directly.
 >
@@ -2097,23 +2070,22 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=137)** We'll just add Charles, for instance, click apply and now Charles is going to be a member to start with, but I can certainly change that from member to owner as well and you can do that with each team on an individual basis.
 >
-> **[2:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=152)** Assigning admin roles can also be accomplished through PowerShell, but that feature is currently in flux as Microsoft moves from Skype for business to Microsoft teams.
+> **[2:32](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980&t=152)** Assigning admin roles can also be accomplished through [[Powershell]], but that feature is currently in [[Flux]] as Microsoft moves from Skype for business to Microsoft teams.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), next (3), [[Microsoft]] (2), [[Microsoft Teams]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Teams]] (2), [[Microsoft 365]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Powershell]] (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Analogies:** for instance (2)
 > **Tools:** powershell (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Plan threat policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980)
+#### [Plan threat policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=0)** - [Instructor] Microsoft recommends several different policies based on the type of protection that you'd like for Teams implementation.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=0)** - [Instructor] [[Microsoft]] recommends several different policies based on the type of protection that you'd like for Teams implementation.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=7)** The first is the baseline Teams protection, and you want to require multifactor authentication when the sign-in risk is medium or high.
 >
@@ -2129,7 +2101,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=48)** Be sure Teams and dependent services are also included in the list of apps.
 >
-> **[0:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=52)** Next, we want to apply app data protection policies, so we need to be sure that teams and the dependent services are included in that list of apps and update the policy for each platform, whether that's Windows, Android, or Apple.
+> **[0:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=52)** Next, we want to apply app data protection policies, so we need to be sure that teams and the dependent services are included in that list of apps and update the policy for each platform, whether that's [[Windows]], [[Android]], or Apple.
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=67)** And we want to include Teams and dependent services in the policy for compliance.
 >
@@ -2151,11 +2123,11 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=132)** Include Teams once again and dependent services in this policy.
 >
-> **[2:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=137)** Many of these settings can be done through the Teams apps, permissions policies in the Microsoft Teams Admin Center.
+> **[2:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=137)** Many of these settings can be done through the Teams apps, permissions policies in the [[Microsoft Teams]] Admin Center.
 >
 > **[2:24](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=144)** There is a global org wide policy that's already in place and you can go in and edit that and apply it to all users or you can create and edit a custom app policy to do the same.
 >
-> **[2:38](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=158)** For multifactor authentication, we can go into the Azure portal, select users.
+> **[2:38](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=158)** For multifactor authentication, we can go into the [[Microsoft Azure|Azure]] portal, select users.
 >
 > **[2:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=165)** And again, I'll just choose Al as an example, and then go to where it says authentication methods.
 >
@@ -2163,7 +2135,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=177)** We can also revoke multifactor authentication sessions and here's some authentication contact information as well.
 >
-> **[3:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=185)** If we go into the Microsoft 365 Admin Center, we can also open up the Security and Compliance Center, as well as the Microsoft 365 Compliance to set up additional policies there.
+> **[3:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=185)** If we go into the [[Microsoft 365]] Admin Center, we can also open up the Security and Compliance Center, as well as the Microsoft 365 Compliance to set up additional policies there.
 >
 > **[3:18](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-threat-policies?u=76281980&t=198)** They may not be Teams-specific, but they will affect all users in Microsoft 365.
 >
@@ -2171,7 +2143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (15), [[Microsoft 365]] (3), next (2), [[Security]] (2), [[Microsoft Teams]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft Teams]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Windows]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mfa (1)
 > **Tools:** azure portal (1)
@@ -2180,8 +2152,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and managing retention policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-and-managing-retention-policies?u=76281980)
+#### [Creating and managing retention policies](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-and-managing-retention-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2189,7 +2160,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-and-managing-retention-policies?u=76281980&t=9)** Data is going to be retained for compliance reasons and it's available for e-discovery until that retention period expires.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-and-managing-retention-policies?u=76281980&t=16)** We need to start out in the security and compliance center, which is protection.[office.com](https://office.com).
+> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-and-managing-retention-policies?u=76281980&t=16)** We need to start out in the security and compliance center, which is protection.[[[Microsoft Office|office]].com](https://office.com).
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-and-managing-retention-policies?u=76281980&t=22)** On the left hand side, I'll click on information governance and then I'll click on retention.
 >
@@ -2261,7 +2232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (10), next (4), data (3), [[Security]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (3), go to (1), dropdown (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
@@ -2269,14 +2240,13 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Plan for conditional access and MFA for Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980)
+#### [Plan for conditional access and MFA for Teams](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=0)** - [Instructor] With conditional access policies, you can specify requirements to websites and services prior to those accesses happening.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=9)** For example, your access requirements can include requiring multi-factor authentication before being able to log in.
+> **[0:09](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=9)** For example, your access requirements can include requiring [[Multi-factor Authentication]] before being able to log in.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=15)** There are two different types of dependencies that we can set up.
 >
@@ -2284,13 +2254,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=22)** And this means a user must satisfy the dependent service policy before accessing the calling app.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=28)** As an example, a user may satisfy SharePoint policies before signing into Microsoft Teams.
+> **[0:28](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=28)** As an example, a user may satisfy [[SharePoint]] policies before signing into [[Microsoft Teams]].
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=36)** The next type of policy enforcement is the late-bound policy enforcement, and that occurs after the user signs into the calling app.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=44)** Enforcement is deferred to when calling app requests a token from the downstream service.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=50)** Examples may include Microsoft Teams accessing Microsoft Planner.
+> **[0:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=50)** Examples may include Microsoft Teams accessing [[Microsoft]] Planner.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=55)** There are benefits to deploying conditional access.
 >
@@ -2312,11 +2282,11 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=110)** And finally, we can manage cost.
 >
-> **[1:53](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=113)** Moving access policies to Azure reduces the reliance on custom or on-premises solutions for conditional access.
+> **[1:53](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=113)** Moving access policies to [[Microsoft Azure|Azure]] reduces the reliance on custom or on-premises solutions for conditional access.
 >
 > **[2:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=121)** There are some prerequisites for using conditional access.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=124)** First, you must have a working Azure AD tenant with Azure AD Premium, or a trial license enabled.
+> **[2:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=124)** First, you must have a working [[Microsoft Entra ID|Azure AD]] tenant with Azure AD Premium, or a trial license enabled.
 >
 > **[2:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=131)** If needed, you can create one for free.
 >
@@ -2328,31 +2298,30 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=145)** And a group that the non-administrator user is a member of.
 >
-> **[2:29](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=149)** If you need to create a group, you can create and add members in Azure Active Directory.
+> **[2:29](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=149)** If you need to create a group, you can create and add members in [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[2:34](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-conditional-access-and-mfa-for-teams?u=76281980&t=154)** Conditional access policies are tools administrators can use to ensure certain conditions are met prior to allowing a user access to a resource.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Microsoft Entra ID|Azure ad]] (2), [[Multi-factor Authentication]] (1), [[SharePoint]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Microsoft Entra ID|Azure ad]] (2), [[Multi-factor Authentication]] (1), [[SharePoint]] (1), [[Microsoft]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** mfa (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create security and compliance alerts for Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-security-and-compliance-alerts-for-microsoft-teams?u=76281980)
+#### [Create security and compliance alerts for Microsoft Teams](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-security-and-compliance-alerts-for-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-security-and-compliance-alerts-for-microsoft-teams?u=76281980&t=0)** - [Instructor] We can create security and compliance alerts to let us know when something is out of compliance for Microsoft teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-security-and-compliance-alerts-for-microsoft-teams?u=76281980&t=0)** - [Instructor] We can create security and compliance alerts to let us know when something is out of compliance for [[Microsoft Teams]].
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-security-and-compliance-alerts-for-microsoft-teams?u=76281980&t=7)** I'm in the Microsoft 365 admin center and under admin centers in the left-hand side, I see the option for security or for compliance.
+> **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-security-and-compliance-alerts-for-microsoft-teams?u=76281980&t=7)** I'm in the [[Microsoft 365]] admin center and under admin centers in the left-hand side, I see the option for security or for compliance.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-security-and-compliance-alerts-for-microsoft-teams?u=76281980&t=16)** These are actually two different sites, but if you click on security, you'll see that security and compliance opens up.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-security-and-compliance-alerts-for-microsoft-teams?u=76281980&t=22)** At some point, Microsoft says, they will merge these two sites, but for now there is some overlap in what they can do, but there are some separate things you can only do in each individual site.
+> **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-security-and-compliance-alerts-for-microsoft-teams?u=76281980&t=22)** At some point, [[Microsoft]] says, they will merge these two sites, but for now there is some overlap in what they can do, but there are some separate things you can only do in each individual site.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-security-and-compliance-alerts-for-microsoft-teams?u=76281980&t=33)** I'm going to click on the alerts section and we have lots of options such as the dashboard, view alerts, alert policies, and manage advanced alerts.
 >
@@ -2408,7 +2377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), teams (2), [[Microsoft Teams]] (1), [[Microsoft 365]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Microsoft 365]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (7)
 > **Analogies:** such as (3)
 > **Definitions:** means that (1), is a  (1)
@@ -2416,12 +2385,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an information barrier policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-an-information-barrier-policy?u=76281980)
+#### [Create an information barrier policy](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-an-information-barrier-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-an-information-barrier-policy?u=76281980&t=0)** - [Instructor] Microsoft 365 includes many communication, and collaboration capabilities.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-an-information-barrier-policy?u=76281980&t=0)** - [Instructor] [[Microsoft 365]] includes many communication, and collaboration capabilities.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-an-information-barrier-policy?u=76281980&t=6)** But what if you wanted to restrict communications between certain people that are inside your tenant, and you would do that to safeguard internal information, you can perform these requirements by implementing something called information barriers.
 >
@@ -2429,7 +2397,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-an-information-barrier-policy?u=76281980&t=25)** And that means if restricted users attempt to communicate with each other, they're not going to find each other in the people picker.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-an-information-barrier-policy?u=76281980&t=33)** Currently, the only way to implement information barriers is through PowerShell.
+> **[0:33](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-an-information-barrier-policy?u=76281980&t=33)** Currently, the only way to implement information barriers is through [[Powershell]].
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/create-an-information-barrier-policy?u=76281980&t=38)** Here are some examples that you can use for information barriers, to be able to protect your organization.
 >
@@ -2467,18 +2435,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (4), [[Powershell]] (3), [[Microsoft 365]] (1), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (3), [[Microsoft 365]] (1)
 > **Tools:** powershell (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating sensitivity labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980)
+#### [Creating sensitivity labels](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=0)** - [Instructor] Sensitivity labels from Microsoft Information Protection lets you classify and protect your organization's data while making sure that user productivity and the ability to collaborate isn't hindered.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=0)** - [Instructor] Sensitivity labels from [[Microsoft]] Information Protection lets you classify and protect your organization's data while making sure that user productivity and the ability to collaborate isn't hindered.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=12)** There's four different reasons that we can use sensitivity labels.
 >
@@ -2486,7 +2453,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=22)** As an example, you can apply a confidential label to a document or email and that label can encrypt the content and apply a confidential watermark.
 >
-> **[0:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=31)** You can protect content in Office apps across different platforms and devices.
+> **[0:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=31)** You can protect content in [[Microsoft Office|Office]] apps across different platforms and devices.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=36)** For a list of supported apps, just go to [microsoft.com](https://microsoft.com) and type in use sensitivity labels in Office apps.
 >
@@ -2510,9 +2477,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=108)** You want the most restrictive sensitivity labels, such as highly confidential, to appear at the bottom of the list and your least restrictive, such as public, to appear at the top.
 >
-> **[1:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=118)** Users can then select sensitivity labels when they create new teams in Microsoft Teams.
+> **[1:58](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=118)** Users can then select sensitivity labels when they create new teams in [[Microsoft Teams]].
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=124)** And when they select the label from the sensitivity dropdown, the privacy setting might change to reflect the label configuration.
+> **[2:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=124)** And when they select the label from the sensitivity dropdown, the [[Privacy]] setting might change to reflect the label configuration.
 >
 > **[2:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/creating-sensitivity-labels?u=76281980&t=131)** Depending on the external user access setting you selected for the label, users can or can't add people outside the organization to the team once you apply that label.
 >
@@ -2520,7 +2487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), data (2), [[Microsoft Office|Office]] (2), cloud (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Office|Office]] (2), [[Microsoft Teams]] (1), [[Privacy]] (1)
 > **Analogies:** such as (4)
 > **UI Navigation:** go to (1), select the (1), dropdown (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -2532,16 +2499,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deploy Teams clients to Windows and mobile devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980)
+#### [Deploy Teams clients to Windows and mobile devices](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=0)** - [Instructor] We can deploy and install Microsoft Teams in multiple different ways.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=0)** - [Instructor] We can deploy and install [[Microsoft Teams]] in multiple different ways.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=4)** Here I'm on an Android phone and I'm going to click on the Play Store, and I'm going to type in the search Microsoft Teams.
+> **[0:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=4)** Here I'm on an [[Android]] phone and I'm going to click on the Play Store, and I'm going to type in the search Microsoft Teams.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=12)** And you want to make sure it says it's coming from Microsoft Corporation, and click install.
+> **[0:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=12)** And you want to make sure it says it's coming from [[Microsoft]] Corporation, and click install.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=17)** And then once it's installed, we can log in.
 >
@@ -2573,9 +2539,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=79)** I'll click on the C drive and I'll share my Teams folder.
 >
-> **[1:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=85)** So I'm going to share it with all domain users because I want everybody that's a part of my Active Directory domain to be able to have it.
+> **[1:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=85)** So I'm going to share it with all domain users because I want everybody that's a part of my [[Active Directory]] domain to be able to have it.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=97)** And I'll just remove the everyone because that's a little bit of a security risk when it comes to encrypting files.
+> **[1:37](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=97)** And I'll just remove the everyone because that's a little bit of a [[Security Risk]] when it comes to encrypting files.
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=104)** And I'll just do the same on the security tab as well.
 >
@@ -2607,7 +2573,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=190)** And after a refresh, we see our Teams installation.
 >
-> **[3:13](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=193)** By placing the policy at the root, it ensures that all domain computers will receive the Teams client automatically when they log into their Windows computers.
+> **[3:13](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=193)** By placing the policy at the root, it ensures that all domain computers will receive the Teams client automatically when they log into their [[Windows]] computers.
 >
 > **[3:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980&t=202)** This can also be pushed out through the cloud app called Endpoint Manager, as well as System Center Configuration Manager.
 >
@@ -2615,7 +2581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (13), [[Microsoft Teams]] (4), [[Microsoft]] (3), next (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[Microsoft]] (3), [[Android]] (1), [[Active Directory]] (1), [[Security Risk]] (1)
 > **Prerequisites:** install (6)
 > **UI Navigation:** click on (3), go to (2)
 > **CLI Commands:** make (4)
@@ -2624,16 +2590,15 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage configuration profiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980)
+#### [Manage configuration profiles](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=0)** - [Instructor] We need to manage our phones in the Microsoft teams admin center.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=0)** - [Instructor] We need to manage our phones in the [[Microsoft Teams]] admin center.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=5)** And there are several different ways to do that.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=7)** If we go to Teams Devices, we have Teams Rooms on Windows, we have it on Android, and then we just have phones in general, which aren't necessarily mobile phones.
+> **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=7)** If we go to Teams Devices, we have Teams Rooms on [[Windows]], we have it on [[Android]], and then we just have phones in general, which aren't necessarily mobile phones.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=17)** They could be desk phones, they could be conference phones, things like that.
 >
@@ -2671,7 +2636,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=95)** The display backlight brightness, you can make that brighter or dimmer, and you've got the display backlight time out before it just goes off.
 >
-> **[1:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=105)** And you've got high contrast options for accessibility, silent mode and office hours.
+> **[1:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=105)** And you've got high contrast options for accessibility, silent mode and [[Microsoft Office|office]] hours.
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-configuration-profiles?u=76281980&t=111)** And then we have the option for network settings, and that will allow us to set the IP address settings.
 >
@@ -2719,23 +2684,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Android]] (4), [[Windows]] (2), hit (2), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[Windows]] (2), [[Microsoft Teams]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (4), go to (1), dropdown (1), checkbox (1)
 > **Env Vars:** dhcp (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage Microsoft Teams device tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-microsoft-teams-device-tags?u=76281980)
+#### [Manage Microsoft Teams device tags](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-microsoft-teams-device-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-microsoft-teams-device-tags?u=76281980&t=0)** - [Instructor] Device tags in Microsoft Teams lets you group and organize and just better manage the devices you've deployed in your organization.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-microsoft-teams-device-tags?u=76281980&t=0)** - [Instructor] Device tags in [[Microsoft Teams]] lets you group and organize and just better manage the devices you've deployed in your organization.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-microsoft-teams-device-tags?u=76281980&t=8)** In the Teams admin center, we can get to these device tags by going to Teams devices on the left-hand side.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-microsoft-teams-device-tags?u=76281980&t=16)** And we can choose Teams Rooms on Windows, Android, or Phones.
+> **[0:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-microsoft-teams-device-tags?u=76281980&t=16)** And we can choose Teams Rooms on [[Windows]], [[Android]], or Phones.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/manage-microsoft-teams-device-tags?u=76281980&t=21)** I'll just choose the Android option and click on Actions at the top.
 >
@@ -2755,7 +2719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (4), teams (3), [[Microsoft Teams]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[Microsoft Teams]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -2765,12 +2729,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interpret Microsoft Teams usage reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980)
+#### [Interpret Microsoft Teams usage reports](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=0)** - [Instructor] In Microsoft Teams in the Admin Center, we have the option to look at different types of reports.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=0)** - [Instructor] In [[Microsoft Teams]] in the Admin Center, we have the option to look at different types of reports.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=5)** And the reports are in two different major categories.
 >
@@ -2780,9 +2743,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=23)** And this provides information on one-to-one calls, such as one person calling another, messages which the user might have posted in a Teams chat or in a private chat, and the last activity date of that user.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=35)** There's also teams device usage, which tells us whether or not the user is using a Windows computer, a Macintosh, Apple iOS, Android, or others.
+> **[0:35](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=35)** There's also teams device usage, which tells us whether or not the user is using a [[Windows]] computer, a Macintosh, Apple iOS, [[Android]], or others.
 >
-> **[0:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=45)** And then there's teams usage, and that tells us information about active users, active users and teams and channels, messages, privacy settings of teams, and guests.
+> **[0:45](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=45)** And then there's teams usage, and that tells us information about active users, active users and teams and channels, messages, [[Privacy]] settings of teams, and guests.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=55)** And finally, we have teams live event usage, which includes information on total views of a live event, starting time status, which users had the role of organizer, presenter, and producer.
 >
@@ -2792,7 +2755,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=76)** And it gives us information about that, such as calling plans, which includes information on the timestamp, username, phone number, call type, called to and called from, the duration of the call, and others.
 >
-> **[1:28](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=88)** And there's direct routing, and that includes the SIP address if you're doing a VoIP call, phone number, called to and called from, duration of the call, invite time, additional information, as well.
+> **[1:28](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=88)** And there's direct [[Routing]], and that includes the SIP address if you're doing a VoIP call, phone number, called to and called from, duration of the call, invite time, additional information, as well.
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980&t=100)** And then there's the blocked users.
 >
@@ -2858,7 +2821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (15), [[Microsoft Teams]] (4), [[Windows]] (3), hit (2), [[Android]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[Windows]] (3), [[Android]] (1), [[Privacy]] (1), [[Routing]] (1)
 > **UI Navigation:** click on (4), dropdown (3)
 > **Analogies:** such as (3), for instance (2)
 > **Env Vars:** pstn (3), sip (1)
@@ -2867,16 +2830,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpret Microsoft 365 usage reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980)
+#### [Interpret Microsoft 365 usage reports](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=0)** - [Instructor] Microsoft Teams has it's reporting, but Microsoft 365 does as well.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=0)** - [Instructor] [[Microsoft Teams]] has it's reporting, but [[Microsoft 365]] does as well.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=5)** And you're going to see different information in the 365 reports, but you will see some Teams information as well.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=12)** Microsoft 365 usage analytics within Power BI can provide you with a great view of how your organization is adopting various services within Microsoft 365.
+> **[0:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=12)** Microsoft 365 usage analytics within [[Microsoft Power BI|Power BI]] can provide you with a great view of how your organization is adopting various services within Microsoft 365.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=25)** And in the reports you can access information, including 365 usage data, create custom reports, share insights within the company, get information on how Teams and departments are using Microsoft 365.
 >
@@ -2888,21 +2850,21 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=67)** And under reports, we see usage, I'll select that.
 >
-> **[1:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=71)** And here we can see under active users, each of the different products that have been used basically by color code.
+> **[1:11](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=71)** And here we can see under active users, each of the different [[Microsoft Products|products]] that have been used basically by color code.
 >
 > **[1:18](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=78)** And I can go up and hover over that area.
 >
-> **[1:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=82)** And I can see Office 365 products were used as well as Exchange.
+> **[1:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=82)** And I can see [[Microsoft Office|Office]] 365 products were used as well as Exchange.
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=86)** And I can go all the way over here to the right, and I could see two different licenses of Office 365, now known as Microsoft 365 are used as well as two Exchange.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=97)** And I can go all the way and I can see SharePoint as well as Microsoft Teams was used.
+> **[1:37](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=97)** And I can go all the way and I can see [[SharePoint]] as well as Microsoft Teams was used.
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=103)** If I scroll down, I can see there were two active users and there were 283 activities with received and read messages.
 >
 > **[1:52](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=112)** If I go down further, I can see there were nine activations when it comes to desktops, 120 files stored as well as other information, we can just keep going down.
 >
-> **[2:02](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=122)** You can see Microsoft Edge.
+> **[2:02](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=122)** You can see [[Microsoft]] Edge.
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=125)** I'm going to go to where it says Microsoft Teams activity and click more.
 >
@@ -2920,7 +2882,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=168)** And we can see that right now it's just showing the past 30 days, but we can go all the way up to 180 days down to seven days, I'll switch over to device usage.
 >
-> **[3:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=180)** And here we see Windows and the web was used for Teams.
+> **[3:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=180)** And here we see [[Windows]] and the web was used for Teams.
 >
 > **[3:04](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-365-usage-reports?u=76281980&t=184)** So that means that Windows was used in the app, but a website, the team's website, that you can also use Microsoft Teams, was used in the last 30 days and scrolling down, we can see the licensed devices and the last activity date.
 >
@@ -2930,15 +2892,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (7), teams (5), [[Microsoft Teams]] (4), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Teams]] (4), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), [[Windows]] (2)
 > **UI Navigation:** click on (2), scroll down (2), go to (1)
 > **Definitions:** known as (1), means that (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimize call quality by using Call Analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/optimize-call-quality-by-using-call-analytics?u=76281980)
+#### [Optimize call quality by using Call Analytics](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/optimize-call-quality-by-using-call-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2964,7 +2925,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/optimize-call-quality-by-using-call-analytics?u=76281980&t=62)** Communication Support Engineer role is equivalent to a tier 2 support.
 >
-> **[1:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/optimize-call-quality-by-using-call-analytics?u=76281980&t=67)** I'm logged into the Microsoft Teams dashboard.
+> **[1:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/optimize-call-quality-by-using-call-analytics?u=76281980&t=67)** I'm logged into the [[Microsoft Teams]] dashboard.
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/optimize-call-quality-by-using-call-analytics?u=76281980&t=70)** And what I need to do is go down to the reporting area and click on Call Quality Dashboard.
 >
@@ -3040,7 +3001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), data (4), [[Analytics]] (3), [[Microsoft Teams]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (2)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** sla (1)
@@ -3048,16 +3009,15 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Tenant Data Upload in the Call Quality Dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980)
+#### [Configure Tenant Data Upload in the Call Quality Dashboard](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=0)** - I'm in the Microsoft Teams Admin Center, and I want to go to the call quality dashboard that you see here.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=0)** - I'm in the [[Microsoft Teams]] Admin Center, and I want to go to the call quality dashboard that you see here.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=6)** So I can upload some building tenant information.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=10)** And you can download this free download from Microsoft.
+> **[0:10](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=10)** And you can download this free download from [[Microsoft]].
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=13)** And the link you'll see is here.
 >
@@ -3087,29 +3047,28 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=61)** It takes about four hours before this information will actually get uploaded into the website.
 >
-> **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=66)** So I thought I'd just go ahead and open it up for you in Excel so you can see what it is that we're uploading.
+> **[1:06](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=66)** So I thought I'd just go ahead and open it up for you in [[Microsoft Excel|Excel]] so you can see what it is that we're uploading.
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=72)** First, we have the subnet under column A for each of the different locations.
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=76)** The rest of the information is all geographical that has to do with the location of the building.
+> **[1:16](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=76)** The [[Representational State Transfer (REST)|rest]] of the information is all geographical that has to do with the location of the building.
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-tenant-data-upload-in-the-call-quality-dashboard?u=76281980&t=82)** Uploading building and endpoint data can improve your monitoring experience by detailing teams call quality in each building in your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Teams]] (1), [[Microsoft]] (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1), [[Microsoft]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** tsv (1), zip (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** zip file (1)
 > **Speakers:** - i (1)
 
-#### Monitor and report on creation and deletion of teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/monitor-and-report-on-creation-and-deletion-of-teams?u=76281980)
+#### [Monitor and report on creation and deletion of teams](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/monitor-and-report-on-creation-and-deletion-of-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/monitor-and-report-on-creation-and-deletion-of-teams?u=76281980&t=0)** - [Instructor] Microsoft gives us the ability to let us know when a team has been created or deleted by a user.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/monitor-and-report-on-creation-and-deletion-of-teams?u=76281980&t=0)** - [Instructor] [[Microsoft]] gives us the ability to let us know when a team has been created or deleted by a user.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/monitor-and-report-on-creation-and-deletion-of-teams?u=76281980&t=7)** We need to log in to compliance.[microsoft.com](https://microsoft.com), which is the compliance center, and then click on Audit.
 >
@@ -3141,7 +3100,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/monitor-and-report-on-creation-and-deletion-of-teams?u=76281980&t=89)** Now we have the option for Select Record Type.
 >
-> **[1:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/monitor-and-report-on-creation-and-deletion-of-teams?u=76281980&t=91)** So I'll hit the dropdown, and I'll choose Microsoft Teams, and now we can see the results of all activities.
+> **[1:31](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/monitor-and-report-on-creation-and-deletion-of-teams?u=76281980&t=91)** So I'll hit the dropdown, and I'll choose [[Microsoft Teams]], and now we can see the results of all activities.
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/monitor-and-report-on-creation-and-deletion-of-teams?u=76281980&t=103)** So we see the option for Created and Deleted Team, and we could do other things such as add a channel, delete a channel, et cetera.
 >
@@ -3161,7 +3120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), hit (2), [[Search]] (2), teams (2), [[Microsoft Teams]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Teams]] (2)
 > **UI Navigation:** click on (3), dropdown (2), go to (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
@@ -3173,24 +3132,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980&t=0)** - Thank you for joining me in my course, Microsoft Teams Administration: Plan, Configure, and Deploy.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980&t=0)** - Thank you for joining me in my course, [[Microsoft Teams]] Administration: Plan, Configure, and Deploy.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980&t=7)** This video series showed you a how-to plan for moving to Microsoft Teams.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980&t=12)** A lot of ground was covered, such as installing teams using multiple options, pushing out the client to users, checking on call quality, creating policies, and viewing reporting.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980&t=21)** If you would like to see more of my courses, such as those on Windows Servers, please check out my course, Windows Server 2019: Advanced Networking Features, and Windows Server 2019: Storage Services.
+> **[0:21](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980&t=21)** If you would like to see more of my courses, such as those on [[Windows]] Servers, please check out my course, [[Windows Server]] 2019: Advanced Networking Features, and Windows Server 2019: Storage Services.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980&t=34)** Thank you again for joining me, and I look forward to presenting additional courses for you in the near future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Windows Server]] (2), teams (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Windows Server]] (2), [[Windows]] (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - thank (1)

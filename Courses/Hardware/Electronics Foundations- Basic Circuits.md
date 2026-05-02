@@ -121,8 +121,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Principles of basic electronic circuits
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/principles-of-basic-electronic-circuits?u=76281980)
+#### [Principles of basic electronic circuits](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/principles-of-basic-electronic-circuits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,7 +143,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/principles-of-basic-electronic-circuits?u=76281980&t=69)** I'll show you how to build filter surrogates, so you can modify electrical signals by selectively removing certain parts that make up the signal.
 >
-> **[1:17](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/principles-of-basic-electronic-circuits?u=76281980&t=77)** And since we'll be working with electrical signals, we'll need a way to view them, so I'll show you how to use an oscilloscope, which is one of the most useful tools for working with electronics.
+> **[1:17](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/principles-of-basic-electronic-circuits?u=76281980&t=77)** And since we'll be working with electrical signals, we'll need a way to view them, so I'll show you how to use an oscilloscope, which is one of the most useful tools for working with [[Electronics]].
 >
 > **[1:32](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/principles-of-basic-electronic-circuits?u=76281980&t=92)** If you're ready to start, grab your parts and let's build some circuits.
 
@@ -156,16 +155,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - to (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-you-should-know-14156506?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-you-should-know-14156506?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-you-should-know-14156506?u=76281980&t=0)** - Before beginning this course, you should already understand the fundamental electrical concepts of voltage, current, resistance and power.
 >
-> **[0:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-you-should-know-14156506?u=76281980&t=9)** If you're unfamiliar with those concepts or just want a refresher on them, I recommend watching the Foundations of Electronics Fundamentals course first.
+> **[0:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-you-should-know-14156506?u=76281980&t=9)** If you're unfamiliar with those concepts or just want a refresher on them, I recommend watching the Foundations of [[Electronics]] Fundamentals course first.
 >
-> **[0:18](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-you-should-know-14156506?u=76281980&t=18)** Many of the topics in this course, such as signals and filters, are typically explained using complex mathematics and calculus.
+> **[0:18](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-you-should-know-14156506?u=76281980&t=18)** Many of the topics in this course, such as signals and filters, are typically explained using complex mathematics and [[Calculus]].
 >
 > **[0:25](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-you-should-know-14156506?u=76281980&t=25)** Now I'm not a huge fan of complicated math, so I focused this course on concepts and tried to keep the math as simple as possible.
 >
@@ -177,22 +175,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Electronics]] (1), [[Calculus]] (1), express (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Calculus]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - before (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=0)** - [Instructor] If you want to follow along with this course to build and measure your own electronic circuits, you're going to need some hardware.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=0)** - [Instructor] If you want to follow along with this course to build and measure your own electronic circuits, you're going to need some [[Hardware]].
 >
 > **[0:07](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=7)** I've included a list of the various components and tools I used throughout this course in the exercise files.
 >
 > **[0:13](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=13)** In the main directory for this course, I've included a PDF file named PartsList that contains a list of components.
 >
-> **[0:20](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=20)** Almost all of these items are common parts that you can purchase from a number of online retailers or your local electronics store.
+> **[0:20](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=20)** Almost all of these items are common parts that you can purchase from a number of online retailers or your local [[Electronics]] store.
 >
 > **[0:28](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=28)** But for your convenience, I've also included the link to an online store page for each item.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=45)** And for the multimeter, I provided two recommended options, a very simple DMM that only makes basic measurements and a more advanced DMM with auto-ranging and other capabilities.
 >
-> **[0:57](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=57)** The rest of the exercise files are organized into numbered directories for each chapter of the course.
+> **[0:57](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=57)** The [[Representational State Transfer (REST)|rest]] of the exercise files are organized into numbered directories for each chapter of the course.
 >
 > **[1:03](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=63)** And when within each chapter, there are numbered directories for each video.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=75)** When I mention one of those items in a video, just navigate to the corresponding folder in the exercise files to find it.
 >
-> **[1:22](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=82)** For some examples in this course, I'll be using an Arduino microcontroller to demonstrate how certain circuits can be used with microcontroller devices.
+> **[1:22](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=82)** For some examples in this course, I'll be using an [[Arduino]] microcontroller to demonstrate how certain circuits can be used with microcontroller devices.
 >
 > **[1:31](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/using-the-exercise-files-14153750?u=76281980&t=91)** And for those examples, I've included the corresponding code in the exercise files.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (1), [[Electronics]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (1), [[Electronics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** exercise files (4)
 > **Env Vars:** dmm (2), pdf (1)
 > **CLI Commands:** find (1)
@@ -228,12 +225,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Safety warnings
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/safety-warnings-14158262?u=76281980)
+#### [Safety warnings](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/safety-warnings-14158262?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/safety-warnings-14158262?u=76281980&t=0)** - Working with electronics is a ton of fun, but it can also be dangerous.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/safety-warnings-14158262?u=76281980&t=0)** - Working with [[Electronics]] is a ton of fun, but it can also be dangerous.
 >
 > **[0:06](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/safety-warnings-14158262?u=76281980&t=6)** Electric shock can cause serious injuries or even death and at the very least, being shocked is not a pleasant feeling.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (2), power (1)
+> **Frameworks & Libraries:** [[Electronics]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -270,8 +266,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Read electrical schematics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-electrical-schematics-14160027?u=76281980)
+#### [Read electrical schematics](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-electrical-schematics-14160027?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-electrical-schematics-14160027?u=76281980&t=193)** So to simplify things visually, we often draw voltage nodes to represent specific voltage sources throughout the schematic.
 >
-> **[3:22](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-electrical-schematics-14160027?u=76281980&t=202)** For example, in this drawing, which shows a section of an Arduino microcontroller board, all three of these positive voltage nodes are connected to the same five-volt supply, even though there are no lines between them on the schematic.
+> **[3:22](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-electrical-schematics-14160027?u=76281980&t=202)** For example, in this drawing, which shows a section of an [[Arduino]] microcontroller board, all three of these positive voltage nodes are connected to the same five-volt supply, even though there are no lines between them on the schematic.
 >
 > **[3:36](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-electrical-schematics-14160027?u=76281980&t=216)** Similarly, all of these ground nodes are actually connected to each other.
 >
@@ -381,25 +376,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), next (2), parallel (2), [[Debugging]] (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Analogies:** for example (3), imagine (1), just like (1)
 > **Env Vars:** sck (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build circuits on breadboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/build-circuits-on-breadboards-14153736?u=76281980)
+#### [Build circuits on breadboards](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/build-circuits-on-breadboards-14153736?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/build-circuits-on-breadboards-14153736?u=76281980&t=0)** - Back in the early days of electronics, hobbyists and tinkerers would assemble their prototype circuits on wooden breadboards like this one, using wires and nails to attach components.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/build-circuits-on-breadboards-14153736?u=76281980&t=0)** - Back in the early days of [[Electronics]], hobbyists and tinkerers would assemble their prototype circuits on wooden breadboards like this one, using wires and nails to attach components.
 >
-> **[0:11](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/build-circuits-on-breadboards-14153736?u=76281980&t=11)** I imagine there were quite a few unhappy parents and spouses who didn't like seeing their kitchen equipment used for that, so now we have specially designed boards for prototyping circuits, but we still call them breadboards.
+> **[0:11](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/build-circuits-on-breadboards-14153736?u=76281980&t=11)** I imagine there were quite a few unhappy parents and spouses who didn't like seeing their kitchen equipment used for that, so now we have specially designed boards for [[Prototyping]] circuits, but we still call them breadboards.
 >
 > **[0:23](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/build-circuits-on-breadboards-14153736?u=76281980&t=23)** Using a breadboard is the easiest way to build and test new circuits.
 >
-> **[0:27](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/build-circuits-on-breadboards-14153736?u=76281980&t=27)** They hold circuit components in place and enable you to connect them without soldering, which is a process for permanently attaching electrical components together.
+> **[0:27](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/build-circuits-on-breadboards-14153736?u=76281980&t=27)** They hold circuit components in place and enable you to connect them without [[Soldering]], which is a process for permanently attaching electrical components together.
 >
 > **[0:36](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/build-circuits-on-breadboards-14153736?u=76281980&t=36)** Since breadboards don't use solder, that means the circuits are temporary, which makes breadboards great for building quick prototypes because you can easily change the circuit if something goes wrong.
 >
@@ -503,7 +497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (16), [[Electronics]] (1), [[Prototyping]] (1), [[Soldering]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Prototyping]] (1), [[Soldering]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** imagine (1), for example (1)
 > **Best Practices:** you should always (2)
@@ -516,8 +510,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of resistors
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-resistors-14155501?u=76281980)
+#### [Types of resistors](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-resistors-14155501?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,7 +538,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-resistors-14155501?u=76281980&t=87)** Through-hole components usually come in a small tube shaped-package which has long metal leads that can be easily bent and inserted into a breadboard.
 >
-> **[1:35](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-resistors-14155501?u=76281980&t=95)** I always keep a healthy supply of through-hole resistors on hand for prototyping circuits.
+> **[1:35](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-resistors-14155501?u=76281980&t=95)** I always keep a healthy supply of through-hole resistors on hand for [[Prototyping]] circuits.
 >
 > **[1:40](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-resistors-14155501?u=76281980&t=100)** Common through-hole resistors come in a range of different sizes with different power ratings.
 >
@@ -593,7 +586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), [[Prototyping]] (2), product (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2)
 > **Env Vars:** smd (3), pth (1)
 > **Definitions:** stands for (2)
 > **CLI Commands:** find (1)
@@ -602,8 +595,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** you'll need (1)
 
-#### Resistor characteristics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980)
+#### [Resistor characteristics](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,7 +603,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=7)** More electronic components will have instruction manuals called a datasheet or spec sheet, which give you information about what that component is capable of, and how to use it.
 >
-> **[0:17](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=17)** Unfortunately, datasheets can be a bit intimidating for folks who are new to electronics because they're usually written by engineers for engineers, so they're dense and full of technical jargon.
+> **[0:17](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=17)** Unfortunately, datasheets can be a bit intimidating for folks who are new to [[Electronics]] because they're usually written by engineers for engineers, so they're dense and full of technical jargon.
 >
 > **[0:28](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=28)** Also, it's up to the component manufacturers to determine which details go into their datasheets and how it's formatted.
 >
@@ -619,7 +611,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=44)** Finding the right datasheet can be a bit tricky sometimes.
 >
-> **[0:47](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=47)** Most online electronic components retailers, like Mouser or Digikey will include links to the datasheets for their products they sell.
+> **[0:47](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=47)** Most online electronic components retailers, like Mouser or Digikey will include links to the datasheets for their [[Microsoft Products|products]] they sell.
 >
 > **[0:56](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=56)** If you're looking for a specific component and you know its part number, you can usually find its datasheet by using your favorite search engine to look for that part number, and the keyword datasheet.
 >
@@ -651,7 +643,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=183)** Now, this may seem like a huge amount of variance but for most hobbyist projects, like building circuits connected to microcontroller boards, using resistors with a 5% tolerance is just fine.
 >
-> **[3:15](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=195)** The datasheet lists off several other product features, including that the resistor leads are made of 10 coated copper wire and that the component is lead free, which is a consideration for many hardware manufacturers.
+> **[3:15](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=195)** The datasheet lists off several other product features, including that the resistor leads are made of 10 coated copper wire and that the component is lead free, which is a consideration for many [[Hardware]] manufacturers.
 >
 > **[3:28](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistor-characteristics-14157282?u=76281980&t=208)** Below the feature list, there are several graphs, which show how well the resistors perform versus various criteria, including the ambient temperature, and normal resistance value.
 >
@@ -697,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), feature (2), [[Electronics]] (1), [[Microsoft Products|Products]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Microsoft Products|Products]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (3)
 > **Versions:** 9.5 (1), 10.5 (1)
 > **Analogies:** for example (2)
@@ -706,8 +698,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Prerequisites:** you'll need (1)
 
-#### Read resistor color codes
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-resistor-color-codes-14153740?u=76281980)
+#### [Read resistor color codes](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-resistor-color-codes-14153740?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,7 +772,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** find (1)
@@ -789,9 +779,9 @@ created: 2026-05-02
 > **Versions:** 31.6 (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
+> **Speakers:** - [instructor] (1)
 
-#### Measure resistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-resistance-14157277?u=76281980)
+#### [Measure resistance](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-resistance-14157277?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -863,7 +853,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** dmm (10), com (1)
 > **Versions:** 0.8 (1), 0.988 (1), 0.984 (1), 0.67 (1)
 > **Definitions:** means that (1), is a  (1)
@@ -875,8 +864,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resistors in series
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistors-in-series-14158256?u=76281980)
+#### [Resistors in series](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistors-in-series-14158256?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,15 +920,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11)
 > **Versions:** 0.5 (4), 0.4 (1), 0.2 (1), 0.8 (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Voltage dividers
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/voltage-dividers-14159246?u=76281980)
+#### [Voltage dividers](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/voltage-dividers-14159246?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -992,20 +978,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shift voltage levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/shift-voltage-levels-14158266?u=76281980)
+#### [Shift voltage levels](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/shift-voltage-levels-14158266?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/shift-voltage-levels-14158266?u=76281980&t=0)** - [Instructor] When interfacing between two devices that operate at different voltages, we need a way to shift from one voltage level to another.
 >
-> **[0:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/shift-voltage-levels-14158266?u=76281980&t=9)** For example, if I wanted to use an Arduino microcontroller that operates at five volts, and have it talk to an accelerometer chip that operates at 3.3 volts, I need a way to convert the five-volt signal from the Arduino down to a 3.3-volt signal for the accelerometer chip.
+> **[0:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/shift-voltage-levels-14158266?u=76281980&t=9)** For example, if I wanted to use an [[Arduino]] microcontroller that operates at five volts, and have it talk to an accelerometer chip that operates at 3.3 volts, I need a way to convert the five-volt signal from the Arduino down to a 3.3-volt signal for the accelerometer chip.
 >
 > **[0:28](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/shift-voltage-levels-14158266?u=76281980&t=28)** Many digital devices either operate at five or 3.3 volts, so it's common to need to shift between those two voltage levels.
 >
@@ -1067,14 +1051,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), [[Arduino]] (2)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Versions:** 3.3 (8)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measure resistive sensors
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-resistive-sensors-14159234?u=76281980)
+#### [Measure resistive sensors](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-resistive-sensors-14159234?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,7 +1095,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-resistive-sensors-14159234?u=76281980&t=125)** The schematic symbol for a photo resistor is composed of the resistor symbol in a circle with two diagonal arrows pointing at it, which represent the light that affects it.
 >
-> **[2:16](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-resistive-sensors-14159234?u=76281980&t=136)** To demonstrate this circuit, I'll be using an Arduino microcontroller board to provide five volts as the input to the circuit and I'll measure the output of the voltage divider with the Arduino's analog input channel zero.
+> **[2:16](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-resistive-sensors-14159234?u=76281980&t=136)** To demonstrate this circuit, I'll be using an [[Arduino]] microcontroller board to provide five volts as the input to the circuit and I'll measure the output of the voltage divider with the Arduino's analog input channel zero.
 >
 > **[2:29](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-resistive-sensors-14159234?u=76281980&t=149)** If you don't have an Arduino, you can still build the circuit using any other five volt power supply and your trusty multimeter in voltage mode to measure the output voltage across the photo resistor.
 >
@@ -1128,15 +1111,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4), power (1)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **Versions:** 4.7 (1), 1.2 (1), 2.2 (1), 3.8 (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Potentiometers
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/potentiometers-14160024?u=76281980)
+#### [Potentiometers](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/potentiometers-14160024?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1136,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/potentiometers-14160024?u=76281980&t=43)** When the slider is moved to one end, all of the resistance is shifted to that side of the voltage divider, and the other side has approximately zero resistance, and as the slider is moved to the other extreme, the voltage divider shifts until all of the resistance is on the other side.
 >
-> **[1:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/potentiometers-14160024?u=76281980&t=60)** For prototyping circuits on a breadboard, I commonly use potentiometers like this one, which are called trimpots.
+> **[1:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/potentiometers-14160024?u=76281980&t=60)** For [[Prototyping]] circuits on a breadboard, I commonly use potentiometers like this one, which are called trimpots.
 >
 > **[1:06](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/potentiometers-14160024?u=76281980&t=66)** This is a 10-kiloohm pot, which comes in a cube-shaped package with three terminals on the bottom.
 >
@@ -1164,7 +1146,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/potentiometers-14160024?u=76281980&t=88)** I connect it as shown here to provide a known input voltage to the trimpot, and then measure the output of its voltage divider.
 >
-> **[1:36](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/potentiometers-14160024?u=76281980&t=96)** I'll demonstrate that circuit using an Arduino board, but the concept is the same if you're using any other microcontroller with an analog-to-digital converter.
+> **[1:36](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/potentiometers-14160024?u=76281980&t=96)** I'll demonstrate that circuit using an [[Arduino]] board, but the concept is the same if you're using any other microcontroller with an analog-to-digital converter.
 >
 > **[1:45](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/potentiometers-14160024?u=76281980&t=105)** I've written a simple Arduino program, which is included in the exercise files, that simply measures the output voltage using analog input channel zero, and then prints that value to the output console.
 >
@@ -1195,8 +1177,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resistors in parallel
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistors-in-parallel-14153735?u=76281980)
+#### [Resistors in parallel](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistors-in-parallel-14153735?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1278,15 +1259,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (15), power (3)
 > **Versions:** 6.66 (2), 0.75 (2), 3.75 (2), 0.0001 (1), 0.00005 (1)
 > **Env Vars:** dmm (2)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kirchhoff's circuit laws
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/kirchhoff-s-circuit-laws-14155502?u=76281980)
+#### [Kirchhoff's circuit laws](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/kirchhoff-s-circuit-laws-14155502?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,15 +1333,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (11), parallel (3)
 > **CLI Commands:** node (11), make (1)
 > **Analogies:** for example (4)
 > **Tools:** terminal (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wheatstone Bridge
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/wheatstone-bridge-14153742?u=76281980)
+#### [Wheatstone Bridge](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/wheatstone-bridge-14153742?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1428,7 +1405,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2), node (2), power (1)
 > **CLI Commands:** node (2), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** dmm (2)
@@ -1436,8 +1412,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Light activated switch
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/challenge-light-activated-switch-14158267?u=76281980)
+#### [Challenge: Light activated switch](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/challenge-light-activated-switch-14158267?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,8 +1470,7 @@ created: 2026-05-02
 > **Env Vars:** dmm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Challenge: Light activated switch
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/solution-challenge-light-activated-switch?u=76281980)
+#### [Solution: Challenge: Light activated switch](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/solution-challenge-light-activated-switch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1554,7 +1528,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), parallel (1), next (1)
 > **CLI Commands:** make (2), node (2), find (1)
 > **Analogies:** for example (1), just like (1)
 > **Env Vars:** dmm (1)
@@ -1567,8 +1540,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an oscilloscope?
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-oscilloscope-14154695?u=76281980)
+#### [What is an oscilloscope?](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-oscilloscope-14154695?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1596,7 +1568,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-oscilloscope-14154695?u=76281980&t=66)** You can't fully see what's going on around you.
 >
-> **[1:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-oscilloscope-14154695?u=76281980&t=69)** Unfortunately, oscilloscopes are quite a bit more expensive than a simple multimeter, but if you're going to be working with electronics, you really need an oscilloscope, so getting one is a worthwhile investment.
+> **[1:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-oscilloscope-14154695?u=76281980&t=69)** Unfortunately, oscilloscopes are quite a bit more expensive than a simple multimeter, but if you're going to be working with [[Electronics]], you really need an oscilloscope, so getting one is a worthwhile investment.
 >
 > **[1:20](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-oscilloscope-14154695?u=76281980&t=80)** There's several things to consider when choosing an oscilloscope.
 >
@@ -1652,7 +1624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (3), [[Debugging]] (1), functional (1), next (1)
+> **Frameworks & Libraries:** [[Electronics]] (3)
 > **Definitions:** is a  (4)
 > **Env Vars:** lcd (1), rigol (1), ds1054z (1)
 > **CLI Commands:** make (1)
@@ -1661,8 +1633,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Measure a signal
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-a-signal-14160021?u=76281980)
+#### [Measure a signal](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-a-signal-14160021?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1748,7 +1719,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Prerequisites:** configure (3), you'll need (1)
 > **Env Vars:** bnc (1)
 > **Cross-References:** in the next (1)
@@ -1756,12 +1726,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - to (1)
 
-#### Oscilloscope display settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-display-settings-14157275?u=76281980)
+#### [Oscilloscope display settings](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-display-settings-14157275?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-display-settings-14157275?u=76281980&t=0)** - I can adjust the display on my oscilloscope to zoom in or out.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-display-settings-14157275?u=76281980&t=0)** - I can adjust the display on my oscilloscope to [[Zoom]] in or out.
 >
 > **[0:04](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-display-settings-14157275?u=76281980&t=4)** So I can see different parts of signals by changing the bolts per division, along the vertical axis and the seconds per division, along the horizontal axis.
 >
@@ -1809,7 +1778,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-display-settings-14157275?u=76281980&t=169)** If I want to view a larger portion of my signal, I can turn the horizontal scale knob counter-clockwise, which increases the amount of time shown in each division to give me a zoomed out view.
 >
-> **[2:59](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-display-settings-14157275?u=76281980&t=179)** As I turned that knob the other way, it zooms in on both wave forms, different aspects of the signal will be visible at different zoom levels.
+> **[2:59](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-display-settings-14157275?u=76281980&t=179)** As I turned that knob the other way, it zooms in on both wave [[Forms]], different aspects of the signal will be visible at different zoom levels.
 >
 > **[3:08](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-display-settings-14157275?u=76281980&t=188)** For example, when I zoom in until the horizontal scale is set to five microseconds per division, I can see that the edges of the square wave are not really square.
 >
@@ -1830,8 +1799,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Oscilloscope trigger settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980)
+#### [Oscilloscope trigger settings](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1865,7 +1833,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=127)** And the amount of time that it takes to complete one cycle is the period of the signal.
 >
-> **[2:13](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=133)** Many of these signals that we commonly deal with in electronics are periodic.
+> **[2:13](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=133)** Many of these signals that we commonly deal with in [[Electronics]] are periodic.
 >
 > **[2:17](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=137)** So oscilloscopes are specifically designed to capture and view them.
 >
@@ -1923,7 +1891,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=324)** When I activate single mode, I'll wait for my trigger no matter how long it takes and when I see that trigger, I'll snap a photo, (camera shutter clicking) put it on display, and then I'm done.
 >
-> **[5:36](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=336)** The scope will continue to display that snapshot of the signal so I can zoom in to analyze it.
+> **[5:36](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=336)** The scope will continue to display that snapshot of the signal so I can [[Zoom]] in to analyze it.
 >
 > **[5:42](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=342)** To demonstrate single mode, I'll disconnect the probe clip from the calibration terminal and then press the single button on the top right corner, which will arm the scope to wait for the trigger condition.
 >
@@ -1941,11 +1909,11 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=396)** And I can scroll through to view each of them by adjusting the horizontal position.
 >
-> **[6:41](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=401)** Now, this digital oscilloscope can do a lot more than I've shown you here, but for my own day-to-day use, these are the functions that I really use and they'll prepare you for the rest of this course.
+> **[6:41](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/oscilloscope-trigger-settings-14157276?u=76281980&t=401)** Now, this digital oscilloscope can do a lot more than I've shown you here, but for my own day-to-day use, these are the functions that I really use and they'll prepare you for the [[Representational State Transfer (REST)|rest]] of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), [[Zoom]] (2), feature (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Electronics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (3), just like (1), similar to (1), for example (1)
 > **Non-Speech:** (camera shutter clicking) (4)
 > **CLI Commands:** snap (3)
@@ -1959,8 +1927,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a capacitor?
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-a-capacitor-14155491?u=76281980)
+#### [What is a capacitor?](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-a-capacitor-14155491?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2046,19 +2013,18 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-a-capacitor-14155491?u=76281980&t=307)** As I design circuits throughout this course, I'll limit myself to using the list of capacitors shown here, which is based on the values contained in the beginner capacitor kit sold by [sparkfun.com](https://sparkfun.com).
 >
-> **[5:19](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-a-capacitor-14155491?u=76281980&t=319)** As you build up your own electronics part kit, it's a good idea to gather an assortment of capacitors with these values.
+> **[5:19](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-a-capacitor-14155491?u=76281980&t=319)** As you build up your own [[Electronics]] part kit, it's a good idea to gather an assortment of capacitors with these values.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), parallel (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Tools:** terminal (2)
 > **Analogies:** think of it like (1), similar to (1)
 > **URLs:** [sparkfun.com](https://sparkfun.com) (1)
 > **Speakers:** - objects (1)
 
-#### Types of capacitors
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-capacitors-14155500?u=76281980)
+#### [Types of capacitors](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-capacitors-14155500?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2132,7 +2098,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** terminal (3)
 > **Best Practices:** always make sure (1), you should always (1)
@@ -2141,8 +2106,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - capacitors (1)
 
-#### Read capacitor values
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-capacitor-values-14160031?u=76281980)
+#### [Read capacitor values](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-capacitor-values-14160031?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2206,7 +2170,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), express (1), feature (1)
 > **Analogies:** for example (2), just like (1), similar to (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -2214,8 +2177,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capacitor characteristics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitor-characteristics-14153741?u=76281980)
+#### [Capacitor characteristics](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitor-characteristics-14153741?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2265,7 +2227,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), power (1)
 > **Env Vars:** esr (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
@@ -2274,8 +2235,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capacitors in parallel
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitors-in-parallel-14158257?u=76281980)
+#### [Capacitors in parallel](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitors-in-parallel-14158257?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2309,14 +2269,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (9)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capacitors in series
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitors-in-series-14160032?u=76281980)
+#### [Capacitors in series](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitors-in-series-14160032?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2370,13 +2328,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3)
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### RC circuits
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/rc-circuits-14160029?u=76281980)
+#### [RC circuits](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/rc-circuits-14160029?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2484,15 +2440,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3)
 > **Definitions:** is called (1), means that (1), is a  (1)
 > **UI Navigation:** switch to (2)
 > **Analogies:** it's like (1), for example (1)
 > **Versions:** 3.2 (1)
 > **Speakers:** - capacitors (1)
 
-#### Challenge: Camera flash
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/challenge-camera-flash-14155505?u=76281980)
+#### [Challenge: Camera flash](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/challenge-camera-flash-14155505?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2536,7 +2490,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2)
 > **UI Navigation:** select the (2), switch to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -2544,8 +2497,7 @@ created: 2026-05-02
 > **Speakers:** - it (1)
 > **Non-Speech:** (camera clicking) (1)
 
-#### Solution: Camera flash
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/solution-camera-flash-14160030?u=76281980)
+#### [Solution: Camera flash](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/solution-camera-flash-14160030?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2593,7 +2545,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 13.2 (1), 3.3 (1)
 > **UI Navigation:** switch to (2)
@@ -2604,8 +2555,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Alternating current vs. direct current
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/alternating-current-vs-direct-current-14154693?u=76281980)
+#### [Alternating current vs. direct current](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/alternating-current-vs-direct-current-14154693?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2667,15 +2617,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), next (1)
 > **Env Vars:** vdc (1), vac (1), usb (1)
 > **Tools:** terminal (3)
 > **Analogies:** for example (1), it's like (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
 
-#### Sine wave characteristics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/sine-wave-characteristics-14159242?u=76281980)
+#### [Sine wave characteristics](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/sine-wave-characteristics-14159242?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2691,7 +2639,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/sine-wave-characteristics-14159242?u=76281980&t=36)** Triangle waves are commonly used as an input signal to test certain types of circuits like amplifiers.
 >
-> **[0:42](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/sine-wave-characteristics-14159242?u=76281980&t=42)** You'll likely encounter triangle and square waves when working with electronics, but the most common type of alternating current is the sine wave or sinusoid.
+> **[0:42](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/sine-wave-characteristics-14159242?u=76281980&t=42)** You'll likely encounter triangle and square waves when working with [[Electronics]], but the most common type of alternating current is the sine wave or sinusoid.
 >
 > **[0:51](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/sine-wave-characteristics-14159242?u=76281980&t=51)** The AC power lines that bring electricity into your home, use voltage that oscillates back and forth as sine waves.
 >
@@ -2767,15 +2715,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (2), power (1)
+> **Frameworks & Libraries:** [[Electronics]] (2)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** always make sure (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measure AC voltage
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-ac-voltage-14158274?u=76281980)
+#### [Measure AC voltage](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/measure-ac-voltage-14158274?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2859,7 +2806,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (14), next (1)
 > **Env Vars:** dmm (6), rms (6)
 > **Definitions:** is a  (5), is called (1), refers to (1)
 > **CLI Commands:** make (1)
@@ -2871,8 +2817,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Frequency domain
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/frequency-domain-14158269?u=76281980)
+#### [Frequency domain](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/frequency-domain-14158269?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2945,8 +2890,7 @@ created: 2026-05-02
 > **Env Vars:** fft (1), ifft (1)
 > **Speakers:** - from (1)
 
-#### Bandwidth and square waves
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/bandwidth-and-square-waves-14160028?u=76281980)
+#### [Bandwidth and square waves](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/bandwidth-and-square-waves-14160028?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2992,7 +2936,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/bandwidth-and-square-waves-14160028?u=76281980&t=183)** At this point, it looks pretty close to being a square wave, but it's still not actually there.
 >
-> **[3:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/bandwidth-and-square-waves-14160028?u=76281980&t=189)** Although it's hard to see in this picture, if you zoom in close enough, you'll see that the corners of the square wave are still slightly rounded.
+> **[3:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/bandwidth-and-square-waves-14160028?u=76281980&t=189)** Although it's hard to see in this picture, if you [[Zoom]] in close enough, you'll see that the corners of the square wave are still slightly rounded.
 >
 > **[3:16](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/bandwidth-and-square-waves-14160028?u=76281980&t=196)** Creating a perfect square wave with perfectly sharp edges will require an infinite number of sine waves following this pattern of harmonics.
 >
@@ -3014,26 +2958,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Analogies:** just like (1), kind of like (1), picture (1), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Signal sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/signal-sources-14158273?u=76281980)
+#### [Signal sources](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/signal-sources-14158273?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/signal-sources-14158273?u=76281980&t=1)** - Many of the signals we use in electronic circuits come from a transducer, which is a device that converts from one form of energy into another.
 >
-> **[0:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/signal-sources-14158273?u=76281980&t=9)** In the realm of electronics, transducers are used to convert some physical phenomena into an electrical signal, which is a voltage or current that conveys some sort of information and to convert that electrical signal back into another useful form of energy.
+> **[0:09](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/signal-sources-14158273?u=76281980&t=9)** In the realm of [[Electronics]], transducers are used to convert some physical phenomena into an electrical signal, which is a voltage or current that conveys some sort of information and to convert that electrical signal back into another useful form of energy.
 >
 > **[0:25](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/signal-sources-14158273?u=76281980&t=25)** For example, right now, I'm speaking into a microphone, which is a transducer that converts the energy from the sound waves of my voice into an electrical signal.
 >
 > **[0:34](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/signal-sources-14158273?u=76281980&t=34)** And as you're listening to this video, that electrical signal representing my voice is being converted back into sound energy by another type of transducer, a speaker.
 >
-> **[0:45](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/signal-sources-14158273?u=76281980&t=45)** There's a huge variety of transducers that convert different forms of energy to and from electrical signals.
+> **[0:45](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/signal-sources-14158273?u=76281980&t=45)** There's a huge variety of transducers that convert different [[Forms]] of energy to and from electrical signals.
 >
 > **[0:51](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/signal-sources-14158273?u=76281980&t=51)** And most of the circuits we build use some form of transducer to interface between the electrical circuit and the physical world around it.
 >
@@ -3098,8 +3041,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Impedance
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-14157280?u=76281980)
+#### [Impedance](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-14157280?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3151,7 +3093,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-14157280?u=76281980&t=204)** Since the electrons in an alternating current just shuffle back and forth, they don't actually need to cross the dielectric barrier in the capacitor.
 >
-> **[3:32](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-14157280?u=76281980&t=212)** But to the rest of the circuit around the capacitor, it seems as if the capacitor is allowing alternating current to pass through it, because electrons are moving in and out of the capacitor as it charges and discharges.
+> **[3:32](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-14157280?u=76281980&t=212)** But to the [[Representational State Transfer (REST)|rest]] of the circuit around the capacitor, it seems as if the capacitor is allowing alternating current to pass through it, because electrons are moving in and out of the capacitor as it charges and discharges.
 >
 > **[3:45](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-14157280?u=76281980&t=225)** The capacitor will impede the flow of alternating current by some amount, and that depends on the frequency of the signal.
 >
@@ -3220,8 +3162,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - electronic (1)
 
-#### Filter frequency response
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/filter-frequency-response-14159238?u=76281980)
+#### [Filter frequency response](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/filter-frequency-response-14159238?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3333,15 +3274,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), semiconductor (1)
 > **Versions:** 0.998 (1), 3.6 (1), 0.954 (1), 17.44 (1), 0.847 (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Logarithmic scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/logarithmic-scale-14153734?u=76281980)
+#### [Logarithmic scale](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/logarithmic-scale-14153734?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3419,7 +3358,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/logarithmic-scale-14153734?u=76281980&t=201)** My two-story house is 25 feet tall and the Empire State building is 1,454 feet tall.
 >
-> **[3:29](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/logarithmic-scale-14153734?u=76281980&t=209)** When working with electronics, we commonly need to display information on graphs that spans a wide range of values.
+> **[3:29](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/logarithmic-scale-14153734?u=76281980&t=209)** When working with [[Electronics]], we commonly need to display information on graphs that spans a wide range of values.
 >
 > **[3:36](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/logarithmic-scale-14153734?u=76281980&t=216)** For example, this Bode Plot shows the magnitude of the gain for low pass filter over the range of frequencies going all the way up to one megahertz.
 >
@@ -3457,20 +3396,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Electronics]] (1), next (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Definitions:** is called (3), is a  (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Decibels
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decibels-14158268?u=76281980)
+#### [Decibels](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decibels-14158268?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decibels-14158268?u=76281980&t=0)** - [Tutor] To describe certain characteristics of electronic circuits, we often use the ratio of two values, such as the voltage gain of a filter, which is the ratio of the filters output amplitude over the input signal amplitude.
 >
-> **[0:15](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decibels-14158268?u=76281980&t=15)** When working with electronics, it's common to encounter ratios for characteristics like gain that are really, really large, going up into the millions or really, really small.
+> **[0:15](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decibels-14158268?u=76281980&t=15)** When working with [[Electronics]], it's common to encounter ratios for characteristics like gain that are really, really large, going up into the millions or really, really small.
 >
 > **[0:25](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decibels-14158268?u=76281980&t=25)** To make working with these large or small ratios easier, engineers frequently use a unit called decibels or dB for short.
 >
@@ -3604,7 +3542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (29), [[Electronics]] (3), express (3), feature (2)
+> **Frameworks & Libraries:** [[Electronics]] (3)
 > **Code Identifiers:** db (26), dbm (1), dbw (1), dbv (1)
 > **Definitions:** is a  (9)
 > **CLI Commands:** make (5)
@@ -3612,8 +3550,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [tutor] (1), - 10 (1)
 
-#### RC low pass filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/rc-low-pass-filter-14153743?u=76281980)
+#### [RC low pass filter](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/rc-low-pass-filter-14153743?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3745,7 +3682,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), parallel (1), hit (1)
 > **Versions:** 9.95 (2), 1.6 (2), 0.708 (1)
 > **Definitions:** is a  (2), is called (2), known as (1)
 > **Code Identifiers:** db (3)
@@ -3753,8 +3689,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - a (1)
 
-#### Decoupling capacitors
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decoupling-capacitors-14157274?u=76281980)
+#### [Decoupling capacitors](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decoupling-capacitors-14157274?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3790,7 +3725,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decoupling-capacitors-14157274?u=76281980&t=134)** As a rule of thumb, 100 nano farads is a good go-to value for decoupling capacitors, and it's usually a good idea to also include some 1 or 10 microfarad capacitors in the mix as well.
 >
-> **[2:27](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decoupling-capacitors-14157274?u=76281980&t=147)** In electronic schematics, you'll sometimes see all of the decoupling capacitors within a device grouped together into a funny looking row of capacitors like this one, and that's separated from the rest of the components on the schematic.
+> **[2:27](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decoupling-capacitors-14157274?u=76281980&t=147)** In electronic schematics, you'll sometimes see all of the decoupling capacitors within a device grouped together into a funny looking row of capacitors like this one, and that's separated from the [[Representational State Transfer (REST)|rest]] of the components on the schematic.
 >
 > **[2:40](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decoupling-capacitors-14157274?u=76281980&t=160)** This does not mean that those capacitors should be physically located next to each other in the circuit, the schematic is just a symbolic representation of those components, and the only reason that the decoupling capacitors are organized together like this is to reduce clutter on the rest of the schematic.
 >
@@ -3800,7 +3735,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decoupling-capacitors-14157274?u=76281980&t=197)** It wouldn't make sense to place all of the trash cans in your house next to each other, in the same room.
 >
-> **[3:22](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decoupling-capacitors-14157274?u=76281980&t=202)** You should distribute them throughout the house, keeping them close to places where you produce lots of trash, perhaps in an office area or places that you want to keep extra clean, like in the kitchen.
+> **[3:22](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decoupling-capacitors-14157274?u=76281980&t=202)** You should distribute them throughout the house, keeping them close to places where you produce lots of trash, perhaps in an [[Microsoft Office|office]] area or places that you want to keep extra clean, like in the kitchen.
 >
 > **[3:32](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/decoupling-capacitors-14157274?u=76281980&t=212)** The same idea applies to decoupling capacitors, you should distribute them throughout your circuit placing them close to sources of signal noise and putting them near delicate components that you really want to protect.
 >
@@ -3814,15 +3749,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2), kind of like (1)
 > **Best Practices:** rule of thumb (1), you should always (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### RC high pass filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/rc-high-pass-filter-14155492?u=76281980)
+#### [RC high pass filter](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/rc-high-pass-filter-14155492?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3898,7 +3832,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (1), node (1), power (1)
 > **Versions:** 1.6 (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** node (1)
@@ -3906,8 +3839,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - a (1)
 
-#### Impedance matching and bridging
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-matching-and-bridging-14156505?u=76281980)
+#### [Impedance matching and bridging](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-matching-and-bridging-14156505?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3949,7 +3881,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-matching-and-bridging-14156505?u=76281980&t=164)** Now, the question to consider when designing electronic systems, is how the input and output impedance of different circuits should compare to each other.
 >
-> **[2:53](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-matching-and-bridging-14156505?u=76281980&t=173)** And like many things when working with electronics, it depends on what you're trying to accomplish.
+> **[2:53](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-matching-and-bridging-14156505?u=76281980&t=173)** And like many things when working with [[Electronics]], it depends on what you're trying to accomplish.
 >
 > **[2:59](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-matching-and-bridging-14156505?u=76281980&t=179)** If I'm sending a voltage signal from the source circuit to a load circuit, then my goal will be to maximize the voltage that gets transferred to the load and minimize the amount of current that the load draws.
 >
@@ -3985,7 +3917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Analogies:** such as (2), similar to (1), for example (1)
 > **Definitions:** known as (3)
 > **Versions:** 99.9 (1)
@@ -3993,8 +3925,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [tutor] (1)
 
-#### Challenge: Filter audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/challenge-filter-audio-14155493?u=76281980)
+#### [Challenge: Filter audio](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/challenge-filter-audio-14155493?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4025,8 +3956,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Filter audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/solution-filter-audio-14158259?u=76281980)
+#### [Solution: Filter audio](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/solution-filter-audio-14158259?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4099,8 +4029,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inductance
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/inductance-14159237?u=76281980)
+#### [Inductance](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/inductance-14159237?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4182,14 +4111,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), parallel (3), next (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is an inductor?
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-inductor-14159236?u=76281980)
+#### [What is an inductor?](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-inductor-14159236?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4267,7 +4194,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-inductor-14159236?u=76281980&t=219)** The letter L is commonly used to represent inductors, just like how R is used to represent resistors and C is used for capacitors.
 >
-> **[3:47](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-inductor-14159236?u=76281980&t=227)** Now that might seem a little strange since the word inductor doesn't have an L in it.
+> **[3:47](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-inductor-14159236?u=76281980&t=227)** Now that might seem a little strange since the [[Microsoft Word|word]] inductor doesn't have an L in it.
 >
 > **[3:52](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-inductor-14159236?u=76281980&t=232)** But L was chosen as the symbol for inductors to honor the physicist Heinrich Lenz.
 >
@@ -4282,8 +4209,7 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 
-#### Types of inductors
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-inductors-14160023?u=76281980)
+#### [Types of inductors](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-inductors-14160023?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4337,14 +4263,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (4), power (1)
 > **Analogies:** similar to (3), just like (1)
 > **CLI Commands:** find (2)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### L/R response
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/l-r-response-14158258?u=76281980)
+#### [L/R response](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/l-r-response-14158258?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4410,15 +4334,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6)
 > **Analogies:** similar to (2), for example (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is called (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capacitors vs. inductors
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitors-vs-inductors-14155507?u=76281980)
+#### [Capacitors vs. inductors](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitors-vs-inductors-14155507?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4432,7 +4354,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitors-vs-inductors-14155507?u=76281980&t=32)** Inductors, on the other hand, store energy in the magnetic field surrounding a coil of wire.
 >
-> **[0:38](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitors-vs-inductors-14155507?u=76281980&t=38)** In regards to how capacitors and inductors react to change, capacitors resist sudden changes in voltage by absorbing and releasing stored charge, attempting to maintain a constant voltage across the capacitor.
+> **[0:38](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitors-vs-inductors-14155507?u=76281980&t=38)** In regards to how capacitors and inductors [[React.js|react]] to change, capacitors resist sudden changes in voltage by absorbing and releasing stored charge, attempting to maintain a constant voltage across the capacitor.
 >
 > **[0:51](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/capacitors-vs-inductors-14155507?u=76281980&t=51)** Inductors resist change in current by expanding and collapsing the magnetic field in the coils.
 >
@@ -4500,7 +4422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), power (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Analogies:** for example (3)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
@@ -4510,8 +4432,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue to learn more on electronics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/continue-to-learn-more-on-electronics?u=76281980)
+#### [Continue to learn more on electronics](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/continue-to-learn-more-on-electronics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4523,13 +4444,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/continue-to-learn-more-on-electronics?u=76281980&t=20)** Understanding the nature of electrical signals gives you the power to manipulate them with filters to meet your needs and it helps with figuring out what could be going wrong when a circuit doesn't work.
 >
-> **[0:30](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/continue-to-learn-more-on-electronics?u=76281980&t=30)** As you continue to learn about electronics, keep this course in mind as a reference you can return back to if you need help remembering a specific concept or just want to use one of the example circuits.
+> **[0:30](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/continue-to-learn-more-on-electronics?u=76281980&t=30)** As you continue to learn about [[Electronics]], keep this course in mind as a reference you can return back to if you need help remembering a specific concept or just want to use one of the example circuits.
 >
 > **[0:41](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/continue-to-learn-more-on-electronics?u=76281980&t=41)** Good luck and may your circuits always work right the first time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Speakers:** - thanks (1)
 
 

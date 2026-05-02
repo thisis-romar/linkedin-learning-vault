@@ -79,16 +79,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing your supply chain app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980)
+#### [Designing your supply chain app](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980&t=0)** - Let's make a Supply Chain and let's put it on the Blockchain.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980&t=0)** - Let's make a Supply Chain and let's put it on the [[Blockchain]].
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980&t=4)** Basically let's remember what we're doing and why we're doing it.
 >
-> **[0:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980&t=9)** We're developing a Supply Chain Application, which is a framework that connects producers to consumers and manages the products and the services along that journey.
+> **[0:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980&t=9)** We're developing a Supply Chain Application, which is a framework that connects producers to consumers and manages the [[Microsoft Products|products]] and the services along that journey.
 >
 > **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980&t=20)** The reason we're going to the Blockchain is because we want to reduce the costs of all those middlemen, and we want to offer transparency and visibility.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980&t=101)** If you have multiple ownership records, you can tell that at a certain point in time, a particular participant owned a particular asset, and that's how we're going to be able to track the ownership changes.
 >
-> **[1:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980&t=113)** And then finally, we want to be able to define this notion of a payment token participants pay each other with tokens as the ownership changes.
+> **[1:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980&t=113)** And then finally, we want to be able to define this notion of a payment token participants pay each other with [[Tokens]] as the ownership changes.
 >
 > **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980&t=124)** So you basically have a purchase price or a transfer price.
 >
@@ -166,21 +165,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (7), [[Tokens]] (4), [[Microsoft Products|Products]] (3), [[Blockchain]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Microsoft Products|Products]] (3), [[Blockchain]] (2)
 > **Tools:** notion (2)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
 
-#### What are dApps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980)
+#### [What are dApps?](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=1)** - As we move into actual development, we move into the development phase from the design phase.
 >
-> **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=6)** We want to keep one thing in mind, and that is that we're not just writing smart contracts.
+> **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=6)** We want to keep one thing in mind, and that is that we're not just writing [[Smart Contracts]].
 >
 > **[0:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=12)** Oftentimes we focus just on the details of the smart contract code, but we have to keep in mind that we're actually developing a larger application and it`s a special type of application.
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=70)** In other words, don't read something that's local off a disc that allows us to cause the output to be different.
 >
-> **[1:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=77)** For some reason, we want to stay within our little sandbox, which is the EVM, the Ethereum Virtual Machine.
+> **[1:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=77)** For some reason, we want to stay within our little sandbox, which is the EVM, the [[Ethereum]] Virtual Machine.
 >
 > **[1:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=84)** So the advantages of this decentralized environment means that we have automatic history tracking of data and code for that matter.
 >
@@ -208,7 +206,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=101)** And all the other nodes keep on operating.
 >
-> **[1:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=104)** When the failed node or nodes come back to life, they can rejoin the network, resync the blockchain, and you're rocking and rolling again.
+> **[1:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=104)** When the failed node or nodes come back to life, they can rejoin the network, resync the [[Blockchain]], and you're rocking and rolling again.
 >
 > **[1:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=112)** You don't have to worry about this fault tolerance and centralizing functionality or data.
 >
@@ -250,7 +248,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=257)** You can do it, but as soon as you do that, you change the hash.
 >
-> **[4:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=260)** You invalidate the block and then you invalidate the entire rest of the blockchain.
+> **[4:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=260)** You invalidate the block and then you invalidate the entire [[Representational State Transfer (REST)|rest]] of the blockchain.
 >
 > **[4:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/what-are-dapps?u=76281980&t=266)** One thing we didn't talk exclusively about or talk in depth about was that, remember when you change data, you change the hash.
 >
@@ -284,7 +282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (23), data (15), application (10), [[Smart Contracts]] (4), node (3)
+> **Frameworks & Libraries:** [[Blockchain]] (23), [[Smart Contracts]] (4), [[Ethereum]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** node (3), make (3)
 > **Code Identifiers:** dapp (4), dapps (2)
 > **Definitions:** means that (3), is an  (2), in other words (1)
@@ -293,8 +291,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** before we start (1)
 
-#### Token smart contract details
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980)
+#### [Token smart contract details](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,11 +305,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=23)** And secondly, we want to restrict the participants to authorize supply chain participants.
 >
-> **[0:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=30)** In other words, you can't pay for anything on the supply chain unless you own some of the tokens.
+> **[0:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=30)** In other words, you can't pay for anything on the supply chain unless you own some of the [[Tokens]].
 >
 > **[0:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=37)** And we only sell these tokens to people that we allow into the supply chain.
 >
-> **[0:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=41)** So since we're dealing with a public blockchain, we don't have as much capability to limit participation.
+> **[0:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=41)** So since we're dealing with a public [[Blockchain]], we don't have as much capability to limit participation.
 >
 > **[0:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=50)** But if we use our own token, that means you cannot pay for the supply chain functionality unless you own some of this token.
 >
@@ -346,7 +343,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=129)** It's easy to find a wallet that is compatible with ERC-20 standards.
 >
-> **[2:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=134)** And so we're going to implement the most commonly used Ethereum token.
+> **[2:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=134)** And so we're going to implement the most commonly used [[Ethereum]] token.
 >
 > **[2:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=140)** So I'm going to show you how you can do it yourself through this example.
 >
@@ -384,7 +381,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=214)** Well, that works fine for US currency.
 >
-> **[3:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=217)** But when you start dealing with cryptocurrency, it's often common to have a need for more precision.
+> **[3:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=217)** But when you start dealing with [[Cryptocurrency]], it's often common to have a need for more precision.
 >
 > **[3:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=224)** So you may want to have eight, or 10, or 12 decimal places after the decimal point so we can own, let's say 0000133 tokens.
 >
@@ -460,7 +457,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=392)** An example of that in the real world, maybe something like a purchase order.
 >
-> **[6:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=396)** If you go to a company and you want to purchase some products from them, you may issue a purchase order to say, "I authorize you to ship up to $5,000 worth of goods to me.
+> **[6:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=396)** If you go to a company and you want to purchase some [[Microsoft Products|products]] from them, you may issue a purchase order to say, "I authorize you to ship up to $5,000 worth of goods to me.
 >
 > **[6:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-details?u=76281980&t=408)** "And I'm going to chip away at this "over the next couple of weeks."
 >
@@ -474,7 +471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (16), data (6), [[Blockchain]] (2), application (1), product (1)
+> **Frameworks & Libraries:** [[Tokens]] (16), [[Blockchain]] (2), [[Ethereum]] (1), [[Cryptocurrency]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** erc (9)
 > **Definitions:** is a  (3), in other words (1), means that (1)
 > **CLI Commands:** find (2), make (1)
@@ -483,14 +480,13 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - so (1)
 
-#### Supply chain smart contract details
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980)
+#### [Supply chain smart contract details](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=1)** - Okay. So let's take a look at what's inside our supply chain smart contract.
 >
-> **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=7)** It contains basically the data and the functionality to manage all the products, the participants, and all ownership transfers.
+> **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=7)** It contains basically the data and the functionality to manage all the [[Microsoft Products|products]], the participants, and all ownership transfers.
 >
 > **[0:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=15)** Because if you think about a supply chain, it's basically a collection of products that are owned by specific participants at a certain point in time.
 >
@@ -536,7 +532,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=117)** We also have a participant structure that means that each participant will get it's on record, so to speak.
 >
-> **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=124)** And it has these attributes such as username, password, Ethereum address, and so on and so forth.
+> **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=124)** And it has these attributes such as username, password, [[Ethereum]] address, and so on and so forth.
 >
 > **[2:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=131)** And we'll also have a mapping that gives us a list of this participant structure.
 >
@@ -572,7 +568,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=205)** For participant and owners, we need to provide two functions each.
 >
-> **[3:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=209)** AddParticipant to create a new participant and getParticipant so we can fetch information and display it.
+> **[3:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=209)** AddParticipant to create a new participant and getParticipant so we can [[Fetch]] information and display it.
 >
 > **[3:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-details?u=76281980&t=216)** Same thing for product, add a new product and get a product.
 >
@@ -622,15 +618,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (18), data (6), [[Microsoft Products|Products]] (4), [[Fetch]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Fetch]] (2), [[Ethereum]] (1)
 > **Code Identifiers:** getparticipant (1), newowner (1), getprovenance (1), getownership (1), authenticatingparticipants (1)
 > **Definitions:** is a  (3), in other words (1), basically means (1), means that (1)
 > **Analogies:** such as (2), kind of like (2)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - okay (1)
 
-#### Smart contract road map
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/smart-contract-road-map?u=76281980)
+#### [Smart contract road map](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/smart-contract-road-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +641,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/smart-contract-road-map?u=76281980&t=29)** We basically have this table here.
 >
-> **[0:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/smart-contract-road-map?u=76281980&t=31)** The columns are our smart contracts.
+> **[0:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/smart-contract-road-map?u=76281980&t=31)** The columns are our [[Smart Contracts]].
 >
 > **[0:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/smart-contract-road-map?u=76281980&t=34)** We have a token smart contract and we have a supply chain smart contract.
 >
@@ -674,16 +669,15 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/smart-contract-road-map?u=76281980&t=100)** And hopefully that'll flow a little bit better.
 >
-> **[1:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/smart-contract-road-map?u=76281980&t=103)** So when we put them back together, you really will have learned a lot of solidity.
+> **[1:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/smart-contract-road-map?u=76281980&t=103)** So when we put them back together, you really will have learned a lot of [[Solidity]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Smart Contracts]] (3), [[Solidity]] (1)
+> **Frameworks & Libraries:** [[Smart Contracts]] (3), [[Solidity]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
 
-#### Token smart contract data, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980)
+#### [Token smart contract data, part 1](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,7 +691,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=18)** Let's do it.
 >
-> **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=20)** All right, the first thing we'll do is we'll open PowerShell and I'm going to cd down to my workspace directory, and I'm going to create a new folder, and that folder is going to be "SupplyChainApp"
+> **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=20)** All right, the first thing we'll do is we'll open [[Powershell]] and I'm going to cd down to my workspace directory, and I'm going to create a new folder, and that folder is going to be "SupplyChainApp"
 >
 > **[0:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=38)** So I'm going to use mkdir SupplyChainApp.
 >
@@ -721,7 +715,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=86)** Guess what? We have free code for you.
 >
-> **[1:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=88)** It's either going to be available via download, or you can copy it from the notes of the PowerPoint slides.
+> **[1:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=88)** It's either going to be available via download, or you can copy it from the notes of the [[Microsoft PowerPoint|PowerPoint]] slides.
 >
 > **[1:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=96)** So I have it already in another directory.
 >
@@ -763,7 +757,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=209)** Whenever you start a new project and you initialize it with truffle, don't forget that you need to edit that truffle-config.js.
 >
-> **[3:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=217)** It only takes a minute, but that's how we connect each truffle project to the blockchain.
+> **[3:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=217)** It only takes a minute, but that's how we connect each truffle project to the [[Blockchain]].
 >
 > **[3:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=223)** The beauty of it is if you use the other option in Ganache to create a new workspace, you can have multiple blockchains out there, maybe one for each project, and each one is going to be running on a different port.
 >
@@ -785,17 +779,17 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=285)** I'm going to start with the ERC20 interface.
 >
-> **[4:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=289)** So this was downloaded directly from GitHub.
+> **[4:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=289)** So this was downloaded directly from [[GitHub]].
 >
 > **[4:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=292)** And if you look carefully, you'll notice a couple of strange features here.
 >
 > **[4:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=297)** I keep calling the token, the ERC20 token or ERC20 token standard.
 >
-> **[5:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=304)** ERC stands for Ethereum request for comments, but the real name is actually an Ethereum improvement proposal.
+> **[5:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=304)** ERC stands for [[Ethereum]] request for comments, but the real name is actually an Ethereum improvement proposal.
 >
 > **[5:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=316)** So technically, this is the EIP20.
 >
-> **[5:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=319)** So it's the 20th improvement proposal for Ethereum tokens.
+> **[5:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=319)** So it's the 20th improvement proposal for Ethereum [[Tokens]].
 >
 > **[5:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-1?u=76281980&t=325)** So the bottom line is you may see this referred to as ERC20 or EIP20.
 >
@@ -817,7 +811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), [[Ethereum]] (4), cd (2), [[GitHub]] (2), data (2)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Ethereum]] (4), [[GitHub]] (2), [[Powershell]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** erc20 (6), eip20 (2), erc (1)
 > **Tools:** visual studio (3), github (2), powershell (1)
 > **CLI Commands:** cd (2), mkdir (1), find (1), make (1)
@@ -826,8 +820,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), click on (1)
 > **Warnings:** be aware (2)
 
-#### Token smart contract data, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980)
+#### [Token smart contract data, part 2](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -869,7 +862,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=117)** So what we see see here is an honest to goodness interface.
 >
-> **[2:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=121)** That's what you see in other object oriented languages and interface is basically a contract, we don't like to use the word contract, 'cause we're using smart contract, but think of an interface as being an agreement.
+> **[2:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=121)** That's what you see in other object oriented languages and interface is basically a contract, we don't like to use the [[Microsoft Word|word]] contract, 'cause we're using smart contract, but think of an interface as being an agreement.
 >
 > **[2:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=135)** If you want to base your smart contract on this interface, i.e, the ERC 20 interface, you must implement these functions and this data.
 >
@@ -891,7 +884,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=179)** So we're going to call it a constant.
 >
-> **[3:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=181)** A constant in solidity is a variable that won't allow us to ever change it.
+> **[3:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=181)** A constant in [[Solidity]] is a variable that won't allow us to ever change it.
 >
 > **[3:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=186)** So we basically just say, Hey, I'm going to assign in a value once and it'll never change.
 >
@@ -903,7 +896,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=212)** It's going to be public so everybody can see it, and it's going to be called balances.
 >
-> **[3:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=216)** And what we're going to do here is we're going to map addresses, which are owners of tokens, to the number of tokens that they own.
+> **[3:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=216)** And what we're going to do here is we're going to map addresses, which are owners of [[Tokens]], to the number of tokens that they own.
 >
 > **[3:46](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=226)** So that's why we have an address mapped to a number.
 >
@@ -919,13 +912,13 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=275)** It's the POs that are currently open in the real world.
 >
-> **[4:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=279)** All right, the rest of the functionality is a list of all the functions.
+> **[4:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=279)** All right, the [[Representational State Transfer (REST)|rest]] of the functionality is a list of all the functions.
 >
 > **[4:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=284)** And actually before we even get there, we do have this special type of function we haven't talked about, which is a constructor.
 >
 > **[4:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=291)** Whenever we create a new object or a new data item, the constructor is a special function that fires and automatically runs, and it is the initialization code.
 >
-> **[5:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=304)** So the first thing that happens is when we create a new token is we give it an initial amount, a name, the number of decimals and a symbol, and so those are assigned and stored on the blockchain.
+> **[5:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=304)** So the first thing that happens is when we create a new token is we give it an initial amount, a name, the number of decimals and a symbol, and so those are assigned and stored on the [[Blockchain]].
 >
 > **[5:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=317)** And the rest of the functions actually carry out the functionality of how we're going to operate within our token.
 >
@@ -969,11 +962,11 @@ created: 2026-05-02
 >
 > **[7:55](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=475)** There's a lot going on here, but you can see how things are pulled together.
 >
-> **[8:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=480)** I'll spend a little bit more detailed time when we look at further smart contracts, because I don't want to overwhelm you with too much syntax right now, 'cause I probably already have, but at least you get a good taste of how Solidity operates in a real useful smart contract.
+> **[8:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-data-part-2?u=76281980&t=480)** I'll spend a little bit more detailed time when we look at further [[Smart Contracts]], because I don't want to overwhelm you with too much syntax right now, 'cause I probably already have, but at least you get a good taste of how Solidity operates in a real useful smart contract.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (7), data (3), [[Solidity]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (7), [[Solidity]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1), [[Blockchain]] (1)
 > **Definitions:** is a  (6), is an  (3), in other words (2), means that (1)
 > **Env Vars:** erc (8)
 > **CLI Commands:** make (2)
@@ -982,14 +975,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** initialization (1)
 
-#### Supply chain smart contract data, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980)
+#### [Supply chain smart contract data, part 1](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=1)** - Okay, so now we've already looked at the token interface and smart contract, so let's take a look at the supply chain smart contract.
 >
-> **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=11)** So let's take a look at Visual Studio Code and we'll look at some more Solidity.
+> **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=11)** So let's take a look at Visual Studio Code and we'll look at some more [[Solidity]].
 >
 > **[0:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=15)** All right, so here is our supply chain smart contract.
 >
@@ -1007,7 +999,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=48)** So at the very beginning, we defined three variables and the three variables represent the IDs of the product, the participant, and the owner.
 >
-> **[0:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=58)** And we're going to use uint32s because we are going to use these values on the blockchain, so we don't want 'em to be too big.
+> **[0:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=58)** And we're going to use uint32s because we are going to use these values on the [[Blockchain]], so we don't want 'em to be too big.
 >
 > **[1:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=66)** Uint256 would probably take up a little bit too much space.
 >
@@ -1039,7 +1031,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=142)** So if we look in the structure, we're going to find the data or the attributes for a single product.
 >
-> **[2:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=147)** So now that we've defined one product, that's really kind of exciting, but we can't do much with one product because as I mentioned earlier, our supply chain needs to be able to manage multiple products.
+> **[2:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=147)** So now that we've defined one product, that's really kind of exciting, but we can't do much with one product because as I mentioned earlier, our supply chain needs to be able to manage multiple [[Microsoft Products|products]].
 >
 > **[2:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-1?u=76281980&t=159)** So how do we do that?
 >
@@ -1081,19 +1073,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (19), [[Microsoft Products|Products]] (6), [[Solidity]] (3), next (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Solidity]] (3), [[Blockchain]] (1)
 > **Definitions:** is a  (4), we call this (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 4.21 (1), 6.0 (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - okay (1)
 
-#### Supply chain smart contract data, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980)
+#### [Supply chain smart contract data, part 2](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980&t=0)** - All right, let's get back into the code and let's look at the rest of the data that we need to define our supply chain smart contract.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980&t=0)** - All right, let's get back into the code and let's look at the [[Representational State Transfer (REST)|rest]] of the data that we need to define our supply chain smart contract.
 >
 > **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980&t=10)** Okay, We've already talked about the three variables, the ID variables, and our product structure, along with the mapping.
 >
@@ -1107,11 +1098,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980&t=38)** And then we have the single address.
 >
-> **[0:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980&t=41)** And the address is actually an address data type, which is an Ethereum address.
+> **[0:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980&t=41)** And the address is actually an address data type, which is an [[Ethereum]] address.
 >
 > **[0:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980&t=45)** So this maps to an actual Ethereum address.
 >
-> **[0:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980&t=48)** And we're going to use that to track ownership of the products.
+> **[0:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980&t=48)** And we're going to use that to track ownership of the [[Microsoft Products|products]].
 >
 > **[0:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-data-part-2?u=76281980&t=52)** Well, just like we had a list of products, we also want a list of participants.
 >
@@ -1175,17 +1166,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), data (4), [[Microsoft Products|Products]] (4), [[Ethereum]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Ethereum]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** just like (1)
 > **Speakers:** - all (1)
 
-#### Token smart contract functions, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-1?u=76281980)
+#### [Token smart contract functions, part 1](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-1?u=76281980&t=0)** - Okay, so we've looked at both types of smart contracts with respect to the data that we need.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-1?u=76281980&t=0)** - Okay, so we've looked at both types of [[Smart Contracts]] with respect to the data that we need.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-1?u=76281980&t=7)** Now, let's get into the actual functional implementations.
 >
@@ -1205,7 +1195,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-1?u=76281980&t=40)** All right, let's continue on from there.
 >
-> **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-1?u=76281980&t=42)** The transfer function transfers tokens from the message sender to a specified address.
+> **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-1?u=76281980&t=42)** The transfer function transfers [[Tokens]] from the message sender to a specified address.
 >
 > **[0:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-1?u=76281980&t=47)** But what if I want to transfer a token from one address to another address, and I may be operating as a delegate on behalf of someone else.
 >
@@ -1279,15 +1269,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (2), [[Smart Contracts]] (1), data (1), functional (1), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Smart Contracts]] (1)
 > **Definitions:** in other words (4)
 > **Analogies:** kind of like (2), think of it as (1)
 > **Warnings:** keep in mind (1), note that (1)
 > **Env Vars:** erc (1)
 > **Speakers:** - okay (1)
 
-#### Token smart contract functions, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980)
+#### [Token smart contract functions, part 2](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1349,7 +1338,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=137)** And it would return 5,000 for the new PO, and finally the last function, but not the least function is total supply.
 >
-> **[2:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=145)** What are the total number of tokens in circulation?
+> **[2:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=145)** What are the total number of [[Tokens]] in circulation?
 >
 > **[2:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=149)** And that does nothing more than returns the value of total supply.
 >
@@ -1359,7 +1348,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=162)** Total supply is a uint public variable.
 >
-> **[2:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=168)** One thing that's really important to look at here is clearly I hope it's, it's fairly clear if you think through total supply or tot supply is an actual state variable, which means it's stored in the blockchain.
+> **[2:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=168)** One thing that's really important to look at here is clearly I hope it's, it's fairly clear if you think through total supply or tot supply is an actual state variable, which means it's stored in the [[Blockchain]].
 >
 > **[3:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=183)** So anytime that we return its value, we're simply reading it from the blockchain and showing it to you.
 >
@@ -1369,13 +1358,13 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=205)** All right, so those are the functions that make up our ERC 20 compatible token.
 >
-> **[3:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=211)** And if you implement each of these functions, you can have your own ERC 20 compatible token out there on the live Ethereum network, and you can start funding it and convince people to invest in your tokens and do anything you want to, and then spend them however you want to.
+> **[3:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=211)** And if you implement each of these functions, you can have your own ERC 20 compatible token out there on the live [[Ethereum]] network, and you can start funding it and convince people to invest in your tokens and do anything you want to, and then spend them however you want to.
 >
 > **[3:46](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/token-smart-contract-functions-part-2?u=76281980&t=226)** But that's what it takes to crank up and define your own token.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (3), [[Blockchain]] (2), data (1), next (1), [[Ethereum]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Blockchain]] (2), [[Ethereum]] (1)
 > **Definitions:** is an  (2), in other words (2), is a  (1)
 > **Env Vars:** erc (2)
 > **CLI Commands:** make (1)
@@ -1384,8 +1373,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - there (1)
 
-#### Supply chain smart contract functions, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980)
+#### [Supply chain smart contract functions, part 1](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,9 +1381,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=7)** Remember, we've already looked at the data items.
 >
-> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=10)** We have some variables, we have some product structures, and that's just data that just kind of lays there and does nothing on the blockchain.
+> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=10)** We have some variables, we have some product structures, and that's just data that just kind of lays there and does nothing on the [[Blockchain]].
 >
-> **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=17)** In order to do something with the data, like add new data or fetch the data, or maybe take the data and change it, so we're going to add more data, we need some action code to do that.
+> **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=17)** In order to do something with the data, like add new data or [[Fetch]] the data, or maybe take the data and change it, so we're going to add more data, we need some action code to do that.
 >
 > **[0:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=31)** Well, that's what functions are.
 >
@@ -1403,7 +1391,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=35)** And we have action code that does something to the data.
 >
-> **[0:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=39)** So functions are the actions we carry out in our smart contracts.
+> **[0:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=39)** So functions are the actions we carry out in our [[Smart Contracts]].
 >
 > **[0:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=43)** So let's go look at our functions for the supply chain.
 >
@@ -1437,7 +1425,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=116)** Then, we apply these values or assign these values to the attributes in our participants structure.
 >
-> **[2:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=125)** So we've done a lot of things here, or Solidity does a lot for us.
+> **[2:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=125)** So we've done a lot of things here, or [[Solidity]] does a lot for us.
 >
 > **[2:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=129)** Notice the naming conventions.
 >
@@ -1509,7 +1497,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=344)** There's one thing that's a little bit new here.
 >
-> **[5:46](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=346)** We want to make sure that only manufacturers can add new products, because they're the ones that actually add products to the beginning of the supply chain.
+> **[5:46](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=346)** We want to make sure that only manufacturers can add new [[Microsoft Products|products]], because they're the ones that actually add products to the beginning of the supply chain.
 >
 > **[5:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-1?u=76281980&t=357)** Now, clearly this is for manufacturing supply chain.
 >
@@ -1597,15 +1585,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), product (10), [[Solidity]] (6), [[Blockchain]] (3), next (3)
+> **Frameworks & Libraries:** [[Solidity]] (6), [[Blockchain]] (3), [[Microsoft Products|Products]] (3), [[Fetch]] (1), [[Smart Contracts]] (1)
 > **Code Identifiers:** participant_id (5), participanttype (4), addparticipant (3), userid (3), username (2)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - all (1)
 
-#### Supply chain smart contract functions, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-2?u=76281980)
+#### [Supply chain smart contract functions, part 2](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1631,7 +1618,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-2?u=76281980&t=46)** So what we're going to do is we're, first off, going to create two local variables, p1 and p2.
 >
-> **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-2?u=76281980&t=54)** We're going to deliberately call these, or define them, as memory variables, or memory structures actually, so that they're not going to be stored on the blockchain.
+> **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-2?u=76281980&t=54)** We're going to deliberately call these, or define them, as memory variables, or memory structures actually, so that they're not going to be stored on the [[Blockchain]].
 >
 > **[1:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-2?u=76281980&t=66)** So we're doing this, and defining these as local structures, in order to avoid being charged for blockchain interaction.
 >
@@ -1685,7 +1672,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-2?u=76281980&t=235)** The timestamp is the current timestamp.
 >
-> **[3:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-2?u=76281980&t=238)** The productOwner is now p2 participantId, So, we're going into the products mapping and we're changing the current products owner.
+> **[3:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-2?u=76281980&t=238)** The productOwner is now p2 participantId, So, we're going into the [[Microsoft Products|products]] mapping and we're changing the current products owner.
 >
 > **[4:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/supply-chain-smart-contract-functions-part-2?u=76281980&t=249)** And we also go into the productTrack mapping, and we're going to push the ownership_id.
 >
@@ -1769,19 +1756,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Blockchain]] (6), data (3), [[Microsoft Products|Products]] (2), application (2)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Microsoft Products|Products]] (2)
 > **Code Identifiers:** productowner (3), newowner (3), ownership_id (2), participanttype (2), productid (2)
 > **Definitions:** is a  (9), basically means (1)
 > **CLI Commands:** make (5)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - all (1)
 
-#### Using events
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980)
+#### [Using events](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=0)** - Okay, so when we start looking at Solidity and the way we write smart contract code.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=0)** - Okay, so when we start looking at [[Solidity]] and the way we write smart contract code.
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=6)** If you're really used to traditional coding you may look at some of this stuff and go this is really weird.
 >
@@ -1795,7 +1781,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=24)** I've used them other places, but I'm not really sure where they fit.
 >
-> **[0:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=28)** Well that's because it solves one of the several issues of smart contracts.
+> **[0:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=28)** Well that's because it solves one of the several issues of [[Smart Contracts]].
 >
 > **[0:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=34)** Remember this smart contract code runs on each EVM, which is on a node.
 >
@@ -1841,9 +1827,9 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=147)** Here's an example.
 >
-> **[2:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=148)** Let's assume that we are looking at, let's say a Word processor.
+> **[2:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=148)** Let's assume that we are looking at, let's say a [[Microsoft Word|Word]] processor.
 >
-> **[2:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=154)** If you think about it and you launch Microsoft Word, once you launch the program, it just sits there.
+> **[2:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=154)** If you think about it and you launch [[Microsoft Word]], once you launch the program, it just sits there.
 >
 > **[2:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/using-events?u=76281980&t=159)** It doesn't do anything, all right.
 >
@@ -1959,7 +1945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Microsoft Word]] (3), [[Solidity]] (2), [[Smart Contracts]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word]] (3), [[Solidity]] (2), [[Smart Contracts]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** evm (5)
 > **CLI Commands:** node (1), go run (1)
 > **UI Navigation:** go to (1)
@@ -1968,12 +1954,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - okay (1)
 
-#### Implementing events
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-events?u=76281980)
+#### [Implementing events](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-events?u=76281980&t=0)** - All right. So how do we implement events in Solidity.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-events?u=76281980&t=0)** - All right. So how do we implement events in [[Solidity]].
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-events?u=76281980&t=4)** Let's go back and look at some code for both the ERC-20 token interface, and the supply chain smart contract.
 >
@@ -1987,7 +1972,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-events?u=76281980&t=35)** We have an event transfer and an event approval.
 >
-> **[0:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-events?u=76281980&t=39)** And we see that the data we have for the transfer, we're going to send the from, the to, and the number of tokens.
+> **[0:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-events?u=76281980&t=39)** And we see that the data we have for the transfer, we're going to send the from, the to, and the number of [[Tokens]].
 >
 > **[0:46](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-events?u=76281980&t=46)** For approval, we send back, or we return to, whoever's listening, the token owners address, the spenders address, and the number of tokens.
 >
@@ -2063,19 +2048,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (4), [[Tokens]] (4), product (3), data (2)
+> **Frameworks & Libraries:** [[Solidity]] (4), [[Tokens]] (4)
 > **Env Vars:** erc (4)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** means that (1)
 > **Speakers:** - all (1)
 
-#### More on ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980)
+#### [More on ownership](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=1)** - One of the nice features of Blockchain in general, is the fact that every action has an owner.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=1)** - One of the nice features of [[Blockchain]] in general, is the fact that every action has an owner.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=7)** There is this very very clear definition of ownership of things that occur.
 >
@@ -2095,7 +2079,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=54)** Nonrepudiation just simply means that every action that occurs, can be attributed with one account.
 >
-> **[1:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=63)** Alright, so, how does Ethereum handle this, and how can we leverage it?
+> **[1:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=63)** Alright, so, how does [[Ethereum]] handle this, and how can we leverage it?
 >
 > **[1:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=70)** In some cases, we want to provide functionality that has higher authority and more capability to data owners.
 >
@@ -2155,7 +2139,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=209)** So a modifier is like an add-on functionality that helps us ensure certain things occur.
 >
-> **[3:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=214)** You've already seen it once, but let's take another look at what it might look like in real solidity code.
+> **[3:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=214)** You've already seen it once, but let's take another look at what it might look like in real [[Solidity]] code.
 >
 > **[3:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=220)** Alright, let's take a look at the concept of owner first, before we look at the modifier.
 >
@@ -2173,7 +2157,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=260)** That is a number of initial token or coins we want to kind of pre-seed this token width.
 >
-> **[4:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=269)** So we're basically going to say, how many coins or how many tokens are in the initial pool?
+> **[4:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=269)** So we're basically going to say, how many coins or how many [[Tokens]] are in the initial pool?
 >
 > **[4:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=274)** So let's say we create this with 5,000 tokens.
 >
@@ -2211,7 +2195,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=402)** So it reassigns the owner.
 >
-> **[6:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=404)** And we want to restrict this so that only the products current owner can run this.
+> **[6:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=404)** And we want to restrict this so that only the [[Microsoft Products|products]] current owner can run this.
 >
 > **[6:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/more-on-ownership?u=76281980&t=408)** And we do that by adding this little modifier right there in the function header.
 >
@@ -2235,7 +2219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Solidity]] (4), [[Tokens]] (4), [[Blockchain]] (3), data (3)
+> **Frameworks & Libraries:** [[Solidity]] (4), [[Tokens]] (4), [[Blockchain]] (3), [[Ethereum]] (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (6), basically means (1), is an  (1), is called (1), in other words (1)
 > **Code Identifiers:** onlyowner (3), newowner (2), erc20token (1)
 > **CLI Commands:** make (2)
@@ -2244,8 +2228,7 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Analogies:** such as (1)
 
-#### Designing for security
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980)
+#### [Designing for security](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2277,23 +2260,23 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=69)** So always have multiple layers of controls, of software, of even external controls that help your software remain as secure as possible.
 >
-> **[1:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=80)** Attackers are going to try to get in to your application, to your blockchain data.
+> **[1:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=80)** Attackers are going to try to get in to your application, to your [[Blockchain]] data.
 >
 > **[1:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=85)** So you want to stop them and trip them up in as many ways that you possibly can.
 >
 > **[1:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=91)** So, where in the world do you start?
 >
-> **[1:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=93)** Here's a really good resource that kind of introduces the concept of blockchain and Ethereum security.
+> **[1:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=93)** Here's a really good resource that kind of introduces the concept of blockchain and [[Ethereum]] security.
 >
 > **[1:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=101)** So let's take a look at this great resource and it's a good read.
 >
 > **[1:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=105)** It'll take you a little while, but it's a great resource to start off with.
 >
-> **[1:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=109)** If we go to consensys.[github.io/smart-contract](https://github.io/smart-contract)
+> **[1:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=109)** If we go to consensys.[[[GitHub]].io/smart-contract](https://github.io/smart-contract)
 >
 > **[1:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=114)** - best practices.
 >
-> **[1:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=116)** This shows us a list of smart contracts security best practices from the very beginning.
+> **[1:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=116)** This shows us a list of [[Smart Contracts]] security best practices from the very beginning.
 >
 > **[2:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=123)** Where do you start?
 >
@@ -2313,7 +2296,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=157)** And then you can start digging into some of the specifics of how you develop your application to be as secure as possible.
 >
-> **[2:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=165)** All right, let's take a quick look at just a few of the most common security mistakes when you're developing applications as smart contracts or smart contracts to support your decentralized applications.
+> **[2:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=165)** All right, let's take a quick look at just a few of the most common security mistakes when you're developing applications as smart contracts or smart contracts to support your [[Decentralized Applications (DApps)|decentralized applications]].
 >
 > **[2:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=179)** First off the deal or the issue of randomness can be a little bit problematic.
 >
@@ -2341,7 +2324,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=256)** All right, what about re-entrancy.
 >
-> **[4:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=258)** The call function within solidity will forward all the received gas to the called function.
+> **[4:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=258)** The call function within [[Solidity]] will forward all the received gas to the called function.
 >
 > **[4:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-for-security?u=76281980&t=266)** If your code allows a function to run multiple times before it changes the state data.
 >
@@ -2443,7 +2426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Security]] (12), [[Blockchain]] (5), application (3), [[Smart Contracts]] (3)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Smart Contracts]] (3), [[Solidity]] (2), [[Ethereum]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), means that (2), in other words (1)
 > **Warnings:** be aware (3)
@@ -2452,20 +2435,19 @@ created: 2026-05-02
 > **URLs:** [github.io](https://github.io) (1)
 > **Tools:** github (1)
 
-#### Implementing minimal functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980)
+#### [Implementing minimal functionality](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=0)** - So we've been through quite a bit of solidity code.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=0)** - So we've been through quite a bit of [[Solidity]] code.
 >
 > **[0:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=3)** There's a lot more to learn about the language and the environment.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=7)** But you've seen a lot so far.
 >
-> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=10)** Keep in mind that these example smart contracts were developed for instruction.
+> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=10)** Keep in mind that these example [[Smart Contracts]] were developed for instruction.
 >
-> **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=17)** They're not real world ready for the big bad world, to run on a real blockchain.
+> **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=17)** They're not real world ready for the big bad world, to run on a real [[Blockchain]].
 >
 > **[0:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=22)** They will run and it will have some functionality, but it's very minimal functionality.
 >
@@ -2605,11 +2587,11 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=358)** How do we handle those errors and what if we run into bugs?
 >
-> **[6:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=362)** So we've got a lot more to talk about, but you've got a good foundation, for developing your very first suite of smart contracts in Ethereum.
+> **[6:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/implementing-minimal-functionality?u=76281980&t=362)** So we've got a lot more to talk about, but you've got a good foundation, for developing your very first suite of smart contracts in [[Ethereum]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Smart Contracts]] (5), [[Solidity]] (3), product (2), [[Blockchain]] (1), functional (1)
+> **Frameworks & Libraries:** [[Smart Contracts]] (5), [[Solidity]] (3), [[Blockchain]] (1), [[Ethereum]] (1)
 > **CLI Commands:** make (4)
 > **Warnings:** warning (3), keep in mind (1)
 > **UI Navigation:** click on (3)

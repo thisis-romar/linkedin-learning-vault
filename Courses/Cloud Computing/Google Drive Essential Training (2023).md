@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Do more than store files with Google Drive
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980)
+#### [Do more than store files with Google Drive](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,11 +96,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=12)** What if I told you that if you have this, then you don't need this anymore?
 >
-> **[0:17](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=17)** (bubble pops) Google Drive is a free portable hard drive.
+> **[0:17](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=17)** (bubble pops) [[Google Drive]] is a free portable hard drive.
 >
 > **[0:21](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=21)** You can access your files from your web browser, computer, even your mobile device.
 >
-> **[0:26](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=26)** It's actually two products in one.
+> **[0:26](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=26)** It's actually two [[Microsoft Products|products]] in one.
 >
 > **[0:28](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=28)** You can edit those files from anywhere.
 >
@@ -109,13 +108,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=35)** My name is Jess Stratton.
 >
-> **[0:37](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=37)** In my LinkedIn learning course on Google Drive, I'm going to show you how to improve your workflows, find your files quickly, and work with teams smoothly.
+> **[0:37](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=37)** In my [[LinkedIn]] learning course on Google Drive, I'm going to show you how to improve your workflows, find your files quickly, and work with teams smoothly.
 >
 > **[0:46](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980&t=46)** And the best part is you can even watch the course on this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (2), web (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), teams (1)
+> **Frameworks & Libraries:** [[Google Drive]] (2), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** usb (1)
 > **Definitions:** is a  (1)
@@ -126,12 +125,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Access Google Drive with your account
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980)
+#### [Access Google Drive with your account](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980&t=0)** - [Instructor] You can sign into your Google account and any Google product screen or the [google.com](https://google.com) main search page like I'm on now.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980&t=0)** - [Instructor] You can sign into your [[Google]] account and any Google product screen or the [google.com](https://google.com) main search page like I'm on now.
 >
 > **[0:07](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980&t=7)** If you don't have an account already, you can sign up for one on these screens.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980&t=14)** I'm already signed into my account, and I can tell because I can see my Google avatar on the right-hand side instead of the Sign in button.
 >
-> **[0:21](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980&t=21)** There's several ways that you can access Google Drive From here.
+> **[0:21](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980&t=21)** There's several ways that you can access [[Google Drive]] From here.
 >
 > **[0:24](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980&t=24)** From any Google product screen, you can always click this grid icon.
 >
@@ -165,21 +163,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (9), [[Google Drive]] (3), product (2), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (9), [[Google Drive]] (3)
 > **URLs:** [google.com](https://google.com) (2)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigate the web interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980)
+#### [Navigate the web interface](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=0)** - [Narrator] Now that we have an empty Google Drive waiting to be populated with our files, let's go over the interface.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=0)** - [Narrator] Now that we have an empty [[Google Drive]] waiting to be populated with our files, let's go over the interface.
 >
-> **[0:06](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=6)** If you've just started out with a brand new empty Google Drive, you may have one document from Google in here to get started.
+> **[0:06](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=6)** If you've just started out with a brand new empty Google Drive, you may have one document from [[Google]] in here to get started.
 >
 > **[0:13](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=13)** At the very top of the screen is the search bar.
 >
@@ -187,9 +184,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=19)** All the way on the right-hand side of the screen is how to access your main Google information.
 >
-> **[0:24](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=24)** You can click on your avatar icon and from here, you can access your Google Privacy settings.
+> **[0:24](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=24)** You can click on your avatar icon and from here, you can access your Google [[Privacy]] settings.
 >
-> **[0:30](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=30)** You can click Manage your Google account which is global across all of your Google products.
+> **[0:30](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=30)** You can click Manage your Google account which is global across all of your Google [[Microsoft Products|products]].
 >
 > **[0:35](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-web-interface?u=76281980&t=35)** You can also click to Add a new account here and you can Sign out of Google Drive.
 >
@@ -279,25 +276,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (14), [[Google Drive]] (8), [[Microsoft Products|Products]] (3), [[Search]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Google]] (14), [[Google Drive]] (8), [[Microsoft Products|Products]] (3), [[Privacy]] (1)
 > **UI Navigation:** click on (2), toggle (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understand Google Drive file types
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980)
+#### [Understand Google Drive file types](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=0)** - [Instructor] I've uploaded some files to Google Drive for this video.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=0)** - [Instructor] I've uploaded some files to [[Google Drive]] for this video.
 >
 > **[0:03](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=3)** So that we can see the details a little bit more clearly, I'm going to switch to List view by clicking this icon on the top right-hand side of the screen.
 >
-> **[0:10](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=10)** Google Docs contains its own format for word processing, spreadsheets, and presentations.
+> **[0:10](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=10)** [[Google]] Docs contains its own format for [[Microsoft Word|word]] processing, spreadsheets, and presentations.
 >
-> **[0:16](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=16)** Those files have their own file extensions that are different from their Microsoft Office counterparts.
+> **[0:16](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=16)** Those files have their own file extensions that are different from their [[Microsoft Office]] counterparts.
 >
 > **[0:21](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=21)** A Microsoft Office document that can be converted to Google Docs will have a file extension .docx or .doc.
 >
@@ -313,15 +309,15 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=54)** Over time, you'll become familiar with them.
 >
-> **[0:57](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=57)** This icon means that the file is a Google Docs file, and I can see that the one below that is a Microsoft Word file.
+> **[0:57](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=57)** This icon means that the file is a Google Docs file, and I can see that the one below that is a [[Microsoft Word]] file.
 >
-> **[1:04](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=64)** This file here, Landon Customer List.xlsx, opens up in Microsoft Excel, whereas the one below that, Landon Contacts, is Google Sheets.
+> **[1:04](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=64)** This file here, Landon Customer List.xlsx, opens up in [[Microsoft Excel]], whereas the one below that, Landon Contacts, is Google Sheets.
 >
-> **[1:13](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=73)** Files that contain the file extension .docx, .xlsx, or .ppt, which is a PowerPoint presentation, can be converted to Google Docs, Sheets, and Slides.
+> **[1:13](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=73)** Files that contain the file extension .docx, .xlsx, or .ppt, which is a [[Microsoft PowerPoint|PowerPoint]] presentation, can be converted to Google Docs, Sheets, and Slides.
 >
 > **[1:24](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=84)** However, even if they can't be converted, Google Drive can still open them and allow you to edit them natively within the Google Docs interface.
 >
-> **[1:33](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=93)** It can also open a preview of many different file types, even photos, PDF files, movies, audio files, and other Office documents.
+> **[1:33](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=93)** It can also open a preview of many different file types, even photos, PDF files, movies, audio files, and other [[Microsoft Office|Office]] documents.
 >
 > **[1:41](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-google-drive-file-types?u=76281980&t=101)** So even if your files aren't part of the Google Doc suite, you can still preview them in Google Drive.
 >
@@ -341,8 +337,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Upload files via the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980)
+#### [Upload files via the web](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=21)** You can still follow along on your computer using any files you want.
 >
-> **[0:25](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=25)** Now, I will show you how to install the desktop Sync app, but if you need to quickly get a file onto Google Drive, you can manually upload it, or multiple files via the browser, which is where we are now.
+> **[0:25](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=25)** Now, I will show you how to install the desktop Sync app, but if you need to quickly get a file onto [[Google Drive]], you can manually upload it, or multiple files via the browser, which is where we are now.
 >
 > **[0:38](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=38)** So let's all get started together.
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=61)** On a Mac, I can hold the Command key down.
 >
-> **[1:04](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=64)** On a Windows computer, I can either place check marks on the left-hand side beside the file or hold down the Control key.
+> **[1:04](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=64)** On a [[Windows]] computer, I can either place check marks on the left-hand side beside the file or hold down the Control key.
 >
 > **[1:12](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=72)** Now I'll click Open, and the files will begin to upload.
 >
@@ -378,13 +373,13 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=87)** The time it takes is going to depend on the size of the file that you're uploading and the speed of your internet connection.
 >
-> **[1:33](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=93)** You can upload files up to five terabytes, but this won't matter unless you've purchased that much storage space anyway from Google.
+> **[1:33](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=93)** You can upload files up to five terabytes, but this won't matter unless you've purchased that much storage space anyway from [[Google]].
 >
 > **[1:40](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=100)** There are some other space guidelines.
 >
-> **[1:43](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=103)** If you plan on converting a Word document or a text document to a Google Doc format, it can't be larger than 50 megabytes.
+> **[1:43](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=103)** If you plan on converting a [[Microsoft Word|Word]] document or a text document to a Google Doc format, it can't be larger than 50 megabytes.
 >
-> **[1:51](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=111)** And something else that's interesting to note, if you're going to take a PowerPoint file and convert it to Google Slides, it can be up to 100 megabytes.
+> **[1:51](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=111)** And something else that's interesting to note, if you're going to take a [[Microsoft PowerPoint|PowerPoint]] file and convert it to Google Slides, it can be up to 100 megabytes.
 >
 > **[1:59](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980&t=119)** From here, you can also upload a folder.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (4), [[Google]] (3), cloud (1), [[Windows]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (4), [[Google]] (3), [[Windows]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** click on (2), toggle (1)
 > **Exercise Files:** exercise files (1)
@@ -438,12 +433,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upload and sync files with the desktop app
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-and-sync-files-with-the-desktop-app?u=76281980)
+#### [Upload and sync files with the desktop app](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-and-sync-files-with-the-desktop-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-and-sync-files-with-the-desktop-app?u=76281980&t=0)** - [Instructor] The Google Drive desktop app makes file syncing a breeze.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-and-sync-files-with-the-desktop-app?u=76281980&t=0)** - [Instructor] The [[Google Drive]] desktop app makes file syncing a breeze.
 >
 > **[0:04](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-and-sync-files-with-the-desktop-app?u=76281980&t=4)** The app puts a folder on your computer that works just like any other folder on your computer, except in the background, it keeps that folder in sync with your Google Drive in the cloud.
 >
@@ -459,7 +453,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-and-sync-files-with-the-desktop-app?u=76281980&t=47)** To install the app, click the gear icon on the top right-hand side of the screen and choose Get Drive for desktop.
 >
-> **[0:54](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-and-sync-files-with-the-desktop-app?u=76281980&t=54)** The nice thing about this screen is it's going to be the same regardless of whether you're on a Windows or a Mac or whether you're using the free Google account or a Google Workspace account.
+> **[0:54](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-and-sync-files-with-the-desktop-app?u=76281980&t=54)** The nice thing about this screen is it's going to be the same regardless of whether you're on a [[Windows]] or a Mac or whether you're using the free [[Google]] account or a Google Workspace account.
 >
 > **[1:04](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-and-sync-files-with-the-desktop-app?u=76281980&t=64)** From here, click Download Drive for desktop.
 >
@@ -553,7 +547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (12), cloud (3), web (3), [[Windows]] (3), [[Google]] (3)
+> **Frameworks & Libraries:** [[Google Drive]] (12), [[Windows]] (3), [[Google]] (3)
 > **UI Navigation:** double-click (3), click on (2), right-click (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (1), is a  (1)
@@ -562,16 +556,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Convert files to Google doc format
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980)
+#### [Convert files to Google doc format](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980&t=0)** - [Instructor] You can convert files to Google Docs format.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980&t=0)** - [Instructor] You can convert files to [[Google]] Docs format.
 >
 > **[0:03](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980&t=3)** With your file as a Google Doc, you'll get fantastic collaboration tools as well as the ability to work on your document anywhere.
 >
-> **[0:09](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980&t=9)** Now, the nice thing about Google Drive is that you can collaborate and edit on native Microsoft Office documents, such as Word or Excel.
+> **[0:09](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980&t=9)** Now, the nice thing about [[Google Drive]] is that you can collaborate and edit on native [[Microsoft Office]] documents, such as [[Microsoft Word|Word]] or [[Microsoft Excel|Excel]].
 >
 > **[0:16](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980&t=16)** This is fantastic, but it might be worth it to you to convert it.
 >
@@ -589,7 +582,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980&t=43)** Because I can edit native documents within Google Docs, it's going to open up in Google Docs.
 >
-> **[0:49](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980&t=49)** Here you can see at the top that it is indeed a Microsoft Word format file.
+> **[0:49](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980&t=49)** Here you can see at the top that it is indeed a [[Microsoft Word]] format file.
 >
 > **[0:52](https://www.linkedin.com/learning/google-drive-essential-training-2023/convert-files-to-google-doc-format?u=76281980&t=52)** It's keeping everything structurally intact as you can see.
 >
@@ -640,8 +633,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Download files and folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980)
+#### [Download files and folders](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -649,7 +641,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=8)** They're already syncing via that desktop app.
 >
-> **[0:10](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=10)** However, if you've logged onto another computer and you're on Google Drive on that computer via the web, maybe you need to bring your files over somewhere else, let's say via a USB flash drive.
+> **[0:10](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=10)** However, if you've logged onto another computer and you're on [[Google Drive]] on that computer via the web, maybe you need to bring your files over somewhere else, let's say via a USB flash drive.
 >
 > **[0:21](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=21)** If that's the case, you can download them.
 >
@@ -657,11 +649,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=28)** It's going to go into your browser's default downloads folder.
 >
-> **[0:32](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=32)** If you're downloading anything other than a Google Doc file, your files will be downloaded as they are.
+> **[0:32](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=32)** If you're downloading anything other than a [[Google]] Doc file, your files will be downloaded as they are.
 >
-> **[0:37](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=37)** However, if you're downloading a Google Docs file such as a Google Doc, a Sheet, or a Google Slide that is a presentation, they'll be converted into Microsoft Office format.
+> **[0:37](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=37)** However, if you're downloading a Google Docs file such as a Google Doc, a Sheet, or a Google Slide that is a presentation, they'll be converted into [[Microsoft Office]] format.
 >
-> **[0:48](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=48)** For example, this Google Doc that I just downloaded will be converted into Microsoft Word format.
+> **[0:48](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=48)** For example, this Google Doc that I just downloaded will be converted into [[Microsoft Word]] format.
 >
 > **[0:55](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=55)** I'll click Show All on the bottom right-hand side that you can see my download.
 >
@@ -669,7 +661,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=60)** And as you can see, it's been converted into a Microsoft Office document because it now has the file extension, .docx.
 >
-> **[1:08](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=68)** A Google Slides presentation will be downloaded as a Microsoft PowerPoint file and a Google Sheet will be downloaded as Microsoft Excel.
+> **[1:08](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=68)** A Google Slides presentation will be downloaded as a [[Microsoft PowerPoint]] file and a Google Sheet will be downloaded as [[Microsoft Excel]].
 >
 > **[1:16](https://www.linkedin.com/learning/google-drive-essential-training-2023/download-files-and-folders?u=76281980&t=76)** I'll close out of this browser tab to get back to my Google Doc.
 >
@@ -695,7 +687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (10), [[Microsoft Office]] (2), [[Microsoft Word]] (2), [[Google Drive]] (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (10), [[Microsoft Office]] (2), [[Microsoft Word]] (2), [[Google Drive]] (1), [[Microsoft PowerPoint]] (1)
 > **UI Navigation:** click on (2), double-click (1), right-click (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** usb (1), pdf (1)
@@ -703,12 +695,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete and recover files
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/delete-and-recover-files?u=76281980)
+#### [Delete and recover files](https://www.linkedin.com/learning/google-drive-essential-training-2023/delete-and-recover-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/delete-and-recover-files?u=76281980&t=0)** - [Instructor] You'll find in time that you'll need to delete a file within Google Drive.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/delete-and-recover-files?u=76281980&t=0)** - [Instructor] You'll find in time that you'll need to delete a file within [[Google Drive]].
 >
 > **[0:04](https://www.linkedin.com/learning/google-drive-essential-training-2023/delete-and-recover-files?u=76281980&t=4)** To delete it, you can either click once on the file and click the trashcan icon at the top of the screen or right click on the file and click remove.
 >
@@ -754,12 +745,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Purchase additional storage space
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/purchase-additional-storage-space?u=76281980)
+#### [Purchase additional storage space](https://www.linkedin.com/learning/google-drive-essential-training-2023/purchase-additional-storage-space?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/purchase-additional-storage-space?u=76281980&t=0)** - [Instructor] On my Google Workspace account if I want to see how much storage space I'm using, I can look right in the middle of the screen.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/purchase-additional-storage-space?u=76281980&t=0)** - [Instructor] On my [[Google]] Workspace account if I want to see how much storage space I'm using, I can look right in the middle of the screen.
 >
 > **[0:07](https://www.linkedin.com/learning/google-drive-essential-training-2023/purchase-additional-storage-space?u=76281980&t=7)** Here, I can see I'm using 197 megabytes.
 >
@@ -775,7 +765,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/google-drive-essential-training-2023/purchase-additional-storage-space?u=76281980&t=39)** Underneath where it says storage.
 >
-> **[0:41](https://www.linkedin.com/learning/google-drive-essential-training-2023/purchase-additional-storage-space?u=76281980&t=41)** I'm now going to switch over to the free Google Drive account.
+> **[0:41](https://www.linkedin.com/learning/google-drive-essential-training-2023/purchase-additional-storage-space?u=76281980&t=41)** I'm now going to switch over to the free [[Google Drive]] account.
 >
 > **[0:47](https://www.linkedin.com/learning/google-drive-essential-training-2023/purchase-additional-storage-space?u=76281980&t=47)** Those free accounts are capped at 15 gigabytes of space so if I look at the same spot, I can see that I'm currently using 486 megabytes of that space.
 >
@@ -805,7 +795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Google Drive]] (3), business (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Google Drive]] (3)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -816,12 +806,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Work with folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-folders?u=76281980)
+#### [Work with folders](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-folders?u=76281980&t=1)** - [Instructor] When you use the desktop Sync app to sync your files and folders up to Google Drive, it keeps your folder structure intact.
+> **[0:01](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-folders?u=76281980&t=1)** - [Instructor] When you use the desktop Sync app to sync your files and folders up to [[Google Drive]], it keeps your folder structure intact.
 >
 > **[0:08](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-folders?u=76281980&t=8)** I also showed you how to create new folders within the browser version by clicking the New button and selecting New folder.
 >
@@ -907,7 +896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[Google Drive]] (2)
 > **UI Navigation:** click on (6), dropdown (1), scroll down (1), checkbox (1)
 > **Env Vars:** move (1), zip (1)
 > **Analogies:** for example (1), just like (1)
@@ -916,12 +905,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the view and sort order
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/change-the-view-and-sort-order?u=76281980)
+#### [Change the view and sort order](https://www.linkedin.com/learning/google-drive-essential-training-2023/change-the-view-and-sort-order?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/change-the-view-and-sort-order?u=76281980&t=0)** - [Narrator] You can customize the way your files and folders are displayed to you in Google Drive.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/change-the-view-and-sort-order?u=76281980&t=0)** - [Narrator] You can customize the way your files and folders are displayed to you in [[Google Drive]].
 >
 > **[0:04](https://www.linkedin.com/learning/google-drive-essential-training-2023/change-the-view-and-sort-order?u=76281980&t=4)** So let's go over all the ways that you can change the view.
 >
@@ -989,7 +977,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/google-drive-essential-training-2023/change-the-view-and-sort-order?u=76281980&t=190)** For example, in the Details pane, I can see a little bit inside the file.
 >
-> **[3:14](https://www.linkedin.com/learning/google-drive-essential-training-2023/change-the-view-and-sort-order?u=76281980&t=194)** And if I scroll down and click the clock icon, I'm not going to do it, but I can even get into the version control and manage all of the revision history for that file.
+> **[3:14](https://www.linkedin.com/learning/google-drive-essential-training-2023/change-the-view-and-sort-order?u=76281980&t=194)** And if I scroll down and click the clock icon, I'm not going to do it, but I can even get into the [[Version Control]] and manage all of the revision history for that file.
 >
 > **[3:25](https://www.linkedin.com/learning/google-drive-essential-training-2023/change-the-view-and-sort-order?u=76281980&t=205)** To get out of the Details pane, click the X on the top right-hand side.
 >
@@ -1009,7 +997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (3), next (2), [[Search]] (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (3), [[Version Control]] (1)
 > **UI Navigation:** click on (6), right-click (1), toggle (1), scroll down (1)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (2)
@@ -1018,8 +1006,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use Stars to group files
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-stars-to-group-files?u=76281980)
+#### [Use Stars to group files](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-stars-to-group-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,13 +1062,13 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-stars-to-group-files?u=76281980&t=138)** Stars are going to be very personal to you for organizing, but they're very useful and absolutely worth using.
 >
-> **[2:24](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-stars-to-group-files?u=76281980&t=144)** It's also important to note that stars are available for both the free Google Drive users and Google Workspace users.
+> **[2:24](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-stars-to-group-files?u=76281980&t=144)** It's also important to note that stars are available for both the free [[Google Drive]] users and [[Google]] Workspace users.
 >
 > **[2:31](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-stars-to-group-files?u=76281980&t=151)** In the next video, I'm going to show you how to use something called Workspaces, which is a way that you can have multiple groups of files together, and that one is only available for Google Workspace users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Google]] (2), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Google Drive]] (1)
 > **UI Navigation:** click on (4)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** find (1)
@@ -1090,8 +1077,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Create Workspaces for projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-workspaces-for-projects?u=76281980)
+#### [Create Workspaces for projects](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-workspaces-for-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1099,7 +1085,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-workspaces-for-projects?u=76281980&t=5)** But if you're juggling multiple projects then starring them isn't going to tell you what goes with one project and what goes with the other.
 >
-> **[0:13](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-workspaces-for-projects?u=76281980&t=13)** If you use Google Workspace you can use something called Priority and Workspaces.
+> **[0:13](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-workspaces-for-projects?u=76281980&t=13)** If you use [[Google]] Workspace you can use something called Priority and Workspaces.
 >
 > **[0:19](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-workspaces-for-projects?u=76281980&t=19)** The Priority section on the left-hand side in the Navigation tab will bring you to this screen.
 >
@@ -1117,7 +1103,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-workspaces-for-projects?u=76281980&t=56)** And we can have a max of 25 files in every workspace.
 >
-> **[1:01](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-workspaces-for-projects?u=76281980&t=61)** I'll click Add files, on the right it's going to let me browse my recently accessed files in Google Drive.
+> **[1:01](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-workspaces-for-projects?u=76281980&t=61)** I'll click Add files, on the right it's going to let me browse my recently accessed files in [[Google Drive]].
 >
 > **[1:06](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-workspaces-for-projects?u=76281980&t=66)** I could click on My Drive and see the root of them, but I can also click the magnifying glass and search for a particular file directly.
 >
@@ -1183,19 +1169,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Google Drive]] (5), [[Google]] (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Google Drive]] (5), [[Google]] (1)
 > **UI Navigation:** click on (2), double-click (1), scroll down (1)
 > **Analogies:** similar to (1), picture (1), just like (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search files and folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/search-files-and-folders?u=76281980)
+#### [Search files and folders](https://www.linkedin.com/learning/google-drive-essential-training-2023/search-files-and-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/search-files-and-folders?u=76281980&t=0)** - [Presenter] A great reason to use Google Drive is that after all it's, Google, so you won't have to search too hard to find that file that you're looking for.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/search-files-and-folders?u=76281980&t=0)** - [Presenter] A great reason to use [[Google Drive]] is that after all it's, [[Google]], so you won't have to search too hard to find that file that you're looking for.
 >
 > **[0:08](https://www.linkedin.com/learning/google-drive-essential-training-2023/search-files-and-folders?u=76281980&t=8)** Let's head up to the Search bar at the top of the screen.
 >
@@ -1253,7 +1238,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/google-drive-essential-training-2023/search-files-and-folders?u=76281980&t=154)** You can also stack these filters.
 >
-> **[2:36](https://www.linkedin.com/learning/google-drive-essential-training-2023/search-files-and-folders?u=76281980&t=156)** For example, I'm going to put in my original query, which was "Landon", and I do have these filters, which are great, and I can use these in line to further narrow down my search, but I can also open up the Advanced Search with the word "Landon" in there and I can add additional filters on.
+> **[2:36](https://www.linkedin.com/learning/google-drive-essential-training-2023/search-files-and-folders?u=76281980&t=156)** For example, I'm going to put in my original query, which was "Landon", and I do have these filters, which are great, and I can use these in line to further narrow down my search, but I can also open up the Advanced Search with the [[Microsoft Word|word]] "Landon" in there and I can add additional filters on.
 >
 > **[2:54](https://www.linkedin.com/learning/google-drive-essential-training-2023/search-files-and-folders?u=76281980&t=174)** So even though I'm looking for a particular file, I have that much larger list of file types, and I can use any of these additional filters with the original query that I started with.
 >
@@ -1275,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (29), [[Google]] (4), [[Google Drive]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Google Drive]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -1283,14 +1268,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Explore files with the preview lightbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980)
+#### [Explore files with the preview lightbox](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980&t=0)** - [Instructor] I want to take a minute to explain the preview light box in Google Drive.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980&t=0)** - [Instructor] I want to take a minute to explain the preview light box in [[Google Drive]].
 >
-> **[0:05](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980&t=5)** When you double click on a file that's not a Google Doc, for example, this PDF file here, you'll get a beautiful light box preview of your file.
+> **[0:05](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980&t=5)** When you double click on a file that's not a [[Google]] Doc, for example, this PDF file here, you'll get a beautiful light box preview of your file.
 >
 > **[0:15](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980&t=15)** There's a few things you can do in the light box.
 >
@@ -1302,7 +1286,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980&t=33)** All the way to the right, you can add comments to the file, print it, download it and click the three dots for some more actions that you can do, such as moving it to another folder, adding a star, or renaming it.
 >
-> **[0:46](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980&t=46)** At the bottom of the screen, you can see how many pages are in your file and you can also fit it to the entire screen or zoom in.
+> **[0:46](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980&t=46)** At the bottom of the screen, you can see how many pages are in your file and you can also fit it to the entire screen or [[Zoom]] in.
 >
 > **[0:53](https://www.linkedin.com/learning/google-drive-essential-training-2023/explore-files-with-the-preview-lightbox?u=76281980&t=53)** To get back to the main Google Drive screen, click the back arrow on the top left-hand side.
 >
@@ -1326,7 +1310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (5), [[Google]] (3), next (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Google Drive]] (5), [[Google]] (3), [[Zoom]] (2)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for example (1), such as (1), just like (1)
 > **CLI Commands:** find (1)
@@ -1338,14 +1322,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create Docs, Sheets, Slides, and Forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980)
+#### [Create Docs, Sheets, Slides, and Forms](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=0)** - [Instructor] You can create docs, sheets, slides and forms which are surveys for free with your Google Drive account.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=0)** - [Instructor] You can create docs, sheets, slides and [[Forms]] which are surveys for free with your [[Google Drive]] account.
 >
-> **[0:07](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=7)** You can create those Google Docs and they're stored right on your Google Drive.
+> **[0:07](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=7)** You can create those [[Google]] Docs and they're stored right on your Google Drive.
 >
 > **[0:11](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=11)** You can create them by clicking new on the drive screen, hovering your mouse over them and choosing docs, sheets, slides, forms or even more things like maps and sites.
 >
@@ -1353,19 +1336,19 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=34)** So let's take a quick peek at Google Docs.
 >
-> **[0:37](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=37)** This is a word processing app like Microsoft Word.
+> **[0:37](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=37)** This is a [[Microsoft Word|word]] processing app like [[Microsoft Word]].
 >
 > **[0:40](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=40)** In fact, you can edit Microsoft Word files in Docs using this very interface.
 >
 > **[0:45](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=45)** I'm going to go over the shared navigation between these but you can do all sorts of word processing, including table of contents, bulleted lists, numbering, indents, and more.
 >
-> **[0:56](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=56)** Google Sheets is like Microsoft Excel.
+> **[0:56](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=56)** Google Sheets is like [[Microsoft Excel]].
 >
 > **[0:58](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=58)** It's a spreadsheet app.
 >
 > **[1:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=60)** You can do all sorts of powerful calculations including using formulas and filters.
 >
-> **[1:05](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=65)** Google Slides is like, you guessed it, PowerPoint.
+> **[1:05](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=65)** Google Slides is like, you guessed it, [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[1:09](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980&t=69)** You can create fantastic looking presentations.
 >
@@ -1401,12 +1384,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand the shared interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-the-shared-interface?u=76281980)
+#### [Understand the shared interface](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-the-shared-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-the-shared-interface?u=76281980&t=0)** - [Instructor] Google Docs, Sheets and Slides are heavily built into Google Drive and they share some navigation features.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-the-shared-interface?u=76281980&t=0)** - [Instructor] [[Google]] Docs, Sheets and Slides are heavily built into [[Google Drive]] and they share some navigation features.
 >
 > **[0:06](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-the-shared-interface?u=76281980&t=6)** And remember, you can create new blank ones at any time by clicking the plus sign.
 >
@@ -1430,7 +1412,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-the-shared-interface?u=76281980&t=71)** The view menu changes the way the doc is displayed on the screen to you while the insert and the format tool bars include most of the items that are already visible on the icon bar.
 >
-> **[1:21](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-the-shared-interface?u=76281980&t=81)** The tools menu contains things like word count, spell checking, and you can even translate your document into a different language for you.
+> **[1:21](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-the-shared-interface?u=76281980&t=81)** The tools menu contains things like [[Microsoft Word|word]] count, spell checking, and you can even translate your document into a different language for you.
 >
 > **[1:29](https://www.linkedin.com/learning/google-drive-essential-training-2023/understand-the-shared-interface?u=76281980&t=89)** These items are going to change depending on whether you're in Sheets or Slides, but they're all tools to work with the content on the screen.
 >
@@ -1458,7 +1440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), [[Google Drive]] (6), cloud (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Google Drive]] (6), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (2)
 > **Exercise Files:** template (1)
@@ -1469,14 +1451,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Share files with other Google users
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980)
+#### [Share files with other Google users](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980&t=0)** - [Instructor] Google Drive and Docs have excellent file sharing capabilities.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980&t=0)** - [Instructor] [[Google Drive]] and Docs have excellent file sharing capabilities.
 >
-> **[0:04](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980&t=4)** You can share a file with another Google Apps user to collaborate in real time or you can send a link to a file with anyone to view or download regardless of whether they have a Google account or not.
+> **[0:04](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980&t=4)** You can share a file with another [[Google]] Apps user to collaborate in real time or you can send a link to a file with anyone to view or download regardless of whether they have a Google account or not.
 >
 > **[0:16](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980&t=16)** Right-click your file, and I can even right-click it right in this Suggested view and click Share.
 >
@@ -1588,7 +1569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (9), next (3), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[Google]] (9), [[Google Drive]] (1)
 > **UI Navigation:** right-click (3), dropdown (3), scroll down (2), click on (2), open the (1)
 > **Env Vars:** xyz (1), pdf (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1597,12 +1578,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use shared drives with coworkers
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-shared-drives-with-coworkers?u=76281980)
+#### [Use shared drives with coworkers](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-shared-drives-with-coworkers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-shared-drives-with-coworkers?u=76281980&t=0)** - [Instructor] If you have a Google Workspace account and you constantly find yourself sharing files and folders with the same people or teammates, you'll be better off using a shared drive.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-shared-drives-with-coworkers?u=76281980&t=0)** - [Instructor] If you have a [[Google]] Workspace account and you constantly find yourself sharing files and folders with the same people or teammates, you'll be better off using a shared drive.
 >
 > **[0:10](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-shared-drives-with-coworkers?u=76281980&t=10)** I'm going to collapse my drive on the left so we can see things a little more clearly.
 >
@@ -1702,11 +1682,11 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-shared-drives-with-coworkers?u=76281980&t=205)** Click Done when you're all set.
 >
-> **[3:27](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-shared-drives-with-coworkers?u=76281980&t=207)** And that is how you can work with your team in Google Drive.
+> **[3:27](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-shared-drives-with-coworkers?u=76281980&t=207)** And that is how you can work with your team in [[Google Drive]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), next (1), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Google Drive]] (1)
 > **UI Navigation:** right-click (2), click on (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** just like (1), for example (1)
@@ -1714,8 +1694,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with files that are shared with you
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980)
+#### [Work with files that are shared with you](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1725,7 +1704,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=12)** Well, this is what the other end of that email looks like.
 >
-> **[0:14](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=14)** I'm in Gmail right now, and here's an email that tells me that somebody has shared an Excel file with me.
+> **[0:14](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=14)** I'm in Gmail right now, and here's an email that tells me that somebody has shared an [[Microsoft Excel|Excel]] file with me.
 >
 > **[0:22](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=22)** If I click to open the email itself, this is what it looks like.
 >
@@ -1733,7 +1712,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=31)** I can click the blue open button, and it's going to take me directly to that file.
 >
-> **[0:36](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=36)** It's opened it in Google Sheets, and I can even zoom out to get a better look.
+> **[0:36](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=36)** It's opened it in [[Google]] Sheets, and I can even [[Zoom]] out to get a better look.
 >
 > **[0:42](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=42)** I can close out of this at any time by closing the browser tab.
 >
@@ -1741,7 +1720,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=49)** I don't need it.
 >
-> **[0:52](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=52)** If I ever need to find that file, I can go back to Google Drive.
+> **[0:52](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=52)** If I ever need to find that file, I can go back to [[Google Drive]].
 >
 > **[0:56](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-files-that-are-shared-with-you?u=76281980&t=56)** It's over here on the left hand side in the special area called shared with me.
 >
@@ -1781,7 +1760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Google Drive]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (2), open the (1), checkbox (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** previous video (1), go back to (1)
@@ -1789,14 +1768,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with revisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-revisions?u=76281980)
+#### [Work with revisions](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-revisions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-revisions?u=76281980&t=0)** - [Instructor] When many people are working on a document and editing it, it's nice to know who changed what and when.
 >
-> **[0:08](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-revisions?u=76281980&t=8)** Google Docs has changed tracking features built right in.
+> **[0:08](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-revisions?u=76281980&t=8)** [[Google]] Docs has changed tracking features built right in.
 >
 > **[0:11](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-revisions?u=76281980&t=11)** There's no need to turn them on or activate them.
 >
@@ -1818,7 +1796,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-revisions?u=76281980&t=61)** I'll click the Back button to get out of the revision history.
 >
-> **[1:05](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-revisions?u=76281980&t=65)** And if you want to save this, you can choose File, Make a copy, and this copy will be kept somewhere else on Google Drive, leaving the other versions intact.
+> **[1:05](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-revisions?u=76281980&t=65)** And if you want to save this, you can choose File, Make a copy, and this copy will be kept somewhere else on [[Google Drive]], leaving the other versions intact.
 >
 > **[1:14](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-revisions?u=76281980&t=74)** Let's go back to the revision history by clicking the clock again.
 >
@@ -1846,17 +1824,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Google Drive]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Google Drive]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit a file simultaneously with another Google user
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/edit-a-file-simultaneously-with-another-google-user?u=76281980)
+#### [Edit a file simultaneously with another Google user](https://www.linkedin.com/learning/google-drive-essential-training-2023/edit-a-file-simultaneously-with-another-google-user?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/edit-a-file-simultaneously-with-another-google-user?u=76281980&t=0)** - [Presenter] A great feature of using Google Docs, Sheets, and Slides within Google Drive is the ability to collaborate simultaneously on a doc.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/edit-a-file-simultaneously-with-another-google-user?u=76281980&t=0)** - [Presenter] A great feature of using [[Google]] Docs, Sheets, and Slides within [[Google Drive]] is the ability to collaborate simultaneously on a doc.
 >
 > **[0:08](https://www.linkedin.com/learning/google-drive-essential-training-2023/edit-a-file-simultaneously-with-another-google-user?u=76281980&t=8)** If you've shared out a document and given somebody else editing capabilities or if someone shared a file with you, you can both edit it at the same time.
 >
@@ -1890,16 +1867,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), feature (1), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Google Drive]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Use Approval cycles to finalize documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-approval-cycles-to-finalize-documents?u=76281980)
+#### [Use Approval cycles to finalize documents](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-approval-cycles-to-finalize-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-approval-cycles-to-finalize-documents?u=76281980&t=0)** - [Instructor] Something that's fantastic with Google Workspace is the ability to do approval cycles within your documents.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-approval-cycles-to-finalize-documents?u=76281980&t=0)** - [Instructor] Something that's fantastic with [[Google]] Workspace is the ability to do approval cycles within your documents.
 >
 > **[0:08](https://www.linkedin.com/learning/google-drive-essential-training-2023/use-approval-cycles-to-finalize-documents?u=76281980&t=8)** You can do this for documents that you own.
 >
@@ -1973,7 +1949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **UI Navigation:** in the menu (1), click on (1), open the (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
@@ -1985,12 +1961,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigate the Google Drive app
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-google-drive-app?u=76281980)
+#### [Navigate the Google Drive app](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-google-drive-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-google-drive-app?u=76281980&t=0)** - [Announcer] In addition to downloading the Google Drive app from the App Store or the Google Play Store, I highly recommend downloading the Doc's Sheets and Slides app to go with them.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-google-drive-app?u=76281980&t=0)** - [Announcer] In addition to downloading the [[Google Drive]] app from the App Store or the [[Google]] Play Store, I highly recommend downloading the Doc's Sheets and Slides app to go with them.
 >
 > **[0:09](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-google-drive-app?u=76281980&t=9)** I'll tap to open up Google Drive.
 >
@@ -2056,7 +2031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (8), [[Google]] (4), [[Search]] (3), web (1), prompt (1)
+> **Frameworks & Libraries:** [[Google Drive]] (8), [[Google]] (4)
 > **UI Navigation:** toggle (3), go to (1), scroll down (1)
 > **Analogies:** such as (2), for example (2), picture (1)
 > **CLI Commands:** make (1)
@@ -2068,20 +2043,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take Drive further by mastering Google Docs
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980)
+#### [Take Drive further by mastering Google Docs](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980&t=0)** - [Jess] My name is Jess Stratton, and I hope you enjoyed this course on learning how to use Google Drive.
+> **[0:00](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980&t=0)** - [Jess] My name is Jess Stratton, and I hope you enjoyed this course on learning how to use [[Google Drive]].
 >
-> **[0:05](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980&t=5)** I recommend watching the full courses on the Google Docs apps like Sheets, Docs and Slides.
+> **[0:05](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980&t=5)** I recommend watching the full courses on the [[Google]] Docs apps like Sheets, Docs and Slides.
 >
 > **[0:11](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980&t=11)** They integrate so heavily with Google Drive and they're so powerful.
 >
 > **[0:15](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980&t=15)** You can use them anywhere including your mobile device.
 >
-> **[0:18](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980&t=18)** Also, if you'd like to learn more after this, I have courses on other Google products, such as Gmail, Google Calendar, and Google Sites.
+> **[0:18](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980&t=18)** Also, if you'd like to learn more after this, I have courses on other Google [[Microsoft Products|products]], such as Gmail, Google Calendar, and Google Sites.
 >
 > **[0:27](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980&t=27)** If you are using Google Drive for work, chances are you'll probably also using Gmail and Google Calendar.
 >

@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Investigating the use of data in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980)
+#### [Investigating the use of data in business](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,17 +84,17 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980&t=43)** I'm Lynette Robinson, a tech sales pro turned entrepreneur whose passion lies in empowering small businesses with tailored strategies that drive efficiency, growth and success.
 >
-> **[0:56](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980&t=56)** In this course, you'll learn how to develop and implement effective data collection and utilization processes.
+> **[0:56](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980&t=56)** In this course, you'll learn how to develop and implement effective [[Data Collection]] and utilization processes.
 >
 > **[1:03](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980&t=63)** I'll explain how to use data analysis tools and techniques to communicate insights to internal stakeholders.
 >
-> **[1:09](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980&t=69)** You'll also be able to apply data-driven decision making frameworks that improve your company's outcomes and foster a data-centric culture within your organization to sustain long term success.
+> **[1:09](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980&t=69)** You'll also be able to apply [[Data-driven Decision Making]] frameworks that improve your company's outcomes and foster a data-centric culture within your organization to sustain long term success.
 >
 > **[1:22](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980&t=82)** Are you ready to get started? Let's get going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (1), [[Data-driven Decision Making]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Data-driven Decision Making]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 
@@ -104,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing business data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980)
+#### [Comparing business data types](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,13 +125,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980&t=58)** Supplier performance, product demand and shipping and logistics are all in this category.
 >
-> **[1:05](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980&t=65)** I can't talk about data and not mention the most common type of data collected in business, financial data.
+> **[1:05](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980&t=65)** I can't talk about data and not mention the most common type of data collected in business, [[Financial Data]].
 >
-> **[1:13](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980&t=73)** It is critical for budgeting, forecasting, financial planning and decision making related to business growth strategies. Income, expenses, profitability and cash flow are all examples of financial data.
+> **[1:13](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980&t=73)** It is critical for budgeting, [[Forecasting]], [[Financial Planning]] and decision making related to business growth strategies. Income, expenses, profitability and cash flow are all examples of financial data.
 >
 > **[1:30](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980&t=90)** Last but not least, is market data.
 >
-> **[1:33](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980&t=93)** You can assess market demand and make informed decisions about product development, pricing and positioning with market data.
+> **[1:33](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980&t=93)** You can assess market demand and make informed decisions about [[Product Development]], pricing and positioning with market data.
 >
 > **[1:41](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980&t=101)** This includes information such as competitor pricing, market share analysis and consumer buying behavior.
 >
@@ -149,12 +147,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), business (7), [[Financial Data]] (2), career (1), management (1)
+> **Frameworks & Libraries:** [[Financial Data]] (2), [[Forecasting]] (1), [[Financial Planning]] (1), [[Product Development]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1)
 
-#### Data analytics tools and techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980)
+#### [Data analytics tools and techniques](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -164,27 +161,27 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=15)** Companies of any size can use the following scalable tools and techniques to make sense of their data.
 >
-> **[0:22](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=22)** The first tool to consider is Microsoft Excel.
+> **[0:22](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=22)** The first tool to consider is [[Microsoft Excel]].
 >
-> **[0:26](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=26)** Its versatility makes it an excellent tool for performing various data manipulation and analysis tasks.
+> **[0:26](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=26)** Its versatility makes it an excellent tool for performing various [[Data Manipulation]] and analysis tasks.
 >
 > **[0:34](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=34)** A technique called Descriptive Analytics involves utilizing current and historical data to discern trends and relationships.
 >
 > **[0:43](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=43)** It's the simplest form of data analysis because it doesn't go beyond that.
 >
-> **[0:49](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=49)** Charts and pivot tables are particularly effective tools for visualizing trends and identifying key patterns or outliers allowing organizations to derive actionable insights that inform decision-making and drive business success.
+> **[0:49](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=49)** Charts and [[Pivot Tables]] are particularly effective tools for visualizing trends and identifying key patterns or outliers allowing organizations to derive actionable insights that inform [[Decision-Making]] and drive business success.
 >
 > **[1:06](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=66)** Next, all types of businesses have an online presence.
 >
-> **[1:10](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=70)** Google Analytics is a powerful tool for understanding different aspects of website performance, including traffic sources, user engagement and conversion rates.
+> **[1:10](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=70)** [[Google]] Analytics is a powerful tool for understanding different aspects of website performance, including traffic sources, user engagement and conversion rates.
 >
 > **[1:22](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=82)** When combined with a technique like path analysis, you'll understand how people travel through your website, see the pages they view, and other actions they take as they engage with your content.
 >
-> **[1:34](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=94)** By leveraging these insights, you'll be able to identify and eliminate bottlenecks, enhance the user experience, and ultimately increase conversion rates.
+> **[1:34](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=94)** By leveraging these insights, you'll be able to identify and eliminate bottlenecks, enhance the [[User Experience (UX)|user experience]], and ultimately increase conversion rates.
 >
-> **[1:45](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=105)** Finally, by using Tableau to organize your data, you can create compelling visualizations to help stakeholders interpret insights.
+> **[1:45](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=105)** Finally, by using [[Tableau]] to organize your data, you can create compelling visualizations to help stakeholders interpret insights.
 >
-> **[1:55](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=115)** Tableau’s interactive dashboards allow you to present complex data that is visually appealing and easy to understand.
+> **[1:55](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=115)** Tableau’s interactive [[Dashboards]] allow you to present complex data that is visually appealing and easy to understand.
 >
 > **[2:04](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/data-analytics-tools-and-techniques?u=76281980&t=124)** In addition, you'll be able to utilize a wide range of chart types, including bar charts, line graphs and pie charts to showcase different aspects of data.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Tableau]] (3), [[Analytics]] (2), [[Microsoft Excel]] (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Excel]] (1), [[Data Manipulation]] (1), [[Pivot Tables]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
@@ -209,8 +206,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collect business data effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980)
+#### [Collect business data effectively](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=24)** In this lesson, you will learn a step by step strategy to effectively collect data that aligns with your organization's goals and objectives.
 >
-> **[0:35](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=35)** At the center of any effective data collection strategy is alignment with the company's overall goals.
+> **[0:35](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=35)** At the center of any effective [[Data Collection]] strategy is alignment with the company's overall goals.
 >
 > **[0:42](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=42)** Meet with your leadership and have an in-depth conversation about their objectives and the specific information they want to track.
 >
@@ -234,23 +230,23 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=67)** Then select an appropriate method for data collection that aligns with the type of data needed and the available resources.
 >
-> **[1:15](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=75)** This could involve utilizing surveys or automated data collection tools such as transaction data, web analytics, or other methods that best suit the business's objectives and financial considerations.
+> **[1:15](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=75)** This could involve utilizing surveys or automated data collection tools such as transaction data, [[Web Analytics]], or other methods that best suit the business's objectives and financial considerations.
 >
 > **[1:30](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=90)** Gathering high quality data is next and of the utmost importance.
 >
 > **[1:36](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=96)** Have processes in place to validate, clean, and structure the data to keep it accurate and consistent.
 >
-> **[1:45](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=105)** Adhering to privacy regulations is nonnegotiable during this process.
+> **[1:45](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=105)** Adhering to [[Privacy]] regulations is nonnegotiable during this process.
 >
 > **[1:50](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=110)** Be sure to obtain informed consent, anonymize personal data and implement strong security measures to protect all the information gathered.
 >
 > **[2:00](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=120)** The final step in data collection is determining where to store it.
 >
-> **[2:05](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=125)** This means saving and organizing your data in a system for daily operations such as a hard drive, server or cloud storage.
+> **[2:05](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=125)** This means saving and organizing your data in a system for daily operations such as a hard drive, server or [[Cloud Storage]].
 >
 > **[2:16](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=136)** This practice ensures data is readily available and optimized for system performance.
 >
-> **[2:22](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=142)** Examples include storing customer information in a customer relationship management system, financial records in accounting software, and project files on a company server or cloud service like Google Drive or Dropbox.
+> **[2:22](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=142)** Examples include storing customer information in a customer relationship management system, financial records in accounting software, and project files on a company server or cloud service like [[Google Drive]] or Dropbox.
 >
 > **[2:38](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980&t=158)** Keep in mind that data collection is an ongoing process.
 >
@@ -266,19 +262,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), business (3), cloud (2), leadership (1), web (1)
+> **Frameworks & Libraries:** [[Data Collection]] (6), [[Web Analytics]] (1), [[Privacy]] (1), [[Cloud Storage]] (1), [[Google Drive]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 
-#### Manage and organize business data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980)
+#### [Manage and organize business data](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=0)** Data management is like organizing your company's digital life.
+> **[0:00](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=0)** [[Data Management]] is like organizing your company's digital life.
 >
 > **[0:04](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=4)** Think of it as Marie Kondo-ing your data.
 >
@@ -290,17 +285,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=38)** Think of customer information, financial records, inventory data, etc.
 >
-> **[0:44](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=44)** Creating a standardized naming convention and metadata system will further streamline this process, making it easier to search and retrieve data efficiently.
+> **[0:44](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=44)** Creating a standardized naming convention and [[Metadata]] system will further streamline this process, making it easier to search and retrieve data efficiently.
 >
 > **[0:55](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=55)** Once your stored data is organized, make sure it's secure by backing it up.
 >
 > **[1:01](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=61)** This involves copying your data and saving it in a separate location to protect it against data loss.
 >
-> **[1:07](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=67)** Backups are crucial for restoring original data in cases of accidental deletion, hardware failure, cyber attacks, or other disasters.
+> **[1:07](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=67)** Backups are crucial for restoring original data in cases of accidental deletion, [[Hardware]] failure, cyber attacks, or other disasters.
 >
 > **[1:18](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=78)** The goal is to ensure data protection and quick recovery.
 >
-> **[1:23](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=83)** Examples of this are daily or weekly backups on external hard drives and cloud services like AWS Backup or offsite storage.
+> **[1:23](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=83)** Examples of this are daily or weekly backups on external hard drives and [[Cloud Services]] like AWS Backup or offsite storage.
 >
 > **[1:33](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=93)** Another factor in protecting your data is determining who should have access to it.
 >
@@ -308,15 +303,15 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=102)** Use role-based permissions so that only authorized people can access or modify the data.
 >
-> **[1:49](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=109)** For example, a CFO can see financial data, while the marketing team looks at customer details.
+> **[1:49](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=109)** For example, a CFO can see [[Financial Data]], while the marketing team looks at customer details.
 >
 > **[1:57](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=117)** Every time someone views or changes data record it in a log to make sure everything is done properly.
 >
-> **[2:05](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=125)** Also, maintain audit trails to track who does what with the data, which helps with transparency and accountability.
+> **[2:05](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=125)** Also, maintain audit trails to track who does what with the data, which helps with transparency and [[Accountability]].
 >
-> **[2:13](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=133)** By implementing these best practices in data management, you'll transform your company's data into a powerful asset that drives informed decision-making and innovation.
+> **[2:13](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=133)** By implementing these best practices in data management, you'll transform your company's data into a powerful asset that drives informed [[Decision-Making]] and innovation.
 >
-> **[2:25](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=145)** Remember, data collection and management is an ongoing process, much like maintaining an organized home. Regularly review and refine your strategies to ensure your data remains accurate, secure and valuable.
+> **[2:25](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=145)** Remember, [[Data Collection]] and management is an ongoing process, much like maintaining an organized home. Regularly review and refine your strategies to ensure your data remains accurate, secure and valuable.
 >
 > **[2:41](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/manage-and-organize-business-data?u=76281980&t=161)** Now that you've learned the essentials of data management and organization, take some time to apply these principles in your daily work.
 >
@@ -326,7 +321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), management (5), business (1), [[Metadata]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Management]] (4), [[Metadata]] (1), [[Hardware]] (1), [[Cloud Services]] (1), [[Financial Data]] (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Env Vars:** aws (1), cfo (1)
 > **Analogies:** think of it as (1), for example (1)
@@ -337,8 +332,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze business operations data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980)
+#### [Analyze business operations data](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,7 +354,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980&t=82)** Cleaning the data was the next step.
 >
-> **[1:25](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980&t=85)** Removing duplicates, rectifying errors and ensuring completeness to guarantee accuracy and reliability. With cleaned and organized data now available in a centralized database, the operations manager leveraged Tableau for descriptive analytics. Through charts and dashboards they visualized current operational performance, identify going past trends and patterns that warranted further investigation.
+> **[1:25](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980&t=85)** Removing duplicates, rectifying errors and ensuring completeness to guarantee accuracy and reliability. With cleaned and organized data now available in a centralized database, the operations manager leveraged [[Tableau]] for descriptive analytics. Through charts and [[Dashboards]] they visualized current operational performance, identify going past trends and patterns that warranted further investigation.
 >
 > **[1:53](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980&t=113)** So far, you've seen the operations manager gather, clean, and organize operational data.
 >
@@ -374,16 +368,15 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980&t=157)** What sources can you utilize to gather key data for analysis?
 >
-> **[2:42](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980&t=162)** By taking these initial steps you’ll be well on your way to analyzing operational data that lays the groundwork for informed decision-making and strategic analysis.
+> **[2:42](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980&t=162)** By taking these initial steps you’ll be well on your way to analyzing operational data that lays the groundwork for informed [[Decision-Making]] and strategic analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), leadership (2), [[Tableau]] (2), power (1), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Dashboards]] (1), [[Decision-Making]] (1)
 > **Env Vars:** erp (1)
 > **Analogies:** such as (1)
 
-#### Interpret data for business decision making
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/interpret-data-for-business-decision-making?u=76281980)
+#### [Interpret data for business decision making](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/interpret-data-for-business-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -403,7 +396,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/interpret-data-for-business-decision-making?u=76281980&t=59)** Understanding this root cause was essential for developing a targeted solution.
 >
-> **[1:05](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/interpret-data-for-business-decision-making?u=76281980&t=65)** The operations manager's next step was to employ predictive analytics using time series and regression analysis to forecast future trends and identify potential issues before they escalated.
+> **[1:05](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/interpret-data-for-business-decision-making?u=76281980&t=65)** The operations manager's next step was to employ [[Predictive Analytics]] using time series and regression analysis to forecast future trends and identify potential issues before they escalated.
 >
 > **[1:19](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/interpret-data-for-business-decision-making?u=76281980&t=79)** They discovered another troubling pattern.
 >
@@ -433,17 +426,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (3), [[Analytics]] (3), next (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1)
 > **CLI Commands:** make (1)
 
-#### Predictive analytics for operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980)
+#### [Predictive analytics for operations](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=0)** Imagine having a crystal ball that reveals future trends and operational needs.
 >
-> **[0:06](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=6)** While not magical predictive analytics offers a powerful way to foresee and plan for what lies ahead.
+> **[0:06](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=6)** While not magical [[Predictive Analytics]] offers a powerful way to foresee and plan for what lies ahead.
 >
 > **[0:15](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=15)** This capability enables proactive decision making, giving your business a significant advantage.
 >
@@ -455,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=41)** Start by analyzing data from the previous year: attendance figures, leads generated, and resulting sales.
 >
-> **[0:49](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=49)** This historical data forms the foundation for your predictions.
+> **[0:49](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=49)** This historical data [[Forms]] the foundation for your predictions.
 >
 > **[0:53](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=53)** The next step involves identifying patterns and trends within the data.
 >
@@ -465,7 +457,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=79)** Once patterns are identified, apply predictive models to forecast future outcomes.
 >
-> **[1:25](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=85)** Techniques like regression analysis or machine learning algorithms can help estimate the potential impact of attending the event this year.
+> **[1:25](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=85)** Techniques like regression analysis or machine learning [[Algorithms]] can help estimate the potential impact of attending the event this year.
 >
 > **[1:36](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=96)** These models consider various factors such as market trends, economic indicators and competitor activity to provide a comprehensive forecast.
 >
@@ -473,7 +465,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=112)** For instance, consider market growth projections, consumer behavior trends, and industry forecasts.
 >
-> **[2:00](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=120)** If market analysis indicates a surge in demand for your products, attending the event could capitalize on this trend.
+> **[2:00](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=120)** If market analysis indicates a surge in demand for your [[Microsoft Products|products]], attending the event could capitalize on this trend.
 >
 > **[2:08](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/predictive-analytics-for-operations?u=76281980&t=128)** Conversely, if the market is stagnating, reallocating resources might be wiser.
 >
@@ -505,7 +497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Predictive Analytics]] (5), business (2), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (5), [[Forms]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), imagine (1), such as (1), for instance (1)
 > **CLI Commands:** make (2)
 
@@ -514,8 +506,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Address data quality issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980)
+#### [Address data quality issues](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,9 +516,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=8)** Now, think about making critical business decisions with flawed data.
 >
-> **[0:13](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=13)** Without ongoing data quality measures, even the best laid plans can fall apart.
+> **[0:13](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=13)** Without ongoing [[Data Quality]] measures, even the best laid plans can fall apart.
 >
-> **[0:21](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=21)** Continuous data quality is important for reliable analysis and effective decision-making.
+> **[0:21](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=21)** Continuous data quality is important for reliable analysis and effective [[Decision-Making]].
 >
 > **[0:28](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=28)** In this lesson, you'll learn strategies to identify and mitigate data quality issues, ensuring your analysis remains reliable and accurate over time. To maintain high data quality, start by defining and monitoring data quality metrics such as accuracy, completeness, consistency, timeliness, and uniqueness.
 >
@@ -541,11 +532,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=98)** Another useful step in this process is conducting regular training sessions for your team to emphasize the importance of data quality and best practices for data handling.
 >
-> **[1:49](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=109)** Incorporate data quality dashboards to visualize these metrics and trends, providing a real time view of issues and areas needing attention.
+> **[1:49](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=109)** Incorporate data quality [[Dashboards]] to visualize these metrics and trends, providing a real time view of issues and areas needing attention.
 >
 > **[2:00](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=120)** Last, but certainly not least, regularly backup your data and have a disaster recovery plan in place to quickly restore data if needed.
 >
-> **[2:09](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=129)** Leverage advanced data quality tools that offer features like data profiling, cleansing, and master data management for deeper insights and higher standards.
+> **[2:09](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=129)** Leverage advanced data quality tools that offer features like data profiling, cleansing, and master [[Data Management]] for deeper insights and higher standards.
 >
 > **[2:21](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980&t=141)** Start putting these strategies into practice.
 >
@@ -555,12 +546,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), business (2), [[Decision-Making]] (1), next (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (15), [[Decision-Making]] (1), [[Dashboards]] (1), [[Data Management]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** set up (1), setup (1)
 
-#### Collecting data ethically
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collecting-data-ethically?u=76281980)
+#### [Collecting data ethically](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collecting-data-ethically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collecting-data-ethically?u=76281980&t=14)** Ethical use of data protects your company and your customers, ensuring that every decision reflects values such as transparency, informed consent and data minimization.
 >
-> **[0:28](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collecting-data-ethically?u=76281980&t=28)** After this lesson, you'll be equipped to navigate complex ethical considerations and data collection with confidence. By understanding the principles of ethical data handling, you'll safeguard both your business's reputation and the trust of your valued customers, paving the way for sustainable growth and positive impact in your industry.
+> **[0:28](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collecting-data-ethically?u=76281980&t=28)** After this lesson, you'll be equipped to navigate complex ethical considerations and [[Data Collection]] with confidence. By understanding the principles of ethical data handling, you'll safeguard both your business's reputation and the trust of your valued customers, paving the way for sustainable growth and positive impact in your industry.
 >
 > **[0:52](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collecting-data-ethically?u=76281980&t=52)** First is transparency.
 >
@@ -592,7 +582,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collecting-data-ethically?u=76281980&t=133)** The next fundamental principle is data minimization.
 >
-> **[2:17](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collecting-data-ethically?u=76281980&t=137)** This means a company will only collect the data necessary for the intended purpose. By understanding which information actually adds value companies can use data minimization to simplify compliance with security and privacy laws, as well as increase trust among consumers.
+> **[2:17](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collecting-data-ethically?u=76281980&t=137)** This means a company will only collect the data necessary for the intended purpose. By understanding which information actually adds value companies can use data minimization to simplify compliance with security and [[Privacy]] laws, as well as increase trust among consumers.
 >
 > **[2:37](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collecting-data-ethically?u=76281980&t=157)** It is a good best practice to have regular audits of your company's data collection practices.
 >
@@ -610,14 +600,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), business (2), [[Privacy]] (2), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (4), [[Privacy]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 
-#### Analyzing data ethically
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980)
+#### [Analyzing data ethically](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,17 +620,17 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=50)** They extend to broader societal outcomes.
 >
-> **[0:54](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=54)** Companies are increasingly expected to assess how their data practices impact stakeholders, communities, society at large, beyond mere legal compliance.
+> **[0:54](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=54)** Companies are increasingly expected to assess how their data practices impact stakeholders, communities, society at large, beyond mere [[Legal Compliance]].
 >
-> **[1:06](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=66)** This entails evaluating the ethical implications of data collection, processing and usage to ensure they don't perpetuate social inequalities or discrimination.
+> **[1:06](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=66)** This entails evaluating the ethical implications of [[Data Collection]], processing and usage to ensure they don't perpetuate social inequalities or discrimination.
 >
 > **[1:18](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=78)** Consider a scenario where a health care analytics company develops an algorithm to predict patient outcomes.
 >
 > **[1:25](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=85)** If this algorithm systematically disadvantages certain demographic groups due to biases in the data, it could perpetuate disparities in health care access and treatment outcomes, exacerbate beating social inequality.
 >
-> **[1:40](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=100)** Ethical data analysis requires organizations to avoid these biases and ensure fairness in decision-making processes involving algorithms, prioritizing equitable outcomes for all.
+> **[1:40](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=100)** Ethical data analysis requires organizations to avoid these biases and ensure fairness in [[Decision-Making]] processes involving [[Algorithms]], prioritizing equitable outcomes for all.
 >
-> **[1:54](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=114)** Companies must weigh the benefits of data-driven decisions against the risk of unintended consequences, such as privacy violations or discriminatory outcomes.
+> **[1:54](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=114)** Companies must weigh the benefits of data-driven decisions against the risk of unintended consequences, such as [[Privacy]] violations or discriminatory outcomes.
 >
 > **[2:07](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyzing-data-ethically?u=76281980&t=127)** This involves implementing safeguards such as ethical impact assessments and stakeholder consultations to anticipate and mitigate adverse effects on impacted communities.
 >
@@ -657,11 +646,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), business (2), [[Legal Compliance]] (1), [[Analytics]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Legal Compliance]] (1), [[Data Collection]] (1), [[Decision-Making]] (1), [[Algorithms]] (1), [[Privacy]] (1)
 > **Analogies:** such as (2)
 
-#### Emerging trends in data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980)
+#### [Emerging trends in data analytics](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,7 +661,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980&t=20)** By mastering the art of identifying and leveraging emerging trends in data analytics, you can position your company to thrive in an increasingly data-driven world.
 >
-> **[0:32](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980&t=32)** These are ways I stay in front of emerging trends in data analytics and assess their potential impact on business operations.
+> **[0:32](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980&t=32)** These are ways I stay in front of emerging trends in data analytics and assess their potential impact on [[Business Operations]].
 >
 > **[0:41](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980&t=41)** Staying informed about data analytics developments requires regularly reading industry publications, blogs and case studies.
 >
@@ -703,9 +691,9 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980&t=150)** Assessing the impact of emerging data analytics trends on your business is essential for informed strategic decisions.
 >
-> **[2:39](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980&t=159)** You don't want to negatively affect scalability, cost effectiveness and alignment with key objectives.
+> **[2:39](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980&t=159)** You don't want to negatively affect [[Scalability]], cost effectiveness and alignment with key objectives.
 >
-> **[2:47](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980&t=167)** Identify opportunities to leverage trends to optimize processes, improve decision-making and drive innovation. By evaluating new trends you ensure that your data analytics initiatives align with business goals and contribute to long term success.
+> **[2:47](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980&t=167)** Identify opportunities to leverage trends to optimize processes, improve [[Decision-Making]] and drive innovation. By evaluating new trends you ensure that your data analytics initiatives align with business goals and contribute to long term success.
 >
 > **[3:06](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/emerging-trends-in-data-analytics?u=76281980&t=186)** Knowledge is power.
 >
@@ -719,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (9), business (6), [[Scalability]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (2), [[Scalability]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -729,8 +717,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your action plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/create-your-action-plan?u=76281980)
+#### [Create your action plan](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/create-your-action-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,7 +733,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/create-your-action-plan?u=76281980&t=27)** This will get you on the right track to using all your new skills.
 >
-> **[0:31](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/create-your-action-plan?u=76281980&t=31)** I also recommend you connect with me on LinkedIn.
+> **[0:31](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/create-your-action-plan?u=76281980&t=31)** I also recommend you connect with me on [[LinkedIn]].
 >
 > **[0:35](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/create-your-action-plan?u=76281980&t=35)** My company and I can help you with strategic planning and selecting the KPIs and metrics you will track that will lead your business to growth and operational efficiency.
 >
@@ -754,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 
 

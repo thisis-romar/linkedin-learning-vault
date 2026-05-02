@@ -128,12 +128,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Begin an adventure with Swift 5
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5-14524901?u=76281980)
+#### [Begin an adventure with Swift 5](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5-14524901?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5-14524901?u=76281980&t=0)** - Programming should be an adventure, and one of the newest and most exciting languages out there is Swift.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5-14524901?u=76281980&t=0)** - Programming should be an adventure, and one of the newest and most exciting languages out there is [[Swift (Programming Language)|Swift]].
 >
 > **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5-14524901?u=76281980&t=6)** It's fast, flexible, and safe, and version 5.0 is the best iteration we've had yet.
 >
@@ -157,25 +156,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Programming]] (1), data (1), application (1), game (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4)
 > **Code Identifiers:** ios (1)
 > **Versions:** version 5 (1)
 > **Speakers:** - programming (1)
 
-#### Quest accepted: What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980)
+#### [Quest accepted: What you should know](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=0)** - [Instructor] Before we get started, there are a few assumptions that we should clear up.
 >
-> **[0:04](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=4)** First, even though this course was designed specifically for students with no Swift experience, it's not a programming fundamentals course.
+> **[0:04](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=4)** First, even though this course was designed specifically for students with no [[Swift (Programming Language)|Swift]] experience, it's not a programming fundamentals course.
 >
 > **[0:13](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=13)** You should be completely comfortable with concepts like variables, methods and classes, preferably in an object oriented context before diving in.
 >
-> **[0:22](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=22)** If you're brand new to programming or you need a basic refresher, check out [[Programming Foundations Fundamentals]] from our course library, it'll get you up to speed on everything you'll need to know.
+> **[0:22](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=22)** If you're brand new to programming or you need a basic refresher, check out [[[[Programming Foundations]] Fundamentals]] from our course library, it'll get you up to speed on everything you'll need to know.
 >
-> **[0:33](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=33)** Second, since we're starting from scratch in Swift, it doesn't make sense to jump right into an Xcode app project without understanding the language.
+> **[0:33](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=33)** Second, since we're starting from scratch in Swift, it doesn't make sense to jump right into an [[Xcode]] app project without understanding the language.
 >
 > **[0:42](https://www.linkedin.com/learning/swift-5-essential-training/quest-accepted-what-you-should-know-14531790?u=76281980&t=42)** We have to walk before we run after all.
 >
@@ -187,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Programming]] (2), [[Programming Foundations]] (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Programming Foundations]] (1), [[Xcode]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
 > **Prerequisites:** you'll need (1)
@@ -198,18 +196,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Swift retrospective
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980)
+#### [Swift retrospective](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980&t=0)** - [Instructor] At its core, Swift is a compiled programming language that works with, rather than replaces, the Objective-C modules and frameworks that Apple has developed over the years.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980&t=0)** - [Instructor] At its core, [[Swift (Programming Language)|Swift]] is a compiled programming language that works with, rather than replaces, the Objective-C modules and frameworks that Apple has developed over the years.
 >
 > **[0:11](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980&t=11)** Since its release, developers have had the ability to create projects with Objective-C and Swift code side by side.
 >
 > **[0:18](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980&t=18)** So the changeover has largely been a smooth gradient rather than an abrupt handover.
 >
-> **[0:25](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980&t=25)** Prior to 2014, iOS applications were written entirely in Objective-C, but that all changed when Swift 1.0 was released with Xcode 6.
+> **[0:25](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980&t=25)** Prior to 2014, iOS applications were written entirely in Objective-C, but that all changed when Swift 1.0 was released with [[Xcode]] 6.
 >
 > **[0:35](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980&t=35)** A month later, Swift 1.1 was released with Xcode 6.1, followed in early 2015 by Swift 1.2 and Xcode 6.3.
 >
@@ -223,19 +220,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (10), [[Xcode]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (10), [[Xcode]] (3)
 > **Versions:** 2.0 (2), 1.0 (1), 1.1 (1), 6.1 (1), 1.2 (1)
 > **CLI Commands:** apache (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting Xcode
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/getting-xcode-14525889?u=76281980)
+#### [Getting Xcode](https://www.linkedin.com/learning/swift-5-essential-training/getting-xcode-14525889?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/getting-xcode-14525889?u=76281980&t=0)** - [Instructor] Before writing any Swift code, we'll need to install Xcode on our local machines, which you can find by searching the app store app.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/getting-xcode-14525889?u=76281980&t=0)** - [Instructor] Before writing any [[Swift (Programming Language)|Swift]] code, we'll need to install [[Xcode]] on our local machines, which you can find by searching the app store app.
 >
 > **[0:09](https://www.linkedin.com/learning/swift-5-essential-training/getting-xcode-14525889?u=76281980&t=9)** Swift 5 came out with Xcode 10.2, so any later versions you may be working with are still compatible with the course.
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (5), [[Swift (Programming Language)|Swift]] (2), hit (1), application (1), cross-platform (1)
+> **Frameworks & Libraries:** [[Xcode]] (5), [[Swift (Programming Language)|Swift]] (2)
 > **Code Identifiers:** ios (1), watchos (1), tvos (1), macos (1)
 > **CLI Commands:** find (2), unzip (1)
 > **Versions:** 10.2 (1)
@@ -279,8 +275,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/reviewing-the-exercise-files-14526924?u=76281980)
+#### [Reviewing the exercise files](https://www.linkedin.com/learning/swift-5-essential-training/reviewing-the-exercise-files-14526924?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -318,7 +313,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/swift-5-essential-training/reviewing-the-exercise-files-14526924?u=76281980&t=114)** At the bottom of each page, there are next and previous buttons for flipping back and forth like a book.
 >
-> **[2:01](https://www.linkedin.com/learning/swift-5-essential-training/reviewing-the-exercise-files-14526924?u=76281980&t=121)** By the end of the course, the goal is for you to have a solid Swift reference guide that you've created yourself and can refer back to anytime.
+> **[2:01](https://www.linkedin.com/learning/swift-5-essential-training/reviewing-the-exercise-files-14526924?u=76281980&t=121)** By the end of the course, the goal is for you to have a solid [[Swift (Programming Language)|Swift]] reference guide that you've created yourself and can refer back to anytime.
 >
 > **[2:10](https://www.linkedin.com/learning/swift-5-essential-training/reviewing-the-exercise-files-14526924?u=76281980&t=130)** If we hit the middle page icon with the bar on the bottom, this will expand or hide the debug area, which is where all printed output shows up.
 >
@@ -350,7 +345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Swift (Programming Language)|Swift]] (3), hit (2)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **Exercise Files:** starter project (2), exercise files (1), starter file (1)
 > **UI Navigation:** click on (1), toggle (1), go to (1)
 > **Prerequisites:** set up (2), you'll need (1)
@@ -362,8 +357,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The quest begins: Variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/the-quest-begins-variables-14530749?u=76281980)
+#### [The quest begins: Variables](https://www.linkedin.com/learning/swift-5-essential-training/the-quest-begins-variables-14530749?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/swift-5-essential-training/the-quest-begins-variables-14530749?u=76281980&t=11)** In this chapter, we're going to work with basic variable types common to all languages, including strings, integers, and Booleans.
 >
-> **[0:19](https://www.linkedin.com/learning/swift-5-essential-training/the-quest-begins-variables-14530749?u=76281980&t=19)** We'll also be introducing optional types, which are unique to Swift.
+> **[0:19](https://www.linkedin.com/learning/swift-5-essential-training/the-quest-begins-variables-14530749?u=76281980&t=19)** We'll also be introducing optional types, which are unique to [[Swift (Programming Language)|Swift]].
 >
 > **[0:23](https://www.linkedin.com/learning/swift-5-essential-training/the-quest-begins-variables-14530749?u=76281980&t=23)** These allow us to gracefully handle variables with nil values without bringing our code to a crashing stop.
 >
@@ -381,11 +375,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2)
 > **Speakers:** - if (1)
 
-#### Variables and constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/variables-and-constants-14529808?u=76281980)
+#### [Variables and constants](https://www.linkedin.com/learning/swift-5-essential-training/variables-and-constants-14529808?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -393,7 +386,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/swift-5-essential-training/variables-and-constants-14529808?u=76281980&t=9)** If not, go ahead and open that up, and let's talk about variables.
 >
-> **[0:14](https://www.linkedin.com/learning/swift-5-essential-training/variables-and-constants-14529808?u=76281980&t=14)** So in Swift, you have two primary options for declaring variables, depending on how you plan to use them.
+> **[0:14](https://www.linkedin.com/learning/swift-5-essential-training/variables-and-constants-14529808?u=76281980&t=14)** So in [[Swift (Programming Language)|Swift]], you have two primary options for declaring variables, depending on how you plan to use them.
 >
 > **[0:21](https://www.linkedin.com/learning/swift-5-essential-training/variables-and-constants-14529808?u=76281980&t=21)** Variables that need to be changed after they're created start with the VAR keyword, which tells the Swift compiler the value can be modified.
 >
@@ -445,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (5), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (5)
 > **Code Identifiers:** currenthealth (4), maxhealth (4), equipmentslots (1), currentgold (1)
 > **Env Vars:** var (3)
 > **CLI Commands:** make (2)
@@ -454,14 +447,13 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type safety and inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/type-safety-and-inference-14527900?u=76281980)
+#### [Type safety and inference](https://www.linkedin.com/learning/swift-5-essential-training/type-safety-and-inference-14527900?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/type-safety-and-inference-14527900?u=76281980&t=0)** - [Instructor] I've already switched to the next playground page called type safety and inference, so if you're not there already, go ahead and select that and close out the navigator to give us a little bit more room.
 >
-> **[0:12](https://www.linkedin.com/learning/swift-5-essential-training/type-safety-and-inference-14527900?u=76281980&t=12)** The first thing you really need to know about Swift is that it's a type safe language.
+> **[0:12](https://www.linkedin.com/learning/swift-5-essential-training/type-safety-and-inference-14527900?u=76281980&t=12)** The first thing you really need to know about [[Swift (Programming Language)|Swift]] is that it's a type safe language.
 >
 > **[0:16](https://www.linkedin.com/learning/swift-5-essential-training/type-safety-and-inference-14527900?u=76281980&t=16)** Meaning that every variable you declare has to have a specific type and a value that matches that type.
 >
@@ -501,14 +493,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging and commenting
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/logging-and-commenting-14527903?u=76281980)
+#### [Logging and commenting](https://www.linkedin.com/learning/swift-5-essential-training/logging-and-commenting-14527903?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -536,7 +527,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/swift-5-essential-training/logging-and-commenting-14527903?u=76281980&t=66)** Again, we're going to assign it a string value that just says, we're not here.
 >
-> **[1:13](https://www.linkedin.com/learning/swift-5-essential-training/logging-and-commenting-14527903?u=76281980&t=73)** Functions in Swift are called by name, just like variables.
+> **[1:13](https://www.linkedin.com/learning/swift-5-essential-training/logging-and-commenting-14527903?u=76281980&t=73)** Functions in [[Swift (Programming Language)|Swift]] are called by name, just like variables.
 >
 > **[1:16](https://www.linkedin.com/learning/swift-5-essential-training/logging-and-commenting-14527903?u=76281980&t=76)** So to display the value of antiHelloWorld, we can just say print and the IntelliSense is going to come up and give us that function and we can just feed it antiHelloWorld.
 >
@@ -557,14 +548,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Swift operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/swift-operators-14526928?u=76281980)
+#### [Swift operators](https://www.linkedin.com/learning/swift-5-essential-training/swift-operators-14526928?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/swift-operators-14526928?u=76281980&t=0)** - [Instructor] A programming language isn't really complete without a way to operate or modify your variables.
 >
-> **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/swift-operators-14526928?u=76281980&t=6)** And Swift is really no different.
+> **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/swift-operators-14526928?u=76281980&t=6)** And [[Swift (Programming Language)|Swift]] is really no different.
 >
 > **[0:08](https://www.linkedin.com/learning/swift-5-essential-training/swift-operators-14526928?u=76281980&t=8)** Now let's start off with a basic math operation and go from there.
 >
@@ -604,25 +594,24 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/swift-5-essential-training/swift-operators-14526928?u=76281980&t=130)** Since 100 divided by 90 is 1, there's a remainder of 10 left, and that's actually what experienceOverflow is going to store for us.
 >
-> **[2:19](https://www.linkedin.com/learning/swift-5-essential-training/swift-operators-14526928?u=76281980&t=139)** Now that's all the operators that really make sense to go through by hand with our current Swift skills, but we will cover the remaining comparison, logical, and range operations when we get to the topic of Control Flow.
+> **[2:19](https://www.linkedin.com/learning/swift-5-essential-training/swift-operators-14526928?u=76281980&t=139)** Now that's all the operators that really make sense to go through by hand with our current Swift skills, but we will cover the remaining comparison, logical, and range operations when we get to the topic of [[Control Flow]].
 >
 > **[2:32](https://www.linkedin.com/learning/swift-5-essential-training/swift-operators-14526928?u=76281980&t=152)** If you want to jump the gun or you're just itching to go, I have commented out the comparison, logical, and range syntax for you here at the bottom of the playground if you want to get started early.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), next (2), [[Programming]] (1), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), [[Control Flow]] (1)
 > **Code Identifiers:** currenthealth (4), experienceoverflow (2), usingmath (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/understanding-strings-14530754?u=76281980)
+#### [Understanding strings](https://www.linkedin.com/learning/swift-5-essential-training/understanding-strings-14530754?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/understanding-strings-14530754?u=76281980&t=0)** - [Instructor] The string class is going to be a constant building block in any Swift application you put together.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/understanding-strings-14530754?u=76281980&t=0)** - [Instructor] The string class is going to be a constant building block in any [[Swift (Programming Language)|Swift]] application you put together.
 >
 > **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/understanding-strings-14530754?u=76281980&t=6)** So we're going to spend a little time understanding its basic features.
 >
@@ -718,19 +707,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), application (1), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **Code Identifiers:** activequest (7), questdifficulty (4), questinfo (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/working-with-strings-14529807?u=76281980)
+#### [Working with strings](https://www.linkedin.com/learning/swift-5-essential-training/working-with-strings-14529807?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/working-with-strings-14529807?u=76281980&t=0)** - [Instructor] Let's keep going with strings and start working with the functionality that Swift already has built into the class.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/working-with-strings-14529807?u=76281980&t=0)** - [Instructor] Let's keep going with strings and start working with the functionality that [[Swift (Programming Language)|Swift]] already has built into the class.
 >
 > **[0:07](https://www.linkedin.com/learning/swift-5-essential-training/working-with-strings-14529807?u=76281980&t=7)** First though, let's declare a new test variable that we can work with.
 >
@@ -830,7 +818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (7), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (7)
 > **Code Identifiers:** removeall (2), removelast (1), removefirst (1)
 > **Documentation:** the docs (2)
 > **CLI Commands:** make (1)
@@ -838,14 +826,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type conversions
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/type-conversions-14530753?u=76281980)
+#### [Type conversions](https://www.linkedin.com/learning/swift-5-essential-training/type-conversions-14530753?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/type-conversions-14530753?u=76281980&t=0)** - [Instructor] Now that we've got some strings and numbers under our belts, let's do some work with conversions.
 >
-> **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/type-conversions-14530753?u=76281980&t=6)** Now the Swift compiler will do the majority of the work when you're doing anything mathematical.
+> **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/type-conversions-14530753?u=76281980&t=6)** Now the [[Swift (Programming Language)|Swift]] compiler will do the majority of the work when you're doing anything mathematical.
 >
 > **[0:12](https://www.linkedin.com/learning/swift-5-essential-training/type-conversions-14530753?u=76281980&t=12)** But when it comes to converting between types, well, that takes a little extra effort.
 >
@@ -925,8 +912,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Booleans and logical operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/booleans-and-logical-operators?u=76281980)
+#### [Booleans and logical operators](https://www.linkedin.com/learning/swift-5-essential-training/booleans-and-logical-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,12 +973,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing optionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/introducing-optionals-14527895?u=76281980)
+#### [Introducing optionals](https://www.linkedin.com/learning/swift-5-essential-training/introducing-optionals-14527895?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/introducing-optionals-14527895?u=76281980&t=0)** - [Instructor] If you're coming from a C-style language, the concept of objects having nil values shouldn't be news, but in Swift, any variable type can hold a nil value as long as it's declared as an optional.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/introducing-optionals-14527895?u=76281980&t=0)** - [Instructor] If you're coming from a C-style language, the concept of objects having nil values shouldn't be news, but in [[Swift (Programming Language)|Swift]], any variable type can hold a nil value as long as it's declared as an optional.
 >
 > **[0:14](https://www.linkedin.com/learning/swift-5-essential-training/introducing-optionals-14527895?u=76281980&t=14)** Optionals tell the compiler that the variable is either storing a value or storing nothing, which is useful when you need placeholders for potentially unknown values without crashing your code.
 >
@@ -1022,7 +1007,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/swift-5-essential-training/introducing-optionals-14527895?u=76281980&t=110)** What we can do for optional values is unwrap them in two ways, using optional binding or force unwrapping.
 >
-> **[1:58](https://www.linkedin.com/learning/swift-5-essential-training/introducing-optionals-14527895?u=76281980&t=118)** We're going to get to optional binding later on when we talk about control flow, so for now let's force unwrap itemGathered by adding an exclamation mark.
+> **[1:58](https://www.linkedin.com/learning/swift-5-essential-training/introducing-optionals-14527895?u=76281980&t=118)** We're going to get to optional binding later on when we talk about [[Control Flow]], so for now let's force unwrap itemGathered by adding an exclamation mark.
 >
 > **[2:09](https://www.linkedin.com/learning/swift-5-essential-training/introducing-optionals-14527895?u=76281980&t=129)** Now the actual string pickaxe is printed out, and it's no longer an option.
 >
@@ -1052,8 +1037,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980)
+#### [Accessing documentation](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,7 +1047,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980&t=18)** You can access detailed documentation for any class by highlighting its type, going up to the Help menu, selecting Search Documentation for Selected Text.
 >
-> **[0:30](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980&t=30)** Now this is going to show what Xcode thinks you're looking for.
+> **[0:30](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980&t=30)** Now this is going to show what [[Xcode]] thinks you're looking for.
 >
 > **[0:34](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980&t=34)** In this case, yes, we're looking for the string class.
 >
@@ -1073,20 +1057,19 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980&t=54)** So if you highlight string class again, you can hit Command and right click, which will open up the Actions menu.
 >
-> **[1:01](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980&t=61)** And we can either jump to the definition, which is going to take you back to where we just were, or you can hit Show Quick Help, which just pops up all that information right here without any new windows.
+> **[1:01](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980&t=61)** And we can either jump to the definition, which is going to take you back to where we just were, or you can hit Show Quick Help, which just pops up all that information right here without any new [[Windows]].
 >
-> **[1:14](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980&t=74)** When learning a new language, it's always good to know where to get help, so make constant use of these docs as you're continuing your Swift journey.
+> **[1:14](https://www.linkedin.com/learning/swift-5-essential-training/accessing-documentation-14528849?u=76281980&t=74)** When learning a new language, it's always good to know where to get help, so make constant use of these docs as you're continuing your [[Swift (Programming Language)|Swift]] journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (2), hit (2), [[Search]] (1), [[Windows]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (2), [[Windows]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Player stats
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/challenge-player-stats-14526917?u=76281980)
+#### [Challenge: Player stats](https://www.linkedin.com/learning/swift-5-essential-training/challenge-player-stats-14526917?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1110,13 +1093,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Player stats
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/solution-player-stats-14528851?u=76281980)
+#### [Solution: Player stats](https://www.linkedin.com/learning/swift-5-essential-training/solution-player-stats-14528851?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1190,7 +1171,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** charactername (4), currentmana (3), debugstats (3), questaccepted (3), canquest (3)
 > **Versions:** 75.9 (1)
 > **Warnings:** caveat (1)
@@ -1202,8 +1182,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gathering inventory with collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/gathering-inventory-with-collections-14525882?u=76281980)
+#### [Gathering inventory with collections](https://www.linkedin.com/learning/swift-5-essential-training/gathering-inventory-with-collections-14525882?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,15 +1194,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - now (1)
 
-#### Swift arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/swift-arrays-14524893?u=76281980)
+#### [Swift arrays](https://www.linkedin.com/learning/swift-5-essential-training/swift-arrays-14524893?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/swift-arrays-14524893?u=76281980&t=0)** - [Instructor] With the basic Swift types out of the way, we can dive into our next playground, which is chapter three and our first collection type, arrays.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/swift-arrays-14524893?u=76281980&t=0)** - [Instructor] With the basic [[Swift (Programming Language)|Swift]] types out of the way, we can dive into our next playground, which is chapter three and our first collection type, arrays.
 >
 > **[0:10](https://www.linkedin.com/learning/swift-5-essential-training/swift-arrays-14524893?u=76281980&t=10)** Now, arrays work like ordered lists, meaning that each element or value in the collection is organized by the order it was added.
 >
@@ -1305,7 +1282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), next (2), data (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4)
 > **Analogies:** just like (2), for instance (1)
 > **Code Identifiers:** extrasyntax1 (1)
 > **Cross-References:** in the next (1)
@@ -1313,8 +1290,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Core array methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/core-array-methods-14526918?u=76281980)
+#### [Core array methods](https://www.linkedin.com/learning/swift-5-essential-training/core-array-methods-14526918?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,7 +1352,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/swift-5-essential-training/core-array-methods-14526918?u=76281980&t=159)** The same is true of alphabetical sorting.
 >
-> **[2:41](https://www.linkedin.com/learning/swift-5-essential-training/core-array-methods-14526918?u=76281980&t=161)** Swift makes that super easy with the sort method.
+> **[2:41](https://www.linkedin.com/learning/swift-5-essential-training/core-array-methods-14526918?u=76281980&t=161)** [[Swift (Programming Language)|Swift]] makes that super easy with the sort method.
 >
 > **[2:45](https://www.linkedin.com/learning/swift-5-essential-training/core-array-methods-14526918?u=76281980&t=165)** And now we will see that it is alphabetical.
 >
@@ -1450,15 +1426,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** characterclasses (6), skilltree (3), newelement (1), reversedclasses (1), sortedclasses (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1), for instance (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Swift dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/swift-dictionaries-14527901?u=76281980)
+#### [Swift dictionaries](https://www.linkedin.com/learning/swift-5-essential-training/swift-dictionaries-14527901?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1510,7 +1485,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/swift-5-essential-training/swift-dictionaries-14527901?u=76281980&t=157)** It could not exist.
 >
-> **[2:39](https://www.linkedin.com/learning/swift-5-essential-training/swift-dictionaries-14527901?u=76281980&t=159)** And we'll address that and how to gracefully handle that situation, again, when we get to control flow and optional binding.
+> **[2:39](https://www.linkedin.com/learning/swift-5-essential-training/swift-dictionaries-14527901?u=76281980&t=159)** And we'll address that and how to gracefully handle that situation, again, when we get to [[Control Flow]] and optional binding.
 >
 > **[2:49](https://www.linkedin.com/learning/swift-5-essential-training/swift-dictionaries-14527901?u=76281980&t=169)** We can also use subscripts with dictionaries to modify values, just like with arrays.
 >
@@ -1518,7 +1493,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/swift-5-essential-training/swift-dictionaries-14527901?u=76281980&t=185)** And that's it.
 >
-> **[3:06](https://www.linkedin.com/learning/swift-5-essential-training/swift-dictionaries-14527901?u=76281980&t=186)** Now, if you try and update a non-existent item, Swift is going to automatically add it to your dictionary, which is, I have to say, a really useful feature when you don't know or don't want to check each item.
+> **[3:06](https://www.linkedin.com/learning/swift-5-essential-training/swift-dictionaries-14527901?u=76281980&t=186)** Now, if you try and update a non-existent item, [[Swift (Programming Language)|Swift]] is going to automatically add it to your dictionary, which is, I have to say, a really useful feature when you don't know or don't want to check each item.
 >
 > **[3:20](https://www.linkedin.com/learning/swift-5-essential-training/swift-dictionaries-14527901?u=76281980&t=200)** So we'll say blacksmithShop.
 >
@@ -1568,15 +1543,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Control Flow]] (1), [[Swift (Programming Language)|Swift]] (1), feature (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** blacksmithshop (9)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** just like (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Core dictionary methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/core-dictionary-methods-14524900?u=76281980)
+#### [Core dictionary methods](https://www.linkedin.com/learning/swift-5-essential-training/core-dictionary-methods-14524900?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1654,7 +1628,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/swift-5-essential-training/core-dictionary-methods-14524900?u=76281980&t=242)** Indenting like this really again, helps visualize what data you're actually writing.
 >
-> **[4:08](https://www.linkedin.com/learning/swift-5-essential-training/core-dictionary-methods-14524900?u=76281980&t=248)** So the dictionary inside fetch gemstones is going to be keys of strings and values of strings.
+> **[4:08](https://www.linkedin.com/learning/swift-5-essential-training/core-dictionary-methods-14524900?u=76281980&t=248)** So the dictionary inside [[Fetch]] gemstones is going to be keys of strings and values of strings.
 >
 > **[4:23](https://www.linkedin.com/learning/swift-5-essential-training/core-dictionary-methods-14524900?u=76281980&t=263)** And we're going to add two items in the fetch gemstones objective and secret.
 >
@@ -1696,7 +1670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (6), next (1), data (1)
+> **Frameworks & Libraries:** [[Fetch]] (6)
 > **Analogies:** just like (3), for instance (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** playerstats (1)
@@ -1704,8 +1678,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/working-with-sets-14529815?u=76281980)
+#### [Working with sets](https://www.linkedin.com/learning/swift-5-essential-training/working-with-sets-14529815?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1723,7 +1696,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/swift-5-essential-training/working-with-sets-14529815?u=76281980&t=39)** So I'm going to put in a few quest names here.
 >
-> **[0:41](https://www.linkedin.com/learning/swift-5-essential-training/working-with-sets-14529815?u=76281980&t=41)** Fetch gemstones, and then Big Boss, The Undertaker, and granny needs firewood.
+> **[0:41](https://www.linkedin.com/learning/swift-5-essential-training/working-with-sets-14529815?u=76281980&t=41)** [[Fetch]] gemstones, and then Big Boss, The Undertaker, and granny needs firewood.
 >
 > **[0:58](https://www.linkedin.com/learning/swift-5-essential-training/working-with-sets-14529815?u=76281980&t=58)** I'm going to go down to our second comment here and just print this out so we can see what's going on when we actually perform operations with the set.
 >
@@ -1791,7 +1764,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/swift-5-essential-training/working-with-sets-14529815?u=76281980&t=226)** Meaning they're able to provide a hash value of themselves, which is why some of these functions have the type hashhable.
 >
-> **[3:55](https://www.linkedin.com/learning/swift-5-essential-training/working-with-sets-14529815?u=76281980&t=235)** Now, all of Swift's basic types are already hashhable by default.
+> **[3:55](https://www.linkedin.com/learning/swift-5-essential-training/working-with-sets-14529815?u=76281980&t=235)** Now, all of [[Swift (Programming Language)|Swift]]'s basic types are already hashhable by default.
 >
 > **[3:58](https://www.linkedin.com/learning/swift-5-essential-training/working-with-sets-14529815?u=76281980&t=238)** So you don't really have to worry about it at this point in your Swift skills.
 >
@@ -1801,7 +1774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Swift (Programming Language)|Swift]] (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Fetch]] (1)
 > **Code Identifiers:** activequests (5), activequest (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -1809,8 +1782,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [tutor] (1)
 
-#### Core set methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/core-set-methods-14527898?u=76281980)
+#### [Core set methods](https://www.linkedin.com/learning/swift-5-essential-training/core-set-methods-14527898?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1884,12 +1856,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Swift tuples
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980)
+#### [Swift tuples](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=0)** - [Instructor] In Swift, tuples can take a group of values and store them as one compound value.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=0)** - [Instructor] In [[Swift (Programming Language)|Swift]], tuples can take a group of values and store them as one compound value.
 >
 > **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=6)** Now, this sounds like an array, I know, but tuples have the ability to store values of different types in a single variable.
 >
@@ -1931,7 +1902,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=156)** So instead of calling the indexes like we did before, we can just say attack, damage and rechargeable.
 >
-> **[2:44](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=164)** And the tuple we've defined as it is now is okay for prototyping.
+> **[2:44](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=164)** And the tuple we've defined as it is now is okay for [[Prototyping]].
 >
 > **[2:48](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=168)** But when you're writing production Swift, you'll want to name your tuple variables for clarity.
 >
@@ -1969,21 +1940,20 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=292)** And these are really great for returning values from functions or storing temporary groups of values.
 >
-> **[4:58](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=298)** However, it's tempting as it may be in the future to use tuples to create and store complex data structures.
+> **[4:58](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=298)** However, it's tempting as it may be in the future to use tuples to create and store complex [[Data Structures]].
 >
 > **[5:05](https://www.linkedin.com/learning/swift-5-essential-training/swift-tuples-14528854?u=76281980&t=305)** It's still a better idea to use classes instructs for that as we'll see later on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), data (2), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Prototyping]] (1), [[Data Structures]] (1)
 > **Code Identifiers:** uppercutattack (8), shieldstomp (4), planetsmash (2)
 > **Definitions:** is a  (1), defined as (1)
 > **Analogies:** just like (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Merchant shop
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/challenge-merchant-shop-14530752?u=76281980)
+#### [Challenge: Merchant shop](https://www.linkedin.com/learning/swift-5-essential-training/challenge-merchant-shop-14530752?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2001,13 +1971,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - okay (1)
 > **Non-Speech:** (upbeat bouncy music) (1)
 
-#### Solution: Merchant shop
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/solution-merchant-shop-14524897?u=76281980)
+#### [Solution: Merchant shop](https://www.linkedin.com/learning/swift-5-essential-training/solution-merchant-shop-14524897?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2023,7 +1991,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/swift-5-essential-training/solution-merchant-shop-14524897?u=76281980&t=24)** Let's start out and call our new variable shopitemsArray.
 >
-> **[0:30](https://www.linkedin.com/learning/swift-5-essential-training/solution-merchant-shop-14524897?u=76281980&t=30)** We'll give this literal values, let's say we can get a Stone Shield, a Bronze Hammer or a Gold Helm.
+> **[0:30](https://www.linkedin.com/learning/swift-5-essential-training/solution-merchant-shop-14524897?u=76281980&t=30)** We'll give this literal values, let's say we can get a Stone Shield, a Bronze Hammer or a Gold [[Helm]].
 >
 > **[0:43](https://www.linkedin.com/learning/swift-5-essential-training/solution-merchant-shop-14524897?u=76281980&t=43)** For the dictionary, I'm going to call this shopItemsDictionary.
 >
@@ -2097,14 +2065,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Controlling your destiny
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/controlling-your-destiny-14531795?u=76281980)
+#### [Controlling your destiny](https://www.linkedin.com/learning/swift-5-essential-training/controlling-your-destiny-14531795?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/controlling-your-destiny-14531795?u=76281980&t=0)** - Making decisions using code really gives you that feeling of controlling how your application works.
 >
-> **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/controlling-your-destiny-14531795?u=76281980&t=6)** Handling optional types correctly, laying out different adventure paths for your character to take, even computing whether they're still alive at all, comes down to control flow.
+> **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/controlling-your-destiny-14531795?u=76281980&t=6)** Handling optional types correctly, laying out different adventure paths for your character to take, even computing whether they're still alive at all, comes down to [[Control Flow]].
 >
 > **[0:16](https://www.linkedin.com/learning/swift-5-essential-training/controlling-your-destiny-14531795?u=76281980&t=16)** If statements, for loops, switches paired with defensive programming are all going to be the foundation of every creative feature you develop.
 >
@@ -2112,17 +2079,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Control Flow]] (1), [[Programming]] (1), feature (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1)
 > **Speakers:** - making (1)
 
-#### The if statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980)
+#### [The if statement](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980&t=0)** - We're going to start our exploration of control flow with the if statement, which is the simplest way to execute conditional code in your applications.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980&t=0)** - We're going to start our exploration of [[Control Flow]] with the if statement, which is the simplest way to execute conditional code in your applications.
 >
-> **[0:09](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980&t=9)** If statements are best suited to handling decision trees with three branching options or less.
+> **[0:09](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980&t=9)** If statements are best suited to handling [[Decision Trees]] with three branching options or less.
 >
 > **[0:15](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980&t=15)** If you find yourself with an if-else statement extending beyond a few conditions, it's probably time to use a switch, which we'll talk about later in this section.
 >
@@ -2164,7 +2130,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980&t=203)** Perfect.
 >
-> **[3:25](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980&t=205)** A note here, if you're coming from another language where you need open and close parentheses around each expression, Swift will allow you to do that with no problem, it's just not the Swift approved syntax, it sort of clutters up the code.
+> **[3:25](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980&t=205)** A note here, if you're coming from another language where you need open and close parentheses around each expression, [[Swift (Programming Language)|Swift]] will allow you to do that with no problem, it's just not the Swift approved syntax, it sort of clutters up the code.
 >
 > **[3:40](https://www.linkedin.com/learning/swift-5-essential-training/the-if-statement-14529811?u=76281980&t=220)** But if that makes you feel more comfortable or at ease, go ahead.
 
@@ -2176,8 +2142,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - we (1)
 
-#### Unwrapping optionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/unwrapping-optionals-14530750?u=76281980)
+#### [Unwrapping optionals](https://www.linkedin.com/learning/swift-5-essential-training/unwrapping-optionals-14530750?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2205,7 +2170,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/swift-5-essential-training/unwrapping-optionals-14530750?u=76281980&t=81)** And because item gathered is nil right now, nothing's going to execute, and our program won't crash like it did with forced unwrapping.
 >
-> **[1:29](https://www.linkedin.com/learning/swift-5-essential-training/unwrapping-optionals-14530750?u=76281980&t=89)** Unwrapping optionals like this is going to become second nature as you continue with Swift.
+> **[1:29](https://www.linkedin.com/learning/swift-5-essential-training/unwrapping-optionals-14530750?u=76281980&t=89)** Unwrapping optionals like this is going to become second nature as you continue with [[Swift (Programming Language)|Swift]].
 >
 > **[1:36](https://www.linkedin.com/learning/swift-5-essential-training/unwrapping-optionals-14530750?u=76281980&t=96)** And we can add an else statement to easily handle the nil value.
 >
@@ -2261,7 +2226,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/swift-5-essential-training/unwrapping-optionals-14530750?u=76281980&t=261)** So let's try an unwrap one of our objectives safely this time.
 >
-> **[4:26](https://www.linkedin.com/learning/swift-5-essential-training/unwrapping-optionals-14530750?u=76281980&t=266)** So we'll say, if let fetch gems equals quest directory, and here we need to use the chain syntax for our subscript.
+> **[4:26](https://www.linkedin.com/learning/swift-5-essential-training/unwrapping-optionals-14530750?u=76281980&t=266)** So we'll say, if let [[Fetch]] gems equals quest directory, and here we need to use the chain syntax for our subscript.
 >
 > **[4:38](https://www.linkedin.com/learning/swift-5-essential-training/unwrapping-optionals-14530750?u=76281980&t=278)** So we'll say we want to look up the fetch gemstones dictionary.
 >
@@ -2290,8 +2255,7 @@ created: 2026-05-02
 > **Warnings:** gotcha (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using for-in loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/using-for-in-loops-14531792?u=76281980)
+#### [Using for-in loops](https://www.linkedin.com/learning/swift-5-essential-training/using-for-in-loops-14531792?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2313,7 +2277,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/swift-5-essential-training/using-for-in-loops-14531792?u=76281980&t=68)** We can see in the debug log that each individual character has been printed out on its own line.
 >
-> **[1:14](https://www.linkedin.com/learning/swift-5-essential-training/using-for-in-loops-14531792?u=76281980&t=74)** You'll also notice that we didn't have to specify a type for stringCharacter because Swift is going to infer the correct type from playerGreeting.
+> **[1:14](https://www.linkedin.com/learning/swift-5-essential-training/using-for-in-loops-14531792?u=76281980&t=74)** You'll also notice that we didn't have to specify a type for stringCharacter because [[Swift (Programming Language)|Swift]] is going to infer the correct type from playerGreeting.
 >
 > **[1:24](https://www.linkedin.com/learning/swift-5-essential-training/using-for-in-loops-14531792?u=76281980&t=84)** Now, the same syntax applies for an array.
 >
@@ -2381,7 +2345,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/swift-5-essential-training/using-for-in-loops-14531792?u=76281980&t=306)** You want to be careful with one-sided ranges because they can cause infinite loops if the value you're iterating over doesn't have a set number of items.
 >
-> **[5:15](https://www.linkedin.com/learning/swift-5-essential-training/using-for-in-loops-14531792?u=76281980&t=315)** So if we had just said for indexNumber in 1... without the 10, that for loop would iterate forever from 1 to a never-ending infinite number, and Xcode would crash.
+> **[5:15](https://www.linkedin.com/learning/swift-5-essential-training/using-for-in-loops-14531792?u=76281980&t=315)** So if we had just said for indexNumber in 1... without the 10, that for loop would iterate forever from 1 to a never-ending infinite number, and [[Xcode]] would crash.
 >
 > **[5:30](https://www.linkedin.com/learning/swift-5-essential-training/using-for-in-loops-14531792?u=76281980&t=330)** The last kind of range operator we can use is called a half-open range, which are written a little differently, basically allowing you to specify the last value is left out.
 >
@@ -2409,7 +2373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), data (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), [[Xcode]] (1)
 > **Code Identifiers:** armortypes (6), stringcharacter (4), playergreeting (3), indexnumber (3), weaponkey (2)
 > **Definitions:** is called (2)
 > **Warnings:** be careful (2)
@@ -2418,8 +2382,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### While loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/while-loops-14528859?u=76281980)
+#### [While loops](https://www.linkedin.com/learning/swift-5-essential-training/while-loops-14528859?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2492,8 +2455,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### The switch statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/the-switch-statement-14530757?u=76281980)
+#### [The switch statement](https://www.linkedin.com/learning/swift-5-essential-training/the-switch-statement-14530757?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2621,19 +2583,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Warnings:** be aware (1), be careful (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** coming up (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### The guard statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/the-guard-statement-14528848?u=76281980)
+#### [The guard statement](https://www.linkedin.com/learning/swift-5-essential-training/the-guard-statement-14528848?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/the-guard-statement-14528848?u=76281980&t=0)** - [Instructor] The guard statement in Swift acts like a really strict version of an if-else statement, allowing us to be much more explicit when making sure our code only executes in certain situations.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/the-guard-statement-14528848?u=76281980&t=0)** - [Instructor] The guard statement in [[Swift (Programming Language)|Swift]] acts like a really strict version of an if-else statement, allowing us to be much more explicit when making sure our code only executes in certain situations.
 >
 > **[0:13](https://www.linkedin.com/learning/swift-5-essential-training/the-guard-statement-14528848?u=76281980&t=13)** Now you might be thinking, well, we could just do this with an if, an else-if, an else, and so on.
 >
@@ -2673,7 +2633,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/swift-5-essential-training/the-guard-statement-14528848?u=76281980&t=157)** And we get one debug log, you can't afford the Excalibur.
 >
-> **[2:41](https://www.linkedin.com/learning/swift-5-essential-training/the-guard-statement-14528848?u=76281980&t=161)** So what's happened is we've looped through magic wand and our guard statement past 'cause we have more than 10, iron helm, we have more than five, but Excalibur, sadly, we are far short.
+> **[2:41](https://www.linkedin.com/learning/swift-5-essential-training/the-guard-statement-14528848?u=76281980&t=161)** So what's happened is we've looped through magic wand and our guard statement past 'cause we have more than 10, iron [[Helm]], we have more than five, but Excalibur, sadly, we are far short.
 >
 > **[2:54](https://www.linkedin.com/learning/swift-5-essential-training/the-guard-statement-14528848?u=76281980&t=174)** Now if our guard gets passed, let's add another print statement just so we can make this a little more clear.
 >
@@ -2687,14 +2647,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (2), [[Swift (Programming Language)|Swift]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Helm]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Game logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/challenge-game-logic-14528850?u=76281980)
+#### [Challenge: Game logic](https://www.linkedin.com/learning/swift-5-essential-training/challenge-game-logic-14528850?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2710,13 +2669,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - all (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Game logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/solution-game-logic-14531793?u=76281980)
+#### [Solution: Game logic](https://www.linkedin.com/learning/swift-5-essential-training/solution-game-logic-14531793?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2740,7 +2697,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/swift-5-essential-training/solution-game-logic-14531793?u=76281980&t=79)** are an even match for me.
 >
-> **[1:25](https://www.linkedin.com/learning/swift-5-essential-training/solution-game-logic-14531793?u=76281980&t=85)** Else if one or the other of these optionals is nil, I'm going to print out, I didn't bring enough hardware for this.
+> **[1:25](https://www.linkedin.com/learning/swift-5-essential-training/solution-game-logic-14531793?u=76281980&t=85)** Else if one or the other of these optionals is nil, I'm going to print out, I didn't bring enough [[Hardware]] for this.
 >
 > **[1:38](https://www.linkedin.com/learning/swift-5-essential-training/solution-game-logic-14531793?u=76281980&t=98)** And there we go.
 >
@@ -2802,7 +2759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), game (1), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Code Identifiers:** righthandweapon (3), playerexp (3), lefthandweapon (2), leftweapon (2), rightweapon (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2815,12 +2772,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveling the playing field
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/leveling-the-playing-field-14528852?u=76281980)
+#### [Leveling the playing field](https://www.linkedin.com/learning/swift-5-essential-training/leveling-the-playing-field-14528852?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/leveling-the-playing-field-14528852?u=76281980&t=0)** - Our Swift adventure so far has gone from variables and types to collections and decision logic, but the functions we've been using are still a hundred percent defined by Swift.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/leveling-the-playing-field-14528852?u=76281980&t=0)** - Our [[Swift (Programming Language)|Swift]] adventure so far has gone from variables and types to collections and decision logic, but the functions we've been using are still a hundred percent defined by Swift.
 >
 > **[0:11](https://www.linkedin.com/learning/swift-5-essential-training/leveling-the-playing-field-14528852?u=76281980&t=11)** In order to start creating our own executable chunks of logic, we need to learn how to declare functions.
 >
@@ -2830,15 +2786,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2)
 > **Speakers:** - our (1)
 
-#### Basic functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/basic-functions-14528861?u=76281980)
+#### [Basic functions](https://www.linkedin.com/learning/swift-5-essential-training/basic-functions-14528861?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/basic-functions-14528861?u=76281980&t=0)** - [Instructor] We're going to start this section off with a look at the syntax of writing basic Swift functions as well as how to define parameters and return types.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/basic-functions-14528861?u=76281980&t=0)** - [Instructor] We're going to start this section off with a look at the syntax of writing basic [[Swift (Programming Language)|Swift]] functions as well as how to define parameters and return types.
 >
 > **[0:10](https://www.linkedin.com/learning/swift-5-essential-training/basic-functions-14528861?u=76281980&t=10)** For our first simple example, let's create a function named findNearestAlly and just have it print out a message.
 >
@@ -2898,17 +2853,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), application (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** findnearestally (5)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overloading functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/overloading-functions-14525885?u=76281980)
+#### [Overloading functions](https://www.linkedin.com/learning/swift-5-essential-training/overloading-functions-14525885?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/overloading-functions-14525885?u=76281980&t=0)** - [Instructor] Swift will let us have multiple functions with the same name, as long as their function type or signature is different.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/overloading-functions-14525885?u=76281980&t=0)** - [Instructor] [[Swift (Programming Language)|Swift]] will let us have multiple functions with the same name, as long as their function type or signature is different.
 >
 > **[0:08](https://www.linkedin.com/learning/swift-5-essential-training/overloading-functions-14525885?u=76281980&t=8)** Defining multiple functions with the same name is called function overloading, and it's very useful in cases where you need constant functionality with dependent or computed results.
 >
@@ -2946,7 +2900,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/swift-5-essential-training/overloading-functions-14525885?u=76281980&t=116)** In this case, we can just return the attackSuccess variable.
 >
-> **[2:02](https://www.linkedin.com/learning/swift-5-essential-training/overloading-functions-14525885?u=76281980&t=122)** Now, Xcode's going to give us a warning here.
+> **[2:02](https://www.linkedin.com/learning/swift-5-essential-training/overloading-functions-14525885?u=76281980&t=122)** Now, [[Xcode]]'s going to give us a warning here.
 >
 > **[2:03](https://www.linkedin.com/learning/swift-5-essential-training/overloading-functions-14525885?u=76281980&t=123)** Since we didn't actually change attackSuccess, there's no point in leaving it as a var, so we'll change it to a let constant.
 >
@@ -2974,12 +2928,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Complex functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/complex-functions-14530751?u=76281980)
+#### [Complex functions](https://www.linkedin.com/learning/swift-5-essential-training/complex-functions-14530751?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/complex-functions-14530751?u=76281980&t=0)** - [Instructor] Functions in Swift can go from simple to complex very quickly.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/complex-functions-14530751?u=76281980&t=0)** - [Instructor] Functions in [[Swift (Programming Language)|Swift]] can go from simple to complex very quickly.
 >
 > **[0:04](https://www.linkedin.com/learning/swift-5-essential-training/complex-functions-14530751?u=76281980&t=4)** When we start adding in multiple return types, optionals, and even default values.
 >
@@ -3066,12 +3019,11 @@ created: 2026-05-02
 > **Non-Speech:** (keyboard typing) (1), (keyboard clicking) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Function types
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/function-types-14525886?u=76281980)
+#### [Function types](https://www.linkedin.com/learning/swift-5-essential-training/function-types-14525886?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/function-types-14525886?u=76281980&t=0)** - Every function in Swift has a type or unique signature that can be used like any other type we've seen so far.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/function-types-14525886?u=76281980&t=0)** - Every function in [[Swift (Programming Language)|Swift]] has a type or unique signature that can be used like any other type we've seen so far.
 >
 > **[0:08](https://www.linkedin.com/learning/swift-5-essential-training/function-types-14525886?u=76281980&t=8)** This can come in handy when you need to pass functions as parameters into other functions, or even use them as return types.
 >
@@ -3134,12 +3086,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - every (1)
 
-#### Understanding closures
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/understanding-closures-14524899?u=76281980)
+#### [Understanding closures](https://www.linkedin.com/learning/swift-5-essential-training/understanding-closures-14524899?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/understanding-closures-14524899?u=76281980&t=0)** - [Instructor] Closures in Swift act like blocks or Lambda expressions in other programming languages, allowing for a more concise way to write, store, and return function like operations.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/understanding-closures-14524899?u=76281980&t=0)** - [Instructor] Closures in [[Swift (Programming Language)|Swift]] act like blocks or Lambda expressions in other programming languages, allowing for a more concise way to write, store, and return function like operations.
 >
 > **[0:13](https://www.linkedin.com/learning/swift-5-essential-training/understanding-closures-14524899?u=76281980&t=13)** This is one of those things that's easier to understand in the code itself.
 >
@@ -3227,13 +3178,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2)
 > **Definitions:** defined as (1), is called (1), is a  (1)
 > **Code Identifiers:** computebonusdamage (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using closures
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/using-closures-14527902?u=76281980)
+#### [Using closures](https://www.linkedin.com/learning/swift-5-essential-training/using-closures-14527902?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3369,7 +3319,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (1), next (1), traffic (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** just like (2)
@@ -3378,8 +3327,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type aliasing
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/type-aliasing-14524898?u=76281980)
+#### [Type aliasing](https://www.linkedin.com/learning/swift-5-essential-training/type-aliasing-14524898?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3449,13 +3397,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Code Identifiers:** baseattack (4), sunstrike (3), levelupattack (2), increasedattack (2), activemembers (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Battlegrounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/challenge-battlegrounds?u=76281980)
+#### [Challenge: Battlegrounds](https://www.linkedin.com/learning/swift-5-essential-training/challenge-battlegrounds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3475,13 +3421,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - here (1)
 > **Non-Speech:** (upbeat bouncy music) (1)
 
-#### Solution: Battlegrounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/solution-battlegrounds?u=76281980)
+#### [Solution: Battlegrounds](https://www.linkedin.com/learning/swift-5-essential-training/solution-battlegrounds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3559,7 +3503,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/swift-5-essential-training/solution-battlegrounds?u=76281980&t=277)** So we'll say closure and we'll pass this in our playerActions array.
 >
-> **[4:46](https://www.linkedin.com/learning/swift-5-essential-training/solution-battlegrounds?u=76281980&t=286)** For our final task, we're going to call fetch players and we're just going to loop through the closed over player actions.
+> **[4:46](https://www.linkedin.com/learning/swift-5-essential-training/solution-battlegrounds?u=76281980&t=286)** For our final task, we're going to call [[Fetch]] players and we're just going to loop through the closed over player actions.
 >
 > **[4:54](https://www.linkedin.com/learning/swift-5-essential-training/solution-battlegrounds?u=76281980&t=294)** So we'll say fetchPlayerAttacks, hit enter for the closure Auto-complete.
 >
@@ -3575,7 +3519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), power (2), data (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Code Identifiers:** attackenemy (6), playeractions (2), fetchplayerattacks (2), attackoptions (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -3586,31 +3530,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Populating the game world
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980)
+#### [Populating the game world](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980&t=0)** - At this point, we've covered the separate pieces of the Swift language that make up a basic program, but not how to combine them into coherent, usable objects.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980&t=0)** - At this point, we've covered the separate pieces of the [[Swift (Programming Language)|Swift]] language that make up a basic program, but not how to combine them into coherent, usable objects.
 >
 > **[0:10](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980&t=10)** Up to now we've been using playgrounds, but in a real application we'll want classes and other data models that we can define and control.
 >
-> **[0:18](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980&t=18)** Mastering data modeling brings our Swift adventure one step closer to the finish line.
+> **[0:18](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980&t=18)** Mastering [[Data Modeling]] brings our Swift adventure one step closer to the finish line.
 >
 > **[0:23](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980&t=23)** So, let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), data (2), application (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Data Modeling]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - at (1)
 
-#### Value vs. reference types
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/value-vs-reference-types-14531787?u=76281980)
+#### [Value vs. reference types](https://www.linkedin.com/learning/swift-5-essential-training/value-vs-reference-types-14531787?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/value-vs-reference-types-14531787?u=76281980&t=0)** - [Instructor] In Swift, there are two kinds of data types, references types and value types.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/value-vs-reference-types-14531787?u=76281980&t=0)** - [Instructor] In [[Swift (Programming Language)|Swift]], there are two kinds of data types, references types and value types.
 >
 > **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/value-vs-reference-types-14531787?u=76281980&t=6)** Under the hood, all Swift basic data types are implemented as structures, which are value types.
 >
@@ -3676,18 +3618,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), [[Swift (Programming Language)|Swift]] (3), data (3)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic Swift classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-classes-14528843?u=76281980)
+#### [Basic Swift classes](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-classes-14528843?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-classes-14528843?u=76281980&t=0)** - [Narrator] Even though Swift has an entire library of built-in classes and structs, it's important to know how to create your own.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-classes-14528843?u=76281980&t=0)** - [Narrator] Even though [[Swift (Programming Language)|Swift]] has an entire library of built-in classes and structs, it's important to know how to create your own.
 >
 > **[0:07](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-classes-14528843?u=76281980&t=7)** For the next few videos we're going to explore the class and struct syntax, how to add properties, methods, initializers, and finally, how to subclass.
 >
@@ -3805,19 +3746,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), next (1), hit (1), data (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** defaultplayer (5), maxhp (4), printstats (4), maxhealth (3), specialmove (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Warnings:** be aware (1), be careful (1)
 > **Prerequisites:** setup (1), you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Access modifiers and properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/access-modifiers-and-properties-14528846?u=76281980)
+#### [Access modifiers and properties](https://www.linkedin.com/learning/swift-5-essential-training/access-modifiers-and-properties-14528846?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/access-modifiers-and-properties-14528846?u=76281980&t=0)** - [Narrator] Like most programming languages, Swift allows us to limit or control how our classes, structs, properties and other entities are accessed based on the module or file they're in.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/access-modifiers-and-properties-14528846?u=76281980&t=0)** - [Narrator] Like most programming languages, [[Swift (Programming Language)|Swift]] allows us to limit or control how our classes, structs, properties and other entities are accessed based on the module or file they're in.
 >
 > **[0:13](https://www.linkedin.com/learning/swift-5-essential-training/access-modifiers-and-properties-14528846?u=76281980&t=13)** Swift defines individual modules as frameworks or applications made up of source files that act as a single unit of code distribution.
 >
@@ -3843,7 +3783,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/swift-5-essential-training/access-modifiers-and-properties-14528846?u=76281980&t=101)** Nowhere else.
 >
-> **[1:43](https://www.linkedin.com/learning/swift-5-essential-training/access-modifiers-and-properties-14528846?u=76281980&t=103)** There are variations on how access control works with sub-classing, unit testing and protocols, but that's an area you'll need to explore after you're comfortable with the Swift basics.
+> **[1:43](https://www.linkedin.com/learning/swift-5-essential-training/access-modifiers-and-properties-14528846?u=76281980&t=103)** There are variations on how access control works with sub-classing, [[Unit Testing]] and protocols, but that's an area you'll need to explore after you're comfortable with the Swift basics.
 >
 > **[1:55](https://www.linkedin.com/learning/swift-5-essential-training/access-modifiers-and-properties-14528846?u=76281980&t=115)** Now I have copied our entire Adventurer class here so that we can look at some additional kinds of properties that it can store.
 >
@@ -3955,7 +3895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (7), [[Programming]] (1), [[Unit Testing]] (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (7), [[Unit Testing]] (1)
 > **Code Identifiers:** healthlost (4), maxhealth (2), newvalue (2), maxhp (1), maxactiveplayers (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** later in (1), in the next (1)
@@ -3964,8 +3904,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Subclassing in Swift
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/subclassing-in-swift-14529814?u=76281980)
+#### [Subclassing in Swift](https://www.linkedin.com/learning/swift-5-essential-training/subclassing-in-swift-14529814?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4013,7 +3952,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/swift-5-essential-training/subclassing-in-swift-14529814?u=76281980&t=131)** So pass name and we'll say Rangers have more XP at 150.
 >
-> **[2:19](https://www.linkedin.com/learning/swift-5-essential-training/subclassing-in-swift-14529814?u=76281980&t=139)** It's really important to note this order of operations when you're Subclassing in Swift.
+> **[2:19](https://www.linkedin.com/learning/swift-5-essential-training/subclassing-in-swift-14529814?u=76281980&t=139)** It's really important to note this order of operations when you're Subclassing in [[Swift (Programming Language)|Swift]].
 >
 > **[2:23](https://www.linkedin.com/learning/swift-5-essential-training/subclassing-in-swift-14529814?u=76281980&t=143)** Any properties on our subclass needs to be initialized before we call the parent classes init function not after.
 >
@@ -4056,14 +3995,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic Swift structs
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-structs-14524894?u=76281980)
+#### [Basic Swift structs](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-structs-14524894?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-structs-14524894?u=76281980&t=0)** - Structs share similar syntax and functionality with classes, but they're useful for different situations.
 >
-> **[0:07](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-structs-14524894?u=76281980&t=7)** While classes are well-suited to complex data structures, structs are better suited to modeling simple objects that don't need inheritance or reference capabilities.
+> **[0:07](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-structs-14524894?u=76281980&t=7)** While classes are well-suited to complex [[Data Structures]], structs are better suited to modeling simple objects that don't need inheritance or reference capabilities.
 >
 > **[0:19](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-structs-14524894?u=76281980&t=19)** Let's start off by declaring a new struct using the struct keyword, the name it level, give it a set of open and closed curly braces.
 >
@@ -4155,18 +4093,17 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-structs-14524894?u=76281980&t=350)** And that's because when we assigned default level to level one, it's actually assigning a copy, not the level one instance itself.
 >
-> **[6:02](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-structs-14524894?u=76281980&t=362)** Again, you want to keep this difference between structs and classes in mind when your modeling your application data in Swift.
+> **[6:02](https://www.linkedin.com/learning/swift-5-essential-training/basic-swift-structs-14524894?u=76281980&t=362)** Again, you want to keep this difference between structs and classes in mind when your modeling your application data in [[Swift (Programming Language)|Swift]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** find (1), cat (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** set up (2)
 > **Speakers:** - structs (1)
 
-#### Chaining optionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980)
+#### [Chaining optionals](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4200,7 +4137,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=113)** Now there's no real limit to how many optionals you can chain together like this.
 >
-> **[1:57](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=117)** It just depends on the nested optionals and your data structures.
+> **[1:57](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=117)** It just depends on the nested optionals and your [[Data Structures]].
 >
 > **[2:01](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=121)** However, it's important to understand that even though the name property isn't an optional in the struct, using optional chaining automatically returns it as an optional value.
 >
@@ -4258,7 +4195,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=343)** I've copied the nested dictionary at the top of the file.
 >
-> **[5:46](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=346)** So we can say if let gemstoneObjective equals questDirectory, here we have to use chain subscript, ["Fetch Gemstones"]?["Objective"].
+> **[5:46](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=346)** So we can say if let gemstoneObjective equals questDirectory, here we have to use chain subscript, ["[[Fetch]] Gemstones"]?["Objective"].
 >
 > **[6:06](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=366)** If that's found, we're going to print out the gemstoneObjective.
 >
@@ -4266,13 +4203,13 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=376)** And we can see that optional chaining through subscripts works exactly the same as with nested class or struct properties.
 >
-> **[6:23](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=383)** While optionals can be a tricky thing to understand, the rules at least are consistent across the Swift language.
+> **[6:23](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=383)** While optionals can be a tricky thing to understand, the rules at least are consistent across the [[Swift (Programming Language)|Swift]] language.
 >
 > **[6:29](https://www.linkedin.com/learning/swift-5-essential-training/chaining-optionals-14531798?u=76281980&t=389)** Get comfortable with them and optionals will be your new best friends.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Fetch]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Fetch]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** raredagger (6), previousowner (6), daggerowner (3), returnownerinfo (2), gemstoneobjective (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -4280,8 +4217,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Inventory system
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/challenge-inventory-system-14527892?u=76281980)
+#### [Challenge: Inventory system](https://www.linkedin.com/learning/swift-5-essential-training/challenge-inventory-system-14527892?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4289,7 +4225,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/swift-5-essential-training/challenge-inventory-system-14527892?u=76281980&t=5)** - Oh man, I've been waiting to get to this challenge the entire course.
 >
-> **[0:09](https://www.linkedin.com/learning/swift-5-essential-training/challenge-inventory-system-14527892?u=76281980&t=9)** This is the one, the defining moment where we put all of our Swift knowledge to the test and create a simple but functional inventory system.
+> **[0:09](https://www.linkedin.com/learning/swift-5-essential-training/challenge-inventory-system-14527892?u=76281980&t=9)** This is the one, the defining moment where we put all of our [[Swift (Programming Language)|Swift]] knowledge to the test and create a simple but functional inventory system.
 >
 > **[0:18](https://www.linkedin.com/learning/swift-5-essential-training/challenge-inventory-system-14527892?u=76281980&t=18)** You're going to have to use classes, structs, and optional chaining for this one, folks, so get ready.
 >
@@ -4301,13 +4237,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), functional (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - oh (1)
 > **Non-Speech:** (cheerful music) (1)
 
-#### Solution: Inventory system
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/solution-inventory-system-14525881?u=76281980)
+#### [Solution: Inventory system](https://www.linkedin.com/learning/swift-5-essential-training/solution-inventory-system-14525881?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4383,7 +4318,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Code Identifiers:** storeditems (3), partywideeffect (3), itempower (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -4395,12 +4329,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final stage, final boss
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/final-stage-final-boss-14530766?u=76281980)
+#### [Final stage, final boss](https://www.linkedin.com/learning/swift-5-essential-training/final-stage-final-boss-14530766?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/final-stage-final-boss-14530766?u=76281980&t=0)** - This chapter marks the end of our Swift adventure, at least for now.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/final-stage-final-boss-14530766?u=76281980&t=0)** - This chapter marks the end of our [[Swift (Programming Language)|Swift]] adventure, at least for now.
 >
 > **[0:04](https://www.linkedin.com/learning/swift-5-essential-training/final-stage-final-boss-14530766?u=76281980&t=4)** The topics we'll be covering are your stepping stones to the more intermediate and advanced features that Swift offers.
 >
@@ -4413,12 +4346,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **Speakers:** - this (1)
 
-#### Swift enumerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/swift-enumerations-14530756?u=76281980)
+#### [Swift enumerations](https://www.linkedin.com/learning/swift-5-essential-training/swift-enumerations-14530756?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/swift-enumerations-14530756?u=76281980&t=0)** - Swift enumerations allow you to put related values together into a custom type.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/swift-enumerations-14530756?u=76281980&t=0)** - [[Swift (Programming Language)|Swift]] enumerations allow you to put related values together into a custom type.
 >
 > **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/swift-enumerations-14530756?u=76281980&t=6)** Like switch statements, each value in an enum is considered a different case, which is one of the reasons they go so well together.
 >
@@ -4482,15 +4414,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), data (2), game (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **Code Identifiers:** currentstate (3)
 > **Analogies:** just like (2)
 > **Definitions:** is an  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - swift (1)
 
-#### Raw and associated values
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/raw-and-associated-values?u=76281980)
+#### [Raw and associated values](https://www.linkedin.com/learning/swift-5-essential-training/raw-and-associated-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4506,7 +4437,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/swift-5-essential-training/raw-and-associated-values?u=76281980&t=32)** And we want this to be a string type, so we'll just add the string class.
 >
-> **[0:37](https://www.linkedin.com/learning/swift-5-essential-training/raw-and-associated-values?u=76281980&t=37)** Swift is going to take care of setting string and integer raw values for us by default.
+> **[0:37](https://www.linkedin.com/learning/swift-5-essential-training/raw-and-associated-values?u=76281980&t=37)** [[Swift (Programming Language)|Swift]] is going to take care of setting string and integer raw values for us by default.
 >
 > **[0:42](https://www.linkedin.com/learning/swift-5-essential-training/raw-and-associated-values?u=76281980&t=42)** So if we create a new NPC, we'll just say VAR blacksmith equals non playable characters blacksmith.
 >
@@ -4594,13 +4525,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), next (1), feature (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **Env Vars:** var (2), npc (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/introducing-protocols-14526935?u=76281980)
+#### [Introducing protocols](https://www.linkedin.com/learning/swift-5-essential-training/introducing-protocols-14526935?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4612,7 +4542,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/swift-5-essential-training/introducing-protocols-14526935?u=76281980&t=14)** So how do we extract and share common functionality without these limitations?
 >
-> **[0:19](https://www.linkedin.com/learning/swift-5-essential-training/introducing-protocols-14526935?u=76281980&t=19)** Well on Swift, the answer is protocols, which are essentially blueprints, light classes, but they can be adopted by a class or struct independently.
+> **[0:19](https://www.linkedin.com/learning/swift-5-essential-training/introducing-protocols-14526935?u=76281980&t=19)** Well on [[Swift (Programming Language)|Swift]], the answer is protocols, which are essentially blueprints, light classes, but they can be adopted by a class or struct independently.
 >
 > **[0:30](https://www.linkedin.com/learning/swift-5-essential-training/introducing-protocols-14526935?u=76281980&t=30)** Let's start off by declaring a protocol and we just use the protocol keyword and we name it.
 >
@@ -4674,7 +4604,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/swift-5-essential-training/introducing-protocols-14526935?u=76281980&t=177)** And do we want to add stubs?
 >
-> **[2:59](https://www.linkedin.com/learning/swift-5-essential-training/introducing-protocols-14526935?u=76281980&t=179)** Well, yes, we do Xcode.
+> **[2:59](https://www.linkedin.com/learning/swift-5-essential-training/introducing-protocols-14526935?u=76281980&t=179)** Well, yes, we do [[Xcode]].
 >
 > **[3:01](https://www.linkedin.com/learning/swift-5-essential-training/introducing-protocols-14526935?u=76281980&t=181)** Go ahead and fix that for us.
 >
@@ -4740,7 +4670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Xcode]] (1), hit (1), functional (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Xcode]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (3)
 > **Code Identifiers:** withname (1), startingprice (1)
@@ -4749,14 +4679,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/using-extensions-14529813?u=76281980)
+#### [Using extensions](https://www.linkedin.com/learning/swift-5-essential-training/using-extensions-14529813?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/using-extensions-14529813?u=76281980&t=0)** - [instructor] Now that we've seen what protocols can do, we can take a look at extending their functionality.
 >
-> **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/using-extensions-14529813?u=76281980&t=6)** First off, any class, struct, protocol or even an enum can be extended, regardless of whether you created it or it's part of the swift language.
+> **[0:06](https://www.linkedin.com/learning/swift-5-essential-training/using-extensions-14529813?u=76281980&t=6)** First off, any class, struct, protocol or even an enum can be extended, regardless of whether you created it or it's part of the [[Swift (Programming Language)|swift]] language.
 >
 > **[0:16](https://www.linkedin.com/learning/swift-5-essential-training/using-extensions-14529813?u=76281980&t=16)** Now second, extensions can either be used to add default implementations of an existing feature, or new computed properties and functions.
 >
@@ -4834,20 +4763,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), feature (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2)
 > **Code Identifiers:** fancydebug (3), priceincrease (1)
 > **Definitions:** refers to (1), is a  (1), is called (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Throwing errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/throwing-errors-14528847?u=76281980)
+#### [Throwing errors](https://www.linkedin.com/learning/swift-5-essential-training/throwing-errors-14528847?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/throwing-errors-14528847?u=76281980&t=0)** - [Instructor] Optionals are great for handling values that might be nil while your code is running, but they won't account for situations where you need the program to send out and interpret an error.
 >
-> **[0:11](https://www.linkedin.com/learning/swift-5-essential-training/throwing-errors-14528847?u=76281980&t=11)** Swift makes throwing and responding to errors almost second nature, allowing you to customize how your code responds to unexpected actions.
+> **[0:11](https://www.linkedin.com/learning/swift-5-essential-training/throwing-errors-14528847?u=76281980&t=11)** [[Swift (Programming Language)|Swift]] makes throwing and responding to errors almost second nature, allowing you to customize how your code responds to unexpected actions.
 >
 > **[0:21](https://www.linkedin.com/learning/swift-5-essential-training/throwing-errors-14528847?u=76281980&t=21)** Enums are the most commonly used type when you're handling errors because they have a fixed number of options.
 >
@@ -4901,14 +4829,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Swift (Programming Language)|Swift]] (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** loaddata (4)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/handling-errors-14526926?u=76281980)
+#### [Handling errors](https://www.linkedin.com/learning/swift-5-essential-training/handling-errors-14526926?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4966,7 +4893,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/swift-5-essential-training/handling-errors-14526926?u=76281980&t=188)** Let's go up and make sure that our player data path has those forward slashes in it.
 >
-> **[3:14](https://www.linkedin.com/learning/swift-5-essential-training/handling-errors-14526926?u=76281980&t=194)** And we'll add a print statement underneath our try so that if it's successful, we'll just say data fetch successful.
+> **[3:14](https://www.linkedin.com/learning/swift-5-essential-training/handling-errors-14526926?u=76281980&t=194)** And we'll add a print statement underneath our try so that if it's successful, we'll just say data [[Fetch]] successful.
 >
 > **[3:24](https://www.linkedin.com/learning/swift-5-essential-training/handling-errors-14526926?u=76281980&t=204)** And now that our path variable is valid, we should see that in our debug.
 >
@@ -5038,7 +4965,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Fetch]] (3)
+> **Frameworks & Libraries:** [[Fetch]] (3)
 > **Code Identifiers:** loaddata (5), playerdatapath (2)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** just like (3)
@@ -5047,8 +4974,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Warnings:** gotcha (1)
 
-#### Challenge: Battle actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/challenge-battle-actions-14528845?u=76281980)
+#### [Challenge: Battle actions](https://www.linkedin.com/learning/swift-5-essential-training/challenge-battle-actions-14528845?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5066,13 +4992,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - this (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Battle actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/solution-battle-actions?u=76281980)
+#### [Solution: Battle actions](https://www.linkedin.com/learning/swift-5-essential-training/solution-battle-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5140,7 +5064,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** make (1)
 > **Versions:** 5.89 (1)
 > **Speakers:** - [instructor] (1)
@@ -5151,12 +5074,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/next-steps-14526916?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/swift-5-essential-training/next-steps-14526916?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/next-steps-14526916?u=76281980&t=0)** - [Harrison] Thanks for joining me on this trip through the basics of the Swift 5 language.
+> **[0:00](https://www.linkedin.com/learning/swift-5-essential-training/next-steps-14526916?u=76281980&t=0)** - [Harrison] Thanks for joining me on this trip through the basics of the [[Swift (Programming Language)|Swift]] 5 language.
 >
 > **[0:04](https://www.linkedin.com/learning/swift-5-essential-training/next-steps-14526916?u=76281980&t=4)** You're now ready to embark on your app or game making journey.
 >
@@ -5168,7 +5090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), game (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** ios (2)
 > **Speakers:** - [harrison] (1)
 

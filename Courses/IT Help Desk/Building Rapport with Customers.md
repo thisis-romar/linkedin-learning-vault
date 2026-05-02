@@ -69,8 +69,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why rapport really matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/why-rapport-really-matters?u=76281980)
+#### [Why rapport really matters](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/why-rapport-really-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/why-rapport-really-matters?u=76281980&t=34)** My name is Myra Golden.
 >
-> **[0:36](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/why-rapport-really-matters?u=76281980&t=36)** Join me in this LinkedIn Learning course and discover how you can create better customer experiences simply by creating rapport.
+> **[0:36](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/why-rapport-really-matters?u=76281980&t=36)** Join me in this [[LinkedIn]] Learning course and discover how you can create better customer experiences simply by creating rapport.
 
 > [!info]- Semantic Content
 >
@@ -98,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build rapport with your customers in six seconds or less
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/build-rapport-with-your-customers-in-six-seconds-or-less?u=76281980)
+#### [Build rapport with your customers in six seconds or less](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/build-rapport-with-your-customers-in-six-seconds-or-less?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,13 +151,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Validate your customer's experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/validate-your-customer-s-experience?u=76281980)
+#### [Validate your customer's experience](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/validate-your-customer-s-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/validate-your-customer-s-experience?u=76281980&t=98)** I'm here to help you sort this out."
 >
-> **[1:41](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/validate-your-customer-s-experience?u=76281980&t=101)** You'll notice I use the word frustrating twice here.
+> **[1:41](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/validate-your-customer-s-experience?u=76281980&t=101)** You'll notice I use the [[Microsoft Word|word]] frustrating twice here.
 >
 > **[1:46](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/validate-your-customer-s-experience?u=76281980&t=106)** I love the word frustrate for validating customer's experiences.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 
@@ -232,8 +228,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pace your customers to build agreement and rapport
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980)
+#### [Pace your customers to build agreement and rapport](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -243,7 +238,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980&t=14)** Pacing mirrors your customer's verbal and nonverbal cues, emotional state, or communication style.
 >
-> **[0:22](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980&t=22)** In customer support, pacing does two things.
+> **[0:22](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980&t=22)** In [[Customer Support]], pacing does two things.
 >
 > **[0:26](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980&t=26)** First, it builds rapport.
 >
@@ -291,15 +286,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (1), product (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1)
 > **Analogies:** for example (3), for instance (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
-#### Speak in complete sentences with your customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/speak-in-complete-sentences-with-your-customers?u=76281980)
+#### [Speak in complete sentences with your customers](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/speak-in-complete-sentences-with-your-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -355,8 +349,7 @@ created: 2026-05-02
 > **Env Vars:** zip (1)
 > **Definitions:** is a  (1)
 
-#### End customer interactions with a fond farewell
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/end-customer-interactions-with-a-fond-farewell?u=76281980)
+#### [End customer interactions with a fond farewell](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/end-customer-interactions-with-a-fond-farewell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -408,7 +401,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (1)
 > **CLI Commands:** make (1)
 
 
@@ -416,12 +408,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create rapport in customer emails
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980)
+#### [Create rapport in customer emails](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980&t=0)** Recently, my team enrolled a new client in our De-escalation Academy.
+> **[0:00](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980&t=0)** Recently, my team enrolled a new client in our [[De-escalation]] Academy.
 >
 > **[0:07](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980&t=7)** After registering their students, we sent out a welcome email with login details.
 >
@@ -453,10 +444,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[De-escalation]] (2), next (1)
+> **Frameworks & Libraries:** [[De-escalation]] (2)
 
-#### Create rapport in a live customer chat interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-live-customer-chat-interaction?u=76281980)
+#### [Create rapport in a live customer chat interaction](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-live-customer-chat-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +500,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-live-customer-chat-interaction?u=76281980&t=164)** So take a few seconds right now to jot these three tips down on a Post-it note so you can have them in view as you answer your customer chats.
 >
-> **[2:54](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-live-customer-chat-interaction?u=76281980&t=174)** If you need more help with chat support, check out my LinkedIn Learning course on Delivering Exceptional Live Chat.
+> **[2:54](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-live-customer-chat-interaction?u=76281980&t=174)** If you need more help with chat support, check out my [[LinkedIn]] Learning course on Delivering Exceptional Live Chat.
 
 > [!info]- Semantic Content
 >
@@ -519,8 +509,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** abc (1)
 
-#### Use rapport to disarm angry customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-disarm-angry-customers?u=76281980)
+#### [Use rapport to disarm angry customers](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-disarm-angry-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,18 +589,17 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-disarm-angry-customers?u=76281980&t=166)** That's how to preempt an escalation.
 >
-> **[2:49](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-disarm-angry-customers?u=76281980&t=169)** For more help de-escalating angry customers, check out my LinkedIn Learning course, [[De-Escalating Conversations for Customer Service]].
+> **[2:49](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-disarm-angry-customers?u=76281980&t=169)** For more help de-escalating angry customers, check out my [[LinkedIn]] Learning course, [[De-Escalating Conversations for Customer Service]].
 >
-> **[2:58](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-disarm-angry-customers?u=76281980&t=178)** In this course, I break down my powerful three-hour de-escalation method.
+> **[2:58](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-disarm-angry-customers?u=76281980&t=178)** In this course, I break down my powerful three-hour [[De-escalation]] method.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), [[De-escalation]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[De-escalation]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 
-#### Use rapport to get customers to accept bad news
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980)
+#### [Use rapport to get customers to accept bad news](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=10)** Any time you tell a customer what they don't want to hear, you can get pushback or an escalation.
 >
-> **[0:16](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=16)** But if you fold bad news into empathy and rapport, getting the customer to accept your word as final is much easier.
+> **[0:16](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=16)** But if you fold bad news into empathy and rapport, getting the customer to accept your [[Microsoft Word|word]] as final is much easier.
 >
 > **[0:26](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=26)** Let's look at how not to give a customer bad news.
 >
@@ -681,7 +669,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=148)** But I do have a course dedicated to preparing you to give bad news with confidence and in such a way that you get customers to accept your response as the final answer.
 >
-> **[2:40](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=160)** Check out my Delivering Bad News to Customers LinkedIn Learning course, where I give you my four keys to giving bad news.
+> **[2:40](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/use-rapport-to-get-customers-to-accept-bad-news?u=76281980&t=160)** Check out my Delivering Bad News to Customers [[LinkedIn]] Learning course, where I give you my four keys to giving bad news.
 
 > [!info]- Semantic Content
 >
@@ -694,8 +682,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practice building rapport with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/practice-building-rapport-with-customers?u=76281980)
+#### [Practice building rapport with customers](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/practice-building-rapport-with-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,7 +720,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)
 

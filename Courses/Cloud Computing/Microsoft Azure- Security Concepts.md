@@ -80,50 +80,48 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft Azure security concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980)
+#### [Microsoft Azure security concepts](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980&t=0)** - Digital security is the vigilant defense that ensures privacy, prevents breaches, and provides peace of mind in an ever-changing digital landscape.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980&t=0)** - Digital security is the vigilant defense that ensures [[Privacy]], prevents breaches, and provides peace of mind in an ever-changing digital landscape.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980&t=8)** But configuring an environment for security is sometimes considered an interpretive science with a technology specialist needs to evaluate a security posture and prioritize recommendations.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980&t=18)** My name is David Elfassy.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980&t=20)** I'm a Microsoft certified trainer and I've helped organizations improve their security infrastructures for over 20 years.
+> **[0:20](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980&t=20)** I'm a [[Microsoft]] certified trainer and I've helped organizations improve their security infrastructures for over 20 years.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980&t=26)** Join me in this course where we'll explore the Microsoft tools and features that will help your organization ensure defense in depth approach to securing your Microsoft clouds.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Microsoft]] (3), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Privacy]] (1)
 > **Speakers:** - digital (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you take this course, I'm going to recommend that you get familiar with some key concepts of Microsoft Cloud technologies, specifically Microsoft Azure, but also some on Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you take this course, I'm going to recommend that you get familiar with some key concepts of [[Microsoft]] Cloud technologies, specifically [[Microsoft Azure]], but also some on [[Microsoft 365]].
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=14)** In the LinkedIn Library, I have multiple courses that will allow you to get those foundational skills on Microsoft Azure.
+> **[0:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=14)** In the [[LinkedIn]] Library, I have multiple courses that will allow you to get those foundational skills on Microsoft Azure.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=22)** Specifically, I will recommend that you follow the [[Azure Administration Essential Training]].
+> **[0:22](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=22)** Specifically, I will recommend that you follow the [[[[Microsoft Azure|Azure]] Administration Essential Training]].
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=28)** This course will allow you to learn about all of the essential workloads, services and resource types in Microsoft Azure.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=36)** Throughout this course, you will learn about the management tools and the various features available within Azure, as well as all of the underlying structure that allows Microsoft to create these cloud technologies.
 >
-> **[0:51](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=51)** Microsoft Entra ID for Administrators is another course that I recommend for you to take before you take the security course.
+> **[0:51](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=51)** [[Microsoft Entra ID]] for Administrators is another course that I recommend for you to take before you take the security course.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=59)** This course will allow you to have a deeper understanding of the Microsoft Identity Services as they are available through Microsoft Entra ID, formerly known as Microsoft Azure Active Directory.
+> **[0:59](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=59)** This course will allow you to have a deeper understanding of the Microsoft Identity Services as they are available through Microsoft Entra ID, formerly known as Microsoft Azure [[Active Directory]].
 >
 > **[1:13](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/what-you-should-know?u=76281980&t=73)** As well for Microsoft 365, I have a course named Microsoft 365 Administration, which will get you familiar with all of the tools and workloads that live within Microsoft 365.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Microsoft 365]] (4), [[Microsoft]] (3), cloud (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Microsoft 365]] (4), [[Microsoft]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID]] (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -132,12 +130,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A security approach: The importance of securing
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980)
+#### [A security approach: The importance of securing](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=0)** - [Instructor] In this video, we will discuss the importance of securing the cloud, specifically focusing on Microsoft Azure.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=0)** - [Instructor] In this video, we will discuss the importance of securing the cloud, specifically focusing on [[Microsoft Azure]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=7)** So we'll review the various primary solutions of Microsoft Azure, the way that they should be secured, and we'll try to discuss some of the myths that are related around security for a cloud, whether that be a private cloud or a public cloud, and how those affect Microsoft Azure.
 >
@@ -147,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=30)** We have three types of hosting solutions, infrastructure solutions for Microsoft Azure.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=36)** The first is infrastructure as a service, the second, platform as a service, and software as a service.
+> **[0:36](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=36)** The first is [[IaaS|infrastructure as a service]], the second, [[PaaS|platform as a service]], and [[SaaS|software as a service]].
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=42)** Now, there are subsections to those types of solutions in a cloud-based service.
 >
@@ -159,7 +156,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=65)** All of that infrastructure is provided for you and is rented to you as a service.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=70)** A platform as a service is where there's some limited deployment that is already there, the underlying platform, so for example, Windows or a database solution that's already been implemented as a platform, and then you will be renting services as part of that platform.
+> **[1:10](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=70)** A platform as a service is where there's some limited deployment that is already there, the underlying platform, so for example, [[Windows]] or a database solution that's already been implemented as a platform, and then you will be renting services as part of that platform.
 >
 > **[1:27](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=87)** So it kind of builds on top of the infrastructure where you have the infrastructure plus the platform that are provided to you as a service.
 >
@@ -169,7 +166,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=105)** For example, an email solution exchanged online is sold or rented as a service.
 >
-> **[1:52](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=112)** That software is part of Microsoft Azure and it's marketed as Office 365.
+> **[1:52](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=112)** That software is part of Microsoft Azure and it's marketed as [[Microsoft Office|Office]] 365.
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=118)** So those are the three primary solutions in Microsoft Azure, but they also apply to other cloud providers.
 >
@@ -197,9 +194,9 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=275)** So that may be the frequency of a password that needs to be reset or that may be the way that the emails are going to be retained or encrypted into that software as a service solution.
 >
-> **[4:47](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=287)** So as we build on to the amount of services and solutions that we use as part of our cloud provider, for example, Azure, then the responsibility or the onus of security is taken away from the administrator and is being implemented and provided by the cloud provider.
+> **[4:47](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=287)** So as we build on to the amount of services and solutions that we use as part of our cloud provider, for example, [[Microsoft Azure|Azure]], then the responsibility or the onus of security is taken away from the administrator and is being implemented and provided by the cloud provider.
 >
-> **[5:05](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=305)** Now, there are various scale that defines well how much of the responsibility is going to be yours as an administrator of an Azure platform or is going to be provided by the cloud providers such as Microsoft.
+> **[5:05](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=305)** Now, there are various scale that defines well how much of the responsibility is going to be yours as an administrator of an Azure platform or is going to be provided by the cloud providers such as [[Microsoft]].
 >
 > **[5:18](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980&t=318)** So I really like this diagram because it provides a good representation of what it is that you are or are not to responsible for, and if you see the least amount of responsibility, so those buckets that are defined in blue are in a software as a service solution.
 >
@@ -267,15 +264,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), [[Security]] (24), [[Microsoft Azure]] (9), [[SaaS|Software as a service]] (8), data (8)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (9), [[SaaS|Software as a service]] (8), [[IaaS|Infrastructure as a service]] (5), [[Microsoft]] (4), [[PaaS|Platform as a service]] (3)
 > **Analogies:** for example (6), such as (2)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** find (2)
 > **Best Practices:** the key is (2)
 > **Speakers:** - [instructor] (1)
 
-#### Terminology: Understanding the security terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980)
+#### [Terminology: Understanding the security terms](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,11 +279,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=2)** There are various terms that are going to be used throughout this course, and I want to make sure that we're clear on what it is that we mean when we say different things.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=11)** So let's go through some of these terminology and through some of these terms that are going to be constantly reused when discussing Azure and Azure security.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=11)** So let's go through some of these terminology and through some of these terms that are going to be constantly reused when discussing [[Microsoft Azure|Azure]] and Azure security.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=20)** There are four buckets that we use in describing the components and the relevance aspects of security in Azure.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=27)** Storage security, network security, identity and access control, as well as monitoring practices.
+> **[0:27](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=27)** Storage security, [[Network Security]], identity and access control, as well as monitoring practices.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=34)** Now, monitoring practices is the one element that's going to bleed into all the other three sections of security.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=118)** Identity or identity management is the technology that allows us to manage our credentials, manage our users and our groups, the ones that are allowed or disallowed from accessing our resources.
 >
-> **[2:10](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=130)** You might find that I'm describing Active Directory, and that's exactly what I am describing.
+> **[2:10](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=130)** You might find that I'm describing [[Active Directory]], and that's exactly what I am describing.
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=134)** Active Directory is the primary tool for providing identity management and access control, controlling who can access our resources.
 >
@@ -327,13 +323,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=181)** Those are defined by using password policies, and those are all part of our identity management and access control solutions.
 >
-> **[3:07](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=187)** When we provide good security management of our infrastructure in the event that our network has been attacked, that our network has the proper measures in place to secure itself and to alert an administrator in the event of a security threat.
+> **[3:07](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=187)** When we provide good [[Security Management]] of our infrastructure in the event that our network has been attacked, that our network has the proper measures in place to secure itself and to alert an administrator in the event of a security threat.
 >
 > **[3:24](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=204)** So a little bit deeper about these four elements.
 >
 > **[3:27](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=207)** First, let's talk a little bit more about storage security.
 >
-> **[3:30](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=210)** So whenever we talk about storage security or data, we talk about our data when it's at rest or data that is in transit.
+> **[3:30](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=210)** So whenever we talk about storage security or data, we talk about our data when it's at [[Representational State Transfer (REST)|rest]] or data that is in transit.
 >
 > **[3:38](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=218)** So data that is in transit is essentially data that is being transferred, that is moving over the wire.
 >
@@ -343,7 +339,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=234)** Data at rest is data that is sitting on a disc, a device, or it is not being moved, but it's being stored.
 >
-> **[4:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=243)** So whenever we're talking about encryption, we're talking about an encryption for our data transfer or our data storage.
+> **[4:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=243)** So whenever we're talking about encryption, we're talking about an encryption for our data transfer or our [[Data Storage]].
 >
 > **[4:10](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=250)** Now this all is part of the bucket of storage security because we often see that when a client is saving data or opening data, it will have the ability to encrypt and decrypt, and that is called client-side encryption.
 >
@@ -359,7 +355,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=307)** Wire encryption is a technology that is used for Azure file storage.
 >
-> **[5:12](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=312)** It uses SMB, or SMB 3.0 in this case, which allows Windows clients, for example, to encrypt data as they are transferring them over the wire to an Azure file storage.
+> **[5:12](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=312)** It uses SMB, or SMB 3.0 in this case, which allows [[Windows]] clients, for example, to encrypt data as they are transferring them over the wire to an Azure file storage.
 >
 > **[5:25](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=325)** Now, when we're talking about encryption at rest, we have different types of data that can be encrypted, and they're encrypted in different methodology or different manners.
 >
@@ -421,9 +417,9 @@ created: 2026-05-02
 >
 > **[8:50](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=530)** Access and identity solution.
 >
-> **[8:52](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=532)** Our third bucket again is Azure AD.
+> **[8:52](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=532)** Our third bucket again is [[Microsoft Entra ID|Azure AD]].
 >
-> **[8:56](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=536)** Azure Active Directory is essentially the functionality that provides most of this solutions that are listed for access and identity management.
+> **[8:56](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=536)** [[Microsoft Entra ID|Azure Active Directory]] is essentially the functionality that provides most of this solutions that are listed for access and identity management.
 >
 > **[9:04](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/terminology-understanding-the-security-terms?u=76281980&t=544)** So access control, how our users will connect to our environment.
 >
@@ -471,7 +467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Microsoft Azure|Azure]] (26), [[Security]] (17), management (10), [[Network Security]] (9)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (26), [[Network Security]] (9), [[Microsoft Entra ID|Azure ad]] (9), [[Representational State Transfer (REST)|Rest]] (4), [[Active Directory]] (3)
 > **Definitions:** is a  (9), known as (1), is an  (1), is called (1), defined as (1)
 > **Env Vars:** vpn (5), smb (2), rbac (1), tls (1), https (1)
 > **Analogies:** for example (3), such as (2)
@@ -480,8 +476,7 @@ created: 2026-05-02
 > **Versions:** 3.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defense in depth approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980)
+#### [Defense in depth approach](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=113)** Maybe we put a camera there to actually record certain things.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=116)** We put bars on windows to make them much more secure and to prevent attackers, again, sometimes as a deterrent, sometimes to physically block people out.
+> **[1:56](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=116)** We put bars on [[Windows]] to make them much more secure and to prevent attackers, again, sometimes as a deterrent, sometimes to physically block people out.
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=125)** And there's many other means that we use in order to secure our homes.
 >
@@ -531,7 +526,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=174)** How can we have a firewall?
 >
-> **[2:55](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=175)** Well, we have firewall type technologies that we can put in place that virtual software based firewalls that are at the perimeter of our Azure network.
+> **[2:55](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=175)** Well, we have firewall type technologies that we can put in place that virtual software based firewalls that are at the perimeter of our [[Microsoft Azure|Azure]] network.
 >
 > **[3:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=183)** So we can control authentication of the access to the internal network, whether those resources are being used by devices or by public users out on the internet.
 >
@@ -557,7 +552,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=258)** So those may be disabled from an operating system standpoint, or they may be blocked at an access point into the environment.
 >
-> **[4:27](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=267)** Encrypting data is another way of protecting our environment, and that data can be encrypted either while it's being sent in transit or if it's at rest while it's being stored.
+> **[4:27](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=267)** Encrypting data is another way of protecting our environment, and that data can be encrypted either while it's being sent in transit or if it's at [[Representational State Transfer (REST)|rest]] while it's being stored.
 >
 > **[4:37](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=277)** So all of these things are examples of methods that we use to minimize the attack surface.
 >
@@ -567,24 +562,23 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=303)** And you as an administrator, it also minimizes the amount of entry points that you need to manage and secure even more and audit and monitor because you've blocked all these other entry points into your environment that are not really necessary or that are now much more secured.
 >
-> **[5:20](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=320)** So a defense in depth approach is a great method for reducing the amount of possible entry points into your environment and potential security risks or openness that you have to a security risk in your environment.
+> **[5:20](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/defense-in-depth-approach?u=76281980&t=320)** So a defense in depth approach is a great method for reducing the amount of possible entry points into your environment and potential security risks or openness that you have to a [[Security Risk]] in your environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), cloud (3), [[Microsoft Azure|Azure]] (3), data (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Security Risk]] (1)
 > **Definitions:** is a  (3), is an  (2), means that (1)
 > **Analogies:** compare this to (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transferring security concepts to the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980)
+#### [Transferring security concepts to the cloud](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=0)** - [Instructor] Now, let's see how these concepts actually transfer over to the resources that we manage within our cloud environments.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=8)** So in this course, we'll be looking at various tools, and I'll talk about these tools and the portals that we use to manage security configuration and security settings within Azure and Microsoft 365.
+> **[0:08](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=8)** So in this course, we'll be looking at various tools, and I'll talk about these tools and the portals that we use to manage security configuration and security settings within [[Microsoft Azure|Azure]] and [[Microsoft 365]].
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=21)** But I want to talk a little bit about transferring these theoretical concepts that we've just talked about into some real practical concepts from the Azure portal, looking at specifically the resources.
 >
@@ -618,7 +612,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=167)** And those types of access to the resource are management accesses.
 >
-> **[2:52](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=172)** So these are done by assigning roles to a user account or any other type of security principle that is found in my Entra ID.
+> **[2:52](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=172)** So these are done by assigning roles to a user account or any other type of security principle that is found in my [[Microsoft Entra ID|Entra ID]].
 >
 > **[3:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=183)** So what I can do here, for example, is click on View my access, and I can see the specific roles that have been assigned to my user account to manage these resource.
 >
@@ -688,7 +682,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=433)** So again, you can create resource locks for many different resources.
 >
-> **[7:17](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=437)** Now, this specific resource doesn't have access control within its specific general or generic settings within Azure, because there are different ways to configure management of a SQL database, and you see it here under Data management, there are additional settings, again, specific to this resource.
+> **[7:17](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=437)** Now, this specific resource doesn't have access control within its specific general or generic settings within Azure, because there are different ways to configure management of a [[SQL]] database, and you see it here under [[Data Management]], there are additional settings, again, specific to this resource.
 >
 > **[7:38](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/transferring-security-concepts-to-the-cloud?u=76281980&t=458)** And under Security, I have several other security settings that are specific to this resource type.
 >
@@ -700,7 +694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[Security]] (13), management (9), data (4), database (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[Microsoft 365]] (1), [[Microsoft Entra ID|Entra id]] (1), [[SQL]] (1), [[Data Management]] (1)
 > **Env Vars:** iam (2), https (2), ssl (2), sql (1)
 > **Analogies:** for example (6)
 > **UI Navigation:** click on (4)
@@ -709,20 +703,19 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1), go back to (1)
 > **Tools:** azure portal (2)
 
-#### Exploring the security portals
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980)
+#### [Exploring the security portals](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=0)** - [Instructor] It can be quite daunting to look at all the various security options that exists both in Azure, Microsoft 365, and even in the other tools that sit on top of all of these Microsoft Cloud platforms.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=0)** - [Instructor] It can be quite daunting to look at all the various security options that exists both in [[Microsoft Azure|Azure]], [[Microsoft 365]], and even in the other tools that sit on top of all of these [[Microsoft]] Cloud platforms.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=15)** So, one of the things I'm going to do in this video is sort of clarify the tools that are used for managing security, for viewing your security posture, for configuring all of the various settings that will secure your environment.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=30)** Sort of going through each tool and understanding what type of settings or what type of objects or resources would I manage with each one of these tools.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=40)** So what I have open on my screen right now are several of these various security tools, and the first one is the Microsoft Entra Admin Center.
+> **[0:40](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=40)** So what I have open on my screen right now are several of these various security tools, and the first one is the Microsoft [[Microsoft Entra ID|Entra]] Admin Center.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=50)** So, Microsoft Entra is the new name for Microsoft Azure Active Directory, or Azure AD.
+> **[0:50](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=50)** So, Microsoft Entra is the new name for [[Microsoft Azure]] [[Active Directory]], or [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=57)** And from within the Entra Admin Center, I can go ahead and access the Security Center for managing the security settings for all of my identities, all of my user accounts and groups essentially.
 >
@@ -738,17 +731,17 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=122)** So, we'll take a look at this again multiple times throughout the course.
 >
-> **[2:07](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=127)** And now I'm going to be moving on to another tool, which is Microsoft Defender for Cloud.
+> **[2:07](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=127)** And now I'm going to be moving on to another tool, which is [[Microsoft Defender]] for Cloud.
 >
-> **[2:12](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=132)** You'll hear that term Microsoft Defender multiple times throughout this course, and that's because Microsoft Defender is actually a term that's reused in a lot of products.
+> **[2:12](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=132)** You'll hear that term Microsoft Defender multiple times throughout this course, and that's because Microsoft Defender is actually a term that's reused in a lot of [[Microsoft Products|products]].
 >
 > **[2:23](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=143)** So Microsoft Defender for Cloud is a tool that we will use several times in this course because this is the one that we'll be using to manage our cloud resources in Azure.
 >
-> **[2:34](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=154)** So all of the various resources that we have, our storage accounts, our databases, and virtual machines, and so on that are stored in Azure, we're going to be able to manage them and look at our overall security posture with these resources using this tool.
+> **[2:34](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=154)** So all of the various resources that we have, our storage accounts, our [[Databases]], and [[Virtual Machines]], and so on that are stored in Azure, we're going to be able to manage them and look at our overall security posture with these resources using this tool.
 >
 > **[2:52](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=172)** We can go here, for example, and look at our inventory and look at all of our resources that are in our Azure subscription, or subscriptions, multiple subscriptions, and even our other clouds that may be connected.
 >
-> **[3:06](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=186)** For example, an AWS or a Google Cloud that would be connected to our infrastructure could also be managed through Defender for Cloud.
+> **[3:06](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=186)** For example, an AWS or a [[Google Cloud Platform (GCP)|Google Cloud]] that would be connected to our infrastructure could also be managed through [[Microsoft Defender|Defender]] for Cloud.
 >
 > **[3:15](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=195)** So, Defender for Cloud is this one tool for managing all the various workload and resource security settings within your Azure and even other environments that are connected to your organization.
 >
@@ -760,7 +753,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=226)** So SIEM, it allows you to identify events that have occurred in your infrastructure, and a SOAR tool for automating the remediation of these various events.
 >
-> **[3:59](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=239)** Now, this is a great tool to allow you to quickly detect issues and then quickly react to various incidents that have occurred in your infrastructure.
+> **[3:59](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=239)** Now, this is a great tool to allow you to quickly detect issues and then quickly [[React.js|react]] to various incidents that have occurred in your infrastructure.
 >
 > **[4:10](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=250)** Automation is tied into that to allow specific remediation tasks to occur very quickly and automatically when a security event has occurred.
 >
@@ -774,13 +767,13 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=283)** Microsoft has a really bad habit of renaming their tools very often and sometimes creating names that may introduce confusion between these various tools.
 >
-> **[4:54](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=294)** So, as I mentioned before, Entra ID is a rename of Azure AD, and before it was called Microsoft Defender XDR, it was called Microsoft 365 Defender, and before it was called Microsoft 365 Defender, it had another name with two or three iterations before that.
+> **[4:54](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=294)** So, as I mentioned before, [[Microsoft Entra ID|Entra ID]] is a rename of Azure AD, and before it was called Microsoft Defender XDR, it was called Microsoft 365 Defender, and before it was called Microsoft 365 Defender, it had another name with two or three iterations before that.
 >
 > **[5:13](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=313)** But what Microsoft is trying to do here with this Microsoft Defender XDR is create an umbrella portal, an umbrella resource where you can actually access all the Microsoft Defender resources.
 >
 > **[5:28](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=328)** So think of XDR as sort of the parent portal that allows you to access the other Defenders.
 >
-> **[5:35](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=335)** For example, we can access Microsoft Defender for Endpoints, Microsoft Defender for Office 365, Microsoft Defender for IoT, and also Microsoft Sentinel, that SIEM and SOAR product that I was just talking about before, as well as some functions of Microsoft Defender for Cloud is also going to be available through the Microsoft Defender portal.
+> **[5:35](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=335)** For example, we can access Microsoft Defender for Endpoints, Microsoft Defender for [[Microsoft Office|Office]] 365, Microsoft Defender for [[IoT]], and also Microsoft Sentinel, that SIEM and SOAR product that I was just talking about before, as well as some functions of Microsoft Defender for Cloud is also going to be available through the Microsoft Defender portal.
 >
 > **[6:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-the-security-portals?u=76281980&t=363)** So, Microsoft Defender XDR, this umbrella resource has management functionalities from this window that allow you to configure and manage most of the Defender products.
 >
@@ -794,7 +787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), [[Microsoft Defender]] (16), [[Microsoft]] (12), cloud (7), [[Microsoft Defender|Defender]] (6)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (16), [[Microsoft]] (12), [[Microsoft Defender|Defender]] (6), [[Microsoft Azure|Azure]] (5), [[Microsoft 365]] (4)
 > **Env Vars:** xdr (6), siem (3), soar (3), mfa (1), aws (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (3), such as (1)
@@ -803,20 +796,19 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enabling Microsoft Defender for Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980)
+#### [Enabling Microsoft Defender for Cloud](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=0)** - [Instructor] Now, I recently introduced Microsoft Defender for Cloud, but you may not necessarily find it in your environment if you open up the Azure portal.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=0)** - [Instructor] Now, I recently introduced [[Microsoft Defender]] for Cloud, but you may not necessarily find it in your environment if you open up the [[Microsoft Azure|Azure]] portal.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=9)** You need to enable Microsoft Defender for Cloud within your Azure subscription.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=14)** And in order to do that, all you need to do is click on search resources and search for Defender.
+> **[0:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=14)** And in order to do that, all you need to do is click on search resources and search for [[Microsoft Defender|Defender]].
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=21)** And from this window you'll see all of the Defender products that are available.
+> **[0:21](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=21)** And from this window you'll see all of the Defender [[Microsoft Products|products]] that are available.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=26)** Some of them are Microsoft published, some of them are not.
+> **[0:26](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=26)** Some of them are [[Microsoft]] published, some of them are not.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=30)** They're from third party solutions.
 >
@@ -832,9 +824,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=64)** What happens after this 30 day period is over is that you will enter into a free version non trial, which provides a limited number of features and functionalities for Defender for Cloud.
 >
-> **[1:19](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=79)** So Defender for Cloud is a tool that allows you to protect the security operations of your cloud, and even across other clouds, it allows you to also identify preventive actions for mitigating any type of security risks in your environment.
+> **[1:19](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=79)** So Defender for Cloud is a tool that allows you to protect the [[Security Operations]] of your cloud, and even across other clouds, it allows you to also identify preventive actions for mitigating any type of security risks in your environment.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=97)** And there are other platforms or other services of Defender that sit right alongside Defender for Cloud, such as Defender for Containers, for databases, for servers, storage, and more.
+> **[1:37](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=97)** And there are other platforms or other services of Defender that sit right alongside Defender for Cloud, such as Defender for Containers, for [[Databases]], for servers, storage, and more.
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-microsoft-defender-for-cloud?u=76281980&t=111)** Now, the cost of Microsoft Defender for Cloud is determined by the number of plans that you enable for Defender for Cloud.
 >
@@ -858,7 +850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), [[Microsoft Defender|Defender]] (16), [[Microsoft Defender]] (6), [[Security]] (5), [[Microsoft Azure|Azure]] (4)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (16), [[Microsoft Defender]] (6), [[Microsoft Azure|Azure]] (4), [[Microsoft Products|Products]] (4), [[Microsoft]] (2)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
@@ -867,8 +859,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the security scores
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980)
+#### [Understanding the security scores](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,11 +869,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=16)** So your security posture is a overall environment evaluation of all of the security settings, from your resources, whether they're management security settings, or access security settings or threats that may or have occurred in your environment, will affect your security posture.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=36)** Now, in order for you to quickly and easily evaluate your security posture, Microsoft provides a score, an easily identifying number that allows you to have a quick view into how secure your environment is.
+> **[0:36](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=36)** Now, in order for you to quickly and easily evaluate your security posture, [[Microsoft]] provides a score, an easily identifying number that allows you to have a quick view into how secure your environment is.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=53)** Now there are multiple secure or security scores in your Azure and Microsoft 365 environment, and I'm going to show you the tools that demonstrate these secure scores.
+> **[0:53](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=53)** Now there are multiple secure or security scores in your [[Microsoft Azure|Azure]] and [[Microsoft 365]] environment, and I'm going to show you the tools that demonstrate these secure scores.
 >
-> **[1:06](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=66)** So first, within the Microsoft Defender for cloud, I have a secure score here, which is an overall secure score for all of my subscriptions and cloud.
+> **[1:06](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=66)** So first, within the [[Microsoft Defender]] for cloud, I have a secure score here, which is an overall secure score for all of my subscriptions and cloud.
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=77)** So if I was connected to an AWS infrastructure, that would be also taken into consideration.
 >
@@ -898,7 +889,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=142)** Now you see here that I have the various recommendations that are listed here.
 >
-> **[2:27](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=147)** And so for example, if I click on this recommendation, it will tell me that I need or I should be increasing the level of encryption for this host of virtual machines.
+> **[2:27](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=147)** And so for example, if I click on this recommendation, it will tell me that I need or I should be increasing the level of encryption for this host of [[Virtual Machines]].
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=159)** So I can manage all of these various recommendations and applying and configuring these various settings will then increase my overall secure score.
 >
@@ -910,15 +901,15 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=192)** So this will be my secure score for my Azure resources.
 >
-> **[3:15](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=195)** I also have a secure score for my identity services, so in this case, Microsoft Entra ID.
+> **[3:15](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=195)** I also have a secure score for my identity services, so in this case, [[Microsoft Entra ID]].
 >
 > **[3:25](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=205)** I have here as well a secure score for all of my user accounts.
 >
-> **[3:30](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=210)** Now, various settings that I implement in my Entra ID tenant will affect the secure score, such as enabling MFA, multifactor authentication, or implementing password policies that will have very high requirements for passwords, or enabling various other security settings within my tenant.
+> **[3:30](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=210)** Now, various settings that I implement in my [[Microsoft Entra ID|Entra ID]] tenant will affect the secure score, such as enabling MFA, multifactor authentication, or implementing password policies that will have very high requirements for passwords, or enabling various other security settings within my tenant.
 >
 > **[3:53](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=233)** All of those things will increase my security score.
 >
-> **[3:57](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=237)** As well, I have a security score here for Defender XDR.
+> **[3:57](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=237)** As well, I have a security score here for [[Microsoft Defender|Defender]] XDR.
 >
 > **[4:02](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/understanding-the-security-scores?u=76281980&t=242)** So in a previous video in this course, I've talked about Microsoft XDR, this overall umbrella service for many Microsoft Defender product.
 >
@@ -938,7 +929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (18), [[Microsoft]] (5), [[Microsoft Azure|Azure]] (3), cloud (3), [[Microsoft Defender|Defender]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Azure|Azure]] (3), [[Microsoft Defender|Defender]] (3), [[Microsoft Defender]] (2), [[Microsoft Entra ID|Entra id]] (2)
 > **Env Vars:** xdr (4), aws (1), mfa (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **UI Navigation:** click on (3)
@@ -952,12 +943,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing and securing resources in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980)
+#### [Managing and securing resources in Azure](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980&t=0)** - [Instructor] Earlier in this course, I started talking about managing your resources in Azure, and this is what we're going to explore in this video.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980&t=0)** - [Instructor] Earlier in this course, I started talking about managing your resources in [[Microsoft Azure|Azure]], and this is what we're going to explore in this video.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980&t=9)** All of the resources in Azure live within the top-level container of your Azure environment, which is called an Azure subscription.
 >
@@ -991,7 +981,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980&t=135)** Now I mentioned that this is the highest level yet there is a role here that has been inherited.
 >
-> **[2:21](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980&t=141)** Now this is actually a Entra ID role, which is the User Access Administrator.
+> **[2:21](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980&t=141)** Now this is actually a [[Microsoft Entra ID|Entra ID]] role, which is the User Access Administrator.
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980&t=147)** So even though Entra ID is not technically part of the Azure subscription, it sits alongside your Azure subscription to manage your identities.
 >
@@ -1039,7 +1029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), management (5), [[Microsoft Entra ID|Entra id]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Microsoft Entra ID|Entra id]] (2)
 > **Definitions:** is a  (3), is called (2), is an  (1)
 > **UI Navigation:** click on (3), scroll down (1), go to (1)
 > **Analogies:** for example (3), such as (2)
@@ -1048,18 +1038,17 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
 
-#### Exploring Microsoft Entra ID security features
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980)
+#### [Exploring Microsoft Entra ID security features](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=0)** - [Instructor] We started looking at Microsoft Entra ID and the Entra admin center in a previous video in this course.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=0)** - [Instructor] We started looking at [[Microsoft Entra ID]] and the [[Microsoft Entra ID|Entra]] admin center in a previous video in this course.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=8)** But we're going to dig a little bit deeper into the security functionalities of Entra ID.
+> **[0:08](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=8)** But we're going to dig a little bit deeper into the security functionalities of [[Microsoft Entra ID|Entra ID]].
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=14)** And I'm going to start off by letting you know that there are different versions of Entra ID that is available within the Azure ecosystem.
+> **[0:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=14)** And I'm going to start off by letting you know that there are different versions of Entra ID that is available within the [[Microsoft Azure|Azure]] ecosystem.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=23)** The first one or the basic one is the free version of Azure AD that you get when you launch a Microsoft 365 tenant, right, when you're creating Office 365-type resources, such as Exchange Online, SharePoint Online and Teams.
+> **[0:23](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=23)** The first one or the basic one is the free version of [[Microsoft Entra ID|Azure AD]] that you get when you launch a [[Microsoft 365]] tenant, right, when you're creating [[Microsoft Office|Office]] 365-type resources, such as Exchange Online, [[SharePoint]] Online and Teams.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=40)** These are all associated with an Entra ID tenant, sort of the organization of all of the users and groups that are associated to the Microsoft 365 resources.
 >
@@ -1165,7 +1154,7 @@ created: 2026-05-02
 >
 > **[7:02](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=422)** If I scroll down, I have other interesting security settings here.
 >
-> **[7:07](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=427)** One of them that is enabled for my organization is restricting the access to the Microsoft Entra admin center, which means that only administrators can access the Entra admin center.
+> **[7:07](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=427)** One of them that is enabled for my organization is restricting the access to the [[Microsoft]] Entra admin center, which means that only administrators can access the Entra admin center.
 >
 > **[7:18](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=438)** Under user features here below, I have the access to my apps, myapps.[microsoft.com](https://microsoft.com), which is a tool where you'll be able to see those registered applications, for example.
 >
@@ -1195,7 +1184,7 @@ created: 2026-05-02
 >
 > **[8:42](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=522)** Administrative units are a way of grouping users that you can then use to manage them in a separate manner.
 >
-> **[8:51](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=531)** So if you are comfortable or familiar with the concept of an organizational unit, which is a concept that comes from Active Directory, the on-prem version of Entra ID is Active Directory, and the concept of an organizational unit to manage a subset of my users independently has been available as an organizational unit in Active Directory for quite some time.
+> **[8:51](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=531)** So if you are comfortable or familiar with the concept of an organizational unit, which is a concept that comes from [[Active Directory]], the on-prem version of Entra ID is Active Directory, and the concept of an organizational unit to manage a subset of my users independently has been available as an organizational unit in Active Directory for quite some time.
 >
 > **[9:17](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-microsoft-entra-id-security-features?u=76281980&t=557)** Now, we have a similar functionality here in Entra ID, an administrative unit that I can create.
 >
@@ -1223,7 +1212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (19), [[Security]] (11), [[Microsoft Azure|Azure]] (6), management (5), [[Microsoft Entra ID|Entra]] (3)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (19), [[Microsoft Azure|Azure]] (6), [[Microsoft Entra ID|Entra]] (3), [[Microsoft Entra ID|Azure ad]] (3), [[Microsoft]] (3)
 > **UI Navigation:** toggle (5), click on (4), go to (1), scroll down (1)
 > **Definitions:** is a  (5), means that (2), is an  (1)
 > **Analogies:** for example (6), such as (2)
@@ -1232,12 +1221,11 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Cross-References:** previous video (1)
 
-#### Why are passwords such a bad idea?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980)
+#### [Why are passwords such a bad idea?](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=0)** - [Narrator] In principle, the idea of a password is a bad idea, a certain word that if you have just that word, you have access to everything.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=0)** - [Narrator] In principle, the idea of a password is a bad idea, a certain [[Microsoft Word|word]] that if you have just that word, you have access to everything.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=9)** It unlocks the keys and the access to all resources.
 >
@@ -1255,13 +1243,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=96)** It's not a good solution.
 >
-> **[1:39](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=99)** We will talk about the better solution a little bit later on in this course, which is multi-factor authentication, having more than just a password.
+> **[1:39](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=99)** We will talk about the better solution a little bit later on in this course, which is [[Multi-factor Authentication]], having more than just a password.
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=109)** The password is one factor of authentication.
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=111)** It is a single factor of authentication.
 >
-> **[1:54](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=114)** But if we have another mechanism, we have a multiple factors of authentication and we will look at how we implement that in our Entra ID tenant.
+> **[1:54](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=114)** But if we have another mechanism, we have a multiple factors of authentication and we will look at how we implement that in our [[Microsoft Entra ID|Entra ID]] tenant.
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=123)** However, we still continue to have passwords.
 >
@@ -1297,11 +1285,11 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=235)** What is the minimum number of characters that we need to use for a password and how do we configure that?
 >
-> **[4:02](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=242)** Well, in the default free Azure AD environment, again, this is now Entra ID.
+> **[4:02](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=242)** Well, in the default free [[Microsoft Entra ID|Azure AD]] environment, again, this is now Entra ID.
 >
 > **[4:08](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=248)** I created it as an Azure AD and now it's an Entra ID tenant, we have a default number of eight to 256 characters.
 >
-> **[4:20](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=260)** So, here, I have moved over to my Microsoft 365 admin center and in the Microsoft 365 admin center, I can browse through my list of users, click on the reset password icon and you will see here that if you are going to change the password for a user, it needs to have at least eight characters, up to 256.
+> **[4:20](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=260)** So, here, I have moved over to my [[Microsoft 365]] admin center and in the Microsoft 365 admin center, I can browse through my list of users, click on the reset password icon and you will see here that if you are going to change the password for a user, it needs to have at least eight characters, up to 256.
 >
 > **[4:42](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/why-are-passwords-such-a-bad-idea?u=76281980&t=282)** Must have a combination of three of the four upper-case, lower-case, numbers and symbols, special characters.
 >
@@ -1323,12 +1311,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enabling multifactor authentication for a user
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980)
+#### [Enabling multifactor authentication for a user](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=0)** - [Instructor] I've mentioned earlier that there are two different types of Entra ID tenants that you can find yourself with, one that is either free or one that is premium.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=0)** - [Instructor] I've mentioned earlier that there are two different types of [[Microsoft Entra ID|Entra ID]] tenants that you can find yourself with, one that is either free or one that is premium.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=11)** So the premium comes in two flavor, Premium 1 and Premium 2, P1, P2, and we have here the free Entra ID tenant, as you can tell from the license description here, it is the free tenant.
 >
@@ -1384,13 +1371,13 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=249)** Well, if I click here on multifactor authentication, which is an approved method of authentication strength for my organization, it shows me the types of authentication that are accepted as being combined for a multifactor authentication.
 >
-> **[4:24](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=264)** For example, Windows Hello, in conjunction with having a password, that would be acceptable.
+> **[4:24](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=264)** For example, [[Windows]] Hello, in conjunction with having a password, that would be acceptable.
 >
 > **[4:33](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=273)** Having the Authenticator app and having a password, that would be acceptable as well.
 >
 > **[4:38](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=278)** The one that I use the most often is a password and an SMS message.
 >
-> **[4:44](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=284)** So a message that's being sent to my phone along with my password, those two forms of authentication are the two that I use.
+> **[4:44](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=284)** So a message that's being sent to my phone along with my password, those two [[Forms]] of authentication are the two that I use.
 >
 > **[4:53](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=293)** Now, you may ask, "Well, how does Entra ID know what my phone number is?"
 >
@@ -1412,7 +1399,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=354)** And once that's done, in order to get rid of all of cached credentials, I'm actually going to completely close out the browser window.
 >
-> **[6:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=363)** So here I am, I'm back in the Azure portal.
+> **[6:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=363)** So here I am, I'm back in the [[Microsoft Azure|Azure]] portal.
 >
 > **[6:07](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=367)** I'm now going to sign in with my user account.
 >
@@ -1420,7 +1407,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=375)** And now I am prompted for my second method of authentication.
 >
-> **[6:20](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=380)** Now, my account is configured with multiple methods that are approved for MFA, for multifactor authentication, one of which is having a code go into my Outlook mobile app.
+> **[6:20](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=380)** Now, my account is configured with multiple methods that are approved for MFA, for multifactor authentication, one of which is having a code go into my [[Microsoft Outlook|Outlook]] mobile app.
 >
 > **[6:33](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/enabling-multifactor-authentication-for-a-user?u=76281980&t=393)** So if I open up my Outlook mobile app and I enter the number that's displayed on the screen here, I'll automatically be signed in to my resource that I'm trying to access from this browser.
 >
@@ -1434,7 +1421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Microsoft Entra ID|Entra id]] (4), application (3), [[Microsoft Outlook|Outlook]] (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (4), [[Microsoft Outlook|Outlook]] (3), [[Windows]] (1), [[Forms]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (3), means that (3), is called (1), is an  (1)
 > **Env Vars:** mfa (4), sms (1)
 > **UI Navigation:** click on (3), go to (2)
@@ -1443,12 +1430,11 @@ created: 2026-05-02
 > **Ports:** :00 (2)
 > **Tools:** azure portal (1)
 
-#### Exploring identity governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980)
+#### [Exploring identity governance](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980&t=0)** - [Instructor] Implementing proper governance of your resources within an Azure environment is key, and where it is the most evident is when it comes to identities, your user accounts.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980&t=0)** - [Instructor] Implementing proper governance of your resources within an [[Microsoft Azure|Azure]] environment is key, and where it is the most evident is when it comes to identities, your user accounts.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980&t=13)** What rights do your users have?
 >
@@ -1462,7 +1448,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980&t=36)** Are you removing permissions from user accounts that no longer need it?
 >
-> **[0:42](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980&t=42)** All of those answers can be provided by using the proper governance tools within the Entra admin center.
+> **[0:42](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980&t=42)** All of those answers can be provided by using the proper governance tools within the [[Microsoft Entra ID|Entra]] admin center.
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980&t=50)** So from the Entra admin center, if I click on identity governance and then on dashboard, I'm presented with some options here and some functionalities that are available to manage my user account governance.
 >
@@ -1510,11 +1496,11 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980&t=266)** If I have permissions that have already been assigned to my users, how do I determine if they're still necessary?
 >
-> **[4:32](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980&t=272)** Well, these are my access reviews and combining these two elements gives you proper identity governing over your Entra ID tenant.
+> **[4:32](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/exploring-identity-governance?u=76281980&t=272)** Well, these are my access reviews and combining these two elements gives you proper identity governing over your [[Microsoft Entra ID|Entra ID]] tenant.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (2), management (2), next (2), [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Entra id]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (2), [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Entra id]] (1)
 > **Env Vars:** pim (3)
 > **Definitions:** means that (1), is a  (1), is called (1)
 > **CLI Commands:** find (1)
@@ -1528,8 +1514,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure resources using Microsoft Defender for Cloud: General settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980)
+#### [Secure resources using Microsoft Defender for Cloud: General settings](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1541,7 +1526,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=45)** Not all recommendations need to be applied, but they all need to be evaluated, and they all need to be interpreted for your specific scenario.
 >
-> **[0:56](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=56)** So, in the next videos in this course, we will be looking at Microsoft Defender for Cloud in depth and how we can utilize this tool to interpret the various recommendations and information that is provided to us.
+> **[0:56](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=56)** So, in the next videos in this course, we will be looking at [[Microsoft Defender]] for Cloud in depth and how we can utilize this tool to interpret the various recommendations and information that is provided to us.
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=70)** The primary goal of Microsoft Defender is to inform the administrator on what are the various vulnerabilities and risks in the environment, and then how can I use this information in order to best secure my environment.
 >
@@ -1551,13 +1536,13 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=107)** You might also remember that Microsoft Defender for Cloud initially provides a trial.
 >
-> **[1:52](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=112)** After that 30-day trial, provides basic functionalities with additional plans that can be enabled for Defender for Cloud, and then these additional plans would come at a cost to the environment, to the organization as part of your subscription costs.
+> **[1:52](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=112)** After that 30-day trial, provides basic functionalities with additional plans that can be enabled for [[Microsoft Defender|Defender]] for Cloud, and then these additional plans would come at a cost to the environment, to the organization as part of your subscription costs.
 >
 > **[2:08](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=128)** So, in this initial Overview page, I have basic information about my security posture.
 >
-> **[2:13](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=133)** I have information about regulatory compliance, and I will talk about that in a later video in this course.
+> **[2:13](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=133)** I have information about [[Regulatory Compliance]], and I will talk about that in a later video in this course.
 >
-> **[2:19](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=139)** These are based on Microsoft standards.
+> **[2:19](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=139)** These are based on [[Microsoft]] standards.
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=142)** I have also information about my workloads, the workloads that are being protected, and potential threat alerts for those, as well as my Inventory, so my various resources, and the ones, again, that may be at risk of vulnerabilities.
 >
@@ -1591,13 +1576,13 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=320)** So, recommendations is really about how to best configure and deploy your environment, and alerts are things that you've already done and how you should modify existing configurations or how you should modify the existing resources because you've missed something and you are at a vulnerable state, or there is an exposed vulnerability.
 >
-> **[5:41](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=341)** A tool I like to use to manage all of these recommendations is the Cloud Security Explorer.
+> **[5:41](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=341)** A tool I like to use to manage all of these recommendations is the [[Cloud Security]] Explorer.
 >
 > **[5:47](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=347)** So, the Cloud Security Explorer allows me to generate a query that allows me to sift through all of these large number of recommendations in an easier way.
 >
 > **[5:58](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=358)** In order to do this, it's a very easy interface to create the resource.
 >
-> **[6:02](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=362)** So, I'm going to look for all of the storage accounts or Azure storage accounts in my environment, and I'm going to add a new condition.
+> **[6:02](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=362)** So, I'm going to look for all of the storage accounts or [[Microsoft Azure|Azure]] storage accounts in my environment, and I'm going to add a new condition.
 >
 > **[6:13](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980&t=373)** I'm going to say that have a recommendation, and I'm going to want to organize those recommendations by severity.
 >
@@ -1617,7 +1602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), cloud (7), [[Microsoft Defender]] (4), next (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (4), [[Cloud Security]] (3), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Defender|Defender]] (1)
 > **Cross-References:** earlier in (2), in the next (1), previous video (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** you need to have (1), configure (1)
@@ -1626,8 +1611,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Warnings:** note that (1)
 
-#### Secure resources using Microsoft Defender for Cloud: Cloud security settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980)
+#### [Secure resources using Microsoft Defender for Cloud: Cloud security settings](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1635,13 +1619,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=16)** So we've looked at the security posture blade before and all of the information that is listed here.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=22)** So let's move over to the next blade, which is Regulatory compliance.
+> **[0:22](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=22)** So let's move over to the next blade, which is [[Regulatory Compliance]].
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=27)** Now, Regulatory compliance is basically the ability to view a set of recommendations in order to meet certain industry standards for security configurations.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=41)** There is an included set of recommendations which defines the specific standard for security configuration that Microsoft has determined, which is called the Microsoft cloud security benchmark, or the MCSB.
+> **[0:41](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=41)** There is an included set of recommendations which defines the specific standard for security configuration that [[Microsoft]] has determined, which is called the Microsoft [[Cloud Security]] benchmark, or the MCSB.
 >
-> **[0:56](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=56)** So the MCSB is built into Microsoft Defender for Cloud and provides a set of recommendations for how you should build, deploy, configure, really from a security standpoint, do everything within your Microsoft Cloud environment.
+> **[0:56](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=56)** So the MCSB is built into [[Microsoft Defender]] for Cloud and provides a set of recommendations for how you should build, deploy, configure, really from a security standpoint, do everything within your Microsoft Cloud environment.
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=72)** So if I go a little bit lower here, you'll see that you'll be provided with a high number of recommendations and details on how you should manage, secure your various resources that are in your Microsoft Cloud.
 >
@@ -1649,7 +1633,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=106)** Next, I'll go into Workload protections, and Workload protections actually specifies the workloads or the types of workloads that we are securing or we are identifying recommendations for as part of our Microsoft Defender for Cloud configuration.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=124)** So you'll see here, for example, that my Azure SQL Database servers are included as part of my coverage, so as my two servers here, but not these five storage.
+> **[2:04](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=124)** So you'll see here, for example, that my [[Microsoft Azure|Azure]] [[SQL]] Database servers are included as part of my coverage, so as my two servers here, but not these five storage.
 >
 > **[2:16](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=136)** And in order for them to be included, I just need to upgrade the plan for them to be included, and I'll show you how to do that a little bit from a better interface in a few minutes.
 >
@@ -1657,9 +1641,9 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=153)** But when I click at some of these assessment alerts, I'll see that there is a more detailed set of configurations that are available for me in terms of how I'm going to manage this alert and how I'm going to remediate the alert.
 >
-> **[2:51](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=171)** If I go into Data security, this is where my data content is actually being assessed as part of my protection.
+> **[2:51](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=171)** If I go into [[Data Security]], this is where my data content is actually being assessed as part of my protection.
 >
-> **[3:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=180)** So you'll see here that I have all of the data resources that are listed here, so storage accounts, databases, and also hosted databases would be listed here.
+> **[3:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=180)** So you'll see here that I have all of the data resources that are listed here, so storage accounts, [[Databases]], and also hosted databases would be listed here.
 >
 > **[3:10](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=190)** And then I have all of the coverage for those, so whether or not they are covered by my plans.
 >
@@ -1681,7 +1665,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=278)** And then I will have recommendations on configurations that are assigned to my network resources that are externally accessible from the internet, such as the Azure Firewalls, such as application Gateways, Azure Front Door service, and so on.
 >
-> **[4:57](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=297)** And moving down to my last option in Cloud Security, which is DevOps security, which allows me to, once again get recommendations on how to best secure my DevOps environment.
+> **[4:57](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=297)** And moving down to my last option in Cloud Security, which is [[DevOps]] security, which allows me to, once again get recommendations on how to best secure my DevOps environment.
 >
 > **[5:08](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-cloud-security-settings?u=76281980&t=308)** In order to do that, I would have to connect to a DevOps organization, and then I would be able to assess that DevOps organization for security recommendations.
 >
@@ -1689,7 +1673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), cloud (9), [[Microsoft]] (7), data (6), [[DevOps]] (5)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[DevOps]] (5), [[Microsoft Defender]] (4), [[Cloud Security]] (3), [[Microsoft Azure|Azure]] (3)
 > **Definitions:** is an  (1), is called (1), is a  (1), means that (1)
 > **Env Vars:** mcsb (2), sql (1)
 > **Analogies:** such as (2), for example (1)
@@ -1698,24 +1682,23 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure resources using Microsoft Defender for Cloud: Management settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980)
+#### [Secure resources using Microsoft Defender for Cloud: Management settings](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=0)** - [Instructor] Now that we've looked at how to browse through all the various recommendations and prioritize through the recommendations and the alerts that we have exposed through Defender for Cloud, let's see how we manage, how those are going to be actually selected, and which alerts even exist and which recommendations even exist.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=0)** - [Instructor] Now that we've looked at how to browse through all the various recommendations and prioritize through the recommendations and the alerts that we have exposed through [[Microsoft Defender|Defender]] for Cloud, let's see how we manage, how those are going to be actually selected, and which alerts even exist and which recommendations even exist.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=22)** So we're going to do that by toggling down to the environment settings under management of Microsoft Defender for Cloud.
+> **[0:22](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=22)** So we're going to do that by toggling down to the environment settings under management of [[Microsoft Defender]] for Cloud.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=30)** And under my environment settings here, I see my resources that are currently connected to Defender for Cloud.
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=38)** I have three resources, these three subscriptions.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=41)** So this Azure environment is connected.
+> **[0:41](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=41)** So this [[Microsoft Azure|Azure]] environment is connected.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=44)** However, I can connect other environments.
 >
-> **[0:46](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=46)** Remember that you can use Defender for Cloud to also monitor third party solutions like Amazon Web Services, AWS, Google platform, et cetera.
+> **[0:46](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=46)** Remember that you can use Defender for Cloud to also monitor third party solutions like [[Amazon Web Services (AWS)|Amazon Web Services]], AWS, [[Google]] platform, et cetera.
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=58)** So here I have my Azure environments, and if I expand my Azure environments here, I have my three subscriptions.
 >
@@ -1747,11 +1730,11 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=134)** If I click on this, it will enable all plans that match resources in my environment.
 >
-> **[2:21](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=141)** So if basically I don't have virtual machines, well, I will not be charged for the plan that covers virtual machine.
+> **[2:21](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=141)** So if basically I don't have [[Virtual Machines]], well, I will not be charged for the plan that covers virtual machine.
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=149)** If I click here under security policies, you will notice that there are here the various standards that I could abide by in terms of my compliance setting.
 >
-> **[2:42](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=162)** So you remember we were in the compliance window of Defender for Cloud, and we saw the Microsoft Cloud security benchmark, the MCSB, the sets of standard that Microsoft has defined to have compliance within the environment.
+> **[2:42](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=162)** So you remember we were in the compliance window of Defender for Cloud, and we saw the [[Microsoft]] [[Cloud Security]] benchmark, the MCSB, the sets of standard that Microsoft has defined to have compliance within the environment.
 >
 > **[2:58](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=178)** And the MCSB is included by default, but there are other standards that we can abide by.
 >
@@ -1767,7 +1750,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=230)** If you want to go even more granular than that, you can take a look at all the built-in recommendations that exist within Azure.
 >
-> **[3:57](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=237)** And these are all the recommendations that we have and that are exposed through the other windows that are visible in the cloud security and the general security options of Microsoft Defender for Cloud.
+> **[3:57](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=237)** And these are all the recommendations that we have and that are exposed through the other [[Windows]] that are visible in the cloud security and the general security options of Microsoft Defender for Cloud.
 >
 > **[4:09](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-management-settings?u=76281980&t=249)** So I'm just going to go back here into Security Solution, and you'll see here that this is also a way for me to add an additional security solution for monitoring, where I would be able to have additional security solution monitor my environment, and then have them connect it together.
 >
@@ -1779,7 +1762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Security]] (11), [[Microsoft Defender|Defender]] (8), [[Microsoft Azure|Azure]] (6), [[Microsoft Defender]] (3)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (8), [[Microsoft Azure|Azure]] (6), [[Microsoft Defender]] (3), [[Microsoft]] (3), [[Cloud Security]] (3)
 > **Env Vars:** cspm (2), mcsb (2), aws (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** aws (1)
@@ -1787,14 +1770,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Microsoft Sentinel to secure your infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980)
+#### [Use Microsoft Sentinel to secure your infrastructure](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=0)** - [Instructor] Another security product from Microsoft that we started looking at earlier in this course is Microsoft Sentinel, the cloud native security information and event management platform, or a SIEM.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=0)** - [Instructor] Another security product from [[Microsoft]] that we started looking at earlier in this course is Microsoft Sentinel, the cloud native security information and event management platform, or a SIEM.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=14)** Now, Microsoft Sentinel is a product that we need to first install or enable within our Azure subscription, and once we do, it will be visible right here under our services.
+> **[0:14](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=14)** Now, Microsoft Sentinel is a product that we need to first install or enable within our [[Microsoft Azure|Azure]] subscription, and once we do, it will be visible right here under our services.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=26)** When I click on Sentinel, the first thing that I need to do is assign it a log analytics workspace.
 >
@@ -1804,7 +1786,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=55)** And Microsoft Sentinel is essentially a tool that will analyze and review all the information it has, and based on that, give you great visibility into what's happening from a security standpoint into your environment.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=69)** It's a little bit different than Defender for Cloud, which actually looks at specific resources, gives you recommendations.
+> **[1:09](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=69)** It's a little bit different than [[Microsoft Defender|Defender]] for Cloud, which actually looks at specific resources, gives you recommendations.
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=77)** This here is an after the fact.
 >
@@ -1818,7 +1800,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=120)** Now, you need to also enable Azure Monitor for that.
 >
-> **[2:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=123)** I have not enabled Azure Monitor, but if you enable Azure Monitor, all of that information will be stored in here, and it will be analyzed with digital intelligence, or today we call it artificial intelligence, but it's digital intelligence that's evaluating all of this and allowing you to view the information in a meaningful way.
+> **[2:03](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=123)** I have not enabled Azure Monitor, but if you enable Azure Monitor, all of that information will be stored in here, and it will be analyzed with digital intelligence, or today we call it [[Artificial Intelligence (AI)|artificial intelligence]], but it's digital intelligence that's evaluating all of this and allowing you to view the information in a meaningful way.
 >
 > **[2:24](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-sentinel-to-secure-your-infrastructure?u=76281980&t=144)** I don't have any incidents in my environment, so I'm not seeing anything here.
 >
@@ -1860,7 +1842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (11), [[Microsoft Azure|Azure]] (9), [[Security]] (4), cloud (3), [[Analytics]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (11), [[Microsoft Azure|Azure]] (9), [[Microsoft Defender|Defender]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (6), is an  (2)
 > **Prerequisites:** install (4), set up (1)
 > **Env Vars:** siem (1), mitre (1), att (1)
@@ -1869,12 +1851,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Cross-References:** earlier in (1)
 
-#### Use Microsoft XDR to secure your infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980)
+#### [Use Microsoft XDR to secure your infrastructure](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=0)** - [Instructor] After Microsoft Defender for Cloud and Microsoft Sentinel, here comes Microsoft Defender XDR, Microsoft Defender XDR, previously Microsoft 365 Defender is a centralized interface that allows you to integrate and to have a single view access into most of your security configurations, your security posture, your recommendations for security improvements, your incidents, and alerts of security events, anything that you need to do pre-deployment or pre-security configuration as long as post security events, post-deployment security events can be managed through this interface
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=0)** - [Instructor] After [[Microsoft Defender]] for Cloud and [[Microsoft]] Sentinel, here comes Microsoft Defender XDR, Microsoft Defender XDR, previously [[Microsoft 365]] [[Microsoft Defender|Defender]] is a centralized interface that allows you to integrate and to have a single view access into most of your security configurations, your security posture, your recommendations for security improvements, your incidents, and alerts of security events, anything that you need to do pre-deployment or pre-security configuration as long as post security events, post-deployment security events can be managed through this interface
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=48)** through the Microsoft Defender interface, which is simply accessible through security.[microsoft.com](https://microsoft.com).
 >
@@ -1884,7 +1865,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=66)** So let's take a look at some of the management options here.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=70)** And warning, this is a huge tool or huge interface because it not only integrates Defender for Cloud Sentinel, but it also integrates other Microsoft Defender products such as Defender for Endpoint, Defender for iot, as well as Microsoft Defender for Office 365.
+> **[1:10](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=70)** And warning, this is a huge tool or huge interface because it not only integrates Defender for Cloud Sentinel, but it also integrates other Microsoft Defender [[Microsoft Products|products]] such as Defender for Endpoint, Defender for [[IoT]], as well as Microsoft Defender for [[Microsoft Office|Office]] 365.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=91)** So some of the Office 365 functionality for security are available here as well.
 >
@@ -1902,7 +1883,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=169)** I have information such as the source ip, which is causing an issue, and you'll notice here that the URL scanning that has occurred.
 >
-> **[2:57](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=177)** So essentially someone scanned to look for vulnerabilities and they are trying to access WordPress pages.
+> **[2:57](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=177)** So essentially someone scanned to look for vulnerabilities and they are trying to access [[WordPress]] pages.
 >
 > **[3:05](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=185)** So these are known vulnerabilities for WordPress.
 >
@@ -1912,7 +1893,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=201)** Again, the same IP address I scanned my environment, and if I click on this IP address, I can go to the IP details page, which will provide more information about this IP address.
 >
-> **[3:33](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=213)** This IP address is actually within the Microsoft Corporation ISP, which means it's likely somewhere within the Microsoft Cloud solutions, either a hosted virtual machine in Azure or another service running within the Microsoft ecosystem.
+> **[3:33](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=213)** This IP address is actually within the Microsoft Corporation ISP, which means it's likely somewhere within the Microsoft Cloud solutions, either a hosted virtual machine in [[Microsoft Azure|Azure]] or another service running within the Microsoft ecosystem.
 >
 > **[3:49](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=229)** I also see that it's located in the city of Dublin, in the country of Ireland, which is where Microsoft has a large number of data servers that host Azure Services.
 >
@@ -1938,7 +1919,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=351)** So these are a simple mail transfer protocol, is the protocol that is used for transferring mail from one SMTP host to another.
 >
-> **[6:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=360)** So one email server to another Microsoft Office 365 has a number of SMTP hosts, and I can start a trace that says all the mail messages sent from a specific sender.
+> **[6:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=360)** So one email server to another [[Microsoft Office]] 365 has a number of SMTP hosts, and I can start a trace that says all the mail messages sent from a specific sender.
 >
 > **[6:12](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/use-microsoft-xdr-to-secure-your-infrastructure?u=76281980&t=372)** So that could be me, for example, from my email address sent to another email address, or I can save to any email address within X number of days.
 >
@@ -1976,7 +1957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), [[Microsoft Defender]] (16), [[Microsoft]] (14), data (11), [[Microsoft Defender|Defender]] (9)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (16), [[Microsoft]] (14), [[Microsoft Defender|Defender]] (9), [[Microsoft 365]] (4), [[Microsoft Products|Products]] (4)
 > **Env Vars:** xdr (12), smtp (3), url (1), isp (1)
 > **Analogies:** for example (4), such as (3)
 > **UI Navigation:** click on (3), go to (2)
@@ -1990,26 +1971,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deepen your understanding of Azure security
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980)
+#### [Deepen your understanding of Azure security](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980&t=0)** - [Instructor] Congratulations on finishing this security course with me.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980&t=4)** We've introduced a lot of the concepts of security and how to properly apply security diligence into your Azure deployment or your Microsoft 365 workloads.
+> **[0:04](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980&t=4)** We've introduced a lot of the concepts of security and how to properly apply security diligence into your [[Microsoft Azure|Azure]] deployment or your [[Microsoft 365]] workloads.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980&t=17)** If you're ready to enhance your learning to the next step, I suggest that you go to the Microsoft website and you go to learn.[microsoft.com](https://microsoft.com) and learn more about all of these security tools and features that we've introduced in this course.
+> **[0:17](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980&t=17)** If you're ready to enhance your learning to the next step, I suggest that you go to the [[Microsoft]] website and you go to learn.[microsoft.com](https://microsoft.com) and learn more about all of these security tools and features that we've introduced in this course.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980&t=32)** Specifically, right from the learn.[microsoft.com](https://microsoft.com), do a search on security, and you'll find a wealth of information on many of the features that I've discussed in this video.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980&t=44)** For example, here, the Microsoft cloud security benchmark is a broad topic, there's a lot of information you can dive into.
+> **[0:44](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980&t=44)** For example, here, the Microsoft [[Cloud Security]] benchmark is a broad topic, there's a lot of information you can dive into.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980&t=50)** And that's just one of them, you'll find information about all of these products and tools on learn.[microsoft.com](https://microsoft.com), good luck.
+> **[0:50](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980&t=50)** And that's just one of them, you'll find information about all of these [[Microsoft Products|products]] and tools on learn.[microsoft.com](https://microsoft.com), good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Microsoft]] (5), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1), [[Cloud Security]] (1), [[Microsoft Products|Products]] (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)

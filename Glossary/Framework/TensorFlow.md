@@ -46,12 +46,12 @@ created: 2026-05-02
 > 13. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 6 mentions
 > 14. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 5 mentions
 > 15. [[AI Fundamentals for Data Professionals]] — 5 mentions
-> 16. [[Learning Vertex AI- MLOps with Google Cloud]] — 5 mentions
-> 17. [[Deep Learning with Python- Optimizing Deep Learning Models]] — 5 mentions
-> 18. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 5 mentions
-> 19. [[Data Science Foundations- Python Scientific Stack -CoderPad-]] — 5 mentions
-> 20. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 4 mentions
-> 21. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 4 mentions
+> 16. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 5 mentions
+> 17. [[Learning Vertex AI- MLOps with Google Cloud]] — 5 mentions
+> 18. [[Deep Learning with Python- Optimizing Deep Learning Models]] — 5 mentions
+> 19. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 5 mentions
+> 20. [[Data Science Foundations- Python Scientific Stack -CoderPad-]] — 5 mentions
+> 21. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 4 mentions
 > 22. [[AI Text Summarization with Hugging Face]] — 4 mentions
 > 23. [[Deep Learning Getting Started]] — 4 mentions
 > 24. [[Leveraging Google Cloud Developer and DevOps Tools]] — 4 mentions
@@ -61,28 +61,28 @@ created: 2026-05-02
 > 28. [[Deep Learning- Model Optimization and Tuning (2022)]] — 3 mentions
 > 29. [[Advanced Nlp With Python For Machine Learning]] — 3 mentions
 > 30. [[Transitioning to a Career in Cybersecurity]] — 2 mentions
-> 31. [[Implementing a Data Strategy for Responsible AI]] — 2 mentions
-> 32. [[Predictive Analytics Essential Training For Executives]] — 2 mentions
-> 33. [[Data Science Foundations- Fundamentals]] — 2 mentions
-> 34. [[Machine Learning Fundamentals for Healthcare]] — 2 mentions
-> 35. [[AI Orchestration- Developing and Testing Your AI Prototype]] — 2 mentions
-> 36. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 2 mentions
-> 37. [[MLOps Essentials- Model Deployment and Monitoring]] — 2 mentions
-> 38. [[Rust for Data Engineering]] — 2 mentions
-> 39. [[Python For Data Science And Machine Learning Essential Training Part]] — 2 mentions
-> 40. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 2 mentions
-> 41. [[Deep Learning with Python- Convolutional Neural Networks]] — 2 mentions
-> 42. [[Training Neural Networks in Python]] — 2 mentions
-> 43. [[Advanced Python in Excel for Finance- A Hands-On Approach]] — 2 mentions
-> 44. [[Transition from Data Science to Data Engineering]] — 2 mentions
-> 45. [[AI Foundations- Ideating and Prototyping]] — 2 mentions
-> 46. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 2 mentions
-> 47. [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — 2 mentions
-> 48. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 1 mentions
-> 49. [[Building a Generative AI Tech Strategy]] — 1 mentions
-> 50. [[AI Product Security- Testing, Validation, and Maintenance]] — 1 mentions
-> 51. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
-> 52. [[Cloud Computing Careers and Certifications]] — 1 mentions
+> 31. [[Cloud Computing Careers and Certifications]] — 2 mentions
+> 32. [[Implementing a Data Strategy for Responsible AI]] — 2 mentions
+> 33. [[Predictive Analytics Essential Training For Executives]] — 2 mentions
+> 34. [[Data Science Foundations- Fundamentals]] — 2 mentions
+> 35. [[Machine Learning Fundamentals for Healthcare]] — 2 mentions
+> 36. [[AI Orchestration- Developing and Testing Your AI Prototype]] — 2 mentions
+> 37. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 2 mentions
+> 38. [[MLOps Essentials- Model Deployment and Monitoring]] — 2 mentions
+> 39. [[Rust for Data Engineering]] — 2 mentions
+> 40. [[Python For Data Science And Machine Learning Essential Training Part]] — 2 mentions
+> 41. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 2 mentions
+> 42. [[Deep Learning with Python- Convolutional Neural Networks]] — 2 mentions
+> 43. [[Training Neural Networks in Python]] — 2 mentions
+> 44. [[Advanced Python in Excel for Finance- A Hands-On Approach]] — 2 mentions
+> 45. [[Transition from Data Science to Data Engineering]] — 2 mentions
+> 46. [[AI Foundations- Ideating and Prototyping]] — 2 mentions
+> 47. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 2 mentions
+> 48. [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — 2 mentions
+> 49. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 1 mentions
+> 50. [[Building a Generative AI Tech Strategy]] — 1 mentions
+> 51. [[AI Product Security- Testing, Validation, and Maintenance]] — 1 mentions
+> 52. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
 > 53. [[Python Quick Start]] — 1 mentions
 > 54. [[AI Data Strategy- Data Procurement and Storage]] — 1 mentions
 > 55. [[Programming Foundations- Beyond the Fundamentals]] — 1 mentions

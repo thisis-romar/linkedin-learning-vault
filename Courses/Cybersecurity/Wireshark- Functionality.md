@@ -84,12 +84,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve your Wireshark workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/improve-your-wireshark-workflow?u=76281980)
+#### [Improve your Wireshark workflow](https://www.linkedin.com/learning/wireshark-functionality/improve-your-wireshark-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/improve-your-wireshark-workflow?u=76281980&t=0)** - [Lisa] We all know that Wireshark is a great tool, but how do you make a great tool even better?
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/improve-your-wireshark-workflow?u=76281980&t=0)** - [Lisa] We all know that [[Wireshark]] is a great tool, but how do you make a great tool even better?
 >
 > **[0:06](https://www.linkedin.com/learning/wireshark-functionality/improve-your-wireshark-workflow?u=76281980&t=6)** By becoming more familiar with the many basic features that help you navigate easier in Wireshark.
 >
@@ -113,13 +112,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (8), traffic (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (8)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lisa] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/wireshark-functionality/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/wireshark-functionality/what-you-need-to-know?u=76281980&t=15)** To troubleshoot, identify latency issues, and actively identify network attacks.
 >
-> **[0:21](https://www.linkedin.com/learning/wireshark-functionality/what-you-need-to-know?u=76281980&t=21)** I'll be walking you through the basics so no previous experience with Wireshark is necessary.
+> **[0:21](https://www.linkedin.com/learning/wireshark-functionality/what-you-need-to-know?u=76281980&t=21)** I'll be walking you through the basics so no previous experience with [[Wireshark]] is necessary.
 >
 > **[0:27](https://www.linkedin.com/learning/wireshark-functionality/what-you-need-to-know?u=76281980&t=27)** We'll examine precaptured packets from online repositories.
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Definitions:** is an  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [lecturer] (1)
@@ -145,12 +143,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File: Open, Import, and Save
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/file-open-import-and-save?u=76281980)
+#### [File: Open, Import, and Save](https://www.linkedin.com/learning/wireshark-functionality/file-open-import-and-save?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/file-open-import-and-save?u=76281980&t=0)** - [Instructor] When working with the Wireshark interface, file is many times the go-to menu choice.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/file-open-import-and-save?u=76281980&t=0)** - [Instructor] When working with the [[Wireshark]] interface, file is many times the go-to menu choice.
 >
 > **[0:07](https://www.linkedin.com/learning/wireshark-functionality/file-open-import-and-save?u=76281980&t=7)** Now there are many items in this menu choice.
 >
@@ -218,13 +215,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Wireshark]] (3), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **UI Navigation:** go to (5)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export packets or objects and print
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/export-packets-or-objects-and-print?u=76281980)
+#### [Export packets or objects and print](https://www.linkedin.com/learning/wireshark-functionality/export-packets-or-objects-and-print?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/wireshark-functionality/export-packets-or-objects-and-print?u=76281980&t=228)** So here it is, and what we'll do is take off that front matter, just so I have it nice and neat, and as you can see, the Solaris install.
 >
-> **[3:59](https://www.linkedin.com/learning/wireshark-functionality/export-packets-or-objects-and-print?u=76281980&t=239)** And make sure that whenever you do do Export or Save As in Wireshark, that it does have that extension.
+> **[3:59](https://www.linkedin.com/learning/wireshark-functionality/export-packets-or-objects-and-print?u=76281980&t=239)** And make sure that whenever you do do Export or Save As in [[Wireshark]], that it does have that extension.
 >
 > **[4:07](https://www.linkedin.com/learning/wireshark-functionality/export-packets-or-objects-and-print?u=76281980&t=247)** Sometimes it doesn't, and your operating system won't know how to associate it.
 >
@@ -336,7 +332,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/wireshark-functionality/export-packets-or-objects-and-print?u=76281980&t=292)** That way, I can bring it into a report.
 >
-> **[4:55](https://www.linkedin.com/learning/wireshark-functionality/export-packets-or-objects-and-print?u=76281980&t=295)** And I'll say Print, and it says Microsoft Print to PDF, but you probably have other options, as well.
+> **[4:55](https://www.linkedin.com/learning/wireshark-functionality/export-packets-or-objects-and-print?u=76281980&t=295)** And I'll say Print, and it says [[Microsoft]] Print to PDF, but you probably have other options, as well.
 >
 > **[5:02](https://www.linkedin.com/learning/wireshark-functionality/export-packets-or-objects-and-print?u=76281980&t=302)** And I'll say Print.
 >
@@ -354,7 +350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), data (1), [[Security]] (1), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[Microsoft]] (1)
 > **Env Vars:** pdf (4), http (1), jpeg (1), smb (1), ssl (1)
 > **UI Navigation:** go to (7)
 > **Analogies:** for example (2), such as (1)
@@ -362,8 +358,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980)
+#### [Edit menu](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,7 +410,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=144)** Now, when you see this, as you see it's quickly dimmed, it doesn't exist.
 >
-> **[2:29](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=149)** So any statistics it won't show up in, it won't show up in a flow graph, it's simply ignored.
+> **[2:29](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=149)** So any [[Statistics]] it won't show up in, it won't show up in a flow graph, it's simply ignored.
 >
 > **[2:36](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=156)** Now, with the three functions, we can go back in here, you can see there's other choices, Ignore all that are displayed or Unignore all that are displayed.
 >
@@ -499,11 +494,11 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=384)** And this brings up the Preference dialogue box which allows you to modify the preference on the appearance, on how you capture the statistics and also the protocols.
 >
-> **[6:37](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=397)** So the Edit menu choice in Wireshark allows us to manipulate and edit packets within Wireshark.
+> **[6:37](https://www.linkedin.com/learning/wireshark-functionality/edit-menu?u=76281980&t=397)** So the Edit menu choice in [[Wireshark]] allows us to manipulate and edit packets within Wireshark.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), next (2), [[Wireshark]] (2), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Wireshark]] (2)
 > **Analogies:** for example (4), picture (2)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -511,12 +506,11 @@ created: 2026-05-02
 > **Env Vars:** http (1)
 > **Speakers:** - [instructor] (1)
 
-#### View menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980)
+#### [View menu](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=0)** - [Instructor] When working with Wireshark, many times you'll find yourself up at the View menu choice, where you can alter the appearance of those captured packets, including how you want them colorized, zooming on the font or showing a packet in a separate window.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=0)** - [Instructor] When working with [[Wireshark]], many times you'll find yourself up at the View menu choice, where you can alter the appearance of those captured packets, including how you want them colorized, zooming on the font or showing a packet in a separate window.
 >
 > **[0:17](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=17)** So let's take a look.
 >
@@ -564,7 +558,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=147)** For example, the physical address, which is coming from a file, and that will match the organizationally unique identifier, which is the first six digits of a Mac address and tell you the name of the vendor for that NIC card.
 >
-> **[2:42](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=162)** Zoom is how we want to modify that font.
+> **[2:42](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=162)** [[Zoom]] is how we want to modify that font.
 >
 > **[2:44](https://www.linkedin.com/learning/wireshark-functionality/view-menu-14522232?u=76281980&t=164)** For example, Zoom In.
 >
@@ -633,12 +627,11 @@ created: 2026-05-02
 > **Env Vars:** nic (1)
 > **Speakers:** - [instructor] (1)
 
-#### Statistics menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980)
+#### [Statistics menu](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=0)** - [Instructor] In Wireshark, the statistics menu offers a variety of tools to provide insights into a capture file.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=0)** - [Instructor] In [[Wireshark]], the [[Statistics]] menu offers a variety of tools to provide insights into a capture file.
 >
 > **[0:09](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=9)** In this segment, we'll review some of the options including protocol hierarchy, service response times, conversations, and endpoints.
 >
@@ -682,7 +675,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=138)** So let's talk about this concept.
 >
-> **[2:22](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=142)** Now, any device that is used to connect to the internet is considered an endpoint, and that includes mobile devices, VoIP phones and IoT devices, servers and cloud resources, specialized devices such as point of sale terminals and industrial control systems, along with network devices including firewalls and routers.
+> **[2:22](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=142)** Now, any device that is used to connect to the internet is considered an endpoint, and that includes mobile devices, VoIP phones and [[IoT]] devices, servers and cloud resources, specialized devices such as point of sale terminals and industrial control systems, along with network devices including firewalls and routers.
 >
 > **[2:49](https://www.linkedin.com/learning/wireshark-functionality/statistics-menu-24560124?u=76281980&t=169)** And a conversation refers to communications between two endpoints.
 >
@@ -758,7 +751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (12), [[Wireshark]] (3), traffic (2), dns (2), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (12), [[Wireshark]] (3), [[IoT]] (1)
 > **Env Vars:** udp (2), dhcp (2), dns (2), tcp (1), ldap (1)
 > **Analogies:** for example (5), such as (2)
 > **CLI Commands:** find (2)
@@ -767,12 +760,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980)
+#### [Using graphs](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=0)** - [Instructor] Wireshark has several graphs that can visually show the traffic patterns.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=0)** - [Instructor] [[Wireshark]] has several graphs that can visually show the traffic patterns.
 >
 > **[0:06](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=6)** In this segment, we'll review flow graphs, I/O graphs, and TCP stream graphs to improve your troubleshooting skills.
 >
@@ -784,7 +776,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=46)** To demonstrate this graph, we'll use small flows.
 >
-> **[0:49](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=49)** And to start, we'll go to Statistics and then Flow Graph.
+> **[0:49](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=49)** And to start, we'll go to [[Statistics]] and then Flow Graph.
 >
 > **[0:55](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=55)** Now, depending on the size of your capture, it might take a few seconds to load.
 >
@@ -822,7 +814,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=148)** For example, I might change it to a diamond.
 >
-> **[2:32](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=152)** And then you can just zoom in.
+> **[2:32](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=152)** And then you can just [[Zoom]] in.
 >
 > **[2:33](https://www.linkedin.com/learning/wireshark-functionality/using-graphs?u=76281980&t=153)** And again, it provides a nice way to visualize the ratio of the traffic within that capture.
 >
@@ -886,7 +878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), [[Wireshark]] (3), [[Troubleshooting]] (3), [[Statistics]] (3), [[Zoom]] (3)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Statistics]] (3), [[Zoom]] (3)
 > **Env Vars:** tcp (13), icmp (2)
 > **Analogies:** for example (5)
 > **UI Navigation:** go to (3)
@@ -895,12 +887,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Additional menu choices
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980)
+#### [Additional menu choices](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=1)** - [Instructor] In addition to the more commonly accessed menu items such as File, Edit, View, and Statistics, there are additional menu choices.
+> **[0:01](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=1)** - [Instructor] In addition to the more commonly accessed menu items such as File, Edit, View, and [[Statistics]], there are additional menu choices.
 >
 > **[0:10](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=10)** Let's take a look.
 >
@@ -922,7 +913,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=51)** For example, if we select Options, that'll take us to the dialog box where we can look at input, output, and other options.
 >
-> **[1:01](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=61)** We also see the blue fin here, which again, you see on the tool bar as a shortcut, you can also set up your capture filter, and every once in a while, you may have to refresh your interfaces so that Wireshark can recognize them.
+> **[1:01](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=61)** We also see the blue fin here, which again, you see on the tool bar as a shortcut, you can also set up your capture filter, and every once in a while, you may have to refresh your interfaces so that [[Wireshark]] can recognize them.
 >
 > **[1:16](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=76)** Analyze has a number of different features allowing you to analyze traffic.
 >
@@ -972,7 +963,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=241)** Now, as you can see, there are many choices down below.
 >
-> **[4:05](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=245)** We can use Cisco IOS, IPfilter, Netfilter, Windows Firewall, and some others.
+> **[4:05](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=245)** We can use Cisco IOS, IPfilter, Netfilter, [[Windows]] Firewall, and some others.
 >
 > **[4:13](https://www.linkedin.com/learning/wireshark-functionality/additional-menu-choices-14517308?u=76281980&t=253)** Here, you can select Inbound or Deny, and you can copy those when you're building your access control list, and I'll close that.
 >
@@ -982,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (5), traffic (4), [[Statistics]] (1), [[Security]] (1), functional (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), [[Statistics]] (1), [[Windows]] (1)
 > **Env Vars:** tcp (1), udp (1), http (1), wlan (1), acl (1)
 > **Analogies:** for example (4), such as (2)
 > **UI Navigation:** go to (4), right-click (1)
@@ -990,16 +981,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the Telephony menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/exploring-the-telephony-menu?u=76281980)
+#### [Exploring the Telephony menu](https://www.linkedin.com/learning/wireshark-functionality/exploring-the-telephony-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/wireshark-functionality/exploring-the-telephony-menu?u=76281980&t=1)** - [Instructor] Wireshark provides a wide range of voiceover IP tools that we can access in the Telephony menu.
+> **[0:01](https://www.linkedin.com/learning/wireshark-functionality/exploring-the-telephony-menu?u=76281980&t=1)** - [Instructor] [[Wireshark]] provides a wide range of voiceover IP tools that we can access in the Telephony menu.
 >
 > **[0:08](https://www.linkedin.com/learning/wireshark-functionality/exploring-the-telephony-menu?u=76281980&t=8)** I'll drop this down so you can see all of the choices.
 >
-> **[0:11](https://www.linkedin.com/learning/wireshark-functionality/exploring-the-telephony-menu?u=76281980&t=11)** Now, those statistics range from specific signaling protocols to analysis of signaling and media flows.
+> **[0:11](https://www.linkedin.com/learning/wireshark-functionality/exploring-the-telephony-menu?u=76281980&t=11)** Now, those [[Statistics]] range from specific signaling protocols to analysis of signaling and media flows.
 >
 > **[0:19](https://www.linkedin.com/learning/wireshark-functionality/exploring-the-telephony-menu?u=76281980&t=19)** Now, in most cases, the media flow can be played.
 >
@@ -1141,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (5), [[Statistics]] (5), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), [[Statistics]] (5)
 > **Env Vars:** sip (6)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (2)
@@ -1155,12 +1145,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Capture options
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980)
+#### [Capture options](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980&t=0)** - [Instructor] When capturing traffic with Wireshark, most of us are familiar with this interface, where we would go down below and select which interface we would like to begin a capture with.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980&t=0)** - [Instructor] When capturing traffic with [[Wireshark]], most of us are familiar with this interface, where we would go down below and select which interface we would like to begin a capture with.
 >
 > **[0:12](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980&t=12)** And we could even put in a capture filter.
 >
@@ -1214,7 +1203,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980&t=137)** Now, when we look at the Display Options, we'll keep those the same.
 >
-> **[2:21](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980&t=141)** Update the list of packets in real-time, and automatically scroll during live capture.
+> **[2:21](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980&t=141)** Update the list of packets in [[Real-Time]], and automatically scroll during live capture.
 >
 > **[2:27](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980&t=147)** The Name Resolution we'll keep the same as well.
 >
@@ -1288,7 +1277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Wireshark]] (2), traffic (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Real-Time]] (1)
 > **UI Navigation:** go to (5)
 > **Ports:** :32 (2), :10 (1)
 > **CLI Commands:** make (2)
@@ -1296,12 +1285,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a ring buffer
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/use-a-ring-buffer?u=76281980)
+#### [Use a ring buffer](https://www.linkedin.com/learning/wireshark-functionality/use-a-ring-buffer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/use-a-ring-buffer?u=76281980&t=0)** - [Instructor] We know in Wireshark there are various capture options including saving to a ring buffer.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/use-a-ring-buffer?u=76281980&t=0)** - [Instructor] We know in [[Wireshark]] there are various capture options including saving to a ring buffer.
 >
 > **[0:06](https://www.linkedin.com/learning/wireshark-functionality/use-a-ring-buffer?u=76281980&t=6)** Let's do that.
 >
@@ -1373,15 +1361,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), traffic (2), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **Env Vars:** vss (6), pcap (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Ring buffer with coloring rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/challenge-ring-buffer-with-coloring-rules?u=76281980)
+#### [Challenge: Ring buffer with coloring rules](https://www.linkedin.com/learning/wireshark-functionality/challenge-ring-buffer-with-coloring-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1391,7 +1378,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/wireshark-functionality/challenge-ring-buffer-with-coloring-rules?u=76281980&t=7)** In this challenge, we'll use a Ring Buffer with Coloring Rules to capture and examine network traffic more efficiently.
 >
-> **[0:16](https://www.linkedin.com/learning/wireshark-functionality/challenge-ring-buffer-with-coloring-rules?u=76281980&t=16)** For this challenge, we'll use multicast Domain Name System or mDNS.
+> **[0:16](https://www.linkedin.com/learning/wireshark-functionality/challenge-ring-buffer-with-coloring-rules?u=76281980&t=16)** For this challenge, we'll use multicast [[Domain Name System (DNS)|Domain Name System]] or mDNS.
 >
 > **[0:23](https://www.linkedin.com/learning/wireshark-functionality/challenge-ring-buffer-with-coloring-rules?u=76281980&t=23)** mDNS provides IP address resolution without using a DNS server.
 >
@@ -1409,7 +1396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Domain Name System (DNS)|Domain name system]] (1), dns (1), lan (1)
+> **Frameworks & Libraries:** [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (1), lan (1), mdns (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** mdns (2)
@@ -1417,8 +1404,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Ring buffer with coloring rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/solution-ring-buffer-with-coloring-rules?u=76281980)
+#### [Solution: Ring buffer with coloring rules](https://www.linkedin.com/learning/wireshark-functionality/solution-ring-buffer-with-coloring-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1464,7 +1450,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/wireshark-functionality/solution-ring-buffer-with-coloring-rules?u=76281980&t=132)** (keyboard clicks) And then I'll use the following name, mDNS.pcapng.
 >
-> **[2:21](https://www.linkedin.com/learning/wireshark-functionality/solution-ring-buffer-with-coloring-rules?u=76281980&t=141)** Now it's best to add the extension so that Wireshark will save it appropriately.
+> **[2:21](https://www.linkedin.com/learning/wireshark-functionality/solution-ring-buffer-with-coloring-rules?u=76281980&t=141)** Now it's best to add the extension so that [[Wireshark]] will save it appropriately.
 >
 > **[2:27](https://www.linkedin.com/learning/wireshark-functionality/solution-ring-buffer-with-coloring-rules?u=76281980&t=147)** And I will say, Save.
 >
@@ -1510,7 +1496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Wireshark]] (2), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2)
 > **UI Navigation:** go to (5), select the (1), navigate to (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** mdns (1)
@@ -1519,12 +1505,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capture filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/capture-filters?u=76281980)
+#### [Capture filters](https://www.linkedin.com/learning/wireshark-functionality/capture-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/capture-filters?u=76281980&t=0)** - [Instructor] There are times when working with Wireshark that you want to capture just a certain type of traffic, and this can be achieved by using a capture filter.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/capture-filters?u=76281980&t=0)** - [Instructor] There are times when working with [[Wireshark]] that you want to capture just a certain type of traffic, and this can be achieved by using a capture filter.
 >
 > **[0:10](https://www.linkedin.com/learning/wireshark-functionality/capture-filters?u=76281980&t=10)** So, you can go down below here, and put your capture filter, or go to the menu choice, and then options, and there, again, you can see the capture filter, or we can go to the icon and select the capture filter.
 >
@@ -1606,7 +1591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (5), traffic (4)
+> **Frameworks & Libraries:** [[Wireshark]] (5)
 > **UI Navigation:** go to (4), select the (1)
 > **Env Vars:** icmp (3)
 > **CLI Commands:** find (1), make (1)
@@ -1614,12 +1599,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/display-filters?u=76281980)
+#### [Display filters](https://www.linkedin.com/learning/wireshark-functionality/display-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/display-filters?u=76281980&t=0)** - [Instructor] While working with Wireshark, many of us are familiar with the display filter which is found right up here.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/display-filters?u=76281980&t=0)** - [Instructor] While working with [[Wireshark]], many of us are familiar with the display filter which is found right up here.
 >
 > **[0:08](https://www.linkedin.com/learning/wireshark-functionality/display-filters?u=76281980&t=8)** You can use a display filter while the capture is active or apply a filter to capture it once the file has been created.
 >
@@ -1641,7 +1625,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/wireshark-functionality/display-filters?u=76281980&t=68)** Let's just see how much traffic there is.
 >
-> **[1:10](https://www.linkedin.com/learning/wireshark-functionality/display-filters?u=76281980&t=70)** I'll got to Statistics and Protocol Hierarchy.
+> **[1:10](https://www.linkedin.com/learning/wireshark-functionality/display-filters?u=76281980&t=70)** I'll got to [[Statistics]] and Protocol Hierarchy.
 >
 > **[1:14](https://www.linkedin.com/learning/wireshark-functionality/display-filters?u=76281980&t=74)** And here we see SSDP at 20%.
 >
@@ -1677,19 +1661,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), [[Wireshark]] (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Statistics]] (1)
 > **Env Vars:** ssdp (7), tcp (1), udp (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Find packets
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/find-packets?u=76281980)
+#### [Find packets](https://www.linkedin.com/learning/wireshark-functionality/find-packets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/find-packets?u=76281980&t=0)** - [Instructor] When going through a packet capture in Wireshark, there are several ways to find objects in text.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/find-packets?u=76281980&t=0)** - [Instructor] When going through a packet capture in [[Wireshark]], there are several ways to find objects in text.
 >
 > **[0:07](https://www.linkedin.com/learning/wireshark-functionality/find-packets?u=76281980&t=7)** Let's take a look.
 >
@@ -1747,7 +1730,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/wireshark-functionality/find-packets?u=76281980&t=195)** And I'm looking and it's still gonna try to find it, it won't be able to, so when it can't find something, it lets you know.
 >
-> **[3:22](https://www.linkedin.com/learning/wireshark-functionality/find-packets?u=76281980&t=202)** Now, how you search, if you go to the top, I usually just like you would a Word document, go up to the top and begin your search.
+> **[3:22](https://www.linkedin.com/learning/wireshark-functionality/find-packets?u=76281980&t=202)** Now, how you search, if you go to the top, I usually just like you would a [[Microsoft Word|Word]] document, go up to the top and begin your search.
 >
 > **[3:29](https://www.linkedin.com/learning/wireshark-functionality/find-packets?u=76281980&t=209)** When it reaches the end, it will go back through but just to be safe, pull it all the way up to the top.
 >
@@ -1763,15 +1746,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Wireshark]] (2), [[Security]] (1), [[Microsoft Word|Word]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (16)
 > **Env Vars:** utf (2), png (2), asci (1), http (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mark packets
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/mark-packets?u=76281980)
+#### [Mark packets](https://www.linkedin.com/learning/wireshark-functionality/mark-packets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1783,7 +1765,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/wireshark-functionality/mark-packets?u=76281980&t=32)** Over here on the right hand side, you see some commands.
 >
-> **[0:37](https://www.linkedin.com/learning/wireshark-functionality/mark-packets?u=76281980&t=37)** These are called accelerators and for those folks that like to use the keyboard, these options are mostly available in Wireshark.
+> **[0:37](https://www.linkedin.com/learning/wireshark-functionality/mark-packets?u=76281980&t=37)** These are called accelerators and for those folks that like to use the keyboard, these options are mostly available in [[Wireshark]].
 >
 > **[0:45](https://www.linkedin.com/learning/wireshark-functionality/mark-packets?u=76281980&t=45)** There's also the option if I right click, you can see mark or unmark packet.
 >
@@ -1861,7 +1843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Wireshark]] (2), feature (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2)
 > **UI Navigation:** go to (11)
 > **CLI Commands:** find (6)
 > **Prerequisites:** setup (1), set up (1)
@@ -1869,12 +1851,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Fine-tune columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/fine-tune-columns?u=76281980)
+#### [Fine-tune columns](https://www.linkedin.com/learning/wireshark-functionality/fine-tune-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/fine-tune-columns?u=76281980&t=0)** - [Instructor] When working with Wireshark, we can customize the interface by fine-tuning the columns.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/fine-tune-columns?u=76281980&t=0)** - [Instructor] When working with [[Wireshark]], we can customize the interface by fine-tuning the columns.
 >
 > **[0:06](https://www.linkedin.com/learning/wireshark-functionality/fine-tune-columns?u=76281980&t=6)** Now the columns ride upon the top of the packet list, and a lot of you are familiar with those column values.
 >
@@ -1946,7 +1927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** for example (2), just like (1)
 > **Env Vars:** tcp (1)
@@ -1958,12 +1939,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File and packet comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980)
+#### [File and packet comments](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980&t=0)** - [Instructor] When you're working with trace files, you may have the need to add a comment, either to a single frame, or to the entire capture, and we can do that in Wireshark.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980&t=0)** - [Instructor] When you're working with trace files, you may have the need to add a comment, either to a single frame, or to the entire capture, and we can do that in [[Wireshark]].
 >
 > **[0:12](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980&t=12)** Now, during the course of your day, you might go through and, say, baseline certain subnetworks.
 >
@@ -2035,7 +2015,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980&t=184)** And now I can actually do one more thing, we can add comments to the entire capture.
 >
-> **[3:11](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980&t=191)** Now we'll go into statistics and capture file properties and down below you can see capture file comments.
+> **[3:11](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980&t=191)** Now we'll go into [[Statistics]] and capture file properties and down below you can see capture file comments.
 >
 > **[3:18](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980&t=198)** What I'm going to do is go here and just copy this information in the details and then we'll paste it in here.
 >
@@ -2071,7 +2051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Wireshark]] (1), [[Search]] (1), [[Statistics]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[Statistics]] (1)
 > **Ports:** port 44 (4)
 > **Env Vars:** pcap (2), tcp (1)
 > **UI Navigation:** go to (2)
@@ -2080,12 +2060,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuration profiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/configuration-profiles?u=76281980)
+#### [Configuration profiles](https://www.linkedin.com/learning/wireshark-functionality/configuration-profiles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/configuration-profiles?u=76281980&t=0)** - [Instructor] One of the things you can do to personalize the Wireshark interface is to create your own configuration profile.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/configuration-profiles?u=76281980&t=0)** - [Instructor] One of the things you can do to personalize the [[Wireshark]] interface is to create your own configuration profile.
 >
 > **[0:09](https://www.linkedin.com/learning/wireshark-functionality/configuration-profiles?u=76281980&t=9)** When you create your own configuration profile several elements are maintained and preserved for that profile.
 >
@@ -2169,8 +2148,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Appearance and layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/appearance-and-layout?u=76281980)
+#### [Appearance and layout](https://www.linkedin.com/learning/wireshark-functionality/appearance-and-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2244,7 +2222,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/wireshark-functionality/appearance-and-layout?u=76281980&t=170)** Now we'll go back into Preferences and I'm going to change it back to "Icons only".
 >
-> **[2:57](https://www.linkedin.com/learning/wireshark-functionality/appearance-and-layout?u=76281980&t=177)** Now what's really nice and somewhat of a powerful feature in Wireshark is the developers have added support for different languages.
+> **[2:57](https://www.linkedin.com/learning/wireshark-functionality/appearance-and-layout?u=76281980&t=177)** Now what's really nice and somewhat of a powerful feature in [[Wireshark]] is the developers have added support for different languages.
 >
 > **[3:05](https://www.linkedin.com/learning/wireshark-functionality/appearance-and-layout?u=76281980&t=185)** So what it defaults at is "Use the system setting", which when you're installing your operating system of course it says "What would you like as far as a language?"
 >
@@ -2310,18 +2288,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (2), [[Wireshark]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2)
 > **UI Navigation:** go to (4), checkbox (1)
 > **Cross-References:** go back to (4)
 > **Analogies:** for example (2)
 > **Speakers:** - when (1)
 
-#### Columns, font, and colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/columns-font-and-colors?u=76281980)
+#### [Columns, font, and colors](https://www.linkedin.com/learning/wireshark-functionality/columns-font-and-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/columns-font-and-colors?u=76281980&t=0)** - [Instructor] Wireshark allows us to personalize the interface even more by modifying the columns, the font and the colors.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/columns-font-and-colors?u=76281980&t=0)** - [Instructor] [[Wireshark]] allows us to personalize the interface even more by modifying the columns, the font and the colors.
 >
 > **[0:08](https://www.linkedin.com/learning/wireshark-functionality/columns-font-and-colors?u=76281980&t=8)** We'll go to Edit and Preferences.
 >
@@ -2357,7 +2334,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/wireshark-functionality/columns-font-and-colors?u=76281980&t=101)** And when demonstrating, I want the font to be nice and large.
 >
-> **[1:44](https://www.linkedin.com/learning/wireshark-functionality/columns-font-and-colors?u=76281980&t=104)** And we can zoom in of course, but it's nice to preset this.
+> **[1:44](https://www.linkedin.com/learning/wireshark-functionality/columns-font-and-colors?u=76281980&t=104)** And we can [[Zoom]] in of course, but it's nice to preset this.
 >
 > **[1:48](https://www.linkedin.com/learning/wireshark-functionality/columns-font-and-colors?u=76281980&t=108)** But I can drop it back down.
 >
@@ -2411,7 +2388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (2), hit (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** tcp (1)
@@ -2419,12 +2396,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Name resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/name-resolution?u=76281980)
+#### [Name resolution](https://www.linkedin.com/learning/wireshark-functionality/name-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/name-resolution?u=76281980&t=0)** - [Instructor] When working with trace files, we have a choice in how we want Wireshark, to deal with Name Resolution.
+> **[0:00](https://www.linkedin.com/learning/wireshark-functionality/name-resolution?u=76281980&t=0)** - [Instructor] When working with trace files, we have a choice in how we want [[Wireshark]], to deal with Name Resolution.
 >
 > **[0:08](https://www.linkedin.com/learning/wireshark-functionality/name-resolution?u=76281980&t=8)** Now we go up to Capture, and then look at options.
 >
@@ -2478,7 +2454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), [[Wireshark]] (4), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4)
 > **Env Vars:** mac (5), dns (5), dns_name (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Versions:** 6.1 (1), 23.2 (1)
@@ -2486,8 +2462,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a button
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/challenge-create-a-button?u=76281980)
+#### [Challenge: Create a button](https://www.linkedin.com/learning/wireshark-functionality/challenge-create-a-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2503,9 +2478,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/wireshark-functionality/challenge-create-a-button?u=76281980&t=34)** Another one is the All Join Notification Service.
 >
-> **[0:38](https://www.linkedin.com/learning/wireshark-functionality/challenge-create-a-button?u=76281980&t=38)** Now, this enables communication between IoT devices.
+> **[0:38](https://www.linkedin.com/learning/wireshark-functionality/challenge-create-a-button?u=76281980&t=38)** Now, this enables communication between [[IoT]] devices.
 >
-> **[0:43](https://www.linkedin.com/learning/wireshark-functionality/challenge-create-a-button?u=76281980&t=43)** And Multicast Domain Name System provides IP address resolution without using a DNS server.
+> **[0:43](https://www.linkedin.com/learning/wireshark-functionality/challenge-create-a-button?u=76281980&t=43)** And Multicast [[Domain Name System (DNS)|Domain Name System]] provides IP address resolution without using a DNS server.
 >
 > **[0:52](https://www.linkedin.com/learning/wireshark-functionality/challenge-create-a-button?u=76281980&t=52)** And it's commonly used by devices on a LAN to find and communicate with other devices that are using plug and play capabilities.
 >
@@ -2533,7 +2508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (1), [[Domain Name System (DNS)|Domain name system]] (1), dns (1), lan (1)
+> **Frameworks & Libraries:** [[IoT]] (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** dns (1), lan (1)
 > **UI Navigation:** select the (1), open the (1)
@@ -2541,8 +2516,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a button
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/solution-create-a-button?u=76281980)
+#### [Solution: Create a button](https://www.linkedin.com/learning/wireshark-functionality/solution-create-a-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2579,14 +2553,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980&t=0)** - [Instructor] Thank you for watching.
 >
-> **[0:02](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980&t=2)** In this course, we took a look at the ways you can optimize your ability to navigate through Wireshark.
+> **[0:02](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980&t=2)** In this course, we took a look at the ways you can optimize your ability to navigate through [[Wireshark]].
 >
 > **[0:10](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980&t=10)** I first began with a more detailed look at the menu choices and toolbars.
 >
@@ -2596,7 +2569,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980&t=31)** If you're interested in learning more, please check out the IT and security segment of the library, where we add courses all the time.
 >
-> **[0:40](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980&t=40)** To learn about IoT vulnerabilities, privacy concerns, and attacks, take a look at Securing the IoT: Privacy.
+> **[0:40](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980&t=40)** To learn about [[IoT]] vulnerabilities, [[Privacy]] concerns, and attacks, take a look at Securing the IoT: Privacy.
 >
 > **[0:50](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980&t=50)** You might wanna take a look at any course in the CCNA Security Series, and it's well worth your time to check out Wireshark:Malware and Forensics.
 >
@@ -2606,7 +2579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4), [[Security]] (2), [[IoT]] (2), [[Privacy]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[IoT]] (2), [[Privacy]] (2)
 > **Env Vars:** ccna (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)

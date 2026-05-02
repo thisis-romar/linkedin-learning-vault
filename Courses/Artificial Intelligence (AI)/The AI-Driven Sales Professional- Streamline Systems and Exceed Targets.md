@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How AI is transforming sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/how-ai-is-transforming-sales?u=76281980)
+#### [How AI is transforming sales](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/how-ai-is-transforming-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,7 +87,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), teams (1), hit (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - a (1)
@@ -98,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What AI can (and cannot) replace in sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/what-ai-can-and-cannot-replace-in-sales?u=76281980)
+#### [What AI can (and cannot) replace in sales](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/what-ai-can-and-cannot-replace-in-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +198,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), prompt (3), business (2), chatbot (1), leadership (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Code Identifiers:** esignatures (1)
@@ -209,13 +205,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
 > **Warnings:** caution (1)
+> **Speakers:** - [instructor] (1)
 
-#### Use AI in lead generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980)
+#### [Use AI in lead generation](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=0)** - [Instructor] Successful lead generation reaches the right person with the right message.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=0)** - [Instructor] Successful [[Lead Generation]] reaches the right person with the right message.
 >
 > **[0:05](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=5)** Let's start with finding the right person.
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=100)** With an ideal customer in place, you're better able to target your outreach.
 >
-> **[1:45](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=105)** LinkedIn Sales Navigator calls this your IPC, your ideal customer profile.
+> **[1:45](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=105)** [[LinkedIn]] Sales Navigator calls this your IPC, your ideal customer profile.
 >
 > **[1:52](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=112)** Your organization may use LinkedIn or something like Kaspr or HubSpot to support you in identifying leads that fit those attributes.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=221)** Here's a recap of how you can leverage AI in lead generation.
 >
-> **[3:47](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=227)** Zoom in on your target customer.
+> **[3:47](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=227)** [[Zoom]] in on your target customer.
 >
 > **[3:50](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/use-ai-in-lead-generation?u=76281980&t=230)** Use AI to pull from existing data to identify key themes, shared attributes.
 >
@@ -313,15 +309,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (4), [[Lead Generation]] (3), prompt (3), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Lead Generation]] (3), [[LinkedIn]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** clv (2), ipc (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Efficient and effective pre-call planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980)
+#### [Efficient and effective pre-call planning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=10)** Uncovering key information enables you to take your first call from a one-way information dump to a robust discussion that builds urgency in your value.
 >
-> **[0:20](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=20)** Now, a typical pre-call planning prompt would be something like, "I sell office furniture.
+> **[0:20](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=20)** Now, a typical pre-call planning prompt would be something like, "I sell [[Microsoft Office|office]] furniture.
 >
 > **[0:27](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=27)** What questions should I ask an office manager in a prospecting call?"
 >
@@ -339,7 +334,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=35)** and, ""hat feels outdated or limiting?"
 >
-> **[0:38](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=38)** ChatGPT also suggests, "Are there any upcoming changes to your space, like expansion, hybrid schedules or renovations that you're planning for?"
+> **[0:38](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=38)** [[ChatGPT]] also suggests, "Are there any upcoming changes to your space, like expansion, hybrid schedules or renovations that you're planning for?"
 >
 > **[0:45](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=45)** That's pretty good, but it's focused on the seller and their solution.
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=65)** Use a prompt like, "Research and summarize recent strategic initiatives, announcements or priorities from, company name.
 >
-> **[1:14](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=74)** Focus on developments within the past 12 to 18 months that may reveal operational goals, leadership focus, digital transformation efforts or organizational shifts.
+> **[1:14](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=74)** Focus on developments within the past 12 to 18 months that may reveal operational goals, leadership focus, [[Digital Transformation]] efforts or organizational shifts.
 >
 > **[1:23](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/efficient-and-effective-pre-call-planning?u=76281980&t=83)** Present three to five concise bullet points that would be useful for preparing a sales call, with an emphasis on opportunities for alignment, your solution."
 >
@@ -401,19 +396,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), leadership (3), ai (3), [[Microsoft Office|Office]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[ChatGPT]] (1), [[Digital Transformation]] (1)
 > **Env Vars:** ceo (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build authentic relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980)
+#### [Build authentic relationships](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=0)** - [Instructor] Using AI to build more authentic relationships can feel like a contradictory goal.
 >
-> **[0:06](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=6)** That's because too often, business development bots are overwhelming everyone's inboxes with poorly targeted outreach and generic follow-ups.
+> **[0:06](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=6)** That's because too often, [[Business Development]] bots are overwhelming everyone's inboxes with poorly targeted outreach and generic follow-ups.
 >
 > **[0:15](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=15)** Authentic relationships are the holy grail of sales, so let's talk about some of the common AI fails that remove authenticity from relationships, how you can avoid them, and some tips for bringing your human self to the fore of customer relationships when using this technology.
 >
@@ -441,7 +435,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=108)** The third fail is not pulse checking.
 >
-> **[1:51](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=111)** Thinking that you know all you need to know because ChatGPT made a summary about your customer will cost you.
+> **[1:51](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=111)** Thinking that you know all you need to know because [[ChatGPT]] made a summary about your customer will cost you.
 >
 > **[1:58](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=118)** AI is not a permission to skip discovery.
 >
@@ -459,7 +453,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=154)** First, use AI to keep your finger on the pulse of your customer's business.
 >
-> **[2:39](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=159)** The most straightforward way to do this is setting up a Google Alert and getting an email every day about key customers in the news.
+> **[2:39](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=159)** The most straightforward way to do this is setting up a [[Google]] Alert and getting an email every day about key customers in the news.
 >
 > **[2:46](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/build-authentic-relationships?u=76281980&t=166)** Do not be caught off guard by major developments like layoffs, mergers, and industry disruptions.
 >
@@ -495,13 +489,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (2), [[Business Development]] (1), generic (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Business Development]] (1), [[ChatGPT]] (1), [[Google]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** tmt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stand out from competitors
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980)
+#### [Stand out from competitors](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,11 +526,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=95)** Lastly, you can use AI to amplify your current differentiation.
 >
-> **[1:40](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=100)** For example, let's say you're selling some type of cybersecurity solution.
+> **[1:40](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=100)** For example, let's say you're selling some type of [[Cybersecurity]] solution.
 >
 > **[1:44](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=104)** You sell into accounting firms.
 >
-> **[1:46](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=106)** The side-by-side with your competitor indicates that you're more expensive, but offer a more robust customer support.
+> **[1:46](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=106)** The side-by-side with your competitor indicates that you're more expensive, but offer a more robust [[Customer Support]].
 >
 > **[1:53](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=113)** Use a prompt like this to make that selling point more robust.
 >
@@ -555,7 +548,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=151)** In a field where breaches can delay audits, filings or client access, fast support isn't just a perk, it's a critical layer of protection and ties service speed to compliance pressure.
 >
-> **[2:44](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=164)** Accounting firms face tight regulatory windows and a fast response reduces stress in time-sensitive situations.
+> **[2:44](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=164)** Accounting firms face tight regulatory [[Windows]] and a fast response reduces stress in time-sensitive situations.
 >
 > **[2:53](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/stand-out-from-competitors?u=76281980&t=173)** This enables you to go beyond, "We offer more support."
 >
@@ -587,7 +580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), business (2), [[Cybersecurity]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Customer Support]] (1), [[Windows]] (1)
 > **Cross-References:** in the last (1), we talked about (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -595,12 +588,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Craft presentations and proposals
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980)
+#### [Craft presentations and proposals](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=0)** - [Instructor] If you've used AI to zoom in on quality leads, jumpstart thoughtful outreach and have informed conversations, you're hopefully getting to the presentation and proposal phase of your sales process.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=0)** - [Instructor] If you've used AI to [[Zoom]] in on quality leads, jumpstart thoughtful outreach and have informed conversations, you're hopefully getting to the presentation and proposal phase of your sales process.
 >
 > **[0:13](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=13)** So let's talk about using the customer intelligence you've gathered throughout the process to make your proposal irresistible.
 >
@@ -612,7 +604,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=45)** It shows this presentation is about you, the customer, and your goals, not just my stuff.
 >
-> **[0:51](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=51)** Some platforms like LinkedIn Sales Navigator and Salesforce Einstein have features that synthesize your call notes and pull out themes.
+> **[0:51](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=51)** Some platforms like [[LinkedIn]] Sales Navigator and Salesforce Einstein have features that synthesize your call notes and pull out themes.
 >
 > **[1:00](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=60)** You can also do this by uploading your call notes if your organization allows it, and using a prompt like, "Analyze the following call notes.
 >
@@ -670,9 +662,9 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=229)** Lastly, use AI to polish and style your proposal.
 >
-> **[3:52](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=232)** Tools like Grammarly, an AI-powered writing assistant, can find subtle typos or grammatical errors and make suggestions for stronger word choice.
+> **[3:52](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=232)** Tools like Grammarly, an AI-powered writing assistant, can find subtle typos or grammatical errors and make suggestions for stronger [[Microsoft Word|word]] choice.
 >
-> **[4:01](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=241)** Microsoft Copilot or Canva can help you style your content without losing your mind trying to align graphics.
+> **[4:01](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=241)** [[Microsoft Copilot]] or [[Canva]] can help you style your content without losing your mind trying to align graphics.
 >
 > **[4:09](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/craft-presentations-and-proposals?u=76281980&t=249)** If you find yourself deep in the weeds on formatting, use AI to get yourself out.
 >
@@ -680,13 +672,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), prompt (3), business (2), [[Zoom]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Copilot]] (1), [[Canva]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Turn rejections into relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/turn-rejections-into-relationships?u=76281980)
+#### [Turn rejections into relationships](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/turn-rejections-into-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -706,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/turn-rejections-into-relationships?u=76281980&t=31)** Subtle cues that there isn't enough urgency, or your buyer doesn't see the value.
 >
-> **[0:36](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/turn-rejections-into-relationships?u=76281980&t=36)** You can use a tool like UserVoice to do this, or you can dump your customer communications into ChatGPT if your organization allows it, and use a prompt like this.
+> **[0:36](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/turn-rejections-into-relationships?u=76281980&t=36)** You can use a tool like UserVoice to do this, or you can dump your customer communications into [[ChatGPT]] if your organization allows it, and use a prompt like this.
 >
 > **[0:47](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/turn-rejections-into-relationships?u=76281980&t=47)** You are a sales strategist trained in conversation analysis.
 >
@@ -744,31 +735,30 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/turn-rejections-into-relationships?u=76281980&t=170)** AI can help you determine which of those messages is the most effective at re-engaging a lost deal.
 >
-> **[2:58](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/turn-rejections-into-relationships?u=76281980&t=178)** An initial rejection does not give you permission to ghost an otherwise viable prospect, and it certainly doesn't give you permission to just follow up with them with no value for the rest of eternity.
+> **[2:58](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/turn-rejections-into-relationships?u=76281980&t=178)** An initial rejection does not give you permission to ghost an otherwise viable prospect, and it certainly doesn't give you permission to just follow up with them with no value for the [[Representational State Transfer (REST)|rest]] of eternity.
 >
 > **[3:11](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/turn-rejections-into-relationships?u=76281980&t=191)** Use these tools to make your outreach timely, valuable, and effective.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), next (2), [[ChatGPT]] (1), prompt (1), generic (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** crm (1), cta (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risks of using AI in sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980)
+#### [Risks of using AI in sales](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=0)** - [Instructor] We've talked about the exciting ways you can leverage AI to increase your sales effectiveness.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=0)** - [Instructor] We've talked about the exciting ways you can leverage AI to increase your [[Sales Effectiveness]].
 >
 > **[0:05](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=5)** Now, let's talk about some of the risks to consider as you go forward.
 >
 > **[0:09](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=9)** There are three big ones.
 >
-> **[0:12](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=12)** First, generative AI generally has a product orientation, not a customer orientation.
+> **[0:12](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=12)** First, [[Generative AI]] generally has a product orientation, not a customer orientation.
 >
 > **[0:19](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=19)** It's great at identify key features of my product, and less skilled at uncover my customer's key metrics.
 >
@@ -786,7 +776,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=68)** It's focused on completing the task you give it, answering your prompt.
 >
-> **[1:13](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=73)** It's not great at strategic thinking.
+> **[1:13](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=73)** It's not great at [[Strategic Thinking]].
 >
 > **[1:16](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=76)** For example, AI can suggest a follow-up question based on a customer email, but the question is usually one that goes deeper into the topic.
 >
@@ -802,7 +792,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=119)** Outputs from AI are determined by what you put in, and where the output is effective is determined by what you do with it.
 >
-> **[2:08](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=128)** I recently got this LinkedIn message.
+> **[2:08](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=128)** I recently got this [[LinkedIn]] message.
 >
 > **[2:10](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=130)** Hey Lisa, I don't know about you, but I'm ready for college football season to get here.
 >
@@ -812,7 +802,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=146)** But anyway, I would love to connect, talk some college football, and if you're up to it, I'd be happy to shed some light on how our team at... I really should call this company out, but I won't.
 >
-> **[2:39](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=159)** Advises on tax efficient financial planning, stock options 401k/IRA consolidating, and backdoor Roth IRA conversions.
+> **[2:39](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=159)** Advises on tax efficient [[Financial Planning]], stock options 401k/IRA consolidating, and backdoor Roth IRA conversions.
 >
 > **[2:47](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/risks-of-using-ai-in-sales?u=76281980&t=167)** Go, Bucks.
 >
@@ -834,23 +824,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), game (4), product (3), [[Financial Planning]] (2), [[Sales Effectiveness]] (1)
+> **Frameworks & Libraries:** [[Financial Planning]] (2), [[Sales Effectiveness]] (1), [[Generative AI]] (1), [[Strategic Thinking]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ira (2)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create thought leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980)
+#### [Create thought leadership](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=0)** - [Instructor] As the early stages of the sales process become more automated and transactions become easier, buyers are looking for sales professionals who can actually add expertise.
 >
-> **[0:11](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=11)** Thought leadership is a great way for you to differentiate yourself as a salesperson.
+> **[0:11](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=11)** [[Thought Leadership]] is a great way for you to differentiate yourself as a salesperson.
 >
 > **[0:17](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=17)** What do I mean by thought leadership?
 >
-> **[0:21](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=21)** It's the content you put out in the world beyond basic announcements and lead generation.
+> **[0:21](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=21)** It's the content you put out in the world beyond basic announcements and [[Lead Generation]].
 >
 > **[0:25](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=25)** Sharing expertise, insights, and innovative ideas is a way to stand out inside your organization and outside it.
 >
@@ -900,9 +889,9 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=152)** Most platforms have a way of vetting out AI content, and if you're perceived as a spammy bot, you'll run into problems.
 >
-> **[2:40](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=160)** Lastly, you can use AI to produce original content like articles, infographics, or video scripts.
+> **[2:40](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=160)** Lastly, you can use AI to produce original content like articles, [[Infographics]], or video scripts.
 >
-> **[2:47](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=167)** And while AI's jargon can be a little weird in the finished product, tools like ChatGPT can be great brainstorming partners.
+> **[2:47](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=167)** And while AI's jargon can be a little weird in the finished product, tools like [[ChatGPT]] can be great brainstorming partners.
 >
 > **[2:54](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/create-thought-leadership?u=76281980&t=174)** Instead of staring at an empty page and wondering what you should write, you can use a prompt like this to generate ideas: Create a list of compelling topics I could write or speak about that would establish credibility and spark conversation in, insert industry.
 >
@@ -926,14 +915,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Thought Leadership]] (5), prompt (3), [[Lead Generation]] (1), next (1)
+> **Frameworks & Libraries:** [[Thought Leadership]] (5), [[Lead Generation]] (1), [[Infographics]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (3)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upskill yourself
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980)
+#### [Upskill yourself](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,7 +935,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980&t=27)** AI can do that for you.
 >
-> **[0:30](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980&t=30)** You can role-play with a tool like ChatGPT and get personalized suggestions once you're finished.
+> **[0:30](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980&t=30)** You can role-play with a tool like [[ChatGPT]] and get personalized suggestions once you're finished.
 >
 > **[0:35](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980&t=35)** Try a prompt like this: "You are my personal sales coach.
 >
@@ -981,9 +969,9 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980&t=144)** The world is tired of spam, don't add to it.
 >
-> **[2:28](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980&t=148)** Generative AI is an opportunity to scale the unique human, customer-focused part of yourself, the part that wants to add value, to build relationships, and get better.
+> **[2:28](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980&t=148)** [[Generative AI]] is an opportunity to scale the unique human, customer-focused part of yourself, the part that wants to add value, to build relationships, and get better.
 >
-> **[2:40](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980&t=160)** Thank you for joining me on LinkedIn Learning.
+> **[2:40](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980&t=160)** Thank you for joining me on [[LinkedIn]] Learning.
 >
 > **[2:43](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/upskill-yourself?u=76281980&t=163)** As I said in my book "Selling with Noble Purpose," sales is a noble profession.
 >
@@ -993,7 +981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (2), prompt (2), next (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** imagine (1)

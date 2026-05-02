@@ -88,40 +88,38 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enhance the security of Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980)
+#### [Enhance the security of Azure](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=0)** - [Shyamraj] Did you know that over 90% of companies use cloud services as of last year, making cloud security more crucial than ever?
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=0)** - [Shyamraj] Did you know that over 90% of companies use [[Cloud Services]] as of last year, making [[Cloud Security]] more crucial than ever?
 >
 > **[0:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=8)** Organizations need security practitioners who can protect cloud assets from cyber threats.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=14)** In this course, I'll explain the tools and strategies you can deploy to secure your identities, network, and data in the Azure Cloud.
+> **[0:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=14)** In this course, I'll explain the tools and strategies you can deploy to secure your identities, network, and data in the [[Microsoft Azure|Azure]] Cloud.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=22)** Join me as I show you how to leverage tools like Microsoft Entra ID, Azure Firewall, DDoS Protection, and Defender for Cloud.
+> **[0:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=22)** Join me as I show you how to leverage tools like [[Microsoft Entra ID]], Azure Firewall, DDoS Protection, and [[Microsoft Defender|Defender]] for Cloud.
 >
 > **[0:31](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=31)** Hi, I'm Sham.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=33)** I'm a technical instructor and industry specialist in cloud computing, networking and security.
+> **[0:33](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=33)** I'm a technical instructor and industry specialist in [[Cloud Computing]], networking and security.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980&t=39)** If you're ready, let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Security]] (3), [[Microsoft Azure|Azure]] (2), data (1), [[Microsoft Entra ID]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Cloud Services]] (1), [[Cloud Security]] (1), [[Microsoft Entra ID]] (1), [[Microsoft Defender|Defender]] (1)
 > **Speakers:** - [shyamraj] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=0)** - [Narrator] In this course, we'll be using networking concepts such as IP addresses, ports, and routing, so a basic understanding of these concepts will be helpful.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=0)** - [Narrator] In this course, we'll be using networking concepts such as IP addresses, ports, and [[Routing]], so a basic understanding of these concepts will be helpful.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=10)** We'll also dive into the configuration of many Azure tools, so have an Azure account to follow along.
+> **[0:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=10)** We'll also dive into the configuration of many [[Microsoft Azure|Azure]] tools, so have an Azure account to follow along.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=16)** If you do not have an Azure account, you can sign up for a free account at azure.[microsoft.com](https://microsoft.com).
+> **[0:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=16)** If you do not have an Azure account, you can sign up for a free account at azure.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/what-you-need-to-know?u=76281980&t=22)** Azure offers a $200 credit for new accounts that you can use within 30 days.
 >
@@ -140,8 +138,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Azure security model
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980)
+#### [Azure security model](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,11 +150,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=20)** The servers powering their website are hosted in a traditional data center.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=25)** They're considering moving their servers and workloads to the Azure Cloud.
+> **[0:25](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=25)** They're considering moving their servers and workloads to the [[Microsoft Azure|Azure]] Cloud.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=29)** They've identified the following Azure services they plan to use.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=32)** Azure Virtual Machines for hosting their servers, Microsoft Entra ID as their identity management platform, Azure Web Apps to host their web application and mobile backends, Azure SQL Database to host their databases, and Azure Storage to store objects such as images and documents.
+> **[0:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=32)** Azure [[Virtual Machines]] for hosting their servers, [[Microsoft Entra ID]] as their identity management platform, Azure Web Apps to host their web application and mobile backends, Azure [[SQL]] Database to host their [[Databases]], and Azure Storage to store objects such as images and documents.
 >
 > **[0:50](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=50)** Before migrating, Harmony Homes would like to understand who is responsible for the security of these tools and services if they move to Azure.
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=65)** It differentiates security responsibilities based on the service type.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=69)** There are three cloud computing service types, IaaS, or infrastructure as a service, PaaS, or platform as a service, and SaaS, or software as a service.
+> **[1:09](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=69)** There are three [[Cloud Computing]] service types, [[IaaS]], or [[IaaS|infrastructure as a service]], [[PaaS]], or [[PaaS|platform as a service]], and [[SaaS]], or [[SaaS|software as a service]].
 >
 > **[1:19](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=79)** With IaaS, or infrastructure as a service, you request Azure to provision the infrastructure, such as virtual machines and networks.
 >
@@ -185,15 +182,15 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=125)** It allows you to host web applications without worrying about the underlying infrastructure, while still allowing you to control web application-related settings.
 >
-> **[2:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=134)** Unlike IaaS, when using a PaaS product, Azure takes care of the operating system and additional components, like database management systems and patching of the underlying servers.
+> **[2:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=134)** Unlike IaaS, when using a PaaS product, Azure takes care of the operating system and additional components, like [[Database Management]] systems and patching of the underlying servers.
 >
 > **[2:25](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=145)** Securing other components, like the network and applications, is a shared responsibility between Azure and the customer.
 >
 > **[2:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=152)** The third service type, SaaS, or software as a service, provides out-of-the-box complete software solutions that users connect to, typically using a web browser.
 >
-> **[2:43](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=163)** A popular SaaS product is Microsoft Office 365.
+> **[2:43](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=163)** A popular SaaS product is [[Microsoft Office]] 365.
 >
-> **[2:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=166)** It offers pre-built productivity tools, such as Word and PowerPoint.
+> **[2:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=166)** It offers pre-built productivity tools, such as [[Microsoft Word|Word]] and [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[2:51](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=171)** Azure manages everything required to provide the service when using a SaaS product.
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=194)** So you are responsible for securing the physical components, such as the network and hosts, and the logical components, such as the operating system and application controls.
 >
-> **[3:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=204)** You are also responsible for other components, such as identity and access management, devices, and data governance.
+> **[3:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=204)** You are also responsible for other components, such as identity and access management, devices, and [[Data Governance]].
 >
 > **[3:31](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=211)** With IaaS, the cloud provider, that is Azure, secures the physical data center.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=224)** With PaaS, Azure is also responsible for securing the underlying operating system on which the service is hosted.
 >
-> **[3:50](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=230)** For example, Azure will secure the underlying Windows operating system if you're using a managed SQL database instance running on Windows.
+> **[3:50](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=230)** For example, Azure will secure the underlying [[Windows]] operating system if you're using a managed SQL database instance running on Windows.
 >
 > **[3:58](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-security-model?u=76281980&t=238)** Securing the network and applications is a shared responsibility between Azure and you.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (27), cloud (11), [[Security]] (10), data (7), [[IaaS]] (6)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (27), [[IaaS]] (6), [[PaaS]] (6), [[SaaS]] (6), [[Virtual Machines]] (5)
 > **Analogies:** such as (11), for example (1)
 > **Env Vars:** sql (2), ssl (1), tls (1)
 > **Definitions:** is a  (4)
@@ -249,12 +246,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand authentication and authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980)
+#### [Understand authentication and authorization](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=0)** - [Instructor] Now let's talk about securing identities in the Azure platform.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=0)** - [Instructor] Now let's talk about securing identities in the [[Microsoft Azure|Azure]] platform.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=4)** First, what is an identity?
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=60)** For example, Alex is a customer of Bank of XYZ.
 >
-> **[1:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=64)** To access the banking functions, Alex must prove he's a customer.
+> **[1:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=64)** To access the [[Banking]] functions, Alex must prove he's a customer.
 >
 > **[1:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=68)** To do this, he logs in with his username and password.
 >
@@ -324,9 +320,9 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=158)** The application checks to see if the user has already been authenticated.
 >
-> **[2:42](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=162)** If the user isn't authenticated, the application redirects the user to a registered identity provider, let's say Microsoft Entra ID.
+> **[2:42](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=162)** If the user isn't authenticated, the application redirects the user to a registered identity provider, let's say [[Microsoft Entra ID]].
 >
-> **[2:50](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=170)** You can use enter Entra ID for authentication and authorization purposes.
+> **[2:50](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=170)** You can use enter [[Microsoft Entra ID|Entra ID]] for authentication and authorization purposes.
 >
 > **[2:55](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=175)** The user now authenticates to Entra ID.
 >
@@ -352,7 +348,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=228)** You may have seen this when accessing your emails.
 >
-> **[3:51](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=231)** After you authenticated to access your emails, you can access other cloud services from the same provider, such as storage, document editing, and photos without signing in again.
+> **[3:51](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=231)** After you authenticated to access your emails, you can access other [[Cloud Services]] from the same provider, such as storage, document editing, and photos without signing in again.
 >
 > **[4:01](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980&t=241)** That is single sign-on in action.
 >
@@ -360,7 +356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Microsoft Azure|Azure]] (3), [[Microsoft Entra ID|Entra id]] (3), cloud (2), [[Microsoft Entra ID]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Entra ID|Entra id]] (3), [[Microsoft Entra ID]] (2), [[Banking]] (1), [[Cloud Services]] (1)
 > **Definitions:** is a  (3), is an  (1), in other words (1)
 > **Env Vars:** mac (1), xyz (1), url (1), sso (1)
 > **Analogies:** such as (2), for example (1)
@@ -368,24 +364,23 @@ created: 2026-05-02
 > **Versions:** 2.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Microsoft Entra ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980)
+#### [Introduction to Microsoft Entra ID](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=0)** - [Instructor] Microsoft Entra ID is central to securing identities in the Azure Cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=0)** - [Instructor] [[Microsoft Entra ID]] is central to securing identities in the [[Microsoft Azure|Azure]] Cloud.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=5)** Entra ID is a cloud-based identity and access management service, previously known as Azure Active Directory, or Azure AD.
+> **[0:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=5)** [[Microsoft Entra ID|Entra ID]] is a cloud-based identity and access management service, previously known as [[Microsoft Entra ID|Azure Active Directory]], or [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:13](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=13)** You can use it to authenticate and authorize your users when they need to access resources in your on-premises environment and the Azure infrastructure.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=22)** At the onset, we should make it clear that Entra ID is not simply a cloud version of the traditional Windows Server Active Directory.
+> **[0:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=22)** At the onset, we should make it clear that Entra ID is not simply a cloud version of the traditional [[Windows Server]] [[Active Directory]].
 >
 > **[0:30](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=30)** More about this later in the video.
 >
 > **[0:33](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=33)** You can use Entra ID to regulate access to external and internal resources.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=38)** External resources include the Azure Portal, Microsoft Office 365, and other SaaS or software-as-a-service applications.
+> **[0:38](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=38)** External resources include the Azure Portal, [[Microsoft Office]] 365, and other [[SaaS]] or software-as-a-service applications.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=46)** Internal resources include applications on your corporate network and your intranet.
 >
@@ -411,13 +406,13 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=103)** You can also use Entra ID for device management.
 >
-> **[1:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=106)** You can manage how your users' devices access your corporate data using mobile device management, or MDM tools, provided by Microsoft or third parties.
+> **[1:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=106)** You can manage how your users' devices access your corporate data using mobile device management, or MDM tools, provided by [[Microsoft]] or third parties.
 >
 > **[1:56](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=116)** Entra ID also supports hybrid identity.
 >
 > **[1:59](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=119)** That is, a single identity for your on-premises and cloud-based users.
 >
-> **[2:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=123)** While we are talking about Entra ID, it's worth mentioning its predecessor, the Windows Active Directory.
+> **[2:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=123)** While we are talking about Entra ID, it's worth mentioning its predecessor, the [[Windows]] Active Directory.
 >
 > **[2:09](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=129)** The Windows Active Directory, or AD, as it is commonly known, lived on servers known as domain controllers, and had a registry of the organization's users and computers.
 >
@@ -433,7 +428,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=176)** Legacy applications continue to operate on-premises while new and modern applications are deployed in the cloud.
 >
-> **[3:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=183)** For such scenarios, Microsoft offers Entra Connect Sync and Entra Cloud Sync, which allow you to synchronize your users and groups from on-premises Windows Active Directory to Microsoft Entra ID.
+> **[3:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=183)** For such scenarios, Microsoft offers [[Microsoft Entra ID|Entra]] Connect Sync and Entra Cloud Sync, which allow you to synchronize your users and groups from on-premises Windows Active Directory to Microsoft Entra ID.
 >
 > **[3:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-microsoft-entra-id?u=76281980&t=196)** I recommend checking the documentation to know the specific differences between the two technologies.
 >
@@ -471,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (15), cloud (9), [[Microsoft Azure|Azure]] (6), management (5), [[Active Directory]] (5)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (15), [[Microsoft Azure|Azure]] (6), [[Active Directory]] (5), [[Windows]] (4), [[Microsoft Entra ID]] (2)
 > **Analogies:** such as (4), for example (2)
 > **Cross-References:** later in (2), we discussed (1), in the last (1)
 > **Env Vars:** mdm (1), ldap (1), ntlm (1)
@@ -480,14 +475,13 @@ created: 2026-05-02
 > **Tools:** azure portal (2)
 > **CLI Commands:** make (1)
 
-#### Configuring Microsoft Entra ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980)
+#### [Configuring Microsoft Entra ID](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=0)** - [Instructor] Now, let's see how to configure Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=0)** - [Instructor] Now, let's see how to configure [[Microsoft Entra ID]].
 >
-> **[0:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=4)** Because this course focuses mainly on networking and security in Azure, we'll examine the Entra ID configuration at a high level.
+> **[0:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=4)** Because this course focuses mainly on networking and security in [[Microsoft Azure|Azure]], we'll examine the [[Microsoft Entra ID|Entra ID]] configuration at a high level.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=11)** After logging into the Azure portal at portal.[azure.com](https://azure.com), search for the Entra ID service and click on the service name.
 >
@@ -525,7 +519,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=110)** To assign a role, click the role name, and then click add assignments and assign it to the required entity.
 >
-> **[1:59](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=119)** Back over here from the enterprise applications tab, you can add popular SaaS or software as a service applications to your subscription.
+> **[1:59](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=119)** Back over here from the enterprise applications tab, you can add popular [[SaaS]] or [[SaaS|software as a service]] applications to your subscription.
 >
 > **[2:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=128)** Start by clicking new application and then click an app name to create and configure it for your subscription.
 >
@@ -553,7 +547,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=203)** Cross tenant synchronization allows you to synchronize identities across multiple tenants of your organization.
 >
-> **[3:30](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=210)** With Microsoft Entra Connect, you can connect your on-premises Windows Active Directory with Microsoft Entra ID.
+> **[3:30](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=210)** With [[Microsoft]] [[Microsoft Entra ID|Entra]] Connect, you can connect your on-premises [[Windows]] [[Active Directory]] with Microsoft Entra ID.
 >
 > **[3:37](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configuring-microsoft-entra-id?u=76281980&t=217)** Doing so allows your users to have a single identity for both cloud and on-premises access.
 >
@@ -581,7 +575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (6), [[Microsoft Entra ID]] (4), [[Microsoft Entra ID|Entra id]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Entra ID]] (4), [[Microsoft Entra ID|Entra id]] (3), [[Microsoft]] (2), [[SaaS]] (1)
 > **Prerequisites:** configure (9), set up (1)
 > **Analogies:** such as (4), for example (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -590,18 +584,17 @@ created: 2026-05-02
 > **Env Vars:** rbac (1)
 > **Cross-References:** in the next (1)
 
-#### Role based access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980)
+#### [Role based access control](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=0)** - [Instructor] So we've seen how to configure users and groups in Azure, but how can we ensure that users have the right level of access?
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=0)** - [Instructor] So we've seen how to configure users and groups in [[Microsoft Azure|Azure]], but how can we ensure that users have the right level of access?
 >
 > **[0:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=8)** This involves accessing the necessary resources and having the correct permissions for them.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=13)** This concept is known as authorization, which we discussed in an earlier video.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=18)** Inadequate permissions prevent users from doing their jobs while excessive permissions are a security risk.
+> **[0:18](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=18)** Inadequate permissions prevent users from doing their jobs while excessive permissions are a [[Security Risk]].
 >
 > **[0:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=24)** Providing the right level of access is a critical security function.
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=39)** Here are some examples of what you can do with RBAC.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=42)** You can allow a user to view properties of virtual machines while allowing another user full access, including the ability to create and delete them.
+> **[0:42](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=42)** You can allow a user to view properties of [[Virtual Machines]] while allowing another user full access, including the ability to create and delete them.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=51)** You can allow a user to create and configure app service environments while allowing another user to reboot the environment.
 >
@@ -665,13 +658,13 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=178)** That is create virtual machines and app service environments.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=181)** A key distinction to be aware of is the difference between Azure roles and Microsoft Entra roles.
+> **[3:01](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=181)** A key distinction to be aware of is the difference between Azure roles and [[Microsoft]] [[Microsoft Entra ID|Entra]] roles.
 >
 > **[3:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=188)** In this video, we've been discussing Azure roles, which apply to resources in your Azure subscription.
 >
 > **[3:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=194)** This includes resources like virtual machines and storage accounts.
 >
-> **[3:18](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=198)** Azure roles don't grant permissions to manage objects in Entra ID, like users, groups, and domains.
+> **[3:18](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=198)** Azure roles don't grant permissions to manage objects in [[Microsoft Entra ID|Entra ID]], like users, groups, and domains.
 >
 > **[3:25](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/role-based-access-control?u=76281980&t=205)** Instead, they grant you permissions to manage objects in your Azure subscription.
 >
@@ -697,7 +690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Microsoft Entra ID|Entra]] (8), [[Security]] (5), [[Virtual Machines]] (4), [[Microsoft Entra ID|Entra id]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Microsoft Entra ID|Entra]] (8), [[Virtual Machines]] (4), [[Microsoft Entra ID|Entra id]] (3), [[Microsoft]] (2)
 > **Definitions:** is a  (4), known as (2), in other words (2), is an  (2)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** rbac (3)
@@ -706,18 +699,17 @@ created: 2026-05-02
 > **Tools:** azure portal (2)
 > **Warnings:** be aware (2)
 
-#### Configure RBAC
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980)
+#### [Configure RBAC](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=0)** - [Instructor] Now let's configure RBAC.
 >
-> **[0:02](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=2)** I'm logged into the Azure portal at portal.[azure.com](https://azure.com).
+> **[0:02](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=2)** I'm logged into the [[Microsoft Azure|Azure]] portal at portal.[azure.com](https://azure.com).
 >
-> **[0:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=6)** First, let's differentiate Entra role from Azure roles.
+> **[0:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=6)** First, let's differentiate [[Microsoft Entra ID|Entra]] role from Azure roles.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=10)** Start by opening the Entra ID service.
+> **[0:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=10)** Start by opening the [[Microsoft Entra ID|Entra ID]] service.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=13)** Under the managed section on the left navigation pane, click roles and administrators.
 >
@@ -737,7 +729,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=43)** They grant you permissions on Entra ID.
 >
-> **[0:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=46)** Note that these roles will not grant permissions on Azure resources such as virtual machines and storage accounts.
+> **[0:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=46)** Note that these roles will not grant permissions on Azure resources such as [[Virtual Machines]] and storage accounts.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=52)** Click on a role name to view assignments.
 >
@@ -795,7 +787,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=170)** To create this role, you have three choices.
 >
-> **[2:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=173)** You can clone an existing role, start from scratch, or create using JSON.
+> **[2:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=173)** You can clone an existing role, start from scratch, or create using [[JSON]].
 >
 > **[2:58](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-rbac?u=76281980&t=178)** We'll keep it simple.
 >
@@ -849,7 +841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Virtual Machines]] (7), next (5), [[Microsoft Entra ID|Entra]] (3), [[Microsoft Entra ID|Entra id]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Virtual Machines]] (7), [[Microsoft Entra ID|Entra]] (3), [[Microsoft Entra ID|Entra id]] (3), [[JSON]] (2)
 > **UI Navigation:** go to (4), select the (3), click on (1)
 > **Env Vars:** rbac (3), json (2), iam (1)
 > **Prerequisites:** configure (2), required to (1)
@@ -858,20 +850,19 @@ created: 2026-05-02
 > **Analogies:** such as (1), just like (1)
 > **URLs:** [azure.com](https://azure.com) (1)
 
-#### Conditional access
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980)
+#### [Conditional access](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=0)** - [Narrator] Many organizations today have employees working remotely, at client locations, coffee shops, or in their homes.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=8)** This makes security a challenge because the perimeter is no longer the corporate office.
+> **[0:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=8)** This makes security a challenge because the perimeter is no longer the corporate [[Microsoft Office|office]].
 >
 > **[0:13](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=13)** Administrators need to strike the right balance between security and productivity.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=17)** They need to ensure that users have proper access whenever and wherever they need it and organization's assets are protected.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=25)** Azure conditional access allows administrators to implement automated access control decisions based on signals.
+> **[0:25](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=25)** [[Microsoft Azure|Azure]] conditional access allows administrators to implement automated access control decisions based on signals.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=32)** Think of signals as conditions that need to be met to make a decision.
 >
@@ -919,7 +910,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=139)** Now, let's go to the Azure portal and see how to configure conditional access.
 >
-> **[2:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=144)** Once you're at the Azure portal, go to the Microsoft Entra ID service.
+> **[2:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=144)** Once you're at the Azure portal, go to the [[Microsoft Entra ID]] service.
 >
 > **[2:29](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=149)** Under the Manage section on the left navigation pane, scroll down and click Security.
 >
@@ -933,11 +924,11 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=170)** To create a conditional access policy, you must disable security defaults.
 >
-> **[2:54](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=174)** Security defaults protect against common attacks like phishing and password spray.
+> **[2:54](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=174)** Security defaults protect against common attacks like [[Phishing]] and password spray.
 >
 > **[2:59](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=179)** If security defaults are enabled on your account, you will be prompted to turn it off when you attempt to create a new policy.
 >
-> **[3:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=186)** Let's create a policy requiring users to use multifactor authentication when accessing SharePoint Online.
+> **[3:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=186)** Let's create a policy requiring users to use multifactor authentication when accessing [[SharePoint]] Online.
 >
 > **[3:13](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=193)** Start by naming your policy.
 >
@@ -967,7 +958,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=270)** These apply where there is a likelihood that the user account or sign-in session is compromised.
 >
-> **[4:35](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=275)** You can also apply insider risk or access from specific platforms such as Android, iOS, Windows, and others.
+> **[4:35](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=275)** You can also apply insider risk or access from specific platforms such as [[Android]], iOS, [[Windows]], and others.
 >
 > **[4:45](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=285)** You can also select access from specific locations or networks and access from specific client applications, like browsers and mobile applications.
 >
@@ -975,7 +966,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=299)** As you can see, you can be very granular when configuring the trigger conditions.
 >
-> **[5:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=304)** We won't need these conditions for our use case, which requires multi-factor authentication to access SharePoint Online.
+> **[5:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=304)** We won't need these conditions for our use case, which requires [[Multi-factor Authentication]] to access SharePoint Online.
 >
 > **[5:11](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=311)** Under Access Controls, you can block or grant access.
 >
@@ -983,9 +974,9 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=330)** If the user attempts to connect using a noncompliant device, conditional access will prompt them to bring the device under compliance.
 >
-> **[5:37](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=337)** You can require an Entra Hybrid joined device.
+> **[5:37](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=337)** You can require an [[Microsoft Entra ID|Entra]] Hybrid joined device.
 >
-> **[5:41](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=341)** You can require access from approved client applications like Microsoft Outlook.
+> **[5:41](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=341)** You can require access from approved client applications like [[Microsoft Outlook]].
 >
 > **[5:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/conditional-access?u=76281980&t=346)** You can also require an app protection policy to control how data is accessed and shared by applications on mobile devices.
 >
@@ -1055,7 +1046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[SharePoint]] (5), [[Microsoft Azure|Azure]] (4), [[Microsoft Office|Office]] (3), cloud (3)
+> **Frameworks & Libraries:** [[SharePoint]] (5), [[Microsoft Azure|Azure]] (4), [[Microsoft Office|Office]] (3), [[Microsoft Entra ID]] (2), [[Windows]] (2)
 > **UI Navigation:** go to (3), select the (2), scroll down (1)
 > **Prerequisites:** configure (6)
 > **CLI Commands:** make (4), find (1)
@@ -1064,12 +1055,11 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Code Identifiers:** ios (1)
 
-#### Multifactor authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980)
+#### [Multifactor authentication](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=0)** - [Instructor] Now let's talk about multi-factor authentication or MFA.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=0)** - [Instructor] Now let's talk about [[Multi-factor Authentication]] or MFA.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=4)** Most of us already know about it as we have it turned on for many of our online accounts such as emails and bank accounts.
 >
@@ -1079,17 +1069,17 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=27)** MFA is considered secure because the required information is not stored or duplicated unlike a password.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=33)** MFA with Microsoft Entra works by requiring at least two or more of the following authentication methods.
+> **[0:33](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=33)** MFA with [[Microsoft]] [[Microsoft Entra ID|Entra]] works by requiring at least two or more of the following authentication methods.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=40)** Something you know, this can be in the form of a password, something you have, this can be in the form of a phone or a hardware key, and something you are.
+> **[0:40](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=40)** Something you know, this can be in the form of a password, something you have, this can be in the form of a phone or a [[Hardware]] key, and something you are.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=48)** This includes biometrics like your fingerprint or face scan.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=52)** MFA supports many authentication methods including Microsoft Authenticator, SMS, voice call, FIDO2, or Fast Identity Online Security Key, and more.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=63)** Now let's go to the Azure portal and configure multi-factor authentication.
+> **[1:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=63)** Now let's go to the [[Microsoft Azure|Azure]] portal and configure multi-factor authentication.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=67)** Once you're at the Azure portal, go to the Entra ID service.
+> **[1:07](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=67)** Once you're at the Azure portal, go to the [[Microsoft Entra ID|Entra ID]] service.
 >
 > **[1:13](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/multi-factor-authentication?u=76281980&t=73)** Scroll down and go to Security, and then go to Multi-Factor Authentication.
 >
@@ -1155,7 +1145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Microsoft Azure|Azure]] (8), [[Microsoft Entra ID|Entra]] (7), [[Microsoft]] (6), [[Multi-factor Authentication]] (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Entra ID|Entra]] (7), [[Microsoft]] (6), [[Multi-factor Authentication]] (5), [[Microsoft Entra ID|Entra id]] (4)
 > **Env Vars:** mfa (15), sms (2), fido2 (1)
 > **UI Navigation:** go to (7), scroll down (2), select the (2)
 > **Tools:** azure portal (6)
@@ -1164,14 +1154,13 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (2)
 > **Cross-References:** go back to (1)
 
-#### Best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980)
+#### [Best practices](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=0)** - [Instructor] Before wrapping up this section, let's discuss some best practices for securing identities in the Azure Cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=0)** - [Instructor] Before wrapping up this section, let's discuss some best practices for securing identities in the [[Microsoft Azure|Azure]] Cloud.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=6)** First, protect privileged accounts using multi-factor authentication.
+> **[0:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=6)** First, protect privileged accounts using [[Multi-factor Authentication]].
 >
 > **[0:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=10)** Password based attacks on user identities are still very common, and enabling MFA can help protect against them.
 >
@@ -1195,7 +1184,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=64)** This can be a biometric, phone, or security key.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=68)** Passwordless sign-in methods include: sign in with the Microsoft Authenticator app, Windows Hello for Business, or FIDO key.
+> **[1:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=68)** Passwordless sign-in methods include: sign in with the [[Microsoft]] Authenticator app, [[Windows]] Hello for Business, or FIDO key.
 >
 > **[1:15](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=75)** Use Role-Based Access Control, or RBAC.
 >
@@ -1223,7 +1212,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=143)** Today, many organizations have hybrid deployments, which means they have resources on premises and in the cloud, and so they're also likely to have multiple identity sources.
 >
-> **[2:33](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=153)** For example, Windows AD for on-premises, and Microsoft Entra for cloud.
+> **[2:33](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=153)** For example, Windows AD for on-premises, and Microsoft [[Microsoft Entra ID|Entra]] for cloud.
 >
 > **[2:38](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24327118?u=76281980&t=158)** Azure recommends establishing a single Microsoft Entra instance as your organization's authoritative source for identities.
 >
@@ -1265,7 +1254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Security]] (6), [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), cloud (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), [[Windows]] (2), [[Multi-factor Authentication]] (1)
 > **Env Vars:** mfa (3), rbac (3), pop3 (1), smtp (1), fido (1)
 > **Analogies:** such as (5), for example (1)
 > **Prerequisites:** configure (2)
@@ -1277,12 +1266,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand network components
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980)
+#### [Understand network components](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=0)** - [Instructor] Now it's time to discuss securing network connectivity in the Azure Cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=0)** - [Instructor] Now it's time to discuss securing network connectivity in the [[Microsoft Azure|Azure]] Cloud.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=5)** Let's begin by taking a high-level overview of the important network and security components in Azure.
 >
@@ -1302,7 +1290,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=55)** Subnets allow you to segment your virtual network address space into appropriate segments for your organization's internal network.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=63)** For example, you may have a subnet for public-facing resources such as web servers and another for internal or private resources such as databases.
+> **[1:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=63)** For example, you may have a subnet for public-facing resources such as [[Web Servers]] and another for internal or private resources such as [[Databases]].
 >
 > **[1:13](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=73)** When you deploy resources in a subnet, Azure assigns them IP addresses from the range.
 >
@@ -1310,7 +1298,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=86)** Also, virtual networks are isolated, preventing other customers from accessing your data.
 >
-> **[1:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=92)** The next component is the network security group.
+> **[1:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=92)** The next component is the [[Network Security]] group.
 >
 > **[1:35](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=95)** You can use it to protect resources deployed in your virtual network from unauthorized access.
 >
@@ -1320,7 +1308,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=109)** We'll talk more about this in the following video.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=112)** Within a virtual network, it is essential to control routing or in other words, the traffic path.
+> **[1:52](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=112)** Within a virtual network, it is essential to control [[Routing]] or in other words, the traffic path.
 >
 > **[1:58](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=118)** You can do this by defining routing table entries in your Azure virtual network.
 >
@@ -1388,7 +1376,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=295)** We'll talk more about these services in detail in later videos.
 >
-> **[4:59](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=299)** In addition to these solutions or products natively available from Azure, partner solutions are also available in the Azure marketplace.
+> **[4:59](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=299)** In addition to these solutions or [[Microsoft Products|products]] natively available from Azure, partner solutions are also available in the Azure marketplace.
 >
 > **[5:07](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980&t=307)** Once you're at the Azure portal, go over to the Azure marketplace.
 >
@@ -1402,7 +1390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (29), traffic (15), dns (9), web (6), [[Security]] (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (29), [[Routing]] (5), [[Network Security]] (2), [[Web Servers]] (1), [[Databases]] (1)
 > **Env Vars:** dns (9), waf (3), tcp (2), udp (2), http (2)
 > **Analogies:** for example (4), such as (3), think of it as (2)
 > **Definitions:** is a  (4), known as (1), in other words (1)
@@ -1411,14 +1399,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Tools:** azure portal (1)
 
-#### Network security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/network-security-groups?u=76281980)
+#### [Network security groups](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/network-security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/network-security-groups?u=76281980&t=0)** - [Instructor] A common requirement in any network is to filter traffic to and from resources.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/network-security-groups?u=76281980&t=6)** You can do this with network security groups in Azure.
+> **[0:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/network-security-groups?u=76281980&t=6)** You can do this with [[Network Security]] groups in [[Microsoft Azure|Azure]].
 >
 > **[0:09](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/network-security-groups?u=76281980&t=9)** Think of it as a virtual firewall.
 >
@@ -1464,7 +1451,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/network-security-groups?u=76281980&t=135)** When attaching a network security group, you have a choice.
 >
-> **[2:19](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/network-security-groups?u=76281980&t=139)** You can attach it to the subnet or to the virtual machines' network interface.
+> **[2:19](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/network-security-groups?u=76281980&t=139)** You can attach it to the subnet or to the [[Virtual Machines]]' network interface.
 >
 > **[2:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/network-security-groups?u=76281980&t=144)** When you associate it with a subnet, the network security group rules apply to all virtual machines in it.
 >
@@ -1542,7 +1529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (31), [[Network Security]] (24), [[Microsoft Azure|Azure]] (10), [[Security]] (4), [[Virtual Machines]] (3)
+> **Frameworks & Libraries:** [[Network Security]] (24), [[Microsoft Azure|Azure]] (10), [[Virtual Machines]] (3)
 > **Env Vars:** nsg1 (7), nsg2 (7), vm1 (5), vm2 (5), vm3 (4)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1), for example (1)
@@ -1551,18 +1538,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** note that (1)
 
-#### Controlling traffic with network security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980)
+#### [Controlling traffic with network security groups](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=0)** - [Instructor] Let's see how to configure network security groups.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=0)** - [Instructor] Let's see how to configure [[Network Security]] groups.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=3)** I'm here at the Azure portal.
+> **[0:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=3)** I'm here at the [[Microsoft Azure|Azure]] portal.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=5)** We'll configure a network security group that allows inbound SSH and ICMP traffic to a Ubuntu machine.
+> **[0:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=5)** We'll configure a network security group that allows inbound SSH and ICMP traffic to a [[Ubuntu]] machine.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=12)** You can also do this with a Windows machine by replacing SSH with RDP access.
+> **[0:12](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=12)** You can also do this with a [[Windows]] machine by replacing SSH with RDP access.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=18)** I've already created the virtual machine.
 >
@@ -1612,13 +1598,13 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=115)** The source can be any, or specific IP addresses, or your IP address.
 >
-> **[2:01](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=121)** It can also be a service tag or an application security group.
+> **[2:01](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=121)** It can also be a service tag or an [[Application Security]] group.
 >
 > **[2:07](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=127)** Set this to any, and the source port range to asterisk.
 >
 > **[2:11](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=131)** You can set the destination to the specific virtual machine IP address.
 >
-> **[2:15](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=135)** You can also set it to any to use this NSG with other virtual machines that need to allow similar inbound traffic.
+> **[2:15](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=135)** You can also set it to any to use this NSG with other [[Virtual Machines]] that need to allow similar inbound traffic.
 >
 > **[2:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=142)** Set the service to SSH.
 >
@@ -1728,11 +1714,11 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=431)** As we've just seen, they allow for fine-grain control over inbound and outbound traffic.
 >
-> **[7:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=436)** In the following video, we'll talk about routing.
+> **[7:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/controlling-traffic-with-network-security-groups?u=76281980&t=436)** In the following video, we'll talk about [[Routing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (17), traffic (10), [[Security]] (7), [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Network Security]] (17), [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (2), [[Ubuntu]] (1), [[Windows]] (1)
 > **Env Vars:** icmp (11), nsg (8), ssh (7), rdp (1), csv (1)
 > **UI Navigation:** select the (5), go to (4), switch to (1)
 > **CLI Commands:** ssh (7)
@@ -1741,12 +1727,11 @@ created: 2026-05-02
 > **Warnings:** warning (1), note that (1)
 > **Prerequisites:** configure (2)
 
-#### Azure network routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980)
+#### [Azure network routing](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=0)** - [Instructor] Properly controlling and routing traffic in your Azure infrastructure is a key security requirement.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=0)** - [Instructor] Properly controlling and [[Routing]] traffic in your [[Microsoft Azure|Azure]] infrastructure is a key security requirement.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=6)** Routing traffic allows you to determine which devices will take traffic from one point to another.
 >
@@ -1826,7 +1811,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=198)** Subnet A has a virtual appliance for inspection and logging purposes.
 >
-> **[3:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=202)** Subnet B has virtual machines.
+> **[3:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=202)** Subnet B has [[Virtual Machines]].
 >
 > **[3:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=204)** You would like outbound traffic from subnet B to all subnets to pass through the virtual appliance for inspection and logging purposes, so you can create a custom route that looks like this.
 >
@@ -1860,7 +1845,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=295)** Another next hop type is virtual network gateway.
 >
-> **[4:58](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=298)** These virtual appliances are designed to function as VPN or virtual private network gateways.
+> **[4:58](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=298)** These virtual appliances are designed to function as VPN or [[Virtual Private Network (VPN)|virtual private network]] gateways.
 >
 > **[5:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=304)** A common use for this is to provide an encrypted connection, also known as a VPN connection between your on-premises network and your Azure virtual network over the public internet.
 >
@@ -1900,7 +1885,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=432)** If you're not familiar with this concept, I recommend a quick read on subnetting.
 >
-> **[7:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=437)** You will also find courses and videos on this topic in the LinkedIn Learning Library.
+> **[7:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=437)** You will also find courses and videos on this topic in the [[LinkedIn]] Learning Library.
 >
 > **[7:21](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-network-routing?u=76281980&t=441)** So, when traffic is destined to 10.0.2.0/24, there are two possibilities.
 >
@@ -1918,7 +1903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (31), next (17), [[Microsoft Azure|Azure]] (15), vpn (5), [[Routing]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Routing]] (4), [[Virtual Machines]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[LinkedIn]] (1)
 > **Versions:** 10.0.2 (5), 10.0.0 (4), 192.168.0 (4), 10.0.1 (2), 0.0.0 (1)
 > **Env Vars:** vpn (5), rfc (2)
 > **Definitions:** is a  (2), known as (2), is an  (1)
@@ -1927,12 +1912,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
 
-#### Configure routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980)
+#### [Configure routing](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=0)** - [Instructor] Now let's see how to configure routing.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=0)** - [Instructor] Now let's see how to configure [[Routing]].
 >
 > **[0:02](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=2)** Let's begin by reviewing system routes.
 >
@@ -1944,7 +1928,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=25)** In the last video, we talked about system routes.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=28)** These are routes that Azure creates when you create a subnet.
+> **[0:28](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=28)** These are routes that [[Microsoft Azure|Azure]] creates when you create a subnet.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=32)** In the Azure portal there is no way to see these system routes.
 >
@@ -2054,13 +2038,13 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=273)** The next hop type is internet, and here is the name we provided.
 >
-> **[4:37](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=277)** As we've just seen, routing provides a flexible mechanism to control flow of traffic.
+> **[4:37](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=277)** As we've just seen, routing provides a flexible mechanism to [[Control Flow]] of traffic.
 >
 > **[4:42](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-routing?u=76281980&t=282)** By leveraging system routes and customizing it with user defined routes, you can optimize your network for security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Microsoft Azure|Azure]] (5), traffic (4), vpn (3), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Routing]] (2), [[Control Flow]] (1)
 > **UI Navigation:** go to (5), select the (2), click on (1)
 > **Env Vars:** vnet1 (3), vpn (3)
 > **Cross-References:** in the last (2), we talked about (1), in the next (1), we discussed (1)
@@ -2069,18 +2053,17 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
 
-#### Azure Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-firewall?u=76281980)
+#### [Azure Firewall](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-firewall?u=76281980&t=0)** - [Instructor] Firewalls are a key component of any network security solution.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-firewall?u=76281980&t=0)** - [Instructor] Firewalls are a key component of any [[Network Security]] solution.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-firewall?u=76281980&t=4)** They regulate traffic by allowing only the required traffic and denying the rest.
+> **[0:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-firewall?u=76281980&t=4)** They regulate traffic by allowing only the required traffic and denying the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:09](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-firewall?u=76281980&t=9)** For example, a firewall protecting a web server may only allow inbound HTTP and HTTPS traffic.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-firewall?u=76281980&t=16)** Microsoft Azure provides a managed cloud-based firewall, known as the Azure Firewall, to protect your Azure virtual network resources.
+> **[0:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-firewall?u=76281980&t=16)** [[Microsoft Azure]] provides a managed cloud-based firewall, known as the [[Microsoft Azure|Azure]] Firewall, to protect your Azure virtual network resources.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-firewall?u=76281980&t=25)** With the Azure Firewall, you can configure network rules that define source and destination address, destination port, and protocol.
 >
@@ -2158,7 +2141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (24), traffic (13), [[Network Security]] (5), application (3), web (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (24), [[Network Security]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** nat (3), tls (3), http (1), https (1), fqdn (1)
 > **Analogies:** for example (2), similar to (1), such as (1)
 > **Prerequisites:** configure (3)
@@ -2167,12 +2150,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Azure Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980)
+#### [Configure Azure Firewall](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=0)** - [Narrator] Let's see how to configure the Azure firewall.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=0)** - [Narrator] Let's see how to configure the [[Microsoft Azure|Azure]] firewall.
 >
 > **[0:02](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=2)** Here is the configuration scenario.
 >
@@ -2182,7 +2164,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=17)** Azure recommends deploying the firewall in a separate virtual network for production scenarios.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=22)** Virtual machines should be deployed in a separate virtual network, peered with the firewall's virtual network.
+> **[0:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=22)** [[Virtual Machines]] should be deployed in a separate virtual network, peered with the firewall's virtual network.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=28)** Because we are configuring in a lab environment, we'll keep it simple and use a single virtual network for the firewall and virtual machines.
 >
@@ -2294,7 +2276,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=281)** It's called FW2, and it's located in East US 2.
 >
-> **[4:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=286)** I'll use this firewall for the rest of the configuration.
+> **[4:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=286)** I'll use this firewall for the [[Representational State Transfer (REST)|rest]] of the configuration.
 >
 > **[4:49](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=289)** Click on the firewall.
 >
@@ -2354,7 +2336,7 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=396)** This can take a few minutes.
 >
-> **[6:38](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=398)** Meanwhile, let's also add an application rule, allowing virtual machines to reach Windows update servers.
+> **[6:38](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=398)** Meanwhile, let's also add an application rule, allowing virtual machines to reach [[Windows]] update servers.
 >
 > **[6:45](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=405)** So we'll go to Application rules and click Add a rule collection.
 >
@@ -2378,7 +2360,7 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=445)** Set the destination type to FQDN tag.
 >
-> **[7:29](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=449)** FQDN tag represents a group of fully qualified domain names, or FQDNs, associated with well-known Microsoft services.
+> **[7:29](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=449)** FQDN tag represents a group of fully qualified domain names, or FQDNs, associated with well-known [[Microsoft]] services.
 >
 > **[7:37](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=457)** Set the destination to WindowsUpdate.
 >
@@ -2400,7 +2382,7 @@ created: 2026-05-02
 >
 > **[8:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=502)** So we've deployed the virtual network subnets and the Azure firewall.
 >
-> **[8:26](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=506)** The last step is to configure routing, so all traffic from the server subnet will pass through the Azure firewall and be subject to its rules.
+> **[8:26](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=506)** The last step is to configure [[Routing]], so all traffic from the server subnet will pass through the Azure firewall and be subject to its rules.
 >
 > **[8:35](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/configure-azure-firewall?u=76281980&t=515)** Before we do that, we'll need to copy the firewall's private IP address.
 >
@@ -2468,7 +2450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), traffic (6), dns (6), next (5), application (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[Virtual Machines]] (4), [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1)
 > **Env Vars:** dns (6), fw2 (4), fw1 (3), vnet2 (3), sku (2)
 > **UI Navigation:** select the (4), go to (3), click on (3)
 > **Versions:** 10.0.0 (1), 10.0.1 (1), 10.0.2 (1), 4.2.2 (1), 0.0.0 (1)
@@ -2477,8 +2459,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1), go back to (1)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Azure DDoS protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980)
+#### [Azure DDoS protection](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2498,11 +2479,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=45)** Other DDoS attack types include protocol attacks where a weakness in the TCP, or Transmission Control Protocol, is exploited and application layer attacks where a weakness in the application layer protocol, such as HTTP, is exploited.
 >
-> **[1:01](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=61)** Common examples include SQL injection and cross-site scripting.
+> **[1:01](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=61)** Common examples include [[SQL]] injection and cross-site scripting.
 >
 > **[1:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=65)** Any publicly exposed application is vulnerable to a DDoS attack.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=69)** Azure has DDoS infrastructure protection enabled for all customers.
+> **[1:09](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=69)** [[Microsoft Azure|Azure]] has DDoS infrastructure protection enabled for all customers.
 >
 > **[1:13](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=73)** It protects the Azure platform or the infrastructure on which Azure is built.
 >
@@ -2514,7 +2495,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=96)** Traffic volume that the Azure infrastructure perceives as harmless could harm your application, so Azure recommends using dedicated DDoS Protection for your resources.
 >
-> **[1:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=106)** In earlier videos, we discussed network security groups and the Azure Firewall, both of which provide traffic filtering.
+> **[1:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=106)** In earlier videos, we discussed [[Network Security]] groups and the Azure Firewall, both of which provide traffic filtering.
 >
 > **[1:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=113)** If you are wondering why you need DDoS Protection when you're already filtering with network security groups or the Azure Firewall, here's why.
 >
@@ -2530,7 +2511,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=141)** Also, a dedicated DDoS Protection mechanism provides an additional layer of security designed specifically to mitigate a DDoS attack.
 >
-> **[2:30](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=150)** Microsoft Azure has a service called Azure DDoS Protection that aims to protect against DDoS attacks.
+> **[2:30](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=150)** [[Microsoft Azure]] has a service called Azure DDoS Protection that aims to protect against DDoS attacks.
 >
 > **[2:36](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=156)** Here are some key features.
 >
@@ -2582,7 +2563,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=301)** Azure has approved testing partners that you can use to simulate a DDoS attack on your environment.
 >
-> **[5:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=308)** An attack simulation will help validate that DDoS Protection protects your resources and optimize your DDoS incident response process.
+> **[5:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=308)** An attack [[Simulation]] will help validate that DDoS Protection protects your resources and optimize your DDoS [[Incident Response]] process.
 >
 > **[5:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-ddos-protection?u=76281980&t=317)** Configuring DDoS Protection is easy.
 >
@@ -2606,7 +2587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (17), [[Microsoft Azure|Azure]] (17), application (13), [[Network Security]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Network Security]] (3), [[SQL]] (1), [[Microsoft Azure]] (1), [[Simulation]] (1)
 > **Env Vars:** tcp (2), http (1), sql (1), icmp (1), syn (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** such as (2), imagine (1)
@@ -2615,16 +2596,15 @@ created: 2026-05-02
 > **Ports:** port 10 (1)
 > **Cross-References:** we discussed (1)
 
-#### Other network security tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980)
+#### [Other network security tools](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=0)** - [Instructor] We've looked at the important network security tools in Azure, such as network security groups, the Azure Firewall and Azure DDoS protection.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=0)** - [Instructor] We've looked at the important [[Network Security]] tools in [[Microsoft Azure|Azure]], such as network security groups, the Azure Firewall and Azure DDoS protection.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=9)** Now let's talk about other tools you can use to enhance the security of your Azure network.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=14)** Azure has a web application firewall or WAF to protect Azure hosted web applications against common exploits such as SQL injection and cross-site scripting.
+> **[0:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=14)** Azure has a web application firewall or WAF to protect Azure hosted web applications against common exploits such as [[SQL]] injection and cross-site scripting.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=24)** Once you deploy a WAF, it immediately protects your web applications from attacks.
 >
@@ -2638,7 +2618,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=50)** Now let's talk about Azure Bastion.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=53)** It is common for organizations to have private, virtual machines or private servers in Azure.
+> **[0:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=53)** It is common for organizations to have private, [[Virtual Machines]] or private servers in Azure.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=59)** These virtual machines have no connectivity to the internet.
 >
@@ -2686,7 +2666,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=194)** You can detect traffic filtering caused by network security group configuration.
 >
-> **[3:19](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=199)** You can also detect routing issues caused by incorrect configuration.
+> **[3:19](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=199)** You can also detect [[Routing]] issues caused by incorrect configuration.
 >
 > **[3:23](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/other-network-security-tools?u=76281980&t=203)** You can also use Network Watcher to view effective rules apply to a network interface.
 >
@@ -2712,7 +2692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), traffic (6), [[Virtual Machines]] (6), [[Security]] (5), [[Network Security]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[Virtual Machines]] (6), [[Network Security]] (4), [[SQL]] (1), [[Routing]] (1)
 > **Env Vars:** waf (4), vpn (4), rdp (3), ssh (3), sql (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Analogies:** such as (3), imagine (1)
@@ -2721,12 +2701,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980)
+#### [Best practices](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=0)** - [Instructor] Before wrapping up this section, let's discuss best practices to secure your Azure network.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=0)** - [Instructor] Before wrapping up this section, let's discuss best practices to secure your [[Microsoft Azure|Azure]] network.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=5)** First is to adopt a zero trust approach.
 >
@@ -2746,7 +2725,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=51)** With conditional access, you can grant access to your resources based on user identity, sign-in risk, device platform, location, and other factors.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=62)** Another feature that can help with zero trust is just-in-time access for virtual machines.
+> **[1:02](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=62)** Another feature that can help with zero trust is just-in-time access for [[Virtual Machines]].
 >
 > **[1:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=68)** With just-in-time access, inbound access to your virtual machines is limited to when needed, and blocked during other times.
 >
@@ -2758,7 +2737,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=94)** The next best practice is to lock down access rules.
 >
-> **[1:37](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=97)** Review your network security group and firewall rules to identify those granting access to broad IP ranges.
+> **[1:37](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=97)** Review your [[Network Security]] group and firewall rules to identify those granting access to broad IP ranges.
 >
 > **[1:44](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=104)** For example, rules that allow inbound SSH or RDP access from anywhere.
 >
@@ -2768,7 +2747,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=119)** Next, use network appliances for specialized security functions.
 >
-> **[2:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=124)** The Azure marketplace has appliances from third parties that can provide specialized security functions like intrusion detection and prevention, vulnerability management, antivirus threat protection, and more.
+> **[2:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=124)** The Azure marketplace has appliances from third parties that can provide specialized security functions like [[Intrusion Detection]] and prevention, vulnerability management, antivirus threat protection, and more.
 >
 > **[2:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices?u=76281980&t=137)** Deploying these solutions can significantly improve the security of your environment.
 >
@@ -2794,7 +2773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Security]] (4), next (4), data (3), cloud (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Virtual Machines]] (2), [[Network Security]] (2), [[Intrusion Detection]] (1)
 > **Env Vars:** ssh (1), rdp (1), lans (1)
 > **Cross-References:** we discussed (1), in the last (1), in the next (1)
 > **Analogies:** for example (1), similar to (1), such as (1)
@@ -2808,8 +2787,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Key Vault
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980)
+#### [Azure Key Vault](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2819,9 +2797,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=10)** In the digital world, we have similar access control requirements.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=14)** We need a secure mechanism to store digital valuables like passwords, certificates, tokens, and API keys.
+> **[0:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=14)** We need a secure mechanism to store digital valuables like passwords, certificates, [[Tokens]], and API keys.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=22)** You can use the Azure Key Vault to manage secrets like these.
+> **[0:22](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=22)** You can use the [[Microsoft Azure|Azure]] Key Vault to manage secrets like these.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=25)** Consider this: an application needs to access a database and it will need a connection string that grants access.
 >
@@ -2845,7 +2823,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=90)** Access to Azure Key Vault requires authentication and authorization before gaining access.
 >
-> **[1:36](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=96)** Microsoft Entra ID handles authentication.
+> **[1:36](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=96)** [[Microsoft Entra ID]] handles authentication.
 >
 > **[1:39](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=99)** For authorization, you have two options.
 >
@@ -2859,7 +2837,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=123)** The connection string is securely stored in the Azure Key Vault.
 >
-> **[2:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=126)** Before the application can access the string, it will need to authenticate itself, this is done by Entra ID.
+> **[2:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=126)** Before the application can access the string, it will need to authenticate itself, this is done by [[Microsoft Entra ID|Entra ID]].
 >
 > **[2:13](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=133)** Once authenticated, the application then requests the key vault for access to the connection string.
 >
@@ -2879,7 +2857,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=178)** Azure Key Vault has two pricing tiers, standard and premium.
 >
-> **[3:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=183)** The difference is that the premium tier supports key storage in hardware security modules, also known as HSMs.
+> **[3:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=183)** The difference is that the premium tier supports key storage in [[Hardware]] security modules, also known as HSMs.
 >
 > **[3:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=190)** HSMs are specialized hardware designed to store and manage keys.
 >
@@ -2903,7 +2881,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=236)** In the next step, you can configure Azure RBAC or a vault access policy to control access to objects in the vault.
 >
-> **[4:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=244)** This includes Azure Virtual Machines, Azure Resource Manager, and Azure Disk Encryption.
+> **[4:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=244)** This includes Azure [[Virtual Machines]], Azure Resource Manager, and Azure Disk Encryption.
 >
 > **[4:12](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980&t=252)** In the next step, you can enable public access to the vault.
 >
@@ -2969,7 +2947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), application (12), database (4), next (4), api (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[Hardware]] (2), [[Tokens]] (1), [[Microsoft Entra ID]] (1), [[Microsoft Entra ID|Entra id]] (1)
 > **Env Vars:** rbac (3), api (2), tls (1), ssl (1), url (1)
 > **UI Navigation:** go to (3), select the (3), click on (2), scroll down (1)
 > **CLI Commands:** find (3)
@@ -2978,8 +2956,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), known as (1)
 > **Prerequisites:** configure (2)
 
-#### Protect data at rest
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980)
+#### [Protect data at rest](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2991,21 +2968,21 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=14)** When data is stored, it must be protected from unauthorized access and encryption is used to achieve this.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=21)** Good security practice calls for encrypting data at rest and in transit.
+> **[0:21](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=21)** Good security practice calls for encrypting data at [[Representational State Transfer (REST)|rest]] and in transit.
 >
 > **[0:26](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=26)** That is when it is kept stored, and when it is moving over the network.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=30)** Protecting data at rest ensures that the data is inaccessible, even if the storage media is compromised.
 >
-> **[0:37](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=37)** Let's discuss how you can protect data at rest in Azure.
+> **[0:37](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=37)** Let's discuss how you can protect data at rest in [[Microsoft Azure|Azure]].
 >
-> **[0:41](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=41)** Data at rest includes data stored in storage accounts, disks attached to virtual machines, and databases.
+> **[0:41](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=41)** Data at rest includes data stored in storage accounts, disks attached to [[Virtual Machines]], and [[Databases]].
 >
 > **[0:48](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=48)** The first step to protecting data at rest is classifying it.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=52)** This can be identifying how important or confidential the data is.
 >
-> **[0:57](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=57)** Organizations use different terms for data classification, but common ones include public, internal, and confidential data.
+> **[0:57](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=57)** Organizations use different terms for [[Data Classification]], but common ones include public, internal, and confidential data.
 >
 > **[1:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=65)** Public data can be shared outside the organization.
 >
@@ -3017,7 +2994,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=84)** You can store data in the Azure Cloud using Azure storage accounts.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=88)** Azure users service side encryption, or SSE, to automatically encrypt your data when you move it to an Azure storage account.
+> **[1:28](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=88)** Azure users service side encryption, or [[Server-Sent Events|SSE]], to automatically encrypt your data when you move it to an Azure storage account.
 >
 > **[1:36](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=96)** SSE uses 256 bit AES encryption and is FIPS 140-2 compliant.
 >
@@ -3045,7 +3022,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=166)** Additionally, you can use Azure disc encryption to encrypt the operating system and data disks inside your virtual machines.
 >
-> **[2:54](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=174)** Lastly, let's talk about database encryption for Azure SQL Database and Azure Cosmos DB database.
+> **[2:54](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=174)** Lastly, let's talk about database encryption for Azure [[SQL]] Database and Azure Cosmos DB database.
 >
 > **[3:01](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=181)** Encryption for Azure SQL database is provided using a feature called Transparent Data Encryption, or TDE.
 >
@@ -3063,29 +3040,28 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=220)** All right, that's about encryption at rest on Azure.
 >
-> **[3:43](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=223)** As we've seen, Azure does most of the heavy lifting, such as managing the keys and encryption algorithms, so organizations can focus on their core business operations while being assured that their data at rest is secure.
+> **[3:43](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-at-rest?u=76281980&t=223)** As we've seen, Azure does most of the heavy lifting, such as managing the keys and encryption [[Algorithms]], so organizations can focus on their core [[Business Operations]] while being assured that their data at rest is secure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Microsoft Azure|Azure]] (20), [[Representational State Transfer (REST)|Rest]] (8), database (7), [[Server-Sent Events|Sse]] (6)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[Representational State Transfer (REST)|Rest]] (8), [[Server-Sent Events|Sse]] (6), [[Virtual Machines]] (4), [[SQL]] (3)
 > **Env Vars:** sse (6), sql (3), tde (3), fips (2), aes (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Cross-References:** we discussed (1), in the last (1)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect data in transit
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980)
+#### [Protect data in transit](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=0)** - [Instructor] In the last video, we discussed how Azure protects your data at rest.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=0)** - [Instructor] In the last video, we discussed how [[Microsoft Azure|Azure]] protects your data at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=4)** Now let's talk about protecting data in transit, which is data moving over the network.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=9)** Let's start with data that moves outside physical boundaries that Microsoft does not control.
+> **[0:09](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=9)** Let's start with data that moves outside physical boundaries that [[Microsoft]] does not control.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=15)** A layer 2 encryption method is applied from point to point across the underlying network hardware for data that moves outside physical boundaries.
+> **[0:15](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=15)** A layer 2 encryption method is applied from point to point across the underlying network [[Hardware]] for data that moves outside physical boundaries.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=23)** This encryption is enabled by default for all Azure traffic traveling within a region or between regions.
 >
@@ -3101,17 +3077,17 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=58)** When using shared access signatures, you can specify that only the HTTPS protocol will be used.
 >
-> **[1:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=64)** When transferring data from your Azure virtual machines, you can use SMB 3.0.
+> **[1:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=64)** When transferring data from your Azure [[Virtual Machines]], you can use SMB 3.0.
 >
 > **[1:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=70)** SMB or Server Message Block is a network communication protocol used for file sharing.
 >
 > **[1:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=76)** SMB 3.0 encrypts data in transit over Azure virtual networks.
 >
-> **[1:21](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=81)** It is supported on Windows Server 2012 and later.
+> **[1:21](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=81)** It is supported on [[Windows Server]] 2012 and later.
 >
-> **[1:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=84)** When connecting to Windows servers using RDP or Remote Desktop Protocol, data in transit on the RDP sessions are protected by TLS or Transport Layer Security.
+> **[1:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=84)** When connecting to [[Windows]] servers using RDP or Remote Desktop Protocol, data in transit on the RDP sessions are protected by TLS or Transport Layer Security.
 >
-> **[1:35](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=95)** When connecting to Linux servers using SSH, the connection is encrypted because SSH is a secure protocol.
+> **[1:35](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=95)** When connecting to [[Linux]] servers using SSH, the connection is encrypted because SSH is a secure protocol.
 >
 > **[1:42](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/protect-data-in-transit?u=76281980&t=102)** You can use Azure VPN to establish a secure communication channel when connecting your on-premises environment with the Azure cloud.
 >
@@ -3125,7 +3101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), data (12), [[Representational State Transfer (REST)|Rest]] (2), api (2), vpn (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft]] (1), [[Hardware]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** https (5), smb (3), api (2), tls (2), rdp (2)
 > **CLI Commands:** ssh (2)
 > **Versions:** 3.0 (2)
@@ -3134,12 +3110,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980)
+#### [Best practices](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=0)** - [Narrator] Before wrapping up this section, let's discuss best practices for securing data in the Azure Cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=0)** - [Narrator] Before wrapping up this section, let's discuss best practices for securing data in the [[Microsoft Azure|Azure]] Cloud.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=6)** First, use a secure storage for your secrets.
 >
@@ -3169,19 +3144,19 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=66)** Soft delete allows you to recover deleted secrets for the configured number of days.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=71)** Use this encryption for virtual machines.
+> **[1:11](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=71)** Use this encryption for [[Virtual Machines]].
 >
 > **[1:13](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=73)** This extra layer of encryption protects data against unauthorized access in the event of a breach.
 >
 > **[1:20](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=80)** While Azure automatically encrypts the storage clusters on which managed disks are created, users can turn on disc encryption for virtual machines.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=88)** Azure disc encryption uses BitLocker on Windows and dm-crypt on Linux.
+> **[1:28](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=88)** Azure disc encryption uses BitLocker on [[Windows]] and dm-crypt on [[Linux]].
 >
 > **[1:34](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=94)** Machines use HTTPS to interact with Azure Storage.
 >
 > **[1:38](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=98)** When interacting with Azure Storage through the Azure portal, all transactions occur on HTTPS.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=104)** Users can also interact with Azure Storage using REST APIs, which support both HTTP and HTTPS, HTTPS being a secure protocol should always be used.
+> **[1:44](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=104)** Users can also interact with Azure Storage using [[Representational State Transfer (REST)|REST]] APIs, which support both HTTP and HTTPS, HTTPS being a secure protocol should always be used.
 >
 > **[1:56](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=116)** Administrators can require the use of HTTPS for REST API operations.
 >
@@ -3191,7 +3166,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=131)** Many customers have a hybrid deployment with resources on premises and in the Azure Cloud.
 >
-> **[2:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=137)** Use an encrypted channel, such as a VPN or Virtual Private Network connection, when moving data between these environments over the public Internet.
+> **[2:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=137)** Use an encrypted channel, such as a VPN or [[Virtual Private Network (VPN)|Virtual Private Network]] connection, when moving data between these environments over the public Internet.
 >
 > **[2:26](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=146)** You can use the Azure VPN Gateway to establish the VPN connection.
 >
@@ -3203,11 +3178,11 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=169)** Okay, those are the best practices to secure data in the Azure Cloud.
 >
-> **[2:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=173)** In the following video, we'll discuss Defender for Cloud.
+> **[2:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/best-practices-24320979?u=76281980&t=173)** In the following video, we'll discuss [[Microsoft Defender|Defender]] for Cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), data (7), cloud (4), vpn (4), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Virtual Machines]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** https (5), vpn (4), rbac (2), rest (2), http (2)
 > **Analogies:** such as (4)
 > **Tools:** azure portal (1)
@@ -3220,8 +3195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Defender for Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980)
+#### [Introduction to Defender for Cloud](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3229,13 +3203,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=3)** The city needs a police force to protect its citizens and ensure rules are followed.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=8)** In Azure, Microsoft Defender for Cloud plays a similar role.
+> **[0:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=8)** In [[Microsoft Azure|Azure]], [[Microsoft Defender]] for Cloud plays a similar role.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=12)** It applies security measures to protect Cloud based applications from cyber threats and vulnerabilities.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=18)** Tools offering such capabilities are known as CNAPP or Cloud Native Application Protection Platform.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=24)** Defender for Clouds features can be classified under three categories: CSPM or Cloud Security Posture Management, CWP or Cloud Workload Protection, and DevSecOps that combines development, security and operations.
+> **[0:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=24)** [[Microsoft Defender|Defender]] for Clouds features can be classified under three categories: CSPM or [[Cloud Security]] Posture Management, CWP or Cloud Workload Protection, and [[DevSecOps]] that combines development, security and operations.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=40)** Let's explore each of these.
 >
@@ -3255,11 +3229,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=81)** You can do this by creating virtual networks.
 >
-> **[1:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=84)** These standards can be part of Microsoft Cloud Security Benchmark, also known as MCSB or they can be from predefined regulatory compliance programs, such as CIS, FedRAMP, ISO, NIST, PCI, and others, or you can also create your own custom security standards.
+> **[1:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=84)** These standards can be part of [[Microsoft]] Cloud Security Benchmark, also known as MCSB or they can be from predefined [[Regulatory Compliance]] programs, such as CIS, FedRAMP, ISO, [[NIST]], PCI, and others, or you can also create your own custom security standards.
 >
 > **[1:43](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=103)** MCSB is applied by default when you onboard resources to Defender.
 >
-> **[1:48](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=108)** It has controls in various categories, such as network security, identity management, privileged access, and others.
+> **[1:48](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=108)** It has controls in various categories, such as [[Network Security]], identity management, privileged access, and others.
 >
 > **[1:56](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=116)** You will find the complete list of controls in the documentation.
 >
@@ -3279,7 +3253,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=169)** It identifies exploitable paths that attackers might use to breach your environment and reach high value targets.
 >
-> **[2:56](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=176)** Defender has a feature known as Cloud Infrastructure Entitlement Manager, or CIEM.
+> **[2:56](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=176)** Defender has a feature known as [[Cloud Infrastructure]] Entitlement Manager, or CIEM.
 >
 > **[3:02](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=182)** It provides visibility into who or what has access to specific resources.
 >
@@ -3287,15 +3261,15 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=197)** This feature is essential in preventing security breaches caused by excessive permissions or misconfigurations.
 >
-> **[3:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=204)** Defender also includes vulnerability assessments, secret scanning to locate plain text secrets, and malware scanning for your virtual machines.
+> **[3:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=204)** Defender also includes vulnerability assessments, secret scanning to locate plain text secrets, and malware scanning for your [[Virtual Machines]].
 >
-> **[3:33](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=213)** If you're using containers, Defender for CSPM also includes discovery for Kubernetes clusters, inventory of your container repositories and images, and vulnerability assessment for container images.
+> **[3:33](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=213)** If you're using containers, Defender for CSPM also includes discovery for [[Kubernetes]] clusters, inventory of your container repositories and images, and [[Vulnerability Assessment]] for container images.
 >
 > **[3:45](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=225)** Now let's talk about the second category that is Cloud Workload Protection.
 >
 > **[3:49](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=229)** Defender has these features available on servers.
 >
-> **[3:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=233)** File integrity monitoring that examines operating system files, windows registries, and Lenux system files for changes that might indicate an attack.
+> **[3:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=233)** File integrity monitoring that examines operating system files, [[Windows]] registries, and Lenux system files for changes that might indicate an attack.
 >
 > **[4:02](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=242)** Just-in-time access, which allows access to management ports like RDP or SSH only when requested.
 >
@@ -3303,19 +3277,19 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=256)** Endpoint detection and response, or EDR, that performs behavioral analysis of virtual machines to detect breaches and allows for threat hunting.
 >
-> **[4:26](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=266)** Cloud Workload Protection also identifies vulnerabilities on Azure SQL databases and SQL servers, and alerts you of anomalies activities that might indicate a threat.
+> **[4:26](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=266)** Cloud Workload Protection also identifies vulnerabilities on Azure [[SQL]] [[Databases]] and SQL servers, and alerts you of anomalies activities that might indicate a threat.
 >
 > **[4:36](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=276)** For storage accounts, Defender prevents malicious file uploads, sensitive data exfiltration, and data corruption.
 >
 > **[4:44](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=284)** Defender also detects unusual and potentially harmful attempts to access or exploit Azure Key Vault accounts.
 >
-> **[4:51](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=291)** With workload protection, Defender looks for DNS attacks and DNS communication with domains used for malicious activities, such as phishing and crypto mining.
+> **[4:51](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=291)** With workload protection, Defender looks for DNS attacks and DNS communication with domains used for malicious activities, such as [[Phishing]] and crypto mining.
 >
 > **[5:01](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=301)** Now let's talk about the third category, DevSecOps.
 >
 > **[5:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=304)** Defender also includes DevSecOps capabilities, which gives security insights into your code management environments and pipeline.
 >
-> **[5:12](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=312)** You can use it with pipeline environments such as Azure DevOps, GitHub, and GitLab.
+> **[5:12](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=312)** You can use it with pipeline environments such as Azure [[DevOps]], [[GitHub]], and GitLab.
 >
 > **[5:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=317)** Now let's discuss how Defender for Cloud is priced.
 >
@@ -3329,7 +3303,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=348)** For more information on pricing, I recommend checking the documentation.
 >
-> **[5:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=353)** An important point to remember is that Defender for Cloud can also protect resources from other environments, such as Amazon web services, Google Cloud platform, and your on-premises environments.
+> **[5:53](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=353)** An important point to remember is that Defender for Cloud can also protect resources from other environments, such as [[Amazon Web Services (AWS)|Amazon web services]], [[Google Cloud Platform (GCP)|Google Cloud platform]], and your on-premises environments.
 >
 > **[6:05](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980&t=365)** So you have a single pane of glass view for risk from your hybrid, multi-Cloud environment.
 >
@@ -3341,7 +3315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (19), [[Security]] (17), cloud (15), management (7), [[Microsoft Azure|Azure]] (5)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (19), [[Microsoft Azure|Azure]] (5), [[Cloud Security]] (4), [[DevSecOps]] (3), [[Virtual Machines]] (2)
 > **Env Vars:** cspm (8), mcsb (2), sql (2), dns (2), cnapp (1)
 > **Analogies:** such as (6), for example (3), imagine (1)
 > **Definitions:** known as (3), is a  (1)
@@ -3350,12 +3324,11 @@ created: 2026-05-02
 > **Tools:** github (1), gitlab (1)
 > **Speakers:** - imagine (1)
 
-#### Use cases of Defender for Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980)
+#### [Use cases of Defender for Cloud](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=0)** - [Instructor] In the last video, we discussed the features of Defender for Cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=0)** - [Instructor] In the last video, we discussed the features of [[Microsoft Defender|Defender]] for Cloud.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=4)** Let's look at some use cases in which enterprises use Defender for Cloud.
 >
@@ -3365,9 +3338,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=18)** In such a situation, enterprises want complete visibility into all their assets.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=24)** A simple query like how many virtual machines do we have across all our environments might be difficult to answer.
+> **[0:24](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=24)** A simple query like how many [[Virtual Machines]] do we have across all our environments might be difficult to answer.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=31)** With Defender for Cloud, you can connect your Amazon Web Services, Google Cloud Platform, and on-premises environments to Azure, giving you a single-pane-of-glass view.
+> **[0:31](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=31)** With Defender for Cloud, you can connect your [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google Cloud Platform (GCP)|Google Cloud Platform]], and on-premises environments to [[Microsoft Azure|Azure]], giving you a single-pane-of-glass view.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=41)** The second use case is to identify misconfigured cloud resources.
 >
@@ -3377,9 +3350,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=57)** Having an automated mechanism to identify these misconfigurations is essential.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=62)** Defender Cloud Security Posture Management or CSPM makes monitoring cloud resources for misconfigurations easy.
+> **[1:02](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=62)** Defender [[Cloud Security]] Posture Management or CSPM makes monitoring cloud resources for misconfigurations easy.
 >
-> **[1:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=70)** For example, Defender for Cloud will alert you if your web application is accessible over HTTP, if your Linux machines aren't using SSH for authentication, or if your virtual machines have vulnerabilities.
+> **[1:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=70)** For example, Defender for Cloud will alert you if your web application is accessible over HTTP, if your [[Linux]] machines aren't using SSH for authentication, or if your virtual machines have vulnerabilities.
 >
 > **[1:23](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=83)** The third use case is to comply with industry regulations.
 >
@@ -3387,7 +3360,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=90)** This depends on the nature of their business and the type of data they're processing.
 >
-> **[1:35](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=95)** Common examples of frameworks include CIS, PCI, NIST, and ISO.
+> **[1:35](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=95)** Common examples of frameworks include CIS, PCI, [[NIST]], and ISO.
 >
 > **[1:41](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=101)** Defender for Cloud makes it easy to comply with regulatory frameworks by tracking your compliance, identifying gaps, and providing recommendations.
 >
@@ -3401,21 +3374,21 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=132)** Here are some examples of threat alerts from Defender for Cloud.
 >
-> **[2:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=136)** A suspected brute force attempt, potential SQL injection attempt, malicious file uploaded to storage account, log-in from an unusual location, and high volume of operations performed in Key Vault.
+> **[2:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=136)** A suspected brute force attempt, potential [[SQL]] injection attempt, malicious file uploaded to storage account, log-in from an unusual location, and high volume of operations performed in Key Vault.
 >
 > **[2:27](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=147)** The next use case is to protect applications from code to production.
 >
-> **[2:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=152)** DevOps environments are dynamic with frequent code changes and deployments.
+> **[2:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=152)** [[DevOps]] environments are dynamic with frequent code changes and deployments.
 >
 > **[2:36](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=156)** While this approach brings agility, it also introduces security risks.
 >
-> **[2:41](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=161)** With Defender for Cloud, DevSecOps developers receive feedback during code commits, enabling them to fix security issues before deployment.
+> **[2:41](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=161)** With Defender for Cloud, [[DevSecOps]] developers receive feedback during code commits, enabling them to fix security issues before deployment.
 >
 > **[2:50](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=170)** This approach prevents vulnerabilities from propagating to production environments.
 >
 > **[2:54](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=174)** Also, with this approach, you have better collaboration between development and security teams.
 >
-> **[3:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=180)** Defender integrates with popular code pipelines, such as Azure DevOps, GitHub, and GitLab.
+> **[3:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=180)** Defender integrates with popular code pipelines, such as Azure DevOps, [[GitHub]], and GitLab.
 >
 > **[3:06](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=186)** Now, let's go to the Azure Portal and see Defender for Cloud.
 >
@@ -3461,13 +3434,13 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=304)** The Security posture tab under the Cloud Security section shows your secure score.
 >
-> **[5:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=310)** Under Regulatory compliance, you will find frameworks against which your resources have been assessed.
+> **[5:10](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=310)** Under [[Regulatory Compliance]], you will find frameworks against which your resources have been assessed.
 >
-> **[5:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=316)** By default, Microsoft cloud security benchmark is enabled.
+> **[5:16](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=316)** By default, [[Microsoft]] cloud security benchmark is enabled.
 >
-> **[5:20](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=320)** From Workload protections, you can access features like vulnerability assessment, just-in-time access, file integrity monitoring, and container image scanning.
+> **[5:20](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=320)** From Workload protections, you can access features like [[Vulnerability Assessment]], just-in-time access, file integrity monitoring, and container image scanning.
 >
-> **[5:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=332)** The Data security tab contains details about your data resources like storage and databases.
+> **[5:32](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=332)** The [[Data Security]] tab contains details about your data resources like storage and [[Databases]].
 >
 > **[5:40](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/use-cases-of-defender-for-cloud?u=76281980&t=340)** From Firewall Manager, you can centrally manage your Azure firewalls.
 >
@@ -3479,7 +3452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), [[Security]] (17), [[Microsoft Defender|Defender]] (13), [[Microsoft Azure|Azure]] (8), [[DevOps]] (5)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (13), [[Microsoft Azure|Azure]] (8), [[DevOps]] (5), [[Cloud Security]] (4), [[Virtual Machines]] (3)
 > **Env Vars:** cspm (2), http (1), ssh (1), cis (1), pci (1)
 > **Tools:** github (2), gitlab (2), azure portal (2)
 > **UI Navigation:** go to (3), click on (1), select the (1)
@@ -3493,18 +3466,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about Azure security
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980)
+#### [Learning more about Azure security](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980&t=0)** - [Shyamraj] Thanks for watching this course on Azure Security.
+> **[0:00](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980&t=0)** - [Shyamraj] Thanks for watching this course on [[Microsoft Azure|Azure]] Security.
 >
 > **[0:03](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980&t=3)** It has been an absolute pleasure to accompany you on this exploration of security tools.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980&t=8)** You are now more equipped to protect your Azure infrastructure against cyber threats.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980&t=12)** Cloud computing is constantly evolving and Azure keeps updating its tool set.
+> **[0:12](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980&t=12)** [[Cloud Computing]] is constantly evolving and Azure keeps updating its tool set.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980&t=17)** I recommend regularly checking the Azure documentation for the latest updates.
 >
@@ -3512,7 +3484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Security]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Cloud Computing]] (2)
 > **Speakers:** - [shyamraj] (1)
 
 

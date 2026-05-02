@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business analysis: Supporting project management work
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-supporting-project-management-work?u=76281980)
+#### [Business analysis: Supporting project management work](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-supporting-project-management-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,12 +115,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), career (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - have (1)
 
-#### What is business analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/what-is-business-analysis?u=76281980)
+#### [What is business analysis?](https://www.linkedin.com/learning/business-analysis-for-project-managers/what-is-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,25 +196,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), management (3), product (2), career (2), hit (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Common business analysis competencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980)
+#### [Common business analysis competencies](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980&t=0)** - BAs always talk about competencies.
 >
-> **[0:04](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980&t=4)** The rest of us probably call these skills, but let's talk about some of these because these are what business analysis brings to your project.
+> **[0:04](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980&t=4)** The [[Representational State Transfer (REST)|rest]] of us probably call these skills, but let's talk about some of these because these are what business analysis brings to your project.
 >
 > **[0:12](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980&t=12)** Now, we don't have time to cover all of these, so I'll focus on those that can help you specifically as a project manager manager.
 >
-> **[0:20](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980&t=20)** The first is expert judgment or business acumen.
+> **[0:20](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980&t=20)** The first is expert judgment or [[Business Acumen]].
 >
-> **[0:24](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980&t=24)** What I'm talking about here is understanding what the business does and how that relates to the project, like products, competitors, or organizational systems, and this also includes knowing the business needs and challenges.
+> **[0:24](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980&t=24)** What I'm talking about here is understanding what the business does and how that relates to the project, like [[Microsoft Products|products]], competitors, or organizational systems, and this also includes knowing the business needs and challenges.
 >
 > **[0:38](https://www.linkedin.com/learning/business-analysis-for-project-managers/common-business-analysis-competencies?u=76281980&t=38)** Since the BA is often part of a functional organization, they'll have this deeper understanding.
 >
@@ -271,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), functional (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Business Acumen]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - bas (1)
@@ -281,8 +276,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Initiating a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/initiating-a-project?u=76281980)
+#### [Initiating a project](https://www.linkedin.com/learning/business-analysis-for-project-managers/initiating-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,15 +348,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), management (2), product (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Analogies:** think of it like (1)
 > **Speakers:** - have (1)
 
-#### Situation statement and needs assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/situation-statement-and-needs-assessment?u=76281980)
+#### [Situation statement and needs assessment](https://www.linkedin.com/learning/business-analysis-for-project-managers/situation-statement-and-needs-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,12 +410,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### Key components of the business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/key-components-of-the-business-case?u=76281980)
+#### [Key components of the business case](https://www.linkedin.com/learning/business-analysis-for-project-managers/key-components-of-the-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -445,7 +435,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/business-analysis-for-project-managers/key-components-of-the-business-case?u=76281980&t=50)** It summarizes the key points.
 >
-> **[0:52](https://www.linkedin.com/learning/business-analysis-for-project-managers/key-components-of-the-business-case?u=76281980&t=52)** In many cases, this executive summary will be used to create a PowerPoint presentation where you basically tell or sell the story to convince decision makers that this particular project is worth the investment.
+> **[0:52](https://www.linkedin.com/learning/business-analysis-for-project-managers/key-components-of-the-business-case?u=76281980&t=52)** In many cases, this executive summary will be used to create a [[Microsoft PowerPoint|PowerPoint]] presentation where you basically tell or sell the story to convince decision makers that this particular project is worth the investment.
 >
 > **[1:07](https://www.linkedin.com/learning/business-analysis-for-project-managers/key-components-of-the-business-case?u=76281980&t=67)** After that, you're hopefully going to see a situation statement, information regarding the business problem or opportunity and its impact to the organization.
 >
@@ -491,13 +481,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), next (2), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### How to determine the business need without a business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-determine-the-business-need-without-a-business-case?u=76281980)
+#### [How to determine the business need without a business case](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-determine-the-business-need-without-a-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +548,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), management (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** cfo (1)
 > **Prerequisites:** you'll need (1)
@@ -570,8 +558,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stakeholder identification and assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980)
+#### [Stakeholder identification and assessment](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +590,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980&t=84)** Now onto the analysis of the stakeholders.
 >
-> **[1:28](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980&t=88)** From a business analysis perspective, we want to go beyond deadlines, products, and their requirements.
+> **[1:28](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980&t=88)** From a business analysis perspective, we want to go beyond deadlines, [[Microsoft Products|products]], and their requirements.
 >
 > **[1:35](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980&t=95)** We want to understand each stakeholder or stakeholder group's perspective.
 >
@@ -621,7 +608,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980&t=118)** Not only do you need to figure this out at the onset, but you'll leave to learn more about your stakeholders as the project goes on.
 >
-> **[2:06](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980&t=126)** The area of stakeholder engagement is probably the area with the greatest overlap between the role of the business analyst and the project manager.
+> **[2:06](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980&t=126)** The area of [[Stakeholder Engagement]] is probably the area with the greatest overlap between the role of the business analyst and the project manager.
 >
 > **[2:16](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980&t=136)** What the business analysis component brings to the table is ensuring that the appropriate parties are represented, informed and involved at key times during the project.
 >
@@ -641,12 +628,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), product (2), management (1), leadership (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Stakeholder Engagement]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - stakeholders (1)
 
-#### The importance of stakeholder engagement
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/the-importance-of-stakeholder-engagement?u=76281980)
+#### [The importance of stakeholder engagement](https://www.linkedin.com/learning/business-analysis-for-project-managers/the-importance-of-stakeholder-engagement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -656,7 +642,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/business-analysis-for-project-managers/the-importance-of-stakeholder-engagement?u=76281980&t=11)** And how do we determine what engagement is appropriate?
 >
-> **[0:14](https://www.linkedin.com/learning/business-analysis-for-project-managers/the-importance-of-stakeholder-engagement?u=76281980&t=14)** We're talking about stakeholder engagement in this course, specifically, because we need to account for the activities that the business analyst does.
+> **[0:14](https://www.linkedin.com/learning/business-analysis-for-project-managers/the-importance-of-stakeholder-engagement?u=76281980&t=14)** We're talking about [[Stakeholder Engagement]] in this course, specifically, because we need to account for the activities that the business analyst does.
 >
 > **[0:23](https://www.linkedin.com/learning/business-analysis-for-project-managers/the-importance-of-stakeholder-engagement?u=76281980&t=23)** You'll need to build that into the project schedule.
 >
@@ -696,7 +682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (3), [[Stakeholder Engagement]] (2), management (1), data (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (2)
 > **Env Vars:** raci (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -707,8 +693,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to develop a shared vision of the product or project result
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-shared-vision-of-the-product-or-project-result?u=76281980)
+#### [How to develop a shared vision of the product or project result](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-shared-vision-of-the-product-or-project-result?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,13 +737,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), business (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (2), imagine (1)
 > **Speakers:** - can (1)
 
-#### How to develop a road map for product delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-road-map-for-product-delivery?u=76281980)
+#### [How to develop a road map for product delivery](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-road-map-for-product-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +765,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-road-map-for-product-delivery?u=76281980&t=67)** Prioritization is often determined by needs and demands, internally by product management, marketing, or sales or externally by regulatory or compliance timeframes.
 >
-> **[1:21](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-road-map-for-product-delivery?u=76281980&t=81)** Like we've said before, this is why stakeholder engagement is so important.
+> **[1:21](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-road-map-for-product-delivery?u=76281980&t=81)** Like we've said before, this is why [[Stakeholder Engagement]] is so important.
 >
 > **[1:26](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-road-map-for-product-delivery?u=76281980&t=86)** You need to know in what order things need to be done.
 >
@@ -800,7 +783,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-road-map-for-product-delivery?u=76281980&t=124)** It's good to know how you can be flexible if you need to.
 >
-> **[2:08](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-road-map-for-product-delivery?u=76281980&t=128)** In an agile environment, we often only have clarification on those activities and influences known for the very near future.
+> **[2:08](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-road-map-for-product-delivery?u=76281980&t=128)** In an [[Agile Development|agile]] environment, we often only have clarification on those activities and influences known for the very near future.
 >
 > **[2:17](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-road-map-for-product-delivery?u=76281980&t=137)** We can identify additional areas that might be addressed in the future, but things can change.
 >
@@ -812,7 +795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (2), [[Agile Development|Agile]] (2), management (1), [[Stakeholder Engagement]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Stakeholder Engagement]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - we (1)
 
@@ -821,8 +804,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify, plan, and execute on business analysis activities
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/identify-plan-and-execute-on-business-analysis-activities?u=76281980)
+#### [Identify, plan, and execute on business analysis activities](https://www.linkedin.com/learning/business-analysis-for-project-managers/identify-plan-and-execute-on-business-analysis-activities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +830,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/business-analysis-for-project-managers/identify-plan-and-execute-on-business-analysis-activities?u=76281980&t=74)** So that means the BA or the person doing the BA work needs to do some planning too.
 >
-> **[1:20](https://www.linkedin.com/learning/business-analysis-for-project-managers/identify-plan-and-execute-on-business-analysis-activities?u=76281980&t=80)** We need to plan for stakeholder engagement to get the details behind the initial vision.
+> **[1:20](https://www.linkedin.com/learning/business-analysis-for-project-managers/identify-plan-and-execute-on-business-analysis-activities?u=76281980&t=80)** We need to plan for [[Stakeholder Engagement]] to get the details behind the initial vision.
 >
 > **[1:26](https://www.linkedin.com/learning/business-analysis-for-project-managers/identify-plan-and-execute-on-business-analysis-activities?u=76281980&t=86)** We also need to build in time to fully understand what's needed to deliver that vision or the final requirements.
 >
@@ -864,12 +846,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Stakeholder Engagement]] (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 
-#### Including analysis activities in the project schedule
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980)
+#### [Including analysis activities in the project schedule](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,7 +886,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=76)** But start here.
 >
-> **[1:18](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=78)** Depending on the approach being used, like agile, you may only need these to get started.
+> **[1:18](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=78)** Depending on the approach being used, like [[Agile Development|agile]], you may only need these to get started.
 >
 > **[1:25](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=85)** Here's a few more activities you'll need to build into the schedule.
 >
@@ -915,7 +896,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=99)** Often, this is best accomplished by facilitating sessions with a cross-functional group of stakeholders to help get a broader idea of their vision and various features or functions.
 >
-> **[1:51](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=111)** This ability to facilitate a requirements gathering session is another core competency of a business analyst.
+> **[1:51](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=111)** This ability to facilitate a [[Requirements Gathering]] session is another core competency of a business analyst.
 >
 > **[1:58](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=118)** But you should also be able to do this as a project manager as well.
 >
@@ -929,7 +910,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=155)** Include all of it in the project schedule.
 >
-> **[2:38](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=158)** Now, a word about approaches.
+> **[2:38](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=158)** Now, a [[Microsoft Word|word]] about approaches.
 >
 > **[2:40](https://www.linkedin.com/learning/business-analysis-for-project-managers/including-analysis-activities-in-the-project-schedule?u=76281980&t=160)** If you're using an approach where the bulk of the project is planned at the beginning, such as a predictive or waterfall, a guesstimate must be made as to how long to plan for these various activities.
 >
@@ -949,14 +930,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), business (3), [[Agile Development|Agile]] (2), functional (1), [[Requirements Gathering]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Requirements Gathering]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)
 
-#### Determine product scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-product-scope?u=76281980)
+#### [Determine product scope](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-product-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1004,7 +984,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-product-scope?u=76281980&t=136)** You don't have to detail everything, just give enough so that as things come up, you have a solid starting point for deciding what to do.
 >
-> **[2:26](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-product-scope?u=76281980&t=146)** If we take a look at how agile or adaptive projects handle scope, this method becomes much more apparent.
+> **[2:26](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-product-scope?u=76281980&t=146)** If we take a look at how [[Agile Development|agile]] or adaptive projects handle scope, this method becomes much more apparent.
 >
 > **[2:35](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-product-scope?u=76281980&t=155)** They start with a vision and a roadmap of just pieces of the project.
 >
@@ -1026,7 +1006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), business (3), management (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
@@ -1036,8 +1016,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Product requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/product-requirements?u=76281980)
+#### [Product requirements](https://www.linkedin.com/learning/business-analysis-for-project-managers/product-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1086,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/business-analysis-for-project-managers/product-requirements?u=76281980&t=177)** These include training documentation and possibly conversion and implementation requirements.
 >
-> **[3:04](https://www.linkedin.com/learning/business-analysis-for-project-managers/product-requirements?u=76281980&t=184)** Another set of requirements, those identifying the quality levels required are often the responsibility of either a quality analyst or a group like quality assurance.
+> **[3:04](https://www.linkedin.com/learning/business-analysis-for-project-managers/product-requirements?u=76281980&t=184)** Another set of requirements, those identifying the quality levels required are often the responsibility of either a quality analyst or a group like [[Quality Assurance]].
 >
 > **[3:16](https://www.linkedin.com/learning/business-analysis-for-project-managers/product-requirements?u=76281980&t=196)** These include conditions or capabilities which will be used to assess conformance to specification through the verification and testing activities.
 >
@@ -1137,15 +1116,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), product (6), functional (5), [[Security]] (1), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
-#### Eliciting requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/eliciting-requirements?u=76281980)
+#### [Eliciting requirements](https://www.linkedin.com/learning/business-analysis-for-project-managers/eliciting-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1231,13 +1209,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), functional (2), management (2), [[Search]] (1), business (1)
 > **Analogies:** it's like (1), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - hopefully (1)
 
-#### Analyzing requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/analyzing-requirements?u=76281980)
+#### [Analyzing requirements](https://www.linkedin.com/learning/business-analysis-for-project-managers/analyzing-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1337,7 +1313,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/business-analysis-for-project-managers/analyzing-requirements?u=76281980&t=258)** It's not just a BA thing.
 >
-> **[4:21](https://www.linkedin.com/learning/business-analysis-for-project-managers/analyzing-requirements?u=76281980&t=261)** There are some resources here on LinkedIn Learning.
+> **[4:21](https://www.linkedin.com/learning/business-analysis-for-project-managers/analyzing-requirements?u=76281980&t=261)** There are some resources here on [[LinkedIn]] Learning.
 >
 > **[4:24](https://www.linkedin.com/learning/business-analysis-for-project-managers/analyzing-requirements?u=76281980&t=264)** You can also observe a BA in action.
 >
@@ -1345,15 +1321,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (2), management (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** for example (3), picture (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (1), required to (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - it (1)
 
-#### Baselining requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/baselining-requirements?u=76281980)
+#### [Baselining requirements](https://www.linkedin.com/learning/business-analysis-for-project-managers/baselining-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,7 +1346,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/business-analysis-for-project-managers/baselining-requirements?u=76281980&t=27)** As PMs, we understand that verification is making sure that the result meets the specification and it's usually done as part of the testing of deliverables.
 >
-> **[0:37](https://www.linkedin.com/learning/business-analysis-for-project-managers/baselining-requirements?u=76281980&t=37)** It's more of a quality assurance or beta testing thing.
+> **[0:37](https://www.linkedin.com/learning/business-analysis-for-project-managers/baselining-requirements?u=76281980&t=37)** It's more of a [[Quality Assurance]] or beta testing thing.
 >
 > **[0:41](https://www.linkedin.com/learning/business-analysis-for-project-managers/baselining-requirements?u=76281980&t=41)** But as BAs understand verification, it's a bit of a different meaning.
 >
@@ -1405,13 +1380,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/business-analysis-for-project-managers/baselining-requirements?u=76281980&t=150)** It creates an actionable snapshot of the expectations and placing it officially on these other tools ensures that the work is fulfilling this verified understanding.
 >
-> **[2:42](https://www.linkedin.com/learning/business-analysis-for-project-managers/baselining-requirements?u=76281980&t=162)** While it might seem fussy at the beginning, it makes the rest of the process far more efficient and team communication more fluid.
+> **[2:42](https://www.linkedin.com/learning/business-analysis-for-project-managers/baselining-requirements?u=76281980&t=162)** While it might seem fussy at the beginning, it makes the [[Representational State Transfer (REST)|rest]] of the process far more efficient and team communication more fluid.
 >
 > **[2:53](https://www.linkedin.com/learning/business-analysis-for-project-managers/baselining-requirements?u=76281980&t=173)** So build in the time, baseline the requirements, you'll be doing your team and stakeholders a favor.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quality Assurance]] (1), business (1), product (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Documentation:** specification (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - now (1)
@@ -1421,8 +1396,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business analyst (BA) or product owner
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analyst-ba-or-product-owner?u=76281980)
+#### [Business analyst (BA) or product owner](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analyst-ba-or-product-owner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1430,7 +1404,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analyst-ba-or-product-owner?u=76281980&t=5)** I mean, that's also probably why you're here listening to me.
 >
-> **[0:09](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analyst-ba-or-product-owner?u=76281980&t=9)** Sometimes the PM takes on the BA work, but sometimes, especially if you're using an agile approach, the product owner is assigned to provide the requirements.
+> **[0:09](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analyst-ba-or-product-owner?u=76281980&t=9)** Sometimes the PM takes on the BA work, but sometimes, especially if you're using an [[Agile Development|agile]] approach, the product owner is assigned to provide the requirements.
 >
 > **[0:20](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analyst-ba-or-product-owner?u=76281980&t=20)** If you think about it, it kind of makes sense.
 >
@@ -1484,17 +1458,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), business (6), [[Agile Development|Agile]] (2), functional (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **CLI Commands:** make (5)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - more (1)
 
-#### Analysis of agile requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/analysis-of-agile-requirements?u=76281980)
+#### [Analysis of agile requirements](https://www.linkedin.com/learning/business-analysis-for-project-managers/analysis-of-agile-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analysis-for-project-managers/analysis-of-agile-requirements?u=76281980&t=1)** - So let's talk about Agile. You knew it was coming.
+> **[0:01](https://www.linkedin.com/learning/business-analysis-for-project-managers/analysis-of-agile-requirements?u=76281980&t=1)** - So let's talk about [[Agile Development|Agile]]. You knew it was coming.
 >
 > **[0:05](https://www.linkedin.com/learning/business-analysis-for-project-managers/analysis-of-agile-requirements?u=76281980&t=5)** You can't really talk about projects anymore without addressing the unique process that Agile brings to the table.
 >
@@ -1564,7 +1537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), product (2), data (1), business (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
@@ -1574,8 +1547,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supporting requirements verification and testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/supporting-requirements-verification-and-testing?u=76281980)
+#### [Supporting requirements verification and testing](https://www.linkedin.com/learning/business-analysis-for-project-managers/supporting-requirements-verification-and-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1623,7 +1595,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/business-analysis-for-project-managers/supporting-requirements-verification-and-testing?u=76281980&t=156)** Regardless, it needs to happen before the verification and testing that is part of the control quality process.
 >
-> **[2:45](https://www.linkedin.com/learning/business-analysis-for-project-managers/supporting-requirements-verification-and-testing?u=76281980&t=165)** This includes any unit testing by the developers and integration of individual stories into the larger epics, features or functions.
+> **[2:45](https://www.linkedin.com/learning/business-analysis-for-project-managers/supporting-requirements-verification-and-testing?u=76281980&t=165)** This includes any [[Unit Testing]] by the developers and integration of individual stories into the larger epics, features or functions.
 >
 > **[2:56](https://www.linkedin.com/learning/business-analysis-for-project-managers/supporting-requirements-verification-and-testing?u=76281980&t=176)** We also have to make sure we build in time to test that any outgoing information will be usable by the receiving application or organization.
 >
@@ -1635,13 +1607,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), feature (1), data (1), [[Unit Testing]] (1), application (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Speakers:** - tracing (1)
 
-#### Validation and acceptance of requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980)
+#### [Validation and acceptance of requirements](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1665,13 +1636,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=56)** There's actually a number of different types of tests that users can perform.
 >
-> **[1:01](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=61)** You can use more unstructured exploratory testing or a more structured and detailed usability testing.
+> **[1:01](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=61)** You can use more unstructured exploratory testing or a more structured and detailed [[Usability Testing]].
 >
 > **[1:10](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=70)** These may include day-in-the-life, given-when-then, or scenario-based tests.
 >
 > **[1:17](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=77)** Traditional projects often wait and perform the validation process when most, if not all, of the requirements have been completed.
 >
-> **[1:25](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=85)** Agile projects, on the other hand, validate the results of each sprint or iteration often through demonstrations to the product owner or key stakeholder for their approval and acceptance.
+> **[1:25](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=85)** [[Agile Development|Agile]] projects, on the other hand, validate the results of each sprint or iteration often through demonstrations to the product owner or key stakeholder for their approval and acceptance.
 >
 > **[1:39](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=99)** This PM process is part of the validate scope process.
 >
@@ -1681,13 +1652,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=116)** The testing of the non-functional requirements is often done as the last step before acceptance of the requirements.
 >
-> **[2:04](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=124)** These often ensure that the scalability, security, and performance requirements are met.
+> **[2:04](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=124)** These often ensure that the [[Scalability]], security, and performance requirements are met.
 >
 > **[2:11](https://www.linkedin.com/learning/business-analysis-for-project-managers/validation-and-acceptance-of-requirements?u=76281980&t=131)** Requirements validation is a critical activity and while simple sign off might appear sufficient, we have to consider that every test ensures the completeness of the requirements and a satisfactory result.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Usability Testing]] (1), [[Agile Development|Agile]] (1), product (1), functional (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (1), [[Agile Development|Agile]] (1), [[Scalability]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** uat (1)
@@ -1698,8 +1669,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning transition
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/planning-transition?u=76281980)
+#### [Planning transition](https://www.linkedin.com/learning/business-analysis-for-project-managers/planning-transition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1725,7 +1695,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/business-analysis-for-project-managers/planning-transition?u=76281980&t=63)** After putting so much care into the project up until this point, you don't want to miss something critical.
 >
-> **[1:09](https://www.linkedin.com/learning/business-analysis-for-project-managers/planning-transition?u=76281980&t=69)** Yes, you could use an agile approach here, but the conversion effort is most effective using a waterfall or sequential approach.
+> **[1:09](https://www.linkedin.com/learning/business-analysis-for-project-managers/planning-transition?u=76281980&t=69)** Yes, you could use an [[Agile Development|agile]] approach here, but the conversion effort is most effective using a waterfall or sequential approach.
 >
 > **[1:18](https://www.linkedin.com/learning/business-analysis-for-project-managers/planning-transition?u=76281980&t=78)** While we're here, let's talk about metrics.
 >
@@ -1783,14 +1753,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), business (2), data (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### Complete transition activities
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/complete-transition-activities?u=76281980)
+#### [Complete transition activities](https://www.linkedin.com/learning/business-analysis-for-project-managers/complete-transition-activities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1840,7 +1809,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/business-analysis-for-project-managers/complete-transition-activities?u=76281980&t=157)** As the result is transitioned and starting to be used, problems may be discovered.
 >
-> **[2:43](https://www.linkedin.com/learning/business-analysis-for-project-managers/complete-transition-activities?u=76281980&t=163)** This is often in the form of what we call escape defects that in the software industry require modifications by a DevOps or support group.
+> **[2:43](https://www.linkedin.com/learning/business-analysis-for-project-managers/complete-transition-activities?u=76281980&t=163)** This is often in the form of what we call escape defects that in the software industry require modifications by a [[DevOps]] or support group.
 >
 > **[2:53](https://www.linkedin.com/learning/business-analysis-for-project-managers/complete-transition-activities?u=76281980&t=173)** Since we're already in transition, we'll add any modifications and new features to the product backlog for possible inclusion in the next release.
 >
@@ -1852,15 +1821,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (2), [[DevOps]] (2), next (2), management (1)
+> **Frameworks & Libraries:** [[DevOps]] (2)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - we (1)
 
-#### Determine solution deployment readiness
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-solution-deployment-readiness?u=76281980)
+#### [Determine solution deployment readiness](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-solution-deployment-readiness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1884,7 +1852,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-solution-deployment-readiness?u=76281980&t=55)** They'll monitor performance specifications against measurements and metrics like key performance indicators or KPIs, customer metrics, operational metrics.
 >
-> **[1:06](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-solution-deployment-readiness?u=76281980&t=66)** These metrics, as well as the support required to capture them as often part of a sustainability plan.
+> **[1:06](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-solution-deployment-readiness?u=76281980&t=66)** These metrics, as well as the support required to capture them as often part of a [[Sustainability]] plan.
 >
 > **[1:13](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-solution-deployment-readiness?u=76281980&t=73)** Once again, the responsibility of the BA but the PM needs to build it into the overall plan.
 >
@@ -1910,7 +1878,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-solution-deployment-readiness?u=76281980&t=170)** At implementation and beyond any defects or bugs that are found need to be addressed.
 >
-> **[2:56](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-solution-deployment-readiness?u=76281980&t=176)** Usually through a DevOps process, you can learn all about that in our DevOps foundation course here on the library, it's worth a watch and pretty funny too.
+> **[2:56](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-solution-deployment-readiness?u=76281980&t=176)** Usually through a [[DevOps]] process, you can learn all about that in our DevOps foundation course here on the library, it's worth a watch and pretty funny too.
 >
 > **[3:08](https://www.linkedin.com/learning/business-analysis-for-project-managers/determine-solution-deployment-readiness?u=76281980&t=188)** This deployment stage is all about making those last final adjustments so that the change will stick.
 >
@@ -1920,7 +1888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[DevOps]] (2), product (1), [[Sustainability]] (1), management (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Sustainability]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
@@ -1930,8 +1898,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business analysis competencies are essential for project managers
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-competencies-are-essential-for-project-managers?u=76281980)
+#### [Business analysis competencies are essential for project managers](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-competencies-are-essential-for-project-managers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1965,7 +1932,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-competencies-are-essential-for-project-managers?u=76281980&t=63)** And I can't wait to go back to Malaysia.
 >
-> **[1:06](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-competencies-are-essential-for-project-managers?u=76281980&t=66)** Now, if you'd like to learn more, I highly recommend you take your notes from this course and find specific videos on LinkedIn Learning related to those terms or activities.
+> **[1:06](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-competencies-are-essential-for-project-managers?u=76281980&t=66)** Now, if you'd like to learn more, I highly recommend you take your notes from this course and find specific videos on [[LinkedIn]] Learning related to those terms or activities.
 >
 > **[1:17](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-competencies-are-essential-for-project-managers?u=76281980&t=77)** That way your learning is more targeted and you won't get burned out.
 >
@@ -1989,7 +1956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - well (1)

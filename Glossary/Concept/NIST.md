@@ -17,7 +17,7 @@ tags:
   - topic/artificial-intelligence
   - topic/data-science
   - topic/software-development
-course_count: 95
+course_count: 96
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # NIST
 
-> **Type:** Concept | **Courses:** 95 | **Topics:** [[Cybersecurity]], [[Cloud Computing]], [[Artificial Intelligence (AI)]], [[Data Science]], [[Software Development]]
+> **Type:** Concept | **Courses:** 96 | **Topics:** [[Cybersecurity]], [[Cloud Computing]], [[Artificial Intelligence (AI)]], [[Data Science]], [[Software Development]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Cybersecurity with Cloud Computing]] — 12 mentions
 10. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 11 mentions
 
-> [!note]- See all 95 courses
+> [!note]- See all 96 courses
 > 11. [[AI Product Development- Secure by Design]] — 11 mentions
 > 12. [[Leveraging AI for Security Testing]] — 11 mentions
 > 13. [[Static Application Security Testing]] — 10 mentions
@@ -117,15 +117,16 @@ created: 2026-05-02
 > 84. [[AWS Essential Training for Architects]] — 1 mentions
 > 85. [[Ubuntu Linux- Operating System Basics]] — 1 mentions
 > 86. [[AI Workshop- Hands-on with GANs Using Dense Neural Networks (2023)]] — 1 mentions
-> 87. [[GDPR Compliance- Essential Training]] — 1 mentions
-> 88. [[Google Cloud Security for Beginners- Tools and Services]] — 1 mentions
-> 89. [[Securing Containers and Kubernetes Ecosystem]] — 1 mentions
-> 90. [[Docker Essential Training]] — 1 mentions
-> 91. [[Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization]] — 1 mentions
-> 92. [[OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components]] — 1 mentions
-> 93. [[PHP- User Authentication]] — 1 mentions
-> 94. [[Cloud Computing Understanding Core Concepts]] — 1 mentions
-> 95. [[AI Product Security- Incident Response]] — 1 mentions
+> 87. [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] — 1 mentions
+> 88. [[GDPR Compliance- Essential Training]] — 1 mentions
+> 89. [[Google Cloud Security for Beginners- Tools and Services]] — 1 mentions
+> 90. [[Securing Containers and Kubernetes Ecosystem]] — 1 mentions
+> 91. [[Docker Essential Training]] — 1 mentions
+> 92. [[Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization]] — 1 mentions
+> 93. [[OWASP Top 10- -5 Security Misconfiguration and -6 Vulnerable and Outdated Components]] — 1 mentions
+> 94. [[PHP- User Authentication]] — 1 mentions
+> 95. [[Cloud Computing Understanding Core Concepts]] — 1 mentions
+> 96. [[AI Product Security- Incident Response]] — 1 mentions
 
 ## Learning Paths
 

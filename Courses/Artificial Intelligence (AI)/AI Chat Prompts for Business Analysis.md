@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with generative AI as a business analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/working-with-generative-ai-as-a-business-analyst?u=76281980)
+#### [Working with generative AI as a business analyst](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/working-with-generative-ai-as-a-business-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,7 +84,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/working-with-generative-ai-as-a-business-analyst?u=76281980&t=12)** I use AI chat prompts daily, and so should you.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/working-with-generative-ai-as-a-business-analyst?u=76281980&t=16)** From simple productivity to deeper analysis work, detailed process mapping to strategic decision-making.
+> **[0:16](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/working-with-generative-ai-as-a-business-analyst?u=76281980&t=16)** From simple productivity to deeper analysis work, detailed process mapping to strategic [[Decision-Making]].
 >
 > **[0:24](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/working-with-generative-ai-as-a-business-analyst?u=76281980&t=24)** It's about how you approach it, and you'll leave this course with a great library of chat prompts you can use wherever your work takes you.
 >
@@ -95,15 +94,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), business (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Speakers:** - ai (1)
 
-#### Considerations: Generative AI for business analysis work
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980)
+#### [Considerations: Generative AI for business analysis work](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=1)** - By the time you watch this video, there may be another a hundred different apps on the market that offer generative AI solutions.
+> **[0:01](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=1)** - By the time you watch this video, there may be another a hundred different apps on the market that offer [[Generative AI]] solutions.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=8)** But a tool is just a tool.
 >
@@ -121,13 +119,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=59)** For those answers, check out the chapter links document next in this course.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=63)** It's full of great resources to learn more about large language models, machine learning, and how the AI that is in the hands of consumers today generally works.
+> **[1:03](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=63)** It's full of great resources to learn more about [[Large Language Models (LLM)|large language models]], machine learning, and how the AI that is in the hands of consumers today generally works.
 >
 > **[1:13](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=73)** Now the great thing is that I'm going to show you free tools or demonstrate in the free option.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=78)** This way you can follow along directly.
 >
-> **[1:21](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=81)** If you haven't already done so, go ahead and get an account with ChatGPT or perplexity, or your favorite AI app that has a chat prompt feature.
+> **[1:21](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=81)** If you haven't already done so, go ahead and get an account with [[ChatGPT]] or perplexity, or your favorite AI app that has a chat prompt feature.
 >
 > **[1:30](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/considerations-generative-ai-for-business-analysis-work?u=76281980&t=90)** Have it open and be ready to follow along with me so that you can see these prompts work in real time.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2), application (2), business (2), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Speakers:** - by (1)
 
@@ -156,12 +154,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting warmed up with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980)
+#### [Getting warmed up with generative AI](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=0)** - [Jamie] Did you know that you can ask generative AI to ask you questions?
+> **[0:00](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=0)** - [Jamie] Did you know that you can ask [[Generative AI]] to ask you questions?
 >
 > **[0:06](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=6)** Yep, I'd love to introduce myself as a business analyst.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=42)** Like I'll share some abbreviations.
 >
-> **[0:44](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=44)** "I'm going to abbreviate business analysis or business analysis professional as BA for the rest of our conversation.
+> **[0:44](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=44)** "I'm going to abbreviate business analysis or business analysis professional as BA for the [[Representational State Transfer (REST)|rest]] of our conversation.
 >
 > **[0:52](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=52)** Is that okay?"
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=160)** So I'll add to the input.
 >
-> **[2:43](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=163)** "and I'd like it to be in a format that I can copy and paste into an Excel spreadsheet to allow me to track my activities with the department in the first column, stakeholder role in second column, responsibilities in third column and experience or expertise listed in fourth column.
+> **[2:43](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=163)** "and I'd like it to be in a format that I can copy and paste into an [[Microsoft Excel|Excel]] spreadsheet to allow me to track my activities with the department in the first column, stakeholder role in second column, responsibilities in third column and experience or expertise listed in fourth column.
 >
 > **[2:59](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980&t=179)** Can you do that?"
 >
@@ -237,17 +234,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Generative AI]] (2), hit (2), prompt (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [jamie] (1)
 
-#### Getting to know your stakeholders with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-to-know-your-stakeholders-with-generative-ai?u=76281980)
+#### [Getting to know your stakeholders with generative AI](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-to-know-your-stakeholders-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-to-know-your-stakeholders-with-generative-ai?u=76281980&t=0)** - [Instructor] Now, generative AI is great for giving you things.
+> **[0:00](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-to-know-your-stakeholders-with-generative-ai?u=76281980&t=0)** - [Instructor] Now, [[Generative AI]] is great for giving you things.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-to-know-your-stakeholders-with-generative-ai?u=76281980&t=5)** Give me the requirements for a CRM system.
 >
@@ -339,7 +335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (8), hit (2), ai (2), business (2), prompt (2)
+> **Frameworks & Libraries:** [[Generative AI]] (8)
 > **Env Vars:** crm (5), ceo (1)
 > **CLI Commands:** make (4)
 > **Definitions:** stands for (1), is a  (1)
@@ -347,8 +343,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Structuring chat prompts using user stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/structuring-chat-prompts-using-user-stories?u=76281980)
+#### [Structuring chat prompts using user stories](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/structuring-chat-prompts-using-user-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/structuring-chat-prompts-using-user-stories?u=76281980&t=18)** Yep.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/structuring-chat-prompts-using-user-stories?u=76281980&t=19)** That format you often had to write requirements in for your Agile projects.
+> **[0:19](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/structuring-chat-prompts-using-user-stories?u=76281980&t=19)** That format you often had to write requirements in for your [[Agile Development|Agile]] projects.
 >
 > **[0:22](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/structuring-chat-prompts-using-user-stories?u=76281980&t=22)** That's great for asking questions of chat prompts.
 >
@@ -406,7 +401,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/structuring-chat-prompts-using-user-stories?u=76281980&t=166)** Of course, you might need a little help in writing these good user stories, so don't be afraid to use your tool here.
 >
-> **[2:54](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/structuring-chat-prompts-using-user-stories?u=76281980&t=174)** I'm going to go ahead and ask my generative AI to do it for me.
+> **[2:54](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/structuring-chat-prompts-using-user-stories?u=76281980&t=174)** I'm going to go ahead and ask my [[Generative AI]] to do it for me.
 >
 > **[2:59](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/structuring-chat-prompts-using-user-stories?u=76281980&t=179)** "As a business analysis professional who is new to using chat prompts, I need some example prompts written in user story format.
 >
@@ -422,13 +417,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), prompt (3), [[Agile Development|Agile]] (1), next (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Seeking understanding with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/seeking-understanding-with-generative-ai?u=76281980)
+#### [Seeking understanding with generative AI](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/seeking-understanding-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +476,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/seeking-understanding-with-generative-ai?u=76281980&t=173)** Again, coming back to the same chat so that you and your generative model keep the context and understanding going.
 >
-> **[3:01](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/seeking-understanding-with-generative-ai?u=76281980&t=181)** So when you need help understanding, ask your generative AI.
+> **[3:01](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/seeking-understanding-with-generative-ai?u=76281980&t=181)** So when you need help understanding, ask your [[Generative AI]].
 >
 > **[3:04](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/seeking-understanding-with-generative-ai?u=76281980&t=184)** Like I'm preparing for testing by identifying all the test cases.
 >
@@ -514,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[Generative AI]] (4), prompt (1), generic (1), power (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4)
 > **Prerequisites:** set up (3)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
@@ -526,12 +520,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting chat prompts to generate ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-chat-prompts-to-generate-ideas?u=76281980)
+#### [Getting chat prompts to generate ideas](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-chat-prompts-to-generate-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-chat-prompts-to-generate-ideas?u=76281980&t=0)** - [Instructor] Brainstorming is all about mass quantity of ideas, and generative AI prompts are great at this with the right guidance.
+> **[0:00](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-chat-prompts-to-generate-ideas?u=76281980&t=0)** - [Instructor] Brainstorming is all about mass quantity of ideas, and [[Generative AI]] prompts are great at this with the right guidance.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-chat-prompts-to-generate-ideas?u=76281980&t=9)** So let's think about when you're in the role of a business analysis professional.
 >
@@ -591,15 +584,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Generative AI]] (3), prompt (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing chat prompts that assess and prioritize
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-that-assess-and-prioritize?u=76281980)
+#### [Writing chat prompts that assess and prioritize](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-that-assess-and-prioritize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -633,7 +625,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-that-assess-and-prioritize?u=76281980&t=62)** A good start, right? With a good question.
 >
-> **[1:07](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-that-assess-and-prioritize?u=76281980&t=67)** But now, generative AI is a powerful tool.
+> **[1:07](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-that-assess-and-prioritize?u=76281980&t=67)** But now, [[Generative AI]] is a powerful tool.
 >
 > **[1:10](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-that-assess-and-prioritize?u=76281980&t=70)** So let's go ahead and say this.
 >
@@ -687,13 +679,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), next (1), prompt (1), business (1), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing chat prompts for good questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-for-good-questions?u=76281980)
+#### [Writing chat prompts for good questions](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-for-good-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -707,7 +698,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-for-good-questions?u=76281980&t=14)** You can download and follow along with me.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-for-good-questions?u=76281980&t=16)** In this scenario, we're introducing ourselves as a senior business analysis professional assigned to a major digital transformation project.
+> **[0:16](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-for-good-questions?u=76281980&t=16)** In this scenario, we're introducing ourselves as a senior business analysis professional assigned to a major [[Digital Transformation]] project.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-for-good-questions?u=76281980&t=24)** Basically, we're going from paper process orders to a full online digital order management system.
 >
@@ -785,7 +776,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-for-good-questions?u=76281980&t=271)** What a great way to get a little more holistic view on the work we're analyzing and having to communicate with our stakeholders.
 >
-> **[4:38](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-for-good-questions?u=76281980&t=278)** So let's do one more scenario to really think through where our analysis work is taking us, what generative AI can help with.
+> **[4:38](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-for-good-questions?u=76281980&t=278)** So let's do one more scenario to really think through where our analysis work is taking us, what [[Generative AI]] can help with.
 >
 > **[4:47](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/writing-chat-prompts-for-good-questions?u=76281980&t=287)** Okay, great. Now, one more scenario.
 >
@@ -823,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), feature (2), [[Digital Transformation]] (1), management (1), prompt (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rfp (2)
 > **Cross-References:** later in (1)
@@ -831,12 +822,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Good questions to get good questions with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/good-questions-to-get-good-questions-with-genai?u=76281980)
+#### [Good questions to get good questions with GenAI](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/good-questions-to-get-good-questions-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/good-questions-to-get-good-questions-with-genai?u=76281980&t=0)** - [Tutor] Now generative AI helps you think about things from new perspectives.
+> **[0:00](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/good-questions-to-get-good-questions-with-genai?u=76281980&t=0)** - [Tutor] Now [[Generative AI]] helps you think about things from new perspectives.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/good-questions-to-get-good-questions-with-genai?u=76281980&t=5)** So let's practice getting our chat bots to ask us questions.
 >
@@ -894,7 +884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), prompt (6), [[Generative AI]] (2), hr (1), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - [tutor] (1)
@@ -904,8 +894,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building requirements with chat prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980)
+#### [Building requirements with chat prompts](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,7 +916,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980&t=50)** So let's ask then, "For each item on your list, provide specific example requirements that one might develop to use with the level of detail required for communicating with a third-party vendor assigned to develop and implement the final solution."
 >
-> **[1:12](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980&t=72)** All right, now we have some requirements, but we work on a team who's going to use some hybrid agile methodologies.
+> **[1:12](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980&t=72)** All right, now we have some requirements, but we work on a team who's going to use some hybrid [[Agile Development|agile]] methodologies.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980&t=79)** So if I'm going to use these, they need to be in a user story format.
 >
@@ -957,7 +946,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980&t=151)** Of course, again, I'd love it to continue generating, but I've got enough here to start with.
 >
-> **[2:36](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980&t=156)** But we still want to make even free versions of generative AI work for us and make our work easy.
+> **[2:36](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980&t=156)** But we still want to make even free versions of [[Generative AI]] work for us and make our work easy.
 >
 > **[2:43](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980&t=163)** These generic requirements are a great start for what I'll do, but since the team uses an application to track and manage user stories, we need to ask the chat prompt for more.
 >
@@ -973,7 +962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), business (2), data (2), management (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Generative AI]] (1)
 > **UI Navigation:** click on (3), scroll up (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** crm (2), csv (1)
@@ -981,8 +970,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Supporting your testing work using chat prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/supporting-your-testing-work-using-chat-prompts?u=76281980)
+#### [Supporting your testing work using chat prompts](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/supporting-your-testing-work-using-chat-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,7 +984,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/supporting-your-testing-work-using-chat-prompts?u=76281980&t=29)** We're going to start off by asking test cases.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/supporting-your-testing-work-using-chat-prompts?u=76281980&t=34)** Looking at the customer data management requirements, please provide test scenarios for each of the acceptance criteria listed.
+> **[0:34](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/supporting-your-testing-work-using-chat-prompts?u=76281980&t=34)** Looking at the customer [[Data Management]] requirements, please provide test scenarios for each of the acceptance criteria listed.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/supporting-your-testing-work-using-chat-prompts?u=76281980&t=46)** Great.
 >
@@ -1026,7 +1014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), prompt (2), management (1)
+> **Frameworks & Libraries:** [[Data Management]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** csv (1)
 > **Cross-References:** previous video (1)
@@ -1034,8 +1022,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building business cases through good prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-business-cases-through-good-prompts?u=76281980)
+#### [Building business cases through good prompts](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-business-cases-through-good-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1101,7 +1088,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-business-cases-through-good-prompts?u=76281980&t=168)** I love this, as I have both some defined steps, as well as additional considerations, to ensure I address when presenting the finished business case.
 >
-> **[2:57](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-business-cases-through-good-prompts?u=76281980&t=177)** Which leads us to what you want generative AI to generate, the business case.
+> **[2:57](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-business-cases-through-good-prompts?u=76281980&t=177)** Which leads us to what you want [[Generative AI]] to generate, the business case.
 >
 > **[3:03](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-business-cases-through-good-prompts?u=76281980&t=183)** So go ahead and ask, "Can you please take all the topics we've discussed so far and create a business case document that I can download and use please?
 >
@@ -1117,7 +1104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (14), prompt (3), leadership (2), [[Generative AI]] (2), management (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1130,8 +1117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1143,7 +1129,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/next-steps?u=76281980&t=13)** But your questions need to come with the who, what, and why.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/next-steps?u=76281980&t=19)** As whether you're having a good conversation with your favorite generative AI tool or you're at a project team meeting, just remember the three Ws and articulate clearly who needs what and why.
+> **[0:19](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/next-steps?u=76281980&t=19)** As whether you're having a good conversation with your favorite [[Generative AI]] tool or you're at a project team meeting, just remember the three Ws and articulate clearly who needs what and why.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/next-steps?u=76281980&t=33)** These are the secret weapon in your analysis arsenal 'cause they focus you on the three elements required when using generative AI chat prompts.
 >
@@ -1161,7 +1147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), prompt (2), ai (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3)
 > **Speakers:** - [instructor] (1)
 
 

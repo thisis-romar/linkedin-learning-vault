@@ -96,48 +96,46 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create brilliant documents with Microsoft Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980)
+#### [Create brilliant documents with Microsoft Word](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980&t=0)** - [David] Your ideas deserve to get noticed.
 >
-> **[0:02](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980&t=2)** Microsoft Word 365 can help.
+> **[0:02](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980&t=2)** [[Microsoft Word]] 365 can help.
 >
-> **[0:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980&t=6)** With Word, you can create documents that stand out, documents of all kinds, from letters to newsletters and from brochures to research papers.
+> **[0:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980&t=6)** With [[Microsoft Word|Word]], you can create documents that stand out, documents of all kinds, from letters to [[Newsletters]] and from brochures to research papers.
 >
 > **[0:14](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980&t=14)** Whether you work on your own or collaborate with a team, Word has the features you need to create documents that get your message out.
 >
 > **[0:22](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980&t=22)** I'm David Rivers and I've been teaching people how to get the most out of Microsoft Word since it was first released.
 >
-> **[0:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980&t=28)** Join me as we explore how Word in Microsoft 365 can help you work faster and easier as you create, edit, share, and collaborate on eye-catching documents.
+> **[0:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980&t=28)** Join me as we explore how Word in [[Microsoft 365]] can help you work faster and easier as you create, edit, share, and collaborate on eye-catching documents.
 
 > [!info]- Semantic Content
 >
 > **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Word]] (2), [[Newsletters]] (1), [[Microsoft 365]] (1)
 > **Speakers:** - [david] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started, here are some things you should know about this course.
 >
-> **[0:04](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=4)** Firstly, I'm working with a newly updated version of Word here in Microsoft 365.
+> **[0:04](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=4)** Firstly, I'm working with a newly updated version of [[Microsoft Word|Word]] here in [[Microsoft 365]].
 >
 > **[0:10](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=10)** Because Microsoft 365 is constantly being updated and improved, don't be alarmed if what you see on your screen does not always match exactly what appears on my screen.
 >
 > **[0:21](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=21)** None of these discrepancies should affect your ability to complete the tasks we'll be performing.
 >
-> **[0:27](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=27)** Now this course is tailored to those with little to no experience using any version of Microsoft Word and to those who are new to Word here in Microsoft 365.
+> **[0:27](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=27)** Now this course is tailored to those with little to no experience using any version of [[Microsoft Word]] and to those who are new to Word here in Microsoft 365.
 >
 > **[0:38](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=38)** So you won't need any experience with Word to follow along with ease as we move through the chapters and movies in this course.
 >
 > **[0:46](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=46)** If you're working with Word on a Mac computer, things will look different in this course from your version of Word.
 >
-> **[0:53](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=53)** Instead, you may want to check out my Mac version of this course on LinkedIn Learning to follow along with greater ease.
+> **[0:53](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=53)** Instead, you may want to check out my Mac version of this course on [[LinkedIn]] Learning to follow along with greater ease.
 >
 > **[1:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=60)** You'll also need to have a Microsoft 365 account or be subscribed to one of the Microsoft 365 Enterprise accounts in an organization and you'll need to be signed into that account to truly follow along with me.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=103)** You can open this course to watch on one device like a tablet or laptop and follow along on your PC.
 >
-> **[1:51](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=111)** Or you can open this course to watch in one window on your PC and follow along in Word in a separate window sized and placed one on top of the other so you can see both windows at once.
+> **[1:51](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=111)** Or you can open this course to watch in one window on your PC and follow along in Word in a separate window sized and placed one on top of the other so you can see both [[Windows]] at once.
 >
 > **[2:03](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/what-you-should-know?u=76281980&t=123)** Or you can just sit back, watch the course, and pause at any time to flip over to Word to try something out.
 >
@@ -159,24 +157,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Microsoft 365]] (5), [[LinkedIn]] (2), [[Microsoft Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Microsoft 365]] (5), [[LinkedIn]] (2), [[Microsoft Word]] (1), [[Windows]] (1)
 > **Exercise Files:** exercise files (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### The future of Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980)
+#### [The future of Word](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=0)** - [Instructor] One last thing before we get started.
 >
-> **[0:02](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=2)** You may have seen or heard about something called Microsoft 365 Copilot.
+> **[0:02](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=2)** You may have seen or heard about something called [[Microsoft 365]] [[Microsoft Copilot|Copilot]].
 >
-> **[0:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=7)** It's an enterprise-ready AI that's embedded into Word, but also Excel, Outlook, Teams, and PowerPoint.
+> **[0:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=7)** It's an enterprise-ready AI that's embedded into [[Microsoft Word|Word]], but also [[Microsoft Excel|Excel]], [[Microsoft Outlook|Outlook]], Teams, and [[Microsoft PowerPoint|PowerPoint]].
 >
-> **[0:15](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=15)** So it can summarize email threads in Outlook for you, it can analyze Excel data, and even create PowerPoint presentations based on proposals you have stored on OneDrive.
+> **[0:15](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=15)** So it can summarize email threads in Outlook for you, it can analyze Excel data, and even create PowerPoint presentations based on proposals you have stored on [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:25](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=25)** With Copilot here in Word, you'll be able to create documents from scratch based on cues and suggestions that you type in your own natural language.
 >
@@ -188,9 +185,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=51)** You'll access Copilot within the Microsoft 365 apps themselves, currently, Word, Excel, PowerPoint, Outlook, and Teams.
 >
-> **[1:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=60)** It uses large language models, that is, language engines capable of parsing text to translate your own words about what you're looking for.
+> **[1:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=60)** It uses [[Large Language Models (LLM)|large language models]], that is, language engines capable of parsing text to translate your own words about what you're looking for.
 >
-> **[1:09](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=69)** These language models are connected with the Microsoft Graph.
+> **[1:09](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=69)** These language models are connected with the [[Microsoft]] Graph.
 >
 > **[1:12](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=72)** That's your data in your calendar, emails, chats, documents, meetings, et cetera.
 >
@@ -202,13 +199,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=91)** Copilot is currently being tested with a very limited number of customers, and as of this recording, there has not yet been an official release date.
 >
-> **[1:41](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=101)** While waiting is always the most difficult part, it only means that Copilot will continue to get better and better before it's released to the rest of us.
+> **[1:41](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=101)** While waiting is always the most difficult part, it only means that Copilot will continue to get better and better before it's released to the [[Representational State Transfer (REST)|rest]] of us.
 >
 > **[1:50](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/the-future-of-word?u=76281980&t=110)** Now rest assured, when it's live and ready, I'll tell you what you will need to access it and show you how to use it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft Word|Word]] (3), [[Microsoft Excel|Excel]] (3), [[Microsoft Outlook|Outlook]] (3), teams (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft Word|Word]] (3), [[Microsoft Excel|Excel]] (3), [[Microsoft Outlook|Outlook]] (3), [[Microsoft PowerPoint|Powerpoint]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
@@ -218,20 +215,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Open, close, and read documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980)
+#### [Open, close, and read documents](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=0)** - [Instructor] Well, it's time now to launch Microsoft Word, open up the document, and get comfortable in our surroundings.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=0)** - [Instructor] Well, it's time now to launch [[Microsoft Word]], open up the document, and get comfortable in our surroundings.
 >
-> **[0:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=6)** You may have access to Microsoft Word from your Windows task bar like I do.
+> **[0:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=6)** You may have access to Microsoft Word from your [[Windows]] task bar like I do.
 >
 > **[0:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=11)** Yours may be across the bottom.
 >
-> **[0:13](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=13)** Selecting this with a single click will launch Word.
+> **[0:13](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=13)** Selecting this with a single click will launch [[Microsoft Word|Word]].
 >
-> **[0:16](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=16)** Otherwise, you may need to go to your start button here on the task bar to locate Microsoft Word and other Microsoft Office apps.
+> **[0:16](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=16)** Otherwise, you may need to go to your start button here on the task bar to locate Microsoft Word and other [[Microsoft Office]] apps.
 >
 > **[0:25](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=25)** Either way, once you select the Word icon to launch it, you'll be taken directly to the homepage by default.
 >
@@ -239,7 +235,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=36)** This gives us access to a couple of categories for creating new documents, including the default new blank document, as well as other suggested templates and a link to more templates.
 >
-> **[0:48](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=48)** There are thousands to choose from online with your Microsoft 365 account.
+> **[0:48](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=48)** There are thousands to choose from online with your [[Microsoft 365]] account.
 >
 > **[0:53](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=53)** Also, down below you'll see quick access to files you've worked on recently.
 >
@@ -273,7 +269,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=143)** Here's where you'll see the various locations you have access to with your subscription.
 >
-> **[2:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=148)** Because mine is a business subscription for a fictitious company, Red30Tech, I have access to OneDrive for business, as well as a SharePoint site which you may have with your organization, or perhaps you're not working with an enterprise subscription model and you're working with your own personal edition of Microsoft Office.
+> **[2:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=148)** Because mine is a business subscription for a fictitious company, Red30Tech, I have access to [[Microsoft OneDrive|OneDrive]] for business, as well as a [[SharePoint]] site which you may have with your organization, or perhaps you're not working with an enterprise subscription model and you're working with your own personal edition of Microsoft Office.
 >
 > **[2:48](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=168)** In that case, you'll have your own personal OneDrive which is storage in the cloud.
 >
@@ -331,7 +327,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=318)** It's the same as going to view and switching back to print layout.
 >
-> **[5:22](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=322)** Notice also there's a zoom slider currently set at 100% the actual size of your document.
+> **[5:22](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=322)** Notice also there's a [[Zoom]] slider currently set at 100% the actual size of your document.
 >
 > **[5:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=328)** If you want to get a good bird's eye view of the layout of your pages, drag that to the left.
 >
@@ -351,7 +347,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=366)** Maybe you just want to focus on the page width.
 >
-> **[6:08](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=368)** This will zoom you in so it's a little bit easier to read, but you'll need to scroll up and down to see the rest of the content on the pages.
+> **[6:08](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=368)** This will zoom you in so it's a little bit easier to read, but you'll need to scroll up and down to see the [[Representational State Transfer (REST)|rest]] of the content on the pages.
 >
 > **[6:19](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980&t=379)** Let's go back to 100% and make sure print layout is selected.
 >
@@ -377,7 +373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (3), [[Microsoft Word|Word]] (3), [[Search]] (3), web (3), [[Zoom]] (3)
+> **Frameworks & Libraries:** [[Microsoft Word]] (3), [[Microsoft Word|Word]] (3), [[Zoom]] (3), [[Microsoft Office]] (2), [[Microsoft 365]] (2)
 > **UI Navigation:** go to (5), scroll down (2), select the (1), scroll up (1)
 > **Exercise Files:** template (2), exercise files (2)
 > **CLI Commands:** find (2), make (1)
@@ -386,12 +382,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Save new documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980)
+#### [Save new documents](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=0)** - [Instructor] When you're ready to create your first document here in Microsoft Word, there are a couple of different options.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=0)** - [Instructor] When you're ready to create your first document here in [[Microsoft Word]], there are a couple of different options.
 >
 > **[0:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=6)** That's what we're going to explore in this movie.
 >
@@ -447,7 +442,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=141)** And if we wanted to, we could type right where the cursor's flashing here in the top left corner.
 >
-> **[2:26](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=146)** But there's a nice little shortcut here built into Word that lets you type wherever you want.
+> **[2:26](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=146)** But there's a nice little shortcut here built into [[Microsoft Word|Word]] that lets you type wherever you want.
 >
 > **[2:30](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=150)** Notice when you move your mouse pointer around, it's an I-beam that has a little marker next to it.
 >
@@ -471,7 +466,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=202)** Notice when you start to type conference, something happens.
 >
-> **[3:25](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=205)** The rest of the word appears for you.
+> **[3:25](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=205)** The [[Representational State Transfer (REST)|rest]] of the word appears for you.
 >
 > **[3:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/save-new-documents?u=76281980&t=208)** It's called text predictions.
 >
@@ -553,7 +548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Microsoft Word|Word]] (4), next (3), [[Microsoft Word]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** template (4)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
@@ -562,18 +557,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 
-#### Use the Tell Me assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-the-tell-me-assistant?u=76281980)
+#### [Use the Tell Me assistant](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-the-tell-me-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-the-tell-me-assistant?u=76281980&t=0)** - [Instructor] Before we do any more work on our new document here on Word for Microsoft 365, there's a feature you should know about.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-the-tell-me-assistant?u=76281980&t=0)** - [Instructor] Before we do any more work on our new document here on [[Microsoft Word|Word]] for [[Microsoft 365]], there's a feature you should know about.
 >
-> **[0:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-the-tell-me-assistant?u=76281980&t=7)** It's going to help you get familiar with the various features and functions of Microsoft Word more quickly.
+> **[0:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-the-tell-me-assistant?u=76281980&t=7)** It's going to help you get familiar with the various features and functions of [[Microsoft Word]] more quickly.
 >
 > **[0:13](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-the-tell-me-assistant?u=76281980&t=13)** It used to be called the Tell Me What to Do Assistant or Tell Me Assistant.
 >
-> **[0:18](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-the-tell-me-assistant?u=76281980&t=18)** Now it's simply called Microsoft Search, and we're going to explore it in this movie with the document we've started.
+> **[0:18](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-the-tell-me-assistant?u=76281980&t=18)** Now it's simply called [[Microsoft]] Search, and we're going to explore it in this movie with the document we've started.
 >
 > **[0:25](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-the-tell-me-assistant?u=76281980&t=25)** If you're catching up or skipping to this movie, you can go to the chapter one folder of your exercise files and open up Red-30-Conference-01-03, and you'll have what I have.
 >
@@ -635,7 +629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), [[Microsoft]] (3), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (1), [[Microsoft Word]] (1)
 > **UI Navigation:** go to (7), dropdown (1)
 > **CLI Commands:** find (5)
 > **Definitions:** is a  (2), known as (1)
@@ -648,12 +642,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inserting new text
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/inserting-new-text?u=76281980)
+#### [Inserting new text](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/inserting-new-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/inserting-new-text?u=76281980&t=0)** - [Instructor] Because Microsoft Word is a word processing application, the type of content you'll be working with most often here in Word, is with text.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/inserting-new-text?u=76281980&t=0)** - [Instructor] Because [[Microsoft Word]] is a [[Microsoft Word|word]] processing application, the type of content you'll be working with most often here in Word, is with text.
 >
 > **[0:10](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/inserting-new-text?u=76281980&t=10)** So in this movie, we're going to explore inserting text into an existing document and how we type over existing text as well.
 >
@@ -735,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (4), [[Microsoft Word]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Microsoft Word]] (1)
 > **Analogies:** for example (4)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -744,12 +737,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rearrange text with cut, copy, and paste
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980)
+#### [Rearrange text with cut, copy, and paste](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=0)** - [Instructor] I've had one motto since the day I started working with Microsoft Word and that is never retype.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=0)** - [Instructor] I've had one motto since the day I started working with [[Microsoft Word]] and that is never retype.
 >
 > **[0:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=6)** If you've typed in content once, you should never have to type it in again.
 >
@@ -873,7 +865,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=257)** Let's scroll a little further down where we see these bigger paragraphs.
 >
-> **[4:20](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=260)** Let's say we wanted to flip-flop these two paragraphs here starting with artificial intelligence and we caught up with.
+> **[4:20](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=260)** Let's say we wanted to flip-flop these two paragraphs here starting with [[Artificial Intelligence (AI)|artificial intelligence]] and we caught up with.
 >
 > **[4:27](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=267)** Well, we'll go to the left margin here and double-click.
 >
@@ -883,7 +875,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=279)** You'll see a marker is moving around following your mouse pointer.
 >
-> **[4:44](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=284)** We'll release right in front of the word the in the sentence beginning the disruption of industries.
+> **[4:44](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=284)** We'll release right in front of the [[Microsoft Word|word]] the in the sentence beginning the disruption of industries.
 >
 > **[4:50](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/rearrange-text-with-cut-copy-and-paste?u=76281980&t=290)** When we release, you can see we've actually moved it.
 >
@@ -907,19 +899,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (1), next (1), hit (1), feature (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** right-click (4), go to (2), scroll down (1), scroll up (1), double-click (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Analogies:** picture (2), for example (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy text from another source
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980)
+#### [Copy text from another source](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=0)** - [Instructor] There may be times when the content you want to add to your Word document already exists elsewhere.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=0)** - [Instructor] There may be times when the content you want to add to your [[Microsoft Word|Word]] document already exists elsewhere.
 >
 > **[0:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=6)** Maybe it's in another Word document or in another application altogether, perhaps even on a website.
 >
@@ -959,7 +950,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=110)** Clicking this shows the different paste options.
 >
-> **[1:53](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=113)** And as we hover over them, we'll get a real-time preview down below of what it would look like if we were to select that option.
+> **[1:53](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=113)** And as we hover over them, we'll get a [[Real-Time]] preview down below of what it would look like if we were to select that option.
 >
 > **[1:59](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/copy-text-from-another-source?u=76281980&t=119)** So hover over the first one which is keep source formatting.
 >
@@ -999,7 +990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), application (1), business (1), [[Real-Time]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Real-Time]] (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** find (1)
@@ -1013,12 +1004,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change font formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980)
+#### [Change font formatting](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980&t=0)** - [Instructor] Because most of your Word documents will contain mostly text, it's important to know how to grab your reader's attention by creating visual interest.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980&t=0)** - [Instructor] Because most of your [[Microsoft Word|Word]] documents will contain mostly text, it's important to know how to grab your reader's attention by creating visual interest.
 >
 > **[0:10](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980&t=10)** And a great way to do that is to apply formatting to your text.
 >
@@ -1120,7 +1110,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980&t=222)** These are the theme colors and the theme colors have their own shades as well down below.
 >
-> **[3:47](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980&t=227)** Notice as we hover over these, we get a real-time preview of what that might look like in the background.
+> **[3:47](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980&t=227)** Notice as we hover over these, we get a [[Real-Time]] preview of what that might look like in the background.
 >
 > **[3:53](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980&t=233)** So we're going to go four swatches in from the left here at the top to the blue gray text two swatch and click it to apply that color.
 >
@@ -1178,7 +1168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Microsoft Word|Word]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Real-Time]] (1)
 > **UI Navigation:** go to (6), dropdown (5), select the (4), toggle (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
@@ -1186,12 +1176,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change text case
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-text-case?u=76281980)
+#### [Change text case](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-text-case?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-text-case?u=76281980&t=0)** - [Instructor] Another great way to change the look and feel of text in your Word document is to experiment with case.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-text-case?u=76281980&t=0)** - [Instructor] Another great way to change the look and feel of text in your [[Microsoft Word|Word]] document is to experiment with case.
 >
 > **[0:08](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-text-case?u=76281980&t=8)** Text case can be many different things.
 >
@@ -1273,7 +1262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **UI Navigation:** dropdown (5), toggle (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (2)
@@ -1281,12 +1270,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format text with styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/format-text-with-styles?u=76281980)
+#### [Format text with styles](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/format-text-with-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/format-text-with-styles?u=76281980&t=0)** - [Instructor] Another even faster way to format text in your Word document is to use styles.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/format-text-with-styles?u=76281980&t=0)** - [Instructor] Another even faster way to format text in your [[Microsoft Word|Word]] document is to use styles.
 >
 > **[0:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/format-text-with-styles?u=76281980&t=6)** Styles are groups of formatting.
 >
@@ -1398,7 +1386,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/format-text-with-styles?u=76281980&t=230)** Scroll down until we see there are a couple others.
 >
-> **[3:52](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/format-text-with-styles?u=76281980&t=232)** Click anywhere in Careers and Artificial Intelligence.
+> **[3:52](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/format-text-with-styles?u=76281980&t=232)** Click anywhere in Careers and [[Artificial Intelligence (AI)|Artificial Intelligence]].
 >
 > **[3:56](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/format-text-with-styles?u=76281980&t=236)** Click the styles dropdown, select Red30Heading.
 >
@@ -1422,7 +1410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** dropdown (8), select the (3), go to (2), scroll down (1)
 > **Analogies:** for example (2), just like (1)
 > **Exercise Files:** template (1)
@@ -1434,12 +1422,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change paragraph alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980)
+#### [Change paragraph alignment](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=0)** - [Instructor] The way you format paragraphs in your Word document can also affect readability and create more visual interest.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=0)** - [Instructor] The way you format paragraphs in your [[Microsoft Word|Word]] document can also affect readability and create more visual interest.
 >
 > **[0:08](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=8)** So in this chapter, we're going to explore formatting paragraphs beginning with alignment, and we're going to do it with our RED30 Conference document 0401.
 >
@@ -1501,7 +1488,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=160)** Right now with the left alignment that we see, another option might be to create a nice smooth edge on the right hand side as well.
 >
-> **[2:51](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=171)** So let's start with this first paragraph, "Artificial intelligence."
+> **[2:51](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=171)** So let's start with this first paragraph, "[[Artificial Intelligence (AI)|Artificial intelligence]]."
 >
 > **[2:54](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=174)** Click anywhere in there.
 >
@@ -1525,7 +1512,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=235)** The only place it's not is on the last line because the last line of a paragraph could be too short and adding too many spaces would not look right.
 >
-> **[4:04](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=244)** So if we want that applied to the rest of our document, all we have to do is select it.
+> **[4:04](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=244)** So if we want that applied to the [[Representational State Transfer (REST)|rest]] of our document, all we have to do is select it.
 >
 > **[4:08](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980&t=248)** We'll click and drag from the next paragraph, "We caught up with," and drag all the way down to the bottom of the page.
 >
@@ -1545,7 +1532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), scroll down (2), select the (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -1554,8 +1541,7 @@ created: 2026-05-02
 > **Env Vars:** red30 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adjust line spacing
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-line-spacing?u=76281980)
+#### [Adjust line spacing](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-line-spacing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1667,7 +1653,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-line-spacing?u=76281980&t=351)** That looks pretty good.
 >
-> **[5:53](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-line-spacing?u=76281980&t=353)** Scrolling further down through the document I think the rest looks good.
+> **[5:53](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-line-spacing?u=76281980&t=353)** Scrolling further down through the document I think the [[Representational State Transfer (REST)|rest]] looks good.
 >
 > **[5:56](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-line-spacing?u=76281980&t=356)** We have a a little bit of extra space between the lines in our paragraphs and a little bit of extra space between each paragraph.
 >
@@ -1681,7 +1667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), dropdown (3), scroll down (2)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (4)
@@ -1690,12 +1676,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), kind of like (1)
 > **Definitions:** is a  (1)
 
-#### Keep text together across page breaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/keep-text-together-across-page-breaks?u=76281980)
+#### [Keep text together across page breaks](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/keep-text-together-across-page-breaks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/keep-text-together-across-page-breaks?u=76281980&t=0)** - Have you ever been reading a document and you reach the end of a page and there's a single line of text all by itself, and you need to go to the next page to see the rest of that paragraph?
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/keep-text-together-across-page-breaks?u=76281980&t=0)** - Have you ever been reading a document and you reach the end of a page and there's a single line of text all by itself, and you need to go to the next page to see the [[Representational State Transfer (REST)|rest]] of that paragraph?
 >
 > **[0:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/keep-text-together-across-page-breaks?u=76281980&t=11)** Can be a little distracting, maybe not visually-appealing to the eye.
 >
@@ -1731,7 +1716,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/keep-text-together-across-page-breaks?u=76281980&t=122)** Well, there's not enough room at the bottom of page one, so if we were to keep it together, everything would be moved to the next page.
 >
-> **[2:09](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/keep-text-together-across-page-breaks?u=76281980&t=129)** We can do that by putting in our own page break here at the beginning of the paragraph, or we can let Word take care of it for us by going back to those paragraph settings.
+> **[2:09](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/keep-text-together-across-page-breaks?u=76281980&t=129)** We can do that by putting in our own page break here at the beginning of the paragraph, or we can let [[Microsoft Word|Word]] take care of it for us by going back to those paragraph settings.
 >
 > **[2:19](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/keep-text-together-across-page-breaks?u=76281980&t=139)** Click the expansion arrow up here in the ribbon one more time.
 >
@@ -1771,14 +1756,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (13), [[Representational State Transfer (REST)|Rest]] (4), feature (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (2), checkbox (2)
 > **CLI Commands:** find (2)
 > **Definitions:** known as (1)
 > **Speakers:** - have (1)
 
-#### Put text into columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980)
+#### [Put text into columns](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1792,7 +1776,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=24)** It prevents eye strain and allows you to read for longer periods of time, and that's exactly what newspapers and magazines want you to do.
 >
-> **[0:34](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=34)** Well, here in Microsoft Word, we have the ability to place entire documents or parts of our document into multiple columns.
+> **[0:34](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=34)** Well, here in [[Microsoft Word]], we have the ability to place entire documents or parts of our document into multiple columns.
 >
 > **[0:40](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=40)** That's what we're going to explore in this movie with our Red30 conference document 0404 if you're catching up.
 >
@@ -1822,11 +1806,11 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=106)** So let's move the heading and the first paragraph in this section down to the next page by inserting a page break.
 >
-> **[1:55](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=115)** We'll click in front of the word the in the future of AI technology and use the keyboard shortcut Control + Enter.
+> **[1:55](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=115)** We'll click in front of the [[Microsoft Word|word]] the in the future of AI technology and use the keyboard shortcut Control + Enter.
 >
 > **[2:03](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=123)** That's the same as going to the Insert tab, going to the page's dropdown and selecting page break.
 >
-> **[2:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=131)** That moves the section and the paragraph down to the next page, and you can see it joins the rest of the content for that section.
+> **[2:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=131)** That moves the section and the paragraph down to the next page, and you can see it joins the [[Representational State Transfer (REST)|rest]] of the content for that section.
 >
 > **[2:19](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/put-text-into-columns?u=76281980&t=139)** Maybe we want to put part of this into columns.
 >
@@ -1938,7 +1922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), ai (2), [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** dropdown (7), go to (4), select the (2), scroll down (1)
 > **Cross-References:** go back to (4)
 > **Prerequisites:** setup (3)
@@ -1951,12 +1935,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change page layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980)
+#### [Change page layout](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980&t=0)** - [Narrator] Just as we can format individual pieces of text or paragraphs in a Word document, we can also make adjustments to entire pages.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980&t=0)** - [Narrator] Just as we can format individual pieces of text or paragraphs in a [[Microsoft Word|Word]] document, we can also make adjustments to entire pages.
 >
 > **[0:10](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980&t=10)** That's going to be our focus in this chapter, beginning with page layout options that we're going to explore with our Red30Conference document 0501, from the chapter five folder of your exercise files if you're catching up.
 >
@@ -1964,7 +1947,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980&t=31)** When making adjustments or formatting pages, it's a good idea to be able to see the entire page.
 >
-> **[0:37](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980&t=37)** So we're going to begin by going up to the view tab here on the ribbon and in the zoom group, we're going to click one page.
+> **[0:37](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980&t=37)** So we're going to begin by going up to the view tab here on the ribbon and in the [[Zoom]] group, we're going to click one page.
 >
 > **[0:45](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980&t=45)** As you can see from the bottom right corner on the zoom slider, that's going to zoom us out or down to a level that allows us to see the entire page.
 >
@@ -2052,7 +2035,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), [[Microsoft Word|Word]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** dropdown (3), scroll down (2), checkbox (1), select the (1), go to (1)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** make (4)
@@ -2061,8 +2044,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
 
-#### Use headers and footers
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-headers-and-footers?u=76281980)
+#### [Use headers and footers](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-headers-and-footers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2094,7 +2076,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-headers-and-footers?u=76281980&t=84)** It's a context-sensitive ribbon that only shows up when we're working inside headers and footers.
 >
-> **[1:30](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-headers-and-footers?u=76281980&t=90)** So let's say, we want the word "Copyright 2023" showing up in the top right corner of every page.
+> **[1:30](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-headers-and-footers?u=76281980&t=90)** So let's say, we want the [[Microsoft Word|word]] "Copyright 2023" showing up in the top right corner of every page.
 >
 > **[1:37](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/use-headers-and-footers?u=76281980&t=97)** Well, we could type it in first, Copyright 2023.
 >
@@ -2164,7 +2146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** scroll down (3), go to (1), checkbox (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** for example (3)
@@ -2172,12 +2154,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add page numbering
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-page-numbering?u=76281980)
+#### [Add page numbering](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-page-numbering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-page-numbering?u=76281980&t=0)** - [Instructor] One feature you might want to add to your word Documents especially the longer documents is page numbering.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-page-numbering?u=76281980&t=0)** - [Instructor] One feature you might want to add to your [[Microsoft Word|word]] Documents especially the longer documents is page numbering.
 >
 > **[0:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-page-numbering?u=76281980&t=7)** Page numbering can help your readers know exactly where they are in your document.
 >
@@ -2257,7 +2238,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-page-numbering?u=76281980&t=200)** So that's good.
 >
-> **[3:21](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-page-numbering?u=76281980&t=201)** I mean, we could add page and page numbering here if we wanted to as well so it looked the same as the rest of the pages or leave it blank.
+> **[3:21](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-page-numbering?u=76281980&t=201)** I mean, we could add page and page numbering here if we wanted to as well so it looked the same as the [[Representational State Transfer (REST)|rest]] of the pages or leave it blank.
 >
 > **[3:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-page-numbering?u=76281980&t=208)** The only thing we might want to adjust is the number that it starts at.
 >
@@ -2283,7 +2264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (4), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), scroll down (2), dropdown (2), scroll up (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** red30 (1)
@@ -2296,12 +2277,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create bulleted and numbered lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980)
+#### [Create bulleted and numbered lists](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=0)** - [Instructor] There may be times when you need to list items in a document, and you want that list to stand out from the rest of your text.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=0)** - [Instructor] There may be times when you need to list items in a document, and you want that list to stand out from the [[Representational State Transfer (REST)|rest]] of your text.
 >
 > **[0:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=7)** In that case, you might consider using bullets, or numbering.
 >
@@ -2309,7 +2289,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=15)** Zero-one.
 >
-> **[0:16](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=16)** We're going to scroll down to the second page, and we're going to go to the section that's titled, "Careers in Artificial Intelligence."
+> **[0:16](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=16)** We're going to scroll down to the second page, and we're going to go to the section that's titled, "Careers in [[Artificial Intelligence (AI)|Artificial Intelligence]]."
 >
 > **[0:25](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=25)** Click right after the period, after "Skills in the field," and press your Enter key to create a new line, or paragraph.
 >
@@ -2419,7 +2399,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=232)** Click the drop-down arrow, because here's were we can go to make adjustments.
 >
-> **[3:56](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=236)** For example, hover over some of these different bullets, and you'll see what they look like on the page in a real-time preview that's happening in the background.
+> **[3:56](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=236)** For example, hover over some of these different bullets, and you'll see what they look like on the page in a [[Real-Time]] preview that's happening in the background.
 >
 > **[4:04](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980&t=244)** So if you find one that you like, simply select it.
 >
@@ -2493,23 +2473,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), ai (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Real-Time]] (1)
 > **UI Navigation:** go to (4), scroll down (1), select the (1), toggle (1)
 > **Analogies:** for example (4), just like (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit and format lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980)
+#### [Edit and format lists](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980&t=0)** - [Instructor] Whether you create a bulleted or numbered list in your Word document, there's certain formatting defaults that are applied, and of course those can be customized to change the look and feel of your list.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980&t=0)** - [Instructor] Whether you create a bulleted or numbered list in your [[Microsoft Word|Word]] document, there's certain formatting defaults that are applied, and of course those can be customized to change the look and feel of your list.
 >
 > **[0:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980&t=11)** And that's what we're going to do in this movie with our Red30Conferencedocument 0602, if you're catching up.
 >
-> **[0:17](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980&t=17)** And we're going to go down here to page two where we added our top five careers in artificial intelligence.
+> **[0:17](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980&t=17)** And we're going to go down here to page two where we added our top five careers in [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:22](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980&t=22)** You can see the list.
 >
@@ -2559,7 +2538,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980&t=123)** You can see a realtime preview on the page of what that looks like.
 >
-> **[2:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980&t=126)** It's a little lighter than the rest of our text, so we'll select it with a click.
+> **[2:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980&t=126)** It's a little lighter than the [[Representational State Transfer (REST)|rest]] of our text, so we'll select it with a click.
 >
 > **[2:10](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/edit-and-format-lists?u=76281980&t=130)** And you can see it's changing already right before our eyes.
 >
@@ -2603,7 +2582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (4), dropdown (2), select the (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (1)
@@ -2614,12 +2593,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Illustrate with a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980)
+#### [Illustrate with a table](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=0)** - [Instructor] There may be times when you need to organize certain content in your Word document to be lined up in columns and rows to make it easier to read and line up items.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=0)** - [Instructor] There may be times when you need to organize certain content in your [[Microsoft Word|Word]] document to be lined up in columns and rows to make it easier to read and line up items.
 >
 > **[0:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=11)** In that case, you might consider using a table.
 >
@@ -2663,7 +2641,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=177)** In this case, you're going to be using your mouse or a stylus to click and drag across the page to draw the individual columns and rows in the table, that's an option.
 >
-> **[3:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=187)** Another option is to bring in an Excel spreadsheet, it's automatically converted into a table in your document.
+> **[3:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=187)** Another option is to bring in an [[Microsoft Excel|Excel]] spreadsheet, it's automatically converted into a table in your document.
 >
 > **[3:13](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=193)** So if you have the contents already in a spreadsheet somewhere, no need to recreate it here, just bring it right in and a new table will be created based on that spreadsheet.
 >
@@ -2707,7 +2685,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=381)** Banded Rows is turned on, that's going to come in handy when we choose a different style.
 >
-> **[6:26](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=386)** When we move to the right and look at the style that's selected right now, it's very plain formatting, but we can hover over some of these other ones to see a real-time preview.
+> **[6:26](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=386)** When we move to the right and look at the style that's selected right now, it's very plain formatting, but we can hover over some of these other ones to see a [[Real-Time]] preview.
 >
 > **[6:36](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980&t=396)** For example, this third one, Plain Table 1, you can see the banded rows, the shading for alternate rows.
 >
@@ -2727,7 +2705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2), hit (1), [[Microsoft Excel|Excel]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Excel|Excel]] (1), [[Real-Time]] (1)
 > **UI Navigation:** dropdown (6), go to (4)
 > **Analogies:** for example (3), just like (2)
 > **CLI Commands:** make (3)
@@ -2735,12 +2713,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Illustrate with images
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980)
+#### [Illustrate with images](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=0)** - [Instructor] One of the best ways to make your Word documents more visually interesting to your readers is to add graphical elements.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=0)** - [Instructor] One of the best ways to make your [[Microsoft Word|Word]] documents more visually interesting to your readers is to add graphical elements.
 >
 > **[0:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=7)** It's what we're going to explore in this movie with our Red 30 conference document, 0702.
 >
@@ -2764,7 +2741,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=53)** We can access images from our device, me on my computer.
 >
-> **[0:57](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=57)** We can access stock images provided by Microsoft.
+> **[0:57](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=57)** We can access stock images provided by [[Microsoft]].
 >
 > **[1:01](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-images?u=76281980&t=61)** Even access pictures that are online, also provided by Microsoft.
 >
@@ -2900,7 +2877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Microsoft Word|Word]] (3), [[Microsoft]] (2), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft]] (2)
 > **UI Navigation:** dropdown (3), go to (3), scroll down (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), picture (1)
@@ -2909,12 +2886,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adjust images in a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980)
+#### [Adjust images in a document](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=0)** - [Instructor] One type of graphical element you may want to add to a Word document could be a photograph, and if you do add a photograph, it's good to know that Word has built-in features that allow you to make corrections to your photo and adjust them without having to make use of additional software.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=0)** - [Instructor] One type of graphical element you may want to add to a [[Microsoft Word|Word]] document could be a photograph, and if you do add a photograph, it's good to know that Word has built-in features that allow you to make corrections to your photo and adjust them without having to make use of additional software.
 >
 > **[0:18](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=18)** It's what we're going to explore in this movie with our Red30 Conference document 0703 if you're catching up.
 >
@@ -2956,7 +2932,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=130)** There we go.
 >
-> **[2:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=131)** Now the cool thing with photographs is they may not be perfect when you bring them in, and making corrections can be done right here from within Microsoft Word.
+> **[2:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=131)** Now the cool thing with photographs is they may not be perfect when you bring them in, and making corrections can be done right here from within [[Microsoft Word]].
 >
 > **[2:20](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=140)** With it still selected and the picture format ribbon selected, go over here to the adjust section.
 >
@@ -2966,7 +2942,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=159)** You can see here for sharpen soften, currently selected is right down the middle at 0%.
 >
-> **[2:44](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=164)** If we move to the left, we soften the image, and as you hover over these, you're going to see a real-time preview in the document move to the right and that's much sharper.
+> **[2:44](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=164)** If we move to the left, we soften the image, and as you hover over these, you're going to see a [[Real-Time]] preview in the document move to the right and that's much sharper.
 >
 > **[2:54](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/adjust-images-in-a-document?u=76281980&t=174)** I'm thinking this one here, sharpen 25%, is a good starting point.
 >
@@ -3098,7 +3074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Word]] (2), next (1), ai (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Word]] (2), [[Real-Time]] (1)
 > **UI Navigation:** dropdown (11), go to (2), scroll down (1), click on (1)
 > **Analogies:** picture (11), for example (1)
 > **CLI Commands:** make (6), find (1)
@@ -3112,14 +3088,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set proofing and autocorrect options
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/set-proofing-and-autocorrect-options?u=76281980)
+#### [Set proofing and autocorrect options](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/set-proofing-and-autocorrect-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/set-proofing-and-autocorrect-options?u=76281980&t=0)** - [Instructor] One thing that can quickly turn your great looking Microsoft Word document into something unprofessional is if it contains spelling and grammar errors and other issues like capitalization and using the wrong words.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/set-proofing-and-autocorrect-options?u=76281980&t=0)** - [Instructor] One thing that can quickly turn your great looking [[Microsoft Word]] document into something unprofessional is if it contains spelling and grammar errors and other issues like capitalization and using the wrong words.
 >
-> **[0:15](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/set-proofing-and-autocorrect-options?u=76281980&t=15)** Well, it's good to know there are a number of tools built into Word to help you with that.
+> **[0:15](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/set-proofing-and-autocorrect-options?u=76281980&t=15)** Well, it's good to know there are a number of tools built into [[Microsoft Word|Word]] to help you with that.
 >
 > **[0:18](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/set-proofing-and-autocorrect-options?u=76281980&t=18)** And in this movie, we're going to explore something known as the autocorrect options.
 >
@@ -3291,7 +3266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), hit (5), [[Microsoft Word]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[Microsoft Word]] (1)
 > **Analogies:** for example (3)
 > **Env Vars:** r30 (2)
 > **Definitions:** known as (1), in other words (1)
@@ -3299,12 +3274,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make your document accessible
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980)
+#### [Make your document accessible](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=0)** - [Instructor] If you intend to share your Word document after it's created, one important consideration might be accessibility, you'll want to ensure that everyone's able to consume the content you've added to your document, for those with visual impairments, maybe using screen readers.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=0)** - [Instructor] If you intend to share your [[Microsoft Word|Word]] document after it's created, one important consideration might be accessibility, you'll want to ensure that everyone's able to consume the content you've added to your document, for those with visual impairments, maybe using screen readers.
 >
 > **[0:16](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=16)** And, in that case, we need text to appear inside our images that will be read aloud for people, and there are other considerations to take into account.
 >
@@ -3318,7 +3292,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=44)** Let's see what happens when we click Read Aloud over here on the left-hand side or use the keyboard shortcut Alt + Ctrl + Space.
 >
-> **[0:51](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=51)** - [Computer] "Red30 S Annual Conference Shines a Light On: The distinctive ability to solve problems and use reason to reach a predefined goal or solution is what makes artificial intelligence unique."
+> **[0:51](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=51)** - [Computer] "Red30 S Annual Conference Shines a Light On: The distinctive ability to solve problems and use reason to reach a predefined goal or solution is what makes [[Artificial Intelligence (AI)|artificial intelligence]] unique."
 >
 > **[1:04](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=64)** - [Instructor] All right, I'm clicking the Pause button here, you can see Play.
 >
@@ -3448,7 +3422,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=381)** at a table viewing a laptop computer."
 >
-> **[6:30](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=390)** I think the rest can be taken out.
+> **[6:30](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=390)** I think the [[Representational State Transfer (REST)|rest]] can be taken out.
 >
 > **[6:33](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/make-your-document-accessible?u=76281980&t=393)** That looks pretty good like that.
 >
@@ -3488,21 +3462,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (6), right-click (2), dropdown (1)
 > **Analogies:** picture (6), for example (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (2), - [computer] (1)
 > **Env Vars:** red30 (1)
 
-#### Proof your document with Editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/proof-your-document-with-editor?u=76281980)
+#### [Proof your document with Editor](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/proof-your-document-with-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/proof-your-document-with-editor?u=76281980&t=0)** - [Lecturer] Spelling errors, grammar errors and other readability issues can turn a very nice looking document into something less professional.
 >
-> **[0:09](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/proof-your-document-with-editor?u=76281980&t=9)** So it's good to know there are tools built into Microsoft Word here in Microsoft 365 to help us ensure that our documents have correct spelling, good grammar and are easy to understand.
+> **[0:09](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/proof-your-document-with-editor?u=76281980&t=9)** So it's good to know there are tools built into [[Microsoft Word]] here in [[Microsoft 365]] to help us ensure that our documents have correct spelling, good grammar and are easy to understand.
 >
 > **[0:22](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/proof-your-document-with-editor?u=76281980&t=22)** We're going to explore them using our Red30 conference document 0803 if you need to get caught up.
 >
@@ -3536,7 +3509,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/proof-your-document-with-editor?u=76281980&t=101)** So we'll click spelling, which will take us to the error and open up that section of the editor here on the right-hand side for spelling.
 >
-> **[1:50](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/proof-your-document-with-editor?u=76281980&t=110)** This word has the red squiggly line indicating it is a spelling error perhaps.
+> **[1:50](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/proof-your-document-with-editor?u=76281980&t=110)** This [[Microsoft Word|word]] has the red squiggly line indicating it is a spelling error perhaps.
 >
 > **[1:56](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/proof-your-document-with-editor?u=76281980&t=116)** Really, it's a proper name though, that's not in the dictionary.
 >
@@ -3614,7 +3587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), next (2), [[Microsoft Word]] (1), [[Microsoft 365]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Microsoft Word]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (2), scroll down (2), dropdown (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -3625,8 +3598,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Print your documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/print-your-documents?u=76281980)
+#### [Print your documents](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/print-your-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3712,7 +3684,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), hit (1)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
@@ -3720,12 +3691,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add password protection to a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-password-protection-to-a-file?u=76281980)
+#### [Add password protection to a file](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-password-protection-to-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-password-protection-to-a-file?u=76281980&t=0)** - [Instructor] When it comes to sharing your documents here in Word for Microsoft 365, more popular than printing these days is to share an electronic copy.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-password-protection-to-a-file?u=76281980&t=0)** - [Instructor] When it comes to sharing your documents here in [[Microsoft Word|Word]] for [[Microsoft 365]], more popular than printing these days is to share an electronic copy.
 >
 > **[0:09](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/add-password-protection-to-a-file?u=76281980&t=9)** You might want to send your Word document via email or perhaps store it up in the cloud and give people access to it.
 >
@@ -3803,7 +3773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), hit (3), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft 365]] (1)
 > **UI Navigation:** go to (2), dropdown (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -3812,18 +3782,17 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Send documents via email
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980)
+#### [Send documents via email](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=0)** - [David] When it comes time to share our Word documents with others, these days a more popular option than printing is to share an electronic copy.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=0)** - [David] When it comes time to share our [[Microsoft Word|Word]] documents with others, these days a more popular option than printing is to share an electronic copy.
 >
 > **[0:09](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=9)** One way to do that is to send it as an attachment in an email message.
 >
-> **[0:14](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=14)** But because Word is part of Microsoft 365, the good news is we don't have to save our document in the format we want to share, switch over to an email application, start a new message, attach the file, and then send it off.
+> **[0:14](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=14)** But because Word is part of [[Microsoft 365]], the good news is we don't have to save our document in the format we want to share, switch over to an email application, start a new message, attach the file, and then send it off.
 >
-> **[0:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=28)** We can do it all from within Microsoft Word.
+> **[0:28](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=28)** We can do it all from within [[Microsoft Word]].
 >
 > **[0:30](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=30)** It's what we're going to do with our Red30Conference09Final document here.
 >
@@ -3837,7 +3806,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=67)** Watch what happens when we select send a PDF.
 >
-> **[1:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=71)** Right away, a new message is opened up in Outlook, right on top of Word.
+> **[1:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=71)** Right away, a new message is opened up in [[Microsoft Outlook|Outlook]], right on top of Word.
 >
 > **[1:16](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=76)** Notice that the document's already attached to this new message in PDF format.
 >
@@ -3869,7 +3838,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=150)** You can see the name, you can see the attachment here.
 >
-> **[2:33](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=153)** Selecting this message here in Outlook shows the message along with the attachment and some options to save it to OneDrive or download it, even preview it if she just wanted to take a look at the document.
+> **[2:33](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=153)** Selecting this message here in Outlook shows the message along with the attachment and some options to save it to [[Microsoft OneDrive|OneDrive]] or download it, even preview it if she just wanted to take a look at the document.
 >
 > **[2:46](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/send-documents-via-email?u=76281980&t=166)** Once it does show up here in the preview window, we'll see that it looks exactly as it did in Microsoft Word while we were working on it, so converting it to PDF just creates a read-only version of that document.
 >
@@ -3883,21 +3852,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Microsoft Outlook|Outlook]] (4), [[Microsoft Word]] (3), [[Microsoft 365]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Microsoft Outlook|Outlook]] (4), [[Microsoft Word]] (3), [[Microsoft 365]] (2), [[Microsoft OneDrive|Onedrive]] (1)
 > **Env Vars:** pdf (6), fyi (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [david] (1)
 
-#### Collaborate on documents in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980)
+#### [Collaborate on documents in the cloud](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=0)** - [Instructor] On occasion, you may want to share your Word document with other people to collaborate on the document.
+> **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=0)** - [Instructor] On occasion, you may want to share your [[Microsoft Word|Word]] document with other people to collaborate on the document.
 >
 > **[0:06](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=6)** In other words, have them go into the document, perhaps make adjustments.
 >
-> **[0:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=11)** Because Microsoft 365 is cloud-based and we're working with Word in Microsoft 365, we can save our documents to the cloud and send out links to this file to the people we want accessing it, give them permissions to access at various different levels.
+> **[0:11](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=11)** Because [[Microsoft 365]] is cloud-based and we're working with Word in Microsoft 365, we can save our documents to the cloud and send out links to this file to the people we want accessing it, give them permissions to access at various different levels.
 >
 > **[0:29](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=29)** And because it's all in the cloud, the changes are updated simultaneously.
 >
@@ -3911,7 +3879,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=60)** From here when we click share, the share dialogue opens up.
 >
-> **[1:03](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=63)** We've seen this before when we wanted to send an attached copy, but now we have some OneDrive options.
+> **[1:03](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=63)** We've seen this before when we wanted to send an attached copy, but now we have some [[Microsoft OneDrive|OneDrive]] options.
 >
 > **[1:09](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=69)** Your options may differ from mine.
 >
@@ -3949,7 +3917,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=181)** Like so.
 >
-> **[3:02](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=182)** Notice I can send it through Outlook right here in Microsoft 365.
+> **[3:02](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=182)** Notice I can send it through [[Microsoft Outlook|Outlook]] right here in Microsoft 365.
 >
 > **[3:07](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=187)** If I'm using a different mail application, I can simply copy the link from here and paste it into a message in that other application.
 >
@@ -3981,7 +3949,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=255)** Looks like David Rivers shared a file and there's the name of the file that can be clicked or click open.
 >
-> **[4:22](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=262)** The cool thing here is that Laura doesn't even need to have Microsoft Word.
+> **[4:22](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=262)** The cool thing here is that Laura doesn't even need to have [[Microsoft Word]].
 >
 > **[4:27](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/collaborate-on-documents-in-the-cloud?u=76281980&t=267)** She's working here on a Mac computer, but what's going to happen is Word will open up in the online version and the online version means that she has access to changing this document if she so chooses in her default browser or downloading it to Microsoft Word if she actually has Word installed on her computer.
 >
@@ -4027,7 +3995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Microsoft 365]] (5), [[Microsoft Word|Word]] (4), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Outlook|Outlook]] (3)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft Word|Word]] (4), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Outlook|Outlook]] (3), [[Microsoft Word]] (2)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** dropdown (2), go to (1)
 > **Definitions:** in other words (1)
@@ -4039,20 +4007,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980&t=0)** - [Narrator] Well, congratulations on reaching the end of this course.
 >
-> **[0:03](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980&t=3)** I hope you're feeling more confident with Word here in Microsoft 365 and feeling better prepared to start creating, editing, and even collaborating on your own impressive documents.
+> **[0:03](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980&t=3)** I hope you're feeling more confident with [[Microsoft Word|Word]] here in [[Microsoft 365]] and feeling better prepared to start creating, editing, and even collaborating on your own impressive documents.
 >
 > **[0:14](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980&t=14)** Now, where it comes to the power and functionality of Word, we've only explored the tip of the iceberg.
 >
-> **[0:19](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980&t=19)** When you feel ready to dive deeper into Microsoft 365 and more specifically Microsoft Word, check out LinkedIn Learning for more in-depth courses that focus specifically on the many more powerful features and functions of this complex word processing application.
+> **[0:19](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980&t=19)** When you feel ready to dive deeper into Microsoft 365 and more specifically [[Microsoft Word]], check out [[LinkedIn]] Learning for more in-depth courses that focus specifically on the many more powerful features and functions of this complex word processing application.
 >
-> **[0:34](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980&t=34)** For example, in my course titled Office 365 New Features, Microsoft 365, you'll learn instruction on some of the newer features added to Microsoft Word for Microsoft 365 that we have not covered in this course, topics like using the research assistant, accessing stock images, and creating a private copy of your shared document.
+> **[0:34](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980&t=34)** For example, in my course titled [[Microsoft Office|Office]] 365 New Features, Microsoft 365, you'll learn instruction on some of the newer features added to Microsoft Word for Microsoft 365 that we have not covered in this course, topics like using the research assistant, accessing stock images, and creating a private copy of your shared document.
 >
 > **[0:57](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980&t=57)** In Learning Word for the Web, you'll learn how to access Word and your files from any connected device and use features like Dictate and Transcribe.
 >
@@ -4062,7 +4029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Microsoft 365]] (4), [[Microsoft Word]] (2), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Microsoft 365]] (4), [[Microsoft Word]] (2), [[LinkedIn]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 

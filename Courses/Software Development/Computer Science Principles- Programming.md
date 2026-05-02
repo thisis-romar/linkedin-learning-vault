@@ -92,12 +92,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980&t=0)** - Computers and hardware have one giant limitation.
+> **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980&t=0)** - Computers and [[Hardware]] have one giant limitation.
 >
 > **[0:04](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980&t=4)** They can't do anything until they are told exactly what to do.
 >
@@ -121,11 +120,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980&t=65)** Next, I'll define conditional statements, and for while and do while loops.
 >
-> **[1:11](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980&t=71)** Then I'll jump into object-oriented programming.
+> **[1:11](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980&t=71)** Then I'll jump into [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[1:14](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980&t=74)** I'll explain classes, hierarchy, and polymorphism.
 >
-> **[1:18](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980&t=78)** Finally, I'll go beyond programming, diving into debugging, refactoring, version control systems, and multi-platform support.
+> **[1:18](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980&t=78)** Finally, I'll go beyond programming, diving into debugging, refactoring, [[Version Control]] systems, and multi-platform support.
 >
 > **[1:27](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980&t=87)** Once you know the basics, you can more easily learn specific languages to build on top of what you already know.
 >
@@ -133,12 +132,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), [[Hardware]] (1), next (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Version Control]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - computers (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/computer-science-principles-programming/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/computer-science-principles-programming/what-you-should-know?u=76281980&t=22)** These bits are the core instructions that code is able to manipulate and control.
 >
-> **[0:28](https://www.linkedin.com/learning/computer-science-principles-programming/what-you-should-know?u=76281980&t=28)** Also, this course doesn't require any special hardware or software.
+> **[0:28](https://www.linkedin.com/learning/computer-science-principles-programming/what-you-should-know?u=76281980&t=28)** Also, this course doesn't require any special [[Hardware]] or software.
 >
 > **[0:33](https://www.linkedin.com/learning/computer-science-principles-programming/what-you-should-know?u=76281980&t=33)** Associated with this course is a series of programming lab courses.
 >
@@ -158,11 +156,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/computer-science-principles-programming/what-you-should-know?u=76281980&t=43)** The programming labs take the concepts that are in this course and apply them to specific programming languages.
 >
-> **[0:50](https://www.linkedin.com/learning/computer-science-principles-programming/what-you-should-know?u=76281980&t=50)** For educators, this course covers four of the seven big ideas of the computer science principles curriculum including abstraction, algorithms, programming, and global impact.
+> **[0:50](https://www.linkedin.com/learning/computer-science-principles-programming/what-you-should-know?u=76281980&t=50)** For educators, this course covers four of the seven big ideas of the computer science principles curriculum including abstraction, [[Algorithms]], programming, and global impact.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), [[Hardware]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - this (1)
 
@@ -171,8 +169,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### History of programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980)
+#### [History of programming](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980&t=37)** With each evolutionary step the way we program computers needed to evolve as well.
 >
-> **[0:43](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980&t=43)** With the birth of main frame computers, data processing required instructions to be sent to the machine and interpret the instructions from the programmer.
+> **[0:43](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980&t=43)** With the birth of main frame computers, [[Data Processing]] required instructions to be sent to the machine and interpret the instructions from the programmer.
 >
 > **[0:52](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980&t=52)** This was then applied to data to organize and analyze it.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980&t=76)** As computers got smaller and more powerful more languages were created.
 >
-> **[1:22](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980&t=82)** Languages were also created to serve specific types of projects and industries like mathematics and science, data storage and graphics.
+> **[1:22](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980&t=82)** Languages were also created to serve specific types of projects and industries like mathematics and science, [[Data Storage]] and graphics.
 >
 > **[1:31](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980&t=91)** Today we work with programming languages that can serve many different purposes.
 >
@@ -212,19 +209,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), data (3)
+> **Frameworks & Libraries:** [[Data Processing]] (1), [[Data Storage]] (1)
 > **Speakers:** - in (1)
 
-#### Forms of programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980)
+#### [Forms of programming](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=0)** - As programming has evolved over the decades, the types of programming you can do have changed as well.
 >
-> **[0:06](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=6)** Depending on what you want to do, there are different types or forms of programming languages that will work in different ways.
+> **[0:06](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=6)** Depending on what you want to do, there are different types or [[Forms]] of programming languages that will work in different ways.
 >
-> **[0:13](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=13)** As a programmer, some forms of programming give you direct access to the computer processor while others abstract the hardware into more human language that needs to be translated or converted into the native language of the hardware.
+> **[0:13](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=13)** As a programmer, some forms of programming give you direct access to the computer processor while others abstract the [[Hardware]] into more human language that needs to be translated or converted into the native language of the hardware.
 >
 > **[0:28](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=28)** Here are some example forms of programming that you might encounter.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=79)** The process is much slower than machine language since the interpreter needs to convert each instruction provided by the programmer.
 >
-> **[1:28](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=88)** JavaScript is an example of an interpreted language.
+> **[1:28](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=88)** [[JavaScript]] is an example of an interpreted language.
 >
 > **[1:32](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=92)** A programmer can stop the execution of the program, make a change to a line, and then run it again without any other steps.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=153)** C is an example of a compiled language.
 >
-> **[2:37](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=157)** Object-oriented programming or OOP treats everything as an object.
+> **[2:37](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=157)** [[Object-Oriented Programming (OOP)|Object-oriented programming]] or OOP treats everything as an object.
 >
 > **[2:43](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=163)** An object can store values, perform actions called methods, and accept and return values.
 >
@@ -270,11 +266,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=176)** A programmer can then create an instance of that class that has all the capabilities defined by the class.
 >
-> **[3:03](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=183)** Java and C# are examples of object-oriented languages.
+> **[3:03](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=183)** [[Java]] and C# are examples of object-oriented languages.
 >
 > **[3:08](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=188)** There are languages that are specifically designed at working with data.
 >
-> **[3:13](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=193)** One example is SQL, pronounced as sequel, which is a language designed for working with databases.
+> **[3:13](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=193)** One example is [[SQL]], pronounced as sequel, which is a language designed for working with [[Databases]].
 >
 > **[3:20](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=200)** This is a query language where you ask a database a question and it gives you a dataset as a result.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=217)** R is designed for statistical computing and graphing.
 >
-> **[3:42](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=222)** Functional programming approaches programming in a much different way.
+> **[3:42](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=222)** [[Functional Programming]] approaches programming in a much different way.
 >
 > **[3:46](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=226)** Think of it like this.
 >
@@ -298,21 +294,21 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=253)** You take a value or object and modify it with the ability to string multiple transformations together using functions.
 >
-> **[4:21](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=261)** Examples of functional languages include Haskell, Scala, and F#.
+> **[4:21](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=261)** Examples of functional languages include Haskell, [[Scala]], and F#.
 >
 > **[4:28](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=268)** Operating systems regularly need to execute commands to configure servers, install software, or perform maintenance.
 >
-> **[4:35](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=275)** To automate that process, there are scripting languages that allow systems like Windows, Linux, and MacOS to save common commands as a script that can be run multiple times or distributed to multiple computers.
+> **[4:35](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=275)** To automate that process, there are scripting languages that allow systems like [[Windows]], [[Linux]], and MacOS to save common commands as a script that can be run multiple times or distributed to multiple computers.
 >
-> **[4:49](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=289)** PowerShell, Perl, and Bash are examples of scripting languages.
+> **[4:49](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=289)** [[Powershell]], Perl, and Bash are examples of scripting languages.
 >
 > **[4:55](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=295)** As you can see, there are multiple types of programming languages that you can work with to perform different types of tasks.
 >
-> **[5:02](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=302)** This course will focus on concepts found in object-oriented, compiled, and interpreted languages like JavaScript, Java, C#, and Swift.
+> **[5:02](https://www.linkedin.com/learning/computer-science-principles-programming/forms-of-programming?u=76281980&t=302)** This course will focus on concepts found in object-oriented, compiled, and interpreted languages like JavaScript, Java, C#, and [[Swift (Programming Language)|Swift]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (8), [[Hardware]] (5), [[Forms]] (3), [[JavaScript]] (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Forms]] (3), [[JavaScript]] (2), [[Java]] (2), [[SQL]] (2)
 > **Definitions:** is an  (3), is a  (2), is called (1)
 > **Env Vars:** sql (2), oop (1)
 > **CLI Commands:** make (2)
@@ -326,8 +322,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Work with values and variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-values-and-variables?u=76281980)
+#### [Work with values and variables](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-values-and-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,14 +446,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (1)
 > **Definitions:** is a  (7), is called (1)
 > **CLI Commands:** make (3), cat (1)
 > **Analogies:** for instance (1), it's like (1), for example (1)
 > **Speakers:** - computers (1)
 
-#### Use functions to repeat actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/use-functions-to-repeat-actions?u=76281980)
+#### [Use functions to repeat actions](https://www.linkedin.com/learning/computer-science-principles-programming/use-functions-to-repeat-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,12 +491,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), [[Programming]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - one (1)
 
-#### Break down tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/break-down-tasks?u=76281980)
+#### [Break down tasks](https://www.linkedin.com/learning/computer-science-principles-programming/break-down-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +502,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/computer-science-principles-programming/break-down-tasks?u=76281980&t=9)** It is like looking at water and drilling down to the molecules and then the atoms that form it.
 >
-> **[0:15](https://www.linkedin.com/learning/computer-science-principles-programming/break-down-tasks?u=76281980&t=15)** You dive down to the smallest element that forms the basis of the object.
+> **[0:15](https://www.linkedin.com/learning/computer-science-principles-programming/break-down-tasks?u=76281980&t=15)** You dive down to the smallest element that [[Forms]] the basis of the object.
 >
 > **[0:20](https://www.linkedin.com/learning/computer-science-principles-programming/break-down-tasks?u=76281980&t=20)** Now take that principle and apply it to an action.
 >
@@ -567,8 +558,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - part (1)
 
-#### Customize functions with parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/customize-functions-with-parameters?u=76281980)
+#### [Customize functions with parameters](https://www.linkedin.com/learning/computer-science-principles-programming/customize-functions-with-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,8 +609,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - when (1)
 
-#### Variables and scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/variables-and-scope?u=76281980)
+#### [Variables and scope](https://www.linkedin.com/learning/computer-science-principles-programming/variables-and-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -674,8 +663,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - when (1)
 
-#### Return values from functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/return-values-from-functions?u=76281980)
+#### [Return values from functions](https://www.linkedin.com/learning/computer-science-principles-programming/return-values-from-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -735,7 +723,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **Analogies:** just like (2)
 > **Prerequisites:** you need to have (2)
 > **CLI Commands:** make (1)
@@ -743,8 +730,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - functions (1)
 
-#### Work with an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-an-api?u=76281980)
+#### [Work with an API](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -776,7 +762,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-an-api?u=76281980&t=57)** As a programmer, you are doing two things at once.
 >
-> **[1:02](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-an-api?u=76281980&t=62)** You are defining steps that you want the program to perform with the hardware.
+> **[1:02](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-an-api?u=76281980&t=62)** You are defining steps that you want the program to perform with the [[Hardware]].
 >
 > **[1:06](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-an-api?u=76281980&t=66)** And you are defining the rules that you will use to build your program at the same time.
 >
@@ -786,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), application (2), [[Programming]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
@@ -797,14 +783,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Capture input from the user
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980)
+#### [Capture input from the user](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980&t=0)** - It is entirely possible to create programs that run on their own with no input from users, but most programs require a user to provide some input, even if it's a simple tap.
 >
-> **[0:11](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980&t=11)** Capturing input from users can come in many forms, but it generally requires two things.
+> **[0:11](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980&t=11)** Capturing input from users can come in many [[Forms]], but it generally requires two things.
 >
 > **[0:18](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980&t=18)** The first is that the app needs to be listening for the user.
 >
@@ -832,7 +817,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980&t=88)** Camera gestures track your movement to perform actions based on points on your body that the camera software defines on you.
 >
-> **[1:37](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980&t=97)** Raising your arm, moving around the room, or making hand gestures can trigger certain actions to take place when the software and hardware recognize them.
+> **[1:37](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980&t=97)** Raising your arm, moving around the room, or making hand gestures can trigger certain actions to take place when the software and [[Hardware]] recognize them.
 >
 > **[1:46](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980&t=106)** Cameras can also take pictures that can be analyzed and used for input.
 >
@@ -866,15 +851,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), data (2), [[Hardware]] (2), parallel (2)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Hardware]] (2)
 > **Analogies:** it's like (1), such as (1), similar to (1), for instance (1)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - it (1)
 
-#### Manage different variable types
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/manage-different-variable-types?u=76281980)
+#### [Manage different variable types](https://www.linkedin.com/learning/computer-science-principles-programming/manage-different-variable-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -912,14 +896,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
-#### Create conditional tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/create-conditional-tests?u=76281980)
+#### [Create conditional tests](https://www.linkedin.com/learning/computer-science-principles-programming/create-conditional-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,7 +963,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/computer-science-principles-programming/create-conditional-tests?u=76281980&t=159)** If it is true, it runs a special section of code.
 >
-> **[2:43](https://www.linkedin.com/learning/computer-science-principles-programming/create-conditional-tests?u=76281980&t=163)** What the if statement looks for is a Boolean, but, remember, that Boolean can take multiple forms.
+> **[2:43](https://www.linkedin.com/learning/computer-science-principles-programming/create-conditional-tests?u=76281980&t=163)** What the if statement looks for is a Boolean, but, remember, that Boolean can take multiple [[Forms]].
 >
 > **[2:52](https://www.linkedin.com/learning/computer-science-principles-programming/create-conditional-tests?u=76281980&t=172)** It can be a literal value, a return value from a function, or an evaluation using equality operators.
 >
@@ -1019,14 +1001,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), data (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - computers (1)
 
-#### Build compound conditional tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/build-compound-conditional-tests?u=76281980)
+#### [Build compound conditional tests](https://www.linkedin.com/learning/computer-science-principles-programming/build-compound-conditional-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1122,14 +1103,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** cat (2), make (2), find (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - simple (1)
 
-#### Use while loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/use-while-loops?u=76281980)
+#### [Use while loops](https://www.linkedin.com/learning/computer-science-principles-programming/use-while-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1179,14 +1158,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - programming (1)
 
-#### Use for loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/use-for-loops?u=76281980)
+#### [Use for loops](https://www.linkedin.com/learning/computer-science-principles-programming/use-for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1258,15 +1235,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Programming]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1), for instance (1), just like (1)
 > **Prerequisites:** you need to have (2), set up (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - loops (1)
 
-#### Create arrays to store groups of values
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/create-arrays-to-store-groups-of-values?u=76281980)
+#### [Create arrays to store groups of values](https://www.linkedin.com/learning/computer-science-principles-programming/create-arrays-to-store-groups-of-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,13 +1291,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), product (1), game (1), next (1)
 > **Definitions:** refers to (2), is a  (1)
 > **Analogies:** for instance (1), think of it like (1)
 > **Speakers:** - when (1)
 
-#### Use loops with arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/use-loops-with-arrays?u=76281980)
+#### [Use loops with arrays](https://www.linkedin.com/learning/computer-science-principles-programming/use-loops-with-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1375,8 +1348,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - with (1)
 
-#### Changing arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/changing-arrays?u=76281980)
+#### [Changing arrays](https://www.linkedin.com/learning/computer-science-principles-programming/changing-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1418,7 +1390,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - once (1)
 
@@ -1427,12 +1398,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Everything is an object
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980)
+#### [Everything is an object](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980&t=0)** - Object-Oriented programming is a core foundation of most coding and programming languages.
+> **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980&t=0)** - [[Object-Oriented Programming (OOP)|Object-Oriented programming]] is a core foundation of most coding and programming languages.
 >
 > **[0:06](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980&t=6)** To say something is object-oriented, or OO, means that everything, and I mean everything, is considered an object.
 >
@@ -1460,7 +1430,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980&t=59)** These are actions that a scissor can do.
 >
-> **[1:03](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980&t=63)** At your house or office, you might have lots of different scissors.
+> **[1:03](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980&t=63)** At your house or [[Microsoft Office|office]], you might have lots of different scissors.
 >
 > **[1:07](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980&t=67)** First, you know them all as scissors.
 >
@@ -1488,13 +1458,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Microsoft Office|Office]] (2)
 > **Definitions:** is an  (3), is a  (1), means that (1)
 > **Env Vars:** vin (1)
 > **Speakers:** - object (1)
 
-#### Everything is a class
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-a-class?u=76281980)
+#### [Everything is a class](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-a-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1576,7 +1545,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-a-class?u=76281980&t=194)** What it returns is an instance of the class.
 >
-> **[3:18](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-a-class?u=76281980&t=198)** Classes define objects, and objects are the basis of object-oriented programming.
+> **[3:18](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-a-class?u=76281980&t=198)** Classes define objects, and objects are the basis of [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[3:24](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-a-class?u=76281980&t=204)** As a coder, you'll be defining the rules for the classes in your project and combine them together to make your project work.
 >
@@ -1592,21 +1561,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **Definitions:** is a  (4), is called (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), configure (1)
 > **Analogies:** for example (1)
 > **Speakers:** - with (1)
 
-#### Work with existing classes and objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-existing-classes-and-objects?u=76281980)
+#### [Work with existing classes and objects](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-existing-classes-and-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-existing-classes-and-objects?u=76281980&t=0)** - As a programmer, you will work with pre-built classes that are part of the programming language and SDK or Software Development Kit that you'll be working with.
+> **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-existing-classes-and-objects?u=76281980&t=0)** - As a programmer, you will work with pre-built classes that are part of the programming language and SDK or [[Software Development]] Kit that you'll be working with.
 >
-> **[0:10](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-existing-classes-and-objects?u=76281980&t=10)** For instance, you might be working with a button component that is part of iOS, Android, Windows, HTML, or another technology.
+> **[0:10](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-existing-classes-and-objects?u=76281980&t=10)** For instance, you might be working with a button component that is part of iOS, [[Android]], [[Windows]], [[HTML]], or another technology.
 >
 > **[0:19](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-existing-classes-and-objects?u=76281980&t=19)** That button is an object, just like any other and is defined by a class.
 >
@@ -1658,15 +1626,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Software Development]] (1), [[Android]] (1), [[Windows]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Android]] (1), [[Windows]] (1), [[HTML]] (1)
 > **Analogies:** just like (2), for instance (1)
 > **Env Vars:** sdk (1), html (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - as (1)
 
-#### Make your own classes and objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/make-your-own-classes-and-objects?u=76281980)
+#### [Make your own classes and objects](https://www.linkedin.com/learning/computer-science-principles-programming/make-your-own-classes-and-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1736,14 +1703,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Extend classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/extend-classes?u=76281980)
+#### [Extend classes](https://www.linkedin.com/learning/computer-science-principles-programming/extend-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1801,14 +1766,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** cat (4)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Use polymorphism using interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/use-polymorphism-using-interfaces?u=76281980)
+#### [Use polymorphism using interfaces](https://www.linkedin.com/learning/computer-science-principles-programming/use-polymorphism-using-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,11 +1825,11 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/computer-science-principles-programming/use-polymorphism-using-interfaces?u=76281980&t=152)** That is the basis of polymorphism.
 >
-> **[2:35](https://www.linkedin.com/learning/computer-science-principles-programming/use-polymorphism-using-interfaces?u=76281980&t=155)** The dictionary defines it as the condition of occurring in several different forms, which is what we're doing here.
+> **[2:35](https://www.linkedin.com/learning/computer-science-principles-programming/use-polymorphism-using-interfaces?u=76281980&t=155)** The dictionary defines it as the condition of occurring in several different [[Forms]], which is what we're doing here.
 >
 > **[2:43](https://www.linkedin.com/learning/computer-science-principles-programming/use-polymorphism-using-interfaces?u=76281980&t=163)** We are saying that a variable can occur, but it can take several different forms while being true to the condition.
 >
-> **[2:51](https://www.linkedin.com/learning/computer-science-principles-programming/use-polymorphism-using-interfaces?u=76281980&t=171)** Using object oriented programming, class hierarchy, and polymorphism programmers have built tons of rules and recommendations on how to create code called best practices and design patterns.
+> **[2:51](https://www.linkedin.com/learning/computer-science-principles-programming/use-polymorphism-using-interfaces?u=76281980&t=171)** Using object oriented programming, class hierarchy, and polymorphism programmers have built tons of rules and recommendations on how to create code called best practices and [[Design Patterns]].
 >
 > **[3:04](https://www.linkedin.com/learning/computer-science-principles-programming/use-polymorphism-using-interfaces?u=76281980&t=184)** That is the science part of computer science, where best practices and code patterns are theories that are tested, retested, and evolved as people learn new things about programming.
 >
@@ -1876,7 +1839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (6), [[Forms]] (2), [[Design Patterns]] (2)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Design Patterns]] (2)
 > **CLI Commands:** cat (5)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - when (1)
@@ -1886,8 +1849,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debug problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/debug-problems?u=76281980)
+#### [Debug problems](https://www.linkedin.com/learning/computer-science-principles-programming/debug-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1955,14 +1917,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (2), web (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), for example (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - no (1)
 
-#### Refactor code to make improvements
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/refactor-code-to-make-improvements?u=76281980)
+#### [Refactor code to make improvements](https://www.linkedin.com/learning/computer-science-principles-programming/refactor-code-to-make-improvements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1978,7 +1938,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/computer-science-principles-programming/refactor-code-to-make-improvements?u=76281980&t=27)** As you add new capabilities to your programs, you'll revisit and update older code.
 >
-> **[0:33](https://www.linkedin.com/learning/computer-science-principles-programming/refactor-code-to-make-improvements?u=76281980&t=33)** The trick with refactoring is to make sure that any changes you make won't have adverse affects on the rest of the program.
+> **[0:33](https://www.linkedin.com/learning/computer-science-principles-programming/refactor-code-to-make-improvements?u=76281980&t=33)** The trick with refactoring is to make sure that any changes you make won't have adverse affects on the [[Representational State Transfer (REST)|rest]] of the program.
 >
 > **[0:41](https://www.linkedin.com/learning/computer-science-principles-programming/refactor-code-to-make-improvements?u=76281980&t=41)** Take this example.
 >
@@ -2018,14 +1978,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1), power (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - coding (1)
 
-#### Save progress and work with others
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/save-progress-and-work-with-others?u=76281980)
+#### [Save progress and work with others](https://www.linkedin.com/learning/computer-science-principles-programming/save-progress-and-work-with-others?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2037,7 +1996,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/computer-science-principles-programming/save-progress-and-work-with-others?u=76281980&t=20)** Using code repositories are the main way that you are able to do that.
 >
-> **[0:25](https://www.linkedin.com/learning/computer-science-principles-programming/save-progress-and-work-with-others?u=76281980&t=25)** One of the most popular is called Git, and there is a hosted version of Git called GitHub, used to manage your code and even work with others collaboratively on a project.
+> **[0:25](https://www.linkedin.com/learning/computer-science-principles-programming/save-progress-and-work-with-others?u=76281980&t=25)** One of the most popular is called [[Git]], and there is a hosted version of Git called [[GitHub]], used to manage your code and even work with others collaboratively on a project.
 >
 > **[0:35](https://www.linkedin.com/learning/computer-science-principles-programming/save-progress-and-work-with-others?u=76281980&t=35)** There are tons of different uses for code repositories, but as a new programmer, there are three that I wanted to highlight first.
 >
@@ -2075,21 +2034,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (3), [[GitHub]] (2), next (1), product (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[GitHub]] (2)
 > **CLI Commands:** make (4), git (3)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **Tools:** github (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - working (1)
 
-#### Build iteratively using agile development
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/build-iteratively-using-agile-development?u=76281980)
+#### [Build iteratively using agile development](https://www.linkedin.com/learning/computer-science-principles-programming/build-iteratively-using-agile-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/build-iteratively-using-agile-development?u=76281980&t=0)** - There are many ways to code your app or program.
 >
-> **[0:03](https://www.linkedin.com/learning/computer-science-principles-programming/build-iteratively-using-agile-development?u=76281980&t=3)** In fact, there are entire industries dedicated to specific methodologies and processes that can be used to build and release products to market.
+> **[0:03](https://www.linkedin.com/learning/computer-science-principles-programming/build-iteratively-using-agile-development?u=76281980&t=3)** In fact, there are entire industries dedicated to specific methodologies and processes that can be used to build and release [[Microsoft Products|products]] to market.
 >
 > **[0:13](https://www.linkedin.com/learning/computer-science-principles-programming/build-iteratively-using-agile-development?u=76281980&t=13)** Let's say I'm making a Tic-Tac-Toe app.
 >
@@ -2105,7 +2063,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/computer-science-principles-programming/build-iteratively-using-agile-development?u=76281980&t=48)** If there is an issue with the app, I can update the code to fix the problem and send the update out to the user.
 >
-> **[0:55](https://www.linkedin.com/learning/computer-science-principles-programming/build-iteratively-using-agile-development?u=76281980&t=55)** This Tic-Tac-Toe game is made using a process called Agile.
+> **[0:55](https://www.linkedin.com/learning/computer-science-principles-programming/build-iteratively-using-agile-development?u=76281980&t=55)** This Tic-Tac-Toe game is made using a process called [[Agile Development|Agile]].
 >
 > **[1:00](https://www.linkedin.com/learning/computer-science-principles-programming/build-iteratively-using-agile-development?u=76281980&t=60)** Agile means that the product is designed and built over multiple phases.
 >
@@ -2123,14 +2081,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Agile Development|Agile]] (3), game (2), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - there (1)
 
-#### Create for multiple platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980)
+#### [Create for multiple platforms](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2142,7 +2099,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=15)** As a programmer, you need to plan for this reality by planning to build for multiple platforms.
 >
-> **[0:22](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=22)** For someone new to programming, this can seem a little intimidating, because building apps for different platforms often requires learning different programming languages, working with various tools, and investing in hardware and resources.
+> **[0:22](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=22)** For someone new to programming, this can seem a little intimidating, because building apps for different platforms often requires learning different programming languages, working with various tools, and investing in [[Hardware]] and resources.
 >
 > **[0:36](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=36)** But luckily it isn't as intimidating as it seems.
 >
@@ -2162,17 +2119,17 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=72)** These are tools, technologies, and programming languages that are created by the makers of the operating system and ecosystem.
 >
-> **[1:20](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=80)** Microsoft makes Windows, Google makes Android, and Apple makes iOS and Mac OS.
+> **[1:20](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=80)** [[Microsoft]] makes [[Windows]], [[Google]] makes [[Android]], and Apple makes iOS and Mac OS.
 >
 > **[1:26](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=86)** First-party tools come from each of these three companies.
 >
-> **[1:30](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=90)** Although they're all different, the programming languages for each of these, C Sharp, Java, and Swift, all are very similar and are based on the same principles that you have learned in this course.
+> **[1:30](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=90)** Although they're all different, the programming languages for each of these, C Sharp, [[Java]], and [[Swift (Programming Language)|Swift]], all are very similar and are based on the same principles that you have learned in this course.
 >
 > **[1:43](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=103)** As you learn each one, you'll be amazed at how similar they are.
 >
 > **[1:48](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=108)** The alternative is to use third-party tools that can build applications for multiple platforms at the same time.
 >
-> **[1:56](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=116)** Some of these are based on web technologies, like Cordova, while others are based on other platforms, like Xamarin, or Unity, with C Sharp and .net.
+> **[1:56](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=116)** Some of these are based on web technologies, like Cordova, while others are based on other platforms, like Xamarin, or [[Unity]], with C Sharp and .net.
 >
 > **[2:06](https://www.linkedin.com/learning/computer-science-principles-programming/create-for-multiple-platforms?u=76281980&t=126)** The advantage with these is that you only need to learn one set of tools and technologies.
 >
@@ -2184,7 +2141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), web (2), [[Hardware]] (1), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Microsoft]] (1), [[Windows]] (1), [[Google]] (1), [[Android]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
@@ -2196,16 +2153,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980&t=0)** - As you've learned, computers and hardware have one giant limitation that can't do anything until you, that programmer, tell it exactly what to do.
+> **[0:00](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980&t=0)** - As you've learned, computers and [[Hardware]] have one giant limitation that can't do anything until you, that programmer, tell it exactly what to do.
 >
 > **[0:10](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980&t=10)** Your role as a programmer is to translate what you want to do into a programming language that serves as the conduit between your intent and the hardware.
 >
-> **[0:20](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980&t=20)** In this course, I've covered the basic principles of programming, starting with storing values and variables to building complex applications using object-oriented programming techniques.
+> **[0:20](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980&t=20)** In this course, I've covered the basic principles of programming, starting with storing values and variables to building complex applications using [[Object-Oriented Programming (OOP)|object-oriented programming]] techniques.
 >
 > **[0:31](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980&t=31)** In addition, I've shared some important skills beyond programming languages you need as a coder and developer.
 >
@@ -2221,11 +2177,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980&t=68)** I hope you've enjoyed this course.
 >
-> **[1:10](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980&t=70)** Please reach out to me on LinkedIn or Twitter and be sure to check out the companion site at [dougwinnie.com/cspProgramming](https://dougwinnie.com/cspProgramming).
+> **[1:10](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980&t=70)** Please reach out to me on [[LinkedIn]] or Twitter and be sure to check out the companion site at [dougwinnie.com/cspProgramming](https://dougwinnie.com/cspProgramming).
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (6), [[Hardware]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[LinkedIn]] (1)
 > **Code Identifiers:** cspprogramming (1)
 > **URLs:** [dougwinnie.com](https://dougwinnie.com) (1)
 > **Speakers:** - as (1)

@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of smart prompting for AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980)
+#### [The power of smart prompting for AI agents](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,13 +83,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980&t=9)** That's not science fiction.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980&t=10)** That's the power of prompt engineering for AI agents.
+> **[0:10](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980&t=10)** That's the power of [[Prompt Engineering]] for [[AI Agents]].
 >
 > **[0:14](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980&t=14)** In this course, you will learn how to craft precise prompts that enhance productivity, sharpen decision making and transform your daily workflows.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980&t=25)** I am Jose Luis Latorre, a passionate IT professional, speaker, author, and Microsoft AI MVP.
+> **[0:25](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980&t=25)** I am Jose Luis Latorre, a passionate IT professional, speaker, author, and [[Microsoft]] AI MVP.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980&t=33)** I have spent years collaborating on advanced open source agentic AI projects like Autogen and Semantic Kernel, and now I'm bringing that expertise directly to you.
+> **[0:33](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980&t=33)** I have spent years collaborating on advanced open source agentic AI projects like Autogen and [[Semantic Kernel]], and now I'm bringing that expertise directly to you.
 >
 > **[0:44](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980&t=44)** Are you ready to level up from zero to AI-powered hero?
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), prompt (1), power (1), [[Prompt Engineering]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[AI Agents]] (1), [[Microsoft]] (1), [[Semantic Kernel]] (1)
 > **Env Vars:** mvp (1)
 > **Speakers:** - what (1)
 
@@ -107,14 +106,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meet your new AI assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980)
+#### [Meet your new AI assistant](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=0)** - Imagine having a smart assistant that helps you review emails, analyze data, match calendars and even plan your next campaign all in record time.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=10)** That's the power of using AI agents in your business.
+> **[0:10](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=10)** That's the power of using [[AI Agents]] in your business.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=14)** Let's start by discussing, what exactly is an AI agent?
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=30)** At its core is a powerful brain, a language model that understands your words, whether you type or speak.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=38)** Next, it uses tools, for example, to read and write documents such as Word, PDF text files, even Excel, and of course to search the internet and retrieve information from it and much, much more.
+> **[0:38](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=38)** Next, it uses tools, for example, to read and write documents such as [[Microsoft Word|Word]], PDF text files, even [[Microsoft Excel|Excel]], and of course to search the internet and retrieve information from it and much, much more.
 >
 > **[0:52](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=52)** Finally, it remembers things.
 >
@@ -132,13 +130,13 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=70)** So where do you find AI agents like this?
 >
-> **[1:15](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=75)** On web based AI chat agents like ChatGPT, Cloud, Microsoft Copilot, as soon as you open the chat window in these tools, you're already talking to an AI agent.
+> **[1:15](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=75)** On web based AI chat agents like [[ChatGPT]], Cloud, [[Microsoft Copilot]], as soon as you open the chat window in these tools, you're already talking to an AI agent.
 >
 > **[1:27](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=87)** Through this course, we'll focus exclusively on web-based AI agents, the ones you can start prompting for free right now.
 >
-> **[1:37](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=97)** You can also find embedded agents in office apps.
+> **[1:37](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=97)** You can also find embedded agents in [[Microsoft Office|office]] apps.
 >
-> **[1:40](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=100)** For example, Microsoft 365 look for Copilot or AI assistant icon in Outlook World or Teams, and that icon launches the same kind of chat base agent inside your everyday apps.
+> **[1:40](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=100)** For example, [[Microsoft 365]] look for [[Microsoft Copilot|Copilot]] or AI assistant icon in [[Microsoft Outlook|Outlook]] World or Teams, and that icon launches the same kind of chat base agent inside your everyday apps.
 >
 > **[1:53](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980&t=113)** Those are not free though and need to be enabled at your company.
 >
@@ -202,7 +200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), next (5), business (3), [[Microsoft Word|Word]] (3), web (2)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Microsoft Word|Word]] (3), [[ChatGPT]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Copilot]] (1)
 > **Analogies:** for example (4), imagine (1), think of it as (1), such as (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** find (2)
@@ -211,12 +209,11 @@ created: 2026-05-02
 > **Env Vars:** pdf (1)
 > **Speakers:** - imagine (1)
 
-#### Real-world benefits of AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/real-world-benefits-of-ai-agents?u=76281980)
+#### [Real-world benefits of AI agents](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/real-world-benefits-of-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/real-world-benefits-of-ai-agents?u=76281980&t=0)** - [Instructor] AI agents can handle repetitive, everyday tasks so you and your team can focus on other priorities.
+> **[0:00](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/real-world-benefits-of-ai-agents?u=76281980&t=0)** - [Instructor] [[AI Agents]] can handle repetitive, everyday tasks so you and your team can focus on other priorities.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/real-world-benefits-of-ai-agents?u=76281980&t=8)** Let's talk about some of the real-world benefits of AI agents and how they can impact your business and your work.
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/real-world-benefits-of-ai-agents?u=76281980&t=63)** In general, you get 33% more done each hour in general in business tasks.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/real-world-benefits-of-ai-agents?u=76281980&t=70)** More wellness exams, more purrs and tail wags served.
+> **[1:10](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/real-world-benefits-of-ai-agents?u=76281980&t=70)** More [[Wellness]] exams, more purrs and tail wags served.
 >
 > **[1:13](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/real-world-benefits-of-ai-agents?u=76281980&t=73)** Over a week, this adds up to over four extra hours.
 >
@@ -300,15 +297,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), business (4), data (2), [[Wellness]] (1), prompt (1)
+> **Frameworks & Libraries:** [[AI Agents]] (7), [[Wellness]] (1)
 > **Analogies:** for example (2), just like (2), it's like (1)
 > **URLs:** [claude.ai](https://claude.ai) (1)
 > **Versions:** 7.5 (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Seeing AI agents in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980)
+#### [Seeing AI agents in action](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +312,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=9)** Let's see how it's done.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=11)** Here, I want to show you exactly how a clear structure prompt turns an AI agent, from guesswork into a decision-making partner.
+> **[0:11](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=11)** Here, I want to show you exactly how a clear structure prompt turns an AI agent, from guesswork into a [[Decision-Making]] partner.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=19)** First, check out this vague request, "Look at these appointments, and tell me which pet to see first."
 >
@@ -338,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=80)** Now, we will see how to upload an appointment sheet and paste the optimized prompt into our AI agent.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=88)** We will start by going to [Chatgpt.com](https://Chatgpt.com), so let me go there.
+> **[1:28](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=88)** We will start by going to [[[ChatGPT]].com](https://Chatgpt.com), so let me go there.
 >
 > **[1:33](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=93)** Next, I will upload our wisdom Pet Medicine Appointment sheet.
 >
@@ -348,7 +344,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=106)** So, let me get that, drag and drop this here.
 >
-> **[1:51](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=111)** What I want, is that our AI loads the Excel file provided, assesses each appointment, and triages them to identify which ones should be prioritized.
+> **[1:51](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=111)** What I want, is that our AI loads the [[Microsoft Excel|Excel]] file provided, assesses each appointment, and triages them to identify which ones should be prioritized.
 >
 > **[2:02](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=122)** So, a quite interesting task, and important.
 >
@@ -394,15 +390,15 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=275)** Precise optimized prompts, beat vague ones every time.
 >
-> **[4:40](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=280)** AI agents empower you into better critical decision-making, triaging, or for our patients in seconds is one of the applications.
+> **[4:40](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=280)** [[AI Agents]] empower you into better critical decision-making, triaging, or for our patients in seconds is one of the applications.
 >
-> **[4:49](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=289)** The rest, happier pet owners, healthier animals, and a smoother clinic flow, but could be your clients or customers.
+> **[4:49](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=289)** The [[Representational State Transfer (REST)|rest]], happier pet owners, healthier animals, and a smoother clinic flow, but could be your clients or customers.
 >
 > **[4:56](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/seeing-ai-agents-in-action?u=76281980&t=296)** Think of your AI agent as you star veterinary assistant, keeping your most important assets alive, well, and wagging.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), prompt (5), data (3), [[Decision-Making]] (2), next (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[ChatGPT]] (1), [[Microsoft Excel|Excel]] (1), [[AI Agents]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
 > **UI Navigation:** drag and drop (1)
 > **Exercise Files:** exercise files (1)
@@ -414,8 +410,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompting best practices: Clear and simple instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980)
+#### [Prompting best practices: Clear and simple instructions](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,17 +536,17 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980&t=363)** Basically, you run your prompt, review the response from your AI agent, look for missing details, turn issues, formatting errors, anything that's not clear.
 >
-> **[6:14](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980&t=374)** And refine your wording, tweak a phrase, add an example, tighten your instructions and repeat the cycle until the rest matches your ideal outcome.
+> **[6:14](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980&t=374)** And refine your wording, tweak a phrase, add an example, tighten your instructions and repeat the cycle until the [[Representational State Transfer (REST)|rest]] matches your ideal outcome.
 >
 > **[6:23](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980&t=383)** Each iteration, even a small change, makes the prompt clearer and the AI answer more accurate.
 >
 > **[6:31](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980&t=391)** Remember, great prompting isn't a one and done task.
 >
-> **[6:35](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980&t=395)** It is an ongoing fine tuning process of improving clarity structure, adding repetition where needed, and refinement to keep your AI agent performing at its best.
+> **[6:35](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980&t=395)** It is an ongoing [[Fine Tuning]] process of improving clarity structure, adding repetition where needed, and refinement to keep your AI agent performing at its best.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (15), ai (10), next (3), business (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Fine Tuning]] (1)
 > **URLs:** [claude.ai](https://claude.ai) (3), [claude.com](https://claude.com) (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Cross-References:** go back to (3)
@@ -559,8 +554,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - ever (1)
 
-#### Adding personality and tone
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980)
+#### [Adding personality and tone](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -576,9 +570,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=33)** Now let's see how our AI can accomplish this.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=37)** Let's try it out with Copilot.
+> **[0:37](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=37)** Let's try it out with [[Microsoft Copilot|Copilot]].
 >
-> **[0:40](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=40)** So I will navigate to copilot.[microsoft.com](https://microsoft.com) and start a new chat.
+> **[0:40](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=40)** So I will navigate to copilot.[[[Microsoft]].com](https://microsoft.com) and start a new chat.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=45)** I got my dog's blood results, so I will attach that document.
 >
@@ -622,13 +616,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=122)** That's the power of tone.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=126)** When you specify the tone to your AI agent, it needs to be gentle and rest reassuring.
+> **[2:06](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=126)** When you specify the tone to your AI agent, it needs to be gentle and [[Representational State Transfer (REST)|rest]] reassuring.
 >
 > **[2:12](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=132)** The agent then knows how to choose those kind of words.
 >
 > **[2:17](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=137)** Matching the tone to your audience makes the message land just right and by stating your desire tone upfront, every response feels purposeful and caring.
 >
-> **[2:29](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=149)** Large language models do a great job in adopting specific roles.
+> **[2:29](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=149)** [[Large Language Models (LLM)|Large language models]] do a great job in adopting specific roles.
 >
 > **[2:34](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/adding-personality-and-tone?u=76281980&t=154)** So when you assign the AI agent, the head veterinarian role versus receptionist, your AI agent knows if it should provide medical depth or appointment details, roles enhanced context, ensuring the AI speaks with the right expertise.
 >
@@ -678,7 +672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Microsoft Copilot|Copilot]] (3), prompt (3), [[Microsoft]] (2), power (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (2)
 > **UI Navigation:** navigate to (1), drag and drop (1)
@@ -686,8 +680,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Getting the right answer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980)
+#### [Getting the right answer](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,7 +762,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=230)** Watch how specifying your exact output will transform the response completely and make it consistent.
 >
-> **[3:59](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=239)** We move again to ChatGPT.
+> **[3:59](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=239)** We move again to [[ChatGPT]].
 >
 > **[4:03](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=243)** If we remember our previous example, we left the analysis up to the AI agent creativity, which can bring surprising results, but kind of lacks consistency, right?
 >
@@ -811,7 +804,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=353)** Let's take a look on how to do that.
 >
-> **[5:57](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=357)** So let's go to copilot.[microsoft.com](https://microsoft.com) this time, and let's say that we want a heart warming description of any animal, right?
+> **[5:57](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=357)** So let's go to [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com) this time, and let's say that we want a heart warming description of any animal, right?
 >
 > **[6:07](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/getting-the-right-answer?u=76281980&t=367)** So we type out prompt with a very simple example and even a more simple request.
 >
@@ -839,7 +832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), prompt (7), data (6), business (2), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (4), cat (3)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -853,8 +846,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Step-by-step thinking: Guided reasoning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980)
+#### [Step-by-step thinking: Guided reasoning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,7 +866,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980&t=69)** This helps keep the pets from licking or biting their freshly trimmed nails.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980&t=74)** Let's go to [chatgpt.com](https://chatgpt.com).
+> **[1:14](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980&t=74)** Let's go to [[[ChatGPT]].com](https://chatgpt.com).
 >
 > **[1:17](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980&t=77)** Here, we will paste our prompt.
 >
@@ -892,15 +884,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (2), [[ChatGPT]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - fast (1)
 
-#### Step-by-step thinking: Example-driven reasoning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-example-driven-reasoning?u=76281980)
+#### [Step-by-step thinking: Example-driven reasoning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-example-driven-reasoning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,7 +919,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-example-driven-reasoning?u=76281980&t=48)** So, let's provide both of our colleagues reasoning approaches so our AI learns and considers both of them in its thinking process.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-example-driven-reasoning?u=76281980&t=57)** Let's go to [chatgpt.com](https://chatgpt.com) and we paste our prompt.
+> **[0:57](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-example-driven-reasoning?u=76281980&t=57)** Let's go to [[[ChatGPT]].com](https://chatgpt.com) and we paste our prompt.
 >
 > **[1:02](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-example-driven-reasoning?u=76281980&t=62)** Note that we reduce here the pawdicure steps to five, simply to simplify the process in the prompt.
 >
@@ -948,15 +939,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), prompt (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Step-by-step thinking: Consensus check
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-consensus-check?u=76281980)
+#### [Step-by-step thinking: Consensus check](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-consensus-check?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +1002,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-consensus-check?u=76281980&t=191)** But yeah, I would check that this should happen maybe before starting to remove the tartar or in between if the animal is like complaining or is feeling it.
 >
-> **[3:24](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-consensus-check?u=76281980&t=204)** Basically the reasoning is focusing on workflow optimization, starting with an examination to provide a rapid treatment plan.
+> **[3:24](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-consensus-check?u=76281980&t=204)** Basically the reasoning is focusing on [[Workflow Optimization]], starting with an examination to provide a rapid treatment plan.
 >
 > **[3:32](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-consensus-check?u=76281980&t=212)** Tartar removal, tackles the biggest time thing first and then going directly to polish.
 >
@@ -1056,7 +1046,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-consensus-check?u=76281980&t=330)** So let me put the prompt and let's see what it comes up with.
 >
-> **[5:39](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-consensus-check?u=76281980&t=339)** So mouth, schedule follow-up, administer anesthesia, remove tartar, polish teeth, and continuous monitoring until full recovery, patient safety through anesthesia and minimization and risk reduction, which fair enough.
+> **[5:39](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-consensus-check?u=76281980&t=339)** So mouth, schedule follow-up, administer anesthesia, remove tartar, polish teeth, and [[Continuous Monitoring]] until full recovery, patient safety through anesthesia and minimization and risk reduction, which fair enough.
 >
 > **[5:55](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-consensus-check?u=76281980&t=355)** I think it's good. All right.
 >
@@ -1098,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), prompt (3), next (2), hit (1), [[Continuous Monitoring]] (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (1)
 > **Analogies:** for example (2), similar to (2), it's like (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** make (1)
@@ -1106,8 +1096,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### From step-by-step to all-in-one prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980)
+#### [From step-by-step to all-in-one prompting](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1149,7 +1138,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=101)** There we go.
 >
-> **[1:43](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=103)** And then we will ask Copilot to read and summarize the software top features, and identify issues like lack of features we may need.
+> **[1:43](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=103)** And then we will ask [[Microsoft Copilot|Copilot]] to read and summarize the software top features, and identify issues like lack of features we may need.
 >
 > **[1:52](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=112)** So here is the first step: "Read this document about pet clinic management software "and summarize the top features.
 >
@@ -1213,7 +1202,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=279)** We will consolidate the four step-by-step prompts we just used into a single all in one prompt.
 >
-> **[4:46](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=286)** So, let's go back to copilot.[microsoft.com](https://microsoft.com).
+> **[4:46](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=286)** So, let's go back to copilot.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[4:49](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/from-step-by-step-to-all-in-one-prompting?u=76281980&t=289)** First, I will give it an overarching instruction to read the document and to analyze and evaluate the software using the provided steps.
 >
@@ -1265,7 +1254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), strengths (5), feature (5), ai (4), next (4)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** crm (1)
@@ -1274,8 +1263,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
 
-#### Review and improve: Learn from each attempt
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/review-and-improve-learn-from-each-attempt?u=76281980)
+#### [Review and improve: Learn from each attempt](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/review-and-improve-learn-from-each-attempt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/review-and-improve-learn-from-each-attempt?u=76281980&t=53)** We will refine a social media post for our Adopt-a-Pet Event step by step.
 >
-> **[0:59](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/review-and-improve-learn-from-each-attempt?u=76281980&t=59)** We'll go first to ChatGPT.
+> **[0:59](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/review-and-improve-learn-from-each-attempt?u=76281980&t=59)** We'll go first to [[ChatGPT]].
 >
 > **[1:01](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/review-and-improve-learn-from-each-attempt?u=76281980&t=61)** So let me go there and we will start with the basics.
 >
@@ -1323,7 +1311,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/review-and-improve-learn-from-each-attempt?u=76281980&t=127)** And then we have the output, which is a single social media post of 50 words, promoting Wisdom Pet Clinic's Adopt-a-Pet Day, and the perks.
 >
-> **[2:18](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/review-and-improve-learn-from-each-attempt?u=76281980&t=138)** And some instructions: compose the social post as described above.
+> **[2:18](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/review-and-improve-learn-from-each-attempt?u=76281980&t=138)** And some instructions: [[Jetpack Compose|compose]] the social post as described above.
 >
 > **[2:25](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/review-and-improve-learn-from-each-attempt?u=76281980&t=145)** That's it.
 >
@@ -1465,22 +1453,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), prompt (10), next (2), [[Jetpack Compose|Compose]] (2), business (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[ChatGPT]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** imagine (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Splitting big tasks into smaller ones
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/splitting-big-tasks-into-smaller-ones?u=76281980)
+#### [Splitting big tasks into smaller ones](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/splitting-big-tasks-into-smaller-ones?u=76281980)
 
 
 ### 4. Advanced Techniques: Thinking and Acting
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Smart moves: Combining thought and action
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980)
+#### [Smart moves: Combining thought and action](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1520,7 +1506,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=72)** The AI reviews data and then executes actions in one simple flow.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=77)** It can surface real-time insights.
+> **[1:17](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=77)** It can surface [[Real-Time]] insights.
 >
 > **[1:20](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=80)** You see why the AI choose each step and did what he did?
 >
@@ -1540,7 +1526,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=126)** Our goal is to review tomorrow's appointments and generate personalized reminder emails.
 >
-> **[2:13](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=133)** I will go to copilot.[microsoft.com](https://microsoft.com) and I will click the plus button, or simply drag and drop the file to upload our Wisdom Pets Appointment Information Data .xlsx file, which you can find on the course resources.
+> **[2:13](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=133)** I will go to [[Microsoft Copilot|copilot]].[[[Microsoft]].com](https://microsoft.com) and I will click the plus button, or simply drag and drop the file to upload our Wisdom Pets Appointment Information Data .xlsx file, which you can find on the course resources.
 >
 > **[2:30](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=150)** So this way, our AI agent can read tomorrow's appointment data well of at least the day, the appointment's for a one date.
 >
@@ -1554,7 +1540,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=181)** Also produce personalized confirmation emails.
 >
-> **[3:05](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=185)** Then as input, I will define a bit the Excel and the fields that it contains.
+> **[3:05](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=185)** Then as input, I will define a bit the [[Microsoft Excel|Excel]] and the fields that it contains.
 >
 > **[3:12](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980&t=192)** So it does not misunderstand any of them, including the format.
 >
@@ -1612,19 +1598,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (4), business (2), prompt (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Microsoft Copilot|Copilot]] (1), [[Microsoft]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), we call this (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), drag and drop (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - what (1)
 
-#### Thinking aloud for transparent AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/thinking-aloud-for-transparent-ai?u=76281980)
+#### [Thinking aloud for transparent AI](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/thinking-aloud-for-transparent-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/thinking-aloud-for-transparent-ai?u=76281980&t=0)** - [Instructor] Usually, AI agents deliver answers fast, but you rarely see how they got there.
+> **[0:00](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/thinking-aloud-for-transparent-ai?u=76281980&t=0)** - [Instructor] Usually, [[AI Agents]] deliver answers fast, but you rarely see how they got there.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/thinking-aloud-for-transparent-ai?u=76281980&t=7)** It feels like a black box, right?
 >
@@ -1738,7 +1723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), next (3), prompt (2), data (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **CLI Commands:** make (5), cat (2)
 > **Analogies:** just like (3), for example (2)
 > **Definitions:** is a  (3)
@@ -1751,8 +1736,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key takeaways and practical tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980)
+#### [Key takeaways and practical tips](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1778,7 +1762,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980&t=31)** Lose the fear.
 >
-> **[0:32](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980&t=32)** Prompting often gets wrapped in a layer of prompt engineering complexity that can scare you off more than it helps.
+> **[0:32](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980&t=32)** Prompting often gets wrapped in a layer of [[Prompt Engineering]] complexity that can scare you off more than it helps.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980&t=39)** So just dive in, grab any example prompt, run it, and you'll think, "Aha, that's all it was."
 >
@@ -1788,7 +1772,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980&t=52)** Set a monthly reminder to explore the latest models and experiment with the new prompt styles.
 >
-> **[0:58](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980&t=58)** With this roadmap and your new skills, you will keep sharpening your business prompting, making your AI agents smarter, faster, and more reliable.
+> **[0:58](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980&t=58)** With this roadmap and your new skills, you will keep sharpening your business prompting, making your [[AI Agents]] smarter, faster, and more reliable.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980&t=69)** Thanks for joining.
 >
@@ -1798,7 +1782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), ai (4), business (2), [[Prompt Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[AI Agents]] (1)
 > **Speakers:** - congratulations (1)
 
 

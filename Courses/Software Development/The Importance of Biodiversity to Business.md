@@ -69,12 +69,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why is biodiversity important to business?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/why-is-biodiversity-important-to-business-23761625?u=76281980)
+#### [Why is biodiversity important to business?](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/why-is-biodiversity-important-to-business-23761625?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/why-is-biodiversity-important-to-business-23761625?u=76281980&t=0)** - Biodiversity is an essential resource for life and business on earth.
+> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/why-is-biodiversity-important-to-business-23761625?u=76281980&t=0)** - [[Biodiversity]] is an essential resource for life and business on earth.
 >
 > **[0:05](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/why-is-biodiversity-important-to-business-23761625?u=76281980&t=5)** But from a business perspective, we're headed down a dangerous path that puts almost every company at risk.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Biodiversity]] (5), business (3)
+> **Frameworks & Libraries:** [[Biodiversity]] (5)
 > **Env Vars:** gdp (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - biodiversity (1)
@@ -102,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three levels of biodiversity
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980)
+#### [Three levels of biodiversity](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=0)** - Biodiversity, or the variety of life on Earth, operates on three distinct levels: genetic diversity, species diversity, and ecosystem diversity.
+> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=0)** - [[Biodiversity]], or the variety of life on Earth, operates on three distinct levels: genetic diversity, species diversity, and ecosystem diversity.
 >
 > **[0:12](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=12)** Let's look into each level and the significance they hold for our planet and business.
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=33)** According to a study published in the journal "Nature," genetic diversity is a key factor in the adaptability of species to environmental changes.
 >
-> **[0:42](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=42)** For example, maintaining diverse genetic resources is vital for producing crops that can withstand climate change, pests, and diseases.
+> **[0:42](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=42)** For example, maintaining diverse genetic resources is vital for producing crops that can withstand [[Climate Change]], pests, and diseases.
 >
 > **[0:52](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=52)** This is a key contributor to global food security and feeding a planet with 10 billion people by 2050.
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=121)** A study published in the journal "Nature Communications" highlights that ecosystems with higher diversity are more productive and resilient, providing essential services like clean water, air purification, climate regulation, and many more benefits.
 >
-> **[2:17](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=137)** For businesses, ecosystem diversity is crucial for sustainability.
+> **[2:17](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=137)** For businesses, ecosystem diversity is crucial for [[Sustainability]].
 >
 > **[2:23](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980&t=143)** The degradation of ecosystems leads to increased costs, regulatory challenges, and reputational risks.
 >
@@ -155,22 +153,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Biodiversity]] (5), business (3), [[Climate Change]] (2), [[Security]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Biodiversity]] (5), [[Climate Change]] (2), [[Sustainability]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** for example (1), such as (1)
 > **Versions:** 8.7 (1)
 > **Speakers:** - biodiversity (1)
 
-#### Five pressures driving biodiversity loss
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980)
+#### [Five pressures driving biodiversity loss](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980&t=0)** - Biodiversity on Earth is under tremendous threat from various pressures, and understanding these pressures is crucial to developing effective strategies for conservation.
+> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980&t=0)** - [[Biodiversity]] on Earth is under tremendous threat from various pressures, and understanding these pressures is crucial to developing effective strategies for conservation.
 >
 > **[0:11](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980&t=11)** Let's explore five major drivers of biodiversity loss and their implications for business.
 >
-> **[0:18](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980&t=18)** They are habitat destruction, climate change, over exploitation, pollution, and invasive species.
+> **[0:18](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980&t=18)** They are habitat destruction, [[Climate Change]], over exploitation, pollution, and invasive species.
 >
 > **[0:26](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980&t=26)** One of the primary drivers of biodiversity loss is habitat destruction.
 >
@@ -222,13 +219,13 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980&t=244)** Businesses should help prevent the spread of invasive species, especially around ocean and lakes based cargo and freight transportation.
 >
-> **[4:12](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980&t=252)** Recognizing the interconnectedness between biodiversity loss and business sustainability is key.
+> **[4:12](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980&t=252)** Recognizing the interconnectedness between biodiversity loss and business [[Sustainability]] is key.
 >
 > **[4:20](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/five-pressures-driving-biodiversity-loss-23763475?u=76281980&t=260)** By taking proactive measures to protect biodiversity, companies can create a world where both they and biodiversity mutually thrive.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Biodiversity]] (12), [[Climate Change]] (4), business (3), management (2), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Biodiversity]] (12), [[Climate Change]] (4), [[Sustainability]] (1)
 > **CLI Commands:** cargo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -239,12 +236,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Biodiversity-related risks to business
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980)
+#### [Biodiversity-related risks to business](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980&t=0)** - There are many risks businesses face due to biodiversity loss.
+> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980&t=0)** - There are many risks businesses face due to [[Biodiversity]] loss.
 >
 > **[0:05](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980&t=5)** Three key risks I'll discuss here are supply chain disruptions, reputation, and increased operational costs.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980&t=79)** The degradation of ecosystems can lead to increased operational costs for businesses as well.
 >
-> **[1:25](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980&t=85)** For example, climate change, a driver of biodiversity loss, can result in extreme weather events affecting infrastructure and disrupting operations.
+> **[1:25](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980&t=85)** For example, [[Climate Change]], a driver of biodiversity loss, can result in extreme weather events affecting infrastructure and disrupting operations.
 >
 > **[1:37](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980&t=97)** The Global Risk Report by the World Economic Forum highlights the increasing concern among business leaders about the financial impacts of climate related risks.
 >
@@ -278,23 +274,22 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980&t=136)** However, recognizing these risks also opens the door to opportunities.
 >
-> **[2:22](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980&t=142)** Companies that prioritize sustainability and implement biodiversity related conservation measures cannot only mitigate these risks, but more effectively compete in a changing business landscape.
+> **[2:22](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980&t=142)** Companies that prioritize [[Sustainability]] and implement biodiversity related conservation measures cannot only mitigate these risks, but more effectively compete in a changing business landscape.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Biodiversity]] (12), business (2), [[Climate Change]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Biodiversity]] (12), [[Climate Change]] (1), [[Sustainability]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gdp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Biodiversity and the food value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980)
+#### [Biodiversity and the food value chain](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=0)** - Over the next several conversations, we'll explore the relationship between specific business sectors and biodiversity.
+> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=0)** - Over the next several conversations, we'll explore the relationship between specific business sectors and [[Biodiversity]].
 >
 > **[0:08](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=8)** Uncovering how their activities impact ecosystems.
 >
@@ -312,13 +307,13 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=87)** Companies also rely on third party certification programs like the Rainforest Alliance to help protect biodiversity and better support the local livelihoods of communities.
 >
-> **[1:39](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=99)** These programs help create more transparent supply chain practices that can trace the origin of raw materials to their source and better ensure they meet sustainability standards, and that's not just on land.
+> **[1:39](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=99)** These programs help create more transparent supply chain practices that can trace the origin of raw materials to their source and better ensure they meet [[Sustainability]] standards, and that's not just on land.
 >
 > **[1:51](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=111)** Unsustainable fishing practices driven by high demand for seafood leads to overfishing and negatively impacts marine ecosystems.
 >
 > **[2:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=120)** Companies like Seafood Watch and others provide guidelines for sustainable seafood choices.
 >
-> **[2:06](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=126)** Economic pressures, consumer demand for affordable products and complex global supply chains often make it challenging for companies to adopt more sustainable practices.
+> **[2:06](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=126)** Economic pressures, consumer demand for affordable [[Microsoft Products|products]] and complex global supply chains often make it challenging for companies to adopt more sustainable practices.
 >
 > **[2:17](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-food-value-chain-23764484?u=76281980&t=137)** You can help by making informed choices as a consumer and supporting companies that prioritize biodiversity in their food value chains.
 >
@@ -326,18 +321,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Biodiversity]] (9), business (2), next (1), [[Sustainability]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Biodiversity]] (9), [[Sustainability]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - over (1)
 
-#### Biodiversity and construction and transportation
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-construction-and-transportation-23759644?u=76281980)
+#### [Biodiversity and construction and transportation](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-construction-and-transportation-23759644?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-construction-and-transportation-23759644?u=76281980&t=0)** - Construction and transportation shape our built environment and allow connectivity between us.
 >
-> **[0:06](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-construction-and-transportation-23759644?u=76281980&t=6)** These important sectors have profound effects on biodiversity too.
+> **[0:06](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-construction-and-transportation-23759644?u=76281980&t=6)** These important sectors have profound effects on [[Biodiversity]] too.
 >
 > **[0:11](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-construction-and-transportation-23759644?u=76281980&t=11)** Often, construction projects clear natural habitats, contributing to the loss of biodiversity.
 >
@@ -357,7 +351,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-construction-and-transportation-23759644?u=76281980&t=73)** The EDGE certification focuses on designing buildings that conserve resources and minimize negative impacts.
 >
-> **[1:21](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-construction-and-transportation-23759644?u=76281980&t=81)** Financial institutions, like the International Finance Corporation, and many others encourage the adoption of EDGE certification in construction projects worldwide, and reward adoptees with favorable consideration for financial programs and products.
+> **[1:21](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-construction-and-transportation-23759644?u=76281980&t=81)** Financial institutions, like the International Finance Corporation, and many others encourage the adoption of EDGE certification in construction projects worldwide, and reward adoptees with favorable consideration for financial programs and [[Microsoft Products|products]].
 >
 > **[1:38](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-construction-and-transportation-23759644?u=76281980&t=98)** In transportation, companies like Tesla, Rivian, and others are leading the shift towards electric vehicles, significantly reducing the emissions impact of transportation.
 >
@@ -380,12 +374,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - construction (1)
 
-#### Biodiversity and the energy value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-energy-value-chain-23765450?u=76281980)
+#### [Biodiversity and the energy value chain](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-energy-value-chain-23765450?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-energy-value-chain-23765450?u=76281980&t=0)** - The energy value chain encompasses the production, distribution, and consumption of energy, and is a major driver of global biodiversity loss.
+> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-energy-value-chain-23765450?u=76281980&t=0)** - The energy value chain encompasses the production, distribution, and consumption of energy, and is a major driver of global [[Biodiversity]] loss.
 >
 > **[0:10](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-energy-value-chain-23765450?u=76281980&t=10)** Energy exploration, including drilling, digging, and fracking, all take a significant toll on biodiversity in nature.
 >
@@ -413,17 +406,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Biodiversity]] (8), power (4)
+> **Frameworks & Libraries:** [[Biodiversity]] (8)
 > **Env Vars:** usa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Biodiversity and the fashion value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980)
+#### [Biodiversity and the fashion value chain](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=0)** - The fashion industry is a significant contributor to biodiversity loss.
+> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=0)** - The fashion industry is a significant contributor to [[Biodiversity]] loss.
 >
 > **[0:06](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=6)** Apparel and textile supply chains and footwear too are directly linked to soil degradation, conversion of natural ecosystems, water overuse and pollution, end of life waste issues, and other major impacts to biodiversity.
 >
@@ -445,7 +437,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=88)** Design for longer life and reusability.
 >
-> **[1:31](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=91)** Make products designed to be durable, easily repairable, and recyclable or reusable at the end of their life cycle.
+> **[1:31](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=91)** Make [[Microsoft Products|products]] designed to be durable, easily repairable, and recyclable or reusable at the end of their life cycle.
 >
 > **[1:40](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=100)** Focus on resource efficiency and regeneration.
 >
@@ -463,7 +455,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=159)** Implementing water treatment and recycling systems in textile manufacturing can significantly reduce pollution and contribute to maintaining the health of aquatic ecosystems.
 >
-> **[2:51](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=171)** Patagonia put sustainability front and center and grew into a billion dollar brand by doing so.
+> **[2:51](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=171)** Patagonia put [[Sustainability]] front and center and grew into a billion dollar brand by doing so.
 >
 > **[2:58](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-and-the-fashion-value-chain-23763476?u=76281980&t=178)** As consumers, we have the power to drive change in the fashion industry.
 >
@@ -471,7 +463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Biodiversity]] (3), business (2), [[Sustainability]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Biodiversity]] (3), [[Sustainability]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
@@ -482,8 +474,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The benefits of being a nature-positive company
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980)
+#### [The benefits of being a nature-positive company](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,7 +486,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=16)** It involves actively contributing to the well-being and restoration of the planet.
 >
-> **[0:22](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=22)** A nature positive approach enriches biodiversity, stores carbon, purifies water, and reduces pandemic risk.
+> **[0:22](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=22)** A nature positive approach enriches [[Biodiversity]], stores carbon, purifies water, and reduces pandemic risk.
 >
 > **[0:30](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=30)** It enhances the resilience of our planet and our communities.
 >
@@ -517,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=96)** First, view all economic activity through a nature positive lens.
 >
-> **[1:41](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=101)** For example, if your company withdraws more and more water every year to run its business and make products, and that water is not being significantly recharged by nature, how is that sustainable from a business perspective?
+> **[1:41](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=101)** For example, if your company withdraws more and more water every year to run its business and make [[Microsoft Products|products]], and that water is not being significantly recharged by nature, how is that sustainable from a business perspective?
 >
 > **[1:54](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=114)** It's not.
 >
@@ -527,30 +518,29 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=135)** It can take a thousand years for nature to produce just a small amount of top quality topsoil, and it goes without saying, we should also restore all ecosystems wherever possible.
 >
-> **[2:28](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=148)** Are you building a new office complex?
+> **[2:28](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=148)** Are you building a new [[Microsoft Office|office]] complex?
 >
 > **[2:30](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=150)** Have plans to engage in restoration projects that ensure the natural environment around that new project is enhanced by your activity.
 >
 > **[2:39](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=159)** Check out Audubon International's Cooperative Sanctuary Program with a three decade track record of helping businesses integrate nature into building and landscape practices.
 >
-> **[2:50](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=170)** Companies that prioritize nature conservation and sustainable practices will build a more positive brand image and position themselves for success in a rapidly changing world.
+> **[2:50](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=170)** Companies that prioritize [[Nature Conservation]] and sustainable practices will build a more positive brand image and position themselves for success in a rapidly changing world.
 >
 > **[3:02](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980&t=182)** Becoming a nature positive company is a strategic choice with tangible benefits.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Biodiversity]] (1), [[Microsoft Products|Products]] (1), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Biodiversity]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1), [[Nature Conservation]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Business transformation to stop biodiversity loss
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980)
+#### [Business transformation to stop biodiversity loss](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=0)** - The transformation of business to stop biodiversity loss is a big lift, but also presents a wealth of opportunities.
+> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=0)** - The transformation of business to stop [[Biodiversity]] loss is a big lift, but also presents a wealth of opportunities.
 >
 > **[0:09](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=9)** Companies can actually have it both ways.
 >
@@ -578,19 +568,19 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=99)** Be proactive in engaging in meaningful biodiversity regulation.
 >
-> **[1:43](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=103)** Existing regulations such as the EU single use plastics directive or extended producer responsibility schemes have helped make sustainability a shared responsibility.
+> **[1:43](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=103)** Existing regulations such as the EU single use plastics directive or extended producer responsibility schemes have helped make [[Sustainability]] a shared responsibility.
 >
 > **[1:55](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=115)** For inspiration, look at Danone's One Planet, One Health initiative.
 >
 > **[2:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=120)** This comprehensive plan focuses on regenerative agriculture, sustainable sourcing, and circular economy practices to positively impact biodiversity.
 >
-> **[2:12](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=132)** Interface, a global flooring company aims to reverse climate change through its climate takeback initiative.
+> **[2:12](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=132)** Interface, a global flooring company aims to reverse [[Climate Change]] through its climate takeback initiative.
 >
 > **[2:19](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=139)** The program includes sustainable sourcing, carbon neutral manufacturing, and efforts to have a positive impact on biodiversity.
 >
-> **[2:27](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=147)** And finally, look at technologies like blockchain for increased supply chain transparency, to better ensure raw materials are sourced responsibly, and look for new financing options like green bonds, impact investing and sustainability linked loans that provide financial support for biodiversity friendly projects.
+> **[2:27](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=147)** And finally, look at technologies like [[Blockchain]] for increased supply chain transparency, to better ensure raw materials are sourced responsibly, and look for new financing options like green bonds, impact investing and sustainability linked loans that provide financial support for biodiversity friendly projects.
 >
-> **[2:50](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=170)** There's a lot of business transformation happening right now to address biodiversity loss, climate change, and inequity.
+> **[2:50](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=170)** There's a lot of [[Business Transformation]] happening right now to address biodiversity loss, climate change, and inequity.
 >
 > **[2:57](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/business-transformation-to-stop-biodiversity-loss-23764483?u=76281980&t=177)** Make sure your company is on the leading edge of transformation.
 >
@@ -598,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Biodiversity]] (8), business (3), [[Sustainability]] (2), [[Climate Change]] (2), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[Biodiversity]] (8), [[Sustainability]] (2), [[Climate Change]] (2), [[Blockchain]] (1), [[Business Transformation]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -609,14 +599,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tackle biodiversity loss and become a nature-positive company
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980)
+#### [Tackle biodiversity loss and become a nature-positive company](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980&t=0)** - Biodiversity provides essential ecosystem services, such as pollination, water purification, and so many other benefits crucial for business, human wellbeing, and the global economy.
+> **[0:00](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980&t=0)** - [[Biodiversity]] provides essential ecosystem services, such as pollination, water purification, and so many other benefits crucial for business, human wellbeing, and the global economy.
 >
-> **[0:14](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980&t=14)** Biodiversity loss and climate change are interdependent and mutually reinforcing.
+> **[0:14](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980&t=14)** Biodiversity loss and [[Climate Change]] are interdependent and mutually reinforcing.
 >
 > **[0:20](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980&t=20)** One accelerates the other, and vice versa.
 >
@@ -626,7 +615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Biodiversity]] (3), business (3), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Biodiversity]] (3), [[Climate Change]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - biodiversity (1)
 

@@ -77,14 +77,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unlock your data’s potential with Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980)
+#### [Unlock your data’s potential with Power BI](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980&t=0)** - [Eddie] If you work with data, you know the challenge, spreadsheets here, CSV files there, system that don't talk to each other, and the pressure to deliver insights that drive real decisions.
 >
-> **[0:12](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980&t=12)** That's where Power BI comes in.
+> **[0:12](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980&t=12)** That's where [[Microsoft Power BI|Power BI]] comes in.
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980&t=14)** It's a powerful, user-friendly tool that helps you connect your data, clean it up, and turn it into visuals that tell a story, all without needing to be a data scientist.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980&t=30)** In this course, I'll walk you through everything you need to get started in Power BI.
 >
-> **[0:34](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980&t=34)** You'll connect to Excel and CSV files, shape and transform messy data, build data models, and create clear interactive reports.
+> **[0:34](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980&t=34)** You'll connect to [[Microsoft Excel|Excel]] and CSV files, shape and transform messy data, build data models, and create clear interactive reports.
 >
 > **[0:44](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980&t=44)** Along the way, you'll see best practices for structuring your reports, formatting visuals, and publishing your insights, so your work drives impact.
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (3), bi (3), [[Microsoft Excel|Excel]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** csv (2)
 > **Speakers:** - [eddie] (1)
 
@@ -111,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify why Power BI matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980)
+#### [Identify why Power BI matters](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,15 +118,15 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=1)** Most professionals are drowning in data and starving for insight.
 >
-> **[0:06](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=6)** Across every team, organizations collect massive amounts of data, from Excel files, CRMs, financial tools, and more.
+> **[0:06](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=6)** Across every team, organizations collect massive amounts of data, from [[Microsoft Excel|Excel]] files, CRMs, financial tools, and more.
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=15)** But unless you can see the big picture, none of the data means anything.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=19)** That's where Power BI comes in.
+> **[0:19](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=19)** That's where [[Microsoft Power BI|Power BI]] comes in.
 >
-> **[0:21](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=21)** Power BI is Microsoft's business intelligence tool that lets you connect, clean, and visualize data all in one place.
+> **[0:21](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=21)** Power BI is [[Microsoft]]'s [[Business Intelligence (BI)|business intelligence]] tool that lets you connect, clean, and visualize data all in one place.
 >
-> **[0:30](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=30)** You can pull data in from Excel, SQL databases, websites, or even other platforms, and turn that raw data into interactive dashboards and reports.
+> **[0:30](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=30)** You can pull data in from Excel, [[SQL]] [[Databases]], websites, or even other platforms, and turn that raw data into interactive [[Dashboards]] and reports.
 >
 > **[0:41](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980&t=41)** And here's the magic.
 >
@@ -146,22 +144,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (4), bi (4), [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Launch Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980)
+#### [Launch Power BI](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=0)** - [Instructor] [[Getting Started With Power Bi]] is easier than you might think.
+> **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=0)** - [Instructor] [[Getting Started With [[Microsoft Power BI|Power Bi]]]] is easier than you might think.
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=3)** In just a few clicks, you'll have the app installed and ready to go, no App Store needed.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=9)** Power BI Desktop is the free Windows application you'll use to build and design reports, while Power BI Service is the online platform where you can share and collaborate.
+> **[0:09](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=9)** Power BI Desktop is the free [[Windows]] application you'll use to build and design reports, while Power BI Service is the online platform where you can share and collaborate.
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=19)** In this lesson, you'll see how to install and open Power BI Desktop, the first step towards building interactive and data-driven reports.
 >
@@ -171,13 +168,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=37)** Let's jump in.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=39)** Open your web browser and go to [microsoft.com](https://microsoft.com).
+> **[0:39](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=39)** Open your web browser and go to [[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:55](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=55)** Click the search bar, type Power BI Desktop.
 >
 > **[1:03](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=63)** Press Enter.
 >
-> **[1:06](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=66)** One of the top results will say, "Download Microsoft Power BI Desktop from the Official Microsoft Download Center."
+> **[1:06](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=66)** One of the top results will say, "Download [[Microsoft Power BI]] Desktop from the Official Microsoft Download Center."
 >
 > **[1:13](https://www.linkedin.com/learning/power-bi-top-skills-27810109/launch-power-bi?u=76281980&t=73)** Select the link to open the page.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), bi (11), [[Windows]] (4), data (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (11), [[Windows]] (4), [[Microsoft]] (2), [[Microsoft Power BI]] (1)
 > **Prerequisites:** install (3), you'll need (2), getting started (1), setup (1), set up (1)
 > **UI Navigation:** select the (3), go to (1), open the (1)
 > **Warnings:** note that (2)
@@ -235,18 +232,17 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigate the Power BI interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/navigate-the-power-bi-interface?u=76281980)
+#### [Navigate the Power BI interface](https://www.linkedin.com/learning/power-bi-top-skills-27810109/navigate-the-power-bi-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/navigate-the-power-bi-interface?u=76281980&t=0)** - [Instructor] Before you can start creating insightful reports and connecting your data models, you'll need to get comfortable with navigating the tool itself.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-top-skills-27810109/navigate-the-power-bi-interface?u=76281980&t=9)** Power BI Desktop has a lot going on under the hood, but don't worry.
+> **[0:09](https://www.linkedin.com/learning/power-bi-top-skills-27810109/navigate-the-power-bi-interface?u=76281980&t=9)** [[Microsoft Power BI|Power BI]] Desktop has a lot going on under the hood, but don't worry.
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-top-skills-27810109/navigate-the-power-bi-interface?u=76281980&t=14)** In this lesson, let's start by launching Power BI Desktop and seeing it in action.
 >
-> **[0:21](https://www.linkedin.com/learning/power-bi-top-skills-27810109/navigate-the-power-bi-interface?u=76281980&t=21)** I'm using a Windows computer, so I'm going to click on the Windows icon to open the Start menu, look through your applications and select the Power BI desktop.
+> **[0:21](https://www.linkedin.com/learning/power-bi-top-skills-27810109/navigate-the-power-bi-interface?u=76281980&t=21)** I'm using a [[Windows]] computer, so I'm going to click on the Windows icon to open the Start menu, look through your applications and select the Power BI desktop.
 >
 > **[0:37](https://www.linkedin.com/learning/power-bi-top-skills-27810109/navigate-the-power-bi-interface?u=76281980&t=37)** This version is installed directly on your computer and gives you full access to creating reports, transforming data, and using advanced modeling features.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (5), bi (5), [[Windows]] (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Windows]] (2)
 > **UI Navigation:** select the (4), click on (1), open the (1), in the menu (1), go to (1)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** led (1)
@@ -321,12 +317,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Explore Power BI views
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/explore-power-bi-views?u=76281980)
+#### [Explore Power BI views](https://www.linkedin.com/learning/power-bi-top-skills-27810109/explore-power-bi-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/explore-power-bi-views?u=76281980&t=0)** - [Instructor] Before you start building powerful visuals, it's important to know the different ways you can look at your data in Power BI desktop.
+> **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/explore-power-bi-views?u=76281980&t=0)** - [Instructor] Before you start building powerful visuals, it's important to know the different ways you can look at your data in [[Microsoft Power BI|Power BI]] desktop.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-top-skills-27810109/explore-power-bi-views?u=76281980&t=7)** Each view gives you a unique perspective whether you're designing reports, inspecting raw data, or mapping relationships between tables.
 >
@@ -370,7 +365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -380,8 +375,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create objective statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980)
+#### [Create objective statements](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -389,7 +383,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=4)** Clear objectives give your report direction, keep your visuals focused, and help your audience take action.
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=10)** Let's walk through how to write them inside Power BI.
+> **[0:10](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=10)** Let's walk through how to write them inside [[Microsoft Power BI|Power BI]].
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=14)** Starting from Power BI Hub, select Blank report.
 >
@@ -425,13 +419,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=96)** Creating objectives is a great opportunity to collaborate with AI to make sure that they are clear for you and understandable for your stakeholders.
 >
-> **[1:44](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=104)** The rest of the objectives are number 3, track the number of training resources created monthly by TD.
+> **[1:44](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=104)** The [[Representational State Transfer (REST)|rest]] of the objectives are number 3, track the number of training resources created monthly by TD.
 >
 > **[1:52](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=112)** And number four, showcase the percentage of each audience that has completed instructor-led training.
 >
 > **[1:58](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=118)** It's also helpful to identify the report's audience.
 >
-> **[2:01](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=121)** The audience is the Talent Development Team, managers, and [[Executive Leadership]].
+> **[2:01](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=121)** The audience is the Talent Development Team, managers, and [[[[Executive Leadership]]]].
 >
 > **[2:06](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980&t=126)** Identifying the audience is valuable because it ensures the report is tailored to meet the specific needs, priorities, and terminology of those who will use it.
 >
@@ -449,21 +443,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), next (1), ai (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Executive Leadership]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** in the menu (1), toggle (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to multiple data sources in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/connect-to-multiple-data-sources-in-power-bi?u=76281980)
+#### [Connect to multiple data sources in Power BI](https://www.linkedin.com/learning/power-bi-top-skills-27810109/connect-to-multiple-data-sources-in-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/connect-to-multiple-data-sources-in-power-bi?u=76281980&t=0)** - [Narrator] When your data lives in multiple files, it can feel like piecing together a puzzle.
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-top-skills-27810109/connect-to-multiple-data-sources-in-power-bi?u=76281980&t=5)** In Power BI, bringing Excel and CSV files into one view is quick and sets the stage for meaningful insights.
+> **[0:05](https://www.linkedin.com/learning/power-bi-top-skills-27810109/connect-to-multiple-data-sources-in-power-bi?u=76281980&t=5)** In [[Microsoft Power BI|Power BI]], bringing [[Microsoft Excel|Excel]] and CSV files into one view is quick and sets the stage for meaningful insights.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-top-skills-27810109/connect-to-multiple-data-sources-in-power-bi?u=76281980&t=13)** In the Report view, open the Get data menu from the top ribbon and select Excel Workbook.
 >
@@ -479,7 +472,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/power-bi-top-skills-27810109/connect-to-multiple-data-sources-in-power-bi?u=76281980&t=45)** Review the preview pane on the right to confirm the dataset is correct.
 >
-> **[0:50](https://www.linkedin.com/learning/power-bi-top-skills-27810109/connect-to-multiple-data-sources-in-power-bi?u=76281980&t=50)** If you need to clean or adjust file before loading, select Transform Data to open the Power Query editor, a workspace for filtering, reshaping, and preparing your data before it's added to Power BI.
+> **[0:50](https://www.linkedin.com/learning/power-bi-top-skills-27810109/connect-to-multiple-data-sources-in-power-bi?u=76281980&t=50)** If you need to clean or adjust file before loading, select Transform Data to open the [[Microsoft Power Query|Power Query]] editor, a workspace for filtering, reshaping, and preparing your data before it's added to Power BI.
 >
 > **[1:03](https://www.linkedin.com/learning/power-bi-top-skills-27810109/connect-to-multiple-data-sources-in-power-bi?u=76281980&t=63)** For now, just click Load to bring the table into your report.
 >
@@ -517,13 +510,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), power (2), bi (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** csv (3), ilt (1)
 > **UI Navigation:** open the (2), switch to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Manage relationships and cardinality in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/manage-relationships-and-cardinality-in-power-bi?u=76281980)
+#### [Manage relationships and cardinality in Power BI](https://www.linkedin.com/learning/power-bi-top-skills-27810109/manage-relationships-and-cardinality-in-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -575,7 +567,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/power-bi-top-skills-27810109/manage-relationships-and-cardinality-in-power-bi?u=76281980&t=132)** They often allow duplicate values to connect across tables, which can cause incorrect totals or unexpected filtering behavior.
 >
-> **[2:21](https://www.linkedin.com/learning/power-bi-top-skills-27810109/manage-relationships-and-cardinality-in-power-bi?u=76281980&t=141)** During data validation, if you're noticing numbers seem incorrect, review these relationships as potential issues.
+> **[2:21](https://www.linkedin.com/learning/power-bi-top-skills-27810109/manage-relationships-and-cardinality-in-power-bi?u=76281980&t=141)** During [[Data Validation]], if you're noticing numbers seem incorrect, review these relationships as potential issues.
 >
 > **[2:27](https://www.linkedin.com/learning/power-bi-top-skills-27810109/manage-relationships-and-cardinality-in-power-bi?u=76281980&t=147)** Save changes to activate the relationship.
 >
@@ -587,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (2), feature (2)
+> **Frameworks & Libraries:** [[Data Validation]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** in the menu (1), go to (1)
 > **Analogies:** picture (1)
@@ -595,14 +587,13 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Power BI query editor to shape raw data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980)
+#### [Use the Power BI query editor to shape raw data](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980&t=0)** - [Instructor] Even the best visuals are only as good as the data behind them.
 >
-> **[0:04](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980&t=4)** Shaping your data in Power BI ensures it's clean, accurate, and ready to tell a meaningful story.
+> **[0:04](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980&t=4)** Shaping your data in [[Microsoft Power BI|Power BI]] ensures it's clean, accurate, and ready to tell a meaningful story.
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980&t=11)** In this lesson, you'll use the Query Editor to filter, rename, and remove unnecessary data so your reports stay reliable.
 >
@@ -610,9 +601,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980&t=27)** To make adjustments, go to the Home ribbon and select Transform Data.
 >
-> **[0:33](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980&t=33)** This opens Power Query Editor.
+> **[0:33](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980&t=33)** This opens [[Microsoft Power Query|Power Query]] Editor.
 >
-> **[0:35](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980&t=35)** Think of it as your data cleaning lab.
+> **[0:35](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980&t=35)** Think of it as your [[Data Cleaning]] lab.
 >
 > **[0:37](https://www.linkedin.com/learning/power-bi-top-skills-27810109/use-the-power-bi-query-editor-to-shape-raw-data?u=76281980&t=37)** On the left, under Queries, you'll see all the available data sets.
 >
@@ -660,15 +651,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (2), bi (2), [[Microsoft Power Query|Power query]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Power Query|Power query]] (1), [[Data Cleaning]] (1)
 > **UI Navigation:** right-click (3), go to (1), dropdown (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sme (1), ctrl (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clean and format text fields in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/clean-and-format-text-fields-in-power-bi?u=76281980)
+#### [Clean and format text fields in Power BI](https://www.linkedin.com/learning/power-bi-top-skills-27810109/clean-and-format-text-fields-in-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -684,7 +674,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/power-bi-top-skills-27810109/clean-and-format-text-fields-in-power-bi?u=76281980&t=35)** Member Experience looks good, but the business account title is indented.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-top-skills-27810109/clean-and-format-text-fields-in-power-bi?u=76281980&t=39)** This means you have white space in front of it, and Power BI will read that right space as characters.
+> **[0:39](https://www.linkedin.com/learning/power-bi-top-skills-27810109/clean-and-format-text-fields-in-power-bi?u=76281980&t=39)** This means you have white space in front of it, and [[Microsoft Power BI|Power BI]] will read that right space as characters.
 >
 > **[0:46](https://www.linkedin.com/learning/power-bi-top-skills-27810109/clean-and-format-text-fields-in-power-bi?u=76281980&t=46)** Let's clean that up.
 >
@@ -710,7 +700,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/power-bi-top-skills-27810109/clean-and-format-text-fields-in-power-bi?u=76281980&t=79)** Select Uppercase.
 >
-> **[1:21](https://www.linkedin.com/learning/power-bi-top-skills-27810109/clean-and-format-text-fields-in-power-bi?u=76281980&t=81)** Seeing the names in all caps, I've decided it would be better to have only the first letter of each word capitalized.
+> **[1:21](https://www.linkedin.com/learning/power-bi-top-skills-27810109/clean-and-format-text-fields-in-power-bi?u=76281980&t=81)** Seeing the names in all caps, I've decided it would be better to have only the first letter of each [[Microsoft Word|word]] capitalized.
 >
 > **[1:28](https://www.linkedin.com/learning/power-bi-top-skills-27810109/clean-and-format-text-fields-in-power-bi?u=76281980&t=88)** Select the Format icon and choose Capitalize Each Word.
 >
@@ -752,7 +742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (4), bi (4), [[Microsoft Word|Word]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** select the (4), go to (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** abc (1)
@@ -764,8 +754,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your first visual in the report view
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-your-first-visual-in-the-report-view?u=76281980)
+#### [Create your first visual in the report view](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-your-first-visual-in-the-report-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -793,7 +782,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-your-first-visual-in-the-report-view?u=76281980&t=54)** So let's first input the trainer data, jog the facilitator fill onto the canvas anywhere.
 >
-> **[1:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-your-first-visual-in-the-report-view?u=76281980&t=60)** Power BI automatically creates a table by default.
+> **[1:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-your-first-visual-in-the-report-view?u=76281980&t=60)** [[Microsoft Power BI|Power BI]] automatically creates a table by default.
 >
 > **[1:04](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-your-first-visual-in-the-report-view?u=76281980&t=64)** Now drag the participants filled into the same table.
 >
@@ -831,14 +820,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Format visuals for clarity
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/format-visuals-for-clarity?u=76281980)
+#### [Format visuals for clarity](https://www.linkedin.com/learning/power-bi-top-skills-27810109/format-visuals-for-clarity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,7 +858,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/power-bi-top-skills-27810109/format-visuals-for-clarity?u=76281980&t=59)** Expand the title section.
 >
-> **[1:01](https://www.linkedin.com/learning/power-bi-top-skills-27810109/format-visuals-for-clarity?u=76281980&t=61)** Change the X axis title from the word auto to talent development facilitators.
+> **[1:01](https://www.linkedin.com/learning/power-bi-top-skills-27810109/format-visuals-for-clarity?u=76281980&t=61)** Change the X axis title from the [[Microsoft Word|word]] auto to talent development facilitators.
 >
 > **[1:07](https://www.linkedin.com/learning/power-bi-top-skills-27810109/format-visuals-for-clarity?u=76281980&t=67)** Collapse the X axis section.
 >
@@ -936,14 +924,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), toggle (3), open the (1), dropdown (1), select the (1)
 > **CLI Commands:** make (4), find (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build pie charts in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/build-pie-charts-in-power-bi?u=76281980)
+#### [Build pie charts in Power BI](https://www.linkedin.com/learning/power-bi-top-skills-27810109/build-pie-charts-in-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,7 +998,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3), open the (1)
 > **Cross-References:** go back to (1)
@@ -1019,8 +1005,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create time series trends with Power BI line graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-time-series-trends-with-power-bi-line-graphs?u=76281980)
+#### [Create time series trends with Power BI line graphs](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-time-series-trends-with-power-bi-line-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,13 +1085,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **UI Navigation:** select the (3), go to (2), click on (1), toggle (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add interactivity with slicers
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/add-interactivity-with-slicers?u=76281980)
+#### [Add interactivity with slicers](https://www.linkedin.com/learning/power-bi-top-skills-27810109/add-interactivity-with-slicers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1116,7 +1099,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-top-skills-27810109/add-interactivity-with-slicers?u=76281980&t=7)** That is the power of slicers.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-top-skills-27810109/add-interactivity-with-slicers?u=76281980&t=9)** In this lesson, you'll add two slicers to the Power BI report so stakeholders can explore insights that matter to them.
+> **[0:09](https://www.linkedin.com/learning/power-bi-top-skills-27810109/add-interactivity-with-slicers?u=76281980&t=9)** In this lesson, you'll add two slicers to the [[Microsoft Power BI|Power BI]] report so stakeholders can explore insights that matter to them.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-top-skills-27810109/add-interactivity-with-slicers?u=76281980&t=17)** Slicers are visual filters that let users click and control what data they see.
 >
@@ -1160,13 +1143,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), power (2), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), select the (1), switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Highlight key metrics with card visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/highlight-key-metrics-with-card-visuals?u=76281980)
+#### [Highlight key metrics with card visuals](https://www.linkedin.com/learning/power-bi-top-skills-27810109/highlight-key-metrics-with-card-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1228,13 +1210,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** go to (2), toggle (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Polish your report design
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/polish-your-report-design?u=76281980)
+#### [Polish your report design](https://www.linkedin.com/learning/power-bi-top-skills-27810109/polish-your-report-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,8 +1301,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Publish your Power BI report
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980)
+#### [Publish your Power BI report](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,7 +1309,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980&t=3)** Now it's time to share your report with the team and make a real impact.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980&t=8)** In this lesson, you'll publish a report from Power BI Desktop to Power BI Service, also known as Power BI Web App, and set up access so stakeholders can view and collaborate.
+> **[0:08](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980&t=8)** In this lesson, you'll publish a report from [[Microsoft Power BI|Power BI]] Desktop to Power BI Service, also known as Power BI Web App, and set up access so stakeholders can view and collaborate.
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980&t=19)** When it's time to publish a report, you'll need a company or a school email address connected to a Power BI account.
 >
@@ -1370,7 +1349,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980&t=125)** You have the options to type the stakeholders email to give them access.
 >
-> **[2:10](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980&t=130)** Then there's also options to copy the link, email, Teams, or PowerPoint.
+> **[2:10](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980&t=130)** Then there's also options to copy the link, email, Teams, or [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[2:15](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980&t=135)** Great job publishing your report!
 >
@@ -1380,7 +1359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), bi (7), web (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (1), open the (1), select the (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), you'll need (1)
@@ -1388,14 +1367,13 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refine dashboards in the Power BI web app
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/refine-dashboards-in-the-power-bi-web-app?u=76281980)
+#### [Refine dashboards in the Power BI web app](https://www.linkedin.com/learning/power-bi-top-skills-27810109/refine-dashboards-in-the-power-bi-web-app?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/refine-dashboards-in-the-power-bi-web-app?u=76281980&t=0)** - [Instructor] Publishing your report is just the start.
 >
-> **[0:02](https://www.linkedin.com/learning/power-bi-top-skills-27810109/refine-dashboards-in-the-power-bi-web-app?u=76281980&t=2)** Power BI Web gives you extra tools to polish the report experience for your audience.
+> **[0:02](https://www.linkedin.com/learning/power-bi-top-skills-27810109/refine-dashboards-in-the-power-bi-web-app?u=76281980&t=2)** [[Microsoft Power BI|Power BI]] Web gives you extra tools to polish the report experience for your audience.
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-top-skills-27810109/refine-dashboards-in-the-power-bi-web-app?u=76281980&t=8)** In this lesson, you'll adjust the layout and update visuals in the Power BI web app to keep the report clean and actionable.
 >
@@ -1449,7 +1427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), bi (6), web (6), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6)
 > **UI Navigation:** select the (4), go to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
@@ -1461,14 +1439,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take the next step with Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980)
+#### [Take the next step with Power BI](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980&t=0)** - [Instructor] Thanks for watching.
 >
-> **[0:01](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980&t=1)** You've now built a complete end-to-end workflow in Power BI from connection to visualization.
+> **[0:01](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980&t=1)** You've now built a complete end-to-end workflow in [[Microsoft Power BI|Power BI]] from connection to visualization.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980&t=7)** You started this course with raw data, scattered, unstructured, and maybe a little overwhelming.
 >
@@ -1478,7 +1455,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980&t=27)** It's about focus, clarity, and giving your stakeholders what they need to make smart decisions.
 >
-> **[0:33](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980&t=33)** For further learning on Power BI, I recommend this learning module for Microsoft for a full overview.
+> **[0:33](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980&t=33)** For further learning on Power BI, I recommend this learning module for [[Microsoft]] for a full overview.
 >
 > **[0:39](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980&t=39)** I also recommend the Guy in a Cube YouTube channel.
 >
@@ -1490,7 +1467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), data (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 

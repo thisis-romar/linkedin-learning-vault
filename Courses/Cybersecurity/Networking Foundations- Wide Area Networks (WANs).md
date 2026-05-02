@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/introduction?u=76281980&t=0)** - [Jarrel] Ever thought of your internet connection at home or the office, like your DSL lines, VPN, lease lines, or perhaps the older technologies of dial up and frame relay?
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/introduction?u=76281980&t=0)** - [Jarrel] Ever thought of your internet connection at home or the [[Microsoft Office|office]], like your DSL lines, VPN, lease lines, or perhaps the older technologies of dial up and frame relay?
 >
 > **[0:11](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/introduction?u=76281980&t=11)** These are all WAN technologies, not the number one, but WAN as in wide area network, and that is what this course is all about.
 >
@@ -104,12 +103,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), vpn (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** wan (2), dsl (1), vpn (1)
 > **Speakers:** - [jarrel] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,7 +125,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1)
 > **Env Vars:** isp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -136,8 +133,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is WAN?
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-is-wan?u=76281980)
+#### [What is WAN?](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-is-wan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-is-wan?u=76281980&t=51)** The following are the authorities that define the WAN access standards.
 >
-> **[0:56](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-is-wan?u=76281980&t=56)** We've got the TIA or the Telecommunications Industry Association, EIA or the Electronic Industries Alliance, ISO or the International Organization for Standardization, and the IEEE or the Institute of Electrical and Electronics Engineers.
+> **[0:56](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-is-wan?u=76281980&t=56)** We've got the TIA or the [[Telecommunications]] Industry Association, EIA or the Electronic Industries Alliance, ISO or the International Organization for Standardization, and the IEEE or the Institute of Electrical and [[Electronics]] Engineers.
 >
 > **[1:15](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-is-wan?u=76281980&t=75)** The WAN standards describe both the physical and data link requirements for a WAN connection that covers the layers one and two of the OSI Model.
 >
@@ -197,14 +193,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Telecommunications]] (1), [[Electronics]] (1), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Telecommunications]] (1), [[Electronics]] (1)
 > **Env Vars:** wan (16), tia (1), eia (1), iso (1), ieee (1)
 > **Definitions:** refers to (1), is a  (1), is called (1)
 > **Analogies:** think of it as (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### WAN topologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-topologies?u=76281980)
+#### [WAN topologies](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-topologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,7 +209,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-topologies?u=76281980&t=18)** There are five common WAN topologies.
 >
-> **[0:20](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-topologies?u=76281980&t=20)** These are point-to-point, hub-and-spoke, dual-homed, full mesh, and partial mesh.
+> **[0:20](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-topologies?u=76281980&t=20)** These are point-to-point, hub-and-spoke, dual-homed, full [[Mesh]], and partial mesh.
 >
 > **[0:26](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-topologies?u=76281980&t=26)** Let us start with the point-to-point topology.
 >
@@ -244,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-topologies?u=76281980&t=101)** In this topology, the hub simply refers to the central point where all the spokes are connected to.
 >
-> **[1:49](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-topologies?u=76281980&t=109)** Say, we got branches A, B, and C, which all need to connect to our head office.
+> **[1:49](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-topologies?u=76281980&t=109)** Say, we got branches A, B, and C, which all need to connect to our head [[Microsoft Office|office]].
 >
 > **[1:54](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-topologies?u=76281980&t=114)** Our branches are the spokes and the head office is the hub.
 >
@@ -306,15 +301,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (6), vpn (2), [[Microsoft Office|Office]] (2), business (1)
+> **Frameworks & Libraries:** [[Mesh]] (6), [[Microsoft Office|Office]] (2)
 > **Definitions:** refers to (3), is a  (2), known as (1), means that (1)
 > **Env Vars:** wan (4), vpn (2)
 > **UI Navigation:** select the (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
 
-#### WAN terminologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-terminologies?u=76281980)
+#### [WAN terminologies](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-terminologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -326,7 +320,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-terminologies?u=76281980&t=16)** The ISP or the internet service provider is the company that facilitates access to the internet, much like AT&T and Verizon in the US, or Telstra in Australia.
 >
-> **[0:29](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-terminologies?u=76281980&t=29)** The set of hardware and devices on the side of the customer is collectively known as the CPE or the customer premises equipment.
+> **[0:29](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-terminologies?u=76281980&t=29)** The set of [[Hardware]] and devices on the side of the customer is collectively known as the CPE or the customer premises equipment.
 >
 > **[0:39](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-terminologies?u=76281980&t=39)** This may include devices that are either owned by the customer or the business, or in some cases the devices can be leased to the customer by the service provider.
 >
@@ -346,7 +340,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-terminologies?u=76281980&t=103)** If you remember, the connection will be from the demarcation point at the customer to the edge of the service provider network.
 >
-> **[1:51](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-terminologies?u=76281980&t=111)** The last mile is then connected to the local service provider facility known as the CO or the central office.
+> **[1:51](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-terminologies?u=76281980&t=111)** The last mile is then connected to the local service provider facility known as the CO or the central [[Microsoft Office|office]].
 >
 > **[1:59](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-terminologies?u=76281980&t=119)** The central office is where all the customer lines will terminate.
 >
@@ -370,19 +364,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft Office|Office]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft Office|Office]] (2)
 > **Env Vars:** wan (3), isp (2), cpe (1), mpoe (1)
 > **Definitions:** known as (5), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### WAN devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980)
+#### [WAN devices](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=0)** - [Instructor] Earlier, we looked at an overview of a WAN connection between the customer and the service provider.
 >
-> **[0:06](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=6)** This time, let us zoom in on the side of the customer and discuss the different WAN devices that we may have.
+> **[0:06](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=6)** This time, let us [[Zoom]] in on the side of the customer and discuss the different WAN devices that we may have.
 >
 > **[0:13](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=13)** First, we got a modem.
 >
@@ -390,7 +383,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=23)** Back in the days, we used to have a dial-up modem that is connected to a line phone, which then converts the digital signals from the computer to analog signals that can be sent through the PSDN lines or the public switch telephone network.
 >
-> **[0:38](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=38)** But in today's time, please be aware that the modem can now be integrated to the SOHO or small office, home office routers such as the modem router.
+> **[0:38](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=38)** But in today's time, please be aware that the modem can now be integrated to the SOHO or small [[Microsoft Office|office]], home office routers such as the modem router.
 >
 > **[0:50](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=50)** On serial connections, the modem is known as a DCE, or data communications equipment as per the EIA.
 >
@@ -402,7 +395,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=75)** Let's check them out.
 >
-> **[1:18](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=78)** CSU or the Channel Service Unit is responsible for the connection with the telecommunications network.
+> **[1:18](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=78)** CSU or the Channel Service Unit is responsible for the connection with the [[Telecommunications]] network.
 >
 > **[1:24](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=84)** It provides determination for the digital signal and ensures connection integrity through error correction and line monitoring.
 >
@@ -426,7 +419,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=142)** For that matter, a WAN router is also known as an edge router or a border router.
 >
-> **[2:30](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=150)** The WAN router can be connected either wired using serial cable or ethernet perhaps, or it can also be wireless, such as via 4G, 5G, or satellite.
+> **[2:30](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=150)** The WAN router can be connected either wired using serial cable or ethernet perhaps, or it can also be wireless, such as via 4G, [[5G]], or satellite.
 >
 > **[2:42](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-devices?u=76281980&t=162)** What you may be familiar with now are the broadband modem routers that are currently used with high speed intranet.
 >
@@ -456,7 +449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Office|Office]] (2), [[Zoom]] (1), [[Telecommunications]] (1), lan (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Zoom]] (1), [[Telecommunications]] (1), [[5G]] (1)
 > **Env Vars:** wan (11), dte (4), dce (3), csu (2), dsu (2)
 > **Definitions:** known as (2), is a  (2), stands for (1)
 > **Warnings:** be aware (1), note that (1), be careful (1)
@@ -465,8 +458,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### WAN provider links
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980)
+#### [WAN provider links](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,17 +466,17 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=7)** They can offer private WAN infrastructure for entities such as large enterprises or public WAN infrastructure for the general public, such as the one that you may have at home.
 >
-> **[0:18](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=18)** Private WAN infrastructure include dedicated list lines, such as T one, T three, and E one E three lines, circuit switch links such as PSDN and ISDN, as well as packet switch lines like Frame Relay, MPLS, or Metro Ethernet.
+> **[0:18](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=18)** Private WAN infrastructure include dedicated list lines, such as T one, T three, and E one E three lines, circuit switch links such as PSDN and ISDN, as well as packet switch lines like Frame Relay, [[Multiprotocol Label Switching (MPLS)|MPLS]], or Metro Ethernet.
 >
 > **[0:34](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=34)** On the other hand, public WAN infrastructure include broadband services such as DSL, cable and satellite intranet.
 >
-> **[0:42](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=42)** In today's time, we also have wireless WAN via 4G and 5G technologies, such as the one that you may use in your mobile phones and tablets.
+> **[0:42](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=42)** In today's time, we also have wireless WAN via 4G and [[5G]] technologies, such as the one that you may use in your mobile phones and tablets.
 >
 > **[0:51](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=51)** For fast connectivity, we also have WAN via fiber optics, typically used in the backbone of our networks.
 >
 > **[0:58](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=58)** And you may have also heard of SDN or software-defined networking, which is actually now the trend for wide area networks as well.
 >
-> **[1:06](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=66)** With SD-WAN, we apply a software-defined approach to managing the wide area network, enabling us to be agile in responding to the changing business needs and landscapes.
+> **[1:06](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=66)** With SD-WAN, we apply a software-defined approach to managing the wide area network, enabling us to be [[Agile Development|agile]] in responding to the changing business needs and landscapes.
 >
 > **[1:19](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-provider-links?u=76281980&t=79)** Now, these options do vary in terms of technology, speed and cost.
 >
@@ -496,7 +488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[5G]] (1), [[Agile Development|Agile]] (1), business (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[5G]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** wan (9), psdn (1), isdn (1), mpls (1), dsl (1)
 > **Analogies:** such as (6)
 > **Speakers:** - [instructor] (1)
@@ -506,14 +498,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### T1/E1 and T3/E3 leased lines for WAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/t1-e1-and-t3-e3-leased-lines-for-wan?u=76281980)
+#### [T1/E1 and T3/E3 leased lines for WAN](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/t1-e1-and-t3-e3-leased-lines-for-wan?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/t1-e1-and-t3-e3-leased-lines-for-wan?u=76281980&t=0)** - [Instructor] Let us look at the various private WAN connections, starting with leased lines.
 >
-> **[0:05](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/t1-e1-and-t3-e3-leased-lines-for-wan?u=76281980&t=5)** Say we got an office in Melbourne, Australia, and another in London, UK, and we'd like to connect the two networks exclusively.
+> **[0:05](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/t1-e1-and-t3-e3-leased-lines-for-wan?u=76281980&t=5)** Say we got an [[Microsoft Office|office]] in Melbourne, Australia, and another in London, UK, and we'd like to connect the two networks exclusively.
 >
 > **[0:14](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/t1-e1-and-t3-e3-leased-lines-for-wan?u=76281980&t=14)** One option that we can take is to have a point topology using leased lines.
 >
@@ -559,7 +550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Versions:** 1.544 (1), 43.736 (1), 2.048 (1), 34.368 (1)
 > **Env Vars:** wan (1), dce (1), dte (1)
 > **Analogies:** such as (1)
@@ -567,8 +558,7 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Circuit-switched WAN connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/circuit-switched-wan-connectivity?u=76281980)
+#### [Circuit-switched WAN connectivity](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/circuit-switched-wan-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -582,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/circuit-switched-wan-connectivity?u=76281980&t=21)** Once the correct logs were connected, a circuit would then be established between the two callers, which allowed them to talk to each other.
 >
-> **[0:28](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/circuit-switched-wan-connectivity?u=76281980&t=28)** This is the PSTN or the Public-Switched Telephone Network, also known as POTS or Post Office Telephone Service, or plain old telephone system.
+> **[0:28](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/circuit-switched-wan-connectivity?u=76281980&t=28)** This is the PSTN or the Public-Switched Telephone Network, also known as POTS or Post [[Microsoft Office|Office]] Telephone Service, or plain old telephone system.
 >
 > **[0:41](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/circuit-switched-wan-connectivity?u=76281980&t=41)** Eventually, the operators were replaced by electro mechanical automatic telephone exchanges.
 >
@@ -632,15 +622,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** pstn (3), wan (2), isdn (2), pots (1), kbps (1)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (imitates dial up tone beeping) (1)
 
-#### Packet-switched WAN connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/packet-switched-wan-connectivity?u=76281980)
+#### [Packet-switched WAN connectivity](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/packet-switched-wan-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,22 +699,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), data (2), next (1)
 > **Env Vars:** atm (5)
 > **Definitions:** is an  (3), means that (1), known as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### WAN via MPLS
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-mpls?u=76281980)
+#### [WAN via MPLS](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-mpls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-mpls?u=76281980&t=0)** - [Instructor] Let us now talk about MPLS.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-mpls?u=76281980&t=0)** - [Instructor] Let us now talk about [[Multiprotocol Label Switching (MPLS)|MPLS]].
 >
 > **[0:03](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-mpls?u=76281980&t=3)** Now, MPLS is not another protocol, rather, MPLS is a network optimization technique.
 >
-> **[0:11](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-mpls?u=76281980&t=11)** It stands for Multiprotocol Label Switching.
+> **[0:11](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-mpls?u=76281980&t=11)** It stands for [[Multiprotocol Label Switching (MPLS)|Multiprotocol Label Switching]].
 >
 > **[0:15](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-mpls?u=76281980&t=15)** Multiprotocol means that it can deliver data traffic across multiple protocols such as T1, E1, T3, E3 lines, frame relay, ATM, or DSL.
 >
@@ -775,7 +762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (15), data (5), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1), traffic (1), cloud (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (15), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1)
 > **Env Vars:** mpls (15), atm (1), dsl (1), ietf (1), rfc (1)
 > **Definitions:** means that (3), is a  (2), stands for (1)
 > **Documentation:** rfc (1)
@@ -788,8 +775,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### WAN via DSL
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-dsl?u=76281980)
+#### [WAN via DSL](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-dsl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,7 +879,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-dsl?u=76281980&t=290)** Though declining in popularity, DSL continues to be available in many parts of the world.
 >
-> **[4:56](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-dsl?u=76281980&t=296)** It is a cost-effective solution for internet connectivity, especially for areas that are not reachable by modern internet connectivity such as 4G or 5G mobile technology or fiber connections.
+> **[4:56](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-dsl?u=76281980&t=296)** It is a cost-effective solution for internet connectivity, especially for areas that are not reachable by modern internet connectivity such as 4G or [[5G]] mobile technology or fiber connections.
 >
 > **[5:09](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-dsl?u=76281980&t=309)** Oh, don't worry!
 >
@@ -903,7 +889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), lan (1), [[5G]] (1)
+> **Frameworks & Libraries:** [[5G]] (1)
 > **Env Vars:** dsl (18), adsl (5), mbps (5), wan (3), vdsl (2)
 > **Definitions:** means that (2), is a  (2), is an  (1), stands for (1), refers to (1)
 > **Analogies:** such as (2), for example (1)
@@ -911,8 +897,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### WAN via cable
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-cable?u=76281980)
+#### [WAN via cable](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-cable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,7 +913,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-cable?u=76281980&t=33)** Here is a sample topology of how cable internet works.
 >
-> **[0:38](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-cable?u=76281980&t=38)** A cable modem is used to translate the digital signals into the broadband frequencies, which then leads to the local cable TV office, also known as the headend.
+> **[0:38](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-cable?u=76281980&t=38)** A cable modem is used to translate the digital signals into the broadband frequencies, which then leads to the local cable TV [[Microsoft Office|office]], also known as the headend.
 >
 > **[0:50](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-cable?u=76281980&t=50)** A CMTS or a cable modem termination system is then used so as to provide internet services to the customers.
 >
@@ -950,7 +935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** wan (2), docsis (1), dsl (1), cmts (1)
 > **Definitions:** is a  (1), known as (1)
 > **Documentation:** specification (1)
@@ -958,8 +943,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireless WAN via 4G/ 5G
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980)
+#### [Wireless WAN via 4G/ 5G](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,7 +951,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=8)** And so in this video, let us cover the various wireless WAN technologies such as mobile broadband and fixed wireless access plus I'll also share something about municipal Wi-Fi.
 >
-> **[0:21](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=21)** First we got 3G, 4G and 5G connections, also known as cellular or mobile broadband.
+> **[0:21](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=21)** First we got 3G, 4G and [[5G]] connections, also known as cellular or mobile broadband.
 >
 > **[0:28](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=28)** Yes, it is wireless 'cause you don't need any wires when you connect to 4G or 5G through your phone, right?
 >
@@ -983,7 +967,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=68)** Cool, eh? But how does it work?
 >
-> **[1:11](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=71)** Our mobile devices got a small antenna, which then communicate with a nearby telecommunications tower via radio waves.
+> **[1:11](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=71)** Our mobile devices got a small antenna, which then communicate with a nearby [[Telecommunications]] tower via radio waves.
 >
 > **[1:18](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-4g-5g?u=76281980&t=78)** Now, remember the SIM card?
 >
@@ -1041,7 +1025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (4), next (2), [[Telecommunications]] (1), lan (1)
+> **Frameworks & Libraries:** [[5G]] (4), [[Telecommunications]] (1)
 > **Env Vars:** sim (8), wan (6), rssi (1), lan (1)
 > **Definitions:** known as (2), is a  (2)
 > **Code Identifiers:** esim (1), isim (1)
@@ -1050,8 +1034,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireless WAN via Satellite
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-satellite?u=76281980)
+#### [Wireless WAN via Satellite](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-satellite?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1052,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-satellite?u=76281980&t=43)** For example, with Starlink, you'll typically receive a satellite dish, which can be a round dish if it is Gen 1 or rectangular dish if it is Gen 2.
 >
-> **[0:54](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-satellite?u=76281980&t=54)** There's also the Starlink mesh Wi-Fi router along with the cables.
+> **[0:54](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-satellite?u=76281980&t=54)** There's also the Starlink [[Mesh]] Wi-Fi router along with the cables.
 >
 > **[0:59](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wireless-wan-via-satellite?u=76281980&t=59)** The DVB-S modem translates the signals from your home devices, which are then connected via coax cable to the satellite dish.
 >
@@ -1145,7 +1128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Mesh]] (1), next (1)
+> **Frameworks & Libraries:** [[Mesh]] (1)
 > **Env Vars:** leo (7), wan (6), geo (4), dvb (2), vsat (2)
 > **Analogies:** for example (2), such as (1), similar to (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
@@ -1158,8 +1141,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dedicated internet access (DIA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/dedicated-internet-access-dia?u=76281980)
+#### [Dedicated internet access (DIA)](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/dedicated-internet-access-dia?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1251,15 +1233,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Security]] (1), data (1)
 > **Env Vars:** dia (6), wan (1), adsl (1), sla (1), isp (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** such as (1), it's like (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### WAN via Fiber Optics
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-fiber-optics?u=76281980)
+#### [WAN via Fiber Optics](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-fiber-optics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1307,13 +1287,13 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-fiber-optics?u=76281980&t=145)** Next is FTTB or fiber to the building.
 >
-> **[2:30](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-fiber-optics?u=76281980&t=150)** As the name implies, the fiber-optic cable runs up to the central point in the building, whereas the rest of the cable going to the customers will be via copper cable.
+> **[2:30](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-fiber-optics?u=76281980&t=150)** As the name implies, the fiber-optic cable runs up to the central point in the building, whereas the [[Representational State Transfer (REST)|rest]] of the cable going to the customers will be via copper cable.
 >
 > **[2:41](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-fiber-optics?u=76281980&t=161)** In terms of speed, this will be a bit slower than FTTP, but it can still offer a good level of internet speed.
 >
 > **[2:49](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-fiber-optics?u=76281980&t=169)** Offering almost similar speed as with FTTB is FTTC or that is fiber to the curb, or in some instances also referred to as fiber to the cabinet.
 >
-> **[3:02](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-fiber-optics?u=76281980&t=182)** With this option, the fiber-optic cable runs from the service provider central office and terminates in a small enclosure or distribution cabinet that is located on the edge of the street or the curb.
+> **[3:02](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-fiber-optics?u=76281980&t=182)** With this option, the fiber-optic cable runs from the service provider central [[Microsoft Office|office]] and terminates in a small enclosure or distribution cabinet that is located on the edge of the street or the curb.
 >
 > **[3:15](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-fiber-optics?u=76281980&t=195)** And then from the curb, a copper cable will then run up to the customer's premises.
 >
@@ -1373,7 +1353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (10), next (2), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** wan (9), fttp (5), fttn (4), fttb (3), sonet (3)
 > **CLI Commands:** node (10)
 > **Definitions:** is a  (3), known as (1), refers to (1), is called (1), stands for (1)
@@ -1382,8 +1362,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 
-#### Ethernet WAN and Dark Fiber
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/ethernet-wan-and-dark-fiber?u=76281980)
+#### [Ethernet WAN and Dark Fiber](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/ethernet-wan-and-dark-fiber?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1457,7 +1436,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/ethernet-wan-and-dark-fiber?u=76281980&t=183)** There's no other traffic than your own, and it is physically separated from other networks.
 >
-> **[3:09](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/ethernet-wan-and-dark-fiber?u=76281980&t=189)** So you can be rest assured that your data is secure.
+> **[3:09](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/ethernet-wan-and-dark-fiber?u=76281980&t=189)** So you can be [[Representational State Transfer (REST)|rest]] assured that your data is secure.
 >
 > **[3:14](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/ethernet-wan-and-dark-fiber?u=76281980&t=194)** So for businesses who want to have full control over their network design and be able to have private and secure connections as well, then dark fiber might be an option for you.
 >
@@ -1471,15 +1450,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), lan (1), traffic (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** wan (10), atm (2), ieee (1), lan (1), tdm (1)
 > **Definitions:** means that (1), known as (1), is a  (1)
 > **Versions:** 802.3 (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - let (1)
 
-#### Software-defined WAN (SD-WAN)
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/software-defined-wan-sd-wan?u=76281980)
+#### [Software-defined WAN (SD-WAN)](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/software-defined-wan-sd-wan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1531,20 +1509,19 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/software-defined-wan-sd-wan?u=76281980&t=119)** SD-WAN has been and still is a game changer.
 >
-> **[2:04](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/software-defined-wan-sd-wan?u=76281980&t=124)** It enabled us to have networks that are more flexible and responsive to business needs as the world transitions from hardware to cloud-based technology.
+> **[2:04](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/software-defined-wan-sd-wan?u=76281980&t=124)** It enabled us to have networks that are more flexible and responsive to business needs as the world transitions from [[Hardware]] to cloud-based technology.
 >
 > **[2:14](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/software-defined-wan-sd-wan?u=76281980&t=134)** And that is SD-WAN in a nutshell.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), business (2), power (1), traffic (1), game (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** wan (8)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### LoRaWAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/lorawan?u=76281980)
+#### [LoRaWAN](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/lorawan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1552,7 +1529,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/lorawan?u=76281980&t=3)** LoRaWAN stands for Long-Range Low-Power Wide Area Network.
 >
-> **[0:08](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/lorawan?u=76281980&t=8)** It's developed and maintained by the LoRa Alliance, and it's officially approved as a standard for low-power WAN by the International Telecommunications Union in December of 2021.
+> **[0:08](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/lorawan?u=76281980&t=8)** It's developed and maintained by the LoRa Alliance, and it's officially approved as a standard for low-power WAN by the International [[Telecommunications]] Union in December of 2021.
 >
 > **[0:21](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/lorawan?u=76281980&t=21)** Wait, 2021 you say?
 >
@@ -1572,7 +1549,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/lorawan?u=76281980&t=57)** The smart metering devices for water, gas, or electricity and so on and so forth.
 >
-> **[1:04](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/lorawan?u=76281980&t=64)** If you really ponder about it, just think of IoT or Internet of things or the machine to machine connections.
+> **[1:04](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/lorawan?u=76281980&t=64)** If you really ponder about it, just think of [[IoT]] or [[IoT|Internet of things]] or the machine to machine connections.
 >
 > **[1:11](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/lorawan?u=76281980&t=71)** That is where LoRaWAN comes in.
 >
@@ -1624,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), data (2), application (2), [[Telecommunications]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Telecommunications]] (1), [[IoT]] (1), [[IoT|Internet of things]] (1)
 > **Env Vars:** wan (5), ism (1)
 > **Versions:** 2.4 (2)
 > **Definitions:** stands for (1), is a  (1)
@@ -1635,8 +1612,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### WAN consideration
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980)
+#### [WAN consideration](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1646,7 +1622,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=13)** Let's start.
 >
-> **[0:15](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=15)** Say we'd like to have WAN connectivity for a small office or home office network.
+> **[0:15](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=15)** Say we'd like to have WAN connectivity for a small [[Microsoft Office|office]] or home office network.
 >
 > **[0:21](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=21)** First question to ask is: What's available in your area?
 >
@@ -1666,7 +1642,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=53)** But if it would be FTTN, or fiber-to-the-node, then you need to know how far you are from the node, right?
 >
-> **[1:01](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=61)** For mobile broadband, is there a good 5G connection, perhaps?
+> **[1:01](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=61)** For mobile broadband, is there a good [[5G]] connection, perhaps?
 >
 > **[1:05](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=65)** If yes, then that would be awesome.
 >
@@ -1724,7 +1700,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=196)** Then you may want to consider a private leased line or dedicated broadband.
 >
-> **[3:21](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=201)** However, if you will be connecting many remote offices, then MPLS might be right for you.
+> **[3:21](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=201)** However, if you will be connecting many remote offices, then [[Multiprotocol Label Switching (MPLS)|MPLS]] might be right for you.
 >
 > **[3:28](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=208)** But if you want to reduce the cost, then a public WAN could be an option.
 >
@@ -1784,7 +1760,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=337)** It's either that the size of the network increases or it's with your network traffic.
 >
-> **[5:43](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=343)** Either way, also consider scalability when selecting a WAN option, for which SD-WAN might be good for you.
+> **[5:43](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=343)** Either way, also consider [[Scalability]] when selecting a WAN option, for which SD-WAN might be good for you.
 >
 > **[5:52](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980&t=352)** As you may see, there are many different factors to consider when choosing an appropriate WAN connection.
 >
@@ -1792,7 +1768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), business (5), traffic (3), node (2), [[5G]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[5G]] (1), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[Scalability]] (1)
 > **Env Vars:** wan (9), dsl (2), fttp (1), fttc (1), fttb (1)
 > **CLI Commands:** node (2)
 > **Versions:** 99.99 (1)
@@ -1800,8 +1776,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### WAN security and optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980)
+#### [WAN security and optimization](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1813,7 +1788,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=10)** Let us start with WAN security.
 >
-> **[0:13](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=13)** For site-to-site connections, and even for remote access, one of the most common ways to secure the WAN traffic is by using VPN, or that is the virtual private network.
+> **[0:13](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=13)** For site-to-site connections, and even for remote access, one of the most common ways to secure the WAN traffic is by using VPN, or that is the [[Virtual Private Network (VPN)|virtual private network]].
 >
 > **[0:26](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=26)** Think of it like having a virtual tunnel between your sites.
 >
@@ -1829,7 +1804,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=67)** Now, aside from VPNs, you also need to check the security of your network devices.
 >
-> **[1:12](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=72)** For small office, home office networks, check your modem router.
+> **[1:12](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=72)** For small [[Microsoft Office|office]], home office networks, check your modem router.
 >
 > **[1:17](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=77)** In terms of physical security, where is the modem router located?
 >
@@ -1899,7 +1874,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=241)** Let us talk about each of them, starting with data compression.
 >
-> **[4:06](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=246)** This technique uses compression algorithms such as ZIP or RAR, so as reduce the size of the data before sending it over the WAN network.
+> **[4:06](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=246)** This technique uses compression [[Algorithms]] such as ZIP or RAR, so as reduce the size of the data before sending it over the WAN network.
 >
 > **[4:16](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-security-and-optimization?u=76281980&t=256)** Next, we have deduplication.
 >
@@ -1933,15 +1908,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (14), data (8), [[Security]] (7), vpn (5), next (4)
+> **Frameworks & Libraries:** [[Virtual Private Network (VPN)|Virtual private network]] (2), [[Microsoft Office|Office]] (2), [[Algorithms]] (1)
 > **Env Vars:** wan (8), vpn (5), cia (1), ups (1), mac (1)
 > **Analogies:** think of it like (1), for example (1), such as (1), think of it as (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [presenter] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1953,7 +1927,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/next-steps?u=76281980&t=22)** Having said, if you are interested in creating a simulated WAN network, then you may want to check my course on Cisco Modeling Labs.
 >
-> **[0:30](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/next-steps?u=76281980&t=30)** Ooh, by the way, I also have other courses here on LinkedIn Learning that might interest you as well, so check them out too.
+> **[0:30](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/next-steps?u=76281980&t=30)** Ooh, by the way, I also have other courses here on [[LinkedIn]] Learning that might interest you as well, so check them out too.
 >
 > **[0:38](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/next-steps?u=76281980&t=38)** Meanwhile, I invite you to connect with me here on LinkedIn and follow me at my YouTube channel.
 >
@@ -1963,7 +1937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), next (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Env Vars:** wan (2)
 > **Speakers:** - [instructor] (1)
 

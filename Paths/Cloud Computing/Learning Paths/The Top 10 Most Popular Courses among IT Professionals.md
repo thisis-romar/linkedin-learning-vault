@@ -23,51 +23,47 @@ courses_visited: 1
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[SQL Essential Training]]"
-    last_opened:
+  - course: '[[SQL Essential Training]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Unconscious Bias]]"
-    last_opened:
+  - course: '[[Unconscious Bias]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Strategic Thinking]]"
-    last_opened:
+  - course: '[[Strategic Thinking]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Cloud Computing Understanding Core Concepts]]"
-    last_opened:
+  - course: '[[Cloud Computing Understanding Core Concepts]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Python Essential Training]]"
-    last_opened:
+  - course: '[[Python Essential Training]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Agile Software Development]]"
-    last_opened:
+  - course: '[[Agile Software Development]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Communicating with Confidence]]"
-    last_opened:
+  - course: '[[Communicating with Confidence]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Excel Essential Training (Microsoft 365)]]"
-    last_opened:
+  - course: '[[Excel Essential Training (Microsoft 365)]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Cybersecurity Foundations]]"
-    last_opened:
+  - course: '[[Cybersecurity Foundations]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[Speaking Confidently and Effectively]]"
-    last_opened:
+  - course: '[[Speaking Confidently and Effectively]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: agile-software-development
-    last_opened: 2026-05-02T20:34:06.930Z
-    open_count: 1
-    videos: []
-created: 2026-05-02
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/Cloud%20Computing/Learning%20Paths/The%20Top%2010%20Most%20Popular%20Courses%20among%20IT%20Professionals.md)

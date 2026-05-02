@@ -105,24 +105,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of predictive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980)
+#### [The power of predictive analytics](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=0)** - [Kumaran] My name is Kumaran Ponnambalam.
 >
-> **[0:02](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=2)** Welcome to this Predictive Customer Analytics course with Python.
+> **[0:02](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=2)** Welcome to this Predictive Customer Analytics course with [[Python (Programming Language)|Python]].
 >
 > **[0:07](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=7)** Your business is built around customers.
 >
 > **[0:10](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=10)** You want to understand and predict your customer behavior, and this course will help you do exactly that.
 >
-> **[0:16](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=16)** I will start off by discussing the customer life cycle and how predictive analytics can play a major role in all stages.
+> **[0:16](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=16)** I will start off by discussing the customer life cycle and how [[Predictive Analytics]] can play a major role in all stages.
 >
 > **[0:25](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=25)** Then I will look at individual stages in the cycle and discuss three use cases for each stage for predictive analytics.
 >
-> **[0:33](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=33)** I will explore data and different algorithms that can be used in these cases.
+> **[0:33](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=33)** I will explore data and different [[Algorithms]] that can be used in these cases.
 >
 > **[0:38](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980&t=38)** I will also show you how to execute one of those use cases in Python.
 >
@@ -134,20 +133,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), [[Python (Programming Language)|Python]] (2), business (2), [[Predictive Analytics]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Predictive Analytics]] (2), [[Algorithms]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [kumaran] (1)
 
-#### Expectations and course organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980)
+#### [Expectations and course organization](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980&t=0)** - The goal of this course is to discuss use cases in a customer life cycle where predictive analytics can help a business and show how to implement it.
+> **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980&t=0)** - The goal of this course is to discuss use cases in a customer life cycle where [[Predictive Analytics]] can help a business and show how to implement it.
 >
 > **[0:11](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980&t=11)** The course balances the business and technical sides of predictive customer analytics.
 >
-> **[0:17](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980&t=17)** I will zoom in on specific use cases by business struggle to understand customer behavior.
+> **[0:17](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980&t=17)** I will [[Zoom]] in on specific use cases by business struggle to understand customer behavior.
 >
 > **[0:23](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980&t=23)** Based on these use cases, I will also show you how to device a strategy to target customers.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980&t=33)** However, customer experience managers, data scientists, data architects, and managers can equally benefit from it.
 >
-> **[0:41](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980&t=41)** The prerequisites for this course are an understanding of business and customers, familiarity with predictive analytics and machine learning algorithms, experience in doing machine learning with Python.
+> **[0:41](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980&t=41)** The prerequisites for this course are an understanding of business and customers, familiarity with predictive analytics and machine learning [[Algorithms]], experience in doing machine learning with [[Python (Programming Language)|Python]].
 >
 > **[0:54](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/expectations-and-course-organization?u=76281980&t=54)** I would like to specifically point out that I will not be showing you how to code in Python.
 >
@@ -163,16 +161,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Predictive Analytics]] (2), data (2), [[Python (Programming Language)|Python]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Python (Programming Language)|Python]] (2), [[Zoom]] (1), [[Algorithms]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - the (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/how-to-use-the-exercise-files-27997634?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/how-to-use-the-exercise-files-27997634?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/how-to-use-the-exercise-files-27997634?u=76281980&t=0)** - [Instructor] We will be using GitHub's codespaces to run the exercise notebooks for this course.
+> **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/how-to-use-the-exercise-files-27997634?u=76281980&t=0)** - [Instructor] We will be using [[GitHub]]'s [[Codespaces]] to run the exercise notebooks for this course.
 >
 > **[0:07](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/how-to-use-the-exercise-files-27997634?u=76281980&t=7)** You can get there by clicking on the link below or by going to the course repo and clicking code, codespaces.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/how-to-use-the-exercise-files-27997634?u=76281980&t=61)** We will first install all the dependencies required for the exercises in this course by running the first cell.
 >
-> **[1:12](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/how-to-use-the-exercise-files-27997634?u=76281980&t=72)** I'm going to be selecting a Python environment and I will be selecting Python 3.12.
+> **[1:12](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/how-to-use-the-exercise-files-27997634?u=76281980&t=72)** I'm going to be selecting a [[Python (Programming Language)|Python]] environment and I will be selecting Python 3.12.
 >
 > **[1:23](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/how-to-use-the-exercise-files-27997634?u=76281980&t=83)** Now, codespace is ready to run our exercises.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), data (1)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1)
 > **CLI Commands:** python (2)
 > **Prerequisites:** set up (1), install (1)
 > **Versions:** python 3 (1)
@@ -210,8 +207,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of customer analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980)
+#### [The importance of customer analytics](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -225,7 +221,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=25)** They have to figure out the who, what, why, and how?
 >
-> **[0:29](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=29)** Who are the potential customers demanding their products?
+> **[0:29](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=29)** Who are the potential customers demanding their [[Microsoft Products|products]]?
 >
 > **[0:33](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=33)** What do they want?
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=144)** Businesses need answers to these questions in order to identify the right customer, the right channel to contact them, and the right way to offer to help them.
 >
-> **[2:33](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=153)** They need predictive analytics.
+> **[2:33](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=153)** They need [[Predictive Analytics]].
 >
 > **[2:35](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=155)** Predictive customer analytics uses customer data to build models.
 >
@@ -297,7 +293,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=199)** There are rich data sources that are widely available, such as web blogs, social media, chats, transactions, and voice transcripts.
 >
-> **[3:29](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=209)** Also, today's big data technologies are capable of doing large-scale data processing, integration, and storage in cost-effective ways.
+> **[3:29](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=209)** Also, today's [[Big Data]] technologies are capable of doing large-scale [[Data Processing]], integration, and storage in cost-effective ways.
 >
 > **[3:39](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980&t=219)** We have multiple ways to understand what the customers think, and feel, and be able to mine the data to build effective models.
 >
@@ -305,14 +301,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), [[Analytics]] (5), product (4), data (4), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Predictive Analytics]] (1), [[Big Data]] (1), [[Data Processing]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), such as (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [tutor] (1)
 
-#### The customer lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-lifecycle?u=76281980)
+#### [The customer lifecycle](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-lifecycle?u=76281980&t=6)** Think about it this way.
 >
-> **[0:08](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-lifecycle?u=76281980&t=8)** Businesses provide products and services that a customer wants, and the customer looks at a business to provide his wants and needs.
+> **[0:08](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-lifecycle?u=76281980&t=8)** Businesses provide [[Microsoft Products|products]] and services that a customer wants, and the customer looks at a business to provide his wants and needs.
 >
 > **[0:16](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-lifecycle?u=76281980&t=16)** Let us first take a look at this from the customer's perspective.
 >
@@ -362,13 +357,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), product (6), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply analytics to the customer lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/apply-analytics-to-the-customer-lifecycle?u=76281980)
+#### [Apply analytics to the customer lifecycle](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/apply-analytics-to-the-customer-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -378,7 +372,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/apply-analytics-to-the-customer-lifecycle?u=76281980&t=12)** Well, it starts with customer acquisition.
 >
-> **[0:15](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/apply-analytics-to-the-customer-lifecycle?u=76281980&t=15)** Customer analytics can identify customers who are most likely to buy your products and services through attribute and behavioral analytics.
+> **[0:15](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/apply-analytics-to-the-customer-lifecycle?u=76281980&t=15)** Customer analytics can identify customers who are most likely to buy your [[Microsoft Products|products]] and services through attribute and behavioral analytics.
 >
 > **[0:24](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/apply-analytics-to-the-customer-lifecycle?u=76281980&t=24)** It can identify the right channels like email, phone or social media to contact these prospects.
 >
@@ -420,13 +414,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (10), [[Microsoft Products|Products]] (4), product (4), business (3), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)
 
-#### Sources of customer data
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/sources-of-customer-data?u=76281980)
+#### [Sources of customer data](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/sources-of-customer-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -440,7 +433,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/sources-of-customer-data?u=76281980&t=38)** The first is the attributes of the entities and the second are the events in which the entities participate.
 >
-> **[0:46](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/sources-of-customer-data?u=76281980&t=46)** Entities can be customers, products, channels, or agents.
+> **[0:46](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/sources-of-customer-data?u=76281980&t=46)** Entities can be customers, [[Microsoft Products|products]], channels, or agents.
 >
 > **[0:50](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/sources-of-customer-data?u=76281980&t=50)** Attributes of the customer include demographics, income, age, gender, location, et cetera.
 >
@@ -482,12 +475,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), product (4), [[Analytics]] (3), business (3), web (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### The customer analytics process
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-analytics-process?u=76281980)
+#### [The customer analytics process](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-analytics-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-analytics-process?u=76281980&t=26)** Once the use cases are identified, architects need to identify the data sources that can be utilized for this purpose.
 >
-> **[0:34](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-analytics-process?u=76281980&t=34)** Then data pipelines need to be built to acquire, process, integrate and store the data.
+> **[0:34](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-analytics-process?u=76281980&t=34)** Then [[Data Pipelines]] need to be built to acquire, process, integrate and store the data.
 >
 > **[0:40](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-analytics-process?u=76281980&t=40)** Then data scientists need to get to work to mine the data and build models.
 >
@@ -517,20 +509,19 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-analytics-process?u=76281980&t=67)** Once management is on board, you will be able to find resources to undertake the project.
 >
-> **[1:13](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-analytics-process?u=76281980&t=73)** We will see examples and details of how these are set up during the rest of the course.
+> **[1:13](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-analytics-process?u=76281980&t=73)** We will see examples and details of how these are set up during the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[1:18](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-analytics-process?u=76281980&t=78)** Remember, predictive customer analytics is a continuous improvement process and it needs to be institutionalized within the business for it to consistently deliver results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Analytics]] (5), business (2), management (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case: Online computer store
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-online-computer-store?u=76281980)
+#### [Use case: Online computer store](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-online-computer-store?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +531,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-online-computer-store?u=76281980&t=14)** Imagine that this online store is analogous to [amazon.com](https://amazon.com).
 >
-> **[0:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-online-computer-store?u=76281980&t=19)** Potential customers browse the website for products of their choice.
+> **[0:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-online-computer-store?u=76281980&t=19)** Potential customers browse the website for [[Microsoft Products|products]] of their choice.
 >
 > **[0:24](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-online-computer-store?u=76281980&t=24)** The website monitors customer activity through sessions.
 >
@@ -550,7 +541,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-online-computer-store?u=76281980&t=41)** Once the customer adds products to the shopping cart, the store will also recommend products that the customer might be interested in.
 >
-> **[0:48](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-online-computer-store?u=76281980&t=48)** The store offers customer support and service through phone, chat, and email.
+> **[0:48](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-online-computer-store?u=76281980&t=48)** The store offers [[Customer Support]] and service through phone, chat, and email.
 >
 > **[0:53](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-online-computer-store?u=76281980&t=53)** Customers can file complaints through any of the channels.
 >
@@ -580,7 +571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Analytics]] (2), business (2), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Customer Support]] (1)
 > **Analogies:** imagine (1), analogous to (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Definitions:** is a  (1)
@@ -591,8 +582,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The customer acquisition process
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-acquisition-process?u=76281980)
+#### [The customer acquisition process](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-acquisition-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,18 +600,17 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-acquisition-process?u=76281980&t=25)** It should use channels of communications that are effective and efficient.
 >
-> **[0:30](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-acquisition-process?u=76281980&t=30)** This should entice the prospects to visit the online website and take a look at the products and services.
+> **[0:30](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-acquisition-process?u=76281980&t=30)** This should entice the prospects to visit the online website and take a look at the [[Microsoft Products|products]] and services.
 >
 > **[0:37](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-acquisition-process?u=76281980&t=37)** When the prospect is interested in the product the business should engage them, answer their questions, and make offers, to help them buy the product.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find high propensity prospects
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980)
+#### [Find high propensity prospects](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,13 +646,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980&t=84)** Did he ever respond to your emails?
 >
-> **[1:27](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980&t=87)** Did he ever tweet about your business or products?
+> **[1:27](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980&t=87)** Did he ever tweet about your business or [[Microsoft Products|products]]?
 >
 > **[1:30](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980&t=90)** Of course, all this past data will be tagged with eventual results of the campaigns in the past.
 >
-> **[1:37](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980&t=97)** What algorithms would you try?
+> **[1:37](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980&t=97)** What [[Algorithms]] would you try?
 >
-> **[1:39](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980&t=99)** The class of algorithms you would use would be regression to come up with a prospect score or you can use naive bayes classification to come up with the probability of prospect conversion.
+> **[1:39](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980&t=99)** The class of algorithms you would use would be regression to come up with a prospect score or you can use naive bayes classification to come up with the [[Probability]] of prospect conversion.
 >
 > **[1:52](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-high-propensity-prospects?u=76281980&t=112)** Ideally, you want the score between zero and one.
 >
@@ -683,12 +672,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), [[Algorithms]] (2), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Microsoft Products|Products]] (1), [[Probability]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Recommend best channel for contact
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/recommend-best-channel-for-contact?u=76281980)
+#### [Recommend best channel for contact](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/recommend-best-channel-for-contact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +684,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/recommend-best-channel-for-contact?u=76281980&t=6)** There are multiple channels available like phone calls, emails, mobile, or targeted ads on internet or social media.
 >
-> **[0:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/recommend-best-channel-for-contact?u=76281980&t=14)** But different people react differently to different media.
+> **[0:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/recommend-best-channel-for-contact?u=76281980&t=14)** But different people [[React.js|react]] differently to different media.
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/recommend-best-channel-for-contact?u=76281980&t=18)** Roger likes to pay attention to the marketing mail he gets.
 >
@@ -724,7 +712,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/recommend-best-channel-for-contact?u=76281980&t=90)** You will then use this model for future prospects to do actual prediction.
 >
-> **[1:35](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/recommend-best-channel-for-contact?u=76281980&t=95)** Which algorithms would you use?
+> **[1:35](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/recommend-best-channel-for-contact?u=76281980&t=95)** Which [[Algorithms]] would you use?
 >
 > **[1:37](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/recommend-best-channel-for-contact?u=76281980&t=97)** This is a classic classification problem.
 >
@@ -740,13 +728,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[React.js|React]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - once (1)
 
-#### Offer chat based on visitor propensity
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980)
+#### [Offer chat based on visitor propensity](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,7 +741,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=3)** He starts browsing for laptops.
 >
-> **[0:06](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=6)** You have online sales rep ready to engage your website visitors and entice them to buy your products.
+> **[0:06](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=6)** You have online sales rep ready to engage your website visitors and entice them to buy your [[Microsoft Products|products]].
 >
 > **[0:12](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=12)** But you typically have so many visitors and most of them are window shoppers.
 >
@@ -794,7 +781,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=106)** This is a classification use case.
 >
-> **[1:49](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=109)** Naive Bayes would be the most suited algorithm since it provides a probability score.
+> **[1:49](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=109)** Naive Bayes would be the most suited algorithm since it provides a [[Probability]] score.
 >
 > **[1:55](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=115)** You will use past data about customer demographics and website actions apply the Naive Bayes algorithm and build a propensity model.
 >
@@ -814,19 +801,18 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=166)** This is something that you can prototype.
 >
-> **[2:49](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=169)** In the next video i'll show you how to use Python to code and implement this specific use case.
+> **[2:49](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/offer-chat-based-on-visitor-propensity?u=76281980&t=169)** In the next video i'll show you how to use [[Python (Programming Language)|Python]] to code and implement this specific use case.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (3), web (2), product (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Probability]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Use case: Determine customer propensity
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980)
+#### [Use case: Determine customer propensity](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -854,7 +840,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=69)** A value of 1 for reviews means the visitor actually viewed reviews for the product.
 >
-> **[1:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=74)** Similarly, we have FAQ specs, shipping, bought together, comparison of products, and so on.
+> **[1:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=74)** Similarly, we have FAQ specs, shipping, bought together, comparison of [[Microsoft Products|products]], and so on.
 >
 > **[1:24](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=84)** Finally, there is the target variable by which indicates whether the visitor actually bought the product or did not buy the product.
 >
@@ -874,7 +860,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=140)** We then also look at the top records to make sure that the data has been loaded correctly.
 >
-> **[2:28](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=148)** Then we run a describe command on the dataframe to look at the statistics for various columns.
+> **[2:28](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=148)** Then we run a describe command on the dataframe to look at the [[Statistics]] for various columns.
 >
 > **[2:34](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=154)** This is to make sure, once again, that the data is not skewed in any way.
 >
@@ -924,11 +910,11 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=308)** In real life, you would definitely use a much larger data set, in millions possibly.
 >
-> **[5:17](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=317)** Now, instead of predicting a 1 or a 0, I want to predict the probability of somebody who wants to buy, and I can do that by using the method predict_proba.
+> **[5:17](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=317)** Now, instead of predicting a 1 or a 0, I want to predict the [[Probability]] of somebody who wants to buy, and I can do that by using the method predict_proba.
 >
 > **[5:27](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=327)** This is going to give me the probability of whether the user is going to buy or not, and in this case, it is giving me a 10% probability.
 >
-> **[5:36](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=336)** So we will be using this for real-time predictions.
+> **[5:36](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=336)** So we will be using this for [[Real-Time]] predictions.
 >
 > **[5:43](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-determine-customer-propensity-27995766?u=76281980&t=343)** Say a new user comes in, and he starts browsing your website.
 >
@@ -970,7 +956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), product (5), feature (5), [[Microsoft Products|Products]] (3), [[Probability]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Probability]] (3), [[Statistics]] (1), [[Real-Time]] (1)
 > **Env Vars:** reviews (2), buy (2), faq (1), csv (1), compare_similar_products (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** naive_bayes (2), train_test_split (1), predict_proba (1)
@@ -984,8 +970,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Upselling and cross-selling
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980)
+#### [Upselling and cross-selling](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,7 +980,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=9)** He might need charging stations, monitors and warranties.
 >
-> **[0:13](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=13)** He might also be shopping for his middle school kid and need other laptops and electronics.
+> **[0:13](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=13)** He might also be shopping for his middle school kid and need other laptops and [[Electronics]].
 >
 > **[0:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=19)** What's my point?
 >
@@ -1013,7 +998,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=53)** Cross-sell means selling items in other independent categories the customer might be interested in.
 >
-> **[0:59](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=59)** A person buying a high-end laptop is most probability a technical person and he might be interested in technology-related books or other items like mobile phones.
+> **[0:59](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=59)** A person buying a high-end laptop is most [[Probability]] a technical person and he might be interested in technology-related books or other items like mobile phones.
 >
 > **[1:10](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=70)** Now, you might be wondering what is the upsell, cross-sell process?
 >
@@ -1037,11 +1022,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=113)** Roger might be interested in gaming software and accessories, Jessica might be interested in fashion wear.
 >
-> **[2:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=120)** Sure, this is a bit stereotypical but it aligns with market research.
+> **[2:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=120)** Sure, this is a bit stereotypical but it aligns with [[Market Research]].
 >
 > **[2:05](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=125)** The next, life events like birthdays, graduation, college, childbirth, et cetera trigger significant purchasing behavior.
 >
-> **[2:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=134)** If a business can know or predict such upcoming events, it can proactively offer relevant products and services to their existing customers.
+> **[2:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=134)** If a business can know or predict such upcoming events, it can proactively offer relevant [[Microsoft Products|products]] and services to their existing customers.
 >
 > **[2:24](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980&t=144)** If Roger has been buying maternity products for the past couple of months, it would tell you that he has a baby on his way.
 >
@@ -1073,14 +1058,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), business (3), next (3), product (2), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Electronics]] (1), [[Probability]] (1), [[Market Research]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find items bought together
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-items-bought-together?u=76281980)
+#### [Find items bought together](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-items-bought-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1074,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-items-bought-together?u=76281980&t=6)** Roger walks into his favorite departmental store and is shocked to find that the shelves have been rearranged.
 >
-> **[0:13](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-items-bought-together?u=76281980&t=13)** The products are not where they usually are.
+> **[0:13](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-items-bought-together?u=76281980&t=13)** The [[Microsoft Products|products]] are not where they usually are.
 >
 > **[0:17](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-items-bought-together?u=76281980&t=17)** Roger asked why did they do that?
 >
@@ -1120,7 +1104,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-items-bought-together?u=76281980&t=106)** You will use sale transaction data to run this algorithm and generate tools that shows the percentage of times the things are done together.
 >
-> **[1:56](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-items-bought-together?u=76281980&t=116)** As you would notice, this action is not customer specific, so it does not require real-time action based on the customer.
+> **[1:56](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-items-bought-together?u=76281980&t=116)** As you would notice, this action is not customer specific, so it does not require [[Real-Time]] action based on the customer.
 >
 > **[2:05](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-items-bought-together?u=76281980&t=125)** Using this use case, you decide on which items to stock together, which products to group together in a catalog or which products to show on the site for any main product in your website.
 >
@@ -1136,15 +1120,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (2), data (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Real-Time]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create customer group preferences
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-group-preferences?u=76281980)
+#### [Create customer group preferences](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-group-preferences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,7 +1145,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-group-preferences?u=76281980&t=28)** I would like to suggest the possibility of identifying other customers who are like Roger.
 >
-> **[0:34](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-group-preferences?u=76281980&t=34)** We can then use data from these customers to recommend products to Roger.
+> **[0:34](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-group-preferences?u=76281980&t=34)** We can then use data from these customers to recommend [[Microsoft Products|products]] to Roger.
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-group-preferences?u=76281980&t=41)** Think about it.
 >
@@ -1184,7 +1167,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-group-preferences?u=76281980&t=82)** First, based on customer attributes, you try to group similar customers.
 >
-> **[1:27](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-group-preferences?u=76281980&t=87)** You would use clustering algorithms like K-Means or K-Nearest Neighbors to create these groups.
+> **[1:27](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-group-preferences?u=76281980&t=87)** You would use clustering [[Algorithms]] like K-Means or K-Nearest Neighbors to create these groups.
 >
 > **[1:34](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-group-preferences?u=76281980&t=94)** Try to create an optimal number of groups, say three to 10.
 >
@@ -1212,13 +1195,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (4), business (2), data (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### User-item affinity and recommendations
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980)
+#### [User-item affinity and recommendations](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1228,9 +1210,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980&t=18)** Jessica might be grouped as a young student based on her occupation and age.
 >
-> **[0:23](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980&t=23)** In the same way, products are also grouped based on their type or use.
+> **[0:23](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980&t=23)** In the same way, [[Microsoft Products|products]] are also grouped based on their type or use.
 >
-> **[0:28](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980&t=28)** Like a laptop might be grouped as electronics based on the type or a backpack might be grouped as college supplies based on its use.
+> **[0:28](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980&t=28)** Like a laptop might be grouped as [[Electronics]] based on the type or a backpack might be grouped as college supplies based on its use.
 >
 > **[0:38](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980&t=38)** Businesses try to build recommendation engines based on these groups.
 >
@@ -1272,25 +1254,24 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980&t=192)** This use case is a very popular one and it is used in popular websites like Amazon and Netflix.
 >
-> **[3:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980&t=199)** In the next lecture, I will show you how to implement this use case in Python.
+> **[3:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/user-item-affinity-and-recommendations?u=76281980&t=199)** In the next lecture, I will show you how to implement this use case in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (4), [[Microsoft Products|Products]] (3), database (3), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Electronics]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** similar to (3), for example (2)
 > **CLI Commands:** find (1), python (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case: Recommend items
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-recommend-items-27994806?u=76281980)
+#### [Use case: Recommend items](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-recommend-items-27994806?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-recommend-items-27994806?u=76281980&t=0)** - [Instructor] In this lecture, we are going to implement the use case for building recommendations.
 >
-> **[0:06](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-recommend-items-27994806?u=76281980&t=6)** When a customer comes to your website and has bought a product, you want to recommend additional products that similar customers bought.
+> **[0:06](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-recommend-items-27994806?u=76281980&t=6)** When a customer comes to your website and has bought a product, you want to recommend additional [[Microsoft Products|products]] that similar customers bought.
 >
 > **[0:15](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-recommend-items-27994806?u=76281980&t=15)** So, in this exercise, we are going to use data about which customers bought which product, and based on that, build an item-to-item affinity score and then use it for recommendation.
 >
@@ -1350,7 +1331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (4), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **Versions:** 0.4 (3), 0.2 (1), 0.25 (1)
 > **CLI Commands:** make (2), find (2)
 > **File Paths:** data-03-05-user-item-rating-data.csv (1)
@@ -1364,8 +1345,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generate customer loyalty
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/generate-customer-loyalty?u=76281980)
+#### [Generate customer loyalty](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/generate-customer-loyalty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1421,14 +1401,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), next (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create customer value classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-value-classes?u=76281980)
+#### [Create customer value classes](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-value-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1438,7 +1416,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-value-classes?u=76281980&t=18)** When a newer, potential customer is identify, classifying him or her, as early as possible in the business cycle, helps a business to focus more resources on those customer with significant future value.
 >
-> **[0:32](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-value-classes?u=76281980&t=32)** Given Roger's demographics, he might qualify as a gold customer, since he would buy premium electronics for him and his growing family.
+> **[0:32](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-value-classes?u=76281980&t=32)** Given Roger's demographics, he might qualify as a gold customer, since he would buy premium [[Electronics]] for him and his growing family.
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/create-customer-value-classes?u=76281980&t=41)** Jessica on the other hand, might be budget focused and might not spend a lot on electronics in the next five years.
 >
@@ -1470,13 +1448,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), management (2), [[Electronics]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Electronics]] (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discover response patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-response-patterns?u=76281980)
+#### [Discover response patterns](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-response-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1484,7 +1461,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-response-patterns?u=76281980&t=1)** When the customer buys something from your business and then randomly switches to another business for the same service, it hurts.
 >
-> **[0:09](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-response-patterns?u=76281980&t=9)** You want to keep your customers interested in buying more products and services from you.
+> **[0:09](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-response-patterns?u=76281980&t=9)** You want to keep your customers interested in buying more [[Microsoft Products|products]] and services from you.
 >
 > **[0:15](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-response-patterns?u=76281980&t=15)** So you reach out to your customers with coupons, offers, deals, packages, discounts, et cetera, however you can.
 >
@@ -1502,7 +1479,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-response-patterns?u=76281980&t=74)** It also includes data about the offers made, like what event the offer was made, the product for which the offer was made, the discount offered, the channel in which the offer was made, whether the particular customer checked the offer, and if they really used the offer or not.
 >
-> **[1:31](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-response-patterns?u=76281980&t=91)** The algorithm used would be K-Means clustering or any derivatives of this algorithm.
+> **[1:31](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-response-patterns?u=76281980&t=91)** The algorithm used would be [[k-means clustering]] or any derivatives of this algorithm.
 >
 > **[1:37](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-response-patterns?u=76281980&t=97)** You would use demographics and offer data to build the clusters and groups.
 >
@@ -1522,13 +1499,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (3), business (2), product (1), [[k-means clustering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[k-means clustering]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predict customer lifetime value
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980)
+#### [Predict customer lifetime value](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1542,7 +1518,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=49)** But how can you compute this for a recent customer?
 >
-> **[0:52](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=52)** Well, predictive analytics is here to help.
+> **[0:52](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=52)** Well, [[Predictive Analytics]] is here to help.
 >
 > **[0:55](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=55)** The goal of this use case is to build a regression model that can predict the customer lifetime value for a new or recent customer based on his or her recent buying patterns.
 >
@@ -1558,7 +1534,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=100)** CLV can be measured over a finite time, like two years or so, based on your business and the kind of historical data that you have.
 >
-> **[1:50](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=110)** The algorithm used here would be linear regression.
+> **[1:50](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=110)** The algorithm used here would be [[Linear Regression]].
 >
 > **[1:54](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=114)** The first six months of data would become predictor variables and the CLV is the target variable.
 >
@@ -1578,19 +1554,18 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=170)** To summarize, this use case shows you how to predict CLV for a new customer based on CLVs of similar old customers.
 >
-> **[2:59](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=179)** In the next lecture, I will show you how to predict your customer lifetime value using Python.
+> **[2:59](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customer-lifetime-value?u=76281980&t=179)** In the next lecture, I will show you how to predict your customer lifetime value using [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (3), next (2), [[Predictive Analytics]] (1), feature (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Linear Regression]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** clv (11)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case: Predict CLV
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-predict-clv-27995764?u=76281980)
+#### [Use case: Predict CLV](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-predict-clv-27995764?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1610,11 +1585,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-predict-clv-27995764?u=76281980&t=47)** This is something you decide based on the length to which your customers stay with your business.
 >
-> **[0:52](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-predict-clv-27995764?u=76281980&t=52)** This is the data we are going to use to build a linear regression model that can be used to predict the customer lifetime value.
+> **[0:52](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-predict-clv-27995764?u=76281980&t=52)** This is the data we are going to use to build a [[Linear Regression]] model that can be used to predict the customer lifetime value.
 >
 > **[1:01](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-predict-clv-27995764?u=76281980&t=61)** The notebook for this exercise is NB-04-05-Predicting-CLV.
 >
-> **[1:07](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-predict-clv-27995764?u=76281980&t=67)** Here we start out by importing a set of Python, Pandas, and scikit-learn libraries.
+> **[1:07](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-predict-clv-27995764?u=76281980&t=67)** Here we start out by importing a set of [[Python (Programming Language)|Python]], [[Pandas (Software)|Pandas]], and scikit-learn libraries.
 >
 > **[1:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-predict-clv-27995764?u=76281980&t=74)** We then load up the CSV data files.
 >
@@ -1662,7 +1637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Linear Regression]] (4), business (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (4), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** clv (7), csv (1)
 > **CLI Commands:** python (1), make (1)
 > **File Paths:** data-04-05-customer-lifetime-value.csv (1)
@@ -1674,14 +1649,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve customer satisfaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980)
+#### [Improve customer satisfaction](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980&t=0)** - [Tutor] So far in the story, Roger has purchased a laptop.
 >
-> **[0:04](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980&t=4)** Now, imagine that he's trying to set it up in his home office, upon doing so, he finds that his laptop keeps losing connection with his wireless keyboard.
+> **[0:04](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980&t=4)** Now, imagine that he's trying to set it up in his home [[Microsoft Office|office]], upon doing so, he finds that his laptop keeps losing connection with his wireless keyboard.
 >
 > **[0:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980&t=14)** He thinks he messed up the setup and he tries to find ways to fix it.
 >
@@ -1721,23 +1695,22 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980&t=117)** It needs to let the customer feel, that the business truly knows about his problems and cares for him.
 >
-> **[2:03](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980&t=123)** Today's customer service world has moved towards self-service and automation, using interactive voice response and chat bots.
+> **[2:03](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980&t=123)** Today's customer service world has moved towards self-service and automation, using [[Interactive Voice Response (IVR)|interactive voice response]] and chat bots.
 >
 > **[2:12](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980&t=132)** These automation pieces need intelligence, to predict what the customer is going through and ask relevant questions.
 >
-> **[2:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980&t=139)** Customer service is definitely an area, where predictive analytics can help in understanding customer problems and providing fast resolutions.
+> **[2:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980&t=139)** Customer service is definitely an area, where [[Predictive Analytics]] can help in understanding customer problems and providing fast resolutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Automation]] (2), [[Microsoft Office|Office]] (1), prompt (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Interactive Voice Response (IVR)|Interactive voice response]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [tutor] (1)
 
-#### Predict intent of contact
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980)
+#### [Predict intent of contact](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1747,7 +1720,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=10)** Let's think about what went wrong.
 >
-> **[0:12](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=12)** Given that Roger has already given his phone number during the sales process, shouldn't customer support automatically identify him with this caller ID?
+> **[0:12](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=12)** Given that Roger has already given his phone number during the sales process, shouldn't [[Customer Support]] automatically identify him with this caller ID?
 >
 > **[0:22](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=22)** He's calling again within two days after the delivery of the laptop.
 >
@@ -1765,13 +1738,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=66)** The data for this use case would be all the previous transactions that happened between the customer and the business.
 >
-> **[1:13](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=73)** It contains sales transactions that include details products, status and delivery.
+> **[1:13](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=73)** It contains sales transactions that include details [[Microsoft Products|products]], status and delivery.
 >
 > **[1:20](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=80)** You will also use data related to previous contacts between the customer and the business.
 >
 > **[1:25](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=85)** For each contact, you will use reason, agent who handled the contact, duration, root cause, resolution status, et cetera.
 >
-> **[1:34](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=94)** This is a classification problem, so previous algorithms would be a good fit.
+> **[1:34](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=94)** This is a classification problem, so previous [[Algorithms]] would be a good fit.
 >
 > **[1:39](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-intent-of-contact?u=76281980&t=99)** It is important to keep the number of target classes to less than 10.
 >
@@ -1797,18 +1770,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Customer Support]] (4), data (3), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (4), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **Env Vars:** ivr (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find unsatisfied customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980)
+#### [Find unsatisfied customers](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980&t=0)** - [Instructor] How does a business find out if their customers are happy or unhappy with their products or service?
+> **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980&t=0)** - [Instructor] How does a business find out if their customers are happy or unhappy with their [[Microsoft Products|products]] or service?
 >
 > **[0:07](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980&t=7)** Typically, they do so with a survey and compute an overall customer satisfaction score.
 >
@@ -1842,7 +1814,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980&t=99)** If the range of scores is discrete like one, two, three, four, five, we can go with the classification algorithm.
 >
-> **[1:45](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980&t=105)** In this case, assuming it to be continuous, we will go with linear regression.
+> **[1:45](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980&t=105)** In this case, assuming it to be continuous, we will go with [[Linear Regression]].
 >
 > **[1:51](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980&t=111)** Using demographics and history data, you build a linear regression equation that would prediction a customer satisfaction score.
 >
@@ -1854,21 +1826,20 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980&t=134)** Then you apply this model on all other customers to find out what their satisfaction score would be.
 >
-> **[2:21](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980&t=141)** Then your customer support team can take the list of top unsatisfied customers and go to work with them, like contacting them proactively and asking them how they are doing with their products or offering them discounts or deals.
+> **[2:21](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-unsatisfied-customers?u=76281980&t=141)** Then your [[Customer Support]] team can take the list of top unsatisfied customers and go to work with them, like contacting them proactively and asking them how they are doing with their products or offering them discounts or deals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), [[Microsoft Products|Products]] (2), [[Linear Regression]] (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Linear Regression]] (2), [[Customer Support]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Group problem types
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980)
+#### [Group problem types](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=0)** - [Instructor] Technical support teams handle various types of problems every day.
+> **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=0)** - [Instructor] [[Technical Support]] teams handle various types of problems every day.
 >
 > **[0:04](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=4)** Some problems are frequent and straightforward that the technician on call can spell out the solution even before the customer has completed the explanation.
 >
@@ -1888,13 +1859,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=56)** From a long list of problem types, the business should identify logical groups that can then be used to develop an optimal resolution plan with least human effort.
 >
-> **[1:08](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=68)** The data used for this use case would be problem statistics from case data captured from technical support.
+> **[1:08](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=68)** The data used for this use case would be problem [[Statistics]] from case data captured from technical support.
 >
 > **[1:15](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=75)** The case data is summarized by problem type.
 >
 > **[1:18](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=78)** The feature data would be items like average time to resolve the problem, average number of calls, replacement rates, et cetera.
 >
-> **[1:26](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=86)** Given that we are going to create logical groups, we would go with K-Means clustering or variants of it.
+> **[1:26](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=86)** Given that we are going to create logical groups, we would go with [[k-means clustering]] or variants of it.
 >
 > **[1:32](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=92)** It is important to measure the optimal number of groups by repeating this exercise for multiple values of K and take the neatest.
 >
@@ -1910,18 +1881,17 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=134)** As a business, you want to achieve maximum efficiency and effectiveness when it comes to support customer, this use case helps you in that goal.
 >
-> **[2:23](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=143)** In the next video, I will show you how you can build this use case in Python.
+> **[2:23](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/group-problem-types?u=76281980&t=143)** In the next video, I will show you how you can build this use case in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Technical Support]] (2), business (2), teams (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Technical Support]] (2), [[Statistics]] (1), [[k-means clustering]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), make (1), python (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case: Group problem types
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-group-problem-types-27997635?u=76281980)
+#### [Use case: Group problem types](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-group-problem-types-27997635?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1939,7 +1909,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-group-problem-types-27997635?u=76281980&t=50)** Let's explore this notebook.
 >
-> **[0:53](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-group-problem-types-27997635?u=76281980&t=53)** We start out by importing a number of Python libraries and then we load up the issue CSV into the data frame.
+> **[0:53](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-group-problem-types-27997635?u=76281980&t=53)** We start out by importing a number of [[Python (Programming Language)|Python]] libraries and then we load up the issue CSV into the data frame.
 >
 > **[1:01](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-group-problem-types-27997635?u=76281980&t=61)** We then look at the data frame to make sure that they are loaded correctly as ins and floats.
 >
@@ -1987,7 +1957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1), find (1)
 > **Env Vars:** csv (1)
 > **Definitions:** is a  (1)
@@ -1999,8 +1969,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prevent customer attrition
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/prevent-customer-attrition?u=76281980)
+#### [Prevent customer attrition](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/prevent-customer-attrition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2010,7 +1979,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/prevent-customer-attrition?u=76281980&t=8)** He keeps seeing ads from competitors while browsing the internet.
 >
-> **[0:12](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/prevent-customer-attrition?u=76281980&t=12)** His friends talk about new websites which offer much better deals and supposedly higher quality products.
+> **[0:12](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/prevent-customer-attrition?u=76281980&t=12)** His friends talk about new websites which offer much better deals and supposedly higher quality [[Microsoft Products|products]].
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/prevent-customer-attrition?u=76281980&t=18)** On top of all that, Roger has been frustrated with some transactions with you.
 >
@@ -2048,11 +2017,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - roger (1)
 
-#### Predict customers who might leave
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customers-who-might-leave?u=76281980)
+#### [Predict customers who might leave](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customers-who-might-leave?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2082,7 +2050,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customers-who-might-leave?u=76281980&t=77)** This is the classification problem.
 >
-> **[1:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customers-who-might-leave?u=76281980&t=79)** You can either use tree-based algorithms to develop a binary classification model or you can use Naive Bayes to give them a probability score of risk of leaving.
+> **[1:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customers-who-might-leave?u=76281980&t=79)** You can either use tree-based [[Algorithms]] to develop a binary classification model or you can use Naive Bayes to give them a [[Probability]] score of risk of leaving.
 >
 > **[1:30](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customers-who-might-leave?u=76281980&t=90)** You use customer demographics and history records to build a classification model, and then use it to predict the risk of a customer leaving you.
 >
@@ -2090,17 +2058,16 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customers-who-might-leave?u=76281980&t=108)** You build a model based on past data about all customers and then use it to credit for your current customers.
 >
-> **[1:56](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customers-who-might-leave?u=76281980&t=116)** Your marketing or customer support departments can then take this list and reach out to customers with offers that can make them stick with you.
+> **[1:56](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/predict-customers-who-might-leave?u=76281980&t=116)** Your marketing or [[Customer Support]] departments can then take this list and reach out to customers with offers that can make them stick with you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1), feature (1), [[Algorithms]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Probability]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
 
-#### Find incentives
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980)
+#### [Find incentives](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2118,7 +2085,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=18)** A discount coupon kept Jessica from moving over to another vendor, so why didn't it work for Roger?
 >
-> **[0:24](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=24)** Different customers react differently to different offers to keep them.
+> **[0:24](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=24)** Different customers [[React.js|react]] differently to different offers to keep them.
 >
 > **[0:28](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=28)** It is important to identify what works for each customer and extend them the appropriate offer.
 >
@@ -2138,7 +2105,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=74)** In this use case you will first group customers into similar groups based on demographics.
 >
-> **[1:20](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=80)** You will use K-Means clustering for that.
+> **[1:20](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=80)** You will use [[k-means clustering]] for that.
 >
 > **[1:23](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=83)** Next, you will apply the groups to the affinity table to create group offer affinity.
 >
@@ -2152,16 +2119,15 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=114)** Then you will group customers into similar groups.
 >
-> **[1:57](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=117)** Use the algorithms explained earlier to discover the best offer for each customer.
+> **[1:57](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/find-incentives?u=76281980&t=117)** Use the [[Algorithms]] explained earlier to discover the best offer for each customer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), [[React.js|React]] (1), business (1), [[k-means clustering]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[k-means clustering]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (3)
 > **Speakers:** - roger (1)
 
-#### Discover customer attrition patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-customer-attrition-patterns?u=76281980)
+#### [Discover customer attrition patterns](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-customer-attrition-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2191,7 +2157,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-customer-attrition-patterns?u=76281980&t=65)** The features might be age group, marital status, employment status, number of years being customer, total problems reported, total renewals in the, past total offers made, et cetera.
 >
-> **[1:18](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-customer-attrition-patterns?u=76281980&t=78)** The algorithms we use will be association rules mining.
+> **[1:18](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-customer-attrition-patterns?u=76281980&t=78)** The [[Algorithms]] we use will be association rules mining.
 >
 > **[1:23](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-customer-attrition-patterns?u=76281980&t=83)** By using ARM you can find relationship between various attributes and events.
 >
@@ -2203,17 +2169,16 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-customer-attrition-patterns?u=76281980&t=106)** You can perform this analysis at periodic intervals, say every three months.
 >
-> **[1:51](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-customer-attrition-patterns?u=76281980&t=111)** Such analysis will bring forth interesting relationships and patterns which you can then use to understand your customers better and device products, services and schemes that improve customer satisfaction.
+> **[1:51](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/discover-customer-attrition-patterns?u=76281980&t=111)** Such analysis will bring forth interesting relationships and patterns which you can then use to understand your customers better and device [[Microsoft Products|products]], services and schemes that improve customer satisfaction.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), feature (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** arm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case: Customer patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-customer-patterns-27999537?u=76281980)
+#### [Use case: Customer patterns](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-customer-patterns-27999537?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2241,7 +2206,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-customer-patterns-27999537?u=76281980&t=68)** The notebook for this exercise is NB-06-05 discovering-customer-attrition-patterns.
 >
-> **[1:16](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-customer-patterns-27999537?u=76281980&t=76)** We start off by importing some Python libraries.
+> **[1:16](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-customer-patterns-27999537?u=76281980&t=76)** We start off by importing some [[Python (Programming Language)|Python]] libraries.
 >
 > **[1:19](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-customer-patterns-27999537?u=76281980&t=79)** We also load the attrition CSV file.
 >
@@ -2319,11 +2284,11 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-customer-patterns-27999537?u=76281980&t=284)** Then you can take these patterns and analyze why this would be happening.
 >
-> **[4:48](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-customer-patterns-27999537?u=76281980&t=288)** That's when your marketing folks and your customer support folks have to deep dive into these patterns to understand what exactly is happening here and how they can change these strategies to adapt to that.
+> **[4:48](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/use-case-customer-patterns-27999537?u=76281980&t=288)** That's when your marketing folks and your [[Customer Support]] folks have to deep dive into these patterns to understand what exactly is happening here and how they can change these strategies to adapt to that.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (3), business (1), [[Python (Programming Language)|Python]] (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Customer Support]] (1)
 > **Env Vars:** csv (3)
 > **File Paths:** warranty-contract-attrition.csv (1), warranty-basket.csv (1)
 > **CLI Commands:** make (1), python (1)
@@ -2334,8 +2299,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Devise customer analytics processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980)
+#### [Devise customer analytics processes](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2361,13 +2325,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980&t=44)** Plan for multiple iterations.
 >
-> **[0:46](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980&t=46)** Each iteration needs data preparation, analysis, prediction, experimentation, and review.
+> **[0:46](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980&t=46)** Each iteration needs [[Data Preparation]], analysis, prediction, experimentation, and review.
 >
 > **[0:52](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980&t=52)** Review progress and results with stakeholders.
 >
 > **[0:56](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980&t=56)** Incorporate simulations and experiments.
 >
-> **[0:58](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980&t=58)** Simulation helps you understand how external factors might influence customer decision making.
+> **[0:58](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980&t=58)** [[Simulation]] helps you understand how external factors might influence customer decision making.
 >
 > **[1:04](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980&t=64)** Experimentation like, A/B testing, will help you validate if predictions are going to hold good in the field.
 >
@@ -2383,15 +2347,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Analytics]] (1), [[Simulation]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[Simulation]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Choose the right data
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/choose-the-right-data?u=76281980)
+#### [Choose the right data](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/choose-the-right-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/choose-the-right-data?u=76281980&t=0)** - [Instructor] Data is the centerpiece of predictive analytics.
+> **[0:00](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/choose-the-right-data?u=76281980&t=0)** - [Instructor] Data is the centerpiece of [[Predictive Analytics]].
 >
 > **[0:04](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/choose-the-right-data?u=76281980&t=4)** If you have the right data and ask the right questions, your models and predictions will be accurate.
 >
@@ -2425,11 +2388,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Predictive Analytics]] (2), business (1), [[Analytics]] (1), web (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Design data processing pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/design-data-processing-pipelines?u=76281980)
+#### [Design data processing pipelines](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/design-data-processing-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2437,7 +2399,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/design-data-processing-pipelines?u=76281980&t=9)** This infrastructure ensures that data is available for analytics in a timely manner and guarantees its accuracy.
 >
-> **[0:17](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/design-data-processing-pipelines?u=76281980&t=17)** The following are some of the recommended best practices for building data processing pipelines.
+> **[0:17](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/design-data-processing-pipelines?u=76281980&t=17)** The following are some of the recommended best practices for building [[Data Processing]] pipelines.
 >
 > **[0:23](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/design-data-processing-pipelines?u=76281980&t=23)** Provide mechanisms for republishing and reprocesing data to catch up for gaps and interruptions.
 >
@@ -2465,14 +2427,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Analytics]] (2), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - a (1)
 
-#### Implement continuous improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/implement-continuous-improvement?u=76281980)
+#### [Implement continuous improvement](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/implement-continuous-improvement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2492,7 +2453,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/implement-continuous-improvement?u=76281980&t=18)** Change is the only thing that does not change.
 >
-> **[0:22](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/implement-continuous-improvement?u=76281980&t=22)** Predictive analytics is not a project.
+> **[0:22](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/implement-continuous-improvement?u=76281980&t=22)** [[Predictive Analytics]] is not a project.
 >
 > **[0:24](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/implement-continuous-improvement?u=76281980&t=24)** It is a never-ending journey that constantly listen to and adapts to the changes that are happening.
 >
@@ -2510,7 +2471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Predictive Analytics]] (2), product (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - things (1)
 
@@ -2519,8 +2480,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2532,7 +2492,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980&t=13)** That should give you a real life learning experience.
 >
-> **[0:17](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980&t=17)** Try out the use cases in a big data machine learning platform like Apache Mahout or Apache Spark.
+> **[0:17](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980&t=17)** Try out the use cases in a [[Big Data]] machine learning platform like Apache Mahout or [[Apache Spark]].
 >
 > **[0:24](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980&t=24)** That should give you experience in working with scale.
 >
@@ -2540,7 +2500,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980&t=32)** Expand your knowledge to other tools and domains.
 >
-> **[0:35](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980&t=35)** Explore the use of predictive analytics in other fields like operations and finance.
+> **[0:35](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980&t=35)** Explore the use of [[Predictive Analytics]] in other fields like operations and finance.
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980&t=41)** Data always intrigues me.
 >
@@ -2550,7 +2510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), data (2), business (1), [[Big Data]] (1), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Apache Spark]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** apache (2), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kumaran] (1)

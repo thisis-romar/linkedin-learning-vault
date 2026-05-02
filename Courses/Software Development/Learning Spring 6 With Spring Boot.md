@@ -95,16 +95,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn the premier framework for the JVM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980)
+#### [Learn the premier framework for the JVM](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980&t=0)** - [Frank] Spring is by far the most powerful and popular framework for the Java Virtual Machine today.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980&t=0)** - [Frank] Spring is by far the most powerful and popular framework for the [[Java]] Virtual Machine today.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980&t=6)** As a Java developer or aspiring one, it is a framework that you must know as a professional developer.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980&t=13)** In this course, we will start from the beginning, leveraging Spring Boot to learn the basics of using the Spring framework.
+> **[0:13](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980&t=13)** In this course, we will start from the beginning, leveraging [[Spring Boot]] to learn the basics of using the [[Spring Framework]].
 >
 > **[0:21](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980&t=21)** Hi, my name is Frank Moley.
 >
@@ -114,13 +113,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Spring Boot]] (2), [[Spring Framework]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Spring Boot]] (2), [[Spring Framework]] (1)
 > **Env Vars:** jvm (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [frank] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,11 +128,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=8)** And with Spring, you can use several JVM languages.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=12)** We, however, are going to stick with Java as the primary development language.
+> **[0:12](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=12)** We, however, are going to stick with [[Java]] as the primary development language.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=17)** You'll need a JDK installed on your machine.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=20)** Spring Boot 3.0 leverages Spring Framework 6, which requires at least Java 17.
+> **[0:20](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=20)** [[Spring Boot]] 3.0 leverages [[Spring Framework]] 6, which requires at least Java 17.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=28)** Now, I will be leveraging Java 20 as the latest LTS version of Java that is available today.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=79)** We will be using both an embedded database and an external database.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=85)** For the external database, we will be using Postgres.
+> **[1:25](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=85)** For the external database, we will be using [[PostgreSQL|Postgres]].
 >
 > **[1:29](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=89)** Now, you can do what I will be doing, and that is leveraging Docker to run the database.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=106)** And I am going to provide you some basic instructions, but if it seems too much, you may just consider another option.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=113)** One of those options, if you don't want to leverage Docker, is to install the database locally following the instructions from PostgreSQL.
+> **[1:53](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=113)** One of those options, if you don't want to leverage Docker, is to install the database locally following the instructions from [[PostgreSQL]].
 >
 > **[2:03](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=123)** You can also just leverage the H2 embedded database for all of the exercises and just go through the remote database examples, but not execute on them.
 >
@@ -196,7 +194,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=210)** Now, you can use this tool, and it's very easy to install in any operating system, or you can use a tool like Curl, or if you really want, you can just use a web browser.
 >
-> **[3:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=221)** If you do the web browser, however, I would suggest that you install a plugin to format that JSON.
+> **[3:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=221)** If you do the web browser, however, I would suggest that you install a plugin to format that [[JSON]].
 >
 > **[3:49](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=229)** Speaking of web browser, you will need one.
 >
@@ -204,11 +202,11 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=235)** But I will be using it to not only hit webpages, but also to statically load templates for visualization.
 >
-> **[4:01](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=241)** So you will want to make sure that you have a modern one, capable of everything that is offered in the latest JavaScript.
+> **[4:01](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/what-you-should-know?u=76281980&t=241)** So you will want to make sure that you have a modern one, capable of everything that is offered in the latest [[JavaScript]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (10), database (8), web (4), [[Spring Boot]] (2), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[Java]] (10), [[Spring Boot]] (2), [[PostgreSQL|Postgres]] (2), [[Spring Framework]] (1), [[PostgreSQL]] (1)
 > **CLI Commands:** docker (3), find (1), apache (1), curl (1), make (1)
 > **Env Vars:** ide (3), jvm (1), jdk (1), lts (1), json (1)
 > **Prerequisites:** install (3), you'll need (1)
@@ -217,12 +215,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Run PostgreSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980)
+#### [Run PostgreSQL](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=0)** - [Instructor] I'm going to walk through how to set up and use PostgreSQL for this course based on Docker.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=0)** - [Instructor] I'm going to walk through how to set up and use [[PostgreSQL]] for this course based on Docker.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=6)** If you are running an embedded version of PostgreSQL, you only need to apply the provided files via the PostgreSQL console.
 >
@@ -230,11 +227,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=18)** In the exercise files from any chapter, there is a bin directory.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=22)** In that directory is a Postgres directory, and in there is a simple script called start_postgres.sh.
+> **[0:22](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=22)** In that directory is a [[PostgreSQL|Postgres]] directory, and in there is a simple script called start_postgres.sh.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=29)** Now, this script is Linux-based.
+> **[0:29](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=29)** Now, this script is [[Linux]]-based.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=32)** So if you are using Windows, you will need to adjust the file paths on both lines five and seven to make them Windows compatible.
+> **[0:32](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=32)** So if you are using [[Windows]], you will need to adjust the file paths on both lines five and seven to make them Windows compatible.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=42)** Now go ahead and run this script in the terminal.
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=116)** So now we have a bash terminal up and running that is actually in the image that is running in Docker.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=122)** Now at this point, if you are using local installed Postgres, you can follow the rest of the steps.
+> **[2:02](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=122)** Now at this point, if you are using local installed Postgres, you can follow the [[Representational State Transfer (REST)|rest]] of the steps.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=129)** For simplicity, we're just going to copy and paste, but of course, you could pass the file to PSQL.
 >
@@ -280,7 +277,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=156)** We are in the database called Local.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=159)** So in that same directory, I have a schema.sql file.
+> **[2:39](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=159)** So in that same directory, I have a schema.[[SQL]] file.
 >
 > **[2:43](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/run-postgresql?u=76281980&t=163)** I want you to simply copy this file and paste it into the terminal and allow it to run.
 >
@@ -298,7 +295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[PostgreSQL]] (4), database (3), [[Windows]] (2), data (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[PostgreSQL]] (4), [[Windows]] (2), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (9), psql (4), make (1)
 > **Tools:** terminal (7), bash (2)
 > **Env Vars:** psql (3)
@@ -312,16 +309,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980)
+#### [Introduction to Spring](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=0)** - [Instructor] The Spring Framework is by far the most popular framework for the JVM today, and for good reason.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=0)** - [Instructor] The [[Spring Framework]] is by far the most popular framework for the JVM today, and for good reason.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=6)** The simplicity of use, the power for developers, and the community are a big part of the reason for its success.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=15)** The Spring Framework is based on some key components, as well as design patterns.
+> **[0:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=15)** The Spring Framework is based on some key components, as well as [[Design Patterns]].
 >
 > **[0:22](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=22)** At its core, it is a framework for providing comprehensive infrastructural support for developing JVM based applications.
 >
@@ -335,7 +331,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=67)** Much of the plumbing and abstraction is to remove the repeated code of many enterprise and internet software routines.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=77)** Before we get much deeper into the framework, I want to level set on some of the definitions that we will use and how they apply to the Spring world since their use can be confusing to some people because they're disambiguous with other uses within Java.
+> **[1:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=77)** Before we get much deeper into the framework, I want to level set on some of the definitions that we will use and how they apply to the Spring world since their use can be confusing to some people because they're disambiguous with other uses within [[Java]].
 >
 > **[1:35](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=95)** A POJO or Plain Old Java Object is a Java class in the purest sense.
 >
@@ -355,7 +351,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=154)** One cannot give enough credit to the Spring source documentation.
 >
-> **[2:40](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=160)** One of the biggest complaints I have had in my career about using different forms of technology is that the developer documentation is not clear, not concise or not complete, but that isn't the case with Spring.
+> **[2:40](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=160)** One of the biggest complaints I have had in my career about using different [[Forms]] of technology is that the developer documentation is not clear, not concise or not complete, but that isn't the case with Spring.
 >
 > **[2:55](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=175)** Use cases, examples, and general patterns are clearly documented on their website.
 >
@@ -371,7 +367,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=218)** Most of Spring is configured via annotation based component scanning or the use of Java itself.
 >
-> **[3:47](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=227)** When you add Spring Boot to the mix, you get auto configuration as well, making it even easier.
+> **[3:47](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=227)** When you add [[Spring Boot]] to the mix, you get auto configuration as well, making it even easier.
 >
 > **[3:55](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=235)** Inversion of control is a primary focus on how the framework itself works.
 >
@@ -383,7 +379,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=265)** Inversion of control is one of those OOP patterns that is part of the framework, and Spring leverages it to its core.
 >
-> **[4:34](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=274)** Inversion of control provides the mechanism of dependency injection, allowing a shift in object creation and management from traditional applications.
+> **[4:34](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=274)** Inversion of control provides the mechanism of [[Dependency Injection]], allowing a shift in object creation and management from traditional applications.
 >
 > **[4:44](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=284)** The application context wraps the BeanFactory.
 >
@@ -391,25 +387,24 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=297)** As briefly mentioned, Spring Boot provides auto configuration of the BeanFactory based on the presence or absence of classes among other conditionals.
 >
-> **[5:08](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=308)** This greatly improves the speed of application development.
+> **[5:08](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=308)** This greatly improves the speed of [[Application Development]].
 >
-> **[5:12](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=312)** Now, we are going to go into a lot of depth on this, but for a real deep dive into how Spring works, I suggest you check out my course, [[Spring Framework in Depth]] here on the LinkedIn Learning Library.
+> **[5:12](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980&t=312)** Now, we are going to go into a lot of depth on this, but for a real deep dive into how Spring works, I suggest you check out my course, [[Spring Framework in Depth]] here on the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (7), application (6), [[Spring Framework]] (3), oop (2), [[Spring Boot]] (2)
+> **Frameworks & Libraries:** [[Java]] (7), [[Spring Framework]] (3), [[Spring Boot]] (2), [[Design Patterns]] (1), [[Forms]] (1)
 > **Env Vars:** jvm (2), oop (2), pojo (2), xml (2), ejb (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Spring Boot
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980)
+#### [Introduction to Spring Boot](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=0)** - [Instructor] Let's spend a few moments and talk about Spring Boot, what it is, and why it makes for a great platform for not only building applications, but also for learning Spring.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=0)** - [Instructor] Let's spend a few moments and talk about [[Spring Boot]], what it is, and why it makes for a great platform for not only building applications, but also for learning Spring.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=11)** The benefits of Spring Boot for development have taken the Spring world by storm since it was first introduced in a fully functioning application, wrapped in a 140 character Tweet.
 >
@@ -419,13 +414,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=42)** Its uses extend beyond web applications, however, and can be used for many modern application needs.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=50)** These needs include cloud-native application development, but also traditional enterprise application development.
+> **[0:50](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=50)** These needs include cloud-native [[Application Development]], but also traditional enterprise application development.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=58)** Much of the speed comes from auto-configuration of not only the Spring constructs, but also the embedded offerings of things like databases and servlet containers.
+> **[0:58](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=58)** Much of the speed comes from auto-configuration of not only the Spring constructs, but also the embedded offerings of things like [[Databases]] and servlet containers.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=71)** So let's discuss these component offerings from Spring Boot a touch more.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=75)** The embedded servlet containers offered a rapid shift from traditional web application development in Java.
+> **[1:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=75)** The embedded servlet containers offered a rapid shift from traditional [[Web Application Development]] in [[Java]].
 >
 > **[1:22](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring-boot?u=76281980&t=82)** We used to build war files and run them in a web server.
 >
@@ -455,13 +450,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Spring Boot]] (5), web (3), web application (2), [[Application Development]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (5), [[Application Development]] (2), [[Databases]] (1), [[Web Application Development]] (1), [[Java]] (1)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980)
+#### [Create a project](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,7 +465,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=15)** This is what we will use to build a Spring application.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=19)** Now, there are several ways to create a new Spring Boot project.
+> **[0:19](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=19)** Now, there are several ways to create a new [[Spring Boot]] project.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=24)** Usually, I use the built-in function of my IDE, but for the purposes of this course, let's stick with the web console.
 >
@@ -479,13 +473,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=35)** Let's start by picking Maven as our project type.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=39)** Of course, you can use Gradle if you prefer.
+> **[0:39](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=39)** Of course, you can use [[Gradle]] if you prefer.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=41)** I'm going to use Maven.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=42)** That's what I prefer, that's what I use, and that's what we talked about having installed.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=46)** Now we're going to use Java.
+> **[0:46](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=46)** Now we're going to use [[Java]].
 >
 > **[0:48](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=48)** Again, you have several options here under the language.
 >
@@ -523,7 +517,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=136)** Think of some of the technologies that you have used or have heard of, or maybe use that has some creative trigger in your mind for a future learning in Spring.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=148)** Now, when you're done looking, come back, and we'll finish the rest of this project's skeleton.
+> **[2:28](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=148)** Now, when you're done looking, come back, and we'll finish the [[Representational State Transfer (REST)|rest]] of this project's skeleton.
 >
 > **[2:34](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/create-a-project?u=76281980&t=154)** All right, now that you've taken a look at all those dependencies, let's go ahead and click Generate.
 >
@@ -535,7 +529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Spring Boot]] (2), [[Java]] (2), application (1), [[Gradle]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Java]] (2), [[Gradle]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ide (2), zip (2), jar (1)
 > **Versions:** 3.1.3 (3), java 20 (1)
 > **UI Navigation:** navigate to (1), go to (1), scroll down (1)
@@ -544,12 +538,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **URLs:** [spring.io](https://spring.io) (1)
 
-#### Examine a Spring Boot skeleton project
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980)
+#### [Examine a Spring Boot skeleton project](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=0)** - [Instructor] Let's take a look at what you get with the Spring Boot Skeleton project.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=0)** - [Instructor] Let's take a look at what you get with the [[Spring Boot]] Skeleton project.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=5)** I assume you've opened it up in your IDE.
 >
@@ -573,7 +566,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=68)** So we have the name of our project here on line 15, and we've got our group on line 12.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=75)** We have the Spring Boot version that we picked on line nine, and the Java version that we picked on line 18.
+> **[1:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=75)** We have the Spring Boot version that we picked on line nine, and the [[Java]] version that we picked on line 18.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=82)** We also have in our dependency section, starting on line 20, we've got our Spring Boot Starter Web.
 >
@@ -601,7 +594,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=162)** In our application.properties file, you will see there is nothing defined yet, but this is something we will use later on in the course.
 >
-> **[2:50](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=170)** For right now, in our static directory, let's create a new HTML file and we will simply call it index.html.
+> **[2:50](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=170)** For right now, in our static directory, let's create a new [[HTML]] file and we will simply call it index.html.
 >
 > **[2:59](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/examine-a-spring-boot-skeleton-project?u=76281980&t=179)** And within here, let's just type a title of Landon Hotel, and in our body we will simply put h1, Hello, and we'll get to that in a minute.
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Spring Boot]] (6), [[HTML]] (4), [[Java]] (3), web (3)
+> **Frameworks & Libraries:** [[Spring Boot]] (6), [[HTML]] (4), [[Java]] (3)
 > **Env Vars:** ide (4), html (3), iml (1)
 > **File Paths:** palm.xml (2), help.md (1), index.html (1)
 > **Definitions:** is a  (3)
@@ -644,20 +637,19 @@ created: 2026-05-02
 > **Ports:** :8080 (1)
 > **Documentation:** the documentation (1)
 
-#### Annotations everywhere
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980)
+#### [Annotations everywhere](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=0)** - [Instructor] Spring Boot is driven by auto-configuration and component scanning.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=0)** - [Instructor] [[Spring Boot]] is driven by auto-configuration and component scanning.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=5)** Annotations drive the component scanning.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=8)** Let's start our discussion by clarifying what annotations are.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=13)** Annotations are natively supported by Java itself.
+> **[0:13](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=13)** Annotations are natively supported by [[Java]] itself.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=17)** They, essentially, are metadata for your code.
+> **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=17)** They, essentially, are [[Metadata]] for your code.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=21)** Often they're used for compiler or runtime instructions, and Spring is no exception.
 >
@@ -715,7 +707,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=276)** Beans in the BeanFactory are proxied by Spring, Spring adds various types of behavior based on the class that is being proxied and any annotations on it.
 >
-> **[4:49](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=289)** Much of that behavior is driven by annotations provided by the Spring framework itself.
+> **[4:49](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=289)** Much of that behavior is driven by annotations provided by the [[Spring Framework]] itself.
 >
 > **[4:55](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/annotations-everywhere?u=76281980&t=295)** In fact, 99% of it is, unless you configure it to have specific proxies added.
 >
@@ -747,7 +739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), application (4), [[Spring Boot]] (3), [[Metadata]] (1), power (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Spring Boot]] (3), [[Metadata]] (1), [[Spring Framework]] (1)
 > **Code Identifiers:** getx (4), gety (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** xml (2)
@@ -759,24 +751,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to Spring Data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980)
+#### [Welcome to Spring Data](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=0)** - [Instructor] Now we can start just about anywhere in the stack for our journey to learn about Spring using Spring Boot.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=0)** - [Instructor] Now we can start just about anywhere in the stack for our journey to learn about Spring using [[Spring Boot]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=6)** But the database is my favorite, so we'll go ahead and start there.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=10)** With the spring framework, there are a series of top level projects that provide a robust set of implementations.
+> **[0:10](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=10)** With the [[Spring Framework]], there are a series of top level projects that provide a robust set of implementations.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=17)** Spring data is one such project that provides data access.
+> **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=17)** [[Spring Data]] is one such project that provides data access.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=22)** It provides a common set of interfaces that can be used across many different data sources from traditional RDBMS to NoSQL, and some database adjacent technologies like Redis, Memcached and search engines.
+> **[0:22](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=22)** It provides a common set of interfaces that can be used across many different data sources from traditional RDBMS to [[NoSQL]], and some database adjacent technologies like [[Redis]], Memcached and search engines.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=36)** Spring Data follows a common naming convention.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=40)** Some of these patterns in Spring Data like JDBC template follow a pattern across the entire platform.
+> **[0:40](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=40)** Some of these patterns in Spring Data like [[Java Database Connectivity (JDBC)|JDBC]] template follow a pattern across the entire platform.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=47)** Others like repository are used across all of Spring Data.
 >
@@ -796,7 +787,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=122)** Spring Data also allows you to swap out data sources very easily.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=126)** I've used this a lot when building proof of concept code locally with H2 and then converting it to use Postgres or some other production database with no real code changes.
+> **[2:06](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=126)** I've used this a lot when building proof of concept code locally with H2 and then converting it to use [[PostgreSQL|Postgres]] or some other production database with no real code changes.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=138)** In addition, because of the similarities across the framework, switching from relational to NoSQL is generally pretty clean and easy.
 >
@@ -814,13 +805,13 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=198)** The JDBC template gives you an easy way to execute raw JDBC queries without a lot of overhead dealing with connections.
 >
-> **[3:27](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=207)** This template pattern is used across spring, but with databases, it gives you a way to not use an ORM, but to get a huge benefit from reduction of repetitive code.
+> **[3:27](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=207)** This template pattern is used across spring, but with [[Databases]], it gives you a way to not use an ORM, but to get a huge benefit from reduction of repetitive code.
 >
 > **[3:39](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=219)** The entity object is part of Jakarta EE from the JPA specification.
 >
 > **[3:45](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=225)** Spring uses it in the same way that you would use it with JPA, whether you are consuming a relational database or not.
 >
-> **[3:53](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=233)** The DataSource is a Java construct that represents a unique connection pattern to a database.
+> **[3:53](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=233)** The DataSource is a [[Java]] construct that represents a unique connection pattern to a database.
 >
 > **[3:59](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980&t=239)** You can have multiple data sources in a single spring application, but it does require a touch more effort, because of the bean rules around having a certain number of items in the bean factory that implement a class.
 >
@@ -840,7 +831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (11), database (8), data (7), [[Java Database Connectivity (JDBC)|Jdbc]] (5), [[NoSQL]] (2)
+> **Frameworks & Libraries:** [[Spring Data]] (11), [[Java Database Connectivity (JDBC)|Jdbc]] (5), [[NoSQL]] (2), [[Spring Boot]] (1), [[Spring Framework]] (1)
 > **Env Vars:** jdbc (5), orm (2), jpa (2), rdbms (1), jvm (1)
 > **Exercise Files:** template (5), boilerplate (1)
 > **Code Identifiers:** findby (2), findallby (1)
@@ -848,12 +839,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embedded databases with Spring Boot
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980)
+#### [Embedded databases with Spring Boot](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=0)** - [Instructor] Spring provides an easy way to use embedded databases, and Spring Boot makes it even easier by auto configuring not only the database, but leveraging a convention-based approach to apply schema and data to that database.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=0)** - [Instructor] Spring provides an easy way to use embedded [[Databases]], and [[Spring Boot]] makes it even easier by auto configuring not only the database, but leveraging a convention-based approach to apply schema and data to that database.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=15)** Once you go ahead and jump into your IDE, and in your project, open up the palm file.
 >
@@ -873,7 +863,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=63)** All right, I'm going to let Maven refresh and bring those dependencies onto my machine.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=68)** And now in the bin directory, there is an h2 directory, and in there is a data and a schema.sql file.
+> **[1:08](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=68)** And now in the bin directory, there is an h2 directory, and in there is a data and a schema.[[SQL]] file.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=76)** I'm going to copy those files, and I'm going to paste them into source, main, resources just at the root there.
 >
@@ -889,7 +879,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=130)** But I do want to point out something in the logs that I think will make this very, very clear.
 >
-> **[2:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=136)** So you will see here the third line of the log that we are bootstrapping Spring Data JPA in DEFAULT mode.
+> **[2:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=136)** So you will see here the third line of the log that we are bootstrapping [[Spring Data]] JPA in DEFAULT mode.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/embedded-databases-with-spring-boot?u=76281980&t=143)** So if you scroll down through the log some more, you'll see that a connection was created to the database here in the Hikari pool, and that hibernate has been provided.
 >
@@ -899,7 +889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (5), application (3), [[Databases]] (1), [[Spring Boot]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Spring Boot]] (1), [[SQL]] (1), [[Spring Data]] (1)
 > **Env Vars:** ide (1), jpa (1), default (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (2)
@@ -907,18 +897,17 @@ created: 2026-05-02
 > **File Paths:** schema.sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Repositories with Spring Data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980)
+#### [Repositories with Spring Data](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=0)** - [Narrator] So now that we have the embedded database set up, let's do a little data access and I can prove to you that that data was loaded as we get through this video.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=10)** All right, the first thing that I want you to do is I want you to load up in source main resources, go ahead and load that schema.sql file.
+> **[0:10](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=10)** All right, the first thing that I want you to do is I want you to load up in source main resources, go ahead and load that schema.[[SQL]] file.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=17)** This is going to give us a template that we are going to use in order to build our object.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=23)** So now in source main Java in our root package, let's create a new package and we will call it data.entity.
+> **[0:23](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=23)** So now in source main [[Java]] in our root package, let's create a new package and we will call it data.entity.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=32)** And within there we are going to create a new Java Class called Room.
 >
@@ -948,7 +937,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=119)** roomNumber, and then finally @Column(name="bed_info"), private String bedInfo.
 >
-> **[2:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=136)** Now in order to get access to our attributes, we are going to use the @Data annotation from Lombok.
+> **[2:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=136)** Now in order to get access to our attributes, we are going to use the @[[Data Annotation]] from Lombok.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=144)** We're also going to go ahead and add a toString so that we can see the results here in a moment.
 >
@@ -962,7 +951,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=173)** So we will pass in a Room and a Long for the ID type.
 >
-> **[2:59](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=179)** Now I want to show you real quick a very fun feature of Spring Data.
+> **[2:59](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=179)** Now I want to show you real quick a very fun feature of [[Spring Data]].
 >
 > **[3:06](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=186)** I'm going to create a method here.
 >
@@ -996,7 +985,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=294)** Go ahead and add that to a constructor.
 >
-> **[4:56](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=296)** Now what this does is it's going to require that Spring has a room repository that it can inject into our class and we're going to talk more about dependency injection in a bit, but I don't want to confuse you with what I'm doing by just ignoring it.
+> **[4:56](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=296)** Now what this does is it's going to require that Spring has a room repository that it can inject into our class and we're going to talk more about [[Dependency Injection]] in a bit, but I don't want to confuse you with what I'm doing by just ignoring it.
 >
 > **[5:11](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=311)** So we're going to do a couple things here.
 >
@@ -1028,7 +1017,7 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=404)** That came from the embedded database.
 >
-> **[6:46](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=406)** We have not set up a connection to Postgres.
+> **[6:46](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=406)** We have not set up a connection to [[PostgreSQL|Postgres]].
 >
 > **[6:49](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/repositories-with-spring-data?u=76281980&t=409)** There is no other place that that could have come from.
 >
@@ -1036,7 +1025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Java]] (3), application (3), database (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Java]] (3), [[SQL]] (2), [[Spring Data]] (2), [[Data Annotation]] (1), [[Dependency Injection]] (1)
 > **Code Identifiers:** roomnumber (3), findbyroomnumberignorecase (2), room_id (1), room_number (1), bed_info (1)
 > **CLI Commands:** make (2), find (1)
 > **File Paths:** schema.sql (1), data.sql (1)
@@ -1045,14 +1034,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
-#### Use a remote database
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980)
+#### [Use a remote database](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=0)** - [Instructor] Now that we have things running with an embedded database, it's time to leverage our PostgreSQL image to show you what it would be like to use a remote database, which is much more real-world for what you're going to do.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=0)** - [Instructor] Now that we have things running with an embedded database, it's time to leverage our [[PostgreSQL]] image to show you what it would be like to use a remote database, which is much more real-world for what you're going to do.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=13)** Now, the key thing here is that even though Postgres is running locally, the connection string is just pointing to local host as opposed to a remote host.
+> **[0:13](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=13)** Now, the key thing here is that even though [[PostgreSQL|Postgres]] is running locally, the connection string is just pointing to local host as opposed to a remote host.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=22)** So it's really the same thing as configuring to any remote database.
 >
@@ -1062,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=36)** And instead, we are going to replace it with postgresql.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=42)** Again, we will let Spring Boot handle the version, and we're going to run a Maven import.
+> **[0:42](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=42)** Again, we will let [[Spring Boot]] handle the version, and we're going to run a Maven import.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=47)** Now I want you to go to src/main/resources, and open up your application.properties file.
 >
@@ -1076,7 +1064,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=75)** And if you are using an image of Docker that is not exposing normal ports, so you have it installed locally, but you decide to use Docker and you had to expose a different set of ports, here's where you're going to make that change.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=88)** For everyone else, the way that you're going to do this is jdbc:postgresql://localhost, because this is running on our local host.
+> **[1:28](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=88)** For everyone else, the way that you're going to do this is [[Java Database Connectivity (JDBC)|jdbc]]:postgresql://localhost, because this is running on our local host.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=101)** If a database is running in the cloud or running in some remote data center, you would put that appropriate host, assuming you can resolve the DNS.
 >
@@ -1114,15 +1102,15 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=196)** And because we're using Postgres, if I were to add an instance of a room and then restart the application, that room would persist because that data source is remote.
 >
-> **[3:27](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=207)** Whereas in the embedded world, if you add data and don't add it to the data.sql file, it will not persist past a restart.
+> **[3:27](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=207)** Whereas in the embedded world, if you add data and don't add it to the data.[[SQL]] file, it will not persist past a restart.
 >
-> **[3:36](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=216)** That right there should sum up the entire beauty of Spring data because we have now configured a different data source of a different brand, a different flavor, and we're still running the system with zero code changes.
+> **[3:36](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=216)** That right there should sum up the entire beauty of [[Spring Data]] because we have now configured a different data source of a different brand, a different flavor, and we're still running the system with zero code changes.
 >
 > **[3:49](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/use-a-remote-database?u=76281980&t=229)** Remember, we made no code changes, we changed a few properties and we changed the POM, but no code needed to change in order to make this execute.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[PostgreSQL|Postgres]] (7), database (6), [[PostgreSQL]] (3), application (3)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (7), [[PostgreSQL]] (3), [[Spring Boot]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[SQL]] (1)
 > **Env Vars:** lil (2), pom (2), ide (1), dns (1)
 > **CLI Commands:** make (3), docker (2)
 > **File Paths:** pom.xml (1), data.sql (1)
@@ -1131,8 +1119,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Data access
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-data-access?u=76281980)
+#### [Challenge: Data access](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-data-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1142,7 +1129,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-data-access?u=76281980&t=13)** First of all, I want you to create an entity for the Guest table.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-data-access?u=76281980&t=17)** Remember, you can reference that from the schema.SQL file.
+> **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-data-access?u=76281980&t=17)** Remember, you can reference that from the schema.[[SQL]] file.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-data-access?u=76281980&t=20)** And if you deleted it like I did, you still have it in the BIN directory.
 >
@@ -1162,7 +1149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** jpa (2), sql (1), bin (1), res_date (1)
 > **File Paths:** schema.sql (1)
 > **Cross-References:** go back to (1)
@@ -1170,8 +1157,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Data access
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-data-access?u=76281980)
+#### [Solution: Data access](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-data-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,13 +1171,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-data-access?u=76281980&t=22)** One thing to note that for res_date, I called it reservationDate.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-data-access?u=76281980&t=27)** That way I had a very clear delineation in Java what that field was.
+> **[0:27](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-data-access?u=76281980&t=27)** That way I had a very clear delineation in [[Java]] what that field was.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-data-access?u=76281980&t=31)** Everything else should look the exact same.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-data-access?u=76281980&t=34)** So then in our Guest Repository, it's simply an empty interface that extends JPA repository.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-data-access?u=76281980&t=41)** And on the Reservation Repository, I did pretty much the same thing, only I added the find all by reservation date using a java.sql.Date.
+> **[0:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-data-access?u=76281980&t=41)** And on the Reservation Repository, I did pretty much the same thing, only I added the find all by reservation date using a java.[[SQL]].Date.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-data-access?u=76281980&t=51)** Which is something I didn't mention on Reservation is that the date here that I used is java.sql, because this is coming straight from a database and that is the appropriate way to do that.
 >
@@ -1209,7 +1195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), data (2), [[SQL]] (2), database (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[SQL]] (2)
 > **File Paths:** java.sql (2)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** res_date (1), reservationdate (1)
@@ -1223,12 +1209,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980)
+#### [Understand dependency injection](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=0)** - [Instructor] As discussed several times, Inversion of Control is a central theme for Spring, and we are now going to discuss this Dependency Injection pattern and see how it works.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=0)** - [Instructor] As discussed several times, Inversion of Control is a central theme for Spring, and we are now going to discuss this [[Dependency Injection]] pattern and see how it works.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=11)** Let's first talk about why we use Inversion of Control, and more specifically, why Spring does.
 >
@@ -1254,7 +1239,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=92)** The IoC container is configured by the developer in one of the ways previously mentioned.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=98)** With Spring Boot, much of this configuration is based on dependencies brought onto the clause path.
+> **[1:38](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=98)** With [[Spring Boot]], much of this configuration is based on dependencies brought onto the clause path.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=105)** Spring maintains the handles to the objects constructed at startup.
 >
@@ -1272,7 +1257,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=151)** It's fine to use it in tests, but in production code, and this is from the Spring contributors, you should be using constructor injection or setter injection.
 >
-> **[2:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=161)** Ultimately, Spring maintains the entire lifecycle of these classes, now called beans in the Spring Framework.
+> **[2:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=161)** Ultimately, Spring maintains the entire lifecycle of these classes, now called beans in the [[Spring Framework]].
 >
 > **[2:49](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980&t=169)** The developer only accesses the application context, which is the wrapper for the BeanFactory.
 >
@@ -1312,15 +1297,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Spring Boot]] (3), [[Dependency Injection]] (2), business (2), [[Spring Framework]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Dependency Injection]] (2), [[Spring Framework]] (2)
 > **Definitions:** is a  (1), is called (1)
 > **Best Practices:** rule of thumb (1), you should never (1)
 > **Prerequisites:** configure (2)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a service abstraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980)
+#### [Build a service abstraction](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1336,7 +1320,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=43)** Another place that I like to use service abstractions is when I'm consuming third-party APIs.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=49)** By using your own encapsulation, you can isolate the rest of your system from API changes by that third party.
+> **[0:49](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=49)** By using your own encapsulation, you can isolate the [[Representational State Transfer (REST)|rest]] of your system from API changes by that third party.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=58)** As a matter of fact, I seldom call third party APIs directly.
 >
@@ -1368,7 +1352,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=148)** So the first is I define the interface, and I always work from a contract-first perspective.
 >
-> **[2:34](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=154)** So whether I'm using a Java interface or a Java class, I build the stub of that, the method signatures before I do anything else.
+> **[2:34](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=154)** So whether I'm using a [[Java]] interface or a Java class, I build the stub of that, the method signatures before I do anything else.
 >
 > **[2:42](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=162)** Usually I actually get those code reviewed.
 >
@@ -1386,7 +1370,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=204)** I then code the implementation.
 >
-> **[3:25](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=205)** Now, this is not a course on test-driven development or any of that, but when I talk about coding and implementation, I'm actually talking about coding the tests and the code itself to pass those tests.
+> **[3:25](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=205)** Now, this is not a course on [[Test-Driven Development]] or any of that, but when I talk about coding and implementation, I'm actually talking about coding the tests and the code itself to pass those tests.
 >
 > **[3:36](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-a-service-abstraction?u=76281980&t=216)** By having a contract well-defined, it makes this a cleaner set of processes.
 >
@@ -1400,15 +1384,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), web (2), application (2), business (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Java]] (2), [[Test-Driven Development]] (1)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** go build (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Develop a service object with Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/develop-a-service-object-with-spring?u=76281980)
+#### [Develop a service object with Spring](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/develop-a-service-object-with-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1418,7 +1401,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/develop-a-service-object-with-spring?u=76281980&t=14)** That's what we're going to go build.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/develop-a-service-object-with-spring?u=76281980&t=17)** So go ahead and jump on over into your IDE, and the first thing that I want to do is go to src/main/java into our base package, and I want to create a new package called service.
+> **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/develop-a-service-object-with-spring?u=76281980&t=17)** So go ahead and jump on over into your IDE, and the first thing that I want to do is go to src/main/[[Java]] into our base package, and I want to create a new package called service.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/develop-a-service-object-with-spring?u=76281980&t=31)** Within there, I am going to create a new Java class.
 >
@@ -1454,7 +1437,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/develop-a-service-object-with-spring?u=76281980&t=177)** So with that, let's set our Java date equal to null.
 >
-> **[3:02](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/develop-a-service-object-with-spring?u=76281980&t=182)** This is going to be a java.sql.Date.
+> **[3:02](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/develop-a-service-object-with-spring?u=76281980&t=182)** This is going to be a java.[[SQL]].Date.
 >
 > **[3:07](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/develop-a-service-object-with-spring?u=76281980&t=187)** So if string utils is not empty on reservation date,
 >
@@ -1540,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), data (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[SQL]] (1)
 > **Code Identifiers:** roomreservation (5), getid (4), roomid (2), foreach (2), roomreservations (2)
 > **CLI Commands:** go build (2)
 > **UI Navigation:** go to (2)
@@ -1554,8 +1537,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980)
+#### [Introduction to the controller](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1565,7 +1547,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=12)** For webpages, as well as restful web services, Spring levels the model view controller or MVC pattern.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=19)** This is the fundamental pattern for all web application development within Spring, as well as many other frameworks that exist today.
+> **[0:19](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=19)** This is the fundamental pattern for all [[Web Application Development]] within Spring, as well as many other frameworks that exist today.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=28)** The model is the data that you serve from within our application.
 >
@@ -1573,7 +1555,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=34)** The view is the visual display that is populated.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=38)** Now, usually we think purely of webpages, but I will argue that with REST, the JSON structure is the view in the same way that the HTML page is a view in a traditional web application.
+> **[0:38](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=38)** Now, usually we think purely of webpages, but I will argue that with [[Representational State Transfer (REST)|REST]], the [[JSON]] structure is the view in the same way that the [[HTML]] page is a view in a traditional web application.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=50)** And if you look at the way Spring implements it, it looks very much that as the case.
 >
@@ -1627,27 +1609,26 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=220)** You don't have to use any of this when building a web application.
 >
-> **[3:45](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=225)** Technologies like React and Angular can be used just as easily when building a full stack application.
+> **[3:45](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=225)** Technologies like [[React.js|React]] and [[Angular]] can be used just as easily when building a full stack application.
 >
 > **[3:52](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980&t=232)** And in reality, this is the method I prefer to use today as I've learned more about React.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), data (6), [[HTML]] (5), web application (4), application (2)
+> **Frameworks & Libraries:** [[HTML]] (5), [[JSON]] (2), [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Angular]] (1)
 > **Env Vars:** html (5), mvc (3), json (2), rest (1), url (1)
 > **Exercise Files:** template (6)
 > **Definitions:** is a  (3)
 > **Warnings:** important note (1)
 > **Speakers:** - [narrator] (1)
 
-#### Build your first controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-your-first-controller?u=76281980)
+#### [Build your first controller](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-your-first-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-your-first-controller?u=76281980&t=0)** - [Instructor] Now, it's time to get back into our code and discuss building our first simple controller.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-your-first-controller?u=76281980&t=5)** So, the first thing that I want you to do is to open up source main java, and go ahead and delete the CLRunner, 'cause we no longer need that.
+> **[0:05](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-your-first-controller?u=76281980&t=5)** So, the first thing that I want you to do is to open up source main [[Java]], and go ahead and delete the CLRunner, 'cause we no longer need that.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/build-your-first-controller?u=76281980&t=16)** Let's create a new package underneath the route called web.controller, and to the web.controller, we will create a new class called "WelcomeController."
 >
@@ -1671,15 +1652,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** getwelcome (1), isnotblank (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thymeleaf as a rendering engine
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/thymeleaf-as-a-rendering-engine?u=76281980)
+#### [Thymeleaf as a rendering engine](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/thymeleaf-as-a-rendering-engine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,8 +1669,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Create a web page
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-create-a-web-page?u=76281980)
+#### [Challenge: Create a web page](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-create-a-web-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1710,24 +1689,23 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-create-a-web-page?u=76281980&t=43)** And build a table to show the data.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-create-a-web-page?u=76281980&t=45)** If the room is empty, show the word "Vacant," otherwise, show the name.
+> **[0:45](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-create-a-web-page?u=76281980&t=45)** If the room is empty, show the [[Microsoft Word|word]] "Vacant," otherwise, show the name.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-create-a-web-page?u=76281980&t=50)** And here's a bonus, a way to change the date without going to the URL bar itself.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-create-a-web-page?u=76281980&t=55)** So maybe a calendar picker with some JavaScript, just to give you a little idea.
+> **[0:55](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-create-a-web-page?u=76281980&t=55)** So maybe a calendar picker with some [[JavaScript]], just to give you a little idea.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-create-a-web-page?u=76281980&t=59)** I'll let you have fun with this and I will be back with my solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** queryparam (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a web page
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980)
+#### [Solution: Create a web page](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1745,11 +1723,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=38)** If it parses, I use that.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=41)** The idea being to get a string of year, year, year, year, month, month, day, day, that can then be passed to build a Java.SQL date, which is what the underlying method expects.
+> **[0:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=41)** The idea being to get a string of year, year, year, year, month, month, day, day, that can then be passed to build a [[Java]].[[SQL]] date, which is what the underlying method expects.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=51)** I then set a attribute of date on the model so that I can show which date is being currently displayed, and then I set my reservations based on that method call to return occupancy.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=63)** Now let's take a look at that HTML document itself.
+> **[1:03](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=63)** Now let's take a look at that [[HTML]] document itself.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=66)** So most of it looks very much the exact same.
 >
@@ -1757,7 +1735,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=79)** And if we continue to scroll down, you will see that I actually built my container.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=84)** So I put a JavaScript based date picker, so it's not within a form, it's in its own little container here on line 33.
+> **[1:24](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=84)** So I put a [[JavaScript]] based date picker, so it's not within a form, it's in its own little container here on line 33.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-create-a-web-page?u=76281980&t=92)** I created a date picker and I have a JavaScript function called handle date.
 >
@@ -1797,7 +1775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), data (2), [[Java]] (1), [[SQL]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Java]] (1), [[SQL]] (1), [[HTML]] (1)
 > **Env Vars:** sql (1), html (1), iso (1), url (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **File Paths:** java.sql (1)
@@ -1810,8 +1788,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding RestController
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980)
+#### [Understanding RestController](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1823,21 +1800,21 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=25)** But these are RestControllers instead of just regular controllers.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=30)** It's just another MVC, but the view in this case is JSON, and the RestController annotation actually adds a response body to every single method.
+> **[0:30](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=30)** It's just another MVC, but the view in this case is [[JSON]], and the RestController annotation actually adds a response body to every single method.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=43)** Now, once you understand the paradigm, it's really, really straightforward and I think you're going to find that when we jump in, just how easy it is to build REST web services using Spring.
+> **[0:43](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=43)** Now, once you understand the paradigm, it's really, really straightforward and I think you're going to find that when we jump in, just how easy it is to build [[Representational State Transfer (REST)|REST]] web services using Spring.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=55)** Spring handles all of the JSON marshaling and unmarshaling for you.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=60)** You don't have to do any of it.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=62)** It's included when you download Spring Web Starter for Spring Boot.
+> **[1:02](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=62)** It's included when you download Spring Web Starter for [[Spring Boot]].
 >
 > **[1:08](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=68)** You can configure it to use XML if desired.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=71)** Not sure why you would, but if you do need to use XML, you can do so.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=75)** One thing to note, if you are not using Spring Boot, if you're using the raw Spring Framework, all of this marshaling has to be configured because you don't get it for free through autoconfiguration.
+> **[1:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=75)** One thing to note, if you are not using Spring Boot, if you're using the raw [[Spring Framework]], all of this marshaling has to be configured because you don't get it for free through autoconfiguration.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980&t=88)** But other than that, it really is the same regardless of whether you're using Spring Boot or the raw Spring Framework.
 >
@@ -1845,20 +1822,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Spring Boot]] (3), [[JSON]] (2), [[Spring Framework]] (2), data (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[JSON]] (2), [[Spring Framework]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** json (2), xml (2), mvc (1), rest (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expose a service layer through REST
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/expose-a-service-layer-through-rest?u=76281980)
+#### [Expose a service layer through REST](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/expose-a-service-layer-through-rest?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/expose-a-service-layer-through-rest?u=76281980&t=0)** - [Instructor] So as promised, now it's time to jump in and create a restful base web service.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/expose-a-service-layer-through-rest?u=76281980&t=6)** All right, the first thing that I want you to do is to open up source main Java, and underneath the base package we'll create a new package called web exception.
+> **[0:06](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/expose-a-service-layer-through-rest?u=76281980&t=6)** All right, the first thing that I want you to do is to open up source main [[Java]], and underneath the base package we'll create a new package called web exception.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/expose-a-service-layer-through-rest?u=76281980&t=18)** And in there we're going to create a couple quick classes.
 >
@@ -1940,7 +1916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), api (4), [[Java]] (2), application (1), functional (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** roomrepository (5), findall (1), getroom (1), findbyid (1), isempty (1)
 > **Env Vars:** api (2), http (1)
 > **Definitions:** is a  (3)
@@ -1948,14 +1924,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: RESTful endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-restful-endpoints?u=76281980)
+#### [Challenge: RESTful endpoints](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-restful-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-restful-endpoints?u=76281980&t=0)** - [Instructor] Now it's time for another challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-restful-endpoints?u=76281980&t=7)** This time for rest controllers.
+> **[0:07](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-restful-endpoints?u=76281980&t=7)** This time for [[Representational State Transfer (REST)|rest]] controllers.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/challenge-restful-endpoints?u=76281980&t=10)** So your instructions.
 >
@@ -1975,14 +1950,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), data (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: RESTful endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-restful-endpoints?u=76281980)
+#### [Solution: RESTful endpoints](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/solution-restful-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2034,7 +2008,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), web (2)
 > **UI Navigation:** go to (3), click on (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** go build (1)
@@ -2047,18 +2020,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test Spring Boot applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980)
+#### [Test Spring Boot applications](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=0)** - [Instructor] The first additional topic that I want to talk about is testing Spring Boot applications.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=0)** - [Instructor] The first additional topic that I want to talk about is testing [[Spring Boot]] applications.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=5)** Now, this is the topic that I have an entire course on in the LinkedIn Learning Library around test driven development specifically with Spring, and I encourage you to check that out.
+> **[0:05](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=5)** Now, this is the topic that I have an entire course on in the [[LinkedIn]] Learning Library around test driven development specifically with Spring, and I encourage you to check that out.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=15)** But I want to talk high level through testing because I think it's important to include in a learning course.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=21)** So the first topic is unit testing itself.
+> **[0:21](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=21)** So the first topic is [[Unit Testing]] itself.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=24)** Now, you technically don't even need to use Spring when you are doing unit testing, but if you have specific parts of the framework injected into your classes, there are mocks available for many of those that you can inject as mocks into your unit tests, much the same way that you would do mocking on any other unit test.
 >
@@ -2070,17 +2042,17 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=68)** Now this is going to use the entirety of the framework, but does so in a way that allows you to fully test all of your request mappings.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=76)** There's also a model in viewer that allows you to test webpages and assume that the model is completely populated, as well as the correct view is represented without actually having to go pull the XML from the HTML page and reading through it.
+> **[1:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=76)** There's also a model in viewer that allows you to test webpages and assume that the model is completely populated, as well as the correct view is represented without actually having to go pull the XML from the [[HTML]] page and reading through it.
 >
-> **[1:32](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=92)** One of my favorite tools to use is MockMvc, which I use a lot to test restful web services because I can use things like JSON parsing to go in and look for exact elements in there based on my mocking strategy.
+> **[1:32](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=92)** One of my favorite tools to use is MockMvc, which I use a lot to test restful web services because I can use things like [[JSON]] parsing to go in and look for exact elements in there based on my mocking strategy.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=106)** And I think it's fair to note that I often use mocks with MockMvc or with any controller test to ensure that I'm controlling the dependencies and doing true testing of the controller.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=119)** Now, Spring itself has a very, very rich framework for integration testing and one that I highly encourage you to look at if you are doing unit testing and integration testing within your test suite and your build cycle.
+> **[1:59](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=119)** Now, Spring itself has a very, very rich framework for [[Integration Testing]] and one that I highly encourage you to look at if you are doing unit testing and integration testing within your test suite and your build cycle.
 >
 > **[2:14](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=134)** You can manage the spring IOC container and caching between tests using this technology.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=143)** You can also use it to provide dependency injection of test fixture instances into your integration testing classes.
+> **[2:23](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=143)** You can also use it to provide [[Dependency Injection]] of test fixture instances into your integration testing classes.
 >
 > **[2:31](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=151)** And finally, you can use it to provide transaction management appropriate to integration testing such that you're not destroying an actual database.
 >
@@ -2088,7 +2060,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=170)** Now again, my course talks a lot about integration testing, but the documentation from Spring is probably second to none and can be used to really decide how far to take this.
 >
-> **[3:04](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=184)** Now, some of the areas for integration test support that I like to discuss is areas like JDBC.
+> **[3:04](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=184)** Now, some of the areas for integration test support that I like to discuss is areas like [[Java Database Connectivity (JDBC)|JDBC]].
 >
 > **[3:10](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980&t=190)** You can use it to actually do integration testing of your JDBC without mucking with a real database.
 >
@@ -2102,21 +2074,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Integration Testing]] (6), [[Unit Testing]] (3), api (2), database (2), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
+> **Frameworks & Libraries:** [[Integration Testing]] (6), [[Unit Testing]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Spring Boot]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (2), jdbc (2), xml (1), html (1), json (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Documentation:** the documentation (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spring Security basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980)
+#### [Spring Security basics](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=0)** - [Instructor] Now, another area that I at least want to bring up in this course is Spring Security.
+> **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=0)** - [Instructor] Now, another area that I at least want to bring up in this course is [[Spring Security]].
 >
-> **[0:04](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=4)** And again, this is another topic area that I have an entire course in the LinkedIn Learning Library dedicated to Spring Security.
+> **[0:04](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=4)** And again, this is another topic area that I have an entire course in the [[LinkedIn]] Learning Library dedicated to Spring Security.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=13)** But let's talk a little bit about what it is and why it's something you should know about going forward.
 >
@@ -2124,7 +2095,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=22)** It is a filter-based authentication and authorization framework that natively works with Spring.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=29)** In fact, in my opinion, it is so well-built that you could basically turn Spring Security on with Spring Boot by simply bringing it into the class path.
+> **[0:29](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=29)** In fact, in my opinion, it is so well-built that you could basically turn Spring Security on with [[Spring Boot]] by simply bringing it into the class path.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=39)** Now, of course, you're not going to get the full robustness of it, but it is very easy to configure with very common patterns, like OAuth 2.
 >
@@ -2150,7 +2121,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=101)** Things like JWT fronting behind an NGINX controller, got that With Spring Security.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=107)** I already talked about LDAP and integration with Active Directory.
+> **[1:47](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=107)** I already talked about LDAP and integration with [[Active Directory]].
 >
 > **[1:50](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/spring-security-basics?u=76281980&t=110)** I've done that with Spring Security.
 >
@@ -2160,15 +2131,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Security]] (13), application (3), web application (2), [[LinkedIn]] (1), [[Spring Boot]] (1)
+> **Frameworks & Libraries:** [[Spring Security]] (13), [[LinkedIn]] (1), [[Spring Boot]] (1), [[Active Directory]] (1)
 > **Env Vars:** ldap (2), crsf (1), jwt (1), nginx (1)
 > **CLI Commands:** find (1), nginx (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980)
+#### [Other topics](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2178,7 +2148,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=17)** But by doing this, we can at least talk about them, which hopefully will trigger in your brain your next steps of learning.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=24)** So, let's talk about that Spring framework.
+> **[0:24](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=24)** So, let's talk about that [[Spring Framework]].
 >
 > **[0:27](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=27)** There are topic areas like Spring Expression Language, something that I talk about in my Spring: Framework in Depth course.
 >
@@ -2198,7 +2168,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=98)** The i18n resource bundles allow you to build translations into your application in a very clean way.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=106)** There's also full support for WebSockets if that's something that you need to do.
+> **[1:46](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=106)** There's also full support for [[WebSocket|WebSockets]] if that's something that you need to do.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=109)** Let's say you're building a messaging application or some sort of a communication platform within your internal application itself.
 >
@@ -2214,15 +2184,15 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=156)** There is full support for caching.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=159)** If you tie in a memcached server or a Redis server, you can annotate things with cache annotations that will allow it to be cached in those systems or in memory with very little effort.
+> **[2:39](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=159)** If you tie in a memcached server or a [[Redis]] server, you can annotate things with cache annotations that will allow it to be cached in those systems or in memory with very little effort.
 >
-> **[2:52](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=172)** Now, Spring Boot itself also offers some additional keys that we did not discuss in this course, but things that you may find useful.
+> **[2:52](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=172)** Now, [[Spring Boot]] itself also offers some additional keys that we did not discuss in this course, but things that you may find useful.
 >
 > **[3:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=180)** The most useful one is Actuator.
 >
-> **[3:02](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=182)** Actuator gives you a real-time look at your application while it's running.
+> **[3:02](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=182)** Actuator gives you a [[Real-Time]] look at your application while it's running.
 >
-> **[3:07](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=187)** It's used by things like metric scrapers and observability tools, and can also be used to just simply monitor your application for things like liveness and readiness if you're running in Kubernetes.
+> **[3:07](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=187)** It's used by things like metric scrapers and observability tools, and can also be used to just simply monitor your application for things like liveness and readiness if you're running in [[Kubernetes]].
 >
 > **[3:19](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=199)** There is a robust logging framework.
 >
@@ -2240,7 +2210,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=250)** This is not a comprehensive list, this is just some of the really high level ones that I've touched.
 >
-> **[4:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=255)** Some of these I have courses on in the LinkedIn Learning Library.
+> **[4:15](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=255)** Some of these I have courses on in the [[LinkedIn]] Learning Library.
 >
 > **[4:19](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=259)** AMQP, I talked briefly about JMS, but AMQP in messaging is very powerful.
 >
@@ -2250,9 +2220,9 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=274)** If you are doing batch transactions and you want a batch runner, you can use Spring Batch to do that.
 >
-> **[4:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=281)** In addition, there's Spring Cloud, something I have a course on here in the Library, that offers many projects from Netflix Open source as well as integrations with cloud providers like AWS, GCP, or Azure.
+> **[4:41](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=281)** In addition, there's Spring Cloud, something I have a course on here in the Library, that offers many projects from Netflix Open source as well as integrations with cloud providers like AWS, GCP, or [[Microsoft Azure|Azure]].
 >
-> **[4:54](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=294)** There's also full GraphQL support now, so if you don't want to expose rest-based web services, but instead want to do GraphQL, you can do that.
+> **[4:54](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=294)** There's also full [[GraphQL]] support now, so if you don't want to expose [[Representational State Transfer (REST)|rest]]-based web services, but instead want to do GraphQL, you can do that.
 >
 > **[5:02](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/other-topics?u=76281980&t=302)** If you're building a full stack reactive application, you may choose to use GraphQL because it may be a simpler model for you.
 >
@@ -2266,7 +2236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), web (5), [[Spring Framework]] (4), [[Spring Boot]] (3), [[GraphQL]] (3)
+> **Frameworks & Libraries:** [[Spring Framework]] (4), [[Spring Boot]] (3), [[GraphQL]] (3), [[WebSocket|Websockets]] (1), [[Redis]] (1)
 > **Env Vars:** amqp (3), jms (2), aop (1), aws (1), gcp (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** find (2), make (1), aws (1)
@@ -2278,20 +2248,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=0)** - [Instructor] So now that this course is coming to a close, I want to talk a little bit about the next steps that you may employ in your journey through Spring, but I want to start with a quick recap of what we've done in this course.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=12)** So we used Spring Boot to learn Spring, and we did so for very specific reasons that we discussed.
+> **[0:12](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=12)** So we used [[Spring Boot]] to learn Spring, and we did so for very specific reasons that we discussed.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=19)** We talked about data access.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=21)** We talked about inversion of control and service abstractions.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=25)** We talked about building web pages as well as web services using Spring Framework, specifically in the context of Spring Boot.
+> **[0:25](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=25)** We talked about building web pages as well as web services using [[Spring Framework]], specifically in the context of Spring Boot.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=34)** So what's next?
 >
@@ -2307,7 +2276,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=76)** And, of course, there's more courses.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=78)** I have many courses on the Spring Framework here in the LinkedIn Learning library, as do several of my colleagues.
+> **[1:18](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=78)** I have many courses on the Spring Framework here in the [[LinkedIn]] Learning library, as do several of my colleagues.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=85)** There's also a plethora of material online that you can use to get better at Spring.
 >
@@ -2319,7 +2288,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=107)** So with that, my commitment to you does not end when you end this course.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=113)** If you have questions about this course or any of my courses on LinkedIn Learning, you can definitely reach out to me @fpmoles on Twitter, GitHub, or Stack Overflow.
+> **[1:53](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=113)** If you have questions about this course or any of my courses on LinkedIn Learning, you can definitely reach out to me @fpmoles on Twitter, [[GitHub]], or Stack Overflow.
 >
 > **[2:04](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980&t=124)** I'm very active in all of those around questions related to Spring or anything else that I make videos on in the LinkedIn Learning library.
 >
@@ -2333,7 +2302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Spring Boot]] (3), next (2), web (2), [[Spring Framework]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Spring Boot]] (3), [[Spring Framework]] (2), [[GitHub]] (1)
 > **Cross-References:** we talked about (4), we discussed (1), previous video (1)
 > **CLI Commands:** make (2), find (1)
 > **Documentation:** stack overflow (1)

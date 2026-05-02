@@ -95,16 +95,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Object-oriented design patterns in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980)
+#### [Object-oriented design patterns in C#](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980&t=0)** - [Instructor] Software design patterns are a major key to taking your software development to the next level.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980&t=0)** - [Instructor] [[Software Design Patterns]] are a major key to taking your [[Software Development]] to the next level.
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980&t=7)** I'm Rich Goforth, a senior software architect and consultant designing and developing web, mobile, and server side applications with and without dot net for approximately 13.73 years at the time of this recording.
 >
-> **[0:25](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980&t=25)** In this course, we're going to talk about why design patterns sense, what they are, and how they came to be so important.
+> **[0:25](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980&t=25)** In this course, we're going to talk about why [[Design Patterns]] sense, what they are, and how they came to be so important.
 >
 > **[0:34](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980&t=34)** Then we'll cover an overview of all the patterns from the gang of four and how they are applied in C sharp and dot net.
 >
@@ -114,17 +113,16 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980&t=64)** This isn't just about learning specific design patterns, but learning how to learn and apply design patterns in your applications of any type.
 >
-> **[1:15](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980&t=75)** Join me on my LinkedIn learning course through the ins and outs of design patterns in C sharp.
+> **[1:15](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980&t=75)** Join me on my [[LinkedIn]] learning course through the ins and outs of design patterns in C sharp.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), web (2), [[Software Design Patterns]] (1), [[Software Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Software Design Patterns]] (1), [[Software Development]] (1), [[LinkedIn]] (1)
 > **Env Vars:** mvc (1)
 > **Versions:** 13.73 (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -140,16 +138,15 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-you-should-know?u=76281980&t=34)** Experience there will help you understand what's going on in the app that we're modifying.
 >
-> **[0:40](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-you-should-know?u=76281980&t=40)** We'll also be making a lot of use of LINQ, and knowing the basics of LINQ will be helpful, but not strictly necessary.
+> **[0:40](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-you-should-know?u=76281980&t=40)** We'll also be making a lot of use of [[Language Integrated Query (LINQ)|LINQ]], and knowing the basics of LINQ will be helpful, but not strictly necessary.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Language Integrated Query (LINQ)|Linq]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (2)
 > **Env Vars:** net (2), linq (2), asp (1), mvc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review of terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/review-of-terms?u=76281980)
+#### [Review of terms](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/review-of-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/review-of-terms?u=76281980&t=9)** Even if you're familiar with these, it will be worth understanding how I'm using some of these common terms in this particular course.
 >
-> **[0:18](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/review-of-terms?u=76281980&t=18)** When we're talking about software design, we often hear about design principles and design patterns.
+> **[0:18](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/review-of-terms?u=76281980&t=18)** When we're talking about [[Software Design]], we often hear about design principles and [[Design Patterns]].
 >
 > **[0:24](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/review-of-terms?u=76281980&t=24)** Design principles are general high level guidelines.
 >
@@ -239,27 +236,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (5), [[Software Design]] (2), application (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (5), [[Software Design]] (2)
 > **Env Vars:** solid (1), dry (1), yagni (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files and installing .NET SDK
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980)
+#### [Using the exercise files and installing .NET SDK](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=0)** - [Instructor] I'm going to be using .NET Core with VS Code in this course to illustrate the use of design patterns in C Sharp.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=0)** - [Instructor] I'm going to be using .NET Core with VS Code in this course to illustrate the use of [[Design Patterns]] in C Sharp.
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=9)** If you want to follow along the most closely, install VS Code from here.
 >
-> **[0:15](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=15)** You can also use the Windows or Mac version of Visual Studio if you prefer.
+> **[0:15](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=15)** You can also use the [[Windows]] or Mac version of Visual Studio if you prefer.
 >
 > **[0:21](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=21)** If you don't have the .NET Core 3.1 SDK, get that installed from here.
 >
-> **[0:30](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=30)** We've created a GitHub repository for you to access the course materials.
+> **[0:30](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=30)** We've created a [[GitHub]] repository for you to access the course materials.
 >
-> **[0:35](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=35)** You can use Git to clone the repo or download the repo as a ZIP file.
+> **[0:35](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=35)** You can use [[Git]] to clone the repo or download the repo as a ZIP file.
 >
 > **[0:42](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-the-exercise-files-and-installing-dot-net-sdk?u=76281980&t=42)** You can drop down here to select a branch.
 >
@@ -287,12 +283,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Object-oriented programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980)
+#### [Object-oriented programming](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980&t=0)** - [Instructor] This isn't a course about OOP but to get to design patterns for C#, we have to start with object oriented programming.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980&t=0)** - [Instructor] This isn't a course about OOP but to get to [[Design Patterns]] for C#, we have to start with object oriented programming.
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980&t=9)** In object oriented programming, everything is a thing, an object is created or instantiated and has a lifetime.
 >
@@ -324,7 +319,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980&t=113)** I don't need to know how the machine code works to build a mobile application.
 >
-> **[2:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980&t=120)** I can run an application in JavaScript that runs different machine code on any number of different processor architectures that run JavaScript.
+> **[2:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980&t=120)** I can run an application in [[JavaScript]] that runs different machine code on any number of different processor architectures that run JavaScript.
 >
 > **[2:11](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980&t=131)** The lower layers are abstracted away so that I don't have to worry about process architectures when writing a web app.
 >
@@ -362,18 +357,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** oop (3), [[Programming]] (3), [[JavaScript]] (2), [[Design Patterns]] (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Design Patterns]] (1)
 > **Definitions:** is a  (3), means that (3), is an  (1)
 > **Env Vars:** oop (3), sms (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### What isn't OOP for design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-isn-t-oop-for-design-patterns?u=76281980)
+#### [What isn't OOP for design patterns](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-isn-t-oop-for-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-isn-t-oop-for-design-patterns?u=76281980&t=0)** - [Instructor] The design patterns we're discussing are based on object oriented programming, and don't apply the same way to non-object oriented programming.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-isn-t-oop-for-design-patterns?u=76281980&t=0)** - [Instructor] The [[Design Patterns]] we're discussing are based on object oriented programming, and don't apply the same way to non-object oriented programming.
 >
 > **[0:10](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-isn-t-oop-for-design-patterns?u=76281980&t=10)** Trying to force OOP design patterns, in the following situations could be problematic.
 >
@@ -387,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-isn-t-oop-for-design-patterns?u=76281980&t=53)** Procedural programming can certainly coexist with object oriented programming in many cases but it's important not to confuse the concepts.
 >
-> **[1:04](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-isn-t-oop-for-design-patterns?u=76281980&t=64)** Functional programming is based around actions instead of objects.
+> **[1:04](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-isn-t-oop-for-design-patterns?u=76281980&t=64)** [[Functional Programming]] is based around actions instead of objects.
 >
 > **[1:10](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-isn-t-oop-for-design-patterns?u=76281980&t=70)** Functions, it is a fairly different way of thinking from OOP and has several other courses devoted to it alone.
 >
@@ -419,19 +413,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (5), [[Programming]] (5), oop (4), [[Functional Programming]] (3), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (5), [[Functional Programming]] (3)
 > **Env Vars:** oop (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### C#, OOP, and design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/c-sharp-oop-and-design-patterns?u=76281980)
+#### [C#, OOP, and design patterns](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/c-sharp-oop-and-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/c-sharp-oop-and-design-patterns?u=76281980&t=0)** - [Instructor] OOP in itself is kind of a design pattern in many senses, but specifically, object-oriented programming is the environment for which most of our standard design patterns are created.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/c-sharp-oop-and-design-patterns?u=76281980&t=0)** - [Instructor] OOP in itself is kind of a design pattern in many senses, but specifically, [[Object-Oriented Programming (OOP)|object-oriented programming]] is the environment for which most of our standard [[Design Patterns]] are created.
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/c-sharp-oop-and-design-patterns?u=76281980&t=16)** Without the basis of OOP, many of these patterns don't make sense.
 >
@@ -453,17 +446,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (5), oop (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), functional (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **Env Vars:** oop (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are design patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-are-design-patterns?u=76281980)
+#### [What are design patterns?](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-are-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-are-design-patterns?u=76281980&t=0)** - Design patterns are at the core, a reusable solution framework to recurring problem.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-are-design-patterns?u=76281980&t=0)** - [[Design Patterns]] are at the core, a reusable solution framework to recurring problem.
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-are-design-patterns?u=76281980&t=7)** Christopher Alexander is a building architect and probably the reason that people like me often call ourselves software architects.
 >
@@ -497,7 +489,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-are-design-patterns?u=76281980&t=140)** This concept is from the book, "A Pattern Language" we just mentioned.
 >
-> **[2:26](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-are-design-patterns?u=76281980&t=146)** Design patterns are a way to communicate ideas about software design.
+> **[2:26](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-are-design-patterns?u=76281980&t=146)** Design patterns are a way to communicate ideas about [[Software Design]].
 >
 > **[2:32](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/what-are-design-patterns?u=76281980&t=152)** And part of this is having a format that the patterns are presented in.
 >
@@ -523,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (11), [[Engineering]] (1), [[Software Design]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (11), [[Software Design]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (1), picture (1)
 > **CLI Commands:** make (1)
@@ -532,12 +524,11 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Speakers:** - design (1)
 
-#### Why do you need design patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/why-do-you-need-design-patterns?u=76281980)
+#### [Why do you need design patterns?](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/why-do-you-need-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/why-do-you-need-design-patterns?u=76281980&t=0)** - [Instructor] Before we spend time learning design patterns, we need to spend some time on why it's worthwhile.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/why-do-you-need-design-patterns?u=76281980&t=0)** - [Instructor] Before we spend time learning [[Design Patterns]], we need to spend some time on why it's worthwhile.
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/why-do-you-need-design-patterns?u=76281980&t=7)** Just like learning grammar for your native language in school, you may feel like you know about design patterns, having seen them in a few places and having a general idea of what they are.
 >
@@ -585,7 +576,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/why-do-you-need-design-patterns?u=76281980&t=202)** If I click that, then this happens.
 >
-> **[3:25](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/why-do-you-need-design-patterns?u=76281980&t=205)** Learning how and why a specific pattern fits in a given situation, environment, requirement is fundamental to effective software design with patterns.
+> **[3:25](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/why-do-you-need-design-patterns?u=76281980&t=205)** Learning how and why a specific pattern fits in a given situation, environment, requirement is fundamental to effective [[Software Design]] with patterns.
 >
 > **[3:38](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/why-do-you-need-design-patterns?u=76281980&t=218)** The established practice of patterns will create a good or good enough way to do it that is well understood by others.
 >
@@ -599,25 +590,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), application (2), next (1), [[Software Design]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Software Design]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### A short history of design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/a-short-history-of-design-patterns?u=76281980)
+#### [A short history of design patterns](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/a-short-history-of-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/a-short-history-of-design-patterns?u=76281980&t=0)** - [Instructor] Let's cover how design patterns came about to better understand where they come from.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/a-short-history-of-design-patterns?u=76281980&t=0)** - [Instructor] Let's cover how [[Design Patterns]] came about to better understand where they come from.
 >
-> **[0:06](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/a-short-history-of-design-patterns?u=76281980&t=6)** As I mentioned in talking about what software design patterns are, the history really traces back to Christopher Alexander's work in architecture around design patterns in building.
+> **[0:06](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/a-short-history-of-design-patterns?u=76281980&t=6)** As I mentioned in talking about what [[Software Design Patterns]] are, the history really traces back to Christopher Alexander's work in architecture around design patterns in building.
 >
 > **[0:19](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/a-short-history-of-design-patterns?u=76281980&t=19)** The idea of taking identified patterns, codifying them with the recurring problems they solve and sharing those was not completely new, but the industry-wide focus on a specific text centered on the reuse of those patterns gave rise to the use of design patterns in a new way for several industries.
 >
-> **[0:44](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/a-short-history-of-design-patterns?u=76281980&t=44)** Certainly patterns were already being used in software design.
+> **[0:44](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/a-short-history-of-design-patterns?u=76281980&t=44)** Certainly patterns were already being used in [[Software Design]].
 >
 > **[0:49](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/a-short-history-of-design-patterns?u=76281980&t=49)** Some of those patterns took the form of languages like Lisp and Smalltalk.
 >
@@ -669,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Software Design Patterns]] (3), oop (2), next (2), [[Software Design]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Software Design Patterns]] (3), [[Software Design]] (1)
 > **Env Vars:** oop (2), net (2)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the last (1)
@@ -678,8 +668,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Categories of design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/categories-of-design-patterns?u=76281980)
+#### [Categories of design patterns](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/categories-of-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +710,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/categories-of-design-patterns?u=76281980&t=135)** I have it here for completeness because it's different enough to be its own category but we won't be covering anything in this category for this course.
 >
-> **[2:26](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/categories-of-design-patterns?u=76281980&t=146)** Another way that we can organize design patterns is around the scope that they reference.
+> **[2:26](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/categories-of-design-patterns?u=76281980&t=146)** Another way that we can organize [[Design Patterns]] is around the scope that they reference.
 >
 > **[2:32](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/categories-of-design-patterns?u=76281980&t=152)** Is the pattern for classes or for objects?
 >
@@ -761,19 +750,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** mvc (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Design patterns outside of software
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980)
+#### [Challenge: Design patterns outside of software](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=0)** - [Instructor] We want to go a little further in thinking about what design patterns are, why they're useful and how to think about them but outside of software, to get the bigger picture.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=0)** - [Instructor] We want to go a little further in thinking about what [[Design Patterns]] are, why they're useful and how to think about them but outside of software, to get the bigger picture.
 >
 > **[0:18](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=18)** The challenge is to take a general subject and answer questions around patterns related to it.
 >
@@ -783,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=38)** What is the pattern?
 >
-> **[0:40](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=40)** I'll start by narrowing this down to windows for residential housing.
+> **[0:40](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=40)** I'll start by narrowing this down to [[Windows]] for residential housing.
 >
 > **[0:45](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=45)** What problem does it solve?
 >
@@ -817,7 +805,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=124)** Get them down for yourself before moving on.
 >
-> **[2:08](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=128)** This kind of thinking about patterns, will help you use software design patterns in the future.
+> **[2:08](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=128)** This kind of thinking about patterns, will help you use [[Software Design Patterns]] in the future.
 >
 > **[2:15](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-design-patterns-outside-of-software?u=76281980&t=135)** You can try these particular subjects.
 >
@@ -829,13 +817,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Windows]] (2), application (1), [[Software Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Windows]] (2), [[Software Design Patterns]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Design patterns outside of software
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-design-patterns-outside-of-software?u=76281980)
+#### [Solution: Design patterns outside of software](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-design-patterns-outside-of-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,7 +832,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-design-patterns-outside-of-software?u=76281980&t=7)** I don't expect yours to be the same.
 >
-> **[0:10](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-design-patterns-outside-of-software?u=76281980&t=10)** Remember the goal is to think about design patterns, not specifically to answer this exact questions.
+> **[0:10](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-design-patterns-outside-of-software?u=76281980&t=10)** Remember the goal is to think about [[Design Patterns]], not specifically to answer this exact questions.
 >
 > **[0:17](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-design-patterns-outside-of-software?u=76281980&t=17)** You still might be correct, even with a completely different set of answers here.
 >
@@ -890,8 +877,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using software design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980)
+#### [Using software design patterns](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -909,7 +895,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980&t=28)** The problem solving comes as part of applying that solution to a more specific scenario.
 >
-> **[0:34](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980&t=34)** Remember that design patterns are about recurring problems.
+> **[0:34](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980&t=34)** Remember that [[Design Patterns]] are about recurring problems.
 >
 > **[0:39](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980&t=39)** Patterns are not created in a vacuum.
 >
@@ -931,7 +917,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980&t=103)** Design patterns are big enough part of the history of building software that we can find lots of existing examples in real situations.
 >
-> **[1:54](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980&t=114)** With the prevalence of open-source software, find code on GitHub or other public places that can show you how someone else implemented a pattern.
+> **[1:54](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980&t=114)** With the prevalence of [[Open-Source Software]], find code on [[GitHub]] or other public places that can show you how someone else implemented a pattern.
 >
 > **[2:06](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980&t=126)** Finally, try it out.
 >
@@ -963,15 +949,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Search]] (1), career (1), next (1), open-source (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[Open-Source Software]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (5), make (2)
 > **Cross-References:** later in (1)
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Software design pattern drawbacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/software-design-pattern-drawbacks?u=76281980)
+#### [Software design pattern drawbacks](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/software-design-pattern-drawbacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,9 +982,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/software-design-pattern-drawbacks?u=76281980&t=68)** By the time you realize the issue, it would cost even more to replace the UI code you already have.
 >
-> **[1:16](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/software-design-pattern-drawbacks?u=76281980&t=76)** You might have decided on a NoSQL database but later needed to add complex relationships to your data that require more work in code to implement.
+> **[1:16](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/software-design-pattern-drawbacks?u=76281980&t=76)** You might have decided on a [[NoSQL]] database but later needed to add complex relationships to your data that require more work in code to implement.
 >
-> **[1:27](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/software-design-pattern-drawbacks?u=76281980&t=87)** It's the same with design patterns.
+> **[1:27](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/software-design-pattern-drawbacks?u=76281980&t=87)** It's the same with [[Design Patterns]].
 >
 > **[1:30](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/software-design-pattern-drawbacks?u=76281980&t=90)** The places where the design is flexible and inflexible are an important part of the pattern itself.
 >
@@ -1027,21 +1012,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (4), application (2), data (2), [[NoSQL]] (1), database (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (4), [[NoSQL]] (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [or.net](https://or.net) (1)
 > **Env Vars:** net (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of the creational patterns for C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980)
+#### [Overview of the creational patterns for C#](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=0)** - [Instructor] The list of patterns we're covering in depth in this course seems short.
 >
-> **[0:05](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=5)** But as we work on understanding these patterns and common usages, you'll be able to expand your ability, not just to recognize and implement these patterns, but to do so for other design patterns as well.
+> **[0:05](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=5)** But as we work on understanding these patterns and common usages, you'll be able to expand your ability, not just to recognize and implement these patterns, but to do so for other [[Design Patterns]] as well.
 >
 > **[0:20](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=20)** We want to learn how to acquire design patterns for our toolbox.
 >
@@ -1065,7 +1049,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=93)** The abstract factory is a next level factory, the interface for a factory, so that the correct factory can be provided for in a dynamic situation.
 >
-> **[1:46](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=106)** This allows for the creation of families of concrete objects, rather than just individual products of a factory.
+> **[1:46](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=106)** This allows for the creation of families of concrete objects, rather than just individual [[Microsoft Products|products]] of a factory.
 >
 > **[1:55](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=115)** The consumer of the object doesn't need to know the details of what's required for a particular object or its dependent objects.
 >
@@ -1119,21 +1103,20 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=342)** Singletons can be used with other patterns for things like regulating access to limited resources, managing things like database connection pools.
 >
-> **[5:53](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=353)** You can create singletons from a dependency injection framework, but the service provider itself is a singleton.
+> **[5:53](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=353)** You can create singletons from a [[Dependency Injection]] framework, but the service provider itself is a singleton.
 >
 > **[6:01](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-creational-patterns-for-c-sharp?u=76281980&t=361)** All these patterns are focused on the creation and lifetime of object.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), application (3), [[Design Patterns]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Microsoft Products|Products]] (1), [[Dependency Injection]] (1)
 > **Env Vars:** net (5), http (2), asp (2)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **Prerequisites:** configure (2), initialization (2)
 > **URLs:** [system.net](https://system.net) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of the structural patterns for C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980)
+#### [Overview of the structural patterns for C#](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1157,13 +1140,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=55)** It's like the adapter, but rather than being focused on bringing existing classes to a place where they can interoperate, it allows for a future state where an abstract class can use an implementation that is decoupled from it.
 >
-> **[1:13](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=73)** It's a way to compose objects without adding more inheritance, or if the class implementing an abstraction is likely to change, but the abstraction isn't.
+> **[1:13](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=73)** It's a way to [[Jetpack Compose|compose]] objects without adding more inheritance, or if the class implementing an abstraction is likely to change, but the abstraction isn't.
 >
 > **[1:25](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=85)** The composite pattern lets you treat a set of objects in the same way that a single object is treated.
 >
 > **[1:32](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=92)** As we've mentioned, MVC views use a composite pattern.
 >
-> **[1:37](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=97)** In [ASP.NET](https://ASP.NET) Core MVC, any view can be treated as a single view, but can also be composed of any number of sub views that in turn can have their own sub views.
+> **[1:37](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=97)** In [[[ASP.NET]]](https://ASP.NET) Core MVC, any view can be treated as a single view, but can also be composed of any number of sub views that in turn can have their own sub views.
 >
 > **[1:51](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-structural-patterns-for-c-sharp?u=76281980&t=111)** It allows views and sets of views to be treated in the same way.
 >
@@ -1207,7 +1190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Jetpack Compose|Compose]] (1), [[ASP.NET Core]] (1), application (1), database (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[ASP.NET Core]] (1)
 > **Env Vars:** mvc (2), asp (1), net (1), cpu (1)
 > **Definitions:** is a  (5)
 > **Analogies:** just like (1), it's like (1)
@@ -1215,8 +1198,7 @@ created: 2026-05-02
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of the behavioral patterns for C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980)
+#### [Overview of the behavioral patterns for C#](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1224,7 +1206,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=8)** The interpreter pattern is based around building a context specific language and being able to break expressions down into sub expressions allowing the sub expressions to be treated and the results combined.
 >
-> **[0:23](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=23)** In C#, LINQ uses expressions and expression trees that exemplify the interpreter pattern.
+> **[0:23](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=23)** In C#, [[Language Integrated Query (LINQ)|LINQ]] uses expressions and expression trees that exemplify the interpreter pattern.
 >
 > **[0:31](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=31)** The template method pattern defines part of an operation at one level, but then lets subclasses define some section or part of that operation.
 >
@@ -1244,11 +1226,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=93)** The exception is passed up the stack until it's handled in a try catch block.
 >
-> **[1:39](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=99)** Another great example here is the [ASP.NET](https://ASP.NET) Core middleware structure.
+> **[1:39](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=99)** Another great example here is the [[[ASP.NET]]](https://ASP.NET) Core middleware structure.
 >
 > **[1:45](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=105)** As a web request comes in, each piece of middleware decides if there are any actions to take and then decides if they need to pass the request to the next layer or not.
 >
-> **[1:59](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=119)** Within the middleware, you can see the pattern again in MBC routing.
+> **[1:59](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=119)** Within the middleware, you can see the pattern again in MBC [[Routing]].
 >
 > **[2:05](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=125)** The command pattern is to think of a request or command in terms of its own object.
 >
@@ -1288,7 +1270,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=260)** However, objects could be designed poorly, so that serialization doesn't actually represent a memento if some part of their state is stored privately.
 >
-> **[4:33](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=273)** The observer pattern is one of the most useful and widely used design patterns.
+> **[4:33](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=273)** The observer pattern is one of the most useful and widely used [[Design Patterns]].
 >
 > **[4:39](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=279)** It's a one-to-many relationship where objects can subscribe to something and be notified when it changes.
 >
@@ -1312,7 +1294,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=350)** Finally, we have the strategy pattern.
 >
-> **[5:53](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=353)** By taking a family of algorithms or actions and grouping them in a similarly typed object, it's possible to switch out the action taken within an object dynamically.
+> **[5:53](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=353)** By taking a family of [[Algorithms]] or actions and grouping them in a similarly typed object, it's possible to switch out the action taken within an object dynamically.
 >
 > **[6:05](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/overview-of-the-behavioral-patterns-for-c-sharp?u=76281980&t=365)** In .NET Core, the easiest example is the cryptographic libraries.
 >
@@ -1330,7 +1312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (2), next (2), data (2), [[Design Patterns]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (2), [[Design Patterns]] (2), [[Algorithms]] (2), [[ASP.NET Core]] (1), [[Routing]] (1)
 > **Env Vars:** net (3), linq (2), asp (1), mbc (1)
 > **Definitions:** is a  (3), is an  (3), means that (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1343,8 +1325,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Iterator pattern definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980)
+#### [Iterator pattern definition](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,7 +1333,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980&t=4)** The iterator pattern is also known by the names cursor or enumerator.
 >
-> **[0:09](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980&t=9)** It was in use long before it was documented and codified as a software design pattern.
+> **[0:09](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980&t=9)** It was in use long before it was documented and codified as a [[Software Design]] pattern.
 >
 > **[0:17](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980&t=17)** Iterators operate on an aggregate object, a collection of some sort.
 >
@@ -1428,7 +1409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Software Design]] (1)
+> **Frameworks & Libraries:** [[Software Design]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** net (1)
@@ -1437,8 +1418,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor (1)
 
-#### Explicit iterator implementation in C# for generated data
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/explicit-iterator-implementation-in-c-sharp-for-generated-data?u=76281980)
+#### [Explicit iterator implementation in C# for generated data](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/explicit-iterator-implementation-in-c-sharp-for-generated-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,20 +1528,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (2), generic (1), application (1)
 > **Definitions:** is called (4), is an  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - now (1)
 
-#### Combining iterators in C# with LINQ
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/combining-iterators-in-c-sharp-with-linq?u=76281980)
+#### [Combining iterators in C# with LINQ](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/combining-iterators-in-c-sharp-with-linq?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/combining-iterators-in-c-sharp-with-linq?u=76281980&t=0)** - [Instructor] Iterators are pretty common in a real application, but you may not realize how common, or some of the details of using them in a more realistic C-sharp application.
 >
-> **[0:13](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/combining-iterators-in-c-sharp-with-linq?u=76281980&t=13)** I've opened the HPlusSports folder within the GitHub repo in VS Code.
+> **[0:13](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/combining-iterators-in-c-sharp-with-linq?u=76281980&t=13)** I've opened the HPlusSports folder within the [[GitHub]] repo in VS Code.
 >
 > **[0:19](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/combining-iterators-in-c-sharp-with-linq?u=76281980&t=19)** We have HPlusSports , an over-architected application for what it does, because it's meant to represent a more complicated enterprise-style corporate sales system.
 >
@@ -1637,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[GitHub]] (1), web (1), business (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Tools:** github (1), vs code (1)
 > **UI Navigation:** select the (1), open the (1)
 > **Env Vars:** var (1)
@@ -1646,8 +1624,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Simultaneous iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-simultaneous-iterators?u=76281980)
+#### [Challenge: Simultaneous iterators](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-simultaneous-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1673,13 +1650,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), generic (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Simultaneous iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-simultaneous-iterators?u=76281980)
+#### [Solution: Simultaneous iterators](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-simultaneous-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1745,7 +1720,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3), next (3), web (1)
 > **Definitions:** is a  (1), is called (1)
 > **Code Identifiers:** getenumerator (1)
 > **UI Navigation:** select the (1)
@@ -1757,12 +1731,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Factory Method pattern definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980)
+#### [Factory Method pattern definition](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=0)** - A factory, the place where a specific type of object is produced, the definition may seem obvious, but the clarity of the term that the pattern is named after is an important part of using design patterns.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=0)** - A factory, the place where a specific type of object is produced, the definition may seem obvious, but the clarity of the term that the pattern is named after is an important part of using [[Design Patterns]].
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=16)** A factory method is constructing a concrete object of any type, that implements a specified interface from a method in another concrete type.
 >
@@ -1812,7 +1785,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=183)** You can return subclasses of the requested object interface in the case of our enumerable, that meant that we can return the Enumerable without a type, but we can also return the generically typed Enumerable that gives the consumer code type checking based on the type we requested the enumerator for.
 >
-> **[3:26](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=206)** All these things come together to allow for dependency injection.
+> **[3:26](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=206)** All these things come together to allow for [[Dependency Injection]].
 >
 > **[3:31](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=211)** The service provider is a singleton that has factory methods to return the types we request when constructing a class.
 >
@@ -1822,7 +1795,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=231)** One of the solid design principles.
 >
-> **[3:54](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=234)** It provides things like better unit testing and can reduce the number of changes required when code that is depended on changes.
+> **[3:54](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=234)** It provides things like better [[Unit Testing]] and can reduce the number of changes required when code that is depended on changes.
 >
 > **[4:06](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980&t=246)** There are some choices and some flexibility in how you implement the factory method pattern.
 >
@@ -1838,13 +1811,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Design Patterns]] (2), [[Dependency Injection]] (2), data (1), application (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Dependency Injection]] (2), [[Unit Testing]] (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Factory Method pattern to choose the implementation of an action dynamically
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-to-choose-the-implementation-of-an-action-dynamically?u=76281980)
+#### [Factory Method pattern to choose the implementation of an action dynamically](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-to-choose-the-implementation-of-an-action-dynamically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1854,7 +1826,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-to-choose-the-implementation-of-an-action-dynamically?u=76281980&t=13)** I've created another new console project.
 >
-> **[0:16](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-to-choose-the-implementation-of-an-action-dynamically?u=76281980&t=16)** You can do that or start with the project from GitHub.
+> **[0:16](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-to-choose-the-implementation-of-an-action-dynamically?u=76281980&t=16)** You can do that or start with the project from [[GitHub]].
 >
 > **[0:20](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-to-choose-the-implementation-of-an-action-dynamically?u=76281980&t=20)** It's in the factory folder.
 >
@@ -1926,7 +1898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[GitHub]] (1), [[Debugging]] (1), business (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Code Identifiers:** shippingservice (2), serviceprovider (1)
 > **Analogies:** picture (1), imagine (1), for example (1)
 > **Tools:** github (1), terminal (1)
@@ -1934,12 +1906,11 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Factory Method design pattern for unit testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-design-pattern-for-unit-testing?u=76281980)
+#### [Factory Method design pattern for unit testing](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-design-pattern-for-unit-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-design-pattern-for-unit-testing?u=76281980&t=0)** - [Instructor] Now, we'll go back to the HPlusSports application, to look [at.net](https://at.net) cores built in dependency injection framework.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-design-pattern-for-unit-testing?u=76281980&t=0)** - [Instructor] Now, we'll go back to the HPlusSports application, to look [at.net](https://at.net) cores built in [[Dependency Injection]] framework.
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-design-pattern-for-unit-testing?u=76281980&t=9)** How it can use the factory method pattern, and how we can use that, to improve our unit tests.
 >
@@ -1979,7 +1950,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-design-pattern-for-unit-testing?u=76281980&t=150)** To do that, we'll add a service provider to the test class.
 >
-> **[2:38](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-design-pattern-for-unit-testing?u=76281980&t=158)** I'll use the suggestion, to add the dependency injection library from Microsoft.
+> **[2:38](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-design-pattern-for-unit-testing?u=76281980&t=158)** I'll use the suggestion, to add the dependency injection library from [[Microsoft]].
 >
 > **[2:45](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-design-pattern-for-unit-testing?u=76281980&t=165)** Remember this service provider is actually an example of the Singleton pattern.
 >
@@ -2033,7 +2004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dependency Injection]] (5), application (4), [[Microsoft]] (1), generic (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (5), [[Microsoft]] (1)
 > **Env Vars:** mvc (1), dll (1), moq (1), mlq (1)
 > **UI Navigation:** go to (2), navigate to (1)
 > **Prerequisites:** configure (3)
@@ -2041,8 +2012,7 @@ created: 2026-05-02
 > **Definitions:** means that (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Factory Method with dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-factory-method-with-dependency-injection?u=76281980)
+#### [Challenge: Factory Method with dependency injection](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-factory-method-with-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2050,7 +2020,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-factory-method-with-dependency-injection?u=76281980&t=5)** - [Instructor] For the next challenge, let's bring our example code into HPlusSports.
 >
-> **[0:11](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-factory-method-with-dependency-injection?u=76281980&t=11)** It's possible that you need more flexibility when creating a class for a particular type from the dependency injection framework, like creating the user notifier based on application configuration.
+> **[0:11](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-factory-method-with-dependency-injection?u=76281980&t=11)** It's possible that you need more flexibility when creating a class for a particular type from the [[Dependency Injection]] framework, like creating the user notifier based on application configuration.
 >
 > **[0:26](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-factory-method-with-dependency-injection?u=76281980&t=26)** For this purpose, there's an overload method.
 >
@@ -2070,14 +2040,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (1), [[Dependency Injection]] (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (1)
 > **Env Vars:** net (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Factory Method with dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-factory-method-with-dependency-injection?u=76281980)
+#### [Solution: Factory Method with dependency injection](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-factory-method-with-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2117,13 +2086,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-factory-method-with-dependency-injection?u=76281980&t=158)** If I create another new order, when I scroll down in the Debug Console now, I'll see that it Notified User 100 by Email, the factory method allow the application, to return the right type in a dynamic situation.
 >
-> **[2:57](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-factory-method-with-dependency-injection?u=76281980&t=177)** This design patterns at several different levels, is providing flexibility for the application, to create the needed type right when it's needed based on information from various places.
+> **[2:57](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-factory-method-with-dependency-injection?u=76281980&t=177)** This [[Design Patterns]] at several different levels, is providing flexibility for the application, to create the needed type right when it's needed based on information from various places.
 >
 > **[3:10](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-factory-method-with-dependency-injection?u=76281980&t=190)** The code is decoupled, and insulated from changes independent code, it's also easy to test.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), web (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -2136,8 +2105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adapter pattern definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-definition?u=76281980)
+#### [Adapter pattern definition](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2197,7 +2165,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-definition?u=76281980&t=174)** Since .NET Core is multi-platform, each platform or operating system functions are wrapped in a common interface for C-Sharp.
 >
-> **[3:05](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-definition?u=76281980&t=185)** File access code on macOS is different from file access on Windows, but the same code in .NET Core is used to read and write from the local file system.
+> **[3:05](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-definition?u=76281980&t=185)** File access code on macOS is different from file access on [[Windows]], but the same code in .NET Core is used to read and write from the local file system.
 >
 > **[3:19](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-definition?u=76281980&t=199)** The runtime abstracts away the system level functions, adapting it and wrapping it into a common interface.
 >
@@ -2237,7 +2205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), power (2), [[Windows]] (1), api (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** net (3), soap (1), api (1)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -2246,14 +2214,13 @@ created: 2026-05-02
 > **Analogies:** compare this to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adapter in C#: Adapt FileStream to ILogger
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-in-c-sharp-adapt-filestream-to-ilogger?u=76281980)
+#### [Adapter in C#: Adapt FileStream to ILogger](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-in-c-sharp-adapt-filestream-to-ilogger?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-in-c-sharp-adapt-filestream-to-ilogger?u=76281980&t=0)** - [Instructor] Let's build a simple adapter example.
 >
-> **[0:03](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-in-c-sharp-adapt-filestream-to-ilogger?u=76281980&t=3)** I want to use Microsoft's logger to log directly to a file.
+> **[0:03](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-in-c-sharp-adapt-filestream-to-ilogger?u=76281980&t=3)** I want to use [[Microsoft]]'s logger to log directly to a file.
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-in-c-sharp-adapt-filestream-to-ilogger?u=76281980&t=9)** This functionality is not actually built into the logger for a myriad of good reasons that we don't need to get into now, Microsoft's ILogger interface is how I want my application to be able to log to disk.
 >
@@ -2333,7 +2300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (5), application (4), generic (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** terminal (2)
 > **URLs:** [system.io](https://system.io) (1)
@@ -2341,8 +2308,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adapter pattern for ViewModel mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-for-viewmodel-mapping?u=76281980)
+#### [Adapter pattern for ViewModel mapping](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-for-viewmodel-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2436,14 +2402,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), web (1)
 > **UI Navigation:** open the (1), go to (1), select the (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Class adapter vs. object adapter
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-class-adapter-vs-object-adapter?u=76281980)
+#### [Challenge: Class adapter vs. object adapter](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/challenge-class-adapter-vs-object-adapter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2459,12 +2423,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Class adapter vs. object adapter
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-class-adapter-vs-object-adapter?u=76281980)
+#### [Solution: Class adapter vs. object adapter](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-class-adapter-vs-object-adapter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2504,11 +2466,11 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-class-adapter-vs-object-adapter?u=76281980&t=185)** This illustrates some of the benefits and drawbacks for which adapter pattern to choose and even whether an adapter pattern is the best choice for view model mapping.
 >
-> **[3:17](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-class-adapter-vs-object-adapter?u=76281980&t=197)** Thinking about software architecture in this way and creating a POC to illustrate it is a great way to find out what will and won't work as you expand your application.
+> **[3:17](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/solution-class-adapter-vs-object-adapter?u=76281980&t=197)** Thinking about [[Software Architecture]] in this way and creating a POC to illustrate it is a great way to find out what will and won't work as you expand your application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), web (1), [[Software Architecture]] (1), application (1)
+> **Frameworks & Libraries:** [[Software Architecture]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** poc (1)
@@ -2520,8 +2482,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2531,7 +2492,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980&t=6)** Please see your manager in that regard.
 >
-> **[0:09](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980&t=9)** In this course we learn what design patterns are, how they're used in C#, why they're useful and how we can use them in C# to make our architectures better.
+> **[0:09](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980&t=9)** In this course we learn what [[Design Patterns]] are, how they're used in C#, why they're useful and how we can use them in C# to make our architectures better.
 >
 > **[0:21](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980&t=21)** But where should you go from here?
 >
@@ -2541,7 +2502,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980&t=52)** Another great read on design patterns can be found here by Martin Fowler.
 >
-> **[0:59](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980&t=59)** He talks about what a pattern is and some of the forms of patterns in a lot of detail.
+> **[0:59](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980&t=59)** He talks about what a pattern is and some of the [[Forms]] of patterns in a lot of detail.
 >
 > **[1:06](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980&t=66)** Another book I recommend is his "Patterns of Enterprise Application Architecture" which can be found here.
 >
@@ -2557,7 +2518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (2), application (2), [[Forms]] (1), next (1), web (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [richard] (1)

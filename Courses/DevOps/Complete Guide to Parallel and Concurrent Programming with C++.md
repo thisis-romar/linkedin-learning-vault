@@ -137,14 +137,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn parallel programming basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980)
+#### [Learn parallel programming basics](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980&t=0)** - There's an old saying that two heads are better than one.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980&t=4)** - Well, when it comes to parallel programming, I say two threads are better than one.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980&t=4)** - Well, when it comes to [[Parallel Programming]], I say two threads are better than one.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980&t=11)** I'm Barron Stone.
 >
@@ -152,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980&t=14)** In this course, we'll introduce you to the fundamental concepts for concurrent and parallel programming.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980&t=19)** - These are the basic mechanisms you need to develop programs that can do multiple things at once to take advantage of multi-core processors and parallel hardware.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980&t=19)** - These are the basic mechanisms you need to develop programs that can do multiple things at once to take advantage of multi-core processors and parallel [[Hardware]].
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980&t=29)** - [Olivia] We'll focus on the general concepts and relate them back to everyday activities in the kitchen to make those ideas easier to understand and have some fun.
 >
@@ -164,13 +163,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Parallel Programming]] (3), concurrent (2), parallel (1), [[Hardware]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Parallel Programming]] (3), [[Hardware]] (1)
 > **Speakers:** - there (1), - well (1), - and (1), - these (1), - [olivia] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,18 +180,17 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/what-you-should-know?u=76281980&t=20)** And then, in the C++ code examples, I'll explain the unique terminology and nuances that make C++ different than other programming languages.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/what-you-should-know?u=76281980&t=30)** - If you're interested in concurrent and parallel programming in other languages, be on the lookout for different versions of this course.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/what-you-should-know?u=76281980&t=30)** - If you're interested in concurrent and [[Parallel Programming]] in other languages, be on the lookout for different versions of this course.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/what-you-should-know?u=76281980&t=37)** You'll find the same general concept videos, but we'll show you the example code in another programming language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), concurrent (2), parallel (1), [[Parallel Programming]] (1)
+> **Frameworks & Libraries:** [[Parallel Programming]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - the (1), - if (1)
 
-#### Installing Cygwin and Visual Studio Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/installing-cygwin-and-visual-studio-code?u=76281980)
+#### [Installing Cygwin and Visual Studio Code](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/installing-cygwin-and-visual-studio-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,9 +198,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/installing-cygwin-and-visual-studio-code?u=76281980&t=16)** If you plan to use a different compiler, make sure it supports the C++ 17 standard to follow along.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/installing-cygwin-and-visual-studio-code?u=76281980&t=23)** We'll be using Cygwin to emulate a Unix-like Posix-compliant environment on our Windows 10 computer.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/installing-cygwin-and-visual-studio-code?u=76281980&t=23)** We'll be using Cygwin to emulate a Unix-like Posix-compliant environment on our [[Windows 10]] computer.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/installing-cygwin-and-visual-studio-code?u=76281980&t=30)** If you'll be using Cygwin as well to follow along, use the Cygwin Setup utility to install the GCC-G++ and make packages, and add the Cygwin bin directory to your Windows system path.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/installing-cygwin-and-visual-studio-code?u=76281980&t=30)** If you'll be using Cygwin as well to follow along, use the Cygwin Setup utility to install the GCC-G++ and make packages, and add the Cygwin bin directory to your [[Windows]] system path.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/installing-cygwin-and-visual-studio-code?u=76281980&t=45)** Finally, to edit our source files, we'll be using Visual Studio Code, but feel free to use any code editor that you're already comfortable using.
 >
@@ -231,8 +228,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sequential vs. parallel computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/sequential-vs-parallel-computing?u=76281980)
+#### [Sequential vs. parallel computing](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/sequential-vs-parallel-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,20 +316,19 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/sequential-vs-parallel-computing?u=76281980&t=260)** - In many industries, the time saved using parallel computing also leads to saving money.
 >
-> **[4:26](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/sequential-vs-parallel-computing?u=76281980&t=266)** The advantages of being able to solve a problem faster often outweighs a cost of investing in parallel computing hardware.
+> **[4:26](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/sequential-vs-parallel-computing?u=76281980&t=266)** The advantages of being able to solve a problem faster often outweighs a cost of investing in parallel computing [[Hardware]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (9), next (1), [[Programming]] (1), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Speakers:** - and (4), - let (1), - that (1), - while (1), - hold (1)
 > **CLI Commands:** make (6)
 
-#### Parallel computing architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980)
+#### [Parallel computing architectures](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=0)** - Parallel computing requires parallel hardware with multiple processors to execute different parts of a program at the same time.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=0)** - Parallel computing requires parallel [[Hardware]] with multiple processors to execute different parts of a program at the same time.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=9)** But before you dive into writing software, it helps to understand how different types of parallel computers are structured.
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=108)** - And we'll execute those instructions in sync with each other.
 >
-> **[1:52](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=112)** (knives clanging) This type of SIMD architecture is well-suited for applications that perform the same handful of operations on a massive set of data elements, like image processing.
+> **[1:52](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=112)** (knives clanging) This type of SIMD architecture is well-suited for applications that perform the same handful of operations on a massive set of data elements, like [[Image Processing]].
 >
 > **[2:06](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=126)** And most modern computers use Graphic Processing Units, or GPUs, with SIMD instructions to do just that.
 >
@@ -387,7 +382,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=199)** - MIMD is the most commonly used architecture in Flynn's Taxonomy, and you'll find it in everything from multi-core PCs to network clusters and supercomputers.
 >
-> **[3:29](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=209)** Now, that broad MIMD category is sometimes further subdivided into two parallel programming models, which also have four letter names.
+> **[3:29](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=209)** Now, that broad MIMD category is sometimes further subdivided into two [[Parallel Programming]] models, which also have four letter names.
 >
 > **[3:39](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/parallel-computing-architectures?u=76281980&t=219)** Single Program, Multiple Data, or SPMD, and Multiple Program Multiple Data, MPMD.
 >
@@ -417,15 +412,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), parallel (4), [[Parallel Programming]] (2), [[Hardware]] (1), concurrent (1)
+> **Frameworks & Libraries:** [[Parallel Programming]] (2), [[Hardware]] (1), [[Image Processing]] (1)
 > **Env Vars:** simd (7), mimd (4), spmd (4), mpmd (3), sisd (2)
 > **Speakers:** - parallel (1), - it (1), - and (1), - yeah (1), - as (1)
 > **CLI Commands:** make (1), find (1), node (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), such as (1)
 
-#### Shared versus distributed memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980)
+#### [Shared versus distributed memory](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,7 +463,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980&t=134)** In the case of modern multi-core processors, which you find in everything from desktop computers to cell phones, each of the processing cores are treated as a separate processor.
 >
-> **[2:24](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980&t=144)** For this course, we'll be focused on parallel programming within the SMP architecture.
+> **[2:24](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980&t=144)** For this course, we'll be focused on [[Parallel Programming]] within the SMP architecture.
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980&t=150)** In the example code we show you, we'll be running on a multi-core desktop computer.
 >
@@ -477,7 +471,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980&t=167)** However, caches introduce the challenge that if one processor copies a value from the shared main memory and then makes a change to it in its local cache, then that change needs to be updated back in the shared memory before another processor reads the old value which is no longer current.
 >
-> **[3:06](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980&t=186)** This issue, called cache coherency, is handled by the hardware in multi-core processors, so we will not go into detail on it for this course, but it's something you should be aware of if you find yourself working with larger, more complex parallel computing systems.
+> **[3:06](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980&t=186)** This issue, called cache coherency, is handled by the [[Hardware]] in multi-core processors, so we will not go into detail on it for this course, but it's something you should be aware of if you find yourself working with larger, more complex parallel computing systems.
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-versus-distributed-memory?u=76281980&t=202)** The other type of shared memory is a non-uniform memory access, or NUMA system, which is often made by physically connecting multiple SMP systems together.
 >
@@ -525,7 +519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), parallel (4), [[Parallel Programming]] (1), [[Hardware]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Parallel Programming]] (1), [[Hardware]] (1)
 > **Speakers:** - in (1), - memory (1), - right (1), - hey (1), - every (1)
 > **Env Vars:** smp (5), uma (2), numa (1)
 > **CLI Commands:** find (2), make (1)
@@ -538,8 +532,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thread versus process
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process?u=76281980)
+#### [Thread versus process](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -621,7 +614,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), application (2), [[Programming]] (2), next (1), parallel (1)
 > **Speakers:** - now (3), - when (1), - to (1), - we (1), - and (1)
 > **CLI Commands:** make (2)
 > **Analogies:** kind of like (1), for example (1)
@@ -629,8 +621,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** rule of thumb (1)
 
-#### Thread versus process: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process-c-plus-plus-demo?u=76281980)
+#### [Thread versus process: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,7 +695,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process-c-plus-plus-demo?u=76281980&t=315)** If I scroll down in the Processes window, I see a process called thread_process_demo.exe.
 >
-> **[5:24](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process-c-plus-plus-demo?u=76281980&t=324)** Now, you may have noticed that it has a different process ID number than our program displayed earlier, and that's because we're using Cygwin to emulate a POSIX-compatible environment on our Windows computer.
+> **[5:24](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process-c-plus-plus-demo?u=76281980&t=324)** Now, you may have noticed that it has a different process ID number than our program displayed earlier, and that's because we're using Cygwin to emulate a POSIX-compatible environment on our [[Windows]] computer.
 >
 > **[5:37](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process-c-plus-plus-demo?u=76281980&t=337)** The process ID shown here in the Windows Resource Monitor is the ID that Windows assigned to the process, whereas the value the program printed out was the process ID it got from the Cygwin emulation environment.
 >
@@ -714,7 +705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), prompt (2), data (2), application (1)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Env Vars:** cpu (11), pid (1), posix (1)
 > **Code Identifiers:** cpu_waster (5), thread_process_demo (2), get_id (1), cpu_wasting (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -723,8 +714,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Concurrent versus parallel execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980)
+#### [Concurrent versus parallel execution](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,11 +760,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=113)** If we swap places and take turns more frequently, it might create the illusion that we're executing simultaneously on our single processor, but this is not true parallel execution.
 >
-> **[2:05](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=125)** - To actually execute in parallel, we need parallel hardware.
+> **[2:05](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=125)** - To actually execute in parallel, we need parallel [[Hardware]].
 >
 > **[2:09](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=129)** In our kitchen, that means another knife and cutting board, a second processor.
 >
-> **[2:13](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=133)** But in regards to computers, parallel hardware can come in a variety of forms.
+> **[2:13](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=133)** But in regards to computers, parallel hardware can come in a variety of [[Forms]].
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=138)** Most modern processors used in things like desktop computers and cell phones have multiple processing cores.
 >
@@ -806,7 +796,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=239)** Those sparse independent tasks could run just fine on a single processor and we wouldn't feel a difference.
 >
-> **[4:06](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=246)** Concurrent programming is useful for I/O dependent tasks like graphical user interfaces.
+> **[4:06](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=246)** [[Concurrent Programming]] is useful for I/O dependent tasks like graphical user interfaces.
 >
 > **[4:12](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/concurrent-versus-parallel-execution?u=76281980&t=252)** When the user clicks a button to execute an operation, that might take a while.
 >
@@ -822,14 +812,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (14), concurrent (4), [[Hardware]] (3), [[Forms]] (1), [[Concurrent Programming]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Forms]] (1), [[Concurrent Programming]] (1)
 > **Speakers:** - and (2), - just (1), - we (1), - thanks (1), - now (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 
-#### Execution scheduling
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling?u=76281980)
+#### [Execution scheduling](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,7 +862,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling?u=76281980&t=122)** It takes time to save and restore the registers in memory state, so the scheduler needs a strategy for how frequently it switches between processes.
 >
-> **[2:11](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling?u=76281980&t=131)** There's a wide variety of algorithms that different operating system schedulers implement.
+> **[2:11](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling?u=76281980&t=131)** There's a wide variety of [[Algorithms]] that different operating system schedulers implement.
 >
 > **[2:16](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling?u=76281980&t=136)** Some of these algorithms are preemptive, which means they may pause or preempt a running low-priority task when a higher priority task enters the ready state.
 >
@@ -883,7 +872,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling?u=76281980&t=158)** Some schedulers might try to maximize throughput or the amount of work they complete in a given time, whereas others might aim to minimize latency to improve the system's responsiveness.
 >
-> **[2:50](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling?u=76281980&t=170)** Different operating systems have different purposes, and a desktop OS like windows will have a different set of goals and use a different type of scheduler than a real-time OS for embedded systems.
+> **[2:50](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling?u=76281980&t=170)** Different operating systems have different purposes, and a desktop OS like [[Windows]] will have a different set of goals and use a different type of scheduler than a [[Real-Time]] OS for embedded systems.
 >
 > **[3:02](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling?u=76281980&t=182)** Now, while it's important to understand the concept of scheduling and that it's taking place, you usually don't need to worry about the nitty-gritty details of how the scheduler works because it's often handled under the hood by the operating system.
 >
@@ -901,8 +890,7 @@ created: 2026-05-02
 > **Env Vars:** cpu (1)
 > **Warnings:** keep in mind (1)
 
-#### Execution scheduling: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling-c-plus-plus-demo?u=76281980)
+#### [Execution scheduling: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/execution-scheduling-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -946,15 +934,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **Code Identifiers:** vegetable_chopper (4), vegetable_count (1), execution_scheduling_demo (1)
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thread life cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-life-cycle?u=76281980)
+#### [Thread life cycle](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-life-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,14 +1012,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **Speakers:** - ah (2), - when (1), - hello (1), - this (1), - i (1)
 > **Env Vars:** cpu (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
 
-#### Thread life cycle: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-life-cycle-c-plus-plus-demo?u=76281980)
+#### [Thread life cycle: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-life-cycle-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1097,14 +1081,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** chef_olivia (2)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (keys typing) (1)
 
-#### Detached thread
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/detached-thread?u=76281980)
+#### [Detached thread](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/detached-thread?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,7 +1094,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/detached-thread?u=76281980&t=8)** A common example of that is garbage collection.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/detached-thread?u=76281980&t=12)** A garbage collector is a form of automatic memory management that runs in the background and attempts to reclaim garbage or memory that's no longer being used by the program.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/detached-thread?u=76281980&t=12)** A garbage collector is a form of automatic [[Memory Management]] that runs in the background and attempts to reclaim garbage or memory that's no longer being used by the program.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/detached-thread?u=76281980&t=22)** Many languages include garbage collection as a standard part of their runtime environment.
 >
@@ -1160,14 +1142,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Memory Management]] (1), data (1)
+> **Frameworks & Libraries:** [[Memory Management]] (1)
 > **Speakers:** - we (1), - man (1), - olivia (1), - well (1), - this (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** setup (1)
 
-#### Detached thread: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/detached-thread-c-plus-plus-demo?u=76281980)
+#### [Detached thread: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/detached-thread-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1198,8 +1179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data race
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/data-race?u=76281980)
+#### [Data race](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/data-race?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,12 +1271,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), concurrent (3)
 > **Speakers:** - and (3), - one (1), - even (1), - oh (1), - it (1)
 > **CLI Commands:** make (1)
 
-#### Data race: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/data-race-c-plus-plus-demo?u=76281980)
+#### [Data race: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/data-race-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,15 +1332,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), concurrent (2), prompt (1)
 > **Code Identifiers:** data_race_demo (1), garlic_count (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mutual exclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mutual-exclusion?u=76281980)
+#### [Mutual exclusion](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mutual-exclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1398,7 +1374,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mutual-exclusion?u=76281980&t=117)** The operation to acquire the lock is an atomic operation, which means it's always executed as a single, indivisible action.
 >
-> **[2:06](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mutual-exclusion?u=76281980&t=126)** To the rest of the system, an atomic operation appears to happen instantaneously, even if under the hood, it really takes multiple steps.
+> **[2:06](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mutual-exclusion?u=76281980&t=126)** To the [[Representational State Transfer (REST)|rest]] of the system, an atomic operation appears to happen instantaneously, even if under the hood, it really takes multiple steps.
 >
 > **[2:15](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mutual-exclusion?u=76281980&t=135)** The key here is that the atomic operation is uninterruptible.
 >
@@ -1442,14 +1418,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - i (3), - anytime (1), - baron (1), - hey (1), - now (1)
 > **Definitions:** is an  (2), short for (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)
 
-#### Mutual exclusion: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mutual-exclusion-c-plus-plus-demo?u=76281980)
+#### [Mutual exclusion: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mutual-exclusion-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1507,15 +1482,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), prompt (1)
 > **Code Identifiers:** garlic_count (6), sleep_for (1)
 > **CLI Commands:** make (4)
 > **Tools:** command prompt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Atomic objects: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/atomic-objects-c-plus-plus-demo?u=76281980)
+#### [Atomic objects: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/atomic-objects-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1541,7 +1514,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), parallel (1), next (1), concurrent (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** garlic_count (1)
 > **UI Navigation:** scroll down (1)
@@ -1553,8 +1525,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recursive mutex
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/recursive-mutex?u=76281980)
+#### [Recursive mutex](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/recursive-mutex?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1630,8 +1601,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 
-#### Recursive mutex: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/recursive-mutex-c-plus-plus-demo?u=76281980)
+#### [Recursive mutex: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/recursive-mutex-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1681,13 +1651,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** add_garlic (7), add_potato (6), garlic_count (2), potato_count (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Try lock
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/try-lock?u=76281980)
+#### [Try lock](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/try-lock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1749,8 +1717,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (1)
 
-#### Try lock: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/try-lock-c-plus-plus-demo?u=76281980)
+#### [Try lock: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/try-lock-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1804,15 +1771,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[Search]] (1)
 > **Code Identifiers:** try_lock (6), items_to_add (2)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 6.5 (1)
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shared mutex
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-mutex?u=76281980)
+#### [Shared mutex](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-mutex?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1880,20 +1845,19 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-mutex?u=76281980&t=207)** Do they give preference to readers or writers that are trying to acquire the lock?
 >
-> **[3:31](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-mutex?u=76281980&t=211)** Deciding which type of mutex to use is a complicated decision, but as a general rule of thumb, it makes sense to use a shared reader-writer lock when you have a lot more threads that will be reading from the shared data than the number of threads that will be writing to it, such as certain types of database applications.
+> **[3:31](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-mutex?u=76281980&t=211)** Deciding which type of mutex to use is a complicated decision, but as a general rule of thumb, it makes sense to use a shared reader-writer lock when you have a lot more threads that will be reading from the shared data than the number of threads that will be writing to it, such as certain types of [[Database Applications]].
 >
 > **[3:50](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-mutex?u=76281980&t=230)** If the majority of your threads are writing, then there's not much, if any, advantage to using a read-write lock.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Database Applications]] (1)
+> **Frameworks & Libraries:** [[Database Applications]] (1)
 > **Speakers:** - i (2), - but (2), - now (2), - we (1), - that (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** general rule (1)
 
-#### Shared mutex: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-mutex-c-plus-plus-demo?u=76281980)
+#### [Shared mutex: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/shared-mutex-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1949,7 +1913,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** shared_mutex (1)
 > **Definitions:** is a  (1)
@@ -1961,8 +1924,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deadlock
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock?u=76281980)
+#### [Deadlock](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2038,7 +2000,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock?u=76281980&t=226)** That may not be the most realistic scenario, but it demonstrates the point.
 >
-> **[3:51](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock?u=76281980&t=231)** Now, imagine something like a banking application with a set of bank accounts where each one has its own mutex, to ensure that only one thread will be withdrawing from or depositing funds to that account at a time.
+> **[3:51](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock?u=76281980&t=231)** Now, imagine something like a [[Banking]] application with a set of bank accounts where each one has its own mutex, to ensure that only one thread will be withdrawing from or depositing funds to that account at a time.
 >
 > **[4:05](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock?u=76281980&t=245)** To transfer funds between two accounts, a thread needs to acquire the locks for both the sender and the receiver, since it would be modifying the value of both accounts.
 >
@@ -2046,15 +2008,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** concurrent (3), [[Banking]] (1), application (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Speakers:** - well (2), - olivia (1), - ah (1), - and (1), - eureka (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
 > **Analogies:** imagine (1)
 
-#### Deadlock: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock-c-plus-plus-demo?u=76281980)
+#### [Deadlock: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2134,7 +2095,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[Programming]] (1), parallel (1)
 > **Code Identifiers:** scoped_lock (5), first_chopstick (3), second_chopstick (2), sushi_count (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** cpu (2)
@@ -2143,8 +2103,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Abandoned lock
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/abandoned-lock?u=76281980)
+#### [Abandoned lock](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/abandoned-lock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2168,8 +2127,7 @@ created: 2026-05-02
 >
 > **Speakers:** - now (1), - well (1), - sorry (1)
 
-#### Abandoned lock: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/abandoned-lock-c-plus-plus-demo?u=76281980)
+#### [Abandoned lock: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/abandoned-lock-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2217,8 +2175,7 @@ created: 2026-05-02
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Starvation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/starvation?u=76281980)
+#### [Starvation](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/starvation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2262,12 +2219,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** concurrent (1)
 > **Speakers:** - it (1), - too (1), - then (1), - in (1), - and (1)
 > **CLI Commands:** make (1)
 
-#### Starvation: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/starvation-c-plus-plus-demo?u=76281980)
+#### [Starvation: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/starvation-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2303,14 +2258,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), web (1), management (1)
 > **CLI Commands:** make (2)
 > **Tools:** command prompt (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Livelock
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/livelock?u=76281980)
+#### [Livelock](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/livelock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2338,7 +2291,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/livelock?u=76281980&t=62)** The program will never reach the end.
 >
-> **[1:05](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/livelock?u=76281980&t=65)** The ironic thing about livelocks is that they're often caused by algorithms that are intended to detect and recover from deadlock.
+> **[1:05](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/livelock?u=76281980&t=65)** The ironic thing about livelocks is that they're often caused by [[Algorithms]] that are intended to detect and recover from deadlock.
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/livelock?u=76281980&t=72)** If one or more process or thread takes action to resolve the deadlock, then those threads can end up being overly polite and stuck in a livelock.
 >
@@ -2359,8 +2312,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Analogies:** similar to (1)
 
-#### Livelock: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/livelock-c-plus-plus-demo?u=76281980)
+#### [Livelock: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/livelock-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2416,7 +2368,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **Code Identifiers:** second_chopstick (3), try_lock (3), first_chopstick (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** cpu (1)
@@ -2429,8 +2380,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Condition variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/condition-variable?u=76281980)
+#### [Condition variable](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/condition-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2528,14 +2478,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), business (1)
 > **Speakers:** - baron (1), - but (1), - mm (1), - olivia (1), - what (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** think of it as (1), similar to (1)
 > **CLI Commands:** make (1)
 
-#### Condition variable: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/condition-variable-c-plus-plus-demo?u=76281980)
+#### [Condition variable: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/condition-variable-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2629,7 +2577,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), prompt (1)
 > **Code Identifiers:** hungry_person (9), soup_servings (5), notify_one (4), hungry_people (3), slow_cooker_lid (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -2637,11 +2584,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Producer-consumer
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/producer-consumer?u=76281980)
+#### [Producer-consumer](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/producer-consumer?u=76281980)
 
-#### Producer-consumer: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/producer-consumer-c-plus-plus-demo?u=76281980)
+#### [Producer-consumer: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/producer-consumer-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2717,7 +2662,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/producer-consumer-c-plus-plus-demo?u=76281980&t=334)** We get messages from the two consumer threads that ate different amounts of soup, and together they consumed the total 10,000 bowls of soup that were served up by the producer thread.
 >
-> **[5:45](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/producer-consumer-c-plus-plus-demo?u=76281980&t=345)** Now you might be wondering why the C++ standard queue isn't thread safe by default after all other languages like Java and Python include thread safe queues as part of their standard libraries.
+> **[5:45](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/producer-consumer-c-plus-plus-demo?u=76281980&t=345)** Now you might be wondering why the C++ standard queue isn't thread safe by default after all other languages like [[Java]] and [[Python (Programming Language)|Python]] include thread safe queues as part of their standard libraries.
 >
 > **[5:58](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/producer-consumer-c-plus-plus-demo?u=76281980&t=358)** C++ gives you the basic building blocks to implement exactly what you need.
 >
@@ -2729,7 +2674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** serve_soup (5), take_soup (4), serving_line (3), condition_variable (3), soup_queue (2)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** fifo (1)
@@ -2737,8 +2682,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Semaphore
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/semaphore?u=76281980)
+#### [Semaphore](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/semaphore?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2824,14 +2768,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Speakers:** - lucky (2), - [instructor] (1), - hmm (1), - nice (1), - i (1)
 > **Code Identifiers:** fillcount (5), emptycount (5)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** just like (1), for example (1)
 
-#### Semaphore: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/semaphore-c-plus-plus-demo?u=76281980)
+#### [Semaphore: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/semaphore-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2896,12 +2838,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Race condition
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition?u=76281980)
+#### [Race condition](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition?u=76281980&t=0)** - Data races and race conditions are two different potential problems in concurrent programs that people often confuse with each other, probably because they have similar-sounding names with the word race in them, data races can occur when two or more threads concurrently access the same memory location.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition?u=76281980&t=0)** - Data races and race conditions are two different potential problems in concurrent programs that people often confuse with each other, probably because they have similar-sounding names with the [[Microsoft Word|word]] race in them, data races can occur when two or more threads concurrently access the same memory location.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition?u=76281980&t=20)** If at least one of those threads is writing to or changing that memory value, that can cause the threads to override each other or read wrong values.
 >
@@ -2979,13 +2920,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), concurrent (1), [[Microsoft Word|Word]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - that (2), - i (2), - data (1), - it (1), - well (1)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (quirky music) (1)
 
-#### Race condition: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition-c-plus-plus-demo?u=76281980)
+#### [Race condition: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3021,14 +2961,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** bag_of_chips (2), barron_shopper (2), olivia_shopper (2), cpu_work (1), olivia_shoppers (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Barrier
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/barrier?u=76281980)
+#### [Barrier](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/barrier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3088,12 +3026,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **Speakers:** - i (2), - to (1), - we (1), - sounds (1), - when (1)
 > **Definitions:** is a  (1)
 
-#### Barrier: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/barrier-c-plus-plus-demo?u=76281980)
+#### [Barrier: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/barrier-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3147,12 +3083,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
-#### Latch: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/latch-c-plus-plus-demo?u=76281980)
+#### [Latch: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/latch-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3227,12 +3161,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Computational graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980)
+#### [Computational graph](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980&t=0)** - The key to parallel programming is determining which steps within a program can be executed in parallel and then figuring out how to coordinate them.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980&t=0)** - The key to [[Parallel Programming]] is determining which steps within a program can be executed in parallel and then figuring out how to coordinate them.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980&t=10)** And one tool that help model how steps in a program relate to each other is a computational graph.
 >
@@ -3272,7 +3205,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980&t=151)** This type of diagram is called a directed acyclic graph, or DAG.
 >
-> **[2:36](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980&t=156)** Directed, because each edge is directed from one node or vertex to another, and acyclic, meaning it doesn't have any loops that cycle back on itself.
+> **[2:36](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980&t=156)** Directed, because each edge is directed from one node or [[Vertex]] to another, and acyclic, meaning it doesn't have any loops that cycle back on itself.
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980&t=166)** There are several variations on ways to draw these types of computational graphs, but their general purpose is to provide an abstract representation of the program.
 >
@@ -3300,19 +3233,18 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980&t=255)** The parallelism ratio of 1.33 means that at very best, the parallel version of this program will be 33% faster than the sequential version.
 >
-> **[4:25](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980&t=265)** We may not be able to reduce the total amount of work a program needs to do, so minimizing the critical path is important in designing parallel algorithms, because span determines the shortest possible execution time.
+> **[4:25](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980&t=265)** We may not be able to reduce the total amount of work a program needs to do, so minimizing the critical path is important in designing parallel [[Algorithms]], because span determines the shortest possible execution time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (7), node (7), next (2), [[Parallel Programming]] (1), [[Vertex]] (1)
+> **Frameworks & Libraries:** [[Parallel Programming]] (1), [[Vertex]] (1), [[Algorithms]] (1)
 > **CLI Commands:** node (7), make (2)
 > **Definitions:** is a  (3), is called (1), means that (1)
 > **Env Vars:** dag (1)
 > **Versions:** 1.33 (1)
 > **Speakers:** - the (1)
 
-#### Thread pool
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-pool?u=76281980)
+#### [Thread pool](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-pool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3374,13 +3306,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2)
 > **Speakers:** - and (2), - after (1), - a (1), - sure (1), - hey (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
 
-#### Thread pool: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-pool-c-plus-plus-demo?u=76281980)
+#### [Thread pool: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-pool-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3422,7 +3352,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** vegetable_chopper (1)
 > **Env Vars:** asio (1)
@@ -3431,8 +3360,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Future
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/future?u=76281980)
+#### [Future](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/future?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3490,8 +3418,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Warnings:** note that (1)
 
-#### Future: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/future-c-plus-plus-demo?u=76281980)
+#### [Future: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/future-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3539,12 +3466,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - to (1)
 
-#### Divide and conquer
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/divide-and-conquer?u=76281980)
+#### [Divide and conquer](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/divide-and-conquer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/divide-and-conquer?u=76281980&t=0)** - One class of algorithms that are well-suited for parallel execution across multiple processors are divide and conquer algorithms.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/divide-and-conquer?u=76281980&t=0)** - One class of [[Algorithms]] that are well-suited for parallel execution across multiple processors are divide and conquer algorithms.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/divide-and-conquer?u=76281980&t=9)** They work by first dividing a large problem into a number of smaller sub-problems of roughly equal size.
 >
@@ -3600,11 +3526,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (5), [[Algorithms]] (4), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4)
 > **Speakers:** - one (1), - it (1), - do (1), - sure (1), - my (1)
 
-#### Divide and conquer: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/divide-and-conquer-c-plus-plus-demo?u=76281980)
+#### [Divide and conquer: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/divide-and-conquer-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3666,7 +3591,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - [narrator] (1)
@@ -3676,8 +3600,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Speedup, latency, and throughput
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/speedup-latency-and-throughput?u=76281980)
+#### [Speedup, latency, and throughput](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/speedup-latency-and-throughput?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3739,14 +3662,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (8)
 > **Speakers:** - there (1), - another (1), - a (1), - now (1)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Amdahl's law
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/amdahl-s-law?u=76281980)
+#### [Amdahl's law](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/amdahl-s-law?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3784,7 +3705,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/amdahl-s-law?u=76281980&t=165)** Amdahl's Law illustrates why using multiple processors for parallel computing is only really useful for programs that are highly parallelizable.
 >
-> **[2:55](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/amdahl-s-law?u=76281980&t=175)** - When first learning about parallel programming, it's natural to be excited and want to parallelize everything.
+> **[2:55](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/amdahl-s-law?u=76281980&t=175)** - When first learning about [[Parallel Programming]], it's natural to be excited and want to parallelize everything.
 >
 > **[3:01](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/amdahl-s-law?u=76281980&t=181)** Computers have lots of cores nowadays, so why not make everything as parallel as possible?
 >
@@ -3796,14 +3717,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (9), [[Parallel Programming]] (1)
+> **Frameworks & Libraries:** [[Parallel Programming]] (1)
 > **Versions:** 1.9 (1), 2.7 (1), 3.5 (1), 19.6 (1)
 > **Speakers:** - there (1), - 95 (1), - when (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 
-#### Measure speedup
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/measure-speedup?u=76281980)
+#### [Measure speedup](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/measure-speedup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3887,7 +3807,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (8), [[Programming]] (2)
 > **Speakers:** - done (2), - amdahl (1), - i (1), - well (1), - ready (1)
 > **Versions:** 1.47 (3), 73.5 (1), 2.2 (1), 27.5 (1)
 > **CLI Commands:** make (1)
@@ -3896,8 +3815,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** before you begin (1)
 
-#### Measure speedup: C++ demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/measure-speedup-c-plus-plus-demo?u=76281980)
+#### [Measure speedup: C++ demo](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/measure-speedup-c-plus-plus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3911,7 +3829,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/measure-speedup-c-plus-plus-demo?u=76281980&t=36)** I'll hide that too.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/measure-speedup-c-plus-plus-demo?u=76281980&t=39)** The main function of this program contains a simple framework we'll be using to evaluate the performance of parallel algorithms.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/measure-speedup-c-plus-plus-demo?u=76281980&t=39)** The main function of this program contains a simple framework we'll be using to evaluate the performance of parallel [[Algorithms]].
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/measure-speedup-c-plus-plus-demo?u=76281980&t=47)** On line 31, we have a variable to indicate the number of evaluation runs for each implementation to execute and measure the execution times, and then we'll average those times together.
 >
@@ -3963,7 +3881,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (13), [[Algorithms]] (2), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Versions:** 260.2 (1), 72.7 (1), 3.58 (1), 89.47 (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
@@ -3974,8 +3892,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980)
+#### [Partitioning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4017,7 +3934,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980&t=113)** - Or we could break up elements cyclically and each decorate every other cupcake.
 >
-> **[1:58](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980&t=118)** - Sure, that's just another way to break up this data, and different ways of decomposing data can have different advantages and disadvantages depending on the problem and hardware involved.
+> **[1:58](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980&t=118)** - Sure, that's just another way to break up this data, and different ways of decomposing data can have different advantages and disadvantages depending on the problem and [[Hardware]] involved.
 >
 > **[2:09](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980&t=129)** Once we've partitioned the data, we can turn our focus towards the processing that needs to be applied to each section.
 >
@@ -4033,7 +3950,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980&t=177)** Keep in mind that domain and functional decomposition are complimentary ways to approach a problem, and it's natural to use a combination of the two.
 >
-> **[3:06](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980&t=186)** Programmers typically start with domain decomposition because it forms a foundation for a lot of parallel algorithms.
+> **[3:06](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980&t=186)** Programmers typically start with domain decomposition because it [[Forms]] a foundation for a lot of parallel [[Algorithms]].
 >
 > **[3:14](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980&t=194)** But sometimes taking a functional approach instead can provide different ways of thinking about these problems.
 >
@@ -4041,13 +3958,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), parallel (5), functional (5), concurrent (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Forms]] (1), [[Algorithms]] (1)
 > **Speakers:** - we (1), - or (1), - sure (1), - the (1)
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (1)
 
-#### Communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/communication?u=76281980)
+#### [Communication](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4121,13 +4037,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), parallel (2), next (1)
 > **Speakers:** - after (1), - hang (1), - well (1), - yeah (1), - sure (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Agglomeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/agglomeration?u=76281980)
+#### [Agglomeration](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/agglomeration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4161,7 +4075,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/agglomeration?u=76281980&t=130)** However, the larger chunks of work may produce a load imbalance where certain tasks process the bulk of data while others remain idle.
 >
-> **[2:19](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/agglomeration?u=76281980&t=139)** Those are two extremes, and the most efficient solution will be dependent on the algorithm and the hardware on which it runs.
+> **[2:19](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/agglomeration?u=76281980&t=139)** Those are two extremes, and the most efficient solution will be dependent on the algorithm and the [[Hardware]] on which it runs.
 >
 > **[2:26](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/agglomeration?u=76281980&t=146)** For most general purpose computers, that's usually in the middle with some form of medium-grained parallelism.
 >
@@ -4197,7 +4111,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/agglomeration?u=76281980&t=245)** One of us would be sitting idle while the other two cooks are busy processing.
 >
-> **[4:10](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/agglomeration?u=76281980&t=250)** It's easy to make short-sighted decisions like this that can limit a program's scalability.
+> **[4:10](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/agglomeration?u=76281980&t=250)** It's easy to make short-sighted decisions like this that can limit a program's [[Scalability]].
 >
 > **[4:15](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/agglomeration?u=76281980&t=255)** Choosing to restructure our program into just two tasks prevented us from taking advantage of Steve's additional processing power.
 >
@@ -4209,12 +4123,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (4), data (4), [[Hardware]] (1), [[Scalability]] (1), power (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Scalability]] (1)
 > **Speakers:** - too (2), - in (1), - now (1), - when (1), - then (1)
 > **CLI Commands:** make (2)
 
-#### Mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mapping?u=76281980)
+#### [Mapping](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4226,7 +4139,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mapping?u=76281980&t=32)** The operating system handles scheduling threads to execute on specific processor cores, so that's out of our hands.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mapping?u=76281980&t=39)** Mapping really becomes a factor if you're using a distributed system or specialized hardware with lots of parallel processors for large-scale problems, like in scientific computing applications.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mapping?u=76281980&t=39)** Mapping really becomes a factor if you're using a distributed system or specialized [[Hardware]] with lots of parallel processors for large-scale problems, like in scientific computing applications.
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mapping?u=76281980&t=51)** The usual goal of a mapping algorithm is to minimize the total execution time of the program, and there are two main strategies to achieve that goal.
 >
@@ -4234,7 +4147,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mapping?u=76281980&t=80)** In some situations, it might be possible to leverage both of those approaches, but more often they'll conflict with each other, which means the design will have to make trade-offs.
 >
-> **[1:29](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mapping?u=76281980&t=89)** There's a variety of different load-balancing algorithms that use domain decomposition and agglomeration techniques to map task execution to processors.
+> **[1:29](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mapping?u=76281980&t=89)** There's a variety of different load-balancing [[Algorithms]] that use domain decomposition and agglomeration techniques to map task execution to processors.
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/mapping?u=76281980&t=99)** If the number of tasks or the amount of computation and communication per task changes as the program executes, that makes the problem more complex, and it may require dynamic load balancing techniques that periodically determine a new mapping strategy.
 >
@@ -4250,7 +4163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3), [[Hardware]] (3), [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -4259,8 +4172,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to the challenges!
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/welcome-to-the-challenges?u=76281980)
+#### [Welcome to the challenges!](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/welcome-to-the-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4268,7 +4180,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/welcome-to-the-challenges?u=76281980&t=4)** Now it's time for a few challenge problems to practice using the concepts we've covered in this course.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/welcome-to-the-challenges?u=76281980&t=10)** - Over the next few videos, we'll present you with several algorithms that could benefit from being restructured for concurrency and to execute in parallel.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/welcome-to-the-challenges?u=76281980&t=10)** - Over the next few videos, we'll present you with several [[Algorithms]] that could benefit from being restructured for concurrency and to execute in parallel.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/welcome-to-the-challenges?u=76281980&t=19)** As a starting point, we'll provide you with a sequential version of each algorithm, and it's your job to implement your own concurrent solution.
 >
@@ -4276,12 +4188,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2), next (1), [[Algorithms]] (1), concurrent (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Speakers:** - all (1), - over (1), - keep (1)
 > **Warnings:** keep in mind (1)
 
-#### Challenge: Matrix multiply
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-matrix-multiply?u=76281980)
+#### [Challenge: Matrix multiply](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-matrix-multiply?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4325,7 +4236,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-matrix-multiply?u=76281980&t=177)** The function uses a set of nested for loops to iterate through each of the rows in A and columns in B.
 >
-> **[3:04](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-matrix-multiply?u=76281980&t=184)** It initializes the corresponding cell in the result array C to zero, and then uses a third for loop on line 14 to sum together the products of elements from the row in A with the column in B and accumulates the sum in the corresponding location of the result array C.
+> **[3:04](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-matrix-multiply?u=76281980&t=184)** It initializes the corresponding cell in the result array C to zero, and then uses a third for loop on line 14 to sum together the [[Microsoft Products|products]] of elements from the row in A with the column in B and accumulates the sum in the corresponding location of the result array C.
 >
 > **[3:23](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-matrix-multiply?u=76281980&t=203)** So the program is modifying the given array C in place to fill it with the result values.
 >
@@ -4341,7 +4252,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-matrix-multiply?u=76281980&t=255)** Below that, we allocate memory to store the input and result matrices and populate the elements of A and B with random values.
 >
-> **[4:24](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-matrix-multiply?u=76281980&t=264)** Then finally, starting at line 69, we evaluate the sequential and parallel algorithms to compare how long it takes for each one to execute.
+> **[4:24](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-matrix-multiply?u=76281980&t=264)** Then finally, starting at line 69, we evaluate the sequential and parallel [[Algorithms]] to compare how long it takes for each one to execute.
 >
 > **[4:34](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-matrix-multiply?u=76281980&t=274)** After you've implemented your parallel matrix multiply function, you'll be able to run this program to see how well it performs.
 >
@@ -4349,15 +4260,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (7), product (4), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Analogies:** for example (3)
 > **Cross-References:** we covered (1), previous video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Matrix multiply
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/solution-matrix-multiply?u=76281980)
+#### [Solution: Matrix multiply](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/solution-matrix-multiply?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4421,7 +4331,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (9), next (1)
 > **Env Vars:** cpu (3)
 > **Versions:** 2.78 (1)
 > **UI Navigation:** select the (1)
@@ -4429,8 +4338,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Merge sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-merge-sort?u=76281980)
+#### [Challenge: Merge sort](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-merge-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4482,14 +4390,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3), next (1)
 > **Code Identifiers:** sequential_merge_sort (2), parallel_merge_sort (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Merge sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/solution-merge-sort?u=76281980)
+#### [Solution: Merge sort](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/solution-merge-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4543,7 +4449,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (6)
 > **Code Identifiers:** merge_sort (6)
 > **CLI Commands:** find (1)
 > **Versions:** 2.28 (1)
@@ -4552,8 +4457,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music plays) (1)
 
-#### Challenge: Download images
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-download-images?u=76281980)
+#### [Challenge: Download images](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-download-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4585,7 +4489,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-download-images?u=76281980&t=140)** This page from the libcurl documentation explains how to build and install libcurl from source code for several different environments.
 >
-> **[2:30](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-download-images?u=76281980&t=150)** If you're using Cygwin to emulate a Unix like environment on Windows like us, then you can install the necessary libraries by selecting this libcurl-devel package from the Cygwin setup utility.
+> **[2:30](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-download-images?u=76281980&t=150)** If you're using Cygwin to emulate a Unix like environment on [[Windows]] like us, then you can install the necessary libraries by selecting this libcurl-devel package from the Cygwin setup utility.
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/challenge-download-images?u=76281980&t=165)** Similar to the previous two challenges.
 >
@@ -4608,8 +4512,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Download images
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/solution-download-images?u=76281980)
+#### [Solution: Download images](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/solution-download-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4663,7 +4566,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3), feature (1), concurrent (1), data (1)
 > **Env Vars:** cpu (5)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
@@ -4676,8 +4578,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4701,7 +4602,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** concurrent (1), parallel (1), [[Programming]] (1)
 > **Speakers:** - you (1), - we (1), - and (1), - if (1), - or (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)

@@ -100,35 +100,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to SharePoint Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/welcome-to-sharepoint-online?u=76281980)
+#### [Welcome to SharePoint Online](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/welcome-to-sharepoint-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/welcome-to-sharepoint-online?u=76281980&t=0)** - Microsoft's SharePoint Online is a leading cloud collaboration service that empowers teamwork.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/welcome-to-sharepoint-online?u=76281980&t=0)** - [[Microsoft]]'s [[SharePoint]] Online is a leading cloud collaboration service that empowers teamwork.
 >
 > **[0:05](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/welcome-to-sharepoint-online?u=76281980&t=5)** In this course, you're going to learn how to configure and manage SharePoint from site collections to user profiles.
 >
 > **[0:12](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/welcome-to-sharepoint-online?u=76281980&t=12)** I'll show you how to customize your sites using apps, and how to make sure your users get the results they're looking for when they're using search.
 >
-> **[0:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/welcome-to-sharepoint-online?u=76281980&t=20)** My name is Ed Lieberman, and I've been teaching people about Microsoft and Windows server related products since the 1990s, so please join me as we learn all about SharePoint Online.
+> **[0:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/welcome-to-sharepoint-online?u=76281980&t=20)** My name is Ed Lieberman, and I've been teaching people about Microsoft and [[Windows Server]] related [[Microsoft Products|products]] since the 1990s, so please join me as we learn all about SharePoint Online.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (3), [[Microsoft]] (2), cloud (1), [[Search]] (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3), [[Microsoft]] (2), [[Windows Server]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - microsoft (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, it is not expected that you have any specific prerequisite knowledge.
 >
-> **[0:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/what-you-should-know?u=76281980&t=7)** Now, it certainly would be helpful if you have some prior experience with Microsoft 365 or possibly even working with any of the earlier versions of SharePoint, but it certainly is not required.
+> **[0:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/what-you-should-know?u=76281980&t=7)** Now, it certainly would be helpful if you have some prior experience with [[Microsoft 365]] or possibly even working with any of the earlier versions of [[SharePoint]], but it certainly is not required.
 >
 > **[0:21](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/what-you-should-know?u=76281980&t=21)** Now, if you want to follow along with all of the demonstrations in this course, I will tell you it's actually quite easy.
 >
@@ -150,14 +148,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a free M365 E5 trial account
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980)
+#### [Create a free M365 E5 trial account](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=0)** - [Instructor] One of the things that I really appreciate that Microsoft does to help you with learning about their products is they pretty much always give you the ability or, you know, some mechanism to allow you to try out their products for a certain amount of time for free, before you have to actually purchase the product.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=0)** - [Instructor] One of the things that I really appreciate that [[Microsoft]] does to help you with learning about their [[Microsoft Products|products]] is they pretty much always give you the ability or, you know, some mechanism to allow you to try out their products for a certain amount of time for free, before you have to actually purchase the product.
 >
-> **[0:21](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=21)** And Microsoft 365 is no exception.
+> **[0:21](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=21)** And [[Microsoft 365]] is no exception.
 >
 > **[0:24](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=24)** They give you a free 30 day trial.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=68)** It says Microsoft 365 at the top.
 >
-> **[1:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=70)** You'll also see Office 365 E5 a little bit further down.
+> **[1:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=70)** You'll also see [[Microsoft Office|Office]] 365 E5 a little bit further down.
 >
 > **[1:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=74)** The names get a little fuzzy because they jump around with what Office 365 versus Microsoft 365 is, but this is the product that we want.
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=91)** First thing you need to do is you need to enter an email address.
 >
-> **[1:34](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=94)** So I'm going to go ahead and put in landonhotel and some random numbers here that I have, @[outlook.com](https://outlook.com).
+> **[1:34](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=94)** So I'm going to go ahead and put in landonhotel and some random numbers here that I have, @[[[Microsoft Outlook|outlook]].com](https://outlook.com).
 >
 > **[1:44](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=104)** I just created this email address just for this course.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=215)** This is just for verification purposes.
 >
-> **[3:37](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=217)** Now, I'm going to not do this in front of you for privacy reasons, so I don't give my phone number out to everybody.
+> **[3:37](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=217)** Now, I'm going to not do this in front of you for [[Privacy]] reasons, so I don't give my phone number out to everybody.
 >
 > **[3:43](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980&t=223)** So I'm going to enter it in.
 >
@@ -331,7 +328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), product (4), next (4)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Office|Office]] (5), [[Microsoft]] (4), [[Microsoft Products|Products]] (3), [[Privacy]] (3)
 > **UI Navigation:** click on (8), checkbox (1)
 > **Prerequisites:** set up (3), configure (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [outlook.com](https://outlook.com) (1)
@@ -339,12 +336,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft final setup procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980)
+#### [Microsoft final setup procedures](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=0)** - [Instructor] Before we can begin to use Microsoft 365, there are a few final installation steps.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=0)** - [Instructor] Before we can begin to use [[Microsoft 365]], there are a few final installation steps.
 >
 > **[0:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=7)** So, let's go through them here.
 >
@@ -354,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=23)** So if you want to do so, it says select an option below.
 >
-> **[0:25](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=25)** So here I could actually click on this if I wanted to go ahead and download Word, Excel, PowerPoint, et cetera.
+> **[0:25](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=25)** So here I could actually click on this if I wanted to go ahead and download [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], et cetera.
 >
 > **[0:31](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=31)** I don't need to do that on this machine, so I'm going to simply just click Continue.
 >
@@ -382,7 +378,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=120)** So I'm going to go ahead and type in, User One, for instance, and I'll put in "uone" for the actual username and it does @LandonHotel.[onmicrosoft.com](https://onmicrosoft.com).
 >
-> **[2:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=134)** I apologize for all the little popups that keep happening as I hover over different boxes, that's just Microsoft trying to be helpful.
+> **[2:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=134)** I apologize for all the little popups that keep happening as I hover over different boxes, that's just [[Microsoft]] trying to be helpful.
 >
 > **[2:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/microsoft-final-setup-procedures?u=76281980&t=140)** But I can add that user, and as soon as I add that user, you'll notice that at the bottom where it said "Do this later," it now says "Add users and assign licenses," okay?
 >
@@ -454,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (5), dns (2), [[Microsoft]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (5), go to (2), checkbox (1)
 > **Prerequisites:** install (2), configure (2), setup (1), set up (1)
 > **Env Vars:** dns (2), csv (1), dkim (1)
@@ -463,12 +459,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
 
-#### Deleting M365 trial account
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980)
+#### [Deleting M365 trial account](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980&t=0)** - [Narrator] So, once you get to the point that you are done playing around in Microsoft 365, you have a couple of options.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980&t=0)** - [Narrator] So, once you get to the point that you are done playing around in [[Microsoft 365]], you have a couple of options.
 >
 > **[0:09](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980&t=9)** If you decide you want to move forward and continue using Microsoft 365, you don't have to do anything.
 >
@@ -490,9 +485,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980&t=60)** So the one we want is Billing, and I'm going to click the little down arrow to expand it.
 >
-> **[1:04](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980&t=64)** And then the item we want is Your products.
+> **[1:04](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980&t=64)** And then the item we want is Your [[Microsoft Products|products]].
 >
-> **[1:08](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980&t=68)** So here with my products, you can see that we have the Office 365 E5 Trial.
+> **[1:08](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980&t=68)** So here with my products, you can see that we have the [[Microsoft Office|Office]] 365 E5 Trial.
 >
 > **[1:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/deleting-m365-trial-account?u=76281980&t=74)** And you'll also notice for subscription status, it says Active.
 >
@@ -568,7 +563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (4)
 > **Speakers:** - [narrator] (1)
@@ -578,12 +573,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SharePoint Online overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980)
+#### [SharePoint Online overview](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=0)** - [Instructor] SharePoint Online in Microsoft 365 is a cloud-based service that helps organizations share and manage content, knowledge and applications to empower teamwork, quickly find information and seamlessly collaborate across their organization.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=0)** - [Instructor] [[SharePoint]] Online in [[Microsoft 365]] is a cloud-based service that helps organizations share and manage content, knowledge and applications to empower teamwork, quickly find information and seamlessly collaborate across their organization.
 >
 > **[0:16](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=16)** Now, since this is a cloud-based subscription service I'd like to make sure that you're familiar with the subscription options that are available.
 >
@@ -593,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=51)** And when I do that search, you basically want to skip past any of these sponsored ads.
 >
-> **[0:57](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=57)** And you get down here to where you have the first Microsoft link that says compare SharePoint plans and pricing.
+> **[0:57](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=57)** And you get down here to where you have the first [[Microsoft]] link that says compare SharePoint plans and pricing.
 >
 > **[1:03](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=63)** All right, so I'm going to click on that and this is up to date as of when I'm recording it.
 >
@@ -613,9 +607,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=113)** Are we talking about a small or mid-size business or are we talking about an enterprise size business?
 >
-> **[1:58](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=118)** If you scroll down on the page, you'll see everything that it has to offer with both Plan One and Plan two no office applications are included.
+> **[1:58](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=118)** If you scroll down on the page, you'll see everything that it has to offer with both Plan One and Plan two no [[Microsoft Office|office]] applications are included.
 >
-> **[2:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=127)** We just get the basic services of SharePoint, OneDrive and List.
+> **[2:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=127)** We just get the basic services of SharePoint, [[Microsoft OneDrive|OneDrive]] and List.
 >
 > **[2:11](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=131)** There's then a whole list, and I'm going to go into the leftmost column here of all the different things that SharePoint Online one gives you.
 >
@@ -623,7 +617,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=145)** You get everything that was in the leftmost column but then you'll see that there are some additional features here.
 >
-> **[2:33](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=153)** And if you read through what those are, you know they're enterprise level stuff like instead of limited cloud storage, you have unlimited cloud storage, you have search capabilities that are enhanced.
+> **[2:33](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=153)** And if you read through what those are, you know they're enterprise level stuff like instead of limited [[Cloud Storage]], you have unlimited cloud storage, you have search capabilities that are enhanced.
 >
 > **[2:45](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=165)** You also have the ability to be prepared for litigation or auditing.
 >
@@ -653,7 +647,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=245)** It does include additional Office 365 applications, right?
 >
-> **[4:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=250)** Like Word and Excel, PowerPoint.
+> **[4:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=250)** Like [[Microsoft Word|Word]] and [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[4:11](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980&t=251)** It doesn't matter which one of the three you do here.
 >
@@ -685,24 +679,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (16), [[Microsoft 365]] (8), [[Microsoft Office|Office]] (8), business (7), cloud (4)
+> **Frameworks & Libraries:** [[SharePoint]] (16), [[Microsoft 365]] (8), [[Microsoft Office|Office]] (8), [[Microsoft]] (2), [[Cloud Storage]] (2)
 > **UI Navigation:** click on (2), scroll down (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### SharePoint Online administrators
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-administrators?u=76281980)
+#### [SharePoint Online administrators](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-administrators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-administrators?u=76281980&t=0)** - [Narrator] In order to configure and manage SharePoint Online, you have to have users in your organization who have the appropriate privileges to be able to do so.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-administrators?u=76281980&t=0)** - [Narrator] In order to configure and manage [[SharePoint]] Online, you have to have users in your organization who have the appropriate privileges to be able to do so.
 >
 > **[0:12](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-administrators?u=76281980&t=12)** And so what I want to do here is I want to show you how to go ahead and configure the appropriate roles to be able to manage SharePoint Online.
 >
-> **[0:22](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-administrators?u=76281980&t=22)** So here, on the screen, we're looking at the Microsoft admin center.
+> **[0:22](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-administrators?u=76281980&t=22)** So here, on the screen, we're looking at the [[Microsoft]] admin center.
 >
-> **[0:26](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-administrators?u=76281980&t=26)** Now, this was already open because it opens by default when you first install Microsoft 365.
+> **[0:26](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-administrators?u=76281980&t=26)** Now, this was already open because it opens by default when you first install [[Microsoft 365]].
 >
 > **[0:32](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-administrators?u=76281980&t=32)** If you don't have your browser open and you want to get back here, what you do is you just go to your browser, you put in admin.[microsoft.com](https://microsoft.com).
 >
@@ -804,7 +797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (21), [[Microsoft 365]] (6), next (3), [[Microsoft]] (2), prompt (1)
+> **Frameworks & Libraries:** [[SharePoint]] (21), [[Microsoft 365]] (6), [[Microsoft]] (2)
 > **UI Navigation:** click on (7), go to (1)
 > **Env Vars:** spo (3)
 > **Definitions:** is a  (2), known as (1)
@@ -813,18 +806,17 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [narrator] (1)
 
-#### SharePoint Online admin center
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-admin-center?u=76281980)
+#### [SharePoint Online admin center](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-admin-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-admin-center?u=76281980&t=0)** - [Instructor] In order to manage SharePoint online, we have to know what tools are available to us in order to do so there and there are two main options.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-admin-center?u=76281980&t=0)** - [Instructor] In order to manage [[SharePoint]] online, we have to know what tools are available to us in order to do so there and there are two main options.
 >
 > **[0:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-admin-center?u=76281980&t=10)** We have a graphic option and we have a command shell option.
 >
 > **[0:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-admin-center?u=76281980&t=14)** What I'd like to show you here is the graphical option.
 >
-> **[0:18](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-admin-center?u=76281980&t=18)** So here in the Microsoft 365 Admin Center, you'll notice that on the left-hand margin down near the bottom of that list, there's an option for Show All.
+> **[0:18](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-admin-center?u=76281980&t=18)** So here in the [[Microsoft 365]] Admin Center, you'll notice that on the left-hand margin down near the bottom of that list, there's an option for Show All.
 >
 > **[0:29](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-admin-center?u=76281980&t=29)** When I click on that we get a lot more options and I'm going to go ahead and scroll down to the bottom where you'll see there's a section that says Admin Centers, and we have a list of admin center options and one of them that's on my list says SharePoint, and that is the option that we want because when I click on it, you'll see it opens up a new tab which is for the SharePoint Admin Center.
 >
@@ -890,27 +882,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (16), [[Microsoft 365]] (2), [[Search]] (2), data (1)
+> **Frameworks & Libraries:** [[SharePoint]] (16), [[Microsoft 365]] (2)
 > **UI Navigation:** click on (8), scroll down (1)
 > **Env Vars:** bcs (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### SharePoint Online management shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980)
+#### [SharePoint Online management shell](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=0)** - The other way we can manage SharePoint Online is through the SharePoint Online Management Shell.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=0)** - The other way we can manage [[SharePoint]] Online is through the SharePoint Online Management Shell.
 >
-> **[0:06](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=6)** Okay, so this is a component of Windows PowerShell.
+> **[0:06](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=6)** Okay, so this is a component of [[Windows]] [[Powershell]].
 >
 > **[0:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=10)** So to get to this, the first thing I'm going to do, I'm going to open up a new tab and just take us into our search engine where I'm going to actually just type in exactly what we're looking for.
 >
 > **[0:21](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=21)** SharePoint Online Management Shell.
 >
-> **[0:26](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=26)** And the first option, other than if there's any sponsored ads, the first option should be from Microsoft and it should just say SharePoint Online Management Shell.
+> **[0:26](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=26)** And the first option, other than if there's any sponsored ads, the first option should be from [[Microsoft]] and it should just say SharePoint Online Management Shell.
 >
 > **[0:34](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=34)** Click on that and you'll notice that it says here you need to select the language.
 >
@@ -934,7 +925,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=88)** So now I'm just going to go ahead and click on Start.
 >
-> **[1:31](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=91)** And I'm going to start typing in the word SharePoint and immediately you'll see what pops up is the SharePoint Online Management Shell.
+> **[1:31](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=91)** And I'm going to start typing in the [[Microsoft Word|word]] SharePoint and immediately you'll see what pops up is the SharePoint Online Management Shell.
 >
 > **[1:38](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-management-shell?u=76281980&t=98)** Okay, that's the app that was just installed.
 >
@@ -982,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (13), management (9), [[Security]] (2), hit (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (13), [[Windows]] (1), [[Powershell]] (1), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (5), select the (1)
 > **Prerequisites:** install (2), setup (1)
 > **CLI Commands:** make (2)
@@ -996,14 +987,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating site collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980)
+#### [Creating site collections](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980&t=0)** - [Instructor] So let's take a look at how we can create our own site collections.
 >
-> **[0:04](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980&t=4)** Here in the SharePoint Admin Center, over on the left, you want to make sure that sites is expanded so that you can see active sites.
+> **[0:04](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980&t=4)** Here in the [[SharePoint]] Admin Center, over on the left, you want to make sure that sites is expanded so that you can see active sites.
 >
 > **[0:13](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980&t=13)** If you can't see it, then just go ahead and click the little arrow to expand.
 >
@@ -1011,7 +1001,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980&t=18)** And then click on active sites.
 >
-> **[0:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980&t=20)** Here in the active sites window, we can see all of our current active sites, which we have just the one, the one that was created by default when we installed Microsoft 365, which is a general communication site for the entire organization.
+> **[0:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980&t=20)** Here in the active sites window, we can see all of our current active sites, which we have just the one, the one that was created by default when we installed [[Microsoft 365]], which is a general communication site for the entire organization.
 >
 > **[0:35](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980&t=35)** In fact, you'll notice that the primary admin is even listed as the system account.
 >
@@ -1121,7 +1111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft 365]] (2), next (2), hit (1), management (1)
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft 365]] (2)
 > **UI Navigation:** click on (12), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
@@ -1129,8 +1119,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete site collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980)
+#### [Delete site collections](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,7 +1151,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980&t=67)** You have 93 days," so approximately three months, "to restore this site before it becomes permanently deleted."
 >
-> **[1:15](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980&t=75)** All right, so everything in SharePoint, when it comes to site management, it works with a form of almost like a recycle bin.
+> **[1:15](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980&t=75)** All right, so everything in [[SharePoint]], when it comes to site management, it works with a form of almost like a recycle bin.
 >
 > **[1:23](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980&t=83)** Okay, so you have the ability to undo these actions.
 >
@@ -1180,9 +1169,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980&t=105)** Everything so far is the same, but now this message is different.
 >
-> **[1:49](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980&t=109)** The difference is, with a team site, you'll see that that site belongs to a Microsoft 365 group.
+> **[1:49](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980&t=109)** The difference is, with a team site, you'll see that that site belongs to a [[Microsoft 365]] group.
 >
-> **[1:56](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980&t=116)** So deleting the site will delete the group and all of its resources, including the Outlook mailbox and calendar, any Teams channels that go with this.
+> **[1:56](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980&t=116)** So deleting the site will delete the group and all of its resources, including the [[Microsoft Outlook|Outlook]] mailbox and calendar, any Teams channels that go with this.
 >
 > **[2:05](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delete-site-collections?u=76281980&t=125)** And you don't have 93 days, you only have 30 days to restore the group.
 >
@@ -1230,7 +1219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft 365]] (4), teams (4), next (2), management (1)
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft 365]] (4), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (10), checkbox (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
@@ -1238,8 +1227,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restore site collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/restore-site-collections?u=76281980)
+#### [Restore site collections](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/restore-site-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1279,7 +1267,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/restore-site-collections?u=76281980&t=103)** And you'll notice that I do not have the option to permanently delete that.
 >
-> **[1:48](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/restore-site-collections?u=76281980&t=108)** And the reason is because it's also tied in to a Microsoft 365 group, okay?
+> **[1:48](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/restore-site-collections?u=76281980&t=108)** And the reason is because it's also tied in to a [[Microsoft 365]] group, okay?
 >
 > **[1:55](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/restore-site-collections?u=76281980&t=115)** So that's why you can't do it.
 >
@@ -1303,7 +1291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (4), next (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4)
 > **UI Navigation:** click on (5), go to (1)
 > **Cross-References:** go back to (2), in the last (1)
 > **Analogies:** just like (1), it's like (1)
@@ -1317,8 +1305,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage site collection admins
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980)
+#### [Manage site collection admins](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,7 +1315,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980&t=13)** So let's take a look here how we can assign those users admin privileges on the individual sites.
 >
-> **[0:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980&t=20)** So here we're still looking at the SharePoint admin center, and you'll notice I'm on my active sites and I've got the three of them here.
+> **[0:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980&t=20)** So here we're still looking at the [[SharePoint]] admin center, and you'll notice I'm on my active sites and I've got the three of them here.
 >
 > **[0:28](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980&t=28)** And if I look at the very top one here, which was the CommSite that I created, previous video, if I go over to the right, under the Primary admin column you'll see that I'm listed as the primary admin.
 >
@@ -1366,7 +1353,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980&t=129)** So I'm going to click on TeamSite1 and I'm going to again go to the Permissions tab.
 >
-> **[2:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980&t=134)** And this time you'll see it's just a little bit different, because you have Microsoft 365 group owners, and then down below you have additional admins.
+> **[2:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980&t=134)** And this time you'll see it's just a little bit different, because you have [[Microsoft 365]] group owners, and then down below you have additional admins.
 >
 > **[2:26](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980&t=146)** So let's take a look at this.
 >
@@ -1408,7 +1395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[SharePoint]] (2), [[Microsoft 365]] (2), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (2), [[Microsoft 365]] (2)
 > **Env Vars:** spo (12), url (1)
 > **UI Navigation:** click on (5), go to (1)
 > **CLI Commands:** make (2)
@@ -1417,8 +1404,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage SharePoint hub sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980)
+#### [Manage SharePoint hub sites](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1472,7 +1458,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=130)** So we can see this is a site for Hub site one, and in the upper left you'll see that I can add a link.
 >
-> **[2:17](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=137)** So I'm going to click on that, and in the link here I'm going to go ahead and I'm going to put in LandonHotel483.[sharepoint.com/sites](https://sharepoint.com/sites)/.
+> **[2:17](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=137)** So I'm going to click on that, and in the link here I'm going to go ahead and I'm going to put in LandonHotel483.[[[SharePoint]].com/sites](https://sharepoint.com/sites)/.
 >
 > **[2:32](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharepoint-hub-sites?u=76281980&t=152)** Now everything up to this point, you'll notice it's the same as what we have up in the URL for our, for any of our sites, but now we have to give a name for this other site.
 >
@@ -1518,7 +1504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[SharePoint]] (2)
+> **Frameworks & Libraries:** [[SharePoint]] (2)
 > **UI Navigation:** click on (12), dropdown (2), open the (1), go to (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** url (3), spo (1)
@@ -1527,8 +1513,7 @@ created: 2026-05-02
 > **URLs:** [sharepoint.com](https://sharepoint.com) (1)
 > **Analogies:** just like (1)
 
-#### Manage site collection storage limits
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-storage-limits?u=76281980)
+#### [Manage site collection storage limits](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-storage-limits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,7 +1535,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-storage-limits?u=76281980&t=41)** Nothing about storage limits at all.
 >
-> **[0:43](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-storage-limits?u=76281980&t=43)** In order to manage the storage limits yourself you have to go over to the left side on the SharePoint admin center and select Settings.
+> **[0:43](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-storage-limits?u=76281980&t=43)** In order to manage the storage limits yourself you have to go over to the left side on the [[SharePoint]] admin center and select Settings.
 >
 > **[0:53](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-storage-limits?u=76281980&t=53)** Here in the Settings, you'll notice that right in the middle we have SharePoint site storage limits.
 >
@@ -1600,7 +1585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (2), management (1)
+> **Frameworks & Libraries:** [[SharePoint]] (2)
 > **UI Navigation:** go to (5), click on (5), switch to (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2)
@@ -1612,16 +1597,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add a property for user profiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980)
+#### [Add a property for user profiles](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=0)** - [Instructor] In SharePoint Online, a user profile is a collection of user properties that describe an actual individual user.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=0)** - [Instructor] In [[SharePoint]] Online, a user profile is a collection of user properties that describe an actual individual user.
 >
 > **[0:09](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=9)** And you know, these properties include policies and settings associated with the user.
 >
-> **[0:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=14)** And by default, SharePoint Online user profiles are already populated by the Office 365 directory service.
+> **[0:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=14)** And by default, SharePoint Online user profiles are already populated by the [[Microsoft Office|Office]] 365 directory service.
 >
 > **[0:21](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=21)** So you have some of your basic profile properties, things like first name, last name, stuff like that.
 >
@@ -1709,11 +1693,11 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=226)** So I'll just leave it as Required for right now.
 >
-> **[3:48](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=228)** And then from there, as far as the Default Privacy Setting, you have two options, Only Me or Everyone.
+> **[3:48](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=228)** And then from there, as far as the Default [[Privacy]] Setting, you have two options, Only Me or Everyone.
 >
 > **[3:56](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=236)** Only Me doesn't mean literally me, the person who's doing this right now, but only the person who is actually creating the profile.
 >
-> **[4:05](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=245)** And then Everyone, it's not exactly the same as everyone or like the everyone group that you see in Windows, it means everyone who actually has access to that particular site, okay.
+> **[4:05](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=245)** And then Everyone, it's not exactly the same as everyone or like the everyone group that you see in [[Windows]], it means everyone who actually has access to that particular site, okay.
 >
 > **[4:17](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980&t=257)** Now from there, you'll see there's a number, oh, and I apologize that this just skipped to the top.
 >
@@ -1741,15 +1725,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (5), [[Microsoft Office|Office]] (1), next (1), [[Privacy]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (5), [[Microsoft Office|Office]] (1), [[Privacy]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (5), scroll down (2), go to (1), dropdown (1), checkbox (1)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** is a  (3), is called (1), in other words (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage a property for user profiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-a-property-for-user-profiles?u=76281980)
+#### [Manage a property for user profiles](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-a-property-for-user-profiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1763,7 +1746,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-a-property-for-user-profiles?u=76281980&t=31)** All right.
 >
-> **[0:32](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-a-property-for-user-profiles?u=76281980&t=32)** They've been set up by Microsoft and they really should be there.
+> **[0:32](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-a-property-for-user-profiles?u=76281980&t=32)** They've been set up by [[Microsoft]] and they really should be there.
 >
 > **[0:35](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-a-property-for-user-profiles?u=76281980&t=35)** But if I go down to the bottom, you'll notice that I have three properties that I created.
 >
@@ -1779,7 +1762,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-a-property-for-user-profiles?u=76281980&t=55)** We want to go ahead and we need to make a slight change to it.
 >
-> **[0:59](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-a-property-for-user-profiles?u=76281980&t=59)** Well, you might notice that as I hover over any of these properties, when I do, there's kind of a box that it forms with a little dropdown arrow.
+> **[0:59](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-a-property-for-user-profiles?u=76281980&t=59)** Well, you might notice that as I hover over any of these properties, when I do, there's kind of a box that it [[Forms]] with a little dropdown arrow.
 >
 > **[1:09](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-a-property-for-user-profiles?u=76281980&t=69)** And if I click that, you'll notice that in that dropdown you have edit or delete.
 >
@@ -1843,7 +1826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[Forms]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Forms]] (1)
 > **UI Navigation:** dropdown (3), click on (3), scroll down (2)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (2)
@@ -1851,12 +1834,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add an audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-an-audience?u=76281980)
+#### [Add an audience](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-an-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-an-audience?u=76281980&t=0)** - [Ed] In SharePoint Online, an audience is a group of users that share a common goal, feature, or any other attribute.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-an-audience?u=76281980&t=0)** - [Ed] In [[SharePoint]] Online, an audience is a group of users that share a common goal, feature, or any other attribute.
 >
 > **[0:08](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-an-audience?u=76281980&t=8)** So by grouping selected users into an audience, an organization can personalize information that is set to that group or to that audience, I should say, to ensure that is visible only to the users that are part of that particular audience.
 >
@@ -1954,7 +1936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (3), next (2), feature (1), hit (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3)
 > **UI Navigation:** click on (6), scroll down (1)
 > **Prerequisites:** set up (5)
 > **Env Vars:** abc (4)
@@ -1963,8 +1945,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [ed] (1)
 
-#### Manage an audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-an-audience?u=76281980)
+#### [Manage an audience](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-an-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2048,7 +2029,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **UI Navigation:** click on (6), dropdown (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -2056,18 +2036,18 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Env Vars:** abc (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 6. Configure Customization and Apps
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding an app from the SharePoint Store
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-an-app-from-the-sharepoint-store?u=76281980)
+#### [Adding an app from the SharePoint Store](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-an-app-from-the-sharepoint-store?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-an-app-from-the-sharepoint-store?u=76281980&t=0)** - [Instructor] Apps are small, easy-to-use web applications that add functionality to your SharePoint sites.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-an-app-from-the-sharepoint-store?u=76281980&t=0)** - [Instructor] Apps are small, easy-to-use web applications that add functionality to your [[SharePoint]] sites.
 >
 > **[0:09](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-an-app-from-the-sharepoint-store?u=76281980&t=9)** Now really, they offer unlimited possibilities for customizing your sites in ways that can be very specific to your organization.
 >
@@ -2137,7 +2117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (8), web (1), power (1), management (1), business (1)
+> **Frameworks & Libraries:** [[SharePoint]] (8)
 > **UI Navigation:** click on (8), go to (2)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** find (1)
@@ -2146,12 +2126,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a custom app
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-a-custom-app?u=76281980)
+#### [Adding a custom app](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-a-custom-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-a-custom-app?u=76281980&t=0)** - [Instructor] If we had a need for an app to be added to any of our SharePoint sites that was not available through the SharePoint Store, another option would be to go ahead and have a developer create the app, and then you would have your own custom app that you can actually go ahead and upload to your app catalog so that it can be distributed out to your SharePoint sites.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-a-custom-app?u=76281980&t=0)** - [Instructor] If we had a need for an app to be added to any of our [[SharePoint]] sites that was not available through the SharePoint Store, another option would be to go ahead and have a developer create the app, and then you would have your own custom app that you can actually go ahead and upload to your app catalog so that it can be distributed out to your SharePoint sites.
 >
 > **[0:26](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-a-custom-app?u=76281980&t=26)** So how do we do this?
 >
@@ -2177,7 +2156,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-a-custom-app?u=76281980&t=112)** What I did want to show you with this custom app, however, is that if you want to go ahead and add a new custom app for your SharePoint sites, then you need to go ahead and make sure you selected on Apps for SharePoint.
 >
-> **[2:09](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-a-custom-app?u=76281980&t=129)** Because you'll see there's also an option for Apps for Office.
+> **[2:09](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-a-custom-app?u=76281980&t=129)** Because you'll see there's also an option for Apps for [[Microsoft Office|Office]].
 >
 > **[2:13](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-a-custom-app?u=76281980&t=133)** And you notice when I clicked on it, it kind of went to a modern look, right?
 >
@@ -2210,12 +2189,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure the SharePoint store settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/configure-the-sharepoint-store-settings?u=76281980)
+#### [Configure the SharePoint store settings](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/configure-the-sharepoint-store-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/configure-the-sharepoint-store-settings?u=76281980&t=0)** - [Instructor] The SharePoint store is a public marketplace that offers apps for Microsoft 365, and site users can access the SharePoint store directly from a SharePoint site to browse for and add third-party apps.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/configure-the-sharepoint-store-settings?u=76281980&t=0)** - [Instructor] The [[SharePoint]] store is a public marketplace that offers apps for [[Microsoft 365]], and site users can access the SharePoint store directly from a SharePoint site to browse for and add third-party apps.
 >
 > **[0:13](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/configure-the-sharepoint-store-settings?u=76281980&t=13)** Well, you may want to have some control over this.
 >
@@ -2245,7 +2223,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/configure-the-sharepoint-store-settings?u=76281980&t=80)** And if you do not want your users to be able to get third-party apps, then go ahead and change that to no.
 >
-> **[1:28](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/configure-the-sharepoint-store-settings?u=76281980&t=88)** The other thing that we can configure here is whether to allow apps for Office to start in documents, okay?
+> **[1:28](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/configure-the-sharepoint-store-settings?u=76281980&t=88)** The other thing that we can configure here is whether to allow apps for [[Microsoft Office|Office]] to start in documents, okay?
 >
 > **[1:36](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/configure-the-sharepoint-store-settings?u=76281980&t=96)** And that's the bottom part here, where it says apps for Office from the store.
 >
@@ -2269,12 +2247,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### View app requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/view-app-requests?u=76281980)
+#### [View app requests](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/view-app-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/view-app-requests?u=76281980&t=0)** - [Presenter] If you have configured your SharePoint store settings so that users have to request apps in order to be able to get them, well, we need to be able, as administrators, to know how to go and view these requests and choose whether to approve them or not.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/view-app-requests?u=76281980&t=0)** - [Presenter] If you have configured your [[SharePoint]] store settings so that users have to request apps in order to be able to get them, well, we need to be able, as administrators, to know how to go and view these requests and choose whether to approve them or not.
 >
 > **[0:15](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/view-app-requests?u=76281980&t=15)** So there's a couple different ways that we can do this.
 >
@@ -2334,7 +2311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (3), management (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** go to (2)
@@ -2342,12 +2319,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [presenter] (1)
 
-#### Add an app to a site
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-an-app-to-a-site?u=76281980)
+#### [Add an app to a site](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-an-app-to-a-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-an-app-to-a-site?u=76281980&t=0)** - [Instructor] Once we have made apps available to be added to our SharePoint sites, well, let's take a look at how to actually add an app to a site.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-an-app-to-a-site?u=76281980&t=0)** - [Instructor] Once we have made apps available to be added to our [[SharePoint]] sites, well, let's take a look at how to actually add an app to a site.
 >
 > **[0:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-an-app-to-a-site?u=76281980&t=10)** So here I'm in the SharePoint admin center, and I'm going to go to my active sites, and I'm going to just pick on a site, right?
 >
@@ -2400,8 +2376,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delegating app approval authority
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delegating-app-approval-authority?u=76281980)
+#### [Delegating app approval authority](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delegating-app-approval-authority?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2409,7 +2384,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delegating-app-approval-authority?u=76281980&t=22)** So to do this, all you really have to do is actually make any other user that you want to give this ability, make them an admin of the app catalog site.
 >
-> **[0:35](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delegating-app-approval-authority?u=76281980&t=35)** So here in the SharePoint Admin Center, let's go to our active sites.
+> **[0:35](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delegating-app-approval-authority?u=76281980&t=35)** So here in the [[SharePoint]] Admin Center, let's go to our active sites.
 >
 > **[0:39](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/delegating-app-approval-authority?u=76281980&t=39)** Now, I'd like you to notice that there is a site that has been added that we didn't do here in the course, right?
 >
@@ -2461,12 +2436,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage term sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-term-sets?u=76281980)
+#### [Manage term sets](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-term-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-term-sets?u=76281980&t=0)** - [Narrator] When working with SharePoint, you're going to want to go ahead and organize the metadata in a way that makes sense to make it easier to find things that you're looking for.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-term-sets?u=76281980&t=0)** - [Narrator] When working with [[SharePoint]], you're going to want to go ahead and organize the [[Metadata]] in a way that makes sense to make it easier to find things that you're looking for.
 >
 > **[0:11](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-term-sets?u=76281980&t=11)** Now, this metadata is managed centrally using something called term sets, which are then managed through the term store.
 >
@@ -2604,7 +2578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (2), [[Metadata]] (2), hit (2), management (1)
+> **Frameworks & Libraries:** [[SharePoint]] (2), [[Metadata]] (2)
 > **CLI Commands:** make (5), find (2)
 > **UI Navigation:** click on (6), go to (1)
 > **Env Vars:** spo (3)
@@ -2612,8 +2586,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Import term sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980)
+#### [Import term sets](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2667,7 +2640,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=126)** Now I'm going to right click and I'm going to say that I'm going to open this with Notepad.
 >
-> **[2:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=130)** It is a CSV file, which means Excel would be the default of what we would use, but I find that for the video here it's easier to view in Notepad.
+> **[2:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=130)** It is a CSV file, which means [[Microsoft Excel|Excel]] would be the default of what we would use, but I find that for the video here it's easier to view in Notepad.
 >
 > **[2:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=140)** Okay, so I'm going to open it up in Notepad.
 >
@@ -2677,7 +2650,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=148)** There's a little bit of scrolling over to the right but I basically want to show you the way this file is set up.
 >
-> **[2:34](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=154)** The top line is just going ahead and defining what each value is going to be in the rest of the document.
+> **[2:34](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=154)** The top line is just going ahead and defining what each value is going to be in the [[Representational State Transfer (REST)|rest]] of the document.
 >
 > **[2:44](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=164)** Okay?
 >
@@ -2751,7 +2724,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=318)** And you'll notice that inside of the Demo Term Group we now have department, which is then followed by departments, which is then followed by the engineer HR and marketing departments.
 >
-> **[5:33](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=333)** Now, that's a very, very basic example of a term set but it's what I want you to see so you can try to have an understanding on how to work with this metadata, 'cause this is something that not necessarily every typical manager has worked with.
+> **[5:33](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=333)** Now, that's a very, very basic example of a term set but it's what I want you to see so you can try to have an understanding on how to work with this [[Metadata]], 'cause this is something that not necessarily every typical manager has worked with.
 >
 > **[5:50](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/import-term-sets?u=76281980&t=350)** All right?
 >
@@ -2759,7 +2732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), hr (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Metadata]] (1)
 > **Env Vars:** csv (2), lcid (2)
 > **UI Navigation:** click on (3)
 > **Exercise Files:** download the (2), template (1)
@@ -2773,14 +2746,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage the search schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980)
+#### [Manage the search schema](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=0)** - [Instructor] The search schema controls what users can search for, how users can search it, and how you can present the results on your search websites.
 >
-> **[0:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=10)** Now, when a user searches for content on SharePoint sites search only finds what's in the search index and only shows the results that the user has permissions to see.
+> **[0:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=10)** Now, when a user searches for content on [[SharePoint]] sites search only finds what's in the search index and only shows the results that the user has permissions to see.
 >
 > **[0:21](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=21)** So let's go take a look at some of this.
 >
@@ -2804,7 +2776,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=75)** Search discovers information by crawling items on your site.
 >
-> **[1:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=80)** The discovered content and metadata are called properties of an item.
+> **[1:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=80)** The discovered content and [[Metadata]] are called properties of an item.
 >
 > **[1:24](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=84)** The search schema has a list of crawled properties that helps the crawler decide what content and metadata to extract.
 >
@@ -2844,7 +2816,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=188)** There are some characteristics like if we want it searchable, queryable, retrievable, maybe allow multiple values.
 >
-> **[3:15](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=195)** You'll notice for a refinable and sortable that these are also grayed out with the word no.
+> **[3:15](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=195)** You'll notice for a refinable and sortable that these are also grayed out with the [[Microsoft Word|word]] no.
 >
 > **[3:20](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980&t=200)** So I can't do anything with that.
 >
@@ -2916,21 +2888,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (20), [[SharePoint]] (5), [[Metadata]] (4), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[SharePoint]] (5), [[Metadata]] (4), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (6), scroll down (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage result sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-result-sources?u=76281980)
+#### [Manage result sources](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-result-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-result-sources?u=76281980&t=0)** - [Instructor] Result sources limit searches to certain content or to a subset of search results.
 >
-> **[0:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-result-sources?u=76281980&t=7)** Now, as a SharePoint online administrator, you can manage result sources for all site collections and sites within your tenant.
+> **[0:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-result-sources?u=76281980&t=7)** Now, as a [[SharePoint]] online administrator, you can manage result sources for all site collections and sites within your tenant.
 >
 > **[0:15](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-result-sources?u=76281980&t=15)** If you were a site collection administrator or a site owner, well then, you would be able to manage the result sources for either the site collection or the specific site, respectively.
 >
@@ -3018,7 +2989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), [[SharePoint]] (6)
+> **Frameworks & Libraries:** [[SharePoint]] (6)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), just like (1)
@@ -3026,14 +2997,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage query suggestions
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-query-suggestions?u=76281980)
+#### [Manage query suggestions](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-query-suggestions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-query-suggestions?u=76281980&t=0)** - [Instructor] Query spelling suggestions are words that appear below the search box as a user begins to type a query.
 >
-> **[0:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-query-suggestions?u=76281980&t=7)** Now, SharePoint will automatically create a query suggestion once you have clicked a search result for a query at least six times.
+> **[0:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-query-suggestions?u=76281980&t=7)** Now, [[SharePoint]] will automatically create a query suggestion once you have clicked a search result for a query at least six times.
 >
 > **[0:16](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-query-suggestions?u=76281980&t=16)** These automatic query suggestions are generated daily for each result source and each site collection, so keep in mind that these query suggestions can be different based upon different result sources or site collections.
 >
@@ -3053,7 +3023,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-query-suggestions?u=76281980&t=67)** We either are going to show search suggestions, or you can clear the checkbox, and not show search suggestions, so it's basically just turning it on or off.
 >
-> **[1:16](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-query-suggestions?u=76281980&t=76)** You can choose what language it's going to be in, but the main thing would be down at the bottom, if you want to go ahead and manually add your own suggestions, you have the ability to create a text file, and I mean literally just a text file, open up Notepad or Word or whatever it may be, and it's just going to be a file that's going to have a word on each line, just a word, and then the next line, another word, next line, another word.
+> **[1:16](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-query-suggestions?u=76281980&t=76)** You can choose what language it's going to be in, but the main thing would be down at the bottom, if you want to go ahead and manually add your own suggestions, you have the ability to create a text file, and I mean literally just a text file, open up Notepad or [[Microsoft Word|Word]] or whatever it may be, and it's just going to be a file that's going to have a word on each line, just a word, and then the next line, another word, next line, another word.
 >
 > **[1:44](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-query-suggestions?u=76281980&t=104)** And if you were to import that file, you'll see there's two different places we can import it.
 >
@@ -3077,19 +3047,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Microsoft Word|Word]] (5), [[SharePoint]] (2), next (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[SharePoint]] (2)
 > **UI Navigation:** click on (1), checkbox (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### View search usage reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/view-search-usage-reports?u=76281980)
+#### [View search usage reports](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/view-search-usage-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/view-search-usage-reports?u=76281980&t=0)** - [Instructor] As a SharePoint administrator in your organization, it's possible that you might get asked questions about search usage.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/view-search-usage-reports?u=76281980&t=0)** - [Instructor] As a [[SharePoint]] administrator in your organization, it's possible that you might get asked questions about search usage.
 >
 > **[0:06](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/view-search-usage-reports?u=76281980&t=6)** So, some common examples might be things like what are the top queries on my site?
 >
@@ -3157,7 +3126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3169,16 +3138,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage sharing in SharePoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980)
+#### [Manage sharing in SharePoint](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980&t=0)** - [Instructor] As a Microsoft 365 Global administrator or SharePoint administrator you have the ability to manage your sharing permissions.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980&t=0)** - [Instructor] As a [[Microsoft 365]] Global administrator or [[SharePoint]] administrator you have the ability to manage your sharing permissions.
 >
 > **[0:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980&t=10)** And here's what's interesting.
 >
-> **[0:12](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980&t=12)** Even though this course is specifically about SharePoint we actually manage sharing for both SharePoint and OneDrive in the same place.
+> **[0:12](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980&t=12)** Even though this course is specifically about SharePoint we actually manage sharing for both SharePoint and [[Microsoft OneDrive|OneDrive]] in the same place.
 >
 > **[0:21](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980&t=21)** So let's take a look.
 >
@@ -3314,7 +3282,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980&t=292)** Are they going to be view only or will they have edit capabilities?
 >
-> **[4:55](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980&t=295)** Again, it's more permissive, or least restrictive depending on how you want to word it.
+> **[4:55](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980&t=295)** Again, it's more permissive, or least restrictive depending on how you want to [[Microsoft Word|word]] it.
 >
 > **[5:01](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980&t=301)** You can choose expiration and permissions for any one links.
 >
@@ -3336,7 +3304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (13), [[Microsoft OneDrive|Onedrive]] (12), [[Microsoft 365]] (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (13), [[Microsoft OneDrive|Onedrive]] (12), [[Microsoft 365]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** go back to (1)
@@ -3344,12 +3312,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage access control in SharePoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980)
+#### [Manage access control in SharePoint](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=0)** - [Instructor] Security is a vital component in any SharePoint environment, pretty much as it is in any environment, really.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=0)** - [Instructor] Security is a vital component in any [[SharePoint]] environment, pretty much as it is in any environment, really.
 >
 > **[0:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=7)** But as far as SharePoint's concerned, I'd like to show you one aspect of security which is called access control.
 >
@@ -3357,7 +3324,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=24)** When I click on it, you'll see here that it says "Use these settings to restrict how users are allowed to access content in SharePoint."
 >
-> **[0:31](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=31)** And I will point out that similar to the sharing settings which were managed for both SharePoint and OneDrive in one place, so are these access control settings.
+> **[0:31](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=31)** And I will point out that similar to the sharing settings which were managed for both SharePoint and [[Microsoft OneDrive|OneDrive]] in one place, so are these access control settings.
 >
 > **[0:40](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=40)** We have SharePoint and OneDrive.
 >
@@ -3395,7 +3362,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=143)** You probably have seen that.
 >
-> **[2:24](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=144)** I know I have, especially when you're on a banking application or something like that.
+> **[2:24](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=144)** I know I have, especially when you're on a [[Banking]] application or something like that.
 >
 > **[2:28](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=148)** And those websites, a lot of times they will do that.
 >
@@ -3415,7 +3382,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=187)** And then we have apps that don't use modern authentication.
 >
-> **[3:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=190)** Block access from Office 2010 and other apps that don't enforce device-based restrictions.
+> **[3:10](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=190)** Block access from [[Microsoft Office|Office]] 2010 and other apps that don't enforce device-based restrictions.
 >
 > **[3:18](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-access-control-in-sharepoint?u=76281980&t=198)** Not a whole lot we can do there.
 >
@@ -3431,7 +3398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (8), [[Security]] (7), [[Microsoft OneDrive|Onedrive]] (4), management (2), next (1)
+> **Frameworks & Libraries:** [[SharePoint]] (8), [[Microsoft OneDrive|Onedrive]] (4), [[Banking]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (5), checkbox (1)
 > **Definitions:** is a  (2), is called (1), in other words (1)
 > **Prerequisites:** set up (2), configure (1)
@@ -3444,14 +3411,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SharePoint activity reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980)
+#### [SharePoint activity reports](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980&t=0)** - [Instructor] With activity reports in the Microsoft 365 Admin Center, you can easily see how people in your organization are using the various Microsoft 365 services.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980&t=0)** - [Instructor] With activity reports in the [[Microsoft 365]] Admin Center, you can easily see how people in your organization are using the various Microsoft 365 services.
 >
-> **[0:12](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980&t=12)** Now, one of those services we've been talking about throughout this course, and that is SharePoint.
+> **[0:12](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980&t=12)** Now, one of those services we've been talking about throughout this course, and that is [[SharePoint]].
 >
 > **[0:17](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980&t=17)** So that means that there will be a SharePoint activity log that we can look at.
 >
@@ -3553,7 +3519,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980&t=299)** Well, what does that mean?
 >
-> **[5:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980&t=300)** Well, you'll notice it says Information is concealed for privacy to see identifiable information.
+> **[5:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980&t=300)** Well, you'll notice it says Information is concealed for [[Privacy]] to see identifiable information.
 >
 > **[5:06](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980&t=306)** There's a link here, so if you forget what I'm about to show you, you can just click the link and it will walk you through this.
 >
@@ -3573,7 +3539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (12), [[Microsoft 365]] (10), data (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (12), [[Microsoft 365]] (10), [[Privacy]] (1)
 > **UI Navigation:** click on (6), scroll down (4), checkbox (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -3581,12 +3547,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### SharePoint usage reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-usage-reports?u=76281980)
+#### [SharePoint usage reports](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-usage-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-usage-reports?u=76281980&t=0)** - Another report that we could look at in the Microsoft 365 Admin Center would be the SharePoint Site Usage Report which will help us to understand trends and per site level details for all sites.
+> **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-usage-reports?u=76281980&t=0)** - Another report that we could look at in the [[Microsoft 365]] Admin Center would be the [[SharePoint]] Site Usage Report which will help us to understand trends and per site level details for all sites.
 >
 > **[0:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-usage-reports?u=76281980&t=14)** So real quick, I want to tell you, this is going to be extremely similar to what I just showed you in the Activity Reports video.
 >
@@ -3640,7 +3605,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-usage-reports?u=76281980&t=134)** Additionally, and this is something you can do on both the activity and the usage reports, you do have the ability to download an export of this information.
 >
-> **[2:24](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-usage-reports?u=76281980&t=144)** The only other thing I will also mention is it was covered in the Activity reports video, by default under where it says Site URL, these would all be just random anonymous letters and numbers for privacy.
+> **[2:24](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-usage-reports?u=76281980&t=144)** The only other thing I will also mention is it was covered in the Activity reports video, by default under where it says Site URL, these would all be just random anonymous letters and numbers for [[Privacy]].
 >
 > **[2:39](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-usage-reports?u=76281980&t=159)** But I had showed you how you can go into your org settings and take away that privacy and see the actual information that you're looking for.
 >
@@ -3648,7 +3613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (6), [[Microsoft 365]] (4), [[Privacy]] (2), data (1)
+> **Frameworks & Libraries:** [[SharePoint]] (6), [[Microsoft 365]] (4), [[Privacy]] (2)
 > **UI Navigation:** scroll down (2), click on (2)
 > **Env Vars:** url (1)
 > **Cross-References:** in the last (1)
@@ -3661,22 +3626,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing learning SharePoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/continuing-learning-sharepoint?u=76281980)
+#### [Continuing learning SharePoint](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/continuing-learning-sharepoint?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/continuing-learning-sharepoint?u=76281980&t=0)** - Thank you for joining me in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/continuing-learning-sharepoint?u=76281980&t=2)** I hope you've enjoyed finding out about SharePoint Online as much as I've enjoyed showing it to you.
+> **[0:02](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/continuing-learning-sharepoint?u=76281980&t=2)** I hope you've enjoyed finding out about [[SharePoint]] Online as much as I've enjoyed showing it to you.
 >
-> **[0:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/continuing-learning-sharepoint?u=76281980&t=7)** If you want to learn more about Microsoft 365 products, please explore our library as we have a number of courses out there to help you.
+> **[0:07](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/continuing-learning-sharepoint?u=76281980&t=7)** If you want to learn more about [[Microsoft 365]] [[Microsoft Products|products]], please explore our library as we have a number of courses out there to help you.
 >
 > **[0:15](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/continuing-learning-sharepoint?u=76281980&t=15)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (1), [[Microsoft 365]] (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[SharePoint]] (1), [[Microsoft 365]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - thank (1)
 
 

@@ -147,18 +147,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course structure and outline
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980)
+#### [Course structure and outline](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=1)** - [Dustin] Hey everyone.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=2)** Dustin Cabral here and welcome to Advanced Tableau Desktop.
+> **[0:02](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=2)** Dustin Cabral here and welcome to Advanced [[Tableau]] Desktop.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=6)** If you're ready to build expert level data analysis and visualization skills with Tableau, you've come to the right place.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=14)** This course is a hands-on and project-based deep dive into several advanced Tableau topics, ranging from data relationships and calculations to predictive analytics and dynamic design techniques.
+> **[0:14](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=14)** This course is a hands-on and project-based deep dive into several advanced Tableau topics, ranging from data relationships and calculations to [[Predictive Analytics]] and dynamic design techniques.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=27)** You'll be playing the role of a newly hired analyst for Maven Roasters, a bespoke small batch coffee roasting company.
 >
@@ -168,21 +167,20 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=55)** From there, we'll introduce a range of powerful visualization and design tools, including custom templates, dynamic formats, animations, parameter and set actions, and geospatial mapping.
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=69)** Last but not least, we'll cover advanced calculations like RegEx and custom level of detail expressions, along with powerful predictive analytic tools like regression, forecasting, clustering, and much, much more.
+> **[1:09](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=69)** Last but not least, we'll cover advanced calculations like RegEx and custom level of detail expressions, along with powerful predictive analytic tools like regression, [[Forecasting]], clustering, and much, much more.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=83)** Throughout the course, you'll come across unique opportunities to put your new skills to the test, like analyzing employee earnings for the Boston Police Department, building forecast models for the World Health Organization, and designing geospatial dashboards to help FEMA identify environmental risks.
+> **[1:23](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=83)** Throughout the course, you'll come across unique opportunities to put your new skills to the test, like analyzing employee earnings for the Boston Police Department, building forecast models for the World Health Organization, and designing geospatial [[Dashboards]] to help FEMA identify environmental risks.
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980&t=100)** We've got a lot to cover, so let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), data (3), [[Predictive Analytics]] (1), [[Analytics]] (1), bi (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Predictive Analytics]] (1), [[Forecasting]] (1), [[Dashboards]] (1)
 > **Env Vars:** fema (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [dustin] (1)
 
-#### Introducing the course project
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/introducing-the-course-project?u=76281980)
+#### [Introducing the course project](https://www.linkedin.com/learning/advanced-tableau-desktop/introducing-the-course-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,9 +196,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-tableau-desktop/introducing-the-course-project?u=76281980&t=19)** Maven Roasters needs a way to track their KPIs, compare performance across markets, analyze category profitability, and identify high-value customers.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-tableau-desktop/introducing-the-course-project?u=76281980&t=29)** All you've been given is a folder of Excel files containing information about orders, returns, products, customers, and territories.
+> **[0:29](https://www.linkedin.com/learning/advanced-tableau-desktop/introducing-the-course-project?u=76281980&t=29)** All you've been given is a folder of [[Microsoft Excel|Excel]] files containing information about orders, returns, [[Microsoft Products|products]], customers, and territories.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-tableau-desktop/introducing-the-course-project?u=76281980&t=38)** Your objective is to use Tableau Desktop to create relationships between data sources, design dynamic dashboards and visuals, leverage geospatial mapping features, apply advanced calculations to key business use cases, and integrate predictive analytics assets.
+> **[0:38](https://www.linkedin.com/learning/advanced-tableau-desktop/introducing-the-course-project?u=76281980&t=38)** Your objective is to use [[Tableau]] Desktop to create relationships between data sources, design dynamic [[Dashboards]] and visuals, leverage geospatial mapping features, apply advanced calculations to key business use cases, and integrate [[Predictive Analytics]] assets.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-tableau-desktop/introducing-the-course-project?u=76281980&t=57)** Now that we've introduced the course project, let's give you a sneak peek of what you'll be creating throughout this course.
 >
@@ -242,7 +240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (11), [[Tableau]] (4), data (3), [[Predictive Analytics]] (2), bi (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Predictive Analytics]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1), [[Dashboards]] (1)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -252,12 +250,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980)
+#### [Relationships](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980&t=0)** - [Instructor] Let's kick things off by talking about relationships in Tableau.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980&t=0)** - [Instructor] Let's kick things off by talking about relationships in [[Tableau]].
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980&t=4)** Relationships are part of Tableau's dynamic Data Model interface, which automatically assigns join conditions between related tables without materializing those tables into a single data source.
 >
@@ -267,7 +264,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980&t=36)** This means that relationships will push the join to the viz level, allowing for more possible join scenarios to occur from the same source.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980&t=45)** In addition to reducing the data preparation needed for each source, you're also going to be able to leverage more use cases per source.
+> **[0:45](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980&t=45)** In addition to reducing the [[Data Preparation]] needed for each source, you're also going to be able to leverage more use cases per source.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980&t=52)** This will be accomplished by reducing the number of data sources pulled in to answer those questions as a result of those flexible joins we talked about.
 >
@@ -287,17 +284,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Tableau]] (5), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Data Preparation]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logical and physical layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/logical-and-physical-layers?u=76281980)
+#### [Logical and physical layers](https://www.linkedin.com/learning/advanced-tableau-desktop/logical-and-physical-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/logical-and-physical-layers?u=76281980&t=0)** - [Instructor] Now that we've taken a high-level look at Tableau relationships and what they're used for, let's take a little bit of a deeper dive into the Tableau data model.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/logical-and-physical-layers?u=76281980&t=0)** - [Instructor] Now that we've taken a high-level look at [[Tableau]] relationships and what they're used for, let's take a little bit of a deeper dive into the Tableau data model.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-tableau-desktop/logical-and-physical-layers?u=76281980&t=10)** Tableau Desktop's data model is split into two distinct layers, the logical and the physical layer.
 >
@@ -347,15 +343,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Tableau]] (4), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **Versions:** version 2020 (1), 2020.2 (1)
 > **UI Navigation:** double-click (1)
 > **Best Practices:** pro tip (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relationships vs. joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships-vs-joins?u=76281980)
+#### [Relationships vs. joins](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships-vs-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -389,13 +384,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (1), next (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Requirements for relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/requirements-for-relationships?u=76281980)
+#### [Requirements for relationships](https://www.linkedin.com/learning/advanced-tableau-desktop/requirements-for-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,7 +400,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-tableau-desktop/requirements-for-relationships?u=76281980&t=14)** Try and avoid upfront data source filters when using relationships.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-tableau-desktop/requirements-for-relationships?u=76281980&t=18)** These limit Tableau's auto join-culling features.
+> **[0:18](https://www.linkedin.com/learning/advanced-tableau-desktop/requirements-for-relationships?u=76281980&t=18)** These limit [[Tableau]]'s auto join-culling features.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-tableau-desktop/requirements-for-relationships?u=76281980&t=22)** When using relationships, matching fields must share the same data type.
 >
@@ -431,16 +424,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tableau]] (2), database (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980)
+#### [Creating relationships](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=0)** - [Narrator] Next up, we're going to look at how to create relationships inside Tableau desktop.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=0)** - [Narrator] Next up, we're going to look at how to create relationships inside [[Tableau]] desktop.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=5)** Creating relationships is a similar process to creating joins with your physical tables.
 >
@@ -470,9 +462,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=81)** We'll be talking a bit more about cardinality and referential integrity in the next lesson.
 >
-> **[1:26](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=86)** Also note that relationships are not supported for data source connections, including cube sources, stored procedures, Splunk, JSON, Salesforce, and SAP HANA with the OLAP option chosen.
+> **[1:26](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=86)** Also note that relationships are not supported for data source connections, including cube sources, stored procedures, Splunk, [[JSON]], Salesforce, and SAP HANA with the OLAP option chosen.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=99)** As Tableau releases newer versions of the desktop platform, it will be sure to expand the relationships options to different databases.
+> **[1:39](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=99)** As Tableau releases newer versions of the desktop platform, it will be sure to expand the relationships options to different [[Databases]].
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=108)** Now that we've talked high level about creating relationships, let's go into Tableau Desktop and create a relationship that will be the basis for our workbook going forward.
 >
@@ -480,7 +472,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=122)** We're going to connect to the main Maven Roasters dataset that came in your data packet.
 >
-> **[2:07](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=127)** Let's go over to Microsoft Excel and navigate to the data source.
+> **[2:07](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=127)** Let's go over to [[Microsoft Excel]] and navigate to the data source.
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-tableau-desktop/creating-relationships?u=76281980&t=132)** We're going to select Maven Roasters and click Open.
 >
@@ -576,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (15), data (11), next (9), product (5), [[Search]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (15), [[JSON]] (1), [[Databases]] (1), [[Microsoft Excel]] (1)
 > **Env Vars:** json (1), sap (1), hana (1), olap (1)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Warnings:** note that (3)
@@ -585,12 +577,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Versions:** 2020.2 (1)
 
-#### Optimizing performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/optimizing-performance?u=76281980)
+#### [Optimizing performance](https://www.linkedin.com/learning/advanced-tableau-desktop/optimizing-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/optimizing-performance?u=76281980&t=0)** - [Instructor] Now that we've created our first relationship in Tableau Desktop, let's take a quick look at a how to optimize performance inside the data window.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/optimizing-performance?u=76281980&t=0)** - [Instructor] Now that we've created our first relationship in [[Tableau]] Desktop, let's take a quick look at a how to optimize performance inside the data window.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-tableau-desktop/optimizing-performance?u=76281980&t=9)** Performance options are settings that define cardinality or uniqueness, and referential integrity, or matching records between two tables within a relationship.
 >
@@ -634,18 +625,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Tableau]] (7), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (7)
 > **Warnings:** note that (2), be careful (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2020.2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-fact relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-fact-relationships?u=76281980)
+#### [Multi-fact relationships](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-fact-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-fact-relationships?u=76281980&t=0)** - [Instructor] Okay, so now that we've talked about how to create relationships generally in Tableau Desktop, let's dive a bit deeper into certain types of relationships that involve multiple-base data tables.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-fact-relationships?u=76281980&t=0)** - [Instructor] Okay, so now that we've talked about how to create relationships generally in [[Tableau]] Desktop, let's dive a bit deeper into certain types of relationships that involve multiple-base data tables.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-fact-relationships?u=76281980&t=11)** These data models are called multi-fact relationships.
 >
@@ -749,7 +739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Tableau]] (6), product (3)
+> **Frameworks & Libraries:** [[Tableau]] (6)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -758,12 +748,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interface differences (2020.2)
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/interface-differences-2020-2?u=76281980)
+#### [Interface differences (2020.2)](https://www.linkedin.com/learning/advanced-tableau-desktop/interface-differences-2020-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/interface-differences-2020-2?u=76281980&t=0)** - [Instructor] Before we jump into building visualizations using relationships, let's take a quick look at the interface differences for versions of Tableau 2020.2 and above and those below.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/interface-differences-2020-2?u=76281980&t=0)** - [Instructor] Before we jump into building visualizations using relationships, let's take a quick look at the interface differences for versions of [[Tableau]] 2020.2 and above and those below.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-tableau-desktop/interface-differences-2020-2?u=76281980&t=12)** Versions below 2020.2 do not contain the relationships data model.
 >
@@ -831,15 +820,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Tableau]] (7), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (7)
 > **Versions:** 2020.2 (15)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The 8 R's of relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/the-8-r-s-of-relationships?u=76281980)
+#### [The 8 R's of relationships](https://www.linkedin.com/learning/advanced-tableau-desktop/the-8-r-s-of-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,18 +855,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Contextual joins: Remain
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3950026?u=76281980)
+#### [Contextual joins: Remain](https://www.linkedin.com/learning/advanced-tableau-desktop/3950026?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/3950026?u=76281980&t=0)** - [Presenter] Contextual joins are created and applied at the viz-level and dynamically change the join type based on the combination of dimensions and measures selected.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-tableau-desktop/3950026?u=76281980&t=11)** This is a huge departure from the original Tableau data model, in that model, you design join types upfront, but in the relationships model, you're actually setting up your joins by bringing out fields into the view.
+> **[0:11](https://www.linkedin.com/learning/advanced-tableau-desktop/3950026?u=76281980&t=11)** This is a huge departure from the original [[Tableau]] data model, in that model, you design join types upfront, but in the relationships model, you're actually setting up your joins by bringing out fields into the view.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-tableau-desktop/3950026?u=76281980&t=24)** Two of the most important contextual joins that we'll be going through are remain and relevant.
 >
@@ -948,14 +934,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tableau]] (3), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Contextual joins: Relevant
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3954031?u=76281980)
+#### [Contextual joins: Relevant](https://www.linkedin.com/learning/advanced-tableau-desktop/3954031?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,7 +960,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-tableau-desktop/3954031?u=76281980&t=49)** Because the customer lookup only has store ID fields for three stores, we are actually limiting the number of neighborhoods that we can display due to the inner join.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-tableau-desktop/3954031?u=76281980&t=58)** Let's dive into Tableau Desktop and try out the relevant rule of contextual joins.
+> **[0:58](https://www.linkedin.com/learning/advanced-tableau-desktop/3954031?u=76281980&t=58)** Let's dive into [[Tableau]] Desktop and try out the relevant rule of contextual joins.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-tableau-desktop/3954031?u=76281980&t=63)** Okay, so we're in our workbook and we're looking at our first sheet that we created on Remain.
 >
@@ -1003,12 +988,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Contextual joins: Retain
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/2020020?u=76281980)
+#### [Contextual joins: Retain](https://www.linkedin.com/learning/advanced-tableau-desktop/2020020?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,7 +1004,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-tableau-desktop/2020020?u=76281980&t=19)** If we take a look at our last example where we add in a measure field from one of the tables, we'll be able to see that we've got new null values in our dimensions exposed, and we've got different values exposed in our measures.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-tableau-desktop/2020020?u=76281980&t=32)** This is Tableau's way of exposing measures into the view that may have been filtered out based on the dimensions that you've brought out.
+> **[0:32](https://www.linkedin.com/learning/advanced-tableau-desktop/2020020?u=76281980&t=32)** This is [[Tableau]]'s way of exposing measures into the view that may have been filtered out based on the dimensions that you've brought out.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-tableau-desktop/2020020?u=76281980&t=39)** If we look at the relationships generated from this view, we've got our Sales By Store table coming in with the count value that we've brought in.
 >
@@ -1062,14 +1046,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), next (2), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Contextual joins: Recovered
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3955030?u=76281980)
+#### [Contextual joins: Recovered](https://www.linkedin.com/learning/advanced-tableau-desktop/3955030?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,7 +1068,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-tableau-desktop/3955030?u=76281980&t=36)** This is a particularly useful rule when you want to make sure that you have all the dimensions from a particular table in your view.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-tableau-desktop/3955030?u=76281980&t=44)** Let's jump into Tableau Desktop to see how to apply the recovered rule.
+> **[0:44](https://www.linkedin.com/learning/advanced-tableau-desktop/3955030?u=76281980&t=44)** Let's jump into [[Tableau]] Desktop to see how to apply the recovered rule.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-tableau-desktop/3955030?u=76281980&t=48)** Alright, we're back in Tableau Desktop and we're just going to go ahead and right click on our retain tab, hit duplicate and rename the tab to be four and recovered.
 >
@@ -1109,14 +1092,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Tableau]] (2), hit (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Contextual joins: Represented
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3952030?u=76281980)
+#### [Contextual joins: Represented](https://www.linkedin.com/learning/advanced-tableau-desktop/3952030?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1114,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-tableau-desktop/3952030?u=76281980&t=39)** You can see from the relationships leveraged in the view, we have an inner join between store type and neighborhood, but we're also displaying our quantity sold from our sales by store table.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-tableau-desktop/3952030?u=76281980&t=50)** Let's jump into Tableau Desktop and see how the represented rule works firsthand.
+> **[0:50](https://www.linkedin.com/learning/advanced-tableau-desktop/3952030?u=76281980&t=50)** Let's jump into [[Tableau]] Desktop and see how the represented rule works firsthand.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-tableau-desktop/3952030?u=76281980&t=55)** Alright, so we're back in Tableau Desktop, let's go ahead and create a new sheet and call it, "5. Represented."
 >
@@ -1156,13 +1138,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [presenter] (1)
 
-#### Contextual joins: Removed
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3956019?u=76281980)
+#### [Contextual joins: Removed](https://www.linkedin.com/learning/advanced-tableau-desktop/3956019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1186,7 +1167,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-tableau-desktop/3956019?u=76281980&t=61)** The count field is only being leveraged to filter out those pesky nulls that we saw in the Quantity Sold field.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-tableau-desktop/3956019?u=76281980&t=67)** Let's go ahead and jump into Tableau Desktop and test out the removed rule.
+> **[1:07](https://www.linkedin.com/learning/advanced-tableau-desktop/3956019?u=76281980&t=67)** Let's go ahead and jump into [[Tableau]] Desktop and test out the removed rule.
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-tableau-desktop/3956019?u=76281980&t=72)** Alright, so we're back in Tableau Desktop and we're going to right click on our number five represented, and we're going to duplicate this sheet.
 >
@@ -1204,23 +1185,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Smart aggregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980)
+#### [Smart aggregation](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=0)** - [Instructor] Smart aggregation allows measures to aggregate to the level of detail of their pre-join source.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=6)** With physical layer joins, you have a single table output at the end of your data manipulation.
+> **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=6)** With physical layer joins, you have a single table output at the end of your [[Data Manipulation]].
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=11)** This means that if you've joined tables incorrectly for aggregation, you're going to end up multiplying the records and creating incorrect values that will be represented in your view.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=21)** With smart aggregation, Tableau takes into account which fields you've brought into the view and aggregates based on those.
+> **[0:21](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=21)** With smart aggregation, [[Tableau]] takes into account which fields you've brought into the view and aggregates based on those.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=29)** Rather than the matching fields that you lined up in the initial data source, Tableau only considers the fields that you've brought into the view and the tables referenced when it aggregates the measures inside your view.
 >
@@ -1236,7 +1216,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=77)** For this next step, we're going to create a temporary data source, which will show the join that we're going to compare against the smart aggregation.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=85)** You're going to want to create a new data source connection, choose Excel, and then navigate to your Maven_Roasters data source.
+> **[1:25](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=85)** You're going to want to create a new data source connection, choose [[Microsoft Excel|Excel]], and then navigate to your Maven_Roasters data source.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=93)** Click open, and we'll create our joins.
 >
@@ -1258,7 +1238,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=130)** Now if you know the data being brought into the view, you can already tell that this is going to cause some aggregation issues.
 >
-> **[2:17](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=137)** We've got our sales by store, which obviously has multiple orders with multiple products on it throughout time.
+> **[2:17](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=137)** We've got our sales by store, which obviously has multiple orders with multiple [[Microsoft Products|products]] on it throughout time.
 >
 > **[2:24](https://www.linkedin.com/learning/advanced-tableau-desktop/smart-aggregation?u=76281980&t=144)** We're joining that to the employee lookup and food inventory tabs, which obviously have those same product IDs on them, but we're going to end up replicating records in our sales by store table.
 >
@@ -1324,15 +1304,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Tableau]] (9), next (4), product (2), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (9), [[Data Manipulation]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (9)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Smart aggregation: Replicate
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3951032?u=76281980)
+#### [Smart aggregation: Replicate](https://www.linkedin.com/learning/advanced-tableau-desktop/3951032?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1360,7 +1339,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-tableau-desktop/3951032?u=76281980&t=75)** We actually don't have any fields in the view from our sales by store table.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-tableau-desktop/3951032?u=76281980&t=79)** But Tableau is using those fields as referential joins to be able to connect the store lookup, customer lookup, and food inventory tables.
+> **[1:19](https://www.linkedin.com/learning/advanced-tableau-desktop/3951032?u=76281980&t=79)** But [[Tableau]] is using those fields as referential joins to be able to connect the store lookup, customer lookup, and food inventory tables.
 >
 > **[1:28](https://www.linkedin.com/learning/advanced-tableau-desktop/3951032?u=76281980&t=88)** Remember that with the join, a many-to-many relationship between store lookup and customer lookup tables would multiply the food inventory values to incorrect proportions.
 >
@@ -1398,14 +1377,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** scroll up (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Smart aggregation: Resolve
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3951031?u=76281980)
+#### [Smart aggregation: Resolve](https://www.linkedin.com/learning/advanced-tableau-desktop/3951031?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1429,7 +1407,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-tableau-desktop/3951031?u=76281980&t=55)** The relationships leveraged in this view are the same that we used in the Replicate view.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-tableau-desktop/3951031?u=76281980&t=60)** All we've done here is at a subtotal, and you can see how Tableau has properly done its subtotaling and not over-aggregated.
+> **[1:00](https://www.linkedin.com/learning/advanced-tableau-desktop/3951031?u=76281980&t=60)** All we've done here is at a subtotal, and you can see how [[Tableau]] has properly done its subtotaling and not over-aggregated.
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-tableau-desktop/3951031?u=76281980&t=68)** Remember, subtotals resolve to the measure's native aggregation, which is the Food Inventory Table in this example, and they do not aggregate replicated values across dimensions.
 >
@@ -1449,14 +1427,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), data (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **UI Navigation:** right-click (1), go to (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assignment: Relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-relationships?u=76281980)
+#### [Assignment: Relationships](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1474,24 +1451,23 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-relationships?u=76281980&t=34)** The key will be to create a data source that is extremely flexible, but also provides peace of mind that the values in the report are correct.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-relationships?u=76281980&t=43)** And you'll use Tableau Desktop to connect and transform raw data, relate source tables via matching fields, and provide a starter example analysis sheet for the team.
+> **[0:43](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-relationships?u=76281980&t=43)** And you'll use [[Tableau]] Desktop to connect and transform raw data, relate source tables via matching fields, and provide a starter example analysis sheet for the team.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-relationships?u=76281980&t=54)** Now that we've gone over the homework overview, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), business (1), product (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980)
+#### [Solution: Relationships](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=0)** - [Instructor] So next up, we're going to be going through the homework solution walkthrough for the relationship section of this course.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=7)** Let's start off by connecting to an Excel file to create our workbook, we're going to go over, click Excel file and choose Homework_1_Bookshop.
+> **[0:07](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=7)** Let's start off by connecting to an [[Microsoft Excel|Excel]] file to create our workbook, we're going to go over, click Excel file and choose Homework_1_Bookshop.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=17)** We'll choose Open to open up the data source.
 >
@@ -1511,7 +1487,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=61)** Now we'll bring other tables into the relationship view to establish our relationships.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=66)** We're going to do this fairly quickly because Tableau is smart enough to choose most of the matching fields that we need.
+> **[1:06](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=66)** We're going to do this fairly quickly because [[Tableau]] is smart enough to choose most of the matching fields that we need.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=73)** Let's go ahead and drag out our Author table and the matching fields that we need for this one is Author ID, so we're all set there.
 >
@@ -1657,7 +1633,7 @@ created: 2026-05-02
 >
 > **[8:23](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=503)** We'll go ahead and rename this Recover and then we'll slightly modify the view.
 >
-> **[8:28](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=508)** We're going to go ahead and double click on Author Count, and that will generate the rest of the authors that we wanted to see inside this view.
+> **[8:28](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=508)** We're going to go ahead and double click on Author Count, and that will generate the [[Representational State Transfer (REST)|rest]] of the authors that we wanted to see inside this view.
 >
 > **[8:37](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-relationships?u=76281980&t=517)** As a reminder, the recover rule states that we can recover unmatched dimensions by bringing in the respective count field of the table in question.
 >
@@ -1733,7 +1709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (19), [[Tableau]] (5), data (4), [[Microsoft Excel|Excel]] (2), hit (2)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (5), go to (2), select the (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** id1 (1), id2 (1), isbn (1)
@@ -1746,14 +1722,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dynamic design
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/dynamic-design?u=76281980)
+#### [Dynamic design](https://www.linkedin.com/learning/advanced-tableau-desktop/dynamic-design?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/dynamic-design?u=76281980&t=0)** - [Instructor] Welcome to the dynamic design section of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-tableau-desktop/dynamic-design?u=76281980&t=3)** Dynamic design covers areas of dashboard creation that fall beyond basic sheet construction and interaction used in standard dashboards.
+> **[0:03](https://www.linkedin.com/learning/advanced-tableau-desktop/dynamic-design?u=76281980&t=3)** Dynamic design covers areas of dashboard creation that fall beyond basic sheet construction and interaction used in standard [[Dashboards]].
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-tableau-desktop/dynamic-design?u=76281980&t=13)** To make your dashboard design stand out, we'll focus on visual appeal, flexibility, and interactivity.
 >
@@ -1773,8 +1748,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visual appeal
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/visual-appeal?u=76281980)
+#### [Visual appeal](https://www.linkedin.com/learning/advanced-tableau-desktop/visual-appeal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1786,7 +1760,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-tableau-desktop/visual-appeal?u=76281980&t=20)** The first revolves around background templates.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-tableau-desktop/visual-appeal?u=76281980&t=23)** Background templates provide visual frameworks for developers to build dashboards.
+> **[0:23](https://www.linkedin.com/learning/advanced-tableau-desktop/visual-appeal?u=76281980&t=23)** Background templates provide visual frameworks for developers to build [[Dashboards]].
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-tableau-desktop/visual-appeal?u=76281980&t=28)** Templates are both creative and practical tools for design.
 >
@@ -1794,33 +1768,32 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-tableau-desktop/visual-appeal?u=76281980&t=39)** The second piece of visual appeal that we'll be diving into relates to information indicators.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-tableau-desktop/visual-appeal?u=76281980&t=45)** Information indicators come in many forms, including KPI shapes, info icons, and instruction and commentary, popups.
+> **[0:45](https://www.linkedin.com/learning/advanced-tableau-desktop/visual-appeal?u=76281980&t=45)** Information indicators come in many [[Forms]], including KPI shapes, info icons, and instruction and commentary, popups.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-tableau-desktop/visual-appeal?u=76281980&t=54)** These devices communicate complimentary data to better inform consumers of dashboards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (2), [[Analytics]] (1), [[Forms]] (1), data (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Forms]] (1)
 > **Env Vars:** kpi (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Background templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980)
+#### [Background templates](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=0)** - [Narrator] Background templates provide visual structure for developers to build stunning dashboards.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=0)** - [Narrator] Background templates provide visual structure for developers to build stunning [[Dashboards]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=6)** Templates can speed up development time and increase visual appeal for your analytic tools.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=12)** Background templates are created using both internal and external tools.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=17)** In most cases, people have access to PowerPoint, which is why we'll be demonstrating it in this lesson.
+> **[0:17](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=17)** In most cases, people have access to [[Microsoft PowerPoint|PowerPoint]], which is why we'll be demonstrating it in this lesson.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=23)** But if you have something else like InDesign or another graphic design tool that you're familiar with, please feel free to use that.
+> **[0:23](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=23)** But if you have something else like InDesign or another [[Graphic Design]] tool that you're familiar with, please feel free to use that.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=30)** The two major steps in creating background templates involve creating the visual background in a tool like PowerPoint, saving it as an image, and then creating your Tableau sheets in your workbook.
+> **[0:30](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=30)** The two major steps in creating background templates involve creating the visual background in a tool like PowerPoint, saving it as an image, and then creating your [[Tableau]] sheets in your workbook.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-tableau-desktop/background-templates?u=76281980&t=42)** Once this is accomplished, you can combine those two pieces of work into one holistic dashboard with a background image and sheets overlaid.
 >
@@ -1948,7 +1921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (18), [[Tableau]] (9), [[Dashboards]] (3), data (2), [[Graphic Design]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (18), [[Tableau]] (9), [[Dashboards]] (3), [[Graphic Design]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Env Vars:** kpi (2)
 > **Cross-References:** go back to (1), we mentioned (1)
@@ -1957,11 +1930,9 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### KPI shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/kpi-shapes?u=76281980)
+#### [KPI shapes](https://www.linkedin.com/learning/advanced-tableau-desktop/kpi-shapes?u=76281980)
 
-#### Info icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/info-icons?u=76281980)
+#### [Info icons](https://www.linkedin.com/learning/advanced-tableau-desktop/info-icons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1985,7 +1956,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-tableau-desktop/info-icons?u=76281980&t=57)** It's a free icon website but you can use your favorite icon or whatever you think your end user customer would appreciate.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-tableau-desktop/info-icons?u=76281980&t=64)** Now the icon here that we're going to leverage you should have in your download data package and you can take that and you can just drop it in your My Tableau repository, which is located in your documents folder.
+> **[1:04](https://www.linkedin.com/learning/advanced-tableau-desktop/info-icons?u=76281980&t=64)** Now the icon here that we're going to leverage you should have in your download data package and you can take that and you can just drop it in your My [[Tableau]] repository, which is located in your documents folder.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-tableau-desktop/info-icons?u=76281980&t=76)** You can drop this shape inside the shapes folder.
 >
@@ -2023,7 +1994,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/advanced-tableau-desktop/info-icons?u=76281980&t=165)** So now that we know that these sheets will go to this dashboard and we'll just drag our other dashboard in here and we can make Maven Roasters detail in red.
 >
-> **[2:55](https://www.linkedin.com/learning/advanced-tableau-desktop/info-icons?u=76281980&t=175)** So this is a pretty easy way to associate sheets to dashboards.
+> **[2:55](https://www.linkedin.com/learning/advanced-tableau-desktop/info-icons?u=76281980&t=175)** So this is a pretty easy way to associate sheets to [[Dashboards]].
 >
 > **[2:59](https://www.linkedin.com/learning/advanced-tableau-desktop/info-icons?u=76281980&t=179)** You can do it however you'd like, but I prefer to have my dashboard match my sheet color so that I know which sheets go to the dashboard without any other prompting.
 >
@@ -2131,7 +2102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (7), next (6), hit (5), [[Search]] (2), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Dashboards]] (1)
 > **CLI Commands:** make (11)
 > **UI Navigation:** click on (4), select the (3), go to (2)
 > **Env Vars:** kpi (3)
@@ -2140,8 +2111,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Instructions and commentary
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/instructions-commentary?u=76281980)
+#### [Instructions and commentary](https://www.linkedin.com/learning/advanced-tableau-desktop/instructions-commentary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2149,7 +2119,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-tableau-desktop/instructions-commentary?u=76281980&t=4)** Instructions and commentary provide end users with helpful reference points to better utilize and understand your dashboard.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-tableau-desktop/instructions-commentary?u=76281980&t=13)** Now, instructions and commentary aren't just for advanced dashboards, like the ones that we're creating throughout this course.
+> **[0:13](https://www.linkedin.com/learning/advanced-tableau-desktop/instructions-commentary?u=76281980&t=13)** Now, instructions and commentary aren't just for advanced [[Dashboards]], like the ones that we're creating throughout this course.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-tableau-desktop/instructions-commentary?u=76281980&t=20)** They can be used to display simple information about the interactivity and usability of your dashboard, no matter what analytics you're presenting to your end user.
 >
@@ -2195,7 +2165,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/advanced-tableau-desktop/instructions-commentary?u=76281980&t=184)** So it's pretty straightforward.
 >
-> **[3:06](https://www.linkedin.com/learning/advanced-tableau-desktop/instructions-commentary?u=76281980&t=186)** We're going to jump into both PowerPoint and Tableau just to give you an idea of what that will look like.
+> **[3:06](https://www.linkedin.com/learning/advanced-tableau-desktop/instructions-commentary?u=76281980&t=186)** We're going to jump into both [[Microsoft PowerPoint|PowerPoint]] and [[Tableau]] just to give you an idea of what that will look like.
 >
 > **[3:13](https://www.linkedin.com/learning/advanced-tableau-desktop/instructions-commentary?u=76281980&t=193)** As we mentioned in prior lessons, you don't have to use PowerPoint to develop these overlays or any other custom images.
 >
@@ -2361,7 +2331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), hit (8), next (6), [[Tableau]] (3), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (8), [[Tableau]] (3), [[Dashboards]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (2), go to (2), switch to (1), navigate to (1)
 > **Env Vars:** png (2), kpi (1)
@@ -2370,8 +2340,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flexibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/flexibility?u=76281980)
+#### [Flexibility](https://www.linkedin.com/learning/advanced-tableau-desktop/flexibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2389,7 +2358,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-tableau-desktop/flexibility?u=76281980&t=36)** This will allow the end user to dynamically change your dimensions and measures within a visualization, and therefore, consolidate many other visualizations that they might have had to create.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-tableau-desktop/flexibility?u=76281980&t=46)** And you can think of this as taking the place of creating a PowerPoint slide deck with 10 different versions of the same chart, but with different measures and split by different categories and dimensions.
+> **[0:46](https://www.linkedin.com/learning/advanced-tableau-desktop/flexibility?u=76281980&t=46)** And you can think of this as taking the place of creating a [[Microsoft PowerPoint|PowerPoint]] slide deck with 10 different versions of the same chart, but with different measures and split by different categories and dimensions.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-tableau-desktop/flexibility?u=76281980&t=59)** Instead, you'll create field swapping flexible measures and dimensions that can take the place of many visualizations.
 >
@@ -2405,7 +2374,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-tableau-desktop/flexibility?u=76281980&t=111)** But in the case that you want to change out a visualization and you want to have visualizations layered in the same space of your dashboard, then you're going to leverage containers for that.
 >
-> **[2:00](https://www.linkedin.com/learning/advanced-tableau-desktop/flexibility?u=76281980&t=120)** Now, as we mentioned, there's a lot to flexibility in dashboards, and this entire section is dedicated to enhancing the dynamic nature of your dashboard and giving the end user many flexible options for consuming their information.
+> **[2:00](https://www.linkedin.com/learning/advanced-tableau-desktop/flexibility?u=76281980&t=120)** Now, as we mentioned, there's a lot to flexibility in [[Dashboards]], and this entire section is dedicated to enhancing the dynamic nature of your dashboard and giving the end user many flexible options for consuming their information.
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-tableau-desktop/flexibility?u=76281980&t=135)** Don't forget that the user attention span is relatively short, and we want to keep them engaged with the dashboard at all times.
 >
@@ -2417,20 +2386,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Analytics]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Dashboards]] (1)
 > **Cross-References:** we mentioned (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-dimensions?u=76281980)
+#### [Multi-dimensions](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-dimensions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-dimensions?u=76281980&t=0)** - [Instructor] Our first section related to flexibility and field swapping is going to be multi-dimensions.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-dimensions?u=76281980&t=6)** Multi-dimensions enable users to dynamically swap out dimension fields used in Tableau visualizations.
+> **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-dimensions?u=76281980&t=6)** Multi-dimensions enable users to dynamically swap out dimension fields used in [[Tableau]] visualizations.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-dimensions?u=76281980&t=12)** These can be typically created in three simple steps.
 >
@@ -2680,7 +2648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), hit (7), [[Tableau]] (4), next (4), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **UI Navigation:** click on (3), go to (3), dropdown (2), select the (1)
 > **Env Vars:** case (6), datename (1)
 > **CLI Commands:** make (2), snap (1)
@@ -2688,14 +2656,13 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-measures?u=76281980)
+#### [Multi-measures](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-measures?u=76281980&t=0)** - [Instructor] All right, so the second piece of our field swapping flexibility type is multi-measures.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-measures?u=76281980&t=6)** Now, multi-measures will enable users to dynamically swap out measures used in Tableau visualizations.
+> **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-measures?u=76281980&t=6)** Now, multi-measures will enable users to dynamically swap out measures used in [[Tableau]] visualizations.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-tableau-desktop/multi-measures?u=76281980&t=12)** These will be created very similarly to our multi-dimensions, but there are some differences between multi-dimensions and multi-measures and what you should be concerned about when you're creating them.
 >
@@ -2957,7 +2924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), hit (4), [[Tableau]] (3), power (1), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **Env Vars:** yoy (8), sum (5), case (4), end (4), countd (3)
 > **CLI Commands:** make (8), find (1)
 > **UI Navigation:** right-click (5)
@@ -2966,8 +2933,7 @@ created: 2026-05-02
 > **Definitions:** we call this (1), is a  (1)
 > **Best Practices:** pro tip (2)
 
-#### Pro tip: Dynamic formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-dynamic-formatting?u=76281980)
+#### [Pro tip: Dynamic formatting](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-dynamic-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2979,7 +2945,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-dynamic-formatting?u=76281980&t=21)** Some of those you'll want to display in dollars, maybe in thousands, and some of those you'll want to display as a percent with several decimal places.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-dynamic-formatting?u=76281980&t=29)** So it can be pretty tricky to do that in one measure field, and it's almost impossible to do with just the native formatting that Tableau gives you.
+> **[0:29](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-dynamic-formatting?u=76281980&t=29)** So it can be pretty tricky to do that in one measure field, and it's almost impossible to do with just the native formatting that [[Tableau]] gives you.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-dynamic-formatting?u=76281980&t=38)** To pull off our dynamic formatting, we're going to leverage some additional multi-select labels and aggregation calculations that can be used to customize our formats.
 >
@@ -3255,15 +3221,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), hit (4), [[Tableau]] (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **CLI Commands:** make (10), find (1)
 > **UI Navigation:** click on (2), switch to (2)
 > **Best Practices:** pro tip (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sheet selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980)
+#### [Sheet selectors](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3281,7 +3246,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=41)** Sheet selectors are especially useful to maintain user engagement and to keep dashboard space clean and focused.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=49)** Dashboards can become quickly cluttered with too many visualizations and too much going on, and this can end up leaving your user confused and overwhelmed.
+> **[0:49](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=49)** [[Dashboards]] can become quickly cluttered with too many visualizations and too much going on, and this can end up leaving your user confused and overwhelmed.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=58)** Sheet selectors can help you create many different pieces of analytics for your users to interact with, but have them layered in the same space.
 >
@@ -3311,7 +3276,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=136)** And of course you'll have your parameter selector somewhere on the dashboard for the end user to interact with, and that's simply pushing to your calculated field, which is in turn affecting your filter.
 >
-> **[2:27](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=147)** Now that we've looked at sheet selectors high level, let's jump into Tableau Desktop and create some of our own.
+> **[2:27](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=147)** Now that we've looked at sheet selectors high level, let's jump into [[Tableau]] Desktop and create some of our own.
 >
 > **[2:33](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=153)** Alright, so now we're back in Tableau Desktop and we're looking at our bar chart multi-dim/multi-measure page.
 >
@@ -3423,7 +3388,7 @@ created: 2026-05-02
 >
 > **[7:09](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=429)** We're going to change this to size 22 bold, which will give it a nice big feel.
 >
-> **[7:14](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=434)** And then we're going to clean up the rest of the tool tip.
+> **[7:14](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=434)** And then we're going to clean up the [[Representational State Transfer (REST)|rest]] of the tool tip.
 >
 > **[7:19](https://www.linkedin.com/learning/advanced-tableau-desktop/sheet-selectors?u=76281980&t=439)** So the rest, we really just want our pre, our mid and our post.
 >
@@ -3661,7 +3626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (13), hit (11), [[Tableau]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (9), find (6)
 > **UI Navigation:** click on (5), go to (2), switch to (1)
 > **Cross-References:** we talked about (1), we mentioned (1)
@@ -3669,8 +3634,7 @@ created: 2026-05-02
 > **Env Vars:** ad9024 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter menus
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/filter-menus?u=76281980)
+#### [Filter menus](https://www.linkedin.com/learning/advanced-tableau-desktop/filter-menus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3714,7 +3678,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-tableau-desktop/filter-menus?u=76281980&t=149)** But in the case that you do, this is a really handy tool and it allows you to free up a lot more creative space for yourself for your actual visualizations that you're designing for the end user.
 >
-> **[2:41](https://www.linkedin.com/learning/advanced-tableau-desktop/filter-menus?u=76281980&t=161)** Alright, so let's just hop into Tableau Desktop and apply our filter menu to our dashboard.
+> **[2:41](https://www.linkedin.com/learning/advanced-tableau-desktop/filter-menus?u=76281980&t=161)** Alright, so let's just hop into [[Tableau]] Desktop and apply our filter menu to our dashboard.
 >
 > **[2:47](https://www.linkedin.com/learning/advanced-tableau-desktop/filter-menus?u=76281980&t=167)** Okay, so we're back in Tableau Desktop and we've already almost completed the first step of this just by showing our container that had all of our filters in it.
 >
@@ -3834,7 +3798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Tableau]] (3), next (3), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **UI Navigation:** go to (6), select the (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** make (3)
@@ -3847,8 +3811,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interactivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/interactivity?u=76281980)
+#### [Interactivity](https://www.linkedin.com/learning/advanced-tableau-desktop/interactivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3874,13 +3837,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (2)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Parameter actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/parameter-actions?u=76281980)
+#### [Parameter actions](https://www.linkedin.com/learning/advanced-tableau-desktop/parameter-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3930,15 +3891,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** dropdown (2), go to (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Parameter actions: Multi-measure
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3950025?u=76281980)
+#### [Parameter actions: Multi-measure](https://www.linkedin.com/learning/advanced-tableau-desktop/3950025?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3968,7 +3927,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-tableau-desktop/3950025?u=76281980&t=123)** We're just changing the interface that's going to push the value to the other calculations that we've created.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-tableau-desktop/3950025?u=76281980&t=130)** So let's jump in Tableau Desktop and create our multi-measure parameter action.
+> **[2:10](https://www.linkedin.com/learning/advanced-tableau-desktop/3950025?u=76281980&t=130)** So let's jump in [[Tableau]] Desktop and create our multi-measure parameter action.
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-tableau-desktop/3950025?u=76281980&t=135)** Alright, so now we're in Tableau Desktop, we're going to go ahead and go to our BAN sales tab and we're going to create a calculated field, just right click in the white space here and that calculated field will be called "Parameter Action - Sales."
 >
@@ -4048,7 +4007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), next (3), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Env Vars:** ban (8), kpi (1)
 > **UI Navigation:** dropdown (2), select the (2), go to (2), click on (2)
 > **CLI Commands:** make (2), find (1)
@@ -4056,12 +4015,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Parameter actions: Index chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3956017?u=76281980)
+#### [Parameter actions: Index chart](https://www.linkedin.com/learning/advanced-tableau-desktop/3956017?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/3956017?u=76281980&t=0)** - [Instructor] Alright, so next up, we're going to be leveraging parameter actions to create an index chart in Tableau.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/3956017?u=76281980&t=0)** - [Instructor] Alright, so next up, we're going to be leveraging parameter actions to create an index chart in [[Tableau]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-tableau-desktop/3956017?u=76281980&t=7)** Index charts allow for dynamic relative time comparison along an axis.
 >
@@ -4165,7 +4123,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/advanced-tableau-desktop/3956017?u=76281980&t=273)** I'm going to right click on that and just choose dual axis.
 >
-> **[4:37](https://www.linkedin.com/learning/advanced-tableau-desktop/3956017?u=76281980&t=277)** That's good, and then we're going to go ahead, and we're not going to synchronize the axis here 'cause we actually have different value types, but we will change the type from bar to circle just so we can see the rest of the visualization.
+> **[4:37](https://www.linkedin.com/learning/advanced-tableau-desktop/3956017?u=76281980&t=277)** That's good, and then we're going to go ahead, and we're not going to synchronize the axis here 'cause we actually have different value types, but we will change the type from bar to circle just so we can see the [[Representational State Transfer (REST)|rest]] of the visualization.
 >
 > **[4:50](https://www.linkedin.com/learning/advanced-tableau-desktop/3956017?u=76281980&t=290)** So our bars are really our difference from our index date, and then the circles are actual values.
 >
@@ -4277,18 +4235,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), hit (5), [[Tableau]] (4), data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (10), click on (7), dropdown (3), scroll down (2)
 > **CLI Commands:** make (5), find (1)
 > **Ports:** :00 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parameter actions: Year-over-year
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3953018?u=76281980)
+#### [Parameter actions: Year-over-year](https://www.linkedin.com/learning/advanced-tableau-desktop/3953018?u=76281980)
 
-#### Parameter actions: Sheet selector
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980)
+#### [Parameter actions: Sheet selector](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4306,7 +4262,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=46)** You'll actually be creating visualizations that are customized to look a little better, feel a little bit more like an app, but will still drive that same action that will change out your visualization.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=58)** All right, so let's jump into Tableau Desktop and create a sheet selector that's driven by parameter actions.
+> **[0:58](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=58)** All right, so let's jump into [[Tableau]] Desktop and create a sheet selector that's driven by parameter actions.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=64)** So what we're going to do is create a new sheet.
 >
@@ -4316,7 +4272,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=78)** All right, so first up we're going to go ahead and add a new data source.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=82)** And if this wasn't provided to you within the course, normally if I was going to develop this on my own, I would just add some free text to an Excel sheet, copy, and directly paste into my workbook.
+> **[1:22](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=82)** And if this wasn't provided to you within the course, normally if I was going to develop this on my own, I would just add some free text to an [[Microsoft Excel|Excel]] sheet, copy, and directly paste into my workbook.
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=96)** That would actually add a data source up here on the top left straight into the workbook just from copying and pasting.
 >
@@ -4324,7 +4280,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=111)** So you should find it in your packet.
 >
-> **[1:53](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=113)** All we need to do is go to New Data Source, Microsoft Excel, and it should be called Maven Roasters Parameter Action Sheet Selector.
+> **[1:53](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=113)** All we need to do is go to New Data Source, [[Microsoft Excel]], and it should be called Maven Roasters Parameter Action Sheet Selector.
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-tableau-desktop/3951027?u=76281980&t=124)** So it's a big name for a little data source.
 >
@@ -4690,15 +4646,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (16), next (10), data (7), [[Tableau]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Excel]] (1)
 > **UI Navigation:** go to (13), right-click (11), click on (9), dropdown (1)
 > **CLI Commands:** make (16), find (2)
 > **Cross-References:** go back to (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parameter actions: Relative dimensional analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3955027?u=76281980)
+#### [Parameter actions: Relative dimensional analysis](https://www.linkedin.com/learning/advanced-tableau-desktop/3955027?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4734,7 +4689,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-tableau-desktop/3955027?u=76281980&t=124)** In our view in particular, we're going to be showing this vibrantly in the color scale, and this will give the end user an immediate point of feedback based on what they select on.
 >
-> **[2:13](https://www.linkedin.com/learning/advanced-tableau-desktop/3955027?u=76281980&t=133)** Now that we have a high level overview of what relative dimensional analysis is and how we do it, let's go ahead and go into Tableau desktop and create the relative dimensional analysis calculations and parameter actions in our workbook.
+> **[2:13](https://www.linkedin.com/learning/advanced-tableau-desktop/3955027?u=76281980&t=133)** Now that we have a high level overview of what relative dimensional analysis is and how we do it, let's go ahead and go into [[Tableau]] desktop and create the relative dimensional analysis calculations and parameter actions in our workbook.
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-tableau-desktop/3955027?u=76281980&t=147)** Alright, so we're back in our workbook.
 >
@@ -4906,15 +4861,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), product (3), hit (3), data (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** click on (10), go to (3)
 > **CLI Commands:** make (2)
 > **Analogies:** kind of like (1), just like (1)
 > **Env Vars:** lod (1)
 > **Speakers:** - [narrator] (1)
 
-#### Set actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/set-actions?u=76281980)
+#### [Set actions](https://www.linkedin.com/learning/advanced-tableau-desktop/set-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4928,7 +4882,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-tableau-desktop/set-actions?u=76281980&t=29)** As a result, sets can be combined with calculations and filters in a much more dynamic way.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-tableau-desktop/set-actions?u=76281980&t=35)** Set actions can actually be used to modify calculations, filters, reference lines, SQL queries, and visualizations.
+> **[0:35](https://www.linkedin.com/learning/advanced-tableau-desktop/set-actions?u=76281980&t=35)** Set actions can actually be used to modify calculations, filters, reference lines, [[SQL]] queries, and visualizations.
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-tableau-desktop/set-actions?u=76281980&t=44)** On the fly analysis with set actions is a huge asset to our end users as they interact with their visualizations.
 >
@@ -4960,7 +4914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Prerequisites:** you need to have (1), set up (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
@@ -4969,8 +4923,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Set actions: Proportional brushing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3952025?u=76281980)
+#### [Set actions: Proportional brushing](https://www.linkedin.com/learning/advanced-tableau-desktop/3952025?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4984,7 +4937,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-tableau-desktop/3952025?u=76281980&t=33)** Having this as a dynamic visualization that we can select at will is very helpful for the end user to perform those ad hoc analyses.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-tableau-desktop/3952025?u=76281980&t=42)** So if individuals within a company know that beverages is the leader in terms of categories for their products, but they want to know the exact details, they can go ahead and just click on the Beverages icon and it will tell that to them.
+> **[0:42](https://www.linkedin.com/learning/advanced-tableau-desktop/3952025?u=76281980&t=42)** So if individuals within a company know that beverages is the leader in terms of categories for their [[Microsoft Products|products]], but they want to know the exact details, they can go ahead and just click on the Beverages icon and it will tell that to them.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-tableau-desktop/3952025?u=76281980&t=56)** Additionally, Proportional Brushing doesn't require much modification to your original visualization.
 >
@@ -5000,7 +4953,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-tableau-desktop/3952025?u=76281980&t=95)** And we have our set action, which we're going to customize and push from our Custom Icons sheet into our Visualizations sheet.
 >
-> **[1:44](https://www.linkedin.com/learning/advanced-tableau-desktop/3952025?u=76281980&t=104)** Now that we've got a high-level look at what Proportional Brushing is, let's dive into Tableau Desktop and create our own Proportional Brushing set action.
+> **[1:44](https://www.linkedin.com/learning/advanced-tableau-desktop/3952025?u=76281980&t=104)** Now that we've got a high-level look at what Proportional Brushing is, let's dive into [[Tableau]] Desktop and create our own Proportional Brushing set action.
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-tableau-desktop/3952025?u=76281980&t=114)** All right, so we're back in Tableau Desktop, and we're going to go ahead and apply our Proportional Brushing set action features.
 >
@@ -5390,15 +5343,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), next (8), hit (8), [[Tableau]] (4), data (2)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (13), right-click (11), go to (5), double-click (2), select the (1)
 > **CLI Commands:** make (12), snap (1)
 > **Cross-References:** go back to (3), we mentioned (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set actions: Asymmetric drilldown
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3953017?u=76281980)
+#### [Set actions: Asymmetric drilldown](https://www.linkedin.com/learning/advanced-tableau-desktop/3953017?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5406,7 +5358,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-tableau-desktop/3953017?u=76281980&t=7)** Asymmetric drilldown provides hierarchy drilldown for a selected dimension while leaving other dimensions compressed.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-tableau-desktop/3953017?u=76281980&t=15)** With normal Tableau hierarchy functionality, you'll click on a product group, as in this example, and it will show all product groups open up for all product detail, which will be your next sub dimension to open up.
+> **[0:15](https://www.linkedin.com/learning/advanced-tableau-desktop/3953017?u=76281980&t=15)** With normal [[Tableau]] hierarchy functionality, you'll click on a product group, as in this example, and it will show all product groups open up for all product detail, which will be your next sub dimension to open up.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-tableau-desktop/3953017?u=76281980&t=29)** But with asymmetric drilldown driven by set actions, you'll be able to select a specific dimension and open up a specific dimensions sub dimension values.
 >
@@ -5540,12 +5492,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (15), next (5), [[Tableau]] (3), hit (2), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **UI Navigation:** click on (8), go to (3)
 > **Speakers:** - [instructor] (1)
 
-#### Set actions: Color scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3955026?u=76281980)
+#### [Set actions: Color scaling](https://www.linkedin.com/learning/advanced-tableau-desktop/3955026?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5571,7 +5522,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-tableau-desktop/3955026?u=76281980&t=101)** This calculated field will be applied to the color within the visualization, so that we can get a nice color scaling for our treemap.
 >
-> **[1:48](https://www.linkedin.com/learning/advanced-tableau-desktop/3955026?u=76281980&t=108)** Now let's go ahead and jump in Tableau Desktop and apply color scaling in our workbook.
+> **[1:48](https://www.linkedin.com/learning/advanced-tableau-desktop/3955026?u=76281980&t=108)** Now let's go ahead and jump in [[Tableau]] Desktop and apply color scaling in our workbook.
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-tableau-desktop/3955026?u=76281980&t=113)** Okay, so we're back in Tableau Desktop and we're on our main workbook.
 >
@@ -5719,7 +5670,7 @@ created: 2026-05-02
 >
 > **[7:53](https://www.linkedin.com/learning/advanced-tableau-desktop/3955026?u=76281980&t=473)** We also see that we have a couple that are really dragging the scale out.
 >
-> **[7:57](https://www.linkedin.com/learning/advanced-tableau-desktop/3955026?u=76281980&t=477)** We've got a ton that isn't really registering, but if we wanted to look at our sort of, lower performing products in respect to each other, we could go ahead and just select those.
+> **[7:57](https://www.linkedin.com/learning/advanced-tableau-desktop/3955026?u=76281980&t=477)** We've got a ton that isn't really registering, but if we wanted to look at our sort of, lower performing [[Microsoft Products|products]] in respect to each other, we could go ahead and just select those.
 >
 > **[8:08](https://www.linkedin.com/learning/advanced-tableau-desktop/3955026?u=76281980&t=488)** And we'd have a new color scaling just for these.
 >
@@ -5735,7 +5686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), next (6), product (3), data (2), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** click on (4), go to (2), dropdown (1)
 > **Env Vars:** lod (3)
 > **CLI Commands:** find (2)
@@ -5744,8 +5695,7 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pro tip: Viz animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-animations?u=76281980)
+#### [Pro tip: Viz animations](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5785,7 +5735,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-animations?u=76281980&t=122)** So if you want a particular sheet to not have an animation, or only one of your sheets to have an animation on a dashboard, you can certainly do that as well.
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-animations?u=76281980&t=131)** Let's go ahead and apply Viz Animations to our own dashboard inside Tableau Desktop.
+> **[2:11](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-animations?u=76281980&t=131)** Let's go ahead and apply Viz Animations to our own dashboard inside [[Tableau]] Desktop.
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-animations?u=76281980&t=136)** All right, so we're back in Tableau Desktop.
 >
@@ -5843,21 +5793,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Tableau]] (2), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **CLI Commands:** make (2)
 > **Versions:** 0.3 (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pro tip: Viz extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-extensions?u=76281980)
+#### [Pro tip: Viz extensions](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-extensions?u=76281980&t=0)** - [Instructor] Okay, so now that we looked at viz animations, let's check out one more pro tip around custom visualizations.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-extensions?u=76281980&t=8)** Viz extensions are web applications that can extend the native visual capabilities of Tableau.
+> **[0:08](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-extensions?u=76281980&t=8)** Viz extensions are web applications that can extend the native visual capabilities of [[Tableau]].
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-viz-extensions?u=76281980&t=14)** Viz extensions give users the ability to interact with custom viz types on their worksheets.
 >
@@ -5947,14 +5896,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (12), data (9), web (2), hit (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (12)
 > **UI Navigation:** go to (2), click on (2), double-click (2), dropdown (1)
 > **Prerequisites:** configure (2)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assignment: Dynamic design and actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-dynamic-design-actions?u=76281980)
+#### [Assignment: Dynamic design and actions](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-dynamic-design-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5972,24 +5920,23 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-dynamic-design-actions?u=76281980&t=39)** This dashboard will serve both as an analytic tool for yourself, but also a personal portfolio piece that you can use on your job search.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-dynamic-design-actions?u=76281980&t=49)** Your objective will be to use Tableau Desktop to import custom templates, develop KPI indicators and app-like filtering, enable dynamic field and visualization swapping, and leverage set and parameter actions for custom business insights.
+> **[0:49](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-dynamic-design-actions?u=76281980&t=49)** Your objective will be to use [[Tableau]] Desktop to import custom templates, develop KPI indicators and app-like filtering, enable dynamic field and visualization swapping, and leverage set and parameter actions for custom business insights.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-dynamic-design-actions?u=76281980&t=66)** Good luck and happy visiting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), career (2), data (1), functional (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Dynamic design and actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-dynamic-design-actions?u=76281980)
+#### [Solution: Dynamic design and actions](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-dynamic-design-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-dynamic-design-actions?u=76281980&t=0)** - [Instructor] All right, so now we're going to go through our homework walkthrough for the dynamic design section of the course.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-dynamic-design-actions?u=76281980&t=6)** First, you'll open up your Tableau Desktop _Advanced_Topics_Homework_2 _Dynamic_Design_Starting_Point workbook.
+> **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-dynamic-design-actions?u=76281980&t=6)** First, you'll open up your [[Tableau]] Desktop _Advanced_Topics_Homework_2 _Dynamic_Design_Starting_Point workbook.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-dynamic-design-actions?u=76281980&t=14)** Once the workbook is open, we'll go ahead and start with our first objective, which will be to add a background image to the dashboard.
 >
@@ -6425,7 +6372,7 @@ created: 2026-05-02
 >
 > **[16:46](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-dynamic-design-actions?u=76281980&t=1006)** We'll drag that out to the right of Multi-Dimension.
 >
-> **[16:49](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-dynamic-design-actions?u=76281980&t=1009)** We'll right click and format that just to be a white color, 'cause we want it to blend in with the rest of the text.
+> **[16:49](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-dynamic-design-actions?u=76281980&t=1009)** We'll right click and format that just to be a white color, 'cause we want it to blend in with the [[Representational State Transfer (REST)|rest]] of the text.
 >
 > **[16:56](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-dynamic-design-actions?u=76281980&t=1016)** And our background's pretty dark.
 >
@@ -6495,7 +6442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (42), next (15), [[Tableau]] (1), prompt (1), application (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (18), click on (5), dropdown (3), navigate to (2), scroll up (1)
 > **Env Vars:** case (4), median (4), end (2), fixed (2), else (2)
 > **CLI Commands:** find (4), make (2)
@@ -6508,14 +6455,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Geospatial mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-mapping?u=76281980)
+#### [Geospatial mapping](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-mapping?u=76281980&t=0)** - [Instructor] Up next, we'll be diving into the Geospatial Mapping section of this course.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-mapping?u=76281980&t=5)** Geospatial mapping includes any geographic visualization or calculation leveraged by Tableau.
+> **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-mapping?u=76281980&t=5)** Geospatial mapping includes any geographic visualization or calculation leveraged by [[Tableau]].
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-mapping?u=76281980&t=10)** We'll cover geospatial mapping in the context of Data & Workspace, Use-Cases, and Customization.
 >
@@ -6533,17 +6479,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (4), next (1), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **Speakers:** - [instructor] (1)
 
-#### Geospatial data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-data?u=76281980)
+#### [Geospatial data](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-data?u=76281980&t=0)** - [Instructor] So the first piece of geospatial mapping that you'll need to understand is geospatial data.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-data?u=76281980&t=5)** Geospatial data comes in two primary forms in Tableau Desktop, geographic fields, and spatial data files.
+> **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-data?u=76281980&t=5)** Geospatial data comes in two primary [[Forms]] in [[Tableau]] Desktop, geographic fields, and spatial data files.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-data?u=76281980&t=13)** Most users are first introduced to geospatial fields as part of mapping.
 >
@@ -6569,7 +6514,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-data?u=76281980&t=93)** Spatial data files are typically produced by proprietary tools like Alteryx or Esri.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-data?u=76281980&t=100)** Spatial files can display very complex geospatial visuals, and as such, can add tremendous depth and grain to the spatial analysis in your dashboards.
+> **[1:40](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-data?u=76281980&t=100)** Spatial files can display very complex geospatial visuals, and as such, can add tremendous depth and grain to the spatial analysis in your [[Dashboards]].
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-data?u=76281980&t=110)** A quick pro tip around geospatial data is that latitude and longitude fields are automatically generated with standard location fields.
 >
@@ -6683,7 +6628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Tableau]] (6), [[Search]] (3), next (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Forms]] (1), [[Dashboards]] (1)
 > **Env Vars:** zip (6), ban (1), dbfprg (1), shx (1)
 > **UI Navigation:** click on (7), go to (1)
 > **Definitions:** is a  (4), known as (1)
@@ -6692,12 +6637,11 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1)
 > **Prerequisites:** you'll need (1)
 
-#### The mapping workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/the-mapping-workspace?u=76281980)
+#### [The mapping workspace](https://www.linkedin.com/learning/advanced-tableau-desktop/the-mapping-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/the-mapping-workspace?u=76281980&t=0)** - [Presenter] Geospatial mapping in Tableau is unique that it gets its own mapping workspace.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/the-mapping-workspace?u=76281980&t=0)** - [Presenter] Geospatial mapping in [[Tableau]] is unique that it gets its own mapping workspace.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/the-mapping-workspace?u=76281980&t=5)** "The mapping workspace provides an array of customization and feature enablement tools for geospatial visualizations in Tableau."
 >
@@ -6765,7 +6709,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/advanced-tableau-desktop/the-mapping-workspace?u=76281980&t=234)** When we hover over our map, we'll automatically see our view toolbar appear.
 >
-> **[3:58](https://www.linkedin.com/learning/advanced-tableau-desktop/the-mapping-workspace?u=76281980&t=238)** Off the bat, we can use the search option to zoom in into our data, but not necessarily filter it.
+> **[3:58](https://www.linkedin.com/learning/advanced-tableau-desktop/the-mapping-workspace?u=76281980&t=238)** Off the bat, we can use the search option to [[Zoom]] in into our data, but not necessarily filter it.
 >
 > **[4:05](https://www.linkedin.com/learning/advanced-tableau-desktop/the-mapping-workspace?u=76281980&t=245)** Let's go ahead and type in, "Brooklyn, New York."
 >
@@ -6869,21 +6813,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (14), data (13), [[Tableau]] (8), next (6), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (14), [[Tableau]] (8)
 > **UI Navigation:** dropdown (2), click on (2)
 > **Env Vars:** wms (2)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Geospatial use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-use-cases?u=76281980)
+#### [Geospatial use cases](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-use-cases?u=76281980&t=0)** - [Instructor] Geospatial mapping is an extremely powerful tool.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-use-cases?u=76281980&t=3)** Maps are used for their ability to answer spatial questions, and geospatial mapping can help us do that in Tableau.
+> **[0:03](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-use-cases?u=76281980&t=3)** Maps are used for their ability to answer spatial questions, and geospatial mapping can help us do that in [[Tableau]].
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-use-cases?u=76281980&t=11)** That being said, there are several common use cases that analysts can use to explore and visualize geospatial data in Tableau, including heat maps, density maps, point distribution charts, and more.
 >
@@ -6915,7 +6858,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-use-cases?u=76281980&t=112)** And finally, radius maps can help answer questions like, where are my closest competitors?
 >
-> **[1:58](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-use-cases?u=76281980&t=118)** How far do our employees commute to the office, and which qualify for travel compensation?
+> **[1:58](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-use-cases?u=76281980&t=118)** How far do our employees commute to the [[Microsoft Office|office]], and which qualify for travel compensation?
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-use-cases?u=76281980&t=124)** Obviously, there are many more potential applications for geospatial mapping, but we'll cover these six potential use cases as we work through the geospatial mapping section of this course.
 >
@@ -6925,16 +6868,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), data (1), [[Analytics]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Office|Office]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standard maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980)
+#### [Standard maps](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=0)** - [Instructor] Let's jump into geospatial mapping with our standard Tableau maps.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=0)** - [Instructor] Let's jump into geospatial mapping with our standard [[Tableau]] maps.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=5)** There are two types of standard maps available in Tableau, proportional symbol and filled maps.
 >
@@ -7010,7 +6952,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=237)** Next up, we're going to drag a few fields into our tool tips.
 >
-> **[4:01](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=241)** Let's search for the word sales and drag a few fields in.
+> **[4:01](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=241)** Let's search for the [[Microsoft Word|word]] sales and drag a few fields in.
 >
 > **[4:06](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=246)** First up, we're going to need our sales year over year diff percent in addition to our sales year over year arrow, going to drag those fields over to tool tip and drop them in.
 >
@@ -7170,7 +7112,7 @@ created: 2026-05-02
 >
 > **[11:45](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=705)** We want to change our color to density gold, dark.
 >
-> **[11:49](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=709)** Alright, that's looking a little bit more in line with the color scheme for the rest of our dashboard.
+> **[11:49](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=709)** Alright, that's looking a little bit more in line with the color scheme for the [[Representational State Transfer (REST)|rest]] of our dashboard.
 >
 > **[11:54](https://www.linkedin.com/learning/advanced-tableau-desktop/standard-maps?u=76281980&t=714)** It should be noted that density maps work particularly well at a high level and show hotspots of different data points.
 >
@@ -7188,7 +7130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), next (10), [[Tableau]] (7), [[Search]] (5), data (3)
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (10)
 > **UI Navigation:** go to (6), click on (4)
 > **Definitions:** is a  (2), known as (1)
@@ -7196,17 +7138,15 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spatial functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/spatial-functions?u=76281980)
+#### [Spatial functions](https://www.linkedin.com/learning/advanced-tableau-desktop/spatial-functions?u=76281980)
 
-#### Custom territories
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/custom-territories?u=76281980)
+#### [Custom territories](https://www.linkedin.com/learning/advanced-tableau-desktop/custom-territories?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/custom-territories?u=76281980&t=0)** - [Presenter] Next up, let's jump into custom territories.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-tableau-desktop/custom-territories?u=76281980&t=3)** Custom territories allow users to dynamically select or consolidate geographic areas using traditional Tableau grouping functionality.
+> **[0:03](https://www.linkedin.com/learning/advanced-tableau-desktop/custom-territories?u=76281980&t=3)** Custom territories allow users to dynamically select or consolidate geographic areas using traditional [[Tableau]] grouping functionality.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-tableau-desktop/custom-territories?u=76281980&t=13)** Custom territories can be very useful for creating non-standard geographic groupings.
 >
@@ -7284,20 +7224,19 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/advanced-tableau-desktop/custom-territories?u=76281980&t=273)** Now, you can always do a dual axis and add more detail to one part of the visualization and less to the grouped geospatial fields.
 >
-> **[4:42](https://www.linkedin.com/learning/advanced-tableau-desktop/custom-territories?u=76281980&t=282)** But this is a great way without modifying the metadata or creating custom shape files to create custom territories that will render in your maps.
+> **[4:42](https://www.linkedin.com/learning/advanced-tableau-desktop/custom-territories?u=76281980&t=282)** But this is a great way without modifying the [[Metadata]] or creating custom shape files to create custom territories that will render in your maps.
 >
 > **[4:51](https://www.linkedin.com/learning/advanced-tableau-desktop/custom-territories?u=76281980&t=291)** Up next, we'll dive a little bit deeper into map hierarchies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Tableau]] (3), hit (3), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Metadata]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Map hierarchies
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/map-hierarchies?u=76281980)
+#### [Map hierarchies](https://www.linkedin.com/learning/advanced-tableau-desktop/map-hierarchies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7315,9 +7254,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-tableau-desktop/map-hierarchies?u=76281980&t=43)** Once the hierarchy is created, you'll add that to your view and you'll be able to drill up and down just like you would with any other hierarchy.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-tableau-desktop/map-hierarchies?u=76281980&t=51)** The main difference being the grain that you're drilling into will dynamically change the mapping view to either zoom in and show more detail or zoom out and show less detail.
+> **[0:51](https://www.linkedin.com/learning/advanced-tableau-desktop/map-hierarchies?u=76281980&t=51)** The main difference being the grain that you're drilling into will dynamically change the mapping view to either [[Zoom]] in and show more detail or zoom out and show less detail.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-tableau-desktop/map-hierarchies?u=76281980&t=63)** Let's jump into Tableau Desktop and create mapping hierarchies of our own.
+> **[1:03](https://www.linkedin.com/learning/advanced-tableau-desktop/map-hierarchies?u=76281980&t=63)** Let's jump into [[Tableau]] Desktop and create mapping hierarchies of our own.
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-tableau-desktop/map-hierarchies?u=76281980&t=68)** All right, so we're back in Tableau Desktop, and now we're going to go ahead and create our hierarchy.
 >
@@ -7365,14 +7304,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), [[Tableau]] (2), data (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Tableau]] (2)
 > **UI Navigation:** go to (2), right-click (1), click on (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Geospatial customization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-customization?u=76281980)
+#### [Geospatial customization](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-customization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7380,7 +7318,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-customization?u=76281980&t=5)** Geospatial customization provides additional mapping options and tool extensibility, including custom formatting, third party maps, and custom background images.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-customization?u=76281980&t=16)** Advanced formatting tools and third party maps enable a deep level of customization within Tableau desktop.
+> **[0:16](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-customization?u=76281980&t=16)** Advanced formatting tools and third party maps enable a deep level of customization within [[Tableau]] desktop.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-customization?u=76281980&t=24)** Third party maps can include a variety of different options.
 >
@@ -7388,7 +7326,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-customization?u=76281980&t=31)** Custom backgrounds allow you to customize visuals or create non-traditional maps.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-customization?u=76281980&t=36)** Non-traditional maps can include office spaces, factory floor plans, manufacturing plants.
+> **[0:36](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-customization?u=76281980&t=36)** Non-traditional maps can include [[Microsoft Office|office]] spaces, factory floor plans, manufacturing plants.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-customization?u=76281980&t=43)** Really anything that you can map out in a 2D space can be imported as a background image.
 >
@@ -7398,17 +7336,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), next (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Map layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980)
+#### [Map layers](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=0)** - [Instructor] Let's talk about customizing maps with map layers.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=3)** Map layers provide a space for developers to customize the standard map layers inside Tableau.
+> **[0:03](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=3)** Map layers provide a space for developers to customize the standard map layers inside [[Tableau]].
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=10)** These can impact all areas of the map, including color, lines, background style, and data layers, including layers like demographics.
 >
@@ -7430,7 +7367,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=62)** These can include things like land cover, coastline, zip code boundaries, and more.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=68)** Note that some of the options shown won't be visible to users until they zoom into the map.
+> **[1:08](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=68)** Note that some of the options shown won't be visible to users until they [[Zoom]] into the map.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=74)** So things like zip code or county names might not be visible until you zoom in, and then they will turn from gray to black inside the Map Layers menu.
 >
@@ -7462,7 +7399,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=177)** Inside the Style menu, we can change our background map to anything we want.
 >
-> **[3:02](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=182)** Now it really depends on the rest of our dashboard and how everything should look and feel, but in this case, we're going to leave this map as light.
+> **[3:02](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=182)** Now it really depends on the [[Representational State Transfer (REST)|rest]] of our dashboard and how everything should look and feel, but in this case, we're going to leave this map as light.
 >
 > **[3:11](https://www.linkedin.com/learning/advanced-tableau-desktop/map-layers?u=76281980&t=191)** We're just going to add some different layer pieces and change things up a bit.
 >
@@ -7506,7 +7443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Tableau]] (5), next (2), [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** wms (1)
@@ -7514,14 +7451,13 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Background maps: WMS
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3955021?u=76281980)
+#### [Background maps: WMS](https://www.linkedin.com/learning/advanced-tableau-desktop/3955021?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/3955021?u=76281980&t=0)** - [Presenter] Alright, so now let's talk about background maps that leverage web map services, also known as WMS.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-tableau-desktop/3955021?u=76281980&t=8)** "Background maps from a WMS allow developers to embed hosted custom background maps inside Tableau."
+> **[0:08](https://www.linkedin.com/learning/advanced-tableau-desktop/3955021?u=76281980&t=8)** "Background maps from a WMS allow developers to embed hosted custom background maps inside [[Tableau]]."
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-tableau-desktop/3955021?u=76281980&t=17)** WMS maps are essentially third party embedded maps that are connected using a custom URL.
 >
@@ -7593,7 +7529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (7), hit (3), web (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (7)
 > **Env Vars:** wms (20), url (4), tms (2)
 > **UI Navigation:** go to (6), dropdown (2)
 > **CLI Commands:** make (1)
@@ -7602,12 +7538,11 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [presenter] (1)
 
-#### Background maps: Mapbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3950024?u=76281980)
+#### [Background maps: Mapbox](https://www.linkedin.com/learning/advanced-tableau-desktop/3950024?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/3950024?u=76281980&t=0)** - [Instructor] Mapbox is a third-party mapping tool that can easily be integrated for custom background maps in Tableau.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/3950024?u=76281980&t=0)** - [Instructor] Mapbox is a third-party mapping tool that can easily be integrated for custom background maps in [[Tableau]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/3950024?u=76281980&t=6)** Tableau actually leverages Mapbox for its standard map options as well.
 >
@@ -7699,13 +7634,13 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/advanced-tableau-desktop/3950024?u=76281980&t=248)** And it's really as simple as that.
 >
-> **[4:09](https://www.linkedin.com/learning/advanced-tableau-desktop/3950024?u=76281980&t=249)** The only thing you need to be concerned about is that you don't go over your free account's views, but otherwise, you can customize your maps to your heart's content, you can make and match all of your different intricate dashboards and custom color palettes, and make something that's really stunning for your end users.
+> **[4:09](https://www.linkedin.com/learning/advanced-tableau-desktop/3950024?u=76281980&t=249)** The only thing you need to be concerned about is that you don't go over your free account's views, but otherwise, you can customize your maps to your heart's content, you can make and match all of your different intricate [[Dashboards]] and custom color palettes, and make something that's really stunning for your end users.
 >
 > **[4:26](https://www.linkedin.com/learning/advanced-tableau-desktop/3950024?u=76281980&t=266)** Now that we've gone through Mapbox integration, our next lesson will be focused on background images.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (8), next (4), hit (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (8), [[Dashboards]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** url (4)
 > **UI Navigation:** click on (1), dropdown (1), navigate to (1), go to (1)
@@ -7713,8 +7648,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Background images
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980)
+#### [Background images](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7724,7 +7658,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=13)** All that's required is an image and coordinates that integrate into your data.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=18)** Let's take a quick look at what a background image map might look like in Tableau.
+> **[0:18](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=18)** Let's take a quick look at what a background image map might look like in [[Tableau]].
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=23)** What we have displayed is a warehouse pick background.
 >
@@ -7756,7 +7690,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=108)** Once we're in our data source pane, we're going to add a new data source.
 >
-> **[1:53](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=113)** Let's go ahead and hit add, go to Microsoft Excel, and we're going to choose Maven_Roasters_Warehouse_Pick_History.
+> **[1:53](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=113)** Let's go ahead and hit add, go to [[Microsoft Excel]], and we're going to choose Maven_Roasters_Warehouse_Pick_History.
 >
 > **[2:00](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=120)** Let's hit open, and we're going to go ahead and drag Pick Data out, and we're going to line that up with our product lookup table.
 >
@@ -7840,7 +7774,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=357)** What we're really looking for is our highest volume boxes picked because we want to optimize our setup in our warehouse.
 >
-> **[6:05](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=365)** If we can move all our high pick products into the speed picking lane, then it'll increase overall efficiency in our warehouse.
+> **[6:05](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=365)** If we can move all our high pick [[Microsoft Products|products]] into the speed picking lane, then it'll increase overall efficiency in our warehouse.
 >
 > **[6:13](https://www.linkedin.com/learning/advanced-tableau-desktop/background-images?u=76281980&t=373)** Let's click okay and see how this looks.
 >
@@ -7884,7 +7818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), hit (11), product (7), [[Tableau]] (4), next (3)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Microsoft Excel]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (5), right-click (1), dropdown (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -7892,11 +7826,9 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common mapping issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/common-mapping-issues?u=76281980)
+#### [Common mapping issues](https://www.linkedin.com/learning/advanced-tableau-desktop/common-mapping-issues?u=76281980)
 
-#### Assignment: Geospatial mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping-24739256?u=76281980)
+#### [Assignment: Geospatial mapping](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping-24739256?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7912,7 +7844,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping-24739256?u=76281980&t=39)** You've been asked to conduct a geospatial analysis to identify high risk dams within communities targeted for potential rehabilitation grants.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping-24739256?u=76281980&t=49)** Your objective is to use Tableau Desktop to create spatial joins between data sources, leverage distance-based radius filtering and mapping visuals, customized mapping visuals using geospatial formatting, and create custom geo-hierarchies.
+> **[0:49](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping-24739256?u=76281980&t=49)** Your objective is to use [[Tableau]] Desktop to create spatial joins between data sources, leverage distance-based radius filtering and mapping visuals, customized mapping visuals using geospatial formatting, and create custom geo-hierarchies.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping-24739256?u=76281980&t=66)** Now, I know that sounds like a lot, but I think you're up for the challenge.
 >
@@ -7920,34 +7852,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), management (1), database (1), [[Tableau]] (1), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **Env Vars:** ndsp (2), fema (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Geospatial mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping?u=76281980)
+#### [Solution: Geospatial mapping](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping?u=76281980)
 
 
 ### 5. Advanced Calculations
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980)
+#### [Advanced calculations](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980&t=0)** - [Instructor] All right, so the next section of the course will be focused around advanced calculations.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980&t=5)** Advanced calculations go beyond basic Tableau functions to help solve specific complex use cases.
+> **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980&t=5)** Advanced calculations go beyond basic [[Tableau]] functions to help solve specific complex use cases.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980&t=12)** Advanced calculations will be broken down into three separate areas in this course.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980&t=17)** The first is regular expressions.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980&t=20)** Regular expressions, or RegEx, leverage text-based search pattern algorithms to find and replace string values.
+> **[0:20](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980&t=20)** Regular expressions, or RegEx, leverage text-based search pattern [[Algorithms]] to find and replace string values.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980&t=28)** RegEx is particularly useful for text heavy data, and in the advent of big data, there's more than enough use cases for RegEx to be applicable for your business.
+> **[0:28](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980&t=28)** RegEx is particularly useful for text heavy data, and in the advent of [[Big Data]], there's more than enough use cases for RegEx to be applicable for your business.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980&t=39)** Our next focus will be table calculations.
 >
@@ -7967,12 +7897,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (3), [[Tableau]] (2), [[Search]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Algorithms]] (1), [[Big Data]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regular expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions?u=76281980)
+#### [Regular expressions](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7980,7 +7909,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions?u=76281980&t=8)** These patterns are used as a method of text processing, which was originally done on very early computers.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions?u=76281980&t=16)** RegEx is still used today in many different practices, and Tableau has integrated regular expressions to have their own functions inside the calculation window.
+> **[0:16](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions?u=76281980&t=16)** RegEx is still used today in many different practices, and [[Tableau]] has integrated regular expressions to have their own functions inside the calculation window.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions?u=76281980&t=26)** Let's do a quick walkthrough of the anatomy of a RegEx calculation inside Tableau.
 >
@@ -8008,7 +7937,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions?u=76281980&t=83)** These determine the matching logic that you'll be leveraging in your RegEx expression.
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions?u=76281980&t=89)** Some examples are a period which will match any character, \d will match any digit, \w will match any word, \s will match whitespace, \t will match a tab, and \n will match a new line.
+> **[1:29](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions?u=76281980&t=89)** Some examples are a period which will match any character, \d will match any digit, \w will match any [[Microsoft Word|word]], \s will match whitespace, \t will match a tab, and \n will match a new line.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions?u=76281980&t=106)** What you're essentially doing is laying out all the conditions you want to fulfill to get a match.
 >
@@ -8120,7 +8049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (12), next (4), data (4), [[Microsoft Word|Word]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (12), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** find (7)
 > **Env Vars:** replace (1), match (1), extract (1), extract_nth (1), icu (1)
 > **Definitions:** is a  (4), means that (1)
@@ -8129,14 +8058,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Best Practices:** pro tip (1)
 
-#### Regular expressions functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980)
+#### [Regular expressions functions](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=0)** - [Instructor] All right, so now that we've gone through regular expressions at a high level, let's dive into regular expression functions.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=7)** Regular expressions in Tableau leverage four predefined functions, which represent the most common RegEx use cases.
+> **[0:07](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=7)** Regular expressions in [[Tableau]] leverage four predefined functions, which represent the most common RegEx use cases.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=15)** These include replace, match, extract, and extract_nth.
 >
@@ -8222,7 +8150,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=240)** And the first RegEx expression that we're going to be looking at is RegEx replace.
 >
-> **[4:06](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=246)** So the goal that we're going for here is that we're going to replace a specific word in our description field.
+> **[4:06](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=246)** So the goal that we're going for here is that we're going to replace a specific [[Microsoft Word|word]] in our description field.
 >
 > **[4:13](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=253)** That word is organic.
 >
@@ -8244,7 +8172,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=294)** Let's go ahead and expand this and look at the data for a second.
 >
-> **[4:58](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=298)** All right, so there's a lot of products here.
+> **[4:58](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=298)** All right, so there's a lot of [[Microsoft Products|products]] here.
 >
 > **[5:00](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=300)** Let's just try and find ones that say organic.
 >
@@ -8320,7 +8248,7 @@ created: 2026-05-02
 >
 > **[8:12](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=492)** So there's only a few in here that are real names, real people.
 >
-> **[8:16](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=496)** The rest is just a pretty poorly kept column inside the dataset.
+> **[8:16](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=496)** The [[Representational State Transfer (REST)|rest]] is just a pretty poorly kept column inside the dataset.
 >
 > **[8:21](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=501)** I'm going to go ahead and change our mark type to square here.
 >
@@ -8376,7 +8304,7 @@ created: 2026-05-02
 >
 > **[10:29](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=629)** So in this example, we want to extract an email from a piece of string of text.
 >
-> **[10:34](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=634)** Now this happens a lot, especially when you're dealing with JSON, which may not parse particularly well in Tableau depending on how complex it is.
+> **[10:34](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=634)** Now this happens a lot, especially when you're dealing with [[JSON]], which may not parse particularly well in Tableau depending on how complex it is.
 >
 > **[10:43](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=643)** And if you don't have an ETL process, then you're basically getting a big wad of text to deal with.
 >
@@ -8384,7 +8312,7 @@ created: 2026-05-02
 >
 > **[10:56](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=656)** So for this example, we're going to go ahead and add a new data source.
 >
-> **[11:00](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=660)** So we'll pick add new data source, click Excel.
+> **[11:00](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=660)** So we'll pick add new data source, click [[Microsoft Excel|Excel]].
 >
 > **[11:04](https://www.linkedin.com/learning/advanced-tableau-desktop/regular-expressions-functions?u=76281980&t=664)** We're going to choose Maven Roasters.
 >
@@ -8500,7 +8428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (12), data (12), hit (8), [[Microsoft Word|Word]] (5), product (5)
+> **Frameworks & Libraries:** [[Tableau]] (12), [[Microsoft Word|Word]] (5), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **CLI Commands:** find (5), make (4)
 > **Env Vars:** etl (2), regex (2), icu (2), json (1)
 > **UI Navigation:** click on (5), go to (1)
@@ -8509,8 +8437,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review: Table calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/review-table-calculations?u=76281980)
+#### [Review: Table calculations](https://www.linkedin.com/learning/advanced-tableau-desktop/review-table-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8518,7 +8445,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-tableau-desktop/review-table-calculations?u=76281980&t=9)** Table calculations are sheet-based computations that only evaluate within a given visualization.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-tableau-desktop/review-table-calculations?u=76281980&t=15)** That means that table calculations are calculated inside Tableau, not your database, and they're actually calculated at sheet level based on the marks that are visualized in the view.
+> **[0:15](https://www.linkedin.com/learning/advanced-tableau-desktop/review-table-calculations?u=76281980&t=15)** That means that table calculations are calculated inside [[Tableau]], not your database, and they're actually calculated at sheet level based on the marks that are visualized in the view.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-tableau-desktop/review-table-calculations?u=76281980&t=26)** Table calcs affect how values are computed within a visual but don't change that underlying data.
 >
@@ -8602,15 +8529,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (5), data (3), database (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (5)
 > **UI Navigation:** right-click (3), click on (1), go to (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** running_sum (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review: Addressing and partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/review-addressing-partitioning?u=76281980)
+#### [Review: Addressing and partitioning](https://www.linkedin.com/learning/advanced-tableau-desktop/review-addressing-partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8666,7 +8592,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/advanced-tableau-desktop/review-addressing-partitioning?u=76281980&t=176)** And the more times you do this, the more you'll get used to setting your addressing fields and your partitioning fields to get the values that you really need.
 >
-> **[3:05](https://www.linkedin.com/learning/advanced-tableau-desktop/review-addressing-partitioning?u=76281980&t=185)** So now that we've talked about addressing and partitioning high level, let's just jump into Tableau Desktop quickly.
+> **[3:05](https://www.linkedin.com/learning/advanced-tableau-desktop/review-addressing-partitioning?u=76281980&t=185)** So now that we've talked about addressing and partitioning high level, let's just jump into [[Tableau]] Desktop quickly.
 >
 > **[3:12](https://www.linkedin.com/learning/advanced-tableau-desktop/review-addressing-partitioning?u=76281980&t=192)** We'll do a quick refresher on addressing and partitioning with our data, and then we'll move on to our use cases.
 >
@@ -8742,15 +8668,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), [[Tableau]] (2), hit (1), generic (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **UI Navigation:** click on (6), go to (2), switch to (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Position-based table calculations functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/position-based-table-calculations-functions?u=76281980)
+#### [Position-based table calculations functions](https://www.linkedin.com/learning/advanced-tableau-desktop/position-based-table-calculations-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8760,7 +8685,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-tableau-desktop/position-based-table-calculations-functions?u=76281980&t=15)** Position-based table calcs allow users to navigate within a table and pull pieces of information for their calculations.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-tableau-desktop/position-based-table-calculations-functions?u=76281980&t=22)** This is particularly useful as those values may be difficult to render outside of a Tableau-generated table space.
+> **[0:22](https://www.linkedin.com/learning/advanced-tableau-desktop/position-based-table-calculations-functions?u=76281980&t=22)** This is particularly useful as those values may be difficult to render outside of a [[Tableau]]-generated table space.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-tableau-desktop/position-based-table-calculations-functions?u=76281980&t=29)** Let's take a look at the CAGR example.
 >
@@ -9106,7 +9031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), [[Tableau]] (6), next (6), hit (4), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (6)
 > **Env Vars:** cagr (23), lookup (6), max (6), min (6), last (5)
 > **UI Navigation:** go to (8), click on (5)
 > **CLI Commands:** make (7)
@@ -9115,12 +9040,11 @@ created: 2026-05-02
 > **Analogies:** such as (1), just like (1)
 > **SQL:** index (1)
 
-#### Pro tip: Index top filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-index-top-filter?u=76281980)
+#### [Pro tip: Index top filter](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-index-top-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-index-top-filter?u=76281980&t=0)** - [Instructor] The index function in Tableau is a versatile table calculation which returns the index for the current row in the current partition.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-index-top-filter?u=76281980&t=0)** - [Instructor] The index function in [[Tableau]] is a versatile table calculation which returns the index for the current row in the current partition.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-index-top-filter?u=76281980&t=9)** This acts similar to the rank function, which is also a table calculation in Tableau, but it will always rank one, two, three, four.
 >
@@ -9234,7 +9158,7 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-index-top-filter?u=76281980&t=361)** Let's go to product and see what happens.
 >
-> **[6:03](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-index-top-filter?u=76281980&t=363)** All right, so now we have all of our products, but you can see our index top filter has left everything only up until that 10, which is what our TOP N is set to.
+> **[6:03](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-index-top-filter?u=76281980&t=363)** All right, so now we have all of our [[Microsoft Products|products]], but you can see our index top filter has left everything only up until that 10, which is what our TOP N is set to.
 >
 > **[6:13](https://www.linkedin.com/learning/advanced-tableau-desktop/pro-tip-index-top-filter?u=76281980&t=373)** If we right click and show that parameter and we change that out to five and hit Enter, you'll see that our value list will get reduced to five.
 >
@@ -9302,7 +9226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Tableau]] (5), product (3), [[Troubleshooting]] (1), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Microsoft Products|Products]] (1)
 > **Env Vars:** top (26)
 > **UI Navigation:** go to (8), click on (1), dropdown (1)
 > **CLI Commands:** make (8), find (1)
@@ -9311,8 +9235,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review: Level of detail expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/review-level-of-detail-expressions?u=76281980)
+#### [Review: Level of detail expressions](https://www.linkedin.com/learning/advanced-tableau-desktop/review-level-of-detail-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9390,15 +9313,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), next (2)
 > **Env Vars:** lod (11)
 > **Definitions:** is called (2), means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing an LOD type
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/choosing-an-lod-type?u=76281980)
+#### [Choosing an LOD type](https://www.linkedin.com/learning/advanced-tableau-desktop/choosing-an-lod-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9422,7 +9343,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-tableau-desktop/choosing-an-lod-type?u=76281980&t=47)** These calculations are impacted by filters within the view.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-tableau-desktop/choosing-an-lod-type?u=76281980&t=51)** The best way to describe Exclude calculations is simply that it's going to remove a dimension from the view, but only for the calculation itself, not the rest of the view.
+> **[0:51](https://www.linkedin.com/learning/advanced-tableau-desktop/choosing-an-lod-type?u=76281980&t=51)** The best way to describe Exclude calculations is simply that it's going to remove a dimension from the view, but only for the calculation itself, not the [[Representational State Transfer (REST)|rest]] of the view.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-tableau-desktop/choosing-an-lod-type?u=76281980&t=64)** So, if your view had state and city and you chose to exclude the city in your calculation, the calculation would only calculate at the state level, essentially following this arrow going up and creating a coarser grain or more aggregated state for the calculation.
 >
@@ -9466,7 +9387,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/advanced-tableau-desktop/choosing-an-lod-type?u=76281980&t=247)** This is called a table-scoped level of detail calculation.
 >
-> **[4:11](https://www.linkedin.com/learning/advanced-tableau-desktop/choosing-an-lod-type?u=76281980&t=251)** Now, for this type of calculation, all you need to do is add curly brackets around an aggregation, and Tableau will translate that to a fixed calculation with no dimensions called out.
+> **[4:11](https://www.linkedin.com/learning/advanced-tableau-desktop/choosing-an-lod-type?u=76281980&t=251)** Now, for this type of calculation, all you need to do is add curly brackets around an aggregation, and [[Tableau]] will translate that to a fixed calculation with no dimensions called out.
 >
 > **[4:23](https://www.linkedin.com/learning/advanced-tableau-desktop/choosing-an-lod-type?u=76281980&t=263)** Table-scoped calcs are a nice way to do a shorthand fixed calculation that's not calling out any dimensions.
 >
@@ -9748,7 +9669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), hit (6), [[Tableau]] (3), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** lod (31), ytd (8), sum (6), exclude (3), include (2)
 > **UI Navigation:** right-click (8), click on (6), go to (4), double-click (2)
 > **CLI Commands:** make (5), find (4)
@@ -9757,8 +9678,7 @@ created: 2026-05-02
 > **Versions:** 13.765 (1), 1.4 (1), 33.4 (1)
 > **Cross-References:** we talked about (1), go back to (1)
 
-#### LOD use case: Benchmarking and time flags
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3951024?u=76281980)
+#### [LOD use case: Benchmarking and time flags](https://www.linkedin.com/learning/advanced-tableau-desktop/3951024?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9786,7 +9706,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-tableau-desktop/3951024?u=76281980&t=97)** Time flags will need to be dynamic, especially if your data isn't updated daily.
 >
-> **[1:43](https://www.linkedin.com/learning/advanced-tableau-desktop/3951024?u=76281980&t=103)** There are ways to filter down your views with our relative time filters that Tableau provides, but if your data is even a little bit old, those aren't going to work.
+> **[1:43](https://www.linkedin.com/learning/advanced-tableau-desktop/3951024?u=76281980&t=103)** There are ways to filter down your views with our relative time filters that [[Tableau]] provides, but if your data is even a little bit old, those aren't going to work.
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-tableau-desktop/3951024?u=76281980&t=112)** Today isn't necessarily today in your data.
 >
@@ -9940,15 +9860,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), data (7), [[Tableau]] (2), hit (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Env Vars:** lod (5), fixed (4), max (3), case (1)
 > **UI Navigation:** go to (3), click on (3)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### LOD use case: Customer order frequency
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3950022?u=76281980)
+#### [LOD use case: Customer order frequency](https://www.linkedin.com/learning/advanced-tableau-desktop/3950022?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9976,7 +9895,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-tableau-desktop/3950022?u=76281980&t=90)** This helps add depth to the magnitude of orders per customer metric because we can tell not only how many customers fall into that one order bucket, but what percent of total that represents inside the entire dataset.
 >
-> **[1:44](https://www.linkedin.com/learning/advanced-tableau-desktop/3950022?u=76281980&t=104)** Let's go ahead and jump into Tableau desktop and create our customer order frequency analysis, leveraging LODs.
+> **[1:44](https://www.linkedin.com/learning/advanced-tableau-desktop/3950022?u=76281980&t=104)** Let's go ahead and jump into [[Tableau]] desktop and create our customer order frequency analysis, leveraging LODs.
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-tableau-desktop/3950022?u=76281980&t=112)** Alright, so we're back in Tableau desktop and we're going to create a new sheet.
 >
@@ -10120,7 +10039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), next (2), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **UI Navigation:** click on (9), go to (2)
 > **Env Vars:** lod (5), a0cbe8 (1)
 > **CLI Commands:** make (4)
@@ -10128,11 +10047,9 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### LOD use case: Cohort analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3950020?u=76281980)
+#### [LOD use case: Cohort analysis](https://www.linkedin.com/learning/advanced-tableau-desktop/3950020?u=76281980)
 
-#### LOD use case: New customer acquisition
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980)
+#### [LOD use case: New customer acquisition](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10160,7 +10077,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=76)** We can see a ramp of initial new customers and then we can see where we level off and plateau in our new customer development.
 >
-> **[1:24](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=84)** Let's jump into Tableau desktop and create our new customer acquisition sheet.
+> **[1:24](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=84)** Let's jump into [[Tableau]] desktop and create our new customer acquisition sheet.
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=89)** All right, so we're back in Tableau desktop.
 >
@@ -10234,7 +10151,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=256)** So we're just going to control click on store ID, drop that on label and we'll have our store number there.
 >
-> **[4:22](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=262)** We'll go into label and we'll just actually type in the word, Store, before the store I'd, hit, Apply and we'll bold this whole thing and choose Okay.
+> **[4:22](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=262)** We'll go into label and we'll just actually type in the [[Microsoft Word|word]], Store, before the store I'd, hit, Apply and we'll bold this whole thing and choose Okay.
 >
 > **[4:33](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=273)** So now we can just quickly tell which store we're looking at and we don't necessarily have to look at the legend there.
 >
@@ -10254,7 +10171,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=311)** And that's looking good.
 >
-> **[5:13](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=313)** So we'll go ahead and delete the rest and then we'll modify some of this text.
+> **[5:13](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=313)** So we'll go ahead and delete the [[Representational State Transfer (REST)|rest]] and then we'll modify some of this text.
 >
 > **[5:18](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=318)** So we're going to unbold anything that's not a metric or a date.
 >
@@ -10434,19 +10351,18 @@ created: 2026-05-02
 >
 > **[12:24](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=744)** All right, so this was the last lesson in section four, advanced calculations.
 >
-> **[12:28](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=748)** Next up we're going to dive into our homework for this section of the course and then we'll be moving on to predictive analytics.
+> **[12:28](https://www.linkedin.com/learning/advanced-tableau-desktop/3954024?u=76281980&t=748)** Next up we're going to dive into our homework for this section of the course and then we'll be moving on to [[Predictive Analytics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (15), next (8), [[Analytics]] (7), [[Tableau]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1), [[Predictive Analytics]] (1)
 > **UI Navigation:** click on (6), go to (6), switch to (1)
 > **Env Vars:** lod (3), iff (1), iif (1), bce4d8 (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assignment: Advanced calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-advanced-calculations?u=76281980)
+#### [Assignment: Advanced calculations](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-advanced-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10462,43 +10378,41 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-advanced-calculations?u=76281980&t=33)** Since this is public data, the BPD wants to ensure that the reports are 100% accurate and crystal clear in order to promote transparency within the department and to the general public.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-advanced-calculations?u=76281980&t=46)** Your objective is to use Tableau Desktop to create regular expressions to find and match text within your data, leverage table calculations to create a CAGR analysis, and use LODs to create cohort, benchmarking, and time flag tools.
+> **[0:46](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-advanced-calculations?u=76281980&t=46)** Your objective is to use [[Tableau]] Desktop to create regular expressions to find and match text within your data, leverage table calculations to create a CAGR analysis, and use LODs to create cohort, benchmarking, and time flag tools.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-advanced-calculations?u=76281980&t=63)** Good luck and get busying.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **Env Vars:** bpd (1), cagr (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Advanced calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-advanced-calculations?u=76281980)
+#### [Solution: Advanced calculations](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-advanced-calculations?u=76281980)
 
 
 ### 6. Predictive Analytics
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Predictive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980)
+#### [Predictive analytics](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=0)** - [Instructor] Predictive analytics, in its simplest terms, helps us determine the likelihood of future outcomes by applying advanced analytic techniques to historical data.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=0)** - [Instructor] [[Predictive Analytics]], in its simplest terms, helps us determine the likelihood of future outcomes by applying advanced analytic techniques to historical data.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=10)** Predictive analytics is a hugely expansive topic of which we can only cover a fraction of in this course.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=18)** As a result, we'll be focusing on covering tools internal to Tableau for the most part, as well as introducing some external and third party tools like R, Python and MATLAB.
+> **[0:18](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=18)** As a result, we'll be focusing on covering tools internal to [[Tableau]] for the most part, as well as introducing some external and third party tools like R, [[Python (Programming Language)|Python]] and MATLAB.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=29)** These tools should be a good starting point for those individuals looking to dip their toe into the lake that is predictive analytics and data science in Tableau.
+> **[0:29](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=29)** These tools should be a good starting point for those individuals looking to dip their toe into the lake that is predictive analytics and [[Data Science]] in Tableau.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=39)** Note that we understand there is much deeper integration and use cases to be explored in concert with Tableau and invite developers to explore the different techniques and options after this course.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=51)** As mentioned, we'll be going through both internal and external tools.
 >
-> **[0:55](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=55)** Tableau provides several out of the box predictive analytic tools, including regression, shown as trendlines, forecasting, control charts, and cluster analysis.
+> **[0:55](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=55)** Tableau provides several out of the box predictive analytic tools, including regression, shown as trendlines, [[Forecasting]], control charts, and cluster analysis.
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980&t=67)** These will be our focus for the internal tools lessons.
 >
@@ -10510,7 +10424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (7), [[Predictive Analytics]] (4), data (2), [[Python (Programming Language)|Python]] (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Predictive Analytics]] (4), [[Python (Programming Language)|Python]] (2), [[Data Science]] (1), [[Forecasting]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** matlab (2)
 > **Cross-References:** in the next (1)
@@ -10518,14 +10432,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regression models
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980)
+#### [Regression models](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980&t=0)** - [Instructor] So before we dive into practical application of predictive analytics inside Tableau Desktop, we're going to talk high level about regression models, their purpose, and their application inside Tableau.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980&t=0)** - [Instructor] So before we dive into practical application of [[Predictive Analytics]] inside [[Tableau]] Desktop, we're going to talk high level about regression models, their purpose, and their application inside Tableau.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980&t=13)** Regression models are one of the most fundamental predictive analytics tools used wherever data science is found.
+> **[0:13](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980&t=13)** Regression models are one of the most fundamental predictive analytics tools used wherever [[Data Science]] is found.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980&t=20)** Regression models in Tableau are represented in the form of trend lines.
 >
@@ -10535,7 +10448,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980&t=42)** There are five different types of trend lines or regression models that can be used in Tableau, and each has a different purpose.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980&t=50)** A linear regression model is the simplest model that estimates the relationship between two variables, either increasing or decreasing.
+> **[0:50](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980&t=50)** A [[Linear Regression]] model is the simplest model that estimates the relationship between two variables, either increasing or decreasing.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-tableau-desktop/regression-models?u=76281980&t=59)** Linear regressions are best used when the data resembles a linear pattern.
 >
@@ -10583,16 +10496,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (6), data (5), power (4), application (3), [[Linear Regression]] (3)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Linear Regression]] (3), [[Predictive Analytics]] (2), [[Data Science]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trend lines
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980)
+#### [Trend lines](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=0)** - [Instructor] In this lesson, we're going to be going through trend lines, which are the practical application of regression models inside Tableau.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=0)** - [Instructor] In this lesson, we're going to be going through trend lines, which are the practical application of regression models inside [[Tableau]].
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=8)** Trend lines reveal the prevailing direction or line of best fit for a series of data points.
 >
@@ -10626,7 +10538,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=102)** The other key value that we should be concentrating on is called P-Value.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=106)** P-Value is the probability of obtaining results that are as extreme as the observed results.
+> **[1:46](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=106)** P-Value is the [[Probability]] of obtaining results that are as extreme as the observed results.
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=112)** P-Value can range from zero to one as well.
 >
@@ -10638,7 +10550,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=141)** All right, so we're back in Tableau Desktop in our main workbook, and we're on our Maven Roasters Detail tab.
 >
-> **[2:27](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=147)** Now, the first thing we're going to need to do is bump up the size of this dashboard because our predictive analytics visualizations are going to take up quite a bit more space than we already have in our 1,400 by 1,400 pixel dashboard.
+> **[2:27](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=147)** Now, the first thing we're going to need to do is bump up the size of this dashboard because our [[Predictive Analytics]] visualizations are going to take up quite a bit more space than we already have in our 1,400 by 1,400 pixel dashboard.
 >
 > **[2:41](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=161)** Let's go over to Custom size and choose a height of 2,500.
 >
@@ -10732,7 +10644,7 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=440)** To do that, we'll go to our Analytics tab, and we'll drag out our Trend Line value.
 >
-> **[7:26](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=446)** Now, when we drag it out, we're going to apply this as a linear regression trend line.
+> **[7:26](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=446)** Now, when we drag it out, we're going to apply this as a [[Linear Regression]] trend line.
 >
 > **[7:32](https://www.linkedin.com/learning/advanced-tableau-desktop/trend-lines?u=76281980&t=452)** We'll drop that on Linear, and our trend line will show.
 >
@@ -10746,7 +10658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (5), [[Tableau]] (4), [[Analytics]] (2), [[Predictive Analytics]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Predictive Analytics]] (2), [[Probability]] (1), [[Linear Regression]] (1)
 > **UI Navigation:** go to (5), click on (4), right-click (2)
 > **Definitions:** is a  (2), is an  (2), is called (1), means that (1)
 > **Versions:** 0.5 (1), 0.05 (1), 0.04 (1), 0.07 (1)
@@ -10755,14 +10667,13 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1), coming up (1)
 > **Analogies:** for example (1)
 
-#### Forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/forecasting?u=76281980)
+#### [Forecasting](https://www.linkedin.com/learning/advanced-tableau-desktop/forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/forecasting?u=76281980&t=0)** - [Narrator] Now let's take a look at forecasting in Tableau.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/forecasting?u=76281980&t=0)** - [Narrator] Now let's take a look at [[Forecasting]] in [[Tableau]].
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-tableau-desktop/forecasting?u=76281980&t=3)** Forecast algorithms evaluate patterns in historical data to project potential future data points.
+> **[0:03](https://www.linkedin.com/learning/advanced-tableau-desktop/forecasting?u=76281980&t=3)** Forecast [[Algorithms]] evaluate patterns in historical data to project potential future data points.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-tableau-desktop/forecasting?u=76281980&t=10)** Tableau provides several drag and drop forecasting tools inside the analytics pane.
 >
@@ -10850,19 +10761,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (12), [[Forecasting]] (9), data (8), [[Analytics]] (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (12), [[Forecasting]] (9), [[Algorithms]] (2)
 > **UI Navigation:** go to (3), click on (2), select the (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Control charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/control-charts?u=76281980)
+#### [Control charts](https://www.linkedin.com/learning/advanced-tableau-desktop/control-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/control-charts?u=76281980&t=0)** - [Instructor] Control charts are a statistical tool designed to monitor manufacturing or business processes to ensure they're in a state of control, essentially within the limits that the business sets.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-tableau-desktop/control-charts?u=76281980&t=12)** Control charts can easily be generated in Tableau using reference bands.
+> **[0:12](https://www.linkedin.com/learning/advanced-tableau-desktop/control-charts?u=76281980&t=12)** Control charts can easily be generated in [[Tableau]] using reference bands.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-tableau-desktop/control-charts?u=76281980&t=17)** Now typically, the limits for control charts are placed at three standard deviations from the mean.
 >
@@ -11114,7 +11024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), business (4), [[Tableau]] (4), [[Analytics]] (3), hit (2)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **UI Navigation:** go to (4), click on (4), scroll down (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** f0bd27 (1), c8c8c8 (1)
@@ -11123,8 +11033,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980)
+#### [Clustering](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11132,7 +11041,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=9)** Observations within clusters are more similar to each other than those in the other clusters.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=16)** Tableau utilizes K means clustering, also known as the centroidic model.
+> **[0:16](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=16)** [[Tableau]] utilizes K means clustering, also known as the centroidic model.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=22)** This model is characterized by using a single mean per cluster, which is an average of all values inside each cluster.
 >
@@ -11170,7 +11079,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=134)** Alright, so we're back in Tableau desktop and we're going to create a new sheet.
 >
-> **[2:19](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=139)** Let's choose new sheet and we'll rename it, Products Picked Clusters.
+> **[2:19](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=139)** Let's choose new sheet and we'll rename it, [[Microsoft Products|Products]] Picked Clusters.
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=147)** We'll choose our Maven Roasters data source and we're going to choose pick duration and lines picked.
 >
@@ -11220,7 +11129,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=271)** We're just going to leave our pick duration and our lines picked as our variables as we can clearly see our three clusters forming.
 >
-> **[4:39](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=279)** Next up we're going to create a sheet that isn't necessarily predictive analytics, but we're going to leverage it to inform all our other predictive sheets of our selection.
+> **[4:39](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=279)** Next up we're going to create a sheet that isn't necessarily [[Predictive Analytics]], but we're going to leverage it to inform all our other predictive sheets of our selection.
 >
 > **[4:51](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=291)** So let's go ahead and create a new sheet and it's going to be called picker ranking.
 >
@@ -11346,7 +11255,7 @@ created: 2026-05-02
 >
 > **[11:00](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=660)** And everything else that meets our threshold, we're going to leave and we'll concentrate on the worst offenders first.
 >
-> **[11:07](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=667)** And we changed this to average pick duration 'cause that's really turned into our overwhelming metric for the rest of our views in our advanced analytics warehouse analytics section.
+> **[11:07](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=667)** And we changed this to average pick duration 'cause that's really turned into our overwhelming metric for the [[Representational State Transfer (REST)|rest]] of our views in our advanced analytics warehouse analytics section.
 >
 > **[11:19](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=679)** So let's go ahead and just remove that legend there.
 >
@@ -11376,11 +11285,11 @@ created: 2026-05-02
 >
 > **[12:28](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=748)** Now we're going to move on to our external tool lessons.
 >
-> **[12:32](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=752)** And first up we're going to look at R and Python integration inside Tableau.
+> **[12:32](https://www.linkedin.com/learning/advanced-tableau-desktop/clustering?u=76281980&t=752)** And first up we're going to look at R and [[Python (Programming Language)|Python]] integration inside Tableau.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (6), product (6), next (6), [[Tableau]] (5)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Microsoft Products|Products]] (2), [[Predictive Analytics]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** go to (6), select the (1), click on (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), is called (1)
 > **CLI Commands:** make (2), find (1), python (1)
@@ -11389,14 +11298,13 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### R and Python integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980)
+#### [R and Python integration](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980&t=0)** - [Presenter] R and Python are popular programming languages for performing complex statistical analyses.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980&t=0)** - [Presenter] R and [[Python (Programming Language)|Python]] are popular programming languages for performing complex statistical analyses.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980&t=7)** Both R and Python functions and models can be used inside Tableau via calculated fields.
+> **[0:07](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980&t=7)** Both R and Python functions and models can be used inside [[Tableau]] via calculated fields.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980&t=14)** There are several steps required to utilize both platforms in combination with Tableau.
 >
@@ -11416,23 +11324,22 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980&t=87)** It's strongly encouraged that if you wish to utilize either tool, you do research on them independent of Tableau prior to integration.
 >
-> **[1:35](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980&t=95)** These are tremendously powerful tools and have the potential to truly up your game when presenting predictive analytics inside Tableau.
+> **[1:35](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980&t=95)** These are tremendously powerful tools and have the potential to truly up your game when presenting [[Predictive Analytics]] inside Tableau.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-tableau-desktop/r-python-integration?u=76281980&t=104)** Next up, we'll provide an overview of dashboard extensions inside Tableau Desktop.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (9), [[Python (Programming Language)|Python]] (6), [[Programming]] (1), game (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (9), [[Python (Programming Language)|Python]] (6), [[Predictive Analytics]] (1)
 > **CLI Commands:** python (6)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Dashboard extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/dashboard-extensions?u=76281980)
+#### [Dashboard extensions](https://www.linkedin.com/learning/advanced-tableau-desktop/dashboard-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/dashboard-extensions?u=76281980&t=0)** - [Instructor] Dashboard Extensions are web applications created by Tableau partners, designed to help users customize and enhance their standard dashboards.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/dashboard-extensions?u=76281980&t=0)** - [Instructor] Dashboard Extensions are web applications created by [[Tableau]] partners, designed to help users customize and enhance their standard [[Dashboards]].
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-tableau-desktop/dashboard-extensions?u=76281980&t=9)** Adding an extension is fairly straightforward.
 >
@@ -11454,7 +11361,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-tableau-desktop/dashboard-extensions?u=76281980&t=68)** Finally, many extensions require at least an aggregate amount of data to be pulled back and maintained or manipulated on a third-party platform.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-tableau-desktop/dashboard-extensions?u=76281980&t=78)** This can be a limiting barrier, especially inside large organizations which may have strict data sharing policies.
+> **[1:18](https://www.linkedin.com/learning/advanced-tableau-desktop/dashboard-extensions?u=76281980&t=78)** This can be a limiting barrier, especially inside large organizations which may have strict [[Data Sharing]] policies.
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-tableau-desktop/dashboard-extensions?u=76281980&t=86)** Before leveraging extensions, please ensure that you've checked out all legal and security restrictions and concerns.
 >
@@ -11462,17 +11369,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (5), data (2), web (1), [[Dashboards]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (5), [[Dashboards]] (1), [[Data Sharing]] (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assignment: Geospatial mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping?u=76281980)
+#### [Assignment: Geospatial mapping](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping?u=76281980&t=0)** - [Instructor] All right, so first up, we'd like to congratulate you for making it through the predictive analytics section of this course.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping?u=76281980&t=0)** - [Instructor] All right, so first up, we'd like to congratulate you for making it through the [[Predictive Analytics]] section of this course.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping?u=76281980&t=6)** Now, we'll dive into the homework for the predictive analytics section.
 >
@@ -11480,7 +11386,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping?u=76281980&t=12)** The World Health Organization has been generating significant press for a recent study on global life expectancy and has asked you to help conduct some statistical modeling and predictive analysis to better understand the data.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping?u=76281980&t=26)** For this project, you'll need to apply predictive analytic tools in Tableau to explore trends, build forecasts, and conduct a cluster analysis using the WHO life expectancy dataset.
+> **[0:26](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping?u=76281980&t=26)** For this project, you'll need to apply predictive analytic tools in [[Tableau]] to explore trends, build forecasts, and conduct a cluster analysis using the WHO life expectancy dataset.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-tableau-desktop/assignment-geospatial-mapping?u=76281980&t=38)** Your job is to find key nuggets of information to help guide the team as they target regions to investigate in their future research.
 >
@@ -11490,17 +11396,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Predictive Analytics]] (2), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Tableau]] (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Geospatial mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping-24739252?u=76281980)
+#### [Solution: Geospatial mapping](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping-24739252?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping-24739252?u=76281980&t=0)** - [Presenter] Alright, now we're going to look at the homework walkthrough for the predictive analytics section of this course.
+> **[0:00](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping-24739252?u=76281980&t=0)** - [Presenter] Alright, now we're going to look at the homework walkthrough for the [[Predictive Analytics]] section of this course.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping-24739252?u=76281980&t=5)** We have our Global Life Expectancy analytics dashboard ready, and now we need to fill in the analytics.
 >
@@ -11518,7 +11423,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping-24739252?u=76281980&t=42)** Next, we'll go ahead and edit our axis, and we're going to remove the zero from our axis.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping-24739252?u=76281980&t=48)** This way, we can see the trends a bit better and it will zoom in on our data depending on what we're selecting on.
+> **[0:48](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping-24739252?u=76281980&t=48)** This way, we can see the trends a bit better and it will [[Zoom]] in on our data depending on what we're selecting on.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-tableau-desktop/solution-geospatial-mapping-24739252?u=76281980&t=54)** Next, we'll bring country out, drop that on our filter shelf, and just select the United States.
 >
@@ -11692,7 +11597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (12), hit (7), [[Analytics]] (6), data (6), [[Predictive Analytics]] (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Zoom]] (1)
 > **UI Navigation:** go to (10), click on (6), select the (1)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (2)

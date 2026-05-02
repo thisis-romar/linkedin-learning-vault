@@ -76,16 +76,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A leap in artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980)
+#### [A leap in artificial intelligence](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980&t=0)** - Artificial intelligence is now creating compelling text and visual content.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] is now creating compelling text and visual content.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980&t=6)** This content is of such high quality, it's hard to differentiate it from that created by a person.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980&t=12)** Called generative AI, it's enabling remarkable new capabilities for individuals and organizations.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980&t=12)** Called [[Generative AI]], it's enabling remarkable new capabilities for individuals and organizations.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/a-leap-in-artificial-intelligence?u=76281980&t=19)** Hi, I'm Dr. Jonathan Reichental, business owner, professor, and author.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - artificial (1)
 
@@ -108,14 +107,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### And then there was GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980)
+#### [And then there was GPT](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=0)** - For thousands of years, humans have been using all manner of complex tools to assist in their daily activities.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=7)** It's what separates us from most of the rest of the animal kingdom.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=7)** It's what separates us from most of the [[Representational State Transfer (REST)|rest]] of the animal kingdom.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=11)** Augmenting our work has largely been welcomed.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=26)** Directly and indirectly, advancements in these tools and machines have resulted in the elevation of billions of people out of extreme poverty.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=36)** Today, with a combination of robotics and artificial intelligence, or AI, smart machines are designing, developing, and deploying solutions with much less input from humans.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=36)** Today, with a combination of robotics and [[Artificial Intelligence (AI)|artificial intelligence]], or AI, smart machines are designing, developing, and deploying solutions with much less input from humans.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=48)** AI-enabled capabilities powered by game-changing software and vast amounts of data are demonstrating familiar and convincing human behaviors, such as making things, problem-solving, and pattern recognition.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=69)** Enterprise applications are increasingly being powered by AI-enabled software.
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=75)** We see use of this software in areas such as cybersecurity, financial forecasting, engineering, coding, design, and in product lifecycle and supply chain management.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=75)** We see use of this software in areas such as [[Cybersecurity]], [[Financial Forecasting]], engineering, coding, design, and in product lifecycle and [[Supply Chain Management]].
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=87)** New AI capabilities are being introduced all the time.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=103)** GPT, or Generative Pre-trained Transformer, was created by OpenAI, a San Francisco based research laboratory.
 >
-> **[1:53](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=113)** GPT, and specifically its solution called ChatGPT, released in November 2022, would introduce the existing concept of generative AI to the broader world.
+> **[1:53](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=113)** GPT, and specifically its solution called [[ChatGPT]], released in November 2022, would introduce the existing concept of [[Generative AI]] to the broader world.
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/and-then-there-was-gpt?u=76281980&t=127)** This is software that takes input provided by a person or machine and creates remarkable output in the form of text, audio, and visuals.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Generative AI]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), game (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cybersecurity]] (1), [[Financial Forecasting]] (1)
 > **Env Vars:** gpt (7)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
@@ -170,12 +168,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI: The story so far
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980)
+#### [AI: The story so far](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=0)** - [Presenter] With artificial intelligence suddenly getting so much attention and having such a big impact across industries, it's worth understanding how it came about.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=0)** - [Presenter] With [[Artificial Intelligence (AI)|artificial intelligence]] suddenly getting so much attention and having such a big impact across industries, it's worth understanding how it came about.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=9)** Is AI something completely new or has it existed for years or even decades?
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=53)** Early uses of AI included basic assembly line robotics, chatbots, decision support tools, and expert systems for problem solving.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=64)** In recent years, improved computing performance and networks, software languages and operating systems, algorithms and big data have all contributed to an acceleration in AI capability.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=64)** In recent years, improved computing performance and networks, software languages and operating systems, [[Algorithms]] and [[Big Data]] have all contributed to an acceleration in AI capability.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=78)** Popular culture would have us imagine AI in the form of sentient entities such as C-3PO in "Star Wars" or HAL 9000 in "2001: A Space Odyssey."
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=123)** While we say AI, what we're really describing is artificial narrow intelligence or ANI.
 >
-> **[2:09](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=129)** Narrow AI differs from other forms of AI research such as artificial general intelligence, AGI, or artificial super intelligence, ASI, which are in the category of strong intelligence.
+> **[2:09](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=129)** Narrow AI differs from other [[Forms]] of AI research such as artificial general intelligence, AGI, or artificial super intelligence, ASI, which are in the category of strong intelligence.
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=144)** This category focuses on the ability for a computer to perform tasks through reasoning and thinking, emulating and surpassing the intelligence of humans.
 >
@@ -215,17 +212,17 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=177)** It's great at performing activities such as returning results in online search, image recognition such as identifying an object in a digital photograph, recognizing our voice commands made to Siri and Alexa, and enabling self-driving cars to avoid collisions.
 >
-> **[3:15](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=195)** A subset of ML called deep learning or DL uses advanced algorithms and lots of data to support the concept of learning by example.
+> **[3:15](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=195)** A subset of ML called [[Deep Learning]] or DL uses advanced algorithms and lots of data to support the concept of learning by example.
 >
 > **[3:24](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=204)** For example, show a deep learning program many pictures of bicycles and it will soon predict with good accuracy whether a bicycle is in a picture presented to it.
 >
-> **[3:35](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=215)** Today, AI research and applications are expanding to include areas such as problem solving, natural language processing and generation, NLP and NLG, perception, planning, and robotics.
+> **[3:35](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=215)** Today, AI research and applications are expanding to include areas such as problem solving, [[Natural Language Processing (NLP)|natural language processing]] and generation, NLP and NLG, perception, planning, and robotics.
 >
 > **[3:50](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=230)** Despite how remarkable AI appears today, it's important to recognize that we're in the relatively early stages of its potential.
 >
 > **[3:58](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=238)** In the months and years ahead, and as you'll see, particularly with the emergence of GPT, its real impact is only beginning to be felt at large.
 >
-> **[4:08](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=248)** The biggest challenges of AI in the future may not be the technology, but questions that evolve areas such as ethics, philosophy, culture, regulation, politics, and economics.
+> **[4:08](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=248)** The biggest challenges of AI in the future may not be the technology, but questions that evolve areas such as [[Ethics]], philosophy, culture, regulation, politics, and economics.
 >
 > **[4:22](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/ai-the-story-so-far?u=76281980&t=262)** We'll touch briefly on some of these areas in later videos.
 >
@@ -233,14 +230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), [[Algorithms]] (2), data (2), [[Deep Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Deep Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Big Data]] (1), [[Forms]] (1)
 > **Analogies:** such as (6), imagine (1), for example (1), picture (1)
 > **Env Vars:** gpt (2), hal (1), ani (1), agi (1), asi (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [presenter] (1)
 
-#### OpenAI is founded
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980)
+#### [OpenAI is founded](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=25)** Those who say AI is a positive force, such as Ray Kurzweil, the American inventor and futurist, argues that it will free up humans for more leisure time and enable more of us to focus on creative pursuits.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=39)** Those on the other concerned side of the argument, such as Bill Gates, the former CEO of Microsoft, worry that AI, while remarkable, may be dangerous.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=39)** Those on the other concerned side of the argument, such as Bill Gates, the former CEO of [[Microsoft]], worry that AI, while remarkable, may be dangerous.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=50)** He fears, for example, AI being applied in warfare to manage autonomous weapons, those that search for and destroy targets without human intervention.
 >
@@ -260,7 +256,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=76)** They have characterized some form of future AI as potentially humanity's "greatest existential threat," a concerning view indeed.
 >
-> **[1:26](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=86)** Responding to this concern, in October, 2015, Elon Musk along with Sam Altman, former president of startup accelerator Y Combinator, and other investors such as co-founder of LinkedIn Reid Hoffman and Peter Thiel, co-founder of PayPal, created OpenAI.
+> **[1:26](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=86)** Responding to this concern, in October, 2015, Elon Musk along with Sam Altman, former president of startup accelerator Y Combinator, and other investors such as co-founder of [[LinkedIn]] Reid Hoffman and Peter Thiel, co-founder of PayPal, created OpenAI.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=106)** Corporations such as Microsoft, who recently, significantly increased its investment in OpenAI, and Infosys were also founding members.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=167)** By April of that year, they released their first product called OpenAI Gym.
 >
-> **[2:52](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=172)** This was a toolkit for developing and comparing reinforcement learning algorithms.
+> **[2:52](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=172)** This was a toolkit for developing and comparing [[Reinforcement Learning]] [[Algorithms]].
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=178)** Reinforcement learning is when a computer employs trial and error to come up with a solution to a problem.
 >
@@ -304,30 +300,29 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=263)** Microsoft stepped forward and became a significant investor.
 >
-> **[4:28](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=268)** Further, Microsoft became OpenAI's preferred partner to license its technology and integrate it into their existing and future products and services.
+> **[4:28](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=268)** Further, Microsoft became OpenAI's preferred partner to license its technology and integrate it into their existing and future [[Microsoft Products|products]] and services.
 >
 > **[4:39](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=279)** In addition, Elon Musk resigned from his board seat.
 >
 > **[4:42](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=282)** He cited a potential conflict of interest with the work at Tesla in developing AI for self-driving cars, as well as his concerns about the new for-profit direction.
 >
-> **[4:53](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=293)** With the massive success of ChatGPT and GPT-4, OpenAI is pushing the boundaries of what is possible.
+> **[4:53](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=293)** With the massive success of [[ChatGPT]] and [[GPT-4]], OpenAI is pushing the boundaries of what is possible.
 >
 > **[5:02](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/openai-is-founded?u=76281980&t=302)** It's becoming clear already that OpenAI's competition will be rigorous and the future incredibly unpredictable for all of us.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Microsoft]] (4), [[Reinforcement Learning]] (2), [[Search]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Reinforcement Learning]] (2), [[LinkedIn]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gpt (3), ceo (2), agi (2)
 > **Analogies:** such as (5), for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
-#### The OpenAI charter
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980)
+#### [The OpenAI charter](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=0)** - [Instructor] The Open AI organization is notable not just by their track record in releasing groundbreaking AI solutions, but by its published mission to support the use of artificial general intelligence, AGI for the benefit of all humanity.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=0)** - [Instructor] The Open AI organization is notable not just by their track record in releasing groundbreaking [[AI Solutions]], but by its published mission to support the use of artificial general intelligence, AGI for the benefit of all humanity.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=16)** Note, though that AGI is aspirational and doesn't yet exist.
 >
@@ -335,21 +330,21 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=30)** The subject of how we humanely approach AI is not novel to OpenAI.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=36)** The ethical use of AI, now often refer to as responsible AI is concerned with ensuring the development and use of AI with positive intentions and fairness to all that it impacts.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=36)** The ethical use of AI, now often refer to as [[Responsible AI]] is concerned with ensuring the development and use of AI with positive intentions and fairness to all that it impacts.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=48)** It's about considering safety, security, care and accountability in AI creation and use.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=48)** It's about considering safety, security, care and [[Accountability]] in AI creation and use.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=56)** Stakeholders include business leaders, university researchers, and governments.
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=61)** For example, the topic of AI regulation and legislation is firmly part of global discourse.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=67)** In the United Arab Emirates, for instance, there's a minister of AI whose purview includes the ethics of AI.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=67)** In the United Arab Emirates, for instance, there's a minister of AI whose purview includes the [[Ethics]] of AI.
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=74)** How to move forward responsibly with AI is a topic being discussed in government buildings across the world.
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=81)** AI ethics include areas such as bias, weaponization, morality, robot autonomy, and liability.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=92)** Each of these are beyond the scope of this course but depending on your interest may warrant further research, including delving into the related AI courses in the LinkedIn Learning library.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=92)** Each of these are beyond the scope of this course but depending on your interest may warrant further research, including delving into the related AI courses in the [[LinkedIn]] Learning library.
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=105)** Now, let's turn our attention back to OpenAI.
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=166)** In addition and particularly notable, if an AGI project emerges from a competitor that could incentivize speed to market at the cost of safety, OpenAI will not compete and will instead partner and assist the competitor.
 >
-> **[3:03](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=183)** Third, OpenAI will strive to demonstrate technical leadership in order to amplify the benefits of AI and AGI.
+> **[3:03](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=183)** Third, OpenAI will strive to demonstrate [[Technical Leadership]] in order to amplify the benefits of AI and AGI.
 >
 > **[3:12](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-openai-charter?u=76281980&t=192)** Finally, they're committed to broad collaboration with research and policy institutions across the world.
 >
@@ -393,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Ethics]] (2), [[Responsible AI]] (1), [[Security]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[AI Solutions]] (1), [[Responsible AI]] (1), [[Accountability]] (1), [[LinkedIn]] (1)
 > **Env Vars:** agi (9)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), for instance (1), such as (1)
@@ -405,8 +400,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GPT and Natural Language Processing (NLP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980)
+#### [GPT and Natural Language Processing (NLP)](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -416,11 +410,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=20)** To enable and support this high quality output, a number of AI techniques are employed to make sense of input provided.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=27)** GPT utilizes an approach that is at the intersection of computer and data science and human language called natural language processing or NLP.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=27)** GPT utilizes an approach that is at the intersection of computer and [[Data Science]] and human language called [[Natural Language Processing (NLP)|natural language processing]] or NLP.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=38)** Let's begin with an example of NLP in action.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=42)** Many of us now issue voice commands to digital services such as the popular virtual assistants Amazon Alexa and Google Home.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=42)** Many of us now issue voice commands to digital services such as the popular virtual assistants Amazon Alexa and [[Google]] Home.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=51)** These devices listen to our words, process this input, and then execute some actions such as playing a favorite album or turning on a light.
 >
@@ -434,11 +428,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=85)** The software needs to pre-process the text in sentences in order to provide some form of structure that can be used as the basis for interpretation.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=95)** First, the sentence is broken into each word.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=95)** First, the sentence is broken into each [[Microsoft Word|word]].
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=99)** This is called tokenization.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=102)** The individual words are known as tokens.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=102)** The individual words are known as [[Tokens]].
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=105)** Unnecessary punctuation is removed.
 >
@@ -448,7 +442,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=119)** This is where words are standardized and put in context by reducing them to their root form.
 >
-> **[2:05](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=125)** For example, the words banks, banker, and banking are all associated with the root word bank.
+> **[2:05](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=125)** For example, the words banks, banker, and [[Banking]] are all associated with the root word bank.
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=133)** This is a stem.
 >
@@ -456,23 +450,23 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=144)** Once the text has been pre-processed, a machine learning or ML algorithm is used to interpret the input text.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=152)** These algorithms use statistical models based on vast volumes of data called training data to suggest what action to perform.
+> **[2:32](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=152)** These [[Algorithms]] use statistical models based on vast volumes of data called training data to suggest what action to perform.
 >
-> **[2:42](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=162)** These statistical models are also referred to as large language models or LLMs.
+> **[2:42](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=162)** These statistical models are also referred to as [[Large Language Models (LLM)|large language models]] or LLMs.
 >
 > **[2:49](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=169)** When the pre-processed text is analyzed by the ML algorithm, it is looking for words, phrases, and patterns of text that are familiar from the training data.
 >
-> **[3:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=180)** If there is a high probability that the words and context are understood, the software now knows what to do next.
+> **[3:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=180)** If there is a high [[Probability]] that the words and context are understood, the software now knows what to do next.
 >
 > **[3:08](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=188)** In my examples, NLP is being used to take an action such as retrieving a search result or changing the temperature on a thermostat.
 >
 > **[3:18](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=198)** However, input could also be used to generate new media outputs, such as text, audio, and video.
 >
-> **[3:24](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=204)** This is where we get the term generative AI and it's where we'll go in the next video.
+> **[3:24](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-natural-language-processing-nlp?u=76281980&t=204)** This is where we get the term [[Generative AI]] and it's where we'll go in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), nlp (4), [[Microsoft Word|Word]] (3), next (3), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Data Science]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Google]] (1), [[Tokens]] (1)
 > **Analogies:** such as (5), for example (3)
 > **Env Vars:** nlp (4), gpt (2)
 > **Definitions:** is a  (2), is called (1), known as (1)
@@ -480,8 +474,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### GPT and Generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980)
+#### [GPT and Generative AI](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -489,9 +482,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=14)** These and others belong to a variety of categories and types within the AI domain.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=20)** GPT belongs to an AI category called Generative AI.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=20)** GPT belongs to an AI category called [[Generative AI]].
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=24)** Other technologies and vendors are also in this category including those being developed and deployed from Google, Alibaba, Meta and Nvidia.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=24)** Other technologies and vendors are also in this category including those being developed and deployed from [[Google]], Alibaba, Meta and Nvidia.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=35)** While I may occasionally allude to these other companies in this course, we're particularly focusing on GPT, a product of the Open AI organization.
 >
@@ -507,17 +500,17 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=97)** In fact, generative AI was first introduced in the 1960s, in basic computer chatbots, so-called conversation simulators.
 >
-> **[1:47](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=107)** Significant progress was made in the early 2010s with the emergence of GANs or Generative Adversarial Networks, technology that enables the creation of images, video, and audio that appear to be authentic.
+> **[1:47](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=107)** Significant progress was made in the early 2010s with the emergence of GANs or [[Generative Adversarial Networks (GANs)|Generative Adversarial Networks]], technology that enables the creation of images, video, and audio that appear to be authentic.
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=123)** I won't go deeper on GANs in this course but it's an area I recommend you explore depending on how technical you want to get.
 >
-> **[2:11](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=131)** Generative AI, like a lot of categories within AI, also owes its success to neural networks.
+> **[2:11](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=131)** Generative AI, like a lot of categories within AI, also owes its success to [[Neural Networks]].
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=138)** In simple terms, a neural network is software designed to learn from finding patterns in datasets.
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=145)** While the first neural nets first appeared as early as the 1950s, it wasn't until the emergence of large volumes of data and high performance computing in the early-2000s that content generation became practical.
 >
-> **[2:40](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=160)** Additional progress was made through the use of neural net parallel processing on graphical processing units or GPUs, and advances in software including GANs, large language models, or LLMs and transformers.
+> **[2:40](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=160)** Additional progress was made through the use of neural net parallel processing on graphical processing units or GPUs, and advances in software including GANs, [[Large Language Models (LLM)|large language models]], or LLMs and transformers.
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=176)** I briefly discuss LLMs and transformers in the next video.
 >
@@ -531,21 +524,20 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=210)** Clearly, generative AI has a lot of us excited by its potential to transform many aspects of how we work and live, areas that I explore in a later video.
 >
-> **[3:41](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=221)** But it also raises many questions and implications in the realm of socioeconomics, ethics, legality and a whole lot more.
+> **[3:41](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=221)** But it also raises many questions and implications in the realm of socioeconomics, [[Ethics]], legality and a whole lot more.
 >
 > **[3:51](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-and-generative-ai?u=76281980&t=231)** Before proceeding, take a few minutes to consider how generative AI might impact your job organization or industry.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (10), ai (7), prompt (3), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Google]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Neural Networks]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Analogies:** for example (2), such as (1), picture (1)
 > **Env Vars:** gpt (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [host] (1)
 
-#### What is GPT?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980)
+#### [What is GPT?](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,7 +547,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=10)** It's certainly a mouthful.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=12)** The joking aside, GPT uses complex algorithms, a set of rules for problem-solving that computers follow, and lots of data to generate original text and other media types.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=12)** The joking aside, GPT uses complex [[Algorithms]], a set of rules for problem-solving that computers follow, and lots of data to generate original text and other media types.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=25)** The quality of text output that Version 4 of GPT produces is high quality and hard to discern from human-generated text.
 >
@@ -567,7 +559,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=62)** Generative models use existing knowledge of language to make predictions on what words may come next based on a series of previous words and contexts.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=73)** This is where we get the word generative, the G in GPT.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=73)** This is where we get the [[Microsoft Word|word]] generative, the G in GPT.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=78)** As a simple example, if you type, "Once upon a," the model will predict the word time as the next word based on its analysis of a large corpus of data that is managed via a large language model, or LLM.
 >
@@ -579,7 +571,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=129)** This is where we get the word pre-trained, or P, in GPT.
 >
-> **[2:14](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=134)** Powering all of this is a type of AI called deep learning, which is based on 70 years of research in neural networks.
+> **[2:14](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=134)** Powering all of this is a type of AI called [[Deep Learning]], which is based on 70 years of research in [[Neural Networks]].
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=143)** As an example, for an AI-powered recognition system to learn what a bicycle is and identified in a picture, AI must analyze large volumes of existing bicycle pictures.
 >
@@ -603,7 +595,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=203)** This repeats until the data arrives transformed at the end of the neural network.
 >
-> **[3:30](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=210)** Large language models, or LMMs, are at the heart of the artificial intelligence in generative AI.
+> **[3:30](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=210)** [[Large Language Models (LLM)|Large language models]], or LMMs, are at the heart of the [[Artificial Intelligence (AI)|artificial intelligence]] in [[Generative AI]].
 >
 > **[3:39](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/what-is-gpt?u=76281980&t=219)** These LLMs contain parameters, which I'll explain in a moment.
 >
@@ -641,7 +633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Word|Word]] (5), ai (4), next (2), llm (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Algorithms]] (1), [[Deep Learning]] (1), [[Neural Networks]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (13), llm (2), gpt4 (1)
 > **Versions:** version 4 (2), version 1 (1), version 2 (1), 1.5 (1), version 3 (1)
 > **Definitions:** is a  (2), stands for (1), is called (1)
@@ -649,22 +641,21 @@ created: 2026-05-02
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - gpt (1)
 
-#### ChatGPT and prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980)
+#### [ChatGPT and prompt engineering](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=0)** - [Instructor] In November 2022, in what we may look back as a pivotal moment in history, OpenAI released ChatGPT and made it available for free to anyone who signed up.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=0)** - [Instructor] In November 2022, in what we may look back as a pivotal moment in history, OpenAI released [[ChatGPT]] and made it available for free to anyone who signed up.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=12)** Overnight millions could use this generative AI tool, a type of sophisticated chat bot, to get detailed answers to questions and generate new content.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=12)** Overnight millions could use this [[Generative AI]] tool, a type of sophisticated chat bot, to get detailed answers to questions and generate new content.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=24)** Up until this point OpenAI products, including prior versions of GPT, were only accessible to certain users, such as developers and academics, and often for a fee.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=24)** Up until this point [[OpenAI Products]], including prior versions of GPT, were only accessible to certain users, such as developers and academics, and often for a fee.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=36)** By releasing ChatGPT for everyone at no cost, for the first time high-end AI became broadly accessible.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=44)** In fact, within two months of its public launch, ChatGPT had 100 million users, breaking the world record to become the fastest growing web application ever.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=57)** By simply entering a plain language prompt users discovered they could quickly have ChatGPT, for example, create essays, write software code, develop resumes, compose emails, and summarize content.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=57)** By simply entering a plain language prompt users discovered they could quickly have ChatGPT, for example, create essays, write software code, develop resumes, [[Jetpack Compose|compose]] emails, and summarize content.
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=72)** This was generative AI at work.
 >
@@ -672,11 +663,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=82)** While the public gets all the benefits from having free access, OpenAI is motivated by the upside of having millions of people participate in GPT research as well as the feedback process.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=94)** A premium version of ChatGPT, called ChatGPT Plus, was released in early 2023 and uses the more sophisticated GPT-4 version.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=94)** A premium version of ChatGPT, called ChatGPT Plus, was released in early 2023 and uses the more sophisticated [[GPT-4]] version.
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=105)** In addition to being more accurate and capable than the free version, ChatGPT Plus also has faster response times, better capacity management, and provides earlier access to new features.
 >
-> **[2:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=120)** What may surprise many is that leaps in the quality of output in recent versions of GPT and ChatGPT are being helped as a result of human trainers, called Reinforcement Learning from Human Feedback, or RLHF.
+> **[2:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=120)** What may surprise many is that leaps in the quality of output in recent versions of GPT and ChatGPT are being helped as a result of human trainers, called [[Reinforcement Learning]] from Human Feedback, or RLHF.
 >
 > **[2:16](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=136)** GPT is provided with feedback by a person on generated output, and this feedback is then incorporated back into the large language model.
 >
@@ -686,7 +677,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=153)** The quality of output is a direct result of well constructed prompts.
 >
-> **[2:38](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=158)** Crafting prompts is referred to as prompt engineering.
+> **[2:38](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=158)** Crafting prompts is referred to as [[Prompt Engineering]].
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=162)** It wouldn't be my first choice for a term that easily rolls off the tongue, but nevertheless, it appears to have stuck.
 >
@@ -732,7 +723,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=295)** Here's PromptBase.
 >
-> **[4:56](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=296)** This is a solution that provides a database of effective prompts that gets results in a wide number of generative AI tools, such as Midjourney and Stable Diffusion.
+> **[4:56](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=296)** This is a solution that provides a database of effective prompts that gets results in a wide number of [[Generative AI Tools]], such as [[Midjourney]] and [[Stable Diffusion]].
 >
 > **[5:09](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/chatgpt-and-prompt-engineering?u=76281980&t=309)** Next, Vellum, this is a site which is a suite of tools in support of LLMs.
 >
@@ -758,7 +749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (19), prompt (6), [[Generative AI]] (2), ai (2), [[Prompt Engineering]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (19), [[Generative AI]] (2), [[Prompt Engineering]] (2), [[OpenAI Products]] (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** gpt (8), rlhf (1)
 > **Analogies:** such as (3), for example (3), for instance (2)
 > **Definitions:** is a  (4), we call this (1)
@@ -766,22 +757,21 @@ created: 2026-05-02
 > **Versions:** version 3 (1)
 > **Speakers:** - [instructor] (1)
 
-#### GPT in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980)
+#### [GPT in practice](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=0)** - While many people will use the ChatGPT service directly on the web or through its own app, its backend large language model, or LMM, is a software platform that enables all types of innovation to be built on top of it.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=0)** - While many people will use the [[ChatGPT]] service directly on the web or through its own app, its backend large language model, or LMM, is a software platform that enables all types of innovation to be built on top of it.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=15)** By this I mean that GPT technology can be incorporated seamlessly into existing solutions via application programming interfaces, or APIs, software that enables two or more computer programs to communicate with each other.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=15)** By this I mean that GPT technology can be incorporated seamlessly into existing solutions via [[Application Programming Interfaces (API)|application programming interfaces]], or APIs, software that enables two or more computer programs to communicate with each other.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=31)** GPT could also be the basis for completely new innovation.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=36)** For example, Microsoft, a major investor in OpenAI, is quickly building GPT capabilities into many of its products, including its popular Office suite and its search tool Bing.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=36)** For example, [[Microsoft]], a major investor in OpenAI, is quickly building GPT capabilities into many of its [[Microsoft Products|products]], including its popular [[Microsoft Office|Office]] suite and its search tool Bing.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=49)** Under the moniker Microsoft 365 Copilot, these GPT-based functions will enhance and simplify existing capability and also add completely new features.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=49)** Under the moniker [[Microsoft 365]] [[Microsoft Copilot|Copilot]], these GPT-based functions will enhance and simplify existing capability and also add completely new features.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=62)** For example, in Outlook, a user will be able to get a summary of emails in a long thread rather than having to read through all of them.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=62)** For example, in [[Microsoft Outlook|Outlook]], a user will be able to get a summary of emails in a long thread rather than having to read through all of them.
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=71)** As an example of new innovation, a service called Be My Eyes that has typically used human volunteers to describe images to visually impaired people is beginning to use GPT to automatically process visuals and then describe them without any human intervention.
 >
@@ -807,11 +797,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=174)** Code can also be generated in the programming language of choice simply with a plain language prompt.
 >
-> **[3:01](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=181)** Creating a complex SQL query becomes a breeze.
+> **[3:01](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=181)** Creating a complex [[SQL]] query becomes a breeze.
 >
 > **[3:06](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=186)** Even more remarkably, a picture drawn of a desired app screen or a simple text description can be processed into the code for a basic functioning app.
 >
-> **[3:16](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=196)** Additional features including elaborate graphical user interface design is simply a few prompts away.
+> **[3:16](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=196)** Additional features including elaborate graphical [[User Interface Design]] is simply a few prompts away.
 >
 > **[3:23](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/gpt-in-practice?u=76281980&t=203)** Once the domain of experienced developers and designers, because of GPT, writing code or no code development is becoming far more accessible.
 >
@@ -845,15 +835,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[ChatGPT]] (3), [[Search]] (2), prompt (2), web (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Microsoft]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** gpt (17), lmm (1), sql (1)
 > **Analogies:** for example (4), picture (2), such as (1), imagine (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - while (1)
 
-#### Limitations of GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980)
+#### [Limitations of GPT](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,11 +854,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=17)** However, even version four has some clear limitations to overcome.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=22)** That said, let's recognize that while these limitations exist today, subsequent versions of GPT and its competitors have a high probability of overcoming these.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=22)** That said, let's recognize that while these limitations exist today, subsequent versions of GPT and its competitors have a high [[Probability]] of overcoming these.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=32)** In fact, this may happen sooner than many of us think.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=36)** In this video, I'll touch on a few of the most obvious limitations of GPT-4.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=36)** In this video, I'll touch on a few of the most obvious limitations of [[GPT-4]].
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=43)** Sometimes when working with GPT, the quality of the content can make it seem that authentic thinking is happening.
 >
@@ -909,7 +898,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=165)** However, this may inadvertently restrict answers and by extension create bias and censorship concerns.
 >
-> **[2:52](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=172)** OpenAI does prohibit certain uses with GPT and ChatGPT.
+> **[2:52](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=172)** OpenAI does prohibit certain uses with GPT and [[ChatGPT]].
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/limitations-of-gpt?u=76281980&t=177)** Their usage policy can be found at the link on the screen.
 >
@@ -947,15 +936,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[GPT-4]] (2), data (2), ai (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (2), [[Probability]] (1), [[ChatGPT]] (1)
 > **Env Vars:** gpt (14)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenges and risks of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980)
+#### [Challenges and risks of AI](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -977,9 +965,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=46)** The range of challenges and risks posed by AI right now are varied.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=51)** They span across economics, to ethics, and beyond.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=51)** They span across economics, to [[Ethics]], and beyond.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=55)** While an organization must be focused on the technical aspects of AI, such as incorporating it appropriately into their existing processes and products, they must also be aware of the non-technical issues.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=55)** While an organization must be focused on the technical aspects of AI, such as incorporating it appropriately into their existing processes and [[Microsoft Products|products]], they must also be aware of the non-technical issues.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=67)** Frankly, I'm of the opinion that the latter will be harder than the former.
 >
@@ -1001,9 +989,9 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=138)** Necessary change won't happen if leaders and staff don't understand AI, fail to embrace it, and even reject it.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=146)** A poorly executed AI strategy could result in a business making bad decisions.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=146)** A poorly executed [[AI Strategy]] could result in a business making bad decisions.
 >
-> **[2:31](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=151)** Those informed by ChatGPT, for example, or using poor data to train its language models, running a foul of regulations and laws, and damaging its brands through unethical AI behaviors.
+> **[2:31](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=151)** Those informed by [[ChatGPT]], for example, or using poor data to train its language models, running a foul of regulations and laws, and damaging its brands through unethical AI behaviors.
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=164)** After all, AI continues to reflect human biases and it produces AI hallucinations.
 >
@@ -1025,7 +1013,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=241)** The ethics of AI, a topic beyond the scope of this course, yet relevant to challenges and risks are still not well understood or implemented.
 >
-> **[4:09](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=249)** Here we're talking about people, organizations, and systems and how their use of AI, for example, demonstrates transparency, such as whether content is copyrighted, shows fairness in its interactions, respects privacy, and provides an explanation of how decisions and actions are being processed.
+> **[4:09](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=249)** Here we're talking about people, organizations, and systems and how their use of AI, for example, demonstrates transparency, such as whether content is copyrighted, shows fairness in its interactions, respects [[Privacy]], and provides an explanation of how decisions and actions are being processed.
 >
 > **[4:28](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/challenges-and-risks-of-ai?u=76281980&t=268)** In the absence of a formal approach to ethical AI use, people and organizations will certainly raise their risk quotient.
 >
@@ -1045,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), next (2), [[Ethics]] (2), [[Automation]] (2), business (2)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[Microsoft Products|Products]] (1), [[AI Strategy]] (1), [[ChatGPT]] (1), [[Privacy]] (1)
 > **Analogies:** for example (6), such as (4), for instance (1), imagine (1)
 > **Env Vars:** gpt (2), ceo (1)
 > **Cross-References:** next video (1)
@@ -1057,14 +1045,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business preparation for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980)
+#### [Business preparation for AI](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=0)** - As each day passes, greater numbers of organizations are adopting artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=0)** - As each day passes, greater numbers of organizations are adopting [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=6)** They're incorporating it into their products and services, building new solutions and reinventing existing ones.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=6)** They're incorporating it into their [[Microsoft Products|products]] and services, building new solutions and reinventing existing ones.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=14)** And they're using it to run better operations.
 >
@@ -1100,15 +1087,15 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=151)** For many organizations, short-term plans for AI are going to be primarily focused on acquiring or upgrading existing tools with integrated AI.
 >
-> **[2:40](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=160)** Applications that are delivered via software as a service or SaaS, will simply see the capability as it's made available.
+> **[2:40](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=160)** Applications that are delivered via [[SaaS|software as a service]] or [[SaaS]], will simply see the capability as it's made available.
 >
-> **[2:49](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=169)** In the medium term, companies will acquire new, AI centric tools for all manner of augmentation and automation capability, including forecasting, design, customer service, content generation, and more.
+> **[2:49](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=169)** In the medium term, companies will acquire new, AI centric tools for all manner of augmentation and automation capability, including [[Forecasting]], design, customer service, content generation, and more.
 >
 > **[3:05](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=185)** This will be a time for developing an organization's AI standards and principles.
 >
 > **[3:11](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=191)** In the long term, AI will necessitate many organizations to completely reinvent themselves in order to survive.
 >
-> **[3:21](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=201)** Leadership and staff training in a rapidly changing world of digital transformation is more important than ever.
+> **[3:21](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=201)** Leadership and staff training in a rapidly changing world of [[Digital Transformation]] is more important than ever.
 >
 > **[3:28](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=208)** With AI, a training must be a high priority.
 >
@@ -1120,7 +1107,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=234)** Depending on an organization's complexity and degree of engagement with AI systems, it will need to consider retooling and hiring talent.
 >
-> **[4:04](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=244)** Roles will include those with AI skills and experience such as project managers, analysts, programmers in a variety of languages, architects, data scientists, and perhaps even in prompt engineering.
+> **[4:04](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=244)** Roles will include those with AI skills and experience such as project managers, analysts, programmers in a variety of languages, architects, data scientists, and perhaps even in [[Prompt Engineering]].
 >
 > **[4:18](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/business-preparation-for-ai?u=76281980&t=258)** The ability to construct high quality GPT inputs.
 >
@@ -1132,13 +1119,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[Microsoft Products|Products]] (2), leadership (2), management (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[SaaS|Software as a service]] (1), [[SaaS]] (1), [[Forecasting]] (1)
 > **Env Vars:** swot (2), gpt (1)
 > **Analogies:** such as (2)
 > **Speakers:** - as (1)
 
-#### Career opportunities in AI and GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980)
+#### [Career opportunities in AI and GPT](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1140,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=61)** The World Economic Forum is on record predicting that AI will create 97 million new jobs by 2025.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=69)** Looking just at generative AI, the realm of GPT, a Goldman Sachs study suggests it could produce a $7 trillion increase in global GDP by the early 2030s.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=69)** Looking just at [[Generative AI]], the realm of GPT, a Goldman Sachs study suggests it could produce a $7 trillion increase in global GDP by the early 2030s.
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=82)** These numbers, of course, can vary depending on how we define the scope of AI.
 >
@@ -1168,13 +1154,13 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=120)** Today, most organizations recognize the role of technology, and particularly digitalization as a core mechanism for achieving these strategic objectives.
 >
-> **[2:10](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=130)** The ongoing digital transformation of the global economy will continue to drive demand in technology-related jobs.
+> **[2:10](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=130)** The ongoing [[Digital Transformation]] of the global economy will continue to drive demand in technology-related jobs.
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=137)** AI-specific work may require more technical education and specialization.
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=144)** The need for data-focused jobs, given the intersection between AI and digitalization, will also continue to increase.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=152)** According to CompTIA, a leading technology association, the top five AI skills for IT professionals include support and troubleshooting of AI issues, AI algorithm development, software development in general, cybersecurity, and data analysis.
+> **[2:32](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=152)** According to CompTIA, a leading technology association, the top five AI skills for IT professionals include support and troubleshooting of AI issues, AI algorithm development, [[Software Development]] in general, [[Cybersecurity]], and data analysis.
 >
 > **[2:52](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/career-opportunities-in-ai-and-gpt?u=76281980&t=172)** And what about generative AI?
 >
@@ -1196,7 +1182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (3), [[Generative AI]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Digital Transformation]] (1), [[Software Development]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** gpt (2), gdp (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - while (1)
@@ -1206,14 +1192,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Future of AI and Next Steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980)
+#### [The Future of AI and Next Steps](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=0)** - Not withstanding some limitations.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=3)** If you've used ChatGPT recently, it doesn't fail to impress.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=3)** If you've used [[ChatGPT]] recently, it doesn't fail to impress.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=7)** Similarly, as more applications integrate GPT capabilities, the results are often remarkable.
 >
@@ -1249,7 +1234,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=132)** No matter the industry, AI will have an impact.
 >
-> **[2:16](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=136)** For example, we should see accelerated progress in areas such as medicine, agriculture, sustainability, and autonomous transportation.
+> **[2:16](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=136)** For example, we should see accelerated progress in areas such as medicine, agriculture, [[Sustainability]], and autonomous transportation.
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=146)** Keep closely apprised on such developments relevant to your industry.
 >
@@ -1261,9 +1246,9 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=165)** This will help to put AI and other trends into a broader perspective for you.
 >
-> **[2:51](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=171)** Next, you could check out many of the wonderful AI courses on LinkedIn learning by other authors.
+> **[2:51](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=171)** Next, you could check out many of the wonderful AI courses on [[LinkedIn]] learning by other authors.
 >
-> **[2:57](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=177)** They cover just about every aspect of the topic from prompt engineering to coding.
+> **[2:57](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=177)** They cover just about every aspect of the topic from [[Prompt Engineering]] to coding.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-generative-ai-with-gpt/the-future-of-ai-and-next-steps?u=76281980&t=183)** Now, as we come to the end, let me ask you a question.
 >
@@ -1277,7 +1262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), next (2), [[ChatGPT]] (1), management (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Sustainability]] (1), [[LinkedIn]] (1), [[Prompt Engineering]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** gpt (4)
 > **CLI Commands:** make (1)

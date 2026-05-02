@@ -87,14 +87,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Active Directory in Windows Server 2019
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-in-windows-server-2019?u=76281980)
+#### [Active Directory in Windows Server 2019](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-in-windows-server-2019?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-in-windows-server-2019?u=76281980&t=0)** - [Ed] Active Directory has been a major part of Windows Server operating systems since Windows 2000 Server and continues to be used today.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-in-windows-server-2019?u=76281980&t=0)** - [Ed] [[Active Directory]] has been a major part of [[Windows Server]] operating systems since [[Windows]] 2000 Server and continues to be used today.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-in-windows-server-2019?u=76281980&t=8)** To be a successful network administrator who manages a Microsoft network environment, it is crucial to have a solid understanding of identity management.
+> **[0:08](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-in-windows-server-2019?u=76281980&t=8)** To be a successful network administrator who manages a [[Microsoft]] network environment, it is crucial to have a solid understanding of identity management.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-in-windows-server-2019?u=76281980&t=17)** How do you get that?
 >
@@ -114,20 +113,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (5), [[Microsoft]] (2), [[Windows Server]] (1), [[Windows]] (1), management (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Microsoft]] (2), [[Windows Server]] (1), [[Windows]] (1)
 > **Env Vars:** adds (1)
 > **Speakers:** - [ed] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get through this course, I do not have any specific mandatory prerequisites that you must have.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980&t=8)** I will say that it will be helpful if you already have some level of experience knowing how to navigate your way through Windows Server 2019.
+> **[0:08](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980&t=8)** I will say that it will be helpful if you already have some level of experience knowing how to navigate your way through [[Windows Server]] 2019.
 >
-> **[0:17](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980&t=17)** I would say, even if you have experience with Windows Server 2016, and that's just a matter of being able to navigate through it so that I can discuss the active directory side of things with you.
+> **[0:17](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980&t=17)** I would say, even if you have experience with Windows Server 2016, and that's just a matter of being able to navigate through it so that I can discuss the [[Active Directory]] side of things with you.
 >
 > **[0:28](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980&t=28)** Now as I go through and perform the different demonstrations, I want you to know what my setup is here.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980&t=82)** Outside of that, there's nothing else you need to have.
 >
-> **[1:25](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980&t=85)** You just need to have those three machines, whether they be virtual machines or actual machines, and beyond that, they just have to have a basic installation of Windows Server 2019.
+> **[1:25](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/what-you-should-know?u=76281980&t=85)** You just need to have those three machines, whether they be [[Virtual Machines]] or actual machines, and beyond that, they just have to have a basic installation of Windows Server 2019.
 
 > [!info]- Semantic Content
 >
@@ -158,16 +156,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Active Directory Domain Services role
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-active-directory-domain-services-role?u=76281980)
+#### [Installing Active Directory Domain Services role](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-active-directory-domain-services-role?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-active-directory-domain-services-role?u=76281980&t=0)** - [Instructor] The installation of Active Directory Domain Services is really a two step process.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-active-directory-domain-services-role?u=76281980&t=0)** - [Instructor] The installation of [[Active Directory]] Domain Services is really a two step process.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-active-directory-domain-services-role?u=76281980&t=6)** The first of these two steps is to install the server role itself, and that's what we're going to take a look at here.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-active-directory-domain-services-role?u=76281980&t=13)** So to demonstrate this, I need to connect to a Windows Server 2019 machine, and I have three of them here named DC-1, two, and three, and I just want to point out that even though they're named DC, 'cause they will eventually become domain controllers, right now they are just simply standalone fresh installations of Windows Server 2019.
+> **[0:13](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-active-directory-domain-services-role?u=76281980&t=13)** So to demonstrate this, I need to connect to a [[Windows Server]] 2019 machine, and I have three of them here named DC-1, two, and three, and I just want to point out that even though they're named DC, 'cause they will eventually become domain controllers, right now they are just simply standalone fresh installations of Windows Server 2019.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-active-directory-domain-services-role?u=76281980&t=34)** So let's connect to DC-1 and see how to add the role.
 >
@@ -233,7 +230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Active Directory]] (4), [[Windows Server]] (2), [[Windows]] (1), feature (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows Server]] (2), [[Windows]] (1)
 > **Prerequisites:** install (5), before you begin (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
@@ -242,12 +239,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing a forest root domain controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980)
+#### [Installing a forest root domain controller](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=0)** - [Instructor] Now that we've installed, the Active Directory Domain Services Role, you'll see here that right on the screen it says there is additional configuration required.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=0)** - [Instructor] Now that we've installed, the [[Active Directory]] Domain Services Role, you'll see here that right on the screen it says there is additional configuration required.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=10)** And that configuration is to go through the second step of this process which is to promote this server to being a domain controller.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=32)** What that does, is this opens up the Active Directory Domain Services configuration wizard, formerly known as DC Promo.
 >
-> **[0:40](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=40)** A quick sidenote, if you've done this in the past, and you're just trying to get yourself up to date on Windows Server 2019, DC Promo won't work for you.
+> **[0:40](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=40)** A quick sidenote, if you've done this in the past, and you're just trying to get yourself up to date on [[Windows Server]] 2019, DC Promo won't work for you.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=48)** So it's not that they just gave you a short cut, but they kind of deprecated or they changed the use of DC Promo.
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=276)** Down below we get all these warnings.
 >
-> **[4:39](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=279)** These warnings always show up and you can disregard them, this just has to do with, first of all you have your delegation for the DNS server which we already talked about, and it also has some security for some old Windows NT 4.0 stuff.
+> **[4:39](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=279)** These warnings always show up and you can disregard them, this just has to do with, first of all you have your delegation for the DNS server which we already talked about, and it also has some security for some old [[Windows]] NT 4.0 stuff.
 >
 > **[4:53](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=293)** So you can disregard those two warnings, and I'm going to go ahead and click Install.
 >
@@ -335,7 +331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Active Directory]] (4), [[Windows Server]] (3), dns (3), database (2)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows Server]] (3), [[Windows]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** dns (3), landonhotel (1), sysvol (1)
 > **UI Navigation:** click on (3), select the (1)
@@ -344,8 +340,7 @@ created: 2026-05-02
 > **Versions:** 4.0 (1)
 > **Warnings:** warning (1)
 
-#### Installing additional domain controllers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980)
+#### [Installing additional domain controllers](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -379,7 +374,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980&t=86)** So, let's click on that link.
 >
-> **[1:29](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980&t=89)** Here in the Active Directory Domain Services Configuration wizard, we can go ahead and take the default selection of add a domain controller to an existing domain 'cause that's what we're doing, we're adding an additional domain controller to our existing domain, and we have to specify what that domain is.
+> **[1:29](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980&t=89)** Here in the [[Active Directory]] Domain Services Configuration wizard, we can go ahead and take the default selection of add a domain controller to an existing domain 'cause that's what we're doing, we're adding an additional domain controller to our existing domain, and we have to specify what that domain is.
 >
 > **[1:45](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980&t=105)** Alright, so right here, we're going to go ahead and type in landonhotel.local, and we have to supply credentials, which allow us to connect to this domain.
 >
@@ -421,7 +416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), [[Active Directory]] (3), dns (3), database (2)
+> **Frameworks & Libraries:** [[Active Directory]] (3)
 > **Prerequisites:** install (8), you need to have (1)
 > **Env Vars:** dns (3), adds (2)
 > **UI Navigation:** click on (4), go to (1)
@@ -429,22 +424,21 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **Speakers:** - [instructor] (1)
 
-#### Installing read-only domain controllers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980)
+#### [Installing read-only domain controllers](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=0)** - [Instructor] Sometimes you'll find yourself in a situation where you have a remote office that has enough users, that it's worth having a domain controller locally in that office.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=0)** - [Instructor] Sometimes you'll find yourself in a situation where you have a remote [[Microsoft Office|office]] that has enough users, that it's worth having a domain controller locally in that office.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=8)** But you don't have any IT staff in that location to help keep that server secure.
 >
-> **[0:14](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=14)** Well Microsoft has a solution for this.
+> **[0:14](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=14)** Well [[Microsoft]] has a solution for this.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=16)** It's called a Read Only Domain Controller.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=19)** So to demonstrate this, I'm going to use DC3.
 >
-> **[0:23](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=23)** 'Cause I've already installed active directory onto DC1 and DC2.
+> **[0:23](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=23)** 'Cause I've already installed [[Active Directory]] onto DC1 and DC2.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=27)** They're fully functional domain controllers.
 >
@@ -534,7 +528,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=248)** So I'll click next.
 >
-> **[4:11](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=251)** And for the most part, the rest of this is pretty much the same where I'm just going to take the default locations for our database and log files.
+> **[4:11](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=251)** And for the most part, the [[Representational State Transfer (REST)|rest]] of this is pretty much the same where I'm just going to take the default locations for our database and log files.
 >
 > **[4:17](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=257)** We have our review here.
 >
@@ -566,7 +560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Microsoft Office|Office]] (4), [[Active Directory]] (3), dns (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Active Directory]] (3), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dc3 (2), dns (2), dc1 (1), dc2 (1), rodc (1)
 > **Prerequisites:** install (4)
 > **CLI Commands:** make (2), find (1)
@@ -580,12 +574,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing AD DS with Active Directory Administrative Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980)
+#### [Managing AD DS with Active Directory Administrative Center](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=0)** - Managing the Active Directory Domain Services environment is one of the common tasks that an IT professional would perform.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=0)** - Managing the [[Active Directory]] Domain Services environment is one of the common tasks that an IT professional would perform.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=8)** So understanding what administration tools are available is really important.
 >
@@ -605,15 +598,15 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=56)** But right now, I just want you to have a general feel of what this tool looks like and what it would be used for.
 >
-> **[1:03](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=63)** One specific thing about this particular tool that I can tell you is that it happens to be a graphical user interface that was built of Windows Powershell.
+> **[1:03](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=63)** One specific thing about this particular tool that I can tell you is that it happens to be a graphical user interface that was built of [[Windows]] [[Powershell]].
 >
-> **[1:13](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=73)** Now that is the one thing that makes it different from the rest of the active directory tools that are available.
+> **[1:13](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=73)** Now that is the one thing that makes it different from the [[Representational State Transfer (REST)|rest]] of the active directory tools that are available.
 >
 > **[1:19](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=79)** Most of the rest of the tools that are out there are kind of old-schooled tools.
 >
 > **[1:23](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=83)** They've been around since Windows 2000.
 >
-> **[1:26](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=86)** Which was when Microsoft first started using active directory.
+> **[1:26](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=86)** Which was when [[Microsoft]] first started using active directory.
 >
 > **[1:29](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=89)** And those tools as a result, preceded the creation of Windows Powershell and therefore, they don't necessarily have a perfect one to one matchup with Windows Powershell.
 >
@@ -637,7 +630,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=150)** Well you can do things like creating fine-grained password policies or enabling the active directory recycle bin.
 >
-> **[2:37](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=157)** And these are the things in the past, you got to go before Windows Server 2016 so you go to Server 2008 or before that.
+> **[2:37](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=157)** And these are the things in the past, you got to go before [[Windows Server]] 2016 so you go to Server 2008 or before that.
 >
 > **[2:43](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=163)** You could only do it from a command line based tool or a much less intuitive tool than what you will find here in the active directory administrative center.
 >
@@ -689,12 +682,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1), for instance (1)
 > **Speakers:** - managing (1)
 
-#### Managing AD DS with Active Directory Users and Computers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980)
+#### [Managing AD DS with Active Directory Users and Computers](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=0)** - Another tool that you should be familiar with is the active directory users and computers tool.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=0)** - Another tool that you should be familiar with is the [[Active Directory]] users and computers tool.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=8)** So here, we are looking at the server manager on DC1.
 >
@@ -708,7 +700,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=50)** This tool has some slight limitations, and I want you to focus on this because I'm going to tell you something very interesting in a moment.
 >
-> **[0:58](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=58)** This one has the limitations in the sense that it was not built off Powershell and therefor, anything that is Powershell-specific you can only do, if you want to do it through a GUI, you have to do it in the active directory administrative center. You won't be able to do it here.
+> **[0:58](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=58)** This one has the limitations in the sense that it was not built off [[Powershell]] and therefor, anything that is Powershell-specific you can only do, if you want to do it through a GUI, you have to do it in the active directory administrative center. You won't be able to do it here.
 >
 > **[1:12](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=72)** A couple of examples would be dealing with things like fine-grained password policies or the active directory recycle bin.
 >
@@ -734,7 +726,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=129)** First of all, this tool doesn't look like server manager or the other newer tools.
 >
-> **[2:15](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=135)** It looks more like it has a hierarchy like Windows Explorer, which has been around since forever.
+> **[2:15](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=135)** It looks more like it has a hierarchy like [[Windows]] Explorer, which has been around since forever.
 >
 > **[2:23](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=143)** And if I click on an item, so here I'm going to click on the users container, and then here's the administrator user account.
 >
@@ -771,12 +763,11 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - another (1)
 
-#### Active Directory Domains and Trusts overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980)
+#### [Active Directory Domains and Trusts overview](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980&t=0)** - [Narrator] Another management tool available to you is called Active Directory Domains and Trusts.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980&t=0)** - [Narrator] Another management tool available to you is called [[Active Directory]] Domains and Trusts.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980&t=6)** Here in the Server Manager on DC1, if I go back up to the Tools menu and click on it, the second one on the list that you'll see is Active Directory Domains and Trusts.
 >
@@ -810,19 +801,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), functional (4), management (2)
+> **Frameworks & Libraries:** [[Active Directory]] (4)
 > **UI Navigation:** click on (2), right-click (2)
 > **Env Vars:** dc1 (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Active Directory Sites and Services overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980)
+#### [Active Directory Sites and Services overview](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980&t=0)** - [Narrator] Another tool available for helping manage Active Directory Domain Services is called Active Directory Sites and Services.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980&t=0)** - [Narrator] Another tool available for helping manage [[Active Directory]] Domain Services is called Active Directory Sites and Services.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980&t=8)** So, here on DC-1 looking at the Server Manager, we're going to go up to the tools menu.
 >
@@ -883,12 +873,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Active Directory schema overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-schema-overview?u=76281980)
+#### [Active Directory schema overview](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-schema-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=0)** - [Instructor] In Windows Server 2019, there a number of graphical tools that are available to manage Active Directory Domain Services.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=0)** - [Instructor] In [[Windows Server]] 2019, there a number of graphical tools that are available to manage [[Active Directory]] Domain Services.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=11)** And where we see these tools typically is, what we're looking at here is the Server Manager.
 >
@@ -918,7 +907,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=110)** So I'm going to go back to my Command Prompt window, and I'm going to simply type M-M-C, and hit Enter.
 >
-> **[1:56](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=116)** This launches a generic, blank Microsoft Management tool.
+> **[1:56](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=116)** This launches a generic, blank [[Microsoft]] Management tool.
 >
 > **[2:03](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=123)** This is a great way to be able to create a custom tool, so for instance, let's say you wanted to quickly and easily access Active Directory users and computers, and Active Directory domains and trusts, right?
 >
@@ -956,7 +945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (11), prompt (4), management (4), hit (2), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (11), [[Windows Server]] (1), [[Microsoft]] (1)
 > **Env Vars:** dll (4), dc1 (1), cmd (1)
 > **Tools:** command prompt (4), command line (1)
 > **UI Navigation:** click on (4)
@@ -965,16 +954,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for instance (1)
 
-#### Managing AD DS from the command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980)
+#### [Managing AD DS from the command line](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=0)** - [Narrator] Besides managing active directory, through the graphical user interface, there are also a couple of ways that you can manage by using scripting or command line test.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=0)** - [Narrator] Besides managing [[Active Directory]], through the graphical user interface, there are also a couple of ways that you can manage by using scripting or command line test.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=15)** One thing that you may have noticed, here we're in the server manager on DC1, when in the past when I talked about the tools menu and we've seen all the different tools that are available, all of these Active Directory tools are all graphical tools, except for one.
 >
-> **[0:31](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=31)** It's the one right here in the middle, it's the third one on the list of the five Active Directory tools and it's called Active Directory Module for Windows PowerShell.
+> **[0:31](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=31)** It's the one right here in the middle, it's the third one on the list of the five Active Directory tools and it's called Active Directory Module for [[Windows]] [[Powershell]].
 >
 > **[0:39](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=39)** If I click on that, you will see that it take me into a Powershell console.
 >
@@ -1002,7 +990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), [[Powershell]] (4), [[Scripting]] (3), management (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Powershell]] (4), [[Windows]] (1)
 > **Tools:** powershell (4), command line (3), command prompt (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -1015,12 +1003,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### FSMO overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980)
+#### [FSMO overview](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=0)** - [Instructor] In Active Directory Domain Services, all domain controllers are pretty much equal in the sense that we work in what's called a multi-master replication typology and any domain controller has the ability to perform pretty much the same actions that any other domain controller can perform.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=0)** - [Instructor] In [[Active Directory]] Domain Services, all domain controllers are pretty much equal in the sense that we work in what's called a multi-master replication typology and any domain controller has the ability to perform pretty much the same actions that any other domain controller can perform.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=19)** But you need to know that there are certain components of the database and certain actions in which we need to designate a single master.
 >
@@ -1028,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=34)** Now that one master can be moved from one domain controller to another and that's why we call it Flexible Single Master of Operations or FSMO.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=45)** So let's take a look at the five FSMOs that we have in Windows Server 2019.
+> **[0:45](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=45)** So let's take a look at the five FSMOs that we have in [[Windows Server]] 2019.
 >
 > **[0:51](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=51)** To do this I'm going to connect to pretty much any domain controller, but I'm going to choose DC1.
 >
@@ -1052,7 +1039,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=118)** So this is what's known as the RID master and it manages the master list of relative IDs to be handed out to all the other domain controllers when creating objects.
 >
-> **[2:09](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=129)** The second tab says this is the operations master that emulates the functions of a primary domain controller, that's where the letters PDC come from, for pre-Windows 2000 clients.
+> **[2:09](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=129)** The second tab says this is the operations master that emulates the functions of a primary domain controller, that's where the letters PDC come from, for pre-[[Windows]] 2000 clients.
 >
 > **[2:22](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980&t=142)** Okay, so this is what's called the PDC emulator, and it emulates to pre-Windows 2000 Clients that are used to the old days when we used to have a primary domain controller and then backup domain controllers.
 >
@@ -1140,7 +1127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (10), [[Windows]] (4), database (2), management (2), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (10), [[Windows]] (4), [[Windows Server]] (1)
 > **Env Vars:** rid (7), dc1 (6), pdc (6), fsmo (1), cmd (1)
 > **Definitions:** means that (3), known as (3), is a  (2), stands for (1)
 > **UI Navigation:** click on (4), go to (2)
@@ -1148,12 +1135,11 @@ created: 2026-05-02
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transferring a FSMO role
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980)
+#### [Transferring a FSMO role](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=0)** - [Narrator] When talking about FSMOs, the first word is flexible, and when we talk about flexibles, because we can move an operations master role from one computer to another, and this is typically what's called transferring a FSMO role.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=0)** - [Narrator] When talking about FSMOs, the first [[Microsoft Word|word]] is flexible, and when we talk about flexibles, because we can move an operations master role from one computer to another, and this is typically what's called transferring a FSMO role.
 >
 > **[0:18](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=18)** So, I want to demonstrate how you would do that now.
 >
@@ -1161,7 +1147,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=35)** So, let's go there now.
 >
-> **[0:37](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=37)** Here in the Server Manager, we're going to go up to the tools menu, and I'm going to select Active Directory Users and Computers because this is where we can see the three domain FSMOs.
+> **[0:37](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=37)** Here in the Server Manager, we're going to go up to the tools menu, and I'm going to select [[Active Directory]] Users and Computers because this is where we can see the three domain FSMOs.
 >
 > **[0:47](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=47)** I'm going to right click on landonhotel.local, and select Operations Masters.
 >
@@ -1208,8 +1194,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [narrator] (1)
 
-#### Seizing a FSMO role
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980)
+#### [Seizing a FSMO role](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1227,7 +1212,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=47)** So let's connect to DC-2 and see what the result is when we try to transfer the role.
 >
-> **[0:53](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=53)** Here in the Server Manager, I am going to go to the Tools menu, and select Active Directory Domains and Trusts, because this is where we can see the domain naming master role.
+> **[0:53](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=53)** Here in the Server Manager, I am going to go to the Tools menu, and select [[Active Directory]] Domains and Trusts, because this is where we can see the domain naming master role.
 >
 > **[1:06](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=66)** And you'll see that right away, I'm already dealing with error messages.
 >
@@ -1289,7 +1274,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=271)** I am now connected to DC-2 using the credentials of however I'm logged in, which is as the administrator.
 >
-> **[4:39](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=279)** Now I need to, and this is going to be a little bit weird, I'm going to type in the word quit.
+> **[4:39](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=279)** Now I need to, and this is going to be a little bit weird, I'm going to type in the [[Microsoft Word|word]] quit.
 >
 > **[4:43](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=283)** This doesn't quit out of ntdsutil, it only quits me out of the server connections.
 >
@@ -1325,7 +1310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), prompt (7), [[Active Directory]] (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** fsmo (4), pdc (1)
 > **UI Navigation:** go to (2), right-click (1), click on (1)
 > **Tools:** command prompt (3)
@@ -1338,12 +1323,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Permissions overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980)
+#### [Permissions overview](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=0)** - Managing the active directory domain services environment is one of the most common tasks that an IT professional will perform.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=0)** - Managing the [[Active Directory]] domain services environment is one of the most common tasks that an IT professional will perform.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=7)** In fact, there is so much to be done when it comes to managing active directory, it's important that you sometimes choose to make the wise decision to go ahead and assign some of those administration needs out to other people.
 >
@@ -1391,7 +1375,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=166)** Now you'll notice that we can see a lot more, and we're not going to worry about everything that was just created, but I am going to right click on customer service and select properties, and we're going to look at the fact that we have a number of additional tabs, most specifically, a security tab.
 >
-> **[3:02](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=182)** In this security tab, we will see what basically looks the same as the security tab on any file or folder, just in any Windows environment.
+> **[3:02](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=182)** In this security tab, we will see what basically looks the same as the security tab on any file or folder, just in any [[Windows]] environment.
 >
 > **[3:10](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=190)** We have an access control list, or an ACL, of users and groups, and then a set of permissions that they are allowed or denied.
 >
@@ -1405,7 +1389,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=216)** The first thing I have to do is select the principle that I'm adding to this list.
 >
-> **[3:40](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=220)** So I'll click on that and then type in the word junior and when I click check names, it'll find junior admin.
+> **[3:40](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=220)** So I'll click on that and then type in the [[Microsoft Word|word]] junior and when I click check names, it'll find junior admin.
 >
 > **[3:47](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980&t=227)** I'll click okay.
 >
@@ -1433,7 +1417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), [[Security]] (4), feature (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (4), go to (2), select the (1), scroll down (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dc1 (1), acl (1)
@@ -1441,12 +1425,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - managing (1)
 
-#### Delegation of Control Wizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/delegation-of-control-wizard?u=76281980)
+#### [Delegation of Control Wizard](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/delegation-of-control-wizard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/delegation-of-control-wizard?u=76281980&t=0)** - [Instructor] Even though permissions can be assigned over Active Directory objects manually the same we would do with files and folders, Microsoft has given us a nifty little wizard that we can use to simplify the process, so here we're looking at the server manager on DC1, and I'm going to go to the Tools menu, and take us into Active Directory Users and Computers.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/delegation-of-control-wizard?u=76281980&t=0)** - [Instructor] Even though permissions can be assigned over [[Active Directory]] objects manually the same we would do with files and folders, [[Microsoft]] has given us a nifty little wizard that we can use to simplify the process, so here we're looking at the server manager on DC1, and I'm going to go to the Tools menu, and take us into Active Directory Users and Computers.
 >
 > **[0:26](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/delegation-of-control-wizard?u=76281980&t=26)** And in here we can see that if we go to the properties of the customer service container, I had previously assigned, I meant to go to the Security tab here, I had assigned Junior Admin the ability to reset and change passwords for the users.
 >
@@ -1494,20 +1477,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Security]] (3), [[Active Directory]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Microsoft]] (1)
 > **UI Navigation:** go to (4), click on (3), checkbox (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dc1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a custom management tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980)
+#### [Creating a custom management tool](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=0)** - Once you have delegated some level of control out to a user, you have to make sure that that user has the tools and the know-how to perform the task you have delegated out to them.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=12)** To demonstrate how we can create a custom tool that's perfectly matched to a delegated task, I am looking right now at the Server Manager on DC1 and the first thing I'd like to do is to go up to the tools menu, and take us into Active Directory Users and Computers, because I want to show you something that I've already done before recording here.
+> **[0:12](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=12)** To demonstrate how we can create a custom tool that's perfectly matched to a delegated task, I am looking right now at the Server Manager on DC1 and the first thing I'd like to do is to go up to the tools menu, and take us into [[Active Directory]] Users and Computers, because I want to show you something that I've already done before recording here.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=33)** In our Customer Service container, we used to have three users.
 >
@@ -1611,7 +1593,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=267)** So, now I don't even see the Customer Service Container, I just see the users.
 >
-> **[4:35](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=275)** And in order to rest a password, all I do is click on a user, and then I have a button down below to reset password.
+> **[4:35](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=275)** And in order to [[Representational State Transfer (REST)|rest]] a password, all I do is click on a user, and then I have a button down below to reset password.
 >
 > **[4:42](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=282)** And all you have to do is click on that button and you'd be going through the process of resetting the password.
 >
@@ -1625,7 +1607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Active Directory]] (4), [[Security]] (1), prompt (1), management (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (5), select the (1), go to (1)
 > **CLI Commands:** snap (3), make (2)
 > **Definitions:** is a  (2), is an  (1), is called (1)
@@ -1638,12 +1620,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980)
+#### [Creating user accounts](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=0)** - In Active Directory Domain Services, there are many different types of objects that you'll be responsible for managing.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=0)** - In [[Active Directory]] Domain Services, there are many different types of objects that you'll be responsible for managing.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=6)** One of those objects is something known as a user account object.
 >
@@ -1667,7 +1648,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=81)** Right, that seems like a good container for a user.
 >
-> **[1:24](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=84)** So I'm going to click on it and them I'm going to actually right-click using the right mouse button, and in this menu I'm just going to hover my mouse over the word new, and you'll see it pops out a secondary menu, and down near the bottom we see user.
+> **[1:24](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=84)** So I'm going to click on it and them I'm going to actually right-click using the right mouse button, and in this menu I'm just going to hover my mouse over the [[Microsoft Word|word]] new, and you'll see it pops out a secondary menu, and down near the bottom we see user.
 >
 > **[1:39](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=99)** So I'm going to click that.
 >
@@ -1693,7 +1674,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=176)** So here we'll see that we have klopez@landonhotel.local.
 >
-> **[3:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=180)** The pre-Windows 2000 name is LANDONHOTEL\klopez.
+> **[3:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=180)** The pre-[[Windows]] 2000 name is LANDONHOTEL\klopez.
 >
 > **[3:05](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=185)** Okay, it's just a matter of how it's looked at by the system.
 >
@@ -1751,7 +1732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (7), next (4), [[Security]] (2), [[Microsoft Word|Word]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (7), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (2), checkbox (2), select the (1), right-click (1), go to (1)
 > **Definitions:** means that (2), known as (1), is a  (1), is an  (1)
 > **CLI Commands:** make (2)
@@ -1760,12 +1741,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** be careful (1)
 
-#### Moving user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/moving-user-accounts?u=76281980)
+#### [Moving user accounts](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/moving-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/moving-user-accounts?u=76281980&t=0)** - [Instructor] One of the nice features about Windows Server 2019 Active Directory Domain Services is the ability to quickly and easily move user account objects from one container to another.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/moving-user-accounts?u=76281980&t=0)** - [Instructor] One of the nice features about [[Windows Server]] 2019 [[Active Directory]] Domain Services is the ability to quickly and easily move user account objects from one container to another.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/moving-user-accounts?u=76281980&t=13)** So, here I am on DC1 and we are in the Active Directory Users and Computers utility, and we've just created a user account named Kathy Lopez, and when I created this account, I added it into the Users container, okay, that's what we're highlighting on here is the Users container and we have Kathy Lopez, but maybe I've realized, well, Kathy Lopez wasn't supposed to be in the Users container.
 >
@@ -1813,8 +1793,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### User account templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/user-account-templates?u=76281980)
+#### [User account templates](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/user-account-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,7 +1807,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/user-account-templates?u=76281980&t=40)** Well there is a solution for this, and it's called a user account template.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/user-account-templates?u=76281980&t=45)** So what we're looking at here is I'm on DC1, and we're in the Active Directory Users Utility, and we're looking at the Customer Service container, so we have our Customer Service users.
+> **[0:45](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/user-account-templates?u=76281980&t=45)** So what we're looking at here is I'm on DC1, and we're in the [[Active Directory]] Users Utility, and we're looking at the Customer Service container, so we have our Customer Service users.
 >
 > **[1:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/user-account-templates?u=76281980&t=60)** And I would say that it's pretty common that anybody I hire into the customer service department is going to have the exact same needs as pretty much any other customer service user.
 >
@@ -1888,7 +1867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (1)
 > **Exercise Files:** template (9)
 > **UI Navigation:** go to (2), click on (1), checkbox (1)
 > **Definitions:** is a  (2)
@@ -1897,8 +1876,7 @@ created: 2026-05-02
 > **Env Vars:** dc1 (1)
 > **Cross-References:** go back to (1)
 
-#### Creating a group
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980)
+#### [Creating a group](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1906,7 +1884,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=15)** So in order to help alleviate the problem of having to assign rights and permissions to individual users one at a time we now have the ability to create groups and then we can make users members of those groups and then simply assign rights and permissions to the group which will then inherit down to the users.
 >
-> **[0:37](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=37)** So let me demonstrate the how to create these group objects in Active Directory.
+> **[0:37](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=37)** So let me demonstrate the how to create these group objects in [[Active Directory]].
 >
 > **[0:43](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=43)** To do this, we're going to connect to DC one.
 >
@@ -1924,7 +1902,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=113)** All we have to do is simply give the group a name.
 >
-> **[1:56](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=116)** So I'm going to say Customer Service Users and you'll see that it auto-populates the same name for pre Windows 2000.
+> **[1:56](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=116)** So I'm going to say Customer Service Users and you'll see that it auto-populates the same name for pre [[Windows]] 2000.
 >
 > **[2:07](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=127)** But the main thing is is making sure that we select the correct Group Scope and Group Type.
 >
@@ -1956,7 +1934,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=223)** And then we have this group called the Domain Local group and this is an interesting group.
 >
-> **[3:49](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=229)** It is one that Microsoft has had around for a long time.
+> **[3:49](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=229)** It is one that [[Microsoft]] has had around for a long time.
 >
 > **[3:54](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-a-group?u=76281980&t=234)** They have been pushing for a long time.
 >
@@ -1980,18 +1958,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Active Directory]] (2), [[Windows]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows]] (2), [[Microsoft]] (2)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 
-#### Managing group membership
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-group-membership?u=76281980)
+#### [Managing group membership](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-group-membership?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-group-membership?u=76281980&t=0)** - [Instructor] Once you have created a group in Active Directory, the next thing you have to worry about is managing the membership of that group.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-group-membership?u=76281980&t=0)** - [Instructor] Once you have created a group in [[Active Directory]], the next thing you have to worry about is managing the membership of that group.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-group-membership?u=76281980&t=11)** Alright, so, here we are looking at Active Directory Users and Computers on DC1, and we've just created the customer service users security group.
 >
@@ -2039,7 +2016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), next (1), [[Security]] (1), hit (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2)
 > **Definitions:** is a  (8)
 > **UI Navigation:** go to (4), click on (3)
 > **Env Vars:** dc1 (1)
@@ -2047,12 +2024,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computer accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/computer-accounts?u=76281980)
+#### [Computer accounts](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/computer-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/computer-accounts?u=76281980&t=0)** - [Instructor] Another type of object that we have in Active Directory Domain Services is something called the computer account object.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/computer-accounts?u=76281980&t=0)** - [Instructor] Another type of object that we have in [[Active Directory]] Domain Services is something called the computer account object.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/computer-accounts?u=76281980&t=9)** Now a computer account, similar to a user account, is a security principle.
 >
@@ -2148,7 +2124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), management (4), [[Security]] (2), hit (1)
+> **Frameworks & Libraries:** [[Active Directory]] (6)
 > **UI Navigation:** right-click (5), go to (4), click on (2)
 > **Definitions:** is a  (4), is an  (2), in other words (1), means that (1)
 > **Analogies:** just like (3), similar to (1), for instance (1)
@@ -2156,12 +2132,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating organizational units (OUs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980)
+#### [Creating organizational units (OUs)](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=0)** - [Instructor] In Active Directory Domain Services, the organizational unit container object may be your all-time best friend, and the reason why is because without these container objects, well, then your Active Directory Domain Services environment would probably be quite complicated, confusing, and in some cases next to impossible to administrate.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=0)** - [Instructor] In [[Active Directory]] Domain Services, the organizational unit container object may be your all-time best friend, and the reason why is because without these container objects, well, then your Active Directory Domain Services environment would probably be quite complicated, confusing, and in some cases next to impossible to administrate.
 >
 > **[0:22](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=22)** To show you first of all here how to simply create these organizational units, or what's sometimes known as OUs for short, to do this, I'm going to jump on to DC1.
 >
@@ -2175,7 +2150,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=87)** To do this I basically right-click on the domain itself, hover over new, and then select "organizational unit".
 >
-> **[1:38](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=98)** Here I get the simplest of simple one page forms to fill in, and that is to just give it a name.
+> **[1:38](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=98)** Here I get the simplest of simple one page [[Forms]] to fill in, and that is to just give it a name.
 >
 > **[1:46](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=106)** So I'm going to call it "Top Level OU".
 >
@@ -2185,7 +2160,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=134)** So I'll click "okay", and you'll see that I now have an OU created called "Top Level OU".
 >
-> **[2:20](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=140)** If I want to create a hierarchical structure of OUs, we can think of it almost like a folder structure in Windows Explorer, I would right-click on that OU, and again, tell it that I want to create another new OU, and this time we're going to call this "Second Level OU", again I'll leave the protection on, click OK, and I want to show you that I can even go another step deeper, to create another organizational unit, call this the "Third Level OU", and this time I'm going to not protect from accidental deletion, click OK, alright so there we go.
+> **[2:20](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=140)** If I want to create a hierarchical structure of OUs, we can think of it almost like a folder structure in [[Windows]] Explorer, I would right-click on that OU, and again, tell it that I want to create another new OU, and this time we're going to call this "Second Level OU", again I'll leave the protection on, click OK, and I want to show you that I can even go another step deeper, to create another organizational unit, call this the "Third Level OU", and this time I'm going to not protect from accidental deletion, click OK, alright so there we go.
 >
 > **[3:06](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=186)** I now have a hierarchical structure, top level, second level, third level, and you can go as deep as you want to go.
 >
@@ -2223,7 +2198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), hit (3), next (1), [[Forms]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Forms]] (1), [[Windows]] (1)
 > **UI Navigation:** right-click (3), go to (1), click on (1)
 > **Definitions:** is an  (2), known as (1), means that (1)
 > **Env Vars:** dc1 (1)
@@ -2232,12 +2207,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examples of OU hierarchies
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980)
+#### [Examples of OU hierarchies](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=0)** - [Instructor] There are three main benefits to having an organizational unit hierarchy within your Active Directory Domain Services environment.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=0)** - [Instructor] There are three main benefits to having an organizational unit hierarchy within your [[Active Directory]] Domain Services environment.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=10)** The first one is just kind of the obvious, which is that it just helps keep things organized.
 >
@@ -2245,7 +2219,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=19)** You can actually have some level of organizational to it.
 >
-> **[0:22](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=22)** The second is that it can help you to apply group policy object settings, and don't worry if you're not familiar with group policy objects, you'll learn about that as part of learning all about Windows Server 2019.
+> **[0:22](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=22)** The second is that it can help you to apply group policy object settings, and don't worry if you're not familiar with group policy objects, you'll learn about that as part of learning all about [[Windows Server]] 2019.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=37)** And the third has to do with having the ability to delegate control over objects, which we learned about in another video in this course.
 >
@@ -2297,7 +2271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows Server]] (1), business (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows Server]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** dc1 (1)
 > **UI Navigation:** go to (1)
@@ -2311,12 +2285,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/next-steps?u=76281980&t=0)** - [Ed] I hope you've enjoyed finding out about installing and configuring Active Directory domain services in Windows Server 2019 as much as I've enjoyed showing you.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/next-steps?u=76281980&t=0)** - [Ed] I hope you've enjoyed finding out about installing and configuring [[Active Directory]] domain services in [[Windows Server]] 2019 as much as I've enjoyed showing you.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/next-steps?u=76281980&t=9)** If you want to learn more about working with Active Directory in Windows Server 2019, please explore our library as we have a number of courses out there to help you.
 >
@@ -2324,7 +2297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows Server]] (2), next (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows Server]] (2)
 > **Speakers:** - [ed] (1)
 
 

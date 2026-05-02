@@ -116,16 +116,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for data wrangling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980)
+#### [Preparing for data wrangling](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980&t=0)** - [Mike] Hi, I'm Mike Chapple.
 >
-> **[0:02](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980&t=2)** And I'd like to welcome you to this course on Data Wrangling in R.
+> **[0:02](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980&t=2)** And I'd like to welcome you to this course on [[Data Wrangling]] in R.
 >
-> **[0:06](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980&t=6)** R is an extremely powerful language used by data scientists, analysts, and business users to perform statistical analysis, visualization and machine learning in a wide variety of fields.
+> **[0:06](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980&t=6)** R is an extremely powerful language used by data scientists, analysts, and business users to perform [[Statistical Analysis]], visualization and machine learning in a wide variety of fields.
 >
 > **[0:19](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980&t=19)** In this course, I'll explain how you can use R to perform data wrangling using concepts drawn from the field of tidy data.
 >
@@ -139,16 +138,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (2), [[Statistical Analysis]] (1)
 > **Definitions:** is an  (1), known as (1)
 > **Speakers:** - [mike] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-you-need-to-know?u=76281980&t=0)** - [Instructor] I've designed this course as an introduction to the concepts of data wrangling, tidy data, and the tidyverse.
+> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-you-need-to-know?u=76281980&t=0)** - [Instructor] I've designed this course as an introduction to the concepts of [[Data Wrangling]], tidy data, and the tidyverse.
 >
 > **[0:07](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-you-need-to-know?u=76281980&t=7)** You won't need any background in those fields to complete this course.
 >
@@ -162,12 +160,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
+> **Frameworks & Libraries:** [[Data Wrangling]] (2)
 > **Prerequisites:** install (1), getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,15 +184,15 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/exercise-files?u=76281980&t=48)** Now I strongly encourage you to download these files and use them to follow along as we work our way through the course.
 >
-> **[0:54](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/exercise-files?u=76281980&t=54)** There's no better way to learn data wrangling in R than rolling up your sleeves and coding yourself.
+> **[0:54](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/exercise-files?u=76281980&t=54)** There's no better way to learn [[Data Wrangling]] in R than rolling up your sleeves and coding yourself.
 >
 > **[0:59](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/exercise-files?u=76281980&t=59)** If you're viewing this course on a mobile device or set-top device or your membership doesn't provide access to the exercise files, that's okay.
 >
-> **[1:06](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/exercise-files?u=76281980&t=66)** I still encourage you to follow along in RStudio by recreating the code yourself.
+> **[1:06](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/exercise-files?u=76281980&t=66)** I still encourage you to follow along in [[RStudio]] by recreating the code yourself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1), [[RStudio]] (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - [instructor] (1)
@@ -205,20 +202,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is tidy data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980)
+#### [What is tidy data?](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=0)** - [Instructor] The goal of this course is to help you use R to transform your datasets into a consistent format known as Tidy Data.
 >
-> **[0:08](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=8)** You do this through a process known as data wrangling.
+> **[0:08](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=8)** You do this through a process known as [[Data Wrangling]].
 >
 > **[0:11](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=11)** Now data wrangling is the process of taking messy data and manipulating it into a format that's well suited for analysis.
 >
 > **[0:18](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=18)** It goes by many other names.
 >
-> **[0:19](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=19)** Some people call it data cleaning, data munging or data preparation.
+> **[0:19](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=19)** Some people call it [[Data Cleaning]], data munging or [[Data Preparation]].
 >
 > **[0:24](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=24)** Now whatever name you choose to use, it's important to remember that this is not a one-time task.
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=81)** You'll find that it is full of examples that help illustrate the concepts of Tidy Data.
 >
-> **[1:25](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=85)** Now one quick word of warning.
+> **[1:25](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=85)** Now one quick [[Microsoft Word|word]] of warning.
 >
 > **[1:27](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=87)** The Tidyverse is rapidly evolving.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=168)** Wickham drew the parallel to Tidy Data by saying Tidy Data are all alike, but every messy dataset is messy in its own way.
 >
-> **[2:57](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=177)** Your job in wrangling data is to develop an understanding of your unique datasets and figure out how to use data manipulation tools in R to properly structure it as Tidy Data.
+> **[2:57](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=177)** Your job in wrangling data is to develop an understanding of your unique datasets and figure out how to use [[Data Manipulation]] tools in R to properly structure it as Tidy Data.
 >
 > **[3:10](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980&t=190)** Once you've done that, a whole world of data analysis tools becomes available to you.
 >
@@ -274,25 +270,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Microsoft Word|Word]] (1), parallel (1), [[Data Manipulation]] (1), power (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (7), [[Data Cleaning]] (1), [[Data Preparation]] (1), [[Microsoft Word|Word]] (1), [[Data Manipulation]] (1)
 > **Definitions:** known as (3), is a  (1)
 > **Prerequisites:** required to (1), you'll need (1)
 > **CLI Commands:** find (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Variables, observations, and values
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980)
+#### [Variables, observations, and values](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=0)** - [Instructor] Datasets come in many forms, and our job is to transform them using the standard principles of tidy data.
+> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=0)** - [Instructor] Datasets come in many [[Forms]], and our job is to transform them using the standard principles of tidy data.
 >
 > **[0:07](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=7)** Take a look at this dataset that Hadley Wickham provided in his paper.
 >
 > **[0:11](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=11)** This dataset describes the results of a medical experiment.
 >
-> **[0:14](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=14)** In this experiment, there were three different patients, John Smith, Jane Doe and Mary Johnson.
+> **[0:14](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=14)** In this experiment, there were three different patients, [[John the Ripper|John]] Smith, Jane Doe and Mary Johnson.
 >
 > **[0:21](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=21)** There were also two different treatments: treatment A and treatment B.
 >
@@ -324,7 +319,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=87)** That would be a single observation.
 >
-> **[1:29](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=89)** If we measured that same person's vital statistics again on Thursday, that would be a second observation.
+> **[1:29](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=89)** If we measured that same person's vital [[Statistics]] again on Thursday, that would be a second observation.
 >
 > **[1:36](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/variables-observations-and-values?u=76281980&t=96)** Values are the intersection of a variable and an observation.
 >
@@ -400,15 +395,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Forms]] (4), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (5), [[Forms]] (4), [[Statistics]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common data problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/common-data-problems?u=76281980)
+#### [Common data problems](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/common-data-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,7 +462,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/common-data-problems?u=76281980&t=156)** Remember, there are multiple ways that you can think about observational units.
 >
-> **[2:41](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/common-data-problems?u=76281980&t=161)** And then the third rule is that each type of observational unit forms a table.
+> **[2:41](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/common-data-problems?u=76281980&t=161)** And then the third rule is that each type of observational unit [[Forms]] a table.
 >
 > **[2:45](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/common-data-problems?u=76281980&t=165)** This is all data about religion and income, so we're okay there as well.
 >
@@ -574,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Analogies:** for example (5)
 > **Cross-References:** later in (2), earlier in (1), in the last (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -583,8 +577,7 @@ created: 2026-05-02
 > **Versions:** 27.3 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the tidyverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980)
+#### [Using the tidyverse](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -606,9 +599,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=45)** The readr and readxl packages provide you with the ability to easily import and export data into R.
 >
-> **[0:51](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=51)** That's a key component of data wrangling, and I'll discuss it in detail in the "Importing Data Section" of this course.
+> **[0:51](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=51)** That's a key component of [[Data Wrangling]], and I'll discuss it in detail in the "Importing Data Section" of this course.
 >
-> **[0:57](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=57)** Dplyr and tidyr are data manipulation libraries that contain many of the functions that we'll use to resolve issues with data sets and convert them into tidy form.
+> **[0:57](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=57)** Dplyr and tidyr are [[Data Manipulation]] libraries that contain many of the functions that we'll use to resolve issues with data sets and convert them into tidy form.
 >
 > **[1:07](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=67)** Stringr is a string manipulation library that makes it easy to work with text, while lubridate does the same thing for dates and times.
 >
@@ -618,13 +611,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=91)** It's simple to install and update the entire tidyverse all at once.
 >
-> **[1:35](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=95)** Here I am in our RStudio.
+> **[1:35](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=95)** Here I am in our [[RStudio]].
 >
 > **[1:38](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=98)** RStudio is the most popular development environment for programmers working in R.
 >
 > **[1:42](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=102)** If you don't already have R and RStudio installed on your system, you can visit [RStudio.com](https://RStudio.com) to download them for free.
 >
-> **[1:49](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=109)** I don't cover installing RStudio in this course, but you can find assistance installing it in the "Data Science with R" course on this site.
+> **[1:49](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=109)** I don't cover installing RStudio in this course, but you can find assistance installing it in the "[[Data Science]] with R" course on this site.
 >
 > **[1:57](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/using-the-tidyverse-25311500?u=76281980&t=117)** Here's how simple it is to install the tidyverse.
 >
@@ -686,7 +679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[RStudio]] (5), next (2), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (5), [[Data Wrangling]] (1), [[Data Manipulation]] (1), [[Data Science]] (1)
 > **Prerequisites:** install (7), you'll need (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1), make (1)
@@ -700,8 +693,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building and printing tibbles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/building-and-printing-tibbles?u=76281980)
+#### [Building and printing tibbles](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/building-and-printing-tibbles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +731,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/building-and-printing-tibbles?u=76281980&t=92)** Second, you can use the tibble function to build your own tibble from scratch.
 >
-> **[1:37](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/building-and-printing-tibbles?u=76281980&t=97)** Third, you can use the tidy versus data import packages to create tibbles from external data sources, such as CSV files or databases.
+> **[1:37](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/building-and-printing-tibbles?u=76281980&t=97)** Third, you can use the tidy versus data import packages to create tibbles from external data sources, such as CSV files or [[Databases]].
 >
 > **[1:45](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/building-and-printing-tibbles?u=76281980&t=105)** I'll cover those in the next chapter of this course.
 >
@@ -803,7 +795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), next (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** co2 (3), csv (1)
 > **Code Identifiers:** as_tibble (2)
@@ -812,8 +804,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Subsetting tibbles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/subsetting-tibbles?u=76281980)
+#### [Subsetting tibbles](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/subsetting-tibbles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,7 +822,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/subsetting-tibbles?u=76281980&t=29)** For an example, let's return to R.
 >
-> **[0:31](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/subsetting-tibbles?u=76281980&t=31)** Here, I have RStudio still set up the way we left it in the last video.
+> **[0:31](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/subsetting-tibbles?u=76281980&t=31)** Here, I have [[RStudio]] still set up the way we left it in the last video.
 >
 > **[0:35](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/subsetting-tibbles?u=76281980&t=35)** I have the people tibble that contains the name, birth years and eye colors of five people.
 >
@@ -863,15 +854,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (1)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering tibbles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/filtering-tibbles?u=76281980)
+#### [Filtering tibbles](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/filtering-tibbles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,7 +931,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
@@ -951,12 +940,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are CSV files?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-are-csv-files?u=76281980)
+#### [What are CSV files?](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-are-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-are-csv-files?u=76281980&t=0)** - [Presenter] Data scientists are often called upon to perform analysis on data stored in many different kinds of files in databases and on the web.
+> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-are-csv-files?u=76281980&t=0)** - [Presenter] Data scientists are often called upon to perform analysis on data stored in many different kinds of files in [[Databases]] and on the web.
 >
 > **[0:09](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-are-csv-files?u=76281980&t=9)** In these next few videos, I'll show you how you can import data from each of these environments and use it in your R code.
 >
@@ -1012,14 +1000,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Databases]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** csv (11)
 > **Definitions:** known as (2), is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Importing CSV files into R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-csv-files-into-r?u=76281980)
+#### [Importing CSV files into R](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-csv-files-into-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1056,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-csv-files-into-r?u=76281980&t=133)** Now, the one thing that I don't like is these variable names that have spaces in them.
 >
-> **[2:18](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-csv-files-into-r?u=76281980&t=138)** Spaces make variable names hard to work with and I prefer camel case variable names where the first letter of each word is capitalized.
+> **[2:18](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-csv-files-into-r?u=76281980&t=138)** Spaces make variable names hard to work with and I prefer camel case variable names where the first letter of each [[Microsoft Word|word]] is capitalized.
 >
 > **[2:25](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-csv-files-into-r?u=76281980&t=145)** I just find that easier to read.
 >
@@ -1157,7 +1144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), web (3), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** read_csv (10), col_names (3)
 > **Env Vars:** csv (3), url (2), http (1)
 > **CLI Commands:** make (2), find (2)
@@ -1166,8 +1153,7 @@ created: 2026-05-02
 > **File Paths:** 594442.youcanlearnit.net/inspections.csv (1)
 > **URLs:** [http://594442.youcanlearnit.net/inspections.csv](http://594442.youcanlearnit.net/inspections.csv) (1)
 
-#### What are TSV files?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-are-tsv-files?u=76281980)
+#### [What are TSV files?](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-are-tsv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1201,15 +1187,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** tsv (4), csv (1)
 > **Analogies:** similar to (1), for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importing TSV files into R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-tsv-files-into-r?u=76281980)
+#### [Importing TSV files into R](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-tsv-files-into-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1317,7 +1301,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Code Identifiers:** read_tsv (9), read_csv (3), call_names (1), col_types (1)
 > **Analogies:** just like (2), similar to (1), such as (1), for example (1)
 > **Env Vars:** tsv (1), http (1), drg (1), csv (1)
@@ -1325,9 +1308,9 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **URLs:** [http://594442.youcanlearnit.net/inpatient.tsv](http://594442.youcanlearnit.net/inpatient.tsv) (1)
 > **Cross-References:** in the last (1)
+> **Speakers:** - [instructor] (1)
 
-#### Importing delimited files into R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-delimited-files-into-r?u=76281980)
+#### [Importing delimited files into R](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-delimited-files-into-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1339,7 +1322,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-delimited-files-into-r?u=76281980&t=18)** First, you might come across files that are delimited using characters other than commas or tabs.
 >
-> **[0:25](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-delimited-files-into-r?u=76281980&t=25)** For example, here's a file containing information on work stoppages in the United States gathered by the U.S. Bureau of Labor Statistics.
+> **[0:25](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-delimited-files-into-r?u=76281980&t=25)** For example, here's a file containing information on work stoppages in the United States gathered by the U.S. Bureau of Labor [[Statistics]].
 >
 > **[0:33](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-delimited-files-into-r?u=76281980&t=33)** Each row contains the number of workers affected by a stoppage in a particular month.
 >
@@ -1407,7 +1390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Code Identifiers:** read_delim (9), read_csv (3), read_tsv (3), escape_backslash (1)
 > **Env Vars:** csv (2), tsv (1)
 > **Analogies:** for example (2)
@@ -1415,8 +1398,7 @@ created: 2026-05-02
 > **URLs:** [http://594442.youcanlearnit.net/workstoppages.txt](http://594442.youcanlearnit.net/workstoppages.txt) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importing fixed-width files into R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-fixed-width-files-into-r?u=76281980)
+#### [Importing fixed-width files into R](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-fixed-width-files-into-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1470,7 +1452,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-fixed-width-files-into-r?u=76281980&t=138)** And then the last one salary is NA 'cause it can be any length.
 >
-> **[2:21](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-fixed-width-files-into-r?u=76281980&t=141)** It's just the rest of the line of the file.
+> **[2:21](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-fixed-width-files-into-r?u=76281980&t=141)** It's just the [[Representational State Transfer (REST)|rest]] of the line of the file.
 >
 > **[2:24](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-fixed-width-files-into-r?u=76281980&t=144)** Now the read fwf function works a little differently and that I don't pass the names directly to the function.
 >
@@ -1494,7 +1476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** read_fwf (2)
 > **Env Vars:** csv (1), http (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1503,16 +1485,15 @@ created: 2026-05-02
 > **URLs:** [youcanlearnit.net](https://youcanlearnit.net) (1)
 > **Analogies:** for example (1)
 
-#### Importing Excel files into R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980)
+#### [Importing Excel files into R](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980&t=0)** - [Instructor] Microsoft Excel spreadsheets contain a large portion of the world's business information.
+> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980&t=0)** - [Instructor] [[Microsoft Excel]] spreadsheets contain a large portion of the world's business information.
 >
 > **[0:05](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980&t=5)** Let's take a look at how you can read these files directly into R.
 >
-> **[0:10](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980&t=10)** Here's the Excel file that we'll work with.
+> **[0:10](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980&t=10)** Here's the [[Microsoft Excel|Excel]] file that we'll work with.
 >
 > **[0:12](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980&t=12)** This file, contains data from the US Department of Agriculture on the federally funded school breakfast program.
 >
@@ -1586,7 +1567,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980&t=224)** And if we take a look at the results that seems to have done the trick.
 >
-> **[3:50](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980&t=230)** Now, I still need to do a couple of quick data cleaning operations here.
+> **[3:50](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980&t=230)** Now, I still need to do a couple of quick [[Data Cleaning]] operations here.
 >
 > **[3:54](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-excel-files-into-r?u=76281980&t=234)** First, the data on student and meal counts in the file in Excel was shown in millions.
 >
@@ -1628,7 +1609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (6), [[Microsoft Excel]] (1), business (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft Excel]] (1), [[Data Cleaning]] (1)
 > **Code Identifiers:** read_excel (9), col_names (1)
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** you'll need (1), install (1)
@@ -1637,14 +1618,13 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading data from databases and the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980)
+#### [Reading data from databases and the web](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=0)** - [Instructor] Sometimes, the data we need isn't stored in a clean file ready for our analysis.
 >
-> **[0:05](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=5)** We need to pull it from databases or web services.
+> **[0:05](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=5)** We need to pull it from [[Databases]] or web services.
 >
 > **[0:09](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=9)** R provides facilities for both of these cases.
 >
@@ -1658,11 +1638,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=34)** It allows developers to access database information without worrying about the type of database underneath.
 >
-> **[0:40](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=40)** Now, ODBC is compatible with major enterprise databases, including MySQL, Oracle, and Microsoft SQL Server.
+> **[0:40](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=40)** Now, ODBC is compatible with major enterprise databases, including [[MySQL]], Oracle, and [[Microsoft SQL Server]].
 >
-> **[0:47](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=47)** It also works with end user databases and spreadsheets like Microsoft Access and Excel.
+> **[0:47](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=47)** It also works with end user databases and spreadsheets like [[Microsoft]] Access and [[Microsoft Excel|Excel]].
 >
-> **[0:53](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=53)** The RODBC package provides functionality that allows developers to open connections to databases, and then either load entire tables into R or load the results of a SQL query into an R data frame.
+> **[0:53](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=53)** The RODBC package provides functionality that allows developers to open connections to databases, and then either load entire tables into R or load the results of a [[SQL]] query into an R data frame.
 >
 > **[1:06](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=66)** Now, the RODBC library is not part of the tidyverse and it doesn't support tibbles, so if you use it, you'll need to convert the data yourself.
 >
@@ -1678,7 +1658,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=111)** In other cases, you'll want to pull data directly from web services.
 >
-> **[1:55](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=115)** You can do this using a technology known as application programming interfaces or APIs.
+> **[1:55](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=115)** You can do this using a technology known as [[Application Programming Interfaces (API)|application programming interfaces]] or APIs.
 >
 > **[2:01](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-data-from-databases-and-the-web?u=76281980&t=121)** APIs allow you to interact directly with web services and pull data from them directly into R.
 >
@@ -1688,7 +1668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Databases]] (7), database (6), web (4), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Microsoft Excel|Excel]] (2), [[MySQL]] (1), [[Microsoft SQL Server]] (1), [[Microsoft]] (1)
 > **Env Vars:** rodbc (5), odbc (3), sql (2), url (1), api (1)
 > **Definitions:** stands for (1), known as (1)
 > **Prerequisites:** you'll need (2)
@@ -1700,8 +1680,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wide vs. long datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980)
+#### [Wide vs. long datasets](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1717,9 +1696,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980&t=40)** Now, it's important to point out that there's nothing inherently good or bad about wide or long data.
 >
-> **[0:45](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980&t=45)** In the world of data wrangling, we sometimes need to make a long dataset wider, and we sometimes need to make a wide dataset longer.
+> **[0:45](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980&t=45)** In the world of [[Data Wrangling]], we sometimes need to make a long dataset wider, and we sometimes need to make a wide dataset longer.
 >
-> **[0:53](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980&t=53)** However, it is true that, as a general rule, data scientists who embrace the concept of tidy data generally prefer longer datasets over wider ones because they're easier to manipulate in R and other statistical analysis packages.
+> **[0:53](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980&t=53)** However, it is true that, as a general rule, data scientists who embrace the concept of tidy data generally prefer longer datasets over wider ones because they're easier to manipulate in R and other [[Statistical Analysis]] packages.
 >
 > **[1:08](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980&t=68)** The key is to make sure that you're continuing to follow the rules of tidy data.
 >
@@ -1759,15 +1738,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is called (2), is a  (1), is an  (1)
 > **Best Practices:** general rule (1), the key is (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making wide datasets long with pivot_longer()
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/making-wide-datasets-long-with-pivot-longer?u=76281980)
+#### [Making wide datasets long with pivot_longer()](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/making-wide-datasets-long-with-pivot-longer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1845,7 +1823,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24)
 > **Code Identifiers:** pivot_longer (8), names_to (2), values_to (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the last (1), we discussed (1)
@@ -1854,8 +1831,7 @@ created: 2026-05-02
 > **Env Vars:** csv (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Making long datasets wide with pivot_wider()
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/making-long-datasets-wide-with-pivot-wider?u=76281980)
+#### [Making long datasets wide with pivot_wider()](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/making-long-datasets-wide-with-pivot-wider?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1911,7 +1887,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** pivot_wider (2)
 > **File Paths:** mexicanweather.csv (1)
@@ -1920,8 +1895,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting data types in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/converting-data-types-in-r?u=76281980)
+#### [Converting data types in R](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/converting-data-types-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2069,7 +2043,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), teams (9)
 > **Code Identifiers:** foulshots_strings (5), foulshots_converted (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
@@ -2077,8 +2050,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with dates and times in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/working-with-dates-and-times-in-r?u=76281980)
+#### [Working with dates and times in R](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/working-with-dates-and-times-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2086,7 +2058,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/working-with-dates-and-times-in-r?u=76281980&t=5)** Fortunately, the Lubridate Library makes it easy to work with dates and times.
 >
-> **[0:09](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/working-with-dates-and-times-in-r?u=76281980&t=9)** Now Lubridate is an important package and it is installed with the rest of the tidyverse, but it's not part of the core tidyverse.
+> **[0:09](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/working-with-dates-and-times-in-r?u=76281980&t=9)** Now Lubridate is an important package and it is installed with the [[Representational State Transfer (REST)|rest]] of the tidyverse, but it's not part of the core tidyverse.
 >
 > **[0:17](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/working-with-dates-and-times-in-r?u=76281980&t=17)** Therefore, while you don't need to install it separately, you do need to load it separately in your R scripts.
 >
@@ -2192,7 +2164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), stands for (1)
@@ -2205,8 +2177,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Detecting outliers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/detecting-outliers?u=76281980)
+#### [Detecting outliers](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/detecting-outliers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2392,7 +2363,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), next (1)
 > **Analogies:** for example (2), imagine (2)
 > **Definitions:** is called (1), is an  (1), means that (1)
 > **CLI Commands:** find (2)
@@ -2401,8 +2371,7 @@ created: 2026-05-02
 > **Versions:** 1.5 (2)
 > **Speakers:** - [narrator] (1)
 
-#### Missing and special values in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/missing-and-special-values-in-r?u=76281980)
+#### [Missing and special values in R](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/missing-and-special-values-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2426,7 +2395,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/missing-and-special-values-in-r?u=76281980&t=50)** You can use the is.na function inside a filter function to identify rows with NA values for a particular variable.
 >
-> **[0:57](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/missing-and-special-values-in-r?u=76281980&t=57)** Now, one word of caution, different statistical packages and data sources use different ways to indicate missing values.
+> **[0:57](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/missing-and-special-values-in-r?u=76281980&t=57)** Now, one [[Microsoft Word|word]] of caution, different statistical packages and data sources use different ways to indicate missing values.
 >
 > **[1:05](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/missing-and-special-values-in-r?u=76281980&t=65)** Watch out for datasets that don't use the NA convention.
 >
@@ -2516,20 +2485,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (4), for example (2), imagine (1), similar to (1)
 > **Warnings:** caution (1), watch out (1), be aware (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Breaking apart columns with separate()
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980)
+#### [Breaking apart columns with separate()](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=0)** - [Instructor] Putting multiple variables in a single column violates one of the core rules of tidy data.
 >
-> **[0:06](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=6)** When performing data wrangling, we often need to break those columns apart in this separate variables.
+> **[0:06](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=6)** When performing [[Data Wrangling]], we often need to break those columns apart in this separate variables.
 >
 > **[0:12](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=12)** The separate function from the tidyverse allows you to break a column into two or more parts.
 >
@@ -2599,11 +2567,11 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=158)** I told it to separate things based upon the dash, but there's actually two dashes in this field.
 >
-> **[2:44](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=164)** There's the one separating the DRG code of 246 from the description, but then there's also another dash in the word drug-eluting stent.
+> **[2:44](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=164)** There's the one separating the DRG code of 246 from the description, but then there's also another dash in the [[Microsoft Word|word]] drug-eluting stent.
 >
 > **[2:53](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=173)** So what's happening here is it's trying to divide this into three pieces when it's only expecting two.
 >
-> **[2:59](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=179)** So the easiest way for me to fix this is to realize that we always have a three digit number and then the rest of what we have is the DRG description.
+> **[2:59](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=179)** So the easiest way for me to fix this is to realize that we always have a three digit number and then the [[Representational State Transfer (REST)|rest]] of what we have is the DRG description.
 >
 > **[3:09](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/breaking-apart-columns-with-separate?u=76281980&t=189)** So instead of separating those based on a delimiter, I'm going to separate it based on character description.
 >
@@ -2619,17 +2587,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** drg (9)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining columns with unite()
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/combining-columns-with-unite?u=76281980)
+#### [Combining columns with unite()](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/combining-columns-with-unite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/combining-columns-with-unite?u=76281980&t=0)** - [Instructor] In some data wrangling operations, we need to combine multiple columns into a single column.
+> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/combining-columns-with-unite?u=76281980&t=0)** - [Instructor] In some [[Data Wrangling]] operations, we need to combine multiple columns into a single column.
 >
 > **[0:06](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/combining-columns-with-unite?u=76281980&t=6)** The unite function from the Tidyverse allows you to create a single column by combining the contents of two or more existing columns.
 >
@@ -2683,15 +2650,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating strings in R with stringr
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/manipulating-strings-in-r-with-stringr?u=76281980)
+#### [Manipulating strings in R with stringr](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/manipulating-strings-in-r-with-stringr?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/manipulating-strings-in-r-with-stringr?u=76281980&t=0)** - [Instructor] Data wrangling often includes performing quite a bit of work with strings.
+> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/manipulating-strings-in-r-with-stringr?u=76281980&t=0)** - [Instructor] [[Data Wrangling]] often includes performing quite a bit of work with strings.
 >
 > **[0:04](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/manipulating-strings-in-r-with-stringr?u=76281980&t=4)** Let's take a look at how you can trim, edit, search and replace strings using the stringr library.
 >
@@ -2705,7 +2671,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/manipulating-strings-in-r-with-stringr?u=76281980&t=40)** Similarly, lowercase strings have all lowercase characters and you can convert a string to lowercase by using the str_to_lower() function.
 >
-> **[0:48](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/manipulating-strings-in-r-with-stringr?u=76281980&t=48)** Finally, title case strings capitalize the first letter of each word, and you can convert a string to title case by using the str_to_title() function.
+> **[0:48](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/manipulating-strings-in-r-with-stringr?u=76281980&t=48)** Finally, title case strings capitalize the first letter of each [[Microsoft Word|word]], and you can convert a string to title case by using the str_to_title() function.
 >
 > **[0:57](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/manipulating-strings-in-r-with-stringr?u=76281980&t=57)** There are four other string functions that we'll use from the stringr library.
 >
@@ -2867,7 +2833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (2), next (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Data Wrangling]] (1)
 > **Env Vars:** drg (13), str (1)
 > **Code Identifiers:** str_to_upper (2), str_to_lower (1), str_to_title (1), str_trim (1), str_sub (1)
 > **CLI Commands:** make (3)
@@ -2880,12 +2846,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the coal dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980)
+#### [Understanding the coal dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980&t=0)** - [Instructor] You now have all the tools and techniques that you'll need to perform data wrangling and transform messy datasets in the tidy datasets.
+> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980&t=0)** - [Instructor] You now have all the tools and techniques that you'll need to perform [[Data Wrangling]] and transform messy datasets in the tidy datasets.
 >
 > **[0:08](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980&t=8)** Now you may remember a quote from Hadley Wickham that I shared earlier in this course.
 >
@@ -2903,7 +2868,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980&t=57)** In the next video, I'll show you how you can pull it from that site directly into R.
 >
-> **[1:01](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980&t=61)** In the meantime, I have it here opened an Excel.
+> **[1:01](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980&t=61)** In the meantime, I have it here opened an [[Microsoft Excel|Excel]].
 >
 > **[1:04](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980&t=64)** Before I start working with this data set, I want to just take a look around to get a feel for how it's structured and the information it contains.
 >
@@ -2931,13 +2896,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (3), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading in the coal dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-in-the-coal-dataset?u=76281980)
+#### [Reading in the coal dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-in-the-coal-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2969,7 +2933,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-in-the-coal-dataset?u=76281980&t=69)** I have all of these strange X variables, and my that has n/a values in the first observation.
 >
-> **[1:16](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-in-the-coal-dataset?u=76281980&t=76)** Let's go back and take a look at the CSV file in Excel and see if we can figure out what happened.
+> **[1:16](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-in-the-coal-dataset?u=76281980&t=76)** Let's go back and take a look at the CSV file in [[Microsoft Excel|Excel]] and see if we can figure out what happened.
 >
 > **[1:20](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-in-the-coal-dataset?u=76281980&t=80)** Well, there was a header row, and a blank row at the top of the file.
 >
@@ -3007,7 +2971,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Code Identifiers:** read_csv (3)
 > **Cross-References:** earlier in (1), go back to (1), in the next (1)
 > **Env Vars:** csv (2)
@@ -3016,8 +2980,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting the coal dataset from wide to long
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/converting-the-coal-dataset-from-wide-to-long?u=76281980)
+#### [Converting the coal dataset from wide to long](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/converting-the-coal-dataset-from-wide-to-long?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3083,19 +3046,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18)
 > **Cross-References:** in the last (1), earlier in (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - i (1)
 
-#### Segmenting the coal dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/segmenting-the-coal-dataset?u=76281980)
+#### [Segmenting the coal dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/segmenting-the-coal-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/segmenting-the-coal-dataset?u=76281980&t=0)** - [Instructor] Let's take a deeper dive into the regions variable in this data set.
 >
-> **[0:04](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/segmenting-the-coal-dataset?u=76281980&t=4)** When I looked at this file in Excel earlier I noticed that it had a combination of countries and regions.
+> **[0:04](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/segmenting-the-coal-dataset?u=76281980&t=4)** When I looked at this file in [[Microsoft Excel|Excel]] earlier I noticed that it had a combination of countries and regions.
 >
 > **[0:10](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/segmenting-the-coal-dataset?u=76281980&t=10)** I don't want to have those included in the same table in my tidy data dataset because they represent different types of observations.
 >
@@ -3163,14 +3124,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing the coal dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/visualizing-the-coal-dataset?u=76281980)
+#### [Visualizing the coal dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/visualizing-the-coal-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3226,7 +3186,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/visualizing-the-coal-dataset?u=76281980&t=121)** We can look at this graph and already quickly draw some interesting conclusions, while coal consumption has increased dramatically in the last decade worldwide, as shown by the top pink line, all of that increases due to changes in the brown line, representing Asia and Oceania.
 >
-> **[2:18](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/visualizing-the-coal-dataset?u=76281980&t=138)** The rest of the world actually decreased its consumption over that same time period.
+> **[2:18](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/visualizing-the-coal-dataset?u=76281980&t=138)** The [[Representational State Transfer (REST)|rest]] of the world actually decreased its consumption over that same time period.
 >
 > **[2:22](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/visualizing-the-coal-dataset?u=76281980&t=142)** Now there are all sorts of other interesting analyzes.
 >
@@ -3234,7 +3194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
@@ -3245,8 +3205,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the water quality dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980)
+#### [Understanding the water quality dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3258,7 +3217,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980&t=14)** It contains the results of over a million water quality tests performed on creeks, springs, wells, lakes, and other bodies of water by city staff.
 >
-> **[0:24](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980&t=24)** If we scroll down the webpage, you'll see that they provide metadata describing the contents of the dataset, as well as a preview table showing a sample of the data.
+> **[0:24](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980&t=24)** If we scroll down the webpage, you'll see that they provide [[Metadata]] describing the contents of the dataset, as well as a preview table showing a sample of the data.
 >
 > **[0:33](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980&t=33)** Now, this isn't designed for analysis, but just to provide you with an idea of what the entire dataset contains.
 >
@@ -3266,7 +3225,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980&t=43)** In the next video, we'll import it into R and begin working with it.
 >
-> **[0:47](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980&t=47)** In the meantime, I have it here opened in Excel.
+> **[0:47](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980&t=47)** In the meantime, I have it here opened in [[Microsoft Excel|Excel]].
 >
 > **[0:49](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980&t=49)** Before I start working with this dataset, I just want to take a look around and get a feel for how it's structured and the information it contains.
 >
@@ -3286,7 +3245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Metadata]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the next (2)
 > **Code Identifiers:** ph (1)
 > **URLs:** [austintexas.gov](https://austintexas.gov) (1)
@@ -3294,8 +3253,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading in the water quality dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-in-the-water-quality-dataset?u=76281980)
+#### [Reading in the water quality dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/reading-in-the-water-quality-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3341,7 +3299,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11)
 > **Env Vars:** csv (3)
 > **File Paths:** austinwater.csv (1)
 > **CLI Commands:** make (1)
@@ -3349,8 +3306,7 @@ created: 2026-05-02
 > **URLs:** [http://594442.youcanlearnit.net](http://594442.youcanlearnit.net) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering the water quality dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/filtering-the-water-quality-dataset?u=76281980)
+#### [Filtering the water quality dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/filtering-the-water-quality-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3456,15 +3412,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **Code Identifiers:** ph (10), site_name (1), site_type (1), sample_date (1), phs (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Versions:** 1.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Water quality data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/water-quality-data-types?u=76281980)
+#### [Water quality data types](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/water-quality-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3522,20 +3476,19 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/water-quality-data-types?u=76281980&t=151)** And I'm going to take the sample date field and replace it with the output of the mdy_hms function applied to the sample date.
 >
-> **[2:43](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/water-quality-data-types?u=76281980&t=163)** And now when I take a look at a summary, I can see that for the sample date field it's been evaluated correctly, and we can see some summary statistics.
+> **[2:43](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/water-quality-data-types?u=76281980&t=163)** And now when I take a look at a summary, I can see that for the sample date field it's been evaluated correctly, and we can see some summary [[Statistics]].
 >
 > **[2:54](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/water-quality-data-types?u=76281980&t=174)** So now we've taken care of our data types and we're getting closer to a dataset that's tidy and ready for analysis, but we still have some work to do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Code Identifiers:** filtered_water (2), sitetype (1), parametertype (1), datatype (1), mdy_hms (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Correcting data entry errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/correcting-data-entry-errors?u=76281980)
+#### [Correcting data entry errors](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/correcting-data-entry-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3593,14 +3546,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** ph (2), filtered_water (2)
 > **CLI Commands:** make (1)
 > **Versions:** 78.9 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying and removing outliers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/identifying-and-removing-outliers?u=76281980)
+#### [Identifying and removing outliers](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/identifying-and-removing-outliers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3688,15 +3639,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Code Identifiers:** ph (2)
 > **Env Vars:** fls (1)
 > **Versions:** 78.9 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting temperature from Fahrenheit to Celsius
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/converting-temperature-from-fahrenheit-to-celsius?u=76281980)
+#### [Converting temperature from Fahrenheit to Celsius](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/converting-temperature-from-fahrenheit-to-celsius?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3740,7 +3689,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/converting-temperature-from-fahrenheit-to-celsius?u=76281980&t=122)** And now if I take another look at the summary, my unit is down two degrees Celsius and standard units.
 >
-> **[2:12](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/converting-temperature-from-fahrenheit-to-celsius?u=76281980&t=132)** So now we've done most of the data wrangling.
+> **[2:12](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/converting-temperature-from-fahrenheit-to-celsius?u=76281980&t=132)** So now we've done most of the [[Data Wrangling]].
 >
 > **[2:14](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/converting-temperature-from-fahrenheit-to-celsius?u=76281980&t=134)** The last thing I need to do is get data from the same observation into the same row.
 >
@@ -3748,12 +3697,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Widening the water quality dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/widening-the-water-quality-dataset?u=76281980)
+#### [Widening the water quality dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/widening-the-water-quality-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3861,7 +3809,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** ph (2)
 > **Definitions:** is an  (1)
@@ -3873,8 +3820,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the social security disability dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-social-security-disability-dataset?u=76281980)
+#### [Understanding the social security disability dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-social-security-disability-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3904,7 +3850,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-social-security-disability-dataset?u=76281980&t=82)** In the next video, we'll import it into R and begin working with it.
 >
-> **[1:26](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-social-security-disability-dataset?u=76281980&t=86)** In the meantime, I have it here opened in Excel.
+> **[1:26](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-social-security-disability-dataset?u=76281980&t=86)** In the meantime, I have it here opened in [[Microsoft Excel|Excel]].
 >
 > **[1:28](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-social-security-disability-dataset?u=76281980&t=88)** Before I start working with this data set, I just want to take a look around and get a feel for how it's structured and the information it contains.
 >
@@ -3926,18 +3872,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), data (6), next (2), application (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the next (2)
 > **Versions:** 2.3 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importing the social security disability dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-the-social-security-disability-dataset?u=76281980)
+#### [Importing the social security disability dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-the-social-security-disability-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-the-social-security-disability-dataset?u=76281980&t=0)** - [Instructor] Here I am in Rstudio with a clean script ready to go.
+> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-the-social-security-disability-dataset?u=76281980&t=0)** - [Instructor] Here I am in [[RStudio]] with a clean script ready to go.
 >
 > **[0:03](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/importing-the-social-security-disability-dataset?u=76281980&t=3)** Together, we'll create the code to turn this social security disability data into a tidy dataset.
 >
@@ -3967,14 +3912,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[RStudio]] (1), [[Security]] (1), application (1)
+> **Frameworks & Libraries:** [[RStudio]] (1)
 > **Env Vars:** csv (3)
 > **File Paths:** ssadisability.csv (1)
 > **URLs:** [http://fiveninefourfourfourtwo.youcanlearnit.net](http://fiveninefourfourfourtwo.youcanlearnit.net) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making the social security disability dataset long
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/making-the-social-security-disability-dataset-long?u=76281980)
+#### [Making the social security disability dataset long](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/making-the-social-security-disability-dataset-long?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4016,17 +3960,16 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/making-the-social-security-disability-dataset-long?u=76281980&t=84)** I have totals and internet counts for the same months in different rows, but we'll get back to that later.
 >
-> **[1:30](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/making-the-social-security-disability-dataset-long?u=76281980&t=90)** First, I want to get some other data manipulation out of the way.
+> **[1:30](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/making-the-social-security-disability-dataset-long?u=76281980&t=90)** First, I want to get some other [[Data Manipulation]] out of the way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1)
 > **Code Identifiers:** ssa_long (1), pivot_longer (1)
 > **Env Vars:** ssa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Formatting dates in the social security disability dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/formatting-dates-in-the-social-security-disability-dataset?u=76281980)
+#### [Formatting dates in the social security disability dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/formatting-dates-in-the-social-security-disability-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4094,7 +4037,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/formatting-dates-in-the-social-security-disability-dataset?u=76281980&t=186)** Those are looking pretty good.
 >
-> **[3:07](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/formatting-dates-in-the-social-security-disability-dataset?u=76281980&t=187)** Now that I have the month and year in separate fields, I'd like to use them to compose a date value using the lubridate library.
+> **[3:07](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/formatting-dates-in-the-social-security-disability-dataset?u=76281980&t=187)** Now that I have the month and year in separate fields, I'd like to use them to [[Jetpack Compose|compose]] a date value using the lubridate library.
 >
 > **[3:14](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/formatting-dates-in-the-social-security-disability-dataset?u=76281980&t=194)** I'm just going to put all of these in as the first day of the month that they're from.
 >
@@ -4116,13 +4059,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1)
 > **Code Identifiers:** ssa_long (6), sdate (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Fiscal years in the social security disability dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/fiscal-years-in-the-social-security-disability-dataset?u=76281980)
+#### [Fiscal years in the social security disability dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/fiscal-years-in-the-social-security-disability-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4168,15 +4110,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), business (1)
 > **Env Vars:** ssa (1), fls (1), dmy (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** means that (1)
 > **Analogies:** compare this to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Widening the social security disability dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/widening-the-social-security-disability-dataset?u=76281980)
+#### [Widening the social security disability dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/widening-the-social-security-disability-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4226,13 +4166,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4)
 > **Env Vars:** ssa (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing the social security disability dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/visualizing-the-social-security-disability-dataset?u=76281980)
+#### [Visualizing the social security disability dataset](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/visualizing-the-social-security-disability-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4266,7 +4204,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (2), application (1)
 > **Env Vars:** ssa (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4276,12 +4213,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/next-steps?u=76281980&t=0)** - [Mike] Thanks for joining me for this exploration of Data Wrangling in R.
+> **[0:00](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/next-steps?u=76281980&t=0)** - [Mike] Thanks for joining me for this exploration of [[Data Wrangling]] in R.
 >
 > **[0:04](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/next-steps?u=76281980&t=4)** I hope that you've learned quite a bit in this course and found it helpful in developing your R skills.
 >
@@ -4301,7 +4237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (2)
 > **CLI Commands:** find (1)
 > **URLs:** [data.gov](https://data.gov) (1)
 > **Definitions:** is a  (1)

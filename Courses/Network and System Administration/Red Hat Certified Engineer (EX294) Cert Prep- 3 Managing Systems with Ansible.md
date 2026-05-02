@@ -92,14 +92,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980&t=0)** - [Grant] The Red Hat RHCE certification is one of the most respected and valued in the IT industry.
 >
-> **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980&t=6)** The RHCE is a popular Linux engineering certification, and the current version focuses on IT automation using Ansible Engine, and that information can be invaluable in today's world, no matter which operating systems or devices you're managing.
+> **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980&t=6)** The RHCE is a popular [[Linux]] engineering certification, and the current version focuses on [[IT Automation]] using [[Ansible]] Engine, and that information can be invaluable in today's world, no matter which operating systems or devices you're managing.
 >
 > **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980&t=20)** This course is the third and last course in our three-part EX294 series focusing on Ansible Engine.
 >
@@ -109,24 +108,23 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980&t=45)** My name is Grant McWilliams, college professor and Linux enthusiast.
 >
-> **[0:49](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980&t=49)** Over the course of the past 20 years, I've taught advanced Linux topics to many people in higher education as well as corporate environments, and that experience is accessible to you.
+> **[0:49](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980&t=49)** Over the course of the past 20 years, I've taught advanced Linux topics to many people in [[Higher Education]] as well as corporate environments, and that experience is accessible to you.
 >
 > **[0:58](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/introduction?u=76281980&t=58)** I'm sure you're excited to get started, and I'm excited to teach you, so let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Ansible]] (3), [[Engineering]] (1), [[IT Automation]] (1), [[Higher Education]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ansible]] (3), [[IT Automation]] (1), [[Higher Education]] (1)
 > **Env Vars:** rhce (3), ex294 (3)
 > **CLI Commands:** ansible (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [grant] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=0)** - [Instructor] As the Red Hat EX294 certification covers technologies included in Red Hat Enterprise Linux 8.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=0)** - [Instructor] As the Red Hat EX294 certification covers technologies included in Red Hat Enterprise [[Linux]] 8.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=6)** We'll be using a version of that operating system for this course.
 >
@@ -134,15 +132,15 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=21)** Anything we do in this course will work fine on either of these operating systems.
 >
-> **[0:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=25)** Since the certification focuses on Ansible Engine, most of the course could also be done without modification on Fedora Linux or any spin of Fedora as well.
+> **[0:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=25)** Since the certification focuses on [[Ansible]] Engine, most of the course could also be done without modification on Fedora Linux or any spin of Fedora as well.
 >
-> **[0:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=34)** Furthermore, most of the technologies covered in this course are not distribution specific and focus on IT automation using Ansible.
+> **[0:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=34)** Furthermore, most of the technologies covered in this course are not distribution specific and focus on [[IT Automation]] using Ansible.
 >
 > **[0:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=42)** As such, they can be applied to any operating system utilizing Ansible Engine for automation.
 >
-> **[0:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=48)** For this course we'll be using Linux in VirtualBox virtual machines.
+> **[0:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=48)** For this course we'll be using Linux in VirtualBox [[Virtual Machines]].
 >
-> **[0:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=51)** There are versions of VirtualBox for Windows, macOS, Solaris and Various Linux distributions.
+> **[0:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=51)** There are versions of VirtualBox for [[Windows]], macOS, Solaris and Various Linux distributions.
 >
 > **[0:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=57)** For this course I'll be running VirtualBox on a Linux host.
 >
@@ -186,7 +184,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=158)** As well as managing VirtualBox networking with NAT in a private network.
 >
-> **[2:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=162)** If you haven't taken that course yet, you'll want to do that before proceeding with this one for the best user experience.
+> **[2:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=162)** If you haven't taken that course yet, you'll want to do that before proceeding with this one for the best [[User Experience (UX)|user experience]].
 >
 > **[2:47](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/what-you-should-know?u=76281980&t=167)** If you already have foundational knowledge of Ansible you may want to just watch the videos for CentOS 8 installation, VirtualBox lab set up as well as the videos to install Ansible on the control node, preparing to manage nodes and building static inventory.
 >
@@ -194,7 +192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (13), [[Ansible]] (6), [[Windows]] (3), [[Virtual Machines]] (2), [[Virtualization]] (2)
+> **Frameworks & Libraries:** [[Linux]] (13), [[Ansible]] (6), [[Windows]] (3), [[Virtual Machines]] (2), [[IT Automation]] (1)
 > **Env Vars:** ex294 (3), amd (3), cpu (1), iso (1), ram (1)
 > **CLI Commands:** ansible (6), make (1), node (1)
 > **Prerequisites:** install (3), you'll need (2), set up (2)
@@ -203,8 +201,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### About the RHCE (EX294) exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980)
+#### [About the RHCE (EX294) exam](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -212,11 +209,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=5)** RHCE stands for Red Hat Certified Engineer.
 >
-> **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=8)** The RHCE is a Red Hat certification, which uses Red Hat Enterprise Linux eight as its operating system platform.
+> **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=8)** The RHCE is a Red Hat certification, which uses Red Hat Enterprise [[Linux]] eight as its operating system platform.
 >
 > **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=15)** In the past, the RHCE EX300 was a certification that tested the general skills of system engineers.
 >
-> **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=21)** The new RHCE EX294 certification however, is not a general engineer certification as the focus has changed to IT automation using Red Hat Ansible Engine 2.8.
+> **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=21)** The new RHCE EX294 certification however, is not a general engineer certification as the focus has changed to [[IT Automation]] using Red Hat [[Ansible]] Engine 2.8.
 >
 > **[0:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=32)** All exam takers will need to have previously passed the RHCSA EX200 exam in order to obtain the RHCE certification.
 >
@@ -238,7 +235,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=96)** This hands on practical exam requires you to use Red Hat Ansible Engine to perform real world tasks.
 >
-> **[1:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=102)** You will be provided with multiple systems and will be required to install and configure Ansible Engine and they use it to perform standard system administration tasks similar to what you do on a job.
+> **[1:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=102)** You will be provided with multiple systems and will be required to install and configure Ansible Engine and they use it to perform standard [[System Administration]] tasks similar to what you do on a job.
 >
 > **[1:52](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=112)** You will be required to create Ansible playbooks and use those playbooks to configure systems for specific roles and behaviors.
 >
@@ -278,7 +275,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=218)** If you're not a Red Hat administrator, or a person pursuing a Red Hat certification, this course will still be valuable to you if you're interested in IT automation using Ansible.
 >
-> **[3:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=228)** I can't stress enough that this course and certification is general in nature, and useful even if your infrastructure comprises of Ubuntu, Souza or even Windows hosts.
+> **[3:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=228)** I can't stress enough that this course and certification is general in nature, and useful even if your infrastructure comprises of [[Ubuntu]], Souza or even [[Windows]] hosts.
 >
 > **[3:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=237)** This course is the third of a three part series covering objectives of the RHCE EX294 exam.
 >
@@ -288,11 +285,11 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=262)** If you want to prepare for the RHCE certification, then take the EX200 course as well as this EX294 course.
 >
-> **[4:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=269)** If you want more in depth training on administering Red Hat Linux, take the Linux system engineer learning path and the course library.
+> **[4:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/about-the-rhce-ex294-exam?u=76281980&t=269)** If you want more in depth training on administering [[Red Hat Linux]], take the Linux system engineer learning path and the course library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), [[IT Automation]] (3), [[System Administration]] (1), business (1)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), [[IT Automation]] (3), [[System Administration]] (1), [[Ubuntu]] (1)
 > **Env Vars:** rhce (12), ex294 (6), rhcsa (4), ex200 (4), ex300 (1)
 > **CLI Commands:** ansible (6)
 > **Prerequisites:** required to (2), configure (2), install (1), you'll need (1)
@@ -301,14 +298,13 @@ created: 2026-05-02
 > **Versions:** 2.8 (1)
 > **Speakers:** - this (1)
 
-#### Before you proceed with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980)
+#### [Before you proceed with this course](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=0)** - [Narrator] This is the third course in the EX294 series.
 >
-> **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=4)** In the EX294 Foundations of Ansible course, we created a virtual machine named rhhost1, and installed CentOS 8 in it.
+> **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=4)** In the EX294 Foundations of [[Ansible]] course, we created a virtual machine named rhhost1, and installed CentOS 8 in it.
 >
 > **[0:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=12)** We also configured VirtualBox Guest Additions.
 >
@@ -354,13 +350,13 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=136)** Hit Enter.
 >
-> **[2:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=138)** If you've created other virtual machines and are planning on building a more complex configuration infrastructure, then you should carry out the same tasks with those VMs as well.
+> **[2:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=138)** If you've created other [[Virtual Machines]] and are planning on building a more complex configuration infrastructure, then you should carry out the same tasks with those VMs as well.
 >
 > **[2:26](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=146)** The last test you might want to do, is ensure that each VM can communicate with the outside world.
 >
 > **[2:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=151)** To do so, you can use the command module.
 >
-> **[2:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=153)** Type in clear, and then type in ansible, space, rhhost2.[localnet.com](https://localnet.com), space, dash, m, space, command, for the command module, space, dash, a, space, single quote, and for arguments, type in ping, space, dash, c1, space, [google.com](https://google.com), single quote, or you could use another URL, and hit enter.
+> **[2:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=153)** Type in clear, and then type in ansible, space, rhhost2.[localnet.com](https://localnet.com), space, dash, m, space, command, for the command module, space, dash, a, space, single quote, and for arguments, type in ping, space, dash, c1, space, [[[Google]].com](https://google.com), single quote, or you could use another URL, and hit enter.
 >
 > **[2:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/before-you-proceed-with-this-course?u=76281980&t=176)** This will use the command module to run the ping command, to send one ping packet to [google.com](https://google.com).
 >
@@ -374,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (11), hit (3), [[Virtual Machines]] (2), [[Google]] (2), node (1)
+> **Frameworks & Libraries:** [[Ansible]] (11), [[Virtual Machines]] (2), [[Google]] (2)
 > **CLI Commands:** ansible (11), ssh (1), node (1)
 > **Env Vars:** ex294 (3), nat (2), ssh (1), url (1)
 > **URLs:** [localnet.com](https://localnet.com) (4), [google.com](https://google.com) (2)
@@ -383,8 +379,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [narrator] (1)
 
-#### Reconfigure-Migrate CentOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/reconfigure-migrate-centos?u=76281980)
+#### [Reconfigure-Migrate CentOS](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/reconfigure-migrate-centos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,7 +389,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/reconfigure-migrate-centos?u=76281980&t=13)** If you have a CentOS installation, and it cannot install software from its repositories, execute these steps.
 >
-> **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/reconfigure-migrate-centos?u=76281980&t=19)** If you're using Rocky Linux or AlmaLinux OS, you can skip this video.
+> **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/reconfigure-migrate-centos?u=76281980&t=19)** If you're using Rocky [[Linux]] or AlmaLinux OS, you can skip this video.
 >
 > **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/reconfigure-migrate-centos?u=76281980&t=24)** First, make sure your networking is turned on by clicking on your top right-hand menu and clicking Wired Off.
 >
@@ -450,7 +445,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/reconfigure-migrate-centos?u=76281980&t=205)** To migrate CentOS 8 to AlmaLinux OS, point your web browser to [almalinux.org](https://almalinux.org) and then click on the Migrate button.
 >
-> **[3:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/reconfigure-migrate-centos?u=76281980&t=216)** This will take you to their GitHub page.
+> **[3:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/reconfigure-migrate-centos?u=76281980&t=216)** This will take you to their [[GitHub]] page.
 >
 > **[3:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/reconfigure-migrate-centos?u=76281980&t=219)** About halfway down the page, there is an almalinux-deploy.sh link.
 >
@@ -500,7 +495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (5), cd (4), web (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Linux]] (5), [[GitHub]] (2)
 > **CLI Commands:** sudo (5), cd (4), sed (3), make (1), yum (1)
 > **UI Navigation:** click on (11), right-click (2), go to (1)
 > **URLs:** [centos.org](https://centos.org) (3), [sento.org](https://sento.org) (1), [http://mirror.centos.org](http://mirror.centos.org) (1), [almalinux.org](https://almalinux.org) (1), [rockylinux.org](https://rockylinux.org) (1)
@@ -514,18 +509,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Directory structure best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980)
+#### [Directory structure best practices](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=0)** - [Instructor] Its easier to plan for expansion when you implement Ansible then it is to change it later after your infrastructure's grown.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=0)** - [Instructor] Its easier to plan for expansion when you implement [[Ansible]] then it is to change it later after your infrastructure's grown.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=7)** To get our Ansible configuration scheme to scale we need to create a directory structure that separates host and group variables, roles and all components of a role including tasks, handlers, deployable files, templates, role variables, defaults and meta data.
 >
 > **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=24)** We can duplicate this structure for other roles.
 >
-> **[0:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=27)** In this case web servers.
+> **[0:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=27)** In this case [[Web Servers]].
 >
 > **[0:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=29)** You are not required to have all of the directories for a working configuration.
 >
@@ -539,7 +533,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=53)** We could have a couple of network devices such as a firewall and manage switch.
 >
-> **[0:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=57)** Behind these would be a database server to running Enterprise Linux 8.
+> **[0:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=57)** Behind these would be a database server to running Enterprise [[Linux]] 8.
 >
 > **[1:02](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=62)** This could be Red Hat or CentOS.
 >
@@ -551,7 +545,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=74)** The second monitoring server is also a remote logging server.
 >
-> **[1:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=78)** We may also have Windows based [ASP.net](https://ASP.net) application servers or perhaps active directory servers as well.
+> **[1:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=78)** We may also have [[Windows]] based [[[ASP.NET]]](https://ASP.net) application servers or perhaps [[Active Directory]] servers as well.
 >
 > **[1:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=84)** The network devices might also be managed by Ansible but we won't get in to either of these scenarios in this course.
 >
@@ -615,7 +609,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=234)** A playbook task that handles both Debian and Enterprise Linux might look like this.
 >
-> **[3:58](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=238)** If the distribution is Debian or Ubuntu then install a package named Apache2 using apt.
+> **[3:58](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=238)** If the distribution is Debian or [[Ubuntu]] then install a package named Apache2 using apt.
 >
 > **[4:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/directory-structure-best-practices?u=76281980&t=245)** If the distribution is CentOS or Red Hat Enterprise Linus then install a package named httpd using yum.
 >
@@ -623,7 +617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Linux]] (6), [[Ansible]] (5), database (5), application (2)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Ansible]] (5), [[Web Servers]] (2), [[Windows]] (1), [[ASP.NET]] (1)
 > **CLI Commands:** ansible (5), make (3), apache (1), apt (1), yum (1)
 > **Env Vars:** el8 (3), ex294 (1), asp (1)
 > **Analogies:** such as (2), for instance (2)
@@ -632,8 +626,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Warnings:** caution (1)
 
-#### Create the directory structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980)
+#### [Create the directory structure](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,13 +644,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=19)** These will be installed on every system no matter the OS if possible.
 >
-> **[0:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=23)** Layered on top is the services that the host would provide, such as databases, remote logging, or web services.
+> **[0:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=23)** Layered on top is the services that the host would provide, such as [[Databases]], remote logging, or web services.
 >
 > **[0:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=31)** Let's fill this out with our fictitious infrastructure.
 >
-> **[0:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=33)** First, we'll add our NetBSD application server, then we'll add our Debian monitoring server and our Enterprise Linux 8 monitoring server, which is also a remote logging server.
+> **[0:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=33)** First, we'll add our NetBSD application server, then we'll add our Debian monitoring server and our Enterprise [[Linux]] 8 monitoring server, which is also a remote logging server.
 >
-> **[0:44](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=44)** Next we'll add our database servers, both running on Enterprise Linux 8, and lastly, we'll add our web servers, one running NGINX and the other running Apache.
+> **[0:44](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=44)** Next we'll add our database servers, both running on Enterprise Linux 8, and lastly, we'll add our [[Web Servers]], one running NGINX and the other running Apache.
 >
 > **[0:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=53)** Now that we have the full picture, let's map our roles to our hosts.
 >
@@ -679,7 +672,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=106)** We're going to start creating our directory structure with a couple of roles.
 >
-> **[1:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=110)** This will be building on what we created in the EX294 Using Ansible Playbooks course.
+> **[1:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=110)** This will be building on what we created in the EX294 Using [[Ansible]] Playbooks course.
 >
 > **[1:55](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/create-the-directory-structure?u=76281980&t=115)** Log into your rhhost1 VM for this exercise and open a terminal.
 >
@@ -733,7 +726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), [[Ansible]] (5), [[Linux]] (3), generic (2), database (2)
+> **Frameworks & Libraries:** [[Ansible]] (5), [[Web Servers]] (4), [[Linux]] (3), [[Databases]] (1)
 > **CLI Commands:** nginx (5), apache (5), ansible (5)
 > **Env Vars:** nginx (4), ex294 (3), el8 (1)
 > **Tools:** terminal (2), vim (1), bash (1), command line (1)
@@ -742,16 +735,15 @@ created: 2026-05-02
 > **URLs:** [localnet.com](https://localnet.com) (2)
 > **Prerequisites:** configure (2)
 
-#### Understanding RHEL System Roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/understanding-rhel-system-roles?u=76281980)
+#### [Understanding RHEL System Roles](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/understanding-rhel-system-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/understanding-rhel-system-roles?u=76281980&t=0)** - [Grant] It is not necessary to create Ansible roles for every situation from scratch.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/understanding-rhel-system-roles?u=76281980&t=0)** - [Grant] It is not necessary to create [[Ansible]] roles for every situation from scratch.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/understanding-rhel-system-roles?u=76281980&t=5)** Red Hat has created roles for helping to manage services and has included them as an installable package called rhel-system-roles.
 >
-> **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/understanding-rhel-system-roles?u=76281980&t=13)** Red Hat started including Ansible system roles in Enterprise Linux 7.4 as a technology preview, and they became a supported feature in Enterprise Linux 7.6.
+> **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/understanding-rhel-system-roles?u=76281980&t=13)** Red Hat started including Ansible system roles in Enterprise [[Linux]] 7.4 as a technology preview, and they became a supported feature in Enterprise Linux 7.6.
 >
 > **[0:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/understanding-rhel-system-roles?u=76281980&t=23)** If you are a Red Hat customer and use our satellite web interface to manage your host, you can use the rhel System Roles Powered by Ansible using that interface.
 >
@@ -777,19 +769,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), feature (1), web (1)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5)
 > **CLI Commands:** ansible (6), systemctl (1)
 > **Versions:** 7.4 (1), 7.6 (1), 6.10 (1)
 > **Analogies:** such as (1), for instance (1)
 > **Tools:** command line (1)
 > **Speakers:** - [grant] (1)
 
-#### Using RHEL System Roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-rhel-system-roles?u=76281980)
+#### [Using RHEL System Roles](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-rhel-system-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-rhel-system-roles?u=76281980&t=0)** - [Instructor] Before we can use the Ansible system roles package developed by Red Hat.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-rhel-system-roles?u=76281980&t=0)** - [Instructor] Before we can use the [[Ansible]] system roles package developed by Red Hat.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-rhel-system-roles?u=76281980&t=4)** We need to install it.
 >
@@ -921,7 +912,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), [[Ansible]] (8), cd (2), next (1)
+> **Frameworks & Libraries:** [[Ansible]] (8)
 > **CLI Commands:** ansible (8), make (4), cd (2), sudo (1), yum (1)
 > **Env Vars:** rhel (5), rpm (1)
 > **Prerequisites:** install (2), setup (2)
@@ -930,12 +921,11 @@ created: 2026-05-02
 > **File Paths:** playbook.yml (2)
 > **Code Identifiers:** ql (1), selinux (1)
 
-#### Exploring Ansible Galaxy
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/exploring-ansible-galaxy?u=76281980)
+#### [Exploring Ansible Galaxy](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/exploring-ansible-galaxy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/exploring-ansible-galaxy?u=76281980&t=0)** - [Narrator] You might think that it'd be a really great idea to have a central location where people could contribute their Ansible roles to be shared.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/exploring-ansible-galaxy?u=76281980&t=0)** - [Narrator] You might think that it'd be a really great idea to have a central location where people could contribute their [[Ansible]] roles to be shared.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/exploring-ansible-galaxy?u=76281980&t=7)** I think you'd be right.
 >
@@ -1025,7 +1015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (18), [[Search]] (5), web (2), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Ansible]] (18)
 > **CLI Commands:** ansible (18), apache (4), find (2), node (1)
 > **UI Navigation:** click on (8), dropdown (2)
 > **Prerequisites:** install (3), configure (2)
@@ -1034,12 +1024,11 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **URLs:** [ansible.com](https://ansible.com) (1)
 
-#### Installing roles from Ansible Galaxy
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980)
+#### [Installing roles from Ansible Galaxy](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=0)** - [Narrator] We're going to install a role now from ansible galaxy browse to galaxy.[ansible.com](https://ansible.com) and type Apache into the search box.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=0)** - [Narrator] We're going to install a role now from [[Ansible]] galaxy browse to galaxy.[ansible.com](https://ansible.com) and type Apache into the search box.
 >
 > **[0:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=10)** Then click on filters and then click on the filter, by and choose role.
 >
@@ -1067,7 +1056,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=99)** We can specify the source of the files with the SRC attribute.
 >
-> **[1:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=103)** If the roles are stored in a software configuration management system, we'd use the SCM attribute, get an HG are supported.
+> **[1:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=103)** If the roles are stored in a software [[Configuration Management]] system, we'd use the SCM attribute, get an HG are supported.
 >
 > **[1:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=111)** We can also specify the version that we want to install with version.
 >
@@ -1089,7 +1078,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=150)** For our package, we could use the URL that we took note of a moment ago.
 >
-> **[2:35](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=155)** The next example installed from bitbucket and the last example shows using the git protocol and specifying a user.
+> **[2:35](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=155)** The next example installed from [[Bitbucket]] and the last example shows using the [[Git]] protocol and specifying a user.
 >
 > **[2:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/installing-roles-from-ansible-galaxy?u=76281980&t=163)** Once you have the requirements file created, you specify it with a dash R option.
 >
@@ -1113,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (11), hit (4), web (3), next (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (11), [[Configuration Management]] (1), [[Bitbucket]] (1), [[Git]] (1)
 > **CLI Commands:** ansible (11), apache (5), tar (1), git (1), cd (1)
 > **Env Vars:** url (5), src (3), scm (1)
 > **Prerequisites:** install (6)
@@ -1127,12 +1116,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using dynamic inventory plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980)
+#### [Using dynamic inventory plugins](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=0)** - In the EX294 foundations of Ansible course, we created a static inventory of file.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=0)** - In the EX294 foundations of [[Ansible]] course, we created a static inventory of file.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=5)** That's entails listing the hosts that we want to manage as well as putting them into groups.
 >
@@ -1146,7 +1134,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=34)** Dynamic inventory is more complex to configure and stores inventory externally in configurable sources.
 >
-> **[0:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=41)** It's good for large infrastructures, or when the infrastructure changes, which is common in cloud computing.
+> **[0:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=41)** It's good for large infrastructures, or when the infrastructure changes, which is common in [[Cloud Computing]].
 >
 > **[0:47](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=47)** You can manage dynamic inventory two ways, with inventory plugins or with inventory scripts.
 >
@@ -1176,7 +1164,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=113)** However, some other plugins may use different rules.
 >
-> **[1:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=116)** For instance, the file for the Amazon ec2 plugin, you can name whatever you want.
+> **[1:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=116)** For instance, the file for the [[Amazon EC2]] plugin, you can name whatever you want.
 >
 > **[2:02](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-plugins?u=76281980&t=122)** As long as it ends with aws_ec2.yml or aws_ec2.yaml This means you could name the file inventory.aws_ec2.yml and it would work fine .
 >
@@ -1194,7 +1182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (8), cloud (1), [[Amazon EC2]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (8), [[Cloud Computing]] (1), [[Amazon EC2]] (1)
 > **CLI Commands:** ansible (8)
 > **File Paths:** ansible.cfg (1), vbox.yml (1), vbox.yaml (1), aws_ec2.yml (1), aws_ec2.yaml (1)
 > **Analogies:** for instance (2), such as (1)
@@ -1203,22 +1191,21 @@ created: 2026-05-02
 > **Documentation:** the documentation (2)
 > **Best Practices:** recommended (1)
 
-#### Using dynamic inventory scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980)
+#### [Using dynamic inventory scripts](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=0)** - [Instructor] The alternative way to use Dynamic Inventory is by using an inventory script.
 >
-> **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=5)** To do so, you need to place an INI configuration file for it in /etc/Ansible.
+> **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=5)** To do so, you need to place an INI configuration file for it in /etc/[[Ansible]].
 >
 > **[0:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=10)** Then you need to either create the inventory script or download one.
 >
 > **[0:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=14)** Inventory scripts can be written in any language.
 >
-> **[0:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=16)** They gather dynamic inventory data from external sources and display the output in JSON format.
+> **[0:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=16)** They gather dynamic inventory data from external sources and display the output in [[JSON]] format.
 >
-> **[0:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=22)** For instance, if you're using an Amazon EC2 inventory script, your INI configuration file would be /etc/Ansible/EC2.ini.
+> **[0:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=22)** For instance, if you're using an [[Amazon EC2]] inventory script, your INI configuration file would be /etc/Ansible/[[Amazon EC2|EC2]].ini.
 >
 > **[0:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=31)** I'm not going to show you all of that file as it's long, but it will have configuration items specific to the inventory source.
 >
@@ -1238,11 +1225,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=93)** This allows us to store all of our inventory scripts in a directory, and they'll be used automatically.
 >
-> **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=99)** To get a list of inventory scripts included in Ansible, visit the Ansible GitHub directory, where the scripts are stored.
+> **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-dynamic-inventory-scripts?u=76281980&t=99)** To get a list of inventory scripts included in Ansible, visit the Ansible [[GitHub]] directory, where the scripts are stored.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (6), [[Amazon EC2|Ec2]] (3), data (1), [[JSON]] (1), [[Amazon EC2]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Amazon EC2|Ec2]] (3), [[JSON]] (1), [[Amazon EC2]] (1), [[GitHub]] (1)
 > **CLI Commands:** ansible (6), make (1)
 > **Env Vars:** ec2 (3), ini (2), json (1)
 > **File Paths:** etc/ansible/ec2.ini (1), ec2.py (1)
@@ -1251,12 +1238,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
 
-#### Manage parallel playbook execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/manage-parallel-playbook-execution?u=76281980)
+#### [Manage parallel playbook execution](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/manage-parallel-playbook-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/manage-parallel-playbook-execution?u=76281980&t=0)** - [Instructor] To get Ansible to scale in large environments, you may have to make some changes.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/manage-parallel-playbook-execution?u=76281980&t=0)** - [Instructor] To get [[Ansible]] to scale in large environments, you may have to make some changes.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/manage-parallel-playbook-execution?u=76281980&t=4)** Understanding these changes is important and will help you tailor your Ansible setup to match your needs.
 >
@@ -1304,7 +1290,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/manage-parallel-playbook-execution?u=76281980&t=147)** If you don't want to hardcore the number of hosts you can use a percentage.
 >
-> **[2:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/manage-parallel-playbook-execution?u=76281980&t=150)** By setting serial to 33% Ansible will run the play on one third of the web servers before moving onto the next third.
+> **[2:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/manage-parallel-playbook-execution?u=76281980&t=150)** By setting serial to 33% Ansible will run the play on one third of the [[Web Servers]] before moving onto the next third.
 >
 > **[2:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/manage-parallel-playbook-execution?u=76281980&t=158)** It's worth noting that no matter how small the percentage is, it will run on at least one host.
 >
@@ -1370,7 +1356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (17), next (7), web (3), node (1), dns (1)
+> **Frameworks & Libraries:** [[Ansible]] (17), [[Web Servers]] (1)
 > **CLI Commands:** ansible (17), make (2), node (1)
 > **Analogies:** such as (2), for instance (1), imagine (1)
 > **Env Vars:** cpu (2), dns (1)
@@ -1379,12 +1365,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** setup (1)
 
-#### Performance tuning Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980)
+#### [Performance tuning Ansible](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=0)** - [Instructor] In addition to creating more Ansible forks and running tasks in parallel, we can performance-tune other parts of Ansible.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=0)** - [Instructor] In addition to creating more [[Ansible]] forks and running tasks in parallel, we can performance-tune other parts of Ansible.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=7)** For instance, we can optimize fact gathering or even turn it off.
 >
@@ -1416,7 +1401,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=75)** We can also be more specific and turn off only certain sections.
 >
-> **[1:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=79)** If our hosts are virtual, we can feel safe in turning off hardware facts, which take a long time to gather.
+> **[1:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=79)** If our hosts are virtual, we can feel safe in turning off [[Hardware]] facts, which take a long time to gather.
 >
 > **[1:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=84)** And in a virtual environment, we don't have a lot of hardware anyway.
 >
@@ -1426,13 +1411,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=98)** In this case, the facts are cached for a specified amount of time, and our control host does not need to gather them each time a playbook is run.
 >
-> **[1:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=106)** There are multiple different fact caching backends, but in this case, we're using a JSON file.
+> **[1:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=106)** There are multiple different fact caching backends, but in this case, we're using a [[JSON]] file.
 >
 > **[1:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=111)** The fact caching timeout is in seconds.
 >
 > **[1:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=113)** In this example, it's set to 7,200 seconds or two hours.
 >
-> **[1:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=119)** Possible cache backends include JSON formatted files, Memcached databases, memory, or RAM backed, be aware, this is not persistent, mongodb for MongoDB databases, pickle for Pickle formatted files, redis databases, and lastly, yaml formatted files.
+> **[1:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=119)** Possible cache backends include JSON formatted files, Memcached [[Databases]], memory, or RAM backed, be aware, this is not persistent, [[MongoDB]] for MongoDB databases, pickle for Pickle formatted files, [[Redis]] databases, and lastly, yaml formatted files.
 >
 > **[2:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=137)** To get a list of Ansible fact cache plugins, use the ansible-doc command.
 >
@@ -1476,7 +1461,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=244)** By setting the preferred authentication method to public key, it will try this first, instead of trying other types of authentication before settling on keys.
 >
-> **[4:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=253)** The last item I'll mention, you could just replace SSH with Mitogen, a third party piece of software that replaces Ansible's shell-centric way of doing things with a pure Python version that is invoked by highly efficient remote procedure calls to persistent interpreters tunneled over SSH.
+> **[4:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=253)** The last item I'll mention, you could just replace SSH with Mitogen, a third party piece of software that replaces Ansible's shell-centric way of doing things with a pure [[Python (Programming Language)|Python]] version that is invoked by highly efficient remote procedure calls to persistent interpreters tunneled over SSH.
 >
 > **[4:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/performance-tuning-ansible?u=76281980&t=270)** Mitogen promises an increase in speed from 125% to 700%.
 >
@@ -1512,12 +1497,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Templating with Jinja2
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980)
+#### [Templating with Jinja2](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=0)** - [Instructor] As we learned in the ex294 using Ansible playbooks course.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=0)** - [Instructor] As we learned in the ex294 using [[Ansible]] playbooks course.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=4)** Ansible has various language constructs in its playbooks such as variables lists and arrays, dictionaries, loops and conditionals.
 >
@@ -1539,7 +1523,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=54)** We may also want to loop through items such as package names to install so we don't have to write install tasks for each and every package. We would need conditionals so we can install or configure a host differently depending on the operating system type, version or other pieces of data.
 >
-> **[1:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=70)** All of these things are specific to making decisions about the system configuration.
+> **[1:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=70)** All of these things are specific to making decisions about the [[System Configuration]].
 >
 > **[1:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=75)** Jinja2, is a language designed for templating files.
 >
@@ -1549,9 +1533,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=90)** The result is a text file of you're making.
 >
-> **[1:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=92)** This is similar to how PHP works for webpages.
+> **[1:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=92)** This is similar to how [[PHP]] works for webpages.
 >
-> **[1:35](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=95)** It creates static HTML from code, variables and database content.
+> **[1:35](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=95)** It creates static [[HTML]] from code, variables and database content.
 >
 > **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=99)** Jinja2 creates configuration files from templates containing code and variables, in short Jinja2 lets us create specific text files using generic templates. To make very simple substitutions, you will only need to have variables in your templates, but having lists or arrays as well as dictionaries, will allow you to create much more complex text files.
 >
@@ -1567,7 +1551,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=159)** Both formats are very popular and are used for many applications, as such YAML and Jinja2 are transferable skills.
 >
-> **[2:47](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=167)** Even other configuration management systems such as SaltStack use both of them.
+> **[2:47](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=167)** Even other [[Configuration Management]] systems such as SaltStack use both of them.
 >
 > **[2:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/templating-with-jinja2?u=76281980&t=171)** In short, when making host configuration decisions use Ansible playbooks. When creating text files to be deployed, to manage hosts use Jinja2.
 >
@@ -1631,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (10), hit (5), data (2), [[System Configuration]] (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Ansible]] (10), [[System Configuration]] (2), [[HTML]] (2), [[PHP]] (1), [[Configuration Management]] (1)
 > **Env Vars:** yaml (4), vim (4), yml (3), html (2), txt (2)
 > **CLI Commands:** ansible (10), make (2), php (1), ssh (1), cat (1)
 > **Exercise Files:** template (12), exercise files (1)
@@ -1640,12 +1624,11 @@ created: 2026-05-02
 > **Analogies:** such as (4), similar to (1)
 > **Tools:** vim (4)
 
-#### Using variables with Jinja2
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-variables-with-jinja2?u=76281980)
+#### [Using variables with Jinja2](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-variables-with-jinja2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-variables-with-jinja2?u=76281980&t=0)** - In the EX294 Using Ansible Playbooks course, we discussed variables in playbooks.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-variables-with-jinja2?u=76281980&t=0)** - In the EX294 Using [[Ansible]] Playbooks course, we discussed variables in playbooks.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-variables-with-jinja2?u=76281980&t=6)** I will give a quick overview here so we can discuss how to use variables in templates using Jinja 2.
 >
@@ -1687,7 +1670,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-variables-with-jinja2?u=76281980&t=113)** An alternative syntax uses dots for each hierarchy level instead of square brackets.
 >
-> **[1:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-variables-with-jinja2?u=76281980&t=119)** This syntax can cause conflicts with Python in certain situations, so I prefer the square brackets, even if the dotted notation is cleaner.
+> **[1:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-variables-with-jinja2?u=76281980&t=119)** This syntax can cause conflicts with [[Python (Programming Language)|Python]] in certain situations, so I prefer the square brackets, even if the dotted notation is cleaner.
 >
 > **[2:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-variables-with-jinja2?u=76281980&t=128)** You can also assign the output of a command to a variable by registering it, and then using that content in your templates as well.
 >
@@ -1705,7 +1688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** ini (2), yaml (2), cmd (2), ex294 (1)
 > **CLI Commands:** ansible (1), python (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -1714,8 +1697,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** troubleshoot (1)
 
-#### Jinja2 syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/jinja2-syntax?u=76281980)
+#### [Jinja2 syntax](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/jinja2-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,7 +1757,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/jinja2-syntax?u=76281980&t=153)** The variable name and the chosen filter are separated by a pipe symbol.
 >
-> **[2:37](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/jinja2-syntax?u=76281980&t=157)** Multiple filters can be changed with one applying to the next, for example, this will strip all HTML tags and then upper case the output.
+> **[2:37](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/jinja2-syntax?u=76281980&t=157)** Multiple filters can be changed with one applying to the next, for example, this will strip all [[HTML]] tags and then upper case the output.
 >
 > **[2:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/jinja2-syntax?u=76281980&t=166)** Filters that accept arguments have parentheses around their arguments, just like a function call.
 >
@@ -1799,7 +1781,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/jinja2-syntax?u=76281980&t=232)** Jinja2 has the equivalent to programming functions, which it calls macros.
 >
-> **[3:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/jinja2-syntax?u=76281980&t=236)** You may not need this functionality in your Ansible playbooks, at least not at first, but it's nice to know macros exist.
+> **[3:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/jinja2-syntax?u=76281980&t=236)** You may not need this functionality in your [[Ansible]] playbooks, at least not at first, but it's nice to know macros exist.
 >
 > **[4:02](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/jinja2-syntax?u=76281980&t=242)** So if the need arises in the future, you know where to look.
 >
@@ -1819,7 +1801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), express (2), [[Ansible]] (2), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (2), [[HTML]] (1)
 > **Analogies:** for example (3), such as (3), for instance (1), just like (1)
 > **CLI Commands:** ansible (2), make (1), find (1)
 > **Warnings:** note that (3)
@@ -1828,8 +1810,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Definitions:** is a  (1)
 
-#### Using control structures in Jinja2
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-control-structures-in-jinja2?u=76281980)
+#### [Using control structures in Jinja2](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-control-structures-in-jinja2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1861,7 +1842,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-control-structures-in-jinja2?u=76281980&t=65)** The format filter using the IP variable with a mathematical expression as an argument.
 >
-> **[1:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-control-structures-in-jinja2?u=76281980&t=71)** In the mathematical expression we're subtracting 200 from whatever number is in the IP variable, then we're formatting it with the %02d Python formatting string, which aligns the output to two digits.
+> **[1:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-control-structures-in-jinja2?u=76281980&t=71)** In the mathematical expression we're subtracting 200 from whatever number is in the IP variable, then we're formatting it with the %02d [[Python (Programming Language)|Python]] formatting string, which aligns the output to two digits.
 >
 > **[1:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-control-structures-in-jinja2?u=76281980&t=85)** We use this output for our incremented host name.
 >
@@ -1877,7 +1858,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-control-structures-in-jinja2?u=76281980&t=117)** The bottom left box is the values box.
 >
-> **[1:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-control-structures-in-jinja2?u=76281980&t=119)** You'd input either JSON or YAML data here, you will also want to check the correct box in the top right to match.
+> **[1:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-control-structures-in-jinja2?u=76281980&t=119)** You'd input either [[JSON]] or YAML data here, you will also want to check the correct box in the top right to match.
 >
 > **[2:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-control-structures-in-jinja2?u=76281980&t=127)** The right hand box is the render box.
 >
@@ -1961,7 +1942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (2), [[Python (Programming Language)|Python]] (1), web (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[JSON]] (1)
 > **Exercise Files:** template (8), exercise files (2)
 > **Definitions:** is a  (6)
 > **Env Vars:** yaml (4), json (1)
@@ -1975,20 +1956,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modules related to software management
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980)
+#### [Modules related to software management](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980&t=0)** - [Instructor] Installing and managing software is one of the main tasks involved in configuring hosts.
 >
-> **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980&t=5)** As such, there are just under 50 different Ansible modules designed to install operating system software packages.
+> **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980&t=5)** As such, there are just under 50 different [[Ansible]] modules designed to install operating system software packages.
 >
-> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980&t=11)** There are another 12 modules for installing programming language packages, such as RubyGems and Python dependencies.
+> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980&t=11)** There are another 12 modules for installing programming language packages, such as RubyGems and [[Python (Programming Language)|Python]] dependencies.
 >
-> **[0:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980&t=18)** There are also modules to deal with Windows software packages, as well as modules for installing packages on many types of Unix, such as AIX, HPUX, And Solaris.
+> **[0:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980&t=18)** There are also modules to deal with [[Windows]] software packages, as well as modules for installing packages on many types of Unix, such as AIX, HPUX, And Solaris.
 >
-> **[0:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980&t=27)** In addition, there are auxiliary modules for installing Linux software repository files, and for managing keys for verifying package integrity.
+> **[0:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980&t=27)** In addition, there are auxiliary modules for installing [[Linux]] software repository files, and for managing keys for verifying package integrity.
 >
 > **[0:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-software-management?u=76281980&t=36)** I can't go over all of these modules in one video, but here's a quick short list of Linux software management modules, including apt for installing Debian packages, dnf for Fedora, yum for older Fedora and enterprise Linux systems, pacman for Arch Linux, slackpkg for Slackware packages, and zypper for SUSE packages.
 >
@@ -2012,7 +1992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), [[Ansible]] (2), [[Windows]] (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Ansible]] (2), [[Windows]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** apt (5), ansible (2), python (1), dnf (1), yum (1)
 > **Env Vars:** aix (2), hpux (2), suse (1), bsd (1)
 > **Analogies:** such as (4), for instance (1)
@@ -2021,12 +2001,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing packages in playbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-packages-in-playbooks?u=76281980)
+#### [Managing packages in playbooks](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-packages-in-playbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-packages-in-playbooks?u=76281980&t=0)** - [Narrator] Let's take a look at some examples on how to use various package management modules to install the net tools package using the generic package module.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-packages-in-playbooks?u=76281980&t=0)** - [Narrator] Let's take a look at some examples on how to use various [[Package Management]] modules to install the net tools package using the generic package module.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-packages-in-playbooks?u=76281980&t=7)** It would look like this.
 >
@@ -2062,7 +2041,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-packages-in-playbooks?u=76281980&t=52)** We may want to shorten our playbook and install multiple packages at the same time, for this we could place them in a loop.
 >
-> **[0:58](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-packages-in-playbooks?u=76281980&t=58)** In this example, we're installing the httpd and rsyslog packages in one ansible task.
+> **[0:58](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-packages-in-playbooks?u=76281980&t=58)** In this example, we're installing the httpd and rsyslog packages in one [[Ansible]] task.
 >
 > **[1:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-packages-in-playbooks?u=76281980&t=64)** By using the item variable for the package name, you can install packages using a loop.
 >
@@ -2108,7 +2087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), [[Package Management]] (1), [[Ansible]] (1)
+> **Frameworks & Libraries:** [[Package Management]] (1), [[Ansible]] (1)
 > **Prerequisites:** install (9)
 > **CLI Commands:** yum (4), apache (2), apt (1), ansible (1)
 > **Env Vars:** abt (1)
@@ -2117,8 +2096,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Implementing a playbook to manage software
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/implementing-a-playbook-to-manage-software?u=76281980)
+#### [Implementing a playbook to manage software](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/implementing-a-playbook-to-manage-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2138,7 +2116,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/implementing-a-playbook-to-manage-software?u=76281980&t=37)** Lastly we'll create handlers that start Apache, add firewall rules, and then start the firewall.
 >
-> **[0:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/implementing-a-playbook-to-manage-software?u=76281980&t=43)** In a terminal in our rhhost1, change to the ansible-files and edit the site.yml file.
+> **[0:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/implementing-a-playbook-to-manage-software?u=76281980&t=43)** In a terminal in our rhhost1, change to the [[Ansible]]-files and edit the site.yml file.
 >
 > **[0:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/implementing-a-playbook-to-manage-software?u=76281980&t=50)** Press z + R to expand the folds.
 >
@@ -2324,7 +2302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Ansible]] (6), cd (3), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (6)
 > **CLI Commands:** apache (10), ansible (6), make (3), cd (3), mkdir (1)
 > **File Paths:** main.yml (5), site.yml (3), os_debian.yml (2), install_apache.yml (2), os_centos.yml (1)
 > **Code Identifiers:** apache_pkg (3), apache_svc (3), install_apache (2), include_vars (1), ansible_facts (1)
@@ -2338,20 +2316,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modules related to user management
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980)
+#### [Modules related to user management](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=0)** - [Instructor] Operating systems are not that useful without users.
 >
-> **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=3)** Managing users with Ansible, is fairly straightforward.
+> **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=3)** Managing users with [[Ansible]], is fairly straightforward.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=7)** For most systems, we can manage users using the Ansible user module.
 >
-> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=11)** To manage groups on Linux and Unix hosts, use the group module.
+> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=11)** To manage groups on [[Linux]] and Unix hosts, use the group module.
 >
-> **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=15)** If your managed host is Windows, you'll want to use the win_user module, and to manage groups on Windows, use the win_group module.
+> **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=15)** If your managed host is [[Windows]], you'll want to use the win_user module, and to manage groups on Windows, use the win_group module.
 >
 > **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=24)** To manage group membership on Windows, use the win_group_membership module.
 >
@@ -2373,15 +2350,15 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=84)** To manage Ovirt users, use ovirt_user, and for VMware local users, use the vmware_local_user_manager module.
 >
-> **[1:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=94)** For cloud services, the avcs_user module manages users on Apache cloud stack.
+> **[1:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=94)** For [[Cloud Services]], the avcs_user module manages users on Apache cloud stack.
 >
-> **[1:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=101)** For Amazon web services, iam users, groups, roles, and keys, use the iam_user module, and iam_group, to manage Amazon groups.
+> **[1:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=101)** For [[Amazon Web Services (AWS)|Amazon web services]], iam users, groups, roles, and keys, use the iam_user module, and iam_group, to manage Amazon groups.
 >
 > **[1:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=114)** os_user, can be used to manage OpenStack identity users, and we can even manage Ansible tower users with the tower_user module, to create, update, and destroy Ansible tower users.
 >
 > **[2:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=126)** This isn't even all of the user modules in Ansible.
 >
-> **[2:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=129)** Since this course targets host operating systems and Red Hat Linux specifically, we'll cover using the standard user and group modules.
+> **[2:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=129)** Since this course targets host operating systems and [[Red Hat Linux]] specifically, we'll cover using the standard user and group modules.
 >
 > **[2:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-related-to-user-management?u=76281980&t=136)** Just be aware that the others exist and check the Ansible module page for specifics on any of them.
 >
@@ -2407,7 +2384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (6), [[Windows]] (3), cloud (2), [[Linux]] (1), management (1)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Windows]] (3), [[Linux]] (1), [[Cloud Services]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Code Identifiers:** win_user (1), win_group (1), win_group_membership (1), osx_defaults (1), bigip_user (1)
 > **CLI Commands:** ansible (6), apache (2), ssh (2), nginx (1)
 > **Env Vars:** ssh (2), cnos (1), eos (1), ipa (1)
@@ -2415,12 +2392,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using playbooks to create users
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-playbooks-to-create-users?u=76281980)
+#### [Using playbooks to create users](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-playbooks-to-create-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-playbooks-to-create-users?u=76281980&t=0)** - [Narrator] We can use the user module to manage users, which is fairly straightforward for speed reasons, Ansible leaves a lot of data in readable format for the users password will want to hide their sensitive data.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-playbooks-to-create-users?u=76281980&t=0)** - [Narrator] We can use the user module to manage users, which is fairly straightforward for speed reasons, [[Ansible]] leaves a lot of data in readable format for the users password will want to hide their sensitive data.
 >
 > **[0:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-playbooks-to-create-users?u=76281980&t=10)** Since this is the first time we've dealt with sensitive data in this series, you'll want to watch this video.
 >
@@ -2494,7 +2470,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-playbooks-to-create-users?u=76281980&t=270)** However, I will remedy this situation in a moment.
 >
-> **[4:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-playbooks-to-create-users?u=76281980&t=273)** Also, if you're doing this in production, you'll want to use a stronger default password than the word password.
+> **[4:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-playbooks-to-create-users?u=76281980&t=273)** Also, if you're doing this in production, you'll want to use a stronger default password than the [[Microsoft Word|word]] password.
 >
 > **[4:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-playbooks-to-create-users?u=76281980&t=278)** Now Save and Exit by pressing escape colon x, exclamation mark and hitting Enter.
 >
@@ -2532,7 +2508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (15), hit (9), data (4), cd (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (15), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** ansible (15), cat (2), ssh (2), mkdir (1), cd (1)
 > **Tools:** terminal (6), vim (2), bash (1)
 > **Env Vars:** yaml (1), ex294 (1), aes256 (1)
@@ -2541,8 +2517,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** you'll need (1)
 
-#### Using external user data files
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-external-user-data-files?u=76281980)
+#### [Using external user data files](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-external-user-data-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2552,7 +2527,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-external-user-data-files?u=76281980&t=19)** Let's start by modifying our createbob.yml playbook.
 >
-> **[0:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-external-user-data-files?u=76281980&t=22)** Be sure you're in your ansible-files/playbooks directory and make a copy of createbob.yml type in cp space createbob.yml space createusers.yml and hit enter, now edit it using vim, type in vim space createusers.yml and hit enter.
+> **[0:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-external-user-data-files?u=76281980&t=22)** Be sure you're in your [[Ansible]]-files/playbooks directory and make a copy of createbob.yml type in cp space createbob.yml space createusers.yml and hit enter, now edit it using vim, type in vim space createusers.yml and hit enter.
 >
 > **[0:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-external-user-data-files?u=76281980&t=42)** Expand the foals by pressing Z uppercase R, currently this file creates one username, Bob, which may be useful if you only have one user named Bob chances are you'll want to create more users.
 >
@@ -2582,7 +2557,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-external-user-data-files?u=76281980&t=190)** Note that this does exactly the same thing as having the loop in the playbook file.
 >
-> **[3:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-external-user-data-files?u=76281980&t=194)** Why should you go through the trouble if it does exactly the same thing, because we're taking the first step at managing our user data separate from our system configuration code.
+> **[3:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-external-user-data-files?u=76281980&t=194)** Why should you go through the trouble if it does exactly the same thing, because we're taking the first step at managing our user data separate from our [[System Configuration]] code.
 >
 > **[3:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/using-external-user-data-files?u=76281980&t=203)** Currently, everything is in the create users playbook by putting user data in a file by itself and separating it from the playbook and external source could be creating the file for instance, a customer facing web portal.
 >
@@ -2596,7 +2571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), web (4), [[Ansible]] (3), hit (3), next (1)
+> **Frameworks & Libraries:** [[Ansible]] (3), [[System Configuration]] (1)
 > **File Paths:** createbob.yml (3), createusers.yml (3)
 > **CLI Commands:** ansible (3), make (1), cp (1)
 > **Tools:** vim (2), terminal (1)
@@ -2605,12 +2580,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Advanced user creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/advanced-user-creation?u=76281980)
+#### [Advanced user creation](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/advanced-user-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/advanced-user-creation?u=76281980&t=0)** - [Instructor] Now let's take user management to the next level.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/advanced-user-creation?u=76281980&t=0)** - [Instructor] Now let's take [[User Management]] to the next level.
 >
 > **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/advanced-user-creation?u=76281980&t=3)** In the Exercise Files directory for this chapter, there are two files that we'll want to take a look at.
 >
@@ -2686,7 +2660,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/advanced-user-creation?u=76281980&t=213)** Now to run the playbook let's first exit by pressing escape colon Q, exclamation mark, and hitting Enter, and type in clear.
 >
-> **[3:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/advanced-user-creation?u=76281980&t=222)** Now bring your Ansible playbook line back and change create users to createwebadmins.yml and hit Enter.
+> **[3:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/advanced-user-creation?u=76281980&t=222)** Now bring your [[Ansible]] playbook line back and change create users to createwebadmins.yml and hit Enter.
 >
 > **[3:52](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/advanced-user-creation?u=76281980&t=232)** Now type in your vault password and hit Enter again and everything should work fine.
 >
@@ -2700,7 +2674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), data (3), next (2), [[Ansible]] (2), [[User Management]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (2), [[User Management]] (1)
 > **File Paths:** webadmins.yml (5), createwebadmins.yml (2)
 > **CLI Commands:** ansible (2), ssh (1)
 > **Tools:** vim (3)
@@ -2714,12 +2688,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modules for managing services and tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980)
+#### [Modules for managing services and tasks](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=0)** - Most of what we'll use Ansible for is managing saved configuration.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=0)** - Most of what we'll use [[Ansible]] for is managing saved configuration.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=4)** Meaning we install software packages, create users and configuration files, and set up the state in which we want the Manage hosts to be.
 >
@@ -2747,9 +2720,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=65)** There are several modules for managing system services depending on which init system your Manage host uses.
 >
-> **[1:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=71)** There's a generic service module called service that supports init systems including BSD Init, OpenRC used by Gentoo Linux, SysVinit used by Legacy Linux systems, Solaris SMF and systemd used by most current distributions.
+> **[1:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=71)** There's a generic service module called service that supports init systems including BSD Init, OpenRC used by Gentoo [[Linux]], SysVinit used by Legacy Linux systems, Solaris SMF and systemd used by most current distributions.
 >
-> **[1:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=87)** For manage hosts running Windows use win_service.
+> **[1:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=87)** For manage hosts running [[Windows]] use win_service.
 >
 > **[1:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=91)** For most management of services, the service module works fine.
 >
@@ -2793,7 +2766,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=216)** If we need information on running processes, we can use the pids module.
 >
-> **[3:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=220)** This example stores the output into a variable called pids of Python.
+> **[3:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=220)** This example stores the output into a variable called pids of [[Python (Programming Language)|Python]].
 >
 > **[3:44](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=224)** Since that is the registered variable name we specified.
 >
@@ -2803,7 +2776,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=237)** Sometimes there may not be a module for what we want.
 >
-> **[4:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=240)** For that, we can use the fetch module to gather the file data that we wish.
+> **[4:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=240)** For that, we can use the [[Fetch]] module to gather the file data that we wish.
 >
 > **[4:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/modules-for-managing-services-and-tasks?u=76281980&t=244)** One use may be to fetch a virtual file from the slash proc or slash sis directories on the Manage host.
 >
@@ -2819,7 +2792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (5), [[Linux]] (5), [[Windows]] (3), data (3), [[Fetch]] (3)
+> **Frameworks & Libraries:** [[Ansible]] (5), [[Linux]] (5), [[Windows]] (3), [[Fetch]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (5), make (1), python (1)
 > **Code Identifiers:** daemon_reexec (2), win_service (1), service_facts (1), ansible_facts (1), win_firewall (1)
 > **Prerequisites:** install (3), set up (1)
@@ -2828,12 +2801,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
 
-#### Creating a playbook to manage services
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980)
+#### [Creating a playbook to manage services](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=0)** - [Instructor] The majority of modern Linux distributions use systemd to manage their net process.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=0)** - [Instructor] The majority of modern [[Linux]] distributions use systemd to manage their net process.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=5)** As such, we'll mostly be covering how to manage services using the systemd module.
 >
@@ -2873,7 +2845,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=101)** If all we're doing is starting and stopping services, replace this systemd module with a service module and everything will be fine.
 >
-> **[1:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=106)** Ansible figures out which init system to use based on their operating system.
+> **[1:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=106)** [[Ansible]] figures out which init system to use based on their operating system.
 >
 > **[1:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=111)** However, just like with software packages, we have a problem if the distributions use different names for the services.
 >
@@ -2893,7 +2865,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=152)** It's worth noting that you can use other answerable facts, such as distribution version, OS family, or a combination.
 >
-> **[2:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=158)** You could have separate files full of variables for Debian 7.0, Ubuntu 16.04, and CentOS 8, just by manipulating this string.
+> **[2:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=158)** You could have separate files full of variables for Debian 7.0, [[Ubuntu]] 16.04, and CentOS 8, just by manipulating this string.
 >
 > **[2:47](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-services?u=76281980&t=167)** In the variable file that we're including in our playbook, we would place variables that are specific to the OS we're matching, any general variables, however, should go in other files so you don't have duplicates.
 >
@@ -2918,12 +2890,11 @@ created: 2026-05-02
 > **CLI Commands:** ansible (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a playbook to manage tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-tasks?u=76281980)
+#### [Creating a playbook to manage tasks](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-tasks?u=76281980&t=0)** - [Instructor] Let's create a scheduled task in a terminal and rh host one change into the Ansible files slash playbooks directory.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-tasks?u=76281980&t=0)** - [Instructor] Let's create a scheduled task in a terminal and rh host one change into the [[Ansible]] files slash playbooks directory.
 >
 > **[0:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-tasks?u=76281980&t=10)** We're using this directory to outline specific technologies and Ansible.
 >
@@ -2961,7 +2932,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-tasks?u=76281980&t=136)** And the job will run the yum clean packages command.
 >
-> **[2:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-tasks?u=76281980&t=139)** You might want to note that in Enterprise Linux eight, the command that actually runs is DNF.
+> **[2:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-tasks?u=76281980&t=139)** You might want to note that in Enterprise [[Linux]] eight, the command that actually runs is DNF.
 >
 > **[2:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/creating-a-playbook-to-manage-tasks?u=76281980&t=143)** But calling yum will work on both Enterprise Linux seven and eight.
 >
@@ -3075,7 +3046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), [[Ansible]] (11), [[Linux]] (3), data (1)
+> **Frameworks & Libraries:** [[Ansible]] (11), [[Linux]] (3)
 > **CLI Commands:** ansible (11), yum (4), ssh (2), dnf (1)
 > **Tools:** terminal (5), vim (2)
 > **Env Vars:** ssh (2), dnf (1)
@@ -3089,14 +3060,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing Ansible logging and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980)
+#### [Managing Ansible logging and output](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980&t=0)** - [Instructor] In any complex system, is good to be able to see what's going on and even better to be able to analyze it.
 >
-> **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980&t=5)** For this, we have logging, by default Ansible outputs data onto the screen when running a playbook, but doesn't save any of it.
+> **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980&t=5)** For this, we have logging, by default [[Ansible]] outputs data onto the screen when running a playbook, but doesn't save any of it.
 >
 > **[0:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980&t=12)** We can however change this.
 >
@@ -3106,7 +3076,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980&t=23)** It tells you which ansible.cfg file have processed and a bit more information about the task.
 >
-> **[0:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980&t=29)** When you provide two vs, Ansible will tells us a lot more about it's configuration, including where the modules config files and executables are, in addition to the Python version.
+> **[0:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980&t=29)** When you provide two vs, Ansible will tells us a lot more about it's configuration, including where the modules config files and executables are, in addition to the [[Python (Programming Language)|Python]] version.
 >
 > **[0:37](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/managing-ansible-logging-and-output?u=76281980&t=37)** It also shows the task path.
 >
@@ -3198,7 +3168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (22), data (5), [[Python (Programming Language)|Python]] (1), next (1), node (1)
+> **Frameworks & Libraries:** [[Ansible]] (22), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (22), ssh (2), python (1), node (1)
 > **File Paths:** ansible.cfg (4)
 > **Code Identifiers:** ansible_log_path (1), no_log (1), profile_task (1), log_play (1)
@@ -3207,8 +3177,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 
-#### Troubleshooting Ansible playbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/troubleshooting-ansible-playbooks?u=76281980)
+#### [Troubleshooting Ansible playbooks](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/troubleshooting-ansible-playbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3240,7 +3209,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/troubleshooting-ansible-playbooks?u=76281980&t=66)** if you want to skip these tasks or even ignore errors, we could use variables and conditionals to make this happen.
 >
-> **[1:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/troubleshooting-ansible-playbooks?u=76281980&t=72)** Ansible check mode is a Boolean variable so we can use it directly in a win conditional.
+> **[1:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/troubleshooting-ansible-playbooks?u=76281980&t=72)** [[Ansible]] check mode is a Boolean variable so we can use it directly in a win conditional.
 >
 > **[1:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/troubleshooting-ansible-playbooks?u=76281980&t=77)** If it's not true, then we'll skip the first task.
 >
@@ -3322,7 +3291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (3), [[Debugging]] (1), next (1)
+> **Frameworks & Libraries:** [[Ansible]] (3)
 > **CLI Commands:** ansible (3), make (2)
 > **Code Identifiers:** wrong_var (2), on_failed (1), pkg_name (1)
 > **Tools:** command line (2), bash (1)
@@ -3336,12 +3305,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking the exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980)
+#### [Taking the exam](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980&t=0)** - [Grant McWilliams] This is the third and last course in the three-part series on Ansible Engine for the Red Hat EX294 certification.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980&t=0)** - [Grant McWilliams] This is the third and last course in the three-part series on [[Ansible]] Engine for the Red Hat EX294 certification.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980&t=7)** Before attempting to take the exam, you'll want to watch the other two courses.
 >
@@ -3353,7 +3321,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980&t=26)** This is a hands-on practical exam that requires you to use Red Hat Ansible Engine to perform real world tasks.
 >
-> **[0:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980&t=34)** You will be provided with multiple systems and will be required to install and configure Ansible Engine, and then use it to perform standard system administration tasks similar to what you would do on a job.
+> **[0:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980&t=34)** You will be provided with multiple systems and will be required to install and configure Ansible Engine, and then use it to perform standard [[System Administration]] tasks similar to what you would do on a job.
 >
 > **[0:45](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-3-managing-systems-with-ansible/taking-the-exam?u=76281980&t=45)** You are allowed four hours to complete those tasks.
 >

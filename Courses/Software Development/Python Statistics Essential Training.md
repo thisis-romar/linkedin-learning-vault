@@ -96,51 +96,48 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Being a Python statistics MVP
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980)
+#### [Being a Python statistics MVP](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=0)** - Have you ever wanted to explore statistics using a code-first approach?
+> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=0)** - Have you ever wanted to explore [[Statistics]] using a code-first approach?
 >
 > **[0:04](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=4)** You've come to the right place.
 >
-> **[0:06](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=6)** This Python-based course will dive into various techniques that form the backbone of statistics.
+> **[0:06](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=6)** This [[Python (Programming Language)|Python]]-based course will dive into various techniques that form the backbone of statistics.
 >
 > **[0:12](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=12)** We'll understand the data with summary statistics and visualizations.
 >
-> **[0:16](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=16)** Then we'll create predictive models using both linear regression and XGBoost.
+> **[0:16](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=16)** Then we'll create predictive models using both [[Linear Regression]] and XGBoost.
 >
 > **[0:22](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=22)** Finally, we'll explore hypothesis testing.
 >
-> **[0:26](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=26)** Because we use Jupyter Notebooks and GitHub Codespaces, you can easily run the same code and follow along in a web-based environment without any complicated installation.
+> **[0:26](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=26)** Because we use Jupyter Notebooks and [[GitHub]] [[Codespaces]], you can easily run the same code and follow along in a web-based environment without any complicated installation.
 >
-> **[0:37](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=37)** Hi, I'm Matt Harrison, a Python and data science corporate trainer.
+> **[0:37](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=37)** Hi, I'm Matt Harrison, a Python and [[Data Science]] corporate trainer.
 >
 > **[0:42](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980&t=42)** I'm excited to join you on this incredible statistics adventure together using a code-first approach.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4), [[Python (Programming Language)|Python]] (2), data (2), [[Linear Regression]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Python (Programming Language)|Python]] (2), [[Linear Regression]] (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** python (2)
 > **Tools:** jupyter (1), github (1)
 > **Speakers:** - have (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/what-you-should-know?u=76281980)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] In this lesson, I'm going to show you how to configure codespaces for this course.
+> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] In this lesson, I'm going to show you how to configure [[Codespaces]] for this course.
 >
 > **[0:06](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=6)** You want to navigate to the course repository and then click on this green Code button.
 >
 > **[0:14](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=14)** You'll see that there's a local tab and a codespaces tab.
 >
-> **[0:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=17)** If you wanted to run this locally, you could, if you know how to get a Python environment set up, there's a requirements.txt that you can use PIP to install the requirements if you want to run locally.
+> **[0:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=17)** If you wanted to run this locally, you could, if you know how to get a [[Python (Programming Language)|Python]] environment set up, there's a requirements.txt that you can use PIP to install the requirements if you want to run locally.
 >
 > **[0:29](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=29)** Alternatively, you can use codespaces, which is really easy.
 >
@@ -160,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=66)** You can see that I'm in a terminal right here.
 >
-> **[1:09](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=69)** I can say LS and I have access to all of my favorite Linux commands here.
+> **[1:09](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=69)** I can say LS and I have access to all of my favorite [[Linux]] commands here.
 >
 > **[1:14](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=74)** We're also launched in VS Code, so for this course, all we have to do is click on this Pystats.ipynb.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=152)** Now you can see it's running and it has finished running, at this point, you can see it says 2.0.2.
 >
-> **[2:40](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=160)** In this lesson, we showed you how to open a project in GitHub, create a codespace, and then connect a Jupyter Notebook to that codespace and execute it through codespaces.
+> **[2:40](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=160)** In this lesson, we showed you how to open a project in [[GitHub]], create a codespace, and then connect a Jupyter Notebook to that codespace and execute it through codespaces.
 >
 > **[2:53](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/using-github-codespaces-with-this-course?u=76281980&t=173)** Codespaces is a nice tool that you find on GitHub that lets you easily start projects without having to worry about configuring environments.
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (8), [[Python (Programming Language)|Python]] (6), web (2), [[GitHub]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (8), [[Python (Programming Language)|Python]] (6), [[GitHub]] (2), [[Linux]] (1)
 > **UI Navigation:** click on (8), open the (2), navigate to (1)
 > **CLI Commands:** python (6), pip (1), ls (1), find (1)
 > **Tools:** vs code (2), github (2), terminal (1), jupyter (1)
@@ -220,14 +217,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980)
+#### [Loading data](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=0)** - [Instructor] In this lesson, we are going to look at loading the data.
 >
-> **[0:03](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=3)** I've opened the notebook in Codespaces.
+> **[0:03](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=3)** I've opened the notebook in [[Codespaces]].
 >
 > **[0:07](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=7)** If you want to run this locally, you can run this locally as well.
 >
@@ -241,7 +237,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=25)** It's got a couple thousand lines of data about housing sales in Iowa, and it's got 80 plus columns of information around those cells.
 >
-> **[0:35](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=35)** So this is going to be a great data set for us to look at and examine some statistics using it.
+> **[0:35](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=35)** So this is going to be a great data set for us to look at and examine some [[Statistics]] using it.
 >
 > **[0:42](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=42)** Let's go down and run some of these cells here.
 >
@@ -253,7 +249,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=63)** What that allows me to do is hit enter and I can go in and edit this cell if I want to after that and then I can rerun that by holding down control and hitting enter again.
 >
-> **[1:12](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=72)** So we're checking the version of Pandas pd.__version__, we call that Dunderversion and we see that we are using Panda's version 2.02.
+> **[1:12](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=72)** So we're checking the version of [[Pandas (Software)|Pandas]] pd.__version__, we call that Dunderversion and we see that we are using Panda's version 2.02.
 >
 > **[1:23](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980&t=83)** So one thing to be aware of in this course is that we are using the latest version of Pandas as of the recording, Pandas Two and Pandas Two has a few features that allow it to do things more efficiently and with less memory than Pandas One.
 >
@@ -337,7 +333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Pandas (Software)|Pandas]] (14), hit (3), [[Statistics]] (2), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (14), [[Statistics]] (2), [[Codespaces]] (1)
 > **Env Vars:** url (1), csv (1), std (1)
 > **Warnings:** be aware (2), note that (1)
 > **Code Identifiers:** dtype_backend (2)
@@ -346,12 +342,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strings and categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980)
+#### [Strings and categories](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=0)** - [Instructor] In this lesson, we're going to look at strings and categories and understand these types of columns and how to deal with them in Pandas.
+> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=0)** - [Instructor] In this lesson, we're going to look at strings and categories and understand these types of columns and how to deal with them in [[Pandas (Software)|Pandas]].
 >
 > **[0:07](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=7)** I've listed out some of the goals here.
 >
@@ -359,7 +354,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=13)** We want to look at using the select_dtypes method.
 >
-> **[0:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=17)** We're also going to do summary statistics using the describe method.
+> **[0:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=17)** We're also going to do summary [[Statistics]] using the describe method.
 >
 > **[0:21](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=21)** And we're going to look at memory usage and converting string columns to category types.
 >
@@ -491,7 +486,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=366)** And then what I'm going to do is I'm going to do the mean operation on that.
 >
-> **[6:10](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=370)** One thing to be aware of in Python, and also in Pandas because Pandas is in Python, is that Python treats true and false values as one and zero, respectively.
+> **[6:10](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=370)** One thing to be aware of in [[Python (Programming Language)|Python]], and also in Pandas because Pandas is in Python, is that Python treats true and false values as one and zero, respectively.
 >
 > **[6:22](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/strings-and-categories?u=76281980&t=382)** So if I take the mean of this, this is going to essentially be taking the mean of a data frame with zeros and ones in it.
 >
@@ -697,7 +692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Pandas (Software)|Pandas]] (19), [[Statistics]] (4), [[Python (Programming Language)|Python]] (3), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (19), [[Statistics]] (4), [[Python (Programming Language)|Python]] (3)
 > **Definitions:** is a  (9), means that (1), is an  (1)
 > **Code Identifiers:** select_dtypes (5), memory_usage (2), value_counts (2)
 > **CLI Commands:** python (3), find (2), make (1)
@@ -706,8 +701,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (2)
 > **Warnings:** be aware (2)
 
-#### Cleaning numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980)
+#### [Cleaning numbers](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=9)** Our goals are going to be using select D types, using describe, finding missing values, and I'll also show you how to view a little bit more data than the default values and style the output.
 >
-> **[0:22](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=22)** In pandas one, there would be a lot of entries for the Float D type here.
+> **[0:22](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=22)** In [[Pandas (Software)|pandas]] one, there would be a lot of entries for the Float D type here.
 >
 > **[0:29](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=29)** That's because in pandas one, when pandas encountered a integer value that had missing values, it converted it to a float.
 >
@@ -733,7 +727,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=53)** So let's explore some of these columns and see what's going on.
 >
-> **[0:57](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=57)** So again, one thing that we can do, is run the describe method to get summary statistics on those.
+> **[0:57](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=57)** So again, one thing that we can do, is run the describe method to get summary [[Statistics]] on those.
 >
 > **[1:04](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=64)** One of the things I like to do is look at the count, just to see how many values are missing.
 >
@@ -761,7 +755,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=126)** So query expects you to pass in a string that takes a column and some operation on the column.
 >
-> **[2:12](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=132)** In this case, the column is lot frontage and, because lot frontage has a space in it, it is not a valid Python attribute.
+> **[2:12](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=132)** In this case, the column is lot frontage and, because lot frontage has a space in it, it is not a valid [[Python (Programming Language)|Python]] attribute.
 >
 > **[2:21](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=141)** So if you have a column name that has characters that aren't valid Python attributes, you need to surround them by backticks.
 >
@@ -861,7 +855,7 @@ created: 2026-05-02
 >
 > **[7:45](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=465)** So in this case, garage year built, leaving those values as missing, might be useful.
 >
-> **[7:51](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=471)** However, if you want to do some operations such as running linear regression on this, that might be problematic, because, linear regression does not like to have missing values in the data.
+> **[7:51](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=471)** However, if you want to do some operations such as running [[Linear Regression]] on this, that might be problematic, because, linear regression does not like to have missing values in the data.
 >
 > **[8:04](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/cleaning-numbers?u=76281980&t=484)** You might need to find a way to encode that, such that you can run some of these other tools with columns that have missing data in them.
 >
@@ -1023,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Pandas (Software)|Pandas]] (9), [[Statistics]] (4), [[Python (Programming Language)|Python]] (3), [[Linear Regression]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (9), [[Statistics]] (4), [[Python (Programming Language)|Python]] (3), [[Linear Regression]] (2)
 > **CLI Commands:** find (5), python (3), make (3)
 > **Definitions:** is a  (9)
 > **Analogies:** for example (2), such as (1), similar to (1)
@@ -1032,8 +1026,7 @@ created: 2026-05-02
 > **Warnings:** caution (1), note that (1)
 > **Env Vars:** substring (1)
 
-#### Shrinking numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/shrinking-numbers?u=76281980)
+#### [Shrinking numbers](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/shrinking-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1057,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/shrinking-numbers?u=76281980&t=47)** In our last lesson, we saw this assign method where we converted strings into categoricals and we also cleaned up our Garage Yr Blt.
 >
-> **[0:56](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/shrinking-numbers?u=76281980&t=56)** Here's our summary statistics of that.
+> **[0:56](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/shrinking-numbers?u=76281980&t=56)** Here's our summary [[Statistics]] of that.
 >
 > **[0:59](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/shrinking-numbers?u=76281980&t=59)** Looks like we haven't lost any fidelity by doing that.
 >
@@ -1069,7 +1062,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/shrinking-numbers?u=76281980&t=78)** You can see that right here has minimum values of one and maximum values of 10.
 >
-> **[1:25](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/shrinking-numbers?u=76281980&t=85)** Remember that Pandas is using a 64-bit integer to store that information which is actually a waste.
+> **[1:25](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/shrinking-numbers?u=76281980&t=85)** Remember that [[Pandas (Software)|Pandas]] is using a 64-bit integer to store that information which is actually a waste.
 >
 > **[1:32](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/shrinking-numbers?u=76281980&t=92)** So we could use a different data type and save memory without losing any information.
 >
@@ -1175,7 +1168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (4), next (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Statistics]] (1)
 > **Code Identifiers:** clean_housing (2), shrink_ints (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), stands for (1)
@@ -1183,8 +1176,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1), note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Clean Ames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-clean-ames?u=76281980)
+#### [Challenge: Clean Ames](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-clean-ames?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1216,14 +1208,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Clean Ames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-clean-ames?u=76281980)
+#### [Solution: Clean Ames](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-clean-ames?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1315,7 +1305,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (4), hit (4)
 > **CLI Commands:** make (9), find (1)
 > **Code Identifiers:** clean_housing (3), shrink_ints (1)
 > **UI Navigation:** click on (1), scroll up (1)
@@ -1328,8 +1317,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Categorical exploration
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980)
+#### [Categorical exploration](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1343,7 +1331,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980&t=25)** So I've got the raw data and I've got the housing data.
 >
-> **[0:29](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980&t=29)** Remember, we can use describe to get summary statistics.
+> **[0:29](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980&t=29)** Remember, we can use describe to get summary [[Statistics]].
 >
 > **[0:32](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980&t=32)** By default, this is going to give us numerical summary statistics.
 >
@@ -1361,7 +1349,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980&t=64)** And this gives us a series.
 >
-> **[1:07](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980&t=67)** Pandas uses series and data frames all over the place so it's good to get comfortable with those and also understand that these operations that we're doing with series and data frames are like tools in your tool belt and once you understand these basic operations, you can start leveraging them, combining them with other ones.
+> **[1:07](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980&t=67)** [[Pandas (Software)|Pandas]] uses series and data frames all over the place so it's good to get comfortable with those and also understand that these operations that we're doing with series and data frames are like tools in your tool belt and once you understand these basic operations, you can start leveraging them, combining them with other ones.
 >
 > **[1:26](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980&t=86)** So one of the things I might want to do with this is visualize what's going on here.
 >
@@ -1421,20 +1409,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (4), [[Statistics]] (2), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Statistics]] (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** rm (1), make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Histograms and distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/histograms-and-distributions?u=76281980)
+#### [Histograms and distributions](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/histograms-and-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/histograms-and-distributions?u=76281980&t=0)** - [Instructor] In this lesson, we're going to look at histograms and distributions for numerical columns.
 >
-> **[0:05](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/histograms-and-distributions?u=76281980&t=5)** Again, we can start off with the describe method to get summary statistics but oftentimes, we want to visualize this as well.
+> **[0:05](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/histograms-and-distributions?u=76281980&t=5)** Again, we can start off with the describe method to get summary [[Statistics]] but oftentimes, we want to visualize this as well.
 >
 > **[0:11](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/histograms-and-distributions?u=76281980&t=11)** I'll show you some ways to visualize these.
 >
@@ -1468,7 +1455,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/histograms-and-distributions?u=76281980&t=78)** We don't have any SalePrice values that are missing.
 >
-> **[1:23](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/histograms-and-distributions?u=76281980&t=83)** One of the ways to visualize a numeric column is to do a histogram, and again, this is very easy in pandas.
+> **[1:23](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/histograms-and-distributions?u=76281980&t=83)** One of the ways to visualize a numeric column is to do a histogram, and again, this is very easy in [[Pandas (Software)|pandas]].
 >
 > **[1:31](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/histograms-and-distributions?u=76281980&t=91)** We just say .hist, and here's the histogram.
 >
@@ -1528,20 +1515,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (2), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Warnings:** note that (1), be careful (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Outliers and Z-scores
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/outliers-and-z-scores?u=76281980)
+#### [Outliers and Z-scores](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/outliers-and-z-scores?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/outliers-and-z-scores?u=76281980&t=0)** - [Instructor] In this lesson, we are going to look at how we might find outliers or values that are at the extremes and I'll show two different ways to do that.
 >
-> **[0:10](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/outliers-and-z-scores?u=76281980&t=10)** I'll show one using our classic Z score and another one by using the inner quartile range, and we'll look at how we can use the pandas functionality to do that and make functions that you can use and leverage in your own code if you need to calculate values that tend to be on the extremes.
+> **[0:10](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/outliers-and-z-scores?u=76281980&t=10)** I'll show one using our classic Z score and another one by using the inner quartile range, and we'll look at how we can use the [[Pandas (Software)|pandas]] functionality to do that and make functions that you can use and leverage in your own code if you need to calculate values that tend to be on the extremes.
 >
 > **[0:33](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/outliers-and-z-scores?u=76281980&t=33)** So here is a function right here, calc Z and you'll notice that the input to calc Z, the first parameter is a data frame so a function that has the first parameter is a data frame is a candidate to use with the pipe method.
 >
@@ -1649,15 +1635,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (2), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Definitions:** is a  (9), means that (1)
 > **CLI Commands:** make (4), find (3)
 > **Env Vars:** iqr (3)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/correlations?u=76281980)
+#### [Correlations](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1667,7 +1652,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/correlations?u=76281980&t=6)** I'll also show you how to make a heat map and give you some tips for formatting that, so you can quickly see where your correlations are.
 >
-> **[0:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/correlations?u=76281980&t=17)** This is one of those calculations that's really easy to do in Pandas.
+> **[0:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/correlations?u=76281980&t=17)** This is one of those calculations that's really easy to do in [[Pandas (Software)|Pandas]].
 >
 > **[0:20](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/correlations?u=76281980&t=20)** All you have to do is say .corr.
 >
@@ -1819,7 +1804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (1), power (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4)
 > **Definitions:** is a  (7), means that (1), is an  (1)
 > **Versions:** 0.4 (3), 0.42 (1)
 > **CLI Commands:** make (1), find (1)
@@ -1828,8 +1813,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Warnings:** note that (1)
 
-#### Scatter plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/scatter-plots?u=76281980)
+#### [Scatter plots](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/scatter-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1963,7 +1947,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/scatter-plots?u=76281980&t=384)** Indeed, it looks like it does.
 >
-> **[6:27](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/scatter-plots?u=76281980&t=387)** One more way to visualize this that you get for free in Pandas is to use a hex bin plot.
+> **[6:27](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/scatter-plots?u=76281980&t=387)** One more way to visualize this that you get for free in [[Pandas (Software)|Pandas]] is to use a hex bin plot.
 >
 > **[6:33](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/scatter-plots?u=76281980&t=393)** You can see that this plot's little six-sided figures and then colors those based on the number of values that fall into those.
 >
@@ -1983,15 +1967,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Engineering]] (1), data (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 0.8 (4), 0.4 (4), 0.1 (2), 0.5 (2), 0.36 (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing categorical and numerical values
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980)
+#### [Visualizing categorical and numerical values](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2037,7 +2020,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=110)** Let's see if we can figure that out here.
 >
-> **[1:53](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=113)** I'm going to use some pandas code to manipulate my data.
+> **[1:53](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=113)** I'm going to use some [[Pandas (Software)|pandas]] code to manipulate my data.
 >
 > **[1:55](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=115)** First of all, let's use what's called a pivot.
 >
@@ -2109,7 +2092,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=314)** Let's walk through this chain.
 >
-> **[5:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=317)** I've said this previously, but once you understand that pandas is basically a toolbox for manipulating data, if you can get your data into the specified forms by making these chains, that will give you super powers.
+> **[5:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=317)** I've said this previously, but once you understand that pandas is basically a toolbox for manipulating data, if you can get your data into the specified [[Forms]] by making these chains, that will give you super powers.
 >
 > **[5:33](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=333)** Let's look at what this chain is doing.
 >
@@ -2127,7 +2110,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=384)** Can see that the decades are all multiples of 10.
 >
-> **[6:28](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=388)** Now that we have that we can group by the decade and get summary statistics for each of those decades.
+> **[6:28](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=388)** Now that we have that we can group by the decade and get summary [[Statistics]] for each of those decades.
 >
 > **[6:36](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-categorical-and-numerical-values?u=76281980&t=396)** Now that we have that, we can pivot by decade.
 >
@@ -2217,7 +2200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), data (8), next (2), [[Forms]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Forms]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (6), is called (1)
 > **Versions:** 12.5 (3), 87.5 (2), 200.6 (1)
 > **CLI Commands:** make (1)
@@ -2226,8 +2209,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing two categoricals
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/comparing-two-categoricals?u=76281980)
+#### [Comparing two categoricals](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/comparing-two-categoricals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2249,7 +2231,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/comparing-two-categoricals?u=76281980&t=37)** For each category in one column, you want to count the number of categories from another column and you make a matrix of the result.
 >
-> **[0:45](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/comparing-two-categoricals?u=76281980&t=45)** This is how we do this in Pandas.
+> **[0:45](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/comparing-two-categoricals?u=76281980&t=45)** This is how we do this in [[Pandas (Software)|Pandas]].
 >
 > **[0:48](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/comparing-two-categoricals?u=76281980&t=48)** Here's our original data.
 >
@@ -2361,15 +2343,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (4)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** make (3)
 > **Documentation:** the documentation (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Explore Ames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-explore-ames?u=76281980)
+#### [Challenge: Explore Ames](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-explore-ames?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2385,14 +2366,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Explore Ames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-explore-ames?u=76281980)
+#### [Solution: Explore Ames](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-explore-ames?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2470,7 +2449,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -2481,18 +2459,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980)
+#### [Linear regression](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=0)** - [Instructor] In this lesson, we're going to look at linear regression.
+> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=0)** - [Instructor] In this lesson, we're going to look at [[Linear Regression]].
 >
 > **[0:02](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=2)** The goal of linear regression is to take data and predict numeric values from that.
 >
 > **[0:08](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=8)** So we're going to take our housing data and we're going to see if we can predict the sales price given the other numeric values from that.
 >
-> **[0:15](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=15)** I'm going to show you how to do that using Python and we're going to talk about splitting your data into a training set and testing set and evaluating how your model performs.
+> **[0:15](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=15)** I'm going to show you how to do that using [[Python (Programming Language)|Python]] and we're going to talk about splitting your data into a training set and testing set and evaluating how your model performs.
 >
 > **[0:26](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=26)** We're going to be using the scikit-learn library.
 >
@@ -2510,7 +2487,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=65)** One is typically referred to as capital X and that is a matrix of data.
 >
-> **[1:10](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=70)** Generally, it can be a Pandas DataFrame.
+> **[1:10](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=70)** Generally, it can be a [[Pandas (Software)|Pandas]] DataFrame.
 >
 > **[1:14](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980&t=74)** And if you look at our X here, we are saying, okay, take our housing data and then pull off the numeric columns and also drop the sales price column.
 >
@@ -2672,7 +2649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), [[Linear Regression]] (8), [[Python (Programming Language)|Python]] (1), api (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (8), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (7), python (1), find (1)
 > **Code Identifiers:** train_test_split (3), y_train (2), linear_model (1), y_test (1), clean_housing_no_na (1)
 > **Versions:** 0.84 (3), 0.9 (1), 0.8 (1)
@@ -2681,12 +2658,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpreting linear regression models
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/interpreting-linear-regression-models?u=76281980)
+#### [Interpreting linear regression models](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/interpreting-linear-regression-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/interpreting-linear-regression-models?u=76281980&t=0)** - [Instructor] We just made a linear regression model.
+> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/interpreting-linear-regression-models?u=76281980&t=0)** - [Instructor] We just made a [[Linear Regression]] model.
 >
 > **[0:02](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/interpreting-linear-regression-models?u=76281980&t=2)** Now we want to try and understand what's going on with the model.
 >
@@ -2734,7 +2710,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/interpreting-linear-regression-models?u=76281980&t=145)** These columns are features that don't have a large impact on the output of the model.
 >
-> **[2:33](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/interpreting-linear-regression-models?u=76281980&t=153)** What I'm going to do is use some pandas code to just do a little bit of filtering here.
+> **[2:33](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/interpreting-linear-regression-models?u=76281980&t=153)** What I'm going to do is use some [[Pandas (Software)|pandas]] code to just do a little bit of filtering here.
 >
 > **[2:38](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/interpreting-linear-regression-models?u=76281980&t=158)** So we're going to start off with our series of the coefficients, and then I'm going to use this pipe here to just get the values that have an absolute value of greater than 100, and we'll do a bar plot of that.
 >
@@ -2774,14 +2750,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (5), feature (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (5), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (typing) (1)
 
-#### Standardizing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980)
+#### [Standardizing values](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2813,7 +2788,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=92)** The scale of the 20,000, that's a couple order of magnitudes bigger than the number of bathrooms.
 >
-> **[1:38](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=98)** And certain algorithms are impacted by the relationship between the magnitude of the columns.
+> **[1:38](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=98)** And certain [[Algorithms]] are impacted by the relationship between the magnitude of the columns.
 >
 > **[1:45](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=105)** One of the ways to do that is using standardization.
 >
@@ -2871,7 +2846,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=228)** A couple of orders of magnitude above the others.
 >
-> **[3:52](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=232)** Let's do a bar plot there with some filtering just to zoom in on those.
+> **[3:52](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=232)** Let's do a bar plot there with some filtering just to [[Zoom]] in on those.
 >
 > **[3:56](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=236)** And it looks like we have basement square footage, basement unfinished square footage, ground living area, basement square footage 2.
 >
@@ -2907,7 +2882,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=341)** In this lesson, we looked at standardizing our data.
 >
-> **[5:44](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=344)** Generally, you will want to standardize your data when you're doing linear regression.
+> **[5:44](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=344)** Generally, you will want to standardize your data when you're doing [[Linear Regression]].
 >
 > **[5:49](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/standardizing-values?u=76281980&t=349)** We saw in our model that performing standardization did not impact this model, but that's not always the case.
 >
@@ -2921,7 +2896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Linear Regression]] (2), [[Algorithms]] (1), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Algorithms]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** fit_transform (2)
@@ -2930,14 +2905,13 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regression with XGBoost
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980)
+#### [Regression with XGBoost](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=0)** - [Instructor] In this lesson, we're going to use a very popular library called XGBoost to make a regression model as well.
 >
-> **[0:08](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=8)** We're going to compare and contrast the performance and the interpretability of XGBoost with linear regression.
+> **[0:08](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=8)** We're going to compare and contrast the performance and the interpretability of XGBoost with [[Linear Regression]].
 >
 > **[0:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=17)** Let me quickly explain what XGBoost does.
 >
@@ -2977,7 +2951,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=113)** With XGBoost, it's a little bit more difficult.
 >
-> **[1:55](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=115)** We have a bunch of decision trees and you could have hundreds of decision trees and going through each of those decision trees and looking at how they sum up at the end could be a little tedious.
+> **[1:55](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=115)** We have a bunch of [[Decision Trees]] and you could have hundreds of decision trees and going through each of those decision trees and looking at how they sum up at the end could be a little tedious.
 >
 > **[2:06](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=126)** You could do it if you wanted to, but in practice no one does because it's too much work.
 >
@@ -3065,7 +3039,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=352)** These are the pyarrow numbers and I'm converting these to N64s.
 >
-> **[5:56](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=356)** These are the pandas values that XGBoost is okay with and I'm also dropping the sales price column.
+> **[5:56](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=356)** These are the [[Pandas (Software)|pandas]] values that XGBoost is okay with and I'm also dropping the sales price column.
 >
 > **[6:02](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/regression-with-xgboost?u=76281980&t=362)** Note that I did not remove the categorical values, like I did with the other examples here.
 >
@@ -3125,7 +3099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (8), data (7), hit (4), [[Decision Trees]] (3), business (3)
+> **Frameworks & Libraries:** [[Linear Regression]] (8), [[Decision Trees]] (3), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (9)
 > **Versions:** 0.89 (3), 0.91 (2), 0.84 (1)
 > **Definitions:** is a  (2), is called (1)
@@ -3133,14 +3107,13 @@ created: 2026-05-02
 > **Analogies:** compare this to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Predict Ames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-predict-ames?u=76281980)
+#### [Challenge: Predict Ames](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-predict-ames?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-predict-ames?u=76281980&t=0)** - [Instructor] In this challenge, you're going to predict the sales price of the Ames housing data.
 >
-> **[0:10](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-predict-ames?u=76281980&t=10)** What I would like you to do is make a linear regression model, but I want you to only use the top five features from the XG Boost model that was not using categorical data.
+> **[0:10](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-predict-ames?u=76281980&t=10)** What I would like you to do is make a [[Linear Regression]] model, but I want you to only use the top five features from the XG Boost model that was not using categorical data.
 >
 > **[0:22](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-predict-ames?u=76281980&t=22)** I want you to pull off those features.
 >
@@ -3150,13 +3123,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Linear Regression]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Predict Ames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-predict-ames?u=76281980)
+#### [Solution: Predict Ames](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-predict-ames?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3218,7 +3190,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-predict-ames?u=76281980&t=122)** And then what I'm going to do is I'm going to make a new model down here.
 >
-> **[2:05](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-predict-ames?u=76281980&t=125)** I'm going to call this the linear regression model.
+> **[2:05](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-predict-ames?u=76281980&t=125)** I'm going to call this the [[Linear Regression]] model.
 >
 > **[2:08](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-predict-ames?u=76281980&t=128)** I'm going to say it's the top five features and then I'm going to use my linear model.
 >
@@ -3278,7 +3250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (3), data (2), feature (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** y_train (1)
@@ -3292,12 +3264,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980)
+#### [Exploring data](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980&t=0)** - [Instructor] We're going to start looking at doing some hypothesis testing using Python.
+> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980&t=0)** - [Instructor] We're going to start looking at doing some hypothesis testing using [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980&t=4)** In this lesson, we're going to look at the data that we're going to explore.
 >
@@ -3321,7 +3292,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980&t=53)** In the index, that because we grouped by neighborhood we have all the neighborhoods and in the columns, now we have hierarchical or multi-index in the columns, we actually have two levels of columns.
 >
-> **[1:05](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980&t=65)** For each numeric value, we have the outer column and then in the inner columns, under that, we have the summary statistics for those.
+> **[1:05](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980&t=65)** For each numeric value, we have the outer column and then in the inner columns, under that, we have the summary [[Statistics]] for those.
 >
 > **[1:14](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980&t=74)** Let's limit those to the two neighborhoods that I'm interested in looking at.
 >
@@ -3353,23 +3324,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (4), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-distributions?u=76281980)
+#### [Visualizing distributions](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-distributions?u=76281980&t=0)** - [Instructor] In the last lesson, we looked at summary statistics to understand these two neighborhoods.
+> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-distributions?u=76281980&t=0)** - [Instructor] In the last lesson, we looked at summary [[Statistics]] to understand these two neighborhoods.
 >
 > **[0:05](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-distributions?u=76281980&t=5)** Let's use some visualization now to understand them as well.
 >
 > **[0:09](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-distributions?u=76281980&t=9)** I'm going to pull out the North Ames and College Creek data into their own series so that we can look at them a little easier.
 >
-> **[0:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-distributions?u=76281980&t=17)** I'll just use some pandas to do that.
+> **[0:17](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-distributions?u=76281980&t=17)** I'll just use some [[Pandas (Software)|pandas]] to do that.
 >
 > **[0:20](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/visualizing-distributions?u=76281980&t=20)** And the next thing I'm going to do is I'm going to make a histogram of both of those.
 >
@@ -3493,7 +3463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (4), next (4), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Statistics]] (2)
 > **Env Vars:** cdf (7), plt (1)
 > **CLI Commands:** make (5)
 > **Warnings:** note that (2)
@@ -3502,8 +3472,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running statistical tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/running-statistical-tests?u=76281980)
+#### [Running statistical tests](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/running-statistical-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3543,7 +3512,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/running-statistical-tests?u=76281980&t=99)** And if we scroll down a little bit, we should see some examples.
 >
-> **[1:42](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/running-statistical-tests?u=76281980&t=102)** One of the nice things about a lot of the Python numeric libraries such as Pandas, Matplotlib, Scikit-learn and Scipy is they have really good documentation.
+> **[1:42](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/running-statistical-tests?u=76281980&t=102)** One of the nice things about a lot of the [[Python (Programming Language)|Python]] numeric libraries such as [[Pandas (Software)|Pandas]], Matplotlib, Scikit-learn and Scipy is they have really good documentation.
 >
 > **[1:51](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/running-statistical-tests?u=76281980&t=111)** You can see an example of using it right here.
 >
@@ -3583,11 +3552,11 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/running-statistical-tests?u=76281980&t=240)** In this lesson, we looked at using the scipy.stats library to do a statistical test to compare whether two samples were from the same distribution.
 >
-> **[4:09](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/running-statistical-tests?u=76281980&t=249)** The scipy.stats Library makes this really easy to run statistical tests such as these and you can leverage the scipy.stats library to confirm what you see when you do visualizations or summary statistics.
+> **[4:09](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/running-statistical-tests?u=76281980&t=249)** The scipy.stats Library makes this really easy to run statistical tests such as these and you can leverage the scipy.stats library to confirm what you see when you do visualizations or summary [[Statistics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
 > **Versions:** 0.05 (4), 0.5 (2)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** n_ames (1), college_cr (1)
@@ -3596,8 +3565,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** scroll down (1)
 
-#### Testing for normality
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/testing-for-normality?u=76281980)
+#### [Testing for normality](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/testing-for-normality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3615,7 +3583,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/testing-for-normality?u=76281980&t=50)** Just print out that P value so you can see what it is, and it is indeed a small number.
 >
-> **[0:58](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/testing-for-normality?u=76281980&t=58)** Another way to evaluate normality is to use a probability plot.
+> **[0:58](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/testing-for-normality?u=76281980&t=58)** Another way to evaluate normality is to use a [[Probability]] plot.
 >
 > **[1:02](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/testing-for-normality?u=76281980&t=62)** It turns out that this module has that capability as well.
 >
@@ -3691,14 +3659,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (8), data (4)
+> **Frameworks & Libraries:** [[Probability]] (8)
 > **Definitions:** is a  (5), is called (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Checking square footage distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-checking-square-footage-distributions?u=76281980)
+#### [Challenge: Checking square footage distributions](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/challenge-checking-square-footage-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3715,8 +3682,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Checking square footage distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-checking-square-footage-distributions?u=76281980)
+#### [Solution: Checking square footage distributions](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-checking-square-footage-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3724,7 +3690,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-checking-square-footage-distributions?u=76281980&t=7)** The first thing that I want to do is I want to get the square footage from both of these neighborhoods.
 >
-> **[0:12](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-checking-square-footage-distributions?u=76281980&t=12)** Let's use our pandas code to do that.
+> **[0:12](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-checking-square-footage-distributions?u=76281980&t=12)** Let's use our [[Pandas (Software)|pandas]] code to do that.
 >
 > **[0:14](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-checking-square-footage-distributions?u=76281980&t=14)** Say from housing, let's do a query and I'm going to say neighborhood is equal to, and I'll put in double quotes here because my string has a single quote and NAmes.
 >
@@ -3794,7 +3760,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-checking-square-footage-distributions?u=76281980&t=190)** I'll just change it to 0.7 just on College Creek.
 >
-> **[3:13](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-checking-square-footage-distributions?u=76281980&t=193)** These do not look like the same distribution but let's quantify that using our summary statistics.
+> **[3:13](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-checking-square-footage-distributions?u=76281980&t=193)** These do not look like the same distribution but let's quantify that using our summary [[Statistics]].
 >
 > **[3:21](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/solution-checking-square-footage-distributions?u=76281980&t=201)** Okay, so we're going to use the Kolmogorov-Smirnov test and we're going to get a statistic from that and we're going to get a P-value from that.
 >
@@ -3812,7 +3778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
 > **Code Identifiers:** n_ames_sf (2), college_cr (1)
 > **CLI Commands:** make (2)
 > **Versions:** 0.7 (1), 0.05 (1)
@@ -3825,12 +3791,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980&t=0)** - Congratulations on completing the Statistics with Python course.
+> **[0:00](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980&t=0)** - Congratulations on completing the [[Statistics]] with [[Python (Programming Language)|Python]] course.
 >
 > **[0:04](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980&t=4)** Now that you've acquired a solid statistics foundation, you might wonder what are the next steps?
 >
@@ -3838,11 +3803,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980&t=14)** Like any skill, the more you practice, the more proficient you become.
 >
-> **[0:18](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980&t=18)** Consider working on improving your data manipulation skills.
+> **[0:18](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980&t=18)** Consider working on improving your [[Data Manipulation]] skills.
 >
 > **[0:22](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980&t=22)** As we've seen, many libraries are easy to use if the data is in the appropriate format.
 >
-> **[0:29](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980&t=29)** One valuable resource for this is my book, "Effective Pandas."
+> **[0:29](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980&t=29)** One valuable resource for this is my book, "Effective [[Pandas (Software)|Pandas]]."
 >
 > **[0:33](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980&t=33)** This book provides comprehensive examples and snippets for data manipulation using Pandas.
 >
@@ -3858,7 +3823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (3), [[Python (Programming Language)|Python]] (2), [[Data Manipulation]] (2), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Python (Programming Language)|Python]] (2), [[Data Manipulation]] (2), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Speakers:** - congratulations (1)
 

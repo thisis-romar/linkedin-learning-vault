@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The rapid growth of DeFi
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/the-rapid-growth-of-defi?u=76281980)
+#### [The rapid growth of DeFi](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/the-rapid-growth-of-defi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -117,7 +116,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **Speakers:** - let (1)
 
 
@@ -125,18 +123,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is DeFi?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980)
+#### [What is DeFi?](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=6)** - At this point, it's important to take a step back and look at the state of banking in the world.
+> **[0:06](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=6)** - At this point, it's important to take a step back and look at the state of [[Banking]] in the world.
 >
 > **[0:12](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=12)** As of 2017, there were 1.7 billion people in the world that were unbanked.
 >
 > **[0:18](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=18)** The banking infrastructure, which you and I take for granted, which is necessary in order to be able to generate wealth in the 21st century, is simply not available to these people.
 >
-> **[0:28](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=28)** Now, what really hits home is when you realize behind these statistics are millions of tragedies of people who couldn't get access to basic medical care, or couldn't eat because of this.
+> **[0:28](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=28)** Now, what really hits home is when you realize behind these [[Statistics]] are millions of tragedies of people who couldn't get access to basic medical care, or couldn't eat because of this.
 >
 > **[0:40](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=40)** They're trapped in this cycle of generational poverty because current economic opportunities require a bank account.
 >
@@ -148,7 +145,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=66)** If we are successful, we're going to lift a lot of people out of poverty.
 >
-> **[1:11](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=71)** Decentralized finance, or DeFi, is not a single product or company, but is instead a set of products and services that act as a replacement to institutions ranging from banking, insurance, bonds, money markets, stock exchanges, and even more.
+> **[1:11](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=71)** Decentralized finance, or DeFi, is not a single product or company, but is instead a set of [[Microsoft Products|products]] and services that act as a replacement to institutions ranging from banking, insurance, bonds, money markets, stock exchanges, and even more.
 >
 > **[1:27](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=87)** Currently, DeFi offers nearly all the same services that you can find in traditional finance, and even more so.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=175)** Now, what do I mean by this?
 >
-> **[2:57](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=177)** Well, in software development, the way you improve a product is by releasing that product, collecting data on its usage by customers, analyzing that data, and improving your product based on the analysis.
+> **[2:57](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=177)** Well, in [[Software Development]], the way you improve a product is by releasing that product, collecting data on its usage by customers, analyzing that data, and improving your product based on the analysis.
 >
 > **[3:11](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980&t=191)** This has been a foundational process to develop nearly all the software products that we use today.
 >
@@ -206,20 +203,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), product (5), [[Banking]] (3), data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Banking]] (3), [[Statistics]] (1), [[Software Development]] (1)
 > **CLI Commands:** find (1)
 > **Versions:** 1.7 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - at (1)
 
-#### Money legos
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/money-legos?u=76281980)
+#### [Money legos](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/money-legos?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/money-legos?u=76281980&t=0)** - Let's dig into this concept of Money Legos a little bit further.
 >
-> **[0:04](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/money-legos?u=76281980&t=4)** What is meant by this is that with DeFi, you can easily combine the products and protocols that others have built to create something entirely new.
+> **[0:04](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/money-legos?u=76281980&t=4)** What is meant by this is that with DeFi, you can easily combine the [[Microsoft Products|products]] and protocols that others have built to create something entirely new.
 >
 > **[0:13](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/money-legos?u=76281980&t=13)** By leveraging products others have built, it allows developers and entrepreneurs to focus their efforts on building new products and solving new problems instead of trying to replicate infrastructure that already exists.
 >
@@ -249,12 +245,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Stablecoins
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/stablecoins?u=76281980)
+#### [Stablecoins](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/stablecoins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -292,9 +287,9 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/stablecoins?u=76281980&t=76)** Now the problem with this approach is it requires trust in a central entity to actually hold those cash reserves.
 >
-> **[1:24](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/stablecoins?u=76281980&t=84)** And in the example of Tether, they've never proved that they're actually holding the amount of dollars necessary to back up all the tokens they have in market.
+> **[1:24](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/stablecoins?u=76281980&t=84)** And in the example of Tether, they've never proved that they're actually holding the amount of dollars necessary to back up all the [[Tokens]] they have in market.
 >
-> **[1:34](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/stablecoins?u=76281980&t=94)** Now, crypto collateralized stablecoin is where you are locking crypto assets into the blockchain in order to help guarantee the peg.
+> **[1:34](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/stablecoins?u=76281980&t=94)** Now, crypto collateralized stablecoin is where you are locking crypto assets into the [[Blockchain]] in order to help guarantee the peg.
 >
 > **[1:43](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/stablecoins?u=76281980&t=103)** Now, because you're using crypto assets with high volatility, you need to over collateralize those stablecoins typically two-to-one at least.
 >
@@ -329,14 +324,13 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - so (1)
 
-#### DEXs
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/dexs?u=76281980)
+#### [DEXs](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/dexs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/dexs?u=76281980&t=0)** - Before 2018 buying a small cap or newer coin was actually kind of hard.
 >
-> **[0:06](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/dexs?u=76281980&t=6)** As an investor, you had to have accounts at multiple exchanges and moving funds around just to get the tokens you wanted.
+> **[0:06](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/dexs?u=76281980&t=6)** As an investor, you had to have accounts at multiple exchanges and moving funds around just to get the [[Tokens]] you wanted.
 >
 > **[0:13](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/dexs?u=76281980&t=13)** If anyone was part of the 2017 bull run then you remember how challenging it was just to buy specific tokens.
 >
@@ -362,7 +356,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/dexs?u=76281980&t=80)** Now, this has significant restrictions as I described previously.
 >
-> **[1:24](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/dexs?u=76281980&t=84)** In a decentralized exchange, all these trades are conducted peer to peer and are executed algorithmically on the blockchain.
+> **[1:24](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/dexs?u=76281980&t=84)** In a decentralized exchange, all these trades are conducted peer to peer and are executed algorithmically on the [[Blockchain]].
 >
 > **[1:33](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/dexs?u=76281980&t=93)** This allows you to swap any token for another token automatically.
 >
@@ -374,19 +368,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), business (1), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Blockchain]] (1)
 > **Env Vars:** dex (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### Automated market makers
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/automated-market-makers?u=76281980)
+#### [Automated market makers](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/automated-market-makers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/automated-market-makers?u=76281980&t=1)** - The third problem we experienced in the crypto industry was a lack of liquidity for many alt coins.
 >
-> **[0:07](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/automated-market-makers?u=76281980&t=7)** Now, prior to 2018, if you did buy an alt coin, it was sometimes difficult to get out of your position or sell those tokens.
+> **[0:07](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/automated-market-makers?u=76281980&t=7)** Now, prior to 2018, if you did buy an alt coin, it was sometimes difficult to get out of your position or sell those [[Tokens]].
 >
 > **[0:15](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/automated-market-makers?u=76281980&t=15)** And again, if anybody was part of the 2017 bull market, you may have experienced this.
 >
@@ -412,8 +405,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
 
-#### Decentralized lending platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980)
+#### [Decentralized lending platforms](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -425,7 +417,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=11)** I have liquidity to get in and out of positions with AMMs, and I now have a way to earn income through supplying capital to those AMMs.
 >
-> **[0:22](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=22)** The only problem now is, although there's a way to start earning yield, all my cash is locked up in tokens like Bitcoin and Ethereum.
+> **[0:22](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=22)** The only problem now is, although there's a way to start earning yield, all my cash is locked up in [[Tokens]] like Bitcoin and [[Ethereum]].
 >
 > **[0:30](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=30)** And these are assets I don't want to sell because I think they're going to be going up in value in the long term.
 >
@@ -439,7 +431,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=57)** Effectively, investors will deposit capital into a protocol.
 >
-> **[1:00](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=60)** Then borrowers will deposit collateral, oftentimes Bitcoin, Ethereum, or some other major cryptocurrency.
+> **[1:00](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=60)** Then borrowers will deposit collateral, oftentimes Bitcoin, Ethereum, or some other major [[Cryptocurrency]].
 >
 > **[1:07](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=67)** They then borrow crypto assets.
 >
@@ -447,7 +439,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=74)** And then the loan plus interest, minus the fee is paid back to the investor.
 >
-> **[1:20](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=80)** The only difference from traditional finance is this is all happening in a trustless way without a middleman, as all these assets are locked in smart contracts on the blockchain.
+> **[1:20](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/decentralized-lending-platforms?u=76281980&t=80)** The only difference from traditional finance is this is all happening in a trustless way without a middleman, as all these assets are locked in [[Smart Contracts]] on the [[Blockchain]].
 
 > [!info]- Semantic Content
 >
@@ -461,8 +453,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Higher-risk adjusted returns
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/higher-risk-adjusted-returns?u=76281980)
+#### [Higher-risk adjusted returns](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/higher-risk-adjusted-returns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,8 +487,7 @@ created: 2026-05-02
 >
 > **Speakers:** - so (1)
 
-#### Where do yields come from?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/where-do-yields-come-from?u=76281980)
+#### [Where do yields come from?](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/where-do-yields-come-from?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/where-do-yields-come-from?u=76281980&t=8)** First is lending, or what's referred to as prime brokerage in traditional finance.
 >
-> **[0:13](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/where-do-yields-come-from?u=76281980&t=13)** Now, this is where you're lending your coins to speculators, oftentimes hedge funds, who will be utilizing those tokens to execute some sort of investment strategy.
+> **[0:13](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/where-do-yields-come-from?u=76281980&t=13)** Now, this is where you're lending your coins to speculators, oftentimes hedge funds, who will be utilizing those [[Tokens]] to execute some sort of investment strategy.
 >
 > **[0:23](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/where-do-yields-come-from?u=76281980&t=23)** The second source is from transaction fees that you receive as a liquidity provider in an automated market maker.
 >
@@ -539,8 +529,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
 
-#### Risk within DeFi yield farming
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/risk-within-defi-yield-farming?u=76281980)
+#### [Risk within DeFi yield farming](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/risk-within-defi-yield-farming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,7 +563,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/risk-within-defi-yield-farming?u=76281980&t=68)** Now the next risk is contract hacks.
 >
-> **[1:11](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/risk-within-defi-yield-farming?u=76281980&t=71)** When you yield farm, your funds are stored in smart contracts on the blockchain.
+> **[1:11](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/risk-within-defi-yield-farming?u=76281980&t=71)** When you yield farm, your funds are stored in [[Smart Contracts]] on the [[Blockchain]].
 >
 > **[1:16](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/risk-within-defi-yield-farming?u=76281980&t=76)** Now, if a contract is not written well, then hackers can sometimes break into that smart contract and steal your funds.
 >
@@ -610,7 +599,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/risk-within-defi-yield-farming?u=76281980&t=204)** - Now, the last risk I want to discuss is you.
 >
-> **[3:27](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/risk-within-defi-yield-farming?u=76281980&t=207)** There is no customer support in DeFi.
+> **[3:27](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/risk-within-defi-yield-farming?u=76281980&t=207)** There is no [[Customer Support]] in DeFi.
 >
 > **[3:30](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/risk-within-defi-yield-farming?u=76281980&t=210)** If you make a mistake, ultimately you're responsible for those losses.
 >
@@ -618,15 +607,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Smart Contracts]] (2), [[Blockchain]] (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Smart Contracts]] (2), [[Blockchain]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Speakers:** - so (1), - this (1), - now (1)
 > **UI Navigation:** scroll down (2)
 > **Prerequisites:** you need to have (1)
 
-#### Yield farming types
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980)
+#### [Yield farming types](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +636,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=54)** In this particular category, I'm expecting to earn between 8 to 12% APY.
 >
-> **[1:03](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=63)** - [Instructor] This is another site I like to use to actually identify medium-risk yield forms.
+> **[1:03](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=63)** - [Instructor] This is another site I like to use to actually identify medium-risk yield [[Forms]].
 >
 > **[1:08](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=68)** So the site is Coindix and you have the ability to actually sort against multiple different L1s and L2s to try to find particular farms.
 >
@@ -670,7 +658,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=119)** Now this is again where I'm holding stablecoins, high quality stablecoins, but they are deposited into DeFi, they're deposited specifically into DeFi protocols.
 >
-> **[2:09](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=129)** Now because they're deposited into smart contracts on the blockchain, I have the risk of rug pools and contract hacks.
+> **[2:09](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=129)** Now because they're deposited into [[Smart Contracts]] on the [[Blockchain]], I have the risk of rug pools and contract hacks.
 >
 > **[2:17](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=137)** Okay so my risk profile has changed even though I'm still holding high quality stablecoins.
 >
@@ -684,7 +672,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=178)** - Now the next category is high-risk yield farms.
 >
-> **[3:01](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=181)** This is where I'm holding typically a blue chip crypto asset, like Wrap Bitcoin, Ethereum, Avalanche, something that's been around for a long time, has an excess of a billion dollar market cap is very likely going to be here for five or 10 years, but it's high-risk because those assets do fluctuate in value.
+> **[3:01](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=181)** This is where I'm holding typically a blue chip crypto asset, like Wrap Bitcoin, [[Ethereum]], Avalanche, something that's been around for a long time, has an excess of a billion dollar market cap is very likely going to be here for five or 10 years, but it's high-risk because those assets do fluctuate in value.
 >
 > **[3:19](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-types?u=76281980&t=199)** Now we're not expecting them to go to zero.
 >
@@ -746,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Forms]] (1), [[Search]] (1), [[Smart Contracts]] (1), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Smart Contracts]] (1), [[Blockchain]] (1), [[Ethereum]] (1)
 > **Env Vars:** apy (6), tvl (2), dao (2), usdc (1), dai (1)
 > **Speakers:** - [instructor] (4), - now (3), - so (1), - the (1)
 > **UI Navigation:** go to (5), click on (1), scroll down (1)
@@ -754,8 +742,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Versions:** 19.45 (1)
 
-#### Yield farming portfolio
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-portfolio?u=76281980)
+#### [Yield farming portfolio](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/yield-farming-portfolio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,8 +826,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to enter the world of DeFi
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-enter-the-world-of-defi?u=76281980)
+#### [How to enter the world of DeFi](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-enter-the-world-of-defi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -850,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-enter-the-world-of-defi?u=76281980&t=15)** In order to enter this new world you're going to need to transfer some US dollars or other fiat currency into a crypto exchange like a Coinbase, a Binance or a BlockFi, something like that.
 >
-> **[0:28](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-enter-the-world-of-defi?u=76281980&t=28)** Once you have money in your crypto account, the next step is to then convert those dollars into the cryptocurrency Ethereum, or ETH.
+> **[0:28](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-enter-the-world-of-defi?u=76281980&t=28)** Once you have money in your crypto account, the next step is to then convert those dollars into the [[Cryptocurrency]] [[Ethereum]], or ETH.
 >
 > **[0:36](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-enter-the-world-of-defi?u=76281980&t=36)** Next, you'll need to transfer your ETH into a decentralized wallet like MetaMask.
 >
@@ -858,13 +844,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Cryptocurrency]] (1), [[Ethereum]] (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (1), [[Ethereum]] (1)
 > **Env Vars:** eth (3)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - next (1)
 
-#### Set up your DeFi wallet
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980)
+#### [Set up your DeFi wallet](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,7 +895,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=86)** So let's say you lost your computer, you still have your recovery phrase, you click this button, and it allow you to import your old MetaMask.
 >
-> **[1:33](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=93)** Last thing I'll mention here is the actual Connect Hardware Wallet.
+> **[1:33](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=93)** Last thing I'll mention here is the actual Connect [[Hardware]] Wallet.
 >
 > **[1:36](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=96)** Now it's always good to not keep too much money just sitting in your MetaMask account.
 >
@@ -918,9 +903,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=108)** This is the interface you do that with.
 >
-> **[1:50](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=110)** If you see right here, this is where I select the blockchain that I'm on.
+> **[1:50](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=110)** If you see right here, this is where I select the [[Blockchain]] that I'm on.
 >
-> **[1:53](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=113)** As you can see, I'm on the Ethereum Mainnet right now.
+> **[1:53](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=113)** As you can see, I'm on the [[Ethereum]] Mainnet right now.
 >
 > **[1:55](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=115)** If I click on this, you can see the different blockchains that I can farm on right here.
 >
@@ -948,7 +933,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=161)** This is my Ethereum balance.
 >
-> **[2:42](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=162)** Now this is the tokens that I use to actually pay for transactions on the blockchain.
+> **[2:42](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=162)** Now this is the [[Tokens]] that I use to actually pay for transactions on the blockchain.
 >
 > **[2:49](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/set-up-your-defi-wallet?u=76281980&t=169)** So, as you can see, I have a little bit of Ethereum you'll pay for any transactions through this wallet.
 >
@@ -1002,7 +987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (7), [[Blockchain]] (4), [[Tokens]] (4), feature (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Ethereum]] (7), [[Blockchain]] (4), [[Tokens]] (4), [[Hardware]] (1)
 > **UI Navigation:** click on (4), select the (1)
 > **Speakers:** - now (1), - [instructor] (1), - for (1)
 > **Analogies:** for example (1), such as (1)
@@ -1010,14 +995,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 
-#### Join your DeFi community
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/join-your-defi-community?u=76281980)
+#### [Join your DeFi community](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/join-your-defi-community?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/join-your-defi-community?u=76281980&t=0)** - Discord is an important tool in DeFi and Web 3 as it's the primary communication platform that projects use in order to be able to communicate with their communities.
 >
-> **[0:11](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/join-your-defi-community?u=76281980&t=11)** There is no customer support in the world of DeFi but when you get stuck or have an issue with a product or project, oftentimes the developers of that project will answer questions for people on their Discord channel.
+> **[0:11](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/join-your-defi-community?u=76281980&t=11)** There is no [[Customer Support]] in the world of DeFi but when you get stuck or have an issue with a product or project, oftentimes the developers of that project will answer questions for people on their Discord channel.
 >
 > **[0:25](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/join-your-defi-community?u=76281980&t=25)** As such, it's important to get comfortable with using this platform.
 >
@@ -1067,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Customer Support]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1)
 > **Tools:** discord (7)
 > **Speakers:** - discord (1), - [instructor] (1), - it (1)
 > **Warnings:** caution (1), keep in mind (1)
@@ -1076,16 +1060,15 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is an  (1)
 
-#### How to use a DEX
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980)
+#### [How to use a DEX](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980&t=0)** - Decentralized exchanges are the primary method that we use in DeFi in order to trade one token that we have for another token that we want.
 >
-> **[0:10](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980&t=10)** This is all happening on the blockchain without a middleman.
+> **[0:10](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980&t=10)** This is all happening on the [[Blockchain]] without a middleman.
 >
-> **[0:14](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980&t=14)** This is by far the most efficient way to buy or swap for the tokens we want.
+> **[0:14](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980&t=14)** This is by far the most efficient way to buy or swap for the [[Tokens]] we want.
 >
 > **[0:21](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980&t=21)** - [Speaker] Okay. I'd like to show you a demo of a DEX, which is a way for us to be able to swap one token for another.
 >
@@ -1099,7 +1082,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980&t=50)** I'm going to show you a demo of UNISWAP.
 >
-> **[0:54](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980&t=54)** This was one of the largest Dexus on Ethereum.
+> **[0:54](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980&t=54)** This was one of the largest Dexus on [[Ethereum]].
 >
 > **[0:57](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-use-a-dex?u=76281980&t=57)** First thing that I'm going to do is go ahead and launch the app.
 >
@@ -1231,7 +1214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (13), [[Ethereum]] (4), [[Blockchain]] (2), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (13), [[Ethereum]] (4), [[Blockchain]] (2)
 > **Env Vars:** usdc (9), uniswap (3), eth (2), dex (1), jpeg (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - decentralized (1), - [speaker] (1), - once (1)
@@ -1240,20 +1223,19 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Cross-References:** go back to (1)
 
-#### How to add liquidity to an LP
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980)
+#### [How to add liquidity to an LP](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=0)** - The other part of Dexus are the backend, which makes them possible also known as Automated Market Makers.
 >
-> **[0:08](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=8)** We can now earn fees by depositing our crypto into Automated Market Makers to allow others to buy and sell tokens that we deposit.
+> **[0:08](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=8)** We can now earn fees by depositing our crypto into Automated Market Makers to allow others to buy and sell [[Tokens]] that we deposit.
 >
 > **[0:18](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=18)** Okay, so now I want to show you the other part of any Dex, which is the AMM or Automated Market Maker that's actually in the backend, which is providing the liquidity.
 >
 > **[0:28](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=28)** Again, this is a world where there's no middleman.
 >
-> **[0:31](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=31)** This is all happening automatically through the blockchain.
+> **[0:31](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=31)** This is all happening automatically through the [[Blockchain]].
 >
 > **[0:34](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=34)** And so we as DeFi users have the ability to add liquidity to a particular trading pair or pool.
 >
@@ -1267,7 +1249,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=57)** And whenever we add money to a trading pair, we have to have 50% of our money in one token and 50% of our money in another token.
 >
-> **[1:04](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=64)** So in this instance, it's going to be half of our money in USDC, half of our money in Ethereum.
+> **[1:04](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=64)** So in this instance, it's going to be half of our money in USDC, half of our money in [[Ethereum]].
 >
 > **[1:09](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-add-liquidity-to-an-lp?u=76281980&t=69)** And when we add to this pool, it is currently yielding what looks like to be about 13%, a little over 13% per year, and that will fluctuate but in general, I've seen it about that range.
 >
@@ -1343,7 +1325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), [[Ethereum]] (3), next (2), [[Blockchain]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Ethereum]] (3), [[Blockchain]] (1)
 > **Env Vars:** usdc (8), eth (2), amm (1), amms (1)
 > **Versions:** 0.00006723 (1), 13.19 (1)
 > **Definitions:** is a  (2)
@@ -1352,14 +1334,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - the (1)
 
-#### How to loan and borrow in DeFi
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-loan-and-borrow-in-defi?u=76281980)
+#### [How to loan and borrow in DeFi](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-loan-and-borrow-in-defi?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-loan-and-borrow-in-defi?u=76281980&t=0)** - Lending and borrowing in crypto is another basic building block, or primitive, in DeFi.
 >
-> **[0:07](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-loan-and-borrow-in-defi?u=76281980&t=7)** We use lending platforms in order to earn yield or borrow tokens that we want to use.
+> **[0:07](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-loan-and-borrow-in-defi?u=76281980&t=7)** We use lending platforms in order to earn yield or borrow [[Tokens]] that we want to use.
 >
 > **[0:15](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-loan-and-borrow-in-defi?u=76281980&t=15)** I'd like to show you an example of a lending borrowing platform called Aave.
 >
@@ -1499,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (3), next (2)
+> **Frameworks & Libraries:** [[Tokens]] (3)
 > **Env Vars:** dai (10), avax (4), max (2), usdc (1), ust (1)
 > **Versions:** 1.41 (3), 3.28 (2), 1.89 (1), 3.81 (1), 0.1 (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
@@ -1513,8 +1494,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn more about DeFi
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/learn-more-about-defi?u=76281980)
+#### [Learn more about DeFi](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/learn-more-about-defi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1564,7 +1544,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/learn-more-about-defi?u=76281980&t=128)** And secondly, by having this NFT, it will gain you access to exclusive DeFi Masterclass educational content.
 >
-> **[2:17](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/learn-more-about-defi?u=76281980&t=137)** You'll also be invited to live town hall events where you'll be able to learn from other DeFi and Web3 industry experts, and finally, owning this NFT will get you access to our private office hour Zoom sessions, which are hosted by myself and my co-founder Anand.
+> **[2:17](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/learn-more-about-defi?u=76281980&t=137)** You'll also be invited to live town hall events where you'll be able to learn from other DeFi and Web3 industry experts, and finally, owning this NFT will get you access to our private [[Microsoft Office|office]] hour [[Zoom]] sessions, which are hosted by myself and my co-founder Anand.
 >
 > **[2:33](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/learn-more-about-defi?u=76281980&t=153)** Those office hours are a great resource to be able to ask questions directly to us about DeFi or Web3.
 

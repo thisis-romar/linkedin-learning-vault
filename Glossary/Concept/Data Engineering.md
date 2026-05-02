@@ -7,17 +7,17 @@ linkedin_topics:
   - Data Science
   - Software Development
   - Database Management
-  - Cloud Computing
   - Artificial Intelligence (AI)
+  - Cloud Computing
 tags:
   - glossary
   - type/concept
   - topic/data-science
   - topic/software-development
   - topic/database-management
-  - topic/cloud-computing
   - topic/artificial-intelligence
-course_count: 71
+  - topic/cloud-computing
+course_count: 72
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Data Engineering
 
-> **Type:** Concept | **Courses:** 71 | **Topics:** [[Data Science]], [[Software Development]], [[Database Management]], [[Cloud Computing]], [[Artificial Intelligence (AI)]]
+> **Type:** Concept | **Courses:** 72 | **Topics:** [[Data Science]], [[Software Development]], [[Database Management]], [[Artificial Intelligence (AI)]], [[Cloud Computing]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Knowledge Graph Data Engineering for Generative AI Use Cases]] — 19 mentions
 10. [[Advanced Data Engineering with Snowflake]] — 19 mentions
 
-> [!note]- See all 71 courses
+> [!note]- See all 72 courses
 > 11. [[Generative AI for Data Engineering- ChatGPT Power Tips]] — 16 mentions
 > 12. [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]] — 14 mentions
 > 13. [[MLOps Essentials- Model Development and Integration]] — 13 mentions
@@ -100,8 +100,9 @@ created: 2026-05-02
 > 67. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
 > 68. [[Introduction To Machine Learning With Knime]] — 1 mentions
 > 69. [[GitHub Foundations- Privacy, Security, and Administration]] — 1 mentions
-> 70. [[Learning Python]] — 1 mentions
-> 71. [[Introduction to IT Architecture]] — 1 mentions
+> 70. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 1 mentions
+> 71. [[Learning Python]] — 1 mentions
+> 72. [[Introduction to IT Architecture]] — 1 mentions
 
 ## Learning Paths
 

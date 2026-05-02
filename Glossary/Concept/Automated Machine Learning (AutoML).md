@@ -8,18 +8,18 @@ aliases:
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
-  - Cloud Computing
   - Software Development
+  - Cloud Computing
   - IT Help Desk
 tags:
   - glossary
   - type/concept
   - topic/artificial-intelligence
   - topic/data-science
-  - topic/cloud-computing
   - topic/software-development
+  - topic/cloud-computing
   - topic/it-help-desk
-course_count: 10
+course_count: 11
 created: 2026-05-02
 ---
 
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # Automated Machine Learning (AutoML)
 
-> **Type:** Concept | **Courses:** 10 | **Topics:** [[Artificial Intelligence (AI)]], [[Data Science]], [[Cloud Computing]], [[Software Development]], [[IT Help Desk]]
+> **Type:** Concept | **Courses:** 11 | **Topics:** [[Artificial Intelligence (AI)]], [[Data Science]], [[Software Development]], [[Cloud Computing]], [[IT Help Desk]]
 
 ## Courses
 
@@ -38,9 +38,12 @@ created: 2026-05-02
 5. [[Data Science Team Lifecycle Management]] — 1 mentions
 6. [[Data Science Foundations- Fundamentals]] — 1 mentions
 7. [[Migrating to Azure]] — 1 mentions
-8. [[Artificial Intelligence Foundations- Neural Networks]] — 1 mentions
-9. [[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]] — 1 mentions
-10. [[Introduction To Machine Learning With Knime]] — 1 mentions
+8. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
+9. [[Artificial Intelligence Foundations- Neural Networks]] — 1 mentions
+10. [[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]] — 1 mentions
+
+> [!note]- See all 11 courses
+> 11. [[Introduction To Machine Learning With Knime]] — 1 mentions
 
 ## Learning Paths
 

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-your-skills-in-customer-servi
 course_count: 8
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 17
+louvain_cluster: 15
 tags:
   - learning-path
   - topic/it-help-desk

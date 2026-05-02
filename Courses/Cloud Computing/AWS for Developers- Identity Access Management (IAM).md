@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS user security with IAM
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/aws-user-security-with-iam-15113020?u=76281980)
+#### [AWS user security with IAM](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/aws-user-security-with-iam-15113020?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/aws-user-security-with-iam-15113020?u=76281980&t=41)** You define user accounts for users and roles for services.
 >
-> **[0:45](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/aws-user-security-with-iam-15113020?u=76281980&t=45)** In both of those cases, you add policies that specify what they have access to, and the rest is off limits.
+> **[0:45](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/aws-user-security-with-iam-15113020?u=76281980&t=45)** In both of those cases, you add policies that specify what they have access to, and the [[Representational State Transfer (REST)|rest]] is off limits.
 >
 > **[0:52](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/aws-user-security-with-iam-15113020?u=76281980&t=52)** I'm Bear Cahill, Head Binary Sequencer at Brainwash Inc.
 >
@@ -113,17 +112,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), management (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** iam (3), aws (2)
 > **CLI Commands:** aws (2)
 > **Speakers:** - managing (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/what-you-should-know-15109604?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/what-you-should-know-15109604?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/what-you-should-know-15109604?u=76281980&t=0)** - [Instructor] To get the most out of this course, I recommend you be familiar to some degree with Amazon Web Services.
+> **[0:00](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/what-you-should-know-15109604?u=76281980&t=0)** - [Instructor] To get the most out of this course, I recommend you be familiar to some degree with [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:05](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/what-you-should-know-15109604?u=76281980&t=5)** You don't have to be a master at it by any means, but just being familiar with the types of services and features it provides is to help you know how you're going to apply the things you learn about IAM.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** iam (1), aws (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
@@ -156,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IAM overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/iam-overview-15108756?u=76281980)
+#### [IAM overview](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/iam-overview-15108756?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/iam-overview-15108756?u=76281980&t=24)** It gives you access to your room.
 >
-> **[0:26](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/iam-overview-15108756?u=76281980&t=26)** You might also have permission to use the gym or the pool but you do not have access to the manager's office.
+> **[0:26](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/iam-overview-15108756?u=76281980&t=26)** You might also have permission to use the gym or the pool but you do not have access to the manager's [[Microsoft Office|office]].
 >
 > **[0:33](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/iam-overview-15108756?u=76281980&t=33)** Trust me, don't even try it.
 >
@@ -205,14 +202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), aws (2), management (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Env Vars:** iam (3), aws (2)
 > **CLI Commands:** aws (2)
 > **Analogies:** think of it like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Root account
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/root-account-15112029?u=76281980)
+#### [Root account](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/root-account-15112029?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,14 +250,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Security]] (2), power (1)
 > **Env Vars:** iam (3), aws (2), mfa (1)
 > **CLI Commands:** aws (2)
 > **Best Practices:** recommended (2)
 > **Speakers:** - [instructor] (1)
 
-#### User accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/user-accounts-15107842?u=76281980)
+#### [User accounts](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/user-accounts-15107842?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -331,7 +325,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), management (2), next (2), api (1), data (1)
 > **Env Vars:** aws (8), iam (2), api (1), sdk (1)
 > **CLI Commands:** aws (8)
 > **Cross-References:** in the next (1)
@@ -339,9 +332,9 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
+> **Speakers:** - [instructor] (1)
 
-#### Create a user account
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/create-a-user-account-15110622?u=76281980)
+#### [Create a user account](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/create-a-user-account-15110622?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -467,7 +460,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), next (5), management (1), database (1)
 > **Env Vars:** aws (6), iam (5)
 > **CLI Commands:** aws (6), make (2)
 > **UI Navigation:** go to (5)
@@ -475,14 +467,14 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 2. Users and Policies
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Password settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/password-settings-15111296?u=76281980)
+#### [Password settings](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/password-settings-15111296?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -520,7 +512,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/password-settings-15111296?u=76281980&t=84)** Down below here you can see, we have the security token service.
 >
-> **[1:28](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/password-settings-15111296?u=76281980&t=88)** This specifies the tokens and the way that they are handled across regions.
+> **[1:28](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/password-settings-15111296?u=76281980&t=88)** This specifies the [[Tokens]] and the way that they are handled across regions.
 >
 > **[1:33](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/password-settings-15111296?u=76281980&t=93)** It is recommended that you use regional STS endpoints to reduce latency.
 >
@@ -544,7 +536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), management (1), [[Security]] (1), [[Tokens]] (1), aws (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **Env Vars:** iam (2), sts (2), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -553,8 +545,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** required to (1)
 
-#### Access keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/access-keys-15113022?u=76281980)
+#### [Access keys](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/access-keys-15113022?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,7 +625,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/access-keys-15113022?u=76281980&t=166)** So every once in a while, you should change it just in case somebody else does happen to get access to your keys, they won't be active for very long.
 >
-> **[2:54](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/access-keys-15113022?u=76281980&t=174)** You also notice in here, you can create the SSH public key and HTTPS Git credentials.
+> **[2:54](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/access-keys-15113022?u=76281980&t=174)** You also notice in here, you can create the SSH public key and HTTPS [[Git]] credentials.
 >
 > **[3:00](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/access-keys-15113022?u=76281980&t=180)** So this is how you get your access key and your secret access key for any tools that you need to use, or if you're pasting them into your app or website for access if you don't want to make users create their own user accounts or you're just testing it and you don't want to add user authentication, whatever the case may be, this is how you get a user with the access key and secret access key.
 >
@@ -646,7 +637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Security]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Git]] (1)
 > **CLI Commands:** make (3), ssh (1), git (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Env Vars:** csv (1), ssh (1), https (1)
@@ -654,8 +645,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Policy JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/policy-json-15106895?u=76281980)
+#### [Policy JSON](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/policy-json-15106895?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,7 +653,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/policy-json-15106895?u=76281980&t=7)** So I'm going to click on my Users again, and go back to my CLIuser, and we have the Permissions here.
 >
-> **[0:13](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/policy-json-15106895?u=76281980&t=13)** If I expand these permissions, we can see the JSON definition, and we can see that there's a variety of actions that are allowed for this user.
+> **[0:13](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/policy-json-15106895?u=76281980&t=13)** If I expand these permissions, we can see the [[JSON]] definition, and we can see that there's a variety of actions that are allowed for this user.
 >
 > **[0:23](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/policy-json-15106895?u=76281980&t=23)** You can have deny here, and deny certain actions, as well.
 >
@@ -719,15 +709,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), database (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** json (2), sns (2), iam (2), arn (2)
 > **UI Navigation:** go to (3), click on (2), select the (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/modifying-policies-15111293?u=76281980)
+#### [Modifying policies](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/modifying-policies-15111293?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +728,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/modifying-policies-15111293?u=76281980&t=34)** This is one place you can do this.
 >
-> **[0:35](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/modifying-policies-15111293?u=76281980&t=35)** You can also edit the JSON here.
+> **[0:35](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/modifying-policies-15111293?u=76281980&t=35)** You can also edit the [[JSON]] here.
 >
 > **[0:38](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/modifying-policies-15111293?u=76281980&t=38)** I'm going to cancel here and show you another workplace you can do this.
 >
@@ -827,7 +816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** iam (1), json (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -835,8 +824,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Permission boundaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/permission-boundaries-15107841?u=76281980)
+#### [Permission boundaries](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/permission-boundaries-15107841?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +890,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5)
 > **Env Vars:** api (5), iam (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** kind of like (1), just like (1), it's like (1)
@@ -914,8 +901,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Grouping users
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/grouping-users-15110625?u=76281980)
+#### [Grouping users](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/grouping-users-15110625?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1001,7 +987,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), next (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** rds (1), ses (1)
@@ -1010,8 +995,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980)
+#### [Roles](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1041,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=58)** I'm going to create from a blueprint just for time's sake and I'm going to search for hello for hello world.
 >
-> **[1:04](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=64)** I'll just pick this one, this hello-world Node.js and configure it.
+> **[1:04](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=64)** I'll just pick this one, this hello-world [[Node.js]] and configure it.
 >
 > **[1:08](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=68)** So it's going to ask for a name and I'm just going to call it myfunc and then it needs a role, so we can create a new role, we can use an existing role, or create a new role with basic Lambda permissions.
 >
@@ -1071,7 +1055,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=142)** So this is the same copy of the normal AWS Lambda basic execution rule, but it put in specifically our resource there and also our resource for the logging.
 >
-> **[2:37](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=157)** So we have these permissions and we also have our ARNs already defined for us, our ARNs defined in the JSON for us.
+> **[2:37](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=157)** So we have these permissions and we also have our ARNs already defined for us, our ARNs defined in the [[JSON]] for us.
 >
 > **[2:45](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/roles-15107844?u=76281980&t=165)** So this policy is specific to our Lambda and now our Lambda can execute using this role.
 >
@@ -1113,7 +1097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), database (4), [[Search]] (1), [[Node.js]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[JSON]] (1)
 > **Env Vars:** aws (7), iam (4), sdk (1), json (1), ses (1)
 > **CLI Commands:** aws (7), node (1)
 > **UI Navigation:** click on (4), dropdown (1), scroll down (1), go to (1)
@@ -1122,8 +1106,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Exercise Files:** boilerplate (1)
 
-#### Resource-based policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/resource-based-policies-15107843?u=76281980)
+#### [Resource-based policies](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/resource-based-policies-15107843?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1189,7 +1172,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/resource-based-policies-15107843?u=76281980&t=138)** I could add more statements, but whenever I'm done I can generate the policy.
 >
-> **[2:23](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/resource-based-policies-15107843?u=76281980&t=143)** Now I've got this JSON and I can go back to my bucket, paste it in, and save it.
+> **[2:23](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/resource-based-policies-15107843?u=76281980&t=143)** Now I've got this [[JSON]] and I can go back to my bucket, paste it in, and save it.
 >
 > **[2:28](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/resource-based-policies-15107843?u=76281980&t=148)** And so basically what I've said is that for this bucket we're going to deny the ability to delete the bucket, this bucket and the asterisk on the principle means everyone.
 >
@@ -1217,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), api (2), management (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** aws (4), api (2), arn (1), json (1)
 > **UI Navigation:** go to (4), click on (2), select the (1)
 > **CLI Commands:** aws (4)
@@ -1231,8 +1214,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Multi-factor authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/multi-factor-authentication-15106896?u=76281980)
+#### [Multi-factor authentication](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/multi-factor-authentication-15106896?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1274,15 +1256,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), aws (1)
 > **Env Vars:** mfa (4), aws (1), u2f (1)
 > **CLI Commands:** aws (1), make (1)
 > **UI Navigation:** dropdown (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Federated access
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980)
+#### [Federated access](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1292,7 +1272,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=20)** So if you go to the IAM dashboard, you can click on identity providers and this will allow you to create a new provider.
 >
-> **[0:26](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=26)** So let's say you have users in your company and you already have Google accounts where you can use that as an identity provider.
+> **[0:26](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=26)** So let's say you have users in your company and you already have [[Google]] accounts where you can use that as an identity provider.
 >
 > **[0:33](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=33)** So you would click create provider and you choose one of the two options of SAML or OpenID Connect depending on what your user accounts are defined using.
 >
@@ -1304,7 +1284,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=53)** This is often the client ID or the application ID defined in either Google or Facebook or Twitter where you create an account through their developer site.
 >
-> **[1:03](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=63)** A really handy resource in this case is the AWS Security Blog.
+> **[1:03](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=63)** A really handy resource in this case is the [[AWS Security]] Blog.
 >
 > **[1:07](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/federated-access-15112031?u=76281980&t=67)** Here you can find all kinds of resources and information for determining how to best secure your site.
 >
@@ -1318,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Google]] (4), application (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[AWS Security]] (1)
 > **Env Vars:** aws (5), iam (3), saml (3), url (1)
 > **CLI Commands:** aws (5), make (1), find (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1327,8 +1307,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Credential report and access advisor
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/credential-report-and-access-advisor-15110623?u=76281980)
+#### [Credential report and access advisor](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/credential-report-and-access-advisor-15110623?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1364,14 +1343,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), [[Security]] (1)
 > **Env Vars:** csv (2), aws (1), arn (1)
 > **CLI Commands:** aws (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### CloudTrail
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/cloudtrail-15111291?u=76281980)
+#### [CloudTrail](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/cloudtrail-15111291?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1385,7 +1362,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/cloudtrail-15111291?u=76281980&t=21)** I can scroll through these and see some more details by expanding them.
 >
-> **[0:25](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/cloudtrail-15111291?u=76281980&t=25)** I can also download this as a report, as a CSV file or JSON, and in the UI, I can specify what columns I want to view.
+> **[0:25](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/cloudtrail-15111291?u=76281980&t=25)** I can also download this as a report, as a CSV file or [[JSON]], and in the UI, I can specify what columns I want to view.
 >
 > **[0:33](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/cloudtrail-15111291?u=76281980&t=33)** If I want reports on certain events, in an S3 bucket or Lambda calls, I can create a trail for that.
 >
@@ -1427,14 +1404,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Security]] (1), aws (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** aws (1), csv (1), json (1), sns (1)
 > **CLI Commands:** make (2), aws (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - while (1)
 
-#### Best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/best-practices-15113021?u=76281980)
+#### [Best practices](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/best-practices-15113021?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1470,7 +1446,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
@@ -1480,8 +1455,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/next-steps-15110624?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/next-steps-15110624?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1499,11 +1473,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/next-steps-15110624?u=76281980&t=31)** It's not the answer to everything and you don't always need them, but it's better to be familiar with it for when it does come up.
 >
-> **[0:38](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/next-steps-15110624?u=76281980&t=38)** Also, I'd love to hear how you use IM practices and policies, so keep in touch with me at bear@brainwashinc, brainofbear on Twitter, and of course, check out my LinkedIn account and I'd love to hear from you, thanks.
+> **[0:38](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/next-steps-15110624?u=76281980&t=38)** Also, I'd love to hear how you use IM practices and policies, so keep in touch with me at bear@brainwashinc, brainofbear on Twitter, and of course, check out my [[LinkedIn]] account and I'd love to hear from you, thanks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [bear] (1)
 

@@ -69,12 +69,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-to-the-course?u=76281980)
+#### [Introduction to the course](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-to-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-to-the-course?u=76281980&t=0)** - Hi, and welcome to the Drupal 9 Essential Training Series.
+> **[0:00](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-to-the-course?u=76281980&t=0)** - Hi, and welcome to the [[Drupal]] 9 Essential Training Series.
 >
 > **[0:05](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-to-the-course?u=76281980&t=5)** My name is Rod Martin, and I'll be your trainer for the entire series.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (8), next (1)
+> **Frameworks & Libraries:** [[Drupal]] (8)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **CLI Commands:** make (1)
@@ -126,18 +125,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Drupal?
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980)
+#### [What is Drupal?](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=4)** - In this video, I want to answer the question what is Drupal?
+> **[0:04](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=4)** - In this video, I want to answer the question what is [[Drupal]]?
 >
-> **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=8)** Well, Drupal is a content management system with literally thousands and thousands of ad-ons enabling you to build pretty much any kind of website that you might ever want to use.
+> **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=8)** Well, Drupal is a [[Content Management]] system with literally thousands and thousands of ad-ons enabling you to build pretty much any kind of website that you might ever want to use.
 >
 > **[0:21](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=21)** So what is a content management system?
 >
-> **[0:24](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=24)** Well, in Drupal that boils down to the code which is PHP, HTML, CSS, Twig, Yammel, JavaScript, Ajax
+> **[0:24](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=24)** Well, in Drupal that boils down to the code which is [[PHP]], [[HTML]], CSS, Twig, Yammel, [[JavaScript]], [[AJAX]]
 >
 > **[0:36](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=36)** all rolled into one, we call that core.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=116)** No, I can go to one place in Drupal and upload the logo on every page, no matter how many pages.
 >
-> **[2:04](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=124)** There's a ton of advantages to content management systems and those are just a few.
+> **[2:04](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=124)** There's a ton of advantages to [[Content Management Systems (CMS)|content management systems]] and those are just a few.
 >
 > **[2:09](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=129)** Well, Drupal is open source and there's a lot of great open source projects.
 >
@@ -205,7 +203,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=294)** You can get Drupal distributions which kind of give you a headstart on something that you might want to be doing.
 >
-> **[5:00](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=300)** For instance, there's a government distribution, there's a church distribution, there's a e-commerce distribution, there's tons of them.
+> **[5:00](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=300)** For instance, there's a government distribution, there's a church distribution, there's a [[E-Commerce]] distribution, there's tons of them.
 >
 > **[5:07](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980&t=307)** And again, as I mentioned, Drupal is community.
 >
@@ -257,7 +255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (41), database (5), [[Content Management]] (3), [[PHP]] (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Drupal]] (41), [[Content Management]] (3), [[PHP]] (2), [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** php (2), html (2), css (1), url (1), nba (1)
 > **CLI Commands:** php (2), make (2)
 > **Definitions:** is a  (4)
@@ -266,12 +264,11 @@ created: 2026-05-02
 > **URLs:** [drupal.org](https://drupal.org) (1)
 > **Cross-References:** next video (1)
 
-#### Why choose Drupal?
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/why-choose-drupal?u=76281980)
+#### [Why choose Drupal?](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/why-choose-drupal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/why-choose-drupal?u=76281980&t=3)** - [Instructor] So you might be wondering, well, why Drupal in the first place.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/why-choose-drupal?u=76281980&t=3)** - [Instructor] So you might be wondering, well, why [[Drupal]] in the first place.
 >
 > **[0:06](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/why-choose-drupal?u=76281980&t=6)** Now, since you're taking this course, I'm assuming a couple of things.
 >
@@ -327,7 +324,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/why-choose-drupal?u=76281980&t=115)** Drupal is safe and secure.
 >
-> **[1:57](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/why-choose-drupal?u=76281980&t=117)** Of course, this means you have to keep your Drupal installation up-to-date, but of all the content management systems out there, an up-to-date Drupal site is unbelievably secure with a very robust user permission system.
+> **[1:57](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/why-choose-drupal?u=76281980&t=117)** Of course, this means you have to keep your Drupal installation up-to-date, but of all the [[Content Management Systems (CMS)|content management systems]] out there, an up-to-date Drupal site is unbelievably secure with a very robust user permission system.
 >
 > **[2:13](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/why-choose-drupal?u=76281980&t=133)** If you need more, there's more.
 >
@@ -353,14 +350,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (29), [[Content Management Systems (CMS)|Content management systems]] (2), application (1), business (1)
+> **Frameworks & Libraries:** [[Drupal]] (29), [[Content Management Systems (CMS)|Content management systems]] (2)
 > **CLI Commands:** find (1)
 > **URLs:** [drupal.org](https://drupal.org) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you need for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-you-need-for-this-course?u=76281980)
+#### [What you need for this course](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,7 +368,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-you-need-for-this-course?u=76281980&t=17)** If you're on a Mac, Chrome or Safari.
 >
-> **[0:19](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-you-need-for-this-course?u=76281980&t=19)** There are some advantages to Chrome on the Mac for Drupal in particular, and I'll point those out when we get there.
+> **[0:19](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-you-need-for-this-course?u=76281980&t=19)** There are some advantages to Chrome on the Mac for [[Drupal]] in particular, and I'll point those out when we get there.
 >
 > **[0:28](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-you-need-for-this-course?u=76281980&t=28)** The second thing you're going to need is a place to host your site.
 >
@@ -410,7 +406,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-you-need-for-this-course?u=76281980&t=115)** It's public, it's out there, you can share it with your friends and you don't need to publish it when you want it to go live if that's something you end up wanting to do.
 >
-> **[2:04](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-you-need-for-this-course?u=76281980&t=124)** So, you have a decision to make and it's going to impact the rest of the course.
+> **[2:04](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-you-need-for-this-course?u=76281980&t=124)** So, you have a decision to make and it's going to impact the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[2:09](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-you-need-for-this-course?u=76281980&t=129)** Where are you going to create your Drupal site?
 >
@@ -424,7 +420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (4), web (3), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Drupal]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** install (2), set up (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** cpanel (2)
@@ -433,12 +429,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Terminology explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980)
+#### [Terminology explained](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980&t=4)** - Before we dive into Drupal proper, there's some terms you need to know.
+> **[0:04](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980&t=4)** - Before we dive into [[Drupal]] proper, there's some terms you need to know.
 >
 > **[0:09](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980&t=9)** So this is terminology explained, and here they are.
 >
@@ -450,11 +445,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980&t=30)** All right, an entity.
 >
-> **[0:33](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980&t=33)** Technically Drupal entities are pieces of content or data that have different attributes or metadata associated with it.
+> **[0:33](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980&t=33)** Technically Drupal entities are pieces of content or data that have different attributes or [[Metadata]] associated with it.
 >
 > **[0:41](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980&t=41)** So in Drupal, an entity is anything that can have fields.
 >
-> **[0:47](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980&t=47)** in Drupal seven, that was just content types, but now in Drupal nine, content types, blocks, taxonomy, users, media comments and contact forms are all entities.
+> **[0:47](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980&t=47)** in Drupal seven, that was just content types, but now in Drupal nine, content types, blocks, taxonomy, users, media comments and contact [[Forms]] are all entities.
 >
 > **[1:02](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/terminology-explained?u=76281980&t=62)** Now we're going to cover all of the entities in Drupal in upcoming videos, but here on a blank Drupal site, if I click on content and click add content and click article, each of these content types, article, basic page and all the ones we'll create have fields that store data, allowing for a structured data approach.
 >
@@ -504,19 +499,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (12), data (5), node (4), [[Forms]] (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (12), [[Forms]] (2), [[Metadata]] (1)
 > **CLI Commands:** node (4), find (1), make (1)
 > **UI Navigation:** click on (3), go to (2)
 > **URLs:** [mysite.com](https://mysite.com) (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - before (1)
 
-#### Installations explained: Acquia Dev Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980)
+#### [Installations explained: Acquia Dev Desktop](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=3)** - [Instructor] As I mentioned earlier, one of the best ways to get ready to take this course and do some Drupal development of your own, is to use Acquia's Dev Desktop.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=3)** - [Instructor] As I mentioned earlier, one of the best ways to get ready to take this course and do some [[Drupal]] development of your own, is to use Acquia's Dev Desktop.
 >
 > **[0:14](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=14)** It's an all in one solution that works on your computer and it's secure, it's free, and it works really well.
 >
@@ -534,7 +528,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=47)** It's about 111 Meg.
 >
-> **[0:49](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=49)** If you're on a windows machine, of course you're going to click the WIN download button.
+> **[0:49](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=49)** If you're on a [[Windows]] machine, of course you're going to click the WIN download button.
 >
 > **[0:53](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=53)** You'll note this is the most current version at the time of this recording.
 >
@@ -582,7 +576,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=203)** And it's at port 8083, that's the default for Aqua's Dev Desktop.
 >
-> **[3:28](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=208)** You'll need to be using at least PHP 7.3.X, but it's probably always best to just use the most recent version of PHP.
+> **[3:28](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=208)** You'll need to be using at least [[PHP]] 7.3.X, but it's probably always best to just use the most recent version of PHP.
 >
 > **[3:37](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=217)** Drupal nine requires PHP 7.3 or higher.
 >
@@ -630,7 +624,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=343)** And so congratulations, you've installed Drupal using Dev Desktop.
 >
-> **[5:49](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=349)** Anytime you want to take a break and come back to the course, you'll start Dev Desktop, Apache and my SQL will turn on.
+> **[5:49](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=349)** Anytime you want to take a break and come back to the course, you'll start Dev Desktop, Apache and my [[SQL]] will turn on.
 >
 > **[5:56](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-acquia-dev-desktop?u=76281980&t=356)** You'll see your site listed here and you'll just click on local site.
 >
@@ -638,7 +632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (12), next (9), [[PHP]] (3), database (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (12), [[PHP]] (3), [[Windows]] (1), [[SQL]] (1)
 > **Env Vars:** mac (3), php (3), win (1), url (1), sql (1)
 > **Prerequisites:** install (4), set up (2), you'll need (1)
 > **CLI Commands:** php (3), apache (1)
@@ -647,14 +641,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Ports:** port 8083 (1)
 
-#### Installations explained: Setting up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980)
+#### [Installations explained: Setting up your environment](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=0)** - In this video I'm going to show you how to get your environment set up and ready to go to do Drupal development.
+> **[0:00](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=0)** - In this video I'm going to show you how to get your environment set up and ready to go to do [[Drupal]] development.
 >
-> **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=8)** Now, in the old days we used software products that we downloaded, installed, worked on, and frankly, problematic was saying it nicely.
+> **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=8)** Now, in the old days we used software [[Microsoft Products|products]] that we downloaded, installed, worked on, and frankly, problematic was saying it nicely.
 >
 > **[0:18](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=18)** This solution is completely web or cloud-based using Gitpod, and it's really awesome.
 >
@@ -668,7 +661,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=45)** He's got a number of repositories.
 >
-> **[0:47](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=47)** We're going to be using a fork of his ddev Gitpod repository so head over to [github.com/imrodmartin/ddev-gitpod](https://github.com/imrodmartin/ddev-gitpod).
+> **[0:47](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=47)** We're going to be using a fork of his ddev Gitpod repository so head over to [[[GitHub]].com/imrodmartin/ddev-gitpod](https://github.com/imrodmartin/ddev-gitpod).
 >
 > **[0:59](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=59)** The link is on the screen.
 >
@@ -684,7 +677,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=73)** Click the link there and it's going to take you to this screen over at Gitpod.
 >
-> **[1:18](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=78)** You'll need to either have a GitLab, GitHub or Bitbucket account.
+> **[1:18](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=78)** You'll need to either have a GitLab, GitHub or [[Bitbucket]] account.
 >
 > **[1:22](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=82)** Now, these are all free.
 >
@@ -742,7 +735,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=240)** You'll preface each of those commands with the text ddev because this is a ddev installation, so it's ddev drush cr for instance, to rebuild the cache.
 >
-> **[4:13](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=253)** You'll need to have the word ddev before a composer command and a drush command, but that's it.
+> **[4:13](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=253)** You'll need to have the [[Microsoft Word|word]] ddev before a composer command and a drush command, but that's it.
 >
 > **[4:20](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-setting-up-your-environment?u=76281980&t=260)** You're set to go.
 >
@@ -758,7 +751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Drupal]] (4), prompt (3), web (2), cloud (2)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Drupal]] (4), [[Microsoft Products|Products]] (1), [[Bitbucket]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** github (5), gitlab (2), command prompt (2), bitbucket (1), terminal (1)
 > **Prerequisites:** you'll need (4), set up (2), install (2)
 > **URLs:** [gitpod.io](https://gitpod.io) (3), [github.com](https://github.com) (1)
@@ -767,12 +760,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Env Vars:** url (1)
 
-#### Installations explained: Manual installation on a web host
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980)
+#### [Installations explained: Manual installation on a web host](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=3)** - [Instructor] In this video, I'm going to show you how to manually install Drupal at your own web host.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=3)** - [Instructor] In this video, I'm going to show you how to manually install [[Drupal]] at your own web host.
 >
 > **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=8)** If you're choosing this option to follow along with the course, then this is the video for you.
 >
@@ -786,7 +778,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=37)** Also, if you're on shared hosting then the issue for you will be more along the lines of not being able to run Composer which we'll cover in an upcoming video.
 >
-> **[0:48](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=48)** All right, you've downloaded Drupal, head over to your file manager and go into your public HTML or your www HTML, whatever the root of your website is.
+> **[0:48](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=48)** All right, you've downloaded Drupal, head over to your file manager and go into your public [[HTML]] or your www HTML, whatever the root of your website is.
 >
 > **[0:59](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=59)** If you're on an Apache web server, it's probably going to be public HTML and click upload.
 >
@@ -810,7 +802,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=122)** The next thing we need is a database.
 >
-> **[2:06](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=126)** Click on MySQL Database Wizard and let's create a database.
+> **[2:06](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=126)** Click on [[MySQL]] Database Wizard and let's create a database.
 >
 > **[2:13](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=133)** I'm going to call mine d9data.
 >
@@ -856,11 +848,11 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=241)** Click save and continue.
 >
-> **[4:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=243)** Congratulations, you've installed Drupal and you're now ready to go for the rest of the course.
+> **[4:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/installations-explained-manual-installation-on-a-web-host?u=76281980&t=243)** Congratulations, you've installed Drupal and you're now ready to go for the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (7), database (4), [[HTML]] (3), web (2), next (2)
+> **Frameworks & Libraries:** [[Drupal]] (7), [[HTML]] (3), [[MySQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** composer (1), apache (1), mysql (1), make (1)
 > **Code Identifiers:** cpanel (2), cpanels (1)
 > **Env Vars:** html (3)
@@ -869,8 +861,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **URLs:** [drupal.org](https://drupal.org) (1)
 
-#### Planning explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980)
+#### [Planning explained](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=6)** The four steps in this planning guide apply to any website.
 >
-> **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=10)** But we're going to specifically talk about a Drupal website.
+> **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=10)** But we're going to specifically talk about a [[Drupal]] website.
 >
 > **[0:14](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=14)** The first step is the actual website plan.
 >
@@ -888,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=34)** Some of the things you have to think about are content.
 >
-> **[0:36](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=36)** Content is always first in a content management system.
+> **[0:36](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=36)** Content is always first in a [[Content Management]] system.
 >
 > **[0:40](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=40)** Communication.
 >
@@ -1020,7 +1011,7 @@ created: 2026-05-02
 >
 > **[6:53](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=413)** This is a town website.
 >
-> **[6:54](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=414)** So of course we'll need a business directory, we'll have; name, description, logo, category, and address field that's actually going to turn into a Google map, phone, website address, featured video and file downloads.
+> **[6:54](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=414)** So of course we'll need a business directory, we'll have; name, description, logo, category, and address field that's actually going to turn into a [[Google]] map, phone, website address, featured video and file downloads.
 >
 > **[7:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=428)** We're going to have a location content type with those fields, and of course, then, an events content type that uses the location as an entity reference.
 >
@@ -1028,7 +1019,7 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=444)** So that's where we're headed with our content types.
 >
-> **[7:27](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=447)** Feature set, well, we're going to add scheduling, to allow us to schedule our content, contact forms, automated URLs, user roles as I mentioned earlier, listing pages with filters, custom sidebars, layouts with actual landing pages, that's going to be really awesome.
+> **[7:27](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=447)** Feature set, well, we're going to add scheduling, to allow us to schedule our content, contact [[Forms]], automated URLs, user roles as I mentioned earlier, listing pages with filters, custom sidebars, layouts with actual landing pages, that's going to be really awesome.
 >
 > **[7:46](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/planning-explained?u=76281980&t=466)** And as I mentioned earlier, workflows as well.
 >
@@ -1036,7 +1027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (13), [[Content Management]] (2), management (2), next (2), functional (1)
+> **Frameworks & Libraries:** [[Drupal]] (13), [[Content Management]] (2), [[Google]] (1), [[Forms]] (1)
 > **Prerequisites:** install (2), make sure you have (1), set up (1), before we start (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** later in (2)
@@ -1050,12 +1041,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction and toolbar tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980)
+#### [Introduction and toolbar tour](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980&t=3)** - Now that we have our Drupal site set up and our planning is done, let's take a look at the Drupal administration area.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980&t=3)** - Now that we have our [[Drupal]] site set up and our planning is done, let's take a look at the Drupal administration area.
 >
 > **[0:11](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980&t=11)** When you log in, you'll know that there's a black toolbar, a white toolbar, and of course your site was some menus and things on it.
 >
@@ -1071,7 +1061,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980&t=53)** If I click shortcuts, well I can add and subtract shortcuts depending on what I'm working on across my entire site.
 >
-> **[1:01](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980&t=61)** If I click all content, it takes me to the content area where you'll notice there's a little yellow star next to the word content.
+> **[1:01](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980&t=61)** If I click all content, it takes me to the content area where you'll notice there's a little yellow star next to the [[Microsoft Word|word]] content.
 >
 > **[1:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980&t=68)** If I click on that, you'll notice that it disappears from the shortcut menu.
 >
@@ -1109,7 +1099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (7), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (7), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (5), dropdown (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (2)
@@ -1117,12 +1107,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Content menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980)
+#### [Content menu](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=3)** - [Instructor] Continuing on in our tour of the administration area of your new Drupal site, go ahead and click on Content.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=3)** - [Instructor] Continuing on in our tour of the administration area of your new [[Drupal]] site, go ahead and click on Content.
 >
 > **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=10)** Now this screen is where you'll see, well, all of the content that you've added to your Drupal website.
 >
@@ -1138,7 +1127,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=54)** In the title go ahead and put My First Drupal Node and go ahead and grab some lorem ipsum text from a site like [lipsum.com](https://lipsum.com).
 >
-> **[1:06](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=66)** Go ahead and add the word test to the tags and go ahead and upload an image.
+> **[1:06](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=66)** Go ahead and add the [[Microsoft Word|word]] test to the tags and go ahead and upload an image.
 >
 > **[1:12](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=72)** (rapid typing) Make sure you add some alternate text and click Save.
 >
@@ -1146,7 +1135,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=88)** The image is wrapped by the text, the tag is down below.
 >
-> **[1:33](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=93)** If you're noticing that it's not the same formatting as the rest of the text, that's just what this particular theme does.
+> **[1:33](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=93)** If you're noticing that it's not the same formatting as the [[Representational State Transfer (REST)|rest]] of the text, that's just what this particular theme does.
 >
 > **[1:40](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/content-menu?u=76281980&t=100)** We'll talk more about that in a bit.
 >
@@ -1188,7 +1177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), [[Drupal]] (6), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (6), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (8), make (2), find (1)
 > **UI Navigation:** click on (5)
 > **URLs:** [lipsum.com](https://lipsum.com) (1)
@@ -1196,14 +1185,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (rapid typing) (1)
 
-#### Structure menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/structure-menu?u=76281980)
+#### [Structure menu](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/structure-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/structure-menu?u=76281980&t=3)** - [Instructor] As we continue in our tour of the administration area, go ahead and click on Structure.
 >
-> **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/structure-menu?u=76281980&t=8)** Structure is a place where you will be a lot as you build a Drupal site.
+> **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/structure-menu?u=76281980&t=8)** Structure is a place where you will be a lot as you build a [[Drupal]] site.
 >
 > **[0:15](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/structure-menu?u=76281980&t=15)** Blocks are how the site is laid out in Drupal.
 >
@@ -1211,7 +1199,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/structure-menu?u=76281980&t=25)** We'll be building a lot of blocks as we go.
 >
-> **[0:27](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/structure-menu?u=76281980&t=27)** Comment types, contact forms, content types.
+> **[0:27](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/structure-menu?u=76281980&t=27)** Comment types, contact [[Forms]], content types.
 >
 > **[0:30](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/structure-menu?u=76281980&t=30)** You'll spend quite a bit of time in here.
 >
@@ -1311,7 +1299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (10), [[Forms]] (1), feature (1), web (1)
+> **Frameworks & Libraries:** [[Drupal]] (10), [[Forms]] (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** find (1)
@@ -1319,8 +1307,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Appearance menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980)
+#### [Appearance menu](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,11 +1315,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=9)** Appearance is where we see the themes that have been installed on our site.
 >
-> **[0:14](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=14)** And by default, Bartek, as in many other versions of Drupal, is the default theme.
+> **[0:14](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=14)** And by default, Bartek, as in many other versions of [[Drupal]], is the default theme.
 >
 > **[0:20](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=20)** Seven is the administration theme.
 >
-> **[0:23](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=23)** There are two uninstalled themes, Clara, which is experimental, and Stark, which is really stark.
+> **[0:23](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=23)** There are two uninstalled themes, Clara, which is experimental, and [[Stark (Accessibility Software)|Stark]], which is really stark.
 >
 > **[0:32](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=32)** We can install new themes here by clicking install new theme, which we'll do in an upcoming video, but in the meantime, go ahead and click on Settings for Bartek.
 >
@@ -1360,7 +1347,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=110)** Click back to site, and you'll note that our logo has disappeared.
 >
-> **[1:56](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=116)** The word Drupalville is still a link to the homepage of course.
+> **[1:56](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=116)** The [[Microsoft Word|word]] Drupalville is still a link to the homepage of course.
 >
 > **[2:00](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/appearance-menu?u=76281980&t=120)** We'll do more with the Appearance menu in the section called Themes Explained.
 
@@ -1372,14 +1359,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extend menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/extend-menu?u=76281980)
+#### [Extend menu](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/extend-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/extend-menu?u=76281980&t=3)** - [Tutor] Alright, we're almost halfway through looking at the Administration Toolbar.
 >
-> **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/extend-menu?u=76281980&t=8)** Click on Extend and this is where you see all of the features that have been added to your Drupal site via modules.
+> **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/extend-menu?u=76281980&t=8)** Click on Extend and this is where you see all of the features that have been added to your [[Drupal]] site via modules.
 >
 > **[0:18](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/extend-menu?u=76281980&t=18)** As I mentioned earlier, modules in Drupal are called Projects.
 >
@@ -1467,7 +1453,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/extend-menu?u=76281980&t=239)** So you can either download the zip or the tar, or you can right click on the zip or the tar, and copy the link.
 >
-> **[4:09](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/extend-menu?u=76281980&t=249)** A word of caution here.
+> **[4:09](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/extend-menu?u=76281980&t=249)** A [[Microsoft Word|word]] of caution here.
 >
 > **[4:10](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/extend-menu?u=76281980&t=250)** If you are using Acquia Dev Desktop on a PC, you'll probably need to get the zip and you'll probably need to download it.
 >
@@ -1537,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (19), [[Search]] (3), feature (2), web (1), management (1)
+> **Frameworks & Libraries:** [[Drupal]] (19), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** install (16)
 > **CLI Commands:** composer (6), find (3), make (2), tar (2)
 > **UI Navigation:** scroll down (6), click on (4), select the (1), dropdown (1)
@@ -1546,8 +1532,7 @@ created: 2026-05-02
 > **Code Identifiers:** admin_toolbar (2)
 > **Env Vars:** url (2)
 
-#### Configuration menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/configuration-menu?u=76281980)
+#### [Configuration menu](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/configuration-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1559,13 +1544,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/configuration-menu?u=76281980&t=21)** Click on configuration.
 >
-> **[0:23](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/configuration-menu?u=76281980&t=23)** Now, we're seeing a one or more problems has been detected with your Drupal installation.
+> **[0:23](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/configuration-menu?u=76281980&t=23)** Now, we're seeing a one or more problems has been detected with your [[Drupal]] installation.
 >
 > **[0:27](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/configuration-menu?u=76281980&t=27)** This is pretty common with Aquia's Dev Desktop.
 >
 > **[0:30](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/configuration-menu?u=76281980&t=30)** There isn't a problem, but if you click on status report, you're going to see two particular messages.
 >
-> **[0:36](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/configuration-menu?u=76281980&t=36)** One is the configuration sync directory which we will have to fix but we won't fix it till we get to that point and the trusted host settings, trusted host pattern setting is not configured in settings.php.
+> **[0:36](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/configuration-menu?u=76281980&t=36)** One is the configuration sync directory which we will have to fix but we won't fix it till we get to that point and the trusted host settings, trusted host pattern setting is not configured in settings.[[PHP]].
 >
 > **[0:49](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/configuration-menu?u=76281980&t=49)** We don't need to worry about that.
 >
@@ -1599,8 +1584,7 @@ created: 2026-05-02
 > **File Paths:** settings.php (1)
 > **Speakers:** - [instructor] (1)
 
-#### People menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/people-menu?u=76281980)
+#### [People menu](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/people-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1610,7 +1594,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/people-menu?u=76281980&t=9)** You can add users, set roles and permissions, and we're not going to actually do an exercise here because we're going to do one later.
 >
-> **[0:17](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/people-menu?u=76281980&t=17)** But if I click on roles for just a minute, you'll see that there are three roles that are defined when you install Drupal, anonymous, which is somebody who's not logged in at all, authenticated is someone who has a login, but really can't do anything, and administrator is somebody who has access to absolutely everything.
+> **[0:17](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/people-menu?u=76281980&t=17)** But if I click on roles for just a minute, you'll see that there are three roles that are defined when you install [[Drupal]], anonymous, which is somebody who's not logged in at all, authenticated is someone who has a login, but really can't do anything, and administrator is somebody who has access to absolutely everything.
 >
 > **[0:37](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/people-menu?u=76281980&t=37)** If I click on permissions, you'll see that administrators have access, as I mentioned, to everything.
 >
@@ -1638,8 +1622,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reports menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/reports-menu?u=76281980)
+#### [Reports menu](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/reports-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,7 +1630,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/reports-menu?u=76281980&t=6)** Go ahead and click on Reports.
 >
-> **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/reports-menu?u=76281980&t=7)** And here are the reports that are built into Drupal.
+> **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/reports-menu?u=76281980&t=7)** And here are the reports that are built into [[Drupal]].
 >
 > **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/reports-menu?u=76281980&t=10)** Available updates will tell you when your core or any contributed modules have an update.
 >
@@ -1677,7 +1660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (6), [[Search]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (6)
 > **UI Navigation:** click on (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **URLs:** [drupal.org](https://drupal.org) (1)
@@ -1686,8 +1669,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [tutor] (1)
 
-#### Help menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/help-menu?u=76281980)
+#### [Help menu](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/help-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1695,7 +1677,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/help-menu?u=76281980&t=8)** The help pages are not exactly that helpful.
 >
-> **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/help-menu?u=76281980&t=10)** Honestly, your best bet is to go to the online documentation at [drupal.org](https://drupal.org), where you'll find the documentation for literally everything Drupal.
+> **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/help-menu?u=76281980&t=10)** Honestly, your best bet is to go to the online documentation at [[[Drupal]].org](https://drupal.org), where you'll find the documentation for literally everything Drupal.
 >
 > **[0:20](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/help-menu?u=76281980&t=20)** You can search and discover all of the documentation for core and contributed modules, as well as theming and module development here at [drupal.org](https://drupal.org).
 >
@@ -1705,7 +1687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (4)
 > **URLs:** [drupal.org](https://drupal.org) (3)
 > **Documentation:** the documentation (2)
 > **CLI Commands:** find (1)

@@ -63,8 +63,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing learning for whole learners
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/designing-learning-for-whole-learners?u=76281980)
+#### [Designing learning for whole learners](https://www.linkedin.com/learning/inclusive-learning-design/designing-learning-for-whole-learners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -98,7 +97,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), power (1)
 > **Speakers:** - we (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -107,8 +105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of inclusive learning design
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/the-importance-of-inclusive-learning-design?u=76281980)
+#### [The importance of inclusive learning design](https://www.linkedin.com/learning/inclusive-learning-design/the-importance-of-inclusive-learning-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -159,8 +156,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
-#### What is inclusive learning design?
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980)
+#### [What is inclusive learning design?](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -174,7 +170,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=40)** As designers, we organize instructional content to make it digestible and engaging for the learner.
 >
-> **[0:47](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=47)** Next, inclusive design creates blueprints for products with the full range of human diversity in mind.
+> **[0:47](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=47)** Next, inclusive design creates blueprints for [[Microsoft Products|products]] with the full range of human diversity in mind.
 >
 > **[0:54](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=54)** By including and learning from people with diverse perspectives in the design process, we enrich experiences, strengthen our connections and develop products for all users.
 >
@@ -184,13 +180,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=94)** Here, diversity is considered a tool to inform the design.
 >
-> **[1:39](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=99)** Now I get a lot of questions about the difference between accessibility and inclusion, since both of them are usually referenced in product design.
+> **[1:39](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=99)** Now I get a lot of questions about the difference between accessibility and inclusion, since both of them are usually referenced in [[Product Design]].
 >
 > **[1:48](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=108)** So let's explore this.
 >
 > **[1:50](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=110)** I like to think that accessibility and design live under the bigger umbrella of inclusion.
 >
-> **[1:57](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=117)** Accessible design refers to design with the needs of differently abled people in mind.
+> **[1:57](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=117)** [[Accessible Design]] refers to design with the needs of differently abled people in mind.
 >
 > **[2:04](https://www.linkedin.com/learning/inclusive-learning-design/what-is-inclusive-learning-design?u=76281980&t=124)** Inclusive design focuses on designing for a broader range of a potential audience.
 >
@@ -216,14 +212,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (1), product (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Product Design]] (1), [[Accessible Design]] (1)
 > **Env Vars:** ild (3), udl (3)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - do (1)
 
-#### The five steps of ILD
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/the-five-steps-of-ild?u=76281980)
+#### [The five steps of ILD](https://www.linkedin.com/learning/inclusive-learning-design/the-five-steps-of-ild?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -239,7 +234,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/inclusive-learning-design/the-five-steps-of-ild?u=76281980&t=29)** Many instructional design approaches lay out a process in steps to get you from here to there.
 >
-> **[0:35](https://www.linkedin.com/learning/inclusive-learning-design/the-five-steps-of-ild?u=76281980&t=35)** ADDIE, SAM, Design Thinking to name just a few.
+> **[0:35](https://www.linkedin.com/learning/inclusive-learning-design/the-five-steps-of-ild?u=76281980&t=35)** ADDIE, SAM, [[Design Thinking]] to name just a few.
 >
 > **[0:39](https://www.linkedin.com/learning/inclusive-learning-design/the-five-steps-of-ild?u=76281980&t=39)** The five steps of inclusive learning design are meant to do the same thing, offer a step-by-step approach to integrate inclusion into your design.
 >
@@ -249,7 +244,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/inclusive-learning-design/the-five-steps-of-ild?u=76281980&t=62)** The essence of the five steps is they take a human-centered shift-left approach.
 >
-> **[1:08](https://www.linkedin.com/learning/inclusive-learning-design/the-five-steps-of-ild?u=76281980&t=68)** The term shift-left is commonly used in software development when issues are detected early in a development process.
+> **[1:08](https://www.linkedin.com/learning/inclusive-learning-design/the-five-steps-of-ild?u=76281980&t=68)** The term shift-left is commonly used in [[Software Development]] when issues are detected early in a development process.
 >
 > **[1:17](https://www.linkedin.com/learning/inclusive-learning-design/the-five-steps-of-ild?u=76281980&t=77)** This applies to learning when we identify learner needs, motivations, and preferences at the beginning of a project lifecycle and then respond by integrating inclusive learning design throughout the process.
 >
@@ -291,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Design Thinking]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1), [[Software Development]] (1)
 > **Env Vars:** ild (4), addie (1), sam (1)
 > **Analogies:** just like (1)
 > **Best Practices:** don't forget (1)
@@ -302,8 +297,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your learning identity
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/your-learning-identity?u=76281980)
+#### [Your learning identity](https://www.linkedin.com/learning/inclusive-learning-design/your-learning-identity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,14 +357,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **Analogies:** for example (2), picture (1), imagine (1)
 > **Env Vars:** adhd (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - we (1)
 
-#### The learner's identity
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/the-learner-s-identity?u=76281980)
+#### [The learner's identity](https://www.linkedin.com/learning/inclusive-learning-design/the-learner-s-identity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,14 +424,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### Learning gaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/learning-gaps?u=76281980)
+#### [Learning gaps](https://www.linkedin.com/learning/inclusive-learning-design/learning-gaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -508,8 +498,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply the four pillars of ILD
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/apply-the-four-pillars-of-ild?u=76281980)
+#### [Apply the four pillars of ILD](https://www.linkedin.com/learning/inclusive-learning-design/apply-the-four-pillars-of-ild?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -585,14 +574,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **Env Vars:** ild (3)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Personalization of learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/personalization-of-learning?u=76281980)
+#### [Personalization of learning](https://www.linkedin.com/learning/inclusive-learning-design/personalization-of-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -656,15 +643,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), power (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ild (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
 
-#### Responsive learning development
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/responsive-learning-development?u=76281980)
+#### [Responsive learning development](https://www.linkedin.com/learning/inclusive-learning-design/responsive-learning-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -730,18 +715,17 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/inclusive-learning-design/responsive-learning-development?u=76281980&t=203)** You're laying the foundation for rich connections with direct engagement.
 >
-> **[3:28](https://www.linkedin.com/learning/inclusive-learning-design/responsive-learning-development?u=76281980&t=208)** This type of relationship building can deeply impact everyone's investment in the learning space.
+> **[3:28](https://www.linkedin.com/learning/inclusive-learning-design/responsive-learning-development?u=76281980&t=208)** This type of [[Relationship Building]] can deeply impact everyone's investment in the learning space.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Relationship Building]] (1)
+> **Frameworks & Libraries:** [[Relationship Building]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ild (1)
 > **Definitions:** known as (1)
 > **Speakers:** - a (1)
 
-#### Flexible instructional approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/flexible-instructional-approaches?u=76281980)
+#### [Flexible instructional approaches](https://www.linkedin.com/learning/inclusive-learning-design/flexible-instructional-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -809,15 +793,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Search]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2)
 > **Env Vars:** ild (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - the (1)
 
-#### Communities and social learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/communities-and-social-learning?u=76281980)
+#### [Communities and social learning](https://www.linkedin.com/learning/inclusive-learning-design/communities-and-social-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,7 +853,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/inclusive-learning-design/communities-and-social-learning?u=76281980&t=152)** Finally, create some sort of ritual for your burgeoning community.
 >
-> **[2:37](https://www.linkedin.com/learning/inclusive-learning-design/communities-and-social-learning?u=76281980&t=157)** This could be in the form of a group on a social media outlet like LinkedIn, to provide ways for your learners to connect with each other during and after a learning experience, or create an informal synchronous discussion group around something unrelated to your course, like pogo stick building or the best choose your own adventure books.
+> **[2:37](https://www.linkedin.com/learning/inclusive-learning-design/communities-and-social-learning?u=76281980&t=157)** This could be in the form of a group on a social media outlet like [[LinkedIn]], to provide ways for your learners to connect with each other during and after a learning experience, or create an informal synchronous discussion group around something unrelated to your course, like pogo stick building or the best choose your own adventure books.
 >
 > **[2:58](https://www.linkedin.com/learning/inclusive-learning-design/communities-and-social-learning?u=76281980&t=178)** By integrating ritual into your learning experience, participants have an opportunity to connect outside of the learning, and bonds will deepen.
 >
@@ -879,7 +861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - welcome (1)
@@ -889,8 +871,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement inclusive learning design
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/implement-inclusive-learning-design?u=76281980)
+#### [Implement inclusive learning design](https://www.linkedin.com/learning/inclusive-learning-design/implement-inclusive-learning-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,15 +947,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** ild (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - here (1)
 
-#### Assess inclusive learning design effectiveness
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/assess-inclusive-learning-design-effectiveness?u=76281980)
+#### [Assess inclusive learning design effectiveness](https://www.linkedin.com/learning/inclusive-learning-design/assess-inclusive-learning-design-effectiveness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1044,7 +1023,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Analytics]] (1), power (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ild (2)
 > **Speakers:** - and (1)
@@ -1054,8 +1032,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of inclusive learning design
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980)
+#### [The future of inclusive learning design](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,7 +1040,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980&t=5)** As systems create novel ways to reach learning communities, we are witnessing innovative and cutting edge approaches to interact and engage.
 >
-> **[0:14](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980&t=14)** Artificial intelligence, or AI, will continue to open doors and portals into how we connect with learners.
+> **[0:14](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980&t=14)** [[Artificial Intelligence (AI)|Artificial intelligence]], or AI, will continue to open doors and portals into how we connect with learners.
 >
 > **[0:22](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980&t=22)** Possibilities around directly interacting with students or being able to translate languages seamlessly provide new ways of interacting and engaging learning communities.
 >
@@ -1087,7 +1064,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980&t=109)** For now, I'm so excited to learn about your ILD journey in this reality.
 >
-> **[1:55](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980&t=115)** Please reach out to me on LinkedIn and let me know about your experiences, experiments, and collaborations.
+> **[1:55](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980&t=115)** Please reach out to me on [[LinkedIn]] and let me know about your experiences, experiments, and collaborations.
 >
 > **[2:02](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980&t=122)** Thank you for taking this course.
 >
@@ -1095,7 +1072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ild (3)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)

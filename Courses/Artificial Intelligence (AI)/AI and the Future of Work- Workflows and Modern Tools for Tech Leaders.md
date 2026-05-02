@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980&t=0)** MLOps principles are becoming crucial for data science.
+> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980&t=0)** [[MLOps]] principles are becoming crucial for [[Data Science]].
 >
 > **[0:04](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980&t=4)** The days of not versioning your data or not ensuring your model results are reproducible have to end.
 >
@@ -99,30 +98,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[MLOps]] (1), ai (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[MLOps]] (1)
 
-#### Why is this important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980)
+#### [Why is this important?](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=0)** MLOps, short for Machine Learning Operations, is essential for a variety of reasons in the world of machine learning and artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=0)** [[MLOps]], short for Machine Learning Operations, is essential for a variety of reasons in the world of machine learning and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:10](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=10)** It brings together the practices, tools, and methodologies that add rigor, reproducibility, and transparency to machine learning model development.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=20)** The tools that we'll cover in this course help your data science team with a number of things.
+> **[0:20](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=20)** The tools that we'll cover in this course help your [[Data Science]] team with a number of things.
 >
 > **[0:25](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=25)** The first is consistency and reproducibility.
 >
 > **[0:29](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=29)** By introducing best practices for things like data versioning, model versioning, and tracking of experiments, this ensures that machine learning experiments are reproducible, making it easier to troubleshoot issues, collaborate across teams, and compare the performance of different models.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=48)** Second, as machine learning becomes integral to business operations, organizations need to scale their data science workflows efficiently.
+> **[0:48](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=48)** Second, as machine learning becomes integral to [[Business Operations]], organizations need to scale their data science workflows efficiently.
 >
 > **[0:58](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=58)** MLOps provides the infrastructure and processes to scale up model deployments, ensuring that models can handle larger datasets and bigger workloads.
 >
 > **[1:10](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=70)** Next, by incorporating proper testing, validation, and monitoring processes into ML pipelines, MLOps helps mitigate the risks associated with deploying models into production.
 >
-> **[1:23](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=83)** This includes identifying model drift, data quality issues, and performance degradation, allowing for timely interventions.
+> **[1:23](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=83)** This includes identifying model drift, [[Data Quality]] issues, and performance degradation, allowing for timely interventions.
 >
 > **[1:33](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=93)** The next one relates to highly regulated industries.
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=106)** This is crucial for maintaining trust and avoiding legal liabilities.
 >
-> **[1:51](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=111)** Additionally, MLOps encourages collaboration between data scientists, data engineers, DevOps teams, and business stakeholders.
+> **[1:51](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=111)** Additionally, MLOps encourages collaboration between data scientists, data engineers, [[DevOps]] teams, and business stakeholders.
 >
 > **[2:01](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/why-is-this-important?u=76281980&t=121)** It fosters a culture of cross-functional teamwork, ensuring that machine learning projects align with business goals and requirements.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[MLOps]] (9), business (4), next (3), teams (2)
+> **Frameworks & Libraries:** [[MLOps]] (9), [[Data Science]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Quality]] (1), [[DevOps]] (1)
 > **Definitions:** short for (1), means that (1)
 > **CLI Commands:** make (1)
 > **Warnings:** troubleshoot (1)
@@ -164,12 +162,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data versioning and management
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980)
+#### [Data versioning and management](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980&t=0)** Imagine you're in charge of data science at a popular e-commerce company.
+> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980&t=0)** Imagine you're in charge of [[Data Science]] at a popular [[E-Commerce]] company.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980&t=5)** Every day you collect new data from your users, which gets ingested and used to retrain your recommendation engine.
 >
@@ -183,9 +180,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980&t=42)** Let's begin by covering the crucial topic of data versioning and management.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980&t=47)** There are a number of data management tools like DVC, and here we'll be using Comet to demonstrate tracking your data lineage, creating data artifacts, and data management, ensuring your data workflows are well-managed.
+> **[0:47](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980&t=47)** There are a number of [[Data Management]] tools like DVC, and here we'll be using Comet to demonstrate tracking your [[Data Lineage]], creating data artifacts, and data management, ensuring your data workflows are well-managed.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980&t=64)** Let's talk about the most popular tool for versioning code, Git.
+> **[1:04](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980&t=64)** Let's talk about the most popular tool for versioning code, [[Git]].
 >
 > **[1:10](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980&t=70)** It efficiently tracks changes to code, enables collaboration, and maintains a history of your codebase.
 >
@@ -243,13 +240,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Git]] (4), management (3), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[Data Lineage]] (3), [[Data Science]] (1), [[E-Commerce]] (1), [[Data Management]] (1)
 > **CLI Commands:** git (4), find (2)
 > **Analogies:** imagine (1), it's like (1)
 > **Env Vars:** dvc (1)
 
-#### Experiment tracking and management
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980)
+#### [Experiment tracking and management](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,9 +265,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=88)** This comprehensive record enables you and others to precisely recreate the exact model conditions under which a model was trained and evaluated.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=99)** There are many experiment tracking tools, including Comet, MLflow, and ClearML.
+> **[1:39](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=99)** There are many experiment tracking tools, including Comet, [[MLflow]], and ClearML.
 >
-> **[1:47](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=107)** One massive benefit is visibility into each experiment's performance metrics.
+> **[1:47](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=107)** One massive benefit is visibility into each experiment's [[Performance Metrics]].
 >
 > **[1:54](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=114)** This simplifies the process of comparing models side by side, enabling you to identify patterns, make informed decisions, and uncover insights that would be crucial to your project's success.
 >
@@ -291,9 +287,9 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=200)** This automation not only saves time, but also ensures consistency in documentation, allowing you to focus more on model development, analysis, and innovation without the burden of administrative tasks.
 >
-> **[3:35](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=215)** In terms of regulatory compliance and auditing, this detailed record serves as a critical source of evidence that demonstrates how models were developed, trained, and evaluated, aligning with industry standards and regulatory requirements.
+> **[3:35](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=215)** In terms of [[Regulatory Compliance]] and auditing, this detailed record serves as a critical source of evidence that demonstrates how models were developed, trained, and evaluated, aligning with industry standards and regulatory requirements.
 >
-> **[3:53](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=233)** When regulatory bodies or auditors need to assess the validity and fairness of your models, experiment tracking provides a clear and verifiable account of your processes, ensuring compliance and building trust in your AI systems.
+> **[3:53](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=233)** When regulatory bodies or auditors need to assess the validity and fairness of your models, experiment tracking provides a clear and verifiable account of your processes, ensuring compliance and [[Building Trust]] in your AI systems.
 >
 > **[4:10](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/experiment-tracking-and-management?u=76281980&t=250)** Another concept you'll want to be aware of is a model registry.
 >
@@ -313,19 +309,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (2), data (1), [[MLflow]] (1), [[Performance Metrics]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[MLflow]] (1), [[Performance Metrics]] (1), [[Regulatory Compliance]] (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Warnings:** be aware (1)
 
-#### Model monitoring and performance evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980)
+#### [Model monitoring and performance evaluation](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=0)** Imagine you're in charge of data science for a popular social media platform.
+> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=0)** Imagine you're in charge of [[Data Science]] for a popular social media platform.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=5)** One of your primary projects is training a system for content moderation to prevent abuse and spam on your platform.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=102)** Here's one example of this.
 >
-> **[1:44](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=104)** Monitoring helps measure the actual impact of models on key business metrics, quantifying their value, and justifying investment. In the event of issues, monitoring provides data to conduct root cause analysis, helping teams understand and address the underlying problems.
+> **[1:44](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=104)** Monitoring helps measure the actual impact of models on key [[Business Metrics]], quantifying their value, and justifying investment. In the event of issues, monitoring provides data to conduct root cause analysis, helping teams understand and address the underlying problems.
 >
 > **[2:06](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=126)** This warning system empowers you to take proactive measures, fine-tuning your model, or addressing underlying data shifts before they significantly impact your model outcomes.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=149)** In addition, effective monitoring allows you to allocate computing resources efficiently, scaling up or down based on actual demand, which leads to cost savings.
 >
-> **[2:41](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=161)** Whether it's detecting concept drift, data quality issues, or other unexpected changes, monitoring empowers you to safeguard the effectiveness of your models throughout their lifecycle.
+> **[2:41](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=161)** Whether it's detecting concept drift, [[Data Quality]] issues, or other unexpected changes, monitoring empowers you to safeguard the effectiveness of your models throughout their lifecycle.
 >
 > **[2:53](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-monitoring-and-performance-evaluation?u=76281980&t=173)** Monitoring also removes the guesswork about when it's time to update or retrain your models based on their real world performance.
 >
@@ -367,24 +362,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (1), teams (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Business Metrics]] (1), [[Data Quality]] (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is called (1)
 > **Analogies:** imagine (1)
 > **Warnings:** warning (1)
 
-#### AutoML
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980)
+#### [AutoML](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=0)** Picture being able to automate the process of developing machine learning models, from data preprocessing to hyperparameter tuning.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=9)** That's exactly what AutoML or automated machine learning attempts to do.
+> **[0:09](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=9)** That's exactly what AutoML or [[Automated Machine Learning (AutoML)|automated machine learning]] attempts to do.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=15)** It streamlines and automates various stages of model development, optimizing performance, and freeing up valuable time.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=23)** Over the next few minutes, we'll explore what AutoML entails, how it drives scalability, and the critical role of machine learning operations, or MLOps tools in seamlessly integrating these practices.
+> **[0:23](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=23)** Over the next few minutes, we'll explore what AutoML entails, how it drives [[Scalability]], and the critical role of machine learning operations, or [[MLOps]] tools in seamlessly integrating these practices.
 >
 > **[0:37](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=37)** We talk a lot about modeling, but creating the model itself actually becomes a very small percentage of the overall process of getting a model into production. Before, we tirelessly fit a model with variables and iterate to find the best solution.
 >
@@ -392,7 +386,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=59)** With AutoML, the process of creating and fine-tuning models becomes remarkably efficient, allowing data teams to tackle complex challenges with less manual effort.
 >
-> **[1:12](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=72)** AutoML makes machine learning accessible to a wider range of users, including those without extensive data science expertise by automating complex tasks. AutoML algorithms can explore a wide range of model architectures, hyperparameters, and feature selections simultaneously, leading to a more efficient model search.
+> **[1:12](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=72)** AutoML makes machine learning accessible to a wider range of users, including those without extensive [[Data Science]] expertise by automating complex tasks. AutoML [[Algorithms]] can explore a wide range of model architectures, hyperparameters, and feature selections simultaneously, leading to a more efficient model search.
 >
 > **[1:36](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=96)** This automation minimizes the risk of human errors in model development, configuration, and hyperparameter tuning.
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=113)** The success of AutoML relies heavily on the integration of MLOps tools.
 >
-> **[1:58](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=118)** MLOps, or machine learning operations, is the practice of combining machine learning with DevOps principles to create a streamlined process for managing the lifecycle of machine learning models.
+> **[1:58](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=118)** MLOps, or machine learning operations, is the practice of combining machine learning with [[DevOps]] principles to create a streamlined process for managing the lifecycle of machine learning models.
 >
 > **[2:12](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automl?u=76281980&t=132)** AutoML is redefining the way machine learning is developed.
 >
@@ -408,12 +402,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[MLOps]] (3), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1), next (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (3), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1), [[Scalability]] (1), [[Data Science]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 
-#### Automated pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980)
+#### [Automated pipelines](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,25 +414,25 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=7)** Automated pipelines are a systematic approach to orchestrating and managing the end-to-end machine learning process.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=15)** Together, AutoML and automated pipelines create a dynamic duo that accelerates model development, deployment, and scalability.
+> **[0:15](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=15)** Together, AutoML and automated pipelines create a dynamic duo that accelerates model development, deployment, and [[Scalability]].
 >
 > **[0:26](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=26)** The scalability is crucial as it enables you to handle larger datasets, more models, and ever-evolving requirements with efficiency.
 >
 > **[0:36](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=36)** Automated pipelines ensure that the same steps and processes are applied consistently across data, reducing the risk of errors and inconsistencies.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=48)** Automation speeds up repetitive tasks, enabling data professionals to focus on higher-value tasks like analysis and decision-making.
+> **[0:48](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=48)** Automation speeds up repetitive tasks, enabling data professionals to focus on higher-value tasks like analysis and [[Decision-Making]].
 >
-> **[0:58](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=58)** Automation minimizes the risk of human errors that can occur during manual data processing and analysis.
+> **[0:58](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=58)** Automation minimizes the risk of human errors that can occur during manual [[Data Processing]] and analysis.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=65)** Automated pipelines can accommodate changes in data sources, formats, and structures, adapting to evolving data requirements.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=75)** Pipelines can include data validation and cleaning steps, ensuring that the data used for analysis is accurate and reliable.
+> **[1:15](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=75)** Pipelines can include [[Data Validation]] and cleaning steps, ensuring that the data used for analysis is accurate and reliable.
 >
 > **[1:24](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=84)** Automated pipelines are typically modular, making it easier to update or replace individual components without disrupting the entire process.
 >
 > **[1:35](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=95)** Automated pipelines can be versioned, allowing data professionals to track changes and revert to previous versions if needed.
 >
-> **[1:44](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=104)** For automated pipelines to truly shine, MLOps tools need to seamlessly integrate with each phase of the process, from data ingestion and model training to deployment and monitoring.
+> **[1:44](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=104)** For automated pipelines to truly shine, [[MLOps]] tools need to seamlessly integrate with each phase of the process, from [[Data Ingestion]] and model training to deployment and monitoring.
 >
 > **[1:57](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=117)** This integration ensures that your machine learning operations are well-orchestrated, governed, and efficient.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=131)** When everyone in the team uses the same standardized pipeline for model development, you're ensuring consistency in practices and results.
 >
-> **[2:21](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=141)** MLOps tools that are well-integrated help manage permissions, track changes, and ensure accountability throughout the process.
+> **[2:21](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=141)** MLOps tools that are well-integrated help manage permissions, track changes, and ensure [[Accountability]] throughout the process.
 >
 > **[2:29](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/automated-pipelines?u=76281980&t=149)** This is especially important as organizations increasingly rely on machine learning for decision-making.
 >
@@ -457,10 +450,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Scalability]] (3), [[MLOps]] (3), [[Automation]] (2), [[Decision-Making]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (3), [[MLOps]] (3), [[Decision-Making]] (2), [[Data Processing]] (1), [[Data Validation]] (1)
 
-#### Explainability and interpretability of models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/explainability-and-interpretability-of-models?u=76281980)
+#### [Explainability and interpretability of models](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/explainability-and-interpretability-of-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,7 +488,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/explainability-and-interpretability-of-models?u=76281980&t=159)** In R, there are a number of different libraries that allow you to leverage SHAP.
 >
-> **[2:44](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/explainability-and-interpretability-of-models?u=76281980&t=164)** In Python, you'll use the SHAP library.
+> **[2:44](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/explainability-and-interpretability-of-models?u=76281980&t=164)** In [[Python (Programming Language)|Python]], you'll use the SHAP library.
 >
 > **[2:48](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/explainability-and-interpretability-of-models?u=76281980&t=168)** This information is invaluable for identifying trends and patterns in your data, validating whether your model aligns with domain knowledge, and helping to make other strategic business decisions.
 >
@@ -528,15 +520,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), data (3), next (1), [[Debugging]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** shap (7), lime (3)
 > **CLI Commands:** make (2), find (1), python (1)
 > **Definitions:** means that (1), is a  (1), stands for (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Code Identifiers:** explanations (1)
 
-#### Model deployment and serving
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980)
+#### [Model deployment and serving](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,11 +545,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=55)** Taking a look at how you tactically deploy a model, you'll need to choose a deployment platform where you'll host and run your model.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=64)** Common options include Amazon Web Services, it's AWS, Microsoft Azure, and Google Cloud Platform, GCP.
+> **[1:04](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=64)** Common options include [[Amazon Web Services (AWS)|Amazon Web Services]], it's AWS, [[Microsoft Azure]], and [[Google Cloud Platform (GCP)|Google Cloud Platform]], GCP.
 >
 > **[1:13](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=73)** These platforms provide tools and services to manage scaling, load balancing, and other deployment-related aspects.
 >
-> **[1:23](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=83)** If you're using Docker containers or Kubernetes, where Docker allows you to containerize your machine learning models, libraries, and dependencies and then deploy and manage them at scale with Kubernetes, you'll build and push your container image and then deploy it to your cluster.
+> **[1:23](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=83)** If you're using Docker containers or [[Kubernetes]], where Docker allows you to containerize your machine learning models, libraries, and dependencies and then deploy and manage them at scale with Kubernetes, you'll build and push your container image and then deploy it to your cluster.
 >
 > **[1:42](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=102)** A cluster is just a group of interconnected computers or servers that work together to deliver services.
 >
@@ -568,7 +559,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=127)** If possible, set up a CI/CD.
 >
-> **[2:10](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=130)** This stands for Continuous Integration/Continuous Delivery pipeline that automates the deployment process.
+> **[2:10](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=130)** This stands for [[Continuous Integration (CI)|Continuous Integration]]/[[Continuous Delivery (CD)|Continuous Delivery]] pipeline that automates the deployment process.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=139)** CI/CD ensures that any updates or improvements to your model can be seamlessly deployed to production.
 >
@@ -592,7 +583,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=221)** Governance safeguards your model from unauthorized changes so that it operates as intended, and if something goes wrong, you're more well-equipped to troubleshoot the issue.
 >
-> **[3:53](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=233)** The traceability of decisions associated with a model is essential for transparency and accountability.
+> **[3:53](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=233)** The traceability of decisions associated with a model is essential for transparency and [[Accountability]].
 >
 > **[4:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/model-deployment-and-serving?u=76281980&t=240)** In a complex deployment pipeline, decisions are made at various stages, from data pre-processing to model selection and deployment configurations.
 >
@@ -612,15 +603,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Kubernetes]] (2), ci (2), cd (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** docker (2), cd (2), aws (1)
 > **Definitions:** is a  (2), stands for (1), means that (1)
 > **Prerequisites:** you'll need (2), set up (2)
 > **Env Vars:** aws (1), gcp (1), api (1)
 > **Warnings:** troubleshoot (1)
 
-#### Tools for working with LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/tools-for-working-with-llms?u=76281980)
+#### [Tools for working with LLMs](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/tools-for-working-with-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,7 +622,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/tools-for-working-with-llms?u=76281980&t=24)** By maintaining clear and organized prompts, you're setting the stage for informed decisions and successful outcomes.
 >
-> **[0:32](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/tools-for-working-with-llms?u=76281980&t=32)** When we interact with ChatGPT as an end user from our own browser, it saves the prompts for us and has a concept of memory.
+> **[0:32](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/tools-for-working-with-llms?u=76281980&t=32)** When we interact with [[ChatGPT]] as an end user from our own browser, it saves the prompts for us and has a concept of memory.
 >
 > **[0:40](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/tools-for-working-with-llms?u=76281980&t=40)** But when you're using an API to work with LLMs to build something for your own purposes, you need to find another solution to manage these prompts.
 >
@@ -642,7 +632,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/tools-for-working-with-llms?u=76281980&t=61)** By maintaining this log, you're equipping yourself with a valuable resource for understanding the behavior of your models.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/tools-for-working-with-llms?u=76281980&t=70)** Tools for managing your prompt chains when working with an API include features like logging your prompts and corresponding API responses, including prompt template, variables, timestamps, duration, and any other metadata.
+> **[1:10](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/tools-for-working-with-llms?u=76281980&t=70)** Tools for managing your prompt chains when working with an API include features like logging your prompts and corresponding API responses, including prompt template, variables, timestamps, duration, and any other [[Metadata]].
 >
 > **[1:26](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/tools-for-working-with-llms?u=76281980&t=86)** Visualizing your prompts and responses helps you see the flow, and progression of interactions can provide valuable insights.
 >
@@ -668,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), management (3), api (3), next (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Metadata]] (1)
 > **Env Vars:** api (3), llm (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -682,8 +672,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assessing and upskilling existing teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980)
+#### [Assessing and upskilling existing teams](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +680,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=9)** Now, we'll explore how targeted upskilling can empower your team for working with modern machine learning and AI.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=16)** LinkedIn's fourth annual Workplace Learning Report claims that 94 percent of employees would stay at an employer longer if they invested in their learning and development.
+> **[0:16](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=16)** [[LinkedIn]]'s fourth annual Workplace Learning Report claims that 94 percent of employees would stay at an employer longer if they invested in their learning and development.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=28)** That is huge. Here, I'm assuming that your team already has the traditional modeling and programming background.
 >
@@ -699,9 +688,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=41)** However, as the industry advances, a more strategic approach is needed.
 >
-> **[0:46](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=46)** Upskilling isn't just about learning the latest algorithms, it's about understanding how machine learning and AI fits within the bigger analytics picture and working towards repeatable, scalable, automated pipelines.
+> **[0:46](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=46)** Upskilling isn't just about learning the latest [[Algorithms]], it's about understanding how machine learning and AI fits within the bigger analytics picture and working towards repeatable, scalable, automated pipelines.
 >
-> **[1:02](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=62)** Building these kinds of mature, robust systems requires a familiarity with the MLOps ecosystem, and it is totally common for data professionals to be unfamiliar with that world.
+> **[1:02](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=62)** Building these kinds of mature, robust systems requires a familiarity with the [[MLOps]] ecosystem, and it is totally common for data professionals to be unfamiliar with that world.
 >
 > **[1:15](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=75)** MLOps tools only began gaining traction in the late 2010s, so there's a chance that people on your team began their careers before these tools even existed.
 >
@@ -719,15 +708,15 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=141)** Cross-training across domains can be a low-cost game changer.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=146)** By exposing data scientists to MLOps and data engineering concepts, they gain a deeper understanding of how the data is created and the operations required to make their work reproducible and more efficient.
+> **[2:26](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=146)** By exposing data scientists to MLOps and [[Data Engineering]] concepts, they gain a deeper understanding of how the data is created and the operations required to make their work reproducible and more efficient.
 >
 > **[2:40](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=160)** The data scientist doesn't need to know how to set up the infrastructure or pipelines by themselves, however, knowing what the pipeline consists of, how to run a model in the cloud, and deploy them into CI/CD pipelines will benefit them greatly in their career.
 >
-> **[2:57](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=177)** If you use AWS, Amazon Web Services, your team can access specialized training and certifications tailored to their needs.
+> **[2:57](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=177)** If you use AWS, [[Amazon Web Services (AWS)|Amazon Web Services]], your team can access specialized training and certifications tailored to their needs.
 >
 > **[3:07](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=187)** AWS provides cloud-based environments for hands-on learning, enabling practical experience without the hassle of infrastructure setup.
 >
-> **[3:16](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=196)** Quicklabs is great if you're looking to learn more about Google Cloud Platform.
+> **[3:16](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=196)** Quicklabs is great if you're looking to learn more about [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[3:22](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=202)** This skill can go quite deep.
 >
@@ -747,7 +736,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=251)** As we conclude, remember that the pace of innovation demands continuous learning.
 >
-> **[4:17](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=257)** Targeted upskilling equips your data science and machine learning engineer teams with the right tools to thrive in today's dynamic market. You're setting the stage for a future-ready workforce that drives innovation and business growth.
+> **[4:17](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=257)** Targeted upskilling equips your [[Data Science]] and machine learning engineer teams with the right tools to thrive in today's dynamic market. You're setting the stage for a future-ready workforce that drives innovation and business growth.
 >
 > **[4:32](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980&t=272)** In addition, your team will appreciate your investment in their learning.
 >
@@ -755,18 +744,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[MLOps]] (5), ai (3), cloud (2), aws (2)
+> **Frameworks & Libraries:** [[MLOps]] (5), [[LinkedIn]] (1), [[Algorithms]] (1), [[Data Engineering]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (2), make (1), cd (1), find (1)
 > **Env Vars:** aws (2), roi (1)
 > **Prerequisites:** required to (1), set up (1), setup (1)
 > **Analogies:** picture (1)
 
-#### Navigating the hybrid skill set landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980)
+#### [Navigating the hybrid skill set landscape](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=0)** Data science roles often demand a blend of technical abilities and exceptional social skills.
+> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=0)** [[Data Science]] roles often demand a blend of technical abilities and exceptional social skills.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=7)** Mastering this balance is essential and for good reason, as communicating insights to the business helps move the business forward.
 >
@@ -802,7 +790,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=137)** Effective stakeholder management is crucial to success.
 >
-> **[2:21](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=141)** It's about understanding their needs, aligning expectations, and building trust.
+> **[2:21](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=141)** It's about understanding their needs, aligning expectations, and [[Building Trust]].
 >
 > **[2:27](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=147)** To master this, consider adopting a proactive approach.
 >
@@ -814,11 +802,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=179)** I've worked at companies where we even had small group meetings about important topics like how to effectively have difficult conversations, trying techniques like engaging in mock scenarios and role-playing to practice real-life interactions.
 >
-> **[3:14](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=194)** Both increased team bonding and taught these practical skills I used every day in the office.
+> **[3:14](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=194)** Both increased team bonding and taught these practical skills I used every day in the [[Microsoft Office|office]].
 >
 > **[3:21](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=201)** By upskilling your social skills through internal training, you're not only becoming a better communicator and collaborator, but also setting yourself up for success in stakeholder relationships.
 >
-> **[3:33](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=213)** However, Coursera, LinkedIn Learning, edX, all have workshops or courses that focus on communication, active listening, conflict resolution, and teamwork if you prefer to go that route.
+> **[3:33](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=213)** However, Coursera, [[LinkedIn]] Learning, edX, all have workshops or courses that focus on communication, active listening, conflict resolution, and teamwork if you prefer to go that route.
 >
 > **[3:46](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/navigating-the-hybrid-skill-set-landscape?u=76281980&t=226)** As we've explored, the ability to communicate insights effectively to the business is an indispensable part of driving progress and communicating insights. Beyond code and model building, success hinges on the mastery of interpersonal skills, collaboration, and adaptability.
 >
@@ -828,7 +816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (3), management (3), feature (1), power (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Building Trust]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **Env Vars:** shap (1), lime (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
@@ -836,12 +824,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Creating an environment for experimentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/creating-an-environment-for-experimentation?u=76281980)
+#### [Creating an environment for experimentation](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/creating-an-environment-for-experimentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/creating-an-environment-for-experimentation?u=76281980&t=0)** Creating an environment for experimentation can help your team explore new, bigger, more impactful insights. In data science and in certain industries like e-commerce, you're constantly running A/B tests.
+> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/creating-an-environment-for-experimentation?u=76281980&t=0)** Creating an environment for experimentation can help your team explore new, bigger, more impactful insights. In [[Data Science]] and in certain industries like [[E-Commerce]], you're constantly running A/B tests.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/creating-an-environment-for-experimentation?u=76281980&t=15)** Some of those will be testing that the model you're rolling out is actually performing better than the old experience.
 >
@@ -861,7 +848,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/creating-an-environment-for-experimentation?u=76281980&t=65)** Engaging stakeholders early and often not only ensures alignment with the business objectives, but also fosters a sense of collective ownership over the experimentation process.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/creating-an-environment-for-experimentation?u=76281980&t=77)** When stakeholders are confident that their input is valued and that they are part of the decision-making journey, the likelihood of successful experimentation increases significantly.
+> **[1:17](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/creating-an-environment-for-experimentation?u=76281980&t=77)** When stakeholders are confident that their input is valued and that they are part of the [[Decision-Making]] journey, the likelihood of successful experimentation increases significantly.
 >
 > **[1:29](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/creating-an-environment-for-experimentation?u=76281980&t=89)** It's possible the business can decide to go with a test design or a sample size that wasn't your recommendation.
 >
@@ -909,13 +896,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (4), management (2), [[E-Commerce]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[E-Commerce]] (1), [[Decision-Making]] (1)
 > **URLs:** [booking.com](https://booking.com) (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 
-#### Emerging trends in how you build AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980)
+#### [Emerging trends in how you build AI](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -931,21 +917,21 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=46)** Training a model of that size is not a decision you'd take lightly, but luckily you're able to leverage the work that is already been done. In the past, AI was primarily used for research and experimentation.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=61)** The focus now lies in integrating AI seamlessly into business processes, amplifying decision-making capabilities and redefining what's achievable in today's data-driven world.
+> **[1:01](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=61)** The focus now lies in integrating AI seamlessly into business processes, amplifying [[Decision-Making]] capabilities and redefining what's achievable in today's data-driven world.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=74)** As a result, the demand for tailored AI solutions has grown, and fine-tuning pre-existing models has proven to be a more efficient way to address these unique needs more quickly.
+> **[1:14](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=74)** As a result, the demand for tailored [[AI Solutions]] has grown, and fine-tuning pre-existing models has proven to be a more efficient way to address these unique needs more quickly.
 >
-> **[1:27](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=87)** Another significant consideration in AI development is the need for real-time or near real-time processing.
+> **[1:27](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=87)** Another significant consideration in AI development is the need for [[Real-Time]] or near real-time processing.
 >
 > **[1:35](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=95)** This is especially important in applications like autonomous vehicles, fraud detection, and video analysis.
 >
-> **[1:42](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=102)** Fine-tuning models allows developers to optimize for lower latency, enabling quicker decision-making and enhancing the user experience.
+> **[1:42](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=102)** Fine-tuning models allows developers to optimize for lower latency, enabling quicker decision-making and enhancing the [[User Experience (UX)|user experience]].
 >
 > **[1:52](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=112)** The cost of running AI inference at scale has led to a focus on minimizing inference costs.
 >
-> **[1:58](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=118)** Companies like Neural Magic are focused on methods for specification that reduce the complexity of neural networks, so that in some cases, you're able to run a model on a CPU that previously would have required a GPU while still maintaining the accuracy of the model.
+> **[1:58](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=118)** Companies like Neural Magic are focused on methods for specification that reduce the complexity of [[Neural Networks]], so that in some cases, you're able to run a model on a CPU that previously would have required a GPU while still maintaining the accuracy of the model.
 >
-> **[2:17](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=137)** In the world of LLMs, large language models, Langchain was another interesting development introduced in October of 2022.
+> **[2:17](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=137)** In the world of LLMs, [[Large Language Models (LLM)|large language models]], [[LangChain]] was another interesting development introduced in October of 2022.
 >
 > **[2:25](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/emerging-trends-in-how-you-build-ai?u=76281980&t=145)** One of the standout benefits of Langchain lies in its remarkable ability to discern the most suitable tool for a given task and determine when to utilize it, and in which order.
 >
@@ -975,14 +961,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (4), [[Decision-Making]] (3), [[LangChain]] (3), power (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[LangChain]] (3), [[Real-Time]] (2), [[AI Solutions]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** gpt (1), usd (1), cpu (1), gpu (1)
 > **Versions:** 3.2 (1)
 > **Documentation:** specification (1)
 > **UI Navigation:** go to (1)
 
-#### Challenges and opportunities for organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980)
+#### [Challenges and opportunities for organizations](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,7 +981,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=29)** This can be challenging, especially in the early stages of adoption.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=33)** Obviously, data security and privacy is a big one.
+> **[0:33](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=33)** Obviously, [[Data Security]] and [[Privacy]] is a big one.
 >
 > **[0:37](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=37)** Neither the company nor customers want to be part of a data breach.
 >
@@ -1030,7 +1015,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=144)** Organizations leveraging existing investments in pre-trained models reduces development time and is cost-efficient.
 >
-> **[2:32](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=152)** Hyper-personalization allows these models to cater to specific customer needs, resulting in highly personalized products and services.
+> **[2:32](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=152)** Hyper-personalization allows these models to cater to specific customer needs, resulting in highly personalized [[Microsoft Products|products]] and services.
 >
 > **[2:42](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=162)** This level of customization enhances user experiences and boosts customer loyalty.
 >
@@ -1040,7 +1025,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=193)** Although there are significant challenges, the opportunities are huge and exciting.
 >
-> **[3:18](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=198)** Implementing many of the MLOps techniques we've discussed in this course and upskilling your teams will have you well-positioned to take advantage of the many opportunities right now.
+> **[3:18](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=198)** Implementing many of the [[MLOps]] techniques we've discussed in this course and upskilling your teams will have you well-positioned to take advantage of the many opportunities right now.
 >
 > **[3:30](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/challenges-and-opportunities-for-organizations?u=76281980&t=210)** How can ML-driven automation and optimization help organizations reduce operational costs, streamline processes, and minimize errors?
 >
@@ -1048,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (3), [[Automation]] (2), [[Security]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Privacy]] (1), [[Microsoft Products|Products]] (1), [[MLOps]] (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is a  (1)
 
@@ -1057,22 +1042,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recap of key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980)
+#### [Recap of key takeaways](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=0)** I hope you have found inspiration and insights into the ever-evolving world of data science and AI through this course. The topics we've covered from data versioning to AI trends, from model monitoring to fostering innovation equip you to embrace the challenges and opportunities that lie ahead.
+> **[0:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=0)** I hope you have found inspiration and insights into the ever-evolving world of [[Data Science]] and AI through this course. The topics we've covered from data versioning to AI trends, from model monitoring to fostering innovation equip you to embrace the challenges and opportunities that lie ahead.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=19)** Throughout this course, we talked about data versioning and management, which aids in reproducibility and collaboration on data science projects.
 >
 > **[0:29](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=29)** Tools like Comet and DVC can help version and track changes in data. Experiment tracking and management; this ensures reproducibility of model results and simplifies model evaluation across various training runs.
 >
-> **[0:45](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=45)** Tools like MLflow and Comet provide robust experiment tracking capabilities. Model monitoring and performance evaluation; this is crucial as models can deteriorate rapidly in production.
+> **[0:45](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=45)** Tools like [[MLflow]] and Comet provide robust experiment tracking capabilities. Model monitoring and performance evaluation; this is crucial as models can deteriorate rapidly in production.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=60)** Implementing tools like Aporia or Comet can help monitor and maintain model performance.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=68)** We covered leveraging AutoML and automation to enhance scalability and streamline the machine learning workflow.
+> **[1:08](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=68)** We covered leveraging AutoML and automation to enhance [[Scalability]] and streamline the machine learning workflow.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=76)** AutoML libraries and CI/CD pipelines are essential for efficient model development and getting to real-world impact.
 >
@@ -1084,9 +1068,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=103)** Successful model deployment requires considerations for latency, scalability, and cost.
 >
-> **[1:50](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=110)** Tools like Docker and Kubernetes facilitate efficient model serving in production.
+> **[1:50](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=110)** Tools like Docker and [[Kubernetes]] facilitate efficient model serving in production.
 >
-> **[1:57](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=117)** We talked about working with large language models and how managing prompts and organization is critical when using LLMs via APIs.
+> **[1:57](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=117)** We talked about working with [[Large Language Models (LLM)|large language models]] and how managing prompts and organization is critical when using LLMs via APIs.
 >
 > **[2:07](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980&t=127)** We went over how assessing the current skill sets of existing teams is essential for identifying gaps and upskilling needs.
 >
@@ -1102,14 +1086,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (4), management (2), [[Scalability]] (2), teams (2)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Scalability]] (2), [[MLflow]] (1), [[Kubernetes]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** dvc (1), shap (1), lime (1)
 > **Cross-References:** we talked about (2), we covered (1)
 > **CLI Commands:** cd (1), docker (1)
 > **Definitions:** is a  (1)
 
-#### Actionable insights for implementing best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980)
+#### [Actionable insights for implementing best practices](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1137,7 +1120,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980&t=96)** That's why this suggestion comes next.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980&t=99)** Choose a suitable experiment tracking tool like MLflow or Comet to ensure reproducibility.
+> **[1:39](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980&t=99)** Choose a suitable experiment tracking tool like [[MLflow]] or Comet to ensure reproducibility.
 >
 > **[1:46](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980&t=106)** With either tool, an individual data scientist can get started for free.
 >
@@ -1155,13 +1138,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980&t=147)** DVC is also an open-source tool. Although all of the topics we've touched on in this course are important, the topics above you can start playing with today, even if your data isn't fully integrated and you're just leveraging the free version of the tool.
 >
-> **[2:43](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980&t=163)** And hey, let's stay connected on LinkedIn. From my website, [datamovesme.com](https://datamovesme.com), you can find my latest podcast episodes, articles, and interesting projects in the field.
+> **[2:43](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980&t=163)** And hey, let's stay connected on [[LinkedIn]]. From my website, [datamovesme.com](https://datamovesme.com), you can find my latest podcast episodes, articles, and interesting projects in the field.
 >
-> **[2:55](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980&t=175)** Identify the best upskilling opportunities for your data science team as you endeavor to build great things.
+> **[2:55](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/actionable-insights-for-implementing-best-practices?u=76281980&t=175)** Identify the best upskilling opportunities for your [[Data Science]] team as you endeavor to build great things.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), open-source (3), next (3), [[MLflow]] (2), ai (1)
+> **Frameworks & Libraries:** [[MLflow]] (2), [[LinkedIn]] (1)
 > **Env Vars:** lime (2), shap (2), dvc (2), h2o (1)
 > **CLI Commands:** find (4)
 > **URLs:** [h2o.ai](https://h2o.ai) (1), [datamovesme.com](https://datamovesme.com) (1)

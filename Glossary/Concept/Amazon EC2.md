@@ -48,7 +48,7 @@ created: 2026-05-02
 > 13. [[Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS]] — 23 mentions
 > 14. [[Terraform- Managing Network Infrastructure]] — 17 mentions
 > 15. [[Learning Terraform]] — 13 mentions
-> 16. [[Software Design- From Requirements to Release]] — 10 mentions
+> 16. [[Software Design- From Requirements to Release]] — 11 mentions
 > 17. [[Ethical Hacking- Cloud Computing]] — 9 mentions
 > 18. [[DevOps Foundations- Infrastructure as Code]] — 9 mentions
 > 19. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 9 mentions

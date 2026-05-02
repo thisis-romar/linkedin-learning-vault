@@ -74,18 +74,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building secure and efficient GitHub workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980)
+#### [Building secure and efficient GitHub workflows](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980&t=1)** Welcome to building secure and efficient GitHub Workflows.
+> **[0:01](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980&t=1)** Welcome to building secure and efficient [[GitHub]] Workflows.
 >
 > **[0:05](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980&t=5)** This is the introduction to the course. First up, my name is Noah Gift and I'm going to be your instructor.
 >
 > **[0:13](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980&t=13)** I have a background as a Duke Executive in Residence.
 >
-> **[0:17](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980&t=17)** This means that I teach cloud computing, data engineering, machine learning operations, and I'm also the author of ten technical books.
+> **[0:17](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980&t=17)** This means that I teach [[Cloud Computing]], [[Data Engineering]], machine learning operations, and I'm also the author of ten technical books.
 >
 > **[0:25](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980&t=25)** So you're in great hands for this course.
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Security]] (3), cloud (1), [[Data Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Cloud Computing]] (1), [[Data Engineering]] (1)
 > **Tools:** github (3)
 > **Definitions:** means that (2)
 
@@ -118,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to authentication and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980)
+#### [Introduction to authentication and security](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=12)** First, we have the user interface layer.
 >
-> **[0:15](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=15)** The idea here is that this is the topmost layer that a user interacts with. In the context of a platform like GitHub, it could include both the web interface and the command line interface as well.
+> **[0:15](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=15)** The idea here is that this is the topmost layer that a user interacts with. In the context of a platform like [[GitHub]], it could include both the web interface and the command line interface as well.
 >
 > **[0:29](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=29)** You could think about how proper authentication starts even before a user would make a critical operation.
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=39)** Now next, we have the API endpoint and service, and this layer is responsible for handling the HTTP request made from the UI.
 >
-> **[0:48](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=48)** At this point, it's the API tokens or the SSH key that are verified.
+> **[0:48](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=48)** At this point, it's the API [[Tokens]] or the SSH key that are verified.
 >
 > **[0:54](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=54)** So this is where you would authenticate, for example, if you're using GitHub to clone a repo.
 >
@@ -155,11 +153,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=113)** So in this case, what you're doing is you're adding another layer of security so that, for example, if there was some kind of middleman attack where there's a hijacked request, they also wouldn't be able to log in because there's a separate physical device that's necessary for that authentication to occur.
 >
-> **[2:13](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=133)** And in terms of backend data storage, this is where a user would provide credentials and their permissions are stored.
+> **[2:13](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=133)** And in terms of backend [[Data Storage]], this is where a user would provide credentials and their permissions are stored.
 >
 > **[2:21](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=141)** And this could be, let's say, a database, a distributed ledger.
 >
-> **[2:24](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=144)** It could be a version control system, depends on the architecture of the system.
+> **[2:24](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=144)** It could be a [[Version Control]] system, depends on the architecture of the system.
 >
 > **[2:30](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980&t=150)** But in this case, you would need strong encryption to make sure that this data is safeguarded because it's sensitive data.
 >
@@ -181,19 +179,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), data (5), api (3), [[GitHub]] (2), next (2)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Tokens]] (1), [[Data Storage]] (1), [[Version Control]] (1)
 > **Env Vars:** api (3), http (1), ssh (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2), ssh (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (1)
 
-#### Securing account with 2FA
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/securing-account-with-2fa?u=76281980)
+#### [Securing account with 2FA](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/securing-account-with-2fa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/securing-account-with-2fa?u=76281980&t=8)** Securing GitHub account with two-factor authentication is a critical workflow for the enterprise because you can ensure that you're going to have the security best practices enabled.
+> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/securing-account-with-2fa?u=76281980&t=8)** Securing [[GitHub]] account with two-factor authentication is a critical workflow for the enterprise because you can ensure that you're going to have the security best practices enabled.
 >
 > **[0:21](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/securing-account-with-2fa?u=76281980&t=21)** Why would you want to do two-factor authentication?
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), next (5), [[GitHub]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Prerequisites:** set up (5), configure (1)
 > **Env Vars:** sms (2), totp (1)
 > **Tools:** github (3)
@@ -252,12 +249,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 
-#### Understanding access permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-access-permissions?u=76281980)
+#### [Understanding access permissions](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-access-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-access-permissions?u=76281980&t=8)** Here we have Access Permissions and Roles for GitHub.
+> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-access-permissions?u=76281980&t=8)** Here we have Access Permissions and Roles for [[GitHub]].
 >
 > **[0:12](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-access-permissions?u=76281980&t=12)** There are several different ways to consider access permissions and roles.
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-access-permissions?u=76281980&t=203)** So it gives you the level of control that's necessary for a large organization.
 >
-> **[3:28](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-access-permissions?u=76281980&t=208)** You can also have billing and usage, user licenses, for example, to get access to things like generative AI, coding assistance, or GitHub actions for building services, the compute hours, or GitHub code spaces.
+> **[3:28](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-access-permissions?u=76281980&t=208)** You can also have billing and usage, user licenses, for example, to get access to things like [[Generative AI]], coding assistance, or GitHub actions for building services, the compute hours, or GitHub code spaces.
 >
 > **[3:44](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-access-permissions?u=76281980&t=224)** So it's important to think about the different levels of access, what are the permissions that are associated with it, and then what are the roles that make sense given a particular type of account?
 >
@@ -329,20 +325,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), teams (2), next (1), management (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Generative AI]] (1)
 > **Tools:** github (5)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 
-#### Enterprise Managed Users (EMUs) explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980)
+#### [Enterprise Managed Users (EMUs) explained](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=8)** Enterprise-managed users allow you to control the user accounts of your enterprise users.
 >
-> **[0:14](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=14)** If you have this license service from GitHub, your identity provider as well, which is an IdP, is a mechanism that you can use throughout the GitHub enterprise managed user application.
+> **[0:14](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=14)** If you have this license service from [[GitHub]], your identity provider as well, which is an IdP, is a mechanism that you can use throughout the GitHub enterprise managed user application.
 >
 > **[0:29](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=29)** So you can use this IdP to provision new user accounts and you can also control usernames, profile data, team memberships, and repository access as well.
 >
@@ -352,15 +347,15 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=57)** If we look at the user portal, this would be where you would log in as an EMU to do a self-service or update a profile and also access allocated resources.
 >
-> **[1:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=68)** If we go into the authentication and authorization layer here, we can see that the Identity Provider, IdP, serves as the secure vault of the user identities and it ensures reliable and secure authentication.
+> **[1:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=68)** If we go into the authentication and authorization layer here, we can see that the Identity Provider, IdP, serves as the secure vault of the user identities and it ensures reliable and [[Secure Authentication]].
 >
-> **[1:24](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=84)** So it works with several different providers: Azure Active Directory, Okta, PingFederate.
+> **[1:24](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=84)** So it works with several different providers: [[Microsoft Entra ID|Azure Active Directory]], Okta, PingFederate.
 >
 > **[1:31](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=91)** These are all different services that you can use.
 >
 > **[1:34](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=94)** And then in terms of access control, this implements a rule-based policy as well as a policy-driven permission to grant or restrict access.
 >
-> **[1:45](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=105)** If we get into the core services here, user management is a service that's responsible for CRUD.
+> **[1:45](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=105)** If we get into the core services here, [[User Management]] is a service that's responsible for CRUD.
 >
 > **[1:52](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enterprise-managed-users-emus-explained?u=76281980&t=112)** This would be create, read, update, delete, and operations on EMUs.
 >
@@ -382,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[GitHub]] (2), application (2), data (2), [[Secure Authentication]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Secure Authentication]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[User Management]] (1)
 > **Env Vars:** emu (2), crud (1), api (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** github (2)
@@ -393,12 +388,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to GitHub administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980)
+#### [Introduction to GitHub administration](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=8)** Here we have the GitHub interface and let's dive into some of the administrative features that you can use when you're looking at the console.
+> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=8)** Here we have the [[GitHub]] interface and let's dive into some of the administrative features that you can use when you're looking at the console.
 >
 > **[0:17](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=17)** First up, you have your profile.
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=70)** Now if we go down to projects, you can also administer projects.
 >
-> **[1:14](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=74)** You can also administer Codespaces.
+> **[1:14](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=74)** You can also administer [[Codespaces]].
 >
 > **[1:16](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=76)** Let's go ahead and take a look at that real quick.
 >
@@ -446,7 +440,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=130)** So the organization is a higher-level entity that is beyond just the reach of a single user, like an individual GitHub account, and it gives us more organizational control.
 >
-> **[2:22](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=142)** We also could go into the settings here and set up things like billing, for example, or repository roles, member privileges, moderation requests from users, et cetera, and even get into features like Copilot.
+> **[2:22](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=142)** We also could go into the settings here and set up things like billing, for example, or repository roles, member privileges, moderation requests from users, et cetera, and even get into features like [[Microsoft Copilot|Copilot]].
 >
 > **[2:38](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980&t=158)** For example, would we want to enable certain restrictions or features with Copilot?
 >
@@ -456,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), feature (2), [[Codespaces]] (2), [[Microsoft Copilot|Copilot]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (2), [[Microsoft Copilot|Copilot]] (2)
 > **Definitions:** is a  (4), is an  (1)
 > **Tools:** github (4)
 > **Env Vars:** readme (1), gpu (1), cpu (1)
@@ -465,12 +459,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), configure (1)
 > **Documentation:** the readme (1)
 
-#### Enabling and disabling features
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980)
+#### [Enabling and disabling features](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=8)** Here we have an enterprise account for GitHub and it shows us an overview of how you can manage and control features from a hierarchical perspective.
+> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=8)** Here we have an enterprise account for [[GitHub]] and it shows us an overview of how you can manage and control features from a hierarchical perspective.
 >
 > **[0:18](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=18)** First up, inside of this structure, we have the ability to control not just one but multiple organizations in one main interface.
 >
@@ -484,7 +477,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=55)** We also could enable or disable features by selecting them.
 >
-> **[0:59](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=59)** So let's go ahead and take a look at something that is a beta feature here, which is Codespaces.
+> **[0:59](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=59)** So let's go ahead and take a look at something that is a beta feature here, which is [[Codespaces]].
 >
 > **[1:04](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=64)** And in Codespaces, I can set up a billing limit if I wanted to, for my organization.
 >
@@ -494,13 +487,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=86)** So this is currently enabled for all organizations, but we could specify, for example, a specific organization or we could disable. We could disable this feature so that nobody could use Codespaces.
 >
-> **[1:39](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=99)** Another thing that we could do as well is we could select Copilot.
+> **[1:39](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=99)** Another thing that we could do as well is we could select [[Microsoft Copilot|Copilot]].
 >
 > **[1:43](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=103)** Now, Copilot as well has policies.
 >
 > **[1:45](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=105)** For example, we could allow or block certain suggestions based on rules that we set up.
 >
-> **[1:52](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=112)** We also could enable other sub-features like GitHub Copilot Chat.
+> **[1:52](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=112)** We also could enable other sub-features like [[GitHub Copilot]] Chat.
 >
 > **[1:58](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/enabling-and-disabling-features?u=76281980&t=118)** In this case, we can see enabled, disabled, et cetera.
 >
@@ -520,19 +513,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (4), [[GitHub]] (3), [[Microsoft Copilot|Copilot]] (3), feature (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (4), [[GitHub]] (3), [[Microsoft Copilot|Copilot]] (3)
 > **Analogies:** for example (4)
 > **Prerequisites:** set up (3), configure (1)
 > **Tools:** github (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Repository permission levels explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-permission-levels-explained?u=76281980)
+#### [Repository permission levels explained](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-permission-levels-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-permission-levels-explained?u=76281980&t=8)** GitHub Repository Permission Levels can be divided into three main ways of thinking about the levels.
+> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-permission-levels-explained?u=76281980&t=8)** [[GitHub]] Repository Permission Levels can be divided into three main ways of thinking about the levels.
 >
 > **[0:15](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-permission-levels-explained?u=76281980&t=15)** First, we have no access.
 >
@@ -550,7 +542,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-permission-levels-explained?u=76281980&t=69)** And with this, that means you have write or even admin permissions to modify things like the administration of the repository itself.
 >
-> **[1:17](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-permission-levels-explained?u=76281980&t=77)** So this would be co-developers, project managers, or even DevOps people.
+> **[1:17](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-permission-levels-explained?u=76281980&t=77)** So this would be co-developers, project managers, or even [[DevOps]] people.
 >
 > **[1:21](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-permission-levels-explained?u=76281980&t=81)** So this corresponds now to the policies we see here below; repository creation, repository forking, the administration repository, or even repository outside contributors.
 >
@@ -572,19 +564,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Security]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[DevOps]] (1)
 > **Tools:** github (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 
-#### Setting repository visibility options
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/setting-repository-visibility-options?u=76281980)
+#### [Setting repository visibility options](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/setting-repository-visibility-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/setting-repository-visibility-options?u=76281980&t=8)** GitHub Repository Visibility Levels play an important role in the security of both an individual and an organization.
+> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/setting-repository-visibility-options?u=76281980&t=8)** [[GitHub]] Repository Visibility Levels play an important role in the security of both an individual and an organization.
 >
 > **[0:17](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/setting-repository-visibility-options?u=76281980&t=17)** Let's go ahead and take a look at the three levels here.
 >
@@ -658,7 +649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[GitHub]] (2), next (1), data (1), management (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Definitions:** means that (3), is a  (2)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
@@ -666,12 +657,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 
-#### Repository privacy settings and options
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-privacy-settings-and-options?u=76281980)
+#### [Repository privacy settings and options](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-privacy-settings-and-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-privacy-settings-and-options?u=76281980&t=8)** Let's take a look at it from an enterprise-level all the way down to a repository level, privacy settings for our repository.
+> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-privacy-settings-and-options?u=76281980&t=8)** Let's take a look at it from an enterprise-level all the way down to a repository level, [[Privacy]] settings for our repository.
 >
 > **[0:17](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/repository-privacy-settings-and-options?u=76281980&t=17)** First up, if we go over to policies here, here is where we could go into setting the enterprise-level repository visibility policies.
 >
@@ -725,8 +715,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### Features and options in the security tab
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/features-and-options-in-the-security-tab?u=76281980)
+#### [Features and options in the security tab](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/features-and-options-in-the-security-tab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,7 +761,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/features-and-options-in-the-security-tab?u=76281980&t=143)** You also could use these deploy keys for read-only or write-only access.
 >
-> **[2:28](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/features-and-options-in-the-security-tab?u=76281980&t=148)** So deploy keys are a more secure alternative to using personal access tokens, which can give two broad of access.
+> **[2:28](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/features-and-options-in-the-security-tab?u=76281980&t=148)** So deploy keys are a more secure alternative to using personal access [[Tokens]], which can give two broad of access.
 >
 > **[2:36](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/features-and-options-in-the-security-tab?u=76281980&t=156)** So that's really the reason for the deploy keys.
 >
@@ -782,7 +771,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/features-and-options-in-the-security-tab?u=76281980&t=187)** Next up, we have the secrets Codespace secret.
 >
-> **[3:12](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/features-and-options-in-the-security-tab?u=76281980&t=192)** And what this does is that it allows you to use Codespaces secrets inside of a development environment so that, lets say, your API access to Azure or AWS is automatic and this can also be managed from this location.
+> **[3:12](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/features-and-options-in-the-security-tab?u=76281980&t=192)** And what this does is that it allows you to use [[Codespaces]] secrets inside of a development environment so that, lets say, your API access to [[Microsoft Azure|Azure]] or AWS is automatic and this can also be managed from this location.
 >
 > **[3:27](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/features-and-options-in-the-security-tab?u=76281980&t=207)** Finally, again, the dependabot secrets can also be configured here as well.
 >
@@ -790,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), next (4), feature (3), api (2), ci (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Codespaces]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (1), ssh (1), cd (1), aws (1)
 > **Env Vars:** api (2), ssh (1), aws (1)
@@ -798,8 +787,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 
-#### Understanding repository insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-repository-insights?u=76281980)
+#### [Understanding repository insights](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-repository-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -809,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-repository-insights?u=76281980&t=16)** Why do you care about Insights?
 >
-> **[0:18](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-repository-insights?u=76281980&t=18)** Well, they're a dashboard that provide a range of metrics and data visualizations about your GitHub repository.
+> **[0:18](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-repository-insights?u=76281980&t=18)** Well, they're a dashboard that provide a range of metrics and data visualizations about your [[GitHub]] repository.
 >
 > **[0:26](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-repository-insights?u=76281980&t=26)** This includes things like what can you do to be more efficient, effective, or have a more collaborative environment.
 >
@@ -835,24 +823,23 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-repository-insights?u=76281980&t=85)** Now, in this case, we also can look at where members are getting the work done.
 >
-> **[1:30](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-repository-insights?u=76281980&t=90)** So for your organization, do you need to hire new people that are working on bugs, for example, or hire more people on code review or hire more people to develop the software or hire more people to be managing the pull requests.
+> **[1:30](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-repository-insights?u=76281980&t=90)** So for your organization, do you need to hire new people that are working on bugs, for example, or hire more people on [[Code Review]] or hire more people to develop the software or hire more people to be managing the pull requests.
 >
 > **[1:44](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/understanding-repository-insights?u=76281980&t=104)** Right. This is a good overview of exactly what's happening in your organization and it allows you to make, really, organizational changes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[GitHub]] (1), [[Engineering]] (1), open-source (1), [[Code Review]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Code Review]] (1)
 > **Analogies:** for example (3), picture (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 
-#### Managing collaborators in GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-collaborators-in-github?u=76281980)
+#### [Managing collaborators in GitHub](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-collaborators-in-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-collaborators-in-github?u=76281980&t=8)** Here we have the ability to invite collaborators in the official GitHub documentation.
+> **[0:08](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-collaborators-in-github?u=76281980&t=8)** Here we have the ability to invite collaborators in the official [[GitHub]] documentation.
 >
 > **[0:14](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-collaborators-in-github?u=76281980&t=14)** Notice how you would go to the settings in a project, manage access, and then invite these collaborators.
 >
@@ -899,8 +886,7 @@ created: 2026-05-02
 > **Warnings:** be aware (2)
 > **Best Practices:** recommended (1)
 
-#### Managing organization settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-organization-settings?u=76281980)
+#### [Managing organization settings](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-organization-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,7 +918,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-organization-settings?u=76281980&t=77)** So that's something to be aware of as well, is that any of these settings, for example, can be changed to make it at an organizational level that applies to multiple organizations.
 >
-> **[1:29](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-organization-settings?u=76281980&t=89)** If we go back here to this control though, and we go to this organizational settings, here we have an organizational settings page and you can see there's quite a few things that can be controlled from a GitHub organization.
+> **[1:29](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-organization-settings?u=76281980&t=89)** If we go back here to this control though, and we go to this organizational settings, here we have an organizational settings page and you can see there's quite a few things that can be controlled from a [[GitHub]] organization.
 >
 > **[1:45](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-organization-settings?u=76281980&t=105)** Let's walk through some of them.
 >
@@ -940,7 +926,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-organization-settings?u=76281980&t=111)** So if you are going to do something for a public open-source project, this would be important to fill out all of these details, including a picture so organization's impact could be shown from the identification of, let's say, the logo of a programming language.
 >
-> **[2:10](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-organization-settings?u=76281980&t=130)** Now if we look at features, you also can toggle, for example, insights. If you wanted to, in your your feature set here, you could also go through and look at the billing sections and you could see how much was being billed for GitHub actions, for packages, for storage, for Codespaces, for the LFS data as well, the large file data.
+> **[2:10](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-organization-settings?u=76281980&t=130)** Now if we look at features, you also can toggle, for example, insights. If you wanted to, in your your feature set here, you could also go through and look at the billing sections and you could see how much was being billed for GitHub actions, for packages, for storage, for [[Codespaces]], for the LFS data as well, the large file data.
 >
 > **[2:34](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/managing-organization-settings?u=76281980&t=154)** And you also can dive into repository rules, you can dive into these different roles here, read, triage, write, maintain, admin, so you could actually set a base role for a repository, member privileges.
 >
@@ -964,7 +950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (3), [[Security]] (3), feature (2), data (2)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (3)
 > **Tools:** github (3)
 > **UI Navigation:** go to (2), toggle (1)
 > **Analogies:** for example (2), picture (1)
@@ -973,8 +959,7 @@ created: 2026-05-02
 > **Env Vars:** lfs (1)
 > **Warnings:** be aware (1)
 
-#### Members, teams, and roles in a GitHub organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/members-teams-and-roles-in-a-github-organization?u=76281980)
+#### [Members, teams, and roles in a GitHub organization](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/members-teams-and-roles-in-a-github-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,13 +1021,13 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/members-teams-and-roles-in-a-github-organization?u=76281980&t=189)** And again, who are the enterprise owners here for whatever it is that you're building?
 >
-> **[3:13](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/members-teams-and-roles-in-a-github-organization?u=76281980&t=193)** So that's a quick overview of the teams and people structure of the GitHub organization.
+> **[3:13](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/members-teams-and-roles-in-a-github-organization?u=76281980&t=193)** So that's a quick overview of the teams and people structure of the [[GitHub]] organization.
 >
 > **[3:20](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/members-teams-and-roles-in-a-github-organization?u=76281980&t=200)** It's got all the features you need and it can really make your life easier when you do app messages for a particular team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), next (1), front-end (1), ux (1), management (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (5)
 > **Definitions:** means that (1), is a  (1)
@@ -1054,12 +1039,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps: Continuing your GitHub mastery journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980)
+#### [Next steps: Continuing your GitHub mastery journey](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980&t=1)** Building Secure and Efficient GitHub Workflows.
+> **[0:01](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980&t=1)** Building Secure and Efficient [[GitHub]] Workflows.
 >
 > **[0:04](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980&t=4)** We've reached the conclusion of this course.
 >
@@ -1071,7 +1055,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980&t=38)** We got into enabling and disabling features.
 >
-> **[0:42](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980&t=42)** Also, the visibility of repositories, which is a critical feature, and also talked about the options in the security tab, which can be a critical feature to make sure that you're doing appropriate security management for secrets.
+> **[0:42](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980&t=42)** Also, the visibility of repositories, which is a critical feature, and also talked about the options in the security tab, which can be a critical feature to make sure that you're doing appropriate [[Security Management]] for secrets.
 >
 > **[0:58](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980&t=58)** We got into repository insights as well as managing collaborators in GitHub.
 >
@@ -1095,7 +1079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), [[Security]] (5), feature (3), next (2), management (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Security Management]] (1)
 > **Tools:** github (7)
 > **Cross-References:** we covered (3)
 > **CLI Commands:** make (1)

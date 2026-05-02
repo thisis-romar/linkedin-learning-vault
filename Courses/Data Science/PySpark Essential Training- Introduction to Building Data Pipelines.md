@@ -102,16 +102,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980&t=0)** - If you've been wondering how to level up your data workflows and handle large datasets without running into memory issues or performance bottlenecks, this course is for you.
 >
-> **[0:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980&t=9)** Apache Spark has become one of the most widely used tools in data engineering, from startups to companies like Netflix and Amazon, because it's powerful and scalable.
+> **[0:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980&t=9)** [[Apache Spark]] has become one of the most widely used tools in [[Data Engineering]], from startups to companies like Netflix and Amazon, because it's powerful and scalable.
 >
-> **[0:19](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980&t=19)** PySpark allows you to access the capabilities of Apache Spark using Python.
+> **[0:19](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980&t=19)** [[PySpark]] allows you to access the capabilities of Apache Spark using [[Python (Programming Language)|Python]].
 >
 > **[0:24](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980&t=24)** Hi, I'm Sam Bail, and I've spent over a decade working in data analytics and data engineering.
 >
@@ -123,42 +122,40 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[PySpark]] (3), [[Apache Spark]] (2), [[Data Engineering]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[PySpark]] (3), [[Apache Spark]] (2), [[Data Engineering]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** apache (2), python (1)
 > **Speakers:** - if (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980&t=0)** - [Instructor] Before we dive into the course, here's what you'll need to know to hit the ground running.
 >
-> **[0:04](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980&t=4)** You should have a working knowledge of Python and be comfortable writing simple SQL queries.
+> **[0:04](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980&t=4)** You should have a working knowledge of [[Python (Programming Language)|Python]] and be comfortable writing simple [[SQL]] queries.
 >
-> **[0:10](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980&t=10)** If you've worked with Pandas or done any kind of data analysis in Python before, you'll be in good shape.
+> **[0:10](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980&t=10)** If you've worked with [[Pandas (Software)|Pandas]] or done any kind of data analysis in Python before, you'll be in good shape.
 >
-> **[0:16](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980&t=16)** And since we'll be using Google Colab, it helps if you've used Jupyter notebooks or even Colab before.
+> **[0:16](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980&t=16)** And since we'll be using [[Google]] Colab, it helps if you've used Jupyter notebooks or even Colab before.
 >
-> **[0:23](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980&t=23)** But don't worry, you don't need to have any experience with PySpark or big data tools.
+> **[0:23](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980&t=23)** But don't worry, you don't need to have any experience with [[PySpark]] or [[Big Data]] tools.
 >
 > **[0:27](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/course-pre-requisites?u=76281980&t=27)** We'll start from scratch.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), hit (1), [[SQL]] (1), [[Pandas (Software)|Pandas]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[SQL]] (1), [[Pandas (Software)|Pandas]] (1), [[Google]] (1), [[PySpark]] (1)
 > **Tools:** colab (2), jupyter (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** sql (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub repo
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-github-repo?u=76281980)
+#### [Using GitHub repo](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-github-repo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-github-repo?u=76281980&t=0)** - [Instructor] We also have some code for you in a GitHub repository, so you have a working version of all the exercises we go through in this course.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-github-repo?u=76281980&t=0)** - [Instructor] We also have some code for you in a [[GitHub]] repository, so you have a working version of all the exercises we go through in this course.
 >
 > **[0:08](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-github-repo?u=76281980&t=8)** I encourage you to try and write the code yourself to really deepen your learning experience, but it can be helpful to have the model code at hand.
 >
@@ -180,14 +177,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Apache Spark: The foundation of PySpark
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980)
+#### [Introduction to Apache Spark: The foundation of PySpark](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=0)** - [Instructor] Let's start with a quick overview of what PySpark is and what we can use it for.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=0)** - [Instructor] Let's start with a quick overview of what [[PySpark]] is and what we can use it for.
 >
-> **[0:05](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=5)** PySpark is based on Apache Spark, which is an open source analytics engine for large scale data processing.
+> **[0:05](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=5)** PySpark is based on [[Apache Spark]], which is an open source analytics engine for large scale [[Data Processing]].
 >
 > **[0:12](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=12)** Apache Spark was developed around 2009 and officially became an open source project of the Apache Software Foundation in 2013.
 >
@@ -203,7 +199,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=49)** The driver program coordinates the work and talks to the cluster manager, which assigns tasks to worker nodes.
 >
-> **[0:56](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=56)** Each worker runs an executor inside a Java virtual machine, the JVM, allowing Spark to process massive data sets in parallel.
+> **[0:56](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=56)** Each worker runs an executor inside a [[Java]] virtual machine, the JVM, allowing Spark to process massive data sets in parallel.
 >
 > **[1:06](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=66)** Now, does that mean that you need to have a cluster of machines available in order to use Apache Spark?
 >
@@ -211,9 +207,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=73)** Spark also works on a single machine, which means you can simply use your own computer for development and testing.
 >
-> **[1:20](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=80)** You might've heard of Hadoop MapReduce, and wondered how it compares to Spark.
+> **[1:20](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=80)** You might've heard of [[Hadoop]] MapReduce, and wondered how it compares to Spark.
 >
-> **[1:24](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=84)** Both are built for big data, but Spark is generally better for real-time processing because of its lower latency and higher fault tolerance.
+> **[1:24](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=84)** Both are built for [[Big Data]], but Spark is generally better for [[Real-Time]] processing because of its lower latency and higher fault tolerance.
 >
 > **[1:31](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980&t=91)** MapReduce, on the other hand, is more suited for batch jobs.
 >
@@ -221,19 +217,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Spark]] (3), data (3), [[PySpark]] (2), parallel (2), [[Hadoop]] (2)
+> **Frameworks & Libraries:** [[Apache Spark]] (3), [[PySpark]] (2), [[Hadoop]] (2), [[Data Processing]] (1), [[Java]] (1)
 > **CLI Commands:** apache (4), node (1), make (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Prerequisites:** setup (1), you need to have (1)
 > **Env Vars:** jvm (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Apache Spark ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980)
+#### [The Apache Spark ecosystem](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=0)** - [Instructor] Let's take a quick look at the different technologies that you might come across when you start working with Spark and PySpark.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=0)** - [Instructor] Let's take a quick look at the different technologies that you might come across when you start working with Spark and [[PySpark]].
 >
 > **[0:06](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=6)** There are lots of different components with similar names, so I want to make sure you can navigate them.
 >
@@ -241,15 +236,15 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=21)** Spark uses a concept called the resilient distributed dataset, RDD, which is a read-only multiset of data items that's distributed over a cluster of machines and maintained in a fault-tolerant way.
 >
-> **[0:35](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=35)** A dataframe in Spark is a higher-level abstraction on top of those RDDs that's optimized for structured data and tabular data processing.
+> **[0:35](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=35)** A dataframe in Spark is a higher-level abstraction on top of those RDDs that's optimized for structured data and tabular [[Data Processing]].
 >
-> **[0:43](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=43)** A dataframe is conceptually the same as a table in a relational database or a dataframe in Python.
+> **[0:43](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=43)** A dataframe is conceptually the same as a table in a relational database or a dataframe in [[Python (Programming Language)|Python]].
 >
-> **[0:50](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=50)** On top of Spark Core, we have Spark SQL.
+> **[0:50](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=50)** On top of Spark Core, we have Spark [[SQL]].
 >
-> **[0:53](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=53)** Spark SQL is a Spark module that allows you to query data both in RDDs and in external sources, such as relational databases.
+> **[0:53](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=53)** Spark SQL is a Spark module that allows you to query data both in RDDs and in external sources, such as [[Relational Databases]].
 >
-> **[1:02](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=62)** The Spark Dataset is a new interface that is only available through the Scala and Java API to Spark.
+> **[1:02](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=62)** The Spark Dataset is a new interface that is only available through the [[Scala]] and [[Java]] API to Spark.
 >
 > **[1:08](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=68)** A dataset combines the benefits of RDDs, such as strong typing, with the benefit of Spark SQL's optimized execution engine.
 >
@@ -263,37 +258,36 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=101)** First, Structured Streaming, which is a scalable and fault-tolerant stream processing engine built on the Spark SQL engine.
 >
-> **[1:48](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=108)** And second, the Machine Learning Library, or short, MLlib, is a library that contains machine learning algorithms and other functionality that makes practical machine learning in Spark scalable and easy.
+> **[1:48](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/the-apache-spark-ecosystem?u=76281980&t=108)** And second, the Machine Learning Library, or short, MLlib, is a library that contains machine learning [[Algorithms]] and other functionality that makes practical machine learning in Spark scalable and easy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (4), web (4), [[PySpark]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[PySpark]] (1), [[Data Processing]] (1), [[Python (Programming Language)|Python]] (1), [[Relational Databases]] (1)
 > **Definitions:** is a  (7), is called (1)
 > **Env Vars:** sql (4), rdd (1), api (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Spark vs. PySpark
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980)
+#### [Spark vs. PySpark](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=0)** - [Instructor] Now that we've introduced Apache Spark, let's take a closer look at PySpark and how it compares to Apache Spark.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=0)** - [Instructor] Now that we've introduced [[Apache Spark]], let's take a closer look at [[PySpark]] and how it compares to Apache Spark.
 >
-> **[0:07](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=7)** Apache Spark is written in the Scala programming language.
+> **[0:07](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=7)** Apache Spark is written in the [[Scala]] programming language.
 >
-> **[0:11](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=11)** Scala is a general purpose programming language built atop the Java virtual machine, the JVM.
+> **[0:11](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=11)** Scala is a general purpose programming language built atop the [[Java]] virtual machine, the JVM.
 >
-> **[0:17](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=17)** PySpark is a Python API for Spark, so that programmers can use the Spark capabilities from within a Python environment.
+> **[0:17](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=17)** PySpark is a [[Python (Programming Language)|Python]] API for Spark, so that programmers can use the Spark capabilities from within a Python environment.
 >
-> **[0:25](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=25)** This means that with PySpark, you can efficiently process data using Python and SQL, which makes it suitable for many data engineering teams that already use Python and SQL in their data pipelines.
+> **[0:25](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=25)** This means that with PySpark, you can efficiently process data using Python and [[SQL]], which makes it suitable for many [[Data Engineering]] teams that already use Python and SQL in their [[Data Pipelines]].
 >
-> **[0:37](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=37)** You might have heard of Pandas, or maybe you're already using it.
+> **[0:37](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=37)** You might have heard of [[Pandas (Software)|Pandas]], or maybe you're already using it.
 >
 > **[0:40](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=40)** PySpark has similar capabilities to Pandas, but it's much more suited for large data sets that benefit from distributed and parallel computation.
 >
-> **[0:49](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=49)** The main applications of PySpark are building data pipelines to transform your data, data analysis on large data sets, processing real-time streaming data, and machine learning.
+> **[0:49](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=49)** The main applications of PySpark are building data pipelines to transform your data, data analysis on large data sets, processing [[Real-Time]] streaming data, and machine learning.
 >
 > **[1:02](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/spark-vs-pyspark?u=76281980&t=62)** In addition to the execution engine, PySpark also provides an interactive shell that you can use for data analysis in your terminal.
 >
@@ -303,7 +297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[PySpark]] (8), [[Python (Programming Language)|Python]] (5), [[Apache Spark]] (3), [[Scala]] (2)
+> **Frameworks & Libraries:** [[PySpark]] (8), [[Python (Programming Language)|Python]] (5), [[Apache Spark]] (3), [[Scala]] (2), [[SQL]] (2)
 > **CLI Commands:** python (5), apache (3)
 > **Env Vars:** sql (2), jvm (1), api (1)
 > **Definitions:** is a  (2), means that (1)
@@ -315,18 +309,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Google Colab notebook setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980)
+#### [Google Colab notebook setup](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=0)** - [Instructor] One of the easiest ways to run PySpark code is in a Jupyter Notebook, but I don't want you to waste any time troubleshooting a local setup.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=0)** - [Instructor] One of the easiest ways to run [[PySpark]] code is in a Jupyter Notebook, but I don't want you to waste any time troubleshooting a local setup.
 >
 > **[0:08](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=8)** That's why for the purpose of this course, we're going to use a cloud-based development environment to make sure that we all use the same setup, regardless of operating system.
 >
-> **[0:18](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=18)** Let's walk through a setup on how to run PySpark in a Google Colab Notebook.
+> **[0:18](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=18)** Let's walk through a setup on how to run PySpark in a [[Google]] Colab Notebook.
 >
-> **[0:24](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=24)** Google Colab is a cloud-based notebook environment that functions like a Jupyter Notebook in the sandbox Python environment, so you don't have to worry about your local configuration.
+> **[0:24](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=24)** Google Colab is a cloud-based notebook environment that functions like a Jupyter Notebook in the sandbox [[Python (Programming Language)|Python]] environment, so you don't have to worry about your local configuration.
 >
 > **[0:34](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=34)** It's free and works in any browser.
 >
@@ -334,7 +327,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=40)** You probably already have one, but if you don't, go to accounts.[google.com](https://google.com) and follow the steps to sign up for a free account.
 >
-> **[0:47](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=47)** That way you can use all of Google's services such as Google Drive, Gmail, and Colab.
+> **[0:47](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=47)** That way you can use all of Google's services such as [[Google Drive]], Gmail, and Colab.
 >
 > **[0:53](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980&t=53)** To set up a Colab notebook, go to colab.research.[google.com](https://google.com) and make sure you're locked into your Google account.
 >
@@ -380,7 +373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PySpark]] (9), [[Google]] (8), cloud (2), [[Python (Programming Language)|Python]] (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (9), [[Google]] (8), [[Python (Programming Language)|Python]] (2), [[Google Drive]] (1)
 > **Tools:** colab (10), jupyter (4)
 > **Prerequisites:** setup (3), set up (2)
 > **CLI Commands:** make (2), python (2)
@@ -389,8 +382,7 @@ created: 2026-05-02
 > **Versions:** version 3 (1), 5.1 (1)
 > **UI Navigation:** go to (2)
 
-#### Downloading a dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980)
+#### [Downloading a dataset](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,9 +414,9 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=76)** Now we need to make sure that we can upload the data and access it from our Colab notebook.
 >
-> **[1:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=81)** First, let's upload the files to Google Drive.
+> **[1:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=81)** First, let's upload the files to [[Google Drive]].
 >
-> **[1:24](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=84)** Navigate to drive.[google.com](https://google.com) in a new web browser tab and make sure you logged into the same account as the tab with your Colab notebook.
+> **[1:24](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=84)** Navigate to drive.[[[Google]].com](https://google.com) in a new web browser tab and make sure you logged into the same account as the tab with your Colab notebook.
 >
 > **[1:33](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=93)** Create a new folder for your tutorial files.
 >
@@ -456,7 +448,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=216)** Execute it using the keyboard shortcut or the Play button.
 >
-> **[3:40](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=220)** This code imports the OS module from Python and runs a simple check whether the file exists using the isfile command.
+> **[3:40](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=220)** This code imports the OS module from [[Python (Programming Language)|Python]] and runs a simple check whether the file exists using the isfile command.
 >
 > **[3:49](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=229)** The output will be a true or false.
 >
@@ -468,11 +460,11 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=254)** You now have a fully working Colab set up that allows you to access files in Google Drive from your virtual environment.
 >
-> **[4:20](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=260)** You're ready to start with PySpark.
+> **[4:20](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/downloading-a-dataset?u=76281980&t=260)** You're ready to start with [[PySpark]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Google Drive]] (7), [[Google]] (2), [[Analytics]] (1), web (1)
+> **Frameworks & Libraries:** [[Google Drive]] (7), [[Google]] (2), [[Python (Programming Language)|Python]] (1), [[PySpark]] (1)
 > **CLI Commands:** make (7), python (1)
 > **Tools:** colab (7)
 > **UI Navigation:** go to (1), scroll down (1), click on (1), navigate to (1)
@@ -486,18 +478,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to PySpark DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980)
+#### [Introduction to PySpark DataFrames](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980&t=0)** - [Instructor] A data frame in Spark is a higher-level abstraction on top of resilient distributed data sets that's optimized for structured data and tabular data processing.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980&t=0)** - [Instructor] A data frame in Spark is a higher-level abstraction on top of resilient distributed data sets that's optimized for structured data and tabular [[Data Processing]].
 >
-> **[0:10](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980&t=10)** A data frame is conceptually the same as a table in a relational database or data frame in Python.
+> **[0:10](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980&t=10)** A data frame is conceptually the same as a table in a relational database or data frame in [[Python (Programming Language)|Python]].
 >
-> **[0:15](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980&t=15)** If you've used Pandas or R for data work before, you're already familiar with a concept of a data frame.
+> **[0:15](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980&t=15)** If you've used [[Pandas (Software)|Pandas]] or R for data work before, you're already familiar with a concept of a data frame.
 >
-> **[0:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980&t=21)** However, there are some key differences between data frames in Pandas and PySpark that I want to highlight.
+> **[0:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980&t=21)** However, there are some key differences between data frames in Pandas and [[PySpark]] that I want to highlight.
 >
 > **[0:27](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980&t=27)** Pandas data frames are designed for small to medium sized data sets as they're all held in memory on a single machine.
 >
@@ -531,26 +522,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Pandas (Software)|Pandas]] (6), [[PySpark]] (6), database (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[PySpark]] (6), [[Data Processing]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dag (3)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data formats and loading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980)
+#### [Data formats and loading data](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=0)** - [Instructor] Now that we've covered the basics of PySpark data frames, let's create a new one from our taxi data.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=0)** - [Instructor] Now that we've covered the basics of [[PySpark]] data frames, let's create a new one from our taxi data.
 >
-> **[0:06](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=6)** You can create a PySpark data frame by loading data from various sources, including data files such as CSV and Parquet files in local storage or in cloud storage, such as AWS S3 buckets, Google Cloud Storage, and Azure Blob Storage.
+> **[0:06](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=6)** You can create a PySpark data frame by loading data from various sources, including data files such as CSV and Parquet files in local storage or in [[Cloud Storage]], such as AWS S3 buckets, [[Google Cloud Platform (GCP)|Google Cloud]] Storage, and [[Microsoft Azure|Azure]] Blob Storage.
 >
 > **[0:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=21)** You can load it from a relational database, you can use tables in Hive, or resilient distributed datasets, RDDs, in Spark.
 >
 > **[0:31](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=31)** The example dataset that we downloaded earlier was in the Parquet format, but PySpark can support many different formats.
 >
-> **[0:38](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=38)** These include CSV, JSON, ORC, and Avro.
+> **[0:38](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=38)** These include CSV, [[JSON]], ORC, and Avro.
 >
 > **[0:43](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=43)** The main difference between these file types is the compression and how they handle schemas, but for all purposes, we can use them all in a similar way.
 >
@@ -560,9 +550,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=60)** Open your Colab notebook and type the following import statement.
 >
-> **[1:08](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=68)** This imports the SparkSession package, which provides a unified entry point for accessing Spark features through Python.
+> **[1:08](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=68)** This imports the SparkSession package, which provides a unified entry point for accessing Spark features through [[Python (Programming Language)|Python]].
 >
-> **[1:15](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=75)** Next, we'll create a SparkSession object called Spark and print its metadata.
+> **[1:15](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=75)** Next, we'll create a SparkSession object called Spark and print its [[Metadata]].
 >
 > **[1:30](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/data-formats-and-loading-data?u=76281980&t=90)** Once you run the setup code in your Colab notebook, you should see some metadata output, including the Spark version.
 >
@@ -584,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[PySpark]] (6), database (2), [[Metadata]] (2), cloud (1)
+> **Frameworks & Libraries:** [[PySpark]] (6), [[Metadata]] (2), [[Cloud Storage]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** csv (2), aws (1), json (1), orc (1)
 > **Tools:** colab (4)
 > **CLI Commands:** aws (1), python (1)
@@ -592,8 +582,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (2)
 > **Speakers:** - [instructor] (1)
 
-#### Schema and data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/schema-and-data-types?u=76281980)
+#### [Schema and data types](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/schema-and-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,7 +620,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/schema-and-data-types?u=76281980&t=118)** We'll talk about how to modify your DataFrame later.
 >
-> **[2:02](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/schema-and-data-types?u=76281980&t=122)** Finally, if you want to dig a little deeper into your DataFrame and get some descriptive statistics, you can use the describe function.
+> **[2:02](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/schema-and-data-types?u=76281980&t=122)** Finally, if you want to dig a little deeper into your DataFrame and get some descriptive [[Statistics]], you can use the describe function.
 >
 > **[2:10](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/schema-and-data-types?u=76281980&t=130)** describe gives you the number of rows containing data as well as the min, max, mean, and standard deviation of the field.
 >
@@ -645,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Statistics]] (3), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **Code Identifiers:** printschema (1), pickup_datetime (1), passenger_count (1), total_amount (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -654,8 +643,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic querying (select, filter, and sort)
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980)
+#### [Basic querying (select, filter, and sort)](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,7 +651,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=6)** Let's start with something simple and access some columns in our DataFrame.
 >
-> **[0:10](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=10)** Just like a table in a database, a PySpark DataFrame has columns and rows.
+> **[0:10](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=10)** Just like a table in a database, a [[PySpark]] DataFrame has columns and rows.
 >
 > **[0:15](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=15)** In PySpark, you can access a column using several different notations.
 >
@@ -675,11 +663,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=34)** Personally, I prefer a more explicit index syntax using square brackets.
 >
-> **[0:40](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=40)** If you're familiar with pandas, you've probably used this notation a lot.
+> **[0:40](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=40)** If you're familiar with [[Pandas (Software)|pandas]], you've probably used this notation a lot.
 >
 > **[0:44](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=44)** In PySpark, it is also common to use the select function on a DataFrame to access a column.
 >
-> **[0:50](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=50)** This works just like a SELECT statement in SQL.
+> **[0:50](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=50)** This works just like a SELECT statement in [[SQL]].
 >
 > **[0:54](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/basic-querying-select-filter-sort?u=76281980&t=54)** Okay, let's try the last one in our notebook.
 >
@@ -757,7 +745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PySpark]] (6), data (4), [[SQL]] (4), database (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (6), [[SQL]] (4), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** sql (4), select (1), order (1), where (1)
 > **Code Identifiers:** passenger_count (3), total_amount (3)
 > **SQL:** select (1), order by (1), where (1)
@@ -766,8 +754,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
 
-#### Challenge: Querying a DataFrame
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-querying-a-data-frame?u=76281980)
+#### [Challenge: Querying a DataFrame](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-querying-a-data-frame?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,7 +772,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Tools:** colab (1)
@@ -793,8 +779,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Querying a DataFrame
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-querying-a-data-frame?u=76281980)
+#### [Solution: Querying a DataFrame](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-querying-a-data-frame?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -812,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-querying-a-data-frame?u=76281980&t=39)** Should we write the filter first or the select?
 >
-> **[0:42](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-querying-a-data-frame?u=76281980&t=42)** Remember that PySpark uses a method called lazy evaluation.
+> **[0:42](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-querying-a-data-frame?u=76281980&t=42)** Remember that [[PySpark]] uses a method called lazy evaluation.
 >
 > **[0:46](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-querying-a-data-frame?u=76281980&t=46)** That means it parses out all the transformation first, and then it decides the best order to actually execute them.
 >
@@ -820,7 +805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[PySpark]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -830,8 +815,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/handling-missing-data?u=76281980)
+#### [Handling missing data](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/handling-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,7 +827,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/handling-missing-data?u=76281980&t=19)** Let's take a look at our taxi data set and see if we have any missing data in some of the key fields that we're working with.
 >
-> **[0:26](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/handling-missing-data?u=76281980&t=26)** First of all, we want to import some additional functions from Pyspark that can help us with this.
+> **[0:26](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/handling-missing-data?u=76281980&t=26)** First of all, we want to import some additional functions from [[PySpark]] that can help us with this.
 >
 > **[0:32](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/handling-missing-data?u=76281980&t=32)** Type the following into a new cell in your call app notebook and execute it.
 >
@@ -893,14 +877,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[PySpark]] (2), next (1)
+> **Frameworks & Libraries:** [[PySpark]] (2)
 > **Analogies:** for example (1), just like (1)
 > **Env Vars:** df1 (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating new columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/creating-new-columns?u=76281980)
+#### [Creating new columns](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/creating-new-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,21 +935,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unions and joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980)
+#### [Unions and joins](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=0)** - [Instructor] If you've used SQL before, you're likely familiar with the concept of a union and a join.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=0)** - [Instructor] If you've used [[SQL]] before, you're likely familiar with the concept of a union and a join.
 >
 > **[0:06](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=6)** A union combines two data frames with the same columns by appending rows.
 >
 > **[0:11](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=11)** A join adds columns from one data frame to another based on a matching condition.
 >
-> **[0:16](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=16)** Let's try this out in PySpark.
+> **[0:16](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=16)** Let's try this out in [[PySpark]].
 >
 > **[0:18](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=18)** So far, we've only loaded the taxi ride data from January 2025.
 >
@@ -1004,7 +985,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=133)** To find out which boroughs in New York City those numbers refer to, we'll join the trip data with a lookup table that maps location IDs to boroughs and neighborhoods in New York City.
 >
-> **[2:26](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=146)** Let's load that lookup table from our Google Drive into a new data frame.
+> **[2:26](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=146)** Let's load that lookup table from our [[Google Drive]] into a new data frame.
 >
 > **[2:30](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/unions-and-joins?u=76281980&t=150)** This time we have to use the CSV load method.
 >
@@ -1030,7 +1011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[PySpark]] (4), [[SQL]] (3), next (1), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (4), [[SQL]] (3), [[Google Drive]] (1)
 > **Env Vars:** sql (3), csv (3)
 > **Non-Speech:** (mouse clicking) (6)
 > **Code Identifiers:** df_feb (1), df_joined (1), taxi_zone_lookup (1)
@@ -1039,8 +1020,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregating
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/aggregating?u=76281980)
+#### [Aggregating](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/aggregating?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,7 +1028,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/aggregating?u=76281980&t=5)** For example, how often do customers pay with different payment methods, and what's the average fare for our rides, and how does it differ by payment method?
 >
-> **[0:13](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/aggregating?u=76281980&t=13)** Aggregate functions in PySpark let you compute values across an entire data frame, such as the count, sum, min, max, average, and the standard deviation.
+> **[0:13](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/aggregating?u=76281980&t=13)** Aggregate functions in [[PySpark]] let you compute values across an entire data frame, such as the count, sum, min, max, average, and the standard deviation.
 >
 > **[0:24](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/aggregating?u=76281980&t=24)** This is how we construct an aggregate.
 >
@@ -1108,20 +1088,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[PySpark]] (4), next (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (4)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980)
+#### [Writing data](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=0)** - [Instructor] Until now, we've only worked with data frames in memory in our notebook, but in a real-world application, we usually want to write some data back into a database or a file to have a permanent record of it.
 >
-> **[0:12](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=12)** Writing data to a file is pretty straightforward in PySpark as the dataframe class already has a write method we can use.
+> **[0:12](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=12)** Writing data to a file is pretty straightforward in [[PySpark]] as the dataframe class already has a write method we can use.
 >
 > **[0:19](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=19)** Let's create a new output file with the results of a group-by calculation.
 >
@@ -1135,7 +1114,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=51)** Include a header row, and if necessary, override any existing files.
 >
-> **[0:57](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=57)** You can check the output of this statement directly from your Google call app UI.
+> **[0:57](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=57)** You can check the output of this statement directly from your [[Google]] call app UI.
 >
 > **[1:02](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=62)** On the left-hand side in your call app window, navigate to the bottom icon that looks like a folder.
 >
@@ -1147,7 +1126,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=87)** By default, PySpark creates one output file per partition of your data.
 >
-> **[1:33](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=93)** This is one of the main differences between how PySpark handles data and how Pandas handles data.
+> **[1:33](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=93)** This is one of the main differences between how PySpark handles data and how [[Pandas (Software)|Pandas]] handles data.
 >
 > **[1:39](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/writing-data?u=76281980&t=99)** PySpark always assumes that your data will be distributed.
 >
@@ -1155,13 +1134,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[PySpark]] (7), database (2), application (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (7), [[Google]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (3)
 > **UI Navigation:** navigate to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Essential data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-essential-data-manipulation?u=76281980)
+#### [Challenge: Essential data manipulation](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-essential-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,7 +1147,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-essential-data-manipulation?u=76281980&t=5)** - [Instructor] Okay, it's your turn now to try this hands-on.
 >
-> **[0:08](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-essential-data-manipulation?u=76281980&t=8)** Write some PySpark code that does some data cleansing and apply several of the methods you've learned before.
+> **[0:08](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-essential-data-manipulation?u=76281980&t=8)** Write some [[PySpark]] code that does some data cleansing and apply several of the methods you've learned before.
 >
 > **[0:14](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-essential-data-manipulation?u=76281980&t=14)** Step one, create two new dataframes called df_jan_2025 and df_feb_2025 from the corresponding data files.
 >
@@ -1197,7 +1175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[PySpark]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (1)
 > **Code Identifiers:** taxi_zones (2), tpep_pickup_datetime (1), pu_datetime (1), taxi_zone_lookup (1), do_location_id (1)
 > **File Paths:** taxi_zone_lookup.csv (1)
 > **UI Navigation:** select the (1)
@@ -1205,8 +1183,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Essential data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-essential-data-manipulation?u=76281980)
+#### [Solution: Essential data manipulation](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-essential-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1232,7 +1209,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Speakers:** - [instructor] (1)
 
 
@@ -1240,16 +1216,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is PySpark SQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980)
+#### [What is PySpark SQL?](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980&t=0)** - [Instructor] Until now, we've mostly used the DataFrame API in PySpark to query our dataframes.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980&t=0)** - [Instructor] Until now, we've mostly used the DataFrame API in [[PySpark]] to query our dataframes.
 >
-> **[0:06](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980&t=6)** The API is great, but some of us might feel a lot more confident using SQL to write complex queries for data analysis.
+> **[0:06](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980&t=6)** The API is great, but some of us might feel a lot more confident using [[SQL]] to write complex queries for data analysis.
 >
-> **[0:14](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980&t=14)** Luckily, PySpark comes with a PySpark SQL module that allows you to use SQL syntax directly in your Python code.
+> **[0:14](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980&t=14)** Luckily, PySpark comes with a PySpark SQL module that allows you to use SQL syntax directly in your [[Python (Programming Language)|Python]] code.
 >
 > **[0:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980&t=21)** What makes PySpark SQL especially powerful is that it works seamlessly with dataframe operations.
 >
@@ -1263,19 +1238,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[PySpark]] (5), data (4), [[Python (Programming Language)|Python]] (3), api (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[PySpark]] (5), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** sql (6), api (2)
 > **CLI Commands:** python (3)
 > **UI Navigation:** switch to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating temporary views
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/creating-temporary-views?u=76281980)
+#### [Creating temporary views](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/creating-temporary-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/creating-temporary-views?u=76281980&t=0)** - [Trainer] In order to use PySpark SQL, we first need to create a temporary view from our data.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/creating-temporary-views?u=76281980&t=0)** - [Trainer] In order to use [[PySpark]] [[SQL]], we first need to create a temporary view from our data.
 >
 > **[0:06](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/creating-temporary-views?u=76281980&t=6)** That way, our Spark session has access to the data.
 >
@@ -1297,19 +1271,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (3), [[PySpark]] (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[PySpark]] (2)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [trainer] (1)
 
-#### Using SQL queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980)
+#### [Using SQL queries](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980&t=0)** - [Instructor] Now that we have a temporary view called Taxi in our Spark session, let's write some SQL to query it.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980&t=0)** - [Instructor] Now that we have a temporary view called Taxi in our Spark session, let's write some [[SQL]] to query it.
 >
 > **[0:06](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980&t=6)** We'll start with a simple select statement to find all rights where the total right amount is more than 50 US dollars.
 >
@@ -1331,9 +1304,9 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980&t=89)** And finally, it also uses the data frame API to select three relevant columns from the resulting data set and displays the resulting data frame using the show method.
 >
-> **[1:43](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980&t=103)** This is a great example of how you can mix and match different syntax style using pyspark SQL.
+> **[1:43](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980&t=103)** This is a great example of how you can mix and match different syntax style using [[PySpark]] SQL.
 >
-> **[1:48](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980&t=108)** Personally, I prefer to do the heavy lifting using SQL queries because I'm much more comfortable writing complex SQL than Python, and then I fine tune the results with Python.
+> **[1:48](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980&t=108)** Personally, I prefer to do the heavy lifting using SQL queries because I'm much more comfortable writing complex SQL than [[Python (Programming Language)|Python]], and then I fine tune the results with Python.
 >
 > **[1:59](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/using-sql-queries?u=76281980&t=119)** One last thing I want to share is how to format query strings in SQL inside Python code.
 >
@@ -1353,14 +1326,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (13), data (8), [[Python (Programming Language)|Python]] (4), api (2), [[PySpark]] (1)
+> **Frameworks & Libraries:** [[SQL]] (13), [[Python (Programming Language)|Python]] (4), [[PySpark]] (1)
 > **Env Vars:** sql (13), api (2)
 > **CLI Commands:** python (4), find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: PySpark SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-pyspark-sql?u=76281980)
+#### [Challenge: PySpark SQL](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-pyspark-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1374,7 +1346,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-pyspark-sql?u=76281980&t=35)** Step two: load the taxi zone lookup data into a dataframe called taxi_lookup and register a temporary view with the same name.
 >
-> **[0:45](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-pyspark-sql?u=76281980&t=45)** Step three: use PySpark SQL to left join those two tables on the DOLocation ID and the LocationID columns.
+> **[0:45](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-pyspark-sql?u=76281980&t=45)** Step three: use [[PySpark]] [[SQL]] to left join those two tables on the DOLocation ID and the LocationID columns.
 >
 > **[0:54](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/challenge-pyspark-sql?u=76281980&t=54)** Make sure to only select the DOLocationID, Borough and total_amount columns.
 >
@@ -1390,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[PySpark]] (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[PySpark]] (2), [[SQL]] (1)
 > **Code Identifiers:** total_amount (2), taxi_lookup (1), joined_df (1), avg_amount (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** make sure to (2)
@@ -1399,12 +1371,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [trainer] (1)
 
-#### Solution: PySpark SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-pyspark-sql?u=76281980)
+#### [Solution: PySpark SQL](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-pyspark-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-pyspark-sql?u=76281980&t=0)** - [Trainer] Here's my step-by-step solution for the PySpark SQL challenge.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-pyspark-sql?u=76281980&t=0)** - [Trainer] Here's my step-by-step solution for the [[PySpark]] [[SQL]] challenge.
 >
 > **[0:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/solution-pyspark-sql?u=76281980&t=9)** Step one: load the taxi write data and create a temporary view called taxi_jam2025.
 >
@@ -1426,7 +1397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (2), [[PySpark]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[PySpark]] (1)
 > **Env Vars:** sql (2), ewr (2)
 > **Code Identifiers:** taxi_lookup (1), joined_df (1)
 > **Speakers:** - [trainer] (1)
@@ -1437,24 +1408,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Production environment requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980)
+#### [Production environment requirements](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=0)** - [Instructor] Running a PySpark data pipeline in production typically means working with large volumes of data, often across multiple servers or cloud instances, and making sure the entire system is scalable, reliable, and secure.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=0)** - [Instructor] Running a [[PySpark]] data pipeline in production typically means working with large volumes of data, often across multiple servers or cloud instances, and making sure the entire system is scalable, reliable, and secure.
 >
-> **[0:14](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=14)** Unlike a local setup, production environments needs to handle failure gracefully, run jobs on a schedule, and support team collaboration.
+> **[0:14](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=14)** Unlike a local setup, production environments needs to handle failure gracefully, run jobs on a schedule, and support [[Team Collaboration]].
 >
 > **[0:23](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=23)** Here are some of the core components that you'll find in a typical PySpark production setup: Data sources: The most important part of any pipeline is the data itself.
 >
-> **[0:34](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=34)** You're likely pulling from various sources such as operational databases, for example from an e-commerce system, application logs, APIs, or flat files from vendors.
+> **[0:34](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=34)** You're likely pulling from various sources such as operational [[Databases]], for example from an [[E-Commerce]] system, application logs, APIs, or flat files from vendors.
 >
 > **[0:45](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=45)** To move that data into your storage layer, you might use data extraction tools like Fivetran, Airbyte, Kafka, AWS Kinesis, or custom scripts.
 >
 > **[0:55](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=55)** Distributed storage: Since you're working with large data sets, a single machine storage is not enough.
 >
-> **[1:02](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=62)** Production environments use distributed storage systems like HDFS, Amazon S3, or Google Cloud Storage.
+> **[1:02](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=62)** Production environments use distributed storage systems like HDFS, Amazon S3, or [[Google Cloud Platform (GCP)|Google Cloud]] Storage.
 >
 > **[1:10](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=70)** These systems can scale horizontally and offer high availability.
 >
@@ -1462,15 +1432,15 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=82)** You need a cluster manager to coordinate CPU, memory, and network usage across these machines.
 >
-> **[1:29](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=89)** Common cluster managers include YARN, which is often used in Hadoop environments; and Kubernetes, which runs Spark in isolated, scalable containers.
+> **[1:29](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=89)** Common cluster managers include YARN, which is often used in [[Hadoop]] environments; and [[Kubernetes]], which runs Spark in isolated, scalable containers.
 >
-> **[1:38](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=98)** Job scheduling: A PySpark job is simply a piece of Python code that uses the PySpark API to process data, exactly what we've been writing in this training.
+> **[1:38](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=98)** Job scheduling: A PySpark job is simply a piece of [[Python (Programming Language)|Python]] code that uses the PySpark API to process data, exactly what we've been writing in this training.
 >
 > **[1:48](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=108)** In production, jobs should run automatically instead of being started manually.
 >
 > **[1:53](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=113)** You might want to trigger jobs when new data arrives or run them at set intervals.
 >
-> **[1:58](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=118)** A tool like Apache Airflow is commonly used to schedule and coordinate PySpark jobs.
+> **[1:58](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=118)** A tool like [[Apache Airflow]] is commonly used to schedule and coordinate PySpark jobs.
 >
 > **[2:04](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=124)** Consistent environments: When working with a team, it's important to make sure code runs the same way in development, testing, and production.
 >
@@ -1480,7 +1450,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=150)** Tools like the Spark Web UI help you inspect what happened during a job.
 >
-> **[2:35](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=155)** Grafana dashboards and cloud-native tools like AWS CloudWatch let you track metrics and receive alerts when something fails.
+> **[2:35](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=155)** Grafana [[Dashboards]] and cloud-native tools like AWS CloudWatch let you track metrics and receive alerts when something fails.
 >
 > **[2:44](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980&t=164)** Security and access control: Security is essential in any production setup to prevent unauthorized access and data leaks.
 >
@@ -1496,7 +1466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[PySpark]] (7), [[Security]] (3), cloud (2), aws (2)
+> **Frameworks & Libraries:** [[PySpark]] (7), [[Python (Programming Language)|Python]] (2), [[Team Collaboration]] (1), [[Databases]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** aws (2), python (2), make (2), find (1), yarn (1)
 > **Env Vars:** aws (2), hdfs (1), cpu (1), yarn (1), api (1)
 > **Prerequisites:** setup (3)
@@ -1504,18 +1474,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example production environment setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980)
+#### [Example production environment setup](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=0)** - [Instructor] Okay, now that we have the basic requirements out of the way, let's look at a more concrete example of what running PySpark in production might look like.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=0)** - [Instructor] Okay, now that we have the basic requirements out of the way, let's look at a more concrete example of what running [[PySpark]] in production might look like.
 >
-> **[0:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=9)** For this example, I'm going to assume we're using Amazon Web Services, AWS, as our cloud provider.
+> **[0:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=9)** For this example, I'm going to assume we're using [[Amazon Web Services (AWS)|Amazon Web Services]], AWS, as our cloud provider.
 >
-> **[0:16](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=16)** In this setup, we're going to run Spark on a cluster of EC2 instances, and we'll use YARN as a cluster manager.
+> **[0:16](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=16)** In this setup, we're going to run Spark on a cluster of [[Amazon EC2|EC2]] instances, and we'll use YARN as a cluster manager.
 >
-> **[0:23](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=23)** That means you'll need to launch your own virtual machines using the EC2 service, install Spark and Hadoop, configure the nodes to talk to each other, and manage things like memory allocation and resource scheduling yourself.
+> **[0:23](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=23)** That means you'll need to launch your own [[Virtual Machines]] using the EC2 service, install Spark and [[Hadoop]], configure the nodes to talk to each other, and manage things like memory allocation and resource scheduling yourself.
 >
 > **[0:37](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=37)** For our distributed storage, we can simply use Amazon S3.
 >
@@ -1531,29 +1500,29 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=67)** Next, we need to run jobs automatically.
 >
-> **[1:11](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=71)** That's where a workflow scheduler like Apache Airflow comes in.
+> **[1:11](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=71)** That's where a workflow scheduler like [[Apache Airflow]] comes in.
 >
 > **[1:15](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=75)** Airflow is often used to run PySpark jobs on a schedule, say, once every hour or at midnight every day.
 >
-> **[1:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=81)** You define the pipelines to run in Python, and Airflow handles triggering them, tracking their status, retrying them if they fail, and even notifying your team if something goes wrong.
+> **[1:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=81)** You define the pipelines to run in [[Python (Programming Language)|Python]], and Airflow handles triggering them, tracking their status, retrying them if they fail, and even notifying your team if something goes wrong.
 >
-> **[1:32](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=92)** In AWS, Airflow can be self-hosted on EC2 or Kubernetes, or you can use Amazon Managed Workflows for Apache Airflow, MWAA, which is a fully managed service.
+> **[1:32](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=92)** In AWS, Airflow can be self-hosted on EC2 or [[Kubernetes]], or you can use Amazon Managed Workflows for Apache Airflow, MWAA, which is a fully managed service.
 >
 > **[1:45](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=105)** On AWS, the most common option for monitoring and logging is CloudWatch.
 >
 > **[1:50](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=110)** You can stream PySpark logs to CloudWatch so you can view them even after your job finishes.
 >
-> **[1:55](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=115)** You can also set up dashboards and alerts, for example, to notify you if a job fails or takes too long to complete.
+> **[1:55](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=115)** You can also set up [[Dashboards]] and alerts, for example, to notify you if a job fails or takes too long to complete.
 >
 > **[2:02](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=122)** Some teams also use Spark's built-in web UI to inspect job stages and tasks while they're running.
 >
 > **[2:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=129)** Of course, this is just one of many possible setups.
 >
-> **[2:12](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=132)** I highly recommend using your existing infrastructure or cloud services where possible to reduce the amount of friction.
+> **[2:12](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/example-production-environment-setup?u=76281980&t=132)** I highly recommend using your existing infrastructure or [[Cloud Services]] where possible to reduce the amount of friction.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PySpark]] (5), aws (4), [[Amazon EC2|Ec2]] (3), cloud (2), data (2)
+> **Frameworks & Libraries:** [[PySpark]] (5), [[Amazon EC2|Ec2]] (3), [[Apache Airflow]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** aws (4), ec2 (3), yarn (1), mwaa (1)
 > **CLI Commands:** aws (4), apache (2), yarn (1), python (1)
 > **Prerequisites:** setup (2), you'll need (1), install (1), configure (1), set up (1)
@@ -1561,26 +1530,25 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### A typical PySpark production workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980)
+#### [A typical PySpark production workflow](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=0)** - [Instructor] So now that we've built our platform, let's take a look at a step-by-step workflow of how our pipeline would actually run in production.
 >
-> **[0:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=9)** It all starts with a data engineer writing PySpark code.
+> **[0:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=9)** It all starts with a data engineer writing [[PySpark]] code.
 >
 > **[0:12](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=12)** That code might do all the things that we've learned in the tutorials so far, cleaning up messy data, joining datasets, or calculating metrics.
 >
-> **[0:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=21)** That code is usually stored in a GitHub repository so the whole team can collaborate on it, track changes, and review code changes.
+> **[0:21](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=21)** That code is usually stored in a [[GitHub]] repository so the whole team can collaborate on it, track changes, and review code changes.
 >
-> **[0:30](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=30)** Before any code goes live, it should go through CI/CD, continuous integration and continuous deployment.
+> **[0:30](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=30)** Before any code goes live, it should go through CI/CD, [[Continuous Integration (CI)|continuous integration]] and continuous deployment.
 >
 > **[0:37](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=37)** That means when someone pushes code to the GitHub repo, tests are automatically run and the code is deployed on passing.
 >
 > **[0:45](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=45)** If all the tests pass, the pipeline can automatically deploy the new code from the main branch to a staging or a production environment.
 >
-> **[0:55](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=55)** Once the code is live, it's picked up by a workflow orchestrator like Apache Airflow.
+> **[0:55](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=55)** Once the code is live, it's picked up by a workflow orchestrator like [[Apache Airflow]].
 >
 > **[1:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=60)** Airflow usually runs either on a schedule or is triggered by specific events, like a new file arriving in S3.
 >
@@ -1592,29 +1560,28 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=91)** The final data is then typically written to a place where other tools can pick it up.
 >
-> **[1:36](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=96)** This could be a folder in S3, a table in a data warehouse, like Snowflake or Google BigQuery, or even pushed directly to a database that's used by a dashboarding tool like Tableau or Looker.
+> **[1:36](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=96)** This could be a folder in S3, a table in a data warehouse, like [[Snowflake]] or [[Google]] BigQuery, or even pushed directly to a database that's used by a dashboarding tool like [[Tableau]] or Looker.
 >
 > **[1:48](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/a-typical-pyspark-production-workflow?u=76281980&t=108)** And this is just one example of an end-to-end workflow for a production pipeline, starting with an engineer writing code and ending with a user seeing analytics in a dashboard.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[PySpark]] (2), [[GitHub]] (2), database (2), ci (1)
+> **Frameworks & Libraries:** [[PySpark]] (2), [[GitHub]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Apache Airflow]] (1), [[Snowflake]] (1)
 > **CLI Commands:** cd (1), apache (1)
 > **Tools:** github (2)
 > **Env Vars:** api (1)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980)
+#### [Cloud services](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=0)** - [Instructor] So far, we've talked about how to build infrastructure to run PySpark jobs almost from scratch.
+> **[0:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=0)** - [Instructor] So far, we've talked about how to build infrastructure to run [[PySpark]] jobs almost from scratch.
 >
 > **[0:05](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=5)** But what if you don't want to deal with all the set up, configuration, and infrastructure yourself?
 >
-> **[0:12](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=12)** That's where Cloud Services come in.
+> **[0:12](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=12)** That's where [[Cloud Services]] come in.
 >
 > **[0:14](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=14)** There are a handful of platforms that let you run PySpark jobs without having to manage your own Spark cluster.
 >
@@ -1622,13 +1589,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=33)** Databricks is one of the most popular platforms for running PySpark.
 >
-> **[0:38](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=38)** It was created by the original creators of Apache Spark, and it's designed to make big data and machine learning workflows much easier to manage.
+> **[0:38](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=38)** It was created by the original creators of [[Apache Spark]], and it's designed to make [[Big Data]] and machine learning workflows much easier to manage.
 >
-> **[0:48](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=48)** Databricks provides a collaborative notebook environment, auto-scaling Spark clusters, built-in data connectors, and excellent performance tuning out of the box.
+> **[0:48](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=48)** Databricks provides a collaborative notebook environment, auto-scaling Spark clusters, built-in data connectors, and excellent [[Performance Tuning]] out of the box.
 >
-> **[0:58](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=58)** It's especially useful for teams working together on data science or analytics projects, and it works across AWS, Azure and Google Cloud platform.
+> **[0:58](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=58)** It's especially useful for teams working together on [[Data Science]] or analytics projects, and it works across AWS, [[Microsoft Azure|Azure]] and [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
-> **[1:08](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=68)** Amazon Elastic MapReduce, EMR, is AWS's managed big data service that supports Spark, Hadoop, Hive, and more.
+> **[1:08](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=68)** Amazon Elastic MapReduce, EMR, is AWS's managed big data service that supports Spark, [[Hadoop]], Hive, and more.
 >
 > **[1:17](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=77)** With EMR, you can spin up Spark clusters on demand and scale them up or down based on workload.
 >
@@ -1636,7 +1603,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=89)** It's a great choice if you already use other AWS services and want more flexibility than an all-in-one platform like Databricks.
 >
-> **[1:38](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=98)** AWS Glue is a serverless data integration service that runs PySpark under the hood.
+> **[1:38](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=98)** AWS Glue is a serverless [[Data Integration]] service that runs PySpark under the hood.
 >
 > **[1:43](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=103)** But you don't have to manage any infrastructure.
 >
@@ -1646,17 +1613,17 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=124)** Dataproc is Google Cloud platform's managed Spark and Hadoop service.
 >
-> **[2:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=129)** It's similar to EMR in that it provides on-demand Spark clusters that integrate tightly with other GCP tools like BigQuery and Google Cloud Storage.
+> **[2:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=129)** It's similar to EMR in that it provides on-demand Spark clusters that integrate tightly with other GCP tools like BigQuery and [[Google Cloud Platform (GCP)|Google Cloud]] Storage.
 >
 > **[2:19](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=139)** DataProc is often chosen for its fast cluster startup times, pricing, and ease of automation.
 >
-> **[2:25](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=145)** You can submit PySpark jobs via the console, gcloud CLI, or API.
+> **[2:25](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=145)** You can submit PySpark jobs via the console, gcloud [[CLI]], or API.
 >
-> **[2:32](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=152)** Azure Synapse is Microsoft's cloud data platform that supports both serverless and provisioned Spark pools.
+> **[2:32](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=152)** Azure Synapse is [[Microsoft]]'s cloud data platform that supports both serverless and provisioned Spark pools.
 >
-> **[2:39](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=159)** It integrates with Azure Data Lake, SQL data warehouse, and Power BI, which makes it a good fit for teams that are already in the Microsoft Azure ecosystem.
+> **[2:39](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=159)** It integrates with Azure Data Lake, [[SQL]] data warehouse, and [[Microsoft Power BI|Power BI]], which makes it a good fit for teams that are already in the [[Microsoft Azure]] ecosystem.
 >
-> **[2:50](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=170)** Synapse lets you run PySpark code alongside SQL and other data processing engines, all from a unified interface.
+> **[2:50](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=170)** Synapse lets you run PySpark code alongside SQL and other [[Data Processing]] engines, all from a unified interface.
 >
 > **[2:58](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/cloud-services?u=76281980&t=178)** As you can see, there are lots of different hosted options based on how much control you want over your environment.
 >
@@ -1666,7 +1633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[PySpark]] (7), aws (6), [[Microsoft Azure|Azure]] (4), cloud (3)
+> **Frameworks & Libraries:** [[PySpark]] (7), [[Microsoft Azure|Azure]] (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[Big Data]] (2), [[Hadoop]] (2)
 > **Env Vars:** aws (6), emr (3), sql (2), gcp (1), cli (1)
 > **CLI Commands:** aws (6), apache (1), make (1), gcloud (1)
 > **Definitions:** is a  (1)
@@ -1679,8 +1646,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recap of key concepts and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980)
+#### [Recap of key concepts and next steps](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1688,11 +1654,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=2)** Here's a quick recap.
 >
-> **[0:04](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=4)** You learned how Apache Spark works under the hood and how PySpark lets you harness that power using Python.
+> **[0:04](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=4)** You learned how [[Apache Spark]] works under the hood and how [[PySpark]] lets you harness that power using [[Python (Programming Language)|Python]].
 >
 > **[0:09](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=9)** We explored the data frame API, tackled common operations like filtering, joining, and aggregating, and talk through handling missing data.
 >
-> **[0:17](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=17)** You saw how PySpark SQL fits into the picture, and how to make SQL and Python when it makes sense.
+> **[0:17](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=17)** You saw how PySpark [[SQL]] fits into the picture, and how to make SQL and Python when it makes sense.
 >
 > **[0:23](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=23)** And finally, we looked at what running PySpark in production actually looks like beyond the notebook and discussed some cloud-based options for running PySpark pipelines.
 >
@@ -1700,7 +1666,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=35)** If you want to take your learning even further, here's some concepts you could explore.
 >
-> **[0:40](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=40)** You might want to look into structured streaming if you're working with real-time data.
+> **[0:40](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=40)** You might want to look into structured streaming if you're working with [[Real-Time]] data.
 >
 > **[0:45](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=45)** Another interesting concept is Delta Lake, an open source project which helps with versioning and data consistency in production environments.
 >
@@ -1708,11 +1674,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=58)** That's a wrap.
 >
-> **[1:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=60)** Thanks again for learning with me and I hope you're walking away feeling ready to tackle big data workflows with PySpark.
+> **[1:00](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980&t=60)** Thanks again for learning with me and I hope you're walking away feeling ready to tackle [[Big Data]] workflows with PySpark.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PySpark]] (6), data (4), [[Python (Programming Language)|Python]] (2), [[SQL]] (2), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (6), [[Python (Programming Language)|Python]] (2), [[SQL]] (2), [[Apache Spark]] (1), [[Real-Time]] (1)
 > **CLI Commands:** python (2), apache (1), make (1)
 > **Env Vars:** sql (2), api (1)
 > **Analogies:** picture (1)

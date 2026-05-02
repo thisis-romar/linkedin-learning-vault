@@ -82,16 +82,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applying design thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980)
+#### [Applying design thinking](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980&t=1)** - Hello, I'm Chris Nodder.
 >
-> **[0:02](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980&t=2)** Welcome to this course on applying design thinking.
+> **[0:02](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980&t=2)** Welcome to this course on applying [[Design Thinking]].
 >
-> **[0:05](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980&t=5)** Design thinking is a way to get your team thinking creatively about your products and services from your customer's perspective.
+> **[0:05](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980&t=5)** Design thinking is a way to get your team thinking creatively about your [[Microsoft Products|products]] and services from your customer's perspective.
 >
 > **[0:12](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980&t=12)** By following a set of techniques aimed at helping the team understand user issues, find creative solutions to the biggest issues, and build and test a prototype for how those solutions would look in your app or on your site, you can plan for how you'll get the best bits of your new design implemented quickly.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980&t=64)** We'll wrap up with a look at the high-level planning that you can perform as a result of following this design thinking approach so you're set up to develop and deliver a product that your customers will love.
 >
-> **[1:15](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980&t=75)** Those final steps, the prototype validation and implementation planning are often missing from other descriptions of design thinking.
+> **[1:15](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980&t=75)** Those final steps, the [[Prototype Validation]] and implementation planning are often missing from other descriptions of design thinking.
 >
 > **[1:24](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980&t=84)** As someone who actually helps development teams through the whole process from concept to delivery, my main aim is to leave you with an actionable plan, not just some pretty design sketches.
 >
@@ -117,18 +116,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (6), product (3), [[Microsoft Products|Products]] (1), [[Prototype Validation]] (1), teams (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (6), [[Microsoft Products|Products]] (1), [[Prototype Validation]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - hello (1)
 
-#### The focus of solving user problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/the-focus-of-solving-user-problems?u=76281980)
+#### [The focus of solving user problems](https://www.linkedin.com/learning/design-thinking-implementing-the-process/the-focus-of-solving-user-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/the-focus-of-solving-user-problems?u=76281980&t=1)** - In this course, we'll be using an example problem as we go through each step of the design thinking process so that you can see how each section leads into the next.
+> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/the-focus-of-solving-user-problems?u=76281980&t=1)** - In this course, we'll be using an example problem as we go through each step of the [[Design Thinking]] process so that you can see how each section leads into the next.
 >
 > **[0:10](https://www.linkedin.com/learning/design-thinking-implementing-the-process/the-focus-of-solving-user-problems?u=76281980&t=10)** Our example is not as complex as the enterprise level issues you might experience in your work, but the same principles will apply in any size team, doing any type of problem.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (2), next (1), teams (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
@@ -157,12 +155,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Who should be involved?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980)
+#### [Who should be involved?](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980&t=1)** - Design thinking processes can be performed in as little as one intensive week or can take as long as you feel is necessary to really understand and validate solutions to your users' issues.
+> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980&t=1)** - [[Design Thinking]] processes can be performed in as little as one intensive week or can take as long as you feel is necessary to really understand and validate solutions to your users' issues.
 >
 > **[0:13](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980&t=13)** Representatives from every discipline need to be involved in a design thinking exercise.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980&t=45)** I like to run 20 minute demos every morning to show what we did the day before.
 >
-> **[0:51](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980&t=51)** Some people you should invite to those demos are legal, your internationalization or localization team, technical architects and any other specialist groups who'll need to be involved later in the process.
+> **[0:51](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980&t=51)** Some people you should invite to those demos are legal, your [[Internationalization]] or localization team, technical architects and any other specialist groups who'll need to be involved later in the process.
 >
 > **[1:04](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980&t=64)** Obviously, some of these roles might not exist in your organization.
 >
@@ -194,18 +191,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (3), business (1), [[Internationalization]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[Internationalization]] (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - design (1)
 
-#### Get commitment to attend and participate
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/get-commitment-to-attend-and-participate?u=76281980)
+#### [Get commitment to attend and participate](https://www.linkedin.com/learning/design-thinking-implementing-the-process/get-commitment-to-attend-and-participate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/get-commitment-to-attend-and-participate?u=76281980&t=1)** - I'm not going to talk much in this course about the justifications and benefits of running a design thinking exercise.
+> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/get-commitment-to-attend-and-participate?u=76281980&t=1)** - I'm not going to talk much in this course about the justifications and benefits of running a [[Design Thinking]] exercise.
 >
 > **[0:07](https://www.linkedin.com/learning/design-thinking-implementing-the-process/get-commitment-to-attend-and-participate?u=76281980&t=7)** I have a companion course to this one called understanding design thinking which goes into all that.
 >
@@ -257,17 +253,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (5), product (2)
+> **Frameworks & Libraries:** [[Design Thinking]] (5)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - i (1)
 
-#### Find a location and gather supplies
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/find-a-location-and-gather-supplies?u=76281980)
+#### [Find a location and gather supplies](https://www.linkedin.com/learning/design-thinking-implementing-the-process/find-a-location-and-gather-supplies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/find-a-location-and-gather-supplies?u=76281980&t=1)** - I've said that the design thinking process can take one intensive week to complete.
+> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/find-a-location-and-gather-supplies?u=76281980&t=1)** - I've said that the [[Design Thinking]] process can take one intensive week to complete.
 >
 > **[0:06](https://www.linkedin.com/learning/design-thinking-implementing-the-process/find-a-location-and-gather-supplies?u=76281980&t=6)** You're going to need a space you can use for that whole time.
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/find-a-location-and-gather-supplies?u=76281980&t=61)** One thing that's worked really well for me in the past is finding conference rooms in a completely different building.
 >
-> **[1:07](https://www.linkedin.com/learning/design-thinking-implementing-the-process/find-a-location-and-gather-supplies?u=76281980&t=67)** If you work in a large organization talk to the office administrator in a different department and see whether they have a space you could use.
+> **[1:07](https://www.linkedin.com/learning/design-thinking-implementing-the-process/find-a-location-and-gather-supplies?u=76281980&t=67)** If you work in a large organization talk to the [[Microsoft Office|office]] administrator in a different department and see whether they have a space you could use.
 >
 > **[1:15](https://www.linkedin.com/learning/design-thinking-implementing-the-process/find-a-location-and-gather-supplies?u=76281980&t=75)** If you work in a smaller organization consider hiring a space for a week, hotels and hot desking locations have conference room facilities for rent at reasonable rates.
 >
@@ -317,8 +312,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify the pain points: Watch real users
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/identify-the-pain-points-watch-real-users?u=76281980)
+#### [Identify the pain points: Watch real users](https://www.linkedin.com/learning/design-thinking-implementing-the-process/identify-the-pain-points-watch-real-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,7 +354,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/design-thinking-implementing-the-process/identify-the-pain-points-watch-real-users?u=76281980&t=109)** It's essential that you go to the place where the activity happens.
 >
-> **[1:53](https://www.linkedin.com/learning/design-thinking-implementing-the-process/identify-the-pain-points-watch-real-users?u=76281980&t=113)** Just bringing people to your office to ask them questions doesn't give you the background information or the understanding of the little steps that they might forget to tell you about.
+> **[1:53](https://www.linkedin.com/learning/design-thinking-implementing-the-process/identify-the-pain-points-watch-real-users?u=76281980&t=113)** Just bringing people to your [[Microsoft Office|office]] to ask them questions doesn't give you the background information or the understanding of the little steps that they might forget to tell you about.
 >
 > **[2:02](https://www.linkedin.com/learning/design-thinking-implementing-the-process/identify-the-pain-points-watch-real-users?u=76281980&t=122)** Those nuances in the interaction could be the pieces that actually make the biggest difference in the whole process.
 >
@@ -384,14 +378,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### Experience mapping: Show the customer journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/experience-mapping-show-the-customer-journey?u=76281980)
+#### [Experience mapping: Show the customer journey](https://www.linkedin.com/learning/design-thinking-implementing-the-process/experience-mapping-show-the-customer-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,12 +426,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Analogies:** picture (1)
 > **Speakers:** - after (1)
 
-#### Extracting the pain points
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/extracting-the-pain-points?u=76281980)
+#### [Extracting the pain points](https://www.linkedin.com/learning/design-thinking-implementing-the-process/extracting-the-pain-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,13 +465,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Pain points to goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/pain-points-to-goals?u=76281980)
+#### [Pain points to goals](https://www.linkedin.com/learning/design-thinking-implementing-the-process/pain-points-to-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,7 +519,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), teams (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -541,8 +529,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Personas: An idea everyone can get behind
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/personas-an-idea-everyone-can-get-behind?u=76281980)
+#### [Personas: An idea everyone can get behind](https://www.linkedin.com/learning/design-thinking-implementing-the-process/personas-an-idea-everyone-can-get-behind?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -576,7 +563,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/design-thinking-implementing-the-process/personas-an-idea-everyone-can-get-behind?u=76281980&t=93)** Their goals in the kind of interaction you're studying, their concerns and a couple of representative quotes.
 >
-> **[1:42](https://www.linkedin.com/learning/design-thinking-implementing-the-process/personas-an-idea-everyone-can-get-behind?u=76281980&t=102)** Then the team shared their personas with the rest of the group and together they decided on the attributes they wanted to combine into three personas.
+> **[1:42](https://www.linkedin.com/learning/design-thinking-implementing-the-process/personas-an-idea-everyone-can-get-behind?u=76281980&t=102)** Then the team shared their personas with the [[Representational State Transfer (REST)|rest]] of the group and together they decided on the attributes they wanted to combine into three personas.
 >
 > **[1:50](https://www.linkedin.com/learning/design-thinking-implementing-the-process/personas-an-idea-everyone-can-get-behind?u=76281980&t=110)** A rider, a maintenance person who works on the trails a couple of weekends each month, and someone who maintains trails and rides as well.
 >
@@ -592,12 +579,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - so (1)
 
-#### Don't build your first idea: Ideate
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/don-t-build-your-first-idea-ideate?u=76281980)
+#### [Don't build your first idea: Ideate](https://www.linkedin.com/learning/design-thinking-implementing-the-process/don-t-build-your-first-idea-ideate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -613,7 +599,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/design-thinking-implementing-the-process/don-t-build-your-first-idea-ideate?u=76281980&t=30)** I like to get the team together to do an ideation exercise in this environment, every team member spends some time coming up with multiple different ideas on their own.
 >
-> **[0:40](https://www.linkedin.com/learning/design-thinking-implementing-the-process/don-t-build-your-first-idea-ideate?u=76281980&t=40)** Once they've had some time, maybe just 15 minutes to quickly sketch out their ideas, everyone takes it in turn to share what they drew with the rest of the group.
+> **[0:40](https://www.linkedin.com/learning/design-thinking-implementing-the-process/don-t-build-your-first-idea-ideate?u=76281980&t=40)** Once they've had some time, maybe just 15 minutes to quickly sketch out their ideas, everyone takes it in turn to share what they drew with the [[Representational State Transfer (REST)|rest]] of the group.
 >
 > **[0:50](https://www.linkedin.com/learning/design-thinking-implementing-the-process/don-t-build-your-first-idea-ideate?u=76281980&t=50)** Some of these ideas may be crazy, but even those can inspire other people to come up with workable solutions they may never otherwise have considered.
 >
@@ -627,7 +613,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/design-thinking-implementing-the-process/don-t-build-your-first-idea-ideate?u=76281980&t=87)** The goal at the moment is creativity, not workability.
 >
-> **[1:33](https://www.linkedin.com/learning/design-thinking-implementing-the-process/don-t-build-your-first-idea-ideate?u=76281980&t=93)** After this first round of sketching and sharing, everyone takes the combined ideas of the whole group, and does another round of sketching.
+> **[1:33](https://www.linkedin.com/learning/design-thinking-implementing-the-process/don-t-build-your-first-idea-ideate?u=76281980&t=93)** After this first round of [[Sketching]] and sharing, everyone takes the combined ideas of the whole group, and does another round of sketching.
 >
 > **[1:41](https://www.linkedin.com/learning/design-thinking-implementing-the-process/don-t-build-your-first-idea-ideate?u=76281980&t=101)** This round can either be done individually like the first round or in smaller groups.
 >
@@ -641,14 +627,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (2), product (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Sketching]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gps (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - now (1)
 
-#### Scenarios: How will your idea be used
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/scenarios-how-will-your-idea-be-used?u=76281980)
+#### [Scenarios: How will your idea be used](https://www.linkedin.com/learning/design-thinking-implementing-the-process/scenarios-how-will-your-idea-be-used?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -690,7 +675,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), next (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Speakers:** - now (1)
 
@@ -699,8 +683,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Paper prototypes: The fastest way to test your ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/paper-prototypes-the-fastest-way-to-test-your-ideas?u=76281980)
+#### [Paper prototypes: The fastest way to test your ideas](https://www.linkedin.com/learning/design-thinking-implementing-the-process/paper-prototypes-the-fastest-way-to-test-your-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,7 +725,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/design-thinking-implementing-the-process/paper-prototypes-the-fastest-way-to-test-your-ideas?u=76281980&t=113)** What you'll get from this process is a set of paper screens.
 >
-> **[1:57](https://www.linkedin.com/learning/design-thinking-implementing-the-process/paper-prototypes-the-fastest-way-to-test-your-ideas?u=76281980&t=117)** These screens are the end result of your design thinking exercise.
+> **[1:57](https://www.linkedin.com/learning/design-thinking-implementing-the-process/paper-prototypes-the-fastest-way-to-test-your-ideas?u=76281980&t=117)** These screens are the end result of your [[Design Thinking]] exercise.
 >
 > **[2:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/paper-prototypes-the-fastest-way-to-test-your-ideas?u=76281980&t=121)** You've moved from observing the problem through to building a paper based solution.
 >
@@ -750,14 +733,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Search]] (1), [[Design Thinking]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - you (1)
 
-#### Usability testing: Show your prototypes to customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/usability-testing-show-your-prototypes-to-customers?u=76281980)
+#### [Usability testing: Show your prototypes to customers](https://www.linkedin.com/learning/design-thinking-implementing-the-process/usability-testing-show-your-prototypes-to-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,21 +777,20 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/design-thinking-implementing-the-process/usability-testing-show-your-prototypes-to-customers?u=76281980&t=90)** It's much better to find out about these things now, early in the process, while it's still easy to make a change than it is several months down the line, when you've already invested a lot of time and effort in coding the real interface.
 >
-> **[1:43](https://www.linkedin.com/learning/design-thinking-implementing-the-process/usability-testing-show-your-prototypes-to-customers?u=76281980&t=103)** Usability testing your paper prototype is a fast and cheap way to make sure you're on track to deliver a great product and to catch issues early.
+> **[1:43](https://www.linkedin.com/learning/design-thinking-implementing-the-process/usability-testing-show-your-prototypes-to-customers?u=76281980&t=103)** [[Usability Testing]] your paper prototype is a fast and cheap way to make sure you're on track to deliver a great product and to catch issues early.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), product (2), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (1)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - paper (1)
 
-#### Iterate: Make changes based on what you learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980)
+#### [Iterate: Make changes based on what you learn](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980&t=1)** - So now we've looked at the basic steps of design thinking.
+> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980&t=1)** - So now we've looked at the basic steps of [[Design Thinking]].
 >
 > **[0:04](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980&t=4)** You've just been through a whole feedback loop, from gathering information about the problem through to getting input on a prototype solution.
 >
@@ -819,9 +800,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980&t=27)** At this point, you have to make a decision.
 >
-> **[0:30](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980&t=30)** Do you think you can make some quick changes based on the feedback from the usability testing?
+> **[0:30](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980&t=30)** Do you think you can make some quick changes based on the feedback from the [[Usability Testing]]?
 >
-> **[0:35](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980&t=35)** Or is it better to spend another week of research, ideation and prototyping to come up with even better solutions based on what you learned during the week?
+> **[0:35](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980&t=35)** Or is it better to spend another week of research, ideation and [[Prototyping]] to come up with even better solutions based on what you learned during the week?
 >
 > **[0:44](https://www.linkedin.com/learning/design-thinking-implementing-the-process/iterate-make-changes-based-on-what-you-learn?u=76281980&t=44)** Remember, one additional week of design thinking activities at this point is a lot cheaper than spending a week or more of refactoring or rework later on in the process.
 >
@@ -829,7 +810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (3), teams (1), data (1), [[Usability Testing]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[Usability Testing]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
@@ -839,16 +820,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning is the missing link
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980)
+#### [Planning is the missing link](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980&t=1)** - Something that really annoys me about the way some design thinking agencies engage with their clients is that they stop with the design, rather than with any form of usability test verification, much as a plan for how this design is going to turn into a working product.
+> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980&t=1)** - Something that really annoys me about the way some [[Design Thinking]] agencies engage with their clients is that they stop with the design, rather than with any form of usability test verification, much as a plan for how this design is going to turn into a working product.
 >
 > **[0:17](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980&t=17)** Then they hand that design, often no more than a small set of sketches or screenshots off to the client and leave it to them to build it.
 >
-> **[0:25](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980&t=25)** Of course, going from a paper prototype to an agile backlog or any other form of implementation plan is the bit that causes most teams the biggest headache, especially if the team members weren't involved in the whole design thinking process, they don't understand the justifications behind the way the design has been created.
+> **[0:25](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980&t=25)** Of course, going from a paper prototype to an [[Agile Development|agile]] backlog or any other form of implementation plan is the bit that causes most teams the biggest headache, especially if the team members weren't involved in the whole design thinking process, they don't understand the justifications behind the way the design has been created.
 >
 > **[0:45](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980&t=45)** Starting the development process based on someone else's design sketches is a recipe for disaster.
 >
@@ -856,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980&t=53)** Often a couple of executives get really excited by the ideas being presented by the design agency and tell the development team inside the company to build a product based on those ideas.
 >
-> **[1:04](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980&t=64)** But without the verification phase of paper prototyping and usability testing and without a clear understanding of the rationale behind each of the agencies designed decisions that team is starting from a very difficult position.
+> **[1:04](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980&t=64)** But without the verification phase of paper [[Prototyping]] and [[Usability Testing]] and without a clear understanding of the rationale behind each of the agencies designed decisions that team is starting from a very difficult position.
 >
 > **[1:18](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980&t=78)** It's unlikely they'll ever be able to build a product that satisfies their executives, let alone the customers who must ultimately use it.
 >
@@ -890,13 +870,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Design Thinking]] (3), [[Agile Development|Agile]] (2), [[Prototyping]] (2), teams (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[Agile Development|Agile]] (2), [[Prototyping]] (2), [[Usability Testing]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - something (1)
 
-#### Creating a story map
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980)
+#### [Creating a story map](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,7 +887,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=27)** It describes your release strategy, the minimum solution, and then incremental improvements and how you intend to deliver each of those pieces.
 >
-> **[0:37](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=37)** It also highlights gaps in your knowledge where you'll want to do more research, prototyping, or technical investigation to find the best solution.
+> **[0:37](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=37)** It also highlights gaps in your knowledge where you'll want to do more research, [[Prototyping]], or technical investigation to find the best solution.
 >
 > **[0:46](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=46)** That sounds like a unicorn, doesn't it?
 >
@@ -938,7 +917,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=112)** That's okay.
 >
-> **[1:53](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=113)** It's still important to have those areas of the journey on the wall so that you can think about things like marketing messages or how your product must integrate with other products that will happen during those other parts of the journey.
+> **[1:53](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=113)** It's still important to have those areas of the journey on the wall so that you can think about things like marketing messages or how your product must integrate with other [[Microsoft Products|products]] that will happen during those other parts of the journey.
 >
 > **[2:06](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=126)** Next, it's time to write yellow stickies for each capability that your product needs to have in order to do its job.
 >
@@ -948,7 +927,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=152)** I like to describe each capability in terms of the outcome it provides to your customers, what it enables them to do.
 >
-> **[2:40](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=160)** If you're used to working in an agile or iterative process, you'll notice that these capabilities correspond pretty much to epic level user stories.
+> **[2:40](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=160)** If you're used to working in an [[Agile Development|agile]] or iterative process, you'll notice that these capabilities correspond pretty much to epic level user stories.
 >
 > **[2:49](https://www.linkedin.com/learning/design-thinking-implementing-the-process/creating-a-story-map?u=76281980&t=169)** Later, you can create your backlog by breaking these epics into proper stories.
 >
@@ -974,18 +953,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Prototyping]] (1), [[Microsoft Products|Products]] (1), next (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** picture (2), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Minimum usable product
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/minimum-usable-product?u=76281980)
+#### [Minimum usable product](https://www.linkedin.com/learning/design-thinking-implementing-the-process/minimum-usable-product?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-thinking-implementing-the-process/minimum-usable-product?u=76281980&t=0)** - Lean, agile, and design thinking all use iterations.
+> **[0:00](https://www.linkedin.com/learning/design-thinking-implementing-the-process/minimum-usable-product?u=76281980&t=0)** - Lean, [[Agile Development|agile]], and [[Design Thinking]] all use iterations.
 >
 > **[0:05](https://www.linkedin.com/learning/design-thinking-implementing-the-process/minimum-usable-product?u=76281980&t=5)** The idea of iterations is to check the on track at frequent intervals.
 >
@@ -1051,7 +1029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Agile Development|Agile]] (1), [[Design Thinking]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Design Thinking]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** install (1)
@@ -1062,12 +1040,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design thinking isn't a magic process
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980)
+#### [Design thinking isn't a magic process](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980&t=1)** - The way I've been talking about design thinking, and the amount of hype it gets in the press would lead you to believe that it's the magic solution to all your product development issues.
+> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980&t=1)** - The way I've been talking about [[Design Thinking]], and the amount of hype it gets in the press would lead you to believe that it's the magic solution to all your [[Product Development]] issues.
 >
 > **[0:10](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980&t=10)** That's obviously not true.
 >
@@ -1087,7 +1064,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980&t=67)** Design thinking works the other way.
 >
-> **[1:09](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980&t=69)** It makes customer's needs very apparent and put some at the center product design.
+> **[1:09](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980&t=69)** It makes customer's needs very apparent and put some at the center [[Product Design]].
 >
 > **[1:14](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980&t=74)** Every step in the design thinking process builds on the initial user observations you perform.
 >
@@ -1095,16 +1072,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (5), product (2), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (5), [[Product Development]] (1), [[Product Design]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Design thinking isn't just for design agencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-just-for-design-agencies?u=76281980)
+#### [Design thinking isn't just for design agencies](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-just-for-design-agencies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-just-for-design-agencies?u=76281980&t=1)** - I really hope that by walking through the steps involved in a design thinking exercise, I've helped you to see that it's not just possible for you to run the process yourself but it's actually preferable.
+> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-just-for-design-agencies?u=76281980&t=1)** - I really hope that by walking through the steps involved in a [[Design Thinking]] exercise, I've helped you to see that it's not just possible for you to run the process yourself but it's actually preferable.
 >
 > **[0:11](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-just-for-design-agencies?u=76281980&t=11)** There are lots of digital agencies out there, Many of them are pushing design thinking style processes in one form or another, and for good reason, the process works.
 >
@@ -1134,16 +1110,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (6), product (2), teams (2), business (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Design thinking gives you confidence
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-gives-you-confidence?u=76281980)
+#### [Design thinking gives you confidence](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-gives-you-confidence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-gives-you-confidence?u=76281980&t=1)** - Working through the design thinking process gives you confidence that you'll be developing a product that customers need and want.
+> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-gives-you-confidence?u=76281980&t=1)** - Working through the [[Design Thinking]] process gives you confidence that you'll be developing a product that customers need and want.
 >
 > **[0:08](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-gives-you-confidence?u=76281980&t=8)** You'll start the development process knowing that you've got a solution that will work for your target audience.
 >
@@ -1153,7 +1128,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-gives-you-confidence?u=76281980&t=26)** Now, your development methodology will carry the iterative process forward.
 >
-> **[0:31](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-gives-you-confidence?u=76281980&t=31)** As I've mentioned several times during this course, design thinking lends itself to a lean or agile approach to product development.
+> **[0:31](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-gives-you-confidence?u=76281980&t=31)** As I've mentioned several times during this course, design thinking lends itself to a lean or [[Agile Development|agile]] approach to [[Product Development]].
 >
 > **[0:38](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-gives-you-confidence?u=76281980&t=38)** The design thinking process can be seen as a sprint zero type of activity or customer development and validated learning.
 >
@@ -1175,7 +1150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (5), product (4), [[Agile Development|Agile]] (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (5), [[Agile Development|Agile]] (1), [[Product Development]] (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - working (1)
 
@@ -1184,12 +1159,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources to support your design thinking process
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980)
+#### [Additional resources to support your design thinking process](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980&t=1)** - Each of the techniques we've talked about in this design thinking course is explained in more detail in my UX Design techniques series.
+> **[0:01](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980&t=1)** - Each of the techniques we've talked about in this [[Design Thinking]] course is explained in more detail in my UX Design techniques series.
 >
 > **[0:08](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980&t=8)** Each course is about 30 minutes long and breaks out the techniques step-by-step.
 >
@@ -1207,7 +1181,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980&t=38)** Share the ideas with your team, and work as a group to perform each step.
 >
-> **[0:42](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980&t=42)** Even just getting proper insight into your customer's wants and needs will help you create better products, but running through the whole process will really let you see the power of design thinking.
+> **[0:42](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980&t=42)** Even just getting proper insight into your customer's wants and needs will help you create better [[Microsoft Products|products]], but running through the whole process will really let you see the power of design thinking.
 >
 > **[0:53](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980&t=53)** When I work with teams, we stepped through the whole cycle from observation to story mapping in one intensive week.
 >
@@ -1219,7 +1193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (6), [[Microsoft Products|Products]] (2), ux (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (6), [[Microsoft Products|Products]] (2)
 > **Speakers:** - each (1)
 
 

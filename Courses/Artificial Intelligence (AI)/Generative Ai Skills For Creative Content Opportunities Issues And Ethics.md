@@ -72,18 +72,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The art of generative AI: Balancing creativity and ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980)
+#### [The art of generative AI: Balancing creativity and ethics](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980&t=0)** - If you're a creative professional or a creator of any sort, the world of generative AI has the potential to completely change the way you work.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980&t=0)** - If you're a creative professional or a creator of any sort, the world of [[Generative AI]] has the potential to completely change the way you work.
 >
-> **[0:09](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980&t=9)** Whether you work with text, images, video, audio, or all of the above, it's time to prepare for a new creative landscape where artificial intelligence can help you supercharge ideation and jumpstart innovation.
+> **[0:09](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980&t=9)** Whether you work with text, images, video, audio, or all of the above, it's time to prepare for a new creative landscape where [[Artificial Intelligence (AI)|artificial intelligence]] can help you supercharge ideation and jumpstart innovation.
 >
-> **[0:25](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980&t=25)** At the same time you need to be aware of the potential issues and ethics that come with this very powerful technology.
+> **[0:25](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980&t=25)** At the same time you need to be aware of the potential issues and [[Ethics]] that come with this very powerful technology.
 >
-> **[0:33](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980&t=33)** I'm Ashley Kennedy and I manage the LinkedIn Learning Staff Instructor Team.
+> **[0:33](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980&t=33)** I'm Ashley Kennedy and I manage the [[LinkedIn]] Learning Staff Instructor Team.
 >
 > **[0:37](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980&t=37)** We're a group of passionate power creators in the world of e-learning and generative AI has the potential to touch countless aspects of our daily work, probably just like you.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Ethics]] (1), [[LinkedIn]] (1), power (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Ethics]] (1), [[LinkedIn]] (1)
 > **Analogies:** just like (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - if (1)
@@ -104,16 +103,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is generative AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980)
+#### [What is generative AI?](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=0)** - It might seem incredible, but we're now in an age where in a matter of minutes I can create a well-written blog post to promote my business, design some unique artwork options to accompany it, generate a nice background music track from my podcast, and put together some snappy social media posts to promote it all.
 >
-> **[0:21](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=21)** All of this is thanks to the power of generative artificial intelligence.
+> **[0:21](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=21)** All of this is thanks to the power of generative [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:27](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=27)** Generative AI is a type of artificial intelligence where people can prompt a computer to create new, original content like text, images, video, audio, and more.
+> **[0:27](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=27)** [[Generative AI]] is a type of artificial intelligence where people can prompt a computer to create new, original content like text, images, video, audio, and more.
 >
 > **[0:40](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=40)** This is all accomplished via a special type of machine learning.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=152)** Things work similarly for text-based generative AI.
 >
-> **[2:36](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=156)** Let's take the example of ChatGPT, which is trained on a massive dataset of human generated text from the internet.
+> **[2:36](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=156)** Let's take the example of [[ChatGPT]], which is trained on a massive dataset of human generated text from the internet.
 >
 > **[2:44](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=164)** When a person provides a prompt, ChatGPT uses patterns and relationships it learned from the training data to generate a unique response.
 >
@@ -173,7 +171,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=220)** Some are scared that synthetic media like deepfakes could deceive entire populations, or that jobs traditionally done by people may disappear or change.
 >
-> **[3:51](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=231)** There are also concerns around ethics, copyright, and bias.
+> **[3:51](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=231)** There are also concerns around [[Ethics]], copyright, and bias.
 >
 > **[3:57](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=237)** Positive, negative, and in between, all of these reactions are valid.
 >
@@ -193,26 +191,25 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=291)** It's up to each of us to learn about the creative possibilities, the issues, and the ethics of this powerful technology.
 >
-> **[4:59](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=299)** And that's what we'll spend the rest of this course exploring.
+> **[4:59](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980&t=299)** And that's what we'll spend the [[Representational State Transfer (REST)|rest]] of this course exploring.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), prompt (6), [[Generative AI]] (5), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[ChatGPT]] (2), [[Ethics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - it (1)
 
-#### What are the benefits of generative AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-are-the-benefits-of-generative-ai?u=76281980)
+#### [What are the benefits of generative AI?](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-are-the-benefits-of-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-are-the-benefits-of-generative-ai?u=76281980&t=0)** - The multifaceted power of generative AI cannot be denied.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-are-the-benefits-of-generative-ai?u=76281980&t=0)** - The multifaceted power of [[Generative AI]] cannot be denied.
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-are-the-benefits-of-generative-ai?u=76281980&t=4)** And admittedly, there's a lot to unpack about this tech.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-are-the-benefits-of-generative-ai?u=76281980&t=8)** Here, I'd like to lay out many of its positive benefits at a high level, mostly in terms of content creation.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-are-the-benefits-of-generative-ai?u=76281980&t=8)** Here, I'd like to lay out many of its positive benefits at a high level, mostly in terms of [[Content Creation]].
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-are-the-benefits-of-generative-ai?u=76281980&t=15)** Before I do, I'd like to invite you to think about the last project or campaign that you created original content for.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (8), data (2), ai (2), power (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Content Creation]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -280,14 +277,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI for creatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980)
+#### [Generative AI for creatives](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=0)** - In this chapter, we'll take a high level look at some of the ways generative AI is changing the creative industry beyond these broad benefits that I've already mentioned.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=0)** - In this chapter, we'll take a high level look at some of the ways [[Generative AI]] is changing the creative industry beyond these broad benefits that I've already mentioned.
 >
-> **[0:11](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=11)** There are countless creative fields that use generative AI, social media, advertising, marketing, product design, gaming, film and television, music, fashion, and more.
+> **[0:11](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=11)** There are countless creative fields that use generative AI, social media, advertising, marketing, [[Product Design]], gaming, film and television, music, fashion, and more.
 >
 > **[0:24](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=24)** Pretty much any industry where people create content has the capacity to be retooled, rethought, or reinvented with the advent of generative AI.
 >
@@ -303,9 +299,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=78)** But even if the look and the features change, the fundamental value of generative AI for creative endeavors isn't going to change.
 >
-> **[1:28](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=88)** In fact, you can bet that generative AI tools are only going to get better and more valuable to creative pros.
+> **[1:28](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=88)** In fact, you can bet that [[Generative AI Tools]] are only going to get better and more valuable to creative pros.
 >
-> **[1:35](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=95)** Second, even as these tools evolve, the opportunities, issues, and ethics of this technology are likely to remain in one form or another.
+> **[1:35](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=95)** Second, even as these tools evolve, the opportunities, issues, and [[Ethics]] of this technology are likely to remain in one form or another.
 >
 > **[1:45](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980&t=105)** As a creative pro, you should be aware of the issues and look at each new or enhanced tool through that lens.
 >
@@ -315,24 +311,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), product (1), ai (1), [[Generative AI Tools]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Product Design]] (1), [[Generative AI Tools]] (1), [[Ethics]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - in (1)
 
-#### Text-based generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980)
+#### [Text-based generative AI](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=0)** - Using generative AI to help draft and write new content is revolutionizing entire industries, as well as enhancing personal and professional workflows everywhere.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=0)** - Using [[Generative AI]] to help draft and write new content is revolutionizing entire industries, as well as enhancing personal and professional workflows everywhere.
 >
 > **[0:12](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=12)** Let's drop back and talk about how this works at a high level.
 >
-> **[0:16](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=16)** Generative AI language-processing technologies, large language models like GPT-3 and GPT-4, learn on massive training data sets.
+> **[0:16](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=16)** Generative AI language-processing technologies, [[Large Language Models (LLM)|large language models]] like GPT-3 and [[GPT-4]], learn on massive training data sets.
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=26)** In this case, it's text and code from the internet, from articles, books, webpages, Wikipedia, and more, many, many billions of words.
 >
-> **[0:37](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=37)** Then the large language models learn by using probability to guess the next words of text and answer to a prompt.
+> **[0:37](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=37)** Then the large language models learn by using [[Probability]] to guess the next words of text and answer to a prompt.
 >
 > **[0:46](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=46)** During initial testing phases, people supervise the process.
 >
@@ -344,7 +339,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=77)** Over time, the AI model improves its understanding of prompts and increases the likelihood that it will produce good, correct, well-rounded responses using human-like text.
 >
-> **[1:31](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=91)** ChatGPT is an AI chatbot built on GPT technology.
+> **[1:31](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=91)** [[ChatGPT]] is an AI chatbot built on GPT technology.
 >
 > **[1:36](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=96)** Drawing from its vast knowledge base, it communicates and generates human-like text in response to a wide range of prompts and questions.
 >
@@ -364,13 +359,13 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=199)** Arriving at the best nuanced wording for AI prompts is an art in itself.
 >
-> **[3:25](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=205)** It's called prompt engineering and it's a growing and important part of successful generative AI strategy.
+> **[3:25](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=205)** It's called [[Prompt Engineering]] and it's a growing and important part of successful generative AI strategy.
 >
 > **[3:32](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=212)** There are many resources available on the web to help you write better prompts.
 >
 > **[3:38](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=218)** So far, we've just been using ChatGPT, which was created by OpenAI, a research laboratory whose mission is to ensure that artificial general intelligence benefits all of humanity.
 >
-> **[3:52](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=232)** Other companies have also integrated GPT technology including Microsoft when they created Bing Chat.
+> **[3:52](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=232)** Other companies have also integrated GPT technology including [[Microsoft]] when they created Bing Chat.
 >
 > **[3:59](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=239)** One main difference is that while ChatGPT is currently limited by its training data, which at the time of this recording has an upper limit of data until September 2021, Bing Chat has access to the entire internet.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=280)** Precise mode offers responses that are more factually accurate, and balance attempts to provide a nice mix between the two.
 >
-> **[4:49](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=289)** Google Bard is a similar chatbot, but it uses a different large language model called Lambda.
+> **[4:49](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=289)** [[Google]] Bard is a similar chatbot, but it uses a different large language model called Lambda.
 >
 > **[4:56](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=296)** Like Bing Chat, it leverages the power of the internet.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=303)** As of this recording, Google Bard is still in beta and will undoubtedly evolve rapidly, but one valuable feature it offers right out of the gate is to automatically provide multiple drafts of responses.
 >
-> **[5:17](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=317)** These big three, ChatGPT, Bing Chat, and Google Bard, are currently the most powerful text-based generative AI tools and serve broad applications across many industries, but there are also AI solutions that have been fine-tuned to cater to specific sectors.
+> **[5:17](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=317)** These big three, ChatGPT, Bing Chat, and Google Bard, are currently the most powerful text-based [[Generative AI Tools]] and serve broad applications across many industries, but there are also [[AI Solutions]] that have been fine-tuned to cater to specific sectors.
 >
 > **[5:37](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=337)** For example, AI-powered writing assistance like Jasper AI also use GPT technology, but have been fine-tuned for a specific business and marketing applications and customer bases, resulting in optimized and SEO-friendly content.
 >
@@ -404,13 +399,13 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=372)** Depending on your industry, some may be more helpful and optimized than others.
 >
-> **[6:18](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=378)** As with all generative AI, the goals of these tools aren't necessarily to totally replace human content creation altogether, rather, they aim to enhance the creative process so people don't start from a blank slate.
+> **[6:18](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=378)** As with all generative AI, the goals of these tools aren't necessarily to totally replace human [[Content Creation]] altogether, rather, they aim to enhance the creative process so people don't start from a blank slate.
 >
 > **[6:33](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-based-generative-ai?u=76281980&t=393)** By giving creators an informed, optimized, fleshed out starting point, they offer greater and deeper opportunities to research, ideate, strategize, and create.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (6), [[Generative AI]] (4), [[Google]] (4), data (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (4), [[Google]] (4), [[Large Language Models (LLM)|Large language models]] (2), [[GPT-4]] (1)
 > **Env Vars:** gpt (6), seo (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** for example (2)
@@ -418,12 +413,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - using (1)
 
-#### Text-to-image generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980)
+#### [Text-to-image generative AI](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=0)** - Let's now talk about image-based generative AI, which opens whole new worlds of visual possibilities.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=0)** - Let's now talk about image-based [[Generative AI]], which opens whole new worlds of visual possibilities.
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=7)** There are a few categories of this type of tech that I'd like to cover.
 >
@@ -435,9 +429,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=26)** Content creators can generate artwork or create images for marketing, product, social media and more.
 >
-> **[0:34](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=34)** There are quite a few text to image AI solutions and more coming onto the market all the time, but I'm going to begin by talking a bit about one of the biggest ones, DALL-E.
+> **[0:34](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=34)** There are quite a few text to image [[AI Solutions]] and more coming onto the market all the time, but I'm going to begin by talking a bit about one of the biggest ones, [[DALL-E]].
 >
-> **[0:45](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=45)** Like ChatGPT, it was developed by OpenAI and is built on GPT technology where neural networks learn the relationships between words and images.
+> **[0:45](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=45)** Like [[ChatGPT]], it was developed by OpenAI and is built on GPT technology where [[Neural Networks]] learn the relationships between words and images.
 >
 > **[0:56](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=56)** DALL-E can create images with a wide variety of concepts, tones, and styles.
 >
@@ -461,15 +455,15 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=129)** Out painting means I can extend the frame of the image in any direction and it will match the environment and it conveniently provides multiple variations of the out painted frame that I can choose from.
 >
-> **[2:24](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=144)** Let's move on from our sunrise and I'll show you three other DALL-E prompts and their corresponding image results, which we'll use for comparison purposes throughout the rest of this video.
+> **[2:24](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=144)** Let's move on from our sunrise and I'll show you three other DALL-E prompts and their corresponding image results, which we'll use for comparison purposes throughout the [[Representational State Transfer (REST)|rest]] of this video.
 >
-> **[2:37](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=157)** Stable Diffusion is another popular text to image AI model.
+> **[2:37](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=157)** [[Stable Diffusion]] is another popular text to image AI model.
 >
 > **[2:41](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=161)** It works a bit differently under the hood, but rather than explain the tech, I'd simply like to show you some side-by-side results.
 >
 > **[2:50](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=170)** Let's input our same sunrise prompt to see how Stable Diffusion handles it.
 >
-> **[2:56](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=176)** Stable Diffusion has various fine tuning controls too, such as the guidance scale, and this tells the model how closely it should follow your text prompt.
+> **[2:56](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=176)** Stable Diffusion has various [[Fine Tuning]] controls too, such as the guidance scale, and this tells the model how closely it should follow your text prompt.
 >
 > **[3:07](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=187)** The stronger the guidance, the closer it sticks to your prompt.
 >
@@ -479,7 +473,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=205)** You will always get a completely unique result, but I just wanted to give you a sense of how it compares in a very general sense.
 >
-> **[3:34](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=214)** Let's now take a look at another model called Midjourney, which is very effective at generating highly artistic images and environments, often with dramatic lighting and fantasy vibes.
+> **[3:34](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=214)** Let's now take a look at another model called [[Midjourney]], which is very effective at generating highly artistic images and environments, often with dramatic lighting and fantasy vibes.
 >
 > **[3:48](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=228)** As of version five, Midjourney has become really good at generating extremely realistic images.
 >
@@ -497,11 +491,11 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=278)** And then there's Adobe with its recently introduced Firefly AI generator, currently in beta, which lets you create images, photo, art, graphics, text effects, and vector art with impressive control of style, color, tone, lighting, and more.
 >
-> **[4:56](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=296)** Firefly is integrated within the Adobe Creative Cloud apps which means you can use it directly with applications like Photoshop, Illustrator and After Effects.
+> **[4:56](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=296)** Firefly is integrated within the [[Adobe Creative Cloud]] apps which means you can use it directly with applications like Photoshop, Illustrator and After Effects.
 >
 > **[5:07](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=307)** All right, so one more time.
 >
-> **[5:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=308)** Here is our beautiful sunrise prompt and our three comparison images to show you how Adobe Firefly stacks up to the others.
+> **[5:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=308)** Here is our beautiful sunrise prompt and our three comparison images to show you how [[Adobe Firefly]] stacks up to the others.
 >
 > **[5:19](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/text-to-image-generative-ai?u=76281980&t=319)** As of the time of this recording, these are some of the most popular text to image generative AI solutions, but there are certainly others with more being added all the time.
 >
@@ -527,7 +521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), prompt (8), [[Midjourney]] (6), [[DALL-E]] (4), [[Stable Diffusion]] (4)
+> **Frameworks & Libraries:** [[Midjourney]] (6), [[DALL-E]] (4), [[Stable Diffusion]] (4), [[Generative AI]] (2), [[Fine Tuning]] (2)
 > **Env Vars:** dall (4), gpt (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Analogies:** such as (1), for example (1)
@@ -536,16 +530,15 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
 
-#### Image-to-image generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/image-to-image-generative-ai?u=76281980)
+#### [Image-to-image generative AI](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/image-to-image-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/image-to-image-generative-ai?u=76281980&t=0)** - Let's now explore image to image generative AI.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/image-to-image-generative-ai?u=76281980&t=0)** - Let's now explore image to image [[Generative AI]].
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/image-to-image-generative-ai?u=76281980&t=4)** That simply means that new images are generated from existing images.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/image-to-image-generative-ai?u=76281980&t=8)** These AI models are typically designed using a machine learning model that includes two neural networks, a generator and a discriminator.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/image-to-image-generative-ai?u=76281980&t=8)** These AI models are typically designed using a machine learning model that includes two [[Neural Networks]], a generator and a discriminator.
 >
 > **[0:17](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/image-to-image-generative-ai?u=76281980&t=17)** The generator, which is trained on a data set of real images, creates the imagery.
 >
@@ -595,17 +588,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Generative AI]] (3), data (2), [[Neural Networks]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Neural Networks]] (1)
 > **Definitions:** means that (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
-#### Video-based generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980)
+#### [Video-based generative AI](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=0)** - We know that image-based generative AI is about creating new imagery from existing images or from text prompts.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=0)** - We know that image-based [[Generative AI]] is about creating new imagery from existing images or from text prompts.
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=8)** Well, what is video except for many images one after another?
 >
@@ -629,11 +621,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=82)** And speaking of changing elements within a video frame, another powerful form of video-based AI is deepfake technology.
 >
-> **[1:31](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=91)** Deepfake, which is a combination of the phrases deep learning and fake, is synthetic media where a person in a video is replaced with someone else's likeness.
+> **[1:31](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=91)** Deepfake, which is a combination of the phrases [[Deep Learning]] and fake, is synthetic media where a person in a video is replaced with someone else's likeness.
 >
 > **[1:44](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=104)** It's not simply a face or voice swap.
 >
-> **[1:47](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=107)** It's a highly complex form of artificial intelligence that learns unique visual and oral characteristics about a subject and then maps that onto another subject.
+> **[1:47](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=107)** It's a highly complex form of [[Artificial Intelligence (AI)|artificial intelligence]] that learns unique visual and oral characteristics about a subject and then maps that onto another subject.
 >
 > **[2:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=120)** This means that people can be made to say something they never actually said.
 >
@@ -655,7 +647,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=178)** It can also be used to assist in dubbing foreign languages into videos.
 >
-> **[3:02](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=182)** The possibilities go on, but rest assured there are many ways this technology can be used to enhance processes and workflows.
+> **[3:02](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=182)** The possibilities go on, but [[Representational State Transfer (REST)|rest]] assured there are many ways this technology can be used to enhance processes and workflows.
 >
 > **[3:11](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=191)** The digital video avatar industry is also a huge part of video-based AI.
 >
@@ -667,7 +659,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=214)** I'm Peter.
 >
-> **[3:35](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=215)** I'm joining Ashley in this LinkedIn Learning course to let you know that using digital avatars can help personalize your customer experience.
+> **[3:35](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=215)** I'm joining Ashley in this [[LinkedIn]] Learning course to let you know that using digital avatars can help personalize your customer experience.
 >
 > **[3:43](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=223)** - In sales and advertising, video AI can be used for customer personalization.
 >
@@ -677,7 +669,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=249)** - Hi, Shavam.
 >
-> **[4:11](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=251)** I'm sure you love our Beco products, but I noticed that you added some products to your cart but didn't buy them.
+> **[4:11](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=251)** I'm sure you love our Beco [[Microsoft Products|products]], but I noticed that you added some products to your cart but didn't buy them.
 >
 > **[4:17](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/video-based-generative-ai?u=76281980&t=257)** I totally get it.
 >
@@ -697,18 +689,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Generative AI]] (2), [[Microsoft Products|Products]] (2), data (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Microsoft Products|Products]] (2), [[Deep Learning]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - hi (2), - we (1), - our (1), - i (1), - in (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (2)
 > **URLs:** [rephrase.ai](https://rephrase.ai) (1)
 
-#### Audio-based generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980)
+#### [Audio-based generative AI](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=0)** - There are many different types of audio-based generative AI empowering creators to generate brand new audio for human speech, music, and more.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=0)** - There are many different types of audio-based [[Generative AI]] empowering creators to generate brand new audio for human speech, music, and more.
 >
 > **[0:11](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=11)** Let's take a look at a few examples of how this type of tech can be used to create new samples of the human voice.
 >
@@ -722,7 +713,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=42)** No need to bring the talent back into the studio.
 >
-> **[0:45](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=45)** Voice cloning creates perfect brand new audio from the spoken or written word.
+> **[0:45](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=45)** Voice cloning creates perfect brand new audio from the spoken or written [[Microsoft Word|word]].
 >
 > **[0:52](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=52)** Let's take a look at this in action.
 >
@@ -774,7 +765,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=273)** There are also lyric generators.
 >
-> **[4:35](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=275)** We already know that models like ChatGPT can write poems and song lyrics, but there are also lyric specific apps that cater directly to musicians.
+> **[4:35](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=275)** We already know that models like [[ChatGPT]] can write poems and song lyrics, but there are also lyric specific apps that cater directly to musicians.
 >
 > **[4:45](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=285)** You can input the genre, emotion, keywords, and more.
 >
@@ -782,7 +773,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=295)** Here are some AI lyric generators that you can check out.
 >
-> **[5:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=300)** There are also AI solutions that integrate hardware.
+> **[5:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=300)** There are also [[AI Solutions]] that integrate [[Hardware]].
 >
 > **[5:04](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/audio-based-generative-ai?u=76281980&t=304)** Musical instruments and tools like standalone music production stations, keyboards and digital drum machines incorporate AI assistance that help create and arrange music by suggesting chord progressions, melodies, and drum patterns.
 >
@@ -794,7 +785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Generative AI]] (2), data (1), [[Microsoft Word|Word]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Microsoft Word|Word]] (1), [[ChatGPT]] (1), [[AI Solutions]] (1), [[Hardware]] (1)
 > **Speakers:** - [ai (3), - there (1), - and (1), - here (1)
 > **Analogies:** for example (1)
 
@@ -803,14 +794,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethics of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980)
+#### [Ethics of generative AI](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=0)** - So far, we've spent most of the course talking about the many benefits and uses of generative AI for creative professionals.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=0)** - So far, we've spent most of the course talking about the many benefits and uses of [[Generative AI]] for creative professionals.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=8)** Now we'll shift to explore some of the issues and ethics of this powerful technology.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=8)** Now we'll shift to explore some of the issues and [[Ethics]] of this powerful technology.
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=15)** I'd like to start by talking broadly about ethics.
 >
@@ -818,21 +808,21 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=29)** As you can see, if you visit the websites for many of the technologies that we've discussed in this course, most of them have a dedicated ethics page or content policy statement.
 >
-> **[0:42](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=42)** Responsible AI developers must commit to a strong ethical stance.
+> **[0:42](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=42)** [[Responsible AI]] developers must commit to a strong ethical stance.
 >
 > **[0:48](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=48)** Now, we obviously won't be able to go through all of them, but I'll show you a representative statement in each category, text, image, video, and audio to give you a sense of some of these commitments.
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=62)** First, text.
 >
-> **[1:04](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=64)** Here's a look at ChatGPT's ethical guidelines.
+> **[1:04](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=64)** Here's a look at [[ChatGPT]]'s ethical guidelines.
 >
-> **[1:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=68)** As you can see, it highly stresses the importance of user privacy, fairness and impartiality, transparency, safety, and responsibility.
+> **[1:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=68)** As you can see, it highly stresses the importance of user [[Privacy]], fairness and impartiality, transparency, safety, and responsibility.
 >
-> **[1:19](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=79)** If I ask it to write a phishing email, for example, you can see that it refuses the request and explains why it can't ethically do so.
+> **[1:19](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=79)** If I ask it to write a [[Phishing]] email, for example, you can see that it refuses the request and explains why it can't ethically do so.
 >
 > **[1:30](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=90)** Next, images.
 >
-> **[1:32](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=92)** Here's DALL-E's content policies on preventing harmful generations and curbing misuse.
+> **[1:32](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=92)** Here's [[DALL-E]]'s content policies on preventing harmful generations and curbing misuse.
 >
 > **[1:38](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=98)** It won't create violent, hate, adult, or political content.
 >
@@ -862,17 +852,16 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=193)** There are many points during the process where issues can arise.
 >
-> **[3:17](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=197)** We'll spend the rest of this chapter talking about what some of these are.
+> **[3:17](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980&t=197)** We'll spend the [[Representational State Transfer (REST)|rest]] of this chapter talking about what some of these are.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (4), [[Responsible AI]] (2), data (2), [[Generative AI]] (1), ai (1)
+> **Frameworks & Libraries:** [[Ethics]] (4), [[Responsible AI]] (2), [[Generative AI]] (1), [[ChatGPT]] (1), [[Privacy]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** dall (1)
 > **Speakers:** - so (1)
 
-#### Understanding deepfakes and deception
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980)
+#### [Understanding deepfakes and deception](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=40)** - Good evening, my fellow Americans.
 >
-> **[0:44](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=44)** Fates has ordained that the men who went to the moon to explore in peace will stay on the moon to rest in peace.
+> **[0:44](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=44)** Fates has ordained that the men who went to the moon to explore in peace will stay on the moon to [[Representational State Transfer (REST)|rest]] in peace.
 >
 > **[0:54](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=54)** - Deepfakes in entertainment and social media are most often used for relatively harmless amusement, but they could contain significant societal concerns if they're used to deceive masses of people with misinformation or misrepresentation.
 >
@@ -914,7 +903,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=142)** This type of machine learning is able to identify patterns that are indicative of deepfakes with an extreme high degree of accuracy.
 >
-> **[2:31](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=151)** Responsible AI in action.
+> **[2:31](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=151)** [[Responsible AI]] in action.
 >
 > **[2:35](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=155)** I'll also add that human detection isn't just about visually spotting abnormalities.
 >
@@ -922,7 +911,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=165)** If you see any media that doesn't originate from a trusted source, do your part to ensure its authenticity.
 >
-> **[2:54](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=174)** If something feels off, Google it.
+> **[2:54](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=174)** If something feels off, [[Google]] it.
 >
 > **[2:56](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=176)** Explore fact checking websites like [FactCheck.org](https://FactCheck.org), PolitiFact, or Snopes to see if it's already been exposed or debunked.
 >
@@ -930,21 +919,20 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=192)** They aren't going away anytime soon.
 >
-> **[3:15](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=195)** So, the better we can learn to live with and learn from this type of generative AI, the better for us all in creating a world where we know what we can trust and what we must verify.
+> **[3:15](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/understanding-deepfakes-and-deception?u=76281980&t=195)** So, the better we can learn to live with and learn from this type of [[Generative AI]], the better for us all in creating a world where we know what we can trust and what we must verify.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1), [[Responsible AI]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Responsible AI]] (1), [[Google]] (1), [[Generative AI]] (1)
 > **Speakers:** - perhaps (1), - good (1), - deepfakes (1), - there (1)
 > **CLI Commands:** make (2)
 > **URLs:** [factcheck.org](https://factcheck.org) (1)
 
-#### Issues around copyright and content ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980)
+#### [Issues around copyright and content ownership](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=0)** - Another big ethical issue with generative AI is the issue of what constitutes original and proprietary content.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=0)** - Another big ethical issue with [[Generative AI]] is the issue of what constitutes original and proprietary content.
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=8)** Think about what we already know.
 >
@@ -988,7 +976,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=142)** That copyright ownership is automatically and immediately bestowed upon the artist, giving them sole right to make copies of the work, distribute it, and so on.
 >
-> **[2:33](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=153)** Some people may believe you first need to register the copyright at the copyright office, but that's not the case.
+> **[2:33](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=153)** Some people may believe you first need to register the copyright at the copyright [[Microsoft Office|office]], but that's not the case.
 >
 > **[2:39](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=159)** Copyright is automatic.
 >
@@ -998,7 +986,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=175)** However, there's currently not a clear consensus on who owns the copyright of AI generated works.
 >
-> **[3:03](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=183)** As of this recording of this course, the US Copyright Office has stated that "AI generated images are not protectable under copyright law, as they are not the product of human authorship."
+> **[3:03](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=183)** As of this recording of this course, the US Copyright Office has stated that "AI generated images are not protectable under [[Copyright Law]], as they are not the product of human authorship."
 >
 > **[3:19](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/issues-around-copyright-and-content-ownership?u=76281980&t=199)** That means that artists that create AI generated works are ineligible to register for copyright.
 >
@@ -1014,23 +1002,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Generative AI]] (6), data (4), [[Microsoft Office|Office]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Microsoft Office|Office]] (2), [[Copyright Law]] (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - another (1)
 
-#### Bias issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980)
+#### [Bias issues](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=0)** - Let's explore the potential for bias in the world of generative AI.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=0)** - Let's explore the potential for bias in the world of [[Generative AI]].
 >
 > **[0:05](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=5)** When I talk about bias in this way, I'm talking about the generation of content that contains prejudice in favor of or against one thing, person, or group compared with another.
 >
 > **[0:17](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=17)** This can result in content that is offensive, harmful, inaccurate, or misleading.
 >
-> **[0:23](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=23)** For a taste of this, take a look at this Midjourney image generated from the prompt, a photo of three lawyers, the result all white men.
+> **[0:23](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=23)** For a taste of this, take a look at this [[Midjourney]] image generated from the prompt, a photo of three lawyers, the result all white men.
 >
 > **[0:33](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=33)** Here's another prompt, a photo of three laborers.
 >
@@ -1074,7 +1061,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=147)** As you can see, many of these AI models provide warnings about this type of consequence.
 >
-> **[2:33](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=153)** ChatGPT says it may produce inaccurate information about people, places, or facts.
+> **[2:33](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=153)** [[ChatGPT]] says it may produce inaccurate information about people, places, or facts.
 >
 > **[2:39](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/bias-issues?u=76281980&t=159)** Bard says it may display inaccurate or offensive information.
 >
@@ -1106,18 +1093,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (7), [[Generative AI]] (3), prompt (3), [[Midjourney]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Midjourney]] (1), [[ChatGPT]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - let (1)
 
-#### Difficulty of control
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980)
+#### [Difficulty of control](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=0)** - Another potential problem with generative AI models is that they're difficult to control and the results are difficult to predict and, in some cases, verify.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=0)** - Another potential problem with [[Generative AI]] models is that they're difficult to control and the results are difficult to predict and, in some cases, verify.
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=10)** Now, it's often easy to tell when AI gets an image wrong.
 >
@@ -1129,7 +1115,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=32)** Here's why.
 >
-> **[0:34](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=34)** First, generative AI models are complex and nonlinear, using intricate algorithms and neural networks to learn patterns and relationships to create something new.
+> **[0:34](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=34)** First, generative AI models are complex and nonlinear, using intricate [[Algorithms]] and [[Neural Networks]] to learn patterns and relationships to create something new.
 >
 > **[0:44](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=44)** Because of this, it can be difficult to understand how the different parts of the model interact with one another.
 >
@@ -1147,7 +1133,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=90)** Third, generative AI models are designed to be stochastic.
 >
-> **[1:34](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=94)** This means they generate data that follows a probability distribution, predicting the likelihood of something happening rather than predicting something with certainty.
+> **[1:34](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=94)** This means they generate data that follows a [[Probability]] distribution, predicting the likelihood of something happening rather than predicting something with certainty.
 >
 > **[1:46](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=106)** This means the model can generate different outputs from the same inputs.
 >
@@ -1167,7 +1153,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=158)** Fact-check AI's work or use it to inspire your own original work.
 >
-> **[2:43](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=163)** For example, if you ask ChatGPT to write a history of your company in a friendly, informal style, use the results as a guide for your own version, substituting in facts such as dates and key milestones with ones that you've gathered with solid research and reputable sources.
+> **[2:43](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=163)** For example, if you ask [[ChatGPT]] to write a history of your company in a friendly, informal style, use the results as a guide for your own version, substituting in facts such as dates and key milestones with ones that you've gathered with solid research and reputable sources.
 >
 > **[3:02](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/difficulty-of-control?u=76281980&t=182)** Current AI models are often an inspiring source of creativity, but they're not always great with facts.
 >
@@ -1175,18 +1161,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), data (5), ai (4), [[Algorithms]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Algorithms]] (1), [[Neural Networks]] (1), [[Probability]] (1), [[ChatGPT]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - another (1)
 
-#### Limitations in creativity and capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980)
+#### [Limitations in creativity and capabilities](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980&t=0)** - While generative AI may seem like it's uncovering vast new frontiers of creativity, it's also creatively limited.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980&t=0)** - While [[Generative AI]] may seem like it's uncovering vast new frontiers of creativity, it's also creatively limited.
 >
 > **[0:09](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980&t=9)** That's largely because the models can't actually produce brand new ideas.
 >
@@ -1194,9 +1179,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980&t=19)** This can prevent the creation of results that are truly original or innovative.
 >
-> **[0:24](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980&t=24)** Along those lines, AI models are limited by their own algorithms.
+> **[0:24](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980&t=24)** Along those lines, AI models are limited by their own [[Algorithms]].
 >
-> **[0:30](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980&t=30)** We know the algorithms use probability distributions to create content that is similar to the training data.
+> **[0:30](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980&t=30)** We know the algorithms use [[Probability]] distributions to create content that is similar to the training data.
 >
 > **[0:37](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/limitations-in-creativity-and-capabilities?u=76281980&t=37)** Asking the AI model to think outside the box and consider something that is wholly different from the training data often creates unexpected, undesired and yes, uncreative results.
 >
@@ -1228,7 +1213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (5), [[Generative AI]] (3), [[Algorithms]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Algorithms]] (2), [[Probability]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** similar to (1)
@@ -1239,12 +1224,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/next-steps?u=76281980&t=0)** - Thank you so much for going on this journey with me into the exciting and multifaceted world of generative AI.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/next-steps?u=76281980&t=0)** - Thank you so much for going on this journey with me into the exciting and multifaceted world of [[Generative AI]].
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/next-steps?u=76281980&t=7)** Hopefully, one of the main messages you got from this course is that there are endless ways creative professionals can use AI to replace, enhance, and heighten various workflows.
 >
@@ -1268,7 +1252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Generative AI]] (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Versions:** 15.7 (1)
 > **Cross-References:** next chapter (1)
 > **Definitions:** is a  (1)

@@ -71,16 +71,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data and supervised machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980)
+#### [Data and supervised machine learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=0)** - Since you've joined me for a course in predictive analytics model deployment, then you probably either already have a predictive analytics model or you know how to obtain one.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=0)** - Since you've joined me for a course in [[Predictive Analytics]] model deployment, then you probably either already have a predictive analytics model or you know how to obtain one.
 >
-> **[0:12](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=12)** The model could be formula-based, like linear or logistic regression.
+> **[0:12](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=12)** The model could be formula-based, like linear or [[Logistic Regression]].
 >
-> **[0:16](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=16)** Rule-based like decision trees.
+> **[0:16](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=16)** Rule-based like [[Decision Trees]].
 >
 > **[0:18](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=18)** Or perhaps you have a so-called black box model.
 >
@@ -94,11 +93,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=63)** This course focuses on the phases of the machine learning lifecycle after the model is built.
 >
-> **[1:10](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=70)** Adopting the terminology from the widely used Cross Industry Standard Process for Data Mining or CRISP-DM, the phases we'll discuss are evaluation and deployment.
+> **[1:10](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=70)** Adopting the terminology from the widely used Cross Industry Standard Process for [[Data Mining]] or [[CRISP-DM]], the phases we'll discuss are evaluation and deployment.
 >
 > **[1:24](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=84)** Some critical tasks listed by CRISP-DM within those phases that we'll discuss include model scoring, monitoring, and maintenance.
 >
-> **[1:35](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=95)** Most data science education emphasizes modeling.
+> **[1:35](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=95)** Most [[Data Science]] education emphasizes modeling.
 >
 > **[1:39](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980&t=99)** Modeling is important without question, but a failure to discuss deployment is almost certainly a contributing factor in the failure to deploy the majority of models that organizations attempt to build.
 >
@@ -108,17 +107,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive Analytics]] (2), data (2), [[CRISP-DM]] (2), [[Logistic Regression]] (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[CRISP-DM]] (2), [[Logistic Regression]] (1), [[Decision Trees]] (1), [[Data Mining]] (1)
 > **Env Vars:** crisp (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - since (1)
 
-#### Data engineering and MLOps in the ML lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980)
+#### [Data engineering and MLOps in the ML lifecycle](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=1)** - Now let's talk about two roles that are rapidly becoming specialties with their own career paths and their own development life cycles, data engineering, and ML Ops.
+> **[0:01](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=1)** - Now let's talk about two roles that are rapidly becoming specialties with their own career paths and their own development life cycles, [[Data Engineering]], and ML Ops.
 >
 > **[0:15](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=15)** Of the two, there's a bit more consensus about what data engineering is.
 >
@@ -130,13 +128,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=57)** So note the data scientists building a model like the ones we discuss in this course are just one of the types of data professionals that are consumers of the work that the data engineers do.
 >
-> **[1:09](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=69)** I think there's consensus on two issues, that the data engineers work is upstream and the work is different enough that it's a distinct career path, but the reality on the ground in most organizations is that there's a fuzzy boundary between data engineering and data science because this boundary is relatively new.
+> **[1:09](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=69)** I think there's consensus on two issues, that the data engineers work is upstream and the work is different enough that it's a distinct career path, but the reality on the ground in most organizations is that there's a fuzzy boundary between data engineering and [[Data Science]] because this boundary is relatively new.
 >
 > **[1:31](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=91)** In an O'Reilly report on the subject, "ML Ops: Operationalizing Data Science", the authors define ML Ops as the process of operationalizing data science by getting ML models into production.
 >
 > **[1:46](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=106)** In this sense, it's potentially a handoff from data scientist to the ML Ops team when a model has completed initial deployment and enters monitoring and maintenance mode.
 >
-> **[2:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=120)** It's my own preferred scenario, but others like the thought leader, Noah Gift, who has numerous courses in the LinkedIn library, defines it as the process of automating machine learning using DevOps methodologies.
+> **[2:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=120)** It's my own preferred scenario, but others like the thought leader, Noah Gift, who has numerous courses in the [[LinkedIn]] library, defines it as the process of automating machine learning using [[DevOps]] methodologies.
 >
 > **[2:15](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-engineering-and-ml-ops-in-the-ml-lifecycle?u=76281980&t=135)** This implies that we're automating the entire lifecycle, which potentially makes the boundaries a bit more fuzzy.
 >
@@ -164,13 +162,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Data Engineering]] (4), career (2), [[LinkedIn]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Data Engineering]] (4), [[LinkedIn]] (1), [[DevOps]] (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
 
-#### Why ML projects fail to be deployed
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/why-ml-projects-fail-to-be-deployed?u=76281980)
+#### [Why ML projects fail to be deployed](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/why-ml-projects-fail-to-be-deployed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/why-ml-projects-fail-to-be-deployed?u=76281980&t=43)** First, a failure of expectations.
 >
-> **[0:47](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/why-ml-projects-fail-to-be-deployed?u=76281980&t=47)** This rarely takes the form of the data science team promising the world and failing.
+> **[0:47](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/why-ml-projects-fail-to-be-deployed?u=76281980&t=47)** This rarely takes the form of the [[Data Science]] team promising the world and failing.
 >
 > **[0:52](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/why-ml-projects-fail-to-be-deployed?u=76281980&t=52)** It typically takes the form of no expectations at all.
 >
@@ -250,17 +247,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), teams (2), [[Analytics]] (1), business (1), management (1)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** roi (2)
 > **Speakers:** - numerous (1)
 
-#### The basics of ML modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980)
+#### [The basics of ML modeling](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980&t=0)** - [Instructor] Okay, so predictive analytics modeling is a huge topic, and this is not a course in modeling, but we have to do a very brief recap of what the modeling phase is all about to better understand how the topics in this course fall within the machine learning lifecycle.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980&t=0)** - [Instructor] Okay, so [[Predictive Analytics]] modeling is a huge topic, and this is not a course in modeling, but we have to do a very brief recap of what the modeling phase is all about to better understand how the topics in this course fall within the machine learning lifecycle.
 >
 > **[0:20](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980&t=20)** So since we are talking about supervised machine learning, we need a lot of past data that has a clearly defined end result, like folks paid for their loan or they defaulted.
 >
@@ -270,9 +266,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980&t=41)** Typically on a project, I have hundreds of these that are considered.
 >
-> **[0:45](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980&t=45)** Then what we have to do is we have to feed that past data to a bunch of modeling algorithms.
+> **[0:45](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980&t=45)** Then what we have to do is we have to feed that past data to a bunch of modeling [[Algorithms]].
 >
-> **[0:52](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980&t=52)** I mentioned just four here, decision tree, support vector machine, logistic regression, and neural network.
+> **[0:52](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980&t=52)** I mentioned just four here, decision tree, support vector machine, [[Logistic Regression]], and neural network.
 >
 > **[0:57](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-basics-of-ml-modeling?u=76281980&t=57)** But there are dozens and dozens and dozens of them.
 >
@@ -310,7 +306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), data (2), business (2), [[Predictive Analytics]] (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Predictive Analytics]] (1), [[Logistic Regression]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -320,12 +316,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The business evaluation phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980)
+#### [The business evaluation phase](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980&t=1)** - CRISP-DM describes the phase immediately after modeling the Evaluation phase in the following way.
+> **[0:01](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980&t=1)** - [[CRISP-DM]] describes the phase immediately after modeling the Evaluation phase in the following way.
 >
 > **[0:09](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980&t=9)** "Before proceeding to final deployment of the model, it is important to thoroughly evaluate it and review the steps executed to create it, to be certain that the model properly achieves the business objectives."
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980&t=139)** Models with more variables can have logistical costs.
 >
-> **[2:23](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980&t=143)** I remember being explicitly asked this by someone that we would probably now describe as an MLOps engineer.
+> **[2:23](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980&t=143)** I remember being explicitly asked this by someone that we would probably now describe as an [[MLOps]] engineer.
 >
 > **[2:30](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980&t=150)** He was asking me if I could drop a few variables without sacrificing too much accuracy.
 >
@@ -375,19 +370,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[CRISP-DM]] (1), data (1), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (1), [[MLOps]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crisp (1)
 > **Speakers:** - crisp (1)
 
-#### A deployment checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980)
+#### [A deployment checklist](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=0)** - [Lecturer] One way to think through a deployment checklist after the evaluation phase but before the deployment phase is to consider the various teams that participate in the project.
 >
-> **[0:15](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=15)** Let's start with the IT team as well as the data engineers and the MLOps team.
+> **[0:15](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=15)** Let's start with the IT team as well as the data engineers and the [[MLOps]] team.
 >
 > **[0:20](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=20)** Their various responsibilities will differ a bit from organization to organization, but what do they need to know?
 >
@@ -401,7 +395,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=64)** This is always an issue.
 >
-> **[1:05](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=65)** Many data scientists refer to feature engineering, the kind of calculation at issue here as being one of the most important steps in the entire process, and the model will be expecting these calculated variables, so someone will have to prepare these calculations for production, and that's usually not the data scientist.
+> **[1:05](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=65)** Many data scientists refer to [[Feature Engineering]], the kind of calculation at issue here as being one of the most important steps in the entire process, and the model will be expecting these calculated variables, so someone will have to prepare these calculations for production, and that's usually not the data scientist.
 >
 > **[1:26](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=86)** This is an opportunity to recode those calculations for speed.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=101)** Where are those scores going to be routed?
 >
-> **[1:45](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=105)** In many cases, those scores will be routed back into the systems that the data engineers maintain because they may get incorporated into reports and dashboards.
+> **[1:45](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=105)** In many cases, those scores will be routed back into the systems that the data engineers maintain because they may get incorporated into reports and [[Dashboards]].
 >
 > **[1:56](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=116)** Now, the critical relationship with the frontline team.
 >
@@ -425,7 +419,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=148)** For instance, might a sales rep or call center rep see new information on their screen, or will the model's influence be less visible and behind the scenes?
 >
-> **[2:38](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=158)** How should feedback from the frontline team be shared back to the data science team?
+> **[2:38](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=158)** How should feedback from the frontline team be shared back to the [[Data Science]] team?
 >
 > **[2:44](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/a-deployment-checklist?u=76281980&t=164)** If nothing is proposed, it implies that feedback is not encouraged.
 >
@@ -465,7 +459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (2), teams (1), [[MLOps]] (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Feature Engineering]] (1), [[Dashboards]] (1), [[Data Science]] (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [lecturer] (1)
@@ -475,8 +469,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scoring traditional ML models
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980)
+#### [Scoring traditional ML models](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,7 +483,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=16)** Let's look at some of their features.
 >
-> **[0:19](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=19)** One advantage of these more traditional techniques, like logistic regression let's say or decision trees, is that they're highly transparent.
+> **[0:19](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=19)** One advantage of these more traditional techniques, like [[Logistic Regression]] let's say or [[Decision Trees]], is that they're highly transparent.
 >
 > **[0:27](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=27)** They really tell you a story about the data, and they're fast.
 >
@@ -498,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=37)** Also, super important to us in this particular course, they're easy to migrate.
 >
-> **[0:43](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=43)** They're still quite common, so please don't feel pressure to keep up with the fanciest, latest algorithms if a traditional machine learning model will fit the situation.
+> **[0:43](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=43)** They're still quite common, so please don't feel pressure to keep up with the fanciest, latest [[Algorithms]] if a traditional machine learning model will fit the situation.
 >
 > **[0:56](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=56)** These are wonderful advantages to have.
 >
@@ -514,7 +507,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=100)** This is the logistic regression example.
 >
-> **[1:44](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=104)** Now, this is a little bit more complicated than it is in linear regression, but it's helpful that you have that one coefficient per variable and that helps you reverse engineer what's going on here.
+> **[1:44](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=104)** Now, this is a little bit more complicated than it is in [[Linear Regression]], but it's helpful that you have that one coefficient per variable and that helps you reverse engineer what's going on here.
 >
 > **[1:56](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=116)** So for instance, we have a coefficient for weight.
 >
@@ -542,11 +535,11 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=186)** So in order to migrate this to another platform, you have to familiarize yourself either with the algebraic-like formulas you get with logistic regression or the if/then like statements as you see here associated with decision trees.
 >
-> **[3:24](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=204)** So looking at this, as you can see, it's very easy to convert these into your language of choice like R or Python or SQL.
+> **[3:24](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980&t=204)** So looking at this, as you can see, it's very easy to convert these into your language of choice like R or [[Python (Programming Language)|Python]] or [[SQL]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (5), [[Logistic Regression]] (3), data (2), [[Algorithms]] (1), node (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (5), [[Logistic Regression]] (3), [[Algorithms]] (1), [[Linear Regression]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), essentially is (1)
 > **CLI Commands:** node (1), python (1)
 > **Analogies:** picture (1), for instance (1)
@@ -555,8 +548,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scoring a "black box" model
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980)
+#### [Scoring a "black box" model](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,9 +558,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=13)** In other words, you can't really interpret it very easily.
 >
-> **[0:17](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=17)** Now, black box models are sometimes very accurate and they come in multiple forms.
+> **[0:17](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=17)** Now, black box models are sometimes very accurate and they come in multiple [[Forms]].
 >
-> **[0:23](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=23)** This artificial neural net is just one of the many algorithms that falls into this category.
+> **[0:23](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=23)** This artificial neural net is just one of the many [[Algorithms]] that falls into this category.
 >
 > **[0:29](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=29)** What people like about them is that they can be incredibly accurate, but they have some disadvantages that we have to mention here.
 >
@@ -580,13 +572,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=60)** One great way to do it is using something called Predictive Model Markup Language or PMML.
 >
-> **[1:09](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=69)** Now, this has been around for many, many years, and the corporate members of the Data Mining Group, which involves many of the important companies in this space collaborate on PMML so that you can get these complicated models out of one software package and into another one.
+> **[1:09](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=69)** Now, this has been around for many, many years, and the corporate members of the [[Data Mining]] Group, which involves many of the important companies in this space collaborate on PMML so that you can get these complicated models out of one software package and into another one.
 >
-> **[1:28](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=88)** Now, if you're particularly interested in this aspect of it or in the technology around deployment, you're going to want to check out Dan Sullivan's course right here in the library called "Deploying Scalable Machine Learning for Data Science," and he mentions PMML in the course.
+> **[1:28](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=88)** Now, if you're particularly interested in this aspect of it or in the technology around deployment, you're going to want to check out Dan Sullivan's course right here in the library called "Deploying Scalable Machine Learning for [[Data Science]]," and he mentions PMML in the course.
 >
-> **[1:48](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=108)** Deep learning is something you're bound to hear about, not just in machine learning instruction, but also in the news.
+> **[1:48](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=108)** [[Deep Learning]] is something you're bound to hear about, not just in machine learning instruction, but also in the news.
 >
-> **[1:56](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=116)** What deep learning is is very complex artificial neural networks.
+> **[1:56](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=116)** What deep learning is is very complex [[Artificial Neural Networks]].
 >
 > **[2:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=120)** In fact, what makes it deep is that there's more than one hidden layer or many hidden layers.
 >
@@ -600,11 +592,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=142)** So we've lost all transparency.
 >
-> **[2:24](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=144)** And this diagram reflects what would now be a deep learning model of trivial size compared to the famous large language models like ChatGPT 4.
+> **[2:24](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=144)** And this diagram reflects what would now be a deep learning model of trivial size compared to the famous [[Large Language Models (LLM)|large language models]] like [[ChatGPT]] 4.
 >
 > **[2:36](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=156)** It is believed that ChatGPT 4 has 120 hidden layers in nearly 2 trillion parameters, that would be 2 trillion lines.
 >
-> **[2:49](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=169)** The good news is that for most folks, you're dealing with everyday business problems and you're not going to have to worry about speech recognition and driverless cars, or building your own large language model, which are the big application areas for deep learning.
+> **[2:49](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=169)** The good news is that for most folks, you're dealing with everyday business problems and you're not going to have to worry about [[Speech Recognition]] and driverless cars, or building your own large language model, which are the big application areas for deep learning.
 >
 > **[3:07](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-a-black-box-model?u=76281980&t=187)** Most of us facing everyday business problems within our organizations are going to be able to get by just fine with models that are somewhat less complicated than deep learning models.
 >
@@ -614,13 +606,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (7), data (2), [[ChatGPT]] (2), business (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (7), [[ChatGPT]] (2), [[Forms]] (1), [[Algorithms]] (1), [[Data Mining]] (1)
 > **Env Vars:** pmml (3)
 > **Definitions:** in other words (1), means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scoring an ensemble
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980)
+#### [Scoring an ensemble](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,15 +639,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980&t=62)** And sometimes you combine them by simply performing an average.
 >
-> **[1:06](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980&t=66)** Another option that has been doing especially well in data mining competitions recently is called stacking.
+> **[1:06](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980&t=66)** Another option that has been doing especially well in [[Data Mining]] competitions recently is called stacking.
 >
 > **[1:14](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980&t=74)** You build multiple models, and then there's another model on top, which takes the predictions of the first models as input and then produces your final prediction.
 >
 > **[1:25](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980&t=85)** They're really something and they perform very well.
 >
-> **[1:29](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980&t=89)** That's why they're consistently among the top performers in these predictive analytics competitions.
+> **[1:29](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980&t=89)** That's why they're consistently among the top performers in these [[Predictive Analytics]] competitions.
 >
-> **[1:34](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980&t=94)** I have a course dedicated to ensembles in the library that explains the concepts like stacking, as well as the algorithms like Random Forest and XGBoost.
+> **[1:34](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980&t=94)** I have a course dedicated to ensembles in the library that explains the concepts like stacking, as well as the [[Algorithms]] like Random Forest and XGBoost.
 >
 > **[1:45](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-an-ensemble?u=76281980&t=105)** A bit of a cautionary note: if you're building five models or 10 models, then your scoring is going to be roughly five or 10 times slower because you have to score them separately, then perform the calculation that combines them.
 >
@@ -674,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Predictive Analytics]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Predictive Analytics]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -683,12 +674,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Batch vs. real-time scoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/batch-vs-real-time-scoring?u=76281980)
+#### [Batch vs. real-time scoring](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/batch-vs-real-time-scoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/batch-vs-real-time-scoring?u=76281980&t=0)** - [Instructor] Now we're going to talk about batch scoring versus real-time scoring.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/batch-vs-real-time-scoring?u=76281980&t=0)** - [Instructor] Now we're going to talk about batch scoring versus [[Real-Time]] scoring.
 >
 > **[0:06](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/batch-vs-real-time-scoring?u=76281980&t=6)** We're going to have to focus on when to choose each.
 >
@@ -792,15 +782,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (9), business (6)
+> **Frameworks & Libraries:** [[Real-Time]] (9)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data prep and scoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-prep-and-scoring?u=76281980)
+#### [Data prep and scoring](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-prep-and-scoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -816,9 +805,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-prep-and-scoring?u=76281980&t=19)** Some folks got it on the fourth, some folks on the eighth and so on.
 >
-> **[0:24](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-prep-and-scoring?u=76281980&t=24)** So on the evenings that those monthly statements were about to go out, all the new billing variables were calculated, and an hour later at one in the morning, all the data preparation was done.
+> **[0:24](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-prep-and-scoring?u=76281980&t=24)** So on the evenings that those monthly statements were about to go out, all the new billing variables were calculated, and an hour later at one in the morning, all the [[Data Preparation]] was done.
 >
-> **[0:38](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-prep-and-scoring?u=76281980&t=38)** So what all those calculations were doing was the feature engineering that the modelers had prototyped during the data prep and ultimately the modeling phase, and that were going to be used in the model.
+> **[0:38](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-prep-and-scoring?u=76281980&t=38)** So what all those calculations were doing was the [[Feature Engineering]] that the modelers had prototyped during the data prep and ultimately the modeling phase, and that were going to be used in the model.
 >
 > **[0:52](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-prep-and-scoring?u=76281980&t=52)** And then an hour after that, at two in the morning, the model ran and the scores were calculated.
 >
@@ -866,15 +855,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Feature Engineering]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (4), [[Feature Engineering]] (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining batch and real-time scoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/combining-batch-and-real-time-scoring?u=76281980)
+#### [Combining batch and real-time scoring](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/combining-batch-and-real-time-scoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,7 +902,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -924,12 +911,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is model monitoring?
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980)
+#### [What is model monitoring?](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=0)** - [Instructor] The Cross-Industry Standard Process for Data Mining describes monitoring and maintenance in the following way.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=0)** - [Instructor] The Cross-Industry Standard Process for [[Data Mining]] describes monitoring and maintenance in the following way.
 >
 > **[0:06](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=6)** "Monitoring and maintenance are important issues if the data mining results becomes part of the day-to-fay business and its environment.
 >
@@ -937,7 +923,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=24)** I want to elaborate on this a little bit more and then provide a case study.
 >
-> **[0:29](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=29)** Here are some other considerations that CRISP-DM provides.
+> **[0:29](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=29)** Here are some other considerations that [[CRISP-DM]] provides.
 >
 > **[0:34](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=34)** How do you know when this is happening?
 >
@@ -963,11 +949,11 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=138)** Now, if you want a more philosophical take on model monitoring, in Tom Khabaza's "The 9 Laws of Data Mining," he talks about the law of change.
 >
-> **[2:30](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=150)** I discuss the law of change as well as all of the CRISP-DM phases in detail in my course, [[Predictive Analytics Essential Training- Data Mining]].
+> **[2:30](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=150)** I discuss the law of change as well as all of the CRISP-DM phases in detail in my course, [[[[Predictive Analytics]] Essential Training- Data Mining]].
 >
 > **[2:42](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=162)** I want to now share an example, which, unfortunately, is an example where monitoring was not done, and it started to cause problems.
 >
-> **[2:51](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=171)** I was invited in for an initial chat with a manufacturer who wanted to completely rebuild their forecasting model.
+> **[2:51](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=171)** I was invited in for an initial chat with a manufacturer who wanted to completely rebuild their [[Forecasting]] model.
 >
 > **[3:02](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980&t=182)** Now, this model had taken many weeks, in fact, almost certainly many months, to build.
 >
@@ -1011,15 +997,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (3), [[CRISP-DM]] (2), [[Predictive Analytics]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (6), [[CRISP-DM]] (2), [[Predictive Analytics]] (1), [[Forecasting]] (1)
 > **Env Vars:** crisp (2), mape (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### How often should you rebuild?
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/how-often-should-you-rebuild?u=76281980)
+#### [How often should you rebuild?](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/how-often-should-you-rebuild?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1050,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/how-often-should-you-rebuild?u=76281980&t=133)** How about much more frequent?
 >
-> **[2:16](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/how-often-should-you-rebuild?u=76281980&t=136)** How about real-time scoring combined with somehow automatically building the model every night?
+> **[2:16](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/how-often-should-you-rebuild?u=76281980&t=136)** How about [[Real-Time]] scoring combined with somehow automatically building the model every night?
 >
 > **[2:23](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/how-often-should-you-rebuild?u=76281980&t=143)** Something that increasingly software vendors make it easy for you to do.
 >
@@ -1119,7 +1104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (3), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 

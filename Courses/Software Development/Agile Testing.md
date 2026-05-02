@@ -83,8 +83,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing agile projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/testing-agile-projects?u=76281980)
+#### [Testing agile projects](https://www.linkedin.com/learning/agile-testing-2/testing-agile-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/agile-testing-2/testing-agile-projects?u=76281980&t=6)** Nope. Absolutely not.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-testing-2/testing-agile-projects?u=76281980&t=8)** In Agile workflows, project work is tested from kickoff to delivery by validating or verifying each step in development.
+> **[0:08](https://www.linkedin.com/learning/agile-testing-2/testing-agile-projects?u=76281980&t=8)** In [[Agile Development|Agile]] workflows, project work is tested from kickoff to delivery by validating or verifying each step in development.
 >
 > **[0:16](https://www.linkedin.com/learning/agile-testing-2/testing-agile-projects?u=76281980&t=16)** Understanding the role of a tester, as well as some of the methods Agile testers utilize, can help you build robust testing processes that complement Agile methodologies.
 >
@@ -114,8 +113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing in the agile context
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/testing-in-the-agile-context-19300571?u=76281980)
+#### [Testing in the agile context](https://www.linkedin.com/learning/agile-testing-2/testing-in-the-agile-context-19300571?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/agile-testing-2/testing-in-the-agile-context-19300571?u=76281980&t=34)** However, a question I always ask is, why wait when there are measures that can be taken to gain understanding about a product's quality earlier in the process?
 >
-> **[0:44](https://www.linkedin.com/learning/agile-testing-2/testing-in-the-agile-context-19300571?u=76281980&t=44)** This is called testing in an agile context, or simply agile testing.
+> **[0:44](https://www.linkedin.com/learning/agile-testing-2/testing-in-the-agile-context-19300571?u=76281980&t=44)** This is called testing in an [[Agile Development|agile]] context, or simply agile testing.
 >
 > **[0:49](https://www.linkedin.com/learning/agile-testing-2/testing-in-the-agile-context-19300571?u=76281980&t=49)** Agile testing is an interactive, self-organizing process where experience and collaboration govern the ability to deliver effectively, taking the nature of agile and matching it with the best integration points within a workflow to provide the most feedback possible, all the while accessing most knowledge and understanding about technology at the very state it is in.
 >
@@ -143,14 +141,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), product (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5)
 > **Definitions:** is called (1), is an  (1)
 > **Analogies:** imagine (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - testing (1)
 
-#### The role of the tester
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980)
+#### [The role of the tester](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -162,7 +159,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=15)** By conceptualizing the product and talking through the product's anticipated use, a measure is then created.
 >
-> **[0:22](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=22)** This practice of product creation allows enough insight into the desired user experience and its anticipated usage that a tester can begin to understand what the business expects.
+> **[0:22](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=22)** This practice of product creation allows enough insight into the desired [[User Experience (UX)|user experience]] and its anticipated usage that a tester can begin to understand what the business expects.
 >
 > **[0:34](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=34)** This idea is considered product complete.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=64)** Testers begin this process by applying unique skills to assist in governing quality.
 >
-> **[1:09](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=69)** For example, at the beginning of a project, while getting acquainted with a product a tester reviews any products requirements, asks clarifying questions extracts important information needed to set a standard of quality, creates a plan outlining the product's testability and implements a structure in which a team can be successful at realizing this quality.
+> **[1:09](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=69)** For example, at the beginning of a project, while getting acquainted with a product a tester reviews any [[Microsoft Products|products]] requirements, asks clarifying questions extracts important information needed to set a standard of quality, creates a plan outlining the product's testability and implements a structure in which a team can be successful at realizing this quality.
 >
 > **[1:33](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=93)** The process is looking at the product from a different scope.
 >
@@ -196,28 +193,27 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=153)** Testers serve a unique role, and when included as part of a product team are able to amplify a product's quality.
 >
-> **[2:40](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=160)** Through testing and guided practices the tester can manage quality, implement a standard of quality for the product, and monitor its success for the team throughout the agile process.
+> **[2:40](https://www.linkedin.com/learning/agile-testing-2/the-role-of-the-tester-19299609?u=76281980&t=160)** Through testing and guided practices the tester can manage quality, implement a standard of quality for the product, and monitor its success for the team throughout the [[Agile Development|agile]] process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (15), business (4), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shifting left
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/shifting-left-19802061?u=76281980)
+#### [Shifting left](https://www.linkedin.com/learning/agile-testing-2/shifting-left-19802061?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-testing-2/shifting-left-19802061?u=76281980&t=1)** - A scene that often plays out in my head when I think about an issue in a project is the moment when someone expresses, "I wish I had known sooner" or "Why are you just telling me now?"
 >
-> **[0:12](https://www.linkedin.com/learning/agile-testing-2/shifting-left-19802061?u=76281980&t=12)** I think about these moments because how testing is positioned in line with product development.
+> **[0:12](https://www.linkedin.com/learning/agile-testing-2/shifting-left-19802061?u=76281980&t=12)** I think about these moments because how testing is positioned in line with [[Product Development]].
 >
 > **[0:18](https://www.linkedin.com/learning/agile-testing-2/shifting-left-19802061?u=76281980&t=18)** Often typecast as the bottleneck or the end of the road, testers are the recipients of code in its concluding stages, leaving little time for anything more than a superficial stamp of approval.
 >
 > **[0:30](https://www.linkedin.com/learning/agile-testing-2/shifting-left-19802061?u=76281980&t=30)** When I recall these moments, I cannot help but think, heavens, I never want to do that again, and honestly I won't.
 >
-> **[0:38](https://www.linkedin.com/learning/agile-testing-2/shifting-left-19802061?u=76281980&t=38)** Agile testing is a practice built off of the concept of early integrations for faster feedback and regular integrations of testing along the way.
+> **[0:38](https://www.linkedin.com/learning/agile-testing-2/shifting-left-19802061?u=76281980&t=38)** [[Agile Development|Agile]] testing is a practice built off of the concept of early integrations for faster feedback and regular integrations of testing along the way.
 >
 > **[0:47](https://www.linkedin.com/learning/agile-testing-2/shifting-left-19802061?u=76281980&t=47)** The idea of shifting left.
 >
@@ -261,16 +257,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Product Development]] (1), [[Agile Development|Agile]] (1), feature (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
-#### Test collaborations
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/test-collaborations-19296835?u=76281980)
+#### [Test collaborations](https://www.linkedin.com/learning/agile-testing-2/test-collaborations-19296835?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-testing-2/test-collaborations-19296835?u=76281980&t=1)** - As a concept, collaboration is at the very center of Agile.
+> **[0:01](https://www.linkedin.com/learning/agile-testing-2/test-collaborations-19296835?u=76281980&t=1)** - As a concept, collaboration is at the very center of [[Agile Development|Agile]].
 >
 > **[0:05](https://www.linkedin.com/learning/agile-testing-2/test-collaborations-19296835?u=76281980&t=5)** The Agile manifesto states, "We value individuals and interactions over tools and process," placing the most important aspects of any Agile team in the hands of the individuals.
 >
@@ -284,7 +279,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/agile-testing-2/test-collaborations-19296835?u=76281980&t=41)** Among many responsibilities, the iterations of a project are validated to discern whether the product being built is in compliance with what is expected.
 >
-> **[0:50](https://www.linkedin.com/learning/agile-testing-2/test-collaborations-19296835?u=76281980&t=50)** This is done through a series of tests that are run to generate real-time data about the product.
+> **[0:50](https://www.linkedin.com/learning/agile-testing-2/test-collaborations-19296835?u=76281980&t=50)** This is done through a series of tests that are run to generate [[Real-Time]] data about the product.
 >
 > **[0:57](https://www.linkedin.com/learning/agile-testing-2/test-collaborations-19296835?u=76281980&t=57)** Based on the information gathered, testers can take the data and turn it into constructive feedback about the overall product quality.
 >
@@ -310,12 +305,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Agile Development|Agile]] (7), data (3), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Real-Time]] (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - as (1)
 
-#### Fundamental QA methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/fundamental-qa-methods-19297645?u=76281980)
+#### [Fundamental QA methods](https://www.linkedin.com/learning/agile-testing-2/fundamental-qa-methods-19297645?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +321,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/agile-testing-2/fundamental-qa-methods-19297645?u=76281980&t=12)** Being able to vet which ones are going to be the most beneficial relies on two things, knowing enough about each testing method to identify its use case, and knowing when to apply them.
 >
-> **[0:24](https://www.linkedin.com/learning/agile-testing-2/fundamental-qa-methods-19297645?u=76281980&t=24)** Take testing on a Scrum team, for example.
+> **[0:24](https://www.linkedin.com/learning/agile-testing-2/fundamental-qa-methods-19297645?u=76281980&t=24)** Take testing on a [[Scrum]] team, for example.
 >
 > **[0:27](https://www.linkedin.com/learning/agile-testing-2/fundamental-qa-methods-19297645?u=76281980&t=27)** Consider you are working on a team that has two-week sprints.
 >
@@ -375,7 +369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Scrum]] (1), power (1), functional (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -387,12 +381,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Backlog grooming
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/backlog-grooming-19801484?u=76281980)
+#### [Backlog grooming](https://www.linkedin.com/learning/agile-testing-2/backlog-grooming-19801484?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-testing-2/backlog-grooming-19801484?u=76281980&t=1)** - In Agile projects, there are meetings designed to move through work that creates a pattern for addressing its most basic needs.
+> **[0:01](https://www.linkedin.com/learning/agile-testing-2/backlog-grooming-19801484?u=76281980&t=1)** - In [[Agile Development|Agile]] projects, there are meetings designed to move through work that creates a pattern for addressing its most basic needs.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-testing-2/backlog-grooming-19801484?u=76281980&t=8)** Over time, these meetings add more information that define and detail the product being built.
 >
@@ -418,15 +411,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - in (1)
 
-#### Sprint planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/sprint-planning-19801485?u=76281980)
+#### [Sprint planning](https://www.linkedin.com/learning/agile-testing-2/sprint-planning-19801485?u=76281980)
 
-#### The "three amigos"
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/the-three-amigos-19295907?u=76281980)
+#### [The "three amigos"](https://www.linkedin.com/learning/agile-testing-2/the-three-amigos-19295907?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,7 +425,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/agile-testing-2/the-three-amigos-19295907?u=76281980&t=7)** However, by adding a third, there is support enough to reinforce and support an idea.
 >
-> **[0:12](https://www.linkedin.com/learning/agile-testing-2/the-three-amigos-19295907?u=76281980&t=12)** In agile, this is something referred to as the three amigos.
+> **[0:12](https://www.linkedin.com/learning/agile-testing-2/the-three-amigos-19295907?u=76281980&t=12)** In [[Agile Development|agile]], this is something referred to as the three amigos.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-testing-2/the-three-amigos-19295907?u=76281980&t=17)** Imagine a woman is given two sturdy cylinders and a wooden plane, and is asked to build a solid structure.
 >
@@ -476,15 +467,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), for example (1)
 > **Tools:** notion (1)
 > **Speakers:** - the (1)
 
-#### Story kickoff
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/story-kickoff-19298622?u=76281980)
+#### [Story kickoff](https://www.linkedin.com/learning/agile-testing-2/story-kickoff-19298622?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -532,8 +522,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - technology (1)
 
-#### Retrospective
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/retrospective-19296834?u=76281980)
+#### [Retrospective](https://www.linkedin.com/learning/agile-testing-2/retrospective-19296834?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,7 +534,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/agile-testing-2/retrospective-19296834?u=76281980&t=21)** Feedback gives the team a sincere view of how they're functioning.
 >
-> **[0:25](https://www.linkedin.com/learning/agile-testing-2/retrospective-19296834?u=76281980&t=25)** This event is the crowning opportunity in the agile process.
+> **[0:25](https://www.linkedin.com/learning/agile-testing-2/retrospective-19296834?u=76281980&t=25)** This event is the crowning opportunity in the [[Agile Development|agile]] process.
 >
 > **[0:29](https://www.linkedin.com/learning/agile-testing-2/retrospective-19296834?u=76281980&t=29)** This meeting is called the retrospective and the findings can be used to create a foundation for progress.
 >
@@ -557,7 +546,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/agile-testing-2/retrospective-19296834?u=76281980&t=56)** However, this can only happen after a discussion about what did and did not work in the past.
 >
-> **[1:02](https://www.linkedin.com/learning/agile-testing-2/retrospective-19296834?u=76281980&t=62)** A retrospective is moderated by an unbiased lead, usually the Scrum Master or other neutral member of the team.
+> **[1:02](https://www.linkedin.com/learning/agile-testing-2/retrospective-19296834?u=76281980&t=62)** A retrospective is moderated by an unbiased lead, usually the [[Scrum]] Master or other neutral member of the team.
 >
 > **[1:10](https://www.linkedin.com/learning/agile-testing-2/retrospective-19296834?u=76281980&t=70)** The goal is to talk about three things: what the team is doing well in order to get their tasks and tickets completed; any issues the team has noticed in the process; and ideas, thoughts, and theories on how the team can improve.
 >
@@ -587,12 +576,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - when (1)
 
-#### Action outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980)
+#### [Action outcomes](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=0)** - Agile methodologies strive to include all voices.
+> **[0:00](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=0)** - [[Agile Development|Agile]] methodologies strive to include all voices.
 >
 > **[0:04](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=4)** Each member of the team has a significant impact on the projects they are working on.
 >
@@ -606,7 +594,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=29)** It also helps predict future outcomes based on the ever-flowing information collected throughout a project's lifeline.
 >
-> **[0:36](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=36)** Teams who use Scrum or Kanban have routine feedback loops that provide insight.
+> **[0:36](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=36)** Teams who use [[Scrum]] or Kanban have routine feedback loops that provide insight.
 >
 > **[0:41](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=41)** These loops can outline and tag potential risks, assist in course correction, provide clarity, and even help assess the overall quality of a project.
 >
@@ -620,7 +608,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=83)** This information also helps refine the process in which the team is taking to complete the work.
 >
-> **[1:29](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=89)** Feedback helps compare the products being built with the user stories that are created for the sprint to verify that completed work aligns with desired outcomes.
+> **[1:29](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=89)** Feedback helps compare the [[Microsoft Products|products]] being built with the user stories that are created for the sprint to verify that completed work aligns with desired outcomes.
 >
 > **[1:39](https://www.linkedin.com/learning/agile-testing-2/action-outcomes-19801483?u=76281980&t=99)** A tester is paramount in providing details about a product's health.
 >
@@ -628,17 +616,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Agile Development|Agile]] (3), teams (1), [[Scrum]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Scrum]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - agile (1)
 
-#### Challenge: Testing estimations
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/challenge-testing-estimations-19297646?u=76281980)
+#### [Challenge: Testing estimations](https://www.linkedin.com/learning/agile-testing-2/challenge-testing-estimations-19297646?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-testing-2/challenge-testing-estimations-19297646?u=76281980&t=0)** - It's time for a quick challenge.
 >
-> **[0:03](https://www.linkedin.com/learning/agile-testing-2/challenge-testing-estimations-19297646?u=76281980&t=3)** A tester's involvement in Agile ceremonies is incredibly important to fully understand the scope of a project.
+> **[0:03](https://www.linkedin.com/learning/agile-testing-2/challenge-testing-estimations-19297646?u=76281980&t=3)** A tester's involvement in [[Agile Development|Agile]] ceremonies is incredibly important to fully understand the scope of a project.
 >
 > **[0:10](https://www.linkedin.com/learning/agile-testing-2/challenge-testing-estimations-19297646?u=76281980&t=10)** Their contributions to the team are not free of cost or time.
 >
@@ -660,11 +647,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Speakers:** - it (1)
 
-#### Solution: Testing estimations
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/solution-testing-estimations-19296837?u=76281980)
+#### [Solution: Testing estimations](https://www.linkedin.com/learning/agile-testing-2/solution-testing-estimations-19296837?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,7 +700,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Automation]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
 
@@ -723,8 +708,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bug tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/bug-tracking-19295906?u=76281980)
+#### [Bug tracking](https://www.linkedin.com/learning/agile-testing-2/bug-tracking-19295906?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,7 +726,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/agile-testing-2/bug-tracking-19295906?u=76281980&t=38)** Things that can be easily communicated on smaller teams might need more defined organization, and additional options when working in different locations or in greater numbers, such as easy queries, project grouping, or organized workflows in swim lanes.
 >
-> **[0:53](https://www.linkedin.com/learning/agile-testing-2/bug-tracking-19295906?u=76281980&t=53)** Agile teams are able to determine what works best for them.
+> **[0:53](https://www.linkedin.com/learning/agile-testing-2/bug-tracking-19295906?u=76281980&t=53)** [[Agile Development|Agile]] teams are able to determine what works best for them.
 >
 > **[0:57](https://www.linkedin.com/learning/agile-testing-2/bug-tracking-19295906?u=76281980&t=57)** Though organization can be verbal or via spreadsheet, in most cases, the help of some sort of electronic assistant is needed.
 >
@@ -792,14 +776,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), web (2), [[Agile Development|Agile]] (1), game (1), feature (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - organization (1)
 
-#### Workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/workflow-19801482?u=76281980)
+#### [Workflow](https://www.linkedin.com/learning/agile-testing-2/workflow-19801482?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -851,13 +834,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), teams (1), next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Bug advocacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/bug-advocacy-19296836?u=76281980)
+#### [Bug advocacy](https://www.linkedin.com/learning/agile-testing-2/bug-advocacy-19296836?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -901,7 +882,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/agile-testing-2/bug-advocacy-19296836?u=76281980&t=83)** That's not to say that the decision to fix a bug should only lie in the hands of a tester.
 >
-> **[1:29](https://www.linkedin.com/learning/agile-testing-2/bug-advocacy-19296836?u=76281980&t=89)** On the contrary, as an agile team, it should be documented enough to assess the impact the bug brings into the project.
+> **[1:29](https://www.linkedin.com/learning/agile-testing-2/bug-advocacy-19296836?u=76281980&t=89)** On the contrary, as an [[Agile Development|agile]] team, it should be documented enough to assess the impact the bug brings into the project.
 >
 > **[1:36](https://www.linkedin.com/learning/agile-testing-2/bug-advocacy-19296836?u=76281980&t=96)** The bug should serve as a discussion piece in evaluating what degree of quality to uphold.
 >
@@ -915,13 +896,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), career (1), product (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### Test matrices
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/test-matrices-19801486?u=76281980)
+#### [Test matrices](https://www.linkedin.com/learning/agile-testing-2/test-matrices-19801486?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -955,7 +935,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/agile-testing-2/test-matrices-19801486?u=76281980&t=85)** This portion of the test plan is a matter of where users are using the product, not necessarily what is being built.
 >
-> **[1:32](https://www.linkedin.com/learning/agile-testing-2/test-matrices-19801486?u=76281980&t=92)** Tools such as Google Analytics or software like Looker or Fabric can be used to help assess information such as what percentage of users are using your product on each browser?
+> **[1:32](https://www.linkedin.com/learning/agile-testing-2/test-matrices-19801486?u=76281980&t=92)** Tools such as [[Google]] Analytics or software like Looker or Fabric can be used to help assess information such as what percentage of users are using your product on each browser?
 >
 > **[1:44](https://www.linkedin.com/learning/agile-testing-2/test-matrices-19801486?u=76281980&t=104)** Based on the information you find, expectations of testability can be established.
 >
@@ -993,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), application (3), next (1), [[Google]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Code Identifiers:** ipad (2), iphone (2)
 > **Analogies:** such as (2), for example (2)
 > **Tools:** safari (3)
@@ -1007,14 +987,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manual testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/manual-testing-19295905?u=76281980)
+#### [Manual testing](https://www.linkedin.com/learning/agile-testing-2/manual-testing-19295905?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-testing-2/manual-testing-19295905?u=76281980&t=0)** - Testing is the art of looking for all possible combinations of adverse and positive effects on a software and applying a condition to them.
 >
-> **[0:09](https://www.linkedin.com/learning/agile-testing-2/manual-testing-19295905?u=76281980&t=9)** This is done by many ways, one of which is manual testing.
+> **[0:09](https://www.linkedin.com/learning/agile-testing-2/manual-testing-19295905?u=76281980&t=9)** This is done by many ways, one of which is [[Manual Testing]].
 >
 > **[0:13](https://www.linkedin.com/learning/agile-testing-2/manual-testing-19295905?u=76281980&t=13)** This term is a bit deceiving.
 >
@@ -1052,21 +1031,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Manual Testing]] (3), product (1), strengths (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (3)
 > **Definitions:** is a  (3), means that (1), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - testing (1)
 
-#### Test automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980)
+#### [Test automation](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980&t=1)** - People simply cannot execute certain tests at the speed or mass needed to evaluate specific information about the software.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980&t=8)** Load testing or understanding the conditions of a software when under extreme exposure or visitation is a scenario in which a human would have a hard time alone performing.
+> **[0:08](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980&t=8)** [[Load Testing]] or understanding the conditions of a software when under extreme exposure or visitation is a scenario in which a human would have a hard time alone performing.
 >
-> **[0:19](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980&t=19)** And so the answer to these questions brings another tool into a tester's tool belt, test automation.
+> **[0:19](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980&t=19)** And so the answer to these questions brings another tool into a tester's tool belt, [[Test Automation]].
 >
 > **[0:27](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980&t=27)** A series of tests that needs to be run in succession at rapid speed will best be served by automating the process.
 >
@@ -1094,22 +1072,21 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980&t=113)** Looking for ways to automate tests is a better value, in light of time, for your regular or extreme testing tasks.
 >
-> **[2:01](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980&t=121)** Automated tests can help support manual testing by identifying unexpected changes within your code.
+> **[2:01](https://www.linkedin.com/learning/agile-testing-2/test-automation-19299608?u=76281980&t=121)** Automated tests can help support [[Manual Testing]] by identifying unexpected changes within your code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test Automation]] (3), application (2), [[Load Testing]] (1), product (1), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Test Automation]] (3), [[Load Testing]] (1), [[Manual Testing]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - people (1)
 
-#### Continuous integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/continuous-integration-19297644?u=76281980)
+#### [Continuous integration](https://www.linkedin.com/learning/agile-testing-2/continuous-integration-19297644?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-testing-2/continuous-integration-19297644?u=76281980&t=0)** - Continuous integration is the practice of regularly pushing code to a shared repository.
+> **[0:00](https://www.linkedin.com/learning/agile-testing-2/continuous-integration-19297644?u=76281980&t=0)** - [[Continuous Integration (CI)|Continuous integration]] is the practice of regularly pushing code to a shared repository.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-testing-2/continuous-integration-19297644?u=76281980&t=6)** The idea behind regular integration, regular, being a measure established by a team, is to run quality checks on smaller batches of code.
 >
@@ -1141,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (4), feature (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (4)
 > **Speakers:** - continuous (1)
 
 
@@ -1149,12 +1126,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/next-steps-23016445?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/agile-testing-2/next-steps-23016445?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-testing-2/next-steps-23016445?u=76281980&t=0)** - Thanks for joining me for agile testing.
+> **[0:00](https://www.linkedin.com/learning/agile-testing-2/next-steps-23016445?u=76281980&t=0)** - Thanks for joining me for [[Agile Development|agile]] testing.
 >
 > **[0:03](https://www.linkedin.com/learning/agile-testing-2/next-steps-23016445?u=76281980&t=3)** This is a vast topic, so if this course has sparked your interest, I urge you to keep learning.
 >

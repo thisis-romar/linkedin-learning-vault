@@ -91,22 +91,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980&t=0)** - [Harrison] Agile is one of those things that you either love or hate.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980&t=0)** - [Harrison] [[Agile Development|Agile]] is one of those things that you either love or hate.
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980&t=3)** It's fast, intense, sometimes messy, and other times simplicity itself.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980&t=9)** Whether or not you fall into either of these camps, the Agile philosophy and its many methodologies and implementations are a perfect fit for software development.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980&t=9)** Whether or not you fall into either of these camps, the Agile philosophy and its many methodologies and implementations are a perfect fit for [[Software Development]].
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980&t=18)** I want to share some of the development practices and practical tips I've learned as they relate to being an Agile developer.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980&t=25)** Hi, I'm Harrison Ferrone.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980&t=27)** I've been a software developer, Agile enthusiast, and certified scrum master for almost a decade.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980&t=27)** I've been a software developer, Agile enthusiast, and certified [[Scrum]] master for almost a decade.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980&t=32)** Whether you're a new Agile dev or part of a seasoned team, this course aims to provide concrete advice, practical knowledge, and tips to take your Agile development capabilities to the next level.
 >
@@ -114,27 +113,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Software Development]] (1), [[Scrum]] (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Software Development]] (1), [[Scrum]] (1)
 > **Speakers:** - [harrison] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=0)** - [Narrator] Before we dive in, there are a few things that we should go over.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=4)** I've designed this course to help developers who are already familiar with Agile processes and who are using Agile methodologies in their software projects.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=4)** I've designed this course to help developers who are already familiar with [[Agile Development|Agile]] processes and who are using Agile methodologies in their [[Software Projects]].
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=13)** We won't be going into any Agile basics or foundational knowledge here, but I've structured the information we'll be covering to be as platform agnostic and non-technical as possible.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=24)** If you want to delve into the basics of Agile and Scrum, I'd highly recommend our Scrum Basics Training course on LinkedIn learning.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=24)** If you want to delve into the basics of Agile and [[Scrum]], I'd highly recommend our Scrum Basics Training course on [[LinkedIn]] learning.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=32)** Here we'll be focusing exclusively on the technical design, development, testing, and release phases of Agile projects from a developer-centric point of view.
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=43)** What we're not going to cover is concepting, requirement gathering, and visual design.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=49)** Again, you can check out the rest of our Agile library because we have several courses that cover these topics in depth.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=49)** Again, you can check out the [[Representational State Transfer (REST)|rest]] of our Agile library because we have several courses that cover these topics in depth.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/what-you-should-know?u=76281980&t=55)** As a note, when I refer to Agile development throughout the course, I'm referring to the Scrum methodology and implementation.
 >
@@ -152,12 +150,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting involved early
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/getting-involved-early?u=76281980)
+#### [Getting involved early](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/getting-involved-early?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/getting-involved-early?u=76281980&t=0)** - [Narrator] One of the most important takeaways from agile development is that everyone needs to be working together, not only developers and designers, but also clients, stakeholders, and testers.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/getting-involved-early?u=76281980&t=0)** - [Narrator] One of the most important takeaways from [[Agile Development|agile]] development is that everyone needs to be working together, not only developers and designers, but also clients, stakeholders, and testers.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/getting-involved-early?u=76281980&t=11)** Communication is king, especially between developers and designers.
 >
@@ -187,14 +184,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Picking your tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980)
+#### [Picking your tools](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=0)** - [Instructor] Choosing a technical and managerial tool set is an important part of the design phase and one that agile developers should be in on.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=0)** - [Instructor] Choosing a technical and managerial tool set is an important part of the design phase and one that [[Agile Development|agile]] developers should be in on.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=8)** This can be anything from project management and version control software, to third party development libraries, and really anything in between.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=8)** This can be anything from project management and [[Version Control]] software, to third party development libraries, and really anything in between.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=17)** Although flexible, iterative, and focused on working software over documentation and processes, agile projects still need management tools.
 >
@@ -216,13 +212,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=59)** That is, will there be lead time necessary for your developers to learn them?
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=65)** For agile project tracking, I recommend basic kanban boards like Trello, Pivotal Tracker, or Airtable, that you can create user stories, backlogs, and sprints on without having to train your team on complex software.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=65)** For agile [[Project Tracking]], I recommend basic kanban boards like [[Trello]], Pivotal Tracker, or Airtable, that you can create user stories, backlogs, and sprints on without having to train your team on complex software.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=78)** They also happen to have a lot of secondary features, custom tailored to agile management.
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=84)** If you end up needing something more powerful, that's no problem at all.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=87)** Go ahead and make the jump to Jira or Hansoft.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=87)** Go ahead and make the jump to [[Jira]] or Hansoft.
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/picking-your-tools?u=76281980&t=90)** Just remember that if you can make it work with a simple solution, that's what you should choose.
 >
@@ -240,20 +236,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), management (3), [[Version Control]] (1), [[Project Tracking]] (1), [[Trello]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Version Control]] (1), [[Project Tracking]] (1), [[Trello]] (1), [[Jira]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** jira (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### To document or not
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/to-document-or-not?u=76281980)
+#### [To document or not](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/to-document-or-not?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/to-document-or-not?u=76281980&t=0)** - [Narrator] The concept and design phases in waterfall development tend to produce heaps of documentation, user flows, project milestone documents, and so much more.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/to-document-or-not?u=76281980&t=11)** Agile is about leaning down all of those aspects of development, which includes documentation by the design phase of an agile project.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/to-document-or-not?u=76281980&t=11)** [[Agile Development|Agile]] is about leaning down all of those aspects of development, which includes documentation by the design phase of an agile project.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/to-document-or-not?u=76281980&t=19)** The technical team has a good understanding of the product they're building, but it's always a balancing act between need and time.
 >
@@ -263,7 +258,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/to-document-or-not?u=76281980&t=39)** Well, typically it's a good idea to have a short document with your project standards.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/to-document-or-not?u=76281980&t=44)** This can include how to write version control, commits user stories, anything that needs to be standardized across your team.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/to-document-or-not?u=76281980&t=44)** This can include how to write [[Version Control]], commits user stories, anything that needs to be standardized across your team.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/to-document-or-not?u=76281980&t=51)** A few simple rules about formatting shared information goes a long way in minimizing headaches and confusion later on.
 >
@@ -287,7 +282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), product (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Version Control]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
@@ -297,20 +292,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Flexible architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980)
+#### [Flexible architecture](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=0)** - [Instructor] One of the greatest advantages of [[Agile Software Development]] is its focus on iteration.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=0)** - [Instructor] One of the greatest advantages of [[[[Agile Software Development]]]] is its focus on iteration.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=6)** That being said, because the code base is going to be updated so frequently, it does need to be able to handle heavy iteration without architecture overhauls every sprint.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=16)** This doesn't mean everything has to be designed from the beginning as there's a big place in Agile for refactoring, but we'll get to that in a later video.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=16)** This doesn't mean everything has to be designed from the beginning as there's a big place in [[Agile Development|Agile]] for refactoring, but we'll get to that in a later video.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=25)** For now, let's just talk about some of the considerations we need to keep in mind, as far as project architecture goes.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=31)** You want to keep things as modular as possible, and this is something a lot of projects set out to do anyway, and us being the good programmers that we are, we do our best to make good use of design patterns and principles from the get go.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=31)** You want to keep things as modular as possible, and this is something a lot of projects set out to do anyway, and us being the good programmers that we are, we do our best to make good use of [[Design Patterns]] and principles from the get go.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=44)** Then come deadlines, changing requirements, bugs, and client feedback, and this can transform an orderly project design with the best of intentions into spaghetti code in a matter of weeks or days, and pretty soon you'll be a couple sprints in and your code base will be a mess.
 >
@@ -328,21 +322,20 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=102)** The key is that changes to the designs later on can be done in minutes instead of hours.
 >
-> **[1:49](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=109)** The same can be said of almost anything that will be used across your product, including classes, data structures, and debug helpers.
+> **[1:49](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=109)** The same can be said of almost anything that will be used across your product, including classes, [[Data Structures]], and debug helpers.
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980&t=117)** It's not surprising that a lot of the same traits that make a good Agile developer are also the same ones that make a good software developer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Agile Software Development]] (1), [[Design Patterns]] (1), application (1), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Agile Software Development]] (1), [[Design Patterns]] (1), [[Data Structures]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding premature optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/avoiding-premature-optimization?u=76281980)
+#### [Avoiding premature optimization](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/avoiding-premature-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -378,7 +371,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/avoiding-premature-optimization?u=76281980&t=66)** Looking ahead is a fantastic skill, but it often comes with blind spots 'cause it's hard to see the rabbit hole from the inside.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/avoiding-premature-optimization?u=76281980&t=74)** Now, time is your greatest asset when you're working with Agile.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/avoiding-premature-optimization?u=76281980&t=74)** Now, time is your greatest asset when you're working with [[Agile Development|Agile]].
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/avoiding-premature-optimization?u=76281980&t=77)** So be aware of the trade-offs between optimizing your code and moving forward with sprint tasks.
 >
@@ -400,12 +393,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determining velocity
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/determining-velocity?u=76281980)
+#### [Determining velocity](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/determining-velocity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/determining-velocity?u=76281980&t=0)** - [Narrator] In agile development, velocity is a measurement metric that's used to determine how much work an agile team can do over a period of time.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/determining-velocity?u=76281980&t=0)** - [Narrator] In [[Agile Development|agile]] development, velocity is a measurement metric that's used to determine how much work an agile team can do over a period of time.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/determining-velocity?u=76281980&t=9)** The period of time is usually a sprint, so you might also hear this defined as sprint velocity.
 >
@@ -437,19 +429,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [narrator] (1)
 
-#### Agile programming techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980)
+#### [Agile programming techniques](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=0)** - [Presenter] If you've ever wondered what programming methodologies go well with Agile development, look no further than pair programming and test-driven development or TDD.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=0)** - [Presenter] If you've ever wondered what programming methodologies go well with [[Agile Development|Agile]] development, look no further than pair programming and [[Test-Driven Development]] or TDD.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=10)** Now, full disclosure, there are many, many more, but these two methodologies are the most likely to deliver immediate value to you and your team if you're not already implementing them.
 >
@@ -481,7 +472,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=109)** Now here's the great part: Because you're only allowed to write code that passes specific tests, extraneous code gets left on the cutting room floor.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=117)** It doesn't hurt that developing this way naturally enforces good object-oriented programming techniques and all around clean code.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=117)** It doesn't hurt that developing this way naturally enforces good [[Object-Oriented Programming (OOP)|object-oriented programming]] techniques and all around clean code.
 >
 > **[2:05](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=125)** On top of that, you have a functional test suite that grows right alongside your production code base.
 >
@@ -493,21 +484,20 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=147)** If you want to run your Agile project using some other methodology or technique, go right ahead.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=152)** You'll still be running an Agile project if you stick to the tenets and philosophy of [[Agile Software Development]].
+> **[2:32](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/agile-programming-techniques?u=76281980&t=152)** You'll still be running an Agile project if you stick to the tenets and philosophy of [[[[Agile Software Development]]]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Programming]] (4), [[Test-Driven Development]] (2), next (1), feature (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Test-Driven Development]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Agile Software Development]] (1)
 > **Env Vars:** tdd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Refactor…then refactor more
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/refactor-then-refactor-more?u=76281980)
+#### [Refactor…then refactor more](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/refactor-then-refactor-more?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/refactor-then-refactor-more?u=76281980&t=0)** - [Instructor] One of the most important aspects of good agile development is including refactoring into your development time as the status quo, rather than something you do when there's free time in the schedule, or worse yet, as an afterthought at the end of the project.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/refactor-then-refactor-more?u=76281980&t=0)** - [Instructor] One of the most important aspects of good [[Agile Development|agile]] development is including refactoring into your development time as the status quo, rather than something you do when there's free time in the schedule, or worse yet, as an afterthought at the end of the project.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/refactor-then-refactor-more?u=76281980&t=16)** Let's look at some considerations for why refactoring should be done at every step of development.
 >
@@ -541,14 +531,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing your testing regimen
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980)
+#### [Choosing your testing regimen](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980&t=0)** - [Narrator] One of the most important decisions you'll have to make for your project is how to handle testing.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980&t=5)** In this section, we're going to explore some of the options that work best with agile development.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980&t=5)** In this section, we're going to explore some of the options that work best with [[Agile Development|agile]] development.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980&t=11)** The first, and I think the best way to test a software project, especially in an agile environment, is of course to use test driven development.
 >
@@ -562,9 +551,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980&t=40)** That being said, time platform and resource constraints are going to make that option difficult or impossible for some teams, so take that into account when planning this step.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980&t=51)** On the flip side of the testing coin is manual testing.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980&t=51)** On the flip side of the testing coin is [[Manual Testing]].
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980&t=54)** Now, this can be done by your client, by your stakeholders, a dedicated quality assurance team, or more than likely by the developers themselves.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980&t=54)** Now, this can be done by your client, by your stakeholders, a dedicated [[Quality Assurance]] team, or more than likely by the developers themselves.
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980&t=63)** You need to have a dedicated tester or testers and testing time set aside during each sprint.
 >
@@ -582,31 +571,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (3), [[Manual Testing]] (2), [[Quality Assurance]] (1), application (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Manual Testing]] (2), [[Quality Assurance]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), is a  (1)
 > **Cross-References:** we talked about (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [narrator] (1)
 
-#### Handling leapfrogging bugs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980)
+#### [Handling leapfrogging bugs](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=0)** z- [Instructor] Now that we've talked a little about test-driven development and manual testing, we're going to take a detour into something I call Leapfrogging Bugs.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=0)** z- [Instructor] Now that we've talked a little about [[Test-Driven Development]] and [[Manual Testing]], we're going to take a detour into something I call Leapfrogging Bugs.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=9)** The basic idea is this.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=10)** Let's say we have Sprint 1 finished up and we're starting Sprint 2 right away.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=15)** Ideally, we'd have done some quality assurance testing as part of the end of Sprint 1, but that's not always easy.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=15)** Ideally, we'd have done some [[Quality Assurance]] testing as part of the end of Sprint 1, but that's not always easy.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=23)** There will always be bugs that come up after the fact, and now we're in the middle of Sprint 2, and a few bugs and change requests come back into the backlog.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=32)** Here's the problem.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=33)** We're already doing new work on a new sprint deliverable, and the rules of Agile are designed to keep sprint tasks locked in once the sprint starts.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=33)** We're already doing new work on a new sprint deliverable, and the rules of [[Agile Development|Agile]] are designed to keep sprint tasks locked in once the sprint starts.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/handling-leapfrogging-bugs?u=76281980&t=42)** This stops them getting added to on the fly and generally making everybody angry.
 >
@@ -634,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), product (2), [[Test-Driven Development]] (1), [[Manual Testing]] (1), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Test-Driven Development]] (1), [[Manual Testing]] (1), [[Quality Assurance]] (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 
@@ -643,18 +631,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuous integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980)
+#### [Continuous integration](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=0)** - [Instructor] So far, we've addressed a few of the ways that you can handle continuous testing in Agile projects.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=0)** - [Instructor] So far, we've addressed a few of the ways that you can handle continuous testing in [[Agile Development|Agile]] projects.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=6)** The next question is, how do we handle integrating code from multiple developers so that our code base doesn't fragment?
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=13)** As our problem suggests, we need something that can handle code integration, and later, deployment with multiple developers working at the same time.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=20)** And that's where Continuous Integration comes in.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=20)** And that's where [[Continuous Integration (CI)|Continuous Integration]] comes in.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=24)** Continuous Integration is the answer to the question of how can a project with multiple developers committing code be efficiently and thoroughly tested without having to throw major time at it?
 >
@@ -670,30 +657,29 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=74)** Some of these support continuous integration and deployment, some only integration, and most are done in the cloud, so you don't have to tie up a machine every time you want to run tests or release a new build.
 >
-> **[1:24](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=84)** It's also a major plus that these CI tools all integrate with GitHub right out of the box.
+> **[1:24](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=84)** It's also a major plus that these CI tools all integrate with [[GitHub]] right out of the box.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=91)** So, here are my top CI recommendations.
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=93)** You have GitLab, CircleCI, and Travis CI.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=97)** If you're using SVN or some other version control, you will need to look into other alternatives, but you can find all their documentation online to get you up and running.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980&t=97)** If you're using SVN or some other [[Version Control]], you will need to look into other alternatives, but you can find all their documentation online to get you up and running.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (4), ci (4), [[Agile Development|Agile]] (2), next (2), cloud (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (4), [[Agile Development|Agile]] (2), [[GitHub]] (1), [[Version Control]] (1)
 > **Env Vars:** tdd (1), svn (1)
 > **Tools:** github (1), gitlab (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Structuring a release pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/structuring-a-release-pipeline?u=76281980)
+#### [Structuring a release pipeline](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/structuring-a-release-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/structuring-a-release-pipeline?u=76281980&t=0)** - [Narrator] The last piece of the puzzle we're going to talk about is having a good stable release pipeline for your project.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/structuring-a-release-pipeline?u=76281980&t=6)** A release pipeline is a sibling topic of continuous integration.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/structuring-a-release-pipeline?u=76281980&t=6)** A release pipeline is a sibling topic of [[Continuous Integration (CI)|continuous integration]].
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/structuring-a-release-pipeline?u=76281980&t=11)** While CI is concerned with integrating and validating your code base, a release pipeline is focused on effectively managing your different project configurations.
 >
@@ -701,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/structuring-a-release-pipeline?u=76281980&t=24)** One, you can just do this manually and do any configuration switching or settings in your code at build time.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/structuring-a-release-pipeline?u=76281980&t=31)** In an agile environment, this might be several times a day and it's not going to help you out at all.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/structuring-a-release-pipeline?u=76281980&t=31)** In an [[Agile Development|agile]] environment, this might be several times a day and it's not going to help you out at all.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/structuring-a-release-pipeline?u=76281980&t=37)** Automating this process as much as possible with third party tools can help you do this, and will be your best friend.
 >
@@ -719,21 +705,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), ci (1), mobile application (1), data (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Env Vars:** ide (1), api (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Closing out a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/closing-out-a-project?u=76281980)
+#### [Closing out a project](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/closing-out-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/closing-out-a-project?u=76281980&t=0)** - [Narrator] How you end a project matters.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/closing-out-a-project?u=76281980&t=2)** And even in Agile projects, there's an ending point or a transition to maintenance.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/closing-out-a-project?u=76281980&t=2)** And even in [[Agile Development|Agile]] projects, there's an ending point or a transition to maintenance.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/closing-out-a-project?u=76281980&t=7)** It's important that you use the end of a project to capture what your team learned for future projects and validate that you delivered the value you expected.
 >
@@ -747,7 +732,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/closing-out-a-project?u=76281980&t=63)** The team can't get better as a unit if everyone doesn't know what the new goals are.
 >
-> **[1:08](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/closing-out-a-project?u=76281980&t=68)** Now this isn't only about code or project tracking or anything like that.
+> **[1:08](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/closing-out-a-project?u=76281980&t=68)** Now this isn't only about code or [[Project Tracking]] or anything like that.
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/closing-out-a-project?u=76281980&t=72)** It's also about how your team worked and communicated as a whole.
 >
@@ -755,7 +740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), product (1), next (1), [[Project Tracking]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Project Tracking]] (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -763,28 +748,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The big picture
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980)
+#### [The big picture](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=0)** - [Narrator] As you've probably experienced, being an Agile software developer brings some different considerations than say, being an Agile project manager, a scrum master, or product owner.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=0)** - [Narrator] As you've probably experienced, being an [[Agile Development|Agile]] software developer brings some different considerations than say, being an Agile project manager, a [[Scrum]] master, or product owner.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=9)** Since there's always more to learn and more to create, let's wrap things up with an overview of all the text resources I mentioned during the course.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=19)** First up, we've got "[[Agile Software Development]]: "Principles, Patterns, and Practices" by Robert C. Martin and "Clean Code: A Handbook "of Agile Software Craftsmanship", also by Robert C. Martin.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=19)** First up, we've got "[[[[Agile Software Development]]]]: "Principles, Patterns, and Practices" by Robert C. Martin and "Clean Code: A Handbook "of Agile Software Craftsmanship", also by Robert C. Martin.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=31)** We have "Refactoring: Improving the Design of Existing Code" by Kent Beck and Martin Fowler.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=37)** "Agile Testing: A Practical Guide for Testers "and Agile Teams" by Lisa Crispin and Janet Gregory.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=43)** And finally, if you're feeling like a game style book, "Agile Game Development with Scrum" by Clinton Keith.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=43)** And finally, if you're feeling like a game style book, "Agile [[Game Development]] with Scrum" by Clinton Keith.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980&t=50)** As always, happy Agile developing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (2), product (1), [[Agile Software Development]] (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Scrum]] (2), [[Agile Software Development]] (1), [[Game Development]] (1)
 > **Speakers:** - [narrator] (1)
 
 

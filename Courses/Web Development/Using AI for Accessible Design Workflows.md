@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leverage AI in accessible design workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/leverage-ai-in-accessible-design-workflow?u=76281980)
+#### [Leverage AI in accessible design workflow](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/leverage-ai-in-accessible-design-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/leverage-ai-in-accessible-design-workflow?u=76281980&t=0)** - Are you trying to figure out how to integrate AI into your organization's accessible design workflow?
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/leverage-ai-in-accessible-design-workflow?u=76281980&t=0)** - Are you trying to figure out how to integrate AI into your organization's [[Accessible Design]] workflow?
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/leverage-ai-in-accessible-design-workflow?u=76281980&t=8)** If so, you are in the right place.
 >
@@ -97,16 +96,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - are (1)
 
-#### Create a roadmap to improving existing accessibility in designs
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-a-roadmap-to-improving-existing-accessibility-in-designs?u=76281980)
+#### [Create a roadmap to improving existing accessibility in designs](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-a-roadmap-to-improving-existing-accessibility-in-designs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-a-roadmap-to-improving-existing-accessibility-in-designs?u=76281980&t=0)** - [Instructor] In this video, I'm going to walk through in broad strokes, the whole roadmap for an accessible design workflow leveraging AI.
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-a-roadmap-to-improving-existing-accessibility-in-designs?u=76281980&t=0)** - [Instructor] In this video, I'm going to walk through in broad strokes, the whole roadmap for an [[Accessible Design]] workflow leveraging AI.
 >
 > **[0:09](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-a-roadmap-to-improving-existing-accessibility-in-designs?u=76281980&t=9)** So, there are three levels of planning that you can think about.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-a-roadmap-to-improving-existing-accessibility-in-designs?u=76281980&t=81)** I'm at the homepage of the United Nations.
 >
-> **[1:23](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-a-roadmap-to-improving-existing-accessibility-in-designs?u=76281980&t=83)** I'm using the WAVE, Web Accessibility Evaluation tool to get a general picture of whether or not this homepage has accessibility issues.
+> **[1:23](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-a-roadmap-to-improving-existing-accessibility-in-designs?u=76281980&t=83)** I'm using the WAVE, [[Web Accessibility]] Evaluation tool to get a general picture of whether or not this homepage has accessibility issues.
 >
 > **[1:34](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-a-roadmap-to-improving-existing-accessibility-in-designs?u=76281980&t=94)** It does. I'm identifying them, and they can be addressed.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Accessible Design]] (1), traffic (1), [[Web Accessibility]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1), [[Web Accessibility]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** wave (1), ikea (1)
 > **Analogies:** picture (1)
@@ -181,8 +179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Train your cohort in basic accessibility principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/train-your-cohort-in-basic-accessibility-principles?u=76281980)
+#### [Train your cohort in basic accessibility principles](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/train-your-cohort-in-basic-accessibility-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/train-your-cohort-in-basic-accessibility-principles?u=76281980&t=8)** What's the point of that?
 >
-> **[0:10](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/train-your-cohort-in-basic-accessibility-principles?u=76281980&t=10)** Because many people coming from different backgrounds, different strengths, different skill sets can contribute to an accessible design project if they have a basic understanding of the rules of the game.
+> **[0:10](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/train-your-cohort-in-basic-accessibility-principles?u=76281980&t=10)** Because many people coming from different backgrounds, different strengths, different skill sets can contribute to an [[Accessible Design]] project if they have a basic understanding of the rules of the game.
 >
 > **[0:25](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/train-your-cohort-in-basic-accessibility-principles?u=76281980&t=25)** So those rules of the game are summarized in POUR, P-O-U-R.
 >
@@ -252,14 +249,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), strengths (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1)
 > **Env Vars:** pour (2), adhd (1)
 > **Definitions:** in other words (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lead your cohort with collaborative discussions
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/lead-your-cohort-with-collaborative-discussions?u=76281980)
+#### [Lead your cohort with collaborative discussions](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/lead-your-cohort-with-collaborative-discussions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,7 +285,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), web (1)
 > **Env Vars:** wcag (1)
 > **Speakers:** - [presenter] (1)
 
@@ -298,8 +293,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organize accessibility testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980)
+#### [Organize accessibility testing](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -341,7 +335,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980&t=98)** And finally, you're going to survey your code and look for things in there that might be creating unnecessary hurdles for users with disabilities.
 >
-> **[1:50](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980&t=110)** How do you leverage do-it-yourself artificial intelligence in all this?
+> **[1:50](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980&t=110)** How do you leverage do-it-yourself [[Artificial Intelligence (AI)|artificial intelligence]] in all this?
 >
 > **[1:55](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980&t=115)** Well, there are tools that measure cognition, like the TRAY Readability tool.
 >
@@ -349,7 +343,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980&t=127)** There are tools that check your code.
 >
-> **[2:11](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980&t=131)** And finally, there are even tools based on generative AI that do a deeper look into your site's accessibility.
+> **[2:11](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980&t=131)** And finally, there are even tools based on [[Generative AI]] that do a deeper look into your site's accessibility.
 >
 > **[2:23](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980&t=143)** But don't leave everything in the hands of AI.
 >
@@ -373,14 +367,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (2), web (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** tray (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Survey designs for audio and visual accessibility issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/survey-designs-for-audio-and-visual-accessibility-issues?u=76281980)
+#### [Survey designs for audio and visual accessibility issues](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/survey-designs-for-audio-and-visual-accessibility-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,18 +425,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Search]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluate designs for cognitive and inclusive obstacles
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/evaluate-designs-for-cognitive-and-inclusive-obstacles?u=76281980)
+#### [Evaluate designs for cognitive and inclusive obstacles](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/evaluate-designs-for-cognitive-and-inclusive-obstacles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/evaluate-designs-for-cognitive-and-inclusive-obstacles?u=76281980&t=0)** - [Instructor] In this video, I'm going to show you how to use some AI tools and also just human critical thinking to identify cognition and inclusion issues in a website or any other digital project.
 >
-> **[0:13](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/evaluate-designs-for-cognitive-and-inclusive-obstacles?u=76281980&t=13)** Now, typically, we have looked at, we being the user experience community, we have looked at cognition as a clinical thing.
+> **[0:13](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/evaluate-designs-for-cognitive-and-inclusive-obstacles?u=76281980&t=13)** Now, typically, we have looked at, we being the [[User Experience (UX)|user experience]] community, we have looked at cognition as a clinical thing.
 >
 > **[0:24](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/evaluate-designs-for-cognitive-and-inclusive-obstacles?u=76281980&t=24)** Is someone diagnosed with something like ADHD?
 >
@@ -513,15 +504,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** adhd (1), tray (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify potential medical triggers in designs
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-potential-medical-triggers-in-designs?u=76281980)
+#### [Identify potential medical triggers in designs](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-potential-medical-triggers-in-designs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,7 +529,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-potential-medical-triggers-in-designs?u=76281980&t=60)** Now WAVE has detected that in the input form on the right, there is a tab index issue and it's explaining why that's a problem and it's pointing to exactly where it is so that coders can solve this.
 >
-> **[1:16](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-potential-medical-triggers-in-designs?u=76281980&t=76)** Tab index issues make it very difficult for motor-impaired users to navigate through forms.
+> **[1:16](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-potential-medical-triggers-in-designs?u=76281980&t=76)** Tab index issues make it very difficult for motor-impaired users to navigate through [[Forms]].
 >
 > **[1:24](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-potential-medical-triggers-in-designs?u=76281980&t=84)** Avoiding triggering seizures addresses a rare but very serious accessibility issue.
 >
@@ -549,7 +539,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-potential-medical-triggers-in-designs?u=76281980&t=134)** If there is any chance that your content will trigger medical issues or seizures, provide a non-flashing option.
 >
-> **[2:25](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-potential-medical-triggers-in-designs?u=76281980&t=145)** And here's an example where I generated an illustration in Canva.
+> **[2:25](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-potential-medical-triggers-in-designs?u=76281980&t=145)** And here's an example where I generated an illustration in [[Canva]].
 >
 > **[2:31](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-potential-medical-triggers-in-designs?u=76281980&t=151)** We are not showing the glow here, but this is the option that Canva provided for me so that users who would find that glow uncomfortable or even harmful don't need to see it.
 >
@@ -563,14 +553,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Canva]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Canva]] (2), [[Forms]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** wave (2), wcag (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Document accessibility issues objectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/document-accessibility-issues-objectively?u=76281980)
+#### [Document accessibility issues objectively](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/document-accessibility-issues-objectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +601,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** wcag (2)
 > **Definitions:** is an  (1)
@@ -620,22 +608,21 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify foci for improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980)
+#### [Identify foci for improvement](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980&t=0)** - [Instructor] In this video, I'm going to show you how to focus, that is how to prioritize, the issues that you discover as you are doing an accessibility audit.
 >
-> **[0:13](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980&t=13)** First of all, make sure that you are focusing your research on key pages like a homepage, like forms.
+> **[0:13](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980&t=13)** First of all, make sure that you are focusing your research on key pages like a homepage, like [[Forms]].
 >
 > **[0:23](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980&t=23)** Secondly, here's a tip.
 >
 > **[0:25](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980&t=25)** Set up a shared input form so that everyone can document issues as they are discovered.
 >
-> **[0:33](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980&t=33)** One of the things that you need to understand is that almost every modern website now is defined with style guides and a content management system, which means that if you're identifying an issue on one page, it's probably universal.
+> **[0:33](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980&t=33)** One of the things that you need to understand is that almost every modern website now is defined with style guides and a [[Content Management]] system, which means that if you're identifying an issue on one page, it's probably universal.
 >
-> **[0:53](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980&t=53)** When you set up a form, and I usually just end up using a Google form, make sure that you document all the relevant information you need to identify and analyze accessibility issues, and feel free to just copy my form here.
+> **[0:53](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980&t=53)** When you set up a form, and I usually just end up using a [[Google]] form, make sure that you document all the relevant information you need to identify and analyze accessibility issues, and feel free to just copy my form here.
 >
 > **[1:13](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/identify-focii-for-improvement?u=76281980&t=73)** Once you have started to collect a significant amount of data, you can start to analyze what kinds of issues you are surveying and what you're finding.
 >
@@ -655,18 +642,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Forms]] (1), [[Content Management]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Content Management]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Process and organize results of investigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980)
+#### [Process and organize results of investigation](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980&t=0)** - [Narrator] In this video, I'm going to show you the value of real-time updates as you do your accessibility audit.
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980&t=0)** - [Narrator] In this video, I'm going to show you the value of [[Real-Time]] updates as you do your accessibility audit.
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980&t=8)** What's the advantage of sharing information in real time?
 >
@@ -704,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980&t=112)** Looked okay to me.
 >
-> **[1:54](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980&t=114)** And it helps developers tighten up the things that they are looking for when they do coding, for example, making forms more accessible.
+> **[1:54](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980&t=114)** And it helps developers tighten up the things that they are looking for when they do coding, for example, making [[Forms]] more accessible.
 >
 > **[2:04](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980&t=124)** One of the things that you want to do though, and here I'm kind of contradicting in a way what I just said.
 >
@@ -728,19 +714,18 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980&t=205)** Sometimes accessibility issues that only happen once or twice in a site can have an outsize impact.
 >
-> **[3:33](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980&t=213)** So be aware of that and start building awareness and accountability early in the process of surveying a website for accessibility.
+> **[3:33](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/process-and-organize-results-of-investigation?u=76281980&t=213)** So be aware of that and start building awareness and [[Accountability]] early in the process of surveying a website for accessibility.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (5), data (2), [[Forms]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (5), [[Forms]] (1), [[Accountability]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Organize a revision workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-a-revision-workflow?u=76281980)
+#### [Organize a revision workflow](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-a-revision-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,7 +777,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5)
 > **Env Vars:** wave (1), aria (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -803,12 +787,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supplement existing style guides
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/supplement-existing-style-guides?u=76281980)
+#### [Supplement existing style guides](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/supplement-existing-style-guides?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/supplement-existing-style-guides?u=76281980&t=0)** - [Instructor] In this video, I'm going to show you how to supplement your existing style guides to turn them into dynamic tools for improving accessible design within your organization.
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/supplement-existing-style-guides?u=76281980&t=0)** - [Instructor] In this video, I'm going to show you how to supplement your existing style guides to turn them into dynamic tools for improving [[Accessible Design]] within your organization.
 >
 > **[0:14](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/supplement-existing-style-guides?u=76281980&t=14)** Think of the style guide as the orchestra conductor.
 >
@@ -844,8 +827,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cohere policies into guidance on tone
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980)
+#### [Cohere policies into guidance on tone](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,11 +843,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=60)** And they're not stereotypical stuffy, they are reflective of the guidance that is in the style guide.
 >
-> **[1:09](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=69)** It's interesting how artificial intelligence impacts on all of this.
+> **[1:09](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=69)** It's interesting how [[Artificial Intelligence (AI)|artificial intelligence]] impacts on all of this.
 >
 > **[1:14](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=74)** Images can be created based on a defined tone.
 >
-> **[1:19](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=79)** So, for example, here, I am using Canva Image Generator to generate alternative text, but also an image that goes with a defined tone.
+> **[1:19](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=79)** So, for example, here, I am using [[Canva]] Image Generator to generate alternative text, but also an image that goes with a defined tone.
 >
 > **[1:34](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=94)** Now, AI-generated images pose many, many big societal questions.
 >
@@ -877,7 +859,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=124)** Tone is very important, and it needs to be included in a style guide.
 >
-> **[2:10](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=130)** A well-defined tone section is a powerful tool in enforcing and encouraging creative initiative in accessible design.
+> **[2:10](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=130)** A well-defined tone section is a powerful tool in enforcing and encouraging creative initiative in [[Accessible Design]].
 >
 > **[2:23](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/cohere-policies-into-guidance-on-tone?u=76281980&t=143)** There's a role for AI in all this.
 >
@@ -885,13 +867,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Canva]] (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Canva]] (1), [[Accessible Design]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Document audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/document-audience?u=76281980)
+#### [Document audience](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/document-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,7 +894,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/document-audience?u=76281980&t=50)** Here's another example.
 >
-> **[0:52](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/document-audience?u=76281980&t=52)** Microsoft is specific about their audience and gives very specific guidance to content creators on how to connect with that audience.
+> **[0:52](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/document-audience?u=76281980&t=52)** [[Microsoft]] is specific about their audience and gives very specific guidance to content creators on how to connect with that audience.
 >
 > **[1:03](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/document-audience?u=76281980&t=63)** Let's contrast that with a different audience guidance in a style guide, and Land Rover's audience is different than Microsoft's, so the guidance is different.
 >
@@ -936,8 +917,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Implement a testing process
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-a-testing-process?u=76281980)
+#### [Implement a testing process](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-a-testing-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,7 +929,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-a-testing-process?u=76281980&t=22)** axe DevTools, by the way, does offer free tools, but it also offers a professional version that costs money, that includes intelligent guided testing or IGT.
 >
-> **[0:35](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-a-testing-process?u=76281980&t=35)** And these tools are as close as I have seen to useful generative AI in accessible design.
+> **[0:35](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-a-testing-process?u=76281980&t=35)** And these tools are as close as I have seen to useful [[Generative AI]] in [[Accessible Design]].
 >
 > **[0:46](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-a-testing-process?u=76281980&t=46)** To use the axe DevTools extension in Chrome, you choose a subscription option.
 >
@@ -959,7 +939,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-a-testing-process?u=76281980&t=68)** And what these do is they ask you questions, and based on the answers you give, they generate customized tests.
 >
-> **[1:19](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-a-testing-process?u=76281980&t=79)** So here, for example, I'm telling the IGT that I am going to be testing the forms on the selected page, and I am noting different elements of that form, including the fact that the form involves a financial transaction, a legal commitment, and there might even be a test involved based on that.
+> **[1:19](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-a-testing-process?u=76281980&t=79)** So here, for example, I'm telling the IGT that I am going to be testing the [[Forms]] on the selected page, and I am noting different elements of that form, including the fact that the form involves a financial transaction, a legal commitment, and there might even be a test involved based on that.
 >
 > **[1:43](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-a-testing-process?u=76281980&t=103)** The IGT takes a look at my form and identifies that there's an issue here.
 >
@@ -985,14 +965,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (3), ai (2), [[Generative AI]] (2), [[Forms]] (2)
+> **Frameworks & Libraries:** [[Accessible Design]] (3), [[Generative AI]] (2), [[Forms]] (2)
 > **Env Vars:** igt (3)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use AI to shortcut audio accessibility solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980)
+#### [Use AI to shortcut audio accessibility solutions](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1002,7 +981,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=27)** Here's an example.
 >
-> **[0:29](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=29)** At LinkedIn Learning, we have closed captioning available as an option for every video that we produce.
+> **[0:29](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=29)** At [[LinkedIn]] Learning, we have closed captioning available as an option for every video that we produce.
 >
 > **[0:38](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=38)** Here's another case study.
 >
@@ -1010,7 +989,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=52)** Let me show you some tools for this.
 >
-> **[0:55](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=55)** Animaker is a free tool that automatically generates subtitles for uploaded videos and that allows users to edit or compose their own.
+> **[0:55](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=55)** Animaker is a free tool that automatically generates subtitles for uploaded videos and that allows users to edit or [[Jetpack Compose|compose]] their own.
 >
 > **[1:08](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=68)** YouTube, as I think a lot of us are aware, can also generate quick and fairly accurate closed captioning for uploaded videos.
 >
@@ -1024,7 +1003,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=128)** They should include model examples of what generated closed captioning looks like, and you might point to some models of generated transcripts.
 >
-> **[2:19](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=139)** The takeaways here, closed captioning for video and transcriptions for audio are essential for accessible web design and app design.
+> **[2:19](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=139)** The takeaways here, closed captioning for video and transcriptions for audio are essential for accessible [[Web Design]] and app design.
 >
 > **[2:30](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-audio-accessibility-solutions?u=76281980&t=150)** Integrating closed captioning is easy with AI tools and AI-generated closed captioning and transcriptions are a workable solution for projects of any scale.
 >
@@ -1032,15 +1011,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[LinkedIn]] (1), [[Jetpack Compose|Compose]] (1), web (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Jetpack Compose|Compose]] (1), [[Web Design]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** cspan (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use AI to shortcut visual accessibility solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-visual-accessibility-solutions?u=76281980)
+#### [Use AI to shortcut visual accessibility solutions](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-visual-accessibility-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,7 +1028,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-visual-accessibility-solutions?u=76281980&t=11)** And then this is information that should go in your style guide in the accessibility section.
 >
-> **[0:18](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-visual-accessibility-solutions?u=76281980&t=18)** Alt text is one of the most basic elements of accessible design.
+> **[0:18](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-visual-accessibility-solutions?u=76281980&t=18)** Alt text is one of the most basic elements of [[Accessible Design]].
 >
 > **[0:23](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-visual-accessibility-solutions?u=76281980&t=23)** It's read out loud for people with impaired vision or people who are blind, and it's a requirement for many government agencies, institutions, and contracts.
 >
@@ -1082,7 +1060,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-visual-accessibility-solutions?u=76281980&t=123)** It's very important for compliance with contractual standards, with government standards, and makes content accessible to people who can't see pictures for whatever reason.
 >
-> **[2:17](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-visual-accessibility-solutions?u=76281980&t=137)** Artificial intelligence tools can make alt text workable even with limited resources.
+> **[2:17](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-visual-accessibility-solutions?u=76281980&t=137)** [[Artificial Intelligence (AI)|Artificial intelligence]] tools can make alt text workable even with limited resources.
 >
 > **[2:25](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/use-ai-to-shortcut-visual-accessibility-solutions?u=76281980&t=145)** Let's say, for example, you are redoing a website, you have audited it, you have identified that there are serious issues with missing alt text, and you don't have the resources to go look up every picture and, by hand, write alt text.
 >
@@ -1090,14 +1068,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Accessible Design]] (2), [[Search]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** picture (3), for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Minimize obstacles for motor impaired audiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/minimize-obstacles-for-motor-impaired-audiences?u=76281980)
+#### [Minimize obstacles for motor impaired audiences](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/minimize-obstacles-for-motor-impaired-audiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1131,19 +1108,18 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/minimize-obstacles-for-motor-impaired-audiences?u=76281980&t=191)** Anyone can go through a form and see whether or not they can hit the tab key and move in a way that makes sense from input to input.
 >
-> **[3:20](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/minimize-obstacles-for-motor-impaired-audiences?u=76281980&t=200)** So that's another way to implement and test accessible design for people with motor disabilities.
+> **[3:20](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/minimize-obstacles-for-motor-impaired-audiences?u=76281980&t=200)** So that's another way to implement and test [[Accessible Design]] for people with motor disabilities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), hit (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoid triggering seizures
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/avoid-triggering-seizures?u=76281980)
+#### [Avoid triggering seizures](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/avoid-triggering-seizures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/avoid-triggering-seizures?u=76281980&t=0)** - [Instructor] In this video, I'll show you how to avoid triggering seizures in web design and how to provide guidance for that for designers and developers in the accessibility section of a style guide.
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/avoid-triggering-seizures?u=76281980&t=0)** - [Instructor] In this video, I'll show you how to avoid triggering seizures in [[Web Design]] and how to provide guidance for that for designers and developers in the accessibility section of a style guide.
 >
 > **[0:16](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/avoid-triggering-seizures?u=76281980&t=16)** Seizures triggered by web content are rare but dangerous.
 >
@@ -1183,7 +1159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3)
+> **Frameworks & Libraries:** [[Web Design]] (1)
 > **CLI Commands:** make (5)
 > **Warnings:** warning (4), be aware (1)
 > **Env Vars:** peat (3), wcag (1)
@@ -1191,8 +1167,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define and implement inclusivity and avoid cognitive bandwidth overload in designs
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/define-and-implement-inclusivity-and-avoid-cognitive-bandwidth-overload-in-designs?u=76281980)
+#### [Define and implement inclusivity and avoid cognitive bandwidth overload in designs](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/define-and-implement-inclusivity-and-avoid-cognitive-bandwidth-overload-in-designs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1228,7 +1203,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/define-and-implement-inclusivity-and-avoid-cognitive-bandwidth-overload-in-designs?u=76281980&t=114)** I do want to point out and give credit to MailChimp for making their standards, their style guide, including the accessibility section and the inclusivity section publicly available.
 >
-> **[2:07](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/define-and-implement-inclusivity-and-avoid-cognitive-bandwidth-overload-in-designs?u=76281980&t=127)** And you can find it on GitHub and they encourage people to share it.
+> **[2:07](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/define-and-implement-inclusivity-and-avoid-cognitive-bandwidth-overload-in-designs?u=76281980&t=127)** And you can find it on [[GitHub]] and they encourage people to share it.
 >
 > **[2:13](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/define-and-implement-inclusivity-and-avoid-cognitive-bandwidth-overload-in-designs?u=76281980&t=133)** Finally, let's look at aligning content with audience literacy level.
 >
@@ -1258,8 +1233,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement changes in teams with content creators and designers
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980)
+#### [Implement changes in teams with content creators and designers](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1269,7 +1243,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=33)** But then there's another level, and that is to gain buy-in from the writing and the design content creators so that they can take initiative based on the style guide.
 >
-> **[0:47](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=47)** Now here, I think it will be valuable to make you aware that I have another course at LinkedIn Learning called Using Style Guides to Bridge Design and Development.
+> **[0:47](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=47)** Now here, I think it will be valuable to make you aware that I have another course at [[LinkedIn]] Learning called Using Style Guides to Bridge Design and Development.
 >
 > **[0:58](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=58)** It goes into the process of building a style guide and how a style guide serves to lead content creators, designers, and coders.
 >
@@ -1277,7 +1251,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=75)** When you work on getting buy-in from content and designers, part of the process is to create clear, unambiguous direction for what they should do and what they should not do.
 >
-> **[1:29](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=89)** But the other dimension to having teams really fly with accessible design that you are leading through a style guide is having collaborative critical thinking.
+> **[1:29](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=89)** But the other dimension to having teams really fly with [[Accessible Design]] that you are leading through a style guide is having collaborative critical thinking.
 >
 > **[1:44](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=104)** And that's not just a matter of clearly defining what people should do and what they shouldn't do.
 >
@@ -1303,18 +1277,17 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=186)** What are they trying to accomplish?
 >
-> **[3:09](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=189)** And how does our content and our style guide and the guidance we're giving to content creators, designers, coders, how does it all mesh?
+> **[3:09](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=189)** And how does our content and our style guide and the guidance we're giving to content creators, designers, coders, how does it all [[Mesh]]?
 >
 > **[3:19](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980&t=199)** So the takeaways here are this style guides must provide clear rules for accessible content, but more engagement with stakeholders, with content developers, designers, and coders is necessary to really have an atmosphere where accessible design takes root and flourishes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (2), [[LinkedIn]] (1), teams (1), web (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (2), [[LinkedIn]] (1), [[Mesh]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Speakers:** - [host] (1)
 
-#### Create templates and models
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-templates-and-models?u=76281980)
+#### [Create templates and models](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-templates-and-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,20 +1327,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** wcag (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create libraries of accessible material
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-libraries-of-accessible-material?u=76281980)
+#### [Create libraries of accessible material](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-libraries-of-accessible-material?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-libraries-of-accessible-material?u=76281980&t=0)** - [Instructor] In this video, I'm going to show you some examples of where style guides effectively provide grab-and-go accessible content.
 >
-> **[0:10](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-libraries-of-accessible-material?u=76281980&t=10)** And I'm going to put some focus here on how that can help coders, developers use and implement accessible design.
+> **[0:10](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-libraries-of-accessible-material?u=76281980&t=10)** And I'm going to put some focus here on how that can help coders, developers use and implement [[Accessible Design]].
 >
 > **[0:21](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-libraries-of-accessible-material?u=76281980&t=21)** Having a library of ready to use accessible designs and code saves time and makes it more likely that accessibility will be consistently applied by coders.
 >
@@ -1389,7 +1360,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-libraries-of-accessible-material?u=76281980&t=123)** And then as you can see, the code is provided, so that makes it faster, easier, and more likely that developers will include this accessibility feature.
 >
-> **[2:15](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-libraries-of-accessible-material?u=76281980&t=135)** Another example or set of examples that we'll look at come from Google and they show how to code different ways to emphasize words.
+> **[2:15](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-libraries-of-accessible-material?u=76281980&t=135)** Another example or set of examples that we'll look at come from [[Google]] and they show how to code different ways to emphasize words.
 >
 > **[2:28](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-libraries-of-accessible-material?u=76281980&t=148)** That means something different depending on what kind of accessibility screen readers a user is using.
 >
@@ -1403,7 +1374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (3), feature (1), [[Google]] (1), teams (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (3), [[Google]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1413,8 +1384,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare detailed reports for tech and design
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-detailed-reports-for-tech-and-design?u=76281980)
+#### [Prepare detailed reports for tech and design](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-detailed-reports-for-tech-and-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1460,8 +1430,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare high-level reports for stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-high-level-reports-for-stakeholders?u=76281980)
+#### [Prepare high-level reports for stakeholders](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-high-level-reports-for-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,7 +1450,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-high-level-reports-for-stakeholders?u=76281980&t=85)** So both critical and serious issues are important, but you do want to distinguish them.
 >
-> **[1:32](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-high-level-reports-for-stakeholders?u=76281980&t=92)** Now, since our theme here is using AI, I thought it would be interesting to explore an approach of using ChatGPT to help generate that report.
+> **[1:32](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-high-level-reports-for-stakeholders?u=76281980&t=92)** Now, since our theme here is using AI, I thought it would be interesting to explore an approach of using [[ChatGPT]] to help generate that report.
 >
 > **[1:43](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-high-level-reports-for-stakeholders?u=76281980&t=103)** So you can feed your data into ChatGPT.
 >
@@ -1509,17 +1478,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[ChatGPT]] (7), ai (6), next (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create buy-in with effective presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-buy-in-with-effective-presentations?u=76281980)
+#### [Create buy-in with effective presentations](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-buy-in-with-effective-presentations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-buy-in-with-effective-presentations?u=76281980&t=0)** - [Host] In other videos in this course, I've emphasized the importance of getting your whole organization to buy in on accessible design and leveraging AI to do that.
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-buy-in-with-effective-presentations?u=76281980&t=0)** - [Host] In other videos in this course, I've emphasized the importance of getting your whole organization to buy in on [[Accessible Design]] and leveraging AI to do that.
 >
 > **[0:11](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/create-buy-in-with-effective-presentations?u=76281980&t=11)** And part of that is producing effective presentations.
 >
@@ -1567,13 +1535,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Accessible Design]] (2)
+> **Frameworks & Libraries:** [[Accessible Design]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [host] (1)
 
-#### Share models of AI-generated solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/share-models-of-ai-generated-solutions?u=76281980)
+#### [Share models of AI-generated solutions](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/share-models-of-ai-generated-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1595,7 +1562,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/share-models-of-ai-generated-solutions?u=76281980&t=90)** Well, the TRAY readability tool can be used to analyze the required literacy level for that content, and if that tool identifies that the reading level required for the content is just outside of the anticipated audience, then that issue can be solved with the help of AI.
 >
-> **[1:56](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/share-models-of-ai-generated-solutions?u=76281980&t=116)** So for example, ChatGPT could be tasked with rewriting that content in a way that matched the expected reading level, and then emphasize when you're showing people this example that a human would review and finalize that content.
+> **[1:56](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/share-models-of-ai-generated-solutions?u=76281980&t=116)** So for example, [[ChatGPT]] could be tasked with rewriting that content in a way that matched the expected reading level, and then emphasize when you're showing people this example that a human would review and finalize that content.
 >
 > **[2:18](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/share-models-of-ai-generated-solutions?u=76281980&t=138)** So for example, ChatGPT produces something that solves the accessibility issue, and then a human says, "Okay, but there's some mistakes here.
 >
@@ -1603,7 +1570,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/share-models-of-ai-generated-solutions?u=76281980&t=150)** We'll retest and make sure that we haven't disrupted the mix between the cognitive level required to understand our content, and the content itself."
 >
-> **[2:42](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/share-models-of-ai-generated-solutions?u=76281980&t=162)** So emphasize critical thinking by human beings is still what drives the whole process of accessible web design.
+> **[2:42](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/share-models-of-ai-generated-solutions?u=76281980&t=162)** So emphasize critical thinking by human beings is still what drives the whole process of accessible [[Web Design]].
 >
 > **[2:53](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/share-models-of-ai-generated-solutions?u=76281980&t=173)** Humans have to supervise the changes in content, but AI is very valuable in testing content and suggesting solutions.
 >
@@ -1629,7 +1596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[ChatGPT]] (2), web (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Web Design]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** tray (1)
@@ -1637,14 +1604,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Provide accessible templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/provide-accessible-templates?u=76281980)
+#### [Provide accessible templates](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/provide-accessible-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/provide-accessible-templates?u=76281980&t=0)** - [Instructor] In this video, I'm going to show you some examples of how to use accessible templates to leverage everything you can get out of AI contributions to accessible design.
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/provide-accessible-templates?u=76281980&t=0)** - [Instructor] In this video, I'm going to show you some examples of how to use accessible templates to leverage everything you can get out of AI contributions to [[Accessible Design]].
 >
-> **[0:13](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/provide-accessible-templates?u=76281980&t=13)** So, for example, when AI identifies that you've got keyboard-inaccessible forms, problematic page structure, cognitive and inclusivity obstacles to many users, don't just say, "Okay, problem identified," or even "problem solved" in a specific instance.
+> **[0:13](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/provide-accessible-templates?u=76281980&t=13)** So, for example, when AI identifies that you've got keyboard-inaccessible [[Forms]], problematic page structure, cognitive and inclusivity obstacles to many users, don't just say, "Okay, problem identified," or even "problem solved" in a specific instance.
 >
 > **[0:37](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/provide-accessible-templates?u=76281980&t=37)** What I'm suggesting is, when you find a problem, find ways to solve it, but also to add templates to your style guide.
 >
@@ -1664,14 +1630,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Accessible Design]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1), [[Forms]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
 
-#### Generate a culture of iterative accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/generate-a-culture-of-iterative-accessibility?u=76281980)
+#### [Generate a culture of iterative accessibility](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/generate-a-culture-of-iterative-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1713,7 +1678,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/generate-a-culture-of-iterative-accessibility?u=76281980&t=136)** Why do they think, closed captioning is important?
 >
-> **[2:20](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/generate-a-culture-of-iterative-accessibility?u=76281980&t=140)** Surface concerns they may have about the use of artificial intelligence in implementing accessibility and invite insights into inclusivity and design.
+> **[2:20](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/generate-a-culture-of-iterative-accessibility?u=76281980&t=140)** Surface concerns they may have about the use of [[Artificial Intelligence (AI)|artificial intelligence]] in implementing accessibility and invite insights into inclusivity and design.
 >
 > **[2:31](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/generate-a-culture-of-iterative-accessibility?u=76281980&t=151)** So keep that process going where you're both learning from people in your organization and keeping the atmosphere charged where people are talking about and thinking about iterative change in accessibility.
 >
@@ -1741,7 +1706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** wcag (2)
 > **Versions:** 3.1 (1)
@@ -1753,16 +1718,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980&t=0)** - Congratulations on completing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980&t=3)** Now you know how to deploy a wide range of tools for integrating AI into creating accessible design projects, and you know how to deploy these tools for content creators, designers, and developers.
+> **[0:03](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980&t=3)** Now you know how to deploy a wide range of tools for integrating AI into creating [[Accessible Design]] projects, and you know how to deploy these tools for content creators, designers, and developers.
 >
-> **[0:21](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980&t=21)** To further extend your understanding of accessible design in its own right, you can take my LinkedIn Learning course accessibility for managers and non-designers for a deep dive into how to create and deploy style guides.
+> **[0:21](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980&t=21)** To further extend your understanding of accessible design in its own right, you can take my [[LinkedIn]] Learning course accessibility for managers and non-designers for a deep dive into how to create and deploy style guides.
 >
 > **[0:36](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980&t=36)** You can take my LinkedIn learning course using style guides to bridge design and development.
 >
@@ -1772,7 +1736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Accessible Design]] (2), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Accessible Design]] (2)
 > **Speakers:** - congratulations (1)
 
 

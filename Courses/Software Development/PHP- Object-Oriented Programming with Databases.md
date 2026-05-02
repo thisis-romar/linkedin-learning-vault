@@ -101,18 +101,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980&t=0)** - [Kevin] Welcome to PHP Object-Oriented Programming with Databases.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980&t=0)** - [Kevin] Welcome to [[PHP]] [[Object-Oriented Programming (OOP)|Object-Oriented Programming]] with [[Databases]].
 >
 > **[0:04](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980&t=4)** My name is Kevin Skoglund and I'm excited to teach you how to use PHP's object-oriented programming techniques to work with databases.
 >
-> **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980&t=12)** In this course we will learn the object-oriented syntax for PHP's built-in MySQL adapter.
+> **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980&t=12)** In this course we will learn the object-oriented syntax for PHP's built-in [[MySQL]] adapter.
 >
-> **[0:20](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980&t=20)** We will learn about the active record design pattern and use it to create objects and database rows which interact seamlessly, and we'll build a content management system to make it easy to create, read, update, and delete records using HTML pages and forms.
+> **[0:20](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980&t=20)** We will learn about the active record design pattern and use it to create objects and database rows which interact seamlessly, and we'll build a [[Content Management]] system to make it easy to create, read, update, and delete records using [[HTML]] pages and [[Forms]].
 >
 > **[0:36](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980&t=36)** We'll use object-oriented techniques to implement user authentication so that only administrators with a valid username and password will be able to access and update records and we'll break up tables which has many records into pages by using a pagination class to simplify handling of the variables, calculation, and links that we need to display for the user.
 >
@@ -124,18 +123,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), [[Databases]] (3), [[MySQL]] (2), database (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), [[Databases]] (3), [[MySQL]] (2), [[Content Management]] (1)
 > **CLI Commands:** php (8), mysql (2), make (1)
 > **Env Vars:** php (8), html (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [kevin] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/how-to-use-the-exercise-files?u=76281980&t=0)** - [Narrator] This course includes exercise files in order to make use of these exercise files you'll want to first make sure that you have PHP and Mysql installed and working.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/how-to-use-the-exercise-files?u=76281980&t=0)** - [Narrator] This course includes exercise files in order to make use of these exercise files you'll want to first make sure that you have [[PHP]] and [[MySQL]] installed and working.
 >
 > **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/how-to-use-the-exercise-files?u=76281980&t=10)** The exercise files are arranged by chapter and by movie and you can find the exercise files that correspond to the movie that you're watching by first looking for the chapter number and then the movie number.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/how-to-use-the-exercise-files?u=76281980&t=92)** In this case it will be Chain gang.
 >
-> **[1:34](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/how-to-use-the-exercise-files?u=76281980&t=94)** And then we'll use a less than sign followed by the path to the SQL file.
+> **[1:34](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/how-to-use-the-exercise-files?u=76281980&t=94)** And then we'll use a less than sign followed by the path to the [[SQL]] file.
 >
 > **[1:40](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/how-to-use-the-exercise-files?u=76281980&t=100)** If you're on a Mac, you may just be able to drag the file into the directory to avoid having to type it all out.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[MySQL]] (4), data (3), [[PHP]] (2), web (2)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[PHP]] (2), [[SQL]] (1)
 > **CLI Commands:** make (4), mysql (4), php (2), find (2)
 > **Exercise Files:** exercise files (11)
 > **Env Vars:** php (2), sql (1)
@@ -190,8 +188,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,21 +196,21 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=5)** The first is that there are several prerequisites.
 >
-> **[0:08](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=8)** You want to make sure that you understand the fundamentals of working with the PHP language.
+> **[0:08](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=8)** You want to make sure that you understand the fundamentals of working with the [[PHP]] language.
 >
 > **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=13)** I cover these fundamentals in my course, 'PHP: An Essential Training.'
 >
-> **[0:17](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=17)** You also should be able to use PHP to connect to and interact with a MySQL database, as we demonstrate in 'PHP with MySQL Essential Training.'
+> **[0:17](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=17)** You also should be able to use PHP to connect to and interact with a [[MySQL]] database, as we demonstrate in 'PHP with MySQL Essential Training.'
 >
 > **[0:26](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=26)** That is, you're able to connect to the database, to create records, to read records, to update them, and to delete them.
 >
 > **[0:33](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=33)** And, you also should already have the fundamentals of working with PHP in an object-oriented way.
 >
-> **[0:40](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=40)** I covered these concepts in '[[PHP- Object-Oriented Programming]],' and you can refer back to that if you need some extra help.
+> **[0:40](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=40)** I covered these concepts in '[[PHP- [[Object-Oriented Programming (OOP)|Object-Oriented Programming]]]],' and you can refer back to that if you need some extra help.
 >
 > **[0:47](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=47)** You don't have to take these exact courses, but you should be fluent in all of the concepts that are there, because this course is going to merge those concepts, the concepts of working with PHP and a database, along with the concepts of working with PHP in an object-oriented way.
 >
-> **[1:03](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=63)** And that's going to be very powerful, because object-oriented programming is going to offer us many benefits when we're working with databases, and that's what we want to explore in this course.
+> **[1:03](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=63)** And that's going to be very powerful, because object-oriented programming is going to offer us many benefits when we're working with [[Databases]], and that's what we want to explore in this course.
 >
 > **[1:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/what-you-need-to-know?u=76281980&t=73)** There are also some preparations you should have in advance, you should make sure that you have a web server that's running, you should be able to identify your web document root, that is the place that you can put your files so that your web server will serve them out to you, you should ensure that PHP is installed and working.
 >
@@ -257,7 +254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (21), [[MySQL]] (9), web (9), database (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3)
+> **Frameworks & Libraries:** [[PHP]] (21), [[MySQL]] (9), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Databases]] (2)
 > **CLI Commands:** php (21), mysql (9), make (3)
 > **Env Vars:** php (19)
 > **Tools:** atom (2), firefox (1), command line (1)
@@ -271,8 +268,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980)
+#### [Project overview](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980&t=6)** The project is going to be a website called chain gang.
 >
-> **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980&t=10)** It's a PHP website for a used bicycle store.
+> **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980&t=10)** It's a [[PHP]] website for a used bicycle store.
 >
 > **[0:14](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980&t=14)** If you took the PHP object oriented programming course then this project is going to look very familiar because it's the same project that we were working on in that course.
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980&t=51)** But we're not going to stop there.
 >
-> **[0:52](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980&t=52)** We're also going to add a full content management system with user authentication.
+> **[0:52](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980&t=52)** We're also going to add a full [[Content Management]] system with user authentication.
 >
 > **[0:58](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980&t=58)** This will allow the staff at the bicycle store to login with their username and password and then manage the inventory.
 >
@@ -326,18 +322,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[PHP]] (2), [[Programming]] (2), [[Content Management]] (1), power (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Content Management]] (1)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a project database
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980)
+#### [Create a project database](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=0)** - In this movie, we will create the MySQL database that our project is going to use to store its data.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=0)** - In this movie, we will create the [[MySQL]] database that our project is going to use to store its data.
 >
 > **[0:06](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=6)** There are three MySQL commands we'll be using.
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=15)** Second, we want to make sure that we have a user that has the ability to access that database.
 >
-> **[0:20](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=20)** Now, by default, our root MySQL user has access to all of the databases, but it's a much better security practice for us to create a new user that our application can use, instead of using that root user.
+> **[0:20](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=20)** Now, by default, our root MySQL user has access to all of the [[Databases]], but it's a much better security practice for us to create a new user that our application can use, instead of using that root user.
 >
 > **[0:33](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=33)** That root user's just simply too powerful, and can do too much damage to our database.
 >
@@ -393,7 +388,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=159)** And then the semicolon at the end lets it know that the command is done.
 >
-> **[2:43](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=163)** Now we have privileges for our webuser, which is great, now we'll be able to log in as the webuser from our PHP code.
+> **[2:43](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=163)** Now we have privileges for our webuser, which is great, now we'll be able to log in as the webuser from our [[PHP]] code.
 >
 > **[2:50](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-project-database?u=76281980&t=170)** And then, last of all, let's type USE chain_gang.
 >
@@ -401,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[MySQL]] (5), [[Databases]] (4), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[Databases]] (4), [[PHP]] (1)
 > **Env Vars:** create (2), database (2), grant (2), privileges (2), identified (2)
 > **CLI Commands:** mysql (5), make (2), php (1)
 > **Code Identifiers:** chain_gang (7)
@@ -409,14 +404,13 @@ created: 2026-05-02
 > **Tools:** command line (2)
 > **Speakers:** - in (1)
 
-#### Create a database table
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-database-table?u=76281980)
+#### [Create a database table](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-database-table?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-database-table?u=76281980&t=0)** - [Instructor] Now that we have a database and we have a user that has the ability to access that database from our application, we're ready to create a database table that's going to store the data about the different bicycles that the chain gang bicycle shop is going to be selling.
 >
-> **[0:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-database-table?u=76281980&t=15)** To do that, we'll need to create a new table, using the SQl syntax.
+> **[0:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-database-table?u=76281980&t=15)** To do that, we'll need to create a new table, using the [[SQL]] syntax.
 >
 > **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-database-table?u=76281980&t=19)** So this is what the table structure is going to look like.
 >
@@ -468,11 +462,11 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-database-table?u=76281980&t=152)** Once we've got our database, our table, and some data in it, we're done with My SQL command line for now.
 >
-> **[2:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-database-table?u=76281980&t=159)** You can go ahead and exit out of it, because from now on, we're going to be working with our database from PHP.
+> **[2:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-database-table?u=76281980&t=159)** You can go ahead and exit out of it, because from now on, we're going to be working with our database from [[PHP]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (8), [[SQL]] (8), application (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[PHP]] (1)
 > **Env Vars:** sql (5), php (1)
 > **Tools:** terminal (2), command line (1)
 > **File Paths:** create_table_bicycles.sql (1), bicycles.sql (1)
@@ -481,12 +475,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Project files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-files?u=76281980)
+#### [Project files](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-files?u=76281980&t=0)** - [Instructor] Now that we have our database squared away, we're ready to start working with the actual PHP code that we're going to be using.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-files?u=76281980&t=0)** - [Instructor] Now that we have our database squared away, we're ready to start working with the actual [[PHP]] code that we're going to be using.
 >
 > **[0:06](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-files?u=76281980&t=6)** And we have some initial starter project files that we'll be working with.
 >
@@ -572,11 +565,11 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-files?u=76281980&t=221)** Let's go back to that bicycles.php and you'll see that we created a special class called parse.csv, which is store here, which is what allows us to parse that CSV file and then come up with an array of the properties and take those properties and pass them in to creating a new bicycle so that we can then display each one.
 >
-> **[3:59](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-files?u=76281980&t=239)** So our goal is to modify this process, so that it no longer uses parse.csv and the CSV file and instead reaches out to the My SQL database to retrieve its data from there.
+> **[3:59](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-files?u=76281980&t=239)** So our goal is to modify this process, so that it no longer uses parse.csv and the CSV file and instead reaches out to the My [[SQL]] database to retrieve its data from there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (12), database (3), web (3), data (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (12), [[SQL]] (1)
 > **CLI Commands:** php (12), find (1), make (1)
 > **File Paths:** index.php (2), initialized.php (2), bicycles.php (2), parse.csv (2), initialize.php (1)
 > **Env Vars:** csv (5), php (2), sql (1)
@@ -590,8 +583,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Database credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980)
+#### [Database credentials](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +595,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980&t=15)** So let's start by creating a new file inside the private directory.
 >
-> **[0:22](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980&t=22)** And I'm going to call that file db_credentials.php.
+> **[0:22](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980&t=22)** And I'm going to call that file db_credentials.[[PHP]].
 >
 > **[0:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980&t=29)** And let's start out by just opening our PHP tags.
 >
@@ -635,7 +627,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980&t=104)** If we were connecting remotely that would be an IP address.
 >
-> **[1:47](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980&t=107)** And then define db user, and that's going to be the user that I created that has access to the MySQL table.
+> **[1:47](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980&t=107)** And then define db user, and that's going to be the user that I created that has access to the [[MySQL]] table.
 >
 > **[1:55](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980&t=115)** For me that was webuser.
 >
@@ -665,7 +657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), application (5), [[PHP]] (4), business (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[MySQL]] (1)
 > **CLI Commands:** php (4), make (2), mysql (1)
 > **File Paths:** db_credentials.php (1), initialize.php (1), credentials.php (1)
 > **Code Identifiers:** db_credentials (1), chain_gang (1)
@@ -674,14 +666,13 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980)
+#### [Connect to the database](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=0)** - [Instructor] Now that we have our database credentials installed, let's see how we connect to the database using object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=0)** - [Instructor] Now that we have our database credentials installed, let's see how we connect to the database using [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
-> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=7)** First, let's begin by reviewing the procedural version which we've used to connect to the databases with PHP up until now.
+> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=7)** First, let's begin by reviewing the procedural version which we've used to connect to the [[Databases]] with [[PHP]] up until now.
 >
 > **[0:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=15)** To do that, we used a function called mysqli_connect and we passed in several arguments for the server, the user, the password, and the database name.
 >
@@ -691,7 +682,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=36)** So for example if we want to query the database, we can call another function mysqli_query.
 >
-> **[0:42](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=42)** We pass in that database handle as well as the SQL that we want to query.
+> **[0:42](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=42)** We pass in that database handle as well as the [[SQL]] that we want to query.
 >
 > **[0:47](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=47)** This is a procedural style.
 >
@@ -747,7 +738,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=248)** And then if that passes, then we'll just return the connection.
 >
-> **[4:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=253)** Okay, so now we need another function called confirm_db_connect which is going to receive a connection as its argument, there we go, and let's add some lines here that are similar to what we did in the PHP with MySQL essential training.
+> **[4:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=253)** Okay, so now we need another function called confirm_db_connect which is going to receive a connection as its argument, there we go, and let's add some lines here that are similar to what we did in the PHP with [[MySQL]] essential training.
 >
 > **[4:33](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/connect-to-the-database?u=76281980&t=273)** We're going to check to see if there is a connection error.
 >
@@ -785,7 +776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (22), [[PHP]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[SQL]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[SQL]] (2), [[Databases]] (1), [[MySQL]] (1)
 > **Code Identifiers:** db_connect (5), database_functions (2), confirm_db_connect (2), connect_errno (2), connect_error (2)
 > **CLI Commands:** php (6), make (3), mysql (1), find (1)
 > **Env Vars:** php (3), sql (2), db_server (1), db_user (1), db_pass (1)
@@ -794,8 +785,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### MySQLi methods and properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980)
+#### [MySQLi methods and properties](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -825,7 +815,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=71)** Now real_escape_string also works, but why would you type those extra five characters when you can just simply tell it that it's escaping the string?
 >
-> **[1:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=79)** We use this whenever we want to escape a string so that we can use it to construct an SQL query.
+> **[1:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=79)** We use this whenever we want to escape a string so that we can use it to construct an [[SQL]] query.
 >
 > **[1:24](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=84)** It helps us to prevent SQL injection attacks.
 >
@@ -869,7 +859,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=204)** So normally we'd use mysqli_free_result.
 >
-> **[3:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=209)** The shorter version of that when we're working with object-oriented programming is just result and then call its free method and that will free the result.
+> **[3:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=209)** The shorter version of that when we're working with [[Object-Oriented Programming (OOP)|object-oriented programming]] is just result and then call its free method and that will free the result.
 >
 > **[3:37](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=217)** If we want to know the number of rows that are in the result, we can do that by asking for one of its properties which is num_rows.
 >
@@ -893,13 +883,13 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=288)** They're just a set of properties with values and that's rarely useful.
 >
-> **[4:52](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=292)** As we're going to see throughout the rest of this course, it's much better to get an array of values and then to use that array to build our own custom objects which can have more complex behaviors.
+> **[4:52](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=292)** As we're going to see throughout the [[Representational State Transfer (REST)|rest]] of this course, it's much better to get an array of values and then to use that array to build our own custom objects which can have more complex behaviors.
 >
 > **[5:03](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/mysqli-methods-and-properties?u=76281980&t=303)** So that's the approach we're going to take.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[SQL]] (2), data (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** mysqli_query (2), fetch_assoc (2), fetch_object (2), mysqli_real_escape_string (1), escape_string (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (2)
@@ -908,14 +898,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Query using OOP
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980)
+#### [Query using OOP](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=0)** - [Narrator] Now that we have a database connection, let's try executing an object oriented query over that connection.
 >
-> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=7)** So the place that we want to do this is inside that public bicycles.php page.
+> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=7)** So the place that we want to do this is inside that public bicycles.[[PHP]] page.
 >
 > **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=12)** You remember that page already lists off the inventory, and right now it's doing that by parsing a CSV file.
 >
@@ -931,7 +920,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=48)** And then eventually we can remove other one when we have this one working.
 >
-> **[0:51](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=51)** So the first thing we need to do is we need to figure out what our SQL is going to look like.
+> **[0:51](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=51)** So the first thing we need to do is we need to figure out what our [[SQL]] is going to look like.
 >
 > **[0:56](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=56)** So the SQL is going to be equal to select all from the bicycles table.
 >
@@ -949,7 +938,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=95)** And of course that's going to return a results object, so we want to cache that in the variable result, and then we know how to work with that result object in an object oriented way as well.
 >
-> **[1:45](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=105)** We want to get back the first row of data so we're going to call result and then fetch_assoc and then that's it, we just call the fetch assoc method and it will return back a result as an array.
+> **[1:45](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=105)** We want to get back the first row of data so we're going to call result and then fetch_assoc and then that's it, we just call the [[Fetch]] assoc method and it will return back a result as an array.
 >
 > **[1:59](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=119)** I'm going to call that row.
 >
@@ -979,11 +968,11 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=193)** We know that we created our table successfully and assigned privileges to it, our credentials are good that we provided the application, we're able to create a new My SQL connection object, work within an object oriented way, we get back a result object, work with that in an object oriented way, and then are able to echo back the results to this page.
 >
-> **[3:33](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=213)** There's a lot more than we can learn, but this is the fundamental process of working with databases in an object oriented way.
+> **[3:33](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/query-using-oop?u=76281980&t=213)** There's a lot more than we can learn, but this is the fundamental process of working with [[Databases]] in an object oriented way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), [[PHP]] (6), data (6), [[SQL]] (5), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[PHP]] (6), [[SQL]] (5), [[Fetch]] (2), [[Databases]] (1)
 > **Env Vars:** sql (5), csv (2), php (1)
 > **CLI Commands:** php (6), make (1)
 > **File Paths:** initialize.php (3), bicycles.php (1), chain_gang/public/bicycles.php (1)
@@ -992,8 +981,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Disconnect from the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/disconnect-from-the-database?u=76281980)
+#### [Disconnect from the database](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/disconnect-from-the-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,7 +999,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/disconnect-from-the-database?u=76281980&t=34)** It's not something that you have to do.
 >
-> **[0:37](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/disconnect-from-the-database?u=76281980&t=37)** If you forget to do it, then once your PHP script exits, PHP will close the connection.
+> **[0:37](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/disconnect-from-the-database?u=76281980&t=37)** If you forget to do it, then once your [[PHP]] script exits, PHP will close the connection.
 >
 > **[0:42](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/disconnect-from-the-database?u=76281980&t=42)** When that object goes away, it knows that it's time to close the connection.
 >
@@ -1071,7 +1059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), [[PHP]] (3)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** php (3), make (3)
 > **Env Vars:** php (3)
 > **Code Identifiers:** mysqli_close (1)
@@ -1085,8 +1073,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Active record design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980)
+#### [Active record design patterns](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,9 +1081,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980&t=5)** There are a number of different techniques that we could use to do this, but I think that the best one is to use something called the Active Record Design Pattern.
 >
-> **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980&t=13)** The Active Record Design Pattern is a very popular design pattern for using databases with OOP.
+> **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980&t=13)** The Active Record Design Pattern is a very popular design pattern for using [[Databases]] with OOP.
 >
-> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980&t=19)** PHP frameworks like Laravel, CakePHP, Yii, and CodeIgniter all use this Active Record Design Pattern.
+> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980&t=19)** [[PHP]] frameworks like [[Laravel]], CakePHP, Yii, and CodeIgniter all use this Active Record Design Pattern.
 >
 > **[0:28](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980&t=28)** The idea is that the in-memory objects, that is the instances of a class that we create are going to correspond to a single row in our database table.
 >
@@ -1132,7 +1119,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980&t=137)** The first is that we take database records, retrieve them, and their values are used to populate the properties of objects.
 >
-> **[2:24](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980&t=144)** Second, an object's properties are used to craft SQL statements that we can submit to the database.
+> **[2:24](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980&t=144)** Second, an object's properties are used to craft [[SQL]] statements that we can submit to the database.
 >
 > **[2:31](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980&t=151)** In PHP code it looks something like this.
 >
@@ -1162,7 +1149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), [[PHP]] (3), [[Databases]] (1), oop (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Databases]] (1), [[Laravel]] (1), [[SQL]] (1)
 > **CLI Commands:** php (3), make (2), find (2)
 > **Env Vars:** php (3), oop (1), sql (1)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -1170,8 +1157,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/set-the-database?u=76281980)
+#### [Set the database](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/set-the-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1179,7 +1165,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/set-the-database?u=76281980&t=7)** In the code that we've already implemented where we're using a database connection, you can see right here that we're calling database query.
 >
-> **[0:14](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/set-the-database?u=76281980&t=14)** So this is just simply inside a PHP file.
+> **[0:14](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/set-the-database?u=76281980&t=14)** So this is just simply inside a [[PHP]] file.
 >
 > **[0:17](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/set-the-database?u=76281980&t=17)** This is not inside a class.
 >
@@ -1245,7 +1231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (22), [[PHP]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** make (4), php (1), find (1)
 > **Definitions:** means that (2), is a  (1)
 > **Env Vars:** php (1)
@@ -1253,8 +1239,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define query methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-query-methods?u=76281980)
+#### [Define query methods](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-query-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1312,7 +1297,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-query-methods?u=76281980&t=129)** Now before we move on from this, there are a couple of improvements that I want to make.
 >
-> **[2:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-query-methods?u=76281980&t=133)** The first is that I notice when I'm doing this find all, I'm setting some SQL, then I'm calling query on it.
+> **[2:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-query-methods?u=76281980&t=133)** The first is that I notice when I'm doing this find all, I'm setting some [[SQL]], then I'm calling query on it.
 >
 > **[2:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-query-methods?u=76281980&t=139)** Now it seems to me that this is the kind of thing that we might want to do in more than one case.
 >
@@ -1344,15 +1329,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[SQL]] (10)
+> **Frameworks & Libraries:** [[SQL]] (10)
 > **CLI Commands:** find (11), make (9)
 > **Env Vars:** sql (10)
 > **Tools:** firefox (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build objects using record values
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/build-objects-using-record-values?u=76281980)
+#### [Build objects using record values](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/build-objects-using-record-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1372,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/build-objects-using-record-values?u=76281980&t=35)** At the moment, we don't have the active record pattern.
 >
-> **[0:38](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/build-objects-using-record-values?u=76281980&t=38)** What we have is a result set, and then we're able to go through and fetch associative arrays out of that result set, which we can then use.
+> **[0:38](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/build-objects-using-record-values?u=76281980&t=38)** What we have is a result set, and then we're able to go through and [[Fetch]] associative arrays out of that result set, which we can then use.
 >
 > **[0:46](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/build-objects-using-record-values?u=76281980&t=46)** Instead, what we want is for find_all to return an array of objects to us, objects that are already populated with the correct values.
 >
@@ -1518,7 +1502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Code Identifiers:** find_all (2), find_by_sql (1), property_exists (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** csv (1)
@@ -1526,8 +1510,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find a single record
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-a-single-record?u=76281980)
+#### [Find a single record](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-a-single-record?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1543,7 +1526,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-a-single-record?u=76281980&t=32)** So the idea is that we're going to pass in the ID of the record that we want to it, and it's going to retrieve only that record.
 >
-> **[0:38](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-a-single-record?u=76281980&t=38)** So let's start by writing the SQL that we're going to need.
+> **[0:38](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-a-single-record?u=76281980&t=38)** So let's start by writing the [[SQL]] that we're going to need.
 >
 > **[0:41](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-a-single-record?u=76281980&t=41)** So I'll write SQL equals and this is also going to be a select all from bicycles.
 >
@@ -1621,11 +1604,11 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-a-single-record?u=76281980&t=214)** But there's no reason to return an array, if it only has one object inside of it.
 >
-> **[3:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-a-single-record?u=76281980&t=219)** Now that we've defined our function, in the next movie, we'll create a new PHP page that can make use of it.
+> **[3:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-a-single-record?u=76281980&t=219)** Now that we've defined our function, in the next movie, we'll create a new [[PHP]] page that can make use of it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[SQL]] (8), next (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[PHP]] (1)
 > **CLI Commands:** find (8), php (1), make (1)
 > **Env Vars:** sql (8), php (1)
 > **Definitions:** is called (1), is an  (1)
@@ -1633,8 +1616,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display a detail page
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/display-a-detail-page?u=76281980)
+#### [Display a detail page](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/display-a-detail-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1642,7 +1624,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/display-a-detail-page?u=76281980&t=5)** I want to build on that and in this movie, I want to take that object that we've just instantiated and use it to display a detail page for the bicycle.
 >
-> **[0:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/display-a-detail-page?u=76281980&t=15)** In your exercise files, I've included a new file called detail.php which we can just drag into the public directory and then when we go into our project, it'll show up right there and you can see that it just has the same kind of thing we've been working with on other pages.
+> **[0:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/display-a-detail-page?u=76281980&t=15)** In your exercise files, I've included a new file called detail.[[PHP]] which we can just drag into the public directory and then when we go into our project, it'll show up right there and you can see that it just has the same kind of thing we've been working with on other pages.
 >
 > **[0:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/display-a-detail-page?u=76281980&t=29)** It's got initialize.php, page title.
 >
@@ -1702,7 +1684,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/display-a-detail-page?u=76281980&t=207)** Now we should have a bike instance.
 >
-> **[3:30](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/display-a-detail-page?u=76281980&t=210)** That find by SQL is going to automatically instantiate a new object that has all of the properties set to the same values as the database row for this bicycle.
+> **[3:30](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/display-a-detail-page?u=76281980&t=210)** That find by [[SQL]] is going to automatically instantiate a new object that has all of the properties set to the same values as the database row for this bicycle.
 >
 > **[3:42](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/display-a-detail-page?u=76281980&t=222)** So that'll be set to this.
 >
@@ -1744,7 +1726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), database (3), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[SQL]] (1)
 > **CLI Commands:** php (9), find (5), make (4)
 > **File Paths:** detail.php (3), bicycles.php (2), initialize.php (1)
 > **UI Navigation:** click on (3), go to (2)
@@ -1758,8 +1740,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CRUD operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980)
+#### [CRUD operations](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,7 +1758,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=36)** Now we need to learn how to implement the other three.
 >
-> **[0:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=39)** The way that we're going to add that to our project is that we're going to create a staff area, a content management system that'll allow the Chain Gang staff to log in and be able to update the inventory of bicycles using a web interface.
+> **[0:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=39)** The way that we're going to add that to our project is that we're going to create a staff area, a [[Content Management]] system that'll allow the Chain Gang staff to log in and be able to update the inventory of bicycles using a web interface.
 >
 > **[0:54](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=54)** They'll be able to create records, update records, delete records, and so on.
 >
@@ -1785,7 +1766,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=70)** So if we have a object that's not save the database, it has properties for brand, model, year, etc., we want to be able to take that and call save on it and have it save to the database, to save a row in the database that matches.
 >
-> **[1:24](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=84)** Which means we have to translate all those properties into data that can be submitted as an SQL statement.
+> **[1:24](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=84)** Which means we have to translate all those properties into data that can be submitted as an [[SQL]] statement.
 >
 > **[1:31](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=91)** Let's review those SQL statements that we would normally use for these three primary operations.
 >
@@ -1819,9 +1800,9 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=178)** Before we can implement the CRUD, we need to do a little bit of setup in our project.
 >
-> **[3:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=180)** Rather than have you create all of the different HTML files we're going to need, I wanted to give you a jumpstart by giving you some starter code.
+> **[3:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=180)** Rather than have you create all of the different [[HTML]] files we're going to need, I wanted to give you a jumpstart by giving you some starter code.
 >
-> **[3:08](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=188)** Inside the exercise files, you'll find a directory called Staff. We're going to drag that into the public directory and inside there you'll see that there are a number of files...there's index.php page and another directory called bicycles, and then there are files that will allow us to list, show, create, update, and delete bicycle records.
+> **[3:08](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=188)** Inside the exercise files, you'll find a directory called Staff. We're going to drag that into the public directory and inside there you'll see that there are a number of files...there's index.[[PHP]] page and another directory called bicycles, and then there are files that will allow us to list, show, create, update, and delete bicycle records.
 >
 > **[3:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980&t=209)** Those are the main operations that we're going to be performing on our bicycles.
 >
@@ -1873,7 +1854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[SQL]] (7), [[PHP]] (4), next (2), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[PHP]] (4), [[Content Management]] (1), [[HTML]] (1)
 > **Env Vars:** sql (7), crud (2), update (2), where (2), limit (2)
 > **CLI Commands:** find (7), php (4), make (1)
 > **SQL:** update (2), where (2), insert into (1)
@@ -1882,14 +1863,13 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **API Endpoints:** delete  (2)
 
-#### Create a record
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980)
+#### [Create a record](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980&t=0)** - [Instructor] In this movie we will learn to create a database record using the properties of an existing PHP object.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980&t=0)** - [Instructor] In this movie we will learn to create a database record using the properties of an existing [[PHP]] object.
 >
-> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980&t=7)** In order to do that we are going to enable the Add Bicycle page in the content management system we are creating.
+> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980&t=7)** In order to do that we are going to enable the Add Bicycle page in the [[Content Management]] system we are creating.
 >
 > **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980&t=13)** We already have a form here.
 >
@@ -1941,7 +1921,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980&t=151)** And we want to do that by just simply calling bicycle and then call create.
 >
-> **[2:38](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980&t=158)** So there's this create method that'll be on bicycle, and it will know how to take all of those properties of the bicycle and turn them into an SQL query that can be submitted.
+> **[2:38](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980&t=158)** So there's this create method that'll be on bicycle, and it will know how to take all of those properties of the bicycle and turn them into an [[SQL]] query that can be submitted.
 >
 > **[2:49](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-a-record?u=76281980&t=169)** So we've got to write this method called create.
 >
@@ -2133,7 +2113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), [[SQL]] (13), [[PHP]] (8), [[Content Management]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[SQL]] (13), [[PHP]] (8), [[Content Management]] (1)
 > **Env Vars:** sql (13), php (4)
 > **CLI Commands:** php (8), find (4), make (1)
 > **File Paths:** new.php (3), initialize.php (1)
@@ -2142,12 +2122,11 @@ created: 2026-05-02
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic attribute list
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/dynamic-attribute-list?u=76281980)
+#### [Dynamic attribute list](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/dynamic-attribute-list?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/dynamic-attribute-list?u=76281980&t=0)** - [Instructor] In the previous movie, we learned to create a new record using an existing PHP object.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/dynamic-attribute-list?u=76281980&t=0)** - [Instructor] In the previous movie, we learned to create a new record using an existing [[PHP]] object.
 >
 > **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/dynamic-attribute-list?u=76281980&t=5)** In this movie, we're going to learn how we can improve that process by creating a dynamic list of the attributes.
 >
@@ -2257,7 +2236,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/dynamic-attribute-list?u=76281980&t=328)** And then now that I have them there, I can use them.
 >
-> **[5:32](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/dynamic-attribute-list?u=76281980&t=332)** After values, let's put in another join sql equals join, again with a comma, and what we want here are the array_values of our attributes.
+> **[5:32](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/dynamic-attribute-list?u=76281980&t=332)** After values, let's put in another join [[SQL]] equals join, again with a comma, and what we want here are the array_values of our attributes.
 >
 > **[5:48](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/dynamic-attribute-list?u=76281980&t=348)** Now, we can actually do the same thing here.
 >
@@ -2319,7 +2298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[PHP]] (2), next (2), [[SQL]] (2), parallel (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[SQL]] (2)
 > **CLI Commands:** make (8), php (2), find (1)
 > **Code Identifiers:** db_columns (4), array_values (2), array_keys (2)
 > **Env Vars:** php (2), sql (1)
@@ -2328,8 +2307,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sanitize values for database
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/sanitize-values-for-database?u=76281980)
+#### [Sanitize values for database](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/sanitize-values-for-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2347,7 +2325,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/sanitize-values-for-database?u=76281980&t=27)** Notice that Mike's Bike is being delimited on either end by single quotes, but it also contains a single quote inside of it.
 >
-> **[0:34](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/sanitize-values-for-database?u=76281980&t=34)** SQL is going to think that the value that's being submitted is everything from the first single quote up until the single quote that's between the e and the s.
+> **[0:34](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/sanitize-values-for-database?u=76281980&t=34)** [[SQL]] is going to think that the value that's being submitted is everything from the first single quote up until the single quote that's between the e and the s.
 >
 > **[0:42](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/sanitize-values-for-database?u=76281980&t=42)** Instead, we need to escape that value, so that SQL will know that it's not a meaningful character, that it's not a delimiter, that it's actually part of the text.
 >
@@ -2359,7 +2337,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/sanitize-values-for-database?u=76281980&t=66)** A hacker could use this technique in order to inject other SQL that we don't intend.
 >
-> **[1:11](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/sanitize-values-for-database?u=76281980&t=71)** It's called an SQL injection attack, and we talk about it in the PHP with MySQL Essential Training.
+> **[1:11](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/sanitize-values-for-database?u=76281980&t=71)** It's called an SQL injection attack, and we talk about it in the [[PHP]] with [[MySQL]] Essential Training.
 >
 > **[1:17](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/sanitize-values-for-database?u=76281980&t=77)** So, I'm not going to go back into it again here.
 >
@@ -2435,7 +2413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[SQL]] (4), data (1), application (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[PHP]] (1), [[MySQL]] (1)
 > **CLI Commands:** make (8), php (1), mysql (1)
 > **Env Vars:** sql (4), sqlstate (1), php (1)
 > **Code Identifiers:** escape_string (3), sanitized_attributes (1)
@@ -2444,8 +2422,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find record to update
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-record-to-update?u=76281980)
+#### [Find record to update](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-record-to-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2457,7 +2434,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-record-to-update?u=76281980&t=18)** That's similar to the process that we've had for reading records so far.
 >
-> **[0:21](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-record-to-update?u=76281980&t=21)** We're going to read back a record from the database, turn it into a PHP object, and use it to present a form to the user.
+> **[0:21](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-record-to-update?u=76281980&t=21)** We're going to read back a record from the database, turn it into a [[PHP]] object, and use it to present a form to the user.
 >
 > **[0:27](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-record-to-update?u=76281980&t=27)** And then, when the form is submitted with the user's edits, we want to update the record values that are in the database using an object.
 >
@@ -2541,7 +2518,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-record-to-update?u=76281980&t=218)** And I'll put a semi-colon at the end.
 >
-> **[3:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-record-to-update?u=76281980&t=219)** And we want to make sure we escape that value to make it safe for HTML.
+> **[3:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-record-to-update?u=76281980&t=219)** And we want to make sure we escape that value to make it safe for [[HTML]].
 >
 > **[3:42](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-record-to-update?u=76281980&t=222)** And we have a special function that can help us with that called HTML special charts on it.
 >
@@ -2697,7 +2674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (15), database (9), data (4), next (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[PHP]] (15), [[HTML]] (2)
 > **CLI Commands:** php (15), find (7), make (7)
 > **Env Vars:** php (9), url (2), html (2), crud (1), cms (1)
 > **File Paths:** new.php (2), initalize.php (1), four/staff/bicycles/index.php (1), field.php (1), edit.php (1)
@@ -2706,8 +2683,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Code Identifiers:** cond_id (1)
 
-#### Update a record
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/update-a-record?u=76281980)
+#### [Update a record](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/update-a-record?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2715,11 +2691,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/update-a-record?u=76281980&t=7)** So far, we've completed the first part of the update process, which is that we've retrieved a row of data from the database, and turned it into an object, so that we can present it as a form for the user, so the user can edit its properties.
 >
-> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/update-a-record?u=76281980&t=19)** Now we need to do the second part, which is we need to take the values that the user submits, and we need to update a row in the database, using SQL.
+> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/update-a-record?u=76281980&t=19)** Now we need to do the second part, which is we need to take the values that the user submits, and we need to update a row in the database, using [[SQL]].
 >
 > **[0:30](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/update-a-record?u=76281980&t=30)** So here's the form that we created in the last movie, what we want now is when we click Edit Bicycle, and it submits a post_request, we want it to update the values in the database.
 >
-> **[0:40](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/update-a-record?u=76281980&t=40)** So let's go to our code on edit.php, and you can see down here we took care of when we have a get request, that's the else down here, up here is if it's a post_request, if this form is being submitted.
+> **[0:40](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/update-a-record?u=76281980&t=40)** So let's go to our code on edit.[[PHP]], and you can see down here we took care of when we have a get request, that's the else down here, up here is if it's a post_request, if this form is being submitted.
 >
 > **[0:52](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/update-a-record?u=76281980&t=52)** And you can see that we're getting all of the different values that we need from the form.
 >
@@ -3015,7 +2991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[SQL]] (8), [[PHP]] (4), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[PHP]] (4)
 > **Code Identifiers:** attribute_pairs (8), post_request (4), merge_attributes (2), sanitized_attributes (2), escape_string (1)
 > **CLI Commands:** make (9), php (4), find (2)
 > **File Paths:** edit.php (3), new.php (1)
@@ -3024,16 +3000,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Env Vars:** sql (1)
 
-#### HTML forms for OOP
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/html-forms-for-oop?u=76281980)
+#### [HTML forms for OOP](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/html-forms-for-oop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/html-forms-for-oop?u=76281980&t=0)** [Instructor] In this movie, I want to show you a technique for working with form data that's very useful when we're working with object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/html-forms-for-oop?u=76281980&t=0)** [Instructor] In this movie, I want to show you a technique for working with form data that's very useful when we're working with [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
-> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/html-forms-for-oop?u=76281980&t=7)** This technique does not use php at all.
+> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/html-forms-for-oop?u=76281980&t=7)** This technique does not use [[PHP]] at all.
 >
-> **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/html-forms-for-oop?u=76281980&t=10)** It really just uses plain HTML, but I think that it's helpful enough that we should cover it here.
+> **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/html-forms-for-oop?u=76281980&t=10)** It really just uses plain [[HTML]], but I think that it's helpful enough that we should cover it here.
 >
 > **[0:16](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/html-forms-for-oop?u=76281980&t=16)** So far, when we've been creating our form data, we've been creating our form tags, such as input.
 >
@@ -3173,7 +3148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), data (3), [[PHP]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), application (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[PHP]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (5), php (3)
 > **UI Navigation:** go to (5), click on (1), scroll down (1)
 > **Env Vars:** html (6)
@@ -3182,14 +3157,13 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Analogies:** such as (1)
 
-#### Validations and errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980)
+#### [Validations and errors](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=0)** - [Narrator] Before we leave the topic of creating and updating records in the database, I want us to talk about validations and errors.
 >
-> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=7)** This is a concept that we talked about in the PHP with MySQL essential training.
+> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=7)** This is a concept that we talked about in the [[PHP]] with [[MySQL]] essential training.
 >
 > **[0:11](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=11)** The fundamental idea is that we want to have control over the quality of data that gets saved to the database.
 >
@@ -3225,7 +3199,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=94)** Instead, we want to display errors back to the user.
 >
-> **[1:38](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=98)** This technique can be used both in procedural programming, or in our object-oriented programming.
+> **[1:38](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=98)** This technique can be used both in procedural programming, or in our [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[1:43](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=103)** Let's see how we can add it to our bicycle class.
 >
@@ -3275,7 +3249,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=249)** That's it.
 >
-> **[4:10](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=250)** We won't do anything else, we won't sanitize the attributes, or assemble our SQL, we'll just simply return false right away.
+> **[4:10](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=250)** We won't do anything else, we won't sanitize the attributes, or assemble our [[SQL]], we'll just simply return false right away.
 >
 > **[4:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/validations-and-errors?u=76281980&t=255)** We weren't able to create it.
 >
@@ -3397,7 +3371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (4), [[PHP]] (4), application (2), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[MySQL]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[SQL]] (1)
 > **CLI Commands:** make (6), php (4), mysql (1), find (1)
 > **File Paths:** validation_functions.php (1), initialize.php (1), new.php (1)
 > **Cross-References:** go back to (2), we talked about (1)
@@ -3406,8 +3380,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Best Practices:** good practice (2)
 
-#### Delete a record
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/delete-a-record?u=76281980)
+#### [Delete a record](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/delete-a-record?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3423,7 +3396,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/delete-a-record?u=76281980&t=24)** It's that simple.
 >
-> **[0:26](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/delete-a-record?u=76281980&t=26)** Let's remind ourselves what an SQL delete statement looks like.
+> **[0:26](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/delete-a-record?u=76281980&t=26)** Let's remind ourselves what an [[SQL]] delete statement looks like.
 >
 > **[0:30](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/delete-a-record?u=76281980&t=30)** It's also very simple.
 >
@@ -3485,7 +3458,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/delete-a-record?u=76281980&t=174)** So when we have an object, we can call the delete method and it will delete the underlying record.
 >
-> **[3:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/delete-a-record?u=76281980&t=180)** Now the object is still going to to be there for a little while at least for the duration of this PHP script.
+> **[3:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/delete-a-record?u=76281980&t=180)** Now the object is still going to to be there for a little while at least for the duration of this [[PHP]] script.
 >
 > **[3:05](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/delete-a-record?u=76281980&t=185)** And that can be useful.
 >
@@ -3561,7 +3534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[SQL]] (10), [[PHP]] (6), data (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (10), [[PHP]] (6)
 > **CLI Commands:** find (8), php (6), make (5)
 > **Env Vars:** sql (10), php (3), delete (2), where (2), limit (2)
 > **UI Navigation:** go to (4), click on (1)
@@ -3571,8 +3544,7 @@ created: 2026-05-02
  (1)
 > **Cross-References:** go back to (2)
 
-#### Create inheritable code
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980)
+#### [Create inheritable code](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3588,7 +3560,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=22)** And we're going to want to have a table of the admin users, so the store their username and password, and know who's able to log in.
 >
-> **[0:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=29)** We're also going to want to have a content management system for those, so that we have the ability to create, read updated and delete our admin users.
+> **[0:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=29)** We're also going to want to have a [[Content Management]] system for those, so that we have the ability to create, read updated and delete our admin users.
 >
 > **[0:36](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=36)** So we could take all of the code we just worked on, in our bicycle class, we could take it and copy it, and paste it into an admin class, so we'd have that same behavior there.
 >
@@ -3604,7 +3576,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=86)** We can do that using class inheritance.
 >
-> **[1:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=89)** That's the techniques we talked about in the PHP object oriented programming course.
+> **[1:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=89)** That's the techniques we talked about in the [[PHP]] object oriented programming course.
 >
 > **[1:34](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=94)** The idea is that we have a parent class, in this case database object, and then we have subclasses that inherit those behaviors from that parent class.
 >
@@ -3630,7 +3602,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=157)** And we'll save that file let's go over to bicycle class.
 >
-> **[2:40](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=160)** and it is going to inherit from it, so we use the extends key word and then the name of the class database, object.
+> **[2:40](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=160)** and it is going to inherit from it, so we use the extends key [[Microsoft Word|word]] and then the name of the class database, object.
 >
 > **[2:48](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=168)** And that's it!
 >
@@ -3748,7 +3720,7 @@ created: 2026-05-02
 >
 > **[7:57](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=477)** I think that's okay, but every other time we use self, like here, when we call instantiate, we want to be calling it on the static version, the one at run time, right, the sub class.
 >
-> **[8:08](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=488)** Alright so lets do another find self, find by SQL should also be static.
+> **[8:08](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=488)** Alright so lets do another find self, find by [[SQL]] should also be static.
 >
 > **[8:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/create-inheritable-code?u=76281980&t=495)** Here's another one here, static, let's do another find.
 >
@@ -3832,7 +3804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (28), [[PHP]] (4), [[Programming]] (3), next (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Microsoft Word|Word]] (2), [[Content Management]] (1), [[SQL]] (1)
 > **CLI Commands:** make (10), find (6), php (4)
 > **UI Navigation:** scroll down (4), scroll up (1), go to (1)
 > **Env Vars:** php (4), sql (1)
@@ -3846,16 +3818,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Admin class
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980)
+#### [Admin class](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=0)** - [Instructor] In this chapter, we will add user authentication to the staff area of our project.
 >
-> **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=5)** We discussed user authentication in the PHP with MySQL Essential Training course, so we won't revisit all of the fundamental concepts.
+> **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=5)** We discussed user authentication in the [[PHP]] with [[MySQL]] Essential Training course, so we won't revisit all of the fundamental concepts.
 >
-> **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=13)** However, we will learn to use object-oriented programming techniques instead of the procedural programming that we learned before.
+> **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=13)** However, we will learn to use [[Object-Oriented Programming (OOP)|object-oriented programming]] techniques instead of the procedural programming that we learned before.
 >
 > **[0:20](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=20)** The first step is to create our admin class.
 >
@@ -3875,7 +3846,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=75)** Typically, those pages are called index, show, new, edit, and delete.
 >
-> **[1:20](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=80)** And a good way to get started on it is to make a copy of the bicycle content management pages that we created and then use find and replace so that it becomes pages for managing admins instead of bicycles.
+> **[1:20](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=80)** And a good way to get started on it is to make a copy of the bicycle [[Content Management]] pages that we created and then use find and replace so that it becomes pages for managing admins instead of bicycles.
 >
 > **[1:32](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=92)** Now, if you feel comfortable with the techniques that we've learned so far, it can be a really good challenge to try to do this work completely on your own.
 >
@@ -3891,7 +3862,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=129)** All of those are VARCHAR (255) fields.
 >
-> **[2:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=132)** Then you'll notice that after I've created the table, I have another SQL command which is going to add an index to this table.
+> **[2:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=132)** Then you'll notice that after I've created the table, I have another [[SQL]] command which is going to add an index to this table.
 >
 > **[2:20](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980&t=140)** By default, all SQL tables have an index on their primary key and that allows looking up the records by their primary key very quickly.
 >
@@ -4009,7 +3980,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), database (8), [[MySQL]] (3), [[SQL]] (3), next (2)
+> **Frameworks & Libraries:** [[PHP]] (9), [[MySQL]] (3), [[SQL]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Content Management]] (1)
 > **Code Identifiers:** first_name (5), last_name (5), hashed_password (4), create_table_admins (1), chain_gang (1)
 > **Env Vars:** php (2), sql (2), show (2), integer (1), auto_increment (1)
 > **CLI Commands:** php (9), mysql (3), make (3), find (2)
@@ -4018,12 +3989,11 @@ created: 2026-05-02
 > **SQL:** integer (1), primary key (1), varchar (1), alter table (1), index (1)
 > **UI Navigation:** go to (3), scroll down (1), click on (1)
 
-#### Hashing passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/hashing-passwords?u=76281980)
+#### [Hashing passwords](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/hashing-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/hashing-passwords?u=76281980&t=0)** - [Instructor] Now that we have the basics of our admin class and the PHP pages that we're going to use to manage it, we're ready to talk about how we hash passwords before we storm in the database and we're going to do it using object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/hashing-passwords?u=76281980&t=0)** - [Instructor] Now that we have the basics of our admin class and the [[PHP]] pages that we're going to use to manage it, we're ready to talk about how we hash passwords before we storm in the database and we're going to do it using [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/hashing-passwords?u=76281980&t=12)** You may remember that PHP offers us a function that makes password hashing very easy.
 >
@@ -4167,7 +4137,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/hashing-passwords?u=76281980&t=371)** It created the admin for us.
 >
-> **[6:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/hashing-passwords?u=76281980&t=373)** Now we don't see the password there, we're not showing it anywhere, but we can go into our consul and log into mysql.
+> **[6:13](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/hashing-passwords?u=76281980&t=373)** Now we don't see the password there, we're not showing it anywhere, but we can go into our consul and log into [[MySQL]].
 >
 > **[6:24](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/hashing-passwords?u=76281980&t=384)** And let's take a look.
 >
@@ -4185,7 +4155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[PHP]] (4), [[MySQL]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[MySQL]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** php (4), make (3), mysql (2)
 > **Env Vars:** php (2), password_bcrypt (1), bcrypt (1)
 > **Cross-References:** in the last (1), we talked about (1), go back to (1)
@@ -4194,8 +4164,7 @@ created: 2026-05-02
 > **Code Identifiers:** password_hash (1)
 > **Definitions:** is a  (1)
 
-#### Admin validations
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-validations?u=76281980)
+#### [Admin validations](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-validations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4205,7 +4174,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-validations?u=76281980&t=19)** What we need to do is add custom validations to the admin class that inherits from DatabaseObject.
 >
-> **[0:25](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-validations?u=76281980&t=25)** So, in admin.class.php, we want to add a new method down here which is also going to be the same type of method, protected function called validate, and it's going to override that behavior with its own behavior.
+> **[0:25](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-validations?u=76281980&t=25)** So, in admin.class.[[PHP]], we want to add a new method down here which is also going to be the same type of method, protected function called validate, and it's going to override that behavior with its own behavior.
 >
 > **[0:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-validations?u=76281980&t=39)** I've included that in the exercise files for you.
 >
@@ -4215,7 +4184,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-validations?u=76281980&t=52)** Let's copy all of that and let's go into admin and let's paste it in.
 >
-> **[0:56](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-validations?u=76281980&t=56)** Now, these validations are the exact same validations that we talked about in the PHP with MySQL essential training.
+> **[0:56](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-validations?u=76281980&t=56)** Now, these validations are the exact same validations that we talked about in the PHP with [[MySQL]] essential training.
 >
 > **[1:02](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-validations?u=76281980&t=62)** So these are exactly the same.
 >
@@ -4357,7 +4326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[MySQL]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[MySQL]] (1)
 > **CLI Commands:** make (8), php (2), mysql (1)
 > **Code Identifiers:** password_required (4), first_name (1), has_length (1)
 > **Cross-References:** we talked about (2), in the last (1), go back to (1), in the next (1)
@@ -4366,16 +4335,15 @@ created: 2026-05-02
 > **URLs:** [somewhere.com](https://somewhere.com) (1)
 > **UI Navigation:** go to (1)
 
-#### Find by username
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980)
+#### [Find by username](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980&t=0)** - [Narrator] In this movie, we're going to learn how to find admin records using the Username column, and then use that as a validation to confirm that a username is unique before we accept it into the database.
 >
-> **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980&t=12)** We already have a validation function placeholder for this, go to our validation functions.php.
+> **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980&t=12)** We already have a validation function placeholder for this, go to our validation functions.[[PHP]].
 >
-> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980&t=19)** There's has unique username, and that's what we had before when we were working in php with mySQL essential training.
+> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980&t=19)** There's has unique username, and that's what we had before when we were working in php with [[MySQL]] essential training.
 >
 > **[0:25](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980&t=25)** But we need to now rewrite that using object oriented programming.
 >
@@ -4427,7 +4395,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980&t=189)** So it's going to work the exact same way, all this code is the same except instead of finding it where ID equals, we're going to say where username equals, and then instead of passing in the ID, we're going to pass in the username.
 >
-> **[3:25](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980&t=205)** Then it will execute the find by SQL, it'll check and see whether it's empty, and it'll return back a record, single record to us.
+> **[3:25](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980&t=205)** Then it will execute the find by [[SQL]], it'll check and see whether it's empty, and it'll return back a record, single record to us.
 >
 > **[3:32](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/find-by-username?u=76281980&t=212)** So it's just going to find a single record, but either we're going to get back that record, letting us know that it exists, or it's going to be false.
 >
@@ -4457,7 +4425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[PHP]] (3), [[SQL]] (2), [[MySQL]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[SQL]] (2), [[MySQL]] (1)
 > **CLI Commands:** find (14), php (3), make (2), mysql (1)
 > **File Paths:** functions.php (1), class.php (1)
 > **Env Vars:** sql (2)
@@ -4466,8 +4434,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Verify password
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/verify-password?u=76281980)
+#### [Verify password](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/verify-password?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4481,7 +4448,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/verify-password?u=76281980&t=22)** The way that we verify passwords are correct is with a handy peach p function called password underscore verify, and it makes it really simple because we just pass in the new password that's being tried, and match it with the hashed or encrypted password that's stored in the database.
 >
-> **[0:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/verify-password?u=76281980&t=39)** And php will handle all the work behind the scenes to see if they match or not, and it will return a boolean: true or false.
+> **[0:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/verify-password?u=76281980&t=39)** And [[PHP]] will handle all the work behind the scenes to see if they match or not, and it will return a boolean: true or false.
 >
 > **[0:47](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/verify-password?u=76281980&t=47)** Now it doesn't actually decrypt the hashed password during this process.
 >
@@ -4607,7 +4574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), database (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (7)
 > **CLI Commands:** php (7), find (5), make (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **UI Navigation:** go to (2)
@@ -4615,14 +4582,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Define a session class
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-session-class?u=76281980)
+#### [Define a session class](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-session-class?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-session-class?u=76281980&t=0)** - [Instructor] In this movie, we're going to define a new class called session.
 >
-> **[0:03](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-session-class?u=76281980&t=3)** And we're going to use it to help us manage our php sessions.
+> **[0:03](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-session-class?u=76281980&t=3)** And we're going to use it to help us manage our [[PHP]] sessions.
 >
 > **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-session-class?u=76281980&t=7)** We're mostly going to use it so that we can keep track of whether a user is logged in in the session or not.
 >
@@ -4840,7 +4806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), [[Security]] (1), feature (1), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (9)
 > **Code Identifiers:** admin_id (5), is_logged_in (3), check_stored_login (3), session_regenerate_id (2), log_in (1)
 > **CLI Commands:** php (9), make (5), find (1)
 > **File Paths:** initialize.php (2), login.php (2), session.class.php (1)
@@ -4849,8 +4815,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add page access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980)
+#### [Add page access control](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4858,7 +4823,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=11)** That is, that we can restrict the pages in our staff area to only allow logged in users to see them.
 >
-> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=19)** The way we can do that is just simply to go to one of our staff area pages like index.php and right here at the top, we can just check to see.
+> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=19)** The way we can do that is just simply to go to one of our staff area pages like index.[[PHP]] and right here at the top, we can just check to see.
 >
 > **[0:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=29)** Put php tags and we'll just test to see if not dollar sign session
 >
@@ -4866,7 +4831,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=44)** Then I'm going to redirect to url_for staff/login.php.
 >
-> **[0:57](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=57)** And if they're not for some reason, then let's just do nothing, let the rest of the page proceed.
+> **[0:57](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=57)** And if they're not for some reason, then let's just do nothing, let the [[Representational State Transfer (REST)|rest]] of the page proceed.
 >
 > **[1:10](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=70)** So that's it, that's the process.
 >
@@ -4962,21 +4927,20 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=278)** It remembers that I was logged in.
 >
-> **[4:41](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=281)** We've successfully implemented user authentication using our object-oriented programming techniques.
+> **[4:41](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=281)** We've successfully implemented user authentication using our [[Object-Oriented Programming (OOP)|object-oriented programming]] techniques.
 >
 > **[4:46](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/add-page-access-control?u=76281980&t=286)** And now we have a password-protected staff area for managing our admins and our bicycles.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (17), [[Representational State Transfer (REST)|Rest]] (1), hit (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (17), [[Representational State Transfer (REST)|Rest]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** php (17), make (2)
 > **File Paths:** index.php (8), staff/login.php (1), status_error_functions.php (1), new.php (1)
 > **Code Identifiers:** require_login (4), url_for (1), status_error_functions (1)
 > **UI Navigation:** go to (6)
 > **Speakers:** - [instructor] (1)
 
-#### Improve the session class
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/improve-the-session-class?u=76281980)
+#### [Improve the session class](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/improve-the-session-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5034,7 +4998,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/improve-the-session-class?u=76281980&t=167)** Let's go to our staff header and right after where we see if the user's logged in or not, let's just output their username.
 >
-> **[2:55](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/improve-the-session-class?u=76281980&t=175)** I'll make a new line here, a new li, list item, and then we'll do user colon and then inside php tags, we will echo back the session username.
+> **[2:55](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/improve-the-session-class?u=76281980&t=175)** I'll make a new line here, a new li, list item, and then we'll do user colon and then inside [[PHP]] tags, we will echo back the session username.
 >
 > **[3:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/improve-the-session-class?u=76281980&t=192)** Now, we should have that value because the user is logged in at that point.
 >
@@ -5154,7 +5118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), feature (1), parallel (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **Code Identifiers:** last_login (15), last_login_is_recent (3)
 > **CLI Commands:** make (7), php (2)
 > **UI Navigation:** go to (3), click on (1)
@@ -5163,14 +5127,13 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **File Paths:** index.php (1)
 
-#### Session messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/session-messages?u=76281980)
+#### [Session messages](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/session-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/session-messages?u=76281980&t=0)** - [Instructor] In this movie, we'll look at how we can improve our session class by allowing it to manage our session messages.
 >
-> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/session-messages?u=76281980&t=7)** When I talk about session messages, what I'm referring to is the fact that in some of our pages like edit.php, once we have successfully updated one of these records, we have session message equals the admin was updated successfully.
+> **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/session-messages?u=76281980&t=7)** When I talk about session messages, what I'm referring to is the fact that in some of our pages like edit.[[PHP]], once we have successfully updated one of these records, we have session message equals the admin was updated successfully.
 >
 > **[0:22](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/session-messages?u=76281980&t=22)** And then we want to display that on future pages as well.
 >
@@ -5182,7 +5145,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/session-messages?u=76281980&t=48)** It calls get_and_clear_session_message.
 >
-> **[0:51](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/session-messages?u=76281980&t=51)** If it's set, then it displays some HTML with the message inside of it.
+> **[0:51](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/session-messages?u=76281980&t=51)** If it's set, then it displays some [[HTML]] with the message inside of it.
 >
 > **[0:54](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/session-messages?u=76281980&t=54)** Get and clear it both finds out if it's there, retrieves it, and unsets it from the session.
 >
@@ -5310,7 +5273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1), business (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1)
 > **CLI Commands:** make (7), php (3)
 > **Code Identifiers:** get_and_clear_session_message (3), display_session_messages (1), display_session_message (1), clear_message (1)
 > **File Paths:** edit.php (3)
@@ -5324,8 +5287,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pagination concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980)
+#### [Pagination concepts](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5339,7 +5301,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=20)** We probably would not want to view all of those bicycles on a single page at one time.
 >
-> **[0:25](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=25)** It would be visually overwhelming, but it also requires server to do a lot of work to retrieve that many records from the database, and then to instantiate them, and turn them into PHP objects.
+> **[0:25](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=25)** It would be visually overwhelming, but it also requires server to do a lot of work to retrieve that many records from the database, and then to instantiate them, and turn them into [[PHP]] objects.
 >
 > **[0:35](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=35)** It would take a lot of time and a lot of memory.
 >
@@ -5355,7 +5317,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=75)** You've certainly come in contact with pagination before, if you've ever searched for anything online.
 >
-> **[1:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=79)** Here I've searched for the word pagination on Google, and you can see it tells me there are 71 million results.
+> **[1:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=79)** Here I've searched for the [[Microsoft Word|word]] pagination on [[Google]], and you can see it tells me there are 71 million results.
 >
 > **[1:25](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=85)** Now I certainly don't want to see all 71 million results in one long scrolling page.
 >
@@ -5381,7 +5343,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=146)** The total number of pages is going to be the total count of records divided by the records per page, and knowing the total number of pages will let us create links to numbered pages, and tell us if we've reached the last page or not.
 >
-> **[2:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=159)** We're also going to need to make use of a couple of features of SQL.
+> **[2:39](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=159)** We're also going to need to make use of a couple of features of [[SQL]].
 >
 > **[2:42](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980&t=162)** We're going to need to use SQL's limit in order to set the number of maximum records that should be returned by the query.
 >
@@ -5441,15 +5403,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), next (5), database (2), [[Microsoft Word|Word]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Microsoft Word|Word]] (2), [[Google]] (2), [[PHP]] (1)
 > **Env Vars:** sql (8), php (1)
 > **CLI Commands:** make (3), php (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - in (1)
 
-#### Define a pagination class
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-pagination-class?u=76281980)
+#### [Define a pagination class](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-pagination-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5459,7 +5420,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-pagination-class?u=76281980&t=10)** This is going to go inside our classes directory.
 >
-> **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-pagination-class?u=76281980&t=12)** Make a new file, and I'm going to call it pagination.class.php.
+> **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-pagination-class?u=76281980&t=12)** Make a new file, and I'm going to call it pagination.class.[[PHP]].
 >
 > **[0:18](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/define-a-pagination-class?u=76281980&t=18)** It will need some php tags, and it's going to be a class definition for pagination.
 >
@@ -5575,7 +5536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[PHP]] (3)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** make (4), php (3), find (1)
 > **File Paths:** pagination.class.php (1), index.php (1)
 > **Code Identifiers:** function__construct (1), total_count (1)
@@ -5583,8 +5544,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Paginate bicycles
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980)
+#### [Paginate bicycles](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5634,7 +5594,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=121)** And it's also going to instantiate all of those records, which would return an array with 10,000 objects in it, and that's not what we want.
 >
-> **[2:09](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=129)** Instead, we want to write that more efficient sql statement that will count the records for us.
+> **[2:09](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=129)** Instead, we want to write that more efficient [[SQL]] statement that will count the records for us.
 >
 > **[2:14](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=134)** I could just write the sql statement here one time, but it's something that I may use more than once, so I'm actually going to go ahead and add it to my database object class that gets inherited by all of my other classes, like bicycle and ad map.
 >
@@ -5658,7 +5618,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=221)** You know how to do that.
 >
-> **[3:42](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=222)** Normally with fetch assoc, but instead here, I'm going to be doing it with fetch array.
+> **[3:42](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=222)** Normally with [[Fetch]] assoc, but instead here, I'm going to be doing it with fetch array.
 >
 > **[3:48](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=228)** I don't need an associative array, it's just a single value, there's no reason to have a label on it, so I'll just use fetch array to get back an array as a row and then I need to get the first value out of that array.
 >
@@ -5674,7 +5634,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=262)** So we have to go through these steps to get to that value.
 >
-> **[4:24](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=264)** Now that we have count all defined here, we can jump back over to index.php and we can use it.
+> **[4:24](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=264)** Now that we have count all defined here, we can jump back over to index.[[PHP]] and we can use it.
 >
 > **[4:31](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/paginate-bicycles?u=76281980&t=271)** Bicycle::count all and that will return the count to us.
 >
@@ -5740,7 +5700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (13), database (4), next (3), [[Fetch]] (3), data (2)
+> **Frameworks & Libraries:** [[SQL]] (13), [[Fetch]] (3), [[PHP]] (2)
 > **CLI Commands:** find (7), php (2), make (1)
 > **Env Vars:** url (4)
 > **Code Identifiers:** result_set (2), find_by_sql (1)
@@ -5749,8 +5709,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** just like (1)
 
-#### Previous and next page links
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/previous-and-next-page-links?u=76281980)
+#### [Previous and next page links](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/previous-and-next-page-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5764,7 +5723,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/previous-and-next-page-links?u=76281980&t=29)** So right below the Bicycles table, we're going to have previous and next links.
 >
-> **[0:34](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/previous-and-next-page-links?u=76281980&t=34)** Let's go into our code on index.php and let's go down below the table, and let's add some php tags, and let's start trying to write the code that we want to go here.
+> **[0:34](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/previous-and-next-page-links?u=76281980&t=34)** Let's go into our code on index.[[PHP]] and let's go down below the table, and let's add some php tags, and let's start trying to write the code that we want to go here.
 >
 > **[0:45](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/previous-and-next-page-links?u=76281980&t=45)** Now we want to have this pagination, but we don't always want to have the pagination.
 >
@@ -5802,7 +5761,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/previous-and-next-page-links?u=76281980&t=122)** I'm also going to spruce it up a little bit by after the next I'm going to put arrows as well.
 >
-> **[2:06](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/previous-and-next-page-links?u=76281980&t=126)** Now you could just do greater than greater than, but I'm actually going to use an HTML entity here which is ampersand raquo and then a semicolon.
+> **[2:06](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/previous-and-next-page-links?u=76281980&t=126)** Now you could just do greater than greater than, but I'm actually going to use an [[HTML]] entity here which is ampersand raquo and then a semicolon.
 >
 > **[2:15](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/previous-and-next-page-links?u=76281980&t=135)** That's going to give us a nice slightly smaller version of two arrows pointing to the right.
 >
@@ -5978,7 +5937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (24), [[PHP]] (3), css (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1)
 > **Env Vars:** url (12), css (1), html (1)
 > **CLI Commands:** make (5), php (3)
 > **UI Navigation:** go to (4), click on (3), navigate to (1)
@@ -5987,8 +5946,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Numbered page links
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/numbered-page-links?u=76281980)
+#### [Numbered page links](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/numbered-page-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5998,7 +5956,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/numbered-page-links?u=76281980&t=16)** In this movie, we're going to learn how to create those links.
 >
-> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/numbered-page-links?u=76281980&t=19)** I'm going to put my numbered links in between my previous and next link just like we saw with Google, right?
+> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/numbered-page-links?u=76281980&t=19)** I'm going to put my numbered links in between my previous and next link just like we saw with [[Google]], right?
 >
 > **[0:25](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/numbered-page-links?u=76281980&t=25)** Google has all the Os in their name and they have previous and next links on either side.
 >
@@ -6130,7 +6088,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/numbered-page-links?u=76281980&t=269)** That makes it a little bit easier to use.
 >
-> **[4:32](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/numbered-page-links?u=76281980&t=272)** Now we did all of this again just inside index.php.
+> **[4:32](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/numbered-page-links?u=76281980&t=272)** Now we did all of this again just inside index.[[PHP]].
 >
 > **[4:36](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/numbered-page-links?u=76281980&t=276)** It's not reusable but it's the kind of thing we probably want to reuse.
 >
@@ -6244,7 +6202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), css (7), [[PHP]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Google]] (2)
 > **Env Vars:** url (8), css (6)
 > **UI Navigation:** click on (8), go to (3)
 > **CLI Commands:** make (6), php (3)
@@ -6258,12 +6216,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/next-steps?u=76281980&t=0)** - I would like to thank you for taking PHP object-oriented programming with databases.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/next-steps?u=76281980&t=0)** - I would like to thank you for taking [[PHP]] [[Object-Oriented Programming (OOP)|object-oriented programming]] with [[Databases]].
 >
 > **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/next-steps?u=76281980&t=5)** I hope that you've gained useful strategies for working with databases in an object-oriented way.
 >
@@ -6279,7 +6236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Databases]] (2), database (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), oop (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Databases]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Env Vars:** php (2), oop (1)
 > **CLI Commands:** php (2)
 > **Speakers:** - i (1)

@@ -74,12 +74,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Smart contracts review
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980)
+#### [Smart contracts review](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=0)** - Okay, so you know how to write smart contracts, right?
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=0)** - Okay, so you know how to write [[Smart Contracts]], right?
 >
 > **[0:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=3)** Well, not exactly.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=37)** All right, so, let's back up just a little bit, and let's review.
 >
-> **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=40)** Blockchain, it's different than any other environment, because we had this consensus mechanism that controls adding blocks.
+> **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=40)** [[Blockchain]], it's different than any other environment, because we had this consensus mechanism that controls adding blocks.
 >
 > **[0:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=49)** That way, we can trust the process.
 >
@@ -127,7 +126,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=107)** One example, the one we're going to focus on, is supply chain.
 >
-> **[1:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=111)** Supply chain is all about tracking and managing products and services from the original producer to the final consumer, and it's a great example of how blockchain really, really shines.
+> **[1:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=111)** Supply chain is all about tracking and managing [[Microsoft Products|products]] and services from the original producer to the final consumer, and it's a great example of how blockchain really, really shines.
 >
 > **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980&t=124)** Smart contracts let us implement a supply chain or some other type of solution.
 >
@@ -145,22 +144,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Smart Contracts]] (10), data (9), [[Blockchain]] (8), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Smart Contracts]] (10), [[Blockchain]] (8), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), in other words (1), means that (1)
 > **Speakers:** - okay (1)
 
-#### What is the supply chain?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/what-is-the-supply-chain?u=76281980)
+#### [What is the supply chain?](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/what-is-the-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/what-is-the-supply-chain?u=76281980&t=1)** - So what exactly is supply chain?
 >
-> **[0:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/what-is-the-supply-chain?u=76281980&t=2)** Supply chain is a great use case for blockchain technology.
+> **[0:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/what-is-the-supply-chain?u=76281980&t=2)** Supply chain is a great use case for [[Blockchain]] technology.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/what-is-the-supply-chain?u=76281980&t=7)** Not just because they both are chains, but actually there's some truth to that.
 >
-> **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/what-is-the-supply-chain?u=76281980&t=11)** The idea behind supply chain is that it is the path that products or services even take from the producer all the way to the consumer.
+> **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/what-is-the-supply-chain?u=76281980&t=11)** The idea behind supply chain is that it is the path that [[Microsoft Products|products]] or services even take from the producer all the way to the consumer.
 >
 > **[0:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/what-is-the-supply-chain?u=76281980&t=23)** It's rare that there's one organization that controls all the different components.
 >
@@ -290,7 +288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), next (3), product (2), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Cross-References:** in the next (1)
@@ -298,8 +296,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Supply chain challenges and blockchain solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980)
+#### [Supply chain challenges and blockchain solutions](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -315,7 +312,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=32)** Most organizations let's say the warehouse, which is right in the middle of the supply chain, probably has their own siloed data system.
 >
-> **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=40)** They may can take input from both sides and produce output, but their data is hidden somewhere inside their own databases.
+> **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=40)** They may can take input from both sides and produce output, but their data is hidden somewhere inside their own [[Databases]].
 >
 > **[0:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=47)** And most people can't just look into another company's databases and find the data they need.
 >
@@ -339,7 +336,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=121)** So, some of the goods may have to sit and wait for some period of time, until you get a batch of goods that are ready to move.
 >
-> **[2:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=128)** So we had this time lag and the data may or may not flow with the exact same timeframe of the actual physical products.
+> **[2:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=128)** So we had this time lag and the data may or may not flow with the exact same timeframe of the actual physical [[Microsoft Products|products]].
 >
 > **[2:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=137)** Because you know, your truck leaves, at what point do you release the data to say, hey, these products were just now shipped out?
 >
@@ -395,7 +392,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=276)** There's non-standard status tracking.
 >
-> **[4:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=278)** Blockchain can help address all these issues.
+> **[4:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=278)** [[Blockchain]] can help address all these issues.
 >
 > **[4:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=282)** Let's see how.
 >
@@ -417,7 +414,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=326)** It also can help reduce the transfer time lag.
 >
-> **[5:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=330)** Smart contracts can make on demand decisions that limits human interactions.
+> **[5:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=330)** [[Smart Contracts]] can make on demand decisions that limits human interactions.
 >
 > **[5:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-challenges-and-blockchain-solutions?u=76281980&t=335)** It also reduces human errors, and you don't have to wait for data to be processed during a humans work schedule.
 >
@@ -445,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), product (6), [[Blockchain]] (6), [[Smart Contracts]] (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Smart Contracts]] (3), [[Databases]] (2), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** means that (1), in other words (1)
@@ -454,12 +451,11 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - let (1)
 
-#### Blockchain solution examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980)
+#### [Blockchain solution examples](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=0)** - Wow, it sounds like blockchain is almost too good to be true.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=0)** - Wow, it sounds like [[Blockchain]] is almost too good to be true.
 >
 > **[0:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=3)** Blockchain solves every supply chain problem invented by man.
 >
@@ -513,9 +509,9 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=189)** Then they auction off what they have found.
 >
-> **[3:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=191)** So they auction off some of the artifacts and they auction them where you can actually pay for these artifacts using your PO8 tokens.
+> **[3:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=191)** So they auction off some of the artifacts and they auction them where you can actually pay for these artifacts using your PO8 [[Tokens]].
 >
-> **[3:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=202)** So it's all based on blockchain cryptocurrency.
+> **[3:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=202)** So it's all based on blockchain [[Cryptocurrency]].
 >
 > **[3:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=205)** There's no real money, well, except for investing in purchasing the tokens to start with.
 >
@@ -525,11 +521,11 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=225)** And in the last one, we talked a little bit about PO8 and a PO8 token.
 >
-> **[3:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=230)** So really, we really need to pull the layers of the onion away for that and dig down and let's next talk about what is a cryptocurrency token and how can you make one up from scratch in Ethereum.
+> **[3:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/blockchain-solution-examples?u=76281980&t=230)** So really, we really need to pull the layers of the onion away for that and dig down and let's next talk about what is a cryptocurrency token and how can you make one up from scratch in [[Ethereum]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (14), [[Cryptocurrency]] (3), [[Tokens]] (2), data (1), hit (1)
+> **Frameworks & Libraries:** [[Blockchain]] (14), [[Cryptocurrency]] (3), [[Tokens]] (2), [[Ethereum]] (1)
 > **Env Vars:** po8 (7), evoo (3)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (1), make (1)
@@ -537,16 +533,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - wow (1)
 
-#### Ethereum tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/ethereum-tokens?u=76281980)
+#### [Ethereum tokens](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/ethereum-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/ethereum-tokens?u=76281980&t=1)** - So we just talked briefly about Ethereum Tokens, so let's unpack that a bit.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/ethereum-tokens?u=76281980&t=1)** - So we just talked briefly about [[Ethereum]] [[Tokens]], so let's unpack that a bit.
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/ethereum-tokens?u=76281980&t=6)** Early on we talked about some of the advantages of Ethereum.
 >
-> **[0:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/ethereum-tokens?u=76281980&t=9)** One was smart contracts, and the other was a native cryptocurrency and the ability to create your own tokens.
+> **[0:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/ethereum-tokens?u=76281980&t=9)** One was [[Smart Contracts]], and the other was a native [[Cryptocurrency]] and the ability to create your own tokens.
 >
 > **[0:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/ethereum-tokens?u=76281980&t=16)** So if we have ether, why do we need our own tokens?
 >
@@ -640,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (14), [[Ethereum]] (5), [[Cryptocurrency]] (4), data (2), [[Smart Contracts]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (14), [[Ethereum]] (5), [[Cryptocurrency]] (4), [[Smart Contracts]] (1)
 > **Env Vars:** erc (10), usd (1)
 > **Definitions:** is a  (4), means that (2), in other words (2), is called (1)
 > **CLI Commands:** find (2)
@@ -649,8 +644,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Warnings:** be aware (1)
 
-#### Supply chain project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980)
+#### [Supply chain project](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,7 +654,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=8)** What do we need to do?
 >
-> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=10)** And what do we need the smart contracts to do for us?
+> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=10)** And what do we need the [[Smart Contracts]] to do for us?
 >
 > **[0:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=14)** So, we're going to implement a real supply chain solution.
 >
@@ -686,7 +680,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=89)** So every time we change ownership from one link to another in the supply chain, there needs to be some sort of payment.
 >
-> **[1:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=97)** So what we've chosen to do, is use Ethereum for these payments.
+> **[1:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=97)** So what we've chosen to do, is use [[Ethereum]] for these payments.
 >
 > **[1:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=101)** And we're going to define a token that can be used in the future at every step of the process to transfer value, and they transfer the value by paying for it with a token.
 >
@@ -698,7 +692,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=124)** So, we need to be very careful with this, this cyber-physical relationship.
 >
-> **[2:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=129)** And what that means is, that when I add data to the blockchain, it is that data that we're actually managing, not technically what that data represents, because the real world can deviate from the blockchain.
+> **[2:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=129)** And what that means is, that when I add data to the [[Blockchain]], it is that data that we're actually managing, not technically what that data represents, because the real world can deviate from the blockchain.
 >
 > **[2:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=144)** All right, here's an example.
 >
@@ -754,7 +748,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=297)** You can attach a printed label onto a product that can be unique for each item.
 >
-> **[5:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=301)** It's useful for a lot of different products, but you have to be careful the tag or the label can be damaged, or it can be lost, it may actually come off.
+> **[5:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=301)** It's useful for a lot of different [[Microsoft Products|products]], but you have to be careful the tag or the label can be damaged, or it can be lost, it may actually come off.
 >
 > **[5:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=311)** So that's one of the cons.
 >
@@ -820,13 +814,13 @@ created: 2026-05-02
 >
 > **[7:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=470)** So how do we implement those?
 >
-> **[7:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=471)** Well, that means we have to write some code in a language, that's where solidity comes into play.
+> **[7:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=471)** Well, that means we have to write some code in a language, that's where [[Solidity]] comes into play.
 >
 > **[7:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/supply-chain-project?u=76281980&t=477)** So let's learn a little bit about solidity and how we can use it to write our smart contract functions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), data (8), [[Smart Contracts]] (3), [[Blockchain]] (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Smart Contracts]] (3), [[Blockchain]] (3), [[Microsoft Products|Products]] (3), [[Ethereum]] (2), [[Solidity]] (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** rfid (1)
 > **Cross-References:** go back to (1)
@@ -835,22 +829,21 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - now (1)
 
-#### Exploring solidity
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980)
+#### [Exploring solidity](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=0)** - So you've heard a little bit about Solidity.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=0)** - So you've heard a little bit about [[Solidity]].
 >
 > **[0:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=2)** Let's talk about what Solidity actually is.
 >
-> **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=5)** Solidity is a programming language for writing Ethereum smart contracts.
+> **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=5)** Solidity is a programming language for writing [[Ethereum]] [[Smart Contracts]].
 >
 > **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=10)** There are other languages, Solidity is not the only language you can use, but that's the one we're going to focus on in this course.
 >
 > **[0:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=18)** Solidity is the most popular language in use today for writing Ethereum smart contracts.
 >
-> **[0:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=24)** It looks a lot like JavaScript.
+> **[0:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=24)** It looks a lot like [[JavaScript]].
 >
 > **[0:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=26)** In fact, it's somewhat based on JavaScript, so if you already know JavaScript, you're going to really like Solidity.
 >
@@ -858,7 +851,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=33)** It's pretty easy to learn.
 >
-> **[0:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=35)** There's just a few rules we'll go over, and then you'll pick up the rest as you move along.
+> **[0:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=35)** There's just a few rules we'll go over, and then you'll pick up the [[Representational State Transfer (REST)|rest]] as you move along.
 >
 > **[0:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=39)** In this course, we're going to just do a basic introduction to Solidity.
 >
@@ -874,7 +867,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=82)** We want to make sure that our input data is always the same so we're not depending on anything that changes, so that that output is deterministic.
 >
-> **[1:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=90)** Smart contracts govern how you access the blockchain because you can't access the blockchain without going through a smart contract, so it is kind of like the gatekeeper for the blockchain.
+> **[1:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=90)** Smart contracts govern how you access the [[Blockchain]] because you can't access the blockchain without going through a smart contract, so it is kind of like the gatekeeper for the blockchain.
 >
 > **[1:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/exploring-solidity?u=76281980&t=101)** Remember, too, that smart contract code, the actual code you write is stored on the blockchain, just like data.
 >
@@ -1040,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (16), [[Smart Contracts]] (7), [[Blockchain]] (7), [[Programming]] (3), [[JavaScript]] (3)
+> **Frameworks & Libraries:** [[Solidity]] (16), [[Smart Contracts]] (7), [[Blockchain]] (7), [[JavaScript]] (3), [[Ethereum]] (2)
 > **Definitions:** is a  (6), in other words (4), means that (2)
 > **CLI Commands:** make (7)
 > **Versions:** 0.5.0 (2), version 0 (1), 0.6 (1), 0.5.10 (1)
@@ -1049,12 +1042,11 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **Env Vars:** evm (1)
 
-#### Defining types of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980)
+#### [Defining types of data](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=0)** - Let's start talking about how we handle data in Solidity.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=0)** - Let's start talking about how we handle data in [[Solidity]].
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=4)** Data is any value that we want to manipulate and potentially store.
 >
@@ -1076,7 +1068,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=40)** Or even the current owner of a product would be data.
 >
-> **[0:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=43)** So the way that Solidity handles data in a blockchain environment is different from a traditional database.
+> **[0:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=43)** So the way that Solidity handles data in a [[Blockchain]] environment is different from a traditional database.
 >
 > **[0:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=52)** Several things you need to always keep in mind.
 >
@@ -1084,9 +1076,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=58)** So what that means is with traditional database type of applications.
 >
-> **[1:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=62)** And when I mention traditional databases, it doesn't mean necessarily enterprise database.
+> **[1:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=62)** And when I mention traditional [[Databases]], it doesn't mean necessarily enterprise database.
 >
-> **[1:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=67)** Any data store, even if you store data in a comma separated value file, or text file, or Excel spreadsheet, whatever.
+> **[1:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=67)** Any data store, even if you store data in a comma separated value file, or text file, or [[Microsoft Excel|Excel]] spreadsheet, whatever.
 >
 > **[1:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=76)** You're storing it in a traditional manner, which means that you store data, you can read the data and change it and restore it again in the same place.
 >
@@ -1136,7 +1128,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=186)** So that's the big difference between the two.
 >
-> **[3:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=189)** So now when we write our smart contracts, we have to be very cognizant of where the data physically resides.
+> **[3:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=189)** So now when we write our [[Smart Contracts]], we have to be very cognizant of where the data physically resides.
 >
 > **[3:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/defining-types-of-data?u=76281980&t=196)** So there's different physical locations of data.
 >
@@ -1168,7 +1160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Blockchain]] (10), database (5), [[Solidity]] (3), product (2)
+> **Frameworks & Libraries:** [[Blockchain]] (10), [[Solidity]] (3), [[Databases]] (1), [[Microsoft Excel|Excel]] (1), [[Smart Contracts]] (1)
 > **Definitions:** is a  (4), in other words (2), means that (1), is called (1)
 > **Env Vars:** evm (3)
 > **Warnings:** keep in mind (1), be aware (1)
@@ -1176,12 +1168,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - let (1)
 
-#### Data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980)
+#### [Data types](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=1)** - Solidity, like every other programming language, has the ability to store different types of data.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=1)** - [[Solidity]], like every other programming language, has the ability to store different types of data.
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=6)** So, you want to be careful about how you define your variables and your other data items, so that you're using the correct data type because each data type has certain strengths in the way that it manipulates its internal data.
 >
@@ -1189,7 +1180,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=26)** All right, the first thing we're going to do is we're going to launch Visual Studio code, but let's create a new project.
 >
-> **[0:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=34)** So, if I open PowerShell, I'm going to navigate down to my workspace, and we see our first project there.
+> **[0:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=34)** So, if I open [[Powershell]], I'm going to navigate down to my workspace, and we see our first project there.
 >
 > **[0:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=43)** So, I'm not going to be too creative, I'm going to create a new directory called Second Project.
 >
@@ -1255,7 +1246,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=220)** But the problem with that is, remember, these variables might be state variables.
 >
-> **[3:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=227)** That means we have to store it in the blockchain.
+> **[3:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=227)** That means we have to store it in the [[Blockchain]].
 >
 > **[3:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=231)** If I store a big value in the blockchain, I have to pay for the size of the data I'm storing in the blockchain, so if I need an unsigned integer, and I'm only going to store maybe a value of 17, 100, 300 something pretty small, I don't want to pay for a huge value, I want to shrink that down and say, "You know, I'm only going to store this much data.
 >
@@ -1281,7 +1272,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=310)** Boolean is easy, it's the same as logical, yes/no, true or false so, in this case, we define a variable called isEthereumCool.
 >
-> **[5:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=321)** It is data type Boolean and, of course, we preset that to true, Ethereum is indeed cool.
+> **[5:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=321)** It is data type Boolean and, of course, we preset that to true, [[Ethereum]] is indeed cool.
 >
 > **[5:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/data-types?u=76281980&t=329)** The next type of data is an address.
 >
@@ -1353,7 +1344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Solidity]] (9), next (6), [[Blockchain]] (5), product (3)
+> **Frameworks & Libraries:** [[Solidity]] (9), [[Blockchain]] (5), [[Ethereum]] (3), [[Powershell]] (1)
 > **Definitions:** is a  (6), is an  (4), means that (1), stands for (1)
 > **CLI Commands:** make (4), find (2), cd (1)
 > **Code Identifiers:** bmsg (2), isethereumcool (1), smsg (1)
@@ -1362,14 +1353,13 @@ created: 2026-05-02
 > **Non-Speech:** (typing) (2)
 > **Cross-References:** later in (1)
 
-#### Solidity data modifiers, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-1?u=76281980)
+#### [Solidity data modifiers, part 1](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-1?u=76281980&t=0)** - One more topic that we need to touch on briefly before we move away from our variable definition discussion is the visibility of both variables and functions.
 >
-> **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-1?u=76281980&t=11)** Inside Solidity, we can specify how visible both functions and variables are.
+> **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-1?u=76281980&t=11)** Inside [[Solidity]], we can specify how visible both functions and variables are.
 >
 > **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-1?u=76281980&t=17)** Now, what in the world does that mean?
 >
@@ -1451,7 +1441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Solidity]] (1), data (1), application (1), parallel (1)
+> **Frameworks & Libraries:** [[Solidity]] (1)
 > **Definitions:** means that (6), in other words (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
@@ -1460,8 +1450,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - one (1)
 
-#### Solidity data modifiers, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980)
+#### [Solidity data modifiers, part 2](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1475,7 +1464,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=21)** So what this does is it does several things, the public keyword, and by the way, there's another keyword, another modifier we haven't talked about view.
 >
-> **[0:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=30)** View tells us, or tells the compiler, actually, that the body of my function will only reference local variables, in other words, I'm not touchin the blockchain.
+> **[0:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=30)** View tells us, or tells the compiler, actually, that the body of my function will only reference local variables, in other words, I'm not touchin the [[Blockchain]].
 >
 > **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=42)** We do that to save costs, we save gas and we also can do that to help the compiler keep us honest because now if I go into my function and I try to write code that interacts with the blockchain, the compiler is going to say, "Nope, not going to let it happen," and gives me a nasty error message, not a warning, but an error message, and I'll probably get the red squirrely line or squiggly line underneath it.
 >
@@ -1493,7 +1482,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=105)** And, if you test well, you should find most of those semantics errors, but sometimes you don't find them and you actually introduce a semantic error into deployed code.
 >
-> **[1:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=119)** That's bad because you may or may not find it, and then you have to react to it, so compiler errors are good.
+> **[1:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=119)** That's bad because you may or may not find it, and then you have to [[React.js|react]] to it, so compiler errors are good.
 >
 > **[2:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=125)** Okay, so let's come back into our function.
 >
@@ -1503,7 +1492,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=136)** We call these getters because it fetches the value of one or more values or variables and then it returns them.
 >
-> **[2:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=144)** In this case, we see an interesting feature of solidity in that we can return multiple values.
+> **[2:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=144)** In this case, we see an interesting feature of [[Solidity]] in that we can return multiple values.
 >
 > **[2:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/solidity-data-modifiers-part-2?u=76281980&t=151)** Some languages allow functions to only return one value at a time.
 >
@@ -1547,7 +1536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (3), [[Blockchain]] (2), [[React.js|React]] (1), feature (1)
+> **Frameworks & Libraries:** [[Blockchain]] (2), [[React.js|React]] (1), [[Solidity]] (1)
 > **Code Identifiers:** setbmsg (4), getstatevariables (3), newvalue (3), bmsg (3)
 > **Definitions:** is a  (3), means that (2), in other words (1)
 > **CLI Commands:** find (3), make (1)
@@ -1556,14 +1545,13 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - okay (1)
 
-#### Revisiting gas
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980)
+#### [Revisiting gas](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=0)** - One more issue that we need to revisit is that of gas.
 >
-> **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=4)** You have to pay for access to the blockchain, and I keep mentioning that.
+> **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=4)** You have to pay for access to the [[Blockchain]], and I keep mentioning that.
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=8)** So let's kind of look into some of the more granular details of how gas actually works.
 >
@@ -1583,7 +1571,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=61)** What happens is if you choose a transaction with a very high gas price, that means that the reward will be a little bit higher and the miners are going to make more money.
 >
-> **[1:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=73)** The problem is that if you buy, or if you select a transaction with a very high gas price, it's probably going to be more complex and it's going to take longer to mine, based on the complexity algorithm in a Ethereum.
+> **[1:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=73)** The problem is that if you buy, or if you select a transaction with a very high gas price, it's probably going to be more complex and it's going to take longer to mine, based on the complexity algorithm in a [[Ethereum]].
 >
 > **[1:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=88)** So if you cherry pick the transactions with the highest gas prices, the miner is going to spend so much time trying to mine the block with all those rich transactions that he might actually lose out because another miner has already found the solution.
 >
@@ -1617,9 +1605,9 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=215)** The multiply operation costs five gas units.
 >
-> **[3:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=219)** So every operation inside the solidity language, or actually every operational on the blockchain, has a specific associated cost to it.
+> **[3:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=219)** So every operation inside the [[Solidity]] language, or actually every operational on the blockchain, has a specific associated cost to it.
 >
-> **[3:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=229)** So you want to try to economize your algorithms so it doesn't have a cumulatively high gas cost.
+> **[3:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=229)** So you want to try to economize your [[Algorithms]] so it doesn't have a cumulatively high gas cost.
 >
 > **[3:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/revisiting-gas?u=76281980&t=239)** Okay, so we've got the gas price, which is the highest unit price that a transaction originator's willing to pay, we have the gas limit, which is the total number of gas units a transaction originator's willing to pay, and we have the gas cost, which is the cost per operation.
 >
@@ -1667,12 +1655,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Controlling flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980)
+#### [Controlling flow](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=0)** - So far, the Solidity code that we've seen is really simple.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=0)** - So far, the [[Solidity]] code that we've seen is really simple.
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=4)** We've seen functions that simply return a value.
 >
@@ -1700,7 +1687,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=85)** There's only one contract, flow control, inside this file and it has four functions.
 >
-> **[1:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=90)** And these four functions are going to demonstrate how we can implement various control flow and iteration control.
+> **[1:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=90)** And these four functions are going to demonstrate how we can implement various [[Control Flow]] and iteration control.
 >
 > **[1:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=99)** So the first one is called "calcDozenDiscountIF".
 >
@@ -1886,7 +1873,7 @@ created: 2026-05-02
 >
 > **[11:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=707)** So those give us the ability to control exactly how our programs operate and what blocks of code get executed under which conditions.
 >
-> **[11:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=716)** Flow control is important for you to build into your algorithms so that you can react to real situations.
+> **[11:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=716)** Flow control is important for you to build into your [[Algorithms]] so that you can [[React.js|react]] to real situations.
 >
 > **[12:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/controlling-flow?u=76281980&t=723)** In most cases, flow control dictates what happens when things go well.
 >
@@ -1898,7 +1885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (6), next (2), [[Programming]] (2), data (1), application (1)
+> **Frameworks & Libraries:** [[Solidity]] (6), [[Control Flow]] (1), [[Algorithms]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** numdonuts (14), givedozenprice (12), calcdozendiscountif (2), calcdozendiscountwhile (1), calcdozendiscountdo (1)
 > **Definitions:** is a  (6), is an  (4), is called (1), means that (1)
 > **CLI Commands:** make (2)
@@ -1907,12 +1894,11 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - so (1)
 
-#### Handling errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980)
+#### [Handling errors](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=0)** - Although designing good algorithms and properly using execution flow control is really what you want to focus on, you can't forget that sometimes the unexpected happens.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=0)** - Although designing good [[Algorithms]] and properly using execution flow control is really what you want to focus on, you can't forget that sometimes the unexpected happens.
 >
 > **[0:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=12)** No program is perfect.
 >
@@ -1924,7 +1910,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=29)** If you don't plan for errors, your software will have flaws that will come back to bite you later on.
 >
-> **[0:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=35)** So let's look at a few solidity features that help us deal with errors in our code.
+> **[0:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=35)** So let's look at a few [[Solidity]] features that help us deal with errors in our code.
 >
 > **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=42)** There are three main abilities or statements that allow us to handle errors.
 >
@@ -1960,7 +1946,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=132)** So it's as if nothing ever happened.
 >
-> **[2:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=134)** In fact, the transaction really never made it to the blockchain.
+> **[2:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=134)** In fact, the transaction really never made it to the [[Blockchain]].
 >
 > **[2:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/handling-errors?u=76281980&t=139)** So this indicates the transaction should be terminated before it's actually completed.
 >
@@ -2026,7 +2012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (5), data (2), [[Algorithms]] (1), [[Blockchain]] (1), next (1)
+> **Frameworks & Libraries:** [[Solidity]] (5), [[Algorithms]] (1), [[Blockchain]] (1)
 > **Definitions:** in other words (2), is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)

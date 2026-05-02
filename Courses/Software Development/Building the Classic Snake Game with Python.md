@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take your Python skills to the next level
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980)
+#### [Take your Python skills to the next level](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980&t=0)** Want to take your Python skills to the next level and have great fun along the way?
+> **[0:00](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980&t=0)** Want to take your [[Python (Programming Language)|Python]] skills to the next level and have great fun along the way?
 >
 > **[0:04](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980&t=4)** The snake game has become a classic since it appeared on mobile phones a few years back.
 >
@@ -93,16 +92,15 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980&t=16)** Hi, I'm Robin Andrews. I'm a computer science teacher based in the U.K.
 >
-> **[0:20](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980&t=20)** I invite you to join me on this exciting project-based course on LinkedIn learning.
+> **[0:20](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980&t=20)** I invite you to join me on this exciting project-based course on [[LinkedIn]] learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), game (2), next (1), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,8 +118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meet turtle graphics
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980)
+#### [Meet turtle graphics](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,9 +126,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980&t=5)** And for good reason, it is awesome.
 >
-> **[0:07](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980&t=7)** In my opinion, it is one of the best tools there is for learning how to program with Python.
+> **[0:07](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980&t=7)** In my opinion, it is one of the best tools there is for learning how to program with [[Python (Programming Language)|Python]].
 >
-> **[0:11](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980&t=11)** With it, you can progress from total beginner to mastering important advanced programming concepts.
+> **[0:11](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980&t=11)** With it, you can progress from total beginner to mastering important advanced [[Programming Concepts]].
 >
 > **[0:16](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980&t=16)** Turtle graphics was created in the 1960s when the logo programming language was extended to control the turtle robot, a simple robot that looked a bit like a turtle and had a pen attached, which would draw on a large piece of paper on the floor.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980&t=115)** Another example, Two Canvases.
 >
-> **[1:56](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980&t=116)** This shows you, you can actually have two turtle graphics windows going at once.
+> **[1:56](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980&t=116)** This shows you, you can actually have two turtle graphics [[Windows]] going at once.
 >
 > **[2:02](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980&t=122)** That's quite useful.
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Python (Programming Language)|Python]] (2), game (2), [[Programming Concepts]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming Concepts]] (1), [[Windows]] (1)
 > **Env Vars:** idle (4), ide (2)
 > **Definitions:** is a  (5)
 > **UI Navigation:** click on (2), go to (1)
@@ -204,12 +201,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 
-#### Working with the repository for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980)
+#### [Working with the repository for this course](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=0)** - [Instructor] Before we get started with some actual coding, I just want to quickly talk about the GitHub repo for this project.
+> **[0:00](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=0)** - [Instructor] Before we get started with some actual coding, I just want to quickly talk about the [[GitHub]] repo for this project.
 >
 > **[0:06](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=6)** So if you go to the URL provided, you'll see that we have a repository for the project, and probably the easiest way to get the code is to download the ZIP file and unzip it.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=44)** If you are working with a local version of the repository for this course, then you'll need to know how to check out the various branches.
 >
-> **[0:50](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=50)** Now, if you have PyCharm, you can simply go to Git and select Branches, and you'll see all the branches listed.
+> **[0:50](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=50)** Now, if you have PyCharm, you can simply go to [[Git]] and select Branches, and you'll see all the branches listed.
 >
 > **[0:56](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=56)** The current one, having this little symbol next to it, showing that at the minute, 03_02e is checked out.
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=70)** So 03_02E is the state at the end of chapter three, video two.
 >
-> **[1:15](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=75)** You can also do this in a terminal, which on PyCharm, you can open without F12 on Windows, and you can check out a particular branch.
+> **[1:15](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=75)** You can also do this in a terminal, which on PyCharm, you can open without F12 on [[Windows]], and you can check out a particular branch.
 >
 > **[1:23](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/working-with-the-repository-for-this-course?u=76281980&t=83)** So we can do git checkout, and let's try 02_03b.
 >
@@ -245,7 +241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[Git]] (2), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Git]] (2), [[Windows]] (1)
 > **Tools:** github (2), terminal (2), pycharm (2)
 > **Env Vars:** url (2), zip (1), f12 (1)
 > **UI Navigation:** go to (3), select the (1)
@@ -254,14 +250,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### A starter template for turtle graphics programs
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980)
+#### [A starter template for turtle graphics programs](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=0)** - [Instructor] So let's make a start.
 >
-> **[0:02](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=2)** Python turtle graphics caters for different levels of ability and experience, and because of this, there are sometimes different ways of achieving the same result.
+> **[0:02](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=2)** [[Python (Programming Language)|Python]] turtle graphics caters for different levels of ability and experience, and because of this, there are sometimes different ways of achieving the same result.
 >
 > **[0:10](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=10)** There are two styles of coding, which you can use with Python turtle graphics, which is sometimes referred to as interfaces.
 >
@@ -301,7 +296,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=108)** So that's the procedural interface, and it's great for beginners.
 >
-> **[1:52](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=112)** But we want to do more advanced stuff, so I'm going to show you now how to do object-oriented programming with turtle graphics.
+> **[1:52](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=112)** But we want to do more advanced stuff, so I'm going to show you now how to do [[Object-Oriented Programming (OOP)|object-oriented programming]] with turtle graphics.
 >
 > **[1:58](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=118)** So create a new file.
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=244)** So now when I run that.
 >
-> **[4:07](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=247)** Okay, not as impressive as the last program even, but the syntax here is what we're going to be using for the rest of the course.
+> **[4:07](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=247)** Okay, not as impressive as the last program even, but the syntax here is what we're going to be using for the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[4:13](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/a-starter-template-for-turtle-graphics-programs-23401708?u=76281980&t=253)** So what I've actually done is I've provided a starter template for turtle graphics programs.
 >
@@ -385,7 +380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), oop (1), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4), make (3)
 > **Code Identifiers:** my_turtle (4), oop_turtle (1)
 > **Definitions:** is a  (3)
@@ -394,12 +389,11 @@ created: 2026-05-02
 > **Env Vars:** oop (1)
 > **Tools:** pycharm (1)
 
-#### Animation with Python turtle graphics
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/animation-with-python-turtle-graphics?u=76281980)
+#### [Animation with Python turtle graphics](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/animation-with-python-turtle-graphics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/animation-with-python-turtle-graphics?u=76281980&t=0)** - Before we dive into the snake game itself, we're going to look at how to do animation with python turtle graphics.
+> **[0:00](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/animation-with-python-turtle-graphics?u=76281980&t=0)** - Before we dive into the snake game itself, we're going to look at how to do animation with [[Python (Programming Language)|python]] turtle graphics.
 >
 > **[0:06](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/animation-with-python-turtle-graphics?u=76281980&t=6)** There's a lot of animation capability built into turtle graphics by default.
 >
@@ -467,15 +461,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
-#### Global variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/global-variables?u=76281980)
+#### [Global variables](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/global-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,7 +486,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/global-variables?u=76281980&t=26)** However, this is an oversimplification.
 >
-> **[0:28](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/global-variables?u=76281980&t=28)** While there are many situations where it is a good idea to avoid them, the global keyword exists in Python for a reason, and using global variables for a program like the snake game we're writing makes sense as not doing so would make the program a lot more complex.
+> **[0:28](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/global-variables?u=76281980&t=28)** While there are many situations where it is a good idea to avoid them, the global keyword exists in [[Python (Programming Language)|Python]] for a reason, and using global variables for a program like the snake game we're writing makes sense as not doing so would make the program a lot more complex.
 >
 > **[0:41](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/global-variables?u=76281980&t=41)** Context is important.
 >
@@ -571,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** my_turtle (1)
@@ -579,8 +572,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
 
-#### Drawing with stamps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/drawing-with-stamps?u=76281980)
+#### [Drawing with stamps](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/drawing-with-stamps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -670,7 +662,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), next (1)
 > **CLI Commands:** make (5)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (1), means that (1)
@@ -682,8 +673,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Snake representation and movement
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980)
+#### [Snake representation and movement](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,13 +713,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980&t=71)** So let's look at that in just a little bit more detail.
 >
-> **[1:13](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980&t=73)** So to begin with, we have this list of lists, and by the way, lists of lists are quite common in Python, and they're no cause for concern.
+> **[1:13](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980&t=73)** So to begin with, we have this list of lists, and by the way, lists of lists are quite common in [[Python (Programming Language)|Python]], and they're no cause for concern.
 >
 > **[1:21](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980&t=81)** You can nest lists as deeply as you like.
 >
 > **[1:23](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980&t=83)** In this case, we only have one level of nesting, and this kind of list is often referred to as a 2D list.
 >
-> **[1:28](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980&t=88)** If you want to deep dive into Python 2D lists, I have a course on the subject in the LinkedIn Library, which you may like to check out.
+> **[1:28](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980&t=88)** If you want to deep dive into Python 2D lists, I have a course on the subject in the [[LinkedIn]] Library, which you may like to check out.
 >
 > **[1:35](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980&t=95)** So let's just go through that process again to make sure you understand it.
 >
@@ -777,18 +767,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2), game (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), python (2)
 > **Code Identifiers:** new_head (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
-#### Basic snake movement program
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/basic-snake-movement-program?u=76281980)
+#### [Basic snake movement program](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/basic-snake-movement-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/basic-snake-movement-program?u=76281980&t=0)** - [Narrator] We're now going to look at how the basic snake movement can be implemented in Python.
+> **[0:00](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/basic-snake-movement-program?u=76281980&t=0)** - [Narrator] We're now going to look at how the basic snake movement can be implemented in [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/basic-snake-movement-program?u=76281980&t=5)** We're going to use stamps to make marks on the screen as shown in a previous video.
 >
@@ -846,7 +835,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/basic-snake-movement-program?u=76281980&t=121)** Now, in terms of our stamper, we're going to have a square stamper. That's fine.
 >
-> **[2:04](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/basic-snake-movement-program?u=76281980&t=124)** The color doesn't really matter, but let's not put a color and then it'll be the default black, because that's the one I'm using for the rest of this game.
+> **[2:04](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/basic-snake-movement-program?u=76281980&t=124)** The color doesn't really matter, but let's not put a color and then it'll be the default black, because that's the one I'm using for the [[Representational State Transfer (REST)|rest]] of this game.
 >
 > **[2:11](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/basic-snake-movement-program?u=76281980&t=131)** Again, you can change to any color you like there.
 >
@@ -992,15 +981,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), game (2), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), python (2)
 > **Cross-References:** previous video (4), we discussed (1), we talked about (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Controlling the snake's direction
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980)
+#### [Controlling the snake's direction](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +1000,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=12)** One is a global variable called snake directions.
 >
-> **[0:15](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=15)** The other is a Python dictionary containing offsets which determine how much the snake moves in each direction.
+> **[0:15](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=15)** The other is a [[Python (Programming Language)|Python]] dictionary containing offsets which determine how much the snake moves in each direction.
 >
 > **[0:20](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=20)** So let's do that now.
 >
@@ -1060,7 +1048,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=114)** Do you remember turtles.done for example?
 >
-> **[1:57](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=117)** What this does is it tells to tkinter which turtle graphics is build on, to wait for the user to click on the "x" on the window title bar to exit the program.
+> **[1:57](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=117)** What this does is it tells to [[Tkinter]] which turtle graphics is build on, to wait for the user to click on the "x" on the window title bar to exit the program.
 >
 > **[2:06](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=126)** The events we're interested in for our snake game are key presses.
 >
@@ -1118,7 +1106,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=239)** And I'm making it global, cause we might be updating it.
 >
-> **[4:03](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=243)** Or we're using the global key word, because we might be updating the snake direction.
+> **[4:03](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=243)** Or we're using the global key [[Microsoft Word|word]], because we might be updating the snake direction.
 >
 > **[4:07](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=247)** As I said before if you're only reading it, you don't need the global key word.
 >
@@ -1136,7 +1124,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=279)** So, if you think about it, you want to move the snake up, but you only want to do that if you're not going down.
 >
-> **[4:47](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=287)** Okay, now the rest if these are very similar, so I'm just going to copy-paste.
+> **[4:47](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=287)** Okay, now the [[Representational State Transfer (REST)|rest]] if these are very similar, so I'm just going to copy-paste.
 >
 > **[4:50](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/controlling-the-snake-s-direction?u=76281980&t=290)** And later on we'll look at more a efficient way of not having to have multiple functions for very similar behavior, but that comes later.
 >
@@ -1214,7 +1202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2), [[Tkinter]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (2), [[Tkinter]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), python (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
@@ -1223,8 +1211,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - we (1)
 
-#### The game loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/the-game-loop?u=76281980)
+#### [The game loop](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/the-game-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1318,15 +1305,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (12), hit (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Snake food
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-food?u=76281980)
+#### [Snake food](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-food?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1336,11 +1321,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-food?u=76281980&t=8)** First of all, we're going to look at a function to find the distance between points.
 >
-> **[0:12](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-food?u=76281980&t=12)** We're going to use an implementation of the famous Pythagorean theorem, and a common use of the theorem in game programming is finding the distance between two points, which works because you can think of this distance as the hypotenuse of a right angle triangle, as shown on the slide.
+> **[0:12](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-food?u=76281980&t=12)** We're going to use an implementation of the famous Pythagorean theorem, and a common use of the theorem in [[Game Programming]] is finding the distance between two points, which works because you can think of this distance as the hypotenuse of a right angle triangle, as shown on the slide.
 >
 > **[0:27](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-food?u=76281980&t=27)** So we have two points, and if we drop a vertical and draw a horizontal, we can make this into a right angle triangle, and then the distance between those points becomes the hypotenuse of a right angle triangle, which means we can use Pythagoras' theorem to find that distance.
 >
-> **[0:43](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-food?u=76281980&t=43)** It's good to be able to understand this level of mathematics to help with your computer programming in general, in game development in particular.
+> **[0:43](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-food?u=76281980&t=43)** It's good to be able to understand this level of mathematics to help with your computer programming in general, in [[Game Development]] in particular.
 >
 > **[0:49](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-food?u=76281980&t=49)** But if this is a sticking point for you, don't worry.
 >
@@ -1514,7 +1499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (7), [[Programming]] (2), [[Game Development]] (1), power (1), next (1)
+> **Frameworks & Libraries:** [[Game Programming]] (1), [[Game Development]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (3), short for (1)
 > **Cross-References:** we talked about (1), previous video (1)
@@ -1523,8 +1508,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keeping score
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/keeping-score?u=76281980)
+#### [Keeping score](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/keeping-score?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1566,13 +1550,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - adding (1)
 
-#### Game reset
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/game-reset?u=76281980)
+#### [Game reset](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/game-reset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1634,7 +1616,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (7)
 > **CLI Commands:** make (2)
 > **Speakers:** - at (1)
 
@@ -1643,8 +1624,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoiding repetition by using Lambda expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/avoiding-repetition-by-using-lambda-expressions?u=76281980)
+#### [Avoiding repetition by using Lambda expressions](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/avoiding-repetition-by-using-lambda-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1756,7 +1736,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), game (1)
 > **Non-Speech:** (keyboard clicking) (4), (mouse clicking) (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
@@ -1764,8 +1743,7 @@ created: 2026-05-02
 > **Env Vars:** diy (1)
 > **Speakers:** - currently (1)
 
-#### Personalizing your game
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/personalizing-your-game?u=76281980)
+#### [Personalizing your game](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/personalizing-your-game?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1831,14 +1809,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3)
 > **Non-Speech:** (continuing keyboard clicking) (5), (keyboard clicking) (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), kind of like (1)
 > **Speakers:** - you (1)
 
-#### Adding graphics to the snake game
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-graphics-to-the-snake-game?u=76281980)
+#### [Adding graphics to the snake game](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-graphics-to-the-snake-game?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1884,11 +1860,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), next (1)
 > **Code Identifiers:** register_shape (1)
 
-#### Adding the snake head to the game
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-the-snake-head-to-the-game?u=76281980)
+#### [Adding the snake head to the game](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-the-snake-head-to-the-game?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1954,7 +1928,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-the-snake-head-to-the-game?u=76281980&t=194)** When we're there, we do stamper.stamp.
 >
-> **[3:19](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-the-snake-head-to-the-game?u=76281980&t=199)** And then finally, we need to remember to revert our stamper back to the circle shape for the rest of the body.
+> **[3:19](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-the-snake-head-to-the-game?u=76281980&t=199)** And then finally, we need to remember to revert our stamper back to the circle shape for the [[Representational State Transfer (REST)|rest]] of the body.
 >
 > **[3:25](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-the-snake-head-to-the-game?u=76281980&t=205)** So we do stamper.
 >
@@ -1962,7 +1936,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-the-snake-head-to-the-game?u=76281980&t=213)** Now, we're almost done except that we don't want to now draw the whole snake again.
 >
-> **[3:38](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-the-snake-head-to-the-game?u=76281980&t=218)** We want to use list slicing, which is a very useful Python syntax to omit that one segment that we've just done, which was the head of the snake.
+> **[3:38](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-the-snake-head-to-the-game?u=76281980&t=218)** We want to use list slicing, which is a very useful [[Python (Programming Language)|Python]] syntax to omit that one segment that we've just done, which was the head of the snake.
 >
 > **[3:46](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-the-snake-head-to-the-game?u=76281980&t=226)** So we actually go from colon minus one.
 >
@@ -1974,15 +1948,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), python (2)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (2)
 > **Cross-References:** in the last (1)
 > **Best Practices:** remember to (1)
 
-#### Adding a high-score feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-a-high-score-feature?u=76281980)
+#### [Adding a high-score feature](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/adding-a-high-score-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2120,7 +2093,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), feature (3), next (2)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** def_update_high_score (1), update_high_score (1)
 > **Tools:** pycharm (2)
@@ -2131,8 +2103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating material covered
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980)
+#### [Integrating material covered](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2142,15 +2113,15 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980&t=9)** This is the best way to really integrate the material we have covered.
 >
-> **[0:13](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980&t=13)** Also, you might want to check out Tkinter, or Tk-inter programming for GUI applications, as turtle graphics is built on top of this framework.
+> **[0:13](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980&t=13)** Also, you might want to check out [[Tkinter]], or Tk-inter programming for GUI applications, as turtle graphics is built on top of this framework.
 >
-> **[0:21](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980&t=21)** There are several courses on this topic in the LinkedIn Learning library.
+> **[0:21](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980&t=21)** There are several courses on this topic in the [[LinkedIn]] Learning library.
 >
 > **[0:25](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980&t=25)** Thank you for taking this course on LinkedIn Learning, and good luck with your future endeavors.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Tkinter]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Tkinter]] (1)
 > **Env Vars:** gui (1)
 > **Speakers:** - [robin] (1)
 

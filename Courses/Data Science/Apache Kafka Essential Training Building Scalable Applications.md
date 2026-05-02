@@ -94,26 +94,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building robust Kafka applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980)
+#### [Building robust Kafka applications](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980&t=0)** - [Kumaran] Businesses need to create reliable and performant workflows and pipelines to deal with huge amounts of big data that contain valuable insights.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980&t=0)** - [Kumaran] Businesses need to create reliable and performant workflows and pipelines to deal with huge amounts of [[Big Data]] that contain valuable insights.
 >
-> **[0:12](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980&t=12)** Apache Kafka is the leading big data queuing technology on which such data pipelines are built.
+> **[0:12](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980&t=12)** [[Apache Kafka]] is the leading big data queuing technology on which such [[Data Pipelines]] are built.
 >
 > **[0:19](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980&t=19)** Kafka provides various capabilities for building scalable and reliable applications, which every big data engineer needs to be aware of.
 >
 > **[0:29](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980&t=29)** My name is Kumaran Ponnambalam.
 >
-> **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980&t=32)** In this course, I will discuss the scalability and resilience aspects of Apache Kafka and how to build applications using them.
+> **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980&t=32)** In this course, I will discuss the [[Scalability]] and resilience aspects of Apache Kafka and how to build applications using them.
 >
 > **[0:41](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980&t=41)** Let's now start learning about Apache Kafka scaling.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (3), [[Apache Kafka]] (3), data (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (3), [[Apache Kafka]] (3), [[Data Pipelines]] (1), [[Scalability]] (1)
 > **CLI Commands:** apache (3)
 > **Warnings:** be aware (1)
 > **Speakers:** - [kumaran] (1)
@@ -123,12 +122,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Kafka?
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980)
+#### [What is Kafka?](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980&t=0)** - [Presenter] A good place to start this course is by reviewing some of Apache Kafka's features and capabilities.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980&t=0)** - [Presenter] A good place to start this course is by reviewing some of [[Apache Kafka]]'s features and capabilities.
 >
 > **[0:08](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980&t=8)** Kafka is an events streaming platform.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980&t=17)** The terms events and messages are used interchangeably in Kafka's context.
 >
-> **[0:23](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980&t=23)** It is a critical piece of the big data puzzle and place an integral part in many Big Data pipelines.
+> **[0:23](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980&t=23)** It is a critical piece of the [[Big Data]] puzzle and place an integral part in many Big Data pipelines.
 >
 > **[0:29](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980&t=29)** Kafka is open source and can be downloaded and deployed free of cost.
 >
@@ -170,14 +168,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Big Data]] (2), [[Apache Kafka]] (1), concurrent (1), next (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Apache Kafka]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### Prerequisites for the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980)
+#### [Prerequisites for the course](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=7)** We are going to set up a Kafka Cluster and use it to publish data from producers and process it through consumers.
 >
-> **[0:15](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=15)** We will review the scalability and reliability aspects of Kafka and see them in action.
+> **[0:15](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=15)** We will review the [[Scalability]] and reliability aspects of Kafka and see them in action.
 >
 > **[0:21](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=21)** We will also discuss some best practices for using Kafka.
 >
@@ -195,23 +192,23 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=27)** We are not going to discuss basic concepts and operations of Kafka.
 >
-> **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=32)** We will also not discuss the basics of creating producers and consumers in Java.
+> **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=32)** We will also not discuss the basics of creating producers and consumers in [[Java]].
 >
 > **[0:39](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=39)** With this understanding, let's get into the prerequisites.
 >
-> **[0:42](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=42)** The learner is expected to be familiar with the basics of Apache Kafka.
+> **[0:42](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=42)** The learner is expected to be familiar with the basics of [[Apache Kafka]].
 >
 > **[0:47](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=47)** Please refer to the course, Apache Kafka Essentials: Getting Started with Kafka, if you are not familiar with Kafka already.
 >
-> **[0:56](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=56)** We set up Kafka and other services using Docker, so familiarity with Docker Desktop and Docker Compose are needed.
+> **[0:56](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=56)** We set up Kafka and other services using Docker, so familiarity with Docker Desktop and Docker [[Jetpack Compose|Compose]] are needed.
 >
 > **[1:04](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=64)** Some of the exercises are in Java 19, so familiarity with Java 19, Maven, and Java IDEs are also required.
 >
-> **[1:13](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=73)** With that being said, let's now discuss the scalability and resiliency aspects of Kafka in the next video.
+> **[1:13](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/prerequisites-for-the-course?u=76281980&t=73)** With that being said, let's now discuss the scalability and [[Resiliency]] aspects of Kafka in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), [[Scalability]] (2), [[Apache Kafka]] (2), data (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Scalability]] (2), [[Apache Kafka]] (2), [[Jetpack Compose|Compose]] (1), [[Resiliency]] (1)
 > **CLI Commands:** docker (3), apache (2)
 > **Prerequisites:** set up (2), getting started (1)
 > **Versions:** java 19 (2)
@@ -219,12 +216,11 @@ created: 2026-05-02
 > **Tools:** docker desktop (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kafka scaling and resiliency
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-scaling-and-resiliency?u=76281980)
+#### [Kafka scaling and resiliency](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-scaling-and-resiliency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-scaling-and-resiliency?u=76281980&t=0)** - [Instructor] Two of the key features that make Kafka an ideal messaging system for big data are scalability and resiliency.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-scaling-and-resiliency?u=76281980&t=0)** - [Instructor] Two of the key features that make Kafka an ideal messaging system for [[Big Data]] are [[Scalability]] and [[Resiliency]].
 >
 > **[0:09](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-scaling-and-resiliency?u=76281980&t=9)** Let's quickly review some of these capabilities.
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-scaling-and-resiliency?u=76281980&t=71)** How does Kafka stack up in resiliency?
 >
-> **[1:14](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-scaling-and-resiliency?u=76281980&t=74)** Kafka supports duplication of data storage using replication and mirroring.
+> **[1:14](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-scaling-and-resiliency?u=76281980&t=74)** Kafka supports duplication of [[Data Storage]] using replication and mirroring.
 >
 > **[1:19](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-scaling-and-resiliency?u=76281980&t=79)** This allows it to recover from node or data center failures.
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Scalability]] (3), [[Resiliency]] (2), parallel (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (3), [[Resiliency]] (2), [[Big Data]] (1), [[Data Storage]] (1)
 > **CLI Commands:** make (1), node (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -278,8 +274,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/setting-up-the-exercise-files?u=76281980)
+#### [Setting up the exercise files](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/setting-up-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -291,7 +286,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/setting-up-the-exercise-files?u=76281980&t=15)** There are two sets of exercise files here.
 >
-> **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/setting-up-the-exercise-files?u=76281980&t=18)** The Java project, that is bundled into 'KafkaScalableApps.zip' file and the Docker composed 'yml' file called 'kafka-cluster.yml'.
+> **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/setting-up-the-exercise-files?u=76281980&t=18)** The [[Java]] project, that is bundled into 'KafkaScalableApps.zip' file and the Docker composed 'yml' file called 'kafka-cluster.yml'.
 >
 > **[0:27](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/setting-up-the-exercise-files?u=76281980&t=27)** Let's first start to set up the Java project 'KafkaScalableApps.zip'.
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), next (1)
+> **Frameworks & Libraries:** [[Java]] (5)
 > **CLI Commands:** make (2), docker (1), unzip (1)
 > **Env Vars:** idea (2), sdk (2)
 > **Tools:** intellij (2), command line (2)
@@ -341,8 +336,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A Kafka cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/a-kafka-cluster?u=76281980)
+#### [A Kafka cluster](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/a-kafka-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -362,7 +356,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/a-kafka-cluster?u=76281980&t=39)** The brokers work with each other collaboratively to manage the cluster.
 >
-> **[0:45](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/a-kafka-cluster?u=76281980&t=45)** Management and control information about the cluster is stored in a dataset called metadata.
+> **[0:45](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/a-kafka-cluster?u=76281980&t=45)** Management and control information about the cluster is stored in a dataset called [[Metadata]].
 >
 > **[0:52](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/a-kafka-cluster?u=76281980&t=52)** This metadata contains information about the cluster.
 >
@@ -396,14 +390,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), [[Metadata]] (4), data (3), management (2), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (4)
 > **CLI Commands:** node (4)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kafka controllers
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-controllers?u=76281980)
+#### [Kafka controllers](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-controllers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,7 +414,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-controllers?u=76281980&t=32)** When the cluster is started up or if the active controller goes down, the controllers that are currently running in the cluster vote among themselves and choose one of them to be the active controller.
 >
-> **[0:45](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-controllers?u=76281980&t=45)** How do the nodes in the cluster share their metadata?
+> **[0:45](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-controllers?u=76281980&t=45)** How do the nodes in the cluster share their [[Metadata]]?
 >
 > **[0:49](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-controllers?u=76281980&t=49)** As seen earlier, each node has its own copy of the metadata.
 >
@@ -445,17 +438,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (4), node (1)
+> **Frameworks & Libraries:** [[Metadata]] (4)
 > **CLI Commands:** node (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replication
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/replication?u=76281980)
+#### [Replication](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/replication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/replication?u=76281980&t=0)** - [Instructor] In this video, let's explore how Kafka provides resiliency with replication.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/replication?u=76281980&t=0)** - [Instructor] In this video, let's explore how Kafka provides [[Resiliency]] with replication.
 >
 > **[0:07](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/replication?u=76281980&t=7)** Replication is a feature in Kafka that provides resiliency against individual broker failures.
 >
@@ -519,13 +511,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Resiliency]] (4), feature (1), next (1)
+> **Frameworks & Libraries:** [[Resiliency]] (4)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partition leaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/partition-leaders?u=76281980)
+#### [Partition leaders](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/partition-leaders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,7 +542,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/partition-leaders?u=76281980&t=64)** Follower brokers subscribe with the leaders for partition data.
 >
-> **[1:09](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/partition-leaders?u=76281980&t=69)** They keep receiving new messages and will use that to update their local copies of metadata.
+> **[1:09](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/partition-leaders?u=76281980&t=69)** They keep receiving new messages and will use that to update their local copies of [[Metadata]].
 >
 > **[1:15](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/partition-leaders?u=76281980&t=75)** Partition leadership is evenly distributed by the active controller across the brokers in the cluster.
 >
@@ -603,18 +594,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Metadata]] (2), leadership (1)
+> **Frameworks & Libraries:** [[Metadata]] (2)
 > **Cross-References:** in the last (1), we discussed (1), previous video (1)
 > **Warnings:** note that (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/security?u=76281980)
+#### [Security](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/security?u=76281980&t=0)** - [Instructor] One of the requirements for enterprise data processing is ensuring security of data both at rest and in motion.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/security?u=76281980&t=0)** - [Instructor] One of the requirements for enterprise [[Data Processing]] is ensuring security of data both at [[Representational State Transfer (REST)|rest]] and in motion.
 >
 > **[0:08](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/security?u=76281980&t=8)** Let's review various security options available in Kafka in this video.
 >
@@ -642,7 +632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (3), [[Representational State Transfer (REST)|Rest]] (2), api (1), management (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Data Processing]] (1)
 > **Env Vars:** ssl (3), sasl (1), api (1)
 > **Best Practices:** recommended (3)
 > **CLI Commands:** docker (1)
@@ -655,16 +645,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kafka cluster setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980)
+#### [Kafka cluster setup](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980&t=0)** - In this chapter, we will set up and run a Kafka cluster and observe its scalability and resiliency features.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980&t=0)** - In this chapter, we will set up and run a Kafka cluster and observe its [[Scalability]] and [[Resiliency]] features.
 >
-> **[0:09](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980&t=9)** The instructions for this chapter are available under the resources/chapter3commands.txt file inside the Java project.
+> **[0:09](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980&t=9)** The instructions for this chapter are available under the resources/chapter3commands.txt file inside the [[Java]] project.
 >
-> **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980&t=18)** In this video, let's review the Kafka cluster setup docker compose file called Kafka-cluster.yml.
+> **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980&t=18)** In this video, let's review the Kafka cluster setup docker [[Jetpack Compose|compose]] file called Kafka-cluster.yml.
 >
 > **[0:27](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980&t=27)** This file is available as part of the downloaded exercises.
 >
@@ -766,7 +755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), next (5), [[Scalability]] (1), [[Resiliency]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Resiliency]] (1), [[Java]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** node (7), docker (6)
 > **Ports:** port 9092 (3), port 19012 (2), port 9000 (1)
 > **Prerequisites:** setup (4), set up (2)
@@ -775,8 +764,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Running the cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980)
+#### [Running the cluster](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,13 +774,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980&t=14)** Please install Docker Desktop or your desktop or laptop if you have not already done so.
 >
-> **[0:21](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980&t=21)** Then open a terminal window if you have macOS or Linux.
+> **[0:21](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980&t=21)** Then open a terminal window if you have macOS or [[Linux]].
 >
-> **[0:26](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980&t=26)** In Windows, please use the PowerShell window.
+> **[0:26](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980&t=26)** In [[Windows]], please use the [[Powershell]] window.
 >
 > **[0:29](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980&t=29)** We will be using a terminal window for this video.
 >
-> **[0:33](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980&t=33)** First, navigate to the directory where the Docker Compose file has been downloaded.
+> **[0:33](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980&t=33)** First, navigate to the directory where the Docker [[Jetpack Compose|Compose]] file has been downloaded.
 >
 > **[0:38](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/running-the-cluster?u=76281980&t=38)** Here, execute the command to start the cluster.
 >
@@ -828,7 +816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[Linux]] (1), [[Windows]] (1), [[Powershell]] (1), application (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[Linux]] (1), [[Windows]] (1), [[Powershell]] (1)
 > **Tools:** terminal (3), docker desktop (1), powershell (1), command line (1)
 > **CLI Commands:** docker (5)
 > **UI Navigation:** navigate to (1), go to (1), open the (1)
@@ -837,8 +825,7 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **URLs:** [localhost:9000](https://localhost:9000) (1)
 
-#### Creating topics with replication
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/creating-topics-with-replication?u=76281980)
+#### [Creating topics with replication](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/creating-topics-with-replication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,15 +889,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), node (1), next (1)
 > **UI Navigation:** click on (2), open the (1)
 > **CLI Commands:** find (1), node (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kafka clusters in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980)
+#### [Kafka clusters in action](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -918,7 +903,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980&t=11)** For use in this exercise, we have a SimpleProducer and a SimpleConsumer in the package chapter three.
 >
-> **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980&t=18)** Let's go to the SimpleConsumer first in KafkaSimpleConsumer.java.
+> **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980&t=18)** Let's go to the SimpleConsumer first in KafkaSimpleConsumer.[[Java]].
 >
 > **[0:24](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980&t=24)** This consumer subscribes to the kafka.learning.orders topic.
 >
@@ -994,13 +979,13 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980&t=208)** In real world scenarios, there is continuous publishing and consumption of data and these numbers will keep going up and down.
 >
-> **[3:37](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980&t=217)** Kafka distributes messages across partitions and multiple customers in a consumer group can process these messages in parallel, providing scalability.
+> **[3:37](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980&t=217)** Kafka distributes messages across partitions and multiple customers in a consumer group can process these messages in parallel, providing [[Scalability]].
 >
-> **[3:47](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980&t=227)** In the next video, let's see Kafka resiliency in action.
+> **[3:47](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-clusters-in-action?u=76281980&t=227)** In the next video, let's see Kafka [[Resiliency]] in action.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), data (2), parallel (1), [[Scalability]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Scalability]] (1), [[Resiliency]] (1)
 > **UI Navigation:** go to (3), click on (2), switch to (2)
 > **Cross-References:** go back to (3), in the next (1)
 > **File Paths:** kafkasimpleconsumer.java (1)
@@ -1008,8 +993,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kafka resiliency in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-resiliency-in-action?u=76281980)
+#### [Kafka resiliency in action](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-resiliency-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1025,7 +1009,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-resiliency-in-action?u=76281980&t=21)** Here we will see several shell scripts for monitoring Kafka.
 >
-> **[0:26](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-resiliency-in-action?u=76281980&t=26)** We can look at the current controller status for Kafka using the Kafka metadata quorum dot search file.
+> **[0:26](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-resiliency-in-action?u=76281980&t=26)** We can look at the current controller status for Kafka using the Kafka [[Metadata]] quorum dot search file.
 >
 > **[0:33](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-resiliency-in-action?u=76281980&t=33)** We provide as input the bootstrap server and use the described command with the status request.
 >
@@ -1113,11 +1097,11 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-resiliency-in-action?u=76281980&t=285)** Throughout this process, the producer and consumer were able to do their work without any errors.
 >
-> **[4:51](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-resiliency-in-action?u=76281980&t=291)** In the next chapter, we will explore the producer side of scalability and resiliency.
+> **[4:51](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-resiliency-in-action?u=76281980&t=291)** In the next chapter, we will explore the producer side of [[Scalability]] and [[Resiliency]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (4), leadership (3), next (2), node (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Scalability]] (1), [[Resiliency]] (1)
 > **CLI Commands:** node (2), docker (1), make (1)
 > **UI Navigation:** go to (3), navigate to (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1131,8 +1115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Producer internals
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980)
+#### [Producer internals](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1142,7 +1125,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980&t=13)** In this video, let's study Producer internals.
 >
-> **[0:17](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980&t=17)** The Kafka Producer is a client library that is embedded within the client which is usually returned in a programming language like Scala, Java, or Python.
+> **[0:17](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980&t=17)** The Kafka Producer is a client library that is embedded within the client which is usually returned in a programming language like [[Scala]], [[Java]], or [[Python (Programming Language)|Python]].
 >
 > **[0:29](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980&t=29)** What happens within the client when it receives calls from the host program?
 >
@@ -1150,7 +1133,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980&t=45)** We need to specify at least one bootstrap server for Kafka.
 >
-> **[0:49](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980&t=49)** The Producer then contacts the bootstrap server and collects metadata.
+> **[0:49](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980&t=49)** The Producer then contacts the bootstrap server and collects [[Metadata]].
 >
 > **[0:54](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980&t=54)** It first collects information about all the other Kafka brokers in the cluster.
 >
@@ -1186,15 +1169,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), next (2), [[Programming]] (1), [[Scala]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Scala]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Cross-References:** in the last (1), later in (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Producer publishing options
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-publishing-options?u=76281980)
+#### [Producer publishing options](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-publishing-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,7 +1194,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-publishing-options?u=76281980&t=31)** So if there are any errors in sending, the same thread can process the error before moving on to the next message.
 >
-> **[0:39](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-publishing-options?u=76281980&t=39)** The call returns a record metadata object which contains information about the partition the message was published to, and the Kafka offset for the message in that partition.
+> **[0:39](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-publishing-options?u=76281980&t=39)** The call returns a record [[Metadata]] object which contains information about the partition the message was published to, and the Kafka offset for the message in that partition.
 >
 > **[0:49](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-publishing-options?u=76281980&t=49)** This method is simple and shows guaranteed message delivery, and has the ability to process errors in the same thread.
 >
@@ -1254,19 +1236,18 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-publishing-options?u=76281980&t=164)** In a real world scenario, choose a method that is most suitable for the use case, specifically, if delivery guarantees and ordering are required.
 >
-> **[2:53](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-publishing-options?u=76281980&t=173)** We will see examples of using these methods in Java later in the chapter.
+> **[2:53](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-publishing-options?u=76281980&t=173)** We will see examples of using these methods in [[Java]] later in the chapter.
 >
 > **[2:59](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-publishing-options?u=76281980&t=179)** Let's now review acknowledgements in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Metadata]] (1), data (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Java]] (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Acknowledgments in Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/acknowledgments-in-kafka?u=76281980)
+#### [Acknowledgments in Kafka](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/acknowledgments-in-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1314,15 +1295,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** previous video (2), we discussed (1), in the next (1)
 > **Env Vars:** acks (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** note that (2)
 > **Speakers:** - [instructor] (1)
 
-#### Additional producer parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/additional-producer-parameters?u=76281980)
+#### [Additional producer parameters](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/additional-producer-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1362,21 +1341,20 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/additional-producer-parameters?u=76281980&t=98)** Please review them using the URL shown here.
 >
-> **[1:41](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/additional-producer-parameters?u=76281980&t=101)** In the next video, we will implement several options we learned in this chapter using a Java producer.
+> **[1:41](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/additional-producer-parameters?u=76281980&t=101)** In the next video, we will implement several options we learned in this chapter using a [[Java]] producer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Java producer options example
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-producer-options-example?u=76281980)
+#### [Java producer options example](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-producer-options-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-producer-options-example?u=76281980&t=0)** - [Instructor] In this video, let's implement some of the producer options we learned in this chapter using a sample Java producer.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-producer-options-example?u=76281980&t=0)** - [Instructor] In this video, let's implement some of the producer options we learned in this chapter using a sample [[Java]] producer.
 >
 > **[0:09](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-producer-options-example?u=76281980&t=9)** The code for this example is available in the com learning Kafka scalable apps, chapter four package.
 >
@@ -1408,7 +1386,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-producer-options-example?u=76281980&t=78)** In the next example, we publish synchronously and check for results.
 >
-> **[1:24](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-producer-options-example?u=76281980&t=84)** The code is similar to asynchronous publishing, except that the returned values from the send method are assigned to a record metadata variable.
+> **[1:24](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-producer-options-example?u=76281980&t=84)** The code is similar to asynchronous publishing, except that the returned values from the send method are assigned to a record [[Metadata]] variable.
 >
 > **[1:33](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-producer-options-example?u=76281980&t=93)** This makes the code to block until this variable is populated.
 >
@@ -1456,7 +1434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), next (2), [[Metadata]] (2), hit (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Metadata]] (2)
 > **Cross-References:** in the next (2), go back to (1)
 > **File Paths:** kafkaproducerwithoptions.java (1), kafkacallback.java (1)
 > **Env Vars:** acks (1), gzip (1)
@@ -1470,8 +1448,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How consumer works
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-consumer-works?u=76281980)
+#### [How consumer works](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-consumer-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1523,13 +1500,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Batching message consumption
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/batching-message-consumption?u=76281980)
+#### [Batching message consumption](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/batching-message-consumption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1561,7 +1536,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/batching-message-consumption?u=76281980&t=70)** This is configured through the poll method.
 >
-> **[1:13](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/batching-message-consumption?u=76281980&t=73)** The minimum batch size is configured through the FETCH.MIN.BYTES parameter.
+> **[1:13](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/batching-message-consumption?u=76281980&t=73)** The minimum batch size is configured through the [[Fetch]].MIN.BYTES parameter.
 >
 > **[1:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/batching-message-consumption?u=76281980&t=78)** A batch should reach this size before the batch is delivered to the consumer.
 >
@@ -1585,14 +1560,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (6), data (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (6)
 > **Env Vars:** fetch (6), bytes (4), min (3), max (3), wait (2)
 > **Prerequisites:** required to (1), configure (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Committing messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/committing-messages?u=76281980)
+#### [Committing messages](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/committing-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1644,17 +1618,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** commitsync (1), commitasync (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Java consumer example
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980)
+#### [Java consumer example](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=0)** - [Instructor] In this video, we will build a Java consumer and utilize various consumer options we have learned in this chapter.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=0)** - [Instructor] In this video, we will build a [[Java]] consumer and utilize various consumer options we have learned in this chapter.
 >
 > **[0:08](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=8)** The code for this consumer is available in the package com.learning.kafkascalableapps chapter5.
 >
@@ -1668,13 +1640,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=36)** We use a new consumer group ID called kafka-options-consumer.
 >
-> **[0:43](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=43)** We now set various parameters for batch processing.
+> **[0:43](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=43)** We now set various parameters for [[Batch Processing]].
 >
 > **[0:47](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=47)** We set the FETCH_MIN_BYTES configuration parameter to indicate that the total batch size should at least be 10 bytes before the batch is fetched.
 >
 > **[0:57](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=57)** Next, we set the max wait time for the batch to be hundred milliseconds.
 >
-> **[1:01](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=61)** So we are guaranteed to fetch messages at hundred milliseconds, even if the FETCH_MIN_BYTES threshold is not reached.
+> **[1:01](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=61)** So we are guaranteed to [[Fetch]] messages at hundred milliseconds, even if the FETCH_MIN_BYTES threshold is not reached.
 >
 > **[1:09](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/java-consumer-example?u=76281980&t=69)** We then set the MAX_PARTITION_FETCH_BYTES to two MB.
 >
@@ -1716,7 +1688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Java]] (2), [[Batch Processing]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Batch Processing]] (1), [[Fetch]] (1)
 > **Env Vars:** fetch_min_bytes (2), max_partition_fetch_bytes (1), auto_commit (1), enable_auto_commit (1)
 > **File Paths:** kafkaconsumerwithoptions.java (1)
 > **Code Identifiers:** commitasync (1)
@@ -1725,8 +1697,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-threaded consumers
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980)
+#### [Multi-threaded consumers](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1744,9 +1715,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980&t=43)** This is not the most optimal nor production grade multi-threaded code.
 >
-> **[0:48](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980&t=48)** It is just a sample to demonstrate one scalability option.
+> **[0:48](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980&t=48)** It is just a sample to demonstrate one [[Scalability]] option.
 >
-> **[0:52](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980&t=52)** It is highly recommended to focus on advanced Java capabilities for optimal multi-threading.
+> **[0:52](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980&t=52)** It is highly recommended to focus on advanced [[Java]] capabilities for optimal multi-threading.
 >
 > **[0:59](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980&t=59)** The sample code is available in the ScalableConsumer.java class in the com.learning.kafkascalableapps.chapter5 package.
 >
@@ -1802,7 +1773,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980&t=194)** Using five threads instead of one provides scalability.
 >
-> **[3:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980&t=198)** Committing after all processing is done ensures resiliency from failures.
+> **[3:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980&t=198)** Committing after all processing is done ensures [[Resiliency]] from failures.
 >
 > **[3:23](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/multi-threaded-consumers?u=76281980&t=203)** Note that we are using a unique consumer name so all messages will be dequeued and processed.
 >
@@ -1816,7 +1787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2), [[Scalability]] (2), [[Java]] (2), [[Resiliency]] (1), next (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Java]] (2), [[Resiliency]] (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **Warnings:** note that (2)
 > **File Paths:** scalableconsumer.java (1)
@@ -1830,8 +1801,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing partition counts
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-partition-counts?u=76281980)
+#### [Managing partition counts](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-partition-counts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1881,14 +1851,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** note that (2)
 > **Speakers:** - [host] (1)
 
-#### Managing messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-messages?u=76281980)
+#### [Managing messages](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1930,13 +1898,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** hdfs (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing consumer settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980)
+#### [Managing consumer settings](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1950,11 +1916,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=21)** Batching is an important consideration for consumers.
 >
-> **[0:25](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=25)** If you're using it for batch processing, use larger batch sizes to reduce network round trips.
+> **[0:25](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=25)** If you're using it for [[Batch Processing]], use larger batch sizes to reduce network round trips.
 >
-> **[0:31](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=31)** On the other hand, if you're using it for real-time stream processing, use smaller batch sizes and smaller polling intervals to minimize latency.
+> **[0:31](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=31)** On the other hand, if you're using it for [[Real-Time]] stream processing, use smaller batch sizes and smaller polling intervals to minimize latency.
 >
-> **[0:41](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=41)** Unless the consumer operations are simple and quick, use manual commits to ensure reliability of data processing.
+> **[0:41](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=41)** Unless the consumer operations are simple and quick, use manual commits to ensure reliability of [[Data Processing]].
 >
 > **[0:49](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=49)** Also, provide provisions for reprocessing messages when they are received again by another consumer in case of failures.
 >
@@ -1962,22 +1928,21 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=63)** Always test for failure conditions like a consumer going down or a broker going down and make sure that messages are not lost and reprocessing happens as desired by the use case.
 >
-> **[1:15](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=75)** Let's review some best practices for resiliency in the next video.
+> **[1:15](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-consumer-settings?u=76281980&t=75)** Let's review some best practices for [[Resiliency]] in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Batch Processing]] (1), [[Real-Time]] (1), data (1), [[Resiliency]] (1), next (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (1), [[Real-Time]] (1), [[Data Processing]] (1), [[Resiliency]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing resiliency
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-resiliency?u=76281980)
+#### [Managing resiliency](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-resiliency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-resiliency?u=76281980&t=0)** - [Instructor] What are some of the best practices to ensure resiliency in Kafka?
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-resiliency?u=76281980&t=0)** - [Instructor] What are some of the best practices to ensure [[Resiliency]] in Kafka?
 >
 > **[0:05](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-resiliency?u=76281980&t=5)** Use topic replication to safeguard against broker failures.
 >
@@ -2007,7 +1972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Resiliency]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Resiliency]] (2)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2018,12 +1983,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kafka applications use case: Problem definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980)
+#### [Kafka applications use case: Problem definition](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=0)** - [Instructor] We have learned a number of concepts and techniques for building scalability and resiliency with Kafka in this course.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=0)** - [Instructor] We have learned a number of concepts and techniques for building [[Scalability]] and [[Resiliency]] with Kafka in this course.
 >
 > **[0:08](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=8)** Now you can exercise some of these learnings in solving a use case problem.
 >
@@ -2035,13 +1999,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=30)** You can choose to create it either in the command line or through the kafdrop UI.
 >
-> **[0:36](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=36)** The second exercise is to create a Java producer for the Kafka.usecase.students topic.
+> **[0:36](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=36)** The second exercise is to create a [[Java]] producer for the Kafka.usecase.students topic.
 >
 > **[0:43](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=43)** When creating the producer, use a batch size of 32K and set acknowledgement to all replicas.
 >
 > **[0:51](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=51)** Use asynchronous publishing with callback to publish the messages.
 >
-> **[0:56](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=56)** The final exercise is to create a Java consumer for the Kafka.usecase.students topic When creating the consumer set the following parameters: Set fetch max bytes to 20 and fetch max wait MS to 200.
+> **[0:56](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=56)** The final exercise is to create a Java consumer for the Kafka.usecase.students topic When creating the consumer set the following parameters: Set [[Fetch]] max bytes to 20 and fetch max wait MS to 200.
 >
 > **[1:12](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980&t=72)** Use asynchronous commit for the messages received.
 >
@@ -2059,8 +2023,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/setting-up-topics?u=76281980)
+#### [Setting up topics](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/setting-up-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2078,18 +2041,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Producing data in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producing-data-in-java?u=76281980)
+#### [Producing data in Java](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producing-data-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producing-data-in-java?u=76281980&t=0)** - [Instructor] Let's now look at the use case producer in Java.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producing-data-in-java?u=76281980&t=0)** - [Instructor] Let's now look at the use case producer in [[Java]].
 >
 > **[0:04](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producing-data-in-java?u=76281980&t=4)** The code for this chapter is available in the package com.learning.Kafkascalableapps.chapter7.
 >
@@ -2119,18 +2080,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Cross-References:** earlier in (1), in the next (1)
 > **File Paths:** options.java (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Consuming data in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/consuming-data-in-java?u=76281980)
+#### [Consuming data in Java](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/consuming-data-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/consuming-data-in-java?u=76281980&t=0)** - [Instructor] As the final exercise, let's build a consumer in Java for the kafka.usecase.students topic.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/consuming-data-in-java?u=76281980&t=0)** - [Instructor] As the final exercise, let's build a consumer in [[Java]] for the kafka.usecase.students topic.
 >
 > **[0:07](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/consuming-data-in-java?u=76281980&t=7)** The code for this exercise is in the class UseCaseConsumerWithOptions.java.
 >
@@ -2142,7 +2102,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/consuming-data-in-java?u=76281980&t=31)** As required by the exercise, we set the batching parameters here.
 >
-> **[0:35](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/consuming-data-in-java?u=76281980&t=35)** We set fetch max bytes to 20 bytes and FETCH_MAX_WAIT_MS to 200.
+> **[0:35](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/consuming-data-in-java?u=76281980&t=35)** We set [[Fetch]] max bytes to 20 bytes and FETCH_MAX_WAIT_MS to 200.
 >
 > **[0:41](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/consuming-data-in-java?u=76281980&t=41)** We also turn off auto-commit.
 >
@@ -2162,7 +2122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), data (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Fetch]] (1)
 > **File Paths:** usecaseconsumerwithoptions.java (1)
 > **Code Identifiers:** commitasync (1)
 > **Env Vars:** fetch_max_wait_ms (1)
@@ -2173,16 +2133,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do you extend your Kafka learning journey?
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980)
+#### [How do you extend your Kafka learning journey?](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980&t=0)** - [Kumaran] Now that you have learned about the scale and resilience of Apache Kafka, you can take your learning even further.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980&t=0)** - [Kumaran] Now that you have learned about the scale and resilience of [[Apache Kafka]], you can take your learning even further.
 >
-> **[0:08](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980&t=8)** First, you can learn more about using Kafka for building stream processing applications with Apache Spark, Apache Flink, or Kafka Streams.
+> **[0:08](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980&t=8)** First, you can learn more about using Kafka for building stream processing applications with [[Apache Spark]], Apache Flink, or Kafka Streams.
 >
-> **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980&t=18)** Second, build an end-to-end data processing pipeline use case with Kafka and other big data processing and storage technology.
+> **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980&t=18)** Second, build an end-to-end [[Data Processing]] pipeline use case with Kafka and other [[Big Data]] processing and storage technology.
 >
 > **[0:28](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980&t=28)** Finally, you can implement Kafka in your organization for one of your own big data processing use cases.
 >
@@ -2192,7 +2151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Big Data]] (2), [[Apache Kafka]] (1), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Apache Kafka]] (1), [[Apache Spark]] (1), [[Data Processing]] (1)
 > **CLI Commands:** apache (3), find (1)
 > **Speakers:** - [kumaran] (1)
 

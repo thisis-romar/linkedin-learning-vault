@@ -38,11 +38,11 @@ created: 2026-05-02
 7. [[Advanced Terraform]] — 32 mentions
 8. [[Azure Management Basics- Portal, PowerShell, Bicep, and CLI]] — 30 mentions
 9. [[Introduction to Modern Data Engineering with Snowflake]] — 29 mentions
-10. [[Aws Essential Training For Administrators]] — 24 mentions
+10. [[Complete Guide to AWS Software Deployment]] — 24 mentions
 
 > [!note]- See all 157 courses
-> 11. [[Manage Storage in Azure]] — 23 mentions
-> 12. [[Complete Guide to AWS Software Deployment]] — 23 mentions
+> 11. [[Aws Essential Training For Administrators]] — 24 mentions
+> 12. [[Manage Storage in Azure]] — 23 mentions
 > 13. [[DevOps Foundations- Your First Project]] — 20 mentions
 > 14. [[Azure Essential Training for Developers]] — 19 mentions
 > 15. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 18 mentions

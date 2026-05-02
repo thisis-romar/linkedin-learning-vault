@@ -66,14 +66,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing dashboards and data
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/designing-dashboards-and-data?u=76281980)
+#### [Designing dashboards and data](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/designing-dashboards-and-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/designing-dashboards-and-data?u=76281980&t=0)** - [Diane] Designing data has similar considerations and principles as designing for other interfaces.
 >
-> **[0:05](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/designing-dashboards-and-data?u=76281980&t=5)** Dashboards help us to understand complex data and distill it into easy-to-understand at-a-glance information.
+> **[0:05](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/designing-dashboards-and-data?u=76281980&t=5)** [[Dashboards]] help us to understand complex data and distill it into easy-to-understand at-a-glance information.
 >
 > **[0:12](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/designing-dashboards-and-data?u=76281980&t=12)** Hi, I'm Diana Cronenwett.
 >
@@ -87,7 +86,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Dashboards]] (4), ux (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4)
 > **Speakers:** - [diane] (1)
 
 
@@ -95,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Displaying the right data
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980)
+#### [Displaying the right data](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=0)** - [Instructor] When approaching designing dashboards, visualizations, and data, we'll need to understand our users and how they'll derive meaning from the data.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=0)** - [Instructor] When approaching designing [[Dashboards]], visualizations, and data, we'll need to understand our users and how they'll derive meaning from the data.
 >
 > **[0:08](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=8)** Data is just a series of numbers, so our design needs to provide context and meaning to ensure we're helping our users tell the right story.
 >
@@ -116,7 +114,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=70)** Typically, users have some idea of how they like the data to be laid out, so it's useful to sit down with customers and let them sketch some ideas out.
 >
-> **[1:20](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=80)** You can ask questions and clarify details while they're sketching to get a better understanding of what they're trying to convey.
+> **[1:20](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=80)** You can ask questions and clarify details while they're [[Sketching]] to get a better understanding of what they're trying to convey.
 >
 > **[1:27](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=87)** This process helps to understand the type of actions they want to take with the data and which data is important to be visualized.
 >
@@ -128,7 +126,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=116)** This was good feedback which was incorporated into the next set of designs to show users.
 >
-> **[2:02](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=122)** Prototyping and iteration for data design can be as simple as sketches on paper or quick wireframes.
+> **[2:02](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=122)** [[Prototyping]] and iteration for data design can be as simple as sketches on paper or quick wireframes.
 >
 > **[2:08](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980&t=128)** The goal is to gain feedback fast and iterate again.
 >
@@ -136,12 +134,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Dashboards]] (1), [[Sketching]] (1), next (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Sketching]] (1), [[Prototyping]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common graph types
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/common-graph-types?u=76281980)
+#### [Common graph types](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/common-graph-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/common-graph-types?u=76281980&t=15)** Visualizations aren't just standalone charts, although they can be, but they can also work in concert to form a dashboard.
 >
-> **[0:25](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/common-graph-types?u=76281980&t=25)** Here's a couple of examples from Google Analytics and Salesforce that are made up of various charts to create a dashboard.
+> **[0:25](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/common-graph-types?u=76281980&t=25)** Here's a couple of examples from [[Google]] Analytics and Salesforce that are made up of various charts to create a dashboard.
 >
 > **[0:33](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/common-graph-types?u=76281980&t=33)** We need to use the right visual element to tell the most impactful story.
 >
@@ -199,18 +196,17 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/common-graph-types?u=76281980&t=175)** In the updated graph, the grid and plot points are removed to make the data more clear.
 >
-> **[3:01](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/common-graph-types?u=76281980&t=181)** Tables, bar charts and line graphs are very common methods to visualize data and are commonly used in dashboards.
+> **[3:01](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/common-graph-types?u=76281980&t=181)** Tables, bar charts and line graphs are very common methods to visualize data and are commonly used in [[Dashboards]].
 >
 > **[3:10](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/common-graph-types?u=76281980&t=190)** Keeping these design principles in mind, we can make sure our data is telling the right story.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (2), [[Google]] (1), [[Analytics]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### More common graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/more-common-graphs?u=76281980)
+#### [More common graphs](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/more-common-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -278,15 +274,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** nasa (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cautionary charts and elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/cautionary-charts-and-elements?u=76281980)
+#### [Cautionary charts and elements](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/cautionary-charts-and-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,7 +342,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Definitions:** is a  (3)
 > **Warnings:** caution (1), be careful (1)
 > **CLI Commands:** make (1)
@@ -361,8 +354,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Color foundations
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-foundations?u=76281980)
+#### [Color foundations](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-foundations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,7 +402,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-foundations?u=76281980&t=148)** Now let's take a look at value.
 >
-> **[2:30](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-foundations?u=76281980&t=150)** We can see value at work when looking at the Google analytics dashboard in grayscale.
+> **[2:30](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-foundations?u=76281980&t=150)** We can see value at work when looking at the [[Google]] analytics dashboard in grayscale.
 >
 > **[2:35](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-foundations?u=76281980&t=155)** All important differentiations in the data are still viewable without the hue.
 >
@@ -422,13 +414,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Google]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Color use
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-use?u=76281980)
+#### [Color use](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-use?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,21 +479,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), traffic (2), [[Analytics]] (1)
 > **Best Practices:** it's best to (1), remember to (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Color accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-accessibility?u=76281980)
+#### [Color accessibility](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-accessibility?u=76281980&t=0)** - [Instructor] When designing with data, we want to make sure that what we've designed is usable by everyone.
 >
-> **[0:06](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-accessibility?u=76281980&t=6)** Since dashboards and data visualizations use a lot of color, we have to be mindful of certain types of common colorblindness.
+> **[0:06](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-accessibility?u=76281980&t=6)** Since [[Dashboards]] and data visualizations use a lot of color, we have to be mindful of certain types of common colorblindness.
 >
 > **[0:14](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-accessibility?u=76281980&t=14)** Some segments of our users don't see colors the way we intend.
 >
@@ -566,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is an  (1)
@@ -579,16 +568,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Layout and hierarchy
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980)
+#### [Layout and hierarchy](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=0)** - [Instructor] We've gone over some common graph types used to visualize data and visual principles to keep in mind while designing graphs.
 >
-> **[0:07](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=7)** Dashboards, broadly defined, are a series of charts or graphs that drive meaning from data in a single view.
+> **[0:07](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=7)** [[Dashboards]], broadly defined, are a series of charts or graphs that drive meaning from data in a single view.
 >
-> **[0:15](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=15)** They can be web based interactive interfaces or an Excel spreadsheet.
+> **[0:15](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=15)** They can be web based interactive interfaces or an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[0:19](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=19)** Dashboard design follows the same visual design principles that we apply to designing user interfaces.
 >
@@ -620,7 +608,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=111)** As this screen illustrates, sometimes plain text is better than a graph or a chart.
 >
-> **[1:56](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=116)** Take for example, this Google Fonts Analytics website.
+> **[1:56](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=116)** Take for example, this [[Google]] Fonts Analytics website.
 >
 > **[2:00](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=120)** This site is mostly text and organized into tables with horizontal bar graphs.
 >
@@ -628,7 +616,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=132)** Text works well to communicate important metrics or percentages.
 >
-> **[2:16](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=136)** In this Microsoft compliance dashboard text is used to highlight percentages of each section.
+> **[2:16](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=136)** In this [[Microsoft]] compliance dashboard text is used to highlight percentages of each section.
 >
 > **[2:22](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=142)** The text is treated with a heavier, bold font and uses a different color to stand out.
 >
@@ -650,22 +638,21 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=195)** Your layout will be driven by your project's goals.
 >
-> **[3:18](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=198)** However, using white space, hierarchy and typography can help you communicate meaning in your dashboard design.
+> **[3:18](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980&t=198)** However, using white space, hierarchy and [[Typography]] can help you communicate meaning in your dashboard design.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Dashboards]] (2), web (2), [[Analytics]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1), [[Microsoft]] (1), [[Typography]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** refers to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dashboard interactivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980)
+#### [Dashboard interactivity](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980&t=0)** - [Instructor] When designing interactive dashboards, there's some common interactions and approaches to help users interact with their data and turn them into insights.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980&t=0)** - [Instructor] When designing interactive [[Dashboards]], there's some common interactions and approaches to help users interact with their data and turn them into insights.
 >
 > **[0:09](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980&t=9)** Interactivity on a dashboard serves a few different purposes.
 >
@@ -687,9 +674,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980&t=58)** Tooltips can reflect more information depending on what supplementary details are needed.
 >
-> **[1:03](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980&t=63)** Another form of interactivity for dashboards is the ability to zoom and manipulate the view.
+> **[1:03](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980&t=63)** Another form of interactivity for dashboards is the ability to [[Zoom]] and manipulate the view.
 >
-> **[1:09](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980&t=69)** In this example map from the National Center for Education Statistics, this map at the zoomed-out level shows different information but you can see more detail on the map as we zoom in.
+> **[1:09](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980&t=69)** In this example map from the National Center for Education [[Statistics]], this map at the zoomed-out level shows different information but you can see more detail on the map as we zoom in.
 >
 > **[1:32](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity?u=76281980&t=92)** If your data has different levels of detail, providing zooming and panning tools will provide more context at the right level.
 >
@@ -711,14 +698,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Dashboards]] (3), [[Zoom]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Zoom]] (2), [[Statistics]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reducing graph visual noise
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/reducing-graph-visual-noise?u=76281980)
+#### [Reducing graph visual noise](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/reducing-graph-visual-noise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -734,7 +720,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/reducing-graph-visual-noise?u=76281980&t=29)** White space helps reduce visual noise and gives your design room to breathe.
 >
-> **[0:33](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/reducing-graph-visual-noise?u=76281980&t=33)** This graph from the U.S. Bureau of Economic Analysis, at first glance, seems clear.
+> **[0:33](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/reducing-graph-visual-noise?u=76281980&t=33)** This graph from the U.S. Bureau of [[Economic Analysis]], at first glance, seems clear.
 >
 > **[0:39](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/reducing-graph-visual-noise?u=76281980&t=39)** There's a good use of color to distinguish between the monthly deficit and three-month moving average.
 >
@@ -792,7 +778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Economic Analysis]] (1)
+> **Frameworks & Libraries:** [[Economic Analysis]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -800,8 +786,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conceptualizing a dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/conceptualizing-a-dashboard?u=76281980)
+#### [Conceptualizing a dashboard](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/conceptualizing-a-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -833,7 +818,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/conceptualizing-a-dashboard?u=76281980&t=90)** Key confirmation will be at the top in priority order.
 >
-> **[1:34](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/conceptualizing-a-dashboard?u=76281980&t=94)** I recommend sketching different layouts and charts before getting into a design tool.
+> **[1:34](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/conceptualizing-a-dashboard?u=76281980&t=94)** I recommend [[Sketching]] different layouts and charts before getting into a design tool.
 >
 > **[1:39](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/conceptualizing-a-dashboard?u=76281980&t=99)** Sketching helps work out some of the high level information you want to convey without worrying about too much detail.
 >
@@ -857,13 +842,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Sketching]] (3), business (2)
+> **Frameworks & Libraries:** [[Sketching]] (3)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Layout considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-considerations?u=76281980)
+#### [Layout considerations](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,7 +855,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-considerations?u=76281980&t=7)** Our design is based on what our users said was important to them.
 >
-> **[0:11](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-considerations?u=76281980&t=11)** For the dashboard, I used Figma.
+> **[0:11](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-considerations?u=76281980&t=11)** For the dashboard, I used [[Figma (Software)|Figma]].
 >
 > **[0:13](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-considerations?u=76281980&t=13)** If you want to learn more about Figma, view the Figma for UX Design course.
 >
@@ -937,12 +921,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), data (3), ux (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4)
 > **Tools:** figma (4)
 > **Speakers:** - [instructor] (1)
 
-#### Visual design considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/visual-design-considerations?u=76281980)
+#### [Visual design considerations](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/visual-design-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,9 +943,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/visual-design-considerations?u=76281980&t=35)** You can see how the palette still conveys important meaning when viewed through the lens of deuteranopia.
 >
-> **[0:42](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/visual-design-considerations?u=76281980&t=42)** After selecting the color palette, I selected a type that would work well for dashboards.
+> **[0:42](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/visual-design-considerations?u=76281980&t=42)** After selecting the color palette, I selected a type that would work well for [[Dashboards]].
 >
-> **[0:47](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/visual-design-considerations?u=76281980&t=47)** I used Roboto, an easily accessible Google font and a good sans serif display font for dashboards.
+> **[0:47](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/visual-design-considerations?u=76281980&t=47)** I used Roboto, an easily accessible [[Google]] font and a good sans serif display font for dashboards.
 >
 > **[0:54](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/visual-design-considerations?u=76281980&t=54)** In the individual charts, I used a different color for the titles than I did for the data.
 >
@@ -1006,17 +989,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Dashboards]] (2), next (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dashboard interactivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980)
+#### [Dashboard interactivity](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=0)** - [Instructor] Dashboards can be static, in that they're reporting out information with minimal or no interactive states.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=0)** - [Instructor] [[Dashboards]] can be static, in that they're reporting out information with minimal or no interactive states.
 >
 > **[0:07](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=7)** Interactive dashboards offer more functionality for users to view their data in slightly different ways.
 >
@@ -1028,7 +1010,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=30)** The mechanisms to filter can be using a dropdown in which you can select items you'd prefer to see or not see.
 >
-> **[0:37](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=37)** You can see this in this example from LinkedIn, where you can filter out by a few different options like job function, location, seniority and a few others.
+> **[0:37](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=37)** You can see this in this example from [[LinkedIn]], where you can filter out by a few different options like job function, location, seniority and a few others.
 >
 > **[0:47](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=47)** Once that filter is applied, the graph only displays the data for that applied filter.
 >
@@ -1040,13 +1022,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=74)** The goal of this prototype is to model the interaction of a filtered state.
 >
-> **[1:18](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=78)** I created this interaction in Figma, but you can do this in any prototyping tool or even PowerPoint, Keynote or a PDF.
+> **[1:18](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=78)** I created this interaction in [[Figma (Software)|Figma]], but you can do this in any [[Prototyping]] tool or even [[Microsoft PowerPoint|PowerPoint]], Keynote or a PDF.
 >
 > **[1:26](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=86)** Creating prototypes in Figma is very simple and I recommend watching the Figma for UX course to learn more.
 >
 > **[1:33](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=93)** From my dashboard, I created a filter behavior for the majors by graduate versus undergraduate chart.
 >
-> **[1:39](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=99)** On click of the fine arts graduate student filter, the dashboard updates to show the item selected while the rest of the dashboard elements are gray scale.
+> **[1:39](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=99)** On click of the fine arts graduate student filter, the dashboard updates to show the item selected while the [[Representational State Transfer (REST)|rest]] of the dashboard elements are gray scale.
 >
 > **[1:51](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/dashboard-interactivity-10024559?u=76281980&t=111)** All the graphs are updated to focus on that specific fine art data point.
 >
@@ -1084,7 +1066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Figma (Software)|Figma]] (4), [[Dashboards]] (3), [[Prototyping]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[Dashboards]] (3), [[Prototyping]] (2), [[LinkedIn]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Tools:** figma (4)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -1098,8 +1080,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Goodbye
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/goodbye?u=76281980)
+#### [Goodbye](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/goodbye?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1113,7 +1094,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/goodbye?u=76281980&t=22)** I look forward to reading your thoughts and questions.
 >
-> **[0:25](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/goodbye?u=76281980&t=25)** You can check out my other LinkedIn Learning interaction design courses on prototyping and structure for more relevant material.
+> **[0:25](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/goodbye?u=76281980&t=25)** You can check out my other [[LinkedIn]] Learning interaction design courses on [[Prototyping]] and structure for more relevant material.
 >
 > **[0:31](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/goodbye?u=76281980&t=31)** Also feel free to follow me on LinkedIn or Twitter.
 >
@@ -1121,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), [[LinkedIn]] (2), ux (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Prototyping]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [diane] (1)
 

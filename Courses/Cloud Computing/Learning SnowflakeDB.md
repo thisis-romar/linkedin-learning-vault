@@ -93,18 +93,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Driving maximum results with a flexible data cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980)
+#### [Driving maximum results with a flexible data cloud](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980&t=0)** - Are you struggling with running out of capacity for storage and compute on your existing data warehouse?
 >
-> **[0:08](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980&t=8)** Are you worried about buying expensive hardware and software licenses in order to expand your capacity?
+> **[0:08](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980&t=8)** Are you worried about buying expensive [[Hardware]] and software licenses in order to expand your capacity?
 >
 > **[0:15](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980&t=15)** Have you heard the terms Data Lake or Lake House and wondered how and when they might apply to your data situation?
 >
-> **[0:23](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980&t=23)** Snowflake DB is a fully managed cloud native software as a service data platform.
+> **[0:23](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980&t=23)** [[Snowflake]] DB is a fully managed cloud native [[SaaS|software as a service]] data platform.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980&t=29)** We'll explore how you can get maximum results from this flexible data cloud by looking at managing and configuring the different data planes, whether a storage, compute through the virtual warehouse, or services.
 >
@@ -114,26 +113,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), cloud (2), [[Hardware]] (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Snowflake]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=0)** - In order to get the most out of this course, it'll be helpful if you have a background with databases, specifically if you've done production work with relational databases such as MySQL, SQL Server, Oracle or the like.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=0)** - In order to get the most out of this course, it'll be helpful if you have a background with [[Databases]], specifically if you've done production work with [[Relational Databases]] such as [[MySQL]], [[Microsoft SQL Server|SQL Server]], Oracle or the like.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=14)** In particular, we'll be using the SQL query language to demonstrate the capabilities of Snowflake DB during this course.
+> **[0:14](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=14)** In particular, we'll be using the [[SQL]] query language to demonstrate the capabilities of [[Snowflake]] DB during this course.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=22)** In addition, if you have some background with data warehousing technologies, and it could be on your relational database or it could be a dedicated data warehouse such as Teradata, Oracle Data Warehouse, SQL Server Analysis Services, something like that.
+> **[0:22](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=22)** In addition, if you have some background with [[Data Warehousing]] technologies, and it could be on your relational database or it could be a dedicated data warehouse such as Teradata, Oracle Data Warehouse, SQL Server Analysis Services, something like that.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=37)** In particular, we'll be looking at aggregate SQL queries for reporting, so queries that add up and produce aggregate results using SQL syntax like average, count, min, max.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=49)** In addition to that, if you have some familiarity with database administrator or data concepts, which includes security of data, modeling of data for tables and data pipelining, you'll get more out of this course.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=62)** In addition to the other things that I mentioned, if you have some kind of production experience with one or more of the major cloud vendors, which includes Amazon Web Services, Microsoft Azure or Google Cloud Platform, you will benefit more from this course.
+> **[1:02](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=62)** In addition to the other things that I mentioned, if you have some kind of production experience with one or more of the major cloud vendors, which includes [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]] or [[Google Cloud Platform (GCP)|Google Cloud Platform]], you will benefit more from this course.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-snowflakedb/what-you-should-know?u=76281980&t=76)** As mentioned, data warehouse concepts will be a core part of this course, cause Snowflake DB is of course a cloud-native data warehouse and more.
 >
@@ -141,18 +139,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Snowflake]] (2), database (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Snowflake]] (2), [[Databases]] (1), [[Relational Databases]] (1)
 > **Env Vars:** sql (5)
 > **Analogies:** such as (2)
 > **CLI Commands:** mysql (1)
 > **Speakers:** - in (1)
 
-#### Use cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/use-cloud-services?u=76281980)
+#### [Use cloud services](https://www.linkedin.com/learning/learning-snowflakedb/use-cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/use-cloud-services?u=76281980&t=0)** - [Instructor] If you wish to follow along when I'm demonstrating working with Snowflake DB during this course, do be aware that it is a cloud-only service.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/use-cloud-services?u=76281980&t=0)** - [Instructor] If you wish to follow along when I'm demonstrating working with [[Snowflake]] DB during this course, do be aware that it is a cloud-only service.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-snowflakedb/use-cloud-services?u=76281980&t=9)** There is no local way to run it.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (5), cloud (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -184,16 +181,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meet SnowflakeDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980)
+#### [Meet SnowflakeDB](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=0)** - [Instructor] As we get started learning about Snowflake DB, I think it's helpful to have a concise definition because it kind of is so unique in the market that when you are sharing your learning with other people, it can be helpful to have one-sentence definition.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=0)** - [Instructor] As we get started learning about [[Snowflake]] DB, I think it's helpful to have a concise definition because it kind of is so unique in the market that when you are sharing your learning with other people, it can be helpful to have one-sentence definition.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=14)** So here's the way I would describe it.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=17)** Snowflake DB is a cloud-native SaaS data warehouse and platform.
+> **[0:17](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=17)** Snowflake DB is a cloud-native [[SaaS]] data warehouse and platform.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=24)** So let's break that down, and let's start with characteristics of data platforms in general.
 >
@@ -205,15 +201,15 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=46)** They allow you to transform the data to input the data sometimes with streams always with batches or individually to output that data, and sometimes to visualize it.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=57)** Platforms are also designed for different types of use cases, and those are represented in the diagram by the SQL analysts, ETL in processing, data science, and BI and analytics tools.
+> **[0:57](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=57)** Platforms are also designed for different types of use cases, and those are represented in the diagram by the [[SQL]] analysts, ETL in processing, [[Data Science]], and BI and analytics tools.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=72)** Now in terms of cloud-native, Snowflake is very unique in the original niche that it serviced, data warehousing.
+> **[1:12](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=72)** Now in terms of cloud-native, Snowflake is very unique in the original niche that it serviced, [[Data Warehousing]].
 >
 > **[1:20](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=80)** It was the first cloud-only data warehouse that could be run on multiple clouds.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=87)** Originally, it was runnable on Amazon Web Services.
+> **[1:27](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=87)** Originally, it was runnable on [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
-> **[1:31](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=91)** They have subsequently added the capability to run on GCP or Azure.
+> **[1:31](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=91)** They have subsequently added the capability to run on GCP or [[Microsoft Azure|Azure]].
 >
 > **[1:35](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=95)** And this was a recent little poll I did on Twitter.
 >
@@ -241,7 +237,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=183)** Now snowflake DB was born as a cloud native SaaS data warehouse.
 >
-> **[3:08](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=188)** Data warehouses are databases.
+> **[3:08](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=188)** Data warehouses are [[Databases]].
 >
 > **[3:10](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=190)** So they host tables that are designed for analytics and reports.
 >
@@ -269,9 +265,9 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=244)** I don't know, I haven't asked them, but I think so.
 >
-> **[4:06](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=246)** Now, in addition to the resources I'm presenting in this course, as with all of my LinkedIn Learning courses.
+> **[4:06](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=246)** Now, in addition to the resources I'm presenting in this course, as with all of my [[LinkedIn]] Learning courses.
 >
-> **[4:12](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=252)** I have created a companion GitHub repository, which I will be continuing to work on while I work on this course, and subsequently because I do work with Snowflake DB in production.
+> **[4:12](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=252)** I have created a companion [[GitHub]] repository, which I will be continuing to work on while I work on this course, and subsequently because I do work with Snowflake DB in production.
 >
 > **[4:23](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980&t=263)** One aspect of this is that is dynamic.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Snowflake]] (15), cloud (8), [[SaaS]] (3), [[GitHub]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (15), [[SaaS]] (3), [[GitHub]] (3), [[SQL]] (2), [[Data Warehousing]] (2)
 > **Env Vars:** sql (2), aws (2), etl (1), gcp (1), api (1)
 > **Definitions:** is a  (4), means that (1)
 > **Prerequisites:** install (3), getting started (1)
@@ -311,12 +307,11 @@ created: 2026-05-02
 > **CLI Commands:** aws (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understand SnowflakeDB data platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980)
+#### [Understand SnowflakeDB data platform](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=0)** - [Narrator] So as we learn about Snowflake's capabilities, we need to think about data platforms and then understand what features are available in Snowflake DB, so we can understand if it's a fit for our use cases.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=0)** - [Narrator] So as we learn about [[Snowflake]]'s capabilities, we need to think about data platforms and then understand what features are available in Snowflake DB, so we can understand if it's a fit for our use cases.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=11)** So platforms in general will have services that work as I say before and after you are actually having the data in the platform, and this is often expressed as some kind of a pipeline.
 >
@@ -324,9 +319,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=33)** So, Snowflake has strong offerings across all these different vectors which makes it a compelling choice for end to end data solutions.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=43)** Now, within Snowflake itself in addition to a highly optimized storage and SQL engine there are additional capabilities that make it compelling.
+> **[0:43](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=43)** Now, within Snowflake itself in addition to a highly optimized storage and [[SQL]] engine there are additional capabilities that make it compelling.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=53)** These include user defined functions, very rich metadata, and as of this recording they have started to integrate machine learning through capabilities that allow the use of data frames from Apache Spark.
+> **[0:53](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=53)** These include user defined functions, very rich [[Metadata]], and as of this recording they have started to integrate machine learning through capabilities that allow the use of data frames from [[Apache Spark]].
 >
 > **[1:08](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=68)** And this is an area that I'm really watching, and it's very interesting set of developments.
 >
@@ -340,11 +335,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=94)** So, OLTP or transactional data sources, enterprise applications, third-party web, and log data.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=102)** They're particularly strong, it's often the format of JSON.
+> **[1:42](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=102)** They're particularly strong, it's often the format of [[JSON]].
 >
 > **[1:45](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=105)** It's called unstructured or file based data, but they have support for other file formats too, CSV, XML, others, but JSON in particular is a particularly strong point in terms of ingest and query.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=117)** IoT scenarios which is again usually event or message based.
+> **[1:57](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=117)** [[IoT]] scenarios which is again usually event or message based.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=122)** And they support traditional ETL, extract, transform, and load via pipelining and also streaming.
 >
@@ -352,13 +347,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=132)** Of course they run on your cloud of choice which is a very compelling part of their offering, and then their core engine itself is highly flexible.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=142)** It supports data warehouse, data lake which we'll dive into in a subsequent movie, data engineering, exchange, applications, and as I just mentioned, starting to get into data science.
+> **[2:22](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=142)** It supports data warehouse, data lake which we'll dive into in a subsequent movie, [[Data Engineering]], exchange, applications, and as I just mentioned, starting to get into [[Data Science]].
 >
 > **[2:33](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=153)** Data consumers, again the output they have a marketplace for monetization which we'll be looking at in this course or just sharing data.
 >
 > **[2:41](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=161)** If it's public data, for example, health data, COVID data, we're going to look at operational reporting, ad hoc analysis.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=168)** They have great partner story there and real-time analytics.
+> **[2:48](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=168)** They have great partner story there and [[Real-Time]] analytics.
 >
 > **[2:51](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-data-platform?u=76281980&t=171)** So, the end-to-end story is part of the value prop of Snowflake.
 >
@@ -368,19 +363,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Snowflake]] (9), feature (2), [[JSON]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (9), [[JSON]] (2), [[SQL]] (1), [[Metadata]] (1), [[Apache Spark]] (1)
 > **Env Vars:** json (2), sql (1), oltp (1), csv (1), xml (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), apache (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Compare cloud data warehouse solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980)
+#### [Compare cloud data warehouse solutions](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=0)** - [Instructor] Let's define some terms as we're understanding the capabilities of Snowflake DB.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=0)** - [Instructor] Let's define some terms as we're understanding the capabilities of [[Snowflake]] DB.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=5)** So for a data warehouse and data lake.
 >
@@ -394,7 +388,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=34)** And it's designed for a huge volume of data.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=37)** A data lake can work with unstructured data, usually files.
+> **[0:37](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=37)** A data lake can work with [[Unstructured Data]], usually files.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=41)** It's stored in object storage.
 >
@@ -442,13 +436,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=158)** But it is additionally for reading.
 >
-> **[2:40](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=160)** So ad hoc reads, data warehouse reads, and I explain that aggregate SQL queries or data lake reads, which is SQL on files.
+> **[2:40](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=160)** So ad hoc reads, data warehouse reads, and I explain that aggregate [[SQL]] queries or data lake reads, which is SQL on files.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=169)** It is not for online transactional.
 >
 > **[2:51](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=171)** It does not support transactions so it's not your working database.
 >
-> **[2:55](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=175)** That would be a SQL server, Oracle, MySQL, something like that.
+> **[2:55](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=175)** That would be a [[Microsoft SQL Server|SQL server]], Oracle, [[MySQL]], something like that.
 >
 > **[2:58](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=178)** And although you can define constraints, this is a very important point, such as primary keys and uniques, they're not enforced.
 >
@@ -458,9 +452,9 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=193)** So it's not what I would say, a hot or a working database.
 >
-> **[3:17](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=197)** It is a data warehousing analytics solution.
+> **[3:17](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=197)** It is a [[Data Warehousing]] analytics solution.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=201)** Now that being said, Snowflake DB is, as you'll remember, SaaS, fully managed.
+> **[3:21](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=201)** Now that being said, Snowflake DB is, as you'll remember, [[SaaS]], fully managed.
 >
 > **[3:27](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=207)** And it has a number of important features that make it compelling.
 >
@@ -478,11 +472,11 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=239)** And zero-copy cloning allows you to do things, like make dev-test environments without incurring storage costs.
 >
-> **[4:06](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=246)** Data sharing and marketplace allows you to share data and monetize data.
+> **[4:06](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=246)** [[Data Sharing]] and marketplace allows you to share data and monetize data.
 >
 > **[4:10](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=250)** High availability via across-cloud replication.
 >
-> **[4:13](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=253)** Granular security and automatic encryption and strong support for JSON data.
+> **[4:13](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=253)** Granular security and automatic encryption and strong support for [[JSON]] data.
 >
 > **[4:19](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=259)** Very, very strong.
 >
@@ -506,7 +500,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=293)** So that's interesting 'cause Redshift is only relatively recently added serverless capability.
 >
-> **[4:58](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=298)** I'm not as familiar with Azure Synapse, but it's the thing that's out there on Azure.
+> **[4:58](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=298)** I'm not as familiar with [[Microsoft Azure|Azure]] Synapse, but it's the thing that's out there on Azure.
 >
 > **[5:03](https://www.linkedin.com/learning/learning-snowflakedb/compare-cloud-data-warehouse-solutions?u=76281980&t=303)** And then for Spark workloads, we have databricks.
 >
@@ -524,7 +518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Snowflake]] (11), cloud (7), [[SQL]] (2), database (2)
+> **Frameworks & Libraries:** [[Snowflake]] (11), [[Data Warehousing]] (3), [[SQL]] (2), [[Microsoft Azure|Azure]] (2), [[Unstructured Data]] (1)
 > **Env Vars:** sql (3), oltp (1), dna (1), rna (1), json (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Definitions:** is a  (3)
@@ -532,22 +526,21 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review SnowflakeDB architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980)
+#### [Review SnowflakeDB architecture](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=0)** - [Instructor] At its core, the architecture of SnowflakeDB is relatively unique in that it completely separates the different control planes for maximum scalability, manageability, and usability, and it really reflects in the elegance of the product.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=0)** - [Instructor] At its core, the architecture of SnowflakeDB is relatively unique in that it completely separates the different control planes for maximum [[Scalability]], manageability, and usability, and it really reflects in the elegance of the product.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=16)** We'll be drilling into this in the different sections of this course, but to get us started, data storage, which of course, because we're cloud native will be object store, so for example, if you run on AWS, it'd be S3, if you run on GCP, that would be Google Cloud Storage, Azure would be Azure Blob Storage.
+> **[0:16](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=16)** We'll be drilling into this in the different sections of this course, but to get us started, [[Data Storage]], which of course, because we're cloud native will be object store, so for example, if you run on AWS, it'd be S3, if you run on GCP, that would be [[Google Cloud Platform (GCP)|Google Cloud]] Storage, [[Microsoft Azure|Azure]] would be Azure Blob Storage.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=33)** It is completely separated from query processing which are virtual warehouses, or you can think of them as clusters of virtual machines, which again, you manage at the level of paying for compute time at the millisecond billing level, you don't deal with machines, or operating systems, or patching, or any of that stuff.
+> **[0:33](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=33)** It is completely separated from query processing which are virtual warehouses, or you can think of them as clusters of [[Virtual Machines]], which again, you manage at the level of paying for compute time at the millisecond billing level, you don't deal with machines, or operating systems, or patching, or any of that stuff.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=53)** And then up above that, you have a very important set of services that are basically continually being updated, and enhanced, and moving a lot of the stuff that had to be done manually before modern architectures like this were available, so infrastructure security optimization, and then we have authentication and access at the top layer.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=74)** So this disconnected architecture when used correctly, and that's kind of a key aspect in why you would want to participate in a course like this, because it is so new to have this actually physically separated.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=88)** You can actually get a really good total cost of ownership, and speaking of TCO, the areas that I think are most compelling in terms of Snowflake for TCO is, starting on the left side here, you have one platform, one copy of data, and many workloads.
+> **[1:28](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=88)** You can actually get a really good total cost of ownership, and speaking of TCO, the areas that I think are most compelling in terms of [[Snowflake]] for TCO is, starting on the left side here, you have one platform, one copy of data, and many workloads.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=106)** You can literally spin up your query layer while you've got another compute layer doing ETL.
 >
@@ -555,11 +548,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=117)** Now, of course obviously, that might not make business sense, but the fact that you can do that by just simply spinning up another service layer is really powerful.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=127)** It gives you almost unlimited performance and scale, but again, you need to be able to manage that and understand the cost associated with it and how to manage a compute layer that can be scaled up and scaled down nearly instantly, because that is a pretty new paradigm in the world of data warehousing.
+> **[2:07](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=127)** It gives you almost unlimited performance and scale, but again, you need to be able to manage that and understand the cost associated with it and how to manage a compute layer that can be scaled up and scaled down nearly instantly, because that is a pretty new paradigm in the world of [[Data Warehousing]].
 >
 > **[2:27](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=147)** One of the other value prop pillars of Snowflake is the near zero maintenance, and again, I find this to be quite compelling when you compare to something that's server based, Redshift for example, where you're going to have to be aware of the version of the engine and all this kind of stuff, and you don't have to in Snowflake.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=168)** Again, it's more similar to Google's BigQuery, you just work with the engine and the vendor takes care of all the maintenance.
+> **[2:48](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=168)** Again, it's more similar to [[Google]]'s BigQuery, you just work with the engine and the vendor takes care of all the maintenance.
 >
 > **[2:55](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=175)** Another really important and compelling aspect is the depth to which the Snowflake team has created secure by default, so everything is encrypted by default and the ability to set up appropriate security.
 >
@@ -575,11 +568,11 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=252)** The data storage is separate from the compute, is separate from the services, and really getting your head around that is not super difficult, it just requires, especially if you've had servers on prem, it's a different way of working.
 >
-> **[4:28](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=268)** So, you know, going through a course like this and or some of the Snowflake resources are well worth the time and money, because if you think of it in terms of servers you have to manage you're probably not going to get the best TCO out of Snowflake, you need to understand how to use it as a cloud-native SaaS data warehouse.
+> **[4:28](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflakedb-architecture?u=76281980&t=268)** So, you know, going through a course like this and or some of the Snowflake resources are well worth the time and money, because if you think of it in terms of servers you have to manage you're probably not going to get the best TCO out of Snowflake, you need to understand how to use it as a cloud-native [[SaaS]] data warehouse.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (8), data (7), [[Security]] (7), cloud (3), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Data Storage]] (2), [[Microsoft Azure|Azure]] (2), [[Scalability]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** tco (3), aws (1), gcp (1), etl (1)
 > **CLI Commands:** find (2), aws (1), make (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -588,12 +581,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use SnowflakeDB cloud tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980)
+#### [Use SnowflakeDB cloud tools](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=0)** - [Instructor] So to get us started actually working with Snowflake DB, we need to understand what tools we can use.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=0)** - [Instructor] So to get us started actually working with [[Snowflake]] DB, we need to understand what tools we can use.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=6)** For this course, I'm going to be using mostly the web UI or the console.
 >
@@ -605,13 +597,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=33)** There is a command line interface it's called SnowSQL.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=37)** It's Python-based, and that's for scripting.
+> **[0:37](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=37)** It's [[Python (Programming Language)|Python]]-based, and that's for scripting.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=39)** As with any cloud service in production, you would want to use the web UI when you are learning but you want to script, and have all of your SQL scripts and all of your ETL processes checked into source control, when you're in production.
+> **[0:39](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=39)** As with any cloud service in production, you would want to use the web UI when you are learning but you want to script, and have all of your [[SQL]] scripts and all of your ETL processes checked into source control, when you're in production.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=55)** There is also Snowpipe, which supports streaming ingest.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=59)** There are drivers and software development kits for of the major languages such as you know Java and Go, and so on and so forth.
+> **[0:59](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=59)** There are drivers and [[Software Development]] kits for of the major languages such as you know [[Java]] and Go, and so on and so forth.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=66)** There are also Snowpark APIs currently for AWS only.
 >
@@ -653,7 +645,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=149)** So that being said, let's take a quick look.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=152)** I've already signed up, and you do get sample database by default in this free trial addition, which is handy 'cuz you can just jump in and start looking at the sample databases.
+> **[2:32](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=152)** I've already signed up, and you do get sample database by default in this free trial addition, which is handy 'cuz you can just jump in and start looking at the sample [[Databases]].
 >
 > **[2:42](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=162)** Actually there's several.
 >
@@ -675,7 +667,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=196)** And you can see that I am the account admin.
 >
-> **[3:18](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=198)** You can see this is running on Amazon Web Services in US East.
+> **[3:18](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=198)** You can see this is running on [[Amazon Web Services (AWS)|Amazon Web Services]] in US East.
 >
 > **[3:23](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=203)** Now, we have this icon for Snow site, and I've already clicked it but basically it's relatively new.
 >
@@ -683,7 +675,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=214)** SQL auto complete.
 >
-> **[3:35](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=215)** Chart visualization, usage dashboards and more.
+> **[3:35](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=215)** Chart visualization, usage [[Dashboards]] and more.
 >
 > **[3:39](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-cloud-tools?u=76281980&t=219)** So I'm going to record showing both interfaces.
 >
@@ -713,7 +705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (7), data (6), web (3), [[SQL]] (3), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[SQL]] (3), [[Databases]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (3), etl (1), aws (1), covid (1)
 > **CLI Commands:** python (1), aws (1), make (1)
 > **Definitions:** is a  (2)
@@ -722,20 +714,18 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### Use Snowpark Python worksheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/use-snowpark-python-worksheet?u=76281980)
+#### [Use Snowpark Python worksheets](https://www.linkedin.com/learning/learning-snowflakedb/use-snowpark-python-worksheet?u=76281980)
 
 
 ### 2. SnowflakeDB Data Storage and Files
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### See SnowflakeDB queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980)
+#### [See SnowflakeDB queries](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=0)** - [Instructor] We've learned that SnowflakeDB separates the control planes for maximum control and scalability.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=0)** - [Instructor] We've learned that SnowflakeDB separates the control planes for maximum control and [[Scalability]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=6)** And of course, in a database, you have to have data.
 >
@@ -761,7 +751,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=69)** So I'm in the classic UI in the worksheets view and I have the trial edition that has the sample data and then I just retrieved this other data which you would not see unless you retrieve that and we'll see that in a subsequent movie.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=83)** So in the Snowflake sample data here, you can see if I pass my mouse over this and I click on the three dots, I can view details about it, and I can see information about the various schemas that are associated here.
+> **[1:23](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=83)** So in the [[Snowflake]] sample data here, you can see if I pass my mouse over this and I click on the three dots, I can view details about it, and I can see information about the various schemas that are associated here.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=97)** So if I drill in, you can see that I have a number of different schemas with sample data and if just go into this first one, you can see that for this schema, I have associated tables and other objects.
 >
@@ -781,7 +771,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=153)** Of course, this is a query window, so I could write a query.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=156)** So if I wanted to work with another table, I'll just take a smaller one here, and if I wanted to see the place names in SQL, that would populate the name and you can see the object hierarchy there.
+> **[2:36](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=156)** So if I wanted to work with another table, I'll just take a smaller one here, and if I wanted to see the place names in [[SQL]], that would populate the name and you can see the object hierarchy there.
 >
 > **[2:46](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=166)** So if I wanted to just get all the info from this, select star from this table and then I would just run this query and then that's going to execute my first query.
 >
@@ -793,7 +783,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=193)** Now, this is really interesting because you can see, let me bring this back up again, I just get this off, that we have this information here that allows us to understand more about the query and about the information.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=208)** You can see, it tells us the types, this is kind of Tableau-like, the visual interfaces so that you can understand the data.
+> **[3:28](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=208)** You can see, it tells us the types, this is kind of [[Tableau]]-like, the visual interfaces so that you can understand the data.
 >
 > **[3:35](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=215)** It's more of an analytics kind of a view.
 >
@@ -823,7 +813,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=283)** Now, one of the other things that is interesting is you have query details and you can view the query profile which of course is like super important in terms of the overhead of the query on the compute tier.
 >
-> **[4:57](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=297)** And again, it's really very obvious and clear here that you have a compute tier, which is completely separated from a data tier that has your databases.
+> **[4:57](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=297)** And again, it's really very obvious and clear here that you have a compute tier, which is completely separated from a data tier that has your [[Databases]].
 >
 > **[5:06](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=306)** Again, it's similar, but it's just called worksheets which is your compute tier.
 >
@@ -853,13 +843,13 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=410)** And you can see there's information about the table in this particular case.
 >
-> **[6:55](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=415)** And I got the data atlas so I need to get the actual underlying data so it's like metadata about the data.
+> **[6:55](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=415)** And I got the data atlas so I need to get the actual underlying data so it's like [[Metadata]] about the data.
 >
 > **[7:00](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980&t=420)** But again, just for demonstration purposes, the marketplace here is something that I have found to be useful as I'm working with SnowflakeDB.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), database (6), [[Snowflake]] (3), [[Analytics]] (2), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Scalability]] (1), [[SQL]] (1), [[Tableau]] (1), [[Databases]] (1)
 > **Env Vars:** covid (4), sql (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -868,12 +858,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learn SnowflakeDB file ingest
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980)
+#### [Learn SnowflakeDB file ingest](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=0)** - [Instructor] So to get data into Snowflake DB Storage, which of course you'll remember is going to be Cloud Object Storage.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=0)** - [Instructor] So to get data into [[Snowflake]] DB Storage, which of course you'll remember is going to be Cloud Object Storage.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=8)** So let's just go with the case of AWS, it would be S3.
 >
@@ -889,7 +878,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=55)** And this is just kind of a visualization so that you can think about how you might get your scalable storage available in stuff like DB.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=65)** Again, the underlying storage mechanism is an object store so Amazon would be an S3 bucket Azure blob store or GCP bucket GCS.
+> **[1:05](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=65)** Again, the underlying storage mechanism is an object store so Amazon would be an S3 bucket [[Microsoft Azure|Azure]] blob store or GCP bucket GCS.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=73)** And you have the option of loading it into a Snowflake managed underlying object store or actually leaving it in the original object store it's called an external table and we'll talk a little bit more about that in a minute.
 >
@@ -899,13 +888,13 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=109)** So we are going to start with thinking about loading kind of from a high level and then we're going to drill in for some specific examples and scenarios but from a high level you're going to source your files or your data, usually from a cloud based bucket, it doesn't have to be, but that's the most general pattern.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=126)** And then you're going to create or use a file format so CSV, JSON, custom, you have to specify what is the format.
+> **[2:06](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=126)** And then you're going to create or use a file format so CSV, [[JSON]], custom, you have to specify what is the format.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=135)** Now, if you're just testing, you can load with the web UI but there's a maximum of a hundred megabytes for that so that's really just for trial scenarios.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=143)** You're normally going to use the CLI, the snow SQL CLI and you're going to load with a put command.
+> **[2:23](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=143)** You're normally going to use the [[CLI]], the snow [[SQL]] CLI and you're going to load with a put command.
 >
-> **[2:30](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=150)** Now, most typically you're going to use another object called a staging table as an intermediate layer so that you can review your load and this comes from best practices around data warehousing.
+> **[2:30](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=150)** Now, most typically you're going to use another object called a staging table as an intermediate layer so that you can review your load and this comes from best practices around [[Data Warehousing]].
 >
 > **[2:42](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-file-ingest?u=76281980&t=162)** Oftentimes data is messy or dirty or needs to be validated.
 >
@@ -941,7 +930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Snowflake]] (8), cloud (5), [[CLI]] (2), aws (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[CLI]] (2), [[Microsoft Azure|Azure]] (1), [[JSON]] (1), [[SQL]] (1)
 > **Env Vars:** cli (2), aws (1), gcp (1), gcs (1), csv (1)
 > **Definitions:** is a  (4), is an  (2), is called (1)
 > **CLI Commands:** aws (1)
@@ -949,8 +938,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Load SnowflakeDB using web UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980)
+#### [Load SnowflakeDB using web UI](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,7 +954,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=31)** And then I can add columns, so column one is a string column two, I have these data types available so you notice integer, timestamp, double, number, variable character, date, float, variant.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=46)** That's very important, the variant data type that's where you are going to get all your JSON capability, object, array and boolean.
+> **[0:46](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=46)** That's very important, the variant data type that's where you are going to get all your [[JSON]] capability, object, array and boolean.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=54)** So I'll just throw an int in here, notice nullability which is the only constraint that will be enforced.
 >
@@ -978,7 +966,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=78)** Now, if I wanted to load data into it directly, I have four steps.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=83)** Notice, this is where we start to see the compute and the data storage.
+> **[1:23](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=83)** Notice, this is where we start to see the compute and the [[Data Storage]].
 >
 > **[1:29](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=89)** At this point, it says which warehouse do you want to use?
 >
@@ -1002,7 +990,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=182)** And here is if I wanted to create a schema which again is a container for objects from our earlier movie.
 >
-> **[3:09](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=189)** Stage, I had mentioned as the best practice where you can create a stage location and notice the locations here are Snowflake or your various cloud vendors.
+> **[3:09](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=189)** Stage, I had mentioned as the best practice where you can create a stage location and notice the locations here are [[Snowflake]] or your various cloud vendors.
 >
 > **[3:20](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-web-ui?u=76281980&t=200)** And on your file formats, we've got this default format which would be used for loading, and we'll come back to these other objects in subsequent movies.
 >
@@ -1022,7 +1010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3), [[JSON]] (2), next (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Data Storage]] (1), [[Snowflake]] (1)
 > **Env Vars:** json (2), csv (2), xml (1), orc (1), etl (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (1), such as (1)
@@ -1031,12 +1019,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Best Practices:** best practice (1)
 
-#### Load SnowflakeDB from S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980)
+#### [Load SnowflakeDB from S3](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=0)** - [Instructor] At this point I want to introduce the excellent Snowflake documentation because it is such a rich set of features.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=0)** - [Instructor] At this point I want to introduce the excellent [[Snowflake]] documentation because it is such a rich set of features.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=7)** I could make a course that was, I don't know, eight hours long, 40 hours long from all the features.
 >
@@ -1048,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=42)** So this is going to, as it says, describe how to load data from files into an internal Snowflake stage into a table.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=50)** So this will be using the CLI.
+> **[0:50](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=50)** So this will be using the [[CLI]].
 >
 > **[0:53](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=53)** We're not going to take the time to do this manually but you notice there are nine steps to it and very well written.
 >
@@ -1070,7 +1057,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=113)** Very crisply written, and really useful as a next step.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=117)** In addition to that, if you have JSON data, because again great support for all things JSON in Snowflake DB, you can see that we've got a tutorial on that.
+> **[1:57](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=117)** In addition to that, if you have [[JSON]] data, because again great support for all things JSON in Snowflake DB, you can see that we've got a tutorial on that.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-from-s3?u=76281980&t=127)** And there is Parquet data as well.
 >
@@ -1088,7 +1075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (6), [[Snowflake]] (5), [[CLI]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[CLI]] (3), [[JSON]] (2)
 > **Env Vars:** cli (3), json (2), copy (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1096,14 +1083,13 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Load SnowflakeDB using Snowpipe streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-snowpipe-streams?u=76281980)
+#### [Load SnowflakeDB using Snowpipe streams](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-snowpipe-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-snowpipe-streams?u=76281980&t=0)** - [Instructor] So again, in the documentation, another type of loading is Snowpipe.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-snowpipe-streams?u=76281980&t=4)** As it says here, it's the continuous data ingestion service.
+> **[0:04](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-snowpipe-streams?u=76281980&t=4)** As it says here, it's the continuous [[Data Ingestion]] service.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-snowflakedb/load-snowflakedb-using-snowpipe-streams?u=76281980&t=7)** It loads data within minutes after files are added to a stage and submitted for ingestion.
 >
@@ -1161,25 +1147,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
+> **Frameworks & Libraries:** [[Data Ingestion]] (1)
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (2)
 > **Analogies:** for example (2)
 > **Env Vars:** on_error (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scenario: Import files and data into SnowflakeDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980)
+#### [Scenario: Import files and data into SnowflakeDB](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=0)** - [Narrator] Let's pull what we've learned about the data tier specifically loading in Snowflake DB through this blog post which you can actually run on your own.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=0)** - [Narrator] Let's pull what we've learned about the data tier specifically loading in [[Snowflake]] DB through this blog post which you can actually run on your own.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=10)** That was written by Felipe Hoffa.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=13)** Felipe is a data cloud advocate at Snowflake DB.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=16)** He was previously working, interestingly, as an advocate for BitQuery at Google.
+> **[0:16](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=16)** He was previously working, interestingly, as an advocate for BitQuery at [[Google]].
 >
 > **[0:21](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=21)** So, his examples are excellent and I highly recommend that you follow him on Medium where he tends to write them up.
 >
@@ -1191,7 +1176,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=43)** If you want to, after I get done with this, pause the video and then challenge yourself to see if you can replicate this.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=49)** So the scenario is to load all Hacker News comments into Snowflake in less than a minute, because again the idea here is to show the scalability, right, and the ability to query complex data.
+> **[0:49](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=49)** So the scenario is to load all Hacker News comments into Snowflake in less than a minute, because again the idea here is to show the [[Scalability]], right, and the ability to query complex data.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=63)** So he first tells you where you can find the Hacker News archive table, which is kind of ironic and funny.
 >
@@ -1201,9 +1186,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=79)** And he shows you how to copy it into Snowflake as Parquet, for example, and that took 16 seconds.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=90)** And on his Snowflake account, he configured a secure integration with Google Cloud Storage.
+> **[1:30](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=90)** And on his Snowflake account, he configured a secure integration with [[Google Cloud Platform (GCP)|Google Cloud]] Storage.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=96)** So, he can check that the files are there with a SQL query, and he tells you, you know, there's a link on how to do that.
+> **[1:36](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=96)** So, he can check that the files are there with a [[SQL]] query, and he tells you, you know, there's a link on how to do that.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-snowflakedb/scenario-import-files-and-data-into-snowflakedb?u=76281980&t=104)** And this demonstrates one of the great capabilities of Snowflake, which is cross cloud.
 >
@@ -1235,7 +1220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Snowflake]] (9), cloud (2), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (9), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Scalability]] (1), [[SQL]] (1)
 > **Env Vars:** aws (2), sql (1), gcp (1)
 > **CLI Commands:** aws (2), find (1)
 > **Definitions:** is a  (2)
@@ -1247,16 +1232,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use SnowflakeDB for SQL queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980)
+#### [Use SnowflakeDB for SQL queries](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980&t=0)** - [Instructor] Now we're going to take a look at Snowflake DB's database storage as it relates to query processing.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980&t=0)** - [Instructor] Now we're going to take a look at [[Snowflake]] DB's database storage as it relates to query processing.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980&t=7)** As you'll remember, Snowflake DB completely separates these control planes so that you can have maximum control and scalability.
+> **[0:07](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980&t=7)** As you'll remember, Snowflake DB completely separates these control planes so that you can have maximum control and [[Scalability]].
 >
-> **[0:14](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980&t=14)** So query processing is SQL queries, and we're going to kind of start with the basics, and then drill in as we go through this section so that you can understand functionally how to run SQL queries, and then, of course, how to get the biggest TCO or total cost of ownership benefit from Snowflake's really powerful virtual warehouse feature.
+> **[0:14](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980&t=14)** So query processing is [[SQL]] queries, and we're going to kind of start with the basics, and then drill in as we go through this section so that you can understand functionally how to run SQL queries, and then, of course, how to get the biggest TCO or total cost of ownership benefit from Snowflake's really powerful virtual warehouse feature.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980&t=34)** So let's switch over to the interface and look at running some SQL queries to get us started.
 >
@@ -1374,7 +1358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Snowflake]] (6), [[SQL]] (5), database (2), feature (2)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[SQL]] (5), [[Scalability]] (1)
 > **Env Vars:** sql (5), covid (2), tco (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Cross-References:** go back to (2)
@@ -1383,8 +1367,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand SnowflakeDB dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-dashboards?u=76281980)
+#### [Understand SnowflakeDB dashboards](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1441,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-dashboards?u=76281980&t=164)** And so there's my dashboard.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-dashboards?u=76281980&t=167)** Again, this is a common set of functionality that you'd often use a partner like Tableau or Power BI or something like that, which you could still do.
+> **[2:47](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-dashboards?u=76281980&t=167)** Again, this is a common set of functionality that you'd often use a partner like [[Tableau]] or [[Microsoft Power BI|Power BI]] or something like that, which you could still do.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-dashboards?u=76281980&t=174)** But the fact that it's integrated into Snowsight is a nice feature around queries, comprehension of queries through presentation either in a dashboard as tabular data or visualized is an important aspect of query usability.
 >
@@ -1474,7 +1457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), web (3), next (1), [[Tableau]] (1), power (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
@@ -1482,12 +1465,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and use user-defined functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980)
+#### [Create and use user-defined functions](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980&t=0)** - [Instructor] Now in addition to supporting SQL queries, ANSI SQL, and some extensions, Snowflake supports user defined functions.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980&t=0)** - [Instructor] Now in addition to supporting [[SQL]] queries, ANSI SQL, and some extensions, [[Snowflake]] supports user defined functions.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980&t=7)** And they're quite powerful.
 >
@@ -1499,9 +1481,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980&t=31)** Tabular is a table function, and then there are different ways you can write this.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980&t=36)** You can write it in SQL. You can write it in JavaScript.
+> **[0:36](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980&t=36)** You can write it in SQL. You can write it in [[JavaScript]].
 >
-> **[0:39](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980&t=39)** You can write it in Java.
+> **[0:39](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980&t=39)** You can write it in [[Java]].
 >
 > **[0:41](https://www.linkedin.com/learning/learning-snowflakedb/create-and-use-user-defined-functions?u=76281980&t=41)** Here's information about the limitations.
 >
@@ -1603,7 +1585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[Snowflake]] (2), [[JavaScript]] (2), [[Java]] (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Snowflake]] (2), [[JavaScript]] (2), [[Java]] (2)
 > **Env Vars:** sql (8), udf (2), ansi (1), dba (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Documentation:** the documentation (2)
@@ -1611,12 +1593,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimize virtual warehouses
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980)
+#### [Optimize virtual warehouses](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=0)** - [Instructor] When we're thinking about optimizing Snowflake DB, we really want to understand virtual warehouses, which is the abstraction against the underlying virtual machines or clusters of virtual machines.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=0)** - [Instructor] When we're thinking about optimizing [[Snowflake]] DB, we really want to understand virtual warehouses, which is the abstraction against the underlying [[Virtual Machines]] or clusters of virtual machines.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=11)** So you think of it as how compute and queries are run.
 >
@@ -1630,7 +1611,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=44)** And the key to understanding it is using the tools.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=48)** So before we jump over to the interface, one aspect that's important to understand is you can have multiple virtual warehouses associated to the underlying data storage 'cause remember, the layers are separate.
+> **[0:48](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=48)** So before we jump over to the interface, one aspect that's important to understand is you can have multiple virtual warehouses associated to the underlying [[Data Storage]] 'cause remember, the layers are separate.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=61)** So a common demo that I've seen for Snowflake DB is you have one virtual warehouse doing loading, and another one doing querying, which is one of the really flexible advantages but it's a different way of thinking, especially if you come from server-based where you'd have to scale up or prioritize the workloads or something like that.
 >
@@ -1710,7 +1691,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=270)** And this shows your load over time, which is similar.
 >
-> **[4:33](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=273)** And you can set your time windows here so you can see when you had load.
+> **[4:33](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=273)** And you can set your time [[Windows]] here so you can see when you had load.
 >
 > **[4:37](https://www.linkedin.com/learning/learning-snowflakedb/optimize-virtual-warehouses?u=76281980&t=277)** So the whole idea is to understand how to set this appropriately.
 >
@@ -1768,7 +1749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (8), [[Virtual Machines]] (2), data (2), management (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Virtual Machines]] (2), [[Data Storage]] (1), [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** think of it as (1), for example (1)
 > **Code Identifiers:** my_big (1)
@@ -1777,12 +1758,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 
-#### Scenario: Optimize SnowflakeDB compute
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/scenario-optimize-snowflakedb-compute?u=76281980)
+#### [Scenario: Optimize SnowflakeDB compute](https://www.linkedin.com/learning/learning-snowflakedb/scenario-optimize-snowflakedb-compute?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/scenario-optimize-snowflakedb-compute?u=76281980&t=0)** - [Instructor] Because optimizing the virtual warehouse for Snowflake DB is such a deep topic, like really all the other topics, but particularly this one in my associated companion, GitHub repo, I'll be continuing to build the information out.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/scenario-optimize-snowflakedb-compute?u=76281980&t=0)** - [Instructor] Because optimizing the virtual warehouse for [[Snowflake]] DB is such a deep topic, like really all the other topics, but particularly this one in my associated companion, [[GitHub]] repo, I'll be continuing to build the information out.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-snowflakedb/scenario-optimize-snowflakedb-compute?u=76281980&t=13)** Anything that I mention here will be linked, but I'm going to continue to build this up because it's a frankly a topic I'm working on with some of my customers.
 >
@@ -1848,7 +1828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (11), data (2), [[GitHub]] (1), concurrent (1)
+> **Frameworks & Libraries:** [[Snowflake]] (11), [[GitHub]] (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Documentation:** the documentation (2)
 > **Tools:** github (1)
@@ -1862,8 +1842,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand SnowflakeDB account usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-account-usage?u=76281980)
+#### [Understand SnowflakeDB account usage](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-account-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1925,14 +1904,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (1), [[Security]] (1), management (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learn SnowflakeDB authentication and authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-authentication-and-authorization?u=76281980)
+#### [Learn SnowflakeDB authentication and authorization](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-authentication-and-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1982,7 +1959,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-authentication-and-authorization?u=76281980&t=100)** I can see who's been granted that role, and I can edit the role if I want to.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-authentication-and-authorization?u=76281980&t=106)** There's the SQL, kind of familiar by now, and I could drop the role if I wanted to.
+> **[1:46](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-authentication-and-authorization?u=76281980&t=106)** There's the [[SQL]], kind of familiar by now, and I could drop the role if I wanted to.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-authentication-and-authorization?u=76281980&t=111)** Now, in addition to that we have this Reader Account capability and I created a Reader Account.
 >
@@ -2004,7 +1981,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-authentication-and-authorization?u=76281980&t=157)** So, you don't see anything here.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-authentication-and-authorization?u=76281980&t=159)** You don't see any databases.
+> **[2:39](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-authentication-and-authorization?u=76281980&t=159)** You don't see any [[Databases]].
 >
 > **[2:40](https://www.linkedin.com/learning/learning-snowflakedb/learn-snowflakedb-authentication-and-authorization?u=76281980&t=160)** You don't see any warehouses because it has to be explicitly assigned.
 >
@@ -2018,14 +1995,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[SQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** accountadmin (2), my_role (1), sql (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review Snowflake DB sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflake-db-sessions?u=76281980)
+#### [Review Snowflake DB sessions](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflake-db-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2047,19 +2023,18 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflake-db-sessions?u=76281980&t=55)** So you can just manage the session information from a viewpoint here.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflake-db-sessions?u=76281980&t=60)** So you have session information which is an aspect of managing Security in Snowflake DB.
+> **[1:00](https://www.linkedin.com/learning/learning-snowflakedb/review-snowflake-db-sessions?u=76281980&t=60)** So you have session information which is an aspect of managing Security in [[Snowflake]] DB.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), next (1), data (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (1)
 > **Env Vars:** mfa (4)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement SnowflakeDB policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/implement-snowflakedb-policies?u=76281980)
+#### [Implement SnowflakeDB policies](https://www.linkedin.com/learning/learning-snowflakedb/implement-snowflakedb-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2089,7 +2064,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-snowflakedb/implement-snowflakedb-policies?u=76281980&t=78)** And just for completeness here on the Snow site side, just like on the classic side because this is a trial account, I don't have any billing information.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-snowflakedb/implement-snowflakedb-policies?u=76281980&t=89)** And the organizational information is not really relevant because this is an account set up by Snowflake, it's a free trial.
+> **[1:29](https://www.linkedin.com/learning/learning-snowflakedb/implement-snowflakedb-policies?u=76281980&t=89)** And the organizational information is not really relevant because this is an account set up by [[Snowflake]], it's a free trial.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-snowflakedb/implement-snowflakedb-policies?u=76281980&t=97)** This would be, of course, important in any sort of production situation, as well as having notification contacts.
 >
@@ -2097,23 +2072,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scenario: Secure data on SnowflakeDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980)
+#### [Scenario: Secure data on SnowflakeDB](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980&t=0)** - [Instructor] As with the other sections of this course I've added key links to my associated GitHub repo.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980&t=0)** - [Instructor] As with the other sections of this course I've added key links to my associated [[GitHub]] repo.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980&t=6)** And I want to highlight some of them here.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980&t=8)** First from the Snowflake documentation they have an excellent summary of security features that are available in this section here, the Summary of Security Features.
+> **[0:08](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980&t=8)** First from the [[Snowflake]] documentation they have an excellent summary of security features that are available in this section here, the Summary of Security Features.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980&t=19)** And you're going to want to secure in-depth across all these different domains.
 >
@@ -2143,7 +2117,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980&t=86)** So just, in general, securing at the network boundaries is part of the security implementation for any Snowflake usage.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980&t=95)** So inside of here, they focus on multi-tiered security and they give patterns, I'll scroll down here, for both Azure, and they are very specific in terms of the most common use case.
+> **[1:35](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980&t=95)** So inside of here, they focus on multi-tiered security and they give patterns, I'll scroll down here, for both [[Microsoft Azure|Azure]], and they are very specific in terms of the most common use case.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-snowflakedb/scenario-secure-data-on-snowflakedb?u=76281980&t=110)** So what they're talking about here is the different security perimeter boundaries enforced by policies as we just looked at around Snowflake itself.
 >
@@ -2159,7 +2133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Snowflake]] (8), [[Microsoft Azure|Azure]] (3), aws (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Microsoft Azure|Azure]] (3), [[GitHub]] (1)
 > **Env Vars:** aws (2), hipaa (1), pci (1)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** for example (2)
@@ -2173,16 +2147,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn the Snowflake data life cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980)
+#### [Learn the Snowflake data life cycle](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=0)** - [Instructor] As we think about patterns and integrations, I am pulling again from the Snowflake documentation here.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=0)** - [Instructor] As we think about patterns and integrations, I am pulling again from the [[Snowflake]] documentation here.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=7)** This is a great graphic showing the data lifecycle, and that's really what we organize our services around.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=14)** So you can see that we start with organizing data by creating databases, schemas, and tables, and then we store data, we insert into our tables, then we query, and then we're going to work with our data, update, merge or delete.
+> **[0:14](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=14)** So you can see that we start with organizing data by creating [[Databases]], schemas, and tables, and then we store data, we insert into our tables, then we query, and then we're going to work with our data, update, merge or delete.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=32)** And we might be cloning our tables, schemas and databases.
 >
@@ -2190,7 +2163,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=37)** In some scenarios data's never removed, it's just marked as not current or active, but if we need to remove it, truncate table, drop table, drop schema, or drop database.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=47)** When we think about this, this can be accomplished in as simple as using anti-SQL commands, or we can use some of the tools available in Snowflake, or in some of our hosting cloud partners.
+> **[0:47](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=47)** When we think about this, this can be accomplished in as simple as using anti-[[SQL]] commands, or we can use some of the tools available in Snowflake, or in some of our hosting cloud partners.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=61)** Now, to show you some example architectures to get you thinking about this, let's look at our first one here.
 >
@@ -2212,29 +2185,29 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=112)** Now, we integrate our Snowflake instance here with other Amazon services.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=118)** So Kinesis for piping, S3 Buckets for storage, and then we have a load process that runs on EC2 which is the VMs and a notification with SNS.
+> **[1:58](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=118)** So Kinesis for piping, S3 Buckets for storage, and then we have a load process that runs on [[Amazon EC2|EC2]] which is the VMs and a notification with SNS.
 >
-> **[2:10](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=130)** So we have a Snowflake File Loader written in Python, a validator written in Python, a transformer written in Python, and then we have a file manager that's written in either Python, Java, or Node JS.
+> **[2:10](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=130)** So we have a Snowflake File Loader written in [[Python (Programming Language)|Python]], a validator written in Python, a transformer written in Python, and then we have a file manager that's written in either Python, [[Java]], or Node JS.
 >
 > **[2:21](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=141)** And the entire set of services consists of the pipeline.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=145)** This is a really common kind of pattern.
 >
-> **[2:27](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=147)** The only thing that I would say that I'm starting to do differently is I'm implementing at the compute layer instead of EC2 VMs, Kubernetes instances of Docker container images.
+> **[2:27](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=147)** The only thing that I would say that I'm starting to do differently is I'm implementing at the compute layer instead of EC2 VMs, [[Kubernetes]] instances of Docker container images.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=159)** Now, if we look at an example on Azure, it's similar that we have Snowflake being the data warehouse, sort of the center of the architecture here, but we have integrations both with Microsoft Azure Services and partners, which is again another pattern.
+> **[2:39](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=159)** Now, if we look at an example on [[Microsoft Azure|Azure]], it's similar that we have Snowflake being the data warehouse, sort of the center of the architecture here, but we have integrations both with [[Microsoft Azure]] Services and partners, which is again another pattern.
 >
-> **[2:55](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=175)** So in this particular case, we're ingesting unstructured data into the Azure Data Factory service.
+> **[2:55](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=175)** So in this particular case, we're ingesting [[Unstructured Data]] into the Azure Data Factory service.
 >
 > **[3:01](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=181)** We're using Azure Blob Storage and Data Lake storage as our first storage location.
 >
 > **[3:07](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=187)** We are directly sending some of that Blob storage into Snowflake on Azure.
 >
-> **[3:13](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=193)** However, we're doing other types of processing using both Azure machine learning and Azure Databricks or HDInsight for Spark processing.
+> **[3:13](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=193)** However, we're doing other types of processing using both Azure machine learning and [[Azure Databricks]] or HDInsight for Spark processing.
 >
-> **[3:22](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=202)** There we're utilizing the Databricks Spark connector for Snowflake so that we can then process that data and then use Power BI for our visualizer through a data gateway.
+> **[3:22](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=202)** There we're utilizing the Databricks Spark connector for Snowflake so that we can then process that data and then use [[Microsoft Power BI|Power BI]] for our visualizer through a data gateway.
 >
-> **[3:34](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=214)** Or we could alternatively use some of the partner ecosystem visualizers, such as Tableau.
+> **[3:34](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=214)** Or we could alternatively use some of the partner ecosystem visualizers, such as [[Tableau]].
 >
 > **[3:40](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980&t=220)** Notice also on the left side we have partner ecosystem for the ingest.
 >
@@ -2244,7 +2217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Snowflake]] (9), [[Microsoft Azure|Azure]] (5), [[Python (Programming Language)|Python]] (4), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (9), [[Microsoft Azure|Azure]] (5), [[Python (Programming Language)|Python]] (4), [[Databases]] (2), [[Amazon EC2|Ec2]] (2)
 > **CLI Commands:** python (4), node (1), docker (1)
 > **Env Vars:** ec2 (2), sql (1), sns (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -2252,12 +2225,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use SnowflakeDB Data Marketplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-data-marketplace?u=76281980)
+#### [Use SnowflakeDB Data Marketplace](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-data-marketplace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-data-marketplace?u=76281980&t=0)** - [Instructor] In addition to the integrations that we've been discussing in this course, I would be remiss if I didn't talk about two rich integration points within Snowflake in a little more detail.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-data-marketplace?u=76281980&t=0)** - [Instructor] In addition to the integrations that we've been discussing in this course, I would be remiss if I didn't talk about two rich integration points within [[Snowflake]] in a little more detail.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-data-marketplace?u=76281980&t=9)** In Snowsight here I'm under the data section under the marketplace.
 >
@@ -2305,7 +2277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Snowflake]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** covid (1)
 > **Cross-References:** earlier in (1)
@@ -2313,16 +2285,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use SnowflakeDB Partner Connect
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-partner-connect?u=76281980)
+#### [Use SnowflakeDB Partner Connect](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-partner-connect?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-partner-connect?u=76281980&t=0)** - [Instructor] So another integration is through services and these services are independent third-party vendors.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-partner-connect?u=76281980&t=6)** They're not Snowflake DB, and they often provide services around what I call the ingest, or the output of your pipeline.
+> **[0:06](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-partner-connect?u=76281980&t=6)** They're not [[Snowflake]] DB, and they often provide services around what I call the ingest, or the output of your pipeline.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-partner-connect?u=76281980&t=14)** So ETL, data cleansing, data validation, streaming, or visualization, and they have a rich set of partners.
+> **[0:14](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-partner-connect?u=76281980&t=14)** So ETL, data cleansing, [[Data Validation]], streaming, or visualization, and they have a rich set of partners.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-partner-connect?u=76281980&t=21)** These are only available in the classic console.
 >
@@ -2354,19 +2325,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (4), etl (4), data (4), management (1), database (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Data Validation]] (1)
 > **Env Vars:** etl (4)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scenario: Design and build solutions with SnowflakeDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980)
+#### [Scenario: Design and build solutions with SnowflakeDB](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=0)** - [Narrator] To kind of end out our discussion of architectures and patterns, I'm going to return to Snowflake's pattern section, and just go through one so you can kind of understand how much information we have here.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=0)** - [Narrator] To kind of end out our discussion of architectures and patterns, I'm going to return to [[Snowflake]]'s pattern section, and just go through one so you can kind of understand how much information we have here.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=13)** So this is Ingestion.
 >
@@ -2406,13 +2376,13 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=82)** They want weather reference data loaded into Snowflake automatically.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=86)** And they talk about integration with another AWS service IoT core.
+> **[1:26](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=86)** And they talk about integration with another AWS service [[IoT]] core.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=93)** This is for facilitation of messages in small formats in the event type formats in protocols such as MQTT, for example.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=101)** So here that goes in to very good detail about the Ingest preparation.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=106)** And in this case, we're using JSON data.
+> **[1:46](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=106)** And in this case, we're using [[JSON]] data.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=108)** And it tells us details that are important about like when we would split file sizes, for example.
 >
@@ -2422,13 +2392,13 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=128)** And it's just got tons of content by industry, workload, department, content type, and then has even translated content.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=139)** So I will continue to add architectural information out on my GitHub as well.
+> **[2:19](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=139)** So I will continue to add architectural information out on my [[GitHub]] as well.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-snowflakedb/scenario-design-and-build-solutions-with-snowflakedb?u=76281980&t=144)** But I think this is a very rich source of information and I definitely recommend going here first when you're trying to get architectural patterns for your Snowflake workloads.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (3), data (3), aws (1), [[IoT]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[IoT]] (1), [[JSON]] (1), [[GitHub]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2), for example (2)
 > **Env Vars:** aws (1), mqtt (1), json (1)
@@ -2442,14 +2412,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/keep-learning?u=76281980)
+#### [Keep learning](https://www.linkedin.com/learning/learning-snowflakedb/keep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/keep-learning?u=76281980&t=0)** - [Lynn] We've really just scratched the surface of all that you can do with Snowflake DB, so if you, like me, are wanting to learn more, let's learn together, so here are a bunch of resources.
+> **[0:00](https://www.linkedin.com/learning/learning-snowflakedb/keep-learning?u=76281980&t=0)** - [Lynn] We've really just scratched the surface of all that you can do with [[Snowflake]] DB, so if you, like me, are wanting to learn more, let's learn together, so here are a bunch of resources.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-snowflakedb/keep-learning?u=76281980&t=12)** On the top of this is my associated GitHub repo, which I have for basically all my LinkedIn Learning courses, and I'll be actively updating as I continue to work with customers on my professional consultancy, and I encourage you to contribute.
+> **[0:12](https://www.linkedin.com/learning/learning-snowflakedb/keep-learning?u=76281980&t=12)** On the top of this is my associated [[GitHub]] repo, which I have for basically all my [[LinkedIn]] Learning courses, and I'll be actively updating as I continue to work with customers on my professional consultancy, and I encourage you to contribute.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-snowflakedb/keep-learning?u=76281980&t=26)** In addition, top resources are the associated user guide, the Awesome Snowflake DB link list, and the Medium blog for the Snowflake DB company, and again, just jumping out to my GitHub.
 >

@@ -84,18 +84,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimize your CI/CD: Advanced techniques with Bitbucket Pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980)
+#### [Optimize your CI/CD: Advanced techniques with Bitbucket Pipelines](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980&t=0)** - Hey, I got a question for you.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980&t=2)** Did you know that mastering advanced CI/CD techniques can drastically optimize your build times and improve your software development workflows?
+> **[0:02](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980&t=2)** Did you know that mastering advanced CI/CD techniques can drastically optimize your build times and improve your [[Software Development]] workflows?
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980&t=11)** Without these skills, you might find yourself struggling with inefficient workflows and delayed deployments.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980&t=18)** Hi, I'm Michael Jenkins, a computer engineer with years of experience solving complex CI/CD challenges using Bitbucket Pipelines.
+> **[0:18](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980&t=18)** Hi, I'm Michael [[Jenkins]], a computer engineer with years of experience solving complex CI/CD challenges using [[Bitbucket]] Pipelines.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980&t=27)** Join me in this course to learn how to reduce build times, harness the power of pipeline components, and deploy self-hosted runners for ultimate control over your build environments.
 >
@@ -103,17 +102,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (2), cd (2), [[Bitbucket]] (2), [[Software Development]] (1), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (2), [[Software Development]] (1), [[Jenkins]] (1)
 > **CLI Commands:** cd (2), find (1)
 > **Tools:** bitbucket (2)
 > **Speakers:** - hey (1)
 
-#### Bitbucket Pipelines review
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/bitbucket-pipelines-review?u=76281980)
+#### [Bitbucket Pipelines review](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/bitbucket-pipelines-review?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/bitbucket-pipelines-review?u=76281980&t=0)** - [Instructor] Before we get started, let's do a quick review of the main parts of a Bitbucket pipeline's configuration.
+> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/bitbucket-pipelines-review?u=76281980&t=0)** - [Instructor] Before we get started, let's do a quick review of the main parts of a [[Bitbucket]] pipeline's configuration.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/bitbucket-pipelines-review?u=76281980&t=8)** Let's start with a configuration file, bitbucket-pipelines.yaml.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (5), ci (1), cd (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (5)
 > **Tools:** bitbucket (5)
 > **CLI Commands:** docker (2), cd (1)
 > **File Paths:** bitbucket-pipelines.yaml (2)
@@ -165,8 +163,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimizing pipeline performance and reducing build times
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimizing-pipeline-performance-and-reducing-build-times?u=76281980)
+#### [Optimizing pipeline performance and reducing build times](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimizing-pipeline-performance-and-reducing-build-times?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimizing-pipeline-performance-and-reducing-build-times?u=76281980&t=17)** In other words, optimized pipelines can make a real difference in how quickly ideas make it to production.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimizing-pipeline-performance-and-reducing-build-times?u=76281980&t=24)** Let's explore four strategies we can use to optimize Bitbucket Pipelines, configuring maximum runtime, configuring runner sizes, using conditional steps in a pipeline, and caching dependencies.
+> **[0:24](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimizing-pipeline-performance-and-reducing-build-times?u=76281980&t=24)** Let's explore four strategies we can use to optimize [[Bitbucket]] Pipelines, configuring maximum runtime, configuring runner sizes, using conditional steps in a pipeline, and caching dependencies.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimizing-pipeline-performance-and-reducing-build-times?u=76281980&t=38)** Each of these strategies can significantly improve pipeline performance and contribute to faster, more efficient deployments.
 >
@@ -196,8 +193,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - i (1)
 
-#### Configure maximum runtime
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-maximum-runtime?u=76281980)
+#### [Configure maximum runtime](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-maximum-runtime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,7 +203,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-maximum-runtime?u=76281980&t=13)** Whatever the case, a pipeline that never ends can tie up deployments and waste build minutes.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-maximum-runtime?u=76281980&t=20)** Thankfully, Bitbucket Pipelines provides a way to handle this proactively.
+> **[0:20](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-maximum-runtime?u=76281980&t=20)** Thankfully, [[Bitbucket]] Pipelines provides a way to handle this proactively.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-maximum-runtime?u=76281980&t=25)** We can use the Max-time option to set a maximum runtime for the entire pipeline, or we can use this same setting for specific steps.
 >
@@ -235,8 +231,7 @@ created: 2026-05-02
 > **Tools:** bitbucket (2)
 > **Speakers:** - [instructor] (1)
 
-#### Configure resource allocation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-resource-allocation?u=76281980)
+#### [Configure resource allocation](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-resource-allocation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,7 +251,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-resource-allocation?u=76281980&t=64)** There are also 4x and 8x size options which provide even more CPU, RAM and storage.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-resource-allocation?u=76281980&t=72)** However, the 4x and 8x options are only available for Bitbucket accounts using a paid plan.
+> **[1:12](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-resource-allocation?u=76281980&t=72)** However, the 4x and 8x options are only available for [[Bitbucket]] accounts using a paid plan.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/configure-resource-allocation?u=76281980&t=80)** So if you're on the free plan, the 4x and 8x sizes won't be available for you to use.
 >
@@ -310,8 +305,7 @@ created: 2026-05-02
 > **Analogies:** compare this to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use conditional steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980)
+#### [Use conditional steps](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,7 +315,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=10)** Monorepos have the advantage of keeping all the code together in one place, which can make it easier to manage shared dependencies and increased collaboration.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=19)** However, when it comes to continuous integration and deployment, monorepos present the challenge of developing efficient workflows that support multiple code bases.
+> **[0:19](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=19)** However, when it comes to [[Continuous Integration (CI)|continuous integration]] and deployment, monorepos present the challenge of developing efficient workflows that support multiple code bases.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=29)** For example, changing the code in one project in the repo may trigger pipeline runs on other projects where the code hasn't changed.
 >
@@ -329,7 +323,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=42)** We can optimize monorepo pipelines by only running build steps when specific code has changed.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=50)** Bitbucket allows us to use a condition directive to run steps only if certain files have changed.
+> **[0:50](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=50)** [[Bitbucket]] allows us to use a condition directive to run steps only if certain files have changed.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=57)** We can apply conditions and change sets at the stage and step levels.
 >
@@ -341,7 +335,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=82)** Let's consider this Monorepo.
 >
-> **[1:24](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=84)** It's a single repository with two projects, one with Python code and another with Ruby Code.
+> **[1:24](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=84)** It's a single repository with two projects, one with [[Python (Programming Language)|Python]] code and another with Ruby Code.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-conditional-steps?u=76281980&t=92)** Both projects have their own test suites.
 >
@@ -392,16 +386,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cache dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980)
+#### [Cache dependencies](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980&t=0)** - [Instructor] Most software projects use dependencies to add functionality.
+> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980&t=0)** - [Instructor] Most [[Software Projects]] use dependencies to add functionality.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980&t=5)** These dependencies are downloaded from remote locations.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980&t=9)** For example, Python projects might use the Pandas library for data processing, and JavaScript projects might use React for building user interfaces.
+> **[0:09](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980&t=9)** For example, [[Python (Programming Language)|Python]] projects might use the [[Pandas (Software)|Pandas]] library for [[Data Processing]], and [[JavaScript]] projects might use [[React.js|React]] for building user interfaces.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980&t=20)** On our local machines, we download these dependencies once and reuse them, but in pipelines, each run starts from scratch, meaning dependencies are downloaded every time.
 >
@@ -409,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980&t=41)** To speed things up, we can cache dependencies.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980&t=45)** Bitbucket provides predefined caches for several popular programming languages and development tools.
+> **[0:45](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980&t=45)** [[Bitbucket]] provides predefined caches for several popular programming languages and development tools.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/cache-dependencies?u=76281980&t=52)** Just adding the caches configuration to the steps that can use them can easily shorten pipeline runs.
 >
@@ -463,7 +456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (4), [[Python (Programming Language)|Python]] (3), [[Software Projects]] (1), [[Pandas (Software)|Pandas]] (1), data (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (4), [[Python (Programming Language)|Python]] (3), [[Software Projects]] (1), [[Pandas (Software)|Pandas]] (1), [[Data Processing]] (1)
 > **CLI Commands:** ruby (4), python (3), make (1)
 > **Tools:** bitbucket (4)
 > **Exercise Files:** exercise files (1), download the (1)
@@ -472,8 +465,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
 
-#### Solution: Optimize a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-optimize-a-pipeline?u=76281980)
+#### [Solution: Optimize a pipeline](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-optimize-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -485,7 +477,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-optimize-a-pipeline?u=76281980&t=12)** Starting with the original pipeline configuration.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-optimize-a-pipeline?u=76281980&t=15)** We're using a Python image, and this pipeline has one step.
+> **[0:15](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-optimize-a-pipeline?u=76281980&t=15)** We're using a [[Python (Programming Language)|Python]] image, and this pipeline has one step.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-optimize-a-pipeline?u=76281980&t=20)** The script has two commands.
 >
@@ -529,7 +521,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-optimize-a-pipeline?u=76281980&t=124)** I also added a cache for pip.
 >
-> **[2:07](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-optimize-a-pipeline?u=76281980&t=127)** This is the default cache that Bitbucket pipelines makes available for us to use.
+> **[2:07](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-optimize-a-pipeline?u=76281980&t=127)** This is the default cache that [[Bitbucket]] pipelines makes available for us to use.
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-optimize-a-pipeline?u=76281980&t=132)** So I'm just taking advantage of that.
 >
@@ -575,7 +567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (1), [[Bitbucket]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** pip (4), python (1), make (1)
 > **Env Vars:** pip (3)
 > **Prerequisites:** install (1), setup (1)
@@ -589,12 +581,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting to know pipes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/getting-to-know-pipes?u=76281980)
+#### [Getting to know pipes](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/getting-to-know-pipes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/getting-to-know-pipes?u=76281980&t=0)** - In this chapter, we'll ramp up with one of Bitbucket Pipeline's most powerful features, pipes.
+> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/getting-to-know-pipes?u=76281980&t=0)** - In this chapter, we'll ramp up with one of [[Bitbucket]] Pipeline's most powerful features, pipes.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/getting-to-know-pipes?u=76281980&t=6)** Pipes are prepackaged commands that simplify complex tasks in your CI/CD pipelines.
 >
@@ -622,15 +613,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (4), ci (1), cd (1), cloud (1), application (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (4)
 > **Tools:** bitbucket (4)
 > **CLI Commands:** cd (1), docker (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - in (1)
 
-#### Use a pipe in a pipeline configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-in-a-pipeline-configuration?u=76281980)
+#### [Use a pipe in a pipeline configuration](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-in-a-pipeline-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,11 +634,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-in-a-pipeline-configuration?u=76281980&t=20)** This repo also contains a pipeline configuration.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-in-a-pipeline-configuration?u=76281980&t=24)** We'll use this configuration to run a pipe that lints files used to deploy infrastructure as code.
+> **[0:24](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-in-a-pipeline-configuration?u=76281980&t=24)** We'll use this configuration to run a pipe that lints files used to deploy [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-in-a-pipeline-configuration?u=76281980&t=30)** The scanner checks for misconfigurations, potential security vulnerabilities, best practices for the target platform, and much more.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-in-a-pipeline-configuration?u=76281980&t=39)** When the scan completes, we'll be able to see a summary of all the findings as a report, right in the Bitbucket interface.
+> **[0:39](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-in-a-pipeline-configuration?u=76281980&t=39)** When the scan completes, we'll be able to see a summary of all the findings as a report, right in the [[Bitbucket]] interface.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-in-a-pipeline-configuration?u=76281980&t=46)** Let's see how that works.
 >
@@ -670,7 +660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Bitbucket]] (2), aws (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** docker (2), find (2), aws (1)
 > **Exercise Files:** template (3), exercise files (1)
 > **Tools:** bitbucket (2)
@@ -679,8 +669,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Use a pipe to deploy code to AWS Lambda
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-to-deploy-code-to-aws-lambda?u=76281980)
+#### [Use a pipe to deploy code to AWS Lambda](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-pipe-to-deploy-code-to-aws-lambda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,27 +727,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), application (1), next (1)
 > **CLI Commands:** aws (6), make (1), docker (1)
 > **Env Vars:** aws (6)
 > **Exercise Files:** zip file (1), exercise files (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Use pipes in a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-use-pipes-in-a-pipeline?u=76281980)
+#### [Solution: Use pipes in a pipeline](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-use-pipes-in-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-use-pipes-in-a-pipeline?u=76281980&t=0)** - [Instructor] Yes, that groovy music means it's time to discuss the solution for this challenge, so let's jump right in.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-use-pipes-in-a-pipeline?u=76281980&t=12)** I added the Exercise Files to a new repo, and then I created an access token named Statistics.
+> **[0:12](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-use-pipes-in-a-pipeline?u=76281980&t=12)** I added the Exercise Files to a new repo, and then I created an access token named [[Statistics]].
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-use-pipes-in-a-pipeline?u=76281980&t=19)** This token gives permission to read pipelines and write to the Repository Downloads page.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-use-pipes-in-a-pipeline?u=76281980&t=25)** I stored this token in a secure repository variable because this is a sensitive value.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-use-pipes-in-a-pipeline?u=76281980&t=31)** It's pretty much like a password that we can use to access the Bitbucket API from a pipeline, so we need to protect it.
+> **[0:31](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-use-pipes-in-a-pipeline?u=76281980&t=31)** It's pretty much like a password that we can use to access the [[Bitbucket]] API from a pipeline, so we need to protect it.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-use-pipes-in-a-pipeline?u=76281980&t=39)** Now let's check out the pipeline configuration.
 >
@@ -800,7 +787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (6), [[Bitbucket]] (1), api (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[Bitbucket]] (1)
 > **Env Vars:** api (1), statistics_access_token (1)
 > **CLI Commands:** docker (1)
 > **Tools:** bitbucket (1)
@@ -814,12 +801,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to use custom pipes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980)
+#### [When to use custom pipes](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=0)** - Pipes are portable, reusable packages that we can use in our Bitbucket pipelines.
+> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=0)** - Pipes are portable, reusable packages that we can use in our [[Bitbucket]] pipelines.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=5)** There are plenty of pipes available, but there are also plenty of situations where developing our own pipe might be a better solution.
 >
@@ -841,13 +827,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=81)** In addition to the requirements of a simple pipe, a complete pipe is required to have a few more things.
 >
-> **[1:27](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=87)** You'll also need a metadata file to define inputs and outputs, a README file for documentation, and a test suite to make sure the pipe is working as intended.
+> **[1:27](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=87)** You'll also need a [[Metadata]] file to define inputs and outputs, a README file for documentation, and a test suite to make sure the pipe is working as intended.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=100)** I should add that only complete pipes can be published to the Atlassian marketplace.
+> **[1:40](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=100)** I should add that only complete pipes can be published to the [[Atlassian]] marketplace.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=106)** To help us get started, Atlassian provides tools that can speed up our pipeline development.
 >
-> **[1:52](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=112)** This includes a command line tool that uses input to generate the project structure for a pipe, Python, and Bash libraries with classes and functions we can use to interact with the pipeline's environment, and plenty of example pipes that we can use for inspiration and as references while we develop pipes of our own.
+> **[1:52](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=112)** This includes a command line tool that uses input to generate the project structure for a pipe, [[Python (Programming Language)|Python]], and Bash libraries with classes and functions we can use to interact with the pipeline's environment, and plenty of example pipes that we can use for inspiration and as references while we develop pipes of our own.
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980&t=132)** Whether you need a quick solution for your team, or a polished tool for the entire community, creating a custom pipe can be an excellent addition to your automation toolbox.
 >
@@ -855,21 +841,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Atlassian]] (2), [[Bitbucket]] (1), [[Metadata]] (1), [[Python (Programming Language)|Python]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Atlassian]] (2), [[Bitbucket]] (1), [[Metadata]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), docker (1), python (1)
 > **Tools:** bitbucket (1), command line (1), bash (1)
 > **Env Vars:** readme (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - pipes (1)
 
-#### Develop a custom pipe
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980)
+#### [Develop a custom pipe](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980&t=0)** - [Instructor] As I start creating a new pipe, I've cloned a new repo to my local system and created a Python virtual environment.
+> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980&t=0)** - [Instructor] As I start creating a new pipe, I've cloned a new repo to my local system and created a [[Python (Programming Language)|Python]] virtual environment.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980&t=8)** First, I'll install the Yeoman Generator tool and the generator for Bitbucket Pipes.
+> **[0:08](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980&t=8)** First, I'll install the Yeoman Generator tool and the generator for [[Bitbucket]] Pipes.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980&t=25)** Now I can use the yo command to start the pipe generator.
 >
@@ -937,7 +922,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980&t=317)** Now let's take a look at the repo in the web interface.
 >
-> **[5:21](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980&t=321)** Now that we pushed the files for our custom pipe, our repo is decked out with everything it needs for the Atlassian Marketplace.
+> **[5:21](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980&t=321)** Now that we pushed the files for our custom pipe, our repo is decked out with everything it needs for the [[Atlassian]] Marketplace.
 >
 > **[5:35](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/develop-a-custom-pipe?u=76281980&t=335)** Most importantly, we have a README file showing how to fit the pipe in a pipeline, the variables that are defined, and we even get a few examples showing how to call the pipe.
 >
@@ -949,7 +934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Bitbucket]] (2), next (2), prompt (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Bitbucket]] (2), [[Atlassian]] (1)
 > **CLI Commands:** python (2), make (2), pip (1)
 > **Tools:** bitbucket (2), vim (1), terminal (1), command line (1)
 > **Env Vars:** readme (2), ide (1)
@@ -958,12 +943,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1), exercise files (1)
 > **Definitions:** is a  (1), refers to (1)
 
-#### Test a custom pipe
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/test-a-custom-pipe?u=76281980)
+#### [Test a custom pipe](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/test-a-custom-pipe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/test-a-custom-pipe?u=76281980&t=0)** - [Instructor] I've used the Bitbucket Pipe Generator to create a custom pipe, and now I'm viewing the test suite that was generated.
+> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/test-a-custom-pipe?u=76281980&t=0)** - [Instructor] I've used the [[Bitbucket]] Pipe Generator to create a custom pipe, and now I'm viewing the test suite that was generated.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/test-a-custom-pipe?u=76281980&t=8)** Lines four through 22 show how the test suite uses Docker to build the pipe locally and run tests.
 >
@@ -989,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (1), next (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (1)
 > **CLI Commands:** docker (4), make (1)
 > **Tools:** bitbucket (1), command line (1)
 > **Cross-References:** in the next (1)
@@ -997,8 +981,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploy a custom pipe to a container registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/deploy-a-custom-pipe-to-a-container-registry?u=76281980)
+#### [Deploy a custom pipe to a container registry](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/deploy-a-custom-pipe-to-a-container-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,9 +1009,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/deploy-a-custom-pipe-to-a-container-registry?u=76281980&t=66)** I'll select my account icon, and then I'll select account settings.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/deploy-a-custom-pipe-to-a-container-registry?u=76281980&t=85)** Under security, I'll select Personal access tokens.
+> **[1:25](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/deploy-a-custom-pipe-to-a-container-registry?u=76281980&t=85)** Under security, I'll select Personal access [[Tokens]].
 >
-> **[1:33](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/deploy-a-custom-pipe-to-a-container-registry?u=76281980&t=93)** On this page, I can create a token that Bitbucket can use to access my Docker Hub account.
+> **[1:33](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/deploy-a-custom-pipe-to-a-container-registry?u=76281980&t=93)** On this page, I can create a token that [[Bitbucket]] can use to access my Docker Hub account.
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/deploy-a-custom-pipe-to-a-container-registry?u=76281980&t=98)** The token is like a password, but it's a little easier to manage.
 >
@@ -1074,7 +1057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Security]] (1), [[Tokens]] (1), [[Bitbucket]] (1), feature (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** docker (7), make (1)
 > **UI Navigation:** go to (2), toggle (1), select the (1)
 > **Code Identifiers:** registry_password (1), registry_username (1)
@@ -1083,8 +1066,7 @@ created: 2026-05-02
 > **Tools:** bitbucket (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a custom pipe in a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-custom-pipe-in-a-pipeline?u=76281980)
+#### [Use a custom pipe in a pipeline](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-a-custom-pipe-in-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1117,8 +1099,7 @@ created: 2026-05-02
 > **CLI Commands:** docker (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Develop a custom pipe
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-develop-a-custom-pipe?u=76281980)
+#### [Solution: Develop a custom pipe](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-develop-a-custom-pipe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1113,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-develop-a-custom-pipe?u=76281980&t=20)** Everything is passing, so we know we're starting from a good state.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-develop-a-custom-pipe?u=76281980&t=24)** Taking a look at the code that's provided, it looks like the team started out with a Bitbucket pipe generator.
+> **[0:24](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-develop-a-custom-pipe?u=76281980&t=24)** Taking a look at the code that's provided, it looks like the team started out with a [[Bitbucket]] pipe generator.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-develop-a-custom-pipe?u=76281980&t=30)** The script is passed in a name variable and the value for that variable gets printed.
 >
@@ -1178,7 +1159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (1), next (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (1)
 > **Code Identifiers:** customer_id (5)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -1192,12 +1173,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to use self-hosted runners
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-self-hosted-runners?u=76281980)
+#### [When to use self-hosted runners](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-self-hosted-runners?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-self-hosted-runners?u=76281980&t=0)** - When we use Bitbucket Pipelines, we can rely on Atlassian's cloud-hosted runners for convenience and scalability.
+> **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-self-hosted-runners?u=76281980&t=0)** - When we use [[Bitbucket]] Pipelines, we can rely on [[Atlassian]]'s cloud-hosted runners for convenience and [[Scalability]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-self-hosted-runners?u=76281980&t=7)** But there are times when using our own runners might be a better fit.
 >
@@ -1263,29 +1243,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (4), [[Bitbucket]] (2), [[Atlassian]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Bitbucket]] (2), [[Atlassian]] (2), [[Scalability]] (2)
 > **Env Vars:** cpu (1), gdpr (1), hipaa (1)
 > **Prerequisites:** configure (1), setup (1), you'll need (1)
 > **Tools:** bitbucket (2)
 > **CLI Commands:** cd (1)
 > **Speakers:** - when (1)
 
-#### Self-hosted runner configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980)
+#### [Self-hosted runner configurations](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=0)** - [Instructor] We have a few options for the types of runners we can consider for self-hosting.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=5)** We can choose from Linux Docker, Linux Shell, Windows, and macOS runners.
+> **[0:05](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=5)** We can choose from [[Linux]] Docker, Linux Shell, [[Windows]], and macOS runners.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=12)** Even though we can use different operating systems, there are a few common requirements.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=18)** The system needs to be running a 64-bit version of the operating system, and have at least eight gigs of RAM available.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=26)** We'll need a recent version of the Open Java Development Kit.
+> **[0:26](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=26)** We'll need a recent version of the Open [[Java]] Development Kit.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=30)** And last but not least, Git needs to be installed as well.
+> **[0:30](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=30)** And last but not least, [[Git]] needs to be installed as well.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=36)** When we create a runner, we can add labels.
 >
@@ -1297,7 +1276,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=60)** These runner types provide a range of capabilities that can benefit many types of pipelines and CI/CD scenarios.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=67)** Linux Docker runners run steps in isolated environments based on container images, much like the runners we use on Bitbucket Cloud.
+> **[1:07](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=67)** Linux Docker runners run steps in isolated environments based on container images, much like the runners we use on [[Bitbucket]] Cloud.
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/self-hosted-runner-configurations?u=76281980&t=77)** This is perfect for builds that need a clean workspace for each run of the pipeline.
 >
@@ -1315,7 +1294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (1), [[Java]] (1), [[Git]] (1), ci (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (1), [[Java]] (1), [[Git]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** docker (4), git (1), cd (1)
 > **Code Identifiers:** macos (1)
 > **Env Vars:** ram (1)
@@ -1324,8 +1303,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compare repository and workspace runners
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/compare-repository-and-workspace-runners?u=76281980)
+#### [Compare repository and workspace runners](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/compare-repository-and-workspace-runners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,9 +1319,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/compare-repository-and-workspace-runners?u=76281980&t=26)** This provides a better opportunity to increase resource utilization across multiple projects.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/compare-repository-and-workspace-runners?u=76281980&t=33)** Linux Shell, Windows, and MacOS runners can be well-suited for repositories that need custom build environments.
+> **[0:33](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/compare-repository-and-workspace-runners?u=76281980&t=33)** [[Linux]] Shell, [[Windows]], and MacOS runners can be well-suited for repositories that need custom build environments.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/compare-repository-and-workspace-runners?u=76281980&t=41)** Since only one repo is using the runner, tools, dependencies, and hardware can be dialed in and kept consistent.
+> **[0:41](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/compare-repository-and-workspace-runners?u=76281980&t=41)** Since only one repo is using the runner, tools, dependencies, and [[Hardware]] can be dialed in and kept consistent.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/compare-repository-and-workspace-runners?u=76281980&t=51)** Workspace runners provide the best opportunity for Linux Docker runners.
 >
@@ -1358,16 +1336,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install runners in a workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980)
+#### [Install runners in a workspace](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=1)** - [Instructor] I've deployed an EC2 instance, and I'm connected to it from the AWS web interface.
+> **[0:01](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=1)** - [Instructor] I've deployed an [[Amazon EC2|EC2]] instance, and I'm connected to it from the AWS web interface.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=6)** I've elevated my session to the root user account, and I've run version checks for Java, Git, and Docker just to make sure everything is ready.
+> **[0:06](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=6)** I've elevated my session to the root user account, and I've run version checks for [[Java]], [[Git]], and Docker just to make sure everything is ready.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=27)** Now I'm on the Settings page for my Bitbucket workspace, viewing the Workspace Runners tab.
+> **[0:27](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=27)** Now I'm on the Settings page for my [[Bitbucket]] workspace, viewing the Workspace Runners tab.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=33)** Since there are no runners installed yet, I'm invited to add one.
 >
@@ -1375,7 +1352,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=42)** This starts the installation wizard, and I'm prompted to configure the runner.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=48)** Under System and Architecture, I can select the type of runner I'm installing, Linux Docker, Windows, MacOS, and so on.
+> **[0:48](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=48)** Under System and Architecture, I can select the type of runner I'm installing, [[Linux]] Docker, [[Windows]], MacOS, and so on.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/install-runners-in-a-workspace?u=76281980&t=57)** I'll select Linux Docker.
 >
@@ -1467,7 +1444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), [[Bitbucket]] (6), next (5), [[Amazon EC2|Ec2]] (1), aws (1)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Bitbucket]] (6), [[Amazon EC2|Ec2]] (1), [[Java]] (1), [[Git]] (1)
 > **CLI Commands:** docker (8), make (2), aws (1), git (1)
 > **Tools:** bitbucket (6), terminal (4)
 > **Prerequisites:** install (5), configure (1)
@@ -1476,8 +1453,7 @@ created: 2026-05-02
 > **Env Vars:** ec2 (1), aws (1)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Use self-hosted runners in a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-self-hosted-runners-in-a-pipeline?u=76281980)
+#### [Use self-hosted runners in a pipeline](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-self-hosted-runners-in-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1485,7 +1461,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-self-hosted-runners-in-a-pipeline?u=76281980&t=6)** - [Instructor] Let's use self-hosted runners in a pipeline.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-self-hosted-runners-in-a-pipeline?u=76281980&t=9)** I've got two runners ready to go, a Linux shell runner and a Linux docker runner.
+> **[0:09](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-self-hosted-runners-in-a-pipeline?u=76281980&t=9)** I've got two runners ready to go, a [[Linux]] shell runner and a Linux docker runner.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/use-self-hosted-runners-in-a-pipeline?u=76281980&t=16)** I've also created a new repo and added the exercise files for this lesson.
 >
@@ -1513,15 +1489,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **CLI Commands:** docker (2)
 > **Env Vars:** cpu (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft upbeat music) (1)
 
-#### Solution: Deploy a self-hosted runner
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-deploy-a-self-hosted-runner?u=76281980)
+#### [Solution: Deploy a self-hosted runner](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-deploy-a-self-hosted-runner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1533,7 +1508,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-deploy-a-self-hosted-runner?u=76281980&t=17)** The resources include the data file parameter and parameter store, the profile and role that the server can assume, and of course the server itself.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-deploy-a-self-hosted-runner?u=76281980&t=33)** Now with that in place, I can go to Bitbucket and get the commands needed to install the self-hosted runner.
+> **[0:33](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-deploy-a-self-hosted-runner?u=76281980&t=33)** Now with that in place, I can go to [[Bitbucket]] and get the commands needed to install the self-hosted runner.
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-deploy-a-self-hosted-runner?u=76281980&t=40)** I created these runners at the workspace level.
 >
@@ -1541,7 +1516,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-deploy-a-self-hosted-runner?u=76281980&t=46)** The key to solving this challenge is selecting the correct type of runner.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-deploy-a-self-hosted-runner?u=76281980&t=54)** Specifically, we had to select a Linux Shell runner so that we can access resources on the runner itself.
+> **[0:54](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-deploy-a-self-hosted-runner?u=76281980&t=54)** Specifically, we had to select a [[Linux]] Shell runner so that we can access resources on the runner itself.
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/solution-deploy-a-self-hosted-runner?u=76281980&t=67)** This goes back to previous lessons where we learned that Docker runners, which are totally self-contained and do everything they need to do within the context of that runner, cannot access resources on the host where that container is running, so that would not have been the correct choice to solve this challenge.
 >
@@ -1595,7 +1570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Linux]] (3), [[Bitbucket]] (2), aws (2)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Bitbucket]] (2)
 > **CLI Commands:** docker (2), aws (2)
 > **Prerequisites:** install (3), configure (1)
 > **Env Vars:** aws (2)
@@ -1609,14 +1584,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/next-steps?u=76281980&t=0)** - Hey, we made it to the end of the course.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/next-steps?u=76281980&t=2)** Thanks for joining me to learn about some of the advanced features in Bitbucket pipelines.
+> **[0:02](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/next-steps?u=76281980&t=2)** Thanks for joining me to learn about some of the advanced features in [[Bitbucket]] pipelines.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/next-steps?u=76281980&t=7)** As you take your workflows to the next level, remember that this course is here for your reference.
 >
@@ -1628,7 +1602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (3), next (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (3)
 > **Tools:** bitbucket (3)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - hey (1)

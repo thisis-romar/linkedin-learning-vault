@@ -100,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Algorithms power the world
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980)
+#### [Algorithms power the world](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980&t=12)** And what powers software?
 >
-> **[0:14](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980&t=14)** Algorithms.
+> **[0:14](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980&t=14)** [[Algorithms]].
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980&t=16)** Algorithms are basically processes, recipes, instructions, whatever you want to call them, that describe how to perform certain tasks.
 >
@@ -119,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980&t=32)** Hi, I am Joe Marini and I've been building software professionally for some of the best known companies in Silicon Valley for more than 30 years.
 >
-> **[0:39](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980&t=39)** In this course, we're going to learn about some of the basic algorithms using all kinds of programs such as sorting data, searching for information, and working with basic data structures.
+> **[0:39](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980&t=39)** In this course, we're going to learn about some of the basic algorithms using all kinds of programs such as sorting data, searching for information, and working with basic [[Data Structures]].
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980&t=50)** Trying to build a program without understanding algorithms is like trying to build a car without understanding how engines work.
 >
@@ -127,12 +126,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), data (2)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Data Structures]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,19 +142,19 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=16)** If you need to brush up on these skills, check out the Programming Foundation's Fundamentals course.
 >
-> **[0:22](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=22)** I'm going to be using the Python language in this course to work through our examples.
+> **[0:22](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=22)** I'm going to be using the [[Python (Programming Language)|Python]] language in this course to work through our examples.
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=26)** You don't need to be deeply familiar with Python in order to take this course.
 >
-> **[0:30](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=30)** None of the algorithms that we're going to learn about are specific to Python, but it's a very popular language.
+> **[0:30](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=30)** None of the [[Algorithms]] that we're going to learn about are specific to Python, but it's a very popular language.
 >
 > **[0:35](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=35)** It's easy to set up on a variety of operating systems, and it's even easier to learn.
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=39)** If you're already familiar with a programming in a different language, then you probably won't have any difficulties following along.
 >
-> **[0:45](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=45)** But I'd recommend you check out the Learning Python course if you need to brush up on your Python knowledge, I'll switch over to the code to show you the rest of the setup.
+> **[0:45](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=45)** But I'd recommend you check out the Learning Python course if you need to brush up on your Python knowledge, I'll switch over to the code to show you the [[Representational State Transfer (REST)|rest]] of the setup.
 >
-> **[0:53](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=53)** I've set up a GitHub repository with the example code, and you can find it at this link.
+> **[0:53](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=53)** I've set up a [[GitHub]] repository with the example code, and you can find it at this link.
 >
 > **[0:58](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=58)** The course content is organized into two separate folders.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=106)** But this repository has also been set up with a GitHub Codespace, so you can just work directly online with nothing to install.
 >
-> **[1:53](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=113)** All you need to do is fork a copy of the repository into your own GitHub account and then go to the code menu and go to Codespaces and fire up a Codespace and you won't need to install anything.
+> **[1:53](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=113)** All you need to do is fork a copy of the repository into your own GitHub account and then go to the code menu and go to [[Codespaces]] and fire up a Codespace and you won't need to install anything.
 >
 > **[2:06](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=126)** Now you can see that I've already done that.
 >
@@ -208,7 +206,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=212)** So it says preferences, and you go to Settings or you can just type Control + comma, and let's close the terminal for this.
 >
-> **[3:42](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=222)** And once you are into the preferences, going to search for the word "execute", and let's see, execute.
+> **[3:42](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=222)** And once you are into the preferences, going to search for the [[Microsoft Word|word]] "execute", and let's see, execute.
 >
 > **[3:51](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-you-should-know?u=76281980&t=231)** Let's execute in.
 >
@@ -222,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Programming]] (3), [[GitHub]] (3), [[Codespaces]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[GitHub]] (3), [[Codespaces]] (2), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (11), make (5), find (3)
 > **Prerequisites:** set up (5), install (4), setup (1), you'll need (1)
 > **Tools:** terminal (4), github (3), visual studio (2)
@@ -236,8 +234,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are algorithms?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980)
+#### [What are algorithms?](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,9 +246,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980&t=27)** At the end of this process, you would have separate groups of each shape type.
 >
-> **[0:31](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980&t=31)** This complete set of steps taken together that solve a specific problem forms an algorithm.
+> **[0:31](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980&t=31)** This complete set of steps taken together that solve a specific problem [[Forms]] an algorithm.
 >
-> **[0:37](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980&t=37)** Algorithms have several characteristics that can be used to describe them.
+> **[0:37](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980&t=37)** [[Algorithms]] have several characteristics that can be used to describe them.
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980&t=41)** For example, any given algorithm has an associated complexity, and usually more than one.
 >
@@ -287,21 +284,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (8), data (3), [[Forms]] (1), parallel (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (8), [[Forms]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** in other words (1), means that (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - let (1)
 
-#### Common algorithms in programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/common-algorithms-in-programming?u=76281980)
+#### [Common algorithms in programming](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/common-algorithms-in-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/common-algorithms-in-programming?u=76281980&t=0)** - Now that we've learned a little bit about what an algorithm is, we can investigate some of the more common ones that appear in a variety of programming scenarios.
 >
-> **[0:08](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/common-algorithms-in-programming?u=76281980&t=8)** One of the most common algorithm types you'll run into are searching algorithms.
+> **[0:08](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/common-algorithms-in-programming?u=76281980&t=8)** One of the most common algorithm types you'll run into are searching [[Algorithms]].
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/common-algorithms-in-programming?u=76281980&t=12)** These pop up in cases where you need to find a specific piece of data inside a larger data structure.
 >
@@ -355,7 +351,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/common-algorithms-in-programming?u=76281980&t=165)** All right, let's go build this in the code.
 >
-> **[2:48](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/common-algorithms-in-programming?u=76281980&t=168)** Okay, so I'm going to use Python for this, but you know what, if you're feeling intrepid and want to try another language, that's fine too.
+> **[2:48](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/common-algorithms-in-programming?u=76281980&t=168)** Okay, so I'm going to use [[Python (Programming Language)|Python]] for this, but you know what, if you're feeling intrepid and want to try another language, that's fine too.
 >
 > **[2:55](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/common-algorithms-in-programming?u=76281980&t=175)** All right, let's go ahead and open up my code.
 >
@@ -399,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (4), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), go build (1), python (1)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** gcd (1)
@@ -408,12 +404,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Measuring algorithm performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/measuring-algorithm-performance?u=76281980)
+#### [Measuring algorithm performance](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/measuring-algorithm-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/measuring-algorithm-performance?u=76281980&t=0)** - [Instructor] Because algorithms are designed to work on sets of data and solve computational problems, it's important to understand how to talk about algorithm performance.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/measuring-algorithm-performance?u=76281980&t=0)** - [Instructor] Because [[Algorithms]] are designed to work on sets of data and solve computational problems, it's important to understand how to talk about algorithm performance.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/measuring-algorithm-performance?u=76281980&t=10)** This is an important factor in how you choose a particular algorithm to solve a programming problem, as well as understanding how your program will behave under different circumstances.
 >
@@ -427,7 +422,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/measuring-algorithm-performance?u=76281980&t=52)** It usually describes the worst-case scenario of how long it takes to perform a given operation.
 >
-> **[0:58](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/measuring-algorithm-performance?u=76281980&t=58)** And it's important to note that many different algorithms and data structures have more than one Big-O value.
+> **[0:58](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/measuring-algorithm-performance?u=76281980&t=58)** And it's important to note that many different algorithms and [[Data Structures]] have more than one Big-O value.
 >
 > **[1:04](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/measuring-algorithm-performance?u=76281980&t=64)** Data structures, for example, can usually perform multiple types of operations, such as inserting or searching for values, each of which have their own order of operation.
 >
@@ -481,7 +476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), data (4), [[Programming]] (2), next (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Data Structures]] (2)
 > **Definitions:** is called (2), is an  (1), means that (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
@@ -493,12 +488,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to common data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980)
+#### [Introduction to common data structures](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980&t=0)** - [Instructor] Working with programming algorithms often goes hand-in-hand with an associated set of data structures.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980&t=0)** - [Instructor] Working with programming [[Algorithms]] often goes hand-in-hand with an associated set of [[Data Structures]].
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980&t=6)** After all, most algorithms are intended to work with data, and that data has to be represented somewhere.
 >
@@ -506,7 +500,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980&t=18)** Now it's beyond the scope of this course to explain all of these data structures in deep detail.
 >
-> **[0:23](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980&t=23)** I'm just going to focus on the basics and then we'll see how they are used as we go through the rest of the course.
+> **[0:23](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980&t=23)** I'm just going to focus on the basics and then we'll see how they are used as we go through the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[0:29](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980&t=29)** I'd recommend that you watch the Programming Foundation's Data Structures course to learn more about each of these concepts in more depth.
 >
@@ -532,17 +526,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Algorithms]] (7), [[Programming]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (9), [[Algorithms]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/arrays?u=76281980)
+#### [Arrays](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/arrays?u=76281980&t=0)** - [Instructor] One of the simplest data structures is the array, and if you've done any prior programming, it's likely that you've worked with arrays before.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/arrays?u=76281980&t=0)** - [Instructor] One of the simplest [[Data Structures]] is the array, and if you've done any prior programming, it's likely that you've worked with arrays before.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/arrays?u=76281980&t=8)** An array is a collection of elements where the position of each element is identified by an index or a key value, and they're usually stored in a single contiguous block of memory.
 >
@@ -578,13 +571,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Linked lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/linked-lists?u=76281980)
+#### [Linked lists](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/linked-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,13 +630,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), next (6), data (5)
 > **CLI Commands:** node (7), find (2)
 > **Definitions:** is a  (1), is called (1), refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linked lists example
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/linked-lists-example?u=76281980)
+#### [Linked lists example](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/linked-lists-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,19 +758,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (18), next (10), data (7)
 > **CLI Commands:** node (18), find (7), make (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stacks and queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980)
+#### [Stacks and queues](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980&t=0)** - [Instructor] Let's take a look at two more common data structures, stacks and queues, and let's start with the stack.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980&t=0)** - [Instructor] Let's take a look at two more common [[Data Structures]], stacks and queues, and let's start with the stack.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980&t=6)** A stack is a collection of elements that supports two principle operations, push and pop.
 >
@@ -806,9 +794,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980&t=70)** Then items would be removed from the front of the list when they needed to be processed.
 >
-> **[1:15](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980&t=75)** Stocks and queues are very fundamental data structures and have broad, practical applications in software development.
+> **[1:15](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980&t=75)** Stocks and queues are very fundamental data structures and have broad, practical applications in [[Software Development]].
 >
-> **[1:22](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980&t=82)** Stacks, for example, are often used to parse and evaluate various forms of expression statements.
+> **[1:22](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980&t=82)** Stacks, for example, are often used to parse and evaluate various [[Forms]] of expression statements.
 >
 > **[1:28](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues?u=76281980&t=88)** An example of this would be using a stack to evaluate a mathematical expression that is written using reverse polish notation, for example.
 >
@@ -832,7 +820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Software Development]] (1), [[Forms]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[Software Development]] (1), [[Forms]] (1)
 > **Env Vars:** lifo (1), url (1), sms (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -840,16 +828,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stacks and queues example
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues-example?u=76281980)
+#### [Stacks and queues example](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues-example?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues-example?u=76281980&t=0)** - [Instructor] Okay, let's take a few moments and walk through some examples using a stack and a queue.
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues-example?u=76281980&t=5)** Some languages like C sharp, for example, have dedicated built-in data types to represent these data structures.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues-example?u=76281980&t=5)** Some languages like C sharp, for example, have dedicated built-in data types to represent these [[Data Structures]].
 >
-> **[0:12](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues-example?u=76281980&t=12)** But in the case of Python, we can just use a regular list to represent both a stack and a queue.
+> **[0:12](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues-example?u=76281980&t=12)** But in the case of [[Python (Programming Language)|Python]], we can just use a regular list to represent both a stack and a queue.
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/stacks-and-queues-example?u=76281980&t=19)** So I'll start by opening up the stack starting point in my start code, and I'll just begin by declaring an empty list that's going to serve as our stack.
 >
@@ -951,15 +938,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Structures]] (2)
 > **CLI Commands:** python (3)
 > **Analogies:** just like (2), for example (1)
 > **Tools:** terminal (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980)
+#### [Dictionaries](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,13 +973,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=60)** This is a bit of a complex subject, so I'm not going to go into how hash functions work internally and how collisions are resolved.
 >
-> **[1:06](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=66)** The fact is, most languages and frameworks already have dictionary data structures that have all this figured out for you.
+> **[1:06](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=66)** The fact is, most languages and frameworks already have dictionary [[Data Structures]] that have all this figured out for you.
 >
 > **[1:13](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=73)** For the purpose of this course, what's important is to understand how dictionaries are used and what their advantages and drawbacks are.
 >
 > **[1:22](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=82)** One of the primary benefits of dictionaries is their ability to uniquely map a given key to a specific value.
 >
-> **[1:29](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=89)** This feature provides the ability to implement certain kinds of algorithms, which we will see later in the course, such as counters and filters.
+> **[1:29](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=89)** This feature provides the ability to implement certain kinds of [[Algorithms]], which we will see later in the course, such as counters and filters.
 >
 > **[1:37](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=97)** Another advantage of dictionaries is their speed.
 >
@@ -1007,7 +993,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=139)** So let's take a look in our editor at how dictionaries are used.
 >
-> **[2:24](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=144)** Alright, so of course, I'm going to be demonstrating this in Python, but the principles here are the same as in other languages.
+> **[2:24](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=144)** Alright, so of course, I'm going to be demonstrating this in [[Python (Programming Language)|Python]], but the principles here are the same as in other languages.
 >
 > **[2:29](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=149)** So here in my start folder, I'll go into the dictionary folder and open dictionary start, and I'll start by creating a new dictionary.
 >
@@ -1041,7 +1027,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=266)** And if I set a value on a key that is already in the dictionary, then the existing value gets placed.
 >
-> **[4:33](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=273)** So for items2, I'm going to replace key2 with the actual word two.
+> **[4:33](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=273)** So for items2, I'm going to replace key2 with the actual [[Microsoft Word|word]] two.
 >
 > **[4:41](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/dictionaries?u=76281980&t=281)** Alright, and now let's go ahead and run this again.
 >
@@ -1071,7 +1057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3), [[Algorithms]] (2), [[Programming]] (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Structures]] (2), [[Algorithms]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (3)
 > **Cross-References:** later in (1)
@@ -1083,12 +1069,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding recursion
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/understanding-recursion?u=76281980)
+#### [Understanding recursion](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/understanding-recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/understanding-recursion?u=76281980&t=0)** - [Instructor] There's one more programming technique that we're going to take a look at before we start working directly with some common algorithms, and that's a technique known as recursion.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/understanding-recursion?u=76281980&t=0)** - [Instructor] There's one more programming technique that we're going to take a look at before we start working directly with some common [[Algorithms]], and that's a technique known as recursion.
 >
 > **[0:09](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/understanding-recursion?u=76281980&t=9)** In its simplest form, recursion is when a function calls itself from within its own code.
 >
@@ -1166,7 +1151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), next (2), [[Algorithms]] (1), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** is called (3), known as (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -1174,8 +1159,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simple recursion example
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/simple-recursion-example?u=76281980)
+#### [Simple recursion example](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/simple-recursion-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1187,7 +1171,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/simple-recursion-example?u=76281980&t=16)** I'm going to check to see if X is equal to zero whenever we come into the countdown function.
 >
-> **[0:23](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/simple-recursion-example?u=76281980&t=23)** And if it is, I'm going to print the word done and then return.
+> **[0:23](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/simple-recursion-example?u=76281980&t=23)** And if it is, I'm going to print the [[Microsoft Word|word]] done and then return.
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/simple-recursion-example?u=76281980&t=32)** Otherwise, I'm going to print out the number followed by three dots, and then I'm going to call countdown again, but this time, with X minus one.
 >
@@ -1239,15 +1223,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Tools:** terminal (2)
 > **Definitions:** means that (2)
 > **Analogies:** just like (1), picture (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating power and factorial
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/calculating-power-and-factorial?u=76281980)
+#### [Calculating power and factorial](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/calculating-power-and-factorial?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1339,11 +1322,11 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/calculating-power-and-factorial?u=76281980&t=251)** So that's a couple of simple examples of using recursion to perform mathematical calculations.
 >
-> **[4:16](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/calculating-power-and-factorial?u=76281980&t=256)** And we'll see more of how we can use recursion to help solve data manipulation problems later in the course when we look at some of the sorting algorithms.
+> **[4:16](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/calculating-power-and-factorial?u=76281980&t=256)** And we'll see more of how we can use recursion to help solve [[Data Manipulation]] problems later in the course when we look at some of the sorting [[Algorithms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (15), [[Data Manipulation]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** recursion_start (2)
 > **Cross-References:** go back to (1), later in (1)
 > **Tools:** terminal (2)
@@ -1355,8 +1338,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of sorting
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/overview-of-sorting?u=76281980)
+#### [Overview of sorting](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/overview-of-sorting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1370,7 +1352,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/overview-of-sorting?u=76281980&t=30)** So using that same real estate app scenario, the user might not decide to view houses sorted by price, but if they do specify minimum and maximum price boundaries, then the app would internally sort the data in order to limit the amount of additional information it would need to retrieve, for a given set of properties.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/overview-of-sorting?u=76281980&t=48)** In this chapter, we're going to learn about a few of the different algorithms for sorting information, how they work, and what their relative big O performance characteristics are.
+> **[0:48](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/overview-of-sorting?u=76281980&t=48)** In this chapter, we're going to learn about a few of the different [[Algorithms]] for sorting information, how they work, and what their relative big O performance characteristics are.
 >
 > **[0:58](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/overview-of-sorting?u=76281980&t=58)** Now, most modern programming languages have very good efficient sorting routines already built in, so it's very unlikely that you'll have to write your own sorting algorithm, but it's very helpful to understand how the various algorithms work so you can choose the right one.
 >
@@ -1386,18 +1368,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (5), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The bubble sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-bubble-sort?u=76281980)
+#### [The bubble sort](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-bubble-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-bubble-sort?u=76281980&t=0)** - [Instructor] Let's begin by examining one of the most basic sorting algorithms called the Bubble Sort.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-bubble-sort?u=76281980&t=0)** - [Instructor] Let's begin by examining one of the most basic sorting [[Algorithms]] called the Bubble Sort.
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-bubble-sort?u=76281980&t=5)** I'll get more into why it's called that in a moment, but first, let's take a look at how it works.
 >
@@ -1469,18 +1450,17 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-bubble-sort?u=76281980&t=258)** Okay, so this is a quick summary of the bubble sort, but we can do better than this.
 >
-> **[4:22](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-bubble-sort?u=76281980&t=262)** And in the rest of the chapter, we'll take a look at some of the other sorting algorithms.
+> **[4:22](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-bubble-sort?u=76281980&t=262)** And in the [[Representational State Transfer (REST)|rest]] of the chapter, we'll take a look at some of the other sorting algorithms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Algorithms]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The merge sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-merge-sort?u=76281980)
+#### [The merge sort](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-merge-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1530,14 +1510,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the merge sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-merge-sort?u=76281980)
+#### [Implementing the merge sort](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-merge-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1551,7 +1529,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-merge-sort?u=76281980&t=30)** And you can see I've got my left array here and my right array here.
 >
-> **[0:34](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-merge-sort?u=76281980&t=34)** And this is the Python syntax for getting all the values up to a certain point and the value from a certain point on.
+> **[0:34](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-merge-sort?u=76281980&t=34)** And this is the [[Python (Programming Language)|Python]] syntax for getting all the values up to a certain point and the value from a certain point on.
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-merge-sort?u=76281980&t=41)** So I'm going to call merge sort on the left array, and then I'm going to call merge sort on the right array.
 >
@@ -1604,8 +1582,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1), previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### The quicksort
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-quicksort?u=76281980)
+#### [The quicksort](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/the-quicksort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1679,14 +1656,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the quicksort
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-quicksort?u=76281980)
+#### [Implementing the quicksort](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-quicksort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1802,13 +1777,13 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-quicksort?u=76281980&t=340)** And again, thankfully, you'll probably never have to actually implement this yourself.
 >
-> **[5:46](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-quicksort?u=76281980&t=346)** Most languages already have very good sorting algorithms, but it's useful to see how recursion can be used to implement different kinds of sorting algorithms.
+> **[5:46](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-quicksort?u=76281980&t=346)** Most languages already have very good sorting [[Algorithms]], but it's useful to see how recursion can be used to implement different kinds of sorting algorithms.
 >
 > **[5:55](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/implementing-the-quicksort?u=76281980&t=355)** In this case, the Quicksort and the merge sort before it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -1818,8 +1793,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unordered list search
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unordered-list-search?u=76281980)
+#### [Unordered list search](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unordered-list-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1869,15 +1843,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Search]] (6)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the last (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binary search
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/binary-search?u=76281980)
+#### [Binary search](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/binary-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1949,7 +1921,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/binary-search?u=76281980&t=244)** Okay, so let's run this.
 >
-> **[4:10](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/binary-search?u=76281980&t=250)** And we'll call Python on the ordered list.
+> **[4:10](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/binary-search?u=76281980&t=250)** And we'll call [[Python (Programming Language)|Python]] on the ordered list.
 >
 > **[4:14](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/binary-search?u=76281980&t=254)** And sure enough that we can see the indexes of the first two numbers being returned while 21 could not be found.
 >
@@ -1959,14 +1931,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine if a list is sorted
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/determine-if-a-list-is-sorted?u=76281980)
+#### [Determine if a list is sorted](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/determine-if-a-list-is-sorted?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2016,7 +1987,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/determine-if-a-list-is-sorted?u=76281980&t=125)** And you can see that the first list is sorted while the second one is not.
 >
-> **[2:09](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/determine-if-a-list-is-sorted?u=76281980&t=129)** Now, since we happen to be working with Python, let's take a look at how Python can handle this situation.
+> **[2:09](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/determine-if-a-list-is-sorted?u=76281980&t=129)** Now, since we happen to be working with [[Python (Programming Language)|Python]], let's take a look at how Python can handle this situation.
 >
 > **[2:15](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/determine-if-a-list-is-sorted?u=76281980&t=135)** There's actually a very Pythonic way of running the same algorithm using the all function, which uses a Python comprehension to do this.
 >
@@ -2048,7 +2019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (2)
 > **Code Identifiers:** issorted_start (1), is_sorted (1)
 > **Tools:** terminal (2)
@@ -2060,12 +2031,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unique filtering with sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980)
+#### [Unique filtering with sets](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn about some algorithms that can be implemented using some of the data structures we learned about earlier.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn about some [[Algorithms]] that can be implemented using some of the [[Data Structures]] we learned about earlier.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980&t=7)** For the first example, we're going to use a data structure called a set.
 >
@@ -2091,9 +2061,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980&t=52)** In this case, names of different fruits.
 >
-> **[0:55](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980&t=55)** So what I'm going to do is create a new set, and this is in Python.
+> **[0:55](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980&t=55)** So what I'm going to do is create a new set, and this is in [[Python (Programming Language)|Python]].
 >
-> **[0:59](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980&t=59)** There are other languages that have sets, C#, Java, for example, and if you don't have a set in your language, a dictionary can actually be used as a set.
+> **[0:59](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980&t=59)** There are other languages that have sets, C#, [[Java]], for example, and if you don't have a set in your language, a dictionary can actually be used as a set.
 >
 > **[1:08](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980&t=68)** So I'm going to create a set named unique_items and I'll use the set constructor for this.
 >
@@ -2163,7 +2133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Data Structures]] (1), [[Java]] (1)
 > **Code Identifiers:** unique_items (3), filter_start (1)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
@@ -2172,8 +2142,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Definitions:** is an  (1)
 
-#### Value counting with a dictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/value-counting-with-a-dictionary?u=76281980)
+#### [Value counting with a dictionary](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/value-counting-with-a-dictionary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2203,7 +2172,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/value-counting-with-a-dictionary?u=76281980&t=83)** And to do that, I'm going to use the dict function.
 >
-> **[1:28](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/value-counting-with-a-dictionary?u=76281980&t=88)** Now, this is Python, so I could also just do this.
+> **[1:28](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/value-counting-with-a-dictionary?u=76281980&t=88)** Now, this is [[Python (Programming Language)|Python]], so I could also just do this.
 >
 > **[1:30](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/value-counting-with-a-dictionary?u=76281980&t=90)** I could also just do two curly braces, but just for clarity, I'm going to create a new dict, and I'm going to iterate over each item.
 >
@@ -2225,13 +2194,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find max value recursively
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/find-max-value-recursively?u=76281980)
+#### [Find max value recursively](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/find-max-value-recursively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2271,9 +2239,9 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/find-max-value-recursively?u=76281980&t=111)** Otherwise I have to store aside the first item in the list and then call the function again with the remaining items.
 >
-> **[2:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/find-max-value-recursively?u=76281980&t=120)** So value one is going to be the first item, and then value two is going to be the result of calling findmax again with the rest of the items list.
+> **[2:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/find-max-value-recursively?u=76281980&t=120)** So value one is going to be the first item, and then value two is going to be the result of calling findmax again with the [[Representational State Transfer (REST)|rest]] of the items list.
 >
-> **[2:16](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/find-max-value-recursively?u=76281980&t=136)** And I'm going to use Python notation here to start at the next item in the list.
+> **[2:16](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/find-max-value-recursively?u=76281980&t=136)** And I'm going to use [[Python (Programming Language)|Python]] notation here to start at the next item in the list.
 >
 > **[2:21](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/find-max-value-recursively?u=76281980&t=141)** And then a colon and then no number, which basically means get the rest of this list.
 >
@@ -2309,13 +2277,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is called (2), is a  (1), basically means (1)
 > **CLI Commands:** find (1), python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Balancing statements with Stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/balancing-statements-with-stack?u=76281980)
+#### [Balancing statements with Stack](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/balancing-statements-with-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2335,7 +2302,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/balancing-statements-with-stack?u=76281980&t=45)** So the first thing I'll do is create the stack I'm going to use.
 >
-> **[0:49](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/balancing-statements-with-stack?u=76281980&t=49)** And in Python, that's just a regular list.
+> **[0:49](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/balancing-statements-with-stack?u=76281980&t=49)** And in [[Python (Programming Language)|Python]], that's just a regular list.
 >
 > **[0:53](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/balancing-statements-with-stack?u=76281980&t=53)** So I'll call it the statement_stack, and I'll just make my empty list.
 >
@@ -2405,7 +2372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** statement_stack (4), balancing_start (1), is_balanced (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (1)
@@ -2421,14 +2388,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/next-steps?u=76281980&t=0)** - [Narrator] Thanks so much for watching my course, and congratulations on completing it.
 >
-> **[0:04](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/next-steps?u=76281980&t=4)** I hope you enjoyed learning along with me about how to use algorithms together with data structures to solve some common programming tasks.
+> **[0:04](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/next-steps?u=76281980&t=4)** I hope you enjoyed learning along with me about how to use [[Algorithms]] together with [[Data Structures]] to solve some common programming tasks.
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/next-steps?u=76281980&t=11)** In this course, we learned about some of the basic data structures used in common algorithms.
 >
@@ -2446,7 +2412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), data (3), [[Programming]] (2), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Data Structures]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 

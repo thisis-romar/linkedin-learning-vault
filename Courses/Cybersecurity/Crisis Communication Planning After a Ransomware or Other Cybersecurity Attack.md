@@ -66,8 +66,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Anyone can suffer a ransomware or other cyberattack
-> [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/anyone-can-suffer-a-ransomware-or-other-cyberattack?u=76281980)
+#### [Anyone can suffer a ransomware or other cyberattack](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/anyone-can-suffer-a-ransomware-or-other-cyberattack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +98,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Analogies:** imagine (1), such as (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
@@ -110,8 +108,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why cyberattacks impact every organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980)
+#### [Why cyberattacks impact every organization](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980&t=31)** Cyber attacks against organizations are growing exponentially.
 >
-> **[0:35](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980&t=35)** Phishing attacks skyrocketed by more than 4,100% since the public release of ChatGPT in late 2022.
+> **[0:35](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980&t=35)** [[Phishing]] attacks skyrocketed by more than 4,100% since the public release of [[ChatGPT]] in late 2022.
 >
 > **[0:44](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980&t=44)** NetScout recorded around 8,000,000 denial of service attacks in the first half of 2024 alone.
 >
@@ -137,7 +134,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980&t=63)** Ransomware is also a rapidly growing crime.
 >
-> **[1:06](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980&t=66)** A recent report by cybersecurity company CyberArk revealed that nearly 90% of organizations were targeted in 2024.
+> **[1:06](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980&t=66)** A recent report by [[Cybersecurity]] company CyberArk revealed that nearly 90% of organizations were targeted in 2024.
 >
 > **[1:14](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980&t=74)** The financial fallout of such instances can be devastating, with some experts predicting that the total costs could exceed 265 billion US dollars by 2031.
 >
@@ -181,14 +178,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), [[Phishing]] (1), [[ChatGPT]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[ChatGPT]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ibm (1)
 > **Versions:** 4.8 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Determining who is on your team when a cyberattack occurs
-> [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/determining-who-is-on-your-team-when-a-cyberattack-occurs?u=76281980)
+#### [Determining who is on your team when a cyberattack occurs](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/determining-who-is-on-your-team-when-a-cyberattack-occurs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,11 +246,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/determining-who-is-on-your-team-when-a-cyberattack-occurs?u=76281980&t=159)** This will help you understand how they will investigate the cause of the cyberattack and what they'll do afterwards.
 >
-> **[2:45](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/determining-who-is-on-your-team-when-a-cyberattack-occurs?u=76281980&t=165)** For your human resources team, you're going to want to ask questions such as what employee policies and practices cover information security and IT investigations involving employees who will conduct those investigations and what communication tools are used by HR to communicate on a regular basis.
+> **[2:45](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/determining-who-is-on-your-team-when-a-cyberattack-occurs?u=76281980&t=165)** For your [[Human Resources (HR)|human resources]] team, you're going to want to ask questions such as what employee policies and practices cover information security and IT investigations involving employees who will conduct those investigations and what communication tools are used by HR to communicate on a regular basis.
 >
 > **[3:03](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/determining-who-is-on-your-team-when-a-cyberattack-occurs?u=76281980&t=183)** Asking HR how they'll communicate with team members during emergent times, as well as getting an understanding about any limitations on what can be said to employees is important.
 >
-> **[3:12](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/determining-who-is-on-your-team-when-a-cyberattack-occurs?u=76281980&t=192)** Your crisis communications team is going to ask themselves several questions, such as what's required for customer breach notifications and by whom, what audience groups take priority in your communications outreach, and what are the messages you'll convey?
+> **[3:12](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/determining-who-is-on-your-team-when-a-cyberattack-occurs?u=76281980&t=192)** Your [[Crisis Communications]] team is going to ask themselves several questions, such as what's required for customer breach notifications and by whom, what audience groups take priority in your communications outreach, and what are the messages you'll convey?
 >
 > **[3:25](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/determining-who-is-on-your-team-when-a-cyberattack-occurs?u=76281980&t=205)** You'll likely discover some practices and processes you need to create to handle a future cyberattack event.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), teams (3), hr (3), next (2), business (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Crisis Communications]] (1)
 > **Analogies:** such as (2)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** set up (1)
@@ -275,8 +271,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What to say and to whom at onset
-> [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980)
+#### [What to say and to whom at onset](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -318,7 +313,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980&t=83)** Now, after identifying all the audiences you need to address, the next step is to determine if you proactively do so or wait for inquiries.
 >
-> **[1:32](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980&t=92)** Now, at a minimum, you'll need to be proactive in your communications if state and federal regulations regarding cybersecurity attacks require you to notify one or more audiences.
+> **[1:32](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980&t=92)** Now, at a minimum, you'll need to be proactive in your communications if state and federal regulations regarding [[Cybersecurity]] attacks require you to notify one or more audiences.
 >
 > **[1:42](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980&t=102)** But also consider going proactive if one or more audiences already know of the issue and will immediately inquire.
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980&t=227)** The company also kept audiences up to date daily and in some cases multiple times a day.
 >
-> **[3:52](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980&t=232)** They even went so far as update a graphic showing what areas of the pipeline were back in operation and delivering needed fuel, and when folks can expect the rest to come back online.
+> **[3:52](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980&t=232)** They even went so far as update a graphic showing what areas of the pipeline were back in operation and delivering needed fuel, and when folks can expect the [[Representational State Transfer (REST)|rest]] to come back online.
 >
 > **[4:04](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980&t=244)** Also, be sure to incorporate empathy and action in each message.
 >
@@ -372,19 +367,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), [[Cybersecurity]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
 
-#### Prepare your team to address a crisis
-> [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/prepare-your-team-to-address-a-crisis-25550632?u=76281980)
+#### [Prepare your team to address a crisis](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/prepare-your-team-to-address-a-crisis-25550632?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/prepare-your-team-to-address-a-crisis-25550632?u=76281980&t=0)** - [Instructor] Even the best preventative plans are not foolproof.
 >
-> **[0:04](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/prepare-your-team-to-address-a-crisis-25550632?u=76281980&t=4)** So what are some things you should do right away to prepare your crisis communication team when you experience a cybersecurity event?
+> **[0:04](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/prepare-your-team-to-address-a-crisis-25550632?u=76281980&t=4)** So what are some things you should do right away to prepare your crisis communication team when you experience a [[Cybersecurity]] event?
 >
 > **[0:11](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/prepare-your-team-to-address-a-crisis-25550632?u=76281980&t=11)** Well first, keep meeting with all those departments, senior leadership about what has happened and what new developments need to get conveyed to specific audiences.
 >
@@ -484,15 +478,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), hr (2), leadership (1), express (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Env Vars:** ceo (1), cio (1)
 > **Warnings:** gotcha (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice to improve crisis communications
-> [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/practice-to-improve-crisis-communications?u=76281980)
+#### [Practice to improve crisis communications](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/practice-to-improve-crisis-communications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +503,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/practice-to-improve-crisis-communications?u=76281980&t=60)** In essence, they passed the buck in a defensive way and got burned for it.
 >
-> **[1:05](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/practice-to-improve-crisis-communications?u=76281980&t=65)** On the other hand, other companies go into flight mode during a crisis communications situation by saying very little or nothing.
+> **[1:05](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/practice-to-improve-crisis-communications?u=76281980&t=65)** On the other hand, other companies go into flight mode during a [[Crisis Communications]] situation by saying very little or nothing.
 >
 > **[1:13](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/practice-to-improve-crisis-communications?u=76281980&t=73)** Such silence can give an even stronger voice to the other side and make your organization appear incompetent or unfeeling.
 >
@@ -529,8 +522,7 @@ created: 2026-05-02
 > **Warnings:** gotcha (1)
 > **Speakers:** - [instructor] (1)
 
-#### What to tell people after the attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-tell-people-after-the-attack?u=76281980)
+#### [What to tell people after the attack](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-tell-people-after-the-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,7 +530,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-tell-people-after-the-attack?u=76281980&t=7)** In the cases of ransomware, this could take longer depending on the status of negotiations and the time it takes to restore the stolen data from backup files.
 >
-> **[0:16](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-tell-people-after-the-attack?u=76281980&t=16)** But rest assured at some point, it will end.
+> **[0:16](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-tell-people-after-the-attack?u=76281980&t=16)** But [[Representational State Transfer (REST)|rest]] assured at some point, it will end.
 >
 > **[0:19](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-tell-people-after-the-attack?u=76281980&t=19)** That doesn't mean, however, that your communications with your target audiences do.
 >
@@ -582,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Best Practices:** rule of thumb (1)
@@ -593,14 +585,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue to evaluate after a training
-> [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/continue-to-evaluate-after-a-training?u=76281980)
+#### [Continue to evaluate after a training](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/continue-to-evaluate-after-a-training?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/continue-to-evaluate-after-a-training?u=76281980&t=1)** - [Narrator] Once the crisis ends, you'll want to assess what aspects of your communication went well, what parts did not, and what opportunities exist for improvement?
 >
-> **[0:09](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/continue-to-evaluate-after-a-training?u=76281980&t=9)** It's all about resiliency.
+> **[0:09](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/continue-to-evaluate-after-a-training?u=76281980&t=9)** It's all about [[Resiliency]].
 >
 > **[0:11](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/continue-to-evaluate-after-a-training?u=76281980&t=11)** I've seen too often when companies create a new strategy, only to have the plan filed in the appropriate virtual folder and never seen again.
 >
@@ -652,13 +643,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Resiliency]] (1), hr (1), next (1)
+> **Frameworks & Libraries:** [[Resiliency]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** gotcha (1)
 > **Speakers:** - [narrator] (1)
 
-#### Design crisis scenario-based training for higher retention
-> [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/design-crisis-scenario-based-training-for-higher-retention?u=76281980)
+#### [Design crisis scenario-based training for higher retention](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/design-crisis-scenario-based-training-for-higher-retention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,7 +726,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (2)
 > **Env Vars:** cio (2)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
@@ -749,16 +738,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### You can do this
-> [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980)
+#### [You can do this](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980&t=1)** - [Dave] Crisis communication events cause a wide range of disruptions for operations, human resources, customer relations, and reputation management.
+> **[0:01](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980&t=1)** - [Dave] Crisis communication events cause a wide range of disruptions for operations, [[Human Resources (HR)|human resources]], [[Customer Relations]], and reputation management.
 >
 > **[0:08](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980&t=8)** I get it.
 >
-> **[0:09](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980&t=9)** It's important to remember as you prepare for or face an unexpected cyber threat, that your goal is resiliency.
+> **[0:09](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980&t=9)** It's important to remember as you prepare for or face an unexpected cyber threat, that your goal is [[Resiliency]].
 >
 > **[0:16](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980&t=16)** To build a resilient crisis communication plan, keep in mind those overarching tips.
 >
@@ -770,7 +758,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980&t=50)** I'm grateful for your time to watch this and I really welcome your feedback.
 >
-> **[0:54](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980&t=54)** Again, I'm Dave Oates, feel free to connect with me on LinkedIn and tell me what you think.
+> **[0:54](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980&t=54)** Again, I'm Dave Oates, feel free to connect with me on [[LinkedIn]] and tell me what you think.
 >
 > **[0:59](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980&t=59)** Let me know how your crisis communication planning is going as well.
 >
@@ -780,7 +768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Customer Relations]] (1), management (1), [[Resiliency]] (1), business (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Customer Relations]] (1), [[Resiliency]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [dave] (1)

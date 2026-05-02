@@ -79,20 +79,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn team collaboration tools in Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980)
+#### [Learn team collaboration tools in Microsoft 365](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980&t=0)** - [Nick] A Microsoft 365 account or Office 365 as it was previously known is a collection of applications, tools and services that are all connected together.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980&t=0)** - [Nick] A [[Microsoft 365]] account or [[Microsoft Office|Office]] 365 as it was previously known is a collection of applications, tools and services that are all connected together.
 >
 > **[0:11](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980&t=11)** Many of those tools are used for general productivity but there are lots of applications and services for communication, file sharing and project management.
 >
-> **[0:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980&t=20)** I'm Nick Brazzi and I've put together a quick training course to get you familiar with the team collaboration tools that are core to Microsoft 365 for Business, Enterprise and Education.
+> **[0:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980&t=20)** I'm Nick Brazzi and I've put together a quick training course to get you familiar with the [[Team Collaboration]] tools that are core to Microsoft 365 for Business, Enterprise and Education.
 >
 > **[0:32](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980&t=32)** Some of these features are as simple as leveraging your company's directory to quickly find and communicate with coworkers.
 >
-> **[0:38](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980&t=38)** But there are plenty of more robust tools for our group communication like Microsoft Teams and Yammer and file storage tools like OneDrive and SharePoint document libraries.
+> **[0:38](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980&t=38)** But there are plenty of more robust tools for our group communication like [[Microsoft Teams]] and Yammer and file storage tools like [[Microsoft OneDrive|OneDrive]] and [[SharePoint]] document libraries.
 >
 > **[0:49](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980&t=49)** And this course also demystifies Microsoft 365 Groups which can be used in several different applications.
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft Office|Office]] (1), management (1), [[Team Collaboration]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft Office|Office]] (1), [[Team Collaboration]] (1), [[Microsoft Teams]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [nick] (1)
@@ -112,18 +111,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify which Microsoft 365 services you have
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980)
+#### [Identify which Microsoft 365 services you have](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=0)** - [Instructor] There are different types of Microsoft 365 accounts and they determine the applications, tools and services that you can use.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=0)** - [Instructor] There are different types of [[Microsoft 365]] accounts and they determine the applications, tools and services that you can use.
 >
 > **[0:08](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=8)** The different types of subscriptions are business, enterprise, education, and personal and family, also known as home.
 >
 > **[0:15](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=15)** From this information page, I can click on any of these to see a list of the services that come with each type of subscription.
 >
-> **[0:22](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=22)** Now we'll be using many of these tools in this course including Teams, Outlook, OneDrive, SharePoint, and more.
+> **[0:22](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=22)** Now we'll be using many of these tools in this course including Teams, [[Microsoft Outlook|Outlook]], [[Microsoft OneDrive|OneDrive]], [[SharePoint]], and more.
 >
 > **[0:29](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=29)** And as you can see, not all of these are included in every subscription.
 >
@@ -139,13 +137,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=88)** You and your coworkers or fellow students will have accounts that are linked together within your organization.
 >
-> **[1:35](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=95)** This usually includes an email address, which is hosted by Microsoft, but tied to your company's identity.
+> **[1:35](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=95)** This usually includes an email address, which is hosted by [[Microsoft]], but tied to your company's identity.
 >
 > **[1:41](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=101)** The fact that you and your coworkers have accounts within the same organization facilitates a lot of the collaboration features that we'll see in Microsoft 365.
 >
 > **[1:51](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=111)** If you do have your Microsoft 365 accounts set up, you should sign into your account to get started.
 >
-> **[1:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=117)** And for that, you can go to [office.com](https://office.com) and sign in there or your organization might have a different sign in page that they recommend.
+> **[1:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=117)** And for that, you can go to [[[Microsoft Office|office]].com](https://office.com) and sign in there or your organization might have a different sign in page that they recommend.
 >
 > **[2:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=125)** I'm going to sign into my account.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=136)** Once you sign in, you're at the Microsoft 365 homepage and this will be the starting point we'll use in most of this course.
 >
-> **[2:24](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=144)** Now, when you go to [office.com](https://office.com), it might sign you in automatically using the account that you use to sign into Windows, which could be a personal Microsoft account.
+> **[2:24](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=144)** Now, when you go to [office.com](https://office.com), it might sign you in automatically using the account that you use to sign into [[Windows]], which could be a personal Microsoft account.
 >
 > **[2:33](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=153)** So I recommend you click the account icon in the top right to open this menu and confirm that you are signed in with the Microsoft 365 account for your organization.
 >
@@ -171,9 +169,9 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=207)** So in this course, we will be working with Outlook and OneDrive.
 >
-> **[3:31](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=211)** We'll be working with Planner and SharePoint and Microsoft Teams, and we'll be using Yammer.
+> **[3:31](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=211)** We'll be working with Planner and SharePoint and [[Microsoft Teams]], and we'll be using Yammer.
 >
-> **[3:39](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=219)** We'll also be working with Word, PowerPoint and Excel and there are a few others that will briefly mention as we go.
+> **[3:39](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=219)** We'll also be working with [[Microsoft Word|Word]], [[Microsoft PowerPoint|PowerPoint]] and [[Microsoft Excel|Excel]] and there are a few others that will briefly mention as we go.
 >
 > **[3:46](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980&t=226)** If you do not see one or more of those tools here in the all apps list, it probably just means that you have a subscription that does not include that tool.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft OneDrive|Onedrive]] (5), business (4), [[Microsoft Outlook|Outlook]] (3), teams (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Outlook|Outlook]] (3), [[SharePoint]] (2), [[Microsoft]] (2)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** find (2)
 > **URLs:** [office.com](https://office.com) (2)
@@ -189,12 +187,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Manage multiple accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-multiple-accounts?u=76281980)
+#### [Manage multiple accounts](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-multiple-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-multiple-accounts?u=76281980&t=0)** - [Instructor] Some people are members of more than one Microsoft 365 organization.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-multiple-accounts?u=76281980&t=0)** - [Instructor] Some people are members of more than one [[Microsoft 365]] organization.
 >
 > **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-multiple-accounts?u=76281980&t=5)** Maybe you do contract work for more than one company, or maybe you have an account for your school but another account for your job.
 >
@@ -244,24 +241,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (4), web (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4)
 > **UI Navigation:** click on (1), select the (1), switch to (1)
 > **Cross-References:** go back to (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Office 365 Groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980)
+#### [Use Office 365 Groups](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=0)** - [Instructor] Groups in Microsoft 365 are collections of people you can collaborate with.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=0)** - [Instructor] Groups in [[Microsoft 365]] are collections of people you can collaborate with.
 >
 > **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=5)** And I want to establish groups as a key concept early in this course.
 >
 > **[0:09](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=9)** A group created in one application can often be seen and used in another application.
 >
-> **[0:14](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=14)** We'll see that a Microsoft 365 group created in Outlook, a team created in Microsoft Teams, and a SharePoint group are all the same thing.
+> **[0:14](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=14)** We'll see that a Microsoft 365 group created in [[Microsoft Outlook|Outlook]], a team created in [[Microsoft Teams]], and a [[SharePoint]] group are all the same thing.
 >
 > **[0:24](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=24)** And in many cases, when you create a group in one of those applications, it simply appears and is ready to use in another.
 >
@@ -349,7 +345,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=200)** Now, if I click this button with three dots near the top, it opens a menu with some more options.
 >
-> **[3:25](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=205)** There is a shared OneNote notebook that can be used by members of the group or I could open this group in Planner, or if I click where it says Site, that opens this group in SharePoint and now we're just getting a glance of SharePoint here.
+> **[3:25](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=205)** There is a shared [[OneNote]] notebook that can be used by members of the group or I could open this group in Planner, or if I click where it says Site, that opens this group in SharePoint and now we're just getting a glance of SharePoint here.
 >
 > **[3:41](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=221)** We'll talk more about SharePoint in a separate video, but I do want to point out that there is a Documents button here on this SharePoint site.
 >
@@ -359,7 +355,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=240)** For now, I'm just going to close this tab so we're back here looking at the group in Outlook.
 >
-> **[4:06](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=246)** So the same group is visible in Outlook and SharePoint and Microsoft Planner.
+> **[4:06](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=246)** So the same group is visible in Outlook and SharePoint and [[Microsoft]] Planner.
 >
 > **[4:11](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=251)** And if you use Microsoft Teams, every time somebody makes a team, it shows up as a group in SharePoint and Outlook.
 >
@@ -369,11 +365,11 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=274)** So groups are a common thread that connects several Microsoft 365 tools together.
 >
-> **[4:39](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=279)** And we'll build on that as we go through the rest of this course.
+> **[4:39](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-office-365-groups?u=76281980&t=279)** And we'll build on that as we go through the [[Representational State Transfer (REST)|rest]] of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), [[SharePoint]] (9), [[Microsoft 365]] (7), [[Search]] (3), application (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), [[SharePoint]] (9), [[Microsoft 365]] (7), [[Microsoft Teams]] (2), [[OneNote]] (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (3)
 > **UI Navigation:** in the sidebar (2), go to (1)
@@ -382,14 +378,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand SharePoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980)
+#### [Understand SharePoint](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=0)** - [Instructor] I would bet that many users watching this course will never actively go to SharePoint.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=0)** - [Instructor] I would bet that many users watching this course will never actively go to [[SharePoint]].
 >
-> **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=5)** However, the way SharePoint works, the way it's integrated into the core structure of Microsoft 365, chances are, you will use SharePoint tools within other applications, often without knowing it.
+> **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=5)** However, the way SharePoint works, the way it's integrated into the core structure of [[Microsoft 365]], chances are, you will use SharePoint tools within other applications, often without knowing it.
 >
 > **[0:17](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=17)** So even if you think you'll never use SharePoint, I think this quick introduction is still valuable.
 >
@@ -433,7 +428,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=111)** And this is such a popular feature that some people only think of SharePoint as a file storage tool.
 >
-> **[1:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=117)** And, of course, file storage and file sharing are really important factors for team collaboration, so it's a feature that comes up often in this course.
+> **[1:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=117)** And, of course, file storage and file sharing are really important factors for [[Team Collaboration]], so it's a feature that comes up often in this course.
 >
 > **[2:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=125)** Okay, let's go back to my organization's list of sites, which I can do just by clicking on this SharePoint button near the top left.
 >
@@ -443,7 +438,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=137)** I see residential sales, and I see service to sales.
 >
-> **[2:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=141)** These are groups that were created in Outlook.
+> **[2:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=141)** These are groups that were created in [[Microsoft Outlook|Outlook]].
 >
 > **[2:25](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=145)** If these names sound familiar, it's because we saw them in Outlook in another video.
 >
@@ -465,7 +460,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=191)** It's really just one group which has a foundation in SharePoint but can also be used in other tools.
 >
-> **[3:18](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=198)** While it's good to have a basic understanding of this relationship, you do not have to learn SharePoint to use the rest of the collaboration tools in this course.
+> **[3:18](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=198)** While it's good to have a basic understanding of this relationship, you do not have to learn SharePoint to use the [[Representational State Transfer (REST)|rest]] of the collaboration tools in this course.
 >
 > **[3:27](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-sharepoint?u=76281980&t=207)** Just know that there is a bigger system here.
 >
@@ -477,7 +472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (21), [[Microsoft Outlook|Outlook]] (8), [[Microsoft 365]] (4), feature (2), [[Team Collaboration]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (21), [[Microsoft Outlook|Outlook]] (8), [[Microsoft 365]] (4), [[Team Collaboration]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), open the (1), switch to (1), in the sidebar (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (1)
@@ -489,12 +484,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use groups for email in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980)
+#### [Use groups for email in Outlook](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980&t=0)** - [Instructor] Sending email messages to people in your organization can be more efficient using Microsoft 365 Groups and some other features in Outlook.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980&t=0)** - [Instructor] Sending email messages to people in your organization can be more efficient using [[Microsoft 365]] Groups and some other features in [[Microsoft Outlook|Outlook]].
 >
 > **[0:09](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980&t=9)** I'm signed into the Microsoft 365 website, and I can click the Outlook button on the left to open Outlook on the web.
 >
@@ -578,13 +572,13 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980&t=228)** Once you have that person's name formatted as an @mention, you can hit the Backspace key to remove their last name, so it won't look as formal.
 >
-> **[3:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980&t=237)** @mentions also work in Microsoft Teams and some other tools in Microsoft 365.
+> **[3:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980&t=237)** @mentions also work in [[Microsoft Teams]] and some other tools in Microsoft 365.
 >
 > **[4:03](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980&t=243)** So those are a few ways to take advantage of collaboration tools for sending email in Outlook.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[Microsoft 365]] (4), web (4), application (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[Microsoft 365]] (4), [[Microsoft Teams]] (1)
 > **UI Navigation:** go to (5), click on (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -593,14 +587,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 
-#### Work with shared calendars in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/work-with-shared-calendars-in-outlook?u=76281980)
+#### [Work with shared calendars in Outlook](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/work-with-shared-calendars-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/work-with-shared-calendars-in-outlook?u=76281980&t=0)** - [Instructor] Let's look at shared calendars, one of the core features in Microsoft 365 Groups.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/work-with-shared-calendars-in-outlook?u=76281980&t=0)** - [Instructor] Let's look at shared calendars, one of the core features in [[Microsoft 365]] Groups.
 >
-> **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/work-with-shared-calendars-in-outlook?u=76281980&t=5)** From the Microsoft 365 website, I want to go to Outlook.
+> **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/work-with-shared-calendars-in-outlook?u=76281980&t=5)** From the Microsoft 365 website, I want to go to [[Microsoft Outlook|Outlook]].
 >
 > **[0:08](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/work-with-shared-calendars-in-outlook?u=76281980&t=8)** So I'll choose Outlook on the left.
 >
@@ -696,19 +689,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), [[Microsoft 365]] (5), web (4), application (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), [[Microsoft 365]] (5)
 > **UI Navigation:** go to (4), select the (2), in the sidebar (1), switch to (1), right-click (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Invite people to scheduled meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/invite-people-to-scheduled-meetings?u=76281980)
+#### [Invite people to scheduled meetings](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/invite-people-to-scheduled-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/invite-people-to-scheduled-meetings?u=76281980&t=0)** - [Instructor] In this video, we will see some options for setting up meetings in Outlook.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/invite-people-to-scheduled-meetings?u=76281980&t=0)** - [Instructor] In this video, we will see some options for setting up meetings in [[Microsoft Outlook|Outlook]].
 >
 > **[0:04](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/invite-people-to-scheduled-meetings?u=76281980&t=4)** A meeting is different from other events.
 >
@@ -772,7 +764,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/invite-people-to-scheduled-meetings?u=76281980&t=147)** And finally, if your teammates work from remote locations, you may want to set up a video conferencing solution.
 >
-> **[2:34](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/invite-people-to-scheduled-meetings?u=76281980&t=154)** There are lots of tools for video calls, but Microsoft Teams is included in your Microsoft 365 account, and it has video and audio meetings built in.
+> **[2:34](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/invite-people-to-scheduled-meetings?u=76281980&t=154)** There are lots of tools for video calls, but [[Microsoft Teams]] is included in your [[Microsoft 365]] account, and it has video and audio meetings built in.
 >
 > **[2:44](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/invite-people-to-scheduled-meetings?u=76281980&t=164)** We will introduce Teams in more detail later in this course, but depending on how your subscription is set up and which version of Outlook you're using, the controls might be a little bit different, but usually there's an option like this one here.
 >
@@ -824,7 +816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (8), teams (8), application (4), [[Microsoft Teams]] (3), web (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (8), [[Microsoft Teams]] (3), [[Microsoft 365]] (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (4), switch to (1)
 > **Prerequisites:** set up (2), you'll need (1)
@@ -833,16 +825,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communicate with coworkers using Yammer
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980)
+#### [Communicate with coworkers using Yammer](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=0)** - [Nick] This video will be a quick overview of Yammer, a messaging system which works like a social media platform for your enterprise organization.
 >
-> **[0:08](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=8)** From the Microsoft 365 homepage, I'll open the app chooser and I'll go to Yammer.
+> **[0:08](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=8)** From the [[Microsoft 365]] homepage, I'll open the app chooser and I'll go to Yammer.
 >
-> **[0:14](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=14)** So this is basically a social media platform like Facebook or LinkedIn, but it's a closed system for your organization.
+> **[0:14](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=14)** So this is basically a social media platform like Facebook or [[LinkedIn]], but it's a closed system for your organization.
 >
 > **[0:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=21)** You can post messages and comment on posts, but you don't have to collect friends like on Facebook because all of the people in your Microsoft 365 organization are already members.
 >
@@ -904,7 +895,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=175)** Now, before I post this, there's an option to bring a message to somebody's attention by at mentioning them.
 >
-> **[3:01](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=181)** We saw this in Outlook, and it also works in other Microsoft 365 tools like Teams.
+> **[3:01](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=181)** We saw this in [[Microsoft Outlook|Outlook]], and it also works in other Microsoft 365 tools like Teams.
 >
 > **[3:07](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/communicate-with-coworkers-using-yammer?u=76281980&t=187)** So I'm just going to type the at symbol, and then I can start typing in the name of somebody in my organization.
 >
@@ -942,23 +933,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (3), next (2), [[LinkedIn]] (1), [[Engineering]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[LinkedIn]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** go to (3), click on (2), open the (1), select the (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [nick] (1)
 
-#### Manage conversations with Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980)
+#### [Manage conversations with Teams](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=0)** - [Instructor] Microsoft Teams is a tool for online conversations, private chats and scheduled meetings with your coworkers.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=0)** - [Instructor] [[Microsoft Teams]] is a tool for online conversations, private chats and scheduled meetings with your coworkers.
 >
-> **[0:07](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=7)** Some people use it as their main work hub and it integrates very well with other Microsoft 365 tools.
+> **[0:07](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=7)** Some people use it as their main work hub and it integrates very well with other [[Microsoft 365]] tools.
 >
-> **[0:13](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=13)** You can access Teams from the Microsoft 365 webpage or you can go to teams.[microsoft.com](https://microsoft.com).
+> **[0:13](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=13)** You can access Teams from the Microsoft 365 webpage or you can go to teams.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=21)** When we go to Teams, there are a few sections over here on the left side.
 >
@@ -998,7 +988,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=113)** And then in this text field, I'll write my message.
 >
-> **[1:56](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=116)** Now teams also supports @mentions which we talked about in the videos on Outlook email and Yammer.
+> **[1:56](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=116)** Now teams also supports @mentions which we talked about in the videos on [[Microsoft Outlook|Outlook]] email and Yammer.
 >
 > **[2:02](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=122)** If I want to bring somebody's attention to this message, I can @mention them.
 >
@@ -1040,7 +1030,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=226)** Let's go back to that teams category.
 >
-> **[3:48](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=228)** So the teams we have here connect directly to Outlook and SharePoint groups.
+> **[3:48](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=228)** So the teams we have here connect directly to Outlook and [[SharePoint]] groups.
 >
 > **[3:54](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-conversations-with-teams?u=76281980&t=234)** Now this team here called Kinetico is an organization-wide team.
 >
@@ -1072,7 +1062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (17), [[Microsoft Outlook|Outlook]] (9), [[SharePoint]] (5), [[Microsoft 365]] (4), [[Microsoft Teams]] (3)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), [[SharePoint]] (5), [[Microsoft 365]] (4), [[Microsoft Teams]] (3), [[Microsoft]] (2)
 > **Definitions:** is a  (3), is called (2), is an  (2)
 > **UI Navigation:** go to (6)
 > **CLI Commands:** make (5)
@@ -1081,14 +1071,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Manage tasks and projects with Planner
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980)
+#### [Manage tasks and projects with Planner](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=0)** - [Instructor] Planner is a tool that lets you manage group projects by building a list of tasks, assigning those tasks to different team members, setting deadlines and monitoring the progress.
 >
-> **[0:10](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=10)** From Microsoft 365 website, you can go to the app chooser in the top left and you can go to the list of all apps or I see planner right here so I can click on that to open it.
+> **[0:10](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=10)** From [[Microsoft 365]] website, you can go to the app chooser in the top left and you can go to the list of all apps or I see planner right here so I can click on that to open it.
 >
 > **[0:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=20)** Now you may already have some plans listed over on the left.
 >
@@ -1098,7 +1087,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=37)** I'm going to choose that.
 >
-> **[0:39](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=39)** So I can see all of the groups in my organization that you might access through Outlook or SharePoint.
+> **[0:39](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=39)** So I can see all of the groups in my organization that you might access through [[Microsoft Outlook|Outlook]] or [[SharePoint]].
 >
 > **[0:44](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=44)** I'm going to choose my facilities group.
 >
@@ -1198,15 +1187,15 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=274)** If you are the manager of this team, you may want to sign into planner and then select the plan on the left and you can monitor the progress from here.
 >
-> **[4:43](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=283)** Now you can also go up to the top and click this charts option to get an idea of which tasks are at which stage as well as statistics on how individual members of the team are keeping up with their tasks.
+> **[4:43](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=283)** Now you can also go up to the top and click this charts option to get an idea of which tasks are at which stage as well as [[Statistics]] on how individual members of the team are keeping up with their tasks.
 >
 > **[4:54](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=294)** Of course you can change assignments, add notes, and do lots of other stuff to monitor the progress.
 >
-> **[5:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=300)** If you think that you may want to use planner, I recommend you check out the course, Microsoft planner Essential Training for lots more information.
+> **[5:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/manage-tasks-and-projects-with-planner?u=76281980&t=300)** If you think that you may want to use planner, I recommend you check out the course, [[Microsoft]] planner Essential Training for lots more information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (4), next (3), [[Search]] (2), [[Microsoft Outlook|Outlook]] (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft Outlook|Outlook]] (1), [[SharePoint]] (1), [[Statistics]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (3), click on (1), select the (1)
 > **Definitions:** is a  (2)
@@ -1214,18 +1203,17 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other tools with collaboration features
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980)
+#### [Other tools with collaboration features](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=0)** - [Nick] In this chapter, I've tried to introduce the main tools in Microsoft 365 that are used for communication and collaboration.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=0)** - [Nick] In this chapter, I've tried to introduce the main tools in [[Microsoft 365]] that are used for communication and collaboration.
 >
 > **[0:08](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=8)** But the entire Microsoft 365 system is built around connectivity.
 >
 > **[0:12](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=12)** We can't go through every application and service, but I think we should take a quick look at some of the other tools where communication may not be the primary focus, but they do have some online collaboration features.
 >
-> **[0:23](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=23)** Starting on the Microsoft 365 homepage, I'll go to the app chooser, and let's talk about OneNote.
+> **[0:23](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=23)** Starting on the Microsoft 365 homepage, I'll go to the app chooser, and let's talk about [[OneNote]].
 >
 > **[0:29](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=29)** OneNote is a notebook application.
 >
@@ -1233,11 +1221,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=38)** These notebooks can include text, but they can also have pictures and other elements.
 >
-> **[0:43](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=43)** If you have a computer with a stylus, you can even make handwritten notes, and you can have shared notebooks inside a team in Microsoft Teams.
+> **[0:43](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=43)** If you have a computer with a stylus, you can even make handwritten notes, and you can have shared notebooks inside a team in [[Microsoft Teams]].
 >
 > **[0:51](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=51)** David Rivers' course, "OneNote 2016 Essential Training," is where you can learn more about OneNote.
 >
-> **[0:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=57)** Next, let's go back to the app chooser and go over to Microsoft Lists, which is an application for storing lists.
+> **[0:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=57)** Next, let's go back to the app chooser and go over to [[Microsoft]] Lists, which is an application for storing lists.
 >
 > **[1:04](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=64)** You can make something as simple as a shopping list, or you can organize and track complex projects like inventories or large events like conferences.
 >
@@ -1257,7 +1245,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=108)** Gini von Courter has a course to help you learn Microsoft Stream.
 >
-> **[1:53](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=113)** And if we take a look at Microsoft Forms, this is a tool where users can build online forms to collect information from other users.
+> **[1:53](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=113)** And if we take a look at Microsoft [[Forms]], this is a tool where users can build online forms to collect information from other users.
 >
 > **[2:02](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=122)** These can be surveys, quizzes, or any other situations where you need to collect information.
 >
@@ -1269,7 +1257,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=145)** Viva Insights, for example, can be used to track your own performance and wellbeing at work, or it can be used by managers to get a look at the productivity and wellbeing of their teammates.
 >
-> **[2:36](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=156)** Viva Learning is a resource library full of online training materials, including the LinkedIn Learning library.
+> **[2:36](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=156)** Viva Learning is a resource library full of online training materials, including the [[LinkedIn]] Learning library.
 >
 > **[2:43](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=163)** Viva Topics lets organizations build an online resource center with information about projects and jargon from that organization, almost like a customized dictionary for your organization, but with links to help you find people at your company who can help you with those projects.
 >
@@ -1279,7 +1267,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=188)** These are often referred to as strategic priorities or OKRs.
 >
-> **[3:13](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=193)** Many of the Viva modules are used inside of Microsoft Teams, and some tools are used in SharePoint.
+> **[3:13](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=193)** Many of the Viva modules are used inside of Microsoft Teams, and some tools are used in [[SharePoint]].
 >
 > **[3:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/other-tools-with-collaboration-features?u=76281980&t=200)** If any of the Viva modules sound interesting, you should take a look at my course, "Microsoft Viva Essential Training."
 >
@@ -1289,7 +1277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (9), [[Microsoft 365]] (4), [[OneNote]] (4), application (3), [[Forms]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (9), [[Microsoft 365]] (4), [[OneNote]] (4), [[Forms]] (3), [[Microsoft Teams]] (2)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** go back to (2)
@@ -1303,14 +1291,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand cloud storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980)
+#### [Understand cloud storage](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=0)** - [Instructor] In this video, I want to introduce the online file storing options in Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=0)** - [Instructor] In this video, I want to introduce the online file storing options in [[Microsoft 365]].
 >
-> **[0:06](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=6)** Online file storage is sometimes called cloud storage, and Microsoft 365 has some specific tools for this.
+> **[0:06](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=6)** Online file storage is sometimes called [[Cloud Storage]], and Microsoft 365 has some specific tools for this.
 >
 > **[0:13](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=13)** Now first, there are two main reasons you may want to store files online.
 >
@@ -1322,7 +1309,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=34)** Now we're not talking about attaching a copy of a file to an email message or giving somebody a copy of a file on a USB stick.
 >
-> **[0:41](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=41)** With online tools like OneDrive, SharePoint, and Teams, your files are stored in one online location, one copy of those files, which can be accessed by other people, if you give them permission.
+> **[0:41](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=41)** With online tools like [[Microsoft OneDrive|OneDrive]], [[SharePoint]], and Teams, your files are stored in one online location, one copy of those files, which can be accessed by other people, if you give them permission.
 >
 > **[0:56](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=56)** This allows multiple people to view the same document and sometimes even edit the same document at the same time.
 >
@@ -1332,7 +1319,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=73)** And to simplify the options and to make it easier to understand, I'll divide these tools into two big categories.
 >
-> **[1:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=80)** There's OneDrive, and then there are file libraries, which can be found in several tools like Microsoft 365 Groups in Outlook, in SharePoint, and in Teams.
+> **[1:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=80)** There's OneDrive, and then there are file libraries, which can be found in several tools like Microsoft 365 Groups in [[Microsoft Outlook|Outlook]], in SharePoint, and in Teams.
 >
 > **[1:31](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980&t=91)** So let's clarify this.
 >
@@ -1358,21 +1345,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Microsoft 365]] (4), [[SharePoint]] (4), [[Microsoft Outlook|Outlook]] (4), cloud (3)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Microsoft 365]] (4), [[SharePoint]] (4), [[Microsoft Outlook|Outlook]] (4), [[Cloud Storage]] (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** usb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Store and share files in OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980)
+#### [Store and share files in OneDrive](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=0)** - [Instructor] In this video, we will see how to use OneDrive to store and share files online.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=0)** - [Instructor] In this video, we will see how to use [[Microsoft OneDrive|OneDrive]] to store and share files online.
 >
-> **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=5)** From the Microsoft 365 website, I can go to the app chooser and open OneDrive from here.
+> **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=5)** From the [[Microsoft 365]] website, I can go to the app chooser and open OneDrive from here.
 >
-> **[0:10](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=10)** And there's also a more limited version of OneDrive that comes with free Microsoft accounts.
+> **[0:10](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=10)** And there's also a more limited version of OneDrive that comes with free [[Microsoft]] accounts.
 >
 > **[0:15](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=15)** Here in OneDrive, I want to make sure that My Files is selected on the left.
 >
@@ -1464,7 +1450,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=224)** We've done all this on the Microsoft 365 website, but you can also link your OneDrive to your computer.
 >
-> **[3:51](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=231)** If you do that, you can open File Explorer on Windows or Finder on a Mac.
+> **[3:51](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=231)** If you do that, you can open File Explorer on [[Windows]] or Finder on a Mac.
 >
 > **[3:55](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=235)** And you'll see, if you have it set up, your OneDrive will be listed there on the left.
 >
@@ -1482,7 +1468,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=274)** You can even right-click on a file from here.
 >
-> **[4:37](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=277)** And on a Mac or on Windows 10, you'll see a share option here in this menu.
+> **[4:37](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=277)** And on a Mac or on [[Windows 10]], you'll see a share option here in this menu.
 >
 > **[4:42](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-onedrive?u=76281980&t=282)** Or on Windows 11, it's represented by a button here in this menu.
 >
@@ -1492,7 +1478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (12), [[Microsoft 365]] (4), [[Windows]] (3), application (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (12), [[Microsoft 365]] (4), [[Windows]] (3), [[Microsoft]] (1), [[Windows 10]] (1)
 > **UI Navigation:** go to (3), click on (3), right-click (1)
 > **CLI Commands:** make (6)
 > **Prerequisites:** set up (3), install (1), setup (1)
@@ -1501,18 +1487,17 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use file libraries in Groups and SharePoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980)
+#### [Use file libraries in Groups and SharePoint](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=0)** - [Instructor] In this video, we will see how to store and share files in a file library.
 >
-> **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=5)** File libraries are a key feature of SharePoint, but they also work in other tools like Outlook and Teams.
+> **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=5)** File libraries are a key feature of [[SharePoint]], but they also work in other tools like [[Microsoft Outlook|Outlook]] and Teams.
 >
 > **[0:11](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=11)** So I want to start in Outlook on the web.
 >
-> **[0:13](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=13)** And on the left side, we'll scroll down to the section labeled groups, and I'll select one of my Microsoft 365 groups.
+> **[0:13](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=13)** And on the left side, we'll scroll down to the section labeled groups, and I'll select one of my [[Microsoft 365]] groups.
 >
 > **[0:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=20)** Now, I've been using this as an easy way to send email to a specific group of coworkers, but there's also a button here to view documents, which opens the file library connected to this group.
 >
@@ -1540,7 +1525,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=92)** You can click that and it opens this panel where you can generate a share link.
 >
-> **[1:37](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=97)** We saw how to do this in the video on working with OneDrive.
+> **[1:37](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=97)** We saw how to do this in the video on working with [[Microsoft OneDrive|OneDrive]].
 >
 > **[1:41](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=101)** So for now, I'm just going to close this panel.
 >
@@ -1564,7 +1549,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=153)** Now, I've already set that up for this file library on my computer.
 >
-> **[2:38](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=158)** Once you have that set up, you can go to File Explorer on Windows or Finder on a Mac.
+> **[2:38](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=158)** Once you have that set up, you can go to File Explorer on [[Windows]] or Finder on a Mac.
 >
 > **[2:43](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=163)** Then you'll see the name of your company listed over here on the left.
 >
@@ -1576,9 +1561,9 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=183)** Your files will stay in sync with the SharePoint document library as long as you are connected to the internet.
 >
-> **[3:10](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=190)** And whether you use this sync option or not, you can also open and save files directly from your SharePoint libraries in the Office applications, like Word, Excel and PowerPoint.
+> **[3:10](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=190)** And whether you use this sync option or not, you can also open and save files directly from your SharePoint libraries in the [[Microsoft Office|Office]] applications, like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]] and [[Microsoft PowerPoint|PowerPoint]].
 >
-> **[3:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=201)** So I'm going to go into Microsoft Word.
+> **[3:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=201)** So I'm going to go into [[Microsoft Word]].
 >
 > **[3:24](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-file-libraries-in-groups-and-sharepoint?u=76281980&t=204)** And the key here is that you must be signed into the Office applications with the same Microsoft 365 account that houses that SharePoint library.
 >
@@ -1606,7 +1591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (16), [[Microsoft Outlook|Outlook]] (5), [[Microsoft 365]] (4), feature (2), web (2)
+> **Frameworks & Libraries:** [[SharePoint]] (16), [[Microsoft Outlook|Outlook]] (5), [[Microsoft 365]] (4), [[Microsoft Office|Office]] (2), [[Microsoft Word]] (2)
 > **UI Navigation:** go to (4), scroll down (1), open the (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** set up (3)
@@ -1614,16 +1599,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Store and share files in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980)
+#### [Store and share files in Teams](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=0)** - [Instructor] The file sharing system in Microsoft Teams is simply an extension of the file libraries that you use in SharePoint or Outlook.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=0)** - [Instructor] The file sharing system in [[Microsoft Teams]] is simply an extension of the file libraries that you use in [[SharePoint]] or [[Microsoft Outlook|Outlook]].
 >
 > **[0:07](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=7)** I'm in Teams, and I have the Teams section selected on the left, where you can see that I am a member of three teams.
 >
-> **[0:15](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=15)** As we discussed in another video, those teams are usually linked to Microsoft 365 groups.
+> **[0:15](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=15)** As we discussed in another video, those teams are usually linked to [[Microsoft 365]] groups.
 >
 > **[0:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=21)** When somebody makes a new team, that team will either automatically show up as a group in SharePoint or Outlook, or they can connect the new team to an existing group.
 >
@@ -1639,7 +1623,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=44)** And I want you to see that there are three channels in this team: General, Marketing, and there's a hidden channel.
 >
-> **[0:50](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=50)** If I click on this, we can see the third one is called Products.
+> **[0:50](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=50)** If I click on this, we can see the third one is called [[Microsoft Products|Products]].
 >
 > **[0:53](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=53)** Those names will be important in a moment: General, Marketing, and Products.
 >
@@ -1713,7 +1697,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=235)** And there's an option to open this file library in SharePoint.
 >
-> **[3:59](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=239)** And that's just another way that Outlook and SharePoint groups can be used in other Microsoft applications.
+> **[3:59](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=239)** And that's just another way that Outlook and SharePoint groups can be used in other [[Microsoft]] applications.
 >
 > **[4:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/store-and-share-files-in-teams?u=76281980&t=245)** Okay, so we've been doing all this in the Teams category, but you can also use private chats to send private messages to specific people.
 >
@@ -1733,7 +1717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (14), [[SharePoint]] (6), [[Microsoft Outlook|Outlook]] (6), [[Microsoft Teams]] (4), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[SharePoint]] (6), [[Microsoft Outlook|Outlook]] (6), [[Microsoft Teams]] (4), [[Microsoft Products|Products]] (3), [[Microsoft 365]] (2)
 > **UI Navigation:** click on (3), go to (2), select the (1)
 > **Cross-References:** we discussed (1), go back to (1)
 > **CLI Commands:** find (1)
@@ -1742,8 +1726,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share files in Yammer
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980)
+#### [Share files in Yammer](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,11 +1758,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=112)** I can click on any of these files to view them, from here, I can download a copy of the file, but for now I'm just going to click the back button, and let's go back to the files list again, so I'll click that files button.
 >
-> **[2:06](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=126)** And on this course, we've talked a lot about how certain components work as extensions of SharePoint groups, that's also true of communities in Yammer.
+> **[2:06](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=126)** And on this course, we've talked a lot about how certain components work as extensions of [[SharePoint]] groups, that's also true of communities in Yammer.
 >
-> **[2:15](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=135)** In this file list we do not have all of the same controls for organizing files like you would see in Outlook or SharePoint or even Teams, but this file list is connected to a SharePoint group on the back end.
+> **[2:15](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=135)** In this file list we do not have all of the same controls for organizing files like you would see in [[Microsoft Outlook|Outlook]] or SharePoint or even Teams, but this file list is connected to a SharePoint group on the back end.
 >
-> **[2:27](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=147)** We can see that by going over to SharePoint, so I'll go to the main Microsoft 365 site, in the app chooser I'll go to SharePoint, and I'm looking for the SharePoint site that is connected to that group.
+> **[2:27](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=147)** We can see that by going over to SharePoint, so I'll go to the main [[Microsoft 365]] site, in the app chooser I'll go to SharePoint, and I'm looking for the SharePoint site that is connected to that group.
 >
 > **[2:39](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=159)** I can see it's listed here, this Green Initiative site, I might need to search for it, but I can see it's listed here, so I can click on that to open it.
 >
@@ -1789,13 +1772,13 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=182)** And if we go to the document library here on this site, you'll see there's this folder called apps, if I go there, there's another folder called Yammer, and in that folder, we see all of those same files that we saw in that community in Yammer, but here you have more file organization options.
 >
-> **[3:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=200)** You've got your sharing options, and you can even sync this folder with file Explorer on Windows or Finder on a Mac.
+> **[3:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=200)** You've got your sharing options, and you can even sync this folder with file Explorer on [[Windows]] or Finder on a Mac.
 >
 > **[3:27](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-in-yammer?u=76281980&t=207)** So you can share files in Yammer, and if you want, you can also work with those same files on the SharePoint site later.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (9), teams (3), [[Microsoft Outlook|Outlook]] (1), [[Microsoft 365]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (9), [[Microsoft Outlook|Outlook]] (1), [[Microsoft 365]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (5), click on (3)
 > **Analogies:** similar to (2)
 > **Cross-References:** go back to (1)
@@ -1807,14 +1790,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Edit Word, Excel, and PowerPoint documents online
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980)
+#### [Edit Word, Excel, and PowerPoint documents online](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=0)** - [Instructor] Of course you can store or share files online in OneDrive or in file libraries.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=0)** - [Instructor] Of course you can store or share files online in [[Microsoft OneDrive|OneDrive]] or in file libraries.
 >
-> **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=5)** But if you have Word, Excel, or PowerPoint documents stored in a Microsoft Cloud storage tool, then you also have the ability to edit those documents online without downloading a copy.
+> **[0:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=5)** But if you have [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], or [[Microsoft PowerPoint|PowerPoint]] documents stored in a [[Microsoft]] [[Cloud Storage]] tool, then you also have the ability to edit those documents online without downloading a copy.
 >
 > **[0:17](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=17)** You can even have multiple people editing the same document at the same time, which is called co-authoring.
 >
@@ -1826,13 +1808,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=39)** And when you're finished, there's usually a close button up here near the top right.
 >
-> **[0:44](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=44)** But if you open a Word, Excel, or PowerPoint document or even a OneNote notebook, you can edit it right here in the web browser.
+> **[0:44](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=44)** But if you open a Word, Excel, or PowerPoint document or even a [[OneNote]] notebook, you can edit it right here in the web browser.
 >
 > **[0:52](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=52)** So I have a Word document that I can use here, but this works exactly the same with Excel and PowerPoint documents.
 >
 > **[0:58](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=58)** I'll click to open that.
 >
-> **[1:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=60)** And now I'm not just looking at the document, I'm working in a web-based version of Microsoft Word, and I can literally edit the document right here.
+> **[1:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=60)** And now I'm not just looking at the document, I'm working in a web-based version of [[Microsoft Word]], and I can literally edit the document right here.
 >
 > **[1:09](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=69)** So I'm just going to delete a little bit of text so you can see it.
 >
@@ -1856,7 +1838,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=109)** And we can leverage this even further in a group file library.
 >
-> **[1:53](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=113)** If you've watched other videos in this course, you know that I could go to Outlook, SharePoint, Teams, or Yammer and I can look at files that have been shared there.
+> **[1:53](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=113)** If you've watched other videos in this course, you know that I could go to [[Microsoft Outlook|Outlook]], [[SharePoint]], Teams, or Yammer and I can look at files that have been shared there.
 >
 > **[2:02](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=122)** Let's just pick one of those.
 >
@@ -1906,15 +1888,15 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=237)** So I can just click that to close it.
 >
-> **[3:59](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=239)** This option to edit office documents online is one of the biggest benefits of using Microsoft Cloud storage tools.
+> **[3:59](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=239)** This option to edit [[Microsoft Office|office]] documents online is one of the biggest benefits of using Microsoft Cloud storage tools.
 >
 > **[4:06](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=246)** You don't get this with files that are stored locally on your computer.
 >
-> **[4:10](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=250)** The files must be stored online using OneDrive or a file library through one of the other Microsoft 365 tools in order to do this.
+> **[4:10](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980&t=250)** The files must be stored online using OneDrive or a file library through one of the other [[Microsoft 365]] tools in order to do this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Word|Word]] (5), teams (5), [[Microsoft Excel|Excel]] (4), [[Microsoft PowerPoint|Powerpoint]] (4)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Word|Word]] (5), [[Microsoft Excel|Excel]] (4), [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft]] (3)
 > **UI Navigation:** go to (5), click on (1), open the (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is called (2)
@@ -1922,22 +1904,21 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share files from Word, Excel, or PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980)
+#### [Share files from Word, Excel, or PowerPoint](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=0)** - [Instructor] In another video in this course, we saw how you can share files that you have stored on OneDrive or SharePoint, but if you have a Word, PowerPoint or Excel file open in the desktop application, you can share your files from there as well.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=0)** - [Instructor] In another video in this course, we saw how you can share files that you have stored on [[Microsoft OneDrive|OneDrive]] or [[SharePoint]], but if you have a [[Microsoft Word|Word]], [[Microsoft PowerPoint|PowerPoint]] or [[Microsoft Excel|Excel]] file open in the desktop application, you can share your files from there as well.
 >
 > **[0:14](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=14)** But your sharing options are different depending on where the file is stored.
 >
-> **[0:19](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=19)** So you can see, I have a Microsoft Word document open, and this works exactly the same in Excel and PowerPoint.
+> **[0:19](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=19)** So you can see, I have a [[Microsoft Word]] document open, and this works exactly the same in Excel and PowerPoint.
 >
 > **[0:24](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=24)** If I click the share button near the top-right corner, it opens this panel and it's prompting me to upload this file to my OneDrive.
 >
 > **[0:32](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=32)** So this file is currently stored in the documents folder on my computer storage drive.
 >
-> **[0:38](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=38)** You cannot use the sharing features in Microsoft 365 with files that are stored locally on your computer.
+> **[0:38](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=38)** You cannot use the sharing features in [[Microsoft 365]] with files that are stored locally on your computer.
 >
 > **[0:45](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=45)** They have to be stored on OneDrive or a file library in SharePoint or Teams in order to use the online sharing features.
 >
@@ -1989,7 +1970,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=183)** The people who receive that email can click on the link to open it.
 >
-> **[3:06](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=186)** The person outside of my organization will need a Microsoft account to sign in, but they can set up an account for free, and multiple people can open, and edit the same Word, Excel or PowerPoint document, even at the same time.
+> **[3:06](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=186)** The person outside of my organization will need a [[Microsoft]] account to sign in, but they can set up an account for free, and multiple people can open, and edit the same Word, Excel or PowerPoint document, even at the same time.
 >
 > **[3:20](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/share-files-from-word-excel-or-powerpoint?u=76281980&t=200)** Now in a moment, Simon will open that file on another computer.
 >
@@ -2007,12 +1988,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add comments in a Word, Excel, or PowerPoint file
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980)
+#### [Add comments in a Word, Excel, or PowerPoint file](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980&t=0)** - [Instructor] If you've shared a Word, Excel or PowerPoint document with coworkers, or if you're working in a document in a shared file library, you might have multiple people making changes to the same document.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980&t=0)** - [Instructor] If you've shared a [[Microsoft Word|Word]], [[Microsoft Excel|Excel]] or [[Microsoft PowerPoint|PowerPoint]] document with coworkers, or if you're working in a document in a shared file library, you might have multiple people making changes to the same document.
 >
 > **[0:10](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980&t=10)** So you may want to use comments to discuss changes or bring information to somebody's attention.
 >
@@ -2068,23 +2048,22 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980&t=211)** Naturally, you can click the comments button up in the top right to open the panel where you can see a list of all of the comments here on this spreadsheet and in any of these applications, you can go to the Review ribbon, where you have more controls for working with comments.
 >
-> **[3:45](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980&t=225)** The comments feature works the same whether the file is stored locally on your computer or on a Microsoft cloud storage tool, but if your file is stored on OneDrive or SharePoint, then shared with others, then everybody will be working with the same copy, the same version of the file, and comments are a great way to communicate between those coworkers.
+> **[3:45](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/add-comments-in-a-word-excel-or-powerpoint-file?u=76281980&t=225)** The comments feature works the same whether the file is stored locally on your computer or on a [[Microsoft]] [[Cloud Storage]] tool, but if your file is stored on [[Microsoft OneDrive|OneDrive]] or [[SharePoint]], then shared with others, then everybody will be working with the same copy, the same version of the file, and comments are a great way to communicate between those coworkers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft PowerPoint|Powerpoint]] (4), next (3), [[Microsoft Word|Word]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word|Word]] (2), [[Microsoft]] (1), [[Cloud Storage]] (1)
 > **UI Navigation:** go to (5), click on (2), open the (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Track changes in a Word document
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/track-changes-in-a-word-document?u=76281980)
+#### [Track changes in a Word document](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/track-changes-in-a-word-document?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/track-changes-in-a-word-document?u=76281980&t=0)** - [Instructor] One possible problem with sharing a document is that people might make conflicting changes or somebody might make a change that you don't know about.
 >
-> **[0:08](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/track-changes-in-a-word-document?u=76281980&t=8)** Fortunately, Microsoft Word offers the Track Changes tool.
+> **[0:08](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/track-changes-in-a-word-document?u=76281980&t=8)** Fortunately, [[Microsoft Word]] offers the Track Changes tool.
 >
 > **[0:12](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/track-changes-in-a-word-document?u=76281980&t=12)** I'm going to make some changes to this document, but first I want to turn this feature on so that my teammates know the changes that I've made.
 >
@@ -2122,7 +2101,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/track-changes-in-a-word-document?u=76281980&t=129)** On this document, Track Changes is already turned on, and I can see that one of my coworkers already made some changes and from here, I might want to make a change myself.
 >
-> **[2:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/track-changes-in-a-word-document?u=76281980&t=141)** So I'll just delete a word here and you'll see that my changes are in red and the changes that my coworker made are in blue.
+> **[2:21](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/track-changes-in-a-word-document?u=76281980&t=141)** So I'll just delete a [[Microsoft Word|word]] here and you'll see that my changes are in red and the changes that my coworker made are in blue.
 >
 > **[2:30](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/track-changes-in-a-word-document?u=76281980&t=150)** And if several people are sharing the file and making changes, each person will show up as a different color.
 >
@@ -2144,7 +2123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), next (5), [[Microsoft Word|Word]] (3), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Word]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (3)
 > **Speakers:** - [instructor] (1)
@@ -2154,18 +2133,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn more about Microsoft 365 applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980)
+#### [Learn more about Microsoft 365 applications](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=0)** - [Instructor] Thanks for joining me for this overview of the Team collaboration tools in Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=0)** - [Instructor] Thanks for joining me for this overview of the [[Team Collaboration]] tools in [[Microsoft 365]].
 >
 > **[0:06](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=6)** We got to see a bit of several tools in this course and I wish I could teach you everything about these applications in detail, but some things are best left to other courses.
 >
-> **[0:15](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=15)** A quick search on the LinkedIn Learning Library will turn up more courses for each of the tools and applications introduced in this course.
+> **[0:15](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=15)** A quick search on the [[LinkedIn]] Learning Library will turn up more courses for each of the tools and applications introduced in this course.
 >
-> **[0:22](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=22)** For example, we used Outlook in this course for mail and calendar tasks.
+> **[0:22](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=22)** For example, we used [[Microsoft Outlook|Outlook]] in this course for mail and calendar tasks.
 >
 > **[0:26](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=26)** You can use Outlook as a web service in any web browser or you can install the full Outlook desktop application on your computer.
 >
@@ -2177,13 +2155,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=58)** That is a consumer-level tool that does not have the business-level collaboration tools that we talked about in this course.
 >
-> **[1:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=65)** Now, we also talked about SharePoint in this course but we only saw a few features in a very large platform.
+> **[1:05](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=65)** Now, we also talked about [[SharePoint]] in this course but we only saw a few features in a very large platform.
 >
 > **[1:11](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=71)** For more information about using SharePoint in the context of Microsoft 365 on the web, check out these two SharePoint Online Essential Training courses.
 >
 > **[1:19](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=79)** And of course, most of the other applications, like Teams, Yammer, and Planner, have their own essential training courses as well.
 >
-> **[1:27](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=87)** And keep in mind, Microsoft is constantly updating these tools.
+> **[1:27](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=87)** And keep in mind, [[Microsoft]] is constantly updating these tools.
 >
 > **[1:31](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980&t=91)** Don't be surprised to see changes and new features as you continue working.
 >
@@ -2191,7 +2169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), web (5), [[Microsoft 365]] (4), [[SharePoint]] (3), application (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (9), [[Microsoft 365]] (4), [[SharePoint]] (3), [[Microsoft]] (2), [[Team Collaboration]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **URLs:** [outlook.com](https://outlook.com) (1)

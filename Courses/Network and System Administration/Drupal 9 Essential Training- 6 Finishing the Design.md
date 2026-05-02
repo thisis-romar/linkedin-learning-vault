@@ -64,12 +64,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/introduction-to-the-course?u=76281980)
+#### [Introduction to the course](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/introduction-to-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/introduction-to-the-course?u=76281980&t=2)** - Hi and welcome to the Drupal 9 essential training series.
+> **[0:02](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/introduction-to-the-course?u=76281980&t=2)** - Hi and welcome to the [[Drupal]] 9 essential training series.
 >
 > **[0:05](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/introduction-to-the-course?u=76281980&t=5)** My name's Rod Martin.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (3), css (2), next (1), management (1)
+> **Frameworks & Libraries:** [[Drupal]] (3)
 > **Env Vars:** css (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - hi (1)
@@ -115,8 +114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finishing the design: Adding the logo
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-adding-the-logo?u=76281980)
+#### [Finishing the design: Adding the logo](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-adding-the-logo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-adding-the-logo?u=76281980&t=16)** As well as three blocks to round out the information on our home page.
 >
-> **[0:21](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-adding-the-logo?u=76281980&t=21)** Now, what's really interesting with Drupal 9 is you can do your home page or your front page in a few different ways.
+> **[0:21](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-adding-the-logo?u=76281980&t=21)** Now, what's really interesting with [[Drupal]] 9 is you can do your home page or your front page in a few different ways.
 >
 > **[0:27](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-adding-the-logo?u=76281980&t=27)** We can do what we're about to do and just lay some blocks out on our current front page.
 >
@@ -228,7 +226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (2), node (1)
+> **Frameworks & Libraries:** [[Drupal]] (2)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** node (1)
 > **URLs:** [ostraining.com](https://ostraining.com) (1)
@@ -237,8 +235,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** kind of like (1)
 
-#### Finishing the design: Updating the front page, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-1?u=76281980)
+#### [Finishing the design: Updating the front page, part 1](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,7 +263,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-1?u=76281980&t=75)** And if I log out, this is what it looks like.
 >
-> **[1:19](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-1?u=76281980&t=79)** Any page in your Drupal site can be your front page.
+> **[1:19](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-1?u=76281980&t=79)** Any page in your [[Drupal]] site can be your front page.
 >
 > **[1:23](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-1?u=76281980&t=83)** I'll just quickly put that back, just by putting slash node back in, and clicking save configuration.
 >
@@ -436,7 +433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), next (4), [[Drupal]] (2)
+> **Frameworks & Libraries:** [[Drupal]] (2)
 > **CLI Commands:** node (6), make (5), find (1)
 > **UI Navigation:** click on (8), scroll down (2)
 > **Cross-References:** go back to (4), in the next (1)
@@ -445,8 +442,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** configure (1)
 
-#### Finishing the design: Updating the front page, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980)
+#### [Finishing the design: Updating the front page, part 2](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,9 +466,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980&t=38)** The title will stay the same, but the format will change.
 >
-> **[0:41](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980&t=41)** Click on the word table.
+> **[0:41](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980&t=41)** Click on the [[Microsoft Word|word]] table.
 >
-> **[0:43](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980&t=43)** Change all displays to this block override, and choose HTML list.
+> **[0:43](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980&t=43)** Change all displays to this block override, and choose [[HTML]] list.
 >
 > **[0:49](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980&t=49)** Click apply.
 >
@@ -622,7 +618,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980&t=392)** We've got our welcome to Drupalville, some good information, latest news, event calendar and featured image.
 >
-> **[6:41](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980&t=401)** Let's move powered by Drupal and the administration menu over.
+> **[6:41](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980&t=401)** Let's move powered by [[Drupal]] and the administration menu over.
 >
 > **[6:48](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-updating-the-front-page-part-2?u=76281980&t=408)** Structure block layout, scroll down to the bottom and they're supposed to be in footer three.
 >
@@ -642,7 +638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Drupal]] (3), [[HTML]] (2), business (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Drupal]] (3), [[HTML]] (2)
 > **UI Navigation:** click on (7), scroll down (2), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2), lat (1)
@@ -651,8 +647,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### CSS and JS Injector
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980)
+#### [CSS and JS Injector](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -684,11 +679,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=74)** Although it's not necessarily the best thing you can do for a production site, though many people do.
 >
-> **[1:20](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=80)** I'm at [drupal.org/project/asset_injector](https://drupal.org/project/asset_injector).
+> **[1:20](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=80)** I'm at [[[Drupal]].org/project/asset_injector](https://drupal.org/project/asset_injector).
 >
 > **[1:26](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=86)** And this has a terrific module.
 >
-> **[1:29](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=89)** It allows you to inject JavaScript and CSS into your site and you're able to restrict it by node, by content type virtually anything you want.
+> **[1:29](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=89)** It allows you to inject [[JavaScript]] and CSS into your site and you're able to restrict it by node, by content type virtually anything you want.
 >
 > **[1:41](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/css-and-js-injector?u=76281980&t=101)** It's really terrific.
 >
@@ -746,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (12), [[Drupal]] (2), [[JavaScript]] (2), node (2), next (1)
+> **Frameworks & Libraries:** [[Drupal]] (2), [[JavaScript]] (2)
 > **Env Vars:** css (12)
 > **CLI Commands:** node (2), make (1), find (1)
 > **Prerequisites:** install (2), set up (1), configure (1)
@@ -760,12 +755,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to update Drupal
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980)
+#### [How to update Drupal](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980&t=4)** - [Instructor] In the middle of recording this course, an update for Drupal was delivered, and I saw the familiar, there are updates available for your version of Drupal.
+> **[0:04](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980&t=4)** - [Instructor] In the middle of recording this course, an update for [[Drupal]] was delivered, and I saw the familiar, there are updates available for your version of Drupal.
 >
 > **[0:12](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980&t=12)** You may or may not see this while you're taking this course, but if you do, here's how you can update Drupal via Composer, if you're using Dev Desktop, or if you have Composer installed on your web server.
 >
@@ -799,7 +793,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980&t=122)** Now this is a pretty typical error to get, and it's actually quite easy to fix.
 >
-> **[2:08](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980&t=128)** In this case, PHP ran out of memory.
+> **[2:08](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980&t=128)** In this case, [[PHP]] ran out of memory.
 >
 > **[2:11](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980&t=131)** This is pretty typical with Dev Desktop, so let me show you how to fix this.
 >
@@ -883,7 +877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (14), [[PHP]] (7), web (1), next (1), database (1)
+> **Frameworks & Libraries:** [[Drupal]] (14), [[PHP]] (7)
 > **CLI Commands:** composer (7), php (7), make (2), find (1)
 > **UI Navigation:** click on (4), go to (3)
 > **File Paths:** settings.php (3), php.ini (1), update.php (1)
@@ -892,12 +886,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (3)
 > **Env Vars:** php (2)
 
-#### How to synchronize between servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-synchronize-between-servers?u=76281980)
+#### [How to synchronize between servers](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-synchronize-between-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-synchronize-between-servers?u=76281980&t=3)** - [Instructor] One of the great things about Drupal 9 is the ability to import and export configurations out of the database from, say, a test server and push it to a production server.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-synchronize-between-servers?u=76281980&t=3)** - [Instructor] One of the great things about [[Drupal]] 9 is the ability to import and export configurations out of the database from, say, a test server and push it to a production server.
 >
 > **[0:16](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-synchronize-between-servers?u=76281980&t=16)** Now, if you're using dev desktop today, you've only got one site.
 >
@@ -925,7 +918,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-synchronize-between-servers?u=76281980&t=115)** Now, again, this isn't your images, your content, and all of the information you've added to your site.
 >
-> **[2:01](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-synchronize-between-servers?u=76281980&t=121)** These are the configuration items, such as contact forms, content types, custom block types, date formats, fields, field storage, a media type that you might have created, a role, a taxonomy vocabulary but not the terms... You get the idea.
+> **[2:01](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-synchronize-between-servers?u=76281980&t=121)** These are the configuration items, such as contact [[Forms]], content types, custom block types, date formats, fields, field storage, a media type that you might have created, a role, a taxonomy vocabulary but not the terms... You get the idea.
 >
 > **[2:22](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-synchronize-between-servers?u=76281980&t=142)** There's a difference between configuration entities and content entities.
 >
@@ -965,7 +958,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (5), database (5), web (2), business (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (5), [[Forms]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Env Vars:** yaml (2)
 > **Best Practices:** you should never (2)
@@ -979,12 +972,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bonus: Creating a digital asset management system, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-1?u=76281980)
+#### [Bonus: Creating a digital asset management system, part 1](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-1?u=76281980&t=3)** - [Instructor] In this bonus section, I want to show you how to create a digital asset management system in Drupal.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-1?u=76281980&t=3)** - [Instructor] In this bonus section, I want to show you how to create a digital asset management system in [[Drupal]].
 >
 > **[0:09](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-1?u=76281980&t=9)** Now, this has been around since about Drupal 8.5, but it's tremendously flexible and gives you a fantastic asset management system.
 >
@@ -1096,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Drupal]] (2), business (2), next (1)
+> **Frameworks & Libraries:** [[Drupal]] (2)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** checkbox (2), click on (2), go to (1)
 > **Versions:** 8.5 (1)
@@ -1105,8 +1097,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bonus: Creating a digital asset management system, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-2?u=76281980)
+#### [Bonus: Creating a digital asset management system, part 2](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,7 +1121,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-2?u=76281980&t=67)** Well guess what?
 >
-> **[1:08](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-2?u=76281980&t=68)** In Drupal 9, this is a view that you have control over.
+> **[1:08](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-2?u=76281980&t=68)** In [[Drupal]] 9, this is a view that you have control over.
 >
 > **[1:13](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-2?u=76281980&t=73)** Now, you can do one of two things here.
 >
@@ -1218,7 +1209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Drupal]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Drupal]] (1)
 > **UI Navigation:** click on (2), scroll down (1), dropdown (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1227,14 +1218,13 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Warnings:** caveat (1)
 
-#### Final thoughts
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/final-thoughts?u=76281980)
+#### [Final thoughts](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/final-thoughts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/final-thoughts?u=76281980&t=3)** - Wow. You made it through.
 >
-> **[0:06](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/final-thoughts?u=76281980&t=6)** If you're watching this video and you've completed all the steps, you've not only built a fairly robust town-style Drupal website, but you've explored one of the best content management systems in the world today.
+> **[0:06](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/final-thoughts?u=76281980&t=6)** If you're watching this video and you've completed all the steps, you've not only built a fairly robust town-style [[Drupal]] website, but you've explored one of the best [[Content Management Systems (CMS)|content management systems]] in the world today.
 >
 > **[0:22](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/final-thoughts?u=76281980&t=22)** So let me offer some final thoughts.
 >
@@ -1318,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (6), management (4), [[Content Management Systems (CMS)|Content management systems]] (1), web (1), node (1)
+> **Frameworks & Libraries:** [[Drupal]] (6), [[Content Management Systems (CMS)|Content management systems]] (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Cross-References:** we talked about (3)
 > **Definitions:** is a  (2)

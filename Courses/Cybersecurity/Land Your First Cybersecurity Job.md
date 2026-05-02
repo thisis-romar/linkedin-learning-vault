@@ -89,14 +89,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your future in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-future-in-cybersecurity-17401993?u=76281980)
+#### [Your future in cybersecurity](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-future-in-cybersecurity-17401993?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-future-in-cybersecurity-17401993?u=76281980&t=0)** (casual offbeat music)
 >
-> **[0:01](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-future-in-cybersecurity-17401993?u=76281980&t=1)** - Each day, we interact with something in the cybersecurity world, from airport security to video games, all the way down to unlocking your phone.
+> **[0:01](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-future-in-cybersecurity-17401993?u=76281980&t=1)** - Each day, we interact with something in the [[Cybersecurity]] world, from airport security to video games, all the way down to unlocking your phone.
 >
 > **[0:09](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-future-in-cybersecurity-17401993?u=76281980&t=9)** Cybersecurity is a part of your life.
 >
@@ -122,7 +121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (1), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8)
 > **Definitions:** is a  (2)
 > **Versions:** 3.5 (1)
 > **Speakers:** - each (1)
@@ -133,22 +132,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cyber domains explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980)
+#### [Cyber domains explained](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=0)** - [Instructor] Depending on your goals in cyber and where you see your career going, there are a variety of areas for you to get your feet wet.
 >
-> **[0:07](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=7)** Whether you have a desire to be technical, manage the teams that drive change, or work on the selling of cyber products.
+> **[0:07](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=7)** Whether you have a desire to be technical, manage the teams that drive change, or work on the selling of cyber [[Microsoft Products|products]].
 >
 > **[0:14](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=14)** Let's go briefly through the eight domains you can work in within cyber security.
 >
-> **[0:18](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=18)** One of the fastest growing domains is security operations.
+> **[0:18](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=18)** One of the fastest growing domains is [[Security Operations]].
 >
 > **[0:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=22)** Here, you're looking to actively prevent and defend against bad actors, the folks trying to steal your data or access your systems.
 >
-> **[0:29](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=29)** You learn how to use tools, such as security incident and event management, SIEMS, incident response tools, and network management tools.
+> **[0:29](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=29)** You learn how to use tools, such as security incident and event management, SIEMS, [[Incident Response]] tools, and network management tools.
 >
 > **[0:37](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=37)** Do you have pretty stellar analytical skills?
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=50)** This may include going to the dark web and looking for chatter about what's to come.
 >
-> **[0:54](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=54)** Career development.
+> **[0:54](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=54)** [[Career Development]].
 >
 > **[0:55](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=55)** Here, you're helping develop certifications or coaching others on their career development.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=79)** Policy and framework creation and implementation.
 >
-> **[1:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=82)** Here, you're helping organizations communicate the risk to stakeholders, as it relates to a set of standards, such as HIPAA, the Health Insurance Portability and Accountability Act, or the Payment Card Industry Data Security Standard, better known as PCI.
+> **[1:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=82)** Here, you're helping organizations communicate the risk to stakeholders, as it relates to a set of standards, such as HIPAA, the Health Insurance Portability and [[Accountability]] Act, or the Payment Card Industry [[Data Security]] Standard, better known as PCI.
 >
 > **[1:37](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=97)** Next up, security architecture.
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=106)** User education.
 >
-> **[1:48](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=108)** This is creating and actually training employees and users on security awareness, technical and managerial skills, and office best practices for security.
+> **[1:48](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=108)** This is creating and actually training employees and users on [[Security Awareness]], technical and managerial skills, and [[Microsoft Office|office]] best practices for security.
 >
 > **[1:57](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980&t=117)** This is a really good area if you have a background in training or teaching others.
 >
@@ -190,19 +188,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), data (2), management (2), [[Career Development]] (2), career (1)
+> **Frameworks & Libraries:** [[Career Development]] (2), [[Microsoft Products|Products]] (1), [[Security Operations]] (1), [[Incident Response]] (1), [[Accountability]] (1)
 > **Env Vars:** siems (1), hipaa (1), pci (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Popular roles in cyber
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980)
+#### [Popular roles in cyber](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=0)** - [Instructor] When most people think of a career in cybersecurity, they imagine people in hoodies hacking away, trying to find ways into systems, the kind of thing you see in movies like "War Games," "Hackers," "Swordfish" and "The Matrix."
+> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=0)** - [Instructor] When most people think of a career in [[Cybersecurity]], they imagine people in hoodies hacking away, trying to find ways into systems, the kind of thing you see in movies like "War Games," "Hackers," "Swordfish" and "The Matrix."
 >
 > **[0:13](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=13)** Yes, hackers are a part of the cyber ecosystem, but there are many more roles needed in this space including a few entry-level roles.
 >
@@ -222,7 +219,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=75)** Please note salary ranges vary based on location, experience, credentials and organization.
 >
-> **[1:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=82)** Other entry-level roles ordered by salary include the incident response analyst.
+> **[1:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=82)** Other entry-level roles ordered by salary include the [[Incident Response]] analyst.
 >
 > **[1:28](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=88)** This person responds to breaches and incidents.
 >
@@ -244,23 +241,23 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=145)** It's a great way to start to branch out and build your brand internally.
 >
-> **[2:29](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=149)** Other mid to senior level roles in order of salary include digital forensics investigator.
+> **[2:29](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=149)** Other mid to senior level roles in order of salary include [[Digital Forensics]] investigator.
 >
 > **[2:35](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=155)** These people are investigating break-ins after they occur.
 >
 > **[2:38](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=158)** So think CSI.
 >
-> **[2:39](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=159)** Penetration testing, these are your ethical hackers, the pen testers.
+> **[2:39](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=159)** [[Penetration Testing]], these are your ethical hackers, the pen testers.
 >
 > **[2:44](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=164)** Cyber managers, these folks manage the team of engineers, investigators and testers.
 >
 > **[2:50](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=170)** And the security architect, this person designs, builds, tests and implements security technology in the organization.
 >
-> **[2:58](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=178)** While we can't go into every possible role in cyber, we'd be here all day, I do recommend checking out LinkedIn, Indeed, and job boards for companies you support regularly to see what roles are out there and get a better idea of your options.
+> **[2:58](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/popular-roles-in-cyber-17407221?u=76281980&t=178)** While we can't go into every possible role in cyber, we'd be here all day, I do recommend checking out [[LinkedIn]], Indeed, and job boards for companies you support regularly to see what roles are out there and get a better idea of your options.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (2), career (1), management (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Incident Response]] (1), [[Digital Forensics]] (1), [[Penetration Testing]] (1), [[LinkedIn]] (1)
 > **Env Vars:** nsa (1), soc (1), sim (1), csi (1)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -268,8 +265,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cyberseek demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyberseek-demo-17404554?u=76281980)
+#### [Cyberseek demo](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyberseek-demo-17404554?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyberseek-demo-17404554?u=76281980&t=18)** Cyberseek is a tool created in partnership with CompTIA and Burning Glass Technology, that provides data to help employers, job seekers like you, policy makers, training providers, and more, with details about where the jobs are and who is hiring.
 >
-> **[0:31](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyberseek-demo-17404554?u=76281980&t=31)** Cyberseek uses artificial intelligence to analyze hundreds of millions of job postings across the US.
+> **[0:31](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyberseek-demo-17404554?u=76281980&t=31)** Cyberseek uses [[Artificial Intelligence (AI)|artificial intelligence]] to analyze hundreds of millions of job postings across the US.
 >
 > **[0:37](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyberseek-demo-17404554?u=76281980&t=37)** And displays the roles on a heat map to make it easier to see where hot job locations are.
 >
@@ -309,7 +305,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyberseek-demo-17404554?u=76281980&t=96)** And if you click it and start to scroll down, you'll start to see some interesting information.
 >
-> **[1:42](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyberseek-demo-17404554?u=76281980&t=102)** You'll see the total number of cybersecurity job openings here in the state, as well as the total number of those employed.
+> **[1:42](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyberseek-demo-17404554?u=76281980&t=102)** You'll see the total number of [[Cybersecurity]] job openings here in the state, as well as the total number of those employed.
 >
 > **[1:49](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyberseek-demo-17404554?u=76281980&t=109)** But you'll also see top job titles, cybersecurity analyst, as well as top certifications held, security plus.
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Cybersecurity]] (2), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (3), make (1)
 > **URLs:** [internationaljobs.com](https://internationaljobs.com) (1), [overseasjobs.com](https://overseasjobs.com) (1)
 > **UI Navigation:** click on (1), scroll down (1)
@@ -332,8 +328,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### PIVOT into cyber: A framework to live by
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/pivot-into-cyber-a-framework-to-live-by-17403517?u=76281980)
+#### [PIVOT into cyber: A framework to live by](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/pivot-into-cyber-a-framework-to-live-by-17403517?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -343,13 +338,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/pivot-into-cyber-a-framework-to-live-by-17403517?u=76281980&t=7)** Having a framework or guideline to follow can help you prepare for the move and keep you on track.
 >
-> **[0:13](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/pivot-into-cyber-a-framework-to-live-by-17403517?u=76281980&t=13)** About a year ago, a good friend of mine, Victor Malloy, told me about a method he created for those pivoting into cybersecurity careers.
+> **[0:13](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/pivot-into-cyber-a-framework-to-live-by-17403517?u=76281980&t=13)** About a year ago, a good friend of mine, Victor Malloy, told me about a method he created for those pivoting into [[Cybersecurity Careers]].
 >
 > **[0:20](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/pivot-into-cyber-a-framework-to-live-by-17403517?u=76281980&t=20)** Just as it does in basketball, pivoting in your career means changing directions, and anyone can do it.
 >
 > **[0:26](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/pivot-into-cyber-a-framework-to-live-by-17403517?u=76281980&t=26)** Let's break down Victor's method.
 >
-> **[0:28](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/pivot-into-cyber-a-framework-to-live-by-17403517?u=76281980&t=28)** The P stands for pause, yes, pause, meaning stop and think about what some of your goals are for your life and your career in cybersecurity.
+> **[0:28](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/pivot-into-cyber-a-framework-to-live-by-17403517?u=76281980&t=28)** The P stands for pause, yes, pause, meaning stop and think about what some of your goals are for your life and your career in [[Cybersecurity]].
 >
 > **[0:37](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/pivot-into-cyber-a-framework-to-live-by-17403517?u=76281980&t=37)** This is where you'll figure out your why, and begin to change your mindset to believe you can be successful in this field.
 >
@@ -393,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (7), [[Cybersecurity]] (2), [[Cybersecurity Careers]] (1), hit (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Cybersecurity Careers]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (2)
 > **Analogies:** picture (1)
@@ -405,12 +400,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why do you want to be a cyber professional?
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980)
+#### [Why do you want to be a cyber professional?](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980&t=0)** - [Narrator] From finding the right role to learning the newest and greatest hacking techniques, to navigating the vast amount of training and educational opportunities available, entering the field of cybersecurity can be daunting and even overwhelming.
+> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980&t=0)** - [Narrator] From finding the right role to learning the newest and greatest hacking techniques, to navigating the vast amount of training and educational opportunities available, entering the field of [[Cybersecurity]] can be daunting and even overwhelming.
 >
 > **[0:12](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980&t=12)** Don't go into this field without knowing why you're doing it.
 >
@@ -428,7 +422,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980&t=46)** Knowing your why also helps you create and stick to your SMART goals, specific, measurable, attainable, relatable, and timely.
 >
-> **[0:56](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980&t=56)** If you want to learn more about SMART goals, you can check out courses in LinkedIn.
+> **[0:56](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980&t=56)** If you want to learn more about SMART goals, you can check out courses in [[LinkedIn]].
 >
 > **[1:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980&t=60)** Let's work through a SMART goal example.
 >
@@ -480,7 +474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), next (3), [[LinkedIn]] (1), career (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[LinkedIn]] (1)
 > **Env Vars:** smart (5)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
@@ -489,12 +483,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
-#### Your current skill set has value
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980)
+#### [Your current skill set has value](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=0)** - So a few years ago, before I got into cybersecurity, I used to work in retail at a clothing store.
+> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=0)** - So a few years ago, before I got into [[Cybersecurity]], I used to work in retail at a clothing store.
 >
 > **[0:05](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=5)** And every single year we would do this thing called year end inventory, where we'd document the stuff that we had remaining in the store, the stuff that was sold, and what we needed to purchase for the next year.
 >
@@ -510,7 +503,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=50)** One is to simply write down the skills you know you have in your skillset, such as accounting skills or organizational skills.
 >
-> **[0:57](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=57)** Are you great with Excel, or maybe you've been told you have the ability to motivate people to get the job done.
+> **[0:57](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=57)** Are you great with [[Microsoft Excel|Excel]], or maybe you've been told you have the ability to motivate people to get the job done.
 >
 > **[1:03](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-current-skill-set-has-value-17406278?u=76281980&t=63)** Those are two great skills to have that transfer to cybersecurity.
 >
@@ -546,19 +539,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** cata (1), cati (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### Which roles map to your skill sets?
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980)
+#### [Which roles map to your skill sets?](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=0)** - [Instructor] You've identified your why for wanting to join the cybersecurity workforce.
+> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=0)** - [Instructor] You've identified your why for wanting to join the [[Cybersecurity]] workforce.
 >
 > **[0:03](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=3)** You have an inventory of your current skills and you've started to think about new skills to add to your toolkit.
 >
@@ -566,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=16)** This next step is going to be pivotal to your success and to entering the cybersecurity space.
 >
-> **[0:21](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=21)** One of my favorite places to visit, and one that I recommend to everyone that I talk to that's new to this industry, is the National Initiative for Cybersecurity Careers and Studies, better known as NICCS.
+> **[0:21](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=21)** One of my favorite places to visit, and one that I recommend to everyone that I talk to that's new to this industry, is the National Initiative for [[Cybersecurity Careers]] and Studies, better known as NICCS.
 >
 > **[0:33](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=33)** This interactive website provides a plethora of information around cybersecurity careers, from different roles to the tasks you may do on a daily basis to the knowledge and skills needed for those roles.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=78)** Now you have something to search on to see what roles perform trend analysis.
 >
-> **[1:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=82)** Let's click on the word Skills and start typing trend analysis.
+> **[1:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=82)** Let's click on the [[Microsoft Word|word]] Skills and start typing trend analysis.
 >
 > **[1:28](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=88)** And then we can click on Skill in conducting trend analysis, and click Apply.
 >
@@ -604,7 +596,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=114)** You can see some of the skills that are required, as well as tasks you may do, and capability indicators for entry level, intermediate, and advanced level.
 >
-> **[2:08](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=128)** The other cool part about this is it shows you some training opportunities, such as firewall and network security design, that you can partake in to gain additional skills.
+> **[2:08](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=128)** The other cool part about this is it shows you some training opportunities, such as firewall and [[Network Security]] design, that you can partake in to gain additional skills.
 >
 > **[2:17](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/which-roles-map-to-your-skill-sets-17404553?u=76281980&t=137)** Now that you know how it works, take a look around the site and conduct some additional searches on the skills you've inventoried.
 >
@@ -612,7 +604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Cybersecurity Careers]] (2), next (1), product (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Cybersecurity Careers]] (2), [[Microsoft Word|Word]] (1), [[Network Security]] (1)
 > **Definitions:** known as (1), is called (1), is a  (1)
 > **Env Vars:** niccs (2)
 > **UI Navigation:** click on (2)
@@ -621,12 +613,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** required to (1)
 
-#### What are you missing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980)
+#### [What are you missing?](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=0)** - [Instructor] Remember that the NICCS website lists various skills, education, training, and experience recommended for a role in cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=0)** - [Instructor] Remember that the NICCS website lists various skills, education, training, and experience recommended for a role in [[Cybersecurity]].
 >
 > **[0:09](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=9)** With this knowledge, it's time to think about what additional skills are needed and the timeframe and places to obtain those skills.
 >
@@ -634,13 +625,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=22)** There are a lot of ways to gain the experience and skills you need to enter the cybersecurity industry.
 >
-> **[0:28](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=28)** LinkedIn Learning, where you're currently at, has an awesome library of cybertraining, such as becoming a CompTIA Security Plus certified security professional and becoming an ethical hacker.
+> **[0:28](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=28)** [[LinkedIn]] Learning, where you're currently at, has an awesome library of cybertraining, such as becoming a CompTIA Security Plus certified security professional and becoming an ethical hacker.
 >
 > **[0:40](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=40)** Another free option that's really great is YouTube University.
 >
 > **[0:43](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=43)** YouTube hosts content created by a variety of cybersecurity folks, including a few friends and colleagues of mine.
 >
-> **[0:49](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=49)** Videos on ethical hacking, auditing, and everything in between can be found on YouTube.
+> **[0:49](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=49)** Videos on [[Ethical Hacking]], auditing, and everything in between can be found on YouTube.
 >
 > **[0:53](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=53)** There's also other free online training that you can get through your network and by searching online for free cybersecurity training.
 >
@@ -656,7 +647,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=91)** as well as challenge write-ups.
 >
-> **[1:34](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=94)** And of course, TryHackMe, a website with beginner-friendly cyber challenges that's great for anybody new to the industry.
+> **[1:34](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=94)** And of course, [[TryHackMe]], a website with beginner-friendly cyber challenges that's great for anybody new to the industry.
 >
 > **[1:41](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/what-are-you-missing-17401994?u=76281980&t=101)** I'll go into volunteering a little later, but this is also a great way to gain work experience.
 >
@@ -696,7 +687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[LinkedIn]] (2), [[Security]] (2), [[Ethical Hacking]] (1), teams (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[LinkedIn]] (2), [[Ethical Hacking]] (1), [[TryHackMe]] (1)
 > **Best Practices:** recommended (1), make sure to (1), don't forget (1)
 > **Env Vars:** niccs (1), ctf (1)
 > **CLI Commands:** make (1)
@@ -705,8 +696,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Prerequisites:** you'll need (1)
 
-#### Create your cyber roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/create-your-cyber-roadmap-17407225?u=76281980)
+#### [Create your cyber roadmap](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/create-your-cyber-roadmap-17407225?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +742,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/create-your-cyber-roadmap-17407225?u=76281980&t=108)** Talk to others in the field and see what their journey looked like.
 >
-> **[1:51](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/create-your-cyber-roadmap-17407225?u=76281980&t=111)** Take a look at LinkedIn and search for those in similar roles you're interested in.
+> **[1:51](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/create-your-cyber-roadmap-17407225?u=76281980&t=111)** Take a look at [[LinkedIn]] and search for those in similar roles you're interested in.
 >
 > **[1:55](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/create-your-cyber-roadmap-17407225?u=76281980&t=115)** Look at their career journey.
 >
@@ -778,7 +768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), career (2), [[LinkedIn]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gps (1), ciso (1), smart (1)
 > **Speakers:** - [instructor] (1)
@@ -788,8 +778,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Marketing your skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980)
+#### [Marketing your skills](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,13 +804,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=44)** And here's how to do it.
 >
-> **[0:47](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=47)** One of the places that I started was on LinkedIn.
+> **[0:47](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=47)** One of the places that I started was on [[LinkedIn]].
 >
-> **[0:49](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=49)** My first article was My First Cyber Competition, where I talked briefly about my experiences upon entering the cybersecurity space.
+> **[0:49](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=49)** My first article was My First Cyber Competition, where I talked briefly about my experiences upon entering the [[Cybersecurity]] space.
 >
 > **[0:57](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=57)** LinkedIn is a great place for you to get started too.
 >
-> **[1:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=60)** If you're going down the path of learning a programming language, like Python, write articles about your journey.
+> **[1:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=60)** If you're going down the path of learning a programming language, like [[Python (Programming Language)|Python]], write articles about your journey.
 >
 > **[1:06](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=66)** You can even vlog, video blogging, your progress on YouTube.
 >
@@ -831,7 +820,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=78)** You can take this a step further and actually conduct video walkthroughs of the various challenges that you've completed.
 >
-> **[1:24](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=84)** Another avenue to showcase your learning and skills is to create a GitHub page.
+> **[1:24](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=84)** Another avenue to showcase your learning and skills is to create a [[GitHub]] page.
 >
 > **[1:28](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980&t=88)** GitHub is a site that allows users to store and collaborate on projects they're working on.
 >
@@ -849,7 +838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[LinkedIn]] (3), leadership (1), [[Cybersecurity]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[LinkedIn]] (3), [[Cybersecurity]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (4)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** python (1)
@@ -858,12 +847,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - so (1)
 
-#### Volunteering for success
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/volunteering-for-success-17402937?u=76281980)
+#### [Volunteering for success](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/volunteering-for-success-17402937?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/volunteering-for-success-17402937?u=76281980&t=0)** - [Narrator] In cybersecurity, as in many industries it's often said that you need experience to get a job, but you can't get a job without experience.
+> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/volunteering-for-success-17402937?u=76281980&t=0)** - [Narrator] In [[Cybersecurity]], as in many industries it's often said that you need experience to get a job, but you can't get a job without experience.
 >
 > **[0:09](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/volunteering-for-success-17402937?u=76281980&t=9)** The classic chicken and egg situation of which came first.
 >
@@ -909,13 +897,13 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/volunteering-for-success-17402937?u=76281980&t=152)** Such as, the IT and Security Volunteer Role.
 >
-> **[2:35](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/volunteering-for-success-17402937?u=76281980&t=155)** And don't forget to add your volunteer work to your resume, as well as your LinkedIn profile.
+> **[2:35](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/volunteering-for-success-17402937?u=76281980&t=155)** And don't forget to add your volunteer work to your resume, as well as your [[LinkedIn]] profile.
 >
 > **[2:42](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/volunteering-for-success-17402937?u=76281980&t=162)** Employers like to see that you are also doing things outside of work to gain experience and keep your skills up.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (2), leadership (1), hit (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[LinkedIn]] (1)
 > **Env Vars:** pii (1), issa (1), isaca (1), fbi (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
@@ -928,8 +916,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building your network
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/building-your-network-17406277?u=76281980)
+#### [Building your network](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/building-your-network-17406277?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -943,7 +930,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/building-your-network-17406277?u=76281980&t=32)** By now, you should have at least four entry points to start building your network and cultivating the relationships you need.
 >
-> **[0:38](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/building-your-network-17406277?u=76281980&t=38)** Of course, one of my favorite places to start building is through LinkedIn.
+> **[0:38](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/building-your-network-17406277?u=76281980&t=38)** Of course, one of my favorite places to start building is through [[LinkedIn]].
 >
 > **[0:42](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/building-your-network-17406277?u=76281980&t=42)** So I hope your profile is updated with all the great things you've been doing and want to do in the cyberspace.
 >
@@ -989,24 +976,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), career (2), [[Search]] (1), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** similar to (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Mentoring with a purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980)
+#### [Mentoring with a purpose](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=0)** - So I had a mentor tell me that if I wanted to lead in cybersecurity, I needed to tell my story.
+> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=0)** - So I had a mentor tell me that if I wanted to lead in [[Cybersecurity]], I needed to tell my story.
 >
 > **[0:05](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=5)** When she told me that, I kind of looked at her like, "Mm, I don't think so," because I didn't think that my story resonated with other folks coming up in the industry.
 >
 > **[0:14](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=14)** I hadn't been hacking since I was 12 and I hadn't been tinkering with computers in that sense until I became an adult.
 >
-> **[0:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=22)** But by sharing my story through LinkedIn and through conversations with others, people started to resonate with what I was saying and where I had come from.
+> **[0:22](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=22)** But by sharing my story through [[LinkedIn]] and through conversations with others, people started to resonate with what I was saying and where I had come from.
 >
 > **[0:32](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=32)** Doing that led to paid speaking engagements, webinars, advisory board offers, even chapters in books that I was able to write.
 >
@@ -1014,7 +1000,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=48)** Mentorship is a relationship between two people where the individual with more experience, knowledge and connections passes along what they've learned to a more junior individual within a certain field.
 >
-> **[1:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=60)** Let's say you have an interest in becoming a security operations center analyst, a SOC analyst.
+> **[1:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=60)** Let's say you have an interest in becoming a [[Security Operations]] center analyst, a SOC analyst.
 >
 > **[1:05](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/mentoring-with-a-purpose-17407224?u=76281980&t=65)** Your mentor can provide you with resources such as cyber competitions and training to help improve your skills.
 >
@@ -1070,7 +1056,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), career (2), [[LinkedIn]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[LinkedIn]] (1), [[Security Operations]] (1)
 > **Analogies:** such as (1), for example (1), just like (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** soc (2)
@@ -1084,16 +1070,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding a role that fits your skills and goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980)
+#### [Finding a role that fits your skills and goals](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980&t=0)** - [Instructor] Now that you know what your current skill sets are and what gaps you may have and which roles fit your skills, it's time to find those open roles.
 >
-> **[0:09](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980&t=9)** There are multiple ways to find open roles in cybersecurity.
+> **[0:09](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980&t=9)** There are multiple ways to find open roles in [[Cybersecurity]].
 >
-> **[0:12](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980&t=12)** LinkedIn is an excellent place to look for them for a few reasons.
+> **[0:12](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980&t=12)** [[LinkedIn]] is an excellent place to look for them for a few reasons.
 >
 > **[0:15](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980&t=15)** One, because your profile is already built, and you can apply directly to roles in LinkedIn.
 >
@@ -1147,7 +1132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Cybersecurity]] (3), leadership (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Cybersecurity]] (3)
 > **CLI Commands:** find (6)
 > **Definitions:** is an  (2)
 > **Env Vars:** nice (1)
@@ -1155,8 +1140,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Acing your interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/acing-your-interview-17402936?u=76281980)
+#### [Acing your interview](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/acing-your-interview-17402936?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1164,7 +1148,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/acing-your-interview-17402936?u=76281980&t=4)** I'd think about what questions they were going to ask and what scenarios I could use to answer open-ended questions.
 >
-> **[0:10](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/acing-your-interview-17402936?u=76281980&t=10)** Interviewing can be scary, but with preparation you'll feel more confident going in and will ace that cyber interview.
+> **[0:10](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/acing-your-interview-17402936?u=76281980&t=10)** [[Interviewing]] can be scary, but with preparation you'll feel more confident going in and will ace that cyber interview.
 >
 > **[0:16](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/acing-your-interview-17402936?u=76281980&t=16)** Here's how we do that.
 >
@@ -1202,7 +1186,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/acing-your-interview-17402936?u=76281980&t=101)** For example, Acme corporation.
 >
-> **[1:44](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/acing-your-interview-17402936?u=76281980&t=104)** Use sites like LinkedIn and Google to find information about the company and the interviewers.
+> **[1:44](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/acing-your-interview-17402936?u=76281980&t=104)** Use sites like [[LinkedIn]] and [[Google]] to find information about the company and the interviewers.
 >
 > **[1:50](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/acing-your-interview-17402936?u=76281980&t=110)** Interviewers will ask what you know about the company and having some knowledge will help you stand out from others.
 >
@@ -1276,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (4), job description (1), management (1), next (1), open-source (1)
+> **Frameworks & Libraries:** [[Interviewing]] (4), [[LinkedIn]] (1), [[Google]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Analogies:** for example (2), such as (2)
 > **URLs:** [infosecinstitute.com](https://infosecinstitute.com) (1), [edureka.co](https://edureka.co) (1)
@@ -1285,8 +1269,7 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1), remember to (1)
 > **Definitions:** we call this (1)
 
-#### Negotiating your benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/negotiating-your-benefits-17401992?u=76281980)
+#### [Negotiating your benefits](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/negotiating-your-benefits-17401992?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1308,7 +1291,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/negotiating-your-benefits-17401992?u=76281980&t=45)** The first thing you need to do, research average salaries for interested roles.
 >
-> **[0:50](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/negotiating-your-benefits-17401992?u=76281980&t=50)** Sites like LinkedIn Salary Insight, [cyberseek.org](https://cyberseek.org), and Glassdoor have a wide variety of salary information based on what people in the cyber industry have reported.
+> **[0:50](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/negotiating-your-benefits-17401992?u=76281980&t=50)** Sites like [[LinkedIn]] Salary Insight, [cyberseek.org](https://cyberseek.org), and Glassdoor have a wide variety of salary information based on what people in the cyber industry have reported.
 >
 > **[1:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/negotiating-your-benefits-17401992?u=76281980&t=60)** This gives you an idea of what's being paid.
 >
@@ -1358,7 +1341,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/negotiating-your-benefits-17401992?u=76281980&t=176)** If they don't, do they provide funding to seek this out?
 >
-> **[3:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/negotiating-your-benefits-17401992?u=76281980&t=180)** Other things to consider during the negotiation process include stock options, sign on bonuses and extra time off, healthcare benefits, home office reimbursement, mental health support, speaking opportunities, work-from-home benefits, maternity or paternity leave.
+> **[3:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/negotiating-your-benefits-17401992?u=76281980&t=180)** Other things to consider during the negotiation process include stock options, sign on bonuses and extra time off, healthcare benefits, home [[Microsoft Office|office]] reimbursement, mental health support, speaking opportunities, work-from-home benefits, maternity or paternity leave.
 >
 > **[3:16](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/negotiating-your-benefits-17401992?u=76281980&t=196)** Lots of options here.
 >
@@ -1384,7 +1367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), career (2), [[LinkedIn]] (1), [[Microsoft Office|Office]] (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [cyberseek.org](https://cyberseek.org) (1)
 > **Warnings:** be aware (1)
@@ -1396,12 +1379,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue to grow
-> [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980)
+#### [Continue to grow](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980&t=0)** - [Instructor] Congratulations, you made it this far and you're well on your way to landing the role you desire in cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980&t=0)** - [Instructor] Congratulations, you made it this far and you're well on your way to landing the role you desire in [[Cybersecurity]].
 >
 > **[0:06](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980&t=6)** With your tools in hand, I want you to think about the impact you can make in your current role and in the cybersecurity industry as a whole.
 >
@@ -1409,13 +1391,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980&t=19)** I encourage you to ask questions in the course Q&A, as your questions may help someone else looking to launch their career in cybersecurity.
 >
-> **[0:26](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980&t=26)** Thank you for taking this journey with me and be sure to connect with me on LinkedIn and check out [womenscyberjutsu.org](https://womenscyberjutsu.org) for more on your cybersecurity journey.
+> **[0:26](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980&t=26)** Thank you for taking this journey with me and be sure to connect with me on [[LinkedIn]] and check out [womenscyberjutsu.org](https://womenscyberjutsu.org) for more on your cybersecurity journey.
 >
 > **[0:36](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980&t=36)** I look forward to seeing where your career in cyber can take you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), career (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [womenscyberjutsu.org](https://womenscyberjutsu.org) (1)
 > **Speakers:** - [instructor] (1)
